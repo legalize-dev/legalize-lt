@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2004-05-01"
+last_updated: "2004-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2004-09-30
+Suvestinė redakcija nuo 2004-10-01 iki 2004-11-16
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -256,7 +256,13 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 
 17) su vertybinių popierių emisijomis susijusių paslaugų teikimas;
 
-18) elektroninių pinigų išleidimas ir tvarkymas.
+18) elektroninių pinigų išleidimas ir tvarkymas;
+
+19) investicinių fondų ar investicinių kintamojo kapitalo bendrovių administravimas.
+
+Papildyta straipsnio punktu:
+
+Nr. IX-1720, 2003-07-04, Žin., 2003, Nr. 74-3435 (2003-07-25), i. k. 1031010ISTA0IX-1720
 
 2. Licencines finansines paslaugas nustato Lietuvos Respublikos įstatymai.
 
@@ -1243,4 +1249,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
 
 Lietuvos Respublikos finansų įstaigų įstatymo 2, 4, 45 straipsnių pakeitimo ir papildymo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1720, 2003-07-04, Žin., 2003, Nr. 74-3435 (2003-07-25), i. k. 1031010ISTA0IX-1720
+
+Lietuvos Respublikos finansų įstaigų įstatymo 3 straipsnio papildymo įstatymas
 
