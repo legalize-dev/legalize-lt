@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2003-10-07"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -102,7 +102,9 @@ Straipsnio pakeitimai:
 
 Nr. IX-869,
 
-2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24), įstatymas neteko galios nuo
+
+2004-01-01
 
 Nr. IX-1831,
 
@@ -144,7 +146,7 @@ Nr. VIII-1188,
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 Nr. IX-546,
 
@@ -152,7 +154,9 @@ Nr. IX-546,
 
 Nr. IX-869,
 
-2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24), įstatymas neteko galios nuo
+
+2004-01-01
 
 Nr. IX-1831,
 
@@ -210,15 +214,15 @@ Nr. VIII-1188,
 
 Nr. VIII-1705, 00.05.23, Žin., 2000,
 
-Nr.45-1299 (00.06.02), neteko galios nuo 2001.01.01
+Nr.45-1299 (00.06.02)
 
 Nr. IX-98, 2000 12 20, Žin., 2000, Nr.
 
-111-3570 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3570 (2000 12 29)
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 4 straipsnis. Asmenys, privalomai
 
@@ -234,9 +238,9 @@ darbo sutartis, einantys narystės pagrindu renkamąsias pareigas renkamose
 
 organizacijose, dirbantys žemės ūkio bendrovėse arba kooperatinėse
 
-organizacijose, kandidatai į notarus (asesoriai), valstybės tarnautojai (išskyrus
+organizacijose, kandidatai į notarus (asesoriai), valstybės tarnautojai
 
-valstybės tarnautojus, nurodytus šios dalies 3 ir 5 punktuose);
+(išskyrus valstybės tarnautojus, nurodytus šios dalies 3 ir 5 punktuose);
 
 2) valstybės politikai, Konstitucinio
 
@@ -264,13 +268,13 @@ draudžiami tuo atveju, jei jie gauna atlyginimą už darbą;
 
 ministerijos, policijos, Valstybės sienos apsaugos tarnybos ir kitų vidaus
 
-reikalų įstaigų pareigūnai, vidaus tarnybos dalinių karininkai, liktinės tarnybos
+reikalų įstaigų pareigūnai, vidaus tarnybos dalinių karininkai, liktinės
 
-puskarininkiai ir kariai, Specialiųjų tyrimų tarnybos ir Kalėjimų departamento
+tarnybos puskarininkiai ir kariai, Specialiųjų tyrimų tarnybos ir Kalėjimų
 
-prie Lietuvos Respublikos teisingumo ministerijos bei jam pavaldžių įstaigų ir
+departamento prie Lietuvos Respublikos teisingumo ministerijos bei jam
 
-valstybės įmonių pareigūnai;
+pavaldžių įstaigų ir valstybės įmonių pareigūnai;
 
 4) profesinės karo tarnybos kariai ir
 
@@ -394,7 +398,7 @@ Nr.28-763 (00.04.05)
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 Nr. IX-546,
 
@@ -402,7 +406,7 @@ Nr. IX-546,
 
 Nr. IX-615,
 
-2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07), įsigalioja nuo 2002 01 01
+2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07)
 
 Nr. IX-1246,
 
@@ -444,7 +448,7 @@ Nr. VIII-1086,
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 7 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
@@ -466,7 +470,7 @@ Nr.28-763 (00.04.05)
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 8 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
@@ -484,7 +488,7 @@ Nr. I-1062,
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 9 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
@@ -498,7 +502,7 @@ Nr. I-676,
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 10 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
@@ -516,7 +520,7 @@ Nr. I-1062,
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 11 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
@@ -534,7 +538,7 @@ Nr. I-1024,
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 12 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
@@ -548,7 +552,7 @@ Nr. I-676,
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 13 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
@@ -562,7 +566,7 @@ Nr. I-676,
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 14 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
@@ -576,19 +580,19 @@ Nr. I-676,
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 15 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 16 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 2. Motinystės (tėvystės) pašalpa
 
@@ -612,7 +616,7 @@ Nr.28-763 (00.04.05)
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 3. Pašalpa vaiko priežiūrai
 
@@ -650,7 +654,7 @@ Nr.45-1299 (00.06.02), neteko galios  nuo 2001.01.01
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 21 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
@@ -664,7 +668,7 @@ Nr.45-1299 (00.06.02), neteko galios nuo 2001.01.01
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 23 straipsnis. Neteko galios.
 
@@ -710,7 +714,9 @@ Nr. I-2501,
 
 Nr. I-869,
 
-95.04.27, Žin., 1995, Nr. 36-889 (95.05.03)
+95.04.27, Žin., 1995, Nr. 36-889 (95.05.03), įstatymas neteko galios nuo
+
+2004-01-01
 
 Nr. I-1369,
 
@@ -736,7 +742,7 @@ Nr.28-763 (00.04.05)
 
 Nr. IX-98, 2000 12 20, Žin., 2000, Nr.
 
-111-3570 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3570 (2000 12 29)
 
 27 straipsnis. Neteko galios nuo 2001 m. sausio 1 d.
 
@@ -750,7 +756,7 @@ Nr. I-1369,
 
 Nr. IX-98, 2000 12 20, Žin., 2000, Nr.
 
-111-3570 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3570 (2000 12 29)
 
 IV SKYRIUS. VALSTYBINIO SOCIALINIO DRAUDIMO ĮMOKOS,
 
@@ -874,9 +880,9 @@ Nr. VIII-1188,
 
 99.05.18, Žin., 1999, Nr.50-1599 (99.06.09)
 
-Nr. IX-546,
+Nr. IX-546, 2001-10-11,
 
-2001-10-11, Žin., 2001, Nr. 91-3189 (2001-10-26)
+Žin., 2001, Nr. 91-3189 (2001-10-26)
 
 33 straipsnis. Valstybinio socialinio draudimo įmokų administravimas1. Valstybinė mokesčių inspekcija, administruodama valstybinio socialinio draudimo įmokas:1) Mokesčių administravimo įstatymo nustatyta tvarka registruoja draudėjus; 2) Mokesčių administravimo įstatymo nustatyta tvarka tikrina draudėjų ir apdraustųjų valstybinio socialinio draudimo įmokų apskaičiavimą, taip pat tikrina šių įmokų sumokėjimą, kiek tai susiję su tikrinamais draudėjais ir apdraustaisiais; 3) atstovauja valstybės ir Valstybinio socialinio draudimo fondo interesams įmonėse, viešosiose įstaigose, kurioms iškeltos bankroto ar restruktūrizavimo bylos pagal Įmonių bankroto įstatymo ir Įmonių restruktūrizavimo įstatymo suteiktas kreditoriaus teises Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir Valstybinio socialinio draudimo fondo valdybos abipusio susitarimo pagrindu;4) nagrinėja mokestinius ginčus dėl Valstybinės mokesčių inspekcijos pareigūnų patikrinimo metu apskaičiuotų valstybinio socialinio draudimo įmokų sumų, paskirtų baudų, apskaičiuotų delspinigių Mokesčių administravimo įstatymo nustatyta tvarka. 2. Valstybinio socialinio draudimo fondo valdyba ir valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai, administruodami valstybinio socialinio draudimo įmokas:1) kontroliuoja valstybinio socialinio draudimo įmokų, baudų ir delspinigių sumokėjimą pagal draudėjų finansinių ataskaitų duomenis, taip pat ir Valstybinės mokesčių inspekcijos patikrinimo metu nustatytų nesumokėtų įmokų sumų, apskaičiuotų delspinigių bei paskirtų baudų sumokėjimą ir asmenų, kurie valstybiniu socialiniu draudimu draudžiasi savanoriškai, valstybinio socialinio draudimo įmokų apskaičiavimą bei sumokėjimą;2) išieško nesumokėtas įmokas, baudas ir delspinigius;3) Vyriausybės nustatyta tvarka atideda valstybinio socialinio draudimo įmokų įsiskolinimo sumokėjimo terminą;4) Vyriausybės nustatyta tvarka atideda draudėjui apskaičiuotų delspinigių ir baudų sumokėjimo terminą arba atleidžia nuo jų mokėjimo.3. Valstybinio socialinio draudimo fondo valdyba kartu su Valstybine mokesčių inspekcija pagal šio straipsnio 1 ir 2 dalyse nustatytą kompetenciją kontroliuoja valstybinio socialinio draudimo įmokų apskaičiavimą ir sumokėjimą. Šių įmokų apskaičiavimo ir sumokėjimo kontrolės srityje bendradarbiavimo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos kartu su Valstybinio socialinio draudimo fondo valdyba.
 
@@ -1014,9 +1020,9 @@ pajamų mokesčio sumą, yra mažesnė už 12 minimalių
 
 mėnesinių algų ir šie asmenys:
 
-1) yra Valstybinio socialinio draudimo
+1) yra Valstybinio socialinio draudimo fondo
 
-fondo pensininkai;
+pensininkai;
 
 2) yra I ar II grupės invalidai nuo
 
@@ -1120,17 +1126,17 @@ Nr. VIII-1788, 00.07.04, Žin., 2000,
 
 Nr.56-1652 (00.07.12)
 
-Nr. IX-546, 2001-10-11,
+Nr. IX-546,
 
-Žin., 2001, Nr. 91-3189 (2001-10-26)
+2001-10-11, Žin., 2001, Nr. 91-3189 (2001-10-26)
 
 Nr. IX-615,
 
-2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07), įsigalioja nuo 2002 01 01
+2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07)
 
-Nr. IX-869,
+Nr. IX-869, 2002-05-07,
 
-2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+Žin., 2002, Nr. 52-1983 (2002-05-24), įstatymas neteko galios nuo 2004-01-01
 
 Nr. IX-1029,
 
@@ -1254,11 +1260,11 @@ fondo valdybos teritorinių skyrių surenkamąsias sąskaitas.
 
 9. Valstybės
 
-biudžeto asignavimų valdytojai šio įstatymo 4 straipsnio 1 dalies 9 ir 10 punktuose
+biudžeto asignavimų valdytojai šio įstatymo 4 straipsnio 1 dalies 9 ir 10
 
-išvardytų asmenų socialiniam draudimui skirtas lėšas perveda tiesiogiai į
+punktuose išvardytų asmenų socialiniam draudimui skirtas lėšas perveda
 
-Valstybinio socialinio draudimo fondo biudžetą.
+tiesiogiai į Valstybinio socialinio draudimo fondo biudžetą.
 
 10. Valstybės
 
@@ -1312,11 +1318,13 @@ Nr. IX-546,
 
 Nr. IX-615,
 
-2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07), įsigalioja nuo 2002 01 01
+2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07)
 
 Nr. IX-869,
 
-2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24), įstatymas neteko galios nuo
+
+2004-01-01
 
 Nr. IX-1831,
 
@@ -1388,7 +1396,9 @@ Nr. IX-546,
 
 Nr. IX-869,
 
-2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24), įstatymas neteko galios nuo
+
+2004-01-01
 
 Nr.
 
@@ -1582,9 +1592,9 @@ Pirmiausia sumokamos privalomosios įmokos, po to - baudos, o vėliausiai -
 
 delspinigiai. Apskaičiuoti arba perskaičiuoti galima ne daugiau kaip penkerių
 
-praėjusių kalendorinių metų valstybinio socialinio draudimo fondui priklausančias
+praėjusių kalendorinių metų valstybinio socialinio draudimo fondui
 
-įmokas.
+priklausančias įmokas.
 
 9. Patikrinimo metu apskaičiuotos įmokos, baudos ir
 
@@ -1622,7 +1632,9 @@ Nr. IX-546,
 
 Nr. IX-869,
 
-2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24), įstatymas neteko galios nuo
+
+2004-01-01
 
 Nr. IX-1831,
 
@@ -1634,15 +1646,15 @@ Valstybinio socialinio draudimo įstaigų delspinigiai
 
 Valstybinio socialinio draudimo įstaigos
 
-moka delspinigius už draudėjams pavėluotai pervestas lėšas Valstybinio
+moka delspinigius už draudėjams pavėluotai pervestas lėšas Valstybinio socialinio
 
-socialinio draudimo fondo išmokoms (ligos bei motinystės pašalpoms).
+draudimo fondo išmokoms (ligos bei motinystės pašalpoms). Delspinigių dydis
 
-Delspinigių dydis nustatomas pagal finansų ministro nustatytą normą, taikomą už
+nustatomas pagal finansų ministro nustatytą normą, taikomą už pavėluotą
 
-pavėluotą mokesčių mokėjimą. Delspinigiai pradedami skaičiuoti nuo tos dienos,
+mokesčių mokėjimą. Delspinigiai pradedami skaičiuoti nuo tos dienos, kurią
 
-kurią draudėjas, nustatytu laiku iš fondo negavęs lėšų, išmokėjo šią išmoką jos
+draudėjas, nustatytu laiku iš fondo negavęs lėšų, išmokėjo šią išmoką jos
 
 gavėjui iš savo lėšų, ir skaičiuojami, iki bus pervestos lėšos už šią išmoką.
 
@@ -1802,7 +1814,7 @@ Nr.58-1714 (00.07.19)
 
 Nr. IX-1247,
 
-2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
 
 42
 
@@ -1926,15 +1938,17 @@ Nr. VIII-1188,
 
 Nr. IX-869,
 
-2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24), įstatymas neteko galios nuo
 
-Nr. IX-893, 2002-05-21,
+2004-01-01
 
-Žin., 2002, Nr. 56-2226 (2002-06-07)
+Nr. IX-893,
 
-Nr. IX-1213,
+2002-05-21, Žin., 2002, Nr. 56-2226 (2002-06-07)
 
-2002-12-03, Žin., 2002, Nr. 123-5509 (2002-12-24)
+Nr. IX-1213, 2002-12-03,
+
+Žin., 2002, Nr. 123-5509 (2002-12-24)
 
 41 straipsnis.
 
@@ -2226,39 +2240,43 @@ Nr. I-676,
 
 Nr. IX-869,
 
-2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24), įstatymas neteko galios nuo
+
+2004-01-01
 
 44 straipsnis. Draudėjų pareigos
 
-Visi draudėjai, kurie turi mokėti
+1. Visi draudėjai, kurie turi mokėti valstybinio
 
-valstybinio socialinio draudimo įmokas už draudžiamuosius, išvardintus šio
+socialinio draudimo įmokas už save ir už draudžiamus asmenis, išvardytus šio
 
-įstatymo 4 straipsnio 1 dalies 1 ir 2 punktuose, taip pat 4 straipsnio 1 dalies
+įstatymo 4 straipsnio 1 dalies 1-8 punktuose, privalo
 
-6, 7 ir 8 punktuose nurodyti asmenys privalo registruotis Valstybinio
+registruotis teritorinėse valstybinėse mokesčių inspekcijose Mokesčių
 
-socialinio draudimo fondo valdybos teritoriniuose skyriuose.
+administravimo įstatymo nustatyta tvarka.
 
-Draudėjai yra atsakingi už teisingą ir
+2. Draudėjai yra atsakingi už teisingą ir
 
 laiku atliekamą valstybinio socialinio draudimo įmokų priskaičiavimą ir
 
 įmokėjimą į valstybinio socialinio draudimo fondo biudžetą.
 
-Draudėjai išmoka apdraustiesiems
+3. Draudėjai išmoka apdraustiesiems
 
-valstybinio socialinio draudimo pašalpas Valstybinio socialinio draudimo
+valstybinio socialinio draudimo pašalpas Valstybinio socialinio draudimo pašalpų
 
-pašalpų nuostatų numatyta tvarka.
+nuostatų numatyta tvarka.
 
-Draudėjai teikia
+4. Draudėjai
 
-valstybinio socialinio draudimo lėšų finansines apyskaitas ir informaciją apie
+teikia valstybinio socialinio draudimo lėšų finansines apyskaitas ir
 
-apdraustųjų valstybinio socialinio draudimo laikotarpius bei draudžiamąsias
+informaciją apie apdraustųjų valstybinio socialinio draudimo laikotarpius bei
 
-pajamas ir valstybinio socialinio draudimo įmokas Vyriausybės nustatyta tvarka.
+draudžiamąsias pajamas ir valstybinio socialinio draudimo įmokas Vyriausybės
+
+nustatyta tvarka.
 
 Straipsnio
 
@@ -2272,9 +2290,11 @@ Nr. VIII-1573, 00.03.16, Žin., 2000,
 
 Nr.28-763 (00.04.05)
 
-Nr. IX-869, 2002-05-07,
+Nr. IX-869,
 
-Žin., 2002, Nr. 52-1983 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24), įstatymas neteko galios nuo
+
+2004-01-01
 
 Nr. IX-1831,
 
@@ -2294,13 +2314,13 @@ jos administruojamos įmokos ir išmokos.
 
 funkcijas, Valstybinio socialinio draudimo fondo įstaigų pareigūnai turi teisę:
 
-1) gauti iš Valstybinės mokesčių
+1) gauti iš Valstybinės mokesčių inspekcijos,
 
-inspekcijos, įmonių, įstaigų bei organizacijų ir kitų asmenų, įskaitant bankus
+įmonių, įstaigų bei organizacijų ir kitų asmenų, įskaitant bankus ir kitas
 
-ir kitas kredito bei finansų įstaigas, pareigoms atlikti reikalingus duomenis
+kredito bei finansų įstaigas, pareigoms atlikti reikalingus duomenis bei
 
-bei dokumentų nuorašus apie tikrinamo juridinio, fizinio asmens ūkinę-finansinę
+dokumentų nuorašus apie tikrinamo juridinio, fizinio asmens ūkinę-finansinę
 
 veiklą;
 
@@ -2310,13 +2330,13 @@ vykdo prievoles Valstybinio socialinio draudimo fondo biudžetui ar kaip mokamos
 
 išmokos iš Valstybinio socialinio draudimo fondo biudžeto lėšų, be išankstinio
 
-įspėjimo, pateikę tarnybinį pažymėjimą, įeiti į draudėjo patalpas ar
+įspėjimo, pateikę tarnybinį pažymėjimą, įeiti į draudėjo patalpas ar teritoriją,
 
-teritoriją, susijusias su jų veikla (įskaitant ir nuomojamas). Be išankstinio
+susijusias su jų veikla (įskaitant ir nuomojamas). Be išankstinio įspėjimo
 
-įspėjimo įeiti į draudėjo patalpas ar teritoriją (įskaitant ir nuomojamas)
+įeiti į draudėjo patalpas ar teritoriją (įskaitant ir nuomojamas) galima tik
 
-galima tik draudėjo darbo metu. Kitais atvejais reikia draudėjo sutikimo;
+draudėjo darbo metu. Kitais atvejais reikia draudėjo sutikimo;
 
 3) paimti laikinai – iki 30 dienų – iš draudėjo
 
@@ -2472,7 +2492,9 @@ Nr.99-2844 (99.11.24)
 
 Nr. IX-869,
 
-2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24), įstatymas neteko galios nuo
+
+2004-01-01
 
 Nr. IX-1831,
 
@@ -2670,13 +2692,13 @@ Valstybinės mokesčių inspekcijos pareigūnų patikrinimo metu apskaičiuotų
 
 valstybinio socialinio draudimo įmokų sumų, paskirtų baudų, apskaičiuotų
 
-delspinigių nagrinėjami Mokesčių administravimo įstatymo nustatyta tvarka.
+delspinigių nagrinėjami Mokesčių administravimo įstatymo nustatyta tvarka. Skundai
 
-Skundai dėl kitų Valstybinės mokesčių inspekcijos pareigūnų veiksmų, susijusių
+dėl kitų Valstybinės mokesčių inspekcijos pareigūnų veiksmų, susijusių su šio
 
-su šio įstatymo 33 straipsnio 1 dalyje nustatytų administravimo funkcijų
+įstatymo 33 straipsnio 1 dalyje nustatytų administravimo funkcijų atlikimu,
 
-atlikimu, nagrinėjami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+nagrinėjami Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 Straipsnio
 
@@ -2688,15 +2710,19 @@ Nr. I-676,
 
 Nr. IX-615,
 
-2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07), įsigalioja nuo 2002 01 01
+2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07)
 
 Nr. IX-869,
 
-2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24), įstatymas neteko galios nuo
+
+2004-01-01
 
 Nr. IX-1229,
 
-2002-12-10, Žin., 2002, Nr. 123-5521 (2002-12-24)
+2002-12-10, Žin., 2002, Nr. 123-5521 (2002-12-24), įstatymas neteko galios nuo
+
+2004-01-01
 
 Nr. IX-1831,
 
@@ -2904,7 +2930,9 @@ STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 13.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. VIII-964,
 
@@ -3126,9 +3154,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. IX-546,
+Nr. IX-546, 2001-10-11,
 
-2001-10-11, Žin., 2001, Nr. 91-3189 (2001-10-26)
+Žin., 2001, Nr. 91-3189 (2001-10-26)
 
 VALSTYBINIO SOCIALINIO DRAUDIMO
 
@@ -3148,21 +3176,19 @@ biudžetą faktiškai sumokėtas sumas.
 
 2. Į ūkininkų
 
-ūkių registrą nepersiregistravę ūkininkai atleidžiami nuo nesumokėtų valstybinio
+ūkių registrą nepersiregistravę ūkininkai atleidžiami nuo nesumokėtų
 
-socialinio draudimo įmokų, delspinigių ir baudų mokėjimo už laikotarpį nuo 2000
+valstybinio socialinio draudimo įmokų, delspinigių ir baudų mokėjimo už
 
-m. sausio 1 d. iki 2001 m. kovo 1 d.
+laikotarpį nuo 2000 m. sausio 1 d. iki 2001 m. kovo 1 d.
 
 3. Individualių (personalinių)
 
-įmonių savininkai, ūkininkai bei patentus įsigiję asmenys, sukakę senatvės
+įmonių savininkai, ūkininkai bei patentus įsigiję asmenys, sukakę senatvės pensijos
 
-pensijos amžių ir gaunantys šalpos (socialinę) pensiją, atleidžiami nuo
+amžių ir gaunantys šalpos (socialinę) pensiją, atleidžiami nuo nesumokėtų
 
-nesumokėtų valstybinio socialinio draudimo įmokų, delspinigių ir baudų
-
-mokėjimo.
+valstybinio socialinio draudimo įmokų, delspinigių ir baudų mokėjimo.
 
 26.
 
@@ -3170,9 +3196,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. IX-615, 2001-11-20,
+Nr. IX-615,
 
-Žin., 2001, Nr. 103-3657 (2001-12-07)
+2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07)
 
 VALSTYBINIO SOCIALINIO DRAUDIMO
 
@@ -3436,7 +3462,7 @@ Nr. VIII-1086,
 
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 
-111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
+111-3577 (2000 12 29)
 
 III SKYRIUS. GYDYMO IR PROFILAKTIKOS IŠMOKOS
 
