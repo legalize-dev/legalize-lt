@@ -4,7 +4,7 @@ identifier: "TAR.EC01522BCE65"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-03"
-last_updated: "1998-12-16"
+last_updated: "2001-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
+
+Suvestinė redakcija nuo 2001-01-01 iki 2001-05-08
+
+Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
 
 LIETUVOS RESPUBLIKOS SEIMO KONTROLIERIŲ Į S T A T Y M A S
 
@@ -371,7 +375,11 @@ Seimo kontrolieriai, vykdydami savo funkcijas, vadovaujasi Lietuvos Respublikos 
 
 8) siūlyti Seimui, Vyriausybei ar kitoms valstybės institucijoms, kad būtų pakeisti įstatymai ar kiti norminiai aktai, varžantys žmogaus teises ir laisves.
 
-2. Seimo kontrolierių padėjėjai yra valdininkai. Tirdami skundą Seimo kontrolieriaus pavedimu, jie turi šio straipsnio 1 dalies 1-4 punktuose išvardytas teises, išskyrus teisę pasitelkti policijos pareigūnus.
+2. Seimo kontrolierių padėjėjai yra valstybės tarnautojai. Tirdami skundą Seimo kontrolieriaus pavedimu, jie turi šio straipsnio 1 dalies 1–4 punktuose išvardytas teises, išskyrus teisę pasitelkti policijos pareigūnus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010ISTA00IX-123
 
 29 straipsnis. Seimo kontrolierių reikalavimų privalomumas
 
@@ -387,7 +395,11 @@ Seimo kontrolieriai, vykdydami savo funkcijas, vadovaujasi Lietuvos Respublikos 
 
 2. Seimo kontrolieriui, atleidžiamam iš pareigų pasibaigus įgaliojimų laikui, išmokama 1 mėnesio atlyginimo dydžio išeitinė pašalpa. Seimo kontrolieriui, atleidžiamam iš pareigų sukakus įstatymo nustatytam valstybinių socialinio draudimo pensijų senatvės amžiui ar kai jis negali eiti pareigų dėl sveikatos būklės, išmokama 2 mėnesių atlyginimų dydžio išeitinė pašalpa. Seimo kontrolieriui mirus, jo šeimai išmokama 2 mėnesių atlyginimų dydžio išeitinė pašalpa. Išeitinė pašalpa mokama iš Seimo kontrolierių įstaigai skirtų valstybės biudžeto lėšų. Atleidus Seimo kontrolierių paties prašymu ar kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis, ar kai daugiau kaip pusė Seimo narių pareiškia nepasitikėjimą juo, išeitinė pašalpa nemokama.
 
-3. Atleidus Seimo kontrolierių iš pareigų, išskyrus, kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė Seimo narių pareiškia nepasitikėjimą juo, Seimo kontrolieriui turi būti suteiktas iki tol turėtas darbas (pareigos) valstybės įmonėje, įstaigoje ar organizacijoje, išskyrus Vyriausybės nario, teisėjo ir renkamas pareigas. Jei buvusios pareigos panaikintos arba įmonė, įstaiga ar organizacija likviduota, turi būti suteiktas kitas tolygus darbas (pareigos) toje pačioje įmonėje, įstaigoje, organizacijoje arba, jeigu buvęs Seimo kontrolierius sutinka, kitoje valstybės įmonėje, įstaigoje, organizacijoje. Seimo kontrolierius taip pat turi teisę kreiptis į Valdymo reformų ir savivaldybių reikalų ministeriją, kuri turi informuoti buvusį Seimo kontrolierių apie laisvas valdininkų darbo vietas jo nuolatinėje gyvenamojoje vietoje. Prašymą suteikti iki tol turėtą arba tolygų darbą (pareigas) valstybės įmonėje, įstaigoje, organizacijoje Seimo kontrolierius privalo pateikti jos vadovui ne vėliau kaip per 10 dienų nuo jo atleidimo iš Seimo kontrolieriaus pareigų dienos. Apie galimybę patenkinti prašymą suteikti iki tol turėtą arba tolygų darbą (pareigas) valstybės įmonėje, įstaigoje, organizacijoje buvusiam Seimo kontrolieriui turi būti pranešta per 10 dienų nuo prašymo gavimo dienos.
+3. Atleidus Seimo kontrolierių iš pareigų, išskyrus, kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė Seimo narių pareiškia nepasitikėjimą juo, Seimo kontrolierius Valstybės tarnybos įstatymo nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010ISTA00IX-123
 
 X DALIS
 
@@ -401,119 +413,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-191 straipsnis. Nacionalinė prevencijos institucija
+Pakeitimai:
 
-1. Seimo kontrolierių įstaiga yra laikoma nacionaline prevencijos institucija pagal Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ar baudimą fakultatyvų protokolą.
+1.
 
-2. Siekdami užkirsti kelią kankinimui ir kitokiam žiauriam, nežmoniškam ar žeminančiam elgesiui ar baudimui, Seimo kontrolieriai prevencijos tikslais nuolat lankosi laisvės apribojimo vietose.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Laisvės apribojimo vieta yra bet kuri Lietuvos Respublikos jurisdikcijai priklausanti ar jos kontroliuojama vieta, kurioje asmenų laisvė yra arba gali būti apribota, vadovaujantis valdžios įstaigos sprendimu ar jai paraginus arba su jos pritarimu ar sutikimu. Laisvės apribojimo vietomis laikytinos:
+Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010ISTA00IX-123
 
-1) pataisos įstaigos;
-
-2) tardymo izoliatoriai;
-
-3) areštinės;
-
-4) psichiatrijos įstaigos;
-
-5) užkrečiamųjų ligų gydymo įstaigos;
-
-6) globos namai;
-
-7) pasienio kontrolės punktai;
-
-8) Užsieniečių registracijos centras;
-
-9) kitos laisvės apribojimo vietos.
-
-4. Vykdydami nacionalinę kankinimų prevenciją, Seimo kontrolieriai turi teisę:
-
-1) nuolat tikrinti, kaip laisvės apribojimo vietose elgiamasi su asmenimis, kurių laisvė apribota;
-
-2) gauti visą informaciją apie elgesį su asmenimis, kurių laisvė apribota, apie jų laikymo sąlygas, taip pat apie tokių asmenų skaičių, apie laisvės apribojimo vietų skaičių ir jų buvimo vietą;
-
-3) patekti į visas laisvės apribojimo vietas ir visas jose esančias patalpas, susipažinti su jų įrengimu ir infrastruktūra;
-
-4) apklausti be liudininkų asmenis, kurių laisvė apribota, taip pat bet kokius kitus asmenis, kurie galėtų suteikti reikiamos informacijos;
-
-5) pasirinkti, kokias laisvės apribojimo vietas aplankyti ir kokius asmenis apklausti;
-
-6) laisvės apribojimo vietų patikrinimus atlikti kartu su pasirinktais ekspertais;
-
-7) teikti atitinkamoms valdžios įstaigoms siūlymus (rekomendacijas), kaip pagerinti elgesį su asmenimis, kurių laisvė apribota, šių asmenų laikymo sąlygas, taip pat kaip užkirsti kelią kankinimui ir kitokiam žiauriam, nežmoniškam ar žeminančiam elgesiui ar baudimui;
-
-8) teikti išvadas dėl galiojančių teisės aktų ir teisės aktų projektų.
-
-5. Jokia valdžios įstaiga ar pareigūnas negali nurodyti taikyti, patys taikyti, leisti taikyti ar toleruoti kokių nors nuobaudų asmeniui ar organizacijai, kuri Seimo kontrolieriams pateikė kokios nors informacijos, susijusios su nacionalinės prevencijos institucijos funkcijų atlikimu.
-
-6. Kompetentingos institucijos privalo išnagrinėti Seimo kontrolierių siūlymus (rekomendacijas), konsultuotis su Seimo kontrolieriais dėl siūlymų (rekomendacijų) galimų įgyvendinimo priemonių ir informuoti Seimo kontrolierius apie jų pateiktų siūlymų (rekomendacijų) įgyvendinimo rezultatus.
-
-7. Seimo kontrolieriai palaiko ryšius su Kovos su kankinimais komiteto Kankinimo ir kitokio žiauraus, nežmoniško ar žeminančio elgesio ar baudimo prevencijos pakomitečiu.
-
-Papildyta straipsniu:
-
-Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010ISTA0XII-629
-
-192 straipsnis. Nacionalinė žmogaus teisių institucija
-
-1. Seimo kontrolierių įstaiga yra nacionalinė žmogaus teisių institucija.
-
-2. Skatindami pagarbą žmogaus teisėms ir laisvėms bei bendradarbiaudami su valstybės ir savivaldybių institucijomis, įstaigomis, pilietine visuomene, socialiniais partneriais, tarptautinėmis organizacijomis žmogaus teisių ir laisvių klausimais, Seimo kontrolieriai atlieka šias funkcijas:
-
-1) atlieka žmogaus teisių stebėseną Lietuvoje ir rengia žmogaus teisių padėties ataskaitas;
-
-2) vykdo informacijos apie žmogaus teises sklaidą ir visuomenės švietimą žmogaus teisių klausimais;
-
-3) pristato žmogaus teisių padėties Lietuvoje vertinimą tarptautinėse organizacijose ir teikia joms informaciją pagal Lietuvos Respublikos tarptautinėse sutartyse nustatytus įsipareigojimus;
-
-4) teikia siūlymus valstybės ir savivaldybių institucijoms ir įstaigoms žmogaus teisių klausimais;
-
-5) siekia nacionalinių teisės aktų suderinimo su Lietuvos Respublikos tarptautiniais įsipareigojimais žmogaus teisių srityje;
-
-6) inicijuoja tyrimus dėl esminių žmogaus teisių problemų.
-
-Papildyta straipsniu:
-
-Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
-
-91 straipsnis. Seimo kontrolieriaus pavadavimas ir laikinas pareigų ėjimas
-
-1. Kai Seimo kontrolierius atostogauja arba yra išvykęs į komandiruotę už Lietuvos Respublikos ribų ilgiau kaip vienai dienai arba yra laikinai nedarbingas ir dėl to laikinai negali eiti savo pareigų, jį pavaduoja kitas Seimo kontrolierius. Tuo atveju, kai laikinai negali eiti savo pareigų abu Seimo kontrolieriai, Seimo valdybos sprendimu juos pavaduoja Lietuvos Respublikos lygių galimybių kontrolierius arba Lietuvos Respublikos vaiko teisių apsaugos kontrolierius, kuriam pavedamos ir Seimo kontrolierių įstaigos vadovo pareigos.
-
-2. Kai Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo nustatyta tvarka Seimo kontrolierius nusišalina nuo tarnybinių pareigų atlikimo, Seimo valdybos sprendimu Seimo kontrolieriaus pareigas, nuo kurių atlikimo Seimo kontrolierius yra nusišalinęs, nusišalinimo laikotarpiu pavedama atlikti kitam Seimo kontrolieriui, o kai jis negali, – vaiko teisių apsaugos kontrolieriui arba lygių galimybių kontrolieriui. Ši dalis taikoma ir tais atvejais, kai Seimo kontrolierius nusišalina nuo Seimo kontrolierių įstaigos vadovo pareigų.
-
-3. Seimo kontrolieriaus įgaliojimams nutrūkus šio įstatymo 9 straipsnio 1 dalies  2–6 punktuose nustatytais atvejais, Seimo valdyba sprendimu paveda kitam Seimo kontrolieriui laikinai eiti to Seimo kontrolieriaus pareigas tol, kol bus paskirtas naujas Seimo kontrolierius.
-
-4. Šio įstatymo 9 straipsnio 1 dalies 2–6 punktuose nustatytais atvejais nutrūkus Seimo kontrolieriaus, kuris eina Seimo kontrolierių įstaigos vadovo pareigas, įgaliojimams arba šio įstatymo 9 straipsnio 5 dalyje nustatytu atveju paskyrus naują Seimo kontrolierių, Seimo valdybos sprendimu kitam Seimo kontrolieriui pavedamos ir Seimo kontrolierių įstaigos vadovo pareigos tol, kol paskiriamas naujas Seimo kontrolierių įstaigos vadovas.
-
-Papildyta straipsniu:
-
-Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
-
-193 straipsnis. Institucija, vykdanti nacionalinio pranešėjo funkciją
-
-1. Seimo kontrolierių įstaiga yra institucija, vykdanti nacionalinio pranešėjo funkciją.
-
-2. Seimo kontrolieriai, atlikdami kovos su prekyba žmonėmis stebėseną, atlieka šias funkcijas:
-
-1) analizuoja ir vertina prekybos žmonėmis tendencijas ir kovos su prekyba žmonėmis rezultatus;
-
-2) renka vidaus reikalų ministro nustatyta tvarka Seimo kontrolieriams teikiamus statistinius duomenis ir kitą informaciją apie prekybos žmonėmis padėtį ir kovos su prekyba žmonėmis priemones bei veiksmus bendradarbiaudami su šioje srityje veikiančiomis valstybės ir savivaldybių institucijomis ir įstaigomis, nevyriausybinėmis organizacijomis;
-
-3) rengia metinę kovos su prekyba žmonėmis padėties Lietuvos Respublikoje apžvalgą, teikia informaciją apie kovos su prekyba žmonėmis padėtį Lietuvos Respublikoje Europos Sąjungos kovos su prekyba žmonėmis koordinatoriui, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms organizacijoms;
-
-4) dalyvauja Europos Sąjungos nacionalinių pranešėjų arba lygiaverčių mechanizmų prekybos žmonėmis klausimais tinkle.
-
-3. Seimo kontrolieriai, atlikdami kovos su prekyba žmonėmis stebėseną, turi teisę:
-
-1) teikti pasiūlymus dėl Lietuvos Respublikos pažangos kovojant su prekyba žmonėmis Seimui, Vyriausybei ir jos sudaromai Kovos su prekyba žmonėmis koordinavimo komisijai;
-
-2) gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų organizacijų informaciją, būtiną kovos su prekyba žmonėmis stebėsenai atlikti.
-
-4. Metinė kovos su prekyba žmonėmis padėties Lietuvos Respublikoje apžvalga skelbiama Seimo kontrolierių įstaigos interneto svetainėje.
-
-Papildyta straipsniu:
-
-Nr. XIV-3081, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20023
+Lietuvos Respublikos Seimo kontrolierių įstatymo 28 ir 30 straipsnių pakeitimo įstatymas
 
