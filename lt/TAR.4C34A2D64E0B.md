@@ -4,7 +4,7 @@ identifier: "TAR.4C34A2D64E0B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-12-12"
-last_updated: "1996-12-31"
+last_updated: "1998-02-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4C34A2D64E0B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos apskrities valdymo įstatymo pakeitimo ir papildymo bei Vyriausybės atstovo įstatymo pripažinimo netekusiu galios įstatymas
+
+Suvestinė redakcija nuo 1998-02-20 iki 2010-06-30
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 126-2938, i. k. 0961010ISTA0VIII-33
 
 LIETUVOS RESPUBLIKOS
 
@@ -42,6 +46,12 @@ II, IV ir V skyrių pavadinimuose ir tekste vietoj žodžių „apskrities valdy
 
 „4) prižiūrėti, ar savivaldybės laikosi Lietuvos Respublikos Konstitucijos ir įstatymų, ar vykdo Vyriausybės nutarimus, tikrinti, ar kolegialių ir nekolegialių savivaldos institucijų priimti sprendimai nepažeidžia piliečių ir organizacijų teisių.“
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos apskrities valdymo įstatymo pakeitimo ir papildymo bei Vyriausybės atstovo įstatymo pripažinimo netekusiu galios įstatymas toje dalyje, kuri reiškia savivaldybių veiklos administracinės priežiūros savarankiško konstitucinio instituto suliejimą su kitu institutu, pasireiškusiu tiesioginiu savivaldybių priežiūros inkorporavimu į vietinį valdymą (įstatymo pirmojo skirsnio 2, 3 ir 5 straipsniai), prieštarauja Lietuvos Respublikos Konstitucijos 120 straipsnio antrajai daliai, taip pat 123 straipsnio antrajai ir trečiajai dalims.
+
+Straipsnio pakeitimai:
+
+1998-02-18, Žin., 1998, Nr. 18-435 (1998-02-20), i. k. 0981000NUTARG980258
+
 3 straipsnis. Įstatymo papildymas 6 straipsniu
 
 Papildyti įstatymą šiuo 6 straipsniu:
@@ -59,6 +69,12 @@ Apskrities viršininkas turi teisę:
 4) susipažinti su Lietuvos Respublikos Seimo ir Vyriausybės dokumentais, raštais, kuriuose sprendžiami savivaldybių reikalai;
 
 5) dalyvauti Lietuvos Respublikos Seimo ir Vyriausybės posėdžiuose, taip pat kituose valstybės institucijų organizuojamuose renginiuose, kai svarstomi vietos savivaldos ar savivaldybių darbo klausimai.“
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos apskrities valdymo įstatymo pakeitimo ir papildymo bei Vyriausybės atstovo įstatymo pripažinimo netekusiu galios įstatymas toje dalyje, kuri reiškia savivaldybių veiklos administracinės priežiūros savarankiško konstitucinio instituto suliejimą su kitu institutu, pasireiškusiu tiesioginiu savivaldybių priežiūros inkorporavimu į vietinį valdymą (įstatymo pirmojo skirsnio 2, 3 ir 5 straipsniai), prieštarauja Lietuvos Respublikos Konstitucijos 120 straipsnio antrajai daliai, taip pat 123 straipsnio antrajai ir trečiajai dalims.
+
+Straipsnio pakeitimai:
+
+1998-02-18, Žin., 1998, Nr. 18-435 (1998-02-20), i. k. 0981000NUTARG980258
 
 4 straipsnis. Buvusių 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ir 19 straipsnių eiliškumo pakeitimas
 
@@ -89,4 +105,10 @@ Jeigu nekolegialiai priimto akto panaikinimo klausimą imasi svarstyti kolegiali
 Jeigu savivaldybės taryba ar valdyba (jei valdyba nesudaryta – meras) atsisako vykdyti apskrities viršininko reikalavimą arba laiku nepraneša apie reikalavimo ar Vyriausybės nutarimo įvykdymą, taip pat jeigu šios institucijos per savaitę po artimiausio tarybos posėdžio nepanaikina savo ar joms pavaldžių institucijų (valdybos, mero, administratoriaus, seniūno) neteisėtų aktų arba priima naują sprendimą, taip pat prieštaraujantį įstatymams, apskrities viršininkas per 10 dienų apskundžia šiuos aktus ar pareigūnų veiksmus teismui, o apie Vyriausybės nutarimo nevykdymą praneša Vyriausybei.
 
 Apskrities viršininkas kas pusmetį privalo pateikti Vyriausybei ir atitinkamoms savivaldybėms informaciją apie tai, ar tikrintų savivaldos institucijų priimti dokumentai teisėti, kaip jis reagavo į ginčytinus sprendimus, kokie pateiktų reikalavimų svarstymo bei ginčų sprendimo teismuose rezultatai.“
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos apskrities valdymo įstatymo pakeitimo ir papildymo bei Vyriausybės atstovo įstatymo pripažinimo netekusiu galios įstatymas toje dalyje, kuri reiškia savivaldybių veiklos administracinės priežiūros savarankiško konstitucinio instituto suliejimą su kitu institutu, pasireiškusiu tiesioginiu savivaldybių priežiūros inkorporavimu į vietinį valdymą (įstatymo pirmojo skirsnio 2, 3 ir 5 straipsniai), prieštarauja Lietuvos Respublikos Konstitucijos 120 straipsnio antrajai daliai, taip pat 123 straipsnio antrajai ir trečiajai dalims.
+
+Straipsnio pakeitimai:
+
+1998-02-18, Žin., 1998, Nr. 18-435 (1998-02-20), i. k. 0981000NUTARG980258
 
