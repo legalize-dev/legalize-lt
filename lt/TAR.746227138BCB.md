@@ -4,7 +4,7 @@ identifier: "TAR.746227138BCB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-01"
-last_updated: "2004-07-13"
+last_updated: "2004-11-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.746227138BCB"
 department: "Lietuvos Respublikos Seimas"
@@ -853,6 +853,24 @@ IX-1433,
 
 2003-04-03, Žin., 2003, Nr. 38-1678 (2003-04-24)
 
+24(1) straipsnis. Žalos
+
+atlyginimas
+
+Asmuo, patyręs diskriminaciją dėl lyties
+
+ar seksualinį priekabiavimą, turi teisę reikalauti iš kaltų asmenų atlyginti
+
+turtinę ir neturtinę žalą Lietuvos Respublikos civilinio kodekso nustatyta
+
+tvarka.
+
+Įstatymas papildytas straipsniu:
+
+Nr. IX-2551,
+
+2004-11-09, Žin., 2004, Nr. 171-6305 (2004-11-26)
+
 25
 
 straipsnis. Moterų ir vyrų lygių galimybių kontrolieriaus reikalavimų
@@ -895,11 +913,11 @@ darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Kiti priedai ar premijos moter
 
 ir vyrų lygių galimybių kontrolieriui nemokami.
 
-2. Pradėjus įgyvendinti Lietuvos Respublikos
+2. Pradėjus įgyvendinti Lietuvos
 
-valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo
+Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo
 
-nustatytą darbo apmokėjimo sistemą, moterų ir vyrų lygių galimybių
+įstatymo nustatytą darbo apmokėjimo sistemą, moterų ir vyrų lygių galimybių
 
 kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
 
@@ -1147,13 +1165,29 @@ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO, ĮSTATYMO PAPILDYMO
 
 2(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2551,
+
+2004-11-09, Žin., 2004, Nr. 171-6305 (2004-11-26)
+
+MOTERŲ
+
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO PAPILDYMO 24(1 )STRAIPSNIU ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-09-06)
+Aušrinė Trapinskienė (2004-11-29)
 
 autrap@lrs.lt
 
