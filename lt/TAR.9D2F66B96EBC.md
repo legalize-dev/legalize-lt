@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2004-05-01"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2004-08-31
+Suvestinė redakcija nuo 2004-09-01 iki 2005-03-04
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -121,6 +121,12 @@ Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010IS
 3. Užsienio valstybių teisės aktai taikomi šių valstybių orlaiviams, esantiems Lietuvos Respublikos teritorijoje, jeigu jie neprieštarauja šiam įstatymui ir kitiems teisės aktams.
 
 4. Jeigu Lietuvos Respublikos tarptautinėse sutartyse nustatyti kitokie reikalavimai nei tie, kuriuos numato aviacijos santykius reglamentuojantys Lietuvos Respublikos teisės aktai, taikomi tarptautinių sutarčių reikalavimai.
+
+5. Šis įstatymas netaikomas bemotoriams orlaiviams, kurių minimalus greitis ne mažesnis kaip 45 kilometrai per valandą, maksimali pakilimo masė neviršija 170 kilogramų, kai šie orlaiviai naudojami vaikų aviaciniam švietimui ir mokymui.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2399, 2004-07-15, Žin., 2004, Nr. 120-4438 (2004-08-03), i. k. 1041010ISTA0IX-2399
 
 4 straipsnis. Kiti civilinės aviacijos teisės aktai
 
@@ -809,4 +815,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2197, 2004-04-29, Žin., 2004, Nr. 73-2531 (2004-04-30), i. k. 1041010ISTA0IX-2197
 
 Lietuvos Respublikos aviacijos įstatymo 56 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2399, 2004-07-15, Žin., 2004, Nr. 120-4438 (2004-08-03), i. k. 1041010ISTA0IX-2399
+
+Lietuvos Respublikos aviacijos įstatymo 3 straipsnio papildymo įstatymas
 
