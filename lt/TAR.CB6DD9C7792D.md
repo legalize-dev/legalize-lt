@@ -4,7 +4,7 @@ identifier: "TAR.CB6DD9C7792D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-05-16"
-last_updated: "2024-01-01"
+last_updated: "2034-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB6DD9C7792D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VYSTOMOJO BENDRADARBIAVIMO IR HUMANITARINĖS
 
 PAGALBOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2024-01-01 iki 2033-12-31
+Suvestinė redakcija nuo 2034-01-01
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 57-2850, i. k. 1131010ISTA0XII-311
 
@@ -172,7 +172,7 @@ Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 
 3) dalyvaudama įgyvendinant šio įstatymo 8 straipsnio 2 dalyje nurodytas programas, sudaro sutartis, vykdo jų įgyvendinimo priežiūrą ir atlieka lėšų panaudojimo kontrolę.
 
-5. Vyriausybės nustatyta tvarka šio straipsnio 3 dalyje nurodytus vystomojo bendradarbiavimo Programos lėšomis finansuojamus projektus atrenka Užsienio reikalų ministerija, šio straipsnio 4 dalyje nurodytus vystomojo bendradarbiavimo projektus – valstybės ir savivaldybių institucijos, o šio įstatymo 13 straipsnio 3 ir 4 dalyse nurodytus dvišalės paramos vystymuisi projektus, finansuojamus Fondo lėšomis, – Fondo taryba.
+5. Vyriausybės nustatyta tvarka šio straipsnio 3 dalyje nurodytus vystomojo bendradarbiavimo Programos lėšomis finansuojamus projektus atrenka Užsienio reikalų ministerija, šio straipsnio 4 dalyje nurodytus vystomojo bendradarbiavimo projektus – valstybės ir savivaldybių institucijos, o šio įstatymo 13 straipsnio 3 dalyje nurodytus dvišalės paramos vystymuisi projektus, finansuojamus Fondo lėšomis, – Fondo taryba.
 
 Straipsnio dalies pakeitimai:
 
@@ -298,7 +298,11 @@ Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 
 3. Fondo lėšos sudaromos iš valstybės biudžeto asignavimų, savivaldybių biudžetų lėšų, užsienio šalių, tarptautinių organizacijų, tarptautinių finansų institucijų ir Lietuvos Respublikos juridinių bei fizinių asmenų savanoriškų tikslinių įnašų, pajamų už investuotas laikinai laisvas lėšas, sugrąžintų projektų lėšų, delspinigių, palūkanų, baudų ir kitų teisėtai gautų lėšų. Planuojant kiekvienų metų valstybės biudžeto asignavimus, Fondui lėšos skiriamos atsižvelgiant į būtinybę tinkamai įgyvendinti šio įstatymo 3 straipsnyje nurodytus Lietuvos vystomojo bendradarbiavimo politikos tikslus siekiant, kad ateityje oficiali Lietuvos parama vystymuisi atitiktų Lietuvos tarptautinius įsipareigojimus. Siekiant užtikrinti daugiašalės ir dvišalės paramos vystymuisi konvergenciją, Fondui skiriami valstybės biudžeto asignavimai gali būti panaudojami tik kaip dvišalė parama vystymuisi ir siekiama šiuos asignavimus didinti atsižvelgiant į Lietuvos tarptautinius įsipareigojimus.
 
-4. Fondo lėšos taip pat sudaromos iš už Lietuvos Respublikos tarptautinių sankcijų įstatyme nustatytų tarptautinių sankcijų pažeidimus ir už Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimus sumokėtų baudų, už Lietuvos Respublikos baudžiamojo kodekso 1231 straipsnyje nurodytos nusikalstamos veikos ar už Lietuvos Respublikos administracinių nusižengimų kodekso 515 straipsnyje nurodyto administracinio nusižengimo padarymą sumokėtų baudų, taip pat iš pajamų iš konfiskuoto turto realizavimo, jeigu tokia poveikio priemonė paskirta už šioje dalyje nurodytus pažeidimus. Šios lėšos naudojamos dvišalei paramai vystymuisi, išskirtinai susijusiai su Ukrainos atstatymu ir atkūrimu, reikalingais dėl Rusijos Federacijos agresijos prieš Ukrainą.
+4. Neteko galios nuo 2034-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIV-2235, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22964
 
 Papildyta straipsnio dalimi:
 
