@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2003-05-01"
+last_updated: "2003-05-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -1159,19 +1159,7 @@ parduodant užsienio valstybėje esantį nekilnojamąjį turtą;
 
 4)
 
-parduodant Vyriausybės nustatyta tvarka tarnybines gyvenamąsias patalpas šių
-
-patalpų nuomininkams, jeigu patalpos tampa nereikalingos institucijų, valdančių
-
-jas nuosavybės ar patikėjimo teise, darbuotojams (tarnautojams) apgyvendinti
-
-dėl šių darbo pobūdžio. Tokios tarnybinės gyvenamosios patalpos parduodamos
-
-rinkos kaina, atskaičius nuomininko įdėtas lėšas valstybei ar savivaldybei
-
-įgyjant šias tarnybines gyvenamąsias patalpas bei jų pagerinimo išlaidas,
-
-nuomininko padarytas pagal Civilinį kodeksą;
+(neteko galios nuo 2003 m. gegužės 14 d.);
 
 5)
 
@@ -1202,6 +1190,12 @@ gali būti perduotas valstybės arba kitos savivaldybės nuosavybėn, kai yra
 atitinkamai Vyriausybės ar jos įgaliotos institucijos arba kitos savivaldybės
 
 tarybos sutikimas.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1548,
+
+2003-04-29, Žin., 2003, Nr. 47-2065 (2003-05-14)
 
 18
 
@@ -1443,13 +1437,13 @@ nutarimai nutraukti administracinio teisės pažeidimo bylą;
 
 7)
 
-jis trukdo statyti naujus statinius arba rekonstruoti esamus statinius ar
+jis trukdo statyti naujus statinius arba rekonstruoti esamus statinius ar teritorijas.
 
-teritorijas. Ši nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus
+Ši nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus nekilnojamąsias
 
-nekilnojamąsias kultūros vertybes, nustatyta tvarka suderinus naujos statybos
+kultūros vertybes, nustatyta tvarka suderinus naujos statybos ar rekonstravimo
 
-ar rekonstravimo projektą;
+projektą;
 
 8)
 
@@ -1517,13 +1511,13 @@ išskyrus šio Įstatymo 22 straipsnio 1 dalies 6 punkte nurodytą atvejį, gali
 
 1)
 
-perduodant patikėjimo teise iš vienos valstybės ar savivaldybių institucijos,
+perduodant patikėjimo teise iš vienos valstybės ar savivaldybių institucijos, valstybės
 
-valstybės ar savivaldybės įstaigos ar organizacijos kitai tokiai institucijai,
+ar savivaldybės įstaigos ar organizacijos kitai tokiai institucijai, įstaigai
 
-įstaigai ar organizacijai, taip pat šio Įstatymo 9 straipsnio 4 dalyje bei 11
+ar organizacijai, taip pat šio Įstatymo 9 straipsnio 4 dalyje bei 11 straipsnio
 
-straipsnio 3 dalyje nurodytiems asmenims;
+3 dalyje nurodytiems asmenims;
 
 2)
 
@@ -1829,11 +1823,11 @@ Nauja įstatymo redakcija
 
 išdėstyto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo
 
-įstatymo 13 straipsnio 3 dalies ir 14 straipsnio 5 dalies nuostatos dėl neatlyginimo
+įstatymo 13 straipsnio 3 dalies ir 14 straipsnio 5 dalies nuostatos dėl
 
-už perduoto turto pagerinimą netaikomos sutartims, kurios buvo sudarytos iki
+neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo
 
-šio Įstatymo įsigaliojimo.
+sudarytos iki šio Įstatymo įsigaliojimo.
 
 8.
 
@@ -1861,13 +1855,31 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 37-1341), t.y. nuo 2003 m. gegužės 1 d.
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1548,
+
+2003-04-29, Žin., 2003, Nr. 47-2065 (2003-05-14)
+
+VALSTYBĖS
+
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 17
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-04-30)
+Aušrinė Trapinskienė (2003-05-21)
 
 autrap@lrs.lt
 
