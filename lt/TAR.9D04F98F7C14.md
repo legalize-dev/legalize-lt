@@ -4,7 +4,7 @@ identifier: "TAR.9D04F98F7C14"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-07"
-last_updated: "2001-01-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -26,539 +26,907 @@ Neoficialus
 
 įstatymo tekstas
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS
 
-RESPUBLIKOS
+VALSTYBĖS PARAMOS BŪSTUI
 
-GYVENTOJŲ
+ĮSIGYTI AR IŠSINUOMOTI
 
-APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS
+Į S T A T Y M A S
 
-ĮSTATYMAS
+Nauja įstatymo redakcija nuo 2003 m. sausio 1 d. (keistas įstatymo pavadinimas):
 
-1 straipsnis. Įstatymo
+Nr. IX-1188,
 
-paskirtis
+2002-11-12, Žin., 2002, Nr. 116-5188 (2002-12-06), atitaisymas skelbtas: Žin.,
 
-Šis įstatymas nustato
+2003, Nr. 3
 
-Lietuvos Respublikos piliečių (toliau vadinamų piliečiais) apsirūpinimo
+PIRMASIS
 
-gyvenamosiomis patalpomis būdus, valstybės teikiamos paramos formas įsigyjant
+SKIRSNIS
 
-gyvenamąjį namą ar butą, šios paramos suteikimo ir panaudojimo tvarką bei
+BENDROSIOS
 
-sąlygas, taip pat gyvenamųjų patalpų statybos ir eksploatavimo valstybinę kontrolę.
+NUOSTATOS
 
-2 straipsnis. Teisė į
+1 straipsnis.
 
-gyvenamąją patalpą ir jos įgyvendinimo principai
+Įstatymo paskirtis ir taikymas
 
-Kiekvienas pilietis turi
+1. Šis Įstatymas nustato valstybės paramos,
 
-teisę į gyvenamąją patalpą, tai yra gali statytis ar kitokiu teisėtu būdu
+teikiamos fiziniams asmenims (šeimoms), turintiems nuolatinę gyvenamąją vietą
 
-įsigyti gyvenamuosius namus ar butus nuosavybėn, taip pat įstatymų nustatyta
+Lietuvos Respublikoje, būstui pirkti, statyti (rekonstruoti) (toliau – įsigyti)
 
-tvarka nuomotis gyvenamąją patalpą iš savivaldybių, kitų juridinių ir fizinių
+bei savivaldybių socialinio būsto fondui sudaryti formas, sąlygas ir tvarką,
 
-asmenų.
+taip pat savivaldybių socialinio būsto nuomos sąlygas ir tvarką.
 
-Piliečiams nuosavybės teise
+2. Valstybės parama būstui įsigyti ar
 
-priklausančių gyvenamųjų namų, butų skaičius, jų dydis neribojamas.
+išsinuomoti pagal šį Įstatymą teikiama šeimoms, taip pat asmenims, sukakusiems
 
-Piliečiams, apsirūpinantiems
+18 metų. Šeimai atstovauja vienas iš sutuoktinių arba jų įgaliotas asmuo.
 
-gyvenamosiomis patalpomis šio įstatymo nustatytomis sąlygomis ir tvarka,
+2 straipsnis.
 
-suteikiama valstybės parama.
+Pagrindinės šio Įstatymo sąvokos
 
-Užsienio piliečiai ir
+1. Būstas
 
-asmenys be pilietybės turi vienodas naudojimosi (išskyrus įsigijimą)
+(gyvenamosios patalpos) – vienbutis gyvenamasis namas, jo
 
-gyvenamosiomis patalpomis teises su Lietuvos Respublikos piliečiais, jeigu ko
+dalis, butas ar kitos gyvenamosios patalpos, tinkamos asmeniui arba šeimai
 
-kita nenumatyta Lietuvos Respublikos įstatymuose arba tarptautinėse sutartyse.
+gyventi.
 
-Gyvenamųjų namų (butų) įsigijimo tvarką užsienio piliečiams ir asmenims be
+2. Būsto
 
-pilietybės nustato kiti Lietuvos Respublikos įstatymai.
+kreditas - banko ar kitos
 
-4 straipsnis. Fizinių asmenų
+kredito įstaigos pagal kreditavimo sutartį skolinami pinigai būstui įsigyti.
 
-gyvenamosios patalpos
+3. Būsto
 
-Gyvenamieji namai ir
+naudingasis plotas - gyvenamųjų
 
-gyvenamosios patalpos gali priklausyti vienam arba keliems fiziniams asmenims
+kambarių ir kitų būsto patalpų (virtuvių, sanitarinių mazgų, koridorių,
 
-bendrosios jungtinės arba dalinės nuosavybės teise arba fiziniams ir
+įstatytų spintų, šildomų lodžijų ir kitų šildomų pagalbinių patalpų)
 
-juridiniams asmenims bendrosios dalinės nuosavybės teise.
+bendrasis grindų plotas. Į naudingąjį būsto plotą neįeina balkonų, terasų,
 
-Straipsnio
+rūsių, nešildomų lodžijų grindų plotas.
 
-pakeitimai:
+4. Butas - gyvenamojo namo dalis iš vieno
 
-Nr.I-358;
+ar kelių gyvenamųjų kambarių, virtuvės bei kitų patalpų, atitvarų
 
-1993.12.23.; Žin.,1994, Nr.1-3;
+konstrukcijomis atskirta nuo bendrojo naudojimo patalpų, kitų butų ar
 
-Nr.I-800;
+negyvenamųjų patalpų.
 
-1995.02.21.; Žin., 1995, Nr.20-451
+5. Jauna
 
-5 straipsnis. Gyvenamųjų
+šeima – šeima, kurioje kiekvienas iš sutuoktinių yra ne vyresnis kaip 35
 
-namų statybos ar eksploatavimo bendrijos
+metų, taip pat šeima, kurioje motina arba tėvas vieni augina vieną ar daugiau
 
-Fiziniai, juridiniai asmenys
+vaikų (įvaikių) ir yra ne vyresni kaip 35 metų.
 
-turi teisę sujungti lėšas gyvenamojo namo ar kelių gyvenamųjų namų statybai,
+6.
 
-sukurdami gyvenamojo namo (gyvenamųjų namų) bendriją, turinčią juridinio asmens
+Savivaldybės socialinio būsto fondas -
 
-teises ir veikiančią pagal savivaldybėse įregistruotus įstatus.
+savivaldybei nuosavybės teise priklausantys, taip pat patikėjimo teise jos
 
-Straipsnio
+valdomi gyvenamieji namai, jų dalys, butai (ir kitos tinkamos gyventi
 
-pakeitimai:
+patalpos), skirti nuomoti asmenims (šeimoms), turintiems teisę į socialinį
 
-Nr.I-358;
+būstą.
 
-1993.12.23.;Žin., 1994, Nr.1-3;
+7. Socialinis
 
-Nr.I-800;
+būstas – nekomerciniu pagrindu, pagal Vyriausybės nustatytą nuomos mokesčio
 
-1995.02.21.; Žin., 1995, Nr.20-451
+apskaičiavimo tvarką nuomojamos savivaldybės gyvenamosios patalpos, skirtos
 
-6 straipsnis. Savivaldybių
+mažas pajamas turintiems asmenims ir šeimoms apgyvendinti pagal šio Įstatymo
 
-gyvenamosios patalpos
+nustatytas sąlygas (socialinio būsto kategorijai nepriskiriamos tarnybinės
 
-Savivaldybių gyvenamosios
+gyvenamosios patalpos, bendrabučiai, nakvynės namai, gydymo ar globos (rūpybos)
 
-patalpos yra jų teritorijoje esantys gyvenamieji namai, butai, pastatyti iš
+gyvenamosios patalpos).
 
-valstybės ar savivaldybių biudžeto lėšų arba kitaip įsigyti.
+8. Šeima - sutuoktiniai, jų nepilnamečiai
 
-Savivaldybės sudaro šiuos
+vaikai (įvaikiai) iki 18 metų (toliau -
 
-butų fondus:
+vaikai (įvaikiai), taip pat motina arba tėvas, vieni auginantys vieną ar
 
-1) pagrindinį butų fondą,
+daugiau vaikų (įvaikių).
 
-kurio gyvenamosios patalpos nuomojamos piliečiams valstybės paramos suteikimo
+9. Tinkamas
 
-pagrindu arba išnuomojamos asmenims, iškeldinamiems griaunant gyvenamuosius
+būstas - būstas, kuris
 
-namus, pertvarkant gyvenamąsias patalpas į negyvenamąsias, grąžinant
+tinka gyventi vienam asmeniui ar šeimai ir atitinka statybos bei specialiųjų
 
-gyvenamuosius namus jų savininkams, remiantis nuosavybės atstatymo teise,
+normų (higienos, priešgaisrinės saugos ir kt.) reikalavimus ir kurio
 
-leidžiant gyventojams tame pačiame name jiems suteiktas pagalbines patalpas
+naudingasis plotas, tenkantis vienam šeimos nariui, yra didesnis kaip 14
 
-pertvarkyti į gyvenamąsias ir priskirti jas prie nuomojamų ar privatizuojamų,
+kvadratinių metrų (ši norma netaikoma socialiniam būstui).
 
-taip pat kitais atvejais, kai pagal įstatymus savivaldybės įpareigojamos
+10. Valstybės
 
-suteikti asmenims gyvenamąsias patalpas;
+remiami būsto kreditai – būsto kreditai, kurių gavėjams teikiama valstybės
 
-2) manevrinį butų fondą,
+parama pagal šį Įstatymą (apmokant iš valstybės biudžeto lėšų būsto kredito
 
-kurio gyvenamosios patalpos suteikiamos perkeliamiems piliečiams laikinai
+draudimo įmokas ar jų dalį, teikiant subsidijas būsto kredito daliai padengti).
 
-apgyvendinti, atliekant gyvenamųjų namų kapitalinį remontą, juos
+11. Visiškas
 
-rekonstruojant, modernizuojant, likviduojant stichinių ir kitų nelaimių
+našlaitis (toliau - našlaitis) – asmuo, kurio
 
-padarinius;
+abu tėvai yra mirę arba turėtas vienintelis iš tėvų yra miręs, iki šiam
 
-3) tarnybinį butų fondą,
+asmeniui sukankant 18 metų.
 
-kurio gyvenamosios patalpos suteikiamos darbuotojams pagal Civilinio kodekso
+ANTRASIS
 
-360, 361 straipsnius ;
+SKIRSNIS
 
-4) specialųjį gyvenamųjų
+VALSTYBĖS
 
-patalpų fondą, kurį sudaro bendrabučiai, viešbučiai, nakvynės namai ir
+PARAMA BŪSTUI ĮSIGYTI
 
-prieglaudos.
+4 straipsnis.
 
-Savivaldybių gyvenamosioms
+Valstybės paramos teikimo sąlygos
 
-patalpoms eksploatuoti steigiamos pelno nesiekiančios butų eksploatavimo
+1. Valstybės
 
-įmonės.
+parama būstui įsigyti teikiama asmenims (šeimoms), nurodytiems šio Įstatymo 1
 
-Šiame
+straipsnyje, jeigu jų vienų metų (12 paskutinių mėnesių) turtas ir pajamos
 
-straipsnyje išvardytos savivaldybių gyvenamosios patalpos (butų fondai),
+prieš paramos suteikimą yra mažesni už turtą ir pajamas, kurių didžiausius
 
-pastatytos ar kitaip įsigytos iš valstybės lėšų ir valstybės biudžeto
+dydžius ir (ar) jų apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota
 
-specialiųjų dotacijų savivaldybėms, neprivatizuojamos, išskyrus atvejus,
+institucija Valstybės remiamų būsto kreditų teikimo tvarkoje, ir jeigu jie
 
-kuriuos numato kiti Lietuvos Respublikos įstatymai.
+įsigyja pirmąjį tinkamą būstą, t. y. jeigu šie asmenys (šeimos) Lietuvos
 
-Straipsnio
+Respublikos teritorijoje:
 
-pakeitimai:
+1) neturi ir
 
-Nr.I-358;
+neturėjo būsto nuosavybės teise arba
 
-1993.12.23.;Žin., 1994, Nr.1-3
+2) turi ar
 
-Nr. VIII-472,
+turėjo nuosavybės (ar bendrosios nuosavybės) teise būstą, kurio naudingasis
 
-97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
+plotas, tenkantis vienam šeimos nariui (ar bendraturčių namų ūkių nariui), yra
 
-7 straipsnis. Gyvenamųjų
+mažesnis kaip 14 kvadratinių metrų, arba turimas būstas, nepaisant jo
 
-patalpų paskirties pakeitimas ir jų išbraukimas iš apskaitos
+naudingojo ploto, Nekilnojamojo turto kadastro duomenimis, yra nusidėvėjęs
 
-Gyvenamuosius namus, butus
+daugiau kaip 60 procentų ir šis būstas yra kaimo vietovėje, kurioje jo
 
-savininkai, nepažeisdami architektūrinių, sanitarinių higienos, techninių ir
+savininkas negyvena ir (ar) nedirba, arba
 
-kitų taisyklių, gali pertvarkyti į kitos paskirties patalpas.
+3) Nekilnojamojo
 
-Savivaldybių gyvenamosios
+turto kadastro duomenimis, turi daugiau kaip 60 procentų nusidėvėjusį būstą
 
-patalpos į kitos paskirties patalpas gali būti pertvarkomos tik Lietuvos
+(neatsižvelgiant į jo naudingojo ploto dydį), yra Statybos įstatymo bei kitų
 
-Respublikos Vyriausybės nustatyta tvarka.
+teisės aktų nustatyta tvarka parengę šio būsto rekonstravimo projektą, jeigu
 
-Gyvenamosios patalpos,
+šis būstas yra deklaruojamas kaip paskolos gavėjo (ir (ar) jo šeimos narių)
 
-neatitinkančios joms nustatytų techninių-sanitarinių normų ar nustatyta tvarka
+gyvenamoji vieta ir šie asmenys nuosavybės teise neturi kito būsto. Šiuo atveju
 
-pertvarkytos naudoti kitiems reikalams arba nugriautos, Lietuvos Respublikos
+parama teikiama turimam būstui rekonstruoti; arba
 
-Vyriausybės nustatyta tvarka išbraukiamos iš gyvenamųjų patalpų apskaitos.
+4) turi būstą,
+
+nepritaikytą neįgaliųjų, kurių judėjimo funkcija sutrikusi, poreikiams, jei
+
+tokiems asmenims yra nustatytas I ar II grupės invalidumas, arba šeimoje yra
+
+neįgalus vaikas, kurio judėjimo funkcija sutrikusi, arba tokios pat negalios
+
+asmuo, kuriam nustatytas I ar II grupės invalidumas. Parama teikiama turimam
+
+būstui rekonstruoti, pritaikant jį neįgaliųjų poreikiams Valstybės remiamų
+
+būsto kreditų teikimo tvarka.
+
+2. Valstybės
+
+remiama būsto kredito suma neturi būti didesnė kaip:
+
+1) 120
+
+tūkstančių litų arba ekvivalentas kita valiuta – asmeniui be šeimos;
+
+2) 240
+
+tūkstančių litų arba ekvivalentas kita valiuta - dviejų ir daugiau asmenų šeimai;
+
+3) 120
+
+tūkstančių litų arba ekvivalentas kita valiuta – būstui rekonstruoti, taip pat
+
+būstui pritaikyti neįgaliųjų poreikiams, neatsižvelgiant į asmens šeiminę
+
+padėtį.
+
+3. Kaip teikiami
+
+valstybės remiami būsto kreditai, nustatyta šio straipsnio 1 dalyje nurodytoje
+
+Tvarkoje. Valstybės remiamus būsto kreditus teikiantys bankai (ar kitos kredito
+
+įstaigos) turi sudaryti sutartis su Vyriausybės įgaliota institucija dėl šių
+
+kreditų teikimo (Įstatymo nustatytų subsidijų padengimo) tvarkos. Sutartyse
+
+turi būti nustatytos didžiausios metinės šių kreditų apimtys (limitai)
+
+atsižvelgiant į valstybės biudžeto asignavimus valstybės paramai pagal šį
+
+Įstatymą teikti.
+
+5 straipsnis.
+
+Būsto kreditų draudimas ir draudimo įmokų mokėjimas
+
+1. Vyriausybės įsteigta būsto
+
+kreditų (paskolų) draudimo įmonė (bendrovė) pagal kreditų gavėjų prašymus
+
+sudaro kreditų būstui įsigyti draudimo sutartis.
+
+2. Draudimo įmoka ar jos dalis iš
+
+valstybės biudžeto mokama už būsto kreditų, suteiktų pagal šio Įstatymo 4
+
+straipsnio sąlygas, gavėjus. Draudimo įmokų apmokėjimo dydžius, atsižvelgiant į
+
+valstybės biudžeto asignavimus paramai pagal šį Įstatymą teikti, ir jų
+
+padengimo tvarką nustato Vyriausybė ar jos įgaliota institucija Valstybės
+
+remiamų būsto kreditų teikimo tvarkoje.
+
+6 straipsnis.
+
+Subsidija būsto kredito daliai padengti
+
+1. Subsidija
+
+būsto kredito daliai padengti teikiama šių kreditų gavėjams, atitinkantiems šio
+
+Įstatymo 4 straipsnio 1 dalies sąlygas, ir jeigu jie yra:
+
+1) pilnamečiai
+
+našlaičiai, kol jie sukanka 35 metus, arba I ar II grupės invalidai, arba
+
+šeimos, kuriose yra I ar II grupės invalidas ar vaikas invalidas – padengiama
+
+20 procentų suteikto kredito (ar kredito likučio) sumos;
+
+2) šeimos,
+
+auginančios tris ar daugiau vaikų (įvaikių), taip pat jaunos šeimos,
+
+auginančios vieną ar daugiau vaikų (įvaikių) – padengiama 10 procentų suteikto
+
+kredito (ar kredito likučio) sumos.
+
+2. Subsidijos
+
+teikiamos pagal Valstybės remiamų būsto kreditų teikimo tvarką.
+
+3. Tuo atveju,
+
+kai kredito gavėjas, kuriam suteikta subsidija kredito daliai padengti, gautą
+
+kreditą grąžina bankui anksčiau kaip per penkerius metus arba už šį kreditą
+
+įsigytą būstą per pirmuosius penkerius metus nuo kredito suteikimo dienos
+
+perleidžia kitam asmeniui, ši subsidija turi būti grąžinta pervedant pinigus į
+
+valstybės biudžetą. Subsidiją pagal kredito sutartį grąžina
+
+kreditą suteikęs bankas.
+
+4. Jeigu kredito
+
+gavėjas teisę į šią subsidiją įgijo nuo kredito gavimo, subsidija
+
+apskaičiuojama nuo kredito likučio sumos, esančios kredito gavėjo rašytinio
+
+prašymo, pateikto šio straipsnio 2 dalyje nurodyta tvarka, pateikimo dieną.
+
+TREČIASIS
+
+SKIRSNIS
+
+SAVIVALDYBIŲ
+
+SOCIALINIO BŪSTO NUOMA
+
+7 straipsnis.
+
+Savivaldybių socialinio būsto fondo sudarymas
+
+1. Savivaldybių
+
+socialinio būsto fondo plėtra finansuojama iš valstybės biudžeto tikslinių
+
+asignavimų ir savivaldybių lėšų, statant naujus arba rekonstruojant ir
+
+pritaikant būsto paskirčiai esamus pastatus, taip pat perkant ar kitokiu būdu
+
+teisėtai įsigyjant gyvenamuosius namus, jų dalis, butus. Šiais būdais įsigyti
+
+gyvenamieji namai, jų dalys, butai registruojami savivaldybės nuosavybės teise.
+
+Valstybės biudžeto asignavimai socialinio būsto fondui plėtoti planuojami ir
+
+paskirstomi savivaldybėms pagal Vyriausybės patvirtintą socialinio būsto fondo
+
+plėtros programą.
+
+2. Socialinis
+
+būstas neprivatizuojamas, išskyrus atvejus, nustatytus šio Įstatymo 12
+
+straipsnyje.
 
 8 straipsnis.
 
-Gyvenamosios patalpos ploto rodiklis ir valstybės paramos dydis
+Teisė į savivaldybės socialinį būstą ar jo sąlygų pagerinimą
 
-Gyvenamosios
+1. Teisę į
 
-patalpos ploto rodiklis valstybės paramai gauti yra iki 10 kvadratinių metrų
+savivaldybės socialinį būstą turi šio Įstatymo 1 straipsnyje nurodyti asmenys
 
-sąlyginio ploto, tenkančio vienam šeimos nariui. Sąlyginis plotas nustatomas
+(šeimos), jeigu jie neturi Lietuvos Respublikos teritorijoje nuosavybės teise
 
-atsižvelgiant į turimos gyvenamosios patalpos dydį ir kokybę pagal prie šio
+priklausančio būsto arba turimo būsto naudingasis plotas, tenkantis vienam
 
-įstatymo pridedamą metodiką (1 priedėlis), kurioje pateikta sąlyginio ploto
+šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų ir asmens (jo šeimos)
 
-skaičiavimo formulė ir koeficientai. Koeficientų dydžius nustato Lietuvos
+vienų metų (12 paskutinių mėnesių) turtas ir pajamos prieš savivaldybės
 
-Respublikos Vyriausybė.
+socialinio būsto suteikimą yra mažesnės už turtą ir pajamas, kurių didžiausius
 
-Įsigyjamų
+dydžius ir (ar) jų apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota
 
-gaunant valstybės paramą kredito lengvatinėmis sąlygomis forma gyvenamųjų
+institucija.
 
-patalpų bendras naudingas plotas neturi viršyti:
+2. Asmuo
 
-1) 1-2 asmenų
+(šeima), gyvenantis savivaldybės išnuomotame būste, kurio naudingasis plotas,
 
-šeimai - 60 kvadratinių metrų;
+tenkantis vienam šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų arba
 
-2) 3 asmenų
+mažesnis kaip 14 kvadratinių metrų, jei šeimoje yra I ar II grupės invalidas
 
-šeimai - 75 kvadratinių metrų;
+arba vaikas invalidas, arba asmuo, sergantis lėtinės ligos, įrašytos į
 
-3) 4-7 asmenų
+Vyriausybės ar jos įgaliotos institucijos tvirtinamą sąrašą, sunkia forma, turi
 
-šeimai -90 kvadratinių metrų;
+teisę į socialinio būsto sąlygų pagerinimą pagal šio Įstatymo 9 straipsnyje
 
-4) 8 ir daugiau
+nustatytus socialinio būsto naudingojo ploto normatyvus. Suteikus kitą būstą,
 
-asmenų šeimai - po 12 kvadratinių metrų kiekvienam šeimos nariui.
+asmuo (šeima) privalo patuštinti nuomotą savivaldybės būstą. Šiais atvejais
 
-Jeigu asmuo
+asmens (šeimos) turtas ir pajamos taip pat neturi viršyti dydžių, kurie
 
-(šeima) pageidauja įsigyti individualų namą, bendro naudingo ploto norma
+nustatomi šio straipsnio 1 dalyje nustatyta tvarka.
 
-padidinama iki 120 kvadratinių metrų nepaisant šeimos narių skaičiaus.
+9 straipsnis.
 
-Gyvenamojo namo,
+Socialinio būsto naudingojo ploto normatyvas
 
-buto statybos ir pirkimo bendro naudingo ploto vieno kvadratinio metro kainos
+1. Savivaldybės
 
-normatyvą kiekvienų metų pradžioje nustato Lietuvos Respublikos Vyriausybė.
+socialinio būsto naudingasis plotas, tenkantis vienam šeimos nariui, neturi
 
-Visais atvejais
+viršyti 14 kvadratinių metrų, išskyrus šio straipsnio 2 ir 3 dalyse nustatytus
 
-kredito lengvatinėmis sąlygomis dydis turi atitikti kredituojančio banko
+atvejus.
 
-nustatytas kredito draudimo (grąžinimo garantijų, turto įkeitimo) sąlygas,
+2. Išnuomojant
 
-suderintas su Lietuvos Respublikos Vyriausybės įgaliota institucija.
+socialinį būstą, atsižvelgiama į tai, kad būtų galimybė turėti atskirus
 
-Nuomojant
+kambarius I ir II grupės invalidams, vaikui invalidui, asmenims, sergantiems
 
-gyvenamąsias patalpas iš savivaldybės butų fondo, jų bendras naudingas plotas
+lėtinių ligų, įrašytų į Vyriausybės ar jos įgaliotos institucijos tvirtinamą
 
-neturi viršyti 18 kvadratinių metrų kiekvienam šeimos nariui, išskyrus šio
+sąrašą, sunkiomis formomis, taip pat skirtingų lyčių vaikams. Šiais atvejais
 
-įstatymo 12 straipsnyje nustatytus atvejus.
+savivaldybės vykdomosios institucijos sprendimu šeimai išnuomojamo būsto
 
-Straipsnio
+naudingasis plotas gali būti didesnis negu normatyvinis naudingasis plotas,
 
-pakeitimai:
+apskaičiuotas pagal šio straipsnio 1 dalį. Šeimai išnuomojamo socialinio būsto
 
-Nr. VIII-472,
+naudingasis plotas taip pat gali būti padidintas, jeigu savivaldybės socialinio
 
-97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
+būsto fonde nėra laisvų butų, atitinkančių šio straipsnio 1 dalies sąlygas.
 
-9 straipsnis. Teisės į
+3. Išnuomojant
 
-valstybės paramą sąlygos
+vieno kambario butą, jo naudingasis plotas, tenkantis vienam šeimos nariui,
 
-Teisę į
+gali būti didesnis negu apskaičiuotas pagal šio straipsnio 1 dalyje nustatytus
 
-valstybės paramą apsirūpinti gyvenamosiomis patalpomis piliečiai turi, kai yra
-
-bent viena iš šių sąlygų:
-
-1) gyvena
-
-nuomojamame ar nuosavame name, bute, kuriame kiekvienam šeimos nariui tenka
-
-ploto mažiau negu nurodyta šio įstatymo 8 straipsnio pirmojoje dalyje;
-
-2) nuomoja
-
-gyvenamąsias patalpas iš fizinių asmenų arba komercinėmis sąlygomis iš įmonių,
-
-organizacijų, taip pat gyvena buvusiems savininkams grąžintuose namuose
-
-(butuose) nepriklausomai nuo gyvenamosios patalpos dydžio;
-
-3) vienai šeimai
-
-gyventi pritaikytame bute (name) gyvena dvi ar daugiau šeimų arba vieno
-
-kambario bute gyvena trys ir daugiau asmenų. Atskira šeima taip pat laikomas
-
-nevedęs (netekėjusi) šeimos narys nuo 18 metų;
-
-4) gyvena
-
-tarnybiniame bute, bendrabutyje;
-
-5) grįžta ar yra
-
-grįžę iš tremties ir neturi gyvenamojo ploto arba turi jo mažiau nei nurodyta
-
-šio įstatymo 8 straipsnio pirmojoje dalyje.
-
-Piliečiai,
-
-neturėję teisės į valstybės paramą, pabloginę savo būsto sąlygas perleisdami,
-
-pakeisdami turimas gyvenamąsias patalpas ar persikeldami iš gyvenamųjų patalpų
-
-į kitas, kuriose gyvenant gali būti įgyta teisė į valstybės paramą,
-
-teisę būti įrašyti į eilę valstybės paramai gauti įgyja praėjus 5 metams nuo
-
-būsto sąlygų pabloginimo.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.I-358;
-
-1993.12.23.; Žin., 1994, Nr.1-3
-
-Nr. VIII-472,
-
-97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
+normatyvus.
 
 10 straipsnis.
 
-Valstybės paramos formos
+Socialinio būsto nuompinigiai
 
-Piliečiai,
+Socialinio būsto
 
-turintys teisę į valstybės paramą apsirūpinti gyvenamosiomis patalpomis, gali
+nuompinigių dydį nustato savivaldybės institucijos, vadovaudamosi Vyriausybės
 
-nustatyta tvarka pasirinkti ir pasinaudoti viena iš šių paramos formų:
+nustatyta valstybės ir savivaldybių gyvenamųjų patalpų nuomos mokesčio
 
-1) gauti kreditą
-
-lengvatinėmis sąlygomis arba subsidijas gyvenamajam namui ar butui pasistatyti
-
-arba nusipirkti;
-
-2) išsinuomoti
-
-savivaldybės gyvenamąsias patalpas, taikant savivaldybių reguliuojamus nuomos
-
-mokesčio tarifus.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.I-358;
-
-1993.12.23.; Žin., 1994, Nr.1-3
-
-Nr. VIII-472,
-
-97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
+apskaičiavimo tvarka.
 
 11 straipsnis.
 
-Kredito lengvatinėmis sąlygomis suteikimas
+Socialinio būsto nuomos tvarka ir sąlygos
 
-Piliečiams,
+1. Asmenys
 
-turintiems teisę į valstybės paramą, suteikiamas kreditas lengvatinėmis
+(šeimos), turintys teisę į savivaldybės socialinį būstą ar jo sąlygų pagerinimą
 
-sąlygomis neturi viršyti šio įstatymo 8 straipsnio antrojoje ir trečiojoje
+pagal šio Įstatymo 8 straipsnį, pateikę rašytinį prašymą, registruojami
 
-dalyse nustatytų valstybės paramos dydžių.
+savivaldybės vykdomojoje institucijoje pagal asmens (šeimos atveju – vieno iš
 
-Jei pilietis (jo
+sutuoktinių) įstatymų nustatyta tvarka deklaruotą gyvenamąją vietą. Kartu su
 
-šeimos narys) turi Lietuvos Respublikoje nuosavybės teise jam priklausantį butą
+prašymu pateikiami dokumentai, įrodantys teisę į socialinį būstą ar būsto
 
-(namą, jo dalį) arba per paskutiniuosius penkerius kalendorinius metus,
+sąlygų pagerinimą. Registravimo tvarką nustato savivaldybės institucijos.
 
-įskaitant ir paramos suteikimo metus, jį turėjo ir perleido kitiems asmenims,
+2. Asmenų
 
-jam suteikiamas kreditas trūkstamoms iki šio įstatymo 8 straipsnio antrojoje
+(šeimų), turinčių teisę į socialinį būstą, sąrašai sudaromi pagal prašymo
 
-dalyje nustatyto ploto gyvenamosioms patalpoms įsigyti (apskaičiuojant
+įregistravimo savivaldybės institucijoje datą. Sudaromi šie atskiri sąrašai:
 
-trūkstamą plotą, iš maksimalaus ploto, kuriam įsigyti gali būti suteikta
+1) jaunų šeimų;
 
-valstybės parama, atimamas nuosavybės teise turimo arba per paskutiniuosius
+2) našlaičių ir
 
-penkerius kalendorinius metus turėto ir perleisto kitiems asmenims buto (namo)
+likusių be tėvų globos asmenų. Į šį sąrašą įrašomi našlaičiai ir likę be tėvų
 
-arba jo dalies, tenkančios prašančiai paramos šeimai, sąlyginis plotas). Jei
+globos asmenys (jų šeimos), kurie pasibaigus jų globos ar laisvės atėmimo
 
-per šį laiką pilietis turėjo ir perleido ar paramos suteikimo metu turi kelias
+terminui yra ne vyresni kaip 35 metų;
 
-nuosavybės teise jam priklausančias gyvenamąsias patalpas, apskaičiuojant
+3) neįgaliųjų
 
-atimamas didžiausias vienu metu turėtų ir perleistų ar turimų patalpų sąlyginis
+asmenų (šeimų). Į šį sąrašą įrašomi I ar II grupės invalidai, taip pat šeimos,
 
-plotas.
+kuriose yra I ar II grupės invalidas arba vaikas invalidas, asmenys, sergantys
 
-Kreditas
+lėtinių ligų, įrašytų į Vyriausybės ar jos įgaliotos institucijos patvirtintą
 
-lengvatinėmis sąlygomis gali būti suteikiamas be palūkanų arba be palūkanų ir
+sąrašą, sunkiomis formomis, ir šeimos, kuriose yra tomis ligomis sergančių
 
-negrąžinant iki 20 procentų gautosios kredito sumos.
+asmenų;
 
-Šio straipsnio
+4) bendrasis. Į
 
-trečiosios dalies nuostata taikoma socialiai remtiniems asmenims, numatytiems
+šį sąrašą įrašomi visi asmenys, nepatenkantys į 1, 2 ir 3 punktuose nurodytus
 
-šio įstatymo 4 priedėlyje, neatsižvelgiant į tai, kada atsirado jų teisė
+sąrašus;
 
-į kreditą lengvatinėmis sąlygomis. Šio įstatymo 4 priedėlyje numatytiems
+5) socialinio
 
-socialiai remtiniems asmenims, gavusiems kreditus po 1990 m. kovo 11 d.,
+būsto nuomininkų, turinčių teisę į būsto sąlygų pagerinimą.
 
-lengvatos taikomos tik kredito sutartyje pagal 1995 m. gegužės 1 d. būklę
+3. Savivaldybės
 
-nustatytai ir negrąžintai sumai bei vėliau gautai kredito daliai. Asmenims,
+socialinis būstas nuomojamas laikantis eiliškumo pagal šio straipsnio 2 dalyje
 
-kurie kredito suteikimo metu nebuvo socialiai remtini, bet jais tapo vėliau,
+nurodytus sąrašus. Sąrašų prioritetus nustato ir sprendimą išnuomoti socialinį
 
-papildomos lengvatos taikomos nuo kreipimosi dėl šių lengvatų taikymo
+būstą priima savivaldybės vykdomoji institucija. Gyvenamųjų patalpų nuomos
 
-įregistravimo savivaldybėje dienos, jeigu pateikiami dokumentai,
+sutartis sudaroma vadovaujantis Civiliniu kodeksu. Šalių susitarimu nuomos
 
-patvirtinantys, jog asmenys pagal šį įstatymą priskirtini socialiai remtiniems.
+sutartyje gali būti numatytos sąlygos dėl nuomininko perkėlimo į mažesnio ploto
 
-Jaunoms šeimoms,
+būstą. Asmeniui (šeimai) nuosavybės teise įgijus būstą, socialinio būsto nuomos
 
-šio įstatymo 17 straipsnyje nustatyta tvarka įrašytoms į trečiąją eilę
+sutartis su juo nutraukiama nuomos sutartyje nustatyta tvarka.
 
-valstybės paramai gauti, kreditas lengvatinėmis sąlygomis suteikiamas iš
+4. Socialinio
 
-komercinių bankų kreditinių išteklių, o rinkos ir lengvatinių palūkanų
+būsto nuomos sutartyje turi būti nustatyta, kad nuomininko turtui ir pajamoms
 
-skirtumas dengiamas iš valstybės biudžeto lėšų, skiriamų valstybės paramai
+viršijant dydžius, nustatytus pagal šio Įstatymo 8 straipsnio 1 dalies sąlygas,
 
-gauti.
+nuomos sutartis nutraukiama. Duomenys apie turtą ir pajamas šio Įstatymo 8
 
-Kreditų
+straipsnio 1 dalyje nurodyta tvarka pateikiami ne dažniau kaip vieną kartą per
 
-suteikimo tvarką ir sąlygas, palūkanų ir subsidijų dydžius bei minimalų
+trejus metus.
 
-pirminio įnašo dydį nustato Lietuvos Respublikos Vyriausybė.
+KETVIRTASIS
+
+SKIRSNIS
+
+SAVIVALDYBĖS
+
+(VALSTYBĖS) GYVENAMŲJŲ PATALPŲ PRIVATIZAVIMAS LENGVATINĖMIS SĄLYGOMIS
+
+12 straipsnis. Savivaldybės
+
+(valstybės) gyvenamųjų patalpų privatizavimas
+
+lengvatinėmis
+
+sąlygomis
+
+1. Savivaldybės
+
+(valstybės) gyvenamosios patalpos gali būti privatizuojamos laikantis sąlygos,
+
+kad jų pardavimo kaina nebūtų didesnė negu kaina pinigais, kuri Butų privatizavimo
+
+įstatymo nustatyta tvarka galėjo būti apskaičiuota iki 1998 m. liepos 1 d. ir
+
+patikslinta atsižvelgiant į infliaciją šiais atvejais:
+
+1) kai
+
+privatizuoja nuomininkai, kuriems įstatymo nustatyta tvarka iki 1998 m. liepos
+
+1 d. Seimo sudaryta butų privatizavimo komisija buvo išdavusi leidimus
+
+privatizuoti nuomojamas gyvenamąsias patalpas pagal Butų privatizavimo
+
+įstatymą;
+
+2) kai
+
+privatizuoja nuomininkai, kuriems teismo sprendimu pripažinta teisė
+
+privatizuoti jų nuomojamas gyvenamąsias patalpas pagal Butų privatizavimo
+
+įstatymą;
+
+3) kai
+
+privatizuoja nuomininkai, kurie yra iškeldinti arba dėl kurių yra priimtas
+
+sprendimas iškeldinti iš avarinių gyvenamųjų patalpų ir patalpų, įrašytų į
+
+griaunamų namų sąrašą pagal miesto (miestelio) plėtros planą, arba įrašytų į
+
+visuomenės poreikiams paimamų pastatų sąrašą, ir kurių dėl to negalima buvo
+
+privatizuoti pagal Butų privatizavimo įstatymą;
+
+4) kai patalpų
+
+savininkai privatizuoja pagal Butų privatizavimo įstatymą privatizuotų
+
+gyvenamųjų patalpų papildomą naudingąjį plotą, atsiradusį atlikus privatizuoto
+
+buto inventorizaciją, taip pat plotą, atsiradusį savivaldybės institucijos
+
+sutikimu išplėtus privatizuoto buto naudingąjį plotą sumažinant gyvenamojo namo
+
+bendrojo naudojimo patalpų plotą (bendrabučių privatizavimo ir pertvarkymo į
+
+butus atvejais);
+
+5) kai
+
+privatizuojamos grįžusiems į Lietuvą reabilituotiems politiniams kaliniams ir
+
+tremtiniams Vyriausybės nustatyta tvarka nuomos pagrindais suteiktos
+
+gyvenamosios patalpos;
+
+6) kai
+
+privatizuoja nuomininkai, gyvenantys gyvenamosiose patalpose, kurios
+
+negrąžintos natūra religinėms bendruomenėms ar bendrijoms, taip pat
+
+nuomininkai, kuriems suteiktos kitos gyvenamosios patalpos, iškeldinus juos iš
+
+religinėms bendruomenėms ar bendrijoms grąžintų gyvenamųjų patalpų;
+
+7) taip pat
+
+atvejais, kuriuos nustato Piliečių nuosavybės teisių į išlikusį nekilnojamąjį
+
+turtą atkūrimo įstatymas ir (ar) kiti teisės aktai, susiję su šio Įstatymo
+
+įgyvendinimu.
+
+2. Už kainą,
+
+Vyriausybės nustatyta tvarka apskaičiuotą pagal Turto ir verslo vertinimo
+
+pagrindų įstatymą, gali būti parduodamos šios savivaldybės (valstybės)
+
+gyvenamosios patalpos ir jų priklausiniai:
+
+1) kambariai (ir
+
+jų priklausiniai), esantys iš dalies privatizuotame bute su bendra virtuve,
+
+teikiant pirmenybę šio buto bendraturčiams, taip pat patuštinti bendrabučių
+
+kambariai, kurie savivaldybės institucijos sprendimu gali būti priskirti greta
+
+esančių privatizuotų gyvenamųjų patalpų savininkams, kad būtų sudarytos sąlygos
+
+bendrabučio kambarius pertvarkyti į butus;
+
+2) gyvenamųjų
+
+patalpų savininkų teisėtai naudojamos pagalbinės ir ūkinės patalpos
+
+(sandėliukai, garažai ir kt., išskyrus laikinus pastatus), teikiant pirmenybę
+
+šių gyvenamųjų patalpų savininkams (bendraturčiams);
+
+3) per 60
+
+procentų fiziškai susidėvėję nuomojami vienbučiai gyvenamieji namai, jų dalys
+
+(ir priklausiniai), taip pat butai, jeigu šių namų, butų remontas ar
+
+rekonstrukcija savivaldybei (valstybei) yra ekonomiškai nenaudingi arba tam
+
+savivaldybė (valstybė) neturi lėšų – jų nuomininkams, jeigu šie nuomininkai yra
+
+išgyvenę juose ne mažiau kaip trejus metus.
+
+3. Už
+
+privatizuojamas gyvenamąsias patalpas pagal šiame straipsnyje nurodytas sąlygas
+
+atsiskaitoma pinigais, sumokant nustatytą sumą iš karto arba privatizuojančiojo
+
+pageidavimu išsimokėtinai per 10 metų. Parduodant išsimokėtinai skaičiuojamos
+
+Vyriausybės arba jos įgaliotos institucijos nustatyto dydžio palūkanos.
+
+Privatizavimo tvarką, taip pat lėšų, gautų už privatizuojamas
+
+gyvenamąsias patalpas, apskaitos ir naudojimo tvarką nustato Vyriausybė.
+
+4. Savivaldybės
+
+vykdomosios institucijos pirkimo-pardavimo
+
+sutartis sudaro ir tais atvejais, jeigu gyventojai pagal Butų privatizavimo
+
+įstatymą nustatytu laiku buvo pateikę prašymus privatizuoti nuomojamas
+
+gyvenamąsias patalpas ir įstatymo nustatyta tvarka yra priimtas
+
+sprendimas dėl privatizavimo, ir jeigu jie yra sumokėję nustatyto dydžio
+
+įmokas, tačiau nesudarę pirkimo–pardavimo sutarties.
 
 Straipsnio
 
 pakeitimai:
+
+12
+
+straipsnio 3 dalies atitaisymas  skelbtas: Žin., 2003, Nr. 3 (2003-01-10)
+
+LIETUVOS RESPUBLIKOS
+
+AUKŠČIAUSIOSIOS TARYBOS
+
+PIRMININKAS
+
+VYTAUTAS LANDSBERGIS
+
+Vilnius, 1992 m. balandžio 7 d.
+
+Nr. I-2455
+
+__________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.I-358;
+
+93.12.23, Žin., 1994, Nr.1-3
+
+DĖL
+
+LIETUVOS RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO
+
+PAKEITIMO
+
+IR
+
+PAPILDYMO
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.I-800;
+
+95.02.21, Žin., 1995, Nr.20-451
+
+DĖL
+
+LIETUVOS RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO
+
+PAKEITIMO IR PAPILDYMO
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
 
 Nr.I-875,
 
 95.05.02, Žin., 1995, Nr. 39-963
 
-Nr. VIII-472,
+DĖL
+
+LIETUVOS RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO
+
+PAKEITIMO IR PAPILDYMO
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-194,
+
+97.04.24, Žin., 1997, Nr.38-926 (97.05.02)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO 3
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-472,
 
 97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
 
-12 straipsnis.
+LIETUVOS
 
-Savivaldybių gyvenamųjų patalpų nuoma
+RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO 3, 6, 8,
 
-Piliečiai,
+9, 10, 11, 12, 14, 17, 19, 20, 21 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI 13
 
-turintys teisę į valstybės paramą, gali išsinuomoti iš savivaldybių pagrindinio
+STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 
-butų fondo gyvenamąsias patalpas, neviršijančias šio įstatymo 8 straipsnio
+6.
 
-šeštojoje dalyje nustatyto bendro naudingo ploto.
+Lietuvos Respublikos Seimas, Įstatymas
 
-Išnuomojant
+Nr. VIII-1741, 00.06.20, Žin., 2000,
 
-gyvenamąsias patalpas, atsižvelgiama į tai, kad būtų galimybė turėti atskiras
+Nr.56-1639 (00.07.12)
 
-patalpas (kambarius) skirtingos lyties vyresniems kaip 9 metų amžiaus vaikams,
+DAUGIABUČIŲ NAMŲ SAVININKŲ BENDRIJŲ ĮSTATYMO PAKEITIMO
 
-I ir II grupės invalidams, asmenims, sergantiems lėtinių ligų, įrašytų į
+ĮSTATYMAS
 
-Lietuvos Respublikos įstatymų nustatyta tvarka tvirtinamą sąrašą, sunkiomis
+7.
 
-formomis. Šiais atvejais savivaldybės sprendimu šeimai išnuomojamų gyvenamųjų
+Lietuvos Respublikos Seimas, Įstatymas
 
-patalpų plotas gali būti padidintas 12 kvadratinių metrų bendro naudingo ploto.
+Nr. VIII-2033, 2000 10 12, Žin., 2000, Nr.
 
-Išnuomojant
+92-2874 (2000 10 31)
 
-vieno kambario butą, šio įstatymo 8 straipsnio šeštojoje dalyje nustatyta
+GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS
 
-bendro naudingo ploto norma vienam šeimos nariui netaikoma.
+ĮSTATYMO PAPILDYMO
 
-Visais atvejais
+13 STRAIPSNIU, 14 IR 18 STRAIPSNIŲ PAKEITIMO IR BUTŲ PRIVATIZAVIMO ĮSTATYMO BEI
 
-kiekvienam šeimos nariui turi tekti ne mažiau kaip 10 kvadratinių metrų bendro
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS - ATKURIAMOJO SEIMO NUTARIMO „DĖL
 
-naudingo ploto.
+LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO ĮSIGALIOJIMO“ PRIPAŽINIMO
 
-Straipsnio
+NETEKUSIAIS GALIOS ĮSTATYMAS
 
-pakeitimai:
+Šis
 
-Nr. VIII-472,
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 
-97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1188,
+
+2002-11-12, Žin., 2002, Nr. 116-5188 (2002-12-06)
+
+GYVENTOJŲ
+
+APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija
+
+Šis
+
+Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
+
+Šio Įstatymo atitaisymas skelbtas: Žin., 2003, Nr. 3
+
+(2003-01-10)
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2002-12-09)
+
+autrap@lrs.lt
 
 13 straipsnis.
 
@@ -2186,33 +2554,17 @@ Redagavo: Aušrinė Trapinskienė (2000 11 21)
 
 autrap@lrs.lt
 
-3 straipsnis. Neteko
+3 straipsnis.
 
-galios nuo 2000 liepos 12 d.
+Paramos būstui įsigyti formos
 
-Straipsnio
+Valstybės parama
 
-pakeitimai:
+būstui įsigyti pagal šį Įstatymą teikiama mokant iš valstybės biudžeto lėšų
 
-Nr.
+būsto kredito draudimo įmokas ar jų dalį, teikiant subsidijas būsto kredito
 
-I-800;
-
-1995.02.21.; Žin., 1995, Nr. 20-451
-
-Nr.
-
-VIII-194,
-
-97.04.24, Žin., 1997, Nr. 38-926 (97.05.02)
-
-Nr. VIII-472,
-
-97.10.21, Žin., 1997, Nr. 98-2483 (97.10.30)
-
-Nr. VIII-1741, 00.06.20, Žin., 2000, Nr.
-
-56-1639 (00.07.12)
+daliai padengti.
 
 14 straipsnis. Piliečiams
 
