@@ -4,7 +4,7 @@ identifier: "TAR.CA0F08EF687E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-11"
-last_updated: "2002-05-07"
+last_updated: "2002-12-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA0F08EF687E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas
 
-Įstatymas skelbtas: Žin.,
-
-2001, Nr. 91-3190
+Įstatymas skelbtas: Žin., 2001, Nr. 91-3190
 
 Neoficialus įstatymo tekstas
 
@@ -37,6 +35,168 @@ I SKYRIUS
 BENDROSIOS
 
 NUOSTATOS
+
+1
+
+straipsnis. Įstatymo paskirtis ir tikslas
+
+1.
+
+Šis Įstatymas nustato Lietuvos Respublikos valstybinio socialinio draudimo
+
+fondo (toliau – Fondo) biudžeto sudarymo ir vykdymo tvarką bei rodiklius, pagal
+
+kuriuos tvirtinamas Fondo biudžetas ir Fondo biudžeto vykdymo ataskaita.
+
+2. Fondo biudžeto sandaros įstatymo tikslas – siekiant
+
+ilgalaikės, visapusiškos socialinės Lietuvos Respublikos gyventojų gerovės,
+
+užtikrinti, kad sudarant ir vykdant Fondo biudžetą būtų
+
+numatyti ištekliai Valstybinio socialinio draudimo įstatymo numatytoms
+
+socialinio draudimo rūšims vykdyti ir kad šie ištekliai būtų naudojami pagal
+
+paskirtį.
+
+2
+
+straipsnis. Pagrindinės šio Įstatymo sąvokos
+
+1.
+
+Apdraustieji – fiziniai asmenys, kurie įstatymų nustatyta tvarka moka
+
+arba už kuriuos mokamos valstybinio socialinio draudimo įmokos.
+
+2.
+
+Bendrasis valstybinio socialinio draudimo įmokų tarifas – teisės aktų
+
+nustatyta tvarka patvirtintas valstybinio socialinio draudimo įmokų, mokamų nuo
+
+draudžiamųjų pajamų bazės, dydis.
+
+3.
+
+Biudžetiniai metai – metai, kurie prasideda sausio 1 dieną ir
+
+baigiasi gruodžio 31 dieną.
+
+4.
+
+Draudėjai – visi viešieji ir privatūs juridiniai asmenys, taip pat
+
+fiziniai asmenys, kurie įstatymų nustatyta tvarka privalo mokėti valstybinio
+
+socialinio draudimo įmokas.
+
+5. Draudžiamųjų pajamų bazė – su darbo santykiais ir
+
+(ar) su valstybės tarnyba susijusių pajamų suma, nuo kurios skaičiuojamos
+
+valstybinio socialinio draudimo įmokos pagal bendrąjį valstybinio socialinio
+
+draudimo įmokų tarifą.
+
+6.
+
+Fondo biudžetas – šiame Įstatyme nustatytų pajamų ir išlaidų
+
+biudžetinių metų planas.
+
+7.
+
+Fondo biudžeto pajamų ir išlaidų klasifikacija – Fondo biudžeto pajamų ir
+
+išlaidų klasifikavimas pagal jų pobūdį ir paskirtį.
+
+8.
+
+Fondo įstaigos – Fondą administruojanti Fondo valdyba ir jos
+
+teritoriniai skyriai.
+
+9.
+
+Fondo rezervas – įstatymų ir kitų teisės aktų nustatyta tvarka įvertinto
+
+ilgalaikio materialiojo, nematerialiojo ir finansinio sukaupto turto,
+
+viršijančio Fondo įsipareigojimus, dalis.
+
+10.
+
+Kasos apyvartos lėšos – Fondo įstaigų bankų sąskaitose esantys pinigų
+
+likučiai, ne mažesni kaip biudžeto 3 dienų išlaidų suma.
+
+11.
+
+Pinigų srautai – grynųjų pinigų įplaukos ir išlaidos pagal veiklos
+
+pobūdį.
+
+12.
+
+Valstybinio socialinio draudimo įmokų tarifai atskiroms draudimo rūšims –
+
+bendrojo valstybinio socialinio draudimo įmokų tarifo dalys atskiroms
+
+draudimo rūšims.
+
+II SKYRIUS
+
+FONDO BIUDŽETO
+
+PAJAMOS, IŠLAIDOS, REZERVAS
+
+IR KASOS
+
+APYVARTOS LĖŠOS
+
+3
+
+straipsnis. Fondo biudžeto pajamos
+
+1.
+
+Fondo biudžeto pajamų ir išlaidų biudžetinių metų plane ir Fondo biudžeto
+
+vykdymo ataskaitoje parodomos biudžetiniams metams priskirtinos pajamos,
+
+neatsižvelgiant į jų gavimo laiką. Pinigų srautų plane ir ataskaitoje parodomos
+
+faktinės pinigų įplaukos.
+
+2.
+
+Fondo biudžeto pajamas sudaro draudėjų ir apdraustųjų valstybinio socialinio
+
+draudimo įmokos, individualių (personalinių) įmonių savininkų, individualių
+
+(personalinių) įmonių nuomininkų, advokatų, advokatų padėjėjų, notarų, tikrųjų
+
+ūkinių bendrijų narių, komanditinių ūkinių bendrijų tikrųjų narių, patentus
+
+įsigijusių asmenų bei
+
+ūkininkų valstybinio socialinio draudimo įmokos, valstybinio savanoriškojo
+
+socialinio draudimo įmokos, baudos, delspinigiai bei kitos pajamos, gautinos
+
+taikant sankcijas, asignavimai iš valstybės biudžeto, atgautos į ankstesnių
+
+metų Fondo biudžeto išlaidas iškeltos abejotinai atgautinos sumos, Fondo
+
+biudžeto veiklos pajamos ir iš turimo kapitalo gaunamos pajamos.
+
+Straipsnio pakeitimai:
+
+Nr. IX-871,
+
+2002-05-07, Žin., 2002, Nr. 52-1984 (2002-05-24)
 
 1 straipsnis.
 
@@ -596,15 +756,13 @@ socialinio draudimo bazinei pensijai gauti dydžius;
 
 kitų dvejų metų numatomus rodiklius.
 
-11 straipsnis.
+11 straipsnis. Fondo biudžeto rodiklių svarstymas ir tvirtinimas Seime
 
-Fondo biudžeto rodiklių svarstymas ir tvirtinimas Seime
+1. Seimas Fondo biudžetą vieneriems biudžetiniams metams
 
-1. Seimas Fondo biudžetą vieneriems biudžetiniams metams tvirtina
+tvirtina įstatymu ne vėliau kaip prieš 14 kalendorinių dienų iki biudžetinių
 
-įstatymu ne vėliau kaip prieš 14 kalendorinių dienų iki biudžetinių metų
-
-pradžios. Jeigu Fondo biudžetas laiku
+metų pradžios. Jeigu Fondo biudžetas laiku
 
 nepatvirtintas, šio Fondo veiklos sąnaudos nuo biudžetinių metų pradžios iki
 
@@ -612,11 +770,51 @@ biudžeto patvirtinimo kiekvieną mėnesį negali viršyti praėjusių metų Fon
 
 biudžeto 1/12 šio Fondo biudžeto veiklos sąnaudoms skirtų išlaidų.
 
-2. Fondo biudžetas patvirtinamas pagal Vyriausybės ar jos įgaliotos
+2. Fondo biudžetas patvirtinamas pagal Vyriausybės ar jos
 
-institucijos patvirtintas Fondo biudžeto pajamų ir išlaidų bei pinigų srautų
+įgaliotos institucijos patvirtintas Fondo biudžeto pajamų ir išlaidų bei pinigų
 
-klasifikacijas.
+srautų klasifikacijas.
+
+12
+
+straipsnis. Fondo ir nacionalinio biudžeto santykiai
+
+1.
+
+Lietuvos Respublikos valstybinio socialinio draudimo finansų pagrindą sudaro
+
+savarankiškas Valstybinio socialinio draudimo fondo biudžetas. Šis biudžetas į
+
+valstybės ir savivaldybių biudžetus neįtraukiamas.
+
+2.
+
+Asignavimai iš valstybės biudžeto skiriami tuomet, kai dėl Seimo priimtų
+
+įstatymų arba kitokių nenumatytų priežasčių padidėja socialinio draudimo
+
+išlaidos arba sumažėja pajamos, o įmokų socialiniam draudimui tarifai
+
+nekeičiami.
+
+13
+
+straipsnis. Fondo biudžeto tikslinimas biudžetiniais metais
+
+Jeigu
+
+Seimas priima atitinkamus įstatymus arba Vyriausybė priima su įstatymų vykdymu
+
+susijusius nutarimus ir dėl to padidėja Fondo biudžeto išlaidos arba sumažėja
+
+Fondo biudžeto pajamos, o asignavimų iš valstybės biudžeto nėra galimybių
+
+skirti, Fondo biudžetas patikslinamas tokia pat tvarka, kaip ir tvirtinamas.
+
+IV SKYRIUS
+
+FONDO BIUDŽETO VYKDYMAS
 
 12 straipsnis.
 
@@ -1411,262 +1609,4 @@ PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Redagavo: Aušrinė Trapinskienė (2003-01-09)
 
 autrap@lrs.lt
-
-10 straipsnis. Fondo biudžeto tvirtinimas
-
-1. Fondo biudžetas atitinkamiems biudžetiniams metams tvirtinamas priimant Fondo biudžeto rodiklių patvirtinimo įstatymą.
-
-2. Fondo biudžetą kitiems biudžetiniams metams Seimas tvirtina ne vėliau kaip likus 14 kalendorinių dienų iki einamųjų biudžetinių metų pabaigos. Jeigu Fondo biudžetas laiku nepatvirtintas, prasidėjus naujiems biudžetiniams metams taikomi praėjusių biudžetinių metų įmokų tarifai, o Fondo veiklos sąnaudos nuo naujų biudžetinių metų pradžios iki Fondo biudžeto patvirtinimo kiekvieną mėnesį negali viršyti 1/12 praėjusiais biudžetiniais metais Fondo veiklos sąnaudoms skirtų lėšų.
-
-3. Patvirtinus Fondo biudžetą, Fondo valdyba paskirsto ir patvirtina ketvirčiais Fondo biudžeto pajamas, išlaidas bei pinigines įplaukas ir išlaidas pagal klasifikacijos straipsnius, ir patvirtina Fondo administravimo įstaigų veiklos sąnaudų sąmatas.
-
-16 straipsnis. Pateisinamos Fondo biudžeto struktūrinio postūmio užduoties neįvykdymo priežastys
-
-Pateisinamomis Fondo biudžeto struktūrinio postūmio užduoties neįvykdymo priežastimis laikoma:
-
-1) tai, kad rengiant Fondo biudžeto rodiklių patvirtinimo įstatymo projektą naudoti šalies ekonominės raidos scenarijaus ir valstybės biudžeto ir savivaldybių biudžetų preliminarūs pagrindiniai rodikliai vėliau buvo pakeisti;
-
-2) tai, kad pakeičiama valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduotis;
-
-3) išskirtinės aplinkybės, kaip ši sąvoka apibrėžta Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme.
-
-Papildyta straipsniu:
-
-Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
-
-Lietuvos Respublikos
-
-valstybinio socialinio draudimo
-
-fondo biudžeto sandaros įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžetų sistemoms (OL 2011 L 306, p. 41).
-
-Papildyta priedu:
-
-Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-871, 2002-05-07, Žin., 2002, Nr. 52-1984 (2002-05-24)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 5, 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šio Įstatymo 3 straipsnyje išdėstyto 6 straipsnio 3 dalies nuostata, kad Fondo biudžeto veiklos sąnaudas sudaro ir Fondo įstaigų darbuotojų darbo apmokėjimo bei jų valstybinio socialinio draudimo sąnaudos, įsigalioja nuo 2002 m. liepos 1 d.
-
-Šis Įstatymas, išskyrus 1 straipsnį, įsigalioja nuo 2004 m. sausio 1 d.
-
-Pakeistas įstatymo įsigaliojimas:
-
-1.1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1230, 2002-12-10, Žin., 2002, Nr. 123-5522 (2002-12-24)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 5, 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1266, 2002-12-10, Žin., 2002, Nr. 123-5551 (2002-12-24)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1748, 2003-10-07, Žin., 2003, Nr. 101-4535 (2003-10-29)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO IR VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
-
-NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO, ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, SVEIKATOS DRAUDIMO ĮSTATYMO, NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO, LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-667, 2006-06-08, Žin., 2006, Nr. 72-2683 (2006-06-28)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas įsigalioja nuo 2006 m. liepos 1 d.
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-751, 2006-07-11, Žin., 2006, Nr. 82-3253 (2006-07-27)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Nauja įstatymo redakcija
-
-Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja nuo 2007 m. sausio 1 d.
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1213, 2007-06-26, Žin., 2007, Nr. 77-3047 (2007-07-12)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Nauja įstatymo redakcija
-
-Šis įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
-
-Pakeitimas:
-
-7.1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1829, 2008-11-14, Žin., 2008, Nr. 137-5378 (2008-11-29)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Nauja įstatymo redakcija
-
-Naujos įstatymo redakcijos pakeitimai:
-
-7.1.1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-308, 2009-06-18, Žin., 2009, Nr. 77-3172 (2009-06-30)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-7.1.2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-475, 2009-11-12, Žin., 2009, Nr. 141-6198 (2009-11-28)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-932, 2010-06-22, Žin., 2010, Nr. 81-4226 (2010-07-10)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 2, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis įstatymas, išskyrus 4 straipsnį, įsigalioja 2011 m. sausio 1 d.
-
-Įstatymo taikymo pakeitimas:
-
-8.1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1345, 2011-04-21, Žin., 2011, Nr. 52-2520 (2011-05-03)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 2, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1344, 2011-04-21, Žin., 2011, Nr. 52-2519 (2011-05-03)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2275, 2012-10-16, Žin., 2012, Nr. 127-6384 (2012-11-03)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 2, 4, 6, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-11.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 4, 5, 6, 7, 9, 11, 13, 14, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis įstatymas, išskyrus 3 straipsnio 2 dalį, 7 straipsnio 1 ir 3 dalis ir šio straipsnio 5 dalį, įsigalioja 2013 m. sausio 1 d.
-
-Šio įstatymo 3 straipsnio 2 dalis, 7 straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d.
-
-Šio įstatymo 3 straipsnio 3 dalis, 7 straipsnio 2 dalis galioja iki 2014 m. gruodžio 31 d.
-
-Šio įstatymo 7 straipsnio 3 dalies normos taikomos nustatant paskolų, suteiktų po 2014 m. sausio 1 d., palūkanų dengimą iš Lietuvos Respublikos valstybės biudžeto lėšų.
-
-Šis įstatymas ir jo galiojimas keistas:
-
-11.1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-124, 2012-12-20, Žin., 2012, Nr. 154-7930 (2012-12-29)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 4, 5, 6, 7, 9, 11, 13, 14, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3, 7 IR 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-11.2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-667, 2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30)
-
-LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 4, 5, 6, 7, 9, 11, 13, 14, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 7 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-12.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-402, 2013-06-25, Žin., 2013, Nr. 73-3657 (2013-07-09)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. rugsėjo 1 d.
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-667, 2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00384
-
-Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 3, 4, 5, 6, 7, 9, 11, 13, 14, 15 straipsnių pakeitimo ir papildymo įstatymo 7 ir 11 straipsnių pakeitimo ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
-
-Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 1, 2, 9, 11, 15 straipsnių pakeitimo ir Įstatymo papildymo 16 straipsniu ir priedu įstatymas
 
