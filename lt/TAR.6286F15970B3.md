@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "1997-01-01"
+last_updated: "1997-06-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
+
+Suvestinė redakcija nuo 1997-06-25 iki 1997-07-10
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
 LIETUVOS RESPUBLIKOS BRANDUOLINĖS ENERGIJOS Į S T A T Y M A S
 
@@ -170,7 +174,11 @@ Branduolinės energetikos valstybinį valdymą pagal savo kompetenciją atlieka:
 
 1) Lietuvos Respublikos Vyriausybė;
 
-2) Lietuvos Respublikos energetikos ministerija;
+2) Lietuvos Respublikos ūkio ministerija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
 
 3) vietos savivaldos institucijos – tose joms priklausančiose teritorijose, kurių plotai yra branduolinės energetikos objekto sanitarinėje apsaugos ar stebėjimo zonose.
 
@@ -204,9 +212,9 @@ Branduolinės energetikos valstybinį valdymą pagal savo kompetenciją atlieka:
 
 4) vietos savivaldos institucijos, kurios teritorijoje numatoma objekto statyba, išreikštą nuomonę.
 
-9 straipsnis. Energetikos ministerijos kompetencija
+9 straipsnis. Ūkio ministerijos kompetencija
 
-Energetikos ministerija:
+Ūkio ministerija:
 
 1) vykdo branduolinės energetikos objektus eksploatuojančių organizacijų steigėjo funkcijas;
 
@@ -225,6 +233,10 @@ Energetikos ministerija:
 8) organizuoja atominės energetikos infrastruktūros Lietuvos Respublikoje plėtrą; steigia projektavimo, mokslo bei technikos (kartu su Švietimo ir mokslo ministerija) institucijas, tenkinančias objektus eksploatuojančių organizacijų poreikius;
 
 9) vykdo kitas šio įstatymo nustatytas ar Vyriausybės jai pavestas funkcijas.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
 
 10 straipsnis. Vietos savivaldos institucijų kompetencija
 
@@ -466,7 +478,11 @@ Be Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos draud
 
 3. Veiklai, išvardytai 25 straipsnio 7 punkte, licencijas išduoda Aplinkos apsaugos ministerija, suderinus su VATESI ir Sveikatos apsaugos ministerija.
 
-4. Veiklai, išvardytai 25 straipsnio 8 punkte, licencijas išduoda Ekonomikos ministerija, suderinus su VATESI, Aplinkos apsaugos ministerija ir Sveikatos apsaugos ministerija.
+4. Veiklai, išvardytai 25 straipsnio 8 punkte, licencijas išduoda Ūkio ministerija, suderinus su VATESI, Aplinkos apsaugos ministerija ir Sveikatos apsaugos ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
 
 27 straipsnis. Išduodančios licenciją valstybės valdymo institucijos veiklos principinės nuostatos
 
@@ -500,7 +516,11 @@ BRANDUOLINĖS ENERGETIKOS OBJEKTŲ PROJEKTAVIMO IR STATYBOS YPATINGOS SĄLYGOS
 
 1. Atominę elektrinę ir branduolinį reaktorių projektuoti galima tik po to, kai Lietuvos Respublikos Vyriausybė, remdamasi įstatymu dėl tokios elektrinės ar branduolinio reaktoriaus statybos, priima sprendimą.
 
-2. Kitus branduolinės energetikos objektus projektuoti ir atominę elektrinę rekonstruoti galima po Energetikos ministerijos teikimu priimto Lietuvos Respublikos Vyriausybės sprendimo.
+2. Kitus branduolinės energetikos objektus projektuoti ir atominę elektrinę rekonstruoti galima po Ūkio ministerijos teikimu priimto Lietuvos Respublikos Vyriausybės sprendimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
 
 3. Konkretus branduolinės energetikos objekto projektas rengiamas po to, kai:
 
@@ -516,7 +536,11 @@ Branduolinės energetikos objekto statybos ar rekonstravimo projektas suderinama
 
 1) Aplinkos apsaugos ministerija;
 
-2) Energetikos ministerija;
+2) Ūkio ministerija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
 
 3) Krašto apsaugos ministerija;
 
@@ -604,13 +628,21 @@ BRANDUOLINĖS ENERGETIKOS OBJEKTŲ EKSPLOATAVIMAS
 
 1. Atominės elektrinės eksploatacijos nutraukimo įstatymą įgyvendina Lietuvos Respublikos Vyriausybė ir jai pavaldžios valstybės institucijos.
 
-2. Kitų branduolinės energetikos objektų eksploatacija gali būti nutraukta Vyriausybės sprendimu. Jų uždarymo tvarką nustato Valstybinė atominės energetikos saugos inspekcija, suderinus su Energetikos ministerija, Sveikatos apsaugos ministerija, Aplinkos apsaugos ministerija ir Socialinės apsaugos ir darbo ministerija.
+2. Kitų branduolinės energetikos objektų eksploatacija gali būti nutraukta Vyriausybės sprendimu. Jų uždarymo tvarką nustato Valstybinė atominės energetikos saugos inspekcija, suderinus su Ūkio ministerija, Sveikatos apsaugos ministerija, Aplinkos apsaugos ministerija ir Socialinės apsaugos ir darbo ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
 
 3. Laikinai branduolinės energetikos objekto veikla gali būti sustabdoma Lietuvos Respublikos Vyriausybės, VATESI ar objektą eksploatuojančios organizacijos sprendimu ir VATESI nustatyta tvarka.
 
 38 straipsnis. Atominę elektrinę eksploatuojančios organizacijos pareigos rengiantis nutraukti objekto eksploataciją
 
-1. Atominę elektrinę eksploatuojanti organizacija, ketinanti nutraukti objekto eksploataciją, turi prieš 5 metus pateikti VATESI eksploatacijos nutraukimo programą, atitinkančią elektrinės statybos įstatymą, suderintą su Energetikos ministerija, Aplinkos apsaugos ministerija, Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija, apskrities valdytoju bei vietos savivaldos institucija, kurios teritorija ar jos dalis yra objekto sanitarinėje apsaugos zonoje. Programoje turi būti numatytos įrenginių demontavimo, konservavimo, radioaktyviųjų medžiagų tvarkymo ir objekto vėlesnės kontrolės bei priežiūros priemonės.
+1. Atominę elektrinę eksploatuojanti organizacija, ketinanti nutraukti objekto eksploataciją, turi prieš 5 metus pateikti VATESI eksploatacijos nutraukimo programą, atitinkančią elektrinės statybos įstatymą, suderintą su Ūkio ministerija, Aplinkos apsaugos ministerija, Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija, apskrities valdytoju bei vietos savivaldos institucija, kurios teritorija ar jos dalis yra objekto sanitarinėje apsaugos zonoje. Programoje turi būti numatytos įrenginių demontavimo, konservavimo, radioaktyviųjų medžiagų tvarkymo ir objekto vėlesnės kontrolės bei priežiūros priemonės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
 
 2. Ne vėliau kaip prieš 3 metus iki eksploatacijos nutraukimo atominę elektrinę eksploatuojanti organizacija turi gauti iš VATESI licenciją eksploatacijai nutraukti.
 
@@ -874,7 +906,11 @@ Darbo santykius branduolinės energetikos objektuose reguliuoja Lietuvos Respubl
 
 71 straipsnis. Užsienio valstybių piliečių ir asmenų be pilietybės darbo santykių ypatumai
 
-1. Užsienio valstybių piliečiai ir asmenys be pilietybės, turintys Lietuvos Respublikos vizą arba leidimą nuolat gyventi Lietuvos Respublikoje, įsidarbina branduolinės energetikos objektuose pritarus Lietuvos Respublikos energetikos ministerijai ir suderinus su Valstybės saugumo departamentu Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+1. Užsienio valstybių piliečiai ir asmenys be pilietybės, turintys Lietuvos Respublikos vizą arba leidimą nuolat gyventi Lietuvos Respublikoje, įsidarbina branduolinės energetikos objektuose pritarus Lietuvos Respublikos ūkio ministerijai ir suderinus su Valstybės saugumo departamentu Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
 
 2. Išimtys galimos tik branduolinių avarijų likvidavimo atvejais remiantis atskiru Lietuvos Respublikos Vyriausybės nutarimu ir pritarus Valstybės saugumo departamentui.
 
@@ -898,7 +934,11 @@ TARPTAUTINIAI SANTYKIAI IR ĮSTATYMO ĮSIGALIOJIMAS
 
 1. Tarptautinės sutartys, reguliuojančios santykius Lietuvos branduolinėje energetikoje, sudaromos vadovaujantis tarptautinės teisės principais bei normomis ir Lietuvos Respublikos įstatymais, reglamentuojančiais tarptautinių sutarčių sudarymo tvarką.
 
-2. Rengiant ir sudarant tarptautines sutartis, susijusias su branduolinės energijos gamyba ar naudojimu, privalo dalyvauti Lietuvos Respublikos energetikos ministerijos įgalioti asmenys, o susijusias su branduoline sauga ir radiacine apsauga – įgalioti VATESI atstovai.
+2. Rengiant ir sudarant tarptautines sutartis, susijusias su branduolinės energijos gamyba ar naudojimu, privalo dalyvauti Lietuvos Respublikos ūkio ministerijos įgalioti asmenys, o susijusias su branduoline sauga ir radiacine apsauga - įgalioti VATESI atstovai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
 
 75 straipsnis. Užsienio valstybių branduolinių laivų įplaukimo į Lietuvos Respublikos teritorinius vandenis sąlygos
 
@@ -914,51 +954,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-501 straipsnis. Branduolinės energetikos objekto darbuotojų kompetencijos užtikrinimas
+Pakeitimai:
 
-1. Licencijų, nurodytų Branduolinės saugos įstatymo 22 straipsnio 1 dalies 1, 2, 3, 4 ir 5 punktuose, turėtojas turi užtikrinti, kad darbuotojai, kurių darbas susijęs su branduolinės saugos, radiacinės saugos, fizinės saugos, taip pat branduolinio ginklo neplatinimo įsipareigojimų vykdymo užtikrinimu, būtų kompetentingi atlikti jiems pavestas funkcijas.
+1.
 
-2. Bendruosius šio straipsnio 1 dalyje nurodytų darbuotojų kompetencijos užtikrinimo tvarkos reikalavimus nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Vadovaudamasis šio straipsnio 2 dalyje nurodytais Valstybinės atominės energetikos saugos inspekcijos viršininko nustatytais reikalavimais, branduolinės energetikos objekto projektu, TATENA dokumentais, šio straipsnio 1 dalyje nurodytų darbuotojų kompetencijos reikalavimus ir šių darbuotojų kompetencijos užtikrinimo tvarką (išskyrus branduolinės energetikos objekto vadovaujančių darbuotojų atestavimo tvarką) nustato licencijų, nurodytų Branduolinės saugos įstatymo 22 straipsnio 1 dalies 1, 2, 3, 4 ir 5 punktuose, turėtojas.
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
 
-4. Branduolinės energetikos objekto vadovaujančių darbuotojų pareigas gali eiti tik fiziniai asmenys, išlaikę branduolinės energetikos objekto vadovaujančių darbuotojų atestavimo egzaminą branduolinės saugos, radiacinės saugos, fizinės saugos ir branduolinio ginklo neplatinimo įsipareigojimų vykdymo srityje ir turintys galiojantį atestatą.
-
-5. Branduolinės energetikos objekto vadovaujančių darbuotojų atestavimo tvarkos aprašą tvirtina Vyriausybė.
-
-6. Šio straipsnio 4 dalyje nurodytas pareigas siekiantys eiti arba einantys fiziniai asmenys turi atitikti šiuos reikalavimus:
-
-1) turėti aukštąjį universitetinį ar jam prilygintą išsilavinimą;
-
-2) turėti techninių žinių branduolinės energetikos srityje, kurios yra reikalingos tinkamai vykdyti einamas arba siekiamas eiti pareigas;
-
-3) išmanyti pagal einamas arba siekiamas pareigas branduolinės saugos normatyvinių techninių dokumentų ir licencijų, nurodytų Branduolinės saugos įstatymo 22 straipsnio 1 dalies 1, 2, 3, 4 ir 5 punktuose, turėtojo vykdomai veiklai taikomų teisės aktų reikalavimus, branduolinės, radiacinės ir fizinės saugos, taip pat branduolinio ginklo neplatinimo įsipareigojimų vykdymo užtikrinimo principus;
-
-4) už branduolinės energetikos objekto eksploatavimą (technologinio proceso valdymą) atsakingas vadovas privalo turėti ne mažesnę kaip penkerių metų darbo patirtį branduolinės energetikos srityje ir ne mažesnę kaip trejų metų vadovavimo patirtį;
-
-5) už radiacinės saugos branduolinės energetikos objekte užtikrinimą atsakingas vadovas turi turėti ne mažesnę kaip penkerių metų darbo patirtį radiacinės saugos srityje ir vadovavimo šios srities specialistams patirtį.
-
-7. Siekiant įsitikinti, ar šio straipsnio 4 dalyje nurodyti fiziniai asmenys (toliau – atestuojamieji) atitinka šio straipsnio 6 dalies 2 ir 3 punktuose nurodytus reikalavimus, vykdomas atestavimo egzaminas.
-
-8. Atestavimo egzaminas organizuojamas ne vėliau kaip per 40 kalendorinių dienų nuo dienos, kai pateikiamas prašymas dėl branduolinės energetikos objekto vadovaujančio darbuotojo atestavimo.
-
-9. Atestavimo egzaminą vykdo Valstybinės atominės energetikos saugos inspekcijos atestavimo komisija (toliau – atestavimo egzamino komisija).
-
-10. Atestavimo egzamino komisija sudaroma iš 4 komisijos narių, įskaitant egzamino komisijos pirmininką. Atestavimo egzaminas gali būti vykdomas, jeigu yra ne mažiau kaip 3 komisijos nariai, įskaitant atestavimo egzamino komisijos pirmininką.
-
-11. Išlaikiusiam atestavimo egzaminą atestuojamajam ne vėliau kaip per 10 kalendorinių dienų nuo atestavimo egzamino dienos yra išduodamas atestatas, kuriame nurodomos vadovaujančio darbuotojo pareigos, kurioms buvo atestuojama. Atestatas galioja penkerius metus.
-
-12. Atestuojamiesiems, neturintiems anksčiau išduoto galiojančio atestato, atestatas įsigalioja atestato išdavimo dieną. Atestuojamiesiems, turintiems galiojantį anksčiau išduotą atestatą, išduodamas naujas atestatas įsigalioja nuo kitos dienos, kai pasibaigia ankstesnio atestato galiojimas.
-
-13. Į branduolinės energetikos objekto vadovaujančio darbuotojo pareigas skiriant kitoms branduolinės energetikos objekto vadovaujančio darbuotojo pareigoms galiojantį atestatą turintį darbuotoją, atestavimo egzamino komisija, jeigu siekiamoms eiti pareigoms ir pareigoms, kurioms asmuo buvo atestuotas, kompetencijos reikalavimai sutampa, priima sprendimą išduoti atestatą, kuriame nurodomos naujos pareigos ir atestato galiojimo terminas, nustatytas anksčiau išduotame galiojančiame atestate, arba, jeigu kompetencijos reikalavimai skiriasi, priima sprendimą dėl būtinybės laikyti atestavimo egzaminą.
-
-14. Neišlaikius atestavimo egzamino, išduodama atestavimo egzamino komisijos išvada. Dėl pakartotinio atestavimo atestuojamasis gali kreiptis ne anksčiau kaip po 30 kalendorinių dienų.
-
-15. Atestuotas branduolinės energetikos objekto vadovaujantis darbuotojas, neišlaikęs atestavimo egzamino, turi teisę toliau eiti pareigas tol, kol galioja anksčiau jam išduotas atestatas.
-
-16. Atestavimo egzamino komisijos sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-Papildyta straipsniu:
-
-Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
+Lietuvos Respublikos branduolinės energijos įstatymo 7, 9, 26, 29, 30, 37, 38, 71 ir 74 straipsnių pakeitimo įstatymas
 
