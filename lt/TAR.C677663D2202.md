@@ -4,7 +4,7 @@ identifier: "TAR.C677663D2202"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2003-07-04"
+last_updated: "2003-10-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 department: "Lietuvos Respublikos Seimas"
@@ -1575,9 +1575,25 @@ pensinio amžiaus pagal Papildomo savanoriško pensijų kaupimo įstatymo
 
 nuostatas;
 
+1 dalies
+
+11 punkto redakcija iki 2004 m. sausio 1 d.:
+
 11)
 
 pensijos, gautos iš Lietuvos Respublikos valstybės, savivaldybių ir Valstybinio
+
+socialinio draudimo fondo biudžetų, taip pat iš užsienio valstybių valstybinių
+
+fondų;
+
+1 dalies
+
+11 punkto redakcija nuo 2004 m. sausio 1 d.:
+
+11) pensijos ir
+
+rentos, gautos iš Lietuvos Respublikos valstybės, savivaldybių ir Valstybinio
 
 socialinio draudimo fondo biudžetų, taip pat iš užsienio valstybių valstybinių
 
@@ -1649,9 +1665,9 @@ paveldėjimo būdu gautos pajamos, kurios yra mokesčio objektas pagal Lietuvos
 
 Respublikos paveldimo turto mokestį reglamentuojančius teisės aktus; dovanojimo
 
-būdu gautos pajamos iš sutuoktinių, vaikų (įvaikių) ir tėvų (įtėvių); taip pat iš
+būdu gautos pajamos iš sutuoktinių, vaikų (įvaikių) ir tėvų (įtėvių); taip pat
 
-kitų gyventojų dovanojimo būdu per mokestinį laikotarpį gautų pajamų suma
+iš kitų gyventojų dovanojimo būdu per mokestinį laikotarpį gautų pajamų suma
 
 (vertė), neviršijanti 24 pagrindinių NPD;
 
@@ -1799,13 +1815,13 @@ organizacijų sprendimais iš šių organizacijų lėšų;
 
 sporto varžybų prizas, jeigu šį prizą įsteigia ir skiria olimpiniai
 
-(parolimpiniai) komitetai, tarptautinės sporto šakų federacijos (sąjungos,
+(parolimpiniai) komitetai, tarptautinės sporto šakų federacijos (sąjungos, asociacijos)
 
-asociacijos) ar šių federacijų (sąjungų, asociacijų) nariai, Lietuvos sporto
+ar šių federacijų (sąjungų, asociacijų) nariai, Lietuvos sporto šakų
 
-šakų federacijos (sąjungos, asociacijos), taip pat vardinės dovanos,
+federacijos (sąjungos, asociacijos), taip pat vardinės dovanos, dovanojamos
 
-dovanojamos Lietuvos Respublikos įstatymų nustatyta tvarka;
+Lietuvos Respublikos įstatymų nustatyta tvarka;
 
 33)
 
@@ -1937,21 +1953,21 @@ susijusius leidžiamus atskaitymus bei jų apskaičiavimo tvarką nustato Lietuv
 
 Respublikos Vyriausybė arba jos įgaliota institucija.
 
-2. Nenuolatinio Lietuvos gyventojo, kuris verčiasi
+2. Nenuolatinio Lietuvos gyventojo, kuris
 
-individualia veikla per nuolatinę bazę, leidžiamais atskaitymais laikomos su
+verčiasi individualia veikla per nuolatinę bazę, leidžiamais atskaitymais
 
-per mokestinį laikotarpį faktiškai gautomis individualios veiklos pajamomis
+laikomos su per mokestinį laikotarpį faktiškai gautomis individualios veiklos
 
-susijusios nenuolatinio Lietuvos gyventojo patirtos įprastinės šiai veiklai
+pajamomis susijusios nenuolatinio Lietuvos gyventojo patirtos įprastinės šiai
 
-išlaidos, jei šiame straipsnyje nenustatyta kitaip. Nenuolatinio Lietuvos
+veiklai išlaidos, jei šiame straipsnyje nenustatyta kitaip. Nenuolatinio
 
-gyventojo su individualios veiklos per nuolatinę bazę pajamų gavimu susijusius
+Lietuvos gyventojo su individualios veiklos per nuolatinę bazę pajamų gavimu
 
-leidžiamus atskaitymus bei jų apskaičiavimo tvarką nustato Lietuvos Respublikos
+susijusius leidžiamus atskaitymus bei jų apskaičiavimo tvarką nustato Lietuvos
 
-Vyriausybė arba jos įgaliota institucija.
+Respublikos Vyriausybė arba jos įgaliota institucija.
 
 3. Jeigu gyventojas vykdo kelių aiškiai
 
@@ -2069,9 +2085,9 @@ reikalavimus, – atitinkančiais keliamus reikalavimus, ir (arba) galiojančiai
 
 sandoriais, ir (arba) užsienio vienetų bei gyventojų surašytais dokumentais,
 
-jei iš šių dokumentų galima nustatyti ūkinės operacijos turinį. Mokesčių, rinkliavų
+jei iš šių dokumentų galima nustatyti ūkinės operacijos turinį. Mokesčių,
 
-sumokėjimas turi būti pagrįstas šių sumų sumokėjimą patvirtinančiais
+rinkliavų sumokėjimas turi būti pagrįstas šių sumų sumokėjimą patvirtinančiais
 
 atitinkamais dokumentais.
 
@@ -2089,9 +2105,9 @@ nustatytu atveju parduodamas akcijas (dalis, pajus) įnašų vertei. Įnašų ve
 
 yra lygi jų vertei įnešimo metu, įskaitant turto (jei įnašas buvo įneštas
 
-turtu) vertės padidėjimą dėl turto indeksavimo arba perkainojimo, jeigu jį atlikti
+turtu) vertės padidėjimą dėl turto indeksavimo arba perkainojimo, jeigu jį
 
-vienetą įpareigojo Lietuvos Respublikos teisės aktai, ir (arba)
+atlikti vienetą įpareigojo Lietuvos Respublikos teisės aktai, ir (arba)
 
 2)
 
@@ -2159,11 +2175,11 @@ be to, už ketvirtą ir kiekvieną paskesnį vaiką (įvaikį) NPD didinamas 46
 
 litais;
 
-4) motinai (įmotei)
+4) motinai
 
-arba tėvui (įtėviui), kuris (kuri) vaikus (įvaikius) iki 18 metų, taip pat
+(įmotei) arba tėvui (įtėviui), kuris (kuri) vaikus (įvaikius) iki 18 metų, taip
 
-vyresnius, jeigu jie mokosi dieninėse bendrojo lavinimo mokyklose, augina
+pat vyresnius, jeigu jie mokosi dieninėse bendrojo lavinimo mokyklose, augina
 
 vienas (viena), – 335 litai per mėnesį, be to, už auginamą antrą ir kiekvieną
 
@@ -2345,13 +2361,13 @@ finansų įmonei už gyvenamojo būsto finansinę nuomą (lizingą);
 
 aukštasis išsilavinimas ir (ar) suteikiama kvalifikacija, taip pat
 
-doktorantūros bei meno aspirantūros studijos) studijuojančių nuolatinių
+doktorantūros bei meno aspirantūros studijos) studijuojančių nuolatinių Lietuvos
 
-Lietuvos gyventojų sumokėtos sumos. Jei už studijas sumokėta skolintomis
+gyventojų sumokėtos sumos. Jei už studijas sumokėta skolintomis lėšomis (tam
 
-lėšomis (tam tikslui paimta iš kredito įstaigos paskola), tai iš pajamų gali
+tikslui paimta iš kredito įstaigos paskola), tai iš pajamų gali būti atimta per
 
-būti atimta per mokestinį laikotarpį grąžinta šios paskolos dalis.
+mokestinį laikotarpį grąžinta šios paskolos dalis.
 
 2. Tais atvejais, kai ne vyresnis kaip 26 metų
 
@@ -2613,9 +2629,9 @@ tvarka
 
 Fiksuoto
 
-dydžio pajamų mokestis sumokamas į biudžetą prieš išduodant verslo liudijimą.
+dydžio pajamų mokestis sumokamas į biudžetą prieš išduodant verslo liudijimą. Verslo
 
-Verslo liudijimo išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+liudijimo išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 27
 
@@ -2737,9 +2753,9 @@ mokesčio administratoriaus nustatytos formos priedą, kuriame turi būti nurody
 
 informacija apie tiesiogiai ar netiesiogiai valdomas kontroliuojamųjų vienetų
 
-akcijas (dalis, pajus) ar kitas teises į paskirstytinojo pelno dalį arba
+akcijas (dalis, pajus) ar kitas teises į paskirstytinojo pelno dalį arba išimtines
 
-išimtines teises jas įsigyti, taip pat:
+teises jas įsigyti, taip pat:
 
 1)
 
@@ -2755,25 +2771,25 @@ kontroliuojamojo vieneto balansas bei pelno ir nuostolių ataskaita.
 
 9.
 
-Jeigu nuolatinio Lietuvos gyventojo pateiktoje metinėje pajamų mokesčio deklaracijoje
+Jeigu nuolatinio Lietuvos gyventojo pateiktoje metinėje pajamų mokesčio
 
-apskaičiuojama pajamų mokesčio permoka, ji gali būti įskaityta arba grąžinta
+deklaracijoje apskaičiuojama pajamų mokesčio permoka, ji gali būti įskaityta
 
-Mokesčių administravimo įstatymo nustatyta tvarka, jeigu nuo visų gyventojo per
+arba grąžinta Mokesčių administravimo įstatymo nustatyta tvarka, jeigu nuo visų
 
-tą mokestinį laikotarpį gautų A klasės pajamų mokestis buvo išskaitytas ir
+gyventojo per tą mokestinį laikotarpį gautų A klasės pajamų mokestis buvo
 
-sumokėtas į biudžetą. Jeigu pajamų mokestis nebuvo išskaitytas ir (arba)
+išskaitytas ir sumokėtas į biudžetą. Jeigu pajamų mokestis nebuvo išskaitytas
 
-sumokėtas, metinėje pajamų mokesčio deklaracijoje apskaičiuotos pajamų mokesčio
+ir (arba) sumokėtas, metinėje pajamų mokesčio deklaracijoje apskaičiuotos
 
-permokos dalis, lygi nuo gyventojo gautų A klasės pajamų neišskaičiuoto ir
+pajamų mokesčio permokos dalis, lygi nuo gyventojo gautų A klasės pajamų
 
-(arba) nesumokėto pajamų mokesčio sumai, negali būti įskaityta arba grąžinta,
+neišskaičiuoto ir (arba) nesumokėto pajamų mokesčio sumai, negali būti
 
-iki pajamų mokesčio suma, neišskaičiuota ir (arba) nesumokėta nuo gyventojo
+įskaityta arba grąžinta, iki pajamų mokesčio suma, neišskaičiuota ir (arba)
 
-gautų A klasės pajamų, nebus sumokėta į biudžetą.
+nesumokėta nuo gyventojo gautų A klasės pajamų, nebus sumokėta į biudžetą.
 
 10. Šio Įstatymo
 
@@ -2865,9 +2881,9 @@ dienos.
 
 Pagal šio straipsnio 2 dalį deklaruojamoms pajamoms taikoma MNPD ir MPNPD dalis
 
-apskaičiuojama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
+apskaičiuojama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta
 
-nustatyta tvarka.
+tvarka.
 
 30
 
@@ -3017,9 +3033,9 @@ pagrindžiantys dokumentai.
 
 3.
 
-Prašymai perskaičiuoti pajamų mokestį pateikiami centrinio mokesčio administratoriaus
+Prašymai perskaičiuoti pajamų mokestį pateikiami centrinio mokesčio
 
-nustatyta ir su finansų ministru suderinta tvarka.
+administratoriaus nustatyta ir su finansų ministru suderinta tvarka.
 
 4.
 
@@ -3035,7 +3051,9 @@ ATSAKOMYBĖ
 
 33
 
-straipsnis. Išmokas išmokančio Lietuvos vieneto, nuolatinės buveinės ir gyventojo
+straipsnis. Išmokas išmokančio Lietuvos vieneto, nuolatinės buveinės ir
+
+gyventojo
 
 pareigos
 
@@ -3045,15 +3063,15 @@ Gyventojams išmokas, pagal mokesčio mokėjimo tvarką priskiriamas gyventojo A
 
 klasės pajamoms, išmokėję nuolatinis Lietuvos gyventojas, nenuolatinis Lietuvos
 
-gyventojas per nuolatinę bazę, Lietuvos vienetas arba užsienio vienetas per nuolatinę
+gyventojas per nuolatinę bazę, Lietuvos vienetas arba užsienio vienetas per
 
-buveinę gyventojo prašymu išduoda pažymas, kuriose turi būti nurodytos
+nuolatinę buveinę gyventojo prašymu išduoda pažymas, kuriose turi būti
 
-apskaičiuotos ir išmokėtos išmokos, taikytas NPD bei išskaičiuota ir sumokėta
+nurodytos apskaičiuotos ir išmokėtos išmokos, taikytas NPD bei išskaičiuota ir
 
-pajamų mokesčio suma. Jei gyventojui išmokas išmoka užsienio vienetas per
+sumokėta pajamų mokesčio suma. Jei gyventojui išmokas išmoka užsienio vienetas
 
-nuolatinę buveinę, tai šias pažymas nuolatiniam gyventojui išduoda užsienio
+per nuolatinę buveinę, tai šias pažymas nuolatiniam gyventojui išduoda užsienio
 
 vieneto įgaliotas asmuo. Jei gyventojui išmokas išmoka nenuolatinis Lietuvos
 
@@ -3119,11 +3137,11 @@ metodiniai jų pildymo nurodymai išduodami nemokamai.
 
 2.
 
-Mokesčio administratorius gyventojo prašymu per 10 darbo dienų nuo prašymo pateikimo
+Mokesčio administratorius gyventojo prašymu per 10 darbo dienų nuo prašymo
 
-dienos privalo išduoti pažymas, kuriose turi būti nurodytos gyventojo Lietuvoje
+pateikimo dienos privalo išduoti pažymas, kuriose turi būti nurodytos gyventojo
 
-gautos pajamos ir sumokėtas pajamų mokestis, arba patvirtinti išmokas
+Lietuvoje gautos pajamos ir sumokėtas pajamų mokestis, arba patvirtinti išmokas
 
 išmokančių asmenų šio Įstatymo nustatyta tvarka išduotas pažymas. Jei
 
@@ -3421,9 +3439,9 @@ savivaldybių biudžetams tenkantys fizinių asmenų pajamų mokestis bei mokest
 
 nepriemoka, išskyrus neribotos civilinės atsakomybės vienetų kaip vienetų
 
-sumokėtą fizinių asmenų pajamų mokesčio mokestinę nepriemoką, įskaitomi šio straipsnio
+sumokėtą fizinių asmenų pajamų mokesčio mokestinę nepriemoką, įskaitomi šio
 
-1, 3 ir 4 dalyse nustatyta tvarka.
+straipsnio 1, 3 ir 4 dalyse nustatyta tvarka.
 
 IX SKYRIUS
 
@@ -3439,11 +3457,11 @@ straipsnis. Įstatymo taikymas ir pasiūlymai Vyriausybei
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 
-2. Šio Įstatymo 2
+2. Šio Įstatymo 2 straipsnio
 
-straipsnio 14 dalies 7 punkto nuostatos dėl akcijų kainų skirtumo, apmokėto
+14 dalies 7 punkto nuostatos dėl akcijų kainų skirtumo, apmokėto pinigais, ir
 
-pinigais, ir 15 straipsnio nuostatos taikomos nuo 2004 m. sausio 1 d.
+15 straipsnio nuostatos taikomos nuo 2004 m. sausio 1 d.
 
 3.
 
@@ -3467,9 +3485,9 @@ Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinasis įstatymas (�
 
 14-388; 1993, Nr. 30-681, Nr. 59-1144; 1994, Nr. 30-531, Nr. 58-1135; 1995, Nr.
 
-34-814, Nr. 44-1077; 1996, Nr. 11-285, Nr. 35-858, Nr. 46-1104, Nr. 62-1464,
+34-814, Nr. 44-1077; 1996, Nr. 11-285, Nr. 35-858, Nr. 46-1104, Nr. 62-1464, Nr.
 
-Nr. 71-1716, Nr. 73-1747; 1997, Nr. 28-662, Nr. 61-1443, Nr. 63-1474; 1998, Nr.
+71-1716, Nr. 73-1747; 1997, Nr. 28-662, Nr. 61-1443, Nr. 63-1474; 1998, Nr.
 
 8-162, Nr. 90-2481; 1999, Nr. 19-515, Nr. 33-947, Nr. 55-1770, Nr. 60-1950, Nr.
 
@@ -3717,11 +3735,31 @@ PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO, GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1790,
+
+2003-10-16, Žin., 2003, Nr. 102-4586 (2003-10-31)
+
+GYVENTOJŲ
+
+PAJAMŲ MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Angonita Rupšytė
+Redagavo:
 
-(2003-07-30)
+Aušrinė Trapinskienė (2003-10-31)
 
-anrups@lrs.lt
+autrap@lrs.lt
 
