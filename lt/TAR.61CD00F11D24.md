@@ -4,7 +4,7 @@ identifier: "TAR.61CD00F11D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-25"
-last_updated: "1999-02-09"
+last_updated: "1999-06-15"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61CD00F11D24"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos advokatūros įstatymas
 
-Redagavo: Ramunė Lūžaitė (1999.02.24)
+Redagavo: Ramunė Lūžaitė (1999.06.30)
 
 Įstatymas paskelbtas: Žin.,
 
@@ -43,6 +43,20 @@ ADVOKATŪROS ĮSTATYMO 7, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ADVOKATŪROS
 ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 5 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 
 ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-1224, 99.06.15,
+
+Žin., 1999, Nr.57-1830 (99.06.30)
+
+LIETUVOS RESPUBLIKOS
+
+ADVOKATŪROS ĮSTATYMO 7 IR 24 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
 *** Pabaiga ***
 
@@ -152,9 +166,9 @@ prašymo pagrindu pripažįstamas advokatu, jeigu jis:
 
 teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį
 
-išsilavinimą). Užsienyje įgytas teisinis išsimokslinimas yra pripažįstamas Vyriausybės
+išsilavinimą). Užsienyje įgytas teisinis išsimokslinimas yra pripažįstamas
 
-nustatyta tvarka;
+Vyriausybės nustatyta tvarka;
 
 3) turi ne mažesnį kaip 5 metų prokuroro, tardytojo
 
@@ -170,13 +184,25 @@ pareigybių sąrašą stažą arba atliko 1 metų advokato padėjėjo praktiką;
 
 7) neturi psichinės sveikatos sutrikimų, dėl kurių
 
-negalėtų atlikti advokato pareigų.
+negalėtų atlikti advokato pareigų;
+
+8) nebuvo SSRS valstybės saugumo komiteto (NKVD, NKGB,
+
+MGB, KGB) kadriniu darbuotoju ir todėl jam nėra taikomi įstatyme „Dėl SSRS
+
+valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios
+
+organizacijos kadrinių darbuotojų dabartinės veiklos“ numatyti apribojimai.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-1044, 99.02.09,
 
 Žin., 1999, Nr.19-508 (99.02.24)
+
+Nr. VIII-1224, 99.06.15,
+
+Žin., 1999, Nr.57-1830 (99.06.30)
 
 8 straipsnis. Lengvatinio pripažinimo advokatu
 
@@ -636,11 +662,11 @@ sprendimo priėmimo dienos gali būti apskundžiamas Vilniaus apygardos teismui.
 
 3. Priėmusi prašymą įregistruoti advokato(-ų)
 
-kontorą, Lietuvos advokatų taryba iš karto nustato ir pasirašytinai advokatą
+kontorą, Lietuvos advokatų taryba iš karto nustato ir pasirašytinai advokatą informuoja
 
-informuoja apie sprendimo dėl kontoros įregistravimo paskelbimo terminą.
+apie sprendimo dėl kontoros įregistravimo paskelbimo terminą. Sprendimo
 
-Sprendimo paskelbimo diena yra laikoma jo įteikimo diena.
+paskelbimo diena yra laikoma jo įteikimo diena.
 
 4. Advokatų kontorų sąrašą tvarko Lietuvos advokatų
 
@@ -714,6 +740,20 @@ sąrašą buvo pateikti tikrovės neatitinkantys duomenys;
 
 advokato praktika.
 
+7) jis buvo SSRS valstybės saugumo komiteto (NKVD,
+
+NKGB, MGB, KGB) kadriniu darbuotoju, kuriam taikomi įstatyme „Dėl SSRS
+
+valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios
+
+organizacijos kadrinių darbuotojų dabartinės veiklos“ numatyti apribojimai.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1224, 99.06.15,
+
+Žin., 1999, Nr.57-1830 (99.06.30)
+
 25 straipsnis. Praktikuojančių advokatų sąrašo
 
 skelbimas
@@ -782,19 +822,19 @@ padėjėjų sąrašą. Advokato padėjėjas turi visas šiame įstatyme numatyta
 
 advokato teises ir pareigas, išskyrus teisę ginti baudžiamosiose bylose
 
-įtariamuosius, kaltinamuosius, teisiamuosius ir nuteistuosius, balsuoti
+įtariamuosius, kaltinamuosius, teisiamuosius ir nuteistuosius, balsuoti advokatų
 
-advokatų susirinkime (konferencijoje) bei savarankiškai atstovauti kliento
+susirinkime (konferencijoje) bei savarankiškai atstovauti kliento interesams
 
-interesams teismuose ir kitose institucijose be raštiško advokato (praktikos
+teismuose ir kitose institucijose be raštiško advokato (praktikos vadovo)
 
-vadovo) sutikimo.
+sutikimo.
 
 28 straipsnis. Advokatų padėjėjų sąrašas
 
-1. Lietuvos advokatų taryba įrašo į advokatų
+1. Lietuvos advokatų taryba įrašo į advokatų padėjėjų
 
-padėjėjų sąrašą asmenį, kuris:
+sąrašą asmenį, kuris:
 
 1) turi aukštąjį teisinį išsilavinimą, nurodytą šio
 
@@ -1066,9 +1106,9 @@ atliekami, jei advokatui iškelta baudžiamoji byla.
 
 5. Apie advokato patraukimą kaltinamuoju arba
 
-atliktus procesinius veiksmus, nurodytus šio straipsnio 2 dalyje, turi būti
+atliktus procesinius veiksmus, nurodytus šio straipsnio 2 dalyje, turi būti pranešta
 
-pranešta Lietuvos advokatų tarybai.
+Lietuvos advokatų tarybai.
 
 41 straipsnis. Teisė susitikti su suimtu ar
 
@@ -1094,9 +1134,9 @@ DĖL TEISINĖS PAGALBOS
 
 numatytais atvejais paskiria teismas, tardytojas, prokuroras.
 
-2. Dėl teisinės pagalbos gali būti susitariama su
+2. Dėl teisinės pagalbos gali būti susitariama su keliais
 
-keliais advokatais.
+advokatais.
 
 3. Klientas su advokatu ar advokatais dėl teisinės
 
@@ -1158,11 +1198,11 @@ apskundžiamas Vilniaus apygardos teismui.
 
 apmokėjimas
 
-1. Advokato, teikiančio teisinę pagalbą
+1. Advokato, teikiančio teisinę pagalbą baudžiamosiose
 
-baudžiamosiose bylose pagal tardytojo, prokuroro ar teismo paskyrimą, darbą
+bylose pagal tardytojo, prokuroro ar teismo paskyrimą, darbą apmoka Teisingumo
 
-apmoka Teisingumo ministerija iš valstybės biudžeto lėšų.
+ministerija iš valstybės biudžeto lėšų.
 
 2. Valstybinio advokato darbo apmokėjimo dydį ir
 
@@ -1302,9 +1342,9 @@ renka Lietuvos advokatų tarybą, šios tarybos pirmininką ir revizijos komisij
 
 teises.
 
-3. Lietuvos advokatų tarybos nariais renkami
+3. Lietuvos advokatų tarybos nariais renkami advokatai,
 
-advokatai, turintys ne mažesnį kaip 8 metų advokato darbo stažą.
+turintys ne mažesnį kaip 8 metų advokato darbo stažą.
 
 4. Revizijos komisijos nariais renkami advokatai,
 
@@ -1414,7 +1454,9 @@ ir kitomis organizacijomis.
 
 revizijos komisija:
 
-1) tikrina Lietuvos advokatų tarybos finansinę veiklą;
+1) tikrina Lietuvos advokatų tarybos finansinę
+
+veiklą;
 
 2) kontroliuoja, kaip nagrinėjami skundai ir
 
@@ -1473,326 +1515,4 @@ RESPUBLIKOS
 SEIMO PIRMININKAS                                       VYTAUTAS
 
 LANDSBERGIS
-
-59 straipsnis. Europos Sąjungos
-
-valstybės narės teisininko, turinčio teisę verstis
-
-advokato
-
-praktika Lietuvos Respublikoje, teisės
-
-1. Europos Sąjungos
-
-valstybės narės teisininkas, turintis teisę verstis advokato praktika Lietuvos
-
-Respublikoje, turi teisę:
-
-1) šio įstatymo
-
-šeštajame skirsnyje nustatyta tvarka teikti teisinę pagalbą;
-
-2) teisinę pagalbą
-
-bylų procese teikti tik kartu su advokatu, įrašytu į Lietuvos Respublikos
-
-praktikuojančių advokatų sąrašą, arba advokato padėjėju, įrašytu į Lietuvos
-
-advokatų tarybos advokatų padėjėjų sąrašą;
-
-3) naudotis Lietuvos
-
-Respublikos įstatymų nustatytomis teisėmis teisinei pagalbai teikti.
-
-2. Europos Sąjungos
-
-valstybės narės teisininkas teisinę pagalbą Lietuvos Respublikoje teikia
-
-Europos Sąjungos valstybės narės kompetentingos institucijos jam suteiktu
-
-teisininko profesiniu vardu.
-
-3. Europos Sąjungos valstybės narės teisininkas po
-
-trejų vertimosi advokato praktika Lietuvos Respublikoje metų turi teisę prašyti
-
-pripažinti jį advokatu ir įrašyti į Lietuvos Respublikos praktikuojančių
-
-advokatų sąrašą šio įstatymo nustatyta tvarka. Šiuo atveju Europos Sąjungos
-
-valstybės narės teisininkui netaikomi šio įstatymo 7 straipsnio 3 punkto
-
-reikalavimai. Jeigu Europos Sąjungos valstybės narės teisininkas per trejus
-
-vertimosi advokato praktika Lietuvos Respublikoje metus reguliariai ir
-
-efektyviai teikė teisinę pagalbą iš Lietuvos nacionalinės teisės, jam taip pat
-
-netaikomas šio įstatymo 7 straipsnio 6 punkto reikalavimas. Efektyvios ir
-
-reguliarios teisinės pagalbos kriterijus nustato Lietuvos advokatūros statutas.
-
-Europos Sąjungos valstybės narės teisininkas turi teisę prašyti jį pripažinti
-
-advokatu ir įrašyti į Lietuvos Respublikos praktikuojančių advokatų sąrašą šio
-
-įstatymo nustatyta tvarka ir nepraėjus trejiems vertimosi advokato praktika
-
-Lietuvos Respublikoje metams. Šiuo atveju Europos Sąjungos valstybės narės teisininkui
-
-netaikomi šio įstatymo 7 straipsnio 3 punkto reikalavimai.
-
-4. Europos Sąjungos valstybės narės teisininkas,
-
-turintis teisę verstis advokato praktika Lietuvos Respublikoje, turi teisę
-
-dalyvauti Lietuvos advokatų savivaldoje.
-
-5. Europos Sąjungos valstybės narės teisininkas,
-
-turintis teisę verstis advokato praktika Lietuvos Respublikoje, turi teisę
-
-apskųsti Lietuvos advokatų savivaldos institucijų sprendimus šio įstatymo
-
-nustatyta tvarka.
-
-60 straipsnis. Europos Sąjungos
-
-valstybės narės teisininko, turinčio teisę verstis
-
-advokato
-
-praktika Lietuvos Respublikoje, pareigos
-
-1. Europos Sąjungos valstybės narės
-
-teisininkas, turintis teisę verstis advokato praktika Lietuvos Respublikoje,
-
-privalo:
-
-1) apdrausti savo civilinę atsakomybę už
-
-klientui padarytą žalą teikiant teisinę pagalbą ar kitaip garantuoti tokios
-
-žalos atlyginimą pagal Europos Sąjungos valstybės narės, kuri suteikė jam
-
-teisininko profesinį vardą, įstatymus;
-
-2) laikytis Lietuvos advokatų profesinės
-
-etikos kodekso reikalavimų;
-
-3) pranešti Lietuvos advokatų tarybai
-
-apie Europos Sąjungos valstybės narės kompetentingos institucijos jam suteikto
-
-teisininko profesinio vardo praradimą.
-
-2. Europos Sąjungos valstybės narės
-
-teisininkas, turintis teisę verstis advokato praktika Lietuvos Respublikoje, moka
-
-Lietuvos advokatų susirinkimo (konferencijos) nustatytas privalomas įmokas.
-
-61
-
-straipsnis. Europos Sąjungos valstybės narės teisininko, turinčio teisę verstis
-
-advokato
-
-praktika Lietuvos Respublikoje, drausminė  atsakomybė
-
-1. Europos Sąjungos
-
-valstybės narės teisininkui, turinčiam teisę verstis advokato praktika Lietuvos
-
-Respublikoje, taikoma šio įstatymo septintajame skirsnyje nustatyta advokato
-
-drausminė atsakomybė.
-
-2. Apie Europos
-
-Sąjungos valstybės narės teisininkui iškeltą drausmės bylą Lietuvos advokatų
-
-taryba privalo nedelsdama pranešti Europos Sąjungos valstybės narės, kuri
-
-suteikė jam teisininko profesinį vardą, kompetentingai institucijai. Šiai
-
-institucijai taip pat turi būti išsiųsta informacija apie dėl tokio teisininko
-
-priimtą Lietuvos advokatų garbės teismo sprendimą.
-
-62
-
-straipsnis. Europos Sąjungos valstybės narės teisininko, turinčio teisę verstis
-
-advokato
-
-praktika Lietuvos Respublikoje, veiklos apribojimai
-
-Europos Sąjungos valstybės narės teisininkui,
-
-turinčiam teisę verstis advokato praktika Lietuvos Respublikoje, taikomi šio
-
-įstatymo 36 ir 37 straipsniuose nurodyti veiklos apribojimai.]
-
-DEŠIMTASIS
-
-SKIRSNIS
-
-BAIGIAMOSIOS
-
-NUOSTATOS
-
-[Dešimtojo skirsnio numeracija
-
-keičiama nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
-
-Nr. IX-630,
-
-2001-12-06, Žin., 2001, Nr. 108-3903 (2001-12-28)
-
-VIENUOLIKTASIS
-
-SKIRSNIS
-
-BAIGIAMOSIOS
-
-NUOSTATOS]
-
-63 straipsnis. Įstatymo įsigaliojimas]
-
-1. Lietuvos Respublikos advokatūros
-
-įstatymas įsigalioja nuo 1998 m. spalio 1 d.
-
-2. Įsigaliojus šiam įstatymui, Lietuvos
-
-Respublikos advokatūros įstatymą (Žin., 1992, Nr.30-911; 1994, Nr.89-1705)
-
-pripažinti netekusiu galios.
-
-Straipsnio numeracijos pakeitimas:
-
-Nr. IX-630,
-
-2001-12-06, Žin., 2001, Nr. 108-3903 (2001-12-28)
-
-Vadovaudamasis Lietuvos Respublikos Konstitucijos
-
-71 straipsnio antrąja dalimi, skelbiu šį Lietuvos Respublikos Seimo priimtą
-
-įstatymą.
-
-LIETUVOS RESPUBLIKOS
-
-SEIMO
-
-PIRMININKAS                                                                    VYTAUTAS
-
-LANDSBERGIS
-
-_______________
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. VIII-1044,
-
-99.02.09, Žin., 1999, Nr.19-508 (99.02.24)
-
-LIETUVOS
-
-RESPUBLIKOS ADVOKATŪROS ĮSTATYMO 7, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR
-
-ADVOKATŪROS ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 5 STRAIPSNIO PRIPAŽINIMO NETEKUSIU
-
-GALIOS ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. VIII-1224,
-
-99.06.15, Žin., 1999, Nr.57-1830 (99.06.30)
-
-LIETUVOS RESPUBLIKOS
-
-ADVOKATŪROS ĮSTATYMO 7 IR 24 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1429, 99.11.18, Žin., 1999,
-
-Nr.102-2923 (99.12.01)
-
-LIETUVOS
-
-RESPUBLIKOS ADVOKATŪROS ĮSTATYMO 35 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1435, 99.11.23, Žin., 1999,
-
-Nr.104-2975 (99.12.08)
-
-LIETUVOS
-
-RESPUBLIKOS ADVOKATŪROS ĮSTATYMO 44 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1855, 00.07.17, Žin., 2000,
-
-Nr.64-1926 (00.07.31)
-
-ADVOKATŪROS ĮSTATYMO 9 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-6.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-630,
-
-2001-12-06, Žin., 2001, Nr. 108-3903 (2001-12-28)
-
-ADVOKATŪROS
-
-ĮSTATYMO 7 IR 18 STRAIPSNIŲ PAPILDYMO IR ĮSTATYMO PAPILDYMO NAUJU DEŠIMTUOJU
-
-SKIRSNIU ĮSTATYMAS
-
-Šis
-
-Įstatymas, išskyrus šio Įstatymo 5 straipsnį, įsigalioja nuo Lietuvos
-
-Respublikos įstojimo į Europos Sąjungą dienos.
-
-***
-
-Pabaiga ***
-
-Redagavo:
-
-Aušrinė Trapinskienė (2002-03-01)
-
-autrap@lrs.lt
 
