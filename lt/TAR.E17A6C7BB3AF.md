@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "2004-06-22"
+last_updated: "2004-07-15"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -355,9 +355,11 @@ viršininkas:
 
 įstatymų nustatyta tvarka steigia, reorganizuoja ir likviduoja apskrities
 
-valstybines švietimo, išskyrus aukštąsias mokyklas, įstaigas,
+valstybines švietimo, išskyrus aukštąsias mokyklas, įstaigas, bibliotekas,
 
-kultūros, kūno kultūros ir sporto, socialinės paramos ir globos įstaigas bei
+muziejus, teatrus, koncertines įstaigas, kultūros centrus ir kitas kultūros
+
+įstaigas, kūno kultūros ir sporto, socialinės paramos ir globos įstaigas bei
 
 tarnybas, taip pat specialiųjų socialinių paslaugų institucijas;
 
@@ -410,6 +412,12 @@ Nr.
 IX-1511,
 
 2003-04-17, Žin., 2003, Nr. 42-1915 (2003-05-01)
+
+Nr.
+
+IX-2379,
+
+2004-07-15, Žin., 2004, Nr. 120-4432 (2004-08-03)
 
 8
 
@@ -467,9 +475,7 @@ bendruomenių sveikatos tarybas ir organizuojant jų veiklą;
 
 įstatymų nustatyta tvarka ir pagrindais teikia siūlymus Vyriausybei skelbti
 
-apskrities teritoriją ar jos dalį pavojaus ar žalos visuomenės sveikatai
-
-rajonu;
+apskrities teritoriją ar jos dalį pavojaus ar žalos visuomenės sveikatai rajonu;
 
 7)
 
@@ -489,9 +495,9 @@ Nr. VIII-300,
 
 9
 
-straipsnis. Apskrities viršininko įgaliojimai teritorijų planavimo ir
+straipsnis. Apskrities viršininko įgaliojimai teritorijų planavimo ir paminklotvarkos
 
-paminklotvarkos klausimais
+klausimais
 
 9 straipsnio pavadinimas nuo 2005 m. sausio 1 d.:
 
@@ -1525,17 +1531,15 @@ Apskrities
 
 viršininkas praneša atitinkamai Lietuvos Respublikos Seimui ar Vyriausybei apie
 
-valstybės valdymo institucijų padalinių apskrityje veiklą ir sprendimus, jei
+valstybės valdymo institucijų padalinių apskrityje veiklą ir sprendimus, jei jie
 
-jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba
+neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba pažeidžia
 
-pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina
+piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina ar
 
-ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar
+nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar aukštesnioji
 
-aukštesnioji valstybės valdymo institucija, galutinį sprendimą priima
-
-Vyriausybė.
+valstybės valdymo institucija, galutinį sprendimą priima Vyriausybė.
 
 Straipsnio žymėjimas
 
@@ -1613,7 +1617,9 @@ Apskrities viršininko administracijos struktūrą ir jos
 
 nuostatus tvirtina apskrities viršininkas pagal Vyriausybės patvirtintus
 
-apskrities viršininko administracijos tipinę struktūrą ir jos tipinius nuostatus.
+apskrities viršininko administracijos tipinę struktūrą ir jos tipinius
+
+nuostatus.
 
 Straipsnio žymėjimas
 
@@ -1673,7 +1679,9 @@ jam suteiktus įgaliojimus.
 
 Kai
 
-apskrities viršininko nėra, jo pareigas eina apskrities viršininko pavaduotojas.
+apskrities viršininko nėra, jo pareigas eina apskrities viršininko
+
+pavaduotojas.
 
 Straipsnio žymėjimas
 
@@ -1737,7 +1745,9 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 
 straipsnis. Neteko galios.
 
-Straipsnio žymėjimas pakeistas:
+Straipsnio žymėjimas
+
+pakeistas:
 
 Nr. VIII-33,
 
@@ -1955,13 +1965,13 @@ Nr. IX-471,
 
 2001-07-12, Žin., 2001, Nr. 66-2412 (2001-08-01)
 
-APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO
+APSKRITIES VALDYMO ĮSTATYMO 9
 
-PAKEITIMO ĮSTATYMO IR APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO PAKEITIMO
+STRAIPSNIO PAKEITIMO ĮSTATYMO IR APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO
 
-ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIAIS GALIOS
+PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIAIS
 
-ĮSTATYMAS
+GALIOS ĮSTATYMAS
 
 13.
 
@@ -2103,13 +2113,27 @@ APSKRITIES
 
 VALDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+21.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-2379,
+
+2004-07-15, Žin., 2004, Nr. 120-4432 (2004-08-03)
+
+APSKRITIES
+
+VALDYMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2004-07-01)
+Aušra Bodin (2004-08-03)
 
 aubodi@lrs.lt
 
