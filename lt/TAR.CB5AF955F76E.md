@@ -4,7 +4,7 @@ identifier: "TAR.CB5AF955F76E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-04-06"
-last_updated: "1996-07-17"
+last_updated: "1996-12-24"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 1996-07-17 iki 1996-12-23
+Suvestinė redakcija nuo 1996-12-24 iki 1999-06-01
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
 
@@ -130,9 +130,11 @@ Kitomis kalbomis „Valstybės žinios“ gali būti leidžiamos svarbiausiems �
 
 Kaip priedas prie „Valstybės žinių“ kas metai leidžiama išspausdintų teisės aktų raidinė-dalykinė rodyklė bei Teisingumo ministerijos parengta Lietuvos Respublikoje galiojančių įstatymų aktų raidinė-dalykinė rodyklė.
 
-„Valstybės žinias“ leidžia Lietuvos Respublikos Seimo leidykla.
+„Valstybės žinias“ leidžia valstybės įmonė Seimo leidykla „Valstybės žinios“.
 
-„Valstybės žinių“ vyriausiąjį redaktorių skiria ir atleidžia Lietuvos Respublikos Seimo Pirmininkas.
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-46, 1996-12-19, Žin., 1996, Nr. 125-2894 (1996-12-24), i. k. 0961010ISTA0VIII-46
 
 15 straipsnis
 
@@ -225,4 +227,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1443, 1996-07-04, Žin., 1996, Nr. 67-1604 (1996-07-17), i. k. 0961010ISTA00I-1443
 
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 3 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-46, 1996-12-19, Žin., 1996, Nr. 125-2894 (1996-12-24), i. k. 0961010ISTA0VIII-46
+
+Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 14 straipsnio pakeitimo įstatymas
 
