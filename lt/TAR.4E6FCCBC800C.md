@@ -4,7 +4,7 @@ identifier: "TAR.4E6FCCBC800C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-09-29"
-last_updated: "2001-12-17"
+last_updated: "2002-06-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4E6FCCBC800C"
 department: "Lietuvos Respublikos Seimas"
@@ -179,17 +179,19 @@ išleidžiamų akcijų, kurių bendra nominali vertė neviršija 33 procentų š
 
 bendrovės įstatinio kapitalo;
 
-2) kai jis pareikalauja bet kuriuo metu per 5
+2) kai jis pareikalauja bet
 
-metus po to, kai jis įsigis šio straipsnio 1 dalies 1 punkte nurodytų akcijų,
+kuriuo metu per 5 metus po to, kai jis įsigis šio straipsnio 1 dalies
 
-didinant akcinės bendrovės „Mažeikių nafta“ įstatinį kapitalą įsigyti naujai
+1 punkte nurodytų akcijų, didinant akcinės bendrovės „Mažeikių nafta“ įstatinį
 
-išleidžiamų akcijų, kurių bendra nominali vertė kartu su nurodytosiomis šio
+kapitalą įsigyti naujai išleidžiamų akcijų, kurių bendra nominali vertė,
 
-straipsnio 1 dalies 1 punkte neviršija 49,5 procento akcinės bendrovės
+skaičiuojant po tokio įstatinio kapitalo padidinimo, sudaro ne daugiau kaip
 
-„Mažeikių nafta“ įstatinio kapitalo;
+15,4 procento tuo metu įregistruoto akcinės bendrovės „Mažeikių nafta“
+
+įstatinio kapitalo;
 
 3) kai strateginis investuotojas įsigis
 
@@ -213,135 +215,107 @@ dalis šiame punkte nurodytų akcijų perleidžiama akcinės bendrovės „Maže
 
 nafta” naftos tiekėjams ir (arba) finansų institucijoms.
 
-2. Jeigu bet kuriuo metu iki tol, kol strateginis
+2. Jeigu bet kuriuo metu iki tol, kol
 
-investuotojas įsigis akcijas pagal šio straipsnio 1 dalies 2 punktą, akcinės
+strateginis investuotojas įsigis akcijas pagal šio straipsnio 1 dalies 2
 
-bendrovės “Mažeikių nafta” įstatinis kapitalas bus padidintas papildomais
+punktą, akcinės bendrovės „Mažeikių nafta“ įstatinis kapitalas bus padidintas
 
-įnašais išleidžiant naujas akcinės bendrovės “Mažeikių nafta” akcijas,
+papildomais įnašais išleidžiant naujas akcinės bendrovės „Mažeikių nafta“
 
-sudarančias nuo 10,09 procento iki 10,11 procento šios bendrovės įstatinio
+akcijas, sudarančias nuo 10,09 procento iki 10,11 procento šios bendrovės
 
-kapitalo (po šių akcijų išleidimo), kurias įsigis Lietuvos Respublikos
+įstatinio kapitalo (po šių akcijų išleidimo), kurias įsigis Lietuvos
 
-Vyriausybės ir strateginio investuotojo sudarytoje sutartyje nurodyta finansų
+Respublikos Vyriausybės ir strateginio investuotojo sudarytoje sutartyje
 
-institucija ir (arba) bet kuris kitas akcinės bendrovės “Mažeikių nafta”
+nurodyta finansų institucija ir (arba) bet kuris kitas akcinės bendrovės
 
-finansinio patarėjo nurodytas asmuo, įskaitant žaliavinės naftos tiekėją pagal
+„Mažeikių nafta“ finansinio patarėjo nurodytas asmuo, įskaitant žaliavinės
 
-ilgalaikę žaliavinės naftos tiekimo sutartį (ir (ar) jo kontroliuojamas asmuo
+naftos tiekėją pagal ilgalaikę žaliavinės naftos tiekimo sutartį (ir (ar) jo
 
-ar kitas žaliavinės naftos tiekėjo pasiūlytas asmuo, kurį nurodo akcinės
+kontroliuojamas asmuo ar kitas žaliavinės naftos tiekėjo pasiūlytas asmuo, kurį
 
-bendrovės “Mažeikių nafta” finansinis patarėjas), ir jeigu strateginis
+nurodo akcinės bendrovės „Mažeikių nafta“ finansinis patarėjas), Lietuvos
 
-investuotojas pageidaus, Lietuvos Respublikos Vyriausybė neatlygintinai jam
+Respublikos Vyriausybės ir strateginio investuotojo sudarytoje sutartyje
 
-perleis tiek valstybei nuosavybės teise priklausančių akcinės bendrovės
+nustatytais atvejais ir tvarka, Lietuvos Respublikos Vyriausybė neatlygintinai
 
-“Mažeikių nafta” akcijų, kad strateginio investuotojo nuosavybės teise turimų
+jam perleis tiek valstybei nuosavybės teise priklausančių akcinės bendrovės
 
-akcinės bendrovės “Mažeikių nafta” akcijų nominali vertė atitiktų tokią pat
+„Mažeikių nafta“ akcijų, kad strateginio investuotojo nuosavybės teise turimų
 
-procentinę dalį šios bendrovės įstatinio kapitalo, kokią strateginis
+akcinės bendrovės „Mažeikių nafta“ akcijų nominali vertė atitiktų tokią pat
 
-investuotojas turėjo iki įstatinio kapitalo padidinimo papildomais įnašais.
+procentinę dalį šios bendrovės įstatinio kapitalo, kokią strateginis investuotojas
 
-Perleidžiant akcinės bendrovės “Mažeikių nafta” akcijas pagal šios dalies
+turėjo iki įstatinio kapitalo padidinimo papildomais įnašais. Perleidžiant
 
-reikalavimus, Valstybės ir savivaldybių turto privatizavimo įstatymo nuostatos
+akcinės bendrovės „Mažeikių nafta“ akcijas pagal šios dalies reikalavimus,
 
-netaikomos. Jeigu akcinės bendrovės “Mažeikių nafta” visuotinis akcininkų
+Valstybės ir savivaldybių turto privatizavimo įstatymo nuostatos netaikomos.
 
-susirinkimas priima nutarimą sumažinti įstatinį kapitalą ir asmuo, kuris gali
+Jeigu akcinės bendrovės „Mažeikių nafta“ visuotinis akcininkų susirinkimas
 
-būti Lietuvos Respublikos Vyriausybės ir strateginio investuotojo sudarytoje
+priima nutarimą sumažinti įstatinį kapitalą ir asmuo, kuris gali būti Lietuvos
 
-sutartyje nurodyta finansų institucija ir (arba) bet kuris kitas akcinės
+Respublikos Vyriausybės ir strateginio investuotojo sudarytoje sutartyje
 
-bendrovės “Mažeikių nafta” finansinio patarėjo nurodytas asmuo, įskaitant
+nurodyta finansų institucija ir (arba) bet kuris kitas akcinės bendrovės
 
-žaliavinės naftos tiekėją pagal ilgalaikę žaliavinės naftos tiekimo sutartį (ir
+„Mažeikių nafta“ finansinio patarėjo nurodytas asmuo, įskaitant žaliavinės
 
-(ar) jo kontroliuojamas asmuo ar kitas žaliavinės naftos tiekėjo pasiūlytas
+naftos tiekėją pagal ilgalaikę žaliavinės naftos tiekimo sutartį (ir (ar) jo
 
-asmuo, kurį nurodo akcinės bendrovės “Mažeikių nafta” finansinis patarėjas),
+kontroliuojamas asmuo ar kitas žaliavinės naftos tiekėjo pasiūlytas asmuo, kurį
 
-iki priimant minėtą akcinės bendrovės “Mažeikių nafta” visuotinio akcininkų
+nurodo akcinės bendrovės „Mažeikių nafta“ finansinis patarėjas), iki priimant
 
-susirinkimo nutarimą sumažinti įstatinį kapitalą yra išreiškęs ketinimą
+minėtą akcinės bendrovės „Mažeikių nafta“ visuotinio akcininkų susirinkimo
 
-investuoti į akcinę bendrovę “Mažeikių nafta” įsigydamas naujų išleidžiamų
+nutarimą sumažinti įstatinį kapitalą yra išreiškęs ketinimą investuoti į akcinę
 
-akcinės bendrovės “Mažeikių nafta” akcijų, sudarančių nuo 10,09 procento iki
+bendrovę „Mažeikių nafta“ įsigydamas naujų išleidžiamų akcinės bendrovės
 
-10,11 procento šios bendrovės įstatinio kapitalo (po įstatinio kapitalo
+„Mažeikių nafta“ akcijų, sudarančių nuo 10,09 procento iki 10,11 procento šios
 
-sumažinimo ir šių akcijų išleidimo), o po to (tas pats asmuo) ketina
+bendrovės įstatinio kapitalo (po įstatinio kapitalo sumažinimo ir šių akcijų
 
-nedelsdamas investuoti į akcinę bendrovę “Mažeikių nafta” papildomai įsigydamas
+išleidimo), o po to (tas pats asmuo) ketina nedelsdamas investuoti į akcinę
 
-naujų išleidžiamų akcinės bendrovės “Mažeikių nafta” akcijų, sudarančių nuo
+bendrovę „Mažeikių nafta“ papildomai įsigydamas naujų išleidžiamų akcinės
 
-18,62 procento iki 18,64 procento šios bendrovės įstatinio kapitalo (po šių
+bendrovės „Mažeikių nafta“ akcijų, sudarančių nuo 18,62 procento iki 18,64
 
-akcijų išleidimo), visi akcinės bendrovės “Mažeikių nafta” visuotinio akcininkų
+procento šios bendrovės įstatinio kapitalo (po šių akcijų išleidimo), visi
 
-susirinkimo nutarimai dėl akcinės bendrovės “Mažeikių nafta” įstatinio kapitalo
+akcinės bendrovės „Mažeikių nafta“ visuotinio akcininkų susirinkimo nutarimai
 
-sumažinimo ir (arba) šioje dalyje nurodytų dviejų įstatinio kapitalo padidinimų
+dėl akcinės bendrovės „Mažeikių nafta“ įstatinio kapitalo sumažinimo ir (ar)
 
-gali būti priimami tame pačiame akcinės bendrovės “Mažeikių nafta” visuotiniame
+šioje dalyje nurodytų dviejų įstatinio kapitalo padidinimų gali būti priimami
 
-akcininkų susirinkime netaikant Akcinių bendrovių įstatymo 51 straipsnio 3
+tame pačiame akcinės bendrovės „Mažeikių nafta“ visuotiniame akcininkų
 
-dalies ir 54 straipsnio 4 dalies reikalavimų. Šioje dalyje nurodytiems asmenims
+susirinkime netaikant Akcinių bendrovių įstatymo 51 straipsnio 3 dalies ir 54
 
-įsigyjant naujai išleidžiamų akcinės bendrovės “Mažeikių nafta” akcijų, šios
+straipsnio 4 dalies reikalavimų. Šioje dalyje nurodytiems asmenims įsigyjant
 
-bendrovės įstatinis kapitalas didinamas netaikant Valstybės ir savivaldybių
+naujai išleidžiamų akcinės bendrovės „Mažeikių nafta“ akcijų, šios bendrovės
 
-turto privatizavimo įstatymo. Akcinės bendrovės “Mažeikių nafta” akcininkų
+įstatinis kapitalas didinamas netaikant Valstybės ir savivaldybių turto
+
+privatizavimo įstatymo. Akcinės bendrovės „Mažeikių nafta“ akcininkų
 
 struktūros, valdymo bei aprūpinimo energetiniais ištekliais klausimai
 
 sprendžiami netaikant Nacionalinio saugumo pagrindų įstatymo priedėlio
 
-“Nacionalinio saugumo pagrindai” 1 dalies 4 skyriaus skirsnio “Ekonominė
+„Nacionalinio saugumo pagrindai“ 1 dalies 4 skyriaus skirsnio „Ekonominė
 
-politika” apribojimų.
-
-3. Strateginiam investuotojui įsigyjant akcijų pagal
-
-šio straipsnio 1 dalies 1 ir 2 punktus, akcinės bendrovės “Mažeikių nafta”
-
-įstatinis kapitalas didinamas netaikant Valstybės ir savivaldybių turto
-
-privatizavimo įstatymo 18 straipsnio nuostatų. Parduodant strateginiam
-
-investuotojui arba akcinės bendrovės “Mažeikių nafta” naftos tiekėjams ir
-
-(arba) finansų institucijoms šio straipsnio 1 dalies 3 punkte nurodytas
-
-valstybei nuosavybės teise priklausančias akcinės bendrovės akcijas, Valstybės
-
-ir savivaldybių turto privatizavimo įstatymo nuostatos bei Vertybinių popierių
-
-viešosios apyvartos įstatymo 8 straipsnio 2 dalies ir 10 straipsnio
-
-reikalavimai netaikomi. Išskyrus šio įstatymo 3 straipsnio 2 dalyje ir 4
-
-straipsnio 2 dalyje numatytus atvejus, kitos valstybei nuosavybės teise
-
-priklausančios akcinės bendrovės “Mažeikių nafta” akcijos bus privatizuojamos
-
-tik Valstybės ir savivaldybių turto privatizavimo įstatymo nustatyta tvarka.
-
-[3 dalies redakcija nuo 2002
-
-m. balandžio 1 d.:
+politika“ apribojimų.
 
 3. Strateginiam investuotojui įsigyjant akcijų pagal
 
@@ -371,7 +345,7 @@ valstybei nuosavybės teise priklausančios akcinės bendrovės „Mažeikių na
 
 akcijos bus privatizuojamos tik Valstybės ir savivaldybių turto privatizavimo
 
-įstatymo nustatyta tvarka.]
+įstatymo nustatyta tvarka.
 
 *4. Po to, kai
 
@@ -415,9 +389,9 @@ akcijų, viešai skelbiamas ne vėliau kaip prieš 10 dienų iki susirinkimo die
 
 o paskelbtas susirinkimo darbotvarkės projektas netikslinamas. Šiuo atveju
 
-netaikomos Akcinių bendrovių įstatymo 21 straipsnio 6 dalies ir 22 straipsnio 1
+netaikomos Akcinių bendrovių įstatymo
 
-bei 3 dalių nuostatos.
+21 straipsnio 6 dalies ir 22 straipsnio 1 bei 3 dalių nuostatos.
 
 6. Strateginiam investuotojui įsigyjant akcijas
 
@@ -427,9 +401,17 @@ sudarant sutartis dėl kontrolės teisės įgijimo akcinėje bendrovėje „Klai
 
 nafta“, Konkurencijos įstatymo 3 skirsnio nuostatos netaikomos. Akcinei
 
-bendrovei „Mažeikių nafta“ netaikomos Akcinių bendrovių įstatymo 30 straipsnio
+bendrovei „Mažeikių nafta“ netaikomos Akcinių bendrovių įstatymo 39 straipsnio
 
-3 ir 4 dalių bei 45 straipsnio 6 dalies nuostatos.
+4 ir 5 dalių bei 54 straipsnio
+
+7 dalies nuostatos. Iki 2004 m. sausio 1 d. akcinė bendrovė „Mažeikių nafta“
+
+turi teisę įsigyti savo akcijų, netaikant Akcinių bendrovių įstatymo 24
+
+straipsnio 2 dalies 12 punkto bei 55 straipsnio
+
+1 dalies antrojo sakinio ir 2, 3, 4 bei 9 dalių nuostatų.
 
 7. Lietuvos Respublikos Vyriausybei
 
@@ -442,6 +424,34 @@ bendrovė „Mažeikių nafta“ kompensuotų strateginiam investuotojui galimą
 bendrovės vertės sumažėjimą. Akcinės bendrovės „Mažeikių nafta“ kompensacijos
 
 strateginiam investuotojui suma negali viršyti 75 mln. JAV dolerių.
+
+8. Pranešimas apie pirmąjį akcinės bendrovės
+
+„Mažeikių nafta“ akcininkų susirinkimą, vyksiantį po to, kai Lietuvos
+
+Respublikos Vyriausybės ir strateginio investuotojo sudarytoje sutartyje
+
+nurodyta finansų institucija ir (ar) bet kuris kitas akcinės bendrovės
+
+„Mažeikių nafta“ finansinio patarėjo nurodytas asmuo, įskaitant žaliavinės
+
+naftos tiekėją pagal ilgalaikę žaliavinės naftos tiekimo sutartį (ir (ar) jo
+
+kontroliuojamas asmuo ar kitas žaliavinės naftos tiekėjo pasiūlytas asmuo, kurį
+
+nurodo akcinės bendrovės „Mažeikių nafta“ finansinis patarėjas), įsigis naujų
+
+išleidžiamų akcinės bendrovės „Mažeikių nafta“ akcijų, nurodytų šio straipsnio
+
+2 dalyje, viešai skelbiamas ne vėliau kaip prieš 10 dienų iki susirinkimo
+
+dienos, o paskelbtas susirinkimo darbotvarkės projektas netikslinamas. Šiuo
+
+atveju netaikomos Akcinių bendrovių įstatymo 27 straipsnio 2 ir 3 dalių, 28
+
+straipsnio 1 bei
+
+4 dalių ir 30 straipsnio 2 ir 3 dalių nuostatos.
 
 *Pastaba.
 
@@ -457,9 +467,9 @@ Respublikos Vyriausybė sutartyse su strateginiu investuotoju ir akcine bendrove
 
 įsipareigojimus strateginiam investuotojui ir (ar) akcinei bendrovei “Mažeikių
 
-nafta”, prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 1 daliai
+nafta”, prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 1
 
-ir 128 straipsnio 1 daliai.
+daliai ir 128 straipsnio 1 daliai.
 
 Pripažinti, kad Lietuvos Respublikos
 
@@ -535,6 +545,10 @@ Nr. IX-656,
 
 2001-12-17, Žin., 2001, Nr. 112-4075 (2001-12-30), įsigalioja nuo 2002-04-01
 
+Nr. IX-923,
+
+2002-06-04, Žin., 2002, Nr. 56-2231 (2002-06-07)
+
 **4 straipsnis. Reikalavimai akcijų
 
 paketų savininkams
@@ -549,9 +563,9 @@ parduodamas ar kitaip perleidžiamas šios bendrovės akcijas. Vyriausybė turi
 
 teisę nustatyti tokią pat pirmumo teisę ir strateginiam investuotojui.
 
-Laikotarpis, kurio metu valstybė turi teisę pirmumo teise įsigyti akcinės bendrovės
+Laikotarpis, kurio metu valstybė turi teisę pirmumo teise įsigyti akcinės
 
-„Mažeikių nafta“ akcijų iš strateginio investuotojo, ir tokios teisės
+bendrovės „Mažeikių nafta“ akcijų iš strateginio investuotojo, ir tokios teisės
 
 įgyvendinimo tvarka nustatoma Vyriausybės ir strateginio investuotojo
 
@@ -565,47 +579,41 @@ nuosavybės teise (tiesiogiai ar netiesiogiai) priklauso strateginiam
 
 investuotojui.
 
-2. Tuo atveju, kai strateginis
+2. Vyriausybės ir strateginio investuotojo
 
-investuotojas nėra pardavęs ar kitaip perleidęs akcinės bendrovės „Mažeikių
+sutartyse, kurių šalimi taip pat gali būti asmuo, įsigysiantis akcinės
 
-nafta“ akcijų, įsigytų pagal šio įstatymo 3 straipsnio 1 dalies 1 punktą
+bendrovės „Mažeikių nafta“ akcijų pagal šio įstatymo 3 straipsnio 2 dalį, gali
 
-(išskyrus akcijų perleidimą įmonėms, kurių visos akcijos ir (ar) kapitalas
+būti nustatyta tokia tvarka, pagal kurią tokių sutarčių šalys ir (ar) jų teisių
 
-nuosavybės teise (tiesiogiai ar netiesiogiai) priklauso strateginiam
+perėmėjai pagal įstatymus ir (ar) sutartis, įskaitant bet kurį ir visus
 
-investuotojui), ir nutariama privatizuoti, parduoti ar kitaip perleisti tiek
+paskesnius teisių perėmėjus, perleis joms nuosavybės teise priklausančias
 
-valstybei nuosavybės teise priklausančių akcijų, kad po tokio privatizavimo,
+akcinės bendrovės „Mažeikių nafta“ akcijas ar jų įsigis, įsigis naujai
 
-pardavimo ar perleidimo bendra valstybei priklausančių akcinės bendrovės
+išleidžiamų akcinės bendrovės „Mažeikių nafta“ akcijų arba įgyvendins pirmumo
 
-„Mažeikių nafta“ akcijų nominali vertė sudarytų mažiau kaip 18 procentų šios
+teisę įsigyti valstybei nuosavybės teise priklausančių akcinės bendrovės
 
-bendrovės įstatinio kapitalo, strateginis investuotojas turės pirmumo teisę
+„Mažeikių nafta“ akcijų. Sudarant šias sutartis ir įgyvendinant jų nuostatas,
 
-įsigyti visas ar dalį valstybės parduodamų ar kitaip perleidžiamų akcijų
+Valstybės ir savivaldybių turto privatizavimo įstatymas bei Vertybinių popierių
 
-netaikant Valstybės ir savivaldybių turto privatizavimo įstatymo. Ši pirmumo
-
-nuostata taikoma ir tuo atveju, kai bendra valstybei priklausančių akcinės
-
-bendrovės „Mažeikių nafta“ akcijų nominali vertė toliau mažėja dėl paskesnių
-
-valstybei priklausančių bendrovės akcijų perleidimų.
+rinkos įstatymo 19 straipsnio nuostatos netaikomos.
 
 **Pastaba. Pripažinti, kad
 
 Lietuvos Respublikos akcinių bendrovių “Būtingės nafta”, “Mažeikių nafta” ir
 
-“Naftotiekis” reorganizavimo įstatymo 4 straipsnio 2 dalies nuostata, kad
+“Naftotiekis” reorganizavimo įstatymo 4 straipsnio 2 dalies nuostata,
 
-valstybė, o Lietuvos Respublikos Vyriausybės sprendimu - ir strateginis
+kad valstybė, o Lietuvos Respublikos Vyriausybės sprendimu - ir strateginis
 
-investuotojas turi pirmumo teisę įsigyti kitų akcininkų, kuriems nuosavybės
+investuotojas turi pirmumo teisę įsigyti kitų akcininkų, kuriems nuosavybės teise
 
-teise priklauso ne mažiau kaip 1 procentas po reorganizavimo tęsiančios veiklą
+priklauso ne mažiau kaip 1 procentas po reorganizavimo tęsiančios veiklą
 
 akcinės bendrovės “Mažeikių nafta” akcijų, parduodamas ar kitaip perleidžiamas
 
@@ -619,9 +627,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1343, 99.10.05, Žin., 1999, Nr.86-2560
+Nr. VIII-1343, 99.10.05, Žin., 1999,
 
-(99.10.15)
+Nr.86-2560 (99.10.15)
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
@@ -630,6 +638,10 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. IX-480, 2001-08-02, Žin., 2001, Nr.
 
 68-2469 (2001-08-04)
+
+Nr. IX-923,
+
+2002-06-04, Žin., 2002, Nr. 56-2231 (2002-06-07)
 
 5 straipsnis. Baigiamosios nuostatos
 
@@ -719,6 +731,24 @@ BENDROVIŲ „BŪTINGĖS NAFTA“, „MAŽEIKIŲ NAFTA“ IR „NAFTOTIEKIS“ R
 
 įsigalioja nuo 2002 m. balandžio 1 d.
 
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-923,
+
+2002-06-04, Žin., 2002, Nr. 56-2231 (2002-06-07)
+
+AKCINIŲ
+
+BENDROVIŲ „BŪTINGĖS NAFTA“, „MAŽEIKIŲ NAFTA“ IR „NAFTOTIEKIS“ REORGANIZAVIMO
+
+ĮSTATYMO 3 IR 4 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 KONSTITUCINIO TEISMO NUTARIMAI:
@@ -747,7 +777,7 @@ PAGRINDŲ ĮSTATYMUI
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-01-21)
+Aušrinė Trapinskienė (2002-06-07)
 
 autrap@lrs.lt
 
