@@ -4,7 +4,7 @@ identifier: "TAR.8A16A03D98D4"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-01"
-last_updated: "2001-04-02"
+last_updated: "2001-04-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A16A03D98D4"
 department: "Lietuvos Respublikos Seimas"
@@ -1179,847 +1179,9 @@ objektams. Šių miškų plotus tvirtina Vyriausybė;
 
 pagal įstatymus įsigyti privačion nuosavybėn.
 
-Straipsnio pakeitimai:
+[13 straipsnio
 
-Nr. VIII-1181, 99.05.13, Žin.,
-
-1999, Nr.48-1522 (99.06.02)
-
-14
-
-straipsnis. Valstybės išperkami ūkinės-komercinės paskirties pastatai
-
-Ūkinės-komercinės
-
-paskirties pastatai iš šio įstatymo 2 straipsnyje nurodytų piliečių išperkami
-
-valstybės ir už juos atlyginama pagal šio įstatymo 16 straipsnį, jeigu jie:
-
-1)
-
-yra iš esmės perstatyti (rekonstruoti) taip, kad pakeista daugiau kaip 60
-
-procentų pagrindinių konstrukcijų ir sukurto naujo ploto negalima atskirti nuo
-
-buvusiojo;
-
-2)
-
-pagal įstatymus įsigyti privačion nuosavybėn.
-
-15
-
-straipsnis. Valstybės išperkami gyvenamieji namai, jų dalys, butai
-
-Gyvenamieji
-
-namai, jų dalys, butai valstybės išperkami iš šio įstatymo 2 straipsnyje
-
-nurodytų piliečių ir už juos atlyginama pagal šio įstatymo 16 straipsnį, jeigu
-
-jie:
-
-1)
-
-yra pertvarkyti į negyvenamąsias patalpas ir naudojami švietimo, sveikatos
-
-apsaugos, kultūros, mokslo reikmėms bei globos namams. Šių patalpų sąrašą
-
-tvirtina Vyriausybė;
-
-2)
-
-iš esmės pertvarkyti taip, kad pakeista daugiau kaip 50 procentų pagrindinių
-
-konstrukcijų ir sukurto naujo bendrojo ploto negalima atskirti nuo buvusiojo,
-
-jei visas bendras plotas 30 procentų viršija buvusįjį;
-
-3)
-
-pagal įstatymus įsigyti privačion nuosavybėn.
-
-Straipsnio pakeitimai:
-
-Lietuvos
-
-Respublikos Konstitucinis Teismas, Nutarimas
-
-98.10.27,
-
-Žin., 1998, Nr.95-2642 (98.10.30)
-
-Nr. VIII-1181, 99.05.13, Žin.,
-
-1999, Nr.48-1522 (99.06.02)
-
-16
-
-straipsnis. Atlyginimas piliečiams už valstybės išperkamą nekilnojamąjį turtą
-
-1.
-
-Už valstybės išperkamą išlikusį nekilnojamąjį turtą, taip pat už nekilnojamąjį
-
-turtą, kuris iki 1991 m. rugpjūčio 1 d. buvo išlikęs, tačiau po to jo neliko
-
-dėl valstybės, savivaldybės institucijų priimtų sprendimų, piliečiams atlygina
-
-valstybė.
-
-2.
-
-Kai valstybė atlygina piliečiams už nekilnojamąjį turtą, kuris pagal šį
-
-įstatymą negrąžinamas natūra, laikomasi negrąžinamo turto ir vietoj jo
-
-perduodamo kito turto, kuriuo atlyginama už valstybės išperkamą turtą,
-
-lygiavertiškumo principo.
-
-3.
-
-Kai atlyginama už valstybės išperkamą nekilnojamąjį turtą ir už nekilnojamąjį
-
-turtą, kurio šio įstatymo nustatytais atvejais piliečiai nepageidauja
-
-susigrąžinti natūra, atlyginimas (perduodamų neatlygintinai nuosavybėn žemės,
-
-miško, vandens telkinio vertė, mokamų pinigų suma, išduodamų vertybinių
-
-popierių skaičius) apskaičiuojamas pagal Vyriausybės patvirtintą vertinimo
-
-metodiką, atsižvelgiant į realią išperkamo turto ir perduodamo kito turto vertę
-
-atlyginimo metu. Atlyginant už miesto teritorijoje esančią žemę, laikomasi
-
-nuostatos, kad po neteisėto žemės nacionalizavimo miestams priskirta žemė
-
-vertinama priemiestinėse teritorijose esančios žemės ūkio paskirties žemės
-
-vidutine rinkos kaina, o kitai miestų teritorijose esančiai žemei taikoma tam
-
-miestui Vyriausybės nustatyta vidutinė atlyginimo kaina.
-
-4. Kai atlyginama už pagal šį įstatymą negrąžinamą
-
-žemę, mišką, vandens telkinį, vietoj jų perduodamos nuosavybėn žemės, miško,
-
-vandens telkinio lygiavertiškumas nustatomas pagal Vyriausybės patvirtintą
-
-metodiką.
-
-5. Žemė, kurios
-
-susigrąžinti natūra turėtoje vietoje piliečiai nepageidauja, jiems gali būti
-
-grąžinama perduodant nuosavybėn lygiavertį turėtajam žemės sklypą iš laisvos
-
-žemės fondo pagal Žemės reformos įstatyme piliečiams nustatytą žemės plotų
-
-įsigijimo eiliškumą, taip pat perduodamas nuosavybėn neatlygintinai jo
-
-naudojamas lygiavertis žemės sklypas prie nuosavybės teise turimų pastatų.
-
-6. Tais
-
-atvejais, kai didžioji dalis piliečio nuosavybės teise turėtos žemės ūkio naudmenų
-
-žemės pagal šio įstatymo 12 straipsnį yra priskirta valstybės išperkamai žemei,
-
-jam pageidaujant, už likusį laisvos žemės plotą, jeigu jame žemės ūkio naudmenų
-
-lieka mažiau kaip 3 ha arba ūkį atkurti netikslinga, atlyginama šiame
-
-straipsnyje nurodytais būdais. Šiais atvejais sprendimą dėl ūkio atkūrimo
-
-tikslingumo priima apskrities viršininkas pagal žemės reformos žemėtvarkos
-
-projekto autoriaus duomenis. Miškas, kurio susigrąžinti natūra turėtoje vietoje
-
-piliečiai nepageidauja, jiems gali būti grąžinamas perduodant nuosavybėn
-
-lygiavertį miško plotą iš laisvo miško fondo tik už turėtą mišką ir žemę,
-
-apaugusią mišku, ir tik tose apskrityse, kuriose gyvena šie piliečiai.
-
-7.
-
-Valstybiniuose parkuose ir valstybiniuose draustiniuose žemė ir miškas
-
-grąžinami perduodant nuosavybėn lygiavertį turėtajam atitinkamai žemės sklypą
-
-ar miško plotą tik piliečiams, gyvenantiems tame rajone, kuriame yra
-
-valstybinis parkas ar valstybinis draustinis.
-
-8.
-
-Atlyginimas už pagal šį įstatymą negrąžinamus ūkinės-komercinės paskirties
-
-pastatus, gyvenamuosius namus, jų dalis, butus nustatomas pagal Vyriausybės
-
-patvirtintą metodiką.
-
-9.
-
-Už valstybės išperkamą žemę, miškus ir vandens telkinius valstybė piliečiams
-
-atlygina šiais būdais:
-
-1) perduodama
-
-lygiavertį žemės, miško ar vandens telkinio plotą. Už miesto teritorijoje
-
-esančią žemę (išskyrus už miesto teritorijoje turėtą mišką) mišku neatlyginama;
-
-2)
-
-įskaitymu panaikindama piliečio pinigines prievoles valstybei, atsiradusias po
-
-nekilnojamojo turto nusavinimo iki sprendimo dėl nuosavybės teisių atkūrimo
-
-dienos;
-
-3)
-
-vertybiniais popieriais;
-
-4) perduodama neatlygintinai nuosavybėn lygiavertį
-
-turėtajam naują žemės sklypą individualiai statybai miestuose ir kaimo
-
-vietovėse, kur buvo turėtoji žemė, lygiavertį turėtajam esamos privačios namų
-
-valdos (sodybos) žemės sklypą (nepaisant turėtos žemės vietos). Vyriausybės
-
-nustatyta tvarka piliečio pageidavimu lygiavertis turėtajam naujas žemės
-
-sklypas individualiai statybai gali būti perduotas neatlygintinai nuosavybėn
-
-kituose, negu buvo turėtas žemės sklypas, miestuose bei kaimo vietovėse,
-
-išskyrus Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio, Alytaus, Marijampolės,
-
-Druskininkų, Palangos, Birštono ir Neringos miestus;
-
-5) pinigais -
-
-išpirkdami kaimo vietovėje žemę, mišką, išskyrus 4 straipsnio 7, 10 dalyse ir 6
-
-straipsnio 3, 7 dalyse nurodytus atvejus, taip pat išskyrus atvejį, kai
-
-privačion nuosavybėn iš laisvos žemės fondo yra įsigyta žemė, kurios
-
-susigrąžinti nepageidavo šio įstatymo 2 straipsnyje nurodyti piliečiai.
-
-Atlyginimo pinigais dydis padidinamas 15 procentų, jeigu yra išperkama žemė, į
-
-kurią nuosavybės teisės yra atkurtos arba atkuriamos Lietuvos Respublikos
-
-piliečiams - 1918-1920 m. nepriklausomybės kovų kariams savanoriams,
-
-pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ar
-
-Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų sutuoktiniams, tėvams
-
-(įtėviams), vaikams (įvaikiams), ir jei ši žemė pagal šio įstatymo 12 straipsnį
-
-yra priskirta valstybės išperkamai žemei ir yra naudojama asmeniniam arba
-
-valstiečio ūkiui, tarnybinėms daloms;
-
-6)
-
-pinigais - išpirkdama žemę, kuri Vyriausybės nustatyta tvarka buvo priskirta
-
-miestų teritorijoms nuo 1991 m. rugpjūčio 1 d. iki 1995 m. birželio 1 d.;
-
-7)
-
-pinigais - Lietuvos Respublikos piliečiams politiniams kaliniams ir tremtiniams,
-
-sugrįžusiems iš tremties po šio įstatymo įsigaliojimo ir nepageidaujantiems
-
-susigrąžinti žemės, miško ir vandens telkinių kaimo vietovėse natūra;
-
-8) pinigais -
-
-piliečiams, atsisakiusiems jiems perduodamo neatlygintinai nuosavybėn naujo
-
-žemės sklypo individualiai statybai miestuose, kompensuojant Vyriausybės
-
-nustatyto dydžio žemės sklypo tame mieste vidutinės vertės sumą, kurią nustato
-
-Vyriausybė;
-
-9)
-
-perduodama neatlygintinai nuosavybėn lygiavertį turėtajam vandens telkinį - už
-
-išperkamą arba neišlikusį vandens telkinį.
-
-10.
-
-Už valstybės išperkamus gyvenamuosius namus, jų dalis, butus valstybė atlygina
-
-piliečiams šiais būdais:
-
-1)
-
-perduodama neatlygintinai nuosavybėn jų nuomojamus valstybės ar savivaldybės
-
-butų fondo butus, kurių vertės skirtumas padengiamas Vyriausybės nustatyta
-
-tvarka;
-
-2)
-
-perduodama neatlygintinai nuosavybėn lygiaverčius turėtiesiems namams, jų
-
-dalims, butams butus Vyriausybės nustatyta tvarka;
-
-3) perduodama neatlygintinai nuosavybėn lygiavertį
-
-turėtiesiems namams, jų dalims, butams naują žemės sklypą individualiai
-
-statybai toje vietovėje, kurioje jie buvo. Vyriausybės nustatyta tvarka
-
-piliečio pageidavimu lygiavertis naujas žemės sklypas individualiai statybai
-
-gali būti perduotas neatlygintinai nuosavybėn kituose, negu buvo gyvenamieji namai,
-
-jų dalys, butai, miestuose ir kaimo vietovėse, išskyrus Vilniaus, Kauno,
-
-Klaipėdos, Šiaulių, Panevėžio, Alytaus, Marijampolės, Druskininkų, Palangos,
-
-Birštono ir Neringos miestus;
-
-4) perduodama neatlygintinai nuosavybėn lygiaverčius
-
-turėtiesiems namams, jų dalims, butams tuščius nenuomojamus pastatus, statinius
-
-arba jų dalis. Šių pastatų, statinių arba jų dalių perdavimo tvarką nustato
-
-Vyriausybė;
-
-5)
-
-įskaitymu panaikindama piliečio pinigines prievoles valstybei, atsiradusias po
-
-nekilnojamojo turto nusavinimo iki sprendimo dėl nuosavybės teisių atkūrimo
-
-priėmimo dienos, Vyriausybės nustatyta tvarka;
-
-6)
-
-perduodama neatlygintinai nuosavybėn kitą turtą Vyriausybės nustatyta tvarka;
-
-7)
-
-pinigais ir (ar) vertybiniais popieriais.
-
-11.
-
-Už valstybės išperkamus ūkinės-komercinės paskirties pastatus ir jų
-
-priklausinius valstybė atlygina vertybiniais popieriais.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1181, 99.05.13, Žin.,
-
-1999, Nr.48-1522 (99.06.02)
-
-17
-
-straipsnis. Institucijos, nagrinėjančios piliečių prašymus atkurti nuosavybės
-
-teises
-
-1. Piliečių prašymus atkurti nuosavybės teises į
-
-žemę, mišką ir vandens telkinius nagrinėja Vyriausybės įgaliota institucija.
-
-2.
-
-Piliečių prašymus atkurti nuosavybės teises į gyvenamuosius namus, jų dalis,
-
-butus, ūkinės-komercinės paskirties pastatus Vyriausybės nustatyta tvarka
-
-nagrinėja miesto, rajono savivaldybės meras (valdyba) ar kita Vyriausybės
-
-įgaliota institucija.
-
-18
-
-straipsnis. Sprendimų dėl nuosavybės teisių atkūrimo priėmimas
-
-1.
-
-Šio įstatymo 17 straipsnyje nurodytos institucijos turi išnagrinėti piliečių
-
-prašymus ir priimti sprendimus dėl nuosavybės teisių atkūrimo per 6 mėnesius
-
-nuo dokumentų, patvirtinančių nuosavybės teises ir giminystės ryšį, pateikimo
-
-bei kitų šiame įstatyme nurodytų dokumentų parengimo dienos.
-
-2. Apie sprendimo priėmimo laiką raštu turi būti
-
-informuoti šio įstatymo 2 straipsnyje nurodyti piliečiai. Piliečiams neatvykus
-
-į svarstymą, sprendimas gali būti priimtas jiems nedalyvaujant.
-
-3. Institucijos,
-
-nagrinėjančios piliečių prašymus dėl nuosavybės teisių atkūrimo, nesant
-
-galimybės pagal šį įstatymą nuosavybę grąžinti natūra, privalo piliečiams raštu
-
-pasiūlyti kitus šiame įstatyme numatytus atlyginimo būdus.
-
-4. Institucijos
-
-priimtame sprendime grąžinti piliečiui natūra gyvenamąjį namą, jo dalį, butą
-
-turi būti nurodomos šio namo, jo dalies, buto nuomininkams ir savininkams
-
-valstybės suteiktos garantijos ir jų galiojimo trukmė.
-
-5. Sprendime
-
-nurodoma ir valstybės išperkamo nekilnojamojo turto vertė.
-
-6.
-
-Sprendimai piliečiams išduodami ne vėliau kaip per 30 dienų nuo jų priėmimo
-
-dienos.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1181, 99.05.13, Žin.,
-
-1999, Nr.48-1522 (99.06.02)
-
-19
-
-straipsnis. Sprendimų dėl nuosavybės teisių atkūrimo apskundimo tvarka
-
-1.
-
-Šio įstatymo 17 straipsnyje nurodytų institucijų sprendimai dėl nuosavybės
-
-teisių į išlikusį nekilnojamąjį turtą atkūrimo gali būti apskųsti teismui per
-
-30 dienų nuo šių sprendimų įteikimo piliečiams dienos.
-
-2.
-
-Šiose bylose šalys atleidžiamos nuo žyminio mokesčio.
-
-20
-
-straipsnis. Valstybės garantijos gyvenamųjų namų, jų dalių, butų nuomininkams
-
-ir
-
-savininkams.
-
-Nuomininkų ir savininkų teisės ir pareigos
-
-1. Kai piliečiui grąžinamas natūra
-
-gyvenamasis namas, jo dalis, butas, kuriuose gyvena nuomininkai, visas
-
-nuomininkų teises ir pareigas pagal gyvenamųjų patalpų nuomos sutartį
-
-Vyriausybės nustatyta tvarka perima savivaldybė iki to laiko, kol valstybė
-
-įvykdys jiems suteiktas garantijas. Iki šio laiko savininkui draudžiama
-
-nutraukti nuomos sutartį su savivaldybe ir draudžiama nuomininkus iškeldinti,
-
-išskyrus Civiliniame kodekse numatytus atvejus.
-
-2. Savivaldybė, perėmusi nuomininkų
-
-teises ir pareigas, gyvenamąsias patalpas Vyriausybės nustatyta tvarka ir
-
-sąlygomis nuomoja šiose patalpose gyvenantiems nuomininkams ir rūpinasi jų
-
-eksploatacija bei remontu. Šie nuomininkai savivaldybei moka nuompinigius ir
-
-mokestį už komunalines paslaugas pagal savivaldybės nustatytus tarifus, o su
-
-grąžinto namo, jo dalies ar buto savininku pagal patalpų nuomos sutartį
-
-atsiskaito savivaldybė Vyriausybės nustatyta tvarka ir sąlygomis.
-
-3. Institucija, priimanti
-
-sprendimą grąžinti piliečiui natūra gyvenamąjį namą, jo dalį, butą, privalo
-
-juose gyvenantiems nuomininkams išduoti valstybės garantinį dokumentą. Toks
-
-garantinis dokumentas išduodamas ir grąžinamo namo, jo dalies, buto savininkui.
-
-Valstybės garantijas, jų įvykdymą, garantijų turėtojų teises ir pareigas
-
-nustato Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio,
-
-šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų,
-
-numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo
-
-įstatyme, įstatymas.
-
-4. Nuomininkai,
-
-gyvenantys piliečiui natūra grąžinamame gyvenamajame name, jo dalyje ar bute,
-
-per 3 mėnesius nuo institucijos, nurodytos šio įstatymo 17 straipsnio 2 dalyje,
-
-pranešimo gavimo dienos privalo raštiškai pareikšti savo valią dėl Kompensacijų
-
-už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų
-
-bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių
-
-į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo numatytos valstybės
-
-garantijos. Nuomininkams, per šį laiką nepareiškusiems savo valios dėl
-
-nurodytame įstatyme numatytos valstybės garantijos, ją savo nuožiūra nustato
-
-šio įstatymo 17 straipsnio 2 dalyje nurodyta institucija.
-
-5. Jeigu gyvenamojo namo savininkas
-
-parduoda sugrąžintą gyvenamąjį namą, jo dalį, butą, nuomininkai turi pirmenybės
-
-teisę jį pirkti Civilinio kodekso 125 straipsnyje nustatyta tvarka ir
-
-sąlygomis.
-
-6. Nuomininkai, likę gyventi gyvenamuosiuose
-
-namuose, jų dalyse, butuose, kurių savininkai nenori susigrąžinti, įgyja teisę
-
-išsipirkti šias patalpas Vyriausybės nustatyta tvarka per šešis mėnesius nuo
-
-sprendimo dėl gyvenamojo namo, jo dalies, buto teisinės registracijos valstybės
-
-ar savivaldybės vardu įregistravimo Nekilnojamojo turto registre.
-
-7. Šio
-
-straipsnio 1 ir 2 dalių nuostatos galioja ir pasikeitus namo, namo dalies, buto
-
-savininkui.
-
-Straipsnio pakeitimai:
-
-Lietuvos
-
-Respublikos Konstitucinis Teismas, Nutarimas
-
-98.10.27,
-
-Žin., 1998, Nr.95-2642 (98.10.30)
-
-Nr. VIII-1181, 99.05.13, Žin.,
-
-1999, Nr.48-1522 (99.06.02)
-
-IV SKYRIUS
-
-BAIGIAMOSIOS
-
-NUOSTATOS
-
-21
-
-straipsnis. Specialios šio įstatymo taikymo nuostatos
-
-1.
-
-Piliečių prašymai atkurti nuosavybės teises, pateikti Lietuvos Respublikos
-
-įstatymo “Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
-
-atstatymo tvarkos ir sąlygų” nustatytais terminais ir neišnagrinėti iki
-
-Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
-
-atkūrimo įstatymo įsigaliojimo, nagrinėjami bei sprendimai dėl jų priimami
-
-laikantis šio įstatymo nuostatų.
-
-2. Piliečiai, kurių nuosavybės teisės į išlikusį
-
-nekilnojamąjį turtą atkurtos pagal Lietuvos Respublikos įstatymą “Dėl piliečių
-
-nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų”,
-
-turi teisę per 3 mėnesius nuo Lietuvos Respublikos piliečių nuosavybės teisių į
-
-išlikusį nekilnojamąjį turtą atkūrimo įstatymo įsigaliojimo dienos kreiptis ir
-
-pateikti prašymus Vyriausybės įgaliotai institucijai dėl papildomo sprendimo
-
-priėmimo pagal šį įstatymą.
-
-3. Pilietis per
-
-3 mėnesius nuo Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio,
-
-šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų,
-
-numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo
-
-įstatyme, įstatymo įgyvendinimui Lietuvos Respublikos Vyriausybės priimtų
-
-lydimųjų aktų įsigaliojimo dienos gali pakeisti savo pareikštą valią dėl būdo,
-
-kuriuo valstybė atlygina už išperkamą nekilnojamąjį turtą, jeigu nepriimtas
-
-sprendimas dėl nuosavybės teisių atkūrimo. Jeigu sprendimas priimtas, bet
-
-nepradėtas vykdyti, jis šio įstatymo 17 straipsnyje numatytų institucijų,
-
-piliečiui paprašius, pakeičiamas administracine tvarka, o jei sprendimas
-
-pradėtas vykdyti, jis gali būti panaikinamas teismine tvarka ir pilietis
-
-atleidžiamas nuo žyminio mokesčio.
-
-4. Piliečiams,
-
-kuriems gali būti taikomos šio įstatymo 4 straipsnio 8 dalies nuostatos, per 6
-
-mėnesius nuo šio įstatymo įsigaliojimo dienos turi būti pateikti raštiški
-
-siūlymai dėl jų galimybės gauti didesnį sklypą iš laisvos žemės fondo. Gavę
-
-tokį pasiūlymą, piliečiai per 2 mėnesius nuo pasiūlymo gavimo dienos privalo
-
-raštu pranešti apie savo sutikimą arba nesutikimą su gautu pasiūlymu.
-
-5. Piliečiai,
-
-kurių nuosavybės teisės į žemės ūkio paskirties žemę ir ūkinės-komercinės
-
-paskirties pastatus atkurtos grąžinant juos natūra, turi pirmumo teisę įsigyti
-
-valstybei, savivaldybėms arba žemės ūkio bendrovėms priklausančius pastatus,
-
-statinius, esančius jiems grąžintos žemės ribose arba prie grąžintų ūkinės-komercinės
-
-paskirties pastatų. Šie pastatai, statiniai įsigyjami įstatymų nustatyta
-
-tvarka.
-
-6. Kai
-
-piliečiai, įsigiję asmeninio ūkio ar valstiečio ūkio žemę už valstybės
-
-vienkartines išmokas, ją parduoda, pirmumo teisę ją išpirkti turi valstybė.
-
-7. Kompensacijų, numatytų šiame įstatyme už
-
-valstybės išperkamą nekilnojamąjį turtą, dydį, šaltinius, mokėjimo terminus ir
-
-tvarką, taip pat šio įstatymo 20 straipsnyje numatytų garantijų nuomininkams
-
-įgyvendinimo tvarką ir sąlygas bei lengvatas 1918-1920 m. nepriklausomybės kovų
-
-kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams
-
-kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų
-
-sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams) nustato atskiras
-
-įstatymas.
-
-8.
-
-Piliečiai, kurie pagal šio įstatymo 4 straipsnio 8 dalį paėmė žemės sklypą
-
-kitoje kaimo vietovėje arba kurie pagal šio įstatymo 16 straipsnį vietoj
-
-valstybės išperkamos žemės sklypo kaimo vietovėje gavo lygiavertį sklypą kitoje
-
-vietovėje, įstatymų nustatyta tvarka gali pasinaudoti valstybės teikiamomis
-
-lengvatomis ir parama sodybai perkelti ir ūkiui kurti.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1181, 99.05.13, Žin.,
-
-1999, Nr.48-1522 (99.06.02)
-
-22
-
-straipsnis. Netekę galios teisės aktai
-
-Įsigaliojus
-
-šiam įstatymui, netenka galios:
-
-1)
-
-Lietuvos Respublikos įstatymas “Dėl piliečių nuosavybės teisių į išlikusį
-
-nekilnojamąjį turtą atstatymo tvarkos ir sąlygų” (Žin.1991, Nr.21-545; 1992,
-
-Nr.3-40, Nr.7-155, Nr.11-278, Nr.15-405; 1993, Nr.5-83, Nr.32-725; 1994,
-
-Nr.7-100, Nr.14-229, Nr.43-778; 1995, Nr.39-965, Nr.50-1226, Nr.59-1465,
-
-Nr.85-1916, Nr.103-2299; 1996, Nr.37-929);
-
-2)
-
-Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas “Dėl Lietuvos
-
-Respublikos įstatymo “Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį
-
-turtą atstatymo tvarkos ir sąlygų” įsigaliojimo ir taikymo tvarkos” (Žin.1991,
-
-Nr.21-549);
-
-3)
-
-Lietuvos Respublikos įstatymo “Dėl piliečių nuosavybės teisių į išlikusį
-
-nekilnojamąjį turtą atstatymo tvarkos ir sąlygų” galiojimo sustabdymo
-
-laikinasis įstatymas (Žin., 1997, Nr.6-89).
-
-Skelbiu
-
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                       ALGIRDAS BRAZAUSKAS
-
-_______________
-
-PAKEITIMAI:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-1181,
-
-99.05.13, Žin., 1999, Nr.48-1522 (99.06.02)
-
-LIETUVOS
-
-RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
-
-ĮSTATYMO 2, 4, 5, 10, 12, 13, 15, 16, 18, 20, 21 STRAIPSNIŲ PAKEITIMO IR
-
-PAPILDYMO ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1521, 00.01.04, Žin., 2000,
-
-Nr.5-128 (00.01.19)
-
-LIETUVOS
-
-RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į
-
-IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1866, 00.07.18, Žin., 2000,
-
-Nr.64-1934 (00.07.31)
-
-PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ
-
-TURTĄ ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1995, 00.10.10, Žin., 2000,
-
-Nr.89-2753 (00.10.25)
-
-PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ
-
-TURTĄ ATKŪRIMO ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-*** Pabaiga ***
-
-LIETUVOS
-
-RESPUBLIKOS KONSTITUCINIO TEISMO NUTARIMAI:
-
-1.
-
-Lietuvos
-
-Respublikos Konstitucinis Teismas, Nutarimas
-
-1998
-
-10 27, Žin., 1998, Nr. 95-2642 (1998 10 30)
-
-DĖL
-
-LIETUVOS RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ
-
-ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO 1, 4, 9 IR 11 DALIŲ, 8 STRAIPSNIO 1 DALIES, 15
-
-STRAIPSNIO 2 PUNKTO IR 20 STRAIPSNIO 1, 2, 3 BEI 4 DALIŲ ATITIKIMO LIETUVOS
-
-RESPUBLIKOS KONSTITUCIJAI
-
-2.
-
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-
-2001 04 02, Žin., 2001, Nr. 29-938 (2001 04 04)
-
-DĖL LIETUVOS RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į
-
-IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 5 STRAIPSNIO 2, 3, 4 IR 5 DALIŲ,
-
-12 STRAIPSNIO 3 PUNKTO, 16 STRAIPSNIO 3 DALIES IR ŠIO STRAIPSNIO 9 DALIES 5
-
-PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR DĖL ŠIO ĮSTATYMO 5
-
-STRAIPSNIO 2, 3, 4 BEI 5 DALIŲ IR 12 STRAIPSNIO 3 PUNKTO ATITIKTIES LIETUVOS
-
-RESPUBLIKOS KONSTITUCIJOS 47 STRAIPSNIO ANTROJOJE DALYJE NUMATYTO ŽEMĖS SKLYPŲ
-
-ĮSIGIJIMO NUOSAVYBĖN SUBJEKTŲ, TVARKOS, SĄLYGŲ IR APRIBOJIMŲ KONSTITUCINIO
-
-ĮSTATYMO 8 STRAIPSNIUI
-
-*** Pabaiga ***
-
-Redagavo: Aušrinė Trapinskienė (2001 04 04)
-
-autrap@lrs.lt
+redakcija nuo 2001 m. liepos 1 d.:
 
 1 straipsnis. Įstatymo
 
@@ -2941,15 +2103,17 @@ Nr. VIII-1181,
 
 99.05.13, Žin., 1999, Nr.48-1522 (99.06.02)
 
-13 straipsnis. Valstybės
+13 straipsnis.
 
-išperkami miškai ir vandens telkiniai
+Valstybės išperkami miškai ir vandens telkiniai
 
-Miškai ir vandens telkiniai iš
+Miškai ir
 
-šio įstatymo 2 straipsnyje nurodytų piliečių išperkami valstybės ir už juos
+vandens telkiniai iš šio įstatymo 2 straipsnyje nurodytų piliečių išperkami
 
-valstybė atlygina pagal šio įstatymo 16 straipsnį, jeigu jie:
+valstybės ir už juos valstybė atlygina pagal šio įstatymo 16 straipsnį, jeigu
+
+jie:
 
 1) priskirti valstybinės
 
@@ -2957,35 +2121,893 @@ reikšmės miškams, valstybinės reikšmės vidaus vandenims. Šių miškų ir 
 
 telkinių plotus tvirtina Vyriausybė;
 
-2) priskirti valstybiniams
+2) priskirti valstybiniams rezervatams, valstybinių
 
-rezervatams, valstybinių parkų rezervatams ir rezervatinėms apyrubėms, Kuršių
+parkų rezervatams ir rezervatinėms apyrubėms, Kuršių nerijos nacionaliniam parkui;
 
-nerijos nacionaliniam parkui;
+3) priskirti
 
-3) priskirti miestų sanitarinės
+miestų miškams, miestų sanitarinės apsaugos pirmajai zonai;
 
-apsaugos pirmajai zonai;
+4) priskirti
 
-4) priskirti miško genetiniams
+miško genetiniams draustiniams, valstybiniams miško medelynams, valstybiniams
 
-rezervatams, miško medelynams ir sėklininkystės plantacijoms;
+miško daigynams ir miško sėklinėms plantacijoms;
 
-5) priskirti miškų mokslinio
+5) priskirti
 
-tyrimo ir mokymo bei selekcinės sėklininkystės objektams. Šių miškų plotus
+miškų mokslinio tyrimo ir mokymo bei selekcinės sėklininkystės objektams. Šių
 
-tvirtina Vyriausybė;
+miškų plotus tvirtina Vyriausybė;
 
-6) pagal įstatymus įsigyti
+6)
 
-privačion nuosavybėn.
+pagal įstatymus įsigyti privačion nuosavybėn.]
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1181,
+Nr. VIII-1181, 99.05.13, Žin.,
+
+1999, Nr.48-1522 (99.06.02)
+
+Nr. IX-242, 2001 04 10, Žin., 2001, Nr.
+
+35-1163 (2001 04 25)
+
+14
+
+straipsnis. Valstybės išperkami ūkinės-komercinės paskirties pastatai
+
+Ūkinės-komercinės
+
+paskirties pastatai iš šio įstatymo 2 straipsnyje nurodytų piliečių išperkami
+
+valstybės ir už juos atlyginama pagal šio įstatymo 16 straipsnį, jeigu jie:
+
+1)
+
+yra iš esmės perstatyti (rekonstruoti) taip, kad pakeista daugiau kaip 60
+
+procentų pagrindinių konstrukcijų ir sukurto naujo ploto negalima atskirti nuo
+
+buvusiojo;
+
+2)
+
+pagal įstatymus įsigyti privačion nuosavybėn.
+
+15
+
+straipsnis. Valstybės išperkami gyvenamieji namai, jų dalys, butai
+
+Gyvenamieji
+
+namai, jų dalys, butai valstybės išperkami iš šio įstatymo 2 straipsnyje
+
+nurodytų piliečių ir už juos atlyginama pagal šio įstatymo 16 straipsnį, jeigu
+
+jie:
+
+1)
+
+yra pertvarkyti į negyvenamąsias patalpas ir naudojami švietimo, sveikatos
+
+apsaugos, kultūros, mokslo reikmėms bei globos namams. Šių patalpų sąrašą
+
+tvirtina Vyriausybė;
+
+2)
+
+iš esmės pertvarkyti taip, kad pakeista daugiau kaip 50 procentų pagrindinių
+
+konstrukcijų ir sukurto naujo bendrojo ploto negalima atskirti nuo buvusiojo,
+
+jei visas bendras plotas 30 procentų viršija buvusįjį;
+
+3)
+
+pagal įstatymus įsigyti privačion nuosavybėn.
+
+Straipsnio pakeitimai:
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+98.10.27,
+
+Žin., 1998, Nr.95-2642 (98.10.30)
+
+Nr. VIII-1181, 99.05.13, Žin.,
+
+1999, Nr.48-1522 (99.06.02)
+
+16
+
+straipsnis. Atlyginimas piliečiams už valstybės išperkamą nekilnojamąjį turtą
+
+1.
+
+Už valstybės išperkamą išlikusį nekilnojamąjį turtą, taip pat už nekilnojamąjį
+
+turtą, kuris iki 1991 m. rugpjūčio 1 d. buvo išlikęs, tačiau po to jo neliko
+
+dėl valstybės, savivaldybės institucijų priimtų sprendimų, piliečiams atlygina
+
+valstybė.
+
+2.
+
+Kai valstybė atlygina piliečiams už nekilnojamąjį turtą, kuris pagal šį
+
+įstatymą negrąžinamas natūra, laikomasi negrąžinamo turto ir vietoj jo perduodamo
+
+kito turto, kuriuo atlyginama už valstybės išperkamą turtą, lygiavertiškumo
+
+principo.
+
+3.
+
+Kai atlyginama už valstybės išperkamą nekilnojamąjį turtą ir už nekilnojamąjį
+
+turtą, kurio šio įstatymo nustatytais atvejais piliečiai nepageidauja
+
+susigrąžinti natūra, atlyginimas (perduodamų neatlygintinai nuosavybėn žemės,
+
+miško, vandens telkinio vertė, mokamų pinigų suma, išduodamų vertybinių
+
+popierių skaičius) apskaičiuojamas pagal Vyriausybės patvirtintą vertinimo
+
+metodiką, atsižvelgiant į realią išperkamo turto ir perduodamo kito turto vertę
+
+atlyginimo metu. Atlyginant už miesto teritorijoje esančią žemę, laikomasi
+
+nuostatos, kad po neteisėto žemės nacionalizavimo miestams priskirta žemė
+
+vertinama priemiestinėse teritorijose esančios žemės ūkio paskirties žemės
+
+vidutine rinkos kaina, o kitai miestų teritorijose esančiai žemei taikoma tam
+
+miestui Vyriausybės nustatyta vidutinė atlyginimo kaina.
+
+4. Kai atlyginama už pagal šį įstatymą negrąžinamą
+
+žemę, mišką, vandens telkinį, vietoj jų perduodamos nuosavybėn žemės, miško,
+
+vandens telkinio lygiavertiškumas nustatomas pagal Vyriausybės patvirtintą
+
+metodiką.
+
+5. Žemė, kurios
+
+susigrąžinti natūra turėtoje vietoje piliečiai nepageidauja, jiems gali būti
+
+grąžinama perduodant nuosavybėn lygiavertį turėtajam žemės sklypą iš laisvos
+
+žemės fondo pagal Žemės reformos įstatyme piliečiams nustatytą žemės plotų
+
+įsigijimo eiliškumą, taip pat perduodamas nuosavybėn neatlygintinai jo
+
+naudojamas lygiavertis žemės sklypas prie nuosavybės teise turimų pastatų.
+
+6. Tais
+
+atvejais, kai didžioji dalis piliečio nuosavybės teise turėtos žemės ūkio
+
+naudmenų žemės pagal šio įstatymo 12 straipsnį yra priskirta valstybės
+
+išperkamai žemei, jam pageidaujant, už likusį laisvos žemės plotą, jeigu jame
+
+žemės ūkio naudmenų lieka mažiau kaip 3 ha arba ūkį atkurti netikslinga,
+
+atlyginama šiame straipsnyje nurodytais būdais. Šiais atvejais sprendimą dėl
+
+ūkio atkūrimo tikslingumo priima apskrities viršininkas pagal žemės reformos
+
+žemėtvarkos projekto autoriaus duomenis. Miškas, kurio susigrąžinti natūra turėtoje
+
+vietoje piliečiai nepageidauja, jiems gali būti grąžinamas perduodant
+
+nuosavybėn lygiavertį miško plotą iš laisvo miško fondo tik už turėtą mišką ir
+
+žemę, apaugusią mišku, ir tik tose apskrityse, kuriose gyvena šie piliečiai.
+
+7.
+
+Valstybiniuose parkuose ir valstybiniuose draustiniuose žemė ir miškas
+
+grąžinami perduodant nuosavybėn lygiavertį turėtajam atitinkamai žemės sklypą
+
+ar miško plotą tik piliečiams, gyvenantiems tame rajone, kuriame yra
+
+valstybinis parkas ar valstybinis draustinis.
+
+8.
+
+Atlyginimas už pagal šį įstatymą negrąžinamus ūkinės-komercinės paskirties
+
+pastatus, gyvenamuosius namus, jų dalis, butus nustatomas pagal Vyriausybės
+
+patvirtintą metodiką.
+
+9.
+
+Už valstybės išperkamą žemę, miškus ir vandens telkinius valstybė piliečiams
+
+atlygina šiais būdais:
+
+1) perduodama
+
+lygiavertį žemės, miško ar vandens telkinio plotą. Už miesto teritorijoje
+
+esančią žemę (išskyrus už miesto teritorijoje turėtą mišką) mišku neatlyginama;
+
+2)
+
+įskaitymu panaikindama piliečio pinigines prievoles valstybei, atsiradusias po
+
+nekilnojamojo turto nusavinimo iki sprendimo dėl nuosavybės teisių atkūrimo
+
+dienos;
+
+3)
+
+vertybiniais popieriais;
+
+4) perduodama neatlygintinai nuosavybėn lygiavertį
+
+turėtajam naują žemės sklypą individualiai statybai miestuose ir kaimo
+
+vietovėse, kur buvo turėtoji žemė, lygiavertį turėtajam esamos privačios namų
+
+valdos (sodybos) žemės sklypą (nepaisant turėtos žemės vietos). Vyriausybės
+
+nustatyta tvarka piliečio pageidavimu lygiavertis turėtajam naujas žemės
+
+sklypas individualiai statybai gali būti perduotas neatlygintinai nuosavybėn
+
+kituose, negu buvo turėtas žemės sklypas, miestuose bei kaimo vietovėse,
+
+išskyrus Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio, Alytaus, Marijampolės,
+
+Druskininkų, Palangos, Birštono ir Neringos miestus;
+
+5) pinigais -
+
+išpirkdami kaimo vietovėje žemę, mišką, išskyrus 4 straipsnio 7, 10 dalyse ir 6
+
+straipsnio 3, 7 dalyse nurodytus atvejus, taip pat išskyrus atvejį, kai
+
+privačion nuosavybėn iš laisvos žemės fondo yra įsigyta žemė, kurios
+
+susigrąžinti nepageidavo šio įstatymo 2 straipsnyje nurodyti piliečiai.
+
+Atlyginimo pinigais dydis padidinamas 15 procentų, jeigu yra išperkama žemė, į
+
+kurią nuosavybės teisės yra atkurtos arba atkuriamos Lietuvos Respublikos
+
+piliečiams - 1918-1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo
+
+(rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ar Vyčio Kryžiaus
+
+ordinu apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams
+
+(įvaikiams), ir jei ši žemė pagal šio įstatymo 12 straipsnį yra priskirta
+
+valstybės išperkamai žemei ir yra naudojama asmeniniam arba valstiečio ūkiui,
+
+tarnybinėms daloms;
+
+6)
+
+pinigais - išpirkdama žemę, kuri Vyriausybės nustatyta tvarka buvo priskirta
+
+miestų teritorijoms nuo 1991 m. rugpjūčio 1 d. iki 1995 m. birželio 1 d.;
+
+7)
+
+pinigais - Lietuvos Respublikos piliečiams politiniams kaliniams ir
+
+tremtiniams, sugrįžusiems iš tremties po šio įstatymo įsigaliojimo ir
+
+nepageidaujantiems susigrąžinti žemės, miško ir vandens telkinių kaimo
+
+vietovėse natūra;
+
+8) pinigais -
+
+piliečiams, atsisakiusiems jiems perduodamo neatlygintinai nuosavybėn naujo
+
+žemės sklypo individualiai statybai miestuose, kompensuojant Vyriausybės
+
+nustatyto dydžio žemės sklypo tame mieste vidutinės vertės sumą, kurią nustato
+
+Vyriausybė;
+
+9)
+
+perduodama neatlygintinai nuosavybėn lygiavertį turėtajam vandens telkinį - už
+
+išperkamą arba neišlikusį vandens telkinį.
+
+10.
+
+Už valstybės išperkamus gyvenamuosius namus, jų dalis, butus valstybė atlygina
+
+piliečiams šiais būdais:
+
+1)
+
+perduodama neatlygintinai nuosavybėn jų nuomojamus valstybės ar savivaldybės
+
+butų fondo butus, kurių vertės skirtumas padengiamas Vyriausybės nustatyta
+
+tvarka;
+
+2)
+
+perduodama neatlygintinai nuosavybėn lygiaverčius turėtiesiems namams, jų
+
+dalims, butams butus Vyriausybės nustatyta tvarka;
+
+3) perduodama neatlygintinai nuosavybėn lygiavertį
+
+turėtiesiems namams, jų dalims, butams naują žemės sklypą individualiai
+
+statybai toje vietovėje, kurioje jie buvo. Vyriausybės nustatyta tvarka
+
+piliečio pageidavimu lygiavertis naujas žemės sklypas individualiai statybai
+
+gali būti perduotas neatlygintinai nuosavybėn kituose, negu buvo gyvenamieji
+
+namai, jų dalys, butai, miestuose ir kaimo vietovėse, išskyrus Vilniaus, Kauno,
+
+Klaipėdos, Šiaulių, Panevėžio, Alytaus, Marijampolės, Druskininkų, Palangos,
+
+Birštono ir Neringos miestus;
+
+4) perduodama neatlygintinai nuosavybėn lygiaverčius
+
+turėtiesiems namams, jų dalims, butams tuščius nenuomojamus pastatus, statinius
+
+arba jų dalis. Šių pastatų, statinių arba jų dalių perdavimo tvarką nustato
+
+Vyriausybė;
+
+5)
+
+įskaitymu panaikindama piliečio pinigines prievoles valstybei, atsiradusias po
+
+nekilnojamojo turto nusavinimo iki sprendimo dėl nuosavybės teisių atkūrimo
+
+priėmimo dienos, Vyriausybės nustatyta tvarka;
+
+6)
+
+perduodama neatlygintinai nuosavybėn kitą turtą Vyriausybės nustatyta tvarka;
+
+7)
+
+pinigais ir (ar) vertybiniais popieriais.
+
+11.
+
+Už valstybės išperkamus ūkinės-komercinės paskirties pastatus ir jų
+
+priklausinius valstybė atlygina vertybiniais popieriais.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1181, 99.05.13, Žin.,
+
+1999, Nr.48-1522 (99.06.02)
+
+17
+
+straipsnis. Institucijos, nagrinėjančios piliečių prašymus atkurti nuosavybės
+
+teises
+
+1. Piliečių prašymus atkurti nuosavybės teises į
+
+žemę, mišką ir vandens telkinius nagrinėja Vyriausybės įgaliota institucija.
+
+2.
+
+Piliečių prašymus atkurti nuosavybės teises į gyvenamuosius namus, jų dalis,
+
+butus, ūkinės-komercinės paskirties pastatus Vyriausybės nustatyta tvarka
+
+nagrinėja miesto, rajono savivaldybės meras (valdyba) ar kita Vyriausybės
+
+įgaliota institucija.
+
+18
+
+straipsnis. Sprendimų dėl nuosavybės teisių atkūrimo priėmimas
+
+1.
+
+Šio įstatymo 17 straipsnyje nurodytos institucijos turi išnagrinėti piliečių
+
+prašymus ir priimti sprendimus dėl nuosavybės teisių atkūrimo per 6 mėnesius
+
+nuo dokumentų, patvirtinančių nuosavybės teises ir giminystės ryšį, pateikimo
+
+bei kitų šiame įstatyme nurodytų dokumentų parengimo dienos.
+
+2. Apie sprendimo priėmimo laiką raštu turi būti
+
+informuoti šio įstatymo 2 straipsnyje nurodyti piliečiai. Piliečiams neatvykus
+
+į svarstymą, sprendimas gali būti priimtas jiems nedalyvaujant.
+
+3. Institucijos,
+
+nagrinėjančios piliečių prašymus dėl nuosavybės teisių atkūrimo, nesant
+
+galimybės pagal šį įstatymą nuosavybę grąžinti natūra, privalo piliečiams raštu
+
+pasiūlyti kitus šiame įstatyme numatytus atlyginimo būdus.
+
+4. Institucijos
+
+priimtame sprendime grąžinti piliečiui natūra gyvenamąjį namą, jo dalį, butą
+
+turi būti nurodomos šio namo, jo dalies, buto nuomininkams ir savininkams
+
+valstybės suteiktos garantijos ir jų galiojimo trukmė.
+
+5. Sprendime
+
+nurodoma ir valstybės išperkamo nekilnojamojo turto vertė.
+
+6.
+
+Sprendimai piliečiams išduodami ne vėliau kaip per 30 dienų nuo jų priėmimo
+
+dienos.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1181, 99.05.13, Žin.,
+
+1999, Nr.48-1522 (99.06.02)
+
+19
+
+straipsnis. Sprendimų dėl nuosavybės teisių atkūrimo apskundimo tvarka
+
+1.
+
+Šio įstatymo 17 straipsnyje nurodytų institucijų sprendimai dėl nuosavybės
+
+teisių į išlikusį nekilnojamąjį turtą atkūrimo gali būti apskųsti teismui per
+
+30 dienų nuo šių sprendimų įteikimo piliečiams dienos.
+
+2.
+
+Šiose bylose šalys atleidžiamos nuo žyminio mokesčio.
+
+20
+
+straipsnis. Valstybės garantijos gyvenamųjų namų, jų dalių, butų nuomininkams
+
+ir
+
+savininkams.
+
+Nuomininkų ir savininkų teisės ir pareigos
+
+1. Kai piliečiui grąžinamas natūra
+
+gyvenamasis namas, jo dalis, butas, kuriuose gyvena nuomininkai, visas
+
+nuomininkų teises ir pareigas pagal gyvenamųjų patalpų nuomos sutartį
+
+Vyriausybės nustatyta tvarka perima savivaldybė iki to laiko, kol valstybė
+
+įvykdys jiems suteiktas garantijas. Iki šio laiko savininkui draudžiama
+
+nutraukti nuomos sutartį su savivaldybe ir draudžiama nuomininkus iškeldinti,
+
+išskyrus Civiliniame kodekse numatytus atvejus.
+
+2. Savivaldybė, perėmusi nuomininkų
+
+teises ir pareigas, gyvenamąsias patalpas Vyriausybės nustatyta tvarka ir
+
+sąlygomis nuomoja šiose patalpose gyvenantiems nuomininkams ir rūpinasi jų
+
+eksploatacija bei remontu. Šie nuomininkai savivaldybei moka nuompinigius ir
+
+mokestį už komunalines paslaugas pagal savivaldybės nustatytus tarifus, o su
+
+grąžinto namo, jo dalies ar buto savininku pagal patalpų nuomos sutartį
+
+atsiskaito savivaldybė Vyriausybės nustatyta tvarka ir sąlygomis.
+
+3. Institucija, priimanti
+
+sprendimą grąžinti piliečiui natūra gyvenamąjį namą, jo dalį, butą, privalo
+
+juose gyvenantiems nuomininkams išduoti valstybės garantinį dokumentą. Toks
+
+garantinis dokumentas išduodamas ir grąžinamo namo, jo dalies, buto savininkui.
+
+Valstybės garantijas, jų įvykdymą, garantijų turėtojų teises ir pareigas
+
+nustato Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių,
+
+mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių
+
+nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas.
+
+4. Nuomininkai,
+
+gyvenantys piliečiui natūra grąžinamame gyvenamajame name, jo dalyje ar bute,
+
+per 3 mėnesius nuo institucijos, nurodytos šio įstatymo 17 straipsnio 2 dalyje,
+
+pranešimo gavimo dienos privalo raštiškai pareikšti savo valią dėl Kompensacijų
+
+už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų
+
+bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės
+
+teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo numatytos
+
+valstybės garantijos. Nuomininkams, per šį laiką nepareiškusiems savo valios
+
+dėl nurodytame įstatyme numatytos valstybės garantijos, ją savo nuožiūra
+
+nustato šio įstatymo 17 straipsnio 2 dalyje nurodyta institucija.
+
+5. Jeigu gyvenamojo namo savininkas
+
+parduoda sugrąžintą gyvenamąjį namą, jo dalį, butą, nuomininkai turi pirmenybės
+
+teisę jį pirkti Civilinio kodekso 125 straipsnyje nustatyta tvarka ir
+
+sąlygomis.
+
+6. Nuomininkai, likę gyventi
+
+gyvenamuosiuose namuose, jų dalyse, butuose, kurių savininkai nenori
+
+susigrąžinti, įgyja teisę išsipirkti šias patalpas Vyriausybės nustatyta tvarka
+
+per šešis mėnesius nuo sprendimo dėl gyvenamojo namo, jo dalies, buto teisinės
+
+registracijos valstybės ar savivaldybės vardu įregistravimo Nekilnojamojo turto
+
+registre.
+
+7. Šio
+
+straipsnio 1 ir 2 dalių nuostatos galioja ir pasikeitus namo, namo dalies, buto
+
+savininkui.
+
+Straipsnio pakeitimai:
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+98.10.27,
+
+Žin., 1998, Nr.95-2642 (98.10.30)
+
+Nr. VIII-1181, 99.05.13, Žin.,
+
+1999, Nr.48-1522 (99.06.02)
+
+IV SKYRIUS
+
+BAIGIAMOSIOS
+
+NUOSTATOS
+
+21
+
+straipsnis. Specialios šio įstatymo taikymo nuostatos
+
+1.
+
+Piliečių prašymai atkurti nuosavybės teises, pateikti Lietuvos Respublikos
+
+įstatymo “Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
+
+atstatymo tvarkos ir sąlygų” nustatytais terminais ir neišnagrinėti iki
+
+Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
+
+atkūrimo įstatymo įsigaliojimo, nagrinėjami bei sprendimai dėl jų priimami
+
+laikantis šio įstatymo nuostatų.
+
+2. Piliečiai, kurių nuosavybės teisės į išlikusį
+
+nekilnojamąjį turtą atkurtos pagal Lietuvos Respublikos įstatymą “Dėl piliečių
+
+nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų”,
+
+turi teisę per 3 mėnesius nuo Lietuvos Respublikos piliečių nuosavybės teisių į
+
+išlikusį nekilnojamąjį turtą atkūrimo įstatymo įsigaliojimo dienos kreiptis ir
+
+pateikti prašymus Vyriausybės įgaliotai institucijai dėl papildomo sprendimo
+
+priėmimo pagal šį įstatymą.
+
+3. Pilietis per
+
+3 mėnesius nuo Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio,
+
+šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų
+
+Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme,
+
+įstatymo įgyvendinimui Lietuvos Respublikos Vyriausybės priimtų lydimųjų aktų
+
+įsigaliojimo dienos gali pakeisti savo pareikštą valią dėl būdo, kuriuo
+
+valstybė atlygina už išperkamą nekilnojamąjį turtą, jeigu nepriimtas sprendimas
+
+dėl nuosavybės teisių atkūrimo. Jeigu sprendimas priimtas, bet nepradėtas
+
+vykdyti, jis šio įstatymo 17 straipsnyje numatytų institucijų, piliečiui
+
+paprašius, pakeičiamas administracine tvarka, o jei sprendimas pradėtas
+
+vykdyti, jis gali būti panaikinamas teismine tvarka ir pilietis atleidžiamas
+
+nuo žyminio mokesčio.
+
+4. Piliečiams,
+
+kuriems gali būti taikomos šio įstatymo 4 straipsnio 8 dalies nuostatos, per 6
+
+mėnesius nuo šio įstatymo įsigaliojimo dienos turi būti pateikti raštiški
+
+siūlymai dėl jų galimybės gauti didesnį sklypą iš laisvos žemės fondo. Gavę
+
+tokį pasiūlymą, piliečiai per 2 mėnesius nuo pasiūlymo gavimo dienos privalo
+
+raštu pranešti apie savo sutikimą arba nesutikimą su gautu pasiūlymu.
+
+5. Piliečiai,
+
+kurių nuosavybės teisės į žemės ūkio paskirties žemę ir ūkinės-komercinės
+
+paskirties pastatus atkurtos grąžinant juos natūra, turi pirmumo teisę įsigyti
+
+valstybei, savivaldybėms arba žemės ūkio bendrovėms priklausančius pastatus,
+
+statinius, esančius jiems grąžintos žemės ribose arba prie grąžintų
+
+ūkinės-komercinės paskirties pastatų. Šie pastatai, statiniai įsigyjami
+
+įstatymų nustatyta tvarka.
+
+6. Kai
+
+piliečiai, įsigiję asmeninio ūkio ar valstiečio ūkio žemę už valstybės
+
+vienkartines išmokas, ją parduoda, pirmumo teisę ją išpirkti turi valstybė.
+
+7. Kompensacijų, numatytų šiame įstatyme už
+
+valstybės išperkamą nekilnojamąjį turtą, dydį, šaltinius, mokėjimo terminus ir
+
+tvarką, taip pat šio įstatymo 20 straipsnyje numatytų garantijų nuomininkams
+
+įgyvendinimo tvarką ir sąlygas bei lengvatas 1918-1920 m. nepriklausomybės kovų
+
+kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams
+
+kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų
+
+sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams) nustato atskiras
+
+įstatymas.
+
+8.
+
+Piliečiai, kurie pagal šio įstatymo 4 straipsnio 8 dalį paėmė žemės sklypą
+
+kitoje kaimo vietovėje arba kurie pagal šio įstatymo 16 straipsnį vietoj
+
+valstybės išperkamos žemės sklypo kaimo vietovėje gavo lygiavertį sklypą kitoje
+
+vietovėje, įstatymų nustatyta tvarka gali pasinaudoti valstybės teikiamomis
+
+lengvatomis ir parama sodybai perkelti ir ūkiui kurti.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1181, 99.05.13, Žin.,
+
+1999, Nr.48-1522 (99.06.02)
+
+22
+
+straipsnis. Netekę galios teisės aktai
+
+Įsigaliojus
+
+šiam įstatymui, netenka galios:
+
+1)
+
+Lietuvos Respublikos įstatymas “Dėl piliečių nuosavybės teisių į išlikusį
+
+nekilnojamąjį turtą atstatymo tvarkos ir sąlygų” (Žin.1991, Nr.21-545; 1992,
+
+Nr.3-40, Nr.7-155, Nr.11-278, Nr.15-405; 1993, Nr.5-83, Nr.32-725; 1994,
+
+Nr.7-100, Nr.14-229, Nr.43-778; 1995, Nr.39-965, Nr.50-1226, Nr.59-1465,
+
+Nr.85-1916, Nr.103-2299; 1996, Nr.37-929);
+
+2)
+
+Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas “Dėl Lietuvos
+
+Respublikos įstatymo “Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį
+
+turtą atstatymo tvarkos ir sąlygų” įsigaliojimo ir taikymo tvarkos” (Žin.1991,
+
+Nr.21-549);
+
+3)
+
+Lietuvos Respublikos įstatymo “Dėl piliečių nuosavybės teisių į išlikusį
+
+nekilnojamąjį turtą atstatymo tvarkos ir sąlygų” galiojimo sustabdymo
+
+laikinasis įstatymas (Žin., 1997, Nr.6-89).
+
+Skelbiu
+
+šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                       ALGIRDAS BRAZAUSKAS
+
+_______________
+
+PAKEITIMAI:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-1181,
 
 99.05.13, Žin., 1999, Nr.48-1522 (99.06.02)
+
+LIETUVOS
+
+RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
+
+ĮSTATYMO 2, 4, 5, 10, 12, 13, 15, 16, 18, 20, 21 STRAIPSNIŲ PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1521, 00.01.04, Žin., 2000,
+
+Nr.5-128 (00.01.19)
+
+LIETUVOS
+
+RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į
+
+IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1866, 00.07.18, Žin., 2000,
+
+Nr.64-1934 (00.07.31)
+
+PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ
+
+TURTĄ ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1995, 00.10.10, Žin., 2000,
+
+Nr.89-2753 (00.10.25)
+
+PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ
+
+TURTĄ ATKŪRIMO ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-242, 2001 04 10, Žin., 2001, Nr.
+
+35-1163 (2001 04 25)
+
+PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ
+
+ATKŪRIMO ĮSTATYMO 13 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja
+
+nuo 2001 m. liepos 1 d.
+
+*** Pabaiga ***
+
+LIETUVOS
+
+RESPUBLIKOS KONSTITUCINIO TEISMO NUTARIMAI:
+
+1.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+1998
+
+10 27, Žin., 1998, Nr. 95-2642 (1998 10 30)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ
+
+ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO 1, 4, 9 IR 11 DALIŲ, 8 STRAIPSNIO 1 DALIES, 15
+
+STRAIPSNIO 2 PUNKTO IR 20 STRAIPSNIO 1, 2, 3 BEI 4 DALIŲ ATITIKIMO LIETUVOS
+
+RESPUBLIKOS KONSTITUCIJAI
+
+2.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2001 04 02, Žin., 2001, Nr. 29-938 (2001 04 04)
+
+DĖL LIETUVOS RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į
+
+IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 5 STRAIPSNIO 2, 3, 4 IR 5 DALIŲ,
+
+12 STRAIPSNIO 3 PUNKTO, 16 STRAIPSNIO 3 DALIES IR ŠIO STRAIPSNIO 9 DALIES 5
+
+PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR DĖL ŠIO ĮSTATYMO 5
+
+STRAIPSNIO 2, 3, 4 BEI 5 DALIŲ IR 12 STRAIPSNIO 3 PUNKTO ATITIKTIES LIETUVOS
+
+RESPUBLIKOS KONSTITUCIJOS 47 STRAIPSNIO ANTROJOJE DALYJE NUMATYTO ŽEMĖS SKLYPŲ
+
+ĮSIGIJIMO NUOSAVYBĖN SUBJEKTŲ, TVARKOS, SĄLYGŲ IR APRIBOJIMŲ KONSTITUCINIO
+
+ĮSTATYMO 8 STRAIPSNIUI
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2001 04 25)
+
+autrap@lrs.lt
 
 14 straipsnis. Valstybės
 
