@@ -4,7 +4,7 @@ identifier: "TAR.00FD7CCA5785"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-02"
-last_updated: "2000-05-24"
+last_updated: "2000-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.00FD7CCA5785"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Ignalinos atominės elektrinės eksploatavimo nutraukimo įstatymas
+
+Suvestinė redakcija nuo 2000-06-30 iki 2005-06-06
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 42-1189, i. k. 1001010ISTAIII-1661
 
 LIETUVOS RESPUBLIKOS
 
@@ -28,7 +32,11 @@ Vilnius
 
 PREAMBULĖ
 
-Ignalinos atominė elektrinė buvo statyta didelės dalies Rytų Europos šalių energetikos problemoms spręsti, todėl šios elektrinės uždarymas yra ne tik Lietuvos, bet ir tarptautinė problema. Įstatymas priimamas remiantis Nacionaline energetikos strategija.
+Ignalinos atominės elektrinės uždarymas yra ne tik Lietuvos, bet ir tarptautinė problema. Įstatymas priimamas remiantis Nacionaline energetikos strategija.
+
+Skirsnio pakeitimai:
+
+Nr. VIII-1747, 2000-06-22, Žin., 2000, Nr. 53-1523 (2000-06-30), i. k. 1001010ISTAIII-1747
 
 PIRMASIS SKIRSNIS
 
@@ -110,11 +118,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
-11 straipsnis. Įstatymo sąvokos
+Pakeitimai:
 
-Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme ir Lietuvos Respublikos strateginio valdymo įstatyme.
+1.
 
-Papildyta straipsniu:
+Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XIII-3112, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15322
+Nr. VIII-1747, 2000-06-22, Žin., 2000, Nr. 53-1523 (2000-06-30), i. k. 1001010ISTAIII-1747
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo įstatymo preambulės pakeitimo įstatymas
 
