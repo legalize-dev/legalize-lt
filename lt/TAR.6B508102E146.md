@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "2001-01-25"
+last_updated: "2001-01-26"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -38,13 +38,13 @@ A K C I Z Ų
 
 Vilnius
 
-Nauja įstatymo redakcija nuo
+Nauja įstatymo redakcija
 
-1998 m. sausio 1 d.:
+nuo 1998 m. sausio 1 d.:
 
-Nr. VIII-556,
+Nr. VIII-556, 97.12.09, Žin., 1997,
 
-97.12.09, Žin., 1997, Nr.117-2996 (97.12.24)
+Nr.117-2996 (97.12.24)
 
 1 straipsnis. Įstatymo paskirtis
 
@@ -68,6 +68,36 @@ zonų įmonės akcizų nemoka.
 
 apskaičiuoja, surenka ir moka akcinė bendrovė “Mažeikių nafta”.
 
+[1
+
+ir 2 dalių redakcija nuo 2001 m. kovo 1d.:
+
+1. Akcizus į biudžetą moka šio įstatymo 3 straipsnyje
+
+išvardytų prekių, išskyrus nurodytas 3 straipsnio 1 dalies 12 punkte,
+
+gamintojai ir importuotojai – juridiniai ir fiziniai asmenys bei juridinio
+
+asmens teisių neturinčios įmonės. Už 3 straipsnio 1 dalies 12 punkte nurodytas
+
+prekes akcizą Lietuvos Respublikos Vyriausybės nustatyta tvarka į biudžetą moka
+
+įmonės, turinčios licenciją verstis mažmenine prekyba suskystintomis dujomis,
+
+skirtomis automobilių transportui, taip pat kitos įmonės – už savo reikmėms
+
+panaudotas suskystintas dujas, skirtas automobilių transportui, jei už jas
+
+akcizas nesumokėtas. Laisvųjų ekonominių zonų įmonės akcizų nemoka.
+
+2. Už naftos produktus, pagamintus akcinėje bendrovėje
+
+„Mažeikių nafta“, išskyrus 3 straipsnio 1 dalies 12 punkte nurodytus naftos
+
+produktus, nesvarbu, iš kieno naftos šie produktai pagaminti, akcizus
+
+apskaičiuoja, surenka ir moka akcinė bendrovė „Mažeikių nafta“.]
+
 3. Šio įstatymo 5 straipsnio 2 dalyje nurodytu atveju
 
 akcizą į biudžetą moka ir kiti, nei šio straipsnio 1 ir 2 dalyse nurodyti,
@@ -78,9 +108,13 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1553, 00.02.17, Žin., 2000,
+Nr. VIII-1553,
 
-Nr.22-554 (00.03.15)
+00.02.17, Žin., 2000, Nr.22-554 (00.03.15)
+
+Nr. IX-170, 2001 01 26, Žin., 2001, Nr.
+
+14-425 (2001 02 14), įsigalioja nuo 2001 03 01
 
 3 straipsnis. Akcizų objektas
 
@@ -132,6 +166,14 @@ alkoholio koncentracija viršija Vyriausybės nustatytus minimalius etilo
 
 alkoholio koncentracijos dydžius.
 
+[1
+
+dalis papildoma 12 punktu nuo 2001 m. kovo 1d.:
+
+12) suskystintos dujos, skirtos automobilių
+
+transportui.]
+
 2. Importuojamos prekės, kaip akcizų objektas, yra šio
 
 straipsnio 1 dalyje nurodytos ne Lietuvos prekės, dėl kurių pagal Lietuvos
@@ -144,21 +186,25 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-901, 98.10.20, Žin., 1998,
+Nr. VIII-901,
 
-Nr.96-2657 (98.11.04)
+98.10.20, Žin., 1998, Nr.96-2657 (98.11.04)
 
-Nr. VIII-982, 98.12.21, Žin., 1998,
+Nr. VIII-982,
 
-Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
+98.12.21, Žin., 1998, Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 
-Nr. VIII-1494, 99.12.23, Žin., 1999,
+Nr. VIII-1494,
 
-Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
+99.12.23, Žin., 1999, Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
 
-Nr. VIII-1876, 00.07.18, Žin., 2000,
+Nr. VIII-1876,
 
-Nr.64-1941 (00.07.31)
+00.07.18, Žin., 2000, Nr.64-1941 (00.07.31)
+
+Nr. IX-170, 2001 01 26, Žin., 2001, Nr.
+
+14-425 (2001 02 14), įsigalioja nuo 2001 03 01
 
 4 straipsnis. Apmokestinamoji vertė
 
@@ -168,9 +214,9 @@ Apmokestinamąją vertę sudaro:
 
 pardavimo kaina be akcizo ir pridėtinės vertės mokesčio;
 
-2) importuojamų prekių - prekių muitinės vertės ir muito
+2) importuojamų prekių - prekių muitinės vertės ir
 
-suma. Importuojamų prekių muitinė vertė apskaičiuojama Muitinės kodekso
+muito suma. Importuojamų prekių muitinė vertė apskaičiuojama Muitinės kodekso
 
 nustatyta tvarka.
 
@@ -194,17 +240,43 @@ pagrindų įstatymo 10 straipsnyje nurodyti privalomi rekvizitai;
 
 atvejais, kai atsiranda skola muitinei.
 
+[1
+
+dalies 2 ir 3 punktų redakcija nuo 2001 m. kovo 1d.:
+
+2) įmonės, turinčios
+
+licenciją verstis mažmenine prekyba suskystintomis dujomis, skirtomis
+
+automobilių transportui, – už 3 straipsnio 1 dalies 12 punkte nurodytas prekes,
+
+panaudotas savo reikmėms arba perduotas kitam juridiniam ar fiziniam asmeniui
+
+arba įmonei, neturinčiai juridinio asmens teisių, kuriems pagal išrašytus
+
+prekių perdavimo dokumentus (šiuose dokumentuose turi būti Buhalterinės
+
+apskaitos pagrindų įstatymo 10 straipsnyje nurodyti privalomi rekvizitai) perleidžiama
+
+teisė tomis prekėmis disponuoti, kitos įmonės – už savo reikmėms panaudotas 3
+
+straipsnio 1 dalies 12 punkte nurodytas prekes, už kurias akcizas nesumokėtas;
+
+3) importuojamas – Muitinės kodekso nustatytais
+
+atvejais, kai atsiranda skola muitinei, išskyrus 3 straipsnio 1 dalies 12
+
+punkte nurodytas prekes.]
+
 2. Šio įstatymo 6 straipsnio 1 dalies 9 ir 11 punktuose
 
 nurodytos įmonės Lietuvos Respublikos Vyriausybės nustatyta tvarka privalo
 
-apskaičiuoti ir sumokėti šio įstatymo 5(1) straipsnyje nustatyto
+apskaičiuoti ir sumokėti šio įstatymo 5(1) straipsnyje nustatyto dydžio
 
-dydžio akcizą už perduotą (parduotą ar kitaip perleistą nuosavybėn) arba
+akcizą už perduotą (parduotą ar kitaip perleistą nuosavybėn) arba panaudotą be
 
-panaudotą be akcizo įsigytą ar importuotą orlaivių variklių ar laivų kurą,
-
-išskyrus, kai:
+akcizo įsigytą ar importuotą orlaivių variklių ar laivų kurą, išskyrus, kai:
 
 1) orlaivių variklių kuras perduotas ar panaudotas
 
@@ -214,9 +286,9 @@ krovinius tarptautiniais ar vietiniais maršrutais arba teikiančius kitokias
 
 paslaugas už atlyginimą, orlaivius, dalyvaujančius tarptautinėse karinėse
 
-pratybose, ar orlaivius, naudojamus valstybės ar savivaldos institucijų
+pratybose, ar orlaivius, naudojamus valstybės ar savivaldos institucijų funkcijoms
 
-funkcijoms vykdyti;
+vykdyti;
 
 2) laivų kuras perduotas ar panaudotas pripildyti
 
@@ -240,9 +312,13 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1553, 00.02.17, Žin., 2000,
+Nr. VIII-1553,
 
-Nr.22-554 (00.03.15)
+00.02.17, Žin., 2000, Nr.22-554 (00.03.15)
+
+Nr. IX-170, 2001 01 26, Žin., 2001, Nr.
+
+14-425 (2001 02 14), įsigalioja nuo 2001 03 01
 
 5(1 )straipsnis. Akcizų tarifai
 
@@ -340,11 +416,11 @@ metalų, plakiruotų tauriaisiais metalais, aukso arba sidabro dailiadirbystės
 
 dirbiniams ir jų dalims iš tauriųjų metalų arba metalų, plakiruotų tauriaisiais
 
-metalais, dirbiniams iš natūraliu arba dirbtiniu būdu išaugintų perlų, brangiųjų
+metalais, dirbiniams iš natūraliu arba dirbtiniu būdu išaugintų perlų,
 
-arba pusbrangių akmenų - natūralių, sintetinių arba regeneruotų - 10 procentų
+brangiųjų arba pusbrangių akmenų - natūralių, sintetinių arba regeneruotų - 10
 
-apmokestinamosios vertės;
+procentų apmokestinamosios vertės;
 
 16) ne senesniems kaip 5 metų prabangiems
 
@@ -380,6 +456,14 @@ litrą preparato;
 
 21) mazutui ir orimulsijai - 20 litų už toną.
 
+[1
+
+dalis papildoma 22 punktu nuo 2001 m. kovo 1d.:
+
+22) suskystintoms dujoms, skirtoms automobilių
+
+transportui, – 170 litų už vieną tūkstantį litrų.]
+
 2. (Neteko galios).
 
 3. Kai šio straipsnio 1 dalies 16 punkte nurodyto
@@ -406,21 +490,25 @@ pagal Kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklat�
 
 Įstatymas papildytas straipsniu:
 
-Nr. VIII-982, 98.12.21, Žin., 1998,
+Nr. VIII-982,
 
-Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
+98.12.21, Žin., 1998, Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 
 Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1342, 99.09.30, Žin., 1999,
+Nr. VIII-1342,
 
-Nr.85-2514 (99.10.13)
+99.09.30, Žin., 1999, Nr.85-2514 (99.10.13)
 
-Nr. VIII-1494, 99.12.23, Žin., 1999,
+Nr. VIII-1494,
 
-Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
+99.12.23, Žin., 1999, Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
+
+Nr. IX-170, 2001 01 26, Žin., 2001, Nr.
+
+14-425 (2001 02 14), įsigalioja nuo 2001 03 01
 
 6 straipsnis. Akcizų netaikymo atvejai
 
@@ -500,9 +588,9 @@ pripildymu (bunkeravimu), taip pat nurodyti šio kuro kodai pagal KPN;
 
 skirtas naudoti kaip žaliava biokuro gamybai;
 
-13) rapsų metilo (etilo) esteris (RME) - biokuras, pagamintas
+13) rapsų metilo (etilo) esteris (RME) - biokuras,
 
-iš rapsų aliejaus ir pagal technologiją reikalingų sudedamųjų dalių.
+pagamintas iš rapsų aliejaus ir pagal technologiją reikalingų sudedamųjų dalių.
 
 [6
 
@@ -566,47 +654,47 @@ kaip 30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri
 
 atitinka Vyriausybės nustatytus technologinius bei kokybės reikalavimus,
 
-taikomas mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio
+taikomas mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio koncentracijos
 
-koncentracijos litre gėrimo. Ši lengvata pradedama taikyti Vyriausybei priėmus
+litre gėrimo. Ši lengvata pradedama taikyti Vyriausybei priėmus atitinkamą
 
-atitinkamą nutarimą.
+nutarimą.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. VIII-626, 98.02.17, Žin., 1998,
+Nr. VIII-626,
 
-Nr.25-629 (98.03.13), įsigalioja nuo 1998.07.01
+98.02.17, Žin., 1998, Nr.25-629 (98.03.13), įsigalioja nuo 1998.07.01
 
-Nr. VIII-982, 98.12.21, Žin., 1998,
+Nr. VIII-982,
 
-Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
+98.12.21, Žin., 1998, Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 
-Nr. VIII-1321, 99.07.08, Žin., 1999,
+Nr. VIII-1321,
 
-Nr.66-2132 (99.07.30)
+99.07.08, Žin., 1999, Nr.66-2132 (99.07.30)
 
-Nr. VIII-1494, 99.12.23, Žin., 1999,
+Nr. VIII-1494,
 
-Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
+99.12.23, Žin., 1999, Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
 
-Nr. VIII-1553, 00.02.17, Žin., 2000,
+Nr. VIII-1553,
 
-Nr.22-554 (00.03.15)
+00.02.17, Žin., 2000, Nr.22-554 (00.03.15)
 
-Nr. VIII-1814, 00.07.11, Žin., 2000,
+Nr. VIII-1814,
 
-Nr.61-1820 (00.07.26), įsigalioja nuo 2001.01.01
+00.07.11, Žin., 2000, Nr.61-1820 (00.07.26), įsigalioja nuo 2001.01.01
 
-Nr. VIII-1876, 00.07.18, Žin., 2000,
+Nr. VIII-1876,
 
-Nr.64-1941 (00.07.31)
+00.07.18, Žin., 2000, Nr.64-1941 (00.07.31)
 
-Nr. IX-167, 2001 01 25, Žin., 2001, Nr.
+Nr. IX-167, 2001
 
-16-494 (2001 02 21), įsigalioja nuo 2002 01 01
+01 25, Žin., 2001, Nr. 16-494 (2001 02 21), įsigalioja nuo 2002 01 01
 
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
 
@@ -636,9 +724,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-901, 98.10.20, Žin., 1998,
+Nr. VIII-901,
 
-Nr.96-2657 (98.11.04)
+98.10.20, Žin., 1998, Nr.96-2657 (98.11.04)
 
 8 straipsnis. Mokestinis laikotarpis
 
@@ -750,9 +838,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-982, 98.12.21, Žin., 1998,
+Nr. VIII-982,
 
-Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
+98.12.21, Žin., 1998, Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
@@ -1046,9 +1134,25 @@ AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 m. sausio 1 d.
 
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-170, 2001 01 26, Žin., 2001, Nr.
+
+14-425 (2001 02 14)
+
+AKCIZŲ ĮSTATYMO 2, 3, 5, 5(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2001
+
+m. kovo 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2001 02 23)
+Redagavo: Aušrinė
+
+Trapinskienė (2001 02 23)
 
 autrap@lrs.lt
 
