@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2000-05-09"
+last_updated: "2000-06-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -438,9 +438,9 @@ geologinės sąlygos, taip pat socialinės, ūkinės ekonominės veiklos aktyvum
 
 gyventojų užimtumas, teritorijos naudojimas, aprūpinimas infrastruktūra,
 
-nustatomi teritorijos raidos tikslai ir preliminarūs sprendiniai visais
+nustatomi teritorijos raidos tikslai ir preliminarūs sprendiniai visais išvardytais
 
-išvardytais aspektais;
+aspektais;
 
 2) bendrojo plano parengimas
 
@@ -468,13 +468,13 @@ raidos politika, taip pat aprūpinimo energetiniais ištekliais principai;
 
 galimi nuostoliai, aptariamos jų kompensavimo galimybės. Savivaldybės
 
-teritorijos bendrajame plane nurodomos miestų, miestelių ir kaimų bei kitos teritorijos,
+teritorijos bendrajame plane nurodomos miestų, miestelių ir kaimų bei kitos
 
-kurių bendruosius arba detaliuosius planus būtina pakeisti, papildyti arba
+teritorijos, kurių bendruosius arba detaliuosius planus būtina pakeisti,
 
-parengti naujus, taip pat teritorijos, kurioms netaikoma statybos teisė.
+papildyti arba parengti naujus, taip pat teritorijos, kurioms netaikoma
 
-Tvirtinami bendrojo plano sprendiniai;
+statybos teisė. Tvirtinami bendrojo plano sprendiniai;
 
 3) operatyvusis planavimas.
 
@@ -528,9 +528,9 @@ rengimas, derinimas, tvirtinimas, keitimas ir galiojimas
 
 1. Bendrųjų planų rengimo,
 
-derinimo, keitimo, papildymo, tvirtinimo ir galiojimo tvarką nustato šis įstatymas
+derinimo, keitimo, papildymo, tvirtinimo ir galiojimo tvarką nustato šis
 
-ir Vyriausybės patvirtintos bendrųjų planų taisyklės.
+įstatymas ir Vyriausybės patvirtintos bendrųjų planų taisyklės.
 
 2. Bendrųjų planų prognozė
 
@@ -624,9 +624,9 @@ teritorijos plano, apskrities plano sprendiniai turi būti derinami su Lietuvos
 
 Respublikos lygmens galiojančiais specialiojo planavimo dokumentais, taip pat
 
-jiems turi pritarti raštu valstybės institucijos šio straipsnio pirmojoje
+jiems turi pritarti raštu valstybės institucijos šio straipsnio pirmojoje dalyje
 
-dalyje nurodytose taisyklėse nustatyta tvarka. Jei nėra bendrojo apskrities
+nurodytose taisyklėse nustatyta tvarka. Jei nėra bendrojo apskrities
 
 teritorijos plano, bendrojo savivaldybės teritorijos plano, sprendiniai turi
 
@@ -638,9 +638,9 @@ nėra savivaldybės teritorijos bendrojo plano, apskrities teritorijos bendrojo
 
 plano sprendiniai turi būti derinami su savivaldybės lygmens galiojančiais
 
-specialiojo planavimo dokumentais, taip pat jiems turi pritarti raštu savivaldybės
+specialiojo planavimo dokumentais, taip pat jiems turi pritarti raštu
 
-valdyba (meras).
+savivaldybės valdyba (meras).
 
 8. Seimas, Vyriausybė,
 
@@ -672,9 +672,9 @@ planą, netenka galios visi anksčiau atitinkamo lygmens priimti sprendimai,
 
 nustatantys teritorijos naudojimo prioritetus, raidos tikslus ir strategiją,
 
-taip pat detaliųjų planų ir specialiojo planavimo dokumentų sprendiniai, prieštaraujantys
+taip pat detaliųjų planų ir specialiojo planavimo dokumentų sprendiniai,
 
-atitinkamo lygmens bendrojo plano sprendiniams.
+prieštaraujantys atitinkamo lygmens bendrojo plano sprendiniams.
 
 Straipsnio
 
@@ -764,9 +764,9 @@ schemos;
 
 planai;
 
-5) nacionalinių ir
+5) nacionalinių ir regioninių
 
-regioninių parkų planavimo schemos;
+parkų planavimo schemos;
 
 6) saugomų kraštovaizdžio
 
@@ -790,11 +790,11 @@ schemos bei projektai;
 
 aplinką teršiančių objektų sanitarinių apsaugos zonų projektai.
 
-2. Specialiojo planavimo dokumentai
+2. Specialiojo planavimo
 
-turi būti rengiami, jeigu tai yra numatyta įstatymų ir kitų teisės aktų, taip
+dokumentai turi būti rengiami, jeigu tai yra numatyta įstatymų ir kitų teisės
 
-pat prireikus.
+aktų, taip pat prireikus.
 
 3. Specialiojo planavimo
 
@@ -854,13 +854,13 @@ kurios reguliavimo sričiai priskirta planuojamoji veikla, kartu su normų sąva
 
 tvarkytoja - Statybos ir urbanistikos ministerija.
 
-2. Specialiojo planavimo dokumentų
+2. Specialiojo planavimo
 
-sprendiniai turi neprieštarauti galiojantiems bendriesiems planams, turi būti
+dokumentų sprendiniai turi neprieštarauti galiojantiems bendriesiems planams,
 
-suderinti, apsvarstyti viešai ir patvirtinti 23 straipsnyje bei šio straipsnio
+turi būti suderinti, apsvarstyti viešai ir patvirtinti 23 straipsnyje bei šio
 
-pirmojoje dalyje nurodytose taisyklėse nustatyta tvarka.
+straipsnio pirmojoje dalyje nurodytose taisyklėse nustatyta tvarka.
 
 3. Specialiojo planavimo
 
@@ -1014,9 +1014,11 @@ suformavimu ar žemės sklypo ploto padidinimu laisvoje valstybinėje žemėje.
 
 4. Detaliuosius planus,
 
-pagal kuriuos žemė ir kitas nekilnojamasis turtas paimamas visuomenės poreikiams,
+pagal kuriuos žemė ir kitas nekilnojamasis turtas paimamas visuomenės
 
-rengia valstybės institucijos, apskričių viršininkai arba savivaldybės.
+poreikiams, rengia valstybės institucijos, apskričių viršininkai arba
+
+savivaldybės.
 
 Straipsnio
 
@@ -1098,6 +1100,22 @@ sprendinių nagrinėjimas, prireikus tyrimai, higienos būklės ir gyventojų
 
 demografinių bei sergamumo rodiklių vertinimas;
 
+[1 dalies 1 punkto redakcija nuo 2001 m.
+
+sausio 1 d.:
+
+1) planuojamos
+
+teritorijos esamos būklės, išteklių ir jų kokybės įvertinimas, esamos būklės
+
+plano parengimas (nekilnojamojo turto kadastro žemėlapis, esamų statinių,
+
+želdynų, gamtos ir kultūros paveldo vertybių, inžinerinių tinklų planai),
+
+bendrojo plano sprendinių nagrinėjimas, prireikus tyrimai, higienos būklės ir
+
+gyventojų demografinių bei sergamumo rodiklių vertinimas;]
+
 2) planuojamos teritorijos
 
 plėtros programos (numatomos veiklos pobūdis ir jos ekonominis pagrindas;
@@ -1144,6 +1162,12 @@ rengimas, derinimas ir tvirtinimas turi būti supaprastinti 20 straipsnio
 
 pirmojoje dalyje minimose taisyklėse nustatyta tvarka.
 
+Straipsnio pakeitimai:
+
+Nr. VIII-1768, 00.06.27, Žin., 2000,
+
+Nr.58-1708 (00.07.19), įsigalioja nuo 2001.01.01
+
 20 straipsnis. Detaliųjų
 
 planų rengimas, derinimas, tvirtinimas ir galiojimas
@@ -1158,13 +1182,13 @@ derinimo, tvirtinimo tvarką nustato Statybos ir urbanistikos ministerijos
 
 patvirtintos detaliųjų planų taisyklės.
 
-2. Valstybės sienos,
+2. Valstybės
 
-krašto apsaugos ir strateginės reikšmės objektų (pagal Lietuvos Respublikos
+sienos, krašto apsaugos ir strateginės reikšmės objektų (pagal Lietuvos
 
-Vyriausybės patvirtintą sąrašą) detalieji planai rengiami, derinami ir
+Respublikos Vyriausybės patvirtintą sąrašą) detalieji planai rengiami, derinami
 
-tvirtinami Vyriausybės nustatyta tvarka. Miško valdos miškotvarkos projektų
+ir tvirtinami Vyriausybės nustatyta tvarka. Miško valdos miškotvarkos projektų
 
 rengimo, tvirtinimo ir galiojimo tvarką reguliuoja Lietuvos Respublikos miškų
 
@@ -1178,13 +1202,13 @@ keisti savivaldybės teritorijos bendrojo plano sprendinius, rengimui turi
 
 pritarti savivaldybės taryba. Kiti detaliojo planavimo organizatoriai (žemės
 
-naudotojai ir savininkai), prieš pradėdami rengti detalųjį planą, kreipiasi į
+naudotojai ir savininkai), prieš pradėdami rengti detalųjį planą, kreipiasi į savivaldybės
 
-savivaldybės administracijos valstybės tarnautoją - vyriausiąjį architektą
+administracijos valstybės tarnautoją - vyriausiąjį architektą (toliau šiame
 
-(toliau šiame įstatyme - savivaldybės vyriausiasis architektas) dėl planavimo
+įstatyme - savivaldybės vyriausiasis architektas) dėl planavimo sąlygų ir
 
-sąlygų ir procedūros.
+procedūros.
 
 4. Detalusis planas
 
@@ -1306,6 +1330,22 @@ dienos priima sprendimą dėl valstybinio žemės kadastro duomenų pakeitimo,
 
 papildymo, pripažinimo netekusiais galios.
 
+[12 dalies redakcija nuo 2001 m. sausio
+
+1 d.:
+
+12.
+
+Vadovaudamasis įsigaliojusiu detaliuoju planu ar jo pagrindu parengtu
+
+žemėtvarkos projektu, apskrities viršininkas ne vėliau kaip per vieną mėnesį
+
+nuo jų patvirtinimo dienos pateikia Nekilnojamojo turto kadastro tvarkytojui
+
+dokumentus ir duomenis žemės sklypų duomenims nekilnojamojo turto kadastre
+
+pakeisti, papildyti, pripažinti netekusiais galios.]
+
 Straipsnio
 
 pakeitimai:
@@ -1319,6 +1359,10 @@ VIII-323,
 Nr. VIII-1669, 00.05.09, Žin., 2000,
 
 Nr.42-1195 (00.05.24)
+
+Nr. VIII-1768, 00.06.27, Žin., 2000,
+
+Nr.58-1708 (00.07.19), įsigalioja nuo 2001.01.01
 
 IV SKYRIUS.
 
@@ -1350,6 +1394,22 @@ galiojančių detaliųjų, bendrųjų ir specialiųjų teritorijų planavimo dok
 
 taip pat fizinių ir juridinių asmenų.
 
+[2 dalies redakcija nuo 2001 m. sausio 1
+
+d.:
+
+2. Informacija,
+
+reikalinga teritorijų planavimo dokumentams rengti ir duomenų bankui formuoti,
+
+gaunama iš įvairios paskirties ir priklausomybės duomenų bankų, valstybinių
+
+programų, valstybės institucijų statistinių duomenų bazių, Nekilnojamojo turto
+
+kadastro ir registro tvarkytojo, galiojančių detaliųjų, bendrųjų ir specialiųjų
+
+teritorijų planavimo dokumentų, taip pat fizinių ir juridinių asmenų.]
+
 3. Teritorijų planavimo
 
 duomenų banką sudaro valstybinis, apskrities ir savivaldybės teritorijų
@@ -1380,13 +1440,13 @@ institucijos, jų įgaliotiems asmenims ir valstybinio teritorijų planavimo
 
 duomenų banko tvarkytojui jų prašymu valstybės valdymo institucijos,
 
-valstybinių registrų, kadastrų, klasifikatorių, specializuotų duomenų bankų tvarkytojai,
+valstybinių registrų, kadastrų, klasifikatorių, specializuotų duomenų bankų
 
-taip pat valstybinių programų, bendrojo, detaliojo ir specialiojo planavimo
+tvarkytojai, taip pat valstybinių programų, bendrojo, detaliojo ir specialiojo
 
-organizatoriai, jei jie yra valstybės ar savivaldos institucijos, privalo
+planavimo organizatoriai, jei jie yra valstybės ar savivaldos institucijos,
 
-teikti nemokamai. Kiti fiziniai ir juridiniai asmenys informaciją apie
+privalo teikti nemokamai. Kiti fiziniai ir juridiniai asmenys informaciją apie
 
 planuojamą objektą arba atliktų tyrimų duomenis teikia ir gauna už atlyginimą,
 
@@ -1400,7 +1460,9 @@ valstybinių programų, bendrojo, detaliojo ir specialiojo planavimo
 
 organizatoriai, jei jie yra valstybės ar savivaldos institucijos, privatiems
 
-juridiniams ir fiziniams asmenims jų prašymu teikia už nustatytą žyminį mokestį.
+juridiniams ir fiziniams asmenims jų prašymu teikia už nustatytą žyminį
+
+mokestį.
 
 Straipsnio
 
@@ -1412,6 +1474,10 @@ VIII-323,
 
 97.06.26, Žin., 1997, Nr.65-1548 (97.07.09)
 
+Nr. VIII-1768, 00.06.27, Žin., 2000,
+
+Nr.58-1708 (00.07.19), įsigalioja nuo 2001.01.01
+
 22 straipsnis. Teritorijų
 
 planavimo normų sąvadas
@@ -1422,15 +1488,13 @@ normų sąvadas - Vyriausybės, ministerijų, departamentų ir Vyriausybės įst
 
 bei kitų valstybės valdymo institucijų priimtų teisinių aktų, taisyklių,
 
-metodikų, rekomendacijų, techninių normų bei reikalavimų, nustatančių
+metodikų, rekomendacijų, techninių normų bei reikalavimų, nustatančių pagrindinius
 
-pagrindinius funkcinius ir specialius aplinkos ir nekilnojamųjų kultūros
+funkcinius ir specialius aplinkos ir nekilnojamųjų kultūros vertybių apsaugos,
 
-vertybių apsaugos, techninius, architektūros, urbanistikos ir kitus
+techninius, architektūros, urbanistikos ir kitus reikalavimus visiems
 
-reikalavimus visiems teritorijų planavimo ir projektavimo sprendiniams,
-
-sistema.
+teritorijų planavimo ir projektavimo sprendiniams, sistema.
 
 2. Normų sąvadą tvarko,
 
@@ -1468,11 +1532,11 @@ planavimo priežiūros institucijos.
 
 sprendinių derinimo procedūrą atlieka rengiamo dokumento planavimo
 
-organizatorius kartu su jo rengėju, atstovaujantys vienai šaliai, ir patvirtinto
+organizatorius kartu su jo rengėju, atstovaujantys vienai šaliai, ir
 
-teritorijų planavimo dokumento planavimo organizatoriaus įgaliotas atstovas,
+patvirtinto teritorijų planavimo dokumento planavimo organizatoriaus įgaliotas
 
-atstovaujantis kitai šaliai.
+atstovas, atstovaujantis kitai šaliai.
 
 3. Teritorijų planavimo
 
@@ -1546,11 +1610,11 @@ buvo pateiktas plano ar dokumento projektas, 30 straipsnio pirmojoje dalyje
 
 nurodytų nuostatų nustatyta tvarka.
 
-9. Specialiojo planavimo dokumentus
+9. Specialiojo planavimo
 
-šio straipsnio nustatyta tvarka gali pateikti derinti planavimo organizatorius
+dokumentus šio straipsnio nustatyta tvarka gali pateikti derinti planavimo
 
-arba jo įgaliotas atstovas.
+organizatorius arba jo įgaliotas atstovas.
 
 Straipsnio
 
@@ -1592,11 +1656,29 @@ patvirtinimo. Teritorijų planavimo dokumentų registro tvarkytojai apie
 
 tvarkytojui.
 
-4. Valstybinį teritorijų planavimo
+[3 dalies redakcija nuo 2001 m. sausio 1
 
-dokumentų registrą tvarko Statybos ir urbanistikos ministerija, apskrities -
+d.:
 
-jos viršininkas, savivaldybės - savivaldybės vyriausiasis architektas.
+3. Visi
+
+patvirtinti teritorijų planavimo dokumentai privalomai pateikiami registruoti
+
+teritorijų planavimo dokumentų registro tvarkytojams ne vėliau kaip per 15
+
+dienų nuo patvirtinimo. Teritorijų planavimo dokumentų registro tvarkytojai
+
+apie įregistruotą planavimo dokumentą per 15 dienų praneša Nekilnojamojo turto
+
+kadastro tvarkytojui.]
+
+4. Valstybinį teritorijų
+
+planavimo dokumentų registrą tvarko Statybos ir urbanistikos ministerija,
+
+apskrities - jos viršininkas, savivaldybės - savivaldybės vyriausiasis
+
+architektas.
 
 5. Visi Lietuvos Respublikos
 
@@ -1615,6 +1697,10 @@ Nr.
 VIII-323,
 
 97.06.26, Žin., 1997, Nr.65-1548 (97.07.09)
+
+Nr. VIII-1768, 00.06.27, Žin., 2000,
+
+Nr.58-1708 (00.07.19), įsigalioja nuo 2001.01.01
 
 III DALIS.
 
@@ -1710,9 +1796,9 @@ turtas pagal bendrojo, detaliojo plano arba specialiojo planavimo dokumento
 
 sprendinius rezervuojamas svarbiems valstybės, apskrities ar savivaldybės
 
-objektams ir infrastruktūrai plėtoti, numatomas paimti visuomenės poreikiams
+objektams ir infrastruktūrai plėtoti, numatomas paimti visuomenės poreikiams arba
 
-arba numatoma pakeisti jo būklę, naudojimo pobūdį ar paskirtį.
+numatoma pakeisti jo būklę, naudojimo pobūdį ar paskirtį.
 
 27 straipsnis. Planavimo
 
@@ -1738,9 +1824,7 @@ terminai nustatyti šio įstatymo 25 straipsnio trečiojoje dalyje nurodytuose
 
 nuostatuose. Po viešo susirinkimo pasiūlymai ir pretenzijos nepriimami.
 
-28 straipsnis. Viešas
-
-susirinkimas
+28 straipsnis. Viešas susirinkimas
 
 1. Viešam susirinkimui
 
@@ -1766,9 +1850,9 @@ institucijoms per vieną mėnesį nuo viešo susirinkimo dienos. Valstybinės
 
 planavimo priežiūros institucijos pateikia motyvuotą sprendimą per 3 savaites
 
-nuo skundo gavimo dienos. Priežiūros institucijos sprendimas gali būti
+nuo skundo gavimo dienos. Priežiūros institucijos sprendimas gali būti apskųstas
 
-apskųstas teismui.
+teismui.
 
 4. Pasibaigus teritorijų
 
@@ -1810,17 +1894,17 @@ VALSTYBINĖ TERITORIJŲ PLANAVIMO PRIEŽIŪRA
 
 teritorijų planavimo priežiūra ir jos institucijos
 
-1. Valstybinė teritorijų planavimo
+1. Valstybinė teritorijų
 
-priežiūra -tai bendrųjų, detaliųjų ir specialiųjų teritorijų planavimo
+planavimo priežiūra -tai bendrųjų, detaliųjų ir specialiųjų teritorijų
 
-dokumentų rengimo, derinimo ir viešo svarstymo procedūrų kontrolė, taip pat šių
+planavimo dokumentų rengimo, derinimo ir viešo svarstymo procedūrų kontrolė,
 
-sprendinių tikrinimas pagal teritorijų planavimo normų sąvado reikalavimus.
+taip pat šių sprendinių tikrinimas pagal teritorijų planavimo normų sąvado
 
-Priežiūros bendrąją tvarką nustato Vyriausybės patvirtinti teritorijų planavimo
+reikalavimus. Priežiūros bendrąją tvarką nustato Vyriausybės patvirtinti
 
-priežiūros nuostatai.
+teritorijų planavimo priežiūros nuostatai.
 
 2. Valstybinę teritorijų
 
@@ -1920,9 +2004,9 @@ Nr. VIII-1612, 00.04.11, Žin., 2000,
 
 Nr.34-953 (00.04.26)
 
-32 straipsnis.
+32 straipsnis. Teritorijų
 
-Teritorijų planavimo ir priežiūros specialistai
+planavimo ir priežiūros specialistai
 
 1. Rengti
 
@@ -1962,17 +2046,17 @@ apsaugos įstatymo nustatyta tvarka.
 
 4. Savivaldybių
 
-vyriausiaisiais architektais, apskrities viršininko administracijos, valstybinių
+vyriausiaisiais architektais, apskrities viršininko administracijos,
 
-inspekcijų pareigūnais, atsakingais už teritorijų planavimo priežiūrą ir
+valstybinių inspekcijų pareigūnais, atsakingais už teritorijų planavimo
 
-kontrolę, turi teisę būti specialistai, turintys aukštąjį išsilavinimą ir trejų
+priežiūrą ir kontrolę, turi teisę būti specialistai, turintys aukštąjį
 
-metų darbo stažą teritorijų planavimo srityje, išklausę specialius kursus pagal
+išsilavinimą ir trejų metų darbo stažą teritorijų planavimo srityje, išklausę
 
-Statybos ir urbanistikos ministerijos patvirtintą programą ir išlaikę
+specialius kursus pagal Statybos ir urbanistikos ministerijos patvirtintą
 
-kvalifikacinį bendrojo teritorijų planavimo egzaminą.
+programą ir išlaikę kvalifikacinį bendrojo teritorijų planavimo egzaminą.
 
 5. Statybos ir urbanistikos
 
@@ -2012,19 +2096,19 @@ ATLYGINIMAS IR ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMĄ
 
 atlyginimas
 
-Jeigu įsigaliojus teritorijos
+Jeigu įsigaliojus
 
-detaliajam arba bendrajam planui neįmanoma ankstesniu būdu ir pagal buvusią
+teritorijos detaliajam arba bendrajam planui neįmanoma ankstesniu būdu ir pagal
 
-paskirtį naudotis nekilnojamuoju turtu ar jo dalimi arba šis naudojimasis iš
+buvusią paskirtį naudotis nekilnojamuoju turtu ar jo dalimi arba šis
 
-esmės apribotas, nekilnojamojo turto savininkas ar valstybinio turto naudotojas
+naudojimasis iš esmės apribotas, nekilnojamojo turto savininkas ar valstybinio
 
-gali reikalauti iš planavimo organizatoriaus atlyginti padarytą žalą arba
+turto naudotojas gali reikalauti iš planavimo organizatoriaus atlyginti
 
-suteikti kitą lygiavertį nekilnojamąjį turtą. Ginčus dėl žalos atlyginimo
+padarytą žalą arba suteikti kitą lygiavertį nekilnojamąjį turtą. Ginčus dėl
 
-sprendžia teismas.
+žalos atlyginimo sprendžia teismas.
 
 34 straipsnis. Atsakomybė už
 
@@ -2044,7 +2128,7 @@ RESPUBLIKOS PREZIDENTAS
 
 ALGIRDAS BRAZAUSKAS
 
-_____________
+________________
 
 Pakeitimai:
 
@@ -2100,15 +2184,27 @@ Nr. VIII-1669, 00.05.09, Žin., 2000,
 
 Nr.42-1195 (00.05.24)
 
-TERITORIJŲ PLANAVIMO ĮSTATYMO 2, 17, 20 STRAIPSNIŲ PAKEITIMO
+TERITORIJŲ PLANAVIMO ĮSTATYMO 2, 17, 20 STRAIPSNIŲ
 
-IR PAPILDYMO ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-***
+5.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas, Įstatymas
 
-Redagavo:
+Nr. VIII-1768, 00.06.27, Žin., 2000,
 
-Aušrinė Trapinskienė (2000.05.25)
+Nr.58-1708 (00.07.19)
+
+TERITORIJŲ PLANAVIMO ĮSTATYMO 19, 20, 21 IR 24
+
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2000.08.03)
 
