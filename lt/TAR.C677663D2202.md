@@ -4,7 +4,7 @@ identifier: "TAR.C677663D2202"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2003-04-22"
+last_updated: "2003-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 department: "Lietuvos Respublikos Seimas"
@@ -3057,9 +3057,21 @@ asmuo.
 
 Pažymų apie apskaičiuotas ir išmokėtas išmokas formas, jų pildymo ir pateikimo
 
-tvarką nustato centrinis mokesčio administratorius, suderinęs su Finansų
+tvarką, sumos dydį, iki kurio neprivalu pateikti mokesčio administratoriui
 
-ministerija.
+pažymas apie gyventojams išmokėtas išmokas, nustato centrinis mokesčio
+
+administratorius, suderinęs su Finansų ministerija.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1660,
+
+2003-07-01, Žin., 2003, Nr. 73-3340 (2003-07-23)
 
 34
 
@@ -3119,11 +3131,11 @@ Nuolatinis Lietuvos gyventojas, pasinaudojęs teise iš pajamų atimti išlaidas
 
 nurodytas šio Įstatymo 21 straipsnyje, privalo saugoti sumokėjimą
 
-patvirtinančių dokumentų originalus arba jų nuorašus, patvirtintus notarine tvarka,
+patvirtinančių dokumentų originalus arba jų nuorašus, patvirtintus notarine
 
-ne trumpiau kaip 10 metų po atitinkamo mokestinio laikotarpio metinės pajamų
+tvarka, ne trumpiau kaip 10 metų po atitinkamo mokestinio laikotarpio metinės
 
-mokesčio deklaracijos pateikimo.
+pajamų mokesčio deklaracijos pateikimo.
 
 2.
 
@@ -3397,7 +3409,7 @@ straipsnis. Įstatymo taikymas ir pasiūlymai Vyriausybei
 
 straipsnio 14 dalies 7 punkto nuostatos dėl akcijų kainų skirtumo, apmokėto
 
-pinigais, taikomos nuo 2004 m. sausio 1 d.
+pinigais, ir 15 straipsnio nuostatos taikomos nuo 2004 m. sausio 1 d.
 
 3.
 
@@ -3457,11 +3469,11 @@ papildymo“ (Žin., 1996, Nr. 1-3) 2 straipsnis;
 
 5)
 
-Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos
+Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos
 
-Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo įsigaliojimo“
+fizinių asmenų pajamų mokesčio laikinojo įstatymo įsigaliojimo“ (Žin., 1990,
 
-(Žin., 1990, Nr. 31-743);
+Nr. 31-743);
 
 6)
 
@@ -3541,9 +3553,19 @@ pakeitimo ir papildymo“ taikymo“ (Žin., 1993, Nr. 31-717);
 
 Lietuvos Respublikos Seimo nutarimas „Dėl Lietuvos Respublikos įstatymo „Dėl
 
-Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo pakeitimo“
+Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo
 
-įgyvendinimo tvarkos“ (Žin., 1993, Nr.59-1145).
+pakeitimo“ įgyvendinimo tvarkos“ (Žin., 1993, Nr.59-1145).
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1660,
+
+2003-07-01, Žin., 2003, Nr. 73-3340 (2003-07-23)
 
 Skelbiu
 
@@ -3627,13 +3649,29 @@ GYVENTOJŲ
 
 PAJAMŲ MOKESČIO ĮSTATYMO 17 IR 27 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1660,
+
+2003-07-01, Žin., 2003, Nr. 73-3340 (2003-07-23)
+
+GYVENTOJŲ
+
+PAJAMŲ MOKESČIO ĮSTATYMO 33 IR 39 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-05-06)
+Angonita Rupšytė (2003-07-29)
 
-autrap@lrs.lt
+anrups@lrs.lt
 
