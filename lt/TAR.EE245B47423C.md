@@ -4,7 +4,7 @@ identifier: "TAR.EE245B47423C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-25"
-last_updated: "1997-07-11"
+last_updated: "2000-07-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Šio įstatymo 3, 5, 10 straipsniai, 13 straipsnio
 ---
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 1997-07-11 iki 2000-07-25
+Suvestinė redakcija nuo 2000-07-26 iki 2000-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
 
@@ -209,7 +209,11 @@ UŽKREČIAMŲJŲ LIGŲ NUSTATYMAS, LIGONIŲ, ASMENŲ, ĮTARIAMŲ SERGANČIŲ, TU
 
 8. Iš kontaktą turėjusių asmenų būtinai tirtinus dėl užkrečiamųjų ligų nustato asmens ir visuomenės sveikatos priežiūros įstaigų specialistai, atliekantys šių ligų epidemiologinę priežiūrą.
 
-9. Asmuo, turėjęs kontaktą su ligoniu ar asmeniu, įtariamu sergančiu ypač pavojinga liga, įrašyta į šio straipsnio 2 dalyje nurodytą sąrašą, arba šios ligos sukėlėjo nešiotoju, privalo būti izoliuotas savivaldos vykdomųjų institucijų specialiai šiam tikslui įrengtose patalpose, stacionariose asmens sveikatos priežiūros įstaigose arba šių asmenų namuose, jeigu higieninės sąlygos leidžia tai padaryti. Izoliavimą skiria, jo vietą bei terminus nustato teritorijos vyriausiasis valstybinis gydytojas higienistas.
+9. Asmuo, turėjęs kontaktą su ligoniu ar asmeniu, įtariamu sergančiu ypač pavojinga liga, įrašyta į šio straipsnio 2 dalyje nurodytą sąrašą, arba šios ligos sukėlėjo nešiotoju, privalo būti izoliuotas savivaldos vykdomųjų institucijų specialiai šiam tikslui įrengtose patalpose, stacionariose asmens sveikatos priežiūros įstaigose arba šių asmenų namuose, jeigu higieninės sąlygos leidžia tai padaryti. Izoliavimą skiria, jo vietą bei terminus nustato Sveikatos apsaugos ministerija arba jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
 
 9 straipsnis. Ligonių, asmenų, įtariamų sergančių, turėjusių kontaktą, ir sukėlėjų nešiotojų priverstinio hospitalizavimo, priverstinio izoliavimo, priverstinio ištyrimo ir (ar) priverstinio gydymo ypatumai
 
@@ -281,7 +285,11 @@ Lietuvos valstybės sienų ir teritorijos sanitarinės ir medicininės-karantini
 
 1) Tarnybai pavaldžių visuomenės sveikatos centrų specialistai nustato, kad įmonėms, įstaigoms ar organizacijoms priklausančiuose statiniuose ar jų teritorijose yra susikaupę užkrečiamųjų ligų sukėlėjus platinančių vabzdžių ar graužikų ir yra pateiktas šio centro vadovo priimtas sprendimas profilaktiškai nukenksminti aplinką;
 
-2) šį nukenksminimą atitinkamose įmonėse, įstaigose, organizacijose, joms priklausančiuose riboto karantino objektuose reglamentuoja higienos normos ar apskričių vyriausiųjų valstybinių gydytojų higienistų ir jų pavaduotojų sprendimai.
+2) šį nukenksminimą atitinkamose įmonėse, įstaigose, organizacijose, joms priklausančiuose riboto karantino objektuose reglamentuoja higienos normos ar Sveikatos apsaugos ministerijos arba jos įgaliotos institucijos sprendimai.
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
 
 2. Privalomąjį profilaktinį aplinkos nukenksminimą turi teisę atlikti tik nustatyta tvarka akredituoti šiai veiklai juridiniai asmenys ir juridinio asmens teisių neturinčios įmonės.
 
@@ -293,7 +301,11 @@ Lietuvos valstybės sienų ir teritorijos sanitarinės ir medicininės-karantini
 
 1. Pavojingų ir ypač pavojingų užkrečiamųjų ligų židiniuose turi būti atliktas privalomasis aplinkos nukenksminimas (dezinfekcija).
 
-2. Sprendimą dėl privalomojo aplinkos nukenksminimo (dezinfekcijos) pavojingų ir ypač pavojingų užkrečiamųjų ligų židiniuose priima teritorijos vyriausiasis valstybinis gydytojas higienistas. Šį sprendimą priėmęs pareigūnas privalo su juo pasirašytinai supažindinti juridinius ir fizinius asmenis, kurių turtui taikomas privalomasis aplinkos nukenksminimas. Jei atsisakoma pasirašyti, asmenų informavimą turi patvirtinti du liudytojai.
+2. Sprendimą dėl privalomojo aplinkos nukenksminimo (dezinfekcijos) pavojingų ir ypač pavojingų užkrečiamųjų ligų židiniuose priima Sveikatos apsaugos ministerija arba jos įgaliota institucija. Šį sprendimą priėmęs pareigūnas privalo su juo pasirašytinai supažindinti juridinius ir fizinius asmenis, kurių turtui taikomas privalomasis aplinkos nukenksminimas. Jei atsisakoma pasirašyti, asmenų informavimą turi patvirtinti du liudytojai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
 
 3. Jei pavojingų ir ypač pavojingų užkrečiamųjų ligų židiniuose esančio turto savininkai neduoda sutikimo atlikti privalomojo aplinkos nukenksminimo (dezinfekcijos) darbus, šie darbai atliekami priverstinai, dalyvaujant policijos pareigūnams.
 
@@ -315,7 +327,11 @@ Lietuvos valstybės sienų ir teritorijos sanitarinės ir medicininės-karantini
 
 17 straipsnis. Asmenų, mirusių nuo užkrečiamųjų ligų, palaikų pervežimas ir laidojimas
 
-Asmenų, mirusių nuo pavojingų ir ypač pavojingų užkrečiamųjų ligų, palaikų pervežimo transporto priemonėmis, taip pat jų įvežimo į Lietuvos Respubliką ir išvežimo iš Lietuvos Respublikos, laidojimo ir perlaidojimo tvarką tvirtina Lietuvos Respublikos vyriausiasis valstybinis gydytojas higienistas, suderinęs su Susisiekimo ministerija ir Muitinės departamentu prie Finansų ministerijos.
+Asmenų, mirusių nuo pavojingų ir ypač pavojingų užkrečiamųjų ligų, palaikų pervežimo transporto priemonėmis, taip pat jų įvežimo į Lietuvos Respubliką ir išvežimo iš Lietuvos Respublikos, laidojimo ir perlaidojimo tvarką tvirtina Sveikatos apsaugos ministerija arba jos įgaliota institucija, suderinusi su Susisiekimo ministerija ir Muitinės departamentu prie Finansų ministerijos.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
 
 18 straipsnis. Privalomas sveikatos tikrinimas dėl užkrečiamųjų ligų ir asmenų, įtariamų sergančių, susirgusių pavojingomis ar ypač pavojingomis ligomis, nušalinimas nuo darbo
 
@@ -327,7 +343,11 @@ Asmenų, mirusių nuo pavojingų ir ypač pavojingų užkrečiamųjų ligų, pal
 
 4. Asmenys, laikomi Vidaus reikalų ministerijos neviešose (uždarose) įstaigose, kariai privalo būti tikrinami, ar neserga užkrečiamosiomis ligomis. Šių asmenų sveikatos tikrinimo dėl užkrečiamųjų ligų tvarką nustato atitinkamai Vidaus reikalų ministerija ar Krašto apsaugos ministerija, suderinusios su Sveikatos apsaugos ministerija.
 
-5. Asmenims, įtariamiems sergantiems ar susirgusiems pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis arba tapusiems šių ligų sukėlėjų nešiotojais, iki bendrosios praktikos gydytojo leidimo draudžiama tęsti šio straipsnio 1 dalyje nurodytame sąraše nustatytus darbus. Pavojingų ir ypač pavojingų ligų, dėl kurių asmenims draudžiama tęsti šio straipsnio 1 dalyje minėtame sąraše nustatytus darbus iki bendrosios praktikos gydytojo leidimo, sąrašą tvirtina Sveikatos apsaugos ministerija. Šiuos asmenis darbdaviai savo iniciatyva, taip pat vykdydami apskričių vyriausiųjų valstybinių gydytojų higienistų ar jų pavaduotojų sprendimus, privalo laikinai nušalinti nuo darbo arba perkelti į kitą darbą, kurį jiems leidžiama dirbti pagal sveikatos būklę. Asmenys, kurie žino, kad serga Sveikatos apsaugos ministerijos nustatyto sąrašo užkrečiamosiomis ligomis ar yra šių ligų sukėlėjų nešiotojai, ir sirgdami arba nešiodami šių ligų sukėlėjus tęsia nustatytus darbus be bendrosios praktikos gydytojo leidimo, taip pat ir darbdaviai, kurie žino apie įtariamus sergančius ar susirgusius tokiomis ligomis asmenis, bet verčia juos dirbti šio straipsnio 1 dalyje minėtame sąraše nustatytus darbus, atsako pagal Lietuvos Respublikos įstatymus.
+5. Asmenims, įtariamiems sergantiems ar susirgusiems pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis arba tapusiems šių ligų sukėlėjų nešiotojais, iki bendrosios praktikos gydytojo leidimo draudžiama tęsti šio straipsnio 1 dalyje nurodytame sąraše nustatytus darbus. Pavojingų ir ypač pavojingų ligų, dėl kurių asmenims draudžiama tęsti šio straipsnio 1 dalyje minėtame sąraše nustatytus darbus iki bendrosios praktikos gydytojo leidimo, sąrašą tvirtina Sveikatos apsaugos ministerija. Šiuos asmenis darbdaviai savo iniciatyva, taip pat vykdydami Sveikatos apsaugos ministerijos arba jos įgaliotos institucijos sprendimus, privalo laikinai nušalinti nuo darbo arba perkelti į kitą darbą, kurį jiems leidžiama dirbti pagal sveikatos būklę. Asmenys, kurie žino, kad serga Sveikatos apsaugos ministerijos nustatyto sąrašo užkrečiamosiomis ligomis ar yra šių ligų sukėlėjų nešiotojai, ir sirgdami arba nešiodami šių ligų sukėlėjus tęsia nustatytus darbus be bendrosios praktikos gydytojo leidimo, taip pat ir darbdaviai, kurie žino apie įtariamus sergančius ar susirgusius tokiomis ligomis asmenis, bet verčia juos dirbti šio straipsnio 1 dalyje minėtame sąraše nustatytus darbus, atsako pagal Lietuvos Respublikos įstatymus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
 
 6. Išlaidas už periodines medicinos apžiūras ir vidutinį darbo užmokestį darbuotojams už sugaištą medicinos apžiūroms laiką apmoka darbdavys, o už medicininį patikrinimą prieš įstojant į darbą – darbuotojas, jei kiti įstatymai nenumato kitaip.
 
@@ -391,7 +411,11 @@ Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010IS
 
 2) asmenys, įvažiuojantys į Lietuvos Respubliką ar pervažiuojantys per Lietuvos Respubliką tranzitu iš ypač pavojingų užkrečiamųjų ligų sukėlėjais užkrėstų teritorijų.
 
-8. Riboto karantino objektus, šio karantino taikymo trukmę ir režimą nustatyti bei atšaukti turi teisę apskričių vyriausieji valstybiniai gydytojai higienistai ir jų pavaduotojai.
+8. Riboto karantino objektus, šio karantino taikymo trukmę ir režimą nustatyti bei atšaukti turi teisę Sveikatos apsaugos ministerija arba jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
 
 9. Riboto karantino skelbimo ir šio skelbimo atšaukimo pagrindus ir tvarką nustato Sveikatos apsaugos ministerija.
 
@@ -501,9 +525,17 @@ Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010IS
 
 2) tvirtina savivaldybių tikslines sveikatos programas dėl užkrečiamųjų ligų profilaktikos ir kontrolės;
 
-3) suderinusi su apskrities vyriausiuoju valstybiniu gydytoju higienistu, tvirtina savivaldybės teritorijos sanitarinės kontrolės taisykles;
+3) suderinusi su Sveikatos apsaugos ministerija arba jos įgaliota institucija, tvirtina savivaldybės teritorijos sanitarinės kontrolės taisykles
 
-4) suderinusi su apskrities vyriausiuoju valstybiniu gydytoju higienistu, tvirtina savo teritorijoje griežtesnius negu pagal higienos normas užkrečiamųjų ligų profilaktikos reikalavimus.
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
+
+4) suderinusi su Sveikatos apsaugos ministerija arba jos įgaliota institucija, tvirtina savo teritorijoje griežtesnius negu pagal higienos normas užkrečiamųjų ligų profilaktikos reikalavimus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
 
 2. Savivaldybės meras:
 
@@ -521,7 +553,7 @@ Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010IS
 
 7) organizuoja savivaldybės teritorijos gyventojus darbui epidemijoms ir jų padariniams likviduoti.
 
-3. Savivaldybės meras Lietuvos Respublikos vyriausiojo valstybinio gydytojo higienisto, jo pavaduotojų, apskričių vyriausiųjų valstybinių gydytojų higienistų ir jų pavaduotojų teikimu privalo:
+3. Savivaldybės meras Sveikatos apsaugos ministerijos arba jos įgaliotos institucijos teikimu privalo:
 
 1) atsisakyti įmonei išduoti leidimą ūkinei-komercinei veiklai ar išduotąjį atšaukti, jei ši veikla kelia užkrečiamųjų ligų atsiradimo ir (ar) plitimo pavojų ar lemia jų išplitimą, ir informuoti apie tai reikiamas valstybės institucijas;
 
@@ -534,6 +566,10 @@ Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010IS
 5) organizuoti nustatytose teritorijose karantino režimo priemonių įgyvendinimą, jei savivaldybės teritorijai yra paskelbtas teritorijų karantinas;
 
 6) organizuoti savivaldybės tikslinių sveikatos programų dėl užkrečiamųjų ligų profilaktikos ir kontrolės rengimą ir jas finansuoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
 
 TREČIASIS SKIRSNIS
 
@@ -573,11 +609,23 @@ VALSTYBĖS IR SAVIVALDOS INSTITUCIJŲ PAREIGŪNŲ KOMPETENCIJA VALDANT UŽKREČI
 
 15) reikalauti atlyginti sveikatos priežiūros įstaigų išlaidas, turėtas dėl sveikatai neteisėta veika padarytos žalos, kurią lėmė užkrečiamoji liga.
 
-2. Šio straipsnio 1 dalies 6–15 punktuose nurodytas teises turi tik Lietuvos Respublikos vyriausiasis valstybinis gydytojas higienistas, jo pavaduotojai, apskričių vyriausieji valstybiniai gydytojai higienistai ir jų pavaduotojai.
+2. Šio straipsnio 1 dalies 6-15 punktuose nurodytas teises turi tik Sveikatos apsaugos ministerija arba jos įgaliota institucija.
 
-3. Lietuvos Respublikos vyriausiasis valstybinis gydytojas higienistas, jo pavaduotojai, apskričių vyriausieji valstybiniai gydytojai higienistai turi teisę nustatyti taisyklių, higienos normų, kitų pagal standartus normatyvinių dokumentų, skirtų užkirsti kelią užkrečiamosioms ligoms arba kovai su jomis, pažeidimus, dėl kurių galėjo atsirasti ir išplisti užkrečiamosios ligos. Nustatant taisyklių, skirtų užkirsti kelią užkrečiamosioms ligoms arba kovai su jomis, pažeidimus, dėl kurių galėjo atsirasti ir išplisti užkrečiamosios ligos, įrodymų pakankamumą ir įrodinėjimo priemones kiekvienu konkrečiu atveju nustato pagal kompetenciją šio straipsnio 4 dalyje nurodyti pareigūnai. Nustatant šių taisyklių pažeidimus, epidemiologinės diagnostikos ir epidemiologinės analizės duomenys turi vienodą reikšmę.
+Straipsnio dalies pakeitimai:
 
-4. Tarnybos ir jai pavaldžių įstaigų pareigūnai turi ir kitų teisių, taip pat pareigų užkrečiamųjų ligų kontrolės ir profilaktikos klausimais. Šias teises ir pareigas reglamentuoja šis ir kiti įstatymai, tarptautinės teisės aktai, Tarnybos ir Valstybinės higienos inspekcijos nuostatai, kuriuos tvirtina Sveikatos apsaugos ministerija.
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
+
+3. Sveikatos apsaugos ministerija arba jos įgaliota institucija turi teisę nustatyti taisyklių, higienos normų, kitų pagal standartus normatyvinių dokumentų, skirtų užkirsti kelią užkrečiamosioms ligoms arba kovai su jomis, pažeidimus, dėl kurių galėjo atsirasti ir išplisti užkrečiamosios ligos. Nustatant taisyklių, skirtų užkirsti kelią užkrečiamosioms ligoms arba kovai su jomis, pažeidimus, dėl kurių galėjo atsirasti ir išplisti užkrečiamosios ligos, įrodymų pakankamumą ir įrodinėjimo priemones kiekvienu konkrečiu atveju nustato pagal kompetenciją šio straipsnio 4 dalyje nurodyti pareigūnai. Nustatant šių taisyklių pažeidimus, epidemiologinės diagnostikos ir epidemiologinės analizės duomenys turi vienodą reikšmę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
+
+4. Tarnybos ir jai pavaldžių įstaigų pareigūnai turi ir kitų teisių, taip pat pareigų užkrečiamųjų ligų kontrolės ir profilaktikos klausimais. Šias teises ir pareigas reglamentuoja šis ir kiti įstatymai, tarptautiniai teisės aktai, Tarnybos ir Sveikatos apsaugos ministerijos įgaliotų institucijų nuostatai, kuriuos tvirtina Sveikatos apsaugos ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
 
 28 straipsnis. Savivaldybės gydytojo teisės užkrečiamųjų ligų profilaktikos ir kontrolės srityje
 
@@ -683,7 +731,11 @@ Asmenys, padarę teisės aktų pažeidimus, lėmusius užkrečiamųjų ligų ats
 
 41 straipsnis. Ekonominių sankcijų įmonėms taikymas už teisės aktų pažeidimus, lėmusius užkrečiamųjų ligų atsiradimą ir išplitimą
 
-Lietuvos Respublikos vyriausiasis valstybinis gydytojas higienistas, jo pavaduotojai, apskričių vyriausieji valstybiniai gydytojai higienistai ir jų pavaduotojai įstatymų nustatyta tvarka turi teisę taikyti ekonomines sankcijas įmonėms, padariusioms teisės aktų pažeidimus, sukėlusius pavojingų ar ypač pavojingų užkrečiamųjų ligų atsiradimo pavojų ar lėmusius jų atsiradimą ir išplitimą.
+Ekonominės sankcijos įmonėms, padariusioms teisės aktų pažeidimus, sukėlusius pavojingų ar ypač pavojingų užkrečiamųjų ligų atsiradimo pavojų ar lėmusius jų atsiradimą ir išplitimą, taikomos Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
 
 42 straipsnis. Įstatymo įsigaliojimas
 
