@@ -4,7 +4,7 @@ identifier: "TAR.CDE9A0ADF13A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-20"
-last_updated: "1995-07-05"
+last_updated: "1996-06-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CDE9A0ADF13A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,25 +15,21 @@ document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn" įgyvendinimo
 
-Redaguota: 1995 07 19
+@D1=19941220;D2=19960620;D3=19960909
 
-Redaguota: 1995 07
-
-19
-
-g
+@D1=19941220;D2=19960620;D3=19960909
 
 Pakeitimai:
 
-1.Lietuvos
+1.
 
-Respublikos 1995 07 05
+Parlamentas,
 
-Įstatymas Nr.1-1032
+Įstatymas
 
-Žin., 1995, Nr.
+{#19950705AA1032 ;}
 
-59-1485
+Nr. 1-1032, 95.07.05, Žin., 1995, Nr. 59-1485 (95.07.19)
 
 DĖL LIETUVOS
 
@@ -41,15 +37,35 @@ RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS RESPUBLIKOS
 
 ĮSTATYMO "DĖL
 
-DALIES VALSTYBĖS TURTO PRISKYRIMO IR
+DALIES VALSTYBĖS TURTO PRISKYRIMO IR PERDAVIMO
 
-PERDAVIMO
+SAVIVALDYBIŲ
 
-SAVIVALDYBIŲ NUOSAVYBĖN" ĮGYVENDINIMO"
+NUOSAVYBĖN" ĮGYVENDINIMO" PAKEITIMO IR PAPILDYMO
 
-PAKEITIMO IR
+2.
 
-PAPILDYMO
+Parlamentas,
+
+Įstatymas
+
+{#19960620AA1396 ;}
+
+Nr. 1-1396, 96.06.20, Žin., 1996, Nr. 64-1506 (96.07.05)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO
+
+"DĖL DALIES
+
+VALSTYBĖS TURTO PRISKYRIMO IR PERDAVIMO SAVIVALDYBIŲ
+
+NUOSAVYBĖN"
+
+ĮGYVENDINIMO" 1 IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
@@ -69,7 +85,7 @@ PRISKYRIMO IR PERDAVIMO SAVIVALDYBIŲ NUOSAVYBĖN"
 
 ĮGYVENDINIMO
 
-1. Nustatyti,
+1.  Nustatyti,
 
 kad pagal Lietuvos Respublikos įstatymą "Dėl
 
@@ -79,73 +95,63 @@ turto  priskyrimo  ir  perdavimo  savivaldybių
 
 nuosavybėn"
 
-savivaldybių  nuosavybėn priskirtas turtas, nurodytas
+savivaldybių nuosavybėn priskirtas turtas, nurodytas
 
-šio įstatymo 3
+šio   įstatymo   3
 
-straipsnyje, išskyrus turtą, nurodytą šio įstatymo
+straipsnyje,  išskyrus  turtą,  nurodytą  šio
 
-3 straipsnio
+įstatymo  3
 
-trečiosios dalies 1 punkte, savivaldybių nuosavybėn
+straipsnio  trečiosios dalies 1 punkte, savivaldybių
 
-turi būti  perduotas
+nuosavybėn  turi
 
-iki  1996 m.  kovo  1  d.  pagal  perdavimo-
+būti  perduotas  iki  1996 m. spalio 1 d. pagal
 
-priėmimo aktus,
+perdavimo-
 
-neatliekant nekilnojamojo turto objektų techninės
+priėmimo   aktus,  neatliekant  nekilnojamojo  turto
 
-inventorizacijos.
+objektų  techninės
 
-Šiame  punkte nurodytą  ir  perimtą  nuosavybėn
+inventorizacijos.  Šiame  punkte  nurodytą ir
 
-turtą iki  1998 m.
+perimtą  nuosavybėn
 
-sausio  1  d.  savivaldybės  turi  techniškai
+turtą  iki  1998 m. sausio 1 d. savivaldybės
 
-inventorizuoti ir
+turi techniškai
 
-teisiškai įregistruoti.
+inventorizuoti ir teisiškai įregistruoti.
 
 Lietuvos
 
-Respublikos  įstatymo "Dėl  dalies valstybės  turto
+Respublikos  įstatymo  "Dėl dalies valstybės turto
 
-priskyrimo ir
+priskyrimo  ir
 
-perdavimo savivaldybių  nuosavybėn"  3  straipsnio
+perdavimo  savivaldybių  nuosavybėn" 3 straipsnio
 
-trečiosios dalies  1
+trečiosios  dalies 1
 
-punkte nurodytas turtas iki 1997 m. sausio 1
+punkte nurodytas turtas iki 1997 m. liepos 1
 
-d. turi būti
+d.    turi   būti
 
-techniškai inventorizuotas ir perduotas savivaldybių
+techniškai   inventorizuotas   ir   perduotas
+
+savivaldybių
 
 nuosavybėn.
 
-Pakeitimai:
+2.
 
-1.Lietuvos
+Nustatyti,  kad  savivaldybės  jų  nuosavybėn  įstatymo
 
-Respublikos 1995 07 05
+priskirtą,  bet
 
-Įstatymas Nr.1-1032
-
-Žin., 1995, Nr.
-
-59-1485
-
-2.  Nustatyti,
-
-kad  savivaldybės  jų  nuosavybėn  įstatymo
-
-priskirtą, bet  dar
-
-neperduotą  valstybės turtą  toliau valdo  ir
+dar  neperduotą  valstybės turtą toliau valdo ir
 
 naudoja patikėjimo
 
@@ -153,35 +159,37 @@ teise.
 
 Valstybės
 
-turtą,   kuris   buvo   priskirtas   savivaldybių
+turtą,   kuris   buvo   priskirtas  savivaldybių
 
-reguliavimo sričiai
+reguliavimo
 
-Lietuvos Respublikos Vyriausybės sprendimais,
+sričiai    Lietuvos    Respublikos    Vyriausybės
 
-bet Lietuvos
+sprendimais,   bet
 
-Respublikos įstatymu  "Dėl dalies  valstybės  turto
+Lietuvos  Respublikos  įstatymu  "Dėl  dalies
 
-priskyrimo ir
+valstybės  turto
 
-perdavimo savivaldybių nuosavybėn" nepriskirtas jų
+priskyrimo ir perdavimo savivaldybių nuosavybėn"
 
-nuosavybėn,
+nepriskirtas   jų
 
-savivaldybės  valdo ir  naudoja patikėjimo  teise iki
+nuosavybėn,  savivaldybės  valdo  ir  naudoja
 
-Lietuvos
+patikėjimo  teise
 
-Respublikos  Vyriausybė  jį  perduos  kitoms  valstybės
+iki Lietuvos Respublikos Vyriausybė jį perduos
 
-valdžios ir valdymo
+kitoms  valstybės
 
-institucijoms ar kitiems subjektams.
+valdžios  ir  valdymo institucijoms ar kitiems
+
+subjektams.
 
 Valstybės
 
-turtą,  kuris savivaldybėms  reikalingas  įstatymų
+turtą,  kuris  savivaldybėms reikalingas įstatymų
 
 deleguotoms
 
@@ -189,81 +197,105 @@ valstybės  funkcijoms  atlikti,  savivaldybės  valdo
 
 patikėjimo teise.
 
-Pakeitimai:
+3.   Pagal
 
-1.Lietuvos
+Lietuvos   Respublikos   įstatymo  "Dėl  dalies
 
-Respublikos 1995 07 05
+valstybės  turto
 
-Įstatymas Nr.1-1032
+priskyrimo ir perdavimo savivaldybių nuosavybėn"
 
-Žin., 1995, Nr.
+3  straipsnio
 
-59-1485
+trečiosios dalies 2 punktą savivaldybių nuosavybėn
 
-3.
+priskiriami   ir
 
-Savivaldybių   nuosavybėn  neperduodami   teismų,   kitų
+perduodami   pastatai,   kuriuose   savivaldos
 
-teisminės
+institucijos   savo
 
-valdžios,  taip  pat  valstybės  valdžios  ir  valdymo
+funkcijoms  vykdyti  užima  30  procentų  ir
 
-institucijų  bei
+daugiau  patalpų.
 
-jų  padalinių,   kurie  nevykdo  savivaldybėms
+Jei šiuose pastatuose teismai, kitos teisminės
 
-įstatymų suteiktų
+valdžios,  taip
 
-ar deleguotų  funkcijų,  nuomojami  ar  kitaip
+pat  valstybės  valdžios ir valdymo institucijos
 
-naudojami pastatai
+nuomoja  ar  kitaip
 
-ar patalpos. Šie pastatai ar patalpos įeina į
+naudoja  patalpas,  joms  paliekama teisė ir
 
-atitinkamų
+toliau  naudotis
 
-institucijų  balansą ir jos šį turtą valdo, naudoja ir
+šiomis  patalpomis pagal panaudos sutartis. Kai
 
-juo disponuoja
+šios  institucijos
 
-patikėjimo teise.
+atlaisvina  patalpas,  jos lieka savivaldybių
 
-4. Savivaldybių
+nuosavybėje.
 
-tarybos nuo 1996 metų savo biudžetuose turi
+Pastatai,
 
-numatyti lėšų,
+kuriuose  savivaldos institucijos savo funkcijoms
 
-kurios yra  reikalingos  įstatymų  jų  nuosavybėn
+vykdyti  užima
 
-priskirto  ir  perduoto
+mažiau  kaip 30 procentų administracinių patalpų,
 
-nekilnojamojo  turto  objektų  techninei
+savivaldybių
 
-inventorizacijai ir
+nuosavybėn  nepriskiriami  ir  neperduodami. Šiuose
+
+pastatuose  jų
+
+užimamas patalpas savivaldos institucijos valdo ir
+
+naudoja patikėjimo
+
+teise.
+
+Šio
+
+straipsnio  pirmojoje  dalyje  nurodytos  institucijos,
+
+naudojančios
+
+turimas  pagal  panaudos sutartis patalpas, privalo
+
+jas  naudoti  tik
+
+savo  funkcijoms  vykdyti ir negali jų nuomoti
+
+kitiems asmenims.
+
+4.
+
+Savivaldybių tarybos nuo 1996 metų savo biudžetuose turi
+
+numatyti  lėšų,
+
+kurios  yra  reikalingos  įstatymų jų nuosavybėn
+
+priskirto  ir
+
+perduoto  nekilnojamojo  turto  objektų  techninei
+
+inventorizacijai  ir
 
 teisinei registracijai atlikti. Savivaldybės
 
-turi joms  perduotą
+turi  joms perduotą
 
 nekilnojamąjį turtą techniškai inventorizuoti
 
 ir teisiškai
 
 įregistruoti iki 1998 m. sausio 1 dienos.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1995 07 05
-
-Įstatymas Nr.1-1032
-
-Žin., 1995, Nr.
-
-59-1485
 
 Skelbiu šį
 
