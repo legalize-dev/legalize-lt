@@ -4,7 +4,7 @@ identifier: "TAR.EC768B80044D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-22"
-last_updated: "1999-01-06"
+last_updated: "2000-10-27"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC768B80044D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymas
+
+Suvestinė redakcija nuo 2000-10-27 iki 2016-09-30
+
+Įstatymas paskelbtas: Žin. 1999, Nr. 1-5, i. k. 0981010ISTAIII-1003
 
 LIETUVOS RESPUBLIKOS
 
@@ -98,7 +102,11 @@ Vyriausioji rinkimų komisija, gavusi parašų rinkimo lapus su piliečių para�
 
 1. Vyriausioji rinkimų komisija savo išvadą kartu su piliečių parašų rinkimo lapais pateikia Seimui.
 
-2. Jei Seimas gauna Vyriausiosios rinkimų komisijos išvadą, kad surinkti parašai atitinka įstatymo reikalavimus, Seimo kancleris tokios išvados gavimo dieną įregistruoja iniciatyvos projektą ir apie tai praneša iniciatyvinei grupei.
+2. Seime gavus Vyriausiosios rinkimų komisijos išvadą, kad surinkti parašai atitinka įstatymų reikalavimus, išvados gavimo dieną įregistruojamas iniciatyvos projektas ir apie tai pranešama iniciatyvinei grupei.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1977, 2000-10-10, Žin., 2000, Nr. 90-2772 (2000-10-27), i. k. 1001010ISTAIII-1977
 
 14 straipsnis. Seimo atsisakymas svarstyti iniciatyvos projektą
 
@@ -143,4 +151,14 @@ Pareigūnai ir tarnautojai, pažeidę šį įstatymą, atsako įstatymų nustaty
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1977, 2000-10-10, Žin., 2000, Nr. 90-2772 (2000-10-27), i. k. 1001010ISTAIII-1977
+
+Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymo 13 straipsnio pakeitimo įstatymas
 
