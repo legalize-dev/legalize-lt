@@ -4,7 +4,7 @@ identifier: "TAR.ABF3AEE57087"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-21"
-last_updated: "1995-06-08"
+last_updated: "1997-06-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ABF3AEE57087"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,11 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos profesinių sąjungų įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
-Redagavo:
+Redagavo: Ramunė
 
-Ramunė Lūžaitė (1997.03.24)
+Lūžaitė (1997.07.09)
+
+Įstatymas
+
+paskelbtas: Žin., 1991, Nr.34-933
 
 Neoficialus
 
@@ -69,6 +73,20 @@ DĖL
 
 LIETUVOS RESPUBLIKOS PROFESINIŲ SĄJUNGŲ ĮSTATYMO PAKEITIMO
 
+4.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-308,
+
+97.06.26, Žin., 1997, Nr.65-1539 (97.07.09)
+
+LIETUVOS
+
+RESPUBLIKOS PROFESINIŲ SĄJUNGŲ ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -78,8 +96,6 @@ LIETUVOS RESPUBLIKOS
 PROFESINIŲ SĄJUNGŲ
 
 ĮSTATYMAS
-
-(Žin., 1991, Nr.34-933)
 
 Lietuvos
 
@@ -187,9 +203,7 @@ sąjungų veiklą, atsako pagal įstatymus.
 
 Profesinių
 
-sąjungų veikla negali būti administracine tvarka nutraukta ar laikinai
-
-sustabdyta.
+sąjungų veikla negali būti administracine tvarka nutraukta ar laikinai sustabdyta.
 
 4
 
@@ -319,13 +333,13 @@ institucija.
 
 Profesinių
 
-sąjungų, jų susivienijimų, kurie pagal savo įstatus (statutą)  veikia daugiau
+sąjungų, jų susivienijimų, kurie pagal savo įstatus (statutą) veikia daugiau
 
 kaip vienos savivaldybės teritorijoje ir kurių buveinė yra apskrities centre ar
 
 kitoje apskrities teritorijoje - miesto ar kaimo gyvenamojoje vietovėje,
 
-įstatus registruoja apskrities valdytojas.
+įstatus registruoja apskrities viršininkas.
 
 Profesinių
 
@@ -337,15 +351,15 @@ ministerija.
 
 Profesinių
 
-sąjungų, jų susivienijimų įstatai (statutas) registruojami ne vėliau kaip per mėnesį
+sąjungų, jų susivienijimų įstatai (statutas) registruojami ne vėliau kaip per
 
-nuo kreipimosi dėl registravimo pagal šį įstatymą gavimo dienos, pateikus
+mėnesį nuo kreipimosi dėl registravimo pagal šį įstatymą gavimo dienos,
 
-profesinės sąjungos įstatus  (statutą) ir  susirinkimo  (konferencijos,
+pateikus profesinės sąjungos įstatus  (statutą) ir  susirinkimo
 
-suvažiavimo) protokolą (arba protokolo išrašą) dėl profesinės sąjungos,
+(konferencijos, suvažiavimo) protokolą (arba protokolo išrašą) dėl profesinės
 
-susivienijimo įsteigimo.
+sąjungos, susivienijimo įsteigimo.
 
 Profesinės
 
@@ -365,9 +379,9 @@ profesinės sąjungos, jų susivienijimo įstatai (statutas).
 
 Atsisakymas
 
-registruoti   profesinės  sąjungos,  jų susivienijimų įstatus (statutą) gali būti
+registruoti   profesinės  sąjungos,  jų susivienijimų įstatus (statutą) gali
 
-apskųstas apylinkės teismui, kuris skundą išnagrinėja per dešimt dienų.
+būti apskųstas apylinkės teismui, kuris skundą išnagrinėja per dešimt dienų.
 
 Straipsnio
 
@@ -384,6 +398,10 @@ Nr.1-640,
 Nr.
 
 I-933, 95.06.08, Žin., 1995, Nr.52-1276 (95.06.23)
+
+Nr. VIII-308,
+
+97.06.26, Žin., 1997, Nr.65-1539 (97.07.09)
 
 9
 
@@ -629,7 +647,7 @@ tarnybas  ir  kitas institucijas.
 
 Profesinės
 
-sąjungos  įgalioti  asmenys,  vykdydami  šio straipsnio pirmojoje dalyje
+sąjungos  įgalioti  asmenys,  vykdydami  šio straipsnio pirmojoje dalyje
 
 numatytas kontrolės funkcijas, turi teisę nekliudomai lankytis įmonėse,
 
