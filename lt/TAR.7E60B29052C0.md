@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2003-01-28"
+last_updated: "2003-03-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -82,13 +82,13 @@ Teismo;
 
 Aukščiausiojo Teismo;
 
-3) Lietuvos
+3)
+
+Lietuvos vyriausiojo administracinio teismo;
+
+4) Lietuvos
 
 apeliacinio teismo;
-
-4) Aukštesniojo
-
-administracinio teismo;
 
 5) apygardų
 
@@ -138,13 +138,13 @@ etikos inspektoriui;
 
 8) Seimo, Seimo
 
-Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems
+Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų
 
-institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus
+ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus Valstybės
 
-Valstybės saugumo departamento generalinį direktorių ir jo pavaduotojus bei
+saugumo departamento generalinį direktorių ir jo pavaduotojus bei Specialiųjų
 
-Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams;
+tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams;
 
 9) Seimo,
 
@@ -183,6 +183,10 @@ Nr. IX-1045,
 Nr. IX-1326,
 
 2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
+
+Nr. IX-1390,
+
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
 
 3 straipsnis. Valstybės politikų,
 
@@ -868,7 +872,7 @@ Nr. IX-1326,
 
 2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
 
-**II. Teisėjų pareiginės algos
+*II. Teisėjų pareiginės algos
 
 (MMA dydžiais)
 
@@ -924,6 +928,20 @@ Lietuvos Aukščiausiasis Teismas
 
 3.
 
+Lietuvos vyriausiasis administracinis
+
+teismas
+
+16
+
+14.5
+
+–
+
+13.75
+
+4.
+
 Lietuvos apeliacinis teismas
 
 15
@@ -933,18 +951,6 @@ Lietuvos apeliacinis teismas
 13,5
 
 13
-
-4.
-
-Aukštesnysis administracinis teismas
-
-13
-
-–
-
-–
-
-11
 
 5.
 
@@ -1002,7 +1008,7 @@ Kuriuose dirba 14 ir mažiau teisėjų
 
 8,5
 
-**Pastaba.
+*Pastaba.
 
 Pripažinti, kad Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės
 
@@ -1037,6 +1043,10 @@ Respublikos Konstitucinis Teismas, Nutarimas
 2001-07-12, Žin.,
 
 2001, Nr. 62-2276 (2001-07-18)
+
+Nr. IX-1390,
+
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
 
 III. Prokuratūros pareigūnų pareiginės algos
 
@@ -1490,7 +1500,7 @@ vadovai
 
 9.2.
 
-pareigūnai
+Pareigūnai
 
 7
 
@@ -1498,7 +1508,9 @@ pareigūnai
 
 Mokestinių ginčų komisijos prie
 
-Lietuvos Respublikos Vyriausybės:
+Lietuvos Respublikos Vyriausybės, Vyriausiosios administracinių ginčų
+
+komisijos:
 
 10.1.
 
@@ -1543,6 +1555,10 @@ Nr. IX-1012,
 Nr. IX-1045, 2002-07-05, Žin., 2002,
 
 Nr. 73-3104 (2002-07-19)
+
+Nr. IX-1390,
+
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
 
 __________________
 
@@ -1744,11 +1760,29 @@ PAKEITIMO, 7 STRAIPSNIO 1 DALIES PRIPAŽINIMO NETEKUSIA GALIOS IR ĮSTATYMO
 
 PRIEDĖLIO PAKEITIMO ĮSTATYMAS
 
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1390,
+
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
+
+VALSTYBĖS
+
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO
+
+IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Konstitucinio Teismo
+Konstitucinio
 
-nutarimai:
+Teismo nutarimai:
 
 1.
 
@@ -1804,7 +1838,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-02-20)
+Aušrinė Trapinskienė (2003-04-11)
 
 autrap@lrs.lt
 
