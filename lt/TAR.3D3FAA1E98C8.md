@@ -4,7 +4,7 @@ identifier: "TAR.3D3FAA1E98C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-05"
-last_updated: "2002-07-26"
+last_updated: "2002-12-24"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3D3FAA1E98C8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,18 @@ entry_into_force_conditions: "Įstatymo 1 straipsnis įsigalioja nuo 2002-08-01.
 Įstatymo įsigaliojimas keistas 2002-12-10 priimtu įstatymu Nr. IX-1234."
 ---
 # Lietuvos Respublikos administracinių teisės pažeidimų kodekso pakeitimo ir papildymo įstatymas
+
+Įstatymas netenka galios 2017-01-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1869, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11216
+
+Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
+
+Suvestinė redakcija nuo 2002-12-24 iki 2016-12-31
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 75-3214, i. k. 1021010ISTA0IX-1049
 
 LIETUVOS RESPUBLIKOS
 
@@ -547,7 +559,11 @@ Aplinkos apsaugos organų vardu nagrinėti administracinių teisės pažeidimų 
 
 3) už šio kodekso 63 ir 71 straipsniuose numatytus administracinius teisės pažeidimus – Aplinkos ministerijos Valstybinės aplinkos apsaugos inspekcijos Miškų kontrolės skyriaus valstybiniai aplinkos apsaugos inspektoriai.“
 
-2. 242 straipsnio 1 dalyje ir 2 dalies 1 ir 2 punktuose po skaičiaus „5110“ įrašyti skaičių „5112“ ir visą straipsnį išdėstyti taip:
+2. Neteko galios nuo 2002-12-24
+
+Straipsnio dalies naikinimas:
+
+Nr. IX-1234, 2002-12-10, Žin. 2002, Nr. 123-5526 (2002-12-24), i. k. 1021010ISTA0IX-1234
 
 „2461 straipsnis. Valstybinės mokesčių inspekcijos
 
