@@ -4,7 +4,7 @@ identifier: "TAR.7B2A8006AB08"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-05-25"
-last_updated: "2000-06-02"
+last_updated: "2000-08-09"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7B2A8006AB08"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto
 
-Suvestinė redakcija nuo 2000-06-02 iki 2000-08-08
+Suvestinė redakcija nuo 2000-08-09 iki 2002-02-12
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-486, i. k. 0931010ISTA000I-160
 
@@ -43,13 +43,15 @@ DĖL BUVUSIŲ LIETUVOS TSR VALSTYBINIŲ PROFESINIŲ SĄJUNGŲ TURTO
 
 1) valstybei – Lietuvos žmonių poreikiams tenkinti ir Lietuvos sporto draugijai „Žalgiris“;
 
-2) Lietuvos sporto draugijai „Žalgiris“ ir specialiajam fondui veikiančioms ir besisteigiančioms profesinėms sąjungoms remti, kurio nuostatus tvirtina Lietuvos Respublikos Seimas ir kuris veikia iki 2006 metų birželio 1 dienos;
+2) Lietuvos sporto draugijai „Žalgiris“ ir Specialiajam fondui veikiančioms ir besisteigiančioms profesinėms sąjungoms remti, kurio nuostatus tvirtina Lietuvos Respublikos Seimas ir kuris veikia iki 2001 metų liepos 1 dienos;
 
 3) buvusiems savininkams pagal Lietuvos Respublikos įstatymą „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“.
 
 Straipsnio pakeitimai:
 
 Nr. I-969, 1995-06-27, Žin., 1995, Nr. 56-1389 (1995-07-08), i. k. 0951010ISTA000I-969
+
+Nr. VIII-1891, 2000-07-20, Žin., 2000, Nr. 67-2019 (2000-08-09), i. k. 1001010ISTAIII-1891
 
 4 straipsnis. Buvusių Lietuvos TSR valstybinių profesinių sąjungų turto ir jo dalių perdavimo tvarką nustato Lietuvos Respublikos Seimo nutarimas „Dėl Lietuvos Respublikos įstatymo „Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto“ įgyvendinimo“.
 
@@ -61,7 +63,7 @@ Nr. I-969, 1995-06-27, Žin., 1995, Nr. 56-1389 (1995-07-08), i. k. 0951010ISTA0
 
 6 straipsnis. Specialiajam fondui veikiančioms ir besisteigiančioms profesinėms sąjungoms remti perduotas turtas negali būti privatizuojamas ar akcionuojamas, taip pat parduodamas ar kitaip perleidžiamas, išskyrus šio straipsnio antrojoje dalyje nurodytus atvejus.
 
-Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti taryba po 2000 m. liepos 31 d. privalo perduoti Lietuvos profesinių sąjungų nuosavybėn Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti valdomą ir naudojamą turtą, o po 2006 m. sausio 1 d. perduoti joms ir Fondo lėšas.
+Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti taryba privalo perduoti Lietuvos profesinių sąjungų nuosavybėn Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti valdomą ir naudojamą turtą bei lėšas Profesinių sąjungų turto paskirstymo įstatymo nustatyta tvarka.
 
 Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti taryba privalo iki 1999 m. spalio 1 d. perimti perduotą buvusių Lietuvos TSR valstybinių profesinių sąjungų turtą.
 
@@ -80,6 +82,8 @@ Nr. VIII-1267, 1999-06-24, Žin., 1999, Nr. 57-1836 (1999-06-30), i. k. 0991010I
 Nr. VIII-1485, 1999-12-21, Žin., 1999, Nr. 112-3257 (1999-12-30), i. k. 0991010ISTAIII-1485
 
 Nr. VIII-1696, 2000-05-23, Žin., 2000, Nr. 45-1296 (2000-06-02), i. k. 1001010ISTAIII-1696
+
+Nr. VIII-1891, 2000-07-20, Žin., 2000, Nr. 67-2019 (2000-08-09), i. k. 1001010ISTAIII-1891
 
 7 straipsnis. Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti veiklą turi teisę kontroliuoti Valstybės kontrolės departamentas.
 
@@ -146,4 +150,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1696, 2000-05-23, Žin., 2000, Nr. 45-1296 (2000-06-02), i. k. 1001010ISTAIII-1696
 
 Lietuvos Respublikos įstatymo "Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto" 6 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1891, 2000-07-20, Žin., 2000, Nr. 67-2019 (2000-08-09), i. k. 1001010ISTAIII-1891
+
+Lietuvos Respublikos įstatymo "Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto" 3 ir 6 straipsnių pakeitimo įstatymas
 
