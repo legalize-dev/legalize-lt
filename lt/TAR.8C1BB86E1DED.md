@@ -4,7 +4,7 @@ identifier: "TAR.8C1BB86E1DED"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-02-19"
-last_updated: "1998-07-01"
+last_updated: "2001-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8C1BB86E1DED"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos muitų tarifų įstatymas
+
+Suvestinė redakcija nuo 2001-01-01 iki 2003-12-31
+
+Įstatymas paskelbtas: Žin. 1998, Nr. 28-727, i. k. 0981010ISTAVIII-633
 
 LIETUVOS RESPUBLIKOS
 
@@ -126,7 +130,11 @@ Muitas renkamas (sumokamas) už visas į Lietuvos Respublikos muitų teritoriją
 
 15) tarptautiniuose sporto renginiuose naudojami vaistai ir vaistinės medžiagos;
 
-16) labdaros ir paramos siuntos, taip pat daiktai, skirti neįgaliesiems asmenims, nukentėjusiesiems nuo nelaimių bei pasipriešinimo okupacijoms (rezistencijos) dalyviams ir nuo okupacijų nukentėjusiems asmenims;
+16) paramos siuntos – Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais ir tvarka, taip pat daiktai, skirti neįgaliesiems asmenims, nukentėjusiesiems nuo nelaimių bei pasipriešinimo okupacijoms (rezistencijos) dalyviams ir nuo okupacijų nukentėjusiems asmenims;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-1816, 2000-07-11, Žin., 2000, Nr. 61-1822 (2000-07-26), i. k. 1001010ISTAIII-1816
 
 17) garbės apdovanojimai;
 
@@ -343,4 +351,14 @@ Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi,
 LIETUVOS RESPUBLIKOS
 
 SEIMO PIRMININKAS                                                                     VYTAUTAS LANDSBERGIS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1816, 2000-07-11, Žin., 2000, Nr. 61-1822 (2000-07-26), i. k. 1001010ISTAIII-1816
+
+Lietuvos Respublikos muitų tarifų įstatymo 6 straipsnio pakeitimo įstatymas
 
