@@ -4,7 +4,7 @@ identifier: "TAR.336A4B109EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2003-01-28"
+last_updated: "2003-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -6270,6 +6270,22 @@ sprendimą dėl tarybos nario ne Lietuvos Respublikos piliečio išsiuntimo iš
 
 Lietuvos Respublikos – pagal įsiteisėjusį teismo sprendimą;
 
+9) tarybos nariui perėjus dirbti
+
+į pareigas arba neatsisakius pareigų, nesuderinamų su savivaldybės tarybos
+
+nario pareigomis.
+
+Straipsnio pakeitimai:
+
+Nr. IX-962,
+
+2002-06-20, Žin., 2002, Nr. 68-2764 (2002-07-03)
+
+Nr. IX-1340,
+
+2003-01-28, Žin., 2003, Nr. 17-711 (2003-02-19)
+
 86 straipsnis
 
 papildomas 9 punktu nuo 2003 m. vasario 25 d.:
@@ -6294,40 +6310,6 @@ Nr. IX-1340,
 
 Laisvos tarybos nario vietos užėmimas
 
-1
-
-dalies redakcija iki 2003 m. vasario 25 d.:
-
-1. Tarybos nario
-
-įgaliojimus pripažinus nutrūkusiais, taryboje atsiranda laisva tarybos nario
-
-vieta. Ji užimama taip: tarybos nariu tampa porinkiminio kandidatų sąrašo,
-
-pagal kurį buvo išrinktas buvęs tarybos narys, pirmasis tarybos nario mandato
-
-negavęs kandidatas. Jeigu šiame kandidatų sąraše tarybos nario mandatų
-
-negavusių kandidatų nėra, tarybos nario mandatas perduodamas kitam sąrašui
-
-pagal kandidatų sąrašų eilę, sudarytą po rinkimų mandatams paskirstyti liekanų
-
-metodu, t.y. tam sąrašui, kuris yra pirmasis po sąrašo, kuris paskutinis gavo
-
-mandatą pagal šią eilę, ir tarybos nariu tampa naujai mandatą gavusio sąrašo
-
-pirmasis tarybos nario mandato negavęs kandidatas. Vyriausioji rinkimų komisija
-
-sprendimą dėl tarybos nario mandato pripažinimo naujam tarybos nariui turi
-
-priimti ne vėliau kaip per 7 dienas po to, kai atsirado laisva tarybos nario
-
-vieta.
-
-1
-
-dalies redakcija nuo 2003 m. vasario 25 d.:
-
 1. Tarybos nario įgaliojimus
 
 pripažinus nutrūkusiais ar netekus tarybos nario mandato, taryboje atsiranda
@@ -6342,27 +6324,27 @@ nario mandatų negavusių kandidatų nėra, tarybos nario mandatas perduodamas
 
 kitam sąrašui pagal kandidatų sąrašų eilę, sudarytą po rinkimų mandatams
 
-paskirstyti liekanų metodu, t. y. tam sąrašui, kuris yra pirmasis po sąrašo, kuris
+paskirstyti liekanų metodu, t. y. tam sąrašui, kuris yra pirmasis po sąrašo,
 
-paskutinis gavo mandatą pagal šią eilę, ir tarybos nariu tampa naujai mandatą
+kuris paskutinis gavo mandatą pagal šią eilę, ir tarybos nariu tampa naujai
 
-gavusio sąrašo pirmasis tarybos nario mandato negavęs kandidatas. Vyriausioji
+mandatą gavusio sąrašo pirmasis tarybos nario mandato negavęs kandidatas.
 
-rinkimų komisija sprendimą dėl tarybos nario mandato pripažinimo naujam tarybos
+Vyriausioji rinkimų komisija sprendimą dėl tarybos nario mandato pripažinimo
 
-nariui turi priimti ne vėliau kaip per 7 dienas po to, kai atsirado laisva
+naujam tarybos nariui turi priimti ne vėliau kaip per 7 dienas po to, kai
 
-tarybos nario vieta.
+atsirado laisva tarybos nario vieta.
 
 2. Jeigu asmuo,
 
 kuriam pagal šio straipsnio 1 dalį turėtų atitekti tarybos nario mandatas,
 
-negali tapti tarybos nariu pagal šio įstatymo 2 straipsnį arba jam tapus
+negali tapti tarybos nariu pagal šio įstatymo 2 straipsnį arba jam tapus tarybos
 
-tarybos nariu iš karto turėtų būti taikomos šio įstatymo 86 straipsnio
+nariu iš karto turėtų būti taikomos šio įstatymo 86 straipsnio nuostatos, tai
 
-nuostatos, tai šis asmuo kandidatų sąrašo eilėje praleidžiamas.
+šis asmuo kandidatų sąrašo eilėje praleidžiamas.
 
 Straipsnio pakeitimai:
 
@@ -6374,59 +6356,59 @@ Nr. IX-1340,
 
 straipsnis. Tarybos nario mandato netekimas dėl rinkėjams nepaskelbtos turėtos
 
-teismo
-
-nuosprendžiu (sprendimu) paskirtos bausmės
+teismo nuosprendžiu (sprendimu) paskirtos bausmės
 
 1. Kiekvienas
 
 kandidatas į tarybos narius turi viešai paskelbti, jeigu jis po 1990 m. kovo 11
 
-d. Lietuvos Respublikos ar užsienio valstybės teismo
+d. Lietuvos Respublikos ar užsienio valstybės teismo įsiteisėjusiu nuosprendžiu
 
-įsiteisėjusiu nuosprendžiu (sprendimu) buvo pripažintas kaltu dėl
+(sprendimu) buvo pripažintas kaltu dėl nusikalstamos veikos arba įsiteisėjusiu
 
-nusikaltimo arba įsiteisėjusiu Lietuvos Respublikos ar užsienio valstybės
+Lietuvos Respublikos ar užsienio valstybės teismo nuosprendžiu (sprendimu) bet
 
-teismo nuosprendžiu (sprendimu) buvo pripažintas kaltu dėl sunkaus nusikaltimo.
+kada buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo. Apie tai
 
-Apie tai jis nurodo kandidato į tarybos narius anketoje. Rinkimų komisijos
+jis nurodo kandidato į tarybos narius anketoje, nepaisant to, ar teistumas
 
-leidžiamame plakate su kandidatų sąrašu prie kandidato pavardės turi būti
+pasibaigęs ar panaikintas. Rinkimų komisijos leidžiamame plakate su kandidatų
 
-pažymėta: „Teismo nuosprendžiu buvo pripažintas kaltu dėl nusikaltimo.“ Tai
+sąrašu prie kandidato pavardės turi būti pažymėta: „Teismo nuosprendžiu buvo
 
-neprivaloma, jeigu asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl
+pripažintas kaltu dėl nusikalstamos veikos“. Tai pažymėti neprivaloma, jeigu
 
-nusikaltimo valstybei.
+asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo
+
+valstybei.
 
 2. Jeigu
 
 kandidatas to nenurodė ir yra po 1990 m. kovo 11 d. įsiteisėjęs teismo
 
-nuosprendis (sprendimas), kuriuo asmuo buvo pripažintas kaltu dėl nusikaltimo,
+nuosprendis (sprendimas), kuriuo asmuo buvo pripažintas kaltu dėl nusikalstamos
 
-arba jeigu įsiteisėjusiu Lietuvos Respublikos ar užsienio valstybės teismo
+veikos, arba jeigu įsiteisėjusiu Lietuvos Respublikos ar užsienio valstybės
 
-nuosprendžiu (sprendimu) asmuo buvo pripažintas kaltu dėl sunkaus nusikaltimo,
+teismo nuosprendžiu (sprendimu) asmuo bet kada buvo pripažintas kaltu dėl
 
-rinkimų komisija jo neregistruoja kandidatu į tarybos narius, o jei buvo
+sunkaus ar labai sunkaus nusikaltimo, rinkimų komisija jo neregistruoja
 
-įregistravusi, Vyriausioji rinkimų komisija nedelsdama panaikina šį
+kandidatu į tarybos narius, o jei buvo įregistravusi, Vyriausioji rinkimų
 
-įregistravimą. Jeigu kandidatas to nenurodė ir po tarybos rinkimų nustatoma,
+komisija nedelsdama panaikina šį įregistravimą. Jei kandidatas to nenurodė ir
 
-kad yra Lietuvos Respublikos ar užsienio valstybės teismo
+po tarybos rinkimų nustatoma, kad yra Lietuvos Respublikos ar užsienio
 
-nuosprendis (sprendimas) pripažinti šį asmenį kaltu dėl atitinkamo nusikaltimo,
+valstybės teismo nuosprendis (sprendimas) pripažinti šį asmenį kaltu dėl
 
-Vyriausioji rinkimų komisija per 15 dienų nutraukia jo tarybos nario
+atitinkamos nusikalstamos veikos, Vyriausioji rinkimų komisija per 15 dienų
 
-įgaliojimus. Šie reikalavimai ir rinkimų komisijų veiksmai netaikomi, jeigu
+nutraukia jo tarybos nario įgaliojimus. Šie reikalavimai ir rinkimų komisijų
 
-asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo
+veiksmai netaikomi, jeigu asmuo okupacinio režimo teismo buvo pripažintas kaltu
 
-valstybei.
+dėl nusikaltimo valstybei.
 
 Straipsnio pakeitimai:
 
@@ -6434,9 +6416,11 @@ Nr. IX-962,
 
 2002-06-20, Žin., 2002, Nr. 68-2764 (2002-07-03)
 
-Įstatymas
+Nr.
 
-papildomas 88(1) straipsniu nuo 2003 m. vasario 25 d.:
+IX-1448,
+
+2003-04-03, Žin., 2003, Nr. 38-1693 (2003-04-24)
 
 88(1) straipsnis.
 
@@ -7310,13 +7294,35 @@ mandato atsisakymo iki pirmojo savivaldybės tarybos posėdžio pradedamos taiky
 
 nuo kitos kadencijos savivaldybių tarybų rinkimų.
 
+17.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1448,
+
+2003-04-03, Žin., 2003, Nr. 38-1693 (2003-04-24)
+
+SAVIVALDYBIŲ
+
+TARYBŲ RINKIMŲ ĮSTATYMO 88 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos
+
+baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos
+
+baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės
+
+1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-02-21)
+Aušrinė Trapinskienė (2003-04-29)
 
 autrap@lrs.lt
 
