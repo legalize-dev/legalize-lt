@@ -4,7 +4,7 @@ identifier: "TAR.D0429A864011"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-09"
-last_updated: "1997-06-25"
+last_updated: "1997-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0429A864011"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos melioracijos įstatymas
 
-Suvestinė redakcija nuo 1997-06-25 iki 1997-07-08
+Suvestinė redakcija nuo 1997-07-09 iki 2002-03-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 71-1326, i. k. 0931010ISTA000I-323
 
@@ -64,11 +64,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. VIII-243, 1997-06-10, Žin., 1997, Nr. 59-1362 (1997-06-25), i. k. 0971010ISTAVIII-243
 
-Apskrities valdytojas atlieka valstybei priklausančių melioracijos įrenginių savininko funkcijas, organizuoja šių įrenginių eksploataciją ir atsako už šių įrenginių būklę, atlieka iš biudžeto finansuojamų melioracijos darbų užsakovo funkcijas, tvarko valstybinę melioracijos įrenginių apskaitą, atlieka valstybinę melioracijos ir hidrotechnikos įrenginių priežiūrą ir atsako už šio įstatymo bei Lietuvos Respublikos Vyriausybės nutarimų melioracijos klausimais įgyvendinimą.
+Apskrities viršininkas atlieka valstybei priklausančių melioracijos įrenginių savininko funkcijas, organizuoja šių įrenginių eksploataciją ir atsako už šių įrenginių būklę, atlieka iš biudžeto finansuojamų melioracijos darbų užsakovo funkcijas, tvarko valstybinę melioracijos įrenginių apskaitą, atlieka valstybinę melioracijos ir hidrotechnikos įrenginių priežiūrą ir atsako už šio įstatymo bei Lietuvos Respublikos Vyriausybės nutarimų melioracijos klausimais įgyvendinimą
 
 Straipsnio dalies pakeitimai:
 
 Nr. I-943, 1995-06-13, Žin., 1995, Nr. 53-1298 (1995-06-28), i. k. 0951010ISTA000I-943
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-313, 1997-06-26, Žin., 1997, Nr. 65-1543 (1997-07-09), i. k. 0971010ISTAVIII-313
 
 6 straipsnis. Melioracijos projektavimas
 
@@ -177,4 +181,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-243, 1997-06-10, Žin., 1997, Nr. 59-1362 (1997-06-25), i. k. 0971010ISTAVIII-243
 
 Lietuvos Respublikos melioracijos įstatymo 5, 7, 9 ir 12 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-313, 1997-06-26, Žin., 1997, Nr. 65-1543 (1997-07-09), i. k. 0971010ISTAVIII-313
+
+Lietuvos Respublikos melioracijos įstatymo 5 straipsnio pakeitimo įstatymas
 
