@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2002-10-22"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -886,15 +886,15 @@ tai susiję su tarnybinių pareigų atlikimu saugant mišką:
 
 tiesiogiai gresiančio pavojingo gyvybei ar sveikatai kėsinimosi;
 
-2) sulaikydamas miško pažeidėją ar nusikaltimą
+2) sulaikydamas miško pažeidėją ar nusikalstamą veiką padariusį asmenį,
 
-padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo, jeigu kitaip jo
+kuris aktyviais veiksmais vengia sulaikymo, jeigu kitaip jo neįmanoma
 
-neįmanoma sulaikyti, taip pat tais atvejais, kai asmuo atsisako įvykdyti
+sulaikyti, taip pat tais atvejais, kai asmuo atsisako įvykdyti teisėtą
 
-teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų,
+reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti, jeigu kitaip
 
-jeigu kitaip jo neįmanoma nuginkluoti;
+jo neįmanoma nuginkluoti;
 
 3) vykstant pasikėsinimui į šaunamąjį ginklą ar kai būtina atremti
 
@@ -934,11 +934,21 @@ draudžiamą veiklą.
 
 5.
 
-Valstybinių miškų
+Valstybinių miškų pareigūnų
 
-pareigūnų uždavinius, funkcijas bei pareigas nustato Valstybinių miškų
+uždavinius, funkcijas bei pareigas nustato Valstybinių miškų pareigūnų
 
-pareigūnų nuostatai. Juos tvirtina Vyriausybė.
+nuostatai. Juos tvirtina Vyriausybė.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1447,
+
+2003-04-03, Žin., 2003, Nr. 38-1692 (2003-04-24)
 
 7 straipsnis. Ekonominis valstybinio miškų
 
@@ -970,17 +980,17 @@ programai finansuoti (miškų inventorizavimui, apskaitai, valstybinių miškų
 
 miškotvarkos projektams rengti, bendrai, nepriklausomai nuo nuosavybės formos,
 
-valstybinei miškų priešgaisrinei sistemai organizuoti ir išlaikyti,
+valstybinei miškų priešgaisrinei sistemai organizuoti ir išlaikyti, stichinių
 
-stichinių nelaimių padariniams ir masinių ligų bei kenkėjų židiniams
+nelaimių padariniams ir masinių ligų bei kenkėjų židiniams likviduoti, miško
 
-likviduoti, miško mokslo ir projektavimo darbams, privačių miškų savininkams
+mokslo ir projektavimo darbams, privačių miškų savininkams konsultuoti bei
 
-konsultuoti bei mokyti, privačių miškų savininkų organizacinėms struktūroms
+mokyti, privačių miškų savininkų organizacinėms struktūroms kurtis, miško
 
-kurtis, miško propagandai organizuoti, miškų ūkį aptarnaujančių organizacijų
+propagandai organizuoti, miškų ūkį aptarnaujančių organizacijų vykdomoms
 
-vykdomoms programoms bei kitoms bendrosioms miškų ūkio reikmėms finansuoti).
+programoms bei kitoms bendrosioms miškų ūkio reikmėms finansuoti).
 
 8 straipsnis. Asmenų lankymasis miške
 
@@ -1018,9 +1028,9 @@ vaistažolių, grybų, uogų ir kitų miško išteklių naudojimą.
 
 3. Miškų lankymą ir miško išteklių naudojimą saugomose
 
-teritorijose reglamentuoja Saugomų teritorijų įstatymas ir saugomų teritorijų
+teritorijose reglamentuoja Saugomų teritorijų įstatymas ir saugomų teritorijų nuostatai,
 
-nuostatai, tvirtinami Vyriausybės
+tvirtinami Vyriausybės
 
 ar jos įgaliotos Aplinkos ministerijos.
 
@@ -1094,9 +1104,9 @@ reikalavimų.
 
 6. Draudžiama
 
-atlikti kirtimus ir naudoti kitus miško išteklius negavus nustatyta tvarka
+atlikti kirtimus ir naudoti kitus miško išteklius negavus nustatyta tvarka išduoto
 
-išduoto leidimo, kai pagal galiojančius teisės aktus toks leidimas reikalingas.
+leidimo, kai pagal galiojančius teisės aktus toks leidimas reikalingas.
 
 7.
 
@@ -1114,9 +1124,7 @@ ministerija.
 
 10 straipsnis. Miško valdytojų, savininkų ir naudotojų teisė naudotis
 
-mišku bei jo
-
-ištekliais
+mišku bei jo ištekliais
 
 1.
 
@@ -1220,15 +1228,15 @@ inventorizacija, miškų apskaita ir miškų kadastras
 
 Valstybinės miškų inventorizacijos ir miškų apskaitos tikslas – nustatyti miško
 
-išteklius, jų kokybę, teikti informaciją apie miškų gamtinę ir ūkinę būklę. Valstybinė
+išteklius, jų kokybę, teikti informaciją apie miškų gamtinę ir ūkinę būklę.
 
-miškų inventorizacija atliekama visose miško valdose. Miškų urėdijose,
+Valstybinė miškų inventorizacija atliekama visose miško valdose. Miškų
 
-valstybiniuose rezervatuose ir valstybiniuose parkuose inventorizuojama ir
+urėdijose, valstybiniuose rezervatuose ir valstybiniuose parkuose
 
-įtraukiama į apskaitą ne tik miško, bet ir valstybinė ne miško žemė (žemės ūkio
+inventorizuojama ir įtraukiama į apskaitą ne tik miško, bet ir valstybinė ne
 
-naudmenos, vandenys ir kt.).
+miško žemė (žemės ūkio naudmenos, vandenys ir kt.).
 
 2.
 
@@ -1392,13 +1400,13 @@ metinės pagrindinių miško kirtimų normos. Stichinių nelaimių atvejais ir j
 
 ši norma nebuvo įvykdyta ankstesniais metais, skaičiuojant nuo jos patvirtinimo
 
-metų, metinė pagrindinių miško kirtimų norma gali būti didinama Aplinkos
+metų, metinė pagrindinių miško kirtimų norma gali būti didinama Aplinkos ministerijos
 
-ministerijos nustatyta tvarka. Kiti miško valdytojai ir savininkai,
+nustatyta tvarka. Kiti miško valdytojai ir savininkai, nepažeisdami miško
 
-nepažeisdami miško kirtimo taisyklių reikalavimų, gali nukrypti nuo metinės
+kirtimo taisyklių reikalavimų, gali nukrypti nuo metinės miško kirtimų normos,
 
-miško kirtimų normos, bet privalo laikytis dešimtmečio miško kirtimų normos.
+bet privalo laikytis dešimtmečio miško kirtimų normos.
 
 8.
 
@@ -1414,9 +1422,9 @@ IV
 
 SKYRIUS
 
-MIŠKO
+MIŠKO ATKŪRIMAS,
 
-ATKŪRIMAS, AUGINIMAS IR KIRTIMAS
+AUGINIMAS IR KIRTIMAS
 
 15
 
@@ -1474,9 +1482,9 @@ pakeitimai:
 
 Nr.
 
-IX-1152, 2002-10-22,
+IX-1152,
 
-Žin., 2002, Nr. 105-4691 (2002-11-06)
+2002-10-22, Žin., 2002, Nr. 105-4691 (2002-11-06)
 
 15 straipsnis. Tarnybinės žemės dalos
 
@@ -1572,23 +1580,21 @@ patvirtintų miškų priešgaisrinės apsaugos reikalavimų.
 
 Miškų urėdijos bei
 
-valstybiniai parkai ir savivaldybės skiria lėšų bendrai valstybinei
+valstybiniai parkai ir savivaldybės skiria lėšų bendrai valstybinei priešgaisrinio
 
-priešgaisrinio stebėjimo ir gaisrų gesinimo sistemai visose miško valdose.
+stebėjimo ir gaisrų gesinimo sistemai visose miško valdose. Miško valdytojai ir
 
-Miško valdytojai ir savininkai savo lėšomis įgyvendina profilaktines priešgaisrines
+savininkai savo lėšomis įgyvendina profilaktines priešgaisrines priemones
 
-priemones (įrengia priešgaisrines juostas ir laužavietes, valo užšlemštą mišką
-
-ir kita).
+(įrengia priešgaisrines juostas ir laužavietes, valo užšlemštą mišką ir kita).
 
 3.
 
 Stichinių nelaimių miškuose atvejais Aplinkos ministerija turi teisę nustatyti
 
-specialias apsaugos ir nelaimių padarinių šalinimo priemones, kurios yra privalomos
+specialias apsaugos ir nelaimių padarinių šalinimo priemones, kurios yra
 
-visiems miško valdytojams, savininkams ir naudotojams.
+privalomos visiems miško valdytojams, savininkams ir naudotojams.
 
 19 straipsnis.
 
@@ -1864,13 +1870,37 @@ MIŠKŲ
 
 ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1447,
+
+2003-04-03, Žin., 2003, Nr. 38-1692 (2003-04-24)
+
+MIŠKŲ
+
+ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja
+
+kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.
+
+y. nuo 2003 m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-11-06)
+Aušrinė Trapinskienė (2003-05-12)
 
 autrap@lrs.lt
 
