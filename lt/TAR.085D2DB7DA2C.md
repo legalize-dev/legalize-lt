@@ -4,7 +4,7 @@ identifier: "TAR.085D2DB7DA2C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-03-17"
-last_updated: "1994-07-20"
+last_updated: "2001-04-05"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.085D2DB7DA2C"
 department: "Lietuvos Respublikos Seimas"
@@ -18,19 +18,9 @@ eu_legal_act: "true"
 
 Redaguota: 1994
 
-Redaguota:
+Įstatymas skelbtas: Žin., 1994, Nr. 24-378
 
-1994.09.22.
-
-Pakeitimai:
-
-1.Parlamentas,
-
-Įstatymas
-
-Nr.1-566;
-
-1994.07.20.; Žin., 1994, Nr.59-1157
+Neoficialus įstatymo tekstas
 
 LIETUVOS RESPUBLIKOS
 
@@ -38,255 +28,213 @@ LITO PATIKIMUMO
 
 ĮSTATYMAS
 
-1994
-
-m. kovo 17 d. Nr.I-407
+1994 m. kovo 17 d. Nr.I-407
 
 Vilnius
 
-1 straipsnis.
-
-Lito patikimumo užtikrinimas
+1 straipsnis. Lito patikimumo užtikrinimas
 
 Lietuvos
 
-banko  išleisti  į  apyvartą  litai  yra  visiškai
+banko išleisti į apyvartą litai yra visiškai padengti aukso atsargomis ir
 
-padengti aukso
+Lietuvos banko konvertuojamos užsienio valiutos rezervu.
 
-atsargomis ir  Lietuvos   banko    konvertuojamos
-
-užsienio valiutos
-
-rezervu.
-
-2 straipsnis.
-
-Litų kiekis apyvartoje
+2 straipsnis. Litų kiekis apyvartoje
 
 Lietuvos
 
-bankas  garantuoja,   kad   bendras   išleidžiamų į
+bankas garantuoja, kad bendras išleidžiamų į apyvartą litų kiekis bet kuriuo
 
-apyvartą litų
+metu neviršytų Lietuvos banko laikomų aukso atsargų (rinkos kainomis) ir
 
-kiekis bet  kuriuo metu  neviršytų Lietuvos banko
+konvertuojamos užsienio valiutos rezervo (pagal oficialų lito kursą).
 
-laikomų   aukso
+Bendrą
 
-atsargų  (rinkos   kainomis)  ir konvertuojamos
+išleistų į apyvartą litų kiekį sudaro:
 
-užsienio valiutos
+1)
 
-rezervo (pagal oficialų lito kursą).
+banknotai ir monetos, esantys apyvartoje;
 
-Bendrą išleistų
+2)
 
-į apyvartą litų kiekį sudaro:
-
-1) banknotai ir
-
-monetos, esantys apyvartoje;
-
-2) Lietuvos
-
-banke laikomų  kitų bankų  ir sąskaitų turėtojų
-
-litais nominuojamų
+Lietuvos banke laikomų kitų bankų ir sąskaitų turėtojų litais nominuojamų
 
 sąskaitų kreditinių likučių suma;
 
-3) Lietuvos
+3)
 
-banko  vertybinių  popierių  ir  kitų  skolinių
-
-įsipareigojimų
-
-litais suma.
+Lietuvos banko vertybinių popierių ir kitų skolinių įsipareigojimų litais suma.
 
 Užsienio
 
 valiutos rezervą sudaro:
 
-1) Lietuvos
+1)
 
-banko turimi  konvertuojamos valiutos banknotai
+Lietuvos banko turimi konvertuojamos valiutos banknotai ir monetos;
 
-ir monetos;
+2)
 
-2)  Lietuvos
+Lietuvos banko korespondentinėse sąskaitose užsienio bankuose ir Tarptautiniame
 
-banko  korespondentinėse  sąskaitose  užsienio
+valiutos fonde esanti konvertuojamos
 
-bankuose ir
+valiutos
 
-Tarptautiniame valiutos  fonde esanti konvertuojamos
+suma;
 
-valiutos suma;
+3)
 
-3) Lietuvos
+Lietuvos banko turimi skoliniai įsipareigojimai, depozitų sertifikatai,
 
-banko turimi skoliniai įsipareigojimai, depozitų
+obligacijos ir kiti skolos vertybiniai popieriai, mokėtini konvertuojama
 
-sertifikatai, obligacijos
-
-ir kiti  skolos vertybiniai popieriai,
-
-mokėtini
-
-konvertuojama valiuta.
+valiuta.
 
 Lietuvos
 
-bankas  gali keisti  bendrą litų  kiekį apyvartoje,
+bankas gali keisti bendrą litų kiekį apyvartoje, tik atitinkamai keisdamas
 
-tik   atitinkamai
+turimas aukso atsargas ir konvertuojamos užsienio valiutos rezervą.
 
-keisdamas   turimas    aukso   atsargas   ir
+3 straipsnis. Oficialus lito kursas
 
-konvertuojamos
+Oficialus
 
-užsienio valiutos rezervą.
-
-3 straipsnis.
-
-Oficialus lito kursas
-
-Oficialus lito
-
-kursas nustatomas  parinktos bazine valiutos
-
-atžvilgiu.
+lito kursas nustatomas parinktos bazine valiutos atžvilgiu.
 
 Bazinę
 
-valiutą   ir  oficialų  lito  kursą  nustato Lietuvos
+valiutą ir oficialų lito kursą nustato Lietuvos bankas, suderinęs su Lietuvos
 
-bankas, suderinęs su
+Respublikos Vyriausybe.
 
-Lietuvos Respublikos Vyriausybe.
+Tik
 
-Tik esant nepaprastoms
+esant nepaprastoms aplinkybėms, kai nustatyto lito kurso tolesnis išlaikymas
 
-aplinkybėms, kai nustatyto lito kurso
+žlugdytų nacionalinės ekonomikos stabilumą, Lietuvos bankas, suderinęs su
 
-tolesnis išlaikymas
+Lietuvos Respublikos Vyriausybe, gali keisti bazinę valiutą ir (ar) oficialų
 
-žlugdytų nacionalinės  ekonomikos stabilumą,
+lito kursą.
 
-Lietuvos bankas,
+Straipsnio pakeitimai:
 
-suderinęs su  Lietuvos Respublikos  Vyriausybe,
+Nr. I-566,
 
-gali keisti bazinę
+1994 07 20, Žin., 1994, Nr. 59-1157
 
-valiutą ir (ar) oficialų lito kursą.
-
-Pakeitimai:
-
-Nr.1-566;
-
-1994.07.20.; Žin., 1994, Nr.59-1157
-
-4 straipsnis.
-
-Lito keitimas
+4 straipsnis. Lito keitimas
 
 Lietuvos
 
-bankas    garantuoja    aukso    atsargomis    ir
+bankas garantuoja aukso atsargomis ir konvertuojamos užsienio valiutos rezervu
 
-konvertuojamos
+laisvą litų, nurodytų 2 straipsnio antrojoje dalyje, keitimą Lietuvos
 
-užsienio  valiutos rezervu laisvą litų, nurodytų 2
+Respublikos teritorijoje į bazinę valiutą pagal oficialų lito kursą, taip pat
 
-straipsnio
+šios valiutos laisvą keitimą į litus.
 
-antrojoje   dalyje,  keitimą   Lietuvos   Respublikos
+Kita užsienio valiuta
 
-teritorijoje į
-
-bazinę valiutą pagal oficialų lito kursą, taip pat
-
-šios valiutos laisvą
-
-keitimą į litus.
-
-Kita užsienio
-
-valiuta  į  litus  ir  litai  į  ją  Lietuvos
-
-Respublikos
-
-teritorijoje keičiami rinkos kursu.
+į litus ir litai į ją Lietuvos Respublikos teritorijoje keičiami rinkos kursu.
 
 Lietuvos
 
-bankas  nustato visiems     bankams     maksimalius
+bankas nustato visiems bankams maksimalius atlyginimo už keitimo operacijas
 
-atlyginimo už
-
-keitimo operacijas dydžius.
+dydžius.
 
 Komerciniai
 
-bankai  atsako pagal  įstatymus    už    keitimo
+bankai atsako pagal įstatymus už keitimo operacijų tvarkos nesilaikymą.
 
-operacijų tvarkos
+5 straipsnis. Informacija apie litą
 
-nesilaikymą.
+Lietuvos
 
-5 straipsnis.
+bankas ne rečiau kaip kartą per mėnesį skelbia "Valstybės žiniose"
 
-Informacija apie litą
+informaciją apie bendrą litų kiekį apyvartoje ir turimas aukso atsargas bei
 
-Lietuvos bankas
+konvertuojamos užsienio valiutos rezervą.
 
-ne rečiau  kaip kartą  per  mėnesį  skelbia
+6 straipsnis. Įstatymo įsigaliojimas
 
-"Valstybės
+Šis
 
-žiniose" informaciją apie bendrą litų kiekį apyvartoje
+įstatymas įsigalioja nuo 1994 m. balandžio 1 dienos.
 
-ir turimas  aukso
+7 straipsnis. Lietuvos banko įstatymo ir
 
-atsargas  bei konvertuojamos  užsienio valiutos
+Lietuvos banko statuto galiojimas
 
-rezervą.
+Lietuvos
 
-6 straipsnis.
+banko įstatymas ir Lietuvos banko statutas galioja tol, kol bus priimtas naujas
 
-Įstatymo įsigaliojimas
+Lietuvos banko įstatymas, ir tiek, kiek jie neprieštarauja šio įstatymo
 
-Šis įstatymas įsigalioja
+nuostatoms.
 
-nuo 1994 m. balandžio 1 dienos.
+8
 
-7 straipsnis.
+straipsnis. Euro parinkimo bazine valiuta ir oficialaus lito kurso nustatymo
 
-Lietuvos banko  įstatymo  ir  Lietuvos  banko
+ypatumai
 
-statuto galiojimas
+Šio įstatymo 3 straipsnio 3 dalis netaikoma, kai
 
-Lietuvos banko
+bazine valiuta parenkamas euras ir oficialus lito kursas nustatomas pagal euro
 
-įstatymas ir Lietuvos banko statutas galioja
+ir ankstesnės bazinės valiutos santykį valiutų rinkoje.
 
-tol, kol  bus
+Įstatymas papildytas
 
-priimtas  naujas Lietuvos banko įstatymas, ir tiek,
+straipsniu:
 
-kiek jie
+Nr. IX-236, 2001 04 05, Žin., 2001, Nr.
 
-neprieštarauja šio įstatymo nuostatoms.
+34-1126 (2001 04 20)
 
-Skelbiu šį
+Skelbiu
 
-Lietuvos Respublikos Seimo priimtą įstatymą.
+šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS            ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
 
-_
+___________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-566, 1994 07 20, Žin., 1994, Nr. 59-1157
+
+DĖL LIETUVOS RESPUBLIKOS LITO PATIKIMUMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-236, 2001 04 05, Žin., 2001, Nr.
+
+34-1126 (2001 04 20)
+
+LITO PATIKIMUMO ĮSTATYMO PAPILDYMO 8 STRAIPSNIU ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2001 04 20)
+
+autrap@lrs.lt
 
