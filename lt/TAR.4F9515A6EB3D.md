@@ -4,7 +4,7 @@ identifier: "TAR.4F9515A6EB3D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-12-23"
-last_updated: "1999-12-17"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 1999-12-17 iki 2000-12-28
+Suvestinė redakcija nuo 2000-12-29 iki 2001-06-29
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
 
@@ -27,31 +27,33 @@ Vilnius
 
 1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas
 
-Patvirtinti Lietuvos Respublikos teritorijoje galiojančių įstatymų, kurie buvo priimti iki 1990 m. kovo 11 d. ir kurių galiojimas laikinai pratęsiamas iki 2001 m. sausio 1 d., sąrašą ir į jį įrašyti šiuos įstatymus:
+Patvirtinti Lietuvos Respublikos teritorijoje galiojančių įstatymų, kurie buvo priimti iki 1990 m. kovo 11 d. ir kurių galiojimas laikinai pratęsiamas, sąrašą ir į jį įrašyti šiuos įstatymus bei pratęsti jų galiojimą:
 
-1) Lietuvos Respublikos baudžiamąjį kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-147) su vėlesniais pakeitimais ir papildymais;
+1) Lietuvos Respublikos baudžiamąjį kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-147) su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.;
 
-2) Lietuvos Respublikos baudžiamojo proceso kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-148) su vėlesniais pakeitimais ir papildymais;
+2) Lietuvos Respublikos baudžiamojo proceso kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-148) su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.;
 
-3) Lietuvos Respublikos civilinį kodeksą, priimtą 1964 m. liepos 7 d., (Žin., 1964, Nr. 19-138) su vėlesniais pakeitimais ir papildymais;
+3) Lietuvos Respublikos civilinį kodeksą, priimtą 1964 m. liepos 7 d., (Žin., 1964, Nr. 19-138) su vėlesniais pakeitimais ir papildymais – iki 2001 m. liepos 1 d.;
 
-4) Lietuvos Respublikos civilinio proceso kodeksą, priimtą 1964 m. liepos 7 d., (Žin., 1964, Nr. 19-139) su vėlesniais pakeitimais ir papildymais;
+4) Lietuvos Respublikos civilinio proceso kodeksą, priimtą 1964 m. liepos 7 d., (Žin., 1964, Nr. 19-139) su vėlesniais pakeitimais ir papildymais – iki 2001 m. liepos 1 d.;
 
-5) Lietuvos Respublikos santuokos ir šeimos kodeksą, priimtą 1969 m. liepos 16 d., (Žin., 1969, Nr. 21-186) su vėlesniais pakeitimais ir papildymais;
+5) Lietuvos Respublikos santuokos ir šeimos kodeksą, priimtą 1969 m. liepos 16 d., (Žin., 1969, Nr. 21-186) su vėlesniais pakeitimais ir papildymais – iki 2001 m. liepos 1 d.;
 
-6) Lietuvos Respublikos pataisos darbų kodeksą, priimtą 1971 m. liepos 15 d., (Žin., 1971, Nr. 20-142) su vėlesniais pakeitimais ir papildymais;
+6) Lietuvos Respublikos pataisos darbų kodeksą, priimtą 1971 m. liepos 15 d., (Žin., 1971, Nr. 20-142) su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.;
 
-7) Lietuvos Respublikos darbo įstatymų kodeksą, priimtą 1972 m. birželio 1 d., (Žin., 1972, Nr. 18-137) su vėlesniais pakeitimais ir papildymais;
+7) Lietuvos Respublikos darbo įstatymų kodeksą, priimtą 1972 m. birželio 1 d., (Žin., 1972, Nr. 18-137) su vėlesniais pakeitimais ir papildymais – iki 2002 m. sausio 1 d.;
 
-8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais;
+8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.;
 
-9) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d., (Žin., 1989, Nr. 33-445) su vėlesniais pakeitimais ir papildymais;
+9) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d., (Žin., 1989, Nr. 33-445) su vėlesniais pakeitimais ir papildymais – iki 2002 m. sausio 1 d.;
 
-10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117).
+10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117) – iki 2001 m. liepos 1 d.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-1470, 1999-12-07, Žin., 1999, Nr. 107-3101 (1999-12-17), i. k. 0991010ISTAIII-1470
+
+Nr. IX-91, 2000-12-20, Žin., 2000, Nr. 111-3569 (2000-12-29), i. k. 1001010ISTA000IX-91
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -80,6 +82,14 @@ Lietuvos Respublikos aplinkos oro apsaugos įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. VIII-1470, 1999-12-07, Žin., 1999, Nr. 107-3101 (1999-12-17), i. k. 0991010ISTAIII-1470
+
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-91, 2000-12-20, Žin., 2000, Nr. 111-3569 (2000-12-29), i. k. 1001010ISTA000IX-91
 
 Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
