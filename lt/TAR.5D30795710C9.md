@@ -4,7 +4,7 @@ identifier: "TAR.5D30795710C9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-13"
-last_updated: "1996-04-30"
+last_updated: "1996-06-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D30795710C9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,9 @@ entry_into_force_conditions: "Šis įstatymas pradedamas taikyti nuo 1998 m. sau
 ---
 # Lietuvos Respublikos paveldimo ar dovanojamo turto mokesčio įstatymas
 
-@D1=19950613;D2=19960430;D3=19960603
+@D1=19950613;D2=19960620;D3=19960709
 
-@D1=19950613;D2=19960430;D3=19960603
+@D1=19950613;D2=19960620;D3=19960709
 
 Pakeitimai:
 
@@ -28,15 +28,33 @@ Parlamentas,
 
 Įstatymas
 
-{#96C]AA1320 ;} Nr.
+{#19960430AA1320 ;}
 
-1-1320, 96.04.30, Žin., 1996, Nr. 46-1115 (96.05.17)
+Nr. 1-1320, 96.04.30, Žin., 1996, Nr. 46-1115 (96.05.17)
 
 LIETUVOS
 
 RESPUBLIKOS PAVELDIMO AR DOVANOJAMO TURTO MOKESČIO
 
 ĮSTATYMO 8
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2.
+
+Parlamentas,
+
+Įstatymas
+
+{#19960620AA1394 ;}
+
+Nr. 1-1394, 96.06.20, Žin., 1996, Nr. 62-1462 (96.07.02)
+
+LIETUVOS
+
+RESPUBLIKOS PAVELDIMO AR DOVANOJAMO TURTO MOKESČIO
+
+ĮSTATYMO 11
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
@@ -122,9 +140,9 @@ Mokesčio
 
 objektas  yra šio  įstatymo 2  straipsnyje nurodytų
 
-fizinių asmenų  paveldimas
+fizinių asmenų
 
-ar  pagal dovanojimo  sutartį įgyjamas
+paveldimas ar  pagal dovanojimo  sutartį įgyjamas
 
 šio   įstatymo
 
@@ -138,9 +156,9 @@ numatyta dovanojimo
 
 sutarties sudarymo notarinė forma.
 
-4 straipsnis. Apmokestinimo
+4 straipsnis.
 
-vienetas
+Apmokestinimo vienetas
 
 Apmokestinimo
 
@@ -174,9 +192,9 @@ Paveldimo ar
 
 dovanojamo  turto  įvertinimas  yra  pagrindas
 
-apmokestinamajai  vertei
+apmokestinamajai
 
-nustatyti.  Turto,   kuriam  privaloma
+vertei   nustatyti.  Turto,   kuriam  privaloma
 
 teisinė
 
@@ -190,9 +208,9 @@ Turtas
 
 įvertinamas  remiantis rinkos kainomis pagal Lietuvos
 
-Respublikos Vyriausybės
+Respublikos
 
-nustatytą metodiką.
+Vyriausybės nustatytą metodiką.
 
 6 straipsnis.
 
@@ -274,7 +292,7 @@ turtą:
 
 vaikams
 
-(įvaikiams), tėvams (įtėviams)       3 procentai
+(įvaikiams), tėvams (įtėviams)       3 procentai
 
 senoliams,
 
@@ -360,7 +378,7 @@ asmenys,  kurie buvo  palikėjo ar dovanotojo
 
 išlaikomi ne  mažiau
 
-kaip  trejus metus  ir  neturi  savarankiškų
+kaip  trejus metus  ir  neturi  savarankiškų
 
 pajamų, moka  50
 
@@ -462,7 +480,7 @@ biudžetą;
 
 paveldint
 
-ar   pagal   dovanojimo   sutartį   įgyjant  tik
+ar   pagal   dovanojimo   sutartį   įgyjant  tik
 
 kilnojamąjį  turtą
 
@@ -480,9 +498,9 @@ arba  grąžina
 
 valstybinė mokesčių inspekcija Lietuvos Respublikos
 
-mokesčių
+mokesčių administravimo
 
-administravimo įstatymo nustatyta tvarka.
+įstatymo nustatyta tvarka.
 
 Straipsnio
 
@@ -528,83 +546,91 @@ nagrinėjami įstatymų nustatyta tvarka.
 
 Baigiamosios nuostatos
 
-Šis įstatymas
+Šis  įstatymas
 
-pradedamas  taikyti  nuo  1996  m.  liepos  1
+pradedamas  taikyti  nuo  1998  m.  sausio 1
 
 dienos.
 
-Lietuvos Respublikos
+Lietuvos
 
-Vyriausybė, vadovaudamasi šio įstatymo
+Respublikos Vyriausybė, vadovaudamasi šio įstatymo
 
 nuostatomis:
 
-1) iki  1996
+1)  iki  1997
 
-m.  vasario 1  d. nustato ar įsteigia valstybės
+m. birželio 1 d. nustato ar įsteigia valstybės
 
 institucijas
 
-turto,   kuriam  privaloma   teisinė  registracija,
+turto,   kuriam  privaloma  teisinė  registracija,
 
 atskiroms rūšims
 
 įvertinti;
 
-2) iki 1996 m.
+2) iki 1997 m.
 
-balandžio 1 dienos:
+liepos 1 dienos:
 
-a) nustato
+a)  nustato
 
-atskirų  turto  rūšių  apmokestinamosios  vertės
+atskirų  turto  rūšių  apmokestinamosios vertės
 
 apskaičiavimo
 
-tvarką  bei turto  įvertinimo pagal  rinkos  kainas
+tvarką  bei  turto  įvertinimo pagal rinkos kainas
 
 metodiką;
 
 b)
 
-pateikia    Lietuvos   Respublikos   Seimui   įstatymų,
+pateikia   Lietuvos   Respublikos   Seimui   įstatymų,
 
 nustatančių
 
 atsakomybę už šio įstatymo pažeidimus, projektus;
 
-c) pateikia
+c)   pateikia
 
-Lietuvos Respublikos civilinio kodekso pakeitimo
-
-projektą,
-
-numatantį,  kad  dovanojimo  sutartys,  kai  dovanojamų
-
-pinigų suma ir
-
-vertybinių popierių vertė viršija 30000 litų, turi
-
-būti tvirtinamos
-
-notarine tvarka;
-
-d)  pateikia
-
-Lietuvos   Respublikos   notariato   įstatymo
+Lietuvos   Respublikos   civilinio   kodekso
 
 pakeitimo
 
-projektą,   numatantį,  kad   notarų  atlyginimas   už
+projektą,  numatantį,  kad  dovanojimo  sutartys,  kai
 
-dovanojimo sutarčių
+dovanojamų  pinigų
 
-tvirtinimą ir  paveldėjimo teisės  dokumentų
+suma  ir vertybinių popierių vertė viršija 30
+
+000 litų, turi būti
+
+tvirtinamos notarine tvarka;
+
+d)   pateikia
+
+Lietuvos   Respublikos   notariato  įstatymo
+
+pakeitimo
+
+projektą,   numatantį,   kad  notarų  atlyginimas  už
+
+dovanojimo
+
+sutarčių  tvirtinimą  ir paveldėjimo teisės dokumentų
 
 išdavimą padengtų
 
-tik minimalias paslaugos išlaidas.
+tik minimalias paslaugų išlaidas.
+
+Straipsnio
+
+pakeitimai:
+
+{#19960620AA1394 ;}
+
+Nr. 1-1394, 96.06.20, Žin., 1996, Nr. 62-1462 (96.07.02)
 
 Skelbiu šį
 
