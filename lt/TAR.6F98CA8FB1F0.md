@@ -4,7 +4,7 @@ identifier: "TAR.6F98CA8FB1F0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-23"
-last_updated: "2001-07-18"
+last_updated: "2001-09-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6F98CA8FB1F0"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos prekyviečių mokesčio įstatymas
 
-Suvestinė redakcija nuo 2001-07-18 iki 2001-08-31
+Įstatymas netenka galios 2004-01-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1529, 2003-04-22, Žin., 2003, Nr. 47-2059 (2003-05-14), i. k. 1031010ISTA0IX-1529
+
+Lietuvos Respublikos prekyviečių mokesčio įstatymo pripažinimo netekusiu galios įstatymas
+
+Suvestinė redakcija nuo 2001-09-01 iki 2003-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 66-1246, i. k. 0931010ISTA000I-309
 
@@ -145,6 +153,14 @@ Nr. IX-436, 2001-07-10, Žin., 2001, Nr. 62-2234 (2001-07-18), i. k. 1011010ISTA
 
 Lietuvos Respublikos prekyviečių mokesčio įstatymo 1, 3, 5, 9, 10 ir 11 straipsnių pakeitimo įstatymas
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-397, 2001-06-26, Žin., 2001, Nr. 62-2214 (2001-07-18), i. k. 1011010ISTA00IX-397
+
+Lietuvos Respublikos prekyviečių mokesčio įstatymo 10 straipsnio pakeitimo įstatymas
+
 1 straipsnis. Šis įstatymas reglamentuoja prekyviečių mokesčio ėmimą. Prekyvietė - specialiai įrengta vieta, kurioje reguliariai arba tam tikromis savaitės dienomis už nustatytą mokestį prekiauja prekių gamintojai ar kiti asmenys. Prekyvietėse turi būti paskirtas plotas ar prekybos vietos prekiauti tik žemės ūkio produkcija ir maisto prekėmis.
 
 Prekyviečių mokestį moka juridiniai asmenys, miesto, rajono valdybos sprendimu eksploatuojantys prekyvietes, kuriose yra paskirta vietų prekiauti ne žemės ūkio produkcija ir ne maisto prekėmis.
@@ -161,7 +177,7 @@ Nr. I-1318, 1996-04-30, Žin., 1996, Nr. 46-1113 (1996-05-17), i. k. 0961010ISTA
 
 8 straipsnis. Prekyviečių mokesčio apskaičiavimą bei mokėjimą kontroliuoja valstybinės mokesčių inspekcijos.
 
-10 straipsnis. Nustačius, kad mokesčio apyskaitoje prekyviečių mokesčio suma sumažinta, į biudžetą trūkstama šio mokesčio suma ir bauda išieškoma Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+10 straipsnis. Mokėtojams, pažeidusiems šio įstatymo nuostatas, baudos skiriamos Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 
 Jeigu prekyvietėje ne žemės ūkio produkcija ir ne maisto prekėmis prekiaujama tose vietose, kurios yra skirtos prekiauti žemės ūkio produkcija ir maisto prekėmis, juridiniam asmeniui, eksploatuojančiam prekyvietę, skiriama 50 procentų jo mėnesinių pajamų už prekyvietės eksploatavimą dydžio bauda. Baudą skiria ir ne ginčo tvarka iš juridinio asmens išieško valstybinė mokesčių inspekcija.
 
@@ -170,4 +186,6 @@ Straipsnio pakeitimai:
 Nr. I-1318, 1996-04-30, Žin., 1996, Nr. 46-1113 (1996-05-17), i. k. 0961010ISTA00I-1318
 
 Nr. IX-436, 2001-07-10, Žin., 2001, Nr. 62-2234 (2001-07-18), i. k. 1011010ISTA00IX-436
+
+Nr. IX-397, 2001-06-26, Žin., 2001, Nr. 62-2214 (2001-07-18), i. k. 1011010ISTA00IX-397
 
