@@ -4,7 +4,7 @@ identifier: "TAR.62AC77FBC51D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-13"
-last_updated: "1996-08-01"
+last_updated: "1998-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.62AC77FBC51D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas
 
-Suvestinė redakcija nuo 1996-08-01 iki 1998-06-30
+Suvestinė redakcija nuo 1998-07-01 iki 1998-10-13
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 55-1351, i. k. 0951010ISTA000I-938
 
@@ -205,11 +205,11 @@ Straipsnio pakeitimai:
 
 Nr. I-1481, 1996-07-11, Žin., 1996, Nr. 71-1714 (1996-07-26), i. k. 0961010ISTA00I-1481
 
-14 straipsnis. Muitų lengvatos
+14 straipsnis. Neteko galios nuo 1998-07-01
 
-Užsienio investuotojų įnašai į formuojamą arba didinamą įmonės įstatinį (nuosavą) kapitalą naudojami kaip ilgalaikis turtas, įvežami be muito mokesčių.
+Straipsnio naikinimas:
 
-Jeigu įmonė likviduojama steigėjo, akcininkų arba pajininkų sprendimu, užsienio investuotojams priklausantis turtas arba jo dalis, atitinkanti užsienio kapitalo investicijos dydį, išvežama be muito mokesčių.
+Nr. VIII-628, 1998-02-17, Žin. 1998, Nr. 25-631 (1998-03-13), i. k. 0981010ISTAVIII-628
 
 15 straipsnis. Nuosavybės teisės į teisėtai gauta pelną, pajamas arba dividendus įgijimas
 
@@ -282,4 +282,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1481, 1996-07-11, Žin., 1996, Nr. 71-1714 (1996-07-26), i. k. 0961010ISTA00I-1481
 
 Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 1, 2, 13, 17, 19 straipsnių papildymo ir pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-628, 1998-02-17, Žin., 1998, Nr. 25-631 (1998-03-13), i. k. 0981010ISTAVIII-628
+
+Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 14 straipsnio pripažinimo netekusiu galios įstatymas
 
