@@ -4,7 +4,7 @@ identifier: "TAR.027489452776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-09"
-last_updated: "2002-12-05"
+last_updated: "2003-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.027489452776"
 department: "Lietuvos Respublikos Seimas"
@@ -3908,33 +3908,15 @@ reikalavimus. Jų turi laikytis visi tokius įrenginius turintys telekomunikacij
 
 operatoriai ir paslaugų teikėjai.
 
-4. Telekomunikacijų operatoriai ir
-
-telekomunikacijų paslaugų teikėjai turi teisę fiksuoti telekomunikacijų įvykius
-
-ir jų dalyvius tik tiek, kiek yra būtina telekomunikacijų operatorių ir
-
-telekomunikacijų paslaugų teikėjų ūkinei veiklai užtikrinti. Telekomunikacijų
-
-operatoriai ir telekomunikacijų paslaugų teikėjai privalo įstatymų nustatyta
-
-tvarka turimą ir nusikaltimų užkardymui, tyrimui, nustatymui reikalingą
-
-informaciją pateikti operatyvinės veiklos subjektams, kvotos ir tardymo
-
-organams, prokurorui, teismui ar teisėjui. Šią informaciją telekomunikacijų
-
-operatoriai teikia operatyvinės veiklos subjektų pagrindinėms institucijoms
-
-pagal jų paklausimus elektroniniu būdu ir nedelsdami.
+4. Telekomunikacijų operatoriai ir telekomunikacijų paslaugų teikėjai turi teisę fiksuoti telekomunikacijų įvykius ir jų dalyvius tik tiek, kiek yra būtina telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų ūkinei veiklai užtikrinti. Telekomunikacijų operatoriai ir telekomunikacijų paslaugų teikėjai privalo įstatymų nustatyta tvarka turimą ir nusikalstamų veikų užkardymui, tyrimui, nustatymui reikalingą informaciją pateikti operatyvinės veiklos subjektams, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui. Šią informaciją telekomunikacijų operatoriai teikia operatyvinės veiklos subjektų pagrindinėms institucijoms pagal jų paklausimus elektroniniu būdu ir nedelsdami.
 
 5. Kai yra motyvuotas teismo sprendimas,
 
 telekomunikacijų operatoriai ir telekomunikacijų paslaugų teikėjai privalo
 
-sudaryti techninę galimybę operatyvinės veiklos subjektams, kvotos ir tardymo
+sudaryti techninę galimybę operatyvinės veiklos subjektams, ikiteisminio tyrimo
 
-organams įstatymų nustatyta tvarka kontroliuoti telekomunikacijų tinklais
+įstaigoms įstatymų nustatyta tvarka kontroliuoti telekomunikacijų tinklais
 
 perduodamos informacijos turinį. Tam reikalingos įrangos įsigijimas ir
 
@@ -3987,6 +3969,12 @@ Respublikos Konstitucinis Teismas, Nutarimas
 Nr. IX-1221,
 
 2002-12-05, Žin., 2002, Nr. 123-5514 (2002-12-24)
+
+Nr.
+
+IX-1473,
+
+2003-04-03, Žin., 2003, Nr. 38-1718 (2003-04-24)
 
 AŠTUNTASIS
 
@@ -4048,11 +4036,11 @@ pakartotinio pažeidimo atveju;
 
 reguliavimo tarnybos nustatytą ilgesnį terminą.
 
-3. Jei ūkio
+3. Jei ūkio subjektas
 
-subjektas per šio straipsnio 2 dalyje nurodytą laiką nepašalina pažeidimų,
+per šio straipsnio 2 dalyje nurodytą laiką nepašalina pažeidimų, Ryšių
 
-Ryšių reguliavimo tarnyba turi teisę per 2 mėnesius nuo pirmo pranešimo apie
+reguliavimo tarnyba turi teisę per 2 mėnesius nuo pirmo pranešimo apie
 
 pažeidimą dienos imtis priemonių, užtikrinančių teisės aktų vykdymą, įskaitant
 
@@ -4144,9 +4132,9 @@ informacijos, kuri reikalinga patikrinti, ar laikomasi įstatymo nuostatų,
 
 suteikimo procedūras ir skelbti paslaugų kokybės ir kainos apžvalgas, aiškiai
 
-apibrėžtiems statistiniams tikslams, rinkos tyrimui bei kitiems Ryšių
+apibrėžtiems statistiniams tikslams, rinkos tyrimui bei kitiems Ryšių reguliavimo
 
-reguliavimo tarnybos uždaviniams bei funkcijoms atlikti.
+tarnybos uždaviniams bei funkcijoms atlikti.
 
 2. Ryšių
 
@@ -4168,9 +4156,9 @@ informaciją.
 
 dydžio nustatymas
 
-1. Ūkio subjektams
+1. Ūkio subjektams skiriamų
 
-skiriamų ekonominių sankcijų dydis nustatomas atsižvelgiant į:
+ekonominių sankcijų dydis nustatomas atsižvelgiant į:
 
 1) pažeidimu
 
@@ -4180,9 +4168,9 @@ padarytos žalos dydį;
 
 trukmę;
 
-3) ūkio subjekto atsakomybę
+3) ūkio subjekto
 
-lengvinančias ar sunkinančias aplinkybes;
+atsakomybę lengvinančias ar sunkinančias aplinkybes;
 
 4) ūkio subjektui
 
@@ -4208,7 +4196,9 @@ tyrimą, slėpė įvykdytą pažeidimą, tęsė pažeidimą nepaisydami Ryšių 
 
 tarnybos įpareigojimo nutraukti neteisėtus veiksmus arba pakartotinai įvykdė
 
-pažeidimą, už kurį ūkio subjektams jau buvo paskirtos šio Įstatymo nustatytos sankcijos.
+pažeidimą, už kurį ūkio subjektams jau buvo paskirtos šio Įstatymo nustatytos
+
+sankcijos.
 
 4. Ryšių
 
@@ -4272,13 +4262,13 @@ reguliavimo tarnybos sprendimu, jos turi teisę kreiptis į teismą įstatymų
 
 nustatyta tvarka.
 
-4. Ryšių
+4. Ryšių reguliavimo
 
-reguliavimo tarnybos ginčai nagrinėjami viešai, išskyrus atvejus, kai uždaras
+tarnybos ginčai nagrinėjami viešai, išskyrus atvejus, kai uždaras posėdis
 
-posėdis būtinas siekiant apsaugoti valstybės, tarnybos ar komercines paslaptis
+būtinas siekiant apsaugoti valstybės, tarnybos ar komercines paslaptis arba
 
-arba užtikrinti asmens teisę į privataus gyvenimo neliečiamumą.
+užtikrinti asmens teisę į privataus gyvenimo neliečiamumą.
 
 5. Ryšių
 
@@ -4334,27 +4324,27 @@ tęsti licencijose ir leidimuose, išduotuose iki šio Įstatymo įsigaliojimo
 
 dienos, nurodytą veiklą, kiek tai neprieštarauja šio Įstatymo nuostatoms.
 
-2. Ūkio subjektai, šio Įstatymo įsigaliojimo
+2. Ūkio subjektai, šio Įstatymo
 
-metu turintys licencijas ar leidimus verstis telekomunikacine veikla, turi
+įsigaliojimo metu turintys licencijas ar leidimus verstis telekomunikacine
 
-teisę per 2 mėnesius nuo šio Įstatymo įsigaliojimo dienos pareikšti Ryšių
+veikla, turi teisę per 2 mėnesius nuo šio Įstatymo įsigaliojimo dienos
 
-reguliavimo tarnybai, kad šio Įstatymo nuostatos, palyginti su galiojančių
+pareikšti Ryšių reguliavimo tarnybai, kad šio Įstatymo nuostatos, palyginti su
 
-licencijų ir (ar) leidimų nuostatomis, sumažins šių ūkio subjektų teises. Ryšių
+galiojančių licencijų ir (ar) leidimų nuostatomis, sumažins šių ūkio subjektų
 
-reguliavimo tarnyba, nustačiusi, kad ūkio subjekto nurodytos aplinkybės yra
+teises. Ryšių reguliavimo tarnyba, nustačiusi, kad ūkio subjekto nurodytos aplinkybės
 
-teisingos ir jos sukels šiam ūkio subjektui nepagrįstų ir siekiamiems tikslams
+yra teisingos ir jos sukels šiam ūkio subjektui nepagrįstų ir siekiamiems
 
-neproporcingų nuostolių, turi teisę nustatyti ne ilgesnį kaip 9 mėnesių
+tikslams neproporcingų nuostolių, turi teisę nustatyti ne ilgesnį kaip 9
 
-pereinamąjį laikotarpį nuo Įstatymo įsigaliojimo, jei tai neturės įtakos kitų
+mėnesių pereinamąjį laikotarpį nuo Įstatymo įsigaliojimo, jei tai neturės
 
-ūkio subjektų teisėms, nurodydama, kokie Įstatymo įpareigojimai konkretiems
+įtakos kitų ūkio subjektų teisėms, nurodydama, kokie Įstatymo įpareigojimai
 
-ūkio subjektams nėra taikomi ir kokios teisės išlaikomos.
+konkretiems ūkio subjektams nėra taikomi ir kokios teisės išlaikomos.
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -4462,6 +4452,28 @@ TELEKOMUNIKACIJŲ
 
 24, 52, 57 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1473,
+
+2003-04-03, Žin., 2003, Nr. 38-1718 (2003-04-24)
+
+TELEKOMUNIKACIJŲ
+
+ĮSTATYMO 57 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja
+
+kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341),
+
+t.y. nuo 2003 m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
@@ -4506,7 +4518,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-01-17)
+Aušrinė Trapinskienė (2003-05-09)
 
 autrap@lrs.lt
 
