@@ -4,7 +4,7 @@ identifier: "TAR.8C4914C2ACED"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-02-23"
-last_updated: "1993-10-13"
+last_updated: "1993-12-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8C4914C2ACED"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS SEIMAS
 
-Suvestinė redakcija nuo 1993-10-13 iki 1993-12-17
+Suvestinė redakcija nuo 1993-12-18
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 40-0; Žin. 1993, Nr.8-169, i. k. 0931010ISTA0000I-82
 
@@ -531,11 +531,11 @@ Saugumo tarnyba
 
 908960
 
-108920
+258920
 
 77866
 
-800040
+650040
 
 Standartizacijos tarnyba prie Ekonomikos ministerijos
 
@@ -1339,6 +1339,8 @@ Priedo pakeitimai:
 
 Nr. I-264, 1993-10-05, Žin., 1993, Nr. 52-1002 (1993-10-13), i. k. 0931010ISTA000I-264
 
+Nr. I-327, 1993-12-09, Žin., 1993, Nr. 70-1307 (1993-12-18), i. k. 0931010ISTA000I-327
+
 Lietuvos Respublikos 1993 m. vasario 23 d.
 
 įstatymo Nr. I-82
@@ -1748,6 +1750,14 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. I-264, 1993-10-05, Žin., 1993, Nr. 52-1002 (1993-10-13), i. k. 0931010ISTA000I-264
+
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1993 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų" 1 priedėlio "Lietuvos Respublikos 1993 metų valstybės biudžetas" pakeitimo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-327, 1993-12-09, Žin., 1993, Nr. 70-1307 (1993-12-18), i. k. 0931010ISTA000I-327
 
 Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1993 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų" 1 priedėlio "Lietuvos Respublikos 1993 metų valstybės biudžetas" pakeitimo
 
