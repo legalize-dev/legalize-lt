@@ -4,7 +4,7 @@ identifier: "TAR.746227138BCB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-01"
-last_updated: "2003-10-14"
+last_updated: "2004-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.746227138BCB"
 department: "Lietuvos Respublikos Seimas"
@@ -53,11 +53,19 @@ diskriminaciją dėl asmens lyties.
 
 šeimos ir privataus gyvenimo srityse.
 
+3. Šio įstatymo nuostatos suderintos su
+
+Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+
 Straipsnio pakeitimai:
 
 Nr. IX-956,
 
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
+
+Nr. IX-2346,
+
+2004-07-13, Žin., 2004, Nr. 115-4280 (2004-07-24)
 
 2 straipsnis. Pagrindinės šio įstatymo
 
@@ -135,6 +143,32 @@ Nr. IX-956,
 
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
 
+2(1)
+
+straipsnis. Įrodinėjimo pareiga
+
+Teismuose ar kitose kompetentingose
+
+institucijose nagrinėjant fizinių asmenų skundus ir pareiškimus, taip pat
+
+asmenų ginčus dėl diskriminacijos lyties pagrindu, preziumuojama,
+
+kad tiesioginės
+
+ar netiesioginės diskriminacijos faktas buvo. Skundžiamas asmuo ar institucija
+
+turi įrodyti, kad lygių teisių principas nebuvo pažeistas.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+IX-2346,
+
+2004-07-13, Žin., 2004, Nr. 115-4280 (2004-07-24)
+
 II
 
 SKYRIUS
@@ -189,9 +223,9 @@ lygias teises
 
 privalo užtikrinti moterims ir vyrams vienodas sąlygas:
 
-1) priimant į profesinio mokymo įstaigas,
+1) priimant į profesinio mokymo
 
-aukštesniąsias, aukštąsias mokyklas ir kvalifikacijos kėlimo kursus;
+įstaigas, aukštesniąsias, aukštąsias mokyklas ir kvalifikacijos kėlimo kursus;
 
 2) skiriant stipendijas bei teikiant
 
@@ -317,11 +351,11 @@ studijų
 
 institucijų veiksmai
 
-Švietimo įstaigų, mokslo ir studijų
+Švietimo įstaigų, mokslo ir studijų institucijų
 
-institucijų veiksmai pripažįstami pažeidžiančiais moterų ir vyrų lygias teises,
+veiksmai pripažįstami pažeidžiančiais moterų ir vyrų lygias teises, jeigu dėl
 
-jeigu dėl asmens lyties:
+asmens lyties:
 
 1) taikomi skirtingi reikalavimai ir
 
@@ -595,9 +629,9 @@ jeigu moterų ir vyrų lygių galimybių kontrolierius nenusprendžia kitaip.
 
 1. Skunde turi būti:
 
-1) adresatas - moterų ir vyrų lygių galimybių
+1) adresatas - moterų ir vyrų lygių
 
-kontrolierius;
+galimybių kontrolierius;
 
 2) pareiškėjo vardas, pavardė ar
 
@@ -763,13 +797,13 @@ bei veiksmų juridinis įvertinimas. Pažymą pasirašo moterų ir vyrų lygių
 
 galimybių kontrolierius.
 
-4. Su tyrimo rezultatais
+4. Su tyrimo rezultatais supažindinamas
 
-supažindinamas skundo autorius, institucijos, kurioje buvo atliekamas tyrimas,
+skundo autorius, institucijos, kurioje buvo atliekamas tyrimas, vadovas ir
 
-vadovas ir asmuo, kurio veiksmai buvo tiriami. Jiems išsiunčiami arba įteikiami
+asmuo, kurio veiksmai buvo tiriami. Jiems išsiunčiami arba įteikiami pažymos
 
-pažymos nuorašai.
+nuorašai.
 
 24 straipsnis. Moterų ir vyrų lygių
 
@@ -861,11 +895,11 @@ darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Kiti priedai ar premijos moter
 
 ir vyrų lygių galimybių kontrolieriui nemokami.
 
-2. Pradėjus įgyvendinti Lietuvos
+2. Pradėjus įgyvendinti Lietuvos Respublikos
 
-Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo
+valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo
 
-įstatymo nustatytą darbo apmokėjimo sistemą, moterų ir vyrų lygių galimybių
+nustatytą darbo apmokėjimo sistemą, moterų ir vyrų lygių galimybių
 
 kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
 
@@ -953,9 +987,9 @@ Respublikos Vyriausybei
 
 Pasiūlyti Vyriausybei per 10 dienų nuo
 
-šio įstatymo įsigaliojimo Moterų ir vyrų lygių galimybių kontrolieriaus tarnybai
+šio įstatymo įsigaliojimo Moterų ir vyrų lygių galimybių kontrolieriaus
 
-skirti patalpas.
+tarnybai skirti patalpas.
 
 30 straipsnis. Įstatymo įsigaliojimas
 
@@ -970,6 +1004,42 @@ priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                              VALDAS
 
 ADAMKUS
+
+Lietuvos
+
+Respublikos moterų
+
+ir
+
+vyrų lygių galimybių įstatymo
+
+priedas
+
+Įgyvendinami Europos
+
+Sąjungos teisės aktai
+
+1. 1997 m. gruodžio 15 d. Tarybos
+
+direktyva 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose.
+
+2. 1998 m. liepos 13 d. Tarybos
+
+direktyva 98/52/EB, išplečianti Direktyvos 97/80/EB dėl įrodinėjimo
+
+pareigos diskriminacijos dėl lyties bylose taikymą Didžiosios Britanijos ir
+
+Šiaurės Airijos Jungtinei Karalystei.
+
+Įstatymas
+
+papildytas priedu:
+
+Nr.
+
+IX-2346,
+
+2004-07-13, Žin., 2004, Nr. 115-4280 (2004-07-24)
 
 ______________
 
@@ -1059,13 +1129,31 @@ MOTERŲ
 
 IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 27 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2346,
+
+2004-07-13, Žin., 2004, Nr. 115-4280 (2004-07-24)
+
+MOTERŲ
+
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO, ĮSTATYMO PAPILDYMO
+
+2(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-11-05)
+Aušrinė Trapinskienė (2004-09-06)
 
 autrap@lrs.lt
 
