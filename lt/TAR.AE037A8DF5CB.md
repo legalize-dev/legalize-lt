@@ -4,7 +4,7 @@ identifier: "TAR.AE037A8DF5CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-22"
-last_updated: "2002-02-13"
+last_updated: "2003-10-03"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AE037A8DF5CB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,18 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įstatymo "Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto" 3 ir 6 straipsnių pakeitimo įstatymas
+
+Įstatymas netenka galios 2004-09-21:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2436, 2004-09-14, Žin., 2004, Nr. 141-5156 (2004-09-21), i. k. 1041010ISTA0IX-2436
+
+Lietuvos Respublikos įstatymo "Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto" ir jį keitusių įstatymų pripažinimo netekusiais galios įstatymas
+
+Suvestinė redakcija nuo 2003-10-03 iki 2004-09-20
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 15-550, i. k. 1021010ISTA00IX-724
 
 LIETUVOS RESPUBLIKOS
 
@@ -47,4 +59,14 @@ Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi,
 LIETUVOS RESPUBLIKOS
 
 SEIMO PIRMININKAS                                                                         ARTŪRAS PAULAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2003-09-30, Žin., 2003, Nr. 93-4223 (2003-10-03); Žin., 2003, Nr. 100-0 (2003-10-24), i. k. 1031000NUTARG036367
+
+Dėl teisės aktų, kuriais buvo sprendžiami iki Lietuvos nepriklausomos valstybės atkūrimo Lietuvoje veikusių valstybinių profesinių sąjungų valdyto turto klausimai, atitikties Lietuvos Respublikos Konstitucijai
 
