@@ -4,7 +4,7 @@ identifier: "TAR.C7E57DF3CEC5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-07"
-last_updated: "2004-08-07"
+last_updated: "2004-11-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2004-08-07 iki 2004-11-16
+Suvestinė redakcija nuo 2004-11-17 iki 2009-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
 
@@ -175,7 +175,11 @@ Nr. VIII-1558, 2000-02-17, Žin., 2000, Nr. 20-495 (2000-03-08), i. k. 1001010IS
 
 Nr. IX-1665, 2003-07-01, Žin., 2003, Nr. 73-3345 (2003-07-23), i. k. 1031010ISTA0IX-1665
 
-3. Investuojant į steigiamą ūkio subjektą, kurio veikla pagal Lietuvos Respublikos įmonių įstatymą ir kitus tą veiklos sritį reglamentuojančius įstatymus yra licencijuojama, ūkio subjektas savo veiklai privalo įsigyti licenciją įstatymų ir kitų teisės aktų nustatyta tvarka.
+3. Investuojant į steigiamą ūkio subjektą, kurio veikla pagal tą veiklos sritį reglamentuojančius įstatymus yra licencijuojama, ūkio subjektas savo veiklai privalo įsigyti licenciją įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2527, 2004-11-02, Žin., 2004, Nr. 167-6106 (2004-11-17), i. k. 1041010ISTA0IX-2527
 
 9 straipsnis. Investavimas laisvosiose ekonominėse zonose
 
@@ -263,7 +267,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
 
-2. Investavimo skatinimo būdai taikomi tiek, kiek tai neprieštarauja Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės įstatymo nuostatoms.
+2. Investavimo skatinimo būdai taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2527, 2004-11-02, Žin., 2004, Nr. 167-6106 (2004-11-17), i. k. 1041010ISTA0IX-2527
 
 Straipsnio pakeitimai:
 
@@ -348,4 +356,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
 
 Lietuvos Respublikos investicijų įstatymo 13 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2527, 2004-11-02, Žin., 2004, Nr. 167-6106 (2004-11-17), i. k. 1041010ISTA0IX-2527
+
+Lietuvos Respublikos investicijų įstatymo 8 ir 13 straipsnių pakeitimo įstatymas
 
