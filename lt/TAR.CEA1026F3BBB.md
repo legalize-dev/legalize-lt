@@ -4,7 +4,7 @@ identifier: "TAR.CEA1026F3BBB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-04-08"
-last_updated: "1998-11-17"
+last_updated: "1999-10-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CEA1026F3BBB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo:
 
-Ramunė Lūžaitė (1998.12.02)
+Ramunė Lūžaitė (1999.10.28)
 
 Įstatymas
 
@@ -35,63 +35,75 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-263, 97.06.17,
+Nr. VIII-263,
 
-Žin., 1997, Nr.64-1495 (97.07.04)
+97.06.17, Žin., 1997, Nr.64-1495 (97.07.04)
 
-LIETUVOS RESPUBLIKOS SPECIALIOS
+LIETUVOS
 
-PASKIRTIES AKCINĖS BENDROVĖS "LIETUVOS ENERGIJA" REORGANIZAVIMO BEI
+RESPUBLIKOS SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS "LIETUVOS
 
-ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATYMO 5 STRAIPSNIO
+ENERGIJA" REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO
 
-PAKEITIMO ĮSTATYMAS
+SAVIVALDYBĖMS ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 2.
 
-Lietuvos Respublikos Seimas,
+Lietuvos
 
-Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-835, 98.07.02,
+Nr. VIII-835,
 
-Žin., 1998, Nr.65-1874 (98.07.22)
+98.07.02, Žin., 1998, Nr.65-1874 (98.07.22)
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS “LIETUVOS ENERGIJA” REORGANIZAVIMO BEI
+RESPUBLIKOS SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS “LIETUVOS ENERGIJA”
 
-ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATYMO PAPILDYMO 4(1)
+REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATYMO
 
-STRAIPSNIU ĮSTATYMAS
+PAPILDYMO 4(1) STRAIPSNIU ĮSTATYMAS
 
 3.
 
-Lietuvos Respublikos Seimas,
+Lietuvos
 
-Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-930, 98.11.17,
+Nr. VIII-930,
 
-Žin., 1998, Nr.105-2901 (98.12.02)
+98.11.17, Žin., 1998, Nr.105-2901 (98.12.02)
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS “LIETUVOS ENERGIJA” REORGANIZAVIMO BEI
+RESPUBLIKOS SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS “LIETUVOS ENERGIJA”
 
-ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATYMO 5 STRAIPSNIO
+REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATYMO
 
-PAKEITIMO ĮSTATYMAS
+5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1366, 99.10.19, Žin., 1999, Nr.90-2642 (99.10.27)
+
+LIETUVOS
+
+RESPUBLIKOS SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS „LIETUVOS
+
+ENERGIJA“ REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS
+
+ĮSTATYMO 4(1) STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 *** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
-SPECIALIOS
+SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS “LIETUVOS ENERGIJA”
 
-PASKIRTIES AKCINĖS BENDROVĖS “LIETUVOS ENERGIJA” REORGANIZAVIMO BEI ŠILUMOS
-
-ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS
+REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS
 
 ĮSTATYMAS
 
@@ -101,27 +113,25 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato specialios paskirties akcinės
+Šis įstatymas nustato specialios
 
-bendrovės “Lietuvos energija” šilumos ūkio valdymo decentralizavimą
+paskirties akcinės bendrovės “Lietuvos energija” šilumos ūkio valdymo
 
-reorganizuojant šią bendrovę skaidymo būdu, atskiriant šilumos ūkį bei
+decentralizavimą reorganizuojant šią bendrovę skaidymo būdu, atskiriant šilumos
 
-įsteigiant naujas specialios paskirties akcines bendroves ir perduodant jose
+ūkį bei įsteigiant naujas specialios paskirties akcines bendroves ir perduodant
 
-esantį turtą ir valstybei priklausančias akcijas savivaldybių nuosavybėn.
+jose esantį turtą ir valstybei priklausančias akcijas savivaldybių nuosavybėn.
 
-2 straipsnis. Specialios paskirties akcinės
+2 straipsnis. Specialios paskirties
 
-bendrovės “Lietuvos
+akcinės bendrovės “Lietuvos energija” reorganizavimas
 
-energija” reorganizavimas
+Specialios paskirties akcinės bendrovės
 
-Specialios paskirties akcinės bendrovės “Lietuvos
+“Lietuvos energija” šilumos ūkio valdymas decentralizuojamas reorganizuojant
 
-energija” šilumos ūkio valdymas decentralizuojamas reorganizuojant šią
-
-bendrovę, atskiriant jai priklausančius Vilniaus (įtraukiant Vilniaus
+šią bendrovę, atskiriant jai priklausančius Vilniaus (įtraukiant Vilniaus
 
 elektrinę), Kauno (įtraukiant Kauno elektrinę), Klaipėdos, Šiaulių, Panevėžio
 
@@ -135,89 +145,89 @@ veiklos sričių”  bei šio įstatymo nustatyta tvarka. Miestų ir rajonų (i
 
 Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir Alytaus miestų) savivaldybių
 
-pageidavimu specialios paskirties akcinės bendrovės “Lietuvos energija”
+pageidavimu specialios paskirties akcinės bendrovės “Lietuvos energija” reorganizavimo
 
-reorganizavimo metu iš regioninių šilumos tiekimo filialų gali būti atskiriamas
+metu iš regioninių šilumos tiekimo filialų gali būti atskiriamas konkrečios
 
-konkrečios savivaldybės teritorijoje esantis regioninio filialo padalinys ir jo
+savivaldybės teritorijoje esantis regioninio filialo padalinys ir jo pagrindu
 
-pagrindu steigiama specialios paskirties akcinė bendrovė.
+steigiama specialios paskirties akcinė bendrovė.
 
 3 straipsnis. Specialios paskirties akcinės
 
-bendrovės “Lietuvos
+bendrovės “Lietuvos energija” reorganizavimo
 
-energija” reorganizavimo papildomos
+papildomos nuostatos
 
-nuostatos
+1. Naujai steigiamoms specialios
 
-1. Naujai steigiamoms specialios paskirties akcinėms
+paskirties akcinėms bendrovėms priskiriamas ilgalaikis ir trumpalaikis turtas,
 
-bendrovėms priskiriamas ilgalaikis ir trumpalaikis turtas, sukauptas
+sukauptas atskiriamuose nuo specialios paskirties akcinės bendrovės “Lietuvos
 
-atskiriamuose nuo specialios paskirties akcinės bendrovės “Lietuvos energija”
+energija” padaliniuose, išskyrus bendraregioninį turtą, kuris reorganizavimo
 
-padaliniuose, išskyrus bendraregioninį turtą, kuris reorganizavimo projekte
+projekte tarpusavio susitarimu paskirstomas naujai įsteigtoms bendrovėms ir
 
-tarpusavio susitarimu paskirstomas naujai įsteigtoms bendrovėms ir specialios
+specialios paskirties akcinei bendrovei “Lietuvos energija”. Naujai įsteigtų
 
-paskirties akcinei bendrovei “Lietuvos energija”. Naujai įsteigtų specialios
+specialios paskirties akcinių bendrovių perimto turto vertei specialios
 
-paskirties akcinių bendrovių perimto turto vertei specialios paskirties akcinė
+paskirties akcinė bendrovė “Lietuvos energija” perduoda atitinkamą įstatinio
 
-bendrovė “Lietuvos energija” perduoda atitinkamą įstatinio kapitalo dalį ir
+kapitalo dalį ir teisiškai pagrįstus finansinius įsipareigojimus, susijusius su
 
-teisiškai pagrįstus finansinius įsipareigojimus, susijusius su specialios
-
-paskirties akcinės bendrovės “Lietuvos energija” veikla atitinkamos
+specialios paskirties akcinės bendrovės “Lietuvos energija” veikla atitinkamos
 
 savivaldybės teritorijoje.
 
-2. Įstatinis kapitalas specialios paskirties akcinei
+2. Įstatinis kapitalas specialios
 
-bendrovei “Lietuvos energija” ir naujai steigiamoms šilumos tiekimo specialios
+paskirties akcinei bendrovei “Lietuvos energija” ir naujai steigiamoms šilumos
 
-paskirties akcinėms bendrovėms paskirstomas proporcingai priskirto ilgalaikio
+tiekimo specialios paskirties akcinėms bendrovėms paskirstomas proporcingai
 
-turto likutinei vertei.
+priskirto ilgalaikio turto likutinei vertei.
 
-3. Atskirtų šilumos tiekimo specialios paskirties
+3. Atskirtų šilumos tiekimo specialios
 
-akcinių bendrovių valstybei priklausančios akcijos paskirstomos miestų ir
+paskirties akcinių bendrovių valstybei priklausančios akcijos paskirstomos
 
-rajonų savivaldybėms proporcingai reorganizavimo metu priskirto ilgalaikio
+miestų ir rajonų savivaldybėms proporcingai reorganizavimo metu priskirto
 
-šilumos ūkio turto likutinei vertei, o fizinių ir juridinių asmenų akcijos -
+ilgalaikio šilumos ūkio turto likutinei vertei, o fizinių ir juridinių asmenų
 
-pagal akcininkų pageidavimą.
+akcijos - pagal akcininkų pageidavimą.
 
-4. Reorganizavimo ir perdavimo metu bendrovės turtas
+4. Reorganizavimo ir perdavimo metu
 
-apskaitomas ir inventorizuojamas pagal balansinę vertę, vadovaujantis
+bendrovės turtas apskaitomas ir inventorizuojamas pagal balansinę vertę,
 
-Buhalterinės apskaitos pagrindų įstatymu bei kitais teisės aktais (netaikant
+vadovaujantis Buhalterinės apskaitos pagrindų įstatymu bei kitais teisės aktais
 
-Akcinių bendrovių įstatymo 10 straipsnio 7 dalies 2 punkto reikalavimų).
+(netaikant Akcinių bendrovių įstatymo 10 straipsnio 7 dalies 2 punkto
 
-5. Apie specialios paskirties akcinės bendrovės
+reikalavimų).
 
-“Lietuvos energija” reorganizavimą viešai skelbiama 2 kartus su ne mažesniu
+5. Apie specialios paskirties akcinės
 
-kaip 14 dienų intervalu (netaikomi Akcinių bendrovių įstatymo 10 straipsnio 12
+bendrovės “Lietuvos energija” reorganizavimą viešai skelbiama 2 kartus su ne
 
-dalies reikalavimai).
+mažesniu kaip 14 dienų intervalu (netaikomi Akcinių bendrovių įstatymo 10
 
-6. Steigiamose šilumos tiekimo specialios paskirties
+straipsnio 12 dalies reikalavimai).
 
-akcinėse bendrovėse bendra savivaldybėms priklausančių akcijų dalis turi būti
+6. Steigiamose šilumos tiekimo
 
-ne mažesnė negu 70% (netaikomi Akcinių bendrovių įstatymo 5 straipsnio 2 dalies
+specialios paskirties akcinėse bendrovėse bendra savivaldybėms priklausančių
 
-reikalavimai).
+akcijų dalis turi būti ne mažesnė negu 70% (netaikomi Akcinių bendrovių
 
-7. Nuostoliai, susidarę specialios paskirties
+įstatymo 5 straipsnio 2 dalies reikalavimai).
 
-akcinei bendrovei “Lietuvos energija” realizuojant šilumos energiją
+7. Nuostoliai, susidarę specialios
+
+paskirties akcinei bendrovei “Lietuvos energija” realizuojant šilumos energiją
 
 nustatytomis lengvatinėmis kainomis nuo 1996 m. spalio 1 d. iki šilumos ūkio ir
 
@@ -225,19 +235,21 @@ jo valdymo funkcijų perdavimo savivaldybėms, priskiriami specialios paskirties
 
 akcinei bendrovei “Lietuvos energija”.
 
-8. Įgalioti savivaldybių atstovai turi teisę
+8. Įgalioti savivaldybių atstovai turi
 
-dalyvauti rengiant specialios paskirties akcinės bendrovės “Lietuvos energija”
+teisę dalyvauti rengiant specialios paskirties akcinės bendrovės “Lietuvos
 
-reorganizavimo projektą, kurį tvirtina ūkio ministras (netaikomi Akcinių
+energija” reorganizavimo projektą, kurį tvirtina ūkio ministras (netaikomi
 
-bendrovių įstatymo 10 straipsnio 10 dalies reikalavimai).
+Akcinių bendrovių įstatymo 10 straipsnio 10 dalies reikalavimai).
 
-4 straipsnis. Šilumos ūkio bei jo valdymo perdavimas
+4 straipsnis. Šilumos ūkio bei jo
 
-1. Naujai įsteigtų pagal šio įstatymo 3 straipsnį
+valdymo perdavimas
 
-šilumos tiekimo specialios paskirties akcinių bendrovių valstybei
+1. Naujai įsteigtų pagal šio įstatymo 3
+
+straipsnį šilumos tiekimo specialios paskirties akcinių bendrovių valstybei
 
 priklausančios akcijos, išskyrus jų kiekį, atitinkantį Vilniaus ir Kauno
 
@@ -247,81 +259,91 @@ pasibaigus 1996-1997 metų šildymo sezonui, bet ne vėliau kaip iki 1997 m.
 
 liepos 1 d.
 
-2. Valstybei priklausančios akcijos, atitinkančios
+2. Valstybei priklausančios akcijos,
 
-Vilniaus ir Kauno elektrinių ilgalaikį turtą, perduodamos nuosavybės teise
+atitinkančios Vilniaus ir Kauno elektrinių ilgalaikį turtą, perduodamos
 
-savivaldybėms iki 1997 m. spalio 10 d.
+nuosavybės teise savivaldybėms iki 1997 m. spalio 10 d.
 
-4(1) straipsnis. Tolesnis šilumos ūkio
+4(1) straipsnis. Tolesnis
 
-reorganizavimas
+šilumos ūkio reorganizavimas
 
-1. Šilumos ūkis toliau (po 1997 m. liepos 1 d.)
+1. Šilumos ūkis toliau (po 1997 m.
 
-reorganizuojamas skaidant regionines specialios paskirties akcines bendroves ir
+liepos 1 d.) reorganizuojamas skaidant regionines specialios paskirties akcines
 
-steigiant naujas miestų ir(ar) rajonų specialios paskirties bendroves: iš
+bendroves ir steigiant naujas miestų ir(ar) rajonų specialios paskirties
 
-regioninės specialios paskirties akcinės bendrovės, kuri tęs veiklą, atskiriama
+bendroves: iš regioninės specialios paskirties akcinės bendrovės, kuri tęs
 
-turto ir įsipareigojimų dalis, proporcinga atitinkamo miesto ir(ar) rajono
+veiklą, atskiriama turto ir įsipareigojimų dalis, proporcinga atitinkamo miesto
 
-savivaldybės, kurios teritorijoje steigiama nauja specialios paskirties
+ir(ar) rajono savivaldybės, kurios teritorijoje steigiama nauja specialios
 
-bendrovė, turimoms akcijoms toje regioninėje akcinėje bendrovėje (netaikomi
+paskirties bendrovė, turimoms akcijoms toje regioninėje akcinėje bendrovėje
 
-Akcinių bendrovių įstatymo 10 straipsnio 4 dalies reikalavimai). Iš atskirto
+(netaikomi Akcinių bendrovių įstatymo 10 straipsnio 4 dalies reikalavimai). Iš
 
-turto formuojamas naujai steigiamos miesto ir(ar) rajono šilumos tiekimo
+atskirto turto formuojamas naujai steigiamos miesto ir(ar) rajono šilumos
 
-bendrovės įstatinis kapitalas.
+tiekimo bendrovės įstatinis kapitalas.
 
-2. Regioninės specialios paskirties šilumos tiekimo
+2. Regioninės specialios paskirties
 
-akcinės bendrovės reorganizuojamos Akcinių bendrovių įstatymo nustatyta tvarka
+šilumos tiekimo akcinės bendrovės reorganizuojamos Akcinių bendrovių įstatymo nustatyta
 
-(netaikomi Akcinių bendrovių įstatymo 10 straipsnio 10, 11, 13 dalių
+tvarka (netaikomi Akcinių bendrovių įstatymo 10 straipsnio 10, 11, 13 dalių
 
 reikalavimai), atsižvelgiant į šio įstatymo 3 straipsnio 4 ir 5 dalių
 
 nuostatas.
 
-3. Nutarimas reorganizuoti bendrovę priimamas
+3. Nutarimas reorganizuoti bendrovę
 
-regioninės specialios paskirties šilumos tiekimo akcinės bendrovės akcininkų
+priimamas regioninės specialios paskirties šilumos tiekimo akcinės bendrovės
 
-susirinkime paprasta balsų dauguma. Reorganizavimo projektą derina savivaldybių
+akcininkų susirinkime paprasta balsų dauguma. Reorganizavimo projektą derina
 
-asociacija, o tvirtina valdymo reformų ir savivaldybių reikalų bei ūkio
+savivaldybių asociacija, o tvirtina valdymo reformų ir savivaldybių reikalų bei
 
-ministrai. Įsipareigojimų ir bendro naudojimo turto paskirstymas, jo naudojimo
+ūkio ministrai. Įsipareigojimų ir bendro naudojimo turto paskirstymas, jo naudojimo
 
 tvarka nustatomi tarpusavio susitarimu.
 
-Straipsnio pakeitimai:
+4. Regiono, miesto, rajono specialios paskirties
 
-Nr. VIII-835, 98.07.02,
+šilumos ir vandens tiekimo bendrovės specialios paskirties statusas gali būti
 
-Žin., 1998, Nr.65-1874 (98.07.22)
+panaikintas keičiant jos įstatus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-835,
+
+98.07.02, Žin., 1998, Nr.65-1874 (98.07.22)
+
+Nr. VIII-1366, 99.10.19, Žin., 1999, Nr.90-2642 (99.10.27)
 
 5 straipsnis. Šilumos ūkio politika
 
-1. Lietuvos Respublikos šilumos ūkio techninę
+1. Lietuvos Respublikos šilumos ūkio
 
-politiką ir jo plėtros pagrindines kryptis rengia ir koordinuoja Ūkio bei
+techninę politiką ir jo plėtros pagrindines kryptis rengia ir koordinuoja Ūkio
 
-Valdymo reformų ir savivaldybių reikalų ministerijos.
+bei Valdymo reformų ir savivaldybių reikalų ministerijos.
 
-2. Šilumos energijos kainų kompensavimo mažas
+2. Šilumos energijos kainų kompensavimo
 
-pajamas turinčioms šeimoms klausimus sprendžia savivaldybės kartu su
+mažas pajamas turinčioms šeimoms klausimus sprendžia savivaldybės kartu su
 
 Vyriausybe.
 
-3. Nuostolių, kurie susidarys specialios paskirties
+3. Nuostolių, kurie susidarys specialios
 
-akcinei bendrovei “Lietuvos energija” realizuojant šilumos energiją
+paskirties akcinei bendrovei “Lietuvos energija” realizuojant šilumos energiją
 
 nustatytomis lengvatinėmis kainomis nuo 1996 m. spalio 1 d. iki šilumos ūkio ir
 
@@ -329,39 +351,41 @@ jo valdymo funkcijų perdavimo savivaldybėms, padengimo klausimus sprendžia
 
 Vyriausybė kartu su specialios paskirties akcine bendrove “Lietuvos energija”.
 
-4. Vadovaudamasi Valstybės skolos įstatymu,
+4. Vadovaudamasi Valstybės skolos
 
-Vyriausybė gali teikti garantijas naujai įsteigtoms šilumos tiekimo specialios
+įstatymu, Vyriausybė gali teikti garantijas naujai įsteigtoms šilumos tiekimo
 
-paskirties akcinėms bendrovėms paskoloms, naudojamoms apyvartinėms lėšoms ir
+specialios paskirties akcinėms bendrovėms paskoloms, naudojamoms apyvartinėms
 
-investicijoms, gauti.
+lėšoms ir investicijoms, gauti.
 
-5. 1997-1998 metų šildymo sezonui kuro pirkimą pagal
+5. 1997-1998 metų šildymo sezonui kuro
 
-savivaldybių ir naujai įsteigtų specialios paskirties akcinių bendrovių
+pirkimą pagal savivaldybių ir naujai įsteigtų specialios paskirties akcinių
 
-paraiškas organizuoja specialios paskirties akcinė bendrovė “Lietuvos
+bendrovių paraiškas organizuoja specialios paskirties akcinė bendrovė “Lietuvos
 
 energija”. Už perkamą kurą moka naujai įsteigtos specialios paskirties akcinės
 
 bendrovės.
 
-Straipsnio pakeitimai:
+Straipsnio
 
-Nr. VIII-263, 97.06.17,
+pakeitimai:
 
-Žin., 1997, Nr.64-1495 (97.07.04)
+Nr. VIII-263,
 
-Nr. VIII-930, 98.11.17,
+97.06.17, Žin., 1997, Nr.64-1495 (97.07.04)
 
-Žin., 1998, Nr.105-2901 (98.12.02)
+Nr. VIII-930,
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą
+98.11.17, Žin., 1998, Nr.105-2901 (98.12.02)
 
-įstatymą.
+Skelbiu šį Lietuvos Respublikos Seimo
 
-RESPUBLIKOS PREZIDENTAS                                  ALGIRDAS
+priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS
 
 BRAZAUSKAS
 
