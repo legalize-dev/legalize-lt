@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "1999-05-04"
+last_updated: "1999-05-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1999.05.20)
+Ramunė Lūžaitė (1999.06.10)
 
 Įstatymas
 
@@ -284,6 +284,20 @@ LIETUVOS RESPUBLIKOS
 
 TEISMŲ ĮSTATYMO 59 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+18.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1192,
+
+99.05.20, Žin., 1999, Nr.48-1526 (99.06.02)
+
+LIETUVOS RESPUBLIKOS
+
+TEISMŲ ĮSTATYMO PAPILDYMO 8(1) STRAIPSNIU ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -420,13 +434,13 @@ civilinėje bei administracinio teisės pažeidimo byloje asmenys, proceso
 
 dalyviai baudžiamojoje byloje, taip pat prokuroras savo procesinėms funkcijoms
 
-vykdyti, teismo posėdžio pirmininkui leidus, gali daryti garso įrašą teismo
+vykdyti, teismo posėdžio pirmininkui leidus, gali daryti garso įrašą teismo posėdžiui
 
-posėdžiui užfiksuoti. Apie daromą garso įrašą proceso dalyviai privalo
+užfiksuoti. Apie daromą garso įrašą proceso dalyviai privalo informuoti
 
-informuoti posėdžio pirmininką. Asmenys, darantys garso įrašą be teismo
+posėdžio pirmininką. Asmenys, darantys garso įrašą be teismo leidimo, atsako
 
-leidimo, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 Kitiems
 
@@ -470,6 +484,30 @@ Vertėjo
 
 paslaugos atlyginamos iš valstybės biudžeto.
 
+8(1) straipsnis. Teismų sprendimų,
+
+nuosprendžių ir nutarčių skelbimas
+
+Teismų departamentas prie Teisingumo
+
+ministerijos nuo 2000 m. sausio 1 d. interneto tinklapyje skelbia nuo 1999 m.
+
+gegužės 20 d. viešame teismo posėdyje priimtus apygardų teismų ir Apeliacinio
+
+teismo sprendimus, nuosprendžius ir kai kurias nutartis (turinčias viešąjį
+
+interesą, atrinktas Teismų departamento prie Teisingumo ministerijos). Lietuvos
+
+Aukščiausiasis Teismas nutartis skelbia savame interneto tinklapio puslapyje.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-1192, 99.05.20,
+
+Žin., 1999, Nr.48-1526 (99.06.02)
+
 II skirsnis
 
 LIETUVOS RESPUBLIKOS TEISMŲ SISTEMA
@@ -486,9 +524,9 @@ teismai, kurie nagrinėja civilines ir baudžiamąsias bylas.
 
 Administracines bylas nagrinėja specializuoti
 
-administraciniai teismai, turintys šią sistemą: apygardų administraciniai teismai,
+administraciniai teismai, turintys šią sistemą: apygardų administraciniai
 
-Aukštesnysis administracinis teismas ir Lietuvos apeliacinio teismo
+teismai, Aukštesnysis administracinis teismas ir Lietuvos apeliacinio teismo
 
 Administracinių bylų skyrius.
 
@@ -510,9 +548,9 @@ steigiami.
 
 Lietuvos
 
-Respublikos teismai yra juridiniai asmenys, turi antspaudą su Lietuvos
+Respublikos teismai yra juridiniai asmenys, turi antspaudą su Lietuvos valstybės
 
-valstybės herbu.
+herbu.
 
 Teisėjais
 
@@ -590,7 +628,7 @@ straipsnis. Lietuvos apeliacinis teismas
 
 Lietuvos
 
-apeliacinį  teismą sudaro  Apeliacinio  teismo pirmininkas, skyrių pirmininkai
+apeliacinį  teismą sudaro  Apeliacinio  teismo pirmininkas, skyrių pirmininkai
 
 ir kiti teisėjai.
 
@@ -1330,9 +1368,11 @@ biuletenį, kuriame periodiškai skelbia:
 
 plenarinės sesijos pasiūlytas ir kasacine tvarka priimtas nutartis. Į šiose
 
-nutartyse esančius įstatymų taikymo išaiškinimus atsižvelgia teismai, valstybinės
+nutartyse esančius įstatymų taikymo išaiškinimus atsižvelgia teismai,
 
-ir kitos institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus;
+valstybinės ir kitos institucijos, taip pat kiti subjektai taikydami tuos
+
+pačius įstatymus;
 
 2) teismų praktikos, nagrinėjant konkrečių
 
@@ -1340,9 +1380,9 @@ kategorijų bylas, apibendrinimo apžvalgas, kurias aprobavo Lietuvos
 
 Aukščiausiojo Teismo senatas.
 
-Biuletenis finansuojamas iš valstybės
+Biuletenis finansuojamas iš valstybės biudžeto
 
-biudžeto ir iš jį pardavus gautų lėšų. Lietuvos Respublikos teismai ir teisėjai
+ir iš jį pardavus gautų lėšų. Lietuvos Respublikos teismai ir teisėjai
 
 biuletenį gauna nemokamai.
 
@@ -1596,11 +1636,11 @@ skiriamiems hipotekos teisėjais. Išvardyti asmenys gali būti skiriami apylink
 
 teismo teisėjais, jeigu jie yra ne jaunesni kaip 25 metų, nepriekaištingos
 
-reputacijos, turi teisės magistro arba teisininko profesinį kvalifikacinį
+reputacijos, turi teisės magistro arba teisininko profesinį kvalifikacinį laipsnį
 
-laipsnį (vienpakopį teisinį universitetinį išsilavinimą) bei išlaikę
+(vienpakopį teisinį universitetinį išsilavinimą) bei išlaikę teisėjo
 
-teisėjo egzaminus. Užsienyje įgytas teisinis išsimokslinimas yra pripažįstamas
+egzaminus. Užsienyje įgytas teisinis išsimokslinimas yra pripažįstamas
 
 Vyriausybės nustatyta tvarka.
 
@@ -1750,11 +1790,11 @@ reikiamos kvalifikacijos, arba jei jo elgesys nesuderinamas su teisėjo vardui
 
 keliamais reikalavimais. Išklausęs kandidato į teisėjus paaiškinimo, sutarties
 
-nutraukimo klausimą sprendžia Teismų departamento direktorius. Teismų departamento
+nutraukimo klausimą sprendžia Teismų departamento direktorius. Teismų
 
-direktoriaus nutarimas nutraukti su kandidatu sutartį per 10 dienų gali būti
+departamento direktoriaus nutarimas nutraukti su kandidatu sutartį per 10 dienų
 
-skundžiamas teisingumo ministrui.
+gali būti skundžiamas teisingumo ministrui.
 
 Straipsnio
 
@@ -1856,11 +1896,9 @@ reputacijos, teisingumo ministro nustatyta tvarka atliko 5 mėnesių praktiką
 
 teismuose ir išlaikė teisėjų egzaminą.
 
-Apeliacinio teismo teisėju gali būti
+Apeliacinio teismo teisėju gali būti skiriamas
 
-skiriamas asmuo, turintis ne mažesnį kaip 5 metų apygardos teismo teisėjo darbo
-
-stažą.
+asmuo, turintis ne mažesnį kaip 5 metų apygardos teismo teisėjo darbo stažą.
 
 Apygardos ar Apeliacinio teismo teisėjo
 
@@ -1914,11 +1952,11 @@ darbo stažą;
 
 2) buvęs Lietuvos Aukščiausiojo Teismo (taip
 
-pat ir iki 1994 m. gruodžio 31 d. veikusio Aukščiausiojo Teismo) teisėjas,
+pat ir iki 1994 m. gruodžio 31 d. veikusio Aukščiausiojo Teismo) teisėjas, atleistas
 
-atleistas iš pareigų savo noru, išrinktas į kitas pareigas arba jo sutikimu
+iš pareigų savo noru, išrinktas į kitas pareigas arba jo sutikimu perkeltas į
 
-perkeltas į kitą darbą;
+kitą darbą;
 
 3) teisės krypties socialinių mokslų
 
@@ -3522,9 +3560,9 @@ Teisėjų tarybos nariui įgaliojimai suteikiami
 
 6 metams.
 
-Teisėjų taryba iš savo narių išsirenka
+Teisėjų taryba iš savo narių išsirenka pirmininką
 
-pirmininką ir sekretorių.
+ir sekretorių.
 
 Teisėjų taryba:
 
@@ -3572,15 +3610,15 @@ tarybos pirmininkas šaukia posėdžius kiekvieną mėnesį, išskyrus liepos ir
 
 rugpjūčio mėnesius, arba kai reikalauja ne mažiau kaip 1/3 Tarybos narių.
 
-Teisėjų tarybos posėdis yra teisėtas, jeigu
+Teisėjų tarybos posėdis yra teisėtas, jeigu jame
 
-jame dalyvauja ne mažiau kaip pusė Teisėjų tarybos narių. Teisėjų tarybos
+dalyvauja ne mažiau kaip pusė Teisėjų tarybos narių. Teisėjų tarybos nutarimai
 
-nutarimai priimami atviru balsavimu. Nutarimas laikomas priimtu, jeigu už jį
+priimami atviru balsavimu. Nutarimas laikomas priimtu, jeigu už jį balsavo
 
-balsavo dauguma dalyvavusių posėdyje Teisėjų tarybos narių. Balsams
+dauguma dalyvavusių posėdyje Teisėjų tarybos narių. Balsams pasiskirsčius po
 
-pasiskirsčius po lygiai, lemia pirmininko balsas.
+lygiai, lemia pirmininko balsas.
 
 Teisėjų
 
@@ -3654,7 +3692,9 @@ PIRMININKŲ SKYRIMAS
 
 straipsnis. Apylinkių, apygardų teismų teisėjų, šių teismų
 
-pirmininkų, pirmininkų pavaduotojų, skyrių pirmininkų,
+pirmininkų,
+
+pirmininkų pavaduotojų, skyrių pirmininkų,
 
 hipotekos teisėjų skyrimas
 
@@ -3688,9 +3728,9 @@ apylinkių teismų hipotekos skyrių hipotekos teisėjus iš paskirtų teisėjų
 
 teisingumo ministras, pasiūlius teismo pirmininkui.
 
-Apylinkių teismų pirmininkai, jų pavaduotojai, taip pat hipotekos skyrių
+Apylinkių teismų pirmininkai, jų pavaduotojai, taip pat hipotekos skyrių hipotekos
 
-hipotekos teisėjai skiriami 5 metams.
+teisėjai skiriami 5 metams.
 
 Apygardų
 
@@ -3956,11 +3996,11 @@ teismų pirmininkai organizuoja teisėjų darbą taip, kad šie turėtų vienod�
 
 krūvį, kontroliuoja šių teismų (teisėjų) administracinę veiklą, kaip laikomasi
 
-teisėjų etikos ir kaip teisėjai tikrina teismų antstolių kontorų darbą. Bylų paskirstymo
+teisėjų etikos ir kaip teisėjai tikrina teismų antstolių kontorų darbą. Bylų
 
-teisėjams, išskyrus Lietuvos Aukščiausiajame Teisme, taisykles tvirtina
+paskirstymo teisėjams, išskyrus Lietuvos Aukščiausiajame Teisme, taisykles
 
-teisingumo ministras Teismų departamento direktoriaus teikimu.
+tvirtina teisingumo ministras Teismų departamento direktoriaus teikimu.
 
 Straipsnio
 
@@ -4278,9 +4318,9 @@ Teisėjų
 
 ir teismų reikalavimai, kai jie vykdo teisingumą, yra privalomi visiems
 
-fiziniams asmenims, įmonėms, įstaigoms, organizacijoms. Šių reikalavimų nevykdymas
+fiziniams asmenims, įmonėms, įstaigoms, organizacijoms. Šių reikalavimų
 
-užtraukia įstatymo numatytą atsakomybę.
+nevykdymas užtraukia įstatymo numatytą atsakomybę.
 
 50
 
@@ -4314,19 +4354,19 @@ Apylinkės,
 
 apygardos teismų, Apeliacinio teismo ir Lietuvos Aukščiausiojo Teismo teisėjas,
 
-jeigu jis sutinka, Respublikos Prezidento dekretu iki 1 metų gali būti
+jeigu jis sutinka, Respublikos Prezidento dekretu iki 1 metų gali būti deleguojamas
 
-deleguojamas į Lietuvos Aukščiausiojo Teismo, Teisingumo ministerijos ar Teismų
+į Lietuvos Aukščiausiojo Teismo, Teisingumo ministerijos ar Teismų departamento
 
-departamento struktūras, kurių veikla tiesiogiai susijusi su teismų veiklos
+struktūras, kurių veikla tiesiogiai susijusi su teismų veiklos organizavimu ir
 
-organizavimu ir tikrinimu. Delegavimo laikotarpiui sustabdomi deleguojamo
+tikrinimu. Delegavimo laikotarpiui sustabdomi deleguojamo teisėjo įgaliojimai.
 
-teisėjo įgaliojimai. Deleguojamam teisėjui išsaugomos visos teisėjo socialinės
+Deleguojamam teisėjui išsaugomos visos teisėjo socialinės garantijos, įskaitant
 
-garantijos, įskaitant tarnybinį atlyginimą ir darbo stažą. Tarnybinį atlyginimą
+tarnybinį atlyginimą ir darbo stažą. Tarnybinį atlyginimą moka tas teismas, iš
 
-moka tas teismas, iš kurio teisėjas yra deleguotas.
+kurio teisėjas yra deleguotas.
 
 Pasibaigus
 
@@ -4394,7 +4434,7 @@ straipsnis. Teisėjų aprūpinimas gyvenamosiomis patalpomis
 
 Teisėjams,
 
-paskyrimo  vietoje neturintiems  gyvenamosios patalpos, įstatymų  nustatyta
+paskyrimo  vietoje neturintiems  gyvenamosios patalpos, įstatymų  nustatyta
 
 tvarka  suteikiamos tarnybinės gyvenamosios patalpos.
 
@@ -4500,9 +4540,9 @@ pat dėl ligos trukmės teisėjas negali atlikti savo pareigų.
 
 Aukščiausiojo
 
-Teismo pirmininką ir kitus teisėjus atleidžia iš pareigų Seimas Respublikos
+Teismo pirmininką ir kitus teisėjus atleidžia iš pareigų Seimas Respublikos Prezidento
 
-Prezidento teikimu.
+teikimu.
 
 Aukščiausiojo
 
@@ -4538,15 +4578,15 @@ ministras Teismų departamento direktoriaus teikimu arba savo iniciatyva.
 
 straipsnio  penktojoje  ir  septintojoje  dalyse išvardintus teisėjus
 
-Respublikos Prezidentas, esant Lietuvos Respublikos  Konstitucijos  115
+Respublikos Prezidentas, esant Lietuvos Respublikos  Konstitucijos  115  straipsnyje
 
-straipsnyje  numatytiems pagrindams, gali atleisti iš pareigų ir be teisingumo
+numatytiems pagrindams, gali atleisti iš pareigų ir be teisingumo ministro
 
-ministro teikimo. Šiuo atveju Respublikos Prezidentas kreipiasi patarimo dėl
+teikimo. Šiuo atveju Respublikos Prezidentas kreipiasi patarimo dėl atleidimo į
 
-atleidimo į Teisėjų tarybą, o dėl Apeliacinio teismo teisėjų atleidimo - dar ir
+Teisėjų tarybą, o dėl Apeliacinio teismo teisėjų atleidimo - dar ir pritarimo į
 
-pritarimo į Seimą.
+Seimą.
 
 Straipsnio
 
@@ -6236,11 +6276,9 @@ paskirsto išieškotas sumas tarp išieškotojų.
 
 Hipotekos skyrius vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais
 
-Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Vyriausybės
+Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Vyriausybės patvirtintais
 
-patvirtintais Hipotekos registro nuostatais bei Teisingumo ministerijos teisės
-
-aktais.
+Hipotekos registro nuostatais bei Teisingumo ministerijos teisės aktais.
 
 Hipotekos skyrius turi antspaudą su savo pavadinimu bei Lietuvos valstybės
 
@@ -6418,11 +6456,11 @@ Atlyginimo už įkeitimų įregistravimą bei hipotekos registro duomenų naudoj
 
 (raštinės rinkliavų) dydį ir tvarką nustato Vyriausybė.
 
-Atlyginimo už hipotekos skyriaus atliekamus notarinius veiksmus dydis
+Atlyginimo už hipotekos skyriaus atliekamus notarinius veiksmus dydis nustatomas
 
-nustatomas Notariato įstatymo 19 straipsnyje nustatyta tvarka, o gautos lėšos
+Notariato įstatymo 19 straipsnyje nustatyta tvarka, o gautos lėšos pervedamos į
 
-pervedamos į valstybės biudžetą.
+valstybės biudžetą.
 
 Straipsnio
 
@@ -6524,9 +6562,9 @@ administracinę veiklą bei tikrina visų teismų organizacinį darbą teisingum
 
 ministro nustatyta tvarka.
 
-Teismų departamento veiklą reglamentuoja
+Teismų departamento veiklą reglamentuoja nuostatai,
 
-nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė.
+kuriuos tvirtina Lietuvos Respublikos Vyriausybė.
 
 Straipsnio
 
@@ -6648,9 +6686,9 @@ mokesčių inspekcija. Kitos teismo veiklos šios institucijos tikrinti negali.
 
 Lietuvos teismų, hipotekos skyrių, teismo antstolių kontorų ūkinę bei finansinę
 
-veiklą įstatymo nustatyta tvarka ir pagal savo įgaliojimus taip pat gali tikrinti
+veiklą įstatymo nustatyta tvarka ir pagal savo įgaliojimus taip pat gali
 
-Lietuvos Respublikos valstybės kontrolė.
+tikrinti Lietuvos Respublikos valstybės kontrolė.
 
 Tikrinant
 
@@ -6804,9 +6842,9 @@ teismo antstolis vadovauja teismo antstolių kontorai, organizuoja ir
 
 kontroliuoja teismo antstolių darbą, pats atlieka vykdymo veiksmus, priima į
 
-darbą ir atleidžia iš darbo raštvedybą tvarkančius bei kitus darbuotojus, suteikia
+darbą ir atleidžia iš darbo raštvedybą tvarkančius bei kitus darbuotojus,
 
-atostogas kitiems teismo antstoliams.
+suteikia atostogas kitiems teismo antstoliams.
 
 Straipsnio
 
@@ -6852,7 +6890,7 @@ straipsnis. Teismo antstolių egzaminų komisija
 
 Teismo
 
-antstolių  egzaminų komisiją  sudaro ir  teismo antstolių egzaminų programą
+antstolių  egzaminų komisiją  sudaro ir  teismo antstolių egzaminų programą
 
 tvirtina teisingumo ministras.
 
@@ -6934,9 +6972,9 @@ Kol
 
 teismo antstoliui bus suteikta tarnybinė gyvenamoji patalpa arba jis apsirūpins
 
-gyvenamąja patalpa, Vyriausybės nustatyta tvarka kompensuojamos gyvenamosios patalpos
+gyvenamąja patalpa, Vyriausybės nustatyta tvarka kompensuojamos gyvenamosios
 
-nuomos išlaidos.
+patalpos nuomos išlaidos.
 
 85
 
@@ -6980,9 +7018,7 @@ antstolių atlyginimus nustato Lietuvos Respublikos įstatymai.
 
 Kitas
 
-teismo  antstolių socialines  garantijas  nustato Lietuvos Respublikos
-
-įstatymai.
+teismo  antstolių socialines  garantijas  nustato Lietuvos Respublikos įstatymai.
 
 87
 
