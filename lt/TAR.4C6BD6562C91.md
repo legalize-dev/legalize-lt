@@ -4,7 +4,7 @@ identifier: "TAR.4C6BD6562C91"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-04-30"
-last_updated: "1997-05-14"
+last_updated: "2000-07-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4C6BD6562C91"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės gynimo tarybos įstatymas
+
+Suvestinė redakcija nuo 2000-07-19 iki 2012-12-31
+
+Įstatymas paskelbtas: Žin. 1997, Nr. 41-992, i. k. 0971010ISTAVIII-209
 
 LIETUVOS RESPUBLIKOS
 
@@ -54,9 +58,9 @@ VALSTYBĖS GYNIMO TARYBOS VEIKLA
 
 1. Valstybės gynimo taryba:
 
-1) svarsto užsienio ir vidaus politikos nuostatas, garantuojančias Lietuvos Respublikos nacionalinį  saugumą bei teritorijos vientisumą;
+1) svarsto užsienio ir vidaus politikos nuostatas, garantuojančias Lietuvos Respublikos nacionalinį saugumą bei teritorijos vientisumą;
 
-2) svarsto pagrindinius Lietuvos Respublikos nacionalinio saugumo  politikos ir gynybos principus bei kryptis;
+2) svarsto pagrindinius Lietuvos Respublikos nacionalinio saugumo politikos ir gynybos principus bei kryptis;
 
 3) svarsto ir teikia Respublikos Prezidentui, Seimui ir Vyriausybei rekomendacijas dėl tarptautinių sutarčių bei susitarimų gynybos ir kitais kariniais klausimais sudarymo, pasirašymo ir ratifikavimo;
 
@@ -68,9 +72,15 @@ VALSTYBĖS GYNIMO TARYBOS VEIKLA
 
 7) svarsto Nacionalinio saugumo strateginio planavimo grupės pateikiamas išvadas ir rekomendacijas;
 
-8) svarsto kitus valstybės gynimo klausimus;
+8) nustato strategines krizių valdymo gaires;
 
-9) svarsto ir teikia pasiūlymus dėl krašto apsaugos sistemos finansavimo.
+9) svarsto kitus valstybės gynimo klausimus;
+
+10) svarsto ir teikia pasiūlymus dėl krašto apsaugos sistemos finansavimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1779, 2000-06-29, Žin., 2000, Nr. 58-1711 (2000-07-19), i. k. 1001010ISTAIII-1779
 
 2. Kai kyla grėsmė valstybės suverenumui ar teritorijos vientisumui, taip pat ginkluoto užpuolimo atveju Valstybės gynimo taryba svarsto ir teikia Respublikos Prezidentui, Seimui ir Vyriausybei rekomendacijas:
 
@@ -171,4 +181,14 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1779, 2000-06-29, Žin., 2000, Nr. 58-1711 (2000-07-19), i. k. 1001010ISTAIII-1779
+
+Lietuvos Respublikos valstybės gynimo tarybos įstatymo 4 straipsnio papildymo įstatymas
 
