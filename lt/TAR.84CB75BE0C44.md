@@ -4,7 +4,7 @@ identifier: "TAR.84CB75BE0C44"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-31"
-last_updated: "1999-06-15"
+last_updated: "1999-07-07"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.84CB75BE0C44"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -22,7 +22,7 @@ Neoficialus ?statymo tekstas
 
 Redagavo:
 
-Ramunė Lūžaitė (1999.06.30)
+Ramunė Lūžaitė (1999.08.09)
 
 Įstatymas
 
@@ -514,6 +514,22 @@ RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 8 STRAIPSNIO PAPILDYMO 
 
 PAKEITIMO ĮSTATYMAS
 
+27.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr.
+
+VIII-1295, 99.07.07, Žin., 1999, Nr.64-2072 (99.07.23)
+
+LIETUVOS
+
+RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 5 IR 8 STRAIPSNIŲ
+
+PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -666,11 +682,11 @@ Nerealizacines
 
 pajamas sudaro su produkcijos gamyba, realizavimu bei paslaugų teikimu
 
-nesusijusios pajamos, įskaitant pajamas už išnuomotą, investuotą turtą, palūkanas,
+nesusijusios pajamos, įskaitant pajamas už išnuomotą, investuotą turtą,
 
-subsidijų ir dotacijų panaudotąją dalį, pajamas dėl valiutos kurso pasikeitimo
+palūkanas, subsidijų ir dotacijų panaudotąją dalį, pajamas dėl valiutos kurso
 
-teigiamos įtakos.
+pasikeitimo teigiamos įtakos.
 
 Į
 
@@ -972,23 +988,23 @@ kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės,
 
 Lietuvos vaiko draugija, Lietuvos invalidų draugija, Lietuvos žmonių su negalia
 
-sąjunga bei Lietuvos aklųjų ir silpnaregių sąjunga, sumoka į biudžetą 13 procentų
+sąjunga bei Lietuvos aklųjų ir silpnaregių sąjunga, sumoka į biudžetą 13
 
-pajamų nuo nominalios išplatintų loterijos bilietų (kortelių) vertės. Pinigines
+procentų pajamų nuo nominalios išplatintų loterijos bilietų (kortelių) vertės.
 
-ir pinigines-daiktines loterijas rengiančios įmonės, kurių steigėjas yra
+Pinigines ir pinigines-daiktines loterijas rengiančios įmonės, kurių steigėjas
 
-Lietuvos tautinis olimpinis komitetas, Kūno kultūros ir sporto departamentas
+yra Lietuvos tautinis olimpinis komitetas, Kūno kultūros ir sporto
 
-prie Lietuvos Respublikos Vyriausybės, Lietuvos vaiko draugija, Lietuvos
+departamentas prie Lietuvos Respublikos Vyriausybės, Lietuvos vaiko draugija,
 
-invalidų draugija, Lietuvos žmonių su negalia sąjunga bei Lietuvos aklųjų ir
+Lietuvos invalidų draugija, Lietuvos žmonių su negalia sąjunga bei Lietuvos
 
-silpnaregių sąjunga, sumoka į biudžetą 5 procentus pajamų nuo nominalios
+aklųjų ir silpnaregių sąjunga, sumoka į biudžetą 5 procentus pajamų nuo
 
-išplatintų loterijos bilietų (kortelių) vertės ir 8 procentus pajamų nuo
+nominalios išplatintų loterijos bilietų (kortelių) vertės ir 8 procentus pajamų
 
-nominalios išplatintų loterijos bilietų (kortelių) vertės privalomai skiria
+nuo nominalios išplatintų loterijos bilietų (kortelių) vertės privalomai skiria
 
 labdarai ir paramai. Nustatytos pajamų dalies sumokėjimo į biudžetą bei skyrimo
 
@@ -1068,15 +1084,15 @@ laikotarpį jos neviršija 50 procentų šio turto įsigijimo vertės. Jeigu rem
 
 vertė viršija 50 procentų nuosavo ar išperkamosios nuomos būdu turimo
 
-ilgalaikio turto įsigijimo vertės arba jeigu atliekami minėto turto rekonstravimo
+ilgalaikio turto įsigijimo vertės arba jeigu atliekami minėto turto
 
-darbai, tai to turto įsigijimo vertė didinama visa remonto ir rekonstravimo
+rekonstravimo darbai, tai to turto įsigijimo vertė didinama visa remonto ir
 
-darbų verte. Rekonstravimui priskiriami statybos darbai nustatomi vadovaujantis
+rekonstravimo darbų verte. Rekonstravimui priskiriami statybos darbai nustatomi
 
-Statybos įstatymu (Žin., 1996, Nr.32-788). Nekilnojamojo turto, kurį
+vadovaujantis Statybos įstatymu (Žin., 1996, Nr.32-788). Nekilnojamojo turto,
 
-savivaldybės, valstybės valdžios ir valdymo institucijos bei valstybės
+kurį savivaldybės, valstybės valdžios ir valdymo institucijos bei valstybės
 
 (savivaldybės) įmonės išnuomojo arba perdavė neatlygintinai naudotis pagal
 
@@ -1110,13 +1126,33 @@ lėšos, kurias įmonė skiria naujiems verslo ryšiams sukurti arba esamiems
 
 ryšiams su kitais juridiniais ar fiziniais asmenimis, išskyrus įmonės
 
-darbuotojus, pagerinti. Reprezentacinės sąnaudos patiriamos konkrečių asmenų naudai.
+darbuotojus, pagerinti. Reprezentacinės sąnaudos patiriamos konkrečių asmenų
 
-Reprezentacinės sąnaudos pripažįstamos mažinančiomis bendrąsias pajamas
+naudai. Reprezentacinės sąnaudos pripažįstamos mažinančiomis bendrąsias pajamas
 
 Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta
 
-tvarka.
+tvarka;
+
+[5
+
+straipsnio 1 dalies 13 punkto redakcija nuo 2000 m. sausio 1 d.]
+
+13) įmonės darbuotojų naudai pagal Lietuvos
+
+Respublikos pensijų fondų įstatymą mokamos įmokos į asmenines pensijų programų
+
+dalyvių sąskaitas, tačiau ne daugiau kaip 25 procentai per mokestinius metus
+
+šiems darbuotojams apskaičiuotų su darbo santykiais susijusių pajamų;
+
+[5
+
+straipsnio 1 dalies 14 punkto redakcija nuo 1999 m. liepos 23 d.]
+
+14) nario mokesčiai, sumokėti Lietuvos
+
+prekybos, pramonės ir amatų rūmams bei jų asociacijai.
 
 Nustatant apmokestinamąjį pelną, iš bendrųjų įmonės pajamų atimami tik juridinę
 
@@ -1128,11 +1164,11 @@ Materialinių vertybių įsivežimas iš užsienio turi būti patvirtintas muiti
 
 deklaracijomis.
 
-Įmonių sąnaudomis nelaikomos užsienio valstybių įmonėms tiesiogiai ar per
+Įmonių sąnaudomis nelaikomos užsienio valstybių įmonėms tiesiogiai ar per tarpininkus
 
-tarpininkus išmokėtos sumos, jeigu šio įstatymo nustatyta tvarka jos nėra
+išmokėtos sumos, jeigu šio įstatymo nustatyta tvarka jos nėra apmokestintos
 
-apmokestintos prie pajamų šaltinio.
+prie pajamų šaltinio.
 
 Sveikatos priežiūros įstaigų sąnaudos
 
@@ -1142,9 +1178,9 @@ kurios finansuojamos iš Privalomojo sveikatos draudimo fondo lėšų, ir kitoms
 
 pajamoms. Apskaičiuojant sveikatos priežiūros įstaigų apmokestinamąjį pelną, iš
 
-bendrųjų pajamų neatimamos sąnaudos, tenkančios paslaugoms, kurios finansuojamos
+bendrųjų pajamų neatimamos sąnaudos, tenkančios paslaugoms, kurios
 
-iš Privalomojo sveikatos draudimo fondo lėšų.
+finansuojamos iš Privalomojo sveikatos draudimo fondo lėšų.
 
 Straipsnio
 
@@ -1161,6 +1197,10 @@ VIII-290, 97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
 Nr. VIII-836,
 
 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+
+Nr.
+
+VIII-1295, 99.07.07, Žin., 1999, Nr.64-2072 (99.07.23)
 
 6
 
@@ -1244,9 +1284,9 @@ tarifą;
 
 straipsnio pirmosios dalies 1 punkte nustatytą investicijų apskaičiavimo būdą,
 
-apmokestinamasis pelnas, panaudotas investicijoms, apmokestinamas taikant nulinį
+apmokestinamasis pelnas, panaudotas investicijoms, apmokestinamas taikant
 
-(0 procentų) tarifą;
+nulinį (0 procentų) tarifą;
 
 [7 str. 3 punkto nuostatos taikomos
 
@@ -1268,11 +1308,11 @@ bankai ir pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
 
 sudarytą ir patvirtintą sąrašą tarptautinės finansų institucijos,
 
-apmokestinamos prie pajamų šaltinio taikant 15 procentų tarifą, o už suteiktą teisę
+apmokestinamos prie pajamų šaltinio taikant 15 procentų tarifą, o už suteiktą
 
-naudotis prekių ženklais, licencijomis, firmų vardais – taikant 10 procentų
+teisę naudotis prekių ženklais, licencijomis, firmų vardais – taikant 10
 
-tarifą;
+procentų tarifą;
 
 4)
 
@@ -1310,9 +1350,9 @@ IV. Mokesčio lengvatos
 
 straipsnis. Žemės ūkio produkciją gaminančių juridinių asmenų ir paslaugas
 
-žemės ūkiui teikiančių specializuotų įmonių pelno mokesčio tarifas - 10% apmokestinamojo
+žemės ūkiui teikiančių specializuotų įmonių pelno mokesčio tarifas - 10%
 
-pelno.
+apmokestinamojo pelno.
 
 Jeigu
 
@@ -1372,9 +1412,9 @@ nepanaudota darbo užmokesčiui, taip pat reinvestuota įmonėje, 5 metus  nuo
 
 įplaukų gavimo dienos apmokestinama 70 procentų mažesniu pelno mokesčiu. Šiam
 
-terminui pasibaigus, užsienio investicijai tenkanti pelno dalis 3 metus
+terminui pasibaigus, užsienio investicijai tenkanti pelno dalis 3 metus apmokestinama
 
-apmokestinama 50 procentų mažesniu pelno mokesčiu.
+50 procentų mažesniu pelno mokesčiu.
 
 Jei
 
@@ -1454,6 +1494,16 @@ kurios finansuojamos iš Privalomojo sveikatos draudimo fondo lėšų,
 
 neapmokestinamos.
 
+[8 straipsnio 14 dalies redakcija nuo 2000 m.
+
+sausio 1 d.]
+
+Pensijų fondų gautos pensijų įmokos į
+
+asmenines pensijų programų dalyvių sąskaitas bei pensijų turto investicijų
+
+pajamos neapmokestinamos.
+
 Straipsnio
 
 pakeitimai:
@@ -1465,6 +1515,10 @@ Nr. VIII-836,
 Nr. VIII-1230,
 
 99.06.15, Žin., 1999, Nr.57-1833 (99.06.30)
+
+Nr.
+
+VIII-1295, 99.07.07, Žin., 1999, Nr.64-2072 (99.07.23)
 
 9
 
@@ -1914,9 +1968,9 @@ buvo trumpesnis negu dvylika mėnesių, apskaičiuojant pelno avansinius mokesč
 
 faktiškai apskaičiuota mokesčio suma laikoma už tą mokestinį laikotarpį
 
-apskaičiuotoji mokesčio suma, padalyta iš to laikotarpio mėnesių skaičiaus ir padauginta
+apskaičiuotoji mokesčio suma, padalyta iš to laikotarpio mėnesių skaičiaus ir
 
-iš dvylikos.
+padauginta iš dvylikos.
 
 Jeigu praėjusiais mokestiniais metais
 
@@ -1938,19 +1992,19 @@ mėnesį iki eilinio pelno avansinio mokesčio mokėjimo termino, nustatyto šio
 
 sumažintų likusius pelno avansinius mokesčius arba nuo jų atleistų. Vietos
 
-mokesčio administratorius tokiam mokesčio mokėtojui turi sumažinti mokesčio
+mokesčio administratorius tokiam mokesčio mokėtojui turi sumažinti mokesčio mokėjimo
 
-mokėjimo avansu prievolės sumą proporcingai sumažėjusioms pajamoms arba
+avansu prievolės sumą proporcingai sumažėjusioms pajamoms arba atleisti nuo
 
-atleisti nuo pelno avansinio mokesčio. Jeigu šio mokesčio mokėtojo einamųjų
+pelno avansinio mokesčio. Jeigu šio mokesčio mokėtojo einamųjų metų bendrosios
 
-metų bendrosios pajamos vėl padidėjo iki 25 procentų ir daugiau, jis privalo ne
+pajamos vėl padidėjo iki 25 procentų ir daugiau, jis privalo ne vėliau kaip
 
-vėliau kaip prieš mėnesį iki eilinio pelno avansinio mokesčio mokėjimo termino
+prieš mėnesį iki eilinio pelno avansinio mokesčio mokėjimo termino kreiptis į
 
-kreiptis į vietos mokesčio administratorių, kad padidintų likusius pelno
+vietos mokesčio administratorių, kad padidintų likusius pelno avansinius
 
-avansinius mokesčius.
+mokesčius.
 
 Mokesčio mokėtojas gali pasirinkti pelno avansinį mokestį mokėti pagal
 
@@ -2428,13 +2482,13 @@ Nr. VIII-836,
 
 22 straipsnis. Lietuvos Respublikos
 
-juridinių asmenų gaunami dividendai iš kitų Lietuvos Respublikos įmonių apmokestinami
+juridinių asmenų gaunami dividendai iš kitų Lietuvos Respublikos įmonių
 
-taikant 29 procentų pelno mokesčio tarifą. Dividendus išmokanti Lietuvos
+apmokestinami taikant 29 procentų pelno mokesčio tarifą. Dividendus išmokanti
 
-Respublikos įmonė mokestį apskaičiuoja, išskaito ir sumoka į biudžetą ne vėliau
+Lietuvos Respublikos įmonė mokestį apskaičiuoja, išskaito ir sumoka į biudžetą
 
-kaip per 10 kalendorinių dienų po dividendų išmokėjimo dienos.
+ne vėliau kaip per 10 kalendorinių dienų po dividendų išmokėjimo dienos.
 
 Užsienio valstybių įmonių iš Lietuvos
 
@@ -2474,11 +2528,11 @@ dividendai apmokestinami taikant 29 procentų pelno mokesčio tarifą. Dividendu
 
 gaunantis Lietuvos Respublikos juridinis asmuo mokestį apskaičiuoja ir sumoka į
 
-biudžetą ne vėliau kaip per 10 kalendorinių dienų po dividendų gavimo dienos. Šiuo
+biudžetą ne vėliau kaip per 10 kalendorinių dienų po dividendų gavimo dienos.
 
-atveju pelno mokestis, apskaičiuotas nuo apmokestinamojo pelno, nebus mažinamas
+Šiuo atveju pelno mokestis, apskaičiuotas nuo apmokestinamojo pelno, nebus
 
-sumokėtu pelno mokesčiu nuo dividendų.
+mažinamas sumokėtu pelno mokesčiu nuo dividendų.
 
 Straipsnio
 
