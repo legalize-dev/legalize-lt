@@ -1,0 +1,79 @@
+---
+title: "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 11 skyriaus pakeitimo įstatymas"
+identifier: "TAR.2BCA2EC9B162"
+country: "lt"
+rank: "istatymas"
+publication_date: "2003-03-13"
+last_updated: "2003-03-13"
+status: "in_force"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.2BCA2EC9B162"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "1031010ISTA0IX-1360"
+document_number: "IX-1360"
+published_in_tar: "2003-03-13"
+document_status: "registruotas TA registre"
+---
+# Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo priedėlio 11 skyriaus pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 11 SKYRIAUS PAKEITIMO
+
+Į S T A T Y M A S
+
+2003 m. kovo 13 d. Nr. IX-1360
+
+Vilnius
+
+(Žin., 1997, Nr. 2-16; 1998, Nr. 55-1520)
+
+1 straipsnis. Priedėlio 11 skyriaus papildymas
+
+Papildyti priedėlio 11 skyriaus 1 pastraipą 19 punktu ir šią pastraipą išdėstyti taip:
+
+„Svarbiausios ilgalaikės nacionalinio saugumo stiprinimo valstybinės programos:
+
+– krašto apsaugos sistemos ir gynybai reikalingos infrastruktūros plėtotės;
+
+– kariuomenės ir jos aktyvaus rezervo parengimo bei apginklavimo;
+
+– valstybės sienos apsaugos sistemos plėtotės;
+
+– oro erdvės kontrolės sistemos plėtotės ir jos integravimo į bendrą Europos kontrolės sistemą;
+
+– karinių specialistų rengimo, karinio švietimo ir karo mokslo plėtojimo;
+
+– piliečių mokymo ir rengimo pasipriešinimui bei civilinei saugai;
+
+– ekonominių grėsmių mažinimo ir ekonominio saugumo stiprinimo, krašto ūkio funkcionavimo ekstremaliomis sąlygomis;
+
+– valstybės valdžios institucijų funkcionavimo ekstremaliomis sąlygomis;
+
+– valstybės strateginių atsargų kaupimo ir išlaikymo;
+
+– vientisos civilinės saugos ir gelbėjimo sistemos plėtotės;
+
+– ekologinio saugumo užtikrinimo;
+
+– Ignalinos AE saugios eksploatacijos užtikrinimo iki jos eksploatacijos pabaigos ir po to;
+
+– energetikos sistemos stabilumo ir integravimosi į Europos energetikos sistemas;
+
+– geležinkelio rekonstravimo pagal europinės vėžės standartus, jo integravimo į Europos transporto sistemą;
+
+–svarbiausių nacionalinių išteklių tausojimo ir apsaugos;
+
+– natūralaus gyventojų prieaugio palaikymo;
+
+– kovos su nusikalstamumu;
+
+– kovos su korupcija;
+
+– narkotikų kontrolės ir narkomanijos prevencijos.“
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+
+______________
+
