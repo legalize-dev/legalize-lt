@@ -4,7 +4,7 @@ identifier: "TAR.EA5F9F0D6DBB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-03-28"
-last_updated: "1995-04-12"
+last_updated: "1997-03-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EA5F9F0D6DBB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas
+
+Suvestinė redakcija nuo 1997-03-28 iki 1997-06-05
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 31-701, i. k. 0951010ISTA000I-830
 
 LIETUVOS RESPUBLIKOS
 
@@ -28,7 +32,27 @@ DĖL LIETUVOS RESPUBLIKOS MIESTŲ IR RAJONŲ LAIKINO TIESIOGINIO VALDYMO
 
 1 straipsnis.
 
-Šis įstatymas nustato Lietuvos Respublikos teritorijos administracinių vienetų – miestų ir rajonų – laikino tiesioginio valdymo organizavimo tvarką.
+Šis įstatymas nustato Lietuvos Respublikos teritorijos administracinių vienetų - miestų ir rajonų - laikino tiesioginio valdymo įvedimo pagrindus ir valdymo organizavimo tvarką.
+
+Savivaldybės teritorijoje laikinai, bet ne ilgiau kaip iki kadencijos pabaigos, Seimo sprendimu gali būti įvestas tiesioginis valdymas. Įvedus tiesioginį valdymą, savivaldybės taryba ir jos suformuotos vykdomosios institucijos netenka savo įgaliojimų.
+
+Tiesioginis valdymas gali būti įvedamas, jeigu:
+
+1) savivaldos institucijos savo veiksmais kėsinasi į valstybės teritorijos vientisumą bei konstitucinę santvarką;
+
+2) teismai nustato, kad taryba nesilaiko Lietuvos Respublikos Konstitucijos, pažeidinėja įstatymus;
+
+3) taryba neišsirenka mero, mero pavaduotojo ir nesuformuoja savivaldos institucijų per šiame įstatyme nustatytą laiką arba tris kartus nesusirenka į mero šaukiamą posėdį;
+
+4) meras ir taryba nesilaiko Vietos savivaldos įstatymo 9 straipsnio 3 dalies nuostatų.
+
+Siūlymą laikinai įvesti tiesioginį valdymą Seimui gali pateikti Vyriausybė, o išvadas dėl tokio siūlymo pagrįstumo Seimui teikia Seimo Valdymo reformų ir savivaldybių komitetas.
+
+Seimas, priimdamas sprendimą įvesti tiesioginį valdymą, nustato naujų rinkimų į savivaldybės tarybą datą.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-144, 1997-03-13, Žin., 1997, Nr. 27-621 (1997-03-28), i. k. 0971010ISTAVIII-144
 
 2 straipsnis.
 
@@ -58,11 +82,19 @@ Buvusios savivaldybės administracija tiesioginio valdymo metu vykdo Vietos savi
 
 7 straipsnis.
 
-Vyriausybės įgaliotinis neturi teisės panaikinti buvusios savivaldybės tarybos ar savivaldybės mero bei valdybos sprendimų. Jeigu reikia, šiuo klausimu jis gali kreiptis į Vyriausybės atstovą, kuris jo nuomone neteisėtus buvusių savivaldos institucijų, jų rinktų pareigūnų sprendimus (potvarkius) vadovaudamasis savo teise gali apskųsti apylinkės teismui.
+Vyriausybės įgaliotinis neturi teisės panaikinti buvusios savivaldybės tarybos ar savivaldybės mero bei valdybos sprendimų. Jeigu reikia, šiuo klausimu jis gali kreiptis į apskrities viršininką, kuris jo nuomone neteisėtus buvusių savivaldos institucijų, jų rinktų pareigūnų sprendimus (potvarkius) vadovaudamasis savo teise gali apskųsti apylinkės teismui.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-144, 1997-03-13, Žin., 1997, Nr. 27-621 (1997-03-28), i. k. 0971010ISTAVIII-144
 
 8 straipsnis.
 
-Vyriausybės įgaliotinio, kaip ir savivaldos institucijų, priimtų sprendimų teisinę priežiūrą atlieka Vyriausybės atstovas.
+Vyriausybės įgaliotinio, kaip ir savivaldybės institucijų bei pareigūnų, priimtų sprendimų teisinę priežiūrą atlieka apskrities viršininkas.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-144, 1997-03-13, Žin., 1997, Nr. 27-621 (1997-03-28), i. k. 0971010ISTAVIII-144
 
 9 straipsnis.
 
@@ -75,4 +107,14 @@ Respublikos miestas, rajonas, kuriame įvestas tiesioginis valdymas, naudoja Lie
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                              ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-144, 1997-03-13, Žin., 1997, Nr. 27-621 (1997-03-28), i. k. 0971010ISTAVIII-144
+
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo" 1, 7, 8 straipsnių pakeitimo ir papildymo įstatymas
 
