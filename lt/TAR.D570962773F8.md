@@ -4,7 +4,7 @@ identifier: "TAR.D570962773F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-03"
-last_updated: "1998-06-25"
+last_updated: "2000-05-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,33 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos atmintinų dienų įstatymas
 
-Redagavo: Ramunė Lūžaitė (1998.07.10)
-
-Įstatymas paskelbtas: Žin., 1997, Nr.67-1672
+Įstatymas paskelbtas: Žin., 1997, Nr. 67-1672
 
 Neoficialus įstatymo tekstas
 
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-815, 98.06.25,
-
-Žin., 1998, Nr.61-1733 (98.07.08)
-
 LIETUVOS RESPUBLIKOS
-
-ATMINTINŲ DIENŲ ĮSTATYMO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
-
-*** Pabaiga ***
-
-LIETUVOS
-
-RESPUBLIKOS
 
 ATMINTINŲ
 
@@ -73,9 +51,9 @@ diena;
 
 knygos diena;
 
-7)  gegužės ketvirtasis sekmadienis - Partizanų
+7) gegužės trečiasis sekmadienis - Partizanų
 
-diena;
+pagerbimo, kariuomenės ir visuomenės vienybės diena;
 
 8) birželio 1-oji - Tarptautinė vaikų gynimo diena;
 
@@ -93,51 +71,95 @@ diena;
 
 15) liepos paskutinysis sekmadienis - Jūros diena;
 
-16) rugpjūčio 15-oji - Žolinė (Švč. M.Marijos ėmimo
+16) rugpjūčio 15-oji - Žolinė (Švč. Mergelės Marijos
 
-į dangų diena);
+ėmimo į dangų diena);
 
 17) rugpjūčio 23-ioji - Juodojo kaspino diena;
 
 18) rugsėjo 1-oji - Laisvės diena;
 
-19) rugsėjo 8-oji - Šilinės (Švč. M. Marijos gimimo
+19) rugsėjo 8-oji -
 
-diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir
+Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir
 
-laisvės apgynimą diena;
+Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
 
-20) rugsėjo 23-ioji - Lietuvos žydų genocido diena;
+20) rugsėjo 22-oji -
 
-21) spalio 5-oji - Tarptautinė mokytojų diena;
+Baltų vienybės diena;
 
-22) spalio 25-oji - Konstitucijos diena;
+21) rugsėjo 23-ioji - Lietuvos žydų genocido diena;
 
-23) lapkričio 2-oji - Mirusiųjų atminimo (Vėlinių)
+22) spalio 5-oji - Tarptautinė mokytojų diena;
+
+23) spalio 25-oji - Konstitucijos diena;
+
+24) lapkričio 2-oji - Mirusiųjų atminimo (Vėlinių)
 
 diena;
 
-24) lapkričio 23-ioji - Lietuvos karių diena;
+25) lapkričio 23-ioji - Lietuvos karių diena;
 
-25) lapkričio 30-oji - Mažosios Lietuvos
+26) lapkričio 30-oji -
 
-prisijungimo prie Didžiosios Lietuvos akto diena;
+Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
 
-26) gruodžio 10-oji - Tarptautinė žmogaus teisių
+27) gruodžio 10-oji - Tarptautinė
 
-diena.
+žmogaus teisių diena.
 
-Straipsnio pakeitimai:
+Straipsnio
 
-Nr. VIII-815, 98.06.25,
+pakeitimai:
 
-Žin., 1998, Nr.61-1733 (98.07.08)
+Nr. VIII-815,
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą
+98.06.25, Žin., 1998, Nr.61-1733 (98.07.08)
 
-įstatymą.
+Nr. VIII-1680, 00.05.16, Žin., 2000,
 
-RESPUBLIKOS PREZIDENTAS                                  ALGIRDAS
+Nr.42-1197 (00.05.24)
+
+Skelbiu šį Lietuvos Respublikos Seimo
+
+priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS
 
 BRAZAUSKAS
+
+__________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-815,
+
+98.06.25, Žin., 1998, Nr.61-1733 (98.07.08)
+
+LIETUVOS
+
+RESPUBLIKOS ATMINTINŲ DIENŲ ĮSTATYMO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1680, 00.05.16, Žin., 2000,
+
+Nr.42-1197 (00.05.24)
+
+ATMINTINŲ DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė
+
+(2000.05.25)
 
