@@ -4,7 +4,7 @@ identifier: "TAR.BF09B38B99C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-20"
-last_updated: "2003-10-14"
+last_updated: "2003-11-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF09B38B99C6"
 department: "Lietuvos Respublikos Seimas"
@@ -247,11 +247,21 @@ esantis bankrutavusios įmonės balanse;
 
 naudoti statiniai.
 
-2. Savivaldybių tarybos savo
+1
 
-biudžeto sąskaita turi teisę sumažinti nekilnojamojo turto mokestį arba visai
+dalies papildymas nuo 2004-01-01:
 
-nuo jo atleisti.
+18) profesinių sąjungų nekilnojamasis turtas (ar jo
+
+dalis), naudojamas (-a) tik nekomercinei profesinių sąjungų įstatuose numatytai
+
+veiklai.
+
+2. Savivaldybių
+
+tarybos savo biudžeto sąskaita turi teisę sumažinti nekilnojamojo turto mokestį
+
+arba visai nuo jo atleisti.
 
 Straipsnio
 
@@ -272,6 +282,12 @@ VIII-267,
 Nr. VIII-2059,
 
 00.10.17, Žin., 2000, Nr.92-2888 (00.10.31), įsigalioja nuo 2001.01.01
+
+Nr.
+
+IX-1850,
+
+2003-11-25, Žin., 2003, Nr. 116-5256 (2003-12-12)
 
 6 straipsnis. Nekilnojamojo
 
@@ -341,9 +357,9 @@ nuosavybės teisė į turtą buvo prarasta.
 
 Laiku neapmokestinti
 
-mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas Lietuvos
+mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas
 
-Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 
 Straipsnio
 
@@ -417,9 +433,9 @@ Iki 6 straipsnio
 
 1) įmonių ir organizacijų,
 
-sudarančių balansą, nekilnojamojo turto mokestine verte laikoma šio turto
+sudarančių balansą, nekilnojamojo turto mokestine verte laikoma šio turto pradinė
 
-pradinė vertė, indeksuota taikant Lietuvos Respublikos Vyriausybės nustatytus
+vertė, indeksuota taikant Lietuvos Respublikos Vyriausybės nustatytus
 
 koeficientus;
 
@@ -529,9 +545,9 @@ STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-2059, 00.10.17,
+Nr. VIII-2059,
 
-Žin., 2000, Nr.92-2888 (00.10.31)
+00.10.17, Žin., 2000, Nr.92-2888 (00.10.31)
 
 ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO
 
@@ -583,13 +599,33 @@ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
 
 Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1850,
+
+2003-11-25, Žin., 2003, Nr. 116-5256 (2003-12-12)
+
+ĮMONIŲ
+
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO
+
+ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-11-07)
+Aušra Bodin (2003-12-12)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
