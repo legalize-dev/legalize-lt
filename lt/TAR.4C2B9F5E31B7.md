@@ -4,7 +4,7 @@ identifier: "TAR.4C2B9F5E31B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-01-16"
-last_updated: "1991-01-16"
+last_updated: "1992-01-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4C2B9F5E31B7"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,13 +16,21 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymas
 
+Suvestinė redakcija nuo 1992-01-12 iki 1992-07-14
+
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 12-0; Žin. 1991, Nr.3-78, i. k. 0911010ISTA000I-954
+
 LIETUVOS RESPUBLIKOS ĮSTATYMAS
 
 DĖL PAPILDOMŲ SOCIALINIŲ GARANTIJŲ ŠEIMOMS ASMENŲ, NUKENTĖJUSIŲ KOVOJANT UŽ LIETUVOS RESPUBLIKOS LAISVĘ, NUO 1991 M. SAUSIO 11–13 D. VYKDYTOS AGRESIJOS IR PO TO BUVUSIŲ ĮVYKIŲ
 
 1 straipsnis.
 
-Skirti maitintojo netekimo pensijas asmenų, žuvusių už Lietuvos Respublikos laisvę, šeimoms pagal Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo normas ir sąlygas, taikomas to įstatymo 14 straipsnio 2 dalyje išvardytiems asmenims.
+Skirti maitintojo netekimo pensijas asmenų, žuvusių už Lietuvos Respublikos laisvę, šeimoms, o asmenims, tapusiems invalidais kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, – invalidumo pensijas pagal Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo normas ir sąlygas, taikomas to įstatymo 14 straipsnio pirmojoje ir antrojoje dalyse išvardytiems asmenims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-2198, 1992-01-12, Lietuvos aidas, 1992, Nr. 10-0 (1992-01-16); Žin., 1992, Nr. 3-38 (1992-01-31), i. k. 0921010ISTA00I-2198
 
 Suteikti teisę gauti maitintojo netekimo pensiją asmenų, žuvusių už Lietuvos Respublikos laisvę, motinoms, sukakusioms 50 metų.
 
@@ -35,16 +43,6 @@ Nustatyti minimalaus gyvenimo lygio dydžio priedus prie senatvės ar invalidumo
 3 straipsnis.
 
 Taikyti žuvusiųjų šeimų nariams, taip pat asmenims, kurie tapo invalidais dėl 1991 m. sausio 11–13 d. vykdytos agresijos ir po to buvusių įvykių, 50 proc. valstybinio butų fondo nuomos mokesčio ir nustatyto mokesčio už naudojimąsi šildymu, vandeniu, kanalizacija, dujomis, elektros energija, telefonu nuolaidą, taip pat 80 proc. nuolaidą už vaistus, parduodamus pagal gydytojų išrašytus specialius receptus.
-
-LIETUVOS RESPUBLIKOS
-
-AUKŠČIAUSIOSIOS TARYBOS
-
-PIRMININKAS                                                                                                    V. LANDSBERGIS
-
-Vilnius, 1991 m. sausio 16 d.
-
-Nr. I-954
 
 4 straipsnis.
 
