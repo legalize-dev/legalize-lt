@@ -4,7 +4,7 @@ identifier: "TAR.06D7603A1FDE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-25"
-last_updated: "1998-10-22"
+last_updated: "1999-03-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06D7603A1FDE"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.17)
 
 Redagavo:
 
-Ramunė Lūžaitė (1998.11.16)
+Ramunė Lūžaitė (1999.04.14)
 
 Įstatymas
 
@@ -79,6 +79,22 @@ LIETUVOS
 RESPUBLIKOS VALSTYBINĖS DARBO INSPEKCIJOS ĮSTATYMO 4, 5, 6, 7, 8, 12, 13, 15,
 
 18, 21, 25 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-1117, 99.03.30, Žin., 1999, Nr.33-952 (99.04.14)
+
+LIETUVOS
+
+RESPUBLIKOS VALSTYBINĖS DARBO INSPEKCIJOS ĮSTATYMO 11 STRAIPSNIO PAPILDYMO
+
+ĮSTATYMAS
 
 ***
 
@@ -176,9 +192,9 @@ numatytais atvejais Darbo inspekcija tam tikruose objektuose gali
 
 nekontroliuoti darbų saugos. Tuose objektuose institucijų, kontroliuojančių
 
-darbų saugą, kompetenciją darbų saugos klausimais nustato įstatymai ir institucijų
+darbų saugą, kompetenciją darbų saugos klausimais nustato įstatymai ir
 
-nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė.
+institucijų nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė.
 
 Straipsnio
 
@@ -376,11 +392,13 @@ pagrindinį uždavinį:
 
 1) tikrina, kaip įmonėse laikomasi teisės
 
-aktų, reglamentuojančių darbų saugą ir darbo santykius. Tikrindama, kaip laikomasi
+aktų, reglamentuojančių darbų saugą ir darbo santykius. Tikrindama, kaip
 
-Bedarbių rėmimo įstatymo, Darbo inspekcija kontroliuoja, ar darbdaviai laikosi
+laikomasi Bedarbių rėmimo įstatymo, Darbo inspekcija kontroliuoja, ar
 
-šiame įstatyme nustatytos darbo sutarčių sudarymo ir nutraukimo tvarkos;
+darbdaviai laikosi šiame įstatyme nustatytos darbo sutarčių sudarymo ir
+
+nutraukimo tvarkos;
 
 2) konsultuoja darbuotojus, profesines
 
@@ -394,11 +412,11 @@ sutarčių sudarymo klausimais;
 
 saugos ekspertizes naujai steigiamų bei rekonstruojamų įmonių ar jų padalinių
 
-(darboviečių), naujai kuriamų darbo priemonių, taip pat asmeninės apsaugos
+(darboviečių), naujai kuriamų darbo priemonių, taip pat asmeninės apsaugos priemonių,
 
-priemonių, naujų technologinių procesų projektams, dalyvauja priimant naudoti
+naujų technologinių procesų projektams, dalyvauja priimant naudoti įmones ar jų
 
-įmones ar jų padalinius (darbovietes);
+padalinius (darbovietes);
 
 4) kontroliuoja saugos darbe ir darbo
 
@@ -410,11 +428,13 @@ kontrolės organizavimą įmonėse;
 
 priemonės, darbo vietos, technologiniai procesai, taip pat darbo sąlygos
 
-atitinka norminių aktų reikalavimus, kontroliuoja, kaip laikomasi nustatytos potencialiai
+atitinka norminių aktų reikalavimus, kontroliuoja, kaip laikomasi nustatytos
 
-pavojingų įrenginių priežiūros tvarkos, elektros, šilumos ir dujų įrenginių
+potencialiai pavojingų įrenginių priežiūros tvarkos, elektros, šilumos ir dujų
 
-saugaus naudojimo reikalavimų ir kaip organizuojamas transporto eismas įmonėse;
+įrenginių saugaus naudojimo reikalavimų ir kaip organizuojamas transporto
+
+eismas įmonėse;
 
 6) tikrina įmonių pasirengimą vykdyti
 
@@ -446,13 +466,13 @@ naudojamos pavojingos medžiagos arba darbo aplinka kenksminga darbuotojų
 
 sveikatai;
 
-9) tikrina, ar įmonėse įrengtos gamybinės
+9) tikrina, ar įmonėse įrengtos gamybinės buities
 
-buities patalpos, kolektyvinės saugos priemonės (kur tai reikalinga), ar
+patalpos, kolektyvinės saugos priemonės (kur tai reikalinga), ar nustatyta
 
-nustatyta tvarka išduodamos bei naudojamos asmeninės apsaugos priemonės, ar
+tvarka išduodamos bei naudojamos asmeninės apsaugos priemonės, ar teisingai
 
-teisingai sudaryti darbuotojų, kuriems privaloma tikrintis sveikatą, sąrašai,
+sudaryti darbuotojų, kuriems privaloma tikrintis sveikatą, sąrašai,
 
 kontroliuoja, kaip darbdaviai organizuoja privalomus darbuotojų sveikatos
 
@@ -462,27 +482,27 @@ patikrinimus;
 
 darbingumo asmenų darbą, darbo ir poilsio organizavimą, ar nedirbamas nelegalus
 
-(nesudarius darbo sutarties su darbuotojais) darbas, duoda darbdaviams
+(nesudarius darbo sutarties su darbuotojais) darbas, duoda darbdaviams privalomus
 
-privalomus vykdyti nurodymus dėl darbo, atitinkančio visas būtinąsias darbo
+vykdyti nurodymus dėl darbo, atitinkančio visas būtinąsias darbo sutarties
 
-sutarties sąlygas, įforminimo rašytinėmis darbo sutartimis;
+sąlygas, įforminimo rašytinėmis darbo sutartimis;
 
 11) nustatyta tvarka tiria sunkių nelaimingų
 
-atsitikimų darbe bei nelaimingų atsitikimų darbe su mirtinomis pasekmėmis
+atsitikimų darbe bei nelaimingų atsitikimų darbe su mirtinomis pasekmėmis aplinkybes
 
-aplinkybes ir priežastis. Sunkių ir mirtinų nelaimingų atsitikimų darbe
+ir priežastis. Sunkių ir mirtinų nelaimingų atsitikimų darbe atvejais
 
-atvejais Valstybinė darbo inspekcija medžiagą apie nelaimingą atsitikimą
+Valstybinė darbo inspekcija medžiagą apie nelaimingą atsitikimą perduoda
 
-perduoda prokuratūrai. Tikrina, ar įmonėse laikomasi nustatytos nelaimingų
+prokuratūrai. Tikrina, ar įmonėse laikomasi nustatytos nelaimingų atsitikimų
 
-atsitikimų darbe tyrimo tvarkos, taip pat kaip diegiamos prevencinės priemonės,
+darbe tyrimo tvarkos, taip pat kaip diegiamos prevencinės priemonės, kad būtų
 
-kad būtų išvengta nelaimingų atsitikimų, profesinių ligų. Nustatyta tvarka
+išvengta nelaimingų atsitikimų, profesinių ligų. Nustatyta tvarka organizuoja
 
-organizuoja ir kartu su sveikatos priežiūros įstaigų atstovais tiria profesinių
+ir kartu su sveikatos priežiūros įstaigų atstovais tiria profesinių
 
 ligų, taip pat ūmių profesinių ligų (apsinuodijimų), atsiradusių kartu su
 
@@ -490,15 +510,15 @@ nelaimingu atsitikimu darbe, aplinkybes ir priežastis;
 
 12) teikia išvadas įmonei, darbuotojui dėl
 
-įmonės atsakomybės už padarytą žalą darbuotojo sveikatai. Dalyvauja tiriant avarijas
+įmonės atsakomybės už padarytą žalą darbuotojo sveikatai. Dalyvauja tiriant
 
-įmonėse. Registruoja sunkius ir mirtinus nelaimingus atsitikimus darbe, kaupia
+avarijas įmonėse. Registruoja sunkius ir mirtinus nelaimingus atsitikimus
 
-iš įmonių gautą informaciją apie lengvus nelaimingus atsitikimus darbe,
+darbe, kaupia iš įmonių gautą informaciją apie lengvus nelaimingus atsitikimus
 
-nustatyta tvarka saugo nelaimingų atsitikimų darbe, profesinių ligų priežasčių
+darbe, nustatyta tvarka saugo nelaimingų atsitikimų darbe, profesinių ligų
 
-tyrimo aktus;
+priežasčių tyrimo aktus;
 
 13) analizuoja nelaimingų atsitikimų,
 
@@ -634,13 +654,13 @@ darbe, profesinės ligos priežastis, gauti reikiamus jų tyrimui dokumentus
 
 (susijusius su žalos, padarytos darbuotojo sveikatai, įstatymų ir kitų darbų
 
-saugos teisės aktų reikalavimų pažeidimų teisiniu įvertinimu) iš įmonių,
+saugos teisės aktų reikalavimų pažeidimų teisiniu įvertinimu) iš įmonių, sveikatos
 
-sveikatos priežiūros įstaigų, teisėsaugos ir kitų institucijų, taip pat gauti
+priežiūros įstaigų, teisėsaugos ir kitų institucijų, taip pat gauti darbdavių,
 
-darbdavių, jų įgaliotų asmenų, darbuotojų ar kitų liudininkų paaiškinimus dėl
+jų įgaliotų asmenų, darbuotojų ar kitų liudininkų paaiškinimus dėl nelaimingo
 
-nelaimingo atsitikimo aplinkybių ar priežasčių;
+atsitikimo aplinkybių ar priežasčių;
 
 4) atlikti kontrolinius darbo aplinkos
 
@@ -690,15 +710,15 @@ sąlygos nelaimingiems atsitikimams, ūmiems apsinuodijimams, kai dėl
 
 technologinių ar darbo procesų pažeidimų darbo aplinka tampa pavojinga
 
-darbuotojų sveikatai ar gyvybei, kai darbuotojai neaprūpinti reikiamomis
+darbuotojų sveikatai ar gyvybei, kai darbuotojai neaprūpinti reikiamomis kolektyvinės
 
-kolektyvinės ar asmeninės apsaugos priemonėmis). Tuo atveju, kai darbdavys ar
+ar asmeninės apsaugos priemonėmis). Tuo atveju, kai darbdavys ar jo įgaliotas
 
-jo įgaliotas asmuo atsisako vykdyti darbo inspektoriaus reikalavimą sustabdyti
+asmuo atsisako vykdyti darbo inspektoriaus reikalavimą sustabdyti darbus, darbo
 
-darbus, darbo inspektorius kreipiasi į savivaldybės policijos pareigūnus dėl
+inspektorius kreipiasi į savivaldybės policijos pareigūnus dėl darbuotojų
 
-darbuotojų išvedimo iš pavojingų darbo vietų ar zonos;
+išvedimo iš pavojingų darbo vietų ar zonos;
 
 11) Administracinių teisės pažeidimų kodekso
 
@@ -801,6 +821,20 @@ straipsnis. Darbo inspektorius apie savo atvykimą į įmonę gali pranešti
 darbdaviui (jo  įgaliotam asmeniui),  įmonės profesinių sąjungų atstovams,
 
 kurie gali (jeigu pageidauja) dalyvauti inspektuojant įmonę.
+
+Jei patikrinimas atliekamas įmonės profesinės sąjungos
+
+prašymu, darbo inspektorius privalo apie savo atvykimą į įmonę pranešti šios
+
+įmonės profesinės sąjungos atstovams.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-1117, 99.03.30, Žin., 1999, Nr.33-952 (99.04.14)
 
 8 straipsnis.
 
@@ -912,9 +946,7 @@ inspektuojant įmonę.
 
 patvirtintos formos dokumentus, su jais supažindinti darbdavį (jo įgaliotą
 
-asmenį) ir turi teisę pateikti patikrinimo medžiagą įmonės profesinių sąjungų
-
-atstovams.
+asmenį) ir turi teisę pateikti patikrinimo medžiagą įmonės profesinių sąjungų atstovams.
 
 Darbo inspektoriaus nurodymai bei
 
@@ -1336,9 +1368,9 @@ _
 
 inspektorius:
 
-1) organizuoja Darbo inspekcijos darbą,
+1) organizuoja Darbo inspekcijos darbą, atsako
 
-atsako už jos veiklą, tvarko iš valstybės biudžeto gautus asignavimus;
+už jos veiklą, tvarko iš valstybės biudžeto gautus asignavimus;
 
 2) veikia Darbo inspekcijos vardu ir jai
 
@@ -1430,7 +1462,7 @@ pavaduoja.
 
 Vyriausiojo
 
-valstybinio  darbo inspektoriaus pavaduotoją (pavaduotojus) skiria  ir iš
+valstybinio  darbo inspektoriaus pavaduotoją (pavaduotojus) skiria  ir iš
 
 pareigų atleidžia vyriausiasis valstybinis darbo inspektorius.
 
@@ -1466,13 +1498,13 @@ ir darbo ministras.
 
 20
 
-straipsnis. Darbo inspektoriai negali būti valstybinių, akcinių, privataus verslo
+straipsnis. Darbo inspektoriai negali būti valstybinių, akcinių, privataus
 
-įmonių valdymo organų nariais, eiti kitų renkamų ar skiriamų pareigų, dirbti
+verslo įmonių valdymo organų nariais, eiti kitų renkamų ar skiriamų pareigų,
 
-kitose valstybinėse ar privačiose įmonėse, gauti kito papildomo atlyginimo,
+dirbti kitose valstybinėse ar privačiose įmonėse, gauti kito papildomo
 
-išskyrus atlyginimą už kūrybinę veiklą.
+atlyginimo, išskyrus atlyginimą už kūrybinę veiklą.
 
 21
 
@@ -1520,9 +1552,9 @@ Darbo
 
 inspektoriaus veiksmai ir sprendimai gali būti apskųsti vyriausiajam
 
-valstybiniam  darbo inspektoriui arba socialinės apsaugos ir darbo ministrui, arba
+valstybiniam  darbo inspektoriui arba socialinės apsaugos ir darbo ministrui,
 
-teismui. Vyriausiojo valstybinio darbo inspektoriaus sprendimai gali būti
+arba teismui. Vyriausiojo valstybinio darbo inspektoriaus sprendimai gali būti
 
 apskųsti socialinės apsaugos ir darbo ministrui arba teismui.
 
