@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "2001-07-10"
+last_updated: "2001-11-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -248,13 +248,15 @@ punkte nurodytas prekes.
 
 2. Šio įstatymo 6 straipsnio 1 dalies 9 ir 11 punktuose
 
-nurodytos įmonės Lietuvos Respublikos Vyriausybės nustatyta tvarka privalo apskaičiuoti
+nurodytos įmonės Lietuvos Respublikos Vyriausybės nustatyta tvarka privalo
 
-ir sumokėti šio įstatymo 5(1) straipsnyje nustatyto dydžio akcizą už
+apskaičiuoti ir sumokėti šio įstatymo 5(1) straipsnyje nustatyto
 
-perduotą (parduotą ar kitaip perleistą nuosavybėn) arba panaudotą be akcizo
+dydžio akcizą už perduotą (parduotą ar kitaip perleistą nuosavybėn) arba
 
-įsigytą ar importuotą orlaivių variklių ar laivų kurą, išskyrus, kai:
+panaudotą be akcizo įsigytą ar importuotą orlaivių variklių ar laivų kurą,
+
+išskyrus, kai:
 
 1) orlaivių variklių kuras perduotas ar panaudotas
 
@@ -280,9 +282,11 @@ vykdyti, ar žvejybos laivus.
 
 3. Akcizai yra prekių kainos elementas ir
 
-sąskaitose-faktūrose bei mokėjimo dokumentuose nenurodomi, išskyrus akcizą už cukrų.
+sąskaitose-faktūrose bei mokėjimo dokumentuose nenurodomi, išskyrus akcizą už
 
-Akcizas už cukrų nurodomas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+cukrų. Akcizas už cukrų nurodomas Lietuvos Respublikos Vyriausybės nustatyta
+
+tvarka.
 
 Straipsnio
 
@@ -640,9 +644,9 @@ gaminti šiuos gėrimus;
 
 7) eksportuotos prekės;
 
-8) importuojamos prekės, jei jos atleidžiamos nuo
+8) importuojamos prekės, jei jos atleidžiamos nuo importo
 
-importo muitų pagal Lietuvos Respublikos muitų tarifų įstatymą.
+muitų pagal Lietuvos Respublikos muitų tarifų įstatymą.
 
 9) orlaivių variklių kuras (kodus pagal KPN nustato
 
@@ -684,25 +688,7 @@ skirtas naudoti kaip žaliava biokuro gamybai;
 
 pagamintas iš rapsų aliejaus ir pagal technologiją reikalingų sudedamųjų dalių.
 
-[1
-
-dalis papildoma 14 punktu nuo 2002 m. sausio 1 d.:
-
-14) gazolis (dyzeliniai
-
-degalai), skirtas naudoti žemės ūkyje, taip pat tvenkinių ir kitų vidaus
-
-vandenų žuvininkystėje. Akcizu neapmokestinamo gazolio (dyzelinių degalų)
-
-kiekis Vyriausybės nustatyta tvarka registruotiems žemės ūkio subjektams per
-
-vienus kalendorinius metus negali viršyti 120 litrų už vieną Vyriausybės ar jos
-
-įgaliotos institucijos nustatyta tvarka deklaruotą žemės ūkio naudmenų hektarą
-
-bei 275 litrų už vieną toną sugautų ir realizuotų žuvų. Lengvatos taikymo
-
-tvarką nustato Vyriausybė ar jos įgaliota institucija.]
+14) (Neteko galios).
 
 2. Be to, akcizas netaikomas, kai etilo alkoholis bei
 
@@ -720,17 +706,17 @@ veterinarinių vaistų gamybai; veterinarijos tiekimo
 
 įmonėms – veterinarijos reikmėms.
 
-3. Mažos alų gaminančios įmonės (toliau - mažosios
+3. Mažos alų gaminančios įmonės (toliau - mažosios alaus
 
-alaus daryklos) 100 tūkst. dekalitrų  per metus realizuoto alaus taikomas 50
+daryklos) 100 tūkst. dekalitrų  per metus realizuoto alaus taikomas 50 procentų
 
-procentų mažesnis negu šio įstatymo 5(1) straipsnyje nustatytas
+mažesnis negu šio įstatymo 5(1) straipsnyje nustatytas akcizo alui
 
-akcizo alui tarifas. Šiame įstatyme mažąja alaus darykla, kuriai taikoma ši
+tarifas. Šiame įstatyme mažąja alaus darykla, kuriai taikoma ši lengvata,
 
-lengvata, laikoma per kalendorinius metus ne daugiau kaip 800 tūkst. dekalitrų
+laikoma per kalendorinius metus ne daugiau kaip 800 tūkst. dekalitrų alaus
 
-alaus pagaminanti teisiškai ir ekonomiškai nuo jokios kitos alaus daryklos
+pagaminanti teisiškai ir ekonomiškai nuo jokios kitos alaus daryklos
 
 nepriklausanti alaus darykla, kurios gamybinės patalpos yra fiziškai atskirtos
 
@@ -740,13 +726,13 @@ nuo bet kokios kitos alaus daryklos ir kuri nevykdo savo veiklos pagal kitos
 
 Respublikos Vyriausybė ar jos įgaliota institucija.
 
-4. Degtinei, kurios alkoholio koncentracija didesnė kaip
+4. Degtinei, kurios alkoholio koncentracija didesnė
 
-30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri atitinka
+kaip 30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri
 
-Vyriausybės nustatytus technologinius bei kokybės reikalavimus, taikomas
+atitinka Vyriausybės nustatytus technologinius bei kokybės reikalavimus,
 
-mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio
+taikomas mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio
 
 koncentracijos litre gėrimo. Ši lengvata pradedama taikyti Vyriausybei priėmus
 
@@ -784,13 +770,61 @@ Nr. VIII-1876,
 
 00.07.18, Žin., 2000, Nr.64-1941 (00.07.31)
 
-Nr. IX-167, 2001
+Nr. IX-167, 2001 01 25, Žin., 2001,
 
-01 25, Žin., 2001, Nr. 16-494 (2001 02 21), įsigalioja nuo 2002 01 01
+Nr. 16-494 (2001 02 21), įsigalioja nuo 2002 01 01
 
-Nr. IX-332, 2001 05 17, Žin., 2001, Nr.
+Nr. IX-332,
 
-45-1575 (2001 05 30), įsigalioja nuo 2001 06 01
+2001 05 17, Žin., 2001, Nr. 45-1575 (2001 05 30), įsigalioja nuo 2001 06 01
+
+Nr. IX-592,
+
+2001-11-13, Žin., 2001, Nr. 99-3526 (2001-11-28)
+
+[Įstatymas
+
+papildomas 6(1) straipsniu nuo 2002 m. sausio 1 d. ir galioja
+
+iki 2002 m. birželio 30 d. imtinai:
+
+6(1) straipsnis. Akcizo už kurą, naudojamą
+
+žemės ūkyje ir vidaus vandenų žuvininkystėje,
+
+grąžinimas
+
+1. Žemės ūkio subjektams, registruotiems Vyriausybės
+
+nustatyta tvarka, akcizas už jų įsigytus gazolius ir (arba) jų pakaitalus,
+
+skirtus naudoti kaip degalai (variklių kuras) žemės ūkyje ir (arba) vidaus
+
+vandenų žuvininkystėje, yra grąžinamas. Grąžinama akcizų suma apskaičiuojama
+
+pagal žemės ūkio subjektų įsigytą gazolių ir (arba) jų pakaitalų kiekį, tačiau
+
+neviršijant:
+
+1) 120 litrų per kalendorinius metus vienam žemės ūkio
+
+naudmenų hektarui, deklaruotam Vyriausybės ar jos įgaliotos institucijos
+
+nustatyta tvarka, ir (arba)
+
+2) 275 litrų per kalendorinius metus vienai tonai
+
+tvenkiniuose ir kituose vidaus vandenyse sugautų ir realizuotų žuvų.
+
+2. Akcizo grąžinimo tvarką nustato Vyriausybė ar jos
+
+įgaliota institucija.]
+
+Įstatymas papildytas straipsniu:
+
+Nr. IX-592,
+
+2001-11-13, Žin., 2001, Nr. 99-3526 (2001-11-28)
 
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
 
@@ -860,11 +894,13 @@ dalį.
 
 Vyriausybės nustatyta tvarka.
 
-4. Už Lietuvos Respublikoje pagamintus ir įvežamus alkoholinius
+4. Už Lietuvos Respublikoje pagamintus ir įvežamus
 
-gėrimus, tabako gaminius bei naftos produktus Vyriausybė gali nustatyti kitokią
+alkoholinius gėrimus, tabako gaminius bei naftos produktus Vyriausybė gali
 
-akcizų apskaičiavimo ir mokėjimo į biudžetą tvarką bei terminus.
+nustatyti kitokią akcizų apskaičiavimo ir mokėjimo į biudžetą tvarką bei
+
+terminus.
 
 10 straipsnis. Akcizų išieškojimas
 
@@ -936,9 +972,7 @@ Nr. VIII-982,
 
 98.12.21, Žin., 1998, Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą
-
-įstatymą.
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
@@ -1032,7 +1066,7 @@ Nr. I-1307,
 
 LIETUVOS RESPUBLIKOS AKCIZŲ
 
-ĮSTATYMO 8-1, 8-2, 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ĮSTATYMO 8(1), 8(2), 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja nuo 1996
 
@@ -1238,6 +1272,22 @@ AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 m. sausio 1 d.
 
+Šis įstatymas neteko galios nuo 2001 m. lapkričio 28 d.:
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-592,
+
+2001-11-13, Žin., 2001, Nr. 99-3526 (2001-11-28)
+
+AKCIZŲ ĮSTATYMO 6 STRAIPSNIO
+
+PAPILDYMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS IR AKCIZŲ ĮSTATYMO PAPILDYMO
+
+6(1) STRAIPSNIU ĮSTATYMAS
+
 19.
 
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1300,13 +1350,41 @@ AKCIZŲ ĮSTATYMO 2 IR 5
 
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+23.
 
-Redagavo: Aušra
+Lietuvos
 
-Petraitienė (2001-07-19)
+Respublikos Seimas, Įstatymas
 
-aupetr@lrs.lt
+Nr.
+
+IX-592,
+
+2001-11-13, Žin., 2001, Nr. 99-3526 (2001-11-28)
+
+AKCIZŲ
+
+ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS IR AKCIZŲ
+
+ĮSTATYMO PAPILDYMO 6(1) STRAIPSNIU ĮSTATYMAS
+
+Šio Įstatymo antrasis skirsnis
+
+įsigalioja nuo 2002 m. sausio 1 d.
+
+Šio Įstatymo antrasis skirsnis
+
+galioja iki 2002 m. birželio 30 d. imtinai.
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2001-11-28)
+
+autrap@lrs.lt
 
 13 straipsnis. Baigiamosios nuostatos
 
