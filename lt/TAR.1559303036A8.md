@@ -4,7 +4,7 @@ identifier: "TAR.1559303036A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-08"
-last_updated: "2003-12-11"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1559303036A8"
 department: "Lietuvos Respublikos Seimas"
@@ -92,11 +92,11 @@ pramogines programas ir dokumentinius filmus), trukmė yra ilgesnė negu 45
 
 minutės, juos reklama galima pertraukti vieną kartą per 45 minutes; papildomai
 
-šių kūrinių transliaciją pertraukti reklamos intarpu galima tik tais atvejais, kai
+šių kūrinių transliaciją pertraukti reklamos intarpu galima tik tais atvejais,
 
-šių kūrinių trukmė ne mažiau kaip 20 minučių ilgesnė negu du ar daugiau ištisi
+kai šių kūrinių trukmė ne mažiau kaip 20 minučių ilgesnė negu du ar daugiau
 
-45 minučių tarpai.
+ištisi 45 minučių tarpai.
 
 7. LRT
 
@@ -252,15 +252,13 @@ radijo ir televizijos programas, steigti filialus, korespondentų punktus,
 
 leisti informacinius leidinius apie savo veiklą.
 
-5. LRT turi
+5. LRT turi teisę transliuoti 2 televizijos ir 4 radijo
 
-pirmumo teisę į naujai sukoordinuotus elektroninio ryšio kanalus (radijo
+programas. Šiai nuostatai įgyvendinti reikalingas teises pirmumo tvarka LRT
 
-dažnius), valstybinius radijo ir televizijos transliavimo įrenginius su
+suteikia Lietuvos radijo ir televizijos komisija Visuomenės informavimo
 
-naujausiomis radijo ir televizijos technologijomis. LRT turi teisę turėti 2
-
-televizijos ir 4 radijo programas.
+įstatymo ir Elektroninių ryšių įstatymo nustatyta tvarka.
 
 6. LRT
 
@@ -274,11 +272,11 @@ Vyriausybės pranešimams. LRT gali leisti kalbėti opozicijos atstovui.
 
 7. LRT
 
-suteikia Lietuvos tradicinėms ir valstybės pripažintoms religinėms bendruomenėms
+suteikia Lietuvos tradicinėms ir valstybės pripažintoms religinėms
 
-laiką transliuoti religines apeigas dvišaliuose susitarimuose numatytomis
+bendruomenėms laiką transliuoti religines apeigas dvišaliuose susitarimuose
 
-sąlygomis ir tvarka.
+numatytomis sąlygomis ir tvarka.
 
 8. LRT suteikia laiką rinkimų metu kandidatams į
 
@@ -296,7 +294,15 @@ sudaro sąlygas darbuotojams kelti kvalifikaciją.
 
 kitoms radijo ir televizijos stotims be Tarybos leidimo.
 
-7 straipsnis. LRT programų rėmimas
+Straipsnio pakeitimai:
+
+Nr. IX-2136,
+
+2004-04-15, Žin., 2004, Nr. 68-2363(1) (2004-04-29)
+
+7 straipsnis. LRT programų
+
+rėmimas
 
 LRT
 
@@ -316,7 +322,9 @@ informacijos minimumą.
 
 karo padėties atveju LRT privalo skelbti Respublikos Prezidento, Seimo,
 
-Vyriausybės, Konstitucinio Teismo, Generalinės prokuratūros oficialius pranešimus.
+Vyriausybės, Konstitucinio Teismo, Generalinės prokuratūros oficialius
+
+pranešimus.
 
 II SKYRIUS
 
@@ -360,11 +368,11 @@ pirmininką.
 
 Radijo ir televizijos komisijos nariai, politinio (asmeninio) pasitikėjimo
 
-valstybės tarnautojai, asmenys, dirbantys pagal darbo sutartis radijo ir televizijos
+valstybės tarnautojai, asmenys, dirbantys pagal darbo sutartis radijo ir
 
-stotyse, įskaitant LRT, taip pat radijo ir televizijos stočių savininkai ir
+televizijos stotyse, įskaitant LRT, taip pat radijo ir televizijos stočių
 
-bendraturčiai.
+savininkai ir bendraturčiai.
 
 5. Tarybos narys negali būti atšauktas iš pareigų, kol
 
@@ -550,9 +558,9 @@ nutarimą, išskyrus Tarybos nutarimą dėl Tarybos atsistatydinimo. Taryba priv
 
 ne vėliau kaip per 10 dienų svarstyti generalinio direktoriaus prašymą.
 
-Pakartotinai balsavus už tą patį nutarimą daugiau kaip pusei visų Tarybos narių,
+Pakartotinai balsavus už tą patį nutarimą daugiau kaip pusei visų Tarybos
 
-generalinis direktorius nutarimą privalo vykdyti.
+narių, generalinis direktorius nutarimą privalo vykdyti.
 
 5.
 
@@ -650,9 +658,9 @@ garantijų suteikimo bei įsipareigojimų vykdymo;
 
 sandorio suma yra ne mažesnė kaip 100 000 litų;
 
-5) teikia išvadas dėl konkursui pateiktų LRT laidų projektų
+5) teikia išvadas dėl konkursui pateiktų LRT laidų
 
-finansinio pagrįstumo;
+projektų finansinio pagrįstumo;
 
 6) teikia išvadas generaliniam direktoriui dėl lėšų,
 
@@ -992,9 +1000,9 @@ LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 9 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
-Šis įstatymas įsigalioja
+Šis įstatymas
 
-nuo 2000 m. spalio 1 d.
+įsigalioja nuo 2000 m. spalio 1 d.
 
 6.
 
@@ -1020,13 +1028,35 @@ LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4 IR 10 STRAIPSNIŲ
 
 PAKEITIMO ĮSTATYMAS
 
+8.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-2136,
+
+2004-04-15, Žin., 2004, Nr. 68-2363(1) (2004-04-29)
+
+Publikavimo atitaisymas skelbtas:
+
+Žin., 2004, Nr. 71 (2004-04-30)
+
+LIETUVOS NACIONALINIO RADIJO IR
+
+TELEVIZIJOS ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo 2004
+
+m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-02-13)
+Aušrinė Trapinskienė (2004-05-04)
 
 autrap@lrs.lt
 
