@@ -4,7 +4,7 @@ identifier: "TAR.6D124D42F326"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-12-05"
-last_updated: "1992-11-19"
+last_updated: "1993-07-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6D124D42F326"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pilietybės įstatymas
 
-Suvestinė redakcija nuo 1992-11-19 iki 1993-07-27
+Suvestinė redakcija nuo 1993-07-28 iki 1993-12-17
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 251-0; Žin. 1991, Nr.36-977, i. k. 0911010ISTA00I-2072
 
@@ -123,7 +123,19 @@ Lietuvos Respublikos pilietybė gali būti suteikiama asmeniui pagal jo prašym�
 
 5) yra be pilietybės arba yra pilietis tokios valstybės, pagal kurios įstatymus Lietuvos Respublikos pilietybės įgijimo atveju praranda tos valstybės pilietybę, arba raštu praneša apie savo sprendimą atsisakyti turimos kitos valstybės pilietybės, kai jam bus suteikta Lietuvos Respublikos pilietybė.
 
+Lietuvių kalbos ir Lietuvos Respublikos Konstitucijos pagrindų egzaminų ir pažymėjimų išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
+
 Asmenims, atitinkantiems šiame straipsnyje numatytas sąlygas, Lietuvos Respublikos pilietybė teikiama, atsižvelgiant į Lietuvos Respublikos interesus.
+
+Asmenims, sulaukusiems 65 metų, ir I bei II grupių klausos, regos invalidams netaikomi Lietuvos Respublikos pilietybės įstatymo 12 straipsnio pirmosios dalies 1 punkto reikalavimai.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 
 13 straipsnis. Aplinkybės, dėl kurių Lietuvos Respublikos pilietybė neteikiama
 
@@ -157,9 +169,13 @@ Asmenys, kuriems suteikiama Lietuvos Respublikos pilietybė natūralizacijos ar 
 
 Lietuvos Respublikai prisiekiama viešai ir iškilmingai. Pilietybę įgyjantis asmuo lietuviškai perskaito priesaikos tekstą ir jį pasirašo.
 
-16 straipsnis. Pilietybės suteikimas asmenims, nusipelniusiems Lietuvos valstybei
+16 straipsnis. Pilietybės suteikimas išimties tvarka
 
-Užsienio valstybių piliečiams, turintiems ypatingų nuopelnų Lietuvos Respublikai, Lietuvos Respublikos pilietybė gali būti suteikta, netaikant jiems šio įstatymo 12 straipsnyje numatytų pilietybės suteikimo sąlygų.
+Respublikos Prezidentas, vadovaudamasis šiuo įstatymu, gali suteikti Lietuvos Respublikos pilietybę nusipelniusiems Lietuvai užsienio valstybių piliečiams išimties tvarka – netaikant jiems šio įstatymo 12 straipsnyje numatytų pilietybės suteikimo sąlygų.
+
+Straipsnio pakeitimai:
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 
 III. TEISĖS Į LIETUVOS RESPUBLIKOS PILIETYBĘ IŠSAUGOJIMAS. LIETUVOS RESPUBLIKOS PILIETYBĖS ATSTATYMAS. LIETUVOS RESPUBLIKOS PILIETYBĖS NETEKIMAS IR GRĄŽINIMAS
 
@@ -265,17 +281,25 @@ Prie prašymo suteikti Lietuvos Respublikos pilietybę pridedami šie dokumentai
 
 asmens tapatybę patvirtinantis dokumentas; gimimo liudijimas; dokumentai, patvirtinantys nuolatinę gyvenamąją vietą ir nuolatinius darbą (užsiėmimą) arba kitą legalų pragyvenimo šaltinį; dokumentai, patvirtinantys, jog nėra aplinkybių, nurodytų šio įstatymo 13 straipsnio 4 ir 5 punktuose.
 
-Prie prašymo įgyvendinti teisę į Lietuvos Respublikos pilietybę ar pareiškimo atstatyti Lietuvos Respublikos pilietybę pridedami dokumentai, patvirtinantys asmens tapatybę, tautybę, turimą kitos valstybės pilietybę ar jos atsisakymą, taip pat asmens gyvenamąją vietą.
+Prie prašymo įgyvendinti teisę į Lietuvos Respublikos pilietybę pridedami dokumentai, patvirtinantys, kad asmuo iki 1940 m. birželio 15 d. turėjo Lietuvos Respublikos pilietybę (ar yra tokio asmens vaikas); dokumentai, patvirtinantys asmens tapatybę (pasas ar jį atitinkantis dokumentas), lietuvių kilmę, turėtą kitos valstybės pilietybę ir jos atsisakymą (arba dokumentas, patvirtinantis kad asmuo yra be pilietybės), taip pat nuolatinę gyvenamąją vietą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. I-2312, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-162 (1992-03-10), i. k. 0921010ISTA00I-2312
 
-Prie prašymo atsisakyti Lietuvos Respublikos pilietybės pridedami šie dokumentai:
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 
-asmens tapatybę patvirtinantis dokumentas; gimimo liudijimas;
+Prie pareiškimo atstatyti Lietuvos Respublikos pilietybę pridedami dokumentai, patvirtinantys, kad asmuo iki 1940 m. birželio 15 d. turėjo Lietuvos Respublikos pilietybę ir iki 1990 m. kovo 11 d. pasitraukė iš Lietuvos (ar yra tokio asmens vaikas); pasas ar jį atitinkantis dokumentas; dokumentai, patvirtinantys asmens tapatybę, lietuvių kilmę, turimą kitos valstybės pilietybę (arba dokumentas patvirtinantis, kad asmuo yra be pilietybės);
 
-dokumentai, patvirtinantys nuolatinę gyvenamąją vietą ir darbą (užsiėmimą). Prašymai atsisakyti pilietybės priimami, sumokėjus Vyriausybės nustatyto dydžio valstybinę rinkliavą.
+Papildyta straipsnio dalimi:
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
+
+Prie prašymo atsisakyti Lietuvos Respublikos pilietybės pridedami: Lietuvos Respublikos piliečio pasas, Piliečio pažymėjimas ar Pažymėjimas apie apsisprendimą dėl Lietuvos Respublikos pilietybės (jeigu asmeniui Lietuvos Respublikos piliečio pasas nebuvo išduotas, pateikiamas tai patvirtinantis dokumentas iš nuolatinės gyvenamosios vietos policijos komisariato migracijos tarnybos); turimo Sovietų Sąjungos ar kitos valstybės paso nuorašas, patvirtintas notariškai ar pareigūno, kuris priima prašymą dėl pilietybės atsisakymo; dokumentai, patvirtinantys asmens nuolatinę gyvenamąją vietą ir darbą (užsiėmimą); sumokėtos valstybinės rinkliavos kvitas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 
 Prie prašymo grąžinti Lietuvos Respublikos pilietybę pridedami šie dokumentai:
 
@@ -289,7 +313,11 @@ dokumentai, patvirtinantys nuolatinę gyvenamąją vietą ir nuolatinius darbą 
 
 Teikimus pripažinti asmenį netekusiu Lietuvos Respublikos pilietybės šio įstatymo 21 straipsnyje nurodytais atvejais turi teisę paduoti Lietuvos Respublikos vidaus reikalų ministerija, taip pat Lietuvos Respublikos užsienio reikalų ministerija.
 
-Prašymai suteikti Lietuvos Respublikos pilietybę, atsisakyti Lietuvos Respublikos pilietybės ar ją grąžinti paduodami Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumui per rajono (apskrities), miesto valdybą.
+Prašymai suteikti Lietuvos Respublikos pilietybę, atsisakyti Lietuvos Respublikos pilietybės ar ją grąžinti paduodami Respublikos Prezidentui per rajono (apskrities), miesto valdybą. Lietuvos Respublikos piliečiai, nuolat gyvenantys užsienio valstybėse, prašymus atsisakyti Lietuvos Respublikos pilietybės gali paduoti per Lietuvos Respublikos diplomatines (konsulines) įstaigas užsienyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 
 Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 1 punkte, prašymus įgyvendinti teisę į Lietuvos Respublikos pilietybę paduoda Lietuvos Respublikos vidaus reikalų ministerijos įstaigoms ar Lietuvos Respublikos diplomatinėms (konsulinėms) įstaigoms užsienyje.
 
@@ -305,43 +333,53 @@ Straipsnio dalies pakeitimai:
 
 Nr. I-2312, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-162 (1992-03-10), i. k. 0921010ISTA00I-2312
 
-Prašymai suteikti Lietuvos Respublikos pilietybę pagal šio įstatymo 16 straipsnį paduodami tiesiog Aukščiausiosios Tarybos Prezidiumui. Prie prašymo taip pat pridedami asmens tapatybę patvirtinantys ir kiti dokumentai. Prašymas perduodamas nagrinėti Aukščiausiosios Tarybos deputatų komisijai.
-
 29 straipsnis. Pilietybės reikalų komisija
 
-Lietuvos Respublikos pilietybės klausimams svarstyti Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas sudaro Pilietybės reikalų komisiją.
+Lietuvos Respublikos pilietybės klausimams preliminariai svarstyti Respublikos Prezidentas sudaro pilietybės reikalų komisiją ir tvirtina Pilietybės klausimų nagrinėjimo šioje komisijoje taisykles.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 
 Komisija turi teisę pakviesti į savo posėdį asmenį, kurio pilietybės klausimas sprendžiamas, pavesti valstybinėms institucijoms, kad jos per komisijos nurodytą laiką pareikštų savo nuomonę ir pateiktų reikiamus dokumentus dėl komisijos nagrinėjamo prašymo ar teikimo.
 
 Komisijos posėdžiai yra teisėti, kai juose dalyvauja ne mažiau kaip du trečdaliai jos narių. Komisijos sprendimai priimami paprasta visų komisijos narių balsų dauguma ir įforminami protokole, kurį pasirašo visi posėdyje dalyvavę komisijos nariai.
 
-Pilietybės reikalų komisija teikia Aukščiausiosios Tarybos Prezidiumui pasiūlymus patenkinti prašymus dėl Lietuvos Respublikos pilietybės, o atsisakiusi rekomenduoti suteikti pilietybę – pareiškėjui apie tai praneša raštu, nurodydama atsisakymo motyvus.
-
-30 straipsnis. Aukščiausiosios Tarybos deputatų komisija
-
-Prašymus suteikti Lietuvos Respublikos pilietybę pagal šio įstatymo 16 straipsnį nagrinėja deputatų komisija, kurią sudaro Lietuvos Respublikos Aukščiausioji Taryba.
-
-Komisijos sprendimai priimami visų komisijos narių balsų dauguma ir įforminami protokole, kurį pasirašo visi posėdyje dalyvavę komisijos nariai.
-
-Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas nagrinėja prašymus suteikti Lietuvos Respublikos pilietybę pagal šio įstatymo 16 straipsnį, gavęs deputatų komisijos rekomendaciją.
-
-31 straipsnis. Prašymų ir teikimų Lietuvos Respublikos pilietybės klausimais sprendimų priėmimas
-
-Lietuvos Respublikos pilietybės suteikimo, jos atsisakymo, grąžinimo, pilietybės netekimo, taip pat akto dėl pilietybės suteikimo pripažinimo negaliojančiu klausimus sprendžia Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas.
-
-Lietuvos Respublikos pilietybės suteikimo, jos atsisakymo, grąžinimo, netekimo, taip pat akto dėl pilietybės pripažinimo negaliojančiu atvejais leidžiami Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo įsakai, o atmetus prašymus ar teikimus – priimami nutarimai.
-
-Sprendimus dėl Lietuvos Respublikos pilietybės atstatymo priima Lietuvos Respublikos vidaus reikalų ministras ar Lietuvos Respublikos diplomatinės įstaigos užsienyje vadovas. Sprendimus dėl teisės į Lietuvos Respublikos pilietybę įgyvendinimo priima Lietuvos Respublikos vidaus reikalų ministras.
+Pilietybės reikalų komisija teikia Respublikos Prezidentui pasiūlymus patenkinti prašymus dėl Lietuvos Respublikos pilietybės, o atsisakiusi rekomenduoti suteikti pilietybę – pareiškėjui apie tai praneša raštu, nurodydama atsisakymo motyvus.
 
 Straipsnio dalies pakeitimai:
 
-Nr. I-2312, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-162 (1992-03-10), i. k. 0921010ISTA00I-2312
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 
-Įsakai dėl Lietuvos Respublikos pilietybės suteikimo, vidaus reikalų ministro sprendimai dėl teisės į Lietuvos Respublikos pilietybę įgyvendinimo pagal šio įstatymo 18 straipsnio antrąją dalį įsigalioja, tik asmeniui prisiekus Lietuvos Respublikai rajonų (apskričių), miestų savivaldybėse arba Lietuvos Respublikos diplomatinėse (konsulinėse) įstaigose užsienyje.
+Komisija nagrinėja prašymus suteikti Lietuvos Respublikos pilietybę pagal šio įstatymo 16 straipsnį ir teikia pasiūlymus patenkinti prašymus Respublikos Prezidentui.
 
-Asmenys, kurie įgydami Lietuvos Respublikos pilietybę netenka turėtos kitos valstybės pilietybės, prisiekia Lietuvos Respublikai, kai pateikia įrodymus, kad jie neteko kitos valstybės pilietybės.
+Papildyta straipsnio dalimi:
 
-Rajonų (apskričių), miestų savivaldybės, Lietuvos Respublikos diplomatinės (konsulinės) įstaigos užsienyje per 7 dienas nuo priesaikos Lietuvos Respublikai apie tai praneša Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumui.
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
+
+30 straipsnis. Neteko galios nuo 1993-07-28
+
+Straipsnio naikinimas:
+
+Nr. I-240, 1993-07-16, Žin. 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
+
+31 straipsnis. Sprendimų dėl prašymų ir teikimų Lietuvos Respublikos pilietybės klausimais priėmimas
+
+Lietuvos Respublikos pilietybės suteikimo, jos atsisakymo, grąžinimo, pilietybės netekimo pagal šio įstatymo 21 straipsnį, taip pat akto dėl pilietybės suteikimo pripažinimo negaliojančiu, klausimus sprendžia Respublikos Prezidentas ir dėl to leidžia dekretus.
+
+Sprendimus dėl Lietuvos Respublikos pilietybės atstatymo ar teisės į Lietuvos Respublikos pilietybę įgyvendinimo priima Lietuvos Respublikos vidaus reikalų ministras.
+
+Jeigu paaiškėja, kad asmuo įgijo kitos valstybės pilietybę, vidaus reikalų ministras konstatuoja Lietuvos Respublikos pilietybės netekimo faktą pagal šio įstatymo 19 straipsnio 2 punktą. Toks asmuo laikomas netekusiu Lietuvos Respublikos pilietybės nuo kitos valstybės pilietybės įgijimo dienos.
+
+Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo, vidaus reikalų ministro sprendimas dėl teisės į Lietuvos Respublikos pilietybę pagal šio įstatymo 18 straipsnio antrąją dalį įsigalioja tik asmeniui prisiekus rajonų (apskričių), miestų savivaldybėse arba Lietuvos Respublikos diplomatinėse (konsulinėse) įstaigose užsienyje.
+
+Asmenys, kurie įgydami Lietuvos Respublikos pilietybę netenka turėtos kitos valstybės pilietybės, prisiekia Lietuvos Respublikai po to, kai pateikia įrodymus, kad jie neteko kitos valstybės pilietybės.
+
+Rajonų (apskričių), miestų savivaldybės, Lietuvos Respublikos diplomatinės (konsulinės) įstaigos užsienyje per 7 dienas nuo priesaikos Lietuvos Respublikai apie tai praneša Respublikos Prezidento kanceliarijai ir Vidaus reikalų ministerijai.
+
+Straipsnio pakeitimai:
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 
 32 straipsnis. Sprendimų priėmimas dėl vaikų pilietybės pasikeitimo
 
@@ -349,15 +387,29 @@ Rajonų (apskričių), miestų savivaldybės, Lietuvos Respublikos diplomatinės
 
 33 straipsnis. Aktų Lietuvos Respublikos pilietybės klausimais skelbimas
 
-Įsigalioję Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo įsakai dėl Lietuvos Respublikos pilietybės suteikimo, grąžinimo, netekimo, taip pat akto dėl Lietuvos Respublikos pilietybės suteikimo pripažinimo negaliojančiu skelbiami „Lietuvos Respublikos Aukščiausiosios Tarybos ir Vyriausybės žiniose“.
+Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo, grąžinimo, netekimo, taip pat akto dėl Lietuvos Respublikos pilietybės suteikimo pripažinimo negaliojančiu skelbiami „Valstybės žiniose“.
+
+Straipsnio pakeitimai:
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 
 34 straipsnis. Pakartotinis prašymų ir teikimų Lietuvos Respublikos pilietybės klausimais svarstymas
 
-Pakartotiniai asmenų prašymai suteikti Lietuvos Respublikos pilietybę, atsisakyti Lietuvos Respublikos pilietybės ar ją grąžinti priimami ne anksčiau kaip po vienerių metų nuo ankstesniojo sprendimo priėmimo.
+Pakartotiniai asmenų prašymai suteikti Lietuvos Respublikos pilietybę ar ją grąžinti priimami ne anksčiau kaip po vienerių metų nuo ankstesniojo sprendimo priėmimo.
+
+Straipsnio pakeitimai:
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 
 35 straipsnis. Lietuvos Respublikos pilietybės dokumentų rengimas
 
 Asmenų, nuolat gyvenančių Lietuvoje, pilietybės dokumentus rengia Lietuvos Respublikos vidaus reikalų ministerija, o asmenų, nuolat gyvenančių kitose valstybėse, – Lietuvos Respublikos užsienio reikalų ministerija kartu su Vidaus reikalų ministerija.
+
+Lietuvos Respublikos pilietybės dokumentų rengimo taisykles tvirtina Lietuvos Respublikos Vyriausybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 
 VI. TARPTAUTINĖS SUTARTYS
 
@@ -400,4 +452,12 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-3067, 1992-11-19, Lietuvos aidas, 1992, Nr. 232-0 (1992-11-26); Žin., 1992, Nr. 34-1031 (1992-11-30), i. k. 0921010ISTA00I-3067
 
 Dėl Lietuvos Respublikos pilietybės įstatymo 14 ir 25 straipsnių pakeitimo
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
+
+Dėl Lietuvos Respublikos pilietybės įstatymo pakeitimo ir papildymo
 
