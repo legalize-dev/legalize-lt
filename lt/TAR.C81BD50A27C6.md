@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2000-10-12"
+last_updated: "2001-04-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -23,7 +23,9 @@ skelbtas: Žin., 1996, Nr. 66-1572
 
 Nauja
 
-įstatymo redakcija skelbta: Žin., 1998, Nr. 109-2995
+įstatymo redakcija skelbta: Žin., 1998, Nr.
+
+109-2995
 
 Neoficialus
 
@@ -671,7 +673,7 @@ gavimo dienos.
 
 8.
 
-Už licencijos išdavimą (perregistravimą) mokamas žyminis mokestis.
+Už licencijos išdavimą (perregistravimą) mokama valstybės rinkliava.
 
 9.
 
@@ -817,6 +819,12 @@ Apie licencijos išdavimą, jos galiojimo sustabdymą, atnaujinimą ar panaikini
 
 Akreditavimo tarnyba skelbia “Valstybės žiniose”.
 
+Straipsnio pakeitimai:
+
+Nr. IX-287, 2001 04 19, Žin., 2001, Nr.
+
+39-1357 (2001 05 09)
+
 6
 
 straipsnis. Įstaigų akreditavimas sveikatos priežiūrai
@@ -877,11 +885,11 @@ jos įgaliota institucija.
 
 straipsnis. Licencijuotų įstaigų registravimas
 
-1. Licencijas gavusios Įstaigos
+1. Licencijas gavusios
 
-registruojamos Lietuvos Respublikos įstatymų bei kitų teisės aktų nustatyta
+Įstaigos registruojamos Lietuvos Respublikos įstatymų bei kitų teisės aktų
 
-tvarka.
+nustatyta tvarka.
 
 2.
 
@@ -1059,11 +1067,11 @@ tvirtina įstaigų veiklos statistikos formas, įstaigų veiklos apskaitos ir
 
 atskaitomybės tvarką;
 
-12) kartu su Valstybine
+12) kartu su Valstybine ligonių
 
-ligonių kasa nustato minimalius LNSS įstaigų išdėstymo, jų struktūros
+kasa nustato minimalius LNSS įstaigų išdėstymo, jų struktūros reikalavimus bei
 
-reikalavimus bei paslaugų poreikį;
+paslaugų poreikį;
 
 13)
 
@@ -1161,11 +1169,11 @@ priežiūros specialistų priėmimo į darbą tvarka
 
 1. Valstybės ir
 
-savivaldybių biudžetinių ir viešųjų įstaigų vadovai į darbą priimami viešo konkurso
+savivaldybių biudžetinių ir viešųjų įstaigų vadovai į darbą priimami viešo
 
-būdu penkeriems metams. Viešą konkursą organizuoja ir jo nuostatus tvirtina
+konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir jo nuostatus
 
-atitinkamos įstaigos steigėjas, suderinęs konkurso sąlygose nurodytus
+tvirtina atitinkamos įstaigos steigėjas, suderinęs konkurso sąlygose nurodytus
 
 kvalifikacinius reikalavimus su Sveikatos apsaugos ministerija.
 
@@ -1201,9 +1209,9 @@ vadovas turi teisę organizuoti padalinių ir filialų vadovų atestaciją.
 
 LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovais gali būti
 
-asmenys, kurie atitinka Sveikatos apsaugos ministerijos patvirtintus kvalifikacinius
+asmenys, kurie atitinka Sveikatos apsaugos ministerijos patvirtintus
 
-reikalavimus.
+kvalifikacinius reikalavimus.
 
 5. LNSS biudžetinių ir
 
@@ -1793,17 +1801,17 @@ LNSS
 
 nepriklausančių įstaigų steigimo, reorganizavimo, likvidavimo klausimus
 
-reguliuoja Įmonių įstatymas, Viešųjų įstaigų įstatymas, Įmonių rejestro
+reguliuoja Įmonių įstatymas, Viešųjų įstaigų įstatymas, Įmonių rejestro įstatymas,
 
-įstatymas, atskirų įmonių rūšių įstatymai, kiti įstatymai bei teisės aktai.
+atskirų įmonių rūšių įstatymai, kiti įstatymai bei teisės aktai.
 
 18
 
 straipsnis. LNSS nepriklausančių įstaigų veiklos apribojimai
 
-LNSS nepriklausančios
+LNSS
 
-įstaigos gali teikti visų rūšių asmens ir visuomenės sveikatos
+nepriklausančios įstaigos gali teikti visų rūšių asmens ir visuomenės sveikatos
 
 priežiūros paslaugas, išskyrus asmens ir visuomenės sveikatos priežiūros
 
@@ -2075,9 +2083,9 @@ sveikatos priežiūros biudžetinės įstaigos yra:
 
 sveikatos ugdymo centras;
 
-2) visuomenės sveikatos
+2) visuomenės sveikatos centras
 
-centras apskrityje;
+apskrityje;
 
 3)
 
@@ -2179,9 +2187,7 @@ institucijos, suderinusios su Sveikatos apsaugos ministerija.
 
 Uždarųjų biudžetinių įstaigų, steigiamų krašto apsaugos ir vidaus reikalų
 
-sistemose, nuostatus tvirtina jų steigėjai, suderinę su Sveikatos apsaugos
-
-ministerija.
+sistemose, nuostatus tvirtina jų steigėjai, suderinę su Sveikatos apsaugos ministerija.
 
 5.
 
@@ -2915,9 +2921,11 @@ viešųjų
 
 nomenklatūra
 
-1. LNSS savivaldybių
+1. LNSS
 
-ir valstybės visuomenės sveikatos priežiūros viešosios įstaigos yra:
+savivaldybių ir valstybės visuomenės sveikatos priežiūros viešosios įstaigos
+
+yra:
 
 1) LNSS
 
@@ -3167,11 +3175,11 @@ atlyginti teikiant paslaugas paciento sveikatai padarytą žalą;
 
 8)
 
-saugoti paciento medicininę paslaptį, išskyrus atvejus, kai asmens sveikatos
+saugoti paciento medicininę paslaptį, išskyrus atvejus, kai asmens sveikatos priežiūros
 
-priežiūros įstaiga privalo pateikti informaciją apie pacientą arba kai
+įstaiga privalo pateikti informaciją apie pacientą arba kai pacientas duoda
 
-pacientas duoda sutikimą skelbti informaciją apie jo sveikatos būklę;
+sutikimą skelbti informaciją apie jo sveikatos būklę;
 
 9)
 
@@ -3263,11 +3271,11 @@ straipsnis. Paciento guldymo į stacionarinę įstaigą tvarka
 
 paguldyti į stacionarinę įstaigą asmenį be jo sutikimo.
 
-2.
+2. Draudžiama
 
-Draudžiama paguldyti į stacionarinę įstaigą nepilnametį ar neveiksnų asmenį be
+paguldyti į stacionarinę įstaigą nepilnametį ar neveiksnų asmenį be jo
 
-jo įstatyminių atstovų sutikimo.
+įstatyminių atstovų sutikimo.
 
 3.
 
@@ -3277,11 +3285,11 @@ Paciento ar jo įstatyminių atstovų sutikimo nereikia:
 
 kai yra grėsmė asmens gyvybei ir jis pats dėl to negali tokio sutikimo duoti;
 
-2)
+2) kai
 
-kai yra grėsmė nepilnamečio ar neveiksnaus asmens gyvybei, o jo įstatyminių
+yra grėsmė nepilnamečio ar neveiksnaus asmens gyvybei, o jo įstatyminių atstovų
 
-atstovų negalima greitai surasti;
+negalima greitai surasti;
 
 3)
 
@@ -3355,9 +3363,9 @@ mirštama po chirurginių intervencijų, diagnostikos ir gydymo procedūrų;
 
 5)
 
-mirštama nuo profesinių ar infekcinių ligų arba įtariama, jo g mirties
+mirštama nuo profesinių ar infekcinių ligų arba įtariama, jo g mirties priežastis
 
-priežastis profesinė ar infekcinė liga;
+profesinė ar infekcinė liga;
 
 6)
 
@@ -3679,11 +3687,11 @@ akreditavimo pažymėjimo;
 
 jos padalinio (filialo) atliekama sveikatos priežiūra neatitinka teisės aktų ar
 
-normatyvinių dokumentų reikalavimų ir dėl to yra realus pavojus pacientų
+normatyvinių dokumentų reikalavimų ir dėl to yra realus pavojus pacientų sveikatai
 
-sveikatai arba daroma žala žmonių sveikatai, nuostoliai juridiniams ir
+arba daroma žala žmonių sveikatai, nuostoliai juridiniams ir fiziniams
 
-fiziniams asmenims;
+asmenims;
 
 3) įstaiga nėra
 
@@ -3721,11 +3729,11 @@ visų ar dalies paslaugų teikimą, atsako įstatymų nustatyta tvarka.
 
 4.
 
-Sustabdžius asmens sveikatos priežiūros įstaigoje paslaugų teikimą, įstaigos
+Sustabdžius asmens sveikatos priežiūros įstaigoje paslaugų teikimą, įstaigos pacientai
 
-pacientai Sveikatos apsaugos ministerijos nustatyta tvarka perkeliami
+Sveikatos apsaugos ministerijos nustatyta tvarka perkeliami (perregistruojami)
 
-(perregistruojami) į kitas įstaigas.
+į kitas įstaigas.
 
 5.
 
@@ -3761,9 +3769,9 @@ skyrimo
 
 tvarka
 
-1. Įstaigos valdymo
+1. Įstaigos
 
-organai nušalinami ir laikinasis administratorius skiriamas, jeigu:
+valdymo organai nušalinami ir laikinasis administratorius skiriamas, jeigu:
 
 1)
 
@@ -3799,19 +3807,19 @@ straipsnis. Įstaigos laikinasis administratorius
 
 1. Įstaigos
 
-laikinasis administratorius - tai įstaigos valdymo organų nušalinimo
+laikinasis administratorius - tai įstaigos valdymo organų nušalinimo laikotarpiui
 
-laikotarpiui sveikatos apsaugos ministro skiriamas sveikatos priežiūros
+sveikatos apsaugos ministro skiriamas sveikatos priežiūros įstaigos vadovas.
 
-įstaigos vadovas. Įstaigų laikinųjų administratorių kvalifikacinius reikalavimus
+Įstaigų laikinųjų administratorių kvalifikacinius reikalavimus nustato
 
-nustato Sveikatos apsaugos ministerija. Laikinuoju administratoriumi negali
+Sveikatos apsaugos ministerija. Laikinuoju administratoriumi negali būti
 
-būti įstaigos, kurios valdymo organai nušalinti, darbuotojas. Darbo
+įstaigos, kurios valdymo organai nušalinti, darbuotojas. Darbo sutartį
 
-sutartį su įstaigos laikinuoju administratoriumi sudaro ir ją nutraukia
+su įstaigos laikinuoju administratoriumi sudaro ir ją nutraukia sveikatos
 
-sveikatos apsaugos ministras ar jo įgaliotas atstovas.
+apsaugos ministras ar jo įgaliotas atstovas.
 
 2.
 
@@ -3827,9 +3835,9 @@ Laikinasis administratorius turi teisę nutraukti ar sudaryti darbo sutartis su
 
 4.
 
-Laikinajam administratoriui neprivalomi įstaigos steigėjo ar savininko
+Laikinajam administratoriui neprivalomi įstaigos steigėjo ar savininko sprendimai,
 
-sprendimai, išskyrus šio straipsnio 5 dalyje nurodytus atvejus.
+išskyrus šio straipsnio 5 dalyje nurodytus atvejus.
 
 5.
 
@@ -3865,9 +3873,7 @@ Revizijos metu nustačius įstatymų, kitų teisės aktų ar normatyvinių dokum
 
 pažeidimus, laikinasis administratorius kreipiasi į Akreditavimo tarnybą dėl
 
-licencijos galiojimo panaikinimo ir informuoja apie tai Sveikatos apsaugos
-
-ministeriją.
+licencijos galiojimo panaikinimo ir informuoja apie tai Sveikatos apsaugos ministeriją.
 
 9.
 
@@ -7631,9 +7637,23 @@ SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 2 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-287, 2001 04 19, Žin., 2001, Nr.
+
+39-1357 (2001 05 09)
+
+SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.11.06)
+Redagavo: Aušrinė Trapinskienė (2001 05 17)
+
+autrap@lrs.lt
 
 62 straipsnis. Įstaigos laikinojo
 
