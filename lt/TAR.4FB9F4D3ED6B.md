@@ -4,7 +4,7 @@ identifier: "TAR.4FB9F4D3ED6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-05-08"
-last_updated: "1998-11-24"
+last_updated: "1999-06-15"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1998.12.14)
+Ramunė Lūžaitė (1999.07.07)
 
 Įstatymas
 
@@ -560,6 +560,20 @@ LIETUVOS RESPUBLIKOS
 
 įsigalioja nuo 1999 m. sausio 1 d.
 
+37.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1228,
+
+99.06.15, Žin., 1999, Nr.59-1917 (99.07.07)
+
+LIETUVOS RESPUBLIKOS
+
+ĮMONIŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -588,11 +602,11 @@ teisinius pagrindus.
 
 Atskirų,
 
-nurodytų šio įstatymo 6 straipsnyje, rūšių įmonių steigimas, jų teisinis  statusas,
+nurodytų šio įstatymo 6 straipsnyje, rūšių įmonių steigimas, jų teisinis
 
-veikla, likvidavimas  ir reorganizavimas reglamentuojamas atitinkamais
+statusas, veikla, likvidavimas  ir reorganizavimas reglamentuojamas
 
-įstatymais.
+atitinkamais įstatymais.
 
 Šis
 
@@ -654,9 +668,9 @@ disponuoja įmonės turtu, organizuoja įmonės ūkinę ir finansinę veiklą.
 
 Nuosavybės
 
-teisę  į įmonę  įmonininkas įgyja  įmonės steigimo, pirkimo-pardavimo arba kitokių
+teisę  į įmonę  įmonininkas įgyja  įmonės steigimo, pirkimo-pardavimo arba
 
-civilinių sandorių pagrindu.
+kitokių civilinių sandorių pagrindu.
 
 Jeigu
 
@@ -746,9 +760,7 @@ Lietuvos Respublikoje gali veikti šios
 
 2) tikrosios ūkinės bendrijos;
 
-3) komanditinės (pasitikėjimo) ūkinės
-
-bendrijos;
+3) komanditinės (pasitikėjimo) ūkinės bendrijos;
 
 4) akcinės bendrovės, uždarosios akcinės
 
@@ -758,9 +770,9 @@ bendrovės ir investicinės bendrovės;
 
 6) savivaldybės įmonės;
 
-7) žemės ūkio bendrovės (veikla reglamentuojama
+7) žemės ūkio bendrovės (veikla
 
-atskirame įstatyme);
+reglamentuojama atskirame įstatyme);
 
 8) kooperatinės bendrovės (kooperatyvai). Jų
 
@@ -846,13 +858,13 @@ jungtinės veiklos sutartimi apjungus kelių fizinių ar juridinių asmenų turt
 
 bendrąją dalinę nuosavybę komercinei-ūkinei veiklai su bendru firmos vardu.
 
-Tikroji ūkinė bendrija neturi juridinio asmens teisių, jos turtas neatskirtas nuo
+Tikroji ūkinė bendrija neturi juridinio asmens teisių, jos turtas neatskirtas
 
-bendrijos narių turto. Pagal tikrosios ūkinės bendrijos prievoles jos nariai
+nuo bendrijos narių turto. Pagal tikrosios ūkinės bendrijos prievoles jos
 
-atsako solidariai visu savo turtu.  Tikroji ūkinė bendrija neatsako pagal savo
+nariai atsako solidariai visu savo turtu.  Tikroji ūkinė bendrija neatsako
 
-narių prievoles, nesusijusias su bendrijos veikla.
+pagal savo narių prievoles, nesusijusias su bendrijos veikla.
 
 Tikrosios
 
@@ -2660,13 +2672,13 @@ biudžetą per teismą.
 
 Respublikos įmonių rejestro įstatymas.
 
-Įmonei įregistruoti įmonių rejestro tvarkytojui
+Įmonei įregistruoti įmonių rejestro
 
-pateikiamas steigėjo ar steigėjų prašymas įregistruoti įmonę, nurodant jame
+tvarkytojui pateikiamas steigėjo ar steigėjų prašymas įregistruoti įmonę,
 
-duomenis, reikalingus įtraukti į rejestrą, ir įstatymo nustatyti kiti įmonės
+nurodant jame duomenis, reikalingus įtraukti į rejestrą, ir įstatymo nustatyti
 
-registravimo dokumentai.
+kiti įmonės registravimo dokumentai.
 
 Sprendimas įregistruoti arba atsisakyti
 
@@ -2710,9 +2722,9 @@ nustatyti  dokumentai  arba šie dokumentai  neatitinka  įstatymo  nustaty
 
 reikalavimų. Atsisakymas  įregistruoti  įmonę  kitokiais  motyvais  yra
 
-neteisėtas. Apie sprendimą įmonės neįregistruoti atitinkamas organas per 3
+neteisėtas. Apie sprendimą įmonės neįregistruoti atitinkamas organas per 3 dienas
 
-dienas privalo raštu pranešti įmonės steigėjui.
+privalo raštu pranešti įmonės steigėjui.
 
 Atsisakymas
 
@@ -3384,19 +3396,19 @@ naudoja ir juo disponuoja turto patikėjimo teisėmis.
 
 Valstybės ir savivaldybės įmonės pagal savo
 
-prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas išieškojimas.
+prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas
 
-Įmonės neatsako už valstybės ar savivaldybės prievoles.
+išieškojimas. Įmonės neatsako už valstybės ar savivaldybės prievoles.
 
 Valstybės ir savivaldybės įmonių steigimą,
 
 veiklą, reorganizavimą ir likvidavimą taip pat reglamentuoja Lietuvos
 
-Respublikos civilinis kodeksas, Lietuvos Respublikos valstybės ir savivaldybės įmonių
+Respublikos civilinis kodeksas, Lietuvos Respublikos valstybės ir savivaldybės
 
-įstatymas, kiti norminiai aktai bei įstatymų nustatyta tvarka patvirtinti ir
+įmonių įstatymas, kiti norminiai aktai bei įstatymų nustatyta tvarka
 
-įregistruoti įmonės įstatai.
+patvirtinti ir įregistruoti įmonės įstatai.
 
 Straipsnio
 
@@ -4658,11 +4670,11 @@ komercine-ūkine ar kitokia veikla, nesuvaržyta šio ar kitų įstatymų, įmon
 
 steigimo dokumentų arba kitaip neuždrausta įstatymų nustatyta tvarka.
 
-Komercinės-ūkinės veiklos, kuria verstis reikalinga licencija, sritis, licencijas
+Komercinės-ūkinės veiklos, kuria verstis reikalinga licencija, sritis,
 
-išduodančias institucijas bei licencijų išdavimo tvarką nustato šis ir kiti
+licencijas išduodančias institucijas bei licencijų išdavimo tvarką nustato šis
 
-įstatymai.
+ir kiti įstatymai.
 
 Lietuvos Respublikoje draudžiama steigti ir
 
@@ -4687,10 +4699,6 @@ Laisvųjų ekonominių zonų įmonių veiklos
 sritis, kuriose draudžiamos kapitalo investicijos, nustato Lietuvos Respublikos
 
 laisvųjų ekonominių zonų pagrindų įstatymas.
-
-[12
-
-straipsnio 6 dalies redakcija nuo 1999 m. sausio 1 d.]
 
 Individualių (personalinių) įmonių savininkai
 
@@ -4764,9 +4772,7 @@ yra narkotinių, psichotropinių, stipriai veikiančių ir nuodingųjų medžiag
 
 taip pat gaminti, importuoti, eksportuoti narkotines, psichotropines medžiagas,
 
-prekursorius ir užsiimti jų didmenine bei mažmenine prekyba Lietuvos
-
-Respublikoje;
+prekursorius ir užsiimti jų didmenine bei mažmenine prekyba Lietuvos Respublikoje;
 
 4) gaminti alkoholio produktus, kuriuose
 
@@ -4850,13 +4856,11 @@ ginklus ir jų šaudmenis (išskyrus pistoletus ir revolverius savigynai bei jų
 
 21) teikti laivų agentavimo paslaugas;
 
-22) atlikti auditą;
+22) užsiimti draudimo veikla;
 
-23) užsiimti draudimo veikla;
+23) teikti turizmo paslaugas;
 
-24) teikti turizmo paslaugas;
-
-25) spausdinti vertybinius popierius ir
+24) spausdinti vertybinius popierius ir
 
 dokumentų blankus.
 
@@ -5056,6 +5060,10 @@ Nr. VIII-422,
 
 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
+Nr. VIII-1228,
+
+99.06.15, Žin., 1999, Nr.59-1917 (99.07.07)
+
 14
 
 straipsnis.Įmonių santykiai su valstybės organais
@@ -5104,9 +5112,9 @@ gali gauti valstybės centralizuota tvarka skiriamų (parduodamų) finansinių,
 
 medžiaginių ir kitokių vertybių už valstybės  patvirtintą  arba  sutartinę
 
-kainą ir už įmonės prisiimamus atitinkamus sutartinius įsipareigojimus
+kainą ir už įmonės prisiimamus atitinkamus sutartinius įsipareigojimus valstybės
 
-valstybės (vietos savivaldybės) organui.
+(vietos savivaldybės) organui.
 
 Įmonė privalo turėti valstybės institucijų
 
