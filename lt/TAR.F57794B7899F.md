@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2026-01-01"
+last_updated: "2027-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2026-01-01 iki 2026-12-31
+Suvestinė redakcija nuo 2027-01-01 iki 2029-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -6260,7 +6260,11 @@ b) siekiant išvengti avarijos, sutrikimo ar gedimų elektros energetikos sistem
 
 c) vartotojams ir (ar) gaminantiems vartotojams viršijus leistinos naudoti galios ir (ar) leistinos generuoti galios dydį arba nevykdant susitarimų dėl kitų elektros energijos persiuntimo sąlygų, be kurių būtų neįmanomas jų elektros įrenginių prijungimas prie tinklų operatoriaus elektros tinklų.
 
-3. Jeigu elektros energijos persiuntimas nutrūko dėl gamtos reiškinių (potvynio, perkūnijos, apšalo, šlapdribos, audros, škvalo, ižo ar panašiai) sukeltos energetikos objektų ir įrenginių avarijos, kurios kriterijai numatyti energetikos objektų ir įrenginių avarijų ir sutrikimų tyrimą reglamentuojančiuose teisės aktuose, ar gaisro ir tinklų operatorius neatnaujina elektros energijos persiuntimo per 72 valandas, vartotojo prašymu jis turi sumokėti vartotojui Tarybos nustatyta tvarka apskaičiuotą kompensaciją.
+3. Jeigu elektros energijos persiuntimas nutrūko dėl gamtos reiškinių (potvynio, perkūnijos, apšalo, šlapdribos, audros, škvalo, ižo ar panašiai) sukeltos energetikos objektų ir įrenginių avarijos, kurios kriterijai numatyti energetikos objektų ir įrenginių avarijų ir sutrikimų tyrimą reglamentuojančiuose teisės aktuose, ar gaisro ir tinklų operatorius neatnaujina elektros energijos persiuntimo per 48 valandas, vartotojo prašymu jis turi sumokėti vartotojui Tarybos nustatyta tvarka apskaičiuotą kompensaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
 
 4. Šio straipsnio 2 ir 3 dalyse nurodytas metinis vienam vartotojo objektui išmokamos kompensacijos dydis negali viršyti pusės vartotojui per praėjusius kalendorinius metus priskaičiuotų persiuntimo paslaugos mokesčių sumos (be pridėtinės vertės mokesčio) už konkretų vartotojo objektą, išskyrus atvejus, kai elektros energijos persiuntimas nutrūksta ir nėra atnaujinamas šio straipsnio 1 dalyje nurodytais terminais daugiau kaip du kartus per metus. Tuo atveju, jeigu elektros energija būtų vartojama ne ištisus metus, didžiausias mokėtinas kompensacijos dydis būtų apskaičiuojamas proporcingai faktiniam elektros energijos vartojimo laikui. Kai elektros energijos persiuntimas nutrūksta ir nėra atnaujinamas šio straipsnio 1 dalyje nurodytais terminais daugiau kaip du kartus per metus, paskesniais atvejais kiekvienos išmokamos kompensacijos maksimalus dydis negali būti didesnis kaip pusė vartotojo per praėjusius kalendorinius metus už konkretų vartotojo objektą priskaičiuotų persiuntimo paslaugos mokesčių sumos (be pridėtinės vertės mokesčio). Einamaisiais kalendoriniais metais vartotojui priskaičiuotos kompensacijos dalis, viršijanti šioje dalyje nurodytą metinę vienam vartotojo objektui galimą išmokėti kompensacijos sumą, nėra mokama.
 
