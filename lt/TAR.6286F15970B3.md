@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2003-07-23"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2003-07-23 iki 2004-03-31
+Suvestinė redakcija nuo 2004-01-01 iki 2004-03-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -314,17 +314,23 @@ Branduolinės energetikos objektų saugos ir branduolinių medžiagų apskaitos 
 
 1. Vykdydama branduolinės saugos, radiacinės apsaugos bei branduolinių medžiagų apskaitos ir kontrolės valstybinį reguliavimą branduolinėje energetikoje, VATESI:
 
-1) kartu su Aplinkos ministerija tvirtina branduolinės energetikos objektų projektavimo ir statybos, statinių eksploatacijos techninius reglamentus;
+1) kartu su Aplinkos ministerija tvirtina branduolinės energetikos objektų projektavimo ir statybos techninius reglamentus;
 
 Straipsnio punkto pakeitimai:
 
 Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
 
+Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
+
 2) tvirtina branduolinės energetikos objektų eksploatacijos normas ir taisykles, branduolinių ir branduolinėje energetikoje naudojamų radioaktyviųjų medžiagų saugojimo bei jų atliekų laidojimo saugos normas ir taisykles, nustato jų rengimo tvarką;
 
 3) kontroliuoja, kaip laikomasi licencijose ir saugos taisyklėse bei normose nustatytų reikalavimų;
 
-4) parengia branduolinių medžiagų apskaitos bei kontrolės valstybinio reguliavimo sistemą ir užtikrina jos veiksmingumą;
+4) vykdo branduolinių medžiagų apskaitos bei kontrolės valstybinę priežiūrą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
 
 5) nustato branduolinių medžiagų apskaitos ir kontrolės Lietuvos Respublikoje procedūras ir kontroliuoja, kaip jų laikomasi šių medžiagų importo, eksporto, reeksporto, transportavimo, naudojimo, saugojimo ir laidojimo metu;
 
@@ -524,9 +530,17 @@ Be Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos draud
 
 1) projektuoti, statyti ir rekonstruoti branduolinės energetikos objektus, įrenginius ir įrengimus;
 
-2) eksploatuoti branduolinės energetikos objektus ir remontuoti jų saugos sistemas;
+2) eksploatuoti branduolinės energetikos objektus;
 
-3) verstis bet kokia veikla, kuri gali turėti įtakos saugiai branduolinės energetikos objektų eksploatacijai;
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
+
+3) saugoti branduolines ir radioaktyviąsias medžiagas bei jų atliekas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
 
 4) nutraukti branduolinės energetikos objekto eksploataciją;
 
@@ -568,7 +582,11 @@ Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, N
 
 28 straipsnis. Licencijų išdavimas
 
-1. Veiklai, išvardytai šio įstatymo 25 straipsnyje, licencijos išduodamos ribotam laikui Lietuvos Respublikos įstatymuose ir kituose norminiuose aktuose nustatyta tvarka.
+1. Veiklai, išvardytai šio įstatymo 25 straipsnyje, licencijos išduodamos Lietuvos Respublikos įstatymuose ir kituose norminiuose aktuose nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
 
 2. Licenciją išduodanti institucija turi teisę vėliau nustatyti papildomas objekto saugaus eksploatavimo sąlygas bei reikalavimus, o jų nepaisymo atveju – sustabdyti licencijos galiojimą ir uždrausti tolesnę objekto eksploataciją tol, kol bus pašalinti visi nustatyti trūkumai. Licenciją išduodanti institucija bet kada gali panaikinti licencijos galiojimą, kai nustato, kad pažeistos branduolinės saugos sąlygos.
 
