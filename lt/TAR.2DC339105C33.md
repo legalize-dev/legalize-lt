@@ -4,7 +4,7 @@ identifier: "TAR.2DC339105C33"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-04-27"
-last_updated: "1997-05-07"
+last_updated: "1998-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2DC339105C33"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos muitų tarifų įstatymas
 
-Suvestinė redakcija nuo 1997-05-07 iki 1997-12-31
+Įstatymas netenka galios 1998-07-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-633, 1998-02-19, Žin., 1998, Nr. 28-727 (1998-03-25), i. k. 0981010ISTAVIII-633
+
+Lietuvos Respublikos muitų tarifų įstatymas
+
+Suvestinė redakcija nuo 1998-01-01 iki 1998-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 88-0; Žin. 1993, Nr.15-375, i. k. 0931010ISTA000I-138
 
@@ -100,7 +108,17 @@ Lietuvos Respublikos muitų teritorijoje, atsižvelgiant į Lietuvos ūkio inter
 
 9) statistiniai – taikomi Lietuvos Respublikos prekybos apyvartai apskaičiuoti.
 
-III. PREKIŲ KILMĖ IR MUITŲ DYDIS
+3 skyrius. Neteko galios nuo 1998-01-01
+
+Skyriaus naikinimas:
+
+Nr. I-1360, 1996-06-04, Žin. 1996, Nr. 55-1295 (1996-06-12), i. k. 0961010ISTA00I-1360
+
+Skyriaus pakeitimai:
+
+Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
+
+IV. MUITŲ APSKAIČIAVIMAS IR MOKĖJIMAS
 
 9 straipsnis.
 
@@ -301,4 +319,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-201, 1997-04-29, Žin., 1997, Nr. 39-953 (1997-05-07), i. k. 0971010ISTAVIII-201
 
 Lietuvos Respublikos muitų tarifų įstatymo 18 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1360, 1996-06-04, Žin., 1996, Nr. 55-1295 (1996-06-12), i. k. 0961010ISTA00I-1360
+
+Lietuvos Respublikos muitinės kodekso įgyvendinimo įstatymas
 
