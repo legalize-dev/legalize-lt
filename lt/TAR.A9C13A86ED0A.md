@@ -4,7 +4,7 @@ identifier: "TAR.A9C13A86ED0A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "1998-02-03"
+last_updated: "2000-07-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A"
 department: "Lietuvos Respublikos Seimas"
@@ -18,117 +18,329 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Redagavo: Ramunė
-
-Lūžaitė (1998.02.23)
-
 Įstatymas
 
-paskelbtas: Žin., 1994, Nr.58-1133
+paskelbtas: Žin., 1994, Nr. 58-1133
 
-Neoficialus įstatymo
+Neoficialus
 
-tekstas
+įstatymo tekstas
 
-Pakeitimai:
+LIETUVOS RESPUBLIKOS
 
-1.
+TARPTAUTINIŲ
 
-Lietuvos
+OPERACIJŲ, KARINIŲ PRATYBŲ IR KITŲ RENGINIŲ
 
-Respublikos Seimas, Įstatymas
+Į S T A T Y M A
 
-Nr.
+S
 
-I-1523, 96.09.17, Žin., 1996, Nr.92-2148 (96.10.02)
+1994 m. liepos
 
-LIETUVOS
+19 d. Nr.I-555
 
-RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS KARIUOMENĖS PADALINIŲ DALYVAVIMO
-
-TARPTAUTINĖSE OPERACIJOSE" PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-621, 98.02.03, Žin., 1998, Nr.17-399 (98.02.19)
-
-LIETUVOS
-
-RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS KARIUOMENĖS PADALINIŲ DALYVAVIMO
-
-TARPTAUTINĖSE OPERACIJOSE” PAKEITIMO ĮSTATYMAS
+Vilnius
 
 Nauja
 
-įstatymo redakcija
-
-***
-
-Pabaiga ***
-
-Nauja įstatymo
-
-redakcija:
+įstatymo redakcija:
 
 Nr.
 
-VIII-621, 98.02.03, Žin., 1998, Nr.17-399 (98.02.19)
+VIII-621,
 
-Lietuvos RESPUBLIKOS
+98.02.03, Žin., 1998, Nr.17-399 (98.02.19)
 
-kariuomenės vienetŲ
+Įstatymo
 
-dalyvavimo tarptautinėse operacijose
+pavadinimas keistas:
 
-IR Pratybose, TAIP
+Nr.
 
-PAT TARPTAUTINIŲ PRATYBŲ RENGIMO LIETUVOS TERITORIJOJE
+VIII-621,
 
-Į S T A T Y M A S
+98.02.03, Žin., 1998, Nr.17-399 (98.02.19)
 
-1998 m. vasario 3 d.Nr.VIII-621
+Nr. VIII-1860, 00.07.17, Žin., 2000,
 
-1 straipsnis. Įstatymo paskirtis ir
+Nr.64-1930 (00.07.31)
 
-pagrindinės sąvokos
+1 straipsnis.
 
-1. Šis įstatymas reglamentuoja Lietuvos
+Įstatymo paskirtis ir pagrindinės sąvokos
 
-kariuomenės vienetų dalyvavimą tarptautinėse operacijose ir pratybose
+1. Šis įstatymas
 
-užsienyje, taip pat užsienio valstybių kariuomenės vienetų dalyvavimą
+reglamentuoja Lietuvos kariuomenės vienetų dalyvavimą tarptautinėse pratybose
 
-tarptautinėse pratybose Lietuvos teritorijoje.
+ir kituose tarptautiniuose karinio bendradarbiavimo renginiuose bei
 
-2. Pagrindinės šio įstatymo sąvokos:
+tarptautinėse operacijose užsienyje, taip pat užsienio valstybių kariuomenės
 
-1) tarptautinė operacija - taikos
+vienetų dalyvavimą tarptautinėse pratybose ir kituose tarptautiniuose karinio
 
-operacija, kuriai vykdyti kitos valstybės teritorijoje pagal Jungtinių Tautų
+bendradarbiavimo renginiuose Lietuvos teritorijoje.
 
-Organizacijos mandatą panaudojami Lietuvos kariuomenės vienetai;
+2. Pagrindinės
 
-2) tarptautinės pratybos - pasirengimo
+šio įstatymo sąvokos:
 
-tarptautinėms taikos operacijoms pratybos bei mokymai, kitos tarptautinės
+1) tarptautinė
 
-pratybos bei mokymai pagal Lietuvos krašto apsaugos sistemos kovinio parengimo
+operacija - taikos operacija, kuriai vykdyti kitos valstybės
 
-ar tarptautinio karinio bendradarbiavimo planus ir programas;
+teritorijoje pagal Jungtinių Tautų Organizacijos mandatą arba vykdant kitus
 
-3) kariuomenės vienetas - kiekvienas bet
+Lietuvos valstybės tarptautinius įsipareigojimus panaudojami Lietuvos
 
-kokio dydžio Lietuvos ar kitos valstybės kariuomenės vienetas, vadovaujamas
+kariuomenės vienetai;
 
-vieno vado ir turintis bendrą užduotį dalyvauti tarptautinėje operacijoje ar
+2) tarptautinės
 
-pratybose.
+pratybos - pasirengimo tarptautinėms taikos operacijoms pratybos bei
+
+mokymai, kitos tarptautinės pratybos bei mokymai pagal Lietuvos krašto apsaugos
+
+sistemos kovinio parengimo ar tarptautinio karinio bendradarbiavimo planus ir
+
+programas;
+
+3)
+
+kiti tarptautiniai karinio bendradarbiavimo renginiai (toliau - kiti
+
+tarptautiniai renginiai) - karinio bendradarbiavimo planuose ir programose
+
+numatyti renginiai, kurie nėra priskiriami tarptautinei operacijai,
+
+tarptautinėms pratyboms, taip pat renginiai, dėl kurių organizavimo susitarė
+
+Lietuvos ir užsienio valstybių kompetentingos institucijos;
+
+4) kariuomenės
+
+vienetas - kiekvienas bet kokio dydžio Lietuvos ar kitos valstybės kariuomenės
+
+vienetas, vadovaujamas vieno vado ir turintis bendrą užduotį dalyvauti
+
+tarptautinėse pratybose ir kituose tarptautiniuose renginiuose bei
+
+tarptautinėse operacijose.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1860, 00.07.17, Žin., 2000,
+
+Nr.64-1930 (00.07.31)
+
+2
+
+straipsnis. Lietuvos kariuomenės vienetų dalyvavimo tarptautinėse  operacijose
+
+teisiniai pagrindai
+
+Lietuvos
+
+kariuomenės vienetai gali dalyvauti tarptautinėse operacijose tik tada, kai
+
+vykdomi Lietuvos Respublikos tarptautiniai įsipareigojimai ir kai Seimas priima
+
+nutarimą pasiųsti Lietuvos kariuomenės vienetą dalyvauti tarptautinėje
+
+operacijoje.
+
+3
+
+straipsnis. Lietuvos kariuomenės vienetų, skirtų dalyvauti tarptautinėse
+
+operacijose,
+
+sudarymas
+
+1. Pagal
+
+Lietuvos Respublikos tarptautinę sutartį gali būti steigiami bendri su kitomis
+
+valstybėmis, išskyrus nurodytas šio įstatymo 13 straipsnyje, kariniai vienetai,
+
+skirti dalyvauti tarptautinėse operacijose.
+
+2. Lietuvos
+
+kariuomenės vienetų, skirtų dalyvauti tarptautinėse operacijose, sudarymo,
+
+finansavimo ir parengimo tarptautinėms operacijoms tvarką nustato Lietuvos
+
+Respublikos Vyriausybė ir (arba) Lietuvos Respublikos tarptautinė sutartis dėl bendrų
+
+su užsienio valstybe (valstybėmis) vienetų, skirtų dalyvauti tarptautinėse
+
+operacijose, sudarymo.
+
+3. Į
+
+tarptautinių operacijų karinį vienetą savanoriškumo principu priimami
+
+profesinės karo tarnybos kariai, aktyviojo rezervo prievolininkai ir individualiajam
+
+mobilizacijos rezervui priklausantys asmenys. Su priimamaisiais sudaroma
+
+profesinės karo tarnybos sutartis ir tarnybos tarptautinių operacijų kariniuose
+
+vienetuose sutartis. Taip pat gali būti priimami pakankamai parengti
+
+privalomosios pradinės tarnybos kariai, su kuriais sudaroma tarnybos
+
+tarptautinių operacijų kariniuose vienetuose sutartis, o pasibaigus
+
+privalomajai pradinei tarnybai, - profesinės karo tarnybos sutartis.
+
+4. Lietuvos
+
+karių tarnybos tarptautinių operacijų kariniuose vienetuose sąlygas nustato
+
+Lietuvos Respublikos Vyriausybė.
+
+4
+
+straipsnis. Lietuvos kariuomenės vienetų dalyvavimo tarptautinėse operacijose
+
+ir
+
+tarptautinių
+
+organizacijų karinėse struktūrose formos
+
+1. Lietuvos
+
+kariuomenės vienetai gali būti perduoti Jungtinių Tautų Saugumo Tarybos
+
+struktūrų operaciniam vadovavimui tam tikroms tarptautinėms operacijoms pagal
+
+Jungtinių Tautų Chartiją vykdyti.
+
+2. Gali būti
+
+steigiami bendri su Vakarų Europos Sąjunga ir NATO kariniai vienetai arba
+
+Lietuvos kariuomenės vienetai gali būti perduoti šių organizacijų ar jų
+
+struktūrų operaciniam vadovavimui.
+
+3. Lietuvos
+
+kariuomenės vienetai gali dalyvauti tarptautinėse gelbėjimo ir humanitarinėse
+
+operacijose.
+
+5
+
+straipsnis. Lietuvos kariuomenės vienetų, dalyvaujančių tarptautinėse
+
+operacijose,
+
+dydis
+
+ir Lietuvos kariuomenės karių, tarnaujančių bendruose kariniuose
+
+vienetuose,
+
+skaičius
+
+1. Siunčiamų
+
+dalyvauti tarptautinėse operacijose Lietuvos kariuomenės vienetų dydį kiekvienu
+
+atveju nustato Seimas Vyriausybės teikimu.
+
+2. Steigiant
+
+bendrą su kitomis valstybėmis, NATO ar Vakarų Europos Sąjunga karinį vienetą,
+
+Lietuvos kariuomenės karių skaičius nustatomas tarptautinėje sutartyje dėl
+
+bendro dalinio steigimo.
+
+6
+
+straipsnis. Tarptautinių pratybų rengimas, kitų tarptautinių renginių
+
+organizavimas
+
+ir
+
+dalyvavimas juose
+
+Vykdant Lietuvos
+
+Respublikos tarptautines sutartis ir tarptautinio karinio bendradarbiavimo
+
+planus bei programas ir laikantis šio įstatymo 13 straipsnyje nustatytų
+
+apribojimų:
+
+1) Lietuvos
+
+Respublikos teritorijoje gali būti rengiamos bendros Lietuvos kariuomenės
+
+vienetų ir užsienio valstybių bei šiame įstatyme numatytų tarptautinių
+
+organizacijų karinių vienetų pratybos, taip pat organizuojami kiti
+
+tarptautiniai renginiai;
+
+2) Lietuvos
+
+kariuomenės vienetai gali dalyvauti tarptautinėse pratybose ir kituose
+
+tarptautiniuose renginiuose kitų valstybių teritorijose.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1860, 00.07.17, Žin., 2000,
+
+Nr.64-1930 (00.07.31)
+
+7
+
+straipsnis. Sprendimas dėl Lietuvos kariuomenės vienetų panaudojimo
+
+tarptautinėse
+
+operacijose
+
+1. Lietuvos
+
+kariuomenės vienetai Lietuvos Respublikos Seimo nutarimu gali būti perduoti
+
+Jungtinių Tautų Saugumo Tarybos ir kitų šio įstatymo 4 straipsnio 2 dalyje
+
+nurodytų tarptautinių organizacijų operaciniam vadovavimui tarptautinėms
+
+operacijoms konkrečioje teritorijoje vykdyti Lietuvos Respublikos Seimo
+
+nutarime nustatytą laiką. Nutarimo projektą teikia Lietuvos Respublikos
+
+Vyriausybė.
+
+2. Pažeidus
+
+Lietuvos kariuomenės vienetų perdavimo sąlygas, taip pat kitais atvejais, kai
+
+yra būtina užtikrinti Lietuvos valstybės interesus, šie vienetai Lietuvos
+
+Respublikos Seimo nutarimu gali būti bet kuriuo metu atšaukti.
+
+3.
+
+Neatidėliotinais atvejais sprendimą dėl Lietuvos kariuomenės vienetų panaudojimo
+
+tarptautinėse gelbėjimo ir humanitarinėse operacijose, atsižvelgdamas į
+
+Valstybės gynimo tarybos rekomendaciją, priima Respublikos Prezidentas ir
+
+pateikia šį sprendimą tvirtinti artimiausiam Seimo posėdžiui.
 
 2 straipsnis. Lietuvos
 
@@ -284,239 +496,445 @@ rekomendaciją, priima Respublikos Prezidentas ir pateikia šį sprendimą
 
 tvirtinti artimiausiam Seimo posėdžiui.
 
-8 straipsnis. Sprendimų
+8 straipsnis. Sprendimų surengti Lietuvos teritorijoje
 
-surengti Lietuvos teritorijoje bendras pratybas ir siųsti Lietuvos kariuomenės
+bendras pratybas ir organizuoti
 
-vienetus dalyvauti bendrose pratybose užsienyje priėmimas
+kitus tarptautinius renginius, taip pat sprendimų
 
-1. Sprendimą siųsti Lietuvos kariuomenės
+siųsti Lietuvos
 
-vienetus, kurių bendras karių skaičius didesnis nei 800, dalyvauti bendrose
+kariuomenės vienetus dalyvauti bendrose pratybose ir
 
-pratybose su užsienio valstybių kariuomenių vienetais, taip pat sprendimą
+kituose
 
-leisti atvykti į pratybas Lietuvos teritorijoje kitų valstybių kariuomenių
+tarptautiniuose renginiuose užsienyje priėmimas
 
-vienetams, kurių bendras karių skaičius vienu metu yra didesnis nei 1600,
+1. Sprendimą
 
-priima Lietuvos Respublikos Seimas.
+siųsti Lietuvos kariuomenės vienetus, kurių bendras karių skaičius didesnis nei
 
-2. Sprendimus Lietuvos Respublikos
+800, dalyvauti bendrose pratybose su užsienio valstybių kariuomenių vienetais
 
-teritorijoje surengti tarptautines pratybas ir leisti šiam tikslui apibrėžtam
+ir kituose tarptautiniuose renginiuose, taip pat sprendimą leisti atvykti į
 
-laikui atvykti į Lietuvos teritoriją kitų valstybių kariuomenių vienetams, taip
+pratybas ir kitus tarptautinius renginius Lietuvos teritorijoje kitų
 
-pat sprendimą apibrėžtam laikui siųsti Lietuvos kariuomenės vienetus dalyvauti
+valstybių kariuomenių vienetams, kurių bendras karių skaičius vienu metu yra
 
-tarptautinėse pratybose kitos valstybės teritorijoje, išskyrus šio straipsnio 3
+didesnis nei 1600, priima Lietuvos Respublikos Seimas.
 
-ir 4 dalyse numatytus atvejus, priima Lietuvos Respublikos Vyriausybė.
+2. Sprendimus
 
-Priimdama šį sprendimą Vyriausybė nustato didžiausią leidžiamą į pratybas
+Lietuvos Respublikos teritorijoje surengti tarptautines pratybas, organizuoti
 
-atvykti kitų valstybių karių ar didžiausią siunčiamų Lietuvos karių skaičių,
+kitus tarptautinius renginius ir leisti šiam tikslui apibrėžtam laikui atvykti
 
-laikydamasi šio straipsnio 1 dalies sąlygos.
+į Lietuvos teritoriją kitų valstybių kariuomenių vienetams, taip pat sprendimą
 
-3. Sprendimus Lietuvoje surengti bendrai su
+apibrėžtam laikui siųsti Lietuvos kariuomenės vienetus dalyvauti tarptautinėse
 
-kitomis valstybėmis įsteigto karinio vieneto mokymus ar pratybas ir leisti šiam
+pratybose ir kituose tarptautiniuose renginiuose kitos valstybės teritorijoje,
+
+išskyrus šio straipsnio 3 ir 4 dalyse numatytus atvejus, priima Lietuvos
+
+Respublikos Vyriausybė. Priimdama šį sprendimą Vyriausybė nustato didžiausią
+
+leidžiamą atvykti kitų valstybių karių ar didžiausią siunčiamų Lietuvos karių
+
+skaičių, laikydamasi šio straipsnio 1 dalies sąlygos.
+
+3. Sprendimus
+
+Lietuvoje surengti bendrai su kitomis valstybėmis įsteigto karinio vieneto
+
+mokymus, pratybas ar kitus tarptautinius renginius ir leisti šiam
 
 tikslui apibrėžtam laikui atvykti į Lietuvos teritoriją šio vieneto kariams iš
 
 kitų valstybių, taip pat sprendimą apibrėžtam laikui siųsti šiam vienetui
 
-priskirtus Lietuvos kariuomenės karius dalyvauti bendro vieneto mokymuose ar
+priskirtus Lietuvos kariuomenės karius dalyvauti bendro vieneto mokymuose,
 
-pratybose užsienio valstybėje, su kuria įsteigtas bendras karinis vienetas,
+pratybose ar kituose tarptautiniuose renginiuose užsienio valstybėje, su kuria
 
-priima krašto apsaugos ministras savo įsakymu.
+įsteigtas bendras karinis vienetas, priima krašto apsaugos ministras savo
 
-4. Sprendimus surengti Lietuvos teritorijoje
+įsakymu.
 
-tarptautines pratybas su kitų valstybių kariuomenių vienetais ir leisti šiam
+4.
 
-tikslui apibrėžtam laikui atvykti į Lietuvos teritoriją vienos užsienio
+Sprendimus surengti Lietuvos teritorijoje tarptautines pratybas su kitų
 
-valstybės kariuomenės vienetams, kurių bendras karių skaičius ne didesnis kaip
+valstybių kariuomenių vienetais, organizuoti kitus tarptautinius renginius ir
 
-60, arba ne daugiau kaip 80 karių iš kelių valstybių, taip pat sprendimus
+leisti šiam tikslui apibrėžtam laikui atvykti į Lietuvos teritoriją užsienio
 
-apibrėžtam laikui siųsti į tarptautines pratybas užsienyje Lietuvos kariuomenės
+valstybės (valstybių) kariuomenės vienetams, kurių bendras karių skaičius ne
 
-vienetus, kurių bendras karių skaičius ne didesnis kaip 60, remdamasis tarptautinio
+didesnis kaip 150, taip pat sprendimus apibrėžtam laikui siųsti į tarptautines
 
-bendradarbiavimo susitarimais, planais ir programomis, priima krašto apsaugos
+pratybas ar į kitus tarptautinius renginius užsienyje Lietuvos kariuomenės
 
-ministras savo įsakymu.
+vienetus, kurių bendras karių skaičius ne didesnis kaip 150, remdamasis
 
-5. Šio straipsnio 3 ir 4 dalyse numatytais
+tarptautinio bendradarbiavimo susitarimais, planais ir programomis, priima
 
-atvejais krašto apsaugos ministras, priėmęs sprendimą dėl tarptautinių pratybų
+krašto apsaugos ministras savo įsakymu.
 
-surengimo Lietuvoje ar Lietuvos kariuomenės vieneto siuntimo į pratybas
+5. Šio
 
-užsienyje, savo įsakymo nuorašus siunčia Vyriausybei, Užsienio ir Vidaus
+straipsnio 3 ir 4 dalyse numatytais atvejais krašto apsaugos ministras, priėmęs
 
-reikalų ministerijoms bei Muitinės departamentui.
+sprendimą dėl tarptautinių pratybų surengimo ir kitų tarptautinių renginių
 
-6. Kai priimti šio straipsnio 1 ir 2 dalyse
+organizavimo Lietuvoje ar Lietuvos kariuomenės vieneto siuntimo į pratybas ar
 
-numatyti sprendimai, atvykstančių į bendras pratybas Lietuvoje kitų valstybių
+kitus tarptautinius renginius užsienyje, savo įsakymo nuorašus siunčia
 
-karių tikslų skaičių arba siunčiamų į bendras pratybas užsienyje Lietuvos karių
+Vyriausybei, Užsienio ir Vidaus reikalų ministerijoms bei Muitinės
 
-skaičių, užsienio kariuomenių vienetų atvykimo, priėmimo ir dalyvavimo
+departamentui.
 
-pratybose sąlygas bei tvarką, taip pat Lietuvos kariuomenės vienetų siuntimo
+6. Kai priimti
 
-sąlygas ir tvarką nustato krašto apsaugos ministras savo įsakymu.
+šio straipsnio 1 ir 2 dalyse numatyti sprendimai, tikslų atvykstančių į bendras
 
-7. Siunčiamam į užsienį Lietuvos kariuomenės
+pratybas ar kitus tarptautinius renginius Lietuvoje kitų valstybių karių
 
-vienetui krašto apsaugos ministro nustatyta tvarka kariuomenės vadas išleidžia
+skaičių arba siunčiamų į bendras pratybas ar kitus tarptautinius renginius užsienyje
 
-judėjimo arba kelionės įsakymą, kuriuo tvirtinamas išsivežamos ginkluotės,
+Lietuvos karių skaičių, užsienio kariuomenių vienetų atvykimo, priėmimo ir
 
-amunicijos ir technikos sąrašas. Šio įsakymo pagrindu Lietuvos kariuomenės
+dalyvavimo pratybose ar kituose tarptautiniuose renginiuose sąlygas bei
 
-vienetas išveža sąraše nurodytą turtą per Lietuvos valstybės sieną, o grįždamas
+tvarką, taip pat Lietuvos kariuomenės vienetų siuntimo sąlygas ir tvarką
 
-įveža atgal į Lietuvos teritoriją nedeklaruodamas. Specialiąją sienos perėjimo tvarką
+nustato krašto apsaugos ministras savo įsakymu.
 
-tvirtina Lietuvos Respublikos Vyriausybė.
+7. Siunčiamam į
 
-9 straipsnis. Užsienio
+užsienį Lietuvos kariuomenės vienetui krašto apsaugos ministro nustatyta tvarka
 
-valstybių kariuomenių vienetų vykimas per Lietuvos valstybės sieną ir
+kariuomenės vadas išleidžia judėjimo arba kelionės įsakymą, kuriuo tvirtinamas
 
-naudojimasis Lietuvos keliais bei aerodromais
+išsivežamos ginkluotės, amunicijos ir technikos sąrašas. Šio įsakymo pagrindu
 
-1. Krašto apsaugos ministerijai iš anksto
+Lietuvos kariuomenės vienetas išveža sąraše nurodytą turtą per Lietuvos
 
-pateikus dokumentus dėl leidimo kitų valstybių kariuomenių vienetams atvykti į
+valstybės sieną, o grįždamas įveža atgal į Lietuvos teritoriją nedeklaruodamas.
 
-pratybas Lietuvos teritorijoje, valstybės sienos kontrolės institucijos taiko
+Specialiąją sienos perėjimo tvarką tvirtina Lietuvos Respublikos Vyriausybė.
 
-jiems specialiąją sienos perėjimo tvarką - atleidžia nuo pasų ir vizų kontrolės
+Straipsnio pakeitimai:
 
-ir netaiko užsieniečių registravimo taisyklių. Specialiąją sienos perėjimo
+Nr. VIII-1860, 00.07.17, Žin., 2000, Nr.64-1930
 
-tvarką tvirtina Lietuvos Respublikos Vyriausybė.
+(00.07.31)
 
-2. Valstybės sienos kontrolės institucijų
+9 straipsnis. Užsienio valstybių kariuomenių vienetų
 
-pareigūnams pareikalavus, kitų valstybių kariuomenių vienetų nariai privalo
+vykimas per Lietuvos valstybės
 
-pateikti judėjimo arba kelionės įsakymą, kurį siunčiančiosios valstybės ar
+sieną ir naudojimasis Lietuvos keliais bei aerodromais
 
-Šiaurės Atlanto Sutarties Organizacijos atitinkama institucija išleidžia savo
+1. Krašto
 
-šalies kalba, taip pat anglų (prancūzų) kalba. Įsakymas patvirtina šio vieneto
+apsaugos ministerijai iš anksto pateikus dokumentus dėl leidimo kitų valstybių
 
-karinių pajėgų narių statusą, jų teisę turėti ir nešioti ginklus, gabenti karinę
+kariuomenių vienetams atvykti į pratybas ar kitus tarptautinius renginius Lietuvos
 
-techniką ir ginkluotę, taip pat kariuomenės vieneto judėjimo kryptį.
+teritorijoje, valstybės sienos kontrolės institucijos taiko jiems specialiąją
 
-3. Užsienio valstybių kariuomenių vienetai,
+sienos perėjimo tvarką - atleidžia nuo pasų ir vizų kontrolės ir netaiko
 
-kuriems šio įstatymo nustatyta tvarka leista atvykti į pratybas Lietuvos
+užsieniečių registravimo taisyklių. Specialiąją sienos perėjimo tvarką tvirtina
 
-teritorijoje, turi teisę įsivežti į Lietuvos teritoriją ir išsivežti iš jos
+Lietuvos Respublikos Vyriausybė.
 
-savo ginkluotę, karinę techniką bei amuniciją nedeklaruodami ir nemokėdami
+2. Valstybės sienos
 
-mokesčių.
+kontrolės institucijų pareigūnams pareikalavus, kitų valstybių kariuomenių
 
-4. Užsienio valstybės kariuomenių vienetai
+vienetų nariai privalo pateikti judėjimo arba kelionės įsakymą, kurį siunčiančiosios
 
-nemokėdami mokesčių ir nedeklaruodami gali įsivežti tiek maisto ar kitokių
+valstybės ar Šiaurės Atlanto Sutarties Organizacijos atitinkama institucija
 
-atsargų, kiek yra būtina jų kariams ir aptarnaujančiam personalui išlaikyti.
+išleidžia savo šalies kalba, taip pat anglų (prancūzų) kalba. Įsakymas
 
-5. Į tarptautines pratybas Lietuvos
+patvirtina šio vieneto karinių pajėgų narių statusą, jų teisę turėti ir nešioti
 
-Respublikos teritorijoje atvykusių kitų valstybių kariuomenių vienetai
+ginklus, gabenti karinę techniką ir ginkluotę, taip pat kariuomenės vieneto
 
-naudojasi savo transporto priemonėmis, nemokėdami mokesčių už naudojimąsi
+judėjimo kryptį.
+
+3. Užsienio
+
+valstybių kariuomenių vienetai, kuriems šio įstatymo nustatyta tvarka leista
+
+atvykti į pratybas ar kitus tarptautinius renginius Lietuvos teritorijoje, turi
+
+teisę įsivežti į Lietuvos teritoriją ir išsivežti iš jos savo ginkluotę, karinę
+
+techniką bei amuniciją nedeklaruodami ir nemokėdami mokesčių.
+
+4. Užsienio
+
+valstybės kariuomenių vienetai išimtinai savo vartojimui nemokėdami
+
+mokesčių ir nedeklaruodami gali įsivežti tiek amunicijos, maisto ar
+
+kitokių atsargų (įskaitant akcizų objektu esančias prekes), kiek jiems
+
+yra būtina jų dalyvavimui tarptautinėse pratybose ar kituose tarptautiniuose
+
+renginiuose užtikrinti bei jų kariams ir aptarnaujančiam
+
+personalui išlaikyti.
+
+5. Į tarptautines
+
+pratybas ar kitus tarptautinius renginius Lietuvos Respublikos
+
+teritorijoje atvykusių kitų valstybių kariuomenių vienetai naudojasi savo
+
+transporto priemonėmis, nemokėdami mokesčių ir rinkliavų už naudojimąsi
 
 Lietuvos keliais, valstybiniais aerodromais ir jūrų uostais.
 
-6. Užsienio valstybių kariuomenės vienetams
+6. Užsienio
 
-pereinant Lietuvos valstybės sieną, valstybės sienos kontrolės institucijų
+valstybių kariuomenės vienetams pereinant Lietuvos valstybės sieną, valstybės
 
-pareigūnams kilusius klausimus sprendžia krašto apsaugos ministro įgalioti
+sienos kontrolės institucijų pareigūnams kilusius klausimus sprendžia krašto
 
-atstovai.
+apsaugos ministro įgalioti atstovai.
 
-10 straipsnis. Užsienio
+Straipsnio pakeitimai:
 
-valstybių kariuomenių vienetų vykimas per Lietuvos teritoriją į pratybas
+Nr. VIII-1860, 00.07.17, Žin., 2000,
 
-trečiojoje šalyje
+Nr.64-1930 (00.07.31)
 
-1. Tos užsienio valstybės, kurios kariuomenės
+10 straipsnis. Užsienio valstybių kariuomenių vienetų
 
-vienetui pagal šį įstatymą gali būti leidžiama atvykti į tarptautines pratybas
+vykimas per Lietuvos teritoriją į
 
-Lietuvos teritorijoje, kariuomenės vienetui taip pat gali būti leidžiama vykti
+pratybas ar kitus tarptautinius renginius trečiojoje
 
-per Lietuvos Respublikos teritoriją į tarptautinius mokymus ar pratybas
+šalyje
 
-trečiojoje šalyje. Šiais atvejais taikomos tos pačios sprendimų priėmimo ir
+1. Tos užsienio
 
-kitos šio įstatymo nustatytos atvykimo į Lietuvos teritoriją sąlygos. Taip pat turi
+valstybės, kurios kariuomenės vienetui pagal šį įstatymą gali būti leidžiama
 
-būti kaimyninės valstybės, į kurią kariuomenės vienetas vyksta, sutikimas.
+atvykti į tarptautines pratybas ar kitus tarptautinius renginius Lietuvos
 
-2. Neatidėliotinu atveju kitos valstybės
+teritorijoje, kariuomenės vienetui taip pat gali būti leidžiama vykti per
 
-kariuomenės vienetui vykti per Lietuvos teritoriją į tarptautinius mokymus ar
+Lietuvos Respublikos teritoriją į tarptautinius mokymus, pratybas ar
 
-pratybas trečiojoje šalyje leidimo gali būti paprašyta diplomatiniais kanalais.
+kitus tarptautinius renginius trečiojoje šalyje. Šiais atvejais taikomos tos
 
-Tokiais atvejais leidimą Lietuvos Respublikos Vyriausybės vardu išduoda
+pačios sprendimų priėmimo ir kitos šio įstatymo nustatytos atvykimo į Lietuvos
 
-Užsienio reikalų ministerija, krašto apsaugos ministrui sutikus.
+teritoriją sąlygos. Taip pat turi būti kaimyninės valstybės, į kurią
 
-3. Vykstantį kitos valstybės kariuomenės
+kariuomenės vienetas vyksta, sutikimas.
 
-vienetą per Lietuvos teritoriją lydi Lietuvos kariuomenės vado paskirta karinė
+2. Neatidėliotinu
 
-palyda, o judėjimo maršrutas ir sąlygos derinamos su Lietuvos kelių policija.
+atveju kitos valstybės kariuomenės vienetui vykti per Lietuvos teritoriją į
 
-11 straipsnis. Karių, kurie
+tarptautinius mokymus, pratybas ar kitus tarptautinius renginius trečiojoje
 
-tarnauja kariuomenės vienetuose, skirtuose tarptautinėms operacijoms vykdyti,
+šalyje leidimo gali būti paprašyta diplomatiniais kanalais. Tokiais atvejais
 
-socialinės garantijos ir atsakomybė
+leidimą Lietuvos Respublikos Vyriausybės vardu išduoda Užsienio reikalų
 
-1. Kariams, tarnaujantiems tarptautinėms
+ministerija, krašto apsaugos ministrui sutikus.
 
-operacijoms skirtuose kariuomenės vienetuose, socialinės garantijos taikomos
+3. Vykstantį
 
-pagal Lietuvos Respublikos įstatymus.
+kitos valstybės kariuomenės vienetą per Lietuvos teritoriją lydi Lietuvos
 
-2. Jei tarnybos tarptautinių operacijų
+kariuomenės vado paskirta karinė palyda, o judėjimo maršrutas ir sąlygos
 
-kariniuose vienetuose sutartis nutraukiama dėl kario kaltės, šis teisės aktų
+derinamos su Lietuvos kelių policija.
 
-nustatyta tvarka privalo atlyginti krašto apsaugos sistemos išlaidas jo mokymui
+Straipsnio pakeitimai:
 
-ir rengimui tarptautinėms operacijoms.
+Nr. VIII-1860, 00.07.17, Žin., 2000,
 
-12 straipsnis. Individuali ir kolektyvinė
+Nr.64-1930 (00.07.31)
 
-savigyna
+11 straipsnis. Karių, kurie tarnauja
 
-Jokia šio įstatymo nuostata jokiu būdu
+kariuomenės vienetuose, skirtuose tarptautinėms
 
-neriboja Lietuvos Respublikos teisės vykdyti individualią ar kolektyvinę
+operacijoms vykdyti ar
 
-savigyną pagal Jungtinių Tautų Chartiją.
+dalyvaujančiuose tarptautinėse pratybose ar
+
+kituose tarptautiniuose renginiuose
+
+kitos valstybės teritorijoje, teisinis
+
+statusas, socialinės garantijos ir
+
+atsakomybė
+
+1. Užsienio
+
+valstybių kariuomenių vienetų karių ar jų civilių tarnautojų, šio įstatymo ir
+
+(ar) tarptautinių sutarčių ir (ar) susitarimų pagrindu tarnaujančių Lietuvos
+
+teritorijoje, taip pat Lietuvos kariuomenės vienetų karių ar jų civilių
+
+tarnautojų, šio įstatymo ir (ar) tarptautinių sutarčių ir (ar) susitarimų
+
+pagrindu tarnaujančių užsienyje, teisinį statusą jų tarnybos kitos valstybės
+
+teritorijoje laikotarpiu nustato tarptautinės sutartys ir jomis grindžiami
+
+susitarimai.
+
+2. Lietuvos kariuomenės kariams, tarnaujantiems tarptautinėms operacijoms skirtuose kariuomenės
+
+vienetuose, socialinės garantijos taikomos pagal Lietuvos Respublikos
+
+įstatymus.
+
+3. Jei Lietuvos
+
+kariuomenės kario tarnybos tarptautinių operacijų kariniuose vienetuose
+
+sutartis nutraukiama dėl kario kaltės, šis teisės aktų nustatyta tvarka privalo
+
+atlyginti krašto apsaugos sistemos išlaidas jo mokymui ir rengimui
+
+tarptautinėms operacijoms.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1860, 00.07.17, Žin., 2000,
+
+Nr.64-1930 (00.07.31)
+
+12 straipsnis.
+
+Individuali ir kolektyvinė savigyna
+
+Jokia šio
+
+įstatymo nuostata jokiu būdu neriboja Lietuvos Respublikos teisės vykdyti
+
+individualią ar kolektyvinę savigyną pagal Jungtinių Tautų Chartiją.
+
+13
+
+straipsnis. Draudimas dalyvauti posovietinių sąjungų (susivienijimų)
+
+tarptautinėse
+
+operacijose
+
+ir pratybose
+
+1. Draudžiamas
+
+bet koks NVS valstybių ginkluotųjų pajėgų vienetų ir kitokių karinių struktūrų
+
+dalyvavimas tarptautinėse operacijose ir pratybose Lietuvos teritorijoje. Taip
+
+pat draudžiama Lietuvos kariuomenės vienetams ir kitoms krašto apsaugos
+
+sistemos struktūroms kaip nors dalyvauti tarptautinėse operacijose ir pratybose
+
+NVS šalių teritorijose.
+
+2. Šio
+
+straipsnio draudimai netaikomi kariniams pareigūnams, kuriuos tarptautines
+
+pratybas rengianti šalis yra pakvietusi stebėtojais.
+
+Skelbiu šį
+
+Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS
+
+PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+
+_______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-1523,
+
+96.09.17, Žin., 1996, Nr.92-2148 (96.10.02)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS KARIUOMENĖS PADALINIŲ DALYVAVIMO
+
+TARPTAUTINĖSE OPERACIJOSE" PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-621,
+
+98.02.03, Žin., 1998, Nr.17-399 (98.02.19)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS KARIUOMENĖS PADALINIŲ DALYVAVIMO
+
+TARPTAUTINĖSE OPERACIJOSE” PAKEITIMO ĮSTATYMAS
+
+Nauja
+
+įstatymo redakcija
+
+(keistas įstatymo pavadinimas)
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1860, 00.07.17, Žin., 2000,
+
+Nr.64-1930 (00.07.31)
+
+KARIUOMENĖS VIENETŲ DALYVAVIMO TARPTAUTINĖSE OPERACIJOSE
+
+IR PRATYBOSE, TAIP PAT TARPTAUTINIŲ PRATYBŲ RENGIMO LIETUVOS TERITORIJOJE
+
+ĮSTATYMO PAVADINIMO, 1, 6, 8, 9, 10, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
+Pakeistas įstatymo pavadinimas
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2000.08.22)
 
 13 straipsnis. Draudimas
 
