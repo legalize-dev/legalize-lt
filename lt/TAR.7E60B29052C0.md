@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2003-06-03"
+last_updated: "2003-09-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -1560,6 +1560,20 @@ nariai
 
 9,5
 
+11.     Lietuvos
+
+Respublikos draudimo priežiūros komisija:
+
+11.1.     pirmininkas                                                                                                  12
+
+11.2.     pavaduotojai                                                                                                11
+
+11.3.
+
+nariai
+
+9,5
+
 Pastaba. Komisijų ir
 
 tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
@@ -1592,9 +1606,13 @@ Nr. IX-1045, 2002-07-05, Žin., 2002,
 
 Nr. 73-3104 (2002-07-19)
 
-Nr. IX-1390, 2003-03-25,
+Nr. IX-1390,
 
-Žin., 2003, Nr. 35-1464 (2003-04-11)
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
+
+Nr. IX-1738,
+
+2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
 
 __________________
 
@@ -1822,9 +1840,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1520,
+IX-1520, 2003-04-22,
 
-2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
+Žin., 2003, Nr. 42-1920 (2003-05-01)
 
 VALSTYBĖS
 
@@ -1856,6 +1874,24 @@ POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 4
 
 STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1738,
+
+2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
+
+VALSTYBĖS
+
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO
+
+PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Konstitucinio
@@ -1872,11 +1908,11 @@ Respublikos Konstitucinis Teismas, Nutarimas
 
 2001, Nr. 62-2276 (2001-07-18)
 
-DĖL LIETUVOS
+DĖL LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ, TEISĖJŲ IR
 
-RESPUBLIKOS VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO
+VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 4 STRAIPSNIO 1 IR 2 DALIŲ, 5
 
-ĮSTATYMO 4 STRAIPSNIO 1 IR 2 DALIŲ, 5 STRAIPSNIO 1 IR 3 DALIŲ,
+STRAIPSNIO 1 IR 3 DALIŲ,
 
 7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO ĮSTATYMO PRIEDĖLIO II
 
@@ -1916,7 +1952,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-06-20)
+Aušrinė Trapinskienė (2003-10-08)
 
 autrap@lrs.lt
 
