@@ -4,7 +4,7 @@ identifier: "TAR.DD49A6FFBCA3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-03"
-last_updated: "1999-06-03"
+last_updated: "1999-10-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DD49A6FFBCA3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,39 +16,57 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
-Redagavo: Ramunė Lūžaitė
+Redagavo:
 
-(1999.06.16)
+Ramunė Lūžaitė (1999.06.16)
 
-Įstatymas paskelbtas: Žin., 1998, Nr. 114-3186
+Įstatymas
 
-Neoficialus įstatymo tekstas
+paskelbtas: Žin., 1998, Nr. 114-3186
+
+Neoficialus
+
+įstatymo tekstas
 
 Pakeitimai:
 
 1.
 
-Lietuvos Respublikos Seimas,
+Lietuvos
 
-Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-1211, 99.06.03,
+Nr.
 
-Žin., 1999, Nr.52-1675 (99.06.16)
+VIII-1211, 99.06.03, Žin., 1999, Nr.52-1675 (99.06.16)
 
-LIETUVOS RESPUBLIKOS 1999
+LIETUVOS RESPUBLIKOS 1999 METŲ VALSTYBĖS
 
-METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 11
 
-PATVIRTINIMO ĮSTATYMO 11 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1354,
+
+99.10.14, Žin., 1999, Nr.93-2708 (99.11.04)
+
+LIETUVOS RESPUBLIKOS 1999 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ
+
+RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija
 
 *** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
-1999
-
-METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+1999 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
 
 PATVIRTINIMO
 
@@ -58,101 +76,115 @@ PATVIRTINIMO
 
 Vilnius
 
-1 straipsnis. 1999 metų valstybės biudžeto pajamų ir
+Nauja įstatymo redakcija:
 
-išlaidų
+Nr. VIII-1354,
 
-patvirtinimas
+99.10.14, Žin., 1999, Nr.93-2708 (99.11.04)
 
-1. Patvirtinti Lietuvos Respublikos 1999 metų
+1 straipsnis. 1999 metų valstybės
 
-valstybės biudžetą - 7210071 tūkst. litų pajamų, 7210071 tūkst. litų išlaidų ir
+biudžeto pajamų ir išlaidų patvirtinimas
 
-100000 tūkst. litų kasos apyvartos lėšų (1, 2 priedėliai).
+1. Patvirtinti Lietuvos
 
-2. Nustatyti, kad valstybės biudžeto asignavimų
+Respublikos 1999 metų valstybės biudžetą - 6760832 tūkst. litų pajamų, 6760832
 
-sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir jų
+tūkst. litų išlaidų ir 100000 tūkst. litų kasos apyvartos lėšų (1, 2
 
-ekonomija gali būti asignavimų valdytojų nuožiūra naudojama kitoms
+priedėliai).
 
-paprastosioms išlaidoms finansuoti.
+2. Nustatyti,
 
-2 straipsnis. Savivaldybių biudžetų finansinių
+kad valstybės biudžeto asignavimų sumos darbo užmokesčiui, nurodytos 1
 
-rodiklių patvirtinimas
+priedėlyje, yra maksimalios ir jų ekonomija gali būti asignavimų valdytojų
 
-1. Atsižvelgiant į tai, kad pagal Lietuvos
+nuožiūra naudojama kitoms paprastosioms išlaidoms finansuoti.
 
-Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 9
+2 straipsnis.
 
-straipsnį apskaičiuojama valstybės biudžeto bendroji dotacija savivaldybių
+Savivaldybių biudžetų finansinių rodiklių patvirtinimas
 
-mokestinėms pajamoms išlyginti ir savivaldybių išlaidų struktūros skirtumams
+1. Atsižvelgiant
 
-išlyginti nesusidaro:
+į tai, kad pagal Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo
 
-1) nustatyti, kad 18,5 procento fizinių asmenų
+metodikos įstatymo 9 straipsnį apskaičiuojama valstybės biudžeto bendroji
 
-pajamų mokesčio skiriama mažesnes biudžeto pajamas turinčioms savivaldybėms;
+dotacija savivaldybių mokestinėms pajamoms išlyginti ir savivaldybių išlaidų
 
-2) patvirtinti savivaldybių biudžetams skiriamas
+struktūros skirtumams išlyginti nesusidaro:
 
-fizinių asmenų pajamų mokesčio dalis procentais, fizinių asmenų pajamų mokesčio
+1) nustatyti, kad 18,5 procento
 
-sumas pajamoms išlyginti -
+fizinių asmenų pajamų mokesčio skiriama mažesnes biudžeto pajamas turinčioms
 
-320898 tūkst. litų (3 priedėlis).
+savivaldybėms;
 
-2. Patvirtinti specialias tikslines dotacijas
+2) patvirtinti
 
-savivaldybių biudžetams - 101768 tūkst. litų, iš jų:
+savivaldybių biudžetams skiriamas fizinių asmenų pajamų mokesčio dalis
 
-1) savivaldybių biudžetų mokestinių pajamų
+procentais, fizinių asmenų pajamų mokesčio sumas pajamoms
 
-išlyginimo rezervui sudaryti -
+išlyginti - 320898 tūkst. litų (3 priedėlis).
 
-11258 tūkst. litų;
+2. Patvirtinti
 
-2) likusią specialios dotacijos sumą - 90510 tūkst.
+specialias tikslines dotacijas savivaldybių biudžetams - 126768 tūkst. litų, iš
 
-litų (4 priedėlis), iš jų:
+jų:
 
-a) globojamiems vaikams išlaikyti pagal Valstybinių
+1) savivaldybių
 
-pašalpų šeimoms, auginančioms vaikus, įstatymą - 53053 tūkst. litų;
+biudžetų mokestinių pajamų išlyginimo rezervui sudaryti - 37282 tūkst. litų;
 
-b) Vilniaus miesto senamiesčiui tvarkyti - 15000
+2) likusią
 
-tūkst. litų;
+specialios dotacijos sumą - 89486 tūkst. litų (4 priedėlis), iš jų:
 
-c) savivaldybių biudžetų pajamoms išlyginti - 22457
+a) globojamiems
 
-tūkst. litų.
+vaikams išlaikyti pagal Valstybinių pašalpų šeimoms, auginančioms vaikus,
+
+įstatymą - 41439 tūkst. litų;
+
+b) Vilniaus
+
+miesto senamiesčiui tvarkyti - 15000 tūkst. litų;
+
+c) savivaldybių
+
+biudžetų pajamoms išlyginti - 33047 tūkst. litų.
 
 3 straipsnis.
 
 Savivaldybių biudžetų pajamos išlaidų struktūros skirtumams išlyginti
 
-Atsižvelgiant į šio įstatymo 2 straipsnio 1 dalies 1
+Atsižvelgiant į
 
-punkto nuostatą, prognozuojamas savivaldybių biudžetų pajamas - 614856 tūkst.
+šio įstatymo 2 straipsnio 1 dalies 1 punkto nuostatą, prognozuojamas
 
-litų (3 priedėlis) paskirstyti išlaidų struktūros skirtumams išlyginti. Šios
+savivaldybių biudžetų pajamas - 614856 tūkst. litų (3 priedėlis) paskirstyti
 
-lėšos į savivaldybių biudžetus pervedamos kas mėnesį, atsižvelgiant į faktines
+išlaidų struktūros skirtumams išlyginti. Šios lėšos į savivaldybių biudžetus
 
-fizinių asmenų pajamų mokesčio įplaukas į valstybės iždo sąskaitą.
+pervedamos kas mėnesį, atsižvelgiant į faktines fizinių asmenų pajamų mokesčio
 
-4 straipsnis. Savivaldybių biudžetų tvirtinimas
+įplaukas į valstybės iždo sąskaitą.
 
-Nustatyti, kad miestų, rajonų tarybos patvirtina
+4 straipsnis.
 
-savivaldybių biudžetus per vieną mėnesį nuo valstybės biudžeto ir savivaldybių
+Savivaldybių biudžetų tvirtinimas
 
-biudžetų finansinių rodiklių patvirtinimo ir vieną egzempliorių pateikia
+Nustatyti, kad
 
-Finansų ministerijai.
+miestų, rajonų tarybos patvirtina savivaldybių biudžetus per vieną mėnesį nuo
+
+valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo ir
+
+vieną egzempliorių pateikia Finansų ministerijai.
 
 5 straipsnis.
 
@@ -160,35 +192,61 @@ Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos drau
 
 fondo biudžetą dydis
 
-Nustatyti, kad 1999 metais fizinių asmenų pajamų
+Nustatyti, kad
 
-mokesčio įmokos į Privalomojo sveikatos draudimo fondo biudžetą sudaro 30
+1999 metais fizinių asmenų pajamų mokesčio įmokos į Privalomojo sveikatos
 
-procentų apskaičiuotos jų pajamų mokesčio sumos.
+draudimo fondo biudžetą sudaro 30 procentų apskaičiuotos jų pajamų mokesčio
 
-6 straipsnis. Įmokų dydis už valstybės lėšomis
+sumos.
 
-draudžiamus asmenis
+6 straipsnis.
 
-Nustatyti, kad 1999 metais valstybės biudžeto įmokos
+Įmokų dydis už valstybės lėšomis draudžiamus asmenis
 
-į Privalomojo sveikatos draudimo fondo biudžetą yra po 242,5 lito už kiekvieną
+Nustatyti, kad
 
-valstybės lėšomis draudžiamą asmenį.
+1999 metais valstybės biudžeto įmokos į Privalomojo sveikatos draudimo fondo biudžetą
 
-7 straipsnis. Nebiudžetinių lėšų įmokos
+yra po 222,7 lito už kiekvieną valstybės lėšomis draudžiamą asmenį.
 
-1. Valstybės institucijų ir kontroliuojančiųjų
+7 straipsnis.
 
-organizacijų iš ūkinės veiklos gautas lėšas - 86403 tūkst. litų įtraukti į
+Nebiudžetinių lėšų įmokos
 
-apskaitą kaip valstybės biudžeto pajamas (5 priedėlis).
+1. Valstybės
 
-2. Finansų ministerija, pervesdama asignavimų valdytojams
+institucijų ir kontroliuojančių organizacijų iš ūkinės veiklos gautas lėšas -
 
-patvirtintas valstybės biudžeto sumas, mažina finansavimą faktiškai negautomis
+76862 tūkst. litų įtraukti į apskaitą kaip valstybės biudžeto pajamas (5
 
-(palyginti su planu) nebiudžetinių lėšų įmokomis į valstybės biudžetą.
+priedėlis).
+
+2. Finansų
+
+ministerija, pervesdama asignavimų valdytojams patvirtintas valstybės biudžeto
+
+sumas, mažina finansavimą faktiškai negautomis (palyginti su planu)
+
+nebiudžetinių lėšų įmokomis į valstybės biudžetą.
+
+8
+
+straipsnis. Privatizavimo fondo lėšų naudojimas investiciniams projektams,
+
+numatytiems Valstybės investicijų programoje, finansuoti
+
+Nustatyti, kad
+
+1999 metais iš Privatizavimo fondo lėšų būtų skiriama 390700 tūkst. litų
+
+pagrindiniam kapitalui įsigyti (investiciniams projektams, numatytiems
+
+Valstybės investicijų programoje), iš jų: 280118 tūkst. litų - valstybės
+
+pagrindiniam kapitalui (iš jų melioracijai ir dirvų kalkinimui - 80000 tūkst.
+
+litų) ir 110582 tūkst. litų - savivaldybių pagrindiniam kapitalui.
 
 8 straipsnis.
 
@@ -208,19 +266,75 @@ valstybės pagrindiniam kapitalui (iš jų melioracijai ir dirvų kalkinimui -
 
 80000 tūkst. litų) ir 112000 tūkst. litų - savivaldybių pagrindiniam kapitalui.
 
-9 straipsnis. Valdininkų kvalifikacijos kėlimas
+9 straipsnis.
 
-Nustatyti, kad valstybės ir savivaldybių valdymo
+Valstybės tarnautojų mokymas
 
-institucijos valdininkų kvalifikacijai kelti skiria lėšų tiek, kad jos sudarytų
+Nustatyti, kad
 
-ne mažiau kaip 3 procentus jų darbo užmokesčiui patvirtintų asignavimų.
+valstybės ir savivaldybių institucijos ar įstaigos valstybės tarnautojų
 
-10 straipsnis. Vidaus ir užsienio paskolos
+mokymui skiria lėšų tiek, kad jos sudarytų ne mažiau kaip 3 procentus jų darbo
 
-Nustatyti 1999 metų valstybės grynojo skolinimosi (gautos
+užmokesčiui patvirtintų asignavimų.
 
-paskolos, atėmus grąžintas) limitą - 2400000 tūkst. litų.
+10 straipsnis. Vidaus
+
+ir užsienio paskolos
+
+Nustatyti 1999 metais valstybės
+
+grynojo skolinimosi (paskolos, atėmus grąžintas) limitą - 2900000 tūkst. litų.
+
+11
+
+straipsnis. Lietuvos Respublikos Vyriausybės teisės vykdant nacionalinį
+
+biudžetą
+
+Suteikti
+
+Lietuvos Respublikos Vyriausybei arba jos įgaliotai institucijai teisę leisti
+
+vertybinius popierius, imti paskolas ir teikti garantijas dėl paskolų Lietuvos
+
+Respublikos valstybės skolos įstatyme numatytiems tikslams bei kitiems Lietuvos
+
+Respublikos įstatymais nustatytiems turtiniams įsipareigojimams dengti bei
+
+savininkams grąžintų ir grąžintinų gyvenamųjų namų ir nuomininkų aprūpinimo
+
+butais programai įgyvendinti, žemės reformai vykdyti.
+
+12
+
+straipsnis. Savivaldybių biudžetų mokestinių pajamų išlyginimo rezervo
+
+naudojimas
+
+Nustatyti šią
+
+savivaldybių biudžetų mokestinių pajamų išlyginimo rezervo naudojimo tvarką:
+
+1) per metus
+
+Finansų ministerija iš mokestinių pajamų išlyginimo rezervo lėšų teikia
+
+kreditus savivaldybėms, kuriose nevykdomi biudžetų mokestinių pajamų planai;
+
+2) Lietuvos Respublikos
+
+Vyriausybė 1999 metų antrajame pusmetyje, atsižvelgdama į numatomus biudžetų
+
+vykdymo duomenis, iš rezervo lėšų padengia savivaldybių biudžetų 1999 metais
+
+negautas planuotas mokestines pajamas;
+
+3) nepanaudotą
+
+pagal šio straipsnio 2 punktą mokestinių pajamų išlyginimo rezervą Lietuvos
+
+Respublikos Vyriausybė skiria savivaldybių butų fondui kaupti.
 
 11 straipsnis. Vyriausybės teisės vykdant
 
@@ -286,13 +400,29 @@ butų fondui kaupti.
 
 Kelių fondo lėšų naudojimas Nacionalinei žemės ūkio plėtojimo programai
 
-Nustatyti, kad 1999 metais iš Kelių fondo lėšų iki
+Nustatyti, kad 1999 metais iš
 
-28000 tūkst. litų būtų skiriama Nacionalinėje žemės ūkio plėtojimo programoje
+Kelių fondo lėšų iki 28000 tūkst. litų būtų skiriama Nacionalinėje žemės ūkio
 
-numatytai ūkininkų įsikūrimo priemonei įgyvendinti (keliams tiesti ir
+plėtojimo programoje numatytoms ūkininkų įsikūrimo priemonėms įgyvendinti
 
-remontuoti).
+(keliams tiesti ir remontuoti).
+
+14
+
+straipsnis. Pajamų, faktiškai gautų iš akcizų už cukrų, naudojimas Nacionalinei
+
+žemės ūkio plėtojimo programai
+
+Nustatyti, kad
+
+pajamos, faktiškai gautos iš akcizų už cukrų, įskaitant cukrų, esantį
+
+produktuose, atskaičius eksportuotojams grąžintiną sumą, pervedamos Žemės ūkio
+
+ministerijai Nacionalinės žemės ūkio plėtojimo programos priemonėms finansuoti
+
+(subsidijoms už cukrinius runkelius mokėti).
 
 14 straipsnis.
 
@@ -310,47 +440,51 @@ plėtojimo programos priemonėms finansuoti (subsidijoms už cukrinius runkelius
 
 mokėti).
 
-15 straipsnis. Valstybės skolinimosi ir paskolų
+15 straipsnis.
 
-grąžinimo mastai
+Valstybės skolinimosi ir paskolų grąžinimo mastai
 
-Nustatyti skolintų lėšų pajamas - iki 3554551 tūkst.
+Nustatyti
 
-litų, skolintų lėšų išlaidas - 2882551 tūkst. litų valstybės vardu gautoms
+skolintų lėšų pajamas - iki 5040509 tūkst. litų, skolintų lėšų išlaidas -
 
-skolintoms lėšoms grąžinti ir Lietuvos Respublikos įstatymų pripažintai
+4268509 tūkst. litų valstybės vardu gautoms skolintoms lėšoms grąžinti ir
 
-valstybės vidaus skolai dengti.
+Lietuvos Respublikos įstatymų pripažintai valstybės vidaus skolai dengti.
 
-16 straipsnis. Kitų įstatymų taikymas
+16 straipsnis.
 
-Taikyti savivaldybių biudžetų pajamų dydį ir
+Kitų įstatymų taikymas
 
-išlyginimą lemiančius rodiklius, kurie 1997 m. lapkričio 25 d. patvirtinti
+Taikyti
 
-Lietuvos Respublikos savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių
+savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančius rodiklius, kurie
 
-rodiklių patvirtinimo 1998-2000 metams įstatymu (Žin., 1997, Nr.116-2952), ir
+1997 m. lapkričio 25 d. patvirtinti Lietuvos Respublikos savivaldybių biudžetų
 
-2001 metais.
+pajamų dydį ir išlyginimą lemiančių rodiklių patvirtinimo 1998-2000 metams
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą
+įstatymu (Žin., 1997, Nr.116-2952), ir 2001 metais.
 
-įstatymą.
+Skelbiu šį Lietuvos
 
-RESPUBLIKOS PREZIDENTAS                                       VALDAS
+Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS         VALDAS
 
 ADAMKUS
 
-Lietuvos Respublikos
+Lietuvos
 
-1998
+Respublikos
 
-m. gruodžio 3 d.
+1999
+
+m. spalio 14 d.
 
 įstatymo
 
-Nr.VIII-949
+Nr.VIII-1354
 
 1
 
@@ -358,111 +492,71 @@ priedėlis
 
 LIETUVOS
 
-RESPUBLIKOS
+RESPUBLIKOS 1999 METŲ VALSTYBĖS BIUDŽETAS
 
-1999
-
-METŲ VALSTYBĖS BIUDŽETAS
-
-tūkst.
-
-Lt
+tūkst. Lt
 
 Pajamos
 
-Iš
+Iš viso
 
-viso
+M O K E S T I N Ė S  P A J A M O S
 
-M O K E S T I
+Juridinių asmenų pelno mokestis
 
-N Ė S  P A J A M O S
+465640
 
-Juridinių
+Pridėtinės vertės mokestis
 
-asmenų pelno mokestis
-
-525640
-
-Pridėtinės
-
-vertės mokestis
-
-4266212
+3924940
 
 Akcizai
 
-1555000
+1486322
 
-Tarptautinės
-
-prekybos ir sandorių
+Tarptautinės prekybos ir sandorių
 
 mokesčiai
 
 251250
 
-Konsulinis
-
-mokestis
+Konsulinis mokestis
 
 35000
 
-Žyminis
-
-mokestis
+Žyminis mokestis
 
 128000
 
-N E M O K E S
+N E M O K E S T I N Ė S  P A J A M O S
 
-T I N Ė S  P A J A M O S
+Lietuvos banko likutinis pelnas
 
-Lietuvos banko
+60252
 
-likutinis pelnas
-
-30000
-
-Mokestis už
-
-valstybinius gamtos
-
-išteklius
+Mokestis už valstybinius gamtos išteklius
 
 52188
 
-Palūkanos už
-
-valstybės kapitalo
-
-naudojimą
+Palūkanos už valstybės kapitalo naudojimą
 
 12441
 
-Gautos
-
-palūkanos už paskolas ūkiniams
+Gautos palūkanos už paskolas ūkiniams
 
 subjektams
 
 137133
 
-Dividendai už
-
-akcijas
+Dividendai už akcijas
 
 56000
 
-Pajamos iš
-
-baudų ir konfiskacijos
+Pajamos iš baudų ir konfiskacijos
 
 14645
 
-Mokestis už
-
-aplinkos teršimą
+Mokestis už aplinkos teršimą
 
 17627
 
@@ -470,79 +564,59 @@ Kitos
 
 42532
 
-Valstybės
+Valstybės institucijų ir kontroliuojančių
 
-institucijų ir
+organizacijų specialiųjų lėšų įmokos
 
-kontroliuojančių
-
-organizacijų
-
-specialiųjų
-
-lėšų įmokos
-
-86403
+76862
 
 IŠ VISO
 
-7210071
+6760832
 
-I
+1 priedėlio
 
-Š L A I D O S
+tęsinys
 
-1
+Išlaidos
 
-priedėlio tęsinys
+tūkst. Lt
 
-tūkst.
-
-Lt
-
-Iš
-
-jų
+Asigna-vimų
 
 Asignavimų
 
 valdytojų/
 
-Asignavimų
+Funkci-nės
+
+Iš viso
+
+Iš jų
 
 valdytojų/programų
 
-Funkci-nės
+programų
 
-Iš
+pavadinimai
 
-viso
+klasifi-kacijos
 
 paprastosios
 
 išlaidos
 
-nepapras-
-
-tosios
-
-programų
+nepapras-tosios
 
 kodai
 
-pavadinimai
-
-klasifika-cijos
-
 kodas
 
-iš
+iš viso
 
-viso
+iš jų darbo
 
-iš
-
-jų darbo užmo-kestis
+užmo-kestis
 
 išlaidos
 
@@ -556,33 +630,41 @@ Valstybės valdymas
 
 1. 1. 1
 
-25500
+12400
 
-11000
+12400
 
 3908
-
-14500
-
-1  2
-
-Kitos paslaugos, teikiamos centralizuota tvarka
 
 1. 4. 2
 
-1524
+9800
 
-1524
+9800
+
+1  2
+
+Kitos paslaugos, teikiamos
+
+centralizuota
+
+tvarka
+
+1. 4. 2
+
+2324
+
+2324
 
 Iš viso
 
-27024
+24524
 
-12524
+14724
 
 3908
 
-14500
+9800
 
 2.900.   2
 
@@ -596,21 +678,21 @@ Valstybės valdymas
 
 48889
 
-44889
+47889
 
 23375
 
-4000
+1000
 
 Iš viso
 
 48889
 
-44889
+47889
 
 23375
 
-4000
+1000
 
 3.900.   3
 
@@ -622,39 +704,41 @@ Rinkimų organizavimas
 
 14. 1. 3
 
-486
+344
 
-486
+344
 
-317
+185
 
 1  2
 
 Valstybės valdymas
 
-1. 5. 1
+1. 1. 1
 
-573
+530
 
-518
+502
 
-327
+321
 
-55
+28
 
 Iš viso
 
-1059
+874
 
-1004
+846
 
-644
+506
 
-55
+28
 
 4.900.   4
 
-Seimo kontrolierių įstaiga
+Seimo
+
+kontrolierių įstaiga
 
 1  1
 
@@ -662,23 +746,23 @@ Valstybės valdymas
 
 1. 1. 1
 
-3159
+2839
 
-2889
+2629
 
-1917
+1767
 
-270
+210
 
 Iš viso
 
-3159
+2839
 
-2889
+2629
 
-1917
+1767
 
-270
+210
 
 5.900.   5
 
@@ -688,11 +772,11 @@ Lietuvos Respublikos Konstitucinis Teismas
 
 Konstitucinio Teismo išlaikymas
 
-1. 1. 1
+1. 5. 1
 
-5207
+4686
 
-5057
+4536
 
 3194
 
@@ -700,9 +784,9 @@ Konstitucinio Teismo išlaikymas
 
 Iš viso
 
-5207
+4686
 
-5057
+4536
 
 3194
 
@@ -710,7 +794,9 @@ Iš viso
 
 6.900.   6
 
-Lietuvos Respublikos valstybės kontrolė
+Lietuvos Respublikos
+
+valstybės kontrolė
 
 1  3
 
@@ -734,119 +820,65 @@ Iš viso
 
 90.900.1576
 
-Valstybinė lietuvių kalbos komisija prie Lietuvos Respublikos
+Valstybinė lietuvių kalbos komisija prie
 
-Seimo
+Lietuvos Respublikos Seimo
 
 1  1
 
-Valstybinės kalbos statuso įgyvendinimas ir jo apsauga
+Valstybinės kalbos statuso įgyvendinimas
+
+ir jo apsauga
 
 4. 6. 9
 
-363
+341
 
-333
+316
 
-153
+149
 
-30
-
-I
-
-Š L A I D O S
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Iš
-
-jų
-
-Asignavimų
-
-valdytojų/
-
-Asignavimų
-
-valdytojų/programų
-
-Funkci-nės
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepapras-
-
-tosios
-
-programų
-
-kodai
-
-pavadinimai
-
-klasifika-cijos
-
-kodas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmo-kestis
-
-išlaidos
+25
 
 1  2
 
-Valstybinės kalbos norminimas Visuomenės švietimas
+Valstybinės kalbos norminimas.
+
+Visuomenės švietimas
 
 4. 6. 9
 
-2800
+2406
 
-2730
+2373
 
-1611
+1530
 
-70
+33
 
 1  3
 
 Valstybės valdymas
 
-1. 1. 1
+1. 5. 1
 
 639
 
-569
+596
 
 386
 
-70
+43
 
 Iš viso
 
-3802
+3386
 
-3632
+3285
 
-2150
+2065
 
-170
+101
 
 90.900.1874
 
@@ -858,19 +890,19 @@ Valstybės valdymas
 
 13. 9. 1
 
-449
+233
 
-449
+233
 
-277
+158
 
 Iš viso
 
-449
+233
 
-449
+233
 
-277
+158
 
 90.900.1808
 
@@ -880,25 +912,25 @@ Iš viso
 
 Valstybės valdymas
 
-1. 1. 1
+1. 5. 1
 
-167
+144
 
-152
+136
 
-107
+95
 
-15
+8
 
 Iš viso
 
-167
+144
 
-152
+136
 
-107
+95
 
-15
+8
 
 90.900.1983
 
@@ -910,47 +942,51 @@ Valstybės valdymas
 
 1. 1. 1
 
-226
+190
 
-176
+158
 
-111
+108
 
-50
+32
 
 Iš viso
 
-226
+190
 
-176
+158
 
-111
+108
 
-50
+32
 
 90.900.2004
 
-Lygių galimybių kontrolieriaus tarnyba
+Moterų ir vyrų lygių galimybių
+
+kontrolieriaus tarnyba
 
 1  1
 
-Moterų ir vyrų lygių galimybių užtikrinimas
+Moterų ir vyrų lygių galimybių
+
+užtikrinimas
 
 1. 1. 1
 
-121
+146
 
-121
+146
 
-74
+82
 
 Iš viso
 
-121
+146
 
-121
+146
 
-74
+82
 
 7.900.   7
 
@@ -958,63 +994,71 @@ Valstybinė paminklosaugos komisija
 
 1  1
 
-Kultūros vertybių apsaugos ir valstybės strategijos ir politikos
+Kultūros vertybių apsaugos
 
-įgyvendinimo kontrolė
+ir valstybės strategijos ir politikos
+
+įgyvendinimo
+
+kontrolė
 
 1. 1. 1
 
-922
+853
 
-732
+712
 
 445
 
-190
+141
 
 Iš viso
 
-922
+853
 
-732
+712
 
 445
 
-190
+141
 
 90.900.1553
 
-Lietuvos Respublikos vertybinių popierių komisija
+Lietuvos Respublikos
+
+vertybinių popierių komisija
 
 1  1
 
-Vertybinių popierių viešosios apyvartos valstybinis reguliavimas
+Vertybinių popierių viešosios apyvartos
 
-ir priežiūra
+valstybinis reguliavimas ir priežiūra
 
-1. 1. 1
+1. 1. 1.
 
-3728
+3298
 
-3428
+3148
 
 1641
 
-300
+150
 
 Iš viso
 
-3728
+3298
 
-3428
+3148
 
 1641
 
-300
+150
 
 8.900.   8
 
-Lietuvos Respublikos Vyriausybės kanceliarija
+Lietuvos Respublikos Vyriausybės
+
+kanceliarija
 
 1  1
 
@@ -1022,13 +1066,19 @@ Valstybės valdymas
 
 1. 1. 1
 
-17232
+12773
 
-16682
+12773
 
-6200
+6140
 
-550
+1. 4. 2
+
+3558
+
+3283
+
+275
 
 1  2
 
@@ -1044,19 +1094,19 @@ Ministrų darbo užmokestis
 
 Iš viso
 
-18405
+17504
 
-17855
+17229
 
-7373
+7313
 
-550
+275
 
 90.900.1773
 
-Valstybinė energetikos išteklių kainų ir energetinės veiklos
+Valstybinė kainų ir energetikos kontrolės
 
-kontrolės komisija
+komisija
 
 1  1
 
@@ -1064,9 +1114,9 @@ Valstybės valdymas
 
 1. 1. 6
 
-2244
+2208
 
-2144
+2108
 
 1353
 
@@ -1074,19 +1124,19 @@ Valstybės valdymas
 
 Iš viso
 
-2244
+2208
 
-2144
+2108
 
 1353
 
 100
 
-0.  0.  0
+0.  0. 0
 
 I. Ministerijos
 
-9.900.   9
+9.900.  9
 
 Aplinkos ministerija
 
@@ -1096,71 +1146,75 @@ Valstybės valdymas
 
 13. 9. 1
 
-8880
+8045
 
-8360
+7955
 
-4092
+4062
 
-520
+90
 
 2  1
 
-Žemės, žemės gelmių, paviršinių ir požeminių vandenų, atmosferos
+Žemės, žemės gelmių, paviršinių ir
 
-oro, augmenijos, gyvūnijos bei gamtos išteklių naudojimo, atkūrimo ir
+požeminių vandenų, atmosferos oro, augmenijos, gyvūnijos bei gamtos išteklių
 
-apsaugos valstybinė kontrolė
+naudojimo, atkūrimo ir apsaugos valstybinė kontrolė
 
 13. 4. 1
 
-14795
+14522
 
-14125
+13928
 
 7708
 
-670
+594
 
 3  1
 
-Žuvų ir kitų vandens gyvūnų bei augalų išteklių apsauga, jų
+Žuvų ir kitų vandens gyvūnų bei augalų
 
-naudojimo bei atkūrimo reguliavimas ir kontrolė
+išteklių apsauga, jų naudojimo bei atkūrimo reguliavimas ir kontrolė
 
 13. 4. 1
 
-1863
+1670
 
-1853
+1660
 
-748
+713
 
 10
 
 4  1
 
-Lietuvos gamtinė aplinka ir kokybiniai pokyčiai
+Lietuvos gamtinė aplinka ir kokybiniai
+
+pokyčiai
 
 13. 4. 1
 
-4397
+4039
 
-3597
+3569
 
 2231
 
-800
+470
 
 5  1
 
-Hidrografinio tinklo valdymas ir reguliavimas
+Hidrografinio tinklo valdymas ir
+
+reguliavimas
 
 13. 4. 1
 
-603
+599
 
-593
+589
 
 348
 
@@ -1172,9 +1226,9 @@ Gamtinių ekosistemų išsaugojimas
 
 13. 4. 1
 
-5792
+5645
 
-5362
+5215
 
 2991
 
@@ -1182,17 +1236,17 @@ Gamtinių ekosistemų išsaugojimas
 
 7  1
 
-Stacionarių gyvūnijos bei geologinių, faunistinių ir floristinių
+Stacionarių gyvūnijos bei geologinių,
 
-gamtos vertybių ekspozicijų rengimas
+faunistinių ir floristinių gamtos vertybių ekspozicijų rengimas
 
 13. 4. 1
 
-2059
+2081
 
-2029
+2051
 
-1048
+1098
 
 30
 
@@ -1202,13 +1256,13 @@ gamtos vertybių ekspozicijų rengimas
 
 1. 4. 2
 
-122
+109
 
 82
 
 45
 
-40
+27
 
 9  1
 
@@ -1216,9 +1270,9 @@ Autoūkio išlaikymas
 
 13. 4. 1
 
-548
+536
 
-518
+506
 
 249
 
@@ -1240,31 +1294,33 @@ Aplinkos kokybės gerinimas
 
 13. 6. 1
 
-680
+614
 
-680
+614
 
 12  1
 
-Biologinės įvairovės ir gamtos išteklių apsauga
+Biologinės įvairovės ir gamtos išteklių
+
+apsauga
 
 13. 6. 1
 
-620
+403
 
-620
+403
 
 13  1
 
-Aplinkos teisinių normų derinimo su ES reikalavimais strategijos
+Aplinkos teisinių normų derinimo su ES
 
-ir bendros aplinkos politikos įgyvendinimas
+reikalavimais strategijos ir bendros aplinkos politikos įgyvendinimas
 
 13. 6. 1
 
-190
+141
 
-190
+141
 
 14  1
 
@@ -1272,11 +1328,11 @@ Būsto techninis normavimas
 
 11. 3. 1
 
-1705
+725
 
-820
+650
 
-885
+75
 
 15  1
 
@@ -1284,11 +1340,11 @@ Teritorijų planavimas
 
 11. 3. 1
 
-2430
+1378
 
-1480
+653
 
-950
+725
 
 16  1
 
@@ -1296,11 +1352,9 @@ Valstybinis aplinkos monitoringas
 
 13. 6. 1
 
-780
-
 680
 
-100
+680
 
 17  1
 
@@ -1308,9 +1362,9 @@ Pesticidų nukenksminimas
 
 13. 6. 1
 
-1510
+810
 
-1510
+810
 
 19  1
 
@@ -1318,19 +1372,19 @@ Pesticidų nukenksminimas
 
 10. 3. 1
 
-100
+93
 
-100
+93
 
 Iš viso
 
-47120
+42136
 
-42645
+39645
 
-19460
+19445
 
-4475
+2491
 
 12.900.  32
 
@@ -1338,63 +1392,41 @@ Finansų ministerija
 
 1  1
 
-Finansų politikos įgyvendinimas
+Finansų politikos
+
+įgyvendinimas
 
 1. 1. 2
 
-15051
+14387
 
-14226
+13692
 
-9028
+8802
 
-825
-
-1  2
-
-Specialiojo atašė išlaidos
-
-1. 1. 2
-
-400
-
-400
-
-90
+695
 
 2  1
 
-"Būstas"
+„Būstas“
 
 14. 1. 1
 
-11400
+4400
 
-11400
+4400
 
 3  1
 
-Gyventojams taikomų padidėjusių šiluminės ir elektros energijos
+Gyventojams taikomų padidėjusių šiluminės
 
-kainų dalinis kompensavimas
-
-14. 1. 3
-
-63264
-
-63264
-
-5  1
-
-Lėšos darbo užmokesčiui, pensijoms, stipendijoms ir pašalpoms
-
-indeksuoti
+ir elektros energijos kainų dalinis kompensavimas
 
 14. 1. 3
 
-27509
+125264
 
-27509
+125264
 
 6  1
 
@@ -1402,15 +1434,17 @@ Vyriausybės rezervo fondas
 
 14. 1. 3
 
-62229
+49950
 
-62229
+49950
 
-iš jų: apskričių viršininkų administracijoms
+iš jų: apskričių viršininkų
 
-7000
+administracijoms
 
-7000
+4937
+
+4937
 
 8  1
 
@@ -1418,9 +1452,9 @@ Valstybės skolos aptarnavimo išlaidos
 
 14. 1. 1
 
-770218
+722473
 
-720059
+672314
 
 50159
 
@@ -1430,15 +1464,15 @@ Speciali tikslinė dotacija savivaldybėms
 
 14. 1. 2
 
-101768
+126768
 
-101768
+126768
 
 12  1
 
-Valstybės parama asmenims, patyrusiems žalą likviduojant
+Valstybės parama asmenims, patyrusiems
 
-Černobylio atominės elektrinės avarijos padarinius
+žalą likviduojant Černobylio atominės elektrinės avarijos padarinius
 
 6. 3. 1
 
@@ -1448,35 +1482,41 @@ Valstybės parama asmenims, patyrusiems žalą likviduojant
 
 13  1
 
-Žalos atlyginimas nukentėjusiems dėl sveikatos suluošinimo darbe
+Žalos atlyginimas nukentėjusiems dėl sveikatos
 
-ar susirgimo profesine liga, kai ši prievolė pereina valstybei
+suluošinimo darbe ar susirgimo profesine liga, kai ši prievolė pereina
+
+valstybei
 
 6. 3. 1
 
-5000
+3000
 
-5000
+3000
 
 14  1
 
-Narystės mokesčiai tarptautinėms organizacijoms
+Narystės mokesčiai tarptautinėms
+
+organizacijoms
 
 14. 1. 3
 
-16500
+8500
 
-16500
+8500
 
-Iš viso
+Iš
 
-1074339
+viso
 
-1023355
+1055742
 
-9118
+100488
 
-50984
+8802
+
+50854
 
 13.900.  91
 
@@ -1490,13 +1530,13 @@ funkcionavimo užtikrinimas bei struktūros plėtra
 
 2. 1. 1
 
-326958
+304445
 
-316879
+297128
 
-154224
+142967
 
-10079
+7317
 
 1  2
 
@@ -1504,13 +1544,13 @@ Karių sveikatos priežiūra
 
 2. 1. 1
 
-26272
+21494
 
-24983
+20335
 
-10326
+8760
 
-1289
+1159
 
 1  3
 
@@ -1518,11 +1558,11 @@ Infrastruktūros plėtra
 
 2. 1. 1
 
-52817
+43461
 
-21482
+18657
 
-31335
+24804
 
 1  4
 
@@ -1530,11 +1570,11 @@ Gynybinio pajėgumo plėtra
 
 2. 1. 1
 
-27030
+27386
 
-2285
+1858
 
-24745
+25528
 
 1  5
 
@@ -1542,13 +1582,13 @@ Kovinis parengimas
 
 2. 1. 1
 
-51987
+43673
 
-51437
+43568
 
-11674
+8970
 
-550
+105
 
 1  6
 
@@ -1556,11 +1596,11 @@ Kovinis parengimas
 
 2. 1. 1
 
-3808
+2063
 
-3758
+2013
 
-1761
+748
 
 50
 
@@ -1568,15 +1608,23 @@ Kovinis parengimas
 
 Karių ir civilių mokymas
 
+2. 1. 1
+
+4033
+
+3003
+
+1030
+
 2. 1. 2
 
-37536
+29613
 
-35769
+29466
 
-16460
+14301
 
-1767
+147
 
 2  1
 
@@ -1588,21 +1636,29 @@ Dalyvavimas tarptautinėse operacijose
 
 13598
 
-9506
+10906
 
 3  1
 
 Pagalba ypatingų situacijų atvejais
 
+2. 1. 1
+
+855
+
+556
+
+299
+
 2. 1. 3
 
-8281
+5566
 
-5435
+4564
 
-2092
+2142
 
-2846
+1002
 
 4  1
 
@@ -1610,13 +1666,13 @@ Valstybės valdymas
 
 2. 9. 1
 
-19693
+18343
 
-19393
+18223
 
-7932
+7772
 
-300
+120
 
 5  1
 
@@ -1634,31 +1690,19 @@ Pagalba visuomeninėms organizacijoms
 
 2. 4. 1
 
-320
+70
 
-320
-
-6  4
-
-Pagalba Valstybinio pilietinio pasipriešinimo rengimo centrui
-
-2. 4. 1
-
-300
-
-300
-
-135
+70
 
 Iš viso
 
-573600
+519600
 
-500639
+458039
 
-214110
+196566
 
-72961
+61561
 
 14.900. 116
 
@@ -1668,13 +1712,31 @@ Kultūros ministerija
 
 Profesionalaus meno rėmimas
 
-8. 2. 5
+8. 2. 2
 
-43254
+1179
 
-43254
+1179
 
 534
+
+8. 2. 3
+
+4048
+
+4048
+
+8. 2. 4
+
+30594
+
+30594
+
+8. 2. 5
+
+5300
+
+5300
 
 1  2
 
@@ -1682,9 +1744,9 @@ Tarptautinis kultūrinis bendradarbiavimas
 
 8. 2. 5
 
-1149
+839
 
-1149
+839
 
 138
 
@@ -1694,19 +1756,21 @@ Valstybės švenčių rengimas
 
 8. 2. 5
 
-200
+186
 
-200
+186
 
 3  1
 
-Dalyvavimas Europos Tarybos ir Europos Sąjungos veikloje
+Dalyvavimas Europos Tarybos ir Europos
+
+Sąjungos veikloje
 
 8. 2. 5
 
-469
+223
 
-469
+223
 
 4  1
 
@@ -1714,69 +1778,79 @@ Teatras - Rytų Lietuvai
 
 8. 2. 5
 
-177
+148
 
-177
+148
 
 5  1
 
-Rengti nacionalinius ir tarptautinius renginius (festivalius,
+Nacionalinių ir tarptautinių renginių
 
-šventes, konkursus, konferencijas, kongresus ir t.t.)
+(festivalių, švenčių, konkursų, konferencijų, kongresų ir t.t.) rengimas
 
 8. 2. 5
 
-2437
+2787
 
-2437
+2787
 
 6  1
 
-Visuomenės bibliotekinis informacinis aprūpinimas
+Visuomenės bibliotekinis informacinis
+
+aprūpinimas
 
 8. 2. 1
 
-12961
+12093
 
-12961
+12093
 
-5149
+5158
 
 6  2
 
 Knygų ir kitų spaudinių dotavimas
 
+8. 2. 5
+
+250
+
+250
+
 8. 3. 1
 
-3768
+2768
 
-3768
+2768
 
 7  1
 
-Muziejaus rinkinių kaupimas, išsaugojimas, populiarinimas
+Muziejaus rinkinių kaupimas, išsaugojimas,
+
+populiarinimas
 
 8. 2. 2
 
-12423
+11868
 
-12423
+11868
 
 6297
 
 7  2
 
-Remti etninės  (tradicinės) kultūros bei mėgėjų meninės veiklos
+Etninės  (tradicinės) kultūros bei mėgėjų
 
-vystymąsi
+meninės veiklos vystymosi rėmimas
 
 8. 2. 5
 
-2956
+2697
 
-2956
+2697
 
-1599
+1590
 
 8  1
 
@@ -1784,21 +1858,39 @@ Visuomeninės veiklos iniciatyvų rėmimas
 
 8. 4. 1
 
-3338
+2596
 
-3338
+2596
 
-9  1
+9  1
 
-Statybos, projektavimo darbai ir pagrindinių priemonių
+Statybos, projektavimo darbai ir
 
-įsigijimas
+pagrindinių priemonių įsigijimas
+
+8. 2. 1
+
+644
+
+644
+
+8. 2. 2
+
+1489
+
+1489
+
+8. 2. 4
+
+1219
+
+1219
 
 8. 2. 5
 
-5660
+552
 
-5660
+552
 
 10  1
 
@@ -1806,35 +1898,43 @@ Kultūros darbuotojų kvalifikacijos kėlimas
 
 8. 2. 5
 
-804
+772
 
-804
+772
 
 405
 
 11  1
 
-Istorinių tyrimų vykdymas, paminklų įtraukimas į sąrašus
+Istorinių tyrimų vykdymas, paminklų
+
+įtraukimas į sąrašus
 
 8. 2. 5
 
-88
+68
 
-88
+68
 
 14  1
 
 Valstybės valdymas
 
+8. 2. 5
+
+32
+
+32
+
 8. 9. 1
 
-4272
+4839
 
-3672
+4171
 
-1852
+1990
 
-600
+668
 
 15  1
 
@@ -1842,137 +1942,67 @@ Jaunųjų atlikėjų rėmimas
 
 8. 2. 5
 
-448
+308
 
-448
+308
 
 16  1
 
-Viešųjų teatrų
-
-veiklos rėmimas
+Viešųjų teatrų veiklos rėmimas
 
 8. 2. 5
 
-177
+103
 
-177
+103
 
 Iš viso
 
-94581
+87602
 
-88321
+83030
 
-15974
+16112
 
-6260
+4572
 
 18.900. 173
 
-Socialinės
-
-apsaugos ir darbo ministerija
-
-I
-
-Š L A I D O S
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Iš
-
-jų
-
-Asignavimų
-
-valdytojų/
-
-Asignavimų
-
-valdytojų/programų
-
-Funkci-nės
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepapras-
-
-tosios
-
-programų
-
-kodai
-
-pavadinimai
-
-klasifika-cijos
-
-kodas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmo-kestis
-
-išlaidos
+Socialinės apsaugos ir darbo ministerija
 
 1  1
 
-Darbo rinkos profesinis mokymas ir konsultavimas, jaunimo
+Darbo rinkos profesinis mokymas ir
 
-darbinės veiklos galimybių išplėtimas bei socialinių darbuotojų
+konsultavimas, jaunimo darbinės veiklos galimybių išplėtimas bei socialinių
 
-kvalifikacijos kėlimas
-
-4. 6. 1
-
-352
-
-352
-
-228
-
-1  1
-
-Darbo rinkos profesinis mokymas ir konsultavimas, jaunimo
-
-darbinės veiklos galimybių išplėtimas bei socialinių darbuotojų
-
-kvalifikacijos kėlimas
+darbuotojų kvalifikacijos kėlimas
 
 4. 4. 1
 
-595
+517
 
-565
+496
 
-152
+160
 
-30
+21
+
+4. 6. 1
+
+320
+
+320
+
+220
 
 2  1
 
-Ortopedinė protezinė pagalba Lietuvos Respublikos gyventojams ir
+Ortopedinė protezinė pagalba Lietuvos
 
-specialiosios paskirties automobilių invalidams vežti įsigijimas 1995-2000
+Respublikos gyventojams ir specialiosios paskirties automobilių invalidams
 
-metais
+vežti įsigijimas 1995-2000 metais
 
 5. 4. 1
 
@@ -1982,9 +2012,9 @@ metais
 
 3  1
 
-Valstybinės ir šalpos (socialinės) pensijos bei valstybinė
+Valstybinės ir šalpos (socialinės)
 
-socialinė parama
+pensijos bei valstybinė socialinė parama
 
 6. 1. 1
 
@@ -1992,23 +2022,11 @@ socialinė parama
 
 283
 
-3  1
-
-Valstybinės ir šalpos (socialinės) pensijos bei valstybinė
-
-socialinė parama
-
 6. 1. 2
 
-12797
+11297
 
-12797
-
-3  1
-
-Valstybinės ir šalpos (socialinės) pensijos bei valstybinė
-
-socialinė parama
+11297
 
 6. 1. 3
 
@@ -2016,23 +2034,11 @@ socialinė parama
 
 208191
 
-3  1
-
-Valstybinės ir šalpos (socialinės) pensijos bei valstybinė
-
-socialinė parama
-
 6. 1. 8
 
-8769
+7769
 
-8769
-
-3  1
-
-Valstybinės ir šalpos (socialinės) pensijos bei valstybinė
-
-socialinė parama
+7769
 
 6. 1. 9
 
@@ -2040,87 +2046,75 @@ socialinė parama
 
 94814
 
-3  1
-
-Valstybinės ir šalpos (socialinės) pensijos bei valstybinė socialinė
-
-parama
-
 6. 1.11
 
-80820
+27744
 
-80820
+27744
 
-4  1
+6. 1.13
 
-Socialinių paslaugų plėtra valstybinėse stacionariose globos
+10065
 
-įstaigose ir kitose ministerijai pavaldžiose institucijose, toliau tobulinant
+10065
 
-jų veiklą ir struktūrą
+6. 1.15
 
-6. 2. 1
+5000
 
-17670
-
-17370
-
-8140
-
-300
-
-4  1
-
-Socialinių paslaugų plėtra valstybinėse stacionariose globos
-
-įstaigose ir kitose ministerijai pavaldžiose institucijose, toliau tobulinant
-
-jų veiklą ir struktūrą
-
-6. 2. 3
-
-79692
-
-77782
-
-24851
-
-1910
+5000
 
 4  1
 
 Socialinių paslaugų plėtra valstybinėse
 
-stacionariose globos įstaigose ir kitose
+stacionariose globos įstaigose ir kitose ministerijai pavaldžiose
 
-ministerijai pavaldžiose institucijose,
+institucijose, toliau tobulinant jų veiklą ir struktūrą
 
-toliau tobulinant jų veiklą ir struktūrą
+6. 2. 1
+
+11368
+
+11269
+
+5615
+
+99
+
+6. 2. 3
+
+26987
+
+26016
+
+9053
+
+971
 
 6. 2. 4
 
-10149
+9673
 
-9629
+9289
 
 3901
 
-520
+384
 
 5  1
 
-Socialinės apsaugos ir darbo ministerijos veikla, nesusijusi su
+Socialinės apsaugos ir darbo ministerijos
 
-įstaigos išlaikymu
+veikla, nesusijusi su įstaigos išlaikymu
 
 6. 3. 1
 
-73040
+72555
 
-72800
+72360
 
-240
+195
 
 5  2
 
@@ -2134,35 +2128,35 @@ Tarptautiniai pagyvenusių žmonių metai
 
 5  3
 
-Socialinės apsaugos ir darbo ministerijos išlaikymas (valdymas)
+Socialinės apsaugos ir darbo ministerijos
+
+išlaikymas (valdymas)
 
 6. 9. 1
 
-8487
+6014
 
-5887
+5804
 
-3181
+3117
 
-2600
+210
 
 6  1
 
 Gyvenimo lygio, gyventojų užimtumo,
 
-socialinio draudimo ir socialinės apsaugos Lietuvoje moksliniai
-
-tyrimai
+socialinio draudimo ir socialinės apsaugos Lietuvoje moksliniai tyrimai
 
 6.10. 1
 
-769
+741
 
-729
+707
 
 476
 
-40
+34
 
 6  2
 
@@ -2170,19 +2164,19 @@ Profesinio pakenkimo sveikatai prevencija
 
 6.10. 1
 
-2202
+1840
 
-1942
+1706
 
 556
 
-260
+134
 
 7  1
 
-Socialinių paslaugų infrastruktūros
+Socialinių paslaugų infrastruktūros plėtra
 
-plėtra 1998-2000 metais
+1998-2000 metais
 
 6. 3. 1
 
@@ -2206,17 +2200,19 @@ projektų aptarnavimas
 
 Iš viso
 
-636535
+533083
 
-620635
+521035
 
-41485
+23098
 
-15900
+12048
 
 20.900. 219
 
-Susisiekimo ministerija
+Susisiekimo
+
+ministerija
 
 1  1
 
@@ -2224,15 +2220,13 @@ Nacionalinė transporto plėtra
 
 12. 6. 1
 
-948
+1550
 
-948
+1550
 
 1  2
 
-Valstybės rezervo sudarymas ir
-
-saugojimas
+Valstybės rezervo sudarymas ir saugojimas
 
 12. 6. 1
 
@@ -2260,13 +2254,13 @@ Valstybės valdymas
 
 12. 9. 1
 
-6542
+6492
 
 6442
 
 3551
 
-100
+50
 
 1  6
 
@@ -2274,11 +2268,11 @@ Geležinkelio apsauga ir priežiūra
 
 12. 6. 1
 
-3045
+2935
 
-2965
+2915
 
-80
+20
 
 1  7
 
@@ -2292,25 +2286,25 @@ Teisės aktų derinimas
 
 1  9
 
-Delegavimas specialiojo atašė
+Specialiojo atašė delegavimas
 
 12. 9. 1
 
-400
+200
 
-400
+200
 
-90
+40
 
 Iš viso
 
-17080
+17322
 
-12484
+12836
 
-3641
+3591
 
-4596
+4486
 
 21.900. 220
 
@@ -2322,39 +2316,43 @@ Visuomenės sveikatos priežiūra
 
 5. 6. 1
 
-43498
+43619
 
-43498
+43585
 
-29660
+30693
+
+34
 
 2  1
 
-Patologinių anatomijos centrų,
+Patologinių anatomijos centrų, medicininės
 
-medicininės teisės ir teismo psichiatrinių ekspertizių kokybės
+teisės ir teismo psichiatrinių ekspertizių kokybės užtikrinimas ir atlikimo
 
-užtikrinimas ir atlikimo operatyvumas
+operatyvumas
 
 5. 6. 1
 
-13654
+12824
 
-12154
+11974
 
 8011
 
-1500
+850
 
 3  1
 
-Valstybinių medicininių išteklių rezervo kaupimas
+Valstybinių medicininių išteklių rezervo
+
+kaupimas
 
 5.12. 1
 
-2200
+2117
 
-1675
+1592
 
 820
 
@@ -2364,15 +2362,13 @@ Valstybinių medicininių išteklių rezervo kaupimas
 
 Sveikatos apsaugos teisės ir ekonomikos
 
-centro, Lietuvos medicinos etikos
-
-(bioetikos) ir kita veikla
+centro, Lietuvos medicinos etikos (bioetikos) ir kita veikla
 
 5.12. 1
 
-3295
+3115
 
-3295
+3115
 
 1160
 
@@ -2384,37 +2380,37 @@ stiprinimas ir modernizavimas
 
 5.12. 1
 
-44840
+43340
 
 8986
 
-35854
+34354
 
 6  1
 
 Nacionalinė imunoprofilaktikos ir
 
-užkrečiamųjų ligų laboratorinė
-
-diagnostikos programa
+užkrečiamųjų ligų laboratorinė diagnostikos programa
 
 5.12. 1
 
-5416
+4956
 
-5416
+4956
 
-7  1
+7  1
 
-Medicinos specialistų kvalifikacijos kėlimas
+Medicinos specialistų kvalifikacijos
+
+kėlimas
 
 5.12. 1
 
-4642
+4560
 
-4642
+4560
 
-2412
+2349
 
 8  1
 
@@ -2424,13 +2420,13 @@ specializacija ir kvalifikacijos kėlimas
 
 4. 4. 1
 
-2067
+2060
 
-2032
+2030
 
 1469
 
-35
+30
 
 9  1
 
@@ -2440,13 +2436,13 @@ institutas)
 
 5.10. 1
 
-2157
+1842
 
-1642
+1572
 
 1041
 
-515
+270
 
 10  1
 
@@ -2454,9 +2450,9 @@ Teisės aktų derinimas
 
 14. 1. 3
 
-98
+94
 
-98
+94
 
 11  1
 
@@ -2464,13 +2460,13 @@ Mokslo ir technikos plėtra
 
 5.11. 1
 
-11841
+9813
 
-3341
+2213
 
 1281
 
-8500
+7600
 
 12  1
 
@@ -2478,19 +2474,19 @@ Valstybės valdymas
 
 5. 9. 1
 
-3443
+3943
 
-3343
+3843
 
-2209
+2272
 
 100
 
 13  1
 
-Iš privalomojo sveikatos draudimo fondo biudžeto gautai paskolai
+Iš privalomojo sveikatos draudimo fondo
 
-padengti
+biudžeto gautai paskolai padengti
 
 14. 1. 3
 
@@ -2500,13 +2496,13 @@ padengti
 
 Iš viso
 
-139323
+134455
 
-92294
+90692
 
-48063
+49096
 
-47029
+43763
 
 22.900. 326
 
@@ -2518,69 +2514,53 @@ Iš viso
 
 4. 4. 1
 
-3260
+3230
 
-3211
+3199
 
 2322
 
-49
-
-1  1
-
-Švietimo reformos antrasis etapas
+31
 
 4. 4. 2
 
-7362
+7297
 
-7159
+7148
 
 4623
 
-203
-
-1  1
-
-Švietimo reformos antrasis etapas
+149
 
 4. 6. 1
 
-3912
+3817
 
-3812
+3777
 
 2426
 
-100
-
-1  1
-
-Švietimo reformos antrasis etapas
+40
 
 4. 6. 3
 
-21811
+20391
 
-21436
+20386
 
 1197
 
-375
-
-1  1
-
-Švietimo reformos antrasis etapas
+5
 
 4.10. 1
 
-1380
+1360
 
-1366
+1354
 
 928
 
-14
+6
 
 1  2
 
@@ -2590,59 +2570,41 @@ sudarymas
 
 4. 6. 3
 
-5336
+5286
 
-5336
+5286
 
 487
 
-1  2
-
-Socialinių-kultūrinių ugdymosi sąlygų
-
-sudarymas
-
 4. 6. 9
 
-234
-
 229
+
+224
 
 134
 
 5
 
-1  2
-
-Socialinių-kultūrinių ugdymosi sąlygų
-
-sudarymas
-
 4.10. 1
 
-1672
+1622
 
-1657
+1607
 
 913
 
 15
 
-1  2
-
-Socialinių-kultūrinių ugdymosi sąlygų
-
-sudarymas
-
 8. 2. 2
 
-255
+251
 
 247
 
 157
 
-8
+4
 
 1  3
 
@@ -2652,49 +2614,33 @@ informacinės visuomenės kūrimas
 
 4. 6. 1
 
-1033
+1009
 
 992
 
 659
 
-41
-
-1  3
-
-Švietimo technologijų modernizavimo ir
-
-informacinės visuomenės kūrimas
+17
 
 4. 6. 3
 
-6175
+5481
 
 759
 
-5416
+4722
 
 1  4
 
 Švietimo įstaigų pastatų statyba,
 
-renovacija bei materialinės bazės
-
-atnaujinimas
+renovacija bei materialinės bazės atnaujinimas
 
 4. 2. 1
 
-18300
+11677
 
-18300
-
-1  4
-
-Švietimo įstaigų pastatų statyba,
-
-renovacija bei materialinės bazės
-
-atnaujinimas
+11677
 
 4. 4. 2
 
@@ -2702,7 +2648,7 @@ atnaujinimas
 
 200
 
-1  5
+1  5
 
 Bendrojo lavinimo  mokyklų, finansuojamų
 
@@ -2718,37 +2664,21 @@ iš valstybės biudžeto, funkcionavimas
 
 110
 
-1  5
-
-Bendrojo lavinimo  mokyklų, finansuojamų
-
-iš valstybės biudžeto, funkcionavimas
-
-4. 6. 3
-
-736
-
-736
-
-550
-
 1  6
 
-Bendrojo lavinimo internatinių mokyklų,
+Bendrojo lavinimo internatinių
 
-finansuojamų iš valstybės biudžeto,
-
-funkcionavimas
+mokyklų,finansuojamų iš valstybės biudžeto, funkcionavimas
 
 4. 2. 2
 
-36948
+36552
 
 36285
 
 21989
 
-663
+267
 
 2  1
 
@@ -2756,17 +2686,13 @@ Profesinis mokymas
 
 4. 2. 3
 
-113936
+111808
 
-111338
+110626
 
-55096
+55396
 
-2598
-
-2  1
-
-Profesinis mokymas
+1182
 
 4. 5. 3
 
@@ -2774,33 +2700,25 @@ Profesinis mokymas
 
 17
 
-2  2
+2  2
 
 Aukštesniosios studijos
 
 4. 3. 2
 
-96350
+95447
 
-94080
+93618
 
 50952
 
-2270
-
-2  2
-
-Aukštesniosios studijos
+1829
 
 4. 5. 4
 
 92
 
 92
-
-2  2
-
-Aukštesniosios studijos
 
 4. 6. 2
 
@@ -2812,35 +2730,29 @@ Aukštesniosios studijos
 
 3  1
 
-Profesinio rengimo reforma pagal
+Profesinio rengimo reforma pagal „Baltąją
 
-"Baltąją knygą"
+knygą“
 
 4. 6. 1
 
-425
+413
 
 403
 
 247
 
-22
-
-3  1
-
-Profesinio rengimo reforma pagal
-
-"Baltąją knygą"
+10
 
 4. 6. 3
 
-327
+264
 
 242
 
 70
 
-85
+22
 
 4  1
 
@@ -2850,21 +2762,21 @@ bendradarbiavimas
 
 4. 6. 3
 
-91
+89
 
-91
+89
 
 4  2
 
-Integravimasis į Europos Sąjungos
+Integravimasis į Europos Sąjungos švietimo
 
-švietimo struktūras
+struktūras
 
 4. 6. 3
 
-4015
+3985
 
-4015
+3985
 
 300
 
@@ -2874,99 +2786,41 @@ Valstybės valdymas
 
 4. 9. 1
 
-4982
+4963
 
-4782
+4803
 
-2917
+2963
 
-200
+160
 
 5  2
 
-Socialinių ir ekonominių švietimo
+Socialinių ir ekonominių švietimo programų
 
-programų rengimas
+rengimas
 
 4. 6. 3
 
-550
+399
 
-550
+399
 
-360
+244
 
 Iš viso
 
-338821
+325301
 
-308147
+304850
 
-152271
+151951
 
-30674
+20451
 
 23.900. 551
 
 Teisingumo ministerija
-
-I
-
-Š L A I D O S
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Iš
-
-jų
-
-Asignavimų
-
-valdytojų/
-
-Asignavimų
-
-valdytojų/programų
-
-Funkci-nės
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepapras-
-
-tosios
-
-programų
-
-kodai
-
-pavadinimai
-
-klasifika-cijos
-
-kodas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmo-kestis
-
-išlaidos
 
 1  1
 
@@ -2976,37 +2830,37 @@ koordinavimas ir kontrolė
 
 3. 9. 1
 
-3602
+3197
 
-3502
+3147
 
-2015
+1970
 
-100
+50
 
 1  3
 
-Neteisėtais pareigūnų veiksmais padarytos moralinės ir
+Neteisėtais pareigūnų veiksmais padarytos
 
-materialinės žalos atlyginimas
+moralinės ir materialinės žalos atlyginimas
 
 14. 1. 3
 
-1500
+150
 
-1500
+150
 
 1  5
 
-Advokatams, dalyvaujantiems bylose pagal BPK 561 str.,
+Advokatams, dalyvaujantiems bylose pagal
 
-apmokėjimas
+BPK 561 straipsnį, apmokėjimas
 
 14. 1. 3
 
-2925
+2535
 
-2925
+2535
 
 2  1
 
@@ -3016,11 +2870,11 @@ Teisinės sistemos reformos metmenų
 
 3. 2. 1
 
-119612
+110562
 
-117112
+108062
 
-77011
+75761
 
 2500
 
@@ -3030,13 +2884,13 @@ Hipotekų registro plėtojimas
 
 3. 2. 1
 
-8745
+6035
 
-6245
+4335
 
-1840
+1760
 
-2500
+1700
 
 2  3
 
@@ -3046,9 +2900,9 @@ darbuotojų kvalifikacijos kėlimas
 
 3. 2. 1
 
-239
+139
 
-239
+139
 
 3  1
 
@@ -3058,13 +2912,11 @@ ekspertinė praktika
 
 3.10. 1
 
-5015
+4360
 
-4515
+4360
 
 2881
-
-500
 
 4  1
 
@@ -3074,9 +2926,9 @@ sistemą
 
 3.10. 1
 
-208
+206
 
-208
+206
 
 140
 
@@ -3096,13 +2948,13 @@ problemos Lietuvoje
 
 Iš viso
 
-142378
+127716
 
-136778
+123466
 
-84280
+82905
 
-5600
+4250
 
 29.900.1811
 
@@ -3114,9 +2966,9 @@ Eksporto plėtojimas
 
 11. 2. 1
 
-41050
+25050
 
-41050
+25050
 
 1  2
 
@@ -3140,15 +2992,15 @@ Pramonės plėtojimas iki 2005 m.
 
 1  4
 
-Nacionalinės energetikos strategijos įgyvendinimo ir
+Nacionalinės energetikos strategijos
 
-patikslintos nacionalinės strategijos parengimo darbai
+įgyvendinimo ir patikslintos nacionalinės strategijos parengimo darbai
 
 11. 2. 1
 
-1207
+1045
 
-1207
+1045
 
 1  5
 
@@ -3158,9 +3010,55 @@ efektyvumo didinimas
 
 11. 2. 1
 
-2094
+1760
 
-2094
+1760
+
+1 priedėlio
+
+tęsinys
+
+Išlaidos
+
+tūkst. Lt
+
+Asigna-vimų
+
+Asignavimų
+
+valdytojų/
+
+Funkci-nės
+
+Iš viso
+
+Iš jų
+
+valdytojų/programų
+
+programų
+
+pavadinimai
+
+klasifi-kacijos
+
+paprastosios
+
+išlaidos
+
+nepapras-tosios
+
+kodai
+
+kodas
+
+iš viso
+
+iš jų darbo
+
+užmo-kestis
+
+išlaidos
 
 1  9
 
@@ -3168,9 +3066,9 @@ Pavojingų atliekų tvarkymas Lietuvoje
 
 11. 2. 1
 
-3000
+1297
 
-3000
+1297
 
 1 10
 
@@ -3178,19 +3076,15 @@ Antrinių žaliavų ir atliekų naudojimas
 
 11. 2. 1
 
-549
+459
 
-549
+459
 
 1 11
 
-Ekonominių grėsmių mažinimas ir
+Ekonominių grėsmių mažinimas ir ekonominio
 
-ekonominio saugumo užtikrinimas Lietuvos
-
-ūkio funkcionavimo ekstremaliomis
-
-sąlygomis
+saugumo užtikrinimas Lietuvos ūkio funkcionavimo ekstremaliomis sąlygomis
 
 11. 2. 1
 
@@ -3200,15 +3094,15 @@ sąlygomis
 
 1 15
 
-Valstybės rezervo naftos produktų, pramoninių ir maisto prekių
+Valstybės rezervo naftos produktų,
 
-bei gamybinės techninės produkcijos tvarkymas
+pramoninių ir maisto prekių bei gamybinės techninės produkcijos tvarkymas
 
 11. 2. 1
 
-8695
+7391
 
-8695
+7391
 
 1 16
 
@@ -3218,11 +3112,11 @@ mokslinio tyrimo darbai
 
 11.10. 1
 
-1064
+894
 
-1064
+894
 
-726
+626
 
 1 18
 
@@ -3230,13 +3124,13 @@ Valstybės valdymas
 
 11. 9. 1
 
-10638
+9598
 
-8638
+8392
 
 4874
 
-2000
+1206
 
 1 19
 
@@ -3244,9 +3138,9 @@ Teisės derinimo komisijų veikla
 
 14. 1. 3
 
-241
+141
 
-241
+141
 
 1 20
 
@@ -3256,23 +3150,21 @@ administracinės išlaidos
 
 11. 2. 1
 
-129
+144
 
-129
+144
 
 1 21
 
-Europos Sąjungos amatų įmonių ir smulkių įmonių
+Europos Sąjungos amatų įmonių ir smulkių
 
-bendradarbiavimo programos
-
-administracinės išlaidos
+įmonių bendradarbiavimo programos administracinės išlaidos
 
 11. 2. 1
 
-43
+28
 
-43
+28
 
 1 27
 
@@ -3280,21 +3172,23 @@ Specialiojo atašė delegavimas
 
 11. 9. 1
 
-400
+340
 
-400
+290
 
-90
+70
+
+50
 
 Iš viso
 
-69194
+48231
 
-64194
+45678
 
-5690
+5570
 
-5000
+2553
 
 24.900. 554
 
@@ -3308,31 +3202,29 @@ diplomatinių atstovybių išlaikymas
 
 1. 1. 3
 
-95924
+14548
 
-93424
+14102
 
-40895
+6711
 
-2500
-
-1  1
-
-Užsienio reikalų ministerijos ir
-
-diplomatinių atstovybių išlaikymas
+446
 
 1. 4. 2
 
-1115
+778
 
-1115
+778
 
-1  1
+1. 5. 1
 
-Užsienio reikalų ministerijos ir
+72465
 
-diplomatinių atstovybių išlaikymas
+71271
+
+32349
+
+1194
 
 14. 1. 3
 
@@ -3342,41 +3234,43 @@ diplomatinių atstovybių išlaikymas
 
 2  1
 
-Atstovavimas tarptautinėse
+Atstovavimas tarptautinėse organizacijose
 
-organizacijose
+1. 5. 1
 
-1. 1. 3
+12034
 
-20978
-
-20978
+12034
 
 3  1
 
 Užsienio reikalų ministerijos ir
 
-diplomatinių atstovybių saugaus
-
-funkcionavimo užtikrinimas
+diplomatinių atstovybių saugaus funkcionavimo užtikrinimas
 
 1. 1. 3
 
-2500
+1126
 
-2500
+1126
+
+1. 5. 1
+
+354
+
+354
 
 4  1
 
 Nekilnojamojo turto užsienyje įsigijimas
 
-1. 1. 3
+1. 5. 1
 
-6809
+5909
 
 380
 
-6429
+5529
 
 5  1
 
@@ -3386,23 +3280,31 @@ laimėjimų pristatymas
 
 1. 1. 3
 
-620
+70
 
-620
+70
+
+1. 5. 1
+
+243
+
+243
 
 Iš viso
 
-129446
+109027
 
-118017
+100378
 
-40895
+39060
 
-11429
+8649
 
 25.900. 616
 
-Valdymo reformų ir savivaldybių reikalų
+Valdymo reformų ir
+
+savivaldybių reikalų
 
 ministerija
 
@@ -3410,9 +3312,7 @@ ministerija
 
 Administracinių vienetų ir gyvenamųjų
 
-vietovių ir gatvių valstybės registro
-
-informacinės sistemos plėtojimas ir
+vietovių ir gatvių valstybės registro informacinės sistemos plėtojimas ir
 
 eksploatavimas
 
@@ -3428,15 +3328,13 @@ Valstybės tarnybos reforma
 
 14. 1. 3
 
-614
+414
 
-614
+414
 
 3  1
 
-Komunalinio ūkio koncepcijos
-
-įgyvendinimas
+Komunalinio ūkio koncepcijos įgyvendinimas
 
 7. 1. 3
 
@@ -3452,31 +3350,27 @@ koordinavimas
 
 12. 8. 1
 
-1955
+1005
 
-1955
+1005
 
 4  2
 
 Lietuvos Respublikos administracinės
 
-informacinės sistemos projektavimas ir
-
-diegimas
+informacinės sistemos projektavimas ir diegimas
 
 12. 8. 1
 
-654
+554
 
-654
+554
 
 4  3
 
 Apskričių viršininkų administracijų
 
-informacinės sistemos plėtojimas ir
-
-įgyvendinimas
+informacinės sistemos plėtojimas ir įgyvendinimas
 
 12. 8. 1
 
@@ -3488,9 +3382,7 @@ informacinės sistemos plėtojimas ir
 
 Integralios valstybės registrų sistemos
 
-plėtra, valstybės bendros informacijos
-
-sistemos kūrimas
+plėtra, valstybės bendros informacijos sistemos kūrimas
 
 12. 8. 1
 
@@ -3504,9 +3396,9 @@ Integruotų geoinformacinių sistemų kūrimas
 
 12. 8. 1
 
-500
+420
 
-500
+420
 
 4  6
 
@@ -3522,11 +3414,11 @@ plėtra (VIKT)
 
 4  8
 
-Bendros Baltijos valstybių informacinės infrastruktūros kūrimas
+Bendros Baltijos valstybių informacinės
 
-pagal ES analogus (IDA, TEN, ERI, Šengeno ir pan. sistemas), įgyvendinant
+infrastruktūros kūrimas pagal ES analogus (IDA, TEN, ERI, Šengeno ir pan.
 
-Baltijos Ministrų Tarybos sprendimus
+sistemas), įgyvendinant Baltijos Ministrų Tarybos sprendimus
 
 12. 8. 1
 
@@ -3536,27 +3428,27 @@ Baltijos Ministrų Tarybos sprendimus
 
 5  1
 
-Konkursų, konferencijų, seminarų, parodų organizavimas bei
+Konkursų, konferencijų, seminarų, parodų
 
-dalyvavimas juose, skelbimai spaudoje, medžiagos surinkimas, vertimas ir kiti
+organizavimas bei dalyvavimas juose, skelbimai spaudoje, medžiagos
 
-darbai
+surinkimas, vertimas ir kiti darbai
 
 14. 1. 3
 
-650
+565
 
-650
+565
 
 6  1
 
 Specialiojo atašė delegavimas
 
-1. 1. 3
-
-519
+1. 5. 1
 
 449
+
+379
 
 90
 
@@ -3568,13 +3460,13 @@ Valstybės valdymas
 
 1. 1. 6
 
-4424
+4370
 
 3894
 
 2372
 
-530
+476
 
 8  1
 
@@ -3592,7 +3484,9 @@ Vyriausybės atstovų tarnyba
 
 9  1
 
-Kriterijų probleminiams regionams Lietuvoje nustatymas
+Kriterijų probleminiams regionams
+
+Lietuvoje nustatymas
 
 14. 1. 3
 
@@ -3602,13 +3496,13 @@ Kriterijų probleminiams regionams Lietuvoje nustatymas
 
 Iš viso
 
-14274
+12735
 
-13274
+11789
 
 3475
 
-1000
+946
 
 26.900. 617
 
@@ -3616,29 +3510,29 @@ Vidaus reikalų ministerija
 
 1  1
 
-VRM sistemos materialinės techninės
+VRM sistemos materialinės techninės bazės
 
-bazės plėtojimas
+plėtojimas
 
 3. 1. 1
 
-7666
+5789
 
-7666
+5789
 
 1  2
 
-Asmens dokumentų rengimas ir
+Asmens dokumentų rengimas ir gyvenamosios
 
-gyvenamosios vietos deklaravimas
+vietos deklaravimas
 
 3. 1. 1
 
-1880
+430
 
-1880
+430
 
-792
+212
 
 1  4
 
@@ -3646,11 +3540,11 @@ Kovinis parengimas
 
 3. 1. 1
 
-40530
+39640
 
-40530
+39640
 
-15654
+15004
 
 1  5
 
@@ -3658,11 +3552,11 @@ VRM sistemos kadrų rengimas
 
 3. 1. 2
 
-4231
+3931
 
-4231
+3931
 
-2207
+2137
 
 1  6
 
@@ -3670,9 +3564,9 @@ Sveikatos apsauga
 
 5. 5. 1
 
-10301
+10251
 
-10301
+10251
 
 6390
 
@@ -3684,11 +3578,11 @@ turto išlaikymas
 
 3. 1. 1
 
-31046
+29596
 
-31046
+29596
 
-17554
+17121
 
 1  8
 
@@ -3706,21 +3600,21 @@ Valstybės valdymas
 
 3. 9. 1
 
-9898
+8955
 
-9898
+8955
 
-6219
+5719
 
 Iš viso
 
-149587
+142627
 
-141921
+136838
 
-48816
+46583
 
-7666
+5789
 
 30.900.1812
 
@@ -3728,15 +3622,13 @@ Iš viso
 
 1  1
 
-Nacionalinė žemės ūkio plėtojimo
-
-programa
+Nacionalinė žemės ūkio plėtojimo programa
 
 10. 1. 3
 
-435870
+405870
 
-435870
+405870
 
 3  1
 
@@ -3746,13 +3638,13 @@ reikšmės vandens telkiniuose
 
 10. 3. 1
 
-4382
+3863
 
-4352
+3838
 
 1106
 
-30
+25
 
 3  2
 
@@ -3760,23 +3652,21 @@ reikšmės vandens telkiniuose
 
 10. 3. 1
 
-528
+424
 
-528
+424
 
 4  1
 
 Valstybinė augalų ir augalinės kilmės
 
-produkcijos karantininė ir augalų
-
-apsaugos priemonių naudojimo kontrolė
+produkcijos karantininė ir augalų apsaugos priemonių naudojimo kontrolė
 
 10. 1. 5
 
-2549
+2349
 
-2549
+2349
 
 1437
 
@@ -3788,9 +3678,9 @@ priežiūra integruojantis į bendrą Europos rinką
 
 10. 1. 6
 
-301
+278
 
-301
+278
 
 170
 
@@ -3798,15 +3688,13 @@ priežiūra integruojantis į bendrą Europos rinką
 
 Valstybinė veislinių sėklinių pasėlių ir
 
-sodmenų bei paruoštos sėklinės medžiagos
-
-kokybės kontrolė ir sertifikavimas
+sodmenų bei paruoštos sėklinės medžiagos kokybės kontrolė ir sertifikavimas
 
 10. 1. 6
 
-3988
+3598
 
-3968
+3578
 
 2327
 
@@ -3814,17 +3702,15 @@ kokybės kontrolė ir sertifikavimas
 
 7  1
 
-Naujų augalų veislių vertingumo tyrimai,
+Naujų augalų veislių vertingumo tyrimai,jų
 
-jų registracija ir veislių autorių bei
-
-savininkų teisių apsauga
+registracija ir veislių autorių bei savininkų teisių apsauga
 
 10. 1. 6
 
-1810
+1586
 
-1810
+1586
 
 580
 
@@ -3832,89 +3718,29 @@ savininkų teisių apsauga
 
 Gyvulių veislininkystės įstatymo ir kitų
 
-su veislininkyste susijusių teisės aktų
-
-vykdymo valstybinė priežiūra
+su veislininkyste susijusių teisės aktų vykdymo valstybinė priežiūra
 
 10. 1. 6
 
-2409
+2222
 
-2384
+2197
 
 1267
 
 25
 
-I
-
-Š L A I D O S
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Iš
-
-jų
-
-Asignavimų
-
-valdytojų/
-
-Asignavimų
-
-valdytojų/programų
-
-Funkci-nės
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepapras-
-
-tosios
-
-programų
-
-kodai
-
-pavadinimai
-
-klasifika-cijos
-
-kodas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmo-kestis
-
-išlaidos
-
 9  1
 
-Žemės ir miškų ūkio technikos bandymas
+Žemės ir miškų ūkio technikos bandymas ir
 
-ir sertifikavimas
+sertifikavimas
 
 10. 1. 6
 
-833
+763
 
-833
+763
 
 456
 
@@ -3922,19 +3748,17 @@ ir sertifikavimas
 
 Socialinių problemų tyrimas kaime,
 
-siekiant užtikrinti socialinį darbdavio
+siekiant užtikrinti socialinį darbdavio ir dirbančiojo teisėtumą, augalų
 
-ir dirbančiojo teisėtumą, augalų auginimo, gyvulininkystės
+auginimo, gyvulininkystės technologijų ir agroserviso paslaugų ekonominė
 
-technologijų ir agroserviso paslaugų
-
-ekonominė analizė
+analizė
 
 10. 1. 6
 
-224
+207
 
-209
+192
 
 107
 
@@ -3946,9 +3770,9 @@ Visuomenės informacinis aprūpinimas
 
 10. 1. 6
 
-139
+123
 
-129
+113
 
 38
 
@@ -3962,43 +3786,39 @@ sudarymas
 
 10. 1. 6
 
-6506
+4306
 
-5482
+3282
 
 1024
 
 14  1
 
-Atstovavimas žemės ūkiui tarptautinėse
+Atstovavimas žemės ūkiui tarptautinėse ir
 
-ir nacionalinėse parodose - mugėse,
+nacionalinėse parodose - mugėse, žemės ūkio produkcijos rinkos paieška bei
 
-žemės ūkio produkcijos rinkos paieška bei paklausos tyrimas
+paklausos tyrimas
 
 10. 1. 6
 
-354
+264
 
-354
+264
 
 15  1
 
 Žemės ūkio subjektų aprūpinimas
 
-literatūra, informaciniais leidiniais ir kitomis
+literatūra, informaciniais leidiniais ir kitomis techninėmis priemonėmis
 
-techninėmis priemonėmis
-
-(videofilmais, skaidrėmis, reklamine
-
-medžiaga) ir kitos priemonės
+(videofilmais, skaidrėmis, reklamine medžiaga) ir kitos priemonės
 
 10. 1. 6
 
-319
+233
 
-319
+233
 
 16  1
 
@@ -4008,9 +3828,9 @@ ir žemdirbiams organizavimas
 
 10. 1. 6
 
-49
+40
 
-49
+40
 
 17  1
 
@@ -4018,33 +3838,33 @@ ir žemdirbiams organizavimas
 
 10. 1. 6
 
-398
+299
 
-398
+299
 
 18  1
 
-Dirvožemio ir augalininkystės
+Dirvožemio ir augalininkystės produkcijos
 
-produkcijos užterštumo tyrimas
+užterštumo tyrimas
 
 10. 1. 6
 
-49
+41
 
-49
+41
 
 19  1
 
-Gyvulinės kilmės atliekų, gyvulių lavonų utilizavimas
+Gyvulinės kilmės atliekų, gyvulių lavonų
 
-(subsidijos gamintojams)
+utilizavimas (subsidijos gamintojams)
 
 10. 1. 6
 
-2064
+1764
 
-2064
+1764
 
 21  1
 
@@ -4054,11 +3874,11 @@ atstovybių veiklos programa
 
 10. 9. 1
 
-780
+690
 
-780
+690
 
-217
+213
 
 22  1
 
@@ -4066,31 +3886,23 @@ Profesinis rengimas
 
 4. 2. 3
 
-77066
+76341
 
-76912
+76187
 
-38117
+38091
 
 154
 
-22  1
-
-Profesinis rengimas
-
 4. 3. 2
 
-34679
+33744
 
-34635
+33700
 
-17352
+17378
 
 44
-
-22  1
-
-Profesinis rengimas
 
 4. 6. 1
 
@@ -4101,10 +3913,6 @@ Profesinis rengimas
 216
 
 12
-
-22  1
-
-Profesinis rengimas
 
 4. 6. 3
 
@@ -4130,33 +3938,33 @@ Valstybės valdymas
 
 10. 9. 1
 
-13268
+12458
 
-13118
+12357
 
-5074
+5010
 
-150
+101
 
 Iš viso
 
-589888
+552786
 
-588404
+551356
 
-68595
+68527
 
-1484
+1430
 
-0.  0.  0
+0.  0.   0
 
 II. Apskritys
 
 90. 26.1147
 
-Alytaus apskrities viršininko
+Alytaus apskrities
 
-administracija
+viršininko administracija
 
 1  1
 
@@ -4164,13 +3972,13 @@ Valstybės valdymas
 
 1. 1. 4
 
-2954
+1830
 
-1504
+1448
 
-927
+907
 
-1450
+382
 
 1  2
 
@@ -4180,11 +3988,11 @@ vaikų globa ir mokymas
 
 4. 2. 2
 
-7473
+7411
 
-7243
+7181
 
-3756
+3822
 
 230
 
@@ -4194,13 +4002,11 @@ Sergančių vaikų mokymas
 
 4. 2. 1
 
-3020
+2154
 
-2320
+2154
 
-1665
-
-700
+1537
 
 1  4
 
@@ -4208,13 +4014,11 @@ Vaikų gydymas ir reabilitacija
 
 6. 2. 1
 
-3151
+3016
 
-3101
+3016
 
-1988
-
-50
+1978
 
 1  6
 
@@ -4232,9 +4036,9 @@ Medicininė socialinė reabilitacija
 
 6. 3. 1
 
-310
+307
 
-310
+307
 
 197
 
@@ -4246,11 +4050,11 @@ organizavimas
 
 2. 1. 3
 
-493
+473
 
-493
+473
 
-306
+300
 
 1 13
 
@@ -4258,9 +4062,9 @@ Teritorinis planavimas
 
 11.11. 1
 
-70
+10
 
-70
+10
 
 1 14
 
@@ -4268,9 +4072,9 @@ Teritorinis planavimas
 
 4. 9. 1
 
-200
+194
 
-200
+194
 
 137
 
@@ -4280,11 +4084,11 @@ Teritorinis planavimas
 
 10. 9. 1
 
-3271
+3160
 
-3271
+3160
 
-2147
+2077
 
 1 16
 
@@ -4292,11 +4096,11 @@ Statybos institucijų išlaikymas
 
 11. 9. 1
 
-156
+152
 
-156
+152
 
-117
+114
 
 1 17
 
@@ -4306,27 +4110,25 @@ tvarkymas
 
 8. 4. 1
 
-943
+734
 
-443
+406
 
-500
+328
 
 Iš viso
 
-24220
+21620
 
-21220
+20670
 
-11240
+11069
 
-3000
+950
 
 90. 27.1178
 
-Kauno apskrities viršininko
-
-administracija
+Kauno apskrities viršininko administracija
 
 1  1
 
@@ -4334,13 +4136,21 @@ Valstybės valdymas
 
 1. 1. 4
 
-3854
+1944
 
-2834
+1431
 
-1307
+909
 
-1020
+513
+
+1. 4. 2
+
+1379
+
+1379
+
+380
 
 1  2
 
@@ -4350,9 +4160,9 @@ vaikų globa ir mokymas
 
 4. 2. 2
 
-15218
+14748
 
-15218
+14748
 
 8386
 
@@ -4362,9 +4172,9 @@ Vaikų mokymas ir ugdymas
 
 4. 2. 1
 
-1490
+1469
 
-1490
+1469
 
 1090
 
@@ -4374,11 +4184,11 @@ Sporto medicinos plėtra
 
 5.12. 1
 
-1142
+1102
 
-1142
+1102
 
-757
+754
 
 1  5
 
@@ -4386,9 +4196,9 @@ Visuomenės sveikatos ugdymas
 
 5. 6. 1
 
-187
+181
 
-187
+181
 
 130
 
@@ -4398,9 +4208,9 @@ Vaikų gydymas ir reabilitacija
 
 6. 2. 1
 
-7445
+7125
 
-7445
+7125
 
 4376
 
@@ -4422,9 +4232,9 @@ Socialinių paslaugų plėtra globos
 
 6. 2. 2
 
-5485
+5185
 
-5485
+5185
 
 1636
 
@@ -4434,9 +4244,9 @@ Gyvūnų globa ir populiarinimas
 
 13. 4. 1
 
-2667
+2567
 
-2667
+2567
 
 1402
 
@@ -4446,9 +4256,9 @@ Teritorinis planavimas
 
 11.11. 1
 
-165
+63
 
-165
+63
 
 1 18
 
@@ -4458,9 +4268,9 @@ organizavimas
 
 2. 1. 3
 
-530
+510
 
-530
+510
 
 335
 
@@ -4470,9 +4280,9 @@ organizavimas
 
 4. 9. 1
 
-187
+183
 
-187
+183
 
 128
 
@@ -4482,13 +4292,13 @@ organizavimas
 
 10. 9. 1
 
-6991
+6480
 
-6791
+6401
 
-4463
+4363
 
-200
+79
 
 1 21
 
@@ -4496,9 +4306,9 @@ Statybos institucijų išlaikymas
 
 11. 9. 1
 
-253
+248
 
-253
+248
 
 177
 
@@ -4510,9 +4320,9 @@ rekonstrukcija
 
 5.12. 1
 
-1000
+600
 
-1000
+600
 
 1 23
 
@@ -4520,19 +4330,19 @@ Krepšinio sporto salės Kaune statyba
 
 8. 1. 2
 
-4000
+500
 
-4000
+500
 
 Iš viso
 
-53996
+47666
 
-47611
+45911
 
-24187
+24066
 
-6385
+1755
 
 90. 28.1229
 
@@ -4546,11 +4356,11 @@ Valstybės valdymas
 
 1. 1. 4
 
-1329
+1324
 
-1269
+1264
 
-787
+783
 
 60
 
@@ -4562,13 +4372,13 @@ vaikų globa ir mokymas
 
 4. 2. 2
 
-15832
+15192
 
-14132
+13842
 
 7694
 
-1700
+1350
 
 1  4
 
@@ -4588,13 +4398,13 @@ Vaikų gydymas ir reabilitacija
 
 6. 2. 1
 
-2434
+2377
 
-2414
+2363
 
 1500
 
-20
+14
 
 1  7
 
@@ -4614,13 +4424,13 @@ Socialinių  paslaugų plėtra globos
 
 6. 2. 2
 
-6337
+5914
 
-6317
+5908
 
 1822
 
-20
+6
 
 1  9
 
@@ -4654,11 +4464,11 @@ organizavimas
 
 2. 1. 3
 
-524
+509
 
-524
+509
 
-357
+347
 
 1 18
 
@@ -4678,13 +4488,13 @@ organizavimas
 
 10. 9. 1
 
-4710
+4625
 
-4570
+4535
 
-2905
+2878
 
-140
+90
 
 1 20
 
@@ -4706,19 +4516,35 @@ rekonstrukcija
 
 5.12. 1
 
-1000
+150
 
-1000
+150
+
+4  1
+
+Socialinių paslaugų plėtra valstybinėse
+
+stacionariose globos įstaigose
+
+6. 2. 3
+
+7597
+
+7522
+
+2520
+
+75
 
 Iš viso
 
-36464
+41986
 
-33424
+40141
 
-16609
+19088
 
-3040
+1845
 
 90. 29.1270
 
@@ -4732,13 +4558,13 @@ Valstybės valdymas
 
 1. 1. 4
 
-2753
+2406
 
-1909
+1748
 
-688
+709
 
-844
+658
 
 1  2
 
@@ -4748,13 +4574,13 @@ vaikų globa ir mokymas
 
 4. 2. 2
 
-5243
+4936
 
-4946
+4769
 
 2464
 
-297
+167
 
 1  4
 
@@ -4774,23 +4600,23 @@ Socialinių paslaugų plėtra globos
 
 6. 2. 2
 
-1901
+1791
 
-1901
+1791
 
 593
 
 1  8
 
-Švietimo centro ir psichologinės
+Švietimo centro ir psichologinės tarnybos
 
-tarnybos veikla
+veikla
 
 4. 6. 1
 
-436
+431
 
-436
+431
 
 260
 
@@ -4802,9 +4628,9 @@ memorialinio muziejaus išlaikymas ir veikla
 
 8. 2. 2
 
-120
+109
 
-120
+109
 
 52
 
@@ -4816,21 +4642,11 @@ organizavimas
 
 2. 1. 3
 
-498
+483
 
-498
+483
 
-354
-
-1 14
-
-Teritorinis planavimas
-
-11.11. 1
-
-66
-
-66
+349
 
 1 15
 
@@ -4846,13 +4662,13 @@ Teritorinis planavimas
 
 1 16
 
-Žemės institucijų išlaikymas
+Žemės ūkio institucijų išlaikymas
 
 10. 9. 1
 
-3262
+3158
 
-3262
+3158
 
 2032
 
@@ -4868,15 +4684,31 @@ Statybos institucijų išlaikymas
 
 101
 
+4  1
+
+Socialinių paslaugų plėtra valstybinėse
+
+stacionariose globos įstaigose
+
+6. 2. 3
+
+8768
+
+8659
+
+2656
+
+109
+
 Iš viso
 
-16436
+24239
 
-15229
+23305
 
-6639
+9311
 
-1207
+934
 
 90. 30.1311
 
@@ -4890,13 +4722,13 @@ Valstybės valdymas
 
 1. 1. 4
 
-4272
+3652
 
-1572
+1452
 
-912
+885
 
-2700
+2200
 
 1  2
 
@@ -4906,13 +4738,13 @@ vaikų globa ir mokymas
 
 4. 2. 2
 
-8399
+7929
 
-8229
+7829
 
-4295
+4273
 
-170
+100
 
 1  3
 
@@ -4920,9 +4752,9 @@ Visuomenės sveikatos ugdymas
 
 5. 6. 1
 
-51
+48
 
-51
+48
 
 33
 
@@ -4932,9 +4764,9 @@ Vaikų gydymas ir reabilitacija
 
 6. 2. 1
 
-2028
+1928
 
-2028
+1928
 
 1252
 
@@ -4956,11 +4788,11 @@ organizavimas
 
 2. 1. 3
 
-595
+545
 
-595
+545
 
-356
+341
 
 1 13
 
@@ -4980,11 +4812,11 @@ organizavimas
 
 10. 9. 1
 
-5241
+4890
 
-5241
+4890
 
-3301
+3245
 
 1 15
 
@@ -4992,9 +4824,9 @@ Statybos institucijų išlaikymas
 
 11. 9. 1
 
-231
+230
 
-231
+230
 
 176
 
@@ -5004,9 +4836,9 @@ Sporto medicinos plėtra
 
 5.12. 1
 
-244
+236
 
-244
+236
 
 168
 
@@ -5014,13 +4846,13 @@ Sporto medicinos plėtra
 
 Rokiškio psichiatrijos ligoninei
 
-pagrindinių priemonių įsigijimas
+pagrindinių priemonių įsigijimas ir katilinės rekonstrukcija
 
 5.12. 1
 
-100
+383
 
-100
+383
 
 1 18
 
@@ -5028,21 +4860,21 @@ Nuteistųjų mokymas ir ugdymas
 
 4. 2. 1
 
-153
+136
 
-153
+136
 
 95
 
 Iš viso
 
-24777
+23440
 
-21807
+20757
 
-10732
+10612
 
-2970
+2683
 
 90. 31.1352
 
@@ -5056,13 +4888,13 @@ Valstybės valdymas
 
 1. 1. 4
 
-1661
+1516
 
-1531
+1441
 
 924
 
-130
+75
 
 1  2
 
@@ -5072,9 +4904,9 @@ vaikų globa ir mokymas
 
 4. 2. 2
 
-10717
+10369
 
-10717
+10369
 
 5960
 
@@ -5084,13 +4916,13 @@ Visuomenės sveikatos ugdymas
 
 5. 6. 1
 
-133
+127
 
-123
+119
 
 79
 
-10
+8
 
 1  4
 
@@ -5098,9 +4930,9 @@ Vaikų gydymas ir reabilitacija
 
 6. 2. 1
 
-1582
+1522
 
-1582
+1522
 
 982
 
@@ -5112,11 +4944,11 @@ kadastro darbai
 
 10. 1. 2
 
-3291
+3239
 
 3171
 
-120
+68
 
 1  8
 
@@ -5126,21 +4958,11 @@ organizavimas
 
 2. 1. 3
 
-453
+425
 
-453
+425
 
-303
-
-1 14
-
-Teritorinis planavimas
-
-11.11. 1
-
-40
-
-40
+293
 
 1 15
 
@@ -5148,71 +4970,13 @@ Teritorinis planavimas
 
 4. 9. 1
 
-254
+237
 
-224
+214
 
 147
 
-30
-
-I
-
-Š L A I D O S
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Iš
-
-jų
-
-Asignavimų
-
-valdytojų/
-
-Asignavimų
-
-valdytojų/programų
-
-Funkci-nės
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepapras-
-
-tosios
-
-programų
-
-kodai
-
-pavadinimai
-
-klasifika-cijos
-
-kodas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmo-kestis
-
-išlaidos
+23
 
 1 16
 
@@ -5220,13 +4984,13 @@ išlaidos
 
 10. 9. 1
 
-6676
+6275
 
-6606
+6209
 
 4218
 
-70
+66
 
 1 17
 
@@ -5234,9 +4998,9 @@ Statybos institucijų išlaikymas
 
 11. 9. 1
 
-191
+181
 
-191
+181
 
 122
 
@@ -5246,23 +5010,49 @@ Sporto medicinos plėtra
 
 5.12. 1
 
-676
+660
 
-666
+650
 
-433
+428
 
 10
 
+4  1
+
+Socialinių paslaugų plėtra valstybinėse
+
+stacionariose globos įstaigose
+
+6. 2. 1
+
+5350
+
+5305
+
+2525
+
+45
+
+6. 2. 3
+
+13345
+
+13235
+
+4176
+
+110
+
 Iš viso
 
-25674
+43246
 
-25264
+42841
 
-13168
+19854
 
-410
+405
 
 90. 32.1393
 
@@ -5276,13 +5066,13 @@ Valstybės valdymas
 
 1. 1. 4
 
-885
+839
 
-785
+759
 
-505
+499
 
-100
+80
 
 1  2
 
@@ -5292,13 +5082,13 @@ vaikų globa ir mokymas
 
 4. 2. 2
 
-3656
+3476
 
-3586
+3421
 
-1920
+1862
 
-70
+55
 
 1  4
 
@@ -5318,11 +5108,11 @@ organizavimas
 
 2. 1. 3
 
-306
+292
 
-306
+292
 
-208
+204
 
 1  6
 
@@ -5330,11 +5120,11 @@ Medicininė socialinė reabilitacija
 
 6. 3. 1
 
-335
+318
 
-320
+303
 
-216
+206
 
 15
 
@@ -5356,13 +5146,13 @@ Medicininė socialinė reabilitacija
 
 10. 9. 1
 
-3038
+2812
 
-2983
+2772
 
-1749
+1729
 
-55
+40
 
 1 15
 
@@ -5370,21 +5160,37 @@ Statybos institucijų išlaikymas
 
 11. 9. 1
 
-112
+103
 
-112
+103
 
-86
+79
+
+4  1
+
+Socialinių paslaugų plėtra valstybinėse
+
+stacionariose globos įstaigose
+
+6. 2. 3
+
+2571
+
+2556
+
+856
+
+15
 
 Iš viso
 
-10289
+12368
 
-10049
+12163
 
-4734
+5485
 
-240
+205
 
 90. 33.1424
 
@@ -5398,13 +5204,13 @@ Valstybės valdymas
 
 1. 1. 4
 
-2835
+2325
 
-1155
+1116
 
-760
+750
 
-1680
+1209
 
 1  2
 
@@ -5414,13 +5220,13 @@ vaikų globa ir mokymas
 
 4. 2. 2
 
-7614
+7216
 
-7504
+7180
 
 4033
 
-110
+36
 
 1  4
 
@@ -5440,9 +5246,9 @@ organizavimas
 
 2. 1. 3
 
-441
+362
 
-441
+362
 
 213
 
@@ -5464,9 +5270,9 @@ organizavimas
 
 10. 9. 1
 
-3112
+2908
 
-3112
+2908
 
 1779
 
@@ -5482,15 +5288,31 @@ Statybos institucijų išlaikymas
 
 70
 
+4  1
+
+Socialinių paslaugų plėtra valstybinėse
+
+stacionariose globos įstaigose
+
+6. 2. 3
+
+6494
+
+6446
+
+2299
+
+48
+
 Iš viso
 
-16276
+21579
 
-14486
+20286
 
-6942
+9231
 
-1790
+1293
 
 90. 34.1455
 
@@ -5504,13 +5326,13 @@ Valstybės valdymas
 
 1. 1. 4
 
-1755
+1469
 
-1011
+964
 
 590
 
-744
+505
 
 1  2
 
@@ -5520,13 +5342,13 @@ vaikų globa ir mokymas
 
 4. 2. 2
 
-8438
+8188
 
-8288
+8122
 
 4627
 
-150
+66
 
 1  4
 
@@ -5546,13 +5368,11 @@ organizavimas
 
 2. 1. 3
 
-423
+403
 
-420
+403
 
 273
-
-3
 
 1  6
 
@@ -5562,9 +5382,9 @@ Socialinių paslaugų plėtra globos
 
 6. 2. 2
 
-7052
+6643
 
-7052
+6643
 
 2120
 
@@ -5574,9 +5394,9 @@ Socialinių paslaugų plėtra globos
 
 4. 9. 1
 
-171
+166
 
-171
+166
 
 125
 
@@ -5586,13 +5406,11 @@ Socialinių paslaugų plėtra globos
 
 10. 9. 1
 
-5301
+5011
 
-5271
+5011
 
-3507
-
-30
+3465
 
 1 14
 
@@ -5600,9 +5418,9 @@ Statybos institucijų išlaikymas
 
 11. 9. 1
 
-111
+109
 
-111
+109
 
 78
 
@@ -5612,21 +5430,37 @@ Sergančių vaikų mokymas
 
 4. 2. 1
 
-104
+61
 
-104
+61
 
-80
+47
+
+4  1
+
+Socialinių paslaugų plėtra valstybinėse
+
+stacionariose globos įstaigose
+
+6. 2. 3
+
+6998
+
+6888
+
+2232
+
+110
 
 Iš viso
 
-26566
+32259
 
-25639
+31578
 
-11400
+13557
 
-927
+681
 
 90. 35.1496
 
@@ -5640,9 +5474,9 @@ Valstybės valdymas
 
 1. 1. 4
 
-2091
+2008
 
-1521
+1438
 
 1028
 
@@ -5656,9 +5490,9 @@ vaikų globa ir mokymas
 
 4. 2. 2
 
-22444
+21999
 
-21621
+21176
 
 11145
 
@@ -5672,9 +5506,9 @@ mokymo valstybine kalba tobulinimas
 
 4. 2. 1
 
-3715
+3485
 
-3420
+3190
 
 1803
 
@@ -5682,17 +5516,15 @@ mokymo valstybine kalba tobulinimas
 
 1  4
 
-Kultūrinės veiklos puoselėjimas Rytų
-
-Lietuvoje
+Kultūrinės veiklos puoselėjimas Rytų Lietuvoje
 
 8. 2. 5
 
-162
+147
 
-162
+147
 
-107
+97
 
 1  5
 
@@ -5700,9 +5532,9 @@ Vaikų gydymas ir reabilitacija
 
 6. 2. 1
 
-3282
+3222
 
-3202
+3142
 
 2018
 
@@ -5714,11 +5546,11 @@ Sporto medicinos plėtra
 
 5.12. 1
 
-640
+609
 
-640
+609
 
-445
+425
 
 1  7
 
@@ -5726,9 +5558,9 @@ Visuomenės sveikatos ugdymas
 
 5. 6. 1
 
-114
+105
 
-114
+105
 
 61
 
@@ -5750,9 +5582,9 @@ Socialinių paslaugų plėtra globos
 
 6. 2. 2
 
-4039
+3739
 
-4014
+3714
 
 1106
 
@@ -5776,11 +5608,11 @@ organizavimas
 
 2. 1. 3
 
-481
+440
 
-481
+440
 
-340
+320
 
 1 16
 
@@ -5800,9 +5632,9 @@ organizavimas
 
 10. 9. 1
 
-6902
+6702
 
-6902
+6702
 
 4465
 
@@ -5812,11 +5644,11 @@ Statybos institucijų išlaikymas
 
 11. 9. 1
 
-263
+249
 
-263
+249
 
-199
+189
 
 1 19
 
@@ -5826,9 +5658,9 @@ auklėjimo valstybine kalba tobulinimas
 
 4. 1. 1
 
-839
+779
 
-759
+699
 
 395
 
@@ -5838,9 +5670,7 @@ auklėjimo valstybine kalba tobulinimas
 
 Universitetinės Raudonojo Kryžiaus
 
-ligoninės operacinių korpuso
-
-rekonstrukcija
+ligoninės operacinių korpuso rekonstrukcija
 
 5.12. 1
 
@@ -5854,9 +5684,9 @@ Sergančių vaikų mokymas
 
 4. 2. 1
 
-1058
+1019
 
-1058
+1019
 
 714
 
@@ -5866,27 +5696,27 @@ Riešės vidurinės mokyklos išlaikymas
 
 4. 2. 1
 
-930
+888
 
-930
+888
 
 565
 
 Iš viso
 
-53176
+51607
 
-49543
+47974
 
-24600
+24540
 
 3633
 
-0.  0.  0
+0.  0.   0
 
-III. Departamentai, tarnybos ir
+III. Departamentai,
 
-inspekcijos
+tarnybos ir inspekcijos
 
 90. 24.1140
 
@@ -5902,77 +5732,69 @@ saugojimas, komplektavimas, naudojimas
 
 1. 4. 2
 
-10154
+9976
 
-8880
+9042
 
-5464
+5589
 
-1274
-
-2  1
-
-Nacionalinis registras Lietuvos archyvų
-
-fondo sąvadas
-
-1. 4. 2
-
-200
-
-200
+934
 
 3  1
 
 Valstybės valdymas
 
+1. 1. 6
+
+1270
+
+1270
+
+762
+
 1. 4. 2
 
-1346
-
-1296
-
-778
+50
 
 50
 
 Iš viso
 
-11700
+11296
 
-10176
+10312
 
-6242
+6351
 
-1524
+984
 
 90.900.1854
 
-Europos teisės departamentas prie
+Europos teisės departamentas prie Lietuvos
 
-Lietuvos Respublikos Vyriausybės
+Respublikos Vyriausybės
 
 1  3
 
 Valstybės valdymas
 
-1. 1. 3
+1. 5. 1
 
-1419
+1340
 
-1354
+1275
 
-857
+840
 
 65
 
 Iš viso
 
-1419
+1340
 
-1354
+1275
 
-857
+840
 
 65
 
@@ -5988,19 +5810,17 @@ Valstybės valdymas
 
 1. 1. 3
 
-4102
+4082
 
 4052
 
 2156
 
-50
+30
 
 1  2
 
-Užsienio investicijų skatinimas
-
-Lietuvoje
+Užsienio investicijų skatinimas Lietuvoje
 
 1. 1. 3
 
@@ -6014,9 +5834,9 @@ Nacionalinė ACQUIS priėmimo programa
 
 1. 1. 3
 
-200
+150
 
-200
+150
 
 1  4
 
@@ -6024,9 +5844,9 @@ Institucijų stiprinimo programa
 
 1. 1. 3
 
-210
+70
 
-210
+70
 
 1  5
 
@@ -6036,9 +5856,9 @@ programa
 
 1. 1. 3
 
-800
+655
 
-800
+655
 
 1  6
 
@@ -6048,9 +5868,9 @@ socialinių ir ekonominių pokyčių tyrimo nacionalinė programa
 
 1. 1. 3
 
-70
+40
 
-70
+40
 
 1  7
 
@@ -6060,9 +5880,9 @@ bendrąją rinką programa
 
 1. 1. 3
 
-207
+160
 
-207
+160
 
 1  8
 
@@ -6072,9 +5892,9 @@ kvalifikacijos kėlimo programa
 
 1. 1. 3
 
-350
+100
 
-350
+100
 
 1  9
 
@@ -6082,25 +5902,25 @@ Visuomenės informavimo programa
 
 1. 1. 3
 
-300
+92
 
-300
+92
 
 Iš viso
 
-6279
+5389
 
-6229
+5359
 
 2156
 
-50
+30
 
 90.  1. 806
 
-Kūno kultūros ir sporto departamentas
+Kūno kultūros ir sporto departamentas prie
 
-prie Lietuvos Respublikos Vyriausybės
+Lietuvos Respublikos Vyriausybės
 
 1  1
 
@@ -6114,19 +5934,15 @@ Sveikatingumas ir sportas
 
 2020
 
-1  1
-
-Sveikatingumas ir sportas
-
 8. 1. 2
 
-14583
+13984
 
-14483
+13909
 
 514
 
-100
+75
 
 1  2
 
@@ -6134,13 +5950,13 @@ Valstybės valdymas
 
 8. 9. 1
 
-819
+770
 
-749
+735
 
 512
 
-70
+35
 
 1  3
 
@@ -6148,15 +5964,15 @@ Jaunųjų krepšininkų ugdymas
 
 8. 1. 2
 
-950
+790
 
-950
+790
 
 1  4
 
-Krepšinio klubų dalyvavimas Europos
+Krepšinio klubų dalyvavimas Europos taurių
 
-taurių varžybose
+varžybose
 
 8. 1. 2
 
@@ -6180,9 +5996,9 @@ Kultūros ir sporto rėmimo fondas
 
 8.11. 1
 
-12766
+7476
 
-12766
+7476
 
 1  7
 
@@ -6190,27 +6006,25 @@ Aeroklubų rėmimas
 
 8. 1. 2
 
-1500
+1248
 
-1500
+1248
 
 Iš viso
 
-37331
+30981
 
-37161
+30871
 
 3046
 
-170
+110
 
 90.  5. 921
 
-Tautinių mažumų ir išeivijos
+Tautinių mažumų ir išeivijos departamentas
 
-departamentas prie Lietuvos Respublikos
-
-Vyriausybės
+prie Lietuvos Respublikos Vyriausybės
 
 1  1
 
@@ -6242,27 +6056,31 @@ Užsienio  lietuvių bendruomenių rėmimas
 
 4. 2. 1
 
-1091
+1053
 
-1071
+1033
 
-763
+730
 
 20
 
-3  1
+4. 6. 3
 
-Užsienio  lietuvių bendruomenių rėmimas
+736
+
+736
+
+550
 
 8. 4. 1
 
-3560
+2560
 
-1560
+1420
 
-359
+324
 
-2000
+1140
 
 4  1
 
@@ -6278,15 +6096,17 @@ Departamento išlaikymas
 
 50
 
-Iš viso
+Iš
 
-6078
+viso
 
-4008
+5776
 
-1678
+4566
 
-2070
+2160
+
+1210
 
 90.  8. 927
 
@@ -6298,31 +6118,37 @@ Respublikos Vyriausybės
 
 Valstybinės statistikos tvarkymas
 
+1. 1. 6
+
+6708
+
+5919
+
+4238
+
+789
+
 1. 4. 1
 
-11531
+4653
 
-10572
+4653
 
-7649
-
-959
+3411
 
 1  2
 
 Statistiniai tyrimai ir surašymai,
 
-kompiuterizuotas duomenų apdorojimas ir
-
-kiti darbai
+kompiuterizuotas duomenų apdorojimas ir kiti darbai
 
 14. 1. 3
 
-34474
+14404
 
-34474
+14404
 
-16960
+4480
 
 1  3
 
@@ -6338,21 +6164,19 @@ Valstybės registrų tvarkymas
 
 Iš viso
 
-46490
+26250
 
-45531
+25461
 
-24982
+12502
 
-959
+789
 
 90. 42.1872
 
 Valstybinė geodezijos ir kartografijos
 
-tarnyba prie Lietuvos Respublikos
-
-Vyriausybės
+tarnyba prie Lietuvos Respublikos Vyriausybės
 
 1  1
 
@@ -6378,9 +6202,9 @@ GPS trečios klasės tinklo sudarymas
 
 1  3
 
-Lietuvos valstybinio gravimetrinio
+Lietuvos valstybinio gravimetrinio tinklo
 
-tinklo sudarymas
+sudarymas
 
 10. 1. 2
 
@@ -6410,69 +6234,11 @@ Pastovių GPS stočių tinklo plėtra
 
 53
 
-I
-
-Š L A I D O S
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Iš
-
-jų
-
-Asignavimų
-
-valdytojų/
-
-Asignavimų
-
-valdytojų/programų
-
-Funkci-nės
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepapras-
-
-tosios
-
-programų
-
-kodai
-
-pavadinimai
-
-klasifika-cijos
-
-kodas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmo-kestis
-
-išlaidos
-
 1  6
 
-Tyrimai pagal tarptautinius BSL, EUVN, EUREF
+Tyrimai pagal tarptautinius BSL, EUVN,
 
-projektus
+EUREF projektus
 
 10. 1. 2
 
@@ -6546,29 +6312,29 @@ Valstybės valdymas
 
 10. 9. 1
 
-1020
+1000
 
 981
 
 526
 
-39
+19
 
 Iš viso
 
-5722
+5702
 
 5683
 
 526
 
-39
+19
 
 90. 15.1049
 
-Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba prie
+Valstybinė konkurencijos ir vartotojų teisių
 
-Lietuvos Respublikos Vyriausybės
+gynimo tarnyba prie Lietuvos Respublikos Vyriausybės
 
 1  1
 
@@ -6578,47 +6344,47 @@ Rinkos tyrimas pagal konkurencijos
 
 1. 1. 6
 
-1313
+1246
 
-1297
+1230
 
 747
 
 16
 
+14. 1. 3
+
+42
+
+42
+
 1  2
 
 Valstybės valdymo ir savivaldos
 
-institucijų teikiamos valstybės pagalbos
-
-kontrolė
+institucijų teikiamos valstybės pagalbos kontrolė
 
 1. 1. 6
 
-229
+226
 
 216
 
 145
 
-13
+10
 
 1  3
 
-Vartotojų teisių gynimo įstatymo
-
-priežiūra
+Vartotojų teisių gynimo įstatymo priežiūra
 
 1. 1. 6
 
-292
+215
 
-280
+215
 
-166
-
-12
+116
 
 1  4
 
@@ -6636,47 +6402,103 @@ Antidempingo įstatymo priežiūra
 
 Iš viso
 
-2075
+1970
 
-2009
+1919
 
-1170
+1120
 
-66
+51
+
+90.900.2046
+
+Mokestinių ginčų komisija prie Lietuvos
+
+Respublikos Vyriausybės
+
+1  1
+
+Komisijos išlaikymas
+
+1. 5. 1
+
+2392
+
+1080
+
+651
+
+1312
+
+Iš viso
+
+2392
+
+1080
+
+651
+
+1312
+
+90. 50.2070
+
+Vyriausioji administracinių ginčų komisija
+
+1  1
+
+Administracinių ginčų nagrinėjimas
+
+3. 2. 1
+
+894
+
+359
+
+200
+
+535
+
+Iš viso
+
+894
+
+359
+
+200
+
+535
 
 90. 40.1744
 
 Valstybinė tabako ir alkoholio kontrolės
 
-tarnyba prie Lietuvos Respublikos
-
-Vyriausybės
+tarnyba  prie Lietuvos Respublikos Vyriausybės
 
 1  1
 
-Alkoholio ir tabako kontrolės įstatymo
+Alkoholio ir tabako kontrolės įstatymo ir
 
-ir poįstatyminių aktų kontrolės vykdymas
+poįstatyminių aktų kontrolės vykdymas
 
 1. 1. 6
 
-1405
+1331
 
-1380
+1318
 
-842
+794
 
-25
+13
 
 Iš viso
 
-1405
+1331
 
-1380
+1318
 
-842
+794
 
-25
+13
 
 90.900.1769
 
@@ -6686,31 +6508,29 @@ Respublikos Vyriausybės
 
 1  1
 
-Viešųjų pirkimų įstatymo įgyvendinimas,
+Viešųjų pirkimų įstatymo
 
-pirkimo veiklos  koordinavimas bei
+įgyvendinimas,pirkimo veiklos  koordinavimas bei priežiūra ir viešųjų pirkimų
 
-priežiūra ir viešųjų pirkimų sistemos
-
-tobulinimas
+sistemos tobulinimas
 
 13. 9. 1
 
-1312
+1256
 
-1262
+1206
 
-781
+750
 
 50
 
 Iš viso
 
-1312
+1256
 
-1262
+1206
 
-781
+750
 
 50
 
@@ -6722,7 +6542,9 @@ Vyriausybės
 
 3  1
 
-Kontrakto D-41768 įgyvendinimas
+Kontrakto D-41768 įgyvendinimas, įmonės
+
+steigimas, įstatinio kapitalo formavimas
 
 2. 4. 1
 
@@ -6738,23 +6560,23 @@ Personalo išlaikymas
 
 2. 4. 1
 
-2024
+1748
 
-1424
+1278
 
 456
 
-600
+470
 
 Iš viso
 
-30185
+29909
 
-3885
+3739
 
 456
 
-26300
+26170
 
 90.900.1865
 
@@ -6780,9 +6602,9 @@ skatinimas
 
 14. 1. 3
 
-927
+912
 
-927
+912
 
 399
 
@@ -6804,9 +6626,9 @@ Regiono ekonominė plėtra
 
 14. 1. 3
 
-253
+200
 
-253
+200
 
 126
 
@@ -6818,23 +6640,43 @@ struktūros ir veiklos tobulinimas
 
 14. 1. 3
 
-774
+484
 
-754
+484
 
 126
 
-20
-
 Iš viso
 
-3588
+3230
 
-3568
+3230
 
 1586
 
-20
+90.900.2080
+
+Viešoji įstaiga Nacionalinė regionų
+
+plėtros agentūra
+
+1  1
+
+Lietuvos Respublikos regionų plėtros
+
+programos įgyvendinimas
+
+13. 6. 1
+
+50
+
+50
+
+Iš viso
+
+50
+
+50
 
 90.  7. 925
 
@@ -6848,13 +6690,13 @@ Valstybės saugumas
 
 3. 9. 1
 
-24222
+23041
 
-23331
+22954
 
-16006
+15806
 
-891
+87
 
 1  2
 
@@ -6862,19 +6704,19 @@ Socialinė programa
 
 6. 1. 6
 
-164
+236
 
-164
+236
 
 Iš viso
 
-24386
+23277
 
-23495
+23190
 
-16006
+15806
 
-891
+87
 
 90. 48.1981
 
@@ -6888,23 +6730,23 @@ Teismų darbo organizavimas ir kontrolė
 
 3. 9. 1
 
-2437
+2092
 
-2337
+2027
 
-1323
+1293
 
-100
+65
 
 Iš viso
 
-2437
+2092
 
-2337
+2027
 
-1323
+1293
 
-100
+65
 
 90. 47.1967
 
@@ -6918,9 +6760,9 @@ Valstybės valdymas
 
 4. 9. 1
 
-1425
+1419
 
-1395
+1389
 
 841
 
@@ -6928,13 +6770,59 @@ Valstybės valdymas
 
 Iš viso
 
-1425
+1419
 
-1395
+1389
 
 841
 
 30
+
+1 priedėlio
+
+tęsinys
+
+Išlaidos
+
+tūkst. Lt
+
+Asigna-vimų
+
+Asignavimų
+
+valdytojų/
+
+Funkci-nės
+
+Iš viso
+
+Iš jų
+
+valdytojų/programų
+
+programų
+
+pavadinimai
+
+klasifi-kacijos
+
+paprastosios
+
+išlaidos
+
+nepapras-tosios
+
+kodai
+
+kodas
+
+iš viso
+
+iš jų darbo
+
+užmo-kestis
+
+išlaidos
 
 90. 14. 981
 
@@ -6948,29 +6836,29 @@ likvidavimas
 
 10. 4. 1
 
-11721
+10997
 
-10816
+10516
 
 4547
 
-905
+481
 
 2  1
 
-Veterinariniai reikalavimai gyvūninių produktų
+Veterinariniai reikalavimai gyvūninių
 
-nekenksmingumui užtikrinti
+produktų nekenksmingumui užtikrinti
 
 10. 4. 1
 
-10127
+9195
 
-7422
+7322
 
 4198
 
-2705
+1873
 
 3  1
 
@@ -6986,19 +6874,17 @@ Gyvūnų gerovės apsauga
 
 4  1
 
-Pasienio valstybinė veterinarijos
-
-tarnyba
+Pasienio valstybinė veterinarijos tarnyba
 
 10. 4. 1
 
-2651
+2861
 
 1551
 
 1067
 
-1100
+1310
 
 5  1
 
@@ -7014,19 +6900,17 @@ Specialistų kvalifikacijos kėlimas
 
 6  1
 
-Valstybės valdymo veterinariniai
-
-klausimai
+Valstybės valdymo veterinariniai klausimai
 
 10. 9. 1
 
-1366
+1312
 
 1266
 
 580
 
-100
+46
 
 7  1
 
@@ -7040,13 +6924,13 @@ Valstybės rezervas
 
 Iš viso
 
-26338
+24838
 
-21528
+21128
 
 10700
 
-4810
+3710
 
 90. 18.1056
 
@@ -7058,15 +6942,13 @@ inspekcija
 
 Įstatymų ir kitų teisės bei techninių
 
-norminių dokumentų rengimas ir
-
-branduolinės veiklos licencijavimas
+norminių dokumentų rengimas ir branduolinės veiklos licencijavimas
 
 9. 9. 1
 
-400
+200
 
-400
+200
 
 2  1
 
@@ -7076,9 +6958,9 @@ Branduolinės energetikos saugos objektų
 
 9. 9. 1
 
-200
+190
 
-200
+190
 
 3  1
 
@@ -7086,31 +6968,29 @@ Valstybės valdymas
 
 9. 9. 1
 
-2790
+2732
 
-2750
+2717
 
 1106
 
-40
+15
 
 Iš viso
 
-3390
+3122
 
-3350
+3107
 
 1106
 
-40
+15
 
 90. 20.1058
 
 Lietuvos valstybinė kokybės inspekcija
 
-prie Valstybinės konkurencijos ir
-
-vartotojų teisių gynimo tarnybos
+prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos
 
 1  1
 
@@ -7118,23 +6998,25 @@ Valstybės valdymas ir rinkos kontrolė
 
 13. 9. 1
 
-5872
+5680
 
-5642
+5592
 
 3643
 
-230
+88
 
 1  2
 
-Kokybės kontrolės programa įmonėse pagal sutartis
+Kokybės kontrolės programa įmonėse pagal
+
+sutartis
 
 13. 9. 1
 
-1007
+954
 
-967
+914
 
 620
 
@@ -7142,13 +7024,15 @@ Kokybės kontrolės programa įmonėse pagal sutartis
 
 1  3
 
-Laboratoriniai tyrimai vykdant rinkos priežiūrą
+Laboratoriniai tyrimai vykdant rinkos
+
+priežiūrą
 
 13. 4. 1
 
-556
+512
 
-556
+512
 
 277
 
@@ -7160,31 +7044,29 @@ atestavimas
 
 13. 4. 1
 
-550
+421
 
-535
+406
 
-315
+240
 
 15
 
 Iš viso
 
-7985
+7567
 
-7700
+7424
 
-4855
+4780
 
-285
+143
 
 90. 16.1050
 
-Vyriausybinių ryšių centras prie
+Vyriausybinių ryšių centras prie Lietuvos
 
-Lietuvos Respublikos valstybės saugumo
-
-departamento
+Respublikos valstybės saugumo departamento
 
 1  1
 
@@ -7192,9 +7074,9 @@ Vyriausybinių ryšių tinklo plėtra
 
 3. 4. 1
 
-330
+165
 
-330
+165
 
 1  3
 
@@ -7204,9 +7086,9 @@ ir valdymas
 
 3. 4. 1
 
-2012
+1585
 
-2012
+1585
 
 1  4
 
@@ -7214,47 +7096,47 @@ Personalo išlaikymas
 
 3. 4. 1
 
-2860
+2770
 
-2860
+2770
 
 2270
 
 1  5
 
-Personalo techninis parengimas ir
-
-mokymas
+Personalo techninis parengimas ir mokymas
 
 3. 4. 1
 
-34
+11
 
-34
+11
 
 Iš viso
 
-5236
+4531
 
-4906
+4366
 
 2270
 
-330
+165
 
-0.  0.  0
+0.  0.   0
 
 IV. Įmonės ir organizacijos
 
 0.909.   0
 
-Aplinkos ministerijos valdymo sritis
+Aplinkos ministerijos
+
+valdymo sritis
 
 90. 49.1982
 
-Miškų ir saugomų teritorijų
+Miškų ir saugomų teritorijų departamentas
 
-departamentas prie Aplinkos ministerijos
+prie Aplinkos ministerijos
 
 1  1
 
@@ -7262,25 +7144,23 @@ Gamtinių ekosistemų išsaugojimas
 
 10. 2. 1
 
-12107
+11527
 
-10304
+9984
 
-5179
+5133
 
-1803
+1543
 
 2  1
 
-Regioninių parkų planavimo schemų
-
-rengimas
+Regioninių parkų planavimo schemų rengimas
 
 10. 2. 1
 
-200
+110
 
-200
+110
 
 6  1
 
@@ -7288,27 +7168,29 @@ Valstybės valdymas
 
 10. 9. 1
 
-3398
+3214
 
-3318
+3154
 
 1625
 
-80
+60
 
 Iš viso
 
-15705
+14851
 
-13622
+13138
 
-6804
+6758
 
-2083
+1713
 
 90.900.1547
 
-Lietuvos hidrometeorologijos tarnyba prie Aplinkos ministerijos
+Lietuvos hidrometeorologijos tarnyba prie
+
+Aplinkos ministerijos
 
 1  1
 
@@ -7318,13 +7200,13 @@ prognozės
 
 13. 4. 1
 
-5165
+5058
 
-5125
+5038
 
 3209
 
-40
+20
 
 2  1
 
@@ -7356,33 +7238,33 @@ tinklo aptarnavimas
 
 Iš viso
 
-6733
+6626
 
-6693
+6606
 
 4179
 
-40
+20
 
 90. 11. 978
 
-Lietuvos geologijos tarnyba prie
+Lietuvos geologijos tarnyba prie Aplinkos
 
-Aplinkos ministerijos
+ministerijos
 
 1  1
 
 Valstybinių geologinių tyrimų programa
 
-"Geologija visuomenei"
+„Geologija visuomenei“
 
 11. 1. 1
 
-3772
+3298
 
-3757
+3283
 
-1217
+1206
 
 15
 
@@ -7394,9 +7276,9 @@ sistemos kūrimas
 
 11. 1. 1
 
-1285
+1122
 
-1270
+1107
 
 438
 
@@ -7408,21 +7290,21 @@ Valstybės valdymas
 
 11. 9. 1
 
-1503
+1489
 
-1488
+1474
 
-551
+540
 
 15
 
 Iš viso
 
-6560
+5909
 
-6515
+5864
 
-2206
+2184
 
 45
 
@@ -7430,41 +7312,33 @@ Iš viso
 
 Valstybinė teritorijų planavimo ir
 
-statybos inspekcija prie Aplinkos
-
-ministerijos
+statybos inspekcija prie Aplinkos ministerijos
 
 1  1
 
 Apskričių viršininkų administracijos
 
-valstybinės teritorijų planavimo ir
-
-statybos inspekcijos tarnybos veiklos
+valstybinės teritorijų planavimo ir statybos inspekcijos tarnybos veiklos
 
 kontrolė ir koordinavimas
 
 11. 9. 1
 
-378
+320
 
-343
+313
 
 200
 
-35
+7
 
 1  2
 
-Valstybės ir apskričių lygmens bendrųjų
+Valstybės ir apskričių lygmens bendrųjų ir
 
-ir specialiųjų planų projektų analizė ir
+specialiųjų planų projektų analizė ir išvadų teikimas juos tvirtinančioms
 
-išvadų teikimas juos tvirtinančioms
-
-institucijoms dėl jų tvirtinimo
-
-tikslingumo
+institucijoms dėl jų tvirtinimo tikslingumo
 
 11. 9. 1
 
@@ -7478,49 +7352,41 @@ tikslingumo
 
 2  1
 
-Statybos įmonių potencialo patikrinimas
+Statybos įmonių potencialo patikrinimas ir
 
-ir kvalifikacijos atestatų išdavimas
+kvalifikacijos atestatų išdavimas
 
 11. 9. 1
 
-347
+318
 
-312
+295
 
 196
 
-35
-
-3  1
-
-Valstybinės reikšmės statinių konstrukcijų
-
-griūčių ekspertizė
-
-14. 1. 3
-
-15
-
-15
+23
 
 Iš viso
 
-815
+713
 
-735
+673
 
 438
 
-80
+40
 
 0.912.   0
 
-Finansų ministerijos valdymo sritis
+Finansų ministerijos
+
+valdymo sritis
 
 90. 21.1059
 
-Muitinės departamentas prie Finansų ministerijos
+Muitinės departamentas prie Finansų
+
+ministerijos
 
 1  1
 
@@ -7528,13 +7394,23 @@ Valstybės valdymas
 
 1. 1. 2
 
-91130
+8754
 
-90147
+8654
 
-65044
+5870
 
-983
+100
+
+1. 5. 1
+
+76732
+
+76480
+
+57267
+
+252
 
 1  2
 
@@ -7542,19 +7418,19 @@ Specialūs apskaitos blankai
 
 14. 1. 3
 
-11832
+10832
 
-11832
+10832
 
 Iš viso
 
-102962
+96318
 
-101979
+95966
 
-65044
+63137
 
-983
+352
 
 90.900.1556
 
@@ -7564,17 +7440,15 @@ Finansų ministerijos mokymo centras
 
 Lietuvos Respublikos finansų ministerijos
 
-ir jos valdymo sričiai priklausančių
+ir jos valdymo sričiai priklausančių organizacijų tęstinės kvalifikacijos
 
-organizacijų tęstinės
-
-kvalifikacijos kėlimas ir ugdymas
+kėlimas ir ugdymas
 
 4. 4. 1
 
-1544
+1501
 
-1524
+1481
 
 737
 
@@ -7582,9 +7456,9 @@ kvalifikacijos kėlimas ir ugdymas
 
 Iš viso
 
-1544
+1501
 
-1524
+1481
 
 737
 
@@ -7592,7 +7466,9 @@ Iš viso
 
 90. 37.  90
 
-Revizijų departamentas prie Finansų ministerijos
+Revizijų departamentas prie Finansų
+
+ministerijos
 
 1  1
 
@@ -7600,25 +7476,27 @@ Revizijos pagal teismų ir teisėsaugos
 
 įstaigų pavedimus
 
-1. 1. 2
+1. 5. 1
 
-8313
+8001
 
-8273
+7981
 
-6045
+5843
 
-40
+20
 
-Iš viso
+Iš
 
-8313
+viso
 
-8273
+8001
 
-6045
+7981
 
-40
+5843
+
+20
 
 90. 36.  33
 
@@ -7632,13 +7510,23 @@ Mokesčių administravimas
 
 1. 1. 2
 
-115141
+11520
 
-113279
+11230
 
-83309
+8253
 
-1862
+290
+
+1. 5. 1
+
+100218
+
+99979
+
+73579
+
+239
 
 1  3
 
@@ -7646,81 +7534,23 @@ Specialūs apskaitos blankai ir banderolės
 
 14. 1. 3
 
-40313
+29563
 
-40098
+29468
 
 1431
 
-215
+95
 
 Iš viso
 
-155454
+141301
 
-153377
+140677
 
-84740
+83263
 
-2077
-
-I
-
-Š L A I D O S
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Iš
-
-jų
-
-Asignavimų
-
-valdytojų/
-
-Asignavimų
-
-valdytojų/programų
-
-Funkci-nės
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepapras-
-
-tosios
-
-programų
-
-kodai
-
-pavadinimai
-
-klasifika-cijos
-
-kodas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmo-kestis
-
-išlaidos
+624
 
 90.900.1684
 
@@ -7730,53 +7560,49 @@ Komisija privalomam registruoti turtui
 
 1  1
 
-Privalomo registruoti brangaus turto
+Privalomo registruoti  brangaus turto
 
 vidutinių rinkos kainų nustatymas
 
 14. 1. 3
 
-173
+165
 
-161
+156
 
 114
 
-12
+9
 
 1  2
 
 Paveldimo ar dovanojamo nekilnojamojo ir
 
-kilnojamojo turto vidutinių rinkos kainų
-
-nustatymas
+kilnojamojo turto vidutinių rinkos kainų nustatymas
 
 14. 1. 3
 
-73
+66
 
-68
+66
 
 49
 
-5
-
 Iš viso
 
-246
+231
 
-229
+222
 
 163
 
-17
+9
 
 90.900.1554
 
-Valstybės dokumentų technologinės
+Valstybės dokumentų technologinės apsaugos
 
-apsaugos tarnyba prie Finansų ministerijos
+tarnyba prie Finansų ministerijos
 
 1  1
 
@@ -7784,9 +7610,9 @@ Dokumentų blankų projektavimo programa
 
 13. 9. 1
 
-550
+470
 
-454
+374
 
 199
 
@@ -7794,17 +7620,15 @@ Dokumentų blankų projektavimo programa
 
 1  2
 
-Dokumentų blankų technologinių apsaugos elementų
+Dokumentų blankų technologinių apsaugos
 
-kūrimo ir jų diegimo į dokumentų gamybą
-
-programa
+elementų kūrimo ir jų įdiegimo dokumentų gamyboje programa
 
 13. 9. 1
 
-603
+564
 
-448
+409
 
 260
 
@@ -7818,9 +7642,9 @@ paslaptimis, apsauga
 
 13. 9. 1
 
-215
+180
 
-198
+163
 
 79
 
@@ -7828,17 +7652,15 @@ paslaptimis, apsauga
 
 2  1
 
-Dokumentų ir vertybinių popierių
+Dokumentų ir vertybinių popierių leidybos,
 
-leidybos, gamybos ir apyvartos kontrolės
-
-programa
+gamybos ir apyvartos kontrolės programa
 
 13. 9. 1
 
-484
+469
 
-475
+460
 
 302
 
@@ -7848,15 +7670,13 @@ programa
 
 Duomenų apie specialius apskaitos
 
-dokumentų blankus kaupimo, apdorojimo ir vartojimo
-
-programa
+dokumentų blankus kaupimo, apdorojimo ir vartojimo programa
 
 13. 9. 1
 
-1208
+1173
 
-1025
+990
 
 677
 
@@ -7882,19 +7702,21 @@ Valstybės valdymas
 
 13. 9. 1
 
-592
+526
 
-586
+520
 
 253
 
 6
 
-Iš viso
+Iš
 
-3961
+viso
 
-3488
+3691
+
+3218
 
 1996
 
@@ -7902,29 +7724,33 @@ Iš viso
 
 90.900.1637
 
-Viešoji įstaiga "Būsto kreditavimo fondas"
+Viešoji įstaiga „Būsto kreditavimo fondas“
 
 1  1
 
-"Būstas" (pastatų šiltinimas ir
+„Būstas“ (pastatų šiltinimas ir
 
 atnaujinimas)
 
 11. 3. 1
 
-4000
+2000
 
-4000
+2000
 
-Iš viso
+Iš
 
-4000
+viso
 
-4000
+2000
+
+2000
 
 0.914.   0
 
-Kultūros ministerijos valdymo sritis
+Kultūros ministerijos
+
+valdymo sritis
 
 90. 22.1075
 
@@ -7934,33 +7760,27 @@ apsaugos departamentas
 
 1  1
 
-Nekilnojamųjų kultūros vertybių
-
-tvarkymas
+Nekilnojamųjų kultūros vertybių tvarkymas
 
 8. 2. 5
 
-16542
+15824
 
-16542
+15824
 
 2  1
 
-Kultūros vertybių apskaita,
+Kultūros vertybių apskaita, propagavimas,
 
-propagavimas, informacijos kaupimas bei
+informacijos kaupimas bei Trakų istorinio nacionalinio parko kultūrinių,
 
-Trakų istorinio nacionalinio parko
-
-kultūrinių, švietėjiškų bei propagandinių
-
-vertybių apsauga
+švietėjiškų bei propagandinių vertybių apsauga
 
 8. 2. 5
 
-3608
+3524
 
-3408
+3324
 
 1015
 
@@ -7972,23 +7792,25 @@ Valstybės valdymas
 
 8. 9. 1
 
-2069
+2039
 
 1989
 
 1332
 
-80
+50
 
-Iš viso
+Iš
 
-22219
+viso
 
-21939
+21387
+
+21137
 
 2347
 
-280
+250
 
 90.900.1715
 
@@ -8024,7 +7846,9 @@ informacijos sistemos LIBIS kūrimas
 
 236
 
-Iš viso
+Iš
+
+viso
 
 11517
 
@@ -8042,9 +7866,7 @@ Lietuvos aklųjų biblioteka
 
 Spaudinių kaupimo, tvarkymo, saugojimo,
 
-naudojimo, skaitytojų aptarnavimo
-
-organizavimas
+naudojimo, skaitytojų aptarnavimo, organizavimas
 
 8. 2. 1
 
@@ -8078,23 +7900,25 @@ populiarinimas
 
 8. 2. 2
 
-3780
+3613
 
 3130
 
 1898
 
-650
+483
 
-Iš viso
+Iš
 
-3780
+viso
+
+3613
 
 3130
 
 1898
 
-650
+483
 
 90.900.1749
 
@@ -8108,29 +7932,27 @@ populiarinimas
 
 8. 2. 2
 
-8924
+7854
 
-6864
+6824
 
 3747
 
-2060
+1030
 
 Iš viso
 
-8924
+7854
 
-6864
+6824
 
 3747
 
-2060
+1030
 
 90.900.1750
 
-Valstybinis M.K.Čiurlionio dailės
-
-muziejus
+Valstybinis M.K.Čiurlionio dailės muziejus
 
 1  1
 
@@ -8140,23 +7962,23 @@ kaupimas ir populiarinimas
 
 8. 2. 2
 
-3527
+3497
 
 3467
 
 1911
 
-60
+30
 
 Iš viso
 
-3527
+3497
 
 3467
 
 1911
 
-60
+30
 
 90.900.2001
 
@@ -8170,17 +7992,17 @@ Teatro meno pristatymas
 
 8. 2. 4
 
-12192
+12045
 
-11342
+11195
 
 850
 
 Iš viso
 
-12192
+12045
 
-11342
+11195
 
 850
 
@@ -8194,15 +8016,15 @@ Teatro meno pristatymas
 
 8. 2. 4
 
-3174
+3133
 
-3174
+3133
 
 Iš viso
 
-3174
+3133
 
-3174
+3133
 
 90.900.2003
 
@@ -8210,15 +8032,17 @@ Lietuvos nacionalinė filharmonija
 
 1  1
 
-Klasikinės bei šiuolaikinės muzikos meno sklaida
+Klasikinės bei šiuolaikinės muzikos meno
+
+sklaida
 
 8. 2. 4
 
-10917
+10864
 
-10907
+10859
 
-10
+5
 
 2  1
 
@@ -8226,17 +8050,17 @@ Nacionalinio simfoninio orkestro rėmimas
 
 8. 2. 4
 
-177
+81
 
-177
+81
 
 Iš viso
 
-11094
+10945
 
-11084
+10940
 
-10
+5
 
 0.918.   0
 
@@ -8258,59 +8082,61 @@ valstybinė priežiūra
 
 13. 9. 1
 
-3700
+3707
 
-3500
+3507
 
-2247
+2117
 
 200
 
-Iš viso
+Iš
 
-3700
+viso
 
-3500
+3707
 
-2247
+3507
+
+2117
 
 200
 
 90.  9. 976
 
-Vaikų teisių apsaugos tarnyba prie Socialinės
+Vaikų teisių apsaugos tarnyba prie
 
-apsaugos ir darbo ministerijos
+Socialinės apsaugos ir darbo ministerijos
 
 1  1
 
-Vaiko teisių ir jų teisėtų interesų
+Vaikų teisių ir jų teisėtų interesų
 
-pažeidimų prevencija, rajono (miesto)
-
-vaiko teisių apsaugos tarnybų darbo
+pažeidimų prevencija, rajono (miesto) vaikų teisių apsaugos  tarnybų darbo
 
 koordinavimas
 
 4. 6. 1
 
-265
+254
 
-250
-
-162
-
-15
-
-Iš viso
-
-265
-
-250
+247
 
 162
 
-15
+7
+
+Iš
+
+viso
+
+254
+
+247
+
+162
+
+7
 
 90. 19.1057
 
@@ -8320,19 +8146,19 @@ Socialinės apsaugos ir darbo ministerijos
 
 1  1
 
-Nelaimingų atsitikimų darbe, profesinių ligų,
+Nelaimingų atsitikimų darbe, profesinių
 
-darbų saugos, darbo įstatymų, kitų
+ligų, darbų saugos, darbo įstatymų, kitų poįstatyminių aktų pažeidimų
 
-poįstatyminių aktų pažeidimų prevencija
+prevencija
 
 13. 9. 1
 
-6927
+6894
 
-6357
+6324
 
-4316
+4138
 
 570
 
@@ -8344,23 +8170,27 @@ ir mokymas
 
 13. 9. 1
 
-54
+20
 
-54
+20
 
-Iš viso
+Iš
 
-6981
+viso
 
-6411
+6914
 
-4316
+6344
+
+4138
 
 570
 
 0.920.   0
 
-Susisiekimo ministerijos valdymo sritis
+Susisiekimo ministerijos
+
+valdymo sritis
 
 90.900.1643
 
@@ -8368,25 +8198,27 @@ Lietuvos valstybinė tiltų inspekcija
 
 1  1
 
-Eismo saugumo užtikrinimas
+Eismo tiltais ir viadukais saugumo
 
-tiltais ir viadukais
+užtikrinimas
 
 12. 1. 1
 
-187
+186
 
-177
+176
 
 110
 
 10
 
-Iš viso
+Iš
 
-187
+viso
 
-177
+186
+
+176
 
 110
 
@@ -8400,31 +8232,31 @@ Valstybinė kelių transporto inspekcija
 
 Lietuvos Respublikos transporto veiklos
 
-pagrindų įstatymo, Kelių transporto
-
-kodekso ir kitų norminių aktų
+pagrindų įstatymo, Kelių transporto kodekso ir kitų norminių aktų
 
 įgyvendinimas kelių transporto srityje
 
 12. 1. 1
 
-9537
+9507
 
 7244
 
 3875
 
-2293
+2263
 
-Iš viso
+Iš
 
-9537
+viso
+
+9507
 
 7244
 
 3875
 
-2293
+2263
 
 90.900.1647
 
@@ -8440,17 +8272,19 @@ eksploatavimas bei mechanizmų išlaikymas
 
 12. 2. 1
 
-9957
+9430
 
-7920
+7393
 
 2037
 
-Iš viso
+Iš
 
-9957
+viso
 
-7920
+9430
+
+7393
 
 2037
 
@@ -8464,35 +8298,35 @@ inspekcija
 
 Lietuvos Respublikos teisės aktų
 
-įgyvendinimo vidaus vandenų transporto
-
-srityje kontrolė
+įgyvendinimo vidaus vandenų transporto srityje kontrolė
 
 12. 2. 1
 
-1162
+1030
 
-889
-
-522
-
-273
-
-Iš viso
-
-1162
-
-889
+787
 
 522
 
-273
+243
+
+Iš
+
+viso
+
+1030
+
+787
+
+522
+
+243
 
 90.900.1650
 
 Specialiosios paskirties akcinė bendrovė
 
-"Lietuvos geležinkeliai"
+„Lietuvos geležinkeliai“
 
 1  1
 
@@ -8500,9 +8334,9 @@ Keleivių vežimas lengvatinėmis sąlygomis
 
 12. 3. 1
 
-11500
+11200
 
-11500
+11200
 
 1  2
 
@@ -8512,15 +8346,17 @@ reikalingų paslaugų teikimas
 
 12. 3. 1
 
-11756
+6931
 
-11756
+6931
 
-Iš viso
+Iš
 
-23256
+viso
 
-23256
+18131
+
+18131
 
 90.900.1656
 
@@ -8532,23 +8368,25 @@ Geležinkelio saugaus eismo užtikrinimas
 
 12. 3. 1
 
-291
+381
 
-271
+371
 
-162
+202
 
-20
+10
 
-Iš viso
+Iš
 
-291
+viso
 
-271
+381
 
-162
+371
 
-20
+202
+
+10
 
 90.900.1655
 
@@ -8558,81 +8396,23 @@ Transporto investicijų direkcija
 
 Transporto infrastruktūros (TINA), kelių,
 
-I
-
-Š L A I D O S
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Iš
-
-jų
-
-Asignavimų
-
-valdytojų/
-
-Asignavimų
-
-valdytojų/programų
-
-Funkci-nės
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepapras-
-
-tosios
-
-programų
-
-kodai
-
-pavadinimai
-
-klasifika-cijos
-
-kodas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmo-kestis
-
-išlaidos
-
-geležinkelių, oro, vandens
-
-transporto monitoringas
+geležinkelių, oro, vandens transporto monitoringas
 
 12. 3. 1
 
-380
+366
 
-380
+366
 
 232
 
-Iš viso
+Iš
 
-380
+viso
 
-380
+366
+
+366
 
 232
 
@@ -8646,25 +8426,25 @@ Susisiekimo ministerijos
 
 Oro uostų, vežėjų ir orlaivių naudotojų
 
-techninės priežiūros ir aviacinio
-
-saugumo užtikrinimas
+techninės priežiūros ir aviacinio saugumo užtikrinimas
 
 12. 9. 1
 
-2010
+100
 
-2010
+100
 
-1300
+70
 
-Iš viso
+Iš
 
-2010
+viso
 
-2010
+100
 
-1300
+100
+
+70
 
 90.900.1640
 
@@ -8678,9 +8458,9 @@ aptarnavimas oro uostuose ir oro erdvėje
 
 12. 4. 1
 
-122
+120
 
-122
+120
 
 2  1
 
@@ -8692,15 +8472,17 @@ Vilniaus aerouosto VIP salės išlaikymas
 
 84
 
-Iš viso
+Iš
 
-206
+viso
 
-206
+204
+
+204
 
 90.900.1652
 
-Aviakompanija "Lietuvos avialinijos"
+Aviakompanija „Lietuvos avialinijos“
 
 1  1
 
@@ -8714,7 +8496,9 @@ Keleivių ir krovinių pervežimų vykdymas
 
 11788
 
-Iš viso
+Iš
+
+viso
 
 13131
 
@@ -8724,7 +8508,7 @@ Iš viso
 
 90.900.1566
 
-Valstybės įmonė "Lietuvos paštas"
+Valstybės įmonė „Lietuvos paštas“
 
 1  1
 
@@ -8744,9 +8528,9 @@ Pašto ženklų gamyba
 
 12. 7. 1
 
-530
+430
 
-530
+430
 
 3  1
 
@@ -8760,15 +8544,15 @@ Tarptautinio pašto pervežimas
 
 4  1
 
-Laikraščių prenumeratos kaime išlaidų dalinis
+Laikraščių prenumeratos kaime išlaidų
 
-padengimas
+dalinis padengimas
 
 12. 7. 1
 
-3924
+3538
 
-3924
+3538
 
 5  1
 
@@ -8776,21 +8560,25 @@ Informatikos plėtojimas
 
 12. 7. 1
 
-678
+608
 
-678
+608
 
-Iš viso
+Iš
 
-12375
+viso
 
-12375
+11819
+
+11819
 
 0.921.   0
 
-Sveikatos apsaugos ministerijos
+Sveikatos apsaugos
 
-valdymo sritis
+ministerijos valdymo
+
+sritis
 
 90.900.1816
 
@@ -8804,9 +8592,9 @@ privalomasis sveikatos draudimas
 
 5. 1. 1
 
-502361
+461361
 
-502361
+461361
 
 2  1
 
@@ -8838,81 +8626,91 @@ Kitų asmenų sveikatos priežiūra
 
 440
 
-Iš viso
+Iš
 
-508760
+viso
 
-508760
+467760
+
+467760
 
 0.929.   0
 
-Ūkio ministerijos valdymo  sritis
+Ūkio ministerijos valdymo
+
+sritis
 
 90.900.1680
 
-Energetikos valstybinė inspekcija prie Ūkio
+Energetikos valstybinė inspekcija prie
 
-ministerijos
+Ūkio ministerijos
 
 1  1
 
-Energetikos valstybinės priežiūros ir kontrolės vykdymas
+Energetikos valstybinės priežiūros ir
+
+kontrolės vykdymas
 
 9. 9. 1
 
-3080
+3070
 
 2980
 
 2123
 
-100
+90
 
-Iš viso
+Iš
 
-3080
+viso
+
+3070
 
 2980
 
 2123
 
-100
+90
 
 90.900.1997
 
-Įmonių bankroto valdymo departamentas
+Įmonių bankroto valdymo departamentas prie
 
-prie Ūkio ministerijos
+Ūkio ministerijos
 
 1  1
 
-Nuostolingai dirbančių ir
+Nuostolingai dirbančių ir bankrutuojančių
 
-bankrutuojančių įmonių veiklos analizė ir šių įmonių
+įmonių veiklos analizė ir šių įmonių veiklos atkūrimo bei aktyvinimo
 
-veiklos atkūrimo bei
-
-aktyvinimo priemonių parengimas
+priemonių parengimas
 
 11. 9. 1
 
-958
+885
 
-958
+885
 
 553
 
-Iš viso
+Iš
 
-958
+viso
 
-958
+885
+
+885
 
 553
 
 0.925.   0
 
-Valdymo reformų ir savivaldybių reikalų
+Valdymo reformų ir
+
+savivaldybių reikalų
 
 ministerijos valdymo sritis
 
@@ -8920,9 +8718,7 @@ ministerijos valdymo sritis
 
 Lietuvos standartizacijos departamentas
 
-prie Valdymo reformų ir savivaldybių
-
-reikalų ministerijos
+prie Valdymo reformų ir savivaldybių reikalų ministerijos
 
 1  1
 
@@ -8930,13 +8726,13 @@ LST valdymas
 
 13. 9. 1
 
-2739
+2624
 
-2204
+2179
 
 1337
 
-535
+445
 
 1  2
 
@@ -8954,27 +8750,27 @@ Informacijos centro organizavimas
 
 13. 4. 1
 
-100
+24
 
-100
+24
 
-Iš viso
+Iš
 
-3379
+viso
 
-2844
+3188
+
+2743
 
 1337
 
-535
+445
 
 90.900.1951
 
-Valstybinė metrologijos tarnyba prie Valdymo
+Valstybinė metrologijos tarnyba prie
 
-reformų ir savivaldybių reikalų
-
-ministerijos
+Valdymo reformų ir savivaldybių reikalų ministerijos
 
 1  1
 
@@ -8982,13 +8778,13 @@ Valstybės valdymas
 
 13. 9. 1
 
-394
+365
 
-364
+345
 
 200
 
-30
+20
 
 1  2
 
@@ -9010,19 +8806,19 @@ Metrologinis aprūpinimas
 
 13. 4. 1
 
-1316
+1154
 
-1316
+1154
 
 Iš viso
 
-1950
+1759
 
-1920
+1739
 
 300
 
-30
+20
 
 90. 44.1894
 
@@ -9034,29 +8830,29 @@ Valstybės valdymas
 
 13. 9. 1
 
-695
+674
 
-612
+604
 
 413
 
-83
+70
 
 1  2
 
-Valstybinė metrologinė matavimų ir
+Valstybinė metrologinė matavimų ir prekių
 
-prekių kiekio priežiūra (kontrolė)
+kiekio priežiūra (kontrolė)
 
 13. 9. 1
 
-891
+741
 
-612
+573
 
 371
 
-279
+168
 
 1  3
 
@@ -9066,33 +8862,33 @@ būklės ir naudojimo priežiūra (kontrolė)
 
 13. 9. 1
 
-1023
+799
 
-685
+640
 
 420
 
-338
+159
 
-Iš viso
+Iš
 
-2609
+viso
 
-1909
+2214
+
+1817
 
 1204
 
-700
+397
 
 90.900.1817
 
-Viešoji įstaiga valstybės ir
+Viešoji įstaiga Valstybės ir savivaldybių
 
-savivaldybių tarnautojų mokymo centras "Dainava"
+tarnautojų mokymo centras „Dainava“ prie Valdymo reformų ir savivaldybių
 
-prie Valdymo reformų ir
-
-savivaldybių reikalų ministerijos
+reikalų ministerijos
 
 1  1
 
@@ -9102,51 +8898,27 @@ kvalifikacinis mokymas
 
 14. 1. 3
 
-240
+215
 
-240
-
-96
-
-Iš viso
-
-240
-
-240
+215
 
 96
 
-90.900.1658
+Iš
 
-Viešoji organizacija "Valstybės tarnautojų
+viso
 
-tobulinimosi centras"
+215
 
-1  1
+215
 
-Valstybės ir savivaldybių tarnautojų
-
-kvalifikacijos kėlimas
-
-4. 4. 1
-
-169
-
-169
-
-Iš viso
-
-169
-
-169
+96
 
 90.900.1952
 
-Nacionalinis akreditacijos biuras prie Valdymo
+Nacionalinis akreditacijos biuras prie
 
-reformų ir savivaldybių reikalų
-
-ministerijos
+Valdymo reformų ir savivaldybių reikalų ministerijos
 
 1  1
 
@@ -9154,17 +8926,19 @@ Valstybės valdymas
 
 13. 9. 1
 
-361
+334
 
-336
+321
 
 178
 
-25
+13
 
 1  2
 
-Atitikties įvertinimo įstaigų įvertinimas ir jų priežiūra
+Atitikties įvertinimo įstaigų įvertinimas
+
+ir jų priežiūra
 
 13. 4. 1
 
@@ -9174,23 +8948,23 @@ Atitikties įvertinimo įstaigų įvertinimas ir jų priežiūra
 
 72
 
-Iš viso
+Iš
 
-481
+viso
 
-456
+454
+
+441
 
 250
 
-25
+13
 
 90. 13. 980
 
 Valstybinis turizmo departamentas prie
 
-Valdymo reformų ir savivaldybių reikalų
-
-ministerijos
+Valdymo reformų ir savivaldybių reikalų ministerijos
 
 1  1
 
@@ -9198,9 +8972,9 @@ Nacionalinė turizmo plėtojimo programa
 
 13. 9. 1
 
-263
+162
 
-263
+162
 
 1  2
 
@@ -9208,9 +8982,9 @@ Darbuotojų kvalifikacijos kėlimas
 
 13. 9. 1
 
-3
+1
 
-3
+1
 
 1  3
 
@@ -9218,17 +8992,19 @@ Valstybės valdymas
 
 13. 9. 1
 
-1260
+1135
 
-1260
+1135
 
 345
 
-Iš viso
+Iš
 
-1526
+viso
 
-1526
+1298
+
+1298
 
 345
 
@@ -9236,9 +9012,7 @@ Iš viso
 
 Valstybinė duomenų apsaugos inspekcija
 
-prie Valdymo reformų ir savivaldybių
-
-reikalų ministerijos
+prie Valdymo reformų ir savivaldybių reikalų ministerijos
 
 1  1
 
@@ -9246,29 +9020,29 @@ Duomenų apsaugos valdymas
 
 13. 9. 1
 
-396
+360
 
-378
+344
 
-192
+188
 
-18
+16
 
-Iš viso
+Iš
 
-396
+viso
 
-378
+360
 
-192
+344
 
-18
+188
+
+16
 
 90.900.1999
 
-Lietuvos viešojo administravimo
-
-institutas
+Lietuvos viešojo administravimo institutas
 
 1  1
 
@@ -9278,11 +9052,13 @@ kvalifikacijos kėlimas bei mokymas
 
 4. 4. 1
 
-1072
+1111
 
-1072
+1011
 
-509
+439
+
+100
 
 1  2
 
@@ -9292,11 +9068,13 @@ atestavimas
 
 4. 4. 1
 
-154
+85
 
-154
+45
 
-80
+25
+
+40
 
 1  3
 
@@ -9306,33 +9084,37 @@ analitinės diagnostikos darbas
 
 4. 4. 1
 
-120
+100
 
-120
+80
 
-60
+45
 
-Iš viso
+20
 
-1346
+Iš
 
-1346
+viso
 
-649
+1296
+
+1136
+
+509
+
+160
 
 0.926.   0
 
-Vidaus reikalų ministerijos valdymo sritis
+Vidaus reikalų
+
+ministerijos valdymo sritis
 
 90.  6. 924
 
-Lietuvos Respublikos Prezidento, Seimo
+Lietuvos Respublikos Prezidento, Seimo Pirmininko,
 
-Pirmininko, Ministro Pirmininko ir
-
-oficialių svečių apsaugos departamentas
-
-prie VRM
+Ministro Pirmininko ir oficialių svečių apsaugos departamentas prie VRM
 
 1  1
 
@@ -9340,11 +9122,11 @@ Kovinis taktinis pasirengimas
 
 1. 4. 2
 
-6439
+6289
 
-6439
+6289
 
-4851
+4801
 
 1  2
 
@@ -9352,9 +9134,9 @@ Personalo išlaikymas
 
 1. 4. 2
 
-7732
+8032
 
-7732
+8032
 
 4861
 
@@ -9364,43 +9146,43 @@ Materialinės techninės bazės kūrimas
 
 1. 4. 2
 
-7273
+6573
 
-6173
+6023
 
-4869
+4819
 
-1100
+550
 
 1  4
 
-Einamojo remonto ir rekonstrukcijos
-
-darbai
+Einamojo remonto ir rekonstrukcijos darbai
 
 1. 4. 2
 
-630
+330
 
-630
+330
 
 22
 
-Iš viso
+Iš
 
-22074
+viso
 
-20974
+21224
 
-14603
+20674
 
-1100
+14503
+
+550
 
 90.  4. 864
 
-Priešgaisrinės apsaugos departamentas
+Priešgaisrinės apsaugos departamentas prie
 
-prie Vidaus reikalų ministerijos
+Vidaus reikalų ministerijos
 
 1  1
 
@@ -9408,9 +9190,9 @@ Personalo ir techninės bazės išlaikymas
 
 3. 1. 3
 
-88184
+87174
 
-88184
+87174
 
 60199
 
@@ -9420,19 +9202,21 @@ Materialinės techninės bazės plėtimas
 
 3. 1. 3
 
-5416
+4881
 
-5416
+4881
 
-Iš viso
+Iš
 
-93600
+viso
 
-88184
+92055
+
+87174
 
 60199
 
-5416
+4881
 
 90.  3. 826
 
@@ -9442,115 +9226,47 @@ Vidaus reikalų ministerijos
 
 1  1
 
-Užtikrinti valstybės sienos apsaugą ir
+Valstybės sienos apsaugos ir neliečiamumo
 
-neliečiamumą sausumoje ir teritoriniuose
+sausumoje ir teritoriniuose vandenyse bei valstybės sienos, pasienio ruožo ir
 
-I
-
-Š L A I D O S
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Iš
-
-jų
-
-Asignavimų
-
-valdytojų/
-
-Asignavimų
-
-valdytojų/programų
-
-Funkci-nės
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepapras-
-
-tosios
-
-programų
-
-kodai
-
-pavadinimai
-
-klasifika-cijos
-
-kodas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmo-kestis
-
-išlaidos
-
-vandenyse bei valstybės sienos, pasienio ruožo ir
-
-pasienio kontrolės punktų režimus
+pasienio kontrolės punktų režimų užtikrinimas
 
 2. 4. 1
 
-90917
+89217
 
-90917
+89217
 
-62073
-
-1  1
-
-Užtikrinti valstybės sienos apsaugą ir
-
-neliečiamumą sausumoje ir teritoriniuose
-
-vandenyse bei valstybės sienos, pasienio ruožo ir
-
-pasienio kontrolės punktų režimus
+61333
 
 3. 4. 1
 
-25668
+24257
 
-17478
+17178
 
 6930
 
-8190
+7079
 
-Iš viso
+Iš
 
-116585
+viso
 
-108395
+113474
 
-69003
+106395
 
-8190
+68263
+
+7079
 
 90.  2. 809
 
-Pataisos reikalų departamentas prie
+Pataisos reikalų departamentas prie Vidaus
 
-Vidaus reikalų ministerijos
+reikalų ministerijos
 
 1  1
 
@@ -9560,21 +9276,23 @@ priežiūra
 
 3. 3. 1
 
-107501
+104866
 
-107501
+104866
 
-53052
+52902
 
 2  1
 
-Statybos projektavimo darbai ir ilgalaikio turto įsigijimas
+Statybos projektavimo darbai ir ilgalaikio
+
+turto įsigijimas
 
 3. 3. 1
 
-10176
+6269
 
-10176
+6269
 
 2  2
 
@@ -9594,11 +9312,11 @@ Personalo profesinis tobulinimas
 
 3. 3. 1
 
-1150
+1050
 
-1150
+1050
 
-500
+450
 
 2  4
 
@@ -9606,21 +9324,23 @@ Pataisos reikalų departamento išlaikymas
 
 3. 3. 1
 
-4020
+3936
 
-4020
+3936
 
 2442
 
-Iš viso
+Iš
 
-123197
+viso
 
-113021
+116471
 
-55994
+110202
 
-10176
+55794
+
+6269
 
 90. 46.1902
 
@@ -9636,19 +9356,21 @@ santykių srityse
 
 3. 1. 1
 
-18732
+16532
 
-18732
+16532
 
-13261
+12261
 
-Iš viso
+Iš
 
-18732
+viso
 
-18732
+16532
 
-13261
+16532
+
+12261
 
 90. 43.1873
 
@@ -9662,11 +9384,11 @@ Operatyvinio darbo organizavimas
 
 3. 1. 1
 
-10433
+9934
 
-10433
+9934
 
-7265
+7215
 
 1  4
 
@@ -9676,53 +9398,53 @@ Pinigų plovimo prevencijos priemonių
 
 3. 1. 1
 
-818
+705
 
-818
+705
 
-575
+525
 
-Iš viso
+Iš
 
-11251
+viso
 
-11251
+10639
 
-7840
+10639
+
+7740
 
 90. 45.1932
 
-Policijos departamentas prie Vidaus reikalų
+Policijos departamentas prie Vidaus
 
-ministerijos
+reikalų ministerijos
 
 1  1
 
 Kriminalinių ir ekonominių nusikaltimų,
 
-teisėtvarkos pažeidimų bei organizuotų
-
-nusikaltimų prevencija
+teisėtvarkos pažeidimų bei organizuotų nusikaltimų prevencija
 
 3. 1. 1
 
-26415
+25115
 
-26415
+25115
 
 1  3
 
-Policijos komisariatų ir policijos padalinių
+Policijos komisariatų ir policijos
 
-išlaikymas
+padalinių išlaikymas
 
 3. 1. 1
 
-360247
+357140
 
-360247
+357140
 
-267956
+270136
 
 1  4
 
@@ -9730,11 +9452,11 @@ Policijos departamento išlaikymas
 
 3. 1. 1
 
-38318
+34425
 
-38318
+34425
 
-24000
+21620
 
 1  5
 
@@ -9748,25 +9470,27 @@ Nelegalių migrantų srautų reguliavimas
 
 1352
 
-Iš viso
+Iš
 
-428828
+viso
 
-428828
+420528
 
-293308
+420528
+
+293108
 
 0.930.   0
 
-Žemės ūkio ministerijos valdymo sritis
+Žemės ūkio ministerijos
+
+valdymo sritis
 
 90.900.2009
 
 Žemės ir maisto ūkio integracijos į
 
-Europos Sąjungą departamentas prie Žemės ūkio
-
-ministerijos
+Europos Sąjungą departamentas prie Žemės ūkio ministerijos
 
 1  1
 
@@ -9776,19 +9500,21 @@ Europos Sąjungą programa
 
 10. 9. 1
 
-1906
+1709
 
-1906
+1709
 
-1078
+1053
 
-Iš viso
+Iš
 
-1906
+viso
 
-1906
+1709
 
-1078
+1709
+
+1053
 
 90.900.1938
 
@@ -9802,9 +9528,9 @@ Dirvožemio tyrimas ir žemės įvertinimas
 
 10. 1. 2
 
-838
+830
 
-838
+830
 
 1  2
 
@@ -9812,9 +9538,9 @@ Valstybinė žemės apskaita
 
 10. 1. 2
 
-440
+420
 
-440
+420
 
 1  3
 
@@ -9822,9 +9548,9 @@ Valstybinės žemėtvarkos darbai
 
 10. 1. 2
 
-740
+728
 
-740
+728
 
 2  1
 
@@ -9834,39 +9560,33 @@ rengimo automatizavimas
 
 10. 1. 2
 
-111
+34
 
-52
-
-59
+34
 
 3  2
 
 Nekilnojamojo turto kadastro informacinės
 
-sistemos plėtra ir
-
-eksploatavimas
+sistemos plėtra ir eksploatavimas
 
 10. 1. 2
 
-3450
+3407
 
-3450
+3407
 
 3  3
 
-Nekilnojamojo turto vertinimo, jo
+Nekilnojamojo turto vertinimo, sistemos jo
 
-apmokestinimui sistemos sukūrimas ir
-
-įgyvendinimas
+apmokestinimui sukūrimas ir įgyvendinimas
 
 10. 1. 2
 
-40
+20
 
-40
+20
 
 4  1
 
@@ -9882,15 +9602,17 @@ Valstybės valdymas
 
 50
 
-Iš viso
+Iš
 
-7176
+viso
 
-7067
+6996
+
+6912
 
 768
 
-109
+84
 
 90.900.1904
 
@@ -9904,19 +9626,21 @@ koordinavimas
 
 10. 5. 1
 
-2554
+2020
 
-2124
+1805
 
-430
+215
 
-Iš viso
+Iš
 
-2554
+viso
 
-2124
+2020
 
-430
+1805
+
+215
 
 0.  0.   0
 
@@ -9932,21 +9656,21 @@ Teisingumo vykdymas
 
 3. 2. 1
 
-13383
+10923
 
-10953
+8493
 
-8151
+7173
 
 2430
 
 Iš viso
 
-13383
+10923
 
-10953
+8493
 
-8151
+7173
 
 2430
 
@@ -9962,13 +9686,13 @@ teisėtumo įgyvendinimas
 
 3. 2. 1
 
-73905
+68434
 
-69507
+67462
 
 49242
 
-4398
+972
 
 1  2
 
@@ -9984,29 +9708,33 @@ reformos
 
 1  3
 
-Valstybinių pensijų mokėjimas
+Valstybinių pensijų mokėjimas prokuratūros
 
-prokuratūros sistemos pareigūnams
+sistemos pareigūnams
 
 6. 1. 7
 
-615
+660
 
-615
+660
 
-Iš viso
+Iš
 
-74570
+viso
 
-70172
+69144
+
+68172
 
 49242
 
-4398
+972
 
 0.  0.   0
 
-VI. Švietimo, kultūros ir kitos įstaigos bei
+VI. Švietimo, kultūros ir
+
+kitos įstaigos bei
 
 organizacijos
 
@@ -10020,23 +9748,25 @@ Visuomenės informacinis aprūpinimas
 
 8. 2. 1
 
-3691
+3669
 
 3625
 
 1669
 
-66
+44
 
-Iš viso
+Iš
 
-3691
+viso
+
+3669
 
 3625
 
 1669
 
-66
+44
 
 90.900.1714
 
@@ -10050,23 +9780,25 @@ aprūpinimas
 
 8. 2. 1
 
-1079
+1061
 
 1046
 
 648
 
-33
+15
 
-Iš viso
+Iš
 
-1079
+viso
+
+1061
 
 1046
 
 648
 
-33
+15
 
 90.900.1751
 
@@ -10078,25 +9810,25 @@ fondas
 
 Konkursas viešosios informacijos
 
-rengėjams, projektų administravimas ir
-
-žiniasklaidos procesų analizė
+rengėjams, projektų  administravimas ir žiniasklaidos procesų analizė
 
 8. 3. 1
 
-3787
+3419
 
-3767
+3409
 
-20
+10
 
-Iš viso
+Iš
 
-3787
+viso
 
-3767
+3419
 
-20
+3409
+
+10
 
 90.900.1753
 
@@ -10116,29 +9848,77 @@ visuomenės gyvenimą
 
 2  1
 
-Valstybės valdymas - programų
+Valstybės valdymas - programų įgyvendinimo
 
-įgyvendinimo koordinavimas
+koordinavimas
 
 8. 4. 1
 
-775
+765
 
 755
 
 187
 
-20
+10
 
-Iš viso
+Iš
 
-2102
+viso
+
+2092
 
 2082
 
 187
 
-20
+10
+
+1 priedėlio
+
+tęsinys
+
+Išlaidos
+
+tūkst. Lt
+
+Asigna-vimų
+
+Asignavimų
+
+valdytojų/
+
+Funkci-nės
+
+Iš viso
+
+Iš jų
+
+valdytojų/programų
+
+programų
+
+pavadinimai
+
+klasifi-kacijos
+
+paprastosios
+
+išlaidos
+
+nepapras-tosios
+
+kodai
+
+kodas
+
+iš viso
+
+iš jų darbo
+
+užmo-kestis
+
+išlaidos
 
 90.900.1718
 
@@ -10154,51 +9934,51 @@ ekonominė ir informacinė aplinka
 
 14. 1. 3
 
-564
+520
 
-539
-
-274
-
-25
-
-Iš viso
-
-564
-
-539
+503
 
 274
 
-25
+17
+
+Iš
+
+viso
+
+520
+
+503
+
+274
+
+17
 
 90.900.2010
 
-Lietuvos prekybos, pramonės ir amatų
+Lietuvos prekybos, pramonės ir amatų rūmų
 
-rūmų asociacija
+asociacija
 
 1  1
 
-Lietuvos Respublikos verslo registro
+Lietuvos Respublikos verslo registro bazės
 
-bazės sukūrimas
+sukūrimas
 
 14. 1. 3
 
-540
+190
 
-400
+190
 
-140
+Iš
 
-Iš viso
+viso
 
-540
+190
 
-400
-
-140
+190
 
 90.900.1572
 
@@ -10214,13 +9994,13 @@ rezistencijos tyrimas
 
 14. 1. 3
 
-4583
+6103
 
-2883
+2903
 
 1802
 
-1700
+3200
 
 1  2
 
@@ -10230,41 +10010,37 @@ rezistencijos įamžinimas
 
 14.11. 1
 
-548
+528
 
-548
+528
 
 240
 
-Iš viso
+Iš
 
-5131
+viso
+
+6631
 
 3431
 
 2042
 
-1700
+3200
 
 90.900.1573
 
 Lietuvos gyventojų genocido ir
 
-rezistencijos tyrimo, aukų rėmimo ir
-
-atminimo įamžinimo fondas
+rezistencijos tyrimo, aukų rėmimo ir atminimo įamžinimo fondas
 
 1  1
 
 Genocido aukų ir rezistencijos dalyvių
 
-materialinis rėmimas, Lietuvos gyventojų
+materialinis rėmimas, Lietuvos gyventojų genocido ir rezistencijos tyrimo bei
 
-genocido ir rezistencijos tyrimo bei genocido aukų ir
-
-rezistencijos dalyvių
-
-atminimo įamžinimas
+genocido aukų ir rezistencijos dalyvių atminimo įamžinimas
 
 14. 1. 3
 
@@ -10274,7 +10050,9 @@ atminimo įamžinimas
 
 42
 
-Iš viso
+Iš
+
+viso
 
 656
 
@@ -10284,13 +10062,15 @@ Iš viso
 
 90. 25.1145
 
-Lietuvos nacionalinis radijas ir televizija
+Lietuvos nacionalinis radijas ir
+
+televizija
 
 1  1
 
-Visuomenės informavimas radijo
+Visuomenės informavimas radijo komunikacijų
 
-komunikacijų tinklais
+tinklais
 
 8. 3. 1
 
@@ -10334,7 +10114,9 @@ Televizijos informacinės laidos
 
 4500
 
-Iš viso
+Iš
+
+viso
 
 38017
 
@@ -10348,29 +10130,31 @@ Valstybinis patentų biuras
 
 1  2
 
-Nacionalinės pramoninės nuosavybės
+Nacionalinės pramoninės nuosavybės teisinė
 
-teisinė apsauga Lietuvoje
+apsauga Lietuvoje
 
 13. 4. 1
 
-2043
+1973
 
-1953
-
-947
-
-90
-
-Iš viso
-
-2043
-
-1953
+1928
 
 947
 
-90
+45
+
+Iš
+
+viso
+
+1973
+
+1928
+
+947
+
+45
 
 90.900.1954
 
@@ -10382,105 +10166,49 @@ Pagalba Lietuvos šaulių sąjungai
 
 2. 4. 1
 
-1281
+1134
 
-1281
-
-183
-
-Iš viso
-
-1281
-
-1281
+1134
 
 183
-
-I
-
-Š L A I D O S
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Iš
-
-jų
-
-Asignavimų
-
-valdytojų/
-
-Asignavimų
-
-valdytojų/programų
-
-Funkci-nės
 
 Iš
 
 viso
 
-paprastosios
+1134
 
-išlaidos
+1134
 
-nepapras-
-
-tosios
-
-programų
-
-kodai
-
-pavadinimai
-
-klasifika-cijos
-
-kodas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmo-kestis
-
-išlaidos
+183
 
 90.900.1675
 
-Valstybės įmonė poilsio namai "Baltija"
+Valstybės įmonė Poilsio namai „Baltija“
 
 1  1
 
 Gyvenamojo ploto, medicininių ir
 
-kultūrinių paslaugų suteikimas,
-
-konferencijų, pasitarimų organizavimas
+kultūrinių paslaugų suteikimas, konferencijų, pasitarimų organizavimas
 
 14. 1. 3
 
-1758
+1736
 
-1692
+1670
 
 263
 
 66
 
-Iš viso
+Iš
 
-1758
+viso
 
-1692
+1736
+
+1670
 
 263
 
@@ -10488,13 +10216,13 @@ Iš viso
 
 90.900.1682
 
-Valstybės įmonė sanatorija "Lietuva"
+Valstybės įmonė Sanatorija „Lietuva“
 
 1  1
 
-Gyvenamojo ploto bei medicininių
+Gyvenamojo ploto bei medicininių paslaugų
 
-paslaugų suteikimas
+suteikimas
 
 14. 1. 3
 
@@ -10504,7 +10232,9 @@ paslaugų suteikimas
 
 26
 
-Iš viso
+Iš
+
+viso
 
 99
 
@@ -10516,9 +10246,7 @@ Iš viso
 
 Lietuvos Respublikos Vyriausybės
 
-kanceliarijos Specialiosios paskirties akcinė
-
-komunalinių paslaugų bendrovė
+kanceliarijos Specialiosios paskirties akcinė komunalinių paslaugų bendrovė
 
 1  1
 
@@ -10528,23 +10256,23 @@ eksploatavimas
 
 14. 1. 3
 
-916
+817
 
-916
+817
 
-Iš viso
+Iš
 
-916
+viso
 
-916
+817
+
+817
 
 90.900.1905
 
 Lietuvos tūkstantmečio minėjimo direkcija
 
-prie Lietuvos Respublikos
-
-Prezidento kanceliarijos
+prie Lietuvos Respublikos Prezidento kanceliarijos
 
 1  1
 
@@ -10552,23 +10280,25 @@ Lietuvos vardo tūkstantmečio paminėjimas
 
 8. 2. 5
 
-820
+689
 
-795
+676
 
-202
+192
 
-25
+13
 
-Iš viso
+Iš
 
-820
+viso
 
-795
+689
 
-202
+676
 
-25
+192
+
+13
 
 90.900.1577
 
@@ -10576,7 +10306,9 @@ Mokslininkų rūmai
 
 1  1
 
-Moksliniai, švietėjiški, kultūriniai renginiai
+Moksliniai, švietėjiški, kultūriniai
+
+renginiai
 
 8. 2. 5
 
@@ -10588,7 +10320,9 @@ Moksliniai, švietėjiški, kultūriniai renginiai
 
 15
 
-Iš viso
+Iš
+
+viso
 
 243
 
@@ -10608,29 +10342,29 @@ centras
 
 Informacinė-konsultacinė pagalba
 
-grįžtantiems ir jau sugrįžusiems į
-
-Tėvynę lietuviams
+grįžtantiems ir jau sugrįžusiems į Tėvynę lietuviams
 
 14. 1. 3
 
-183
+163
 
 143
 
 79
 
-40
+20
 
-Iš viso
+Iš
 
-183
+viso
+
+163
 
 143
 
 79
 
-40
+20
 
 90.900.1629
 
@@ -10640,69 +10374,59 @@ Mokslas ir studijos
 
 Aukščiausios kvalifikacijos specialistų
 
-bei mokslininkų aukštosiose mokyklose
-
-rengimo užtikrinimas ir plėtojimas
-
-4. 3. 1
-
-389965
-
-360783
-
-207959
-
-29182
-
-1  1
-
-Aukščiausios kvalifikacijos specialistų
-
-bei mokslininkų aukštosiose mokyklose rengimo
-
-užtikrinimas ir plėtojimas
+bei mokslininkų aukštosiose mokyklose rengimo užtikrinimas ir plėtojimas
 
 3. 1. 2
 
-27556
+26710
 
-24916
+24491
 
-13108
+12884
 
-2640
+2219
+
+4. 3. 1
+
+370333
+
+353849
+
+204501
+
+16484
 
 1  2
 
-Mokslo potencialo palaikymas ir
-
-plėtojimas
+Mokslo potencialo palaikymas ir plėtojimas
 
 1. 3. 4
 
-128818
+123648
 
-123598
+120258
 
-78118
+75489
 
-5220
+3390
 
-Iš viso
+Iš
 
-546339
+viso
 
-509297
+520691
 
-299185
+498598
 
-37042
+292874
+
+22093
 
 90.900.1979
 
-Lietuvos Respublikos audito ir apskaitos
+Viešoji įstaiga Lietuvos Respublikos
 
-institutas
+audito, apskaitos ir turto vertinimo institutas
 
 1  1
 
@@ -10712,45 +10436,47 @@ plėtra
 
 14. 1. 3
 
-540
+484
 
-540
+484
 
-352
+309
 
-Iš viso
+Iš
 
-540
+viso
 
-540
+484
 
-352
+484
+
+309
 
 90. 38.1669
 
-Lietuvos vartotojų kooperatyvų sąjunga
+Lietuvos vartotojų kooperatyvų
 
-(aukštesniosios kooperacijos
-
-mokyklos)
+sąjunga(aukštesniosios kooperacijos mokyklos)
 
 1  1
 
-Specialistų su aukštesniuoju
+Specialistų su aukštesniuoju išsilavinimu
 
-išsilavinimu rengimas
+rengimas
 
 4. 5. 4
 
-170
+166
 
-170
+166
 
-Iš viso
+Iš
 
-170
+viso
 
-170
+166
+
+166
 
 90. 39.1633
 
@@ -10764,11 +10490,9 @@ Invalidų ugdymas
 
 6. 3. 1
 
-4957
+4634
 
-4827
-
-130
+4634
 
 1  2
 
@@ -10776,11 +10500,9 @@ Darbinis užimtumas
 
 6. 3. 1
 
-7061
-
 6944
 
-117
+6944
 
 1  3
 
@@ -10794,29 +10516,23 @@ Aplinkos pritaikymas
 
 1  4
 
-Savarankiško invalidų gyvenimo
-
-formavimas
+Savarankiško invalidų gyvenimo formavimas
 
 6. 3. 1
 
-5160
+4357
 
-4530
-
-630
+4357
 
 1  5
 
-Informacijos prieinamumas ir
-
-komunikacijos
+Informacijos prieinamumas ir komunikacijos
 
 6. 3. 1
 
-2792
+2681
 
-2792
+2681
 
 1  6
 
@@ -10846,15 +10562,17 @@ išlaikymas (valdymas)
 
 23
 
-Iš viso
+Iš
 
-27238
+viso
 
-23838
+25884
+
+23361
 
 165
 
-3400
+2523
 
 90.900.1936
 
@@ -10864,45 +10582,49 @@ Lietuvos blaivybės fondas
 
 Visuomeninių organizacijų blaivybės
 
-veiklos skatinimas, rėmimas ir
-
-koordinavimas
+veiklos skatinimas, rėmimas ir koordinavimas
 
 8. 4. 1
 
-266
+238
 
-266
+238
 
-Iš viso
+Iš
 
-266
+viso
 
-266
+238
+
+238
 
 90.900.1813
 
-Lietuvos raudonojo kryžiaus draugija
+Lietuvos Raudonojo Kryžiaus draugija
 
 1  1
 
-Vienišų socialiai remtinų asmenų slauga namuose
+Vienišų socialiai remtinų asmenų slauga
+
+namuose
 
 8. 4. 1
 
-1061
+969
 
-1061
+969
 
 1  2
 
-Visuomenės apmokymas teikti pirmąją pagalbą
+Visuomenės apmokymas teikti pirmąją
+
+pagalbą
 
 8. 4. 1
 
-123
+113
 
-123
+113
 
 1  3
 
@@ -10912,9 +10634,9 @@ nelaimių, konfliktų metu, paieška
 
 8. 4. 1
 
-52
+15
 
-52
+15
 
 1  4
 
@@ -10936,15 +10658,17 @@ remtinus asmenis
 
 8. 4. 1
 
-87
+77
 
-87
+77
 
-Iš viso
+Iš
 
-1380
+viso
 
-1380
+1231
+
+1231
 
 90.900.1899
 
@@ -10964,7 +10688,9 @@ namams atstatyti ir kitoms reikmėms
 
 4425
 
-Iš viso
+Iš
+
+viso
 
 4425
 
@@ -10972,35 +10698,35 @@ Iš viso
 
 90.900.1659
 
-Marijampolės krikščioniškosios kultūros centras
+Marijampolės krikščioniškosios kultūros
+
+centras
 
 1  1
 
 Krikščioniškų ir žmogiškųjų mokslo ir
 
-kultūros vertybių ugdymas bei
-
-puoselėjimas
+kultūros vertybių ugdymas bei puoselėjimas
 
 8. 4. 1
 
-1349
+1092
 
 740
 
 500
 
-609
+352
 
 Iš viso
 
-1349
+1092
 
 740
 
 500
 
-609
+352
 
 90.900.1635
 
@@ -11032,25 +10758,25 @@ besisteigiančioms profesinėms sąjungoms remti
 
 Kompensacija už buvusioms profesinėms
 
-sąjungoms priklausiusius objektus, kurie
-
-perimti valstybės ir privatizuoti
+sąjungoms priklausiusius objektus, kurie perimti valstybės ir privatizuoti
 
 8. 4. 1
 
-88
+79
 
-88
+79
 
-Iš viso
+Iš
 
-88
+viso
 
-88
+79
+
+79
 
 90.900.1962
 
-Judėjimas "Stabdyk nusikalstamumą"
+Judėjimas „Stabdyk nusikalstamumą“
 
 1  1
 
@@ -11058,15 +10784,17 @@ Visuomenės saugumo užtikrinimas
 
 14. 1. 3
 
-89
+80
 
-89
+80
 
-Iš viso
+Iš
 
-89
+viso
 
-89
+80
+
+80
 
 90.900.1901
 
@@ -11076,17 +10804,15 @@ centras
 
 1  1
 
-Naujų nusikalstamumo prevencijos
+Naujų nusikalstamumo prevencijos programų
 
-programų rengimas, vykdomų programų
-
-koordinavimas ir metodinis vadovavimas
+rengimas,vykdomų programų koordinavimas ir metodinis vadovavimas
 
 14. 1. 3
 
-245
+218
 
-245
+218
 
 1  2
 
@@ -11096,15 +10822,15 @@ sistema ir jos naudojimas
 
 14. 1. 3
 
-193
+172
 
-193
+172
 
 Iš viso
 
-438
+390
 
-438
+390
 
 90.900.1992
 
@@ -11118,161 +10844,149 @@ Finansinis PHARE programos koordinavimas
 
 14. 1. 3
 
-106
+95
 
-106
+95
 
 Iš viso
 
-106
+95
 
-106
+95
 
 IŠ VISO
 
-7210071
+6760832
 
-6752059
+6394665
 
-2113976
+2062395
 
-458012
+366167
 
 Paskolos, atėmus grąžintas lėšas
 
-672000
+772000
 
-Lietuvos Respublikos
+Lietuvos
 
-1998
+Respublikos
 
-m. gruodžio 3 d.
+1999
+
+m. spalio 14 d.
 
 įstatymo
 
-Nr.VIII-949
+Nr.VIII-1354
 
 2
 
 priedėlis
 
-LIETUVOS RESPUBLIKOS 1999
+Lietuvos
 
-METŲ
+Respublikos 1999 metų valstybės biudžeto išlaidos
 
-VALSTYBĖS BIUDŽETO IŠLAIDOS
+tūkst. Lt
 
-tūkst.
-
-Lt
-
-Iš
-
-jų
+Iš jų
 
 Pavadinimas
 
-Iš
+Iš viso
 
-viso
-
-paprastosios
-
-išlaidos
+paprastosios išlaidos
 
 nepaprasto-
 
-iš
+iš viso
 
-viso
-
-iš
-
-jų darbo užmokestis
+iš jų darbo užmokestis
 
 sios išlaidos
 
 Bendrosios valstybės paslaugos
 
-699938
+655083
 
-645202
+618492
 
-382013
+373905
 
-54736
+36591
 
 iš jų:
 
 Valstybės valdymo išlaidos
 
-200878
+191978
 
-181510
+179649
 
-100844
+100194
 
-19368
+12329
 
 Fundamentalūs moksliniai tyrimai
 
-128818
+123648
 
-123598
+120258
 
-78118
+75489
 
-5220
+3390
 
 Krašto apsauga
 
-695727
+639302
 
-596463
+551571
 
-279867
+261513
 
-99264
+87731
 
 Viešoji tvarka ir visuomenės apsauga
 
-1081269
+1030529
 
-1033432
+995788
 
-654338
+647998
 
-47837
+34741
 
 Švietimas
 
-973679
+933828
 
-908706
+893106
 
-485810
+482149
 
-64973
+40722
 
 Sveikatos apsauga
 
-684706
+637713
 
-634032
+591269
 
-55405
+56410
 
-50674
+46444
 
 Socialinė apsauga, globa ir rūpyba
 
-738735
+680985
 
-718741
+665269
 
-61076
+59933
 
-19994
+15716
 
 Butų ir komunalinis ūkis
 
@@ -11282,191 +10996,159 @@ Butų ir komunalinis ūkis
 
 Sveikatingumas (sportas), rekreacija, kultūra
 
-277246
+255750
 
-256818
+243197
 
-40973
+41056
 
-20428
+12553
 
 Kuro ir energijos tiekimo paslaugos
 
-6470
+6192
 
-6330
+6087
 
 3229
 
-140
+105
 
-Žemės ūkis, miškininkystė, žuvininkystė ir veterinarija
+Žemės ūkis, miškininkystė, žuvininkystė ir
 
-612250
+veterinarija
 
-602890
+570981
 
-63221
+563677
 
-9360
+62767
 
-Mineralinių išteklių gavyba (išskyrus kurą), pramonė ir statyba
+7304
 
-87773
+Mineralinių išteklių gavyba (išskyrus kurą), pramonė
 
-76182
+ir statyba
 
-10155
+61754
 
-11591
+55953
+
+9993
+
+5801
 
 Transportas ir ryšiai
 
-94921
+85826
 
-73904
+64989
 
-9842
+8602
 
-21017
-
-2 priedėlio tęsinys
-
-tūkst. Lt
-
-Iš
-
-jų
-
-Pavadinimas
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprasto-
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-sios išlaidos
+20837
 
 Kita ekonominė veikla
 
-88935
+83688
 
-83319
+79632
 
-44043
+43491
 
-5616
+4056
 
 iš jų:
 
 Aplinkos ministerija ir jos valdymo sritis
 
-49496
+46457
 
-46856
+44773
 
-23594
+23579
 
-2640
+1684
 
 Išlaidos, nepriskirtos pagrindinių funkcijų grupėms
 
-1168334
+1119113
 
-1115952
+1065547
 
-24004
+11349
 
-52382
+53566
 
 iš jų:
 
 Valstybės skolos aptarnavimo išlaidos
 
-770218
+722473
 
-720059
+672314
 
 50159
 
 Perduotos dotacijos savivaldybėms
 
-101768
+126768
 
-101768
+126768
 
 Bendrasis paramos fondas
 
-11400
+4400
 
-11400
+4400
 
-IŠ VISO
+Iš viso:
 
-7210071
+6760832
 
-6752059
+6394665
 
-2113976
+2062395
 
-458012
+366167
 
-Lietuvos Respublikos
+Lietuvos
 
-1998
+Respublikos
 
-m. gruodžio 3 d.
+1999
+
+m. spalio 14 d.
 
 įstatymo
 
-Nr.VIII-949
+Nr.VIII-1354
 
 3
 
 priedėlis
 
-SAVIVALDYBIŲ BIUDŽETAMS  SKIRIAMO FIZINIŲ ASMENŲ
+SAVIVALDYBIŲ
 
-PAJAMŲ MOKESČIO PASKIRSTYMAS
+BIUDŽETAMS  SKIRIAMO FIZINIŲ ASMENŲ
 
-Savivaldybės
+PAJAMŲ
 
-Fizinių asmenų
+MOKESČIO PASKIRSTYMAS
 
-Fizinių asmenų pajamų mokesčio
+Savivaldybės pavadinimas
 
-pavadinimas
+Fizinių asmenų pajamų
 
-pajamų mokesčio
+Fizinių asmenų pajamų mokesčio paskirstymas (tūkst.
 
-paskirstymas (tūkst. Lt)
+Lt)
 
-dalis
+mokesčio dalis (proc.)
 
-pajamoms
+pajamoms išlyginti
 
-išlaidų struktū-
-
-(proc.)
-
-išlyginti
-
-ros skirtumams
-
-išlyginti *
+išlaidų struktūros skirtumams išlyginti*
 
 MIESTAI
 
@@ -11662,34 +11344,6 @@ Kupiškio
 
 11515
 
-3 priedėlio tęsinys
-
-Savivaldybės
-
-pavadinimas
-
-Fizinių asmenų
-
-pajamų mokesčio
-
-Fizinių asmenų pajamų mokesčio
-
-paskirstymas (tūkst. Lt)
-
-dalis
-
-pajamoms
-
-išlaidų struktū-
-
-(proc.)
-
-išlyginti
-
-ros skirtumams
-
-išlyginti *
-
 Lazdijų
 
 100
@@ -11705,6 +11359,24 @@ Marijampolės
 7687
 
 12449
+
+3 priedėlio tęsinys
+
+Savivaldybės pavadinimas
+
+Fizinių asmenų pajamų
+
+Fizinių asmenų pajamų mokesčio paskirstymas (tūkst.
+
+Lt)
+
+mokesčio dalis
+
+(proc.)
+
+pajamoms išlyginti
+
+išlaidų struktūros skirtumams išlyginti*
 
 Mažeikių
 
@@ -11918,89 +11590,81 @@ Zarasų
 
 9490
 
-IŠ VISO
+Iš
+
+viso
 
 320898
 
 614856
 
-*
+* Prognozuojamos lėšų sumos
 
-Prognozuojamos lėšų sumos perduodamos atsižvelgiant į faktines fizinių asmenų
+perduodamos atsižvelgiant į faktines fizinių asmenų pajamų mokesčio įplaukas
 
-pajamų mokesčio įplaukas.
+Lietuvos
 
-Lietuvos Respublikos
+Respublikos
 
-1998
+1999
 
-m. gruodžio 3 d.
+m. spalio 14 d.
 
 įstatymo
 
-Nr.VIII-949
+Nr.VIII-1354
 
 4
 
 priedėlis
 
-VALSTYBĖS BIUDŽETO SPECIALI DOTACIJA SAVIVALDYBĖMS
+VALSTYBĖS
+
+BIUDŽETO SPECIALI DOTACIJA SAVIVALDYBĖMS
 
 tūkst. Lt
 
-Savivaldybės
+Savivaldybės pavadinimas
 
-Pajamoms
+Pajamoms išlyginti
 
-Asignavimams
+Asignavimams globojamiems vaikams išlaikyti
 
-Vilniaus miesto
-
-pavadinimas
-
-išlyginti
-
-globojamiems
-
-senamiesčiui
-
-vaikams išlaikyti
-
-tvarkyti
+Vilniaus miesto senamiesčiui tvarkyti
 
 MIESTAI
 
 Vilnius
 
-6000
+5150
 
 15000
 
 Alytus
 
-1200
+635
 
 Birštonas
 
 18
 
-36
+4
 
 Druskininkai
 
-210
+178
 
 Kaunas
 
-4914
+3614
 
 Klaipėda
 
-2080
+1500
 
 Marijampolė
 
-720
+400
 
 Neringa
 
@@ -12010,21 +11674,21 @@ Neringa
 
 Palanga
 
-160
+219
 
 Panevėžys
 
-1248
+1000
 
 Šiauliai
 
-1200
+1600
 
 Visaginas
 
 722
 
-180
+209
 
 RAJONAI
 
@@ -12032,13 +11696,13 @@ Akmenės
 
 382
 
-792
+534
 
 Alytaus
 
 542
 
-600
+420
 
 Anykščių
 
@@ -12048,55 +11712,55 @@ Anykščių
 
 Biržų
 
-600
+525
 
 Ignalinos
 
-192
+152
 
 Jonavos
 
-984
+964
 
 Joniškio
 
 375
 
-720
+448
 
 Jurbarko
 
 647
 
-551
+403
 
 Kaišiadorių
 
-690
+465
 
 Kauno
 
 1081
 
-1800
+1000
 
 Kėdainių
 
-271
+4428
 
-1020
+1206
 
 Kelmės
 
 863
 
-636
+516
 
 Klaipėdos
 
 153
 
-540
+440
 
 Kretingos
 
@@ -12108,113 +11772,101 @@ Kupiškio
 
 269
 
-420
+360
 
 Lazdijų
 
 590
 
-420
+400
 
 Marijampolės
 
 538
 
-1400
-
-Mažeikių
-
-1050
+1462
 
 4 priedėlio tęsinys
 
 tūkst. Lt
 
-Savivaldybės
+Savivaldybės pavadinimas
 
-Pajamoms
+Pajamoms išlyginti
 
-Asignavimams
+Asignavimams globojamiems vaikams išlaikyti
 
-Vilniaus miesto
+Vilniaus miesto senamiesčiui tvarkyti
 
-pavadinimas
+Mažeikių
 
-išlyginti
-
-globojamiems
-
-senamiesčiui
-
-vaikams išlaikyti
-
-tvarkyti
+880
 
 Molėtų
 
 373
 
-372
+300
 
 Pakruojo
 
 392
 
-726
+547
 
 Panevėžio
 
 387
 
-900
+600
 
 Pasvalio
 
 374
 
-948
+715
 
 Plungės
 
 862
 
-840
+536
 
 Prienų
 
 479
 
-480
+430
 
 Radviliškio
 
 620
 
-900
+700
 
 Raseinių
 
 686
 
-1218
+800
 
 Rokiškio
 
 564
 
-420
+350
 
 Skuodo
 
 552
 
-480
+400
 
 Šakių
 
 727
 
-762
+662
 
 Šalčininkų
 
@@ -12226,101 +11878,103 @@ Skuodo
 
 761
 
-1200
+894
 
 Šilalės
 
 703
 
-1500
+1036
 
 Šilutės
 
 883
 
-1140
+690
 
 Širvintų
 
 309
 
-360
+275
 
 Švenčionių
 
 363
 
-612
+278
 
 Tauragės
 
 755
 
-1080
+770
 
 Telšių
 
-532
+1329
 
-942
+1065
 
 Trakų
 
-582
+4575
 
-1200
+825
 
 Ukmergės
 
-638
+2281
 
-1188
+740
 
 Utenos
 
-846
+546
 
 Varėnos
 
 274
 
-420
+450
 
 Vilkaviškio
 
 811
 
-1200
+750
 
 Vilniaus
 
 1312
 
-1110
+640
 
 Zarasų
 
 306
 
-282
+192
 
 IŠ VISO
 
-22457
+33047
 
-53053
+41439
 
 15000
 
-Lietuvos Respublikos
+Lietuvos
 
-1998
+Respublikos
 
-m. gruodžio 3 d.
+1999
+
+m. spalio 14 d.
 
 įstatymo
 
-Nr.VIII-949
+Nr.VIII-1354
 
 5
 
@@ -12328,33 +11982,35 @@ priedėlis
 
 LIETUVOS
 
-RESPUBLIKOS 1999 metų VALSTYBĖS
-
-INSTITUCIJŲ
+RESPUBLIKOS 1999 METŲ VALSTYBĖS INSTITUCIJŲ
 
 IR
 
 KONTROLIUOJANČIŲ ORGANIZACIJŲ SPECIALIŲJŲ LĖŠŲ
 
-ĮMOKOS
+ĮMOKOS Į
 
-Į VALSTYBĖS BIUDŽETĄ
+VALSTYBĖS BIUDŽETĄ
 
-tūkst.
+tūkst. Lt
 
-Lt
+Valstybės institucijos
 
-Valstybės institucijos ir kontroliuojančios organizacijos
+ir kontroliuojančios organizacijos
 
 Iš viso
 
-Lietuvos Respublikos Konstitucinis Teismas
+Konstitucinis Teismas
 
 2
 
 Aplinkos ministerija
 
 1196
+
+Susisiekimo ministerija
+
+779
 
 Ūkio ministerija
 
@@ -12366,21 +12022,21 @@ Užsienio reikalų ministerija
 
 Žemės ūkio ministerija
 
-1990
+2029
 
 Kauno apskrities viršininko administracija
 
 1379
 
-Statistikos departamentas prie Lietuvos Respublikos
+Statistikos departamentas prie
 
-Vyriausybės
+Lietuvos Respublikos Vyriausybės
 
-5500
+6500
 
-Valstybinė geodezijos ir kartografijos tarnyba prie Lietuvos
+Valstybinė geodezijos ir kartografijos
 
-Respublikos Vyriausybės
+tarnyba prie Lietuvos Respublikos Vyriausybės
 
 235
 
@@ -12388,45 +12044,51 @@ Valstybinė veterinarijos tarnyba
 
 600
 
-Lietuvos valstybinė kokybės inspekcija prie Valstybinės
+Lietuvos valstybinė kokybės inspekcija
 
-konkurencijos ir vartotojų teisių gynimo tarnybos
+prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos
 
 1557
 
-Miškų ir saugomų teritorijų departamentas prie Aplinkos
+Miškų ir saugomų teritorijų
 
-ministerijos
+departamentas prie Aplinkos ministerijos
 
 7528
 
-Lietuvos geologijos tarnyba prie Aplinkos ministerijos
+Lietuvos geologijos tarnyba prie
+
+Aplinkos ministerijos
 
 195
 
-Muitinės departamentas prie Finansų ministerijos
+Muitinės departamentas prie Finansų
 
-11832
+ministerijos
 
-Valstybinė mokesčių inspekcija prie Finansų ministerijos
+10832
 
-39888
-
-Valstybės dokumentų technologinės apsaugos tarnyba prie
+Valstybinė mokesčių inspekcija prie
 
 Finansų ministerijos
 
+29258
+
+Valstybės dokumentų technologinės
+
+apsaugos tarnyba prie Finansų ministerijos
+
 870
 
-Technikos priežiūros tarnyba prie Socialinės apsaugos ir darbo
+Technikos priežiūros tarnyba prie
 
-ministerijos
+Socialinės apsaugos ir darbo ministerijos
 
-932
+1203
 
-Valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo
+Valstybinė darbo inspekcija prie
 
-ministerijos
+Socialinės apsaugos ir darbo ministerijos
 
 176
 
@@ -12436,49 +12098,57 @@ Valstybinė kelių transporto inspekcija
 
 Valstybinė geležinkelio inspekcija
 
-100
+200
 
-Valstybinė vidaus vandenų laivybos inspekcija
+Valstybinė vidaus vandenų laivybos
 
-741
+inspekcija
 
-Valstybinė metrologijos tarnyba prie Valdymo reformų ir
+641
 
-savivaldybių reikalų ministerijos
+5 priedėlio
 
-240
-
-5 priedėlio tęsinys
+tęsinys
 
 tūkst. Lt
 
-Valstybės institucijos ir kontroliuojančios organizacijos
+Valstybės
+
+institucijos ir kontroliuojančios organizacijos
 
 Iš viso
 
-Lietuvos standartizacijos departamentas prie Valdymo reformų
+Valstybinė metrologijos tarnyba prie
 
-ir savivaldybių reikalų ministerijos
+Valdymo reformų ir savivaldybių reikalų ministerijos
+
+240
+
+Lietuvos standartizacijos
+
+departamentas prie Valdymo reformų ir savivaldybių reikalų ministerijos
 
 580
 
-Nacionalinis akreditacijos biuras prie Valdymo reformų ir
+Nacionalinis akreditacijos biuras prie
 
-savivaldybių reikalų ministerijos
+Valdymo reformų ir savivaldybių reikalų ministerijos
 
 120
 
-Energetikos valstybinė inspekcija prie Ūkio ministerijos
+Energetikos valstybinė inspekcija prie
+
+Ūkio ministerijos
 
 400
 
-Žemėtvarkos ir teisės departamentas prie Žemės ūkio
+Žemėtvarkos
 
-ministerijos
+ir teisės departamentas prie Žemės ūkio ministerijos
 
 125
 
-Iš viso
+Iš viso:
 
-86403
+76862
 
