@@ -4,7 +4,7 @@ identifier: "TAR.0476E5B769F6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-24"
-last_updated: "2003-01-01"
+last_updated: "2004-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0476E5B769F6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,19 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pertekliaus mokesčio cukraus sektoriuje įstatymas
 
-LIETUVOS RESPUBLIKOS  BALTOJO CUKRAUS VIRŠKVOČIO MOKESČIO  ĮSTATYMAS
+Suvestinė redakcija nuo 2004-05-01 iki 2007-04-25
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 15-552, i. k. 1021010ISTA00IX-729
+
+Nauja redakcija nuo 2004-05-01:
+
+Nr. IX-2096, 2004-04-01, Žin. 2004, Nr. 57-1983 (2004-04-20) ; Žin. 2004, Nr. 59-0 (2004-04-23), i. k. 1041010ISTA0IX-2096
+
+LIETUVOS RESPUBLIKOS
+
+BALTOJO CUKRAUS VIRŠKVOČIO MOKESČIO
+
+Į S T A T Y M A S
 
 2002 m. sausio 24 d. Nr. IX-729
 
@@ -24,49 +36,93 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis Įstatymas reglamentuoja mokesčio už vidaus rinkoje realizuotą baltojo cukraus virškvotį (toliau - baltojo cukraus virškvočio mokestis) mokėjimo tvarką, kontrolę bei atsakomybę už šio Įstatymo pažeidimą.
+1. Šis Įstatymas reglamentuoja mokesčio už Europos Bendrijos vidaus rinkoje realizuotą baltojo cukraus virškvotį  (toliau – baltojo cukraus virškvočio mokestis) mokėjimo tvarką, kontrolę ir atsakomybę už šio Įstatymo pažeidimą.
+
+2. Šiuo Įstatymu įgyvendinami šio Įstatymo priede nurodyti Europos Sąjungos teisės aktai.
 
 2 straipsnis. Mokesčio objektas
 
-1. Baltojo cukraus virškvočio mokesčio objektas - Lietuvos Respublikoje realizuotas baltojo cukraus virškvotis.
+1. Baltojo cukraus virškvočio mokesčio objektas – Europos Bendrijoje  realizuotas baltojo cukraus virškvotis.
 
-2. Baltojo cukraus virškvotis - cukraus gamintojų pagamintas baltojo cukraus kiekis, viršijantis cukraus gamintojams nustatytą ir cukrinių runkelių augintojams skirtą gamybos kvotą.
+2. Baltojo cukraus virškvočio mokestis – tai cukraus gamintojų pagaminto baltojo cukraus kiekio, viršijančio cukraus gamintojams nustatytą gamybos kvotą, mokestis.
+
+3. Mokestinis laikotarpis – pagal Europos Sąjungos cukraus režimą nustatyti prekybos metai, kurie prasideda einamųjų metų liepos 1 dieną ir baigiasi kitų metų birželio 30 dieną.
 
 3 straipsnis. Mokesčio mokėtojai
 
-Baltojo cukraus virškvočio mokestį moka Lietuvos Respublikos cukraus gamintojai, realizavę vidaus rinkoje baltojo cukraus virškvotį.
+Baltojo cukraus virškvočio mokestį moka Lietuvos Respublikos cukraus gamintojai, realizavę Europos Bendrijos vidaus rinkoje baltojo cukraus virškvotį.
 
 4 straipsnis. Mokesčio tarifas
 
-Baltojo cukraus virškvočio mokesčio tarifas yra nustatomas vienai baltojo cukraus tonai ir yra lygus cukraus mokesčio dydžio ir maksimalios bendrojo cukraus importo muito tarifo normos sumai.
+Baltojo cukraus virškvočio mokesčio tarifas yra nustatomas 100 kilogramų baltojo cukraus ir yra lygus didžiausiam tais prekybiniais metais, kuriais šis cukrus buvo pagamintas, ir po to einančius 6 mėnesius  importo muitui,  pridėjus  1,21 euro už 100 kg.
 
-5 straipsnis. Mokesčio apskaičiavimo ir mokėjimo tvarka
+5 straipsnis. Mokesčio apskaičiavimo, deklaravimo ir mokėjimo tvarka
 
-1. Baltojo cukraus virškvočio mokestis apskaičiuojamas už visą per kalendorinius metus vidaus rinkoje realizuotą baltojo cukraus virškvotį.
+1. Baltojo cukraus virškvočio mokestis apskaičiuojamas už visą per mokestinį laikotarpį pagamintą ir Europos Bendrijos vidaus rinkoje realizuotą baltojo cukraus virškvotį.
 
-2. Baltojo cukraus virškvočio mokesčio mokėtojai kalendoriniams metams pasibaigus iki sausio 15 dienos privalo teritorinei valstybinei mokesčių inspekcijai pateikti baltojo cukraus virškvočio mokesčio deklaraciją.
+2. Cukraus gamintojai, pasibaigus mokestiniam laikotarpiui, iki kovo 15 dienos pateikia Žemės ūkio ministerijai informaciją apie cukraus gamybą, baltojo cukraus virškvotį ir baltojo cukraus virškvočio eksportą įrodančius dokumentus.
 
-3. Baltojo cukraus virškvočio mokesčio deklaracijos formą ir jos užpildymo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos.
+3. Jeigu nepateikiamas įrodymas, kad baltasis cukrus buvo išvežtas iš Europos Bendrijos iki sausio 1 dienos, pasibaigus tam  mokestiniam laikotarpiui, per kurį  baltojo cukraus virškvotis buvo pagamintas, laikoma, kad šis kiekis buvo realizuotas Europos Bendrijos vidaus rinkoje.
 
-4. Baltojo cukraus virškvočio mokestis sumokamas kalendoriniams metams pasibaigus iki vasario 1 dienos.
+4. Žemės ūkio ministerija iki kiekvienų metų balandžio 15 dienos apskaičiuoja praėjusio mokestinio laikotarpio baltojo cukraus virškvočio mokesčio sumas ir praneša cukraus gamintojams.
 
-5. Baltojo cukraus virškvočio mokesčio apskaičiavimo ir mokėjimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+5. Baltojo cukraus virškvočio mokesčio mokėtojai iki kiekvienų metų gegužės 1 dienos baltojo cukraus virškvočio mokesčio deklaraciją už pasibaigusio mokestinio laikotarpio virškvotį pateikia teritorinei valstybinei mokesčių inspekcijai, kurioje asmuo registruotas mokesčių mokėtoju.
 
-6. Baltojo cukraus virškvočio mokestis įskaitomas į valstybės biudžetą.
+6. Baltojo cukraus virškvočio mokesčio deklaracijos formą ir jos užpildymo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos.
+
+7. Iki kiekvienų metų gegužės 20 dienos cukraus gamintojai sumoka baltojo cukraus virškvočio mokestį, apskaičiuotą  šio straipsnio 5 dalyje nurodytoje deklaracijoje.
+
+8. Baltojo cukraus virškvočio mokestis sumokamas į teritorinės valsybinės mokesčių inspekcijos, kuriai buvo pateikta šio cukraus virškvočio deklaracija, sąskaitą.
 
 6 straipsnis. Mokesčio grąžinimas, įskaitymas ir išieškojimas
 
-Baltojo cukraus virškvočio mokestis išieškomas, grąžinamas ir įskaitomas Mokesčių administravimo įstatymo nustatyta tvarka.
+1. Baltojo cukraus virškvočio mokestis įskaitomas į valstybės biudžetą.
+
+2. Baltojo cukraus virškvočio mokestis išieškomas, grąžinamas ir įskaitomas Mokesčių administravimo įstatymo nustatyta tvarka.
 
 7 straipsnis. Mokesčio apskaičiavimo ir mokėjimo kontrolė
 
-Baltojo cukraus virškvočio mokesčio apskaičiavimą ir mokėjimą kontroliuoja Valstybinė mokesčių inspekcija prie Finansų ministerijos.
+1. Baltojo cukraus virškvočio mokesčio apskaičiavimą ir mokėjimą tikrina Žemės ūkio ministerija ar jos įgaliota institucija.
+
+2. Teritorinės valstybinės mokesčių inspekcijos pagal mokesčių mokėtojų pateiktas deklaracijas bei Žemės ūkio ministerijos ar jos įgaliotos institucijos tikrinimų dokumentus kontroliuoja, ar laiku sumokamas virškvočio mokestis,  išieško nesumokėtą mokestį ir su juo susijusias sumas.
+
+3. Valstybinė mokesčių inspekcija prie Finansų ministerijos ir teritorinės valstybinės mokesčių inspekcijos, taip pat  Žemės ūkio ministerija ar jos įgaliota institucija keičiasi baltojo cukraus virškvočio mokesčiui administruoti reikalinga informacija. Keitimosi informacija tvarką nustato Žemės ūkio ministerija, suderinusi su Valstybine mokesčių inspekcija prie Finansų ministerijos.
 
 8 straipsnis. Atsakomybė už šio Įstatymo pažeidimą
 
-1. Asmenys, pažeidę šį Įstatymą ar su juo susijusius kitus teisės aktus, atsako Lietuvos Respublikos teisės aktų nustatyta tvarka.
+1. Asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
 
-2. Jeigu nustatytu laiku baltojo cukraus virškvočio mokestis nesumokamas, skaičiuojami delspinigiai, kurie apskaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka. Baudos už baltojo cukraus virškvočio mokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimus taikomos Mokesčio administravimo įstatymo nustatyta tvarka.
+2. Mokesčio mokėtojams, pažeidusiems šio Įstatymo reikalavimus, baudos skiriamos ir delspinigiai skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Lietuvos Respublikos
+
+baltojo cukraus virškvočio
+
+mokesčio įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2001 m. birželio 19 d. Tarybos reglamentas (EB) Nr. 1260/2001 dėl bendro cukraus sektoriaus rinkų organizavimo, su pakeitimais, padarytais Komisijos reglamentu (EB) Nr. 680/2002;
+
+2. 1981 m. rugsėjo 14 d. Komisijos reglamentas (EEB) Nr. 2670/81, nustatantis išsamias virškvotinės cukraus produkcijos realizavimo taisykles, su paskutiniais pakeitimais, padarytais Komisijos reglamentu (EB) Nr. 95/2002.
+
+______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2096, 2004-04-01, Žin., 2004, Nr. 57-1983 (2004-04-20); Žin., 2004, Nr. 59-0 (2004-04-23), i. k. 1041010ISTA0IX-2096
+
+Lietuvos Respublikos baltojo cukraus virškvočio mokesčio įstatymo pakeitimo įstatymas
 
 9 straipsnis. Baigiamosios nuostatos
 
@@ -79,48 +135,4 @@ Vyriausybė ar jos įgaliota institucija per 2 mėnesius nuo šio Įstatymo pri�
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
-11 straipsnis. Informacijos teikimas
-
-Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija nustato informacijos apie baltojo cukraus perteklių ir pertekliaus mokesčio sumokėjimą teikimo suinteresuotoms institucijoms tvarką ir terminus.
-
-12 straipsnis. Atsakomybė už šio įstatymo pažeidimą
-
-1. Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
-
-2. Mokesčių mokėtojams, pažeidusiems šio įstatymo reikalavimus, baudos skiriamos ir delspinigiai skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
-Lietuvos Respublikos pertekliaus mokesčio
-
-cukraus sektoriuje įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2006 m. vasario 20 d. Tarybos reglamentas (EB) Nr. 318/2006 dėl bendro cukraus sektoriaus rinkų organizavimo (OL 2006 L 58, p. 1), su paskutiniais pakeitimais, padarytais 2006 m. spalio 24 d. Komisijos reglamentu (EB) Nr. 1585/2006 (OL 2006 L 294, p. 19).
-
-2. 2006 m. birželio 29 d. Komisijos reglamentas (EB) Nr. 967/2006, nustatantis Tarybos reglamento (EB) Nr. 318/2006 išsamias nekvotinės gamybos cukraus sektoriuje įgyvendinimo taisykles (OL 2006 L 176, p. 22).
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-2096, 2004-04-01, Žin., 2004, Nr. 57-1983 (2004-04-20); Žin., 2004, Nr. 59-0 (2004-04-23), i. k. 1041010ISTA0IX-2096
-
-Lietuvos Respublikos baltojo cukraus virškvočio mokesčio įstatymo pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1088, 2007-04-12, Žin., 2007, Nr. 46-1722 (2007-04-26), i. k. 1071010ISTA00X-1088
-
-Lietuvos Respublikos baltojo cukraus virškvočio mokesčio įstatymo pakeitimo įstatymas
 
