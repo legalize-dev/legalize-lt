@@ -4,7 +4,7 @@ identifier: "TAR.7B9B89F840E2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2001-01-01"
+last_updated: "2001-05-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7B9B89F840E2"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2000-06-27"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos lobistinės veiklos įstatymas
+
+Suvestinė redakcija nuo 2001-05-23 iki 2003-04-30
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 56-1644, i. k. 1001010ISTAIII-1749
 
 LIETUVOS RESPUBLIKOS LOBISTINĖS VEIKLOS ĮSTATYMAS
 
@@ -173,7 +177,11 @@ LOBISTŲ SĄRAŠAS
 
 2) pateikė neteisingus ar neišsamius šio straipsnio 2 ir 4 dalyse nurodytus duomenis ir papildomą informaciją.
 
-6. Apie priimtą sprendimą įrašyti ar atsisakyti įrašyti fizinį asmenį ar įmonę į lobistų sąrašą Vyriausioji tarnybinės etikos komisija praneša raštu fiziniam asmeniui ar įmonei per 5 darbo dienas nuo sprendimo priėmimo dienos. Fizinis asmuo arba įmonė, gavusi pranešimą apie sprendimą įrašyti fizinį asmenį ar įmonę į lobistų sąrašą, per 1 mėnesį nuo pranešimo gavimo dienos turi sumokėti žyminį mokestį ir pateikti Vyriausiajai tarnybinės etikos komisijai jo sumokėjimą patvirtinantį dokumentą. Fiziniam asmeniui arba įmonei, nustatytu laiku pateikusiems žyminio mokesčio sumokėjimą patvirtinantį dokumentą, išduodamas lobisto pažymėjimas, kurio formą nustato Vyriausioji tarnybinės etikos komisija. Jeigu fizinis asmuo arba įmonė nustatytu laiku nepateikia žyminio mokesčio sumokėjimą patvirtinančio dokumento, Vyriausioji tarnybinės etikos komisija sprendimą įrašyti fizinį asmenį ar įmonę į lobistų sąrašą panaikina ir priima sprendimą atsisakyti įrašyti fizinį asmenį ar įmonę į lobistų sąrašą.
+6. Apie priimtą sprendimą įrašyti ar atsisakyti įrašyti fizinį asmenį ar įmonę į lobistų sąrašą Vyriausioji tarnybinės etikos komisija praneša raštu fiziniam asmeniui ar įmonei per 5 darbo dienas nuo sprendimo priėmimo dienos. Fizinis asmuo arba įmonė, gavusi pranešimą apie sprendimą įrašyti fizinį asmenį ar įmonę į lobistų sąrašą, per 1 mėnesį nuo pranešimo gavimo dienos turi sumokėti valstybės rinkliavą ir pateikti Vyriausiajai tarnybinės etikos komisijai jos sumokėjimą patvirtinantį dokumentą. Fiziniam asmeniui arba įmonei, nustatytu laiku pateikusiems valstybės rinkliavos sumokėjimą patvirtinantį dokumentą, išduodamas lobisto pažymėjimas, kurio formą nustato Vyriausioji tarnybinės etikos komisija. Jeigu fizinis asmuo arba įmonė nustatytu laiku nepateikia valstybės rinkliavos sumokėjimą patvirtinančio dokumento, Vyriausioji tarnybinės etikos komisija sprendimą įrašyti fizinį asmenį ar įmonę į lobistų sąrašą panaikina ir priima sprendimą atsisakyti įrašyti fizinį asmenį ar įmonę į lobistų sąrašą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-308, 2001-05-08, Žin., 2001, Nr. 43-1488 (2001-05-23), i. k. 1011010ISTA00IX-308
 
 7. Vyriausiosios tarnybinės etikos komisijos sprendimą atsisakyti įrašyti į lobistų sąrašą fizinis asmuo ar įmonė turi teisę apskųsti Administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
@@ -269,7 +277,11 @@ LOBISTINĖS VEIKLOS KONTROLĖ IR INFORMACIJOS PATEIKIMAS
 
 3. Vyriausioji tarnybinės etikos komisija privalo:
 
-1) per 15 darbo dienų nuo dokumento, patvirtinančio žyminio mokesčio sumokėjimą, pateikimo Vyriausiajai tarnybinės etikos komisijai dienos ar nuo sprendimo sustabdyti, atnaujinti ar nutraukti lobistinę veiklą priėmimo dienos, ar nuo informacijos apie lobistinės veiklos pasibaigimą gavimo dienos „Valstybės žinių“ priede „Informaciniai pranešimai“ paskelbti šio įstatymo 13 straipsnio 2 dalyje nurodytą informaciją apie lobistus ir lobistinę veiklą;
+1) per 15 darbo dienų nuo dokumento, patvirtinančio valstybės rinkliavos sumokėjimą, pateikimo Vyriausiajai tarnybinės etikos komisijai dienos ar nuo sprendimo sustabdyti, atnaujinti ar nutraukti lobistinę veiklą priėmimo dienos, ar nuo informacijos apie lobistinės veiklos pasibaigimą gavimo dienos „Valstybės žinių“ priede „Informaciniai pranešimai“ paskelbti šio įstatymo 13 straipsnio 2 dalyje nurodytą informaciją apie lobistus ir lobistinę veiklą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-308, 2001-05-08, Žin., 2001, Nr. 43-1488 (2001-05-23), i. k. 1011010ISTA00IX-308
 
 2) ne rečiau kaip kartą per kalendorinius metus Lietuvos Respublikos Seimui pateikti lobistinės veiklos kontrolės metinę ataskaitą.
 
@@ -297,48 +309,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-16 straipsnis. Šio įstatymo pažeidimų tyrimo, nagrinėjimo ir baudų juridiniams asmenims skyrimo tvarka
-
-1. Vyriausioji tarnybinės etikos komisija nagrinėja šio įstatymo pažeidimus (toliau – pažeidimai). Pažeidimus tiria ir pažeidimų protokolus surašo tam įgalioti Vyriausiosios tarnybinės etikos komisijos nariai ar valstybės tarnautojai (toliau – pažeidimus tiriantys pareigūnai). Pažeidimus tiriantys pareigūnai turi teisę apklausti pažeidimo padarymu įtariamo juridinio asmens vadovus ir darbuotojus, asmenį, kuriam lobistine veikla siekiama daryti įtaką, ar kitus liudytojus, taip pat turi kitas šio įstatymo 11 straipsnio 3 dalyje nurodytas teises.
-
-2. Užbaigęs pažeidimo tyrimą, pažeidimą tiriantis pareigūnas surašo pažeidimo protokolą. Protokolas surašomas dviem egzemplioriais dalyvaujant pažeidimo padarymu įtariamo juridinio asmens įgaliotam atstovui. Apie pažeidimo protokolo surašymo laiką ir vietą juridinio asmens įgaliotam atstovui pranešama ne vėliau kaip prieš tris darbo dienas registruotu laišku, siunčiamu Juridinių asmenų registre nurodytu juridinio asmens buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. Juridinio asmens atstovo nedalyvavimas, jeigu jam buvo tinkamai pranešta, neužkerta kelio pažeidimo protokolui surašyti. Vienas protokolo egzempliorius nedelsiant įteikiamas juridinio asmens įgaliotam atstovui. Jeigu juridinio asmens įgaliotas atstovas nedalyvauja surašant pažeidimo protokolą, šio protokolo egzempliorius ne vėliau kaip per tris darbo dienas nuo protokolo surašymo dienos išsiunčiamas juridiniam asmeniui registruotu laišku Juridinių asmenų registre nurodytu buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. Kitas protokolo egzempliorius pateikiamas nagrinėti Vyriausiajai tarnybinės etikos komisijai.
-
-3. Pažeidimo protokole nurodoma: protokolo surašymo data ir vieta, protokolą surašiusio asmens pareigos, vardas, pavardė; duomenys apie pažeidimo padarymu įtariamą juridinį asmenį; pažeidimo padarymo vieta, laikas ir esmė; liudytojų, jeigu jų yra, vardai, pavardės, adresai; pažeidimo padarymu įtariamo juridinio asmens įgalioto atstovo pasiaiškinimas; terminas paaiškinimams dėl pažeidimo pateikti (jeigu pažeidimu įtariamo juridinio asmens atstovas nedalyvavo surašant pažeidimo protokolą), kita informacija, būtina pažeidimo bylai išnagrinėti. Pažeidimo protokolą pasirašo jį surašęs asmuo ir pažeidimo padarymu įtariamo juridinio asmens įgaliotas atstovas, išskyrus atvejus, kai protokolas surašytas pažeidimo padarymu įtariamo juridinio asmens įgaliotam atstovui nedalyvaujant. Jeigu surašant pažeidimo protokolą dalyvauja asmuo, kuriam lobistine veikla siekiama daryti įtaką, ar kiti liudytojai ir jų parodymai užfiksuoti protokole, jie taip pat pasirašo pažeidimo protokolą. Kai surašant pažeidimo protokolą liudytojai nedalyvauja, liudytojų parodymai įforminami atskirame apklausos protokole. Jeigu pažeidimo padarymu įtariamo juridinio asmens įgaliotas atstovas atsisako pasirašyti pažeidimo protokolą, tai įrašoma į pažeidimo protokolą. Pažeidimo padarymu įtariamo juridinio asmens įgaliotas atstovas turi teisę pateikti prie pažeidimo protokolo pridedamus paaiškinimus ir pastabas dėl protokolo turinio, taip pat išdėstyti savo atsisakymo jį pasirašyti motyvus.
-
-4. Pažeidimo byla nagrinėjama rašytinio proceso tvarka, į pažeidimo bylos nagrinėjimą nekviečiant pažeidimo padarymu įtariamo juridinio asmens atstovo. Pažeidimo padarymu įtariamas juridinis asmuo, jeigu jo atstovas nedalyvavo surašant pažeidimo protokolą, turi teisę per Vyriausiosios tarnybinės etikos komisijos nustatytą terminą, bet ne mažiau kaip per keturiolika darbo dienų iki pažeidimo nagrinėjimo dienos, pateikti paaiškinimus dėl pažeidimo. Prireikus prašymas pateikti parodymus, eksperto išvadą ar specialisto paaiškinimus pateikiamas ir liudytojams, ekspertams ir specialistams. Šie parodymai, išvada ir paaiškinimai turi būti pateikti per keturiolika dienų nuo prašymo išsiuntimo dienos. Jeigu bet kuriuo proceso metu pateikiama naujų įrodymų, pažeidimo padarymu įtariamam juridiniam asmeniui suteikiama teisė nedelsiant su jais susipažinti ir pateikti savo paaiškinimus dėl jų ne mažiau kaip per penkias darbo dienas nuo susipažinimo su pateiktais įrodymais. Paaiškinimų ar parodymų nepateikimas laiku neužkerta kelio pažeidimo bylai nagrinėti. Jeigu dėl priežasčių, kurias Vyriausioji tarnybinės etikos komisija pripažįsta nesvarbiomis, paaiškinimai ar parodymai pateikiami nesilaikant nustatyto termino, pažeidimo bylą nagrinėjantis subjektas turi teisę jų nenagrinėti ir grąžinti juos pateikusiems asmenims.
-
-5. Pažeidimo padarymu įtariamo juridinio asmens reikalavimu pažeidimo bylos nagrinėjimas vyksta žodinio proceso tvarka. Reikalavimas dėl žodinio pažeidimo bylos nagrinėjimo turi būti pateiktas ne vėliau kaip per septynias dienas nuo pažeidimo protokolo įteikimo dienos, o kai juridinio asmens įgaliotas atstovas nedalyvavo surašant pažeidimo protokolą, – nuo protokolo išsiuntimo dienos. Pažeidimo padarymu įtariamam juridiniam asmeniui šaukimas į posėdį išsiunčiamas ne vėliau kaip prieš dešimt darbo dienų iki posėdžio. Jeigu pažeidimo padarymu įtariamas juridinis asmuo neatvyksta į žodinį pažeidimo bylos nagrinėjimą, nors jam buvo tinkamai pranešta apie pažeidimo bylos nagrinėjimo datą, laiką ir vietą, ir nepateikia dokumentų, pateisinančių savo neatvykimą, pažeidimo byla nagrinėjama rašytinio proceso tvarka jam nedalyvaujant. Nagrinėjant pažeidimą žodinio proceso tvarka, gali dalyvauti asmuo, kuriam lobistine veikla siekiama daryti įtaką, ir pažeidimo padarymu įtariamo juridinio asmens atstovas, kuris turi teisę susipažinti su surinkta medžiaga, duoti paaiškinimus, pateikti prašymus. Jeigu posėdyje apklausiami liudytojai, pažeidimu įtariamo juridinio asmens atstovui suteikiama teisė jiems užduoti klausimų, taip pat siūlyti savo liudytojus, teikti kitus įrodymus. Pažeidimo nagrinėjimas, kai proceso dalyvis nedalyvauja, galimas tik tuo atveju, kai jam tinkamai pranešta apie posėdžio laiką ir vietą ir jis nepateikia dokumentų, pateisinančių savo neatvykimą. Tinkamu pranešimu laikytinas šaukimo išsiuntimas registruotu paštu Juridinių asmenų registre nurodytu juridinio asmens buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. Posėdis, kuriame išklausomi proceso dalyviai ir apklausiami liudytojai, yra viešas. Vyriausioji tarnybinės etikos komisija savo iniciatyva arba proceso dalyvių prašymu gali paskelbti posėdį ar jo dalį uždarą, jeigu tai būtina siekiant apsaugoti valstybės ar tarnybos paslaptį arba ūkio subjekto komercinę paslaptį, arba žmogaus asmeninio ar šeiminio gyvenimo slaptumą.
-
-6. Vyriausioji tarnybinės etikos komisija, išnagrinėjusi pažeidimą, priima vieną iš šių nutarimų:
-
-1) skirti šiame įstatyme nustatytą baudą;
-
-2) nutraukti pažeidimo bylą ir pareikšti žodinę pastabą, jeigu padarytas pažeidimas vertintinas kaip mažareikšmis teisės aktų pažeidimas;
-
-3) nutraukti pažeidimo bylą ir įteikti rašytinį nurodymą pašalinti pažeidimą, jeigu padarytas pažeidimas vertintinas kaip mažareikšmis teisės aktų pažeidimas;
-
-4) nutraukti pažeidimo bylą, jeigu nėra pažeidimo požymių arba panaikinama juridinio asmens atsakomybę nustatanti teisės akto nuostata, arba likviduotas juridinis asmuo, dėl kurio buvo pradėta pažeidimo byla, taip pat jeigu dėl to paties fakto juridiniam asmeniui priimtas nutarimas skirti baudą.
-
-7. Vyriausiosios tarnybinės etikos komisijos nutarime nurodoma: jį priėmusios institucijos pavadinimas, pažeidimo nagrinėjimo data ir vieta, duomenys apie pažeidėją, pažeidimo aplinkybės, įrodymai, kuriais grindžiamas šis nutarimas, pažeidėjo paaiškinimai ir jų vertinimas, šio įstatymo straipsnis, kuriame nustatyta atsakomybė už pažeidimą, priimtas sprendimas, jo įvykdymo tvarka, šio nutarimo apskundimo terminai ir tvarka.
-
-8. Vyriausiosios tarnybinės etikos komisijos nutarimai ne vėliau kaip per tris darbo dienas nuo nutarimo priėmimo dienos registruotu paštu išsiunčiami asmenims, dėl kurių jie priimti.
-
-17 straipsnis. Vyriausiosios tarnybinės etikos komisijos nutarimų apskundimo tvarka
-
-1. Vyriausiosios tarnybinės etikos komisijos nutarimą dėl baudos skyrimo juridinis asmuo, dėl kurio priimtas šis nutarimas, ar asmuo, kuriam lobistine veikla siekiama daryti įtaką, gali apskųsti teismui įstatymų nustatyta tvarka.
-
-2. Skundo dėl priimto Vyriausiosios tarnybinės etikos komisijos nutarimo pažeidimo byloje padavimas teismui sustabdo nutarimo vykdymą.
-
-18 straipsnis. Vyriausiosios tarnybinės etikos komisijos nutarimų vykdymas
-
-1. Paskirtos baudos, nurodytos šio įstatymo 14 straipsnio 1 dalyje, į valstybės biudžetą sumokamos ne vėliau kaip per trisdešimt dienų nuo nutarimo skirti baudą įteikimo juridiniam asmeniui dienos, o kai toks nutarimas apskundžiamas ir teismas skundo nepatenkina, – ne vėliau kaip per dvidešimt darbo dienų nuo teismo sprendimo įsiteisėjimo. Nesumokėtos baudos išieškomos Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
-
-2. Vyriausiosios tarnybinės etikos komisijos nutarimas yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. Vyriausiosios tarnybinės etikos komisijos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos. Šis terminas pratęsiamas tiek, kokiam laikui teismo sprendimu buvo sustabdytas Vyriausiosios tarnybinės etikos komisijos nutarimo skirti baudą vykdymas.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                   VALDAS ADAMKUS
-
 Pakeitimai:
 
 1.
@@ -348,36 +318,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-308, 2001-05-08, Žin., 2001, Nr. 43-1488 (2001-05-23), i. k. 1011010ISTA00IX-308
 
 Lietuvos Respublikos lobistinės veiklos įstatymo 8 ir 12 straipsnių pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1385, 2003-03-20, Žin., 2003, Nr. 35-1461 (2003-04-11), i. k. 1031010ISTA0IX-1385
-
-Lietuvos Respublikos lobistinės veiklos įstatymo pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2331, 2012-11-06, Žin., 2012, Nr. 132-6659 (2012-11-15), i. k. 1121010ISTA0XI-2331
-
-Lietuvos Respublikos lobistinės veiklos įstatymo 14 straipsnio pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-453, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11067
-
-Lietuvos Respublikos lobistinės veiklos įstatymo Nr. VIII-1749 pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-3170, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15502
-
-Lietuvos Respublikos lobistinės veiklos įstatymo Nr. VIII-1749 pakeitimo įstatymas
 
