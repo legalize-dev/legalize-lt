@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "1996-12-23"
+last_updated: "1997-02-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -16,11 +16,15 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.01.03)
+Ramunė Lūžaitė (1997.03.07)
+
+Neoficialus
+
+įstatymo tekstas
 
 Pakeitimai:
 
@@ -118,6 +122,20 @@ LIETUVOS
 
 RESPUBLIKOS AKCIZŲ ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-125, 97.02.25, Žin., 1997, Nr.20-447 (97.03.07)
+
+LIETUVOS
+
+RESPUBLIKOS AKCIZŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -131,6 +149,8 @@ A K C I Z Ų
 1994 m. balandžio 12 d. Nr.I-429
 
 Vilnius
+
+(Žin., 1994, Nr.30-530)
 
 1
 
@@ -146,27 +166,19 @@ straipsnis. Akcizų mokėtojai
 
 Akcizus
 
-į  biudžetą moka 3 straipsnyje išvardytų prekių gamintojai ir importuotojai -
+į biudžetą moka 3 straipsnyje išvardytų prekių gamintojai ir importuotojai -
 
-juridiniai ir fiziniai asmenys bei juridinio  asmens  teisių  neturinčios
+juridiniai ir fiziniai asmenys bei juridinio asmens teisių neturinčios įmonės.
 
-įmonės.  Laisvosiose ekonominėse zonose zonų įmonės akcizų nemoka.
+Laisvosiose ekonominėse zonose zonų įmonės akcizų nemoka.
 
 Už
 
-naftos  produktus, pagamintus  akcinėje  bendrovėje "Mažeikių
+naftos produktus, pagamintus akcinėje bendrovėje "Mažeikių nafta",
 
-nafta",  nesvarbu, iš kieno naftos šie produktai pagaminti, akcizus
+nesvarbu, iš kieno naftos šie produktai pagaminti, akcizus apskaičiuoja,
 
-apskaičiuoja, surenka ir moka akcinė bendrovė "Mažeikių nafta".
-
-Pasikeitus
-
-akcizų  tarifams, akcizų skirtumą, tenkantį prekių likučiui, esančiam
-
-mažmeninės ir didmeninės prekybos įmonėse, sumoka šios įmonės Lietuvos
-
-Respublikos Vyriausybės nustatyta tvarka ir terminais.
+surenka ir moka akcinė bendrovė "Mažeikių nafta".
 
 Straipsnio
 
@@ -183,6 +195,10 @@ Nr.
 Nr.
 
 1-1250, 96.03.28, Žin., 1996, Nr. 35-857 (96.04.19)
+
+Nr.
+
+VIII-125, 97.02.25, Žin., 1997, Nr.20-447 (97.03.07)
 
 3
 
@@ -212,9 +228,9 @@ monetas;
 
 5)
 
-variklių  benzinas,  žibalas,  kuras  reaktyviniams varikliams, gazolis
+variklių benzinas, žibalas, kuras reaktyviniams varikliams, gazolis (dyzelinis
 
-(dyzelinis kuras), skystasis krosnių kuras;
+kuras), skystasis krosnių kuras;
 
 6)
 
@@ -280,15 +296,15 @@ straipsnis. Apmokestinamoji apyvarta
 
 Akcizai
 
-apskaičiuojami  už šio  įstatymo 3 straipsnyje išvardytas prekes:
+apskaičiuojami už šio įstatymo 3 straipsnyje išvardytas prekes:
 
 1)
 
-iš  gatavos produkcijos  sandėlio  perduotas  kitam juridiniam ar fiziniam
+iš gatavos produkcijos sandėlio perduotas kitam juridiniam ar fiziniam
 
-asmeniui, ar juridinio asmens teisių neturinčiai įmonei,  kuriems, remiantis
+asmeniui, ar juridinio asmens teisių neturinčiai įmonei, kuriems, remiantis
 
-išrašytais prekių perdavimo dokumentais,  perleidžiama teisė jomis disponuoti.
+išrašytais prekių perdavimo dokumentais, perleidžiama teisė jomis disponuoti.
 
 Šiuose dokumentuose turi būti Lietuvos Respublikos buhalterinės apskaitos
 
@@ -330,7 +346,7 @@ skyriuje nustatyta tvarka atleidžiamos nuo muito;
 
 neišpilstyti alkoholiniai gėrimai ir jų žaliava, jeigu juos importuoja
 
-alkoholiniams gėrimams  gaminti valstybinės įmonės, turinčios teisę gaminti
+alkoholiniams gėrimams gaminti valstybinės įmonės, turinčios teisę gaminti
 
 šiuos gėrimus;
 
@@ -344,17 +360,17 @@ per Lietuvos Respublikos muitų teritoriją gabenamos tranzitu prekės.
 
 Taip
 
-pat  akcizas  netaikomas,  kai  etilo  alkoholis parduodamas:
+pat akcizas netaikomas, kai etilo alkoholis parduodamas:
 
 1)
 
-Lietuvos  Respublikos  įmonėms  degtinei,  likeriui, trauktinėms, vynui, midui,
+Lietuvos Respublikos įmonėms degtinei, likeriui, trauktinėms, vynui, midui,
 
 actui gaminti;
 
 2)
 
-farmacijos  įmonėms ir medicinos pagalbos įstaigoms medicinos ir farmacijos
+farmacijos įmonėms ir medicinos pagalbos įstaigoms medicinos ir farmacijos
 
 reikmėms; veterinarinių vaistų gamybos įmonėms - veterinarinių vaistų gamybai
 
@@ -402,7 +418,7 @@ mėnesio 30 dienos - už mėnesio pirmąjį dešimtadienį;
 
 iki
 
-kito  mėnesio 10  dienos -  už  mėnesio  antrąjį dešimtadienį;
+kito mėnesio 10 dienos - už mėnesio antrąjį dešimtadienį;
 
 iki
 
@@ -418,11 +434,9 @@ Už
 
 Lietuvos Respublikoje pagamintus ir įvežamus alkoholinius gėrimus, tabako
 
-gaminius  bei  naftos  produktus  Lietuvos Respublikos  Vyriausybė  gali
+gaminius bei naftos produktus Lietuvos Respublikos Vyriausybė gali nustatyti
 
-nustatyti  kitokią  akcizo apskaičiavimo ir mokėjimo į biudžetą tvarką bei
-
-terminus.
+kitokią akcizo apskaičiavimo ir mokėjimo į biudžetą tvarką bei terminus.
 
 Straipsnio
 
@@ -438,9 +452,9 @@ straipsnis. Akcizų išieškojimas
 
 Laiku
 
-nesumokėtas  akcizų, baudų ir delspinigių sumas išieško valstybinės mokesčių
+nesumokėtas akcizų, baudų ir delspinigių sumas išieško valstybinės mokesčių
 
-inspekcijos Lietuvos Respublikos mokesčių  administravimo  įstatymo  nustatyta
+inspekcijos Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta
 
 tvarka,o laiku nesumokėtų importo akcizų ir delspinigių sumas išieško muitinės
 
@@ -468,9 +482,9 @@ akcizų grąžinimas
 
 Nepagrįstai
 
-sumokėtus (išieškotus) akcizus grąžina Lietuvos Respublikos  Vyriausybės
+sumokėtus (išieškotus) akcizus grąžina Lietuvos Respublikos Vyriausybės
 
-įgaliotos  valstybės  institucijos Lietuvos Respublikos mokesčių administravimo
+įgaliotos valstybės institucijos Lietuvos Respublikos mokesčių administravimo
 
 įstatymo nustatyta tvarka.
 
@@ -492,17 +506,17 @@ straipsnis. Sankcijos už įstatymo pažeidimus
 
 Jei
 
-mokėtojas nepateikė akcizų apyskaitos arba pateiktose akcizų  apyskaitose
+mokėtojas nepateikė akcizų apyskaitos arba pateiktose akcizų apyskaitose
 
-akcizai  yra  sumažinti,  papildomai apskaičiuotas akcizas, baudos ir
+akcizai yra sumažinti, papildomai apskaičiuotas akcizas, baudos ir delspinigiai
 
-delspinigiai išieškomi Lietuvos Respublikos mokesčių administravimo įstatymo
+išieškomi Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta
 
-nustatyta tvarka.
+tvarka.
 
 Laiku
 
-nesumokėjus  akcizų, imami delspinigiai Lietuvos Respublikos mokesčių
+nesumokėjus akcizų, imami delspinigiai Lietuvos Respublikos mokesčių
 
 administravimo įstatymo nustatyta tvarka.
 
@@ -510,7 +524,7 @@ Jeigu
 
 nesilaikoma nustatytos muitinės procedūrų atlikimo tvarkos ir laiku
 
-nepateikiama importo arba eksporto muitinės deklaracija,  laikas, per kurį turi
+nepateikiama importo arba eksporto muitinės deklaracija, laikas, per kurį turi
 
 būti sumokėti akcizai, skaičiuojamas nuo tos dienos, kai ši deklaracija turėjo
 
@@ -552,13 +566,13 @@ kodavimo sistemą bei akcizų tarifus;
 
 3)
 
-automobilių  priskyrimo  prabangiųjų  automobilių kategorijai tvarką.
+automobilių priskyrimo prabangiųjų automobilių kategorijai tvarką.
 
 Vadovaudamasi
 
 šio įstatymo 3 straipsniu, konkrečias akcizais apmokestinamas prekes ir tarifus
 
-iki 1998 m. sausio 1 d. nustato Lietuvos Respublikos  Vyriausybė. Nuo  1998 metų
+iki 1998 m. sausio 1 d. nustato Lietuvos Respublikos Vyriausybė. Nuo 1998 metų
 
 konkrečias akcizais apmokestinamas prekes ir tarifus tvirtina Lietuvos
 
@@ -578,7 +592,7 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS            ALGIRDAS BRAZAUSKAS
+PREZIDENTAS      ALGIRDAS BRAZAUSKAS
 
 1 straipsnis.
 
