@@ -4,7 +4,7 @@ identifier: "TAR.C543D39A1A6E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-11"
-last_updated: "2000-10-10"
+last_updated: "2000-12-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C543D39A1A6E"
 department: "Lietuvos Respublikos Seimas"
@@ -611,29 +611,11 @@ Nr. VIII-1976, 2000 10 10, Žin., 2000, Nr.
 
 darbą
 
-1.
+1. Pasibaigus Seimo nario įgaliojimų laikui Seimo statuto 8
 
-Pasibaigus Seimo nario įgaliojimų laikui Seimo statuto 8 straipsnio 1 ir 3
+straipsnio 1 ir 3 punktuose numatytais atvejais, Seimo narys turi teisę Valstybės tarnybos įstatymo
 
-punktuose numatytais atvejais, jam turi būti suteiktas iki išrinkimo dirbtas
-
-darbas arba pareigos valstybinėje įmonėje, įstaigoje ar organizacijoje,
-
-išskyrus Vyriausybės nario ir renkamas valdymo institucijos pareigas. Jei
-
-buvusios pareigos panaikintos arba įmonė, įstaiga ar organizacija likviduota,
-
-turi būti suteiktas kitas tolygus darbas arba pareigos toje pačioje įmonėje,
-
-įstaigoje, organizacijoje arba, jeigu Seimo narys sutinka, kitoje valstybinėje
-
-įmonėje, įstaigoje, organizacijoje. Seimo narys taip pat turi teisę kreiptis į
-
-Valdymo reformų ir savivaldybių reikalų ministeriją, kuri informuoja buvusį
-
-Seimo narį apie laisvas valdininkų darbo vietas jo nuolatinėje gyvenamojoje
-
-vietovėje ir, jeigu jis sutinka, įdarbina.
+nustatyta tvarka grįžti į ankstesnį darbą.
 
 2.
 
@@ -652,6 +634,12 @@ metų nepertraukiamai truko jo kadencija Seime ar Seime ir Lietuvos Respublikos
 Aukščiausiojoje Taryboje, bet ne mažesnė nei 2 vidutinių pareiginių atlyginimų
 
 dydžio.
+
+Straipsnio pakeitimai:
+
+Nr. IX-121, 2000 12 21, Žin., 2000, Nr.
+
+111-3580 (2000 12 29), įsigalioja nuo 2001 01 01
 
 PENKTASIS SKIRSNIS
 
@@ -745,19 +733,19 @@ viešbutyje. Gyvenamoji patalpa Seimo viešbutyje pirmąja eile suteikiama Seimo
 
 nariui, neturinčiam gyvenamosios patalpos Vilniuje.
 
-2. Seimo nariams, išskyrus turintiems gyvenamąsias patalpas
+2. Seimo nariams, išskyrus turintiems gyvenamąsias
 
-Vilniuje ir 25 km nuo Vilniaus administracinės ribos, gyvenimo Seimo viešbutyje
+patalpas Vilniuje ir 25 km nuo Vilniaus administracinės ribos, gyvenimo Seimo
 
-išlaidos (už šaltą ir karštą vandenį, elektros energiją, dujas, šiluminę
+viešbutyje išlaidos (už šaltą ir karštą vandenį, elektros energiją, dujas,
 
-energiją ir komunalines paslaugas) kompensuojamos Seimo valdybos nustatyta
+šiluminę energiją ir komunalines paslaugas) kompensuojamos Seimo valdybos
 
-tvarka. Kiti Seimo viešbutyje gyvenantys Seimo nariai moka už šaltą ir karštą
+nustatyta tvarka. Kiti Seimo viešbutyje gyvenantys Seimo nariai moka už šaltą
 
-vandenį, elektros energiją, dujas, šiluminę energiją ir komunalines paslaugas
+ir karštą vandenį, elektros energiją, dujas, šiluminę energiją ir komunalines
 
-Seimo viešbutyje pagal patvirtintus tarifus.
+paslaugas Seimo viešbutyje pagal patvirtintus tarifus.
 
 3. Nutrūkus Seimo nario įgaliojimams, buvęs Seimo
 
@@ -787,9 +775,9 @@ straipsnis. Seimo narių darbo sąlygų įstatymo įgyvendinimas
 
 1.
 
-Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo
+Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo įstatymu,
 
-įstatymu, sudaro Seimo kanceliarija, savivaldybės.
+sudaro Seimo kanceliarija, savivaldybės.
 
 2.
 
@@ -913,7 +901,29 @@ dienos, kurią 2000 m. spalio 8 d. naujai išrinktas Seimas susirenka į pirmą
 
 posėdį, tai yra nuo 2000 m. spalio 19 d.
 
+5.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. IX-121, 2000 12 21, Žin., 2000, Nr.
+
+111-3580 (2000 12 29)
+
+SEIMO NARIŲ DARBO SĄLYGŲ
+
+ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2001
+
+m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000 10 31)
+Redagavo: Aušrinė
+
+Trapinskienė (2001 01 08)
+
+autrap@lrs.lt
 
