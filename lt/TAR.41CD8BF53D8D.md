@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2002-04-23"
+last_updated: "2002-09-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -198,11 +198,11 @@ nepilnamečių vaikų civilinės būklės aktų ištaisymą pasikeitus įrašams
 
 civilinės būklės aktuose;
 
-2) asmenys už
+2) asmenys už vardo, pavardės, tėvo
 
-vardo, pavardės, tėvo vardo pakeitimą, papildymą ir ištaisymą tikslinant
+vardo pakeitimą, papildymą ir ištaisymą tikslinant įrašus, padarytus
 
-įrašus, padarytus registruojant aktus okupacijų metais;
+registruojant aktus okupacijų metais;
 
 3) Užsienio
 
@@ -230,6 +230,26 @@ invalidai - už Lietuvos Respublikos piliečio paso išdavimą bei paso pakeitim
 
 už dokumento, patvirtinančio asmens gyvenamąją vietą, išdavimą;
 
+[2 dalies 1
+
+punkto redakcija nuo 2003 m. sausio 1 d.:
+
+1) asmenys,
+
+turintys teisę gauti socialinę pašalpą Lietuvos Respublikos Vyriausybės
+
+nustatyta tvarka, vaikai, kuriems nustatyta globa ir rūpyba, valstybės
+
+išlaikomi stacionariose globos įstaigose asmenys, vieniši asmenys, sukakę
+
+senatvės pensijos amžių, nustatytą Valstybinių socialinio draudimo pensijų
+
+įstatyme, I ir II grupių invalidai, vaikai invalidai iki 16 metų – už asmens
+
+tapatybės kortelės ir paso išdavimą bei pakeitimą, už dokumento, patvirtinančio
+
+asmens gyvenamąją vietą, išdavimą;]
+
 2) politiniai
 
 kaliniai, tremtiniai, rezistencijos dalyviai - už Lietuvos Respublikos piliečio
@@ -237,6 +257,18 @@ kaliniai, tremtiniai, rezistencijos dalyviai - už Lietuvos Respublikos pilieči
 paso išdavimą bei paso pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens
 
 be pilietybės kelionės dokumento bei vizos išdavimą ir pratęsimą;
+
+[2 dalies 2
+
+punkto redakcija nuo 2003 m. sausio 1 d.:
+
+2) politiniai kaliniai, tremtiniai,
+
+rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei
+
+pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės
+
+dokumento bei vizos išdavimą ir pratęsimą;]
 
 3) asmenys iki
 
@@ -308,6 +340,14 @@ aukštesniąsias, profesines ir bendrojo lavinimo mokyklas, - už vizų išdavim
 
 pratęsimą.
 
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-1077,
+
+2002-09-17, Žin., 2002, Nr. 95-4086 (2002-10-02)
+
 7
 
 straipsnis. Valstybės rinkliavos lengvatos
@@ -356,9 +396,9 @@ Nr.IX-847,
 
 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
 
-10
+10 straipsnis.
 
-straipsnis. Valstybės rinkliavos grąžinimas
+Valstybės rinkliavos grąžinimas
 
 1. Sumokėta
 
@@ -632,9 +672,9 @@ straipsnis. Įstatymo įsigaliojimas
 
 įsigalioja nuo 2001 m. sausio 1 d., išskyrus 17 straipsnį.
 
-2. Įsigaliojus
+2. Įsigaliojus šiam
 
-šiam įstatymui, netenka galios:
+įstatymui, netenka galios:
 
 1) Lietuvos
 
@@ -700,13 +740,33 @@ RINKLIAVŲ
 
 ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1077,
+
+2002-09-17, Žin., 2002, Nr. 95-4086 (2002-10-02)
+
+RINKLIAVŲ
+
+ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2002-05-07)
+Aušrinė Trapinskienė (2002-10-03)
 
-ausra.bodin@lrs.lt
+autrap@lrs.lt
 
