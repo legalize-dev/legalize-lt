@@ -4,7 +4,7 @@ identifier: "TAR.47BB952431DA"
 country: "lt"
 rank: "konstitucija"
 publication_date: "1992-10-25"
-last_updated: "1992-11-02"
+last_updated: "1996-07-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"
 department: "Piliečių referendumas"
@@ -13,6 +13,10 @@ published_in_tar: "1992-10-25"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Konstitucija
+
+Suvestinė redakcija nuo 1996-07-21 iki 1997-01-12
+
+Konstitucija paskelbtas: Lietuvos aidas 1992, Nr. 220-0; Žin. 1992, Nr.33-1014, i. k. 0921010KONSRG922324
 
 LIETUVOS RESPUBLIKOS
 
@@ -399,6 +403,12 @@ Valstybė gina vartotojo interesus.
 47 straipsnis
 
 Žemė, vidaus vandenys, miškai, parkai nuosavybės teise gali priklausyti tik Lietuvos Respublikos piliečiams ir valstybei.
+
+Savivaldybėms, kitiems nacionaliniams subjektams, taip pat tiems ūkinę veiklą Lietuvoje vykdantiems užsienio subjektams, kurie nustatyti konstitucinio įstatymo pagal Lietuvos Respublikos pasirinktos europinės ir transatlantinės integracijos kriterijus, gali būti leidžiama įsigyti nuosavybėn ne žemės ūkio paskirties žemės sklypus, reikalingus jų tiesioginei veiklai skirtiems pastatams ir įrenginiams statyti bei eksploatuoti. Tokio sklypo įsigijimo nuosavybėn tvarką, sąlygas ir apribojimus nustato konstitucinis įstatymas.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-1390, 1996-06-20, Žin., 1996, Nr. 64-1501 (1996-07-05), i. k. 0961010ISTA00I-1390
 
 Žemės sklypai nuosavybės teise įstatymų nustatyta tvarka ir sąlygomis gali priklausyti užsienio valstybei – jos diplomatinėms ir konsulinėms įstaigoms įkurti.
 
@@ -1351,4 +1361,14 @@ AUKŠČIAUSIOSIOS TARYBOS
 PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
 
 Vilnius, 1992 m. lapkričio 6 d.
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1390, 1996-06-20, Žin., 1996, Nr. 64-1501 (1996-07-05), i. k. 0961010ISTA00I-1390
+
+Lietuvos Respublikos Konstitucijos 47 straipsnio papildymo įstatymas
 
