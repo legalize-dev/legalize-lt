@@ -4,7 +4,7 @@ identifier: "TAR.7055451E838B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-04"
-last_updated: "1997-12-01"
+last_updated: "1999-07-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
+
+Suvestinė redakcija nuo 1999-07-30 iki 1999-10-26
+
+Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS IR SAVIVALDYBIŲ TURTO PRIVATIZAVIMO ĮSTATYMAS
 
@@ -50,7 +54,17 @@ BENDROSIOS NUOSTATOS
 
 1. Šio įstatymo paskirtis – nustatyti valstybės ir savivaldybių turto privatizavimą už pinigus.
 
-2. Privatizavimo objektai privačios nuosavybės teise gali būti perleisti tik pagal šį įstatymą.Valstybei ar savivaldybei nuosavybės teise priklausančios akcijos ir kitas turtas kitų asmenų nuosavybėn gali būti perleistas pagal šį įstatymą, jei kituose įstatymuose nenustatyta kitaip.
+2. Privatizavimo objektai privačios nuosavybės teise gali būti perleisti pagal šį įstatymą ir šio straipsnio 3 dalyje nurodytu atveju pagal Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymą. Valstybei ar savivaldybei nuosavybės teise priklausančios akcijos ir kitas turtas kitų asmenų nuosavybėn gali būti perleistas pagal šį įstatymą, jei kituose įstatymuose nenustatyta kitaip
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+
+3. Valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, privatizavimo institucijos gali parduoti Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymo nustatyta tvarka, kai yra pateiktas oficialus privalomas pasiūlymas.
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 ANTRASIS SKIRSNIS
 
@@ -116,11 +130,21 @@ PRIVATIZAVIMO INSTITUCIJOS
 
 1) pritarti ar nepritarti objektų privatizavimo programų projektams;
 
-2) pritarti ar nepritarti privatizavimo sandorių projektams, išskyrus Nacionalinėje vertybinių popierių biržoje sudarytus privatizavimo sandorius;
+2) pritarti ar nepritarti privatizavimo sandorių projektams, išskyrus vertybinių popierių biržose sudarytus privatizavimo sandorius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 3) pritarti ar nepritarti strateginių investitorių sąrašo projektui;
 
-4) šio įstatymo numatytais atvejais sustabdyti objekto privatizavimo programos vykdymą ir(ar) pripažinti, kad ši programa baigta.
+4) šio įstatymo numatytais atvejais sustabdyti objekto privatizavimo programos vykdymą ir(ar) pripažinti, kad ši programa baigta;
+
+5) pritarti ar nepritarti valstybei, taip pat savivaldybei nuosavybės teise priklausančių akcijų paketų pagal sutartį perduotų privatizuoti valstybės įmonei Valstybės turto fondas, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, pardavimui, kai Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymo nustatyta tvarka yra pateiktas oficialus privalomas pasiūlymas pirkti šį akcijų paketą.
+
+Papildyta straipsnio punktu:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 5. Privatizavimo komisija turi teisę įpareigoti Turto fondą atlikti jai svarstyti pateiktų dokumentų papildomą ekspertizę. Privatizavimo dokumentų ekspertizei atlikti Privatizavimo komisija turi teisę deleguoti savo atstovą ar atstovus.
 
@@ -134,7 +158,11 @@ PRIVATIZAVIMO INSTITUCIJOS
 
 1. Savivaldybių turto privatizavimo komisijos steigiamos savivaldybių tarybų sprendimu.
 
-2. Savivaldybių turto privatizavimo komisijos narių skaičių ir jų personalinę sudėtį nustato savivaldybės taryba. Savivaldybių turto privatizavimo komisijos savivaldybės lygiu atlieka tas pačias funkcijas kaip ir Privatizavimo komisija.
+2. Savivaldybių turto privatizavimo komisijų narių skaičių ir jų personalinę sudėtį nustato savivaldybės taryba. Savivaldybių turto privatizavimo komisijos savivaldybių lygiu atlieka tas pačias funkcijas kaip ir Privatizavimo komisija. Jei savivaldybės taryba nesteigia savivaldybės turto privatizavimo komisijos, jos funkcijas atlieka Privatizavimo komisija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 3. Savivaldybių turto privatizavimo komisijos nuostatus tvirtina savivaldybės taryba.
 
@@ -146,11 +174,17 @@ PRIVATIZAVIMO INSTITUCIJOS
 
 1. Privatizavimo lėšos yra:
 
-1) įplaukos, gautos iš privatizavimo sandorių;
+1) pajamos, gautos iš privatizavimo sandorių ir pardavus valstybei (savivaldybei) nuosavybės teise priklausančius akcijų paketus pagal Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymą, kai yra pateiktas oficialus privalomas pasiūlymas;
 
-2) palūkanos ir delspinigiai už atidėtus mokėjimus pagal privatizavimo sandorius;
+2) palūkanos už atidėtas įmokas ir netesybos (baudos ir delspinigiai už privatizavimo sandoriuose numatytų sąlygų nevykdymą);
 
-3) kitos įplaukos (tarptautinių organizacijų parama, pajamos už papildomai teikiamas paslaugas, duomenų bazės naudojimą ir kitos įplaukos).
+3) kitos pajamos (tarptautinių organizacijų parama, pajamos už papildomai teikiamas paslaugas, duomenų bazės naudojimą ir kitos pajamos);
+
+4) kitos įplaukos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 2. Jei privatizavimo objektas nuosavybės teise priklauso valstybei, tai šio straipsnio 1 dalies 1 ir 2 punktuose nurodytos privatizavimo lėšos pervedamos į Finansų ministerijai atidarytą privatizavimo fondo sąskaitą (išskyrus šio įstatymo 18 straipsnyje nustatytą privatizavimo būdą), o jei privatizavimo objektas nuosavybės teise priklauso savivaldybei – į savivaldybės specialiąją sąskaitą.
 
@@ -164,9 +198,19 @@ PRIVATIZAVIMO INSTITUCIJOS
 
 4) išlaidoms, susijusioms su šiame įstatyme nustatytų Privatizavimo komisijos ir Turto fondo funkcijų įgyvendinimu;
 
-5) ekspertų paslaugoms apmokėti.
+5) ekspertų paslaugoms apmokėti;
 
-4. Turto fondui pervedama privatizavimo lėšų dalis nustatoma procentais nuo šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų įplaukų į privatizavimo fondo sąskaitą. Šį procentinį dydį Finansų ministerijos teikimu kas pusę metų tvirtina Vyriausybė. Privatizavimo komisijos funkcijoms įgyvendinti lėšas pagal Finansų ministerijos pateiktą sąmatą kas pusę metų skiria Vyriausybė. Vyriausybė nustato ir privatizavimo fondo lėšų apskaitos ir naudojimo tvarką. Vyriausybė periodiškai informuoja Seimą apie privatizavimo lėšų naudojimą.
+6) objektų parengimui privatizuoti pagal Vyriausybės nustatytą tvarką.
+
+Papildyta straipsnio punktu:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+
+4. Turto fondui pervedama privatizavimo lėšų dalis nustatoma procentais nuo šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų pajamų, gautų pinigais, į privatizavimo fondo sąskaitą. Šį procentą Finansų ministerijos teikimu kas pusę metų tvirtina Vyriausybė. Privatizavimo komisijos funkcijoms įgyvendinti lėšas pagal Finansų ministerijos pateiktą sąmatą kas pusę metų skiria Vyriausybė. Vyriausybė nustato ir privatizavimo fondo lėšų apskaitos ir naudojimo tvarką. Vyriausybė periodiškai informuoja Seimą apie privatizavimo lėšų naudojimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 5. Privatizavimo lėšos, gautos privatizavus savivaldybei nuosavybės teise priklausantį turtą, atskaičius Turto fondui priklausančias lėšas pagal Turto fondo ir savivaldybės įgalioto atstovo pasirašytą atstovavimo sutartį, pervedamos į savivaldybės specialiąją sąskaitą. Savivaldybei tenkančių lėšų naudojimo tvarką nustato savivaldybės taryba.
 
@@ -244,7 +288,11 @@ OBJEKTŲ PARENGIMAS PRIVATIZUOTI
 
 10. Objektų, kurie Lietuvos Respublikos įstatymų nustatyta tvarka yra valstybės saugomi, privatizavimo programos gali būti tvirtinamos tik suderinus jų naudojimo sąlygas su institucija, atliekančia tokių objektų valstybinę priežiūrą.
 
-11. Vyriausybei patvirtinus privatizavimo objektų sąrašą, kiekvienas potencialus pirkėjas turi teisę pateikti iniciatyvinį pasiūlymą pirkti mažesnį kaip 1/3 nominalios vertės įmonės akcijų paketą arba pastatą ar įrenginį. Tokio iniciatyvinio pasiūlymo pateikimo tvarką ir sąlygas nustato Vyriausybė. Jei potencialus pirkėjas iniciatyvinį pasiūlymą pateikia pagal Vyriausybės nustatytus reikalavimus, tokio objekto privatizavimo programa turi būti parengta per Vyriausybės nustatytą laiką.
+11. Kai Vyriausybė patvirtina privatizavimo objektų sąrašą, kiekvienas potencialus pirkėjas turi teisę pateikti iniciatyvinį pasiūlymą pirkti ilgalaikį materialųjį turtą ir (ar) akcijų paketą tų įmonių, kuriose valstybei nuosavybės teise priklauso mažiau kaip 1/3 akcijų. Tokio iniciatyvinio pasiūlymo pateikimo tvarką ir sąlygas nustato Vyriausybė. Jei potencialus pirkėjas iniciatyvinį pasiūlymą pateikia pagal Vyriausybės nustatytus reikalavimus, tokio objekto privatizavimo programa turi būti parengta per Vyriausybės nustatytą laiką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, o jo privatizavimo programa gali būti sustabdyta ir(ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, ar dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas.
 
@@ -314,7 +362,11 @@ PRIVATIZAVIMO BŪDAI IR PRIVATIZAVIMO OBJEKTO ĮSIGIJIMAS
 
 1. Viešas akcijų pardavimas – valstybei ar savivaldybei nuosavybės teise priklausančių akcijų pardavimo būdas, kai akcijos parduodamos neribojant nei pirkėjų, nei jų perkamų akcijų skaičiaus, o akcijų pardavimo kaina nustatoma pagal paklausos ir pasiūlos santykį.
 
-2. Akcinių bendrovių akcijos parduodamos Nacionalinėje vertybinių popierių biržoje pagal šios biržos nustatytas taisykles. Valstybės ar savivaldybės vertybiniams popieriams Nacionalinėje vertybinių popierių biržoje parduoti Turto fondas ar tam tikra savivaldybės institucija turi teisę samdyti vertybinių popierių viešosios apyvartos tarpininką.
+2. Akcinių bendrovių akcijos parduodamos vertybinių popierių biržose pagal šių biržų nustatytas taisykles. Valstybės ar savivaldybės vertybiniams popieriams vertybinių popierių biržose parduoti Turto fondas ar tam tikra savivaldybės institucija turi teisę samdyti vertybinių popierių viešosios apyvartos tarpininką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 3. Uždarųjų akcinių bendrovių akcijos viešo akcijų pardavimo būdu neparduodamos.
 
@@ -324,7 +376,11 @@ PRIVATIZAVIMO BŪDAI IR PRIVATIZAVIMO OBJEKTO ĮSIGIJIMAS
 
 2. Viešame aukcione gali būti parduodami privatizavimo objektai, kurie privatizuojami norint gauti didžiausias įplaukas, tačiau papildomai turi būti įvykdytos objekto privatizavimo programoje nustatytos sąlygos. Viešame aukcione gali būti parduodami tik akcinių ar uždarųjų akcinių bendrovių akcijų paketai ir ilgalaikis materialusis turtas. Jei objekto privatizavimo sąlygos buvo nurodytos, sudarant privatizavimo sandorį jos negali būti keičiamos.
 
-3. Jei viešame aukcione yra parduodamas uždarosios akcinės bendrovės akcijų paketas, tai informacinis memorandumas ar prospektas apie šią uždarąją akcinę bendrovę nerengiamas. Jei viešame aukcione yra parduodamas akcinės bendrovės akcijų paketas, apie šią bendrovę turi būti rengiamas informacinis leidinys Turto fondo nustatyta tvarka.
+3. Jei viešame aukcione yra parduodamas uždarosios akcinės bendrovės, kurioje valstybei nuosavybės teise priklauso daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime suteikiantis akcijų paketas ar akcinės bendrovės akcijų paketas, apie šią bendrovę turi būti rengiamas informacinis leidinys Turto fondo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 16 straipsnis. Viešas konkursas
 
@@ -340,7 +396,11 @@ PRIVATIZAVIMO BŪDAI IR PRIVATIZAVIMO OBJEKTO ĮSIGIJIMAS
 
 1. Tiesioginės derybos – vieno ar kelių privatizavimo objektų perdavimas tiesioginių derybų laimėtojui, kurio rašytiniai kainos ir investiciniai pasiūlymai (pinigai, skirti įsigyti ilgalaikį ir trumpalaikį materialųjį turtą didinant akcinės ar uždarosios akcinės bendrovės įstatinį kapitalą), įvykdžius privatizavimo sąlygose nustatytus darbo vietų minimalius reikalavimus, yra geriausi.
 
-2. Tiesioginės derybos su vienu ar daugiau potencialių pirkėjų – strateginių investitorių, kurių sąrašui kartu su objekto privatizavimo programa pritarė Privatizavimo komisija ir patvirtino Vyriausybė, gali būti vykdomos šio įstatymo nustatyta tvarka skelbiant informaciją apie privatizavimo objektą. Tiesioginėse derybose turi teisę dalyvauti ir kiekvienas potencialus pirkėjas, tenkinantis tiesioginių derybų sąlygas.
+2. Tiesioginės derybos su vienu ar daugiau potencialių pirkėjų - strateginių investitorių, kurių sąrašui kartu su objekto privatizavimo programa pritarė Privatizavimo komisija ir patvirtino Vyriausybė, gali būti vykdomos šio įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 3. Privatizuojant valstybės (savivaldybės) kontroliuojamos įmonės akcijas tiesioginių derybų būdu, Vyriausybės nustatyta tvarka šios įmonės darbuotojams gali būti pasiūlyta nominalia kaina įsigyti iki 5 procentų valstybei (savivaldybei) priklausančių akcijų. Šis pasiūlymas netaikomas toms valstybės (savivaldybės) kontroliuojamoms įmonėms, kurioms valstybė (savivaldybė), pardavusi 5 procentus akcijų, perduotų savo kontrolę, nurodytą šio įstatymo 18 straipsnyje, ar tokiu atveju, kai įmonės akcijas įmonės darbuotojai jau yra įsigiję pagal kitus Lietuvos Respublikos įstatymus.
 
@@ -384,13 +444,19 @@ PRIVATIZAVIMO BŪDAI IR PRIVATIZAVIMO OBJEKTO ĮSIGIJIMAS
 
 20 straipsnis. Apmokėjimas už privatizavimo objektą
 
-1. Apmokėti už įsigyjamą privatizavimo objektą potencialus pirkėjas, mokantis Lietuvoje, moka tik Lietuvos Respublikos pinigais – litais, o potencialus pirkėjas, įregistruotas ir mokantis užsienyje, moka ir (ar) privatizavimo sandoryje nustatyta užsienio valiuta.
+1. Apmokėti už įsigyjamą privatizavimo objektą potencialus pirkėjas, mokantis Lietuvoje, moka Lietuvos Respublikos pinigais arba kitais Lietuvos Respublikos įstatymų nustatytais mokėjimo dokumentais, o potencialus pirkėjas, įregistruotas ir mokantis užsienyje, moka ir (ar) privatizavimo sandoryje nustatyta užsienio valiuta arba kitais Lietuvos Respublikos įstatymų nustatytais mokėjimo dokumentais.
 
-2. Privatizavimo objekto pirkimo tvarka ir terminai nustatomi privatizavimo sandoryje. Privatizavimo objektą (akcijas) pirkti galima ir dalimis, tačiau paskutinis pirkimas negali būti atidėtas daugiau kaip 5 metams. Jei už privatizavimo objektą apmoka Lietuvos gyventojas ar jų grupė, pagal Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba įsigytų bei perleidžiamų lėšų deklaravimo“ turi būti pateikta valstybinės mokesčių inspekcijos pažyma.
+2. Privatizavimo objekto pirkimo tvarka ir terminai nustatomi privatizavimo sandoryje. Privatizavimo objektą (akcijas) pirkti galima ir dalimis, tačiau pirmąja dalimi turi būti perkama ne mažiau kaip 51 procentas parduodamų akcijų, o apmokėjimas už paskutiniąją akcijų dalį negali būti atidėtas ilgiau kaip 5 metams. Pirmoji parduodamų akcijų dalis, kai mokėjimas atidedamas, arba ne mažiau kaip 60 procentų pardavimo kainos, kai mokama iš karto, turi būti apmokama litais, jei už privatizavimo objektą potencialus pirkėjas moka Lietuvoje, arba privatizavimo sandoryje nustatyta užsienio valiuta, jei potencialus pirkėjas yra įregistruotas ir moka užsienyje. Už atidėtus mokėjimus pirkėjas turi mokėti palūkanas, kurios apskaičiuojamos, vadovaujantis vidutine komercinių bankų palūkanų norma, nuo nesumokėtos visos akcijų paketo sumos. Jei už privatizavimo objektą moka Lietuvos gyventojas ar jų grupė, pagal Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“ turi būti pateikta Valstybinės mokesčių inspekcijos pažyma.
 
-3. Privatizuojant valstybės (savivaldybės) kontroliuojamos įmonės akcijas viešo konkurso ar tiesioginių derybų būdu, galutinis apmokėjimas už iki 5 procentų įsigyjamų akcijų paketą šios įmonės darbuotojams Vyriausybės nustatyta tvarka ir būdu gali būti atidėtas ne ilgiau kaip 5 metams.
+Straipsnio pakeitimai:
 
-21 straipsnis. Pirkėjo įsipareigojimai privatizavimo sandoryje
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+
+21 straipsnis. Pirkėjo įsipareigojimai privatizavimo sandoryje ir nuosavybės teisės į privatizavimo objektą atsiradimas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 1. Privatizavimo sandoryje, kuris sudaromas viešo konkurso ar tiesioginių derybų nustatyta tvarka, gali būti pirkėjo (pirkėjų) įsipareigojimai išsaugoti darbo vietas, investuoti į valstybės (savivaldybės) kontroliuojamą įmonę, kurios akcijos parduodamos, ar į kitas Lietuvos ūkio sritis.
 
@@ -404,7 +470,17 @@ PRIVATIZAVIMO BŪDAI IR PRIVATIZAVIMO OBJEKTO ĮSIGIJIMAS
 
 4. Privatizavimo sandoryje turi būti numatytos adekvačios padarytai žalai sankcijos pirkėjui, jeigu jis nevykdytų prisiimtų įsipareigojimų, tarp jų privatizavimo sandorio nutraukimas ar anuliavimas, jei nevykdomos privatizavimo sandoryje nustatytos sąlygos, įsipareigojimai ir(ar) garantijos (nurodomas garantas, kuris atlygins nuostolius valstybei ar savivaldybei), taip pat privatizavimo objekto valdytojo atsakomybė už prisiimtų įsipareigojimų nevykdymą.
 
-5. Privatizavimo sandoriui yra taikomos Civilinio kodekso nuostatos, jei šiame įstatyme ir privatizavimo sandoryje nenustatyta kitaip.
+5. Nuosavybės teisę į privatizavimo objektą - ilgalaikį materialųjį turtą pirkėjas įgyja nuo jo įregistravimo Nekilnojamojo turto registro centriniame duomenų banke, kai jis pateikia privatizavimo objekto pirkimo-pardavimo sutartį ir privatizavimo objekto nuosavybės teisės perdavimą bei priėmimą patvirtinantį dokumentą. Nuosavybės teisę į privatizavimo objektą - akcijas pirkėjas įgyja, kai jo vardu atidarytoje asmeninėje vertybinių popierių sąskaitoje įrašomos pagal pirkimo-pardavimo sutartį įsigytos akcijos (kai parduodamos nematerialiosios akcijos) arba pirkėjo vardu padaromas indosamento įrašas ar išduodamas akcijų sertifikatas (kai parduodamos materialiosios akcijos), kai jis pateikia privatizavimo objekto nuosavybės teisės perdavimą ir priėmimą patvirtinantį dokumentą. Valstybei ar savivaldybei nuosavybės teise priklausančio ilgalaikio materialiojo turto privatizavimo sandorių notariškai tvirtinti neprivaloma
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+
+6. Privatizavimo sandoriui yra taikomos Civilinio kodekso nuostatos, jei šiame įstatyme ar privatizavimo sandoryje nenustatyta kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
 22 straipsnis. Teisė įsigyti ar išsinuomoti ne žemės ūkio paskirties žemės sklypą
 
@@ -525,4 +601,14 @@ Ginčai sprendžiami Lietuvos Respublikos įstatymų, Lietuvos Respublikos tarpt
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 2, 5, 6, 7, 10, 14, 15, 17, 20, 21 straipsnių pakeitimo ir papildymo įstatymas
 
