@@ -4,7 +4,7 @@ identifier: "TAR.A6429E5114B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-01-09"
-last_updated: "1996-04-17"
+last_updated: "1999-03-23"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,27 +18,47 @@ eu_legal_act: "true"
 
 @D1=19910109;D2=19960417;D3=19960515
 
-@D1=19910109;D2=19960417;D3=19960515
+Redagavo: Ramunė
+
+Lūžaitė (1999.04.02)
+
+Įstatymas
+
+paskelbtas: 1991, Nr.4-104
+
+Neoficialus įstatymo
+
+tekstas
 
 Pakeitimai:
 
 1.
 
-Parlamentas,
+Lietuvos Respublikos
 
-Įstatymas
+Seimas, Įstatymas
 
-{#96CPAA1286 ;} Nr.
+Nr. I-1286,
 
-1-1286, 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS DARBO APMOKĖJIMO
 
-RESPUBLIKOS DARBO APMOKĖJIMO ĮSTATYMO 2, 3, 6, 9, 10, 11,
+ĮSTATYMO 2, 3, 6, 9, 10, 11, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-16 STRAIPSNIŲ
+2.
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1101,
+
+99.03.23, Žin., 1999, Nr.30-858 (99.04.02)
+
+LIETUVOS RESPUBLIKOS DARBO APMOKĖJIMO
+
+ĮSTATYMO 16 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 *** Pabaiga ***
 
@@ -108,9 +128,9 @@ Straipsnio
 
 pakeitimai:
 
-{#96CPAA1286 ;} Nr.
+Nr. I-1286,
 
-1-1286, 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
 
 3 straipsnis.
 
@@ -142,9 +162,9 @@ kitos darbo
 
 apmokėjimo formos  ir sąlygos, darbo normos įmonėse,
 
-įstaigose ir  organizacijose
+įstaigose ir
 
-nustatomos kolektyvinėse arba, jeigu
+organizacijose nustatomos kolektyvinėse arba, jeigu
 
 jos nesudaromos,
 
@@ -160,9 +180,9 @@ Darbuotojo
 
 darbo  apmokėjimo  sąlygos,  nustatytos  darbo
 
-sutartyje,
+sutartyje,  atsižvelgiant
 
-atsižvelgiant  į  teisės  aktuose  bei  kolektyvinėse
+į  teisės  aktuose  bei  kolektyvinėse
 
 sutartyse
 
@@ -176,39 +196,9 @@ Straipsnio
 
 pakeitimai:
 
-{#96CPAA1286 ;} Nr.
+Nr. I-1286,
 
-1-1286, 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
-
-4
-
-straipsnis.Valstybinių įstaigų darbuotojų darbo
-
-apmokėjimas
-
-Valstybės
-
-tarnautojų   darbo  apmokėjimo   salygas  nustato
-
-Lietuvos Respublikos
-
-įstatymai.
-
-Kitų  iš
-
-biudžeto  finansuojamų  įstaigų  darbuotojų  darbo
-
-apmokėjimo sąlygas
-
-nustato Lietuvos Respublikos Vyriausybė. Šios
-
-sąlygos peržiūrimos
-
-ne rečiau kaip kartą per metus, atsižvelgiant
-
-į materialinės
-
-gamybos darbuotojų darbo užmokesčio didėjimą.
+96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
 
 5 straipsnis.
 
@@ -248,9 +238,9 @@ nustatyto  valandinio  (dieninio)  tarifinio atlygio
 
 (mėnesinės algos);
 
-labai   kenksmingomis
+labai
 
-darbo  sąlygomis  -  ne  mažiau  kaip
+kenksmingomis  darbo  sąlygomis  -  ne  mažiau  kaip
 
 dvigubu
 
@@ -282,9 +272,65 @@ Straipsnio
 
 pakeitimai:
 
-{#96CPAA1286 ;} Nr.
+Nr. I-1286,
 
-1-1286, 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+
+7
+
+straipsnis.Apmokėjimas už viršvalandinį ir naktinį darbą
+
+Už
+
+viršvalandinį  darbą ir  darbą naktį  (nuo 10 val. vakaro
+
+iki 6  val. ryto)
+
+mokama ne  mažiau  kaip  pusantro  darbuotojui
+
+nustatyto valandinio
+
+tarifinio atlygio (mėnesinės algos).
+
+Konkretūs
+
+apmokėjimo  dydžiai nustatomi  kolektyvinėse  arba
+
+samdos sutartyse.
+
+8
+
+straipsnis.Apmokėjimas už darbą poilsio ir švenčių
+
+dienomis
+
+Darbas poilsio
+
+arba švenčių  dieną, jeigu  jis  nenumatytas
+
+pagal grafiką,
+
+kompensuojamas suteikiant per mėnesį kitą poilsio
+
+dieną arba,  darbuotojui
+
+pageidaujant,  apmokant ne  mažiau  kaip
+
+dvigubu darbuotojui
+
+nustatytu valandiniu  ar  dieniniu  atlygiu,
+
+nesuteikiant
+
+papildomos poilsio dienos.
+
+Darbas švenčių
+
+dieną pagal grafiką apmokamas ne mažiau kaip
+
+dvigubu valandiniu
+
+arba dieniniu atlygiu.
 
 7 straipsnis.Apmokėjimas
 
@@ -440,9 +486,9 @@ dalyje  nustatyto
 
 dydžio  darbo užmokestis. Kolektyvinėje, darbo
 
-sutartyje  arba
+sutartyje  arba  šalių
 
-šalių  susitarimu  gali  būti  numatyti  visiško
+susitarimu  gali  būti  numatyti  visiško
 
 neatvykimo į darbą
 
@@ -476,9 +522,9 @@ Straipsnio
 
 pakeitimai:
 
-{#96CPAA1286 ;} Nr.
+Nr. I-1286,
 
-1-1286, 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
 
 10 straipsnis.
 
@@ -512,7 +558,7 @@ asmenims,    darbuotojams,    dirbantiems    labai
 
 kenksmingomis
 
-darbo  sąlygomis  ir  kt.),  gali  būti  numatomos
+darbo  sąlygomis  ir  kt.),  gali  būti  numatomos
 
 papildomos darbo
 
@@ -522,9 +568,9 @@ Straipsnio
 
 pakeitimai:
 
-{#96CPAA1286 ;} Nr.
+Nr. I-1286,
 
-1-1286, 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
 
 11 straipsnis.
 
@@ -532,9 +578,9 @@ Darbo užmokesčio mokėjimo terminai,
 
 vieta ir tvarka
 
-Darbo
+Darbo  užmokestis
 
-užmokestis  mokamas  darbo  metu  ne  rečiau  kaip du
+mokamas  darbo  metu  ne  rečiau  kaip du
 
 kartus  per mėnesį.
 
@@ -576,9 +622,9 @@ Straipsnio
 
 pakeitimai:
 
-{#96CPAA1286 ;} Nr.
+Nr. I-1286,
 
-1-1286, 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
 
 12 straipsnis.
 
@@ -586,7 +632,7 @@ Vidutinis darbo užmokestis
 
 Vidutinis
 
-darbo   užmokestis   darbuotojams   garantuojamas
+darbo   užmokestis   darbuotojams   garantuojamas
 
 Lietuvos
 
@@ -688,13 +734,25 @@ skelbiamos  tik
 
 sutikus.
 
+Žinios apie darbuotojų darbo užmokestį, mokamą iš
+
+valstybės arba savivaldybių biudžetų, Valstybinio socialinio draudimo fondo
+
+biudžeto bei Sveikatos draudimo fondo biudžeto lėšų, yra viešos. Žinių apie
+
+darbo užmokestį teikimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
 Straipsnio
 
 pakeitimai:
 
-{#96CPAA1286 ;} Nr.
+Nr. I-1286,
 
-1-1286, 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+
+Nr. VIII-1101,
+
+99.03.23, Žin., 1999, Nr.30-858 (99.04.02)
 
 Lietuvos Respublikos
 
