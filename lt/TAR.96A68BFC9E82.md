@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2004-06-15"
+last_updated: "2004-11-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -259,7 +259,7 @@ sąžiningai
 
 tarnauti Tėvynei, demokratijai, Lietuvos žmonių gerovei. “
 
-2. (neteko
+2. (Neteko
 
 galios)
 
@@ -1663,9 +1663,11 @@ Nr. IX-842,
 
 straipsnis. Ministerijos valstybės sekretorius ir ministerijos sekretoriai
 
-1. Ministerijos
+1. Ministerijos valstybės sekretorius yra karjeros
 
-valstybės sekretorius yra karjeros valstybės tarnautojas, pavaldus ministrui.
+valstybės tarnautojas, pavaldus ministrui. Užsienio reikalų ministerijos
+
+valstybės sekretoriumi gali būti ir diplomatas.
 
 2. Ministerijos
 
@@ -1733,7 +1735,9 @@ naudojimą.
 
 sekretoriai yra karjeros valstybės tarnautojai, tiesiogiai pavaldūs
 
-ministerijos valstybės sekretoriui ir atsakingi ministrui.
+ministerijos valstybės sekretoriui ir atsakingi ministrui. Užsienio reikalų
+
+ministerijos sekretoriais gali būti ir diplomatai.
 
 5. Ministerijos
 
@@ -1772,6 +1776,12 @@ papildytas straipsniu:
 Nr. IX-842,
 
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+
+Nr.
+
+IX-2521,
+
+2004-11-02, Žin., 2004, Nr. 167-6100 (2004-11-17)
 
 31 straipsnis.
 
@@ -1855,9 +1865,9 @@ Ministerijų kolegijos
 
 1. Ministerijoje
 
-yra sudaroma kolegija kaip ministro patariamoji institucija. Kolegijos nariai yra
+yra sudaroma kolegija kaip ministro patariamoji institucija. Kolegijos nariai
 
-ministras (kolegijos pirmininkas), viceministras, ministerijos valstybės
+yra ministras (kolegijos pirmininkas), viceministras, ministerijos valstybės
 
 sekretorius ir ministerijos sekretoriai. Į kolegijos sudėtį gali būti
 
@@ -1895,9 +1905,9 @@ agentūras, inspekcijas ir kitas įstaigas).
 
 3. Vyriausybės
 
-įstaigai vadovauja generalinis direktorius (direktorius, viršininkas).
+įstaigai vadovauja generalinis direktorius (direktorius, viršininkas). Vyriausybės
 
-Vyriausybės įstaigos vadovas yra pavaldus Ministrui Pirmininkui.
+įstaigos vadovas yra pavaldus Ministrui Pirmininkui.
 
 4. Vyriausybės
 
@@ -1973,7 +1983,9 @@ Nr. VIII-1980,
 
 35
 
-straipsnis. Apskričių valdymo organizavimas ir savivaldybių veiklos administracinė
+straipsnis. Apskričių valdymo organizavimas ir savivaldybių veiklos
+
+administracinė
 
 priežiūra
 
@@ -2081,9 +2093,9 @@ VYRIAUSYBĖS VEIKLOS ORGANIZAVIMAS
 
 Vyriausybės darbo reglamentas
 
-Vyriausybės darbo
+Vyriausybės
 
-tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
+darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 
 37 straipsnis.
 
@@ -2095,11 +2107,11 @@ valstybės valdymo reikalus sprendžia posėdžiuose visų Vyriausybės narių b
 
 dauguma priimdama nutarimus.
 
-2. Vyriausybės
+2. Vyriausybės posėdžiuose
 
-posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos
+gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos Respublikos
 
-Respublikos Konstitucija ir kiti įstatymai.
+Konstitucija ir kiti įstatymai.
 
 3. Į Vyriausybės
 
@@ -2107,11 +2119,11 @@ posėdžius gali būti kviečiami ir kiti asmenys.
 
 4. Svarbiausi
 
-klausimai gali būti aptariami prieš Vyriausybės posėdžius ministrų pasitarimuose,
+klausimai gali būti aptariami prieš Vyriausybės posėdžius ministrų
 
-Ministro Pirmininko sudarytuose nuolatiniuose arba laikinuosiuose
+pasitarimuose, Ministro Pirmininko sudarytuose nuolatiniuose arba
 
-Vyriausybės komitetuose.
+laikinuosiuose Vyriausybės komitetuose.
 
 Straipsnio pakeitimai:
 
@@ -2503,7 +2515,9 @@ kanceliarijos struktūrą ir nuostatus tvirtina Vyriausybė.
 
 3. Vyriausybės
 
-kanceliarijos karjeros valstybės tarnautojai yra pavaldūs Vyriausybės kancleriui.
+kanceliarijos karjeros valstybės tarnautojai yra pavaldūs Vyriausybės
+
+kancleriui.
 
 Įstatymas
 
@@ -2941,6 +2955,24 @@ VYRIAUSYBĖS
 
 ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+17.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-2521,
+
+2004-11-02, Žin., 2004, Nr. 167-6100 (2004-11-17)
+
+VYRIAUSYBĖS
+
+ĮSTATYMO 31(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
 Konstitucinio
 
 Teismo nutarimai:
@@ -2953,19 +2985,13 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 8
 
-STRAIPSNIO 2 IR 4 DALIŲ,
+STRAIPSNIO 2 IR 4 DALIŲ, 9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22
 
-9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22 STRAIPSNIO 1 PUNKTO, 24
+STRAIPSNIO 1 PUNKTO, 24 STRAIPSNIO 2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3
 
-STRAIPSNIO
+DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4
 
-2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3 DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4
-
-DALIŲ IR
-
-6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4 DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO
-
-LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 ***
 
@@ -2973,7 +2999,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2004-06-25)
+Aušrinė Trapinskienė (2004-11-18)
 
-aubodi@lrs.lt
+autrap@lrs.lt
 
