@@ -4,7 +4,7 @@ identifier: "TAR.17D427E4AAD3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-18"
-last_updated: "1998-07-03"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.17D427E4AAD3"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1998-06-18"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos policijos rėmėjų įstatymas
+
+Suvestinė redakcija nuo 2003-05-01 iki 2015-09-30
+
+Įstatymas paskelbtas: Žin. 1998, Nr. 60-1705, i. k. 0981010ISTAVIII-800
 
 LIETUVOS RESPUBLIKOS POLICIJOS RĖMĖJŲ ĮSTATYMAS
 
@@ -85,9 +89,17 @@ POLICIJOS RĖMĖJŲ TEISĖS IR PAREIGOS
 
 1) padėti policijos pareigūnams sulaikyti ir pristatyti asmenį į policijos įstaigą įstatymų numatytais atvejais;
 
-2) įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, kad būtų užkirstas kelias nusikaltimui ar sulaikytas nusikaltėlis, stichinės nelaimės ar kito ypatingo įvykio, keliančio grėsmę žmonių gyvybei, sveikatai ar turtui, atveju;
+2) įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, kad būtų užkirstas kelias nusikalstamai veikai ar sulaikytas nusikaltėlis, stichinės nelaimės ar kito ypatingo įvykio, keliančio grėsmę žmonių gyvybei, sveikatai ar turtui, atveju;
 
-3) jei įtariama, kad yra padarytas nusikaltimas ar administracinis teisės pažeidimas, stabdyti transporto priemones.
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
+
+3) jei įtariama, kad yra padaryta nusikalstama veika ar administracinis teisės pažeidimas, stabdyti transporto priemones.
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
 
 6 straipsnis. Policijos rėmėjų pareigos
 
@@ -167,7 +179,11 @@ POLICIJOS RĖMĖJŲ SOCIALINĖS GARANTIJOS IR ATSAKOMYBĖ
 
 3. Pašalpos nemokamos, jeigu:
 
-1) policijos rėmėjas žuvo ar susižalojo darydamas tyčinį nusikaltimą;
+1) policijos rėmėjas žuvo ar susižalojo darydamas tyčinę nusikalstamą veiką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
 
 2) policijos rėmėjo žuvimo ar susižalojimo priežastis buvo apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar toksinių medžiagų;
 
@@ -187,7 +203,11 @@ Policijos rėmėjui gali būti atlygintos transporto, ryšių ir kitos išlaidos
 
 13 straipsnis. Policijos rėmėjų apdovanojimas
 
-1. Policijos rėmėjas, pasižymėjęs saugant viešąją tvarką ir visuomenę, užkardant nusikaltimus, gali būti policijos įstaigos vadovo ar kitų institucijų paskatintas padėka, pinigine premija bei apdovanotas ar pristatytas aukštesniam apdovanojimui įstatymų nustatyta tvarka.
+1. Policijos rėmėjas, pasižymėjęs saugant viešąją tvarką ir visuomenę, užkardant nusikalstamas veikas, gali būti policijos įstaigos vadovo ar kitų institucijų paskatintas padėka, pinigine premija bei apdovanotas ar pristatytas aukštesniam apdovanojimui įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
 
 2. Už didelius nuopelnus policijos rėmėjas gali būti pristatytas valstybiniam apdovanojimui.
 
@@ -217,34 +237,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-17 straipsnis. Specialiųjų priemonių naudojimas
-
-1. Policijos rėmėjai kartu su policijos pareigūnais turi teisę naudoti specialiąsias priemones, kai būtina nutraukti nusikalstamas veikas ar užkirsti kelią administraciniams teisės pažeidimams, sulaikyti juos padariusius asmenis ir ginant asmens teisėtus interesus. Naudoti specialiąsias priemones galima tik tiek, kiek to reikia šioje dalyje nurodytiems veiksmams atlikti, ir tik po to, kai visos įmanomos įtikinimo ar kitos priemonės nebuvo veiksmingos. Specialiųjų priemonių rūšį ir jų naudojimo ribas pasirenka policijos rėmėjas, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodami prievartą, policijos rėmėjai privalo stengtis išvengti sunkių padarinių žmonėms ir turtui.
-
-2. Policijos rėmėjai įstatymų nustatytais atvejais ir tvarka gali naudoti šias specialiąsias priemones: policijos ginkluotėje esančias lazdas, antrankius ir dujas.
-
-3. Prieš naudodami specialiąsias priemones, policijos rėmėjai privalo įspėti apie šį ketinimą, suteikdami galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę policijos rėmėjo ar kito asmens gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas.
-
-4. Policijos rėmėjai, panaudoję specialiąsias priemones nepažeisdami šio įstatymo reikalavimų ir padarę žalos įstatymų saugomoms vertybėms, atsakomybėn netraukiami.
-
-18 straipsnis. Specialiųjų priemonių naudojimo pagrindai
-
-1. Policijos rėmėjas turi teisę panaudoti specialiąsias priemones:
-
-1) gindamasis ar gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi;
-
-2) sulaikydamas teisės pažeidimą darantį arba padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo.
-
-2. Draudžiama naudoti specialiąsias priemones prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie neįgalūs ar nepilnamečiai (jei jų amžius žinomas policijos rėmėjui arba išvaizda atitinka amžių), išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba kai tokių asmenų grupė užpuola ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
-
-19 straipsnis. Policijos rėmėjų veiklos finansavimas
-
-Policijos rėmėjų veikla finansuojama iš valstybės biudžete Policijos departamentui prie Vidaus reikalų ministerijos skirtų lėšų, iš specialių kovos su nusikalstamumu ir teisėtvarkos pažeidimais fondų lėšų, savivaldybių skiriamų tikslinių lėšų ir asociacijų lėšų.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
 Pakeitimai:
 
 1.
@@ -254,12 +246,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
 
 Lietuvos Respublikos policijos rėmėjų įstatymo 5, 11 ir 13 straipsnių pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1766, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09608
-
-Lietuvos Respublikos policijos rėmėjų įstatymo Nr. VIII-800 pakeitimo įstatymas
 
