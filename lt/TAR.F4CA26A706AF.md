@@ -4,7 +4,7 @@ identifier: "TAR.F4CA26A706AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-25"
-last_updated: "2003-05-01"
+last_updated: "2003-06-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 department: "Lietuvos Respublikos Seimas"
@@ -98,11 +98,11 @@ slaptai“, „Slaptai“ arba „Konfidencialiai“, naudojimu, turėtų atitin
 
 leidimus dirbti ar susipažinti su tokia informacija.
 
-7. Įslaptinta informacija saugoma,
+7. Įslaptinta informacija
 
-tvarkoma ir naikinama Lietuvos Respublikos Vyriausybės ar jos įgaliotos
+saugoma, tvarkoma ir naikinama Lietuvos Respublikos Vyriausybės ar jos
 
-institucijos nustatyta tvarka.
+įgaliotos institucijos nustatyta tvarka.
 
 10 straipsnis. Leidimo dirbti ar
 
@@ -214,11 +214,11 @@ subjektas, suteikia šia informacija disponuojančio paslapčių subjekto vadova
 
 Asmuo privalo pateikti institucijos, kurioje jis dirba, vadovo tikslinį
 
-siuntimą. Siuntime turi būti patvirtinta, kad asmuo turi leidimą dirbti ar
+siuntimą. Siuntime turi būti patvirtinta, kad asmuo turi leidimą dirbti ar susipažinti
 
-susipažinti su atitinkama slaptumo žyma pažymėta įslaptinta informacija, bei
+su atitinkama slaptumo žyma pažymėta įslaptinta informacija, bei nurodyta,
 
-nurodyta, kodėl ir su kokia informacija asmeniui reikia susipažinti.
+kodėl ir su kokia informacija asmeniui reikia susipažinti.
 
 3. Jei priimamas
 
@@ -282,9 +282,9 @@ asmens patikimumo pažymėjimus;
 
 3) teikia
 
-Lietuvos Respublikos Vyriausybei pasiūlymus dėl šio įstatymo ir kitų teisės aktų,
+Lietuvos Respublikos Vyriausybei pasiūlymus dėl šio įstatymo ir kitų teisės
 
-susijusių su įslaptintos informacijos apsauga, keitimo ar pripažinimo
+aktų, susijusių su įslaptintos informacijos apsauga, keitimo ar pripažinimo
 
 netekusiais galios, galiojančios įslaptintos informacijos apsaugos sistemos
 
@@ -846,15 +846,13 @@ materialinių išteklių rezervą;
 
 institucijų veiklos karo padėties sąlygomis planai;
 
-3) informacija
+3) informacija apie vertybinių
 
-apie vertybinių popierių, dokumentų, dokumentų blankų, banknotų, monetų,
+popierių, dokumentų, dokumentų blankų, banknotų, monetų, Lietuvos Respublikos
 
-Lietuvos Respublikos akcizų įstatyme nustatytų etilo alkoholio ir alkoholinių
+akcizų įstatyme nustatytų etilo alkoholio ir alkoholinių gėrimų bei apdoroto
 
-gėrimų bei apdoroto tabako specialių ženklų – banderolių technologinės apsaugos
-
-elementų kūrimą, gamybą ir naudojimą;
+tabako banderolių technologinės apsaugos priemonių kūrimą, gamybą ir naudojimą;
 
 4) informacija
 
@@ -946,15 +944,15 @@ sprogmenimis, kovine technika, specialiosiomis priemonėmis, taip pat
 
 informacija apie operatyvinės veiklos subjektų aprūpinimą specialiąja technika;
 
-16) ginklų registro
+16) ginklų
 
-duomenys, kai ginklo savininkas, valdytojas ar naudotojas yra krašto apsaugos
+registro duomenys, kai ginklo savininkas, valdytojas ar naudotojas yra krašto
 
-sistemos institucija, vidaus reikalų sistemos institucija, Valstybės saugumo
+apsaugos sistemos institucija, vidaus reikalų sistemos institucija, Valstybės
 
-departamentas, Specialiųjų tyrimų tarnyba, prokuratūra, Ginklų fondas prie
+saugumo departamentas, Specialiųjų tyrimų tarnyba, prokuratūra, Ginklų fondas
 
-Lietuvos Respublikos Vyriausybės, Lietuvos muitinės įstaiga, vykdanti
+prie Lietuvos Respublikos Vyriausybės, Lietuvos muitinės įstaiga, vykdanti
 
 operatyvinę veiklą, taip pat detalizuoti duomenys apie operatyvinės veiklos
 
@@ -1124,9 +1122,9 @@ muitinės įstaigos, vykdančios operatyvinę veiklą, saugomų ginklų, šaudme
 
 asmens saugos ir aktyviosios ginties, radiacinės ir cheminės saugos,
 
-specialiųjų degazavimo priemonių ir inžinerinės technikos saugojimo bei
+specialiųjų degazavimo priemonių ir inžinerinės technikos saugojimo bei apskaitos
 
-apskaitos normas, paskirstymą ir apsaugos organizavimą;
+normas, paskirstymą ir apsaugos organizavimą;
 
 13) informacija,
 
@@ -1138,7 +1136,15 @@ ir bazinės valiutos kurso nustatymo projektai bei duomenys apie Lietuvos banko
 
 vykdomų atpirkimo sandorių, terminuotų indėlių, Vyriausybės, Lietuvos banko
 
-vertybinių popierių aukcionų dalyvius ir jų siūlymus, likvidumo paskolas.
+vertybinių popierių aukcionų dalyvius ir jų siūlymus, likvidumo paskolas;
+
+15) informacija,
+
+telekomunikacinės veiklos reguliavimo ir priežiūros tikslams gauta iš valstybės
+
+ir savivaldybės institucijų, telekomunikacijų operatorių bei paslaugų teikėjų
+
+ir radijo dažnių (kanalų) bei telefono ryšio numerių naudotojų.
 
 3. Informacija,
 
@@ -1198,6 +1204,10 @@ Nr. IX-1425,
 
 2003-04-03, Žin., 2003, Nr. 38-1670 (2003-04-24)
 
+Nr. IX-1603, 2003-06-05,
+
+Žin., 2003, Nr. 61-2759 (2003-06-27)
+
 6 straipsnis.
 
 Įslaptinimo terminai
@@ -1246,23 +1256,25 @@ trumpesniam įslaptinimo terminui, nei numatyta šio straipsnio 1 dalies 1-3
 
 punktuose, įslaptinimo terminas nurodomas šalia slaptumo žymos.
 
-5. Tais atvejais,
+5. Tais
 
-kai valstybės saugumo interesams tam tikros informacijos įslaptinimo terminas
+atvejais, kai valstybės saugumo interesams tam tikros informacijos įslaptinimo
 
-turi būti ilgesnis, nei numatyta šio straipsnio 1 dalies 1-3 punktuose, šį
+terminas turi būti ilgesnis, nei numatyta šio straipsnio 1 dalies 1-3
 
-klausimą paslapčių subjekto teikimu sprendžia bei įslaptinimo terminą pratęsia
+punktuose, šį klausimą paslapčių subjekto teikimu sprendžia bei įslaptinimo
 
-Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija. Įslaptinimo
+terminą pratęsia Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija.
 
-terminas gali būti pratęsiamas iki 10 metų. Pratęsimų skaičius neribojamas,
+Įslaptinimo terminas gali būti pratęsiamas iki 10 metų. Pratęsimų skaičius
 
-tačiau bendras informacijos įslaptinimo terminas negali būti ilgesnis nei 95
+neribojamas, tačiau bendras informacijos įslaptinimo terminas negali būti
 
-metai, išskyrus informaciją apie slaptuosius operatyvinės veiklos dalyvius bei
+ilgesnis nei 95 metai, išskyrus informaciją apie slaptuosius operatyvinės
 
-įslaptintus žvalgybos tarnautojus ir žvalgybos bendradarbius.
+veiklos dalyvius bei įslaptintus žvalgybos tarnautojus ir žvalgybos
+
+bendradarbius.
 
 Straipsnio
 
@@ -1350,13 +1362,11 @@ tikrinančios institucijos asmenį gali iškviesti pokalbio ir prireikus, jei š
 
 asmuo sutinka, patikrinti poligrafu arba pareikalauti raštiškų asmens
 
-paaiškinimų. Paslapčių subjektui draudžiama išduoti asmeniui leidimą dirbti ar
+paaiškinimų. Paslapčių subjektui draudžiama išduoti asmeniui leidimą dirbti ar susipažinti
 
-susipažinti su valstybės paslaptį sudarančia informacija, jeigu Valstybės
+su valstybės paslaptį sudarančia informacija, jeigu Valstybės saugumo
 
-saugumo departamentas, vadovaudamasis šio straipsnio 5 dalimi, tam
-
-prieštarauja.
+departamentas, vadovaudamasis šio straipsnio 5 dalimi, tam prieštarauja.
 
 4. Dirbti ar
 
@@ -1468,11 +1478,11 @@ kitų teisės aktų nustatyta tvarka buvo atleistas iš pareigų dėl darbo su
 
 įslaptinta informacija tvarkos pažeidimo;
 
-12) yra asmuo, kurio
+12) yra asmuo,
 
-atžvilgiu atliekamas operatyvinis tyrimas, arba yra patrauktas baudžiamojon
+kurio atžvilgiu atliekamas operatyvinis tyrimas, arba yra patrauktas
 
-atsakomybėn už tyčinę nusikalstamą veiką;
+baudžiamojon atsakomybėn už tyčinę nusikalstamą veiką;
 
 13) yra asmuo,
 
@@ -1572,11 +1582,11 @@ pareigas, nesusijusias su valstybės paslaptį sudarančios informacijos
 
 naudojimu;
 
-4) asmuo nuteisiamas už
+4) asmuo nuteisiamas už nusikaltimo
 
-nusikaltimo Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir
+Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei
 
-konstitucinei santvarkai ar už kitos tyčinės nusikalstamos veikos padarymą;
+santvarkai ar už kitos tyčinės nusikalstamos veikos padarymą;
 
 5) asmuo
 
@@ -1630,9 +1640,9 @@ koordinavimo komisijai, kuri priima galutinį sprendimą.
 
 Straipsnio pakeitimai:
 
-Nr. IX-1425,
+Nr. IX-1425, 2003-04-03,
 
-2003-04-03, Žin., 2003, Nr. 38-1670 (2003-04-24)
+Žin., 2003, Nr. 38-1670 (2003-04-24)
 
 13 straipsnis.
 
@@ -1760,9 +1770,9 @@ Respublikos Seimo nutarimas “Dėl Lietuvos Respublikos valstybės paslapčių 
 
 apsaugos įstatymo įgyvendinimo” (Žin., 1995, Nr.96-2147);
 
-3) Valstybės ir tarnybos
+3) Valstybės ir tarnybos paslapčių
 
-paslapčių įstatymo įgyvendinimo įstatymas (Žin., 1999, Nr.81-2378).
+įstatymo įgyvendinimo įstatymas (Žin., 1999, Nr.81-2378).
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -1902,13 +1912,29 @@ Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y. nuo
 
 gegužės 1 d.
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1603,
+
+2003-06-05, Žin., 2003, Nr. 61-2759 (2003-06-27)
+
+VALSTYBĖS
+
+IR TARNYBOS PASLAPČIŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-06-04)
+Aušrinė Trapinskienė (2003-06-27)
 
 autrap@lrs.lt
 
