@@ -4,7 +4,7 @@ identifier: "TAR.833EE7DCBAD7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-04"
-last_updated: "1996-04-17"
+last_updated: "1997-06-24"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.833EE7DCBAD7"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,11 +16,11 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kolektyvinių susitarimų ir sutarčių įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.06.10)
+Ramunė Lūžaitė (1997.07.11)
 
 Įstatymas
 
@@ -34,15 +34,15 @@ Pakeitimai:
 
 1.
 
-Nr.1-2020;
+Nr.I-2020; 1991.11.21.;
 
-1991.11.21.; Žin., 1991, Nr.34-935;
+Žin., 1991, Nr.34-935;
 
 2.
 
-Nr.1-417;
+Nr.I-417; 1994.03.31.;
 
-1994.03.31.; Žin., 1994, Nr.29-511.
+Žin., 1994, Nr.29-511.
 
 3.
 
@@ -52,13 +52,41 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1287, 96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
+I-1287,
+
+96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
 
 LIETUVOS
 
 RESPUBLIKOS KOLEKTYVINIŲ SUSITARIMŲ IR SUTARČIŲ ĮSTATYMO 8 IR 10 STRAIPSNIŲ
 
 PAKEITIMO ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-285,
+
+97.06.24, Žin., 1997, Nr.66-1592 (97.07.11)
+
+LIETUVOS
+
+RESPUBLIKOS KOLEKTYVINIŲ SUSITARIMŲ IR SUTARČIŲ ĮSTATYMO 18 STRAIPSNIO
+
+PAPILDYMO ĮSTATYMAS
+
+Įstatymas įsigalioja
+
+nuo 1997 m. spalio 1 d.
+
+***
+
+Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
@@ -104,9 +132,7 @@ susitarimas sudaromas dėl darbuotojų, kuriuos atstovauja profesinės sąjungos
 
 jų susivienijimai, užimtumo, perkvalifikavimo, darbo organizavimo, darbo
 
-apmokėjimo, saugos darbe ekonominių ir socialinių priemonių bei papildomų
-
-garantijų.
+apmokėjimo, saugos darbe ekonominių ir socialinių priemonių bei papildomų garantijų.
 
 3
 
@@ -174,9 +200,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr.1-417;
+Nr.I-417; 1994.03.31.;
 
-1994.03.31.; Žin., 1994, Nr.29-511.
+Žin., 1994, Nr.29-511.
 
 7
 
@@ -218,13 +244,13 @@ Straipsnio
 
 pakeitimai:
 
-1-2020;
+I-2020; 1991.11.21.;
 
-1991.11.21.; Žin., 1991, Nr.34-935;
+Žin., 1991, Nr.34-935;
 
-1-417;
+I-417; 1994.03.31.;
 
-1994.03.31.; Žin., 1994, Nr.29-511.
+Žin., 1994, Nr.29-511.
 
 8
 
@@ -262,13 +288,15 @@ Straipsnio
 
 pakeitimai:
 
-1-417;
+Nr.I-417; 1994.03.31.;
 
-1994.03.31.; Žin., 1994, Nr.29-511;
+Žin., 1994, Nr.29-511;
 
 Nr.
 
-I-1287, 96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
+I-1287,
+
+96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
 
 9
 
@@ -318,9 +346,9 @@ Straipsnio
 
 pakeitimai:
 
-1-417;
+Nr.I-417; 1994.03.31.;
 
-1994.03.31.; Žin., 1994, Nr.29-511;
+Žin., 1994, Nr.29-511;
 
 10
 
@@ -334,23 +362,27 @@ perėmėjui. Darbdavio teisių perėmėjui kolektyvinė sutartis galioja iki nau
 
 sutarties sudarymo.
 
-Darbdavys, prieš priimdamas asmenį į darbą,  privalo  jį supažindinti  su  kolektyvine
+Darbdavys, prieš priimdamas asmenį į darbą,  privalo  jį supažindinti  su
 
-sutartimi.  Sudarius  su   šiuo asmeniu  darbo  sutartį, kolektyvinės sutarties
+kolektyvine  sutartimi.  Sudarius  su   šiuo asmeniu  darbo  sutartį,
 
-nuostatos  jam yra privalomos kaip ir kitiems šios įmonės darbuotojams.
+kolektyvinės sutarties nuostatos  jam yra privalomos kaip ir kitiems šios
+
+įmonės darbuotojams.
 
 Straipsnio
 
 pakeitimai:
 
-1-417;
+Nr.I-417; 1994.03.31.;
 
-1994.03.31.; Žin., 1994, Nr.29-511;
+Žin., 1994, Nr.29-511;
 
 Nr.
 
-I-1287, 96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
+I-1287,
+
+96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
 
 III SKIRSNIS
 
@@ -506,9 +538,9 @@ Straipsnio
 
 pakeitimai:
 
-1-417;
+Nr.I-417; 1994.03.31.;
 
-1994.03.31.; Žin., 1994, Nr.29-511;
+Žin., 1994, Nr.29-511;
 
 15
 
@@ -542,11 +574,11 @@ sutarties šalių atstovai rengia kolektyvinės sutarties projektą atsižvelgda
 
 Projektas
 
-turi būti aptartas šalių atstovų nustatyta tvarka darbuotojų  grupėse
+turi būti aptartas šalių atstovų nustatyta tvarka darbuotojų  grupėse  (struktūriniuose
 
-(struktūriniuose padaliniuose) ir po to pateiktas   svarstyti   darbuotojų
+padaliniuose) ir po to pateiktas   svarstyti   darbuotojų  kolektyvo
 
-kolektyvo susirinkimui (konferencijai).
+susirinkimui (konferencijai).
 
 Jei
 
@@ -576,15 +608,47 @@ sutartis įsigalioja nuo jos pasirašymo dieno.
 
 straipsnis. Kolektyvinės sutarties galiojimo trukmė
 
+[18
+
+straipsnio redakcija iki 1997 m. spalio 1 d.]
+
 Kolektyvinė
 
 sutartis  galioja iki  naujos  kolektyvinės sutarties pasirašymo.
 
 Kolektyvinės
 
-sutarties  galiojimo  trukmė  nustatoma kolektyvinėje sutartyje, bet ne ilgiau
+sutarties  galiojimo  trukmė  nustatoma kolektyvinėje sutartyje, bet ne ilgiau
 
 kaip 2 metams.
+
+[18
+
+straipsnio redakcija nuo 1997 m. spalio 1 d.]
+
+Kolektyvinė
+
+sutartis  galioja iki  naujos  kolektyvinės sutarties pasirašymo.
+
+Kolektyvinės
+
+sutarties  galiojimo  trukmė  nustatoma kolektyvinėje sutartyje, bet ne ilgiau
+
+kaip 2 metams.
+
+Kolektyvinė sutartis nustoja galioti įmonei iškėlus bankroto bylą arba pradėjus
+
+neteisminę bankroto procedūrą.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-285,
+
+97.06.24, Žin., 1997, Nr.66-1592 (97.07.11)
 
 19
 
@@ -600,9 +664,9 @@ Straipsnio
 
 pakeitimai:
 
-1-417;
+Nr.I-417; 1994.03.31.;
 
-1994.03.31.; Žin., 1994, Nr.29-511;
+Žin., 1994, Nr.29-511;
 
 V SKIRSNIS
 
@@ -628,7 +692,7 @@ Jeigu
 
 kolektyvinės  sutarties  vykdymu  suinteresuoti darbuotojai pageidauja,
 
-informaciją jiems ne vėliau kaip per 15 dienų  pateikia  darbdavys
+informaciją jiems ne vėliau kaip per 15 dienų  pateikia  darbdavys
 
 kolektyvinėje sutartyje nustatyta tvarka.
 
@@ -690,9 +754,9 @@ Straipsnio
 
 pakeitimai:
 
-1-417;
+Nr.I-417; 1994.03.31.;
 
-1994.03.31.; Žin., 1994, Nr.29-511;
+Žin., 1994, Nr.29-511;
 
 25
 
@@ -710,9 +774,9 @@ Straipsnio
 
 pakeitimai:
 
-1-417;
+Nr.I-417; 1994.03.31.;
 
-1994.03.31.; Žin., 1994, Nr.29-511;
+Žin., 1994, Nr.29-511;
 
 26
 
@@ -734,9 +798,9 @@ Straipsnio
 
 pakeitimai:
 
-1-417;
+Nr.I-417; 1994.03.31.;
 
-1994.03.31.; Žin., 1994, Nr.29-511;
+Žin., 1994, Nr.29-511;
 
 LIETUVOS
 
@@ -744,7 +808,7 @@ RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS
 
-TARYBOS PIRMININKAS               V.LANDSBERGIS
+TARYBOS PIRMININKAS                          V.LANDSBERGIS
 
 Vilnius,
 
