@@ -4,7 +4,7 @@ identifier: "TAR.172F280D69BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-21"
-last_updated: "1999-07-07"
+last_updated: "2000-03-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.172F280D69BC"
 department: "Lietuvos Respublikos Seimas"
@@ -19,11 +19,11 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 Redagavo:
 
-Ramunė Lūžaitė (1999.08.09)
+Aušrinė Trapinskienė (2000.04.13)
 
 Įstatymas
 
-paskelbtas: Žin., 1996 Nr.1-1
+paskelbtas: Žin., 1996, Nr.1-1
 
 Neoficialus
 
@@ -59,19 +59,19 @@ RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 3, 4 IR 6 STRAIPSNIŲ PAKEIT
 
 IR PAPILDYMO ĮSTATYMAS
 
-Įstatymas įsigalioja
+Įstatymas
 
-nuo 1998 m. sausio 1 d.
+įsigalioja nuo 1998 m. sausio 1 d.
 
 3.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-1004,
+Nr.
 
-98.12.22, Žin., 1998, Nr.115-3247 (98.12.31)
+VIII-1004, 98.12.22, Žin., 1998, Nr.115-3247 (98.12.31)
 
 LIETUVOS
 
@@ -81,1145 +81,1013 @@ RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
 
 4.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-1300,
+Nr.
 
-99.07.07, Žin., 1999, Nr.65-2087 (99.07.28)
+VIII-1300, 99.07.07, Žin., 1999, Nr.65-2087 (99.07.28)
 
 LIETUVOS
 
 RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-Nauja įstatymo
+Nauja
 
-redakcija
+įstatymo redakcija
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1582, 00.03.21, Žin., 2000, Nr.29-802
+
+(00.04.07)
+
+GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 2, 6, 14 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
 
 ***
 
 Pabaiga ***
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-GYVENTOJŲ INDĖLIŲ DRAUDIMO
+RESPUBLIKOS
+
+GYVENTOJŲ
+
+INDĖLIŲ DRAUDIMO
 
 ĮSTATYMAS
 
-1995 m. gruodžio 21 d. Nr.I-1152
+1995 m. gruodžio
+
+21 d. Nr.I-1152
 
 Vilnius
 
-Nauja įstatymo
+Nauja
 
-redakcija:
+įstatymo redakcija:
 
-Nr. VIII-1300,
+Nr.
 
-99.07.07, Žin., 1999, Nr.65-2087 (99.07.28)
+VIII-1300, 99.07.07, Žin., 1999, Nr.65-2087 (99.07.28)
 
-PIRMASIS SKIRSNIS
+PIRMASIS
+
+SKIRSNIS
 
 BENDROSIOS NUOSTATOS
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis.
 
-Šio įstatymo paskirtis - nustatyti gyventojų
+Įstatymo paskirtis
 
-indėlių, laikomų Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtuose
+Šio įstatymo
 
-bankuose, veikiančiuose Lietuvos Respublikos teritorijoje, ir Lietuvos
+paskirtis - nustatyti gyventojų indėlių, laikomų Lietuvos Respublikos įstatymų
 
-Respublikoje įsteigtuose užsienio bankų filialuose (skyriuose), draudimo tvarką
+nustatyta tvarka įsteigtuose bankuose, veikiančiuose Lietuvos Respublikos
 
-ir šių indėlių kompensavimą valstybės įmonės Indėlių draudimo fondo (toliau -
+teritorijoje, ir Lietuvos Respublikoje įsteigtuose užsienio bankų filialuose
 
-Fondas) lėšomis.
+(skyriuose), draudimo tvarką ir šių indėlių kompensavimą valstybės įmonės
 
-2 straipsnis. Pagrindinės šio įstatymo
+Indėlių draudimo fondo (toliau - Fondas) lėšomis.
 
-sąvokos
+2 straipsnis.
 
-1. Gyventojai - Lietuvos Respublikos
+Pagrindinės šio įstatymo sąvokos
 
-piliečiai, kitų valstybių piliečiai ir asmenys be pilietybės, laikantys
+1. Gyventojai -
 
-indėlius Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtuose bankuose,
+Lietuvos Respublikos piliečiai, kitų valstybių piliečiai ir asmenys be
 
-veikiančiuose Lietuvos Respublikos teritorijoje, ir Lietuvos Respublikoje
+pilietybės, laikantys indėlius Lietuvos Respublikos įstatymų nustatyta tvarka
 
-įsteigtuose užsienio bankų filialuose (skyriuose).
+įsteigtuose bankuose, veikiančiuose Lietuvos Respublikos teritorijoje, ir
 
-2. Draudėjas - Lietuvos Respublikos įstatymų
+Lietuvos Respublikoje įsteigtuose užsienio bankų filialuose (skyriuose).
 
-nustatyta tvarka įsteigtas bankas, veikiantis Lietuvos Respublikos
+2. Draudėjas -
 
-teritorijoje, arba Lietuvos Respublikoje įsteigęs filialą (skyrių) užsienio
+Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtas bankas, veikiantis
 
-bankas, šio įstatymo nustatyta tvarka mokantis draudimo įmokas.
+Lietuvos Respublikos teritorijoje, arba Lietuvos Respublikoje įsteigęs filialą
 
-3. Draudimo išmoka - šiame įstatyme nustatyta
+(skyrių) užsienio bankas, šio įstatymo nustatyta tvarka mokantis draudimo
 
-draudiminio užtikrinimo suma, į kurią gyventojas turi teisę draudiminio įvykio
+įmokas.
 
-atveju.
+3. Draudimo išmoka - šiame įstatyme nustatyta draudiminio užtikrinimo
 
-4. Draudimo įmoka - draudėjo įmoka į Fondą,
+suma, į kurią gyventojas turi teisę draudiminio įvykio atveju.
 
-mokama šio įstatymo nustatyta tvarka.
-
-5. Draudiminis įvykis - bankroto bylos
-
-iškėlimas draudėjui arba sprendimo dėl draudėjo bankinės veiklos nutraukimo
-
-priėmimas pagal užsienio valstybių įstatymus, kai draudėjas negali atsiskaityti
-
-su kreditoriais.
-
-6. Indėlis - gyventojui priklausanti pagal
-
-indėlio ir (arba) banko sąskaitos sutartis draudėjo atidarytų sąskaitų teigiamų
-
-likučių ir (arba) kitų piniginių lėšų, į kurias gyventojas turi reikalavimo
-
-teises (išskyrus reikalavimo teises pagal indėlio pasaugos sutartis), suma. Tuo
-
-atveju, kai reikalavimo teises į indėlį turi gyventojų grupė, indėlis
-
-padalijamas kiekvienam iš jų lygiomis dalimis, jeigu sutartyse, iš kurių kyla
-
-jų reikalavimo teisės, ar teismų sprendimuose nenustatyta ko kita.
-
-7.
-
-Draudimo suma - draudžiamo indėlio suma.
-
-ANTRASIS
-
-SKIRSNIS
-
-INDĖLIŲ
-
-DRAUDIMO SĄLYGOS
-
-3
-
-straipsnis. Draudimo objektas ir draudimo suma
-
-1. Draudimo objektas yra gyventojų indėliai
-
-litais ir užsienio valiuta - Jungtinių Amerikos Valstijų doleriais, eurais ir
-
-Europos Sąjungos šalių nacionalinėmis valiutomis (toliau - užsienio valiuta).
-
-Šie indėliai laikomi:
-
-1) Lietuvos Respublikos įstatymų nustatyta tvarka
-
-įsteigtuose bankuose, veikiančiuose Lietuvos Respublikos teritorijoje;
-
-2) Lietuvos Respublikoje įsteigtuose užsienio bankų
-
-filialuose (skyriuose), kuriuose esantys indėliai yra draudžiami šio įstatymo
+4. Draudimo įmoka - draudėjo įmoka į Fondą, mokama šio įstatymo
 
 nustatyta tvarka.
 
-2. Gyventojų indėliai neapdraudžiami Lietuvos
+5. Draudiminis
 
-Respublikos įstatymų nustatyta tvarka įsteigtų bankų padaliniuose,
+įvykis - bankroto bylos iškėlimas draudėjui arba sprendimo dėl draudėjo
 
-veikiančiuose ne Lietuvos Respublikos teritorijoje, jeigu Lietuvos Respublikos
+bankinės veiklos nutraukimo priėmimas pagal užsienio valstybių įstatymus, kai
 
-tarptautinėse sutartyse nenumatyta kitaip.
+draudėjas negali atsiskaityti su kreditoriais.
 
-3. Draudimo suma yra lygi indėlio likučiui
+6. Indėlis - gyventojui priklausanti pagal indėlio ir (arba) banko
 
-litais ir (arba) užsienio valiuta, buvusiam banke draudiminio įvykio dieną,
+sąskaitos sutartis draudėjo atidarytų sąskaitų teigiamų likučių ir (arba) kitų
 
-tačiau ji negali būti didesnė kaip:
+piniginių lėšų, į kurias gyventojas turi reikalavimo teises (išskyrus
 
-1) 25 000 litų nuo 1998 m. sausio 1 d.;
+reikalavimo teises pagal indėlio pasaugos sutartis), kylančias iš Lietuvos
 
-2) 45 000 litų nuo 1999 m. sausio 1 d.;
+Respublikos įstatymų nustatyta tvarka įsteigto banko, veikiančio Lietuvos
 
-3) 65 000 litų nuo 2001 m. sausio 1 d.
+Respublikos teritorijoje, ir Lietuvos Respublikoje įsteigto užsienio banko
 
-3 straipsnis.
+filialo (skyriaus) atliekamų banko operacijų, suma. Tuo atveju, kai reikalavimo
 
-Draudimo objektas ir draudimo suma
+teises į indėlį turi gyventojų grupė, indėlis padalijamas kiekvienam iš jų
 
-Draudimo
+lygiomis dalimis, jeigu sutartyse, iš kurių kyla jų reikalavimo teisės,
 
-objektas  yra Lietuvos  bankuose laikomi  gyventojų
+ar teismų sprendimuose nenustatyta ko kita.
 
-indėliai litais ir
+7. Draudimo suma - draudžiamo indėlio
 
-užsienio valiuta - Jungtinių Amerikos Valstijų
+suma.
 
-doleriais ir
+Straipsnio pakeitimai:
 
-Vokietijos Federacinės Respublikos markėmis (toliau
+Nr. VIII-1582, 00.03.21, Žin., 2000, Nr.29-802
 
-- užsienio valiuta).
+(00.04.07)
 
-Neapdraudžiami    gyventojų    indėliai    Lietuvos    bankų
+ANTRASIS SKIRSNIS
 
-dukteriniuose
+INDĖLIŲ DRAUDIMO SĄLYGOS
 
-bankuose  ar šių bankų teritoriniuose padaliniuose,
+3 straipsnis. Draudimo objektas ir
 
-veikiančiuose ne
+draudimo suma
 
-Lietuvos Respublikos teritorijoje.
+1. Draudimo
 
-Draudimo suma
+objektas yra gyventojų indėliai litais ir užsienio valiuta - Jungtinių Amerikos
 
-yra lygi  indėlio dydžiui,  tačiau ji  negali
+Valstijų doleriais, eurais ir Europos Sąjungos šalių nacionalinėmis valiutomis
 
-būti didesnė  kaip
+(toliau - užsienio valiuta). Šie indėliai laikomi:
 
-5000  litų ir(arba)  už šią  sumą atitinkančią
+1)
 
-sumą užsienio
+Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtuose bankuose,
 
-valiuta.
+veikiančiuose Lietuvos Respublikos teritorijoje;
 
-Atsižvelgdama
+2)
 
-į   metų  infliaciją,   Lietuvos  Respublikos
+Lietuvos Respublikoje įsteigtuose užsienio bankų filialuose (skyriuose),
 
-Vyriausybė kartą
+kuriuose esantys indėliai yra draudžiami šio įstatymo nustatyta tvarka.
 
-per metus  indeksuoja šio straipsnio trečiojoje
+2.
 
-dalyje nurodytą
+Gyventojų indėliai neapdraudžiami Lietuvos Respublikos įstatymų nustatyta
 
-indėlio draudimo sumą litais.
+tvarka įsteigtų bankų padaliniuose, veikiančiuose ne Lietuvos Respublikos
 
-Pakeitimai:
+teritorijoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse nenumatyta
 
-1. Lietuvos
+kitaip.
 
-Respublikos 1996 002 01
+3. Draudimo suma
 
-Įstatymas Nr.
+yra lygi indėlio likučiui litais ir (arba) užsienio valiuta, buvusiam banke
 
-1-1189
+draudiminio įvykio dieną, tačiau ji negali būti didesnė kaip:
 
-Žin., 1996,
+1) 25 000 litų
 
-Nr.14-354
+nuo 1998 m. sausio 1 d.;
 
-4 straipsnis. Draudimo išmoka
+2) 45 000 litų
 
-1. Gyventojas įgyja teisę į draudimo išmoką
+nuo 1999 m. sausio 1 d.;
 
-nuo draudiminio įvykio dienos. Draudimo išmoką apskaičiuoja Fondas, remdamasis
+3) 65 000 litų
 
-draudėjo draudiminio įvykio dienos duomenimis apie indėlius ir indėlininkus.
+nuo 2001 m. sausio 1 d.
 
-Draudimo išmokų dydžiai:
+4 straipsnis.
+
+Draudimo išmoka
+
+1. Gyventojas
+
+įgyja teisę į draudimo išmoką nuo draudiminio įvykio dienos. Draudimo išmoką
+
+apskaičiuoja Fondas, remdamasis draudėjo draudiminio įvykio dienos duomenimis
+
+apie indėlius ir indėlininkus. Draudimo išmokų dydžiai:
 
 1) nuo 1998 m. sausio 1 d.:
 
-a) 100 procentų indėlio litais iki 5 000 litų
+a) 100 procentų
 
-draudimo sumos;
+indėlio litais iki 5 000 litų draudimo sumos;
 
-b) 90 procentų indėlio litais nuo 5 000 iki
+b) 90 procentų
 
-10 000 litų draudimo sumos;
+indėlio litais nuo 5 000 iki 10 000 litų draudimo sumos;
 
-c) 70 procentų indėlio litais nuo 10 000 iki
+c) 70 procentų
 
-25 000 litų draudimo sumos;
+indėlio litais nuo 10 000 iki 25 000 litų draudimo sumos;
 
-d) 90 procentų indėlio užsienio valiuta iki 5
+d) 90 procentų
 
-000 litų draudimo sumos;
+indėlio užsienio valiuta iki 5 000 litų draudimo sumos;
 
-e) 80 procentų indėlio užsienio valiuta nuo 5
+e) 80 procentų indėlio užsienio valiuta nuo 5 000 iki 10 000 litų draudimo
 
-000 iki 10 000 litų draudimo sumos;
+sumos;
 
-f) 60 procentų indėlio užsienio valiuta nuo
+f) 60 procentų
 
-10 000 iki 25 000 litų draudimo sumos;
+indėlio užsienio valiuta nuo 10 000 iki 25 000 litų draudimo sumos;
 
 2) nuo 1999 m. sausio 1 d.:
 
-a) 100 procentų indėlio litais ir (arba) 90
+a) 100 procentų
 
-procentų indėlio užsienio valiuta iki 10 000 litų draudimo sumos;
+indėlio litais ir (arba) 90 procentų indėlio užsienio valiuta iki 10 000 litų
 
-b) 90 procentų indėlio litais ir (arba) 80
+draudimo sumos;
 
-procentų indėlio užsienio valiuta nuo 10 000 iki 25 000 litų draudimo sumos;
+b) 90 procentų
 
-c) 70 procentų indėlio litais ir (arba) 60
+indėlio litais ir (arba) 80 procentų indėlio užsienio valiuta nuo 10 000 iki 25
 
-procentų indėlio užsienio valiuta nuo 25 000 iki 45 000 litų draudimo sumos;
+000 litų draudimo sumos;
+
+c) 70 procentų indėlio litais ir (arba) 60 procentų indėlio užsienio
+
+valiuta nuo 25 000 iki 45 000 litų draudimo sumos;
 
 3) nuo 2001 m. sausio 1 d.:
 
-a) 100 procentų indėlio litais ir (arba) 90
+a) 100 procentų
 
-procentų indėlio užsienio valiuta iki 25 000 litų draudimo sumos;
+indėlio litais ir (arba) 90 procentų indėlio užsienio valiuta iki 25 000 litų
 
-b) 90 procentų indėlio litais ir (arba) 80
+draudimo sumos;
 
-procentų indėlio užsienio valiuta nuo 25 000 iki 45 000 litų draudimo sumos;
+b) 90 procentų
 
-c) 70 procentų indėlio litais ir (arba) 60
+indėlio litais ir (arba) 80 procentų indėlio užsienio valiuta nuo 25 000 iki 45
 
-procentų indėlio užsienio valiuta nuo 45 000 iki 65 000 litų draudimo sumos;
+000 litų draudimo sumos;
 
-4) nuo 2002 m. sausio 1 d.:
+c) 70 procentų
 
-a) 100 procentų indėlio litais ir (arba)
+indėlio litais ir (arba) 60 procentų indėlio užsienio valiuta nuo 45 000 iki 65
 
-užsienio valiuta iki 25 000 litų draudimo sumos;
+000 litų draudimo sumos;
 
-b) 90 procentų indėlio litais ir (arba)
+4) nuo 2002 m.
 
-užsienio valiuta nuo 25 000 iki 65 000 litų draudimo sumos.
+sausio 1 d.:
 
-2. Draudimo išmokos išmokamos litais per 3
+a) 100 procentų
 
-mėnesius nuo draudiminio įvykio dienos. Fondo taryba gali pratęsti šį terminą
+indėlio litais ir (arba) užsienio valiuta iki 25 000 litų draudimo sumos;
 
-ne daugiau kaip 2 kartus ir kiekvieną kartą ne ilgiau kaip 3 mėnesiais.
+b) 90 procentų indėlio litais ir (arba) užsienio valiuta nuo 25 000 iki
 
-Draudimo išmokų išmokėjimo terminas neapriboja gyventojo teisės gauti draudimo
+65 000 litų draudimo sumos.
 
-išmoką. Draudimo išmokos gyventojams išmokamos be apribojimų, išskyrus šio
+2. Draudimo
 
-įstatymo 5 straipsnyje nurodytus atvejus.
+išmokos išmokamos litais per 3 mėnesius nuo draudiminio įvykio dienos. Fondo
 
-3. Draudimo išmokų apskaičiavimo ir
+taryba gali pratęsti šį terminą ne daugiau kaip 2 kartus ir kiekvieną kartą ne
 
-išmokėjimo tvarką Fondo taryba skelbia „Valstybės žiniose“.
+ilgiau kaip 3 mėnesiais. Draudimo išmokų išmokėjimo terminas neapriboja
 
-4. Kai Fondas išmoka draudimo išmokas draudėjo
+gyventojo teisės gauti draudimo išmoką. Draudimo išmokos gyventojams išmokamos
 
-indėlininkams, draudėjas Fondo nurodymu privalo sumažinti įsipareigojimus
+be apribojimų, išskyrus šio įstatymo 5 straipsnyje nurodytus atvejus.
 
-gyventojams Fondo nurodytomis draudimo išmokų sumomis ir atitinkamai padidinti
+3. Draudimo
 
-įsipareigojimus Fondui.
+išmokų apskaičiavimo ir išmokėjimo tvarką Fondo taryba skelbia „Valstybės
 
-5. Gyventojas nuo tos dienos, kai Fondas
+žiniose“.
 
-išmokėjo jam draudimo išmoką, netenka teisių reikalauti iš draudėjo draudimo
+4.
 
-išmokos dydžio pinigų sumos.
+Kai Fondas išmoka draudimo išmokas draudėjo indėlininkams, draudėjas Fondo
 
-5
+nurodymu privalo sumažinti įsipareigojimus gyventojams Fondo nurodytomis
 
-straipsnis. Draudimo išmokų apribojimai
+draudimo išmokų sumomis ir atitinkamai padidinti įsipareigojimus Fondui.
 
-1. Fondas draudimo išmokų nemoka už:
+5. Gyventojas
 
-1) indėlius, kurie teismo sprendimu
+nuo tos dienos, kai Fondas išmokėjo jam draudimo išmoką, netenka teisių
 
-pripažinti įgytais neteisėtu būdu;
+reikalauti iš draudėjo draudimo išmokos dydžio pinigų sumos.
 
-2) indėlius, į kuriuos reikalavimų teisės yra
+5 straipsnis. Draudimo išmokų
 
-perleistos po draudiminio įvykio dienos;
+apribojimai
 
-3) banko administracijos ir jo filialų
+1. Fondas
 
-(skyrių) vadovų, bankų tarybos ir valdybos narių indėlius; asmenų, turinčių ne
+draudimo išmokų nemoka už:
 
-mažesnę kaip 5 procentų banko akcinio kapitalo dalį, indėlius; banko revizijų
+1) indėlius,
 
-tarybos narių (revizorių) ir asmenų, atliekančių nepriklausomą banko auditą,
+kurie teismo sprendimu pripažinti įgytais neteisėtu būdu;
 
-indėlius; asmenų, kurie ne mažiau kaip 5 procentus banko akcinio kapitalo
+2) indėlius, į
 
-turinčiose įmonėse turi daugiau kaip 50 procentų kapitalo dalį, indėlius; šiame
+kuriuos reikalavimų teisės yra perleistos po draudiminio įvykio dienos;
 
-punkte nurodytų asmenų vaikų (įvaikių), sutuoktinių ir tėvų (įtėvių) indėlius;
+3) banko
 
-4) banko paskolos gavėjo indėlius, jeigu jų
+administracijos ir jo filialų (skyrių) vadovų, bankų tarybos ir valdybos narių
 
-dydis neviršija jo negrąžintų paskolų su palūkanomis dydžio. Jeigu banko
+indėlius; asmenų, turinčių ne mažesnę kaip 5 procentų banko akcinio kapitalo
 
-paskolos gavėjo indėlis yra didesnis už šio gavėjo negrąžintas paskolas kartu
+dalį, indėlius; banko revizijų tarybos narių (revizorių) ir asmenų, atliekančių
 
-su palūkanomis, kompensuojamas indėlio ir paskolų su palūkanomis skirtumas, bet
+nepriklausomą banko auditą, indėlius; asmenų, kurie ne mažiau kaip 5 procentus
 
-ne didesnis negu nurodytas šio įstatymo 4 straipsnio 1 dalyje;
+banko akcinio kapitalo turinčiose įmonėse turi daugiau kaip 50 procentų
 
-5) anoniminėse ir užkoduotose sąskaitose
+kapitalo dalį, indėlius; šiame punkte nurodytų asmenų vaikų (įvaikių),
 
-laikomus indėlius;
-
-6) indėlius iki 10 litų arba šią sumą
-
-atitinkančią sumą užsienio valiuta.
-
-2. Gyventojams, dėl kurių indėlių lėšų
-
-įsigijimo teisėtumo kreiptasi į teisėsaugos institucijas, tačiau dar nepriimtas
-
-sprendimas, Fondo taryba sustabdo draudimo išmokų išmokėjimą.
-
-6
-
-straipsnis. Draudimo įmoka
-
-1. Metinė draudimo įmoka sudaro 1,5 procento
-
-Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtame banke, veikiančiame
-
-Lietuvos Respublikos teritorijoje, ar Lietuvos Respublikoje įsteigtame užsienio
-
-banko filiale (skyriuje) laikomų gyventojų indėlių litais ir užsienio valiuta
-
-sumos. Nuo 2000 m. sausio 1 d. metinė draudimo įmoka sudaro 1 procentą Lietuvos
-
-Respublikos įstatymų nustatyta tvarka įsteigtame banke, veikiančiame Lietuvos
-
-Respublikos teritorijoje, ar Lietuvos Respublikoje įsteigtame užsienio banko
-
-filiale (skyriuje) laikomų gyventojų indėlių litais ir užsienio valiuta sumos.
-
-Įmokos apskaičiavimo, mokėjimo tvarką ir terminus nustato Fondo taryba.
-
-2. Lietuvos Respublikos įstatymų nustatyta tvarka
-
-įsteigti bankai, veikiantys Lietuvos Respublikos teritorijoje, išskyrus šio
-
-įstatymo 3 straipsnio 2 dalyje bei 24 straipsnyje nurodytus atvejus, privalo
-
-apdrausti Fonde gyventojų indėlius ir mokėti šio straipsnio 1 dalyje nurodytas
-
-draudimo įmokas.
-
-3. Užsienio bankas privalo Fonde apdrausti Lietuvos
-
-Respublikoje įsteigtame šio užsienio banko filiale (skyriuje) laikomus
-
-gyventojų indėlius ir mokėti šio straipsnio 1 dalyje nurodytas draudimo įmokas,
-
-jeigu šiame filiale (skyriuje) laikomi indėliai nėra apdrausti pagal užsienio
-
-valstybės, kurios jurisdikcijai priklauso filialą (skyrių) įsteigęs bankas,
-
-įstatymus.
-
-4. Jeigu Lietuvos Respublikoje įsteigtame
-
-užsienio banko filiale (skyriuje) laikomi indėliai užsienio banko yra apdrausti
-
-pagal užsienio valstybės įstatymus, tačiau Fondo taryba nustato, kad šios
-
-indėlių draudimo sąlygos yra blogesnės, negu nustatyta šiame įstatyme, tai
-
-užsienio bankas privalo papildomai apdrausti Lietuvos Respublikoje įsteigtame
-
-užsienio banko filiale (skyriuje) laikomus gyventojų indėlius Fondo tarybos
-
-nustatyta tvarka.
-
-5. Jeigu draudėjas per Fondo tarybos
-
-nustatytą laiką nesumokėjo draudimo įmokos ar jos dalies į Fondo sąskaitą, už
-
-kiekvieną pavėluotą dieną skaičiuojami  delspinigiai nuo nustatytu laiku
-
-nesumokėtos draudimo įmokos sumos. Delspinigių dydis apskaičiuojamas
-
-vadovaujantis Lietuvos Respublikos mokesčių administravimo įstatymo 39
-
-straipsnio 3 dalies nuostatomis.
-
-7
-
-straipsnis. Draudimo nutraukimas
-
-1. Jeigu Lietuvos bankas laikinai ar visam
-
-laikui atšaukia draudėjui leidimą atlikti vieną ar visas operacijas, sustabdo
-
-banko tarybos įgaliojimus, nušalina banko valdybą, administracijos vadovą ir
-
-paskiria banko laikinąjį administratorių, apriboja disponavimą draudėjo
-
-sąskaitomis, esančiomis Lietuvos banke, arba atitinkamas priemones užsienio
-
-bankui pritaiko užsienio valstybės, kurios jurisdikcijai priklauso filialą
-
-(skyrių) Lietuvos Respublikoje įsteigęs bankas, bankų priežiūros institucija,
-
-ir kai draudėjo rizikinga veikla kelia pavojų Fondo likvidumui, Fondo taryba
-
-turi teisę nutraukti draudėjo naujai priimamų indėlių draudimą.
-
-2. Fondas įspėja draudėją apie indėlių
-
-draudimo nutraukimą ne vėliau kaip prieš 12 mėnesių. Jei per šį laikotarpį
-
-draudėjas nepašalina pažeidimų, Fondo tarybos sprendimu nutraukiamas draudėjo
-
-priimamų indėlių draudimas. Apie indėlių draudimo nutraukimą Fondas paskelbia
-
-„Valstybės žinių“ priede. Jeigu draudėjas, kuriam nutraukiamas indėlių
-
-draudimas, bankrutuoja, Fondas išmoka draudimo išmokas tiems gyventojams, kurių
-
-indėliai buvo laikomi pas draudėją iki sprendimo apie draudimo nutraukimą
-
-paskelbimo „Valstybės žinių“ priede.
-
-TREČIASIS
-
-SKIRSNIS
-
-INDĖLIŲ
-
-DRAUDIMO FONDAS
-
-5 straipsnis.
-
-Draudimo kompensacijų apribojimai
-
-Fondas draudimo
-
-kompensacijų nemoka už:
-
-1) palūkanas už
-
-indėlių lėšas;
-
-2)  indėlius,  kurie
-
-teismo  sprendimu  pripažinti  įgytais
-
-neteisėtu būdu;
-
-3) su banku
-
-susijusių asmenų indėlius;
+sutuoktinių ir tėvų (įtėvių) indėlius;
 
 4) banko
 
-paskolos gavėjo indėlius, jeigu jų dydis neviršija
+paskolos gavėjo indėlius, jeigu jų dydis neviršija jo negrąžintų paskolų su
 
-jo negrąžintų
+palūkanomis dydžio. Jeigu banko paskolos gavėjo indėlis yra didesnis už šio
 
-paskolų su palūkanomis dydžio. Jeigu banko paskolos
+gavėjo negrąžintas paskolas kartu su palūkanomis, kompensuojamas indėlio ir
 
-gavėjo indėlis  yra
+paskolų su palūkanomis skirtumas, bet ne didesnis negu nurodytas šio įstatymo 4
 
-didesnis  už šio  gavėjo negrąžintas paskolas
-
-kartu  su
-
-palūkanomis,  kompensuojamas  indėlio  ir  paskolų  su
-
-palūkanomis
-
-skirtumas,   bet  ne  didesnis  negu  nurodytas  šio
-
-įstatymo 4
-
-straipsnio pirmojoje dalyje;
+straipsnio 1 dalyje;
 
 5) anoniminėse
 
 ir užkoduotose sąskaitose laikomus indėlius;
 
-6) indėlius
+6) indėlius iki
 
-iki 10  litų arba  šią sumą  atitinkančią  sumą
+10 litų arba šią sumą atitinkančią sumą užsienio valiuta.
 
-užsienio valiuta;
+2. Gyventojams,
 
-7)
+dėl kurių indėlių lėšų įsigijimo teisėtumo kreiptasi į teisėsaugos
 
-indėlius,   laikomus   bankuose,   kuriuose   valstybei
+institucijas, tačiau dar nepriimtas sprendimas, Fondo taryba sustabdo draudimo
 
-nuosavybės teise
+išmokų išmokėjimą.
 
-priklauso ne  mažiau kaip  51 procentas akcinio
+6 straipsnis. Draudimo įmoka
 
-kapitalo.
+1. Draudimo įmoka yra apskaičiuojama taikant 1 procento metinę draudimo
 
-Gyventojams,
+įmokos normą nuo gyventojų sąskaitose, atidarytose pagal banko sąskaitos ir
 
-dėl  kurių  indėlių  lėšų  įsigijimo  teisėtumo
+(arba) indėlio sutartis, esančių lėšų litais ir užsienio valiuta sumos, laikomos
 
-kreiptasi  į
+Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtame banke, veikiančiame
 
-teisėsaugos  institucijas,  tačiau  dar  nepriimtas
+Lietuvos Respublikos teritorijoje, ar Lietuvos Respub1ikoje įsteigtame užsienio
 
-sprendimas,
+banko filiale (skyriuje), kuriame laikomi indėliai nėra apdrausti arba kitaip
 
-Fondo   taryba   sustabdo   draudimo   kompensacijų
+nėra užtikrintas jų saugumas pagal užsienio valstybės, kurios jurisdikcijai
 
-išmokėjimą.
+priklauso filialą (skyrių) įsteigęs bankas, teisės aktus. Draudimo įmoka turi
 
-Pakeitimai:
+būti mokama į Fondo sąskaitą kiekvieną mėnesį. Draudimo įmokos apskaičiavimo,
 
-1. Lietuvos
+mokėjimo tvarką ir terminus nustato Fondo taryba. Įsteigti nauji Lietuvos
 
-Respublikos 1996 002 01
+Respublikoje įregistruoti bankai ir šio straipsnio 3 ir 4 dalyse nustatytais
 
-Įstatymas Nr.
+atvejais užsienio bankų filialai (skyriai), pradėję veiklą, pirmą (avansinę)
 
-1-1189
+įmoką, kurios dydį ir mokėjimo tvarką nustato Fondo taryba, moka neatsižvelgdami
 
-Žin., 1996,
+į gyventojų sąskaitose, atidarytose pagal banko sąskaitos ir (arba) indėlio
 
-Nr.14-354
+sutartis, esančių lėšų litais ir užsienio valiuta sumą.
 
-6 straipsnis.
+2. Lietuvos Respublikos įstatymų nustatyta tvarka įsteigti bankai,
 
-Draudimo įmoka
+veikiantys Lietuvos Respublikos teritorijoje, išskyrus šio įstatymo 3
 
-Metinė
+straipsnio 2 dalyje bei 24 straipsnyje nurodytus atvejus, privalo apdrausti
 
-draudimo  įmoka  sudaro  1,5 procento  banke  laikomų
+Fonde gyventojų indėlius ir mokėti šio straipsnio 1 dalyje nurodytas draudimo
 
-gyventojų visų
+įmokas.
 
-indėlių litais  ir užsienio valiuta sumos. Įmokos
+3. Užsienio bankas privalo Fonde apdrausti Lietuvos Respublikoje įsteigtame
 
-apskaičiavimo,
+šio užsienio banko filiale (skyriuje) laikomus gyventojų indėlius ir mokėti šio
 
-mokėjimo tvarką ir terminus nustato Fondo taryba.
+straipsnio 1 dalyje nurodytas draudimo įmokas, jeigu šiame filiale (skyriuje)
 
-Lietuvos
+laikomi indėliai nėra apdrausti arba kitaip nėra užtikrintas jų saugumas pagal
 
-bankai,   išskyrus  šio   įstatymo  3   straipsnio
+užsienio valstybės, kurios jurisdikcijai priklauso filialą (skyrių) įsteigęs
 
-antrojoje dalyje
+bankas, teisės aktus.
 
-bei 25  straipsnyje nurodytus  atvejus, privalo
+4. Jeigu Lietuvos Respublikoje įsteigtame
 
-apdrausti Fonde
+užsienio banko filiale (skyriuje) laikomi indėliai yra apdrausti arba kitaip
 
-gyventojų  indėlius  ir  mokėti  šio  straipsnio
+užtikrintas jų saugumas pagal užsienio valstybės teisės aktus, tačiau Fondo
 
-pirmojoje dalyje
+taryba nustato, kad šios indėlių draudimo (saugumo užtikrinimo) sąlygos yra
 
-nurodytas metines draudimo įmokas.
+blogesnės, negu nustatyta šiame įstatyme, tai užsienio bankas privalo Fondo
 
-Jeigu draudėjas
+tarybos nustatyta tvarka papildomai apdrausti Lietuvos Respublikoje įsteigtame
 
-per Fondo tarybos nustatytą laiką nesumokėjo
+užsienio banko filiale (skyriuje) laikomus gyventojų indėlius. Šiuo atveju nuo
 
-metinės draudimo
+papildomai draudžiamos sumos draudimo įmoka apskaičiuojama taikant 1 procento
 
-įmokos ar  jos  dalies,  į  Fondo  sąskaitą  už
+metinę draudimo įmokos normą ir mokama į Fondo sąskaitą kiekvieną mėnesį.
 
-kiekvieną pavėluotą
+5. Jeigu draudėjas per Fondo tarybos nustatytą laiką nesumokėjo
 
-dieną skaičiuojami 0,2 procento delspinigiai
+draudimo įmokos ar jos dalies į Fondo sąskaitą, už kiekvieną pavėluotą dieną
 
-nuo nustatytu laiku
+skaičiuojami  delspinigiai nuo nustatytu laiku nesumokėtos draudimo įmokos
 
-nesumokėtos draudimo įmokos sumos.
+sumos. Delspinigių dydis apskaičiuojamas vadovaujantis Lietuvos Respublikos
 
-Pakeitimai:
+mokesčių administravimo įstatymo 39 straipsnio 3 dalies nuostatomis.
 
-1. Lietuvos
+Straipsnio pakeitimai:
 
-Respublikos 1996 002 01
+Nr. VIII-1582, 00.03.21, Žin., 2000, Nr.29-802
 
-Įstatymas Nr.
+(00.04.07)
 
-1-1189
+7 straipsnis. Draudimo nutraukimas
 
-Žin., 1996,
+1. Jeigu
 
-Nr.14-354
+Lietuvos bankas laikinai ar visam laikui atšaukia draudėjui leidimą atlikti
 
-7 straipsnis.
+vieną ar visas operacijas, sustabdo banko tarybos įgaliojimus, nušalina banko
 
-Draudimo nutraukimas
+valdybą, administracijos vadovą ir paskiria banko laikinąjį administratorių,
 
-Jeigu Lietuvos
+apriboja disponavimą draudėjo sąskaitomis, esančiomis Lietuvos banke, arba
 
-bankas laikinai  ar  visam  laikui  atšaukia
+atitinkamas priemones užsienio bankui pritaiko užsienio valstybės, kurios
 
-draudėjui leidimą
+jurisdikcijai priklauso filialą (skyrių) Lietuvos Respublikoje įsteigęs bankas,
 
-atlikti vieną  ar visas  operacijas,  sustabdo
+bankų priežiūros institucija, ir kai draudėjo rizikinga veikla kelia pavojų
 
-banko    tarybos
+Fondo likvidumui, Fondo taryba turi teisę nutraukti draudėjo naujai priimamų
 
-įgaliojimus,    nušalina    banko    valdybą,
+indėlių draudimą.
 
-administracijos
+2. Fondas
 
-vadovą    ir    paskiria    banko    laikinąjį
+įspėja draudėją apie indėlių draudimo nutraukimą ne vėliau kaip prieš 12
 
-administratorių,
+mėnesių. Jei per šį laikotarpį draudėjas nepašalina pažeidimų, Fondo tarybos
 
-apriboja   disponavimą  draudėjo   sąskaitomis,
+sprendimu nutraukiamas draudėjo priimamų indėlių draudimas. Apie indėlių
 
-esančiomis Lietuvos
+draudimo nutraukimą Fondas paskelbia „Valstybės žinių“ priede. Jeigu draudėjas,
 
-banke,  ir  kitais  atvejais,  kai  draudėjo
+kuriam nutraukiamas indėlių draudimas, bankrutuoja, Fondas išmoka draudimo
 
-rizikinga veikla
+išmokas tiems gyventojams, kurių indėliai buvo laikomi pas draudėją iki
 
-kelia pavojų Fondo likvidumui, Fondo taryba turi
+sprendimo apie draudimo nutraukimą paskelbimo „Valstybės žinių“ priede.
 
-teisę nutraukti
+TREČIASIS SKIRSNIS
 
-draudėjo naujai priimamų indėlių draudimą.
+INDĖLIŲ DRAUDIMO FONDAS
 
-Fondas įspėja
+8 straipsnis.
 
-draudėją apie  indėlių draudimo nutraukimą ne
+Fondo statusas
 
-vėliau kaip  prieš
+1. Fondas yra
 
-6  mėnesius. Jei  per šį  laikotarpį draudėjas
+Lietuvos Respublikoje įregistruota valstybės įmonė, turinti juridinio asmens
 
-nepašalina
+teises, savarankišką balansą ir sąskaitą Lietuvos banke, antspaudą su Lietuvos
 
-pažeidimų,   Fondo  tarybos   sprendimu  nutraukiamas
+valstybės herbu ir pavadinimu Valstybės įmonė Indėlių draudimo fondas.
 
-draudėjo  priimamų
+2. Fondą steigia
 
-indėlių  draudimas.   Jeigu  bankas,  kuriam
+Lietuvos Respublikos Vyriausybė ir paveda Finansų ministerijai vykdyti Fondo
 
-nutraukiamas
+steigėjo funkcijas. Fondas registruojamas Lietuvos Respublikos įmonių rejestro
 
-indėlių   draudimas,  bankrutuoja,   Fondas  išmoka
+įstatymo nustatyta tvarka.
 
-draudimo
+3. Fondas savo
 
-kompensacijas  tiems gyventojams,  kurių  indėliai  buvo
+veikloje vadovaujasi šiuo įstatymu, Lietuvos Respublikos valstybės ir
 
-laikomi banke  iki
+savivaldybės įmonių įstatymu ir kitais teisės aktais, jei šis įstatymas nenustato
 
-sprendimo  apie draudimo nutraukimą paskelbimo
+ko kita, taip pat savo įstatais.
 
-"Valstybės
+4. Fondas
 
-žiniose".
+neatsako už valstybės prievoles. Valstybė atsako tik už šiame įstatyme
 
-III
+nustatytas draudimines Fondo prievoles.
 
-SKIRSNIS. INDĖLIŲ DRAUDIMO FONDAS
+9 straipsnis.
 
-8 straipsnis. Fondo statusas
+Fondo įstatai
 
-1. Fondas yra Lietuvos Respublikoje
+Fondo
 
-įregistruota valstybės įmonė, turinti juridinio asmens teises, savarankišką
+įstatuose turi būti nurodytos Fondo funkcijos, jo tarybos ir administracijos
 
-balansą ir sąskaitą Lietuvos banke, antspaudą su Lietuvos valstybės herbu ir
+teisės bei pareigos, taip pat Lietuvos Respublikos valstybės ir savivaldybės
 
-pavadinimu Valstybės įmonė Indėlių draudimo fondas.
+įmonių įstatymo 6 straipsnyje nustatyti kiti reikalavimai. Fondo įstatus
 
-2. Fondą steigia Lietuvos Respublikos
+tvirtina Lietuvos Respublikos Vyriausybė.
 
-Vyriausybė ir paveda Finansų ministerijai vykdyti Fondo steigėjo funkcijas. Fondas
-
-registruojamas Lietuvos Respublikos įmonių rejestro įstatymo nustatyta tvarka.
-
-3. Fondas savo veikloje vadovaujasi šiuo
-
-įstatymu, Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymu ir
-
-kitais teisės aktais, jei šis įstatymas nenustato ko kita, taip pat savo
-
-įstatais.
-
-4. Fondas neatsako už valstybės prievoles.
-
-Valstybė atsako tik už šiame įstatyme nustatytas draudimines Fondo prievoles.
-
-9 straipsnis. Fondo įstatai
-
-Fondo įstatuose turi būti nurodytos Fondo funkcijos,
-
-jo tarybos ir administracijos teisės bei pareigos, taip pat Lietuvos
-
-Respublikos valstybės ir savivaldybės įmonių įstatymo 6 straipsnyje nustatyti
-
-kiti reikalavimai. Fondo įstatus tvirtina Lietuvos Respublikos Vyriausybė.
-
-10
-
-straipsnis. Fondo funkcijos
-
-Įgyvendindamas šį įstatymą, Fondas atlieka
-
-šias funkcijas:
-
-1) kaupia, valdo šio įstatymo nustatyta tvarka
-
-surinktas lėšas ir jomis disponuoja;
-
-2) apskaičiuoja ir išmoka gyventojams
-
-draudimo išmokas;
-
-3) tikrina, ar draudėjai nepažeidžia
-
-nustatytos indėlių draudimo tvarkos;
-
-4) įvertina draudimo riziką;
-
-5) atlieka kitas Fondo įstatuose numatytas
-
-funkcijas.
-
-10 straipsnis.
-
-Fondo funkcijos
+10 straipsnis. Fondo funkcijos
 
 Įgyvendindamas
 
 šį įstatymą, Fondas atlieka šias funkcijas:
 
-1) kaupia,
+1)
 
-valdo šio  įstatymo nustatyta  tvarka  surinktas
-
-lėšas ir jomis
+kaupia, valdo šio įstatymo nustatyta tvarka surinktas lėšas ir jomis
 
 disponuoja;
 
-2) išmoka
+2) apskaičiuoja
 
-gyventojams draudimo kompensacijas;
+ir išmoka gyventojams draudimo išmokas;
 
-3) tikrina,
+3) tikrina, ar
 
-ar  draudėjai  nepažeidžia  nustatytos  indėlių
+draudėjai nepažeidžia nustatytos indėlių draudimo tvarkos;
 
-draudimo tvarkos;
+4) įvertina
 
-4) atlieka
+draudimo riziką;
 
-kitas fondo įstatuose numatytas funkcijas.
+5) atlieka kitas
 
-11 straipsnis. Fondo veikla
+Fondo įstatuose numatytas funkcijas.
 
-Fondas draudžia gyventojų indėlius,
+11 straipsnis.
 
-investuoja Fondo lėšas ir atlieka kitą Fondo įstatuose numatytą veiklą.
+Fondo veikla
 
-12 straipsnis. Fondo teisės
+Fondas draudžia
 
-Fondas, atlikdamas jam pavestas funkcijas,
+gyventojų indėlius, investuoja Fondo lėšas ir atlieka kitą Fondo įstatuose
 
-turi teisę:
+numatytą veiklą.
 
-1) turėti atsiskaitomąsias nacionalinės
+12 straipsnis.
 
-valiutos ir užsienio valiutos sąskaitas Lietuvos banke;
+Fondo teisės
 
-2) sudaryti sutartis, prisiimti
+Fondas,
 
-įsipareigojimus;
+atlikdamas jam pavestas funkcijas, turi teisę:
 
-3) įstatymų ir Fondo įstatų nustatyta tvarka
+1) turėti
 
-disponuoti Fondo lėšomis ir turtu;
+atsiskaitomąsias nacionalinės valiutos ir užsienio valiutos sąskaitas Lietuvos
 
-4) nutraukti indėlių draudimą šio įstatymo 7
+banke;
 
-straipsnyje numatytais atvejais;
+2) sudaryti
 
-5) tikrinti draudimo įmokų apskaičiavimo ir
+sutartis, prisiimti įsipareigojimus;
 
-mokėjimo teisingumą;
+3) įstatymų ir
 
-6) gauti iš draudėjo ir Lietuvos banko
+Fondo įstatų nustatyta tvarka disponuoti Fondo lėšomis ir turtu;
 
-informaciją, reikalingą Fondo funkcijoms atlikti;
+4) nutraukti
 
-7) Fondo įsipareigojimams vykdyti imti
+indėlių draudimą šio įstatymo 7 straipsnyje numatytais atvejais;
 
-paskolas su valstybės garantija;
+5) tikrinti
 
-8) gauti likviduojamo banko, kuriame
+draudimo įmokų apskaičiavimo ir mokėjimo teisingumą;
 
-gyventojų indėliai buvo apdrausti pagal šį įstatymą, turto dalį;
+6) gauti iš
 
-9) ne ginčo tvarka išieškoti iš draudėjo
+draudėjo ir Lietuvos banko informaciją, reikalingą Fondo funkcijoms atlikti;
 
-laiku nesumokėtas įmokas;
+7) Fondo
 
-10) užsiimti kita Fondo įstatuose numatyta
+įsipareigojimams vykdyti imti paskolas su valstybės garantija;
 
-veikla.
+8) gauti
 
-13
+likviduojamo banko, kuriame gyventojų indėliai buvo apdrausti pagal šį
 
-straipsnis. Fondo valdymas
+įstatymą, turto dalį;
 
-Fondo
+9) ne ginčo
 
-valdymo organai yra Fondo taryba ir administracija.
+tvarka išieškoti iš draudėjo laiku nesumokėtas įmokas;
 
-13 straipsnis.
+10) užsiimti kita
 
-Fondo valdymas
+Fondo įstatuose numatyta veikla.
 
-Fondo valdymo
+13 straipsnis. Fondo valdymas
 
-organai yra Fondo taryba ir administracija.
+Fondo valdymo organai yra
 
-14 straipsnis. Fondo taryba
+Fondo taryba ir administracija.
 
-1. Taryba sudaroma iš 6 narių, kuriuos skiria
+14 straipsnis.
 
-Lietuvos Respublikos Vyriausybė. Finansų ministerija ir Lietuvos bankas teikia
+Fondo taryba
 
-po du kandidatus, o Seimo Biudžeto ir finansų komitetas bei Lietuvos bankų
+1. Taryba
 
-asociacija - po vieną kandidatą. Taryba sudaroma ne ilgesniam kaip 4 metų
+sudaroma iš 6 narių, kuriuos skiria Lietuvos Respublikos Vyriausybė. Finansų
 
-laikotarpiui. Tarybos sudėtis atnaujinama kas 2 metai pakeičiant ne mažiau kaip
+ministerija ir Lietuvos bankas teikia po du kandidatus, o Seimo Biudžeto ir
 
-2 narius.
+finansų komitetas bei Lietuvos bankų asociacija - po vieną kandidatą. Taryba
 
-2. Tarybos nariais gali būti tik Lietuvos
+sudaroma ne ilgesniam kaip 4 metų laikotarpiui. Tarybos sudėtis atnaujinama kas
 
-Respublikos piliečiai.
+2 metai pakeičiant ne mažiau kaip 2 narius.
 
-3. Fondo tarybai vadovauja tarybos
+2. Tarybos
 
-pirmininkas. Jį skiria Lietuvos Respublikos Vyriausybė iš Fondo tarybos narių.
+nariais gali būti tik Lietuvos Respublikos piliečiai.
+
+3. Fondo tarybai
+
+vadovauja tarybos pirmininkas. Jį skiria Lietuvos Respublikos Vyriausybė iš
+
+Fondo tarybos narių.
 
 4. Fondo taryba:
 
-1) skiria pareigoms ir atleidžia iš jų Fondo
+1) skiria pareigoms ir atleidžia iš jų Fondo administracijos vadovą ir
 
-administracijos vadovą ir vyriausiąjį finansininką;
+vyriausiąjį finansininką;
 
-2) teikia pasiūlymus Lietuvos Respublikos
+2) teikia pasiūlymus Lietuvos Respublikos Vyriausybei dėl Fondo įstatų
 
-Vyriausybei dėl Fondo įstatų pakeitimo;
+pakeitimo;
 
-3) nustato draudimo įmokų apskaičiavimo,
+3) nustato
 
-mokėjimo tvarką ir terminus;
+draudimo įmokų apskaičiavimo, mokėjimo tvarką ir terminus;
 
-4) nustato draudimo išmokų apskaičiavimo ir
+4) nustato
 
-išmokėjimo tvarką;
+draudimo išmokų apskaičiavimo ir išmokėjimo tvarką;
 
-5) nustato Fondo lėšų investavimo tvarką;
+5) nustato Fondo
 
-6) priima sprendimus dėl indėlių draudimo
+lėšų investavimo tvarką;
 
-nutraukimo;
+6) priima
 
-7) tvirtina metinę Fondo ataskaitą;
+sprendimus dėl indėlių draudimo nutraukimo;
 
-8) tvirtina išlaidų, nesusijusių su draudimo
+7) tvirtina
 
-išmokų išmokėjimu, sąmatą;
+metinę Fondo ataskaitą;
 
-9) nustato gyventojų pretenzijų dėl draudimo
+8) tvirtina
 
-išmokos išmokėjimo patenkinimo tvarką;
+išlaidų, nesusijusių su draudimo išmokų išmokėjimu, sąmatą;
 
-10) nustato, kas yra Fondo komercinė
+9) nustato
 
-paslaptis;
+gyventojų pretenzijų dėl draudimo išmokos išmokėjimo patenkinimo tvarką;
 
-11) nagrinėja gyventojų pareiškimus dėl
+10) nustato, kas
 
-administracijos veiksmų;
+yra Fondo komercinė paslaptis;
 
-12) nustato užsienio banko Lietuvos Respublikoje įsteigtame
+11) nagrinėja
 
-filiale (skyriuje) laikomų indėlių papildomo draudimo tvarką;
+gyventojų pareiškimus dėl administracijos veiksmų;
 
-13) tvirtina Fondo administracijos ir
+12)
 
-darbuotojų darbo apmokėjimo bei skatinimo tvarką;
+nustato užsienio banko Lietuvos Respublikoje įsteigtame filiale (skyriuje)
 
-14) nustato Fondo administracijos vadovo, jo
+laikomų indėlių papildomo draudimo tvarką;
 
-pavaduotojo ir vyriausiojo finansininko atlyginimus;
+13) tvirtina
 
-15) paskirsto Fondo pelną Lietuvos
+Fondo administracijos ir darbuotojų darbo apmokėjimo bei skatinimo tvarką;
 
-Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
+14) nustato
 
-16) atlieka kitas funkcijas, nustatytas šiame
+Fondo administracijos vadovo, jo pavaduotojo ir vyriausiojo finansininko
 
-ir kituose Lietuvos Respublikos įstatymuose, taip pat kituose teisės aktuose
+atlyginimus;
 
-bei Fondo įstatuose.
+15) paskirsto
 
-15 straipsnis. Fondo administracija
+Fondo pelną;
 
-1. Administracija valdo Fondą jo įstatuose
+16) atlieka
 
-nustatyta tvarka.
+kitas funkcijas, nustatytas šiame ir kituose Lietuvos Respublikos įstatymuose,
 
-2. Administracijos veiklai vadovauja
+taip pat kituose teisės aktuose bei Fondo įstatuose.
 
-administracijos vadovas, kuris atskaitingas tarybai.
+Straipsnio pakeitimai:
 
-3. Administracijos vadovas įstatymų nustatyta
+Nr. VIII-1582, 00.03.21, Žin., 2000, Nr.29-802
 
-tvarka sudaro ir nutraukia darbo sutartis su Fondo darbuotojais.
+(00.04.07)
 
-Administracijos vadovas, vadovaudamasis Fondo įstatais, turi teisę Fondo vardu
+15 straipsnis.
 
-sudaryti sandorius, atstovauti Fondui valdžios ir valdymo institucijose, teisme
+Fondo administracija
 
-bei gali turėti kitas Fondo įstatuose nurodytas teises.
+1. Administracija
 
-4. Administracijos vadovas ir darbuotojai
+valdo Fondą jo įstatuose nustatyta tvarka.
 
-Lietuvos Respublikos įstatymų nustatyta tvarka privalo atlyginti Fondui
+2.
 
-nuostolius, padarytus dėl jų kaltės.
+Administracijos veiklai vadovauja administracijos vadovas, kuris atskaitingas
 
-16 straipsnis. Fondo komercinių paslapčių
+tarybai.
 
-saugojimas
+3.
 
-1. Informacija, laikoma Fondo komercine
+Administracijos vadovas įstatymų nustatyta tvarka sudaro ir nutraukia darbo
 
-paslaptimi, gali būti teikiama tik įstatymų nustatytoms institucijoms ir įstatymų
+sutartis su Fondo darbuotojais. Administracijos vadovas, vadovaudamasis Fondo
 
-nustatyta tvarka. Kitų valstybių atitinkamoms institucijoms Fondo komercinė
+įstatais, turi teisę Fondo vardu sudaryti sandorius, atstovauti Fondui valdžios
 
-paslaptis gali būti atskleista tik tada, jei tokios informacijos slaptumą
+ir valdymo institucijose, teisme bei gali turėti kitas Fondo įstatuose
 
-garantuoja tų valstybių įstatymai.
+nurodytas teises.
 
-2. Už informacijos, laikomos Fondo komercine
+4.
 
-paslaptimi, paskleidimą Fondo tarybos nariai ir darbuotojai atsako įstatymų
+Administracijos vadovas ir darbuotojai Lietuvos Respublikos įstatymų nustatyta
 
-nustatyta tvarka.
+tvarka privalo atlyginti Fondui nuostolius, padarytus dėl jų kaltės.
 
-17 straipsnis. Fondo kapitalas
+16 straipsnis.
 
-1. Fondo kapitalą sudaro įstatinis ir
+Fondo komercinių paslapčių saugojimas
 
-atsargos kapitalas.
+1. Informacija,
 
-2. Fondo įstatinis kapitalas formuojamas iš
+laikoma Fondo komercine paslaptimi, gali būti teikiama tik įstatymų nustatytoms
 
-valstybės biudžeto lėšų.
+institucijoms ir įstatymų nustatyta tvarka. Kitų valstybių atitinkamoms
 
-3. Fondo įstatinis kapitalas steigimo metu
+institucijoms Fondo komercinė paslaptis gali būti atskleista tik tada, jei
 
-yra 10 mln. litų.
+tokios informacijos slaptumą garantuoja tų valstybių įstatymai.
 
-4. Fondo įstatinis kapitalas iki 2002 m. turi
+2. Už
 
-būti padidintas iki 60 mln. litų.
+informacijos, laikomos Fondo komercine paslaptimi, paskleidimą Fondo tarybos
 
-5. Jeigu Fondo turtas tampa mažesnis už jo
+nariai ir darbuotojai atsako įstatymų nustatyta tvarka.
 
-įsipareigojimus, lėšos jam padidinti iki Fondo įstatinio kapitalo dydžio
+17 straipsnis.
 
-numatomos valstybės biudžete.
+Fondo kapitalas
 
-6. Atsargos kapitalas formuojamas iš Fondo
+1. Fondo
 
-pelno.
+kapitalą sudaro įstatinis ir atsargos kapitalas.
 
-18 straipsnis. Fondo pajamos
+2. Fondo
 
-Fondo pajamas sudaro:
+įstatinis kapitalas formuojamas iš valstybės biudžeto lėšų.
 
-1) draudėjo draudimo įmokos;
+3. Fondo
+
+įstatinis kapitalas steigimo metu yra 10 mln. litų.
+
+4. Fondo
+
+įstatinis kapitalas iki 2002 m. turi būti padidintas iki 60 mln. litų.
+
+5. Jeigu Fondo
+
+turtas tampa mažesnis už jo įsipareigojimus, lėšos jam padidinti iki Fondo
+
+įstatinio kapitalo dydžio numatomos valstybės biudžete.
+
+6. Atsargos
+
+kapitalas formuojamas iš Fondo pelno.
+
+18 straipsnis.
+
+Fondo pajamos
+
+Fondo pajamas
+
+sudaro:
+
+1) draudėjo
+
+draudimo įmokos;
 
 2) delspinigiai;
 
-3) pajamos iš Fondo lėšų investavimo;
+3) pajamos iš
 
-4) lėšos, įstatymų nustatyta tvarka
+Fondo lėšų investavimo;
 
-išieškotos iš likviduojamo banko;
+4) lėšos,
 
-5) lėšos, gautos iš kitos Fondo įstatuose
+įstatymų nustatyta tvarka išieškotos iš likviduojamo banko;
 
-numatytos veiklos.
+5) lėšos, gautos
 
-19 straipsnis. Fondo išlaidos
+iš kitos Fondo įstatuose numatytos veiklos.
 
-Fondo išlaidas sudaro:
+19 straipsnis.
 
-1) draudimo išmokos;
+Fondo išlaidos
 
-2) Fondo administracijos ir Fondo darbuotojų
+Fondo išlaidas
 
-išlaikymo išlaidos;
+sudaro:
 
-3) išlaidos dėl operacijų su vertybiniais popieriais;
+1) draudimo
 
-4) palūkanos už Fondo imamas paskolas;
+išmokos;
 
-5) kitos išlaidos, susidariusios atliekant
+2) Fondo
 
-funkcijas, kurios neprieštarauja Lietuvos Respublikos įstatymams ir Fondo
+administracijos ir Fondo darbuotojų išlaikymo išlaidos;
 
-įstatams.
+3) išlaidos dėl
 
-20 straipsnis. Fondo veiklos rezultatas
+operacijų su vertybiniais popieriais;
 
-1. Finansinių metų rezultatas yra Fondo
+4) palūkanos už
 
-pelnas (nuostolis). Fondo pelnas turi būti paskirstytas ne vėliau kaip per 4
+Fondo imamas paskolas;
 
-mėnesius nuo finansinių metų pabaigos.
+5) kitos
 
-2. Fondo pelnas gali būti naudojamas:
+išlaidos, susidariusios atliekant funkcijas, kurios neprieštarauja Lietuvos
 
-1) Fondo nuostoliams ir įsiskolinimams
+Respublikos įstatymams ir Fondo įstatams.
 
-padengti;
+20 straipsnis.
 
-2) atskaitymams į atsargos kapitalą.
+Fondo veiklos rezultatas
 
-3. Finansiniai metai prasideda sausio 1 d. ir
+1. Finansinių
 
-baigiasi gruodžio 31 d.
+metų rezultatas yra Fondo pelnas (nuostolis). Fondo pelnas turi būti
 
-21 straipsnis. Fondo lėšų investavimas
+paskirstytas ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos.
 
-Fondo lėšos gali būti investuojamos tik į
+2. Fondo pelnas
 
-Lietuvos Respublikos Vyriausybės bei kitų valstybių vyriausybių vertybinius
+gali būti naudojamas:
 
-popierius.
+1) Fondo
 
-22 straipsnis. Finansinės veiklos kontrolė
+nuostoliams ir įsiskolinimams padengti;
 
-Metinė Fondo finansinė ataskaita turi būti
+2) atskaitymams
 
-patikrinta nepriklausomo audito ir paskelbta ne vėliau kaip per 4 mėnesius nuo
+į atsargos kapitalą.
 
-finansinių metų pabaigos.
+3. Finansiniai
 
-23 straipsnis. Fondo atleidimas nuo mokesčių
+metai prasideda sausio 1 d. ir baigiasi gruodžio 31 d.
 
-Fondas atleidžiamas nuo juridinių asmenų
+21 straipsnis.
 
-pelno mokesčio bei palūkanų už kapitalo naudojimą mokėjimo į valstybės
+Fondo lėšų investavimas
 
-biudžetą.
+Fondo lėšos gali
 
-KETVIRTASIS SKIRSNIS
+būti investuojamos tik į Lietuvos Respublikos Vyriausybės bei kitų valstybių
 
-BAIGIAMOSIOS
+vyriausybių vertybinius popierius.
 
-NUOSTATOS
+22 straipsnis.
+
+Finansinės veiklos kontrolė
+
+Metinė Fondo
+
+finansinė ataskaita turi būti patikrinta nepriklausomo audito ir paskelbta ne
+
+vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos.
+
+23 straipsnis.
+
+Fondo atleidimas nuo mokesčių
+
+Fondas
+
+atleidžiamas nuo juridinių asmenų pelno mokesčio bei palūkanų už kapitalo
+
+naudojimą mokėjimo į valstybės biudžetą.
+
+KETVIRTASIS
+
+SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
+
+24
+
+straipsnis. Veikiančių bankų dalyvavimas šiame įstatyme reglamentuojamoje
+
+draudimo sistemoje
+
+1. Šiame
+
+įstatyme reglamentuojamoje indėlių draudimo sistemoje nedalyvauja:
+
+1) bankai, kurie
+
+nepriima indėlių iš gyventojų;
+
+2) bankai,
+
+kuriems šio įstatymo įsigaliojimo metu buvo pritaikyta viena iš Lietuvos
+
+Respublikos komercinių bankų įstatymo 37 straipsnio 1 dalies 3, 7, 8 ir 9
+
+punktuose numatytų poveikio priemonių arba iškelta bankroto byla.
+
+2. Fondo taryba
+
+gali leisti dalyvauti indėlių draudimo sistemoje bankui, kuriam pritaikyta
+
+Lietuvos Respublikos komercinių bankų įstatymo 37 straipsnio 1 dalies 3 punkte
+
+nurodyta poveikio priemonė, atsižvelgdama į banko finansinę būklę ar jo veiklos
+
+pažeidimo pobūdį.
+
+3. Lietuvos bankui atšaukus šiame straipsnyje nustatytų poveikio
+
+priemonių taikymą, bankai privalo šio įstatymo nustatyta tvarka drausti
+
+gyventojų indėlius.
+
+Skelbiu šį Lietuvos Respublikos Seimo
+
+priimtą įstatymą.
+
+RESPUBLIKOS
+
+PREZIDENTAS                                                           VALDAS ADAMKUS
 
 24 straipsnis. Veikiančių
 
