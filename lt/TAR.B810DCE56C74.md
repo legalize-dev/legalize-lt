@@ -4,7 +4,7 @@ identifier: "TAR.B810DCE56C74"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-15"
-last_updated: "1999-07-09"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B810DCE56C74"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos laukinių augalų ir grybų įstatymas
+
+Suvestinė redakcija nuo 2004-01-01 iki 2004-02-27
+
+Įstatymas paskelbtas: Žin. 1999, Nr. 60-1944, i. k. 0991010ISTAIII-1226
 
 LIETUVOS RESPUBLIKOS
 
@@ -95,7 +99,7 @@ Laukinės augalijos apsauga organizuojama ir vykdoma pagal šiuos principus:
 
 3. Laukinės augalijos apsaugos priemones įgyvendina Vyriausybė arba jos įgaliota institucija.
 
-5 straipsnis.         Laukinės augalijos augaviečių apsauga organizuojant ir vykdant jose ūkinę veiklą
+5 straipsnis. Laukinės augalijos augaviečių apsauga organizuojant ir vykdant jose ūkinę veiklą
 
 1. Planuojant ir vykdant statybas, tobulinant esamas ir diegiant naujas technologijas, jų galimas neigiamas poveikis laukinės augalijos augavietėms įvertinamas Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka.
 
@@ -115,7 +119,11 @@ Laukinės augalijos būklei ir jos pokyčiams stebėti bei vertinti vykdomas lau
 
 1. Laukinės augalijos taikomuosius mokslinio tyrimo darbus, jos apsaugos, atkūrimo ir gausinimo priemonių įgyvendinimą pagal atitinkamus teisės aktus finansuoja valstybė, remdamasi biologinės įvairovės ir gamtos išteklių apsaugos programomis, taip pat valstybinės žemės, miškų, vandens telkinių valdytojai ir laukinės augalijos išteklių naudotojai.
 
-2. Papildomi laukinės augalijos apsaugos priemonių finansavimo šaltiniai yra savivaldos institucijų lėšos, gamtos apsaugos fondai, tarp jų ir tarptautiniai, taip pat savanoriškos fizinių bei juridinių asmenų įmokos, užsienio šalių kreditai ir kiti šaltiniai.
+2. Papildomi laukinės augalijos apsaugos priemonių finansavimo šaltiniai yra savivaldybių biudžetų lėšos, tarptautinių organizacijų ir programų lėšos, savanoriškos fizinių bei juridinių asmenų įmokos, užsienio šalių kreditai ir kiti šaltiniai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1616, 2003-06-10, Žin., 2003, Nr. 61-2769 (2003-06-27), i. k. 1031010ISTA0IX-1616
 
 TREČIASIS SKIRSNIS
 
@@ -228,4 +236,14 @@ Fiziniai ir juridiniai asmenys, įmonės, neturinčios juridinio asmens teisių,
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1616, 2003-06-10, Žin., 2003, Nr. 61-2769 (2003-06-27), i. k. 1031010ISTA0IX-1616
+
+Lietuvos Respublikos laukinės augalijos įstatymo 8 straipsnio pakeitimo įstatymas
 
