@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2002-06-26"
+last_updated: "2002-12-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -496,15 +496,15 @@ turto ir pajamų deklaracijas. Jeigu valstybės garantuojama teisinė pagalba
 
 teikiama ilgiau kaip vienerius metus, praėjus vieneriems metams po ankstesnės
 
-deklaracijos pateikimo, turi būti pateikiama kitų metų (12 mėnesių, pradedant skaičiuoti
+deklaracijos pateikimo, turi būti pateikiama kitų metų (12 mėnesių, pradedant
 
-nuo to mėnesio, kurį buvo pateikta ankstesnė deklaracija) turto ir pajamų
+skaičiuoti nuo to mėnesio, kurį buvo pateikta ankstesnė deklaracija) turto ir
 
-deklaracija. Turtą ir pajamas deklaravusiems asmenims valstybinė mokesčių
+pajamų deklaracija. Turtą ir pajamas deklaravusiems asmenims valstybinė
 
-inspekcija per 7 darbo dienas grąžina du deklaracijos egzempliorius su žyma,
+mokesčių inspekcija per 7 darbo dienas grąžina du deklaracijos egzempliorius su
 
-kad deklaracija yra pateikta. Vieną egzempliorių šie asmenys pateikia
+žyma, kad deklaracija yra pateikta. Vieną egzempliorių šie asmenys pateikia
 
 institucijai (pareigūnui), priimančiai sprendimą dėl valstybės garantuojamos
 
@@ -548,23 +548,23 @@ valstybinei mokesčių inspekcijai.
 
 2. Šio įstatymo 11
 
-straipsnio 1–5 punktuose nurodyti asmenys kasmet iki vasario 1 dienos juridiniams,
+straipsnio 1–5 punktuose nurodyti asmenys kasmet iki vasario 1 dienos
 
-fiziniams asmenims bei juridinių asmens teisių neturintiems subjektams
+juridiniams, fiziniams asmenims bei juridinių asmens teisių neturintiems
 
-(atitinkamais kalendoriniais metais išmokėjusiems bet kurios rūšies išmokas,
+subjektams (atitinkamais kalendoriniais metais išmokėjusiems bet kurios rūšies
 
-nemokamai išdavusiems turto bei vertybių ar suteikusiems paslaugų) turi
+išmokas, nemokamai išdavusiems turto bei vertybių ar suteikusiems paslaugų)
 
-raštiškai pranešti, kad jų gyvenamosios vietos valstybinei mokesčių inspekcijai
+turi raštiškai pranešti, kad jų gyvenamosios vietos valstybinei mokesčių
 
-ir jiems patiems pateiktų šio straipsnio 1 dalyje nurodytą pažymą. Jei asmenys
+inspekcijai ir jiems patiems pateiktų šio straipsnio 1 dalyje nurodytą pažymą.
 
-prašymą pateikė vėliau kaip iki vasario 1 dienos, pažyma turi būti išduota per
+Jei asmenys prašymą pateikė vėliau kaip iki vasario 1 dienos, pažyma turi būti
 
-10 darbo dienų nuo prašymo gavimo dienos. Pagal raštišką pranešimą pažymą
+išduota per 10 darbo dienų nuo prašymo gavimo dienos. Pagal raštišką pranešimą
 
-pateikti yra privaloma.
+pažymą pateikti yra privaloma.
 
 3. Lietuvos
 
@@ -652,13 +652,13 @@ turtą ir pajamas Lietuvos Respublikos gyventojų turto ir pajamų deklaracijos
 
 nuorašus.
 
-2. Valstybinė mokesčių inspekcija,
+2. Valstybinė mokesčių
 
-nustačiusi, kad mokesčiai sumokėti neteisingai arba iš viso nesumokėti, išieško
+inspekcija, nustačiusi, kad mokesčiai sumokėti neteisingai arba iš viso
 
-juos Mokesčių administravimo įstatymo arba atitinkamo mokesčio įstatymo
+nesumokėti, išieško juos Mokesčių administravimo įstatymo arba atitinkamo
 
-nustatyta tvarka.
+mokesčio įstatymo nustatyta tvarka.
 
 Straipsnio
 
@@ -764,11 +764,11 @@ nariai gali skelbti “Valstybės žinių” specialiame priede valstybės lėš
 
 turto ir pajamų deklaracijų informaciją. Patvirtintą deklaracijos nuorašą ir
 
-raštišką sutikimą skelbti deklaraciją “Valstybės žinių” redakcijai pateikia pats
+raštišką sutikimą skelbti deklaraciją “Valstybės žinių” redakcijai pateikia
 
-deklaruojantysis. Deklaracijų nuorašų pristatymo ir skelbimo terminai yra tokie
+pats deklaruojantysis. Deklaracijų nuorašų pristatymo ir skelbimo terminai yra
 
-pat, kaip nurodyta 10 straipsnio 2 dalyje.
+tokie pat, kaip nurodyta 10 straipsnio 2 dalyje.
 
 Straipsnio
 
@@ -842,13 +842,13 @@ Respublikos gyventojai, kalendoriniais metais suteikę juridiniams, fiziniams
 
 asmenims bei juridinio asmens teisių neturinčioms įmonėms paskolas, kurių suma
 
-per kalendorinius metus didesnė kaip 10 000 litų, arba padovanoję dovanas,
+per kalendorinius metus didesnė kaip 10 000 litų, arba padovanoję dovanas, kurių
 
-kurių suma per kalendorinius metus didesnė kaip 10 000 litų, savo turtą ir
+suma per kalendorinius metus didesnė kaip 10 000 litų, savo turtą ir pajamas
 
-pajamas pradeda deklaruoti nuo tų kalendorinių metų, kuriais suteikė paskolas
+pradeda deklaruoti nuo tų kalendorinių metų, kuriais suteikė paskolas arba
 
-arba padovanojo dovanas;
+padovanojo dovanas;
 
 6) asmenys,
 
@@ -932,9 +932,9 @@ s ą r a š a s
 
 Prezidentas.
 
-2. Lietuvos Respublikos
+2. Lietuvos
 
-Seimo nariai.
+Respublikos Seimo nariai.
 
 3. Lietuvos
 
@@ -994,7 +994,7 @@ inspekcijų valstybės tarnautojai.
 
 12. Vidaus
 
-reikalų sistemos ir Mokesčių policijos departamento prie Vidaus reikalų
+reikalų sistemos ir Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų
 
 ministerijos valstybės tarnautojai.
 
@@ -1035,6 +1035,10 @@ VIII-632,
 Nr. VIII-1887, 00.07.20, Žin., 2000,
 
 Nr.67-2017 (00.08.09)
+
+Nr. IX-1193,
+
+2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
 
 Lietuvos Respublikos
 
@@ -1084,9 +1088,9 @@ prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstyb
 
 valdymo institucijų vyriausieji buhalteriai (finansininkai) ir vyriausiųjų
 
-buhalterių (finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos institucijos
+buhalterių (finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos
 
-šiame punkte išvardytų institucijų skelbiamą sąrašą).
+institucijos šiame punkte išvardytų institucijų skelbiamą sąrašą).
 
 6. Ministerijų
 
@@ -1108,7 +1112,9 @@ turintys asmenys.
 
 administracijų struktūrinių padalinių (departamentų, valdybų, inspekcijų,
 
-skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir padalinių vadovų pavaduotojai.
+skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir padalinių vadovų
+
+pavaduotojai.
 
 10. Apskričių viršininkų
 
@@ -1174,7 +1180,7 @@ Nr. IX-944,
 
 2002-06-11, Žin., 2002, Nr. 64-2577 (2002-06-26)
 
-_____________
+_______________
 
 Pakeitimai:
 
@@ -1302,9 +1308,9 @@ STRAIPSNIU ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-334, 2001 05 22, Žin., 2001, Nr.
+Nr. IX-334, 2001 05 22, Žin., 2001, Nr. 48-1658
 
-48-1658 (2001 06 06)
+(2001 06 06)
 
 GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 4
 
@@ -1344,13 +1350,33 @@ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 11 STRAIPSNIO IR 2 PRIEDĖLIO PAPILDYMO
 
 ĮSTATYMAS
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1193,
+
+2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
+
+AZARTINIŲ
+
+LOŠIMŲ ĮSTATYMO, DARBO SUTARTIES ĮSTATYMO, ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS
+
+GYVENTOJŲ PAJAMŲ BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ
+
+LĖŠŲ DEKLARAVIMO“, GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-06-26)
+Aušrinė Trapinskienė (2002-12-06)
 
 autrap@lrs.lt
 
