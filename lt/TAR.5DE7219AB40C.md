@@ -4,7 +4,7 @@ identifier: "TAR.5DE7219AB40C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-01-31"
-last_updated: "1996-07-04"
+last_updated: "1997-06-12"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -20,7 +20,11 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.04.23)
+Ramunė Lūžaitė (1997.06.19)
+
+Įstatymas
+
+paskelbtas: Žin., 1991, Nr.6-161
 
 Neoficialus
 
@@ -58,6 +62,20 @@ RESPUBLIKOS FARMACINĖS VEIKLOS ĮSTATYMO 1, 5, 7, 10, 12, 14, 16, 17, 19, 21,
 
 22, 23, 24 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 25 STRAIPSNIU ĮSTATYMAS
 
+3.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-258,
+
+97.06.12, Žin., 1997, Nr.58-1332 (97.06.20)
+
+FARMACINĖS
+
+VEIKLOS ĮSTATYMO 10, 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -67,8 +85,6 @@ LIETUVOS RESPUBLIKOS
 FARMACINĖS VEIKLOS
 
 Į S T A T Y M A S
-
-(Žin., 1991, Nr.6-161)
 
 Šis
 
@@ -164,9 +180,9 @@ pavadinimus, rinkinys;
 
 valstybinis
 
-vaistų registras - vaistų ir  vaistinių medžiagų, kurios leidžiamos vartoti medicinos
+vaistų registras - vaistų ir  vaistinių medžiagų, kurios leidžiamos vartoti
 
-ir veterinarijos reikmėms Lietuvos Respublikoje, galiojantis sąrašas.
+medicinos ir veterinarijos reikmėms Lietuvos Respublikoje, galiojantis sąrašas.
 
 Straipsnio
 
@@ -306,17 +322,11 @@ sąlygos
 
 straipsnis.
 
-Lietuvos
+Lietuvos Respublikoje įmonės, sveikatos priežiūros įstaigų padaliniai ir
 
-Respublikoje įmonės ir fiziniai asmenys gali užsiimti farmacine veikla tik
+fiziniai asmenys gali užsiimti farmacine veikla tik turėdami Sveikatos apsaugos
 
-turėdami Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos
-
-ministerijos leidimą (licenciją). Sveikatos priežiūros įstaigų padaliniai  gali
-
-užsiimti farmacine veikla tik turėdami Valstybinės vaistų kontrolės  tarnybos
-
-prie Sveikatos apsaugos  ministerijos akreditavimo pažymėjimą.
+ministerijos leidimą (licenciją).
 
 Straipsnio
 
@@ -325,6 +335,10 @@ pakeitimai:
 Nr.
 
 I-1442, 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
+
+Nr. VIII-258,
+
+97.06.12, Žin., 1997, Nr.58-1332 (97.06.20)
 
 11
 
@@ -400,11 +414,23 @@ straipsnis.
 
 Vaistai,
 
-vaistinės medžiagos bei gamtinės kilmės vaistinės žaliavos gali būti
+vaistinės medžiagos bei gamtinės kilmės vaistinės žaliavos gali būti parduodamos
 
-parduodamos gyventojams, taip pat įmonėms ar įstaigoms,  neturinčioms  leidimo
+gyventojams, taip pat įmonėms ar įstaigoms, neturinčioms leidimo (licencijos)
 
-(licencijos)  farmacinei veiklai, tik per vaistines.
+farmacinei veiklai, tik per vaistines.
+
+Kaimo vietovėse, jeigu nėra vaistinės ar jos filialo, gyventojai aprūpinami
+
+vaistais, įrašytais Sveikatos apsaugos ministerijos patvirtintame sąraše, per
+
+kaimo vietovėse esančias pirminės sveikatos priežiūros įstaigas pagal dvišales
+
+sutartis su vaistinėmis Sveikatos apsaugos ministerijos nustatyta tvarka.
+
+Pirminės sveikatos priežiūros įstaigos gali užsiimti šia veikla tik turėdamos
+
+savivaldybės mero rekomendaciją.
 
 Straipsnio
 
@@ -413,6 +439,10 @@ pakeitimai:
 Nr.
 
 I-1442, 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
+
+Nr. VIII-258,
+
+97.06.12, Žin., 1997, Nr.58-1332 (97.06.20)
 
 15
 
@@ -478,7 +508,9 @@ Vaistus,
 
 išduodamus tik su gydytojų receptais, reklamuoti leidžiama tik per specialiąją
 
-spaudą ir kitas informavimo priemones, skirtas medicinos ar farmacijos specialistams.
+spaudą ir kitas informavimo priemones, skirtas medicinos ar farmacijos
+
+specialistams.
 
 Vaistus,
 
@@ -616,9 +648,9 @@ Leidimas
 
 (licencija)  užsiimti  farmacine  veikla veterinarijoje  gali būti išduodamas
 
-tik tiems  fiziniams asmenims, kurie turi aukštąjį ar specialųjį vidurinį
+tik tiems  fiziniams asmenims, kurie turi aukštąjį ar specialųjį vidurinį farmacinį
 
-farmacinį arba veterinarinį išsilavinimą.
+arba veterinarinį išsilavinimą.
 
 Straipsnio
 
@@ -674,7 +706,7 @@ RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS
 
-TARYBOS PIRMININKAS                       V.LANDSBERGIS
+TARYBOS PIRMININKAS                       V.LANDSBERGIS
 
 Vilnius,
 
