@@ -4,7 +4,7 @@ identifier: "TAR.C6074E202D98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "2000-11-01"
+last_updated: "2001-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2000-11-01 iki 2001-12-29
+Suvestinė redakcija nuo 2001-12-30 iki 2005-07-11
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
 
@@ -119,7 +119,7 @@ Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010IS
 
 1) priima sprendimą išduoti leidimą ūkio subjekto veiklai zonoje;
 
-2) nustato rinkliavas bendriems zonos reikalams;
+2) nustato rinkliavas zonos įmonėms;
 
 3) nustato zonos valdymo bendrovės išnuomotos žemės bei nekilnojamojo turto subnuomojimo zonos įmonėms ir savitarpio paslaugų teikimo finansines bei kitas sąlygas;
 
@@ -135,13 +135,13 @@ Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010IS
 
 9) nustato žemės subnuomos mokesčio apskaičiavimo ir mokėjimo tvarką;
 
-10) nustato zonos valdymo bendrovės iškvietimų norintiems atvykti į zoną užsienio piliečiams ir asmenims be pilietybės, nuolat gyvenantiems užsienyje, išdavimo tvarką bei tarpininkavimo dėl vizų išdavimo užsieniečiams vykti per Lietuvos Respublikos teritoriją nuo sienos perėjimo punktų iki zonos teritorijos tvarką;
+10) suderinusi su Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į laisvąsias teritorijas tvarką bei tvirtina leidimų pavyzdžius;
 
-11) suderinusi su Valstybės sienos apsaugos tarnyba bei Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į zoną tvarką bei tvirtina leidimų pavyzdžius.
+11) suderinusi su Muitinės departamentu prie Finansų ministerijos, skelbia zonos teritorijos dalis laisvosiomis teritorijomis ir nustato šių teritorijų ribas.
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010ISTAIII-2004
+Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010ISTA00IX-671
 
 8. Zonos valdymo bendrovės administracija organizuoja ir vykdo zonos veiklą pagal bendrovės valdybos patvirtintą darbo reglamentą.
 
@@ -153,25 +153,23 @@ Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010I
 
 3) sudaro savitarpio paslaugų teikimo sutartis su zonos įmonėmis pagal bendrovės valdybos nustatytas finansines ir kitas sąlygas;
 
-4) išduoda bendrovės valdybos nustatyto ir su Valstybės sienos apsaugos tarnyba bei Muitinės departamentu prie Finansų ministerijos suderinto pavyzdžio leidimus įeiti į zoną;
-
-Straipsnio punkto pakeitimai:
-
-Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010ISTAIII-2004
+4) išduoda bendrovės valdybos nustatyto ir su Muitinės departamentu prie Finansų ministerijos suderinto pavyzdžio leidimus įeiti į laisvąsias teritorijas;
 
 5) užtikrina, kad zonoje registruoti ūkio subjektai laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Aplinkos apsaugos įstatymo ir kitų aplinkos apsaugos teisės aktų reikalavimų;
 
-6) užtikrina zonos ribų apsaugą ir sudaro sąlygas Lietuvos Respublikos muitinės darbui muitinės kontrolės postuose;
+6) užtikrina laisvųjų teritorijų ribų apsaugą ir sudaro sąlygas Lietuvos Respublikos muitinės darbui laisvųjų teritorijų muitinės kontrolės postuose;
 
-7) užtikrina zonos teritorijos fizinę apsaugą;
+7) užtikrina laisvųjų teritorijų fizinę apsaugą;
 
 8) sudaro sąlygas teisėsaugos institucijoms ir tarptautinėms kontrolės organizacijoms atlikti zonoje savo funkcijas;
 
 9) išduoda leidimus veiklai zonoje;
 
-10) renka iš ūkio subjektų statistinius ataskaitinius duomenis ir juos analizuoja atsižvelgdama į Statistikos įstatymo reikalavimus;
+10) dirba kitą valdybos jai pavestą darbą.
 
-11) dirba kitą valdybos jai pavestą darbą.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010ISTA00IX-671
 
 10. Zonos valdymo bendrovė, jos valdymo organai ir vadovai atsako įstatymų nustatyta tvarka.
 
@@ -203,7 +201,11 @@ Per Kauno oro uostą įvežamų į zoną ir iš jos išvežamų prekių muitinis
 
 1. Zonos valdymo bendrovė, realizuodama įstatymo jai nustatytas teises, pareigas ir atsakomybę bei remdamasi zonos statutu, gali nustatyti rinkliavas zonos įmonėms.
 
-2. Zonos valdymo bendrovė zonos statute nustatyta tvarka nustato rinkliavų bendriems zonos reikalams tarifų dydžius, subjektus, iš kurių bus imamos rinkliavos, taip pat kitas rinkliavų rinkimo ir mokėjimo sąlygas.
+2. Zonos valdymo bendrovė zonos statute nustatyta tvarka nustato rinkliavų zonos įmonėms tarifų dydžius, subjektus, iš kurių bus imamos rinkliavos, taip pat kitas rinkliavų rinkimo ir mokėjimo sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010ISTA00IX-671
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -234,4 +236,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010ISTAIII-2004
 
 Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010ISTA00IX-671
+
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7, 10 straipsnių pakeitimo ir papildymo įstatymas
 
