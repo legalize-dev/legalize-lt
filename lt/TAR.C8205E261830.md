@@ -4,7 +4,7 @@ identifier: "TAR.C8205E261830"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "1996-04-12"
+last_updated: "1999-07-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
+
+Suvestinė redakcija nuo 1999-07-30 iki 2001-08-19
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
 
 LIETUVOS RESPUBLIKOS
 
@@ -282,7 +286,7 @@ Negalios vaikas turi lygias teises su sveikais vaikais aktyviai gyventi, vystyti
 
 2. Žmonėms, įstaigoms ir organizacijoms, kurie įdarbina negalios vaiką, taikomos įstatymų bei kitų teisės aktų nustatytos lengvatos.
 
-33 straipsnis.       Mokytojų, auklėtojų, socialinių darbuotojų rengimas darbui su vaikais, turinčiais fizinių ar psichinių negalių
+33 straipsnis. Mokytojų, auklėtojų, socialinių darbuotojų rengimas darbui su vaikais, turinčiais fizinių ar psichinių negalių
 
 Mokytojai, auklėtojai, socialiniai darbuotojai darbui su vaikais, turinčiais fizinių ar psichinių negalių, rengiami specialiai. Už jų parengimo šiam darbui tikslines programas atsako Švietimo ir mokslo ministerija kartu su Socialinės apsaugos ir darbo ministerija.
 
@@ -356,7 +360,7 @@ VAIKAS IR DARBAS
 
 3. Vaikai turi teisę į sutrumpintą darbo laiką ir ilgesnes negu suaugusiems atostogas, kitas įstatymų nustatytas garantijas bei lengvatas.
 
-41 straipsnis.       Darbo vietų našlaičiams ir kitiems vaikams rezervavimas, mokesčių lengvatos darbdaviams
+41 straipsnis. Darbo vietų našlaičiams ir kitiems vaikams rezervavimas, mokesčių lengvatos darbdaviams
 
 1. Našlaičiams, likusiems be tėvų globos (rūpybos) ar neturintiems reikiamos materialinės paramos vaikams taikomos įstatymų nustatytos papildomos užimtumo garantijos.
 
@@ -372,7 +376,7 @@ VII SKYRIUS
 
 VAIKAS IR SOCIALINĖ APLINKA
 
-43 straipsnis.       Vaiko apsaugos nuo neigiamos socialinės aplinkos įtakos bendrosios nuostatos
+43 straipsnis. Vaiko apsaugos nuo neigiamos socialinės aplinkos įtakos bendrosios nuostatos
 
 1. Valstybės, vietos savivaldos institucijos, kiti fiziniai ir juridiniai asmenys privalo saugoti vaiką nuo neigiamos socialinės aplinkos įtakos. Sveiko gyvenimo būdo propagavimas ir vaikų teisinis švietimas – svarbios valstybės socialinės politikos ir veiklos kryptys.
 
@@ -388,7 +392,7 @@ VAIKAS IR SOCIALINĖ APLINKA
 
 2. Už vaiko nugirdymą, įtraukimą į girtavimą taikoma įstatymų nustatyta administracinė arba baudžiamoji atsakomybė.
 
-45 straipsnis.       Vaiko apsauga nuo narkotinių, nuodingųjų, kitų stipriai veikiančių priemonių bei medžiagų vartojimo
+45 straipsnis. Vaiko apsauga nuo narkotinių, nuodingųjų, kitų stipriai veikiančių priemonių bei medžiagų vartojimo
 
 1. Vaikas turi būti apsaugotas nuo neteisėto narkotinių, nuodingųjų, kitų stipriai organizmą veikiančių priemonių bei medžiagų vartojimo, tokių priemonių bei medžiagų gaminimo, jų pardavinėjimo ar kitokio platinimo.
 
@@ -426,7 +430,7 @@ IR ELGESIO KONTROLĖS YPATUMAI
 
 3. Vaikas turi būti ugdomas atlikti pareigas ir pats atsakyti už savo poelgius šeimoje, mokymo bei auklėjimo įstaigose, darbe, socialinėje aplinkoje.
 
-49 straipsnis.       Drausmės bei priverčiamųjų auklėjamojo poveikio priemonių vaikui taikymas
+49 straipsnis. Drausmės bei priverčiamųjų auklėjamojo poveikio priemonių vaikui taikymas
 
 1. Vaiką, vengiantį atlikti savo pareigas, už drausmės pažeidimus tėvai, kiti teisėti vaiko atstovai gali atitinkamai drausminti savo nuožiūra, išskyrus fizinį ar psichinį kankinimą, kitokį žiaurų elgesį, vaiko garbės ir orumo žeminimą.
 
@@ -566,169 +570,23 @@ BAIGIAMOSIOS NUOSTATOS
 
 62 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
-Vaiko teisių apsaugos pagrindų įstatymo 4 straipsnio 6 punkto, 10 straipsnio pirmosios dalies, 12 straipsnio ketvirtosios ir penktosios dalių, 13 straipsnio trečiosios dalies, 21 straipsnio trečiosios dalies, 23 ir 25 straipsnių, 35 straipsnio antrosios dalies, 37 straipsnio, 44 straipsnio antrosios dalies, 45 straipsnio antrosios dalies, 46, 47, 49, 53 straipsnių ir 59 straipsnio trečiosios dalies įsigaliojimą ir šio įstatymo įgyvendinimo tvarką nustato Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo įgyvendinimo tvarkos įstatymas.
+Vaiko teisių apsaugos pagrindų įstatymo 10 straipsnio pirmosios dalies, 13 straipsnio trečiosios dalies, 21 straipsnio trečiosios dalies, 23 ir 25 straipsnių, 35 straipsnio antrosios dalies, 37 straipsnio, 44 straipsnio antrosios dalies, 45 straipsnio antrosios dalies, 46, 47, 49, 53 straipsnių ir 59 straipsnio trečiosios dalies įsigaliojimą ir šio įstatymo įgyvendinimo tvarką nustato Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo įgyvendinimo tvarkos įstatymas.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1315, 1999-07-07, Žin., 1999, Nr. 66-2129 (1999-07-30), i. k. 0991010ISTAIII-1315
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-571 straipsnis. Asmenų, pripažintų kaltais už nusikalstamas veikas, darbo apribojimai
+Pakeitimai:
 
-1. Asmenims, įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažintiems kaltais už veikas, nurodytas Baudžiamojo kodekso XXI skyriuje, ar už kitas nusikalstamas veikas, susijusias su vaiko seksualiniu išnaudojimu, vaikų pornografija ar prostitucija, t. y. už vaiko išnaudojimą pornografijai, vaiko pirkimą arba pardavimą, pelnymąsi iš vaiko prostitucijos, vaiko įtraukimą į prostituciją ar disponavimą pornografinio turinio dalykais, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas, ar už analogiškas veikas, numatytas kitų valstybių baudžiamuosiuose įstatymuose, neatsižvelgiant į teistumo išnykimą ar panaikinimą, draudžiama:
+1.
 
-1) dirbti ar užsiimti savanoriška veikla vaikų socialinėse, švietimo ir sporto, sveikatos priežiūros paslaugas vaikams teikiančiose įstaigose, įmonėse ir organizacijose;
+Lietuvos Respublikos Seimas, Įstatymas
 
-2) dirbti darbą kitose, negu nurodytos šio straipsnio 1 dalies 1 punkte, įstaigose, įmonėse ir organizacijose, taip pat jose užsiimti savanoriška veikla, jeigu šis darbas ar savanoriška veikla tiesiogiai (nuolat ar laikinai) susiję su vaikų auklėjimu, mokymu, priežiūra ar jų saugumo užtikrinimu;
+Nr. VIII-1315, 1999-07-07, Žin., 1999, Nr. 66-2129 (1999-07-30), i. k. 0991010ISTAIII-1315
 
-3) verstis individualia veikla, jeigu ši veikla tiesiogiai (nuolat ar laikinai) susijusi su vaikų auklėjimu, mokymu, priežiūra ar jų saugumo užtikrinimu.
-
-2. Mokytojams papildomai taikomi darbo apribojimai, nustatyti Švietimo įstatyme.
-
-3. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija tvirtina sąrašą darbų, veiklų ar paslaugų, nurodytų šio straipsnio 1 dalies 2 ir 3 punktuose, kurių dirbti, atlikti ar teikti dėl tiesioginių kontaktų su vaikais neturi teisės asmenys, įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažinti kaltais už nusikalstamas veikas, nurodytas šio straipsnio 1 dalyje.
-
-4. Asmenys, ketinantys dirbti šio straipsnio 1 dalies 1 punkte nurodytose įstaigose, įmonėse ir organizacijose ar dirbti į šio straipsnio 3 dalyje nurodytą sąrašą įtrauktus darbus, prieš įsidarbindami darbdaviui turi pristatyti pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie fizinį asmenį.
-
-5. Asmenys, norintys užsiimti savanoriška veikla šio straipsnio 1 dalies 1 punkte nurodytose įstaigose, įmonėse ir organizacijose ar vykdyti į šio straipsnio 3 dalyje nurodytą sąrašą įtrauktą savanorišką veiklą, prieš pradėdami vykdyti šią veiklą ir (ar) sudarydami savanoriškos veiklos sutartį savanoriškos veiklos organizatoriui turi pristatyti pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie fizinį asmenį.
-
-6. Paslaugų, įtrauktų į šio straipsnio 3 dalyje nurodytą sąrašą, gavėjas, sudarantis su asmeniu, vykdančiu individualią veiklą, sutartį dėl paslaugų teikimo vaikui, turi teisę paslaugų teikėjo paprašyti, o paslaugų teikėjas privalo pateikti pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie fizinį asmenį.
-
-Papildyta straipsniu:
-
-Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
-
-X SKYRIUS
-
-VAIKO TEISIŲ APSAUGOS INSTITUCIJŲ SISTEMA
-
-361 straipsnis. Vaiko situacijos vertinimas
-
-1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius gali nustatyti būtinybę vertinti pagalbos vaikui ir (ar) šeimai poreikį arba vaiko apsaugos poreikį.
-
-2. Būtinybė vertinti pagalbos vaikui ir (ar) šeimai poreikį nustatoma, jeigu Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikdamas vaiko situacijos vertinimą, nustato vaiko funkcionavimo ir socialinės aplinkos rizikos veiksnius bei rizikos veiksnius, susijusius su vaiko tėvais ar kitais jo atstovais pagal įstatymą ir jų santykiais su vaiku, ir jeigu vaiko tėvai ar kiti jo atstovai pagal įstatymą neužtikrina vaiko teisių ir teisėtų interesų.
-
-3. Vaiko apsaugos poreikis nustatomas, jeigu Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikdamas vaiko situacijos vertinimą, nustato realų pavojų vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei arba pavojų, galintį sukelti reikšmingą žalą vaiko sveikatai, kuris yra susijęs su vaiko funkcionavimo ir socialinės aplinkos rizikos veiksniais bei rizikos veiksniais, susijusiais su vaiko tėvais ar kitais jo atstovais pagal įstatymą ir jų santykiais su vaiku.
-
-4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius gali išklausyti ir kitus asmenis, tarp jų švietimo įstaigų pedagogus, sveikatos priežiūros įstaigų darbuotojus, socialinius darbuotojus, jeigu, nagrinėjančio pranešimą apie galimą vaiko teisių pažeidimą asmens manymu, šie asmenys gali turėti pranešimo nagrinėjimui reikšmingos informacijos.
-
-5. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikdamas vaiko situacijos vertinimą, gali daryti garso ir vaizdo įrašus Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos direktoriaus nustatyta tvarka, parengta vadovaujantis Reglamento (ES) 2016/679 5 straipsnyje įtvirtintais su asmens duomenų tvarkymu susijusiais principais. Siekiant užtikrinti vaiko ir jo šeimos privataus gyvenimo neliečiamumą, Reglamente (ES) 2016/679 numatytą duomenų subjekto teisę susipažinti su garso ir vaizdo įrašuose esančiais asmens duomenimis turi tik vaikai, tėvai ar kiti vaiko atstovai pagal įstatymą, įgalioti valstybės ar savivaldybių institucijų atstovai, dalyvavę atliekant vaiko situacijos vertinimą, taip pat teismas ar kitos valstybės įgaliotos institucijos, priimančios su vaiko situacijos vertinimu susijusius sprendimus.
-
-TAR pastaba. Įstatymo papildymas 361  straipsniu įsigalioja 2020-01-01.
-
-Papildyta straipsniu:
-
-Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
-
-362 straipsnis. Veiksmai nustačius būtinybę vertinti pagalbos vaikui ir (ar) šeimai poreikį
-
-Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs būtinybę vertinti pagalbos vaikui ir (ar) šeimai poreikį, ne vėliau kaip kitą darbo dieną inicijuoja atvejo vadybininko paskyrimą socialinės apsaugos ir darbo ministro nustatyta tvarka.
-
-TAR pastaba. Įstatymo papildymas 362  straipsniu įsigalioja 2020-01-01.
-
-Papildyta straipsniu:
-
-Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
-
-363 straipsnis. Veiksmai nustačius vaiko apsaugos poreikį
-
-1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikęs vaiko situacijos vertinimą ir nustatęs vaiko apsaugos poreikį, nedelsdamas imasi vieno iš šių veiksmų:
-
-1) užtikrina vaikui laikinąją priežiūrą pagal šio įstatymo 364 straipsnio 1 dalį arba,
-
-2) jeigu nėra galimybių taikyti vaiko laikinąją priežiūrą pagal šio įstatymo 364 straipsnio 1 dalį, paima vaiką iš tėvų ar kitų vaiko atstovų pagal įstatymą šio įstatymo 365 straipsnyje nustatyta tvarka.
-
-2. Siekdami užtikrinti vaikui saugią aplinką, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius prireikus gali pasitelkti policijos pareigūnus.
-
-3. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs vaiko apsaugos poreikį, ne vėliau kaip kitą darbo dieną inicijuoja atvejo vadybininko paskyrimą ir organizuoja mobiliosios komandos sudarymą. Mobiliųjų komandų sudarymo, specialistų atrankos ir jų darbo tvarkos aprašą tvirtina socialinės apsaugos ir darbo ministras.
-
-4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai ar jos įgaliotam teritoriniam skyriui nustačius vaiko apsaugos poreikį, vaiko tėvai (vienas iš tėvų) ar kiti vaiko atstovai pagal įstatymą turi teisę matytis su vaiku ir palaikyti su juo ryšius, jeigu tai atitinka geriausius vaiko interesus ir nekelia realaus pavojaus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei.
-
-TAR pastaba. Įstatymo papildymas 363  straipsniu įsigalioja 2020-01-01.
-
-Papildyta straipsniu:
-
-Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
-
-364 straipsnis. Vaiko laikinoji priežiūra
-
-1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs vaiko apsaugos poreikį, užtikrina vaikui saugią aplinką, taikydamas vieną iš šių priemonių:
-
-1) perduoda vaiką giminaičių, su vaiku emociniais ryšiais susijusių asmenų ar kitų vaiko tėvų, ar jo atstovų pagal įstatymą nurodytų asmenų, galinčių laikinai prižiūrėti vaiką, priežiūrai, vaiko ir tėvų ar kitų jo atstovų pagal įstatymą gyvenamojoje vietoje;
-
-2) organizuoja vaiko laikinąją priežiūrą pas giminaičius, su vaiku emociniais ryšiais susijusius asmenis ar kitus vaiko tėvų ar jo atstovų pagal įstatymą nurodytus asmenis, galinčius laikinai prižiūrėti vaiką, prižiūrinčių asmenų gyvenamojoje vietoje;
-
-3) organizuoja vaiko laikinąją priežiūrą, apgyvendinus jį kartu su jo tėvais ar vienu iš jų, arba kitais vaiko atstovais (atstovu) pagal įstatymą, kurie (kuris) nekelia pavojaus vaiko fiziniam ar psichiniam saugumui, socialinę priežiūrą teikiančioje socialinių paslaugų įstaigoje.
-
-2. Vaiko laikinoji priežiūra pas giminaičius, su vaiku emociniais ryšiais susijusius asmenis ar kitus vaiko tėvų ar jo atstovų pagal įstatymą nurodytus asmenis jų gyvenamojoje vietoje turi būti organizuojama bendru vieno iš vaiko tėvų (ar abiejų tėvų) ar kito (kitų) vaiko atstovo (atstovų) pagal įstatymą ir vaiko laikinąją priežiūrą vykdančių asmenų sutarimu.
-
-3. Jeigu vienas iš vaiko tėvų (ar abu tėvai) ar kitas (kiti) vaiko atstovas (atstovai) pagal įstatymą nesusitaria su giminaičiais, su vaiku emociniais ryšiais susijusiais asmenimis ar kitais asmenimis dėl vaiko laikinosios priežiūros atlikimo, vaiko laikinoji priežiūra organizuojama šio straipsnio 1 dalies 3 punkte nustatyta tvarka.
-
-4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, užtikrinęs vaiko laikinąją priežiūrą pagal šio straipsnio 1 dalies 2 punktą, nedalyvaujant vaiko tėvams (vienam iš vaiko tėvų) ar kitiems (kitam) vaiko atstovams (atstovui) pagal įstatymą, nedelsdamas, bet ne vėliau kaip tą pačią dieną, bet kokiomis nuotolinio ryšio priemonėmis ar raštu privalo apie tai pranešti vaiko tėvams ar kitiems jo atstovams pagal įstatymą.
-
-5. Išnykus ar pasikeitus aplinkybėms, dėl kurių buvo nustatytas vaiko apsaugos poreikis taikant šio straipsnio 1 dalyje nurodytas priemones, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius nutraukia vaiko apsaugos priemonės taikymą.
-
-6. Vaiko laikinosios priežiūros priemonės, numatytos šio straipsnio 1 dalies 1 ir 2 punktuose, gali būti taikomos iki 30 dienų. Vaiko laikinosios priežiūros priemonė, numatyta šio straipsnio 1 dalies 3 punkte, gali būti taikoma pagal poreikį, bet ne ilgiau kaip 12 mėnesių. Pagal poreikį vaiko laikinosios priežiūros priemonių, numatytų šio straipsnio 1 dalies 1 ir 2 punktuose, taikymas gali būti pratęstas iki 30 dienų arba jos keičiamos į vaiko laikinosios priežiūros priemonę, numatytą šio straipsnio 1 dalies 3 punkte. Jeigu vaiko laikinosios priežiūros metu visos įmanomos pagalbos šeimai priemonės yra išnaudotos ir buvo neveiksmingos, o vaiko tėvai ar kiti vaiko atstovai pagal įstatymą nededa pastangų, nekeičia savo elgesio ir toliau išlieka realus pavojus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei šeimoje, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, užtikrindamas vaikui saugią aplinką, inicijuoja laikinosios globos (rūpybos) nustatymo procesą.
-
-7. Fiziniai asmenys, sutinkantys užtikrinti šio straipsnio 1 dalies 1 ar 2 punktuose numatytą vaiko laikinąją priežiūrą, pateikia Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai ar jos įgaliotam teritoriniam skyriui rašytinį įsipareigojimą užtikrinti vaikui saugią aplinką.
-
-8. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, pritaikęs šio straipsnio 1 dalies 1 ar 2 punkte nurodytą vaiko laikinosios priežiūros priemonę, nedelsdamas, bet ne vėliau kaip kitą darbo dieną nuo vaiko laikinosios priežiūros priemonės pritaikymo dienos, Įtariamųjų, kaltinamųjų ir nuteistųjų registre patikrina, ar vaiką laikinai prižiūrintis asmuo nėra teistas už šio įstatymo 30 straipsnio 1 dalyje nurodytų nusikaltimų padarymą. Išimtiniais atvejais, kai Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius neturi techninių galimybių pats tiesiogiai patikrinti šią informaciją Įtariamųjų, kaltinamųjų ir nuteistųjų registre, o skubus informacijos patikrinimas yra objektyviai būtinas, šiai informacijai patikrinti gali būti pasitelkiami policijos pareigūnai.
-
-9. Tais atvejais, kai vaiko tėvai ar kiti jo atstovai pagal įstatymą negali pasirūpinti vaiku dėl susiklosčiusių objektyvių aplinkybių (dėl gydymo, tėvų laikino išvykimo ir panašių aplinkybių), vaiko laikinoji priežiūra gali būti nustatoma vaiko tėvų ar kitų jo atstovų pagal įstatymą prašymu savivaldybės administracijos direktoriaus sprendimu pas vaiko giminaičius, su vaiku emociniais ryšiais susijusius asmenis ar kitus vaiko tėvų ar jo atstovų pagal įstatymą nurodytus asmenis, galinčius laikinai prižiūrėti vaiką, bet ne ilgiau kaip 6 mėnesius. Nustačius vaiko laikinąją priežiūrą vaiko tėvų ar kitų jo atstovų pagal įstatymą prašymu, vaiko laikinosios priežiūros išmoka neskiriama, tačiau vaiko laikinosios priežiūros metu jį prižiūrinčiam asmeniui gali būti skiriama socialinė parama (vienkartinė, tikslinė, periodinė, sąlyginė pašalpa) Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nustatyta tvarka.
-
-TAR pastaba. Įstatymo papildymas 364  straipsniu įsigalioja 2020-01-01.
-
-Papildyta straipsniu:
-
-Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
-
-365 straipsnis. Vaiko paėmimo iš jo tėvų ir kitų vaiko atstovų pagal įstatymą tvarka
-
-1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs vaiko apsaugos poreikį, gali paimti vaiką iš jo tėvų ar kitų vaiko atstovų pagal įstatymą Civilinio kodekso 3.254 straipsnyje nurodytais pagrindais ir jeigu:
-
-1) nepavyksta užtikrinti vaikui saugios aplinkos vadovaujantis šio įstatymo 364 straipsnyje nurodytomis priemonėmis ir toliau išlieka realus pavojus vaiko fiziniam ar psichiniam saugumui, galintis sukelti reikšmingą žalą vaiko sveikatai ar grėsti jo gyvybei arba
-
-2) šio įstatymo 364 straipsnyje nurodytų priemonių taikymo metu vaiko tėvai ar kiti jo atstovai pagal įstatymą nededa pastangų, nekeičia savo elgesio ir toliau šeimoje išlieka realus pavojus vaiko fiziniam ar psichiniam saugumui, galintis sukelti reikšmingą žalą vaiko sveikatai ar grėsti jo gyvybei.
-
-2. Vaiko tėvai ar kiti jo atstovai pagal įstatymą turi teisę dalyvauti vaiko paėmimo metu, jeigu tai atitinka vaiko teises ir teisėtus interesus. Jeigu vaiko paėmimo metu dėl objektyvių priežasčių nėra galimybių dalyvauti vaiko tėvams ar kitiems jo atstovams pagal įstatymą, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius nedelsdamas, bet ne vėliau kaip tą pačią dieną, bet kokiomis nuotolinio ryšio priemonėmis ar raštu privalo apie tai pranešti tėvams ar kitiems vaiko atstovams pagal įstatymą.
-
-3. Vaiko tėvai ar kiti jo atstovai pagal įstatymą turi teisę skųsti teismui Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus veiksmus dėl galimai neteisėto vaiko paėmimo atvejo.
-
-4. Vaiko tėvai ar kiti jo atstovai pagal įstatymą turi teisę gauti išsamią informaciją iš Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus apie galimybę bendrauti su vaiku, vaiko grąžinimo sąlygas.
-
-5. Vaiko tėvai ar kiti jo atstovai pagal įstatymą turi pareigą suteikti išsamią informaciją vaiką paėmusiam Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus darbuotojui apie vaiko specialiuosius poreikius ir kitą būtiną informaciją, siekiant apsaugoti vaiko teisėtus interesus.
-
-6. Vaiko paėmimas atliekamas taip, kad kuo mažiau neigiamai paveiktų vaiką. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius turi paaiškinti vaikui pagal jo supratimo lygį ir (ar) jo tėvams pagal jų supratimo lygį, kaip ketinama atlikti vaiko paėmimo procedūrą.
-
-7. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, paėmęs vaiką iš jo tėvų ar kitų vaiko atstovų pagal įstatymą, šio straipsnio 1 dalyje nurodytais atvejais šio įstatymo 42 straipsnio 2 dalyje ir Civilinio kodekso 3.2541 straipsnyje nustatyta tvarka ir terminais kreipiasi į teismą dėl leidimo paimti vaiką iš jo tėvų ar kitų vaiko atstovų pagal įstatymą.
-
-TAR pastaba. Įstatymo papildymas 365  straipsniu įsigalioja 2020-01-01.
-
-Papildyta straipsniu:
-
-Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
-
-KETVIRTASIS SKIRSNIS
-
-ATVEJO VADYBOS ORGANIZAVIMAS
-
-366 straipsnis. Specializuotos pagalbos poreikio vertinimas ir teikimas
-
-1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, įvertinę specializuotos pagalbos poreikį, gali nustatyti, kad specializuota pagalba:
-
-1) reikalinga ir turi būti suteikta nedelsiant;
-
-2) reikalinga, bet gali būti suteikta ne vėliau kaip per 60 dienų nuo pranešimo apie galimą vaiko teisių pažeidimą gavimo dienos;
-
-3) nereikalinga.
-
-2. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatę, kad specializuota pagalba yra reikalinga, ją teikia Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyboje socialinės apsaugos ir darbo ministro nustatytomis sąlygomis ir tvarka.
-
-3. Jei nustatoma, kad specializuota pagalba reikalinga ir turi būti suteikta nedelsiant, tačiau dėl objektyvių aplinkybių nėra galimybių ją suteikti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyboje, organizuojamas asmens sveikatos priežiūros paslaugų suteikimas galimai seksualinį smurtą patyrusiam vaikui sveikatos apsaugos ministro nustatyta tvarka. Asmens sveikatos priežiūros paslaugas gavęs galimai seksualinį smurtą patyręs vaikas įrašomas į eilę gauti specializuotą pagalbą Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyboje socialinės apsaugos ir darbo ministro nustatytomis sąlygomis ir tvarka.
-
-Papildyta straipsniu:
-
-Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
-
-KETVIRTASIS SKIRSNIS
-
-ATVEJO VADYBOS ORGANIZAVIMAS
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 62 straipsnio pakeitimo įstatymas
 
