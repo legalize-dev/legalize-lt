@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "1996-04-04"
+last_updated: "1996-05-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos apskrities valdymo įstatymas
 
-@D1=19941215;D2=19960404;D3=19960603
+@D1=19941215;D2=19960530;D3=19960918
 
-@D1=19941215;D2=19960404;D3=19960603
+@D1=19941215;D2=19960530;D3=19960918
 
 Pakeitimai:
 
@@ -27,9 +27,9 @@ Parlamentas,
 
 Įstatymas
 
-{#96CCAA1280 ;} Nr.
+{#19960404AA1280 ;}
 
-1-1280, 96.04.04, Žin., 1996, Nr. 35-876 (96.04.19)
+Nr. 1-1280, 96.04.04, Žin., 1996, Nr. 35-876 (96.04.19)
 
 LIETUVOS
 
@@ -37,11 +37,25 @@ RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO 11 STRAIPSNIO
 
 PAPILDYMO ĮSTATYMAS
 
+2.
+
+Parlamentas,
+
+Įstatymas
+
+{#19960530AA1355 ;}
+
+Nr. 1-1355, 96.05.30, Žin., 1996, Nr. 55-1293 (96.06.12)
+
+LIETUVOS
+
+RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO 6 STRAIPSNIO
+
+PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-APSKRITIES
-
-VALDYMO
+APSKRITIES VALDYMO
 
 ĮSTATYMAS
 
@@ -69,9 +83,9 @@ ministerijas  bei
 
 kitas  Vyriausybės  institucijas  organizuoja
 
-Vyriausybė. Apskrities
+Vyriausybė.
 
-valdymas yra  sudėtinė valstybės  valdymo
+Apskrities  valdymas yra  sudėtinė valstybės  valdymo
 
 dalis.
 
@@ -125,9 +139,7 @@ finansavimo
 
 šaltinių.
 
-II
-
-skyrius
+II skyrius
 
 APSKRITIES VALDYTOJAS IR JO KOMPETENCIJA
 
@@ -143,7 +155,7 @@ Pirmininko teikimu.
 
 Apskrities
 
-valdytoju   gali   būti   Lietuvos   Respublikos
+valdytoju   gali   būti   Lietuvos   Respublikos
 
 pilietis, turintis
 
@@ -233,9 +245,7 @@ derinti savivaldos
 
 vykdomųjų  institucijų  veiklą,  įgyvendinant
 
-regionines
-
-programas;
+regionines programas;
 
 3)  numatyti
 
@@ -245,49 +255,61 @@ rengti programas.
 
 6 straipsnis.
 
-Apskrities valdytojo įgaliojimai švietimo,
+Apskrities valdytojo įgaliojimai
 
-kultūros ir socialiniais klausimais
+švietimo, kultūros ir socialiniais klausimais
 
 Apskrities
 
 valdytojas:
 
-1)  įstatymų
+1)  įstatymų  nustatyta
 
-nustatyta  tvarka  steigia,  reorganizuoja  ir
+tvarka  steigia,  reorganizuoja  ir
 
 likviduoja
 
-apskrities   valstybines  švietimo,   kultūros,  kūno
+apskrities   valstybines  švietimo,  kultūros,  kūno
 
-kultūros ir  sporto,
+kultūros  ir
 
-socialinės  paramos ir  globos įstaigas  bei
+sporto,  socialinės  paramos ir globos įstaigas bei
 
-tarnybas;
+tarnybas, išskyrus
 
-2) atsako  už
+aukštesniąsias ir profesines mokyklas;
 
-šio  straipsnio 1  punkte nurodytų valstybinių
+2)  atsako  už
+
+šio straipsnio 1 punkte nurodytų valstybinių
 
 įstaigų
 
 funkcionavimą ir jų išlaikymą;
 
-3) prižiūri
+3)  prižiūri
 
-bendrosios valstybinės  švietimo,  kultūros  ir
+bendrosios  valstybinės  švietimo, kultūros ir
 
 socialinės politikos
 
 vykdymą;
 
-4) kartu su
+4)   kartu
 
-teritorinėmis darbo biržomis sprendžia gyventojų
+su   teritorinėmis   darbo  biržomis  sprendžia
 
-užimtumo problemas.
+gyventojų užimtumo
+
+problemas.
+
+Straipsnio
+
+pakeitimai:
+
+{#19960530AA1355 ;}
+
+Nr. 1-1355, 96.05.30, Žin., 1996, Nr. 55-1293 (96.06.12)
 
 7 straipsnis.
 
@@ -503,9 +525,9 @@ valstybinę  melioracijos   ir   hidrotechnikos
 
 priežiūrą,    organizuoja   valstybei   priklausančių
 
-melioracijos ir
+melioracijos ir hidrotechnikos
 
-hidrotechnikos įrenginių eksploataciją.
+įrenginių eksploataciją.
 
 10 straipsnis.
 
@@ -565,7 +587,7 @@ bei  apsaugos   juostų  ir   zonų   tvarkymą,
 
 kontroliuoja
 
-kitiems   subjektams  priskirtų   vandens  telkinių
+kitiems   subjektams  priskirtų   vandens  telkinių
 
 valdymą;
 
@@ -619,9 +641,9 @@ apima  daugiau
 
 kaip  vienos  savivaldybės  teritoriją  ir  kurių
 
-buveinės  yra apskrities
+buveinės  yra
 
-centre ar kitoje apskrities teritorijoje
+apskrities centre ar kitoje apskrities teritorijoje
 
 esančioje miesto ar
 
@@ -635,9 +657,9 @@ apskrities (rajoninių) kelių priežiūrą;
 
 registruoja    traktorius,    savaeiges    važiuokles,
 
-traktorines priekabas
+traktorines
 
-ir kelių tiesimo mašinas;
+priekabas ir kelių tiesimo mašinas;
 
 7) atlieka
 
@@ -737,9 +759,7 @@ Vyriausybės
 
 institucijų struktūrinių padalinių vadovų pasitarimus
 
-ir jiems
-
-pirmininkauti;
+ir jiems pirmininkauti;
 
 5)  sustabdyti
 
@@ -775,9 +795,9 @@ turto  saugumui užtikrinti,  tvarkai apskrityje
 
 palaikyti;
 
-8) sudaryti
+8) sudaryti ekspertų
 
-ekspertų komisijas jo kompetencijai priskirtiems
+komisijas jo kompetencijai priskirtiems
 
 klausimams
 
@@ -883,9 +903,9 @@ bei organizacijomis apskrityje ir Vyriausybės
 
 atstovu.
 
-Valstybės valdymo
+Valstybės
 
-institucijos, įsteigtos  apskrityje pagal
+valdymo  institucijos, įsteigtos  apskrityje pagal
 
 šio įstatymo  13
 
@@ -1057,9 +1077,9 @@ vedėjus;
 
 neviršydamas  nustatyto metinio  darbo apmokėjimo  fondo,
 
-tvirtina administracijos
+tvirtina
 
-etatų sąrašą;
+administracijos etatų sąrašą;
 
 5)
 
@@ -1107,9 +1127,9 @@ kompetencijos, privalomi visiems juridiniams ir
 
 fiziniams asmenims.
 
-Vyriausybė
+Vyriausybė  turi
 
-turi   teisę  panaikinti   apskrities  valdytojo
+teisę  panaikinti   apskrities  valdytojo
 
 įsakymus ir  kitus
 
@@ -1123,9 +1143,7 @@ Seimo priimtų
 
 teisės aktų,  Respublikos  Prezidento  dekretų  ir
 
-Vyriausybės
-
-nutarimų.
+Vyriausybės nutarimų.
 
 19 straipsnis.
 
@@ -1150,58 +1168,4 @@ RESPUBLIKOS
 PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
 
 _
-
-20 straipsnis.
-
-Apskrities viršininko įsakymai ir kiti teisės aktai
-
-Apskrities viršininkas
-
-leidžia įsakymus ir kitus teisės aktus ir tikrina, kaip jie vykdomi.
-
-Apskrities viršininko
-
-įsakymai ir  kiti teisės  aktai, neviršijantys jo kompetencijos, privalomi
-
-visiems juridiniams ir fiziniams asmenims.
-
-Vyriausybė turi  teisę
-
-panaikinti apskrities viršininko įsakymus ir kitus teisės aktus, jeigu jie
-
-neatitinka Lietuvos Respublikos Konstitucijos, įstatymų, kitų Lietuvos
-
-Respublikos Seimo priimtų teisės aktų, Respublikos Prezidento dekretų ir
-
-Vyriausybės nutarimų.
-
-Straipsnio žymėjimas pakeistas:
-
-Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
-
-(96.12.31)
-
-21 straipsnis.
-
-Įstatymo įgyvendinimas
-
-Šio įstatymo
-
-įgyvendinimo terminus  ir tvarką nustato įstatymas "Dėl Lietuvos
-
-Respublikos apskrities valdymo įstatymo įgyvendinimo".
-
-Straipsnio žymėjimas pakeistas:
-
-Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
-
-(96.12.31)
-
-Skelbiu šį Lietuvos
-
-Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS            ALGIRDAS
-
-BRAZAUSKAS
 
