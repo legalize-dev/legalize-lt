@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2003-05-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -146,6 +146,8 @@ Nenukirstas miškas – augantys medžiai, sausuoliai, vėjavartos,
 
 vėjalaužos ir kita nenukirsta sumedėjusi miško augalija.
 
+[Dalių redakcija iki 2004-05-01
+
 9.
 
 Miško valda – privačios arba valstybinės nuosavybės teise valdomas miško
@@ -166,7 +168,37 @@ nacionalinių parkų direkcijos, savivaldybės, kitos valstybės įmonės bei
 
 organizacijos, kurioms įstatymų ir Vyriausybės nustatyta tvarka suteikta
 
-valstybinių miškų valdymo teisė.
+valstybinių miškų valdymo teisė.]
+
+[Dalių redakcija nuo 2004-05-01
+
+9. Miško valda – nuosavybės teise valdomas miško žemės sklypas
+
+(sklypai).
+
+10. Miško savininkai – valstybė, fiziniai ir juridiniai asmenys
+
+bei užsienio valstybėse įsteigtos organizacijos, neturinčios juridinio asmens
+
+statuso, tačiau turinčios civilinį teisnumą pagal tų valstybių įstatymus,
+
+įstatymų nustatyta tvarka įgiję nuosavybės teisę į miškus.
+
+11. Miško valdytojai – miško savininkai; miškų urėdijos,
+
+valstybinių rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės,
+
+valstybės įmonės bei organizacijos, valdančios patikėjimo teise įstatymų
+
+nustatyta tvarka joms Vyriausybės nutarimais perduotą valstybinėms funkcijoms
+
+įgyvendinti valstybinę miško žemę; kiti fiziniai ar juridiniai asmenys;
+
+užsienio valstybėse įsteigtos organizacijos, neturinčios juridinio asmens
+
+statuso, tačiau turinčios civilinį teisnumą pagal tų valstybių įstatymus,
+
+teisėtai įgijusios privačios miško žemės valdymo teisę.]
 
 12.
 
@@ -188,6 +220,8 @@ turintys įstatymų nustatytus įgaliojimus. Valstybinių miškų pareigūnų
 
 pareigybių sąrašą tvirtina Aplinkos ministerija.
 
+[Dalies redakcija iki 2004-05-01
+
 14.
 
 Miškų urėdija – valstybės įmonė, turto patikėjimo teise valdanti,
@@ -196,7 +230,17 @@ naudojanti valstybinius miškus ir jais disponuojanti įstatymų nustatyta tvark
 
 taip pat vykdanti juose kompleksinę miškų ūkio veiklą ir kitą įmonės įstatuose
 
-numatytą veiklą.
+numatytą veiklą.]
+
+[Dalies redakcija nuo 2004-05-01
+
+14. Miškų urėdija – valstybės įmonė, patikėjimo teise valdanti,
+
+naudojanti valstybinius miškus ir jais disponuojanti įstatymų nustatyta tvarka,
+
+taip pat vykdanti juose kompleksinę miškų ūkio veiklą ir kitą įmonės įstatuose
+
+numatytą veiklą.]
 
 15. Generalinė miškų urėdija prie Aplinkos ministerijos –
 
@@ -219,6 +263,16 @@ Miškotvarka – miškų ūkio planavimo sistema, apimanti miškų
 inventorizaciją ir apskaitą, miškų būklės, naudojimo ir ūkinės veiklos analizę
 
 bei miškų ūkio organizavimo ir plėtros projektų rengimą.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1925,
+
+2003-12-18, Žin., 2003, Nr. 123-5593 (2003-12-30)
 
 3
 
@@ -332,19 +386,51 @@ priskiria Vyriausybė Aplinkos ministerijos teikimu.
 
 straipsnis. Nuosavybės teisė į miškus ir valstybinės reikšmės miškai
 
+[Dalies redakcija iki 2004-05-01
+
 1.
 
 Miškas nuosavybės teise gali priklausyti valstybei
 
 ir Lietuvos Respublikos piliečiams. Lietuvos
 
-Respublikos miškuose pagal plotą vyrauja valstybinė miškų nuosavybė.
+Respublikos miškuose pagal plotą vyrauja valstybinė miškų nuosavybė.]
+
+[Dalies redakcija nuo 2004-05-01
+
+1. Miškas nuosavybės teise gali priklausyti valstybei, fiziniams ir
+
+juridiniams asmenims bei užsienio valstybėse įsteigtoms organizacijoms,
+
+neturinčioms juridinio asmens statuso, tačiau turinčioms civilinį teisnumą
+
+pagal tų valstybių įstatymus. Užsieniečiai, užsienio juridiniai asmenys,
+
+užsienio valstybėse įsteigtos organizacijos, neturinčios juridinio asmens
+
+statuso, tačiau turinčios civilinį teisnumą pagal tų valstybių įstatymus, mišką
+
+turi teisę įsigyti Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies
+
+įgyvendinimo konstitucinio įstatymo nustatyta tvarka. Lietuvos Respublikos
+
+miškuose pagal plotą vyrauja valstybinė miškų nuosavybė.]
+
+[Dalies redakcija iki 2004-05-01
 
 2. Valstybinė miško žemė Vyriausybės arba jos įgaliotos institucijos
 
 nustatyta tvarka gali būti nuomojama poilsiui, medžioklei ar kitiems tikslams,
 
 išskyrus miškų ūkio veiklai organizuoti.
+
+[Dalies redakcija nuo 2004-05-01
+
+2. Valstybinė miško žemė Vyriausybės nustatyta tvarka gali būti
+
+nuomojama poilsiui ar kitiems tikslams, išskyrus miškų ūkio veiklai
+
+organizuoti.]
 
 3.
 
@@ -396,6 +482,8 @@ Vyriausybė ar jos įgaliota Aplinkos ministerija įgyvendina valstybinių mišk
 
 savininko teises ir pareigas.
 
+[Dalies redakcija iki 2004-05-01
+
 6.
 
 Valstybinius miškus turto patikėjimo teise valdo miškų urėdijos, valstybinių
@@ -404,7 +492,31 @@ rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės, kitos
 
 valstybės įmonės ir organizacijos, kurioms įstatymų nustatyta tvarka suteikta
 
-valstybinių miškų valdymo teisė.
+valstybinių miškų valdymo teisė.]
+
+[Dalies redakcija nuo 2004-05-01
+
+6.
+
+Valstybinę miško žemę patikėjimo teise valdo miškų urėdijos, valstybinių
+
+rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės, kitos valstybės
+
+įmonės ir organizacijos. Valstybinės miško žemės sklypai patikėjimo teise
+
+perduodami šiems subjektams Vyriausybės nutarimais valstybinėms funkcijoms
+
+įgyvendinti Žemės įstatymo nustatyta tvarka.]
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1925,
+
+2003-12-18, Žin., 2003, Nr. 123-5593 (2003-12-30)
 
 5
 
@@ -434,9 +546,7 @@ organizuoja miškingumo didinimo, miško genofondo, kraštovaizdžio ir biologin
 
 įvairovės miškuose išsaugojimo, selekcijos ir sėklininkystės, miško išteklių
 
-naudojimo, kitų programų projektų rengimą ir koordinuoja šių programų
-
-įgyvendinimą;
+naudojimo, kitų programų projektų rengimą ir koordinuoja šių programų įgyvendinimą;
 
 3) rengia teisės aktų miškų ūkio klausimais projektus;
 
@@ -446,9 +556,9 @@ inventorizaciją, miškų tvarkymo (miškotvarkos) projektų rengimą, koordinuo
 
 miškų monitoringą;
 
-5) organizuoja valstybinę šalies miškų apskaitą ir
+5) organizuoja valstybinę šalies miškų apskaitą ir Lietuvos
 
-Lietuvos Respublikos miškų valstybės kadastro sudarymą;
+Respublikos miškų valstybės kadastro sudarymą;
 
 6) rengia metinių miško kirtimo normų valstybiniuose
 
@@ -458,19 +568,15 @@ miškuose projektus;
 
 bendradarbiavimą.
 
-3. Valstybinė
+3. Regionų aplinkos apsaugos departamentai atlieka
 
-aplinkos apsaugos inspekcija ir jos teritoriniai miškų kontrolės padaliniai
+visų šalies miškų būklės, naudojimo, atkūrimo ir apsaugos kontrolės funkcijas:
 
-atlieka visų šalies miškų būklės, naudojimo, atkūrimo ir apsaugos kontrolės
+1) kontroliuoja, kaip laikomasi Miškų įstatymo, ir
 
-funkcijas:
+atlieka valstybinę visų nuosavybės formų šalies miškų būklės, naudojimo,
 
-1)
-
-kontroliuoja, kaip laikomasi Miškų įstatymo, ir atlieka valstybinę visų
-
-nuosavybės formų šalies miškų būklės, naudojimo, atkūrimo ir apsaugos kontrolę;
+atkūrimo ir apsaugos kontrolę;
 
 2) Aplinkos ministerijos nustatyta tvarka išduoda
 
@@ -530,111 +636,29 @@ teikiančias miško savininkams konsultavimo ir ūkines paslaugas. Miško savini
 
 kooperatyvams taikomas žemės ūkio kooperatyvų statusas.
 
-3 straipsnis. Pagrindinės sąvokos
-
-Miško žemė - apaugęs mišku (medynai) ir
-
-neapaugęs mišku (kirtavietės, žuvę medynai, miško aikštės, medelynai, daigynai,
-
-miško sėklinės plantacijos ir žaliaviniai krūmynai bei plantacijos) plotas.
-
-Miško žemei taip pat priskiriami tame pačiame plote esantys miško keliai ir
-
-sausinimo grioviai, kvartalų, technologinės ir priešgaisrinės linijos, medienos
-
-sandėliai bei kiti su mišku susijusių įrengimų užimti plotai, poilsio
-
-aikštelės, žvėrių pašarų aikštelės, pelkės, smėlynai, taip pat žemė, skirta
-
-miškui įveisti.
-
-Miško žemė gali būti miškų ūkio arba
-
-konservacinės paskirties.
-
-Miškas - ne mažesnis kaip 0,1 ha, apaugęs
-
-medžiais ir kita miško augalija arba laikinai jos netekęs (kirtavietės,
-
-degimvietės), žemės plotas.
-
-Laukuose, pakelėse, prie vandens telkinių,
-
-miestuose ar gyvenvietėse bei kapinėse esančios medžių grupės, siauros - iki 10
-
-m pločio - medžių juostos, gyvatvorės, pavieniai medžiai bei krūmai ir
-
-miestuose bei kaimo vietovėse esantys žmogaus įveisti parkai nelaikomi mišku.
-
-Šių želdinių priežiūros, apsaugos ir naudojimo tvarką nustato Lietuvos
-
-Respublikos Vyriausybė.
-
-Miško valda - privačios arba valstybinės
-
-nuosavybės teise valdomas miško žemės sklypas.
-
-Miško savininkai - valstybė ir Lietuvos
-
-Respublikos piliečiai, įstatymo nustatyta tvarka įgiję nuosavybės teisę į
-
-miškus.
-
-Valstybinio miško valdytojai - miškų urėdijos,
-
-rezervatai, valstybiniai parkai, įmonės bei organizacijos, kurioms įstatymų ir
-
-Lietuvos Respublikos Vyriausybės nustatyta tvarka suteikta miškų valdymo teisė.
-
-Miško naudotojai - miško valdytojai ir
-
-privataus miško savininkai bei miško nuomininkai, naudojantys miško išteklius,
-
-taip pat kiti juridiniai ir fiziniai asmenys, kurie įgijo miško išteklių
-
-naudojimo teisę.
-
-Miškų urėdija - valstybinių miškų valdymo ir tvarkymo
-
-institucija, nustatyta tvarka jai suteiktoje valdyti valstybinėje žemėje
-
-atkurianti, prižiūrinti, sauganti mišką bei naudojanti miško išteklius. Miškų
-
-urėdijų tipinius nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
-
-Miško ištekliai - mediena, techninė žaliava,
-
-vaistažolės, grybai, uogos, riešutai, miško augalai, numesti ragai, miško
-
-gyvūnai.
-
-Miškų grupė - miško plotai, kuriuose panašūs
-
-pagrindiniai ūkio tikslai, ūkininkavimo režimas ir miškų funkcinė paskirtis.
-
-Valstybinės miškų tarnybos pareigūnai - miškų
-
-ūkio valdymo, valstybinės miškų kontrolės institucijų ir valstybinių parkų
-
-darbuotojai, kurių sąrašą tvirtina aplinkos ministras.
-
-Kompleksinis miškų ūkio tvarkymas - miškų
-
-urėdijos veikla: visų Aplinkos ministerijos reguliavimo sričiai priskirtų miškų
-
-administravimas ir ūkinių veiksmų valstybiniuose miškuose visuma, užtikrinanti
-
-miškų atkūrimą, ugdymą, miško ir jo produkcijos apsaugą, racionalų miškų
-
-naudojimą bei prekybą miško produkcija.
-
 Straipsnio
 
 pakeitimai:
 
-Nr. VIII-759,
+Nr.
 
-98.06.02, Žin., 1998, Nr.56-1542 (98.06.19)
+IX-1925,
+
+2003-12-18, Žin., 2003, Nr. 123-5593 (2003-12-30)
+
+Šio Įstatymo 3 straipsnis įsigalioja nuo
+
+2004 m. sausio 1 d., 1 ir 2 straipsniai įsigalioja nuo 2004 m. gegužės 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušra Bodin (2004-01-05)
+
+aubodi@lrs.lt
 
 4 straipsnis. Miškų grupės
 
@@ -934,11 +958,11 @@ draudžiamą veiklą.
 
 5.
 
-Valstybinių miškų pareigūnų
+Valstybinių miškų
 
-uždavinius, funkcijas bei pareigas nustato Valstybinių miškų pareigūnų
+pareigūnų uždavinius, funkcijas bei pareigas nustato Valstybinių miškų
 
-nuostatai. Juos tvirtina Vyriausybė.
+pareigūnų nuostatai. Juos tvirtina Vyriausybė.
 
 Straipsnio
 
@@ -958,13 +982,11 @@ IX-1447,
 
 įstatymą, vykdo kompleksinę miškų ūkio veiklą valstybiniuose miškuose,
 
-Vyriausybės ar jos įgaliotos Aplinkos ministerijos nustatyta tvarka parduoda
+Vyriausybės ar jos įgaliotos Aplinkos ministerijos nustatyta tvarka parduoda pagamintą
 
-pagamintą miško produkciją, nenukirstą mišką ir teikia paslaugas. Įvertinant
+miško produkciją, nenukirstą mišką ir teikia paslaugas. Įvertinant miškų
 
-miškų urėdijų kapitalą, žemė ir miškas vertine išraiška į apskaitą
-
-neįtraukiami.
+urėdijų kapitalą, žemė ir miškas vertine išraiška į apskaitą neįtraukiami.
 
 2. Bendrosioms miškų ūkio reikmėms tenkinti Vyriausybės nustatyta
 
@@ -980,17 +1002,17 @@ programai finansuoti (miškų inventorizavimui, apskaitai, valstybinių miškų
 
 miškotvarkos projektams rengti, bendrai, nepriklausomai nuo nuosavybės formos,
 
-valstybinei miškų priešgaisrinei sistemai organizuoti ir išlaikyti, stichinių
+valstybinei miškų priešgaisrinei sistemai organizuoti ir išlaikyti,
 
-nelaimių padariniams ir masinių ligų bei kenkėjų židiniams likviduoti, miško
+stichinių nelaimių padariniams ir masinių ligų bei kenkėjų židiniams
 
-mokslo ir projektavimo darbams, privačių miškų savininkams konsultuoti bei
+likviduoti, miško mokslo ir projektavimo darbams, privačių miškų savininkams
 
-mokyti, privačių miškų savininkų organizacinėms struktūroms kurtis, miško
+konsultuoti bei mokyti, privačių miškų savininkų organizacinėms struktūroms
 
-propagandai organizuoti, miškų ūkį aptarnaujančių organizacijų vykdomoms
+kurtis, miško propagandai organizuoti, miškų ūkį aptarnaujančių organizacijų
 
-programoms bei kitoms bendrosioms miškų ūkio reikmėms finansuoti).
+vykdomoms programoms bei kitoms bendrosioms miškų ūkio reikmėms finansuoti).
 
 8 straipsnis. Asmenų lankymasis miške
 
@@ -1028,9 +1050,9 @@ vaistažolių, grybų, uogų ir kitų miško išteklių naudojimą.
 
 3. Miškų lankymą ir miško išteklių naudojimą saugomose
 
-teritorijose reglamentuoja Saugomų teritorijų įstatymas ir saugomų teritorijų nuostatai,
+teritorijose reglamentuoja Saugomų teritorijų įstatymas ir saugomų teritorijų
 
-tvirtinami Vyriausybės
+nuostatai, tvirtinami Vyriausybės
 
 ar jos įgaliotos Aplinkos ministerijos.
 
@@ -1094,19 +1116,17 @@ reglamentuoja Nenukirsto valstybinio miško skyrimo ir pardavimo taisyklės.
 
 5. Miško savininkai privalo laikytis šio
 
-įstatymo, Privačių miškų tvarkymo ir naudojimo nuostatų bei kitų teisės aktų,
+įstatymo, Privačių miškų tvarkymo ir naudojimo nuostatų bei kitų teisės aktų, taip
 
-taip pat privalomų vykdyti miškotvarkos projekto dalių –
+pat privalomų vykdyti miškotvarkos projekto dalių – pagrindinių
 
-pagrindinių kirtimų dešimtmečio normos, miško atkūrimo bei aplinkosaugos
-
-reikalavimų.
+kirtimų dešimtmečio normos, miško atkūrimo bei aplinkosaugos reikalavimų.
 
 6. Draudžiama
 
-atlikti kirtimus ir naudoti kitus miško išteklius negavus nustatyta tvarka išduoto
+atlikti kirtimus ir naudoti kitus miško išteklius negavus nustatyta tvarka
 
-leidimo, kai pagal galiojančius teisės aktus toks leidimas reikalingas.
+išduoto leidimo, kai pagal galiojančius teisės aktus toks leidimas reikalingas.
 
 7.
 
@@ -1400,13 +1420,13 @@ metinės pagrindinių miško kirtimų normos. Stichinių nelaimių atvejais ir j
 
 ši norma nebuvo įvykdyta ankstesniais metais, skaičiuojant nuo jos patvirtinimo
 
-metų, metinė pagrindinių miško kirtimų norma gali būti didinama Aplinkos ministerijos
+metų, metinė pagrindinių miško kirtimų norma gali būti didinama Aplinkos
 
-nustatyta tvarka. Kiti miško valdytojai ir savininkai, nepažeisdami miško
+ministerijos nustatyta tvarka. Kiti miško valdytojai ir savininkai,
 
-kirtimo taisyklių reikalavimų, gali nukrypti nuo metinės miško kirtimų normos,
+nepažeisdami miško kirtimo taisyklių reikalavimų, gali nukrypti nuo metinės
 
-bet privalo laikytis dešimtmečio miško kirtimų normos.
+miško kirtimų normos, bet privalo laikytis dešimtmečio miško kirtimų normos.
 
 8.
 
@@ -1422,9 +1442,9 @@ IV
 
 SKYRIUS
 
-MIŠKO ATKŪRIMAS,
+MIŠKO
 
-AUGINIMAS IR KIRTIMAS
+ATKŪRIMAS, AUGINIMAS IR KIRTIMAS
 
 15
 
@@ -1580,13 +1600,15 @@ patvirtintų miškų priešgaisrinės apsaugos reikalavimų.
 
 Miškų urėdijos bei
 
-valstybiniai parkai ir savivaldybės skiria lėšų bendrai valstybinei priešgaisrinio
+valstybiniai parkai ir savivaldybės skiria lėšų bendrai valstybinei
 
-stebėjimo ir gaisrų gesinimo sistemai visose miško valdose. Miško valdytojai ir
+priešgaisrinio stebėjimo ir gaisrų gesinimo sistemai visose miško valdose.
 
-savininkai savo lėšomis įgyvendina profilaktines priešgaisrines priemones
+Miško valdytojai ir savininkai savo lėšomis įgyvendina profilaktines
 
-(įrengia priešgaisrines juostas ir laužavietes, valo užšlemštą mišką ir kita).
+priešgaisrines priemones (įrengia priešgaisrines juostas ir laužavietes, valo
+
+užšlemštą mišką ir kita).
 
 3.
 
@@ -1772,9 +1794,9 @@ RESPUBLIKOS MIŠKŲ ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
 
 3.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. VIII-759,
 
@@ -1886,23 +1908,29 @@ MIŠKŲ
 
 ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-Šis Įstatymas įsigalioja
+Šis Įstatymas
 
-kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr.
 
-Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.
+89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr.
 
-y. nuo 2003 m. gegužės 1 d.
+37-1341), t. y. nuo 2003 m. gegužės 1 d.
 
-***
+10.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo:
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2003-05-12)
+Nr.
 
-autrap@lrs.lt
+IX-1925,
+
+2003-12-18, Žin., 2003, Nr. 123-5593 (2003-12-30)
+
+MIŠKŲ
+
+ĮSTATYMO 2, 4, 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 25 straipsnis. Atsakomybė
 
