@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2003-06-26"
+last_updated: "2004-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -921,15 +921,19 @@ leidimus (licencijas) mokyti;
 
 2)
 
-labdaros ir paramos organizacijoms bei fondams;
+socialinės įmonės statusą turintiems juridiniams asmenims;
 
 3)
+
+labdaros ir paramos organizacijoms bei fondams;
+
+4)
 
 visuomeninėms organizacijoms, asociacijoms, asociacijų sąjungoms ir politinėms
 
 partijoms;
 
-4)
+5)
 
 kitiems subjektams, jei tai nustatyta įstatymuose arba tarptautinėse sutartyse.
 
@@ -972,6 +976,16 @@ panaudos gavėjas nesiverčia veikla, dėl kurios buvo perduotas valstybės ar
 savivaldybės turtas, ar šį turtą naudoja ne pagal paskirtį. Panaudos gavėjui,
 
 pagerinusiam pagal panaudos sutartį perduotą turtą, už pagerinimą neatlyginama.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2252,
+
+2004-06-01, Žin., 2004, Nr. 96-3520 (2004-06-19)
 
 14
 
@@ -1213,25 +1227,25 @@ Pagal mainų sutartį valstybės ar savivaldybių institucijos, valstybės ar
 
 savivaldybės įmonės, įstaigos ir organizacijos turi teisę perleisti viena kitai
 
-joms patikėjimo teise priklausantį lygiavertį (iki 10 procentų vertės
+joms patikėjimo teise priklausantį lygiavertį (iki 10 procentų vertės besiskiriantį)
 
-besiskiriantį) ilgalaikį ir trumpalaikį materialųjį turtą, jeigu šis turtas
+ilgalaikį ir trumpalaikį materialųjį turtą, jeigu šis turtas reikalingas
 
-reikalingas valstybės ar savivaldybės funkcijoms įgyvendinti.
+valstybės ar savivaldybės funkcijoms įgyvendinti.
 
 2.
 
-Pagal mainų sutartį valstybės ar savivaldybės institucijos, valstybės ir savivaldybės
+Pagal mainų sutartį valstybės ar savivaldybės institucijos, valstybės ir
 
-įmonės, įstaigos ir organizacijos turi teisę perleisti kitiems juridiniams ir
+savivaldybės įmonės, įstaigos ir organizacijos turi teisę perleisti kitiems
 
-fiziniams asmenims patikėjimo teise valdomą lygiavertį (iki 5 procentų
+juridiniams ir fiziniams asmenims patikėjimo teise valdomą lygiavertį (iki 5
 
-besiskiriantį) ilgalaikį ir trumpalaikį materialųjį turtą, jeigu įsigyjamas
+procentų besiskiriantį) ilgalaikį ir trumpalaikį materialųjį turtą, jeigu
 
-pagal mainų sutartį turtas reikalingas valstybės ar savivaldybių funkcijoms
+įsigyjamas pagal mainų sutartį turtas reikalingas valstybės ar savivaldybių
 
-įgyvendinti.
+funkcijoms įgyvendinti.
 
 3.
 
@@ -2359,13 +2373,13 @@ viešajai įstaigai, akcinei bendrovei ar uždarajai akcinei bendrovei, taip pat
 
 šio turto perdavimas didinant viešosios įstaigos kapitalą arba akcinės
 
-bendrovės ar uždarosios akcinės bendrovės įstatinį kapitalą, jei valstybė ir
+bendrovės ar uždarosios akcinės bendrovės įstatinį kapitalą, jei valstybė ir (ar)
 
-(ar) savivaldybė yra jų dalyvė. Gali būti investuojami pinigai, taip pat pagal
+savivaldybė yra jų dalyvė. Gali būti investuojami pinigai, taip pat pagal Turto
 
-Turto ir verslo vertinimo pagrindų įstatymą įvertintas ilgalaikis ir
+ir verslo vertinimo pagrindų įstatymą įvertintas ilgalaikis ir trumpalaikis
 
-trumpalaikis materialusis turtas bei nematerialusis turtas.
+materialusis turtas bei nematerialusis turtas.
 
 2.
 
@@ -2607,17 +2621,17 @@ straipsnio 3 dalyje nurodytiems asmenims;
 
 2)
 
-perduodant pagal panaudos sutartį viešosioms įstaigoms, veikiančioms pagal Viešųjų
+perduodant pagal panaudos sutartį viešosioms įstaigoms, veikiančioms pagal
 
-įstaigų įstatymą, kai bent vienas iš jų steigėjų yra valstybės ar savivaldybių
+Viešųjų įstaigų įstatymą, kai bent vienas iš jų steigėjų yra valstybės ar
 
-institucija, arba viešosioms švietimo įstaigoms, turinčioms Švietimo ir mokslo
+savivaldybių institucija, arba viešosioms švietimo įstaigoms, turinčioms
 
-ministerijos leidimus (licencijas) mokyti, labdaros ir paramos organizacijoms,
+Švietimo ir mokslo ministerijos leidimus (licencijas) mokyti, labdaros ir
 
-fondams, visuomeninėms organizacijoms ir kitiems subjektams, jei tai numatyta
+paramos organizacijoms, fondams, visuomeninėms organizacijoms ir kitiems
 
-įstatymuose;
+subjektams, jei tai numatyta įstatymuose;
 
 3)
 
@@ -2697,9 +2711,9 @@ likvidavusi, turi jį nurašyti.
 
 Šio Įstatymo 22 straipsnio 1 dalies 6 punkte nurodytu atveju pripažintas
 
-netinkamu (negalimu) naudoti nematerialusis, ilgalaikis ir trumpalaikis materialusis
+netinkamu (negalimu) naudoti nematerialusis, ilgalaikis ir trumpalaikis
 
-turtas nurašomas.
+materialusis turtas nurašomas.
 
 6.
 
@@ -2723,11 +2737,11 @@ investicijoms į valstybės ar savivaldybės įmonę, valdžiusią šį turtą;
 
 2)
 
-kai turtą valdo valstybės ar savivaldybių institucijos, įstaigos ir organizacijos
+kai turtą valdo valstybės ar savivaldybių institucijos, įstaigos ir
 
-– 50 procentų atitinkamai į valstybės ar savivaldybės biudžetą ir 50 procentų
+organizacijos – 50 procentų atitinkamai į valstybės ar savivaldybės biudžetą ir
 
-institucijoms, įstaigoms ir organizacijoms.
+50 procentų institucijoms, įstaigoms ir organizacijoms.
 
 24
 
@@ -2911,9 +2925,9 @@ išdėstyto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo 
 
 įstatymo 13 straipsnio 3 dalies ir 14 straipsnio 5 dalies nuostatos dėl
 
-neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo sudarytos
+neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo
 
-iki šio Įstatymo įsigaliojimo.
+sudarytos iki šio Įstatymo įsigaliojimo.
 
 8.
 
@@ -2973,9 +2987,9 @@ IX-1586,
 
 VALSTYBĖS
 
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19 STRAIPSNIO
 
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 11.
 
@@ -2995,15 +3009,33 @@ IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 4
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-2252,
+
+2004-06-01, Žin., 2004, Nr. 96-3520 (2004-06-19)
+
+PELNO
+
+MOKESČIO ĮSTATYMO, VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR
+
+DISPONAVIMO JUO ĮSTATYMO IR VIEŠŲJŲ PIRKIMŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-07-16)
+Aušra Bodin (2004-06-21)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
 20 straipsnis.
 
