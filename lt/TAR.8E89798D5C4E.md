@@ -4,7 +4,7 @@ identifier: "TAR.8E89798D5C4E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2003-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8E89798D5C4E"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2002-07-02"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teisėjų valstybinių pensijų įstatymas
+
+Suvestinė redakcija nuo 2005-01-01 iki 2005-06-30
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 73-3088, i. k. 1021010ISTA0IX-1011
 
 LIETUVOS RESPUBLIKOS
 
@@ -61,7 +65,11 @@ Teisėjų valstybinė pensija neskiriama, o paskirtoji nemokama, jei:
 
 5) asmuo dirbo arba tarnavo Valstybinių pensijų įstatymo 11 straipsnio 4 dalies 1–8 punktuose išvardytose struktūrose. Šiais atvejais asmens teisė gauti teisėjo valstybinę pensiją nustatoma remiantis Valstybinių pensijų įstatymo 11 straipsnio 5 dalyje nustatyta tvarka patvirtintu tarnybų ir pareigų sąrašu;
 
-6) asmuo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar bedarbio pašalpas.
+6) asmuo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) pašalpas ar nedarbo socialinio draudimo išmokas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
 
 5 straipsnis. Teisėjų darbo stažas teisėjų valstybinei pensijai gauti
 
@@ -148,4 +156,14 @@ Vyriausybė iki 2002 m. rugsėjo 1 d. patvirtina Nacionalinių teismų administr
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
+
+Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Teisėjų valstybinių pensijų įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas
 
