@@ -4,7 +4,7 @@ identifier: "TAR.2BD05C3A63E1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-14"
-last_updated: "1994-06-15"
+last_updated: "1994-11-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2BD05C3A63E1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo  2 straipsnis  įsigalioja per 10 d
 ---
 # Laikinosios atsiskaitymų tvarkos ir sąlygų įstatymas
 
-Suvestinė redakcija nuo 1994-06-15 iki 1994-11-17
+Suvestinė redakcija nuo 1994-11-18 iki 1995-07-18
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 31-711, i. k. 0931010ISTA000I-218
 
@@ -36,6 +36,12 @@ DĖL LAIKINOSIOS ATSISKAITYMŲ TVARKOS IR SĄLYGŲ
 2 straipsnis. Visų nuosavybės formų juridiniai asmenys gali turėti atsiskaitomąją ir valiutinę sąskaitas tik viename iš Lietuvos Respublikoje pasirinktų bankų, taip pat po vieną valiutinę sąskaitą bet kurioje užsienio valstybėje.
 
 3 straipsnis. Už supirktą, taip pat perdirbtą žemės ūkio produkciją atsiskaitoma pirmiausia, tai yra prieš kitus mokėjimus.
+
+Tik atsiskaičius už supirktą, taip pat perdirbtą žemės ūkio produkciją, atsiskaitoma su biudžetu ir socialinio draudimo įstaigomis. Pažeidus pinigų nurašymo iš mokėtojų sąskaitų nustatytą eilės tvarką, priskaičiuotus delspinigius įmonėms sumoka bankų įstaigos.
+
+Straipsnio pakeitimai:
+
+Nr. I-630, 1994-11-08, Žin., 1994, Nr. 89-1708 (1994-11-18), i. k. 0941010ISTA000I-630
 
 4 straipsnis. Žemės ūkio produkciją superkančiosios įmonės atsiskaito su tos produkcijos pardavėjais mokamaisiais pavedimais ir mokamaisiais reikalavimais, kuriuos Lietuvos Respublikos bankai priima bei apskaito ir nesant pakankamai lėšų mokėtojų sąskaitose.
 
@@ -72,4 +78,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-493, 1994-06-07, Žin., 1994, Nr. 45-827 (1994-06-15), i. k. 0941010ISTA000I-493
 
 Dėl Lietuvos Respublikos įstatymo "Dėl laikinosios atsiskaitymų tvarkos ir sąlygų" 4 straipsnio pakeitimo ir papildymo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-630, 1994-11-08, Žin., 1994, Nr. 89-1708 (1994-11-18), i. k. 0941010ISTA000I-630
+
+Dėl Lietuvos Respublikos įstatymo "Dėl laikinosios atsiskaitymų tvarkos ir sąlygų" papildymo
+
+41 straipsnis. Lietuvos Respublikos teritorijoje įregistruoti ūkio subjektai, jeigu jų prievolės negarantuotos tarpusavio sutartyje, atsiskaito Lietuvos Respublikos Vyriausybės nustatyta tvarka ir moka 0,2 procento delspinigių už kiekvieną pradelstą dieną.
+
+Lietuvos Respublikos Vyriausybė užtikrina, kad jos nutarimuose nustatomi delspinigiai neviršytų 0,2 procento.
+
+Papildyta straipsniu:
+
+Nr. I-630, 1994-11-08, Žin., 1994, Nr. 89-1708 (1994-11-18), i. k. 0941010ISTA000I-630
 
