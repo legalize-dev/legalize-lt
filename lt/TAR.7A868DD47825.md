@@ -4,7 +4,7 @@ identifier: "TAR.7A868DD47825"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-08"
-last_updated: "1998-10-08"
+last_updated: "2000-07-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7A868DD47825"
 department: "Lietuvos Respublikos Seimas"
@@ -18,39 +18,11 @@ entry_into_force_conditions: "Nuo 1998.10.21 neteko galios 3 straipsnis."
 
 LIETUVOS RESPUBLIKOS
 
-Redagavo: Ramunė
+Įstatymas paskelbtas: Žin., 1995,
 
-Lūžaitė (1998.11.02)
+Nr. 51-1248
 
-Įstatymas
-
-paskelbtas: Žin., 1995, Nr.51-1248
-
-Neoficialus įstatymo
-
-tekstas
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos
-
-Seimas, Įstatymas
-
-Nr. VIII-877,
-
-98.10.08, Žin., 1998, Nr.92-2544 (98.10.21)
-
-LIETUVOS
-
-RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS RESPUBLIKOS SANATORINIŲ-KURORTINIŲ ĮSTAIGŲ
-
-IR POILSIO NAMŲ, VALDYTŲ BUVUSIŲ LIETUVOS TSR VALSTYBINIŲ PROFESINIŲ SĄJUNGŲ,
-
-NUOSAVYBĖS NUSTATYMO” 3 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-
-*** Pabaiga ***
+Neoficialus įstatymo tekstas
 
 LIETUVOS RESPUBLIKOS
 
@@ -60,49 +32,251 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-DĖL LIETUVOS
+DĖL LIETUVOS RESPUBLIKOS SANATORINIŲ-KURORTINIŲ
 
-RESPUBLIKOS SANATORINIŲ-KURORTINIŲ ĮSTAIGŲ
+ĮSTAIGŲ
 
-IR POILSIO
-
-NAMŲ, VALDYTŲ BUVUSIŲ LIETUVOS TSR VALSTYBINIŲ
+IR POILSIO NAMŲ, VALDYTŲ BUVUSIŲ LIETUVOS TSR VALSTYBINIŲ
 
 PROFESINIŲ SĄJUNGŲ, NUOSAVYBĖS NUSTATYMO
 
 Vadovaujantis
 
-Lietuvos  Respublikos  įstatymo  "Dėl  buvusių
+Lietuvos Respublikos įstatymo "Dėl buvusių Lietuvos TSR valstybinių
 
-Lietuvos TSR
+profesinių sąjungų turto" (Žin., 1993, Nr.20-486) 5 straipsniu ir Lietuvos
 
-valstybinių profesinių  sąjungų turto" (Žin., 1993,
+Respublikos Seimo nutarimo "Dėl Lietuvos Respublikos įstatymo "Dėl
 
-Nr.20-486) 5
+buvusių Lietuvos TSR valstybinių profesinių sąjungų turto"
 
-straipsniu ir  Lietuvos Respublikos  Seimo nutarimo
+įgyvendinimo" (Žin., 1993, Nr.20-487) 2 punkto 6 papunkčiu ir 3 punkto 6
 
-"Dėl Lietuvos
+papunkčiu, nustatyti buvusių Lietuvos TSR valstybinių profesinių sąjungų turto,
 
-Respublikos įstatymo  "Dėl  buvusių  Lietuvos  TSR
+įgyto už profesinių sąjungų narių ir valstybės lėšas, nuosavybę.
 
-valstybinių
+1
 
-profesinių  sąjungų turto" įgyvendinimo" (Žin., 1993,
+straipsnis. Pripažinti valstybės nuosavybe ir perduoti Lietuvos Respublikos
 
-Nr.20-487)  2
+Vyriausybei šiuos objektus ir jų balanse apskaitomą turtą bei lėšas:
 
-punkto  6  papunkčiu  ir  3  punkto  6  papunkčiu,
+1)
 
-nustatyti buvusių
+Birštono fizioterapijos gydyklą;
 
-Lietuvos TSR  valstybinių  profesinių  sąjungų
+2)
 
-turto, įgyto  už
+Druskininkų fizioterapijos gydyklą;
 
-profesinių  sąjungų narių  ir  valstybės  lėšas,
+3)
 
-nuosavybę.
+Palangos fizioterapijos gydyklą;
+
+4)
+
+Druskininkų sanatoriją "Vilnius";
+
+5)
+
+Druskininkų sanatoriją "Sūrutis" (buvusi "Pušynas"),
+
+6)
+
+Druskininkų sanatoriją "Draugystė";
+
+7)
+
+Druskininkų kurortinių paslaugų centrą "Poilsis";
+
+8)
+
+Druskininkų valgyklą "Sveikata";
+
+9)
+
+Druskininkų kurortinių įstaigų autoūkį (pastatus ir įrengimus be autotransporto
+
+priemonių);
+
+10)
+
+bendrabučius Druskininkuose (Gardino g., Nr.21, Nr.23, Nr.66) ir Palangoje
+
+(apskaitomus sanatorijos "Jūratė" balanse);
+
+11)
+
+Respublikinį Palangos miesto vaikų sveikatos centrą "Gintaras" (buvę
+
+poilsio namai "Gintaras");
+
+12)
+
+Likėnų sanatoriją;
+
+13)
+
+Druskininkų sanatoriją "Dainava";
+
+14)
+
+materialinio - techninio tiekimo ir paslaugų komercinį centrą Vilniuje;
+
+15)
+
+Birštono sanatoriją "Tulpė".
+
+Lietuvos
+
+Respublikos Vyriausybė iki 1995m. liepos 1 d. nustato šiame straipsnyje
+
+nurodytų objektų priklausomybę pagal reguliavimo sritis.
+
+2
+
+straipsnis. Pripažinti Lietuvos
+
+profesinių sąjungų nuosavybe ir perduoti Specialiajam fondui veikiančioms ir
+
+besisteigiančioms profesinėms sąjungoms remti šiuos objektus ir jų balanse
+
+apskaitomą turtą bei lėšas:
+
+1)
+
+poilsio namus "Trakai";
+
+2)
+
+Lampėdžių poilsio namus;
+
+3)
+
+Valstybinę įmonę "Neringos kopos" (buvę poilsio namai
+
+"Neringa");
+
+4)
+
+Druskininkų kurortinių įstaigų autoūkiui priklausiusias autotransporto
+
+priemones, jų detales ir inventorių;
+
+5)
+
+Druskininkų sanatoriją "Nemunas";
+
+6)
+
+Palangos sanatoriją "Jūratė" (išskyrus jos balanse apskaitomus
+
+bendrabučius);
+
+7)
+
+Palangos sveikatos rūmus;
+
+8)
+
+Anykščių reabilitacijos centrą (buvę poilsio namai "Šilelis");
+
+9)
+
+Druskininkų gydomosios kūno kultūros ir ambulatorinio gydymo centrą.
+
+3
+
+straipsnis. (Neteko galios)
+
+Straipsnio pakeitimai:
+
+Nr. VIII-877, 98.10.08, Žin., 1998, Nr.92-2544 (98.10.21)
+
+4
+
+straipsnis. Lietuvos profesinėms
+
+sąjungoms už valstybės nuosavybėn perduotus objektus, turtą ir lėšas
+
+kompensuojama pagal Vyriausybės komisijos inventorizacijos 1991 m. sausio 1 d.
+
+duomenis išmokant kompensaciją kiekvienais metais lygiomis dalimis iki 2006 m.
+
+birželio 1 dienos.
+
+Kompensuojamos lėšos yra Lietuvos profesinių sąjungų
+
+nuosavybė. Jos pervedamos lygiomis dalimis į einamąsias sąskaitas profesinėms
+
+sąjungoms, registruotoms Lietuvos Respublikos teisingumo ministerijoje ir
+
+atstovaujamoms Lietuvos Respublikos trišalėje taryboje: Lietuvos darbo
+
+federacijos, Lietuvos darbininkų sąjungos, Lietuvos profesinių sąjungų centro
+
+ir Lietuvos profesinių sąjungų susivienijimo, bei Specialiajam fondui veikiančioms
+
+ir besisteigiančioms profesinėms sąjungoms remti.
+
+Kompensacijos
+
+dydis negali viršyti 0,5 procento objektų neindeksuotos balansinės vertės.
+
+Kompensacijos išmokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1892, 00.07.20, Žin.,
+
+2000, Nr.67-2020 (00.08.09)
+
+Skelbiu
+
+šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS
+
+PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
+
+_______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-877, 98.10.08, Žin., 1998, Nr.92-2544 (98.10.21)
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO
+
+“DĖL LIETUVOS RESPUBLIKOS SANATORINIŲ-KURORTINIŲ ĮSTAIGŲ IR POILSIO NAMŲ,
+
+VALDYTŲ BUVUSIŲ LIETUVOS TSR VALSTYBINIŲ PROFESINIŲ SĄJUNGŲ, NUOSAVYBĖS
+
+NUSTATYMO” 3 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1892, 00.07.20, Žin.,
+
+2000, Nr.67-2020 (00.08.09)
+
+ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS SANATORINIŲ-KURORTINIŲ ĮSTAIGŲ IR
+
+POILSIO NAMŲ, VALDYTŲ BUVUSIŲ LIETUVOS TSR VALSTYBINIŲ PROFESINIŲ SĄJUNGŲ,
+
+NUOSAVYBĖS NUSTATYMO“ 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2000.08.24)
 
 1 straipsnis.
 
