@@ -4,7 +4,7 @@ identifier: "TAR.A52415BA2085"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2002-01-22"
+last_updated: "2002-03-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085"
 department: "Lietuvos Respublikos Seimas"
@@ -2038,11 +2038,13 @@ reikalavimu teikiama Lietuvos Respublikos įstatymų nustatytais atvejais ir
 
 tvarka.
 
-Bankas privalo pateikti
+Bankas privalo pateikti Finansinių nusikaltimų
 
-mokesčių policijai informaciją, numatytą Pinigų plovimo prevencijos įstatymo 8
+tyrimo tarnybai prie Lietuvos Respublikos vidaus reikalų ministerijos
 
-ir 12 straipsniuose.
+informaciją, nurodytą Pinigų plovimo prevencijos įstatymo 8 ir
+
+12 straipsniuose.
 
 Bankai privalo nustatyti
 
@@ -2055,6 +2057,12 @@ pakeitimai:
 Nr. VIII-277,
 
 97.06.19, Žin., 1997, Nr.64-1504 (97.07.04)
+
+Nr.
+
+IX-819,
+
+2002-03-28, Žin., 2002, Nr. 33-1253 (2002-03-30), įsigalioja nuo 2002-04-01
 
 32 straipsnis. Atsakomybė už
 
@@ -2356,9 +2364,9 @@ banko statute (įstatuose) nustatytus kapitalus ir fondus;
 
 6) dividendai;
 
-7) metinės išmokos (tantjemos)
+7) metinės išmokos
 
-banko tarybos ir valdybos nariams;
+(tantjemos) banko tarybos ir valdybos nariams;
 
 8) nepaskirstyto pelno
 
@@ -2402,11 +2410,11 @@ turi būti patikrinta nepriklausomo auditoriaus, per 3 mėnesius nuo finansinių
 
 metų pabaigos patvirtinta visuotiniame akcininkų susirinkime ir pateikta
 
-Lietuvos bankui. Banko finansinė ataskaita viešai skelbiama Lietuvos banko nustatyta
+Lietuvos bankui. Banko finansinė ataskaita viešai skelbiama Lietuvos banko
 
-tvarka iki gegužės 1 dienos. Už metinėje ataskaitoje pateiktos informacijos
+nustatyta tvarka iki gegužės 1 dienos. Už metinėje ataskaitoje pateiktos
 
-teisingumą bankas atsako įstatymų nustatyta tvarka.
+informacijos teisingumą bankas atsako įstatymų nustatyta tvarka.
 
 Auditoriai privalo teikti
 
@@ -2428,9 +2436,9 @@ apsaugoti indėlininkų interesus, užtikrinti banko ir bankų sistemos saugumą
 
 patikimumą ir stabilumą, turi teisę taikyti bankams šias poveikio priemones:
 
-1) įspėti banką dėl jo veiklos
+1) įspėti banką dėl jo
 
-trūkumų ir pažeidimų bei nustatyti jų pašalinimo terminus;
+veiklos trūkumų ir pažeidimų bei nustatyti jų pašalinimo terminus;
 
 2) įstatymų nustatyta tvarka
 
@@ -2548,9 +2556,9 @@ analize;
 
 3) medžiaga apie anksčiau
 
-nustatytus pažeidimus ir Lietuvos banko bei kitų institucijų bankui taikytas
+nustatytus pažeidimus ir Lietuvos banko bei kitų institucijų bankui taikytas poveikio
 
-poveikio priemones;
+priemones;
 
 4) prognoze, kaip nustatyti
 
@@ -2576,11 +2584,11 @@ Nutarimas dėl poveikio
 
 priemonės taikymo, išskyrus nurodytą šio įstatymo 37 straipsnio pirmosios
 
-dalies 2 punkte, privalo būti priimtas per tris mėnesius nuo pažeidimo nustatymo
+dalies 2 punkte, privalo būti priimtas per tris mėnesius nuo pažeidimo
 
-dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip vieneri
+nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip
 
-metai, poveikio priemonės negali būti taikomos.
+vieneri metai, poveikio priemonės negali būti taikomos.
 
 39 straipsnis. Banko
 
@@ -2590,11 +2598,11 @@ administracijos
 
 vadovo nušalinimas
 
-Banko tarybos įgaliojimai
+Banko tarybos
 
-sustabdomi, banko valdyba bei administracijos vadovas nušalinami ir
+įgaliojimai sustabdomi, banko valdyba bei administracijos vadovas nušalinami
 
-skiriamas laikinasis administratorius tik išimtiniais atvejais, jeigu iškyla
+ir skiriamas laikinasis administratorius tik išimtiniais atvejais, jeigu iškyla
 
 grėsmė patikimai ir stabiliai banko veiklai, bet yra reali galimybė pataisyti
 
@@ -2700,9 +2708,9 @@ paskirtas banko valdytojas.
 
 Laikinasis
 
-administratorius ir jo padėjėjai yra Lietuvos banko darbuotojai. Jų teisės, pareigos
+administratorius ir jo padėjėjai yra Lietuvos banko darbuotojai. Jų teisės,
 
-ir atsakomybė nustatomos su Lietuvos banku sudarytoje darbo sutartyje.
+pareigos ir atsakomybė nustatomos su Lietuvos banku sudarytoje darbo sutartyje.
 
 Laikinasis
 
@@ -2940,9 +2948,9 @@ visuotinio akcininkų susirinkimo nutarimą ar kreditorių pareiškimą, tik jei
 
 yra Lietuvos banko išvada apie banko nemokumą.
 
-46 straipsnis. Banko bankroto
+46 straipsnis. Banko
 
-bylos iškėlimas teisme
+bankroto bylos iškėlimas teisme
 
 Banko bankroto bylą iškelia
 
@@ -2964,9 +2972,9 @@ bylą žinomiems kreditoriams, šio banko bankams korespondentams, rejestro
 
 tvarkytojui bei viešai paskelbti nurodydamas:
 
-teismą, kuriame bus nagrinėjama
+teismą, kuriame bus
 
-bankroto byla, ir bylos numerį,
+nagrinėjama bankroto byla, ir bylos numerį,
 
 bankrutuojančio banko
 
@@ -2984,13 +2992,11 @@ kuriuose yra šio banko bylų, apie bankroto bylos iškėlimą, kad būtų susta
 
 kitos šiam bankui iškeltos bylos.
 
-Teismo nutartis iškelti
+Teismo nutartis iškelti banko
 
-banko bankroto bylą gali būti apskųsta Lietuvos Respublikos civilinio proceso
+bankroto bylą gali būti apskųsta Lietuvos Respublikos civilinio proceso kodekso
 
-kodekso nustatyta tvarka. Skundo padavimas nesustabdo banko bankroto bylos
-
-eigos.
+nustatyta tvarka. Skundo padavimas nesustabdo banko bankroto bylos eigos.
 
 Teismui iškėlus banko
 
@@ -3084,35 +3090,37 @@ nutraukti darbo sutartį su banko valdybos nariais, banko administracijos vadovu
 
 ir padalinių vadovais. Visiems šiems atleistiesiems nemokama išeitinė pašalpa
 
-ir kompensacija, išskyrus piniginę kompensaciją už nepanaudotas atostogas.
+ir kompensacija, išskyrus piniginę kompensaciją už nepanaudotas atostogas. Banko
 
-Banko administratorius taip pat turi teisę sumažinti darbo užmokestį
+administratorius taip pat turi teisę sumažinti darbo užmokestį darbuotojams be
 
-darbuotojams be jų sutikimo iki Statistikos departamento prie Lietuvos
+jų sutikimo iki Statistikos departamento prie Lietuvos Respublikos Vyriausybės
 
-Respublikos Vyriausybės paskutinio paskelbto biudžetinių įstaigų,
+paskutinio paskelbto biudžetinių įstaigų, organizacijų darbuotojų
 
-organizacijų darbuotojų vidutinio mėnesinio darbo užmokesčio dydžio, keisti
+vidutinio mėnesinio darbo užmokesčio dydžio, keisti kitas darbo sutarties
 
-kitas darbo sutarties sąlygas (lengvatas, darbo režimą, darbo vietą, perkelti į
+sąlygas (lengvatas, darbo režimą, darbo vietą, perkelti į kitą mažiau apmokamą
 
-kitą mažiau apmokamą darbą, jeigu tai nekenkia darbuotojo sveikatai). Prireikus
+darbą, jeigu tai nekenkia darbuotojo sveikatai). Prireikus banko
 
-banko administratorius skelbia prastovą visiems banko darbuotojams arba jų
+administratorius skelbia prastovą visiems banko darbuotojams arba jų daliai ir
 
-daliai ir už kiekvieną prastovos valandą mokamas Vyriausybės patvirtintas
+už kiekvieną prastovos valandą mokamas Vyriausybės patvirtintas minimalus
 
-minimalus valandinis atlygis.
+valandinis atlygis.
 
-Bankas, kuriam iškelta bankroto
+Bankas, kuriam iškelta
 
-byla, atleidžiamas nuo žyminio mokesčio bylose dėl turto išieškojimo.
+bankroto byla, atleidžiamas nuo žyminio mokesčio bylose dėl turto išieškojimo.
 
 Iškėlus banko bankroto bylą
 
 ir dėl to sustabdžius bylas dėl kreditorių pinigų išieškojimo, kreditoriams
 
-(ieškovams) iš valstybės biudžeto lėšų grąžinamas jų sumokėtas žyminis mokestis.
+(ieškovams) iš valstybės biudžeto lėšų grąžinamas jų sumokėtas žyminis
+
+mokestis.
 
 Straipsnio
 
@@ -3206,17 +3214,15 @@ Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 
 Bankrutavusio banko likvidavimas
 
-Teismas,
+Teismas, išnagrinėjęs
 
-išnagrinėjęs banko bankroto bylą ir pripažinęs banką bankrutavusiu, banko
+banko bankroto bylą ir pripažinęs banką bankrutavusiu, banko administratoriaus
 
-administratoriaus siūlymu priima nutartį likviduoti banką dėl bankroto ne
+siūlymu priima nutartį likviduoti banką dėl bankroto ne vėliau kaip per 3
 
-vėliau kaip per 3 mėnesius nuo nutarties patvirtinti kreditorių reikalavimus
+mėnesius nuo nutarties patvirtinti kreditorių reikalavimus įsiteisėjimo dienos.
 
-įsiteisėjimo dienos. Teismas gali šį terminą pratęsti, jeigu to prašo banko
-
-administratorius.
+Teismas gali šį terminą pratęsti, jeigu to prašo banko administratorius.
 
 Teismo nutartis
 
@@ -3266,29 +3272,29 @@ galiojančių sutarčių, skolininko nemokumo arba dėl kitų priežasčių nega
 
 išreikalauti įvykdyti iki banko likvidavimo pabaigos, taip pat antrosiose
 
-(pakartotinėse) varžytynėse neparduotą turtą, įskaitant reikalavimo teises, likvidatorius
+(pakartotinėse) varžytynėse neparduotą turtą, įskaitant reikalavimo teises,
 
-gali perduoti kreditoriams šių reikalavimams tenkinti vadovaudamasis šio
+likvidatorius gali perduoti kreditoriams šių reikalavimams tenkinti
 
-įstatymo 54 straipsnyje nustatyta eile. Šis turtas, įskaitant reikalavimo
+vadovaudamasis šio įstatymo 54 straipsnyje nustatyta eile. Šis turtas,
 
-teises, gali būti perduotas paskesnės eilės kreditoriams, jeigu pirmesnės eilės
+įskaitant reikalavimo teises, gali būti perduotas paskesnės eilės kreditoriams,
 
-kreditoriai nustatyta tvarka nepateikia prašymų, kad šiuo būdu būtų tenkinami
+jeigu pirmesnės eilės kreditoriai nustatyta tvarka nepateikia prašymų, kad šiuo
 
-jų reikalavimai. Apie turto, įskaitant reikalavimo teises, perdavimą
+būdu būtų tenkinami jų reikalavimai. Apie turto, įskaitant reikalavimo teises,
 
-kreditoriams skelbiama viešai arba kiekvienam kreditoriui pranešama raštu,
+perdavimą kreditoriams skelbiama viešai arba kiekvienam kreditoriui pranešama
 
-nurodant terminą, per kurį kreditoriai turi teisę raštu pateikti prašymus
+raštu, nurodant terminą, per kurį kreditoriai turi teisę raštu pateikti prašymus
 
 perimti turtą, įskaitant reikalavimo teises. Jeigu per 24 mėnesius nuo teismo
 
 nutarties likviduoti banką dėl bankroto įsiteisėjimo dienos lieka neparduoto ir
 
-kreditoriams neperduoto banko turto, likvidavimo procedūra laikoma baigta. Likusios
+kreditoriams neperduoto banko turto, likvidavimo procedūra laikoma baigta.
 
-neparduotos ir kreditorių neperimtos reikalavimo teisės neatlygintinai
+Likusios neparduotos ir kreditorių neperimtos reikalavimo teisės neatlygintinai
 
 perduodamos valstybės įmonei Indėlių draudimo fondui ar kitai Vyriausybės
 
@@ -3300,13 +3306,13 @@ indėlius Lietuvos Respublikos gyventojų indėlių draudimo įstatymo ir (ar)
 
 Lietuvos Respublikos indėlių draudimo įstatymo nustatyta tvarka. Kitas turtas,
 
-kaip neturintis rinkos vertės, nurašomas ir panaudojamas arba sunaikinamas
+kaip neturintis rinkos vertės, nurašomas ir panaudojamas arba sunaikinamas vadovaujantis
 
-vadovaujantis likvidatoriaus parengta ir teismo patvirtinta tvarka. Nurašytas
+likvidatoriaus parengta ir teismo patvirtinta tvarka. Nurašytas nekilnojamasis
 
-nekilnojamasis turtas per 30 dienų nuo jo nurašymo dienos pagal perdavimo aktą
+turtas per 30 dienų nuo jo nurašymo dienos pagal perdavimo aktą neatlygintinai
 
-neatlygintinai perduodamas savivaldybei, kurios teritorijoje yra šis turtas.
+perduodamas savivaldybei, kurios teritorijoje yra šis turtas.
 
 Prieš kiekvieną atsiskaitymą su kreditoriais banko
 
@@ -3314,9 +3320,9 @@ likvidatorius pateikia teismui tvirtinti atsiskaitymų su kreditoriais planą.
 
 Jame turi būti nurodyti atsiskaitymo terminai, išmokėtinų sumų dydžiai ir
 
-kreditorių reikalavimų tenkinimo mastas perduodant kreditoriams turtą,
+kreditorių reikalavimų tenkinimo mastas perduodant kreditoriams turtą, įskaitant
 
-įskaitant reikalavimo teises.
+reikalavimo teises.
 
 Banko likvidatorius, pardavęs (perdavęs) visą galimą
 
