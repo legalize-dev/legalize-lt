@@ -4,7 +4,7 @@ identifier: "TAR.084ED4C79D93"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-10"
-last_updated: "2000-11-01"
+last_updated: "2003-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.084ED4C79D93"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2000-10-10"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymas
+
+Suvestinė redakcija nuo 2003-05-01 iki 2004-12-31
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 92-2848, i. k. 1001010ISTAIII-1996
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS SIENOS APSAUGOS TARNYBOS ĮSTATYMAS
 
@@ -45,7 +49,11 @@ Bendrosios nuostatos
 
 5. Tarnyba yra operatyvinės veiklos subjektas.
 
-6. Įgyvendindama pavestas parengtinio tyrimo funkcijas, Tarnyba veikia visoje valstybės teritorijoje.
+6. Įgyvendindama pavestas ikiteisminio tyrimo funkcijas, Tarnyba veikia visoje valstybės teritorijoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010ISTA0IX-1420
 
 7. Tarnyba ir jos pareigūnai nedalyvauja politinėje veikloje.
 
@@ -99,7 +107,11 @@ Tarnybos funkcijos ir įgaliojimai
 
 5) nustato bei sulaiko asmenis ir transporto priemones, neteisėtai kirtusius valstybės sieną;
 
-6) įstatymų nustatytais atvejais ir tvarka atlieka kvotą baudžiamosiose bylose;
+6) įstatymų nustatytais atvejais ir tvarka atlieka ikiteisminį tyrimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010ISTA0IX-1420
 
 7) užtikrina aplinkos apsaugos režimą valstybės sienos apsaugos objektuose.
 
@@ -321,7 +333,11 @@ Pareigūnai, pagal savo pareigas ir kompetenciją įgyvendindami Tarnybos funkci
 
 4) persekioti valstybės sienos pažeidėjus visoje Lietuvos Respublikos teritorijoje ir juos sulaikyti;
 
-5) persekiodami asmenis, įtariamus padarius nusikaltimą, nusikaltėlius, besislepiančius nuo teisėsaugos organų, taip pat siekiant užkirsti kelią daromiems nusikaltimams, bet kuriuo paros metu įeiti į piliečių gyvenamąsias ir ūkines, įmonių, įstaigų, organizacijų ir bendrovių patalpas, sustabdyti transporto priemones ir patekti į jas. Atsisakius paklusti, Tarnybos pareigūnai turi teisę jėga atidaryti patalpas ir transporto priemones. Ši teisė taip pat suteikiama stichinių nelaimių ir katastrofų atvejais. Apie tokius veiksmus nedelsiant pranešama prokuratūrai;
+5) persekiodami asmenis, įtariamus padarius nusikalstamą veiką, nusikaltėlius, besislepiančius nuo teisėsaugos institucijų, taip pat siekiant užkirsti kelią daromoms nusikalstamoms veikoms, bet kuriuo paros metu įeiti į piliečių gyvenamąsias ir ūkines, įmonių, įstaigų, organizacijų ir bendrovių patalpas, sustabdyti transporto priemones ir patekti į jas. Atsisakius paklusti, Tarnybos pareigūnai turi teisę jėga atidaryti patalpas ir transporto priemones. Ši teisė taip pat suteikiama stichinių nelaimių ir katastrofų atvejais. Apie tokius veiksmus nedelsiant pranešama prokuratūrai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010ISTA0IX-1420
 
 6) persekiodami ir sulaikydami valstybės sienos pažeidėjus, atremdami ginkluotą įsiveržimą į šalies teritoriją, panaudoti fiziniams ir juridiniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, priklausančias ryšių priemones ir transportą;
 
@@ -373,15 +389,19 @@ Pareigūnai, pagal savo pareigas ir kompetenciją įgyvendindami Tarnybos funkci
 
 9) laivas vykdo kitą veiklą, nesusijusią su taikiu plaukimu teritorine jūra.
 
-3. Tarnybos laivo vadas turi teisę sustabdyti užsienio valstybės laivą, siekiant sulaikyti asmenį arba atlikti tyrimą dėl nusikaltimo, padaryto laivo plaukimo metu, kai:
+3. Tarnybos laivo vadas turi teisę sustabdyti užsienio valstybės laivą, siekiant sulaikyti asmenį arba atlikti ikiteisminį tyrimą dėl nusikalstamos veikos, padarytos laivo plaukimo metu, kai:
 
-1) nusikaltimo padariniai yra susiję su Lietuvos Respublikos ar asmenų interesais;
+1) nusikalstamos veikos padariniai yra susiję su Lietuvos Respublikos ar asmenų interesais;
 
-2) padarytas ar daromas nusikaltimas trikdo Lietuvos Respublikos viešąją tvarką arba pažeidžia taikaus plaukimo teritorine jūra tvarką;
+2) padaryta ar daroma nusikalstama veika trikdo Lietuvos Respublikos viešąją tvarką arba pažeidžia taikaus plaukimo teritorine jūra tvarką;
 
 3) tokios priemonės yra reikalingos, kad būtų užkirstas kelias neteisėtai ginklų, šaudmenų, sprogmenų, sprogstamųjų, narkotinių, psichotropinių, pavojingų ir (ar) kenksmingų medžiagų apyvartai;
 
 4) to prašo įplaukusio į Lietuvos Respublikos teritorinę jūrą laivo kapitonas arba laivo registravimo valstybės diplomatinis atstovas ar konsulinis pareigūnas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010ISTA0IX-1420
 
 4. Tarnybos laivo vadas turi teisę sustabdyti ar sulaikyti užsienio valstybės laivą, jei:
 
@@ -545,39 +565,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-71 straipsnis. Tarnybos teisė gauti informaciją
+Pakeitimai:
 
-Valstybės ir savivaldybių institucijos, jų įstaigos bei įmonės privalo sudaryti sąlygas Tarnybai neatlygintinai ir netrukdomai naudotis valstybės registrų, kadastrų, klasifikatorių duomenų bankais. Kitais valstybės ir savivaldybių institucijų, jų įstaigų, įmonių, kitų juridinių bei fizinių asmenų duomenų bankais Tarnyba gali naudotis pagal atskiras sutartis, jeigu įstatymai nenustato kitaip.
+1.
 
-Papildyta straipsniu:
+Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010ISTA0IX-1420
 
-72 straipsnis. Duomenų tvarkymas Tarnyboje
-
-1. Tarnyba teisės aktų nustatyta tvarka automatizuotu būdu kaupia ir tvarko duomenis apie asmenis ir transporto priemones, kertančius valstybės sieną.
-
-2. Tarnyba, tvarkydama asmens duomenis, turi teisę naudoti asmens kodą be duomenų subjekto sutikimo.
-
-Papildyta straipsniu:
-
-Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
-
-73 straipsnis. Asmenų teisė gauti informaciją
-
-1. Asmens prašymu įstatymų nustatyta tvarka Tarnyba privalo pateikti savo tvarkomojoje informacinėje sistemoje turimus duomenis apie šį asmenį, išskyrus įstatymų nustatytus atvejus.
-
-2. Draudžiama teikti Tarnybos informacinėje sistemoje esančius duomenis apie kitus asmenis, jeigu įstatymai nenustato kitaip.
-
-Papildyta straipsniu:
-
-Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
-
-161 straipsnis. Kiti Tarnybos struktūriniai padaliniai
-
-Tarnybos atskiroms funkcijoms vykdyti gali būti steigiami kiti Tarnybos struktūriniai padaliniai. Šių padalinių funkcijas nustato Tarnybos nuostatai.
-
-Papildyta straipsniu:
-
-Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymo 2, 6, 20 ir 21 straipsnių pakeitimo įstatymas
 
