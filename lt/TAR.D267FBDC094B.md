@@ -4,7 +4,7 @@ identifier: "TAR.D267FBDC094B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-06-25"
-last_updated: "1992-07-03"
+last_updated: "1995-04-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -14,6 +14,10 @@ published_in_tar: "1992-06-25"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės mokesčio įstatymas
+
+Suvestinė redakcija nuo 1995-04-12 iki 1995-06-27
+
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
 
 LIETUVOS RESPUBLIKOS
 
@@ -95,7 +99,11 @@ Nustatytu laiku neapmokestinti mokėtojai apmokestinami ne daugiau kaip už dvej
 
 13 straipsnis.
 
-Mokesčio laiku nesumokėjus, už kiekvieną pavėluotą dieną imama 0,5 procento delspinigių.
+Mokesčio laiku nesumokėjus, už kiekvieną pavėluotą dieną imama 0,1 procento delspinigių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-843, 1995-04-06, Žin., 1995, Nr. 31-703 (1995-04-12), i. k. 0951010ISTA000I-843
 
 LIETUVOS RESPUBLIKOS
 
@@ -104,26 +112,6 @@ AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                     �
 Vilnius, 1992 m. birželio 25 d.
 
 Nr. I-2675
-
-14 straipsnis. Atsakomybė
-
-Pažeidus šio įstatymo nuostatas, baudos skiriamos ir delspinigiai apskaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.
-
-IV SKYRIUS
-
-MOKESČIO ĮSKAITYMAS
-
-15 straipsnis. Mokesčio įskaitymas
-
-1. Mokestis įskaitomas į savivaldybės, kurios teritorijoje yra žemė, biudžetą.
-
-2. Jeigu žemė yra kelių savivaldybių teritorijoje, mokestis įskaitomas proporcingai žemės sklypo daliai, tenkančiai atitinkamai savivaldybei.
-
-LIETUVOS RESPUBLIKOS
-
-AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                        VYTAUTAS LANDSBERGIS
-
-______________
 
 Pakeitimai:
 
@@ -134,60 +122,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-843, 1995-04-06, Žin., 1995, Nr. 31-703 (1995-04-12), i. k. 0951010ISTA000I-843
 
 Dėl Lietuvos Respublikos žemės mokesčio įstatymo 13 straipsnio pakeitimo
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA000I-944
-
-Dėl Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-992, 1995-07-03, Žin., 1995, Nr. 59-1468 (1995-07-19), i. k. 0951010ISTA000I-992
-
-Dėl Lietuvos Respublikos žemės mokesčio įstatymo papildymo
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-1312, 1996-04-30, Žin., 1996, Nr. 46-1107 (1996-05-17), i. k. 0961010ISTA00I-1312
-
-Lietuvos Respublikos žemės mokesčio įstatymo 12 ir 13 straipsnių pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-357, 2005-09-29, Žin., 2005, Nr. 121-4331 (2005-10-11), i. k. 1051010ISTA000X-357
-
-Lietuvos Respublikos žemės mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-470, 2005-12-22, Žin., 2005, Nr. 153-5640 (2005-12-31), i. k. 1051010ISTA000X-470
-
-Lietuvos Respublikos žemės mokesčio įstatymo 6, 11 straipsnių papildymo ir pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1081, 2007-04-05, Žin., 2007, Nr. 46-1716 (2007-04-26), i. k. 1071010ISTA00X-1081
-
-Lietuvos Respublikos žemės mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1829, 2011-12-21, Žin., 2011, Nr. 163-7743 (2011-12-31), i. k. 1111010ISTA0XI-1829
-
-Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo įstatymas
 
