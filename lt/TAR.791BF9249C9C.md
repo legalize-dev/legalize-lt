@@ -4,7 +4,7 @@ identifier: "TAR.791BF9249C9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "1996-01-31"
+last_updated: "1997-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sporto įstatymas
+
+Suvestinė redakcija nuo 1997-07-09 iki 1999-12-29
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
 
 LIETUVOS RESPUBLIKOS
 
@@ -88,7 +92,11 @@ KŪNO KULTŪROS IR SPORTO VALDYMAS
 
 9 straipsnis.         Valstybės institucijos, vykdančios kūno kultūros ir sporto valdymo funkcijas
 
-Kūno kultūros ir sporto valstybinio valdymo funkcijas šalyje vykdo Lietuvos Respublikos Vyriausybė, Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės, Švietimo ir mokslo ministerija, apskričių valdytojai, savivaldos institucijos, bendradarbiaudamos su įvairiomis suinteresuotomis organizacijomis.
+Kūno kultūros ir sporto valstybinio valdymo funkcijas šalyje vykdo Lietuvos Respublikos Vyriausybė, Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės, Švietimo ir mokslo ministerija, apskričių viršininkai, savivaldos institucijos, bendradarbiaudamos su įvairiomis suinteresuotomis organizacijomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
 
 Valstybė, garantuodama šio straipsnio pirmojoje dalyje nurodytas ir kitas teises kūno kultūros ir sporto srityje, finansuoja kūno kultūrą ir sportą, šios srities mokslinius tyrimus, rūpinasi kūno kultūros ir sporto įrenginių statyba, jų materialine technine būkle, organizuoja kūno kultūros ir sporto specialistų rengimą, jų tobulinimąsi, skatina gyventojus rūpintis savo sveikata ir puoselėti sveiką gyvenseną.
 
@@ -150,15 +158,19 @@ Kūno kultūros ir sporto departamentas:
 
 8) rūpinasi švietimo įstaigų kūno kultūros ir sporto materialinės techninės bazės plėtimu, aprūpinimu būtinomis mokymo priemonėmis ir sporto inventoriumi;
 
-9) teikia pasiūlymus bei rekomendacijas apskričių valdytojų ir savivaldos administracijų švietimo padaliniams moksleivių kūno kultūros ir sporto klausimais;
+9) teikia pasiūlymus bei rekomendacijas apskričių viršininkų ir savivaldos administracijų švietimo padaliniams moksleivių kūno kultūros ir sporto klausimais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
 
 10) planuoja ir vykdo nacionalinius bei tarptautinius moksleivių sporto renginius ir varžybas;
 
 11) atstovauja Lietuvos Respublikai bendradarbiaujant su kitomis valstybėmis moksleivių kūno kultūros ir sporto srityje.
 
-13 straipsnis. Apskrities valdytojo kompetencija kūno kultūros ir sporto srityje
+13 straipsnis. Apskrities viršininko kompetencija kūno kultūros ir sporto srityje
 
-Apskrities valdytojas:
+Apskrities viršininkas:
 
 1) įstatymų nustatyta tvarka steigia, reorganizuoja ir likviduoja valstybines kūno kultūros ir sporto įstaigas bei tarnybas;
 
@@ -173,6 +185,10 @@ Apskrities valdytojas:
 6) rūpinasi vaikų, jaunimo, dirbančiųjų bei pagyvenusių žmonių, taip pat invalidų ir kitų apskrities gyventojų kūno kultūra ir sportu;
 
 7) rūpinasi sportininkų rezervo, didelio meistriškumo sportininkų rengimu, rengia iš valstybės lėšų finansuojamų apskrities sporto varžybų sistemą ir ją įgyvendina.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
 
 14 straipsnis. Savivaldybės kompetencija kūno kultūros ir sporto srityje
 
@@ -554,13 +570,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-461 straipsnis. Draudimas dalyvauti manipuliuojant sporto varžybomis
+Pakeitimai:
 
-1. Asmenims draudžiama dalyvauti manipuliuojant sporto varžybomis.
+1.
 
-2. Asmenims, dalyvavusiems manipuliuojant sporto varžybomis, taikomos tarptautinių ir Lietuvos sporto organizacijų numatytos sankcijos.
+Lietuvos Respublikos Seimas, Įstatymas
 
-Papildyta straipsniu:
+Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
 
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 9, 12, 13 straipsnių pakeitimo įstatymas
 
