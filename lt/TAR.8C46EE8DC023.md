@@ -4,7 +4,7 @@ identifier: "TAR.8C46EE8DC023"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-04-23"
-last_updated: "2002-05-04"
+last_updated: "2002-07-19"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8C46EE8DC023"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2002-04-23"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymas
+
+Suvestinė redakcija nuo 2002-07-19 iki 2002-12-31
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 45-1709, i. k. 1021010ISTA00IX-856
 
 LIETUVOS RESPUBLIKOS
 
@@ -55,7 +59,11 @@ Valdininkų registras Vyriausybės nustatyta tvarka reorganizuojamas į valstyb�
 
 5. Valstybės tarnautojams, priimtiems į pareigas iki Valstybės tarnybos įstatymo pakeitimo įstatymo įsigaliojimo, į tarnybos Lietuvos valstybei stažą taip pat įskaitomas laikotarpis einant Valstybės tarnybos įstatymo (Žin., 1999, Nr. 66-2130; 2000, Nr. 75-2270, Nr. 102-3213; 2001, Nr. 63-2278, Nr. 85-2972) 33 straipsnio 3 dalyje nustatytas pareigas.
 
-6. Per vieną mėnesį nuo Valstybės tarnybos įstatymo pakeitimo įstatymo įsigaliojimo valstybės tarnautojai, kurie verčiasi medicinos praktika, dirba kultūros darbuotojo ar bendrojo lavinimo švietimo įstaigos pedagogo darbą ir gauna už tai atlyginimą, privalo šią veiklą nutraukti. Valstybės tarnautojai, per šioje dalyje nustatytą terminą nenutraukę valstybės tarnautojams draudžiamos veiklos, atleidžiami iš valstybės tarnybos.
+6. Per vieną mėnesį nuo Valstybės tarnybos įstatymo pakeitimo įstatymo įsigaliojimo valstybės tarnautojai, kurie dirba kultūros darbuotojo ar bendrojo lavinimo švietimo įstaigos pedagogo darbą ir gauna už tai atlyginimą, privalo šią veiklą nutraukti. Valstybės tarnautojai, kurie verčiasi medicinos praktika, privalo šią veiklą nutraukti iki 2003 m. sausio 1 d. Valstybės tarnautojai, per šioje dalyje nustatytą terminą nenutraukę valstybės tarnautojams draudžiamos veiklos, atleidžiami iš valstybės tarnybos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1037, 2002-07-04, Žin., 2002, Nr. 73-3099 (2002-07-19), i. k. 1021010ISTA0IX-1037
 
 5 straipsnis. Valstybės tarnybos tvarkymo funkcijų įgyvendinimas
 
@@ -126,4 +134,14 @@ Vyriausybė:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1037, 2002-07-04, Žin., 2002, Nr. 73-3099 (2002-07-19), i. k. 1021010ISTA0IX-1037
+
+Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas
 
