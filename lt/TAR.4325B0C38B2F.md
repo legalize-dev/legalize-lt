@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2000-10-17"
+last_updated: "2001-06-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -93,7 +93,27 @@ darbuotojas mirė dėl ligos, nesusijusios su darbu, nepriskiriamas prie
 
 nelaimingo atsitikimo darbe.
 
-2. Profesinė
+2. Nelaimingas atsitikimas pakeliui į
+
+darbą ar iš darbo – įvykis, įvykęs darbuotojo darbo dienomis kelyje tarp
+
+darbuotojo darbovietės ir:
+
+1) gyvenamosios
+
+vietos;
+
+2) ne
+
+darbovietėje esančios vietos, kurioje darbuotojui išmokamas darbo užmokestis;
+
+3) vietos ne
+
+įmonės teritorijoje, kur darbuotojas gali būti pertraukos pailsėti ir pavalgyti
+
+metu.
+
+3. Profesinė
 
 liga – ūmus ar lėtinis darbuotojo sveikatos sutrikimas, kurį sukėlė vienas
 
@@ -101,29 +121,29 @@ ar daugiau kenksmingų ir (ar) pavojingų darbo aplinkos veiksnių, nustatyta
 
 tvarka pripažintas profesine liga.
 
-3. Draudėjas
+4. Draudėjas
 
 – juridinis asmuo, juridinio asmens teisių neturinti įmonė ar fizinis asmuo,
 
 privalantys mokėti valstybinio socialinio draudimo įmokas.
 
-4. Darbo
+5. Darbo
 
 vieta - vieta, kurioje asmuo dirba arba privalo dirbti darbo sutartyje
 
 sulygtą darbą arba atlieka viešojo administravimo funkcijas.
 
-5. Apdraustasis
+6. Apdraustasis
 
 - asmuo, už kurį draudėjas įstatymų nustatyta tvarka privalo mokėti
 
-valstybinio socialinio draudimo įmokas. Šis asmuo, nukentėjęs nuo nelaimingo atsitikimo
+valstybinio socialinio draudimo įmokas. Šis asmuo, nukentėjęs nuo nelaimingo
 
-darbe ar susirgęs profesine liga, šio įstatymo nustatyta tvarka turi teisę
+atsitikimo darbe ar susirgęs profesine liga, šio įstatymo nustatyta tvarka turi
 
-gauti draudimo išmoką.
+teisę gauti draudimo išmoką.
 
-6. Darbingumo
+7. Darbingumo
 
 netekimas - laikinas ar visiškas profesinio darbingumo netekimas (toliau -
 
@@ -141,19 +161,19 @@ ekspertizės komisija (toliau - VMSEK) Vyriausybės ar jos įgaliotos institucij
 
 nustatyta tvarka.
 
-7. Darbingumo
+8. Darbingumo
 
 netekimo koeficientas (d) - vieneto dalimis išreikštas dydis,
 
 apskaičiuojamas netekto darbingumo procentą dalijant iš 100.
 
-8. Vidutinės
+9. Vidutinės
 
 mėnesinės draudžiamosios pajamos - Valstybinių socialinio draudimo
 
 pensijų įstatymo nustatytos draudžiamosios pajamos.
 
-9.
+10.
 
 Kompensavimo koeficientas (k) – asmens vidutinių mėnesinių draudžiamųjų
 
@@ -169,7 +189,7 @@ vidutinėmis mėnesinėmis draudžiamosiomis pajamomis. Apdraustajam apskaičiuo
 
 kompensavimo koeficientas negali būti mažesnis kaip 0,25 ir didesnis kaip 3.
 
-10. Apdraustojo
+11. Apdraustojo
 
 asmens draudžiamosios pajamos - visos pajamos, nuo kurių buvo mokamos
 
@@ -190,6 +210,10 @@ Straipsnio pakeitimai:
 Nr. VIII-2064, 2000 10 17, Žin., 2000, Nr.
 
 95-2969 (2000 11 08)
+
+Nr. IX-374, 2001-06-12, Žin., 2001, Nr.
+
+55-1946 (2001-06-27)
 
 4 straipsnis. Asmenys, draudžiami
 
@@ -283,47 +307,41 @@ straipsnis. Draudiminiai įvykiai
 
 Draudiminiai įvykiai, susiję su 4 straipsnyje nurodytais apdraustaisiais, yra
 
-Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka
+įvykiai, kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
 
-ištirti ir pripažinti nelaimingi atsitikimai darbe ir susirgimai profesinėmis
+nustatyta tvarka ištirti ir pripažinti nelaimingais atsitikimais darbe,
 
-ligomis:
+profesinėmis ligomis, nelaimingais atsitikimais pakeliui į darbą ar iš darbo,
 
-1)
+tai:
 
-dirbant pagal darbo sutartį, atliekant viešojo administravimo funkcijas arba
+1) nelaimingi atsitikimai
 
-gaunant atlyginimą už darbą (šio įstatymo 5 straipsnio 3-5 punktai), taip pat
+darbe ir profesinės ligos, dirbant pagal darbo sutartį, atliekant viešojo
 
-nelaimingi atsitikimai, įvykę darbo laiku rengiant arba tvarkant darbo vietą ar
+administravimo funkcijas arba gaunant atlyginimą už darbą (šio įstatymo 5
 
-darbo vietoje atliekant kitus su darbo procesu susijusius veiksmus, pertraukos
+straipsnio 3–5 punktai), taip pat nelaimingi atsitikimai, įvykę darbo laiku
 
-pailsėti ir pavalgyti (pietų pertraukos), taip pat papildomų ar specialių
+rengiant ar tvarkant darbo vietą ar darbo vietoje atliekant kitus su darbo
 
-pertraukų metu darbuotojui esant darbo vietoje, įmonės patalpose ar jos
+procesu susijusius veiksmus, įvykiai, įvykę papildomų, specialių pertraukų ar
 
-teritorijoje;
+pertraukų pailsėti ir pavalgyti metu, kai darbuotojas yra darbo vietoje, įmonės
 
-2)
+patalpose ar jos teritorijoje;
 
-vykstant į darbą ar iš darbo, taip pat kai asmuo vyksta darbo laiku darbdavio
+2) nelaimingi
 
-interesais;
+atsitikimai pakeliui į darbą ir iš darbo;
 
-3)
+3) nelaimingi
 
-dirbant kitą darbdavio pavestą darbą;
+atsitikimai, kai apdraustieji atlieka teisės aktais nustatytas pareigas ar
 
-4)
+darbdavio pavedimu – visuomenines pareigas, susijusias su tos įmonės veikla,
 
-nelaimingi atsitikimai ir susirgimai profesinėmis ligomis apdraustiesiems
-
-atliekant teisės aktų nustatytas pareigas ar darbdavio pavedimu vykdant
-
-visuomenines pareigas, susijusias su tos įmonės veikla, kai už tai mokamas
-
-darbo užmokestis.
+kai už tai mokamas darbo užmokestis.
 
 2.
 
@@ -367,6 +385,12 @@ susirgimą profesine liga arba apie mirties dėl nelaimingo atsitikimo darbe
 
 priežastį.
 
+Straipsnio pakeitimai:
+
+Nr. IX-374, 2001-06-12, Žin., 2001, Nr.
+
+55-1946 (2001-06-27)
+
 7
 
 straipsnis. Nedraudiminiai įvykiai
@@ -405,9 +429,9 @@ dėl bendro susirgimo.
 
 straipsnis. Draudėjų pareigos ir atsakomybė
 
-1.
+1. Draudėjai
 
-Draudėjai privalo:
+privalo:
 
 1)
 
@@ -537,9 +561,9 @@ nurodytus atvejus.
 
 Ligos pašalpa apdraustiesiems, besigydantiems sveikatos priežiūros įstaigoje,
 
-teikiančioje ortopedines ir (ar) protezavimo paslaugas, skiriama už vykimo į
+teikiančioje ortopedines ir (ar) protezavimo paslaugas, skiriama už vykimo į šią
 
-šią įstaigą, buvimo joje ir grįžimo iš jos laiką.
+įstaigą, buvimo joje ir grįžimo iš jos laiką.
 
 13
 
@@ -763,15 +787,23 @@ mokama netekto darbingumo periodinė kompensacija.
 
 kompensacija apdraustajam mokama kas mėnesį. Ji apskaičiuojama kaip darbingumo
 
-netekimo koeficiento (d) (šio įstatymo 3 straipsnio 7 dalis), kompensavimo
+netekimo koeficiento (d) (šio įstatymo 3 straipsnio 8 dalis), kompensavimo
 
-koeficiento (k) (šio įstatymo 3 straipsnio 9 dalis) ir mokėjimo mėnesį
+koeficiento (k) (šio įstatymo 3 straipsnio 10 dalis) ir mokėjimo mėnesį
 
-galiojančių vidutinių mėnesinių draudžiamųjų pajamų (D) sandaugos pusė, t.y.
+galiojančių vidutinių mėnesinių draudžiamųjų pajamų (D) sandaugos pusė, t. y.
 
 pagal formulę 0,5 x d x k x D.
 
-25 straipsnis. Kompensacijų mokėjimas pasikeitus apdraustojo nedarbingumo
+Straipsnio pakeitimai:
+
+Nr. IX-374, 2001-06-12, Žin., 2001, Nr.
+
+55-1946 (2001-06-27)
+
+25 straipsnis. Kompensacijų mokėjimas pasikeitus apdraustojo
+
+nedarbingumo
 
 laipsniui
 
@@ -1085,11 +1117,27 @@ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3 STRAIPSNI
 
 PAKEITIMO ĮSTATYMAS
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-374, 2001-06-12, Žin., 2001, Nr.
+
+55-1946 (2001-06-27)
+
+NELAIMINGŲ
+
+ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 6, 24
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė
+Redagavo: Angonita
 
-Trapinskienė (2000 11 27)
+Rupšytė (2001-07-02)
 
-autrap@lrs.lt
+anrups@lrs.lt
 
