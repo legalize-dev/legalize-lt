@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2003-05-01"
+last_updated: "2003-11-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -6962,9 +6962,23 @@ biudžeto.
 
 tabako ir alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės:
 
+[iki 2004-05-01]
+
 1) licencijuoja
 
 alkoholio, tabako gamybą, prekybą, importą;
+
+[nuo 2004-05-01]
+
+1) licencijuoja
+
+alkoholio, tabako gamybą, prekybą;
+
+Punkto pakeitimai:
+
+Nr. IX-1841,
+
+2003-11-20, Žin., 2003, Nr. 115-5195 (2003-12-10)
 
 2) kontroliuoja,
 
@@ -6972,11 +6986,15 @@ kaip ūkiniai subjektai laikosi Tabako kontrolės ir Alkoholio kontrolės
 
 įstatymų;
 
-3) kontroliuoja,
+3) [Negalioja
 
-kaip visuomenės informavimo priemonėse laikomasi tabako ir alkoholio reklamos
+nuo 2003-12-10]
 
-ribojimo ir draudimo;
+Punkto pakeitimai:
+
+Nr. IX-1841,
+
+2003-11-20, Žin., 2003, Nr. 115-5195 (2003-12-10)
 
 4) vykdo kitas
 
@@ -7010,9 +7028,9 @@ prieinamumo, kokybės (tinkamumo) ir efektyvumo kontrolę, vykdo sveikatos
 
 priežiūros, švietimo, socialinės globos ir rūpybos įstaigų valstybinę
 
-visuomenės sveikatos saugos kontrolę ir kitas funkcijas, nustatytas
+visuomenės sveikatos saugos kontrolę ir kitas funkcijas,
 
-jos nuostatuose.
+nustatytas jos nuostatuose.
 
 Straipsnio pakeitimai:
 
@@ -7504,9 +7522,9 @@ medicininio audito inspekcija prie Sveikatos apsaugos ministerijos:
 
 1) atlieka
 
-asmens sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir ekonominio
+asmens sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir
 
-efektyvumo kontrolę;
+ekonominio efektyvumo kontrolę;
 
 2) kontroliuoja,
 
@@ -7740,11 +7758,11 @@ Lietuvos
 
 Respublikos gyventojai turi teisę:
 
-1) turėti sveiką,
+1) turėti
 
-saugią fizinę ir socialinę aplinką bei gauti informaciją apie pavojų sveikatai
+sveiką, saugią fizinę ir socialinę aplinką bei gauti informaciją apie pavojų
 
-šioje aplinkoje;
+sveikatai šioje aplinkoje;
 
 2) gauti
 
@@ -8340,9 +8358,9 @@ kad Lietuvos Respublikos įmonės ir įstaigos savo ūkine komercine veikla
 
 nepadarytų žalos kitų valstybių teritorijoje gyvenantiems asmenims;
 
-2) teikti suinteresuotoms
+2) teikti
 
-šalims objektyvią ir patikimą sveikatos informaciją;
+suinteresuotoms šalims objektyvią ir patikimą sveikatos informaciją;
 
 3) aktyviai
 
@@ -8488,9 +8506,7 @@ Nr. VIII-1944, 00.09.19, Žin., 2000,
 
 Nr.85-2580 (00.10.11)
 
-SVEIKATOS SISTEMOS ĮSTATYMO 73 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
+SVEIKATOS SISTEMOS ĮSTATYMO 73 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 9.
 
@@ -8568,7 +8584,21 @@ ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341),
 
 t. y. nuo 2003 m. gegužės 1 d.
 
-*** Pabaiga ***
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1841,
+
+2003-11-20, Žin., 2003, Nr. 115-5195 (2003-12-10)
+
+SVEIKATOS
+
+SISTEMOS ĮSTATYMO 70 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 KONSTITUCINIO TEISMO NUTARIMAI:
 
@@ -8594,15 +8624,13 @@ DALIES IR LIETUVOS RESPUBLIKOS SEIMO STATUTO 172 STRAIPSNIO 1 DALIES ATITIKTIES
 
 LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
-***
+*** Pabaiga ***
 
-Pabaiga ***
+Redagavo: Aušra
 
-Redagavo:
+Bodin (2003-12-10)
 
-Aušrinė Trapinskienė (2003-05-13)
-
-autrap@lrs.lt
+aubodi@lrs.lt
 
 95 straipsnis.
 
