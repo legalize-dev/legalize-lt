@@ -4,7 +4,7 @@ identifier: "TAR.1D51B9AD8B03"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-21"
-last_updated: "2001-06-30"
+last_updated: "2002-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1D51B9AD8B03"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2001-06-30 iki 2001-12-31
+Suvestinė redakcija nuo 2002-01-01 iki 2003-11-04
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 109-3177, i. k. 0991010ISTAIII-1493
 
@@ -24,8 +24,6 @@ TAR pastaba. Pripažinti, kad Lietuvos Respublikos teritorijos administracinių 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2001-06-28, Žin., 2001, Nr. 56-1997 (2001-06-30), i. k. 1011000NUTARG011960
-
-Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės 1999 m. lapkričio 29 d. nutarimo Nr. 1307 "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo (1999 m. gegužės 4 d. redakcija) 7 bei 13 straipsniams ir Lietuvos Respublikos vietos savivaldos įstatymo (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui
 
 LIETUVOS RESPUBLIKOS
 
@@ -69,13 +67,15 @@ Po 2000 metų rinkimų į savivaldybių tarybas rezultatų paskelbimo pakeičiam
 
 1. Elektrėnų savivaldybės teritorija ir ribos:
 
-1) savivaldybę sudaro šios kadastro vietovės: Trakų rajono – Ausieniškės Nr.7910, Balceriškės Nr.7914, Beižionys Nr.7917, Elektrėnai Nr.7930, Kazokiškės Nr.7942, Pastrėvys Nr.7957, Semeliškės Nr.7967 ir Vievis Nr.7980; Kaišiadorių rajono – Gilučių Nr.4910 kadastro vietovės blokų Nr.2, 4 dalis, blokai Nr.3, 5, 6, Jagelonys Nr.4915, Liutonys Nr.4930 ir Naujosios Kietaviškės Nr.4936. Bendras savivaldybės teritorijos plotas – 53,5 tūkst. ha, 32,0 tūkst. gyventojų;
+1) savivaldybę sudaro šios kadastro vietovės: Trakų rajono – Ausieniškės Nr. 7910, Balceriškės Nr. 7914, Beižionys Nr. 7917, Elektrėnai Nr. 7930, Kazokiškės Nr. 7942, Pastrėvys Nr. 7957, Semeliškės Nr. 7967 ir Vievis Nr. 7980; Kaišiadorių rajono – Gilučiai Nr. 4910, Jagelonys Nr. 4915 ir Naujosios Kietaviškės Nr. 4936. Bendras savivaldybės teritorijos plotas – 50, 8 tūkst. ha, 31, 5 tūkst. gyventojų;
 
-2) savivaldybės ribos nustatomos pagal Kazokiškių Nr.7942, Balceriškių Nr.7914, Pastrėvio Nr.7957, Semeliškių Nr.7967, Beižionių Nr.7917, Jagelonių Nr.4915, Liutonių Nr.4930 kadastro vietovių, Gilučių Nr.4910 kadastro vietovės blokų Nr.6, 3 išorines ribas, Gilučių Nr.4910 kadastro vietovės bloko Nr.2 Strošiūnų šilo 46 kvartalo pietų ribą, krašto kelio Nr.143 Jonava – Žasliai – Kalniniai Mijaugonys vakarinę ribą, bloko Nr.4 projektinę krašto kelio Nr.143 Jonava – Žasliai – Kalniniai Mijaugonys vakarinę ribą, blokų Nr.4, 5 ir Ausieniškių Nr.7910 kadastro vietovės išorines ribas.
+2) savivaldybės ribos nustatomos pagal Kazokiškių Nr. 7942, Balceriškių Nr. 7914, Pastrėvio Nr. 7957, Semeliškių Nr. 7967, Beižionių Nr. 7917, Jagelonių Nr. 4915, Naujųjų Kietaviškių Nr. 4936, Gilučių Nr. 4910 ir Ausieniškių Nr. 7910 kadastro vietovių išorines ribas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-1529, 2000-01-12, Žin., 2000, Nr. 6-154 (2000-01-21), i. k. 1001010ISTAIII-1529
+
+Nr. IX-560, 2001-10-18, Žin., 2001, Nr. 93-3254 (2001-11-07), i. k. 1011010ISTA00IX-560
 
 2. Kalvarijos savivaldybės teritorija ir ribos:
 
@@ -143,7 +143,11 @@ Nr. VIII-1529, 2000-01-12, Žin., 2000, Nr. 6-154 (2000-01-21), i. k. 1001010IST
 
 6. Įsteigus Elektrėnų savivaldybę ir išplėtus Vilniaus miesto savivaldybės teritoriją:
 
-1) Kaišiadorių rajono savivaldybę sudarys šios kadastro vietovės: Antakalnis Nr.4901, Dainava Nr.4903, Darsūniškis Nr.4905, Dovainonys Nr.4908, Gilučių Nr.4910 kadastro vietovės blokas Nr.1, blokų Nr.2, 4 dalis, Gudiena Nr.4912, Kaišiadorys Nr.4918, Kalviai Nr.4920, Kaukinė Nr.4922, Kruonis Nr.4928, Livintai Nr.4932, Mikalaučiškės Nr.4935, Pakertai Nr.4938, Palomenė Nr.4940, Paparčiai Nr.4942, Pravieniškės Nr.4945, Romato durpynas Nr.4948, Rumšiškės Nr.4950, Stabintiškės Nr.4952, Stasiūnai Nr.4955, Strošiūnų šilas Nr.4958, Tauckūnai Nr.4960, Varkalės Nr.4962, Vilūnai Nr.4965, Zūbiškės Nr.4968, Žasliai Nr.4970 ir Žiežmariai Nr.4972;
+1) Kaišiadorių rajono savivaldybę sudarys šios kadastro vietovės: Antakalnis Nr. 4901, Dainava Nr. 4903, Darsūniškis Nr. 4905, Dovainonys Nr. 4908, Gudiena Nr. 4912, Kaišiadorys Nr. 4918, Kalviai Nr. 4920, Kaukinė Nr. 4922, Kruonis Nr. 4928, Liutonys Nr. 4930, Livintai Nr. 4932, Mikalaučiškės Nr. 4935, Pakertai Nr. 4938, Palomenė Nr. 4940, Paparčiai Nr. 4942, Pravieniškės Nr. 4945, Romato durpynas Nr. 4948, Rumšiškės Nr. 4950, Stabintiškės Nr. 4952, Stasiūnai Nr. 4955, Strošiūnų šilas Nr. 4958, Tauckūnai Nr. 4960, Varkalės Nr. 4962, Vilūnai Nr. 4965, Zūbiškės Nr. 4968, Žasliai Nr. 4970 ir Žiežmariai Nr. 4972;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-560, 2001-10-18, Žin., 2001, Nr. 93-3254 (2001-11-07), i. k. 1011010ISTA00IX-560
 
 2) Trakų rajono savivaldybę sudarys šios kadastro vietovės: Akmena Nr.7901, Alešiškės Nr.7904, Aukštadvaris Nr.7907, Bijūnai Nr.7920, Čižiūnai Nr.7924, Dusmenys Nr.7927, Grendavė Nr.7934, Ismonys Nr.7938, Kariotiškių Nr.7940 dalis, Lentvaris Nr.7944, Onuškis Nr.7950, Paluknys Nr.7954, Rūdiškės Nr.7964, Senieji Trakai Nr.7970, Tiltai Nr.7974, Trakai Nr.7977 ir Žaizdriai Nr.7984.
 
@@ -230,4 +234,12 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2001-06-28, Žin., 2001, Nr. 56-1997 (2001-06-30), i. k. 1011000NUTARG011960
 
 Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės 1999 m. lapkričio 29 d. nutarimo Nr. 1307 "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo (1999 m. gegužės 4 d. redakcija) 7 bei 13 straipsniams ir Lietuvos Respublikos vietos savivaldos įstatymo (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-560, 2001-10-18, Žin., 2001, Nr. 93-3254 (2001-11-07), i. k. 1011010ISTA00IX-560
+
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
 
