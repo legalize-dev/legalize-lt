@@ -4,7 +4,7 @@ identifier: "TAR.A94C9B003D30"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-12-02"
-last_updated: "1998-05-21"
+last_updated: "1998-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A94C9B003D30"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos 1998 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1998.06.12)
+Redagavo: Ramunė Lūžaitė (1998.12.22)
 
 Įstatymas paskelbtas: Žin., 1997, Nr.114-2869
 
@@ -39,15 +39,29 @@ METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
 
 PATVIRTINIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-944, 98.12.01,
+
+Žin., 1998, Nr.111 (98.12.18)
+
+LIETUVOS RESPUBLIKOS 1998
+
+METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+
+PATVIRTINIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
 1998
 
-METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
-
-PATVIRTINIMO
+METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO
 
 ĮSTATYMAS
 
@@ -63,13 +77,11 @@ patvirtinimas
 
 1. Patvirtinti Lietuvos Respublikos 1998 metų
 
-valstybės biudžetą - 7009790 tūkst. litų pajamų,
+valstybės biudžetą 6711962 tūkst. litų pajamų, 7406962 tūkst. litų
 
-7704790 tūkst. litų išlaidų (išlaidos viršija pajamas
+išlaidų (išlaidos viršija pajamas 695000 tūkst. litų) ir
 
-695000 tūkst. litų) ir 100000 tūkst. litų kasos apyvartos
-
-lėšų (1, 2, 3 priedėliai).
+100000 tūkst. litų kasos apyvartos lėšų (1, 2, 3 priedėliai).
 
 2. Nustatyti, kad valstybės biudžeto asignavimų
 
@@ -85,6 +97,10 @@ Nr. VIII-752, 98.05.21,
 
 Žin., 1998, Nr.53-1449 (98.06.10)
 
+Nr. VIII-944, 98.12.01,
+
+Žin., 1998, Nr.111 (98.12.18)
+
 2 straipsnis. Savivaldybių
 
 biudžetų finansinių rodiklių patvirtinimas
@@ -93,13 +109,15 @@ biudžetų finansinių rodiklių patvirtinimas
 
 fizinių asmenų pajamų mokesčio dalis procentais, valstybės biudžeto bendrąją
 
-dotaciją mokestinėms pajamoms išlyginti - 356204 tūkst. litų ir savivaldybių
+dotaciją mokestinėms pajamoms išlyginti - 356204 tūkst. litų ir
 
-išlaidų struktūros skirtumams išlyginti - 39578 tūkst. litų (4 priedėlis).
+savivaldybių išlaidų struktūros skirtumams išlyginti - 39578 tūkst. litų
+
+(4 priedėlis).
 
 2. Patvirtinti specialias  tikslines dotacijas -
 
-424099 tūkst. litų savivaldybių biudžetams, iš jų:
+377099 tūkst. litų savivaldybių biudžetams, iš jų:
 
 1) asignavimus grįžtantiems į Lietuvą politiniams
 
@@ -127,7 +145,7 @@ biudžetų pajamų nustatymo metodikos įstatymo taikymo - 15000 tūkst. litų;
 
 6) savivaldybių biudžetų ir valstybės biudžeto
 
-mokestinių pajamų išlyginimo rezervą - 70000 tūkst. litų, iš jų 12270 tūkst.
+mokestinių pajamų išlyginimo rezervą - 23000 tūkst. litų, iš jų 12270 tūkst.
 
 litų paskirstyti pagal 6 priedėlį;
 
@@ -144,6 +162,10 @@ Straipsnio pakeitimai:
 Nr. VIII-752, 98.05.21,
 
 Žin., 1998, Nr.53-1449 (98.06.10)
+
+Nr. VIII-944, 98.12.01,
+
+Žin., 1998, Nr.111 (98.12.18)
 
 3 straipsnis. Savivaldybių
 
@@ -227,9 +249,9 @@ straipsnis. Valstybės teikiamų garantijų už garantijų institucijų ir draud
 
 įmonių įsipareigojimus pagal garantijos ar draudimo sutartis limitas
 
-Nustatyti 1998 metais valstybės teikiamų garantijų
+Nustatyti 1998 metais valstybės teikiamų garantijų už
 
-už garantijų institucijų ir draudimo įmonių įsipareigojimus pagal garantijos ar
+garantijų institucijų ir draudimo įmonių įsipareigojimus pagal garantijos ar
 
 draudimo sutartis limitą - 480000 tūkst. litų.
 
@@ -323,49 +345,37 @@ Nustatyti šią savivaldybių biudžetų ir valstybės
 
 biudžeto mokestinių pajamų išlyginimo rezervo naudojimo tvarką:
 
-1) iš rezervo lėšų padengiamos 1997 metais negautos
+1) per metus Finansų ministerija teikia mokestinių
 
-savivaldybių biudžetų pajamos, t.y. pajamų, priimtų skaičiuojant 1997 metų
+pajamų išlyginimo rezervo lėšų kreditus savivaldybėms, kuriose nevykdomi
 
-normatyvus ir dotacijas, ir faktiškai gautų pajamų (įskaitant 1997 metais iš
+biudžetų mokestinių pajamų planai;
 
-valstybės biudžeto perduotas lėšas savivaldybių negautoms pajamoms padengti)
+2) Lietuvos Respublikos Vyriausybė savivaldybių
 
-skirtumas. Faktiškai gautos savivaldybių pajamos turi būti padidintos įmokomis,
+biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervo lėšas iki
 
-kurios negautos dėl 1997 metais savivaldybių tarybų sprendimais suteiktų
+1998 m. gruodžio 20 d. paskirsto taip:
 
-mokesčių lengvatų;
+a) savivaldybių biudžetų 1998 metais negautoms
 
-2) per 1998 metus Finansų ministerija teikia
+mokestinėms pajamoms dengti (pagal mokestinių pajamų plano numatomo įvykdymo
 
-mokestinių pajamų išlyginimo rezervo lėšų kreditus savivaldybėms, kuriose
+duomenis);
 
-nevykdomi biudžetų mokestinių pajamų planai;
+b) iš nepanaudotų pagal šio straipsnio 2 punkto a
 
-3) 1998 metų antrame pusmetyje rezervo lėšomis
+papunktį rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos
 
-padengiamos savivaldybių biudžetų 1998 metais negautos planuotos mokestinės
+planuotos mokestinės pajamos (pagal mokestinių pajamų plano numatomo įvykdymo
 
-pajamos (pagal mokestinių pajamų plano įvykdymo duomenis);
+duomenis);
 
-4) iš nepanaudotų pagal šio straipsnio 1 ir  3
+c) nepanaudotas pagal šio straipsnio 2 punkto a ir b
 
-punktus rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos
+papunkčius mokestinių pajamų išlyginimo rezervo likutis skiriamas savivaldybių
 
-planuotos mokestinės pajamos (pagal mokestinių pajamų plano įvykdymo duomenis);
-
-5) nepanaudotas pagal šio straipsnio 1, 3 ir 4
-
-punktus mokestinių pajamų išlyginimo  rezervo likutis paskirstomas taip:
-
-a) savivaldybių butų fondui kaupti - ne daugiau kaip
-
-10 mln. litų;
-
-b) likusi suma - Vyriausybės
-
-rezervo fondui.
+butų fondui kaupti.
 
 Straipsnio pakeitimai:
 
@@ -373,9 +383,15 @@ Nr. VIII-752, 98.05.21,
 
 Žin., 1998, Nr.53-1449 (98.06.10)
 
-12 straipsnis. Savivaldybių
+Nr. VIII-944, 98.12.01,
 
-atsiskaitymas už sunaudotus energetinius išteklius
+Žin., 1998, Nr.111 (98.12.18)
+
+12 straipsnis. Savivaldybių atsiskaitymas už
+
+sunaudotus energetinius
+
+išteklius
 
 1. Savivaldybės užtikrina, kad būtų laiku
 
@@ -439,7 +455,9 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 BRAZAUSKAS
 
-Lietuvos Respublikos
+Lietuvos
+
+Respublikos
 
 1997
 
@@ -461,15 +479,11 @@ VALSTYBĖS
 
 BIUDŽETAS
 
-tūkst.
-
-Lt
+tūkst. Lt
 
 Pajamos
 
-Iš
-
-viso
+Iš viso
 
 MOKESTINĖS PAJAMOS
 
@@ -477,21 +491,21 @@ Juridinių asmenų pelno
 
 mokestis
 
-621800
+610592
 
 Pridėtinės vertės mokestis
 
-3884203
+3829172
 
 Akcizai
 
-1681560
+1334000
 
 Tarptautinės prekybos ir
 
 sandorių mokesčiai
 
-170000
+267290
 
 Konsulinis mokestis
 
@@ -499,7 +513,7 @@ Konsulinis mokestis
 
 Žyminis mokestis
 
-115600
+118157
 
 NEMOKESTINĖS PAJAMOS
 
@@ -507,127 +521,137 @@ Lietuvos banko likutinis
 
 pelnas
 
-23000
+9065
 
 Mokestis už valstybinius
 
 gamtos išteklius
 
-46522
+30472
 
 Palūkanos už valstybės
 
 kapitalo naudojimą
 
-12428
+12364
 
 Gautos palūkanos už
 
 paskolas ūkiniams subjektams
 
-154359
+170856
 
 Dividendai už akcijas
 
-45000
+77197
 
 Pajamos iš baudų ir
 
 konfiskacijos
 
-19200
+13448
 
 Mokestis už aplinkos
 
 teršimą
 
-26264
+20147
 
 Kitos
 
-51000
+60348
 
 IŠ VISO
 
-6885936
+6588108
 
-Biudžeto lėšų 1998m.
+Biudžeto lėšų 1998 m.
 
-sausio 1d. likutis
+sausio 1 d. likutis
 
 123854
 
 IŠ VISO
 
-7009790
-
-1 priedėlio tęsinys
+6711962
 
 IŠLAIDOS
 
-tūkst. Lt
+1
 
-Ministerijų, departamentų, valstybinių
+priedėlio tęsinys
+
+tūkst.
+
+Lt
 
 Iš jų
 
-tarnybų,
+Ministerijų,
 
-įmonių, įstaigų ir organizacijų -
+departamentų, valstybinių tarnybų, įmonių, įstaigų ir
 
-Iš viso
+organizacijų-asignavimų
 
-paprastosios išlaidos
+Iš
 
-nepaprastosios
+viso
 
-asignavimų
+paprastosios
 
-valdytojų pavadinimas
+išlaidos
+
+nepapras-tosios
+
+išlaidos
+
+valdytojų
+
+pavadinimas
 
 iš
 
 viso
 
-iš jų darbo užmokestis
+iš
 
-išlaidos
+jų darbo užmokestis
 
 Lietuvos Respublikos Prezidentūra
 
-34463
+34088
 
-18463
+15163
 
 3231
 
-16000
+18925
 
 Lietuvos Respublikos Seimas
 
-52216
+52986
 
-48216
+48616
 
-20355
+20509
 
-4000
+4370
 
 Vyriausioji rinkimų komisija
 
-3364
+3297
 
-3314
+3247
 
-2037
+1981
 
 50
 
 Seimo kontrolierių įstaiga
 
-2740
+2686
 
-2620
+2566
 
 1618
 
@@ -635,9 +659,9 @@ Seimo kontrolierių įstaiga
 
 Lietuvos Respublikos Konstitucinis Teismas
 
-4790
+4730
 
-4640
+4580
 
 2680
 
@@ -651,9 +675,9 @@ Lietuvos Respublikos valstybės kontrolė
 
 9529
 
-Valstybinė lietuvių kalbos komisija prie Lietuvos Respublikos
+Valstybinė lietuvių kalbos komisija prie Lietuvos
 
-Seimo
+Respublikos Seimo
 
 4212
 
@@ -663,51 +687,51 @@ Seimo
 
 143
 
-Vyriausioji tarnybinės etikos  komisija
+Vyriausioji tarnybinės etikos komisija
 
-500
+194
 
-470
+164
 
-270
+96
 
 30
 
-Nacionalinė sveikatos taryba
-
-121
-
-107
-
-66
-
-14
-
 Žurnalistų etikos inspektorius
 
-162
+159
 
-157
+154
 
 104
 
 5
 
+Nacionalinės sveikatos taryba
+
+119
+
+90
+
+51
+
+29
+
 Valstybinė paminklosaugos komisija
 
-1045
+1020
 
-745
+677
 
 401
 
-300
+343
 
 Lietuvos Respublikos vertybinių popierių komisija
 
-3738
-
 3538
+
+3338
 
 1423
 
@@ -715,223 +739,155 @@ Lietuvos Respublikos vertybinių popierių komisija
 
 Lietuvos Respublikos Vyriausybės kanceliarija
 
-17924
+17551
 
-17424
+17064
 
 6461
 
-500
+487
 
-Valstybinė energetikos išteklių kainų ir energetinės veiklos
+Valstybinė energetikos išteklių kainų ir
 
-kontrolės komisija
+energetinės veiklos kontrolės komisija
 
-1399
+1373
 
-1269
+1243
 
 721
 
 130
 
-I.
-
-Ministerijos
+I. Ministerijos
 
 Aplinkos ministerija
 
-42052
+48530
 
-40702
+46280
 
-17246
+18441
 
-1350
-
-Europos reikalų ministerija
-
-3420
-
-3320
-
-1584
-
-100
+2250
 
 Finansų ministerija
 
-29340
+17966
 
-27775
+16901
 
 6376
 
-1565
+1065
 
 Krašto apsaugos ministerija
 
-462121
+452114
 
-397097
+386820
 
-169959
+161359
 
-65024
+65294
 
 Kultūros ministerija
 
-122636
+120967
 
-113558
+112089
 
-13258
+13343
 
-9078
-
-Ryšių ir informatikos ministerija
-
-13614
-
-10444
-
-1313
-
-3170
+8878
 
 Socialinės apsaugos ir darbo ministerija
 
-562653
+555283
 
-537053
+529683
 
 47053
 
 25600
 
-Statybos ir urbanistikos ministerija
-
-7569
-
-6669
-
-1394
-
-900
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Ministerijų,
-
-departamentų, valstybinių
-
-Iš
-
-jų
-
-tarnybų, įmonių, įstaigų ir organizacijų -
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprastosios
-
-asignavimų
-
-valdytojų pavadinimas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-išlaidos
-
 Susisiekimo ministerija
 
-15438
+18452
 
-10953
+13524
 
-2300
+3055
 
-4485
+4928
 
 Sveikatos apsaugos ministerija
 
-121418
+120193
 
-85491
+84401
 
 45664
 
-35927
+35792
 
 Švietimo ir mokslo ministerija
 
-312684
+310854
 
-282607
+281107
 
-126239
+129395
 
-30077
+29747
 
 Teisingumo ministerija
 
-14815
+10615
 
-14175
+9975
 
 4990
 
 640
 
-Užsienio reikalų ministerija
-
-115792
-
-102726
-
-31908
-
-13066
-
 Ūkio ministerija
 
-75715
+74234
 
-71515
+70084
 
 5156
 
-4200
+4150
 
-Valdymo reformų ir savivaldybių reikalų ministerija
+Užsienio
 
-4017
+reikalų ministerija
 
-3517
+112883
 
-1296
+100290
 
-500
+31908
 
-Vidaus reikalų ministerija
+12593
+
+Valdymo reformų ir savivaldybių reikalų
+
+ministerija
+
+15516
+
+12098
+
+2234
+
+3418
+
+Vidaus
+
+reikalų ministerija
 
 148576
 
@@ -941,357 +897,309 @@ Vidaus reikalų ministerija
 
 20045
 
-Žemės ūkio ministerija
+Žemės
 
-569364
+ūkio ministerija
 
-518333
+560415
 
-58939
+510784
 
-51031
+56992
 
-II.
+49631
 
-Apskritys
+II. Apskritys
 
 Alytaus apskrities viršininko administracija
 
-23236
+23472
 
-19024
+19750
 
 9249
 
-4212
-
-iš
-
-jų: melioracijai ir dirvų kalkinimui
-
-3340
-
-3340
-
-žemės reformai
-
-2462
-
-2462
-
-Kauno apskrities viršininko administracija
-
-43381
-
-32160
-
-15760
-
-11221
-
-iš
-
-jų: melioracijai ir dirvų kalkinimui
-
-9900
-
-9900
-
-žemės reformai
-
-3821
-
-3821
-
-Klaipėdos apskrities viršininko administracija
-
-38887
-
-25002
-
-12406
-
-13885
-
-iš
-
-jų: melioracijai ir dirvų kalkinimui
-
-10520
-
-10520
-
-žemės reformai
-
-2328
-
-2328
-
-Marijampolės apskrities viršininko administracija
-
-20294
-
-13182
-
-5133
-
-7112
-
-iš
-
-jų: melioracijai ir dirvų kalkinimui
-
-6225
-
-6225
-
-žemės reformai
-
-2138
-
-2138
-
-Panevėžio apskrities viršininko administracija
-
-32206
-
-20819
-
-9065
-
-11387
-
-iš
-
-jų: melioracijai ir dirvų kalkinimui
-
-11035
-
-11035
-
-žemės reformai
-
-3702
-
-3702
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Ministerijų,
-
-departamentų, valstybinių
-
-Iš
-
-jų
-
-tarnybų,
-
-įmonių, įstaigų ir organizacijų -
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprastosios
-
-asignavimų
-
-valdytojų pavadinimas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-išlaidos
-
-Šiaulių apskrities viršininko administracija
-
-38134
-
-24551
-
-11443
-
-13583
-
-iš
-
-jų: melioracijai ir dirvų kalkinimui
-
-12195
-
-12195
-
-žemės reformai
-
-3583
-
-3583
-
-Tauragės apskrities viršininko administracija
-
-15366
-
-9785
-
-3981
-
-5581
-
-iš
-
-jų: melioracijai ir dirvų kalkinimui
-
-5325
-
-5325
-
-žemės reformai
-
-2138
-
-2138
-
-Telšių apskrities viršininko administracija
-
-25102
-
-13869
-
-5911
-
-11233
+3722
 
 iš jų: melioracijai ir dirvų kalkinimui
 
-5920
+2850
 
-5920
+2850
 
-žemės reformai
+žemės reformai vykdyti
 
-2332
+3616
 
-2332
+3616
+
+Kauno apskrities viršininko administracija
+
+42246
+
+32394
+
+15760
+
+9852
+
+iš jų: melioracijai ir dirvų kalkinimui
+
+8553
+
+8553
+
+žemės reformai vykdyti
+
+5000
+
+5000
+
+Klaipėdos apskrities viršininko administracija
+
+37931
+
+24959
+
+12406
+
+12972
+
+iš jų:melioracijai ir dirvų kalkinimui
+
+9617
+
+9617
+
+žemės reformai vykdyti
+
+2963
+
+2963
+
+Marijampolės apskrities viršininko administracija
+
+20449
+
+14104
+
+5133
+
+6345
+
+iš jų: melioracijai ir dirvų kalkinimui
+
+5470
+
+5470
+
+žemės reformai vykdyti
+
+3398
+
+3398
+
+Panevėžio apskrities viršininko administracija
+
+31724
+
+22114
+
+9065
+
+9610
+
+iš jų: melioracijai ir dirvų kalkinimui
+
+9268
+
+9268
+
+žemės reformai vykdyti
+
+5450
+
+5450
+
+Šiaulių apskrities viršininko administracija
+
+37175
+
+24844
+
+11443
+
+12331
+
+iš jų: melioracijai ir dirvų kalkinimui
+
+10943
+
+10943
+
+žemės reformai vykdyti
+
+4398
+
+4398
+
+Tauragės apskrities viršininko  administracija
+
+14906
+
+10211
+
+3981
+
+4695
+
+iš jų: melioracijai ir dirvų kalkinimui
+
+4439
+
+4439
+
+žemės reformai vykdyti
+
+2787
+
+2787
+
+Telšių apskrities viršininko administracija
+
+24936
+
+14003
+
+5911
+
+10933
+
+iš jų: melioracijai ir dirvų kalkinimui
+
+5632
+
+5632
+
+žemės reformai vykdyti
+
+2782
+
+2782
 
 Utenos apskrities viršininko administracija
 
-26131
+25629
 
-18276
+18580
 
 8190
 
-7855
+7049
 
-iš
+iš jų: melioracijai ir dirvų kalkinimui
 
-jų: melioracijai ir dirvų kalkinimui
+6026
 
-6820
+6026
 
-6820
+žemės reformai vykdyti
 
-žemės reformai
+4478
 
-3628
-
-3628
+4478
 
 Vilniaus apskrities viršininko administracija
 
-53717
+52451
 
-42975
+42627
 
 19894
 
-10742
+9824
 
-iš
+iš jų: melioracijai ir dirvų kalkinimui
 
-jų: melioracijai ir dirvų kalkinimui
+7822
 
-8720
+7822
 
-8720
+žemės reformai vykdyti
 
-žemės reformai
+5361
 
-4721
+5361
 
-4721
+III. Departamentai, tarnybos ir
 
-III. Departamentai, tarnybos ir inspekcijos
+inspekcijos
 
-Lietuvos archyvų departamentas prie Lietuvos Respublikos
-
-Vyriausybės
-
-10503
-
-9226
-
-5233
-
-1277
-
-Kūno kultūros ir sporto departamentas prie Lietuvos
+Lietuvos archyvų departamentas prie Lietuvos
 
 Respublikos Vyriausybės
 
-33847
+10376
 
-27897
+9124
+
+5233
+
+1252
+
+Europos teisės departamentas prie Lietuvos
+
+Respublikos Vyriausybės
+
+1468
+
+1468
+
+832
+
+Europos komitetas prie Lietuvos Respublikos
+
+Vyriausybės
+
+3680
+
+3580
+
+1794
+
+100
+
+Kūno kultūros ir sporto departamentas prie
+
+Lietuvos Respublikos Vyriausybės
+
+32989
+
+27039
 
 2753
 
 5950
 
-Regioninių problemų ir tautinių mažumų departamentas prie
+Regioninių problemų ir tautinių mažumų
 
-Lietuvos Respublikos Vyriausybės
+departamentas prie Lietuvos Respublikos   Vyriausybės
 
-7626
+7566
 
-3604
+3544
 
 1208
 
 4022
 
-Valstybės saugumo departamentas
+Statistikos departamentas prie Lietuvos
 
-20044
+Respublikos Vyriausybės
 
-15340
+19017
 
-9268
-
-4704
-
-Statistikos departamentas prie Lietuvos Respublikos
-
-Vyriausybės
-
-19117
-
-14806
+14706
 
 7046
 
@@ -1299,17 +1207,17 @@ Vyriausybės
 
 Teismų departamentas prie Teisingumo ministerijos
 
-1535
+1440
 
-1035
+1015
 
-500
+484
 
-500
+425
 
-Mokslo ir studijų departamentas prie Švietimo ir mokslo
+Mokslo ir studijų departamentas prie Švietimo ir
 
-ministerijos
+mokslo ministerijos
 
 380
 
@@ -1317,267 +1225,223 @@ ministerijos
 
 292
 
-1
+Valstybinė geodezijos ir kartografijos tarnyba
 
-priedėlio tęsinys
+prie Lietuvos Respublikos Vyriausybės
 
-tūkst.
+5876
 
-Lt
-
-Ministerijų,
-
-departamentų, valstybinių
-
-Iš
-
-jų
-
-tarnybų,
-
-įmonių, įstaigų ir organizacijų -
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprastosios
-
-asignavimų
-
-valdytojų pavadinimas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-išlaidos
-
-Valstybinė geodezijos ir kartografijos tarnyba prie Lietuvos
-
-Respublikos Vyriausybės
-
-5997
-
-5967
+5846
 
 330
 
 30
 
-Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba
+Valstybinė konkurencijos ir vartotojų teisių
 
-prie Lietuvos Respublikos Vyriausybės
+gynimo tarnyba prie Lietuvos Respublikos Vyriausybės
 
-2043
+2005
 
-1903
+1865
 
 1059
 
 140
 
-Valstybinė tabako ir alkoholio kontrolės tarnyba prie Lietuvos
+Valstybinė tabako ir alkoholio kontrolės tarnyba
 
-Respublikos Vyriausybės
+prie Lietuvos Respublikos Vyriausybės
 
-1533
+1503
 
-1433
+1403
 
 818
 
 100
 
+Viešųjų pirkimų tarnyba prie Lietuvos Respublikos
+
+Vyriausybės
+
+1149
+
+1014
+
+572
+
+135
+
+Ginklų fondas prie Lietuvos Respublikos
+
+Vyriausybės
+
+2251
+
+1613
+
+438
+
+638
+
+Lietuvos ekonominės plėtros agentūra
+
+3783
+
+3783
+
+1511
+
+Lietuvos Respublikos valstybės saugumo departamentas
+
+19612
+
+15124
+
+9268
+
+4488
+
 Valstybinė veterinarijos tarnyba
 
-26884
+26442
 
-21651
+21209
 
 9765
 
 5233
 
-Viešųjų pirkimų tarnyba prie Lietuvos Respublikos Vyriausybės
-
-923
-
-903
-
-472
-
-20
-
 Valstybinė atominės energetikos saugos inspekcija
 
-2832
+2730
 
-2802
+2700
 
 1075
 
 30
 
-Lietuvos
+Lietuvos valstybinė kokybės inspekcija prie
 
-valstybinė kokybės inspekcija prie Valstybinės konkurencijos ir vartotojų
+Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos
 
-teisių gynimo tarnybos
+6058
 
-6192
-
-5922
+5802
 
 3404
 
-270
+256
 
-Vyriausybinių
+Vyriausybinių ryšių centras prie Lietuvos
 
-ryšių centras prie Lietuvos Respublikos saugumo departamento
+Respublikos valstybės saugumo departamento
 
-6829
+6721
 
-5297
+5189
 
 2184
 
 1532
 
-Ginklų fondas prie Lietuvos Respublikos Vyriausybės
-
-2313
-
-1663
-
-438
-
-650
-
 IV. Įmonės ir organizacijos
 
-Aplinkos apsaugos ministerijos reguliavimo sritis
+Aplinkos ministerijos reguliavimo
 
-Lietuvos
+sritis
 
-hidrometeorologijos tarnyba prie Aplinkos apsaugos ministerijos
+Miškų ir saugomų teritorijų departamentas prie
 
-6810
+Aplinkos ministerijos
 
-6760
+6379
+
+4562
+
+2534
+
+1817
+
+Lietuvos hidrometeorologijos tarnyba prie Aplinkos
+
+ministerijos
+
+6683
+
+6633
 
 4099
 
 50
 
-Europos reikalų ministerijos reguliavimo sritis
+Lietuvos geologijos tarnyba prie Aplinkos
 
-Lietuvos
+ministerijos
 
-ekonominės plėtros agentūra prie Europos reikalų ministerijos
+5960
 
-3860
+5910
 
-3860
+1419
 
-1511
+50
 
-1
+Valstybės įmonė “Statybos produkcijos
 
-priedėlio tęsinys
+sertifikavimo centras”
 
-tūkst.
+40
 
-Lt
+40
 
-Ministerijų,
+Valstybinė teritorijų planavimo ir statybos
 
-departamentų, valstybinių
+inspekcija prie Aplinkos ministerijos
 
-Iš
+817
 
-jų
+717
 
-tarnybų,
+422
 
-įmonių, įstaigų ir organizacijų -
+100
 
-Iš
+Žemės ir kito nekilnojamojo turto kadastro ir
 
-viso
+registro valstybės įmonė
 
-paprastosios
+3000
 
-išlaidos
+3000
 
-nepaprastosios
+Finansų ministerijos reguliavimo
 
-asignavimų
+sritis
 
-valdytojų pavadinimas
+Muitinės departamentas prie Finansų ministerijos
 
-iš
+104639
 
-viso
-
-iš
-
-jų darbo
-
-užmokestis
-
-išlaidos
-
-Teisės
-
-biuras prie Europos reikalų ministerijos
-
-1499
-
-1499
-
-832
-
-Finansų
-
-ministerijos reguliavimo sritis
-
-Muitinės
-
-departamentas prie Finansų ministerijos
-
-105139
-
-90749
+90249
 
 63210
 
 14390
 
-Finansų
+Finansų ministerijos mokymo centras
 
-ministerijos mokymo centras
+1954
 
-1985
-
-1560
+1529
 
 664
 
 425
 
-Revizijų
-
-departamentas prie Finansų ministerijos
+Revizijų departamentas prie Finansų ministerijos
 
 6981
 
@@ -1585,71 +1449,75 @@ departamentas prie Finansų ministerijos
 
 4953
 
-Valstybinė
+Valstybinė mokesčių inspekcija prie Finansų
 
-mokesčių inspekcija prie Finansų ministerijos
+ministerijos
 
-121284
+120784
 
-110400
+109900
 
 79342
 
 10884
 
-Komisija
+Komisija privalomam registruoti turtui įvertinti
 
-privalomam registruoti turtui įvertinti prie Finansų ministerijos
+prie Finansų ministerijos
 
-244
+240
 
-229
+225
 
 157
 
 15
 
-Valstybės
+Valstybės dokumentų technologinės apsaugos tarnyba
 
-dokumentų technologinės apsaugos tarnyba prie Finansų ministerijos
+prie Finansų ministerijos
 
-3172
+3108
 
-3122
+3058
 
 1868
 
 50
 
-Lietuvos
+Viešoji įstaiga "Būsto kreditavimo fondas”
 
-prabavimo rūmai
+8300
+
+8300
+
+Lietuvos prabavimo rūmai
 
 812
 
 812
 
-Kultūros ministerijos reguliavimo sritis
+Kultūros ministerijos reguliavimo
 
-Kultūros
+sritis
 
-ministerijos Kultūros vertybių apsaugos departamentas
+Kultūros ministerijos Kultūros vertybių apsaugos
 
-24499
+departamentas
 
-24389
+24164
+
+23654
 
 2270
 
-110
+510
 
-Nacionalinė
+Nacionalinė Martyno Mažvydo biblioteka
 
-Martyno Mažvydo biblioteka
+15212
 
-15422
-
-10262
+10052
 
 5895
 
@@ -1657,9 +1525,9 @@ Martyno Mažvydo biblioteka
 
 Lietuvos aklųjų biblioteka
 
-1119
+1097
 
-1106
+1084
 
 656
 
@@ -1667,19 +1535,19 @@ Lietuvos aklųjų biblioteka
 
 Lietuvos nacionalinis muziejus
 
-3823
+3696
 
-2393
+2341
 
 1448
 
-1430
+1355
 
 Lietuvos dailės muziejus
 
-7639
+7507
 
-6239
+6107
 
 3220
 
@@ -1687,241 +1555,63 @@ Lietuvos dailės muziejus
 
 Valstybinis M.K.Čiurlionio dailės muziejus
 
-3401
+3332
 
-3322
+3253
 
 1765
 
 79
 
-1
+Vilniaus pilių direkcija
 
-priedėlio tęsinys
+13478
 
-tūkst.
+13478
 
-Lt
+Socialinės apsaugos ir darbo
 
-Ministerijų,
+ministerijos reguliavimo sritis
 
-departamentų, valstybinių
+Technikos priežiūros tarnyba prie Socialinės
 
-Iš
+apsaugos ir darbo  ministerijos
 
-jų
+1593
 
-tarnybų,
+1343
 
-įmonių, įstaigų ir organizacijų -
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprastosios
-
-asignavimų
-
-valdytojų pavadinimas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-išlaidos
-
-Ryšių ir informatikos ministerijos reguliavimo
-
-sritis
-
-Valstybinė
-
-duomenų apsaugos inspekcija prie Ryšių ir informatikos ministerijos
-
-466
-
-381
-
-182
-
-85
-
-Valstybės
-
-įmonė “Lietuvos paštas”
-
-7773
-
-7773
-
-Socialinės
-
-apsaugos ir darbo ministerijos reguliavimo sritis
-
-Technikos
-
-priežiūros tarnyba prie Socialinės apsaugos ir darbo ministerijos
-
-1621
-
-1371
-
-941
+939
 
 250
 
-Vaikų
+Vaikų teisių apsaugos tarnyba prie Socialinės
 
-teisių apsaugos tarnyba prie Socialinės apsaugos ir darbo ministerijos
+apsaugos ir darbo ministerijos
 
-211
+207
 
-196
+192
 
 109
 
 15
 
-Valstybinė
+Valstybinė darbo inspekcija prie Socialinės
 
-darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos
+apsaugos ir darbo ministerijos
 
-4562
+4502
 
-4462
+4402
 
 2867
 
 100
 
-Statybos
+Susisiekimo ministerijos reguliavimo
 
-ir urbanistikos ministerijos reguliavimo sritis
-
-Komunalinio
-
-ūkio ir paslaugų departamentas prie Statybos ir urbanistikos ministerijos
-
-922
-
-864
-
-475
-
-58
-
-Lietuvos
-
-geologijos tarnyba prie Statybos ir urbanistikos ministerijos
-
-6081
-
-6031
-
-1419
-
-50
-
-Vilniaus
-
-pilių direkcija
-
-13478
-
-13478
-
-Valstybės
-
-įmonė Statybos produkcijos sertifikavimo centras
-
-40
-
-40
-
-Valstybinė
-
-teritorijų planavimo ir statybos inspekcija prie Statybos ir urbanistikos
-
-ministerijos
-
-832
-
-732
-
-422
-
-100
-
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Ministerijų,
-
-departamentų, valstybinių
-
-Iš
-
-jų
-
-tarnybų,
-
-įmonių, įstaigų ir organizacijų -
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprastosios
-
-asignavimų
-
-valdytojų pavadinimas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-išlaidos
-
-Viešoji
-
-įstaiga Būsto kreditavimo fondas
-
-9000
-
-9000
-
-Žemės
-
-ir kito nekilnojamojo turto kadastro ir registro valstybės įmonė
-
-3000
-
-3000
-
-Susisiekimo ministerijos reguliavimo sritis
+sritis
 
 Lietuvos valstybinė tiltų inspekcija
 
@@ -1931,19 +1621,15 @@ Lietuvos valstybinė tiltų inspekcija
 
 90
 
-Valstybės
+Valstybės įmonė Vidaus vandens kelių direkcija
 
-įmonė Vidaus vandens kelių direkcija
+9230
 
-10907
+7236
 
-7895
+1994
 
-3012
-
-Vandens
-
-transporto valstybinės kontrolės ir saugaus plaukiojimo inspekcija
+Valstybinė vidaus vandenų laivybos inspekcija
 
 688
 
@@ -1951,13 +1637,13 @@ transporto valstybinės kontrolės ir saugaus plaukiojimo inspekcija
 
 300
 
-Specialiosios paskirties akcinė bendrovė “Lietuvos
+Specialiosios paskirties akcinė bendrovė
 
-geležinkeliai”
+"Lietuvos geležinkeliai"
 
-25278
+24773
 
-25278
+24773
 
 Valstybinė geležinkelio inspekcija
 
@@ -1969,13 +1655,13 @@ Valstybinė geležinkelio inspekcija
 
 Transporto investicijų direkcija
 
-2316
+1816
 
 316
 
 163
 
-2000
+1500
 
 Valstybės įmonė Vilniaus aerouostas
 
@@ -1983,7 +1669,7 @@ Valstybės įmonė Vilniaus aerouostas
 
 84
 
-Aviakompanija “Lietuvos avialinijos”
+Aviakompanija "Lietuvos avialinijos"
 
 14255
 
@@ -1991,109 +1677,75 @@ Aviakompanija “Lietuvos avialinijos”
 
 11788
 
-Sveikatos apsaugos ministerijos reguliavimo sritis
+Valstybės įmonė "Lietuvos paštas"
+
+7773
+
+7773
+
+Sveikatos apsaugos ministerijos
+
+reguliavimo sritis
 
 Valstybinė ligonių kasa
 
-512784
+497388
 
-512784
+497388
 
 Ūkio ministerijos reguliavimo sritis
 
-Energetikos
+Energetikos valstybinė inspekcija prie Ūkio
 
-valstybinė inspekcija prie Ūkio ministerijos
+ministerijos
 
-2528
+2480
 
-2408
+2360
 
 1429
 
 120
 
-Uždaroji
-
-akcinė bendrovė “Geoterma”
+Uždaroji akcinė bendrovė “Geoterma”
 
 3120
 
 3120
 
-Valstybės
-
-įmonė Ignalinos atominė elektrinė
+Valstybės įmonė Ignalinos atominė elektrinė
 
 20000
 
 20000
 
-1
+Valdymo reformų ir savivaldybių
 
-priedėlio tęsinys
+reikalų ministerijos reguliavimo sritis
 
-tūkst.
+Lietuvos standartizacijos departamentas prie
 
-Lt
+Valdymo reformų ir savivaldybių reikalų ministerijos
 
-Ministerijų,
+2191
 
-departamentų, valstybinių
+2091
 
-Iš
-
-jų
-
-tarnybų,
-
-įmonių, įstaigų ir organizacijų -
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprastosios
-
-asignavimų
-
-valdytojų pavadinimas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-išlaidos
-
-Valdymo
-
-reformų ir savivaldybių reikalų ministerijos reguliavimo sritis
-
-Lietuvos
-
-standartizacijos departamentas prie Valdymo reformų ir savivaldybių reikalų
-
-ministerijos
-
-3929
-
-3829
-
-715
+569
 
 100
 
-Lietuvos
+Valstybinė metrologijos tarnyba prie Valdymo
 
-metrologijos inspekcija prie Lietuvos standartizacijos departamento
+reformų ir savivaldybių reikalų ministerijos
+
+1659
+
+1659
+
+104
+
+Lietuvos metrologijos inspekcija
 
 2344
 
@@ -2103,209 +1755,181 @@ metrologijos inspekcija prie Lietuvos standartizacijos departamento
 
 406
 
-Viešoji
+Viešoji įstaiga valstybės ir savivaldybių
 
-įstaiga Valstybės ir savivaldybių tarnautojų mokymo centras “Dainava” prie
+tarnautojų mokymo centras "Dainava" prie Valdymo reformų ir
 
-Valdymo reformų ir savivaldybių reikalų ministerijos
+savivaldybių reikalų ministerijos
 
-342
+337
 
-267
+262
 
 92
 
 75
 
-Valstybės
+Viešoji organizacija "Valstybės tarnautojų
 
-tarnautojų tobulinimosi centras prie Valdymo reformų ir savivaldybių reikalų
-
-ministerijos
+tobulinimosi centras"
 
 152
 
 152
 
-Valstybinis
+Nacionalinis akreditacijos biuras prie Valdymo
 
-turizmo departamentas prie Valdymo reformų ir savivaldybių reikalų
+reformų ir savivaldybių reikalų ministerijos
 
-ministerijos
+156
 
-1707
+156
 
-1697
+101
+
+Valstybinis turizmo departamentas prie Valdymo
+
+reformų ir savivaldybių reikalų ministerijos
+
+1657
+
+1647
 
 312
 
 10
 
-Vidaus reikalų ministerijos reguliavimo sritis
+Valstybinė duomenų apsaugos inspekcija prie
 
-Lietuvos
+Valdymo reformų ir savivaldybių reikalų ministerijos
 
-Respublikos Prezidento, Seimo  Pirmininko, Ministro Pirmininko ir oficialių
+466
 
-svečių apsaugos departamentas prie Vidaus reikalų ministerijos
+381
 
-24068
+182
 
-21698
+85
+
+Vidaus reikalų ministerijos
+
+reguliavimo sritis
+
+Lietuvos Respublikos Prezidento, Seimo Pirmininko,
+
+Ministro Pirmininko ir oficialių svečių apsaugos departamentas prie Vidaus
+
+reikalų ministerijos
+
+23778
+
+21478
 
 14048
 
-2370
+2300
 
-Priešgaisrinės
+Priešgaisrinės apsaugos departamentas prie Vidaus
 
-apsaugos departamentas prie Vidaus reikalų ministerijos
+reikalų ministerijos
 
-103749
+101895
 
-84750
+83021
 
 54682
 
-18999
+18874
 
-Pasienio
+Pasienio policijos departamentas prie Vidaus reikalų
 
-policijos departamentas prie Vidaus reikalų ministerijos
+ministerijos
 
-133793
+133726
 
-101777
+101710
 
-59143
+61643
 
 32016
 
-Pataisos
+Pataisos reikalų departamentas prie Vidaus reikalų
 
-reikalų departamentas prie Vidaus reikalų ministerijos
+ministerijos
 
-132796
+130359
 
-115060
+112708
 
 53630
 
-17736
+17651
 
-1
+Specialiųjų tyrimų tarnyba prie Vidaus reikalų
 
-priedėlio tęsinys
+ministerijos
 
-tūkst.
+15783
 
-Lt
+15783
 
-Ministerijų,
+9650
 
-departamentų, valstybinių
+Mokesčių policijos departamentas prie Vidaus
 
-Iš
+reikalų ministerijos
 
-jų
+9728
 
-tarnybų,
-
-įmonių, įstaigų ir organizacijų -
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprastosios
-
-asignavimų
-
-valdytojų pavadinimas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-išlaidos
-
-Specialiųjų
-
-tyrimų tarnyba prie Vidaus reikalų ministerijos
-
-21583
-
-21583
-
-13650
-
-Mokesčių
-
-policijos departamentas prie Vidaus reikalų ministerijos
-
-10038
-
-10038
+9728
 
 6716
 
-Policijos
+Policijos departamentas prie Vidaus reikalų
 
-departamentas prie Vidaus reikalų ministerijos
+ministerijos
 
-404915
+405695
 
-404315
+405115
 
-272938
+273588
 
-600
+580
 
-Žemės ir miškų ūkio  ministerijos reguliavimo
+Žemės ūkio ministerijos reguliavimo
 
 sritis
 
-Žemėtvarkos
+Žemėtvarkos ir teisės departamentas prie Žemės
 
-ir teisės departamentas prie Žemės ir miškų ūkio ministerijos
+ūkio ministerijos
 
-7921
+7762
 
-7901
+7742
 
 719
 
 20
 
-Lietuvos
+Lietuvos Respublikos žemės ūkio rūmai
 
-Respublikos žemės ūkio rūmai
+2578
 
-2626
+2078
 
-2400
+500
 
-226
-
-Valstybės
-
-įmonė “Pieno tyrimai”
+Valstybės įmonė “Pieno tyrimai”
 
 75
 
 75
 
-Kompleksinis
+Kompleksinio kokybės bandymo centras UAB
 
-kokybės bandymo centras UAB “Labtarna”
+“Labtarna”
 
 70
 
@@ -2315,9 +1939,9 @@ V. Teisėsaugos institucijos
 
 Lietuvos Aukščiausiasis Teismas
 
-8146
+8096
 
-7066
+7016
 
 5083
 
@@ -2325,25 +1949,37 @@ Lietuvos Aukščiausiasis Teismas
 
 Generalinė ir teritorinės prokuratūros
 
-69620
+68620
 
-62520
+62396
 
-43667
+43057
 
-7100
+6224
 
 Teismai (Teisingumo ministerija)
 
-118532
+119097
 
-107732
+108497
 
-69705
+70705
 
-10800
+10600
 
-Teismai (Teismų departamentas prie Teisingumo ministerijos)
+Hipotekos įstaigos (Teisingumo ministerija)
+
+10394
+
+6519
+
+1720
+
+3875
+
+Teismai (Teismų departamentas prie Teisingumo
+
+ministerijos)
 
 3000
 
@@ -2353,25 +1989,15 @@ Teismai (Teismų departamentas prie Teisingumo ministerijos)
 
 2500
 
-Hipotekos įstaigos (Teisingumo ministerija)
+VI. Švietimo, kultūros ir kitos
 
-10723
-
-6723
-
-1770
-
-4000
-
-VI. Švietimo, kultūros ir kitos įstaigos bei
-
-organizacijos
+įstaigos bei organizacijos
 
 Lietuvos technikos biblioteka
 
-3882
+3806
 
-3722
+3646
 
 1598
 
@@ -2379,19 +2005,19 @@ Lietuvos technikos biblioteka
 
 Lietuvos medicinos biblioteka
 
-1064
+1243
 
-1044
+1023
 
 623
 
-20
+220
 
 Spaudos, radijo ir televizijos rėmimo fondas
 
-4589
+4452
 
-4569
+4432
 
 268
 
@@ -2399,107 +2025,69 @@ Spaudos, radijo ir televizijos rėmimo fondas
 
 Valstybinė jaunimo reikalų taryba
 
-2392
+2347
 
-2192
+2147
 
 180
 
 200
 
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Ministerijų,
-
-departamentų, valstybinių
-
-Iš
-
-jų
-
-tarnybų,
-
-įmonių, įstaigų ir organizacijų -
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprastosios
-
-asignavimų
-
-valdytojų pavadinimas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-išlaidos
-
 Valstybinė privatizavimo agentūra
 
-831
+330
 
-771
-
-538
-
-60
-
-Lietuvos smulkaus ir vidutinio verslo plėtros agentūra
+305
 
 212
 
-212
+25
+
+Lietuvos smulkaus ir vidutinio verslo plėtros
+
+agentūra
+
+208
+
+208
 
 95
 
-Lietuvos gyventojų genocido ir rezistencijos tyrimo centras
+Lietuvos gyventojų genocido ir rezistencijos
 
-6422
+tyrimo centras
 
-3756
+6375
+
+3859
 
 1982
 
-2666
+2516
 
-Lietuvos gyventojų genocido ir rezistencijos tyrimo, aukų
+Lietuvos gyventojų genocido ir rezistencijos
 
-rėmimo ir įamžinimo fondas
+tyrimo, aukų rėmimo ir įamžinimo fondas
 
 594
 
-574
+578
 
-30
+28
 
-20
+16
 
 Lietuvos nacionalinis radijas ir televizija
 
-46277
+46842
 
-39992
+40642
 
-6285
+6200
 
-iš jų: Lietuvos nacionalinė radijo ir televizijos taryba
+iš jų: Lietuvos nacionalinė radijo ir
+
+televizijos taryba
 
 141
 
@@ -2507,25 +2095,25 @@ iš jų: Lietuvos nacionalinė radijo ir televizijos taryba
 
 Valstybinis patentų biuras
 
-2152
+2110
 
-2052
+2010
 
 796
 
 100
 
-Valstybės įmonė poilsio namai “Baltija”
+Valstybės įmonė poilsio namai "Baltija"
 
-2333
+2266
 
-2233
+2166
 
 253
 
 100
 
-Valstybės įmonė sanatorija “Lietuva”
+Valstybės įmonė sanatorija "Lietuva"
 
 118
 
@@ -2533,39 +2121,27 @@ Valstybės įmonė sanatorija “Lietuva”
 
 25
 
-Valstybės
-
-įmonė “Greminta”
+Valstybės įmonė "Greminta"
 
 416
 
 416
 
-Lietuvos
+Lietuvos Respublikos Vyriausybės kanceliarijos
 
-Respublikos Vyriausybės kanceliarijos Specialiosios paskirties akcinė
+Specialiosios paskirties akcinė komunalinių paslaugų bendrovė
 
-komunalinių paslaugų bendrovė
+889
 
-916
+889
 
-916
+Lietuvos tūkstantmečio minėjimo direkcija prie
 
-Specialios
+Lietuvos Respublikos Prezidento kanceliarijos
 
-paskirties akcinė bendrovė “Autoūkis”
+915
 
-200
-
-200
-
-Lietuvos
-
-tūkstantmečio direkcija prie Lietuvos Respublikos Prezidento kanceliarijos
-
-945
-
-885
+855
 
 194
 
@@ -2573,9 +2149,9 @@ tūkstantmečio direkcija prie Lietuvos Respublikos Prezidento kanceliarijos
 
 Mokslininkų rūmai
 
-241
+236
 
-231
+226
 
 137
 
@@ -2583,29 +2159,37 @@ Mokslininkų rūmai
 
 Lietuvių grįžimo į Tėvynę informacijos centras
 
-194
+190
 
-152
+148
 
-76
+72
 
 42
 
+Specialiosios paskirties akcinė bendrovė
+
+“Autoūkis”
+
+200
+
+200
+
 Studijų kreditai
 
-7457
+5957
 
-7457
+5957
 
 Mokslas ir studijos
 
-540789
+531626
 
-507266
+497013
 
-290610
+290911
 
-33523
+34613
 
 iš jų: kunigų seminarijos
 
@@ -2613,73 +2197,29 @@ iš jų: kunigų seminarijos
 
 1523
 
-Lietuvos vartotojų kooperatyvų sąjunga (aukštesniosios
+Lietuvos vartotojų kooperatyvų sąjunga
 
-kooperacijos mokyklos)
-
-170
+(aukštesniosios kooperacijos mokyklos)
 
 170
 
-1
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Ministerijų,
-
-departamentų, valstybinių
-
-Iš
-
-jų
-
-tarnybų,
-
-įmonių, įstaigų ir organizacijų -
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprastosios
-
-asignavimų
-
-valdytojų pavadinimas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-išlaidos
+170
 
 Vilniaus apskrities visuomeninio judėjimo “Stabdyk
 
 nusikalstamumą” koordinacinis štabas
 
-99
+96
 
-99
+96
 
-Lietuvos invalidų reikalų taryba prie Lietuvos Respublikos
+Lietuvos invalidų reikalų taryba prie Lietuvos
 
-Vyriausybės
+Respublikos Vyriausybės
 
-32061
+31768
 
-27061
+26768
 
 562
 
@@ -2687,19 +2227,19 @@ Vyriausybės
 
 Lietuvos blaivybės fondas
 
-300
+291
 
-300
+291
 
 Lietuvos raudonojo kryžiaus draugija
 
-1559
+1513
 
-1559
+1513
 
-Tradicinių religinių bendrijų maldos namams atstatyti ir
+Tradicinių religinių bendrijų maldos namams
 
-kitoms reikmėms
+atstatyti ir kitoms reikmėms
 
 6783
 
@@ -2709,9 +2249,9 @@ kitoms reikmėms
 
 Marijampolės krikščioniškosios kultūros centras
 
-1643
+1630
 
-643
+630
 
 412
 
@@ -2723,7 +2263,9 @@ Lietuvos invalidų draugijos centro taryba
 
 435
 
-Lietuvos aklųjų ir silpnaregių sąjungos centro taryba
+Lietuvos aklųjų ir silpnaregių sąjungos centro
+
+taryba
 
 50
 
@@ -2731,131 +2273,89 @@ Lietuvos aklųjų ir silpnaregių sąjungos centro taryba
 
 Nusikalstamumo prevencijos Lietuvoje centras
 
-495
+481
 
-495
+481
 
-Gyventojams
+Gyventojams taikomų padidėjusių šiluminės ir
 
-taikomų padidėjusių šiluminės energijos kainų dalinis kompensavimas (Finansų
+elektros energijos kainų dalinis kompensavimas (Finansų ministerija)
+
+108500
+
+108500
+
+Bendrasis paramos gyvenamiesiems namams, butams
+
+statyti arba pirkti fondas
+
+3000
+
+3000
+
+Išmokos žalai atlyginti, kai ši prievolė pereina
+
+valstybei (Finansų ministerija)
+
+500
+
+500
+
+Kompensacijos asmenims, patyrusiems žalą
+
+likviduojant Černobylio atominės elektrinės avarijos padarinius (Finansų
 
 ministerija)
 
-70000
+1400
 
-70000
+1400
 
-Bendrasis paramos gyvenamiesiems namams, butams statyti arba
+Vienkartinės kompensacijos žuvusiųjų šeimoms ir
 
-pirkti fondas *
+nukentėjusiems nuo 1991 m. sausio 11-13 dienomis  įvykdytos agresijos ir
 
-31400
-
-31400
-
-Išmokos žalai atlyginti, kai ši prievolė pereina valstybei
-
-(Finansų ministerija)
-
-5000
-
-5000
-
-Kompensacijos asmenims,patyrusiems žalą likviduojant
-
-Černobylio atominės elektrinės avarijos padarinius (Finansų ministerija)
-
-1000
-
-1000
-
-1 priedėlio tęsinys
-
-tūkst. Lt
-
-Ministerijų,
-
-departamentų, valstybinių
-
-Iš
-
-jų
-
-tarnybų,
-
-įmonių, įstaigų ir organizacijų -
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprastosios
-
-asignavimų
-
-valdytojų pavadinimas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-išlaidos
-
-Vienkartinės kompensacijos žuvusiųjų šeimoms ir nukentėjusiems
-
-nuo 1991 m. sausio 11-13 dienomis įvykdytos agresijos ir vėlesnių įvykių
-
-(Krašto apsaugos ministerija)
+vėlesnių įvykių (Krašto  apsaugos ministerija)
 
 600
 
 600
 
-Valstybės
+Valstybės parama pasipriešinimo 1940-1990 metų
 
-parama pasipriešinimo 1940-1990 metų okupacijų dalyviams (Krašto apsaugos
+okupacijų dalyviams (Krašto apsaugos ministerija)
 
-ministerija)
+1000
 
-9000
+1000
 
-9000
+Specialusis fondas veikiančioms ir
 
-Specialusis
+besisteigiančioms profesinėms sąjungoms remti
 
-fondas veikiančioms ir besisteigiančioms profesinėms sąjungoms remti
+96
 
-99
+96
 
-99
-
-Indėlių draudimo fondas (Finansų  ministerija)
+Indėlių draudimo fondas (Finansų ministerija)
 
 20000
 
 20000
 
-Lėšos darbo užmokesčiui, pensijoms, stipendijoms ir pašalpoms
+Lėšos darbo užmokesčiui, pensijoms, stipendijoms
 
-indeksuoti (Finansų ministerija)
+ir pašalpoms indeksuoti (Finansų ministerija)
 
-102637
+96137
 
-102637
+96137
 
 Vyriausybės rezervo fondas
 
-75200
+77000
 
-75200
+77000
 
 iš jų: apskričių viršininkų administracijoms
 
@@ -2863,79 +2363,31 @@ iš jų: apskričių viršininkų administracijoms
 
 10000
 
-Bankams restruktūrizuoti išleistiems Vyriausybės vertybiniams
+Išlaidos, susijusios su vidaus ir užsienio skola
 
-popieriams išpirkti (Finansų ministerija)
+(Finansų ministerija)
 
-23355
+106790
 
-23355
+106790
 
-Išlaidos, susijusios su vidaus ir užsienio skola (Finansų
+Palūkanos už Vyriausybės išleistus vertybinius
 
-ministerija)
+popierius ir užsienio paskolas (Finansų ministerija)
 
-156790
+417400
 
-156790
-
-Palūkanos už Vyriausybės išleistus vertybinius popierius ir
-
-užsienio paskolas (Finansų ministerija)
-
-490400
-
-490400
+417400
 
 IŠ VISO
 
-6884909
+6634081
 
-6219811
+5978320
 
-1854231
+1848884
 
-665098
-
-1 priedėlio tęsinys
-
-tūkst..Lt
-
-Ministerijų,
-
-departamentų, valstybinių
-
-Iš
-
-jų
-
-tarnybų,
-
-įmonių, įstaigų ir organizacijų -
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprastosios
-
-asignavimų
-
-valdytojų pavadinimas
-
-iš
-
-viso
-
-iš
-
-jų darbo užmokestis
-
-išlaidos
+655761
 
 Bendroji dotacija savivaldybėms
 
@@ -2945,19 +2397,19 @@ Bendroji dotacija savivaldybėms
 
 Speciali tikslinė dotacija savivaldybėms
 
-424099
+377099
 
-424099
+377099
 
 IŠ VISO
 
-7704790
+7406962
 
-7039692
+6751201
 
-1854231
+1848884
 
-665098
+655761
 
 Išlaidos viršija pajamas
 
@@ -2967,21 +2419,15 @@ Paskolos, atėmus grąžinamas lėšas
 
 574000
 
-*) Palūkanų skirtumui ir
-
-lengvatoms padengti, valstybės garantijai užtikrinti teikiant lengvatines
-
-paskolas iš bankų kredito išteklių - 20000 tūkst. Lt piliečiams, įtrauktiems
-
-į savivaldybėse sudarytas apsirūpinimo gyvenamosiomis patalpomis eiles, ir
-
-11400 tūkst. Lt  - jaunoms šeimoms.
-
 Priedėlio pakeitimai:
 
 Nr. VIII-752, 98.05.21,
 
 Žin., 1998, Nr.53-1449 (98.06.10)
+
+Nr. VIII-944, 98.12.01,
+
+Žin., 1998, Nr.111 (98.12.18)
 
 Lietuvos
 
@@ -2999,19 +2445,23 @@ Nr.VIII-547
 
 priedėlis
 
-SOCIALINĖS EKONOMINĖS PROGRAMOS, FINANSUOJAMOS IŠ
+SOCIALINĖS
 
-1 PRIEDĖLYJE PATVIRTINTŲ ASIGNAVIMŲ
+EKONOMINĖS PROGRAMOS, FINANSUOJAMOS IŠ
 
-tūkst.Lt
+1
+
+PRIEDĖLYJE PATVIRTINTŲ ASIGNAVIMŲ
+
+tūkst.
+
+Lt
 
 Ministerijų, departamentų,
 
 Iš jų
 
-valstybinių tarnybų
-
-ir organizacijų -
+valstybinių tarnybų ir organizacijų-asignavimų
 
 Socialinės ekonominės programos
 
@@ -3019,15 +2469,15 @@ Iš viso
 
 paprastosios išlaidos
 
-nepaprasto-
+nepa-prasto-
 
-asignavimų valdytojų pavadinimas
+valdytojų pavadinimas
 
 pavadinimas
 
 iš  viso
 
-iš jų darbo užmokestis
+iš jų darbo užmo-kestis
 
 sios išlaidos
 
@@ -3035,19 +2485,17 @@ Valstybinė lietuvių kalbos komisija prie Lietuvos Respublikos
 
 Seimo
 
-Valstybinės kalbos
+Valstybinės kalbos vartojimo ir ugdymo programa
 
-vartojimo ir ugdymo programa
+3537
 
-3620
+3457
 
-3540
-
-1701
+1681
 
 80
 
-Aplinkos apsaugos ministerija
+Aplinkos ministerija
 
 Netinkamų naudoti pesticidų utilizavimas ir nukenksminimas,
 
@@ -3055,9 +2503,29 @@ kitos programos (vandens ir atmosferos apsauga, kraštovaizdžio apsauga,
 
 žuvivaisa ir žuvisauga, aplinkos monitoringas ir kitos)
 
-4886
+4569
 
-4886
+4569
+
+-
+
+-
+
+Teritorinio planavimo darbai
+
+1774
+
+1774
+
+-
+
+750
+
+Programa “Būstas”
+
+336
+
+336
 
 -
 
@@ -3067,11 +2535,11 @@ Krašto apsaugos ministerija
 
 Dalyvavimas tarptautinėse operacijose
 
-7685
+7085
 
-7685
+7085
 
-4481
+3981
 
 -
 
@@ -3081,85 +2549,41 @@ Martyno Mažvydo pirmosios lietuviškos knygos 450 metų
 
 jubiliejiniai renginiai
 
-164
+160
 
-164
-
--
+160
 
 -
 
-Ryšių ir informatikos ministerija
-
-Informatikos plėtojimo programa
-
-8931
-
-6031
-
 -
 
-2900
+2 priedėlio tęsinys
 
-Vyriausybės administracinės informacinės sistemos (VADIS)
+tūkst. Lt
 
-programa
+Ministerijų, departamentų,
 
-654
+Iš jų
 
-654
-
-95
-
--
-
-2
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Ministerijų,
-
-departamentų,
-
-Iš
-
-jų
-
-valstybinių
-
-tarnybų ir organizacijų -
+valstybinių tarnybų ir organizacijų-asignavimų
 
 Socialinės ekonominės programos
 
-Iš
+Iš viso
 
-viso
+paprastosios išlaidos
 
-paprastosios
-
-išlaidos
-
-nepaprasto-
-
-asignavimų
+nepa-prasto-
 
 valdytojų pavadinimas
 
 pavadinimas
 
-iš
+iš  viso
 
-viso
+iš jų darbo užmo-kestis
 
-iš jų darbo užmokestis
-
-sios
-
-išlaidos
+sios išlaidos
 
 Socialinės apsaugos ir darbo ministerija
 
@@ -3173,33 +2597,9 @@ Socialinių paslaugų infrastruktūros plėtros programa
 
 4000
 
-Statybos ir urbanistikos
-
-ministerija
-
-Teritorinio planavimo darbai
-
-1944
-
-1194
-
--
-
-750
-
-Programa “Būstas”
-
-346
-
-346
-
--
-
--
-
 Sveikatos apsaugos ministerija
 
-Pirminės sveikatos priežiūros; motinos ir vaiko sveikatos
+Pirminės sveikatos priežiūra; motinos ir vaiko sveikatos
 
 apsauga; ligų profilaktika; darbo aplinka ir higieninė priežiūra ir kitos
 
@@ -3217,25 +2617,25 @@ Vaikų ir paauglių nusikalstamumo prevencijos nacionalinė
 
 programa
 
-6452
+6152
 
-6452
+6152
 
 1620
 
 -
 
-Rytų Lietuvos rajonų socialinio plėtojimo 1996-2000 metų
+Rytų Lietuvos rajonų socialinio  plėtojimo 1996-2000 metų
 
 programa
 
-14180
+14780
 
 -
 
 -
 
-14180
+14780
 
 Ūkio  ministerija
 
@@ -3251,63 +2651,13 @@ Antrinių žaliavų panaudojimas ir pavojingų atliekų tvarkymas
 
 Eksporto plėtojimo programa
 
-46738
+45307
 
-46738
-
--
+45307
 
 -
 
-2
-
-priedėlio tęsinys
-
-tūkst.
-
-Lt
-
-Ministerijų,
-
-departamentų,
-
-Iš
-
-jų
-
-valstybinių
-
-tarnybų ir organizacijų -
-
-asignavimų
-
-Socialinės ekonominės programos
-
-Iš
-
-viso
-
-paprastosios
-
-išlaidos
-
-nepaprasto-
-
-valdytojų
-
-pavadinimas
-
-pavadinimas
-
-iš
-
-viso
-
-iš jų darbo užmokestis
-
-sios
-
-išlaidos
+-
 
 Nacionalinės energijos vartojimo efektyvumo didinimo,
 
@@ -3331,6 +2681,34 @@ Nacionalinė kokybės programa
 
 -
 
+2 priedėlio tęsinys
+
+tūkst. Lt
+
+Ministerijų, departamentų,
+
+Iš jų
+
+valstybinių tarnybų ir organizacijų-asignavimų
+
+Socialinės ekonominės programos
+
+Iš viso
+
+paprastosios išlaidos
+
+nepa-prasto-
+
+valdytojų pavadinimas
+
+pavadinimas
+
+iš  viso
+
+iš jų darbo užmo-kestis
+
+sios išlaidos
+
 Pramonės plėtojimo programa
 
 20
@@ -3341,13 +2719,37 @@ Pramonės plėtojimo programa
 
 -
 
-Žemės ir miškų ūkio ministerija
+Valdymo reformų ir savivaldybių reikalų ministerija
+
+Informatikos plėtojimo programa
+
+8728
+
+5828
+
+-
+
+2900
+
+Vyriausybės administracinės informacinės sistemos (VADIS)
+
+programa
+
+531
+
+531
+
+-
+
+-
+
+Žemės ūkio ministerija
 
 Nacionalinė žemės ūkio plėtojimo programa
 
-375089
+373690
 
-375089
+373690
 
 -
 
@@ -3363,29 +2765,25 @@ Nacionalinė žemės ūkio plėtojimo programa
 
 -
 
-Žemėtvarkos ir teisės departamentas prie Žemės ir miškų ūkio
-
-ministerijos
+Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos
 
 Žemėtvarkos, žemės ir kito nekilnojamojo turto kadastro ir
 
-registro programa:
+registro programa: žemėtvarkos ir žemės apskaitos darbai
 
-žemėtvarkos ir žemės apskaitos darbai
+2460
 
-2510
-
-2510
+2460
 
 -
 
 -
 
-žemės ir kito nekilnojamojo turto kadastro ir registro darbai
+Žemės ir kito nekilnojamojo turto kadastro ir registro darbai
 
-3772
+3696
 
-3772
+3696
 
 -
 
@@ -3417,67 +2815,45 @@ Nekilnojamųjų kultūros vertybių tvarkymo darbų programa
 
 -
 
-2
+2 priedėlio tęsinys
 
-priedėlio tęsinys
+tūkst. Lt
 
-tūkst.
+Ministerijų, departamentų,
 
-Lt
+Iš jų
 
-Ministerijų,
-
-departamentų,
-
-Iš
-
-jų
-
-valstybinių
-
-tarnybų ir organizacijų -
-
-asignavimų
+valstybinių tarnybų ir organizacijų-asignavimų
 
 Socialinės ekonominės programos
 
-Iš
+Iš viso
 
-viso
+paprastosios išlaidos
 
-paprastosios
+nepa-prasto-
 
-išlaidos
-
-nepaprasto-
-
-valdytojų
+valdytojų pavadinimas
 
 pavadinimas
 
-pavadinimas
+iš  viso
 
-iš
+iš jų darbo užmo-kestis
 
-viso
+sios išlaidos
 
-iš jų darbo užmokestis
+Regioninių problemų ir tautinių
 
-sios
+mažumų departamentas prie Lietuvos Respublikos Vyriausybės
 
-išlaidos
-
-Regioninių problemų ir tautinių mažumų departamentas prie
-
-Lietuvos Respublikos Vyriausybės
-
-Užsienio lietuvių bendruomenių kultūros ir švietimo rėmimo
+Užsienio lietuvių bendruomenių  kultūros ir švietimo rėmimo
 
 1998-2000 metų programa
 
-1670
+1610
 
-1670
+1610
 
 220
 
@@ -3489,25 +2865,23 @@ savivaldybių reikalų ministerijos
 
 Nacionalinė turizmo plėtojimo programa
 
-297
+247
 
-297
-
--
+247
 
 -
 
-Lietuvos geologijos tarnyba prie Statybos ir urbanistikos
+-
 
-ministerijos
+Lietuvos geologijos tarnyba prie Aplinkos ministerijos
 
 Geologinio kartografavimo, informacinės sistemos sukūrimo,
 
 litosferos monitoringo, naudingųjų iškasenų tyrimų ir kitos programos
 
-3506
+3385
 
-3506
+3385
 
 -
 
@@ -3519,19 +2893,9 @@ savivaldybių reikalų ministerijos
 
 Standartų rengimo programa
 
-Lietuvos etalonų rengimo programa
-
 350
 
-1500
-
 350
-
-1500
-
--
-
--
 
 -
 
@@ -3547,13 +2911,57 @@ Standartizuotų terminų bazės programinei įrangai sukurti
 
 -
 
-Lietuvos ekonominės plėtros agentūra prie Europos reikalų ministerijos
+Valstybinė metrologijos tarnyba prie Valdymo reformų ir
+
+savivaldybių reikalų ministerijos
+
+Lietuvos etalonų rengimo programa
+
+1500
+
+1500
+
+-
+
+-
+
+2 priedėlio tęsinys
+
+tūkst. Lt
+
+Ministerijų, departamentų,
+
+Iš jų
+
+valstybinių tarnybų ir organizacijų-asignavimų
+
+Socialinės ekonominės programos
+
+Iš viso
+
+paprastosios išlaidos
+
+nepa-prasto-
+
+valdytojų pavadinimas
+
+pavadinimas
+
+iš  viso
+
+iš jų darbo užmo-kestis
+
+sios išlaidos
+
+Lietuvos ekonominės plėtros
+
+agentūra
 
 Investicijų skatinimo, eksporto plėtojimo ir kitos programos
 
-3860
+3783
 
-3860
+3783
 
 1511
 
@@ -3571,38 +2979,6 @@ Narkomanijos prevencija, policijos įstatymų rengimas ir kita
 
 -
 
-2 priedėlio tęsinys
-
-tūkst. Lt
-
-Ministerijų, departamentų,
-
-Iš jų
-
-valstybinių tarnybų
-
-ir organizacijų -
-
-Socialinės ekonominės
-
-programos pavadinimas
-
-Iš viso
-
-paprastosios išlaidos
-
-nepaprasto-
-
-asignavimų valdytojų pavadinimas
-
-iš viso
-
-iš jų darbo
-
-užmokestis
-
-sios išlaidos
-
 Valstybinė jaunimo reikalų taryba
 
 Jaunimo veiklos projektai
@@ -3610,10 +2986,6 @@ Jaunimo veiklos projektai
 1500
 
 1500
-
--
-
--
 
 Invalidų reikalų taryba prie Lietuvos Respublikos Vyriausybės
 
@@ -3643,17 +3015,23 @@ valstybinė programa 1996-2000 metams
 
 -
 
-Viešoji įstaiga Būsto kreditavimo fondas
+Viešoji įstaiga“Būsto kreditavimo fondas”
 
 Programa “Būstas” (pastatų šiltinimas)
 
-9000
+8300
 
 -
 
 -
 
-9000
+8300”
+
+Priedėlio pakeitimai:
+
+Nr. VIII-944, 98.12.01,
+
+Žin., 1998, Nr.111 (98.12.18)
 
 Lietuvos
 
@@ -4923,9 +4301,9 @@ Nr.VIII-547
 
 6 priedėlis
 
-Savivaldybių biudžetų ir valstybės
+Savivaldybių biudžetų ir
 
-biudžeto mokestinių
+valstybės biudžeto mokestinių
 
 pajamų išlyginimo rezervo
 
