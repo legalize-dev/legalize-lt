@@ -4,7 +4,7 @@ identifier: "TAR.1FACCFC52985"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "1999-04-02"
+last_updated: "2000-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FACCFC52985"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,11 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 1999-04-02 iki 1999-12-31
+Suvestinė redakcija nuo 2000-01-01 iki 2000-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 190-0; Žin. 1992, Nr.29-841, i. k. 0921010ISTA00I-2878
 
-TAR pastaba. Nuo 1999-04-02 Lietuvos Respublikos konkurencijos įstatymas netenka galios, išskyrus jo 4 straipsnį, kuris netenka galios nuo 2000-01-01, ir 7 straipsnio 1 dalies 2 punktą, kuris netenka galios nuo Lietuvos Respublikos įstatymo, reglamentuojančio klaidinančios reklamos naudojimą, įsigaliojimo (2001-01-01)
+TAR pastaba. Nuo 1999-04-02 netenka galios Lietuvos Respublikos konkurencijos įstatymas, išskyrus jo 4 straipsnį, kuris netenka galios nuo 2000-01-01., ir 7 straipsnio 1 dalies 2 punktą, kuris netenka galios nuo Lietuvos Respublikos įstatymo, reglamentuojančio klaidinančios reklamos naudojimą, įsigaliojimo (2001-01-01)
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -39,9 +39,15 @@ Skirsnio naikinimas:
 
 Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
 
-II SKIRSNIS
+2 skirsnis. Neteko galios nuo 2000-01-01
 
-KONKURENCIJĄ RIBOJANČIOS VEIKOS
+Skirsnio naikinimas:
+
+Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
+
+III SKIRSNIS
+
+NESĄŽININGA KONKURENCIJA
 
 1 straipsnis. Įstatymo paskirtis
 
