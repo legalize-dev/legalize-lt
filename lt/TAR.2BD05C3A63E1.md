@@ -4,7 +4,7 @@ identifier: "TAR.2BD05C3A63E1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-14"
-last_updated: "1995-07-19"
+last_updated: "1995-12-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2BD05C3A63E1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo  2 straipsnis  įsigalioja per 10 d
 ---
 # Laikinosios atsiskaitymų tvarkos ir sąlygų įstatymas
 
-Suvestinė redakcija nuo 1995-07-19 iki 1995-12-21
+Suvestinė redakcija nuo 1995-12-22 iki 1996-06-21
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 31-711, i. k. 0931010ISTA000I-218
 
@@ -97,11 +97,15 @@ Papildyta straipsniu:
 
 Nr. I-630, 1994-11-08, Žin., 1994, Nr. 89-1708 (1994-11-18), i. k. 0941010ISTA000I-630
 
-8 straipsnis. Šis įstatymas galioja iki 1995 m. gruodžio 31 dienos.
+8 straipsnis. Šis įstatymas galioja iki 1997 m. gruodžio 31 dienos.
 
 Papildyta straipsniu:
 
 Nr. I-979, 1995-06-29, Žin., 1995, Nr. 59-1463 (1995-07-19), i. k. 0951010ISTA000I-979
+
+Straipsnio pakeitimai:
+
+Nr. I-1125, 1995-12-12, Žin., 1995, Nr. 104-2324 (1995-12-22), i. k. 0951010ISTA00I-1125
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -132,4 +136,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-979, 1995-06-29, Žin., 1995, Nr. 59-1463 (1995-07-19), i. k. 0951010ISTA000I-979
 
 Dėl Lietuvos Respublikos įstatymo "Dėl laikinosios atsiskaitymų tvarkos ir sąlygų" pakeitimo ir papildymo
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1125, 1995-12-12, Žin., 1995, Nr. 104-2324 (1995-12-22), i. k. 0951010ISTA00I-1125
+
+Dėl Lietuvos Respublikos įstatymo "Dėl laikinosios atsiskaitymų tvarkos ir sąlygų" pakeitimo
 
