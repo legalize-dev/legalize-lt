@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2002-04-09"
+last_updated: "2002-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -122,9 +122,7 @@ valstybės pareigūnams, kuriems netaikomas Lietuvos Respublikos valstybės
 
 tarnybos įstatymas (toliau – valstybės pareigūnai):
 
-1) prokuratūros
-
-pareigūnams;
+1) prokuratūros pareigūnams;
 
 2) Valstybės
 
@@ -134,25 +132,25 @@ saugumo departamento generaliniam direktoriui ir jo pavaduotojams;
 
 tyrimų tarnybos direktoriui ir jo pavaduotojams;
 
-5) valstybės
+4) valstybės
 
 kontrolieriui ir jo pavaduotojams;
 
-6) Seimo
+5) Seimo
 
 kontrolieriams;
+
+6) Nacionalinės teismų administracijos
+
+direktoriui;
 
 7) moterų ir
 
 vyrų lygių galimybių kontrolieriui;
 
-8) vaiko teisių
+8) vaiko teisių apsaugos kontrolieriui;
 
-apsaugos kontrolieriui;
-
-9) žurnalistų
-
-etikos inspektoriui;
+9) žurnalistų etikos inspektoriui;
 
 10) Seimo, Seimo
 
@@ -187,6 +185,10 @@ Nr. IX-349, 2001 05 24, Žin., 2001, Nr.
 Nr. IX-841,
 
 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
+
+Nr. IX-1012,
+
+2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 
 3 straipsnis. Valstybės politikų,
 
@@ -228,19 +230,19 @@ Nr. IX-811,
 
 teisėjų ir valstybės pareigūnų pareiginės algos
 
-1. Valstybės politikų,
+1. Valstybės
 
-teisėjų ir valstybės pareigūnų pareiginės algos skaičiuojamos taikant
+politikų, teisėjų ir valstybės pareigūnų pareiginės algos skaičiuojamos
 
-Vyriausybės patvirtintos minimalios mėnesinės algos (toliau – MMA) dydžio
+taikant Vyriausybės patvirtintos minimalios mėnesinės algos (toliau – MMA)
 
-koeficientus.
+dydžio koeficientus.
 
 2. Pareiginė
 
-alga apskaičiuojama atitinkamą pareiginės algos koeficientą, nustatytą šio įstatymo
+alga apskaičiuojama atitinkamą pareiginės algos koeficientą, nustatytą šio
 
-priedėlyje, padauginus iš Vyriausybės patvirtintos MMA. Pareiginė alga
+įstatymo priedėlyje, padauginus iš Vyriausybės patvirtintos MMA. Pareiginė alga
 
 apvalinama vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad
 
@@ -288,9 +290,7 @@ valstybės pareigūno pareiginės algos už kiekvienus trejus metus, tačiau
 
 priedo dydis neturi viršyti 30 procentų pareiginės algos.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. VIII-2057,
 
@@ -306,25 +306,25 @@ valstybės pareigūnams metų pabaigoje už viršvalandinį darbą, darbą poils
 
 švenčių dienomis išmokama ne didesnė kaip pareiginės algos dydžio vienkartinė
 
-priemoka. Ji mokama neviršijant teisėjų ar valstybės pareigūnų darbo
+priemoka. Ji mokama neviršijant teisėjų ar valstybės pareigūnų darbo užmokesčiui
 
-užmokesčiui teisės aktų nustatyta tvarka skirtų lėšų. Jeigu šių lėšų nepakanka,
+teisės aktų nustatyta tvarka skirtų lėšų. Jeigu šių lėšų nepakanka, taip pat
 
-taip pat jei teisėjas ar valstybės pareigūnas institucijoje nėra išdirbęs visų
+jei teisėjas ar valstybės pareigūnas institucijoje nėra išdirbęs visų metų,
 
-metų, priemokos dydis perskaičiuojamas proporcingai esamoms darbo užmokesčio
+priemokos dydis perskaičiuojamas proporcingai esamoms darbo užmokesčio lėšoms
 
-lėšoms arba dirbtam laikui tais metais.
+arba dirbtam laikui tais metais.
 
 2. Institucijų
 
 teisės aktuose (statutuose, nuostatuose), reglamentuojančiuose teisėjų ir
 
-valstybės pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas konkretizuojamos
+valstybės pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas
 
-šio straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir išmokėjimo
+konkretizuojamos šio straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir
 
-sąlygos bei tvarka.
+išmokėjimo sąlygos bei tvarka.
 
 7 straipsnis.
 
@@ -336,13 +336,13 @@ nustatytas Respublikos Prezidento darbo užmokesčio dydis ir apmokėjimo sąlyg
 
 pradedamos taikyti naujai išrinktam ar perrinktam Respublikos Prezidentui.
 
-2. Seimo
+2. Seimo Pirmininko,
 
-Pirmininko, Seimo pareigūnų ir Seimo narių darbo užmokesčio dydis ir apmokėjimo
+Seimo pareigūnų ir Seimo narių darbo užmokesčio dydis ir apmokėjimo sąlygos
 
-sąlygos pradedamos taikyti nuo kito naujai išrinkto Seimo pirmojo posėdžio
+pradedamos taikyti nuo kito naujai išrinkto Seimo pirmojo posėdžio dienos, o
 
-dienos, o savivaldybių merams ir merų pavaduotojams – nuo 2002 m. sausio 1 d.
+savivaldybių merams ir merų pavaduotojams – nuo 2002 m. sausio 1 d.
 
 3. Valstybės
 
@@ -522,7 +522,17 @@ straipsnio 5 dalies 1 punkte nustatytas pareiginės algos koeficiento bazės
 
 dydis.
 
-*Pastaba. 1. Pripažinti,
+7. Prokuratūros
+
+pareigūnams, kurių darbo užmokestis remiantis šio straipsnio 3 dalies
+
+1 punkto nuostatomis buvo mažinamas, nuo 2002 m. liepos 1 d. šis punktas
+
+netaikomas ir darbo užmokesčio mažinimas nutraukiamas.
+
+*Pastaba.
+
+1. Pripažinti,
 
 kad Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų
 
@@ -530,37 +540,39 @@ darbo apmokėjimo įstatymo 7 straipsnio 3 dalies 1 punktas (2000 m.
 
 rugpjūčio 29 d., 2000 m. spalio 17 d., 2001 m. kovo 27 d. redakcijos), 7
 
-straipsnio 5 dalis (2000 m. rugpjūčio 29 d. ir
+straipsnio 5 dalis (2000 m. rugpjūčio 29 d. ir 2001 m. kovo 27 d.
 
-2001 m. kovo 27 d. redakcijos), 7 straipsnio 6 dalies nuostata, įtvirtinanti
+redakcijos),
 
-pereinamąjį laikotarpį, ir šio įstatymo priedėlio II skirsnis “Teisėjų
+7 straipsnio 6 dalies nuostata, įtvirtinanti pereinamąjį laikotarpį, ir
 
-pareiginės algos” ta apimtimi, kuria juose nustatomas teisėjų, kurių darbo
+šio įstatymo priedėlio II skirsnis “Teisėjų pareiginės algos” ta apimtimi,
 
-užmokestis yra didesnis už šio įstatymo nustatytą darbo užmokestį, darbo
+kuria juose nustatomas teisėjų, kurių darbo užmokestis yra didesnis už šio
 
-užmokesčio mažinimas, prieštarauja Lietuvos Respublikos Konstitucijos 5
+įstatymo nustatytą darbo užmokestį, darbo užmokesčio mažinimas, prieštarauja
 
-straipsniui, 109 straipsniui, 114 straipsnio 1 daliai ir Lietuvos
+Lietuvos Respublikos Konstitucijos 5 straipsniui, 109 straipsniui, 114
 
-Respublikos Konstitucijoje įtvirtintam teisinės valstybės principui.
+straipsnio 1 daliai ir Lietuvos Respublikos Konstitucijoje įtvirtintam
 
-2. Pripažinti, kad Lietuvos Respublikos
+teisinės valstybės principui.
 
-valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7
+2.
 
-straipsnio 4 dalis ta apimtimi, kuria nustatyta, kad pereinamuoju
+Pripažinti, kad Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės
 
-laikotarpiu į teisėjo pareigas paskirtiems asmenims darbo užmokestis nustatomas
+pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 4 dalis ta apimtimi,
 
-ir apskaičiuojamas pagal tas šio įstatymo 7 straipsnio nuostatas ir formules,
+kuria nustatyta, kad pereinamuoju laikotarpiu į teisėjo pareigas paskirtiems
 
-kurios nustato teisėjų atlyginimų mažinimą, prieštarauja Lietuvos
+asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal tas šio įstatymo
 
-Respublikos Konstitucijos 5 straipsniui,
+7 straipsnio nuostatas ir formules, kurios nustato teisėjų atlyginimų mažinimą,
 
-109 straipsniui, 114 straipsnio 1 daliai ir Lietuvos Respublikos Konstitucijoje
+prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsniui, 109
+
+straipsniui, 114 straipsnio 1 daliai ir Lietuvos Respublikos Konstitucijoje
 
 įtvirtintam teisinės valstybės principui.
 
@@ -592,6 +604,10 @@ Nr. IX-841,
 
 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
 
+Nr. IX-1012,
+
+2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
+
 8 straipsnis. Neteko galios.
 
 Straipsnio
@@ -608,11 +624,11 @@ Pasiūlymai Vyriausybei
 
 Lietuvos
 
-Respublikos Vyriausybė per du mėnesius nuo šio įstatymo paskelbimo „Valstybės
+Respublikos Vyriausybė per du mėnesius nuo šio įstatymo paskelbimo „Valstybės žiniose“
 
-žiniose“ parengia ir pateikia Seimui įstatymų, susijusių su šiuo įstatymu,
+parengia ir pateikia Seimui įstatymų, susijusių su šiuo įstatymu, pakeitimų ir
 
-pakeitimų ir papildymų įstatymų projektus.
+papildymų įstatymų projektus.
 
 Skelbiu šį
 
@@ -622,7 +638,9 @@ RESPUBLIKOS PREZIDENTAS                             
 
 ADAMKUS
 
-Lietuvos Respublikos
+Lietuvos
+
+Respublikos
 
 2000
 
@@ -840,11 +858,13 @@ algos koeficientas
 
 Eil. Nr.
 
-Įstaigos pavadinimas
+Įstaigos
 
-pirmininko ar
+pavadinimas
 
-jį pavaduojan–čiojo (kai nėra etatinio pavaduotojo)
+Pirmininko ar
+
+jį pavaduojančiojo (kai nėra etatinio pavaduotojo)
 
 pirmininko
 
@@ -962,29 +982,31 @@ Kuriuose dirba 14 ir mažiau teisėjų
 
 8,5
 
-** Pastaba. Pripažinti, kad
+**
 
-Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo
+Pastaba. Pripažinti, kad Lietuvos Respublikos valstybės politikų,
 
-apmokėjimo įstatymo 7 straipsnio 3 dalies 1 punktas (2000 m. rugpjūčio 29 d.,
+teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 3 dalies
 
-2000 m. spalio 17 d., 2001 m. kovo 27 d. redakcijos), 7 straipsnio 5 dalis
+1 punktas (2000 m. rugpjūčio 29 d., 2000 m. spalio 17 d., 2001 m. kovo 27 d.
 
-(2000 m. rugpjūčio 29 d. ir
+redakcijos), 7 straipsnio 5 dalis (2000 m. rugpjūčio 29 d. ir 2001 m. kovo 27
 
-2001 m. kovo 27 d. redakcijos), 7 straipsnio 6 dalies nuostata, įtvirtinanti
+d. redakcijos),
 
-pereinamąjį laikotarpį, ir šio įstatymo priedėlio II skirsnis “Teisėjų
+7 straipsnio 6 dalies nuostata, įtvirtinanti pereinamąjį laikotarpį, ir šio įstatymo
 
-pareiginės algos” ta apimtimi, kuria juose nustatomas teisėjų, kurių darbo
+priedėlio II skirsnis “Teisėjų pareiginės algos” ta apimtimi, kuria juose
 
-užmokestis yra didesnis už šio įstatymo nustatytą darbo užmokestį, darbo
+nustatomas teisėjų, kurių darbo užmokestis yra didesnis už šio įstatymo
 
-užmokesčio mažinimas, prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsniui,
+nustatytą darbo užmokestį, darbo užmokesčio mažinimas, prieštarauja Lietuvos
 
-109 straipsniui, 114 straipsnio 1 daliai ir Lietuvos Respublikos Konstitucijoje
+Respublikos Konstitucijos 5 straipsniui, 109 straipsniui, 114 straipsnio 1
 
-įtvirtintam teisinės valstybės principui.
+daliai ir Lietuvos Respublikos Konstitucijoje įtvirtintam teisinės valstybės
+
+principui.
 
 Lietuvos
 
@@ -1320,13 +1342,13 @@ Valstybės saugumo departamentas:
 
 1.1.
 
-Generalinis direktorius
+generalinis direktorius
 
 14,5
 
 1.2.
 
-Generalinio direktoriaus pavaduotojai
+generalinio direktoriaus pavaduotojai
 
 12,9
 
@@ -1336,51 +1358,59 @@ Specialiųjų tyrimų tarnyba:
 
 2.1.
 
-Direktorius
+direktorius
 
 14,5
 
 2.2.
 
-Direktoriaus pavaduotojai
+direktoriaus pavaduotojai
+
+12,9
+
+3.
+
+Valstybės kontrolė:
+
+3.1.
+
+valstybės kontrolierius
+
+14,5
+
+3.2.
+
+valstybės kontrolieriaus pavaduotojai
 
 12,9
 
 4.
 
-Valstybės kontrolė:
+Seimo kontrolieriai:
 
 4.1.
 
-Valstybės kontrolierius
-
-14,5
-
-4.2.
-
-Valstybės kontrolieriaus pavaduotojai
-
-12,9
-
-5.
-
-Seimo kontrolieriai:
-
-5.1.
-
-Įstaigos vadovas
+įstaigos vadovas
 
 13
 
-5.2.
+4.2.
 
 Seimo kontrolieriai
 
 12
 
+5.
+
+Nacionalinės teismų administracijos
+
+direktorius
+
+12
+
 6.
 
-Moterų ir vyrų lygių galimybių
+moterų ir vyrų lygių galimybių
 
 kontrolierius
 
@@ -1388,13 +1418,13 @@ kontrolierius
 
 7.
 
-Vaiko teisių apsaugos kontrolierius
+vaiko teisių apsaugos kontrolierius
 
 12
 
 8.
 
-Žurnalistų etikos inspektorius
+žurnalistų etikos inspektorius
 
 12
 
@@ -1412,45 +1442,45 @@ rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 9.1.
 
-Pirmininkai
+pirmininkai
 
 12
 
 9.2.
 
-Pavaduotojai
+pavaduotojai
 
 11
 
 9.3.
 
-Nariai
+nariai
 
 9,5
 
 10.
 
-Seimo, Respublikos Prezidento, kitų
+Seimo,
 
-pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir
+Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
 
-tarybų:
+(nuolatinių) komisijų ir tarybų:
 
 10.1.
 
-Pirmininkai
+pirmininkai
 
 9
 
 10.2.
 
-Pavaduotojai
+pavaduotojai
 
 7,3
 
 10.3.
 
-Nariai
+nariai
 
 7
 
@@ -1462,21 +1492,21 @@ paskirti institucijų ir įstaigų:
 
 11.1.
 
-Vadovai
+vadovai
 
 8
 
 11.2.
 
-Pareigūnai
+pareigūnai
 
 7
 
-Pastaba. Komisijų ir
+Pastaba. Komisijų ir tarybų, kurių
 
-tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
+posėdžiai vyksta periodiškai, nariams pareiginės algos dydis apskaičiuojamas
 
-apskaičiuojamas proporcingai dirbtam laikui.
+proporcingai dirbtam laikui.
 
 Skirsnio
 
@@ -1497,6 +1527,10 @@ Nr. IX-349, 2001
 Nr. IX-841,
 
 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
+
+Nr. IX-1012,
+
+2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 
 __________________
 
@@ -1620,6 +1654,24 @@ POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7
 
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1012,
+
+2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
+
+VALSTYBĖS
+
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7
+
+STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 LIETUVOS
@@ -1628,9 +1680,9 @@ RESPUBLIKOS KONSTITUCINIO TEISMO NUTARIMAI:
 
 1.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Konstitucinis Teismas, Nutarimas
+Konstitucinis Teismas, Nutarimas
 
 2001-07-12, Žin.,
 
@@ -1652,17 +1704,17 @@ RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSIN
 
 RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9 STRAIPSNIO, LIETUVOS
 
-RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL VALSTYBINĖS
+RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL
 
-VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ PAREIGŪNŲ
+VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ
 
-LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS", LIETUVOS RESPUBLIKOS
+PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS", LIETUVOS
 
-VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL LIETUVOS
+RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL
 
-RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR LIETUVOS RESPUBLIKOS
+LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR LIETUVOS
 
-VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ DARBUOTOJŲ DARBO
+RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ DARBUOTOJŲ DARBO
 
 APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D.
 
@@ -1680,7 +1732,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-04-26)
+Aušrinė Trapinskienė (2002-07-17)
 
 autrap@lrs.lt
 
