@@ -4,7 +4,7 @@ identifier: "TAR.19039F7CAEEC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-23"
-last_updated: "2000-06-27"
+last_updated: "2000-08-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC"
 department: "Lietuvos Respublikos Seimas"
@@ -488,9 +488,11 @@ išlaidų dydžio.
 
 straipsnis. Nuomotojo pareiga remontuoti melioracijos įrenginius, kelius,
 
-tiltus
+tiltus ir kitus
 
-ir kitus inžinerinius įrenginius
+inžinerinius
+
+įrenginius
 
 1. Tais
 
@@ -518,9 +520,7 @@ išlaikyti
 
 melioracijos
 
-įrenginius, kelius, tiltus, kitus inžinerinius įrenginius
-
-bei
+įrenginius, kelius, tiltus, kitus inžinerinius įrenginius bei
 
 želdinius
 
@@ -556,9 +556,9 @@ nuomininkas privalo atlyginti nuomotojui atsiradusius nuostolius.
 
 straipsnis. Nuomininko teisė gauti kompensaciją už pastatytus pastatus,
 
-statinius
+statinius ir
 
-ir įrenginius
+įrenginius
 
 1. Pasibaigus
 
@@ -848,9 +848,7 @@ sutartį prieš terminą susiję su Žemės reformos ir Piliečių nuosavybės t
 
 išlikusį nekilnojamąjį turtą atkūrimo įstatymų nuostatomis. Šiuo atveju žemės
 
-ūkio paskirties žemės nuomos sutartis nutraukiama šio straipsnio 2 dalyje
-
-nustatyta tvarka.
+nuomos sutartis nutraukiama šio straipsnio 2 dalyje nustatyta tvarka.
 
 4. Jeigu žemės
 
@@ -866,11 +864,13 @@ Nr. VIII-1729, 00.06.13, Žin., 2000,
 
 Nr.50-1434 (00.06.21)
 
+Nr. VIII-1896, 00.08.22, Žin., 2000,
+
+Nr.75-2263 (00.09.07)
+
 21
 
-straipsnis. Žemės nuomos sutarties nutraukimas prieš terminą
-
-nuomininko
+straipsnis. Žemės nuomos sutarties nutraukimas prieš terminą nuomininko
 
 reikalavimu
 
@@ -890,9 +890,7 @@ nuomotojas nevykdo šio įstatymo 11 straipsnyje nurodytų pareigų.
 
 22
 
-straipsnis. Valstybinės žemės nuomininko pirmumo teisė pratęsti žemės
-
-nuomos
+straipsnis. Valstybinės žemės nuomininko pirmumo teisė pratęsti žemės nuomos
 
 sutartį
 
@@ -1210,9 +1208,19 @@ Nr.58-1707 (00.07.19)
 
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1896, 00.08.22, Žin., 2000,
+
+Nr.75-2263 (00.09.07)
+
+ŽEMĖS NUOMOS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.08.01)
+Redagavo: Aušrinė Trapinskienė (2000.09.11)
 
 25 straipsnis.
 
