@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "1999-09-30"
+last_updated: "1999-12-23"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -82,7 +82,9 @@ dirbtinę bižuteriją ir monetas;
 
 5) variklių benzinas, žibalas, kuras reaktyviniams
 
-varikliams, gazolis (dyzelinis kuras), skystasis krosnių kuras;
+varikliams, gazolis (dyzelinis kuras), skystasis krosnių kuras, mazutas,
+
+orimulsija;
 
 6) prabangūs lengvieji automobiliai;
 
@@ -118,9 +120,7 @@ Respublikos muitinės kodeksą (toliau - Muitinės kodeksas) atsiranda importo
 
 skola muitinei.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. VIII-901, 98.10.20, Žin., 1998,
 
@@ -129,6 +129,10 @@ Nr.96-2657 (98.11.04)
 Nr. VIII-982, 98.12.21, Žin., 1998,
 
 Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
+
+Nr. VIII-1494, 99.12.23, Žin., 1999,
+
+Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
 
 4 straipsnis. Apmokestinamoji vertė
 
@@ -230,33 +234,23 @@ litre gėrimo;
 
 vynui - 0,25 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
 
-7) alui - 0,40 lito už litrą;
+7)
 
-8) cigaretėms su filtru ir be filtro - 25 litai už
+alui - 0,40 lito už litrą;
 
-1000 cigarečių;
+8) cigaretėms su filtru ir be filtro - 30 litų už 1000
+
+cigarečių;
 
 9) fasuotam rūkomajam tabakui ir kitiems tabako
 
 gaminiams - 50 procentų apmokestinamosios vertės;
 
-10) variklių benzinui:
-
-a) nuo 1999 m. sausio 1 d. - 1210 litų už toną,
-
-b) nuo 2000 m. sausio 1 d. - 1370 litų už toną,
-
-c) nuo 2001 m. sausio 1 d. - 1150 litų už 1000 litrų;
+10) variklių benzinui - 1210 litų už toną;
 
 11) reaktyvinių variklių kurui, žibalui, gazoliui
 
-(dyzeliniams degalams), skystajam krosnių kurui:
-
-a) nuo 1999 m. sausio 1 d. - 560 litų už toną,
-
-b) nuo 2000 m. sausio 1 d. - 720 litų už toną,
-
-c) nuo 2001 m. sausio 1 d. - 740 litų už 1000 litrų;
+(dyzeliniams degalams), skystajam krosnių kurui - 560 litų už toną;
 
 12) visų rūšių tepalams - 240 litų už toną;
 
@@ -310,13 +304,11 @@ dėl nedidelės kainos gali būti vartojami kaip alkoholinių gėrimų pakaitala
 
 (pagal Vyriausybės sudarytą sąrašą ir jos nustatytą kainų ribą), - 10 litų už
 
-litrą preparato.
+litrą preparato;
 
-2. Šio straipsnio 1 dalies 10 ir 11 punktuose
+21) mazutui ir orimulsijai - 20 litų už toną.
 
-nustatyti naftos produktų akcizai litais už 1000 litrų skaičiuojami už 1000
-
-litrų naftos produktų, kurių temperatūra 15(o )C.
+2. (Neteko galios).
 
 3. Kai šio straipsnio 1 dalies 16 punkte nurodyto
 
@@ -346,9 +338,17 @@ Nr. VIII-982, 98.12.21, Žin., 1998,
 
 Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 
+Straipsnio
+
+pakeitimai:
+
 Nr. VIII-1342, 99.09.30, Žin., 1999,
 
 Nr.85-2514 (99.10.13)
+
+Nr. VIII-1494, 99.12.23, Žin., 1999,
+
+Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
 
 6 straipsnis. Akcizų netaikymo atvejai
 
@@ -368,11 +368,11 @@ veiklai, jeigu šių tarptautinių organizacijų sutartyse su Lietuvos Respublik
 
 numatyta neimti akcizų;
 
-4) į Lietuvos Respublikos muitų teritoriją atsiunčiamos
+4) į Lietuvos Respublikos muitų teritoriją
 
-pašto siuntos, kurių svoris ne didesnis kaip 31,5 kilogramo, o vertė ne didesnė
+atsiunčiamos pašto siuntos, kurių svoris ne didesnis kaip 31,5 kilogramo, o
 
-kaip 400 litų;
+vertė ne didesnė kaip 400 litų;
 
 5) importuojamos prekės, kurios pagal Muitinės kodeksą
 
@@ -406,13 +406,13 @@ maršrutais per paskutiniuosius 12 mėnesių sudaro ne mažiau kaip 75 procentus
 
 visų realizavimo pajamų;
 
-10) Lietuvos
+10) Lietuvos Respublikos
 
-Respublikos įmonių, gaminančių cigaretes, importuojamas tabakas (kodą pagal KPN
+įmonių, gaminančių cigaretes, importuojamas tabakas (kodą pagal KPN nustato
 
-nustato Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata,
+Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata, sąrašą
 
-sąrašą nustato Vyriausybė. Tuo atveju, kai nurodytas tabakas šiose įmonėse bus
+nustato Vyriausybė. Tuo atveju, kai nurodytas tabakas šiose įmonėse bus
 
 panaudotas ne cigaretėms gaminti, o kitiems tikslams, nurodytos įmonės turi
 
@@ -422,9 +422,9 @@ apskaičiuoti ir sumokėti už jį nustatyto dydžio akcizą.
 
 etilo alkoholio turinčios žaliavos parduodami:
 
-1) Lietuvos Respublikos įmonėms actui ir akcizu
+1) Lietuvos Respublikos įmonėms actui ir akcizu apmokestinamiems
 
-apmokestinamiems alkoholiniams gėrimams gaminti;
+alkoholiniams gėrimams gaminti;
 
 2) farmacijos įmonėms
 
@@ -434,27 +434,33 @@ veterinarinių vaistų gamybos įmonėms - veterinarinių vaistų gamybai ir
 
 veterinarijos tiekimo įmonėms - veterinarijos reikmėms.
 
-3. Kiekvienos Lietuvoje alų gaminančios įmonės 100
+3. Mažos alų gaminančios įmonės (toliau - mažosios
 
-tūkst. dekalitrų per metus pagaminto ir realizuoto alaus taikomas 50 procentų
+alaus daryklos) 100 tūkst. dekalitrų  per metus realizuoto alaus taikomas 50
 
-mažesnis negu šio įstatymo 5(1 )straipsnyje nustatytas akcizo alui
+procentų mažesnis negu šio įstatymo 5(1) straipsnyje nustatytas
 
-tarifas. Ši lengvata taikoma, iki Lietuva įstos į Pasaulinę prekybos
+akcizo alui tarifas. Šiame įstatyme mažąja alaus darykla, kuriai taikoma ši
 
-organizaciją, bet ne vėliau kaip iki 1999 m. gruodžio 31 d. Nuo šios datos
+lengvata, laikoma per kalendorinius metus ne daugiau kaip 800 tūkst. dekalitrų
 
-Lietuvoje alų gaminančios įmonės savo pagamintam ir realizuotam alui taikys šio
+alaus pagaminanti teisiškai ir ekonomiškai nuo jokios kitos alaus daryklos
 
-įstatymo 5(1 )straipsnyje nustatytą akcizo alui tarifą.
+nepriklausanti alaus darykla, kurios gamybinės patalpos yra fiziškai atskirtos
 
-4. Degtinei, kurios alkoholio koncentracija didesnė
+nuo bet kokios kitos alaus daryklos ir kuri nevykdo savo veiklos pagal kitos
 
-kaip 30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri
+įmonės suteiktą licenciją. Šios lengvatos taikymo tvarką nustato Lietuvos
 
-atitinka Vyriausybės nustatytus technologinius bei kokybės reikalavimus,
+Respublikos Vyriausybė ar jos įgaliota institucija.
 
-taikomas mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio
+4. Degtinei, kurios alkoholio koncentracija didesnė kaip
+
+30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri atitinka
+
+Vyriausybės nustatytus technologinius bei kokybės reikalavimus, taikomas
+
+mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio
 
 koncentracijos litre gėrimo. Ši lengvata pradedama taikyti Vyriausybei priėmus
 
@@ -475,6 +481,10 @@ Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 Nr. VIII-1321, 99.07.08, Žin., 1999,
 
 Nr.66-2132 (99.07.30)
+
+Nr. VIII-1494, 99.12.23, Žin., 1999,
+
+Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
 
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
 
@@ -618,9 +628,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-982, 98.12.21, Žin., 1998,
+Nr. VIII-982, 98.12.21, Žin., 1998, Nr.114-3194
 
-Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
+(98.12.30), įsigalioja nuo 1999.01.01
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
@@ -823,6 +833,26 @@ Nr.85-2514 (99.10.13)
 AKCIZŲ ĮSTATYMO 5(1)
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+14.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1494, 99.12.23, Žin., 1999,
+
+Nr.113-3289 (99.12.30)
+
+AKCIZŲ ĮSTATYMO 3, 5(1),
+
+6 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2000
+
+m. sausio 1 d., o 2 straipsnio 1 dalyje išdėstytas 5(1) straipsnio 1
+
+dalies 8 punktas - nuo 2000 m. kovo 1 d.
 
 *** Pabaiga ***
 
