@@ -4,7 +4,7 @@ identifier: "TAR.2551496FA7C1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-20"
-last_updated: "1995-01-31"
+last_updated: "1996-04-02"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2551496FA7C1"
 department: "Lietuvos Respublikos Seimas"
@@ -16,11 +16,11 @@ document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos apskrities valdymo įstatymo įgyvendinimo
 
-Redaguota: 1995
+Redaguota: 1996 04 12
 
-Redaguota:
+Redaguota: 1996
 
-1995..02.20.
+04 12
 
 Pakeitimai:
 
@@ -30,15 +30,51 @@ Pakeitimai:
 
 Nr.1-781,
 
-priimtas 1995.01.31.; Žin., 1995, Nr.15-346
+priimtas 1995.01.31.;
+
+Žin., 1995,
+
+Nr.15-346
 
 DĖL LIETUVOS
 
-RESPUBLIKOS ĮSTATYMO " DĖL LIETUVOS RESPUBLIKOS
+RESPUBLIKOS ĮSTATYMO " DĖL
 
-APSKRITIES
+LIETUVOS
 
-VALDYMO ĮSTATYMO ĮGYVENDINIMO" PAPILDYMO
+RESPUBLIKOS APSKRITIES VALDYMO
+
+ĮSTATYMO
+
+ĮGYVENDINIMO" PAPILDYMO
+
+2. Lietuvos
+
+Respublikos 1996 04 02
+
+Įstatymas
+
+Nr.I-1275
+
+Žin., 1996,
+
+Nr.33-812
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO "DĖL
+
+LIETUVOS
+
+RESPUBLIKOS  APSKRITIES VALDYMO
+
+ĮSTATYMO
+
+ĮGYVENDINIMO" 5 STRAIPSNIO
+
+PAKEITIMO
+
+ĮSTATYMAS
 
 LIETUVOS RESPUBLIKOS
 
@@ -146,9 +182,13 @@ teikimu.
 
 Pakeitimai:
 
-Nr.1-781;
+1.Nr.1-781;
 
-1995.01.31.; Žin., 1995, Nr.15-346
+1995.01.31.;
+
+Žin.,
+
+1995, Nr.15-346
 
 4 straipsnis.
 
@@ -168,9 +208,9 @@ administracijos,
 
 užtikrina  patalpų suteikimą  pagal  Vyriausybės
 
-nustatytus    normatyvus
+nustatytus
 
-apskričių    valdytojams    ir    jų
+normatyvus     apskričių    valdytojams    ir    jų
 
 administracijoms
 
@@ -193,6 +233,50 @@ administracijoms
 ar   kitoms  Lietuvos  Respublikos  Vyriausybės
 
 institucijoms.
+
+5
+
+straipsnis.   Lietuvos  Respublikos  apskrities
+
+valdymo įstatymo įgyvendinimo tvarka
+
+Lietuvos
+
+Respublikos  ministerijos  ir  kitos  Vyriausybės
+
+institucijos iki
+
+1996 m.  rugsėjo 1  d. turi  perduoti apskričių
+
+valdytojams
+
+funkcijas,  numatytas Lietuvos Respublikos apskrities
+
+valdymo įstatyme,
+
+kartu su  joms skirtu  darbo apmokėjimo fondu,
+
+kitais
+
+materialiniais   ir  finansiniais   ištekliais,  turimais
+
+einamųjų metų sausio
+
+1 dieną.
+
+Pakeitimai:
+
+1. Lietuvos
+
+Respublikos 1996 04 02
+
+Įstatymas
+
+Nr.I-1275
+
+Žin., 1996,
+
+Nr.33-812
 
 5 straipsnis.
 
