@@ -4,7 +4,7 @@ identifier: "TAR.2A629A227788"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-18"
-last_updated: "2001-01-01"
+last_updated: "2004-07-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2A629A227788"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatymas
+
+Suvestinė redakcija nuo 2004-07-27 iki 2005-12-31
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 36-987, i. k. 1001010ISTAIII-1641
 
 LIETUVOS RESPUBLIKOS CHEMINIŲ MEDŽIAGŲ IR PREPARATŲ Į S T A T Y M A S
 
@@ -91,11 +95,17 @@ BENDROSIOS NUOSTATOS
 
 21. Leidimas – valstybės institucijos patvirtintas raštiškas sutikimas, suteikiantis teisę atlikti tam tikrus darbus.
 
-22. Licencija – valstybės institucijos išduotas oficialus dokumentas, suteikiantis teisę verstis tam tikra veikla cheminių medžiagų tvarkymo srityje, laikantis nustatytų sąlygų bei reikalavimų.
+22. Pranešimas apie naujas chemines medžiagas – dokumentų su būtina informacija, nustatyta pagal šio įstatymo 7 straipsnio 2 dalį, pateikimas ne maisto produktų saugos kontrolės institucijai.
 
-23. Pranešimas apie naujas chemines medžiagas – dokumentų su būtina informacija, nustatyta pagal šio įstatymo 7 straipsnio 2 dalį, pateikimas ne maisto produktų saugos kontrolės institucijai.
+Straipsnio dalies numeracijos pakeitimas:
 
-24. Pavojingos cheminės medžiagos ir preparatai – tokios cheminės medžiagos ir preparatai, kurių bent viena savybė gali būti priskiriama vienai iš šių kategorijų:
+Nr. IX-2381, 2004-07-15, Žin., 2004, Nr. 116-4329 (2004-07-27), i. k. 1041010ISTA0IX-2381
+
+23. Pavojingos cheminės medžiagos ir preparatai – tokios cheminės medžiagos ir preparatai, kurių bent viena savybė gali būti priskiriama vienai iš šių kategorijų:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-2381, 2004-07-15, Žin., 2004, Nr. 116-4329 (2004-07-27), i. k. 1041010ISTA0IX-2381
 
 1) sprogstamosios medžiagos ir preparatai – tai kietos, skystos, pastos ar drebučių pavidalo medžiagos ir preparatai, galintys ir be atmosferos deguonies egzotermiškai reaguoti, greitai išskirdami dujas, ir nustatytomis bandymo sąlygomis detonuoti, greitai užsiliepsnoti ar iš dalies ribotoje erdvėje pakaitinti sprogti;
 
@@ -335,11 +345,11 @@ CHEMINIŲ MEDŽIAGŲ IR PREPARATŲ IMPORTAS IR EKSPORTAS
 
 CHEMINIŲ MEDŽIAGŲ IR PREPARATŲ TIEKIMO Į RINKĄ BEI NAUDOJIMO APRIBOJIMAI
 
-23 straipsnis. Ūkinės-komercinės veiklos licencijavimas
+23 straipsnis. Neteko galios nuo 2004-07-27
 
-Be Vyriausybės nustatyta tvarka išduotos licencijos draudžiama užsiimti Vyriausybės ar jos įgaliotos institucijos patvirtintame sąraše nurodytų pavojingų cheminių medžiagų ir preparatų gamyba, didmenine prekyba ir sandėliavimu
+Straipsnio naikinimas:
 
-.
+Nr. IX-2381, 2004-07-15, Žin. 2004, Nr. 116-4329 (2004-07-27), i. k. 1041010ISTA0IX-2381
 
 24 straipsnis. Cheminių medžiagų ir preparatų tvarkymo draudimas ir apribojimai
 
@@ -379,7 +389,11 @@ Lietuvos Respublikoje cheminių medžiagų ir preparatų tvarkymo valstybinę ko
 
 5) Administracinių teisės pažeidimų kodekso nustatyta tvarka skirti administracines nuobaudas;
 
-6) surašyti privalomus nurodymus dėl veiklos sustabdymo, kai ji susijusi su pavojingų cheminių medžiagų ir preparatų naudojimu ar kitokiu jų tvarkymu, jei nustatomas galiojančių reikalavimų pažeidimas ir pavojus žmogaus sveikatai ar gyvybei arba avarijos galimybės, pateikti licenciją išdavusiai institucijai teikimą dėl licencijos galiojimo sustabdymo ar licencijos galiojimo panaikinimo;
+6) surašyti privalomus nurodymus dėl veiklos sustabdymo, kai ji susijusi su pavojingų cheminių medžiagų ir preparatų naudojimu ar kitokiu jų tvarkymu, jei nustatomas galiojančių reikalavimų pažeidimas ir pavojus žmogaus sveikatai ar gyvybei arba avarijos galimybės;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2381, 2004-07-15, Žin., 2004, Nr. 116-4329 (2004-07-27), i. k. 1041010ISTA0IX-2381
 
 7) muitinės pareigūnai turi teisę nustatyta tvarka kontroliuoti, ar pavojingų cheminių medžiagų ir preparatų importuotojai ir eksportuotojai laikosi šių medžiagų ir preparatų ženklinimo, pakavimo ir kitų importo bei eksporto reikalavimų.
 
