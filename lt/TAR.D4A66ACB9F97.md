@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "1998-02-25"
+last_updated: "1998-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1998.03.02)
+Ramunė Lūžaitė (1998.05.06)
 
 Įstatymas
 
@@ -79,6 +79,22 @@ LIETUVOS
 RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO IR
 
 PAPILDYMO ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-714,
+
+98.04.23, Žin., 1998, Nr.41-1096 (98.05.01)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 6, 10, 11 STRAIPSNIŲ
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -162,11 +178,11 @@ išskyrus užsienio valstybių diplomatus, diplomatinių atstovybių ir konsulin
 
 įstaigų darbuotojus - užsienio valstybių piliečius, deklaruoja turtą ir
 
-pajamas, pateikdami pagal gyvenamąją vietą valstybinei mokesčių inspekcijai Vyriausybės
+pajamas, pateikdami pagal gyvenamąją vietą valstybinei mokesčių inspekcijai
 
-nustatytos formos turto ir pajamų deklaracijas. Nepilnamečių asmenų turtą ir
+Vyriausybės nustatytos formos turto ir pajamų deklaracijas. Nepilnamečių asmenų
 
-pajamas deklaruoja vienas iš tėvų, įtėvių, globėjų ar rūpintojų.
+turtą ir pajamas deklaruoja vienas iš tėvų, įtėvių, globėjų ar rūpintojų.
 
 2. Deklaracija pateikiama kasmet iki gegužės 1 dienos už praėjusius
 
@@ -266,6 +282,16 @@ ir jų gyvenamosios vietos valstybinei mokesčių inspekcijai šio straipsnio 1
 
 punkte nurodytą pažymą.
 
+2. Lietuvos Respublikos operatyvinės veiklos
+
+subjektų teises turinčių valstybės institucijų valdininkams ir pareigūnams,
+
+kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimų nariams
+
+pažymų pateikimo terminus ir tvarką nustato Vyriausybė arba jos įgaliota
+
+institucija.
+
 Straipsnio
 
 pakeitimai:
@@ -273,6 +299,10 @@ pakeitimai:
 Nr.
 
 VIII-623, 98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
+
+Nr. VIII-714,
+
+98.04.23, Žin., 1998, Nr.41-1096 (98.05.01)
 
 7
 
@@ -282,13 +312,13 @@ straipsnis. Duomenų kaupimas ir kontrolė
 
 Valstybinė mokesčių inspekcija tikrina turto ir pajamų deklaracijose nurodytų
 
-duomenų teisingumą, kaupia ir saugo šio įstatymo 3 straipsnyje nurodytų Lietuvos
+duomenų teisingumą, kaupia ir saugo šio įstatymo 3 straipsnyje nurodytų
 
-Respublikos gyventojų pateiktas turto ir pajamų deklaracijas bei iš kitų
+Lietuvos Respublikos gyventojų pateiktas turto ir pajamų deklaracijas bei iš
 
-šaltinių gautą informaciją apie šių Lietuvos Respublikos gyventojų pajamas ir
+kitų šaltinių gautą informaciją apie šių Lietuvos Respublikos gyventojų pajamas
 
-turtą, patvirtina, siunčia “Valstybės žinių” redakcijai ir išduoda
+ir turtą, patvirtina, siunčia “Valstybės žinių” redakcijai ir išduoda
 
 deklaravusiajam turtą ir pajamas Lietuvos Respublikos gyventojų turto ir pajamų
 
@@ -316,11 +346,11 @@ straipsnis. Atsakomybė už įstatymo pažeidimą
 
 Privalantis
 
-deklaruoti turtą ir pajamas asmuo, vengiantis pateikti turto ir pajamų deklaraciją,
+deklaruoti turtą ir pajamas asmuo, vengiantis pateikti turto ir pajamų
 
-taip pat laiku arba iš viso jos nepateikęs, neteisingai nurodęs duomenis,
+deklaraciją, taip pat laiku arba iš viso jos nepateikęs, neteisingai nurodęs
 
-traukiamas administracinėn ar baudžiamojon atsakomybėn.
+duomenis, traukiamas administracinėn ar baudžiamojon atsakomybėn.
 
 9
 
@@ -362,19 +392,23 @@ būti skelbiama esant deklaruojančiojo rašytiniam sutikimui, išskyrus šio
 
 narių deklaracijų informaciją.
 
-2.
+2. Šio įstatymo 1 priedėlyje išvardyti Lietuvos Respublikos gyventojai -
 
-Šio įstatymo 1 priedėlyje išvardinti Lietuvos Respublikos gyventojai -
+politikai ir valstybės tarnautojai, išskyrus operatyvinės veiklos subjektų
 
-politikai ir valstybės tarnautojai skelbia “Valstybės žinių” specialiame priede
+teises turinčių valstybės institucijų valdininkus ir pareigūnus, kurių veiklą
 
-valstybės lėšomis savo bei savo šeimos narių turto ir pajamų deklaracijų
+reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimų narius, skelbia
 
-informaciją. Jų patvirtintų deklaracijų nuorašus “Valstybės žinių” redakcijai
+“Valstybės žinių” specialiame priede valstybės lėšomis savo bei savo šeimos
 
-kasmet iki liepos 1 dienos pateikia mokesčių inspekcijos. “Valstybės žinios”
+narių turto ir pajamų deklaracijų informaciją. Jų patvirtintų deklaracijų
 
-deklaracijų informaciją kasmet paskelbia iki rugsėjo 1 dienos.
+nuorašus “Valstybės žinių” redakcijai kasmet iki liepos 1 dienos pateikia
+
+mokesčių inspekcijos. “Valstybės žinios” deklaracijų informaciją kasmet paskelbia
+
+iki rugsėjo 1 dienos.
 
 3.
 
@@ -382,15 +416,15 @@ deklaracijų informaciją kasmet paskelbia iki rugsėjo 1 dienos.
 
 valstybės tarnautojai ir jų šeimos nariai gali skelbti “Valstybės žinių”
 
-specialiame priede valstybės lėšomis savo turto ir pajamų deklaracijų
+specialiame priede valstybės lėšomis savo turto ir pajamų deklaracijų informaciją.
 
-informaciją. Patvirtintą deklaracijos nuorašą ir raštišką sutikimą skelbti
+Patvirtintą deklaracijos nuorašą ir raštišką sutikimą skelbti deklaraciją
 
-deklaraciją “Valstybės žinių” redakcijai pateikia pats deklaruojantysis.
+“Valstybės žinių” redakcijai pateikia pats deklaruojantysis. Deklaracijų
 
-Deklaracijų nuorašų pristatymo ir skelbimo terminai yra tokie pat, kaip
+nuorašų pristatymo ir skelbimo terminai yra tokie pat, kaip nurodyta 10
 
-nurodyta 10 straipsnio 2 dalyje.
+straipsnio 2 dalyje.
 
 Straipsnio
 
@@ -404,6 +438,10 @@ Nr.
 
 VIII-623, 98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
 
+Nr. VIII-714,
+
+98.04.23, Žin., 1998, Nr.41-1096 (98.05.01)
+
 11
 
 straipsnis. Įstatymo taikymo tvarka
@@ -412,7 +450,7 @@ straipsnis. Įstatymo taikymo tvarka
 
 d. tokia tvarka:
 
-1) šio įstatymo 1 priedėlyje išvardinti
+1) šio įstatymo 1 priedėlyje išvardyti
 
 Lietuvos Respublikos politikai, valstybės tarnautojai ir jų šeimų nariai turtą
 
@@ -420,19 +458,29 @@ ir pajamas deklaruoja pagal šį įstatymą nuo 1996 metų;
 
 2) Valstybės saugumo departamento, vidaus
 
-reikalų sistemos valdininkai ir pareigūnai ir jų šeimų nariai, taip pat teismo
+reikalų sistemos valdininkai ir pareigūnai ir jų šeimų nariai, išskyrus šio
 
-antstoliai ir jų šeimų nariai, kurie turtą ir pajamas pradeda deklaruoti už
+straipsnio 4 punkte nurodytus asmenis, taip pat teismo antstoliai ir jų šeimų
 
-1997 metus;
+nariai, kurie turtą ir pajamas pradeda deklaruoti už 1997 metus;
 
-3) šio įstatymo 2 priedėlyje išvardinti
+3) šio įstatymo 2 priedėlyje išvardyti valstybės
 
-valstybės tarnautojai, ūkinių subjektų vadovai ir jų šeimų nariai turtą ir
+tarnautojai, ūkinių subjektų vadovai ir jų šeimų nariai turtą ir pajamas
 
-pajamas pradeda deklaruoti nuo 1996 metų;
+pradeda deklaruoti nuo 1996 metų;
 
-4) kiti Lietuvos Respublikos gyventojai turtą
+4) Lietuvos Respublikos operatyvinės veiklos
+
+subjektų teises turinčių valstybės institucijų valdininkai ir pareigūnai, kurių
+
+veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimų nariai turtą
+
+ir pajamas deklaruoja atskirais Vyriausybės arba jos įgaliotos institucijos
+
+nustatytais terminais ir tvarka;
+
+5) kiti Lietuvos Respublikos gyventojai turtą
 
 ir pajamas pradeda deklaruoti nuo 1998 metų.
 
@@ -443,6 +491,10 @@ pakeitimai:
 Nr.
 
 VIII-632, 98.02.17, Žin., 1998, Nr.20-504 (98.02.25)
+
+Nr. VIII-714,
+
+98.04.23, Žin., 1998, Nr.41-1096 (98.05.01)
 
 12
 
@@ -458,7 +510,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS                                                ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                                ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -526,9 +578,7 @@ ministerijos ir teritorinių muitinių pareigūnai
 
 Finansų ministerijos ir teritorinių mokesčių inspekcijų pareigūnai
 
-12. Vidaus reikalų sistemos valdininkai ir
-
-pareigūnai
+12. Vidaus reikalų sistemos valdininkai ir pareigūnai
 
 13. Savivaldybių tarybų nariai
 
@@ -606,9 +656,7 @@ vyriausiųjų buhalterių (finansininkų) pavaduotojai
 
 Ministerijų struktūrinių padalinių (departamentų, valdybų, kanceliarijų,
 
-skyrių, poskyrių, sektorių, biurų, grupių) vadovai ir padalinių vadovų
-
-pavaduotojai
+skyrių, poskyrių, sektorių, biurų, grupių) vadovai ir padalinių vadovų pavaduotojai
 
 7.
 
@@ -620,11 +668,11 @@ Diplomatinį rangą turintys asmenys
 
 9.
 
-Apskričių viršininkų administracijų struktūrinių padalinių (departamentų, valdybų,
+Apskričių viršininkų administracijų struktūrinių padalinių (departamentų,
 
-inspekcijų, skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir padalinių
+valdybų, inspekcijų, skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir
 
-vadovų pavaduotojai
+padalinių vadovų pavaduotojai
 
 10.
 
