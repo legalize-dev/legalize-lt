@@ -4,7 +4,7 @@ identifier: "TAR.F617B8D97E05"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-09"
-last_updated: "1995-05-24"
+last_updated: "1997-12-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1995-05-09"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konsulinis statutas
+
+Suvestinė redakcija nuo 1997-12-19 iki 2001-06-30
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
 
 LIETUVOS RESPUBLIKOS
 
@@ -213,7 +217,11 @@ Konsulinis pareigūnas praneša atvykusiems į jo konsulinę apygardą Lietuvos 
 
 27 straipsnis
 
-Konsulinis pareigūnas padeda Lietuvos Respublikos piliečiams ir juridiniams asmenims organizuoti konsulinės apygardos teritorijoje kultūros, švietimo ir sporto renginius, kad valstybės, kurioje yra Lietuvos Respublikos konsulinė įstaiga, visuomenė būtų supažindinta su Lietuvos Respublikos tradicijomis, papročiais, mokslo ir kultūros laimėjimais.
+Konsulinis pareigūnas padeda Lietuvos Respublikos piliečiams ir juridiniams asmenims organizuoti konsulinės apygardos teritorijoje kultūros, švietimo ir sporto renginius, kad valstybės, kurioje yra Lietuvos Respublikos konsulinė įstaiga, visuomenė būtų supažindinta su Lietuvos Respublikos tradicijomis, papročiais, mokslo ir kultūros laimėjimais, taip pat rūpinasi toje šalyje gyvenančių lietuvių ryšių su Lietuva palaikymu ir stiprinimu.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-554, 1997-12-09, Žin., 1997, Nr. 116-2955 (1997-12-19), i. k. 0971010ISTAVIII-554
 
 28 straipsnis
 
@@ -481,41 +489,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-251 straipsnis. Laikino kelionės dokumento išdavimas
+Pakeitimai:
 
-Konsulinis pareigūnas, Lietuvos Respublikos piliečiui praradus kelionės dokumentą, jam tapus netinkamu naudoti, pasibaigus jo galiojimo laikui ar Lietuvos Respublikos piliečiui, esančiam užsienio valstybėje, neturint kito galiojančio kelionės dokumento, pageidaujančiam tęsti kelionę, jo prašymu Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka išduoda laikiną kelionės dokumentą – laikiną pasą, kuris galioja ne ilgiau kaip vienus metus.
+1.
 
-Papildyta straipsniu:
+Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. X-619, 2006-05-25, Žin., 2006, Nr. 68-2492 (2006-06-17), i. k. 1061010ISTA000X-619
+Nr. VIII-554, 1997-12-09, Žin., 1997, Nr. 116-2955 (1997-12-19), i. k. 0971010ISTAVIII-554
 
-221 straipsnis. Konsulinės pagalbos išlaidų atlyginimas Europos Sąjungos valstybei
-
-Gavus Europos Sąjungos valstybės prašymą atlyginti Lietuvos Respublikos piliečiui, kaip neatstovaujamam Europos Sąjungos piliečiui, suteiktos konsulinės pagalbos išlaidas, kurias turėtų padengti tos Europos Sąjungos valstybės piliečiai esant toms pačioms sąlygoms, jos Europos Sąjungos valstybei Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka ne vėliau kaip per 12 mėnesių atlyginamos iš Lietuvos Respublikos užsienio reikalų ministerijai Lietuvos Respublikos valstybės biudžete numatytų asignavimų.
-
-Papildyta straipsniu:
-
-Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
-
-ANTRASIS SKIRSNIS
-
-KITOS KONSULINĖS FUNKCIJOS
-
-71 straipsnis. Konsulinės įstaigos bendradarbiavimas su išorės paslaugų teikėjais
-
-1. Konsulinė įstaiga, siekdama įgyvendinti jai pavestas užduotis ir atlikdama šio statuto III skyriaus antrajame skirsnyje nustatytas konsulines funkcijas, gali bendradarbiauti su išorės paslaugų teikėjais.
-
-2. Jeigu bendradarbiavimo su išorės paslaugų teikėju nereglamentuoja įstatymai ir Europos Sąjungos teisės aktai, su išorės paslaugų teikėju bendradarbiaujama Lietuvos Respublikos Vyriausybės nustatytais atvejais ir sąlygomis. Šiais atvejais išorės paslaugų teikėjas pasirenkamas Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka.
-
-Papildyta straipsniu:
-
-Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
-
-72 straipsnis. Išvažiuojamosios konsulinės misijos
-
-Lietuvos Respublikos užsienio reikalų ministerija organizuoja išvažiuojamąsias konsulines misijas į užsienio valstybes ar jų dalis, kuriose nėra Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos, išskyrus Lietuvos Respublikos konsulines įstaigas, kurioms vadovauja garbės konsulinis pareigūnas. Išvažiuojamosios konsulinės misijos rengiamos konsulinėms funkcijoms atlikti ne konsulinių įstaigų patalpose, kai yra didelis konsulinių paslaugų poreikis. Išvažiuojamųjų konsulinių misijų organizavimo ir vykdymo tvarką nustato Lietuvos Respublikos užsienio reikalų ministras.
-
-Papildyta straipsniu:
-
-Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
+Lietuvos Respublikos konsulinio statuto 27 straipsnio papildymo įstatymas
 
