@@ -4,7 +4,7 @@ identifier: "TAR.C0E550D6ADF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2001-08-02"
+last_updated: "2001-11-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 department: "Lietuvos Respublikos Seimas"
@@ -422,11 +422,9 @@ interesų deklaracijų suvestiniai duomenys kiekvienais metais ne vėliau kaip i
 
 liepos 15 d. valstybės lėšomis yra skelbiami Vyriausiosios tarnybinės etikos
 
-komisijos nustatyta tvarka. Vardinį šioje dalyje išvardytų pareigų sąrašą
+komisijos nustatyta tvarka. Vardinį šioje dalyje išvardytų pareigų sąrašą kiekvienais
 
-kiekvienais metais iki kovo 15 d. nustato Vyriausioji tarnybinės etikos
-
-komisija.
+metais iki kovo 15 d. nustato Vyriausioji tarnybinės etikos komisija.
 
 2. Vyriausiosios tarnybinės etikos
 
@@ -480,13 +478,13 @@ dirbantis valstybinėje tarnyboje, privalo informuoti savo tiesioginį vadovą a
 
 institucijos vadovo įgaliotą atstovą bei asmenis, kurie kartu dalyvauja
 
-sprendimo rengimo, svarstymo ar priėmimo procedūroje, apie esamą interesų
+sprendimo rengimo, svarstymo ar priėmimo procedūroje, apie esamą interesų konfliktą
 
-konfliktą ir nusišalinti nuo dalyvavimo tolesnėje procedūroje. Institucijos
+ir nusišalinti nuo dalyvavimo tolesnėje procedūroje. Institucijos vadovas ar jo
 
-vadovas ar jo įgaliotas atstovas gali nepriimti pareikšto nusišalinimo ir
+įgaliotas atstovas gali nepriimti pareikšto nusišalinimo ir įpareigoti asmenį
 
-įpareigoti asmenį dalyvauti tolesnėje procedūroje.
+dalyvauti tolesnėje procedūroje.
 
 3. Asmuo, dirbantis valstybinėje
 
@@ -564,11 +562,11 @@ ir svarstymas nelaikomas atstovavimu privačioms grupėms ar asmenims.
 
 3. Šio straipsnio 1 ir 2 dalyse
 
-išvardytų apribojimų išimtis konkrečiu atveju gali nustatyti atitinkamos
+išvardytų apribojimų išimtis konkrečiu atveju gali nustatyti atitinkamos institucijos
 
-institucijos vadovas ar jo įgaliotas atstovas. Sprendimas apie išimties taikymą
+vadovas ar jo įgaliotas atstovas. Sprendimas apie išimties taikymą turi būti
 
-turi būti viešai paskelbtas.
+viešai paskelbtas.
 
 13 straipsnis. Tarnybinių teisių
 
@@ -604,9 +602,9 @@ konfliktą.
 
 apribojimas netaikomas asmenims, gavusiems dovanų ar paslaugų pagal tarptautinį
 
-protokolą ar tradicijas, kurios įprastai yra susijusios su asmens, dirbančio
+protokolą ar tradicijas, kurios įprastai yra susijusios su asmens, dirbančio valstybinėje
 
-valstybinėje tarnyboje, pareigomis.
+tarnyboje, pareigomis.
 
 3. Jeigu šio straipsnio 2 dalyje
 
@@ -768,19 +766,23 @@ metus neviršija 10 000 Lt.
 
 20 straipsnis. Atstovavimo apribojimai
 
-1. Asmuo, nustojęs eiti pareigas
+1. Asmuo,
+
+nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus negali
+
+atstovauti fiziniams ar juridiniams asmenims toje institucijoje, kurioje jis
+
+paskutinius metus dirbo.
+
+2. Asmuo, nustojęs eiti pareigas
 
 valstybinėje tarnyboje, vienerius metus negali atstovauti fiziniams ar
 
-juridiniams asmenims toje institucijoje, kurioje jis paskutinius metus dirbo,
+juridiniams asmenims kitose valstybės ar savivaldybių institucijose tais
 
-taip pat negali atstovauti fiziniams ar juridiniams asmenims kitose valstybės
+klausimais, kurie buvo priskirti jo tarnybinėms funkcijoms.
 
-ar savivaldybių institucijose tais klausimais, kurie buvo priskirti jo
-
-tarnybinėms funkcijoms. Ši nuostata netaikoma advokatams.
-
-2. Asmeniui, dirbančiam valstybinėje
+3. Asmeniui, dirbančiam valstybinėje
 
 tarnyboje, neleidžiama turėti tarnybinių santykių su anksčiau valstybinėje
 
@@ -789,6 +791,12 @@ tarnyboje dirbusiu asmeniu, kuriam taikomi šio straipsnio 1 dalies apribojimai.
 Asmuo, dirbantis valstybinėje tarnyboje, apie tokius tarnybinius santykius
 
 privalo nedelsdamas informuoti savo institucijos vadovą ar jo įgaliotą atstovą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-597, 2001-11-13,
+
+Žin., 2001, Nr. 99-3529 (2001-11-28)
 
 21 straipsnis. Apribojimų netaikymas
 
@@ -838,33 +846,31 @@ valstybinėje tarnyboje, laiku ir tinkamai pateikia privačių interesų
 
 deklaracijas;
 
-2) remdamiesi metinėmis privačių
+2) remdamiesi metinėmis privačių interesų
 
-interesų deklaracijomis arba asmens, dirbančio valstybinėje tarnyboje, prašymu
+deklaracijomis arba asmens, dirbančio valstybinėje tarnyboje, prašymu parengia
 
-parengia asmeniui rašytines rekomendacijas, kokių priemonių asmuo turi imtis,
+asmeniui rašytines rekomendacijas, kokių priemonių asmuo turi imtis, kad savo
 
-kad savo tarnybinę veiklą suderintų su šio įstatymo reikalavimais;
+tarnybinę veiklą suderintų su šio įstatymo reikalavimais;
 
-3) savo iniciatyva, Vyriausiosios
+3) savo iniciatyva, Vyriausiosios tarnybinės
 
-tarnybinės etikos komisijos nurodymu arba gavę pareiškimą, kad kuris nors
+etikos komisijos nurodymu arba gavę pareiškimą, kad kuris nors asmuo, dirbantis
 
-asmuo, dirbantis jiems pavaldžioje valstybinėje tarnyboje, savo tarnybinėje
+jiems pavaldžioje valstybinėje tarnyboje, savo tarnybinėje veikloje nevykdo šio
 
-veikloje nevykdo šio įstatymo reikalavimų, gali atlikti šio asmens tarnybinės
+įstatymo reikalavimų, gali atlikti šio asmens tarnybinės veiklos patikrinimą.
 
-veiklos patikrinimą. Tokiam tikrinimui įstaigoje gali būti įsteigta Tarnybinės
+Tokiam tikrinimui įstaigoje gali būti įsteigta Tarnybinės etikos komisija. Apie
 
-etikos komisija. Apie tikrinimo rezultatus informuojamas pareiškimą pateikęs
+tikrinimo rezultatus informuojamas pareiškimą pateikęs asmuo, asmuo, kurio
 
-asmuo, asmuo, kurio veikla buvo tikrinta, taip pat Vyriausioji tarnybinės
+veikla buvo tikrinta, taip pat Vyriausioji tarnybinės etikos komisija.
 
-etikos komisija. Vyriausioji tarnybinės etikos komisija supažindinama ir su
+Vyriausioji tarnybinės etikos komisija supažindinama ir su visais gaunamais
 
-visais gaunamais pareiškimais, kuriuose pateikiama informacija apie šio
-
-įstatymo pažeidimus.
+pareiškimais, kuriuose pateikiama informacija apie šio įstatymo pažeidimus.
 
 23 straipsnis. Vyriausioji tarnybinės
 
@@ -1092,9 +1098,27 @@ IX-488,
 
 VIEŠŲJŲ
 
-IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 2 STRAIPSNIO
+IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO
 
-PAKEITIMO ĮSTATYMAS
+2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-597,
+
+2001-11-13, Žin., 2001, Nr. 99-3529 (2001-11-28)
+
+VIEŠŲJŲ
+
+IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO
+
+20 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -1102,7 +1126,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2001-08-16)
+Aušrinė Trapinskienė (2001-11-28)
 
 autrap@lrs.lt
 
