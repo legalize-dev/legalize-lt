@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2002-12-10"
+last_updated: "2003-01-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -48,35 +48,23 @@ pareigūnų, kuriems netaikomas Lietuvos Respublikos valstybės tarnybos
 
 Įstatymo taikymas
 
-1. Šio įstatymo
+1. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir
 
-nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taikomi valstybės
+apmokėjimo sąlygos taikomi valstybės politikams:
 
-politikams:
+1) Seimo Pirmininkui;
 
-1) Respublikos
+2) Seimo pareigūnams;
 
-Prezidentui;
+3) Seimo nariams;
 
-2) Seimo
+4) Ministrui Pirmininkui;
 
-Pirmininkui;
+5) ministrams;
 
-3) Seimo
+6) merams;
 
-pareigūnams;
-
-4) Seimo nariams;
-
-5) Ministrui
-
-Pirmininkui;
-
-6) ministrams;
-
-7) merams;
-
-8) savivaldybių
+7) savivaldybių
 
 tarybų pareigūnams.
 
@@ -158,11 +146,11 @@ Valstybės saugumo departamento generalinį direktorių ir jo pavaduotojus bei
 
 Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams;
 
-9) Seimo, Respublikos
+9) Seimo,
 
-Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių)
+Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
 
-komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
+(nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
 
 Straipsnio
 
@@ -191,6 +179,10 @@ Nr. IX-1012,
 Nr. IX-1045,
 
 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
+
+Nr. IX-1326,
+
+2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
 
 3 straipsnis. Valstybės politikų,
 
@@ -292,7 +284,9 @@ valstybės pareigūno pareiginės algos už kiekvienus trejus metus, tačiau
 
 priedo dydis neturi viršyti 30 procentų pareiginės algos.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-2057,
 
@@ -336,11 +330,9 @@ Nr. IX-1045,
 
 Įstatymo įgyvendinimo tvarka
 
-1. Šio įstatymo
+1. (Neteko
 
-nustatytas Respublikos Prezidento darbo užmokesčio dydis ir apmokėjimo sąlygos
-
-pradedamos taikyti naujai išrinktam ar perrinktam Respublikos Prezidentui.
+galios nuo 2003 m. vasario 19 d.)
 
 2. Seimo
 
@@ -368,11 +360,11 @@ užmokestis), yra didesnis už šio įstatymo nustatytą darbo užmokestį,
 
 metais nedidinamas. Nustatytu pereinamuoju laikotarpiu (2001 m. sausio 1 d. –
 
-2003 m. liepos 1 d.) iki 2001 m. sausio 1 d. buvęs darbo užmokestis
+2003 m. liepos 1 d.) iki 2001 m. sausio 1 d. buvęs darbo užmokestis mažinamas
 
-mažinamas kiekvieną mėnesį priklausantį darbo užmokestį apskaičiuojant (kol
+kiekvieną mėnesį priklausantį darbo užmokestį apskaičiuojant (kol susilygins su
 
-susilygins su šio įstatymo nustatytu darbo užmokesčiu) pagal formulę:
+šio įstatymo nustatytu darbo užmokesčiu) pagal formulę:
 
 A = C – [(C–B) x
 
@@ -388,15 +380,17 @@ C – buvęs darbo
 
 užmokestis;
 
-B – valstybės politiko, teisėjo ar valstybės pareigūno
+B
 
-darbo užmokestis, nustatytas šiuo įstatymu;
+– valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokestis,
 
-M – darbo užmokesčio
+nustatytas šiuo įstatymu;
 
-perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo užmokestį.
+M – darbo
 
-Nustatomi šie pereinamojo laikotarpio koeficientai:
+užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo
+
+užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
 
 Metai
 
@@ -490,17 +484,17 @@ D
 
 0,9
 
-4. Pereinamuoju
+*4.
 
-laikotarpiu į valstybės politiko, išskyrus mero ir mero pavaduotojo, teisėjo ir
+Pereinamuoju laikotarpiu į valstybės politiko, išskyrus mero ir mero
 
-valstybės pareigūno pareigas išrinktiems ar paskirtiems asmenims darbo
+pavaduotojo, teisėjo ir valstybės pareigūno pareigas išrinktiems ar paskirtiems
 
-užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio nuostatas ir
+asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio
 
-nurodytas formules, kuriose dydis C reiškia naujai išrinkto ar paskirto
+nuostatas ir nurodytas formules, kuriose dydis C reiškia naujai išrinkto ar
 
-valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokesčio,
+paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokesčio,
 
 apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo apmokėjimo
 
@@ -554,15 +548,13 @@ rugpjūčio 29 d., 2000 m. spalio 17 d., 2001 m. kovo 27 d. redakcijos), 7
 
 straipsnio 5 dalis (2000 m. rugpjūčio 29 d. ir 2001 m. kovo 27 d.
 
-redakcijos),
+redakcijos), 7 straipsnio 6 dalies nuostata, įtvirtinanti pereinamąjį
 
-7 straipsnio 6 dalies nuostata, įtvirtinanti pereinamąjį laikotarpį, ir
+laikotarpį, ir šio įstatymo priedėlio II skirsnis “Teisėjų pareiginės algos” ta
 
-šio įstatymo priedėlio II skirsnis “Teisėjų pareiginės algos” ta apimtimi,
+apimtimi, kuria juose nustatomas teisėjų, kurių darbo užmokestis yra didesnis
 
-kuria juose nustatomas teisėjų, kurių darbo užmokestis yra didesnis už šio
-
-įstatymo nustatytą darbo užmokestį, darbo užmokesčio mažinimas, prieštarauja
+už šio įstatymo nustatytą darbo užmokestį, darbo užmokesčio mažinimas, prieštarauja
 
 Lietuvos Respublikos Konstitucijos 5 straipsniui, 109 straipsniui, 114
 
@@ -620,9 +612,13 @@ Nr. IX-1012,
 
 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 
-Nr. IX-1240, 2002-12-10, Žin., 2002, Nr. 123-5532
+Nr. IX-1240,
 
-(2002-12-24)
+2002-12-10, Žin., 2002, Nr. 123-5532 (2002-12-24)
+
+Nr. IX-1326,
+
+2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
 
 8 straipsnis. Neteko galios.
 
@@ -668,7 +664,9 @@ Nr. VIII-1904
 
 priedėlis
 
-I. Valstybės politikų pareiginės algos
+I.
+
+VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
 
 (MMA dydžiais)
 
@@ -684,45 +682,39 @@ algos koeficientas
 
 1.
 
-Respublikos Prezidentas
-
-20
-
-2.
-
 Seimo Pirmininkas
 
 17
 
-3.
+2.
 
 Seimo pareigūnai:
 
-3.1.
+2.1.
 
 Pirmininko pirmasis pavaduotojas
 
 14
 
-3.2.
+2.2.
 
 Pirmininko pavaduotojai
 
 13
 
-3.3.
+2.3.
 
 Komitetų pirmininkai
 
 12,2
 
-3.4.
+2.4.
 
 Komitetų pirmininkų pavaduotojai
 
 10,8
 
-3.5.
+2.5.
 
 Pakomitečių pirmininkai, nuolatinių
 
@@ -730,7 +722,7 @@ komisijų pirmininkai
 
 10,5
 
-3.6.
+2.6.
 
 Nuolatinių komisijų pirmininkų
 
@@ -738,17 +730,17 @@ pavaduotojai
 
 9,8
 
-3.7.
+2.7.
 
 Frakcijų vadovai, kai frakcijos dydis
 
-seniūnai
+Seniūnai
 
 Seniūnų
 
 pavaduotojai
 
-3.7.1.
+2.7.1.
 
 Nuo 7 iki 10 narių
 
@@ -756,7 +748,7 @@ Nuo 7 iki 10 narių
 
 9,8
 
-3.7.2.
+2.7.2.
 
 Nuo 11 iki 20 narių
 
@@ -764,7 +756,7 @@ Nuo 11 iki 20 narių
 
 10,1
 
-3.7.3.
+2.7.3.
 
 Nuo 21 iki 30 narių
 
@@ -772,7 +764,7 @@ Nuo 21 iki 30 narių
 
 10,4
 
-3.7.4.
+2.7.4.
 
 Nuo 31 iki 40 narių
 
@@ -780,7 +772,7 @@ Nuo 31 iki 40 narių
 
 11
 
-3.7.5.
+2.7.5.
 
 Daugiau kaip 40 narių
 
@@ -788,35 +780,35 @@ Daugiau kaip 40 narių
 
 11,6
 
-4.
+3.
 
 Seimo nariai
 
 9,5
 
-5.
+4.
 
 Vyriausybė:
 
-5.1.
+4.1.
 
 Ministras Pirmininkas
 
 17
 
-5.2.
+4.2.
 
 Ministrai
 
 14
 
-6.
+5.
 
 Savivaldybių
 
 merai ir
 
-savivaldybės
+Savivaldybės
 
 teritorijoje gyvena
 
@@ -824,15 +816,23 @@ tarybos
 
 pareigūnai
 
-per 500 tūkst. gyventojų
+per 500 tūkst.
 
-per 100 tūkst. gyventojų
+gyventojų
 
-per 50 tūkst. gyventojų
+per 100 tūkst.
 
-50 tūkst. ir mažiau gyventojų
+gyventojų
 
-6.1.
+per 50 tūkst.
+
+gyventojų
+
+50 tūkst. ir
+
+mažiau gyventojų
+
+5.1.
 
 Merai
 
@@ -844,7 +844,7 @@ Merai
 
 8,5
 
-6.2.
+5.2.
 
 Merų pavaduotojai
 
@@ -863,6 +863,10 @@ pakeitimai:
 Nr. VIII-2057,
 
 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+
+Nr. IX-1326,
+
+2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
 
 **II. Teisėjų pareiginės algos
 
@@ -998,17 +1002,15 @@ Kuriuose dirba 14 ir mažiau teisėjų
 
 8,5
 
-**
+**Pastaba.
 
-Pastaba. Pripažinti, kad Lietuvos Respublikos valstybės politikų,
+Pripažinti, kad Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės
 
-teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 3 dalies
+pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 3 dalies 1 punktas (2000 m.
 
-1 punktas (2000 m. rugpjūčio 29 d., 2000 m. spalio 17 d., 2001 m. kovo 27 d.
+rugpjūčio 29 d., 2000 m. spalio 17 d., 2001 m. kovo 27 d. redakcijos), 7
 
-redakcijos), 7 straipsnio 5 dalis (2000 m. rugpjūčio 29 d. ir 2001 m. kovo 27
-
-d. redakcijos),
+straipsnio 5 dalis (2000 m. rugpjūčio 29 d. ir 2001 m. kovo 27 d. redakcijos),
 
 7 straipsnio 6 dalies nuostata, įtvirtinanti pereinamąjį laikotarpį, ir šio įstatymo
 
@@ -1400,7 +1402,7 @@ direktorius
 
 4.
 
-moterų ir vyrų lygių galimybių
+Moterų ir vyrų lygių galimybių
 
 kontrolierius
 
@@ -1408,13 +1410,13 @@ kontrolierius
 
 5.
 
-vaiko teisių apsaugos kontrolierius
+Vaiko teisių apsaugos kontrolierius
 
 12
 
 6.
 
-žurnalistų etikos inspektorius
+Žurnalistų etikos inspektorius
 
 12
 
@@ -1432,19 +1434,19 @@ rinkimų  komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 7.1.
 
-Pirmininkai
+pirmininkai
 
 12
 
 7.2.
 
-Pavaduotojai
+pavaduotojai
 
 11
 
 7.3.
 
-Nariai
+nariai
 
 9,5
 
@@ -1458,19 +1460,19 @@ tarybų:
 
 8.1.
 
-Pirmininkai
+pirmininkai
 
 9
 
 8.2.
 
-Pavaduotojai
+pavaduotojai
 
 7,3
 
 8.3.
 
-Nariai
+nariai
 
 7
 
@@ -1482,13 +1484,13 @@ paskirti institucijų ir įstaigų:
 
 9.1.
 
-Vadovai
+vadovai
 
 8
 
 9.2.
 
-Pareigūnai
+pareigūnai
 
 7
 
@@ -1500,21 +1502,21 @@ Lietuvos Respublikos Vyriausybės:
 
 10.1.
 
-Pirmininkas
+pirmininkas
 
 12
 
 10.2.
 
-Nariai
+nariai
 
 9,5
 
-Pastaba.
+Pastaba. Komisijų ir
 
-Komisijų ir tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės
+tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 
-algos dydis apskaičiuojamas proporcingai dirbtam laikui.
+apskaičiuojamas proporcingai dirbtam laikui.
 
 Skirsnio
 
@@ -1532,17 +1534,15 @@ Nr. IX-349, 2001
 
 2001, Nr. 49)
 
-Nr. IX-841,
-
-2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
+Nr. IX-841, 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
 
 Nr. IX-1012,
 
 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 
-Nr. IX-1045,
+Nr. IX-1045, 2002-07-05, Žin., 2002,
 
-2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
+Nr. 73-3104 (2002-07-19)
 
 __________________
 
@@ -1714,7 +1714,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1240, 2002-12-10, Žin., 2002, Nr. 123-5532 (2002-12-24)
+IX-1240,
+
+2002-12-10, Žin., 2002, Nr. 123-5532 (2002-12-24)
 
 VALSTYBĖS
 
@@ -1722,11 +1724,31 @@ POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 7 STR
 
 PAKEITIMO ĮSTATYMAS
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1326,
+
+2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
+
+VALSTYBĖS
+
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO
+
+PAKEITIMO, 7 STRAIPSNIO 1 DALIES PRIPAŽINIMO NETEKUSIA GALIOS IR ĮSTATYMO
+
+PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-LIETUVOS
+Konstitucinio Teismo
 
-RESPUBLIKOS KONSTITUCINIO TEISMO NUTARIMAI:
+nutarimai:
 
 1.
 
@@ -1782,7 +1804,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-12-24)
+Aušrinė Trapinskienė (2003-02-20)
 
 autrap@lrs.lt
 
