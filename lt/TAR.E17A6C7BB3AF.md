@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "1997-10-16"
+last_updated: "1997-10-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1997.10.29)
+Lūžaitė (1997.11.07)
 
 Įstatymas
 
@@ -119,6 +119,20 @@ LIETUVOS RESPUBLIKOS
 
 APSKRITIES VALDYMO ĮSTATYMO 9, 10 IR 12 STRAIPSNIŲ PAKEITIMO
 
+7.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-471,
+
+97.10.21, Žin., 1997, Nr.101-2549 (97.11.07)
+
+LIETUVOS RESPUBLIKOS
+
+APSKRITIES VALDYMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO
+
 ***
 
 Pabaiga ***
@@ -153,9 +167,9 @@ valdymo dalis.
 
 Apskrities
 
-ribas bei centrą nustato ir keičia, pavadinimą jam suteikia ir keičia Lietuvos
+ribas bei centrą nustato ir keičia, pavadinimą jam suteikia ir keičia Lietuvos Respublikos
 
-Respublikos Seimas Vyriausybės teikimu.
+Seimas Vyriausybės teikimu.
 
 2
 
@@ -473,11 +487,11 @@ Apskrities viršininkas:
 
 1) įstatymų nustatyta tvarka steigia, reorganizuoja ir likviduoja apskrities
 
-valstybines švietimo, kultūros, kūno kultūros ir sporto, socialinės paramos ir
+valstybines švietimo, išskyrus aukštąsias mokyklas, įstaigas,
 
-globos įstaigas bei tarnybas, taip pat specialiųjų socialinių paslaugų institucijas,
+kultūros, kūno kultūros ir sporto, socialinės paramos ir globos įstaigas bei
 
-išskyrus aukštesniąsias ir profesines mokyklas;
+tarnybas, taip pat specialiųjų socialinių paslaugų institucijas;
 
 2) atsako už šio straipsnio 1 punkte nurodytų valstybinių įstaigų funkcionavimą
 
@@ -514,6 +528,10 @@ VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 Nr. VIII-129,
 
 97.02.25, Žin., 1997, Nr.21-489 (97.03.12)
+
+Nr. VIII-471,
+
+97.10.21, Žin., 1997, Nr.101-2549 (97.11.07)
 
 8 straipsnis. Apskrities viršininko įgaliojimai sveikatos
 
@@ -781,9 +799,11 @@ reikalavimai;
 
 registruoja visuomeninių organizacijų, kurių veikla apima daugiau kaip vienos
 
-savivaldybės teritoriją ir kurių buveinės yra apskrities centre ar kitoje apskrities
+savivaldybės teritoriją ir kurių buveinės yra apskrities centre ar kitoje
 
-teritorijoje esančioje miesto ar kaimo gyvenamojoje vietovėje, įstatus;
+apskrities teritorijoje esančioje miesto ar kaimo gyvenamojoje vietovėje,
+
+įstatus;
 
 5)
 
@@ -853,11 +873,11 @@ apskrities raidos klausimais;
 
 3)
 
-dalyvauti Vyriausybės posėdžiuose svarstant su apskrities valdytojo
+dalyvauti Vyriausybės posėdžiuose svarstant su apskrities valdytojo kompetencija
 
-kompetencija susijusius klausimus, taip pat apskrityje esančių ministerijų ir
+susijusius klausimus, taip pat apskrityje esančių ministerijų ir kitų
 
-kitų Vyriausybės institucijų struktūrinių padalinių bei savivaldos institucijų
+Vyriausybės institucijų struktūrinių padalinių bei savivaldos institucijų
 
 posėdžiuose;
 
@@ -871,9 +891,9 @@ institucijų struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkaut
 
 sustabdyti ar panaikinti apskrityje esančių įmonių, įstaigų ir organizacijų
 
-priimtus teisės aktus, neatitinkančius Lietuvos Respublikos įstatymų ir Vyriausybės
+priimtus teisės aktus, neatitinkančius Lietuvos Respublikos įstatymų ir
 
-nutarimų;
+Vyriausybės nutarimų;
 
 6)
 
@@ -883,9 +903,9 @@ gauti iš kitų valstybės valdymo ir apskrities savivaldos institucijų, įmoni
 
 7)
 
-įstatymų nustatytais atvejais imtis papildomų priemonių gyventojų bei jų turto saugumui
+įstatymų nustatytais atvejais imtis papildomų priemonių gyventojų bei jų turto
 
-užtikrinti, tvarkai apskrityje palaikyti;
+saugumui užtikrinti, tvarkai apskrityje palaikyti;
 
 8)
 
@@ -951,9 +971,9 @@ teikimo svarstymo rezultatus savivaldos institucijos privalo pranešti
 
 apskrities viršininkui: dėl savivaldybės tarybos sprendimo - per savaitę po
 
-artimiausio tarybos posėdžio, dėl savivaldybės valdybos ir nekolegialiai priimtų
+artimiausio tarybos posėdžio, dėl savivaldybės valdybos ir nekolegialiai
 
-aktų - per 2 savaites po teikimo gavimo;
+priimtų aktų - per 2 savaites po teikimo gavimo;
 
 2)
 
@@ -1243,7 +1263,9 @@ jam suteiktus įgaliojimus.
 
 Kai
 
-apskrities viršininko nėra, jo pareigas eina apskrities viršininko pavaduotojas.
+apskrities viršininko nėra, jo pareigas eina apskrities viršininko
+
+pavaduotojas.
 
 Straipsnio
 
