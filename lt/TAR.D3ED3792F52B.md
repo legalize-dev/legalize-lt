@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2003-07-04"
+last_updated: "2003-10-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -181,11 +181,19 @@ ir t. t.), taip pat valstybės tarnautojo veiksmai, kuriais viršijami suteikti
 
 įgaliojimai ar savivaliaujama.
 
+14. Darbdavys
+
+– valstybės ar savivaldybės institucija ar įstaiga.
+
 Straipsnio pakeitimai:
 
 Nr. IX-1694,
 
 2003-07-04, Žin., 2003, Nr. 73-3358 (2003-07-23)
+
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
 
 3 straipsnis. Pagrindiniai valstybės tarnybos ir valstybės
 
@@ -285,9 +293,9 @@ statutinius valstybės tarnautojus.
 
 nuostatos taikomos tiek, kiek jų statuso nereglamentuoja statutai ar
 
-Diplomatinės tarnybos įstatymas, išskyrus šio Įstatymo nustatytą darbo apmokėjimo
+Diplomatinės tarnybos įstatymas, išskyrus šio Įstatymo nustatytą darbo
 
-tvarką.
+apmokėjimo tvarką.
 
 3. Seimo ar
 
@@ -333,7 +341,9 @@ pavaduotojams, valdybos nariams ir kitiems Lietuvos banko tarnautojams;
 
 4) profesinės karo tarnybos kariams;
 
-5) valstybės ir savivaldybių įmonių darbuotojams;
+5) valstybės ir savivaldybių įmonių
+
+darbuotojams;
 
 6) viešųjų įstaigų darbuotojams;
 
@@ -364,6 +374,68 @@ Darbo santykius ir socialines garantijas reglamentuojantys
 įstatymai bei kiti teisės aktai valstybės tarnautojams taikomi tiek, kiek jų
 
 statuso ir socialinių garantijų nereglamentuoja šis Įstatymas.
+
+5(1) straipsnis. Kolektyvinių
+
+sutarčių sudarymas valstybės tarnyboje
+
+1. Kolektyvinė sutartis yra darbdavio ir
+
+valstybės ar savivaldybės institucijos ar įstaigos valstybės tarnautojų
+
+rašytinis susitarimas dėl tarnybos (darbo) ir kitų socialinių bei ekonominių
+
+sąlygų.
+
+2. Sudarant šio straipsnio 1 dalyje
+
+nurodytą kolektyvinę sutartį, darbdaviui atstovauja valstybės ar savivaldybės
+
+institucijos ar įstaigos vadovas arba jo įgaliotas asmuo, o valstybės
+
+tarnautojams atstovauja valstybės ar savivaldybės institucijoje ar įstaigoje
+
+veikianti valstybės tarnautojų profesinė sąjunga.
+
+3. Į kolektyvinę sutartį gali būti
+
+įtraukiamos šios sąlygos:
+
+1) valstybės tarnautojų tarnybos (darbo)
+
+ir poilsio laiko;
+
+2) saugių ir sveikatai nekenksmingų
+
+tarnybos (darbo) sąlygų sudarymo;
+
+3) darbo užmokesčio mokėjimo;
+
+4) kolektyvinės sutarties vykdymo
+
+tvarkos;
+
+5) kvalifikacijos tobulinimo;
+
+6) šalių tarpusavio informavimo ir
+
+konsultavimo;
+
+7) kitos galiojantiems teisės aktams
+
+neprieštaraujančios ir valstybės tarnautojų padėties nebloginančios sąlygos.
+
+4. Kolektyvinėje sutartyje negali būti
+
+nustatyta papildomų sąlygų, susijusių su papildomomis valstybės ir savivaldybių
+
+biudžetų ir valstybės pinigų fondų lėšomis.
+
+Įstatymas papildytas straipsniu:
+
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
 
 II SKYRIUS
 
@@ -421,7 +493,9 @@ tarnautojų vertinimo komisijos narius vertina savivaldybės tarybos sudaryta
 
 vertinimo komisija.
 
-4. Vertinimo komisija sudaroma dvejiems metams. Vertinimo komisija
+4. Vertinimo komisija sudaroma
+
+dvejiems metams. Vertinimo komisija
 
 susideda iš 5 arba 7 valstybės tarnautojų. Jei valstybės ar
 
@@ -453,9 +527,9 @@ komisijos nario teisėmis.
 
 tarnautoją arba labai gerai, arba gerai, arba nepatenkinamai. Vertinimo
 
-komisija turi teisę pakviesti dalyvauti savo posėdyje vertinamo valstybės tarnautojo
+komisija turi teisę pakviesti dalyvauti savo posėdyje vertinamo valstybės
 
-tiesioginį vadovą.
+tarnautojo tiesioginį vadovą.
 
 7. Vertinimo komisija, įvertinusi valstybės tarnautoją
 
@@ -505,11 +579,11 @@ sprendimai valstybės tarnautoją į pareigas priėmusiam asmeniui yra privalomi
 
 tiesioginis jo vadovas įvertino gerai, paliekama ta pati kvalifikacinė klasė.
 
-Jeigu dvejus metus iš eilės tiesioginis valstybės tarnautojo vadovas valstybės tarnautojo
+Jeigu dvejus metus iš eilės tiesioginis valstybės tarnautojo vadovas valstybės
 
-tarnybinę veiklą įvertina gerai, valstybės tarnautojas vertinamas tik jo
+tarnautojo tarnybinę veiklą įvertina gerai, valstybės tarnautojas vertinamas
 
-prašymu.
+tik jo prašymu.
 
 11. Valstybės tarnautojui, kurio tarnybinę veiklą
 
@@ -1121,9 +1195,13 @@ koeficientai
 
 universitetinis arba jam prilygintas išsilavinimas;
 
-2) B lygio – pareigybės, kurioms būtinas ne žemesnis
+2) B lygio –
 
-kaip aukštasis neuniversitetinis arba jam prilygintas išsilavinimas;
+pareigybės, kurioms būtinas ne žemesnis kaip aukštasis neuniversitetinis
+
+išsilavinimas arba aukštesnysis išsilavinimas, arba iki 1995 metų įgytas
+
+specialusis vidurinis išsilavinimas;
 
 3) C lygio – pareigybės, kurioms būtinas ne žemesnis kaip vidurinis
 
@@ -1136,6 +1214,12 @@ Aukščiausia yra 20 kategorija, žemiausia – 1 kategorija.
 3. Valstybės tarnautojų pareiginių algų koeficientus priskiria valstybės
 
 tarnautojų pareigybių kategorijoms šis Įstatymas (priedėlis).
+
+Straispnio pakeitimai:
+
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
 
 8 straipsnis.
 
@@ -1381,11 +1465,11 @@ asmenys;
 
 įgaliotas asmuo;
 
-3) Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės
+3) Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus
 
-tarnautojus – Ministras Pirmininkas ar
+– Ministras Pirmininkas ar jo įgaliotas
 
-jo įgaliotas asmuo;
+asmuo;
 
 4) ministerijoje – ministras;
 
@@ -1469,11 +1553,11 @@ tarnautojų
 
 pareigas
 
-Į politinio (asmeninio) pasitikėjimo valstybės tarnautojų
+Į politinio (asmeninio) pasitikėjimo valstybės
 
-pareigas priimama be konkurso valstybės politiko ar kolegialios valstybės
+tarnautojų pareigas priimama be konkurso valstybės politiko ar kolegialios
 
-institucijos pasirinkimu. Į šias pareigas priimama
+valstybės institucijos pasirinkimu. Į šias pareigas priimama
 
 ne ilgesniam kaip asmenį į pareigas priėmusio valstybės politiko
 
@@ -1625,11 +1709,11 @@ nariais, taip pat politinių partijų ar organizacijų nariais, ne tarnybos
 
 (darbo) laiku dalyvauti politinėje veikloje.
 
-2. Kai
+2.
 
-pasibaigia asmens paskyrimo į valstybės politiko arba valstybės tarnautojo –
+Kai pasibaigia asmens paskyrimo į valstybės politiko arba valstybės tarnautojo
 
-įstaigos vadovo (pavaduotojo), kolegialios institucijos skiriamo politinio
+– įstaigos vadovo (pavaduotojo), kolegialios institucijos skiriamo politinio
 
 (asmeninio) pasitikėjimo pagrindu, pareigas laikas, Seimo ar savivaldybės
 
@@ -1645,7 +1729,7 @@ politiko arba valstybės tarnautojo – įstaigos vadovo (pavaduotojo), kolegial
 
 institucijos skiriamo politinio (asmeninio) pasitikėjimo pagrindu, pareigas ar
 
-išrenkant Seimo ar savivaldybės tarybos nariu, buvo valstybės tarnautojas
+išrenkant Seimo ar savivaldybės tarybos nariu buvo valstybės tarnautojas
 
 (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojus), turi teisę
 
@@ -1655,23 +1739,43 @@ nustatyta tvarka atkurti valstybės tarnautojo (išskyrus politinio (asmeninio)
 
 pasitikėjimo valstybės tarnautojo) statusą – grįžti į eitas arba, jeigu nėra
 
-galimybės, kitas to paties lygio ir kategorijos pareigas. Atlikusiam
+galimybės, kitas tos pačios ar žemesnės
 
-privalomąją pradinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą
+kategorijos pareigas. Per 3 mėnesius nuo darbo tarptautinėje organizacijoje ar
 
-valstybės tarnautojui užtikrinama teisė grįžti į eitas pareigas toje pačioje
+institucijoje, Europos Sąjungos institucijoje ar įstaigoje pabaigos teisę
 
-valstybės ar savivaldybės institucijoje ar įstaigoje.
+atkurti karjeros valstybės tarnautojo statusą – grįžti į eitas arba, jeigu nėra
 
-3. Valstybės tarnautojai, kurie yra profesinių sąjungų
+galimybės, kitas tos pačios ar žemesnės kategorijos pareigas turi iki paskyrimo
 
-atstovai, turi teisę dalyvauti sprendžiant valstybės tarnautojų vertinimo,
+dirbti tarptautinėje organizacijoje ar institucijoje, Europos Sąjungos
 
-pareigų paaukštinimo, tarnybinių nuobaudų skyrimo klausimus, taip pat
+institucijoje ar įstaigoje savo noru atsistatydinę iš karjeros valstybės
 
-profesinių sąjungų organizacinėje veikloje. Tam skiriama iki 10 valandų tarnybos
+tarnautojo pareigų asmenys. Tokios teisės neturi asmenys, kurie buvo atleisti
 
-(darbo) laiko per mėnesį ir už šį laiką mokamas darbo užmokestis.
+iš tarptautinės organizacijos ar institucijos, Europos Sąjungos institucijos ar
+
+įstaigos dėl priežasčių, susijusių su netinkamu pareigų vykdymu ar
+
+nepatenkinamais tarnybinės veiklos rezultatais, ar už tarnybinius nusižengimus.
+
+Atlikusiam privalomąją pradinę karo tarnybą arba alternatyviąją krašto
+
+apsaugos tarnybą valstybės tarnautojui užtikrinama teisė grįžti į eitas
+
+pareigas toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje.
+
+3. Valstybės tarnautojai, kurie yra profesinių sąjungų atstovai,
+
+turi teisę dalyvauti sprendžiant valstybės tarnautojų vertinimo, pareigų
+
+paaukštinimo, tarnybinių nuobaudų skyrimo klausimus, taip pat profesinių
+
+sąjungų organizacinėje veikloje. Tam skiriama iki 10 valandų tarnybos (darbo)
+
+laiko per mėnesį ir už šį laiką mokamas darbo užmokestis.
 
 4. Įstatymai gali nustatyti ir kitų valstybės
 
@@ -1684,6 +1788,10 @@ pakeitimai:
 Nr. IX-1694,
 
 2003-07-04, Žin., 2003, Nr. 73-3358 (2003-07-23)
+
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
 
 17 straipsnis. Su valstybės tarnautojo pareigomis nesuderinama veikla
 
@@ -1721,17 +1829,25 @@ ar asmuo, su valstybės tarnautoju susijęs svainystės ryšiais, taip pat sudar
 
 sandorius su akcinėmis bendrovėmis, kuriose jis pats arba jo sutuoktinis,
 
-artimasis giminaitis ar asmuo, susijęs su valstybės tarnautoju svainystės ryšiais,
+artimasis giminaitis ar asmuo, susijęs su valstybės tarnautoju svainystės
 
-turi ar valdo pagal kito asmens įgaliojimą daugiau negu 10
+ryšiais, turi ar valdo pagal kito asmens įgaliojimą
 
-procentų įstatinio kapitalo arba akcijų;
+daugiau negu 10 procentų įstatinio kapitalo arba akcijų;
 
-3) atstovauti Lietuvos ir užsienio valstybių įmonėms,
+3)
 
-institucijoms ar įstaigoms arba už jų lėšas vykti į užsienį, mokytis ar
+atstovauti Lietuvos ir užsienio valstybių įmonėms, užsienio valstybių institucijoms
 
-kitaip naudotis jų lėšomis;
+ar įstaigoms, už Lietuvos ar užsienio valstybių įmonių lėšas vykti į
+
+užsienį, mokytis ar kitaip naudotis jų lėšomis. Draudimas atstovauti užsienio
+
+valstybių institucijoms ir įstaigoms netaikomas į pareigas šiose
+
+institucijose ar įstaigose pagal šio Įstatymo 19 straipsnio 2 dalį perkeltam
+
+valstybės tarnautojui;
 
 4) dirbti samdomu darbuotoju, patarėju, ekspertu ar
 
@@ -1745,9 +1861,9 @@ komisijose bei už darbą pagal sutartis su rinkimų arba referendumo komisijomi
 
 už mokslinį ir pedagoginį darbą aukštosiose mokyklose ar valstybės tarnautojų
 
-kvalifikacijos tobulinimo įstaigose, už neformalųjį suaugusiųjų švietimą,
+kvalifikacijos tobulinimo įstaigose, už neformalųjį suaugusiųjų
 
-už teisės aktų projektų rengimą (jei ši funkcija nenurodyta valstybės
+švietimą, už teisės aktų projektų rengimą (jei ši funkcija nenurodyta valstybės
 
 tarnautojo pareigybės aprašyme), kai jis Seimo nutarimu ar Seimo valdybos
 
@@ -1777,6 +1893,10 @@ Nr. IX-1197,
 
 2002-11-12, Žin., 2002, Nr. 116-5192 (2002-12-06)
 
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
+
 V SKYRIUS
 
 VALSTYBĖS
@@ -1803,15 +1923,15 @@ valstybės tarnautoją į pareigas priėmęs asmuo turi teisę jį
 
 laikinai perkelti į kitas karjeros valstybės tarnautojo pareigas toje pačioje
 
-valstybės ar savivaldybės institucijoje ar
+valstybės ar savivaldybės institucijoje ar įstaigoje,
 
-įstaigoje, esančioje toje pačioje arba kitoje gyvenamojoje vietovėje.
+esančioje toje pačioje arba kitoje gyvenamojoje vietovėje.
 
 3. Karjeros valstybės tarnautoją į pareigas priėmęs
 
-asmuo turi teisę jį laikinai perkelti į kitas karjeros valstybės tarnautojo pareigas
+asmuo turi teisę jį laikinai perkelti į kitas karjeros valstybės tarnautojo
 
-kitoje valstybės ar savivaldybės institucijoje ar
+pareigas kitoje valstybės ar savivaldybės institucijoje ar
 
 įstaigoje, esančioje toje pačioje arba kitoje gyvenamojoje vietovėje, kai yra
 
@@ -1834,6 +1954,74 @@ per penkerius tarnybos metus.
 valstybės tarnautojui mokamas ne mažesnis kaip
 
 iki perkėlimo jo gautas darbo užmokestis.
+
+19
+
+straipsnis. Karjeros valstybės tarnautojų perkėlimas į kitas pareigas Lietuvos
+
+Respublikos
+
+diplomatinėse atstovybėse, konsulinėse įstaigose ir
+
+atstovybėse
+
+prie tarptautinių organizacijų, taip pat į pareigas
+
+tarptautinėse
+
+organizacijose ar institucijose, Europos Sąjungos
+
+institucijose
+
+ar įstaigose
+
+1. Karjeros valstybės tarnautojas jo rašytiniu sutikimu
+
+gali būti perkeltas į kitas pareigas Lietuvos Respublikos diplomatinėse
+
+atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių
+
+organizacijų.
+
+2. Karjeros valstybės tarnautojas jo rašytiniu sutikimu
+
+gali būti laikinai perkeltas į pareigas tarptautinėje organizacijoje ar
+
+institucijoje, Europos Sąjungos institucijoje ar įstaigoje. Pretenduojantys
+
+būti laikinai perkelti į pareigas šiose institucijose, įstaigose ar
+
+organizacijose asmenys atrenkami Vyriausybės nustatyta tvarka.
+
+3. Paprastai pagal šio straipsnio 1 ar 2 dalį perkeltas
+
+karjeros valstybės tarnautojas kitas pareigas gali eiti ne ilgiau kaip trejus
+
+metus, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato
+
+kitaip.
+
+4. Karjeros valstybės tarnautojas gali būti perkeltas į
+
+kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse
+
+įstaigose ir atstovybėse prie tarptautinių organizacijų, jeigu jis atitinka
+
+pareigybės, į kurią perkeliama, aprašyme nustatytus specialius reikalavimus.
+
+5. Karjeros valstybės tarnautojų perkėlimo į šio straipsnio
+
+1 dalyje nurodytas pareigas ir atšaukimo iš šių pareigų tvarką, socialinių
+
+garantijų tarnybos užsienyje metu ypatumus nustato įstatymai ir kiti teisės
+
+aktai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
 
 19 straipsnis. Karjeros valstybės tarnautojų perkėlimas į kitas pareigas
 
@@ -1913,11 +2101,11 @@ aukščiausia yra pirma, žemiausia – trečia kvalifikacinė klasė.
 
 2. Priimant valstybės tarnautojus į pareigas,
 
-vertinimo būdu jiems gali būti suteikiama trečia kvalifikacinė klasė. Šiuo
+vertinimo būdu jiems gali būti suteikiama trečia kvalifikacinė klasė.
 
-atveju netaikomas 22 straipsnio 5 dalyje nustatytas 20 darbo dienų pranešimo
+Šiuo atveju netaikomas 22 straipsnio 5 dalyje nustatytas 20 darbo dienų
 
-terminas.
+pranešimo terminas.
 
 23 straipsnis. Darbo užmokestis
 
@@ -1945,15 +2133,15 @@ yra vienoda visoms tos pačios kategorijos pareigybėms.
 
 pareiginės algos koeficientą. Koks koeficientas taikomas kiekvienos kategorijos
 
-pareigybėms, nustato šis Įstatymas (priedėlis). Pareiginės algos
+pareigybėms, nustato šis Įstatymas (priedėlis). Pareiginės algos koeficiento
 
-koeficiento vienetas yra Vyriausybės patvirtintos minimalios mėnesinės algos
+vienetas yra Vyriausybės patvirtintos minimalios mėnesinės algos (toliau – MMA)
 
-(toliau – MMA) dydžio. Pareiginės algos dydis apskaičiuojamas atitinkamą
+dydžio. Pareiginės algos dydis apskaičiuojamas atitinkamą pareiginės algos
 
-pareiginės algos koeficientą dauginant iš MMA. Pareiginė alga apvalinama taip,
+koeficientą dauginant iš MMA. Pareiginė alga apvalinama taip, kad paskutinis
 
-kad paskutinis skaitmuo būtų 0 arba 5.
+skaitmuo būtų 0 arba 5.
 
 3. Valstybės tarnautojų, dirbusių ne visas mėnesio darbo
 
@@ -2099,11 +2287,11 @@ valstybės apdovanojimus įrašoma į valstybės tarnautojo asmens bylą.
 
 28 straipsnis. Valstybės tarnautojų atsakomybė
 
-Valstybės tarnautojai už tarnybinius nusižengimus traukiami
+Valstybės tarnautojai už tarnybinius nusižengimus
 
-tarnybinėn atsakomybėn. Už valstybės ir savivaldybės institucijai ir
+traukiami tarnybinėn atsakomybėn. Už valstybės ir savivaldybės institucijai
 
-įstaigai padarytą materialinę žalą valstybės tarnautojai traukiami
+ir įstaigai padarytą materialinę žalą valstybės tarnautojai traukiami
 
 materialinėn atsakomybėn.
 
@@ -2225,15 +2413,15 @@ arba atostogavo, o iškėlus baudžiamąją bylą arba atliekant tarnybinį ar k
 
 kompetentingos institucijos patikrinimą – ne vėliau kaip per du mėnesius nuo
 
-baudžiamosios bylos nutraukimo arba teismo nuosprendžio įsiteisėjimo dienos, tarnybinio
+baudžiamosios bylos nutraukimo arba teismo nuosprendžio įsiteisėjimo dienos,
 
-ar kito kompetentingos institucijos patikrinimo užbaigimo dienos. Tarnybinių
+tarnybinio ar kito kompetentingos institucijos patikrinimo užbaigimo dienos.
 
-nuobaudų skyrimo procedūra pradedama įstaigos vadovo, tiesioginio valstybės
+Tarnybinių nuobaudų skyrimo procedūra pradedama įstaigos vadovo, tiesioginio
 
-tarnautojo vadovo iniciatyva arba kai jie gauna oficialią informaciją apie
+valstybės tarnautojo vadovo iniciatyva arba kai jie gauna oficialią informaciją
 
-valstybės tarnautojo tarnybinį nusižengimą. Negalima skirti tarnybinės
+apie valstybės tarnautojo tarnybinį nusižengimą. Negalima skirti tarnybinės
 
 nuobaudos, jei praėjo 6 mėnesiai nuo nusižengimo padarymo dienos, išskyrus
 
@@ -2251,21 +2439,21 @@ būti skiriama ne vėliau kaip per trejus metus nuo nusižengimo padarymo dienos
 
 tarnybinę nuobaudą.
 
-4. Kai paaiškėja, kad tarnybinis nusižengimas turi
+4. Kai paaiškėja, kad tarnybinis nusižengimas turi baudžiamosios
 
-baudžiamosios veikos ar administracinio teisės pažeidimo požymių, tarnybinių
+veikos ar administracinio teisės pažeidimo požymių, tarnybinių nuobaudų skyrimo
 
-nuobaudų skyrimo procedūra sustabdoma ir tarnybinio patikrinimo medžiaga
+procedūra sustabdoma ir tarnybinio patikrinimo medžiaga perduodama
 
-perduodama institucijai, kompetentingai tirti atitinkamas bylas. Jeigu
+institucijai, kompetentingai tirti atitinkamas bylas. Jeigu atsisakoma
 
-atsisakoma iškelti baudžiamąją arba administracinę bylą ar asmuo atleidžiamas
+iškelti baudžiamąją arba administracinę bylą ar asmuo atleidžiamas nuo
 
-nuo baudžiamosios arba administracinės atsakomybės, tarnybinės nuobaudos
+baudžiamosios arba administracinės atsakomybės, tarnybinės nuobaudos skyrimo
 
-skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti paskirta šio straipsnio
+procedūra tęsiama ir tarnybinė nuobauda turi būti paskirta šio
 
-1 dalyje nustatyta tvarka ir terminais.
+straipsnio 1 dalyje nustatyta tvarka ir terminais.
 
 5. Tarnybines nuobaudas skiria valstybės tarnautoją į
 
@@ -2339,7 +2527,9 @@ pareiškus ieškinį teisme.
 
 5. Atlyginant žalą išieškoma suma negali viršyti 20
 
-procentų valstybės tarnautojui priklausančio per mėnesį mokėti darbo užmokesčio.
+procentų valstybės tarnautojui priklausančio per mėnesį mokėti darbo
+
+užmokesčio.
 
 6. Valstybės tarnautojas, nesutinkantis su jį į pareigas
 
@@ -2403,11 +2593,11 @@ posėdyje jį priimant ir per 7 dienas po to, kai sužinojo ar turėjo sužinoti
 
 apie tokį sprendimą, įteikė institucijos vadovui rašytinį pareiškimą.
 
-Kolegialios valstybės ar savivaldybės institucijos vadovo ir nario
+Kolegialios valstybės ar savivaldybės institucijos vadovo ir nario atsistatydinimas
 
-atsistatydinimas ar atšaukimas iš pareigų neatleidžia jų nuo padarytos dėl jų
+ar atšaukimas iš pareigų neatleidžia jų nuo padarytos dėl jų kaltės žalos
 
-kaltės žalos atlyginimo. Ginčus dėl žalos atlyginimo sprendžia teismas.
+atlyginimo. Ginčus dėl žalos atlyginimo sprendžia teismas.
 
 34 straipsnis. Nušalinimas nuo pareigų
 
@@ -2517,11 +2707,55 @@ būti suteiktos iki vienerių metų trukmės atostogos kvalifikacijai tobulinti.
 
 jam nustatytas darbo užmokestis nemokamas.
 
-2. Pasinaudoti šiame straipsnyje nurodytomis atostogomis
+2. Pasinaudoti šiame straipsnyje nurodytomis
 
-karjeros valstybės tarnautojas gali ne dažniau kaip vieną kartą per penkerius
+atostogomis karjeros valstybės tarnautojas gali ne dažniau kaip vieną kartą per
 
-metus.
+penkerius metus.
+
+39
+
+straipsnis. Atostogos dėl karjeros valstybės tarnautojo perkėlimo į kitas
+
+pareigas
+
+1. Karjeros valstybės tarnautojui dėl šio Įstatymo 18
+
+straipsnyje nustatyto perkėlimo į kitas pareigas kitoje gyvenamojoje vietovėje
+
+ir dėl 19 straipsnyje nustatyto perkėlimo į kitas pareigas Lietuvos Respublikos
+
+diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie
+
+tarptautinių organizacijų, taip pat į pareigas tarptautinėse organizacijose ar
+
+institucijose, Europos Sąjungos institucijose ar įstaigose skiriama iki 5 darbo
+
+dienų persikėlimo atostogų. Už šį laikotarpį karjeros valstybės tarnautojui
+
+mokamas jo vidutinis mėnesinis darbo užmokestis, apskaičiuotas Vyriausybės
+
+nustatyta tvarka.
+
+2. Persikėlimo išlaidas, susidariusias dėl šio Įstatymo 18
+
+straipsnyje nustatyto perkėlimo į kitas pareigas kitoje gyvenamojoje vietovėje,
+
+moka valstybės ar savivaldybės institucija ar įstaiga, į kurią perkeltas
+
+valstybės tarnautojas. Persikėlimo išlaidas, susidariusias dėl šio Įstatymo 19
+
+straipsnio 1 dalyje nustatyto perkėlimo, moka valstybės ar savivaldybės
+
+institucija ar įstaiga, iš kurios perkeliamas valstybės tarnautojas.
+
+Persikėlimo išlaidos mokamos Vyriausybės nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
 
 39 straipsnis. Atostogos dėl karjeros valstybės tarnautojo perkėlimo į kitas
 
@@ -2681,39 +2915,67 @@ tarnautojų sutuoktiniams ir vaikams (įvaikiams), išvykusiems į užsienį kar
 
 paskirtais valstybės tarnautojais, išlaikyti.
 
+6. Valstybės tarnautojams gali būti mokama Vyriausybės
+
+nustatyto dydžio kompensacija už netarnybinio automobilio naudojimą tarnybos
+
+reikmėms.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
+
 42 straipsnis. Tarnybos stažas
 
 1. Pagal šį Įstatymą tarnybos stažą sudaro Lietuvos
 
 valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo
 
-pareigas, įskaitant šio Įstatymo 4 straipsnio 3 dalies 1–6 punktuose nurodytas
+pareigas, įskaitant šio Įstatymo 4 straipsnio 3 ir 4 dalyse, 5 dalies 1–4
 
-pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo meru ir mero
+punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie
 
-pavaduotoju), metų skaičius. Tarnybos stažas skaičiuojamas nuo valstybės
+nebuvo meru ir mero pavaduotoju), metų skaičius. Tarnybos stažas skaičiuojamas
 
-tarnautojo tarnybos (darbo) valstybės ir savivaldybių institucijose ir
+nuo valstybės tarnautojo tarnybos (darbo) valstybės ir savivaldybių
 
-įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas valstybės
+institucijose ir įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas
 
-tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos (darbo) ne
+valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos
 
-vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir
+(darbo) ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir
 
 savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos stažą taip
 
-pat įskaitomas kasmetinių, nėštumo ir gimdymo, vaiko priežiūros atostogų ir
+pat įskaitomas kasmetinių, nėštumo ir gimdymo atostogų, atostogų vaikui
 
-pagal šio Įstatymo 37 ir 38 straipsnius suteiktų atostogų laikas bei pašalpų
+prižiūrėti, kol jam sueis treji metai, perkėlimo į pareigas tarptautinėje organizacijoje
 
-dėl ligos ar traumos gavimo laikotarpis. Atsižvelgiant į tarnybos stažą,
+ar institucijoje, Europos Sąjungos institucijoje ar įstaigoje pagal šio
 
-nustatomas šio Įstatymo 25 straipsnio 1 dalies 1 punkte nurodyto priedo dydis
+Įstatymo 19 straipsnio 2 dalį, darbo tarptautinėje organizacijoje ar
 
-ir šio Įstatymo 36 straipsnyje nurodytų kasmetinių atostogų trukmė.
+institucijoje, Europos Sąjungos institucijoje ar įstaigoje laikotarpiai,
+
+mokymosi atostogos ir pagal šio Įstatymo 37, 38 ir 39 straipsnius
+
+suteiktų atostogų laikas bei ligos pašalpos gavimo laikotarpiai.
+
+Atsižvelgiant į tarnybos stažą, nustatomas šio Įstatymo 25 straipsnio 1 dalies
+
+1 punkte nurodyto priedo dydis ir šio Įstatymo 36 straipsnyje nurodytų kasmetinių
+
+atostogų trukmė.
 
 2. Tarnybos stažo skaičiavimo tvarką nustato Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
 
 43 straipsnis. Kitos garantijos
 
@@ -2805,9 +3067,9 @@ Kai valstybės tarnautojas atlieka privalomąją pradinę karo tarnybą arba
 
 alternatyviąją krašto apsaugos tarnybą, jam garantuojamos tik einamos pareigos;
 
-6) artimųjų giminaičių mirties atveju – iki 3
+6) artimųjų giminaičių mirties atveju – iki 3 darbo
 
-darbo dienų;
+dienų;
 
 7) donorams – darbo dienomis, kuriomis jie
 
@@ -2815,33 +3077,43 @@ teisės aktų nustatyta tvarka turi būti atleidžiami nuo tarnybos;
 
 8) kai valstybės tarnautojai, gavę tiesioginio
 
-vadovo sutikimą, yra išvykę į sveikatos priežiūros įstaigą ir valstybės ar savivaldybės instituciją ar įstaigą, –
+vadovo sutikimą, yra išvykę į sveikatos priežiūros įstaigą ir valstybės ar savivaldybės instituciją ar įstaigą, – iki
 
-iki vienos darbo dienos.
+vienos darbo dienos;
 
-5. Einamos pareigos garantuojamos, kai karjeros valstybės tarnautojas dėl privalomosios pradinės karo
+9) kai valstybės tarnautojai pagal
 
-tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, atostogų
+šio Įstatymo 19 straipsnio 2 dalį yra laikinai perkelti į pareigas tarptautinėse organizacijose ar institucijose,
 
-kvalifikacijai tobulinti, gimdymo ar vaiko priežiūros atostogų, dėl laikino
+Europos Sąjungos institucijose ar įstaigose. Nustatytas darbo užmokestis
 
-perkėlimo į kitas pareigas, dėl perkėlimo į kitas pareigas Lietuvos Respublikos
+valstybės tarnautojui nemokamas, jeigu darbo užmokestį jam moka institucija,
 
-diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie
+įstaiga ar organizacija, į kurią eiti pareigas jis perkeltas.
 
-tarptautinių organizacijų, taip pat į kitų valstybių arba tarptautines
+5. Einamos pareigos garantuojamos, kai karjeros valstybės tarnautojas dėl privalomosios pradinės karo tarnybos
 
-institucijas negali eiti pareigų. Karjeros valstybės tarnautojų sutuoktiniams,
+arba alternatyviosios krašto apsaugos tarnybos atlikimo, atostogų
 
-kurie išvyksta kartu su perkeltais į kitas pareigas Lietuvos Respublikos
+kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui
 
-diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie
+prižiūrėti, kol jam sueis treji metai, dėl laikino perkėlimo į kitas pareigas,
 
-tarptautinių organizacijų, taip pat į kitų valstybių arba tarptautines
+dėl perkėlimo į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse,
 
-institucijas valstybės tarnautojais, garantuojamos einamos pareigos, jeigu iki
+konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, negali
 
-išvykimo jie buvo karjeros valstybės tarnautojai.
+eiti pareigų. Karjeros valstybės tarnautojų sutuoktiniams, kurie išvyksta kartu
+
+su perkeltais į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse,
+
+konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, taip pat į
+
+pareigas tarptautinėse organizacijose ar institucijose, Europos Sąjungos
+
+institucijose ar įstaigose valstybės tarnautojais, garantuojamos einamos
+
+pareigos, jeigu iki išvykimo jie buvo karjeros valstybės tarnautojai.
 
 6. Valstybės tarnautojas turi teisę Vyriausybės nustatyta tvarka gauti
 
@@ -2891,6 +3163,12 @@ biudžeto lėšų.
 
 10. Kiti įstatymai gali nustatyti ir kitų garantijų.
 
+Straipsnio pakeitimai:
+
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
+
 IX SKYRIUS
 
 VALSTYBĖS TARNAUTOJŲ ATLEIDIMAS IŠ PAREIGŲ
@@ -2901,29 +3179,29 @@ VALSTYBĖS TARNAUTOJŲ ATLEIDIMAS IŠ PAREIGŲ
 
 1) atsistatydina savo noru;
 
-2) savivaldybės kontrolierius ar savivaldybės administracijos
+2) savivaldybės kontrolierius ar savivaldybės
 
-valstybės tarnautojas pradeda eiti tos pačios savivaldybės tarybos nario
+administracijos valstybės tarnautojas pradeda eiti tos pačios savivaldybės
 
-pareigas arba Vyriausybės atstovas pradeda eiti savivaldybės, kurios
+tarybos nario pareigas arba Vyriausybės atstovas pradeda eiti savivaldybės,
 
-administracinę priežiūrą jis vykdo, tarybos nario pareigas;
+kurios administracinę priežiūrą jis vykdo, tarybos nario pareigas;
 
 3) praranda Lietuvos Respublikos pilietybę;
 
-4) per Valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo
+4) per Valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatyme
 
-įstatyme nustatytą terminą neįgyja einamoms pareigoms būtino išsilavinimo;
+nustatytą terminą neįgyja einamoms pareigoms būtino išsilavinimo;
 
-5) pasibaigia
+5) įstatymų nustatytais atvejais pasibaigia įstaigos
 
-įstaigos vadovo, priimto į pareigas iki šio Įstatymo įsigaliojimo, kadencija ir
+vadovo kadencija, pasibaigia įstaigos vadovo, priimto į pareigas iki šio
 
-Vyriausybės atstovo (įstaigos vadovo) kadencija, kurios pradžia –
+Įstatymo įsigaliojimo, kadencija ir Vyriausybės atstovo (įstaigos vadovo)
 
-Valstybės tarnybos įstatymo
+kadencija, kurios pradžia – Valstybės tarnybos įstatymo (Žin., 1999,
 
-(Žin., 1999, Nr. 66-2130) įsigaliojimo data;
+Nr. 66-2130) įsigaliojimo data;
 
 6) pasibaigia pakaitinio valstybės tarnautojo
 
@@ -3007,9 +3285,9 @@ pareigybė nepriskiriama valstybės tarnautojų pareigybėms.
 
 tarnautojas iš pareigų atleidžiamas paskutinę jį į pareigas priėmusio valstybės
 
-politiko įgaliojimų dieną ar naujai sudarytos kolegialios valstybės institucijos
+politiko įgaliojimų dieną ar naujai sudarytos kolegialios valstybės
 
-pirmajame posėdyje.
+institucijos pirmajame posėdyje.
 
 3. Ketinantis atsistatydinti savo noru valstybės
 
@@ -3049,6 +3327,10 @@ IX-1426,
 
 2003-04-03, Žin., 2003, Nr. 38-1671 (2003-04-24)
 
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
+
 X SKYRIUS
 
 VALSTYBĖS TARNAUTOJŲ MOKYMAS
@@ -3063,9 +3345,9 @@ tarnautojo pareigas valstybės tarnautojų žinių įgijimas ir įgūdžių form
 
 Įvadinis mokymas susideda iš mokymosi pagal programas, kurių turinys visiems
 
-tos pačios kategorijos valstybės tarnautojams yra vienodas. Pradėję eiti pareigas
+tos pačios kategorijos valstybės tarnautojams yra vienodas. Pradėję eiti
 
-karjeros valstybės tarnautojai, kurie prieš tai nėra išklausę įvadinio
+pareigas karjeros valstybės tarnautojai, kurie prieš tai nėra išklausę įvadinio
 
 mokymo bendrųjų programų, per metus nuo priėmimo į pareigas dienos privalo jas
 
@@ -3097,17 +3379,15 @@ ir personalo vadybos srityse, 18–20 kategorijų valstybės tarnautojų mokymo
 
 programas rengia ir pagal parengtas programas valstybės tarnautojus moko
 
-Lietuvos viešojo administravimo institutas. Kitas mokymo programas rengia ir
+Lietuvos viešojo administravimo institutas. Kitas mokymo programas rengia ir pagal
 
-pagal jas valstybės tarnautojus moko vidaus reikalų ministro nustatyta tvarka
+jas valstybės tarnautojus moko vidaus reikalų ministro nustatyta tvarka
 
 patvirtintos valstybės tarnautojų kvalifikacijos tobulinimo įstaigos.
 
 46 straipsnis. Valstybės tarnautojų mokymo finansavimas
 
-1. Valstybės tarnautojų mokymą finansuoja valstybė ir
-
-savivaldybės. Valstybės ir savivaldybių institucijų ir įstaigų valstybės
+1. Valstybės ir savivaldybių institucijų ir įstaigų valstybės
 
 tarnautojų mokymui valstybės ir savivaldybių biudžetuose numatomos lėšos. Jos
 
@@ -3137,17 +3417,23 @@ mėnesius nuo atleidimo dienos grąžinti valstybės ar savivaldybės institucij
 
 ar įstaigai su jo mokymu susijusias valstybės ar savivaldybės institucijos
 
-ar įstaigos išlaidas. Jeigu asmuo su jo mokymu susijusių išlaidų negrąžina,
+ar įstaigos išlaidas. Jeigu asmuo su jo mokymu susijusių išlaidų negrąžina, valstybės
 
-valstybės ar savivaldybės institucija ar įstaiga privalo kreiptis
+ar savivaldybės institucija ar įstaiga privalo kreiptis į teismą
 
-į teismą dėl šių lėšų išieškojimo.
+dėl šių lėšų išieškojimo.
 
 4. Siekiančių tobulinti savo kvalifikaciją
 
 valstybės tarnautojų mokymas gali būti finansuojamas iš šio straipsnio 1 dalyje
 
 nenurodytų lėšų.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
 
 47 straipsnis. Valstybės tarnautojų mokymo organizavimas
 
@@ -3231,9 +3517,9 @@ tarnautojų karjeros planavimo sistemą;
 
 7) nagrinėja su valstybės tarnautojų statusu susijusius skundus ir
 
-valstybės ir savivaldybių institucijoms ir įstaigoms teikia išvadas bei
+valstybės ir savivaldybių institucijoms ir įstaigoms teikia išvadas bei pasiūlymus
 
-pasiūlymus šiais klausimais;
+šiais klausimais;
 
 8) rengia ir valstybės ir savivaldybių institucijoms ir įstaigoms teikia
 
@@ -3583,9 +3869,9 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 4,
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-564,
+Nr. IX-564, 2001-10-18,
 
-2001-10-18, Žin., 2001, Nr. 92-3210 (2001-10-31)
+Žin., 2001, Nr. 92-3210 (2001-10-31)
 
 VALSTYBĖS TARNYBOS ĮSTATYMO 62 IR 69 STRAIPSNIŲ
 
@@ -3725,9 +4011,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1328, 2003-01-28,
+Nr. IX-1328,
 
-Žin., 2003, Nr. 17-705 (2003-02-19)
+2003-01-28, Žin., 2003, Nr. 17-705 (2003-02-19)
 
 VALSTYBĖS
 
@@ -3779,15 +4065,33 @@ TARNYBOS ĮSTATYMO 2, 4, 9, 14, 15, 16, 29, 30 STRAIPSNIŲ PAKEITIMO IR PAPILDYM
 
 ĮSTATYMAS
 
+24.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1747,
+
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
+
+VALSTYBĖS
+
+TARNYBOS ĮSTATYMO 2, 7, 16, 17, 19, 39, 41, 42, 43, 44, 46 STRAIPSNIŲ PAKEITIMO
+
+BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 5(1) STRAIPSNIU ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Angonita Rupšytė (2003-07-23)
+Aušrinė Trapinskienė (2003-10-29)
 
-anrups@lrs.lt
+autrap@lrs.lt
 
 50 straipsnis.
 
