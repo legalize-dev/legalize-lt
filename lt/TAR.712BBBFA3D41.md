@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2002-07-11"
+last_updated: "2002-09-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -654,7 +654,7 @@ Nr. IX-364, 2001-06-07, Žin., 2001, Nr.
 
 55-1939 (2001-06-27)
 
-*18 straipsnis.
+18 straipsnis.
 
 Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 
@@ -674,17 +674,7 @@ projektą Seimui, pateikia jį Lietuvos savivaldybių asociacijai pagal
 
 Vyriausybės nustatytą finansinių rodiklių derinimo tvarką.
 
-*2. Vyriausybė, rengdama ir teikdama Seimui
-
-atitinkamų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų
-
-finansinių rodiklių patvirtinimo įstatymo projektą, Seimo kanceliarijai
-
-numatomų asignavimų dydžius, kurie yra nustatyti Seimo valdybos patvirtintoms
-
-Seimo kanceliarijos programoms pagal išlaidų sąmatas, įtraukia į šį projektą
-
-Seimo valdybos teikimu.
+2. (Neteko galios)
 
 3. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 
@@ -742,18 +732,6 @@ nuostatos, apribojančios teisę prisiimti įsipareigojimus naudoti biudžeto
 
 lėšas.
 
-*Pastaba. Pripažinti, kad Lietuvos Respublikos biudžeto
-
-sandaros įstatymo 18 straipsnio 2 dalis prieštarauja Lietuvos Respublikos
-
-Konstitucijos 5 straipsniui, 94 straipsnio 4 punkto nuostatai, kad
-
-Vyriausybė rengia valstybės biudžeto projektą, Konstitucijos 130 straipsnio
-
-nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, konstituciniam
-
-valdžių padalijimo principui ir konstituciniam teisinės valstybės principui.
-
 Straipsnio pakeitimai:
 
 Nr. IX-364, 2001-06-07, Žin., 2001, Nr.
@@ -763,6 +741,12 @@ Nr. IX-364, 2001-06-07, Žin., 2001, Nr.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2002-07-11, Žin., 2002, Nr. 72-3080 (2002-07-17)
+
+Nr.
+
+IX-1089,
+
+2002-09-19, Žin., 2002, Nr. 96-4167 (2002-10-04)
 
 19 straipsnis.
 
@@ -798,7 +782,7 @@ kreditorių bendrą sumą;
 
 5) asignavimų valdytojų programų uždavinių vertinimo kriterijus;
 
-**6) Valstybinio
+*6) Valstybinio
 
 socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų
 
@@ -810,7 +794,7 @@ elektrinės eksploatavimo nutraukimo fondo sąmatą, Kelių fondo sąmatą;
 
 teisės aktų nustatytus dokumentus.
 
-**
+*
 
 Pastaba.
 
@@ -1152,11 +1136,11 @@ nevykdomi, t.y. gaunama mažiau pajamų, negu buvo numatyta, finansavimas iš
 
 savivaldybių biudžetų vykdomas savivaldybių tarybų nustatyta tvarka. Jeigu
 
-numatoma, kad nustatytas pajamų planas iki metų pabaigos nebus įvykdytas,
+numatoma, kad nustatytas pajamų planas iki metų pabaigos nebus įvykdytas, sprendimus
 
-sprendimus dėl šiuose biudžetuose numatytų išlaidų finansavimo tvarkos
+dėl šiuose biudžetuose numatytų išlaidų finansavimo tvarkos savivaldybės
 
-savivaldybės valdybos (mero) teikimu priima savivaldybės taryba.
+valdybos (mero) teikimu priima savivaldybės taryba.
 
 3. Asignavimų
 
@@ -1340,9 +1324,9 @@ valstybės pasiskolintų lėšų grąžintina suma (ne balanso dalyje).
 
 sudarymo tvarką ir periodiškumą nustato Finansų ministerija.
 
-7. Valstybės biudžeto įvykdymo apyskaitą Vyriausybei teikia Finansų
+7. Valstybės biudžeto įvykdymo apyskaitą Vyriausybei teikia Finansų ministerija
 
-ministerija Vyriausybės nustatyta tvarka ir terminais.
+Vyriausybės nustatyta tvarka ir terminais.
 
 8. Valstybės ir savivaldybių
 
@@ -1666,9 +1650,9 @@ Nauja įstatymo redakcija
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-2058, 00.10.17, Žin., 2000,
+Nr. VIII-2058, 00.10.17, Žin., 2000, Nr.90-2778
 
-Nr.90-2778 (00.10.27)
+(00.10.27)
 
 BIUDŽETO SANDAROS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
 
@@ -1686,9 +1670,23 @@ BIUDŽETO SANDAROS ĮSTATYMO 8, 17, 18, 20, 31 STRAIPSNIŲ
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1089,
+
+2002-09-19, Žin., 2002, Nr. 96-4167 (2002-10-04)
+
+BIUDŽETO
+
+SANDAROS ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-KONSTITUCINIO TEISMO NUTARIMAI:
+Konstitucinio Teismo nutarimai:
 
 1.
 
@@ -1718,7 +1716,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-07-18)
+Aušrinė Trapinskienė (2002-10-04)
 
 autrap@lrs.lt
 
@@ -1910,9 +1908,9 @@ _
 
 25 straipsnis. Savivaldybės valdybos (mero) rezervas
 
-1. Savivaldybės gali sudaryti savivaldybės valdybos (mero) rezervą,
+1. Savivaldybės gali sudaryti savivaldybės valdybos (mero) rezervą, kuris
 
-kuris turi būti ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto
+turi būti ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto
 
 asignavimų sumos. Konkretų savivaldybės valdybos (mero) rezervo dydį kasmet
 
