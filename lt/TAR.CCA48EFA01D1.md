@@ -4,7 +4,7 @@ identifier: "TAR.CCA48EFA01D1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-15"
-last_updated: "1994-07-01"
+last_updated: "1994-11-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CCA48EFA01D1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo
+
+Suvestinė redakcija nuo 1994-11-18 iki 1994-12-13
+
+Įstatymas paskelbtas: Žin. 1994, Nr. 50-932, i. k. 0941010ISTA000I-497
 
 LIETUVOS RESPUBLIKOS
 
@@ -44,27 +48,55 @@ Dabar veikiančio Lietuvos Aukščiausiojo Teismo teisėjams pasiūlomos teisėj
 
 Lietuvos Aukščiausiojo Teismo teisėjai (iš jų – pirmininkas, civilinių bylų skyriaus pirmininkas, baudžiamųjų bylų skyriaus pirmininkas) turi būti paskiriami iki 1994 m. lapkričio 15 dienos. Jie pradeda dirbti nuo 1995 m. sausio 1 dienos.
 
-Šio teismo teisėjais gali būti skiriami dabar veikiančio Lietuvos Aukščiausiojo Teismo teisėjai (be egzaminų), taip pat piliečiai, turintys ne mažesnį kaip dešimties metų teisėjo, prokuroro, advokato ar valstybinio arbitro darbo stažą ir išlaikę Aukščiausiojo Teismo teisėjų egzaminus, taip pat teisių mokslo daktarai bei habilituoti daktarai, išlaikę Aukščiausiojo Teismo teisėjų egzaminus.
+Šio teismo teisėjais gali būti skiriami dabar veikiančio Lietuvos Aukščiausiojo Teismo teisėjai ir teisininkai-socialinių mokslų habilituoti daktarai (be egzaminų), taip pat piliečiai, turintys ne mažesnį kaip dešimties metų teisėjo, prokuroro, advokato ar valstybinio arbitro darbo stažą ir išlaikę Aukščiausiojo Teismo teisėjų egzaminus, bei šiuos egzaminus išlaikę teisininkai-socialinių mokslų daktarai.
 
-Lietuvos Aukščiausiojo Teismo teisėjus, o iš jų - pirmininką, skyrių pirmininkus, skiria Seimas Respublikos Prezidento teikimu.
+Straipsnio dalies pakeitimai:
+
+Nr. I-634, 1994-11-08, Žin., 1994, Nr. 89-1710 (1994-11-18), i. k. 0941010ISTA000I-634
+
+Lietuvos Aukščiausiojo Teismo teisėjus, o iš jų - pirmininką, skyrių pirmininkus, skiria Seimas Respublikos Prezidento teikimu. Lietuvos Aukščiausiojo Teismo pirmininkas skiriamas devyneriems metams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-634, 1994-11-08, Žin., 1994, Nr. 89-1710 (1994-11-18), i. k. 0941010ISTA000I-634
 
 5 straipsnis
 
-Lietuvos apeliacinis teismas įsteigiamas nuo 1995 m. sausio 1 dienos. Lietuvos apeliacinio teismo teisėjai (iš jų – pirmininkas, civilinių bylų skyriaus pirmininkas, baudžiamųjų bylų skyriaus pirmininkas) turi būti paskiriami iki 1994 m. lapkričio 15 dienos. Jie pradeda dirbti nuo 1995 m. sausio 1 dienos.
+Lietuvos apeliacinis teismas įsteigiamas nuo 1995 m. sausio 1 dienos. Lietuvos apeliacinio teismo teisėjai (iš jų – pirmininkas, civilinių bylų skyriaus pirmininkas, baudžiamųjų bylų skyriaus pirmininkas) turi būti paskiriami iki 1994 m. lapkričio 15 dienos. Jie pradeda dirbti nuo 1995 m. gruodžio 5 dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-634, 1994-11-08, Žin., 1994, Nr. 89-1710 (1994-11-18), i. k. 0941010ISTA000I-634
 
 Šio teismo teisėjais gali būti skiriami dabar veikiančio Lietuvos Aukščiausiojo Teismo teisėjai (be egzaminų), taip pat piliečiai, turintys ne mažesnį kaip penkerių metų teisėjo, prokuroro, prokuroro pavaduotojo, advokato, valstybinio arbitro darbo stažą ir išlaikę Apeliacinio teismo teisėjų egzaminus.
 
-Lietuvos apeliacinio teismo teisėjus, o iš jų - pirmininką, patarus apygardų teismų, Lietuvos apeliacinio teismo ir Lietuvos Aukščiausiojo Teismo teisėjų laikinajai egzaminų komisijai, skiria Respublikos Prezidentas Seimui pritarus. Skyrių pirmininkus skiria Lietuvos apeliacinio teismo pirmininkas.
+Lietuvos apeliacinio teismo teisėjus, o iš jų - pirmininką, teisingumo ministro teikimu ir patarus apygardų teismų, Lietuvos apeliacinio teismo ir Lietuvos Aukščiausiojo Teismo teisėjų laikinajai egzaminų komisijai, skiria Respublikos Prezidentas Seimui pritarus. Skyrių pirmininkus skiria Lietuvos apeliacinio teismo pirmininkas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-634, 1994-11-08, Žin., 1994, Nr. 89-1710 (1994-11-18), i. k. 0941010ISTA000I-634
 
 6 straipsnis
 
-Vilniaus, Kauno, Klaipėdos, Šiaulių ir Panevėžio apygardų teismai įsteigiami nuo 1995 m. sausio 1 dienos.
+Vilniaus, Kauno, Klaipėdos, Šiaulių ir Panevėžio apygardų teismai įsteigiami nuo 1995 m. gruodžio 5 dienos.
 
-Apygardų teismų teisėjai (iš jų – pirmininkas, civilinių bylų skyriaus pirmininkas, baudžiamųjų bylų skyriaus pirmininkas) turi būti paskiriami iki 1994 m. lapkričio 15 dienos. Jie pradeda dirbti nuo 1995 m. sausio 1 dienos.
+Straipsnio dalies pakeitimai:
+
+Nr. I-634, 1994-11-08, Žin., 1994, Nr. 89-1710 (1994-11-18), i. k. 0941010ISTA000I-634
+
+Apygardų teismų teisėjai ir šių teismų pirmininkai, civilinių bylų skyrių pirmininkai ir baudžiamųjų bylų skyrių pirmininkai turi būti paskirti iki 1994 m. gruodžio 5 dienos. Jie pradeda dirbti nuo 1995 m. sausio 1 dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-634, 1994-11-08, Žin., 1994, Nr. 89-1710 (1994-11-18), i. k. 0941010ISTA000I-634
 
 Šių teismų teisėjais gali būti skiriami dabar veikiančio Lietuvos Aukščiausiojo Teismo teisėjai (be egzaminų), taip pat piliečiai, turintys ne mažesnį kaip penkerių metų teisėjo, prokuroro, prokuroro pavaduotojo, advokato, valstybinio arbitro darbo stažą ir išlaikę apygardos teismo teisėjų egzaminus.
 
-Apygardų teismų teisėjus, o iš jų – pirmininką, skiria Respublikos Prezidentas patarus apygardų teismų, Lietuvos apeliacinio teismo ir Lietuvos Aukščiausiojo Teismo teisėjų laikinajai egzaminų komisijai. Skyrių pirmininkus skiria teisingumo ministras.
+Apygardų teismų teisėjus ir šių teismų pirmininkus, teisingumo ministro teikimu ir patarus apygardų teismų, Lietuvos apeliacinio teismo ir Lietuvos Aukščiausiojo Teismo teisėjų laikinajai egzaminų komisijai, skiria Respublikos Prezidentas. Skyrių pirmininkus skiria teisingumo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-634, 1994-11-08, Žin., 1994, Nr. 89-1710 (1994-11-18), i. k. 0941010ISTA000I-634
 
 Nustatoma tokia apygardų teismų veiklos teritorija:
 
@@ -101,4 +133,14 @@ Lietuvos Respublikos prokuratūra reformuojama pagal Lietuvos Respublikos prokur
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-634, 1994-11-08, Žin., 1994, Nr. 89-1710 (1994-11-18), i. k. 0941010ISTA000I-634
+
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" pakeitimo ir papildymo
 
