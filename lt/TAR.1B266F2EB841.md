@@ -4,7 +4,7 @@ identifier: "TAR.1B266F2EB841"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-15"
-last_updated: "1995-12-29"
+last_updated: "1996-12-31"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B266F2EB841"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo
 
-Suvestinė redakcija nuo 1995-12-29 iki 1996-12-30
+Suvestinė redakcija nuo 1996-12-31 iki 1997-03-28
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 70-1310, i. k. 0931010ISTA000I-336
 
@@ -54,4 +54,44 @@ Kiekvienas asmuo, kuris buvo nepagrįstai sulaikytas pagal šį įstatymą, turi
 2. Įsigaliojus šiam įstatymui, visi asmenys, kurie yra sulaikyti pagal 1993 m. liepos 13 d. Lietuvos Respublikos laikinajame įstatyme „Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo“ nustatytą tvarką, per septynias dienas turi būti paleisti arba jų sulaikymo pagrįstumo klausimas turi būti pradėtas spręsti Lietuvos Respublikos baudžiamojo proceso kodekso 501 straipsnyje nustatyta tvarka, o 1993 m. liepos 13 d. Lietuvos Respublikos laikinasis įstatymas „Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo“ (Žin., 1993, Nr. 30-679) netenka galios (bet ne vėliau kaip 1994 m. sausio 1 d.).
 
 3. Patvirtinus asmens sulaikymo pagrįstumą Lietuvos Respublikos baudžiamojo proceso kodekso 501 straipsnyje numatytais atvejais, bendras sulaikymo terminas, įskaitant faktiškai sulaikytam išbūtą laiką pagal 1993 m. liepos 13 d. Lietuvos Respublikos laikinojo įstatymo „Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo“ nustatytą tvarką, negali būti ilgesnis kaip šešiasdešimt dienų.
+
+4. Lietuvos Respublikos baudžiamojo proceso kodekso 50(1) straipsnis galioja iki 1997 m. kovo 31 dienos.
+
+Punkto pakeitimai:
+
+Nr. I-735, 1994-12-22, Žin., 1995, Nr. 1-6 (1995-01-04), i. k. 0941010ISTA000I-735
+
+Nr. I-1122, 1995-12-12, Žin., 1995, Nr. 106-2349 (1995-12-29), i. k. 0951010ISTA00I-1122
+
+Nr. VIII-66, 1996-12-23, Žin., 1996, Nr. 126-2950 (1996-12-31), i. k. 0961010ISTA0VIII-66
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-735, 1994-12-22, Žin., 1995, Nr. 1-6 (1995-01-04), i. k. 0941010ISTA000I-735
+
+Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 50(1) straipsnio ir įstatymo "Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo" pakeitimo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1122, 1995-12-12, Žin., 1995, Nr. 106-2349 (1995-12-29), i. k. 0951010ISTA00I-1122
+
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 50(1) straipsnio ir įstatymo "Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo" pakeitimo" 2 straipsnio pakeitimo
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-66, 1996-12-23, Žin., 1996, Nr. 126-2950 (1996-12-31), i. k. 0961010ISTA0VIII-66
+
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo" 4 straipsnio pakeitimo įstatymas
 
