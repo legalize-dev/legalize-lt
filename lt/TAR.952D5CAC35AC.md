@@ -4,7 +4,7 @@ identifier: "TAR.952D5CAC35AC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-04-02"
-last_updated: "1996-05-02"
+last_updated: "2001-03-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.952D5CAC35AC"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1996-04-02"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos komercinio arbitražo įstatymas
+
+Suvestinė redakcija nuo 2001-03-30 iki 2008-07-30
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 39-961; Žin. 1996, Nr.45-0, i. k. 0961010ISTA00I-1274
 
 LIETUVOS RESPUBLIKOS
 
@@ -157,7 +161,11 @@ Teismas, gavęs ieškininį pareiškimą klausimu, dėl kurio šalys yra sudariu
 
 1. Arbitražui negali būti perduoti ginčai, kylantys iš konstitucinių, darbo, šeimos, administracinių teisinių santykių, taip pat ginčai, susiję su konkurencija, patentais, prekių ir paslaugų ženklais, bankrotu, bei ginčai, kylantys iš vartojimo sutarčių.
 
-2. Arbitražui negali būti perduoti ginčai, jeigu viena iš šalių yra valstybės ar savivaldybės įmonė, taip pat valstybės ar savivaldybės įstaiga ar organizacija, jeigu tokiam susitarimui nebuvo gautas išankstinis šios įmonės, įstaigos ar organizacijos steigėjo sutikimas.
+2. Arbitražui negali būti perduoti ginčai, jeigu viena iš šalių yra valstybės ar savivaldybės įmonė, taip pat valstybės ar savivaldybės įstaiga ar organizacija, išskyrus Lietuvos banką, jeigu tokiam susitarimui nebuvo gautas išankstinis šios įmonės, įstaigos ar organizacijos steigėjo sutikimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-210, 2001-03-13, Žin., 2001, Nr. 28-894 (2001-03-30), i. k. 1011010ISTA00IX-210
 
 3. Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės institucija bendra tvarka gali sudaryti arbitražinį susitarimą dėl ginčų, susijusių su Vyriausybės ar jos įgaliotos valstybės institucijos sudarytomis komercinėmis ir ūkinėmis sutartimis.
 
@@ -505,172 +513,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-44 straipsnis. Dalinis arbitražo teismo sprendimas
-
-1. Daliniu arbitražo teismo sprendimu išsprendžiama tik dalis ginčo.
-
-2. Dalinis arbitražo teismo sprendimas yra galutinis sprendimas tik dėl ginčo dalies, kuri išspręsta visiškai.
-
-3. Dalinis arbitražo teismo sprendimas gali būti priimamas:
-
-45 straipsnis. Papildomas arbitražo teismo sprendimas. Arbitražo teismo sprendimo tikslinimas ir aiškinimas
-
-1. Papildomu arbitražo teismo sprendimu išsprendžiami reikalavimai, kurie buvo pareikšti arbitražinio nagrinėjimo metu, tačiau nebuvo išspręsti priimtu arbitražo teismo sprendimu. Papildomu sprendimu taip pat gali būti tikslinamas ar aiškinamas arbitražo teismo sprendimas, kai būtina:
-
-1) ištaisyti arbitražo teismo sprendime rašybos, aritmetines ar kitas panašaus pobūdžio klaidas;
-
-2) išaiškinti arbitražo teismo sprendimo rezoliucinę dalį ar jos punktą;
-
-3) išspręsti arbitražo išlaidų paskirstymo klausimą.
-
-2. Papildomas arbitražo teismo sprendimas gali būti priimamas arbitražo teismo iniciatyva arba suinteresuotos šalies prašymu. Arbitražo teismas savo iniciatyva gali priimti papildomą sprendimą per 30 dienų nuo galutinio arbitražo teismo sprendimo priėmimo. Prašymą priimti papildomą arbitražo teismo sprendimą suinteresuota šalis turi teisę pateikti ne vėliau kaip per 30 dienų nuo arbitražo teismo sprendimo gavimo dienos.
-
-3. Papildomas arbitražo teismo sprendimas turi būti priimtas per 30 dienų nuo suinteresuotos šalies prašymo priimti šį sprendimą gavimo. Papildomas sprendimas yra sudedamoji arbitražo teismo sprendimo dalis ir jam taikomos šio įstatymo 46 straipsnio nuostatos.
-
-4. Arbitražo teismas turi teisę pratęsti arba atnaujinti šio straipsnio 2 ir 3 dalyse nustatytus terminus.
-
-5. Papildomu sprendimu negali būti keičiama arbitražo teismo sprendimo esmė.
-
-46 straipsnis. Arbitražo teismo sprendimo forma ir turinys
-
-1. Arbitražo teismo sprendimas turi būti rašytinis ir pasirašytas arbitrų ar arbitro. Arbitražo teismo sprendimas yra teisėtas, kai jį pasirašo dauguma arbitrų, taip pat nurodomos kitų arbitrų nepasirašymo priežastys. Arbitras arba arbitrai, nesutinkantys su daugumos nuomone, turi teisę raštu išdėstyti savo atskirąją nuomonę, kuri pridedama prie arbitražo teismo sprendimo. Šalys gali susitarti, kad arbitražo teismo pirmininkas gali pasirašyti sprendimą vienasmeniškai.
-
-2. Arbitražo teismo sprendime turi būti nurodyti motyvai, kuriais remiantis jis priimtas, nebent šalys susitarė, kad nurodyti motyvus nebūtina, arba arbitražo teismo sprendimas yra priimtas sutartomis sąlygomis pagal šio įstatymo 47 straipsnio 1 dalies 1 punktą.
-
-3. Arbitražo teismo sprendime turi būti nurodyta jo priėmimo data ir vieta. Laikoma, kad arbitražo teismo sprendimas priimtas tą dieną ir toje vietoje, kuri nurodyta arbitražo teismo sprendime.
-
-4. Kiekvienai šaliai turi būti įteikta po vieną pasirašytą arbitražo teismo sprendimo egzempliorių. Arbitražo teismo sprendimo įteikimas gali būti atidėtas, kol bus sumokėtos visos arbitražo išlaidos.
-
-47 straipsnis. Taikus ginčo išsprendimas
-
-1. Šalys turi teisę pabaigti arbitražo bylą taikiu susitarimu. Šalių prašymu arbitražo teismas turi teisę:
-
-1) arbitražo teismo sprendimu patvirtinti šalių sudarytą taikos sutartį arba
-
-2) priimti nutartį nutraukti arbitražo bylą.
-
-2. Arbitražo teismo sprendimas, kuriuo patvirtinta šalių sudaryta taikos sutartis, yra galutinis arbitražo teismo sprendimas.
-
-48 straipsnis. Sprendimas dėl arbitražo išlaidų
-
-1. Arbitražo išlaidas sudaro:
-
-1) arbitrų atlyginimai ir pagrįstos kitos jų patirtos išlaidos;
-
-2) nuolatinės arbitražo institucijos ar kitos šalių susitarimų pagrindu atsiradusios ir pagrįstos išlaidos;
-
-3) šalių patirtos pagrįstos išlaidos.
-
-2. Nuolatinės arbitražo institucijos taikomi rinkliavų tarifai, arbitražo išlaidų apskaičiavimo, apmokėjimo ir grąžinimo tvarka nustatoma arbitražo procedūros reglamente ir (ar) šalių susitarime, neprieštaraujančiame arbitražo procedūros reglamentui. Ad hoc arbitražo atveju arbitrų atlyginimo dydis, arbitražo išlaidų apskaičiavimo, apmokėjimo ir grąžinimo tvarka nustatoma šalių susitarimu ir (ar) ad hoc arbitražo taisyklėse.
-
-3. Jeigu šalys nesusitarė kitaip, arbitražo teismas, atsižvelgdamas į bylos aplinkybes, šalių elgesį, arbitražo teismo sprendime turi paskirstyti arbitražo išlaidas šalims.
-
-4. Kai byla baigiama bet kuriuo šiame įstatyme nurodytu pagrindu, arbitražo teismas turi teisę savo iniciatyva išspręsti arbitražo išlaidų paskirstymo klausimą.
-
-49 straipsnis. Arbitražinio nagrinėjimo pabaiga
-
-1. Arbitražinis nagrinėjimas baigiamas galutiniu arbitražo teismo sprendimu arba šio straipsnio 2 ir 4 dalyse nustatytais pagrindais priimta arbitražo teismo nutartimi.
-
-2. Arbitražo teismas priima nutartį nutraukti arbitražinį nagrinėjimą, kai:
-
-1) byla negali būti nagrinėjama arbitraže;
-
-2) yra įsiteisėjęs teismo sprendimas, priimtas dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu;
-
-3) yra įsiteisėjęs arbitražo teismo sprendimas, priimtas dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu;
-
-4) ieškovas atsisakė ieškinio, nebent atsakovas prieštarauja dėl ieškinio atsisakymo ir arbitražo teismas pripažįsta atsakovo teisinį interesą galutinai išspręsti ginčą;
-
-5) šalys sudarė taikos sutartį arba arbitražo teismas nusprendė pabaigti arbitražo procesą nutartimi šio įstatymo 47 straipsnio 1 dalies 2 punkte nustatyta tvarka;
-
-6) fizinis asmuo, kuris buvo viena iš bylos šalių, mirė, o jo teisių perėmimas negalimas;
-
-7) juridinis asmuo, kuris buvo viena iš bylos šalių, likviduotas, o jo teisių perėmimas negalimas;
-
-8) nebeįmanoma nagrinėti arbitražo bylos ir ieškovas neturi teisės ateityje kreiptis į arbitražą dėl to paties ginčo išsprendimo.
-
-3. Nutraukus arbitražinį nagrinėjimą, šalims neleidžiama pakartotinai kreiptis į arbitražą dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu.
-
-4. Arbitražo teismas turi teisę priimti nutartį palikti prašymą dėl arbitražo pradžios arba ieškinį nenagrinėtą, kai:
-
-1) prašymą dėl arbitražo pradžios padavė arba ieškinį pareiškė neveiksnus fizinis asmuo;
-
-2) prašymą dėl arbitražo pradžios ieškovo vardu padavė arba ieškinį ieškovo vardu pareiškė neįgaliotas vesti arbitražo bylą asmuo;
-
-3) arbitražo teisme nagrinėjamas ginčas tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu;
-
-4) abi šalys, neprašiusios nagrinėti bylos joms nedalyvaujant, neatvyko be svarbių priežasčių;
-
-5) prašymą dėl arbitražo pradžios padavęs ar ieškinį pareiškęs asmuo nesumokėjo nustatytų arbitražo išlaidų;
-
-6) ieškovas nepareiškia ieškinio pagal šio įstatymo 30 ar 32 straipsnio reikalavimus;
-
-7) šalys, kurioms neiškelta bankroto byla, prašo ginčo nenagrinėti arbitraže remdamosi šio straipsnio 8 dalimi;
-
-8) arbitražo teismas nusprendžia, kad tolesnis arbitražo bylos nagrinėjimas negalimas ar neįmanomas.
-
-5. Prašymą dėl arbitražo pradžios arba ieškinį palikus nenagrinėtą, šalys nepraranda galimybės pakartotinai kreiptis į arbitražą dėl ginčo išsprendimo.
-
-6. Arbitražo teismo nutartis įsiteisėja nuo priėmimo momento ir šalių turi būti vykdoma.
-
-7. Bankroto bylos iškėlimas arbitražinio susitarimo šaliai ar kitos bankroto procedūros arbitražinio susitarimo šaliai taikymas nedaro įtakos arbitražo procesui, arbitražinio susitarimo galiojimui ir taikymui, galimybei ginčą spręsti arbitraže ir arbitražo teismo kompetencijai spręsti ginčą, išskyrus šio straipsnio 8 ir 9 dalyse nurodytas išimtis.
-
-8. Įmonė, kuriai iškelta bankroto byla, negali sudaryti naujo arbitražinio susitarimo. Turtiniai reikalavimai arbitražinio susitarimo šaliai, kuriai iškelta bankroto byla, nagrinėjami bankroto bylą iškėlusiame teisme, kai to prašo visos arbitražinio susitarimo šalys, kurioms bankroto byla neiškelta.
-
-9. Jeigu turtiniai reikalavimai arbitražinio susitarimo šaliai, kuriai iškelta bankroto byla, nagrinėjami arbitraže, arbitražo teismas turi suteikti protingą laiko tarpą bankroto administratoriui susipažinti su arbitražo byla ir pasirengti jos nagrinėjimui, o ieškovas turi pranešti bankroto bylą nagrinėjančiam teismui apie arbitraže nagrinėjamus reikalavimus ir pateikti juos pagrindžiančius paaiškinimus ir įrodymų aprašą. Arbitražo teismas sprendimu nustato šalių tarpusavio reikalavimų dydį. Priėmus arbitražo teismo sprendimą, bankroto bylą nagrinėjantis teismas patvirtina arbitražo teismo sprendimu nustatytus šalių tarpusavio reikalavimus. Bankroto bylą nagrinėjantis teismas gali netvirtinti arbitraže nagrinėjamų kreditoriaus reikalavimų tol, kol bus priimtas tų reikalavimų dydį patvirtinantis arbitražo teismo sprendimas, tačiau teismas patvirtina visus neginčijamus reikalavimus (neginčijamą jų dalį) Lietuvos Respublikos įmonių bankroto įstatymo nustatyta tvarka.
-
-10. Arbitražo teismo įgaliojimai pasibaigia priėmus galutinį arbitražo teismo sprendimą (išskyrus šio įstatymo 45 straipsnyje ir 50 straipsnio 6 dalyje numatytus atvejus), nutraukus arbitražo bylą ar palikus prašymą dėl arbitražo pradžios arba ieškinį nenagrinėtą.
-
-VIII SKYRIUS
-
-ARBITRAŽO TEISMO SPRENDIMO PANAIKINIMAS
-
-50 straipsnis. Arbitražo teismo sprendimo panaikinimo pagrindai ir tvarka
-
-1. Arbitražo teismo sprendimas gali būti panaikintas, pateikus skundą Lietuvos apeliaciniam teismui šiame straipsnyje nustatytais pagrindais.
-
-2. Lietuvos apeliacinis teismas, priėmęs skundą dėl priimto arbitražo teismo sprendimo, gali vienos iš šalių prašymu išimtiniais atvejais sustabdyti arbitražo teismo sprendimo vykdymą.
-
-3. Lietuvos apeliacinis teismas gali panaikinti arbitražo teismo sprendimą, kai padavusi skundą šalis pateikia įrodymus, kad:
-
-1) viena iš arbitražinio susitarimo šalių pagal taikomus įstatymus buvo neveiksni arba arbitražinis susitarimas negalioja pagal šalių susitarimu taikomus įstatymus, o kai šalys dėl arbitražiniam susitarimui taikomų įstatymų nesusitarė, – pagal valstybės, kurioje buvo priimtas arbitražo teismo sprendimas, įstatymus, arba
-
-2) šaliai, prieš kurią norima remtis arbitražo teismo sprendimu, nebuvo reikiamai pranešta apie arbitro paskyrimą ar apie arbitražinį nagrinėjimą arba kitaip nebuvo sudaryta galimybė pateikti savo paaiškinimus; arba
-
-3) arbitražo teismo sprendimas buvo priimtas dėl ginčo ar ginčo dalies, kuri nebuvo perduota arbitražui. Jeigu galima atskirti ginčo dalį, kuri buvo perduota arbitražui, ta arbitražo teismo sprendimo dalis, kuria yra išspręsti arbitražui perduoti klausimai, gali būti pripažįstama ir vykdoma; arba
-
-4) arbitražo teismo sudėtis ar arbitražo procesas neatitiko šalių susitarimo ir (arba) imperatyvių šio įstatymo nuostatų; arba
-
-5) ginčas pagal Lietuvos Respublikos įstatymus negali būti perduotas arbitražui; arba
-
-6) arbitražo teismo sprendimas prieštarauja Lietuvos Respublikos viešajai tvarkai.
-
-4. Lietuvos apeliacinis teismas ex officio patikrina, ar skundžiamas arbitražo teismo sprendimas neprieštarauja šio straipsnio 3 dalies 5 ir 6 punktuose nustatytiems pagrindams.
-
-5. Lietuvos apeliacinis teismas atsisako priimti skundą, kuris paduotas praėjus vienam mėnesiui po arbitražo teismo sprendimo priėmimo, o kai skundas paduotas dėl šio įstatymo 45 straipsnyje numatyto papildomo sprendimo, – nuo tos dienos, kurią arbitražo teismas priėmė papildomą sprendimą.
-
-6. Lietuvos apeliacinis teismas, gavęs skundą dėl arbitražo teismo sprendimo, gali motyvuota nutartimi, jeigu to pageidauja ginčo šalis, sustabdyti bylą dėl arbitražo teismo sprendimo panaikinimo, kad arbitražo teismas galėtų atnaujinti nagrinėjimą arba imtis kitų veiksmų, kurie, Lietuvos apeliacinio teismo nuomone, pašalintų arbitražo teismo sprendimo naikinimo pagrindą.
-
-7. Šio straipsnio 6 dalyje numatyta Lietuvos apeliacinio teismo nutartis dėl bylos sustabdymo, taip pat nutartis dėl arbitražo teismo sprendimo panaikinimo ar atsisakymo panaikinti arbitražo teismo sprendimą gali būti skundžiama Lietuvos Aukščiausiajam Teismui Civilinio proceso kodekso nustatyta tvarka.
-
-IX SKYRIUS
-
-UŽSIENIO ARBITRAŽO SPRENDIMŲ PRIPAŽINIMAS IR VYKDYMAS
-
-51 straipsnis. Užsienio arbitražo sprendimų pripažinimas ir vykdymas
-
-1. Arbitražo teismo sprendimas, priimtas bet kurioje valstybėje – 1958 m. Niujorko konvencijos dėl užsienio arbitražų sprendimų pripažinimo ir vykdymo dalyvėje, Lietuvos Respublikoje pripažįstamas ir vykdomas pagal šio straipsnio ir 1958 m. Niujorko konvencijos dėl užsienio arbitražų sprendimų pripažinimo ir vykdymo nuostatas.
-
-2. Šalis, prašanti pripažinti ar pripažinti ir vykdyti užsienio arbitražo sprendimą, pateikia prašymą Lietuvos apeliaciniam teismui. Prie šio prašymo pridedami prašomo pripažinti ar pripažinti ir vykdyti užsienio arbitražo sprendimo ir arbitražinio susitarimo originalai arba tinkamai patvirtinti jų nuorašai. Jeigu arbitražo sprendimas ar arbitražinis susitarimas surašyti ne valstybine kalba, šalis, kuri kreipiasi, turi pateikti tinkamai patvirtintus šių dokumentų vertimus į valstybinę kalbą.
-
-3. Dėl prašymo pripažinti ar pripažinti ir vykdyti užsienio arbitražo sprendimą Lietuvos apeliacinis teismas priima nutartį. Ši nutartis įsiteisėja nuo priėmimo dienos. Lietuvos apeliacinio teismo nutartis gali būti skundžiama Lietuvos Aukščiausiajam Teismui per 30 dienų nuo jos priėmimo dienos. Skundo dėl šioje dalyje numatytos Lietuvos apeliacinio teismo nutarties padavimui ir bylų procesui pagal šį skundą mutatis mutandis taikomos Civilinio proceso kodekso XVII skyriaus nuostatos.
-
-4. Įsiteisėjus nutarčiai dėl užsienio arbitražo sprendimo pripažinimo ar pripažinimo ir vykdymo, užsienio arbitražo sprendimas yra vykdytinas dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
-
 Pakeitimai:
 
 1.
@@ -680,20 +522,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-210, 2001-03-13, Žin., 2001, Nr. 28-894 (2001-03-30), i. k. 1011010ISTA00IX-210
 
 Lietuvos Respublikos komercinio arbitražo įstatymo 11 straipsnio papildymo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1703, 2008-07-15, Žin., 2008, Nr. 87-3463 (2008-07-31), i. k. 1081010ISTA00X-1703
-
-Lietuvos Respublikos komercinio arbitražo įstatymo IX skyriaus pripažinimo netekusiu galios įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2089, 2012-06-21, Žin., 2012, Nr. 76-3932 (2012-06-30), i. k. 1121010ISTA0XI-2089
-
-Lietuvos Respublikos komercinio arbitražo įstatymo pakeitimo įstatymas
 
