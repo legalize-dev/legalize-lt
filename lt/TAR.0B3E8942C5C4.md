@@ -4,7 +4,7 @@ identifier: "TAR.0B3E8942C5C4"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-12-13"
-last_updated: "2001-12-21"
+last_updated: "2003-03-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0B3E8942C5C4"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,9 +19,9 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Įstatymas skelbtas: Žin.,
+Įstatymas skelbtas: Žin., 1991,
 
-1991, Nr. 2-25
+Nr. 2-25
 
 Neoficialus įstatymo tekstas
 
@@ -81,75 +81,37 @@ tarptautinės sutartys.
 
 3
 
-straipsnis. Teisės į darbą įgyvendinimas
+straipsnis. Neteko galios nuo 2003 m.
 
-Piliečiai
-
-teisę į darbą įgyvendina tiesiogiai kreipdamiesi į darbdavius arba darbo biržos
-
-tarpininkavimu. Samdos sutartis sudaroma piliečio ir darbdavio susitarimų
-
-įstatymu nustatyta tvarka.
-
-Piliečiai
-
-savo noru gali nedirbti.
-
-4
-
-straipsnis. Teisė įsidarbinti pagal sutartį (kontraktą)
-
-Piliečiai
-
-įstatymų nustatyta tvarka gali sudaryti samdos sutartis (kontraktus) su
-
-darbdaviais, esančiais kitose valstybėse arba nenuolatinėje sutartį
-
-sudarančiojo gyvenamojoje vietovėje.
-
-Jeigu
-
-sudarant tokią sutartį tarpininkauja darbo birža, tai jos sudarymo ir su tuo
-
-susijusių papildomų išlaidų kompensavimo tvarką nustato Lietuvos Respublikos
-
-Vyriausybė.
-
-Tarpininkauti
-
-dėl piliečių darbo užsienyje - išimtinė valstybės teisė, kurią įgyvendina
-
-Lietuvos darbo birža. Kitos organizacijos gali tarpininkauti dėl piliečių
-
-įsidarbinimo užsienyje tik turėdamos atitinkamus įgaliojimus (licenzijas).
-
-Įgaliojimus
-
-(licenzijas) išduoda Lietuvos Respublikos socialinės apsaugos ir darbo
-
-ministerija.
+balandžio 2 d.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996
+Nr. IX-1366,
 
-02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 5 straipsnis. Bedarbiai
 
-Bedarbiais laikomi nedirbantys darbingo amžiaus
+Bedarbiais laikomi
 
-darbingi asmenys, nesimokantys dieninėse mokymo įstaigose, užsiregistravę
+nedirbantys darbingo amžiaus darbingi asmenys, nesimokantys dieninėse mokymo įstaigose, neturintys pakankamų pragyvenimo lėšų,
 
-gyvenamosios vietos valstybinėje darbo biržoje kaip ieškantys darbo ir
+užsiregistravę gyvenamosios vietos teritorinėje darbo biržoje kaip ieškantys
 
-pasirengę profesiniam mokymuisi.
+darbo ir pasirengę priimti pasiūlymą įsidarbinti arba mokytis profesijos.
+
+Neturinčiais pakankamų pragyvenimo lėšų laikomi
+
+asmenys, kurie neturi draudžiamųjų pajamų ir nėra įregistravę įmonės arba
+
+ūkininko ūkio.
 
 Bedarbių registravimo,
 
-pašalpų jiems skyrimo ir mokėjimo tvarką
+pašalpų jiems skyrimo ir mokėjimo tvarką nustato socialinės apsaugos ir darbo
 
-nustato socialinės apsaugos ir darbo ministras.
+ministras.
 
 Straipsnio pakeitimai:
 
@@ -160,6 +122,10 @@ Nr. I-1191, 1996
 Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
+
+Nr. IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 II skyrius. PILIEČIŲ UŽIMTUMO TEISĖS IR GARANTIJOS
 
@@ -201,15 +167,13 @@ fondo lėšas sudaro darbdaviams privalomos draudimo nuo nedarbo įmokos bei kit
 
 šio įstatymo 13 straipsnyje nurodytos lėšos.
 
-Privalomojo
+Privalomojo draudimo
 
-draudimo nuo nedarbo įmokos yra privalomojo valstybinio socialinio draudimo
+nuo nedarbo įmokos yra privalomojo valstybinio socialinio draudimo įmokų pagal tarifus dalis, kurios dydį
 
-įmokų pagal tarifus dalis, kurios dydį kiekvienais metais nustato Lietuvos
+kiekvienais metais nustato Lietuvos Respublikos Seimas, tvirtindamas
 
-Respublikos Vyriausybė, tvirtindama Valstybinio socialinio draudimo biudžeto
-
-fondą.
+Valstybinio socialinio draudimo fondo biudžeto rodiklius.
 
 Valstybinio
 
@@ -235,27 +199,13 @@ priemonėms finansuoti, ir Užimtumo fondo rezervas, į kurį sukaupiama iki 20
 
 procentų metinių Užimtumo fondo lėšų.
 
-Užimtumo
+Užimtumo fondo lėšų paskirstymą ir naudojimą šio
 
-fondo sudarymo ir naudojimo tvarką nustato bei Užimtumo fondo sąmatą tvirtina
+įstatymo 14 straipsnyje nurodytoms priemonėms finansuoti svarsto Lietuvos
 
-Užimtumo taryba prie Lietuvos Respublikos socialinės apsaugos ir darbo
+Respublikos trišalė taryba. Užimtumo fondo sudarymo ir naudojimo tvarką bei
 
-ministerijos. Jai vadovauja ministras arba jo įgaliotas šios tarybos narys.
-
-Užimtumo taryba sudaroma iš 15 lygiateisių narių, kurie po lygiai atstovauja
-
-darbuotojų (profesinių sąjungų, susivienijimų, asociacijų ir kt.), darbdavių
-
-(susivienijimų, asociacijų ir kt.) organizacijoms bei valstybės valdymo
-
-institucijoms. Darbuotojų ir darbdavių atstovus deleguoja jų atstovaujamos
-
-organizacijos, o valstybės valdymo institucijų atstovus skiria Lietuvos
-
-Respublikos Vyriausybė. Užimtumo tarybos nuostatus tvirtina Lietuvos
-
-Respublikos Vyriausybė.
+Užimtumo fondo sąmatą tvirtina socialinės apsaugos ir darbo ministras.
 
 Lietuvos
 
@@ -268,6 +218,10 @@ Straipsnio pakeitimai:
 Nr. I-1191, 1996
 
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
+
+Nr. IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 14 straipsnis. Užimtumo fondo lėšų naudojimas
 
@@ -293,23 +247,27 @@ subsidijoms šio įstatymo 7 straipsnyje nurodytiems darbo rinkoje papildomai
 
 remiamiems bedarbiams įdarbinti;
 
-4) Užimtumo fondo remiamiems darbams finansuoti;
+4) vietinių užimtumo
 
-5) viešiesiems darbams finansuoti;
+iniciatyvų projektų įgyvendinimui finansuoti;
 
-6) bedarbio pašalpoms mokėti;
+5) Užimtumo fondo remiamiems darbams finansuoti;
 
-7) paskoloms, teikiamoms bedarbiams, norintiems
+6) viešiesiems darbams finansuoti;
+
+7) bedarbio pašalpoms mokėti;
+
+8) paskoloms, teikiamoms bedarbiams, norintiems
 
 organizuoti savo verslą;
 
-8) Lietuvos darbo biržos ir Lietuvos darbo rinkos
+9) Lietuvos darbo biržos ir Lietuvos darbo rinkos
 
 mokymo tarnybos veiklai finansuoti;
 
-9) rezerviniam fondui, kuris naudojamas centralizuotai
+10) rezerviniam fondui, kuris naudojamas
 
-vykdomoms priemonėms, finansuoti.
+centralizuotai vykdomoms priemonėms, finansuoti.
 
 Straipsnio pakeitimai:
 
@@ -324,6 +282,10 @@ Nr. VIII-1291,
 Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
+
+Nr. IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 IV skyrius. SOCIALINĖS GARANTIJOS BEDARBIAMS
 
@@ -345,13 +307,65 @@ stažą per paskutinius 3 metus, jeigu darbo birža nepasiūlė darbo, atitinkan
 
 jų profesinį pasirengimą bei sveikatos būklę, arba profesinio mokymo.
 
-Teisę
+Teisę į bedarbio pašalpą taip pat
 
-į bedarbio pašalpą taip pat turi bedarbiai, kurie iki užsiregistravimo neturėjo
+turi bedarbiai, kurie iki užsiregistravimo neturėjo šio straipsnio pirmojoje
 
-šio straipsnio pirmojoje dalyje nurodyto valstybinio socialinio draudimo stažo
+dalyje nustatyto valstybinio socialinio draudimo stažo dėl šių priežasčių:
 
-dėl šio įstatymo 161 straipsnio penktojoje dalyje nurodytų svarbių priežasčių.
+1) buvo dirbę pagal darbo sutartį
+
+ir atleisti iš darbo:
+
+a) darbuotojo pareiškimu pagal Lietuvos
+
+Respublikos darbo kodekso (toliau – DK) 127 straipsnio 2 dalį;
+
+b) dėl nepriklausančių nuo darbuotojo
+
+aplinkybių pagal DK 128 straipsnio 1 dalį;
+
+c) darbdavio iniciatyva, kai nėra
+
+darbuotojo kaltės, pagal DK 129 straipsnį;
+
+d) pagal DK 136 straipsnio 1 dalies 4, 6
+
+punktus ir 2 dalį;
+
+e) darbdavio bankroto atveju pagal DK 137
+
+straipsnį;
+
+2) yra pripažintų neveiksniais asmenų
+
+globėjai, I ir II grupių invalidų (šeimos narių ir artimų giminaičių) slaugytojai;
+
+3)
+
+atliko privalomąją nuolatinę pradinę karo tarnybą, jei iki pašaukimo į tarnybą
+
+jie nedirbo pagal darbo sutartį;
+
+4) yra profesinių, aukštesniųjų ir aukštųjų mokyklų
+
+absolventai. Teisę į bedarbio pašalpą jie turi vienerius metus nuo atitinkamo
+
+kvalifikacijos pažymėjimo ar diplomo išdavimo dienos (šiame įstatyme
+
+absolventais laikomi asmenys, baigę profesinio mokymo I, II, III ir IV pakopos
+
+programas, aukštesniųjų studijų programas, nuosekliųjų universitetinių arba
+
+neuniversitetinių studijų bet kurios pakopos programas);
+
+5) atliko laisvės atėmimo bausmę, o laisvės atėmimo
+
+laikotarpis buvo ilgesnis kaip 6 mėnesiai;
+
+6) yra motina arba tėvas, nedirbusi (nedirbęs) dėl to,
+
+kad augino vaiką iki 8 metų.
 
 Bedarbiai,
 
@@ -385,6 +399,10 @@ Nr. I-1191, 1996
 
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
+Nr. IX-1366, 2003-03-13,
+
+Žin., 2003, Nr. 32-1313 (2003-04-02)
+
 16 straipsnis. Bedarbio pašalpa
 
 Bedarbio
@@ -397,11 +415,139 @@ pašalpą nustatyta tvarka skiria ir moka darbo birža bedarbiams:
 
 punktą) dalyse, – aštuntą dieną nuo užsiregistravimo;
 
-2) nurodytiems šio įstatymo
+2) nurodytiems šio įstatymo 15 straipsnio 1 dalyje,
 
-15 straipsnio pirmojoje dalyje, atleistiems iš darbo pagal darbuotojo
+atleistiems iš darbo šalių susitarimu pagal DK 125 straipsnį, darbuotojo
 
-pareiškimą (Darbo sutarties įstatymo 28 straipsnio pirmoji dalis), šalių
+pareiškimu pagal DK 127 straipsnio 1 dalį, pagal DK 136 straipsnio 1 dalies 2
+
+ir 3 punktus ir 3 dalį, pagal DK 139 straipsnio 1 dalį. Pašalpa mokama praėjus
+
+3 mėnesiams nuo užsiregistravimo darbo biržoje;
+
+3)
+
+nurodytiems šio įstatymo 15 straipsnio 2 dalies 4 punkte profesinių,
+
+aukštesniųjų ir aukštųjų mokyklų absolventams – praėjus 3 mėnesiams nuo
+
+užsiregistravimo darbo biržoje;
+
+4)
+
+nurodytiems šio įstatymo 15 straipsnio trečiojoje ir ketvirtojoje dalyse, – kai
+
+jie įvykdo 15 straipsnio trečiojoje dalyje nurodytas sąlygas.
+
+Pašalpa
+
+mokama kas mėnesį, bet ne ilgiau kaip 6 mėnesius per 12 mėnesių laikotarpį. Į
+
+bedarbio pašalpos mokėjimo laikotarpį neįskaitomas laikas, kurį bedarbis dirbo
+
+viešuosius darbus, Užimtumo fondo remiamus darbus arba mokėsi pagal profesinio
+
+mokymo programas.
+
+Bedarbiams,
+
+iki senatvės pensijos amžiaus likus ne ilgiau kaip 5 metams, pašalpos mokėjimas
+
+pratęsiamas dar du mėnesius.
+
+Bedarbiams,
+
+iki senatvės pensijos amžiaus likus ne ilgiau kaip 2 metams, turintiems ne
+
+mažesnį kaip 15 metų valstybinio socialinio pensijų draudimo stažą, jiems
+
+sutikus, bedarbio pašalpos mokėjimas pratęsiamas, jos negaunantiems – mokama
+
+valstybės remiamų pajamų dydžio bedarbio pašalpa iki senatvės pensijos amžiaus.
+
+Bedarbio pašalpos mokėjimo laikotarpiu jiems netaikomos aktyvios darbo rinkos
+
+politikos priemonės, įsidarbinus – pašalpos mokėjimas sustabdomas.
+
+Straipsnio pakeitimai:
+
+Nr. I-1191, 1996
+
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
+
+Nr. VIII-1291,
+
+1999 07 07, Žin., 1999, Nr. 65-2086 (1999 07 28)
+
+Nr. IX-687,
+
+2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
+
+Nr. IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+
+16(1) straipsnis. Bedarbio pašalpos dydis
+
+Bedarbio pašalpos dydis priklauso nuo bedarbio
+
+valstybinio socialinio draudimo stažo bei darbo netekimo priežasties.
+
+Bedarbiams, turintiems teisę į bedarbio pašalpą pagal
+
+šio įstatymo 15 straipsnio pirmąją dalį, bedarbio pašalpa apskaičiuojama pagal
+
+formulę:
+
+P = RP + (2 * MGL – RP) * (s/S), kurioje:
+
+P – bedarbio pašalpa;
+
+RP – to mėnesio, už kurį mokama bedarbio pašalpa,
+
+Vyriausybės patvirtintos valstybės remiamos pajamos;
+
+MGL – to mėnesio, už kurį mokama bedarbio pašalpa,
+
+Vyriausybės patvirtintas minimalus gyvenimo lygis;
+
+s – bedarbio valstybinio socialinio draudimo stažas;
+
+S – stažo vardiklis. S=25 metai. Tai stažas, kurį
+
+įgijęs bedarbis gauna maksimalią bedarbio pašalpą.
+
+Bedarbio pašalpa visais atvejais negali būti mažesnė
+
+už Vyriausybės patvirtintas valstybės remiamas pajamas ir neturi viršyti dviejų
+
+minimalių gyvenimo lygių.
+
+Bedarbiams, nurodytiems šio įstatymo 15 straipsnio 2,
+
+3 ir 4 dalyse, mokama valstybės remiamų pajamų dydžio bedarbio pašalpa.
+
+Bedarbiams, gaunantiems iš valstybės ar socialinio
+
+draudimo biudžetų pensiją, mažesnę už priklausančią bedarbio (mokymo) pašalpą,
+
+mokamas priklausančios bedarbio pašalpos ir gaunamos pensijos skirtumas.
+
+Įstatymas papildytas straipsniu:
+
+Nr. I-1191, 1996
+
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
+
+Straipsnio pakeitimai:
+
+Nr. IX-687,
+
+2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
+
+Nr. IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 susitarimu (Darbo sutarties įstatymo 27 straipsnis), atleistiems iš darbo
 
@@ -601,11 +747,11 @@ nutraukimas
 
 Bedarbio
 
-pašalpa sumažinama 50 procentų, jeigu bedarbis vieną kartą atsisakė siūlomo darbo
+pašalpa sumažinama 50 procentų, jeigu bedarbis vieną kartą atsisakė siūlomo
 
-šio įstatymo 17 straipsnio pirmojoje dalyje nurodytomis sąlygomis ir vieną
+darbo šio įstatymo 17 straipsnio pirmojoje dalyje nurodytomis sąlygomis ir
 
-kartą atsisakė profesinio mokymo.
+vieną kartą atsisakė profesinio mokymo.
 
 Bedarbiui
 
@@ -711,47 +857,9 @@ Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 
-22 straipsnis. Darbo biržos funkcijos
+22 straipsnis. Neteko
 
-Darbo birža:
-
-1) analizuoja darbo paklausą ir pasiūlą, prognozuoja galimus
-
-darbo rinkos pakitimus;
-
-2) registruoja laisvas darbo vietas ir bedarbius;
-
-3) ieško laisvų darbo vietų ir informuoja norinčius
-
-įdarbinti ir įsidarbinti;
-
-4) tarpininkauja Lietuvos Respublikos piliečiams ir
-
-nuolat gyvenantiems Lietuvoje asmenims įsidarbinant;
-
-5) tarpininkauja bei pati organizuoja bedarbių ir
-
-darbuotojų, įspėtų apie atleidimą iš darbo, profesinį mokymą;
-
-6) tarpininkauja Lietuvos Respublikos piliečiams ir
-
-nuolat gyvenantiems Lietuvoje asmenims įsidarbinant užsienyje;
-
-7) nustatyta tvarka disponuoja
-
-iš Užimtumo fondo gautomis lėšomis ir viešai skelbia, kaip jos naudojamos,
-
-teikia pasiūlymus dėl Užimtumo fondo lėšų panaudojimo;
-
-8) dalyvauja rengiant gyventojų užimtumo programas;
-
-9) kartu su savivaldybėmis organizuoja viešuosius
-
-darbus, siunčia jų atlikti;
-
-10) organizuoja Užimtumo fondo remiamus darbus;
-
-11) skiria bedarbio pašalpas.
+galios nuo 2003 m. balandžio 2 d.
 
 Straipsnio pakeitimai:
 
@@ -759,13 +867,17 @@ Nr. I-1191, 1996
 
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
-Nr. VIII-1291, 1999
+Nr. VIII-1291,
 
-07 07, Žin., 1999, Nr. 65-2086 (1999 07 28)
+1999 07 07, Žin., 1999, Nr. 65-2086 (1999 07 28)
 
 Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
+
+Nr. IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 23
 
@@ -807,15 +919,13 @@ Nr. I-1191, 1996
 
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
-VI skyrius. GYVENTOJŲ UŽIMTUMO ĮSTATYMO LAIKYMOSI KONTROLĖ
+VI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
-24
+Skyriaus pavadinimas keistas:
 
-straipsnis. Gyventojų užimtumo įstatymo laikymosi kontrolė
+Nr. IX-1366, 2003-03-13,
 
-Gyventojų
-
-užimtumo įstatymo laikymąsi kontroliuoja Valstybinė darbo inspekcija.
+Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 25 straipsnis. Ginčų sprendimas
 
@@ -875,21 +985,23 @@ Pakeitimai:
 
 1. Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191,
 
-18-457 (1996 02 28)
+1996 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 LIETUVOS RESPUBLIKOS GYVENTOJŲ UŽIMTUMO ĮSTATYMO PAKEITIMO IR PAPILDYMO
 
 ĮSTATYMAS
 
+Keistas įstatymo pavadinimas
+
 2.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-608, 1998 01 15, Žin., 1998, Nr.
+Nr. VIII-608,
 
-8-165 (1998 01 25)
+1998 01 15, Žin., 1998, Nr. 8-165 (1998 01 25)
 
 BEDARBIŲ RĖMIMO ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
@@ -933,13 +1045,33 @@ RĖMIMO ĮSTATYMO 5, 7, 8, 11, 13, 14, 16, 16(1), 19, 20(1), 22 STRAIPSNIŲ
 
 PAKEITIMO ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+
+BEDARBIŲ
+
+RĖMIMO ĮSTATYMO 4, 5, 7, 11, 12, 14, 15, 16, 16(1), 21, 24 STRAIPSNIŲ PAKEITIMO
+
+BEI PAPILDYMO, VI SKYRIAUS PAVADINIMO PAKEITIMO, ĮSTATYMO PAPILDYMO 20(2)
+
+STRAIPSNIU IR 3 BEI 22 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-01-10)
+Aušrinė Trapinskienė (2003-04-03)
 
 autrap@lrs.lt
 
@@ -975,9 +1107,9 @@ registruojami valstybinėje darbo biržoje ir jiems taikomos šio ir kitų įsta
 
 nustatytos valstybinės užimtumo ir socialinės garantijos.
 
-Viešųjų darbų atlikimo tvarką nustato Lietuvos
+Viešųjų darbų atlikimo tvarką nustato Lietuvos Respublikos
 
-Respublikos Vyriausybė ar jos įgaliota institucija.
+Vyriausybė ar jos įgaliota institucija.
 
 Straipsnio pakeitimai:
 
@@ -993,11 +1125,11 @@ Užimtumo
 
 fondo remiami darbai organizuojami bedarbiams, nurodytiems šio įstatymo 15
 
-straipsnio trečiojoje ir ketvirtojoje dalyse, taip pat 19 straipsnyje nurodyta
+straipsnio trečiojoje ir ketvirtojoje dalyse, taip pat 19 straipsnyje nurodyta tvarka
 
-tvarka baigusiems profesinį mokymą, kuriems darbo birža negali pasiūlyti
+baigusiems profesinį mokymą, kuriems darbo birža negali pasiūlyti nuolatinio
 
-nuolatinio darbo.
+darbo.
 
 Užimtumo
 
@@ -1035,47 +1167,55 @@ Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 
+20(2) straipsnis. Vietinių užimtumo
+
+iniciatyvų projektų įgyvendinimas
+
+Vietinių užimtumo iniciatyvų projektai – tai naujų
+
+darbo vietų kūrimo projektai, padedantys sutelkti vietos bendruomenės, įmonių,
+
+įstaigų ir trišalių socialinių partnerių pastangas didinti savivaldybės
+
+gyventojų užimtumą plėtojant vietos socialinę ekonominę infrastruktūrą.
+
+Vietinių užimtumo iniciatyvų
+
+projektai gali būti įgyvendinami savivaldybių (seniūnijų) teritorijose, kuriose
+
+nedarbo lygis viršija vidutinį šalies nedarbo lygį arba kuriose dėl grupės
+
+darbuotojų atleidimų numatomas toks nedarbo lygis. Šie projektai skirti
+
+teritorinėse darbo biržose užsiregistravusiems bedarbiams įdarbinti.
+
+Vietinių užimtumo iniciatyvų
+
+projektų įgyvendinimą organizuoja Lietuvos darbo birža prie Socialinės apsaugos
+
+ir darbo ministerijos.
+
+Vietinių užimtumo iniciatyvų
+
+projektų įgyvendinimas iš dalies finansuojamas iš Lietuvos Respublikos
+
+valstybės biudžeto, savivaldybių biudžetų bei Užimtumo fondo lėšų.
+
+Vietinių užimtumo iniciatyvų projektų rengimo,
+
+atrankos, įgyvendinimo finansavimo ir kontrolės tvarką nustato socialinės
+
+apsaugos ir darbo ministras.
+
+Įstatymas papildytas
+
+straipsniu:
+
+Nr. IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+
 V skyrius. LIETUVOS DARBO BIRŽA
-
-21
-
-straipsnis. Darbo biržos struktūra
-
-Valstybines
-
-gyventojų užimtumo garantijas darbo rinkoje įgyvendina Lietuvos darbo birža
-
-prie Socialinės apsaugos ir darbo ministerijos. Ją sudaro Respublikinė bei
-
-teritorinės darbo biržos.
-
-Gyventojų
-
-užimtumo klausimams nagrinėti prie darbo biržų steigiamos visuomeniniais
-
-pagrindais veikiančios trišalės komisijos. Jos sudaromos iš vienodo skaičiaus
-
-lygiateisių narių: darbuotojų (profesinių sąjungų, susivienijimų, asociacijų ir
-
-kt.), darbdavių (susivienijimų, asociacijų ir kt.) bei valstybės valdymo organų
-
-atstovų. Darbuotojų ir darbdavių atstovus deleguoja minėtos organizacijos, o
-
-valstybės valdymo organų atstovus - skiria Lietuvos Respublikos Vyriausybė ir
-
-savivaldybės.
-
-Darbo
-
-biržos ir trišalės komisijos nuostatus tvirtina Lietuvos Respublikos
-
-Vyriausybė.
-
-Straipsnio pakeitimai:
-
-Nr. I-1191, 1996
-
-02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 10 straipsnis. Darbdavio pareigos
 
@@ -1135,6 +1275,14 @@ Nr. VIII-1291,
 
 bedarbiai
 
+Bedarbiai, turintys
+
+arba galintys turėti sunkumų susirasti darbą dėl nepakankamos kvalifikacijos ar darbo patirties, ilgalaikio
+
+nedarbo ar darbingumo praradimo, gali būti papildomai remiami priimant juos į
+
+darbą.
+
 Darbo rinkoje papildomai remiami bedarbiai, taikant
 
 jiems šio įstatymo 8 straipsnyje nustatytą užimtumo rėmimą, yra:
@@ -1171,9 +1319,9 @@ asmenys, kuriems iki senatvės pensijos amžiaus likę ne ilgiau kaip 5 metai;
 
 laisvės atėmimo laikotarpis buvo ilgesnis negu 6 mėnesiai.
 
-Šio straipsnio pirmosios dalies 6 ir 7 punktuose
+Šio straipsnio antrosios dalies 7 punkte nurodyti
 
-nurodyti asmenys laikomi darbo rinkoje papildomai remiamais bedarbiais, kai jie
+asmenys laikomi darbo rinkoje papildomai remiamais bedarbiais, kai jie
 
 kreipiasi į darbo biržą ne vėliau kaip per 6 mėnesių laikotarpį, pasibaigus
 
@@ -1189,6 +1337,10 @@ Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 
+Nr. IX-1366, 2003-03-13,
+
+Žin., 2003, Nr. 32-1313 (2003-04-02)
+
 8 straipsnis. Darbo rinkoje
 
 papildomai remiamų bedarbių užimtumo rėmimas
@@ -1197,13 +1349,13 @@ Darbo biržos teikimu
 
 savivaldybės kasmet nustato darbdaviams I ir II grupių invalidų įdarbinimo arba
 
-papildomų darbo vietų skaičiaus steigimo kvotas nuo 2 iki 5 procentų nuo įmonės
+papildomų darbo vietų skaičiaus steigimo
 
-bendro darbuotojų skaičiaus, jeigu įmonėje
+kvotas nuo 2 iki 5 procentų nuo įmonės bendro darbuotojų skaičiaus, jeigu
 
-yra ne mažiau kaip 50 darbuotojų. Invalidai įdarbinami Invalidų socialinės
+įmonėje yra ne mažiau kaip 50 darbuotojų. Invalidai įdarbinami Invalidų
 
-integracijos įstatymo nustatyta tvarka.
+socialinės integracijos įstatymo nustatyta tvarka.
 
 Darbdaviai, nevykdantys
 
@@ -1333,11 +1485,11 @@ Tais
 
 atvejais, kai iki terminuotos samdos sutarties pabaigos liko mažiau laiko negu
 
-šiame straipsnyje numatyti įspėjimo terminai, darbdavys gali atleisti darbuotoją
+šiame straipsnyje numatyti įspėjimo terminai, darbdavys gali atleisti
 
-iš darbo savo iniciatyva, jei nėra darbuotojo kaltės, tik samdos sutarties
+darbuotoją iš darbo savo iniciatyva, jei nėra darbuotojo kaltės, tik samdos
 
-terminui pasibaigus.
+sutarties terminui pasibaigus.
 
 Jeigu
 
@@ -1353,9 +1505,9 @@ negali nutraukti samdos sutarties savo iniciatyva su darbuotojais, nurodytais
 
 šio įstatymo 8 straipsnyje, jei nėra jų kaltės ir bendras jų skaičius tarp
 
-dirbančiųjų yra mažesnis už savivaldybių nustatytą įdarbinimo ar papildomų darbo
+dirbančiųjų yra mažesnis už savivaldybių nustatytą įdarbinimo ar papildomų
 
-vietų skaičiaus steigimo kvotą.
+darbo vietų skaičiaus steigimo kvotą.
 
 Straipsnio pakeitimai:
 
@@ -1365,13 +1517,23 @@ Nr. IX-225, 2001 03 22, Žin., 2001, Nr.
 
 11 straipsnis. Laisvų darbo vietų registravimas
 
-Darbdaviai registruoja laisvas darbo vietas darbo
+Ieškantys darbuotojų
 
-biržoje, o ši viešai jas skelbia.
+darbdaviai turi informuoti teritorines darbo
 
-Laisvų
+biržas apie laisvas darbo vietas, darbo funkcijas ir darbo pobūdį, darbo
 
-darbo vietų darbo biržoje registravimo tvarką nustato socialinės apsaugos ir
+apmokėjimo ir kitas sąlygas bei pretendentams įsidarbinti keliamus
+
+kvalifikacinius reikalavimus.
+
+Teritorinės darbo
+
+biržos registruoja laisvas darbo vietas, viešai jas skelbia ir siūlo ieškantiems darbo asmenims.
+
+Laisvų darbo vietų
+
+registravimo teritorinėje darbo biržoje tvarką nustato socialinės apsaugos ir
 
 darbo ministras.
 
@@ -1384,6 +1546,10 @@ Nr. I-1191, 1996
 Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
+
+Nr. IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 III skyrius. GYVENTOJŲ UŽIMTUMO EKONOMINĖS PRIELAIDOS
 
@@ -1412,4 +1578,138 @@ Straipsnio pakeitimai:
 Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
+
+4 straipsnis. Tarpininkavimas įsidarbinant
+
+užsienyje
+
+Lietuvos darbo birža dėl Lietuvos Respublikos piliečių
+
+ir nuolat gyvenančių Lietuvoje asmenų įdarbinimo užsienyje tarpininkauja pagal
+
+Lietuvos Respublikos tarptautines sutartis arba sutartis, sudarytas su užsienio
+
+valstybės įdarbinimo tarpininkavimo agentūra ar darbdaviu.
+
+Kitos įmonės, įstaigos ir organizacijos gali
+
+tarpininkauti dėl piliečių įdarbinimo užsienyje tik turėdamos Vyriausybės
+
+įgaliotos institucijos išduotas licencijas.
+
+Licencijų
+
+tarpininkauti dėl Lietuvos Respublikos piliečių įdarbinimo užsienyje išdavimo
+
+tvarką tvirtina Vyriausybė arba jos įgaliota
+
+institucija.
+
+Straipsnio pakeitimai:
+
+Nr. I-1191, 1996
+
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
+
+Nr. IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+
+21 straipsnis. Lietuvos
+
+darbo biržos valdymo organizavimas
+
+Šiuo įstatymu ir jį
+
+įgyvendinančiais teisės aktais nustatytas paslaugas ir paramą bedarbiams bei
+
+ieškantiems darbo asmenims, taip pat darbdaviams, ieškantiems reikiamos kvalifikacijos
+
+darbuotojų, teikia Lietuvos darbo birža prie Socialinės apsaugos ir darbo
+
+ministerijos (toliau – Lietuvos darbo birža) ir jos teritorinės darbo biržos.
+
+Lietuvos darbo biržą
+
+steigia Lietuvos Respublikos Vyriausybė.
+
+Lietuvos darbo biržos
+
+nuostatus tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota
+
+institucija.
+
+Lietuvos darbo birža ir jos
+
+teritorinės darbo biržos yra valstybės įstaigos. Jos yra juridiniai asmenys,
+
+turi savo sąskaitas banke, antspaudus ir bendrą simboliką.
+
+Lietuvos darbo birža
+
+koordinuoja, kontroliuoja bei metodiškai vadovauja teritorinių darbo biržų
+
+darbui.
+
+Lietuvos darbo biržai
+
+vadovauja direktorius. Jį skiria ir atleidžia socialinės apsaugos ir darbo
+
+ministras Valstybės tarnybos įstatymo nustatyta tvarka. Lietuvos darbo biržos
+
+direktorius atskaitingas socialinės apsaugos ir darbo ministrui.
+
+Teritorines darbo biržas
+
+steigia ir jų nuostatus tvirtina Lietuvos darbo birža.
+
+Lietuvos darbo birža ir jos
+
+teritorinės darbo biržos yra išlaikomos iš Užimtumo fondo lėšų ir paslaugas teikia
+
+nemokamai.
+
+Darbo rinkos būklės bei darbo rinkos politikos
+
+priemonių ir paslaugų įgyvendinimo klausimams nagrinėti prie Lietuvos darbo
+
+biržos bei teritorinių darbo biržų steigiamos visuomeniniais pagrindais
+
+veikiančios trišalės komisijos. Jos sudaromos
+
+iš vienodo skaičiaus lygiateisių narių: darbuotojų (profesinių sąjungų,
+
+susivienijimų, asociacijų ir kt.), darbdavių (asociacijų, konfederacijų ir kt.)
+
+ir valstybės bei savivaldybių institucijų atstovų.
+
+Trišalės komisijos prie Lietuvos darbo biržos nuostatus
+
+bei pavyzdinius trišalės komisijos prie teritorinės darbo biržos nuostatus
+
+tvirtina socialinės apsaugos ir darbo ministras.
+
+Straipsnio pakeitimai:
+
+Nr. I-1191, 1996
+
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
+
+Nr. IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+
+24 straipsnis. Bedarbių rėmimo įstatymo laikymosi
+
+kontrolė
+
+Bedarbių rėmimo įstatymo laikymąsi kontroliuoja
+
+Valstybinė darbo inspekcija.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1366,
+
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
