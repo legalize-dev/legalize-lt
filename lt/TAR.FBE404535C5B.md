@@ -4,7 +4,7 @@ identifier: "TAR.FBE404535C5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-10-08"
-last_updated: "2003-12-02"
+last_updated: "2004-04-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -319,6 +319,334 @@ vykdo kitas šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas.
 Savivaldybių institucijos formuoja viešojo vietinio transporto veiklos
 
 strategiją ir organizuoja jos įgyvendinimą.
+
+5
+
+straipsnis. Transporto rūšys
+
+Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių,
+
+jūrų, oro ir vidaus vandenų transportas. Šių transporto rūšių, taip pat
+
+kombinuotų vežimų veiklos ypatumus nustato specialieji transporto rūšių
+
+įstatymai ir kodeksai bei kiti teisės aktai.
+
+6
+
+straipsnis. Transporto objektų nuosavybė
+
+1. Transporto objektai nuosavybės teise gali
+
+priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio
+
+fiziniams bei juridiniams asmenims, užsienio juridinių asmenų filialams arba
+
+atstovybėms.
+
+2.
+
+Viešojo naudojimo geležinkeliai, valstybinės reikšmės keliai, tarptautinių oro
+
+uostų infrastruktūra, skrydžių valdymo sistemos įrenginiai, valstybinės
+
+reikšmės vidaus vandenų keliai, valstybinių jūrų uostų infrastruktūra yra Lietuvos valstybės nuosavybė.
+
+3.
+
+Viešosios transporto infrastruktūros objektais negali būti užtikrinami trečiųjų
+
+asmenų įsipareigojimai. Į juos negali būti nukreipti išieškojimai pagal
+
+kreditorių reikalavimus.
+
+4.
+
+Viešosios transporto infrastruktūros objektus, žemę, akvatoriją (vandens
+
+plotus), kitą priskirtą ar sukurtą turtą viešosios transporto infrastruktūros
+
+valdytojas valdo, naudoja bei disponuoja turto patikėjimo teisėmis
+
+vadovaudamasis šiuo ir kitais įstatymais, administraciniu aktu ar sutartimi.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1866,
+
+2003-12-02, Žin., 2003, Nr. 119-5403 (2003-12-18)
+
+Nr. IX-2196,
+
+2004-04-29, Žin., 2004, Nr. 73-2530 (2004-04-30)
+
+7
+
+straipsnis. Transporto teisinių  santykių reglamentavimas
+
+1.
+
+Transporto teisinius santykius reglamentuoja Lietuvos Respublikos tarptautinės
+
+sutartys, šis Įstatymas, specialieji transporto rūšių įstatymai ir kodeksai
+
+bei kiti teisės aktai. Jeigu specialiuosiuose transporto rūšių įstatymuose ir
+
+kodeksuose numatytos kitokios nuostatos negu šiame Įstatyme, taikomos
+
+specialiųjų transporto rūšių įstatymų ir kodeksų nuostatos.
+
+2.
+
+Jeigu Lietuvos Respublikos tarptautinės sutartys nustato kitokias taisykles
+
+negu šis Įstatymas, taikomos tarptautinių sutarčių nuostatos.
+
+8
+
+straipsnis. Transporto veiklos licencijavimas
+
+1.
+
+Licencijuojamos transporto ūkinės komercinės veiklos sritys nustatomos
+
+specialiuosiuose transporto rūšių įstatymuose ir kodeksuose. Kiekvienai šiuose
+
+įstatymuose nustatytai transporto licencijuojamos ūkinės komercinės veiklos
+
+sričiai licencijos (leidimai) išduodamos pagal Vyriausybės patvirtintas
+
+licencijavimo taisykles.
+
+2.
+
+Įmonė, norinti gauti licenciją (leidimą), turi atitikti geros reputacijos,
+
+profesinės kompetencijos bei finansinio pajėgumo reikalavimus. Šie reikalavimai
+
+detalizuojami šio straipsnio 1 dalyje nurodytose taisyklėse. Taisyklėse gali
+
+būti nustatyti ir kiti reikalavimai, atsižvelgiant į atitinkamos transporto
+
+rūšies  ypatumus.
+
+9
+
+straipsnis. Tarifai, kainos, rinkliavos
+
+1.
+
+Transporto veiklos paslaugų tarifai ir kainos grindžiamos laisvosios rinkos
+
+kainodaros principais ir nustatomi sutartyse tarp šalių, jeigu kiti įstatymai
+
+nenustato ko kita.
+
+2.
+
+Visi transporto infrastruktūros naudotojai už naudojimąsi transporto
+
+infrastruktūra privalo mokėti transporto infrastruktūros objekto valdytojui
+
+(savininkui) rinkliavas. Rinkliavų dydžius ir jų mokėjimo tvarką nustato
+
+transporto infrastruktūros objekto savininkas, atsižvelgdamas į išlaidas,
+
+reikalingas šiems objektams eksploatuoti.
+
+3.
+
+Lėšos, gautos už naudojimąsi viešąja transporto infrastruktūra, naudojamos tik
+
+šios infrastruktūros funkcionavimui užtikrinti ir šio Įstatymo 15 straipsnio 2
+
+dalyje numatytoms programoms finansuoti.
+
+10
+
+straipsnis. Eismo sauga transporte
+
+1.
+
+Saugus eismas transporte užtikrinamas laikantis techninių, technologinių,
+
+socialinių ir organizacinių reikalavimų transporto infrastruktūrai, transporto
+
+priemonėms ir eismo dalyviams.
+
+2.
+
+Atskirų transporto rūšių eismo saugos reikalavimus nustato Lietuvos Respublikos
+
+tarptautinės sutartys, įstatymai ir kiti teisės aktai.
+
+3. Transporto priemonių  valstybinės techninės
+
+apžiūros (priežiūros) taisykles nustato ir jų vykdymą kontroliuoja Vyriausybė
+
+arba jos įgaliota institucija. Transporto priemonių valstybinę techninę apžiūrą
+
+(priežiūrą) vykdančių įmonių skaičių, jų išdėstymą šalies teritorijoje,
+
+atsižvelgiant į transporto priemonių valstybinės techninės apžiūros
+
+(priežiūros) poreikį, nustato Vyriausybės įgaliota institucija pagal jos
+
+patvirtintą metodiką. Įmonės gali atlikti transporto priemonių valstybinę
+
+techninę apžiūrą (priežiūrą) tik turėdamos įgaliotos institucijos suteiktus
+
+įgaliojimus (leidimus). Įgaliojimai (leidimai) suteikiami sutartimi arba
+
+administraciniu aktu.
+
+4. Transporto priemonių registravimo tvarką nustato,
+
+jos vykdymą kontroliuoja Vyriausybė arba jos įgaliota institucija. Transporto
+
+priemonių registraciją vykdančių įmonių skaičių, atsižvelgiant į transporto
+
+priemonių registravimo poreikį ir jų išdėstymą šalies teritorijoje, nustato
+
+Vyriausybės įgaliota institucija pagal jos patvirtintą metodiką.
+
+5. Transporto infrastruktūros objektai pripažįstami
+
+tinkamais naudoti Statybos įstatymo ir kitų teisės aktų nustatyta tvarka.
+
+6.
+
+Teisės vairuoti (valdyti, pilotuoti) transporto priemones įgijimo tvarką
+
+nustato Vyriausybė ar jos įgaliotos institucijos. Teisės vairuoti (valdyti,
+
+pilotuoti) transporto priemonę suteikimo dokumentų, išduotų kitose valstybėse,
+
+pripažinimo Lietuvos Respublikoje tvarką nustato specialieji transporto rūšių
+
+įstatymai ir kodeksai arba Vyriausybė ar jos įgaliota institucija.
+
+11
+
+straipsnis. Aplinkosaugos ir kiti reikalavimai
+
+1. Transporto
+
+veiklos subjektai privalo vykdyti aplinkosaugos, pavojingų krovinių gabenimo,
+
+saugos darbe, darbo ir poilsio režimo, higienos reikalavimus, nustatytus
+
+Lietuvos Respublikos tarptautinėse sutartyse, įstatymuose ir kituose teisės
+
+aktuose. Už šių reikalavimų nesilaikymą pažeidėjai atsako įstatymų nustatyta
+
+tvarka.
+
+2.
+
+Viešojo transporto objektai, skirti keleiviams aptarnauti, turi būti nuosekliai
+
+pritaikomi patogiai ir saugiai jais naudotis neįgaliesiems.
+
+12
+
+straipsnis. Kombinuoti vežimai
+
+1.
+
+Kombinuoti vežimai - krovinių gabenimas naudojant ne mažiau kaip dvi transporto rūšis,
+
+kai tas pats krovinys esantis sunkvežimyje, priekaboje ar puspriekabėje (su
+
+vilkiku ar be jo), keičiamoje talpykloje arba 20 ar daugiau pėdų konteineryje
+
+didžiąją maršruto dalį yra gabenamas geležinkelių, vidaus vandenų arba jūrų
+
+transportu, o pradinę ir (arba) galutinę maršruto dalį -
+
+kelių transporto priemonėmis.
+
+2.
+
+Vyriausybė gali nustatyti kombinuotų vežimų konkurencingumą  skatinančias
+
+priemones.
+
+13
+
+straipsnis. Visuomenės aptarnavimo organizavimas
+
+1. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių
+
+institucijos užtikrina socialiai būtinų transporto paslaugų teikimą visuomenei.
+
+Patiriami dėl šių paslaugų teikimo nuostoliai vežėjams (operatoriams) yra
+
+kompensuojami Vyriausybės ar jos įgaliotos institucijos ir (ar) savivaldybių.
+
+Šiems visuomenės aptarnavimo įsipareigojimams vykdyti vežėjai (operatoriai) parenkami
+
+konkurso tvarka.
+
+2.
+
+Konkurso organizavimo bei visuomenės aptarnavimo sutarčių sudarymo ir
+
+nutraukimo tvarką nustato Vyriausybė. Su konkurso nugalėtoju Vyriausybė ar jos
+
+įgaliota institucija ir (ar) savivaldybės institucija sudaro visuomenės
+
+aptarnavimo sutartis, kuriose nustatomos keleivių vežimo sąlygos (paslaugų
+
+kokybė, veiklos nenutrūkstamumas, reguliarumas, mastas ir kiti reikalavimai),
+
+taip pat atlyginimo už suteikiamas paslaugas dydis ir tvarka. Visuomenės
+
+aptarnavimo sutarties galiojimo terminas – iki 5 metų.
+
+3.
+
+Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybės institucija,
+
+priėmusi sprendimą nutraukti visuomenės aptarnavimo sutartį, privalo sudaryti
+
+galimybę visuomenei naudotis alternatyvia transporto paslauga.
+
+ANTRASIS SKIRSNIS
+
+VIEŠOJO
+
+NAUDOJIMO INFRASTRUKTŪROS VALDYMAS IR PLĖTRA
+
+14
+
+straipsnis. Transporto infrastruktūros rūšys ir valdytojai
+
+1.
+
+Transporto infrastruktūra yra viešoji ir privati.
+
+2.
+
+Viešosios transporto infrastruktūros savininkas yra valstybė ir savivaldybės.
+
+3.
+
+Privačios transporto infrastruktūros savininkas yra fizinis ar juridinis asmuo.
+
+4.
+
+Viešosios transporto infrastruktūros valdytoją skiria Vyriausybė ar jos
+
+įgaliota institucija arba savivaldybės institucija. Valdytojui parinkti
+
+skelbiamas konkursas arba viešajai transporto infrastruktūrai valdyti steigiama
+
+įmonė.
 
 1 straipsnis. Įstatymo
 
@@ -990,7 +1318,7 @@ MOTIEKA
 
 Vilnius, 1991 m. spalio 8 d.
 
-Nr.I-1863
+Nr. I-1863
 
 ________________
 
@@ -1078,7 +1406,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1866,
+Nr.
+
+IX-1866,
 
 2003-12-02, Žin., 2003, Nr. 119-5403 (2003-12-18)
 
@@ -1086,13 +1416,29 @@ TRANSPORTO
 
 VEIKLOS PAGRINDŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2196,
+
+2004-04-29, Žin., 2004, Nr. 73-2530 (2004-04-30)
+
+TRANSPORTO
+
+VEIKLOS PAGRINDŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2003-12-19)
+Aušrinė Trapinskienė (2004-05-11)
 
-aubodi@lrs.lt
+autrap@lrs.lt
 
