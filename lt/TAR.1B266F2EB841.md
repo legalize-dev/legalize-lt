@@ -4,7 +4,7 @@ identifier: "TAR.1B266F2EB841"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-15"
-last_updated: "1993-12-18"
+last_updated: "1995-01-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B266F2EB841"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1993-12-15"
 document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo
+
+Suvestinė redakcija nuo 1995-01-04 iki 1995-12-28
+
+Įstatymas paskelbtas: Žin. 1993, Nr. 70-1310, i. k. 0931010ISTA000I-336
 
 LIETUVOS RESPUBLIKOS
 
