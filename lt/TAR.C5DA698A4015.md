@@ -4,7 +4,7 @@ identifier: "TAR.C5DA698A4015"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-01-23"
-last_updated: "2000-10-03"
+last_updated: "2001-06-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C5DA698A4015"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Įstatymas
 
-paskelbtas: Žin., 1996, Nr.14-352
+paskelbtas: Žin., 1996, Nr. 14-352
 
 Neoficialus
 
@@ -920,31 +920,35 @@ ministerijos steigiamas kilnojamųjų kultūros vertybių apsaugos fondas, kurio
 
 nuostatus tvirtina Vyriausybė.
 
-2. Fondo lėšas sudaro:
+2. Fondo lėšas
 
-1) baudos už kilnojamųjų
+sudaro:
 
-kultūros vertybių apsaugos, prekybos antikvariniais daiktais, kilnojamųjų
+1)
 
-kultūros vertybių konservavimo ir restauravimo taisyklių pažeidimus;
+baudos už kilnojamųjų kultūros vertybių apsaugos, prekybos antikvariniais
 
-2) žyminis mokestis už leidimų
+daiktais, kilnojamųjų kultūros vertybių konservavimo ir restauravimo taisyklių
 
-išvežti (išsiųsti) kilnojamąsias kultūros vertybes ir antikvarinius daiktus
+pažeidimus;
 
-išdavimą;
+2) valstybės
 
-3) lėšos, gautos realizavus
+biudžeto tiksliniai asignavimai;
 
-konfiskuotas kilnojamąsias kultūros vertybes ir antikvarinius daiktus;
+3) lėšos, gautos
 
-4) valstybės, savivaldybių,
+realizavus konfiskuotas kilnojamąsias kultūros vertybes ir antikvarinius
 
-fizinių ir juridinių asmenų parama, labdara;
+daiktus;
 
-5) kitos teisėtai įgytos
+4) valstybės,
 
-lėšos.
+savivaldybių, fizinių ir juridinių asmenų parama;
+
+5) kitos
+
+teisėtai įgytos lėšos.
 
 3. Fondas:
 
@@ -958,6 +962,14 @@ ar parduoti kilnojamųjų kultūros vertybių pirkimą valstybinėms saugykloms;
 
 vertybių savininkams konservavimo, restauravimo ir tyrimo darbų išlaidas.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-384, 2001-06-19, Žin., 2001, Nr.
+
+57-2028 (2001-07-04)
+
 VII. ATSAKOMYBĖ
 
 UŽ ĮSTATYMO PAŽEIDIMĄ
@@ -968,11 +980,11 @@ Registrą kilnojamųjų kultūros vertybių saugojimas
 
 1. Kultūros vertybių
 
-apsaugos departamentas parengia kiekvienos įrašytos į Registrą kilnojamosios kultūros
+apsaugos departamentas parengia kiekvienos įrašytos į Registrą kilnojamosios
 
-vertybės apsaugos reglamentą, užpildo kilnojamosios kultūros vertybės pasą ir
+kultūros vertybės apsaugos reglamentą, užpildo kilnojamosios kultūros vertybės
 
-įteikia juos savininkui, valdytojui ar naudotojui.
+pasą ir įteikia juos savininkui, valdytojui ar naudotojui.
 
 2. Kilnojamąsias kultūros
 
@@ -1044,9 +1056,9 @@ valdytojas ar naudotojas iki nurodyto termino neįvykdo apsaugos reglamento
 
 reikalavimų, Kultūros vertybių apsaugos departamentas turi teisę pareikalauti,
 
-kad kilnojamosios kultūros vertybės savininkas paimtų kilnojamąją kultūros
+kad kilnojamosios kultūros vertybės savininkas paimtų kilnojamąją kultūros vertybę
 
-vertybę iš valdytojo ar naudotojo ir užtikrintų jos tinkamą saugojimą.
+iš valdytojo ar naudotojo ir užtikrintų jos tinkamą saugojimą.
 
 23 straipsnis.
 
@@ -1596,7 +1608,21 @@ KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 24
 
 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-384, 2001-06-19, Žin., 2001, Nr.
+
+57-2028 (2001-07-04)
+
+KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 27
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.10.19)
+Redagavo: Angonita Rupšytė (2001-07-04)
+
+anrups@lrs.lt
 
