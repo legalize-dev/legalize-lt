@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2001-04-19"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -38,7 +38,7 @@ PLANAVIMO
 
 1995 m. gruodžio
 
-12 d. Nr.I-1120
+12 d. Nr. I-1120
 
 Vilnius
 
@@ -564,13 +564,13 @@ derinimo, keitimo, papildymo, tvirtinimo ir galiojimo tvarką nustato šis
 
 rengiama ne trumpesniam kaip 20 metų laikotarpiui. Bendrieji planai
 
-neterminuoti. Jie gali būti keičiami, papildomi Vyriausybės, apskrities viršininko
+neterminuoti. Jie gali būti keičiami, papildomi Vyriausybės, apskrities
 
-ar savivaldybės valdybos (mero) teikimu 8 straipsnio pirmosios dalies 3 punkte,
+viršininko ar savivaldybės valdybos (mero) teikimu 8 straipsnio pirmosios
 
-šio straipsnio antrojoje dalyje, 23 straipsnio ketvirtojoje dalyje nustatyta
+dalies 3 punkte, šio straipsnio antrojoje dalyje, 23 straipsnio ketvirtojoje
 
-tvarka.
+dalyje nustatyta tvarka.
 
 3. Bendrasis Lietuvos
 
@@ -814,9 +814,9 @@ plėtojimo schemos ir projektai;
 
 9) ryšių, energetikos,
 
-susisiekimo ir kitų infrastruktūros objektų išdėstymo ir sistemų plėtojimo
+susisiekimo ir kitų infrastruktūros objektų išdėstymo ir sistemų plėtojimo schemos
 
-schemos bei projektai;
+bei projektai;
 
 10) kurortų, vandenviečių,
 
@@ -916,7 +916,9 @@ miškų ūkio paskirties žemei, tampa detaliaisiais planais, kai visiškai atit
 
 5. Žemės reformos
 
-žemėtvarkos projektų rengimo ir galiojimo tvarką nustato Žemės reformos įstatymas.
+žemėtvarkos projektų rengimo ir galiojimo tvarką nustato Žemės reformos
+
+įstatymas.
 
 Straipsnio
 
@@ -974,9 +976,9 @@ planavimo privalomumas
 
 1. Privaloma
 
-rengti bendrajame plane nurodytų teritorijų (detaliojo planavimo objektų) detaliuosius
+rengti bendrajame plane nurodytų teritorijų (detaliojo planavimo objektų)
 
-planus, išskyrus šio straipsnio 3 dalyje nurodytus atvejus.
+detaliuosius planus, išskyrus šio straipsnio 3 dalyje nurodytus atvejus.
 
 2. Žemės sklypų ir
 
@@ -1022,13 +1024,13 @@ naudojimas ir atkūrimas visose miško valdose, išskyrus savininkų, turinčių
 
 planai nerengiami (netikslinami):
 
-1) vykdant statybos
+1) vykdant
 
-darbus, jei statomi (rekonstruojami, remontuojami) pastatai ar įrenginiai
+statybos darbus, jei statomi (rekonstruojami, remontuojami) pastatai ar
 
-nekeičia detaliajame plane ar žemės sklypo naudojimo dokumentuose nustatytų
+įrenginiai nekeičia detaliajame plane ar žemės sklypo naudojimo dokumentuose
 
-sklypo naudojimo būdo ir jo tvarkymo reikalavimų;
+nustatytų sklypo naudojimo būdo ir jo tvarkymo reikalavimų;
 
 2) griaunant
 
@@ -1040,9 +1042,9 @@ sklypo naudojimo būdo ar savivaldybei priklausančios infrastruktūros;
 
 3) keičiant
 
-pastatų (patalpų) naudojimo paskirtį, jei toks keitimas neprieštarauja
+pastatų (patalpų) naudojimo paskirtį, jei toks keitimas neprieštarauja nustatytam
 
-nustatytam teritorijos užstatymo režimui;
+teritorijos užstatymo režimui;
 
 4) keičiant
 
@@ -1086,9 +1088,9 @@ dokumentai yra šie:
 
 1) žemės sklypų arba jų
 
-grupių urbanizuotose teritorijose, taip pat inžinerinės infrastruktūros
+grupių urbanizuotose teritorijose, taip pat inžinerinės infrastruktūros juostinių
 
-juostinių sklypų detalieji planai;
+sklypų detalieji planai;
 
 2) miestų, miestelių, kaimų
 
@@ -1110,11 +1112,11 @@ projektai.
 
 dokumentai, kuriais remiantis nustatomi veiklos sklype apribojimai, statybos ir
 
-teritorijos tvarkymo reikalavimai, žemės servitutai, žemės naudojimo tikslinė
+teritorijos tvarkymo reikalavimai, žemės servitutai, žemės naudojimo tikslinė paskirtis,
 
-paskirtis, rengiami žemėtvarkos projektai, taip pat statybos projektai,
+rengiami žemėtvarkos projektai, taip pat statybos projektai, visuomenės
 
-visuomenės poreikiams paimama žemė ir kitas nekilnojamasis turtas.
+poreikiams paimama žemė ir kitas nekilnojamasis turtas.
 
 3. Detalieji planai yra
 
@@ -1252,11 +1254,11 @@ savivaldybės taryba arba valdyba tarybai pavedus. Planas patvirtinamas per 20
 
 darbo dienų nuo prašymo pateikimo dienos. Detalieji planai įsigalioja
 
-patvirtinus juos nustatyta tvarka. Kokius detaliojo planavimo objektų planus tvirtina
+patvirtinus juos nustatyta tvarka. Kokius detaliojo planavimo objektų planus
 
-savivaldybės taryba ar jos pavedimu valdyba, numatoma savivaldybės tarybos
+tvirtina savivaldybės taryba ar jos pavedimu valdyba, numatoma savivaldybės
 
-sprendimu.
+tarybos sprendimu.
 
 6. Miško valdos miškotvarkos
 
@@ -1280,11 +1282,11 @@ organizatoriaus sudaroma sutartis dėl infrastruktūros plėtojimo.
 
 planas netvirtinamas, jeigu jis prieštarauja bendrajam planui arba yra pažeista
 
-nustatyta derinimo, viešo svarstymo, priežiūros procedūra, detaliojo plano sprendiniai
+nustatyta derinimo, viešo svarstymo, priežiūros procedūra, detaliojo plano
 
-neatitinka teritorijų planavimo ar statybos normų. Atsisakiusi tvirtinti
+sprendiniai neatitinka teritorijų planavimo ar statybos normų. Atsisakiusi
 
-detalųjį planą, savivaldybės taryba arba valdyba privalo planavimo
+tvirtinti detalųjį planą, savivaldybės taryba arba valdyba privalo planavimo
 
 organizatoriui pateikti motyvuotą atsakymą per 20 darbo dienų nuo projekto
 
@@ -1294,21 +1296,21 @@ apskųsti teritorijų planavimo priežiūros institucijai. Priežiūros instituc
 
 per 10 darbo dienų nuo skundo pateikimo dienos turi pateikti planavimo
 
-organizatoriui ir savivaldybės tarybai arba valdybai motyvuotą išvadą dėl
+organizatoriui ir savivaldybės tarybai arba valdybai motyvuotą išvadą dėl detaliojo
 
-detaliojo plano tvirtinimo. Priežiūros institucijos sprendimas gali būti
+plano tvirtinimo. Priežiūros institucijos sprendimas gali būti apskųstas
 
-apskųstas teismui.
+teismui.
 
 9. Atmestas
 
 detalusis planas antrą kartą gali būti pateiktas tvirtinti ne vėliau kaip per
 
-šešis mėnesius nuo motyvuoto atsakymo pateikimo dienos. Tvirtinti teikiamas
+šešis mėnesius nuo motyvuoto atsakymo pateikimo dienos. Tvirtinti
 
-detalusis planas turi būti pakartotinai patikrintas valstybinę teritorijų
+teikiamas detalusis planas turi būti pakartotinai patikrintas valstybinę
 
-planavimo priežiūrą atliekančios institucijos.
+teritorijų planavimo priežiūrą atliekančios institucijos.
 
 10. Detaliųjų planų
 
@@ -1534,13 +1536,13 @@ turi būti:
 
 1) suderinti su atitinkamo
 
-lygmens galiojančiais teritorijų planavimo dokumentais, įregistruotais
+lygmens galiojančiais teritorijų planavimo dokumentais, įregistruotais teritorijų
 
-teritorijų planavimo dokumentų registre, arba turi turėti atitinkamų
+planavimo dokumentų registre, arba turi turėti atitinkamų institucijų raštišką
 
-institucijų raštišką pritarimą teritorijų planavimo dokumentų rengimo taisyklių
+pritarimą teritorijų planavimo dokumentų rengimo taisyklių ir šio įstatymo
 
-ir šio įstatymo nustatyta tvarka;
+nustatyta tvarka;
 
 2) viešai apsvarstyti;
 
@@ -1948,15 +1950,15 @@ teritorijų planavimo - Valstybinė teritorijų planavimo ir statybos inspekcija
 
 2) apskričių teritorijų
 
-bendrojo planavimo, apskrities lygmens specialiojo teritorijų planavimo -
+bendrojo planavimo, apskrities lygmens specialiojo teritorijų planavimo - Aplinkos
 
-Aplinkos ministerija;
+ministerija;
 
-3) savivaldybių teritorijų
+3) savivaldybių teritorijų bendrojo planavimo,
 
-bendrojo planavimo, detaliojo planavimo, savivaldybės ir fizinių bei juridinių
+detaliojo planavimo, savivaldybės ir fizinių bei juridinių asmenų lygmens
 
-asmenų lygmens specialiojo planavimo - apskrities viršininkas.
+specialiojo planavimo – apskrities viršininko administracija.
 
 3. Planų vykdymą
 
@@ -1985,6 +1987,12 @@ VIII-323,
 Nr. VIII-1612, 00.04.11, Žin., 2000,
 
 Nr.34-953 (00.04.26)
+
+Nr.
+
+IX-1512,
+
+2003-04-17, Žin., 2003, Nr. 42-1916 (2003-05-01)
 
 31 straipsnis.
 
@@ -2152,9 +2160,9 @@ Asmenys, pažeidę šį
 
 civiline ir baudžiamąja tvarka.
 
-Skelbiu šį Lietuvos Respublikos
+Skelbiu šį Lietuvos
 
-Seimo priimtą įstatymą.
+Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS
 
@@ -2260,9 +2268,27 @@ TERITORIJŲ PLANAVIMO ĮSTATYMO 21, 24 IR 26 STRAIPSNIŲ
 
 PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+8.
 
-Redagavo: Aušrinė Trapinskienė (2001 05 17)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1512,
+
+2003-04-17, Žin., 2003, Nr. 42-1916 (2003-05-01)
+
+TERITORIJŲ
+
+PLANAVIMO ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2003-05-20)
 
 autrap@lrs.lt
 
