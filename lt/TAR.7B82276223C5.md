@@ -4,7 +4,7 @@ identifier: "TAR.7B82276223C5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-12-11"
-last_updated: "1994-10-12"
+last_updated: "1995-10-31"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7B82276223C5"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,89 +15,101 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos policijos įstatymas
 
-@D1=19900311;D2=19940718;D3=19941024
+Neoficialus įstatymo tekstas
 
-@D1=19900311;D2=19940718;D3=19941024.
+Neoficialus įstatymo
 
-Pastaba: 49
-
-straipsnis įsigalioja nuo 1995 m. sausio 1 dienos.
-
-Redaguota:1994 10
-
-24.
-
-g
+tekstas
 
 Pakeitimai:
 
-1.Lietuvos
+1.
 
-Respublikos 1994 05 21
+Lietuvos Respublikos
 
-įstatymas
+Seimas, Įstatymas
 
-Nr.1-1338,
+Nr. 1-1338,
 
-Žin.,1991,
+91.05.21, Žin., 1991, Nr. 16-410
 
-Nr.16-410;
+DĖL LIETUVOS
 
-Dėl Lietuvos
+RESPUBLIKOS POLICIJOS ĮSTATYMO 47 STRAIPSNIO DALINIO
 
-Respublikos policijos
+PAKEITIMO
 
-įstatymo 47
+2.
 
-straipsnio   dalinio pakeitimo.
+Lietuvos Respublikos
 
-2.Lietuvos
+Seimas, Įstatymas
 
-Respublikos 1994 06 28
+Nr. 1-514, 94.06.28,
 
-įstatymas
+Žin., 1994, Nr. 53-994 (94.07.13)
 
-Nr.1-514,
+DĖL LIETUVOS
 
-Žin., 1994,
+RESPUBLIKOS POLICIJOS ĮSTATYMO, LIETUVOS RESPUBLIKOS
 
-Nr.53-994;
+LAIKINOJO KRAŠTO
 
-Dėl Lietuvos
+APSAUGOS PRIEVOLĖS ĮSTATYMO IR LIETUVOS
 
-Respublikos policijos įstatymo Lietuvos
+RESPUBLIKOS KRAŠTO
 
-Respublikos
+APSAUGOS TARNYBOS ĮSTATYMO PAKEITIMO IR
 
-laikinojo krašto apsaugos prievolės
+PAPILDYMO
 
-įstatymo ir
+3.
 
-Lietuvos Respublikos krašto apsaugos
+Lietuvos Respublikos
 
-tarnybos
+Seimas, Įstatymas
 
-įstatymo pakeitimo ir papildymo
+Nr. 1-601, 94.10.12,
 
-3.Lietuvos
+Žin., 1994, Nr. 82-1547 (94.10.21)
 
-Respublikos 1994 10 12
+DĖL LIETUVOS
 
-įstatymas Nr.
+RESPUBLIKOS POLICIJOS ĮSTATYMO 12, 15 IR 49
 
-1-601,
+STRAIPSNIŲ PAKEITIMO
 
-Žin.,1994,
+4.
 
-Nr.82-1547;
+Lietuvos Respublikos
 
-Dėl Lietuvos
+Seimas, Įstatymas
 
-Respublikos policijos
+Nr. 1-1080,
 
-įstatymo 12, 15
+95.10.31, Žin., 1995, Nr. 92-2056 (95.11.10)
 
-ir 49 straipsnių pakeitimo
+DĖL KAI KURIŲ
+
+LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ,
+
+SUSIJUSIŲ SU
+
+LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO
+
+KELEIVINIU
+
+TRANSPORTU LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ,
+
+TARNAUTOJŲ BEI KITŲ
+
+ASMENŲ VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ
+
+KOMPENSAVIMO
+
+TVARKOS", PAKEITIMO IR PAPILDYMO
+
+*** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
@@ -127,31 +139,31 @@ sistemoje.
 
 Pagrindiniai
 
-policijos   uždaviniai  yra   nusikaltimų  bei
+policijos  uždaviniai   yra  nusikaltimų   bei
 
 kitokių teisės
 
-pažeidimų prevencija, nusikaltimų atskleidimas ir
+pažeidimų prevencija, nusikaltimų atskleidimas  ir
 
-tyrimas, viešosios
+tyrimas,  viešosios
 
-tvarkos, visuomeninės  rimties  bei  saugumo,
+tvarkos,  visuomeninės  rimties bei saugumo,
 
-piliečių   teisių,
+piliečių  teisių,
 
-laisvių  ir  turto  apsauga, valstybės sienų
+laisvių  ir  turto  apsauga,  valstybės  sienų
 
-apsauga,   taip
+apsauga, taip pat
 
-pat  pagal kompetenciją  aplinkos  apsauga.  Be
+pagal kompetenciją aplinkos  apsauga.  Be  to,
 
-to,   policija   vykdo
+policija vykdo eismo
 
-eismo   saugumo   priežiūrą,      teikia
+saugumo priežiūrą, teikia neatidėliotiną  ir
 
-neatidėliotiną  ir
+kitokią socialinę
 
-kitokią  socialinę pagalbą gyventojams.
+pagalbą gyventojams.
 
 Policija
 
@@ -175,19 +187,13 @@ visuomeninių, politinių  pažiūrų, tikybos  ir
 
 kitų aplinkybių.
 
-Pakeitimai:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 06 28
+Nr. 1-514, 94.06.28,
 
-įstatymas
-
-Nr.1-514,
-
-Žin., 1994,
-
-Nr.53-994;
+Žin., 1994, Nr. 53-994 (94.07.13)
 
 2 straipsnis.
 
@@ -271,9 +277,9 @@ informacinėse
 
 sistemose  turimas neslapto pobūdžio žinias apie šį
 
-pilietį  Respublikos
+pilietį
 
-vidaus  reikalų   ministro  nustatyta   ir
+Respublikos   vidaus  reikalų   ministro  nustatyta   ir
 
 Vyriausybės
 
@@ -323,7 +329,7 @@ pareigūnas   yra   valstybės   tarnautojas,  kurio
 
 garbę, orumą,
 
-gyvybę   bei sveikatą,   teises  ir  laisves  gina
+gyvybę   bei sveikatą,   teises  ir  laisves  gina
 
 Lietuvos Respublikos
 
@@ -407,9 +413,9 @@ to reikia
 
 tarnybinei pareigai  įvykdyti, ir tik po to, kai visos
 
-įmanomos įtikinimo
+įmanomos įtikinimo ar
 
-ar kitos priemonės nebuvo veiksmingos.
+kitos priemonės nebuvo veiksmingos.
 
 Policininkui
 
@@ -417,9 +423,9 @@ stažuotojui šaunamasis ginklas neišduodamas.
 
 6 straipsnis.
 
-Policijos pareigūnų veiklos
+Policijos pareigūnų veiklos teisinės
 
-teisinės garantijos
+garantijos
 
 Policijos
 
@@ -427,15 +433,11 @@ pareigūnas,   atlikdamas   tarnybines   pareigas,
 
 vadovaujasi tik
 
-įstatymais.
+įstatymais. Policijos pareigūnai privalo vykdyti
 
-Policijos
+aukštesniojo pagal
 
-pareigūnai  privalo  vykdyti  aukštesniojo  pagal
-
-pareiginį laipsnį
-
-policijos pareigūno įsakymą.
+pareiginį laipsnį policijos pareigūno įsakymą.
 
 Jeigu
 
@@ -453,9 +455,9 @@ prokurorui.
 
 7 straipsnis.
 
-Parama policijos pareigūnams,
+Parama policijos pareigūnams, vykdantiems
 
-vykdantiems pavestas pareigas
+pavestas pareigas
 
 Valstybiniai,
 
@@ -477,9 +479,9 @@ veikiančių
 
 teisėsaugos   ir   visuomeninės   rimties   palaikymo
 
-organizacijų bei  piliečių
+organizacijų bei
 
-pagalba.  Šios organizacijos turi būti
+piliečių pagalba.  Šios organizacijos turi būti
 
 užregistruotos
 
@@ -543,7 +545,7 @@ Neviršydamos įstatymų suteiktų įgaliojimų, policijos
 
 veiklą
 
-kontroliuoja   atitinkamos     Lietuvos     Respublikos
+kontroliuoja   atitinkamos      Lietuvos    Respublikos
 
 Aukščiausiosios
 
@@ -565,9 +567,9 @@ policijos pareigūnų
 
 ir organų veiksmus.
 
-Piliečių
+Piliečių skundus
 
-skundus  dėl policijos  pareigūnų veiksmų nagrinėja
+dėl policijos  pareigūnų veiksmų nagrinėja
 
 ir  sprendžia
 
@@ -597,71 +599,67 @@ Policijos organizacija ir struktūra
 
 Vieningą
 
-Lietuvos   Respublikos  policijos  sistemą  sudaro
+Lietuvos  Respublikos  policijos  sistemą   sudaro
 
 Lietuvos
 
-Respublikos   vidaus  reikalų   ministerijos  Policijos
+Respublikos  vidaus   reikalų  ministerijos   Policijos
 
 departamento
 
-vadovaujamos respublikinės ir savivaldybių policijos
+vadovaujamos    respublikinės   ir    savivaldybių
 
-tarnybos  bei
+policijos  tarnybos
 
-struktūriniai  padaliniai  ir  Pasienio  policijos
+bei  struktūriniai  padaliniai  ir  Pasienio
 
-departamento
+policijos
 
-prie   Vidaus   reikalų ministerijos padaliniai.
+departamento   prie   Vidaus   reikalų   ministerijos
+
+padaliniai.
 
 Policijos
 
-departamentui  vadovauja generalinis  komisaras  -
+departamentui  vadovauja  generalinis komisaras -
 
-vidaus reikalų
+Vidaus reikalų
 
-ministerijos sekretorius.  Jį  skiria  ir
+ministerijos  sekretorius. Jį skiria  ir atleidžia
+
+Vyriausybė, vidaus
+
+reikalų ministro teikimu.  Pasienio  policijos
+
+departamentui   prie
+
+Vidaus   reikalų   ministerijos  vadovauja
+
+vyriausiasis
+
+pasienio  policijos   komisaras,  kurį  skiria   ir
 
 atleidžia
 
-Vyriausybė vidaus
+Lietuvos   Respublikos   Vyriausybė   vidaus  reikalų
 
-reikalų ministro teikimu.
-
-Pasienio policijos
-
-departamentui prie Vidaus reikalų ministerijos
-
-vadovauja
-
-vyriausiasis   pasienio     policijos   komisaras, kurį
-
-skiria   ir
-
-atleidžia  Lietuvos  Respublikos  Vyriausybė  vidaus
-
-reikalų ministro
-
-teikimu.
+ministro teikimu.
 
 Miesto
 
-(rajono)  policijos komisariatas
+(rajono)  policijos komisariatas  yra Vidaus  reikalų
 
-yra Vidaus reikalų
+ministerijos
 
-ministerijos  padalinys,   kuriame   veikia
+padalinys,   kuriame   veikia   respublikinės   ir
 
-respublikinės ir
+savivaldybių
 
-savivaldybių policijos  bei pasienio  policijos
-
-tarnybos.
+policijos bei pasienio policijos tarnybos.
 
 Miesto
 
-(rajono)  policijos  komisarą  pareigoms  Policijos
+(rajono)  policijos  komisarą  pareigoms   Policijos
 
 departamento
 
@@ -671,31 +669,17 @@ vidaus reikalų
 
 ministras.
 
-Pakeitimai:
+Straipsnio
 
-1.Lietuvos
+pakeitimai:
 
-Respublikos 1994 06 28
+Nr. 1-514, 94.06.28,
 
-įstatymas
+Žin., 1994, Nr. 53-994 (94.07.13)
 
-Nr.1-514,
+Nr. 1-601, 94.10.12,
 
-Žin., 1994,
-
-Nr.53-994;
-
-2.Lietuvos
-
-Respublikos 1994 10 12
-
-įstatymas
-
-Nr. 1-601,
-
-Žin.,1994,
-
-Nr.82-1547;
+Žin., 1994, Nr. 82-1547 (94.10.21)
 
 13 straipsnis.
 
@@ -729,27 +713,21 @@ ar kitokie struktūriniai policijos padaliniai.
 
 Vidaus
 
-reikalų   ministro  įsakymu  prie  vietos  policijos
+reikalų  ministro  įsakymu  prie  vietos   policijos
 
-komisariatų gali
+komisariatų  gali
 
-veikti ir  kitos vidaus  reikalų  tarnybos  bei
+veikti  ir  kitos  vidaus reikalų bei pasienio
 
-pasienio policijos.
+policijos tarnybos.
 
-Pakeitimai:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 06 28
+Nr. 1-514, 94.06.28,
 
-įstatymas
-
-Nr.1-514,
-
-Žin., 1994,
-
-Nr.53-994;
+Žin., 1994, Nr. 53-994 (94.07.13)
 
 14 straipsnis.
 
@@ -805,7 +783,7 @@ valstybinių  inspekcijų ir  kitų valstybės organų bei
 
 įstaigų)
 
-pareigūnams    vykdant   pagal     įstatymą    pavestas
+pareigūnams     vykdant   pagal     įstatymą   pavestas
 
 pareigas;
 
@@ -841,9 +819,9 @@ linijose bei šioms
 
 žinyboms priklausančiose teritorijose.
 
-Kelių
+Kelių  policija
 
-policija   vykdo  automobilių   ir  kitų   transporto
+vykdo  automobilių   ir  kitų   transporto
 
 priemonių eismo
 
@@ -895,7 +873,7 @@ policijai vadovauja Lietuvos Respublikos vidaus
 
 reikalų ministerijos
 
-Policijos departametnas.
+Policijos departamentas.
 
 Miesto
 
@@ -911,7 +889,7 @@ policijos    komisaro    pavaduotojas.
 
 Savivaldybės
 
-policijos  komisarą  bendru  miesto  (rajono)
+policijos  komisarą  bendru  miesto   (rajono)
 
 policijos komisaro
 
@@ -921,11 +899,13 @@ mero  teikimu
 
 skiria  ir   atleidžia   Policijos   departamento
 
-generalinis komisaras.
+generalinis
+
+komisaras.
 
 Savivaldybių
 
-policijos   nuovados  komisarą   savivaldybės
+policijos   nuovados  komisarą    savivaldybės
 
 policijos komisaro
 
@@ -947,17 +927,17 @@ pažeidimų  bylas,
 
 Kitus
 
-savivaldybių    policijos  pareigūnus   skiria  miesto
+savivaldybių    policijos  pareigūnus      skiria
 
-(rajono)
+miesto   (rajono)
 
-policijos   komisaras savivaldybių policijos komisaro
+policijos   komisaras savivaldybių policijos
 
-teikimu.
+komisaro teikimu.
 
 Nuovadų
 
-sudarymas  ir aptarnaujamos  teritorijos nustatymas
+sudarymas  ir aptarnaujamos  teritorijos  nustatymas
 
 yra valstybės
 
@@ -979,19 +959,11 @@ uniformomis su  savivaldybės  skiriamaisiais
 
 įranga ir ginkluote.
 
-Pakeitimas:
+Straipsnio pakeitimai:
 
-Lietuvos
+Nr. 1-601, 94.10.12,
 
-Respublikos 1994 10 12
-
-įstatymas Nr.
-
-1-601,
-
-Žin.,1994,
-
-Nr.82-1547;
+Žin., 1994, Nr. 82-1547 (94.10.21)
 
 16 straipsnis.
 
@@ -1067,77 +1039,13 @@ galioja pasienio
 
 režimas.
 
-Pakeitimai:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 06 28
+Nr. 1-514, 94.06.28,
 
-įstatymas
-
-Nr.1-514,
-
-Žin., 1994,
-
-Nr.53-994;
-
-16-2
-
-straipsnis. Pasienio policijos uždaviniai
-
-Pasienio
-
-policija  užtikrina  valstybės  sienų  apsaugą  ir
-
-neliečiamumą,
-
-Lietuvos  Respublikos valstybės sienos įstatymo bei
-
-kitų įstatymų
-
-vykdymą, padeda  įgyvendinti valstybės  migracijos
-
-politiką, užtikrina
-
-Lietuvos Respublikos piliečių bei užsieniečių
-
-perėjimo  per
-
-valstybės  sieną   tvarką,  atlieka   kvotą   bei
-
-operatyvinę
-
-paiešką  dėl  sienų  režimo  pažeidimų,  pagal  savo
-
-kompetenciją
-
-reguliuoja  pasienio  incidentus,  saugo  visuomenės
-
-rimtį ir piliečių
-
-teises bei teisėtus interesus pasienio ruože ir
-
-kitose vietose,
-
-kuriose galioja pasienio režimas, bendradarbiauja
-
-su kitais valstybės
-
-sienų apsaugos subjektais.
-
-Pakeitimai:
-
-Lietuvos
-
-Respublikos 1994 06 28
-
-įstatymas
-
-Nr.1-514,
-
-Žin., 1994,
-
-Nr.53-994;
+Žin., 1994, Nr. 53-994 (94.07.13)
 
 17 straipsnis.
 
@@ -1157,7 +1065,7 @@ interesus  bei   turtą  ir  vykdydama  kitus
 
 nustatytus
 
-uždavinius,  atlieka šio  įstatymo 18-24 straipsniuose
+uždavinius,  atlieka šio  įstatymo 18-24 straipsniuose
 
 nurodytas funkcijas.
 
@@ -1169,9 +1077,9 @@ funkcijų.
 
 18 straipsnis.
 
-Nusikaltimų ir kitų teisės
+Nusikaltimų ir kitų teisės pažeidimų
 
-pažeidimų prevencija
+prevencija
 
 Policija:
 
@@ -1241,9 +1149,9 @@ atlieka  šio
 
 veiksmus;
 
-3) įstatymų nustatyta
+3) įstatymų
 
-tvarka atlieka kvotą;
+nustatyta tvarka atlieka kvotą;
 
 4) baudžiamojo
 
@@ -1269,7 +1177,7 @@ prevencijos  ir išaiškinimo veiksmai, kurie naudojami
 
 rinkti informacijai
 
-apie rengiamus  ir  padarytus  nusikaltimus.
+apie rengiamus  ir  padarytus  nusikaltimus.
 
 Atliekant tuos
 
@@ -1291,9 +1199,9 @@ naudotis
 
 specialiąja   technika,  savanoriška  vieša  ar  slapta
 
-piliečių pagalba,  taip
+piliečių pagalba,
 
-pat  žvalgybinės apklausos,  operatyvinio
+taip pat  žvalgybinės apklausos,  operatyvinio
 
 patikrinimo   bei
 
@@ -1319,9 +1227,9 @@ patvirtinti
 
 norminiai aktai.
 
-Operatyvinės
+Operatyvinės veiklos
 
-veiklos priemonių ir būdų panaudojimą kiekvienu
+priemonių ir būdų panaudojimą kiekvienu
 
 konkrečiu atveju
 
@@ -1351,15 +1259,15 @@ kriminaliniais
 
 nusikaltimais  bei jų  prevencijos tikslais ir yra
 
-operatyvinių
+operatyvinių policijos
 
-policijos tarnybų išimtinė teisė.
+tarnybų išimtinė teisė.
 
 21 straipsnis.
 
 Viešiosios tvarkos, visuomeninės rimties ir
 
-saugumo, piliečių teisių ir laisvių apsauga
+saugumo, piliečių teisių ir laisvių ap sauga
 
 Policija:
 
@@ -1413,17 +1321,15 @@ prievartos
 
 priemones;
 
-6)  įstatymo   numatytais
+6)  įstatymo
 
-atvejais   saugo  ir   konvojuoja
+numatytais  atvejais   saugo  ir   konvojuoja
 
 sulaikytuosius
 
 asmenis,  vykdo  teismų  ir  tardytojų  nutarimus
 
-baudžiamosiose
-
-bylose;
+baudžiamosiose bylose;
 
 7) užtikrina
 
@@ -1467,9 +1373,9 @@ pažeidėjus   bei  patraukia   juos  įstatymų   numatyton
 
 atsakomybėn;
 
-2)  padeda   įgyvendinti
+2)  padeda
 
-valstybės   migracijos   politiką,
+įgyvendinti  valstybės   migracijos   politiką,
 
 užtikrina Lietuvos
 
@@ -1501,17 +1407,13 @@ reikalų ministro  įsakymu atlieka kitas Policijos
 
 funkcijas.
 
-Pakeitimai:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 06 28
+Nr. 1-514, 94.06.28,
 
-įstatymas Nr.1-514,
-
-Žin., 1994,
-
-Nr.53-994;
+Žin., 1994, Nr. 53-994 (94.07.13)
 
 22 straipsnis.
 
@@ -1543,9 +1445,9 @@ reikalavimus;
 
 transporto priemonių techninę būklę;
 
-4)
+4) kontroliuoja,
 
-kontroliuoja,  kaip asmenys,  visų rūšių įmonės, įstaigos
+kaip asmenys,  visų rūšių įmonės, įstaigos
 
 ir organizacijos
 
@@ -1565,9 +1467,9 @@ atlieka    kvotą
 
 autotransporto    įvykių    bylose,    skiria
 
-administracines nuobaudas
+administracines
 
-ir kitokias poveikio priemones už kelių
+nuobaudas ir kitokias poveikio priemones už kelių
 
 eismo taisyklių
 
@@ -1587,9 +1489,9 @@ Socialinė pagalba gyventojams
 
 Policija:
 
-1) teikia  neatidėliotiną
+1) teikia
 
-pagalbą  asmenims,  nukentėjusiems
+neatidėliotiną pagalbą  asmenims,  nukentėjusiems
 
 nuo teisės
 
@@ -1671,9 +1573,9 @@ nusikaltimams
 
 ar    kitiems   teisės   pažeidimams,   sulaikant
 
-nusikaltėlius  ir   kitais
+nusikaltėlius  ir
 
-atvejais   visos  policijos  tarnybos
+kitais  atvejais   visos  policijos  tarnybos
 
 bendradarbiauja
 
@@ -1693,29 +1595,29 @@ Priėmimas tarnybon. Tarnybos policijoje
 
 teisinis reguliavimas
 
-Į tarnybą
+Į  tarnybą
 
-policijoje  savanoriškumo  ir  atrankos  pagrindu
+policijoje  savanoriškumo  ir  atrankos pagrindu
 
-priimami ne
+priimami  ne
 
-jaunesni kaip  18  metų  mokantys  valstybinę  kalbą
+jaunesni  kaip  18  metų  mokantys valstybinę kalbą
 
 Lietuvos
 
-Respublikos   piliečiai,  kurie   pagal   išsilavinimą,
+Respublikos   piliečiai,  kurie   pagal   išsilavinimą,
 
 asmenines savybes,
 
-dalykinį ir  fizinį pasirengimą bei sveikatos
+dalykinį  ir fizinį pasirengimą  bei sveikatos
 
 būklę tinka
 
 policijos pareigūno  pareigoms. Pasienio  policijoje
 
-gali   tarnauti
+gali  tarnauti
 
-tikrosios   krašto   apsaugos tarnybos  kariai,
+tikrosios  krašto   apsaugos  tarnybos   kariai,
 
 tinkantys tarnybai.
 
@@ -1763,7 +1665,7 @@ policijoje tvarkoma statutinės drausmės pagrindais.
 
 Tarnybos
 
-policijoje  sąlygas  ir  tvarką  nustato  Lietuvos
+policijoje  sąlygas  ir  tvarką  nustato  Lietuvos
 
 Respublikos
 
@@ -1803,19 +1705,13 @@ mokslinį tiriamąjį  darbą, jei  tai neprieštarauja
 
 tarnybos interesams.
 
-Pakeitimai:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 06 28
+Nr. 1-514, 94.06.28,
 
-įstatymas
-
-Nr.1-514,
-
-Žin., 1994,
-
-Nr.53-994;
+Žin., 1994, Nr. 53-994 (94.07.13)
 
 26 straipsnis.
 
@@ -1983,9 +1879,9 @@ Policininko
 
 kvalifikacijai  pažymėti  nustatomos  pareiginio
 
-laipsnio kvalifikacinės
+laipsnio
 
-kategorijos.
+kvalifikacinės kategorijos.
 
 Pasienio
 
@@ -1995,19 +1891,13 @@ suteikiami šiame
 
 įstatyme nustatyta tvarka.
 
-Pakeitimai:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 06 28
+Nr. 1-514, 94.06.28,
 
-įstatymas
-
-Nr.1-514,
-
-Žin., 1994,
-
-Nr.53-994;
+Žin., 1994, Nr. 53-994 (94.07.13)
 
 28 straipsnis.
 
@@ -2189,7 +2079,7 @@ esantys   policijos  rezerve,   gauna  nustatyto
 
 pavyzdžio
 
-pažymėjimus,   yra  mokomi,   aprūpinami  apranga   ir
+pažymėjimus,   yra  mokomi,   aprūpinami  apranga   ir
 
 amunicija valstybės
 
@@ -2203,9 +2093,9 @@ turėdami bendrąsias jų teises bei pareigas.
 
 policijos rezervą  sąlygas  ir  tvarką  nustato
 
-Lietuvos
+Lietuvos  Respublikos
 
-Respublikos   policijos  rezervo   nuostatai,   kuriuos
+policijos  rezervo   nuostatai,   kuriuos
 
 tvirtina Vyriausybė.
 
@@ -2277,9 +2167,9 @@ Bendrąsias
 
 profesines teises ir pareigas turi visi policijos
 
-pareigūnai.   Specialiosios
+pareigūnai.
 
-profesinės   teisės   ir   pareigos
+Specialiosios   profesinės   teisės   ir   pareigos
 
 suteikiamos
 
@@ -2291,13 +2181,13 @@ policijos funkcijas.
 
 34 straipsnis.
 
-Bendrosios profesinės policijos
+Bendrosios profesinės policijos pareigūnų
 
-pareigūnų teisės
+teisės
 
-Kiekvienas policijos
+Kiekvienas
 
-pareigūnas turi teisę:
+policijos pareigūnas turi teisę:
 
 1)
 
@@ -2325,7 +2215,7 @@ teisėtvarkos pažeidėjus  į policiją  ar kitas
 
 tarnybines patalpas
 
-ne ilgiau  kaip  3  valandoms  jų  asmenybei
+ne ilgiau  kaip  3  valandoms  jų  asmenybei
 
 nustatyti,
 
@@ -2347,9 +2237,9 @@ specialiąsias priemones, kovinių imtynių veiksmus;
 
 persekiodamas  asmenis, įtariamus  padarius  nusikaltimą,
 
-nusikaltėlius, besislepiančius
+nusikaltėlius,
 
-nuo teisėsaugos  organų, taip pat
+besislepiančius  nuo teisėsaugos  organų, taip pat
 
 siekdamas užkirsti
 
@@ -2397,9 +2287,9 @@ saugumui;
 
 į įvykio vietą, persekiodamas nusikaltėlius,
 
-gabendamas  asmenis,
+gabendamas
 
-kuriems  būtina  neatidėliotina  medicininė
+asmenis,  kuriems  būtina  neatidėliotina  medicininė
 
 pagalba, į  gydymo
 
@@ -2411,7 +2301,7 @@ nemokamai naudotis visomis transporto priemonėmis,
 
 priklausančiomis
 
-įmonėms,    įstaigoms,   organizacijoms,
+įmonėms,       įstaigoms,     organizacijoms,
 
 kooperatyvams ar
 
@@ -2427,7 +2317,7 @@ tarnybiniam būtinumui, policijos pareigūnai turi teisę
 
 įsigyti bilietus  į
 
-visas  transporto  priemones  be  eilės,  jei
+visas  transporto  priemones  be  eilės,  jei
 
 bilietų nėra - į
 
@@ -2461,9 +2351,9 @@ piliečių nustatyta tvarka.
 
 35 straipsnis.
 
-Policijos pareigūnų bendrosios
+Policijos pareigūnų bendrosios profesinės
 
-profesinės pareigos
+pareigos
 
 Policijos
 
@@ -2517,7 +2407,7 @@ sulaikytų ar  pristatytų  į  policiją  asmenų
 
 teises  ir
 
-teisėtus  interesus,   sveikatos  apsaugą,  suteikti
+teisėtus  interesus,   sveikatos  apsaugą,  suteikti
 
 neatidėliotiną
 
@@ -2589,9 +2479,9 @@ laisves.
 
 36
 
-straipsnis.  Policijos  pareigūnų  teisės  vykdant
+straipsnis.  Policijos  pareigūnų  teisės  vykdant  nusi
 
-nusikaltimų ir teisės pažeidimų prevenciją
+kaltimų ir teisės pažeidimų prevenciją
 
 Policijos
 
@@ -2619,9 +2509,9 @@ nusikaltimų aukomis;
 
 policiją  ir  oficialiai  įspėti  asmenis  dėl
 
-neleistino antivisuomeninio
+neleistino
 
-elgesio;
+antivisuomeninio elgesio;
 
 3) vykdydamas
 
@@ -2647,13 +2537,15 @@ kaip laikomasi leidimų sistemos pasienyje ir
 
 imigracijos
 
-taisyklių,   užeiti  į  butą  nuo  6  iki  22  val.,
+taisyklių,   užeiti  į  butą  nuo  6  iki  22  val.,
 
 reikalauti  asmens
 
 dokumentų,  surašyti  administracinių  teisės
 
-pažeidimų protokolus;
+pažeidimų
+
+protokolus;
 
 5)
 
@@ -2753,15 +2645,15 @@ profilaktiniams
 
 pokalbiams   asmenis,   įrašytus   į   policijos
 
-profilaktines įskaitas.
+profilaktines
+
+įskaitas.
 
 37 straipsnis.
 
 Policijos pareigūnų teisės atskleidžiant
 
-ir
-
-tiriant nusikaltimus
+ir tiriant nusikaltimus
 
 Policijos
 
@@ -2771,7 +2663,9 @@ pareigūnas, tirdamas nusikaltimus, turi teisę:
 
 pareiškimus ir  pranešimus  apie  rengiamus  ir
 
-padarytus nusikaltimus;
+padarytus
+
+nusikaltimus;
 
 2) nustatyta
 
@@ -2817,9 +2711,9 @@ organizacijas
 
 įvažiuojantį    ir   išvažiuojantį    transportą,
 
-asmeninėse  bei
+asmeninėse  bei   valstybinėse
 
-valstybinėse  transporto   priemonėse  esančius
+transporto   priemonėse  esančius
 
 krovinius ir
 
@@ -2859,9 +2753,9 @@ iš  vadovų,
 
 pareigūnų,  materialiai  atsakingų  ir  kitų  asmenų
 
-duomenis, paaiškinimus
+duomenis,
 
-dėl pažeidimų ar nusikaltimų;
+paaiškinimus dėl pažeidimų ar nusikaltimų;
 
 e) rengti
 
@@ -2907,11 +2801,11 @@ procesinius veiksmus.
 
 38 straipsnis.
 
-Policijos pareigūnų teisės saugant
+Policijos pareigūnų teisės saugant viešąją
 
-viešąją tvarką, visuomeninę rimtį,
+tvarką, visuomeninę rimtį, piliečių teises
 
-piliečių teises ir laisves
+ir laisves
 
 Policijos
 
@@ -2929,9 +2823,9 @@ turi teisę:
 
 reikalauti   iš  piliečių  ir  pareigūnų,  pažeidžiančių
 
-teisėtvarką, nutraukti
+teisėtvarką,
 
-neteisėtus veiksmus,  o prireikus  - juos
+nutraukti  neteisėtus veiksmus,  o prireikus  - juos
 
 įspėti;
 
@@ -2995,9 +2889,7 @@ laikosi aplinkos apsaugos reikalavimų.
 
 Policijos pareigūnų teisės užtikrinant
 
-eismo
-
-saugumą
+eismo saugumą
 
 Policijos
 
@@ -3157,9 +3049,9 @@ asmens
 
 indentifikavimo veiksmams atlikti;
 
-4)  sustabdyti
+4)
 
-ir  apžiūrėti   transporto  priemones;  jei
+sustabdyti   ir  apžiūrėti   transporto  priemones;  jei
 
 nustatomas
 
@@ -3221,19 +3113,13 @@ Lietuvos Respublikos  įstatymai  bei  Vyriausybės
 
 nutarimai.
 
-Pakeitimai:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 06 28
+Nr. 1-514, 94.06.28,
 
-įstatymas
-
-Nr.1-514,
-
-Žin., 1994,
-
-Nr.53-994;
+Žin., 1994, Nr. 53-994 (94.07.13)
 
 40 straipsnis.
 
@@ -3367,7 +3253,7 @@ pasiekti.
 
 Policijos
 
-pareigūnai  šaunamuosius ginklus  ir specialiąsias
+pareigūnai  šaunamuosius ginklus  ir specialiąsias
 
 priemones naudoja,
 
@@ -3445,9 +3331,9 @@ pareigūno šaunamąjį giklą;
 
 kitus  asmenis  nuo  užpuolimo,  gresiančio  jų
 
-sveikatai ar
+sveikatai ar  gyvybei,
 
-gyvybei, taip  pat siekiant  išvaduoti pagrobtus ar
+taip  pat siekiant  išvaduoti pagrobtus ar
 
 paimtus įkaitais
 
@@ -3465,9 +3351,9 @@ jis,  siekdamas
 
 išvengti  sulaikymo,   kėsinasi  panaudoti   ar
 
-panaudoja
+panaudoja  šaunamąjį,
 
-šaunamąjį,   nešaunamąjį  ginklą   ar  kitus  daiktus,
+nešaunamąjį  ginklą   ar  kitus  daiktus,
 
 įrankius, priemones
 
@@ -3483,9 +3369,9 @@ jeigu kitaip jo
 
 neįmanoma sulaikyti;
 
-6)  siekiant
+6)  siekiant  sulaikyti
 
-sulaikyti  suimtąjį  ar  nuteistąjį,  bandantį
+suimtąjį  ar  nuteistąjį,  bandantį
 
 pabėgti ar  pabėgusį
 
@@ -3523,15 +3409,15 @@ pranešama prokurorui.
 
 Draudžiama
 
-naudoti   šaunamąjį  ginklą   žmonių  susibūrimo
+naudoti   šaunamąjį  ginklą   žmonių  susibūrimo
 
 vietose, jeigu nuo
 
 to gali nukentėti pašaliniai asmenys; taip pat
 
-prieš piliečius,  turinčius
+prieš piliečius,
 
-su  savimi  mažamečių  vaikų;  prieš
+turinčius  su  savimi  mažamečių  vaikų;  prieš
 
 moteris  ir
 
@@ -3563,9 +3449,9 @@ grėsmę eismo
 
 saugumui ar žmonėms.
 
-Policijos pareigūnas
+Policijos
 
-gali nušauti gyvūną, užpuolusį žmogų ar
+pareigūnas gali nušauti gyvūną, užpuolusį žmogų ar
 
 keliantį pavojų
 
@@ -3575,7 +3461,9 @@ gyventojams.
 
 Policijos specialiosios priemonės ir jų
 
-panaudojimo sąlygos
+panaudojimo
+
+sąlygos
 
 Policija turi
 
@@ -3589,9 +3477,9 @@ veiksmus, dujas,
 
 vandensvaidžius, tarnybinius  šunis, transporto
 
-priverstinio
+priverstinio sustabdymo
 
-sustabdymo ir kitas priemones:
+ir kitas priemones:
 
 1) guminę lazdą
 
@@ -3667,9 +3555,9 @@ straipsnio 1 punkte
 
 numatytais atvejais;
 
-specialios paskirties
+specialios
 
-dujas:
+paskirties dujas:
 
 - masinių
 
@@ -3687,9 +3575,9 @@ pavojingą veiką,
 
 apleisti patalpas, transporto priemonę;
 
-5) vandensvaidžius
+5)
 
--  masinių  riaušių,  grupinių  veiksmų,
+vandensvaidžius  -  masinių  riaušių,  grupinių  veiksmų,
 
 šiurkščiai
 
@@ -3759,9 +3647,7 @@ užpuola.
 
 VI SKIRSNIS.
 
-POLICIJOS
-
-PAREIGŪNŲ SOCIALINĖS GARANTIJOS
+POLICIJOS PAREIGŪNŲ SOCIALINĖS GARANTIJOS
 
 44 straipsnis.
 
@@ -3785,7 +3671,7 @@ butui gauti darbovietėje ir stojantiems nuolat
 
 tarnauti  Lietuvos
 
-Respublikos  policijoje,  eilė  butui  gauti
+Respublikos  policijoje,  eilė  butui  gauti
 
 perkeliama ir toliau
 
@@ -3889,7 +3775,7 @@ Policijos pareigūnų pensijos
 
 Policijos
 
-pareigūnams,   kurie  tapo  nedarbingi  vykdydami
+pareigūnams,   kurie  tapo  nedarbingi  vykdydami
 
 tarnybines pareigas,
 
@@ -3905,9 +3791,9 @@ Respublikos   policijoje,   draudimą   nuo   nelaimingų
 
 atsitikimų.
 
-Policijos
+Policijos pareigūnų
 
-pareigūnų  pensijų ir  socialinių  garantijų  dydį
+pensijų ir  socialinių  garantijų  dydį
 
 nustato
 
@@ -3917,11 +3803,15 @@ tvarkąLietuvos
 
 Respublikos Vyriausybė.
 
+[    47 straipsnio
+
+redakcija iki 1996 m. sausio 1 d. ]
+
 47 straipsnis.
 
-Kitos policijos pareigūnų
+Kitos policijos pareigūnų socialinės
 
-socialinės garantijos
+garantijos
 
 Policijos
 
@@ -3969,15 +3859,15 @@ metų - 45 kalendorinės dienos.
 
 Policijos
 
-pareigūnai   Lietuvos  Respublikos   teritorijoje
+pareigūnai  Lietuvos   Respublikos  teritorijoje
 
-nemokamai
+nemokamai naudojasi
 
-naudojasi    valstybiniu    (miesto,    priemiesčio,
+valstybiniu (miesto, priemiesčio, tarpmiestiniu
 
-tarpmiestiniu iki
+iki 100 km)
 
-100 km) transportu, išskyrus lėktuvus ir taksi.
+transportu, išskyrus lėktuvus ir taksi.
 
 Policijos
 
@@ -4001,23 +3891,13 @@ reglamentuoja  nuostatai,  kuriuos  tvirtina
 
 vidaus  reikalų,
 
-sveikatos  apsaugos   ir  socialinės  apsaugos
+sveikatos  apsaugos   ir  socialinės  apsaugos
 
 ministrai.
 
-Pakeitimas:
+[    47 straipsnio
 
-Lietuvos
-
-Respublikos 1994 05 21
-
-įstatymas
-
-Nr.1-1338,
-
-Žin.,1991,
-
-Nr.16-410;
+redakcija nuo 1996 m. sausio 1 d. ]
 
 48 straipsnis.
 
@@ -4043,9 +3923,9 @@ Policijos
 
 pareigūnui, kuris buvo sužeistas ryšium su tarnyba
 
-policijoje, išmokama
+policijoje,
 
-nuo vienerių  iki penkerių metų (nuo 12 iki
+išmokama  nuo vienerių  iki penkerių metų (nuo 12 iki
 
 60 mėnesių) darbo
 
@@ -4069,17 +3949,21 @@ POLICIJOS
 
 FINANSAVIMAS IR MATERIALINIS TECHNINIS APRŪPINIMAS
 
+[ 49 straipsnio
+
+redakcija nuo 1995 m. sausio 1 d. ]
+
 49 straipsnis.
 
 Policijos finansavimas
 
 Respublikinė
 
-ir   savivaldybių  policija   finansuojama
+ir   savivaldybių  policija   finansuojama  iš
 
-iš Lietuvos
+Lietuvos Respublikos
 
-Respublikos valstybės biudžeto.
+valstybės biudžeto.
 
 Policijos
 
@@ -4115,23 +3999,13 @@ biudžeto    tvarką   nustato   Lietuvos   Respublikos
 
 Vyriausybė.
 
-Pastaba: 49
+Straipsnio
 
-straipsnis įsigalioja nuo 1995 m. sausio 1 dienos.
+pakeitimai:
 
-Pakeitimas:
+Nr. 1-601, 94.10.12,
 
-Lietuvos
-
-Respublikos 1994 10 12
-
-įstatymas Nr.
-
-1-601,
-
-Žin.,1994,
-
-Nr.82-1547;
+Žin., 1994, Nr. 82-1547 (94.10.21)
 
 50 straipsnis.
 
@@ -4171,9 +4045,9 @@ Policijos
 
 padalinius   transporto  priemonėmis,   uniforma,
 
-ginklais,
+ginklais,  šaudmenimis,
 
-šaudmenimis,  specialiosiomis  policijos  priemonėmis,
+specialiosiomis  policijos  priemonėmis,
 
 operatyvine, ryšių,
 
@@ -4193,103 +4067,15 @@ AUKŠČIAUSIOSIOS
 
 TARYBOS
 
-PIRMININKO PAVADUOTOJAS
+PIRMININKO
 
-K.      MOTIEKA
+PAVADUOTOJAS                        K. MOTIEKA
 
-Vilnius,
+Vilnius, 1990 m.
 
-1990 m. gruodžio
-
-11d.
+gruodžio 11 d.
 
 Nr. I-851
 
 _
-
-36 straipsnis. Policijos
-
-pareigūnų teisės vykdant nusikaltimų ir teisės pažeidimų prevenciją
-
-Policijos pareigūnas,
-
-vykdydamas teisės pažeidimų prevenciją, turi teisę:
-
-1) pristatyti iš viešųjų
-
-vietų bei lindynių į blaivyklas, o jei jų nėra - į policiją neblaivius asmenis,
-
-jeigu jie nebegali judėti ar gali padaryti žalą aplinkiniams arba sau, tapti
-
-nusikaltimų aukomis;
-
-2) kviesti į policiją ir
-
-oficialiai įspėti asmenis dėl neleistino antivisuomeninio elgesio;
-
-3) vykdydamas administracinę
-
-priežiūrą, įeiti bet kuriuo paros laiku į asmens, kuriam nustatyta
-
-administracinė priežiūra, nuolatinę ar laikinąją gyvenamąją patalpą, kviesti ir
-
-pristatyti tokį asmenį į policiją, kontroliuoti, kaip jis laikosi nustatytų
-
-apribojimų;
-
-4) tikrindamas, kaip
-
-laikomasi leidimų sistemos pasienyje ir imigracijos taisyklių, užeiti į butą
-
-nuo 6 iki 22 val., reikalauti asmens dokumentų, surašyti administracinių teisės
-
-pažeidimų protokolus;
-
-5) fotografuoti, daryti
-
-vaizdo ir garso įrašus asmenų, nubaustų administraciniu areštu, esančių
-
-administracinėje priežiūroje, taip pat asmenų, įrašytų į policijos
-
-profilaktikos įskaitas; daktiloskopuoti asmenis, sulaikytus įtariant padarius
-
-nusikaltimą arba valkataujant;
-
-6) sulaikyti ir pristatyti į
-
-skirstymo punktus valkataujančius asmenis. Jeigu sulaikytasis neturi dokumentų
-
-ir kitais būdais neįmanoma nustatyti jo asmenybės, policijos pareigūnai turi
-
-teisę daktiloskopuoti, daryti vaizdo ir garso įrašus, fotografuoti, dalyvaujant
-
-medikams, atlikti apžiūrą ypatingoms žymėms nustatyti. Prireikus iš tokio
-
-asmens leidžiama paimti rašysenos pavyzdžius, laikinai - taip pat daiktus,
-
-galinčius padėti nustatyti asmenybę;
-
-7) tikrinti asmenis,
-
-ketinančius skristi lėktuvu, jų daiktus, rankinį bagažą; neleisti skristi
-
-keleiviams, kurie atsisako tai pateikti apžiūrai, taip pat kurie pateikė
-
-negaliojančius ar suklastotus dokumentus, pas kuriuos rasta uždraustų pervežti
-
-daiktų; surašyti administracinio teisės pažeidimo protokolą;
-
-8) pristatyti į medicinos
-
-įstaigas priverstiniam patikrinimui dėl venerinių ligų ir AIDS, narkomanus,
-
-prostitutes, homoseksualistus ir kitus asmenis, įrašytus į profilaktines
-
-medicinos įstaigų ar policijos įskaitas;
-
-9) lankytis namuose, taip
-
-pat kviesti į policiją profilaktiniams pokalbiams asmenis, įrašytus į policijos
-
-profilaktines įskaitas.
 
