@@ -4,7 +4,7 @@ identifier: "TAR.4E9EEE15278B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-10-06"
-last_updated: "1992-10-14"
+last_updated: "1994-09-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos hipotekos įstatymas
+
+Suvestinė redakcija nuo 1994-09-30 iki 1996-10-15
+
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 200-0; Žin. 1992, Nr.31-951, i. k. 0921010ISTA00I-2936
 
 LIETUVOS RESPUBLIKOS HIPOTEKOS ĮSTATYMAS
 
@@ -52,7 +56,11 @@ Norint įkeisti dalį turto, toji dalis turi būti tiksliai apibrėžta ir įreg
 
 Turtas, priklausantis bendrosios nuosavybės teise, gali būti įkeistas tik visiems bendrasavininkiams sutikus.
 
-Pagal hipotekos įstatymą įkeisti valstybinį turtą neleidžiama.
+Pagal Hipotekos įstatymą gali būti įkeičiamas bet koks turtas, išskyrus tą, į kurį pagal Lietuvos Respublikos įstatymus negali būti nukreipiamas išieškojimas.
+
+Straipsnio pakeitimai:
+
+Nr. I-594, 1994-09-22, Žin., 1994, Nr. 76-1419 (1994-09-30), i. k. 0941010ISTA000I-594
 
 9 straipsnis. Nekilnojamojo turto įkeitimas apima:
 
@@ -340,53 +348,13 @@ Vilnius, 1992 m. spalio 6 d.
 
 Nr. I-2936
 
-581 straipsnis. Kreditorius, padavęs prašymą už skolą įkeistą turtą parduoti iš varžytinių, ne vėliau kaip prieš 7 dienas iki varžytinių privalo raštu pranešti teismo antstoliui įkeitimo sumą bei nurodyti prašomą patenkinti reikalavimų sumą.
+Pakeitimai:
 
-Asmenys, kurie turi vykdomuosius dokumentus kitose bylose, gali prisijungti prie išieškojimo paduodami prašymą teismo antstoliui šio straipsnio pirmojoje dalyje nurodytu terminu
+1.
 
-Papildyta straipsniu:
+Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
+Nr. I-594, 1994-09-22, Žin., 1994, Nr. 76-1419 (1994-09-30), i. k. 0941010ISTA000I-594
 
-582 straipsnis. Teismo antstolis kiekvienam parduodamam turtui surašo varžytinių lapą, kuriame nurodo:
-
-1) parduodamą iš varžytinių įkeistą turtą;
-
-2) turtui paliekamus apribojimus (nuomą, servitutus ir kita) bei prievoles;
-
-3) įkainojimo sumą;
-
-4) pradinę turto kainą per varžytines.
-
-Kreditorių reikalavimai surašomi jų tenkinimo eilės tvarka nurodant tikslias sumas
-
-Papildyta straipsniu:
-
-Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
-
-583 straipsnis. Varžytinės pradedamos nuo pradinės turto kainos, kuri gali būti turto įkainojimo suma arba bendroji suma, priklausomai nuo to, kuri iš jų yra didesnė. Bendrąją sumą sudaro turtą apribojanti skola bei vykdymo išlaidos
-
-Papildyta straipsniu:
-
-Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
-
-584 straipsnis. Jeigu turto kaina gauta varžytinėse, bet kuriam hipotekiniam kreditoriui pasirodo per maža, jis gali per 10 dienų nuo varžytinių dienos reikalauti naujų varžytinių, pasiūlęs ne mažiau kaip dešimtadaliu didesnę kainą už tą, už kurią turtas buvo parduotas. Kreditoriams varžytinių neužprotestavus, vyresnysis teismo antstolis patvirtina turto pardavimo varžytinėse aktą ir ne vėliau kaip kitą darbo dieną perduoda jį hipotekos įstaigai bei išsiunčia pirkėjui
-
-Papildyta straipsniu:
-
-Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
-
-585 straipsnis. Hipotekos teisėjas per 3 darbo dienas nuo turto pardavimo varžytinėse akto gavimo dienos priima nutartį baigti hipoteką.
-
-Papildyta straipsniu:
-
-Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
-
-111 straipsnis. Duomenų apie padalytą ar sujungtą įkeistą nekilnojamąjį turtą pakeitimas hipotekos registre
-
-Apie įkeisto turto padalijimą ar sujungimą ir įkeisto turto kodo pakeitimą Nekilnojamojo turto registro tvarkymo įstaiga nedelsiant turi informuoti hipotekos registrą Nekilnojamojo turto registro nuostatuose nustatyta tvarka. Remdamasis Nekilnojamojo turto registro tvarkymo įstaigos pranešimu, hipotekos skyrius per 3 darbo dienas turi pakeisti įkeisto turto kodą hipotekos registre Hipotekos registro nuostatų nustatyta tvarka ir informuoti hipotekos kreditorių apie hipotekos registro duomenų pakeitimą, išskyrus atvejus, kai turtas įkeistas pareikštiniu hipotekos lakštu.
-
-Papildyta straipsniu:
-
-Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
+Dėl Lietuvos Respublikos hipotekos įstatymo 8 straipsnio pakeitimo
 
