@@ -4,7 +4,7 @@ identifier: "TAR.CDC433E7BED2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-07"
-last_updated: "1996-03-28"
+last_updated: "1996-11-14"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymas
 
-@D1=19930707;D2=19960328;D3=19960422
+Redagavo: Ramunė Lūžaitė (1996
 
-@D1=19930707;D2=19960328;D3=19960422
+Redagavo:
+
+Ramunė Lūžaitė (1996.12.04)
 
 Pakeitimai:
 
@@ -27,13 +29,13 @@ Parlamentas,
 
 Įstatymas
 
-{#94C[AA0451 ;} Nr.
+Nr.
 
 1-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
 
-DĖL UŽSIENIO
+DĖL
 
-VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO PAKEITIMO IR
+UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO PAKEITIMO IR
 
 PAPILDYMO
 
@@ -43,7 +45,7 @@ Parlamentas,
 
 Įstatymas
 
-{#96B[AA1260 ;} Nr.
+Nr.
 
 1-1260, 96.03.28, Žin., 1996, Nr. 35-867 (96.04.19)
 
@@ -51,17 +53,35 @@ LIETUVOS
 
 RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE
 
-ĮSTATYMO 3 IR 5
+ĮSTATYMO
 
-STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+3 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-1617, 96.11.14, Žin., 1996, Nr.116-2692 (96.12.04)
+
+LIETUVOS
+
+RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE
+
+ĮSTATYMO
+
+3 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
-UŽSIENIO
-
-VALIUTOS LIETUVOS RESPUBLIKOJE
+UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE
 
 ĮSTATYMAS
 
@@ -69,37 +89,27 @@ VALIUTOS LIETUVOS RESPUBLIKOJE
 
 Vilnius
 
-1 straipsnis.
+1 straipsnis. Užsienio valiutos sąvoka
 
-Užsienio valiutos sąvoka
+Užsienio valiuta  - tai  bet kurios  užsienio  valstybės  ar
 
-Užsienio
+užsienio
 
-valiuta  - tai  bet kurios  užsienio  valstybės  ar
+valstybių bendrai naudojama valiuta.
 
-užsienio valstybių
+2 straipsnis. Užsienio valiutos laikymas
 
-bendrai naudojama valiuta.
+Lietuvos Respublikos  juridiniai ir  fiziniai  asmenys  turi
 
-2 straipsnis.
+teisę
 
-Užsienio valiutos laikymas
+atidaryti  užsienio valiutos sąskaitas Lietuvos Respublikos
 
-Lietuvos
+ir
 
-Respublikos  juridiniai ir  fiziniai  asmenys  turi
+užsienio bankuose.
 
-teisę atidaryti
-
-užsienio valiutos sąskaitas Lietuvos Respublikos
-
-ir užsienio
-
-bankuose.
-
-Lietuvos
-
-Respublikos   juridiniai   asmenys   ir   ūkiniai
+Lietuvos   Respublikos   juridiniai   asmenys   ir   ūkiniai
 
 subjektai,
 
@@ -111,69 +121,63 @@ užsienio   valstybių  bankuose,  gavę  Lietuvos  banko
 
 leidimą.
 
-Užsienio
+Užsienio valstybių juridiniai ir fiziniai asmenys turi teisę
 
-valstybių juridiniai ir fiziniai asmenys turi teisę
+užsienio
 
-užsienio valiutą
+valiutą laikyti Lietuvos Respublikos bankuose.
 
-laikyti Lietuvos Respublikos bankuose.
+3 straipsnis. Užsienio valiutos naudojimas
 
-3 straipsnis.
+Užsienio  valiuta   gali   būti   naudojama  mokėjimams  bei
 
-Užsienio valiutos naudojimas
+atsiskaitymams
 
-UŲsienio
-
-valiuta   gali  b×ti  naudojama  mokÓjimams  bei
-
-atsiskaitymams  su
-
-uŲsienio  valstybiÖ  juridiniais ir fiziniais
+su  užsienio  valstybių  juridiniais ir  fiziniais
 
 asmenimis,
 
-esanŃiais   ne   Lietuvos   Respublikoje,  taip  pat
+esančiais   ne    Lietuvos  Respublikoje.   Užsienio
 
-laisvosiose
+valiuta
 
-ekonominÓse zonose.
+taip  pat  gali   būti   naudojama   atsiskaitymams   ir
 
-Lietuvos
+mokėjimams
 
-Respublikos  ir  užsienio  valstybių juridiniai ir
+laisvosiose  ekonominėse  zonose  bei neapmuitinamose
 
-fiziniai asmenys
+parduotuvėse.
 
-lėšas iš  savo valiutinių  sąskaitų ir  indėlių
+Lietuvos  Respublikos  ir  užsienio  valstybių juridiniai ir
 
-bankuose,  taip
+fiziniai
 
-pat  palūkanas  už  juos  gali  paimti  užsienio
+asmenys  lėšas iš  savo valiutinių  sąskaitų ir  indėlių
+
+bankuose,
+
+taip  pat  palūkanas  už  juos  gali  paimti  užsienio
 
 valiuta.
 
-Operacijas
+Operacijas užsienio  valiuta (pirkimą,  pardavimą,  keitimą,
 
-užsienio  valiuta (pirkimą,  pardavimą,  keitimą,
+paskolų
 
-paskolų teikimą  ir
+teikimą  ir kitas)  atlieka tik bankai, turintys Lietuvos
 
-kitas)  atlieka tik bankai, turintys Lietuvos
+banko
 
-banko leidimą.
+leidimą.
 
-Užsienio
+Užsienio  valiuta,  išskyrus pasirinktąją bazine, perkama ir
 
-valiuta,  išskyrus pasirinktąją bazine, perkama ir
+parduodama
 
-parduodama rinkos
+rinkos kursu.
 
-kursu.
-
-Operacijų
-
-užsienio  valiuta atlikimo tvarką nustato Lietuvos
+Operacijų užsienio  valiuta atlikimo tvarką nustato Lietuvos
 
 bankas.
 
@@ -181,17 +185,19 @@ Straipsnio
 
 pakeitimai:
 
-{#94C[AA0451 ;}Nr.
+Nr.
 
 1-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
 
-{#96B[AA1260 ;} Nr.
+Nr.
 
 1-1260, 96.03.28, Žin., 1996, Nr. 35-867 (96.04.19)
 
-4 straipsnis.
+Nr.
 
-Užsienio paskolos
+I-1617, 96.11.14, Žin., 1996, Nr.116-2692 (96.12.04)
+
+4 straipsnis. Užsienio paskolos
 
 Tarpvalstybinės,  tarpbankinės   sutartys  bei  sutartys  su
 
@@ -199,135 +205,117 @@ tarptautinėmis
 
 kredito įstaigomis ir organizacijomis dėl užsienio
 
-paskolų  gavimo
+paskolų
 
-arba  paskolų  suteikimo  į  užsienį  turi  būti
+gavimo  arba  paskolų  suteikimo  į  užsienį  turi  būti
 
 įregistruotos
 
 Lietuvos Respublikos finansų ministerijoje.
 
-Tokia pat
+Tokia pat  tvarka taikoma  sutartims  dėl  paskolų  užsienio
 
-tvarka taikoma  sutartims  dėl  paskolų  užsienio
+valiuta,
 
-valiuta,  kurių
-
-grąžinimą   garantuoja   Lietuvos   Respublikos
+kurių   grąžinimą   garantuoja   Lietuvos   Respublikos
 
 Vyriausybė.
 
-Užsienio
+Užsienio paskolų  sutarčių registravimo, paskolų paskirstymo
 
-paskolų  sutarčių registravimo, paskolų paskirstymo
+ir
 
-ir grąžinimo  tvarką
+grąžinimo  tvarką nustato  Lietuvos Respublikos  Vyriausybė ir
 
-nustato  Lietuvos Respublikos  Vyriausybė ir
+Lietuvos
 
-Lietuvos bankas.
+bankas.
 
 Straipsnio
 
 pakeitimas(ai):
 
-{#94C[AA0451 ;}Nr.
+Nr.
 
 1-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
 
-5 straipsnis.
+5 straipsnis. Kapitalo ŌveŲimas ir iÕveŲimas
 
-Kapitalo ŌveŲimas ir iÕveŲimas
+UŲsienio   kapitalo,   investuojamo  Lietuvos  Respublikoje,
 
-UŲsienio
+ŌveŲimŠ,
 
-kapitalo,   investuojamo  Lietuvos  Respublikoje,
+taip  pat  Õio  kapitalo,  gauto  pelno  ir  dividendÖ
 
-ŌveŲimŠ,   taip
+iÕveŲimŠ
 
-pat  Õio  kapitalo,  gauto  pelno  ir  dividendÖ
-
-iÕveŲimŠ   nustato
-
-UŲsienio   kapitalo   investicijÖ   Lietuvos
+nustato   UŲsienio   kapitalo   investicijÖ   Lietuvos
 
 Respublikoje
 
 Ōstatymas   ir   Lietuvos   Respublikos   laisvÖjÖ
 
-ekonominiÖ zonÖ
+ekonominiÖ
 
-pagrindÖ Ōstatymas.
+zonÖ pagrindÖ Ōstatymas.
 
 Straipsnio
 
 pakeitimai:
 
-{#96B[AA1260 ;} Nr.
+Nr.
 
 1-1260, 96.03.28, Žin., 1996, Nr. 35-867 (96.04.19)
 
-6 straipsnis.
+6 straipsnis. Lito kursas tvarkant apskaitą
 
-Lito kursas tvarkant apskaitą
+Visos įmonės,  įstaigos,  organizacijos  ir  bankai  privalo
 
-Visos įmonės,
+tvarkyti
 
-įstaigos,  organizacijos  ir  bankai  privalo
+apskaitą  pagal oficialų  lito kursą  ir Lietuvos  banko
 
-tvarkyti apskaitą
+skelbiamą
 
-pagal oficialų  lito kursą  ir Lietuvos  banko
-
-skelbiamą lito ir
-
-užsienio valiutos santykį.
+lito ir užsienio valiutos santykį.
 
 Straipsnio
 
-pakeitimas(ai):
+pakeitimai:
 
-{#94C[AA0451 ;}Nr.
+Nr.
 
 1-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
 
-7 straipsnis.
+7 straipsnis. Atsakomybė už įstatymo pažeidimą
 
-Atsakomybė už įstatymo pažeidimą
+Asmenys už  užsienio valiutos  naudojimo, operacijų, įvežimo
 
-Asmenys už
+ir
 
-užsienio valiutos  naudojimo, operacijų, įvežimo
-
-ir išvežimo  tvarkos
-
-pažeidimus atsako pagal Lietuvos Respublikos
+išvežimo  tvarkos pažeidimus atsako pagal Lietuvos Respublikos
 
 įstatymus.
 
-8 straipsnis.
+8 straipsnis. Baigiamieji nuostatai
 
-Baigiamieji nuostatai
+Visų  nuosavybės   formų  įmonės,  įstaigos,  organizacijos,
 
-Visų
+bankai,
 
-nuosavybės   formų  įmonės,  įstaigos,  organizacijos,
+draudimo organizacijos perrašo į litus įstatinio kapitalo
 
-bankai, draudimo
+dalį,
 
-organizacijos perrašo į litus įstatinio kapitalo
+turimą  užsienio valiuta,  taip  pat  akcijas,  dividendus,
 
-dalį, turimą
+tantjemas,
 
-užsienio valiuta,  taip  pat  akcijas,  dividendus,
+draudimo  atlyginimą, draudimo  sumas ir kitas išmokas
 
-tantjemas, draudimo
+1993
 
-atlyginimą, draudimo  sumas ir kitas išmokas
-
-1993 m.  rugpjūčio
-
-1  dienos  duomenimis  pagal  Lietuvos  banko
+m.  rugpjūčio  1  dienos  duomenimis  pagal  Lietuvos  banko
 
 nustatytą
 
@@ -337,45 +325,35 @@ Vyriausybės
 
 nustatyta tvarka.
 
-Piniginiai
+Piniginiai įsipareigojimai užsienio valiuta, kurie turi būti
 
-įsipareigojimai užsienio valiuta, kurie turi būti
+vykdomi
 
-vykdomi Lietuvoje
+Lietuvoje  ir jų terminas baigiasi po 1993 m. rugpjūčio 1
 
-ir jų terminas baigiasi po 1993 m. rugpjūčio 1
+dienos,
 
-dienos, išskyrus  bankų
+išskyrus  bankų įsipareigojimus  išmokėti  iš  valiutinių
 
-įsipareigojimus  išmokėti  iš  valiutinių
+sąskaitų
 
-sąskaitų indėlius,
+indėlius,  taip pat palūkanas už juos ir įsipareigojimus
 
-taip pat palūkanas už juos ir įsipareigojimus
+bankams
 
-bankams dėl
+dėl  užsienio valiuta išduotų paskolų grąžinimo, įvykdomi
 
-užsienio valiuta išduotų paskolų grąžinimo, įvykdomi
+litais
 
-litais pagal
+pagal Lietuvos banko nustatytą oficialų kursą.
 
-Lietuvos banko nustatytą oficialų kursą.
+9 straipsnis. Įstatymo įsigaliojimas
 
-9 straipsnis.
+Įstatymas įsigalioja 1993 m. rugpjūčio 1 dieną.
 
-Įstatymo įsigaliojimas
-
-Įstatymas
-
-įsigalioja 1993 m. rugpjūčio 1 dieną.
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
 PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
-
-_
 
