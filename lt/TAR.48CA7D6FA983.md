@@ -4,7 +4,7 @@ identifier: "TAR.48CA7D6FA983"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-20"
-last_updated: "2003-05-01"
+last_updated: "2004-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.48CA7D6FA983"
 department: "Lietuvos Respublikos Seimas"
@@ -300,11 +300,7 @@ ekonominiams ir strateginiams interesams;
 
 ir užtikrina techninę vyriausybinio ryšio apsaugą;
 
-8) kontroliuoja
-
-Lietuvos Respublikos valstybės paslapčių apsaugą šalies viduje bei jos
-
-įstaigose užsienyje;
+8) kontroliuoja Lietuvos Respublikos įslaptintos informacijos, žymimos slaptumo žymomis „Visiškai slaptai“, „Slaptai“, „Konfidencialiai“, apsaugą valstybės viduje bei jos įstaigose užsienyje;
 
 9) savarankiškai
 
@@ -329,6 +325,10 @@ Straipsnio pakeitimai:
 Nr. VIII-1945,
 
 00.09.19, Žin., 2000, Nr.83-2514 (00.10.04)
+
+Nr. IX-2182,
+
+2004-04-27, Žin., 2004, Nr. 73-2516 (2004-04-30)
 
 8(1)
 
@@ -394,13 +394,13 @@ keliamais uždaviniais.
 
 Saugumo
 
-departamento sistemą sudaro Saugumo departamento centrinis aparatas,
+departamento sistemą sudaro Saugumo departamento centrinis aparatas, teritorinės
 
-teritorinės įstaigos ir specialios paskirties įstaigos prie Saugumo
+įstaigos ir specialios paskirties įstaigos prie Saugumo departamento. Saugumo
 
-departamento. Saugumo departamento struktūrą sudaro Saugumo departamento
+departamento struktūrą sudaro Saugumo departamento centrinis aparatas (su
 
-centrinis aparatas (su struktūriniais padaliniais) bei teritorinės įstaigos.
+struktūriniais padaliniais) bei teritorinės įstaigos.
 
 Saugumo departamento
 
@@ -482,9 +482,9 @@ pakeitimai:
 
 Nr.
 
-IX-1043,
+IX-1043, 2002-07-05,
 
-2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+Žin., 2002, Nr. 73-3102 (2002-07-19)
 
 13 straipsnis. Saugumo departamento darbuotojų statusas
 
@@ -1102,9 +1102,9 @@ pareigas iki atleidimo iš jų dienos.
 
 departamento pareigūnų aprūpinimas butais
 
-Saugumo departamento
+Saugumo departamento pareigūnai
 
-pareigūnai aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
+aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 Lietuvos Respublikos
 
@@ -1328,13 +1328,33 @@ SAUGUMO DEPARTAMENTO ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės 1 d.
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2182,
+
+2004-04-27, Žin., 2004, Nr. 73-2516 (2004-04-30)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-05-08)
+Aušrinė Trapinskienė (2004-05-06)
 
 autrap@lrs.lt
 
