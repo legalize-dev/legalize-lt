@@ -4,7 +4,7 @@ identifier: "TAR.730BCFBF587B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "1997-10-09"
+last_updated: "2000-03-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.730BCFBF587B"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.10.24)
+Aušrinė Trapinskienė (2000.04.18)
 
 Įstatymas
 
@@ -64,145 +64,199 @@ RESPUBLIKOS ŽEMĖS ŪKIO EKONOMINIŲ SANTYKIŲ VALSTYBINIO REGULIAVIMO ĮSTATYM
 
 9 IR 11 STRAIPSNIŲ PAKEITIMO
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1594, 00.03.28, Žin., 2000, Nr.30-828
+
+(00.04.12)
+
+ŽEMĖS ŪKIO EKONOMINIŲ SANTYKIŲ VALSTYBINIO REGULIAVIMO
+
+ĮSTATYMO 2, 4, 5, 6, 9, 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-ŽEMĖS ŪKIO EKONOMINIŲ SANTYKIŲ VALSTYBINIO
+RESPUBLIKOS
 
-REGULIAVIMO
+ŽEMĖS ŪKIO
+
+EKONOMINIŲ SANTYKIŲ VALSTYBINIO REGULIAVIMO
 
 ĮSTATYMAS
 
-1994 m. gruodžio 22 d. Nr.I-734
+1994 m. gruodžio
+
+22 d. Nr.I-734
 
 Vilnius
 
-I. BENDROSIOS NUOSTATOS
+I. BENDROSIOS
 
-1
+NUOSTATOS
 
-straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo
 
-Šio
+paskirtis
 
-įstatymo tikslas - sunorminti žemės ūkio subjektų ekonominius santykius su
+Šio įstatymo tikslas -
 
-valstybės institucijomis ir žemės ūkio rinkos  partneriais,  nustatyti
+sunorminti žemės ūkio subjektų ekonominius santykius su valstybės
 
-pagrindines  šių  santykių valstybinio reguliavimo priemones, sudaryti
+institucijomis ir žemės ūkio rinkos  partneriais,  nustatyti  pagrindines  šių
 
-prielaidas valstybės agrarinei politikai įgyvendinti ir žemės ūkio rinkos
+santykių valstybinio reguliavimo priemones, sudaryti prielaidas valstybės
 
-pusiausvyrai palaikyti.
+agrarinei politikai įgyvendinti ir žemės ūkio rinkos pusiausvyrai palaikyti.
 
-2
+2 straipsnis. Pagrindinės
 
-straipsnis. Pagrindinės sąvokos
+sąvokos
 
-Šiame
+Šiame įstatyme:
 
-įstatyme:
+Žemės ūkio  subjektai -
 
-Žemės
+ūkininkų  ūkiai,  žemės  ūkio bendrovės, kooperatinės bendrovės (kooperatyvai)
 
-ūkio  subjektai - ūkininkų  ūkiai,  žemės  ūkio bendrovės ir kitos įmonės, įregistruotos
+ir kitos įmonės, įregistruotos Lietuvos Respublikos įstatymų nustatyta tvarka,
 
-Lietuvos Respublikos įstatymų nustatyta tvarka, taip pat kiti žemės ūkio
+taip pat kiti žemės ūkio paskirties žemės naudotojai, gaminantys prekinę žemės
 
-paskirties žemės naudotojai, gaminantys prekinę žemės ūkio produkciją. Metinės
+ūkio produkciją. Metinės įplaukos iš prekinės žemės ūkio produkcijos ir gamybos
 
-įplaukos iš prekinės žemės ūkio produkcijos ir gamybos paslaugų žemės ūkiui
+paslaugų žemės ūkiui realizavimo turi sudaryti daugiau kaip 50 procentų visų
 
-realizavimo turi sudaryti daugiau kaip 50 procentų visų gautų  pajamų. Įplaukų
+gautų  pajamų. Įplaukų  dalies,  gaunamos iš prekinės žemės ūkio produkcijos ir
 
-dalies,  gaunamos iš prekinės žemės ūkio produkcijos ir gamybos paslaugų  žemės
+gamybos paslaugų  žemės ūkiui  realizavimo,  įvertinimo  metodiką nustato
 
-ūkiui  realizavimo,  įvertinimo  metodiką nustato  Lietuvos Respublikos
+Lietuvos Respublikos Vyriausybės įgaliota valstybės institucija.
 
-Vyriausybės įgaliota valstybės institucija.
+Žemės ūkio rinka - mainų
 
-Žemės
+sritis, kurioje dalyvauja žemės ūkio subjektai.
 
-ūkio rinka - mainų sritis, kurioje dalyvauja žemės ūkio subjektai.
+Žemės ūkio  rinkos
 
-Žemės
+partneriai - ūkio  subjektai, kurie superka, perdirba ir realizuoja žemės ūkio
 
-ūkio  rinkos  partneriai - ūkio  subjektai, kurie superka, perdirba ir
+produkciją  bei parduoda žemės ūkiui reikalingus materialinius - techninius
 
-realizuoja žemės ūkio  produkciją  bei parduoda žemės ūkiui reikalingus
+išteklius ir teikia žemės ūkiui gamybos paslaugas.
 
-materialinius - techninius išteklius ir teikia žemės ūkiui gamybos paslaugas.
+Supirkimo  kvota - Lietuvos
 
-Supirkimo
+Respublikos  Vyriausybės nustatytas žemės  ūkio  produkcijos kiekis, kurio
 
-kvota - Lietuvos  Respublikos  Vyriausybės nustatytas žemės  ūkio  produkcijos
+supirkimą žemės ūkio subjektui ji garantuoja.
 
-kiekis, kurio supirkimą žemės ūkio subjektui ji garantuoja.
+Importo   kvota  -
 
-Importo
+Lietuvos  Respublikos  Vyriausybės ribojamas prekių kiekis, kurį galima
 
-kvota  -  Lietuvos  Respublikos  Vyriausybės ribojamas prekių kiekis, kurį
+importuoti.
 
-galima importuoti.
+Minimali ribinė kaina -
 
-Minimali
+Lietuvos Respublikos Vyriausybės nustatyta žemės ūkio  produkcijos  supirkimo
 
-ribinė kaina - Lietuvos Respublikos Vyriausybės nustatyta žemės ūkio
+pagal  kvotas minimali kaina, kurią valstybė garantuoja.
 
-produkcijos  supirkimo  pagal  kvotas minimali kaina, kurią valstybė
+Slenkstinė kaina - minimali
 
-garantuoja.
+kaina  importinėms  prekėms, kurią  nustato Lietuvos  Respublikos  Vyriausybė
 
-Slenkstinė
+arba  jos įgaliota institucija.
 
-kaina - minimali kaina  importinėms  prekėms, kurią  nustato Lietuvos
+Lengvatinis kreditas -
 
-Respublikos  Vyriausybė  arba  jos įgaliota institucija.
+paskola žemės ūkio subjektams ir jį aptarnaujantiems žemės ūkio  rinkos
 
-Lengvatinis
+partneriams  su ne didesne kaip 50 procentų vidutinio metinio rinkos palūkanų
 
-kreditas - paskola žemės ūkio subjektams ir jį aptarnaujantiems žemės ūkio
+dydžio palūkanų norma arba kai valstybė kompensuoja bent 50 procentų kredito
 
-rinkos  partneriams  su ne didesne kaip 50 procentų vidutinio metinio rinkos
+palūkanų.
 
-palūkanų dydžio palūkanų norma arba kai valstybė kompensuoja bent 50 procentų
+Riboto ūkinio naudojimo
 
-kredito palūkanų.
+žemės - žemės  ūkio  naudmenos, kurioms taikomos nustatyta  tvarka
 
-Riboto
+patvirtintos  specialios žemės naudojimo sąlygos ir veiklos apribojimai.
 
-ūkinio naudojimo žemės - žemės  ūkio  naudmenos, kurioms taikomos nustatyta
+Žemės ūkio  gamybos
 
-tvarka  patvirtintos  specialios žemės naudojimo sąlygos ir veiklos
+ribojimas - Lietuvos  Respublikos Vyriausybės taikomų  priemonių visuma,
 
-apribojimai.
+ribojanti tam tikrų žemės ūkio produktų gamybą arba žemės naudojimą.
 
-Žemės
+Mažiau palanki ūkininkauti
 
-ūkio  gamybos  ribojimas - Lietuvos  Respublikos Vyriausybės taikomų  priemonių
+vietovė - vietovė, Lietuvos Respublikos  Vyriausybės  arba  jos  įgaliotos
 
-visuma,  ribojanti tam tikrų žemės ūkio produktų gamybą arba žemės naudojimą.
+valstybės institucijos  nustatyta tvarka priskiriamos šios kategorijos
 
-Mažo
+vietovei.
 
-našumo žemės - žemės  ūkio  naudmenos,  Lietuvos Respublikos  Vyriausybės
+Ekologinis žemės
 
-arba  jos  įgaliotos  valstybės institucijos  nustatyta tvarka priskiriamos
+ūkis - ūkininkavimo sistema, kurioje stengiantis išauginti ekologiškus žemės
 
-šios kategorijos žemei.
+ūkio produktus nenaudojamos sintetinės trąšos, pesticidai ir augimo
 
-Bioorganinė
+stimuliatoriai.
 
-žemdirbystė - ūkininkavimo  būdas,  kai nenaudojamos  mineralinės  trąšos,
+Žemės ūkio veiklos perorientavimas -
 
-pesticidai  ir  augimo stimuliatoriai,  kad  būtų  išauginta  ekologiškai
+žemės ūkio subjektų ūkinės veiklos pertvarkymas į kitos rūšies, su žemės ūkiu
 
-švari produkcija,  atgaivintas  dirvos biologinis  aktyvumas  ir išlaikyta
+nesusijusią, veiklą.
 
-biologinė pusiausvyra.
+Specialioji žemės ūkio ir kaimo
+
+plėtros programa - pasirengimo stoti į Europos Sąjungą programa (SAPARD), kurios tikslas - paremti asocijuotose Europos
+
+Sąjungos valstybėse vykstančią ekonominę ir socialinę pertvarką bei paspartinti
+
+šių valstybių integraciją į Europos Sąjungą.
+
+Intervencinė kaina - žemės ūkio
+
+produkcijos ar maisto produktų intervencinių pirkimų kaina.
+
+Intervenciniai pirkimai - žemės ūkio
+
+produkcijos ir maisto produktų pirkimai, kuriuos Vyriausybės nustatyta tvarka
+
+vykdo Vyriausybės įgaliota institucija.
+
+Tikslinė
+
+(orientacinė) kaina - valstybės numatoma žemės ūkio produkcijos ir maisto
+
+produktų kaina, efektyviai ūkininkaujantiems gamintojams užtikrinanti minimalų
+
+pelningumą.
+
+Privatus
+
+saugojimas - maisto produktų laikymas įmonės teritorijoje, kai už saugojimo
+
+laiką skiriama Vyriausybės arba jos įgaliotos institucijos nustatyto dydžio
+
+parama, o produktai lieka įmonės nuosavybe.
+
+Ekologiški žemės
+
+ūkio produktai - sertifikuoti žemės ūkio produktai, išauginti, perdirbti ir
+
+paženklinti pagal ekologinio žemės ūkio reikalavimus.
 
 Straipsnio
 
@@ -212,199 +266,43 @@ Nr.
 
 I-1621, 96.11.14, Žin., 1996, Nr.116-2694 (96.12.04)
 
-3
+Nr. VIII-1594, 00.03.28, Žin., 2000, Nr.30-828
 
-straipsnis. Žemės ūkio šakos prioritetas
+(00.04.12)
 
-Lietuvos
+3 straipsnis. Žemės ūkio
 
-Respublikos  žemės ūkis atlieka labai svarbią ekonominę, socialinę, gamtosaugos
+šakos prioritetas
 
-ir etnokultūrinę funkciją, todėl yra prioritetinė tautos ūkio šaka.
+Lietuvos Respublikos  žemės
 
-4
+ūkis atlieka labai svarbią ekonominę, socialinę, gamtosaugos ir etnokultūrinę
 
-straipsnis. Žemės ūkio rėmimo politika
+funkciją, todėl yra prioritetinė tautos ūkio šaka.
 
-Valstybė
+4 straipsnis.
 
-remia,  pirmiausia  pagal tikslines programas, svarbiausių prekinių žemės ūkio
+Žemės ūkio rėmimo politika
 
-produktų  gamintojus, žemės ūkio  mokslo  ir  technikos  pažangą,  žemės  ūkio
+Valstybė remia,
 
-rinkos partnerius, už žemės ūkio įmonių kooperuotas lėšas pastatytas
+pirmiausia pagal tikslines programas, žemės ūkio produktų gamintojus, žemės
 
-sanatorijas, kurių daugiau kaip 50 procentų akcinio kapitalo priklauso
+ūkio mokslo ir technikos pažangą, žemės ūkio rinkos partnerius, žemės ir kitų
 
-valstybei, žemės ir kitų gamtos išteklių išsaugojimą bei  gerinimą,
+gamtos išteklių išsaugojimą bei gerinimą, ekologinio žemės ūkio plėtrą,
 
-bioorganinės  žemdirbystės  įgyvendinimą, specializuotų prekinių  ūkių
+specializuotų prekinių ūkių kūrimąsi, žemės ūkio veiklos perorientavimą
 
-kūrimąsi  ir gina žemės ūkio subjektų lygiateisiškumą rinkoje.
+bei kitas priemones, numatytas Specialioje žemės ūkio ir kaimo plėtros
 
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1621, 96.11.14, Žin., 1996, Nr.116-2694 (96.12.04)
-
-II. VALSTYBINIS REGULIAVIMAS
-
-5
-
-straipsnis. Valstybinio reguliavimo priemonės
-
-Žemės
-
-ūkio subjektų ekonominiai santykiai su valstybės institucijomis ir žemės ūkio
-
-rinkos partneriais reguliuojami Lietuvos Respublikos Vyriausybės nustatyta
-
-tvarka taip:
-
-1)
-
-garantuojamas žemės ūkio produkcijos supirkimas pagal kvotas;
-
-2)
-
-papildoma  arba parduodama dalis valstybinių maisto produktų rezervo;
-
-3)
-
-remiamos investicijos į žemės ūkį;
-
-4)
-
-reguliuojamas žemės ūkio produkcijos ir maisto produktų importas bei eksportas;
-
-5)
-
-kontroliuojama produkcijos kokybė;
-
-6)
-
-ribojama rinkoje dominuojančių ūkinių subjektų veika;
-
-7)
-
-skatinama arba ribojama tam tikrų žemės ūkio produktų gamyba;
-
-8)
-
-ginami  žemės ūkio  šakos interesai  tarptautinėmis sutartimis.
-
-Lietuvos
-
-Respublikos Vyriausybė gali taikyti ir kitas žemės ūkio reguliavimo priemones.
-
-6
-
-straipsnis. Produkcijos supirkimas
-
-Lietuvos Respublikos Vyriausybė arba
-
-jos įgaliota institucija kasmet iki birželio 1 dienos nustato ir paskelbia
-
-valstybės garantuojamas kitų metų svarbiausios žemės ūkio produkcijos supirkimo
-
-kvotas bei minimalias valstybinio supirkimo kainas. Šią produkciją superka
-
-Lietuvos Respublikos Vyriausybės įgaliota
-
-institucija, sudariusi sutartis su žemės ūkio produkcijos gamintojais arba su
-
-perdirbamosios pramonės bei prekybos įmonėmis dėl šios produkcijos supirkimo.
-
-Tais atvejais, kai rinkoje susiformuoja
-
-nepagrįstai mažos žemės ūkio produkcijos supirkimo kainos, Lietuvos Respublikos
-
-Vyriausybė gali ne ilgesniam kaip 6 mėnesių laikotarpiui nustatyti minimalias
-
-ribines šios produkcijos supirkimo kainas.
-
-Lietuvos Respublikos Vyriausybės įgaliota institucija turi teisę bausti įmones,
-
-kurios superka žemės ūkio produkciją mažesnėmis kainomis negu nustatyta, per
-
-pažeidimo laikotarpį susidariusio kainų skirtumo trigubo dydžio bauda.
-
-Piniginės baudos išieškomos į Valstybės biudžetą ne ginčo tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-441, 97.10.09, Žin., 1997, Nr.96-2429 (97.10.24)
-
-7
-
-straipsnis. Atsiskaitymų tvarka
-
-Atsiskaitymo
-
-už supirktą pagal kvotas žemės ūkio produkciją sutartiniai terminai negali būti
-
-ilgesni už nustatytus Lietuvos Respublikos Vyriausybės. Delspinigių tarifus
-
-nustato įstatymas.
-
-Jeigu
-
-žemės ūkio subjektai pageidauja, atsiskaitymui už nupirktą žemės ūkio
-
-produkciją naudojami vekseliai.
-
-Žemės
-
-ūkio rinkos partneriai negali mokėti premijų, tantjemų ir dividendų, taip pat
-
-pirkti akcijų iš gauto pelno, kol turi pradelstų mokėjimų už nupirktą žemės
-
-ūkio produkciją bei žemės ūkio subjektų suteiktas paslaugas.
-
-8
-
-straipsnis. Kreditavimas
-
-Žemės
-
-ūkio  subjektams  ir  perdirbamosios  pramonės įmonėms, taip pat už žemės ūkio
-
-įmonių  kooperuotas lėšas pastatytoms sanatorijoms,  kurių  daugiau  kaip 50
-
-procentų akcinio kapitalo priklauso valstybei, lengvatiniai  kreditai
-
-investicijoms teikiami konkurso tvarka, o apyvartinėms  lėšoms formuoti -
-
-Lietuvos Respublikos Vyriausybės arba jos įgaliotos valstybės institucijos
-
-nustatyta tvarka.
-
-Lengvatinio
-
-kreditavimo tvarką ir metinę palūkanų normą nustato, konkurso nuostatus
-
-tvirtina ir konkursų komisijas skiria Lietuvos Respublikos Vyriausybė arba jos
-
-įgaliota institucija.
+programoje, ir gina žemės ūkio subjektų lygiateisiškumą rinkoje.
 
 Valstybės
 
-kredito ištekliai teikiami per žemės ūkio kredito kooperatyvus arba komercinius
+paramos lėšas bei pagal Specialią žemės ūkio ir kaimo plėtros programą skirtas
 
-bankus.
-
-Valstybė
-
-iš  savo išteklių  dvidešimčiai  metų  skiria beprocentę paskolą kooperatinio
-
-kredito sistemai kurti ir teikia kredito kooperatyvams mokesčių lengvatas.
+lėšas tvarko Nacionalinė mokėjimo agentūra prie Žemės ūkio ministerijos.
 
 Straipsnio
 
@@ -414,201 +312,419 @@ Nr.
 
 I-1621, 96.11.14, Žin., 1996, Nr.116-2694 (96.12.04)
 
-9
+Nr. VIII-1594, 00.03.28, Žin., 2000, Nr.30-828
 
-straipsnis. Tikslinis finansavimas
+(00.04.12)
 
-Žemės
+II. VALSTYBINIS
 
-ūkio  subjektams, žemės ūkio rinkos partneriams ir už  žemės  ūkio  įmonių
+REGULIAVIMAS
 
-kooperuotas  lėšas  pastatytoms sanatorijoms, kurių daugiau kaip 50 procentų
+5 straipsnis. Valstybinio
 
-akcinio kapitalo priklauso valstybei, tikslinis finansavimas taikomas:
+reguliavimo priemonės
 
-1)
+Žemės ūkio subjektų
 
-žemės ūkio produkcijos supirkimui pagal kvotas ir žemės ūkio produkcijos bei
+ekonominiai santykiai su valstybės institucijomis ir žemės ūkio rinkos
 
-maisto produktų eksportui, taip pat subsidijomis, remti;
+partneriais reguliuojami Lietuvos Respublikos Vyriausybės nustatyta tvarka
 
-2)
+taip:
 
-mažo našumo  žemėse įsikūrusių žemės ūkio subjektų ūkinei veiklai pertvarkyti
+1) garantuojamas žemės ūkio
 
-ir ūkininkavimo ekonominių sąlygų skirtumams sumažinti;
+produkcijos supirkimas pagal kvotas;
 
-3)
+2) papildoma  arba
 
-ekologiškai  švarios žemės ūkio  produkcijos gamybai organizuoti ir
+parduodama dalis valstybinių maisto produktų rezervo;
 
-koncentruotos taršos židiniams pašalinti;
+3) remiamos investicijos į
 
-4)
+žemės ūkį;
 
-kooperacijai ir agroservisui plėtoti;
+4) reguliuojamas žemės ūkio
+
+produkcijos ir maisto produktų importas bei eksportas;
 
 5)
 
-ūkininkų įsikūrimo ir gamybos infrastruktūros kūrimo programoms vykdyti;
+reglamentuojamas superkamos žemės ūkio produkcijos ir maisto produktų kokybės
 
-6)
+vertinimas ir kontroliuojama produkcijos kokybė;
 
-dėl valstybės apribojimų sumažintos žemės ūkio gamybos pajamoms kompensuoti;
+6) ribojama
 
-7)
+rinkoje dominuojančių ūkinių subjektų veika;
 
-žemės ūkio moksliniams tyrimams, konsultacijoms  ir mokymui;
+7) skatinama arba ribojama
 
-8)
+tam tikrų žemės ūkio produktų gamyba;
 
-produktyvių augalų, gyvulių ir  paukšči ų veislinei medžiagai pirkti;
+8) ginami  žemės ūkio  šakos
 
-9)
+interesai  tarptautinėmis sutartimis.
 
-melioracijai ir rūgščioms dirvoms kalkinti;
+9) vykdomi
 
-10)
+intervenciniai žemės ūkio produkcijos ir maisto produktų pirkimai;
 
-už žemės ūkio įmonių kooperuotas lėšas  pastatytų sanatorijų, kurių daugiau
+10) palaikomos
 
-kaip 50 procentų akcinio kapitalo priklauso valstybei, įstatiniam kapitalui
+žemės ūkio subjektų pajamos.
 
-formuoti;
+Lietuvos Respublikos Vyriausybė
 
-11)
-
-kitoms tikslinėse programose numatytoms  priemonėms finansuoti.
-
-Tikslinio
-
-finansavimo tvarką ir sąlygas nustato Lietuvos Respublikos Vyriausybės įgaliota
-
-valstybės institucija
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1621, 96.11.14, Žin., 1996, Nr.116-2694 (96.12.04)
-
-Nr.
-
-VIII-441, 97.10.09, Žin., 1997, Nr.96-2429 (97.10.24)
-
-10
-
-straipsnis. Žemės ūkio subjektų apmokestinimas
-
-Žemės
-
-ūkio subjektams taikomi Lietuvos Respublikos įstatymų nustatyti lengvatiniai
-
-apmokestinimo tarifai.
-
-11
-
-straipsnis. Žemės ūkio produkcijos eksportas
-
-Žemės ūkio produkcijos
-
-eksportas neribojamas.
-
-Žemės ūkio produkcijos ir
-
-maisto produktų eksportas remiamas Lietuvos Respublikos Vyriausybės arba jos
-
-įgaliotos valstybės institucijos nustatyta tvarka.
+gali taikyti ir kitas žemės ūkio reguliavimo priemones.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-441, 97.10.09, Žin., 1997, Nr.96-2429
+Nr. VIII-1594, 00.03.28, Žin., 2000, Nr.30-828
 
-(97.10.24)
+(00.04.12)
 
-12
+6 straipsnis. Produkcijos
 
-straipsnis. Importo reguliavimas
+supirkimo kvotos ir kainos
 
-Žemės
+Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija kasmet iki birželio 1 dienos nustato
 
-ūkio produkcijos, maisto žaliavų ir produktų importo kiekis Lietuvos
+ir paskelbia kitų metų svarbiausios žemės ūkio produkcijos supirkimo kvotas bei
 
-Respublikos  Vyriausybės  nustatyta  tvarka reguliuojamas kvotomis ir muitais.
+intervencines ir tikslines (orientacines) kainas. Intervencinius pirkimus vykdo
 
-Importuojamiems
+Lietuvos Respublikos Vyriausybės įgaliota institucija.
 
-žemės ūkio produktams ir maisto prekėms, kurių analogai gaminami Lietuvoje,
+Tais atvejais,
 
-įvedamos slenkstinės kainos.
+kai rinkoje susiformuoja nepagrįstai mažos žemės ūkio produkcijos supirkimo
 
-13
+kainos, Lietuvos Respublikos Vyriausybė gali ne ilgesniam kaip 6 mėnesių
 
-straipsnis. Informacija žemės ūkio rinkai reguliuoti
+laikotarpiui nustatyti minimalias ribines šios produkcijos supirkimo kainas.
 
-Valstybės
+Konkurencijos
 
-institucijos nuolat tiria vidaus ir tarptautinę žemės ūkio rinką, rengia ir
+taryba turi teisę bausti įmones, kurios superka žemės ūkio produkciją
 
-periodiškai skelbia informaciją apie žemės ūkio  produkcijos bei gamybos
+mažesnėmis minimaliomis ribinėmis kainomis negu nustatyta, per pažeidimo
 
-išteklių kainas ir jų paritetą, maisto produktų paklausą ir jų kainas vidaus
+laikotarpį susidariusio kainų skirtumo trigubo dydžio bauda. Piniginės baudos
 
-bei užsienio rinkose.
+išieškomos į valstybės biudžetą ne ginčo tvarka.
 
-14
+Straipsnio
 
-straipsnis. Produkcijos kokybės kontrolė ir sertifikavimas
+pakeitimai:
 
-Lietuvos
+Nr.
 
-Respublikos valstybinės institucijos sertifikuoja žemės ūkio produkciją ir
+VIII-441, 97.10.09, Žin., 1997, Nr.96-2429 (97.10.24)
 
-kontroliuoja jos kokybę vadovaudamosi Lietuvos Respublikos Vyriausybės
+Nr. VIII-1594, 00.03.28, Žin., 2000, Nr.30-828
 
-patvirtintais nuostatais ir standartais.
+(00.04.12)
 
-Bioorganinės
+7 straipsnis. Atsiskaitymų
 
-žemdirbystės  ūkiuose išaugintą  produkciją sertifikuoja  ir  jos  kokybę
+tvarka
 
-kontroliuoja  specializuotos institucijos, gavusios Lietuvos Respublikos
+Atsiskaitymo už supirktą
 
-Vyriausybės įgaliotos institucijos licenciją.
+pagal kvotas žemės ūkio produkciją sutartiniai terminai negali būti ilgesni už
 
-15
+nustatytus Lietuvos Respublikos Vyriausybės. Delspinigių tarifus nustato
 
-straipsnis. Parama žemės ūkio produktams realizuoti vidaus rinkoje
+įstatymas.
 
-Rajonų
+Jeigu žemės ūkio subjektai
 
-ir miestų savivaldybės įrengia ir nemokamai suteikia žemės ūkio subjektams
+pageidauja, atsiskaitymui už nupirktą žemės ūkio produkciją naudojami
 
-nuolatines vietas žemės ūkio produkcijai pardavinėti, taip pat uždaro konkurso
+vekseliai.
 
-tvarka nuomoja šiam tikslui tinkamas valstybines patalpas arba skiria žemės
+Žemės ūkio rinkos partneriai
 
-sklypus žemės ūkio subjektų kooperatinėms parduotuvėms statyti.
+negali mokėti premijų, tantjemų ir dividendų, taip pat pirkti akcijų iš gauto
 
-Šio
+pelno, kol turi pradelstų mokėjimų už nupirktą žemės ūkio produkciją bei žemės
 
-straipsnio pirmosios dalies nuostatos įgyvendinamos pagal Lietuvos Respublikos
+ūkio subjektų suteiktas paslaugas.
 
-Vyriausybės patvirtintus normatyvus ir jos nustatyta tvarka.
+8 straipsnis. Kreditavimas
 
-III. VALSTYBINIO REGULIAVIMO ĮGYVENDINIMAS
+Žemės  ūkio  subjektams  ir
 
-16
+perdirbamosios  pramonės įmonėms, taip pat už žemės ūkio įmonių  kooperuotas
 
-straipsnis. Reguliavimo lėšų šaltiniai
+lėšas pastatytoms sanatorijoms,  kurių  daugiau  kaip 50 procentų akcinio
 
-Nacionalinei
+kapitalo priklauso valstybei, lengvatiniai  kreditai investicijoms teikiami
 
-žemės ūkio plėtojimo programai ir žemės ūkio santykių valstybinio reguliavimo
+konkurso tvarka, o apyvartinėms  lėšoms formuoti - Lietuvos Respublikos
 
-priemonėms įgyvendinti, maisto produktų  valstybiniams  rezervams  sudaryti,
+Vyriausybės arba jos įgaliotos valstybės institucijos nustatyta tvarka.
+
+Lengvatinio kreditavimo
+
+tvarką ir metinę palūkanų normą nustato, konkurso nuostatus tvirtina ir
+
+konkursų komisijas skiria Lietuvos Respublikos Vyriausybė arba jos įgaliota
+
+institucija.
+
+Valstybės kredito ištekliai
+
+teikiami per žemės ūkio kredito kooperatyvus arba komercinius bankus.
+
+Valstybė iš  savo išteklių
+
+dvidešimčiai  metų  skiria beprocentę paskolą kooperatinio kredito sistemai
+
+kurti ir teikia kredito kooperatyvams mokesčių lengvatas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-1621, 96.11.14, Žin., 1996, Nr.116-2694 (96.12.04)
+
+9 straipsnis. Tikslinis
+
+finansavimas
+
+Žemės ūkio
+
+subjektams, žemės ūkio rinkos partneriams tikslinis finansavimas iš įvairių
+
+šaltinių taikomas:
+
+1) žemės ūkio
+
+produkcijos supirkimui pagal kvotas ir žemės ūkio produkcijos bei maisto
+
+produktų eksportui, taip pat subsidijomis, remti;
+
+2) mažiau
+
+palankiose ūkininkauti vietovėse įsikūrusių žemės ūkio subjektų ūkinei veiklai
+
+pertvarkyti ir ūkininkavimo ekonominių sąlygų skirtumams mažinti;
+
+3) ekologiškos
+
+žemės ūkio produkcijos gamybai organizuoti ir koncentruotos taršos židiniams
+
+pašalinti bei kitoms aplinkosaugos priemonėms žemės ūkyje įgyvendinti;
+
+4) kooperacijai
+
+ir agroservisui plėtoti;
+
+5) žemės ūkio
+
+subjektų pajamoms palaikyti;
+
+6) žemės ūkio ir
+
+maisto produktų intervencinių pirkimų nuostoliams bei papildomoms išlaidoms,
+
+susidariusioms dėl šių pirkimų, padengti;
+
+7) žemės ūkio ir
+
+žuvininkystės produktų perdirbimui ir rinkodarai tobulinti;
+
+8) kokybės,
+
+veterinarijos ir augalų apsaugos kontrolės struktūroms tobulinti;
+
+9) žemės ūkio
+
+veiklai perorientuoti;
+
+10) kaimo
+
+infrastruktūrai tobulinti ir plėtoti, kaimų renovacijai bei kaimo paveldo
+
+išsaugojimui remti;
+
+11) pasėlių,
+
+gyvulių, žemės ūkio technikos ir gamybinių pastatų draudimo išlaidų ar
+
+nuostolių, patirtų dėl nepalankių gamtinių sąlygų, daliai padengti;
+
+12) privačiam
+
+saugojimui remti;
+
+13) ūkininkų
+
+įsikūrimo ir gamybos infrastruktūros kūrimo programoms vykdyti;
+
+14) dėl valstybės
+
+apribojimų sumažintos žemės ūkio gamybos pajamoms kompensuoti;
+
+15) žemės ūkio
+
+moksliniams tyrimams, konsultacijoms ir mokymui;
+
+16) produktyvių
+
+augalų, gyvulių ir paukščių veislinei medžiagai pirkti;
+
+17) melioracijai
+
+ir rūgščioms dirvoms kalkinti;
+
+18) kitoms
+
+tikslinėse programose numatytoms priemonėms finansuoti.
+
+Tikslinio finansavimo tvarką
+
+ir sąlygas nustato Lietuvos Respublikos Vyriausybės įgaliota valstybės
+
+institucija
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-1621, 96.11.14, Žin., 1996, Nr.116-2694 (96.12.04)
+
+Nr.
+
+VIII-441, 97.10.09, Žin., 1997, Nr.96-2429 (97.10.24)
+
+Nr. VIII-1594, 00.03.28, Žin., 2000, Nr.30-828
+
+(00.04.12)
+
+10 straipsnis. Žemės ūkio
+
+subjektų apmokestinimas
+
+Žemės ūkio subjektams
+
+taikomi Lietuvos Respublikos įstatymų nustatyti lengvatiniai apmokestinimo
+
+tarifai.
+
+11 straipsnis. Žemės ūkio
+
+produkcijos eksportas
+
+Žemės ūkio
+
+produkcijos eksportas neribojamas.
+
+Žemės ūkio
+
+produkcijos ir maisto produktų eksportas remiamas Lietuvos Respublikos
+
+Vyriausybės arba jos įgaliotos valstybės institucijos nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-441, 97.10.09, Žin., 1997,
+
+Nr.96-2429 (97.10.24)
+
+12 straipsnis. Importo
+
+reguliavimas
+
+Žemės ūkio produkcijos,
+
+maisto žaliavų ir produktų importo kiekis Lietuvos  Respublikos  Vyriausybės
+
+nustatyta  tvarka reguliuojamas kvotomis ir muitais.
+
+Importuojamiems žemės ūkio
+
+produktams ir maisto prekėms, kurių analogai gaminami Lietuvoje, įvedamos
+
+slenkstinės kainos.
+
+13 straipsnis. Informacija
+
+žemės ūkio rinkai reguliuoti
+
+Valstybės institucijos
+
+nuolat tiria vidaus ir tarptautinę žemės ūkio rinką, rengia ir periodiškai
+
+skelbia informaciją apie žemės ūkio  produkcijos bei gamybos išteklių kainas ir
+
+jų paritetą, maisto produktų paklausą ir jų kainas vidaus bei užsienio rinkose.
+
+14 straipsnis. Produkcijos kokybės užtikrinimas
+
+Lietuvos Respublikos valstybės institucijos, įgyvendindamos žemės ūkio
+
+produkcijos kokybės politiką, nustato žemės ūkio produkcijos kokybės bei jos
+
+vertinimo reikalavimus, organizuoja produkcijos kokybės priežiūrą bei kontrolę,
+
+vadovaudamosi Lietuvos Respublikos Vyriausybės patvirtintais veiklos nuostatais
+
+ir kitais šios srities teisės aktais bei norminiais dokumentais.
+
+Ekologiškų žemės
+
+ūkio produktų gamybos procesą kontroliuoja ir produktus sertifikuoja
+
+institucijos, gavusios Lietuvos Respublikos Vyriausybės įgaliotos institucijos
+
+patvirtinimą.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1594, 00.03.28, Žin., 2000, Nr.30-828
+
+(00.04.12)
+
+15 straipsnis. Parama žemės
+
+ūkio produktams realizuoti vidaus rinkoje
+
+Rajonų ir miestų
+
+savivaldybės įrengia ir nemokamai suteikia žemės ūkio subjektams nuolatines
+
+vietas žemės ūkio produkcijai pardavinėti, taip pat uždaro konkurso tvarka
+
+nuomoja šiam tikslui tinkamas valstybines patalpas arba skiria žemės sklypus
+
+žemės ūkio subjektų kooperatinėms parduotuvėms statyti.
+
+Šio straipsnio pirmosios
+
+dalies nuostatos įgyvendinamos pagal Lietuvos Respublikos Vyriausybės
+
+patvirtintus normatyvus ir jos nustatyta tvarka.
+
+III. VALSTYBINIO
+
+REGULIAVIMO ĮGYVENDINIMAS
+
+16 straipsnis. Reguliavimo
+
+lėšų šaltiniai
+
+Nacionalinei žemės ūkio
+
+plėtojimo programai ir žemės ūkio santykių valstybinio reguliavimo priemonėms
+
+įgyvendinti, maisto produktų  valstybiniams  rezervams  sudaryti,
 
 melioracijai, rūgščioms dirvoms kalkinti kasmet paprastai skiriama ne mažiau
 
@@ -616,715 +732,29 @@ kaip 10 procentų nacionalinio biudžeto išlaidų, taip pat užsienio tikslinė
 
 paskolos bei kitos lėšos.
 
-17
+17 straipsnis. Įstatymo
 
-straipsnis. Įstatymo įsigaliojimas
+įsigaliojimas
 
-Šis
+Šis įstatymas įsigalioja nuo
 
-įstatymas įsigalioja nuo 1995 m. kovo 31 dienos.
+1995 m. kovo 31 dienos.
 
-Įsigaliojus
+Įsigaliojus Lietuvos
 
-Lietuvos  Respublikos žemės ūkio ekonominių santykių valstybinio  reguliavimo
+Respublikos žemės ūkio ekonominių santykių valstybinio  reguliavimo įstatymui,
 
-įstatymui,  netenka galios Lietuvos Respublikos įstatymas "Dėl žemės ūkio
+netenka galios Lietuvos Respublikos įstatymas "Dėl žemės ūkio būklės
 
-būklės gerinimo eksportuojant, superkant žemės ūkio produkciją ir parduodant
-
-Lietuvoje pagamintus maisto produktus" (Žin., 1994, Nr.7-101).
-
-Skelbiu
-
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                              ALGIRDAS BRAZAUSKAS
-
-1 straipsnis. Įstatymo paskirtis
-
-Šio  įstatymo  tikslas  -  sunorminti  žemės  ūkio  subjektų
-
-ekonominius
-
-santykius  su valstybės  institucijomis ir žemės ūkio
-
-rinkos
-
-partneriais,    nustatyti   pagrindines   šių   santykių
-
-valstybinio
-
-reguliavimo  priemones, sudaryti prielaidas valstybės
-
-agrarinei
-
-politikai įgyvendinti ir žemės ūkio rinkos pusiausvyrai
-
-palaikyti.
-
-2 straipsnis. Pagrindinės sąvokos
-
-Šiame įstatyme:
-
-Žemės  ūkio   subjektai  -  ūkininkų   ūkiai,   žemės   ūkio
-
-bendrovės
-
-ir kitos  įmonės,  įregistruotos  Lietuvos Respublikos
-
-įstatymų
-
-nustatyta tvarka, taip pat  kiti  žemės  ūkio paskirties
-
-žemės
-
-naudotojai,  gaminantys  prekinę  žemės  ūkio  produkciją.
-
-Metinės
-
-įplaukos iš prekinės  žemės  ūkio  produkcijos ir gamybos
-
-paslaugų
-
-žemės  ūkiui  realizavimo turi sudaryti daugiau kaip  50
-
-procentų
-
-visų  gautų   pajamų.  Įplaukų   dalies,   gaunamos  iš
-
-prekinės
-
-žemės  ūkio  produkcijos  ir  gamybos  paslaugų   žemės
-
-ūkiui
-
-realizavimo,   įvertinimo   metodiką  nustato    Lietuvos
-
-Respublikos
-
-Vyriausybės įgaliota valstybės institucija.
-
-Žemės  ūkio rinka - mainų  sritis,  kurioje  dalyvauja žemės
-
-ūkio
-
-subjektai.
-
-Žemės  ūkio   rinkos   partneriai - ūkio   subjektai,  kurie
-
-superka,
-
-perdirba  ir realizuoja  žemės  ūkio   produkciją   bei
-
-parduoda
-
-žemės  ūkiui  reikalingus  materialinius  -  techninius
-
-išteklius
-
-ir teikia žemės ūkiui gamybos paslaugas.
-
-Supirkimo    kvota  -  Lietuvos    Respublikos   Vyriausybės
-
-nustatytas
-
-žemės   ūkio   produkcijos  kiekis,  kurio  supirkimą
-
-žemės
-
-ūkio subjektui ji garantuoja.
-
-Importo     kvota   -   Lietuvos   Respublikos   Vyriausybės
-
-ribojamas
-
-prekių kiekis, kurį galima importuoti.
-
-Minimali  ribinė  kaina - Lietuvos  Respublikos  Vyriausybės
-
-nustatyta
-
-žemės  ūkio   produkcijos   supirkimo   pagal   kvotas
-
-minimali
-
-kaina, kurią valstybė garantuoja.
-
-Slenkstinė  kaina  - minimali kaina   importinėms   prekėms,
-
-kurią
-
-nustato  Lietuvos   Respublikos   Vyriausybė   arba   jos
-
-įgaliota
-
-institucija.
-
-Lengvatinis  kreditas - paskola  žemės  ūkio  subjektams  ir
-
-jį
-
-aptarnaujantiems  žemės  ūkio   rinkos   partneriams   su  ne
-
-didesne
-
-kaip  50  procentų  vidutinio  metinio  rinkos  palūkanų
-
-dydžio
-
-palūkanų norma arba  kai  valstybė  kompensuoja  bent  50
-
-procentų
-
-kredito palūkanų.
-
-Riboto  ūkinio  naudojimo  žemės - žemės   ūkio   naudmenos,
-
-kurioms
-
-taikomos  nustatyta   tvarka   patvirtintos   specialios
-
-žemės
-
-naudojimo sąlygos ir veiklos apribojimai.
-
-Žemės  ūkio   gamybos   ribojimas  -  Lietuvos   Respublikos
-
-Vyriausybės
-
-taikomų   priemonių  visuma,   ribojanti  tam  tikrų
-
-žemės
-
-ūkio produktų gamybą arba žemės naudojimą.
-
-Mažo  našumo  žemės  -  žemės   ūkio   naudmenos,   Lietuvos
-
-Respublikos
-
-Vyriausybės   arba    jos    įgaliotos   valstybės
-
-institucijos
-
-nustatyta  tvarka  priskiriamos  šios  kategorijos
-
-žemei.
-
-Bioorganinė    žemdirbystė  -  ūkininkavimo    būdas,    kai
-
-nenaudojamos
-
-mineralinės   trąšos,    pesticidai    ir   augimo
-
-stimuliatoriai,
-
-kad    būtų    išauginta    ekologiškai   švari
-
-produkcija,
-
-atgaivintas   dirvos  biologinis    aktyvumas    ir
-
-išlaikyta
-
-biologinė pusiausvyra.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1621, 96.11.14, Žin., 1996, Nr.116-2694 (96.12.04)
-
-3 straipsnis. Žemės ūkio šakos prioritetas
-
-Lietuvos  Respublikos   žemės  ūkis  atlieka  labai  svarbią
-
-ekonominę,
-
-socialinę,  gamtosaugos  ir  etnokultūrinę  funkciją,
-
-todėl
-
-yra prioritetinė tautos ūkio šaka.
-
-4 straipsnis. Žemės ūkio rėmimo politika
-
-Valstybė  remia,   pirmiausia   pagal  tikslines  programas,
-
-svarbiausių
-
-prekinių  žemės  ūkio  produktų   gamintojus,  žemės
-
-ūkio
-
-mokslo   ir   technikos   pažangą,   žemės   ūkio   rinkos
-
-partnerius,
-
-už žemės  ūkio  įmonių  kooperuotas lėšas  pastatytas
-
-sanatorijas,
-
-kurių daugiau kaip  50  procentų  akcinio  kapitalo
-
-priklauso
-
-valstybei, žemės ir  kitų  gamtos  išteklių išsaugojimą
-
-bei
-
-gerinimą,    bioorganinės    žemdirbystės    įgyvendinimą,
-
-specializuotų
-
-prekinių   ūkių   kūrimąsi   ir  gina  žemės  ūkio
-
-subjektų
-
-lygiateisiškumą rinkoje.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1621, 96.11.14, Žin., 1996, Nr.116-2694 (96.12.04)
-
-II. VALSTYBINIS REGULIAVIMAS
-
-5 straipsnis. Valstybinio reguliavimo priemonės
-
-Žemės  ūkio  subjektų  ekonominiai  santykiai  su  valstybės
-
-institucijomis
-
-ir  žemės  ūkio  rinkos  partneriais  reguliuojami
-
-Lietuvos
-
-Respublikos Vyriausybės nustatyta tvarka taip:
-
-1) garantuojamas  žemės ūkio  produkcijos  supirkimas  pagal
-
-kvotas;
-
-2)  papildoma   arba  parduodama  dalis  valstybinių  maisto
-
-produktų
-
-rezervo;
-
-3) remiamos investicijos į žemės ūkį;
-
-4) reguliuojamas  žemės ūkio  produkcijos ir maisto produktų
-
-importas
-
-bei eksportas;
-
-5) kontroliuojama produkcijos kokybė;
-
-6) ribojama rinkoje dominuojančių ūkinių subjektų veika;
-
-7) skatinama  arba ribojama  tam tikrų  žemės ūkio  produktų
-
-gamyba;
-
-8)  ginami   žemės  ūkio   šakos  interesai   tarptautinėmis
-
-sutartimis.
-
-Lietuvos Respublikos  Vyriausybė gali taikyti ir kitas žemės
-
-ūkio
-
-reguliavimo priemones.
-
-6 straipsnis. Produkcijos supirkimas
-
-Lietuvos Respublikos  Vyriausybė arba jos įgaliota valstybės
-
-institucija
-
-kasmet  iki liepos 1 dienos nustato ir paskelbia kitų
-
-metų
-
-svarbiausių   žemės  ūkio  produktų  supirkimo  kvotas  bei
-
-minimalias
-
-ribines kainas.
-
-Žemės ūkio  produkcija  superkama  pagal  kvotas,  remiantis
-
-žemės
-
-ūkio  produkcijos gamintojų  ir perdirbamosios pramonės bei
-
-prekybos
-
-įmonių  sutartimis. Sutartys  pasirašomos tik  paskelbus
-
-supirkimų
-
-kvotas ir minimalias ribines kainas.
-
-Realizuojamai produkcijai,  viršijančiai nustatytas  kvotas,
-
-minimalios
-
-ribinės kainos netaikomos.
-
-7 straipsnis. Atsiskaitymų tvarka
-
-Atsiskaitymo už  supirktą pagal kvotas žemės ūkio produkciją
-
-sutartiniai
-
-terminai  negali būti  ilgesni už nustatytus Lietuvos
-
-Respublikos
-
-Vyriausybės. Delspinigių tarifus nustato įstatymas.
-
-Jeigu žemės  ūkio  subjektai  pageidauja,  atsiskaitymui  už
-
-nupirktą
-
-žemės ūkio produkciją naudojami vekseliai.
-
-Žemės ūkio rinkos partneriai negali mokėti premijų, tantjemų
-
-ir
-
-dividendų,  taip pat  pirkti akcijų  iš gauto  pelno, kol turi
-
-pradelstų
-
-mokėjimų  už nupirktą  žemės ūkio  produkciją bei žemės
-
-ūkio
-
-subjektų suteiktas paslaugas.
-
-8 straipsnis. Kreditavimas
-
-Žemės   ūkio    subjektams   ir    perdirbamosios   pramonės
-
-įmonėms,
-
-taip  pat  už  žemės  ūkio  įmonių   kooperuotas  lėšas
-
-pastatytoms
-
-sanatorijoms,   kurių   daugiau   kaip  50  procentų
-
-akcinio
-
-kapitalo  priklauso  valstybei,  lengvatiniai   kreditai
-
-investicijoms
-
-teikiami konkurso tvarka,  o  apyvartinėms   lėšoms
-
-formuoti
-
-- Lietuvos  Respublikos  Vyriausybės  arba jos įgaliotos
-
-valstybės
-
-institucijos nustatyta tvarka.
-
-Lengvatinio kreditavimo  tvarką  ir  metinę  palūkanų  normą
-
-nustato,
-
-konkurso nuostatus tvirtina ir konkursų komisijas skiria
-
-Lietuvos
-
-Respublikos Vyriausybė arba jos įgaliota institucija.
-
-Valstybės kredito  ištekliai teikiami per žemės ūkio kredito
-
-kooperatyvus
-
-arba komercinius bankus.
-
-Valstybė  iš   savo  išteklių   dvidešimčiai   metų   skiria
-
-beprocentę
-
-paskolą  kooperatinio kredito sistemai kurti ir teikia
-
-kredito
-
-kooperatyvams mokesčių lengvatas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1621, 96.11.14, Žin., 1996, Nr.116-2694 (96.12.04)
-
-9 straipsnis. Tikslinis finansavimas
-
-Žemės   ūkio   subjektams, žemės ūkio rinkos partneriams  ir
-
-už
-
-žemės    ūkio    įmonių    kooperuotas   lėšas   pastatytoms
-
-sanatorijoms,
-
-kurių  daugiau  kaip 50 procentų akcinio  kapitalo
-
-priklauso
-
-valstybei, tikslinis finansavimas taikomas:
-
-1) žemės ūkio produktų supirkimui pagal kvotas remti;
-
-2)  mažo  našumo   žemėse  įsikūrusių  žemės  ūkio  subjektų
-
-ūkinei
-
-veiklai pertvarkyti  ir  ūkininkavimo  ekonominių  sąlygų
-
-skirtumams
-
-sumažinti;
-
-3)  ekologiškai   švarios žemės  ūkio   produkcijos  gamybai
-
-organizuoti
-
-ir koncentruotos taršos židiniams pašalinti;
-
-4) kooperacijai ir agroservisui plėtoti;
-
-5)  ūkininkų  įsikūrimo  ir gamybos  infrastruktūros  kūrimo
-
-programoms
-
-vykdyti;
-
-6) dėl valstybės  apribojimų  sumažintos  žemės ūkio gamybos
-
-pajamoms
-
-kompensuoti;
-
-7)  žemės  ūkio  moksliniams  tyrimams,  konsultacijoms   ir
-
-mokymui;
-
-8)  produktyvių  augalų,  gyvulių  ir   paukšči ų  veislinei
-
-medžiagai
-
-pirkti;
-
-9) melioracijai ir rūgščioms dirvoms kalkinti;
-
-10)  už  žemės  ūkio  įmonių  kooperuotas  lėšas   pastatytų
-
-sanatorijų,
-
-kurių  daugiau  kaip  50 procentų  akcinio  kapitalo
-
-priklauso
-
-valstybei, įstatiniam kapitalui formuoti;
-
-11)  kitoms  tikslinėse  programose  numatytoms   priemonėms
-
-finansuoti.
-
-Tikslinio  finansavimo  tvarką  ir sąlygas nustato  Lietuvos
-
-Respublikos
-
-Vyriausybės įgaliota valstybės institucija
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1621, 96.11.14, Žin., 1996, Nr.116-2694 (96.12.04)
-
-10 straipsnis. Žemės ūkio subjektų apmokestinimas
-
-Žemės ūkio  subjektams taikomi Lietuvos Respublikos įstatymų
-
-nustatyti
-
-lengvatiniai apmokestinimo tarifai.
-
-11 straipsnis. Žemės ūkio produkcijos eksportas
-
-Žemės ūkio produktų eksportas neribojamas.
-
-12 straipsnis. Importo reguliavimas
-
-Žemės ūkio  produkcijos, maisto  žaliavų ir produktų importo
-
-kiekis
-
-Lietuvos   Respublikos   Vyriausybės   nustatyta   tvarka
-
-reguliuojamas
-
-kvotomis ir muitais.
-
-Importuojamiems žemės  ūkio produktams  ir  maisto  prekėms,
-
-kurių
-
-analogai gaminami Lietuvoje, įvedamos slenkstinės kainos.
-
-13 straipsnis. Informacija žemės ūkio rinkai reguliuoti
-
-Valstybės institucijos  nuolat tiria  vidaus ir  tarptautinę
-
-žemės
-
-ūkio  rinką, rengia ir periodiškai skelbia informaciją apie
-
-žemės
-
-ūkio   produkcijos  bei  gamybos  išteklių  kainas  ir  jų
-
-paritetą,
-
-maisto  produktų  paklausą  ir  jų  kainas  vidaus  bei
-
-užsienio
-
-rinkose.
-
-14 straipsnis. Produkcijos kokybės kontrolė ir
-
-sertifikavimas
-
-Lietuvos Respublikos  valstybinės institucijos  sertifikuoja
-
-žemės
-
-ūkio  produkciją ir  kontroliuoja jos  kokybę vadovaudamosi
-
-Lietuvos
-
-Respublikos  Vyriausybės  patvirtintais  nuostatais  ir
-
-standartais.
-
-Bioorganinės  žemdirbystės   ūkiuose  išaugintą   produkciją
-
-sertifikuoja
-
-ir    jos   kokybę   kontroliuoja   specializuotos
-
-institucijos,
-
-gavusios Lietuvos Respublikos Vyriausybės įgaliotos
-
-institucijos
-
-licenciją.
-
-15 straipsnis. Parama žemės ūkio produktams realizuoti
-
-vidaus rinkoje
-
-Rajonų ir  miestų savivaldybės įrengia ir nemokamai suteikia
-
-žemės
-
-ūkio  subjektams nuolatines  vietas žemės  ūkio produkcijai
-
-pardavinėti,
-
-taip pat uždaro konkurso tvarka nuomoja šiam tikslui
-
-tinkamas
-
-valstybines  patalpas arba  skiria žemės  sklypus  žemės
-
-ūkio
-
-subjektų kooperatinėms parduotuvėms statyti.
-
-Šio  straipsnio  pirmosios  dalies  nuostatos  įgyvendinamos
-
-pagal
-
-Lietuvos Respublikos Vyriausybės patvirtintus normatyvus ir
-
-jos
-
-nustatyta tvarka.
-
-III. VALSTYBINIO REGULIAVIMO ĮGYVENDINIMAS
-
-16 straipsnis. Reguliavimo lėšų šaltiniai
-
-Nacionalinei žemės  ūkio plėtojimo  programai ir  žemės ūkio
-
-santykių
-
-valstybinio  reguliavimo priemonėms  įgyvendinti, maisto
-
-produktų
-
-valstybiniams    rezervams   sudaryti,   melioracijai,
-
-rūgščioms
-
-dirvoms  kalkinti kasmet  paprastai skiriama  ne mažiau
-
-kaip
-
-10 procentų nacionalinio biudžeto išlaidų, taip pat užsienio
-
-tikslinės
-
-paskolos bei kitos lėšos.
-
-17 straipsnis. Įstatymo įsigaliojimas
-
-Šis įstatymas įsigalioja nuo 1995 m. kovo 31 dienos.
-
-Įsigaliojus  Lietuvos   Respublikos  žemės  ūkio  ekonominių
-
-santykių
-
-valstybinio   reguliavimo  įstatymui,   netenka  galios
-
-Lietuvos
-
-Respublikos  įstatymas "Dėl  žemės ūkio  būklės gerinimo
-
-eksportuojant,
-
-superkant  žemės  ūkio  produkciją  ir  parduodant
-
-Lietuvoje
+gerinimo eksportuojant, superkant žemės ūkio produkciją ir parduodant Lietuvoje
 
 pagamintus maisto produktus" (Žin., 1994, Nr.7-101).
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+Skelbiu šį Lietuvos
 
-RESPUBLIKOS
+Respublikos Seimo priimtą įstatymą.
 
-PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                            ALGIRDAS
+
+BRAZAUSKAS
 
