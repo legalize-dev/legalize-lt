@@ -4,7 +4,7 @@ identifier: "TAR.C6074E202D98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "1996-11-13"
+last_updated: "1997-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1996-10-22"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
+
+Suvestinė redakcija nuo 1997-07-09 iki 1999-12-21
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
 
 LIETUVOS RESPUBLIKOS KAUNO LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
@@ -55,7 +59,11 @@ Zonoje plėtojama transporto ir tarptautinio krovinių vežimo, prekybos, gamybo
 
 6 straipsnis. Konkurso sąlygos ir kriterijai geriausiam zonos verslo planui bei zonos  statutui parengti ir steigėjų grupei parinkti
 
-1. Tarptautinį konkursą organizuoja Kauno apskrities valdytojo administracija, o konkurso komisiją ir nuostatus tvirtina Lietuvos Respublikos Vyriausybė. Į komisiją turi būti įtraukta ne mažiau kaip po 1 Kauno miesto tarybos, Kauno rajono tarybos ir Kauno apskrities valdytojo skiriamą narį.
+1. Tarptautinį konkursą organizuoja Kauno apskrities viršininko administracija, o konkurso komisiją ir nuostatus tvirtina Lietuvos Respublikos Vyriausybė. Į komisiją turi būti įtraukta ne mažiau kaip po 1 Kauno miesto tarybos, Kauno rajono tarybos ir Kauno apskrities viršininko skiriamą narį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010ISTAVIII-334
 
 2. Tarptautinis konkursas turi būti paskelbtas ne vėliau kaip per mėnesį nuo šio įstatymo įsigaliojimo dienos.
 
@@ -105,7 +113,11 @@ Zonoje plėtojama transporto ir tarptautinio krovinių vežimo, prekybos, gamybo
 
 3) Kauno rajono tarybos skiriamas 1 narys;
 
-4) Kauno apskrities valdytojo skiriamas 1 narys;
+4) Kauno apskrities viršininko skiriamas 1 narys;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010ISTAVIII-334
 
 5) Visuotiniame akcininkų susirinkime išrinkti 5 nariai.
 
@@ -167,7 +179,11 @@ Zonoje plėtojama transporto ir tarptautinio krovinių vežimo, prekybos, gamybo
 
 1. Zonos valdymo bendrovė gali būti likviduojama Akcinių bendrovių įstatymo nustatytais atvejais.
 
-2. Atsiradus įstatymo nustatytam pagrindui likviduoti zonos valdymo bendrovę, naujai zonos valdymo bendrovei sudaryti Vyriausybė priima sprendimą skelbti tarptautinį konkursą steigėjų grupei parinkti. Šį konkursą organizuoja Kauno apskrities valdytojo administracija, o naują konkurso komisiją ir nuostatus tvirtina Vyriausybė.
+2. Atsiradus įstatymo nustatytam pagrindui likviduoti zonos valdymo bendrovę, naujai zonos valdymo bendrovei sudaryti Vyriausybė priima sprendimą skelbti tarptautinį konkursą steigėjų grupei parinkti. Šį konkursą organizuoja Kauno apskrities viršininko administracija, o naują konkurso komisiją ir nuostatus tvirtina Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010ISTAVIII-334
 
 3. Pagrindinės konkurso sąlygos:
 
@@ -192,4 +208,14 @@ Per Kauno oro uostą įvežamų į zoną ir iš jos išvežamų prekių muitinis
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010ISTAVIII-334
+
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 6, 7, 8 straipsnių pakeitimo įstatymas
 
