@@ -4,7 +4,7 @@ identifier: "TAR.FA02D1C47E3D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-03-22"
-last_updated: "1991-03-06"
+last_updated: "1991-07-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Suvestinė redakcija nuo 1991-03-06 iki 1991-07-29
+Suvestinė redakcija nuo 1991-07-30 iki 1991-09-20
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
 
@@ -81,11 +81,13 @@ kolegialiai svarsto klausimus, priima sprendimus ir užtikrina asmeninę Lietuvo
 
 4 straipsnis. Lietuvos Respublikos Vyriausybės sudėtis. Lietuvos Respublikos Vyriausybės sudarymo tvarka
 
-Lietuvos Respublikos Vyriausybė sudaroma šios sudėties: Lietuvos Respublikos Vyriausybės Pirmininkas (Ministras Pirmininkas), jo pavaduotojai ir Lietuvos Respublikos ministrai. Lietuvos Respublikos Vyriausybėje gali būti ministras be portfelio.
+Lietuvos Respublikos Vyriausybė sudaroma šios sudėties: Lietuvos Respublikos Vyriausybės Pirmininkas (Ministras Pirmininkas), jo pavaduotojai ir Lietuvos Respublikos ministrai. Lietuvos Respublikos Vyriausybėje gali būti ministrai be portfelio.
 
 Straipsnio dalies pakeitimai:
 
 Nr. I-979, 1991-01-22, Lietuvos aidas, 1991, Nr. 16-0 (1991-01-23); Žin., 1991, Nr. 4-109 (1991-02-10), i. k. 0911010ISTA000I-979
+
+Nr. I-1628, 1991-07-30, Lietuvos aidas, 1991, Nr. 151-0 (1991-08-02); Žin., 1991, Nr. 23-598 (1991-08-20), i. k. 0911010ISTA00I-1628
 
 Lietuvos Respublikos Vyriausybės nariu gali būti tik Lietuvos pilietis, skiriamas ne daugiau kaip dviem kadencijoms paeiliui.
 
@@ -490,6 +492,14 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-1112, 1991-02-28, Lietuvos aidas, 1991, Nr. 45-0 (1991-03-05); Žin., 1991, Nr. 8-226 (1991-03-20), i. k. 0911010ISTA00I-1112
 
 Dėl Lietuvos Respublikos pramonės ministerijos panaikinimo
+
+8.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-1628, 1991-07-30, Lietuvos aidas, 1991, Nr. 151-0 (1991-08-02); Žin., 1991, Nr. 23-598 (1991-08-20), i. k. 0911010ISTA00I-1628
+
+Dėl Lietuvos Respublikos Vyriausybės įstatymo 4 straipsnio pakeitimo
 
 61 straipsnis. Lietuvos Respublikos vyriausybės prisaikdinimas
 
