@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "2001-05-08"
+last_updated: "2001-05-17"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -370,7 +370,85 @@ cigarečių;
 
 [1
 
-dalies 8 punkto redakcija nuo 2001 m. birželio 1 d.:
+dalies 1 - 8 punktų redakcija nuo 2001 m. birželio 1 d.:
+
+1) nedenatūruotam etilo alkoholiui ir alkoholiniams
+
+gėrimams, išskyrus šios dalies
+
+2–7 punktuose nurodytus gėrimus ir medikamentus su vaistažolėmis, kurių
+
+sudėtyje yra etilo alkoholio, įregistruotus Lietuvos Respublikos valstybiniame
+
+vaistų registre, – 3200 litų už gryno etilo alkoholio hektolitrą;
+
+2) midaus trauktinėms (pagamintoms natūralaus bičių
+
+medaus pagrindu) – 0,12 lito už
+
+1 procentą faktinės alkoholio koncentracijos, išreikštos tūrio procentais,
+
+litre gėrimo;
+
+3) vynui iš šviežių vynuogių – 150 litų už produkto
+
+hektolitrą;
+
+4) kitiems fermentuotiems gėrimams:
+
+a) kurių faktinė alkoholio koncentracija, išreikšta
+
+tūrio procentais, yra ne didesnė kaip
+
+8,5 procento tūrio, – 40 litų už produkto hektolitrą;
+
+b) kitiems: iki 2003 m. gruodžio 31 d. (imtinai) – 130 litų už produkto
+
+hektolitrą, o nuo
+
+2004 m. sausio 1 d. – 150 litų už produkto hektolitrą;
+
+5) tarpiniams produktams, išskyrus
+
+nurodytus šios dalies 6 punkte, kurių:
+
+a) faktinė alkoholio koncentracija, išreikšta tūrio procentais, yra ne
+
+didesnė kaip 15 procentų tūrio: iki 2003 m. gruodžio 31 d. (imtinai) – 250 litų
+
+už produkto hektolitrą, o nuo 2004 m.
+
+sausio 1 d. – 150 litų už produkto hektolitrą;
+
+b) faktinė alkoholio koncentracija, išreikšta tūrio procentais, yra
+
+didesnė kaip 15 procentų tūrio: iki 2003 m. gruodžio 31 d. (imtinai) – 370 litų
+
+už produkto hektolitrą, o nuo 2004 m.
+
+sausio 1 d. – 230 litų už produkto hektolitrą;
+
+6) tarpiniams produktams,
+
+kurie atitinka Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
+
+patvirtintą vaisių ir uogų vynų apibūdinimą, taip pat iš midaus pagamintiems
+
+tarpiniams produktams, kurių:
+
+a) faktinė alkoholio koncentracija, išreikšta tūrio
+
+procentais, yra ne didesnė kaip 15 procentų tūrio, – 150 litų už produkto
+
+hektolitrą;
+
+b) faktinė alkoholio koncentracija, išreikšta tūrio procentais, yra
+
+didesnė kaip 15 procentų tūrio, – 230 litų už produkto hektolitrą;
+
+7) alui (už produkto hektolitrą) – 7 litai už 1
+
+procentą faktinės alkoholio koncentracijos, išreikštos tūrio procentais.
 
 8) cigaretėms su filtru ir be filtro – 32 litai už
 
@@ -460,15 +538,29 @@ sumažinama.
 
 4. Cukraus kiekį (procentais), nuo kurio skaičiuojamas
 
-šio straipsnio 1 dalies 19 punkte nustatytas akcizo tarifas, nustato
-
-Vyriausybė.
+šio straipsnio 1 dalies 19 punkte nustatytas akcizo tarifas, nustato Vyriausybė.
 
 5. Šio straipsnio 1 dalyje išvardytų prekių kodus
 
 pagal Kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklatūrą
 
 (toliau - KPN) nustato Vyriausybė.
+
+[Straipsnis
+
+papildomas 6 ir 7 dalimis nuo 2001 m. birželio 1 d.:
+
+6. Šio straipsnio 1 dalyje nustatyti akcizo tarifai už
+
+gryno etilo alkoholio hektolitrą skaičiuojami už 100 litrų etilo alkoholio,
+
+kurio faktinė alkoholio koncentracija, išreikšta tūrio procentais, yra 100
+
+procentų tūrio ir kurio temperatūra yra 20 °C.
+
+7. Vyriausybė nustato alaus gamybos apskaitos bei
+
+akcizo už alų apskaičiavimo pagal faktinę alkoholio koncentraciją taisykles.]
 
 Įstatymas papildytas straipsniu:
 
@@ -496,6 +588,90 @@ Nr. IX-309, 2001 05 08, Žin., 2001, Nr.
 
 43-1489 (2001 05 23), įsigalioja nuo 2001 06 01
 
+Nr. IX-332, 2001 05 17, Žin., 2001, Nr.
+
+45-1575 (2001 05 30), įsigalioja nuo 2001 06 01
+
+[Įstatymas
+
+papildomas 5(2) straipsniu nuo 2001 m. birželio 1 d.:
+
+5(2) straipsnis. 5(1 )straipsnyje
+
+vartojamos sąvokos
+
+1. Alus –
+
+alkoholinis gėrimas, klasifikuojamas 22.03 pozicijoje, taip pat bet kuris
+
+gėrimas, pagamintas maišant alų su nealkoholiniais gėrimais ir klasifikuojamas
+
+KPN 22.06 pozicijoje.
+
+2. Vynas iš šviežių vynuogių – neputojantis ir
+
+putojantis vynas iš šviežių vynuogių.
+
+3. Neputojantis vynas iš šviežių vynuogių –
+
+alkoholinis gėrimas, kuris klasifikuojamas
+
+KPN 22.04 ir 22.05 pozicijose ir kurio faktinė alkoholio koncentracija,
+
+išreikšta tūrio procentais, yra didesnė kaip 1,2 procento tūrio, bet ne didesnė
+
+kaip 18 procentų tūrio ir yra gauta tik fermentacijos būdu.
+
+4. Putojantis vynas iš šviežių vynuogių –
+
+alkoholinis gėrimas, kuris klasifikuojamas
+
+KPN 2204.10, 2204.21.10 ir 2204.29.10 subpozicijose bei 22.05 pozicijoje, jeigu
+
+jis išpilstytas į butelius su grybo pavidalo kamščiais, kurie pritvirtinti
+
+raiščiais arba apkaustais, arba pateikiamas kitaip ir jo perteklinis slėgis dėl
+
+ištirpusio anglies dioksido yra ne mažesnis kaip 3 barai. Šio vyno faktinė
+
+alkoholio koncentracija, išreikšta tūrio procentais, yra didesnė kaip 1,2
+
+procento tūrio, bet ne didesnė kaip 15 procentų tūrio, ir yra gauta tik
+
+fermentacijos būdu.
+
+5. Kiti fermentuoti gėrimai – neputojantys ir
+
+putojantys alkoholiniai gėrimai, kurie klasifikuojami KPN 22.06 pozicijoje
+
+(išskyrus gėrimus, kurie pagal šį įstatymą laikomi alumi) ir kurių faktinė
+
+alkoholio koncentracija, išreikšta tūrio procentais, yra didesnė kaip 1,2
+
+procento tūrio, bet ne didesnė kaip 15 procentų tūrio, ir yra gauta tik
+
+fermentacijos būdu.
+
+6. Tarpiniai produktai – alkoholiniai gėrimai,
+
+įskaitant stiprintuosius pridėjus nors kokį kiekį etilo alkoholio,
+
+klasifikuojami KPN 22.04, 22.05 ir 22.06 pozicijose ir kurių faktinė alkoholio
+
+koncentracija, išreikšta tūrio procentais, yra didesnė kaip 1,2 procento tūrio,
+
+bet ne didesnė kaip
+
+22 procentai tūrio, ir kurie pagal šio įstatymo nuostatas nepriskirtini šio
+
+straipsnio 1–5 dalyse nurodytiems gėrimams.]
+
+Įstatymas papildytas straipsniu:
+
+Nr. IX-332, 2001 05
+
+17, Žin., 2001, Nr. 45-1575 (2001 05 30), įsigalioja nuo 2001 06 01
+
 6 straipsnis. Akcizų netaikymo atvejai
 
 1. Akcizais neapmokestinama:
@@ -504,9 +680,11 @@ Nr. IX-309, 2001 05 08, Žin., 2001, Nr.
 
 prekės, įvežamos kaip parama;
 
-2) fizinių asmenų (keleivių) įvežamos prekės, jeigu jų
+2) fizinių asmenų
 
-įvežama ne daugiau kaip Vyriausybės leista jiems įvežti be importo mokesčių;
+(keleivių) įvežamos prekės, jeigu jų įvežama ne daugiau kaip Vyriausybės leista
+
+jiems įvežti be importo mokesčių;
 
 3) prekės, įvežamos užsienio šalių diplomatinių ir
 
@@ -614,6 +792,18 @@ veterinarinių vaistų gamybos įmonėms - veterinarinių vaistų gamybai ir
 
 veterinarijos tiekimo įmonėms - veterinarijos reikmėms.
 
+[2
+
+dalies 2 punkto redakcija nuo 2001 m. birželio 1 d.:
+
+2) farmacijos įmonėms ir sveikatos priežiūros
+
+įstaigoms – sveikatinimo reikmėms; veterinarinių vaistų gamybos įmonėms –
+
+veterinarinių vaistų gamybai; veterinarijos tiekimo
+
+įmonėms – veterinarijos reikmėms.]
+
 3. Mažos alų gaminančios įmonės (toliau - mažosios
 
 alaus daryklos) 100 tūkst. dekalitrų  per metus realizuoto alaus taikomas 50
@@ -681,6 +871,10 @@ Nr. VIII-1876,
 Nr. IX-167, 2001
 
 01 25, Žin., 2001, Nr. 16-494 (2001 02 21), įsigalioja nuo 2002 01 01
+
+Nr. IX-332, 2001 05 17, Žin., 2001, Nr.
+
+45-1575 (2001 05 30), įsigalioja nuo 2001 06 01
 
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
 
@@ -978,9 +1172,9 @@ Lietuvos Respublikos
 
 Seimas, Įstatymas
 
-Nr. VIII-626, 98.02.17, Žin., 1998, Nr.25-629
+Nr. VIII-626, 98.02.17, Žin., 1998,
 
-(98.03.13)
+Nr.25-629 (98.03.13)
 
 AKCIZŲ ĮSTATYMO 6
 
@@ -1160,11 +1354,27 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja nuo 2001 m. birželio 1 d.
 
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-332, 2001 05 17, Žin., 2001, Nr.
+
+45-1575 (2001 05 30)
+
+AKCIZŲ ĮSTATYMO 5(1), 6
+
+STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 5(2) STRAIPSNIU
+
+ĮSTATYMAS
+
+Šis įstatymas, išskyrus 5
+
+straipsnį, įsigalioja nuo 2001 m. birželio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė
-
-Trapinskienė (2001 05 23)
+Redagavo: Aušrinė Trapinskienė (2001 05 31)
 
 autrap@lrs.lt
 
