@@ -4,7 +4,7 @@ identifier: "TAR.AAC3F61596EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2002-06-28"
+last_updated: "2002-09-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AAC3F61596EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įstatymo 10 straipsnio 11 dalis įsigalioja nuo 2003-09-01"
 ---
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
+
+Suvestinė redakcija nuo 2002-09-25 iki 2002-12-23
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 65-2633, i. k. 1021010ISTA00IX-965
 
 LIETUVOS RESPUBLIKOS OPERATYVINĖS VEIKLOS ĮSTATYMAS
 
@@ -182,6 +186,12 @@ OPERATYVINĖS VEIKLOS SUBJEKTŲ TEISĖS IR PAREIGOS
 5) naudoti specialias chemines medžiagas, nesukeliančias pavojaus žmogaus gyvybei ar sveikatai, skirtas įvairiems objektams žymėti specifinėmis žymomis, leidžiančiomis juos išskirti iš tokių pačių objektų visumos;
 
 6) gauti iš įmonių, įstaigų ir organizacijų operatyvinei veiklai reikalingą informaciją;
+
+TAR pastaba. Lietuvos Respublikos operatyvinės veiklos įstatymo (2002 m. birželio 20 d. redakcija) 7 straipsnio 3 dalies 6 punkto nuostata, kad operatyvinės veiklos subjektai Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka turi teisę gauti iš įmonių, įstaigų ir organizacijų operatyvinei veiklai reikalingą informaciją, ta apimtimi, kuria nustatyta, kad informacija ir apie privatų asmens gyvenimą gali būti renkama Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka, prieštarauja Lietuvos Respublikos Konstitucijos 22 straipsniui ir konstituciniam teisinės valstybės principui.
+
+Straipsnio punkto pakeitimai:
+
+2002-09-19, Žin., 2002, Nr. 93-4000 (2002-09-25), i. k. 1021000NUTARG023218
 
 7) įsigyti psichotropinių ar narkotinių medžiagų bei I kategorijos pirmtakų (prekursorių).
 
@@ -522,4 +532,14 @@ Iki Įstatymo įsigaliojimo sankcionuotiems operatyviniams veiksmams šio Įstat
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2002-09-19, Žin., 2002, Nr. 93-4000 (2002-09-25), i. k. 1021000NUTARG023218
+
+Dėl Lietuvos Respublikos telekomunikacijų įstatymo (2000 m. liepos 11 d. redakcija) 27 straipsnio 2 dalies, Lietuvos Respublikos telekomunikacijų įstatymo 27 straipsnio pakeitimo įstatymo 2 straipsnio 1 dalies, Lietuvos Respublikos telekomunikacijų įstatymo (2002 m. liepos 5 d. redakcija) 57 straipsnio 4 dalies, Lietuvos Respublikos operatyvinės veiklos įstatymo (1997 m. gegužės 22 d. redakcija) 7 straipsnio 3 dalies 4 punkto, Lietuvos Respublikos operatyvinės veiklos įstatymo (2002 m. birželio 20 d. redakcija) 7 straipsnio 3 dalies 6 punkto, Lietuvos Respublikos baudžiamojo proceso kodekso 48 straipsnio 1 dalies (1961 m. birželio 26 d. redakcija) ir 75 straipsnio 1 dalies (1975 m. sausio 29 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
 
