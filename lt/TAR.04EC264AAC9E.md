@@ -4,7 +4,7 @@ identifier: "TAR.04EC264AAC9E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-23"
-last_updated: "1995-10-25"
+last_updated: "1999-09-23"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.04EC264AAC9E"
 department: "Lietuvos Respublikos Seimas"
@@ -39,6 +39,22 @@ DĖL LIETUVOS RESPUBLIKOS
 
 LAIVYNUI REMTI TURTO TOLESNIO NAUDOJIMO" PAKEITIMO IR PAPILDYMO
 
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-1333, 99.09.23, Žin.,
+
+1999, Nr.84-2492 (99.10.08)
+
+ĮSTATYMO „DĖL BUVUSIOS
+
+SAVANORIŠKOSIOS DRAUGIJOS ARMIJAI, AVIACIJAI IR LAIVYNUI REMTI TURTO TOLESNIO
+
+NAUDOJIMO“ 1 IR 3 PRIEDĖLIŲ PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
@@ -53,23 +69,23 @@ DĖL BUVUSIOS SAVANORIŠKOSIOS DRAUGIJOS ARMIJAI,
 
 AVIACIJAI IR LAIVYNUI REMTI TURTO TOLESNIO NAUDOJIMO
 
-1 straipsnis.  Pakeisti Lietuvos Respublikos
+1 straipsnis.  Pakeisti
 
-Aukščiausiosios Tarybos  nutarimo   "Dėl  Lietuvos   Respublikos
+Lietuvos Respublikos Aukščiausiosios Tarybos  nutarimo   "Dėl  Lietuvos
 
-savanoriškosios draugijos armijai,  aviacijai ir  laivynui  remti  turto"
+Respublikos  savanoriškosios draugijos armijai,  aviacijai ir  laivynui  remti
 
-(Žin., 1990, Nr.33-802)  1  punktą  -  antrąjį  sakinį  išdėstyti  taip:
+turto"  (Žin., 1990, Nr.33-802)  1  punktą  -
 
-"Buvusios  Savanoriškosios   draugijos  armijai,   aviacijai   ir
+antrąjį  sakinį  išdėstyti  taip: "Buvusios  Savanoriškosios   draugijos
 
-laivynui  remti   turtą,  jeigu   jis  nepriskirtas  savivaldybių nuosavybėn,
+armijai,   aviacijai   ir laivynui  remti   turtą,  jeigu   jis  nepriskirtas
 
-perduoti  valdyti  ir  naudotis  Lietuvos  techninio sporto  draugijai,
+savivaldybių nuosavybėn,  perduoti  valdyti  ir  naudotis  Lietuvos  techninio sporto
 
-Lietuvos  aeroklubui,   Vilniaus   technikos universitetui ir kitoms valstybės
+draugijai,   Lietuvos  aeroklubui,   Vilniaus   technikos universitetui ir
 
-institucijoms."
+kitoms valstybės institucijoms."
 
 Savanoriškosios
 
@@ -85,11 +101,13 @@ Nr. I-1073, 95.10.25, Žin.,
 
 1995, Nr.92-2055 (95.11.10)
 
-2  straipsnis.  Lietuvos  Respublikos
+2  straipsnis.  Lietuvos
 
-Vyriausybė  nustatyta tvarka  paskirsto  buvusios  Savanoriškosios  draugijos
+Respublikos  Vyriausybė  nustatyta tvarka  paskirsto  buvusios
 
-armijai, aviacijai ir  laivynui remti  turtą šio  įstatymo  1  straipsnyje
+Savanoriškosios  draugijos  armijai, aviacijai ir  laivynui remti  turtą šio
+
+įstatymo  1  straipsnyje
 
 nurodytoms institucijoms  ir  organizacijoms  pagal
 
@@ -103,41 +121,41 @@ organizacijomis turto  panaudos sutartis  bei kontroliuoja,  kaip laikomasi
 
 sutarties sąlygų.
 
-3 straipsnis.  Pasiūlyti  Lietuvos  Respublikos
+3 straipsnis.  Pasiūlyti
 
-Vyriausybei pripažinti netekusiais  galios Lietuvos  Respublikos  Vyriausybės
+Lietuvos  Respublikos  Vyriausybei pripažinti netekusiais  galios Lietuvos
 
-nutarimus ir  potvarkius, prieštaraujančius  Lietuvos Respublikos
+Respublikos  Vyriausybės nutarimus ir  potvarkius, prieštaraujančius  Lietuvos
 
-Aukščiausiosios Tarybos  1990 m.  lapkričio 15 d. nutarimui Nr.I- 787 ir šiam
+Respublikos Aukščiausiosios Tarybos  1990 m.  lapkričio 15 d. nutarimui Nr.I-
 
-įstatymui.
+787 ir šiam įstatymui.
 
-4 straipsnis.  Pasiūlyti  Lietuvos  Respublikos
+4 straipsnis.  Pasiūlyti
 
-Vyriausybei kartu su šio įstatymo 1 straipsnyje nurodytomis institucijomis ir
+Lietuvos  Respublikos  Vyriausybei kartu su šio įstatymo 1 straipsnyje
 
-organizacijomis nustatyta  tvarka iki        1995 m. gegužės 1 d. atlikti
+nurodytomis institucijomis ir organizacijomis nustatyta  tvarka iki        1995
 
-buvusios  Savanoriškosios draugijos armijai, aviacijai ir laivynui remti turto,
+m. gegužės 1 d. atlikti buvusios  Savanoriškosios draugijos armijai, aviacijai
 
-koks jis dabar yra, perdavimą pagal 1990 m. spalio 1 d. inventorizacinius
+ir laivynui remti turto, koks jis dabar yra, perdavimą pagal 1990 m. spalio 1
 
-dokumentus ir priskirti tiesioginei pastatų ir  statinių  paskirčiai
+d. inventorizacinius dokumentus ir priskirti tiesioginei pastatų ir  statinių
 
-reikalingus  žemės  plotus  bei nustatyti jų ribas.
+paskirčiai  reikalingus  žemės  plotus  bei nustatyti jų ribas.
 
-5  straipsnis.  Įpareigoti  Lietuvos
+5  straipsnis.
 
-Respublikos  valstybės kontrolės departamentą  kontroliuoti, kaip vykdomas šis
+Įpareigoti  Lietuvos  Respublikos  valstybės kontrolės departamentą
 
-įstatymas ir užtikrinti,  kad buvusios  Savanoriškosios draugijos  armijai,
+kontroliuoti, kaip vykdomas šis įstatymas ir užtikrinti,  kad buvusios
 
-aviacijai  ir  laivynui  remti  turtas  būtų  perduotas  Lietuvos techninio
+Savanoriškosios draugijos  armijai, aviacijai  ir  laivynui  remti  turtas
 
-sporto   draugijai,  Lietuvos   aeroklubui,   Vilniaus technikos universitetui
+būtų  perduotas  Lietuvos techninio  sporto   draugijai,  Lietuvos
 
-ir kitoms valstybės institucijoms.
+aeroklubui,   Vilniaus technikos universitetui ir kitoms valstybės institucijoms.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
@@ -205,15 +223,11 @@ Respublikiniam sportiniam-techniniam klubui;
 
 Respublikiniam
 
-(be šaudyklos Čiurlionio g. Nr.112 Vilniuje) ir  Panevėžio   miesto  šaudymo
+radijo klubui;
 
-klubui,  Respublikiniam  radijo klubui;
+specializuotoms Vilniaus
 
-specializuotoms
-
-Vilniaus  miesto ir  Panevėžio rajono vaikų- jaunimo technikos sporto
-
-mokykloms;
+miesto ir  Panevėžio rajono vaikų- jaunimo technikos sporto mokykloms;
 
 SDAALR CK  karinių-techninių sporto  šakų
 
@@ -250,6 +264,10 @@ Priedėlio pakeitimai:
 Nr. I-1073, 95.10.25, Žin.,
 
 1995, Nr.92-2055 (95.11.10)
+
+Nr. VIII-1333, 99.09.23, Žin.,
+
+1999, Nr.84-2492 (99.10.08)
 
 Lietuvos
 
@@ -351,27 +369,25 @@ Lietuvos Respublikos valstybės institucijoms
 
 ir savivaldybėms perduodamas turtas
 
-Perduoti Lietuvos
+Perduoti Lietuvos  Respublikos
 
-Respublikos  valstybės  institucijoms  ir savivaldybėms  Vilniaus   gamybinį
+valstybės  institucijoms  ir savivaldybėms  Vilniaus   gamybinį  kombinatą
 
-kombinatą   (Krivių  g.  48), Vilniaus  siuvimo   gamybinį  kombinatą
+(Krivių  g.  48), Vilniaus  siuvimo   gamybinį  kombinatą  (Basanavičiaus  g.
 
-(Basanavičiaus  g.  15), Šalčininkų gamybinį  kombinatą, Prienų aviacijos
+15), Šalčininkų gamybinį  kombinatą, Prienų aviacijos sporto technikos gamyklą
 
-sporto technikos gamyklą bei  turtą, priklausiusį  šioms buvusios
+bei  turtą, priklausiusį  šioms buvusios  Savanoriškosios draugijos  armijai
 
-Savanoriškosios draugijos  armijai   ir  aviacijai  ir  laivynui  remti
-
-(SDAALR) organizacijoms:
+ir  aviacijai  ir  laivynui  remti  (SDAALR) organizacijoms:
 
 Vilniaus miesto  Lenino, Spalio,  Tarybų,
 
-Naujosios  Vilnios rajonų, Kauno  miesto, Kauno  miesto Lenino, K.Požėlos,
+Naujosios  Vilnios rajonų, Kauno  miesto, Kauno  miesto Lenino, K.Požėlos, Panemunės
 
-Panemunės rajonų,  Šiaulių,   Panevėžio,  Alytaus,  Marijampolės,  Neringos
+rajonų,  Šiaulių,   Panevėžio,  Alytaus,  Marijampolės,  Neringos miestų SDAALR
 
-miestų SDAALR komitetams;
+komitetams;
 
 Akmenės,  Anykščių,   Biržų,  Jonavos,
 
@@ -389,11 +405,9 @@ Prienų aviasporto klubui;
 
 Respublikiniam tarnybinės šunininkystės klubui;
 
-Klaipėdos šaudymo klubui;
+Kauno,   Klaipėdos    ir   Panevėžio
 
-Kauno,   Klaipėdos    ir   Panevėžio    miestų
-
-tarnybinės šunininkystės klubams;
+miestų    tarnybinės šunininkystės klubams;
 
 Kauno politechnikos instituto, Kauno rajono
 
@@ -426,4 +440,8 @@ Priedėlio pakeitimai:
 Nr. I-1073, 95.10.25, Žin.,
 
 1995, Nr.92-2055 (95.11.10)
+
+Nr. VIII-1333, 99.09.23, Žin.,
+
+1999, Nr.84-2492 (99.10.08)
 
