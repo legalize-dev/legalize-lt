@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2002-01-24"
+last_updated: "2002-03-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -5574,13 +5574,13 @@ Respublikos Prezidentui dėl teisėjų skyrimo, paaukštinimo, perkėlimo ir
 
 atleidimo iš pareigų;
 
-4) pataria
+4) pataria Respublikos
 
-Respublikos Prezidentui dėl teismų pirmininkų, pirmininkų pavaduotojų, skyrių
+Prezidentui dėl teismų pirmininkų, pirmininkų pavaduotojų, skyrių pirmininkų
 
-pirmininkų skyrimo ir atleidimo iš pareigų (išskyrus 79 straipsnyje ir 81
+skyrimo ir atleidimo iš pareigų (išskyrus 79 straipsnyje ir 81 straipsnio 2 ir
 
-straipsnio 2 ir 3 dalyse numatytus atvejus);
+3 dalyse numatytus atvejus);
 
 5) pataria
 
@@ -5594,11 +5594,11 @@ Pretendentų į teisėjus egzamino komisiją ir skiria jos pirmininką, svarsto 
 
 komisijos nuostatus bei egzamino programą ir juos tvirtina;
 
-7) tvirtina asmenų
+7) tvirtina
 
-įrašymo į pretendentų į laisvas apylinkės teismo teisėjų vietas sąrašą tvarką
+asmenų įrašymo į pretendentų į laisvas apylinkės teismo teisėjų vietas sąrašą
 
-bei asmenų įrašymo į teisėjų karjeros siekiančių asmenų registrą tvarką;
+tvarką bei asmenų įrašymo į teisėjų karjeros siekiančių asmenų registrą tvarką;
 
 8) sudaro
 
@@ -5952,9 +5952,9 @@ be Teismų tarybos sutikimo.
 
 atvejais teismai savo funkcijoms atlikti reikalingas patalpas gali nuomotis.
 
-129 straipsnis.
+129 straipsnis. Teismų
 
-Teismų ūkinės finansinės veiklos tikrinimas
+ūkinės finansinės veiklos tikrinimas
 
 Teismų ūkinę
 
@@ -6403,6 +6403,34 @@ TEISMŲ
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Nauja įstatymo redakcija
+
+Šio įstatymo įsigaliojimą nusako:
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-788,
+
+2002-03-14, Žin., 2002, Nr. 31-1131 (2002-03-27)
+
+TEISMŲ ĮSTATYMO PAKEITIMO
+
+ĮSTATYMO ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMAS
+
+Teismų įstatymo pakeitimo įstatymas įsigalioja nuo
+
+2002 m. gegužės 1 d., išskyrus šiame Įstatyme numatytas išimtis.
+
+Teismų įstatymo 94 ir 100
+
+straipsniai įsigalioja nuo 2003 m. sausio 1 d.
+
+Iki šiame Įstatyme nurodytų
+
+Teismų įstatymo straipsnių įsigaliojimo taikomos atitinkamos Teismų įstatymo
+
+nuostatos, galiojusios iki Teismų įstatymo pakeitimo įstatymo įsigaliojimo.
 
 ***Pabaiga***
 
