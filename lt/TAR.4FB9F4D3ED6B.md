@@ -4,7 +4,7 @@ identifier: "TAR.4FB9F4D3ED6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-05-08"
-last_updated: "2000-03-16"
+last_updated: "2000-07-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -26,7 +26,9 @@ Neoficialus
 
 įstatymo tekstas
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
+
+RESPUBLIKOS
 
 Į M O N I Ų
 
@@ -84,7 +86,9 @@ pakeitimai:
 
 Nr.
 
-I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+I-1015,
+
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
 Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.108-3129
 
@@ -122,9 +126,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.108-3129
+Nr. VIII-1465, 99.12.07, Žin., 1999,
 
-(99.12.22)
+Nr.108-3129 (99.12.22)
 
 3
 
@@ -134,9 +138,9 @@ straipsnis.Įmonininkas
 
 yra fizinis arba juridinis asmuo, taip pat į bendrovę (bendriją) susijungę keli
 
-fiziniai ar juridiniai asmenys, kurie nuosavybės teise valdo, naudoja ir
+fiziniai ar juridiniai asmenys, kurie nuosavybės teise valdo, naudoja ir disponuoja
 
-disponuoja įmonės turtu, organizuoja įmonės ūkinę ir finansinę veiklą.
+įmonės turtu, organizuoja įmonės ūkinę ir finansinę veiklą.
 
 Nuosavybės
 
@@ -186,11 +190,13 @@ pakeitimai:
 
 Nr.
 
-I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+I-1015,
 
-Nr.
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422,
+
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 5
 
@@ -326,9 +332,9 @@ veiklos netikslingumu.
 
 Apie licencijos
 
-išdavimą, jos galiojimo sustabdymą ir panaikinimą oficialaus leidinio „Valstybės
+išdavimą, jos galiojimo sustabdymą ir panaikinimą oficialaus leidinio
 
-žinios“ priede „Informaciniai pranešimai“ skelbia licenciją išdavusi
+„Valstybės žinios“ priede „Informaciniai pranešimai“ skelbia licenciją išdavusi
 
 institucija.
 
@@ -338,99 +344,141 @@ pakeitimai:
 
 Nr.
 
-I-448, 90.07.31, Žin., 1990, Nr. 23-573
+I-448,
+
+90.07.31, Žin., 1990, Nr. 23-573
 
 Nr.
 
-I-1027, 91.01.31, Žin., 1991, Nr. 5-128
+I-1027,
+
+91.01.31, Žin., 1991, Nr. 5-128
 
 Nr.
 
-I-1937, 91.10.29, Žin., 1991, Nr. 32-867
+I-1937,
+
+91.10.29, Žin., 1991, Nr. 32-867
 
 Nr.
 
-I-2658, 92.06.23, Žin., 1992, Nr. 20-590
+I-2658,
+
+92.06.23, Žin., 1992, Nr. 20-590
 
 Nr.
 
-I-3016, 92.10.29, Žin., 1992, Nr. 33-1009
+I-3016,
+
+92.10.29, Žin., 1992, Nr. 33-1009
 
 Nr.
 
-I-46, 93.01.14, Žin., 1993, Nr. 4-75
+I-46,
+
+93.01.14, Žin., 1993, Nr. 4-75
 
 Nr.
 
-I-187, 93.06.17, Žin., 1993, Nr. 25-581 (93.06.25)
+I-187,
+
+93.06.17, Žin., 1993, Nr. 25-581 (93.06.25)
 
 Nr.
 
-I-367, 94.01.11, Žin., 1994, Nr. 8-119 (94.01.28)
+I-367,
+
+94.01.11, Žin., 1994, Nr. 8-119 (94.01.28)
 
 Nr.
 
-I-393, 94.02.15, Žin., 1994, Nr. 14-232 (94.02.23)
+I-393,
+
+94.02.15, Žin., 1994, Nr. 14-232 (94.02.23)
 
 Nr.
 
-I-432, 94.04.12, Žin., 1994, Nr. 30-533 (94.04.22)
+I-432,
+
+94.04.12, Žin., 1994, Nr. 30-533 (94.04.22)
 
 Nr.
 
-I-529, 94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
+I-529,
+
+94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
 
 Nr.
 
-I-579, 94.07.21, Žin., 1994, Nr. 59-1163 (94.08.03)
+I-579,
+
+94.07.21, Žin., 1994, Nr. 59-1163 (94.08.03)
 
 Nr.
 
-I-672, 94.11.24, Žin., 1994, Nr. 94-1836 (94.12.07)
+I-672,
+
+94.11.24, Žin., 1994, Nr. 94-1836 (94.12.07)
 
 Nr.
 
-I-742, 94.12.28, Žin., 1995, Nr. 3-38 (95.01.06)
+I-742,
+
+94.12.28, Žin., 1995, Nr. 3-38 (95.01.06)
 
 Nr.
 
-I-877, 95.05.04, Žin., 1995, Nr. 39-964 (95.05.12)
+I-877,
+
+95.05.04, Žin., 1995, Nr. 39-964 (95.05.12)
 
 Nr.
 
-I-888, 95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
+I-888,
+
+95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
 
 Nr.
 
-I-932, 95.06.08, Žin., 1995, Nr. 51-1247 (95.06.21)
+I-932,
+
+95.06.08, Žin., 1995, Nr. 51-1247 (95.06.21)
 
 Nr.
 
-I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+I-1015,
+
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
 Nr.
 
-I-1092, 95.11.09, Žin., 1995, Nr. 94-2089 (95.11.17)
+I-1092,
+
+95.11.09, Žin., 1995, Nr. 94-2089 (95.11.17)
 
 Nr.
 
-I-1181, 96.01.23, Žin., 1996, Nr. 11-284 (96.02.07)
+I-1181,
+
+96.01.23, Žin., 1996, Nr. 11-284 (96.02.07)
 
 Nr.
 
-I-1462, 96.07.10, Žin., 1996, Nr. 68-1641 (96.07.19)
+I-1462,
 
-Nr.
+96.07.10, Žin., 1996, Nr. 68-1641 (96.07.19)
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422,
 
-Nr.
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
-VIII-1228, 99.06.15, Žin., 1999, Nr.59-1917 (99.07.07)
+Nr. VIII-1228,
 
-Nr. VIII-1566, 00.03.16, Žin., 2000, Nr.28-756
+99.06.15, Žin., 1999, Nr.59-1917 (99.07.07)
 
-(00.04.05)
+Nr. VIII-1566, 00.03.16, Žin., 2000,
+
+Nr.28-756 (00.04.05)
 
 14
 
@@ -502,15 +550,19 @@ pakeitimai:
 
 Nr.
 
-I-1146, 95.12.20, Žin., 1995, Nr. 107-2395 (95.12.30)
+I-1146,
+
+95.12.20, Žin., 1995, Nr. 107-2395 (95.12.30)
 
 Nr.
 
-I-1600, 96.10.22, Žin., 1996, Nr.106-2430 (96.11.06)
+I-1600,
 
-Nr.
+96.10.22, Žin., 1996, Nr.106-2430 (96.11.06)
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422,
+
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 15
 
@@ -552,11 +604,13 @@ pakeitimai:
 
 Nr.
 
-I-888, 95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
+I-888,
 
-Nr.
+95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422,
+
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 16
 
@@ -1012,7 +1066,9 @@ pakeitimai:
 
 Nr.
 
-I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+I-1015,
+
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
 prilygsta leidimui ją  steigti, taikomas šio įstatymo 20 straipsnis.
 
@@ -1368,31 +1424,43 @@ pakeitimai:
 
 Nr.
 
-I-448, 90.07.31, Žin., 1990, Nr. 23-573
+I-448,
+
+90.07.31, Žin., 1990, Nr. 23-573
 
 Nr.
 
-I-763, 95.01.17, Žin., 1995, Nr. 10-207 (95.02.01)
+I-763,
+
+95.01.17, Žin., 1995, Nr. 10-207 (95.02.01)
 
 Nr.
 
-I-888, 95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
+I-888,
+
+95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
 
 Nr.
 
-I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+I-1015,
+
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
 Nr.
 
-I-1156, 95.12.21, Žin., 1996, Nr. 8-195 (96.01.26)
+I-1156,
+
+95.12.21, Žin., 1996, Nr. 8-195 (96.01.26)
 
 Nr.
 
-I-1552, 96.09.25, Žin., 1996, Nr. 100-2267 (96.10.16)
+I-1552,
 
-Nr.
+96.09.25, Žin., 1996, Nr. 100-2267 (96.10.16)
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422,
+
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 20
 
@@ -1472,11 +1540,13 @@ pakeitimai:
 
 Nr.
 
-I-888, 95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
+I-888,
 
-Nr.
+95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422,
+
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 24 straipsnis.
 
@@ -1486,11 +1556,11 @@ Lietuvos
 
 Respublikos įmonių rejestre įregistruota įmonė gali
 
-steigti filialus ir atstovybes šio ir kitų Lietuvos Respublikos įstatymų
+steigti filialus ir atstovybes šio ir kitų Lietuvos Respublikos įstatymų nustatyta
 
-nustatyta tvarka. Įmonės filialų ir atstovybių skaičius neribojamas. Banko
+tvarka. Įmonės filialų ir atstovybių skaičius neribojamas. Banko filialai
 
-filialai (skyriai) ir banko atstovybės steigiami ir veikia Lietuvos Respublikos
+(skyriai) ir banko atstovybės steigiami ir veikia Lietuvos Respublikos
 
 komercinių bankų įstatymo ir šio įstatymo nustatyta tvarka. Banko filialai
 
@@ -1508,11 +1578,11 @@ filialo prievoles įmonė atsako visu savo turtu. Filialas nėra juridinis asmuo
 
 Filialo veiklą organizuoja ir vykdo filialo vadovas, kuris įgyja teisę
 
-atstovauti filialui palaikant santykius su trečiaisiais asmenims tik filialą
+atstovauti filialui palaikant santykius su trečiaisiais asmenims tik filialą įregistravus.
 
-įregistravus. Jeigu filialo vadovas sudarydamas sandorius viršija jam suteiktus
+Jeigu filialo vadovas sudarydamas sandorius viršija jam suteiktus įgaliojimus,
 
-įgaliojimus, tai nepanaikina įmonės atsakomybės už šiuos sandorius.
+tai nepanaikina įmonės atsakomybės už šiuos sandorius.
 
 Atstovybė yra buveinę turintis įmonės padalinys,
 
@@ -1634,15 +1704,19 @@ pakeitimai:
 
 Nr.
 
-I-529, 94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
+I-529,
+
+94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
 
 Nr.
 
-I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+I-1015,
 
-Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.108-3129
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
-(99.12.22)
+Nr. VIII-1465, 99.12.07, Žin., 1999,
+
+Nr.108-3129 (99.12.22)
 
 4 straipsnis.Įmonės
 
@@ -2078,9 +2152,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr.
+Nr. VIII-422,
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 11(1)
 
@@ -2102,9 +2176,9 @@ nekeičiama.
 
 papildytas straipsniu:
 
-Nr.
+Nr. VIII-422,
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 III skirsnis
 
@@ -3360,11 +3434,11 @@ lošimus.
 
 išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus ir būdus.
 
-Komercinės-ūkinės veiklos sritis,
+Komercinės-ūkinės veiklos sritis, kuriose
 
-kuriose neleidžiamos užsienio investicijos, nustato Lietuvos Respublikos
+neleidžiamos užsienio investicijos, nustato Lietuvos Respublikos investicijų
 
-investicijų įstatymas.
+įstatymas.
 
 Laisvųjų
 
@@ -3390,9 +3464,9 @@ atstovybę, taip pat sudarydama sandorius su Lietuvos Respublikos asmenimis. Už
 
 valstybės įmonės iš šios veiklos gautas pelnas (pajamos) apmokestinamas
 
-vadovaujantis Lietuvos Respublikos įstatymais ir Lietuvos Respublikos
+vadovaujantis Lietuvos Respublikos įstatymais ir Lietuvos Respublikos tarptautinėmis
 
-tarptautinėmis sutartimis.
+sutartimis.
 
 Straipsnio
 
@@ -3400,51 +3474,65 @@ pakeitimai:
 
 Nr.
 
-I-367, 94.01.11, Žin., 1994, Nr. 8-119 (94.01.28)
+I-367,
+
+94.01.11, Žin., 1994, Nr. 8-119 (94.01.28)
 
 Nr.
 
-I-579, 94.07.21, Žin., 1994, Nr. 59-1163 (94.08.03)
+I-579,
 
-Nr. I-763, 95.01.17,
+94.07.21, Žin., 1994, Nr. 59-1163 (94.08.03)
 
-Žin., 1995, Nr. 10-207 (95.02.01)
+Nr. I-763,
 
-Nr.
-
-I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+95.01.17, Žin., 1995, Nr. 10-207 (95.02.01)
 
 Nr.
 
-I-1146, 95.12.20, Žin., 1995, Nr. 107-2395 (95.12.30)
+I-1015,
+
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
 Nr.
 
-I-1156, 95.12.21, Žin., 1996, Nr. 8-195 (96.01.26)
+I-1146,
+
+95.12.20, Žin., 1995, Nr. 107-2395 (95.12.30)
 
 Nr.
 
-I-1252, 96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
+I-1156,
+
+95.12.21, Žin., 1996, Nr. 8-195 (96.01.26)
 
 Nr.
 
-I-1552, 96.09.25, Žin., 1996, Nr. 100-2267 (96.10.16)
+I-1252,
+
+96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
 
 Nr.
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+I-1552,
 
-Nr.
+96.09.25, Žin., 1996, Nr. 100-2267 (96.10.16)
 
-VIII-936, 98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
+Nr. VIII-422,
 
-Nr.
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
-VIII-1305, 99.07.07, Žin., 1999, Nr.66-2122 (99.07.30)
+Nr. VIII-936,
 
-Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.108-3129
+98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
 
-(99.12.22)
+Nr. VIII-1305,
+
+99.07.07, Žin., 1999, Nr.66-2122 (99.07.30)
+
+Nr. VIII-1465, 99.12.07, Žin., 1999,
+
+Nr.108-3129 (99.12.22)
 
 25 straipsnis.
 
@@ -3500,15 +3588,15 @@ atstovybė nėra juridinis asmuo. Užsienio valstybės įmonės atstovybė ją
 
 įsteigusios įmonės vardu gali sudaryti sandorius tik savo reikmėms tenkinti
 
-pagal suteiktus įgaliojimus. Eksporto ir importo operacijos gali būti
+pagal suteiktus įgaliojimus. Eksporto ir importo operacijos gali būti atliekamos
 
-atliekamos tik tarp užsienio valstybės įmonės atstovybės ir ją įsteigusios
+tik tarp užsienio valstybės įmonės atstovybės ir ją įsteigusios įmonės arba
 
-įmonės arba šios įmonės įgalioto užsienio ūkio subjekto. Eksporto ir importo
+šios įmonės įgalioto užsienio ūkio subjekto. Eksporto ir importo muitinės
 
-muitinės procedūros įforminamos Lietuvos Respublikos įstatymų nustatyta tvarka
+procedūros įforminamos Lietuvos Respublikos įstatymų nustatyta tvarka pagal
 
-pagal atstovybės buveinės vietą. Užsienio valstybės įmonės atstovybės veiklą
+atstovybės buveinės vietą. Užsienio valstybės įmonės atstovybės veiklą
 
 organizuoja ir vykdo užsienio valstybės įmonės atstovybės vadovas, kuris įgyja
 
@@ -3668,9 +3756,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.108-3129
+Nr. VIII-1465, 99.12.07, Žin., 1999,
 
-(99.12.22)
+Nr.108-3129 (99.12.22)
 
 LIETUVOS RESPUBLIKOS
 
@@ -3708,7 +3796,9 @@ Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 
 Nr.
 
-I-678, 90.10.16, Žin., 1990, Nr. 31-749
+I-678,
+
+90.10.16, Žin., 1990, Nr. 31-749
 
 DĖL
 
@@ -3722,7 +3812,9 @@ Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 
 Nr.
 
-I-1027, 91.01.31, Žin., 1991, Nr. 5-128
+I-1027,
+
+91.01.31, Žin., 1991, Nr. 5-128
 
 DĖL
 
@@ -3736,7 +3828,9 @@ Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 
 Nr.
 
-I-1224, 91.04.16, Žin., 1991, Nr. 13-330
+I-1224,
+
+91.04.16, Žin., 1991, Nr. 13-330
 
 DĖL
 
@@ -3750,7 +3844,9 @@ Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 
 Nr.
 
-I-1937, 91.10.29, Žin., 1991, Nr. 32-867
+I-1937,
+
+91.10.29, Žin., 1991, Nr. 32-867
 
 DĖL
 
@@ -3764,7 +3860,9 @@ Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 
 Nr.
 
-I-2658, 92.06.23, Žin., 1992, Nr. 20-590
+I-2658,
+
+92.06.23, Žin., 1992, Nr. 20-590
 
 DĖL
 
@@ -3778,7 +3876,9 @@ Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 
 Nr.
 
-I-3016, 92.10.29, Žin., 1992, Nr. 33-1009
+I-3016,
+
+92.10.29, Žin., 1992, Nr. 33-1009
 
 DĖL
 
@@ -3792,7 +3892,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-46, 93.01.14, Žin., 1993, Nr. 4-75
+I-46,
+
+93.01.14, Žin., 1993, Nr. 4-75
 
 DĖL
 
@@ -3806,7 +3908,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-169, 93.06.01, Žin., 1993, Nr. 20-492 (93.06.09)
+I-169,
+
+93.06.01, Žin., 1993, Nr. 20-492 (93.06.09)
 
 DĖL
 
@@ -3822,7 +3926,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-187, 93.06.17, Žin., 1993, Nr. 25-581 (93.06.25)
+I-187,
+
+93.06.17, Žin., 1993, Nr. 25-581 (93.06.25)
 
 DĖL
 
@@ -3836,7 +3942,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-231, 93.07.15, Žin., 1993, Nr. 32-729 (93.07.28)
+I-231,
+
+93.07.15, Žin., 1993, Nr. 32-729 (93.07.28)
 
 DĖL
 
@@ -3850,7 +3958,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-253, 93.09.28, Žin., 1993, Nr. 52-994 (93.10.13)
+I-253,
+
+93.09.28, Žin., 1993, Nr. 52-994 (93.10.13)
 
 DĖL
 
@@ -3864,7 +3974,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-367, 94.01.11, Žin., 1994, Nr. 8-119 (94.01.28)
+I-367,
+
+94.01.11, Žin., 1994, Nr. 8-119 (94.01.28)
 
 DĖL
 
@@ -3878,7 +3990,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-393, 94.02.15, Žin., 1994, Nr. 14-232 (94.02.23)
+I-393,
+
+94.02.15, Žin., 1994, Nr. 14-232 (94.02.23)
 
 DĖL
 
@@ -3892,7 +4006,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-432, 94.04.12, Žin., 1994, Nr. 30-533 (94.04.22)
+I-432,
+
+94.04.12, Žin., 1994, Nr. 30-533 (94.04.22)
 
 DĖL
 
@@ -3906,7 +4022,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-529, 94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
+I-529,
+
+94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
 
 DĖL
 
@@ -3920,7 +4038,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-579, 94.07.21, Žin., 1994, Nr. 59-1163 (94.08.03)
+I-579,
+
+94.07.21, Žin., 1994, Nr. 59-1163 (94.08.03)
 
 DĖL
 
@@ -3934,7 +4054,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-672, 94.11.24, Žin., 1994, Nr. 94-1836 (94.12.07)
+I-672,
+
+94.11.24, Žin., 1994, Nr. 94-1836 (94.12.07)
 
 DĖL
 
@@ -3948,7 +4070,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-742, 94.12.28, Žin., 1995, Nr. 3-38 (95.01.06)
+I-742,
+
+94.12.28, Žin., 1995, Nr. 3-38 (95.01.06)
 
 DĖL
 
@@ -3962,7 +4086,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-749, 95.01.12, Žin., 1995, Nr. 10-206 (95.02.01)
+I-749,
+
+95.01.12, Žin., 1995, Nr. 10-206 (95.02.01)
 
 DĖL
 
@@ -3976,7 +4102,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-763, 95.01.17, Žin., 1995, Nr. 10-207 (95.02.01)
+I-763,
+
+95.01.17, Žin., 1995, Nr. 10-207 (95.02.01)
 
 DĖL
 
@@ -3990,7 +4118,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-877, 95.05.04, Žin., 1995, Nr. 39-964 (95.05.12)
+I-877,
+
+95.05.04, Žin., 1995, Nr. 39-964 (95.05.12)
 
 DĖL
 
@@ -4004,7 +4134,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-888, 95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
+I-888,
+
+95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
 
 DĖL
 
@@ -4018,7 +4150,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-932, 95.06.08, Žin., 1995, Nr. 51-1247 (95.06.21)
+I-932,
+
+95.06.08, Žin., 1995, Nr. 51-1247 (95.06.21)
 
 DĖL
 
@@ -4032,7 +4166,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+I-1015,
+
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
 DĖL
 
@@ -4046,7 +4182,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1092, 95.11.09, Žin., 1995, Nr. 94-2089 (95.11.17)
+I-1092,
+
+95.11.09, Žin., 1995, Nr. 94-2089 (95.11.17)
 
 DĖL
 
@@ -4060,7 +4198,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1146, 95.12.20, Žin., 1995, Nr. 107-2395 (95.12.30)
+I-1146,
+
+95.12.20, Žin., 1995, Nr. 107-2395 (95.12.30)
 
 DĖL
 
@@ -4074,7 +4214,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1156, 95.12.21, Žin., 1996, Nr. 8-195 (96.01.26)
+I-1156,
+
+95.12.21, Žin., 1996, Nr. 8-195 (96.01.26)
 
 DĖL
 
@@ -4090,7 +4232,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1181, 96.01.23, Žin., 1996, Nr. 11-284 (96.02.07)
+I-1181,
+
+96.01.23, Žin., 1996, Nr. 11-284 (96.02.07)
 
 LIETUVOS
 
@@ -4104,7 +4248,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1252, 96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
+I-1252,
+
+96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
 
 LIETUVOS
 
@@ -4120,7 +4266,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1462, 96.07.10, Žin., 1996, Nr. 68-1641 (96.07.19)
+I-1462,
+
+96.07.10, Žin., 1996, Nr. 68-1641 (96.07.19)
 
 LIETUVOS
 
@@ -4134,7 +4282,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1552, 96.09.25, Žin., 1996, Nr. 100-2267 (96.10.16)
+I-1552,
+
+96.09.25, Žin., 1996, Nr. 100-2267 (96.10.16)
 
 LIETUVOS
 
@@ -4148,7 +4298,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1600, 96.10.22, Žin., 1996, Nr.106-2430 (96.11.06)
+I-1600,
+
+96.10.22, Žin., 1996, Nr.106-2430 (96.11.06)
 
 LIETUVOS
 
@@ -4160,9 +4312,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr.
+Nr. VIII-376,
 
-VIII-376, 97.07.02, Žin., 1997, Nr.69-1737 (97.07.23)
+97.07.02, Žin., 1997, Nr.69-1737 (97.07.23)
 
 LIETUVOS
 
@@ -4174,9 +4326,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr.
+Nr. VIII-422,
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 LIETUVOS
 
@@ -4190,9 +4342,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr.
+Nr. VIII-936,
 
-VIII-936, 98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
+98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
 
 LIETUVOS
 
@@ -4210,7 +4362,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-1228, 99.06.15, Žin., 1999, Nr.59-1917 (99.07.07)
+VIII-1228,
+
+99.06.15, Žin., 1999, Nr.59-1917 (99.07.07)
 
 LIETUVOS
 
@@ -4224,7 +4378,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-1305, 99.07.07, Žin., 1999, Nr.66-2122 (99.07.30)
+VIII-1305,
+
+99.07.07, Žin., 1999, Nr.66-2122 (99.07.30)
 
 LIETUVOS
 
@@ -4234,9 +4390,9 @@ RESPUBLIKOS ĮMONIŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.108-3129
+Nr. VIII-1465, 99.12.07, Žin., 1999,
 
-(99.12.22)
+Nr.108-3129 (99.12.22)
 
 LIETUVOS
 
@@ -4248,19 +4404,25 @@ PAPILDYMO BEI PAPILDYMO 25 STRAIPSNIU ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1566, 00.03.16, Žin., 2000, Nr.28-756
+Nr. VIII-1566, 00.03.16, Žin., 2000,
 
-(00.04.05)
+Nr.28-756 (00.04.05)
 
 ĮMONIŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-***
+41.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas, Įstatymas
 
-Redagavo:
+Nr. VIII-1843, 00.07.13, Žin., 2000,
 
-Aušrinė Trapinskienė (2000.04.06)
+Nr.64-1920 (00.07.31)
+
+ĮMONIŲ ĮSTATYMO 7, 8 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2000.08.18)
 
 6 straipsnis.Įmonių rūšys ir
 
@@ -4294,9 +4456,9 @@ bendrovės, uždarosios akcinės bendrovės ir investicinės bendrovės;
 
 įmonės;
 
-7) žemės ūkio bendrovės
+7) žemės ūkio
 
-(veikla reglamentuojama atskirame įstatyme);
+bendrovės (veikla reglamentuojama atskirame įstatyme);
 
 8) kooperatinės
 
@@ -4314,23 +4476,31 @@ pakeitimai:
 
 Nr.
 
-I-1224, 91.04.16, Žin., 1991, Nr. 13-330
+I-1224,
+
+91.04.16, Žin., 1991, Nr. 13-330
 
 Nr.
 
-I-169, 93.06.01, Žin., 1993, Nr. 20-492 (93.06.09)
+I-169,
+
+93.06.01, Žin., 1993, Nr. 20-492 (93.06.09)
 
 Nr.
 
-I-231, 93.07.15, Žin., 1993, Nr. 32-729 (93.07.28)
+I-231,
+
+93.07.15, Žin., 1993, Nr. 32-729 (93.07.28)
 
 Nr.
 
-I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+I-1015,
 
-Nr.
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422,
+
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 7
 
@@ -4346,9 +4516,11 @@ fiziniams asmenims bendrosios jungtinės nuosavybės teise. Individualią
 
 organizacijos, turinčios juridinio asmens teises. Individuali (personalinė)
 
-įmonė neturi juridinio asmens teisių, jos turtas neatskirtas nuo įmonininko turto.
+įmonė neturi juridinio asmens teisių, jos turtas neatskirtas nuo įmonininko
 
-Pagal įmonės prievoles įmonininkas atsako visu savo turtu.
+turto. Pagal įmonės prievoles įmonininkas atsako visu savo turtu, taip pat ir
+
+po įmonės likvidavimo.
 
 Individuali
 
@@ -4368,7 +4540,13 @@ pakeitimai:
 
 Nr.
 
-I-529, 94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
+I-529,
+
+94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
+
+Nr. VIII-1843, 00.07.13, Žin., 2000,
+
+Nr.64-1920 (00.07.31)
 
 8
 
@@ -4386,9 +4564,11 @@ Tikroji ūkinė bendrija neturi juridinio asmens teisių, jos turtas neatskirtas
 
 nuo bendrijos narių turto. Pagal tikrosios ūkinės bendrijos prievoles jos
 
-nariai atsako solidariai visu savo turtu. Tikroji ūkinė bendrija neatsako pagal
+nariai atsako solidariai visu savo turtu, taip pat ir po įmonės likvidavimo.
 
-savo narių prievoles, nesusijusias su bendrijos veikla.
+Tikroji ūkinė bendrija neatsako pagal savo narių prievoles, nesusijusias su
+
+bendrijos veikla.
 
 Tikrosios
 
@@ -4406,6 +4586,14 @@ Lietuvos Respublikos civilinis kodeksas, Lietuvos Respublikos ūkinių bendrijų
 
 ūkinė bendrija.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-1843, 00.07.13, Žin., 2000,
+
+Nr.64-1920 (00.07.31)
+
 9
 
 straipsnis.Komanditinė (pasitikėjimo) ūkinė bendrija
@@ -4422,13 +4610,15 @@ juridinis asmuo, jos turtas neatskirtas nuo bendrijos tikrųjų narių turto.
 
 Pagal komanditinės (pasitikėjimo) ūkinės bendrijos prievoles jos tikrieji
 
-nariai solidariai atsako visu savo turtu, o nariai komanditoriai - tik ta savo
+nariai solidariai atsako visu savo turtu, taip pat ir po įmonės likvidavimo, o
 
-turto dalimi, kurią pagal sutartį yra perdavę bendrai komanditinės
+nariai komanditoriai - tik ta savo turto dalimi, kurią pagal sutartį yra
 
-(pasitikėjimo) ūkinės bendrijos veiklai. Komanditinė (pasitikėjimo) ūkinė
+perdavę bendrai komanditinės (pasitikėjimo) ūkinės bendrijos veiklai.
 
-bendrija neatsako pagal savo narių prievoles, nesusijusias su bendrijos veikla.
+Komanditinė (pasitikėjimo) ūkinė bendrija neatsako pagal savo narių prievoles,
+
+nesusijusias su bendrijos veikla.
 
 Komanditinės
 
@@ -4454,17 +4644,25 @@ Lietuvos Respublikos civilinis kodeksas, Lietuvos Respublikos ūkinių bendrijų
 
 komanditinė (pasitikėjimo) ūkinė bendrija.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-1843, 00.07.13, Žin., 2000,
+
+Nr.64-1920 (00.07.31)
+
 10
 
 straipsnis. Akcinė bendrovė, uždaroji akcinė bendrovė ir investicinė bendrovė
 
 Akcinė bendrovė, uždaroji
 
-akcinė bendrovė ir investicinė bendrovė yra ribotos turtinės atsakomybės
+akcinė bendrovė ir investicinė bendrovė yra ribotos turtinės atsakomybės įmonės,
 
-įmonės, turinčios juridinio asmens teises, kurių įstatinis (nuosavas) kapitalas
+turinčios juridinio asmens teises, kurių įstatinis (nuosavas) kapitalas yra
 
-yra padalytas į dalis - akcijas. Akcininkai yra akcinės bendrovės, uždarosios
+padalytas į dalis - akcijas. Akcininkai yra akcinės bendrovės, uždarosios
 
 akcinės bendrovės ar investicinės bendrovės nariai, kuriais tampama įstatymų
 
@@ -4494,11 +4692,15 @@ pakeitimai:
 
 Nr.
 
-I-529, 94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
+I-529,
+
+94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
 
 Nr.
 
-I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+I-1015,
+
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
 18 straipsnis.Įmonės
 
@@ -4542,11 +4744,11 @@ Sprendimas
 
 įregistruoti arba atsisakyti įregistruoti įmonę turi būti priimtas ne vėliau
 
-kaip per 15 dienų nuo visų dokumentų, nurodytų šio straipsnio trečiojoje
+kaip per 15 dienų nuo visų dokumentų, nurodytų šio straipsnio trečiojoje dalyje,
 
-dalyje, įteikimo. Apie įmonės įregistravimą ar išregistravimą skelbiama
+įteikimo. Apie įmonės įregistravimą ar išregistravimą skelbiama Lietuvos
 
-Lietuvos Respublikos įmonių rejestro įstatymo nustatyta tvarka.
+Respublikos įmonių rejestro įstatymo nustatyta tvarka.
 
 Straipsnio
 
@@ -4554,19 +4756,25 @@ pakeitimai:
 
 Nr.
 
-I-749, 95.01.12, Žin., 1995, Nr. 10-206 (95.02.01)
+I-749,
+
+95.01.12, Žin., 1995, Nr. 10-206 (95.02.01)
 
 Nr.
 
-I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+I-1015,
+
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
 Nr.
 
-I-1252, 96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
+I-1252,
 
-Nr.
+96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422,
+
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 22
 
@@ -4588,9 +4796,9 @@ Atsisakymas
 
 įregistruoti įmonę gali būti užginčytas teismine tvarka. Įmonės steigėjas per
 
-teismą gali išieškoti nuostolius, atsiradusius dėl neteisėto atsisakymo
+teismą gali išieškoti nuostolius, atsiradusius dėl neteisėto atsisakymo įregistruoti
 
-įregistruoti įmonę.
+įmonę.
 
 Tais
 
@@ -4610,11 +4818,13 @@ pakeitimai:
 
 Nr.
 
-I-678, 90.10.16, Žin., 1990, Nr. 31-749
+I-678,
 
-Nr.
+90.10.16, Žin., 1990, Nr. 31-749
 
-VIII-422, 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422,
+
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 23
 
@@ -4634,11 +4844,11 @@ arba kreditorių susirinkimo sprendimas pripažinti įmonę bankrutavusia;
 
 3) valstybės organų priimtas sprendimas
 
-atšaukti įmonės registravimą už teisės pažeidimus, nustatytus Lietuvos Respublikos
+atšaukti įmonės registravimą už teisės pažeidimus, nustatytus Lietuvos
 
-įstatymų, o laisvųjų ekonominių zonų įmonėms - ir Lietuvos Respublikos laisvųjų
+Respublikos įstatymų, o laisvųjų ekonominių zonų įmonėms - ir Lietuvos
 
-ekonominių zonų pagrindų įstatyme nustatytais atvejais.
+Respublikos laisvųjų ekonominių zonų pagrindų įstatyme nustatytais atvejais.
 
 Organas,
 
@@ -4656,9 +4866,9 @@ administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas s
 
 tarp jų baudas ir delspinigius, pervesdama jas į atitinkamus biudžetus iki
 
-likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka ir gali sudaryti tik
+likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka ir gali sudaryti
 
-tokius sandorius, kurie neprieštarauja likviduojamos įmonės veiklą
+tik tokius sandorius, kurie neprieštarauja likviduojamos įmonės veiklą
 
 reglamentuojantiems įstatymams. Likviduojama įmonė turi būti perregistruojama.
 
@@ -4704,13 +4914,19 @@ pakeitimai:
 
 Nr.
 
-I-253, 93.09.28, Žin., 1993, Nr. 52-994 (93.10.13)
+I-253,
+
+93.09.28, Žin., 1993, Nr. 52-994 (93.10.13)
 
 Nr.
 
-I-1252, 96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
+I-1252,
+
+96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
 
 Nr.
 
-VIII-376, 97.07.02, Žin., 1997, Nr.69-1737 (97.07.23)
+VIII-376,
+
+97.07.02, Žin., 1997, Nr.69-1737 (97.07.23)
 
