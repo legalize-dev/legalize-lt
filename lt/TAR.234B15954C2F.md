@@ -4,7 +4,7 @@ identifier: "TAR.234B15954C2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-11"
-last_updated: "2004-04-29"
+last_updated: "2004-07-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
 
-Suvestinė redakcija nuo 2004-04-29 iki 2004-07-23
+Suvestinė redakcija nuo 2004-07-24 iki 2007-04-18
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
 
@@ -71,7 +71,11 @@ Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010IST
 
 11. Informacijos konfidencialumas – informacijos apie tiriamojo sveikatos būklę, diagnozę, prognozę, gydymą ir kitus su tiriamojo sveikata susijusius asmeninio pobūdžio faktus išsaugojimas.
 
-12. Moralinė žala – žala, atsiradusi dėl medicinos etikos reikalavimų neatitinkančios pagrindinio tyrėjo ir kitų biomedicininį tyrimą atliekančių asmenų veikos. Šiuos medicinos etikos reikalavimus nustato Lietuvos bioetikos komitetas.
+12. Neteko galios nuo 2004-07-24
+
+Straipsnio dalies naikinimas:
+
+Nr. IX-2362, 2004-07-13, Žin. 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
 
 13. Klinikinis vaistinio preparato tyrimas – visi su žmonėmis susiję biomedicininiai tyrimai, skiriami nustatyti, patikrinti ir patvirtinti vieno arba kelių tiriamųjų vaistinių preparatų klinikinį, farmakologinį ir (arba) kitokį farmakodinaminį poveikį, ir (arba) nustatyti nepageidaujamas reakcijas į vieną ar kelis tiriamuosius vaistinius preparatus, ir (arba) ištirti vieno ar kelių tiriamųjų preparatų absorbciją, pasiskirstymą, metabolizmą ir išsiskyrimą, siekiant nustatyti tiriamojo vaistinio preparato saugą ir (arba) veiksmingumą.
 
@@ -185,13 +189,23 @@ Tiriamieji turi teisę gauti išlaidų, kurias jie patyrė dėl biomedicininio t
 
 11 straipsnis. Biomedicininių tyrimų užsakovo ir pagrindinio tyrėjo civilinė atsakomybė ir jos draudimas
 
-1. Biomedicininių tyrimų užsakovas ir pagrindinis tyrėjas atsako už žalą, atsiradusią dėl tiriamojo sveikatos sužalojimo ar tiriamojo mirties, taip pat už neturtinę (moralinę) žalą, atsiradusią dėl biomedicininių tyrimų, jei jie neįrodo, kad žala atsirado dėl priežasčių, nesusijusių su biomedicininiais tyrimais, arba dėl tiriamojo tyčinės veikos. Tiriamajam mirus dėl biomedicininių tyrimų ar šių tyrimų sukeltų pasekmių, biomedicininių tyrimų užsakovas ir pagrindinis tyrėjas privalo atlyginti žalą asmenims, numatytiems Sveikatos sistemos įstatymo 88 straipsnyje.
+1. Biomedicininių tyrimų užsakovas ir tyrėjas atsako už žalą, atsiradusią dėl tiriamojo sveikatos sužalojimo ar tiriamojo mirties, taip pat už neturtinę žalą, atsiradusią dėl biomedicininių tyrimų, jei jie neįrodo, kad žala atsirado dėl priežasčių, nesusijusių su biomedicininiais tyrimais, arba dėl tiriamojo tyčinės veikos. Biomedicininių tyrimų užsakovo ir tyrėjo padaryta žala sveikatai, dėl gyvybės atėmimo bei dėl to atsiradusi neturtinė žala atlyginama Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatytais atvejais ir Civilinio kodekso nustatyta tvarka.
 
-2. Moralinės žalos, išreikštos pinigais, dydis, atsižvelgiant į teisės pažeidimo sunkumo mastą, teisės pažeidimo pasekmes ir kitas aplinkybes, negali viršyti dešimties tūkstančių litų.
+Straipsnio dalies pakeitimai:
 
-3. Biomedicininių tyrimų užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl tiriamajam biomedicininio tyrimo metu galinčios atsirasti žalos sudarydami Pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo sutartis su draudimo įmonėmis, turinčiomis Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos išduotą leidimą verstis šios rūšies draudimu. Šis reikalavimas taikomas tik tais atvejais, kai biomedicininiai tyrimai atliekami su gyvais žmonėmis.
+Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
 
-4. Pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo taisykles, kurios nustato žalos tiriamojo sveikatai dydžio apskaičiavimo ir atlyginimo tvarką, tvirtina Vyriausybė ar jos įgaliota institucija.
+2. Biomedicininių tyrimų užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl tiriamajam biomedicininio tyrimo metu galinčios atsirasti žalos sudarydami Pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo sutartis su draudimo įmonėmis, turinčiomis Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos išduotą leidimą verstis šios rūšies draudimu. Šis reikalavimas taikomas tik tais atvejais, kai biomedicininiai tyrimai atliekami su gyvais žmonėmis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
+
+3. Pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo taisykles, kurios nustato žalos tiriamojo sveikatai dydžio apskaičiavimo ir atlyginimo tvarką, tvirtina Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
 
 TREČIASIS SKIRSNIS
 
@@ -332,4 +346,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
 
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 2, 12 straipsnių pakeitimo bei papildymo ir įstatymo papildymo priedu įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
+
+Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 2 ir 11 straipsnių pakeitimo įstatymas
 
