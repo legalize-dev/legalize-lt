@@ -4,7 +4,7 @@ identifier: "TAR.1DEDD43B92AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-03"
-last_updated: "2004-07-01"
+last_updated: "2004-09-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE"
 department: "Lietuvos Respublikos Seimas"
@@ -49,7 +49,15 @@ PIRMASIS SKIRSNISBENDROSIOS NUOSTATOS
 
 Vienkartinė išmoka gimus vaikui
 
+1 dalies redakcija iki 2005 m. sausio 1 d.:
+
 1. Kiekvienam gimusiam vaikui skiriama 6 MGL dydžio
+
+vienkartinė išmoka.
+
+1 dalies redakcija nuo 2005 m. sausio 1 d.:
+
+1. Kiekvienam gimusiam vaikui skiriama 8 MGL dydžio
 
 vienkartinė išmoka.
 
@@ -64,6 +72,12 @@ globėjui.
 išlaikomas valstybės ar savivaldybės finansuojamoje įstaigoje arba kreipimosi
 
 metu vaikas yra miręs.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2470,
+
+2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
 
 3 straipsnis. Išmokų rūšys Lietuvos Respublikoje nustatomos šios išmokų rūšys:1. Išmokos šeimose auginamiems vaikams: 1) vienkartinė išmoka gimus vaikui; 2) išmoka vaikui; 3) išmoka privalomosios tarnybos kario vaikui. 2. Išmokos globojamiems vaikams ir asmenims, kuriems nustatyta globa (rūpyba):1) globos (rūpybos) išmoka;
 
@@ -133,11 +147,11 @@ mėnesį išmoka. Ši išmoka neskiriama ir nemokama daugiau kaip du kartus
 
 mokyklą.
 
-3. Baigusiam
+3.
 
-bendrojo lavinimo mokyklą vyresniam kaip 18 metų asmeniui globos (rūpybos)
+Baigusiam dieninę bendrojo lavinimo mokyklą vyresniam kaip 18 metų asmeniui
 
-išmoka mokama iki tų pačių metų rugsėjo 1 dienos.
+globos (rūpybos) išmoka mokama iki tų pačių metų rugsėjo 1 dienos.
 
 4. Kai išmokos gavėjas, gaunantis globos (rūpybos)
 
@@ -172,6 +186,12 @@ dienų, kurias vaikas buvo pas globėją (rūpintoją), skaičiui.
 neskiriama, jei asmuo nuolat ar darbo dienomis išlaikomas (nakvynė ir maistas)
 
 valstybės ar savivaldybės finansuojamoje mokykloje.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2470,
+
+2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
 
 1 straipsnis.
 
@@ -251,19 +271,25 @@ psichologinę, fizinę ar seksualinę prievartą, arba (ir) gaunamą valstybės
 
 paramą panaudoja ne šeimos interesams.
 
-6. Šeima – sutuoktiniai arba bendrai gyvenantys asmenys, taip
+6. Šeima – sutuoktiniai arba bendrai gyvenantys
 
-pat susituokęs asmuo, su kuriuo teismo sprendimu dėl sutuoktinių gyvenimo
+asmenys, taip pat susituokęs asmuo, su kuriuo teismo sprendimu dėl sutuoktinių
 
-skyrium yra likę gyventi jų vaikai, arba vienas iš tėvų, jų vaikai ir įvaikiai
+gyvenimo skyrium yra likę gyventi jų vaikai, arba vienas iš tėvų, jų vaikai ir
 
-iki 18 metų. Į šeimos sudėtį taip pat įskaitomi nedirbantys mokymo įstaigų
+įvaikiai iki 18 metų. Į šeimos sudėtį taip pat įskaitomi nesusituokę ir su kitu
 
-dieninių skyrių nesusituokę ir su kitu asmeniu bendrai negyvenantys moksleiviai
+asmeniu bendrai negyvenantys asmenys nuo 18 iki 24 metų: besimokantys dieninėse
 
-bei studentai nuo 18 iki 24 metų. Į globėjų (rūpintojų) šeimų sudėtį vaikai,
+bendrojo lavinimo mokyklose ir kitų formaliojo švietimo įstaigų dieniniuose
 
-kuriems įstatymo tvarka yra nustatyta globa ar rūpyba, neįskaitomi.
+skyriuose, taip pat asmenys nuo dieninių bendrojo lavinimo mokyklų baigimo
+
+dienos iki tų pačių metų rugsėjo 1 dienos.
+
+Į globėjų (rūpintojų) šeimų sudėtį vaikai, kuriems įstatymo tvarka yra
+
+nustatyta globa ar rūpyba, neįskaitomi.
 
 7. Vaiko globėjas (rūpintojas) – fizinis asmuo, šeimyna ar nevyriausybinė vaikų globos
 
@@ -272,6 +298,12 @@ institucija (įstaiga), kuriai įstatymų nustatyta tvarka pavesta be tėvų glo
 likusio vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir jiems
 
 atstovavimas.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2470,
+
+2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
 
 3. Vienkartinė išmoka nėščiai moteriai. 4 straipsnis. Išmokų finansavimasŠio įstatymo nustatytos išmokos mokamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams.  ANTRASIS SKIRSNIS
 
@@ -329,13 +361,27 @@ kalendorinių dienų iki gimdymo (suėjus 28 nėštumo savaitėms), skiriama 2 M
 
 dydžio vienkartinė išmoka.
 
-PENKTASIS SKIRSNIS IŠMOKŲ skyrimas ir mokėjimas 11 straipsnis. Išmokas skiriančios ir mokančios įstaigosŠio įstatymo nustatytas išmokas skiria ir moka savivaldybių administracijos vadovaudamosi šiuo įstatymu ir Vyriausybės patvirtintais Išmokų vaikams skyrimo ir mokėjimo nuostatais. 12 straipsnis. Išmokų skyrimo ir mokėjimo tvarka 1. Išmokas, išskyrus globos (rūpybos) išmoką asmenims, kurie mokosi profesinėse, aukštesniosiose ir aukštosiose mokyklose, skiria ir moka savivaldybės, kurios teritorijoje asmuo, turintis teisę gauti šio įstatymo nustatytas išmokas, deklaruoja gyvenamąją vietą, administracija, o jei gyvenamosios vietos neturi, – savivaldybės, kurioje asmuo gyvena, administracija. 2. Globos (rūpybos) išmoką asmenims, kurie mokosi profesinėse, aukštesniosiose ir aukštosiose mokyklose, skiria ir moka savivaldybės, kurioje yra mokykla, administracija. 3. Šeimynai ir nevyriausybinei vaikų globos institucijai išmokas moka tos savivaldybės, kurios teritorijoje šeimyna ar nevyriausybinė vaikų globos institucija yra įregistruota, administracija. 4. Kreipiantis dėl išmokos, privaloma pateikti visus Išmokų vaikams skyrimo ir mokėjimo nuostatuose nurodytus dokumentus, būtinus išmokai skirti.5. Savivaldybės administracija per mėnesį nuo visų dokumentų gavimo dienos privalo priimti sprendimą dėl išmokos skyrimo ir apie tai raštu pranešti pareiškėjui. Tais atvejais, kai priimamas sprendimas neskirti išmokos, nurodomos neskyrimo priežastys.6. Kilus ginčui tarp tėvų dėl to, kas gaus išmoką, savivaldybės administracija priimdama sprendimą turi atsižvelgti į vaiko (vaikų) interesus.7. Vienkartinės išmokos gimus vaikui, vienkartinės išmokos būstui įsigyti arba įsikurti ir vienkartinės išmokos nėščiai moteriai dydis apskaičiuojamas pagal teisės į išmoką atsiradimo dieną galiojusio MGL dydį. Išmokos vaikui, išmokos privalomosios tarnybos kario vaikui ir globos (rūpybos) išmokos dydis apskaičiuojamas pagal išmokos skyrimo dieną galiojantį MGL dydį.8. Jei šio įstatymo nustatyta periodinė išmoka skiriama už ne visą mėnesį, jos dydis apskaičiuojamas proporcingai to mėnesio kalendorinių dienų, už kurias išmoka skiriama, skaičiui. 13 straipsnis. Kreipimosi dėl išmokų ir jų mokėjimo terminai1. Vienkartinė išmoka gimus vaikui skiriama, jei dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo vaiko gimimo dienos. Vaiką įvaikinusiam asmeniui arba vaiko globėjui ji mokama, jei jie kreipiasi per 6 mėnesius nuo įvaikinimo ar globos nustatymo dienos, bet ne vėliau kaip iki vaikui sukaks pusantrų metų, ir jeigu vienkartinė išmoka už šį vaiką anksčiau nebuvo išmokėta. 2. Išmoka vaikui, išmoka privalomosios tarnybos kario vaikui ir globos (rūpybos) išmoka skiriama ir mokama nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo visų dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai dienos. 3. Vienkartinė išmoka būstui įsigyti arba įsikurti skiriama, jei prašymą šiai išmokai skirti savivaldybės administracijai asmuo pateikė, iki jam sukako 25 metai.4. Vienkartinė išmoka nėščiai moteriai skiriama, jei dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo sveikatos priežiūros įstaigos pažymos išdavimo dienos. 5. Jei išmokos gavėjas, gaunantis išmoką pagal deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – pagal savivaldybę, kurioje gyvena), persikelia gyventi į kitą savivaldybę, išmokos mokėjimas ankstesnėje savivaldybėje nutraukiamas, išmokėjus ją už tą mėnesį, kurį asmuo pakeitė deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – savivaldybę, kurioje gyvena). Naujai deklaruojamos gyvenamosios vietos savivaldybėje (jei gyvenamosios vietos neturi, – savivaldybėje, kurioje apsigyvena) ši išmoka skiriama ir mokama nustatyta tvarka, bet ne anksčiau kaip nuo kito mėnesio po to, kai asmens deklaruojama gyvenamoji vieta (jei gyvenamosios vietos neturi, – savivaldybė, kurioje gyvena) buvo pakeista.6. Asmeniui, kuriam išmoka paskirta ar mokama, mirus, iki mirties dienos neišmokėta išmokos suma išmokama Išmokų vaikams skyrimo ir mokėjimo nuostatų nustatyta tvarka.
+PENKTASIS SKIRSNIS IŠMOKŲ skyrimas ir mokėjimas 11 straipsnis. Išmokas skiriančios ir mokančios įstaigosŠio įstatymo nustatytas išmokas skiria ir moka savivaldybių administracijos vadovaudamosi šiuo įstatymu ir Vyriausybės patvirtintais Išmokų vaikams skyrimo ir mokėjimo nuostatais. 12 straipsnis. Išmokų skyrimo ir mokėjimo tvarka 1. Išmokas, išskyrus globos (rūpybos) išmoką asmenims, kurie mokosi profesinėse, aukštesniosiose ir aukštosiose mokyklose, skiria ir moka savivaldybės, kurios teritorijoje asmuo, turintis teisę gauti šio įstatymo nustatytas išmokas, deklaruoja gyvenamąją vietą, administracija, o jei gyvenamosios vietos neturi, – savivaldybės, kurioje asmuo gyvena, administracija. 2. Globos (rūpybos) išmoką asmenims, kurie mokosi profesinėse, aukštesniosiose ir aukštosiose mokyklose, skiria ir moka savivaldybės, kurioje yra mokykla, administracija. 3. Šeimynai ir nevyriausybinei vaikų globos institucijai išmokas moka tos savivaldybės, kurios teritorijoje šeimyna ar nevyriausybinė vaikų globos institucija yra įregistruota, administracija. 4. Kreipiantis dėl išmokos, privaloma pateikti visus Išmokų vaikams skyrimo ir mokėjimo nuostatuose nurodytus dokumentus, būtinus išmokai skirti.5. Savivaldybės administracija per mėnesį nuo visų dokumentų gavimo dienos privalo priimti sprendimą dėl išmokos skyrimo ir apie tai raštu pranešti pareiškėjui. Tais atvejais, kai priimamas sprendimas neskirti išmokos, nurodomos neskyrimo priežastys.6. Kilus ginčui tarp tėvų dėl to, kas gaus išmoką, savivaldybės administracija priimdama sprendimą turi atsižvelgti į vaiko (vaikų) interesus.
 
-14
+7. Vienkartinės išmokos gimus vaikui, vienkartinės
 
-straipsnis. Išmokų neprimokėjimas, permokėjimas ir išskaitymas iš jų
+išmokos būstui įsigyti arba įsikurti ir vienkartinės išmokos nėščiai moteriai
 
-1. Savivaldybės administracija privalo informuoti išmokos gavėją apie jo pareigas ir aplinkybes, turinčias įtakos išmokos dydžiui ar mokėjimui. 2. Dėl savivaldybės administracijos kaltės neprimokėta išmokos suma išmokama už visą praėjusį laiką savivaldybės administracijos sprendimu. 3. Dėl išmokos gavėjo kaltės permokėta išmokos suma iš gavėjo išieškoma savivaldybės administracijos sprendimu. Iš gavėjui priklausančios išmokos išskaitoma ne daugiau kaip po 20 procentų mokėtinos išmokos sumos per mėnesį tol, kol bus visiškai padengta išieškoma suma. Jei išmokos mokėjimas gavėjui nutraukiamas, o visa permokėta išmokos suma neišieškota, likęs įsiskolinimas išieškomas teismo tvarka.
+dydis apskaičiuojamas pagal tą mėnesį, kurį atsirado teisė į išmoką, galiojusio
+
+MGL dydį. Išmokos vaikui, išmokos privalomosios tarnybos kario vaikui ir globos
+
+(rūpybos) išmokos dydis apskaičiuojamas pagal tą mėnesį, už kurį išmoka mokama,
+
+galiojantį MGL dydį.
+
+8. Jei šio įstatymo nustatyta periodinė išmoka skiriama už ne visą mėnesį, jos dydis apskaičiuojamas proporcingai to mėnesio kalendorinių dienų, už kurias išmoka skiriama, skaičiui.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2470,
+
+2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
 
 6 straipsnis. Išmoka vaikui
 
@@ -371,11 +417,11 @@ iki jam sukanka 24 metai, skiriama 0,4 MGL dydžio išmoka per
 
 mėnesį.
 
-5. Baigusiam
+5. Baigusiam dieninę bendrojo
 
-bendrojo lavinimo mokyklą vyresniam kaip 18 metų asmeniui išmoka vaikui mokama
+lavinimo mokyklą vyresniam kaip 18 metų asmeniui išmoka vaikui mokama iki tų
 
-iki tų pačių metų rugsėjo 1 dienos.
+pačių metų rugsėjo 1 dienos.
 
 6. Išmoka
 
@@ -404,6 +450,12 @@ globojamas;
 emancipuotas (išskyrus tuo atveju, kai teismas nusprendžia emancipaciją
 
 panaikinti).
+
+Straipsnio pakeitimai:
+
+Nr. IX-2470,
+
+2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
 
 15 straipsnis. Informacijos teikimas1. Lietuvos Respublikos valstybės ir savivaldybių institucijos, įstaigos bei kiti juridiniai asmenys savivaldybių administracijų prašymu privalo nemokamai teikti išmokoms skirti ir mokėti reikalingą informaciją. 2. Savivaldybių administracijos socialinės apsaugos ir darbo ministro nustatyta tvarka turi teikti duomenis apie jų teritorijose gyvenančioms šeimoms (asmenims) išmokėtas išmokas. 16 straipsnis. Savivaldybių administracijų sprendimų apskundimas Savivaldybės administracijos sprendimas dėl asmens teisės gauti šio įstatymo nustatytą išmoką gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
@@ -519,9 +571,9 @@ savivaldybės administracijos darbuotojams sudaryti galimybę tikrinti jų
 
 gyvenimo sąlygas;
 
-4)
+4) išmokas
 
-išmokas panaudoti pagal jų tikslinę paskirtį.
+panaudoti pagal jų tikslinę paskirtį.
 
 AŠTUNTASIS SKIRSNIS
 
@@ -644,4 +696,12 @@ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 5, 7, 8, 9 STRAIPSNIŲ PAKEI
 ĮSTATYMAS
 
 Šio įstatymo 1, 2, 4 straipsniai
+
+13 straipsnis. Kreipimosi dėl išmokų ir jų mokėjimo terminai1. Vienkartinė išmoka gimus vaikui skiriama, jei dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo vaiko gimimo dienos. Vaiką įvaikinusiam asmeniui arba vaiko globėjui ji mokama, jei jie kreipiasi per 6 mėnesius nuo įvaikinimo ar globos nustatymo dienos, bet ne vėliau kaip iki vaikui sukaks pusantrų metų, ir jeigu vienkartinė išmoka už šį vaiką anksčiau nebuvo išmokėta. 2. Išmoka vaikui, išmoka privalomosios tarnybos kario vaikui ir globos (rūpybos) išmoka skiriama ir mokama nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo visų dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai dienos. 3. Vienkartinė išmoka būstui įsigyti arba įsikurti skiriama, jei prašymą šiai išmokai skirti savivaldybės administracijai asmuo pateikė, iki jam sukako 25 metai.4. Vienkartinė išmoka nėščiai moteriai skiriama, jei dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo sveikatos priežiūros įstaigos pažymos išdavimo dienos. 5. Jei išmokos gavėjas, gaunantis išmoką pagal deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – pagal savivaldybę, kurioje gyvena), persikelia gyventi į kitą savivaldybę, išmokos mokėjimas ankstesnėje savivaldybėje nutraukiamas, išmokėjus ją už tą mėnesį, kurį asmuo pakeitė deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – savivaldybę, kurioje gyvena). Naujai deklaruojamos gyvenamosios vietos savivaldybėje (jei gyvenamosios vietos neturi, – savivaldybėje, kurioje apsigyvena) ši išmoka skiriama ir mokama nustatyta tvarka, bet ne anksčiau kaip nuo kito mėnesio po to, kai asmens deklaruojama gyvenamoji vieta (jei gyvenamosios vietos neturi, – savivaldybė, kurioje gyvena) buvo pakeista.6. Asmeniui, kuriam išmoka paskirta ar mokama, mirus, iki mirties dienos neišmokėta išmokos suma išmokama Išmokų vaikams skyrimo ir mokėjimo nuostatų nustatyta tvarka.
+
+14
+
+straipsnis. Išmokų neprimokėjimas, permokėjimas ir išskaitymas iš jų
+
+1. Savivaldybės administracija privalo informuoti išmokos gavėją apie jo pareigas ir aplinkybes, turinčias įtakos išmokos dydžiui ar mokėjimui. 2. Dėl savivaldybės administracijos kaltės neprimokėta išmokos suma išmokama už visą praėjusį laiką savivaldybės administracijos sprendimu. 3. Dėl išmokos gavėjo kaltės permokėta išmokos suma iš gavėjo išieškoma savivaldybės administracijos sprendimu. Iš gavėjui priklausančios išmokos išskaitoma ne daugiau kaip po 20 procentų mokėtinos išmokos sumos per mėnesį tol, kol bus visiškai padengta išieškoma suma. Jei išmokos mokėjimas gavėjui nutraukiamas, o visa permokėta išmokos suma neišieškota, likęs įsiskolinimas išieškomas teismo tvarka.
 
