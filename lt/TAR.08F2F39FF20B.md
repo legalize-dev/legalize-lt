@@ -4,7 +4,7 @@ identifier: "TAR.08F2F39FF20B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "2024-07-01"
+last_updated: "2027-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.08F2F39FF20B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos laukinės gyvūnijos įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2026-12-31
+Suvestinė redakcija nuo 2027-01-01
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2726, i. k. 0971010ISTAVIII-498
 
@@ -234,7 +234,11 @@ TAR pastaba. 6 straipsnio 6 dalis įsigalioja 2021 m. lapkričio 1 d.
 
 4) laikant ir veisiant Laukinių gyvūnų naudojimo taisyklėse nurodytų laukinių gyvūnų rūšių, nepriskiriamų saugomoms rūšims, gyvūnus. Šis sąrašas sudaromas atsižvelgiant į šio įstatymo 6 straipsnio 2 dalyje nustatytus kriterijus;
 
-5) laikant ir veisiant kailinius žvėrelius specializuotuose ūkiuose (fermose) ūkiniais tikslais;
+5) Neteko galios nuo 2027-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2172, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18814
 
 6) laikant, veisiant ir naudojant laukinių gyvūnų rūšių bandomuosius gyvūnus;
 
@@ -884,7 +888,11 @@ Leidimo introdukuoti ar reintrodukuoti turėtojo pareigos:
 
 3) laikant jas švietimo įstaigose švietimo tikslais ir turint leidimą laikyti nelaisvėje laukinius gyvūnus, nurodytą šio įstatymo 8 straipsnyje. Šie gyvūnai turi būti laikomi uždaroje valdoje ir imtasi visų priemonių, kad jie nesidaugintų ir neištrūktų į laisvę;
 
-4) kai jos laikomos ir veisiamos specializuotuose kailinių žvėrelių auginimo ūkiuose ir jais prekiaujama siekiant sudaryti veislinę bandą specializuotuose kailinių žvėrelių auginimo ūkiuose;
+4) Neteko galios nuo 2027-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2172, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18814
 
 5) kai gyvūnai, kurių rūšys nurodytos Invazinių Lietuvoje rūšių sąraše, įgyti iki 2014 m. liepos 1 d. arba įgyti iki šių rūšių įrašymo į Invazinių Lietuvoje rūšių sąrašą. Šiuos gyvūnus dauginti draudžiama ir turi būti užkirstas kelias jiems ištrūkti į laisvę.
 
