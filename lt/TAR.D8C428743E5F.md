@@ -4,7 +4,7 @@ identifier: "TAR.D8C428743E5F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-05-22"
-last_updated: "2000-06-01"
+last_updated: "2000-12-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D8C428743E5F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,15 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2000-06-01 iki 2000-12-28
+Įstatymas netenka galios 2002-06-28:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-965, 2002-06-20, Žin., 2002, Nr. 65-2633 (2002-06-28), i. k. 1021010ISTA00IX-965
+
+Lietuvos Respublikos operatyvinės veiklos įstatymas
+
+Suvestinė redakcija nuo 2000-12-29 iki 2002-06-27
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 50-1190, i. k. 0971010ISTAVIII-222
 
@@ -90,11 +98,13 @@ Nr. VIII-1655, 2000-05-02, Žin., 2000, Nr. 41-1168 (2000-05-19), i. k. 1001010I
 
 4. Operatyvinės paieškos pagrindas yra pirminė informacija apie rengiamą ar padarytą nusikaltimą, nusikaltimą rengusį ar padariusį asmenį, taip pat asmens dingimą be žinios.
 
-5. Negalima taikyti specialios technikos, gyvenamosios patalpos slaptos apžiūros, susirašinėjimo, telegrafo ir kitų pranešimų slaptos kontrolės prieš Lietuvos Respublikos Prezidentą.
+5. Negalima vykdyti operatyvinės veiklos prieš Respublikos Prezidentą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-1572, 2000-03-16, Žin., 2000, Nr. 28-762 (2000-04-05), i. k. 1001010ISTAIII-1572
+
+Nr. IX-102, 2000-12-20, Žin., 2000, Nr. 111-3572 (2000-12-29), i. k. 1001010ISTA00IX-102
 
 5 straipsnis. Operatyvinės veiklos subjektai ir slaptieji dalyviai
 
@@ -216,6 +226,10 @@ Operatyvinių veiksmų teisėtumą kontroliuoja Lietuvos Respublikos generalinis
 
 2. Operatyvinės veiklos subjekto parengtas nusikalstamos veikos imitacijos elgesio modelis sankcionuojamas vienerių metų laikotarpiui. Šiam laikotarpiui praėjus, jis gali būti pratęstas.
 
+Straipsnio pakeitimai:
+
+2000-05-08, Žin., 2000, Nr. 39-1105 (2000-05-12), i. k. 1001000NUTARG001120
+
 12 straipsnis. Laikino nuosavybės teisių apribojimo, asmens ir (arba) jo šeimos narių įpareigojimo deklaruoti turtą bei pajamas, notarų bei bankų įpareigojimo pranešti apie asmens sudarytą civilinį sandorį arba atliktą bankinę operaciją, elgesio modelio sankcionavimo tvarka
 
 1. Laikiną nuosavybės teisių apribojimą, asmens ir (arba) šeimos narių įpareigojimą deklaruoti turtą bei pajamas, notarų bei bankų įpareigojimą pranešti apie asmens sudarytą civilinį sandorį arba atliktą bankinę operaciją sankcionuoja generalinis prokuroras arba jo įgaliotas generalinio prokuroro pavaduotojas pagal operatyvinės veiklos subjekto motyvuotą teikimą, kuriame nurodoma:
@@ -315,4 +329,12 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2000-05-08, Žin., 2000, Nr. 39-1105 (2000-05-12), i. k. 1001000NUTARG001120
 
 Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo 2 straipsnio 12 dalies, 7 straipsnio 2 dalies 3 punkto, 11 straipsnio 1 dalies ir Lietuvos Respublikos baudžiamojo proceso kodekso 198-1 straipsnio 1 bei 2 dalių atitikimo Lietuvos Respublikos Konstitucijai
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-102, 2000-12-20, Žin., 2000, Nr. 111-3572 (2000-12-29), i. k. 1001010ISTA00IX-102
+
+Lietuvos Respublikos operatyvinės veiklos įstatymo 4 straipsnio pakeitimo įstatymas
 
