@@ -4,7 +4,7 @@ identifier: "TAR.D267FBDC094B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-06-25"
-last_updated: "1995-07-19"
+last_updated: "1996-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 1995-07-19 iki 1996-06-30
+Suvestinė redakcija nuo 1996-07-01 iki 2005-10-10
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
 
@@ -119,15 +119,19 @@ Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA0
 
 12 straipsnis.
 
-Nustatytu laiku neapmokestinti mokėtojai apmokestinami ne daugiau kaip už dvejus praėjusius metus. Neteisingą apmokestinimą patikslinti ir mokestį grąžinti arba išieškoti leidžiama taip pat ne daugiau kaip už dvejus praėjusius metus.
+Laiku neapmokestinti mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. I-1312, 1996-04-30, Žin., 1996, Nr. 46-1107 (1996-05-17), i. k. 0961010ISTA00I-1312
 
 13 straipsnis.
 
-Mokesčio laiku nesumokėjus, už kiekvieną pavėluotą dieną imama 0,1 procento delspinigių.
+Mokesčio laiku nesumokėjus, imami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. I-843, 1995-04-06, Žin., 1995, Nr. 31-703 (1995-04-12), i. k. 0951010ISTA000I-843
+Nr. I-1312, 1996-04-30, Žin., 1996, Nr. 46-1107 (1996-05-17), i. k. 0961010ISTA00I-1312
 
 LIETUVOS RESPUBLIKOS
 
@@ -162,4 +166,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-992, 1995-07-03, Žin., 1995, Nr. 59-1468 (1995-07-19), i. k. 0951010ISTA000I-992
 
 Dėl Lietuvos Respublikos žemės mokesčio įstatymo papildymo
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1312, 1996-04-30, Žin., 1996, Nr. 46-1107 (1996-05-17), i. k. 0961010ISTA00I-1312
+
+Lietuvos Respublikos žemės mokesčio įstatymo 12 ir 13 straipsnių pakeitimo įstatymas
 
