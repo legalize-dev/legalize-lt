@@ -4,7 +4,7 @@ identifier: "TAR.0120FD7BCFFC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "1999-12-24"
+last_updated: "2001-05-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 1999-12-24 iki 2001-05-15
+Suvestinė redakcija nuo 2001-05-16 iki 2001-06-29
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
 
@@ -43,6 +43,12 @@ Lietuvos Respublikos teritorijos administraciniai vienetai yra apskritys ir savi
 
 Lietuvos Respublikos gyvenamosios vietovės skirstomos į miesto ir kaimo gyvenamąsias vietoves. Miesto gyvenamosioms vietovėms priskiriami miestai, kaimo gyvenamosioms vietovėms priskiriami miesteliai ir kaimai.
 
+Gyvenamosioms vietovėms gali būti suteiktas kurorto statusas.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
+
 2 straipsnis. Lietuvos Respublikos teritorijos administracinių vienetų samprata
 
 Savivaldybė yra Lietuvos Respublikos teritorijos administracinis vienetas, kurį valdo jos gyventojų bendruomenės išrinktos savivaldos institucijos pagal Lietuvos Respublikos vietos savivaldos įstatymą ir kitus įstatymus. Savivaldybė sudaroma iš gyvenamųjų vietovių. Pagrindiniai savivaldybės steigimo kriterijai yra jos pasirengimas tvarkyti ir prižiūrėti savo aplinką, komunalinį ūkį, teikti gyventojams paslaugas ir vykdyti kitas funkcijas, numatytas Lietuvos Respublikos vietos savivaldos įstatyme.
@@ -60,6 +66,18 @@ Mažiau kaip 3 tūkst. gyventojų turintys Lietuvos Respublikos miestai, rajonų
 Miesteliai yra kompaktiškai užstatytos gyvenamosios vietovės, turinčios nuo 500 iki 3000 gyventojų, kurių daugiau kaip pusė dirbančiųjų dirba pramonėje, verslo bei gamybinės ir socialinės infrastruktūros srityse, taip pat tradiciniai miesteliai.
 
 Kaimai yra kitos gyvenamosios vietovės, neturinčios miesto ir miestelio požymių.
+
+Gyvenamosios vietovės, kuriose yra gamtinių gydomųjų veiksnių (mineralinių vandenų, gydomojo purvo, sveikatai palankus klimatas, rekreacinių želdinių, vandens telkinių) bei speciali infrastruktūra šiems veiksniams naudoti gydymui, profilaktikai ir poilsiui, gali turėti kurorto statusą
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
+
+Kurorto statusą turi Birštonas, Druskininkai, Neringa, Palanga.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
 
 II SKYRIUS
 
@@ -151,7 +169,11 @@ Apskritims pavadinimus suteikia ir juos keičia Lietuvos Respublikos Seimas Liet
 
 Savivaldybėms pavadinimus Lietuvos Respublikos Vyriausybės teikimu suteikia ir juos keičia Lietuvos Respublikos Seimas, atsižvelgdamas į savivaldybių tarybų siūlymus.
 
-9 straipsnis. Pavadinimų suteikimas gyvenamosioms vietovėms ir jose esantiems objektams bei jų keitimas
+9 straipsnis. Pavadinimų bei statuso suteikimas gyvenamosioms vietovėms ir jose esantiems objektams bei jų keitimas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
 
 Gyvenamosioms vietovėms pavadinimus savivaldybės tarybos teikimu suteikia ir keičia Lietuvos Respublikos Vyriausybė, atsižvelgdama į vietos gyventojų siūlymus.
 
@@ -174,6 +196,12 @@ Gatvių, pastatų, statinių ir kitų objektų pavadinimai įtraukiami į apskai
 Papildyta straipsnio dalimi:
 
 Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
+
+Gyvenamosioms vietovėms, išskyrus 3 straipsnio šeštojoje dalyje nurodytąsias, kurorto statusą suteikia ir panaikina Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės teikimu.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
 
 10 straipsnis. Gyvenamųjų vietovių panaikinimas, ribų keitimas
 
@@ -201,7 +229,11 @@ Lietuvos Respublikos gyvenamosios vietovės registruojamos, o jų teritorijų ar
 
 13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas
 
-Pasiūlymus steigti ar panaikinti savivaldybes, kitus Lietuvos Respublikos teritorijos administracinius vienetus ir gyvenamąsias vietoves bei nustatyti ar keisti jų ribas nagrinėja ir išvadas Lietuvos Respublikos Vyriausybei teikia jos įgaliota institucija.
+Pasiūlymus steigti ar panaikinti savivaldybes, kitus Lietuvos Respublikos teritorijos administracinius vienetus ir gyvenamąsias vietoves bei nustatyti ar keisti jų ribas, suteikti gyvenamosioms vietovėms kurorto statusą nagrinėja ir išvadas Lietuvos Respublikos Vyriausybei teikia jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
 
 Vietos gyventojų apklausos tvarką nustato Lietuvos Respublikos Vyriausybė.
 
@@ -272,4 +304,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1492, 1999-12-21, Žin., 1999, Nr. 109-3176 (1999-12-24), i. k. 0991010ISTAIII-1492
 
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
+
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 3, 9 ir 13 straipsnių papildymo įstatymas
 
