@@ -4,7 +4,7 @@ identifier: "TAR.4043B97881A2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-06"
-last_updated: "1999-12-22"
+last_updated: "2001-07-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4043B97881A2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 1999-12-22 iki 2001-07-24
+Suvestinė redakcija nuo 2001-07-25 iki 2003-04-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1290, i. k. 0951010ISTA000I-924
 
@@ -31,41 +31,41 @@ Vilnius
 
 I SKYRIUS. BENDROSIOS NUOSTATOS
 
-1 straipsnis. Įstatyme vartojamos sąvokos:
+1 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-psichikos liga – gydytojo diagnozuotas, psichiatro patvirtintas susirgimas, pagal galiojančią ligų klasifikaciją priskiriamas psichikos ligoms. Psichikos liga negali būti diagnozuojama remiantis politiniais, religiniais, rasiniais motyvais;
+1. Psichikos liga – gydytojo diagnozuotas, psichiatro patvirtintas susirgimas, pagal galiojančią ligų klasifikaciją priskiriamas psichikos ligoms. Psichikos liga negali būti diagnozuojama remiantis politiniais, religiniais, rasiniais motyvais.
 
-pacientas – psichikos ligonis ar kiekvienas kitas asmuo, kuris naudojasi psichikos sveikatos priežiūra;
+2. Pacientas – psichikos ligonis ar kiekvienas kitas asmuo, kuris naudojasi psichikos sveikatos priežiūra.
 
-psichikos ligonis (ligonis) – asmuo, sergąs psichikos liga;
+3. Psichikos ligonis (ligonis) – asmuo, sergąs psichikos liga.
 
-paciento atstovas (atstovas) – įstatyminis atstovas (tėvai, įtėviai, globėjai, rūpintojai) ar atstovas pagal pavedimą. Atstovą pagal pavedimą pasirenka pacientas. Atstovo pagal pavedimą įgaliojimai turi būti įforminami Lietuvos Respublikos civilinio proceso kodekso 49 straipsnyje nustatyta tvarka;
+4. Paciento atstovas (atstovas) – atstovas pagal įstatymą, vadovaujantis Civilinio kodekso 6.744 straipsniu, ar atstovas pagal pavedimą. Atstovą pagal pavedimą pasirenka pacientas. Atstovo pagal pavedimą įgaliojimai turi būti įforminami Civilinio kodekso nustatyta tvarka.
 
-psichiatrijos įstaiga – sveikatos priežiūros įstaiga (valstybinė ar nevalstybinė), akredituota psichikos sveikatos priežiūrai. Jeigu vykdyti psichikos sveikatos priežiūrą akredituota tik dalis medicinos pagalbos įstaigos (padalinys), tai ši sąvoka taikoma tik šiam padaliniui. Šiame įstatyme ši sąvoka taikoma ir psichoneurologijos pensionatams;
+5. Psichiatrijos įstaiga – sveikatos priežiūros įstaiga (valstybinė ar nevalstybinė), akredituota psichikos sveikatos priežiūrai. Jeigu vykdyti psichikos sveikatos priežiūrą akredituota tik dalis medicinos pagalbos įstaigos (padalinys), tai ši sąvoka taikoma tik šiam padaliniui. Šiame įstatyme ši sąvoka taikoma ir psichoneurologijos pensionatams.
 
-medicinos etikos komisija – psichiatrijos įstaigoje sudaroma institucija medicinos etikos klausimams spręsti;
+6. Medicinos etikos komisija – psichiatrijos įstaigoje sudaroma institucija medicinos etikos klausimams spręsti.
 
-psichikos sveikatos centras – savivaldybei priklausanti įstaiga, valstybės akredituota vykdyti psichikos sveikatos priežiūrą ir teikti socialinę pagalbą psichikos ligoniams bei kitiems asmenims;
+7. Psichikos sveikatos centras – savivaldybei priklausanti įstaiga, valstybės akredituota vykdyti psichikos sveikatos priežiūrą ir teikti socialinę pagalbą psichikos ligoniams bei kitiems asmenims.
 
-savivaldybės psichikos sveikatos komisija (toliau – SPSK) – savivaldybės sudaroma specializuota komisija, valstybės įgaliota spręsti psichikos ligonių sveikatos priežiūros sąlygų klausimus;
+8. Psichiatras – gydytojas, pagal Lietuvos Respublikos teisės aktus turintis teisę praktikuoti psichiatrijoje.
 
-psichiatras – gydytojas, pagal Lietuvos Respublikos teisės aktus turintis teisę praktikuoti psichiatrijoje;
+9. Psichoterapeutas – asmuo, pagal Lietuvos Respublikos teisės aktus turintis teisę praktikuoti psichoterapijoje. Jeigu psichoterapeutas teikia psichikos ligoniui psichiatrijos pagalbą, jam galioja šio įstatymo reikalavimai.
 
-psichoterapeutas – asmuo, pagal Lietuvos Respublikos teisės aktus turintis teisę praktikuoti psichoterapijoje. Jeigu psichoterapeutas teikia psichikos ligoniui psichiatrijos pagalbą, jam galioja šio įstatymo reikalavimai.
+10. Psichologas – asmuo, pagal Lietuvos Respublikos teisės aktus turintis teisę teikti psichologijos pagalbą psichikos ligoniams. Jeigu psichologas teikia psichikos ligoniui psichologijos pagalbą, jam galioja šio įstatymo IV skyriaus reikalavimai.
 
-psichologas – asmuo, pagal Lietuvos Respublikos teisės aktus turintis teisę teikti psichologijos pagalbą psichikos ligoniams. Jeigu psichologas teikia psichikos ligoniui psichologijos pagalbą, jam galioja šio įstatymo IV skyriaus reikalavimai;
+11. Slaugos personalas – sveikatos pagalbos įstaigų darbuotojai, slaugantys psichikos ligonius.
 
-slaugos personalas – sveikatos pagalbos įstaigų darbuotojai, slaugantys psichikos ligonius;
+12. Psichikos sveikatos priežiūra – specializuota sveikatos priežiūra, vykdoma pagal Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintus standartus. Šios priežiūros tikslas – teikti psichiatrijos pagalbą (diagnozuoti, gydyti sutrikusias žmogaus psichikos funkcijas, laiku perspėti psichikos ligų paūmėjimus), padėti žmogui prisitaikyti prie visuomenės gyvenimo ir į jį grįžti.
 
-psichikos sveikatos priežiūra – specializuota sveikatos priežiūra, vykdoma pagal Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintus standartus. Šios priežiūros tikslas – teikti psichiatrijos pagalbą (diagnozuoti, gydyti sutrikusias žmogaus psichikos funkcijas, laiku perspėti psichikos ligų paūmėjimus), padėti žmogui prisitaikyti prie visuomenės gyvenimo ir į jį grįžti;
+13. Hospitalizavimas – asmens paguldymas į psichiatrijos įstaigą.
 
-hospitalizavimas – asmens paguldymas į psichiatrijos įstaigą;
-
-psichinė sveikata – tai natūrali žmogaus asmenybės būsena, kuri turi būti saugoma arba grąžinama sutrikimų bei ligų atvejais. Pagal Pasaulio Sveikatos Organizacijos apibrėžimą – psichikos sveikata yra emocinis ir dvasinis atsparumas, kuris leidžia patirti džiaugsmą ir ištverti skausmą, nusivylimą, liūdesį. Tai teigiamas gėrio jausmas, kuriuo remiasi tikėjimas savo bei kitų žmonių orumu ir verte.
+14. Psichikos sveikata – natūrali žmogaus asmenybės būsena, kuri turi būti saugoma arba grąžinama sutrikimų bei ligų atvejais. Pagal Pasaulio Sveikatos Organizacijos apibrėžimą psichikos sveikata yra emocinis ir dvasinis atsparumas, kuris leidžia patirti džiaugsmą ir ištverti skausmą, nusivylimą, liūdesį. Tai teigiamas gėrio jausmas, kuriuo remiasi tikėjimas savo bei kitų žmonių orumu ir verte.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-1461, 1999-12-02, Žin., 1999, Nr. 108-3127 (1999-12-22), i. k. 0991010ISTAIII-1461
+
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
 
 2 straipsnis. Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo tikslas – nustatyti asmenų, kurie naudojasi psichikos sveikatos priežiūra, teises, psichikos sveikatos priežiūros tvarką ir kontrolę.
 
@@ -75,7 +75,11 @@ II SKYRIUS. PSICHIKOS LIGONIŲ TEISĖS IR JŲ APRIBOJIMAI
 
 Asmuo, diskriminuojantis psichikos ligonį dėl jo esamų ar buvusių psichikos sveikatos sutrikimų, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-4 straipsnis. Psichikos ligoniai gali būti pripažinti neveiksniais tik teismo sprendimu. Neveiksnaus psichikos ligonio interesams ginti savivaldybė, atsižvelgdama į jo pageidavimus, paskiria atstovą.
+4 straipsnis. Psichikos ligonis, kuris negali suprasti savo veiksmų reikšmės ar jų valdyti, gali būti teismo tvarka pripažintas neveiksniu. Neveiksniam psichikos ligoniui yra nustatoma globa Civilinio kodekso nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
 
 5 straipsnis. Valstybė turi sudaryti sąlygas psichikos ligoniams ugdyti, padėti jiems įgyti darbo įgūdžių, persikvalifikuoti, prisitaikyti prie visuomenės gyvenimo ir į jį grįžti.
 
@@ -143,25 +147,41 @@ Psichikos sveikatos centro steigėja yra savivaldybė. Jo veiklą reglamentuoja 
 
 Psichikos ligonio veiksmai gali būti ribojami tik tuo atveju, jei yra šio įstatymo 27 straipsnyje nurodytos aplinkybės. Apie tai turi būti nedelsiant įrašyta į ligos istoriją.
 
-14 straipsnis. Pacientai turi teisę į informacijos apie jų sveikatą konfidencialumą. Psichiatras, kitos specialybės gydytojas, slaugos personalas, sveikatos priežiūros įstaigos administracija, SPSK nariai privalo užtikrinti šią ligonio teisę, vadovaudamiesi Lietuvos Respublikos įstatymais ir medicinos etikos reikalavimais. Informacija kitiems asmenims apie pacientų sveikatos būklę pateikiama Lietuvos Respublikos įstatymų nustatyta tvarka.
+14 straipsnis. Pacientai turi teisę į informacijos apie jų sveikatą konfidencialumą. Psichiatras, kitos specialybės gydytojas, slaugytojas ir kitas personalas, sveikatos priežiūros įstaigos administracija privalo užtikrinti šią paciento teisę, vadovaudamiesi Lietuvos Respublikos įstatymais ir medicinos etikos reikalavimais. Informacija kitiems asmenims apie pacientų sveikatos būklę pateikiama Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-15 straipsnis. Psichiatras privalo informuoti pacientą apie jo sveikatos sutrikimus, teikiamą sveikatos priežiūrą. Šios informacijos mastą nustato psichiatras, atsižvelgdamas į paciento būklę, vadovaudamasis medicinos etikos reikalavimais.
+Straipsnio pakeitimai:
 
-Pacientas turi teisę susipažinti su ištraukomis iš ligos istorijos, išskyrus atvejus, kai informacija gali iš esmės pakenkti jo sveikatai. Apie tokius apribojimus sprendžia psichiatras ir pažymi tai ligos istorijoje. Ligos istorijos ištraukos parengiamos taip, kad nepakenktų trečiųjų asmenų interesams ir, pacientui pareikalavus, pateikiamos per 3 dienas. Tuo atveju, kai paciento teisė susipažinti su ištraukomis iš ligos istorijos šio įstatymo nustatyta tvarka yra ribojama, jis arba jo atstovas dėl paciento teisės susipažinti su ligos istorija gali kreiptis į SPSK.
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
 
-Paciento atstovas turi teisę gauti informaciją iš psichiatro, kitos specialybės gydytojo, psichiatrijos įstaigos administracijos apie atstovaujamojo asmens sveikatos būklę, jam taikomus profilaktikos, diagnostikos, gydymo metodus, susipažinti su atstovaujamojo neveiksnaus asmens ligos istorija.
+15 straipsnis. Psichiatras privalo informuoti pacientą jam suprantama forma, paaiškindamas specialius terminus apie jo sveikatos būklę, ligos diagnozę, galimus gydymo būdus, gydymo prognozę bei kitas aplinkybes, kurios gali turėti įtakos paciento apsisprendimui sutikti gydytis ar atsisakyti siūlomo gydymo, taip pat apie pasekmes, jei siūlomo gydymo atsisakytų. Pacientas turi teisę susipažinti su savo medicinos dokumentais, medicinos dokumentų ištraukomis. Ši informacija pacientui gali būti neteikiama tik tais atvejais, jeigu ji pakenktų paciento sveikatai ar net sukeltų pavojų jo gyvybei.
 
-Atstovas turi teisę susipažinti ir su kita medicinos dokumentacija, tiesiogiai susijusia su atstovaujamojo asmens interesais. Gydantis psichiatras ar psichiatrijos įstaigos administracija tokią informaciją ir dokumentus turi pateikti atstovui nedelsdami.
+Dėl apribojimų pacientui gauti šio straipsnio 1 dalyje numatytą informaciją arba susipažinti su jo medicinos dokumentais bei medicinos dokumentų ištraukomis sprendžia psichiatras ir pažymi tai paciento medicinos dokumentuose. Tokiais atvejais, kai paciento teisė gauti šio straipsnio 1 dalyje numatytą informaciją, susipažinti su savo medicinos dokumentais, medicinos dokumentų ištraukomis yra ribojama, taip pat Civilinio kodekso 6.728 straipsnyje numatytais atvejais atitinkama informacija pateikiama paciento atstovui. Informacija pateikiama pacientui iš karto, kai išnyksta pavojus, kad jos pateikimas pacientui gali sąlygoti minėtą žalą. Medicinos dokumentų ištraukos parengiamos taip, kad nepakenktų kitų asmenų interesams. Pareikalavus pacientui arba jo atstovui, jos pateikiamos per 3 darbo dienas.
 
-Jeigu pacientas yra nepilnametis, informacija turi būti pateikiama ir jo tėvams ar globėjams.
+Atstovas turi teisę susipažinti ir su kitais medicinos dokumentais, tiesiogiai susijusiais su atstovaujamo asmens interesais. Gydantis psichiatras ar psichiatrijos įstaigos administracija tokią informaciją ir dokumentus turi pateikti atstovui nedelsdami.
 
-16 straipsnis. Be paciento sutikimo gydymas negali būti skiriamas, išskyrus atvejį, kai jis yra priverstinai hospitalizuotas dėl šio įstatymo 27 straipsnyje nurodytų aplinkybių ir nesugeba teisingai įvertinti savo sveikatos būklės. Šiuo atveju psichiatras informuoja ligonį apie priverstinio gydymo paskyrimą ir jo atstovą. Ši informacija turi būti įrašoma į ligos istoriją. Jeigu ligonis nesutinka su psichiatro nuomone, kad jis nesugebąs teisingai įvertinti savo sveikatos būklės, tai jis arba jo atstovas turi teisę kreiptis į SPSK, kuri sprendžia apie ligonio sugebėjimą teisingai įvertinti savo sveikatos būklę. Jeigu SPSK nusprendžia, kad ligonis gali teisingai vertinti savo sveikatos būklę, tai gydymas, kuriam ligonis nedavė sutikimo, turi būti nutraukiamas ir be jo sutikimo negali būti tęsiamas.
+Jeigu pacientas yra nepilnametis, informacija turi būti pateikiama ir jo tėvams ar globėjams (rūpintojams).
 
-Šio straipsnio pirmojoje dalyje nurodytais atvejais paciento priverstiniam gydymui turi būti gautas sutikimas šio įstatymo 28 straipsnyje nustatyta tvarka. Kol bus gautas SPSK sutikimas, pacientas gali būti priverstinai gydomas dviejų psichiatrų sprendimu ne ilgiau kaip 72 valandas.
+Straipsnio pakeitimai:
 
-17 straipsnis. Nepilnametis pacientas turi būti gydomas vienam iš tėvų ar globėjui sutikus. Jeigu vienas iš tėvų ar globėjas atsisako psichiatro paskirto gydymo ir dėl to nepilnamečio sveikatai gali būti padaryta esminė žala, gydytojas nedelsdamas turi kreiptis į SPSK ir gauti jos sutikimą gydyti nepilnametį be vieno iš tėvų ar globėjo sutikimo.
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
+
+16 straipsnis. Be paciento sutikimo gydymas negali būti skiriamas, išskyrus atvejį, kai pacientas yra priverstinai hospitalizuotas dėl šio įstatymo 27 straipsnyje nurodytų aplinkybių. Šiuo atveju psichiatras informuoja pacientą ir (ar) jo atstovą apie priverstinio gydymo paskyrimą. Ši informacija įrašoma į medicinos dokumentus.
+
+Šio straipsnio 1 dalyje nurodytais atvejais paciento priverstiniam gydymui turi būti gautas leidimas šio įstatymo 28 straipsnyje nustatyta tvarka. Kol bus gautas teismo leidimas, pacientas gali būti priverstinai gydomas dviejų psichiatrų ir vieno psichiatrijos įstaigos administracijos atstovo – gydytojo sprendimu ne ilgiau kaip dvi paras.
+
+Pacientas gali būti priverstinai gydomas tik tuo atveju, jeigu jis yra priverstinai hospitalizuotas į stacionarinę psichiatrijos įstaigą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
+
+17 straipsnis. Jeigu nepilnametis asmuo nėra teismo pripažintas emancipuotu, jis gali būti gydomas bent vienam iš tėvų ar globėjui (rūpintojui) sutikus raštiškai. Jeigu vienas iš tėvų ar globėjas (rūpintojas) atsisako psichiatro paskirto gydymo ir dėl to nepilnamečio sveikatai gali būti padaryta esminė žala, psichiatras nedelsdamas turi kreiptis į teismą ir gauti teismo leidimą gydyti nepilnametį be vieno iš tėvų ar globėjo (rūpintojo) sutikimo.
 
 Nepilnamečiai hospitalizuojami ir gydomi atskirai nuo suaugusių pacientų.
+
+Straipsnio pakeitimai:
+
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
 
 18 straipsnis. Psichikos ligoniams gali būti skiriami tik Lietuvos Respublikos teisės aktuose nustatyta tvarka aprobuoti gydymo metodai.
 
@@ -169,17 +189,25 @@ Gydymo metodai, kurie sukelia sveikatai negrįžtamų žalingų pasekmių, nevei
 
 Klinikiniai eksperimentiniai gydymo metodai, psichochirurgija gali būti taikomi psichikos ligoniams tik gydymo tikslui medicinos etikos komisijai prižiūrint. Klinikiniai eksperimentiniai gydymo metodai, psichochirurgija gali būti taikomi tik jeigu ligonis tai sąmoningai suprato ir davė raštišką sutikimą, patvirtintą dviejų liudininkų ir psichiatrijos įstaigos vyriausiojo gydytojo. Taip pat turi būti medicinos etikos komisijos pritarimas.
 
-19 straipsnis. Jeigu paciento gyvybei gresia realus pavojus, skubi medicinos pagalba gali būti suteikta ir be ligonio sutikimo. Ligonis ir jo atstovas apie suteiktą medicinos pagalbą informuojami.
+19 straipsnis. Būtinais atvejais, siekiant išgelbėti asmens gyvybę, kai jai gresia realus pavojus, o pats asmuo negali išreikšti savo valios, būtinoji medicinos pagalba gali būti suteikiama ir be paciento sutikimo.
 
-V SKYRIUS. PACIENTO AR JO ATSTOVO TEISĖ APSKŲSTI SVEIKATOS PRIEŽIŪROS SĄLYGAS SPSK, TEISMUI
+Tais atvejais, kai reikia nedelsiant atlikti veiksmus, būtinus paciento gyvybei išsaugoti, o vietoj paciento sutikimo turi būti gautas atstovo sutikimas, būtinoji medicinos pagalba gali būti teikiama ir be šio sutikimo, jeigu nėra pakankamai laiko jį gauti.
 
-20 straipsnis. Pacientas ar jo atstovas turi teisę apskųsti SPSK sveikatos priežiūros sąlygas. Jeigu kyla nesutarimų tarp paciento ar jo atstovo ir SPSK dėl priverstinio hospitalizavimo ir priverstinio gydymo, ginčą sprendžia teismas.
+Straipsnio pakeitimai:
 
-21 straipsnis. Pacientas ar jo atstovas turi teisę pateikti SPSK pasirinkto psichiatro medicinos išvadą dėl sveikatos būklės, sveikatos priežiūros sąlygų bei kitus dokumentus.
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
 
-22 straipsnis. Pacientas ar jo atstovas turi teisę dalyvauti ir būti išklausytas SPSK, kai sprendžiami jo priverstinio hospitalizavimo, gydymo bei kiti klausimai.
+V SKYRIUS. PACIENTO AR JO ATSTOVO TEISĖ APSKŲSTI SVEIKATOS PRIEŽIŪROS SĄLYGAS
 
-SPSK savo išvadas ir sprendimus privalo išdėstyti raštu ir įteikti pacientui ar jo atstovui per dvi savaites.
+20 straipsnis. Pacientas ar jo atstovas turi teisę apskųsti sveikatos priežiūros sąlygas psichiatrijos įstaigos administracijai, Sveikatos apsaugos ministerijai arba teismui.
+
+21 straipsnis. Pacientas ar jo atstovas turi teisę pateikti psichiatrijos įstaigos administracijai, Sveikatos apsaugos ministerijai, teismui pasirinkto psichiatro medicinos išvadą dėl sveikatos būklės, sveikatos priežiūros sąlygų bei kitus dokumentus.
+
+22 straipsnis. Pacientas ar jo atstovas turi teisę dalyvauti ir būti išklausytas psichiatrijos įstaigos administracijos, Sveikatos apsaugos ministerijos, teismo, kai sprendžiami jo priverstinio hospitalizavimo ir priverstinio gydymo, gydymo bei kiti klausimai.
+
+Skyriaus pakeitimai:
+
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
 
 VI SKYRIUS. PACIENTŲ HOSPITALIZAVIMAS
 
@@ -197,7 +225,11 @@ Dėl asmens pirminio apžiūrėjimo gali kreiptis gydytojas, paciento atstovas, 
 
 Jeigu nepilnametis pacientas yra iki 10 metų, vienas iš tėvų ar globėjų turi teisę būti kartu su juo.
 
-Jeigu nepilnametis pacientas yra vyresnis kaip 10 metų, hospitalizavimo atveju, jeigu vienas iš tėvų ar globėjų kreipiasi, jis gali būti psichiatrijos įstaigoje kartu su nepilnamečiu. Šį klausimą sprendžia psichiatras, atsižvelgdamas į ligos pobūdį ir nepilnamečio psichikos būklę. Jeigu tėvai ar globėjai nesutinka su psichiatro sprendimu, šį sprendimą gali apskųsti SPSK. Šios komisijos sprendimas yra galutinis.
+Kai hospitalizuojamas nepilnametis, bet vyresnis kaip 10 metų pacientas, vienas iš tėvų ar globėjas (rūpintojas) gali kreiptis į psichiatrą, kad leistų būti psichiatrijos įstaigoje kartu su nepilnamečiu. Šį klausimą psichiatras sprendžia atsižvelgdamas į ligos pobūdį ir nepilnamečio psichikos būklę. Jeigu tėvai ar globėjai (rūpintojai) nesutinka su psichiatro sprendimu, šį sprendimą gali apskųsti psichiatrijos įstaigos administracijai, Sveikatos apsaugos ministerijai arba teismui.
+
+Straipsnio pakeitimai:
+
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
 
 26 straipsnis. Pacientai, kurie buvo hospitalizuoti pagal šio įstatymo 24 straipsnio reikalavimus, turi teisę bet kada palikti psichiatrijos įstaigą, jeigu nėra šio įstatymo 27 straipsnyje nurodytų aplinkybių.
 
@@ -207,13 +239,21 @@ Jeigu nepilnametis pacientas yra vyresnis kaip 10 metų, hospitalizavimo atveju,
 
 2) aplinkinių sveikatai, gyvybei.
 
-28 straipsnis. Esant šio įstatymo 27 straipsnyje nurodytoms aplinkybėms, ligonis gali būti priverstinai hospitalizuotas ir priverstinai gydomas psichiatrijos įstaigoje ne ilgiau kaip 72 valandas be SPSK sutikimo. Jeigu per 72 valandas tokio sutikimo negaunama, priverstinis hospitalizavimas ir priverstinis gydymas turi būti nutraukti. Apie priverstinį hospitalizavimą psichiatrijos įstaigos administracija nedelsdama praneša ligonio artimiesiems, atstovui.
+28 straipsnis. Esant šio įstatymo 27 straipsnyje nurodytoms aplinkybėms, pacientas gali būti priverstinai hospitalizuotas ir priverstinai gydomas psichiatrijos įstaigoje ne ilgiau kaip dvi paras be teismo leidimo. Jeigu per dvi paras teismas leidimo neduoda, priverstinis hospitalizavimas ir priverstinis gydymas turi būti nutraukti. Apie priverstinį hospitalizavimą psichiatrijos įstaigos administracija nedelsdama praneša paciento atstovui.
 
-Psichiatrijos įstaigos administracija privalo nedelsdama kreiptis į SPSK, kuri, apsvarsčiusi psichiatrų rekomendacijas, turi teisę priimti sprendimą dėl ligonio priverstinio hospitalizavimo ir priverstinio gydymo pratęsimo, bet ne ilgiau kaip vienam mėnesiui nuo priverstinio hospitalizavimo pradžios. Pagal psichiatro rekomendacijas psichiatrijos įstaigos administracija turi teisę nutraukti ligonio priverstinį hospitalizavimą, priverstinį gydymą ir anksčiau.
+Kai pacientas priverstinai hospitalizuojamas, psichiatrijos įstaigos administracija privalo ne vėliau kaip per 2 paras kreiptis į teismą. Teismas, apsvarstęs psichiatrų rekomendacijas, turi teisę priimti sprendimą dėl paciento priverstinio hospitalizavimo ir priverstinio gydymo pratęsimo, bet ne ilgiau kaip vienam mėnesiui nuo priverstinio hospitalizavimo pradžios. Pagal psichiatro rekomendacijas psichiatrijos įstaigos administracija turi teisę nutraukti paciento priverstinį hospitalizavimą ir priverstinį gydymą anksčiau.
 
-Praėjus vienam mėnesiui, jeigu reikia pratęsti priverstinį hospitalizavimą ir priverstinį gydymą, psichiatrijos įstaigos administracija privalo kreiptis į apylinkės teismą dėl ligonio priverstinio hospitalizavimo ir priverstinio gydymo pratęsimo. Apylinkės teismas pagal psichiatrijos įstaigos išvadą gali priverstinį ligonio hospitalizavimą ir priverstinį gydymą nutraukti arba pratęsti, bet kiekvieną kartą ne daugiau kaip 6 mėnesiams. Pagal gydančiojo psichiatro rekomendaciją psichiatrijos įstaigos administracija turi teisę nutraukti ligonio priverstinį hospitalizavimą, priverstinį gydymą ir anksčiau.
+Jeigu paciento priverstinį hospitalizavimą ir priverstinį gydymą reikia pratęsti, psichiatrijos įstaigos administracija dėl šio pratęsimo privalo kreiptis į teismą. Teismas pagal psichiatrijos įstaigos išvadą gali priverstinį paciento hospitalizavimą ir priverstinį gydymą nutraukti arba pratęsti, bet kiekvieną kartą ne daugiau kaip 6 mėnesiams. Pagal gydančiojo psichiatro rekomendaciją psichiatrijos įstaigos administracija paciento priverstinį hospitalizavimą ir priverstinį gydymą turi teisę nutraukti ir anksčiau.
 
-29 straipsnis. Esant šio įstatymo 27 straipsnyje nurodytoms aplinkybėms, ligonius priverstiniam hospitalizavimui ligonio atstovo prašymu, gydytojo nurodymu ar apylinkės teisėjo nutarimu pristato policija. Priverstinai hospitalizuojant ligonius, turi dalyvauti gydytojas.
+Straipsnio pakeitimai:
+
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
+
+29 straipsnis. Esant šio įstatymo 27 straipsnyje nurodytoms aplinkybėms, pacientą priverstiniam gydymui paciento atstovo prašymu, gydytojo siuntimu ar teisėjo nutarimu pristato policija dalyvaujant gydytojui. Priverstinio hospitalizavimo tvarką nustato Vyriausybės įgaliotos institucijos.
+
+Straipsnio pakeitimai:
+
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
 
 30 straipsnis. Priverstinai hospitalizuojamas ligonis turi pasirašyti, jog yra psichiatrijos įstaigos administracijos informuotas apie priverstinį hospitalizavimą bei teises psichiatrijos įstaigoje. Jeigu ligonis atsisako arba nesugeba pasirašyti, tai jo informavimą apie priverstinį hospitalizavimą raštu patvirtinta du liudininkai, kurie gali būti ir psichiatrijos įstaigos darbuotojai, tačiau ne psichiatrai.
 
@@ -269,7 +309,11 @@ XI SKYRIUS. ATSAKOMYBĖ UŽ PSICHIKOS SVEIKATOS PRIEŽIŪROS ĮSTATYMO PAŽEIDIM
 
 46 straipsnis. Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-47 straipsnis. Asmuo, pažeidęs šio įstatymo 14 straipsnio reikalavimus, taip pat paciento atstovas, paskleidęs informaciją apie atstovaujamojo asmens psichikos sveikatos sutrikimus be atstovaujamojo asmens, išskyrus nepilnamečio, sutikimo, atlygina jam padarytą moralinę žalą Lietuvos Respublikos sveikatos sistemos įstatymo 140 straipsnyje nustatyta tvarka.
+47 straipsnis. Asmuo, pažeidęs šio įstatymo 14 straipsnio reikalavimus, atlygina pacientui padarytą turtinę ir neturtinę žalą Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
 
 XII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
@@ -288,6 +332,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1461, 1999-12-02, Žin., 1999, Nr. 108-3127 (1999-12-22), i. k. 0991010ISTAIII-1461
 
 Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo papildymo IX(1) skyriumi ir 1 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
+
+Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 1, 4, 14, 15, 16, 17, 19, 25, 28, 29, 47 straipsnių bei V skyriaus pakeitimo ir X skyriaus pripažinimo netekusiu galios įstatymas
 
 381 straipsnis. Valstybinę psichikos sveikatos komisiją prie Lietuvos Respublikos Vyriausybės (toliau – VPSK) sudaro ir jos nuostatus tvirtina Vyriausybė. VPSK veikla reglamentuojama Sveikatos sistemos įstatymo, šio įstatymo bei VPSK nuostatų ir finansuojama iš valstybės biudžeto. VPSK sudaroma iš Sveikatos apsaugos, Socialinės apsaugos ir darbo, Švietimo ir mokslo, Vidaus reikalų, Teisingumo ministerijų atstovų, Lietuvos savivaldybių asociacijos, Sveikatos apsaugos ministerijos pasiūlytų visuomeninių organizacijų bei gausiausių tradicinių religinių bendruomenių atstovų, jos sudėtį ir sudarymo tvarką reglamentuoja šios komisijos nuostatai.
 
@@ -325,5 +377,11 @@ Papildyta skyriumi:
 
 Nr. VIII-1461, 1999-12-02, Žin., 1999, Nr. 108-3127 (1999-12-22), i. k. 0991010ISTAIII-1461
 
-X SKYRIUS. SAVIVALDYBĖS PSICHIKOS SVEIKATOS KOMISIJA
+10 skyrius. Neteko galios nuo 2001-07-25
+
+Skyriaus naikinimas:
+
+Nr. IX-429, 2001-07-05, Žin. 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
+
+XI SKYRIUS. ATSAKOMYBĖ UŽ PSICHIKOS SVEIKATOS PRIEŽIŪROS ĮSTATYMO PAŽEIDIMUS
 
