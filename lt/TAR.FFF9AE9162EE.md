@@ -4,7 +4,7 @@ identifier: "TAR.FFF9AE9162EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-13"
-last_updated: "2003-04-29"
+last_updated: "2003-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 department: "Lietuvos Respublikos Seimas"
@@ -890,11 +890,27 @@ paskirtį Lietuvos aplinkos apsaugos investicijų fondo programoje numatytiems
 
 aplinkos apsaugos investiciniams projektams finansuoti;
 
+1 dalies 2 punkto redakcija iki 2004 m.
+
+sausio 1 d.:
+
 2)
 
 70 procentų mokama į savivaldybės, kurios teritorijoje yra taršos objektas,
 
 gamtos apsaugos fondą.
+
+1 dalies 2 punkto redakcija nuo 2004 m.
+
+sausio 1 d.:
+
+2) 70 procentų mokama į savivaldybės, kurios
+
+teritorijoje yra taršos objektas, biudžetą. Šios lėšos naudojamos pagal
+
+tikslinę paskirtį Savivaldybių aplinkos apsaugos rėmimo specialiojoje programoje
+
+numatytoms priemonėms finansuoti.
 
 2.
 
@@ -906,15 +922,15 @@ ar pakuotės atliekų tvarkymo programos tikslams įgyvendinti.
 
 3.
 
-Didesnio tarifo mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą teršalų
+Didesnio tarifo mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą
 
-ir apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį, už normatyvus
+teršalų ir apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį, už
 
-viršijantį teršalų kiekį, mokamas arba išieškomas iš pažeidėjo į valstybės
+normatyvus viršijantį teršalų kiekį, mokamas arba išieškomas iš pažeidėjo į
 
-biudžetą. Šios lėšos naudojamos Aplinkos apsaugos rėmimo programos įstatyme
+valstybės biudžetą. Šios lėšos naudojamos Aplinkos apsaugos rėmimo programos
 
-numatytiems tikslams įgyvendinti.
+įstatyme numatytiems tikslams įgyvendinti.
 
 4.
 
@@ -923,6 +939,16 @@ Nesumokėtas mokestis už aplinkos teršimą sumokamas arba išieškomas,
 delspinigiai skaičiuojami, permokėta mokesčio suma grąžinama Mokesčių
 
 administravimo įstatymo nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1608,
+
+2003-06-10, Žin., 2003, Nr. 61-2761 (2003-06-27)
 
 11
 
@@ -1062,9 +1088,7 @@ IV
 
 II.
 
-Teršalai, išmetami į vandens telkinius, žemės paviršių ir gilesnius jos
-
-sluoksnius
+Teršalai, išmetami į vandens telkinius, žemės paviršių ir gilesnius jos sluoksnius
 
 Teršalai
 
@@ -1154,9 +1178,9 @@ aplinkos teršimą iš stacionarių taršos šaltinių tarifai 2005–2009
 
 metų periodui (2003 m. balandžio 29 d. įstatymo Nr. IX-1547 1 priedėlis):
 
-MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ STACIONARIŲ
+MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
 
-TARŠOS ŠALTINIŲ TARIFAI
+STACIONARIŲ TARŠOS ŠALTINIŲ TARIFAI
 
 I.
 
@@ -2354,13 +2378,31 @@ STRAIPSNIO 2 DALIES ĮGYVENDINIMO ĮSTATYMAS
 
 straipsnius, įsigalioja nuo 2005 m. sausio 1 d.
 
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1608,
+
+2003-06-10, Žin., 2003, Nr. 61-2761 (2003-06-27)
+
+MOKESČIO
+
+UŽ APLINKOS TERŠIMĄ ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-05-27)
+Aušrinė Trapinskienė (2003-06-30)
 
 autrap@lrs.lt
 
