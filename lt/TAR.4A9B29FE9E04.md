@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "1997-12-24"
+last_updated: "1999-06-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1997-12-24 iki 1999-06-08
+Suvestinė redakcija nuo 1999-06-09 iki 2001-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -597,7 +597,7 @@ Papildyta straipsnio dalimi:
 
 Nr. VIII-118, 1997-02-18, Žin., 1997, Nr. 20-445 (1997-03-07), i. k. 0971010ISTAVIII-118
 
-27 straipsnis. Revizijos komisija
+27 straipsnis. Bendrovės veiklos kontrolė
 
 1. Revizijos komisija (revizorius) privalo:
 
@@ -607,13 +607,15 @@ Nr. VIII-118, 1997-02-18, Žin., 1997, Nr. 20-445 (1997-03-07), i. k. 0971010IST
 
 2. Pasibaigus ūkiniams metams, likus dviem savaitėms iki narių susirinkimo, valdyba (administracija) turi pranešti revizijos komisijai, kad bendrovės metinė apyskaita ir balansas yra parengti ir dokumentus ji galinti tikrinti.
 
-3. Revizijos komisija (revizorius) pranešime narių susirinkimui pateikia išvadą apie metinę apyskaitą, bendrovės balansą ir padėtį.
+3. Revizijos komisija ( revizorius) pranešime narių susirinkimui pateikia išvadą apie metinę apyskaitą, bendrovės balansą ir padėtį.
 
 4. Nepriklausomi ekspertai bendrovės veiklos revizijai atlikti kviečiami revizijos komisijos iniciatyva arba reikalaujant 1/10 bendrovės narių.
 
-Straipsnio dalies pakeitimai:
+5. Bendrovės veiklą įstatymų nustatyta tvarka turi teisę tikrinti valstybės institucijos.
 
-Nr. VIII-118, 1997-02-18, Žin., 1997, Nr. 20-445 (1997-03-07), i. k. 0971010ISTAVIII-118
+Straipsnio pakeitimai:
+
+Nr. VIII-1194, 1999-05-20, Žin., 1999, Nr. 50-1601 (1999-06-09), i. k. 0991010ISTAIII-1194
 
 28 straipsnis. Bendrovės vykdomojo organo narių atsakomybė
 
@@ -934,4 +936,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-562, 1997-12-09, Žin., 1997, Nr. 117-3002 (1997-12-24), i. k. 0971010ISTAVIII-562
 
 Lietuvos Respublikos žemės ūkio bendrovių įstatymo 33 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1194, 1999-05-20, Žin., 1999, Nr. 50-1601 (1999-06-09), i. k. 0991010ISTAIII-1194
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 27 straipsnio pakeitimo ir papildymo įstatymas
 
