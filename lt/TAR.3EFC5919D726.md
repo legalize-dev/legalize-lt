@@ -4,7 +4,7 @@ identifier: "TAR.3EFC5919D726"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-04"
-last_updated: "1996-05-30"
+last_updated: "1996-08-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EFC5919D726"
 department: "Lietuvos Respublikos Seimas"
@@ -15,33 +15,49 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valdininkų įstatymas
 
-@D1=19950404;D2=19960530;D3=19960614
+Neoficialus įstatymo tekstas
 
-@D1=19950404;D2=19960530;D3=19960614
+Neoficialus įstatymo
+
+tekstas
 
 Pakeitimai:
 
 1.
 
-Parlamentas,
+Lietuvos Respublikos
 
-Įstatymas
+Seimas, Įstatymas
 
-{#19960530AA1354 ;}
+Nr. 1-1354,
 
-Nr. 1-1354, 96.05.30, Žin., 1996, Nr. 55-1292 (96.06.12)
+96.05.30, Žin., 1996, Nr. 55-1292 (96.06.12)
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS
 
-RESPUBLIKOS VALDININKŲ ĮSTATYMO 16 STRAIPSNIO PAKEITIMO
+VALDININKŲ ĮSTATYMO 16 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. 1-1499,
+
+96.08.20, Žin., 1996, Nr. 82-1968 (96.08.30)
+
+LIETUVOS RESPUBLIKOS
+
+VALDININKŲ ĮSTATYMO 16 STRAIPSNIO PAPILDYMO
 
 ĮSTATYMAS
 
 *** Pabaiga ***
 
-LIETUVOS
-
-RESPUBLIKOS
+LIETUVOS RESPUBLIKOS
 
 V A L D I N I N K Ų
 
@@ -137,9 +153,9 @@ medicinos
 
 darbuotojų, diplomatų, valdininkų  ir t.t.).
 
-4 straipsnis. Valstybės
+4 straipsnis.
 
-valdymo tarnyba
+Valstybės valdymo tarnyba
 
 Valstybės
 
@@ -233,7 +249,7 @@ skirstomi į "A" ir "B" lygius.
 
 "A"
 
-lygio  valstybės valdininkai  yra tarnautojai,  paskirti
+lygio  valstybės valdininkai  yra tarnautojai,  paskirti
 
 Seimo, Prezidento,
 
@@ -243,9 +259,9 @@ tarnautojai,
 
 padedantys   valstybės  politikams   vykdyti   savo
 
-funkcijas. Šių  valdininkų
+funkcijas. Šių
 
-tarnyba  susieta  su  jų  tiesioginių
+valdininkų  tarnyba  susieta  su  jų  tiesioginių
 
 vadovų įgaliojimų
 
@@ -493,9 +509,9 @@ laikui.
 
 lygio  valdininkai į  valstybės valdymo tarnybą priimami
 
-darbo ir kitų
+darbo ir kitų įstatymų
 
-įstatymų nustatyta tvarka. Šių valdininkų priėmimas
+nustatyta tvarka. Šių valdininkų priėmimas
 
 galimas tik  viešo
 
@@ -509,7 +525,7 @@ Valdininkai,
 
 prieš   priimant  juos   į  tarnybą,  pateikia
 
-pažymėjimą  apie
+pažymėjimą  apie
 
 sveikatos  būklę   pagal  Sveikatos   apsaugos
 
@@ -521,9 +537,9 @@ nustatytą formą.
 
 Valstybės valdymo tarnybos pradžia
 
-Valdininkų tarnyba
+Valdininkų
 
-prasideda nuo  jų išrinkimo ar paskyrimo
+tarnyba  prasideda nuo  jų išrinkimo ar paskyrimo
 
 dienos, jeigu
 
@@ -567,9 +583,9 @@ Lietuvos Respublikos Konstitucijos ir įstatymų;
 
 Vyriausybės  nutarimus,  kitus  teisės  aktus,
 
-reglamentuojančius
+reglamentuojančius  valdininkų
 
-valdininkų  funkcijas,  jiems  duotas  vadovų
+funkcijas,  jiems  duotas  vadovų
 
 užduotis ir
 
@@ -675,9 +691,9 @@ prestižui.
 
 Valdininkų teisės
 
-Valdininkai
+Valdininkai turi
 
-turi teisę:
+teisę:
 
 1) atsisakyti
 
@@ -687,9 +703,9 @@ duota užduotis  ar
 
 pavedimas  prieštarauja  įstatymui;  apie  tai
 
-valdininkas praneša  savo
+valdininkas praneša
 
-institucijos  vadovui  ir  vykdo  duotą
+savo institucijos  vadovui  ir  vykdo  duotą
 
 užduotį ar  pavedimą
 
@@ -757,15 +773,15 @@ nariais  (jeigu  įstatymai nenumato kitaip),
 
 patarėjais,
 
-ekspertais   ar   konsultantais,   eiti   renkamas,
+ekspertais   ar   konsultantais,   eiti   renkamas,
 
 skiriamas  ar
 
 turimas pareigas, išskyrus mokslininkų ir pedagogų
 
-pareigas
+pareigas  valstybinėse
 
-valstybinėse  mokslo ir studijų institucijose, švietimo
+mokslo ir studijų institucijose, švietimo
 
 ir  kultūros
 
@@ -837,6 +853,60 @@ nenumato
 
 tarptautinis protokolas.
 
+Valdininkams
+
+nėra   draudžiama  būti  visų  lygių  Seimo,
+
+Respublikos
+
+Prezidento,   savivaldybių   tarybų   rinkimų   ir
+
+referendumų
+
+organizavimo  komisijų  pirmininkais  ar  nariais ir
+
+gauti   atlyginimą
+
+už   šį   darbą.  Rinkimų  arba  referendumų
+
+organizavimo
+
+laikotarpiu  valdininkai  pagal sutartis su rinkimų
+
+arba  referendumų
+
+komisijomis gali dirbti ir kitą darbą bei už jį
+
+gauti atlyginimą
+
+įstatymų nustatyta tvarka.
+
+Valdininkams,
+
+rinkimų  arba  referendumų  komisijų nariams,
+
+taip  pat
+
+valdininkams,  dirbantiems  pagal  sutartis su rinkimų
+
+arba   referendumų
+
+komisijomis,   netaikomas   šio   straipsnio
+
+pirmosios  dalies
+
+6  punkte  numatytas  draudimas  naudoti darbo
+
+laiką  ne tarnybos
+
+tikslams, tačiau darbas rinkimų ar referendumo
+
+komisijoje
+
+neatleidžia  valdininko  nuo  jo  tiesioginių pareigų
+
+vykdymo.
+
 * Pastaba:
 
 Valdininkai,  kurie pagal  16 straipsnio 1 punktą gali
@@ -863,9 +933,13 @@ Straipsnio
 
 pakeitimai:
 
-Nr. 1-1354,
+Nr. 1-1354, 96.05.30,
 
-96.05.30, Žin., 1996, Nr. 55-1292 (96.06.12)
+Žin., 1996, Nr. 55-1292 (96.06.12)
+
+Nr. 1-1499,
+
+96.08.20, Žin., 1996, Nr. 82-1968 (96.08.30)
 
 17 straipsnis.
 
@@ -969,9 +1043,9 @@ reikalavimų
 
 nevykdymą ar pažeidimą institucijos vadovo sprendimu,
 
-jeigu įstatymai
+jeigu įstatymai  nenustato
 
-nenustato  kitaip,  gali  būti  skiriamos  darbo
+kitaip,  gali  būti  skiriamos  darbo
 
 įstatymų
 
@@ -987,9 +1061,9 @@ Atsistatydinimas ir atleidimas iš tarnybos
 
 Atsistatydinimas   -    tai   valdininko   raštu   pateiktas
 
-pareiškimas institucijos
+pareiškimas
 
-vadovui atleisti  iš valstybės  valdymo
+institucijos  vadovui atleisti  iš valstybės  valdymo
 
 tarnybos šio
 
@@ -1001,7 +1075,7 @@ lygio  valstybės ir savivaldybių valdininkai, su kuriais
 
 sudaroma
 
-terminuota   darbo  sutartis,  atsistatydina  sutarties
+terminuota   darbo  sutartis,  atsistatydina  sutarties
 
 terminui pasibaigus.
 
@@ -1107,9 +1181,9 @@ darbo  užmokestį sudaro  tarnybinė alga  ir kitos
 
 išmokos.
 
-Darbo
+Darbo  užmokestis
 
-užmokestis   mokamas  iš  valstybės  ar  savivaldybių
+mokamas  iš  valstybės  ar  savivaldybių
 
 biudžeto lėšų.
 
@@ -1207,9 +1281,9 @@ tarnybinių atlyginimų dydžio kompensacija.
 
 lygio  valdininkai  negali  būti  atleisti  dėl  Seimo,
 
-Prezidento,
+Prezidento, Vyriausybės,
 
-Vyriausybės, savivaldybės tarybos atsistatydinimo "in
+savivaldybės tarybos atsistatydinimo "in
 
 corpore"  ar
 
@@ -1335,9 +1409,9 @@ biurokratizmo
 
 nagrinėjami Lietuvos Respublikos Seimo kontrolierių
 
-įstatymo nustatyta  tvarka,
+įstatymo nustatyta
 
-o  skundai dėl  šių  valdininkų  kitų
+tvarka, o  skundai dėl  šių  valdininkų  kitų
 
 veiksmų ir sprendimų
 
@@ -1384,322 +1458,4 @@ RESPUBLIKOS
 PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
 
 _
-
-intelektinės veiklos rezultatus (Civilinio kodekso 515 straipsnis), taip pat
-
-atlyginimas už darbą Seimo, Prezidento  ar  Vyriausybės  sudaromose komisijose
-
-ir darbo grupėse;
-
-2)
-
-būti personalinės įmonės savininku, ūkinės bendrijos tikruoju nariu arba
-
-komanditoriumi, įsigyti arba valdyti pagal įgaliojimą daugiau kaip 10 procentų
-
-vienos įmonės vertybinių popierių;
-
-3)
-
-atstovauti kitų šalies ir užsienio valstybių įmonių, įstaigų  ir organizacijų
-
-interesams ir vykti į užsienį jų kvietimu;
-
-4)
-
-streikuoti;
-
-5)
-
-naudotis ne tarnybos reikalams darbovietės turtu;
-
-6)
-
-naudoti darbo laiką ir tarnybos teikiamas galimybes ne tarnybos tikslams;
-
-7)
-
-gauti dovanas už tarnybos pareigų vykdymą, jeigu to nenumato tarptautinis
-
-protokolas.
-
-Valdininkams
-
-nėra  draudžiama būti visų lygių Seimo, Respublikos  Prezidento,  savivaldybių
-
-tarybų  rinkimų  ir referendumų organizavimo komisijų pirmininkais ar nariais
-
-ir gauti  atlyginimą  už  šį  darbą. Rinkimų arba referendumų organizavimo
-
-laikotarpiu valdininkai pagal sutartis su rinkimų arba referendumų komisijomis
-
-gali dirbti ir kitą darbą bei už jį gauti atlyginimą įstatymų nustatyta tvarka.
-
-Valdininkams,
-
-rinkimų arba referendumų komisijų nariams, taip pat valdininkams, dirbantiems
-
-pagal sutartis su rinkimų arba  referendumų  komisijomis,  netaikomas  šio
-
-straipsnio pirmosios dalies 6 punkte numatytas draudimas naudoti darbo laiką ne
-
-tarnybos tikslams, tačiau darbas rinkimų ar referendumo komisijoje neatleidžia
-
-valdininko nuo jo tiesioginių pareigų vykdymo.
-
-*
-
-Pastaba: Valdininkai,  kurie pagal  16 straipsnio 1 punktą gali
-
-eiti
-
-ir mokslininkų bei pedagogų pareigas valstybinėse mokslo  ir
-
-studijų
-
-institucijose, švietimo ir kultūros įstaigose bei gydytojų
-
-pareigas
-
-valstybinėse  gydymo  įstaigose,  turi  teisę,   būdami
-
-valdininkais,
-
-eiti  šias  pareigas ne ilgiau  kaip iki 1998 metų
-
-rugpjūčio
-
-1 dienos.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-1-1354, 96.05.30, Žin., 1996, Nr. 55-1292 (96.06.12)
-
-Nr.
-
-1-1499, 96.08.20, Žin., 1996, Nr. 82-1968 (96.08.30)
-
-17
-
-straipsnis. Valdininkų darbo vertinimas
-
-"A"
-
-lygio valdininkų darbą vertina jų vadovai.
-
-"B"
-
-lygio  valdininkų darbas  vertinamas kasmet  pagal darbovietės vidaus tvarkos
-
-taisykles, o kartą per 3 metus rengiamas jų darbo atestavimas, pagal kurio
-
-rezultatus nustatoma valdininko kvalifikacinė kategorija.
-
-Valdininkų
-
-atestavimą  reglamentuoja  visiems  bendri atestavimo nuostatai, kuriuos
-
-tvirtina Vyriausybė.
-
-Institucijos
-
-vadovas  nustatyta tvarka pagal atestavimo rezultatus sprendžia apie valdininko
-
-pareiginio atlyginimo dydį, ar pakelti  valdininką į aukštesnes pareigas,
-
-pažeminti jo pareigas ar atleisti iš jų pagal darbo įstatymus.
-
-Institucijos vadovas, taip pat tarnybinės etikos komisija gali pareikalauti
-
-prieš laiką atestuoti valdininką, jeigu šis nevykdo arba netinkamai vykdo jam
-
-pavestas pareigas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-74, 97.01.16, Žin., 1997, Nr.6-87 (97.01.22)
-
-18
-
-straipsnis. Valdininkų paskatinimai ir apdovanojimai
-
-Valdininkai
-
-skatinami:
-
-1)
-
-padėka;
-
-2)
-
-pinigine premija;
-
-3)
-
-vardine dovana.
-
-Valdininkai
-
-už  ypatingus  nuopelnus,  už  ilgalaikį nepriekaištingą darbą valstybės
-
-valdymo tarnyboje gali būti pasiūlyti valstybės apdovanojimui gauti.
-
-19
-
-straipsnis. Valdininkų drausminė atsakomybė
-
-Valdininkams,
-
-išskyrus  tuos, kuriems įstatymų numatyta speciali drausminė atsakomybė, už
-
-tarnybinių pareigų, numatytų įstatyme, tarnybos nuostatuose arba pareiginėse
-
-instrukcijose, taip pat už šio įstatymo 14 ir 16 straipsniuose numatytų
-
-reikalavimų nevykdymą ar pažeidimą institucijos vadovo sprendimu, jeigu
-
-įstatymai nenustato kitaip, gali būti skiriamos darbo įstatymų nustatytos
-
-drausminės nuobaudos,  laikantis  juose numatytos nuobaudų skyrimo tvarkos.
-
-Jeigu valdininkas savo poelgiu pažemino valdininko vardą, įstatymų nustatyta
-
-tvarka sudaryta institucijos tarnybinės etikos komisija gali pasiūlyti
-
-institucijos vadovui skirti šiam valdininkui drausminę nuobaudą.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-74, 97.01.16, Žin., 1997, Nr.6-87 (97.01.22)
-
-20
-
-straipsnis. Atsistatydinimas ir atleidimas iš tarnybos
-
-Atsistatydinimas
-
--  tai  valdininko  raštu  pateiktas pareiškimas institucijos vadovui atleisti
-
-iš valstybės valdymo tarnybos šio straipsnio nustatytais atvejais.
-
-"A"
-
-lygio valstybės ir savivaldybių valdininkai, su kuriais sudaroma terminuota
-
-darbo sutartis, atsistatydina sutarties terminui pasibaigus.
-
-“B” lygio valdininkai - nesutikdami su Seimo, Prezidento, Vyriausybės vykdoma
-
-politika, sprendimais ar veiksmais, jei jų veiksmų kritika, pateikta pagal
-
-instancijas darbo tvarka, nedavė teigiamų rezultatų - gali atsistatydinti. Kai
-
-šie valdininkai apie tokį savo nesutikimą pareiškia per visuomenės informavimo
-
-priemones, politinius ir kitus visuomeninius renginius (išskyrus, kai tokie
-
-pareiškimai padaromi vykstant Seimo, Prezidento ar savivaldybių tarybų rinkimų
-
-agitacijai), taip pat šio įstatymo 17 straipsnyje numatytais valdininko neatestavimo
-
-atvejais, jie ne vėliau kaip per 14 dienų privalo atsistatydinti. Jeigu
-
-atsistatydinti atsisako, jie atleidžiami iš darbo įstatymų nustatyta tvarka ir
-
-laikomi atleistais iš valstybės valdymo tarnybos.
-
-Nurodytas
-
-šio  straipsnio trečiojoje  dalyje valdininko savanoriškas atsistatydinimas
-
-turi būti  patenkintas  darbo įstatymų nustatytais pagrindais.
-
-Valdininkų
-
-darbo santykiai gali pasibaigti darbo įstatymų nustatytais pagrindais.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-74, 97.01.16, Žin., 1997, Nr.6-87 (97.01.22)
-
-III skyrius. VALDININKŲ DARBO LAIKAS IR
-
-SOCIALINĖS GARANTIJOS
-
-21
-
-straipsnis. Valdininkų darbo laikas
-
-Valdininkų
-
-darbo laiko trukmę nustato darbo įstatymai. Institucijos vadovo sprendimu
-
-(įsakymu, potvarkiu) jiems gali būti pavesta dirbti ilgiau. Už darbą ilgiau
-
-negu nustatyta laiko trukmė kompensuojama įstatymų nustatyta tvarka.
-
-22
-
-straipsnis. Valdininkų darbo užmokestis
-
-Valdininkų
-
-darbo užmokestį sudaro tarnybinė alga ir kitos įstatymų nustatytos išmokos.
-
-Darbo
-
-užmokestis  mokamas iš valstybės ar savivaldybių biudžeto lėšų.
-
-Valdininkų
-
-darbo užmokestį nustato įstatymas, reguliuojantis visų iš valstybės ir
-
-savivaldybių biudžetų finansuojamų įstaigų ir organizacijų  darbuotojų darbo
-
-apmokėjimą ir pareigybių priskyrimą atitinkamoms kategorijoms.
-
-23
-
-straipsnis. Valdininkų atostogos
-
-Valdininkams
-
-suteikiamos trisdešimties kalendorinių dienų kasmetinės atostogos. Be to, už
-
-kiekvienų penkerių metų darbo stažą valstybės valdymo tarnyboje suteikiama
-
-papildomai po dvi kalendorines dienas, tačiau bendra kasmetinių atostogų trukmė
-
-negali būti ilgesnė kaip keturiasdešimt kalendorinių dienų.
-
-Valdininkų
-
-stažas skaičiuojamas nuo 1990 metų kovo 11 dienos.
-
-24
-
-straipsnis. Garantijos, susijusios su darbu valstybės
-
-valdymo tarnyboje
-
-"A"
-
-lygio valdininkams atsistatydinus (šio įstatymo 20 straipsnio antroji dalis),
 
