@@ -4,7 +4,7 @@ identifier: "TAR.423D6799832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2004-02-07"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2004-02-07 iki 2004-04-30
+Suvestinė redakcija nuo 2004-05-01 iki 2005-05-27
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 17-701, i. k. 1031010ISTA0IX-1315
 
@@ -219,7 +219,11 @@ SU sprogmenIMIS SUSIJUSI ŪKINĖ KOMERCINĖ VEIKLA
 
 2. Kiekvienai šio straipsnio 1 dalyje nurodytai veiklai yra išduodama atskira licencija.
 
-3. Licencijas verstis šio straipsnio 1 dalyje nurodyta veikla gali gauti įmonės, įregistruotos Lietuvos Respublikoje.
+3. Licencijas verstis šio straipsnio 1 dalyje nurodyta veikla gali gauti įstatymų ir kitų teisės aktų nustatyta tvarka Lietuvos Respublikoje įregistruotos įmonės ir Europos Sąjungos bei Europos ekonominės erdvės valstybėse įsteigtų įmonių filialai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA0IX-1965
 
 4. Sprendimas dėl licencijos išdavimo priimamas ne vėliau kaip per 60 kalendorinių dienų nuo būtinų dokumentų pateikimo dienos.
 
