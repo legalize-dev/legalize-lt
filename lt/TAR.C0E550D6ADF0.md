@@ -4,7 +4,7 @@ identifier: "TAR.C0E550D6ADF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2003-11-06"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 department: "Lietuvos Respublikos Seimas"
@@ -262,21 +262,19 @@ metinėse privačių interesų deklaracijose turi būti nurodyta deklaruojančio
 
 jo sutuoktinio:
 
-1) pagal Gyventojų turto ir pajamų deklaravimo
+1) mokesčių inspekcijai privalomo deklaruoti turto
 
-įstatymą mokesčių inspekcijai privalomo deklaruoti turto, piniginių lėšų,
+ir pajamų mokesčio duomenys. Šis reikalavimas netaikomas tuo atveju, jei asmuo
 
-vertybinių popierių, turtinių įsipareigojimų, pajamų ir mokesčių duomenys. Šis
+yra pildęs gyventojo turto ir gyventojų pajamų mokesčio deklaracijas už
 
-reikalavimas netaikomas tuo atveju, jei asmuo yra pildęs Lietuvos Respublikos
+paskutinius metus. Tuomet pateikiami šių deklaracijų nuorašai (kopijos);
 
-turto ir pajamų deklaraciją už paskutinius kalendorinius metus. Tuomet
+2) kiti turtiniai
 
-pateikiamas šios deklaracijos nuorašas (kopija);
+įsipareigojimai, užtikrinantys prievolių įvykdymą, nenurodyti turto ir pajamų
 
-2) kiti turtiniai įsipareigojimai,
-
-užtikrinantys prievolių įvykdymą, nenurodyti turto ir pajamų deklaracijoje;
+deklaracijoje;
 
 3) įmonės pavadinimas, buveinės adresas,
 
@@ -296,9 +294,9 @@ kitų fizinių ar juridinių asmenų suteiktos paslaugos, jeigu jų vertė yra
 
 didesnė nei 5 MGL ir jeigu tai gali sukelti viešųjų ir privačių interesų
 
-konfliktą, išskyrus atvejus, kai paslaugas apmoka ar suteikia artimieji
+konfliktą, išskyrus atvejus, kai paslaugas apmoka ar suteikia artimieji giminaičiai
 
-giminaičiai ar šeimos nariai;
+ar šeimos nariai;
 
 6) pareigos ir ryšiai su įmonėmis ar
 
@@ -334,21 +332,27 @@ Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 
 35-1165 (2001 04 25)
 
+Nr.
+
+IX-1912,
+
+2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
+
 7 straipsnis. Deklaracija paaiškėjus
 
 naujoms aplinkybėms
 
-Jeigu paaiškėja naujos aplinkybės, kurios
+Jeigu paaiškėja naujos aplinkybės,
 
-nebuvo nurodytos pateiktoje deklaracijoje, valstybinėje tarnyboje dirbantis
+kurios nebuvo nurodytos pateiktoje deklaracijoje, valstybinėje tarnyboje
 
-asmuo, įsitikinęs, kad jis, jo artimieji giminaičiai, šeimos nariai svarstomu
+dirbantis asmuo, įsitikinęs, kad jis, jo artimieji giminaičiai, šeimos nariai
 
-klausimu yra suinteresuoti ir tai gali sukelti interesų konfliktą, privalo
+svarstomu klausimu yra suinteresuoti ir tai gali sukelti interesų konfliktą,
 
-nedelsdamas raštu apie tai informuoti savo tiesioginį vadovą ar institucijos
+privalo nedelsdamas raštu apie tai informuoti savo tiesioginį vadovą ar
 
-vadovo įgaliotą atstovą ir pateikti papildomą deklaraciją.
+institucijos vadovo įgaliotą atstovą ir pateikti papildomą deklaraciją.
 
 8 straipsnis. Deklaracijų formos ir
 
@@ -370,17 +374,17 @@ Jeigu reikia patikrinti, ar
 
 deklaracijoje pateikti duomenys atitinka tikrovę, tikrina:
 
-1) šio įstatymo 6 straipsnio 1 dalies
+1) šio įstatymo 6 straipsnio 1 dalies 1-5
 
-1-5 punktuose nurodytus duomenis - institucijos vadovo ar Vyriausiosios
+punktuose nurodytus duomenis - institucijos vadovo ar Vyriausiosios tarnybinės
 
-tarnybinės etikos komisijos teikimu Valstybinė mokesčių inspekcija;
+etikos komisijos teikimu Valstybinė mokesčių inspekcija;
 
 2) šio įstatymo 6 straipsnio 1 dalies 6,
 
-7 punktuose nurodytus duomenis - institucijos vadovas, jo įgaliotas atstovas arba
+7 punktuose nurodytus duomenis - institucijos vadovas, jo įgaliotas atstovas
 
-Vyriausioji tarnybinės etikos komisija.
+arba Vyriausioji tarnybinės etikos komisija.
 
 10 straipsnis. Metinių privačių interesų
 
@@ -646,9 +650,9 @@ nurodytų dovanų vertė viršija 1 minimalų gyvenimo lygį (toliau - MGL), o
 
 paslaugų vertė viršija 5 MGL, asmuo, dirbantis valstybinėje tarnyboje, privalo
 
-tai per kalendorinį mėnesį deklaruoti. Ši deklaracija pridedama prie metinės
+tai per kalendorinį mėnesį deklaruoti. Ši deklaracija pridedama prie metinės privačių
 
-privačių interesų deklaracijos ir yra jos priedas.
+interesų deklaracijos ir yra jos priedas.
 
 4. Jeigu šio straipsnio 2 dalyje
 
@@ -712,9 +716,9 @@ atstovą apie tai, kad jis priėmė siūlymą pereiti į kitą darbą. Instituci
 
 vadovas ar jo įgaliotas atstovas, nustatęs, kad šis asmuo yra artimai tarnybos
 
-santykiais susijęs su būsimuoju darbdaviu, turi nedelsdamas imtis priemonių,
+santykiais susijęs su būsimuoju darbdaviu, turi nedelsdamas imtis priemonių, kad
 
-kad būtų pašalinta interesų konflikto grėsmė.
+būtų pašalinta interesų konflikto grėsmė.
 
 PENKTASIS
 
@@ -730,21 +734,19 @@ darbo sutartį
 
 Asmuo, nustojęs eiti pareigas
 
-valstybinėje tarnyboje, vienerius metus neturi dirbti įmonės vadovu, vadovo
+valstybinėje tarnyboje, vienerius metus neturi dirbti įmonės vadovu, vadovo pavaduotoju,
 
-pavaduotoju, būti įmonės tarybos ar valdybos nariu, taip pat eiti kitas
+būti įmonės tarybos ar valdybos nariu, taip pat eiti kitas pareigas, tiesiogiai
 
-pareigas, tiesiogiai susijusias su sprendimų priėmimu įmonės valdymo, turto
+susijusias su sprendimų priėmimu įmonės valdymo, turto tvarkymo, finansų
 
-tvarkymo, finansų apskaitos bei kontrolės srityse, jeigu per paskutinius darbo
+apskaitos bei kontrolės srityse, jeigu per paskutinius darbo metus jo tarnyba
 
-metus jo tarnyba buvo tiesiogiai susijusi su šių įmonių veiklos priežiūra ar
+buvo tiesiogiai susijusi su šių įmonių veiklos priežiūra ar kontrole arba jeigu
 
-kontrole arba jeigu asmuo dalyvavo svarstant ir priimant palankius šioms
+asmuo dalyvavo svarstant ir priimant palankius šioms įmonėms sprendimus
 
-įmonėms sprendimus konkurso ar kitokiu būdu teikti valstybės užsakymus ar
-
-finansinę paramą.
+konkurso ar kitokiu būdu teikti valstybės užsakymus ar finansinę paramą.
 
 Straipsnio pakeitimai:
 
@@ -906,19 +908,19 @@ tarnybinės etikos komisijos nurodymu arba gavę pareiškimą, kad kuris nors
 
 asmuo, dirbantis jiems pavaldžioje valstybinėje tarnyboje, savo tarnybinėje
 
-veikloje nevykdo šio įstatymo reikalavimų, gali atlikti šio asmens tarnybinės
+veikloje nevykdo šio įstatymo reikalavimų, gali atlikti šio asmens tarnybinės veiklos
 
-veiklos patikrinimą. Tokiam tikrinimui įstaigoje gali būti įsteigta Tarnybinės
+patikrinimą. Tokiam tikrinimui įstaigoje gali būti įsteigta Tarnybinės etikos
 
-etikos komisija. Apie tikrinimo rezultatus informuojamas pareiškimą pateikęs
+komisija. Apie tikrinimo rezultatus informuojamas pareiškimą pateikęs asmuo,
 
-asmuo, asmuo, kurio veikla buvo tikrinta, taip pat Vyriausioji tarnybinės
+asmuo, kurio veikla buvo tikrinta, taip pat Vyriausioji tarnybinės etikos
 
-etikos komisija. Vyriausioji tarnybinės etikos komisija supažindinama ir su
+komisija. Vyriausioji tarnybinės etikos komisija supažindinama ir su visais
 
-visais gaunamais pareiškimais, kuriuose pateikiama informacija apie šio
+gaunamais pareiškimais, kuriuose pateikiama informacija apie šio įstatymo
 
-įstatymo pažeidimus.
+pažeidimus.
 
 23 straipsnis. Vyriausioji tarnybinės
 
@@ -1276,15 +1278,41 @@ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 2, 4, 5, 10, 
 
 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1912,
+
+2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
+
+PROKURATŪROS
+
+ĮSTATYMO, VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE
+
+ĮSTATYMO, SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO, PREZIDENTO RINKIMŲ ĮSTATYMO,
+
+SEIMO RINKIMŲ ĮSTATYMO, PINIGINĖS SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS
+
+ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS) ĮSTATYMO, VALSTYBĖS GARANTUOJAMOS
+
+TEISINĖS PAGALBOS ĮSTATYMO IR VALSTYBĖS KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2004-01-01.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-11-26)
+Aušra Bodin (2003-12-31)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
 25 straipsnis. Įstatymo įgyvendinimas
 
