@@ -4,7 +4,7 @@ identifier: "TAR.033D686E8F1B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2002-03-19"
+last_updated: "2002-05-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 department: "Lietuvos Respublikos Seimas"
@@ -469,13 +469,9 @@ Transporto išlaidų kompensacijų mokėjimo tvarką nustato Vyriausybė arba jo
 
 įgaliota institucija.
 
-TREČIASIS
+[7 straipsnio redakcija nuo
 
-SKIRSNIS
-
-VEŽĖJŲ
-
-NEGAUTŲ PAJAMŲ ATLYGINIMO TVARKA IR ŠALTINIAI
+2002 m. liepos 1 d.:
 
 8 straipsnis. Vežėjų negautų
 
@@ -513,25 +509,27 @@ sausio 1 d. - iš valstybės biudžeto;
 
 4) dėl važiavimo
 
-vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir
+vietinio (miesto ir priemiestinio)
 
-troleibusais lengvatų, nustatytų šio įstatymo 5 straipsnio 1, 2, 5 ir 6 dalyse, – iš savivaldybių, išdavusių
+reguliaraus susisiekimo autobusais ir troleibusais lengvatų, nustatytų šio
 
-šiems vežėjams leidimus vežti keleivius vietinio (miesto ir priemiestinio)
+įstatymo 5 straipsnio 1, 2, 5 ir 6 dalyse, – iš savivaldybių, išdavusių šiems
 
-reguliaraus susisiekimo autobusais ir troleibusais, biudžetų;
+vežėjams leidimus vežti keleivius vietinio (miesto ir priemiestinio)
+
+reguliaraus susisiekimo autobusais ir
+
+troleibusais, biudžetų;
 
 5) dėl važiavimo
 
-vietinio (priemiestinio) reguliaraus susisiekimo autobusais, vežančiais keleivius per dviejų gretimų savivaldybių, iš kurių
+vietinio (priemiestinio) reguliaraus susisiekimo autobusais, vežančiais
 
-viena yra didžiųjų miestų - Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir
+keleivius per dviejų gretimų savivaldybių, iš kurių viena yra didžiųjų miestų -
 
-Alytaus - savivaldybė, teritorijas, - iš miesto ir apie jį esančios
+Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir Alytaus - savivaldybė, teritorijas, - iš miesto ir apie jį esančios
 
-savivaldybės biudžetų solidariai pagal
-
-tarpusavio susitarimą.
+savivaldybės biudžetų solidariai pagal tarpusavio susitarimą.
 
 KETVIRTASIS
 
@@ -551,9 +549,9 @@ m. gegužės 1 d., išskyrus 7 straipsnio 1 dalį, kuri įsigalioja nuo 2001 m.
 
 sausio 1 d.
 
-10 straipsnis. Įstatymo įgyvendinimo
+10 straipsnis. Įstatymo
 
-tvarka
+įgyvendinimo tvarka
 
 Vyriausybė iki 2000 m. balandžio
 
@@ -609,314 +607,6 @@ TRANSPORTO
 
 LENGVATŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-***
-
-Pabaiga ***
-
-Redagavo:
-
-Aušrinė Trapinskienė (2002-04-09)
-
-autrap@lrs.lt
-
-6 straipsnis. Važiavimo išlaidų kompensavimas
-
-mokiniams, vaikų globos įstaigų gyventojams, mokytojams ir gydytojams
-
-Savivaldybės,
-
-kurių teritorijoje yra švietimo ir sveikatos priežiūros įstaigos, savo
-
-nustatyta tvarka kompensuoja visas važiavimo išlaidas:
-
-1) kaimuose ir miesteliuose gyvenantiems
-
-bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir neformaliojo vaikų
-
-švietimo įstaigų mokiniams, šių mokyklų ar įstaigų darbo dienomis važiavusiems
-
-į mokyklą ar įstaigą iki 40 km ir atgal mokinio pažymėjime nurodytu maršrutu
-
-vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo
-
-reguliaraus susisiekimo autobusais, keleiviniais traukiniais bei reguliaraus
-
-susisiekimo laivais ir keltais; neformaliojo vaikų švietimo įstaigų mokiniams
-
-ši lengvata taikoma ir ne darbo dienomis;
-
-2)
-
-vaikų globos namuose, specialiuosiuose
-
-vaikų globos ir auklėjimo namuose gyvenantiems našlaičiams ir likusiems be tėvų
-
-globos vaikams, internatinių bei kitų bendrojo lavinimo mokyklų ir profesinio
-
-mokymo įstaigų bendrabučiuose gyvenantiems mokiniams, važiavusiems mokinio
-
-pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
-
-autobusais, tolimojo reguliaraus susisiekimo autobusais,
-
-keleiviniais traukiniais bei reguliaraus susisiekimo laivais ir keltais;
-
-3) kaimuose ir
-
-miesteliuose esančių bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir
-
-neformaliojo vaikų ir suaugusiųjų švietimo įstaigų mokytojams, kaimuose ir
-
-miesteliuose esančių sveikatos priežiūros įstaigų gydytojams, jų darbo šiose
-
-mokyklose ar įstaigose dienomis važiavusiems į darbą iki 40 km ir atgal
-
-vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo
-
-reguliaraus susisiekimo autobusais, keleiviniais traukiniais bei reguliaraus
-
-susisiekimo laivais ir keltais.
-
-Straipsnio pakeitimai:
-
-Nr.
-
-IX-2581,
-
-2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
-
-Nr. X-1312, 2007-11-06, Žin., 2007, Nr. 120-4879
-
-(2007-11-22)
-
-7
-
-straipsnis. Teisė į transporto išlaidų kompensaciją
-
-1. Neįgalieji,
-
-turintys sutrikusią judėjimo funkciją, turi teisę:
-
-1) kiekvieną mėnesį gauti 0,25 minimalaus gyvenimo lygio
-
-(MGL) dydžio transporto išlaidų kompensaciją;
-
-2)
-
-vieną kartą per 6 metus gauti iki 32 MGL dydžio specialių lengvųjų automobilių
-
-įsigijimo ir jų techninio pritaikymo išlaidų kompensaciją, jeigu šie asmenys
-
-gali patys vairuoti šiuos lengvuosius automobilius.
-
-2.
-
-Laikotarpiu, kai neįgalusis, turintis teisę gauti transporto išlaidų
-
-kompensaciją, atlieka bausmę laisvės atėmimo vietoje, ši kompensacija nemokama.
-
-Šis laikotarpis taip pat neįskaitomas specialiųjų lengvųjų automobilių
-
-įsigijimo ir jų techninio pritaikymo išlaidų kompensacijai gauti.
-
-3.
-
-Kompensacijos, nustatytos šio straipsnio 1 dalyje, mokamos iš valstybės
-
-biudžeto.
-
-4.
-
-Transporto išlaidų kompensacijų mokėjimo tvarką nustato Vyriausybė arba jos
-
-įgaliota institucija.
-
-Straipsnio pakeitimai:
-
-Nr. IX-919,
-
-2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21)
-
-Nr.
-
-X-189,
-
-2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
-
-TREČIASIS
-
-SKIRSNIS
-
-VEŽĖJŲ IŠLAIDŲ
-
-KOMPENSAVIMO (NEGAUTŲ PAJAMŲ ATLYGINIMO)
-
-TVARKA IR ŠALTINIAI
-
-Skirsnio pavadinimas keistas:
-
-Nr. IX-1192,
-
-2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
-
-8
-
-straipsnis. Vežėjų išlaidų kompensavimo (negautų pajamų atlyginimo) tvarka ir
-
-šaltiniai
-
-Vežėjų
-
-išlaidos (negautos pajamos), susijusios su lengvatų taikymu, kompensuojamos
-
-(atlyginamos) pagal su jais sudarytas sutartis iš valstybės ir
-
-savivaldybių biudžetų Vyriausybės nustatyta tvarka:
-
-1)
-
-dėl važiavimo keleiviniais traukiniais lengvatų, nustatytų šio įstatymo 5
-
-straipsnio 1-5 ir 7 dalyse, –
-
-iš valstybės biudžeto;
-
-2) dėl važiavimo
-
-reguliaraus susisiekimo laivais ir keltais lengvatų, nustatytų šio įstatymo 5
-
-straipsnio 1, 2, 4, 5 ir 7 dalyse, – iš savivaldybių, kuriose
-
-įregistruotos šių vežėjų įmonės, biudžetų;
-
-3) dėl važiavimo
-
-tolimojo reguliaraus susisiekimo autobusais lengvatų, nustatytų šio įstatymo 5
-
-straipsnio 1–5 ir 7 dalyse, – iš valstybės biudžeto;
-
-4) dėl važiavimo
-
-vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir
-
-troleibusais lengvatų, nustatytų šio įstatymo 5 straipsnio 1, 2, 5, 6 ir 7
-
-dalyse, – iš savivaldybių, išdavusių šiems vežėjams leidimus vežti keleivius
-
-vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir
-
-troleibusais, biudžetų;
-
-5) dėl važiavimo
-
-vietinio (priemiestinio) reguliaraus susisiekimo autobusais, vežančiais
-
-keleivius per dviejų gretimų savivaldybių, iš kurių viena yra didžiųjų miestų –
-
-Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir Alytaus – savivaldybė,
-
-teritorijas, – iš miesto ir apie jį esančios savivaldybės biudžetų solidariai
-
-pagal tarpusavio susitarimą.
-
-Straipsnio pakeitimai:
-
-Nr. IX-1192,
-
-2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
-
-Nr. IX-1643,
-
-2003-06-24, Žin., 2003, Nr. 69-3117 (2003-07-10)
-
-Nr.
-
-IX-2581,
-
-2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
-
-KETVIRTASIS
-
-SKIRSNIS
-
-BAIGIAMOSIOS
-
-NUOSTATOS
-
-9
-
-straipsnis. Įstatymo įsigaliojimas
-
-Šis įstatymas įsigalioja nuo 2000
-
-m. gegužės 1 d., išskyrus 7 straipsnio 1 dalį, kuri įsigalioja nuo 2001 m.
-
-sausio 1 d.
-
-10
-
-straipsnis. Įstatymo įgyvendinimo tvarka
-
-Vyriausybė iki 2000 m. balandžio
-
-30 d. nustato šio įstatymo įgyvendinimo tvarką.
-
-11
-
-straipsnis. Atsakomybė už šio įstatymo pažeidimus
-
-Asmenys, pažeidę šio įstatymo
-
-reikalavimus, atsako įstatymų nustatyta tvarka.
-
-12
-
-straipsnis. Teisės akto pripažinimas netekusiu galios
-
-Įsigaliojus šiam įstatymui,
-
-netenka galios Lietuvos Respublikos įstatymas „Dėl važiavimo keleiviniu
-
-transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų
-
-asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos“ (Žin.,
-
-1995, Nr. 87-1954,
-
-Nr.107-2399;
-
-1997, Nr.117-3014;
-
-1999, Nr.60-1958).
-
-Skelbiu šį Lietuvos
-
-Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                                                         VALDAS
-
-ADAMKUS
-
-_______________
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-791,
-
-2002-03-19, Žin., 2002, Nr. 37-1343 (2002-04-09)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
 2.
 
 Lietuvos
@@ -937,155 +627,13 @@ LENGVATŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Įstatymas įsigalioja nuo 2002 m. liepos 1 d.
 
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1192,
-
-2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 1, 5, 8 STRAIPSNIŲ IR TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO
-
-ĮSTATYMAS
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1643,
-
-2003-06-24, Žin., 2003, Nr. 69-3117 (2003-07-10)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 5, 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
-
-5.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-2581,
-
-2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 5, 6 IR 8 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2005 m. sausio 1 d.
-
-6.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. X-189, 2005-05-12,
-
-Žin., 2005, Nr. 67-2401 (2005-05-28)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 5 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2005 m. liepos 1 d.
-
-7.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-576,
-
-2006-04-25, Žin., 2006, Nr. 53-1929 (2006-05-13)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2007 m. sausio 1 d.
-
-8.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1312, 2007-11-06, Žin., 2007, Nr. 120-4879 (2007-11-22)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja 2008 m. sausio 1 d.
-
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2007-11-22)
+Aušrinė Trapinskienė (2002-06-21)
 
 autrap@lrs.lt
-
-71 straipsnis. Teisės gauti transporto išlaidų kompensaciją išsaugojimas
-
-1. Asmenys, kuriems yra nustatytas specialusis transporto išlaidų kompensacijos poreikis, turi teisę kiekvieną mėnesį gauti 0,25 BSI dydžio transporto išlaidų kompensaciją iki nustatyto specialiojo transporto išlaidų kompensacijos poreikio termino pabaigos.
-
-2. Laikotarpiu, kai asmenys, kuriems nustatytas specialusis transporto išlaidų kompensacijos poreikis, atlieka laisvės atėmimo bausmę, transporto išlaidų kompensacija nemokama.
-
-Papildyta straipsniu:
-
-Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
-
-TREČIASIS SKIRSNIS
-
-VEŽĖJŲ IŠLAIDŲ KOMPENSAVIMO (NEGAUTŲ PAJAMŲ ATLYGINIMO) TVARKA IR ŠALTINIAI
-
-Skirsnio pavadinimas keistas:
-
-Nr. IX-1192, 2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
-
-51 straipsnis. Važiavimo keleiviniu transportu lengvatų teikimas
-
-1. Teisę naudotis važiavimo keleiviniu transportu lengvata turi asmenys, pateikę keleivinį transportą kontroliuojantiems pareigūnams ir vežėjui šio įstatymo 4 straipsnio 1 dalyje ir 5 straipsnyje nurodytą statusą ar aplinkybes patvirtinančius dokumentus (pažymėjimus) (toliau – statusą patvirtinantys dokumentai), išskyrus atvejus, kai nėra abejonių, kad vaikas, kuris ketina važiuoti ar važiuoja keleiviniu transportu, yra jaunesnis kaip 7 metų.
-
-2. Statusą patvirtinančių dokumentų pavyzdžių pateikimo keleivinį transportą kontroliuojantiems pareigūnams ir vežėjams tvarką nustato Vyriausybė.
-
-3. Asmenims Lietuvos Respublikoje naudojantis važiavimo keleiviniu transportu lengvata galioja kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių, taip pat kitų užsienio valstybių išduoti statusą patvirtinantys dokumentai.
-
-Papildyta straipsniu:
-
-Nr. XIII-3418, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24574
 
