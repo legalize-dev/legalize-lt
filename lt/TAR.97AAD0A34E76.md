@@ -4,7 +4,7 @@ identifier: "TAR.97AAD0A34E76"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-01"
-last_updated: "2001-06-05"
+last_updated: "2002-03-26"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.97AAD0A34E76"
 department: "Lietuvos Respublikos Seimas"
@@ -76,9 +76,13 @@ ar firmos padalinį ir leidžia ją atskirti nuo kitų firmų ar firmų padalini
 
 4. Simbolinis
 
-vardas - žodis ar žodžių junginys, vartojamas perkeltine reikšme kaip
+vardas – žodis ar žodžių junginys, vartojamas perkeltine reikšme kaip
 
-sutartinis žodinis ženklas.
+sutartinis žodinis ženklas, taip pat raidės ar skaitmenys, kurie negali būti
+
+suprantami kaip žodžiai, tačiau suprantami kaip firmos vardas ir neklaidina
+
+visuomenės.
 
 5.
 
@@ -95,6 +99,12 @@ asmuo arba jų grupė, padavę paraišką firmos vardui įregistruoti.
 registrai - valstybės registrai, kuriuose registruojamos visų rūšių įmonės,
 
 viešosios įstaigos, kredito unijos ir kitos kredito įstaigos.
+
+Straipsnio pakeitimai:
+
+Nr. IX-810,
+
+2002-03-26, Žin., 2002, Nr. 38-1357 (2002-04-10)
 
 3 straipsnis.
 
@@ -162,11 +172,9 @@ simbolinio vardo ir (ar) iš firmos rūšį nusakančių žodžių ar jų santru
 
 tiesioginės reikšmės pavadinimo.
 
-2.
+2. Firmos vardas
 
-Firmos vardas turi būti sudarytas laikantis lietuvių bendrinės kalbos normų ir
-
-Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo nutarimų.
+turi būti sudarytas laikantis lietuvių bendrinės kalbos normų.
 
 3. Firmos vardas
 
@@ -188,9 +196,9 @@ esantis tiesioginės reikšmės pavadinimas negali būti sudarytas arba tik iš
 
 tiesioginę veiklos rūšį ar prekių (paslaugų) rūšį nurodančio žodžio (žodžių),
 
-arba tik iš vietovardžio, arba tik iš kitokio žodžio (žodžių), neturinčio
+arba tik iš vietovardžio, arba tik iš kitokio žodžio (žodžių), neturinčio skiriamojo
 
-skiriamojo požymio.
+požymio.
 
 6.
 
@@ -198,15 +206,15 @@ Lietuvos Respublikos oficialusis ar tradicinis (trumpasis) pavadinimas firmos
 
 varde gali būti vartojamas Vyriausybės nustatyta tvarka.
 
-7. Firmos varde
+7. (Neteko
 
-esantis simbolinis vardas ar tiesioginės reikšmės pavadinimas, susidedantis iš
+galios)
 
-raidžių, kurios negali būti suprantamos kaip žodžiai, ir (ar) skaitmenų arba jų
+Straipsnio pakeitimai:
 
-derinių, gali būti įregistruojamas tik tada, jeigu toks firmos vardas yra
+Nr. IX-810,
 
-nusistovėjęs rinkoje.
+2002-03-26, Žin., 2002, Nr. 38-1357 (2002-04-10)
 
 5 straipsnis.
 
@@ -466,15 +474,7 @@ atstovas;
 
 2) dokumentas,
 
-patvirtinantis, kad sumokėta valstybinė rinkliava;
-
-[4 dalies 2 punkto redakcija nuo 2001 m.
-
-liepos 1 d.:
-
-2) dokumentas,
-
-patvirtinantis, kad sumokėtas nustatytas mokestis;]
+patvirtinantis, kad sumokėtas nustatytas mokestis;
 
 3) pareiškėjo
 
@@ -668,17 +668,17 @@ apskųsti teismui.
 
 Firmos vardo įregistravimas ir firmos vardo liudijimas
 
-1. Priėmus
+1. Priėmus sprendimą
 
-sprendimą įregistruoti firmos vardą, Firmų vardų registro tvarkymo įstaiga šį
+įregistruoti firmos vardą, Firmų vardų registro tvarkymo įstaiga šį vardą įrašo
 
-vardą įrašo į Firmų vardų registrą ir išduoda pareiškėjui firmos vardo
+į Firmų vardų registrą ir išduoda pareiškėjui firmos vardo liudijimą. Liudijimo
 
-liudijimą. Liudijimo formą nustato Firmų vardų registro tvarkymo įstaiga. Jeigu
+formą nustato Firmų vardų registro tvarkymo įstaiga. Jeigu pareiškėjas per 30
 
-pareiškėjas per 30 dienų nuo firmos vardo liudijimo išdavimo dienos nepasiima
+dienų nuo firmos vardo liudijimo išdavimo dienos nepasiima firmos vardo
 
-firmos vardo liudijimo, šis liudijimas išsiunčiamas jam paštu.
+liudijimo, šis liudijimas išsiunčiamas jam paštu.
 
 2. Firmos vardo
 
@@ -708,9 +708,9 @@ Pasibaigus šio straipsnio 5 dalyje nustatytam terminui, firmos vardo laikina
 
 teisinė apsauga netenka galios.
 
-16 straipsnis. Firmos
+16 straipsnis.
 
-vardo išregistravimas
+Firmos vardo išregistravimas
 
 1. Firmos vardas
 
@@ -740,9 +740,7 @@ reorganizuotos firmos neperima išimtinės teisės į firmos vardą.
 
 2. Firmų vardų
 
-registro tvarkymo įstaiga firmos vardą išregistruoja gavusi vieną iš šių
-
-dokumentų:
+registro tvarkymo įstaiga firmos vardą išregistruoja gavusi vieną iš šių dokumentų:
 
 1) įsiteisėjusį
 
@@ -790,17 +788,9 @@ padaryti pakeitimą pagrindžiančius dokumentus;
 
 liudijimo originalą ar dublikatą;
 
-4)
-
-dokumentą, patvirtinantį, kad sumokėta valstybinė rinkliava.
-
-[1 dalies 4 punkto redakcija nuo 2001 m.
-
-liepos 1 d.:
-
 4) dokumentą,
 
-patvirtinantį, kad sumokėtas nustatytas mokestis.]
+patvirtinantį, kad sumokėtas nustatytas mokestis.
 
 2.
 
@@ -828,7 +818,9 @@ KETVIRTASIS
 
 SKIRSNIS
 
-BAIGIAMOSIOS NUOSTATOS
+BAIGIAMOSIOS
+
+NUOSTATOS
 
 18 straipsnis.
 
@@ -932,9 +924,29 @@ FIRMŲ VARDŲ ĮSTATYMO 11 IR 17 STRAIPSNIŲ PAKEITIMO
 
 nuo 2001 m. liepos 1 d.
 
-*** Pabaiga ***
+2.
 
-Redagavo: Aušrinė Trapinskienė (2001-06-20)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-810,
+
+2002-03-26, Žin., 2002, Nr. 38-1357 (2002-04-10)
+
+FIRMŲ
+
+VARDŲ ĮSTATYMO 2 STRAIPSNIO PAPILDYMO IR 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2002-04-12)
 
 autrap@lrs.lt
 
