@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2000-10-17"
+last_updated: "2001-05-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -2291,11 +2291,11 @@ programai vykdyti, taip pat palaiko ryšius su visuomeninėmis ir politinėmis
 
 organizacijomis.
 
-2. Vyriausybės kancleris pagal savo
+2. Vyriausybės
 
-kompetenciją gali leisti pavedimus – rezoliucijas, išskyrus pavedimus
+kancleris pagal savo kompetenciją gali leisti pavedimus – rezoliucijas Ministro
 
-Vyriausybės nariams ir Vyriausybės įstaigų vadovams.
+Pirmininko aparato tarnautojams.
 
 3. Vyriausybės
 
@@ -2326,6 +2326,10 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
+
+Nr. IX-331, 2001 05 17, Žin., 2001, Nr.
+
+48-1656 (2001 06 06)
 
 46 straipsnis.
 
@@ -2509,6 +2513,16 @@ Nr. VIII-2050, 2000
 
 VYRIAUSYBĖS ĮSTATYMO 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-331, 2001 05 17, Žin., 2001, Nr.
+
+48-1656 (2001 06 06)
+
+VYRIAUSYBĖS ĮSTATYMO 45 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Konstitucinio
@@ -2523,15 +2537,23 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 8
 
-STRAIPSNIO 2 IR 4 DALIŲ, 9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22
+STRAIPSNIO 2 IR 4 DALIŲ,
 
-STRAIPSNIO 1 PUNKTO, 24 STRAIPSNIO 2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3
+9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22 STRAIPSNIO 1 PUNKTO, 24
 
-DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4
+STRAIPSNIO
 
-DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3 DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4
 
-Redagavo: Aušrinė Trapinskienė (2000 11 02)
+DALIŲ IR
+
+6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4 DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO
+
+LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2001 06 06)
 
 autrap@lrs.lt
 
