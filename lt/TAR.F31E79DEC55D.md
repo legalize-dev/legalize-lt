@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2003-10-16"
+last_updated: "2003-12-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -842,67 +842,65 @@ medžiaga projektuotojo parinkimo konkursui bei gali būti naudojamas
 
 projektavimo sąlygoms parengti.
 
-32.
+32. Statinio
 
-Statinio projektavimo sąlygos – privalomieji reikalavimai, jeigu jie
+projektavimo sąlygos
 
-nenustatyti ar nepakankamai išsamiai nurodyti teritorijų planavimo
+– privalomieji reikalavimai, jeigu jie nenustatyti ar nepakankamai išsamiai
 
-dokumentuose: tiesti komunalinius ir vietinius inžinerinius tinklus, prijungti
+nurodyti teritorijų planavimo dokumentuose: tiesti komunalinius ir vietinius
 
-prie jų statinio ir technologines inžinerines sistemas, taip pat statybos
+inžinerinius tinklus, prijungti prie jų statinio ir technologines inžinerines
 
-sklypo inžinerinius tinklus; nutiesti susisiekimo komunikacijas, prijungti prie
+sistemas, taip pat statybos sklypo inžinerinius tinklus; nutiesti susisiekimo
 
-jų statybos sklypo susisiekimo komunikacijas; savivaldybės mero (jo įgalioto
+komunikacijas, prijungti prie jų statybos sklypo susisiekimo komunikacijas;
 
-savivaldybės administratoriaus ar kito savivaldybės administracijos tarnautojo)
+savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės
 
-nustatomi statinio architektūros ir statybos sklypo tvarkymo urbanistiniai
+administracijos valstybės tarnautojo) nustatomi statinio architektūros ir
 
-reikalavimai, atitinkantys šio ir kitų įstatymų bei teritorijų planavimo
+statybos sklypo tvarkymo urbanistiniai reikalavimai, atitinkantys šio ir kitų
 
-dokumentų nustatytus statybos sklypo (ar teritorijos) tvarkymo ar apsaugos
+įstatymų bei teritorijų planavimo dokumentų nustatytus statybos sklypo (ar teritorijos)
 
-reikalavimus (reglamentą), atsižvelgiant į statinio paskirtį, konkrečią
+tvarkymo ar apsaugos reikalavimus (reglamentą), atsižvelgiant į statinio
 
-statybos vietą, gretimybes bei trečiųjų asmenų pagrįstų teisių apsaugą,
+paskirtį, konkrečią statybos vietą, gretimybes bei trečiųjų asmenų pagrįstų
 
-susijusią su statinio statyba; daugiabučio gyvenamojo namo bendrojo naudojimo
+teisių apsaugą, susijusią su statinio statyba; daugiabučio gyvenamojo namo
 
-patalpų rekonstravimo ir gyvenamųjų patalpų paskirties keitimo reikalavimai;
+bendrojo naudojimo patalpų rekonstravimo ir gyvenamųjų patalpų paskirties
 
-planuojamos ūkinės veiklos poveikio aplinkai vertinimo dokumentai (Planuojamos
+keitimo reikalavimai; planuojamos ūkinės veiklos poveikio aplinkai vertinimo
 
-ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatytais atvejais);
+dokumentai (Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo
 
-aplinkos apsaugos institucijos nustatyti gamtos išteklių naudojimo reikalavimai
+nustatytais atvejais); aplinkos apsaugos institucijos nustatyti gamtos išteklių
 
-(tuo atveju, kai neprivalomas planuojamos ūkinės veiklos poveikio aplinkai
+naudojimo reikalavimai (tuo atveju, kai neprivalomas planuojamos ūkinės veiklos
 
-vertinimas, bet užbaigus statyti statinį yra reikalingas šios institucijos
+poveikio aplinkai vertinimas, bet užbaigus statyti statinį yra reikalingas šios
 
-leidimas naudoti gamtos išteklius); už nekilnojamųjų kultūros paveldo vertybių
+institucijos leidimas naudoti gamtos išteklius); už nekilnojamųjų kultūros
 
-apsaugą atsakingos įgaliotos institucijos patvirtintas nekilnojamosios kultūros
+paveldo vertybių apsaugą atsakingos įgaliotos institucijos patvirtintas
 
-paveldo vertybės apsaugos reglamentas (arba laikinas reglamentas), kurio sąvoka
+nekilnojamosios kultūros paveldo vertybės apsaugos reglamentas (arba laikinas
 
-apibrėžta Nekilnojamųjų kultūros vertybių apsaugos įstatyme; Vyriausybės
+reglamentas), kurio sąvoka apibrėžta Nekilnojamųjų kultūros vertybių apsaugos
 
-įgaliotos institucijos patvirtintas saugomos teritorijos reglamentas (arba
+įstatyme; Vyriausybės įgaliotos institucijos patvirtintas saugomos teritorijos
 
-laikinas reglamentas), kurio sąvoka apibrėžta Saugomų teritorijų įstatyme; kiti
+reglamentas (arba laikinas reglamentas), kurio sąvoka apibrėžta Saugomų
 
-įstatymų nustatyti reikalavimai.
+teritorijų įstatyme; kiti įstatymų nustatyti reikalavimai.
 
-33.
+33. Statinio
 
-Statinio
+projektavimo sąlygų sąvadas – savivaldybės administracijos direktoriaus (jo
 
-projektavimo sąlygų sąvadas – savivaldybės mero (jo įgalioto savivaldybės
-
-administratoriaus ar kito savivaldybės administracijos tarnautojo) patvirtintas
+įgalioto savivaldybės administracijos valstybės tarnautojo) patvirtintas
 
 konkrečiam statiniui nustatytų projektavimo sąlygų, įvardytų šio straipsnio 32
 
@@ -916,25 +914,23 @@ parengtam statinio projektui, įforminamas tvarkomuoju dokumentu – kai
 
 statytojas (užsakovas) yra Lietuvos ar užsienio valstybės juridinis asmuo, arba
 
-statytojo (užsakovo) žyma „tvirtinu“ ir parašu statinio projekte – kai statytojas
+statytojo (užsakovo) žyma „tvirtinu“ ir parašu statinio projekte – kai
 
-(užsakovas) yra Lietuvos ar užsienio valstybės fizinis asmuo. Abiem atvejais
+statytojas (užsakovas) yra Lietuvos ar užsienio valstybės fizinis asmuo. Abiem
 
-nurodomi pagrindiniai šio statinio techniniai ir ekonominiai rodikliai,
+atvejais nurodomi pagrindiniai šio statinio techniniai ir ekonominiai
 
-aplinkos ir kraštovaizdžio reikalavimai.
+rodikliai, aplinkos ir kraštovaizdžio reikalavimai.
 
 35.
 
-Statinio projekto ekspertizė – įvertinimas, kaip statinio projekte
+Statinio projekto ekspertizė – įvertinimas, kaip statinio projekte įgyvendinti
 
-įgyvendinti šio Įstatymo 4 straipsnio 1 dalyje nurodyti esminiai statinio
+šio Įstatymo 4 straipsnio 1 dalyje nurodyti esminiai statinio reikalavimai,
 
-reikalavimai, taip pat kitų įstatymų ir teisės aktų, normatyvinių statybos
+taip pat kitų įstatymų ir teisės aktų, normatyvinių statybos techninių
 
-techninių dokumentų bei privalomųjų statinio projekto rengimo dokumentų
-
-reikalavimai.
+dokumentų bei privalomųjų statinio projekto rengimo dokumentų reikalavimai.
 
 36.
 
@@ -1012,9 +1008,9 @@ statyba susijusius tyrinėjimus (tyrimus).
 
 43.
 
-Statinio projektuotojas – statinio projektą rengiantys: įmonė, fizinis asmuo
+Statinio projektuotojas – statinio projektą rengiantys: įmonė, fizinis
 
-ar kiti subjektai, nurodyti šio Įstatymo 14 straipsnio 1 ir 2 dalyse.
+asmuo ar kiti subjektai, nurodyti šio Įstatymo 14 straipsnio 1 ir 2 dalyse.
 
 44.
 
@@ -1046,37 +1042,37 @@ fizinis asmuo (specialistas, turintis architektūros aukštąjį išsimokslinim�
 
 kuris vienas savarankiškai kuria statinio architektūrą, yra statinio projekto
 
-architektūrinės dalies rengėjas ir tos dalies vadovas, dirba  turėdamas verslo liudijimą
+architektūrinės dalies rengėjas ir tos dalies vadovas, dirba  turėdamas verslo
 
-arba projektavimo įmonėje; projektavimo įmonės fizinių asmenų (turinčių
+liudijimą arba projektavimo įmonėje; projektavimo įmonės fizinių asmenų
 
-aukštąjį architektūrinį išsimokslinimą) grupė, vadovaujama statinio projekto
+(turinčių aukštąjį architektūrinį išsimokslinimą) grupė, vadovaujama statinio
 
-architektūrinės dalies vadovo.
+projekto architektūrinės dalies vadovo.
 
 46. Statinio
 
-projekto rengėjas – projektuotojas fizinis asmuo (specialistas,
+projekto rengėjas – projektuotojas fizinis asmuo (specialistas, turintis
 
-turintis statybos, architektūros ar kitą aukštąjį inžinerinį išsimokslinimą),
+statybos, architektūros ar kitą aukštąjį inžinerinį išsimokslinimą), kuris
 
-kuris vienas rengia statinio projektą, yra šio projekto vadovas, arba
+vienas rengia statinio projektą, yra šio projekto vadovas, arba projektuotojo
 
-projektuotojo ir projektavimo įmonės fizinių asmenų (specialistų) grupė,
+ir projektavimo įmonės fizinių asmenų (specialistų) grupė, vadovaujama projekto
 
-vadovaujama projekto vadovo, sudaryta iš jam pavaldžių (techniniais klausimais)
+vadovo, sudaryta iš jam pavaldžių (techniniais klausimais) statinio architekto,
 
-statinio architekto, projekto dalių vadovų ir specialistų.
+projekto dalių vadovų ir specialistų.
 
 47.
 
 Statinio projekto dalies rengėjas – specialistas (fizinis asmuo,
 
-turintis statybos, architektūros ar kito techninio profilio aukštąjį išsimokslinimą),
+turintis statybos, architektūros ar kito techninio profilio aukštąjį
 
-kuris vienas rengia projekto dalį ir yra jos vadovas, arba specialistų grupė,
+išsimokslinimą), kuris vienas rengia projekto dalį ir yra jos vadovas, arba
 
-vadovaujama projekto dalies vadovo.
+specialistų grupė, vadovaujama projekto dalies vadovo.
 
 48.
 
@@ -1108,11 +1104,11 @@ atstovaudamas rangovui (kai statyba vykdoma rangos būdu) ar statytojui
 
 nuo statybos pradžios iki statinio pripažinimo tinkamu naudoti, vadovauja
 
-statybos darbams, kartu yra bendrųjų statybos darbų vadovas, koordinuoja
+statybos darbams, kartu yra bendrųjų statybos darbų vadovas, koordinuoja statinio
 
-statinio statybos specialiųjų darbų vykdymą bei šių darbų vadovų veiklą ir
+statybos specialiųjų darbų vykdymą bei šių darbų vadovų veiklą ir pagal
 
-pagal kompetenciją atsako už pastatyto statinio normatyvinę kokybę.
+kompetenciją atsako už pastatyto statinio normatyvinę kokybę.
 
 51.
 
@@ -1124,9 +1120,9 @@ išsimokslinimą), kuris, atstovaudamas statytojui (užsakovui), vadovauja
 
 konkretaus statinio statybos techninei priežiūrai, atlieka statinio statybos
 
-(bendrųjų statybos darbų) bendrosios techninės priežiūros vadovo funkcijas,
+(bendrųjų statybos darbų) bendrosios techninės priežiūros vadovo funkcijas, koordinuoja
 
-koordinuoja specialiąją statinio statybos priežiūrą, jos vadovų veiklą ir pagal
+specialiąją statinio statybos priežiūrą, jos vadovų veiklą ir pagal
 
 kompetenciją atsako už pastatyto statinio normatyvinę kokybę.
 
@@ -1184,31 +1180,31 @@ taisyklės, standartai, techniniai liudijimai, metodiniai nurodymai, rekomendaci
 
 55.
 
-Normatyviniai statinio saugos ir paskirties dokumentai – dokumentai,
+Normatyviniai statinio saugos ir paskirties dokumentai – dokumentai, kurie
 
-kurie kitų įstatymų ar teisės aktų pagrindu nustato statinio apsaugos ir
+kitų įstatymų ar teisės aktų pagrindu nustato statinio apsaugos ir saugos,
 
-saugos, žmonių, kurie juo naudojasi, apsaugos ir saugos, statinio aplinkos
+žmonių, kurie juo naudojasi, apsaugos ir saugos, statinio aplinkos apsaugos ir
 
-apsaugos ir saugos reikalavimus pagal šio Įstatymo 6 straipsnio 1 dalyje
+saugos reikalavimus pagal šio Įstatymo 6 straipsnio 1 dalyje nurodytas sritis,
 
-nurodytas sritis, atsižvelgiant į statinio paskirtį (statinio tipą) ir jame
+atsižvelgiant į statinio paskirtį (statinio tipą) ir jame planuojamą veiklą.
 
-planuojamą veiklą. Šie dokumentai taip pat nustato statinio paskirties
+Šie dokumentai taip pat nustato statinio paskirties reikalavimus: statinio
 
-reikalavimus: statinio matmenų (priklausančių nuo statinio paskirties)
+matmenų (priklausančių nuo statinio paskirties) apskaičiavimo, funkcinių ryšių
 
-apskaičiavimo, funkcinių ryšių tarp statinio dalių (patalpų) ir statinių,
+tarp statinio dalių (patalpų) ir statinių, technologinių ir energetikos
 
-technologinių ir energetikos įrenginių, technologinių inžinerinių sistemų,
+įrenginių, technologinių inžinerinių sistemų, technologijos ir energetikos
 
-technologijos ir energetikos procesų patikimumo, efektyvumo ir saugos;
+procesų patikimumo, efektyvumo ir saugos; inžineriniais tinklais tiekiamų ir
 
-inžineriniais tinklais tiekiamų ir statinio inžinerinėse sistemose naudojamų
+statinio inžinerinėse sistemose naudojamų vandens, nuotėkų, energijos nešiklių
 
-vandens, nuotėkų, energijos nešiklių ir pan.; žemės ūkio melioracijos sistemų
+ir pan.; žemės ūkio melioracijos sistemų reguliuojamo dirvožemio drėgmės režimo
 
-reguliuojamo dirvožemio drėgmės režimo ir agrotechnikos.
+ir agrotechnikos.
 
 56.
 
@@ -1224,9 +1220,9 @@ paskirties reikalavimais, valstybinę priežiūrą.
 
 57.
 
-CE – ženklas, patvirtinantis, kad statybos produktas atitinka
+CE – ženklas, patvirtinantis, kad statybos produktas atitinka galiojančių
 
-galiojančių Europos Sąjungos teisės aktų nustatytus reikalavimus.
+Europos Sąjungos teisės aktų nustatytus reikalavimus.
 
 58.
 
@@ -1282,13 +1278,13 @@ tenkinančios jų naudotojų poreikius.
 
 63.
 
-Atskirosios statinio inžinerinės sistemos – nepriklausomos nuo kitų vienos
+Atskirosios statinio inžinerinės sistemos – nepriklausomos nuo kitų
 
-ar kelių pastato patalpų inžinerinės sistemos (nesusietos su bendrosiomis
+vienos ar kelių pastato patalpų inžinerinės sistemos (nesusietos su
 
-pastato inžinerinėmis sistemomis), užtikrinančios šių patalpų funkcionavimą ir
+bendrosiomis pastato inžinerinėmis sistemomis), užtikrinančios šių patalpų
 
-tenkinančios jų naudotojų poreikius.
+funkcionavimą ir tenkinančios jų naudotojų poreikius.
 
 64.
 
@@ -1536,9 +1532,9 @@ derėtų prie kraštovaizdžio;
 
 3) atitiktų
 
-savivaldybės mero (jo įgalioto savivaldybės administratoriaus ar kito
+savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės
 
-savivaldybės administracijos tarnautojo) išduotame projektavimo sąlygų sąvade
+administracijos valstybės tarnautojo) išduotame projektavimo sąlygų sąvade
 
 nustatytus architektūros ir statybos sklypo tvarkymo urbanistinius
 
@@ -1555,6 +1551,16 @@ statinio paskirtį;
 neprieštarautų statinio inžinerinių sistemų ir technologinių inžinerinių
 
 sistemų reikalavimams.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1924,
+
+2003-12-18, Žin., 2003, Nr. 123-5592 (2003-12-30)
 
 6 straipsnis. Aplinkos, kraštovaizdžio,
 
@@ -1770,9 +1776,9 @@ Normatyvinių statybos techninių dokumentų sistema
 
 statybos techniniai dokumentai yra:
 
-1
+1 punkto
 
-punkto redakcija iki 2005 m. sausio 1 d.:
+redakcija iki 2005 m. sausio 1 d.:
 
 1)
 
@@ -1812,11 +1818,11 @@ punkto redakcija iki 2005 m. sausio 1 d.:
 
 statybos taisyklės – ministerijų, Vyriausybės įstaigų, kitų valstybės
 
-institucijų ar juridinių asmenų priimti bei Vyriausybės įgaliotoje
+institucijų ar juridinių asmenų priimti bei Vyriausybės įgaliotoje institucijoje
 
-institucijoje jos nustatyta tvarka įregistruoti dokumentai, kurie nurodo
+jos nustatyta tvarka įregistruoti dokumentai, kurie nurodo statybos techninių
 
-statybos techninių reglamentų įgyvendinimo būdus ir metodus;
+reglamentų įgyvendinimo būdus ir metodus;
 
 2
 
@@ -1876,11 +1882,11 @@ savanoriškai, išskyrus atvejus, kai statybos techniniuose reglamentuose ar
 
 kituose teisės aktuose nurodoma, kad minėtas taisykles, standartus, liudijimus
 
-taikyti privaloma. Statybos taisyklės, Lietuvos standartai ir techniniai
+taikyti privaloma. Statybos taisyklės, Lietuvos standartai ir techniniai liudijimai,
 
-liudijimai, į kuriuos pateikiamos nuorodos projektavimo ar rangos sutartyse,
+į kuriuos pateikiamos nuorodos projektavimo ar rangos sutartyse, privalomi
 
-privalomi sutartį sudariusioms šalims.
+sutartį sudariusioms šalims.
 
 4.
 
@@ -1902,9 +1908,9 @@ institucija įstatymų ir kitų teisės aktų nustatyta tvarka. Normatyvinius
 
 statinio saugos ir paskirties dokumentus tvirtina juos parengusi (pagal
 
-kompetenciją) valstybės institucija kartu su Vyriausybės įgaliota institucija, kuriai
+kompetenciją) valstybės institucija kartu su Vyriausybės įgaliota institucija,
 
-pavesta tvirtinti statybos techninius reglamentus.
+kuriai pavesta tvirtinti statybos techninius reglamentus.
 
 6.
 
@@ -2136,9 +2142,7 @@ nuotraukas;
 
 8)
 
-nustatyta tvarka organizuoti baigto statyti statinio pripažinimą tinkamu
-
-naudoti;
+nustatyta tvarka organizuoti baigto statyti statinio pripažinimą tinkamu naudoti;
 
 9)
 
@@ -2330,19 +2334,19 @@ m. spalio 5 d. Hagoje) pagrindu.
 
 2.
 
-Rengti ypatingų statinių projektus turi teisę Lietuvos Respublikoje
+Rengti ypatingų statinių projektus turi teisę Lietuvos Respublikoje įregistruota
 
-įregistruota projektavimo įmonė arba užsienio valstybės projektavimo įmonė,
+projektavimo įmonė arba užsienio valstybės projektavimo įmonė, gavusios
 
-gavusios Vyriausybės įgaliotos institucijos šios veiklos atestatą. Teisė
+Vyriausybės įgaliotos institucijos šios veiklos atestatą. Teisė projektuoti
 
-projektuoti branduolinės energetikos objektus suteikiama Branduolinės energijos
+branduolinės energetikos objektus suteikiama Branduolinės energijos įstatymo
 
-įstatymo nustatyta tvarka.
+nustatyta tvarka.
 
-3. Statinio projektuotojas
+3. Statinio
 
-privalo:
+projektuotojas privalo:
 
 1)
 
@@ -2350,13 +2354,13 @@ statytojo (užsakovo) pavedimu, kai projektuotojas yra juridinis asmuo, įsakymu
 
 ar kitu tvarkomuoju dokumentu (nustatytu įmonės įstatuose) paskirti
 
-statinio projekto vadovu savo darbuotoją arba pasamdyti pagal darbo sutartį
+statinio projekto vadovu savo darbuotoją arba pasamdyti pagal darbo sutartį statinio
 
-statinio projekto vadovu ne savo darbuotoją, arba pats vykdyti statinio
+projekto vadovu ne savo darbuotoją, arba pats vykdyti statinio projekto vadovo
 
-projekto vadovo funkcijas, kai projektuotojas yra fizinis asmuo, pagal
+funkcijas, kai projektuotojas yra fizinis asmuo, pagal sudarytą su
 
-sudarytą su statytoju (užsakovu) projektavimo darbų rangos sutartį;
+statytoju (užsakovu) projektavimo darbų rangos sutartį;
 
 2)
 
@@ -2624,17 +2628,17 @@ statybos techninę priežiūrą ir šio statinio projekto bei šio statinio
 
 ekspertizę.
 
-5. Jei
+5. Jei statytojas
 
-statytojas (užsakovas) vykdo statybą ūkio būdu, jis turi šio Įstatymo
+(užsakovas) vykdo statybą ūkio būdu, jis turi šio Įstatymo nustatytas rangovo
 
-nustatytas rangovo pareigas ir teises. Šiuo atveju statytojas, jei jis yra
+pareigas ir teises. Šiuo atveju statytojas, jei jis yra fizinis asmuo (turintis
 
-fizinis asmuo (turintis statybos, architektūros ar kito techninio profilio
+statybos, architektūros ar kito techninio profilio aukštąjį ar aukštesnįjį
 
-aukštąjį ar aukštesnįjį išsimokslinimą) ir stato nesudėtingą statinį savo ar
+išsimokslinimą) ir stato nesudėtingą statinį savo ar savo šeimos narių
 
-savo šeimos narių reikmėms, gali neturėti verslo liudijimo.
+reikmėms, gali neturėti verslo liudijimo.
 
 6. Rangovas turi ir
 
@@ -2856,17 +2860,17 @@ statinio projektavimo valdytojui teisės bei pareigos nustatomi pavedimo
 
 sutartimi.
 
-5. Statinio
+5. Statinio statybos
 
-statybos valdytojas veikia statytojo (užsakovo) vardu ir darbus organizuoja
+valdytojas veikia statytojo (užsakovo) vardu ir darbus organizuoja pagal šias
 
-pagal šias statybos techninės veiklos pagrindines sritis: statybos darbai ir
+statybos techninės veiklos pagrindines sritis: statybos darbai ir statinio
 
-statinio statybos techninė priežiūra. Šių sričių darbų mastas ir statytojo
+statybos techninė priežiūra. Šių sričių darbų mastas ir statytojo (užsakovo)
 
-(užsakovo) kaip įgaliotojo pavedamos įgaliotiniui – statinio statybos
+kaip įgaliotojo pavedamos įgaliotiniui – statinio statybos valdytojui teisės
 
-valdytojui teisės bei pareigos nustatomi pavedimo sutartimi.
+bei pareigos nustatomi pavedimo sutartimi.
 
 6. Už šiame
 
@@ -3080,41 +3084,41 @@ privalomaisiais statinio projekto rengimo dokumentais, projektavimo darbų
 
 rangos sutartimi (kai projektavimas atliekamas rangos būdu).
 
-2.
+2. Statinio
 
-Statinio projektavimo sąlygų sąvadui gauti statytojas (užsakovas) pateikia
+projektavimo sąlygų sąvadui gauti statytojas (užsakovas) pateikia savivaldybės
 
-savivaldybės merui (jo įgaliotam savivaldybės administratoriui ar kitam
+administracijos direktoriui (jo įgaliotam savivaldybės administracijos
 
-savivaldybės administracijos tarnautojui) prašymą ir:
+valstybės tarnautojui) prašymą ir:
 
-1)
+1) duomenis apie statinį (pagal
 
-duomenis apie statinį (pagal nustatytą formą);
+nustatytą formą);
 
 2)
 
 žemės sklypo nuosavybės teisę ar kitą valdymo ir naudojimo teisę
 
-patvirtinančius dokumentus, taip pat žemės sklypo bendraturčių sutikimą, jei
+patvirtinančius dokumentus, taip pat žemės sklypo bendraturčių sutikimą, jei žemės
 
-žemės sklypas priklauso jiems bendrosios nuosavybės teise. Šių dokumentų
+sklypas priklauso jiems bendrosios nuosavybės teise. Šių dokumentų nereikia,
 
-nereikia, kai statybą numatoma vykdyti savivaldybės valdomoje patikėjimo
+kai statybą numatoma vykdyti savivaldybės valdomoje patikėjimo teise
 
-teise teritorijoje (kai statytojas yra savivaldybė arba kitas juridinis ar
+teritorijoje (kai statytojas yra savivaldybė arba kitas juridinis ar fizinis
 
-fizinis asmuo, kuris statybą šioje teritorijoje vykdys pagal statinio
+asmuo, kuris statybą šioje teritorijoje vykdys pagal statinio projektavimo
 
-projektavimo sąlygų sąvadą). Kitus atvejus, kai nereikia šiame punkte nurodytų
+sąlygų sąvadą). Kitus atvejus, kai nereikia šiame punkte nurodytų dokumentų,
 
-dokumentų, nustato Vyriausybės įgaliota institucija;
+nustato Vyriausybės įgaliota institucija;
 
-3)
+3) statinio
 
-statinio bendrosios nuosavybės bendraturčių sutikimą, kai rekonstruojami
+bendrosios nuosavybės bendraturčių sutikimą, kai rekonstruojami daugiabučio namo
 
-daugiabučio namo bendro naudojimo objektai;
+bendro naudojimo objektai;
 
 4)
 
@@ -3126,15 +3130,15 @@ namo gyvenamųjų patalpų paskirtis;
 
 pasiūlymus (jeigu jie buvo rengiami).
 
-3.
+3. Savivaldybės administracijos direktorius (jo įgaliotas
 
-Savivaldybės meras (jo įgaliotas savivaldybės administratorius ar kitas
+savivaldybės administracijos valstybės tarnautojas), gavęs šio straipsnio 2
 
-savivaldybės administracijos tarnautojas), gavęs šio straipsnio 2 dalyje
+dalyje išvardytus dokumentus, per 3 dienas pateikia paraišką statinio
 
-išvardytus dokumentus, per 3 dienas pateikia paraišką statinio projektavimo
+projektavimo sąlygoms, nurodytoms šio Įstatymo 2 straipsnio 32 dalyje, parengti
 
-sąlygoms, nurodytoms šio Įstatymo 2 straipsnio 32 dalyje, parengti (pagal kompetenciją):
+(pagal kompetenciją):
 
 1)
 
@@ -3162,49 +3166,49 @@ sąlygos nustatomos statinio, statomo saugomoje teritorijoje, projektui rengti);
 
 kitoms institucijoms, jei tai nustatyta įstatymų.
 
-4.
+4. Projektavimo
 
-Projektavimo sąlygos parengiamos per 10 dienų nuo savivaldybės mero (jo
+sąlygos parengiamos per 10 dienų nuo savivaldybės administracijos direktoriaus
 
-įgalioto savivaldybės administratoriaus ar kito savivaldybės administracijos
+(jo įgalioto savivaldybės administracijos valstybės tarnautojo) paraiškos
 
-tarnautojo) paraiškos gavimo. Per tą patį laiką projektavimo sąlygas, priklausančias
+gavimo. Per tą patį laiką projektavimo sąlygas, priklausančias savivaldybės
 
-savivaldybės kompetencijai, parengia savivaldybės meras (jo įgaliotas
+kompetencijai, parengia savivaldybės administracijos direktorius (jo įgaliotas
 
-savivaldybės administratorius ar kitas savivaldybės administracijos
+savivaldybės administracijos valstybės tarnautojas).
 
-tarnautojas).
+5. Projektavimo
 
-5.
+sąlygas nagrinėja, derina, jeigu reikia, siūlo pakeisti (siekdamas rasti
 
-Projektavimo sąlygas nagrinėja, derina, jeigu reikia, siūlo pakeisti (siekdamas
+sprendimą, tenkinantį statytojo (užsakovo), trečiųjų asmenų, visuomenės,
 
-rasti sprendimą, tenkinantį statytojo (užsakovo), trečiųjų asmenų, visuomenės,
+savivaldybės ir valstybės interesus) ir joms pritaria savivaldybės
 
-savivaldybės ir valstybės interesus) ir joms pritaria savivaldybės meras (jo
+administracijos direktorius (jo įgaliotas savivaldybės administracijos
 
-įgaliotas administratorius ar kitas savivaldybės administracijos tarnautojas).
+valstybės tarnautojas). Projektavimo sąlygos įrašomos į statinio projektavimo
 
-Projektavimo sąlygos įrašomos į statinio projektavimo sąlygų sąvadą.
+sąlygų sąvadą. Savivaldybės administracijos direktorius (jo įgaliotas
 
-Savivaldybės meras (jo įgaliotas savivaldybės administratorius ar kitas
+savivaldybės administracijos valstybės tarnautojas), suderinęs su statinio
 
-savivaldybės administracijos tarnautojas), suderinęs su statinio projektavimo
+projektavimo sąlygas rengusiais inžinerinių tinklų ir susisiekimo komunikacijų
 
-sąlygas rengusiais inžinerinių tinklų ir susisiekimo komunikacijų savininkais
+savininkais (naudotojais) ir institucijomis bei subjektais, šį sąvadą
 
-(naudotojais) ir institucijomis bei subjektais, šį sąvadą patvirtina ir išduoda
+patvirtina ir išduoda statytojui (užsakovui) ne vėliau kaip per 20 dienų nuo jo
 
-statytojui (užsakovui) ne vėliau kaip per 20 dienų nuo jo prašymo gavimo
+prašymo gavimo (įskaitant į šį laiką 5 dienas, skirtas suderinti su statinio
 
-(įskaitant į šį laiką 5 dienas, skirtas suderinti su statinio projektavimo
+projektavimo sąlygas parengusiais inžinerinių tinklų ir susisiekimo
 
-sąlygas parengusiais inžinerinių tinklų ir susisiekimo komunikacijų savininkais
+komunikacijų savininkais (naudotojais) bei institucijomis) arba per 15 dienų
 
-(naudotojais) bei institucijomis) arba per 15 dienų praneša statytojui
+praneša statytojui (užsakovui) motyvus, dėl kurių projektavimo sąlygų sąvadas
 
-(užsakovui) motyvus, dėl kurių projektavimo sąlygų sąvadas neišduodamas.
+neišduodamas.
 
 6.
 
@@ -3244,9 +3248,9 @@ komunikacijas, sudaroma inžinerinių tinklų savininko ar naudotojo ir statytoj
 
 (užsakovo) sutartis. Joje nurodoma inžinerinių tinklų, susisiekimo komunikacijų
 
-statybos finansavimo ir naudojimo tvarka bei nuosavybės teisės (užbaigus
+statybos finansavimo ir naudojimo tvarka bei nuosavybės teisės (užbaigus statybą).
 
-statybą). Ši sutartis pridedama prie statinio projektavimo sąlygų sąvado.
+Ši sutartis pridedama prie statinio projektavimo sąlygų sąvado.
 
 8.
 
@@ -3260,57 +3264,55 @@ rezervo materialinių išteklių atsargų kokybę, saugumą bei panaudojimo
 
 galimybes.
 
-9.
+9. Vyriausybės
 
-Vyriausybės įgaliota institucija (nekilnojamųjų kultūros paveldo vertybių
+įgaliota institucija (nekilnojamųjų kultūros paveldo vertybių tvarkymo statybos
 
-tvarkymo statybos darbų atveju – kartu su įgaliota institucija, atsakinga už
+darbų atveju – kartu su įgaliota institucija, atsakinga už nekilnojamųjų
 
-nekilnojamųjų kultūros paveldo vertybių apsaugą), gavusi statytojo (užsakovo)
+kultūros paveldo vertybių apsaugą), gavusi statytojo (užsakovo) prašymą ar
 
-prašymą ar statinio saugos bei paskirties reikalavimų valstybinės priežiūros
+statinio saugos bei paskirties reikalavimų valstybinės priežiūros institucijų
 
-institucijų teikimą (bet ne vėliau kaip iki statybos leidimo išdavimo) ir
+teikimą (bet ne vėliau kaip iki statybos leidimo išdavimo) ir nustačiusi, kad
 
-nustačiusi, kad statinio projektavimo sąlygos neatitinka įstatymų ar kitų
+statinio projektavimo sąlygos neatitinka įstatymų ar kitų teisės aktų, privalo
 
-teisės aktų, privalo ne vėliau kaip per 5 dienas pareikalauti, kad savivaldybės
+ne vėliau kaip per 5 dienas pareikalauti, kad savivaldybės administracijos
 
-meras (suderinęs pagal kompetenciją su projektavimo sąlygas nustačiusiais inžinerinių
+direktorius (suderinęs pagal kompetenciją su projektavimo sąlygas nustačiusiais
 
-tinklų savininkais ar naudotojais ir statinio saugos bei paskirties reikalavimų
+inžinerinių tinklų savininkais ar naudotojais ir statinio saugos bei paskirties
 
-valstybinės priežiūros institucijomis) ne vėliau kaip per 7 dienas nuo
+reikalavimų valstybinės priežiūros institucijomis) ne vėliau kaip per 7 dienas
 
-Vyriausybės įgaliotos institucijos reikalavimo panaikintų ar pakeistų statinio
+nuo Vyriausybės įgaliotos institucijos reikalavimo panaikintų ar pakeistų
 
-projektavimo sąlygas (išduotų statytojui (užsakovui) pakeistą patvirtintą
+statinio projektavimo sąlygas (išduotų statytojui (užsakovui) pakeistą
 
-projektavimo sąlygų sąvadą) arba praneštų Vyriausybės įgaliotai institucijai ir
+patvirtintą projektavimo sąlygų sąvadą) arba praneštų Vyriausybės įgaliotai
 
-statytojui (užsakovui) motyvus, dėl kurių atsisakoma statinio projektavimo
+institucijai ir statytojui (užsakovui) motyvus, dėl kurių atsisakoma statinio
 
-sąlygas panaikinti ar pakeisti. Jeigu savivaldybės meras atsisako panaikinti ar
+projektavimo sąlygas panaikinti ar pakeisti. Jeigu savivaldybės administracijos
 
-pakeisti statinio projektavimo sąlygas, ginčas sprendžiamas teisme statytojo
+direktorius atsisako panaikinti ar pakeisti statinio projektavimo sąlygas,
 
-(užsakovo) ar Vyriausybės įgaliotos institucijos (kai tai susiję su valstybės
+ginčas sprendžiamas teisme statytojo (užsakovo) ar Vyriausybės įgaliotos
 
-interesais) iniciatyva.
+institucijos (kai tai susiję su valstybės interesais) iniciatyva.
 
-10.
+10. Statinio
 
-Statinio projektavimo sąlygų sąvadas galioja tol, kol galioja statybos
+projektavimo sąlygų sąvadas galioja tol, kol galioja statybos leidimas. Jei per
 
-leidimas. Jei per 3 metus nuo statinio projektavimo sąlygų sąvado gavimo
+3 metus nuo statinio projektavimo sąlygų sąvado gavimo minėtas leidimas nebuvo
 
-minėtas leidimas nebuvo išduotas, savivaldybės meras (jo įgaliotas savivaldybės
+išduotas, savivaldybės administracijos direktorius (jo įgaliotas savivaldybės
 
-administratorius ar kitas savivaldybės administracijos valstybės tarnautojas)
+administracijos valstybės tarnautojas) projektavimo sąlygų sąvadą tvirtina iš
 
-projektavimo sąlygų sąvadą tvirtina iš naujo (projektavimo sąlygos paliekamos
-
-tos pačios arba pakeičiamos).
+naujo (projektavimo sąlygos paliekamos tos pačios arba pakeičiamos).
 
 11.
 
@@ -3320,19 +3322,17 @@ projektavimo sąlygų sąvadas galioja 3 metus. Šiam terminui pasibaigus, jei
 
 statyba nepradėta, projektavimo sąlygų sąvadas tvirtinamas iš naujo.
 
-12.
+12. Už statinio
 
-Už statinio projektavimo sąlygų ir įstatymų bei kitų teisės aktų atitikimą
+projektavimo sąlygų ir įstatymų bei kitų teisės aktų atitikimą pagal
 
-pagal kompetenciją atsako jas parengę inžinerinių tinklų ir susisiekimo
+kompetenciją atsako jas parengę inžinerinių tinklų ir susisiekimo komunikacijų
 
-komunikacijų savininkai (naudotojai) ir institucijos, taip pat
+savininkai (naudotojai) ir institucijos, taip pat savivaldybės administracijos
 
-savivaldybės meras (jo įgaliotas administratorius ar kitas savivaldybės
+direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)
 
-administracijos tarnautojas) Civilinio kodekso ir Viešojo administravimo
-
-įstatymo nustatyta tvarka.
+Civilinio kodekso ir Viešojo administravimo įstatymo nustatyta tvarka.
 
 13.
 
@@ -3367,6 +3367,16 @@ nekilnojamųjų kultūros paveldo vertybių tvarkymo statybos darbai ar statini�
 statyba jų teritorijose, – ši institucija kartu su įgaliota institucija,
 
 atsakinga už nekilnojamųjų kultūros paveldo vertybių apsaugą.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1924,
+
+2003-12-18, Žin., 2003, Nr. 123-5592 (2003-12-30)
 
 21 straipsnis. Statinio projekto architektūriniai
 
@@ -3420,11 +3430,13 @@ projekto tvirtinimas
 
 1. Ypatingo
 
-statinio projektas ar statinio, įrašyto į Valstybės investicijų programą, projektas
+statinio projektas ar statinio, įrašyto į Valstybės investicijų programą,
 
-iki gaunant statybos leidimą turi būti statytojo (užsakovo) patvirtintas (tik
+projektas iki gaunant statybos leidimą turi būti statytojo (užsakovo)
 
-esant projektų ekspertizės išvadoms, kad galima projektą tvirtinti).
+patvirtintas (tik esant projektų ekspertizės išvadoms, kad galima projektą
+
+tvirtinti).
 
 2. Šio
 
@@ -3500,21 +3512,21 @@ viršininko administracija;
 
 2) kitam bet
 
-kuriam statiniui – savivaldybės meras (jo įgaliotas savivaldybės
+kuriam statiniui – savivaldybės administracijos direktorius (jo įgaliotas
 
-administratorius ar kitas savivaldybės administracijos tarnautojas).
+savivaldybės administracijos valstybės tarnautojas).
 
-6.
+6. Kad gautų
 
-Kad gautų statybos (išskyrus griovimą) leidimą, statytojas (užsakovas) savivaldybės
+statybos (išskyrus griovimą) leidimą, statytojas (užsakovas) savivaldybės
 
-merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės
+administracijos direktoriui (jo įgaliotam savivaldybės administracijos
 
-administracijos tarnautojui) net ir tuo atveju, kai šį leidimą išduoda
+valstybės tarnautojui) net ir tuo atveju, kai šį leidimą išduoda apskrities
 
-apskrities viršininko administracija (išskyrus statinio, skirto krašto apsaugos
+viršininko administracija (išskyrus statinio, skirto krašto apsaugos reikmėms,
 
-reikmėms, statybos leidimą), turi pateikti:
+statybos leidimą), turi pateikti:
 
 1) nustatytos
 
@@ -3524,13 +3536,13 @@ formos prašymą;
 
 nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir 3 punktuose;
 
-3)
+3) sutartį su
 
-sutartį su žemės savininku dėl sklypo laikino naudojimo statybos metu, dėl šio
+žemės savininku dėl sklypo laikino naudojimo statybos metu, dėl šio sklypo
 
-sklypo servitutų naudojant pastatytą statinį ir kompensacijų už naudojimąsi
+servitutų naudojant pastatytą statinį ir kompensacijų už naudojimąsi žemės
 
-žemės sklypu bei žalą (jeigu ji padaroma) tais atvejais, kai pagal statinio
+sklypu bei žalą (jeigu ji padaroma) tais atvejais, kai pagal statinio
 
 projektavimo sąlygų sąvadą inžineriniai tinklai, susisiekimo komunikacijos
 
@@ -3538,9 +3550,7 @@ numatomi tiesti statytojui (užsakovui) nepriklausančiame žemės sklype ar kai
 
 tokio sklypo dalį numatoma panaudoti statybvietei įrengti;
 
-4) statinio
-
-projektą;
+4) statinio projektą;
 
 5) statinio
 
@@ -3574,21 +3584,19 @@ statinio kadastrinių matavimų ir teisinės registracijos pažymėjimą (kai
 
 statinys rekonstruojamas ar kapitališkai remontuojamas).
 
-7.
+7. Kad gautų
 
-Kad gautų statybos leidimą tik statinį griauti, statytojas (užsakovas) savivaldybės
+statybos leidimą tik statinį griauti, statytojas (užsakovas) savivaldybės administracijos
 
-merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės
+direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui)
 
-administracijos tarnautojui) net ir tuo atveju, kai šį leidimą išduoda
+net ir tuo atveju, kai šį leidimą išduoda apskrities viršininko
 
-apskrities viršininko administracija (išskyrus statinio, skirto krašto apsaugos
+administracija (išskyrus statinio, skirto krašto apsaugos reikmėms, statybos
 
-reikmėms, statybos leidimą), turi pateikti:
+leidimą), turi pateikti:
 
-1)
-
-nustatytos formos prašymą;
+1) nustatytos formos prašymą;
 
 2) dokumentus,
 
@@ -3626,11 +3634,11 @@ administracijai.
 
 9. Savivaldybės
 
-meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės
+administracijos direktorius (jo įgaliotas savivaldybės administracijos
 
-administracijos tarnautojas), gavęs statytojo (užsakovo) šio straipsnio 6 ar 7
+valstybės tarnautojas), gavęs statytojo (užsakovo) šio straipsnio 6 ar 7 dalyse
 
-dalyse nurodytą prašymą ir kitus dokumentus, perduoda juos Nuolatinei statybos
+nurodytą prašymą ir kitus dokumentus, perduoda juos Nuolatinei statybos
 
 komisijai, kuri privalo patikrinti ir nustatyti, ar statyba atitinka teritorijų
 
@@ -3640,49 +3648,51 @@ planavimo dokumentuose nustatytus statybos sklypo tvarkymo reikalavimus
 
 įformina statinio projekto patikrinimo rezultatus ir rekomenduoja savivaldybės
 
-merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės
+administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės
 
-administracijos tarnautojui) išduoti ar neišduoti statytojui (užsakovui) jo
+tarnautojui) išduoti ar neišduoti statytojui (užsakovui) jo prašomą statybos
 
-prašomą statybos leidimą.
+leidimą.
 
 10. Nuolatinę
 
-statybos komisiją sudaro savivaldybės meras iš teritorijų planavimo ir statinio
+statybos komisiją sudaro savivaldybės taryba iš teritorijų planavimo ir
 
-projektavimo sąlygas parengusių inžinerinių tinklų ir susisiekimo komunikacijų
+statinio projektavimo sąlygas parengusių inžinerinių tinklų ir susisiekimo
 
-savininkų (naudotojų), institucijų bei savivaldybės atstovų, turinčių
+komunikacijų savininkų (naudotojų), institucijų bei savivaldybės atstovų,
 
-įgaliojimus priimti sprendimus šio straipsnio 9 dalyje nustatytais klausimais.
+turinčių įgaliojimus priimti sprendimus šio straipsnio 9 dalyje nustatytais
 
-Komisijos pavyzdinius nuostatus parengia Vyriausybės įgaliota institucija.
+klausimais. Komisijos pavyzdinius nuostatus parengia Vyriausybės įgaliota
+
+institucija.
 
 11. Kai statybos
 
-leidimą išduoda apskrities viršininko administracija, jai savivaldybės meras
+leidimą išduoda apskrities viršininko administracija, jai savivaldybės
 
-(jo įgaliotas savivaldybės administratorius ar kitas savivaldybės
+administracijos direktorius (jo įgaliotas savivaldybės administracijos
 
-administracijos tarnautojas) privalo per 10 dienų nuo dokumentų, nurodytų šio
+valstybės tarnautojas) privalo per 10 dienų nuo dokumentų, nurodytų šio
 
-straipsnio 6 ar 7 dalyse, gavimo perduoti savivaldybės mero (jo įgalioto
+straipsnio 6 ar 7 dalyse, gavimo perduoti Nuolatinės statybos komisijos
 
-savivaldybės administratoriaus) patvirtintos Nuolatinės statybos komisijos
+protokolą. Šis protokolas tvirtinamas savivaldybės tarybos patvirtintų šios
 
-protokolą ir šio straipsnio 6 ar 7 dalyse išvardytus dokumentus.
+komisijos nuostatų nustatyta tvarka.
 
 12. Statybos
 
-leidimą savivaldybės meras (jo įgaliotas savivaldybės administratorius ar kitas
+leidimą savivaldybės administracijos direktorius (jo įgaliotas savivaldybės
 
-savivaldybės administracijos tarnautojas) išduoda ne vėliau kaip per 10 dienų
+administracijos valstybės tarnautojas) išduoda ne vėliau kaip per 10
 
-(ypatingo statinio statybos leidimą – per 15 dienų) nuo dokumentų, nurodytų šio
+dienų (ypatingo statinio statybos leidimą – per 15 dienų) nuo dokumentų,
 
-straipsnio 6 ar 7 dalyse, pateikimo, o apskrities viršininko administracija –
+nurodytų šio straipsnio 6 ar 7 dalyse, pateikimo, o apskrities viršininko
 
-per 7 dienas nuo Nuolatinės statybos komisijos protokolo gavimo.
+administracija – per 7 dienas nuo Nuolatinės statybos komisijos protokolo gavimo.
 
 13.
 
@@ -3690,27 +3700,25 @@ Statinio, skirto krašto apsaugos reikmėms, statybos leidimą apskrities
 
 viršininko administracija išduoda Vyriausybės nustatyta tvarka.
 
-14.
+14. Jei statybos leidimą išduoda savivaldybės administracijos
 
-Jei statybos leidimą išduoda savivaldybės meras (jo įgaliotas savivaldybės
+direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas),
 
-administratorius ar kitas savivaldybės administracijos tarnautojas), jis per 3
+jis per 3 dienas nuo šio leidimo išdavimo leidimo kopiją pateikia apskrities
 
-dienas nuo šio leidimo išdavimo leidimo kopiją pateikia apskrities viršininko
+viršininko administracijai. Kai išduodamas leidimas dirbti nekilnojamosios
 
-administracijai. Kai išduodamas leidimas dirbti nekilnojamosios kultūros
+kultūros paveldo vertybės tvarkymo statybos darbus,
 
-paveldo vertybės tvarkymo statybos darbus, jo kopija taip pat perduodama už
+jo kopija taip pat perduodama už nekilnojamųjų kultūros paveldo vertybių
 
-nekilnojamųjų kultūros paveldo vertybių apsaugą atsakingai įgaliotai
+apsaugą atsakingai įgaliotai institucijai. Kai išduodamas statybos leidimas
 
-institucijai. Kai
+statiniui saugomoje teritorijoje, leidimo kopija perduodama saugomos
 
-išduodamas statybos leidimas statiniui saugomoje teritorijoje, leidimo kopija
+teritorijos administracijai. Visais atvejais leidimo kopija nustatyta tvarka
 
-perduodama saugomos teritorijos administracijai. Visais atvejais leidimo kopija
-
-nustatyta tvarka perduodama nekilnojamojo turto kadastro tvarkytojui.
+perduodama nekilnojamojo turto kadastro tvarkytojui.
 
 15.
 
@@ -3752,9 +3760,9 @@ išduodančiam viešojo administravimo subjektui ne vėliau kaip prieš 5 dienas
 
 statybos pradžios. Leidimą išduodantis viešojo administravimo subjektas privalo
 
-šį raštą įregistruoti kaip statybos leidimą. Atsisakymą išduoti statybos
+šį raštą įregistruoti kaip statybos leidimą. Atsisakymą išduoti statybos leidimą
 
-leidimą statytojas (užsakovas) gali apskųsti Administracinių bylų teisenos įstatymo
+statytojas (užsakovas) gali apskųsti Administracinių bylų teisenos įstatymo
 
 nustatyta tvarka.
 
@@ -3780,13 +3788,13 @@ sprendimu;
 
 3) jei nuo
 
-leidimo išdavimo dienos statinys nebuvo pradėtas statyti 3 metus arba nebuvo
+leidimo išdavimo dienos statinys nebuvo pradėtas statyti 3 metus arba nebuvo pripažintas
 
-pripažintas tinkamu naudoti per 10 metų. Statytojas (užsakovas), norėdamas
+tinkamu naudoti per 10 metų. Statytojas (užsakovas), norėdamas pradėti ar tęsti
 
-pradėti ar tęsti statybą, turi kreiptis į statybos leidimą išdavusią
+statybą, turi kreiptis į statybos leidimą išdavusią instituciją dėl naujo
 
-instituciją dėl naujo statybos leidimo išdavimo.
+statybos leidimo išdavimo.
 
 19. Apskrities
 
@@ -3794,9 +3802,9 @@ viršininko administracija arba Vyriausybės atstovas, arba Valstybinė teritori
 
 planavimo ir statybos inspekcija prie Vyriausybės įgaliotos institucijos turi
 
-teisę sustabdyti savivaldybės mero (jo įgalioto savivaldybės administratoriaus
+teisę sustabdyti savivaldybės administracijos direktoriaus (jo įgalioto
 
-ar kito savivaldybės administracijos tarnautojo) išduoto statybos leidimo
+savivaldybės administracijos valstybės tarnautojo) išduoto statybos leidimo
 
 galiojimą nuo prašymo (pareiškimo) dėl šio leidimo panaikinimo pateikimo
 
@@ -3824,17 +3832,17 @@ administravimo subjektą dėl šio leidimo pratęsimo.
 
 21.
 
-Statybos leidimų išdavimo procedūrai reikalingų dokumentų formas nustato Vyriausybės
+Statybos leidimų išdavimo procedūrai reikalingų dokumentų formas nustato
 
-įgaliota institucija, o statybos leidimų nekilnojamųjų kultūros paveldo
+Vyriausybės įgaliota institucija, o statybos leidimų nekilnojamųjų kultūros
 
-vertybių tvarkymo statybos darbams arba leidimų vykdyti statinių statybą
+paveldo vertybių tvarkymo statybos darbams arba leidimų vykdyti statinių
 
-nekilnojamųjų kultūros paveldo vertybių teritorijose – Vyriausybės įgaliota
+statybą nekilnojamųjų kultūros paveldo vertybių teritorijose – Vyriausybės
 
-institucija kartu su įgaliota institucija, atsakinga už kultūros paveldo
+įgaliota institucija kartu su įgaliota institucija, atsakinga už kultūros
 
-vertybių apsaugą.
+paveldo vertybių apsaugą.
 
 22.
 
@@ -3862,6 +3870,14 @@ IX-1018,
 
 2002-07-02, Žin., 2002, Nr. 73-3093 (2002-07-19)
 
+Nr.
+
+IX-1924,
+
+2003-12-18, Žin., 2003, Nr. 123-5592 (2003-12-30), atitaisymas skelbtas:
+
+Žin., 2004, Nr. 13
+
 24 straipsnis.
 
 Statinio pripažinimas tinkamu naudoti
@@ -3880,9 +3896,9 @@ sąlygas, atlikus nutiestų inžinerinių tinklų ir susisiekimo komunikacijų
 
 (reikalingų pripažįstamam tinkamu naudoti statiniui ar jo daliai funkcionuoti)
 
-bandymus ir padarius geodezines nuotraukas. Statinio pripažinimas tinkamu
+bandymus ir padarius geodezines nuotraukas. Statinio pripažinimas tinkamu naudoti
 
-naudoti yra nustatyta tvarka sudarytos komisijos atliekamas patikrinimas ir
+yra nustatyta tvarka sudarytos komisijos atliekamas patikrinimas ir
 
 patvirtinimas, kad statinys pastatytas pagal privalomųjų statinio projekto
 
@@ -3916,9 +3932,7 @@ Statinį galima naudoti tik įvykdžius šio straipsnio 1 dalies reikalavimus.
 
 Pripažintas tinkamu naudoti statinys turi būti įstatymų ir kitų teisės aktų
 
-nustatyta tvarka įregistruotas pagal nekilnojamojo turto registro įstatymo
-
-reikalavimus.
+nustatyta tvarka įregistruotas pagal nekilnojamojo turto registro įstatymo reikalavimus.
 
 SEPTINTASIS SKIRSNIS
 
@@ -4002,13 +4016,11 @@ jei statinio avarija įvyko dėl potencialiai pavojingų įrenginių avarijos ar
 
 jei dėl statinio avarijos buvo pažeisti šie įrenginiai, be šio straipsnio 2
 
-dalies 4 punkte nurodytų institucijų, apie tai pranešti atitinkamoms
+dalies 4 punkte nurodytų institucijų, apie tai pranešti atitinkamoms valstybinės
 
-valstybinės priežiūros bei kontrolės institucijoms, o branduolinės energetikos
+priežiūros bei kontrolės institucijoms, o branduolinės energetikos objektų
 
-objektų avarijos atveju – taip pat Valstybinei atominės energetikos saugos
-
-inspekcijai;
+avarijos atveju – taip pat Valstybinei atominės energetikos saugos inspekcijai;
 
 6)
 
@@ -4052,25 +4064,25 @@ tirti avarijos priežastis;
 
 pranešti
 
-apie avariją savivaldybės administracijos direktoriui (jo įgaliotam savivaldybės
+apie avariją savivaldybės administracijos direktoriui (jo įgaliotam
 
-administracijos valstybės tarnautojui), apskrities viršininko administracijai,
+savivaldybės administracijos valstybės tarnautojui), apskrities viršininko
 
-viešojo administravimo subjektui, atliekančiam statinio naudojimo priežiūrą;
+administracijai, viešojo administravimo subjektui, atliekančiam statinio
 
-jei avarija įvyko statybos metu – taip pat statytojui (užsakovui), statinio
+naudojimo priežiūrą; jei avarija įvyko statybos metu – taip pat statytojui
 
-statybos techninės priežiūros vykdytojui ir statinio projektuotojui. Jeigu
+(užsakovui), statinio statybos techninės priežiūros vykdytojui ir statinio
 
-avarija įvyksta nekilnojamosioms kultūros paveldo vertybėms priskirtame
+projektuotojui. Jeigu avarija įvyksta nekilnojamosioms kultūros paveldo
 
-statinyje, jų teritorijose, apie avariją taip pat turi būti pranešta už nekilnojamųjų
+vertybėms priskirtame statinyje, jų teritorijose, apie avariją taip pat turi
 
-kultūros paveldo vertybių apsaugą atsakingai institucijai, o jeigu įvyksta
+būti pranešta už nekilnojamųjų kultūros paveldo vertybių apsaugą atsakingai
 
-avarija, dėl kurios buvo (gali būti) užteršta aplinka – už aplinkos apsaugą
+institucijai, o jeigu įvyksta avarija, dėl kurios buvo (gali būti) užteršta
 
-atsakingai institucijai;
+aplinka – už aplinkos apsaugą atsakingai institucijai;
 
 6)
 
@@ -4166,9 +4178,7 @@ rodiklius bei statinio naudojimo paskirtį. Kai statomas nesudėtingas statinys
 
 ir leidimas neprivalomas, tikrinama, ar statinio statyba vykdoma turint šiam
 
-atvejui normatyviniuose statybos techniniuose dokumentuose nustatytus
-
-dokumentus;
+atvejui normatyviniuose statybos techniniuose dokumentuose nustatytus dokumentus;
 
 2)
 
@@ -4220,9 +4230,9 @@ Apskrities viršininko administracijos įgalioti pareigūnai pagal šio straipsn
 
 1)
 
-sustabdyti statinio statybą ir kreiptis į teismą šio Įstatymo 33 straipsnio 2 ir
+sustabdyti statinio statybą ir kreiptis į teismą šio Įstatymo 33 straipsnio 2
 
-3 dalyse nustatytais atvejais;
+ir 3 dalyse nustatytais atvejais;
 
 2)
 
@@ -4284,11 +4294,11 @@ kreiptis į policiją, kai statybos dalyviai neleidžia statybos valstybinės
 
 priežiūros pareigūnams atlikti tarnybinių funkcijų;
 
-10)
+10) sustabdyti
 
-sustabdyti savivaldybės mero (jo įgalioto savivaldybės administratoriaus ar
+savivaldybės administracijos direktoriaus (jo įgalioto savivaldybės
 
-kito savivaldybės administracijos tarnautojo) neteisėtai išduoto statybos
+administracijos valstybės tarnautojo) neteisėtai išduoto statybos
 
 leidimo galiojimą nuo prašymo (pareiškimo) dėl šio leidimo panaikinimo
 
@@ -4394,6 +4404,16 @@ už šiame straipsnyje nustatytos statybos valstybinės priežiūros tvarkos
 
 pažeidimus atsako pagal Viešojo administravimo įstatymą.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1924,
+
+2003-12-18, Žin., 2003, Nr. 123-5592 (2003-12-30)
+
 28 straipsnis.
 
 Savavališkos statybos padarinių šalinimas
@@ -4416,17 +4436,17 @@ pažeidžiant šį Įstatymą ir kitus teisės aktus:
 
 savavališkos statybos aktą, pareikalauja iš statytojo ir rangovo (jei darbai
 
-vykdomi rangos būdu) tuojau pat sustabdyti statybos darbus ir įteikia jiems
+vykdomi rangos būdu) tuojau pat sustabdyti statybos darbus ir įteikia jiems aktą
 
-aktą pasirašytinai arba registruotu laišku;
+pasirašytinai arba registruotu laišku;
 
 2)
 
-Administracinių teisės pažeidimų kodekso nustatyta tvarka surašo administracinio
+Administracinių teisės pažeidimų kodekso nustatyta tvarka surašo
 
-teisės pažeidimo protokolą ir nagrinėja administracinę bylą dėl administracinės
+administracinio teisės pažeidimo protokolą ir nagrinėja administracinę bylą dėl
 
-nuobaudos paskyrimo arba siunčia šį protokolą teismui;
+administracinės nuobaudos paskyrimo arba siunčia šį protokolą teismui;
 
 3) nagrinėja
 
@@ -4634,11 +4654,11 @@ Statinio statybos techninės priežiūros atlikimo tvarką nustato Vyriausybės
 
 Statinio projekto vykdymo priežiūra
 
-1. Statant,
+1. Statant, rekonstruojant,
 
-rekonstruojant, kapitališkai remontuojant ypatingą statinį ar statinį saugomoje
+kapitališkai remontuojant ypatingą statinį ar statinį saugomoje teritorijoje,
 
-teritorijoje, jo projekto vykdymo priežiūra yra privaloma.
+jo projekto vykdymo priežiūra yra privaloma.
 
 2.
 
@@ -4652,25 +4672,25 @@ projekto vykdymo priežiūrą (statybos metu) statinio projektuotojo pavedimu
 
 atlieka statinio projekto rengėjas pagal statytojo (užsakovo) ir statinio
 
-projektuotojo sutartį. Statinio projektuotojo rašytiniu sutikimu arba kai
+projektuotojo sutartį. Statinio projektuotojo rašytiniu sutikimu arba kai statinio
 
-statinio projektuotojo nebėra (nebeveikia projektą parengusi projektavimo
+projektuotojo nebėra (nebeveikia projektą parengusi projektavimo įmonė,
 
-įmonė, projektuotojas fizinis asmuo jau nesiverčia projektavimo veikla, neturi
+projektuotojas fizinis asmuo jau nesiverčia projektavimo veikla, neturi šios
 
-šios veiklos  verslo liudijimo ar projekto vadovo atestato arba yra
+veiklos  verslo liudijimo ar projekto vadovo atestato arba yra miręs),
 
-miręs), projekto vykdymo priežiūrą gali atlikti kitas statytojo (užsakovo)
+projekto vykdymo priežiūrą gali atlikti kitas statytojo (užsakovo) pasirinktas
 
-pasirinktas statinio projektuotojas. Jei statinio projektuotojas nevykdo ar
+statinio projektuotojas. Jei statinio projektuotojas nevykdo ar pažeidžia
 
-pažeidžia statinio projekto vykdymo priežiūros reikalavimus (nustatytus
+statinio projekto vykdymo priežiūros reikalavimus (nustatytus Vyriausybės
 
-Vyriausybės įgaliotos institucijos), statytojas (užsakovas) turi teisę
+įgaliotos institucijos), statytojas (užsakovas) turi teisę nutraukti statinio
 
-nutraukti statinio projekto vykdymo priežiūros sutartį ar pasirinkti kitą
+projekto vykdymo priežiūros sutartį ar pasirinkti kitą projektuotoją
 
-projektuotoją (neprojektavusį statomo statinio) šiai priežiūrai atlikti.
+(neprojektavusį statomo statinio) šiai priežiūrai atlikti.
 
 4.
 
@@ -4740,9 +4760,9 @@ valstybinę priežiūrą, turi teisę sustabdyti statinio statybą savo
 
 iniciatyva arba kai reikalauja:
 
-1)
+1) savivaldybės
 
-savivaldybės meras;
+administracijos direktorius;
 
 2)
 
@@ -4838,6 +4858,16 @@ reikalavimai neįvykdomi, statinio statybą sustabdęs viešojo administravimo
 
 subjektas kreipiasi į teismą.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1924,
+
+2003-12-18, Žin., 2003, Nr. 123-5592 (2003-12-30)
+
 34
 
 straipsnis. Nebaigto statyti, rekonstruoti ar kapitališkai remontuoti statinio
@@ -4892,11 +4922,11 @@ dalyje.
 
 perleidžiama nebaigto statyti, rekonstruoti ar kapitališkai remontuojamo
 
-statinio dalis, statybos leidimas neperregistruojamas. Perleistos dalies
+statinio dalis, statybos leidimas neperregistruojamas. Perleistos dalies savininkas
 
-savininkas įgyja statytojo (užsakovo) teises ir pareigas tęsti statinio
+įgyja statytojo (užsakovo) teises ir pareigas tęsti statinio projekte numatytus
 
-projekte numatytus darbus jam perleistoje statinio dalyje.
+darbus jam perleistoje statinio dalyje.
 
 DEVINTASIS
 
@@ -5044,9 +5074,9 @@ paveldo vertybes) nugriaunamas šiais atvejais:
 
 kai tai numatyta teritorijų planavimo dokumentuose (po to, kai žemės sklypas ar
 
-jo dalis arba statinys paimamas visuomenės poreikiams) – per savivaldybės
+jo dalis arba statinys paimamas visuomenės poreikiams) – per savivaldybės tarybos
 
-tarybos sprendimu nustatytą laiką;
+sprendimu nustatytą laiką;
 
 3) kai baigėsi
 
@@ -5056,37 +5086,51 @@ laikino statinio naudojimo terminas;
 
 ir kelia grėsmę žmonėms bei aplinkai ir šis pavojus nepašalinamas per viešojo
 
-administravimo subjektų, atliekančių statybos valstybinę priežiūrą, ar savivaldybės
+administravimo subjektų, atliekančių statinių naudojimo priežiūrą, nustatytą
 
-mero nustatytą laiką;
+laiką;
 
-5)
+5) kai statinys
 
-kai statinys pastatytas ar statomas pažeidžiant šį ar kitus įstatymus,
+pastatytas ar statomas pažeidžiant šį ar kitus įstatymus, normatyvinius
 
-normatyvinius statybos techninius dokumentus, – per viešojo
+statybos techninius dokumentus – per viešojo administravimo subjektų,
 
-administravimo subjektų, atliekančių statybos valstybinę priežiūrą, ar
-
-savivaldybės mero
-
-nustatytą laiką;
+atliekančių statybos valstybinę priežiūrą, nustatytą laiką;
 
 6)
 
 kitais Civiliniame kodekse ir kituose įstatymuose numatytais atvejais.
 
-2. Jei
+2. Jei statinio
 
-statinio savininkas šio straipsnio 1 dalies 2, 3, 4, 5, 6 punktuose
+savininkas šio straipsnio 1 dalies 2, 3, 4, 5, 6 punktuose nurodytais atvejais
 
-nurodytais atvejais nenugriovė statinio per nustatytą laiką, sprendimą dėl jo
+nenugriovė statinio per nustatytą laiką, sprendimą dėl jo nugriovimo ar
 
-nugriovimo ar nenugriovimo priima teismas statybos valstybinę
+nenugriovimo priima teismas. Kreiptis į teismą turi teisę statybos valstybinę
 
-priežiūrą atliekančių viešojo administravimo subjektų ar
+priežiūrą atliekantys viešojo administravimo subjektai šio straipsnio 1 dalies
 
-savivaldybės mero (jo įgalioto savivaldybės administratoriaus) teikimu.
+5, 6 punktuose numatytais atvejais, savivaldybės administracijos direktorius
+
+(jo įgaliotas savivaldybės administracijos valstybės tarnautojas) šio
+
+straipsnio 1 dalies 2 punkte numatytu atveju bei statinių naudojimo priežiūrą
+
+atliekantys viešojo administravimo subjektai šio straipsnio 1 dalies 3, 4
+
+punktuose numatytais atvejais.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1924,
+
+2003-12-18, Žin., 2003, Nr. 123-5592 (2003-12-30)
 
 DEŠIMTASIS
 
@@ -5310,9 +5354,9 @@ draudimą atlygina draudimo išmokomis statytojui (užsakovui) ir tretiesiems
 
 asmenims draudėjo padarytą žalą asmens sveikatai arba žalą, atsiradusią dėl
 
-gyvybės atėmimo, bei žalą turtui. Tuo atveju, kai draudėjas pats atlygina
+gyvybės atėmimo, bei žalą turtui. Tuo atveju, kai draudėjas pats atlygina padarytą
 
-padarytą žalą, draudikas išmoka draudimo išmokas draudėjui.
+žalą, draudikas išmoka draudimo išmokas draudėjui.
 
 2.
 
@@ -5350,7 +5394,9 @@ BAIGIAMOSIOS
 
 NUOSTATOS
 
-40 straipsnis. Atsakomybė už Įstatymo pažeidimus
+40 straipsnis. Atsakomybė už Įstatymo
+
+pažeidimus
 
 Fiziniai ir
 
@@ -5370,9 +5416,9 @@ STATINIŲ NAUDOJIMAS
 
 IR PRIEŽIŪRA
 
-41 straipsnis.
+41 straipsnis. Statinių
 
-Statinių techninė priežiūra ir techninės priežiūros taisyklės
+techninė priežiūra ir techninės priežiūros taisyklės
 
 1. Statinio techninę priežiūrą organizuoja statinio
 
@@ -5396,13 +5442,13 @@ prižiūrėtojo. Minėtiems naudotojams kvalifikaciniai reikalavimai nekeliami.
 
 3. Statinio
 
-techninis prižiūrėtojas, atlikdamas konkretaus statinio techninę priežiūrą,
+techninis prižiūrėtojas, atlikdamas konkretaus statinio techninę priežiūrą, vykdo
 
-vykdo organizacines ir technines priemones statinio techninei būklei palaikyti,
+organizacines ir technines priemones statinio techninei būklei palaikyti, kad
 
-kad būtų užtikrinti šio Įstatymo 4 straipsnio 1 dalyje nustatyti statinio
+būtų užtikrinti šio Įstatymo 4 straipsnio 1 dalyje nustatyti statinio esminiai
 
-esminiai reikalavimai per ekonomiškai pagrįstą statinio naudojimo trukmę.
+reikalavimai per ekonomiškai pagrįstą statinio naudojimo trukmę.
 
 4. Statinių
 
@@ -5446,9 +5492,9 @@ kad statinio būklė kelia pavojų statinyje ar arti jo esančių žmonių sveik
 
 gyvybei ar aplinkai, atsižvelgdamas į grėsmės pobūdį ar įvykus statinio
 
-avarijai, statinio naudotojas ir (ar) statinio techninis prižiūrėtojas privalo imtis
+avarijai, statinio naudotojas ir (ar) statinio techninis prižiūrėtojas privalo
 
-priemonių žmonėms apsaugoti ir kitų šio Įstatymo 25 straipsnio 2 dalyje
+imtis priemonių žmonėms apsaugoti ir kitų šio Įstatymo 25 straipsnio 2 dalyje
 
 nurodytų priemonių.
 
@@ -5460,13 +5506,15 @@ Statinių naudojimo priežiūra
 
 šie viešojo administravimo subjektai:
 
-1) ypatingų statinių, taip pat valstybinės
+1) ypatingų statinių, taip pat
 
-reikšmės ir rizikos objektuose esančių statinių, išskyrus šio straipsnio 1
+valstybinės reikšmės ir rizikos objektuose esančių statinių, išskyrus šio
 
-dalies 2 punkte nurodytus statinius, – apskrities viršininko administracija
+straipsnio 1 dalies 2 punkte nurodytus statinius, – apskrities viršininko
 
-pagal Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą;
+administracija pagal Vyriausybės ar jos įgaliotos institucijos patvirtintą
+
+sąrašą;
 
 2) susisiekimo komunikacijų ir su
 
@@ -5530,7 +5578,9 @@ policiją, kad būtų laikinai apribotas patekimas į statinio teritoriją ar
 
 patalpą, būtų sustabdyti vykdomi darbai, apribotas ar uždraustas transporto
 
-eismas, jei kyla pavojus aplinkai, viešajai tvarkai, asmens ar valstybės saugumui;
+eismas, jei kyla pavojus aplinkai, viešajai tvarkai, asmens ar valstybės
+
+saugumui;
 
 4) Administracinių teisės pažeidimų
 
@@ -5698,9 +5748,9 @@ VIII-326, 97.06.26, Žin., 1997, Nr.65-1551 (97.07.09)
 
 LIETUVOS
 
-RESPUBLIKOS STATYBOS ĮSTATYMO 10, 11, 12, 15, 18, 22, 24, 25, 29, 30, 31,
+RESPUBLIKOS STATYBOS ĮSTATYMO 10, 11, 12, 15, 18, 22, 24, 25, 29, 30, 31, 33
 
-33 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 2.
 
@@ -5784,9 +5834,9 @@ Nauja įstatymo redakcija
 
 Statybos įstatymo pakeitimo
 
-įstatymas, išskyrus jame išdėstyto Statybos įstatymo vienuoliktąjį skirsnį, įsigalioja
+įstatymas, išskyrus jame išdėstyto Statybos įstatymo vienuoliktąjį skirsnį,
 
-nuo 2002 m. liepos 1 d.
+įsigalioja nuo 2002 m. liepos 1 d.
 
 Statybos
 
@@ -5826,9 +5876,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1269, 2002-12-10,
+Nr. IX-1269,
 
-Žin., 2002, Nr. 124-5625 (2002-12-27)
+2002-12-10, Žin., 2002, Nr. 124-5625 (2002-12-27)
 
 STATYBOS
 
@@ -5858,13 +5908,31 @@ PAPILDYMO NAUJU DVYLIKTUOJU SKIRSNIU IR PRIEDU ĮSTATYMAS
 
 Įstatymas, išskyrus 9 straipsnį, įsigalioja nuo 2005 m. sausio 1 d.
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1924,
+
+2003-12-18, Žin., 2003, Nr. 123-5592 (2003-12-30)
+
+STATYBOS
+
+ĮSTATYMO 2, 5, 20, 23, 27, 33 IR 35 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šio
+
+įstatymo atitaisymas skelbtas: Žin., 2004, Nr. 13 (2004-01-24)
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-11-10)
+Aušra Bodin (2004-01-05)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
