@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "2002-05-04"
+last_updated: "2003-04-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2002-05-04 iki 2003-04-29
+Suvestinė redakcija nuo 2003-04-30 iki 2004-04-30
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -83,7 +83,11 @@ Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA
 
 2. Parama pagal šį įstatymą pripažįstama, jeigu ją teikia:
 
-1) Lietuvos Respublikos fiziniai, juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių, išskyrus politines partijas ir politines organizacijas, valstybės ir savivaldybių įmones bei įmones, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau negu 50 procentų balsų, taip pat biudžetines įstaigas ir kitas valstybės bei savivaldybių institucijas, Lietuvos banką;
+1) Lietuvos Respublikos fiziniai ir juridiniai asmenys, išskyrus politines partijas, politines organizacijas, valstybės ir savivaldybės įmones, biudžetines įstaigas, valstybės bei savivaldybių institucijas ir Lietuvos banką. Įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, parama pagal šį įstatymą yra pripažįstama, jeigu jos neturi mokestinių nepriemokų Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, taip pat įsiskolinimų su praleistais mokėjimo terminais Valstybinio socialinio draudimo fondo biudžetui bei laiku neįvykdytų skolinių įsipareigojimų pagal paskolos sutartis ir kitus įsipareigojamuosius skolos dokumentus, pasirašytus su Finansų ministerija, arba pagal sutartis su valstybės garantija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1519, 2003-04-22, Žin., 2003, Nr. 40-1812 (2003-04-30), i. k. 1031010ISTA0IX-1519
 
 2) užsienio valstybės, užsienio valstybių fiziniai ir juridiniai asmenys, tarptautinės organizacijos.
 
@@ -296,4 +300,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
 
 Lietuvos Respublikos labdaros ir paramos įstatymo 1, 3, 5, 10, 12 ir 15 straipsnių papildymo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1519, 2003-04-22, Žin., 2003, Nr. 40-1812 (2003-04-30), i. k. 1031010ISTA0IX-1519
+
+Lietuvos Respublikos labdaros ir paramos įstatymo 5 straipsnio pakeitimo įstatymas
 
