@@ -4,7 +4,7 @@ identifier: "TAR.B8F45E398856"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-28"
-last_updated: "1996-04-20"
+last_updated: "1996-10-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ Kiti  Stomatologinės priežiūros  (pagalbos)  įstatymo straipsniai įsigalioj
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
+
+Suvestinė redakcija nuo 1996-10-23 iki 1997-07-10
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
 
 LIETUVOS RESPUBLIKOS
 
@@ -61,13 +65,15 @@ stomatologinės priežiūros (pagalbos) įstaiga (toliau – įstaiga) – asmen
 
 Lietuvos nacionalinės sveikatos sistemos stomatologinės priežiūros (pagalbos) įstaiga (toliau – LNSS įstaiga) – valstybės ar savivaldybės įstaiga, akredituota Lietuvos nacionalinės sveikatos sistemos veiklai pagal šios sistemos veiklos organizavimo lygius, nustatytus įstatymų ir kitų teisės aktų;
 
-Gydytojų licencijų komitetas (GLK) – institucija, steigiama prie Sveikatos apaugos ministerijos licencijavimo funkcijoms vykdyti;
-
 sertifikatas – specialus dokumentas, patvirtinantis specialisto pasirengimą atlikti tam tikras stomatologines paslaugas;
 
 pirminės stomatologinės praktikos licencija – dokumentas, leidžiantis asmeniui verstis pirmine stomatologine praktika;
 
 specializuotos stomatologinės praktikos licencija – dokumentas, leidžiantis asmeniui verstis viena iš specializuotų stomatologinės praktikos rūšių.
+
+Straipsnio pakeitimai:
+
+Nr. I-1558, 1996-09-25, Žin., 1996, Nr. 102-2316 (1996-10-23), i. k. 0961010ISTA00I-1558
 
 II SKYRIUS
 
@@ -81,13 +87,17 @@ IR PRAKTIKA
 
 2. Teisę teikti tam tikras stomatologinės priežiūros (pagalbos) paslaugas ir patarnavimus (toliau – stomatologinės priežiūros paslaugos) suteikia sertifikatas. Stomatologinės priežiūros paslaugų rūšių, kurioms būtinas sertifikatas, sąrašą tvirtina Sveikatos apsaugos ministerija.
 
-3. Licencijas verstis stomatologine praktika ir sertifikatus teikti tam tikras stomatologinės priežiūros paslaugas išduoda GLK. GLK formavimo tvarką, licencijų ir sertifikatų išdavimo, sustabdymo ir atšaukimo tvarką nustato įstatymai ir kiti teisės aktai.
+3. Licencijas verstis stomatologine praktika ir sertifikatus teikti tam tikras stomatologinės priežiūros paslaugas išduoda, atnaujina, sustabdo ir panaikina Sveikatos apsaugos ministerija Gydytojo medicinos praktikos įstatymo ir kitų teisės aktų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1558, 1996-09-25, Žin., 1996, Nr. 102-2316 (1996-10-23), i. k. 0961010ISTA00I-1558
 
 4. Stomatologams licencijos išduodamos nustatyta pirminės medicinos praktikos licencijų išdavimo tvarka. Pirminės stomatologinės praktikos mastą ir paslaugų teikimo tvarką nustato Sveikatos apsaugos ministerija.
 
 5. Stomatologams specialistams licencijos išduodamos nustatyta specializuotos medicinos praktikos licencijų išdavimo tvarka. Specializuotos stomatologinės praktikos rūšis, mastą ir paslaugų teikimo tvarką nustato Sveikatos apsaugos ministerija.
 
-4 straipsnis.         Teisė verstis dantų techniko, burnos higienisto ir stomatologo padėjėjo praktika
+4 straipsnis. Teisė verstis dantų techniko, burnos higienisto ir stomatologo padėjėjo praktika
 
 1. Teisę verstis dantų techniko praktika turi asmenys, turintys aukštesniojo mokslo dantų techniko diplomą, įgytą ar nostrifikuotą Lietuvos Respublikoje, ir gavę dantų techniko licenciją. Dantų technikas, norintis gaminti dantų protezus iš brangiųjų metalų, privalo gauti sertifikatą.
 
@@ -149,7 +159,11 @@ Stomatologai ir stomatologai specialistai privalo:
 
 6) pranešti teisėtvarkos ar teisėsaugos institucijoms apie pacientus, kurie galėjo būti nusikaltimo vykdytojai, liudytojai ar nukentėjusieji;
 
-7) Sveikatos apsaugos ministerijos, GLK, teisėtvarkos ar teisėsaugos institucijų prašymu pateikti stomatologinės priežiūros duomenis;
+7) Sveikatos apsaugos ministerijos, teisėtvarkos ar teisėsaugos institucijų prašymu pateikti stomatologinės priežiūros duomenis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-1558, 1996-09-25, Žin., 1996, Nr. 102-2316 (1996-10-23), i. k. 0961010ISTA00I-1558
 
 8) naudoti tik Sveikatos apsaugos ministerijos patvirtintus gydymo metodus, įrangą ir medžiagas (medicinos technologijas);
 
@@ -400,4 +414,14 @@ Stomatologinės priežiūros (pagalbos) įstatymas įsigalioja Stomatologinės p
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1558, 1996-09-25, Žin., 1996, Nr. 102-2316 (1996-10-23), i. k. 0961010ISTA00I-1558
+
+Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymas
 
