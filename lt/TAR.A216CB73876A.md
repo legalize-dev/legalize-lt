@@ -4,7 +4,7 @@ identifier: "TAR.A216CB73876A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-28"
-last_updated: "1990-11-21"
+last_updated: "1991-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A216CB73876A"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo  14-25  straipsniai  ir  26  straipsnis 
 ---
 # Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymas
 
-Suvestinė redakcija nuo 1990-11-21 iki 1990-12-31
+Suvestinė redakcija nuo 1991-01-01 iki 1994-05-24
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-592, i. k. 090XX01ISTA000I-422
 
