@@ -4,7 +4,7 @@ identifier: "TAR.DEBA0718FB0F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2002-12-03"
+last_updated: "2003-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 department: "Lietuvos Respublikos Seimas"
@@ -156,13 +156,11 @@ Nr. IX-1214,
 
 naudotojai
 
-1. Vidaus vandenų kelių naudotojai –
+1.
 
-fiziniai ir juridiniai asmenys, besiverčiantys laivyba šiuose keliuose ir
+Vidaus vandenų kelių naudotojai – fiziniai ir juridiniai asmenys, besiverčiantys
 
-nustatyta tvarka gavę Aplinkos ministerijos ar jos įgaliotos institucijos
-
-leidimus naudoti vandens telkinius laivybai.
+laivyba šiuose keliuose.
 
 2. Vidaus vandenų kelių naudotojais taip
 
@@ -181,6 +179,12 @@ Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 
 Nr.85-2585 (00.10.11)
+
+Nr.
+
+IX-1942,
+
+2003-12-22, Žin., 2004, Nr. 4-45 (2004-01-07)
 
 8 straipsnis. Vidaus vandenų kelių
 
@@ -552,9 +556,9 @@ kitas asmuo, kuris teisėtai naudojasi laivu.
 
 2. Perleidus nuosavybės teisę į laivą,
 
-sudarius laivo nuomos ar panaudos sutartį, duomenys apie naują valdytoją
+sudarius laivo nuomos ar panaudos sutartį, duomenys apie naują valdytoją įrašomi
 
-įrašomi į Lietuvos Respublikos vidaus vandenų laivų registrą.
+į Lietuvos Respublikos vidaus vandenų laivų registrą.
 
 Straipsnio pakeitimai:
 
@@ -594,9 +598,9 @@ Nr. VIII-1900, 00.08.29, Žin., 2000,
 
 Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
 
-Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585
+Nr. VIII-1964, 00.09.26, Žin., 2000,
 
-(00.10.11)
+Nr.85-2585 (00.10.11)
 
 19 straipsnis. Laivo įgula
 
@@ -780,9 +784,9 @@ inspekcija.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1900, 00.08.29, Žin., 2000,
+Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267
 
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+(00.09.07), įsigalioja nuo 2000.10.01
 
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 
@@ -998,9 +1002,7 @@ priimtą užsakymą įsipareigoja priimti krovinį, pateikti laivą, pagal važt
 
 nugabenti patikėtą jam krovinį į paskirties punktą ir išduoti jį gavėjui, o
 
-siuntėjas įsipareigoja pateikti krovinį ir už jo vežimą sumokėti nustatytą
-
-užmokestį.
+siuntėjas įsipareigoja pateikti krovinį ir už jo vežimą sumokėti nustatytą užmokestį.
 
 39 straipsnis. Užsakymas
 
@@ -1672,9 +1674,9 @@ pakeliamųjų tiltų tarpatramius pagal laivybos taisykles.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267
+Nr. VIII-1900, 00.08.29, Žin., 2000,
 
-(00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
 
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 
@@ -1754,9 +1756,9 @@ keleiviui laive arba įsodinimo ar išlaipinimo iš jo metu, neatsižvelgiant į
 
 tai, ar laivas plaukė, ar stovėjo.
 
-60 straipsnis. Žalos, padarytos keleivio sveikatai
+60 straipsnis. Žalos, padarytos keleivio
 
-ar gyvybei, atlyginimas
+sveikatai ar gyvybei, atlyginimas
 
 Žala, padaryta keleivio sveikatai ar
 
@@ -2034,9 +2036,27 @@ VIDAUS VANDENŲ TRANSPORTO KODEKSO
 
 PRIEDU ĮSTATYMAS
 
-*** Pabaiga ***
+5.
 
-Redagavo: Aušrinė Trapinskienė (2003-01-23)
+Lietuvos
 
-autrap@lrs.lt
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1942,
+
+2003-12-22, Žin., 2004, Nr. 4-45 (2004-01-07)
+
+VIDAUS
+
+VANDENŲ TRANSPORTO KODEKSO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušra Bodin (2004-01-07)
+
+aubodi@lrs.lt
 
