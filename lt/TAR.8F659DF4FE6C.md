@@ -4,7 +4,7 @@ identifier: "TAR.8F659DF4FE6C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-09"
-last_updated: "1997-06-17"
+last_updated: "1998-12-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8F659DF4FE6C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,11 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir Vyriausybės vadovų, Seimo narių, valstybės ir savivaldybių įstaigų bei organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramunė Lūžaitė (1997.07.04)
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.07.04)
+Ramunė Lūžaitė (1999.01.25)
 
 Įstatymas
 
@@ -48,6 +48,20 @@ RESPUBLIKOS VALSTYBĖS IR VYRIAUSYBĖS VADOVŲ, SEIMO NARIŲ, VALSTYBĖS IR
 SAVIVALDYBIŲ ĮSTAIGŲ BEI ORGANIZACIJŲ DARBUOTOJŲ DARBO APMOKĖJIMO PAGRINDŲ
 
 ĮSTATYMO 12 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1012,
+
+98.12.29, Žin., 1999, Nr.7-140 (99.01.15)
+
+LIETUVOS RESPUBLIKOS
+
+DIPLOMATINĖS TARNYBOS ĮSTATYMAS
 
 ***
 
@@ -253,13 +267,13 @@ taikoma:
 
 1)
 
-valstybės ir savivaldybių įmonių, kurių gaminamos produkcijos  kainų ir
+valstybės ir savivaldybių įmonių, kurių gaminamos produkcijos  kainų ir teikiamų
 
-teikiamų paslaugų  tarifų  dydžius reguliuoja  steigėjai - Vyriausybė,
+paslaugų  tarifų  dydžius reguliuoja  steigėjai - Vyriausybė,  ministerijos,
 
-ministerijos,  kitos Vyriausybės  institucijos, savivaldybės ar  jų  įgaliotos
+kitos Vyriausybės  institucijos, savivaldybės ar  jų  įgaliotos pavaldžios
 
-pavaldžios institucijos, administracijos darbuotojams;
+institucijos, administracijos darbuotojams;
 
 2)
 
@@ -313,9 +327,9 @@ darbas (pareigybė) priskiriamas tarifinei grupei (arba grupėms) (2 priedėlis)
 
 Aukščiausios - XXX tarifinės grupės darbas vertinamas koeficientu 15. Tai
 
-reiškia, kad šis darbas yra tiek kartų svaresnis (daugiau apmokamas) už mažiausio
+reiškia, kad šis darbas yra tiek kartų svaresnis (daugiau apmokamas) už
 
-sudėtingumo - I tarifinės grupės darbą (3 priedėlis).
+mažiausio sudėtingumo - I tarifinės grupės darbą (3 priedėlis).
 
 TREČIASIS SKIRSNIS
 
@@ -337,9 +351,9 @@ valstybės  ir Vyriausybės vadovų, Seimo  narių, Konstitucinio Teismo, vals
 
 valdžios ir valdymo, teisminės valdžios  institucijų bei prokuratūros vadovų,
 
-taip  pat teisėjų, Seimo kontrolierių, Prezidento, Seimo ir Vyriausybės
+taip  pat teisėjų, Seimo kontrolierių, Prezidento, Seimo ir Vyriausybės patarėjų
 
-patarėjų pareigybių - šio įstatymo 8 straipsnis;
+pareigybių - šio įstatymo 8 straipsnis;
 
 2)
 
@@ -413,13 +427,13 @@ Kvalifikacinės kategorijos nenustatomos valstybės ir Vyriausybės vadovams,
 
 Seimo ir Vyriausybės nariams, Seimui, Prezidentui  (Prezidentūrai)  ir
 
-Vyriausybei  atskaitingų (pavaldžių)  valstybės  įstaigų  vadovams  bei
+Vyriausybei  atskaitingų (pavaldžių)  valstybės  įstaigų  vadovams  bei  apskričių
 
-apskričių valdytojams ir miestų bei rajonų merams, taip pat pareigūnams,
+valdytojams ir miestų bei rajonų merams, taip pat pareigūnams, kuriems už
 
-kuriems už suteiktus karinius, tarnybos, pareigūnų laipsnius ar diplomatinius
+suteiktus karinius, tarnybos, pareigūnų laipsnius ar diplomatinius rangus šio
 
-rangus šio įstatymo 11 straipsnyje nustatyta tvarka mokami priedai .
+įstatymo 11 straipsnyje nustatyta tvarka mokami priedai .
 
 8
 
@@ -963,17 +977,17 @@ prie Finansų ministerijos, Valstybės atominės energetikos saugos inspekcijos
 
 vadovams ir darbuotojams, vykdantiems šioms įstaigoms teisės aktų nustatytas
 
-funkcijas. Jiems įstatymas įsigalios 1998 - 1999 metais, Seimui priėmus
+funkcijas. Jiems įstatymas įsigalios 1998 - 1999 metais, Seimui priėmus atitinkamus
 
-atitinkamus įstatymus, kai šio įstatymo nustatyti apmokėjimo dydžiai pasieks
+įstatymus, kai šio įstatymo nustatyti apmokėjimo dydžiai pasieks šių įstaigų
 
-šių įstaigų vadovų, teisėjų, pareigūnų, karių ir darbuotojų iki 1998 m. sausio
+vadovų, teisėjų, pareigūnų, karių ir darbuotojų iki 1998 m. sausio 1 d. esamus
 
-1 d. esamus darbo apmokėjimo dydžius. Iki tol šių įstaigų vadovams, teisėjams,
+darbo apmokėjimo dydžius. Iki tol šių įstaigų vadovams, teisėjams, pareigūnams,
 
-pareigūnams, kariams ir darbuotojams taikoma iki 1998 m. sausio 1 d. galiojanti
+kariams ir darbuotojams taikoma iki 1998 m. sausio 1 d. galiojanti darbo
 
-darbo (tarnybos) apmokėjimo tvarka. Teisės aktų šioms pareigybėms nustatyti
+(tarnybos) apmokėjimo tvarka. Teisės aktų šioms pareigybėms nustatyti
 
 pareiginių algų bei atlygių, priedų ir priemokų dydžiai nedidinami ir
 
@@ -983,9 +997,9 @@ darbo užmokesčio fondas (išskyrus atvejus, kai vadovaujantis teisės aktų
 
 patvirtintais normatyvais ir tvarka didinamas etatų skaičius ). Pareigybių,
 
-kurioms laikinai netaikoma šio įstatymo nustatyta darbo apmokėjimo tvarka,
+kurioms laikinai netaikoma šio įstatymo nustatyta darbo apmokėjimo tvarka, sąrašus
 
-sąrašus tvirtina šioje dalyje nurodytų įstaigų vadovai.
+tvirtina šioje dalyje nurodytų įstaigų vadovai.
 
 3.
 
@@ -1003,19 +1017,19 @@ Aukštesnės tarifinės  grupės pareiginė alga (valandinis atlygis), apskaič
 
 pirmai kvalifikacinei  kategorijai šio  įstatymo  10  straipsnio nustatyta
 
-tvarka, kartu su kompensacine priemoka turi 5 procentais viršyti žemesnės tarifinės
+tvarka, kartu su kompensacine priemoka turi 5 procentais viršyti žemesnės
 
-grupės pareiginės algos (valandinio atlygio) ir kompensacinės priemokos sumą.
+tarifinės grupės pareiginės algos (valandinio atlygio) ir kompensacinės
 
-Visi teisės  aktuose numatyti priedai, priemokos bei didesnis apmokėjimas
+priemokos sumą. Visi teisės  aktuose numatyti priedai, priemokos bei didesnis
 
-skaičiuojami imant pareiginės algos (tarifinio atlygio)  ir kompensacinės
+apmokėjimas skaičiuojami imant pareiginės algos (tarifinio atlygio)  ir
 
-priemokos bendrą sumą.  Seimo nustatyta tarifinio koeficiento vieneto (1,0)
+kompensacinės priemokos bendrą sumą.  Seimo nustatyta tarifinio koeficiento
 
-vertė taip pat taikoma šio įstatymo 10 straipsnyje bei 11 straipsnio 2 ir 3
+vieneto (1,0) vertė taip pat taikoma šio įstatymo 10 straipsnyje bei 11
 
-punktuose nurodytiems dydžiams apskaičiuoti.
+straipsnio 2 ir 3 punktuose nurodytiems dydžiams apskaičiuoti.
 
 4.
 
@@ -1151,9 +1165,9 @@ Pavyzdžiui, bendrasis veiksnys "Socialinė reikšmė" susideda iš dviejų
 
 vienetinių veiksnių: paskyrimo į darbo vietą (pareigas) tvarkos ir darbo
 
-reikšmės. Dirbant pagal darbo sutartį, suteikiami 5 balai, o Vyriausybės
+reikšmės. Dirbant pagal darbo sutartį, suteikiami 5 balai, o Vyriausybės paskyrimu
 
-paskyrimu - 40 balų.
+- 40 balų.
 
 3.
 
@@ -1275,9 +1289,9 @@ Lietuvos Respublikos
 
 DARBŲ (PAREIGYBIŲ) VERTINIMO SCHEMA
 
-______________________________________________________________
+______________________________________________________________ _____________
 
-_____________ Bendrų-  Viene-                   Veiksnio vertė jų      ir
+Bendrų-  Viene-                   Veiksnio vertė jų      ir
 
 tinio          Veiksniai _____________ vieneti-veiks-
 
@@ -1315,11 +1329,11 @@ išsimokslinimo          6    5
 
 1.1.8. Aukštasis (pagal specialybę)        72 60
 
-1.1.9.  Magistras                 78 65
+1.1.9.  Magistras                 78 65
 
 1.1.10. Mokslų daktaras         102   85
 
-1.1.11.   Habilituotas   mokslų   daktaras 120       100
+1.1.11.   Habilituotas   mokslų   daktaras 120       100
 
 1.2.
 
@@ -1327,7 +1341,7 @@ Profesinė patirtis            80 8
 
 1.2.1. Darbui atlikti nereikia profesinės
 
-patirties                 4 5
+patirties                 4 5
 
 1.2.2. Būtinas 1-6 mėn. trukmės apmokymas
 
@@ -1597,7 +1611,7 @@ Paskyrimo į darbo vietą (pareigas)
 
 tvarka             100   10
 
-2.1.1. Darbo sutartis          5    5
+2.1.1. Darbo sutartis          5    5
 
 2.1.2.  Priimti dirbti statutiniais  pagrindais 20   20
 
@@ -1629,11 +1643,11 @@ Darbo reikšmė          120   12
 
 2.2.2.  Operatoriai                12 10
 
-2.2.3.  Kvalifikuoti darbininkai         24 20
+2.2.3.  Kvalifikuoti darbininkai         24 20
 
 2.2.4. Aptarnavimo ir prekybos darbuotojai    36 30
 
-2.2.5.  Tarnautojai                48 40
+2.2.5.  Tarnautojai                48 40
 
 2.2.6.  Technikai  ir  asocijuoti  specialistai 60   50
 
@@ -1677,7 +1691,7 @@ priežiūros darbo metu           40 50
 
 sveikatą ir gyvybę. Sunku prognozuoti
 
-nelaimingų atsitikimų pasekmes       64 80
+nelaimingų atsitikimų pasekmes       64 80
 
 3.1.5. Išimtinė teisė priimti tam tikrus
 
@@ -1689,7 +1703,7 @@ pasekmės gali lemti žmonių gyvybę     80 100
 
 Materialinė ir moralinė atsakomybė     50 5
 
-3.2.1.    Nėra   materialiai   atsakingas 2,5   5
+3.2.1.    Nėra   materialiai   atsakingas 2,5   5
 
 3.2.2. Materialiai atsakingas už darbo
 
@@ -1723,7 +1737,7 @@ stabilumui                30 60
 
 asmeninio turto saugą, teisių gynimą,
 
-išsimokslinimo lygį            35 70
+išsimokslinimo lygį            35 70
 
 3.2.7. Atsakomybė už dideles materialines ir
 
@@ -1787,7 +1801,7 @@ organizacijomis         30   60
 
 3.3.6. Organizacijos interesų reprezentavimas
 
-tarptautiniu lygiu, mokslas        35 70
+tarptautiniu lygiu, mokslas        35 70
 
 3.3.7. Organizacijos interesų reprezentavimas
 
@@ -1813,7 +1827,7 @@ DARBO SUNKUMAS IR SĄLYGOS150   15
 
 Protinis ir fizinis krūvis, nervinė
 
-įtampa             100   10
+įtampa             100   10
 
 4.1.1.  Darbas nesukelia nervinės įtampos     5 5
 
@@ -1943,9 +1957,9 @@ lygio         parinkimo
 
 šifras        pagrindimas) 1. Darbo sudėtingumas 1.1. Išsimokslinimas 1.2.
 
-Profesinė patirtis 1.3. Sprendimų mastas 1.4. Vadybos lygis 1.5. Pareigų lygis 2.
+Profesinė patirtis 1.3. Sprendimų mastas 1.4. Vadybos lygis 1.5. Pareigų lygis
 
-Socialinė reikšmė 2.1. Darbo vietos užėmimo
+2. Socialinė reikšmė 2.1. Darbo vietos užėmimo
 
 tvarka 2.2. Darbo reikšmė 3. Atsakomybė 3.1. Įtaka kitų asmenų saugumui 3.2.
 
@@ -2015,7 +2029,7 @@ nuo       iki
 
 404       436       XIII
 
-437       469       XIV
+437       469       XIV
 
 470       502       XV
 
@@ -2031,7 +2045,7 @@ nuo       iki
 
 668       700       XXI
 
-701       733       XXII
+701       733       XXII
 
 734       766       XXIII
 
@@ -2269,25 +2283,13 @@ Lietuvos Respublikos
 
 PRIEDAI UŽ DIPLOMATINIUS RANGUS
 
-(minimalios mėnesinės algos dydžiais)
+(neteko galios nuo 1999 m. sausio 15 d.)
 
-Diplomatinis rangas       Koeficientas
+Priedėlio
 
-Atašė              0,7
+pakeitimai:
 
-III sekretorius         0,9
+Nr. VIII-1012,
 
-II sekretorius          1,1
-
-I sekretorius          1,3
-
-Patarėjas                1,5
-
-Lietuvos Respublikos nepaprastasis
-
-pasiuntinys ir įgaliotas ministras    1,75
-
-Lietuvos Respublikos nepaprastasis
-
-ir įgaliotasis ambasadorius        2,0
+98.12.29, Žin., 1999, Nr.7-140 (99.01.15)
 
