@@ -4,7 +4,7 @@ identifier: "TAR.84CB75BE0C44"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-31"
-last_updated: "1997-06-17"
+last_updated: "1997-06-24"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.84CB75BE0C44"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -20,9 +20,9 @@ eu_legal_act: "true"
 
 Neoficialus ?statymo tekstas
 
-Redagavo:
+Redagavo: Ramunė
 
-Ramunė Lūžaitė (1997.07.03)
+Lūžaitė (1997.07.01)
 
 Įstatymas
 
@@ -390,22 +390,6 @@ RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO PAPILDYMO 4(1) STRAIPSN
 
 IR 2, 3, 4, 5, 7, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-21.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-265, 97.06.17, Žin., 1997, Nr.63-1473 (97.07.02)
-
-LIETUVOS
-
-RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 3 STRAIPSNIO PAPILDYMO
-
-ĮSTATYMAS
-
 ***
 
 Pabaiga ***
@@ -498,17 +482,15 @@ straipsnis. Apmokestinamojo pelno apskaičiavimo pagrindas - realizavimo pajamų
 
 ir nerealizacinių pajamų suma (toliau - bendrosios pajamos).
 
-Realizavimo pajamas sudaro iš įmonės išsiųsta produkcija, kitos materialinės
+Realizavimo
 
-vertybės, atlikti darbai ir suteiktos paslaugos bei kompensaciniai priedai.
+pajamas sudaro iš įmonės išsiųsta produkcija, kitos materialinės vertybės,
 
-Parduodant materialųjį ilgalaikį turtą (nebaigtą statybą) pigiau negu jo
+atlikti darbai ir suteiktos paslaugos bei kompensaciniai priedai. Parduodant
 
-likutinė vertė, realizavimo pajamas sudarys suma, ne mažesnė už to turto
+materialųjį ilgalaikį turtą (nebaigtą statybą) pigiau negu jo likutinė vertė,
 
-likutinę vertę. Bankrutavusios įmonės pajamos už parduotą turtą realizavimo
-
-pajamoms nepriskiriamos.
+realizavimo pajamas sudarys suma, ne mažesnė už to turto likutinę vertę.
 
 Nerealizacines
 
@@ -580,13 +562,9 @@ Nr.
 
 VIII-290, 97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
 
-Nr.
-
-VIII-265, 97.06.17, Žin., 1997, Nr.63-1473 (97.07.02)
-
 4
 
-straipsnis. Iš bendrųjų pajamų atskaičius 5 straipsnyje nurodytus  gamybos  ir
+straipsnis. Iš bendrųjų pajamų atskaičius 5 straipsnyje nurodytus  gamybos  ir
 
 cirkuliacijos  kaštus,  tenkančius realizuotai produkcijai, darbams ir
 
@@ -600,13 +578,15 @@ apmokestinamasis pelnas. Jeigu gaunami nuostoliai (neigiami rezultatai), gautą
 
 nuostolių sumą leidžiama perkelti į kitus mokestinius metus. Mokestinių metų
 
-nuostolius perkelti leidžiama ne ilgiau kaip trejus mokestinius metus, pradedant
+nuostolius perkelti leidžiama ne ilgiau kaip trejus mokestinius metus,
 
-skaičiuoti nuo kitų metų, negu nuostoliai susidarė. Pasibaigus šiam terminui,
+pradedant skaičiuoti nuo kitų metų, negu nuostoliai susidarė. Pasibaigus šiam
 
-nuostoliai nebeperkeliami. Mokestiniai metai sutampa su kalendoriniais metais.
+terminui, nuostoliai nebeperkeliami. Mokestiniai metai sutampa su
 
-Mokestinių metų nuostolių perkėlimo tvarką nustato finansų ministras.
+kalendoriniais metais. Mokestinių metų nuostolių perkėlimo tvarką nustato
+
+finansų ministras.
 
 Juridinių asmenų, užsiimančių nekomercine veikla, apmokestinamasis pelnas
 
@@ -642,17 +622,17 @@ Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės,
 
 Lietuvos vaiko draugija, Lietuvos invalidų draugija, Lietuvos žmonių su negalia
 
-sąjunga,sumoka į biudžetą 5 procentus pajamų nuo nominalios išplatintų loterijos
+sąjunga,sumoka į biudžetą 5 procentus pajamų nuo nominalios išplatintų
 
-bilietų (kortelių) vertės ir 8 procentus pajamų nuo nominalios išplatintų
+loterijos bilietų (kortelių) vertės ir 8 procentus pajamų nuo nominalios
 
-loterijos bilietų (kortelių) vertės privalomai skiria labdarai ir paramai.
+išplatintų loterijos bilietų (kortelių) vertės privalomai skiria labdarai ir
 
-Nustatytos pajamų dalies sumokėjimo į biudžetą bei skyrimo labdarai ir paramai
+paramai. Nustatytos pajamų dalies sumokėjimo į biudžetą bei skyrimo labdarai ir
 
-tvarką, konkrečių labdaros bei paramos davėjų ir gavėjų sarašą nustato Lietuvos
+paramai tvarką, konkrečių labdaros bei paramos davėjų ir gavėjų sarašą nustato
 
-Respublikos Vyriausybė.
+Lietuvos Respublikos Vyriausybė.
 
 Pinigines ir pinigines - daiktines loterijas rengiančios įmonės juridinių
 
@@ -856,11 +836,11 @@ tenkančios realizuotai produkcijai:
 
 6) mokesčiai, rinkliavos bei kitos privalomos įmokos, nustatytos Lietuvos
 
-Respublikos įstatymų bei Vyriausybės nutarimų, išskyrus pridėtinės vertės mokestį,
+Respublikos įstatymų bei Vyriausybės nutarimų, išskyrus pridėtinės vertės
 
-mokamą į biudžetą, palūkanas už valstybinio kapitalo naudojimą bei baudas,
+mokestį, mokamą į biudžetą, palūkanas už valstybinio kapitalo naudojimą bei
 
-delspinigius ir kitas sankcijas;
+baudas, delspinigius ir kitas sankcijas;
 
 7) palūkanos už paskolas ir įmokos, susijusios su paskolų garantijų gavimu;
 
@@ -870,9 +850,9 @@ delspinigius ir kitas sankcijas;
 
 draudimo įmokų dalis, išskyrus draudimo įmokų grąžinimo techninį atidėjimą;
 
-9) Ignalinos atominės elektrinės papildomos sąnaudos, nustatytos Lietuvos Respublikos
+9) Ignalinos atominės elektrinės papildomos sąnaudos, nustatytos Lietuvos
 
-Vyriausybės nutarimų, nenumatytos šiame straipsnyje;
+Respublikos Vyriausybės nutarimų, nenumatytos šiame straipsnyje;
 
 10) pirkimo ir sumokėto importo pridėtinės vertės mokesčio sumos, neatskaitomos
 
@@ -910,13 +890,13 @@ VIII-290, 97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
 
 straipsnis.  Nustatant  apmokestinamąjį  pelną iš 4 straipsnyje  nustatyta
 
-tvarka  apskaičiuoto  pelno atimamos Lietuvos  Respublikos labdaros ir paramos įstatymo
+tvarka  apskaičiuoto  pelno atimamos Lietuvos  Respublikos labdaros ir paramos
 
-numatytų labdaros organizacijų ir fondų, invalidų draugijų ir sąjungų bei jų
+įstatymo numatytų labdaros organizacijų ir fondų, invalidų draugijų ir sąjungų
 
-įmonių visos faktiškai padarytos ir juridinę galią turinčiais dokumentais
+bei jų įmonių visos faktiškai padarytos ir juridinę galią turinčiais
 
-patvirtintos išlaidos, skirtos labdaros ir paramos tikslams.
+dokumentais patvirtintos išlaidos, skirtos labdaros ir paramos tikslams.
 
 Nustatant
 
@@ -1138,15 +1118,15 @@ realizacinių pajamų, pelno mokesčio tarifas pirmuosius 2 metus nuo įmonės
 
 Kredito
 
-unijos iki 1997 m. gruodžio 31 d. atleidžiamos nuo juridinių asmenų pelno
+unijos iki 1997 m. gruodžio 31 d. atleidžiamos nuo juridinių asmenų pelno mokesčio
 
-mokesčio pirmuosius 2 veiklos metus, skaičiuojant nuo įregistravimo šio
+pirmuosius 2 veiklos metus, skaičiuojant nuo įregistravimo šio įstatymo
 
-įstatymo nustatyta tvarka dienos. Nuo 1998 m. sausio 1 d. arba jeigu iki to
+nustatyta tvarka dienos. Nuo 1998 m. sausio 1 d. arba jeigu iki to laiko suėjo
 
-laiko suėjo 2 metai nuo kredito unijos įregistravimo dienos, kredito unijos
+2 metai nuo kredito unijos įregistravimo dienos, kredito unijos pelnas
 
-pelnas apmokestinamas 70 procentų mažesniu juridinių asmenų pelno mokesčiu.
+apmokestinamas 70 procentų mažesniu juridinių asmenų pelno mokesčiu.
 
 Organizacijų
 
@@ -1302,13 +1282,13 @@ straipsnis. Kiekvienam ketvirčiui pasibaigus, iki kito ketvirčio pirmojo
 
 mėnesio 15 dienos ir, mokestiniams metams pasibaigus,  iki  kitų  metų
 
-vasario  1  dienos mokėtojai valstybinėms mokesčių inspekcijoms pristato Lietuvos
+vasario  1  dienos mokėtojai valstybinėms mokesčių inspekcijoms pristato
 
-Respublikos buhalterinės   apskaitos   pagrindų   įstatymo  nustatytą finansinę
+Lietuvos Respublikos buhalterinės   apskaitos   pagrindų   įstatymo  nustatytą
 
-atskaitomybę ir pelno mokesčio apyskaitą. Mokesčio apyskaitos formą ir jos
+finansinę atskaitomybę ir pelno mokesčio apyskaitą. Mokesčio apyskaitos formą
 
-užpildymo tvarką nustato  Finansų ministerija.
+ir jos  užpildymo tvarką nustato  Finansų ministerija.
 
 Jei
 
@@ -1352,17 +1332,17 @@ Respublikos Vyriausybė, atsižvelgusi į priežastis, dėl kurių mokėtojas la
 
 neatsiskaitė su biudžetu, gali kai kuriems mokėtojams atidėti priskaičiuotų
 
-delspinigių mokėjimo į biudžetą   terminą.  Atidėjimo  laikotarpiu
+delspinigių mokėjimo į biudžetą   terminą.  Atidėjimo  laikotarpiu  delspinigiai
 
-delspinigiai neskaičiuojami.  Jeigu  mokėtojas  iki  delspinigių mokėjimo
+neskaičiuojami.  Jeigu  mokėtojas  iki  delspinigių mokėjimo atidėjimo
 
-atidėjimo paskutinės dienos nesumoka priskaičiuotų delspinigių, tai
+paskutinės dienos nesumoka priskaičiuotų delspinigių, tai delspinigiai
 
-delspinigiai priskaičiuojami ir sumokami į biudžetą ir už visą atidėjimo
+priskaičiuojami ir sumokami į biudžetą ir už visą atidėjimo laikotarpį.
 
-laikotarpį. Mokėjimo atidėjimo pradžia laikoma diena,  kurią įsigaliojo
+Mokėjimo atidėjimo pradžia laikoma diena,  kurią įsigaliojo priimtas
 
-priimtas Vyriausybės nutarimas dėl priskaičiuotų delspinigių atidėjimo termino
+Vyriausybės nutarimas dėl priskaičiuotų delspinigių atidėjimo termino
 
 nustatymo.
 
@@ -1404,9 +1384,9 @@ galima iš tokio juridinio asmens apskaičiuoto pelno mokesčio atimti sumą, ly
 
 užsienio valstybėje sumokėtam pelno mokesčiui. Ši atimama suma negali  viršyti
 
-tos Lietuvos Respublikoje apskaičiuoto mokesčio dalies, kuri priskiriama užsienio
+tos Lietuvos Respublikoje apskaičiuoto mokesčio dalies, kuri priskiriama
 
-valstybėje gautoms pajamoms.
+užsienio valstybėje gautoms pajamoms.
 
 20
 
@@ -1436,7 +1416,7 @@ RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS
 
-TARYBOS PIRMININKAS                         V. LANDSBERGIS
+TARYBOS PIRMININKAS                         V. LANDSBERGIS
 
 Vilnius,
 
