@@ -4,7 +4,7 @@ identifier: "TAR.C543D39A1A6E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-11"
-last_updated: "1999-11-16"
+last_updated: "1999-12-16"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C543D39A1A6E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Seimo narių darbo sąlygų įstatymas
 
-Redagavo: Ramunė Lūžaitė
-
-(1999.12.09)
+Redagavo: Ramunė Lūžaitė (2000.02.22)
 
 Įstatymas paskelbtas: Žin., 1996, Nr.71-1710
 
@@ -50,6 +48,20 @@ Nr. VIII-1421, 99.11.16, Žin.,
 LIETUVOS RESPUBLIKOS SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 1, 5, 7, 16, 20
 
 IR 22 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1483, 99.12.16, Žin., 1999, Nr.109-3175
+
+(99.12.24)
+
+LIETUVOS RESPUBLIKOS SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 16 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2000 m. sausio 1 d.
 
 *** Pabaiga ***
 
@@ -213,9 +225,9 @@ SEIMO NARIŲ DALYVAVIMAS SEIMO, JO KOMITETŲ,
 
 KOMISIJŲ IR PAKOMITEČIŲ POSĖDŽIUOSE
 
-8  straipsnis. Pranešimas apie
+8  straipsnis. Pranešimas apie negalėjimą
 
-negalėjimą  dalyvauti posėdyje
+dalyvauti posėdyje
 
 Jeigu Seimo narys negali dalyvauti
 
@@ -231,9 +243,9 @@ laikoma, kad posėdis praleistas be svarbios priežasties.
 
 9 straipsnis. Nedalyvavimo priežastys
 
-Nedalyvavimo Seimo posėdyje iš anksto
+Nedalyvavimo Seimo posėdyje iš
 
-numatytų balsavimų metu, taip pat nedalyvavimo komiteto, komisijos ar
+anksto numatytų balsavimų metu, taip pat nedalyvavimo komiteto, komisijos ar
 
 pakomitečio posėdyje  svarbiomis  priežastimis laikoma:  Seimo  nario
 
@@ -319,13 +331,13 @@ numatytų balsavimų metu, kai buvo priimami teisės aktai, arba daugiau kaip
 
 ketvirtadalyje Seimo komiteto, komisijos ar pakomitečio, kurių darbe turi
 
-dalyvauti, posėdžių, to mėnesio atlyginimas sumažinamas vienu trečdaliu. Remiantis
+dalyvauti, posėdžių, to mėnesio atlyginimas sumažinamas vienu trečdaliu.
 
-Seimo Etikos ir procedūrų komisijos išvadomis, atlyginimas sumažinamas Seimo
+Remiantis Seimo Etikos ir procedūrų komisijos išvadomis, atlyginimas
 
-valdybos sprendimu. Suma, kuria sumažinamas Seimo nario atlyginimas, išskaitoma
+sumažinamas Seimo valdybos sprendimu. Suma, kuria sumažinamas Seimo nario
 
-iš kito, artimiausio mėnesio atlyginimo.
+atlyginimas, išskaitoma iš kito, artimiausio mėnesio atlyginimo.
 
 3. Jeigu Seimo nariui įstatymų
 
@@ -349,9 +361,9 @@ nemokamas už visą šios bausmės atlikimo laiką. Panaikinus nuosprendį Seimo
 
 nariui ir nutraukus baudžiamąją bylą šio straipsnio 3 dalyje nurodytais
 
-pagrindais, ne vėliau kaip per 5 darbo dienas išmokamas visas Seimo nario atlyginimas,
+pagrindais, ne vėliau kaip per 5 darbo dienas išmokamas visas Seimo nario
 
-kurio jis negavo atlikdamas laisvės atėmimo bausmę.
+atlyginimas, kurio jis negavo atlikdamas laisvės atėmimo bausmę.
 
 Straipsnio pakeitimai:
 
@@ -437,6 +449,10 @@ Administravimo komisija, patvirtintų limitų. Seimo narys už telefoninius
 
 pokalbius, viršijančius nustatytą limitą, sumoka iš savo lėšų.
 
+[16 straipsnio 5 dalies redakcija iki
+
+2000 m. sausio 1 d.]
+
 5. Frakcijos veiklai mėnesiui skiriama
 
 0,5 VDU suma ir po 0,2 VDU sumos už kiekvieną frakcijos narį. Šios lėšos gali
@@ -445,11 +461,31 @@ būti naudojamos įstatymų rengimo ir ekspertizės išlaidoms, reprezentacijai,
 
 pašto, telefono ir kitoms reikmėms apmokėti.
 
+[16 straipsnio 5 dalies redakcija nuo
+
+2000 m. sausio 1 d.]
+
+5.
+
+Frakcijos veiklai metams skiriama 1 VDU dydžio suma bei papildoma suma,
+
+atsižvelgiant į frakcijos dydį ir skaičiuojant po 0,2 VDU kiekvienam frakcijos
+
+nariui. Jeigu frakcijos dydis kinta, jai skiriamos lėšos tikslinamos kiekvieną
+
+mėnesį. Šios lėšos naudojamos įstatymų rengimo ir ekspertizės išlaidoms,
+
+reprezentacijai, pašto, telefono ir kitoms frakcijos darbo reikmėms apmokėti.
+
 Straipsnio pakeitimai:
 
 Nr. VIII-1421, 99.11.16, Žin.,
 
 1999, Nr.104-2974 (99.12.08)
+
+Nr. VIII-1483, 99.12.16, Žin., 1999, Nr.109-3175
+
+(99.12.24)
 
 17 straipsnis. Seimo narių teisė grįžti
 
@@ -475,7 +511,9 @@ Seimo narys taip pat turi teisę kreiptis į Valdymo reformų ir savivaldybių
 
 reikalų ministeriją, kuri informuoja buvusį Seimo narį apie laisvas valdininkų
 
-darbo vietas jo nuolatinėje gyvenamojoje vietovėje ir, jeigu jis sutinka, įdarbina.
+darbo vietas jo nuolatinėje gyvenamojoje vietovėje ir, jeigu jis sutinka,
+
+įdarbina.
 
 2. Seimo nario parlamentinės veiklos
 
@@ -515,13 +553,13 @@ padėjėju-sekretoriumi terminuotą darbo sutartį Seimo nario įgaliojimų laik
 
 Seimo nario teikimu sudaro Seimo kancleris. Seimo nario įgaliojimams pasibaigus
 
-pirma laiko, su padėjėju-sekretoriumi sudaryta terminuota darbo sutartis nutraukiama.
+pirma laiko, su padėjėju-sekretoriumi sudaryta terminuota darbo sutartis
 
-Pasibaigus darbo sutarčiai dėl to, kad baigėsi Seimo nario įgaliojimai,
+nutraukiama. Pasibaigus darbo sutarčiai dėl to, kad baigėsi Seimo nario
 
-padėjėjui-sekretoriui išmokama  2 vidutinių mėnesinių darbo užmokesčių  dydžio
+įgaliojimai, padėjėjui-sekretoriui išmokama  2 vidutinių mėnesinių darbo
 
-išeitinė pašalpa.
+užmokesčių  dydžio išeitinė pašalpa.
 
 3.  Seimo nario
 
@@ -607,9 +645,9 @@ savivaldybės.
 
 2. Lietuvos Respublikos diplomatinės
 
-atstovybės užsienyje privalo teikti Seimo nariams paramą komandiruočių atitinkamoje
+atstovybės užsienyje privalo teikti Seimo nariams paramą komandiruočių
 
-užsienio valstybėje metu.
+atitinkamoje užsienio valstybėje metu.
 
 3. Seimo narių socialinio draudimo
 
@@ -633,7 +671,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
 įstatymą.
 
-RESPUBLIKOS PREZIDENTAS
+RESPUBLIKOS PREZIDENTAS                                ALGIRDAS
 
-ALGIRDAS BRAZAUSKAS
+BRAZAUSKAS
 
