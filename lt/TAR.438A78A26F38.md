@@ -4,7 +4,7 @@ identifier: "TAR.438A78A26F38"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-01-26"
-last_updated: "1993-02-21"
+last_updated: "1994-12-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1993-01-26"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Prezidento įstatymas
+
+Suvestinė redakcija nuo 1994-12-07 iki 1998-02-24
+
+Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
 
 LIETUVOS RESPUBLIKOS
 
@@ -159,7 +163,11 @@ Lietuvos Respublikos įstatymo teksto pabaigoje prieš Respublikos Prezidento pa
 
 Nustatomas toks Respublikos Prezidento valstybinis aprūpinimas ir aptarnavimas:
 
-1) darbo užmokestis – 25 minimalių gyvenimo lygių dydžio;
+1) darbo užmokestis – 12 vidutinių mėnesinių darbo užmokesčių (VMDU) dydžio;
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
 
 2) rezidencija Vilniuje ir vasaros rezidencija, taip pat tarnybinis butas Vilniuje;
 
@@ -167,9 +175,17 @@ Nustatomas toks Respublikos Prezidento valstybinis aprūpinimas ir aptarnavimas:
 
 4) apsauga, kuria rūpinasi specialios paskirties tarnyba;
 
-5) atstovavimo išlaidos šalies viduje;
+5) atstovavimo išlaidos šalies viduje ir lankantis užsienio valstybėse – pagal tarptautinę diplomatinę praktiką atsiskaitytinai ir 25 procentai Respublikos Prezidento mėnesinio darbo užmokesčio neatsiskaitytinai.
 
-6) išlaidos, lankantis užsienio valstybėse – pagal bendrąsias tarptautines normas.
+Straipsnio punkto pakeitimai:
+
+Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
+
+6) neteko galios 1994-12-07.
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
 
 19 straipsnis
 
@@ -197,84 +213,6 @@ Vilnius, 1993 m. sausio 26 d.
 
 Nr. I-56
 
-21 straipsnis
-
-Lietuvos Respublikos Konstitucijos 89 straipsnyje nustatytais atvejais Respublikos Prezidento pareigas laikinai eina arba laikinai jį pavaduoja Seimo Pirmininkas.
-
-Kai Respublikos Prezidentas laikinai išvyksta į užsienį ir dėl to laikinai negali eiti savo pareigų, Respublikos Prezidentas pasirašo dekretą, kuriuo Seimo Pirmininkui pavedama laikinai pavaduoti Respublikos Prezidentą.
-
-Kai Respublikos Prezidentas serga ir dėl to laikinai negali eiti savo pareigų, Respublikos Prezidentas pasirašo dekretą, kuriuo Seimo Pirmininkui pavedama laikinai pavaduoti Respublikos Prezidentą. Jeigu Respublikos Prezidentas dėl sveikatos būklės negali pareikšti savo valios dėl Respublikos Prezidento laikino pavadavimo, taikoma Lietuvos Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje bei šiame įstatyme nustatyta Respublikos Prezidento pareigų laikino ėjimo tvarka.
-
-Tuo atveju, kai Respublikos Prezidentas miršta, įstatymų nustatyta tvarka išduotas mirties akto įrašo nuorašas, patvirtinantis Respublikos Prezidento mirtį, per įmanomai trumpiausią laiką įteikiamas Seimui.
-
-Tuo atveju, kai Respublikos Prezidentas atsistatydina iš savo pareigų, jo pasirašytas dekretas dėl Respublikos Prezidento atsistatydinimo iš pareigų, taip pat šio straipsnio antrojoje ir trečiojoje dalyse nurodytais atvejais pasirašytas Respublikos Prezidento dekretas dėl Respublikos Prezidento laikino pavadavimo įteikiamas Seimui.
-
-Tuo atveju, kai Seimas Respublikos Prezidentą pašalina iš pareigų apkaltos proceso tvarka, taikoma Lietuvos Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje bei šiame įstatyme nustatyta Respublikos Prezidento pareigų laikino ėjimo tvarka.
-
-Lietuvos Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje nustatytais atvejais Seimas ne vėliau kaip per 10 dienų privalo paskirti Respublikos Prezidento rinkimus, kurie turi būti surengti ne vėliau kaip per du mėnesius. Jeigu Seimas negali susirinkti ir paskelbti Respublikos Prezidento rinkimų, šiuos rinkimus skelbia Lietuvos Respublikos Vyriausybė.
-
-Papildyta straipsniu:
-
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
-
-22 straipsnis
-
-Seimo Pirmininkas laikinai eina Respublikos Prezidento pareigas Lietuvos Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje nustatytais atvejais:
-
-1) Respublikos Prezidentui mirus;
-
-2) Respublikos Prezidentui atsistatydinus;
-
-3) Seimui pašalinus Respublikos Prezidentą iš pareigų apkaltos proceso tvarka;
-
-4) kai Seimas nutaria, kad Respublikos Prezidento sveikatos būklė neleidžia jam eiti pareigų.
-
-Laikinai eidamas Respublikos Prezidento pareigas, Seimo Pirmininkas tam laikui netenka savo įgaliojimų Seime, jam laikinai pereina visi Respublikos Prezidento įgaliojimai. Seimo Pirmininkas Respublikos Prezidento pareigas eina tol, kol įstatymo nustatyta tvarka prisieks naujai išrinktas Respublikos Prezidentas. Šiuo laikotarpiu Seimo pavedimu Seimo Pirmininko pareigas laikinai eina vienas iš Seimo Pirmininko pavaduotojų.
-
-Seimo Pirmininkui pradėjus laikinai eiti Respublikos Prezidento pareigas, Seimas ne vėliau kaip per 10 dienų priima nutarimą dėl Respublikos Prezidento rinkimų paskelbimo. Šie Respublikos Prezidento rinkimai turi būti surengti ne vėliau kaip per du mėnesius. Jeigu Seimas negali susirinkti ir paskelbti Respublikos Prezidento rinkimų, šiuos rinkimus skelbia Lietuvos Respublikos Vyriausybė.
-
-Kai šio įstatymo nustatyta tvarka prisiekia naujai išrinktas Respublikos Prezidentas, Seimo Pirmininkas nustoja laikinai eiti Respublikos Prezidento pareigas ir pradeda eiti Seimo Pirmininko pareigas.
-
-Papildyta straipsniu:
-
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
-
-23 straipsnis
-
-Seimo Pirmininkas laikinai pavaduoja Respublikos Prezidentą Lietuvos Respublikos Konstitucijos 89 straipsnio antrojoje dalyje nustatytais atvejais:
-
-1) kai Respublikos Prezidentas laikinai išvykęs į užsienį ir dėl to laikinai negali eiti pareigų;
-
-2) kai Respublikos Prezidentas suserga ir dėl to laikinai negali eiti pareigų.
-
-Seimo Pirmininkas laikinai pavaduotoja Respublikos Prezidentą, kai įsigalioja Respublikos Prezidento dekretas, kuriuo Seimo Pirmininkui laikinai pavedama pavaduoti Respublikos Prezidentą dėl jo laikino išvykimo į užsienį ar susirgimo.
-
-Šio straipsnio pirmojoje dalyje nurodytais atvejais Seimo Pirmininkas turi savo, kaip Seimo Pirmininko, įgaliojimus.
-
-Laikinai pavaduodamas Respublikos Prezidentą, Seimo Pirmininkas negali skelbti pirmalaikių Seimo rinkimų, atleisti ar skirti ministrų be Seimo sutikimo.
-
-Išnykus šio straipsnio pirmojoje dalyje nustatytoms priežastims, Seimo Pirmininkas nustoja pavaduoti Respublikos Prezidentą.
-
-Papildyta straipsniu:
-
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
-
-24 straipsnis
-
-Jokiais kitais Lietuvos Respublikos Konstitucijos 89 straipsnyje bei šio įstatymo 22 ir 23 straipsniuose nenurodytais atvejais jokiems kitiems asmenims ar institucijoms negalima vykdyti Respublikos Prezidento įgaliojimų.
-
-Papildyta straipsniu:
-
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
-
-LAIKINAI EINANTIS
-
-RESPUBLIKOS PREZIDENTO PAREIGAS                                    ALGIRDAS BRAZAUSKAS
-
-Vilnius, 1993 m. sausio 26 d.
-
-Nr. I-56
-
 Pakeitimai:
 
 1.
@@ -284,44 +222,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
 
 Dėl Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-642, 1998-02-24, Žin., 1998, Nr. 20-506 (1998-02-25), i. k. 0981010ISTAVIII-642
-
-Lietuvos Respublikos Prezidento įstatymo 6 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-180, 2001-02-20, Žin., 2001, Nr. 21-688 (2001-03-09), i. k. 1011010ISTA00IX-180
-
-Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-
-2002-06-19, Žin., 2002, Nr. 62-2515 (2002-06-21), i. k. 1021000NUTARG021955
-
-Dėl Lietuvos Respublikos valstybinių pensijų įstatymo 7, 11, 15 straipsnių pakeitimo ir papildymo įstatymo, Lietuvos Respublikos valstybinių pensijų įstatymo 7 straipsnio 1 bei 4 dalių ir Lietuvos Respublikos Prezidento įstatymo 20 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1325, 2003-01-28, Žin., 2003, Nr. 17-702 (2003-02-19), i. k. 1031010ISTA0IX-1325
-
-Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
-
-Lietuvos Respublikos Prezidento įstatymo 1, 3, 5, 7, 8, 9, 13, 15, 20 straipsnių pakeitimo ir įstatymo papildymo 21, 22, 23, 24 straipsniais įstatymas
 
