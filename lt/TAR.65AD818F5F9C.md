@@ -4,7 +4,7 @@ identifier: "TAR.65AD818F5F9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2001-05-09"
+last_updated: "2002-04-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2001-05-09 iki 2002-04-08
+Suvestinė redakcija nuo 2002-04-09 iki 2004-04-29
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
 
@@ -36,7 +36,11 @@ Bendrosios nuostatos
 
 1 straipsnis. Kodekso paskirtis
 
-Kelių transporto kodeksas reguliuoja keleivių, bagažo, krovinių ir pašto siuntų vežimų organizavimą ir vykdymą, vežimų valstybinį valdymą ir kontrolę, atsakomybę už turtinę žalą, taip pat draudimą.
+Lietuvos Respublikos kelių transporto kodeksas (toliau – šis kodeksas) reguliuoja keleivių, bagažo, krovinių ir pašto, dokumentų siuntų vežimų organizavimą ir vykdymą, vežimų valstybinį valdymą ir kontrolę, atsakomybę už turtinę žalą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 2 straipsnis. Kelių transportas ir kelių transporto priemonės
 
@@ -44,23 +48,57 @@ Kelių transporto kodeksas reguliuoja keleivių, bagažo, krovinių ir pašto si
 
 2. Kelių transporto priemonės skirstomos į keleivines ir krovinines.
 
-3. Keleivinėms transporto priemonėms priskiriamos motorinės ir elektrinės transporto priemonės, sukonstruotos, pritaikytos ir naudojamos keleiviams vežti keliais. Tai autobusai, troleibusai, lengvieji automobiliai.
+3. Keleivinėms transporto priemonėms priskiriamos motorinės ir elektrinės transporto priemonės, pagamintos keleiviams vežti. Tai autobusai, troleibusai, lengvieji automobiliai, lengvieji automobiliai taksi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 4. Autobusas – motorinė transporto priemonė, skirta vežti žmonėms bei bagažui ir turinti daugiau kaip 9 sėdimąsias vietas įskaitant vairuotojo vietą.
 
 5. Troleibusas – autobusas, varomas kontaktiniu tinklu tiekiama elektros energija.
 
-6. Lengvasis automobilis – motorinė transporto priemonė, skirta vežti keleiviams bei bagažui ir turinti ne daugiau kaip 9 sėdimąsias vietas įskaitant vairuotojo vietą. Lengvasis automobilis, turintis jame įrengtą taksometrą, vadinamas lengvuoju automobiliu – taksi.
+6. Lengvasis automobilis – motorinė kelių transporto priemonė, turinti ne daugiau kaip 9 sėdimas vietas, įskaitant vairuotojo vietą, skirta keleiviams bei bagažui vežti.
 
-7. Krovininėms transporto priemonėms priskiriamos motorinės transporto priemonės ar jų junginiai (sąstatai), sukonstruoti, pritaikyti ir naudojami kroviniams vežti keliais. Tai krovininiai automobiliai, priekabos ir puspriekabės.
+Straipsnio dalies pakeitimai:
 
-8. Krovininis automobilis – motorinė transporto priemonė, skirta vežti krovinius, vilkti priekabas ar puspriekabes. Traktoriai ir savaeigės (visureigės) mašinos nelaikomi krovininiais automobiliais.
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
-9. Priekaba – transporto priemonė, kurią velka motorinė transporto priemonė.
+7. Lengvasis automobilis taksi – motorinė kelių transporto priemonė, skirta keleiviams ir bagažui vežti, turinti, įskaitant vairuotojo vietą, ne daugiau kaip 7 sėdimas vietas, įrengtą taksometrą bei atpažinimo ženklą – plafoną ir atitinkanti lengviesiems automobiliams taksi keliamus techninius reikalavimus. Techninius reikalavimus lengviesiems automobiliams taksi nustato Susisiekimo ministerija.
 
-10. Puspriekabė – su motorine transporto priemone sukabinta priekaba, kurios masės ir krovinio masės dalis tenka motorinei transporto priemonei.
+Papildyta straipsnio dalimi:
 
-11. Kelių transporto priemonės gali būti pritaikytos ir naudojamos tiek keleiviams, tiek kroviniams vežti.
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+8. Iš anksto sudaryta keleivių grupė – grupė, su kuria pagal išankstinį užsakymą iš anksto sudaryta vežimo sutartis (kai keleiviai vyksta turizmo, verslo reikalais, į parodas, simpoziumus, konferencijas, seminarus, pasitarimus, koncertus, spektaklius, vestuves ir panašiais atvejais).
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+9. Krovininėms transporto priemonėms priskiriamos motorinės transporto priemonės ar jų junginiai (sąstatai), sukonstruoti, pritaikyti ir naudojami kroviniams vežti keliais. Tai krovininiai automobiliai, priekabos ir puspriekabės.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+10. Krovininis automobilis – motorinė transporto priemonė, skirta vežti krovinius, vilkti priekabas ar puspriekabes. Traktoriai ir savaeigės (visureigės) mašinos nelaikomi krovininiais automobiliais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+11. Priekaba – transporto priemonė, kurią velka motorinė transporto priemonė.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+12. Puspriekabė – su motorine transporto priemone sukabinta priekaba, kurios masės ir krovinio masės dalis tenka motorinei transporto priemonei.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 3 straipsnis. Kelių transporto objektų nuosavybė
 
@@ -72,11 +110,23 @@ Kelių transporto kodeksas reguliuoja keleivių, bagažo, krovinių ir pašto si
 
 4 straipsnis. Kelių transporto valstybinis valdymas
 
-1. Kelių transporto valstybinį valdymą vykdo Susisiekimo ministerija ir savivaldybės.
+1. Kelių transporto valstybinį valdymą vykdo Susisiekimo ministerija ir savivaldybių institucijos.
 
-2. Susisiekimo ministerija pagal savo kompetenciją leidžia savivaldybėms, fiziniams ir juridiniams asmenims privalomus teisės aktus, reguliuojančius kelių transporto veiklą ir keleivių bei krovinių vežimą.
+Straipsnio dalies pakeitimai:
 
-3. Savivaldybės valdo ir organizuoja keleivių vežimą vietinio susisiekimo maršrutais ir lengvaisiais automobiliais – taksi, pagal savo kompetenciją leidžia vežėjams privalomus teisės aktus.
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+2. Susisiekimo ministerija pagal savo kompetenciją leidžia savivaldybėms, fiziniams ir juridiniams asmenims privalomus teisės aktus, reguliuojančius kelių transporto veiklą ir keleivių bei krovinių vežimą. Susisiekimo ministerija arba jos įgaliota institucija valdo ir organizuoja keleivių vežimą tolimojo ir tarptautinio susisiekimo maršrutais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+3. Savivaldybių institucijos arba jų įgaliotos įstaigos valdo ir organizuoja keleivių vežimą vietinio susisiekimo maršrutais ir lengvaisiais automobiliais taksi. Savivaldybių institucijos pagal savo kompetenciją leidžia vežėjams privalomus teisės aktus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 5 straipsnis. Kelių transporto teisės aktai
 
@@ -92,23 +142,47 @@ Vežimų organizavimas
 
 7 straipsnis. Vežimų organizavimo sąvoka
 
-1. Vežimų organizavimas – teisinių santykių ir techninių sąlygų tarp keleivio, krovinio ar bagažo siuntėjo, gavėjo ir vežėjo nustatymas.
+1. Vežimų organizavimas – techninių sąlygų ir teisinių santykių tarp keleivio, krovinio, bagažo, pašto, dokumentų siuntos, smulkios siuntos siuntėjo, gavėjo ir vežėjo nustatymas
 
-2. Vežėjas – įmonė, įregistruota įstatymų nustatyta tvarka ir turinti teisę vežti keleivius, krovinius bei bagažą.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+2. Vežėjas – įmonė, įregistruota įstatymų nustatyta tvarka ir turinti teisę vežti keleivius, krovinius, bagažą, paštą, dokumentų siuntas, smulkias siuntas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 8 straipsnis. Licencija (leidimas) verstis vežimais
 
-1. Verstis keleivių vidaus vežimais ir keleivių bei krovinių tarptautiniais vežimais už atlyginimą gali įmonės, turinčios licenciją (leidimą) verstis vežimais, kai:
+1. Kelių transporto ūkinė komercinė keleivių ir krovinių vežimo už atlyginimą veikla yra licencijuojama.
 
-1) keleiviai vežami lengvaisiais automobiliais, kurie naudojami kaip lengvieji automobiliai – taksi arba vežioja keleivius reguliariais reisais;
+2. Keleiviams vežti licencija (leidimas) reikalinga, kai vežama:
 
-2) keleiviai vežami autobusais;
+1) lengvaisiais automobiliais taksi;
 
-3) kroviniai vežami kelių transporto priemonėmis, kurių keliamoji galia, įskaitant priekabą, didesnė kaip 3,5 tonos arba bendroji masė didesnė kaip 6 tonos.
+2) lengvaisiais automobiliais reguliariais reisais – iki 2002 m. birželio 30 d.;
 
-2. Licenciją (leidimą) verstis keleivių vežimais tolimojo susisiekimo maršrutais ir keleivių bei krovinių tarptautiniais vežimais išduoda Valstybinė kelių transporto inspekcija prie Susisiekimo ministerijos (toliau – Valstybinė kelių transporto inspekcija) Vyriausybės nustatyta tvarka.
+3) lengvaisiais automobiliais užsakomaisiais reisais;
 
-3. Licenciją (leidimą) verstis keleivių vežimais vietinio susisiekimo maršrutais ir lengvaisiais automobiliais – taksi išduoda savivaldos institucijos Vyriausybės nustatyta tvarka.
+4) autobusais.
+
+3. Kroviniams vežti licencija (leidimas) reikalinga, kai vežama:
+
+1) tarptautiniais maršrutais transporto priemonėmis, kurių keliamoji galia, įskaitant priekabą, didesnė kaip 3,5 tonos arba bendroji masė, įskaitant priekabą, didesnė kaip 6 tonos – iki 2002 m. gruodžio 31 d.;
+
+2) vidaus ir tarptautiniais maršrutais transporto priemonėmis, kurių bendroji masė, įskaitant priekabą, didesnė kaip 3,5 tonos – nuo 2003 m. sausio 1 d.
+
+4. Licenciją (leidimą) verstis keleivių vežimais tolimojo ir tarptautinio susisiekimo maršrutais bei krovinių vežimais išduoda Valstybinė kelių transporto inspekcija prie Susisiekimo ministerijos (toliau – Valstybinė kelių transporto inspekcija).
+
+5. Licenciją (leidimą) verstis keleivių vežimais vietinio susisiekimo maršrutais ir lengvaisiais automobiliais taksi išduoda savivaldybių institucijos arba jų įgaliotos įstaigos.
+
+6. Kelių transporto veiklos licencijavimo taisykles tvirtina Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 9 straipsnis. Vežimų klasifikacija
 
@@ -148,23 +222,33 @@ Kelių transporto kontrolė
 
 1. Kelių transporto kontrolė – tai vežėjų veiklos valstybinė priežiūra, kuria siekiama užtikrinti įstatymų ir kitų teisės aktų reikalavimų kelių transporte laikymąsi.
 
-2. Kelių transporto kontrolę atlieka:
+2. Kelių transporto veiklos kontrolę atlieka:
 
 1) Valstybinė kelių transporto inspekcija;
 
-2) savivaldybių kontrolės tarnybos;
+2) savivaldybių institucijų arba jų įgaliotų įstaigų kontrolės tarnybos;
 
 3) kitos valstybės institucijos, kurioms įstatymų suteikta kontrolės teisė.
 
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
 14 straipsnis. Kelių transporto kontrolės tarnybų įgaliojimai
 
-1. Valstybinės kelių transporto inspekcijos transporto veiklos kontrolės įgaliojimus nustato Vyriausybė bei šios inspekcijos nuostatai, kuriuos tvirtina Susisiekimo ministerija.
+1. Valstybinės kelių transporto inspekcijos transporto veiklos kontrolės įgaliojimus nustato šis kodeksas, Keleivinio kelių transporto kontrolės nuostatai, patvirtinti Susisiekimo ministerijos, bei Valstybinės kelių transporto inspekcijos nuostatai.
 
-2. Valstybinės kelių transporto inspekcijos pareigūnai turi teisę sustabdyti krovinines ir keleivines kelių transporto priemones, jas pasverti, tikrinti transporto priemonių bei ekipažo, keleivių, bagažo ir krovinių vežimo dokumentus.
+2. Valstybinės kelių transporto inspekcijos pareigūnai turi teisę sustabdyti krovinines ir keleivines kelių transporto priemones, jas pasverti, tikrinti jų matmenis, apipavidalinimą, techninę būklę, valstybinės techninės apžiūros atlikimo periodiškumą, ekipažo, taip pat keleiviams, bagažui ir kroviniams vežti privalomus dokumentus, tarp jų – keleivių ir bagažo bilietus, važtaraščius. Šie pareigūnai taip pat turi teisę tikrinti, ar laikomasi ekipažo darbo ir poilsio režimo.
 
-3. Savivaldybės kontrolės pareigūnai turi teisę savo ir gretimų rajonų savivaldybės teritorijose tikrinti lengvuosius automobilius – taksi ir keleivines transporto priemones, dirbančias vietinio susisiekimo maršrutuose, bei šių priemonių ekipažo, keleivių ir bagažo vežimo dokumentus.
+3. Savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto veiklos kontrolės tarnybų įgaliojimus nustato šis kodeksas, Keleivinio kelių transporto kontrolės nuostatai bei šių tarnybų nuostatai.
 
-4. Kitos institucijos, kontroliuojančios kelių transporto veiklą, veikia pagal savo įgaliojimus.
+4. Savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto veiklos kontrolės tarnybų pareigūnai turi teisę savo bei gretimų savivaldybių teritorijose sustabdyti ir tikrinti lengvuosius automobilius taksi ir keleivines kelių transporto priemones, dirbančias vietinio ir tolimojo susisiekimo maršrutais, bei šių priemonių ekipažų, taip pat keleiviams ir bagažui vežti privalomus dokumentus, tarp jų – keleivių ir bagažo bilietus bei ekipažų darbo ir poilsio režimo laikymąsi.
+
+5. Kitos institucijos, kontroliuojančios kelių transporto veiklą, veikia pagal savo įgaliojimus.
+
+Straipsnio pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 KETVIRTASIS skirsnis
 
@@ -190,41 +274,69 @@ Straipsnio dalies pakeitimai:
 
 Nr. VIII-924, 1998-11-17, Žin., 1998, Nr. 105-2895 (1998-12-02), i. k. 0981010ISTAVIII-924
 
-2. Keleivių vežimo reguliariais reisais vietinio susisiekimo maršrutais ir lengvaisiais automobiliais – taksi maksimalius tarifus nustato savivaldybės.
+2. Keleivių vežimo reguliariais reisais vietinio susisiekimo maršrutais tarifus nustato savivaldybių tarybos.
 
-3. Kiti keleivių bei krovinių vežimo nereguliariais reisais ir su tuo susijusių transporto paslaugų tarifai nustatomi šalių tarpusavio susitarimu.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+3. Kiti keleivių bei krovinių vežimo tarifai nustatomi šalių susitarimu. Su keleivių bei krovinių vežimu susijusių papildomų paslaugų tarifus nustato šių paslaugų teikėjai, išskyrus tarifus, nurodytus šio straipsnio 4 dalyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+4. Autobusų stotyse paslaugų teikimo vežėjams tarifus nustato paslaugų teikėjai, maksimalius jų dydžius pagal stočių kategorijas suderinę su Valstybine kainų ir energetikos kontrolės komisija. Autobusų stotys visiems vežėjams taiko vienodus paslaugų tarifus.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 PENKTASIS skirsnis
 
 Keleivių ir bagažo vežimas
 
-17 straipsnis. Keleivio ir bagažo sąvokos
+17 straipsnis. Keleivio, bagažo ir smulkių siuntų sąvokos
 
-1. Keleivis – fizinis asmuo, kuris pagal sutartį arba kitu teisiniu pagrindu naudojasi kelių transporto priemone (važiuoja ir veža bagažą), taip pat kitais vežėjo teikiamais patarnavimais.
+1. Keleivis – fizinis asmuo, kuris pagal sutartį arba kitu teisiniu pagrindu naudojasi kelių transporto priemone.
 
-2. Bagažas – daiktai, kuriuos keleivis vežasi ar siunčia kelių transporto priemone.
+2. Bagažas – daiktai, kuriuos keleivis vežasi kelių transporto priemone.
 
-3. Bagažo maksimalų dydį ir svorį nustato Keleivių ir bagažo vežimo taisyklės.
+3. Smulkios siuntos – daiktai arba krovinys, kuriuos juridiniai ar fiziniai asmenys siunčia keleivine kelių transporto priemone.
+
+4. Bagažo ir smulkių siuntų maksimalų dydį ir svorį nustato Keleivių ir bagažo vežimo taisyklės.
+
+Straipsnio pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 18 straipsnis. Keleivių vežimas
 
-1. Keleiviai vežami kelių transporto priemonėmis – autobusais, troleibusais, lengvaisiais automobiliais – taksi ir kitomis, kurios pritaikytos keleiviams vežti. Keleivių vežimą, išskyrus, kai jie vežami troleibusais, reglamentuoja Keleivių ir bagažo vežimo taisyklės bei Keleivių vežimo lengvaisiais automobiliais – taksi taisyklės, kurias tvirtina Susisiekimo ministerija. Keleivių vežimą troleibusais reglamentuoja taisyklės, kurias tvirtina savivaldybės.
+1. Keleiviai vežami keleiviams vežti pagamintomis keleivinėmis kelių transporto priemonėmis – autobusais, troleibusais, lengvaisiais automobiliais, lengvaisiais automobiliais taksi. Keleivių vežimą reglamentuoja Susisiekimo ministerijos patvirtintos Keleivių ir bagažo vežimo taisyklės bei Keleivių vežimo lengvaisiais automobiliais taksi taisyklės.
 
-2. Keleiviai vežami reguliariais, nereguliariais ir specialiais reisais vietinio, tolimojo ir tarptautinio susisiekimo maršrutais.
+2. Keleiviai vežami reguliariais, specialiais bei užsakomaisiais reisais vietinio (miesto ir priemiestinio), tolimojo ir tarptautinio susisiekimo maršrutais.
 
-3. Reguliarūs reisai – tai reisai, kuriais keleiviai vežami nustatytu dažnumu ir maršrutais, kelionės metu paimant ir išlaipinant keleivius tam tikslui nustatytose stotelėse, laikantis iš anksto nustatytų tvarkaraščių ir tarifų. Reguliarūs reisai organizuojami, jei gatvių ir kelių būklė atitinka reikalavimus, kuriuos nustato Susisiekimo ministerija.
+3. Reguliarūs reisai – reisai, kuriais keleiviai vežami nustatytu dažnumu ir maršrutais, kelionės metu paimant ir išleidžiant keleivius tam tikslui nustatytose stotelėse, laikantis iš anksto nustatytų tvarkaraščių ir tarifų. Reguliarūs reisai organizuojami, jeigu gatvių ir kelių būklė atitinka Susisiekimo ministerijos nustatytus reikalavimus. Keleiviai reguliariais reisais nuo 2002 m. liepos 1 d. vežami tik autobusais, troleibusais ir maršrutiniais taksi.
 
-4. Nereguliarūs reisai – tai reisai, kai iš anksto suformuotos keleivių grupės yra vežamos ir grąžinamos į išvykimo vietą arba keleivių grupė, susidedanti iš keleivių, kurie išvyko, bus grąžinama atgal į išvykimo vietą vėlesniu reisu.
+4. Užsakomieji reisai – reisai, kai iš anksto sudarytos keleivių grupės yra nuvežamos į tam tikrą vietą ir parvežamos į išvykimo vietą arba anksčiau nuvežta keleivių grupė grąžinama atgal į išvykimo vietą vėlesniu reisu, arba keleivių grupė nuvežama, o transporto priemonė grįžta tuščia. Iš anksto sudarytos keleivių grupės vežamos turint keleivių vežimo sutartis ir keleivių vežimo lapus. Keleivių vežimo lapai nebūtini, jei keleivių grupės vežiojamos tame pačiame mieste, kuriame vyksta šio kodekso 2 straipsnio 8 dalyje paminėti renginiai. Keleivių vežimo lapų formą, jų apskaitos, užsakymo, gamybos, technologinės apsaugos, platinimo, įsigijimo, naudojimo ir sunaikinimo tvarką nustato Susisiekimo ministerija.
 
-5. Specialūs reisai – tai reisai, kurie numato specialių keleivių grupių vežimą (darbininkų – į darbovietes ir iš jų, moksleivių – į mokyklą ir iš jų ir pan.).
+5. Specialūs reisai – reisai, kai vežamos specialios keleivių grupės (darbininkų – į darbovietes ir iš jų, moksleivių – į mokyklas ir iš jų ir pan.).
 
-6. Vietinio susisiekimo maršrutas – tai keleivių vežimas miesto arba rajono savivaldybės teritorijoje, kai aptarnaujamas maršrutas tęsiasi ne daugiau kaip per dviejų gretimų rajonų savivaldybių teritorijas. Vietiniai maršrutai skirstomi į miesto ir priemiestinius maršrutus, kurių ribas nustato savivaldybės.
+6. Vietinio (miesto) susisiekimo maršrutas – nustatyta gatvių (kelių) trasa, kuria keleiviai vežami miesto teritorijoje.
 
-7. Tolimojo susisiekimo maršrutas – tai keleivių vežimas Lietuvos Respublikos teritorijoje, kai maršrutas tęsiasi daugiau kaip per dviejų rajonų savivaldybių teritorijas.
+7. Vietinio (priemiestinio) susisiekimo maršrutas – nustatyta gatvių (kelių) trasa, kuria keleiviai vežami vienos savivaldybės (neįskaitant miestų savivaldybių) teritorijoje. Atskirais atvejais, suderinus su Valstybine kelių transporto inspekcija, maršrutas gali tęstis per dviejų gretimų savivaldybių (neįskaitant miestų savivaldybių) teritorijas.
 
-8. Tarptautinio susisiekimo maršrutas – tai keleivių vežimas, kai transporto priemonė kerta valstybės sieną.
+8. Keleivių vežimas maršrutiniais taksi – iki 2004 m. gruodžio 31 d. – keleivių vežimas motorinėmis kelių transporto priemonėmis, turinčiomis nuo 6 iki 17 sėdimų vietų, nuo 2005 m. sausio 1 d. – autobusais, turinčiais nuo 10 iki 17 sėdimų vietų, įskaitant ir vairuotojo, ir atpažinimo ženklą – plafoną. Maršrutiniais taksi vežama tik sėdimose vietose pagal patvirtintus tvarkaraščius nustatytais vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais. Keleiviai paimami ir išleidžiami stotelėse arba kitose pagal pageidavimą vietose, kuriose nedraudžia sustoti Kelių eismo taisyklės.
 
-9. Keleiviams vežti reguliariais reisais nustatytu maršrutu išduodamas leidimas. Leidimus keleiviams vežti vietiniais maršrutais išduoda savivaldybės, tolimojo ir tarptautinio susisiekimo maršrutais – Susisiekimo ministerija arba jos įgaliota institucija. Leidimų išdavimo tvarką ir sąlygas nustato Susisiekimo ministerija.
+9. Tolimojo susisiekimo maršrutas – nustatyta gatvių ir kelių trasa Lietuvos Respublikos teritorijoje, kuria keleiviai vežami daugiau kaip per dviejų savivaldybių (neįskaitant miestų savivaldybių) teritorijas.
+
+10. Tarptautinio susisiekimo maršrutas – nustatyta gatvių ir kelių trasa, kertanti valstybės sieną.
+
+11. Keleiviams vežti reguliariais reisais nustatytu maršrutu išduodamas leidimas. Leidimus keleiviams vežti vietiniais maršrutais išduoda savivaldybių institucijos arba jų įgaliotos įstaigos, tolimojo ir tarptautinio susisiekimo maršrutais – Susisiekimo ministerija arba jos įgaliota institucija. Leidimų išdavimo sąlygas nustato Susisiekimo ministerija.
+
+Straipsnio pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 19 straipsnis. Keleivio vežimo sutartis
 
@@ -232,7 +344,11 @@ Keleivio vežimo sutartyje vežėjas įsipareigoja keleivį nuvežti jo biliete 
 
 20 straipsnis. Keleivio bilietas
 
-1. Keleivio bilietas – keleivio vežimo sutartį patvirtinantis dokumentas. Keleivio vežimo sutartis laikoma galiojančia ir tada, kai nėra keleivio bilieto arba jis yra neteisingai įformintas. Vežant keleivius reguliariais reisais, keleivio bilietas yra būtinas.
+1. Keleivio bilietas – keleivio vežimo sutartį patvirtinantis dokumentas. Vežant keleivius reguliariais reisais, keleivio bilietas yra būtinas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 2. Bilietų rekvizitus, jų pardavimo ir grąžinimo tvarką nustato Keleivių ir bagažo vežimo taisyklės.
 
@@ -242,9 +358,17 @@ Keleivio vežimo sutartyje vežėjas įsipareigoja keleivį nuvežti jo biliete 
 
 1) užimti nurodytą biliete vietą;
 
-2) nemokamai vežtis ar siųsti nustatyto svorio ir dydžio bagažą Keleivių ir bagažo vežimo taisyklių nustatyta tvarka;
+2) keleivių ir bagažo vežimo taisyklių nustatyta tvarka nemokamai vežtis nustatyto svorio ir dydžio bagažą;
 
-3) nemokamai vežtis vieną vaiką, jei jis neužima atskiros sėdimosios vietos: vietinio susisiekimo maršrutų autobusais ir troleibusais – iki 7 metų, tolimojo susisiekimo maršrutų autobusais – iki 5 metų;
+Straipsnio punkto pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+3) nemokamai vežtis du iki 7 metų vaikus, jei jie neužima atskiros sėdimos vietos, reguliarių reisų vietinio (miesto ir priemiestinio) susisiekimo maršrutų autobusais ir troleibusais bei tolimojo susisiekimo maršrutų autobusais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 4) važiuoti to paties vežėjo ar jų susitarimu kitomis transporto priemonėmis su tuo pačiu bilietu į tą patį paskirties punktą, kai biliete nurodyta transporto priemonė dėl kokių nors priežasčių negali važiuoti, ir nemokėti priemokos už pakeistą patogesnę transporto priemonę, tačiau gauti bilieto kainos skirtumą, jeigu transporto priemonė pakeista į mažiau patogią, nei buvo nurodyta keleivio biliete, o, vežėjui nepateikus kitos transporto priemonės, gauti atitinkamą kompensaciją Keleivių ir bagažo vežimo taisyklių nustatyta tvarka;
 
@@ -280,11 +404,31 @@ Keleivio vežimo sutartyje vežėjas įsipareigoja keleivį nuvežti jo biliete 
 
 4) nepažeisdamas talpumo normų, paimti kito vežėjo vežtus keleivius, jeigu jo transporto priemonė sugedo kelyje ar dėl kitų priežasčių nebegali pristatyti keleivių į paskirties stotį ar stotelę.
 
-23 straipsnis. Keleivio bagažo vežimo sutartis
+23 straipsnis. Keleivių bagažo ir smulkių siuntų vežimo sutartys
 
-1. Keleivio bagažo vežimo sutartyje vežėjas įsipareigoja nuvežti keleivio bagažą į keleivio biliete ar bagažo kvite nurodytą paskirties punktą ir išduoti jį keleiviui, o keleivis įsipareigoja sumokėti sutartyje nustatyto dydžio atlyginimą.
+Pakeistas straipsnio pavadinimas:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+1. Keleivio bagažo vežimo sutartyje vežėjas įsipareigoja nuvežti keleivio bagažą į keleivio biliete ar bagažo kvite nurodytą paskirties punktą ir išduoti jį keleiviui, o keleivis įsipareigoja sumokėti sutartyje nustatytą užmokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 2. Keleivio bagažo vežimo sutartį patvirtinantis dokumentas yra keleivio bilietas arba bagažo kvitas.
+
+3. Smulkios siuntos vežimo sutartyje vežėjas įsipareigoja nuvežti siuntą į kvite nurodytą paskirties punktą, o siuntėjas – sumokėti nustatytą užmokestį.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+4. Smulkios siuntos vežimo sutartį patvirtinantis dokumentas yra kvitas.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 24 straipsnis. Keleivio bagažo priėmimas ir išdavimas
 
@@ -372,13 +516,19 @@ Krovinio vežimo sutartyje vežėjas pagal priimtą užsakymą įsipareigoja pri
 
 11) vežant pavojingą krovinį – jo klasę ir nustatytą numerį.
 
-3. Važtaraštyje gali būti įrašyti ir kiti duomenys, susiję su krovinio pristatymo terminu, jo įvertinimu, pakuote ar kitomis vežimo sąlygomis.
+3. Važtaraštyje gali būti įrašyti ir kiti duomenys, susiję su krovinio pristatymo terminu, jo įvertinimu, pakuote ar kitomis vežimo sąlygomis. Privalomus važtaraščio rekvizitus nustato Finansų ministerija.
 
-4. Važtaraščių apskaitos, užsakymo, gamybos, technologinės apsaugos, platinimo, įsigijimo, naudojimo ir likvidavimo tvarką nustato Finansų ministerija.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+4. Važtaraščių apskaita tvarkoma Valstybinės mokesčių inspekcijos prie Finansų ministerijos nustatyta tvarka, suderinta su Finansų ministerija. Finansų ministerija gali nustatyti reikalavimus naudoti specialius tam tikrų prekių važtaraščių blankus. Specialių važtaraščių blankų apskaitos, užsakymo, gamybos, technologinės apsaugos, platinimo, įsigijimo, naudojimo ir likvidavimo tvarką nustato Finansų ministerija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-346, 1997-06-30, Žin., 1997, Nr. 66-1611 (1997-07-11), i. k. 0971010ISTAVIII-346
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 30 straipsnis. Važtaraščio išdavimas
 
@@ -438,9 +588,13 @@ Siuntėjas, kol krovinys vežamas, turi teisę, nekeisdamas paskirties punkto, k
 
 37 straipsnis. Pavojingų krovinių vežimas
 
-1. Pavojingų krovinių sąrašą ir šių krovinių vežimo tvarką nustato Vyriausybė.
+1. Pavojingi kroviniai tarptautiniais maršrutais vežami pagal 1957 m. Europos sutartį dėl pavojingų krovinių tarptautinių vežimų keliais (ADR).
 
-2. Tarptautiniuose vežimuose pavojingi kroviniai vežami pagal 1957 m. Europos sutartį dėl pavojingų krovinių tarptautinių vežimų keliais, pasirašytą Ženevoje.
+2. Pavojingų krovinių vežimą Lietuvos Respublikoje reglamentuoja Lietuvos Respublikos įstatymai, Vyriausybės nutarimai ir kiti teisės aktai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 38 straipsnis. Krovinių vežimas savo sąskaita
 
@@ -476,11 +630,15 @@ Siuntėjas, kol krovinys vežamas, turi teisę, nekeisdamas paskirties punkto, k
 
 2. Krovinių tarptautinių vežimų savo sąskaita reguliuoja tarptautiniai susitarimai.
 
-40 straipsnis. Pašto vežimo sutartis
+40 straipsnis. Pašto, dokumentų siuntų vežimo sutartis
 
-1. Pašto vežimo sutartyje vežėjas įsipareigoja nuvežti pateiktą jam pašto siuntą į paskirties punktą ir išduoti gavėjui, o siuntėjas už pašto vežimą įsipareigoja sumokėti sutartyje nustatytą užmokestį.
+1. Pašto, dokumentų siuntų vežimo sutartimi vežėjas įsipareigoja nuvežti pateiktą jam pašto, dokumentų siuntą į paskirties punktą ir išduoti gavėjui, o siuntėjas už pašto, dokumentų siuntų vežimą įsipareigoja sumokėti sutartyje nustatytą užmokestį.
 
-2. Pašto siuntų pateikimą vežti, jų vežimo ir išdavimo gavėjui tvarką nustato Ryšių ir informatikos ministerija, suderinusi su Susisiekimo ministerija.
+2. Pašto, dokumentų siuntų pateikimą vežti, jų vežimo ir išdavimo gavėjui tvarką nustato pašto paslaugų teikėjų ir vežėjų sutartys.
+
+Straipsnio pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 41 straipsnis. Krovinių vežimas pagal ekspedijavimo sutartį
 
@@ -490,13 +648,21 @@ Siuntėjas, kol krovinys vežamas, turi teisę, nekeisdamas paskirties punkto, k
 
 SEPTINTASIS skirsnis
 
-Atsakomybė ir draudimas
+ATSAKOMYBĖ
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 42 straipsnis. Atsakomybė už keleivio sveikatos sužalojimą ar gyvybės atėmimą
 
 1. Vežėjas atsako už žalą, padarytą keleivio sveikatai ar gyvybei, vežimo metu, jeigu nėra įrodymų, kad žala atsirado dėl paties keleivio kaltės.
 
-2. Vežėjas, kaip didesnio pavojaus šaltinio valdytojas, privalo atlyginti keleiviui žalą, padarytą didesnio pavojaus šaltinio, jeigu nėra įrodymų, kad žala atsirado dėl nenugalimos jėgos arba nukentėjusiojo tyčios.
+2. Vežėjas, kaip didesnio pavojaus šaltinio valdytojas, privalo atlyginti keleiviui žalą, padarytą didesnio pavojaus šaltinio, jeigu nėra įrodymų, kad žala atsirado dėl nenugalimos jėgos arba nukentėjusio asmens tyčios ar didelio neatsargumo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 3. Vežėjas atsako už žalą, padarytą keleiviui kelių transporto priemonėje arba įsėdimo ar išlipimo iš jos metu, neatsižvelgiant į tai, ar kelių transporto priemonė atliko vežimą, ar ne.
 
@@ -506,7 +672,11 @@ Atsakomybė ir draudimas
 
 44 straipsnis. Atsakomybė už kelių transporto priemonės ekipažo nario sveikatos sužalojimą ar gyvybės atėmimą
 
-1. Vežėjas atsako už žalą, padarytą kelių transporto priemonės ekipažo nario sveikatai ar gyvybei. Žala atlyginama Žmonių saugos darbe ir Draudimo nuo nelaimingų atsitikimų darbe įstatymų nustatytais dydžiais ir tvarka.
+1. Vežėjas atsako už žalą, padarytą kelių transporto priemonės ekipažo nario sveikatai ar gyvybei. Žala atlyginama Darbuotojų saugos ir sveikatos įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 2. Pagal šiuos įstatymus neatlygintą žalos dalį privalo atlyginti kelių transporto priemonės valdytojas pagal Civilinį kodeksą.
 
@@ -536,9 +706,13 @@ Atsakomybė ir draudimas
 
 47 straipsnis. Atsakomybė už keleivio, bagažo, krovinio ar pašto siuntos pavėluotą vežimą
 
-1. Vežėjas, pažeidęs keleivio, bagažo ar krovinio vežimo terminus (išskyrus keleivio vežimą miesto maršrutais), privalo atlyginti keleiviui, krovinio ar pašto siuntėjui arba gavėjui turėtus nuostolius, atsiradusius dėl pavėluoto vežimo, jeigu sutartyje nebuvo numatyta atsakomybė netesybomis. Negautos pajamos neatlyginamos.
+1. Vežėjas, pažeidęs keleivio, bagažo ar krovinio vežimo terminus (išskyrus keleivio vežimą miesto ir priemiesčio maršrutais), privalo atlyginti keleiviui, krovinio ar pašto, dokumentų siuntėjui arba gavėjui turėtus nuostolius, atsiradusius dėl transporto priemonės vėlavimo, jeigu sutartyje nebuvo numatyta atsakomybė netesybomis. Negautos pajamos neatlyginamos.
 
-2. Vežimo terminas laikomas nepraleistu, jeigu vežėjas savo įsipareigojimo negalėjo įvykdyti dėl nenugalimos jėgos, kurios jis negalėjo ir neprivalėjo numatyti ir išvengti.
+2. Vežimo terminas laikomas nepraleistu, jeigu vežėjas savo įsipareigojimo negalėjo įvykdyti dėl nenugalimos jėgos, transporto priemonės gedimo, gresiančio keleivių sveikatai ar gyvybei, šalinimo arba kitokių nuo vežėjo nepriklausančių aplinkybių.
+
+Straipsnio pakeitimai:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 48 straipsnis. Keleto vežėjų atsakomybė
 
@@ -590,19 +764,17 @@ Keleivių, bagažo ir krovinio vežimo saugumo ir kitų taisyklių kelių transp
 
 2. Ieškiniui, kylančiam dėl vežimo sutarties, pareikšti nustatomas dvejų metų ieškininės senaties terminas. Pretenzijos pareiškimas ieškininės senaties terminą pratęsia vienam mėnesiui.
 
-57 straipsnis. Privalomasis draudimas
+57 straipsnis. Neteko galios nuo 2002-04-09
 
-1. Vežėjas, atliekantis vežimus kelių transportu Lietuvos Respublikos teritorijoje, apdraudžia:
+Straipsnio naikinimas:
 
-1) keleivį nuo nelaimingų atsitikimų vežimo metu;
+Nr. IX-790, 2002-03-19, Žin. 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
-2) civilinę atsakomybę už nuostolius, kurie gali būti padaryti tretiesiems asmenims ar jų turtui.
+58 straipsnis. Neteko galios nuo 2002-04-09
 
-2. Vežėjas, atliekantis tarptautinius vežimus, apdraudžia savo civilinę atsakomybę už nuostolius, kurie vežimo metu gali būti padaryti keleiviui, bagažui ar kroviniui, taip pat tretiesiems asmenims, remdamasis tarptautinėmis sutartimis.
+Straipsnio naikinimas:
 
-58 straipsnis. Savanoriškasis draudimas
-
-Bagažas ir kroviniai, vežami kelių transporto priemonėmis, gali būti draudžiami savanoriškuoju draudimu.
+Nr. IX-790, 2002-03-19, Žin. 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -633,4 +805,34 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-283, 2001-04-19, Žin., 2001, Nr. 39-1353 (2001-05-09), i. k. 1011010ISTA00IX-283
 
 Lietuvos Respublikos kelių transporto kodekso ketvirtojo skirsnio pavadinimo ir 15 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+Lietuvos Respublikos kelių transporto kodekso 1, 2, 4, 7, 8, 13, 14, 16, 17, 18, 20, 21, 23, 29, 37, 40, 42, 44, 47 straipsnių ir septintojo skirsnio pavadinimo pakeitimo, kodekso papildymo 17(1) straipsniu bei 57 ir 58 straipsnių pripažinimo netekusiais galios įstatymas
+
+171 straipsnis. Visuomenės aptarnavimo organizavimas
+
+1. Vyriausybė arba jos įgaliota institucija, taip pat savivaldybių institucijos užtikrina būtinų keleivinio kelių transporto paslaugų teikimą visuomenei nors ir vežėjams komerciškai nenaudingomis sąlygomis. Dėl šių paslaugų teikimo vežėjų patiriami nuostoliai jiems yra kompensuojami Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Vyriausybė arba jos įgaliota institucija, taip pat savivaldybių institucijos vežėjus visuomenės aptarnavimo įsipareigojimams vykdyti parenka konkurso tvarka ir su konkurso nugalėtojais sudaro visuomenės aptarnavimo sutartis. Visuomenės aptarnavimo sutartys sudaromos ne ilgiau kaip 5 metams.
+
+2. Visuomenės aptarnavimo sutartyse turi būti nustatyta:
+
+1) paslaugų, kurios bus teikiamos, pobūdis nenutrūkstamumo, reguliarumo, kiekio ir kokybės požiūriu;
+
+2) paslaugų kaina ir abiejų šalių finansiniai santykiai;
+
+3) nuostatos dėl sutarties keitimo atsižvelgiant į nenumatytus pasikeitimus;
+
+4) sutarties galiojimo laikas;
+
+5) sankcijos tuo atveju, jeigu sutarties nesilaikoma.
+
+3. Vyriausybė arba jos įgaliota institucija, taip pat savivaldybių institucijos, priėmusios sprendimus nutraukti visuomenės aptarnavimo sutartis, privalo sudaryti galimybę visuomenei naudotis alternatyvia transporto paslauga.
+
+Papildyta straipsniu:
+
+Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
