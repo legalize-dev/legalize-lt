@@ -4,7 +4,7 @@ identifier: "TAR.7A23697137FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-05-02"
-last_updated: "1995-11-17"
+last_updated: "1996-07-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7A23697137FA"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymas
 
-Suvestinė redakcija nuo 1995-11-17 iki 1996-07-16
+Suvestinė redakcija nuo 1996-07-17 iki 1996-12-10
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 1-0; Žin. 1990, Nr.14-386, i. k. 0901010ISTA000I-180
 
@@ -77,7 +77,7 @@ Nr. I-1051, 1995-09-28, Žin., 1995, Nr. 85-1915 (1995-10-18), i. k. 0951010ISTA
 
 6. Šio įstatymo 4 straipsnio trečiojoje dalyje bei 5 straipsnyje numatytais atvejais Lietuvos Aukščiausiojo Teismo pirmininkas per keturiolika dienų nuo teikimo ar skundo gavimo sudaro trijų teisėjų kolegiją, kuri nagrinėja teikimą ar skundą dėl sprendimų išduoti pažymėjimus arba atsisakymo juos išduoti pagrįstumo.
 
-Trijų teisėjų kolegija, gavusi teikimą arba skundą, gali pavesti Generalinei prokuratūrai prie Lietuvos Aukščiausiojo Teismo atlikti papildomą tyrimą, kuris turi būti pabaigtas per du mėnesius.
+Trijų teisėjų kolegija, gavusi teikimą arba skundą, gali pavesti, o jeigu pareiškėjas reikalauja, paveda Generalinei prokuratūrai prie Lietuvos Aukščiausiojo Teismo atlikti papildomą tyrimą, kuris turi būti pabaigtas per du mėnesius.
 
 Teisėjų kolegija gautą teikimą ar skundą privalo išnagrinėti per tris mėnesius. Jeigu byla yra didelė ir sudėtinga, taip pat jeigu reikia atlikti papildomą tyrimą, Lietuvos Aukščiausiojo Teismo pirmininkas gali pratęsti terminą, tačiau ne daugiau kaip dar trims mėnesiams.
 
@@ -99,9 +99,9 @@ Teisėjų kolegijos sprendimas galutinis.
 
 Kolegijos posėdžio metu teismo posėdžių sekretorius rašo protokolą, kurį pasirašo teisėjas (pranešėjas).
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. I-1051, 1995-09-28, Žin., 1995, Nr. 85-1915 (1995-10-18), i. k. 0951010ISTA00I-1051
+Nr. I-1441, 1996-07-04, Žin., 1996, Nr. 67-1603 (1996-07-17), i. k. 0961010ISTA00I-1441
 
 LIETUVOS RESPUBLIKOS
 
@@ -130,4 +130,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1082, 1995-10-31, Žin., 1995, Nr. 94-2086 (1995-11-17), i. k. 0951010ISTA00I-1082
 
 Dėl Lietuvos Respublikos įstatymo "Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo" papildymo
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1441, 1996-07-04, Žin., 1996, Nr. 67-1603 (1996-07-17), i. k. 0961010ISTA00I-1441
+
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymo "Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo" 6 straipsnio pakeitimo įstatymas
 
