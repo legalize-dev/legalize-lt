@@ -4,7 +4,7 @@ identifier: "TAR.38B0127A21E8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-12"
-last_updated: "2003-05-01"
+last_updated: "2003-07-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8"
 department: "Lietuvos Respublikos Seimas"
@@ -40,17 +40,25 @@ BENDROSIOS NUOSTATOS
 
 straipsnis. Įstatymo paskirtis ir taikymas
 
-1. Lietuvos Respublikos prekybinės laivybos įstatymas
+1. Šis įstatymas reglamentuoja santykius,
 
-nustato santykius, atsirandančius vežant jūrų laivais krovinius, keleivius ir
+atsirandančius vežant jūrų laivais krovinius, keleivius ir bagažą, taip pat
 
-bagažą, taip pat laivo valdytojo ribotosios atsakomybės ribas, darbo laive
+laivo valdytojo ribotosios atsakomybės ribas, darbo laive ypatumus ir
 
-ypatumus ir socialines garantijas jūrininkams.
+socialines garantijas jūrininkams tiek, kiek šių santykių nereglamentuoja
+
+Lietuvos Respublikos tarptautinės sutartys.
 
 2. Šis įstatymas bei jo pagrindu priimti kiti teisės
 
 aktai netaikomi Lietuvos Respublikos karo ir pakrančių apsaugos laivams.
+
+3.
+
+Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytais Europos
+
+Sąjungos teisės aktais.
 
 Straipsnio pakeitimai:
 
@@ -61,6 +69,10 @@ Nr.75-2266 (00.09.07), įsigalioja nuo 2000.10.01
 Nr. VIII-1963, 00.09.26, Žin., 2000,
 
 Nr.85-2584 (00.10.11)
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 2
 
@@ -150,17 +162,11 @@ užmokestį, o jeigu perduotas bagažas, – ir už bagažo vežimą.
 
 13.
 
-Konosamentas - vežėjo krovinio siuntėjui išduodamas dokumentas,
-
-įrodantis krovinių vežimo jūra sutarties sudarymo ir krovinių priėmimo faktus
-
-bei vežėjo įsipareigojimą pristatyti krovinius į paskirties uostą bei atiduoti
-
-juos konosamente nurodytam arba konosamentą pateikusiam asmeniui.
+(Neteko galios nuo 2003 m. liepos 23 d.)
 
 14.
 
-Krovinių gavėjas - asmuo, turintis teisę atsiimti krovinius.
+(Neteko galios nuo 2003 m. liepos 23 d.)
 
 15.
 
@@ -172,9 +178,7 @@ išduoti turinčiam teisę gauti krovinį asmeniui (gavėjui), o siuntėjas (gav
 
 įsipareigoja už krovinio vežimą sumokėti nustatytą frachtą.
 
-16. Krovinių siuntėjas - asmuo, sudaręs su
-
-vežėju krovinių vežimo jūra sutartį.
+16. (Neteko galios nuo 2003 m. liepos 23 d.)
 
 17. Laivas – bet kurio tipo savaeigis ar
 
@@ -224,13 +228,19 @@ atitinkamą jūrinio laipsnio diplomą ir vadovaujantis laivo įgulai bei valdan
 
 laivą.
 
-23. Laivo reisas - laivo kelionė iš vieno uosto
+23.
 
-į kitą nepaisant to, ar laivas veža krovinį ar keleivius, ar plaukia be jų. Į
+Laivo reisas – laivo kelionė iš vieno uosto į kitą, nesvarbu, ar laivas
 
-laivo reisą taip pat įskaitomas laikas, reikalingas uoste į laivą pakrauti ar
+veža krovinį arba keleivius, ar plaukia be jų. Į laivo reisą taip pat
 
-iš jo iškrauti krovinį arba įlaipinti ar išlaipinti keleivius.
+įskaitomas laikas, kurio reikia uoste kroviniui į laivą pakrauti ar iš jo iškrauti
+
+arba keleivius įlaipinti ar išlaipinti. Laivo reisu taip pat laikoma žvejybos
+
+laivo kelionė nuo išplaukimo iš uosto iki pirminio žuvų pardavimo sugrįžus į
+
+uostą, kai šį pardavimą vykdo laivo įgula.
 
 24. Laivo
 
@@ -242,9 +252,27 @@ yra laivo savininkas, ar juo naudojasi kitu teisėtu pagrindu.
 
 Laivo savininkas - asmuo, kuriam laivas priklauso nuosavybės teise.
 
-26.
+26. Laivų
 
-Vežėjas - įmonė, su kuria sudaryta vežimo jūra sutartis.
+agentavimo sutartis – susitarimas, kuriuo viena šalis (laivo agentas)
+
+įsipareigoja teikti laivų agentavimo paslaugas, o kita šalis (laivo savininkas,
+
+frachtuotojas ar kitas teisėtas laivo valdytojas) – atlyginti už šių paslaugų
+
+teikimą.
+
+27. Vežėjas – laivo
+
+savininkas arba frachtuotojas, sudarantis vežimo jūra sutartį.
+
+28. Jūrininko reisas – nepertraukiamas laiko
+
+tarpas, kai jūrininkas užima jam skirtas pareigas ar atlieka pavestą darbą
+
+laive, įskaitant kelionės į laivą ir iš laivo į nuolatinę gyvenamąją vietą
+
+laiką.
 
 Straipsnio pakeitimai:
 
@@ -263,6 +291,10 @@ Nr.85-2584 (00.10.11)
 Nr. IX-595,
 
 2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
@@ -940,7 +972,7 @@ Nr. VIII-1255, 99.06.22, Žin., 1999,
 
 Nr.60-1951 (99.07.09)
 
-3 straipsnis. Vežimas ir buksyravimas jūra
+3 straipsnis. Vežimas ir buksyravimas kabotažu
 
 1. Vežti ir buksyruoti jūra tarp Lietuvos Respublikos
 
@@ -956,21 +988,17 @@ Sąjungos valstybės vėliava, jeigu šie laivai atitinka toje valstybėje jūr�
 
 kabotažo paslaugoms keliamus reikalavimus.
 
-3.
+*Pastaba. 3 straipsnio 2 dalis
 
-Vežti ir buksyruoti jūra tarp Lietuvos Respublikos uostų ir užsienio uostų
-
-(tarptautinis susisiekimas) gali laivai, plaukiojantys su Lietuvos valstybės
-
-vėliava, ir laivai, plaukiojantys su kitos valstybės vėliava.
-
-*Pastaba. 3 straipsnio 2
-
-dalis įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
+įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 
 Straipsnio pakeitimai:
 
 Nr. IX-595, 2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 4
 
@@ -996,6 +1024,14 @@ aktų vykdymą.
 
 susisiekimo ministro nustatyta tvarka atestuotos įmonės.
 
+4. Vežti keleivius ir krovinius jūra tarptautiniais maršrutais
+
+turi teisę įmonės, turinčios Vyriausybės įgaliotos institucijos išduotą
+
+licenciją verstis keleivių ir krovinių vežimu jūra tarptautiniais maršrutais.
+
+Licencijavimo taisykles tvirtina Vyriausybė.
+
 Straipsnio pakeitimai:
 
 Nr. VIII-1899, 00.08.29, Žin., 2000,
@@ -1009,6 +1045,10 @@ Nr.85-2584 (00.10.11)
 Nr. IX-595,
 
 2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 5
 
@@ -1120,11 +1160,13 @@ Santykiai dėl laivų susidūrimo teritorinėje jūroje reguliuojami pagal šali
 
 kurios teritorinėje jūroje įvyko susidūrimas, įstatymus. Jeigu laivai susidūrė
 
-atviroje jūroje ir ginčas dėl susidūrimo nagrinėjamas Lietuvos Respublikoje, taikomos
+atviroje jūroje ir ginčas dėl susidūrimo nagrinėjamas Lietuvos Respublikoje,
 
-šio įstatymo taisyklės. Jeigu susidūrę laivai plaukiojo su Lietuvos valstybės
+taikomos šio įstatymo taisyklės. Jeigu susidūrę laivai plaukiojo su Lietuvos
 
-vėliava, taikomas šis įstatymas, nesvarbu, kur įvyko laivų susidūrimas.
+valstybės vėliava, taikomas šis įstatymas, nesvarbu, kur įvyko laivų
+
+susidūrimas.
 
 13.
 
@@ -1160,9 +1202,9 @@ kurios vėliava laivas plaukioja, įstatymai.
 
 prekybinės laivybos įstatymų ir papročių taikymo, jeigu tuo nepanaikinama ar
 
-nesumažinama atsakomybė, šio įstatymo numatyta vežėjui už žalą, padarytą
+nesumažinama atsakomybė, šio įstatymo numatyta vežėjui už žalą, padarytą keleivių
 
-keleivių sveikatai ar gyvybei, arba už krovinių ar bagažo praradimą, trūkumą ar
+sveikatai ar gyvybei, arba už krovinių ar bagažo praradimą, trūkumą ar
 
 sužalojimą.
 
@@ -1404,9 +1446,9 @@ Lietuvos Respublikos Vyriausybei.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1899, 00.08.29, Žin., 2000,
+Nr. VIII-1899, 00.08.29, Žin., 2000, Nr.75-2266
 
-Nr.75-2266 (00.09.07), įsigalioja nuo 2000.10.01
+(00.09.07), įsigalioja nuo 2000.10.01
 
 Nr. VIII-1963, 00.09.26, Žin., 2000,
 
@@ -1472,9 +1514,9 @@ Laivas registruojamas Lietuvos Respublikos jūrų laivų registre, jeigu jis yra
 
 suprojektuotas bei pastatytas laivybai jūroje ir turi tai patvirtinančius
 
-dokumentus, o laivo savininkas yra Lietuvos Respublikos pilietis ar Lietuvos
+dokumentus, o laivo savininkas yra Lietuvos Respublikos pilietis ar Lietuvos Respublikoje
 
-Respublikoje įregistruotas juridinis asmuo.
+įregistruotas juridinis asmuo.
 
 2.
 
@@ -1488,7 +1530,25 @@ charter) išsinuomoja Lietuvos Respublikos pilietis ar Lietuvos Respublikoje
 
 įregistruotas juridinis asmuo.
 
-3. Jūrų laivų registravimo taisykles tvirtina Lietuvos
+3.
+
+Lietuvos Respublikos jūrų laivų registre gali būti registruojami nebaigti
+
+statyti jūrų laivai, jeigu:
+
+1)
+
+Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka yra
+
+parengtas ir suderintas statomo laivo projektas;
+
+2) sudaryta laivo statybos rangos sutartis;
+
+3) atlikta ne mažiau kaip 20 procentų laivo korpuso
+
+statybos darbų.
+
+4. Jūrų laivų registravimo taisykles tvirtina Lietuvos
 
 Respublikos Vyriausybė ar jos įgaliota institucija.
 
@@ -1505,6 +1565,10 @@ Nr.85-2584 (00.10.11)
 Nr. IX-595,
 
 2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 9
 
@@ -1674,7 +1738,13 @@ LAIVO ĮGULA
 
 11 straipsnis. Laivo įgulos sudėtis
 
-1. Neteko galios nuo 2000 m. spalio 1 d.
+1. (Neteko galios nuo 2000 m. spalio 1
+
+d.)
+
+2 dalies redakcija iki
+
+Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
 
 2. Laivo įgulą (įskaitant laivo kapitoną ir
 
@@ -1683,6 +1753,22 @@ vyriausiąjį mechaniką) turi sudaryti ne mažiau kaip 75 procentai Lietuvos
 Respublikos piliečių. Laivo kapitono ir vyriausiojo mechaniko pareigas gali
 
 eiti tik Lietuvos Respublikos piliečiai.
+
+2 dalies redakcija nuo
+
+Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
+
+2.
+
+Laivo įgulą (įskaitant laivo kapitoną ir laivo kapitono vyriausiąjį padėjėją)
+
+turi sudaryti ne mažiau kaip du trečdaliai Europos Sąjungos valstybių narių
+
+piliečių ar nuolatinių Lietuvos Respublikos gyventojų. Laivo kapitono ir laivo
+
+kapitono vyriausiojo padėjėjo pareigas gali eiti tik Lietuvos Respublikos
+
+piliečiai.
 
 Straipsnio pakeitimai:
 
@@ -1697,6 +1783,10 @@ Nr.75-2266 (00.09.07), įsigalioja nuo 2000.10.01
 Nr. VIII-1963, 00.09.26, Žin., 2000,
 
 Nr.85-2584 (00.10.11)
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 12
 
@@ -1762,9 +1852,9 @@ pagal Lietuvos Respublikos įstatymus.
 
 4.
 
-Jeigu laivas yra tolimojo plaukiojimo reise ir šiame laive padaroma veika,
+Jeigu laivas yra tolimojo plaukiojimo reise ir šiame laive padaroma veika, numatyta
 
-numatyta Lietuvos Respublikos baudžiamuosiuose įstatymuose, laivo kapitonas,
+Lietuvos Respublikos baudžiamuosiuose įstatymuose, laivo kapitonas,
 
 vadovaudamasis Lietuvos Respublikos baudžiamojo proceso įstatymais bei kitais
 
@@ -1832,19 +1922,19 @@ nežinomi, testamentas perduodamas Lietuvos Respublikos notarų rūmams.
 
 Jei laive miršta žmogus, laivo kapitonas surašo mirties aktą. Tokį aktą, be
 
-laivo kapitono, pasirašo du liudytojai, laivo gydytojas arba felčeris, jeigu
+laivo kapitono, pasirašo du liudytojai, laivo gydytojas arba felčeris, jeigu jie
 
-jie yra laivo įgulos nariai. Apie žmogaus mirtį laive įrašoma laivo žurnale.
+yra laivo įgulos nariai. Apie žmogaus mirtį laive įrašoma laivo žurnale. Prie
 
-Prie mirties akto pridedamas mirusiojo turto ir dokumentų, esančių laive,
+mirties akto pridedamas mirusiojo turto ir dokumentų, esančių laive, apyrašas.
 
-apyrašas. Laivo kapitonas pasirūpina, kad mirusiojo turtas būtų išsaugotas.
+Laivo kapitonas pasirūpina, kad mirusiojo turtas būtų išsaugotas. Atplaukęs į
 
-Atplaukęs į Lietuvos Respublikos uostą, laivo kapitonas perduoda mirties aktą
+Lietuvos Respublikos uostą, laivo kapitonas perduoda mirties aktą civilinės
 
-civilinės metrikacijos įstaigai, o testamentą ir turto apyrašą - notarų biurui.
+metrikacijos įstaigai, o testamentą ir turto apyrašą - notarų biurui. Jei
 
-Jei laivas ilgą laiką turi išbūti atviroje jūroje ir lavonas negali būti
+laivas ilgą laiką turi išbūti atviroje jūroje ir lavonas negali būti
 
 išsaugotas, laivo kapitonas turi teisę palaidoti mirusįjį jūroje pagal jūrų
 
@@ -1854,9 +1944,9 @@ papročius ir surašyti atitinkamą aktą, taip pat apie tai įrašyti laivo žu
 
 dėl kitų aplinkybių negali eiti pareigų, jo pareigas laikinai eina vyresnysis
 
-kapitono padėjėjas. Prieš laivui išplaukiant į kitą uostą, laivo valdytojas privalo
+kapitono padėjėjas. Prieš laivui išplaukiant į kitą uostą, laivo valdytojas
 
-paskirti naują laivo kapitoną.
+privalo paskirti naują laivo kapitoną.
 
 13.
 
@@ -1894,6 +1984,24 @@ KETVIRTASIS SKIRSNIS
 
 KROVINIŲ VEŽIMO JŪRA SUTARTIS
 
+14 straipsnio redakcija iki
+
+1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies
+
+pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl
+
+SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl
+
+kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
+
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu
+
+taisyklės), įsigaliojimo Lietuvos Respublikai:
+
 12 straipsnis. Laivo kapitonas
 
 1. Laivo kapitoną skiria ir darbo
@@ -1930,11 +2038,85 @@ laivo frachtavimo sutartimi (čarteriu), konosamentu ar kitu dokumentu.
 
 šalių susitarimu nenustatyta kitaip.
 
+14 straipsnio redakcija nuo
+
+1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies
+
+pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl
+
+SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl
+
+kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
+
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu
+
+taisyklės), įsigaliojimo Lietuvos Respublikai:
+
+14
+
+straipsnis. Krovinių vežimas jūra
+
+1.
+
+Krovinių vežimo jūra sutarties sudarymo faktas ir jos turinys patvirtinamas
+
+konosamentu ar kitu dokumentu.
+
+2. Kroviniai jūra vežami vadovaujantis 1924 m.
+
+tarptautine konvencija dėl teisės normų, susijusių su konosamentais, suvienodinimo
+
+(Hagos taisyklės), iš dalies pakeista 1968 m. Briuselio protokolu, iš dalies
+
+pakeičiančiu Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Visbiu taisyklės) ir iš dalies pakeista Protokolu
+
+(protokolas dėl SST), iš dalies pakeičiančiu 1924 m. rugpjūčio 25 d.
+
+tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d.
+
+protokolu (Visbiu taisyklės).
+
+3.
+
+Šiame skirsnyje nurodytos taisyklės taikomos, jei šalių sutarimu nenustatyta
+
+kitaip.
+
 Straipsnio pakeitimai:
 
 Nr. IX-595,
 
 2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
+
+15 straipsnio redakcija iki
+
+1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies
+
+pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl
+
+SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl
+
+kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
+
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu
+
+taisyklės), įsigaliojimo Lietuvos Respublikai:
 
 15
 
@@ -1950,9 +2132,71 @@ vardiniai, orderiniai, pareikštiniai.
 
 Krovinių vežimo jūra sutarties sąlygos, neįrašytos į konosamentą, yra
 
-privalomos krovinių gavėjui,            jeigu konosamente yra nuoroda į
+privalomos krovinių gavėjui, jeigu konosamente yra nuoroda į dokumentą, kuriame
+
+tos sąlygos įrašytos.
+
+15 straipsnio redakcija nuo
+
+1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies
+
+pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl
+
+SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl
+
+kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
+
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu
+
+taisyklės), įsigaliojimo Lietuvos Respublikai:
+
+15
+
+straipsnis. Konosamento išdavimas ir dokumentų pateikimas vežėjui
+
+1. Konosamento išdavimo sąlygas nustato 1924 m.
+
+tarptautinė konvencija dėl teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), iš dalies pakeista 1968 m. Briuselio
+
+protokolu, iš dalies pakeičiančiu Tarptautinę konvenciją dėl kai kurių teisės
+
+normų, susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir iš
+
+dalies pakeista Protokolu (protokolas dėl SST), iš dalies pakeičiančiu 1924 m.
+
+rugpjūčio 25 d. tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m.
+
+vasario 23 d. protokolu (Visbiu taisyklės).
+
+2. Krovinių vežimo jūra sutarties sąlygos, neįrašytos
+
+į konosamentą, yra privalomos krovinių gavėjui, jeigu konosamente yra nuoroda į
 
 dokumentą, kuriame tos sąlygos įrašytos.
+
+3. Krovinių siuntėjas turi laiku perduoti vežėjui
+
+visus su kroviniais susijusius dokumentus, kurių reikalauja uosto, muitinės,
+
+sanitarijos arba kitos institucijos, ir atsakyti už nuostolius, atsiradusius
+
+vežėjui dėl to, kad šie dokumentai buvo perduoti ne laiku, netinkami arba
+
+neišsamūs.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 16
 
@@ -2028,6 +2272,44 @@ konosamentas nepraranda juridinės galios, tačiau jis turi atitikti šio įstat
 
 2 straipsnyje pateiktame konosamento sąvokos apibrėžime nustatytus požymius.
 
+15 straipsnis. Konosamentas
+
+1.    Vežėjas  krovinių  siuntėjui
+
+privalo     išduoti konosamentą. Konosamentai gali būti vardiniai, orderiniai,
+
+pareikštiniai.
+
+2. Krovinių vežimo jūra sutarties
+
+sąlygos, neįrašytos į konosamentą,  yra  privalomos  krovinių  gavėjui,      jeigu
+
+konosamente yra nuoroda į dokumentą, kuriame tos sąlygos įrašytos.
+
+16 straipsnis netenka galios
+
+nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš
+
+dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų,
+
+susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo
+
+(protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d.
+
+tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d.
+
+protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1680, 2003-07-03,
+
+Žin., 2003, Nr. 73-3355 (2003-07-23)
+
 17
 
 straipsnis. Atsakomybė už duomenų, pateikiamų įrašyti į konosamentą, tikslumą
@@ -2052,9 +2334,31 @@ nuostolius, atsiradusius dėl to, kad vežėjas išduos konosamentą be išlygų
 
 neįrašydamas duomenų apie blogą išorinę krovinių būklę, yra negaliojantis bet
 
-kuriai trečiajai šaliai, įskaitant krovinių gavėją, kuriam buvo perduotas
+kuriai trečiajai šaliai, įskaitant krovinių gavėją, kuriam buvo perduotas konosamentas.
 
-konosamentas.
+17 straipsnis netenka galios
+
+nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš
+
+dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų,
+
+susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo
+
+(protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d.
+
+tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d.
+
+protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 18
 
@@ -2089,6 +2393,30 @@ dokumentus, kurių reikalauja uosto, muitinės, sanitarijos arba kitos
 institucijos, ir atsako už nuostolius, atsiradusius vežėjui dėl to, kad šie
 
 dokumentai buvo ne laiku perduoti, netinkami arba neišsamūs.
+
+18 straipsnis netenka galios
+
+nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš
+
+dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų,
+
+susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas
+
+dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją
+
+dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
+
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu
+
+taisyklės), įsigaliojimo Lietuvos Respublikai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 19
 
@@ -2152,49 +2480,31 @@ Vežėjas turi teisę į frachtą, kurio dydis yra proporcingas laivo su pavojin
 
 kroviniais nuplauktam atstumui.
 
-20
+20 straipsnis. Krovinių įpakavimas
 
-straipsnis. Krovinių įpakavimas
+Kroviniai, kuriems reikalingas
 
-Kroviniai,
+įpakavimas, apsaugantis juos, vežėjui pateikiami tvarkingoje taroje ir įpakuoti
 
-kuriems reikalingas įpakavimas, apsaugantis juos, vežėjui pateikiami
+pagal tarptautinius standartus, technines sąlygas ar sąlygas, kurios yra
 
-tvarkingoje taroje ir įpakuoti pagal tarptautinius standartus, technines
+numatytos krovinių vežimo jūra sutartyje.
 
-sąlygas ar sąlygas, kurios yra numatytos krovinių vežimo jūra sutartyje.
+21 straipsnis. Krovinio perkrovimas į kitą laivą
 
-21
+Jeigu
 
-straipsnis. Laivo pateikimas kroviniams vežti
+kroviniai turi būti vežami tam tikru laivu, jie gali būti pakrauti į kitą laivą
 
-1.
+tik krovinių siuntėjui sutikus, išskyrus krovinių perkrovimą dėl techninio
 
-Prieš pateikdamas laivą kroviniams pakrauti, taip pat veždamas krovinius,
+būtinumo, atsiradusio pradėjus krovimo darbus.
 
-vežėjas privalo pasirūpinti, kad:
+Straipsnio pakeitimai:
 
-1)
+Nr. IX-1680,
 
-laivas būtų tinkamas plaukioti;
-
-2)
-
-laivas būtų tinkamai aprūpintas ir sukomplektuota laivo įgula;
-
-3)
-
-laivo triumai, refrižeratorių, šaldytuvų bei kitos laivo patalpos, kuriose
-
-vežami kroviniai, būtų pritaikyti kroviniams priimti, vežti ir saugoti.
-
-2.
-
-Jeigu kroviniai turi būti vežami tam tikru laivu, jie gali būti pakrauti į kitą
-
-laivą tik krovinių siuntėjui sutikus, išskyrus krovinių perkrovimą dėl
-
-techninio būtinumo, atsiradusio pradėjus krovimo darbus.
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 22
 
@@ -2290,9 +2600,9 @@ pagal sutartį, užtikrinti vežėjas turi teisę reikalauti iš krovinių siunt
 
 2.
 
-Krovinių įkeitimo sutartis sudaroma ir vykdoma pagal Lietuvos Respublikos
+Krovinių įkeitimo sutartis sudaroma ir vykdoma pagal Lietuvos Respublikos civilinio
 
-civilinio kodekso normas.
+kodekso normas.
 
 3.
 
@@ -2470,6 +2780,24 @@ proporcingas laivo su kroviniais nuplauktam nuotoliui, taip pat vežėjo turėto
 
 su kroviniais susijusios išlaidos.
 
+27 straipsnio redakcija iki
+
+1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies
+
+pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl
+
+SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl
+
+kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
+
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės),
+
+įsigaliojimo Lietuvos Respublikai:
+
 27
 
 straipsnis. Krovinių vežimas
@@ -2540,6 +2868,314 @@ kroviniais susijusias išlaidas ir sumokėti frachtą, proporcingą laivo su
 
 kroviniais nuplauktam nuotoliui.
 
+27 straipsnio redakcija nuo
+
+1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies
+
+pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl
+
+SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl
+
+kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
+
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu
+
+taisyklės), įsigaliojimo Lietuvos Respublikai:
+
+22 straipsnis. Krovinių sukrovimas
+
+laive
+
+1. Kroviniai laive sukraunami laivo
+
+kapitono nuožiūra.
+
+2. Krovinių siuntėjas ir vežėjas gali
+
+susitarti dėl krovinių sukrovimo laivo denyje. Jeigu vežėjas savo nuožiūra
+
+pakrovė krovinius į denį, jis atsako už krovinių praradimą, sugadinimą ar
+
+pavėlavimą krovinius pristatyti į paskirties uostą, jei tai atsitiko dėl
+
+krovinių vežimo denyje.
+
+23 straipsnis. Frachtas
+
+1.  Frachto  dydis nustatomas krovinių
+
+vežimo  jūra sutarties šalių susitarimu. Jeigu tokio susitarimo nebuvo, frachto
+
+dydis nustatomas pagal normas, taikomas krovinių pakrovimo į laivą uoste jų
+
+pakrovimo į laivą dieną.
+
+2. Vežėjas turi teisę krovinių
+
+neišduoti krovinių gavėjui tol, kol nesumokėtas frachtas ar kiti vežėjui
+
+priklausantys mokėjimai arba nepateiktos mokėjimo garantijos.
+
+3. Frachtą ir kitus vežėjui
+
+priklausančius mokėjimus sumoka krovinių siuntėjas arba frachtuotojas, jeigu
+
+krovinių vežimo jūra sutartimi tie mokėjimai nėra perkelti krovinių gavėjui.
+
+4. Jeigu pakrautų krovinių vertė
+
+nepadengia frachto ir kitų vežėjo išlaidų, o krovinių siuntėjas nesumokėjo viso
+
+frachto  prieš laivui išplaukiant iš uosto ir nepateikė mokėjimo garantijų,
+
+vežėjas turi teisę nutraukti krovinių vežimo  jūra  sutartį, iškrauti iš laivo
+
+krovinius  ir pareikalauti sumokėti jam pusę sutarto frachto, užmokestį už
+
+laivo prastovą, jeigu ji buvo, taip pat kitas vežėjo dėl to išleistas sumas.
+
+5. Už vežimo metu ne dėl vežėjo kaltės
+
+prarastus ar sužalotus krovinius mokamas visas frachtas. Už krovinius,
+
+prarastus dėl laivo avarijos, kito nelaimingo atsitikimo arba laivo
+
+prievartinio užgrobimo, frachtas nemokamas, o jeigu buvo sumokėtas, -
+
+grąžinamas. Jeigu kroviniai buvo išgelbėti, vežėjas turi teisę į frachtą, kurio
+
+dydis proporcingas laivo su kroviniais nuplauktam nuotoliui.
+
+6. Už vežimą krovinių, kurie vežimo
+
+metu buvo prarasti ar sugedo  dėl  natūralių krovinių savybių  ar  aplinkybių,
+
+priklausančių nuo krovinių siuntėjo, mokamas visas frachtas.
+
+24 straipsnis. Krovinių įkeitimas
+
+1.  Frachtui  ir kitiems mokėjimams,
+
+priklausantiems vežėjui už krovinių vežimą jūra pagal sutartį, užtikrinti
+
+vežėjas turi teisę reikalauti iš krovinių siuntėjo įkeisti vežimui pateikiamus
+
+krovinius.
+
+2. Krovinių įkeitimo sutartis sudaroma
+
+ir vykdoma pagal Lietuvos Respublikos civilinio kodekso normas.
+
+3. Vežėjas, negavęs jam priklausančių
+
+frachto ir kitų mokėjimų pagal krovinių vežimo jūra sutartį, turi teisę
+
+parduoti įkeistus krovinius prieš tai raštu įspėjęs krovinių siuntėją arba
+
+frachtuotoją ir krovinių gavėją.
+
+4.  Jeigu  lėšų, gautų pardavus
+
+įkeistus krovinius, neužtenka vežėjo reikalavimui visiškai patenkinti, vežėjas turi
+
+teisę reikalauti iš krovinių siuntėjo arba frachtuotojo sumokėti trūkstamą
+
+sumą.
+
+25 straipsnis. Krovinių vežimo jūra
+
+sutarties atsisakymas
+
+1. Kai kroviniams vežti buvo suteiktas
+
+visas laivas, krovinių siuntėjas turi teisę atsisakyti krovinių vežimo jūra
+
+sutarties sumokėjęs:
+
+1) pusę frachto, užmokestį už laivo
+
+prastovą, jeigu ji buvo, taip pat vežėjo išlaidas, susijusias su kroviniais ir
+
+neįtrauktas į frachtą, jeigu krovinių siuntėjas atsisako krovinių vežimo jūra
+
+sutarties prieš pasibaigiant stalijos arba kontrastalijos laikui arba prieš
+
+laivui išplaukiant iš uosto, atsižvelgiant į tai, kuri iš šių dviejų aplinkybių
+
+prasidės anksčiau;
+
+2) visą frachtą ir kitas sumas,
+
+nurodytas šio straipsnio 1 dalies 1 punkte, jeigu krovinių siuntėjas atsisako
+
+krovinių vežimo jūra sutarties, sudarytos vienam laivo reisui po to, kai
+
+pasibaigė stalijos arba kontrastalijos laikas arba laivas išplaukė iš uosto;
+
+3) visą frachtą už pirmąjį laivo reisą,
+
+kitas sumas, nurodytas šios dalies 1 punkte, ir pusę frachto už kitus reisus,
+
+jeigu krovinių siuntėjas atsisakė krovinių vežimo jūra sutarties po to, kai
+
+pasibaigė stalijos arba kontrastalijos laikas arba laivas išplaukė iš uosto.
+
+2.  Jeigu  krovinių siuntėjas krovinių
+
+vežimo  jūra sutarties atsisako iki laivui išplaukiant iš uosto, vežėjas
+
+išduoda jam krovinius neatsižvelgdamas į tai, kad krovinių iškrovimas iš laivo
+
+gali laivą uoste sulaikyti ilgiau už nustatytą laivo stovėjimo terminą.
+
+3.  Jeigu  krovinių siuntėjas krovinių
+
+vežimo  jūra sutarties atsisako laivo reiso metu, jis turi teisę reikalauti
+
+išduoti krovinius tik tame uoste, į kurį laivas turi įplaukti pagal krovinių
+
+vežimo jūra sutartį arba į kurį įplaukė dėl būtino reikalo.
+
+4. Jeigu pagal krovinių vežimo jūra
+
+sutartį krovinių siuntėjui buvo suteiktas ne visas laivas, tai sutarties galima
+
+atsisakyti tik su sąlyga, kad bus sumokėtas visas frachtas, užmokestis už laivo
+
+prastovą, jeigu ji buvo, taip pat vežėjo išlaidos, susijusios su kroviniais ir
+
+neįtrauktos į frachtą. Krovinių  siuntėjo  reikalavimu vežėjas  privalo
+
+išduoti krovinius prieš juos atgabenant į paskirties uostą tik tuo atveju,
+
+jeigu dėl to nebus padaryta žalos vežėjui ir kitiems krovinių siuntėjams.
+
+26 straipsnis. Krovinių vežimo jūra
+
+sutarties nutraukimas
+
+1. Kiekviena krovinių vežimo jūra sutarties
+
+šalis turi teisę  nutraukti  sutartį neatlygindama  antrajai  šaliai nuostolių
+
+šiais atvejais, atsiradusiais iki laivo išplaukimo iš krovinių išsiuntimo
+
+uosto:
+
+1) dėl karo ir kitokių veiksmų,
+
+galinčių kelti pavojų laivui ir kroviniams;
+
+2) jeigu krovinių išsiuntimo uostas
+
+arba paskirties uostas yra blokuojami;
+
+3)  jeigu  laivas  sulaikomas
+
+valstybės  institucijų sprendimu dėl priežasčių, nepriklausančių nuo kurios
+
+nors krovinių vežimo jūra sutarties šalies;
+
+4) jeigu laivas paimamas naudoti
+
+specialiems valstybės reikalams;
+
+5)  jeigu  valdžios institucijos
+
+uždraudžia vežtinus krovinius išvežti iš išsiuntimo uosto arba įvežti į
+
+paskirties uostą.
+
+2.  Kiekviena krovinių vežimo jūra
+
+sutarties šalis, atsiradus šio straipsnio 1 dalyje paminėtai aplinkybei, gali
+
+nutraukti krovinių vežimo jūra sutartį ir laivo reiso metu. Šiuo  atveju
+
+krovinių siuntėjas sumoka vežėjui  frachtą, proporcingą laivo su kroviniais
+
+nuplauktam nuotoliui, taip pat vežėjo turėtas su kroviniais susijusias
+
+išlaidas.
+
+3. Krovinių vežimo jūra sutartis
+
+nutraukiama neatlyginant dėl to sutarties šalims atsiradusių nuostolių, kai:
+
+1) laivas žūva arba yra užgrobtas;
+
+2) laivas pripažįstamas netinkamu
+
+plaukioti;
+
+3) žūva kroviniai, turintys
+
+individualių požymių;
+
+4) žūva kroviniai, turintys rūšinių
+
+požymių, po to, kai jie pateikti pakrauti į laivą, o siuntėjas vietoj žuvusių
+
+krovinių nespėja pateikti kitų krovinių.
+
+4. Krovinių vežimo jūra sutartis dėl 3
+
+dalyje nurodytų aplinkybių gali būti nutraukiama ir laivo reiso metu. Tokiu
+
+atveju vežėjui sumokamas frachtas, proporcingas laivo su kroviniais nuplauktam
+
+nuotoliui, taip pat vežėjo turėtos su kroviniais susijusios išlaidos.
+
+27 straipsnis. Krovinių vežimo ypatumai
+
+1.
+
+(Neteko galios).
+
+3.
+
+(Neteko galios).
+
+4.
+
+Jeigu kroviniams vežti buvo duotas ne visas laivas ir kroviniai dėl priežasčių,
+
+nurodytų šio straipsnio 3 dalyje, negali būti nuvežti į paskirties uostą, laivo
+
+kapitonas krovinių siuntėjo nurodymu krovinius gali iškrauti kitame uoste.
+
+Jeigu per tris paras po to, kai krovinių siuntėjui buvo išsiųstas laivo
+
+kapitono pranešimas apie susidariusias aplinkybes, negautas nurodymas dėl
+
+krovinių iškrovimo uosto, tai     laivo kapitonas turi teisę iškrauti krovinius
+
+artimiausiame uoste, apie tai pranešęs krovinių siuntėjui. Laivo kapitonas turi
+
+teisę taip pat pasielgti ir tuomet, kai krovinio siuntėjo nurodymo negalima
+
+įvykdyti dėl žalos, kuri būtų padaryta kitų laive esančių krovinių savininkams.
+
+5.
+
+Krovinių siuntėjas privalo atlyginti vežėjui visas išlaidas, susijusias su
+
+laukimu jo nurodymo dėl krovinių iškrovimo uosto, taip pat visas kitas su
+
+kroviniais susijusias išlaidas ir sumokėti frachtą, proporcingą laivo su
+
+kroviniais nuplauktam nuotoliui.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
+
 28
 
 straipsnis. Krovinių išdavimas
@@ -2579,6 +3215,30 @@ Prieš išduodant krovinius, krovinių gavėjas ar vežėjas turi teisę reikala
 patikrinti krovinius. Su tokiu krovinių patikrinimu susijusias išlaidas apmoka
 
 šio tikrinimo reikalavęs asmuo.
+
+28 straipsnis netenka galios
+
+nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš
+
+dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų,
+
+susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo
+
+(protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d.
+
+tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d.
+
+protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 29
 
@@ -2782,11 +3442,75 @@ naudojamą kroviniams vežti jūra, krovinių vienetų skaičius, laikoma, kad j
 
 yra vienas krovinys arba vienas krovinio vienetas.
 
+29 straipsnis. Krovinių pateikimas
+
+saugoti
+
+1. Jeigu kroviniams vežti buvo duotas
+
+ne visas laivas, o paskirties uoste krovinių gavėjas krovinių neatsiėmė arba jų
+
+atsisakė, vežėjas turi teisę, pranešęs apie tai krovinių siuntėjui,  krovinius
+
+atiduoti saugoti krovinių  siuntėjo lėšomis ir rizika į uosto sandėlį arba kitą
+
+patikimą vietą.
+
+2. Jeigu kroviniams vežti buvo duotas
+
+visas laivas ir krovinių gavėjas neatvyko arba atsisakė priimti krovinius,
+
+laivo kapitonas tuojau pat apie tai privalo pranešti krovinių siuntėjui.
+
+Pasibaigus laivo iškrovimo terminams, jei per tą laiką nebuvo gautas kitoks
+
+krovinių siuntėjo nurodymas, laivo kapitonas krovinius iškrauna iš laivo ir
+
+atiduoda juos saugoti krovinių siuntėjo lėšomis ir rizika į uosto sandėlį arba
+
+kitą patikimą vietą. Laikas, kurį vežėjas sugaišo, kol kroviniai buvo iškrauti
+
+ir atiduoti saugoti, laikomas laivo prastova, už kurią vežėjui atlygina
+
+krovinių siuntėjas.
+
+3. Jei nuo laivo atplaukimo į uostą per
+
+du mėnesius atiduoti saugoti kroviniai neatsiimami, o krovinių siuntėjas
+
+nesumoka vežėjui priklausančių mokėjimų, vežėjas turi teisę saugomus krovinius
+
+parduoti. Greitai gendantys neatsiimti kroviniai gali būti parduoti ir prieš
+
+pasibaigiant nurodytam terminui.
+
+30 straipsnis netenka galios
+
+nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš
+
+dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų,
+
+susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo
+
+(protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d.
+
+tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d.
+
+protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai.
+
 Straipsnio pakeitimai:
 
 Nr. IX-595,
 
 2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 PENKTASIS SKIRSNIS
 
@@ -2826,9 +3550,9 @@ Keleivių ir bagažo vežimo jūra taisykles tvirtina Susisiekimo ministerija.
 
 5.
 
-Šio skirsnio normos taikomos, jei šalių susitarimu nenustatyta kitaip. Toks susitarimas
+Šio skirsnio normos taikomos, jei šalių susitarimu nenustatyta kitaip. Toks
 
-negali apriboti šiame skirsnyje nurodytų keleivio teisių.
+susitarimas negali apriboti šiame skirsnyje nurodytų keleivio teisių.
 
 32
 
@@ -3090,9 +3814,9 @@ susijusius su kruizo dalyvių aptarnavimu.
 
 ŠEŠTASIS SKIRSNIS
 
-LAIVO FRACHTAVIMAS, LAIVO NUOMA
+LAIVO
 
-BE ĮGULOS (BAREBOAT CHARTER),
+FRACHTAVIMAS, LAIVŲ AGENTAVIMAS, LAIVO NUOMA BE ĮGULOS (BAREBOAT CHARTER),
 
 LAIVO IŠPERKAMOJI NUOMA
 
@@ -3102,709 +3826,9 @@ Nr. IX-595,
 
 2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
 
-15 straipsnis. Konosamentas
+Nr. IX-1680,
 
-1.    Vežėjas  krovinių  siuntėjui
-
-privalo     išduoti konosamentą. Konosamentai gali būti vardiniai, orderiniai,
-
-pareikštiniai.
-
-2. Krovinių vežimo jūra sutarties
-
-sąlygos, neįrašytos į konosamentą,  yra  privalomos  krovinių  gavėjui,      jeigu
-
-konosamente yra nuoroda į dokumentą, kuriame tos sąlygos įrašytos.
-
-16 straipsnis. Konosamento duomenys
-
-1. Konosamente turi būti įrašomi šie
-
-duomenys:
-
-1) laivo pavadinimas;
-
-2) vežėjas ir jo pagrindinės buveinės
-
-adresas;
-
-3) krovinių siuntėjas;
-
-4) krovinių gavėjas, jeigu jį nurodo
-
-krovinių siuntėjas;
-
-5) krovinių pakrovimo uostas;
-
-6) krovinių paskirties uostas;
-
-7) krovinių pristatymo į paskirties
-
-uostą data ar vežimo trukmė, jeigu sutarties šalys dėl to susitarė;
-
-8) krovinių pavadinimas, pagrindinės
-
-žymės kroviniams identifikuoti, krovinių vienetų skaičius ir krovinių svoris
-
-arba jo kiekis, pažymėtas kitokiu būdu, prireikus - nurodymai dėl krovinių
-
-pavojingumo, išorinės krovinių būklės;
-
-9) frachtas ir kitos vežėjui
-
-priklausančios įmokos arba nurodymas, kad frachtas turi būti sumokėtas pagal
-
-vežimo sutartyje nustatytas sąlygas, arba nurodymas, kad  visas frachtas
-
-sumokėtas;
-
-10) konosamento išdavimo laikas ir
-
-vieta;
-
-11) konosamento originalų kiekis, jeigu
-
-jų išduodama daugiau negu vienas;
-
-12) laivo kapitono arba kito vežėjo
-
-atstovo parašas.
-
-2. Jeigu konosamente nurodyti ne visi
-
-šiame straipsnyje minimi duomenys, konosamentas nepraranda juridinės galios,
-
-tačiau jis turi atitikti šio įstatymo 2 straipsnyje pateiktame konosamento
-
-sąvokos apibrėžime nustatytus požymius.
-
-17 straipsnis. Atsakomybė už duomenų,
-
-pateikiamų įrašyti į
-
-konosamentą, tikslumą
-
-1. Duomenys apie krovinius konosamente
-
-nurodomi taip, kaip juos pateikė krovinių siuntėjas. Krovinių siuntėjas turi
-
-atlyginti vežėjui nuostolius, atsiradusius dėl jo pateiktų duomenų netikslumo.
-
-Vežėjo teisė į šių nuostolių atlyginimą neapriboja vežėjo atsakomybės pagal
-
-krovinių vežimo jūra sutartį kitam negu krovinių siuntėjas asmeniui.
-
-2. Susitarimas, kuriuo krovinių
-
-siuntėjas įsipareigoja atlyginti vežėjui nuostolius, atsiradusius dėl to, kad
-
-vežėjas išduos konosamentą be išlygų, neįrašydamas duomenų apie blogą išorinę
-
-krovinių būklę, yra negaliojantis bet kuriai trečiajai šaliai, įskaitant
-
-krovinių gavėją, kuriam buvo perduotas konosamentas.
-
-18 straipsnis. Konosamento perdavimas
-
-1. Konosamento turėtojas konosamentą
-
-gali perduoti kitam asmeniui laikydamasis šių taisyklių:
-
-1) vardinis konosamentas perduodamas
-
-vardiniais perdavimo įrašais arba kitokia forma, nustatyta skoliniam
-
-reikalavimui perduoti;
-
-2)  orderinis konosamentas perduodamas
-
-vardiniais ar blankiniais perdavimo įrašais;
-
-3)  pareikštinis  konosamentas
-
-perduodamas  paprastai įteikiant.
-
-2. Krovinių siuntėjas turi laiku
-
-perduoti vežėjui visus su kroviniais susijusius dokumentus, kurių reikalauja
-
-uosto, muitinės, sanitarijos arba kitos institucijos, ir atsako už nuostolius,
-
-atsiradusius vežėjui dėl to, kad šie dokumentai buvo ne laiku perduoti,
-
-netinkami arba neišsamūs.
-
-20 straipsnis. Krovinių įpakavimas
-
-Kroviniai, kuriems reikalingas
-
-įpakavimas, apsaugantis juos, vežėjui pateikiami tvarkingoje taroje ir įpakuoti
-
-pagal tarptautinius standartus, technines sąlygas ar sąlygas, kurios yra
-
-numatytos krovinių vežimo jūra sutartyje.
-
-21 straipsnis. Laivo pateikimas
-
-kroviniams vežti
-
-1. Prieš pateikdamas laivą kroviniams
-
-pakrauti, taip pat veždamas krovinius, vežėjas privalo pasirūpinti, kad:
-
-1) laivas būtų tinkamas plaukioti;
-
-2) laivas būtų tinkamai aprūpintas ir
-
-sukomplektuota laivo įgula;
-
-3) laivo triumai, refrižeratorių,
-
-šaldytuvų bei kitos laivo patalpos, kuriose vežami kroviniai, būtų pritaikyti
-
-kroviniams priimti, vežti ir saugoti.
-
-2. Jeigu kroviniai turi būti vežami tam
-
-tikru laivu, jie gali būti pakrauti į kitą laivą tik krovinių siuntėjui
-
-sutikus, išskyrus krovinių perkrovimą dėl techninio būtinumo, atsiradusio
-
-pradėjus krovimo darbus.
-
-22 straipsnis. Krovinių sukrovimas
-
-laive
-
-1. Kroviniai laive sukraunami laivo
-
-kapitono nuožiūra.
-
-2. Krovinių siuntėjas ir vežėjas gali
-
-susitarti dėl krovinių sukrovimo laivo denyje. Jeigu vežėjas savo nuožiūra
-
-pakrovė krovinius į denį, jis atsako už krovinių praradimą, sugadinimą ar
-
-pavėlavimą krovinius pristatyti į paskirties uostą, jei tai atsitiko dėl
-
-krovinių vežimo denyje.
-
-23 straipsnis. Frachtas
-
-1.  Frachto  dydis nustatomas krovinių
-
-vežimo  jūra sutarties šalių susitarimu. Jeigu tokio susitarimo nebuvo, frachto
-
-dydis nustatomas pagal normas, taikomas krovinių pakrovimo į laivą uoste jų
-
-pakrovimo į laivą dieną.
-
-2. Vežėjas turi teisę krovinių
-
-neišduoti krovinių gavėjui tol, kol nesumokėtas frachtas ar kiti vežėjui
-
-priklausantys mokėjimai arba nepateiktos mokėjimo garantijos.
-
-3. Frachtą ir kitus vežėjui
-
-priklausančius mokėjimus sumoka krovinių siuntėjas arba frachtuotojas, jeigu
-
-krovinių vežimo jūra sutartimi tie mokėjimai nėra perkelti krovinių gavėjui.
-
-4. Jeigu pakrautų krovinių vertė
-
-nepadengia frachto ir kitų vežėjo išlaidų, o krovinių siuntėjas nesumokėjo viso
-
-frachto  prieš laivui išplaukiant iš uosto ir nepateikė mokėjimo garantijų,
-
-vežėjas turi teisę nutraukti krovinių vežimo  jūra  sutartį, iškrauti iš laivo
-
-krovinius  ir pareikalauti sumokėti jam pusę sutarto frachto, užmokestį už
-
-laivo prastovą, jeigu ji buvo, taip pat kitas vežėjo dėl to išleistas sumas.
-
-5. Už vežimo metu ne dėl vežėjo kaltės
-
-prarastus ar sužalotus krovinius mokamas visas frachtas. Už krovinius,
-
-prarastus dėl laivo avarijos, kito nelaimingo atsitikimo arba laivo
-
-prievartinio užgrobimo, frachtas nemokamas, o jeigu buvo sumokėtas, -
-
-grąžinamas. Jeigu kroviniai buvo išgelbėti, vežėjas turi teisę į frachtą, kurio
-
-dydis proporcingas laivo su kroviniais nuplauktam nuotoliui.
-
-6. Už vežimą krovinių, kurie vežimo
-
-metu buvo prarasti ar sugedo  dėl  natūralių krovinių savybių  ar  aplinkybių,
-
-priklausančių nuo krovinių siuntėjo, mokamas visas frachtas.
-
-24 straipsnis. Krovinių įkeitimas
-
-1.  Frachtui  ir kitiems mokėjimams,
-
-priklausantiems vežėjui už krovinių vežimą jūra pagal sutartį, užtikrinti
-
-vežėjas turi teisę reikalauti iš krovinių siuntėjo įkeisti vežimui pateikiamus
-
-krovinius.
-
-2. Krovinių įkeitimo sutartis sudaroma
-
-ir vykdoma pagal Lietuvos Respublikos civilinio kodekso normas.
-
-3. Vežėjas, negavęs jam priklausančių
-
-frachto ir kitų mokėjimų pagal krovinių vežimo jūra sutartį, turi teisę
-
-parduoti įkeistus krovinius prieš tai raštu įspėjęs krovinių siuntėją arba
-
-frachtuotoją ir krovinių gavėją.
-
-4.  Jeigu  lėšų, gautų pardavus
-
-įkeistus krovinius, neužtenka vežėjo reikalavimui visiškai patenkinti, vežėjas turi
-
-teisę reikalauti iš krovinių siuntėjo arba frachtuotojo sumokėti trūkstamą
-
-sumą.
-
-25 straipsnis. Krovinių vežimo jūra
-
-sutarties atsisakymas
-
-1. Kai kroviniams vežti buvo suteiktas
-
-visas laivas, krovinių siuntėjas turi teisę atsisakyti krovinių vežimo jūra
-
-sutarties sumokėjęs:
-
-1) pusę frachto, užmokestį už laivo
-
-prastovą, jeigu ji buvo, taip pat vežėjo išlaidas, susijusias su kroviniais ir
-
-neįtrauktas į frachtą, jeigu krovinių siuntėjas atsisako krovinių vežimo jūra
-
-sutarties prieš pasibaigiant stalijos arba kontrastalijos laikui arba prieš
-
-laivui išplaukiant iš uosto, atsižvelgiant į tai, kuri iš šių dviejų aplinkybių
-
-prasidės anksčiau;
-
-2) visą frachtą ir kitas sumas,
-
-nurodytas šio straipsnio 1 dalies 1 punkte, jeigu krovinių siuntėjas atsisako
-
-krovinių vežimo jūra sutarties, sudarytos vienam laivo reisui po to, kai
-
-pasibaigė stalijos arba kontrastalijos laikas arba laivas išplaukė iš uosto;
-
-3) visą frachtą už pirmąjį laivo reisą,
-
-kitas sumas, nurodytas šios dalies 1 punkte, ir pusę frachto už kitus reisus,
-
-jeigu krovinių siuntėjas atsisakė krovinių vežimo jūra sutarties po to, kai
-
-pasibaigė stalijos arba kontrastalijos laikas arba laivas išplaukė iš uosto.
-
-2.  Jeigu  krovinių siuntėjas krovinių
-
-vežimo  jūra sutarties atsisako iki laivui išplaukiant iš uosto, vežėjas
-
-išduoda jam krovinius neatsižvelgdamas į tai, kad krovinių iškrovimas iš laivo
-
-gali laivą uoste sulaikyti ilgiau už nustatytą laivo stovėjimo terminą.
-
-3.  Jeigu  krovinių siuntėjas krovinių
-
-vežimo  jūra sutarties atsisako laivo reiso metu, jis turi teisę reikalauti
-
-išduoti krovinius tik tame uoste, į kurį laivas turi įplaukti pagal krovinių
-
-vežimo jūra sutartį arba į kurį įplaukė dėl būtino reikalo.
-
-4. Jeigu pagal krovinių vežimo jūra
-
-sutartį krovinių siuntėjui buvo suteiktas ne visas laivas, tai sutarties galima
-
-atsisakyti tik su sąlyga, kad bus sumokėtas visas frachtas, užmokestis už laivo
-
-prastovą, jeigu ji buvo, taip pat vežėjo išlaidos, susijusios su kroviniais ir
-
-neįtrauktos į frachtą. Krovinių  siuntėjo  reikalavimu vežėjas  privalo
-
-išduoti krovinius prieš juos atgabenant į paskirties uostą tik tuo atveju,
-
-jeigu dėl to nebus padaryta žalos vežėjui ir kitiems krovinių siuntėjams.
-
-26 straipsnis. Krovinių vežimo jūra
-
-sutarties nutraukimas
-
-1. Kiekviena krovinių vežimo jūra sutarties
-
-šalis turi teisę  nutraukti  sutartį neatlygindama  antrajai  šaliai nuostolių
-
-šiais atvejais, atsiradusiais iki laivo išplaukimo iš krovinių išsiuntimo
-
-uosto:
-
-1) dėl karo ir kitokių veiksmų,
-
-galinčių kelti pavojų laivui ir kroviniams;
-
-2) jeigu krovinių išsiuntimo uostas
-
-arba paskirties uostas yra blokuojami;
-
-3)  jeigu  laivas  sulaikomas
-
-valstybės  institucijų sprendimu dėl priežasčių, nepriklausančių nuo kurios
-
-nors krovinių vežimo jūra sutarties šalies;
-
-4) jeigu laivas paimamas naudoti
-
-specialiems valstybės reikalams;
-
-5)  jeigu  valdžios institucijos
-
-uždraudžia vežtinus krovinius išvežti iš išsiuntimo uosto arba įvežti į
-
-paskirties uostą.
-
-2.  Kiekviena krovinių vežimo jūra
-
-sutarties šalis, atsiradus šio straipsnio 1 dalyje paminėtai aplinkybei, gali
-
-nutraukti krovinių vežimo jūra sutartį ir laivo reiso metu. Šiuo  atveju
-
-krovinių siuntėjas sumoka vežėjui  frachtą, proporcingą laivo su kroviniais
-
-nuplauktam nuotoliui, taip pat vežėjo turėtas su kroviniais susijusias
-
-išlaidas.
-
-3. Krovinių vežimo jūra sutartis
-
-nutraukiama neatlyginant dėl to sutarties šalims atsiradusių nuostolių, kai:
-
-1) laivas žūva arba yra užgrobtas;
-
-2) laivas pripažįstamas netinkamu
-
-plaukioti;
-
-3) žūva kroviniai, turintys
-
-individualių požymių;
-
-4) žūva kroviniai, turintys rūšinių
-
-požymių, po to, kai jie pateikti pakrauti į laivą, o siuntėjas vietoj žuvusių
-
-krovinių nespėja pateikti kitų krovinių.
-
-4. Krovinių vežimo jūra sutartis dėl 3
-
-dalyje nurodytų aplinkybių gali būti nutraukiama ir laivo reiso metu. Tokiu
-
-atveju vežėjui sumokamas frachtas, proporcingas laivo su kroviniais nuplauktam
-
-nuotoliui, taip pat vežėjo turėtos su kroviniais susijusios išlaidos.
-
-27 straipsnis. Krovinių vežimas
-
-1. Vežėjas privalo krovinį nuvežti į
-
-paskirties uostą krovinių vežimo jūra sutartyje numatytu laiku, o jei toks
-
-laikas nenumatytas, - per pagrįstai reikalingą laiką.
-
-2. Krovinių vežimo jūra sutarties
-
-pažeidimu nelaikomas laivo  nukrypimas nuo sutartyje numatyto krovinių vežimo
-
-maršruto siekiant gelbėti jūroje žmones, laivą ar krovinius, taip pat kitoks
-
-tikslingas laivo nukrypimas nuo maršruto, jeigu tai nėra padaryta dėl
-
-neteisingų vežėjo veiksmų.
-
-3. Jeigu kroviniams vežti buvo duotas
-
-visas laivas, tačiau dėl valstybės institucijų draudimo, stichinių reiškinių
-
-arba kitų nuo vežėjo nepriklausančių priežasčių laivas negali įplaukti į
-
-paskirties uostą, vežėjas privalo tuoj pat pranešti apie tai krovinių
-
-siuntėjui. Jeigu per pagrįstai reikalingą laiką po to, kai pranešimas buvo
-
-išsiųstas, negaunama krovinių siuntėjo  nurodymų dėl krovinių iškrovimo
-
-uosto,  laivo kapitonas turi teisę artimiausiame uoste iškrauti krovinius arba
-
-juos vežti į krovinių išsiuntimo uostą, atsižvelgdamas į tai, kas, jo nuomone,
-
-yra naudingiau krovinių siuntėjui.
-
-4. Jeigu kroviniams vežti buvo duotas
-
-ne visas laivas ir kroviniai dėl priežasčių, nurodytų šio straipsnio 3 dalyje,
-
-negali būti nuvežti į paskirties uostą, laivo kapitonas krovinių siuntėjo
-
-nurodymu krovinius gali iškrauti kitame uoste. Jeigu per tris paras po to, kai
-
-krovinių siuntėjui buvo išsiųstas  laivo  kapitono pranešimas apie
-
-susidariusias aplinkybes, negautas nurodymas dėl krovinių iškrovimo uosto, tai  laivo
-
-kapitonas  turi  teisę  iškrauti  krovinius artimiausiame uoste, apie tai
-
-pranešęs krovinių siuntėjui. Laivo kapitonas turi teisę taip pat pasielgti ir
-
-tuomet, kai krovinio siuntėjo nurodymo negalima įvykdyti dėl žalos, kuri būtų
-
-padaryta kitų laive esančių krovinių savininkams.
-
-5. Krovinių siuntėjas privalo atlyginti
-
-vežėjui visas išlaidas, susijusias su laukimu jo nurodymo dėl krovinių iškrovimo
-
-uosto, taip pat visas kitas su kroviniais susijusias išlaidas ir sumokėti
-
-frachtą, proporcingą laivo su kroviniais nuplauktam nuotoliui.
-
-28 straipsnis. Krovinių išdavimas
-
-1. Kroviniai išduodami paskirties
-
-uoste:
-
-1)  pagal  vardinį konosamentą - krovinių
-
-gavėjui, nurodytam konosamente, arba asmeniui, kuriam konosamentas buvo
-
-perduotas pagal vardinį perdavimo įrašą ar kitokia forma, laikantis   taisyklių,
-
-nustatytų  skoliniam  reikalavimui perduoti;
-
-2) pagal orderinį konosamentą -
-
-krovinių siuntėjui arba gavėjui,  atsižvelgiant į tai, ar konosamentas
-
-surašytas "siuntėjo įsakymu" ar "gavėjo įsakymu", o esant
-
-konosamente perdavimo  įrašams,  -  asmeniui, nurodytam  paskutiniame perdavimo
-
-įraše;
-
-3)    pagal  pareikštinį  konosamentą
-
--  konosamento pateikėjui.
-
-2. Prieš išduodant krovinius, krovinių
-
-gavėjas ar vežėjas turi teisę reikalauti patikrinti krovinius. Su tokiu
-
-krovinių patikrinimu  susijusias  išlaidas  apmoka  šio  tikrinimo reikalavęs
-
-asmuo.
-
-29 straipsnis. Krovinių pateikimas
-
-saugoti
-
-1. Jeigu kroviniams vežti buvo duotas
-
-ne visas laivas, o paskirties uoste krovinių gavėjas krovinių neatsiėmė arba jų
-
-atsisakė, vežėjas turi teisę, pranešęs apie tai krovinių siuntėjui,  krovinius
-
-atiduoti saugoti krovinių  siuntėjo lėšomis ir rizika į uosto sandėlį arba kitą
-
-patikimą vietą.
-
-2. Jeigu kroviniams vežti buvo duotas
-
-visas laivas ir krovinių gavėjas neatvyko arba atsisakė priimti krovinius,
-
-laivo kapitonas tuojau pat apie tai privalo pranešti krovinių siuntėjui.
-
-Pasibaigus laivo iškrovimo terminams, jei per tą laiką nebuvo gautas kitoks
-
-krovinių siuntėjo nurodymas, laivo kapitonas krovinius iškrauna iš laivo ir
-
-atiduoda juos saugoti krovinių siuntėjo lėšomis ir rizika į uosto sandėlį arba
-
-kitą patikimą vietą. Laikas, kurį vežėjas sugaišo, kol kroviniai buvo iškrauti
-
-ir atiduoti saugoti, laikomas laivo prastova, už kurią vežėjui atlygina
-
-krovinių siuntėjas.
-
-3. Jei nuo laivo atplaukimo į uostą per
-
-du mėnesius atiduoti saugoti kroviniai neatsiimami, o krovinių siuntėjas
-
-nesumoka vežėjui priklausančių mokėjimų, vežėjas turi teisę saugomus krovinius
-
-parduoti. Greitai gendantys neatsiimti kroviniai gali būti parduoti ir prieš
-
-pasibaigiant nurodytam terminui.
-
-30 straipsnis. Vežėjo atsakomybė už
-
-krovinių praradimą, trūkumą,
-
-sužalojimą arba
-
-pavėluotą pristatymą
-
-1.  Vežėjas atsako už nuostolius,
-
-atsiradusius  dėl krovinių  praradimo, trūkumo arba sužalojimo,  taip  pat
-
-pavėluoto pristatymo, jeigu aplinkybės, sukėlusios krovinių praradimą, trūkumą
-
-arba sužalojimą, pavėluotą pristatymą, atsirado tada, kai kroviniai buvo vežėjo
-
-žinioje.
-
-2. Kroviniai yra vežėjo žinioje nuo jų
-
-pakrovimo į laivą momento iki jų iškrovimo iš laivo momento.
-
-3. Kroviniai laikomi pavėluotai
-
-pristatyti, jei jie nepristatomi į paskirties uostą krovinių vežimo jūra
-
-sutartyje numatytu laiku, o jei tokio susitarimo nėra, - per pagrįstai
-
-reikalingą laiką kroviniams pristatyti.
-
-4. Vežėjas neatsako už nuostolius, jei
-
-jie atsirado dėl:
-
-1) nenugalimos jėgos;
-
-2) žmonių, laivų ir krovinių gelbėjimo;
-
-3) gaisro, kilusio ne dėl vežėjo kaltės;
-
-4)    valstybės  institucijų  veiksmų
-
-ar  sprendimų, sukliudžiusių vežėjui laiku pristatyti krovinius;
-
-5) karo veiksmų ir riaušių;
-
-6) krovinių siuntėjo arba krovinių
-
-gavėjo veiksmų ar aplaidumo;
-
-7) krovinių nematomų defektų, krovinių
-
-kilmės ar jų savybių;
-
-8) netinkamos krovinių taros ir
-
-įpakavimo;
-
-9) krovinių ženklinimo trūkumų;
-
-10)  streikų  arba kitų nuo vežėjo
-
-nepriklausančių aplinkybių, dėl kurių visiškai ar iš dalies sustojo ar buvo
-
-apriboti darbai uoste arba laive.
-
-5. Negalioja susitarimai, neatitinkantys
-
-šio straipsnio 4 dalies taisyklių, išskyrus susitarimus dėl atsakomybės, nuo
-
-tada, kai kroviniai priimami, iki jų pakrovimo į laivą ir po krovinių iškrovimo
-
-iš laivo, iki jų perdavimo krovinių gavėjui arba saugoti.
-
-6. Vežėjas neatsako už krovinių
-
-trūkumą, jeigu:
-
-1) kroviniai buvo vežami atskirose
-
-laivo patalpose, konteineriuose      ar  kituose  įrenginiuose,     naudojamuose
-
-kroviniams vežti, ir nebuvo pažeistos krovinių  siuntėjo plombos;
-
-2) kroviniai atvežti nepažeidus
-
-įpakavimo arba kroviniams skirtuose įrenginiuose be atidarymo vežimo metu
-
-žymių;
-
-3) vežamus krovinius lydėjo krovinių
-
-siuntėjo arba gavėjo palydovas;
-
-4)  krovinių gavėjas neįrodo, jog
-
-krovinių trūkumas atsirado dėl vežėjo kaltės.
-
-7. Už žalą, padarytą vežant krovinius,
-
-vežėjas atsako:
-
-1) už prarastus krovinius arba esant jų
-
-trūkumui - prarastų arba trūkstamų krovinių vertės dydžiu. Vežėjas taip pat
-
-grąžina gautą frachtą, jeigu jis neįeina į prarasto arba trūkstamo krovinio
-
-kainą;
-
-2) krovinius sužalojus, - sumos, kuria
-
-sumažėjo jų vertė, dydžiu.
-
-8. Prarastų arba sužalotų krovinių
-
-vertė nustatoma pagal paskirties uosto kainas, kurios buvo, kai ten atplaukė
-
-arba turėjo atplaukti laivas, o jeigu šių kainų negalima nustatyti, - pagal
-
-krovinių išsiuntimo uosto kainas, kurios buvo, kai iš uosto  išplaukė  laivas,
-
-pridedant vežimo  išlaidas.  Iš atlyginimo už prarastus arba sužalotus
-
-krovinius atskaitomos sumos, susijusios su krovinių vežimu (frachtas, muitas ir
-
-kt.), kurias turėjo sumokėti krovinių savininkas, bet dėl krovinių praradimo,
-
-trūkumo arba sužalojimo jų nesumokėjo.
-
-9. Jeigu kroviniai, vežti pagal
-
-konosamentą, nebuvo įvertinti  ir  jų vertė nebuvo įrašyta  į  konosamentą,
-
-atlyginimas už prarastą ar sužalotą krovinio vienetą negali viršyti 700 litų.
-
-Susitarimas dėl šios sumos sumažinimo negalioja. Jeigu konosamente nenurodytas
-
-krovinių, sukrautų į konteinerį ar kitą įrenginį, naudojamą kroviniams vežti
-
-jūra, krovinių vienetų skaičius, laikoma, kad juose yra vienas krovinys arba
-
-vienas krovinio vienetas.
-
-PENKTASIS SKIRSNIS
-
-KELEIVIŲ VEŽIMO JŪRA SUTARTIS
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 31 straipsnis. Keleivių vežimo jūra
 
@@ -4084,6 +4108,42 @@ dienos, o jeigu tos dienos nustatyti negalima, - iki tos dienos, kai buvo gauta
 
 paskutinė žinia apie laivo žuvimą.
 
+40(1) straipsnis. Laivų agentavimas
+
+Laivų
+
+agentavimas apima šių paslaugų teikimą:
+
+1) tarpininkavimą įsigyjant ir perleidžiant laivus;
+
+2)
+
+tarpininkavimą sudarant frachtavimo sutartį ir frachtavimo sutarties vykdymo
+
+priežiūros vykdymą;
+
+3) frachto, uosto rinkliavų ir kitų mokesčių bei
+
+rinkliavų surinkimą ir mokėjimą;
+
+4) muitinės ir krovinio dokumentų tvarkymą ir kitus su
+
+tuo susijusius veiksmus;
+
+5) laivo atplaukimo į uostą ir išplaukimo iš uosto,
+
+taip pat krovos darbų organizavimą;
+
+6) laivo aprūpinimo ir aptarnavimo organizavimą uoste.
+
+Įstatymas papildytas
+
+straipsniu:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
+
 41
 
 straipsnis. Laivo išperkamosios nuomos sutarties sudarymas
@@ -4238,11 +4298,11 @@ pirkimo įmokos.
 
 Išperkamosios nuomos gavėjas privalo grąžinti laivą laivo savininkui tokios
 
-būklės, kokios jį gavo, atsižvelgiant į normalų laivo susidėvėjimą, arba sutartimi
+būklės, kokios jį gavo, atsižvelgiant į normalų laivo susidėvėjimą, arba
 
-sulygtos būklės. Jeigu laivo būklė pablogėjo, išperkamosios nuomos gavėjas
+sutartimi sulygtos būklės. Jeigu laivo būklė pablogėjo, išperkamosios nuomos
 
-privalo atlyginti laivo savininkui dėl to padarytą žalą.
+gavėjas privalo atlyginti laivo savininkui dėl to padarytą žalą.
 
 SEPTINTASIS SKIRSNIS
 
@@ -4486,11 +4546,11 @@ nurodytų šios dalies 1 ir 3 punktuose. Jeigu laivas pripažintas netinkamu
 
 plaukioti arba jeigu laivas nutraukė pradėtą reisą, nurodytos išlaidos,
 
-atsiradusios iki laivo pripažinimo netinkamu plaukioti dienos arba iki laivo pradėto
+atsiradusios iki laivo pripažinimo netinkamu plaukioti dienos arba iki laivo
 
-reiso nutraukimo dienos, arba iki laivo iškrovimo darbų pabaigimo dienos,
+pradėto reiso nutraukimo dienos, arba iki laivo iškrovimo darbų pabaigimo
 
-prilyginamos bendrajai avarijai;
+dienos, prilyginamos bendrajai avarijai;
 
 6)
 
@@ -4616,9 +4676,9 @@ pailgėjimo;
 
 7) specialioji kompensacija, kurią laivo savininkas
 
-privalo sumokėti gelbėtojui pagal 1989 metų Tarptautinės turto gelbėjimo
+privalo sumokėti gelbėtojui pagal 1989 metų Tarptautinės turto gelbėjimo vandenyse
 
-vandenyse konvencijos 14 straipsnį.
+konvencijos 14 straipsnį.
 
 2.
 
@@ -4632,11 +4692,11 @@ avarijai. Tačiau jeigu šis turtas buvo išgelbėtas, jo savininkai daro įnaš
 
 bendrosios avarijos tvarka. Savininkai, kurių kroviniai, pateikiant juos vežti,
 
-buvo įvertinti mažesne negu tikroji jų vertė, daro bendrosios avarijos įnašus
+buvo įvertinti mažesne negu tikroji jų vertė, daro bendrosios avarijos įnašus pagal
 
-pagal tikrąją krovinių vertę, bet jų nuostoliai atlyginami tik pagal krovinių
+tikrąją krovinių vertę, bet jų nuostoliai atlyginami tik pagal krovinių vertę,
 
-vertę, pareikštą pateikiant vežti krovinius.
+pareikštą pateikiant vežti krovinius.
 
 Straipsnio pakeitimai:
 
@@ -4838,17 +4898,39 @@ nepakeista.
 
 DEVINTASIS SKIRSNIS
 
+Devintojo skirsnio pavadinimo
+
+redakcija iki Jungtinių Tautų Organizacijos Jūrų teisės konvencijos
+
+įsigaliojimo Lietuvos Respublikai:
+
 GELBĖJIMAS JŪROJE, LAIVŲ SUSIDŪRIMAS
+
+Devintojo skirsnio pavadinimo
+
+redakcija nuo Jungtinių Tautų Organizacijos Jūrų teisės konvencijos
+
+įsigaliojimo Lietuvos Respublikai:
+
+GELBĖJIMAS JŪROJE, LAIVŲ SUSIDŪRIMAS, NUOSTOLIŲ,
+
+ATSIRADUSIŲ SIEKIANT IŠVENGTI POVANDENINIO KABELIO AR VAMZDYNO PAŽEIDIMO,
+
+ATLYGINIMAS
 
 Skirsnio pavadinimas keistas:
 
 Nr. VIII-1899, 00.08.29, Žin., 2000,
 
-Nr.75-2266 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2266 (00.09.07)
 
 Nr. VIII-1963, 00.09.26, Žin., 2000,
 
 Nr.85-2584 (00.10.11)
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 53
 
@@ -4860,7 +4942,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1899, 00.08.29, Žin., 2000,
 
-Nr.75-2266 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2266 (00.09.07)
 
 Nr. VIII-1963, 00.09.26, Žin., 2000,
 
@@ -4876,7 +4958,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1899, 00.08.29, Žin., 2000,
 
-Nr.75-2266 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2266 (00.09.07)
 
 Nr. VIII-1963, 00.09.26, Žin., 2000,
 
@@ -5182,6 +5264,38 @@ Nuostoliai, atsiradę dėl aplinkos užteršimo susidūrus laivams, atlyginami
 
 Lietuvos Respublikos įstatymų nustatyta tvarka.
 
+Įstatymas papildomas 57(1) straipsniu nuo Jungtinių Tautų
+
+Organizacijos Jūrų teisės konvencijos įsigaliojimo Lietuvos Respublikai:
+
+57(1)
+
+straipsnis. Nuostolių, atsiradusių siekiant išvengti povandeninio kabelio ar
+
+vamzdyno pažeidimo, atlyginimas
+
+1. Povandeninio kabelio ar
+
+vamzdyno savininkas privalo atlyginti nuostolius, patirtus laivų savininkų,
+
+kurie įrodo, jog patyrė nuostolius (prarado inkarą, tinklą ar kitą žvejybos
+
+įrangą) siekdami išvengti povandeninio kabelio ar vamzdyno pažeidimo.
+
+2. Šio straipsnio 1 dalyje nustatyta prievolė
+
+atlyginti nuostolius atsiranda  tik tuomet, jei  laivo savininkai ėmėsi visų
+
+protingų priemonių, kad būtų išvengta nuostolių.
+
+Įstatymas papildytas
+
+straipsniu:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
+
 DEŠIMTASIS SKIRSNIS
 
 LAIVO VALDYTOJO RIBOTOJI ATSAKOMYBĖ
@@ -5330,9 +5444,9 @@ laikomas 300 tonų talpumo laivu.
 
 3.
 
-Jeigu laivo valdytojas, kurio atsakomybė ribojama, dėl to paties atsitikimo
+Jeigu laivo valdytojas, kurio atsakomybė ribojama, dėl to paties atsitikimo turi
 
-turi teisę į priešpriešinį reikalavimą, atsakomybės apribojimas taikomas tik
+teisę į priešpriešinį reikalavimą, atsakomybės apribojimas taikomas tik
 
 skirtumui, kuris susidaro įskaičius savitarpio reikalavimų sumas.
 
@@ -5488,9 +5602,9 @@ laivui padarytus ir dar nepataisytus sužalojimus;
 
 atlyginimo, priklausančio laivo valdytojui už išgelbėjimą iki laivo reiso
 
-pabaigos, atskaičius sumas, kurias laivo valdytojas turi sumokėti įgulos nariams
+pabaigos, atskaičius sumas, kurias laivo valdytojas turi sumokėti įgulos
 
-ir kitiems asmenims, dalyvavusiems gelbėjant.
+nariams ir kitiems asmenims, dalyvavusiems gelbėjant.
 
 2.
 
@@ -5516,9 +5630,9 @@ straipsnis. Privilegijuotų reikalavimų ieškininės senaties terminai
 
 1.
 
-Teisė į privilegijuotų reikalavimų patenkinimą pasibaigia suėjus vieneriems
+Teisė į privilegijuotų reikalavimų patenkinimą pasibaigia suėjus vieneriems metams
 
-metams nuo privilegijuoto reikalavimo teisės atsiradimo dienos.
+nuo privilegijuoto reikalavimo teisės atsiradimo dienos.
 
 2.
 
@@ -5679,366 +5793,6 @@ prarastų krovinių ar bagažo grąžinimas vežėjui.
 Aktų formas, jų surašymo ir atsisakymo surašyti, taip pat aktų apskundimo
 
 tvarką nustato Susisiekimo ministerija.
-
-70
-
-straipsnis. Pretenzijos
-
-1.
-
-Prieš pareiškiant ieškinį, kylantį iš vežimo jūra sutarčių, privaloma pareikšti
-
-pretenziją.
-
-2.
-
-Pretenzijos gali būti pareiškiamos vežėjui, kuris vežė, o jeigu nebuvo vežta, -
-
-vežėjui, kuris pagal sudarytą vežimo jūra sutartį turėjo vežti.
-
-3.
-
-Pretenzijos, kylančios dėl bagažo vežimo, gali būti pareikštos vežėjui arba
-
-siuntimo ar paskirties uostui pretenzijos pareiškėjo nuožiūra.
-
-4.
-
-Pretenzija turi būti pareiškiama raštu. Prie pretenzijos pareiškimo turi būti
-
-pridedami ją patvirtinantys dokumentai. Prie pretenzijos dėl krovinių
-
-praradimo, trūkumo arba sužalojimo, be dokumentų, patvirtinančių teisę
-
-pareikšti pretenziją, turi būti pridedamas dokumentas, patvirtinantis vežėjui
-
-pristatytų vežtinų krovinių kiekį ir vertę.
-
-5.
-
-Pretenzijų, kylančių iš keleivių vežimo jūra sutarties, pareiškimo ir
-
-nagrinėjimo tvarką nustato Keleivių ir bagažo vežimo jūra taisyklės.
-
-71
-
-straipsnis. Teisė pareikšti pretenzijas ir ieškinius
-
-1.
-
-Teisę pareikšti pretenzijas ir ieškinius turi:
-
-1)
-
-krovinių siuntėjas - kai nepateiktas laivas arba jis pateiktas pavėluotai;
-
-2)
-
-krovinių siuntėjas arba gavėjas, pateikdamas konosamentą, - kai už vežimą
-
-paimtas per didelis užmokestis;
-
-3)
-
-krovinių gavėjas arba siuntėjas, pateikdamas konosamentą, aktą arba kitą
-
-dokumentą, surašytą pagal krovinių gavėjo ar siuntėjo uoste galiojančias
-
-taisykles, - kai krovinių trūksta arba jie sužaloti;
-
-4)
-
-krovinių gavėjas, pateikdamas konosamentą, - kai kroviniai pavėluotai atvežti
-
-arba uždelsta juos išduoti;
-
-5)
-
-bagažo kvito pateikėjas - kai trūksta arba pavėluotai atgabentas bagažas;
-
-6)
-
-akto pateikėjas - jeigu bagažas sužalotas.
-
-2.
-
-Akto nebuvimas neatima teisės pareikšti pretenziją, jei įrodoma, kad buvo
-
-atsisakyta surašyti aktą ir šis atsisakymas buvo apskųstas.
-
-3.
-
-Kitiems asmenims perduoti teisę pareikšti pretenzijas ir ieškinius neleidžiama,
-
-išskyrus atvejus, kai tokią teisę krovinių siuntėjas perduoda krovinių gavėjui
-
-arba atvirkščiai, taip pat, kai krovinių gavėjas arba krovinių siuntėjas tą
-
-teisę perduoda ekspedicinei, draudimo ar kitai organizacijai. Teisės pareikšti
-
-pretenziją ir ieškinį perdavimas patvirtinamas atitinkamu įrašu konosamente.
-
-72
-
-straipsnis. Terminai pretenzijoms pareikšti dėl vežimo kabotažu
-
-1.
-
-Pretenzijos, kylančios iš krovinių ar bagažo vežimo kabotažu, gali būti
-
-pareiškiamos per 6 mėnesius, o pretenzijos dėl dispačo ar demeredžo mokėjimo -
-
-per 45 dienas. Nurodyti terminai skaičiuojami:
-
-1)
-
-pretenzijoms atlyginti žalą dėl krovinių ar bagažo praradimo - praėjus 30 dienų
-
-nuo tos dienos, kurią kroviniai ar bagažas turėjo būti išduoti;
-
-2)
-
-pretenzijoms atlyginti žalą dėl krovinių ar bagažo trūkumo arba sužalojimo,
-
-pretenzijoms dėl pavėlavimo vežti arba uždelsimo išduoti krovinius ar bagažą,
-
-pretenzijoms dėl per didelio užmokesčio už vežimą grąžinimo - nuo krovinių ar
-
-bagažo išdavimo dienos;
-
-3)
-
-pretenzijoms dėl supiltinai, suverstinai arba subertinai vežamų masinių
-
-krovinių trūkumų - nuo akto pasirašymo dienos;
-
-4)
-
-pretenzijoms dėl baudų sumokėjimo už laivo nepateikimą ar pavėluotą jo
-
-pateikimą, taip pat dėl dispačo sumokėjimo - praėjus mėnesiui po to, kai
-
-prasidėjo arba turėjo prasidėti vežimas;
-
-5)
-
-visais kitais atvejais - nuo įvykio, kuris buvo pagrindas pretenzijai
-
-pareikšti, dienos.
-
-2.
-
-Vežėjas turi teisę priimti pretenziją nagrinėti pasibaigus jos pareiškimo
-
-terminams, jeigu jis pripažįsta, kad pretenzijos pareiškimo terminai praleisti
-
-dėl svarbių priežasčių.
-
-73
-
-straipsnis. Terminai pretenzijoms, pareikštoms dėl vežimo kabotažu, išnagrinėti
-
-Vežėjas
-
-pareikštą pretenziją, kylančią iš vežimo kabotažu, privalo išnagrinėti ir
-
-pranešti pareiškėjui apie jos patenkinimą arba atmetimą šiais terminais nuo
-
-pretenzijos gavimo dienos:
-
-1)
-
-per 3 mėnesius, kai pretenzija yra kilusi dėl vežimo jūra;
-
-2)
-
-per 45 dienas, kai pretenzija yra kilusi dėl dispačo ar demeredžo mokėjimo arba
-
-baudų mokėjimo už laivo nepateikimą ar pavėluotą jo pateikimą.
-
-74
-
-straipsnis. Terminai ieškiniams pareikšti dėl vežimo kabotažu
-
-1.
-
-Ieškinius, kylančius iš vežimo kabotažu, galima pareikšti per 6 mėnesius nuo
-
-dienos, kai atsirado pagrindas pareikšti ieškinį.
-
-2.
-
-Jeigu pretenzija, kylanti iš krovinių ar bagažo vežimo kabotažu, atmetama arba
-
-atsakymo negaunama per šio įstatymo 73 straipsnyje nustatytus terminus,
-
-pareiškėjas gali pareikšti ieškinį per 2 mėnesius nuo dienos, kurią gautas
-
-atsakymas arba pasibaigė nustatytas atsakyti terminas.
-
-75
-
-straipsnis. Terminai pretenzijoms ir ieškiniams pareikšti dėl vežimo
-
-tarptautinio susisiekimo reisu
-
-1.
-
-Reikalavimams, kylantiems iš krovinių ar bagažo, keleivių vežimo tarptautinio
-
-susisiekimo reisu, taikomi ieškininės senaties terminai, nustatyti šio
-
-straipsnio 5 ir 6 dalyse.
-
-2.
-
-Pretenzijos vežėjui dėl 1 dalyje nurodytų vežimų pateikiamos per pirmuosius 3
-
-ieškininės senaties termino mėnesius.
-
-3.
-
-Pretenzijos dėl dispačo ar demeredžo išmokėjimo pareiškiamos per pirmąsias 45
-
-ieškininės senaties termino dienas.
-
-4.
-
-Vežėjas pareikštą pretenziją, kylančią iš vežimo tarptautinio susisiekimo
-
-reisu, privalo išnagrinėti per 3 mėnesius nuo pretenzijos gavimo dienos ir
-
-pranešti pareiškėjui apie jos patenkinimą arba atmetimą.
-
-5.
-
-Šioje dalyje nurodytiems reikalavimams taikomas 6 mėnesių ieškininės senaties
-
-terminas. Šis       terminas skaičiuojamas:
-
-1)
-
-reikalavimams, kylantiems iš krovinių ar bagažo vežimo jūra tarptautinio
-
-susisiekimo reisu, taip pat reikalavimams dėl dispačo arba demeredžo sumokėjimo
-
-- nuo krovinių ar bagažo išdavimo dienos, o jeigu kroviniai ar bagažas nebuvo
-
-išduoti, - nuo tos dienos, kurią jie turėjo būti išduoti;
-
-2)
-
-reikalavimams, kylantiems iš laivo frachtavimo tam tikram laikui, laivo
-
-išperkamosios nuomos ir buksyravimo jūra sutarčių, iš laivo kapitono sudarytų
-
-sandorių bei naudojimosi locmanų paslaugomis, - nuo tos dienos, kai atsirado
-
-teisė į ieškinį.
-
-6. Šioje dalyje nurodytiems reikalavimams taikomas 2
-
-metų ieškininės senaties terminas. Šis terminas skaičiuojamas:
-
-1) reikalavimams, kylantiems iš keleivių vežimo
-
-tarptautinio susisiekimo reisu sutarties: dėl keleivių vežimo – nuo tos dienos,
-
-kai keleivis išlipo ar turėjo išlipti iš laivo, o jeigu reikalaujama atlyginti
-
-žalą dėl keleivio sveikatos sužalojimo ar gyvybės atėmimo, – nuo keleivio
-
-sužalojimo ar mirties dienos, bet ne ilgiau kaip po 3 metų nuo dienos, kai
-
-keleivis paliko laivą;
-
-2) reikalavimams dėl nuostolių, padarytų susidūrus
-
-laivams, atlyginimo – nuo laivų susidūrimo dienos;
-
-3) reikalavimams dėl atlyginimo už turto gelbėjimo
-
-operacijas – nuo gelbėjimo operacijų užbaigimo dienos.
-
-7. (Neteko galios nuo 2000 m. spalio 1 d.)
-
-8.
-
-Reikalavimams, kuriems ieškininės senaties terminai šiame įstatyme nenumatyti,
-
-taikomi bendrieji ieškininės senaties terminai, nustatyti Lietuvos Respublikos
-
-civiliniame kodekse.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1899, 00.08.29, Žin., 2000,
-
-Nr.75-2266 (00.09.07), įsigalioja nuo 2000.10.01
-
-Nr. VIII-1963, 00.09.26, Žin., 2000,
-
-Nr.85-2584 (00.10.11)
-
-76
-
-straipsnis. Ieškininės senaties terminų sustabdymas, nutraukimas ir
-
-atnaujinimas
-
-1.
-
-Ieškininės senaties terminams, numatytiems šiame įstatyme, taikomos ieškininės
-
-senaties termino eigos sustabdymo, nutraukimo ar atnaujinimo taisyklės,
-
-nustatytos Lietuvos Respublikos civiliniame kodekse.
-
-2.
-
-Jeigu ieškinio sumos apskaičiavimas priklauso nuo dispašos surašymo, ieškininės
-
-senaties termino eiga sustabdoma nuo dienos, kurią dispašeris priima nutarimą
-
-dėl bendrosios avarijos fakto, iki dienos, kai dispašą gauna suinteresuotas
-
-asmuo.
-
-77
-
-straipsnis. Papildoma kompensacija
-
-1.
-
-Patenkindamas reikalavimus, kylančius iš šiame įstatyme numatytų turtinių
-
-santykių, teismas gali priteisti papildomą kompensaciją iki 12 procentų nuo
-
-priteistos sumos.
-
-2.
-
-Šio straipsnio taisyklės netaikomos reikalavimams sumokėti dispačą ar
-
-demeredžą, taip pat atlyginti nuostolius, atlyginamus bendrosios avarijos
-
-dalijimo tvarka.
-
-Keturioliktojo skirsnio
-
-pakeitimai:
-
-Nr. VIII-750, 98.05.19, Žin., 1998, Nr.53-1448 (98.06.10)
-
-KETURIOLIKTASIS SKIRSNIS
-
-LAIVO HIPOTEKA
-
-Skirsnio pavadinimas keistas:
-
-Nr. IX-595,
-
-2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
 
 57 straipsnis. Nuostolių dėl laivų
 
@@ -6384,129 +6138,285 @@ vežimo  jūra sutarties, pareiškimo ir nagrinėjimo tvarką nustato Keleivių
 
 bagažo vežimo jūra taisyklės.
 
-71 straipsnis. Teisė pareikšti
+71 straipsnis netenka galios
 
-pretenzijas ir ieškinius
+nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su
 
-1. Teisę pareikšti pretenzijas ir
+konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš
 
-ieškinius turi:
+dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų,
 
-1) krovinių siuntėjas - kai nepateiktas
+susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo
 
-laivas arba jis pateiktas pavėluotai;
+(protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d.
 
-2)  krovinių  siuntėjas  arba
+tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais,
 
-gavėjas,  pateikdamas konosamentą, - kai už vežimą paimtas per didelis
+suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d.
 
-užmokestis;
+protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai.
 
-3)  krovinių  gavėjas  arba
+Straipsnio pakeitimai:
 
-siuntėjas,  pateikdamas konosamentą, aktą arba kitą dokumentą, surašytą pagal
+Nr. IX-1680,
 
-krovinių gavėjo ar siuntėjo uoste galiojančias taisykles, -  kai krovinių
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
-trūksta arba jie sužaloti;
+72
 
-4) krovinių gavėjas, pateikdamas
+straipsnis. Terminai pretenzijoms pareikšti dėl vežimo kabotažu
 
-konosamentą, - kai kroviniai pavėluotai atvežti arba uždelsta juos išduoti;
+1.
 
-5) bagažo kvito pateikėjas - kai
+Pretenzijos, kylančios iš krovinių ar bagažo vežimo kabotažu, gali būti
 
-trūksta arba pavėluotai atgabentas bagažas;
+pareiškiamos per 6 mėnesius, o pretenzijos dėl dispačo ar demeredžo mokėjimo -
 
-6) akto pateikėjas - jeigu bagažas
+per 45 dienas. Nurodyti terminai skaičiuojami:
 
-sužalotas.
+1)
 
-2. Akto nebuvimas neatima teisės
+pretenzijoms atlyginti žalą dėl krovinių ar bagažo praradimo - praėjus 30 dienų
 
-pareikšti pretenziją, jei  įrodoma, kad buvo atsisakyta surašyti aktą ir šis
+nuo tos dienos, kurią kroviniai ar bagažas turėjo būti išduoti;
 
-atsisakymas buvo apskųstas.
+2)
 
-3. Kitiems asmenims perduoti teisę
+pretenzijoms atlyginti žalą dėl krovinių ar bagažo trūkumo arba sužalojimo,
 
-pareikšti pretenzijas ir ieškinius neleidžiama, išskyrus atvejus, kai tokią
+pretenzijoms dėl pavėlavimo vežti arba uždelsimo išduoti krovinius ar bagažą,
 
-teisę krovinių siuntėjas perduoda krovinių gavėjui arba atvirkščiai, taip pat,
+pretenzijoms dėl per didelio užmokesčio už vežimą grąžinimo - nuo krovinių ar
 
-kai krovinių gavėjas arba krovinių siuntėjas tą teisę perduoda ekspedicinei,
+bagažo išdavimo dienos;
 
-draudimo ar kitai organizacijai. Teisės pareikšti   pretenziją  ir  ieškinį      perdavimas
+3)
 
-patvirtinamas atitinkamu įrašu konosamente.
+pretenzijoms dėl supiltinai, suverstinai arba subertinai vežamų masinių
 
-72 straipsnis. Terminai pretenzijoms
+krovinių trūkumų - nuo akto pasirašymo dienos;
 
-pareikšti dėl vežimo kabotažu
+4)
 
-1. Pretenzijos, kylančios iš krovinių
+pretenzijoms dėl baudų sumokėjimo už laivo nepateikimą ar pavėluotą jo
 
-ar bagažo vežimo kabotažu, gali būti pareiškiamos per 6 mėnesius, o pretenzijos
+pateikimą, taip pat dėl dispačo sumokėjimo - praėjus mėnesiui po to, kai
 
-dėl dispačo ar demeredžo mokėjimo - per 45 dienas. Nurodyti terminai
+prasidėjo arba turėjo prasidėti vežimas;
 
-skaičiuojami:
+5)
 
-1) pretenzijoms atlyginti žalą dėl
+visais kitais atvejais - nuo įvykio, kuris buvo pagrindas pretenzijai
 
-krovinių ar bagažo praradimo - praėjus 30 dienų nuo tos dienos, kurią kroviniai
+pareikšti, dienos.
 
-ar bagažas turėjo būti išduoti;
+2.
 
-2) pretenzijoms atlyginti žalą dėl
+Vežėjas turi teisę priimti pretenziją nagrinėti pasibaigus jos pareiškimo terminams,
 
-krovinių ar bagažo trūkumo arba sužalojimo, pretenzijoms dėl pavėlavimo vežti
+jeigu jis pripažįsta, kad pretenzijos pareiškimo terminai praleisti dėl svarbių
 
-arba uždelsimo išduoti krovinius ar bagažą, pretenzijoms dėl per didelio
+priežasčių.
 
-užmokesčio už vežimą grąžinimo - nuo krovinių ar bagažo išdavimo dienos;
+72 straipsnis netenka galios
 
-3)  pretenzijoms  dėl supiltinai,
+nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su
 
-suverstinai  arba subertinai vežamų masinių krovinių trūkumų -  nuo  akto
+konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš
 
-pasirašymo dienos;
+dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų,
 
-4) pretenzijoms dėl baudų sumokėjimo už
+susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo
 
-laivo nepateikimą ar pavėluotą jo pateikimą, taip pat dėl dispačo sumokėjimo -
+(protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d.
 
-praėjus mėnesiui po to, kai prasidėjo arba turėjo prasidėti vežimas;
+tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais,
 
-5) visais kitais atvejais - nuo įvykio,
+suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d.
 
-kuris buvo pagrindas pretenzijai pareikšti, dienos.
+protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai.
 
-2.  Vežėjas turi teisę priimti
+Straipsnio pakeitimai:
 
-pretenziją nagrinėti pasibaigus jos pareiškimo terminams, jeigu jis pripažįsta,
+Nr. IX-1680,
 
-kad pretenzijos  pareiškimo terminai  praleisti  dėl  svarbių priežasčių.
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
-74 straipsnis. Terminai ieškiniams pareikšti
+73
 
-dėl vežimo kabotažu
+straipsnis. Terminai pretenzijoms, pareikštoms dėl vežimo kabotažu, išnagrinėti
 
-1.  Ieškinius, kylančius iš vežimo
+Vežėjas
 
-kabotažu, galima pareikšti per 6 mėnesius nuo dienos, kai atsirado pagrindas
+pareikštą pretenziją, kylančią iš vežimo kabotažu, privalo išnagrinėti ir
 
-pareikšti ieškinį.
+pranešti pareiškėjui apie jos patenkinimą arba atmetimą šiais terminais nuo
 
-2. Jeigu pretenzija, kylanti iš
+pretenzijos gavimo dienos:
 
-krovinių ar bagažo vežimo kabotažu, atmetama arba atsakymo negaunama per šio
+1)
 
-įstatymo 73 straipsnyje nustatytus terminus, pareiškėjas gali pareikšti ieškinį
+per 3 mėnesius, kai pretenzija yra kilusi dėl vežimo jūra;
 
-per 2 mėnesius nuo dienos, kurią gautas atsakymas arba pasibaigė nustatytas
+2)
 
-atsakyti terminas.
+per 45 dienas, kai pretenzija yra kilusi dėl dispačo ar demeredžo mokėjimo arba
+
+baudų mokėjimo už laivo nepateikimą ar pavėluotą jo pateikimą.
+
+74 straipsnis netenka galios
+
+nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš
+
+dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų,
+
+susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo
+
+(protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d.
+
+tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d.
+
+protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
+
+75 straipsnio redakcija iki
+
+1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies
+
+pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl
+
+SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl
+
+kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
+
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu
+
+taisyklės), įsigaliojimo Lietuvos Respublikai:
+
+75
+
+straipsnis. Terminai pretenzijoms ir ieškiniams pareikšti dėl vežimo
+
+tarptautinio susisiekimo reisu
+
+1.
+
+Reikalavimams, kylantiems iš krovinių ar bagažo, keleivių vežimo tarptautinio
+
+susisiekimo reisu, taikomi ieškininės senaties terminai, nustatyti šio
+
+straipsnio 5 ir 6 dalyse.
+
+2.
+
+Pretenzijos vežėjui dėl 1 dalyje nurodytų vežimų pateikiamos per pirmuosius 3
+
+ieškininės senaties termino mėnesius.
+
+3.
+
+Pretenzijos dėl dispačo ar demeredžo išmokėjimo pareiškiamos per pirmąsias 45
+
+ieškininės senaties termino dienas.
+
+4.
+
+Vežėjas pareikštą pretenziją, kylančią iš vežimo tarptautinio susisiekimo
+
+reisu, privalo išnagrinėti per 3 mėnesius nuo pretenzijos gavimo dienos ir
+
+pranešti pareiškėjui apie jos patenkinimą arba atmetimą.
+
+5.
+
+Šioje dalyje nurodytiems reikalavimams taikomas 6 mėnesių ieškininės senaties
+
+terminas. Šis       terminas skaičiuojamas:
+
+1)
+
+reikalavimams, kylantiems iš krovinių ar bagažo vežimo jūra tarptautinio
+
+susisiekimo reisu, taip pat reikalavimams dėl dispačo arba demeredžo sumokėjimo
+
+- nuo krovinių ar bagažo išdavimo dienos, o jeigu kroviniai ar bagažas nebuvo
+
+išduoti, - nuo tos dienos, kurią jie turėjo būti išduoti;
+
+2)
+
+reikalavimams, kylantiems iš laivo frachtavimo tam tikram laikui, laivo
+
+išperkamosios nuomos ir buksyravimo jūra sutarčių, iš laivo kapitono sudarytų
+
+sandorių bei naudojimosi locmanų paslaugomis, - nuo tos dienos, kai atsirado
+
+teisė į ieškinį.
+
+6. Šioje dalyje nurodytiems reikalavimams taikomas 2
+
+metų ieškininės senaties terminas. Šis terminas skaičiuojamas:
+
+1) reikalavimams, kylantiems iš keleivių vežimo
+
+tarptautinio susisiekimo reisu sutarties: dėl keleivių vežimo – nuo tos dienos,
+
+kai keleivis išlipo ar turėjo išlipti iš laivo, o jeigu reikalaujama atlyginti
+
+žalą dėl keleivio sveikatos sužalojimo ar gyvybės atėmimo, – nuo keleivio
+
+sužalojimo ar mirties dienos, bet ne ilgiau kaip po 3 metų nuo dienos, kai
+
+keleivis paliko laivą;
+
+2) reikalavimams dėl nuostolių, padarytų susidūrus
+
+laivams, atlyginimo – nuo laivų susidūrimo dienos;
+
+3) reikalavimams dėl atlyginimo už turto gelbėjimo
+
+operacijas – nuo gelbėjimo operacijų užbaigimo dienos.
+
+7. (Neteko galios nuo 2000 m. spalio 1 d.)
+
+8.
+
+Reikalavimams, kuriems ieškininės senaties terminai šiame įstatyme nenumatyti,
+
+taikomi bendrieji ieškininės senaties terminai, nustatyti Lietuvos Respublikos
+
+civiliniame kodekse.
+
+75 straipsnio redakcija nuo
+
+1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies
+
+pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl
+
+SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl
+
+kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
+
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu
+
+taisyklės), įsigaliojimo Lietuvos Respublikai:
 
 76 straipsnis. Ieškininės senaties
 
@@ -6722,53 +6632,47 @@ kurie Sveikatos apsaugos ministerijos nustatyta tvarka pripažinti tam tinkami
 
 pagal sveikatos būklę.
 
-85
+84 straipsnis. Darbo sutarties su
 
-straipsnis. Tinkamų darbo ir poilsio sąlygų laive sudarymas
+jūrininku sudarymas
 
-1.
+1. Darbo sutartis su jūrininku sudaroma
 
-Laivo valdytojas privalo pasirūpinti, kad jūrininkams laive būtų sudarytos
+raštu Lietuvos Respublikos įstatymų nustatyta tvarka. Vienas darbo sutarties
 
-tinkamos darbo ir poilsio sąlygos.
+egzempliorius  įteikiamas jūrininkui, kitas  lieka  laivo valdytojui.
 
-2.
+Sutarties kopija įteikiama laivo  kapitonui. Kiekvienam  jūrininkui Susisiekimo
 
-Laivo kapitonas rūpinasi, kad jūrininkams būtų skiriama maisto ir geriamojo
+ministerijos  nustatyta tvarka išduodama jūrininko knygelė.
 
-vandens pagal Sveikatos apsaugos ministerijos nustatytą paros racioną ir
+2. Laivo valdytojas gali suteikti teisę
 
-normas. Jei laivo kapitonas sumažina maisto kiekį laivo reiso metu, jūrininkai
+laivo kapitonui laivo  valdytojo  vardu  pasirašyti  darbo  sutartis  su
 
-turi teisę reikalauti piniginės kompensacijos už maisto normų sumažinimą.
+jūrininkais.
 
-86
+3. Asmenys iki 16 metų dirbti laive
 
-straipsnis. Jūrininkų teisės ir pareigos laive
+nepriimami. Dirbti laive      leidžiama  asmenims,  kurie  Sveikatos  apsaugos
 
-1.
+ministerijos nustatyta tvarka pripažinti tam tinkami pagal sveikatos būklę.
 
-Jūrininkų teisės ir pareigos laive numatomos šiame įstatyme, kituose Lietuvos
+86 straipsnis. Jūrininkų teisės ir pareigos jūrininkų
 
-Respublikos teisės aktuose, Susisiekimo ministerijos patvirtintame Tarnybos
+reiso metu
 
-Lietuvos Respublikos jūrų laivuose statute, darbo sutartyje bei pareiginėse
+1. Jūrininkų teisės ir pareigos jūrininkų reiso metu
 
-instrukcijose.
+numatomos šiame įstatyme, kituose Lietuvos Respublikos teisės aktuose,
 
-2.
+Susisiekimo ministerijos patvirtintame Tarnybos Lietuvos Respublikos jūrų
 
-Jūrininkas turi teisę į poilsį ir miegą. Poilsio laikas per parą turi būti ne
+laivuose statute, darbo sutartyje bei pareiginėse instrukcijose.
 
-trumpesnis kaip 10 valandų, kurias galima padalyti į du ne trumpesnius kaip 5
+2. Jūrininkas turi teisę į darbą ir į poilsį. Darbo
 
-valandų periodus. Laikas tarp dviejų iš eilės einančių poilsio periodų negali
-
-viršyti 14 valandų. Šios taisyklės gali būti nesilaikoma įplaukiant į uostą
-
-arba išplaukiant iš jo, jei laivo kapitonas nusprendžia, kad tai leistina
-
-saugios laivybos tikslu.
+laiko ir poilsio laiko ypatumus jūrų transporte nustato Vyriausybė.
 
 3.
 
@@ -6849,6 +6753,12 @@ Jeigu jūrininkui priklausantis turtas laive buvo sugadintas arba dingo dėl
 apiplėšimo, gaisro ar kitų laivui padarytų nuostolių, laivo valdytojas privalo
 
 išmokėti jūrininkui piniginę kompensaciją.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 87
 
@@ -6942,6 +6852,48 @@ RESPUBLIKOS PREZIDENTAS
 
 ALGIRDAS BRAZAUSKAS
 
+Lietuvos Respublikos
+
+1996
+
+m. rugsėjo 12 d.
+
+įstatymo
+
+Nr. I-1513
+
+priedas
+
+Įgyvendinami Europos Sąjungos teisės aktai
+
+1.
+
+1986 m. gruodžio 22 d. Tarybos reglamentas EEB Nr. 4055/86 dėl laisvės teikti
+
+paslaugas principo taikymo jūrų transporto paslaugoms tarp valstybių narių bei
+
+valstybių narių ir trečiųjų šalių.
+
+2.
+
+1992 m. gruodžio 7 d. Tarybos reglamentas EEB Nr. 3577/92, taikantis laisvės
+
+teikti paslaugas jūrų transportui valstybėse narėse principą (jūrų kabotažas).
+
+3.
+
+1999 m. liepos 21 d. Tarybos direktyva Nr. 1999/63/EB dėl susitarimo dėl
+
+jūrininkų darbo laiko, sudaryto tarp Europos Bendrijų laivų savininkų
+
+asociacijos (ECSA) ir Transporto darbuotojų sąjungų federacijos.
+
+Įstatymas papildytas priedu:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
+
 ______________
 
 Pakeitimai:
@@ -6962,7 +6914,9 @@ LAIVYBOS ĮSTATYMO KETURIOLIKTOJO SKIRSNIO PAKEITIMO ĮSTATYMAS
 
 2.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. VIII-1255,
 
@@ -7060,141 +7014,29 @@ Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y. nuo
 
 2003 m. gegužės 1 d.
 
-***
+6.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo:
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2003-05-15)
+Nr.
 
-autrap@lrs.lt
+IX-1680,
 
-84 straipsnis. Darbo sutarties su
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
-jūrininku sudarymas
+PREKYBINĖS
 
-1. Darbo sutartis su jūrininku sudaroma
+LAIVYBOS ĮSTATYMO 1, 2, 3, 4, 8, 11, 14, 15, 21, 27, 70, 75, 85, 86 STRAIPSNIŲ
 
-raštu Lietuvos Respublikos įstatymų nustatyta tvarka. Vienas darbo sutarties
+PAKEITIMO IR PAPILDYMO, 16, 17, 18, 19, 28, 30, 69, 71, 72, 73, 74, 77
 
-egzempliorius  įteikiamas jūrininkui, kitas  lieka  laivo valdytojui.
+STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, ŠEŠTOJO IR DEVINTOJO SKIRSNIŲ
 
-Sutarties kopija įteikiama laivo  kapitonui. Kiekvienam  jūrininkui Susisiekimo
+PAVADINIMŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 40(1) IR 57(1) STRAIPSNIAIS BEI
 
-ministerijos  nustatyta tvarka išduodama jūrininko knygelė.
-
-2. Laivo valdytojas gali suteikti teisę
-
-laivo kapitonui laivo  valdytojo  vardu  pasirašyti  darbo  sutartis  su
-
-jūrininkais.
-
-3. Asmenys iki 16 metų dirbti laive
-
-nepriimami. Dirbti laive      leidžiama  asmenims,  kurie  Sveikatos  apsaugos
-
-ministerijos nustatyta tvarka pripažinti tam tinkami pagal sveikatos būklę.
-
-86 straipsnis. Jūrininkų teisės ir
-
-pareigos laive
-
-1. Jūrininkų teisės ir pareigos laive
-
-numatomos šiame įstatyme,  kituose Lietuvos Respublikos  teisės  aktuose,
-
-Susisiekimo  ministerijos patvirtintame Tarnybos  Lietuvos Respublikos  jūrų
-
-laivuose statute, darbo sutartyje  bei pareiginėse instrukcijose.
-
-2. Jūrininkas turi teisę į poilsį ir
-
-miegą. Poilsio laikas per parą turi būti ne trumpesnis kaip 10 valandų, kurias
-
-galima padalyti į du ne trumpesnius kaip 5 valandų periodus. Laikas tarp dviejų
-
-iš eilės einančių poilsio periodų negali  viršyti  14 valandų. Šios taisyklės
-
-gali  būti nesilaikoma įplaukiant į uostą arba išplaukiant iš jo, jei laivo
-
-kapitonas nusprendžia, kad tai leistina saugios laivybos tikslu.
-
-3. Laivui stovint uoste ar kitoje
-
-saugioje vietoje (nuleidus inkarą), laisvu laiku jūrininkas turi teisę išlipti
-
-į krantą, jei jis neprivalo likti laive dėl laivo, krovinio ar esančių laive
-
-asmenų saugumo artėjant laivo išplaukimui ar keičiant laivo stovėjimo vietą.
-
-Laivo kapitonas jūrininkams gali organizuoti nemokamą susisiekimą valtimi su
-
-krantu, jei tai įmanoma padaryti, atsižvelgdamas į išlaidas bei kitas su tuo
-
-susijusias aplinkybes.
-
-4. Savo asmeniniam naudojimui
-
-jūrininkas gali į laivą atsinešti tiek daiktų, kiek tai neapsunkins laivo ir
-
-netaps galimos netvarkos laive priežastimi. Be laivo kapitono leidimo
-
-jūrininkas negali atsinešti į laivą prekių. Neleidžiama į laivą atsinešti
-
-radioaktyvių, nuodingųjų, stipriai veikiančių ar narkotinių medžiagų. Be laivo
-
-kapitono leidimo neleidžiama į laivą atsinešti ginklų ar šaudmenų.
-
-5. Jei kapitonas įtaria, kad į laivą
-
-buvo neteisėtai atsinešta daiktų, jis gali organizuoti jūrininko ar kitų laivo
-
-patalpų  apžiūrą.  Suinteresuotas jūrininkas  turi  teisę dalyvauti apžiūroje.
-
-6. Visus neteisėtai į laivą atsineštus
-
-daiktus laivo kapitonas gali areštuoti, liepti iškrauti į krantą arba, jei tai
-
-būtina, sunaikinti.
-
-7. Jei dėl laivo avarijos žūva arba
-
-sužalojamas jūrininko teisėtai į laivą atsineštas turtas, laivo valdytojas
-
-privalo atlyginti jūrininkui padarytą žalą, vadovaudamasis tos pačios rūšies ir
-
-kokybės turto kainomis, atsižvelgdamas į žuvusio arba sužaloto turto
-
-nusidėvėjimą. Jūrininkams, kaltiems dėl laivo avarijos, turto vertė
-
-neatlyginama.
-
-8. Atleisto iš darbo jūrininko laive
-
-paliktas turtas saugomas jūrininko lėšomis. Laivo kapitonas kaip  galima
-
-greičiau privalo organizuoti turto aprašymą. Turto aprašymo teisingumą parašais
-
-patvirtina du liudytojai.
-
-9. Jeigu jūrininko turto negalima
-
-tinkamai saugoti dėl jo savybių, didelių saugojimo išlaidų ar kitų aplinkybių,
-
-jis gali būti parduotas arba sunaikintas. Turtą galima parduoti arba sunaikinti
-
-ir tada, jei jūrininkas per 12 mėnesių nesikreipė į laivo valdytoją dėl jam
-
-priklausančio turto atgavimo.
-
-10. Jeigu jūrininkui priklausantis
-
-turtas laive buvo sugadintas arba dingo dėl apiplėšimo, gaisro ar kitų laivui
-
-padarytų  nuostolių,  laivo valdytojas  privalo  išmokėti jūrininkui piniginę
-
-kompensaciją.
+ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
 
 87 straipsnis. Tvarkos laive palaikymas
 
@@ -7414,59 +7256,109 @@ KETVIRTASIS SKIRSNIS
 
 KROVINIŲ VEŽIMO JŪRA SUTARTIS
 
-19 straipsnis. Krovinių ženklinimas,
+19 straipsnis netenka galios
 
-informacijos apie pavojingus
+nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su
 
-krovinius
+konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš
 
-pateikimas
+dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų,
 
-1. Krovinių siuntėjas privalo ženklinti
+susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo
 
-krovinius ir pateikti vežėjui būtiną informaciją apie krovinius.
+(protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d.
 
-2. Krovinių siuntėjas, perduodamas
+tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais,
 
-pavojingus krovinius vežėjui,  privalo raštu informuoti vežėją apie  krovinių
+suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d.
 
-pavojingumą ir apie saugos priemones, kurių būtina imtis vežant krovinius.
+protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai.
 
-3. Jeigu krovinių siuntėjas raštu
+Straipsnio pakeitimai:
 
-neinformuoja vežėjo apie krovinių pavojingumą, tai:
+Nr. IX-1680,
 
-1)  krovinių  siuntėjas atlygina
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
-vežėjui nuostolius, atsiradusius dėl pavojingų krovinių;
+20
 
-2) kroviniai, jeigu to reikalauja
+straipsnis. Krovinių įpakavimas
 
-aplinkybės, bet kada gali  būti  iškrauti iš laivo, sunaikinti  arba  kitaip
+Kroviniai,
 
-nukenksminti, o krovinių siuntėjui kompensacija už sunaikintus ar nukenksmintus
+kuriems reikalingas įpakavimas, apsaugantis juos, vežėjui pateikiami
 
-krovinius neišmokama. Frachtas už tokių krovinių vežimą negrąžinamas, o jeigu
+tvarkingoje taroje ir įpakuoti pagal tarptautinius standartus, technines
 
-jis nebuvo sumokėtas, vežėjas turi teisę jį išieškoti.
+sąlygas ar sąlygas, kurios yra numatytos krovinių vežimo jūra sutartyje.
 
-4. Jeigu vežėjas priėmė krovinius
+21 straipsnio redakcija iki
 
-žinodamas apie jų pavojingumą  ir jie sukėlė grėsmę laivui  arba  kitiems
+1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais,
 
-kroviniams, vežėjas turi teisę pavojingus krovinius iškrauti iš laivo,
+suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies
 
-sunaikinti ar kitaip nukenksminti ir šių krovinių siuntėjui kompensacijos už
+pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
 
-sunaikintus ar kitaip nukenksmintus pavojingus krovinius neišmokėti. Pavojingų
+konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl
 
-krovinių siuntėjas šiuo atveju neatlygina vežėjui nuostolių, atsiradusių dėl
+SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl
 
-pavojingų krovinių, išskyrus bendrąją avariją. Vežėjas turi teisę į frachtą,
+kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
 
-kurio dydis yra proporcingas laivo su pavojingais kroviniais nuplauktam
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu
 
-atstumui.
+taisyklės), įsigaliojimo Lietuvos Respublikai:
+
+21
+
+straipsnis. Laivo pateikimas kroviniams vežti
+
+1.
+
+Prieš pateikdamas laivą kroviniams pakrauti, taip pat veždamas krovinius,
+
+vežėjas privalo pasirūpinti, kad:
+
+1)
+
+laivas būtų tinkamas plaukioti;
+
+2)
+
+laivas būtų tinkamai aprūpintas ir sukomplektuota laivo įgula;
+
+3)
+
+laivo triumai, refrižeratorių, šaldytuvų bei kitos laivo patalpos, kuriose
+
+vežami kroviniai, būtų pritaikyti kroviniams priimti, vežti ir saugoti.
+
+2.
+
+Jeigu kroviniai turi būti vežami tam tikru laivu, jie gali būti pakrauti į kitą
+
+laivą tik krovinių siuntėjui sutikus, išskyrus krovinių perkrovimą dėl
+
+techninio būtinumo, atsiradusio pradėjus krovimo darbus.
+
+21 straipsnio redakcija nuo
+
+1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais,
+
+suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies
+
+pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+
+konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl
+
+SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl
+
+kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
+
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu
+
+taisyklės), įsigaliojimo Lietuvos Respublikai:
 
 35 straipsnis. Vežėjo atsakomybė už
 
@@ -8374,187 +8266,381 @@ DVYLIKTASIS SKIRSNIS
 
 JŪRINIAI PROTESTAI
 
-69 straipsnis. Aplinkybių, kurios gali
+69 straipsnis netenka galios
 
-būti vežėjo, krovinių
+nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su
 
-siuntėjų, krovinių gavėjų
+konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš
 
-ir keleivių atsakomybės
+dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių
 
-pagrindų, patvirtinimas
+su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl
 
-1.  Aplinkybės,  kurios gali būti
+SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl
 
-vežėjo,  krovinių siuntėjų, krovinių gavėjų ir keleivių atsakomybės pagrindu,
+kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
 
-patvirtinamos aktais arba kitais įrodymais. Užsienio valstybių uostuose šios
+taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu
 
-aplinkybės patvirtinamos pagal tose valstybėse galiojančias normas.
+taisyklės), įsigaliojimo Lietuvos Respublikai.
 
-2. Aktas surašomas, kad būtų
+Straipsnio pakeitimai:
 
-patvirtinta:
+Nr. IX-1680,
 
-1) krovinių ar bagažo pavadinimo,
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
-svorio arba krovinių vietų  skaičiaus ir duomenų, nurodytų vežimo  dokumente,
+70
 
-faktiškas neatitikimas;
+straipsnis. Pretenzijos
 
-2) krovinių ar bagažo sužalojimas;
+1.
 
-3) krovinių ar bagažo radimas be
+Prieš pareiškiant ieškinį, kylantį iš vežimo jūra sutarčių, privaloma pareikšti
 
-dokumentų, taip pat dokumentų radimas be krovinių ar bagažo;
+pretenziją.
 
-4) prarastų krovinių ar bagažo
+2.
 
-grąžinimas vežėjui.
+Pretenzijos gali būti pareiškiamos vežėjui, kuris vežė, o jeigu nebuvo vežta, -
 
-3. Aktų formas, jų surašymo ir atsisakymo
+vežėjui, kuris pagal sudarytą vežimo jūra sutartį turėjo vežti.
 
-surašyti, taip pat aktų apskundimo tvarką nustato Susisiekimo ministerija.
+3.
 
-73 straipsnis. Terminai pretenzijoms,
+Pretenzijos, kylančios dėl bagažo vežimo, gali būti pareikštos vežėjui arba
 
-pareikštoms dėl vežimo
+siuntimo ar paskirties uostui pretenzijos pareiškėjo nuožiūra.
 
-kabotažu, išnagrinėti
+70 straipsnio 2 ir 3 dalys
 
-Vežėjas  pareikštą  pretenziją,
+netenka galios nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių
 
-kylančią  iš  vežimo kabotažu, privalo išnagrinėti ir pranešti pareiškėjui apie
+su konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo,
 
-jos patenkinimą arba atmetimą šiais terminais nuo pretenzijos gavimo dienos:
+iš dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų,
 
-1) per 3 mėnesius, kai pretenzija yra
+susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo
 
-kilusi dėl vežimo jūra;
+(protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d.
 
-2) per 45 dienas, kai pretenzija yra
+tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais,
 
-kilusi dėl dispačo ar demeredžo mokėjimo arba baudų mokėjimo už laivo
+suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d.
 
-nepateikimą ar pavėluotą jo pateikimą.
+protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai.
 
-75  straipsnis. Terminai pretenzijoms
+4.
 
-ir  ieškiniams pareikšti dėl
+Pretenzija turi būti pareiškiama raštu. Prie pretenzijos pareiškimo turi būti
 
-vežimo tarptautinio
+pridedami ją patvirtinantys dokumentai. Prie pretenzijos dėl krovinių
 
-susisiekimo reisu
+praradimo, trūkumo arba sužalojimo, be dokumentų, patvirtinančių teisę
 
-1. Reikalavimams, kylantiems iš
+pareikšti pretenziją, turi būti pridedamas dokumentas, patvirtinantis vežėjui
 
-krovinių ar bagažo, keleivių  vežimo tarptautinio susisiekimo reisu,  taikomi
+pristatytų vežtinų krovinių kiekį ir vertę.
 
-ieškininės senaties terminai, nustatyti šio straipsnio 5 ir 6 dalyse.
+5.
 
-2. Pretenzijos vežėjui dėl 1 dalyje
+Pretenzijų, kylančių iš keleivių vežimo jūra sutarties, pareiškimo ir
 
-nurodytų vežimų pateikiamos per pirmuosius 3 ieškininės senaties termino
+nagrinėjimo tvarką nustato Keleivių ir bagažo vežimo jūra taisyklės.
 
-mėnesius.
+Straipsnio pakeitimai:
 
-3.  Pretenzijos dėl dispačo ar
+Nr. IX-1680,
 
-demeredžo išmokėjimo pareiškiamos per pirmąsias 45 ieškininės senaties termino
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
-dienas.
+71
 
-4. Vežėjas pareikštą pretenziją, kylančią
+straipsnis. Teisė pareikšti pretenzijas ir ieškinius
 
-iš vežimo tarptautinio susisiekimo reisu, privalo išnagrinėti per 3 mėnesius
+1.
 
-nuo pretenzijos gavimo dienos ir pranešti pareiškėjui apie jos patenkinimą arba
+Teisę pareikšti pretenzijas ir ieškinius turi:
 
-atmetimą.
+1)
 
-5. Šioje dalyje nurodytiems
+krovinių siuntėjas - kai nepateiktas laivas arba jis pateiktas pavėluotai;
 
-reikalavimams taikomas 6 mėnesių      ieškininės  senaties  terminas.  Šis    terminas
+2)
 
-skaičiuojamas:
+krovinių siuntėjas arba gavėjas, pateikdamas konosamentą, - kai už vežimą
 
-1) reikalavimams, kylantiems iš
+paimtas per didelis užmokestis;
 
-krovinių ar bagažo vežimo jūra tarptautinio susisiekimo reisu, taip pat
+3)
 
-reikalavimams dėl dispačo arba demeredžo sumokėjimo - nuo krovinių ar bagažo
+krovinių gavėjas arba siuntėjas, pateikdamas konosamentą, aktą arba kitą dokumentą,
 
-išdavimo dienos, o jeigu kroviniai ar bagažas nebuvo išduoti, - nuo tos dienos,
+surašytą pagal krovinių gavėjo ar siuntėjo uoste galiojančias taisykles, - kai
 
-kurią jie turėjo būti išduoti;
+krovinių trūksta arba jie sužaloti;
 
-2) reikalavimams, kylantiems iš laivo
+4)
 
-frachtavimo tam tikram laikui, laivo išperkamosios nuomos ir buksyravimo jūra
+krovinių gavėjas, pateikdamas konosamentą, - kai kroviniai pavėluotai atvežti
 
-sutarčių, iš laivo kapitono sudarytų sandorių bei naudojimosi locmanų
+arba uždelsta juos išduoti;
 
-paslaugomis, - nuo tos dienos, kai atsirado teisė į ieškinį.
+5)
 
-6.  Šioje  dalyje nurodytiems
+bagažo kvito pateikėjas - kai trūksta arba pavėluotai atgabentas bagažas;
 
-reikalavimams taikomas vienerių metų ieškininės senaties terminas. Šis terminas
+6)
 
-skaičiuojamas:
+akto pateikėjas - jeigu bagažas sužalotas.
 
-1)  reikalavimams,  kylantiems  iš
+2.
 
-keleivių  vežimo tarptautinio susisiekimo reisu sutarties: dėl keleivių vežimo
+Akto nebuvimas neatima teisės pareikšti pretenziją, jei įrodoma, kad buvo
 
-- nuo tos dienos, kai keleivis išlipo ar turėjo išlipti iš laivo, o jeigu
+atsisakyta surašyti aktą ir šis atsisakymas buvo apskųstas.
 
-reikalaujama atlyginti žalą dėl keleivio sveikatos sužalojimo ar gyvybės
+3.
 
-atėmimo, - nuo keleivio sužalojimo ar mirties dienos, bet ne ilgiau kaip po 2
+Kitiems asmenims perduoti teisę pareikšti pretenzijas ir ieškinius neleidžiama,
 
-metų nuo dienos, kai keleivis paliko laivą;
+išskyrus atvejus, kai tokią teisę krovinių siuntėjas perduoda krovinių gavėjui
 
-2) reikalavimams dėl laivų susidūrimu
+arba atvirkščiai, taip pat, kai krovinių gavėjas arba krovinių siuntėjas tą
 
-padarytų nuostolių atlyginimo - nuo laivų susidūrimo dienos;
+teisę perduoda ekspedicinei, draudimo ar kitai organizacijai. Teisės pareikšti
 
-3) reikalavimams dėl atlyginimo už
+pretenziją ir ieškinį perdavimas patvirtinamas atitinkamu įrašu konosamente.
 
-išgelbėjimą jūroje - nuo gelbėjimo jūroje darbų užbaigimo dienos.
+73 straipsnis netenka galios
 
-7. Ieškininės senaties terminai,
+nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su
 
-nustatyti reikalavimams, numatytiems šio straipsnio 6 dalies 2 ir 3  punktuose,
+konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš
 
-pratęsiami iki 2 metų tais atvejais, kai laivas, kuriam taikomi šie
+dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų,
 
-reikalavimai, ieškininės senaties termino metu negalėjo būti aptiktas Lietuvos
+susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo
 
-Respublikos teritoriniuose vandenyse.
+(protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d.
 
-8. Reikalavimams, kuriems ieškininės
+tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais,
 
-senaties terminai šiame  įstatyme nenumatyti, taikomi bendrieji  ieškininės
+suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d.
 
-senaties terminai, nustatyti Lietuvos Respublikos civiliniame kodekse.
+protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai.
 
-85 straipsnis. Tinkamų darbo ir poilsio
+Straipsnio pakeitimai:
 
-sąlygų laive sudarymas
+Nr. IX-1680, 2003-07-03,
 
-1. Laivo valdytojas privalo
+Žin., 2003, Nr. 73-3355 (2003-07-23)
 
-pasirūpinti, kad jūrininkams laive būtų sudarytos tinkamos darbo ir poilsio
+74
 
-sąlygos.
+straipsnis. Terminai ieškiniams pareikšti dėl vežimo kabotažu
 
-2.  Laivo kapitonas rūpinasi, kad
+1.
 
-jūrininkams  būtų skiriama maisto ir geriamojo vandens pagal Sveikatos apsaugos
+Ieškinius, kylančius iš vežimo kabotažu, galima pareikšti per 6 mėnesius nuo
 
-ministerijos nustatytą paros racioną ir normas. Jei laivo kapitonas sumažina
+dienos, kai atsirado pagrindas pareikšti ieškinį.
 
-maisto kiekį laivo reiso metu, jūrininkai turi teisę reikalauti piniginės
+2.
 
-kompensacijos už maisto normų sumažinimą.
+Jeigu pretenzija, kylanti iš krovinių ar bagažo vežimo kabotažu, atmetama arba
+
+atsakymo negaunama per šio įstatymo 73 straipsnyje nustatytus terminus,
+
+pareiškėjas gali pareikšti ieškinį per 2 mėnesius nuo dienos, kurią gautas
+
+atsakymas arba pasibaigė nustatytas atsakyti terminas.
+
+75 straipsnis. Terminai pretenzijoms ir ieškiniams
+
+pareikšti
+
+1.
+
+Reikalavimams, kylantiems iš krovinių ar bagažo, keleivių vežimo, taikomi
+
+ieškinio senaties terminai, nustatyti šio straipsnio 6 ir 7 dalyse.
+
+2.
+
+Pretenzijos vežėjui dėl keleivių ar bagažo vežimų pareiškiamos per pirmuosius
+
+3 ieškinio senaties termino mėnesius.
+
+3.
+
+Pretenzijos dėl krovinių vežimo pareiškiamos prieš perduodant krovinį ar
+
+krovinio perdavimo metu. Tais atvejais, kai krovinio trūkumas ar sužalojimas
+
+neakivaizdus, – per tris dienas.
+
+4.
+
+Pretenzijos dėl dispačo ar demeredžo išmokėjimo pareiškiamos per pirmąsias 45
+
+ieškinio senaties termino dienas.
+
+5.
+
+Vežėjas pareikštą pretenziją privalo išnagrinėti per 3 mėnesius nuo pretenzijos
+
+gavimo dienos ir pranešti pareiškėjui apie jos patenkinimą arba atmetimą.
+
+Pretenzija, kylanti iš vežimo kabotažu, dėl dispačo ar demeredžo arba netesybų
+
+mokėjimo už laivo nepateikimą ar pavėluotą pateikimą, privalo būti išnagrinėta
+
+per 45 dienas.
+
+6.
+
+Šioje dalyje nurodytiems reikalavimams taikomas vienerių metų ieškinio senaties
+
+terminas. Šis terminas skaičiuojamas:
+
+1) reikalavimams, kylantiems iš krovinių ar bagažo
+
+vežimo jūra, taip pat reikalavimams dėl dispačo arba demeredžo sumokėjimo – nuo
+
+krovinių ar bagažo išdavimo dienos, o jeigu kroviniai ar bagažas nebuvo išduoti
+
+– nuo tos dienos, kurią jie turėjo būti išduoti;
+
+2) reikalavimams, kylantiems iš laivo frachtavimo tam
+
+tikram laikui, laivo išperkamosios nuomos ir buksyravimo jūra sutarčių, iš
+
+laivo kapitono sudarytų sandorių bei naudojimosi locmanų paslaugomis, – nuo tos
+
+dienos, kai atsirado teisė į ieškinį.
+
+7. Šioje dalyje nurodytiems reikalavimams taikomas 2
+
+metų ieškinio senaties terminas. Šis terminas skaičiuojamas:
+
+1) reikalavimams, kylantiems iš keleivių vežimo
+
+sutarties: dėl keleivių vežimo – nuo tos dienos, kurią keleivis išlipo ar
+
+turėjo išlipti iš laivo, o jeigu reikalaujama atlyginti žalą dėl keleivio
+
+sveikatos sužalojimo ar gyvybės atėmimo, – nuo keleivio sužalojimo ar mirties
+
+dienos, bet ne vėliau kaip po 3 metų nuo dienos, kurią keleivis paliko laivą;
+
+2) reikalavimams dėl nuostolių, padarytų susidūrus
+
+laivams, atlyginimo – nuo laivų susidūrimo dienos;
+
+3) reikalavimams dėl atlyginimo už  turto gelbėjimo
+
+operacijas – nuo gelbėjimo operacijų užbaigimo dienos.
+
+8. Šio straipsnio 6 dalyje nustatytas vienerių metų
+
+ieškinio senaties terminas reikalavimams, kylantiems iš krovinių vežimo jūra,
+
+šalių susitarimu gali būti pratęstas, jeigu šalys taip susitarė po to, kai
+
+atsirado pagrindas pareikšti ieškinį.
+
+9. Reikalavimams, kuriems ieškinio senaties terminai
+
+šiame įstatyme nenumatyti, taikomas bendrasis ieškinio senaties terminas,
+
+nustatytas Lietuvos Respublikos civiliniame kodekse.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1899, 00.08.29, Žin., 2000,
+
+Nr.75-2266 (00.09.07)
+
+Nr. VIII-1963, 00.09.26, Žin., 2000,
+
+Nr.85-2584 (00.10.11)
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
+
+76
+
+straipsnis. Ieškininės senaties terminų sustabdymas, nutraukimas ir
+
+atnaujinimas
+
+1.
+
+Ieškininės senaties terminams, numatytiems šiame įstatyme, taikomos ieškininės
+
+senaties termino eigos sustabdymo, nutraukimo ar atnaujinimo taisyklės,
+
+nustatytos Lietuvos Respublikos civiliniame kodekse.
+
+2.
+
+Jeigu ieškinio sumos apskaičiavimas priklauso nuo dispašos surašymo, ieškininės
+
+senaties termino eiga sustabdoma nuo dienos, kurią dispašeris priima nutarimą dėl
+
+bendrosios avarijos fakto, iki dienos, kai dispašą gauna suinteresuotas asmuo.
+
+77
+
+straipsnis. Neteko galios nuo 2003 m.
+
+liepos 23 d.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
+
+Keturioliktojo skirsnio
+
+pakeitimai:
+
+Nr. VIII-750, 98.05.19, Žin., 1998, Nr.53-1448 (98.06.10)
+
+KETURIOLIKTASIS SKIRSNIS
+
+LAIVO HIPOTEKA
+
+Skirsnio pavadinimas keistas:
+
+Nr. IX-595,
+
+2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
+
+85 straipsnis. Tinkamų darbo ir
+
+poilsio sąlygų jūrininkų reiso metu sudarymas
+
+1. Laivo valdytojas privalo pasirūpinti, kad jūrininkų
+
+reiso metu būtų sudarytos tinkamos darbo ir poilsio sąlygos.
+
+2.
+
+Laivo kapitonas rūpinasi, kad jūrininkams būtų skiriama maisto ir geriamojo
+
+vandens pagal Sveikatos apsaugos ministerijos nustatytą paros racioną ir
+
+normas. Jei laivo kapitonas sumažina maisto kiekį laivo reiso metu, jūrininkai
+
+turi teisę reikalauti piniginės kompensacijos už maisto normų sumažinimą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1680,
+
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
