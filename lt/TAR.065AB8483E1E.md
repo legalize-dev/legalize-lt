@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2002-10-23"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -680,17 +680,15 @@ Lietuvos žurnalistų ir leidėjų etikos kodeksą.
 
 pažeidžiančius šio straipsnio nuostatas, atsakoma įstatymų nustatyta tvarka.
 
-*8 straipsnis.
+8 straipsnis.
 
 Informacijos šaltinio paslaptis
 
-Viešosios
+*Viešosios informacijos rengėjas, platintojas, viešosios informacijos
 
-informacijos rengėjas, platintojas, viešosios informacijos rengėjo ir (ar)
+rengėjo ir (ar) platintojo savininkas, žurnalistas turi teisę išsaugoti
 
-platintojo savininkas, žurnalistas turi teisę išsaugoti informacijos šaltinio
-
-paslaptį, neatskleisti informacijos šaltinio.
+informacijos šaltinio paslaptį, neatskleisti informacijos šaltinio.
 
 *Pastaba. 1. Pripažinti, kad Lietuvos
 
@@ -836,31 +834,21 @@ sutikimu ir jeigu informacijos paskelbimas
 
 nedaro jam žalos.
 
-3. Informacija
+3. Informacija apie privatų gyvenimą gali būti skelbiama be žmogaus sutikimo tais atvejais, kai informacijos paskelbimas nedaro žalos asmeniui arba kai informacija padeda atskleisti įstatymų pažeidimus ar nusikalstamas veikas, taip pat kai informacija yra pateikiama nagrinėjant bylą atvirame teismo procese. Be to, informacija apie viešojo asmens (valstybės politikų, valstybės tarnautojų, politinių partijų ir visuomeninių organizacijų vadovų bei kitų visuomeninėje ir politinėje veikloje dalyvaujančių asmenų) privatų gyvenimą gali būti skelbiama be jo sutikimo, jeigu ši informacija atskleidžia visuomeninę reikšmę turinčias privataus šio asmens gyvenimo aplinkybes ar asmenines savybes.
 
-apie privatų gyvenimą gali būti skelbiama be žmogaus sutikimo tais atvejais,
+4. Už teisės į privatų gyvenimą pažeidimą visuomenės informavimo priemonėse atsakoma šio ir
 
-kai informacijos paskelbimas nedaro žalos asmeniui arba kai informacija padeda
+kitų įstatymų nustatyta tvarka.
 
-atskleisti įstatymų pažeidimus ar nusikaltimus, taip pat kai informacija yra
+Straipsnio
 
-pateikiama nagrinėjant bylą atvirame teismo procese. Be to, informacija apie
+pakeitimai:
 
-viešojo asmens (valstybės politikų, valstybės tarnautojų, politinių partijų ir
+Nr.
 
-visuomeninių organizacijų vadovų bei kitų visuomeninėje ir politinėje veikloje
+IX-1487,
 
-dalyvaujančių asmenų) privatų gyvenimą gali būti skelbiama be jo sutikimo,
-
-jeigu ši informacija atskleidžia visuomeninę reikšmę turinčias privataus šio
-
-asmens gyvenimo aplinkybes ar asmenines savybes.
-
-4. Už teisės į privatų gyvenimą pažeidimą
-
-visuomenės informavimo priemonėse atsakoma
-
-šio ir kitų įstatymų nustatyta tvarka.
+2003-04-03, Žin., 2003, Nr. 38-1732 (2003-04-24)
 
 15 straipsnis.
 
@@ -870,15 +858,17 @@ Kiekvienas fizinis asmuo, kurio garbę ir orumą žemina visuomenės
 
 informavimo priemonėje paskelbta tikrovės neatitinkanti, netiksli ar šališka
 
-informacija apie jį, taip pat kiekvienas
+informacija apie jį, taip pat kiekvienas juridinis asmuo, kurio teisėtiems
 
-juridinis asmuo, kurio teisėtiems interesams, ypač reputacijai, pakenkė
+interesams, ypač reputacijai, pakenkė
 
 tikrovės neatitinkanti, netiksli ar šališka informacija, turi teisę atsakyti,
 
-paneigdamas tikrovės neatitinkančią informaciją ar patikslindamas paskelbtą informaciją, arba pareikalauti, kad viešosios
+paneigdamas tikrovės neatitinkančią informaciją ar patikslindamas paskelbtą
 
-informacijos rengėjas ir (ar) platintojas paneigtų tikrovės neatitinkančią
+informaciją, arba pareikalauti, kad viešosios informacijos rengėjas ir (ar)
+
+platintojas paneigtų tikrovės neatitinkančią
 
 informaciją šio įstatymo 45 straipsnyje nustatyta tvarka.
 
@@ -888,15 +878,13 @@ Teisė gauti atlyginimą už padarytą moralinę ir materialinę žalą
 
 1. Kiekvienas fizinis asmuo, kurio garbę ir orumą
 
-žemina paskelbta tikrovės neatitinkanti informacija apie jį, turi teisę pagal
+žemina paskelbta tikrovės neatitinkanti informacija apie jį, turi teisę pagal įstatymus gauti atlyginimą už padarytą
 
-įstatymus gauti atlyginimą už padarytą moralinę žalą šio įstatymo 54 straipsnio
+moralinę žalą šio įstatymo 54 straipsnio nustatyta tvarka.
 
-nustatyta tvarka.
+2. Kiekvienas juridinis asmuo, kurio teisėtiems
 
-2. Kiekvienas juridinis asmuo, kurio teisėtiems interesams, ypač reputacijai, pakenkė paskelbta
-
-tikrovės neatitinkanti informacija, turi teisę įstatymų nustatyta tvarka gauti
+interesams, ypač reputacijai, pakenkė paskelbta tikrovės neatitinkanti informacija, turi teisę įstatymų nustatyta tvarka gauti
 
 atlyginimą už patirtą žalą.
 
@@ -988,11 +976,9 @@ apsauga
 
 reikalauja Vaiko teisių apsaugos pagrindų ir kiti
 
-įstatymai, Jungtinių Tautų Organizacijos
+įstatymai, Jungtinių Tautų Organizacijos Vaiko teisių konvencija bei Lietuvos
 
-Vaiko teisių konvencija bei Lietuvos Respublikos tarptautinės sutartys, nuo jų
-
-fiziniam, protiniam ir doroviniam vystymuisi kenkiančios viešosios
+Respublikos tarptautinės sutartys, nuo jų fiziniam, protiniam ir doroviniam vystymuisi kenkiančios viešosios
 
 informacijos, ypač susijusios su pornografija ir (ar) savitiksliu smurto
 
@@ -1018,23 +1004,17 @@ ir (ar) savitiksliu smurto vaizdavimu.
 
 4. Šio straipsnio 3 dalies nuostata taip pat
 
-taikoma ir kitoms programoms ar laidoms,
+taikoma ir kitoms programoms ar laidoms, kurios galėtų pakenkti nepilnamečių
 
-kurios galėtų pakenkti nepilnamečių fiziniam, protiniam ar doroviniam
-
-vystymuisi, išskyrus tuos atvejus, kai parenkant transliavimo laiką arba
+fiziniam, protiniam ar doroviniam vystymuisi, išskyrus tuos atvejus, kai parenkant transliavimo laiką arba
 
 naudojant techninės priemones užtikrinama, kad šių transliacijų priėmimo zonoje
 
-nepilnamečiai tokių programų ar laidų
-
-neklausytų ir nežiūrėtų.
+nepilnamečiai tokių programų ar laidų neklausytų ir nežiūrėtų.
 
 5. Šio straipsnio 4 dalyje nurodytos programos ar
 
-laidos transliuojamos tik nuo 23 iki 6
-
-valandos.
+laidos transliuojamos tik nuo 23 iki 6 valandos.
 
 6. Už viešosios informacijos platinimą,
 
@@ -1052,13 +1032,13 @@ Nr. IX-39, 2000 11 21, Žin., 2000, Nr.
 
 Neteikiama informacija
 
-1. Valstybės ir savivaldybių institucijos
+1. Valstybės ir savivaldybių
 
-bei įstaigos, taip pat kitos įstaigos, įmonės ir organizacijos neteikia
+institucijos bei įstaigos, taip pat kitos įstaigos, įmonės ir organizacijos
 
-viešosios informacijos rengėjams ir (ar) platintojams, kitiems asmenims
+neteikia viešosios informacijos rengėjams ir (ar) platintojams, kitiems
 
-informacijos, kuri pagal įstatymus yra valstybės, tarnybos, profesinė,
+asmenims informacijos, kuri pagal įstatymus yra valstybės, tarnybos, profesinė,
 
 komercinė ar banko paslaptis arba yra privati informacija.
 
@@ -1206,9 +1186,11 @@ informacijos rengėjų, platintojų ir jų savininkų santykius reglamentuoja š
 
 kiti įstatymai, norminiai teisės aktai ir šalių susitarimai.
 
-2. Viešosios informacijos rengėjais ir (ar) platintojais gali būti Lietuvos Respublikos ir užsienio valstybių
+2. Viešosios informacijos rengėjais ir (ar) platintojais gali būti
 
-fiziniai asmenys bei visų rūšių įmonės ir organizacijos, įstatymų nustatyta
+Lietuvos Respublikos ir užsienio valstybių fiziniai asmenys bei visų rūšių
+
+įmonės ir organizacijos, įstatymų nustatyta
 
 tvarka įsteigusios įmonę ar savo įmonės padalinį Lietuvos Respublikoje,
 
@@ -1216,33 +1198,31 @@ išskyrus šio straipsnio 4, 5, 6 dalyse ir kitų įstatymų nurodytus asmenis.
 
 3.
 
-Viešosios informacijos rengėjo ar platintojo savininkas gali įstatymų
+Viešosios informacijos rengėjo ar platintojo savininkas gali įstatymų nustatytais
 
-nustatytais atvejais ir tvarka nutraukti ar reorganizuoti viešosios
+atvejais ir tvarka nutraukti ar reorganizuoti viešosios informacijos rengimo ir
 
-informacijos rengimo ir (ar) platinimo veiklą arba perleisti rengėją ar
+(ar) platinimo veiklą arba perleisti rengėją ar platintoją kitiems šio
 
-platintoją kitiems šio straipsnio 2 dalyje nurodytiems asmenims. Parduodant ar
+straipsnio 2 dalyje nurodytiems asmenims. Parduodant ar kitaip perleidžiant ne
 
-kitaip perleidžiant ne mažiau kaip 10 procentų transliuotojo ar operatoriaus
+mažiau kaip 10 procentų transliuotojo ar operatoriaus akcijų, būtina apie
 
-akcijų, būtina apie akcijų pardavimą ar perleidimą informuoti Lietuvos radijo
+akcijų pardavimą ar perleidimą informuoti Lietuvos radijo ir televizijos
 
-ir televizijos komisiją. Jei pardavus ar kitaip perleidus transliuotojo ar
+komisiją. Jei pardavus ar kitaip perleidus transliuotojo ar operatoriaus
 
-operatoriaus akcijas, keičiasi kontrolinio akcijų paketo savininkas
+akcijas, keičiasi kontrolinio akcijų paketo savininkas (savininkai), parduodant
 
-(savininkai), parduodant ar kitaip perleidžiant akcijas privaloma gauti
+ar kitaip perleidžiant akcijas privaloma gauti Lietuvos radijo ir televizijos
 
-Lietuvos radijo ir televizijos komisijos rašytinį sutikimą dėl minėtų akcijų
+komisijos rašytinį sutikimą dėl minėtų akcijų pardavimo ar kitokio perleidimo.
 
-pardavimo ar kitokio perleidimo. Šis reikalavimas taikomas ir tais atvejais,
+Šis reikalavimas taikomas ir tais atvejais, kai pardavus ar kitaip perleidus transliuotojo
 
-kai pardavus ar kitaip perleidus transliuotojo ar operatoriaus turtą ar turto
+ar operatoriaus turtą ar turto dalį (jei turtas yra neakcionuotas),
 
-dalį (jei turtas yra neakcionuotas), transliuotojo ar operatoriaus kontrolė
-
-pereina kitam asmeniui.
+transliuotojo ar operatoriaus kontrolė pereina kitam asmeniui.
 
 4.
 
@@ -1264,11 +1244,11 @@ bankai negali būti viešosios informacijos rengėjais ir (ar) jų savininkais, 
 
 gali leisti neperiodinius informacinio pobūdžio leidinius, skirtus visuomenei
 
-informuoti apie savo veiklą. Valstybė ar valstybės institucijos (išskyrus mokslo
+informuoti apie savo veiklą. Valstybė ar valstybės institucijos (išskyrus
 
-ir mokymo įstaigas), savivaldybės, bankai negali turėti viešosios informacijos
+mokslo ir mokymo įstaigas), savivaldybės, bankai negali turėti viešosios
 
-rengėjų akcijų, jeigu įstatymų nenustatyta kitaip.
+informacijos rengėjų akcijų, jeigu įstatymų nenustatyta kitaip.
 
 7.
 
@@ -1300,23 +1280,23 @@ Duomenys apie viešosios informacijos rengėjus, platintojus ir jų
 
 savininkus
 
-1. Viešosios
+1. Viešosios informacijos
 
-informacijos rengėjai ir (ar) platintojai, išskyrus Lietuvos radijo ir
+rengėjai ir (ar) platintojai, išskyrus Lietuvos radijo ir televizijos komisijos
 
-televizijos komisijos licenciją turinčius transliuotojus bei Lietuvos
+licenciją turinčius transliuotojus bei Lietuvos nacionalinį radiją ir
 
-nacionalinį radiją ir televiziją, privalo kasmet iki kovo 30 dienos Vyriausybės
+televiziją, privalo kasmet iki kovo 30 dienos Vyriausybės įgaliotai
 
-įgaliotai institucijai visuomenės informavimo srityje (toliau – Vyriausybės
+institucijai visuomenės informavimo srityje (toliau – Vyriausybės įgaliota
 
-įgaliota institucija) šios institucijos nustatyta tvarka pateikti duomenis apie
+institucija) šios institucijos nustatyta tvarka pateikti duomenis apie įmonės
 
-įmonės akcininkus ar dalininkus, kurie turi nuosavybės teise ar valdo ne
+akcininkus ar dalininkus, kurie turi nuosavybės teise ar valdo ne mažiau
 
-mažiau kaip 10 procentų visų akcijų ar turto (jeigu turtas yra neakcionuotas).
+kaip 10 procentų visų akcijų ar turto (jeigu turtas yra neakcionuotas). Juose
 
-Juose turi būti nurodyta tokių akcininkų ar dalininkų vardai ir pavardės
+turi būti nurodyta tokių akcininkų ar dalininkų vardai ir pavardės
 
 (pavadinimai), asmens kodas (registracijos numeris), turimo turto dalis ar
 
@@ -1504,15 +1484,13 @@ Transliuotojas, kuriam negali būti taikomos šio straipsnio 1 dalies 1, 2, 3, 4
 
 arba kitos Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusios
 
-šalies jurisdikcijai, priklauso Lietuvos Respublikos jurisdikcijai, jei atitinka
+šalies jurisdikcijai, priklauso Lietuvos Respublikos jurisdikcijai, jei
 
-šias sąlygas:
+atitinka šias sąlygas:
 
 1)
 
-transliuotojas naudojasi Lietuvos valstybei priklausančiu kanalu (radijo
-
-dažniu);
+transliuotojas naudojasi Lietuvos valstybei priklausančiu kanalu (radijo dažniu);
 
 2)
 
@@ -1682,31 +1660,35 @@ Sąžininga konkurencija visuomenės informavimo srityje
 
 Valstybės ir savivaldybių įstaigos, taip pat kitos visų rūšių įmonės, įstaigos
 
-ir organizacijos ar fiziniai asmenys negali monopolizuoti visuomenės
+ir organizacijos ar fiziniai asmenys negali monopolizuoti visuomenės informavimo
 
-informavimo priemonių.
+priemonių.
 
 2. Valstybė sudaro vienodas teisines ir ekonomines
 
 sąlygas viešosios informacijos rengėjų ir platintojų, išskyrus smurtinio bei
 
-erotinio pobūdžio produkcijos rengėjus ir
+erotinio pobūdžio produkcijos rengėjus ir (ar) platintojus, sąžiningai
 
-(ar) platintojus, sąžiningai konkurencijai. Įstatymų nustatyta tvarka valstybės
+konkurencijai. Įstatymų nustatyta tvarka valstybės
 
 institucijos prižiūri, kad nė vienas asmuo neužimtų monopolinės padėties ar
 
-nepiktnaudžiautų užimama dominuojančia padėtimi tarp viešosios informacijos rengėjų ar platintojų arba kurios nors
+nepiktnaudžiautų užimama dominuojančia padėtimi tarp viešosios informacijos
 
-atskiros visuomenės informavimo priemonių rūšies rinkoje. Dominuojanti padėtis
+rengėjų ar platintojų arba kurios nors atskiros visuomenės informavimo
 
-visuomenės informavimo srityje nustatoma vadovaujantis Konkurencijos įstatymu.
+priemonių rūšies rinkoje. Dominuojanti
+
+padėtis visuomenės informavimo srityje nustatoma vadovaujantis Konkurencijos
+
+įstatymu.
 
 3. Smurtinio ir erotinio pobūdžio viešosios
 
-informacijos rengėjams ir (ar) platintojams
+informacijos rengėjams ir (ar) platintojams taikomi šio ir kitų įstatymų ar
 
-taikomi šio ir kitų įstatymų ar teisės aktų numatyti apribojimai.
+teisės aktų numatyti apribojimai.
 
 30 straipsnis.
 
@@ -1778,7 +1760,9 @@ retransliuoti programą kitu radijo dažnių ruožu.
 
 3. Kanalai
 
-(radijo dažniai) yra Lietuvos Respublikos nuosavybė ir negali būti privatizuoti.
+(radijo dažniai) yra Lietuvos Respublikos nuosavybė ir negali būti
+
+privatizuoti.
 
 4. LRT veikla
 
@@ -1862,9 +1846,11 @@ ir radijo programoms retransliuoti kabelinės ar MDTV tinklais su teise steigti,
 
 trečiosios šalies teikiamomis siuntimo paslaugomis.
 
-8. Be konkurso šio
+8. Be konkurso
 
-straipsnio 7 dalyje numatytas licencijas Komisija gali išduoti šiais atvejais:
+šio straipsnio 7 dalyje numatytas licencijas Komisija gali išduoti šiais
+
+atvejais:
 
 1) kai naudojami
 
@@ -1932,13 +1918,13 @@ reglamentuojančių transliavimo ar retransliavimo veiklą, licencijos sąlygų 
 
 Komisijos sprendimų. Prašymą pratęsti licenciją transliuotojai turi pateikti ne
 
-vėliau kaip prieš 6 mėnesius iki licencijos galiojimo pabaigos. Sprendimą dėl licencijos
+vėliau kaip prieš 6 mėnesius iki licencijos galiojimo pabaigos. Sprendimą dėl
 
-pratęsimo ar motyvuotą atsisakymą ją pratęsti Komisija priima ne vėliau kaip
+licencijos pratęsimo ar motyvuotą atsisakymą ją pratęsti Komisija priima ne
 
-per 60 dienų nuo prašymo gavimo dienos. Apie Komisijos posėdžio laiką ir
+vėliau kaip per 60 dienų nuo prašymo gavimo dienos. Apie Komisijos
 
-vietą pareiškėjas informuojamas raštu.
+posėdžio laiką ir vietą pareiškėjas informuojamas raštu.
 
 13.
 
@@ -1976,11 +1962,13 @@ transliuotojas atsisako licencijos;
 
 transliuotojas yra likviduojamas arba kitaip nutraukia savo veiklą;
 
-3) transliuotojas
+3)
 
-be Komisijos sutikimo daugiau kaip 2 mėnesius paeiliui arba daugiau kaip 3
+transliuotojas be Komisijos sutikimo daugiau kaip 2 mėnesius paeiliui arba
 
-mėnesius per kalendorinius metus nevykdo licencijuojamos veiklos;
+daugiau kaip 3 mėnesius per kalendorinius metus nevykdo licencijuojamos
+
+veiklos;
 
 4) konkurso
 
@@ -2030,15 +2018,15 @@ sprendimai.
 
 16.
 
-Jeigu ne mažiau kaip 10 procentų licenciją turinčio asmens akcijų pereina
+Jeigu ne mažiau kaip 10 procentų licenciją turinčio asmens akcijų pereina kitiems
 
-kitiems asmenims ir (ar) pasikeičia licenciją turinčio asmens vadovybė
+asmenims ir (ar) pasikeičia licenciją turinčio asmens vadovybė (administracijos
 
-(administracijos vadovas ar valdybos, tarybos sudėtis), licenciją turintis
+vadovas ar valdybos, tarybos sudėtis), licenciją turintis asmuo turi apie
 
-asmuo turi apie tokius pasikeitimus ne vėliau kaip per 30 dienų nuo nuosavybės
+tokius pasikeitimus ne vėliau kaip per 30 dienų nuo nuosavybės teisių perėjimo
 
-teisių perėjimo kitiems asmenims dienos informuoti Komisiją.
+kitiems asmenims dienos informuoti Komisiją.
 
 17. Komisija
 
@@ -2098,11 +2086,11 @@ ir laidinio radijo transliuotojai privalo retransliuoti televizijos ir
 
 (ar) radijo programas. Kabelinės televizijos, laidinio radijo tinklais ir
 
-MDTV taip pat gali būti transliuojamos pačių operatorių ar transliuotojų
+MDTV taip pat gali būti transliuojamos pačių operatorių ar transliuotojų sukurtos
 
-sukurtos programos, jeigu operatoriai turi įsigiję šio įstatymo 31 straipsnio 7
+programos, jeigu operatoriai turi įsigiję šio įstatymo 31 straipsnio 7 dalies 6
 
-dalies 6 punkte nurodytas licencijas. Operatoriai ir laidinio radijo transliuotojai
+punkte nurodytas licencijas. Operatoriai ir laidinio radijo transliuotojai
 
 gali teikti ir paslaugų, nesusijusių su programų transliavimu, vadovaudamiesi
 
@@ -2228,11 +2216,9 @@ Reikalavimai leidiniams ir jų platinimui
 
 1. Kiekviename
 
-leidinyje turi būti nurodyti jo tiražas, Lietuvos standarto nustatyti kiti
+leidinyje turi būti nurodyti jo tiražas, Lietuvos standarto nustatyti kiti leidybiniai
 
-leidybiniai duomenys ir tarptautinis dokumento standarto numeris (ISBN, ISSN,
-
-ISMN).
+duomenys ir tarptautinis dokumento standarto numeris (ISBN, ISSN, ISMN).
 
 2. Vyriausybė
 
@@ -2302,13 +2288,11 @@ esmės sukurti autorių ir kūrėjų, gyvenančių vienoje ar keliose Europos
 
 valstybėse.
 
-2. Šio straipsnio 1 dalies 1 ir 2 punktai taikomi tuo atveju, jei
+2. Šio straipsnio 1 dalies 1 ir 2
 
-kūriniams, sukurtiems Lietuvos Respublikoje ar valstybėse Europos Sąjungos
+punktai taikomi tuo atveju, jei kūriniams, sukurtiems Lietuvos Respublikoje ar
 
-narėse, diskriminacinės priemonės šio
-
-straipsnio
+valstybėse Europos Sąjungos narėse, diskriminacinės priemonės šio straipsnio
 
 1 dalies 1 ir 2 punktuose numatytose šalyse
 
@@ -2446,9 +2430,11 @@ transliuotojai turi ne mažiau kaip 10 procentų programos laiko, kuris lieka
 
 atėmus laiką, skirtą žinių, sporto, žaidimų, reklamos laidoms, teleteksto
 
-paslaugoms ir teleparduotuvei, kai tai įmanoma, skirti Europos kūriniams,
+paslaugoms ir teleparduotuvei, kai tai įmanoma, skirti Europos
 
-sukurtiems nepriklausomų kūrėjų ne anksčiau kaip per pastaruosius 5 metus.
+kūriniams, sukurtiems nepriklausomų kūrėjų ne anksčiau kaip per pastaruosius 5
+
+metus.
 
 5. Kitus
 
@@ -2500,31 +2486,27 @@ neturi klaidinti ir kenkti vartotojui.
 
 3. Reklama, skirta nepilnamečiams arba ta, kuria naudojasi nepilnamečiai,
 
-neturi kenkti jų interesams. Tokia reklama
+neturi kenkti jų interesams. Tokia reklama turi atitikti šiuos reikalavimus:
 
-turi atitikti šiuos reikalavimus:
-
-1) neturi skatinti nepilnamečių, naudojantis jų nepatyrimu ir patiklumu,
-
-pirkti gaminį ar rinktis paslaugą;
+1) neturi skatinti nepilnamečių, naudojantis jų nepatyrimu ir patiklumu, pirkti gaminį ar rinktis paslaugą;
 
 2) neturi tiesiogiai skatinti nepilnamečių įtikinėti savo tėvus ar kitus
 
-asmenis, kad šie nupirktų reklamuojamus
+asmenis, kad šie nupirktų reklamuojamus gaminius ar paslaugas;
 
-gaminius ar paslaugas;
+3) neturi formuoti vaikų nuomonės, kad tam tikrų paslaugų ar prekių vartojimas suteiks jiems fizinį,
 
-3) neturi formuoti vaikų nuomonės, kad tam tikrų paslaugų ar prekių
+psichologinį ar socialinį pranašumą prieš bendraamžius;
 
-vartojimas suteiks jiems fizinį, psichologinį ar socialinį pranašumą prieš
+4) neturi be pagrindo rodyti nepilnamečių, atsidūrusių pavojingose
 
-bendraamžius;
-
-4) neturi be pagrindo rodyti nepilnamečių, atsidūrusių pavojingose situacijose;
+situacijose;
 
 5) neturi piktnaudžiauti vaikų pasitikėjimu
 
-tėvais, globėjais (rūpintojais), mokytojais ir kitais asmenimis.
+tėvais, globėjais (rūpintojais), mokytojais
+
+ir kitais asmenimis.
 
 4. Reklamos
 
@@ -2574,13 +2556,13 @@ televizijos laidų vientisumo bei vertės (turi būti atsižvelgiama į jų
 
 natūralias pertraukas, trukmę bei pobūdį), transliavimo teisių turėtojų ir
 
-transliuotojų sutartyse nustatytų sąlygų. Reklama nelaikomi paties transliuotojo
+transliuotojų sutartyse nustatytų sąlygų. Reklama nelaikomi paties
 
-pranešimai apie savo programas ir su šiais pranešimais susiję pagalbiniai
+transliuotojo pranešimai apie savo programas ir su šiais pranešimais susiję
 
-elementai, taip pat visuomeniniai skelbimai, kreipimaisi dėl labdaros ir kita
+pagalbiniai elementai, taip pat visuomeniniai skelbimai, kreipimaisi dėl
 
-nemokamai transliuojama informacija;
+labdaros ir kita nemokamai transliuojama informacija;
 
 2) reklama ir
 
@@ -2660,9 +2642,9 @@ praeiti ne mažiau kaip 20 minučių;
 
 3, 4, 5, 6, 8 punktų nuostatos netaikomos toms televizijos laidoms, kurios yra
 
-skirtos transliuoti tik Lietuvos Respublikoje ir kurių tiesiogiai ar
+skirtos transliuoti tik Lietuvos Respublikoje ir kurių tiesiogiai ar netiesiogiai
 
-netiesiogiai negali priimti valstybių Europos Sąjungos narių visuomenė.
+negali priimti valstybių Europos Sąjungos narių visuomenė.
 
 11. Kaip
 
@@ -2756,11 +2738,9 @@ skirtų programoms transliuoti, kokybės priežiūra atliekama Vyriausybės
 
 nustatyta tvarka.
 
-2.
+2. Transliuotojai
 
-Transliuotojai turi garantuoti transliavimo kokybę pagal Lietuvos Respublikos
-
-standartus.
+turi garantuoti transliavimo kokybę pagal Lietuvos Respublikos standartus.
 
 Trečiasis skirsnis
 
@@ -2872,9 +2852,7 @@ etikos kodeksas, Europos Tarybos Parlamentinės Asamblėjos rezoliucija “Dėl
 
 žurnalistinės etikos”, taip pat Lietuvos Respublikos tarptautinės sutartys,
 
-reglamentuojančios viešosios informacijos rengimą bei platinimą, ir šis
-
-įstatymas.
+reglamentuojančios viešosios informacijos rengimą bei platinimą, ir šis įstatymas.
 
 2. Lietuvos
 
@@ -2886,11 +2864,11 @@ spaudos leidėjų asociacija, Lietuvos radijo ir televizijos asociacija, Lietuvo
 
 kabelinės televizijos asociacija, Regioninių televizijų asociacija, Lietuvos
 
-žurnalistų sąjunga, Lietuvos žurnalistų draugija, Lietuvos žurnalistikos centras,
+žurnalistų sąjunga, Lietuvos žurnalistų draugija, Lietuvos žurnalistikos
 
-Lietuvos nacionalinis radijas ir televizija, Tarptautinės reklamos asociacijos
+centras, Lietuvos nacionalinis radijas ir televizija, Tarptautinės reklamos
 
-Lietuvos skyrius.
+asociacijos Lietuvos skyrius.
 
 3.
 
@@ -2996,11 +2974,11 @@ aktų rengimo bei galiojančių teisės aktų pakeitimo ir papildymo;
 
 2)
 
-bendradarbiaudama su viešosios informacijos rengėjų ir platintojų organizacijomis,
+bendradarbiaudama su viešosios informacijos rengėjų ir platintojų
 
-rengia Vyriausybės teikiamų visuomenės informavimo srities įstatymų ir kitų
+organizacijomis, rengia Vyriausybės teikiamų visuomenės informavimo srities
 
-teisės aktų projektus;
+įstatymų ir kitų teisės aktų projektus;
 
 3)
 
@@ -3018,11 +2996,11 @@ teisines konsultacijas bei metodinę pagalbą visuomenės informavimo klausimais
 
 konferencijas, seminarus, praktikumus visuomenės informavimo klausimais;
 
-6) bendradarbiauja
+6)
 
-su atitinkamomis užsienio valstybių institucijomis bei tarptautinėmis
+bendradarbiauja su atitinkamomis užsienio valstybių institucijomis bei
 
-organizacijomis, veikiančiomis visuomenės informavimo srityje.
+tarptautinėmis organizacijomis, veikiančiomis visuomenės informavimo srityje.
 
 3. Vyriausybės
 
@@ -3100,13 +3078,13 @@ informavimo priemonių kategorijai;
 
 4) prižiūri,
 
-kaip viešosios informacijos rengėjai ir platintojai laikosi įstatymuose ir kituose
+kaip viešosios informacijos rengėjai ir platintojai laikosi įstatymuose ir
 
-teisės aktuose nustatytų kino filmų, videofilmų bei videoprogramų viešo rodymo,
+kituose teisės aktuose nustatytų kino filmų, videofilmų bei videoprogramų viešo
 
-tiražavimo ir platinimo, erotinio pobūdžio renginių viešo rodymo, erotinio bei
+rodymo, tiražavimo ir platinimo, erotinio pobūdžio renginių viešo rodymo,
 
-smurtinio pobūdžio spaudinių platinimo tvarkos reikalavimų;
+erotinio bei smurtinio pobūdžio spaudinių platinimo tvarkos reikalavimų;
 
 5) prižiūri,
 
@@ -3118,9 +3096,9 @@ kurstymą, šmeižtą ir dezinformaciją.
 
 5. Komisija,
 
-atlikdama savo funkcijas, gali pasitelkti Kultūros, Sveikatos apsaugos ir Teisingumo
+atlikdama savo funkcijas, gali pasitelkti Kultūros, Sveikatos apsaugos ir
 
-ministerijų deleguotų ekspertų.
+Teisingumo ministerijų deleguotų ekspertų.
 
 6. Į Komisiją
 
@@ -3130,13 +3108,13 @@ gali kreiptis visi suinteresuoti asmenys.
 
 veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais
 
-įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Respublikos Prezidento
+įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Respublikos
 
-dekretais, kitais Seimo ir Vyriausybės priimtais teisės aktais, taip pat
+Prezidento dekretais, kitais Seimo ir Vyriausybės priimtais teisės aktais, taip
 
-Lietuvos žurnalistų ir leidėjų etikos kodeksu, Europos Tarybos Parlamentinės
+pat Lietuvos žurnalistų ir leidėjų etikos kodeksu, Europos Tarybos
 
-Asamblėjos rezoliucija „Dėl žurnalistinės etikos“.
+Parlamentinės Asamblėjos rezoliucija „Dėl žurnalistinės etikos“.
 
 8. Komisija
 
@@ -3288,11 +3266,9 @@ organizuojama pagal jos nuostatus, kuriuos tvirtina Komisija.
 
 10. Komisijos sprendimai jos kompetencijai priskirtais klausimais
 
-transliuotojams ir operatoriams yra privalomi.
+transliuotojams ir operatoriams yra privalomi. Komisijos sprendimai skelbiami
 
-Komisijos sprendimai skelbiami „Valstybės žiniose“ ir įsigalioja juos
-
-paskelbus. Juos asmenys gali skųsti teismui per 30 dienų nuo įsigaliojimo
+„Valstybės žiniose“ ir įsigalioja juos paskelbus. Juos asmenys gali skųsti teismui per 30 dienų nuo įsigaliojimo
 
 dienos.
 
@@ -3356,21 +3332,21 @@ licencijų sąlygų ir Komisijos priimtų sprendimų;
 
 3) prižiūrėti,
 
-kaip transliuotojai laikosi šio ir kitų su jų veikla susijusių įstatymų nuostatų,
+kaip transliuotojai laikosi šio ir kitų su jų veikla susijusių įstatymų
 
-kuriomis reglamentuojami konkurencijos bei koncentracijos procesai, nustatoma
+nuostatų, kuriomis reglamentuojami konkurencijos bei koncentracijos procesai,
 
-kabelinės televizijos ir MDTV operatorių pareiga retransliuoti LRT ir kitas
+nustatoma kabelinės televizijos ir MDTV operatorių pareiga retransliuoti LRT ir
 
-nekoduotas antžeminės televizijos programas, nuostatų dėl Europos kūrinių ir
+kitas nekoduotas antžeminės televizijos programas, nuostatų dėl Europos kūrinių
 
-nepriklausomų kūrėjų sukurtų kūrinių masto transliuojamose programose, teisės
+ir nepriklausomų kūrėjų sukurtų kūrinių masto transliuojamose programose,
 
-rodyti laidas apie visuomenei itin reikšmingus įvykius, televizijos (išskyrus
+teisės rodyti laidas apie visuomenei itin reikšmingus įvykius, televizijos
 
-LRT) reklamai keliamų reikalavimų, programų rėmimo, licencijose nustatytų
+(išskyrus LRT) reklamai keliamų reikalavimų, programų rėmimo, licencijose
 
-reikalavimų programų sandarai ir turiniui;
+nustatytų reikalavimų programų sandarai ir turiniui;
 
 4)
 
@@ -3568,11 +3544,9 @@ rengia ir skelbia analitinę apžvalgą, skirtą visuomenės informavimo
 
 demokratinės kultūros plėtros gairėms nustatyti.
 
-2. Atlikdamas
+2. Atlikdamas šio
 
-šio straipsnio 1 dalyje nurodytas funkcijas, Žurnalistų etikos inspektorius
-
-gali:
+straipsnio 1 dalyje nurodytas funkcijas, Žurnalistų etikos inspektorius gali:
 
 1) įspėti
 
@@ -3638,23 +3612,23 @@ straipsnis. Viešosios informacijos rengėjų, platintojų bei pareigūnų atsak
 
 1. Už šio ir kitų įstatymų, Lietuvos Respublikos
 
-tarptautinių sutarčių, reglamentuojančių
+tarptautinių sutarčių, reglamentuojančių viešosios informacijos rengimą,
 
-viešosios informacijos rengimą, pažeidimus, taip pat už įstatymų nustatytos
-
-viešosios informacijos platinimo tvarkos pažeidimus atsako viešosios
+pažeidimus, taip pat už įstatymų nustatytos viešosios informacijos platinimo tvarkos pažeidimus atsako viešosios
 
 informacijos rengėjas ar platintojas šio ir kitų įstatymų nustatyta tvarka.
 
-2. Valstybės ir savivaldybių institucijos bei įstaigos, kitos biudžetinės
+2. Valstybės ir savivaldybių institucijos bei
 
-įstaigos, pareigūnai už trukdymą viešosios informacijos rengėjams ar
+įstaigos, kitos biudžetinės įstaigos, pareigūnai už trukdymą viešosios
 
-platintojams skleisti žinias, neteisėtą atsisakymą pateikti viešąją informaciją
+informacijos rengėjams ar platintojams
 
-arba neteisingos informacijos pateikimą atsako įstatymų nustatyta tvarka. Tokie jų veiksmai gali būti skundžiami
+skleisti žinias, neteisėtą atsisakymą pateikti viešąją informaciją arba
 
-teismui.
+neteisingos informacijos pateikimą atsako įstatymų nustatyta tvarka. Tokie jų
+
+veiksmai gali būti skundžiami teismui.
 
 53
 
@@ -3666,39 +3640,35 @@ nutraukimas
 
 1. Viešosios informacijos rengėjo ir (ar)
 
-platintojo veiklą gali laikinai sustabdyti, išskyrus šio straipsnio 2 dalyje nurodytą atvejį, arba nutraukti viešosios
+platintojo veiklą gali laikinai sustabdyti, išskyrus šio straipsnio 2 dalyje
 
-informacijos rengėjo ir (ar) platintojo savininkas savo iniciatyva arba
+nurodytą atvejį, arba nutraukti viešosios informacijos rengėjo ir (ar) platintojo savininkas savo iniciatyva arba teismas,
 
-teismas, jeigu viešosios informacijos rengėjas ir (ar) platintojas pažeidžia
+jeigu viešosios informacijos rengėjas ir (ar) platintojas pažeidžia šio
 
-šio įstatymo nuostatas.
+įstatymo nuostatas.
 
-2. Už šio įstatymo
+2. Už šio įstatymo nuostatų pažeidimus licenciją
 
-nuostatų pažeidimus licenciją turinčių transliuotojų veiklą šio įstatymo 31
+turinčių transliuotojų veiklą šio įstatymo 31 straipsnio 13 dalyje nurodytais atvejais taip pat gali laikinai
 
-straipsnio 13 dalyje nurodytais atvejais taip pat gali laikinai sustabdyti
+sustabdyti Lietuvos radijo ir televizijos komisija. Jei sprendimas laikinai
 
-Lietuvos radijo ir televizijos komisija. Jei sprendimas laikinai sustabdyti
+sustabdyti viešosios informacijos rengėjo ir (ar) platintojo veiklą
 
-viešosios informacijos rengėjo ir (ar)
+apskundžiamas teismui, konkretų viešosios informacijos rengėjo ir (ar) platintojo veiklos sustabdymo terminą nustato
 
-platintojo veiklą apskundžiamas teismui, konkretų viešosios informacijos
+teismas. Šis terminas laikraščių redakcijoms negali būti ilgesnis kaip 1 mėnuo,
 
-rengėjo ir (ar) platintojo veiklos sustabdymo terminą nustato teismas. Šis
+žurnalų redakcijoms ir transliuotojams bei operatoriams – 3 mėnesiai. Jeigu
 
-terminas laikraščių redakcijoms negali būti ilgesnis kaip 1 mėnuo, žurnalų
+Lietuvos radijo ir televizijos komisija priėmė sprendimą laikinai sustabdyti ar nutraukti licencijos galiojimą,
 
-redakcijoms ir transliuotojams bei
+transliuotojas ir (ar) operatorius nutraukia transliavimo ir (ar)
 
-operatoriams – 3 mėnesiai. Jeigu Lietuvos radijo ir televizijos komisija priėmė
+retransliavimo veiklą savo iniciatyva ar kai įsigalioja teismo sprendimas dėl
 
-sprendimą laikinai sustabdyti ar nutraukti licencijos galiojimą, transliuotojas
-
-ir (ar) operatorius nutraukia transliavimo ir (ar) retransliavimo veiklą savo iniciatyva ar kai įsigalioja teismo sprendimas dėl jo
-
-veiklos laikino sustabdymo ar nutraukimo.
+jo veiklos laikino sustabdymo ar nutraukimo.
 
 3. Viešosios
 
@@ -3798,9 +3768,9 @@ paskelbimą, jeigu jis nurodė informacijos šaltinį, o ji buvo:
 
 valstybės ir savivaldybių institucijų bei įstaigų, politinių partijų,
 
-profesinių sąjungų, politinių ir visuomeninių organizacijų ar kitų asmenų
+profesinių sąjungų, politinių ir visuomeninių organizacijų ar kitų asmenų oficialiuose
 
-oficialiuose ar viešai paskelbtuose dokumentuose;
+ar viešai paskelbtuose dokumentuose;
 
 2) viešai
 
@@ -3832,9 +3802,7 @@ rengėjas;
 
 6) paskelbta
 
-neanoniminiuose reklaminiuose skelbimuose, užsakomuosiuose straipsniuose ar
-
-laidose;
+neanoniminiuose reklaminiuose skelbimuose, užsakomuosiuose straipsniuose ar laidose;
 
 7) pateikta kaip
 
@@ -4028,9 +3996,9 @@ Nr. IX-39, 2000 11 21, Žin., 2000, Nr.
 
 102-3215 (2000 11 29)
 
-VISUOMENĖS INFORMAVIMO ĮSTATYMO 2, 4, 18, 26, 28, 37, 38,
+VISUOMENĖS INFORMAVIMO ĮSTATYMO 2, 4, 18, 26, 28, 37,
 
-39, 49 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR VISUOMENĖS INFORMAVIMO ĮSTATYMO
+38, 39, 49 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR VISUOMENĖS INFORMAVIMO ĮSTATYMO
 
 PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
@@ -4068,9 +4036,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-953, 2002-06-13,
+Nr. IX-953,
 
-Žin., 2002, Nr. 68-2759 (2002-07-03)
+2002-06-13, Žin., 2002, Nr. 68-2759 (2002-07-03)
 
 VISUOMENĖS
 
@@ -4089,6 +4057,22 @@ Nr. IX-972,
 VISUOMENĖS
 
 INFORMAVIMO ĮSTATYMO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1487,
+
+2003-04-03, Žin., 2003, Nr. 38-1732 (2003-04-24)
+
+VISUOMENĖS
+
+INFORMAVIMO ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės 1 d.
 
 ***
 
@@ -4120,7 +4104,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-10-31)
+Aušrinė Trapinskienė (2003-05-07)
 
 autrap@lrs.lt
 
