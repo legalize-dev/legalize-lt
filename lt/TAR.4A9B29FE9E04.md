@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "1997-07-23"
+last_updated: "1997-12-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1997-07-23 iki 1997-12-23
+Suvestinė redakcija nuo 1997-12-24 iki 1999-06-08
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -801,7 +801,11 @@ Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA
 
 9. Nutraukus bendrovės veiklą, likvidatoriai arba patikėtinis įteikia įmonių rejestro pareigūnui gautų įplaukų ir jų naudojimo apyskaitą ir bendrovės likvidavimo aktą.
 
-10. Likviduotos bendrovės dokumentai perduodami savivaldybei saugoti dešimtį metų. Buvę bendrovės nariai ir jų įpėdiniai turi teisę susipažinti su saugomais dokumentais ir gauti jų nuorašus.
+10. Likviduotos bendrovės ilgo ir laikino saugojimo dokumentai perduodami saugoti vietos savivaldos institucijai. Buvę bendrovės nariai ir jų įpėdiniai turi teisę susipažinti su saugomais dokumentais ir gauti jų nuorašus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-562, 1997-12-09, Žin., 1997, Nr. 117-3002 (1997-12-24), i. k. 0971010ISTAVIII-562
 
 11. Bendrovės likvidavimo procedūros trukmė – ne ilgiau kaip 6 mėnesiai nuo antrojo viešo skelbimo spaudoje apie bendrovės likvidavimą, neskaitant laiko, per kurį nagrinėjami turtiniai ginčai teisme.
 
@@ -922,4 +926,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-379, 1997-07-02, Žin., 1997, Nr. 69-1740 (1997-07-23), i. k. 0971010ISTAVIII-379
 
 Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 ir 33 straipsnių papildymo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-562, 1997-12-09, Žin., 1997, Nr. 117-3002 (1997-12-24), i. k. 0971010ISTAVIII-562
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 33 straipsnio pakeitimo įstatymas
 
