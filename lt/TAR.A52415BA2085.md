@@ -4,7 +4,7 @@ identifier: "TAR.A52415BA2085"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2003-05-01"
+last_updated: "2003-06-05"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085"
 department: "Lietuvos Respublikos Seimas"
@@ -3026,6 +3026,10 @@ netenka savo įgaliojimų. Jei banko bankroto byla yra nutraukiama, tai banko
 
 valdymo organai turi teisę toliau atlikti savo funkcijas;
 
+2
+
+punkto redakcija iki 2003 m. liepos 1 d.:
+
 2) uždraudžiamas visų
 
 finansinių prievolių, įskaitant palūkanas ir mokesčius, mokėjimas, išieškojimas
@@ -3035,6 +3039,24 @@ teismine ar ne ginčo tvarka, taip pat be atskiro teismo leidimo draudžiama
 dalyti ar kitaip skirstyti banko turtą, išskyrus išlaidas, reikalingas
 
 administratoriaus veiklai banko bankroto bylos nagrinėjimo metu užtikrinti;
+
+2
+
+punkto redakcija nuo 2003 m. liepos 1 d.:
+
+2) uždraudžiamas visų finansinių prievolių,
+
+įskaitant palūkanas ir mokesčius, mokėjimas, išieškojimas teismine ar ne ginčo
+
+tvarka, taip pat be atskiro teismo leidimo draudžiama dalyti ar kitaip
+
+skirstyti banko turtą, išskyrus išlaidas, reikalingas administratoriaus veiklai
+
+banko bankroto bylos nagrinėjimo metu užtikrinti. Šie draudimai netaikomi
+
+Atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose
+
+įstatymo nustatytais atvejais;
 
 3) sustabdomas palūkanų
 
@@ -3047,6 +3069,12 @@ pakeitimai:
 Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 
 60-2140 (2001-07-11)
+
+Nr.
+
+IX-1599,
+
+2003-06-05, Žin., 2003, Nr. 61-2756 (2003-06-27)
 
 47 straipsnis. Banko
 
@@ -3128,15 +3156,17 @@ daliai ir už kiekvieną prastovos valandą mokamas Vyriausybės patvirtintas
 
 minimalus valandinis atlygis.
 
-Bankas, kuriam iškelta bankroto
+Bankas, kuriam iškelta
 
-byla, atleidžiamas nuo žyminio mokesčio bylose dėl turto išieškojimo.
+bankroto byla, atleidžiamas nuo žyminio mokesčio bylose dėl turto išieškojimo.
 
 Iškėlus banko bankroto bylą
 
 ir dėl to sustabdžius bylas dėl kreditorių pinigų išieškojimo, kreditoriams
 
-(ieškovams) iš valstybės biudžeto lėšų grąžinamas jų sumokėtas žyminis mokestis.
+(ieškovams) iš valstybės biudžeto lėšų grąžinamas jų sumokėtas žyminis
+
+mokestis.
 
 Straipsnio
 
@@ -3416,7 +3446,7 @@ Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 
 Nr. IX-978,
 
-2002-06-20, Žin., 2002, Nr. 65-2638 (2002-06-28), įsigalioja nuo 2002-07-01
+2002-06-20, Žin., 2002, Nr. 65-2638 (2002-06-28)
 
 53(1) straipsnis. Atlyginimas įkaito turėtojui
 
@@ -3544,7 +3574,7 @@ VIII-1301,
 
 Nr. IX-722,
 
-2002-01-22, Žin., 2002, Nr. 13-476 (2002-02-06), įsigalioja nuo 2002-07-01
+2002-01-22, Žin., 2002, Nr. 13-476 (2002-02-06)
 
 Nr.
 
@@ -3604,7 +3634,9 @@ gali būti registruojamos nesušaukiant visuotinio akcininkų susirinkimo.
 
 teisės aktų pripažinimas netekusiais galios
 
-Pripažinti netekusiais galios:
+Pripažinti netekusiais
+
+galios:
 
 Lietuvos Respublikos
 
