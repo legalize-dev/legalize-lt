@@ -4,7 +4,7 @@ identifier: "TAR.B3CC2C0B9BD2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-21"
-last_updated: "2004-04-15"
+last_updated: "2004-04-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2004-04-15 iki 2004-04-29
+Suvestinė redakcija nuo 2004-04-30 iki 2009-12-27
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
 
@@ -90,7 +90,11 @@ BENDROSIOS NUOSTATOS
 
 17. Pabaseinis – upės baseino dalis, iš kurio paviršinis vanduo viena upe nuteka į kitą upę arba ežerą.
 
-18. Paviršinis vandens telkinys – identifikuota reikšminga vandens aplinkos dalis, esanti žemės paviršiuje, tai yra: upė ar jos dalis, kanalas, ežeras, tvenkinys, kūdra, rekultivuotas į vandens telkinį karjeras. Prie paviršinių vandens telkinių taip pat priskiriami tarpinių ir priekrantės vandenų plotai.
+18. Paviršinis vandens telkinys – identifikuota reikšminga vandens aplinkos dalis, esanti žemės paviršiuje, tai yra: upė ar jos dalis, kanalas, ežeras, tvenkinys, kūdra, rekultivuotas į vandens telkinį karjeras. Prie paviršinių vandens telkinių taip pat priskiriami tarpinių ir pakrantės vandenų plotai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
 
 19. Paviršinis vanduo – paviršiniuose vandens telkiniuose esantis vanduo.
 
@@ -102,7 +106,11 @@ BENDROSIOS NUOSTATOS
 
 23. Požeminis vanduo – požeminiuose vandens telkiniuose esantis vanduo.
 
-24. Priekrantės vandenys – Baltijos jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus ir teritorinius vandenis skiriančios linijos.
+24. Pakrantės vandenys – Baltijos jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus ir teritorinius vandenis skiriančios linijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
 
 25. Prioritetinės pavojingos medžiagos – pavojingos medžiagos, kurių kontrolei veiksmų būtina imtis pirmiausia ir kurių išleidimas ar kitoks patekimas į vandens telkinius turi būti laipsniškai nutrauktas. Prioritetinių pavojingų medžiagų sąrašą tvirtina aplinkos ministras.
 
@@ -116,7 +124,11 @@ BENDROSIOS NUOSTATOS
 
 30. Upės baseinas – žemės plotas, iš kurio paviršinis vanduo upėmis ir pratekamais ežerais nuteka į jūrą vienos upės žiotimis.
 
-31. Upių baseinų rajonas – šio Įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vieno ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais bei tarpiniais ir priekrančių vandenimis.
+31. Upių baseinų rajonas – šio Įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vieno ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais bei tarpiniais ir pakrančių vandenimis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
 
 32. Vandens kokybė – vandens savybių ir sudėties charakteristika, rodanti, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms vandens naudojimo sritims.
 
@@ -318,7 +330,11 @@ Vandens apsauga ir valdymas organizuojami upių baseinų rajonų pagrindu. Šiuo
 
 3. Jeigu požeminio vandens telkinio ribos nesutampa su tam tikro upės baseino ribomis, toks telkinys identifikuojamas ir priskiriamas prie artimiausio ir valdymo požiūriu tinkamesnio upių baseinų rajono.
 
-4. Priekrančių vandenys identifikuojami ir priskiriami artimiausiam arba valdymo požiūriu tinkamiausiam upių baseinų rajonui ar rajonams.
+4. Pakrančių vandenys identifikuojami ir priskiriami artimiausiam arba valdymo požiūriu tinkamiausiam upių baseinų rajonui ar rajonams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
 
 5. Jeigu dalis upės baseino ploto yra Lietuvos Respublikos teritorijoje, o kita jo dalis yra už jos ribų, tai upės baseinas priskiriamas prie tarpvalstybinio upių baseinų rajono. Tarpvalstybiniai upių baseinų rajonai sudaromi tarpvalstybinių susitarimų pagrindu.
 
