@@ -4,7 +4,7 @@ identifier: "TAR.07786E0929A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-18"
-last_updated: "1994-11-18"
+last_updated: "1997-12-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ X skirsnis įsigalioja pradėjus galioti Lietuvos Respublikos Vyriausybės ir Eu
 ---
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 1994-11-18 iki 1997-12-23
+Suvestinė redakcija nuo 1997-12-24 iki 1997-12-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
 
@@ -361,7 +361,11 @@ Licencinė sutartis sudaroma raštu. Žodinė sutartis negalioja.
 
 Sumokėjus mokestį, licencinė sutartis įrašoma į Lietuvos Respublikos patentų registrą ir įsigalioja nuo įrašymo datos.
 
-Licencinių sutarčių sudarymo ir pakeitimo tvarką nustato atskiras įstatymas.
+4. Neteko galios nuo 1997-12-24
+
+Straipsnio dalies naikinimas:
+
+Nr. VIII-565, 1997-12-09, Žin. 1997, Nr. 117-3005 (1997-12-24), i. k. 0971010ISTAVIII-565
 
 35 straipsnis. Licenciato teisės
 
@@ -648,4 +652,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-638, 1994-11-08, Žin., 1994, Nr. 89-1713 (1994-11-18), i. k. 0941010ISTA000I-638
 
 Dėl Lietuvos Respublikos patentų įstatymo pakeitimo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-565, 1997-12-09, Žin., 1997, Nr. 117-3005 (1997-12-24), i. k. 0971010ISTAVIII-565
+
+Lietuvos Respublikos patentų įstatymo 34 straipsnio pakeitimo įstatymas
 
