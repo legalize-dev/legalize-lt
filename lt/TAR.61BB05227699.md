@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "2003-07-01"
+last_updated: "2003-11-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -306,6 +306,8 @@ gautos Europos Sąjungos lėšos ir kaip vykdomos programos, kuriose dalyvauja
 
 Lietuva.
 
+[Iki 2004-01-01]
+
 2. Valstybės kontrolė turi teisę audituoti
 
 savivaldybių biudžetų vykdymą. Savivaldybių turto valdymą, naudojimą bei
@@ -313,6 +315,18 @@ savivaldybių biudžetų vykdymą. Savivaldybių turto valdymą, naudojimą bei
 disponavimą juo Valstybės kontrolė audituoja pagal valstybinio audito mastą,
 
 nustatytą Įstatymo 14 straipsnio 2 dalyje.
+
+[Nuo 2004-01-01]
+
+2. Valstybės
+
+kontrolė audituoja valstybės biudžeto lėšų, skiriamų  savivaldybių
+
+biudžetams, naudojimą. Savivaldybių turto valdymą, naudojimą bei
+
+disponavimą juo Valstybės kontrolė audituoja pagal valstybinio audito mastą,
+
+nustatytą šio Įstatymo 14 straipsnyje.
 
 3. Valstybės
 
@@ -336,6 +350,18 @@ Respublikoje gaunamos Europos Sąjungos finansinės paramos auditus ir teikia
 
 atitinkamoms institucijoms šių auditų dokumentus.
 
+[Nuo
+
+2004-01-01]
+
+5. Valstybės kontrolė rengia savivaldybių kontrolierių
+
+tarnyboms audito metodikas bei valstybės kontrolieriaus nustatyta tvarka
+
+atlieka savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos)
+
+atliekamo audito išorinę peržiūrą.
+
 Straipsnio pakeitimai:
 
 Nr.
@@ -343,6 +369,12 @@ Nr.
 IX-1666,
 
 2003-07-01, Žin., 2003, Nr. 73-3346 (2003-07-23)
+
+Nr.
+
+IX-1851,
+
+2003-11-25, Žin., 2003, Nr. 116-5257 (2003-12-12)
 
 10 straipsnis. Valstybės kontrolieriaus kompetencija
 
@@ -470,6 +502,10 @@ valstybinio audito reikalavimus.
 
 leidinyje „Valstybės žinios“.
 
+[Iki
+
+2004-01-01]
+
 14 straipsnis. Valstybinio audito mastas
 
 1. Finansinio audito
@@ -509,6 +545,10 @@ auditas.
 3. Seimas nutarimu gali pavesti Valstybės kontrolei
 
 atlikti valstybinį auditą pagal jos kompetenciją.
+
+[Nuo
+
+2004-01-01]
 
 15 straipsnis. Audituojamo subjekto teisės ir pareigos
 
@@ -594,13 +634,13 @@ pažeidimams pašalinti;
 
 2) siūlyti
 
-audituotų subjektų vadovams ar aukštesniųjų institucijų vadovams įstatymų nustatyta
+audituotų subjektų vadovams ar aukštesniųjų institucijų vadovams įstatymų
 
-tvarka patraukti materialinėn (civilinėn) atsakomybėn asmenis už padarytą žalą
+nustatyta tvarka patraukti materialinėn (civilinėn) atsakomybėn asmenis už
 
-valstybei ar savivaldybei, institucijai, įstaigai, įmonei, organizacijai ar
+padarytą žalą valstybei ar savivaldybei, institucijai, įstaigai, įmonei,
 
-kitam juridiniam asmeniui;
+organizacijai ar kitam juridiniam asmeniui;
 
 3) siūlyti
 
@@ -952,9 +992,9 @@ pareigūnų priesaikos tekstas
 
 Valstybės kontrolės pareigūnai prisiekia Lietuvos Respublikai šiais žodžiais:
 
-„Aš, (vardas, pavardė),
+„Aš, (vardas,
 
-prisiekiu būti ištikimas Lietuvos Respublikai; gerbti ir vykdyti jos
+pavardė), prisiekiu būti ištikimas Lietuvos Respublikai; gerbti ir vykdyti jos
 
 Konstituciją bei įstatymus; visomis išgalėmis stiprinti Lietuvos
 
@@ -1186,13 +1226,13 @@ kontrolės pareigūnai privalo: gerbti audituojamo subjekto teises ir teisėtus
 
 interesus; neskelbti atlikto audito duomenų ir viešai jų nevertinti, kol
 
-nepasirašyta audito ataskaita; saugoti valstybės ir tarnybos paslaptis;
+nepasirašyta audito ataskaita; saugoti valstybės ir tarnybos paslaptis; nesinaudoti
 
-nesinaudoti ir neleisti naudotis tarnybine ar su tarnyba susijusia riboto
+ir neleisti naudotis tarnybine ar su tarnyba susijusia riboto naudojimo
 
-naudojimo informacija kitokia tvarka ir mastu, nei nustato įstatymai ar kiti
+informacija kitokia tvarka ir mastu, nei nustato įstatymai ar kiti teisės
 
-teisės aktai.
+aktai.
 
 X SKYRIUS
 
@@ -1282,7 +1322,9 @@ stažą valstybės tarnyboje;
 
 susijusios su tarnyba Valstybės kontrolėje atliekant sudėtingus, didelius
 
-valstybinius auditus, ir kitos Valstybės tarnybos įstatymo nustatytos priemokos.
+valstybinius auditus, ir kitos Valstybės tarnybos įstatymo nustatytos
+
+priemokos.
 
 41 straipsnis.
 
@@ -1398,7 +1440,9 @@ KONTROLĖS ĮSTATYMO 55 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
 3.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. VIII-692, 98.04.07,
 
@@ -1444,13 +1488,13 @@ Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 
 VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO, KONSTITUCINIO TEISMO
 
-ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, PROKURATŪROS
+ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO,
 
-ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ
+PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE STATUTO,
 
-LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTATYMO
+MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 7.
 
@@ -1504,15 +1548,33 @@ VALSTYBĖS
 
 KONTROLĖS ĮSTATYMO 9 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1851,
+
+2003-11-25, Žin., 2003, Nr. 116-5257 (2003-12-12)
+
+VALSTYBĖS
+
+KONTROLĖS ĮSTATYMO 9 IR 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Įstatymas
+
+įsigalioja nuo 2004-01-01.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-08-04)
+Aušra Bodin (2003-12-12)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
 46 straipsnis.
 
