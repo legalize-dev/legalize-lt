@@ -4,7 +4,7 @@ identifier: "TAR.E79004684F4D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-28"
-last_updated: "2000-10-04"
+last_updated: "2001-05-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D"
 department: "Lietuvos Respublikos Seimas"
@@ -669,53 +669,59 @@ pat sprendžia bendrus visoms zonoms steigimo, valdymo ir veiklos klausimus.
 
 IV SKYRIUS.
 
-MOKESČIŲ, MUITŲ, VALIUTINĖS IR FINANSINĖS
+MOKESČIŲ, MUITŲ, VALSTYBĖS RINKLIAVOS, KITŲ ĮMOKŲ,
 
-SĄLYGOS
+VALIUTINĖS IR
 
-LAISVOJOJE EKONOMINĖJE ZONOJE
+FINANSINĖS SĄLYGOS LAISVOJOJE EKONOMINĖJE ZONOJE
 
-15 straipsnis. Mokesčiai
+Pakeistas IV skyriaus pavadinimas:
 
-zonoje
+Nr. IX-285, 2001 04 19, Žin., 2001, Nr.
 
-1. Zonoje įregistruotos
+39-1355 (2001 05 09)
 
-įmonės ir jų darbuotojai moka tik šiuos mokesčius:
+15 straipsnis.
 
-juridinių asmenų pelno
+Mokesčiai, valstybės rinkliava ir kitos įmokos zonoje
+
+1.
+
+Zonoje įregistruotos įmonės ir jų darbuotojai Lietuvos
+
+Respublikos įstatymų nustatyta tvarka moka valstybės rinkliavą ir tik
+
+šiuos mokesčius bei įmokas:
+
+1) juridinių
+
+asmenų pelno mokestį;
+
+2) fizinių
+
+asmenų pajamų mokestį;
+
+3) žemės nuomos
 
 mokestį;
 
-fizinių asmenų pajamų
+4) mokestį už
 
-mokestį;
+aplinkos teršimą ir gamtos išteklius;
 
-žemės nuomos mokestį;
+5) valstybinio
 
-mokestį už aplinkos teršimą
+privalomojo socialinio draudimo įmokas.
 
-ir gamtos išteklius;
+2. Zonos valdymo
 
-valstybinio privalomo
+bendrovė už nuomojamą valstybinę žemę moka lengvatinį - 50 procentų mažesnį
 
-socialinio draudimo įmokas;
+žemės nuomos mokestį. Zonos valdymo bendrovės ir zonos įmonių privatus
 
-žyminį mokestį.
+kapitalas, investuotas į zonos infrastruktūrą, į žemės vertę, nustatant jos
 
-Šie mokesčiai mokami
-
-Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-2. Zonos valdymo bendrovė už
-
-nuomojamą valstybinę žemę moka lengvatinį - 50 procentų mažesnį žemės nuomos
-
-mokestį. Zonos valdymo bendrovės ir zonos įmonių privatus kapitalas,
-
-investuotas į zonos infrastruktūrą, į žemės vertę, nustatant jos nuomos
-
-mokestį, neįskaičiuojamas.
+nuomos mokestį, neįskaičiuojamas.
 
 3. Zonos įmonė 5 metus nuo
 
@@ -725,15 +731,17 @@ metus moka 50 procentų mažesnį pelno (pajamų) mokestį.
 
 4. Jeigu užsienio
 
-investuotojas (investuotojai) įsigijo ne mažiau kaip 30 procentų zonoje įregistruotos
+investuotojas (investuotojai) įsigijo ne mažiau kaip 30 procentų zonoje
 
-ir zonoje veikiančios įmonės įstatinio (nuosavo) kapitalo ir investavo ne
+įregistruotos ir zonoje veikiančios įmonės įstatinio (nuosavo) kapitalo ir
 
-mažiau kaip vieno milijono JAV dolerių vertės užsienio kilmės kapitalą, tai
+investavo ne mažiau kaip vieno milijono JAV dolerių vertės užsienio kilmės
 
-tokia įmonė 5 metus nuo įregistravimo dienos nemoka pelno (pajamų) mokesčio.
+kapitalą, tai tokia įmonė 5 metus nuo įregistravimo dienos nemoka pelno
 
-Kitus 10 metų ši įmonė moka 50 procentų mažesnį pelno (pajamų) mokestį.
+(pajamų) mokesčio. Kitus 10 metų ši įmonė moka 50 procentų mažesnį pelno
+
+(pajamų) mokestį.
 
 Įmonė, norinti įgyvendinti
 
@@ -787,19 +795,23 @@ Nr. VIII-1917, 00.09.12, Žin., 2000,
 
 Nr.83-2509 (00.10.04)
 
+Nr. IX-285, 2001 04 19, Žin., 2001, Nr.
+
+39-1355 (2001 05 09)
+
 16 straipsnis. Muitų
 
 lengvatos ir muitinės priežiūros ypatumai
 
-1. Išvežant prekes iš Lietuvos
+1. Išvežant prekes iš
 
-Respublikos muitų teritorijos į zoną, taikomi Lietuvos Respublikos įstatymai
+Lietuvos Respublikos muitų teritorijos į zoną, taikomi Lietuvos Respublikos
 
-bei kiti teisės aktai, reglamentuojantys prekių išvežimą į užsienį, taip pat už
+įstatymai bei kiti teisės aktai, reglamentuojantys prekių išvežimą į užsienį, taip
 
-prekes nustatyti eksporto muitai ir mokesčiai bei kiti ekonominio pobūdžio
+pat už prekes nustatyti eksporto muitai ir mokesčiai bei kiti ekonominio
 
-draudimai ir apribojimai.
+pobūdžio draudimai ir apribojimai.
 
 Įvežant prekes iš zonos į
 
@@ -1009,9 +1021,9 @@ Lietuvos Respublikos
 
 teisėsaugos institucijos zonoje veikia pagal savo kompetenciją Lietuvos
 
-Respublikos įstatymų nustatyta tvarka. Zonos valdymo bendrovė sudaro šių institucijų
+Respublikos įstatymų nustatyta tvarka. Zonos valdymo bendrovė sudaro šių
 
-darbui būtinas sąlygas.
+institucijų darbui būtinas sąlygas.
 
 24 straipsnis. Priežiūros
 
@@ -1025,9 +1037,9 @@ valstybės inspekcijų funkcijas vykdo Lietuvos Respublikos valstybinės
 
 priežiūros inspekcijos arba zonos valdymo bendrovės sudarytos vietinės
 
-inspekcijos, kurioms įgaliojimus išduoda atitinkama Lietuvos Respublikos
+inspekcijos, kurioms įgaliojimus išduoda atitinkama Lietuvos Respublikos valstybinė
 
-valstybinė inspekcija.
+inspekcija.
 
 25 straipsnis. Partijų ir
 
@@ -1047,11 +1059,11 @@ atvykimo į zoną tvarka
 
 1. Užsienio šalių piliečiai
 
-ir asmenys be pilietybės, nuolat gyvenantys užsienyje, jeigu nori atvykti į zoną,
+ir asmenys be pilietybės, nuolat gyvenantys užsienyje, jeigu nori atvykti į
 
-turi gauti zonos valdymo bendrovės iškvietimą ir į zoną atvyksta gavę Lietuvos
+zoną, turi gauti zonos valdymo bendrovės iškvietimą ir į zoną atvyksta gavę
 
-Respublikos vizą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Lietuvos Respublikos vizą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 2. Užsienio šalių piliečiai
 
@@ -1089,11 +1101,11 @@ Lietuvos Respublikos Vyriausybė.
 
 5. Užsienio valstybių
 
-piliečiai ar asmenys be pilietybės į zoną dirbti įmonių vadovais ar zonos valdymo
+piliečiai ar asmenys be pilietybės į zoną dirbti įmonių vadovais ar zonos
 
-bendrovės nariais ar ekspertais atvyksta zonos valdymo bendrovės kvietimu ir
+valdymo bendrovės nariais ar ekspertais atvyksta zonos valdymo bendrovės
 
-jiems netaikomi šio straipsnio 1, 2, 3 ir 4 dalių reikalavimai.
+kvietimu ir jiems netaikomi šio straipsnio 1, 2, 3 ir 4 dalių reikalavimai.
 
 6. Atvykę į zoną asmenys per
 
@@ -1103,9 +1115,9 @@ tvarka. Jeigu į zoną atvykęs asmuo per šį laiką neužsiregistruoja, jam ta
 
 Lietuvos Respublikos įstatymų numatytos sankcijos.
 
-7. Zonos įmonės ar zonos
+7. Zonos įmonės ar zonos valdymo
 
-valdymo bendrovė, zonoje įdarbinusios užsieniečius, per 3 dienas apie tai raštu
+bendrovė, zonoje įdarbinusios užsieniečius, per 3 dienas apie tai raštu
 
 informuoja miesto ar rajono policijos komisariato migracijos tarnybą.
 
@@ -1123,15 +1135,15 @@ patikrinimo režimas.
 
 9. Lietuvos Respublikos
 
-piliečiai ir kiti asmenys įleidžiami į zoną pateikę zonos valdymo bendrovės nustatyta
+piliečiai ir kiti asmenys įleidžiami į zoną pateikę zonos valdymo bendrovės
 
-tvarka išduotus nustatyto pavyzdžio leidimus.
+nustatyta tvarka išduotus nustatyto pavyzdžio leidimus.
 
 Asmenys, patekę į zoną
 
-pažeisdami nustatytą tvarką, traukiami atsakomybėn Lietuvos Respublikos
+pažeisdami nustatytą tvarką, traukiami atsakomybėn Lietuvos Respublikos įstatymų
 
-įstatymų nustatyta tvarka.
+nustatyta tvarka.
 
 VIII SKYRIUS.
 
@@ -1355,9 +1367,9 @@ Nr.98-2814 (99.11.19)
 
 LIETUVOS
 
-RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 8 STRAIPSNIO
+RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ
 
-PAKEITIMO ĮSTATYMAS
+PAGRINDŲ ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 5.
 
@@ -1371,7 +1383,23 @@ LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 15, 17
 
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-285, 2001 04 19, Žin., 2001, Nr.
+
+39-1355 (2001 05 09)
+
+LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO IV SKYRIAUS
+
+PAVADINIMO IR
+
+15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.10.04)
+Redagavo: Aušrinė Trapinskienė (2001 05 15)
+
+autrap@lrs.lt
 
