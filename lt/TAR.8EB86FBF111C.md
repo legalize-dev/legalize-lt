@@ -4,7 +4,7 @@ identifier: "TAR.8EB86FBF111C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2000-07-31"
+last_updated: "2000-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8EB86FBF111C"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2000-07-17"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas
+
+Suvestinė redakcija nuo 2000-11-01 iki 2010-05-30
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 64-1927; Žin. 2000, Nr.86-0; Žin. 2002, Nr.103-0, i. k. 1001010ISTAIII-1856
 
 LIETUVOS RESPUBLIKOS
 
@@ -45,7 +49,11 @@ priima šį įstatymą.
 
 1. Agresija – ginkluotos jėgos panaudojimas ar grasinimas panaudoti ją prieš Lietuvos Respublikos suverenitetą, teritorijos vientisumą ar politinę nepriklausomybę.
 
-2. Ginkluotosios pajėgos – Lietuvos kariuomenė ir ginkluotos gynybos nuo agresijos metu priskirtos kitos ginkluotosios pajėgos: pasienio policija bei kiti specializuoti policijos daliniai, koviniai Lietuvos šaulių sąjungos būriai, taip pat kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadovybei.
+2. Ginkluotosios pajėgos – Lietuvos kariuomenė ir ginkluotos gynybos nuo agresijos metu priskirtos kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba, specializuoti policijos daliniai, koviniai Lietuvos šaulių sąjungos būriai, taip pat kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadovybei.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-2001, 2000-10-10, Žin., 2000, Nr. 92-2853 (2000-10-31), i. k. 1001010ISTAIII-2001
 
 3. Užsienio valstybės ginkluotosios pajėgos – užsienio valstybės organizuotos ginkluotosios pajėgos, grupės ir daliniai (kariniai vienetai), kuriems vadovauja asmuo, atsakingas šiai valstybei už savo pavaldinių veiksmus.
 
@@ -89,7 +97,11 @@ Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai teisinius p
 
 3. Agresijos aktais taip pat laikomi šio straipsnio 2 dalyje neišvardyti užsienio valstybių veiksmai, keliantys rimtą grėsmę Lietuvos Respublikos suverenitetui, teritorijos vientisumui ar politinei nepriklausomybei, taip pat aktai, kuriuos Jungtinių Tautų Organizacijos Saugumo Taryba pripažino agresija pagal Jungtinių Tautų Organizacijos Įstatus.
 
-4. Agresija nelaikomas Lietuvos Respublikos ginkluotųjų pajėgų, esančių užsienyje, užpuolimas, nekeliantis rimtos grėsmės Lietuvos Respublikos suverenitetui, teritorijos vientisumui ar politinei nepriklausomybei. Agresija taip pat nelaikomi vietinio pobūdžio ginkluoti incidentai ir valstybės sienos pažeidimai, pagal savo pobūdį neprilygstantys šio straipsnio 2 dalyje išvardytiems agresijos aktams. Pasienio policijos ir kariuomenės reagavimo į šiuos incidentus bei pažeidimus tvarką nustato kiti teisės aktai.
+4. Agresija nelaikomas Lietuvos Respublikos ginkluotųjų pajėgų, esančių užsienyje, užpuolimas, nekeliantis rimtos grėsmės Lietuvos Respublikos suverenitetui, teritorijos vientisumui ar politinei nepriklausomybei. Agresija taip pat nelaikomi vietinio pobūdžio ginkluoti incidentai ir valstybės sienos pažeidimai, pagal savo pobūdį neprilygstantys šio straipsnio 2 dalyje išvardytiems agresijos aktams. Valstybės sienos apsaugos tarnybos ir kariuomenės reagavimo į šiuos incidentus bei pažeidimus tvarką nustato kiti teisės aktai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-2001, 2000-10-10, Žin., 2000, Nr. 92-2853 (2000-10-31), i. k. 1001010ISTAIII-2001
 
 6 straipsnis.         Ginkluotos gynybos ir pasipriešinimo agresijai privalomumas, visuotinumas ir besąlygiškumas
 
@@ -164,4 +176,14 @@ Vadovaudamasi valstybių atsakomybę reglamentuojančiomis visuotinai pripažint
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-2001, 2000-10-10, Žin., 2000, Nr. 92-2853 (2000-10-31), i. k. 1001010ISTAIII-2001
+
+Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo 2 ir 5 straipsnių pakeitimo įstatymas
 
