@@ -4,7 +4,7 @@ identifier: "TAR.2CCC6F1CC7CE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "1994-07-20"
+last_updated: "1994-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CCC6F1CC7CE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
 
-Suvestinė redakcija nuo 1994-07-20 iki 1994-12-30
+Suvestinė redakcija nuo 1994-12-31 iki 1995-07-25
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 62-1169, i. k. 0931010ISTA000I-300
 
@@ -37,9 +37,11 @@ Pakeisti ir papildyti kai kuriuos Lietuvos Respublikos įstatymus, reglamentuoja
 
 „3 straipsnis. Valstybinė mokesčių inspekcija turi tikrinti, ar ūkiniai subjektai nepažeidžia šio įstatymo, ir teikti įmonių rejestro tvarkytojams pasiūlymus dėl įregistravimo atšaukimo.“
 
-2. Lietuvos Respublikos valstybinių įmonių įstatymo (Žin., 1990, Nr. 30-709; 1993, Nr. 31-710) 5 straipsnio pirmosios dalies 3 punktą išdėstyti taip:
+2. Neteko galios nuo 1994-12-31
 
-„3) sudaryti sutartis dėl paskolų suteikimo (tik iš nuosavo kapitalo lėšų) arba jų gavimo ir palūkanų už jas dydžio;“.
+Straipsnio dalies naikinimas:
+
+Nr. I-722, 1994-12-21, Žin. 1994, Nr. 102-2049 (1994-12-31), i. k. 0941010ISTA000I-722
 
 3. Neteko galios nuo 1994-07-20
 
@@ -86,4 +88,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-528, 1994-07-05, Žin., 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA000I-528
 
 Lietuvos Respublikos akcinių bendrovių įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-722, 1994-12-21, Žin., 1994, Nr. 102-2049 (1994-12-31), i. k. 0941010ISTA000I-722
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
