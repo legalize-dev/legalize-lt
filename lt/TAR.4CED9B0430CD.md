@@ -4,7 +4,7 @@ identifier: "TAR.4CED9B0430CD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-03-17"
-last_updated: "1994-03-31"
+last_updated: "1999-11-11"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4CED9B0430CD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,1051 +18,655 @@ entry_into_force_conditions: "Išskyrus šio įstatymo 8 straipsnio antrąją ir
 
 Redaguota:1994
 
-Redaguota:1994.05.09.
+Redagavo: Ramunė Lūžaitė (1999.12.03)
+
+Įstatymas paskelbtas: Žin., 1992, Nr.12-307
+
+Neoficialus įstatymo tekstas
 
 Pakeitimai:
 
-1. Nr.1-208;
+1.
 
-1993.07.08; Žin., 1993, Nr.29-668;
+Lietuvos Respublikos Seimas,
 
-2. Nr.1-418;
+Įstatymas
 
-1994.03.31.; Žin., 1994, Nr.29-512;
+Nr.I-208; 1993.07.08; Žin., 1993, Nr.29-668;
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr.I-418; 1994.03.31.; Žin., 1994, Nr.29-512;
+
+3.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-1406, 99.11.11, Žin.,
+
+1999, Nr.102-2920 (99.12.01)
 
 LIETUVOS RESPUBLIKOS
 
-KOLEKTYVINIŲ GINČŲ REGULIAVIMO ĮSTATYMAS
+KOLEKTYVINIŲ GINČŲ REGULIAVIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO IR PAPILDYMO BEI
 
-I
+PAPILDYMO 16(1 )STRAIPSNIU ĮSTATYMAS
 
-SKIRSNIS. BENDRIEJI NUOSTATAI
+*** Pabaiga***
 
-1 straipsnis.
+LIETUVOS RESPUBLIKOS
 
-Kolektyvinis ginčas
+KOLEKTYVINIŲ GINČŲ
 
-Kolektyviniais    ginčais    laikomi    įmonės,    įstaigos,
+REGULIAVIMO ĮSTATYMAS
 
-organizacijos
+I SKIRSNIS. BENDRIEJI
 
-(toliau  - įmonė)  profesinės sąjungos ir darbdavio
+NUOSTATAI
 
-ar teisę   sudaryti
+1 straipsnis. Pagrindinės šio įstatymo
 
-kolektyvinius  susitarimus  turinčių subjektų
+sąvokos
 
-(toliau   -
+Kolektyviniai ginčai - įmonės,
 
-subjektai)   nesutarimai,   atsiradę   nepatenkinus
+įstaigos, organizacijos (toliau - įmonė) profesinės sąjungos ir darbdavio ar
 
-profesinių sąjungų
+teisę sudaryti kolektyvinius susitarimus turinčių subjektų (toliau - subjektai)
 
-reikalavimų, iškeltų, įformintų ir įteiktų šio
+nesutarimai, atsiradę nepatenkinus profesinių sąjungų reikalavimų, iškeltų,
 
-įstatymo nustatyta
+įformintų ir įteiktų šio įstatymo nustatyta tvarka.
 
-tvarka.
+Streikas - vienos įmonės ar kelių
 
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
+įmonių darbuotojų ar jų grupių laikinas darbo nutraukimas, kai kolektyvinis
 
-512;
+ginčas neišspręstas arba darbuotojus tenkinantis taikinimo komisijos, Darbo
 
-2 straipsnis.
+arbitražo ar Trečiųjų teismo sprendimas nevykdomas.
 
-Reikalavimų iškėlimo subjektai
+Straipsnio pakeitimai:
 
-Reikalavimus
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-kolektyvinės    sutarties   ar   kolektyvinio
+Nr. VIII-1406, 99.11.11, Žin.,
 
-susitarimo
+1999, Nr.102-2920 (99.12.01)
 
-subjektams turi teisę iškelti įmonės profesinė sąjunga
+2 straipsnis. Reikalavimų iškėlimo
 
-arba  profesinių
+subjektai
 
-sąjungų  jungtinė  atstovybė,  arba  profesinių
+Reikalavimus   kolektyvinės
 
-sąjungų
+sutarties   ar   kolektyvinio susitarimo subjektams turi teisę iškelti įmonės
 
-susivienijimas (toliau - profesinė sąjunga).
+profesinė sąjunga arba  profesinių  sąjungų  jungtinė  atstovybė,  arba
 
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
+profesinių sąjungų susivienijimas (toliau - profesinė sąjunga).
 
-512;
+Straipsnio pakeitimai:
 
-3 straipsnis.
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-Reikalavimų iškėlimo tvarka ir įforminimas ir
+3 straipsnis.  Reikalavimų iškėlimo
 
-įteikimas
+tvarka ir įforminimas ir įteikimas
 
-Profesinių
+Profesinių  sąjungų   reikalavimai
 
-sąjungų   reikalavimai  iškeliami  jų  įstatuose
+iškeliami  jų  įstatuose (statute) nustatyta tvarka.
 
-(statute) nustatyta
+Reikalavimai  turi   būti
 
-tvarka.
+tiksliai   apibrėžti   motyvuoti, išdėstyti raštu  ir įteikti darbdaviui ar
 
-Reikalavimai
+kolektyvinio susitarimo subjektui.
 
-turi   būti  tiksliai   apibrėžti   motyvuoti,
+Straipsnio pakeitimai:
 
-išdėstyti raštu  ir
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-įteikti darbdaviui ar kolektyvinio susitarimo
+4 straipsnis. Reikalavimų
 
-subjektui.
+nagrinėjimas
 
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
+Darbdavys  ar   kolektyvinio
 
-512;
+susitarimo   subjektas,  gavęs reikalavimus, privalo  juos išnagrinėti  ir
 
-4 straipsnis.
+apie  savo  sprendimą pranešti reikalavimus  įteikusiai profesinei sąjungai
 
-Reikalavimų nagrinėjimas
+raštu per 7 kalendorines dienas nuo jų gavimo dienos.
 
-Darbdavys  ar
+Jeigu darbdavio  ar kito
 
-kolektyvinio  susitarimo   subjektas,  gavęs
+reikalavimus nagrinėjusio subjekto sprendimas   nepatenkino   reikalavimus
 
-reikalavimus,
+iškėlusios   profesinės sąjungos, kolektyvinis  ginčas   nagrinėjamas   šio
 
-privalo  juos išnagrinėti  ir apie  savo  sprendimą
+įstatymo  II skirsnyje nustatyta tvarka.
 
-pranešti
+Straipsnio pakeitimai:
 
-reikalavimus  įteikusiai profesinei sąjungai raštu per 7
+Nr.I-418;  199.03.31.; Žin.,  1994,  Nr.29-512;
 
-kalendorines dienas
+5 straipsnis. Kolektyvinius darbo
 
-nuo jų gavimo dienos.
+ginčus nagrinėjantys organai
 
-Jeigu
+Kolektyvinius darbo ginčus
 
-darbdavio  ar kito  reikalavimus nagrinėjusio subjekto
+nagrinėja:
+
+1) taikinimo komisija;
+
+2) Darbo arbitražas;
+
+3) Trečiųjų teismas.
+
+Straipsnio pakeitimai:
+
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
+
+II SKIRSNIS. KOLEKTYVINIŲ
+
+GINČŲ TAIKINIMO PROCEDŪRA
+
+6 straipsnis. Taikinimo komisijos
+
+sudarymas
+
+Taikinimo komisija  sudaroma iš
+
+reikalavimus  įteikusių  ir gavusių  subjektų  įgaliotų  atstovų.  Komisijos
+
+narių  skaičius nustatomas, remiantis šalių susitarimu. Ji turi būti sudaryta
+
+per 7 kalendorines dienas nuo reikalavimų įteikimo.
+
+Šalims nesutarus  dėl taikinimo
+
+komisijos narių  skaičiaus, jos savo  nuožiūra deleguoja  į taikinimo komisiją
+
+savo atstovus, kurių iš kiekvienos pusės negali būti daugiau kaip penki.
+
+Komisija iš narių išrenka
+
+pirmininkaujantį ir sekretorių.
+
+To paties   posėdžio pirmininku  ir
+
+sekretoriumi negali būti vienos šalies atstovai.
+
+Straipsnio pakeitimai:
+
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
+
+7 straipsnis. Kolektyvinio ginčo
+
+nagrinėjimas taikinimo komisijoje
+
+Kolektyvinį ginčą  taikinimo
+
+komisija turi išnagrinėti per 7 kalendorines dienas  nuo  taikinimo  komisijos
+
+sudarymo.  Šalims susitarus, šis terminas gali būti pratęstas.
+
+Šalių  atstovai  į  komisijos
+
+posėdį  kolektyviniam  ginčui nagrinėti  turi   teisę  pakviesti
+
+specialistus  (konsultantus, ekspertus ir pan.).
+
+8 straipsnis. Taikinimo komisijos
 
 sprendimas
 
-nepatenkino   reikalavimus   iškėlusios   profesinės
+Taikinimo komisijos  sprendimas
 
-sąjungos,
+priimamas  šalims susitarus, įforminamas  surašant  protokolą  ir  yra  šalims
 
-kolektyvinis  ginčas   nagrinėjamas   šio  įstatymo  II
+privalomas  ir vykdomas sprendime nustatytais terminais bei tvarka.
 
-skirsnyje nustatyta
+Jeigu taikinimo  komisijoje dėl
 
-tvarka.
+visų ar  dalies reikalavimų susitarti nepavyksta, komisija jų nagrinėjimą gali
 
-Pakeitimai: Nr.1-418;  199.03.31.; Žin.,  1994,  Nr.29-
+perduoti darbo arbitražui, trečiųjų  teismui arba  gali būti numatyta kita
 
-512;
+ginčo nagrinėjimo tvarka,  arba užbaigti  taikinimo procedūrą protokolo dėl
 
-5 straipsnis.
-
-Kolektyvinius darbo ginčus nagrinėjantys
-
-organai
-
-Kolektyvinius
-
-darbo ginčus nagrinėja:
-
-1) taikinimo
-
-komisija;
-
-2) Darbo
-
-arbitražas;
-
-3) Trečiųjų
-
-teismas.
-
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
-
-512;
-
-II
-
-SKIRSNIS. KOLEKTYVINIŲ GINČŲ TAIKINIMO
-
-PROCEDŪRA
-
-6 straipsnis.
-
-Taikinimo komisijos sudarymas
-
-Taikinimo
-
-komisija  sudaroma iš  reikalavimus  įteikusių  ir
-
-gavusių  subjektų
-
-įgaliotų  atstovų.  Komisijos  narių  skaičius
-
-nustatomas,
-
-remiantis šalių susitarimu. Ji turi būti sudaryta per
-
-7 kalendorines
-
-dienas nuo reikalavimų įteikimo.
-
-Šalims
-
-nesutarus  dėl taikinimo  komisijos narių  skaičiaus,
-
-jos savo  nuožiūra
-
-deleguoja  į taikinimo komisiją savo atstovus,
-
-kurių iš kiekvienos
-
-pusės negali būti daugiau kaip penki.
-
-Komisija iš
-
-narių išrenka pirmininkaujantį ir sekretorių.
-
-To paties
-
-posėdžio pirmininku  ir sekretoriumi negali būti
-
-vienos šalies
-
-atstovai.
-
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
-
-512;
-
-7 straipsnis.
-
-Kolektyvinio ginčo nagrinėjimas taikinimo
-
-komisijoje
-
-Kolektyvinį
-
-ginčą  taikinimo komisija turi išnagrinėti per 7
-
-kalendorines dienas
-
-nuo  taikinimo  komisijos  sudarymo.  Šalims
-
-susitarus, šis
-
-terminas gali būti pratęstas.
-
-Šalių
-
-atstovai  į  komisijos  posėdį  kolektyviniam  ginčui
-
-nagrinėti  turi
-
-teisę  pakviesti   specialistus  (konsultantus,
-
-ekspertus ir pan.).
-
-8 straipsnis.
+nesutarimų surašymu.
 
 Taikinimo komisijos sprendimas
 
-Taikinimo
+pranešamas     darbuotojų kolektyvui per  jo  įgaliotinius  ar  per  vietinės
 
-komisijos  sprendimas priimamas  šalims susitarus,
+informacijos priemones.
 
-įforminamas
+Darbo arbitražo, Trečiųjų teismo
 
-surašant  protokolą  ir  yra  šalims  privalomas  ir
+nuostatus tvirtina Lietuvos Respublikos Vyriausybė.  Darbo arbitražas,
 
-vykdomas sprendime
+Trečiųjų teismas turi išnagrinėti jiems  perduotą kolektyvinį  ginčą per 7
 
-nustatytais terminais bei tvarka.
+kalendorines dienas.
 
-Jeigu
+III SKIRSNIS. KOLEKTYVINIO
 
-taikinimo  komisijoje dėl  visų ar  dalies reikalavimų
-
-susitarti
-
-nepavyksta, komisija jų nagrinėjimą gali perduoti darbo
-
-arbitražui,
-
-trečiųjų  teismui arba  gali būti numatyta kita ginčo
-
-nagrinėjimo tvarka,
-
-arba užbaigti  taikinimo procedūrą protokolo
-
-dėl nesutarimų
-
-surašymu.
-
-Taikinimo
-
-komisijos sprendimas     pranešamas     darbuotojų
-
-kolektyvui per  jo
-
-įgaliotinius  ar  per  vietinės  informacijos
-
-priemones.
-
-Darbo arbitražo,
-
-Trečiųjų teismo nuostatus tvirtina Lietuvos
-
-Respublikos
-
-Vyriausybė.  Darbo arbitražas,  Trečiųjų teismas turi
-
-išnagrinėti jiems
-
-perduotą kolektyvinį  ginčą per 7 kalendorines
-
-dienas.
-
-III
-
-SKIRSNIS. KOLEKTYVINIO GINČO REGULIAVIMAS
+GINČO REGULIAVIMAS
 
 STREIKUOJANT
 
-9 straipsnis.
+9 straipsnis. Streikas
 
-Streikas
+Jeigu kolektyvinis   ginčas
 
-Jeigu
+nesureguliuotas šio įstatymo  II skirsnyje nustatyta  tvarka arba  jeigu
 
-kolektyvinis   ginčas nesureguliuotas šio įstatymo  II
+darbdavys ar kolektyvinio susitarimo subjektas nevykdo taikinimo komisijos,
 
-skirsnyje nustatyta
+Darbo arbitražo ar Trečiųjų  teismo sprendimų,  gali būti skelbiamas streikas
 
-tvarka arba  jeigu darbdavys ar kolektyvinio
+šio įstatymo 10 straipsnyje nustatyta tvarka.
 
-susitarimo subjektas
+Straipsnio pakeitimai:
 
-nevykdo taikinimo komisijos, Darbo arbitražo
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-ar Trečiųjų  teismo
+10 straipsnis. Streiko paskelbimas
 
-sprendimų,  gali būti skelbiamas streikas šio
+Priimti sprendimą  skelbti streiką
 
-įstatymo 10
+(taip pat ir įspėjamąjį) turi teisę  profesinė sąjunga  jos įstatuose
 
-straipsnyje nustatyta tvarka.
+(statute) nustatyta tvarka.  Streikas   skelbiamas,  jeigu   šiam  sprendimui
 
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
+slaptu balsavimu pritarė:
 
-512;
+1) skelbti streiką įmonėje - du
 
-10 straipsnis.
+trečdaliai jos darbuotojų;
 
-Streiko paskelbimas
+2) skelbti  streiką įmonės
 
-Priimti sprendimą
+struktūriniame padalinyje  -  du trečdaliai to  padalinio darbuotojų  ir
 
-skelbti streiką  (taip pat ir įspėjamąjį)
+daugiau  kaip  pusė  visų įmonės darbuotojų.
 
-turi teisę
+Apie būsimo  streiko pradžią
 
-profesinė sąjunga  jos įstatuose  (statute) nustatyta
+darbdavys  turi  būti  įspėtas raštu ne  vėliau kaip prieš 7 kalendorines
 
-tvarka.  Streikas
+dienas pasiunčiant jam šiame straipsnyje  nustatyta tvarka  priimtą sprendimą.
 
-skelbiamas,  jeigu   šiam  sprendimui  slaptu
+Skelbiant streiką  galima   kelti  tik   tuos  reikalavimus,  kurie  nebuvo
 
-balsavimu pritarė:
+sureguliuoti taikinamosios procedūros metu.
 
-1) skelbti
+Prieš streiką gali būti
 
-streiką įmonėje - du trečdaliai jos darbuotojų;
+organizuojamas įspėjamasis (ribotas) streikas, kuris  negali trukti  ilgiau
 
-2) skelbti
+kaip  2 valandas.  Apie šį streiką darbdavys  turi būti  įspėtas ne  vėliau
 
-streiką įmonės  struktūriniame padalinyje  -  du
+kaip  prieš  24 valandas.
 
-trečdaliai to
+Priėmus  sprendimą   dėl  streiko
 
-padalinio darbuotojų  ir daugiau  kaip  pusė  visų
+(taip  pat   įspėjamojo) geležinkelių  ir   miesto  visuomeninio
 
-įmonės darbuotojų.
+transporto,   civilinės aviacijos,  ryšių,   energetikos  (išskyrus   elektros
 
-Apie būsimo
+energijos įmones), medicinos  ir farmacijos, maisto, vandens, kanalizacijos ir
 
-streiko pradžią  darbdavys  turi  būti  įspėtas
+atliekų   išvežimo,  naftos   perdirbimo,  nepertraukiamosios gamybos ir
 
-raštu ne  vėliau
+kitose įmonėse, kurių sustabdymas susijęs su sunkiais ir pavojingais
 
-kaip prieš 7 kalendorines dienas pasiunčiant jam
+padariniais visuomenei  arba  žmonių  gyvybei  ar sveikatai, apie  jo pradžią
 
-šiame straipsnyje
+darbdavys turi būti įspėtas raštu ne vėliau kaip prieš 21 kalendorinę dieną.
 
-nustatyta tvarka  priimtą sprendimą. Skelbiant
+Streiką draudžiama  skelbti vidaus
 
-streiką  galima
+reikalų, krašto apsaugos ir  krašto   saugumo  sistemose,  taip  pat  elektros
 
-kelti  tik   tuos  reikalavimus,  kurie  nebuvo
+energijos, centralizuoto  šilumos   tiekimo   ir   dujų   tiekimo   įmonėse,
 
-sureguliuoti
+neatidėliotinos medicinos  pagalbos  tarnybose.  Šių  tarnybų  ir įmonių darbuotojų
 
-taikinamosios procedūros metu.
+reikalavimus  sprendžia  Lietuvos  Respublikos Vyriausybė.  Streikų
 
-Prieš streiką
+apribojimai  gali  būti  numatyti  ir  kitų tarnybų (institucijų) specialiuose
 
-gali būti organizuojamas įspėjamasis (ribotas)
+įstatymuose.
 
-streikas, kuris
+Streikai  draudžiami stichinės
 
-negali trukti  ilgiau kaip  2 valandas.  Apie šį
+nelaimės zonose,  taip  pat regionuose,  kuriuose   nustatyta  tvarka
 
-streiką darbdavys
+paskelbta  ypatingoji padėtis.
 
-turi būti  įspėtas ne  vėliau  kaip  prieš  24
+Kolektyvinės sutarties  ar
 
-valandas.
+kolektyvinio susitarimo galiojimo metu draudžiama  skelbti streiką, jeigu
 
-Priėmus
+kolektyvinės sutarties ar kolektyvinio susitarimo laikomasi.
 
-sprendimą   dėl  streiko   (taip  pat   įspėjamojo)
+Straipsnio  pakeitimai:
 
-geležinkelių  ir
+Nr.I-208;  1993.07.08;  Žin.,1993, Nr.29-668;
 
-miesto  visuomeninio   transporto,   civilinės
+Nr.I-418; 1994.03.31.; Žin., 1994, Nr.29-512;
 
-aviacijos,  ryšių,
+11 straipsnis. Vadovavimas streikui
 
-energetikos  (išskyrus   elektros  energijos
+Streikui vadovauja  profesinė
 
-įmones), medicinos
+sąjunga  arba  jos  sudarytas streiko komitetas.
 
-ir farmacijos, maisto, vandens, kanalizacijos
+Straipsnio pakeitimai:
 
-ir  atliekų
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-išvežimo,  naftos   perdirbimo,  nepertraukiamosios
+12 straipsnis. Streiko eiga
 
-gamybos ir  kitose įmonėse,
+Streikui    vadovaujančio
 
-kurių sustabdymas susijęs su sunkiais
+organo    nustatyta     tvarka streikuojantieji, kaip  paprastai, turi  būti
 
-ir pavojingais
+darbo  vietose arba darbovietės   teritorijoje.   Streikuojantieji   gali   dalyvauti
 
-padariniais visuomenei  arba  žmonių  gyvybei  ar
+darbovietės ar atitinkamų valstybės valdžios, valdymo įstaigų bei ūkinių ar
 
-sveikatai, apie  jo
+visuomeninių organizacijų  piketavimuose,  mitinguose, gatvių  eitynėse   ar
 
-pradžią  darbdavys turi būti įspėtas raštu ne
+demonstracijose,  organizuotuose  įstatymų nustatyta tvarka.
 
-vėliau kaip prieš 21
+Streikui vadovaujantis  organas
 
-kalendorinę dieną.
+kartu  su darbdaviu  privalo užtikrinti turto ir žmonių apsaugą.
 
-Streiką
+Jeigu streikas  vyksta šio įstatymo
 
-draudžiama  skelbti vidaus  reikalų, krašto apsaugos
+10 straipsnio ketvirtoje dalyje nurodytose  įmonėse, jose  turi  būti
 
-ir  krašto
+užtikrintas  būtinų neatidėliotiniems (gyvybiniams)  visuomenės  poreikiams
 
-saugumo  sistemose,  taip  pat  elektros  energijos,
+tenkinti sąlygų (paslaugų)  minimumas, kurį priklausomai nuo kompetencijos
 
-centralizuoto
+nustato Vyriausybė  arba savivaldybės  vykdomasis organas,  o  jų vykdymą
 
-šilumos   tiekimo   ir   dujų   tiekimo   įmonėse,
+užtikrina streikui vadovaujantis organas, darbdavys ir jų paskirti darbuotojai.
 
-neatidėliotinos
+Tais  atvejais,   kai  sąlygos
 
-medicinos  pagalbos  tarnybose.  Šių  tarnybų  ir
+nurodytos  šio   straipsnio trečiojoje  dalyje   nevykdomos,  Vyriausybė
 
-įmonių darbuotojų
+(savivaldybė)  joms užtikrinti gali pasitelkti kitas tarnybas.
 
-reikalavimus  sprendžia  Lietuvos  Respublikos
+Straipsnio pakeitimai:
 
-Vyriausybė.
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-Streikų  apribojimai  gali  būti  numatyti  ir  kitų
+13 straipsnis. Streiko teisėtumas
 
-tarnybų
+Paskelbus streiką darbdavys ar
 
-(institucijų) specialiuose įstatymuose.
+reikalavimus gavęs subjektas, gali kreiptis į teismą dėl streiko pripažinimo
 
-Streikai
+neteisėtu. Teismas bylą turi išnagrinėti per 10 dienų.
 
-draudžiami stichinės  nelaimės zonose,  taip  pat
+Teismas  pripažįsta  streiką
 
-regionuose,
+neteisėtu,  jeigu  jo  tikslai prieštarauja Lietuvos    Respublikos
 
-kuriuose   nustatyta  tvarka   paskelbta  ypatingoji
+Konstitucijai,    kitiems įstatymams, arba  jei jis  paskelbtas nesilaikant
 
-padėtis.
+šiame įstatyme nustatytos tvarkos ir reikalavimų.
 
-Kolektyvinės
+Įsiteisėjus  teismo   sprendimui
 
-sutarties  ar kolektyvinio susitarimo galiojimo
+dėl   streiko  pripažinimo neteisėtu,  streikas  negali  būti  pradėtas,  o
 
-metu draudžiama
+jau  vykstantis streikas turi būti nedelsiant nutrauktas.
 
-skelbti streiką, jeigu kolektyvinės sutarties ar
+Dėl ypač  svarbių priežasčių
 
-kolektyvinio
+teismas turi teisę atidėti dar neprasidėjusį streiką  laikotarpiui iki 30
 
-susitarimo laikomasi.
+dienų, o prasidėjusį - sustabdyti tam pačiam laikui.
 
-Straipsnio  pakeitimai:   Nr.1-208;  1993.07.08;  Žin.,
+Straipsnio pakeitimai:
 
-1993, Nr.29-668;
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-Nr.1-418; 1994.03.31.; Žin., 1994, Nr.29-512;
+14 straipsnis. Teisinė
 
-11 straipsnis.
+streikuojančių padėtis ir garantijos
 
-Vadovavimas streikui
+Streiko laikotarpiu  darbuotojams,
 
-Streikui
+dalyvaujantiems  streike, darbo sutarties  vykdymas  sustabdomas,  išsaugant
 
-vadovauja  profesinė  sąjunga  arba  jos  sudarytas
+darbo  stažą, darbo vietas,  aprūpinimą pagal  valstybinį socialinį draudimą ir
 
-streiko komitetas.
-
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
-
-512;
-
-12 straipsnis.
-
-Streiko eiga
-
-Streikui
-
-vadovaujančio     organo    nustatyta     tvarka
-
-streikuojantieji,
-
-kaip  paprastai, turi  būti darbo  vietose arba
-
-darbovietės
-
-teritorijoje.   Streikuojantieji   gali   dalyvauti
-
-darbovietės ar
-
-atitinkamų valstybės valdžios, valdymo įstaigų bei
-
-ūkinių ar
-
-visuomeninių organizacijų  piketavimuose,  mitinguose,
-
-gatvių  eitynėse
-
-ar  demonstracijose,  organizuotuose  įstatymų
-
-nustatyta tvarka.
-
-Streikui
-
-vadovaujantis  organas kartu  su darbdaviu  privalo
-
-užtikrinti turto ir
-
-žmonių apsaugą.
-
-Jeigu streikas
-
-vyksta šio įstatymo 10 straipsnio ketvirtoje
-
-dalyje nurodytose
-
-įmonėse, jose  turi  būti  užtikrintas  būtinų
-
-neatidėliotiniems
-
-(gyvybiniams)  visuomenės  poreikiams  tenkinti
-
-sąlygų (paslaugų)
-
-minimumas, kurį priklausomai nuo kompetencijos
-
-nustato Vyriausybė
-
-arba savivaldybės  vykdomasis organas,  o  jų
-
-vykdymą užtikrina
-
-streikui vadovaujantis organas, darbdavys ir jų
-
-paskirti
-
-darbuotojai.
-
-Tais
-
-atvejais,   kai  sąlygos   nurodytos  šio   straipsnio
-
-trečiojoje  dalyje
-
-nevykdomos,  Vyriausybė  (savivaldybė)  joms
-
-užtikrinti gali
-
-pasitelkti kitas tarnybas.
-
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
-
-512;
-
-13 straipsnis.
-
-Streiko teisėtumas
-
-Paskelbus
-
-streiką darbdavys ar reikalavimus gavęs subjektas,
-
-gali kreiptis į
-
-teismą dėl streiko pripažinimo neteisėtu. Teismas
-
-bylą turi
-
-išnagrinėti per 10 dienų.
-
-Teismas
-
-pripažįsta  streiką  neteisėtu,  jeigu  jo  tikslai
-
-prieštarauja
-
-Lietuvos    Respublikos    Konstitucijai,    kitiems
-
-įstatymams, arba
-
-jei jis  paskelbtas nesilaikant  šiame įstatyme
-
-nustatytos tvarkos
-
-ir reikalavimų.
-
-Įsiteisėjus
-
-teismo   sprendimui  dėl   streiko  pripažinimo
-
-neteisėtu,
-
-streikas  negali  būti  pradėtas,  o  jau  vykstantis
-
-streikas turi būti
-
-nedelsiant nutrauktas.
-
-Dėl ypač
-
-svarbių priežasčių  teismas turi teisę atidėti dar
-
-neprasidėjusį
-
-streiką  laikotarpiui iki 30 dienų, o prasidėjusį -
-
-sustabdyti tam
-
-pačiam laikui.
-
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
-
-512;
-
-14 straipsnis.
-
-Teisinė streikuojančių padėtis ir garantijos
-
-Streiko
-
-laikotarpiu  darbuotojams, dalyvaujantiems  streike,
-
-darbo sutarties
-
-vykdymas  sustabdomas,  išsaugant  darbo  stažą,
-
-darbo vietas,  aprūpinimą
-
-pagal  valstybinį socialinį draudimą ir
-
-užtikrinant saugą
-
-nuo nelaimingų atsitikimų darbe.
-
-Darbuotojams,     dalyvaujantiems     streike,     nemokamas
-
-atlyginimas, jie
-
-atleidžiami nuo įsipareigojimų    vykdyti
-
-savo darbo
-
-funkcijas. Derybose  dėl streikų  užbaigimo gali būti
-
-susitarta, kad
-
-streikuojantiems bus  išmokėtas visas  arba dalis
-
-darbo užmokesčio.
+užtikrinant saugą nuo nelaimingų atsitikimų darbe.
 
 Darbuotojams,
 
-nedalyvaujantiems   streike,   bet   dėl   jo
+dalyvaujantiems     streike,     nemokamas atlyginimas, jie     atleidžiami nuo
 
-negalintiems dirbti
+įsipareigojimų    vykdyti savo darbo  funkcijas. Derybose  dėl streikų
 
-savo darbo, apmokama kaip už prastovą ne dėl
+užbaigimo gali būti susitarta, kad  streikuojantiems bus  išmokėtas visas  arba
 
-jų kaltės.
+dalis darbo užmokesčio.
 
-Pakeitimai: Nr.1-418;  1994.03.31; Žin.,  1994,  Nr.29-
+Darbuotojams,  nedalyvaujantiems
 
-512;
+streike,   bet   dėl   jo negalintiems dirbti  savo darbo, apmokama kaip už prastovą
 
-15
+ne dėl jų kaltės.
 
-straipsnis.  Darbdaviui  draudžiami  veiksmai  paskelbus
+Straipsnio pakeitimai:
 
-streiką
+Nr.I-418;  1994.03.31; Žin.,  1994,  Nr.29-512;
 
-Priėmus
+16 straipsnis. Streiko pasibaigimas
 
-sprendimą   dėl  streiko   ir  jo  metu  darbdaviui
+Streikas pasibaigia:
 
-draudžiama:
+1) patenkinus reikalavimus;
 
-1) priimti  bet
+2) streiko  metu šalims  susitarus
 
-kokį vienašališką sprendimą visiškai arba iš
+atitinkamomis  sąlygomis nutraukti streiką;
 
-dalies  nutraukti
+3) profesinei sąjungai, iškėlusiai
 
-įmonės,  įstaigos   ar  organizacijos   darbą
+reikalavimus, pripažinus, kad toliau tęsti streiką netikslinga.
 
-(veiklą);
+Patenkinus reikalavimus,  sprendimą
 
-2) trukdyti
+nutraukti streiką priima streiką paskelbęs   organas.  Rašytiniame  sprendime
 
-visiems ar  paskiriems  darbuotojams  ateiti  į
+dėl streiko nutraukimo turi būti nurodyta darbų atnaujinimo pradžia.
 
-darbo vietas;
+Straipsnio pakeitimai:
 
-3) atsisakyti
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-suteikti darbuotojams darbą ar darbo įrankius;
+16(1) straipsnis. Pranešimas
 
-4) sudaryti
+apie streiką ir statistinių duomenų pateikimas
 
-kitokias sąlygas, kurios visiškai arba iš dalies
+Darbdavys (jo
 
-gali sustabdyti
+įgaliotas asmuo) privalo pranešti raštu Statistikos departamentui prie Lietuvos
 
-visos įmonės, įstaigos, organizacijos ar atskirų
+Respublikos Vyriausybės apie streiko (taip pat ir įspėjamojo) pradžią ne vėliau
 
-jų grandžių darbą
+kaip kitą dieną nuo streiko pradžios ir pateikti šio departamento nustatyta
 
-(veiklą);
+tvarka statistinius duomenis ne vėliau kaip dešimtą dieną streikui pasibaigus.
 
-5) priimti bet
+Straipsnio pakeitimai:
 
-kokius kitus sprendimus, trikdančius normalią
+Nr. VIII-1406, 99.11.11, Žin.,
 
-įmonės, įstaigos,
+1999, Nr.102-2920 (99.12.01)
 
-organizacijos darbą (veiklą).
+IV SKIRSNIS.
 
-Streiko metu
+ATSAKOMYBĖ
 
-darbdaviui draudžiama į streikuojančiųjų vietas
-
-priimti kitus
-
-darbuotojus.
-
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
-
-512;
-
-16 straipsnis.
-
-Streiko pasibaigimas
-
-Streikas
-
-pasibaigia:
-
-1) patenkinus
-
-reikalavimus;
-
-2) streiko
-
-metu šalims  susitarus  atitinkamomis  sąlygomis
-
-nutraukti streiką;
-
-3) profesinei
-
-sąjungai, iškėlusiai reikalavimus, pripažinus,
-
-kad toliau tęsti
-
-streiką netikslinga.
-
-Patenkinus
-
-reikalavimus,  sprendimą nutraukti streiką priima
-
-streiką paskelbęs
-
-organas.  Rašytiniame  sprendime  dėl streiko
-
-nutraukimo turi būti
-
-nurodyta darbų atnaujinimo pradžia.
-
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
-
-512;
-
-IV
-
-SKIRSNIS. ATSAKOMYBĖ
-
-17 straipsnis.
-
-Profesinių sąjungų atsakomybė
-
-Profesinė
-
-sąjunga turi atlyginti   darbdaviui      padarytus
-
-streiko, pripažinto
-
-neteisėtu, nuostolius,  jei  ji  šį  streiką
-
-skelbė ir jam
-
-vadovavo.
-
-Jeigu nuostoliams
-
-atlyginti  profesinės  sąjungos  lėšų  ir
-
-turto nepakanka,
-
-jiems atlyginti gali būti taikomos šio įstatymo
-
-19  straipsnio
-
-antrojoje  ir   trečiojoje   dalyse   nustatytos
-
-taisyklės.
-
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
-
-512;
-
-18 straipsnis.
-
-Kitų visuomeninių organizacijų, partijų
+17 straipsnis. Profesinių sąjungų
 
 atsakomybė
 
-Kitos
+Profesinė sąjunga turi atlyginti
 
-visuomeninės  organizacijos, partijos  turi  atlyginti
+darbdaviui      padarytus streiko, pripažinto  neteisėtu, nuostolius,  jei  ji
 
-darbdaviui
+šį  streiką skelbė ir jam vadovavo.
 
-padarytus  streiko, pripažinto  neteisėtu, nuostolius,
+Jeigu nuostoliams  atlyginti
 
-jei jos  šį  streiką
+profesinės  sąjungos  lėšų  ir turto nepakanka,  jiems atlyginti gali būti
 
-(žinomai  neteisėtą)  organizavo  arba  jam
+taikomos šio įstatymo 19  straipsnio   antrojoje  ir   trečiojoje   dalyse
 
-vadovavo (kai tai
+nustatytos taisyklės.
 
-nustatyta teisme), savo lėšomis ir turtu.
+Straipsnio pakeitimai:
 
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-512;
+18 straipsnis. Kitų visuomeninių
 
-19 straipsnis.
+organizacijų, partijų atsakomybė
 
-Darbuotojų atsakomybė
+Kitos visuomeninės  organizacijos,
 
-Žinomai
+partijos  turi  atlyginti darbdaviui padarytus  streiko, pripažinto  neteisėtu,
 
-neteisėto streiko organizavimas ir dalyvavimas jame,
+nuostolius, jei jos  šį  streiką  (žinomai  neteisėtą)  organizavo  arba  jam
 
-taip  pat
+vadovavo (kai tai nustatyta teisme), savo lėšomis ir turtu.
 
-dalyvavimas  streike,  kuris  pripažintas  neteisėtu,
+Straipsnio pakeitimai:
 
-užtraukia drausminę,
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-administracinę bei materialinę atsakomybę.
+19 straipsnis. Darbuotojų
 
-Nuostoliams,
+atsakomybė
 
-atsiradusiems   dėl  streiko   šio  straipsnio
+Žinomai neteisėto streiko
 
-pirmojoje dalyje
+organizavimas ir dalyvavimas jame, taip  pat   dalyvavimas  streike,  kuris
 
-numatytais atvejais,  atlyginti darbdavys  savo
+pripažintas  neteisėtu, užtraukia drausminę, administracinę bei materialinę
 
-sprendimu gali
+atsakomybę.
 
-panaudoti lėšas, skirtas pagal kolektyvinę sutartį
+Nuostoliams,  atsiradusiems   dėl
 
-darbuotojų
+streiko   šio  straipsnio pirmojoje dalyje  numatytais atvejais,  atlyginti
 
-kolektyvo   narių   atlyginimų   priemokoms,   kitoms
+darbdavys  savo sprendimu gali panaudoti lėšas, skirtas pagal kolektyvinę
 
-papildomoms
+sutartį darbuotojų  kolektyvo   narių   atlyginimų   priemokoms,   kitoms
 
-palyginti su įstatymais lengvatoms ir kompensacijoms.
+papildomoms palyginti su įstatymais lengvatoms ir kompensacijoms.
 
-Tais atvejais,
+Tais atvejais,  kai darbdaviui
 
-kai darbdaviui padaryti nuostoliai pagal šio
+padaryti nuostoliai pagal šio įstatymo 17  straipsnio pirmąją  dalį ir  šio
 
-įstatymo 17
+straipsnio  antrąją dalį atlyginami  ne visi,  streikuojantieji gali  būti
 
-straipsnio pirmąją  dalį ir  šio straipsnio  antrąją
+patraukti materialinėn atsakomybėn pagal darbo įstatymus.
 
-dalį atlyginami  ne
+Ginčai dėl  lėšų dydžių,
 
-visi,  streikuojantieji gali  būti  patraukti
+panaudojamų nuostoliams atlyginti, nagrinėjami teismine tvarka.
 
-materialinėn
+Straipsnio pakeitimai:
 
-atsakomybėn pagal darbo įstatymus.
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-Ginčai dėl
+20 straipsnis. Įmonių vadovų ir
 
-lėšų dydžių,  panaudojamų nuostoliams atlyginti,
+pareigūnų atsakomybė
 
-nagrinėjami teismine
+Darbdaviai, įmonės ar struktūrinio
 
-tvarka.
+padalinio vadovai ir kiti pareigūnai, dėl  kurių kaltės kilo streikas arba
 
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
+kurie nevykdė ar uždelsė įvykdyti  taikinimo komisijos  (Darbo arbitražo,
 
-512;
+Trečiųjų teismo)   sprendimą,   pažeidė   šio   įstatymo   15   straipsnio
 
-20 straipsnis.
+reikalavimus,  gali  būti  traukiami  įstatymų  nustatyta  tvarka drausminėn,
 
-Įmonių vadovų ir pareigūnų atsakomybė
-
-Darbdaviai,
-
-įmonės ar struktūrinio padalinio vadovai ir kiti
-
-pareigūnai, dėl
-
-kurių kaltės kilo streikas arba kurie nevykdė ar
-
-uždelsė įvykdyti
-
-taikinimo komisijos  (Darbo arbitražo, Trečiųjų
-
-teismo)
-
-sprendimą,   pažeidė   šio   įstatymo   15   straipsnio
-
-reikalavimus,  gali
-
-būti  traukiami  įstatymų  nustatyta  tvarka
-
-drausminėn,
-
-administracinėn ar baudžiamojon atsakomybėn, taip pat
-
-taikoma materialinė
+administracinėn ar baudžiamojon atsakomybėn, taip pat taikoma materialinė
 
 atsakomybė iki 6 mėnesių pareiginių algų.
 
-Pakeitimai: Nr.1-418;  1994.03.31.; Žin.,  1994, Nr.29-
+Straipsnio pakeitimai:
 
-512;
+Nr.I-418;  1994.03.31.; Žin.,  1994, Nr.29-512;
 
-21 straipsnis.
+21 straipsnis. Valdymo organų ir jų
 
-Valdymo organų ir jų vadovų ar pareigūnų
+vadovų ar pareigūnų atsakomybė
 
-atsakomybė
+Valdymo organai  ir jų  vadovai
 
-Valdymo
+ar  pareigūnai,  dėl  kurių kaltės kilo  streikas arba  kurie  nevykdė  ar
 
-organai  ir jų  vadovai  ar  pareigūnai,  dėl  kurių
+uždelsė  įvykdyti taikinimo   komisijos    (Darbo   arbitražo,   Trečiųjų
 
-kaltės kilo
+teismo) sprendimus, gali būti traukiami    įstatymų nustatyta  tvarka
 
-streikas arba  kurie  nevykdė  ar  uždelsė  įvykdyti
+drausminėn,   materialinėn,   administracinėn   ar   baudžiamojon atsakomybėn.
 
-taikinimo
+Valdymo organai  privalo atlyginti
 
-komisijos    (Darbo   arbitražo,   Trečiųjų   teismo)
+dėl jų  pareigūnų kaltės darbdaviui padarytą žalą įstatymų nustatyta tvarka
 
-sprendimus, gali
+22 straipsnis. Nuostolių, padarytų
 
-būti traukiami    įstatymų nustatyta  tvarka
+trečiajai šaliai, atlyginimas
 
-drausminėn,
+Streiko  padaryta   žala  kitoms
 
-materialinėn,   administracinėn   ar   baudžiamojon
+įmonėms   ar   piliečiams atlyginama pagal galiojančius Lietuvos Respublikos
 
-atsakomybėn.
-
-Valdymo
-
-organai  privalo atlyginti  dėl jų  pareigūnų kaltės
-
-darbdaviui padarytą
-
-žalą įstatymų nustatyta tvarka
-
-22 straipsnis.
-
-Nuostolių, padarytų trečiajai šaliai,
-
-atlyginimas
-
-Streiko
-
-padaryta   žala  kitoms   įmonėms   ar   piliečiams
-
-atlyginama pagal
-
-galiojančius Lietuvos Respublikos įstatymus.
+įstatymus.
 
 LIETUVOS RESPUBLIKOS
 
-AUKŠČIAUSIOSIOS
+AUKŠČIAUSIOSIOS TARYBOS
 
-TARYBOS
+PIRMININKAS                                                       VYTAUTAS
 
-PIRMININKAS
+LANDSBERGIS
 
-VYTAUTAS LANDSBERGIS
-
-Vilnius, 1992 m.
-
-kovo 17 d.
+Vilnius, 1992 m. kovo 17 d.
 
 Nr.I-2386
-
-_
 
 15  straipsnis.  Darbdaviui
 
