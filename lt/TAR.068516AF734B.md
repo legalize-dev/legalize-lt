@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2004-01-27"
+last_updated: "2004-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -393,9 +393,11 @@ laikotarpiu dydis
 
 1. Motinystės pašalpa nėštumo ir gimdymo atostogų laikotarpiu mokama 100 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio. Ši pašalpa per mėnesį negali būti mažesnė už nėštumo ir gimdymo atostogų suteikimo mėnesį galiojusių einamųjų metų draudžiamųjų pajamų ketvirtadalį.
 
-2. Motinystės pašalpa apskaičiuojama ir mokama Vyriausybės tvirtinamų
+2. Motinystės pašalpa apskaičiuojama ir mokama Vyriausybės
 
-Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.
+tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta
+
+tvarka.
 
 Straipsnio pakeitimai:
 
@@ -969,13 +971,19 @@ kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio
 
 draudimo stažą.
 
-2. Moteriai, atleistai iš darbo nėštumo metu arba
+2. Moteriai, atleistai iš darbo nėštumo metu arba nėštumo ir gimdymo
 
-nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos
+atostogų metu dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip
 
-likvidavimo ar bankroto ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir
+pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba Valstybės
 
-motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17
+tarnybos įstatyme ir Valstybės politikų, teisėjų ir valstybės pareigūnų darbo
+
+apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų
+
+laikas, ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir motinystės
+
+socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17
 
 straipsnyje nustatyta tvarka.
 
@@ -998,6 +1006,10 @@ Nr. IX-1248,
 Nr. IX-1333,
 
 2003-01-28, Žin., 2003, Nr. 12-441 (2003-01-31)
+
+Nr. IX-2483,
+
+2004-10-12, Žin., 2004, Nr. 158-5755 (2004-10-30)
 
 19 straipsnis. Teisė gauti motinystės (tėvystės) pašalpą
 
@@ -1031,33 +1043,51 @@ pašalpos iš Valstybinio socialinio draudimo fondo lėšų, mokama pašalpa pag
 
 Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą.
 
-4. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka
+4. Vienam iš tėvų
 
-išleistam vaiko iki vienerių metų priežiūros atostogų bei gaunančiam motinystės
+(įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko iki vienerių
 
-(tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos
+metų priežiūros atostogų bei gaunančiam motinystės (tėvystės) pašalpą,
 
-likvidavimo ar bankroto, motinystės (tėvystės) pašalpa mokama šio įstatymo 20
+atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto,
 
-straipsnyje nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.
+taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba
+
+Valstybės tarnybos įstatyme ir Valstybės politikų, teisėjų ir valstybės
+
+pareigūnų darbo apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas
+
+terminas ar įgaliojimų laikas, motinystės (tėvystės) pašalpa mokama šio įstatymo
+
+20 straipsnyje nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.
 
 5. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam šio
 
 straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą,
 
-atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto
+atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto,
 
-ir dėl to negavusiam vaiko iki vienerių metų priežiūros atostogų, motinystės (tėvystės)
+taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba
 
-pašalpa mokama šio įstatymo 20 straipsnyje nustatyta tvarka, bet ne ilgiau kaip
+Valstybės tarnybos įstatyme ir Valstybės politikų, teisėjų ir valstybės
 
-iki įsidarbinimo.
+pareigūnų darbo apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas terminas
+
+ar įgaliojimų laikas, ir dėl to negavusiam vaiko iki vienerių metų priežiūros
+
+atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 straipsnyje
+
+nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.
 
 Straipsnio pakeitimai:
 
 Nr. IX-1333,
 
 2003-01-28, Žin., 2003, Nr. 12-441 (2003-01-31)
+
+Nr. IX-2483,
+
+2004-10-12, Žin., 2004, Nr. 158-5755 (2004-10-30)
 
 20 straipsnis. Motinystės (tėvystės) pašalpos mokėjimo trukmė
 
@@ -1075,49 +1105,19 @@ gauti šio įstatymo 19 straipsnyje nurodytiems asmenims skiriama nuo vaiko
 
 gimimo dienos.
 
-3. Jeigu motinystės pašalpą už nėštumo ir gimdymo atostogų laikotarpį
+3. Jeigu motinystės pašalpą už nėštumo ir gimdymo atostogų
 
-gavusi motina mirė, motinystės (tėvystės) pašalpa turintiems teisę ją gauti šio
+laikotarpį gavusi motina mirė, motinystės (tėvystės) pašalpa turintiems teisę
 
-įstatymo 19 straipsnyje nurodytiems asmenims skiriama nuo motinos mirties
+ją gauti šio įstatymo 19 straipsnyje nurodytiems asmenims skiriama nuo motinos
 
-dienos.
+mirties dienos.
 
 Straipsnio pakeitimai:
 
-Nr. IX-709,
+Nr. IX-709, 2002-01-15,
 
-2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06)
-
-21 straipsnio redakcija iki
-
-2004 m. kovo 1 d.:
-
-21
-
-straipsnis. Motinystės (tėvystės) pašalpos dydis
-
-Motinystės (tėvystės) pašalpa
-
-mokama 60 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio. Ši pašalpa
-
-per mėnesį negali būti mažesnė už vaiko priežiūros atostogų suteikimo mėnesį
-
-galiojusių einamųjų metų draudžiamųjų pajamų trečdalį. Kai apdraustasis dirba
-
-ne vienoje darbovietėje, motinystės (tėvystės) pašalpa jam apskaičiuojama pagal
-
-gautą kompensuojamąjį uždarbį tik tose darbovietėse, kuriose jis yra išleistas
-
-vaiko priežiūros atostogų. Pašalpa apskaičiuojama ir mokama Vyriausybės
-
-tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta
-
-tvarka.
-
-21 straipsnio redakcija nuo
-
-2004 m. kovo 1 d.:
+Žin., 2002, Nr. 13-469 (2002-02-06)
 
 24 straipsnis. Valstybinio socialinio draudimo įmokų mokėjimo
 
@@ -1325,13 +1325,35 @@ IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 21 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Įstatymas įsigalioja nuo 2004 m. kovo 1 d.
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2483,
+
+2004-10-12, Žin., 2004, Nr. 158-5755 (2004-10-30)
+
+LIGOS
+
+IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 16 IR 19 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2004 m. lapkričio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-02-18)
+Aušrinė Trapinskienė (2004-11-02)
 
 autrap@lrs.lt
 
