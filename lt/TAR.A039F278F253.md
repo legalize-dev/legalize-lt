@@ -4,7 +4,7 @@ identifier: "TAR.A039F278F253"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-02-08"
-last_updated: "1998-12-16"
+last_updated: "2000-07-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A039F278F253"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos ūkinių gyvūnų veislininkystės įstatymas
 
-Suvestinė redakcija nuo 1998-12-16 iki 2000-07-25
+Suvestinė redakcija nuo 2000-07-26 iki 2018-10-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 14-226, i. k. 0941010ISTA000I-384
 
@@ -185,7 +185,11 @@ Veisliniai gyvuliai ir hibridai tolesniam veisimui gali būti siūlomi, jeigu ji
 
 3) embrionų ir kiaušialąsčių pasiūlos, embrionų, kiaušialąsčių apskaitos, suženklinimo tvarką, embrionų ir kiaušialąsčių kokybės pažymėjimų formų reikalavimus.
 
-2. Veislinių gyvulių bei hibridų, sėklinimo centrų, reproduktorių, spermos, embrionų ir kiaušialąsčių veterinarinius reikalavimus nustato Valstybinė veterinarijos tarnyba.
+2. Veislinių gyvulių bei hibridų, sėklinimo centrų, reproduktorių, spermos, embrionų ir kiaušialąsčių veterinarinius reikalavimus nustato Valstybinė maisto ir veterinarijos tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1795, 2000-07-04, Žin., 2000, Nr. 61-1806 (2000-07-26), i. k. 1001010ISTAIII-1795
 
 IV SKYRIUS
 
@@ -241,7 +245,11 @@ GYVULIŲ SĖKLINIMAS IR KERGIMAS
 
 2) leidimų sėklintojams išdavimo, sėklintojų kursų organizavimo tvarką.
 
-2. Sėklinimo centrų, kergimo punktų ir sėklintojų veiklos veterinarinius reikalavimus nustato Valstybinė veterinarijos tarnyba.
+2. Sėklinimo centrų, kergimo punktų ir sėklintojų veiklos veterinarinius reikalavimus nustato Valstybinė maisto ir veterinarijos tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1795, 2000-07-04, Žin., 2000, Nr. 61-1806 (2000-07-26), i. k. 1001010ISTAIII-1795
 
 V SKYRIUS
 
@@ -265,7 +273,11 @@ EMBRIONŲ PERSODINIMAS
 
 1. Leidimų embrionų ir kiaušialąsčių persodinimo įmonių veiklai išdavimo tvarką, embrionų ir kiaušialąsčių kokybės ir apskaitos reikalavimus, reikalavimus embrionų ir kiaušialąsčių persodinimo įmonėms, jų personalui ir jų įrangos reikalavimus nustato Žemės ūkio ministerija.
 
-2. Embrionų persodinimo veterinarinius reikalavimus nustato Valstybinė veterinarijos tarnyba.
+2. Embrionų persodinimo veterinarinius reikalavimus nustato Valstybinė maisto ir veterinarijos tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1795, 2000-07-04, Žin., 2000, Nr. 61-1806 (2000-07-26), i. k. 1001010ISTAIII-1795
 
 VI SKYRIUS
 
@@ -345,7 +357,11 @@ Kiekvienas gyvulys, kuris pagal kilmę bei produktyvumą atitinka nustatytus rei
 
 1. Veislininkystės institucijų pripažinimo tvarką ir reikalavimus personalui, taip pat įrangos reikalavimus, kilmės knygų ir registrų turinio, formos bei tvarkymo reikalavimus nustato Žemės ūkio ministerija, atsižvelgdama į Žemės ūkio rūmų pasiūlymus.
 
-2. Veterinarijos reikalavimus veislininkystės institucijoms nustato Valstybinė veterinarijos tarnyba.
+2. Veterinarijos reikalavimus veislininkystės institucijoms nustato Valstybinė maisto ir veterinarijos tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1795, 2000-07-04, Žin., 2000, Nr. 61-1806 (2000-07-26), i. k. 1001010ISTAIII-1795
 
 VII SKYRIUS
 
@@ -380,4 +396,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-934, 1998-11-24, Žin., 1998, Nr. 110-3023 (1998-12-16), i. k. 0981010ISTAVIII-934
 
 Lietuvos Respublikos gyvulių veislininkystės įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1795, 2000-07-04, Žin., 2000, Nr. 61-1806 (2000-07-26), i. k. 1001010ISTAIII-1795
+
+Lietuvos Respublikos gyvulių veislininkystės įstatymo 9, 12, 14, 19 straipsnių pakeitimo įstatymas
 
