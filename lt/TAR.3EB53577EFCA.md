@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2000-11-28"
+last_updated: "2001-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -943,13 +943,31 @@ Prokuratūros pareigūnams
 
 atostogos suteikiamos Lietuvos Respublikos atostogų įstatymo nustatyta tvarka.
 
-39 straipsnis. Kitos prokuratūros
+39 straipsnis. Prokuratūros pareigūnų valstybinis
 
-pareigūnų socialinės garantijos
+socialinis draudimas ir kitos socialinės
 
-Kitas prokuratūros pareigūnų
+garantijos
 
-socialines garantijas nustato Lietuvos Respublikos įstatymai.
+Prokuratūros
+
+pareigūnai draudžiami valstybiniu socialiniu draudimu Lietuvos Respublikos
+
+valstybinio socialinio draudimo įstatyme nustatyta tvarka.
+
+Kitas
+
+prokuratūros pareigūnų socialines garantijas nustato Lietuvos Respublikos
+
+įstatymai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+
+64-2328 (2001-07-25)
 
 40 straipsnis. Prokuratūros
 
@@ -985,11 +1003,11 @@ prokuratūros išlaidas tvirtina Lietuvos Respublikos Seimas.
 
 materialinis aprūpinimas
 
-Lietuvos Respublikos Vyriausybė
+Lietuvos Respublikos
 
-ir savivaldybių vykdomieji organai suteikia prokuratūroms tarnybines patalpas
+Vyriausybė ir savivaldybių vykdomieji organai suteikia prokuratūroms tarnybines
 
-ir ryšių priemones, garantuoja kitą materialinį aprūpinimą.
+patalpas ir ryšių priemones, garantuoja kitą materialinį aprūpinimą.
 
 IX SKIRSNIS
 
@@ -1013,11 +1031,11 @@ kvalifikacijos kėlimo įstaigas, leisti specialius leidinius.
 
 tarptautiniai ryšiai
 
-Lietuvos Respublikos prokuratūra
+Lietuvos Respublikos
 
-palaiko ryšius su kitų valstybių prokuratūromis ir kitomis teisėsaugos
+prokuratūra palaiko ryšius su kitų valstybių prokuratūromis ir kitomis
 
-institucijomis.
+teisėsaugos institucijomis.
 
 45 straipsnis. Lietuvos
 
@@ -1109,9 +1127,27 @@ Nr. IX-43, 2000 11 28, Žin., 2000, Nr.
 
 PROKURATŪROS ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+
+64-2328 (2001-07-25)
+
+VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO,
+
+KONSTITUCINIO TEISMO ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO
+
+SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS
+
+PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ
+
+APSAUGOS KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000 12 01)
+Redagavo: Angonita Rupšytė (2001-07-25)
 
-autrap@lrs.lt
+anrups@lrs.lt
 
