@@ -4,7 +4,7 @@ identifier: "TAR.38E82AA2664C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "1997-04-01"
+last_updated: "1997-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1996-09-24"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
+
+Suvestinė redakcija nuo 1997-07-09 iki 1997-10-29
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
 
 LIETUVOS RESPUBLIKOS
 
@@ -41,13 +45,17 @@ Nekilnojamojo turto registras steigiamas nekilnojamajam turtui, nuosavybės ir k
 
 4 straipsnis. Nekilnojamojo turto registro tvarkymas
 
-1. Už Nekilnojamojo turto registro tvarkymą atsako apskričių valdytojai.
+1. Už Nekilnojamojo turto registro tvarkymą atsako apskričių viršininkai.
 
-2. Nekilnojamojo turto registrą tvarko apskričių valdytojų administracijų padaliniai rajonuose ir miestuose.
+2. Nekilnojamojo turto registrą tvarko apskričių viršininkų administracijų padaliniai rajonuose ir miestuose.
 
-3. Nekilnojamojo turto registrą rajonuose ir miestuose tvarkantys apskrities valdytojo administracijos padalinio vadovai arba kiti apskrities valdytojo įgalioti šių padalinių darbuotojai (toliau vadinama – Nekilnojamojo turto registro tvarkytojai) atsako už nekilnojamojo turto ir teisių į jį įregistravimą, Nekilnojamojo turto registro duomenų teisingumą ir jų apsaugą.
+3. Nekilnojamojo turto registrą rajonuose ir miestuose tvarkantys apskrities viršininko administracijos padalinio vadovai arba kiti apskrities viršininko įgalioti šių padalinių darbuotojai (toliau vadinama – Nekilnojamojo turto registro tvarkytojai) atsako už nekilnojamojo turto ir teisių į jį įregistravimą, Nekilnojamojo turto registro duomenų teisingumą ir jų apsaugą.
 
-4. Apskričių valdytojai ir Nekilnojamojo turto registro tvarkytojai rajonuose ir miestuose, tvarkydami Nekilnojamojo turto registrą, savo darbe vadovaujasi Lietuvos Respublikos Konstitucija, Civiliniu kodeksu, šiuo ir kitais įstatymais, Vyriausybės tvirtinamais Nekilnojamojo turto registro nuostatais.
+4. Apskričių viršininkai ir Nekilnojamojo turto registro tvarkytojai rajonuose ir miestuose, tvarkydami Nekilnojamojo turto registrą, savo darbe vadovaujasi Lietuvos Respublikos Konstitucija, Civiliniu kodeksu, šiuo ir kitais įstatymais, Vyriausybės tvirtinamais Nekilnojamojo turto registro nuostatais.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-331, 1997-06-26, Žin., 1997, Nr. 65-1555 (1997-07-09), i. k. 0971010ISTAVIII-331
 
 5 straipsnis. Nekilnojamojo turto registre registruojamas nekilnojamasis turtas
 
@@ -121,7 +129,11 @@ Kai nekilnojamasis turtas priklauso keliems asmenims bendrosios dalinės nuosavy
 
 14 straipsnis. Valstybės ar savivaldybės nekilnojamojo turto ir teisių į jį registravimo Nekilnojamojo turto registre tvarka
 
-1. Registruojant valstybės nekilnojamąjį turtą ir teises į jį, valstybei atstovauja apskrities valdytojas arba jo įgaliotas asmuo.
+1. Registruojant valstybės nekilnojamąjį turtą ir teises į jį, valstybei atstovauja apskrities viršininkas arba jo įgaliotas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-331, 1997-06-26, Žin., 1997, Nr. 65-1555 (1997-07-09), i. k. 0971010ISTAVIII-331
 
 2. Savivaldybės nekilnojamasis turtas ir teisės į jį registruojami savivaldybės tarybos vardu. Registruojant savivaldybės nekilnojamąjį turtą ir teises į jį, savivaldybės tarybai atstovauja savivaldybės meras arba jo įgaliotas asmuo.
 
@@ -159,7 +171,11 @@ Nekilnojamojo turto ir teisių į jį įregistravimo Nekilnojamojo turto registr
 
 2. Prašymą įregistruoti nekilnojamąjį turtą ir nuosavybės teises į jį paduoda nekilnojamąjį turtą įgijęs asmuo, o registruojant daiktines teises svetimame turte, taip pat teisių į nekilnojamąjį turtą apribojimus ir turto savininko prievoles – šių teisių turėtojas arba asmuo, kurio naudai turto savininkui nustatyta prievolė. Prašymą Nekilnojamojo turto registro tvarkytojui asmuo paduoda pats arba per savo atstovą, turintį tam notariškai patvirtintą įgaliojimą.
 
-3. Prašymą įregistruoti valstybės nekilnojamąjį turtą paduoda apskrities valdytojas arba jo įgaliotas asmuo.
+3. Prašymą įregistruoti valstybės nekilnojamąjį turtą paduoda apskrities viršininkas arba jo įgaliotas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-331, 1997-06-26, Žin., 1997, Nr. 65-1555 (1997-07-09), i. k. 0971010ISTAVIII-331
 
 4. Prašymą įregistruoti savivaldybės nekilnojamąjį turtą ir teises į jį paduoda savivaldybės meras arba jo įgaliotas asmuo.
 
@@ -379,9 +395,13 @@ Dokumentai, pagal kuriuos buvo įregistruotas nekilnojamasis turtas ir teisės �
 
 40 straipsnis. Pretenzijų dėl netikslių ar neteisingų Nekilnojamojo turto registro įrašų pareiškimas
 
-1. Suinteresuoti asmenys, sužinoję, kad Nekilnojamojo turto registre duomenys apie įregistruotą nekilnojamąjį turtą ir teises į jį yra netikslūs ar neteisingi, gali pareikšti pretenzijas Nekilnojamojo turto registro tvarkytojui, kuris per 5 darbo dienas pretenzijas turi išnagrinėti, priimti išvadą dėl jų tenkinimo ar atmetimo ir apie tai raštu pranešti suinteresuotam asmeniui. Jeigu Nekilnojamojo turto registro tvarkytojo išvada suinteresuoto asmens netenkina, šis per 10 kalendorinių dienų gali ją apskųsti apskrities valdytojui pagal turto buvimo vietą. Apskrities valdytojas per 10 kalendorinių dienų turi priimti išvadą dėl pareikštų pretenzijų ir apie tai raštu pranešti suinteresuotam asmeniui.
+1. Suinteresuoti asmenys, sužinoję, kad Nekilnojamojo turto registre duomenys apie įregistruotą nekilnojamąjį turtą ir teises į jį yra netikslūs ar neteisingi, gali pareikšti pretenzijas Nekilnojamojo turto registro tvarkytojui, kuris per 5 darbo dienas pretenzijas turi išnagrinėti, priimti išvadą dėl jų tenkinimo ar atmetimo ir apie tai raštu pranešti suinteresuotam asmeniui. Jeigu Nekilnojamojo turto registro tvarkytojo išvada suinteresuoto asmens netenkina, šis per 10 kalendorinių dienų gali ją apskųsti apskrities viršininkui pagal turto buvimo vietą. Apskrities viršininkas per 10 kalendorinių dienų turi priimti išvadą dėl pareikštų pretenzijų ir apie tai raštu pranešti suinteresuotam asmeniui.
 
-2. Apskrities valdytojo išvada dėl pareikštų pretenzijų per 10 kalendorinių dienų gali būti apskųsta apylinkės teismui pagal nekilnojamojo turto buvimo vietą.
+2. Apskrities viršininko išvada dėl pareikštų pretenzijų per 10 kalendorinių dienų gali būti apskųsta apylinkės teismui pagal nekilnojamojo turto buvimo vietą.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-331, 1997-06-26, Žin., 1997, Nr. 65-1555 (1997-07-09), i. k. 0971010ISTAVIII-331
 
 41 straipsnis. Atlyginimas už nekilnojamojo turto ir teisių į jį įregistravimą
 
@@ -423,27 +443,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
 
-91 straipsnis. Nekilnojamojo turto registre daromos žymos
+Pakeitimai:
 
-Nekilnojamojo turto registre daromos šios žymos:
+1.
 
-1) nekilnojamojo turto hipotekos;
+Lietuvos Respublikos Seimas, Įstatymas
 
-2) nekilnojamojo turto arešto, nurodant priverstinai laikinai apribojamas teises į turtą.
+Nr. VIII-331, 1997-06-26, Žin., 1997, Nr. 65-1555 (1997-07-09), i. k. 0971010ISTAVIII-331
 
-TAR pastaba. Papildymas 91 straipsniu įsigalioja turto arešto aktų registrui pradėjus darbą.
-
-Papildyta straipsniu:
-
-Nr. VIII-1384, 1999-11-04, Žin., 1999, Nr. 101-2904 (1999-11-26), i. k. 0991010ISTAIII-1384
-
-151 straipsnis. Teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registravimas
-
-1. Nekilnojamojo turto registre registruojamos pagal Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymą nustatytos teritorijos, kuriose taikomos specialiosios žemės naudojimo sąlygos.
-
-2. Teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registro įrašų sudarymo tvarką ir turinį nustato Nekilnojamojo turto registro nuostatai.
-
-Papildyta straipsniu:
-
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo 4, 14, 17, 40 straipsnių pakeitimo įstatymas
 
