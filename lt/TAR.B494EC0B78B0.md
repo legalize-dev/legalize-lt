@@ -4,7 +4,7 @@ identifier: "TAR.B494EC0B78B0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-10"
-last_updated: "2001-01-01"
+last_updated: "2002-11-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B494EC0B78B0"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos prekių ženklų įstatymas
+
+Suvestinė redakcija nuo 2002-11-08 iki 2004-03-12
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 92-2844, i. k. 1001010ISTAIII-1981
 
 LIETUVOS RESPUBLIKOS PREKIŲ ŽENKLŲ ĮSTATYMAS
 
@@ -28,7 +32,13 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato prekių ženklų teisinę apsaugą, registraciją ir naudojimą Lietuvos Respublikoje, Lietuvos Respublikos prekių ženklų registro tvarkymą.
+1. Šis įstatymas nustato prekių ženklų teisinę apsaugą, registraciją ir naudojimą Lietuvos Respublikoje, Lietuvos Respublikos prekių ženklų registro tvarkymą.
+
+2. Šio įstatymo nuostatos yra suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -150,7 +160,7 @@ ANTRASIS SKIRSNIS
 
 5) tapatus Lietuvos Respublikoje saugomai geografinei nuorodai arba klaidinamai į ją panašus, išskyrus tokią nuorodą, kuri kaip nesaugomas elementas įtraukta į ženklą, registruojamą asmens, turinčio teisę naudoti tą geografinę nuorodą;
 
-6) tapatus saugomam pramoniniam dizainui ar kitam pramoninės nuosavybės objektui, autorių teisių saugomam literatūros, mokslo, meno kūriniui, žinomo asmens pavardei ar vardui, meniniam pseudonimui ar kito asmens portretui arba yra klaidinamai į jį panašus, išskyrus atvejus, kai šių teisių savininkas ar jo teisių perėmėjas yra davęs sutikimą.
+6) tapatus saugomam pramoniniam dizainui ar kitam pramoninės nuosavybės objektui, autorių teisių saugomam literatūros, mokslo, meno kūriniui, žinomo asmens pavardei ar vardui, meniniam pseudonimui ar kito asmens portretui arba yra klaidinamai į jį panašus, išskyrus atvejus, kai šių teisių savininkas ar jo teisių perėmėjas yra davęs sutikimą;
 
 2. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytas ankstesnis ženklas yra:
 
@@ -310,7 +320,11 @@ TREČIASIS SKIRSNIS
 
 18 straipsnis. Ženklo registracijos užprotestavimas
 
-1. Suinteresuoti asmenys per 3 mėnesius nuo įregistruoto ženklo paskelbimo Valstybinio patentų biuro oficialiame biuletenyje dienos, remdamiesi šio įstatymo 6 ir 7 straipsniais, gali užprotestuoti ženklo registraciją paduodami motyvuotą rašytinį protestą Apeliaciniam skyriui.
+1. Suinteresuoti asmenys per 3 mėnesius nuo įregistruoto ženklo paskelbimo Valstybinio patentų biuro oficialiame biuletenyje dienos, remdamiesi šio įstatymo 6 ir (ar) 7 straipsniais, gali užprotestuoti ženklo registraciją paduodami motyvuotą rašytinį protestą Apeliaciniam skyriui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 2. Už protesto padavimą turi būti sumokėtas nustatytas mokestis.
 
@@ -454,9 +468,17 @@ TREČIASIS SKIRSNIS
 
 26 straipsnis. Terminai
 
-1. Pareiškėjui ar jo atstovui pateikus prašymą raštu ir sumokėjus nustatytą mokestį, šio įstatymo 13 straipsnio 5 ir 6 dalyse, 14 straipsnio 3 dalyje, 15 straipsnio 1 dalyje, 17 straipsnio 1 dalyje, 18 straipsnio 4 dalyje, 25 straipsnio 1 dalyje numatyti terminai gali būti pratęsti vieną kartą, bet ne ilgiau kaip 2 mėnesiams nuo pirmojo termino pasibaigimo dienos.
+1. Pareiškėjui, ženklo ar tarptautinės registracijos savininkui arba jo atstovui pateikus prašymą raštu ir sumokėjus nustatytą mokestį, šio įstatymo 13 straipsnio 5 ir 6 dalyse, 14 straipsnio 3 dalyje, 15 straipsnio 1 dalyje, 17 straipsnio 1 dalyje, 18 straipsnio 4 dalyje, 25 straipsnio 1 dalyje, 34 straipsnio 1, 2 ir 4 dalyse numatyti terminai gali būti pratęsti vieną kartą, bet ne ilgiau kaip 2 mėnesiams nuo pirmojo termino pasibaigimo dienos.
 
-2. Prašymas pratęsti terminą turi būti pateiktas ir nustatytas mokestis turi būti sumokėtas nepasibaigus pirmajam terminui. Terminas pratęsiamas Valstybinio patentų biuro sprendimu.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+
+2. Pareiškėjas, ženklo ar tarptautinės registracijos savininkas arba jo atstovas ne vėliau kaip per 2 mėnesius nuo pirmojo termino pasibaigimo dienos gali pateikti prašymą pratęsti terminą. Terminas pratęsiamas Valstybinio patentų biuro sprendimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 3. Pareiškėjo praleistas terminas, nustatytas 17 straipsnio 1 dalyje, gali būti atkurtas pateikus šiuos dokumentus:
 
@@ -546,7 +568,11 @@ TARPTAUTINĖ ŽENKLO REGISTRACIJA
 
 32 straipsnis. Tarptautinės paraiškos ar vėlesnio teritorinio išplėtimo prašymo padavimas paraiškos ar registracijos Lietuvos Respublikoje pagrindu
 
-1. Pareiškėjas ar ženklo savininkas, atitinkantis Madrido protokolo 2 straipsnio 1 dalies (i) papunkčio reikalavimus, tarptautinę paraišką ar vėlesnio teritorinio išplėtimo prašymą turi paduoti per Valstybinį patentų biurą.
+1. Pareiškėjas ar ženklo savininkas, atitinkantis Madrido protokolo 2 straipsnio 1 dalies i papunkčio reikalavimus, tarptautinę paraišką turi paduoti per Valstybinį patentų biurą. Vėlesnio teritorinio išplėtimo prašymas gali būti paduodamas per Valstybinį patentų biurą arba siunčiamas Tarptautiniam biurui tiesiogiai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 2. Paduodant tarptautinę paraišką ar vėlesnio teritorinio išplėtimo prašymą gali būti prašoma suteikti prioritetą pagal Paryžiaus konvencijos nuostatas.
 
@@ -574,15 +600,33 @@ TARPTAUTINĖ ŽENKLO REGISTRACIJA
 
 1. Jeigu tarptautinės ženklo registracijos savininkas nesutinka su Valstybinio patentų biuro sprendimu atsisakyti suteikti apsaugą dėl to, kad ženklas neatitinka šio įstatymo 6 straipsnio reikalavimų, jis turi teisę per 5 mėnesius nuo to sprendimo priėmimo dienos paprašyti atlikti pakartotinę ekspertizę. Nepateikus prašymo per nustatytą terminą, Valstybinio patentų biuro sprendimas laikomas galutiniu.
 
-2. Jeigu tarptautinės ženklo registracijos savininkas nesutinka su pakartotinės ekspertizės metu Valstybinio patentų biuro priimtu sprendimu, jis turi teisę per 5 mėnesius nuo šio sprendimo priėmimo dienos paduoti Apeliaciniam skyriui apeliaciją šio įstatymo 15 straipsnio nustatyta tvarka.
+2. Jeigu tarptautinės ženklo registracijos savininkas nesutinka su pakartotinės ekspertizės metu Valstybinio patentų biuro priimtu sprendimu, jis turi teisę per 3 mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Apeliaciniam skyriui apeliaciją šio įstatymo 15 straipsnio nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 3. Suinteresuoti asmenys ar jų atstovai protestą dėl tarptautinės ženklo registracijos turi paduoti per 3 mėnesius nuo duomenų apie tarptautinę ženklo registraciją paskelbimo Tarptautinio biuro tarptautinių ženklų biuletenyje dienos. Protestas turi atitikti šio įstatymo 18 straipsnio 1 ir 2 dalių reikalavimus.
 
-4. Užprotestuotos tarptautinės ženklo registracijos savininkas per 5 mėnesius nuo protesto padavimo dienos privalo paskirti atstovą šio įstatymo 11 straipsnio 2 dalies nustatyta tvarka ir pateikti motyvuotą atsakymą į protestą. Motyvuoto atsakymo nepateikimas į protestą laikomas atsisakymu dalyvauti protesto nagrinėjime ir neužkerta kelio Apeliaciniam skyriui nagrinėti protestą užprotestuotos tarptautinės ženklo registracijos savininkui ar jo atstovui nedalyvaujant. Jeigu užprotestuotos tarptautinės ženklo registracijos savininkas nepaskyrė atstovo, Apeliacinio skyriaus priimtas sprendimas tarptautinės ženklo registracijos savininkui nesiunčiamas.
+4. Užprotestuotos tarptautinės ženklo registracijos savininkas per 5 mėnesius nuo pranešime Tarptautiniam biurui apie atsisakymą suteikti apsaugą nurodytos datos privalo paskirti atstovą šio įstatymo 11 straipsnio 2 dalies nustatyta tvarka ir pateikti motyvuotą atsakymą į protestą. Motyvuoto atsakymo nepateikimas į protestą laikomas atsisakymu dalyvauti protesto nagrinėjime ir neužkerta kelio Apeliaciniam skyriui nagrinėti protestą užprotestuotos tarptautinės ženklo registracijos savininkui ar jo atstovui nedalyvaujant. Jeigu užprotestuotos tarptautinės ženklo registracijos savininkas nepaskyrė atstovo, Apeliacinio skyriaus priimtas sprendimas tarptautinės ženklo registracijos savininkui nesiunčiamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 5. Tarptautinės ženklo registracijos savininko suteikta licencija negalioja Lietuvos Respublikoje tretiesiems asmenims, jeigu duomenys apie licencinę sutartį neįrašyti šio įstatymo 44 straipsnio nustatyta tvarka.
 
-6. Tarptautinės ženklo registracijos galiojimo termino pratęsimą ir kitus šiame įstatyme neaptartus klausimus, susijusius su tarptautine ženklo registracija, reglamentuoja Madrido protokolas, Madrido protokolo bendrosios taisyklės ir Madrido protokolo įgyvendinimo tvarka.
+6. Tarptautinėms kolektyvinio ženklo registracijoms netaikomi šio įstatymo 29 straipsnio reikalavimai.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+
+7. Tarptautinės ženklo registracijos galiojimo termino pratęsimą ir kitus šiame įstatyme neaptartus klausimus, susijusius su tarptautine ženklo registracija, reglamentuoja Madrido protokolas, Madrido protokolo bendrosios taisyklės ir Madrido protokolo įgyvendinimo tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 ŠEŠTASIS SKIRSNIS
 
@@ -642,11 +686,15 @@ SEPTINTASIS SKIRSNIS
 
 5) gaminti tokį žymenį arba laikyti jo pavyzdžius turint tikslą atlikti bet kuriuos šio straipsnio 2 dalies 1–4 punktuose nurodytus veiksmus.
 
-3. Šio straipsnio 1 dalies 3 punkte nurodytu skiriamojo ženklo požymio pažeidimu pripažįstami atvejai, kai:
+3. Šio straipsnio 1 dalies 3 punkte nurodytu skiriamojo ženklo požymio pažeidimu, be to, pripažįstami atvejai, kai:
 
 1) žymuo naudojamas kaip firmos vardas ir toks jo naudojimas klaidina visuomenę dėl savo panašumo į įregistruotą ženklą bei prekes ir (ar) paslaugas, kurioms šis ženklas įregistruotas;
 
 2) skelbimuose ar kitose visuomenės informavimo priemonėse žymuo atgaminamas arba nurodomas taip, kad gali susidaryti įspūdis, jog atitinkamas ženklas yra tapęs bendriniu tam tikrų prekių ir (ar) paslaugų pavadinimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 39 straipsnis. Ženklo savininko teisių apribojimas
 
@@ -690,7 +738,11 @@ TEISĖS Į ŽENKLĄ PERDAVIMAS, LICENCIJAVIMAS IR ĮKEITIMAS
 
 1. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti perduota pagal sutartį visai ar iš dalies, kartu su kitomis teisėmis, susijusiomis su įmonės veikla, arba atskirai. Teisė į ženklą pereina kartu su įmone, jeigu sutartyje nenumatyta kitaip.
 
-2. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti perduota vienai, kelioms arba visoms prekių ir (ar) paslaugų klasėms žymėti.
+2. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti perduota visoms arba daliai prekių ir (ar) paslaugų žymėti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 3. Teisės į pareikštą registruoti ar įregistruotą ženklą perdavimas įrašomas į Lietuvos Respublikos prekių ženklų registrą vienos iš teisės perdavimo šalių prašymu, jeigu Valstybiniam patentų biurui pateikiami šie dokumentai:
 
@@ -740,7 +792,11 @@ TEISĖS Į ŽENKLĄ PERDAVIMAS, LICENCIJAVIMAS IR ĮKEITIMAS
 
 5. Licencinė sutartis tretiesiems asmenims įsigalioja nuo jos įrašymo į Lietuvos Respublikos prekių ženklų registrą dienos. Licencinės sutarties įrašymo duomenys skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
 
-6. Ženklo savininkas gali panaudoti šio įstatymo 38 straipsnyje numatytas teises prieš licenciatą, jeigu šis nevykdo kurios nors licencinėje sutartyje numatytos sąlygos – dėl jos trukmės, registruoto ženklo naudojimo formos, prekių ir (ar) paslaugų, dėl kurių suteikta licencija, kiekio, teritorijos, kurioje gali būti naudojamas ženklas, arba dėl licenciato gaminamų prekių ir (ar) teikiamų paslaugų kokybės.
+6. Ženklo savininkas gali panaudoti šio įstatymo 38 straipsnyje numatytas teises prieš licenciatą, jeigu šis nevykdo kurios nors licencinėje sutartyje numatytos sąlygos – dėl jos trukmės, registruoto ženklo naudojimo formos, prekių ir (ar) paslaugų, dėl kurių suteikta licencija, apimties (kiekio, rūšies, kilmės), teritorijos, kurioje gali būti naudojamas ženklas, arba dėl licenciato gaminamų prekių ir (ar) teikiamų paslaugų kokybės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 7. Šio straipsnio 1–6 dalių nuostatos taikomos ir sublicencinei sutarčiai.
 
@@ -756,7 +812,11 @@ DEVINTASIS SKIRSNIS
 
 46 straipsnis. Ženklo registracijos pripažinimas negaliojančia
 
-1. Bet kurio suinteresuoto asmens prašymu teismas, remdamasis tuo, kad ženklas neatitinka šio įstatymo 6 ir 7 straipsnių nuostatų, gali pripažinti ženklo registraciją negaliojančia.
+1. Bet kurio suinteresuoto asmens prašymu teismas, remdamasis tuo, kad ženklas neatitinka šio įstatymo 6 ir (ar) 7 straipsnių nuostatų, gali pripažinti ženklo registraciją negaliojančia.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 2. Teismas, priėmęs sprendimą pripažinti ženklo registraciją negaliojančia, išsiunčia įsiteisėjusio sprendimo nuorašą Valstybiniam patentų biurui, o šis išregistruoja ženklą šio įstatymo 24 straipsnio nustatyta tvarka.
 
@@ -818,7 +878,7 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 
 4) ženklo savininko teisių gynimo;
 
-5) ženklo pripažinimo plačiai žinomu Lietuvos Respublikoje.
+5) ženklo pripažinimo plačiai žinomu Lietuvos Respublikoje;
 
 50 straipsnis. Teisių gynimas
 
@@ -886,427 +946,17 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-551 straipsnis. Reglamento dėl Bendrijos prekių ženklo taikymas
+Lietuvos Respublikos prekių ženklų įstatymo
 
-1. Valstybinis patentų biuras yra centrinė pramoninės nuosavybės tarnyba pagal Reglamentą dėl Bendrijos prekių ženklo.
-
-2. Valstybinis patentų biuras patvirtina reikalingus teisės aktus, susijusius su Reglamento dėl Bendrijos prekių ženklo taikymu.
-
-3. Mokesčiai už Valstybinio patentų biuro atliekamus veiksmus padavus per Valstybinį patentų biurą paraišką Bendrijos prekių ženklui registruoti mokami Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo ir Reglamento dėl Bendrijos prekių ženklo nustatyta tvarka.
-
-Papildyta straipsniu:
-
-Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
-
-501 straipsnis. Teisė gauti informaciją
-
-1. Nagrinėdamas ginčą dėl šio įstatymo nustatytų teisių pažeidimo, teismas, remdamasis ieškovo pagrįstu prašymu, teismo proceso metu gali įpareigoti asmenis nedelsiant pateikti informaciją apie šio įstatymo nustatytas teises pažeidžiančių prekių ir paslaugų kilmę ir platinimo būdus, ypač:
-
-1) šio įstatymo nustatytas teises pažeidžiančių prekių (paslaugų) gamintojų, platintojų, tiekėjų ir kitų ankstesnių valdytojų, taip pat didmenine bei mažmenine prekyba užsiimančių asmenų, kuriems buvo skirtos nurodytos prekės (paslaugos), vardus (pavadinimus) ir adresus;
-
-2) duomenis apie pagamintų, patiektų, gautų ar užsakytų šio įstatymo nustatytas teises pažeidžiančių prekių kiekį ir kainą, kuri buvo sumokėta ar turėjo būti sumokėta už tas prekes ar paslaugas.
-
-2. Pateikti šio straipsnio 1 dalyje nurodytą informaciją gali būti įpareigoti šio įstatymo nustatytų teisių pažeidėjai, kiti asmenys, kurie turi komerciniais tikslais savo žinioje šio įstatymo nustatytas teises pažeidžiančias prekes, kurie komerciniais tikslais naudojasi šio įstatymo nustatytas teises pažeidžiančiomis paslaugomis arba kurie komerciniais tikslais teikia paslaugas, kurias tretieji asmenys naudoja darydami šio įstatymo nustatytų teisių pažeidimą, taip pat tie, kurie nurodytų asmenų nurodymu dalyvauja gaminant ar platinant šio įstatymo nustatytas teises pažeidžiančias prekes arba teikiant šio įstatymo nustatytas teises pažeidžiančias paslaugas.
-
-502 straipsnis. Įrodymai
-
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali išreikalauti juos iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio įstatymo nustatytų teisių pažeidimas.
-
-2. Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra šio straipsnio 1 dalyje nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais.
-
-503 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės
-
-1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja Civilinio proceso kodeksas ir šis įstatymas.
-
-2. Kai yra pakankamas pagrindas įtarti, kad buvo pažeistos šio įstatymo nustatytos teisės, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra:
-
-1) uždrausti asmenims daryti gresiantį šio įstatymo nustatytų teisių pažeidimą;
-
-2) įpareigoti asmenis laikinai nutraukti šio įstatymo nustatytų teisių pažeidimą;
-
-3) uždrausti tarpininkui teikti paslaugas tretiesiems asmenims, kurie šiomis paslaugomis naudojasi pažeisdami šio įstatymo nustatytas teises;
-
-4) areštuoti, uždrausti, kad patektų į apyvartą, arba išimti iš apyvartos šio įstatymo nustatytų teisių objektų kopijas ir prekes, jeigu įtariama, kad jos pažeidžia šio įstatymo nustatytas teises;
-
-5) areštuoti šio įstatymo nustatytų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant banko ir kitų kredito įstaigų sąskaitas; taip pat reikalauti pateikti banko, finansinius arba komercinius dokumentus ar sudaryti galimybę susipažinti su šiais dokumentais, jeigu pažeidimas padarytas komerciniu tikslu;
-
-6) taikyti kitas Civilinio proceso kodekso nustatytas priemones.
-
-3. Jeigu pritaikytos šio straipsnio 2 dalies 1 ir 2 punktuose nurodytos laikinosios apsaugos priemonės yra pažeidžiamos ir pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo darymu įtariamus asmenis pateikti tinkamą galimos žalos kompensavimo užtikrinimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones.
-
-4. Teismas turi teisę įpareigoti asmenį, kuris prašo taikyti laikinąsias apsaugos priemones, pateikti visus pagrįstai turimus įrodymus, kurie galėtų pakankamai įtikinti, kad jis ar asmuo, kurio interesais prašoma taikyti laikinąsias apsaugos priemones, yra pagal šį įstatymą nustatytų teisių turėtojas ar naudotojas ir kad pareiškėjo teisė pažeidžiama arba kad gresia toks pažeidimas.
-
-5. Teismas asmens, pateikusio visus pagrįstai turimus ir jo reikalavimus pagrindžiančius įrodymus, kad buvo pažeistos arba gresia, kad bus pažeistos, šio įstatymo nustatytos teisės, prašymu gali taikyti laikinąsias apsaugos ir įrodymų užtikrinimo priemones, jeigu garantuojama konfidencialios informacijos apsauga, ir taip užtikrinti su įtariamu pažeidimu susijusius įrodymus, tai yra:
-
-1) išsamiai aprašyti šio įstatymo nustatytas teises pažeidžiančias prekes ir jas sulaikyti arba tik aprašyti;
-
-2) areštuoti šio įstatymo nustatytas teises pažeidžiančius gaminius, prireikus – medžiagas ir priemones, kurios yra naudojamos jų gamybai ir (arba) platinimui, bei su jomis susijusius dokumentus ir juos paimti;
-
-3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas Civilinio proceso kodekse.
-
-6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kad laikinosios priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, t. y. iš karto tas priemones pritaikius. Šalių prašymu, įskaitant teisę būti išklausytam, laikinosios apsaugos priemonės gali būti peržiūrėtos siekiant per protingą terminą po pranešimo apie priemonių pritaikymą nuspręsti, ar šios priemonės turi būti pakeistos, panaikintos ar patvirtintos.
-
-7. Jeigu teismas taikytas laikinąsias apsaugos ar įrodymų užtikrinimo priemones panaikina arba jos tampa nepagrįstos dėl asmens, kuris kreipėsi dėl tų priemonių taikymo, veikimo ar neveikimo, arba įsiteisėja teismo sprendimas, nustatantis, kad šio įstatymo nustatytų teisių pažeidimo ar pažeidimo grėsmės nebuvo, arba asmuo, kuris kreipėsi dėl laikinųjų apsaugos ar įrodymų užtikrinimo priemonių taikymo, per teismo nustatytą terminą nepareiškia ieškinio, atsakovas turi teisę reikalauti atlyginti žalą, atsiradusią dėl tų priemonių taikymo.
-
-504 straipsnis. Atkuriamosios priemonės
-
-1. Šio įstatymo 50 straipsnio 1 dalyje nurodyti asmenys turi teisę kreiptis į teismą ir reikalauti atšaukti, išimti iš apyvartos prekes taip, kad jiems nebūtų padaryta žala ir būtų užtikrinta jų teisių apsauga (pvz., perdirbti į kitas prekes ar taikyti panašias priemones), ar sunaikinti prekes, kurias teismas nustatė kaip pažeidžiančias šio įstatymo nustatytas teises, o prireikus – ir medžiagas bei priemones, daugiausia naudojamas nurodytiems objektams sukurti ar gaminti.
-
-2. Šio straipsnio 1 dalyje nurodytos priemonės taikomos nepaisant kitų asmens, prašančio taikyti šias priemones, žalos, atsiradusios dėl jo teisių pažeidimo, atlyginimo reikalavimų. Šios priemonės taikomos neatlygintinai, pažeidėjo lėšomis, atsižvelgiant į padaryto pažeidimo sunkumo ir taikomos priemonės santykį bei trečiųjų asmenų teisėtus interesus.
-
-511 straipsnis. Teismo sprendimo paskelbimas
-
-Priimantis sprendimą dėl šio įstatymo nustatytų teisių pažeidimo teismas šio įstatymo 50 straipsnio 1 dalyje nurodytų asmenų prašymu gali įpareigoti pažeidėją savo lėšomis paskelbti informaciją apie priimtą sprendimą, įskaitant viso ar dalies sprendimo paskelbimą visuomenės informavimo priemonėse ar kitokiu būdu. Teismo sprendimas arba informacija apie priimtą teismo sprendimą gali būti paskelbta po teismo sprendimo įsiteisėjimo, jeigu teismas nenustato kitaip. Teismo sprendimo paskelbimo būdas ir kiek skelbti nustatoma pačiame sprendime. Šio įstatymo 50 straipsnio 1 dalyje nurodyti asmenys gali reikalauti, kad pažeidėjas iš anksto sumokėtų į teismo nurodytą sąskaitą pinigų sumą, reikalingą informacijai apie priimtą teismo sprendimą ar teismo sprendimui paskelbti.
-
-231 straipsnis. Paraiškos arba ženklo registracijos padalijimas
-
-1. Pareiškėjui arba jo atstovui pateikus rašytinį prašymą ir sumokėjus nustatytą mokestį, paraiška, kurioje nurodyti keli prekių ir (ar) paslaugų, kurioms žymėti pareikštas registruoti ženklas, pavadinimai, gali būti padalyta į pirminę paraišką ir atskirtąją arba kelias atskirtąsias paraiškas, Taisyklėse nustatyta tvarka atskiriant nurodytus prekių ir (ar) paslaugų pavadinimus. Atskirtojoje paraiškoje nurodyti prekių ir (ar) paslaugų pavadinimai negali sutapti su pirminėje paraiškoje paliktaisiais arba kitose atskirtosiose paraiškose nurodytais prekių ir (ar) paslaugų pavadinimais.
-
-2. Atskirtajai paraiškai galioja pirminės paraiškos padavimo data ir prioriteto teisė, jeigu ši yra.
-
-3. Už kiekvieną atskirtąją paraišką mokamas mokestis kaip už naujai paduotą paraišką su viena prekių ir (ar) paslaugų klase.
-
-4. Ženklo registracija gali būti padalijama, kol ženklo registracija galioja, išskyrus šio straipsnio 5 dalyje nurodytas išimtis. Ženklo registracijos padalijimui mutatis mutandis taikomos šio straipsnio 1 ir 2 dalių nuostatos.
-
-5. Ženklo registracija negali būti dalijama, jeigu nėra suėjęs šio įstatymo 18 straipsnio 1 dalyje nustatytas terminas, taip pat toms prekėms ir (ar) paslaugoms, dėl kurių paduotas protestas arba kurioms ženklo registraciją prašoma pripažinti negaliojančia arba panaikinti teisme, kol įsigalioja atitinkamas Apeliacinio skyriaus sprendimas arba įsiteisėja teismo sprendimas.
-
-6. Už kiekvieną atskirtąją registraciją mokamas mokestis kaip už ženklo registravimą, paskelbimą ir registracijos liudijimo išdavimą.
-
-7. Laikoma, kad iki prašymo padalyti paraišką ar ženklo registraciją gavimo Valstybiniame patentų biure dienos paduoti su pirmine paraiška ar pirmine registracija susiję prašymai yra paduoti, o iki šios dienos sumokėti mokesčiai yra sumokėti ir dėl atskirtosios paraiškos arba atskirtosios ženklo registracijos.
-
-Papildyta straipsniu:
-
-Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
-
-57 straipsnis. Ženklo nenaudojimas kaip gynybos priemonė protesto nagrinėjimo procedūroje
-
-1. Nagrinėjant protestą pagal šio įstatymo 56 straipsnį, jeigu pagal vėlesnio ženklo paraiškos padavimo datą arba prioriteto datą penkerių metų laikotarpis, per kurį ankstesnis ženklas turėjo būti pradėtas iš tikrųjų naudoti, kaip nurodyta šio įstatymo 20 straipsnyje, jau buvo pasibaigęs, pareiškėjo prašymu protestą pareiškęs ankstesnio ženklo savininkas turi pateikti įrodymų, kad per penkerių metų laikotarpį iki vėlesnio ženklo paraiškos padavimo datos arba prioriteto datos ankstesnis ženklas buvo pradėtas iš tikrųjų naudoti, kaip nurodyta šio įstatymo 20 straipsnyje, arba kad buvo svarbių priežasčių to ženklo nenaudoti. Nepateikus tai patvirtinančių įrodymų, protestas atmetamas.
-
-2. Jeigu ankstesnis ženklas buvo naudojamas tik daliai prekių ar paslaugų, kurioms jis buvo įregistruotas, žymėti, nagrinėjant protestą laikoma, kad ženklas įregistruotas tik tai prekių ar paslaugų daliai.
-
-3. Šio straipsnio 1 ir 2 dalys taip pat taikomos, kai ankstesnis ženklas yra Europos Sąjungos prekių ženklas. Tokiu atveju nustatant, ar Europos Sąjungos prekių ženklas iš tikrųjų naudojamas, taikomas Europos Sąjungos prekių ženklų reglamentas.
-
-58 straipsnis. Ženklo registracijos pripažinimo negaliojančia arba panaikinimo procedūra
-
-1. Suinteresuotas asmuo, siekiantis ženklo registraciją pripažinti negaliojančia ar ją panaikinti, turi pateikti motyvuotą rašytinį prašymą Apeliaciniam skyriui. Už prašymo pripažinti ženklo registraciją negaliojančia arba ją panaikinti padavimą turi būti sumokėtas mokestis.
-
-2. Ženklo registracija gali būti panaikinta vadovaujantis šio įstatymo 23 ar 24 straipsniu.
-
-3. Ženklo registracija pripažįstama negaliojančia, jeigu prašymo dėl ženklo registracijos pripažinimo negaliojančia nagrinėjimo metu nustatoma, kad ženklas neturėjo būti įregistruotas, nes:
-
-1) yra bent vienas iš šio įstatymo 7 straipsnyje nustatytų pagrindų;
-
-2) yra bent vienas iš šio įstatymo 8 straipsnio 1, 2 ir 3 dalyse nustatytų pagrindų.
-
-4. Prašymas pripažinti ženklo registraciją negaliojančia arba ją panaikinti gali būti susijęs su visomis prekėmis ar paslaugomis, kurioms registruotas ginčijamas ženklas, arba jų dalimi.
-
-5. Prašymas pripažinti ženklo registraciją negaliojančia gali būti paduotas remiantis viena ar keliomis ankstesnėmis teisėmis, jeigu jos visos priklauso tam pačiam savininkui.
-
-6. Vienu prašymu gali būti ginčijama tik viena ženklo registracija.
-
-7. Apeliacinis skyrius, išnagrinėjęs prašymą pripažinti ženklo registraciją negaliojančia arba ją panaikinti, priima vieną iš šių sprendimų:
-
-1) patenkinti prašymą ir pripažinti ženklo registraciją negaliojančia arba ją panaikinti visoms ar daliai prekių ar paslaugų;
-
-2) atmesti prašymą.
-
-8. Apie priimtą Apeliacinio skyriaus sprendimą per penkias darbo dienas nuo jo priėmimo dienos raštu pranešama šalims. Apeliacinio skyriaus priimti sprendimai skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
-
-9. Apeliacinio skyriaus priimtas sprendimas per tris mėnesius nuo jo priėmimo dienos gali būti apskųstas Vilniaus apygardos teismui.
-
-59 straipsnis. Ženklo nenaudojimas kaip gynybos priemonė procedūroje dėl ženklo registracijos pripažinimo negaliojančia
-
-1. Procedūroje dėl ženklo registracijos pripažinimo negaliojančia, remiantis įregistruotu ankstesniu ženklu, vėlesnio ženklo savininkui paprašius, ankstesnio ženklo savininkas turi pateikti įrodymų, kad penkerius metus iki prašymo pripažinti ženklo registraciją negaliojančia padavimo dienos ankstesnis ženklas iš tikrųjų buvo naudojamas, kaip nurodyta šio įstatymo 20 straipsnyje, prekėms ar paslaugoms, kurioms jis įregistruotas ir kurios nurodomos kaip paraiškos pagrindimas, žymėti arba kad yra svarbių priežasčių ženklo nenaudoti, jeigu prašymo pripažinti ženklo registraciją negaliojančia padavimo dieną yra praėję ne mažiau kaip penkeri metai nuo ankstesnio ženklo registracijos proceso pabaigos.
-
-2. Jeigu pagal vėlesnio ženklo paraiškos padavimo datą arba prioriteto datą penkerių metų laikotarpis, per kurį ankstesnis ženklas turėjo būti pradėtas iš tikrųjų naudoti, kaip nurodyta šio įstatymo 20 straipsnyje, jau buvo pasibaigęs, ankstesnio ženklo savininkas turi pateikti ne tik šio straipsnio 1 dalyje nurodytus įrodymus, bet ir įrodymus, kad per penkerių metų laikotarpį iki paraiškos padavimo datos arba prioriteto datos ženklas iš tikrųjų buvo pradėtas naudoti arba kad buvo svarbių priežasčių jo nenaudoti.
-
-3. Prašymas pripažinti ženklo registraciją negaliojančia remiantis ankstesniu ženklu atmetamas, jeigu šio straipsnio 1 ir 2 dalyse nurodyti įrodymai nepateikiami.
-
-4. Jeigu ankstesnis ženklas buvo naudojamas pagal šio įstatymo 20 straipsnį tik daliai prekių ar paslaugų, kurioms jis buvo įregistruotas, žymėti, nagrinėjant prašymą pripažinti ženklo registraciją negaliojančia, laikoma, kad jis yra įregistruotas tik tai prekių ar paslaugų daliai.
-
-5. Šio straipsnio 1–4 dalys taip pat taikomos, kai ankstesnis ženklas yra Europos Sąjungos prekių ženklas. Tokiu atveju nustatant, ar Europos Sąjungos prekių ženklas iš tikrųjų naudojamas, taikomas Europos Sąjungos prekių ženklų reglamentas.
-
-60 straipsnis. Ženklo registracijos pripažinimo negaliojančia ar panaikinimo pasekmės
-
-1. Ženklo registracija laikoma negaliojančia ab initio tokia apimtimi, kokia ji buvo pripažinta negaliojančia.
-
-2. Ženklo registracija laikoma panaikinta nuo prašymo panaikinti ženklo registraciją padavimo dienos tokia apimtimi, kokia ženklo savininko teisės buvo panaikintos. Vienos iš šalių prašymu ši data gali būti ankstesnė, jeigu nuo jos atsirado vienas iš ženklo registracijos panaikinimo pagrindų.
-
-61 straipsnis. Protestų, prašymų dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo nagrinėjimas Valstybiniame patentų biure
-
-1. Apeliacinis skyrius, priėmęs protestą ar prašymą dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo, išsiunčia jį ginčijamo ženklo pareiškėjui, savininkui ar jo atstovui.
-
-2. Ginčijamo ženklo pareiškėjas arba savininkas ar jo atstovas per du mėnesius nuo protesto ar prašymo dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo išsiuntimo dienos privalo pateikti motyvuotą atsakymą. Motyvuoto atsakymo nepateikimas laikomas atsisakymu dalyvauti nagrinėjant protestą ar prašymą dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo, bet neužkerta kelio Apeliaciniam skyriui nagrinėti atitinkamą ginčą ginčijamo ženklo pareiškėjui arba savininkui ar jo atstovui nedalyvaujant.
-
-3. Ginčo šalys turi teisę susipažinti su protesto ar prašymo pripažinti ženklo registraciją negaliojančia arba ją panaikinti medžiaga, daryti ir gauti jos išrašus ir kopijas (skaitmenines kopijas), pareikšti nušalinimus, teikti įrodymus, žodinio posėdžio metu užduoti klausimus kitai šaliai, pateikti prašymus ir argumentus, duoti paaiškinimus, prieštarauti kitos šalies prašymams ir argumentams, gauti Apeliacinio skyriaus sprendimų patvirtintas kopijas (skaitmenines kopijas). Šalys joms priklausančiomis procesinėmis teisėmis privalo naudotis sąžiningai, privalo veikti siekdamos, kad ginčas būtų išnagrinėtas greitai ir teisingai, pasirūpinti tinkamu atstovavimu, pateikti įrodymus. Jeigu šalis negali dalyvauti Apeliacinio skyriaus posėdyje dėl svarbių priežasčių, ji privalo apie tai pranešti Apeliaciniam skyriui, nurodydama priežastis. Jeigu Apeliacinis skyrius šias priežastis pripažįsta svarbiomis, posėdžio data atidedama.
-
-4. Protestų ir prašymų dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo nagrinėjimui Apeliaciniame skyriuje mutatis mutandis taikomos šio įstatymo 45 straipsnio 2 ir 3 dalys.
-
-5. Protestų ir prašymų dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo nagrinėjimo tvarka nustatoma Apeliacijų, protestų ir prašymų dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo taisyklėse.
-
-6. Protesto ar prašymo dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo nagrinėjimo procedūroje bendru šalių prašymu suteikiamas ne trumpesnis negu dviejų mėnesių, bet ne ilgesnis negu vienų metų laikotarpis išspręsti ginčą taikiai, įskaitant mediaciją Lietuvos Respublikos mediacijos įstatymo nustatyta tvarka.
-
-7. Protestą ar prašymą dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo pateikęs asmuo turi teisę jį atsiimti iki sprendimo priėmimo dienos.
-
-PENKTASIS SKIRSNIS
-
-ŽENKLO REGISTRACIJOS TRUKMĖ IR GALIOJIMO PRATĘSIMAS
-
-62 straipsnis. Ženklo registracijos galiojimo terminas
-
-Ženklo registracijos galiojimo terminas yra 10 metų nuo paraiškos padavimo datos.
-
-63 straipsnis. Ženklo registracijos galiojimo pratęsimas
-
-1. Pasibaigus šio įstatymo 62 straipsnyje nustatytam terminui, ženklo registracijos galiojimas gali būti pratęsiamas visoms arba daliai prekių ar paslaugų kiekvieną kartą ne ilgiau kaip 10 metų.
-
-2. Valstybinis patentų biuras ženklo savininkui praneša apie registracijos galiojimo pabaigą likus ne mažiau kaip šešiems mėnesiams iki jos galiojimo pabaigos.
-
-3. Ženklo registracijos galiojimas pratęsiamas Valstybinio patentų biuro sprendimu, jeigu sumokėtas mokestis. Jeigu ženklo registracijos galiojimą norima pratęsti daliai prekių ar paslaugų arba pakeisti kitus duomenis, nurodytus šio įstatymo 50 straipsnio 7 dalyje, kartu su mokesčiu pateikiamas prašymas pratęsti ženklo registracijos galiojimą, kuriame nurodomi atnaujinti registracijos duomenys.
-
-4. Ženklo savininkas šio straipsnio 3 dalyje nurodytą prašymą pratęsti ženklo registracijos galiojimą turi pateikti ir mokestį sumokėti per paskutinius šešis ženklo registracijos galiojimo mėnesius.
-
-5. Sumokėjęs mokesčio už ženklo registracijos galiojimo termino pratęsimą Mokesčių už pramoninės nuosavybės objektų registravimą įstatymo nustatytą priemoką, ženklo savininkas per šešis mėnesius nuo įregistruoto ženklo registracijos galiojimo pabaigos gali paduoti prašymą pratęsti ženklo registracijos galiojimą.
-
-6. Ženklo registracijos galiojimo pratęsimas įsigalioja kitą dieną po ženklo registracijos galiojimo pabaigos. Duomenys apie ženklo registracijos galiojimo pratęsimą įrašomi į Registrą ir skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
-
-7. Jeigu prašymas pateikiamas ir mokesčiai sumokami tik už kai kurias prekių ar paslaugų, kurioms ženklas įregistruotas, klases, ženklo registracijos galiojimas pratęsiamas tik toms prekėms ar paslaugoms, kurios nurodytos prašyme dėl ženklo registracijos galiojimo pratęsimo.
-
-8. Jeigu per šio straipsnio 4 ir 5 dalyse nustatytus terminus mokestis nesumokamas, ženklo galiojimas nepratęsiamas ir ženklas išregistruojamas iš Registro.
-
-ŠEŠTASIS SKIRSNIS
-
-TARPTAUTINĖ ŽENKLO REGISTRACIJA
-
-64 straipsnis. Tarptautinės ženklo registracijos galiojimas
-
-1. Nuo tarptautinės ženklo registracijos, kurioje nurodoma Lietuvos Respublika, datos pagal Madrido protokolo 3 straipsnio 4 dalį arba teritorinio išplėtimo po tarptautinės ženklo registracijos (toliau – vėlesnis teritorinis išplėtimas) datos pagal Madrido protokolo 3ter straipsnio 2 dalį tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir šio įstatymo nustatyta tvarka pareikštas registruoti ženklas.
-
-2. Nuo šio straipsnio 1 dalyje nurodytos datos tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir ženklas, kuris būtų įregistruotas vadovaujantis šio įstatymo nuostatomis, jeigu pagal Madrido protokolo 5 straipsnio 1 ir 2 dalių nuostatas tarptautinės registracijos ženklui nebuvo atsisakyta suteikti apsaugą Lietuvos Respublikoje arba jeigu toks atsisakymas vėliau buvo atšauktas.
-
-3. Valstybinis patentų biuras duomenis apie tarptautinę ženklo registraciją, išplėstą Lietuvos Respublikoje, įrašo į Registrą.
-
-4. Tarptautinės ženklo registracijos duomenys, paskelbti Tarptautinio biuro Tarptautinių ženklų biuletenyje, pakartotinai Valstybinio patentų biuro oficialiame biuletenyje neskelbiami.
-
-65 straipsnis. Tarptautinės ženklo registracijos negaliojimas ir panaikinimas
-
-1. Jeigu tarptautinės registracijos ženklas neatitinka šio įstatymo 7 straipsnio 1 ar 2 dalies, 33 straipsnio 1 dalies 3–6 punktų ar 41 straipsnio 2 dalies reikalavimų arba jeigu šio įstatymo nustatyta tvarka paduotas protestas, Valstybinis patentų biuras Madrido protokolo nustatytais terminais informuoja Tarptautinį biurą, kad tokio ženklo apsauga Lietuvos Respublikoje visiškai ar iš dalies negali būti suteikta.
-
-2. Tarptautinė ženklo registracija Lietuvos Respublikoje negalioja nuo jos pripažinimo negaliojančia ar jos panaikinimo šio įstatymo 58 straipsnyje nustatyta tvarka Lietuvos Respublikoje dienos. Apie tokį galutinį sprendimą Valstybinis patentų biuras Madrido protokolo nustatyta tvarka informuoja Tarptautinį biurą.
-
-3. Jeigu tarptautinė ženklo registracija kilmės šalies tarnybos prašymu panaikinama arba jeigu Madrido protokolo susitariančioji šalis denonsuoja šį protokolą, ženklo savininkas šio įstatymo nustatyta tvarka gali paduoti paraišką ženklą registruoti Lietuvos Respublikoje.
-
-4. Šio straipsnio 3 dalyje nurodyta paraiška laikoma paduota tarptautinės ženklo registracijos ar vėlesnio teritorinio išplėtimo dieną, prireikus atsižvelgiant į suteiktą prioriteto datą, jeigu laikomasi šių sąlygų:
-
-1) paraiška paduodama per tris mėnesius nuo tarptautinės ženklo registracijos pabaigos šio straipsnio 3 dalyje nustatytais pagrindais;
-
-2) paraiškoje nėra nurodyta kitokių prekių ar paslaugų negu tarptautinėje ženklo registracijoje;
-
-3) paraiška atitinka šio įstatymo 38 straipsnyje nurodytus reikalavimus ir pareiškėjas sumoka nustatytus mokesčius.
-
-66 straipsnis. Tarptautinės paraiškos ar vėlesnio teritorinio išplėtimo prašymo padavimas paraiškos ar ženklo registracijos Lietuvos Respublikoje pagrindu
-
-1. Pareiškėjas ar ženklo savininkas, atitinkantis Madrido protokolo 2 straipsnio 1 dalies i papunkčio reikalavimus, tarptautinę paraišką turi paduoti per Valstybinį patentų biurą. Vėlesnio teritorinio išplėtimo prašymas gali būti paduodamas per Valstybinį patentų biurą arba siunčiamas Tarptautiniam biurui tiesiogiai. Už tarptautinės paraiškos nagrinėjimą Valstybiniame patentų biure pareiškėjas turi sumokėti nustatytą mokestį.
-
-2. Paduodant tarptautinę paraišką ar vėlesnio teritorinio išplėtimo prašymą, gali būti prašoma suteikti prioritetą pagal Paryžiaus konvencijos nuostatas.
-
-3. Tarptautinė paraiška ir vėlesnio teritorinio išplėtimo prašymas turi atitikti Madrido protokolo ir Madrido sutarties dėl tarptautinės ženklų registracijos ir su ja susijusio protokolo bendrosiose taisyklėse (toliau – Madrido protokolo bendrosios taisyklės) patvirtintą formą ir reikalavimus.
-
-4. Valstybiniame patentų biure tarptautinės paraiškos ir vėlesnio teritorinio išplėtimo prašymai paduodami ir nagrinėjami vadovaujantis Valstybinio patentų biuro direktoriaus tvirtinamomis Madrido protokolo įgyvendinimo tvarkos taisyklėmis.
-
-67 straipsnis. Nacionalinės ženklo registracijos pakeitimas tarptautine ženklo registracija
-
-1. Kai ženklo savininko iniciatyva Lietuvos Respublikoje įregistruotas ženklas yra ir tarptautinės ženklo registracijos objektas, tarptautinė ženklo registracija gali atstoti Lietuvos Respublikoje galiojančią nacionalinę ženklo registraciją, jeigu:
-
-1) tarptautinė ženklo registracija yra išplėsta Lietuvos Respublikoje;
-
-2) visos nacionalinėje ženklo registracijoje išvardytos prekės ar paslaugos yra išvardytos ir tarptautinėje ženklo registracijoje;
-
-3) tarptautinė ženklo registracija išplėsta Lietuvos Respublikoje po to, kai vadovaujantis šio įstatymo 38 straipsniu paraiška paduodama Valstybiniam patentų biurui.
-
-2. Sumokėjusio nustatytą mokestį ženklo savininko prašymu Valstybinis patentų biuras nacionalinės ženklo registracijos pakeitimo tarptautine ženklo registracija duomenis įrašo į Registrą ir paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
-
-68 straipsnis. Specialios nuostatos, taikomos tarptautinei ženklo registracijai
-
-1. Jeigu tarptautinės registracijos ženklo savininkas nesutinka su Valstybinio patentų biuro sprendimu atsisakyti suteikti apsaugą dėl to, kad ženklas neatitinka šio įstatymo 7 straipsnio 1 ar 2 dalies reikalavimų, jis turi teisę per tris mėnesius nuo to sprendimo priėmimo dienos pateikti prašymą atlikti pakartotinę ekspertizę. Nepateikus prašymo per nustatytą terminą, Valstybinio patentų biuro sprendimas laikomas galutiniu.
-
-2. Jeigu tarptautinės registracijos ženklo savininkas nesutinka su Valstybinio patentų biuro priimtu sprendimu atsisakyti suteikti apsaugą dėl šio įstatymo 33 straipsnio 1 dalies 3–6 punktuose ar 41 straipsnio 3 dalyje nurodytų pagrindų, jis turi teisę per du mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Apeliaciniam skyriui apeliaciją šio įstatymo 45 straipsnyje nustatyta tvarka.
-
-3. Suinteresuoti asmenys protestą, tretieji asmenys pastabas dėl tarptautinės ženklo registracijos turi teisę paduoti per tris mėnesius nuo duomenų apie tarptautinę ženklo registraciją paskelbimo Tarptautinio biuro Tarptautinių ženklų biuletenyje dienos. Protestas turi atitikti šio įstatymo 56 straipsnio 1, 2 ir 3 dalių reikalavimus.
-
-4. Į Registrą įrašoma data, nuo kurios pagal šio įstatymo 20 straipsnio 2 dalį skaičiuojamas penkerių metų ženklo nenaudojimo laikotarpis.
-
-5. Duomenys apie tarptautinės registracijos ženklo savininko suteiktą licenciją gali būti įrašyti į Registrą šio įstatymo 27 straipsnyje nustatyta tvarka.
-
-6. Jeigu tarptautinės registracijos ženklas yra kolektyvinis ženklas, jo savininkas turi pateikti kolektyvinio ženklo naudojimo nuostatus ir jų vertimą į valstybinę kalbą per du mėnesius nuo duomenų apie tarptautinę ženklo registraciją paskelbimo Tarptautinio biuro Tarptautinių ženklų biuletenyje dienos.
-
-7. Jeigu tarptautinės registracijos ženklas yra sertifikavimo ženklas, šio ženklo savininkas turi pateikti dokumentą, patvirtinantį jo teisę vykdyti sertifikavimo funkciją, ir šio dokumento vertimą į valstybinę kalbą per du mėnesius nuo duomenų apie tarptautinę ženklo registraciją paskelbimo Tarptautinio biuro Tarptautinių ženklų biuletenyje dienos.
-
-8. Tarptautinės ženklo registracijos galiojimo termino pratęsimą, mokesčių Tarptautiniam biurui mokėjimą ir kitus šiame įstatyme neaptartus tarptautinės ženklo registracijos klausimus reglamentuoja Madrido protokolas, Madrido protokolo bendrosios taisyklės ir Madrido protokolo įgyvendinimo tvarkos taisyklės.
-
-IV SKYRIUS
-
-GINČŲ DĖL ŽENKLŲ NAGRINĖJIMAS. ŽENKLO SAVININKO TEISIŲ GYNIMAS
-
-69 straipsnis. Ginčus dėl ženklų nagrinėjančios institucijos
-
-1. Apeliacinis skyrius privaloma ikiteismine ginčų nagrinėjimo procedūra nagrinėja apeliacijas dėl šiame įstatyme nurodytų Valstybinio patentų biuro sprendimų, protestus ir prašymus dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo šio įstatymo nustatyta tvarka, išskyrus atvejus, kai dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo pareiškiamas priešieškinis teisme nagrinėjant ginčą dėl ženklo savininko teisių pažeidimo.
-
-2. Vilniaus apygardos teismas nagrinėja ginčus dėl:
-
-1) Valstybinio patentų biuro Apeliacinio skyriaus sprendimų;
-
-2) ženklo savininko teisių pažeidimo;
-
-3) ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo tais atvejais, kai dėl to pareiškiamas priešieškinis nagrinėjant ginčą dėl ženklo savininko teisių pažeidimo;
-
-4) ženklo pripažinimo plačiai žinomu Lietuvos Respublikoje;
-
-5) Europos Sąjungos prekių ženklų pagal Europos Sąjungos prekių ženklų reglamentą.
-
-70 straipsnis. Teisių gynimo būdai
-
-1. Pareiškėjas, ženklo savininkas ar jų teisių perėmėjai, gindami savo teises, taip pat išimtinių licencijų licenciatai, gindami jiems suteiktas teises, įstatymų nustatyta tvarka turi teisę kreiptis į teismą ir reikalauti:
-
-1) pripažinti jų teises;
-
-2) įpareigoti nutraukti neteisėtus veiksmus;
-
-3) uždrausti atlikti veiksmus, dėl kurių gali būti realiai pažeistos teisės arba atsirasti žala;
-
-4) atlyginti turtinę žalą, įskaitant negautas pajamas ir kitas turėtas išlaidas, o šio įstatymo 75 straipsnyje nurodytais atvejais – ir neturtinę žalą;
-
-5) taikyti kitus šio įstatymo ir kitų įstatymų nustatytus teisių gynimo būdus.
-
-2. Teismas, siekdamas užtikrinti įpareigojimo nutraukti neteisėtus veiksmus, taip pat draudimo atlikti veiksmus, dėl kurių gali būti realiai pažeistos teisės arba atsirasti žala, vykdymą, šio straipsnio 1 dalyje nurodytų asmenų prašymu gali įpareigoti pažeidėją tiems asmenims pateikti tinkamą galimos žalos kompensavimo užtikrinimą.
-
-3. Kai asmens, kuriam priimamas įpareigojimas nutraukti neteisėtus veiksmus ar taikomos šio įstatymo 74 straipsnyje nurodytos atkuriamosios priemonės, veiksmuose dėl šio įstatymo nustatytų teisių pažeidimo nėra kaltės, teismas šio asmens prašymu gali įpareigoti jį sumokėti nukentėjusiai šaliai piniginę kompensaciją, jeigu taikant šioje dalyje nurodytus teisių gynimo būdus atsirastų neproporcingai didelė žala tam asmeniui ir jeigu piniginė kompensacija nukentėjusiai šaliai yra priimtina ir pakankama.
-
-4. Šio straipsnio 1 dalyje nurodyti asmenys, gindami savo teises, turi teisę kreiptis į teismą ir reikalauti uždrausti tarpininkui teikti paslaugas tretiesiems asmenims, kurie šiomis paslaugomis naudojasi pažeisdami šio įstatymo nustatytas teises. Šis draudimas apima su šio įstatymo nustatytų teisių pažeidimu susijusios informacijos perdavimo sustabdymą arba, jeigu tarpininkas techniškai gali tai atlikti, tokias teises pažeidžiančios informacijos pašalinimą, arba draudimą gauti šias teises pažeidžiančią informaciją. Toks teismo sprendimo įvykdymas neatleidžia tarpininko nuo atsakomybės už veiksmus ar neveikimą, susijusius su tokios informacijos laikymu ar perdavimu, buvusiu iki šio sprendimo įsigaliojimo.
-
-5. Nagrinėjant ženklo savininko teisių pažeidimo bylą, atsakovas turi teisę pareikšti priešieškinį dėl ženklo registracijos pripažinimo negaliojančia ir jos panaikinimo.
-
-6. Ženklo savininkas turi teisę kreiptis į teismą prašydamas uždrausti Lietuvos Respublikos teritorijoje naudoti Europos Sąjungos prekių ženklą pagal Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutarties dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą, pasirašytos 2003 m. balandžio 16 d. Atėnuose, ir Akto dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo sąlygų ir sutarčių, kuriomis yra grindžiama Europos Sąjunga, pritaikomųjų pataisų U priedo „Stojimo akto 20 straipsnyje nurodytas sąrašas. 4. Bendrovių teisė. C. Pramoninės nuosavybės teisės“ nuostatas dėl Europos Sąjungos (Bendrijos) prekių ženklo.
-
-7. Šio įstatymo 69 straipsnio 2 dalis, šis straipsnis, 71, 72, 73, 74, 75 ir 76 straipsniai mutatis mutandis taikomi ir teisėms į geografines nuorodas ginti.
-
-71 straipsnis. Teisė gauti informaciją
-
-1. Teismas, remdamasis ieškovo pagrįstu prašymu, teismo proceso metu gali įpareigoti asmenis nedelsiant pateikti informaciją apie šio įstatymo nustatytas teises pažeidžiančių prekių ir paslaugų kilmę ir platinimo būdus, ypač:
-
-1) šio įstatymo nustatytas teises pažeidžiančių prekių (paslaugų) gamintojų, platintojų, tiekėjų ir kitų ankstesnių valdytojų, taip pat didmenine ir mažmenine prekyba užsiimančių asmenų, kuriems buvo skirtos nurodytos prekės ar paslaugos, pavadinimus arba vardus ir pavardes bei adresus;
-
-2) duomenis apie pagamintų, patiektų, gautų ar užsakytų šio įstatymo nustatytas teises pažeidžiančių prekių kiekį ir kainą, kuri buvo sumokėta ar turėjo būti sumokėta už tas prekes ar paslaugas.
-
-2. Pateikti šio straipsnio 1 dalyje nurodytą informaciją gali būti įpareigoti šio įstatymo nustatytų teisių pažeidėjai, kiti asmenys, kurie komerciniais tikslais turi savo žinioje šio įstatymo nustatytas teises pažeidžiančių prekių ir kurie komerciniais tikslais naudojasi šio įstatymo nustatytas teises pažeidžiančiomis paslaugomis arba kurie komerciniais tikslais teikia paslaugas, kurias tretieji asmenys naudoja darydami šio įstatymo nustatytų teisių pažeidimą, taip pat tie, kurie nurodytų asmenų nurodymu dalyvauja gaminant ar platinant šio įstatymo nustatytas teises pažeidžiančias prekes arba teikiant šio įstatymo nustatytas teises pažeidžiančias paslaugas.
-
-72 straipsnis. Įrodymai
-
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad padarytas šio įstatymo nustatytų teisių pažeidimas.
-
-2. Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra šio straipsnio 1 dalyje nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jeigu garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais.
-
-73 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės
-
-1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja Civilinio proceso kodeksas ir šis įstatymas.
-
-2. Kai yra pakankamas pagrindas įtarti, kad buvo pažeistos šio įstatymo nustatytos teisės, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, skubiai nutraukti neteisėtus veiksmus ir įvykdyti teismo galutinį sprendimą, tai yra:
-
-1) uždrausti asmenims daryti gresiantį šio įstatymo nustatytų teisių pažeidimą;
-
-2) įpareigoti asmenis laikinai nutraukti šio įstatymo nustatytų teisių pažeidimą;
-
-3) uždrausti tarpininkui teikti paslaugas tretiesiems asmenims, kurie šiomis paslaugomis naudojasi pažeisdami šio įstatymo nustatytas teises;
-
-4) areštuoti, uždrausti, kad patektų į apyvartą, arba išimti iš apyvartos šio įstatymo nustatytų teisių objektų kopijas ir prekes, jeigu įtariama, kad jos pažeidžia šio įstatymo nustatytas teises;
-
-5) areštuoti šio įstatymo nustatytų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant kredito, mokėjimo ir elektroninių pinigų įstaigose atidarytas sąskaitas; taip pat reikalauti pateikti kredito, mokėjimo ir elektroninių pinigų įstaigų finansinius arba komercinius dokumentus ar sudaryti galimybę susipažinti su šiais dokumentais, jeigu pažeidimas padarytas komerciniu tikslu;
-
-6) taikyti kitas Civilinio proceso kodekso nustatytas priemones.
-
-3. Jeigu pritaikytos šio straipsnio 2 dalies 1 ir 2 punktuose nurodytos laikinosios apsaugos priemonės pažeidžiamos ir pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo darymu įtariamus asmenis pateikti tinkamą galimos žalos kompensavimo užtikrinimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones.
-
-4. Teismas turi teisę įpareigoti asmenį, kuris prašo taikyti laikinąsias apsaugos priemones, pateikti visus pagrįstai turimus įrodymus, kurie galėtų pakankamai įtikinti, kad jis ar asmuo, kurio interesais prašoma taikyti laikinąsias apsaugos priemones, yra pagal šį įstatymą nustatytų teisių turėtojas ar naudotojas ir kad pareiškėjo teisė pažeidžiama arba kad gresia toks pažeidimas.
-
-5. Teismas asmens, pateikusio visus pagrįstai turimus ir jo reikalavimus pagrindžiančius įrodymus, kad buvo pažeistos arba gresia, kad bus pažeistos šio įstatymo nustatytos teisės, prašymu gali taikyti laikinąsias apsaugos ir įrodymų užtikrinimo priemones, jeigu garantuojama konfidencialios informacijos apsauga, ir taip užtikrinti su įtariamu pažeidimu susijusius įrodymus, tai yra:
-
-1) išsamiai aprašyti šio įstatymo nustatytas teises pažeidžiančias prekes ir jas sulaikyti arba tik aprašyti;
-
-2) areštuoti šio įstatymo nustatytas teises pažeidžiančius gaminius, prireikus – ir medžiagas, ir priemones, kurios naudojamos joms gaminti ar platinti, bei su jomis susijusius dokumentus ir juos paimti;
-
-3) taikyti kitas skubias ir veiksmingas laikinąsias apsaugos priemones, nurodytas Civilinio proceso kodekse.
-
-6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomos žalos pareiškėjui arba kai įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kad laikinosios apsaugos priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, tai yra iš karto tas priemones pritaikius. Šalių prašymu, įskaitant teisę būti išklausytam, laikinosios apsaugos priemonės gali būti peržiūrėtos siekiant per protingą terminą po pranešimo apie priemonių pritaikymą nuspręsti, ar šios priemonės turi būti pakeistos, panaikintos ar patvirtintos.
-
-7. Jeigu teismas taikytas laikinąsias apsaugos ar įrodymų užtikrinimo priemones panaikina arba jos tampa nepagrįstos dėl asmens, kuris kreipėsi dėl tų priemonių taikymo, veikimo ar neveikimo, arba įsiteisėja teismo sprendimas, nustatantis, kad šio įstatymo nustatytų teisių pažeidimo ar pažeidimo grėsmės nebuvo, arba asmuo, kuris kreipėsi dėl laikinųjų apsaugos ar įrodymų užtikrinimo priemonių taikymo, per teismo nustatytą terminą nepareiškia ieškinio, atsakovas turi teisę reikalauti atlyginti žalą, atsiradusią dėl tų priemonių taikymo.
-
-74 straipsnis. Atkuriamosios priemonės
-
-1. Šio įstatymo 70 straipsnio 1 dalyje nurodyti asmenys turi teisę kreiptis į teismą ir reikalauti atšaukti, išimti iš apyvartos prekes taip, kad jiems nebūtų padaryta žalos ir būtų užtikrinta jų teisių apsauga (pavyzdžiui, perdirbti į kitas prekes ar taikyti panašias priemones), ar sunaikinti prekes, kurias teismas nustatė kaip pažeidžiančias šio įstatymo nustatytas teises, o prireikus – ir medžiagas, ir priemones, daugiausia naudojamas nurodytiems objektams sukurti ar gaminti.
-
-2. Šio straipsnio 1 dalyje nurodytos priemonės taikomos nepaisant kitų asmens, prašančio taikyti šias priemones, žalos, atsiradusios dėl jo teisių pažeidimo, atlyginimo reikalavimų. Šios priemonės taikomos neatlygintinai pažeidėjo lėšomis, atsižvelgiant į padaryto pažeidimo sunkumo ir taikomos priemonės santykį bei trečiųjų asmenų teisėtus interesus.
-
-75 straipsnis. Turtinės ir neturtinės žalos atlyginimas
-
-1. Turtinės žalos atlyginimo tvarką reglamentuoja Civilinis kodeksas ir šis įstatymas.
-
-2. Nustatydamas dėl šio įstatymo nustatytų teisių pažeidimo faktiškai atsiradusios žalos (nuostolių) dydį, teismas atsižvelgia į pažeidimo esmę, padarytos žalos dydį, negautas pajamas, turėtas išlaidas, kitas svarbias aplinkybes. Pažeidėjo gauta nauda šio įstatymo 70 straipsnio 1 dalyje nurodytų asmenų reikalavimu gali būti pripažinta nuostoliais. Šio įstatymo nustatytas teises pažeidžiančios prekės gali būti perduotos tų teisių turėtojams šių prašymu.
-
-3. Šio įstatymo 70 straipsnio 1 dalyje nurodytų asmenų negautų pajamų dydis nustatomas atsižvelgiant į tai, kiek pajamų būtų gauta teisėtai naudojantis šio įstatymo saugomu ženklu (tai yra į atlyginimą, kuris paprastai mokamas už teisėtą ženklo naudojimą), taip pat į konkrečias aplinkybes, kurios galėjo sudaryti sąlygas gauti pajamų (teisių turėtojų atlikti darbai, panaudotos priemonės, derybos dėl ženklo naudojimo sutarčių sudarymo ir kita).
-
-4. Vietoj žalos (nuostolių), faktiškai atsiradusios (atsiradusių) dėl šio įstatymo nustatytų teisių pažeidimo, atlyginimo šio įstatymo 70 straipsnio 1 dalyje nurodyti asmenys gali reikalauti atlyginimo, kuris turėjo būti sumokėtas, jeigu pažeidėjas būtų teisėtai naudojęs ženklą (tai yra gavęs leidimą), o kai yra pažeidėjo tyčia ar didelis neatsargumas, – iki dviejų kartų didesnio atlyginimo.
-
-5. Kai pažeidėjas atlieka veiksmus nežinodamas ir neturėdamas žinoti, kad jis pažeidžia šio įstatymo nustatytas teises (tai yra jo veiksmuose nėra kaltės), teismas šio įstatymo 70 straipsnio 1 dalyje nurodytų asmenų reikalavimu gali išreikalauti iš pažeidėjo gautą naudą. Pažeidėjo gauta nauda laikoma visa tai, ką pažeidėjas sutaupė ar gavo pažeisdamas šio įstatymo nustatytas teises. Pažeidėjo gauta nauda nustatoma ir išieškoma neatsižvelgiant į tai, ar pats teisių turėtojas tokią naudą, kokią gavo pažeidėjas, būtų gavęs, ar ne. Nustatant pažeidėjo gautą naudą, teisių turėtojas turi pateikti tik tuos įrodymus, kurie patvirtintų pažeidėjo gautas bendras pajamas; kokia yra pažeidėjo grynoji nauda (nauda, atskaičius išlaidas), turi įrodyti pats pažeidėjas.
-
-6. Ženklo savininko teises pažeidęs asmuo privalo atlyginti neturtinę žalą. Šios žalos dydį pinigais nustato teismas, vadovaudamasis Civilinio kodekso normomis, reglamentuojančiomis neturtinės žalos atlyginimą.
-
-76 straipsnis. Teismo sprendimo paskelbimas
-
-Teismas, priimantis sprendimą dėl šio įstatymo nustatytų teisių pažeidimo, šio įstatymo 70 straipsnio 1 dalyje nurodytų asmenų prašymu gali įpareigoti pažeidėją savo lėšomis paskelbti informaciją apie priimtą sprendimą, įskaitant viso ar dalies sprendimo paskelbimą visuomenės informavimo priemonėse ar kitokiu būdu. Teismo sprendimas arba informacija apie priimtą teismo sprendimą gali būti paskelbta po teismo sprendimo įsiteisėjimo, jeigu teismas nenustato kitaip. Teismo sprendimo paskelbimo būdas ir apimtis nustatoma pačiame sprendime. Šio įstatymo 70 straipsnio 1 dalyje nurodyti asmenys gali reikalauti, kad pažeidėjas iš anksto sumokėtų į teismo nurodytą sąskaitą pinigų sumą, reikalingą informacijai apie priimtą teismo sprendimą ar teismo sprendimui paskelbti.
-
-77 straipsnis. Muitinės priežiūros priemonių taikymas
-
-Šio įstatymo nustatytas teises pažeidžiančioms neteisėtai ženklu pažymėtoms prekėms, kurios importuojamos iš trečiųjų valstybių į Lietuvos Respubliką, įvežamos į Lietuvos Respubliką neišleidžiant jų į laisvą apyvartą Lietuvos Respublikos teritorijoje arba iš jos eksportuojamos į trečiąsias valstybes, taikomos Europos Sąjungos ir Lietuvos Respublikos teisės aktų nustatytos muitinės priežiūros priemonės.
-
-V SKYRIUS
-
-EUROPOS SĄJUNGOS PREKIŲ ŽENKLŲ REGLAMENTAS. ADMINISTRACINIS BENDRADARBIAVIMAS
-
-78 straipsnis. Europos Sąjungos prekių ženklų reglamento taikymas
-
-1. Valstybinis patentų biuras yra centrinė pramoninės nuosavybės tarnyba pagal Europos Sąjungos prekių ženklų reglamentą.
-
-2. Vilniaus apygardos teismas yra teismas, vykdantis Europos Sąjungos prekių ženklų teismo funkcijas pagal Europos Sąjungos prekių ženklų reglamentą.
-
-3. Lietuvos apeliacinis teismas suinteresuotos šalies prašymu, pateikus teismui Europos Sąjungos intelektinės nuosavybės tarnybos sprendimą dėl atlyginamų išlaidų dydžio kartu su patvirtintu sprendimo vertimu į lietuvių kalbą, ne vėliau kaip per penkias darbo dienas Civilinio proceso kodekso nustatyta tvarka patikrina įsiteisėjusio Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo autentiškumą ir išduoda vykdomąjį raštą.
-
-79 straipsnis. Valstybinio patentų biuro bendradarbiavimas su kitų Europos Sąjungos valstybių narių pramoninės nuosavybės tarnybomis
-
-1. Valstybinis patentų biuras bendradarbiauja su kitų Europos Sąjungos valstybių narių pramoninės nuosavybės tarnybomis ir su Europos Sąjungos intelektinės nuosavybės tarnyba, siekdamas skatinti ženklų ekspertizės ir registravimo praktikos ir priemonių konvergenciją bei užtikrinti ženklų apsaugą Europos Sąjungoje.
-
-2. Valstybinis patentų biuras yra paskirtoji įstaiga, įgyvendinanti Europos Sąjungos prekių ženklų reglamento 172 straipsnio 4 ir 5 dalis.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
-Lietuvos Respublikos
-
-prekių ženklų įstatymo
+Nr. VIII-1981
 
 priedas
 
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+Lietuvos Respublikos prekių ženklų įstatymas yra suderintas su 1988 m. gruodžio 21 d. Pirmąja Tarybos direktyva Nr. 89/104/EEB dėl valstybių narių prekių ženklų įstatymų derinimo.
 
-1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32).
+Papildyta priedu:
 
-2. 2015 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2436 valstybių narių teisės aktams, susijusiems su prekių ženklais, suderinti (nauja redakcija) (OL 2015 L 336, p. 1).
-
-3. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2017/1001 dėl Europos Sąjungos prekių ženklo (kodifikuota redakcija) (OL 2017 L 154, p. 1).
-
-Priedo pakeitimai:
-
-Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 
 Pakeitimai:
 
@@ -1333,36 +983,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-651, 2006-06-08, Žin., 2006, Nr. 72-2670 (2006-06-28), i. k. 1061010ISTA000X-651
 
 Lietuvos Respublikos prekių ženklų įstatymo dešimtojo skirsnio ir 56 straipsnio pakeitimo bei papildymo ir Įstatymo priedo papildymo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
-
-Lietuvos Respublikos prekių ženklų įstatymo 2, 5, 7, 8, 9, 11, 12, 13, 15, 16, 19, 23, 25, 26, 27, 32, 34, 36, 38, 43, 44, 46, 47, 49 straipsnių, Įstatymo priedo pakeitimo ir papildymo ir Įstatymo papildymo 23-1 straipsniu įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-264, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06264
-
-Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 21 straipsnio pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-549, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11946
-
-Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 2, 11 ir 55-1 straipsnių pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1679, 2018-12-04, paskelbta TAR 2018-12-18, i. k. 2018-20698
-
-Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 pakeitimo įstatymas
 
