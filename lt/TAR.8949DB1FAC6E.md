@@ -4,7 +4,7 @@ identifier: "TAR.8949DB1FAC6E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1989-11-03"
-last_updated: "1990-10-27"
+last_updated: "1992-06-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8949DB1FAC6E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 1990-10-27 iki 1992-06-07
+Suvestinė redakcija nuo 1992-06-08 iki 1994-06-21
 
 Įstatymas paskelbtas: Žin. 1989, Nr. 33-445, i. k. 0891010ISTA0XI-3335
 
@@ -289,7 +289,11 @@ REZULTATŲ NUSTATYMAS
 
 27 straipsnis. Balsavimo laikas ir vieta
 
-Referendumo dieną balsuojama nuo 8 iki 20 valandos. Apie balsavimo laiką ir vietą apylinkės referendumo komisija informuoja piliečius ne vėliau kaip prieš dešimt dienų iki referendumo.
+Referendumo dieną balsuojama nuo 8 iki 20 valandos. Respublikos referendumo komisija, likus iki referendumo vykdymo datos ne mažiau kaip 3 dienoms, turi teisę nustatyti ilgesnę balsavimo trukmę, tačiau visais atvejais balsavimas negali prasidėti anksčiau kaip 6 valandą ir turi baigtis ne vėliau kaip 23 valandą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-2624, 1992-06-08, Lietuvos aidas, 1992, Nr. 111-0 (1992-06-09); Žin., 1992, Nr. 18-515 (1992-06-30), i. k. 0921010ISTA00I-2624
 
 Balsavimo apylinkėse, sudarytose laivuose, kurie referendumo dieną yra kelionėje, taip pat prie Lietuvos TSR įstaigų užsienyje, apylinkės referendumo komisija gali paskelbti balsavimą baigtą bet kuriuo laiku, jeigu balsavo visi į sąrašą įrašyti piliečiai.
 
@@ -394,4 +398,12 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-695, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-755 (1990-11-10), i. k. 0901010ISTA000I-695
 
 Dėl Lietuvos Respublikos referendumo įstatymo 7 straipsnio pakeitimo
+
+2.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-2624, 1992-06-08, Lietuvos aidas, 1992, Nr. 111-0 (1992-06-09); Žin., 1992, Nr. 18-515 (1992-06-30), i. k. 0921010ISTA00I-2624
+
+Dėl Lietuvos Respublikos referendumo įstatymo 27 straipsnio pirmosios dalies pakeitimo
 
