@@ -4,7 +4,7 @@ identifier: "TAR.C5DF704DF871"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-22"
-last_updated: "1995-10-31"
+last_updated: "1995-12-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C5DF704DF871"
 department: "Lietuvos Respublikos Seimas"
@@ -17,11 +17,11 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Redaguota: 1995 06 14
+Redaguota: 1996 01 05
 
-Redaguota: 1995 06
+Redaguota: 1996 01
 
-14
+05
 
 Pakeitimai:
 
@@ -73,7 +73,7 @@ MOKESČIO ĮSTATYMO
 
 PAKEITIMO IR PAPILDYMO
 
-4. Lietuvos
+4.Lietuvos
 
 Respublikos Įstatymas
 
@@ -89,11 +89,13 @@ MOKESČIO ĮSTATYMO
 
 PAKEITIMO IR PAPILDYMO
 
-5. Lietuvos
+5.Lietuvos
 
 Respublikos 1995 05 30
 
-Įstatymas Nr.1-904;
+Įstatymas
+
+Nr.1-904;
 
 Žin., 1995,
 
@@ -107,25 +109,47 @@ MOKESČIO ĮSTATYMO
 
 PAKEITIMO IR PAPILDYMO
 
-6.
+6.Lietuvos
 
-Lietuvos Respublikos
+Respublikos 1995 10 31
 
-Seimas, Įstatymas
+Įstatymas
 
-Nr.I-1083, 95.10.31,
+Nr.1-1083
 
-Žin., 1995, Nr.92-2057 (95.11.10)
+Žin., 1995,
+
+Nr.92-2057
 
 DĖL LIETUVOS
 
-RESPUBLIKOS PRIDĖTINĖS VERTĖS
+RESPUBLIKOS PRIDĖTINĖS
 
-MOKESČIO ĮSTATYMO 38
+VERTĖS  MOKESČIO
 
-STRAIPSNIO PAKEITIMO
+ĮSTATYMO  38
 
-*** Pabaiga ***
+STRAIPSNIO
+
+PAKEITIMO
+
+7.Lietuvos
+
+Respublikos 1995 12 28
+
+Įstatymas
+
+Nr.1-1159
+
+Žin., 1996, Nr.1-3
+
+DĖL LIETUVOS
+
+RESPUBLIKOS
+
+MOKESČIŲ ĮSTATYMŲ
+
+PAPILDYMO
 
 LIETUVOS RESPUBLIKOS
 
@@ -243,7 +267,7 @@ kultūros įstaigų,
 
 nustatyta tvarka,
 
-teikiamas mokymo,  mokslo, studijų ir kultūros
+teikiamas mokymo,  mokslo, studijų ir kultūros
 
 paslaugas;
 
@@ -333,9 +357,7 @@ Pakeitimai:
 
 Nr. 58-1136
 
-2.Nr.1-774;
-
-1995.01.26.;
+2.Nr.1-774; 1995.01.26.;
 
 Žin., 1995,
 
@@ -379,7 +401,7 @@ negrąžinamas.  Kompensacinis tarifas  gali būti taikomas
 
 ūkininkams, kurių
 
-metinės   realizacinės   pajamos neviršija  50
+metinės   realizacinės   pajamos neviršija  50
 
 tūkst. litų.
 
@@ -433,9 +455,9 @@ pageidauja. Šie
 
 asmenys PVM moka į biudžetą (PVM grąžinamas jiems
 
-iš biudžeto) pradėdami
+iš biudžeto)
 
-nuo kito mėnesio po registracijos.
+pradėdami nuo kito mėnesio po registracijos.
 
 Jeigu per
 
@@ -517,7 +539,7 @@ kuriems taikomas  PVM kompensacinis tarifas.
 
 Jeigu šie  asmenys
 
-mokestį  paėmė, tai  jį privalo   sumokėti   į
+mokestį  paėmė, tai  jį privalo   sumokėti   į
 
 biudžetą.
 
@@ -987,9 +1009,9 @@ Nr. 28-489
 
 Nr.12-261
 
-19 straipsnis. Iš
+19 straipsnis.
 
-apskaičiuotos PVM už realizuotas prekes ir
+Iš apskaičiuotos PVM už realizuotas prekes ir
 
 paslaugas sumos
 
@@ -1025,7 +1047,7 @@ plotui   (gyvenamiesiems  namams), poilsio  namams,
 
 vasaros
 
-stovykloms,   skirtoms  mokėtojo darbuotojų  poreikiams
+stovykloms,   skirtoms  mokėtojo darbuotojų  poreikiams
 
 tenkinti, išlaikyti;
 
@@ -1143,17 +1165,17 @@ asmeniniam
 
 naudojimui   įsigytas  prekes, jeigu  šių organizacijų
 
-sutartyse su  Lietuvos
+sutartyse su
 
-Respublika  numatyta  neimti  PVM  ar  jam
+Lietuvos Respublika  numatyta  neimti  PVM  ar  jam
 
 tapačių mokesčių
 
 arba numatyta juos grąžinti;
 
-4) Lietuvos
+4) Lietuvos  Respublikos
 
-Respublikos Vyriausybės  nustatyta  tvarka  už
+Vyriausybės  nustatyta  tvarka  už
 
 importuojamas
 
@@ -1301,64 +1323,6 @@ biudžetą mokėtiną
 
 PVM sumą, neatskaitomos.
 
-29
-
-straipsnis.  Jeigu   mokėtojas apskaičiavo  ir įrašė į
-
-sąskaitą-faktūrą
-
-PVM  už prekes  ir paslaugas, už kurias pagal šį
-
-įstatymą mokestis
-
-neturi būti  skaičiuojamas, tai jis  privalo
-
-nustatyta tvarka šį
-
-PVM sumokėti į biudžetą.
-
-30
-
-straipsnis.   PVM  mokėtojai   privalo   vesti   atskirą
-
-apmokestinamų  PVM
-
-prekių  (paslaugų)   pirkimo  ir   pardavimo
-
-apskaitą, kuria
-
-remiantis apskaičiuojamas PVM.
-
-Ūkininkai,
-
-kuriems  taikomas  PVM  kompensacinis    tarifas,
-
-tvarko   parduotos
-
-produkcijos  ir   suteiktų  paslaugų  su PVM
-
-apskaitos
-
-žurnalą  ir  saugo  sąskaitas-faktūras  Buhalterinės
-
-apskaitos pagrindų
-
-įstatymo nustatytą laiką.
-
-Pakeitimai:
-
-1.Nr.1-774;
-
-1995.01.26.;
-
-Žin., 1995,
-
-Nr.12-261
-
-VIII.
-
-MOKESČIO MOKĖJIMO Į BIUDŽETĄ TVARKA
-
 31 straipsnis.
 
 PVM  laikotarpis  yra  kalendorinis  mėnuo.
@@ -1383,9 +1347,9 @@ naftos produktus.
 
 Pakeitimai:
 
-1.Nr.1-904; 1995
+1.Nr.1-904;
 
-05 30
+1995 05 30
 
 Žin., 1995,
 
@@ -1411,7 +1375,7 @@ Jeigu mokėtojas nustatytu laiku deklaracijos
 
 nepateikė, tai
 
-valstybinė    mokesčių  inspekcija padidina vienu
+valstybinė    mokesčių  inspekcija padidina vienu
 
 procentu  mokesčio
 
@@ -1427,9 +1391,9 @@ sumokėjimo į
 
 biudžetą termino,  Valstybinė  mokesčių  inspekcija
 
-laikinai, iki
+laikinai, iki  deklaracijos
 
-deklaracijos  pateikimo,  iš  mokėtojų  -  įmonių,
+pateikimo,  iš  mokėtojų  -  įmonių,
 
 įstaigų  ir
 
@@ -1461,7 +1425,9 @@ Nr. 58-1136
 
 1995.01.26.;
 
-Žin., 1995, Nr.12-261
+Žin., 1995,
+
+Nr.12-261
 
 34 straipsnis.
 
@@ -1511,7 +1477,7 @@ deklaracijos  pateikimo  termino,  išskyrus  Lietuvos
 
 Respublikoje
 
-pagamintus ir įvežamus alkoholinius  gėrimus, tabako
+pagamintus ir įvežamus alkoholinius  gėrimus, tabako
 
 gaminius  bei
 
@@ -1519,7 +1485,7 @@ naftos  produktus,  kuriems  Lietuvos  Respublikos
 
 Vyriausybė   gali
 
-nustatyti  kitą  PVM apskaičiavimo ir mokėjimo
+nustatyti  kitą  PVM apskaičiavimo ir mokėjimo
 
 tvarką. Apskaičiuota
 
@@ -1533,9 +1499,9 @@ Nustatytu
 
 laiku   PVM  nesumokėjus  (negrąžinus),  imama 0,3
 
-procento
+procento delspinigių
 
-delspinigių   už  kiekvieną  pradelstą  dieną, įskaitant
+už  kiekvieną  pradelstą  dieną, įskaitant
 
 mokesčio sumokėjimo
 
@@ -1615,7 +1581,7 @@ dienos sumokėti į biudžetą.
 
 Laiku
 
-nesumokėtas   mokesčių   ir   baudų   sumas   išieško
+nesumokėtas   mokesčių   ir   baudų   sumas   išieško
 
 valstybinės mokesčių
 
@@ -1633,6 +1599,18 @@ fizinių asmenų - per
 
 teismą.
 
+Lietuvos
+
+Respublikos įstatymų nustatytais  atvejais  mokesčio
+
+mokėtojai  gali
+
+būti  atleisti  nuo nesumokėto pridėtinės vertės
+
+mokesčio ir dėl to
+
+priskaičiuotos baudos mokėjimo
+
 Pakeitimai:
 
 1.Nr.1-774;
@@ -1642,6 +1620,18 @@ Pakeitimai:
 Žin., 1995,
 
 Nr.12-261
+
+2.Lietuvos
+
+respublikos 1995 12 28
+
+Įstatymas
+
+Nr.1-1159
+
+Žin., 1996,
+
+Nr1-3
 
 X. BAIGIAMOSIOS NUOSTATOS
 
@@ -1821,17 +1811,17 @@ Skelbiu šį Lietuvos
 
 Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS
+RESPUBLIKOS PREZIDENTAS
 
-PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
+ALGIRDAS BRAZAUSKAS
 
 16 straipsnis.
 
 Atskaitoma PVM  suma yra įtraukta į apskaitą
 
-PVM suma  už tiekėjų
+PVM suma  už
 
-pateiktas prekes,  suteiktas paslaugas  bei
+tiekėjų  pateiktas prekes,  suteiktas paslaugas  bei
 
 importuotas
 
@@ -1921,7 +1911,7 @@ straipsnis.   Importuojamų   prekių   vertė   nustatoma
 
 atsižvelgiant  į
 
-šio  įstatymo   10  straipsnio   ir   Lietuvos
+šio  įstatymo   10  straipsnio   ir   Lietuvos
 
 Respublikos muitų
 
@@ -1951,9 +1941,7 @@ laikinai
 
 įvežtas  perdirbti   prekes  ar   iš  jų  pagamintus
 
-kompensacinius
-
-produktus;
+kompensacinius produktus;
 
 2) prekės,
 
@@ -2225,17 +2213,15 @@ Pakeitimai:
 
 Nr.12-261
 
-37 straipsnis.  Šis
+37 straipsnis.
 
-įstatymas įsigalioja nuo 1994 m. gegužės
+Šis įstatymas įsigalioja nuo 1994 m. gegužės
 
 1 dienos.
 
 Pakeitimai:
 
-1.Nr.1-412;
-
-1994.03.24.;
+1.Nr.1-412; 1994.03.24.;
 
 Žin., 1994,
 
@@ -2287,9 +2273,9 @@ krosnims kuras,
 
 mazutas, malkos, branduolinis kuras;
 
-2)
+2) gyvenamiesiems
 
-gyvenamiesiems  namams ir  butų ūkiui  tiekiamas  vanduo,
+namams ir  butų ūkiui  tiekiamas  vanduo,
 
 elektros ir
 
@@ -2309,7 +2295,7 @@ paslaugos, kurias  teikia privačios  sveikatos
 
 priežiūros ir
 
-veterinarinio aptarnavimo įstaigos.
+veterinarinio aptarnavimo įstaigos."
 
 Pakeitimai:
 
@@ -2329,9 +2315,15 @@ Nr. 58-1136
 
 Nr.12-261
 
-Nr.I-1083, 95.10.31,
+3.Lietuvos
 
-Žin., 1995, Nr.92-2057 (95.11.10)
+Respublikos 1995 10 31
+
+Įstatymas Nr.1-1083
+
+Žin., 1995,
+
+Nr.92-2057
 
 38-1
 
@@ -2450,4 +2442,62 @@ Nr.12-261
 Žin., 1995,
 
 Nr. 49-1178
+
+29    straipsnis.
+
+Jeigu   mokėtojas apskaičiavo  ir įrašė į
+
+sąskaitą-faktūrą
+
+PVM  už prekes  ir paslaugas, už kurias pagal šį
+
+įstatymą mokestis
+
+neturi būti  skaičiuojamas, tai jis  privalo
+
+nustatyta tvarka šį
+
+PVM sumokėti į biudžetą.
+
+30
+
+straipsnis.   PVM  mokėtojai   privalo   vesti   atskirą
+
+apmokestinamų  PVM
+
+prekių  (paslaugų)   pirkimo  ir   pardavimo
+
+apskaitą, kuria
+
+remiantis apskaičiuojamas PVM.
+
+Ūkininkai,
+
+kuriems  taikomas  PVM  kompensacinis    tarifas,
+
+tvarko   parduotos
+
+produkcijos  ir   suteiktų  paslaugų  su PVM
+
+apskaitos
+
+žurnalą  ir  saugo  sąskaitas-faktūras  Buhalterinės
+
+apskaitos pagrindų
+
+įstatymo nustatytą laiką.
+
+Pakeitimai:
+
+1.Nr.1-774;
+
+1995.01.26.;
+
+Žin., 1995,
+
+Nr.12-261
+
+VIII.
+
+MOKESČIO MOKĖJIMO Į BIUDŽETĄ TVARKA
 
