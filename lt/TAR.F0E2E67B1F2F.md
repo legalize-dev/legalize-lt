@@ -4,7 +4,7 @@ identifier: "TAR.F0E2E67B1F2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-03-19"
-last_updated: "2003-12-05"
+last_updated: "2004-10-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2003-12-05 iki 2004-10-25
+Suvestinė redakcija nuo 2004-10-26 iki 2005-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
 
@@ -52,7 +52,11 @@ BENDROSIOS NUOSTATOS
 
 4. Kambarys (numeris) – apgyvendinimui skirtame pastate specialiai įrengta patalpa ar jų grupė ir apgyvendinimo paslaugų teikėjo siūloma asmenims nuomotis kaip nedaloma visuma.
 
-5. Kelionės organizatorius – juridinis asmuo, reguliariai rengiantis organizuotas turistines keliones ir savo vardu viešai siūlantis teikti turizmo paslaugas bet kuriam asmeniui arba tam tikrai asmenų grupei.
+5. Kelionės organizatorius – juridinis asmuo, kuris įstatymų nustatyta tvarka ir sąlygomis reguliariai verčiasi turizmo verslu ir tiesiogiai arba per tarpininkus (kelionių pardavimo agentus) savo vardu viešai siūlo teikti turizmo paslaugas bet kuriam asmeniui arba tam tikrai asmenų grupei.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2476, 2004-10-12, Žin., 2004, Nr. 156-5689 (2004-10-26), i. k. 1041010ISTA0IX-2476
 
 6. Kelionės organizavimo paslauga – veiklos, susijusios su organizuotų turistinių kelionių rengimu ir (ar) jų pardavimu, rezultatas.
 
@@ -62,7 +66,11 @@ BENDROSIOS NUOSTATOS
 
 9. Kurortas – įstatymo suteiktas statusas gyvenamajai vietovei, kurioje yra gamtinių gydomųjų veiksnių (mineralinių vandenų, gydomojo purvo, sveikatai palankus klimatas, rekreacinių želdinių, vandens telkinių) bei speciali infrastruktūra šiems veiksniams naudoti gydymui, profilaktikai ir poilsiui bei turizmui.
 
-10. Organizuota turistinė kelionė (turizmo paslaugų rinkinys) – iš anksto parengta, už bendrą kainą parduodama turistinė kelionė, kurią sudaro ne mažiau kaip dvi turizmo paslaugos (apgyvendinimo, vežimo, kita esminę kelionės dalį sudaranti turizmo paslauga, nesusijusi su vežimu ar apgyvendinimu) ir kuri tęsiasi ilgiau kaip 24 valandas arba yra įtraukta nakvynė.
+10. Organizuota turistinė kelionė – iš anksto už bendrą kainą parengtas arba siūlomas įsigyti turizmo paslaugų rinkinys, kurį sudaro ne mažiau kaip dvi turizmo paslaugos (apgyvendinimo, vežimo, kita esminę kelionės dalį sudaranti turizmo paslauga, nesusijusi su vežimu ar apgyvendinimu), ir jeigu ši turistinė kelionė tęsiasi ilgiau kaip 24 valandas arba į ją yra įtraukta nakvynė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2476, 2004-10-12, Žin., 2004, Nr. 156-5689 (2004-10-26), i. k. 1041010ISTA0IX-2476
 
 11. Rekreacinė teritorija – vietovė, turinti gamtines ar kultūrines aplinkos savybes ir sąlygas žmonių visaverčiam fiziniam bei dvasiniam poilsiui organizuoti.
 
@@ -176,7 +184,11 @@ KELIONĖS ORGANIZAVIMO PASLAUGOS
 
 2) pakeitimai daromi po sutarties sudarymo abiejų sutarties šalių rašytiniu susitarimu.
 
-4. Prieš turizmo paslaugų teikimo sutarties pasirašymą kelionės organizatorius ir (ar) kelionių agentūra privalo įteikti turistui rašytinį dokumentą, kuriame būtų išsami informacija, nurodyta šio straipsnio 2 dalyje, jei ši informacija turistui nebuvo žinoma iš jam pateikto kelionės prospekto, katalogo, kitos turistinę kelionę aprašančios medžiagos arba jei ta informacija nėra nurodyta sutartyje ar jos priede.
+4. Prieš turizmo paslaugų teikimo sutarties pasirašymą kelionės organizatorius ir (ar) kelionių agentūra privalo įteikti turistui rašytinį dokumentą, kuriame būtų išsami informacija, nurodyta šio straipsnio 2 dalyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2476, 2004-10-12, Žin., 2004, Nr. 156-5689 (2004-10-26), i. k. 1041010ISTA0IX-2476
 
 5. Prieš išvykstant į kelionę, kelionės organizatorius ir (ar) kelionių agentūra privalo rašytine forma turistui laiku pateikti:
 
@@ -573,6 +585,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1854, 2003-11-25, Žin., 2003, Nr. 114-5119 (2003-12-05), i. k. 1031010ISTA0IX-1854
 
 Lietuvos Respublikos turizmo įstatymo 14 ir 15 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2476, 2004-10-12, Žin., 2004, Nr. 156-5689 (2004-10-26), i. k. 1041010ISTA0IX-2476
+
+Lietuvos Respublikos turizmo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas
 
 25 straipsnis. Apskrities viršininko kompetencija plėtojant turizmą
 
