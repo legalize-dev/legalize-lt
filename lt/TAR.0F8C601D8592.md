@@ -4,7 +4,7 @@ identifier: "TAR.0F8C601D8592"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-09"
-last_updated: "2000-11-01"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2000-11-01 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2006-06-27
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
 
@@ -56,7 +56,11 @@ BENDROSIOS NUOSTATOS
 
 1) išvengti neteisėtų valstybės sienos ženklinimo pakeitimų;
 
-2) užtikrinti, kad fiziniai ir juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių (toliau – asmenys) laikytųsi valstybės sienos teisinio režimo, pasienio teisinio režimo ir pasienio kontrolės punktų veiklos taisyklių;
+2) užtikrinti, kad fiziniai ir juridiniai asmenys (toliau – asmenys) laikytųsi valstybės sienos teisinio režimo, pasienio teisinio režimo ir pasienio kontrolės punktų veiklos taisyklių;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1423, 2003-04-03, Žin., 2003, Nr. 38-1668 (2003-04-24), i. k. 1031010ISTA0IX-1423
 
 3) užtikrinti kitus gyvybiškai svarbius asmenų, visuomenės ir valstybės interesus pasienio kontrolės punktuose ir vietose, kur galioja pasienio teisinis režimas.
 
@@ -188,15 +192,19 @@ Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010I
 
 3. Reikalavimai ir draudimai, numatyti šio straipsnio 1 dalies 4 punkte ir 2 dalies 3 bei 4 punktuose, netaikomi užsienio valstybėms priklausantiems karo laivams ar laivams, naudojamiems nekomerciniais tikslais.
 
-4. Šio straipsnio 1 dalyje nurodytos plaukiojimo priemonės (išskyrus užsienio valstybėms priklausančius karo laivus ar laivus, naudojamus nekomerciniais tikslais) gali būti sustabdytos siekiant sulaikyti asmenį arba atlikti tyrimą dėl nusikaltimo, padaryto laivo plaukimo metu, jei:
+4. Šio straipsnio 1 dalyje nurodytos plaukiojimo priemonės (išskyrus užsienio valstybėms priklausančius karo laivus ar laivus, naudojamus nekomerciniais tikslais) gali būti sustabdytos siekiant sulaikyti asmenį arba atlikti tyrimą dėl nusikalstamos veikos, padarytos laivo plaukimo metu, jei:
 
-1) nusikaltimo padariniai yra susiję su Lietuvos Respublikos ar asmenų interesais;
+1) nusikalstamos veikos padariniai yra susiję su Lietuvos Respublikos ar asmenų interesais;
 
-2) padarytas ar daromas nusikaltimas trikdo Lietuvos Respublikos viešąją tvarką arba pažeidžia taikaus plaukimo teritorine jūra tvarką;
+2) padaryta ar daroma nusikalstama veika trikdo Lietuvos Respublikos viešąją tvarką arba pažeidžia taikaus plaukimo teritorine jūra tvarką;
 
 3) tokios priemonės yra reikalingos, kad būtų užkirstas kelias neteisėtai ginklų, šaudmenų, sprogmenų, sprogstamųjų, narkotinių, psichotropinių, pavojingų ir (ar) kenksmingų medžiagų apyvartai;
 
 4) to prašo įplaukusio į Lietuvos Respublikos teritorinę jūrą laivo kapitonas arba laivo įregistravimo valstybės diplomatinis atstovas ar konsulinis pareigūnas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1423, 2003-04-03, Žin., 2003, Nr. 38-1668 (2003-04-24), i. k. 1031010ISTA0IX-1423
 
 5. Šiame straipsnyje nurodytos plaukiojimo priemonės (išskyrus užsienio valstybėms priklausančius karo laivus ar laivus, naudojamus nekomerciniais tikslais) gali būti sustabdytos ar sulaikytos, jei:
 
@@ -509,4 +517,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
 
 Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 2, 8, 9, 10, 11, 15, 17, 19, 20, 21, 22, 23, 24, 25, 26, 28 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1423, 2003-04-03, Žin., 2003, Nr. 38-1668 (2003-04-24), i. k. 1031010ISTA0IX-1423
+
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 2 ir 8 straipsnių pakeitimo įstatymas
 
