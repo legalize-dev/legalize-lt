@@ -4,7 +4,7 @@ identifier: "TAR.75C66B100186"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "1992-10-15"
+last_updated: "1993-10-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.75C66B100186"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -14,6 +14,10 @@ published_in_tar: "1992-09-15"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įmonių bankroto įstatymas
+
+Suvestinė redakcija nuo 1993-10-13 iki 1994-06-07
+
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 191-0; Žin. 1992, Nr.29-843, i. k. 0921010ISTA00I-2880
 
 LIETUVOS RESPUBLIKOS ĮMONIŲ BANKROTO ĮSTATYMAS
 
@@ -57,7 +61,11 @@ Pranešime turi būti nurodyta: įmonės pavadinimas ir kiti rekvizitai, pirmojo
 
 Sprendimą dėl neteisminės bankroto procedūros taikymo gali priimti kreditorių susirinkimas, susitaręs su skolininku, jeigu šiam sprendimui vienbalsiai pritaria visi kreditoriai.
 
-Bankroto procedūros taikymas neteismine tvarka nustatomas šalims susitarus. Kreditorių reikalavimų patenkinimo tvarka ir sąlygos nustatomos pagal šiame įstatyme nustatytą teisminę bankroto bylų nagrinėjimo tvarką ir sąlygas.
+Kreditorių susirinkimo sprendimų vykdymo ir reikalavimų patenkinimo tvarka nustatoma pagal šiame įstatyme nustatytą teisminę bankroto bylų nagrinėjimo tvarką ir sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-258, 1993-09-28, Žin., 1993, Nr. 52-999 (1993-10-13), i. k. 0931010ISTA000I-258
 
 Jeigu šalys nesusitaria dėl bankroto procedūros taikymo arba jei kreditorių susirinkimas, remdamasis šiame įstatyme nustatyta tvarka, negali priimti sprendimo dėl reikalavimų patenkinimo sąlygų ir tvarkos, šis klausimas perduodamas nagrinėti teismui.
 
@@ -404,4 +412,14 @@ PIRMININKAS                                  �
 Vilnius, 1992 m. rugsėjo 15 d.
 
 Nr. I-2880
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-258, 1993-09-28, Žin., 1993, Nr. 52-999 (1993-10-13), i. k. 0931010ISTA000I-258
+
+Dėl Lietuvos Respublikos įmonių bankroto įstatymo pakeitimo
 
