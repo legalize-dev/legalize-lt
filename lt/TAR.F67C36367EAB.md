@@ -4,7 +4,7 @@ identifier: "TAR.F67C36367EAB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "1994-11-29"
+last_updated: "1994-12-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F67C36367EAB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" Nr. I-551, priimto 1994 m. liepos 19 d., įsigaliojimo tvarkos
+
+Suvestinė redakcija nuo 1994-12-14
+
+Įstatymas paskelbtas: Žin. 1994, Nr. 92-1800, i. k. 0941010ISTA000I-654
 
 LIETUVOS RESPUBLIKOS
 
@@ -74,9 +78,11 @@ Baudžiamosios bylos, iškeltos pagal šiuos straipsnius, nutraukiamos.
 
 18. Asmenys, nuteisti pagal Baudžiamojo kodekso 2271 straipsnį, laisvės atėmimo bausmę atlieka ištisai kalėjime tik tuo atveju, jei šį nusikaltimą padarė po 1995 m. sausio 1 dienos.
 
-19. Asmenų, nuteistų mirties bausme, kuri neįvykdyta, bausmės vykdymas laikinai sustabdomas. Generalinė prokuratūra iki 1995 m. vasario 1 d. peržiūri šias bylas, atsižvelgdama į Baudžiamojo kodekso 121 ir 24 straipsnių reikalavimus ir, jei yra pagrindas, pateikia savo išvadą dėl bylos atnaujinimo dėl naujai paaiškėjusių aplinkybių Lietuvos Aukščiausiajam Teismui, kuris per dvi savaites priima sprendimą dėl jos.
+19. Neteko galios nuo 1994-12-14
 
-Mirties bausmės vykdymas atnaujinamas tik po Aukščiausiojo Teismo sprendimo dėl Generalinės prokuratūros išvados kopijos gavimo bausmės vykdymo institucijoje.
+Punkto naikinimas:
+
+Nr. I-686, 1994-12-08, Žin. 1994, Nr. 96-1879 (1994-12-14), i. k. 0941010ISTA000I-686
 
 20. Asmenų, kuriems buvo taikytas Baudžiamojo kodekso 60 straipsnis, priverstinis gydymas nuo alkoholizmo, toksikomanijos ar narkomanijos nutraukiamas.
 
@@ -109,4 +115,14 @@ c) patikslina vietovių, kuriose nuteistiesiems laisvės atėmimu neleidžiama v
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-686, 1994-12-08, Žin., 1994, Nr. 96-1879 (1994-12-14), i. k. 0941010ISTA000I-686
+
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" (Nr. I-551) ir Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" Nr. I-551, priimto 1994 m. liepos 19 d., įsigaliojimo tvarkos" pakeitimo
 
