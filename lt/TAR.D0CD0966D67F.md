@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2002-09-24"
+last_updated: "2002-10-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -1607,11 +1607,15 @@ sprendimus dėl jungimosi į savivaldybių sąjungas, dėl bendradarbiavimo su
 
 užsienio šalių savivaldybėmis ar prisijungimo prie tarptautinių savivaldos
 
-organizacijų.
+organizacijų;
 
 41) tvirtina
 
-kaimo plėtros programas.
+kaimo plėtros programas;
+
+42) priima sprendimus skelbti vietos gyventojų
+
+apklausą.
 
 Straipsnio pakeitimai:
 
@@ -1628,6 +1632,10 @@ Nr.
 IX-839,
 
 2002-04-09, Žin., 2002, Nr. 43-1604 (2002-04-26)
+
+Nr. IX-1137,
+
+2002-10-15, Žin., 2002, Nr. 103-4605 (2002-10-30)
 
 18 straipsnis.
 
@@ -1669,9 +1677,9 @@ sprendimu savivaldybės tarybos veiklos reglamento nustatyta tvarka.
 
 posėdžiai protokoluojami. Posėdžių protokolus pasirašo to posėdžio
 
-pirmininkas – meras ar posėdžiui pirmininkavęs valdybos narys ir
+pirmininkas – meras ar posėdžiui pirmininkavęs valdybos narys ir administratoriaus
 
-administratoriaus paskirtas atsakingas už protokolus savivaldybės tarnautojas.
+paskirtas atsakingas už protokolus savivaldybės tarnautojas.
 
 6. Valdybos
 
@@ -1701,11 +1709,11 @@ pavaduotoju (pavaduotojais), gali 1/3 išrinktų tarybos narių. Valdybos nariai
 
 iš valdybos atleidžiami, jeigu už nepasitikėjimą balsuoja visų tarybos
 
-narių dauguma. Jeigu sprendimas atleisti atskirus valdybos narius iš pareigų
+narių dauguma. Jeigu sprendimas atleisti atskirus valdybos narius iš pareigų dėl
 
-dėl nepasitikėjimo nepriimamas, šis klausimas pakartotinai svarstomas
+nepasitikėjimo nepriimamas, šis klausimas pakartotinai svarstomas savivaldybės
 
-savivaldybės tarybos veiklos reglamento nustatyta tvarka.
+tarybos veiklos reglamento nustatyta tvarka.
 
 8. Valdybos
 
@@ -1937,11 +1945,11 @@ pavaduotoją dėl nepasitikėjimo nepriimamas, šį klausimą pakartotinai svars
 
 galima tik po pusės metų.
 
-4. Mero pavaduotojas
+4. Mero
 
-mero teikimu prieš terminą netenka savo įgaliojimų, jeigu už tai balsuoja visų
+pavaduotojas mero teikimu prieš terminą netenka savo įgaliojimų, jeigu už tai
 
-tarybos narių dauguma.
+balsuoja visų tarybos narių dauguma.
 
 5. Mero, mero
 
@@ -2043,11 +2051,9 @@ Nr. IX-963,
 
 Mero, mero pavaduotojo įgaliojimai
 
-1. Meras yra
+1. Meras yra atskaitingas
 
-atskaitingas savivaldybės tarybai ir bendruomenei už savivaldybės veiklą.
-
-Meras:
+savivaldybės tarybai ir bendruomenei už savivaldybės veiklą. Meras:
 
 1) nustato ir
 
@@ -2195,7 +2201,11 @@ kultūros vertybių apsauga;
 
 rečiau kaip kartą per metus atsiskaito rinkėjams už savivaldybės tarybos ir
 
-valdybos veiklą.
+valdybos veiklą;
+
+22) koordinuoja
+
+pasirengimą vietos gyventojų apklausai ir ją organizuoja.
 
 2.
 
@@ -2232,6 +2242,10 @@ IX-585,
 Nr. IX-633,
 
 2001-12-10, Žin., 2001, Nr. 110-3984 (2001-12-29), įsigalioja nuo 2002-04-01
+
+Nr. IX-1137,
+
+2002-10-15, Žin., 2002, Nr. 103-4605 (2002-10-30)
 
 PENKTASIS
 
@@ -2307,9 +2321,9 @@ klausimu prieštarauja Viešųjų ir privačių interesų derinimo valstybinėje
 
 tarnyboje įstatymui;
 
-5) ne rečiau
+5) ne rečiau kaip
 
-kaip vieną kartą per metus atsiskaityti rinkėjams savivaldybės tarybos veiklos
+vieną kartą per metus atsiskaityti rinkėjams savivaldybės tarybos veiklos
 
 reglamento nustatyta tvarka.
 
@@ -2389,11 +2403,9 @@ rinkimų komisijos sprendimu pagal Savivaldybių tarybų rinkimų įstatymą;
 
 užsienio valstybę;
 
-4) įsiteisėjus teismo sprendimui dėl
+4) įsiteisėjus teismo sprendimui dėl tarybos
 
-tarybos nario – ne Lietuvos Respublikos piliečio išsiuntimo iš Lietuvos
-
-Respublikos.
+nario – ne Lietuvos Respublikos piliečio išsiuntimo iš Lietuvos Respublikos.
 
 Straipsnio pakeitimai:
 
@@ -2421,21 +2433,23 @@ veiklos reglamente nustatyta tvarka. Tarybos nariai, dirbantys valstybės ir
 
 savivaldybių įstaigose, negali gauti kompensacijos už savivaldybės
 
-taryboje sugaištą laiką, jeigu už tą patį laiką jie gavo atlyginimą pagrindinėje
+taryboje sugaištą laiką, jeigu už tą patį laiką jie gavo atlyginimą
 
-darbovietėje. Tarybos nariui su jo veikla susijusioms kanceliarijos, pašto,
+pagrindinėje darbovietėje. Tarybos nariui su jo veikla susijusioms
 
-telefono, transporto išlaidoms kas mėnesį gali būti mokama išmoka, kurios dydis
+kanceliarijos, pašto, telefono, transporto išlaidoms kas mėnesį gali būti
 
-patvirtinamas tarybos veiklos reglamente nustatyta tvarka.
+mokama išmoka, kurios dydis patvirtinamas tarybos veiklos reglamente nustatyta
+
+tvarka.
 
 2. Jeigu pagal
 
 mero potvarkį tarybos narys atstovauja savivaldybei už savivaldybės ribų,
 
-savivaldybės administracija Vyriausybės nustatyta tvarka apmoka jam
+savivaldybės administracija Vyriausybės nustatyta tvarka apmoka jam komandiruotės
 
-komandiruotės išlaidas.
+išlaidas.
 
 3. Savivaldybės
 
@@ -2443,9 +2457,9 @@ tarybos, komitetų ir valdybos posėdžių laiku, taip pat kitais savivaldybės 
 
 veiklos reglamento nustatytais atvejais tarybos narys atleidžiamas nuo
 
-tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje,
+tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje, įmonėje
 
-įmonėje ar organizacijoje.
+ar organizacijoje.
 
 Straipsnio
 
@@ -2453,9 +2467,9 @@ pakeitimai:
 
 Nr.
 
-IX-839, 2002-04-09,
+IX-839,
 
-Žin., 2002, Nr. 43-1604 (2002-04-26)
+2002-04-09, Žin., 2002, Nr. 43-1604 (2002-04-26)
 
 ŠEŠTASIS
 
@@ -2529,11 +2543,11 @@ srityse.
 
 7. Savivaldybės
 
-kontrolieriaus ir savivaldybės kontrolieriaus tarnybos veiklos nuostatus
+kontrolieriaus ir savivaldybės kontrolieriaus tarnybos veiklos nuostatus tvirtina
 
-tvirtina savivaldybės taryba. Be to, taryba nustato savivaldybės kontrolieriaus
+savivaldybės taryba. Be to, taryba nustato savivaldybės kontrolieriaus tarnybos
 
-tarnybos (jeigu ji steigiama) darbo užmokesčio fondą ir, vadovaudamasi įstatymų
+(jeigu ji steigiama) darbo užmokesčio fondą ir, vadovaudamasi įstatymų
 
 nustatytais koeficientais, tvirtina savivaldybės kontrolieriaus atlyginimą.
 
@@ -2657,13 +2671,13 @@ tikrinamų įstaigų ir įmonių vadovams išvadas bei pasiūlymus dėl patikrin
 
 metu konstatuotų trūkumų pašalinimo ir reikalauja iš jų informacijos apie tokių
 
-trūkumų pašalinimą ir pasiūlymų vykdymą. Savivaldybės administratorius bei tikrinamų
+trūkumų pašalinimą ir pasiūlymų vykdymą. Savivaldybės administratorius bei
 
-įstaigų ar įmonių vadovai per mėnesį nuo teikimo gavimo dienos privalo pateikti
+tikrinamų įstaigų ar įmonių vadovai per mėnesį nuo teikimo gavimo dienos
 
-informaciją savivaldybės kontrolieriui dėl patikrinimų metu konstatuotų trūkumų
+privalo pateikti informaciją savivaldybės kontrolieriui dėl patikrinimų metu
 
-pašalinimo bei pasiūlymų vykdymo;
+konstatuotų trūkumų pašalinimo bei pasiūlymų vykdymo;
 
 7) tikrinimų
 
@@ -2707,11 +2721,11 @@ veiklos ataskaitą, o kai savivaldybės taryba ar Kontrolės komitetas reikalauj
 
 14) ne rečiau
 
-kaip 2 kartus per metus pateikia Finansų ministerijai (jos nustatytais
+kaip 2 kartus per metus pateikia Finansų ministerijai (jos nustatytais terminais
 
-terminais ir tvarka) informaciją apie Europos Sąjungos struktūrinių fondų bei
+ir tvarka) informaciją apie Europos Sąjungos struktūrinių fondų bei kitų lėšų,
 
-kitų lėšų, skiriamų iš Europos Sąjungos, naudojimą savivaldybėje.
+skiriamų iš Europos Sąjungos, naudojimą savivaldybėje.
 
 3. Savivaldybės
 
@@ -2741,11 +2755,11 @@ nagrinėjami, jeigu taip nusprendžia savivaldybės kontrolierius;
 
 4)
 
-Administracinių teisės pažeidimų kodekso nustatytais atvejais surašo administracinių
+Administracinių teisės pažeidimų kodekso nustatytais atvejais surašo
 
-teisės pažeidimų protokolus ir juos teikia nagrinėti įstatymų nustatyta tvarka
+administracinių teisės pažeidimų protokolus ir juos teikia nagrinėti įstatymų
 
-savivaldybės Administracinei komisijai.
+nustatyta tvarka savivaldybės Administracinei komisijai.
 
 Straipsnio pakeitimai:
 
@@ -2845,11 +2859,9 @@ teritorijoje organizuoja ir kontroliuoja savivaldybės institucijų sprendimų
 
 įgyvendinimą arba pati juos įgyvendina;
 
-2) įgyvendina
+2) įgyvendina įstatymus
 
-įstatymus ir Vyriausybės nutarimus, nereikalaujančius savivaldybės institucijų
-
-sprendimų;
+ir Vyriausybės nutarimus, nereikalaujančius savivaldybės institucijų sprendimų;
 
 3)
 
@@ -2949,9 +2961,9 @@ atskaitingi savivaldybės administratoriui, o politinio (asmeninio) pasitikėjim
 
 valstybės tarnautojai – merui.
 
-9. Kai
+9. Kai savivaldybės
 
-savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės
+teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės
 
 administratorius yra pavaldus ir atskaitingas Vyriausybės įgaliotiniui.
 
@@ -3111,11 +3123,11 @@ gyvenamųjų vietovių bendruomenių atstovus ir teikia jiems informaciją apie
 
 savivaldybės institucijų ir savivaldybės administracijos bei valstybės
 
-institucijų veiklą savivaldybės teritorijoje. Seniūnas ar jo įgaliotas asmuo dalyvauja
+institucijų veiklą savivaldybės teritorijoje. Seniūnas ar jo įgaliotas asmuo
 
-savivaldybės institucijų posėdžiuose, kai svarstomi su seniūnijai priskirtos
+dalyvauja savivaldybės institucijų posėdžiuose, kai svarstomi su seniūnijai
 
-teritorijos bendruomenės gyvenimu susiję klausimai.
+priskirtos teritorijos bendruomenės gyvenimu susiję klausimai.
 
 3. Seniūnas:
 
@@ -3263,7 +3275,9 @@ darbo laiką. Šią informaciją gyvenamosios vietovės bendruomenės atstovui t
 
 seniūnijos, kuriai priskirta bendruomenės teritorija, seniūnas.
 
-DEVINTASIS SKIRSNIS
+DEVINTASIS
+
+SKIRSNIS
 
 TURTAS IR
 
@@ -3611,11 +3625,9 @@ kituose įstatymuose joms suteiktus įgaliojimus.
 
 tarybos, valdybos sprendimai ir mero potvarkiai, neviršijantys šių institucijų
 
-kompetencijos, privalomi savivaldybės administracijai, visoms
+kompetencijos, privalomi savivaldybės administracijai, visoms savivaldybės
 
-savivaldybės teritorijoje esančioms įstaigoms, įmonėms ir organizacijoms,
-
-gyventojams.
+teritorijoje esančioms įstaigoms, įmonėms ir organizacijoms, gyventojams.
 
 3. Valstybinio
 
@@ -3744,6 +3756,342 @@ raštvedyba, apskaitos, atskaitomybės, finansiniai bei techniniai dokumentai
 tvarkomi lietuvių kalba ir turi atitikti galiojančių teisės aktų nustatytus
 
 raštvedybos reikalavimus.
+
+Įstatymas
+
+papildytas tryliktuoju skirsniu:
+
+Nr. IX-1137,
+
+2002-10-15, Žin., 2002, Nr. 103-4605 (2002-10-30)
+
+TRYLIKTASIS
+
+SKIRSNIS
+
+VIETOS
+
+GYVENTOJŲ APKLAUSA
+
+44 straipsnis.
+
+Vietos gyventojų apklausos bendrieji principai
+
+1. Gyventojai
+
+savo nuomonę viešųjų savivaldybės reikalų tvarkymo klausimais gali pareikšti
+
+dalyvaudami vietos gyventojų apklausoje (toliau – apklausa).
+
+2. Apklausos
+
+rezultatai yra patariamojo pobūdžio.
+
+3. Dalyvavimas apklausoje yra laisvas (savanoriškas)
+
+ir grindžiamas visuotine, lygia teise tiesiogiai pareikšti nuomonę.
+
+4. Apklausoje
+
+gali dalyvauti savivaldybės gyventojai, kurie turi teisę rinkti šios
+
+savivaldybės tarybą.
+
+5. Atrankinės
+
+apklausos metu apklausiami gyventojai turi būti parenkami taip, kad kiekvienas,
+
+kuris galėtų būti apklausiamas, turėtų vienodas galimybes patekti tarp
+
+apklausiamųjų. Vertinant atrankinių apklausų rezultatus, turi būti nurodomi jų
+
+patikimumo duomenys.
+
+6. Apklausa yra
+
+tiesioginė. Gyventojai apklausoje dalyvauja asmeniškai, jų reiškiamos valios
+
+kontroliuoti neleidžiama.
+
+7. Negalima
+
+varžyti gyventojų teisės dalyvauti apklausoje dėl jų lyties, rasės, tautybės,
+
+kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų.
+
+45 straipsnis.
+
+Apklausai teikiami klausimai
+
+1. Apklausai
+
+gali būti teikiami klausimai, kuriuos savivaldybė sprendžia atlikdama
+
+savarankiškąsias, priskirtąsias (ribotai savarankiškas) bei sutartines
+
+funkcijas.
+
+2. Apklausos dėl
+
+savivaldybių steigimo, esamų savivaldybių panaikinimo, taip pat jų teritorijų
+
+ribų bei centrų nustatymo ir keitimo rengiamos vadovaujantis Lietuvos
+
+Respublikos teritorijos administracinių vienetų ir jų ribų įstatymu.
+
+46 straipsnis.
+
+Apklausos būdai
+
+1. Apklausos
+
+būdai:
+
+1) tiesioginis
+
+gyventojų nuomonės įrašymas apklausos dalyvių sąrašo lapuose;
+
+2) gyventojų
+
+nuomonės pareiškimas sueigoje balsuojant;
+
+3) atrankinė
+
+gyventojų apklausa apklausos dalyvių būstuose;
+
+4) atrankinė
+
+gyventojų apklausa telefonu.
+
+2. Apklausos
+
+būdą pasiūlo apklausos iniciatorius, sprendimą dėl apklausos būdo priima
+
+savivaldybės taryba atsižvelgdama į vietos sąlygas ir aplinkybes.
+
+3. Savivaldybės taryba patvirtina
+
+nustatytu būdu vykdomos apklausos tvarką bei apklausos komisijos įgaliojimus.
+
+47 straipsnis.
+
+Apklausos teritorija
+
+Apklausa gali
+
+būti surengta savivaldybės, seniūnijos (kelių seniūnijų) arba gyvenamosios
+
+vietovės (kelių gyvenamųjų vietovių) teritorijoje. Apklausos teritorija negali
+
+būti mažesnė kaip gyvenamosios vietovės teritorija.
+
+48 straipsnis.
+
+Apklausos paskelbimo iniciatyvos teisė
+
+1. Apklausos
+
+paskelbimo iniciatyvos teisė priklauso savivaldybės gyventojams ir savivaldybės
+
+tarybai.
+
+2. Gyventojai
+
+apklausos paskelbimo iniciatyvos teisę įgyvendina ne mažiau kaip 10 procentų
+
+apklausos teritorijos gyventojų, turinčių teisę rinkti šios savivaldybės tarybą,
+
+reikalavimu.
+
+3. Savivaldybės taryba apklausos
+
+paskelbimo iniciatyvos teisę įgyvendina ne mažiau kaip
+
+1/4 savivaldybės tarybos narių grupės reikalavimu savivaldybės tarybos veiklos
+
+reglamento nustatyta tvarka.
+
+49
+
+straipsnis. Gyventojų apklausos paskelbimo iniciatyvos teisės įgyvendinimas
+
+1. Apklausos
+
+paskelbimo iniciatyvos teisę gyventojai įgyvendina tiesiogiai. Šiam tikslui
+
+sudaroma iniciatyvinė grupė iš ne mažiau kaip 10 gyventojų, turinčių teisę
+
+rinkti savivaldybės tarybą. Grupės atstovas asmeniškai pateikia merui prašymą
+
+įregistruoti iniciatyvinę grupę.
+
+2. Iniciatyvinės
+
+grupės prašyme turi būti nurodyta: preliminarus arba galutinis apklausai
+
+teikiamo (-ų) klausimo (-ų) tekstas, siūlomas apklausos būdas bei iniciatyvinės
+
+grupės koordinatorius (koordinatoriai). Iniciatyvinės grupės prašyme taip pat
+
+gali būti pasiūlyta apklausos teritorija. Prašymą pasirašo visi iniciatyvinės
+
+grupės nariai.
+
+3. Jeigu
+
+iniciatyvinės grupės prašyme pažymima, kad apklausai teikiamo (-ų) klausimo
+
+(-ų) tekstas yra preliminarus, grupės atstovų prašymu savivaldybės
+
+administracija suteikia reikalingą pagalbą rengiant galutinį apklausai teikiamo
+
+(-ų) klausimo (-ų) tekstą. Galutinį klausimo (-ų) tekstą pasirašo visi
+
+iniciatyvinės grupės nariai ir jis pateikiamas merui.
+
+4. Meras paveda
+
+savivaldybės administratoriui spręsti iniciatyvinės grupės įregistravimo
+
+klausimą. Savivaldybės administratorius, gavęs iniciatyvinės grupės prašymą, ne
+
+vėliau kaip per 5 darbo dienas įregistruoja iniciatyvinę grupę ir ne vėliau
+
+kaip per 5 darbo dienas nuo jos įregistravimo išduoda vidaus reikalų ministro
+
+patvirtintos formos gyventojų parašų dėl reikalavimo paskelbti apklausą rinkimo
+
+lapus.
+
+5. Gyventojų
+
+iniciatyvos paskelbti apklausą teisei įgyvendinti nustatomas vieno mėnesio
+
+laikotarpis. Jis skaičiuojamas nuo gyventojų parašų dėl reikalavimo paskelbti
+
+apklausą rinkimo lapų išdavimo dienos.
+
+6. Jeigu per šio
+
+straipsnio 5 dalyje nustatytą terminą nesurenkamas reikiamas gyventojų parašų
+
+skaičius, savivaldybės administratorius tolesnį parašų rinkimą nutraukia.
+
+7. Gyventojų
+
+reikalavimus dėl apklausos paskelbimo kaupia iniciatyvinė grupė. Per šio
+
+straipsnio 5 dalyje nustatytą terminą surinkusi reikiamą gyventojų parašų dėl
+
+reikalavimo paskelbti apklausą skaičių, iniciatyvinė grupė surašo parašų
+
+rinkimo baigiamąjį aktą ir jį kartu su gyventojų reikalavimais perduoda
+
+savivaldybės administratoriui.
+
+50 straipsnis.
+
+Sprendimo paskelbti apklausą priėmimas
+
+1. Jeigu per šio
+
+įstatymo 49 straipsnio 5 dalyje nustatytą terminą yra surinktas reikiamas
+
+parašų dėl reikalavimo skelbti apklausą skaičius ir nenustatyta parašų rinkimo
+
+pažeidimų (gyventojų parašų klastojimo atvejų ar savanoriškumo principo
+
+pažeidimų), savivaldybės taryba privalo priimti sprendimą paskelbti apklausą.
+
+2. Savivaldybės
+
+taryba ne vėliau kaip per vieną mėnesį nuo parašų rinkimo baigiamojo akto ir
+
+gyventojų reikalavimų pateikimo savivaldybės administratoriui dienos priima
+
+sprendimą paskelbti apklausą.
+
+3. Sprendime
+
+paskelbti apklausą turi būti nustatyta: apklausai teikiamo (-ų) klausimo (-ų)
+
+tekstas, apklausos teritorija, apklausos būdas, apklausos data ir vieta, taip
+
+pat apklausos komisijos sudėtis. Iniciatyvinė grupė turi teisę į apklausos
+
+komisiją deleguoti savo atstovą.
+
+4. Savivaldybės
+
+tarybos sprendimas paskelbti apklausą turi būti paskelbtas per vietines
+
+(regiono) visuomenės informavimo priemones.
+
+51 straipsnis.
+
+Apklausos agitacija
+
+1. Apklausos
+
+agitacijos kampanijos pradžia yra gyventojų iniciatyvinės grupės įregistravimo
+
+savivaldybės administracijoje diena.
+
+2. Apklausos
+
+agitacija gali būti įvairių formų ir būdų, išskyrus tuos, kurie pažeidžia
+
+Lietuvos Respublikos Konstituciją, įstatymus bei kitus teisės aktus.
+
+3. Apklausos
+
+agitacijos kampanijoje negali dalyvauti apklausos komisijos nariai.
+
+52 straipsnis.
+
+Apklausos organizavimas
+
+Apklausą
+
+organizuoja meras savivaldybės tarybos nustatyta tvarka.
+
+53 straipsnis.
+
+Apklausos rezultatų nustatymas ir paskelbimas
+
+1. Apklausa
+
+laikoma įvykusia, jeigu savo nuomonę pateiktu (-ais) klausimu (-ais) pareiškė
+
+ne mažiau kaip 25 procentai apklausos teritorijos gyventojų, turinčių teisę
+
+dalyvauti apklausoje. Šis reikalavimas netaikomas atrankinei apklausai.
+
+2. Apklausos rezultatus ne vėliau kaip per 5 darbo dienas
+
+po apklausos pabaigos apklausos komisija pateikia merui ir paskelbia per
+
+vietines (regiono) visuomenės informavimo priemones.
+
+54 straipsnis.
+
+Apklausai teiktų klausimų sprendimas
+
+Apklausos
+
+rezultatai turi būti svarstomi savivaldybės tarybos posėdyje savivaldybės
+
+tarybos veiklos reglamento nustatyta tvarka ir į juos gali būti atsižvelgiama
+
+priimant sprendimą dėl apklausai teikto (-ų) klausimo (-ų).
+
+55 straipsnis.
+
+Apklausos organizavimo išlaidos
+
+Apklausos
+
+organizavimo išlaidos apmokamos iš savivaldybės biudžeto.
 
 Skelbiu šį
 
@@ -4181,13 +4529,31 @@ SAVIVALDOS ĮSTATYMO 7, 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 
+24.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1137,
+
+2002-10-15, Žin., 2002, Nr. 103-4605 (2002-10-30)
+
+VIETOS
+
+SAVIVALDOS ĮSTATYMO 17, 21 STRAIPSNIŲ PAPILDYMO BEI ĮSTATYMO PAPILDYMO
+
+TRYLIKTUOJU SKIRSNIU ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-10-07)
+Aušrinė Trapinskienė (2002-10-30)
 
 autrap@lrs.lt
 
