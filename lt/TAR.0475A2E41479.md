@@ -4,7 +4,7 @@ identifier: "TAR.0475A2E41479"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-23"
-last_updated: "2002-11-22"
+last_updated: "2004-04-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0475A2E41479"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas
 
-Suvestinė redakcija nuo 2002-11-22 iki 2004-04-23
+Suvestinė redakcija nuo 2004-04-24 iki 2010-08-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 93-3257, i. k. 1011010ISTA00IX-565
 
@@ -49,15 +49,21 @@ Vilnius
 
 2. Verstis veikla, susijusia su skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimu, gali tik supirkėjai, gavę licencijas Vyriausybės nustatyta tvarka.
 
-3. Licencijas išduoda, jų galiojimą sustabdo ir panaikina savivaldybės, kurios teritorijoje supirkėjas yra įsteigtas, meras.
+3. Licencijas išduoda, jų galiojimą sustabdo ir panaikina savivaldybės, kurios teritorijoje supirkėjas yra įsteigtas, vykdomoji institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2119, 2004-04-13, Žin., 2004, Nr. 60-2126 (2004-04-24), i. k. 1041010ISTA0IX-2119
 
 4. Kai supirkimo vietos steigiamos kitų, negu įsteigtas supirkėjas, savivaldybių teritorijose, supirkimo vietų adresas turi būti suderintas su atitinkamomis savivaldybėmis ir įrašomas į licencijas.
 
-5. Supirkimo vietos adresą iš licencijos Vyriausybės nustatyta tvarka išbraukia savivaldybės meras, vadovaudamasis supirkėjo prašymu arba jeigu supirkėjas pažeidė šio Įstatymo bei kitų teisės aktų, reglamentuojančių skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimą, reikalavimus.
+5. Supirkimo vietos adresą iš licencijos Vyriausybės nustatyta tvarka išbraukia savivaldybės vykdomoji institucija, vadovaudamasi supirkėjo prašymu arba jeigu supirkėjas pažeidė šio Įstatymo bei kitų teisės aktų, reglamentuojančių skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimą, reikalavimus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1184, 2002-11-07, Žin., 2002, Nr. 112-4983 (2002-11-22), i. k. 1021010ISTA0IX-1184
+
+Nr. IX-2119, 2004-04-13, Žin., 2004, Nr. 60-2126 (2004-04-24), i. k. 1041010ISTA0IX-2119
 
 4 straipsnis. Reikalavimai supirkėjui
 
@@ -96,6 +102,14 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. IX-1184, 2002-11-07, Žin., 2002, Nr. 112-4983 (2002-11-22), i. k. 1021010ISTA0IX-1184
+
+Lietuvos Respublikos skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo įstatymo 3 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2119, 2004-04-13, Žin., 2004, Nr. 60-2126 (2004-04-24), i. k. 1041010ISTA0IX-2119
 
 Lietuvos Respublikos skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo įstatymo 3 straipsnio pakeitimo įstatymas
 
