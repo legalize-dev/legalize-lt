@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2001-07-10"
+last_updated: "2002-05-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -345,11 +345,9 @@ poelgiu pažemino prokuroro vardą;
 
 Lietuvos Respublikos pilietybės;
 
-9) pasikeitus
+9) (neteko
 
-generalinio prokuroro skyrimo tvarkai, kai įstatymas nustato kitus generalinį
-
-prokurorą skiriančius subjektus.
+galios).
 
 5. Generalinio
 
@@ -376,6 +374,10 @@ VIII-142,
 Nr. IX-43, 2000 11 28, Žin., 2000, Nr.
 
 103-3259 (2000 12 01)
+
+Nr. IX-866,
+
+2002-05-02, Žin., 2002, Nr. 49-1886 (2002-05-17)
 
 12 straipsnis. Lietuvos
 
@@ -699,11 +701,11 @@ atlikti tardymą dėl bet kokio nusikaltimo.
 
 kaltinimo palaikymas
 
-1. Prokuroras baudžiamojo
+1. Prokuroras baudžiamojo proceso
 
-proceso įstatymo nustatyta tvarka palaiko valstybinį kaltinimą pirmosios,
+įstatymo nustatyta tvarka palaiko valstybinį kaltinimą pirmosios, apeliacinės
 
-apeliacinės ir kasacinės instancijos teismuose.
+ir kasacinės instancijos teismuose.
 
 2. Prokuroras privalo
 
@@ -763,9 +765,9 @@ teisėtų interesų bei asmenų pažeistų teisių gynimas
 
 pareiškimą ar kitą informaciją apie valstybės teisėtų interesų bei asmenų
 
-teisių pažeidimus, įstatymo nustatyta tvarka rengia medžiagą civilinei bylai teisme
+teisių pažeidimus, įstatymo nustatyta tvarka rengia medžiagą civilinei bylai
 
-iškelti, jei:
+teisme iškelti, jei:
 
 1) pažeisti neveiksnių,
 
@@ -921,9 +923,9 @@ pensinį aprūpinimą reguliuoja Lietuvos Respublikos įstatymai.
 
 pareigūnų aprūpinimas gyvenamosiomis patalpomis
 
-Prokuratūros pareigūnams,
+Prokuratūros pareigūnams, paskyrimo
 
-paskyrimo vietoje neturintiems gyvenamosios patalpos, įstatymo nustatyta tvarka
+vietoje neturintiems gyvenamosios patalpos, įstatymo nustatyta tvarka
 
 suteikiamos tarnybinės gyvenamosios patalpos.
 
@@ -1049,9 +1051,7 @@ prokuratūros įstatymas įsigalioja nuo 1995 m. sausio 1 dienos.
 
 prokuratūros reformavimo tvarką nustato Lietuvos Respublikos įstatymas
 
-"Dėl Lietuvos Respublikos prokuratūros įstatymo įgyvendinimo
-
-tvarkos".
+"Dėl Lietuvos Respublikos prokuratūros įstatymo įgyvendinimo tvarkos".
 
 Skelbiu šį Lietuvos
 
@@ -1145,9 +1145,29 @@ PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEIS
 
 APSAUGOS KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-*** Pabaiga ***
+6.
 
-Redagavo: Angonita Rupšytė (2001-07-25)
+Lietuvos
 
-anrups@lrs.lt
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-866,
+
+2002-05-02, Žin., 2002, Nr. 49-1886 (2002-05-17)
+
+PROKURATŪROS
+
+ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2002-05-17)
+
+autrap@lrs.lt
 
