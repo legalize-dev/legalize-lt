@@ -4,7 +4,7 @@ identifier: "TAR.E22116F1B0E0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-13"
-last_updated: "2002-04-16"
+last_updated: "2002-06-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 department: "Lietuvos Respublikos Seimas"
@@ -6829,7 +6829,7 @@ statusas valstybei ar savivaldybei nuosavybės teise priklausančiai akcijai
 
 5.
 
-Iki 2001 m. gruodžio 31 d. bendrovė gali mažinti įstatinį kapitalą, kad būtų
+Iki 2003 m. gruodžio 31 d. bendrovė gali mažinti įstatinį kapitalą, kad būtų
 
 Lietuvos Respublikos Vyriausybės nustatyta tvarka ištaisytos įstatinio kapitalo
 
@@ -6877,6 +6877,10 @@ IX-844,
 
 2002-04-16, Žin., 2002, Nr. 43-1607 (2002-04-26)
 
+Nr. IX-998,
+
+2002-06-27, Žin., 2002, Nr. 72-3013 (2002-07-17)
+
 80
 
 straipsnis. Pasiūlymai Vyriausybei
@@ -6901,9 +6905,9 @@ pažeidimus.
 
 2. Vyriausybė ar jos įgaliota
 
-institucija iki 2000 m. gruodžio 1 d. nustato akcijų apskaitos uždarosiose
+institucija iki 2000 m. gruodžio 1 d. nustato
 
-akcinėse bendrovėse tvarką.
+akcijų apskaitos uždarosiose akcinėse bendrovėse tvarką.
 
 Straipsnio pakeitimai:
 
@@ -6917,7 +6921,7 @@ Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
 
-________
+_______________
 
 Pakeitimai:
 
@@ -6971,13 +6975,27 @@ AKCINIŲ
 
 BENDROVIŲ ĮSTATYMO 79 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-998,
+
+2002-06-27, Žin., 2002, Nr. 72-3013 (2002-07-17)
+
+AKCINIŲ BENDROVIŲ ĮSTATYMO 79
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-04-26)
+Aušrinė Trapinskienė (2002-07-17)
 
 autrap@lrs.lt
 
