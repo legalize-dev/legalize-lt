@@ -4,7 +4,7 @@ identifier: "TAR.0427526E68A6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-25"
-last_updated: "1999-02-09"
+last_updated: "2000-07-17"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0427526E68A6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,43 +16,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos advokatūros įstatymo įgyvendinimo įstatymas
 
-Redagavo: Ramunė Lūžaitė
-
-(1999.02.24)
-
-Įstatymas paskelbtas: Žin.,
-
-1998, Nr.64-1840
-
-Neoficialus įstatymo tekstas
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas,
-
 Įstatymas
 
-Nr. VIII-1044, 99.02.09,
+paskelbtas: Žin., 1998, Nr. 64-1841
 
-Žin., 1999, Nr.19-508 (99.02.24)
+Neoficialus
 
-LIETUVOS RESPUBLIKOS ADVOKATŪROS
+įstatymo tekstas
 
-ĮSTATYMO 7, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ADVOKATŪROS ĮSTATYMO
+LIETUVOS RESPUBLIKOS
 
-ĮGYVENDINIMO ĮSTATYMO 5 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-
-*** Pabaiga ***
-
-LIETUVOS
-
-RESPUBLIKOS
-
-ADVOKATŪROS
-
-ĮSTATYMO ĮGYVENDINIMO
+ADVOKATŪROS ĮSTATYMO ĮGYVENDINIMO
 
 ĮSTATYMAS
 
@@ -60,29 +34,29 @@ ADVOKATŪROS
 
 Vilnius
 
-1 straipsnis. Pavedimai Lietuvos advokatų tarybai
+1 straipsnis. Pavedimai Lietuvos
 
-Ne vėliau kaip per 1 metus nuo Advokatūros įstatymo
+advokatų tarybai
 
-įsigaliojimo dienos Lietuvos advokatų taryba pateikia teisingumo ministrui
+Ne vėliau kaip per 1 metus nuo
 
-tvirtinti Lietuvos advokatūros statutą ir patvirtina Advokatų profesinės etikos
+Advokatūros įstatymo įsigaliojimo dienos Lietuvos advokatų taryba pateikia
 
-kodeksą.
+teisingumo ministrui tvirtinti Lietuvos advokatūros statutą ir patvirtina
+
+Advokatų profesinės etikos kodeksą.
 
 2 straipsnis. Pasiūlymai Vyriausybei
 
-Vyriausybė per 2 mėnesius nuo šio įstatymo
+Vyriausybė per 2 mėnesius nuo šio
 
-įsigaliojimo dienos patvirtina Advokatūros įstatymo 7 straipsnio 3 punkte
+įstatymo įsigaliojimo dienos patvirtina Advokatūros įstatymo 7 straipsnio 3
 
-nurodytų pareigybių sąrašą.
+punkte nurodytų pareigybių sąrašą.
 
-3 straipsnis. Pasiūlymai Teisingumo ministerijai ir
+3 straipsnis. Pasiūlymai Teisingumo
 
-teisingumo
-
-ministrui
+ministerijai ir teisingumo ministrui
 
 1. Neįvykdžius šio įstatymo 1 straipsnio
 
@@ -90,41 +64,79 @@ reikalavimų, teisingumo ministras patvirtina Teisingumo ministerijos parengtus
 
 laikinąjį Lietuvos advokatūros statutą ir Advokatų profesinės etikos kodeksą.
 
-2. Teisingumo ministerija kartu su Lietuvos advokatų
+2. Teisingumo ministerija kartu su
 
-taryba per 2 mėnesius nuo šio įstatymo įsigaliojimo parengia ir patvirtina
+Lietuvos advokatų taryba per 2 mėnesius nuo šio įstatymo įsigaliojimo parengia
 
-rekomendacijas dėl užmokesčio už teikiamas teisines paslaugas dydžio ir
+ir patvirtina rekomendacijas dėl užmokesčio už teikiamas teisines paslaugas
 
-apskaičiavimo tvarkos, advokato kvalifikacinių egzaminų programą,
+dydžio ir apskaičiavimo tvarkos, advokato kvalifikacinių egzaminų programą,
 
 kvalifikacinių egzaminų laikymo bei apmokėjimo tvarką.
 
-4 straipsnis. Įrašymas į Praktikuojančių advokatų
+4 straipsnis. Įrašymas į Praktikuojančių
 
-sąrašą
+advokatų sąrašą
 
-Asmenys, šio įstatymo įsigaliojimo dieną esantys
+Asmenys, šio įstatymo įsigaliojimo dieną
 
-Lietuvos Respublikos advokatų sąraše, laikomi įrašytais į Praktikuojančių
+esantys Lietuvos Respublikos advokatų sąraše, laikomi įrašytais į
 
-advokatų sąrašą. Ne vėliau kaip per 6 mėnesius nuo Advokatūros įstatymo
+Praktikuojančių advokatų sąrašą. Ne vėliau kaip per 6 mėnesius nuo Advokatūros
 
-įsigaliojimo į šį sąrašą įrašyti asmenys privalo apdrausti savo civilinę
+įstatymo įsigaliojimo į šį sąrašą įrašyti asmenys privalo apdrausti savo
 
-atsakomybę ir pateikti Lietuvos advokatų tarybai tai įrodančius dokumentus.
+civilinę atsakomybę ir pateikti Lietuvos advokatų tarybai tai įrodančius
 
-Advokatai, neįvykdę šio reikalavimo, Lietuvos advokatų tarybos sprendimu iš
+dokumentus. Advokatai, neįvykdę šio reikalavimo, Lietuvos advokatų tarybos
 
-Praktikuojančių advokatų sąrašo išbraukiami.
+sprendimu iš Praktikuojančių advokatų sąrašo išbraukiami.
 
 5 straipsnis. (Neteko galios).
 
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-1044,
+
+99.02.09, Žin., 1999, Nr.19-508 (99.02.24)
+
+6
+
+straipsnis. Asmenų, turinčių Teisingumo ministerijos licenciją verstis
+
+teisininko
+
+praktika,
+
+pripažinimas advokatais
+
+1. Asmenys, turintys Teisingumo
+
+ministerijos licenciją verstis teisininko praktika, per 1 metus nuo Advokatūros
+
+įstatymo įsigaliojimo rašytiniu prašymu pripažįstami advokatais Advokatūros
+
+įstatymo 8 straipsnio nustatyta tvarka. Jiems nėra taikomas Advokatūros
+
+įstatymo 7 straipsnio 3 punktas.
+
+2. Teisėjai, prokurorai, taip pat
+
+valstybės tarnautojai, turintys Teisingumo ministerijos licenciją verstis
+
+teisininko praktika, šio straipsnio 1 dalyje nurodyta teise gali pasinaudoti
+
+per 1 metus po to, kai nustojo dirbti teisėjais, prokurorais ar prarado
+
+valstybės tarnautojo statusą.
+
 Straipsnio pakeitimai:
 
-Nr. VIII-1044, 99.02.09,
+Nr. VIII-1854, 00.07.17, Žin., 2000,
 
-Žin., 1999, Nr.19-508 (99.02.24)
+Nr.64-1925 (00.07.31)
 
 6 straipsnis.
 
@@ -150,13 +162,37 @@ straipsnio 1 dalyje nurodyta teise gali pasinaudoti per 1 metus po to, kai
 
 nustojo dirbti teisėjais, prokurorais, tardytojais ar kvotėjais.
 
-7 straipsnis. Pasiūlymai Finansų ministerijai
+7 straipsnis. Pasiūlymai Finansų
 
-Finansų ministerija per 2 mėnesius nuo šio įstatymo
+ministerijai
 
-įsigaliojimo patvirtina depozitinių sąskaitų, kuriose saugomos laikinai
+Finansų ministerija per 2 mėnesius nuo
 
-advokatų turimos, bet kitiems asmenims priklausančios lėšos, atidarymo tvarką.
+šio įstatymo įsigaliojimo patvirtina depozitinių sąskaitų, kuriose saugomos
+
+laikinai advokatų turimos, bet kitiems asmenims priklausančios lėšos, atidarymo
+
+tvarką.
+
+8
+
+straipsnis. Asmenų, išbrauktų iš Lietuvos Respublikos advokatų sąrašo,
+
+pripažinimas
+
+advokatais
+
+Asmenis, kurie iki Advokatūros įstatymo
+
+įsigaliojimo iš Lietuvos Respublikos advokatų sąrašo buvo išbraukti remiantis
+
+kitais pagrindais, nei buvo nurodyti iki tol galiojusio Lietuvos Respublikos
+
+advokatūros įstatymo (Žin., 1992, Nr.30-911; 1994, Nr.89-1705) 17 straipsnyje,
+
+Lietuvos advokatų taryba jų pareiškimu pripažįsta advokatais Advokatūros
+
+įstatymo 8 straipsnyje nustatyta tvarka.
 
 8 straipsnis.
 
@@ -176,25 +212,63 @@ Lietuvos advokatų taryba jų pareiškimu pripažįsta advokatais Advokatūros
 
 9 straipsnis. Kadencijų įskaitymas
 
-Įsigaliojus Lietuvos Respublikos advokatūros
+Įsigaliojus Lietuvos Respublikos
 
-įstatymui, taikant jo 53 straipsnio 1 dalyje numatytus apribojimus, yra
+advokatūros įstatymui, taikant jo 53 straipsnio 1 dalyje numatytus apribojimus,
 
-įskaitomas laikotarpis, kurį asmuo ėjo pareigas, nurodytas iki tol galiojusiame
+yra įskaitomas laikotarpis, kurį asmuo ėjo pareigas, nurodytas iki tol
 
-Advokatūros įstatyme (Žin., 1992, Nr.30-911; 1994, Nr.89-1705).
+galiojusiame Advokatūros įstatyme (Žin., 1992, Nr.30-911; 1994, Nr.89-1705).
 
-Vadovaudamasis Lietuvos Respublikos Konstitucijos 71
+Vadovaudamasis Lietuvos Respublikos
 
-straipsnio antrąja dalimi, skelbiu šį Lietuvos Respublikos Seimo priimtą
+Konstitucijos 71 straipsnio antrąja dalimi, skelbiu šį Lietuvos Respublikos
 
-įstatymą.
+Seimo priimtą įstatymą.
+
+LIETUVOS RESPUBLIKOS
+
+SEIMO
+
+PIRMININKAS                                                                    VYTAUTAS
+
+LANDSBERGIS
+
+___________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1044,
+
+99.02.09, Žin., 1999, Nr.19-508 (99.02.24)
 
 LIETUVOS
 
-RESPUBLIKOS
+RESPUBLIKOS ADVOKATŪROS ĮSTATYMO 7, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR
 
-SEIMO PIRMININKAS                                       VYTAUTAS
+ADVOKATŪROS ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 5 STRAIPSNIO PRIPAŽINIMO NETEKUSIU
 
-LANDSBERGIS
+GALIOS ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1854, 00.07.17, Žin., 2000,
+
+Nr.64-1925 (00.07.31)
+
+ADVOKATŪROS ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2000.08.21)
 
