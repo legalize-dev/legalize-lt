@@ -4,7 +4,7 @@ identifier: "TAR.3EFC5919D726"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-04"
-last_updated: "1997-01-16"
+last_updated: "1997-05-06"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EFC5919D726"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,11 @@ Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.01.21)
+Ramunė Lūžaitė (1997.05.12)
+
+Įstatymas
+
+paskelbtas: Žin., 1995, Nr.33-759
 
 Neoficialus
 
@@ -72,6 +76,36 @@ VIII-74, 97.01.16, Žin., 1997, Nr.6-87 (97.01.22)
 LIETUVOS
 
 RESPUBLIKOS VALDININKŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+LIETUVOS
+
+RESPUBLIKOS KONSTITUCINIO TEISMO NUTARIMAI:
+
+1.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+97.05.06,
+
+Žin., 1997, Nr.40-977 (97.05.09)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS VALDININKŲ ĮSTATYMO 16 STRAIPSNIO PIRMOSIOS DALIES 2
+
+PUNKTO ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+
+Pastaba:
+
+ženklai “>>” ir “<<” reiškia, kad tekstas tarp jų yra pripažintas
+
+neatitinkančiu Lietuvos Respublikos Konstitucijos.
 
 ***
 
@@ -151,7 +185,7 @@ straipsnis. Valstybės valdymo tarnyba
 
 Valstybės
 
-valdymo tarnyba yra pareigų atlikimas Seimo, Prezidento, Vyriausybės,  kitose
+valdymo tarnyba yra pareigų atlikimas Seimo, Prezidento, Vyriausybės,  kitose
 
 valstybės institucijose bei savivaldybių struktūriniuose padaliniuose pagal
 
@@ -203,13 +237,13 @@ skirstomi į "A" ir "B" lygius.
 
 "A"
 
-lygio valstybės valdininkai yra tarnautojai, paskirti Seimo, Prezidento, Vyriausybės
+lygio valstybės valdininkai yra tarnautojai, paskirti Seimo, Prezidento,
 
-ir kiti pareigybių sąraše nurodyti tarnautojai, padedantys  valstybės
+Vyriausybės ir kiti pareigybių sąraše nurodyti tarnautojai, padedantys
 
-politikams  vykdyti  savo funkcijas. Šių valdininkų tarnyba susieta su jų
+valstybės politikams  vykdyti  savo funkcijas. Šių valdininkų tarnyba susieta
 
-tiesioginių vadovų įgaliojimų trukme.
+su jų tiesioginių vadovų įgaliojimų trukme.
 
 "B"
 
@@ -561,9 +595,9 @@ mokslininkų ir pedagogų pareigas valstybinėse mokslo ir studijų institucijos
 
 švietimo ir kultūros įstaigose bei gydytojų pareigas valstybinėse gydymo
 
-įstaigose; taip pat gauti kitą atlyginimą, išskyrus atlyginimą už kūrybinę
+įstaigose; taip pat gauti kitą atlyginimą, išskyrus atlyginimą už kūrybinę veiklą.
 
-veiklą. Atlyginimu už kūrybinę veiklą laikomas atlyginimas už asmens
+Atlyginimu už kūrybinę veiklą laikomas atlyginimas už asmens intelektinės
 
 1 straipsnis.
 
@@ -2019,23 +2053,23 @@ PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
 
 _
 
-intelektinės veiklos rezultatus (Civilinio kodekso 515 straipsnis), taip pat
+veiklos rezultatus (Civilinio kodekso 515 straipsnis), taip pat atlyginimas už
 
-atlyginimas už darbą Seimo, Prezidento  ar  Vyriausybės  sudaromose komisijose
+darbą Seimo, Prezidento  ar  Vyriausybės  sudaromose komisijose ir darbo
 
-ir darbo grupėse;
+grupėse;
 
-2)
+**
 
-būti personalinės įmonės savininku, ūkinės bendrijos tikruoju nariu arba
+2) >>būti personalinės įmonės savininku, ūkinės bendrijos tikruoju nariu
 
-komanditoriumi, įsigyti arba valdyti pagal įgaliojimą daugiau kaip 10 procentų
+arba komanditoriumi, įsigyti<< arba valdyti >>pagal įgaliojimą
 
-vienos įmonės vertybinių popierių;
+daugiau kaip 10 procentų vienos įmonės vertybinių popierių<<;
 
 3)
 
-atstovauti kitų šalies ir užsienio valstybių įmonių, įstaigų  ir organizacijų
+atstovauti kitų šalies ir užsienio valstybių įmonių, įstaigų  ir organizacijų
 
 interesams ir vykti į užsienį jų kvietimu;
 
@@ -2063,7 +2097,7 @@ nėra  draudžiama būti visų lygių Seimo, Respublikos  Prezidento,  saviva
 
 tarybų  rinkimų  ir referendumų organizavimo komisijų pirmininkais ar nariais
 
-ir gauti  atlyginimą  už  šį  darbą. Rinkimų arba referendumų organizavimo
+ir gauti  atlyginimą  už  šį  darbą. Rinkimų arba referendumų organizavimo
 
 laikotarpiu valdininkai pagal sutartis su rinkimų arba referendumų komisijomis
 
@@ -2083,27 +2117,27 @@ valdininko nuo jo tiesioginių pareigų vykdymo.
 
 *
 
-Pastaba: Valdininkai,  kurie pagal  16 straipsnio 1 punktą gali
+Pastaba: Valdininkai,  kurie pagal  16 straipsnio 1 punktą gali eiti ir
 
-eiti
+mokslininkų bei pedagogų pareigas valstybinėse mokslo  ir studijų
 
-ir mokslininkų bei pedagogų pareigas valstybinėse mokslo  ir
+institucijose, švietimo ir kultūros įstaigose bei gydytojų pareigas
 
-studijų
+valstybinėse  gydymo  įstaigose,  turi  teisę,   būdami valdininkais,  eiti
 
-institucijose, švietimo ir kultūros įstaigose bei gydytojų
+šias  pareigas ne ilgiau  kaip iki 1998 metų rugpjūčio 1 dienos.
 
-pareigas
+**
 
-valstybinėse  gydymo  įstaigose,  turi  teisę,   būdami
+Pastaba: 16 straipsnio pirmosios dalies 2 punkte nustatytas draudimas valdininkui
 
-valdininkais,
+būti personalinės įmonės savininku, draudimas būti ūkinės bendrijos tikruoju
 
-eiti  šias  pareigas ne ilgiau  kaip iki 1998 metų
+nariu arba komanditoriumi, taip pat draudimas įsigyti daugiau kaip 10 procentų
 
-rugpjūčio
+vienos įmonės vertybinių popierių prieštarauja Konstitucijos 23 straipsniui ir
 
-1 dienos.
+29 bei 33 straipsnių pirmosioms dalims.
 
 Straipsnio
 
@@ -2116,6 +2150,12 @@ Nr.
 Nr.
 
 1-1499, 96.08.20, Žin., 1996, Nr. 82-1968 (96.08.30)
+
+**Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+97.05.06, Žin., 1997, Nr.40-977 (97.05.09)
 
 17
 
@@ -2247,17 +2287,17 @@ priemones, politinius ir kitus visuomeninius renginius (išskyrus, kai tokie
 
 pareiškimai padaromi vykstant Seimo, Prezidento ar savivaldybių tarybų rinkimų
 
-agitacijai), taip pat šio įstatymo 17 straipsnyje numatytais valdininko neatestavimo
+agitacijai), taip pat šio įstatymo 17 straipsnyje numatytais valdininko
 
-atvejais, jie ne vėliau kaip per 14 dienų privalo atsistatydinti. Jeigu
+neatestavimo atvejais, jie ne vėliau kaip per 14 dienų privalo atsistatydinti.
 
-atsistatydinti atsisako, jie atleidžiami iš darbo įstatymų nustatyta tvarka ir
+Jeigu atsistatydinti atsisako, jie atleidžiami iš darbo įstatymų nustatyta
 
-laikomi atleistais iš valstybės valdymo tarnybos.
+tvarka ir laikomi atleistais iš valstybės valdymo tarnybos.
 
 Nurodytas
 
-šio  straipsnio trečiojoje  dalyje valdininko savanoriškas atsistatydinimas
+šio  straipsnio trečiojoje  dalyje valdininko savanoriškas atsistatydinimas
 
 turi būti  patenkintas  darbo įstatymų nustatytais pagrindais.
 
