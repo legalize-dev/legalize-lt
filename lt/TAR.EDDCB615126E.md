@@ -4,7 +4,7 @@ identifier: "TAR.EDDCB615126E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-13"
-last_updated: "1998-07-01"
+last_updated: "1998-10-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 department: "Lietuvos Respublikos Seimas"
@@ -20,11 +20,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė
 
-Lūžaitė (1998.07.13)
-
-Redagavo: Ramunė
-
-Lūžaitė (1998.07.13)
+Lūžaitė (1998.11.11)
 
 Įstatymas
 
@@ -82,19 +78,41 @@ Nr.
 
 VIII-828, 98.07.01, Žin., 1998, Nr.62-1777 (98.07.10)
 
-VIDAUS
+LIETUVOS
 
-REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ
+RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS
 
-VALSTYBINIŲ PENSIJŲ ĮSTATYMO 9, 10 IR 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 9, 10 IR 16 STRAIPSNIŲ
+
+PAPILDYMO ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-908, 98.10.22, Žin., 1998, Nr.98-2710 (98.11.11)
+
+LIETUVOS
+
+RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1, 9, 10 STRAIPSNIŲ PAKEITIMO
+
+IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja nuo 1999 m. sausio 1 d.
 
 *** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
-VIDAUS
-
-REIKALŲ, VALSTYBĖS SAUGUMO,
+VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO,
 
 KRAŠTO
 
@@ -104,7 +122,9 @@ VALSTYBINIŲ PENSIJŲ
 
 ĮSTATYMAS
 
-1994 m. gruodžio 13 d. Nr.I-693
+1994
+
+m. gruodžio 13 d. Nr.I-693
 
 Vilnius
 
@@ -144,6 +164,10 @@ liktinės tarnybos
 
 puskarininkiai ir kareiviai;
 
+[1 straipsnio 1
+
+dalies 2 punkto redakcija iki 1999 m. sausio 1 d.]
+
 2) tikrosios
 
 krašto apsaugos  tarnybos karininkai, liktinės
@@ -151,6 +175,14 @@ krašto apsaugos  tarnybos karininkai, liktinės
 tarnybos
 
 puskarininkiai ir kareiviai;
+
+[1 straipsnio 1
+
+dalies 2 punkto redakcija nuo 1999 m. sausio 1 d.]
+
+2) profesinės
+
+karo tarnybos kariai;
 
 3) Valstybės
 
@@ -188,6 +220,10 @@ departamentuose,
 
 įstaigose ir organizacijose.
 
+[1 straipsnio
+
+3 dalies redakcija iki 1999 m. sausio 1 d.]
+
 Teisę gauti
 
 pareigūnų ir  karių  invalidumo  pensijas  turi
@@ -206,7 +242,7 @@ invalidais  tarnybos   ar  mokymų   metu  dėl
 
 priežasčių,
 
-susijusių  su tarnyba  ar  mokymais.  Šiems  asmenims
+susijusių  su tarnyba  ar  mokymais.  Šiems  asmenims
 
 žuvus tarnybos  ar
 
@@ -219,6 +255,32 @@ mokymais, teisę  gauti pareigūnų ir karių valstybines
 našlių ir našlaičių
 
 pensijas turi jų sutuoktiniai ir vaikai.
+
+[1 straipsnio
+
+3 dalies redakcija nuo 1999 m. sausio 1 d.]
+
+Teisę
+
+gauti  pareigūnų ir  karių  invalidumo  pensijas  turi privalomosios karo
+
+tarnybos kariai bei kariai savanoriai, tapę   invalidais  tarnybos   ar
+
+mokymų   metu  dėl priežasčių, susijusių  su tarnyba  ar  mokymais.  Šiems
+
+asmenims žuvus tarnybos  ar  mokymų  metu  dėl  priežasčių,  susijusių  su
+
+tarnyba ar  mokymais, teisę  gauti pareigūnų ir karių valstybines našlių ir
+
+našlaičių pensijas turi jų sutuoktiniai ir vaikai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-908, 98.10.22, Žin., 1998, Nr.98-2710 (98.11.11)
 
 4 straipsnis.
 
@@ -298,7 +360,7 @@ pensijai skirti
 
 1)  tarnybos
 
-vidaus  reikalų,  krašto  apsaugos,  valstybės
+vidaus  reikalų,  krašto  apsaugos,  valstybės
 
 saugumo  bei
 
@@ -400,9 +462,9 @@ užmokesčio, ištarnavusiems  nuo 10  iki 20 metų -
 
 užmokesčio,  o ištarnavusiems daugiau kaip 20 metų
 
-mokama šio
+mokama šio straipsnio
 
-straipsnio antrojoje dalyje nurodyto dydžio pensija.
+antrojoje dalyje nurodyto dydžio pensija.
 
 8 straipsnis.
 
@@ -424,7 +486,7 @@ invalidais.    Jei   invalidumas   atsirado   dėl
 
 priežasčių,
 
-susijusių  su  tarnyba,  pensija  skiriama  nepaisant
+susijusių  su  tarnyba,  pensija  skiriama  nepaisant
 
 invalidumo
 
@@ -438,9 +500,9 @@ skiriama tik tuo
 
 atveju, jei invalidumas atsirado tarnybos metu.
 
-Invalidumas  pripažįstamas
+Invalidumas
 
-atsiradusiu   dėl   priežasčių,
+pripažįstamas   atsiradusiu   dėl   priežasčių,
 
 susijusių su
 
@@ -466,7 +528,9 @@ ekspertizės komisija
 
 Pareigūnų ir karių valstybinės invalidumo
 
-pensijos dydis
+pensijos
+
+dydis
 
 Pareigūnų ir
 
@@ -510,6 +574,8 @@ apskaičiuojama
 
 pagal faktinį tarnybos laiką pensijai skirti.
 
+[9 straipsnio 3 dalies redakcija iki 1999 m. sausio 1 d.]
+
 Tikrosios
 
 krašto    apsaugos   tarnybos    prievolininkams
@@ -518,9 +584,9 @@ krašto    apsaugos   tarnybos    prievolininkams
 
 kariams) bei savanoriškosios krašto apsaugos
 
-tarnybos savanoriams,
+tarnybos
 
-tapusiems invalidais  tarnybos  ar  mokymų
+savanoriams,  tapusiems invalidais  tarnybos  ar  mokymų
 
 metu dėl
 
@@ -534,9 +600,9 @@ valstybinė invalidumo pensija:
 
 pripažintiems I ar II grupių invalidais, - 1,5
 
-valstybinės socialinio
+valstybinės
 
-draudimo bazinės pensijos dydžio. Be to, I
+socialinio draudimo bazinės pensijos dydžio. Be to, I
 
 grupės invalidams
 
@@ -558,6 +624,32 @@ valstybinės
 
 socialinio draudimo bazinės pensijos dydžio.
 
+[9
+
+straipsnio 3 dalies redakcija nuo 1999 m. sausio 1 d.]
+
+Privalomosios karo tarnybos kariams bei
+
+kariams savanoriams, tapusiems invalidais  tarnybos  ar  mokymų metu dėl
+
+priežasčių, susijusių  su tarnyba  ar mokymais,  mokama pareigūnų ir karių
+
+valstybinė invalidumo pensija:
+
+1) asmenims,  pripažintiems I grupės
+
+invalidais, - 2 valstybinių socialinio draudimo bazinių pensijų dydžio;
+
+2) asmenims,  pripažintiems  II grupės
+
+invalidais, - 1,5 valstybinės socialinio draudimo bazinės pensijos dydžio;
+
+3)
+
+asmenims,  pripažintiems III  grupės invalidais,  -  0,75 valstybinės
+
+socialinio draudimo bazinės pensijos dydžio.
+
 Straipsnio
 
 pakeitimai:
@@ -565,6 +657,10 @@ pakeitimai:
 Nr.
 
 VIII-828, 98.07.01, Žin., 1998, Nr.62-1777 (98.07.10)
+
+Nr.
+
+VIII-908, 98.10.22, Žin., 1998, Nr.98-2710 (98.11.11)
 
 10 straipsnis.
 
@@ -678,13 +774,17 @@ valstybinę pensiją
 
 už tarnybą arba invalidumo pensiją.
 
+[10
+
+straipsnio 5 dalies redakcija iki 1999 m. sausio 1 d.]
+
 Tikrosios
 
 krašto    apsaugos    tarnybos    prievolininkui
 
-(būtinosios tarnybos
+(būtinosios
 
-kariui) ar  savanoriškosios krašto apsaugos
+tarnybos  kariui) ar  savanoriškosios krašto apsaugos
 
 tarnybos savanoriui
 
@@ -710,6 +810,22 @@ invalidumo pensija I
 
 ir II grupės invalidams.
 
+[10
+
+straipsnio 5 dalies redakcija nuo 1999 m. sausio 1 d.]
+
+Privalomosios karo tarnybos kariui ar kariui
+
+savanoriui mirus tarnybos  ar  mokymų metu dėl  priežasčių, susijusių  su
+
+tarnyba  ar mokymais,  skiriama našlių ir našlaičių pensija  šio straipsnio
+
+pirmojoje-ketvirtojoje dalyse nustatyta tvarka. Ji apskaičiuojama kaip
+
+nustatyta šio įstatymo 9 straipsnio trečiosios dalies 2 punkte pareigūnų ir
+
+karių valstybinė invalidumo pensija II grupės invalidams.
+
 Straipsnio
 
 pakeitimai:
@@ -717,6 +833,10 @@ pakeitimai:
 Nr.
 
 VIII-828, 98.07.01, Žin., 1998, Nr.62-1777 (98.07.10)
+
+Nr.
+
+VIII-908, 98.10.22, Žin., 1998, Nr.98-2710 (98.11.11)
 
 14 straipsnis.
 
@@ -788,9 +908,9 @@ nebemokama.
 
 įsigalioja nuo 1995 m. sausio 1 dienos.
 
-Asmenims,
+Asmenims,   nestojusiems
 
-nestojusiems   tarnauti   arba   nepriimtiems  į
+tarnauti   arba   nepriimtiems  į
 
 Lietuvos
 
@@ -814,7 +934,9 @@ pagal  šį  įstatymą
 
 skiriamos  tik  už  asmenis, mirusius po šio
 
-įstatymo įsigaliojimo.
+įstatymo
+
+įsigaliojimo.
 
 Asmenims,
 
@@ -838,7 +960,7 @@ prilyginami
 
 tarnybos   kitų   valstybių   ginkluotosiose
 
-pajėgose,  pasienio
+pajėgose,  pasienio
 
 tarnyboje, vidaus reikalų ir kitose tarnybose
 
@@ -854,9 +976,9 @@ Vyriausybės nustatyta tvarka;
 
 policijoje (milicijoje), vidaus tarnybos, Lietuvos
 
-Respublikos
+Respublikos  valstybės
 
-valstybės  saugumo,  krašto apsaugos ir prokuratūros
+saugumo,  krašto apsaugos ir prokuratūros
 
 sistemose  laikas
 
@@ -1008,9 +1130,9 @@ prie  pareigūnų  ir
 
 karių valstybinės pensijos už tarnybą mokamas
 
-valstybinės
+valstybinės  socialinio
 
-socialinio draudimo bazinės pensijos dydžio priedas,
+draudimo bazinės pensijos dydžio priedas,
 
 iki  jie įgys teisę
 
@@ -1068,9 +1190,9 @@ perskaičiavimo
 
 tvarka:
 
-1)  apskaičiuojama
+1)
 
-valstybinė  socialinio  draudimo pensija
+apskaičiuojama  valstybinė  socialinio  draudimo pensija
 
 pagal  Valstybinių
 
@@ -1148,7 +1270,7 @@ Apskaičiuotoji valstybinė socialinio draudimo
 
 pensija   mokama
 
-iš   valstybinio   socialinio  draudimo  fondo
+iš   valstybinio   socialinio  draudimo  fondo
 
 biudžeto.
 
@@ -1164,9 +1286,9 @@ indeksuojamos
 
 kartu  ir  tiek  pat  kaip  valstybinė  socialinio
 
-draudimo   bazinė   pensija.
+draudimo   bazinė
 
-Šios   pensijos  mokamos  anksčiau
+pensija.   Šios   pensijos  mokamos  anksčiau
 
 galiojusia tvarka,
 
@@ -1222,7 +1344,7 @@ karių valstybinės  pensijos ir  šiame įstatyme
 
 numatyti jų  priedai
 
-mokami  iš  Lietuvos  Respublikos  valstybės
+mokami  iš  Lietuvos  Respublikos  valstybės
 
 biudžeto.
 
@@ -1258,17 +1380,17 @@ metų;
 
 ištarnavusiems  prokuratūroje  20  ir  daugiau  metų  ir
 
-sukakusiems
+sukakusiems  Valstybinių
 
-Valstybinių  socialinio  draudimo  pensijų  įstatymo
+socialinio  draudimo  pensijų  įstatymo
 
 nustatytą senatvės
 
 pensijos amžių;
 
-3) pripažintiems
+3)
 
-invalidais dėl  priežasčių,  susijusių  su
+pripažintiems  invalidais dėl  priežasčių,  susijusių  su
 
 tarnyba;
 
@@ -1334,7 +1456,7 @@ daugiau  metų  ir  sukakę  įstatymų  nustatytą
 
 išleidimo  į
 
-atsargą  amžių  (jei  toks  amžius  nenustatytas  -
+atsargą  amžių  (jei  toks  amžius  nenustatytas  -
 
 senatvės pensijos
 
@@ -1356,7 +1478,7 @@ našlių pensijas.
 
 Pareigūnų  ir
 
-karių  valstybinės  pensijos  išėjusiems  iš
+karių  valstybinės  pensijos  išėjusiems  iš
 
 tarnybos
 
@@ -1476,9 +1598,9 @@ apskųsti tos
 
 institucijos vadovui, o jei nesutinkama ir su vadovo
 
-sprendimu, ginčas sprendžiamas
+sprendimu, ginčas
 
-teisme.
+sprendžiamas teisme.
 
 13 straipsnis.
 
