@@ -4,7 +4,7 @@ identifier: "TAR.1206CB9E10F2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-01-31"
-last_updated: "2001-04-19"
+last_updated: "2001-07-10"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1206CB9E10F2"
 department: "Lietuvos Respublikos Seimas"
@@ -37,17 +37,17 @@ DĖL TARNYBOS LIETUVOS RESPUBLIKOS
 
 PROKURATŪROJE STATUTO PATVIRTINIMO
 
-Patvirtinti Tarnybos Lietuvos Respublikos
+Patvirtinti
 
-prokuratūroje statutą (pridedamas).
+Tarnybos Lietuvos Respublikos prokuratūroje statutą (pridedamas).
 
-Skelbiu šį Lietuvos Respublikos Seimo
+Skelbiu
 
-priimtą įstatymą.
+šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS
+RESPUBLIKOS
 
-ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
 
 PATVIRTINTAS
 
@@ -69,551 +69,653 @@ S T A T U T A S
 
 BENDROSIOS NUOSTATOS
 
-1. Tarnybos Lietuvos Respublikos
+1.
 
-prokuratūroje statutas (toliau - Statutas) nustato prokuratūros pareigūnų
+Tarnybos Lietuvos Respublikos prokuratūroje statutas (toliau - Statutas)
 
-(toliau - pareigūnai) priėmimo į tarnybą, stažavimo, priesaikos priėmimo,
+nustato prokuratūros pareigūnų (toliau - pareigūnai) priėmimo į tarnybą,
 
-perkėlimo į kitas pareigas, atleidimo iš tarnybos, atestavimo, laipsnių
+stažavimo, priesaikos priėmimo, perkėlimo į kitas pareigas, atleidimo iš
 
-suteikimo, skatinimo, drausminės atsakomybės, nušalinimo nuo pareigų, darbo
+tarnybos, atestavimo, laipsnių suteikimo, skatinimo, drausminės atsakomybės,
 
-apmokėjimo, socialinių garantijų teikimo, asmens apsaugos priemonių išdavimo,
+nušalinimo nuo pareigų, darbo apmokėjimo, socialinių garantijų teikimo, asmens
 
-saugojimo, nešiojimo ir panaudojimo bei aprangos su skiriamaisiais ženklais
+apsaugos priemonių išdavimo, saugojimo, nešiojimo ir panaudojimo bei aprangos
 
-išdavimo ir dėvėjimo tvarką.
+su skiriamaisiais ženklais išdavimo ir dėvėjimo tvarką.
 
 PRIĖMIMAS Į TARNYBĄ
 
-2. Į tarnybą prokuratūroje savanoriškumo
+2.
 
-ir atrankos pagrindu priimami Lietuvos Respublikos piliečiai, mokantys
+Į tarnybą prokuratūroje savanoriškumo ir atrankos pagrindu priimami Lietuvos
 
-valstybinę kalbą, paprastai turintys aukštąjį išsilavinimą, šiai profesijai
+Respublikos piliečiai, mokantys valstybinę kalbą, paprastai turintys aukštąjį
 
-būtinus fizinius duomenis, intelektines ir moralines savybes.
+išsilavinimą, šiai profesijai būtinus fizinius duomenis, intelektines ir
 
-3. Asmenys, pareiškę norą tarnauti
+moralines savybes.
 
-prokuratūroje, privalo pasitikrinti sveikatos būklę bei pateikti išvadą dėl
+3.
 
-tinkamumo tarnybai.
+Asmenys, pareiškę norą tarnauti prokuratūroje, privalo pasitikrinti sveikatos
 
-Sveikatos tikrinimo tvarką bei
+būklę bei pateikti išvadą dėl tinkamumo tarnybai.
 
-medicininius reikalavimus priimamiesiems nustato generalinis prokuroras ir
+Sveikatos
 
-Sveikatos apsaugos ministerija.
+tikrinimo tvarką bei medicininius reikalavimus priimamiesiems nustato
 
-4. Su priimamais į tarnybą asmenimis gali
+generalinis prokuroras ir Sveikatos apsaugos ministerija.
 
-būti sudaryta neterminuota arba ne ilgiau kaip 5 metams terminuota tarnybos
+4.
 
-sutartis.
+Su priimamais į tarnybą asmenimis gali būti sudaryta neterminuota arba ne
 
-Priimant į tarnybą, gali būti nustatytas
+ilgiau kaip 5 metams terminuota tarnybos sutartis.
 
-išbandymo laikotarpis, kuris negali būti ilgesnis kaip 3 mėnesiai.
+Priimant
 
-5. Į prokuratūros pareigūnų tarnybos laiką
+į tarnybą, gali būti nustatytas išbandymo laikotarpis, kuris negali būti
 
-įskaitomas tarnybos ar darbo pareigūnais prokuratūros, vidaus reikalų, krašto
+ilgesnis kaip 3 mėnesiai.
 
-apsaugos bei valstybės saugumo sistemose laikas.
+5.
 
-Be to, tarnybos laikui prilyginami
+Į prokuratūros pareigūnų tarnybos laiką įskaitomas tarnybos ar darbo
 
-laikotarpiai, numatyti Lietuvos Respublikos vidaus reikalų, valstybės saugumo,
+pareigūnais prokuratūros, vidaus reikalų, krašto apsaugos bei valstybės saugumo
 
-krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų įstatymo
+sistemose laikas.
 
-16 straipsnyje.
+Be
 
-6. Asmuo į tarnybą prokuratūroje
+to, tarnybos laikui prilyginami laikotarpiai, numatyti Lietuvos Respublikos
 
-nepriimamas, jeigu:
+vidaus reikalų, valstybės saugumo, krašto apsaugos ir prokuratūros pareigūnų ir
 
-1) pagal medicinos išvadą netinka
+karių valstybinių pensijų įstatymo 16 straipsnyje.
 
-konkrečioms pareigoms;
+6.
 
-2) buvo teistas už tyčinį nusikaltimą;
+Asmuo į tarnybą prokuratūroje nepriimamas, jeigu:
 
-3) kartu gyvena su artimiausiais
+1)
 
-giminaičiais (tėvas, motina, broliai, seserys) arba sutuoktiniu, kurie buvo
+pagal medicinos išvadą netinka konkrečioms pareigoms;
 
-teisti už sunkų tyčinį nusikaltimą;
+2)
 
-4) anksčiau dirbo teismų ar tarnavo Vidaus
+buvo teistas už tyčinį nusikaltimą;
 
-reikalų ministerijos ar Valstybės saugumo departamento sistemose ir buvo
+3)
 
-atleistas už darbuotojo vardą diskredituojančius veiksmus.
+kartu gyvena su artimiausiais giminaičiais (tėvas, motina, broliai, seserys)
 
-7. Asmuo skiriamas į pareigas, jeigu
+arba sutuoktiniu, kurie buvo teisti už sunkų tyčinį nusikaltimą;
 
-atitinka pareigūnui keliamus reikalavimus ir jam negalima pritaikyti kurio nors
+4)
 
-iš šio statuto 6 bei 12 straipsniuose nurodytų apribojimų.
+anksčiau dirbo teismų ar tarnavo Vidaus reikalų ministerijos ar Valstybės
 
-Priėmimas į tarnybą prokuratūroje
+saugumo departamento sistemose ir buvo atleistas už darbuotojo vardą
 
-įforminamas generalinio prokuroro ar jo pavaduotojo įsakymu.
+diskredituojančius veiksmus.
 
-8. Asmenys priimami tik į etatų sąraše
+7.
 
-esančias pareigas.
+Asmuo skiriamas į pareigas, jeigu atitinka pareigūnui keliamus reikalavimus ir
 
-9. Pasiūlymą priimti į tarnybą
+jam negalima pritaikyti kurio nors iš šio statuto 6 bei 12 straipsniuose
 
-prokuratūroje generaliniam prokurorui ar jo pavaduotojui teikia padalinio, į
+nurodytų apribojimų.
 
-kurį priimamas asmuo, bei personalo skyriaus vadovas.
+Priėmimas
 
-10. Paskirtas į pareigas asmuo tampa
+į tarnybą prokuratūroje įforminamas generalinio prokuroro ar jo pavaduotojo
 
-pareigūnu ir jam išduodamas tarnybinis pažymėjimas. Priimtąjį atestavus ir
+įsakymu.
 
-suteikus laipsnį, išduodama nustatyto pavyzdžio uniforma. Taip pat gali būti
+8.
 
-išduotas šaunamasis ginklas ar kita asmens apsaugos priemonė.
+Asmenys priimami tik į etatų sąraše esančias pareigas.
 
-11. Pareigūnai, pradėdami eiti pareigas,
+9.
 
-prisiekia Lietuvos valstybei, nutraukia dalyvavimą politinių partijų ar
+Pasiūlymą priimti į tarnybą prokuratūroje generaliniam prokurorui ar jo
 
-politinių organizacijų veikloje.
+pavaduotojui teikia padalinio, į kurį priimamas asmuo, bei personalo skyriaus
 
-12. Asmuo negali būti paskirtas į pareigas
+vadovas.
 
-prokuratūroje, jeigu toje prokuratūroje tarnauja jo tėvai, įtėviai,
+10.
 
-sutuoktiniai, broliai, seserys, vaikai, įvaikiai, taip pat sutuoktinių broliai,
+Paskirtas į pareigas asmuo tampa pareigūnu ir jam išduodamas tarnybinis
 
-seserys, tėvai ir vaikai, su kuriais būtų tiesioginio pavaldumo ar kontrolės
+pažymėjimas. Priimtąjį atestavus ir suteikus laipsnį, išduodama nustatyto
 
-ryšys.
+pavyzdžio uniforma. Taip pat gali būti išduotas šaunamasis ginklas ar kita
+
+asmens apsaugos priemonė.
+
+11.
+
+Pareigūnai, pradėdami eiti pareigas, prisiekia Lietuvos valstybei, nutraukia
+
+dalyvavimą politinių partijų ar politinių organizacijų veikloje.
+
+12.
+
+Asmuo negali būti paskirtas į pareigas prokuratūroje, jeigu toje prokuratūroje
+
+tarnauja jo tėvai, įtėviai, sutuoktiniai, broliai, seserys, vaikai, įvaikiai,
+
+taip pat sutuoktinių broliai, seserys, tėvai ir vaikai, su kuriais būtų
+
+tiesioginio pavaldumo ar kontrolės ryšys.
 
 STAŽAVIMO TVARKA
 
-13. Asmenys, neturintys tarnybai
+13.
 
-prokuratūroje reikiamo teisinio darbo patyrimo, vienerius metus stažuoja
+Asmenys, neturintys tarnybai prokuratūroje reikiamo teisinio darbo patyrimo,
 
-dirbdami prokuratūros pareigūnais.
+vienerius metus stažuoja dirbdami prokuratūros pareigūnais.
 
-14. Prokuratūros stažuotojai turi
+14.
 
-prokuratūros pareigūnų procesinius įgaliojimus, procesiniuose dokumentuose
+Prokuratūros stažuotojai turi prokuratūros pareigūnų procesinius įgaliojimus,
 
-pasirašo - "einantis prokuroro (tardytojo, prokuroro padėjėjo, tardytojo
+procesiniuose dokumentuose pasirašo - "einantis prokuroro (tardytojo,
 
-padėjėjo) pareigas".
+prokuroro padėjėjo, tardytojo padėjėjo) pareigas".
 
-15. Stažuotės vadovą skiria generalinio
+15.
 
-prokuroro ar jo pavaduotojo įsakymu prokuratūros ar padalinio, į kurį
+Stažuotės vadovą skiria generalinio prokuroro ar jo pavaduotojo įsakymu
 
-stažuotojas priimamas dirbti, vyriausiasis prokuroras.
-
-16. Stažuotės vadovas parengia stažavimo
-
-programą, kurią tvirtina aukštesnysis prokuroras.
-
-17. Pagal patvirtintą programą stažuotojas
-
-stažuoja visose prokuratūros veiklos srityse.
-
-Už šios programos įvykdymą tiesiogiai yra
-
-atsakingas stažuotės vadovas ir atitinkamos prokuratūros vyriausiasis
+prokuratūros ar padalinio, į kurį stažuotojas priimamas dirbti, vyriausiasis
 
 prokuroras.
 
-18. Pasibaigus stažavimui, stažuotojas
+16.
 
-parašo ataskaitą, kurią įvertina ir patvirtina stažuotės vadovas.
+Stažuotės vadovas parengia stažavimo programą, kurią tvirtina aukštesnysis
 
-19. Visiškai įvykdžius stažuotės programą
+prokuroras.
 
-ir pasibaigus stažavimo terminui, stažuotojas atestuojamas ir generalinio
+17.
 
-prokuroro ar jo pavaduotojo įsakymu skiriamas į prokuroro ar tardytojo
+Pagal patvirtintą programą stažuotojas stažuoja visose prokuratūros veiklos
 
-pareigas.
+srityse.
 
-20. Jeigu stažuotojas nevisiškai ar
+Už
 
-netinkamai įvykdė stažavimo programą, jis neatestuojamas ir atleidžiamas iš
+šios programos įvykdymą tiesiogiai yra atsakingas stažuotės vadovas ir
 
-tarnybos prokuratūroje.
+atitinkamos prokuratūros vyriausiasis prokuroras.
+
+18.
+
+Pasibaigus stažavimui, stažuotojas parašo ataskaitą, kurią įvertina ir
+
+patvirtina stažuotės vadovas.
+
+19.
+
+Visiškai įvykdžius stažuotės programą ir pasibaigus stažavimo terminui,
+
+stažuotojas atestuojamas ir generalinio prokuroro ar jo pavaduotojo įsakymu
+
+skiriamas į prokuroro ar tardytojo pareigas.
+
+20.
+
+Jeigu stažuotojas nevisiškai ar netinkamai įvykdė stažavimo programą, jis
+
+neatestuojamas ir atleidžiamas iš tarnybos prokuratūroje.
 
 PRIESAIKOS TVARKA
 
-21. Generaliniam prokurorui ar jo
+21.
 
-pavaduotojams pavaldūs pareigūnai prisiekia ne vėliau kaip per mėnesį nuo
+Generaliniam prokurorui ar jo pavaduotojams pavaldūs pareigūnai prisiekia ne
 
-paskyrimo į atitinkamas pareigas.
+vėliau kaip per mėnesį nuo paskyrimo į atitinkamas pareigas.
 
-22. Prisiekiama iškilmingoje aplinkoje,
+22.
 
-dalyvaujant prokuratūros vadovams ir pareigūnams.
+Prisiekiama iškilmingoje aplinkoje, dalyvaujant prokuratūros vadovams ir
 
-23. Priesaikos ceremonijai vadovauja
+pareigūnams.
 
-prokuratūros vadovas ar jį pavaduojantis pareigūnas.
+23.
 
-24. Prisiekiama individualiai.
+Priesaikos ceremonijai vadovauja prokuratūros vadovas ar jį pavaduojantis
 
-Prisiekiantysis, atsistojęs prieš prokuratūros pareigūnus, garsiai perskaito
+pareigūnas.
 
-priesaikos tekstą ir jį pasirašo.
+24.
 
-25. Kai prisiekia daugiau pareigūnų,
+Prisiekiama individualiai. Prisiekiantysis, atsistojęs prieš prokuratūros
 
-vienas iš jų garsiai skaito priesaikos tekstą, o kiti jį pakartoja. Kiekvienas
+pareigūnus, garsiai perskaito priesaikos tekstą ir jį pasirašo.
 
-prisiekiantysis atskirai pasako tik savo vardą ir pavardę.
+25.
 
-26. Pareigūnai, neprisiekę nurodytu laiku
+Kai prisiekia daugiau pareigūnų, vienas iš jų garsiai skaito priesaikos tekstą,
 
-ne dėl savo kaltės, prisiekia kitu prokuratūros vadovo paskirtu laiku.
+o kiti jį pakartoja. Kiekvienas prisiekiantysis atskirai pasako tik savo vardą
 
-27. Pasirašyti lapai su priesaikos tekstu
+ir pavardę.
 
-saugomi pareigūnų asmens bylose.
+26.
+
+Pareigūnai, neprisiekę nurodytu laiku ne dėl savo kaltės, prisiekia kitu
+
+prokuratūros vadovo paskirtu laiku.
+
+27.
+
+Pasirašyti lapai su priesaikos tekstu saugomi pareigūnų asmens bylose.
 
 PERKĖLIMAS Į KITAS PAREIGAS BEI PROKURORO FUNKCIJŲ
 
 VYKDYMAS KITOJE TERITORIJOJE
 
-28. Pareigūnas jo paties sutikimu gali
+28.
 
-būti perkeltas:
+Pareigūnas jo paties sutikimu gali būti perkeltas:
 
-1) į aukštesnes pareigas;
+1)
 
-2) į lygiareikšmes pareigas -
+į aukštesnes pareigas;
 
-atsižvelgiant į bendrus tarnybos interesus, pareigūno dalykines ir asmenines
+2)
 
-savybes, sveikatos būklę (pagal medicinos išvadą), amžių ir pasirengimą kitai
+į lygiareikšmes pareigas - atsižvelgiant į bendrus tarnybos interesus,
 
-tarnybai;
+pareigūno dalykines ir asmenines savybes, sveikatos būklę (pagal medicinos
 
-3) į žemesnes pareigas - dėl etatų
+išvadą), amžių ir pasirengimą kitai tarnybai;
 
-sumažinimo, dėl sveikatos būklės bei atestavimo tvarka.
+3)
 
-29. Įsakyme apie pareigūno perkėlimą į
+į žemesnes pareigas - dėl etatų sumažinimo, dėl sveikatos būklės bei atestavimo
 
-žemesnes pareigas nurodoma perkėlimo priežastis.
+tvarka.
 
-30. Į žemesnes pareigas dėl etatų mažinimo
+29.
 
-arba dėl sveikatos būklės perkeliama tik tuo atveju, jeigu nėra galimybės
+Įsakyme apie pareigūno perkėlimą į žemesnes pareigas nurodoma perkėlimo
 
-skirti pareigūną į lygiareikšmes pareigas ir jeigu jis pats sutinka.
+priežastis.
 
-31. Pareigūnai, kuriuos prokuratūra
+30.
 
-pasiunčia kelti kvalifikaciją, paliekami generalinės prokuratūros personalo
+Į žemesnes pareigas dėl etatų mažinimo arba dėl sveikatos būklės perkeliama tik
 
-skyriaus įskaitoje visam studijų laikotarpiui ir jiems mokamas visas darbo
+tuo atveju, jeigu nėra galimybės skirti pareigūną į lygiareikšmes pareigas ir
 
-užmokestis pagal pareigas, iš kurių jie buvo pasiųsti mokytis.
+jeigu jis pats sutinka.
 
-Pareigūnų stažuotės užsienyje tvarką
+31.
 
-nustato Lietuvos Respublikos Vyriausybė ir generalinis prokuroras.
+Pareigūnai, kuriuos prokuratūra pasiunčia kelti kvalifikaciją, paliekami
 
-32. Generalinis prokuroras neperkeldamas į
+generalinės prokuratūros personalo skyriaus įskaitoje visam studijų
 
-kitas pareigas gali pavesti prokuratūros pareigūnui be šio sutikimo laikinai
+laikotarpiui ir jiems mokamas visas darbo užmokestis pagal pareigas, iš kurių
 
-vykdyti prokuroro funkcijas kitoje teritorijoje ar kitame teisme.
+jie buvo pasiųsti mokytis.
+
+Pareigūnų
+
+stažuotės užsienyje tvarką nustato Lietuvos Respublikos Vyriausybė ir
+
+generalinis prokuroras.
+
+32.
+
+Generalinis prokuroras neperkeldamas į kitas pareigas gali pavesti prokuratūros
+
+pareigūnui be šio sutikimo laikinai vykdyti prokuroro funkcijas kitoje
+
+teritorijoje ar kitame teisme.
 
 ATLEIDIMAS IŠ TARNYBOS
 
-33. Pareigūnai iš tarnybos prokuratūroje
+33.
 
-atleidžiami:
+Pareigūnai iš tarnybos prokuratūroje atleidžiami:
 
-1) šalių susitarimu;
+1)
 
-2) paties prašymu;
+šalių susitarimu;
 
-3) terminuotos tarnybos atveju pasibaigus
+2)
 
-sutarties terminui;
+paties prašymu;
 
-4) mažinant darbuotojų skaičių dėl darbo
+3)
 
-organizavimo pakeitimų bei struktūrinių padalinių likvidavimo;
+terminuotos tarnybos atveju pasibaigus sutarties terminui;
 
-5) jei nenutraukia dalyvavimo politinių
+4)
 
-partijų ar politinių organizacijų veikloje ar kitaip pažeidžia politinio
+mažinant darbuotojų skaičių dėl darbo organizavimo pakeitimų bei struktūrinių
 
-neutralumo principą;
+padalinių likvidavimo;
 
-6) jei paaiškėja, jog pareigūnas negali
+5)
 
-tinkamai atlikti jam pavestų pareigų dėl sveikatos būklės (pagal medicinos
+jei nenutraukia dalyvavimo politinių partijų ar politinių organizacijų veikloje
 
-išvadą);
+ar kitaip pažeidžia politinio neutralumo principą;
 
-7) jei atestacinė komisija pripažįsta
+6)
 
-netinkamu užimamoms pareigoms;
+jei paaiškėja, jog pareigūnas negali tinkamai atlikti jam pavestų pareigų dėl
 
-8) jei išbandymo rezultatai yra
+sveikatos būklės (pagal medicinos išvadą);
 
-nepatenkinami;
+7)
 
-9) jei pažeidė Lietuvos Respublikos
+jei atestacinė komisija pripažįsta netinkamu užimamoms pareigoms;
 
-prokuratūros įstatymo 7 straipsnio reikalavimus;
+8)
 
-10) jei savo poelgiu pažemino prokuroro
+jei išbandymo rezultatai yra nepatenkinami;
 
-vardą;
+9)
 
-11) jei pažeidė draudimą streikuoti;
+jei pažeidė Lietuvos Respublikos prokuratūros įstatymo 7 straipsnio
 
-12) jei neteko Lietuvos Respublikos
+reikalavimus;
 
-pilietybės;
+10)
 
-13) kai įsiteisėjo jį apkaltinęs teismo
+jei savo poelgiu pažemino prokuroro vardą;
 
-nuosprendis;
+11)
 
-14) jei neatvyko į tarnybą be svarbių
+jei pažeidė draudimą streikuoti;
 
-priežasčių per visą darbo dieną;
+12)
 
-15) jei darbo metu tarnyboje buvo
+jei neteko Lietuvos Respublikos pilietybės;
 
-neblaivus, apsvaigęs nuo narkotinių ar toksinių medžiagų;
+13)
 
-16) jei atskleidė tarnybinę paslaptį;
+kai įsiteisėjo jį apkaltinęs teismo nuosprendis;
 
-17) jei vieną kartą šiurkščiai pažeidė
+14)
 
-tarnybines pareigas;
+jei neatvyko į tarnybą be svarbių priežasčių per visą darbo dieną;
 
-18) jei dėl laikinojo nedarbingumo
+15)
 
-neatvyko į tarnybą daugiau kaip 120 kalendorinių dienų iš eilės arba daugiau
+jei darbo metu tarnyboje buvo neblaivus, apsvaigęs nuo narkotinių ar toksinių
 
-kaip 140 kalendorinių dienų per paskutiniuosius 12 mėnesių;
+medžiagų;
 
-19) jei pereina į renkamąsias pareigas
+16)
 
-arba pareigas, į kurias skiriamas konkurso tvarka;
+jei atskleidė tarnybinę paslaptį;
 
-20) jei nerūpestingai atliko pareigas ar
+17)
 
-kitaip pažeidė tarnybinę drausmę, o prieš tai šiam pareigūnui nors vieną kartą
+jei vieną kartą šiurkščiai pažeidė tarnybines pareigas;
 
-per paskutiniuosius dvylika mėnesių buvo taikytos drausminės nuobaudos;
+18)
 
-21) jei paaiškėjo šio statuto 6 ir 12
+jei dėl laikinojo nedarbingumo neatvyko į tarnybą daugiau kaip 120 kalendorinių
 
-straipsniuose nurodytos aplinkybės, kurios pareigūno priėmimo į tarnybą metu
+dienų iš eilės arba daugiau kaip 140 kalendorinių dienų per paskutiniuosius 12
 
-nebuvo žinomos arba atsirado vėliau;
+mėnesių;
 
-22) sukakę 65 metus arba pareigūno valia
+19)
 
-dėl išėjimo į pensiją;
+jei pereina į renkamąsias pareigas arba pareigas, į kurias skiriamas konkurso
 
-23) jei atsisako prisiekti;
+tvarka;
 
-24) jei įstatymų nustatytais atvejais į
+20)
 
-tarnybą grįžta pirmiau dirbęs pareigūnas.
+jei nerūpestingai atliko pareigas ar kitaip pažeidė tarnybinę drausmę, o prieš
 
-34. Atleisti iš tarnybos prokuratūroje
+tai šiam pareigūnui nors vieną kartą per paskutiniuosius dvylika mėnesių buvo taikytos
 
-kitais pagrindais, nenurodytais šiame statute, draudžiama.
+drausminės nuobaudos;
 
-Atleidimo iš tarnybos pagrindas įrašomas į
+21)
 
-atleistojo socialinio draudimo pažymėjimą.
+jei paaiškėjo šio statuto 6 ir 12 straipsniuose nurodytos aplinkybės, kurios
 
-35. Generalinis prokuroras savo
+pareigūno priėmimo į tarnybą metu nebuvo žinomos arba atsirado vėliau;
 
-iniciatyva, jei nėra pareigūno kaltės, gali nutraukti tarnybos sutartį įstatymų
+22)
 
-nustatyta tvarka tik prieš du mėnesius įspėjęs pareigūną raštu. Pareigūnui,
+sukakę 65 metus arba pareigūno valia dėl išėjimo į pensiją;
 
-kuriam iki teisės gauti pensiją liko ne daugiau kaip 5 metai, invalidui,
+23)
 
-moteriai, turinčiai vaikų iki 14 metų, ir vyrui, vienam auginančiam vaikus iki
+jei atsisako prisiekti;
 
-tokio pat amžiaus, apie numatomą atleidimą iš tarnybos turi būti pranešta raštu
+24)
 
-prieš 4 mėnesius.
+jei įstatymų nustatytais atvejais į tarnybą grįžta pirmiau dirbęs pareigūnas.
 
-Įspėjimas netenka galios, jei po termino
+34.
 
-pasibaigimo praeina daugiau kaip vienas mėnuo, neįskaitant pareigūno laikinojo
+Atleisti iš tarnybos prokuratūroje kitais pagrindais, nenurodytais šiame
 
-nedarbingumo ir atostogų laiko.
+statute, draudžiama.
 
-Jeigu pareigūnas atleidžiamas iš tarnybos
+Atleidimo
 
-nepasibaigus įspėjimo terminui, jo atleidimo iš tarnybos data perkeliama iki
+iš tarnybos pagrindas įrašomas į atleistojo socialinio draudimo pažymėjimą.
 
-laiko, kada turėjo pasibaigti įspėjimo terminas, ir už tą laiką jam išmokamas
+35.
 
-vidutinis darbo užmokestis.
+Generalinis prokuroras savo iniciatyva, jei nėra pareigūno kaltės, gali
 
-Atleisti pareigūną iš tarnybos, kai nėra
+nutraukti tarnybos sutartį įstatymų nustatyta tvarka tik prieš du mėnesius
 
-jo kaltės, taip pat šio statuto 33 straipsnio 6 ir 24 punktų pagrindais
+įspėjęs pareigūną raštu. Pareigūnui, kuriam iki teisės gauti pensiją liko ne
 
-leidžiama, jei negalima pareigūno perkelti jo sutikimu į kitas pareigas.
+daugiau kaip 5 metai, invalidui, moteriai, turinčiai vaikų iki 14 metų, ir
 
-36. Kai pareigūnas atleidžiamas iš
+vyrui, vienam auginančiam vaikus iki tokio pat amžiaus, apie numatomą atleidimą
 
-tarnybos jam atsisakius persikelti tarnauti į kitą vietovę ar dirbti pakeitus
+iš tarnybos turi būti pranešta raštu prieš 4 mėnesius.
 
-darbo sąlygas; jo paties prašymu, kai negali toliau dirbti dėl ligos,
+Įspėjimas
 
-invalidumo ar kitų svarbių priežasčių; pagal atestavimo rezultatus; įstatymų
+netenka galios, jei po termino pasibaigimo praeina daugiau kaip vienas mėnuo,
 
-nustatytais atvejais grįžus į tarnybą pirmiau dirbusiam pareigūnui; taip pat
+neįskaitant pareigūno laikinojo nedarbingumo ir atostogų laiko.
 
-sukakusiam 65 metus atleistajam išmokama jo vidutinio mėnesinio tarnybos
+Jeigu
 
-užmokesčio dydžio išeitinė pašalpa. Kai atleidžiama iš tarnybos mažinant
+pareigūnas atleidžiamas iš tarnybos nepasibaigus įspėjimo terminui, jo
 
-pareigūnų skaičių dėl darbo organizavimo pakeitimo, struktūrinių padalinių
+atleidimo iš tarnybos data perkeliama iki laiko, kada turėjo pasibaigti
 
-likvidavimo, išmokama dviejų vidutinių mėnesinių tarnybos užmokesčių dydžio
+įspėjimo terminas, ir už tą laiką jam išmokamas vidutinis darbo užmokestis.
 
-išeitinė pašalpa.
+Atleisti
 
-Šio straipsnio pirmojoje dalyje numatyto
+pareigūną iš tarnybos, kai nėra jo kaltės, taip pat šio statuto 33 straipsnio 6
 
-dydžio išeitinė pašalpa didinama: pareigūnui, turinčiam darbo stažą
+ir 24 punktų pagrindais leidžiama, jei negalima pareigūno perkelti jo sutikimu
 
-prokuratūroje didesnį kaip 5 metų - pusantro karto, didesnį kaip 10 metų - du
+į kitas pareigas.
 
-kartus ir didesnį kaip 20 metų - tris kartus.
+36.
 
-37. Mirę, žuvę, dingę be žinios pareigūnai
+Kai pareigūnas atleidžiamas iš tarnybos jam atsisakius persikelti tarnauti į
 
-išbraukiami iš prokuratūros personalo sąrašų generalinio prokuroro ar jo pavaduotojo
+kitą vietovę ar dirbti pakeitus darbo sąlygas; jo paties prašymu, kai negali
 
-įsakymu.
+toliau dirbti dėl ligos, invalidumo ar kitų svarbių priežasčių; pagal
 
-38. Ginčai dėl atleidimo iš tarnybos
+atestavimo rezultatus; įstatymų nustatytais atvejais grįžus į tarnybą pirmiau
 
-sprendžiami apygardos teisme.
+dirbusiam pareigūnui; taip pat sukakusiam 65 metus atleistajam išmokama jo
 
-39. Teismui grąžinus neteisėtai atleistą,
+vidutinio mėnesinio tarnybos užmokesčio dydžio išeitinė pašalpa. Kai
 
-perkeltą ar nušalintą pareigūną į ankstesnes pareigas, atlyginama už visą
+atleidžiama iš tarnybos mažinant pareigūnų skaičių dėl darbo organizavimo
 
-priverstinės pravaikštos laiką arba išmokamas atlyginimo skirtumas už laiką,
+pakeitimo, struktūrinių padalinių likvidavimo, išmokama dviejų vidutinių
 
-kurį pareigūnas tarnavo mažiau apmokamose pareigose.
+mėnesinių tarnybos užmokesčių dydžio išeitinė pašalpa.
 
-40. Jei neteisėtai atleistas pareigūnas
+Šio
 
-pareiškia, kad grąžinus į ankstesnes pareigas jam būtų sudarytos nepalankios
+straipsnio pirmojoje dalyje numatyto dydžio išeitinė pašalpa didinama:
 
-sąlygos tarnauti, teismas, konstatuodamas neteisėtą atleidimą, gali pareigūno
+pareigūnui, turinčiam darbo stažą prokuratūroje didesnį kaip 5 metų - pusantro
 
-prašymu negrąžinti jo į pareigas, o priteisti jam kompensaciją iki dvylikos jo
+karto, didesnį kaip 10 metų - du kartus ir didesnį kaip 20 metų - tris kartus.
 
-vidutinių mėnesinių darbo užmokesčių dydžio. Šiuo atveju pareigūnas laikomas
+37.
 
-atleistu iš pareigų pagal pareigūno pareiškimą.
+Mirę, žuvę, dingę be žinios pareigūnai išbraukiami iš prokuratūros personalo
+
+sąrašų generalinio prokuroro ar jo pavaduotojo įsakymu.
+
+38.
+
+Ginčai dėl atleidimo iš tarnybos sprendžiami apygardos teisme.
+
+39.
+
+Teismui grąžinus neteisėtai atleistą, perkeltą ar nušalintą pareigūną į
+
+ankstesnes pareigas, atlyginama už visą priverstinės pravaikštos laiką arba
+
+išmokamas atlyginimo skirtumas už laiką, kurį pareigūnas tarnavo mažiau
+
+apmokamose pareigose.
+
+40.
+
+Jei neteisėtai atleistas pareigūnas pareiškia, kad grąžinus į ankstesnes
+
+pareigas jam būtų sudarytos nepalankios sąlygos tarnauti, teismas,
+
+konstatuodamas neteisėtą atleidimą, gali pareigūno prašymu negrąžinti jo į
+
+pareigas, o priteisti jam kompensaciją iki dvylikos jo vidutinių mėnesinių
+
+darbo užmokesčių dydžio. Šiuo atveju pareigūnas laikomas atleistu iš pareigų
+
+pagal pareigūno pareiškimą.
 
 ATESTAVIMAS
 
-41. Kvalifikacijai patikrinti ir
+41.
 
-profesinei atrankai pareigūnai atestuojami kas 5 metai.
+Kvalifikacijai patikrinti ir profesinei atrankai pareigūnai atestuojami kas 5
 
-Generalinio prokuroro nustatytais atvejais
+metai.
 
-pareigūnai gali būti atestuojami ir nepasibaigus
+Generalinio
+
+prokuroro nustatytais atvejais pareigūnai gali būti atestuojami ir nepasibaigus
 
 5 metų terminui.
 
-Atitinkamam laipsniui suteikti pareigūnai
+Atitinkamam
 
-paprastai atestuojami suėjus Statuto 48 straipsnyje nustatytam terminui.
+laipsniui suteikti pareigūnai paprastai atestuojami suėjus Statuto 48
 
-Naujai priimti pareigūnai atestuojami po
+straipsnyje nustatytam terminui.
 
-pusės metų tarnybos tam tikrose pareigose arba pasibaigus stažavimo terminui.
+Naujai
 
-42. Pareigūnams atestuoti sudaroma
+priimti pareigūnai atestuojami po pusės metų tarnybos tam tikrose pareigose
 
-atestacinė komisija, kurios veiklos principus nustato, sudėtį ir sprendimus
+arba pasibaigus stažavimo terminui.
 
-tvirtina generalinis prokuroras.
+42.
 
-Atestacinės komisijos sprendimą pareigūnai
+Pareigūnams atestuoti sudaroma atestacinė komisija, kurios veiklos principus
 
-gali apskųsti generaliniam prokurorui.
+nustato, sudėtį ir sprendimus tvirtina generalinis prokuroras.
 
-43. Pareigūnų darbo rezultatus, dalykines,
+Atestacinės
 
-profesines ir kitas asmenines savybes įvertina tiesioginiai jų vadovai. Jie ir
+komisijos sprendimą pareigūnai gali apskųsti generaliniam prokurorui.
 
-atsako už atestacijos objektyvumą.
+43.
 
-44. Atestuojant svarstoma, ar pareigūnas
+Pareigūnų darbo rezultatus, dalykines, profesines ir kitas asmenines savybes
 
-tinka užimamoms pareigoms ir pasiūlymai dėl jo tolesnio darbo bei laipsnio
+įvertina tiesioginiai jų vadovai. Jie ir atsako už atestacijos objektyvumą.
 
-suteikimo.
+44.
+
+Atestuojant svarstoma, ar pareigūnas tinka užimamoms pareigoms ir pasiūlymai
+
+dėl jo tolesnio darbo bei laipsnio suteikimo.
 
 LAIPSNIAI
 
-45. Einamoms pareigoms, darbo stažui ir
+45.
 
-kvalifikacijai žymėti nustatomi šie pareigūnų laipsniai:
+Einamoms pareigoms, darbo stažui ir kvalifikacijai žymėti nustatomi šie pareigūnų
 
-vyriausiasis valstybinis justicijos
+laipsniai:
 
-patarėjas,
+vyriausiasis
 
 valstybinis justicijos patarėjas,
 
-vyresnysis justicijos patarėjas,
+valstybinis
 
 justicijos patarėjas,
 
-vyresnysis teisininkas,
+vyresnysis
 
-pirmojo rango teisininkas,
+justicijos patarėjas,
 
-antrojo rango teisininkas,
+justicijos
 
-trečiojo rango teisininkas.
+patarėjas,
 
-46. Atsižvelgiant į užimamas pareigas,
+vyresnysis
 
-nustatomi šie aukščiausi laipsniai:
+teisininkas,
+
+pirmojo
+
+rango teisininkas,
+
+antrojo
+
+rango teisininkas,
+
+trečiojo
+
+rango teisininkas.
+
+46.
+
+Atsižvelgiant į užimamas pareigas, nustatomi šie aukščiausi laipsniai:
 
 pareigos                                                                       aukščiausias
 
 laipsnis
 
-1) generalinis prokuroras                                                         vyriausiasis
+1)
+
+generalinis prokuroras                                                         vyriausiasis
 
 valstybinis
 
@@ -621,11 +723,15 @@ justicijos
 
 patarėjas
 
-2) generalinio prokuroro pavaduotojai,                                                valstybinis
+2)
+
+generalinio prokuroro pavaduotojai,                                                valstybinis
 
 justicijos
 
-pareigūnai kolegijos nariai                                                       patarėjas
+pareigūnai
+
+kolegijos nariai                                                       patarėjas
 
 3) generalinės prokuratūros
 
@@ -635,367 +741,437 @@ vyriausieji prokurorai, jų
 
 pavaduotojai,                                               patarėjas
 
-savarankiškų skyrių
+savarankiškų skyrių vyriausieji
 
-vyriausieji prokurorai,
+prokurorai,
 
-vyriausieji tardytojai,
+vyriausieji tardytojai, apygardų
 
-apygardų vyriausieji prokurorai
+vyriausieji prokurorai
 
-4) generalinės prokuratūros savarankiškų                                justicijos
+4)
+
+generalinės prokuratūros savarankiškų                                justicijos
 
 patarėjas
 
-grupių, departamentų skyrių (grupių)
+grupių,
 
-vyriausieji prokurorai, jų pavaduotojai,
+departamentų skyrių (grupių)
 
-prokurorai ir tardytojai, kitų skyrių (grupių)
+vyriausieji
+
+prokurorai, jų pavaduotojai,
+
+prokurorai
+
+ir tardytojai, kitų skyrių (grupių)
+
+vyriausiųjų
+
+prokurorų pavaduotojai,
+
+prokurorai
+
+ir tardytojai, prokuratūrų
+
+prie
+
+apygardos teismų vyriausiųjų prokurorų
+
+pavaduotojai,
+
+skyrių (grupių) vyriausieji
+
+prokurorai
+
+ir vyriausieji tardytojai
+
+5)prokuratūrų
+
+prie apygardų teismų, skyrių                             vyresnysis teisininkas
+
+(grupių)
 
 vyriausiųjų prokurorų pavaduotojai,
 
-prokurorai ir tardytojai, prokuratūrų
+skyrių
 
-prie apygardos teismų vyriausiųjų prokurorų
+(grupių) prokurorai ir tardytojai,
 
-pavaduotojai, skyrių (grupių) vyriausieji
+prokuratūrų
 
-prokurorai ir vyriausieji tardytojai
+prie apylinkių teismų vyriausieji
 
-5)prokuratūrų prie apygardų teismų, skyrių                             vyresnysis
+prokurorai
 
-teisininkas
+bei jų pavaduotojai, skyrių (grupių)
 
-(grupių) vyriausiųjų prokurorų pavaduotojai,
+vyriausieji
 
-skyrių (grupių) prokurorai ir tardytojai,
+prokurorai, jų pavaduotojai ir vyriausieji tardytojai
 
-prokuratūrų prie apylinkių teismų vyriausieji
+6)kitų
 
-prokurorai bei jų pavaduotojai, skyrių (grupių)
-
-vyriausieji prokurorai, jų pavaduotojai ir vyriausieji
-
-tardytojai
-
-6)kitų prokuratūrų prie apylinkių                                             pirmojo
+prokuratūrų prie apylinkių                                             pirmojo
 
 rango teisininkas
 
-teismų prokurorai ir tardytojai
+teismų
 
-47. Pirmasis - trečiojo rango teisininko -
+prokurorai ir tardytojai
 
-laipsnis suteikiamas prokurorui ar tardytojui, ištarnavusiam prokuratūroje
+47.
 
-šiose pareigose ne mažiau kaip 6 mėnesius, o pareigūnui, priimtam stažuotoju, -
+Pirmasis - trečiojo rango teisininko - laipsnis suteikiamas prokurorui ar
 
-kai baigia stažuotę ir yra paskirtas į prokuroro ar tardytojo pareigas.
+tardytojui, ištarnavusiam prokuratūroje šiose pareigose ne mažiau kaip 6
 
-48. Pareigūnams aukštesni laipsniai
+mėnesius, o pareigūnui, priimtam stažuotoju, - kai baigia stažuotę ir yra
 
-suteikiami eilės tvarka, kai jie yra ištarnavę:
+paskirtas į prokuroro ar tardytojo pareigas.
 
-trečiojo rango teisininko - ne mažiau kaip
+48.
 
-2 metus;
+Pareigūnams aukštesni laipsniai suteikiami eilės tvarka, kai jie yra ištarnavę:
 
-antrojo rango teisininko - ne mažiau kaip
+trečiojo
 
-2 metus;
+rango teisininko - ne mažiau kaip 2 metus;
 
-pirmojo rango teisininko - ne mažiau kaip
+antrojo
 
-3 metus;
+rango teisininko - ne mažiau kaip 2 metus;
 
-vyresniojo teisininko - ne mažiau kaip 4
+pirmojo
 
-metus;
+rango teisininko - ne mažiau kaip 3 metus;
 
-justicijos patarėjo - ne mažiau kaip 4
+vyresniojo
 
-metus.
+teisininko - ne mažiau kaip 4 metus;
 
-Vyresniojo justicijos patarėjo laipsniui
+justicijos
 
-suteikti terminas nenustatomas.
+patarėjo - ne mažiau kaip 4 metus.
 
-Vyriausiojo valstybinio justicijos
+Vyresniojo
 
-patarėjo ir valstybinio justicijos patarėjo laipsniai suteikiami paskyrus į
+justicijos patarėjo laipsniui suteikti terminas nenustatomas.
 
-atitinkamas pareigas.
+Vyriausiojo
 
-49. Pareigūnui suteikti aukštesnį laipsnį
+valstybinio justicijos patarėjo ir valstybinio justicijos patarėjo laipsniai
 
-būtinos šios sąlygos:
+suteikiami paskyrus į atitinkamas pareigas.
 
-išdirbti nustatytą laiką pagal žemesnį
+49.
 
-laipsnį;
+Pareigūnui suteikti aukštesnį laipsnį būtinos šios sąlygos:
 
-teigiama atestacija.
+išdirbti
 
-Ištarnavimo laikas aukštesniam laipsniui
+nustatytą laiką pagal žemesnį laipsnį;
 
-suteikti skaičiuojamas nuo įsakymo dėl ankstesnio laipsnio suteikimo dienos.
+teigiama
 
-Pareigūnams, turintiems galiojančių
+atestacija.
 
-drausminių nuobaudų, laipsniai nesuteikiami.
+Ištarnavimo
 
-Pasiūlymą suteikti pareigūnui aukštesnį
+laikas aukštesniam laipsniui suteikti skaičiuojamas nuo įsakymo dėl ankstesnio
 
-pagal eilę laipsnį teikia tiesioginis jo vadovas arba aukštesnis prokuroras.
+laipsnio suteikimo dienos.
 
-50. Už didelius nuopelnus tarnyboje
+Pareigūnams,
 
-aukštesni laipsniai gali būti suteikiami anksčiau nei nustatyta, ištarnavus
+turintiems galiojančių drausminių nuobaudų, laipsniai nesuteikiami.
 
-ankstesnio laipsnio pareigūnu ne mažiau kaip pusę nustatyto laiko, o suteikiant
+Pasiūlymą
 
-viena pakopa aukštesnį (negu priklausytų pagal užimamas pareigas) laipsnį -
+suteikti pareigūnui aukštesnį pagal eilę laipsnį teikia tiesioginis jo vadovas
 
-ištarnavus pagal ankstesnį laipsnį ne mažiau kaip pusantro termino.
+arba aukštesnis prokuroras.
 
-Skiriant į aukštesnes pareigas ar
+50.
 
-kolegijos nariu, laipsnis gali būti suteiktas anksčiau negu nustatyta šio
+Už didelius nuopelnus tarnyboje aukštesni laipsniai gali būti suteikiami
 
-statuto 48 straipsnyje.
+anksčiau nei nustatyta, ištarnavus ankstesnio laipsnio pareigūnu ne mažiau kaip
 
-Anksčiau laiko laipsnis gali būti
+pusę nustatyto laiko, o suteikiant viena pakopa aukštesnį (negu priklausytų
 
-suteikiamas pareigūnui vieną kartą per jo tarnybos laiką.
+pagal užimamas pareigas) laipsnį - ištarnavus pagal ankstesnį laipsnį ne mažiau
 
-51. Pareigūnams, prokuratūroje
+kaip pusantro termino.
 
-išdirbusiems pusę metų ir turintiems didelę teisinio darbo patirtį kitose
+Skiriant
 
-teisėsaugos įstaigose bei atestuotiems nustatyta tvarka, gali būti suteiktas
+į aukštesnes pareigas ar kolegijos nariu, laipsnis gali būti suteiktas anksčiau
 
-aukščiausias pagal pareigas laipsnis.
+negu nustatyta šio statuto 48 straipsnyje.
 
-52. Už tarnybinės drausmės pažeidimus
+Anksčiau
 
-prokuroras ar tardytojas gali būti pažemintas vienu laipsniu.
+laiko laipsnis gali būti suteikiamas pareigūnui vieną kartą per jo tarnybos
 
-Turėtas prieš pažeminimą laipsnis gali
+laiką.
 
-būti grąžintas ne anksčiau kaip po metų, jeigu darbas įvertinamas teigiamai.
+51.
 
-53. Laipsnis gali būti atimamas tik
+Pareigūnams, prokuratūroje išdirbusiems pusę metų ir turintiems didelę teisinio
 
-darbuotoją atleidus pagal šio statuto 33 straipsnio 10 ir 13 punktus.
+darbo patirtį kitose teisėsaugos įstaigose bei atestuotiems nustatyta tvarka,
 
-54. Vyriausiojo valstybinio justicijos
+gali būti suteiktas aukščiausias pagal pareigas laipsnis.
 
-patarėjo ir valstybinio justicijos patarėjo laipsnius suteikia Respublikos
+52.
 
-Prezidentas, o kitus - generalinis prokuroras atestacinės komisijos siūlymu.
+Už tarnybinės drausmės pažeidimus prokuroras ar tardytojas gali būti pažemintas
+
+vienu laipsniu.
+
+Turėtas
+
+prieš pažeminimą laipsnis gali būti grąžintas ne anksčiau kaip po metų, jeigu
+
+darbas įvertinamas teigiamai.
+
+53.
+
+Laipsnis gali būti atimamas tik darbuotoją atleidus pagal šio statuto 33
+
+straipsnio 10 ir 13 punktus.
+
+54.
+
+Vyriausiojo valstybinio justicijos patarėjo ir valstybinio justicijos patarėjo
+
+laipsnius suteikia Respublikos Prezidentas, o kitus - generalinis prokuroras
+
+atestacinės komisijos siūlymu.
 
 PAREIGŪNŲ SKATINIMAS IR DRAUSMINĖ ATSAKOMYBĖ
 
-55. Už pavyzdingą tarnybinių pareigų
+55.
 
-atlikimą pareigūnai gali būti paskatinti:
+Už pavyzdingą tarnybinių pareigų atlikimą pareigūnai gali būti paskatinti:
 
 padėka,
 
-pinigine premija arba vertinga dovana,
+pinigine
 
-suteikiant aukštesnį laipsnį.
+premija arba vertinga dovana,
 
-Už itin didelius nuopelnus Lietuvos
+suteikiant
 
-valstybei pareigūnai gali būti pristatyti valstybiniams apdovanojimams.
+aukštesnį laipsnį.
 
-Pareigūnai, turintys galiojančią drausminę
+Už
 
-nuobaudą - pastabą, papeikimą ar griežtą papeikimą, - taip pat pareigūnai, po
+itin didelius nuopelnus Lietuvos valstybei pareigūnai gali būti pristatyti
 
-kurių pažeminimo pareigose ar jų laipsnių pažeminimo nepraėję vieneri metai,
+valstybiniams apdovanojimams.
 
-neskatinami.
+Pareigūnai,
 
-56. Pareigūnams už tarnybinės drausmės
+turintys galiojančią drausminę nuobaudą - pastabą, papeikimą ar griežtą
 
-pažeidimus, taip pat už prokuratūrą žeminantį elgesį gali būti taikomos šios
+papeikimą, - taip pat pareigūnai, po kurių pažeminimo pareigose ar jų laipsnių
 
-drausminės nuobaudos:
+pažeminimo nepraėję vieneri metai, neskatinami.
+
+56.
+
+Pareigūnams už tarnybinės drausmės pažeidimus, taip pat už prokuratūrą
+
+žeminantį elgesį gali būti taikomos šios drausminės nuobaudos:
 
 pastaba,
 
 papeikimas,
 
-griežtas papeikimas,
+griežtas
 
-laipsnio pažeminimas,
+papeikimas,
 
-pareigų pažeminimas,
+laipsnio
 
-atleidimas iš tarnybos.
+pažeminimas,
 
-57. Pareigūnai už padarytus nusižengimus,
+pareigų
 
-taip pat ir nusikaltimus, neatsižvelgiant į baudžiamosios atsakomybės taikymą,
+pažeminimas,
 
-atsako drausmine tvarka.
+atleidimas
 
-58. Visi pareigūnai skatinami arba
+iš tarnybos.
 
-drausminės nuobaudos jiems skiriamos generalinio prokuroro ar jo įgalioto kito
+57.
 
-pareigūno įsakymu.
+Pareigūnai už padarytus nusižengimus, taip pat ir nusikaltimus, neatsižvelgiant
 
-59. Prieš skiriant nuobaudą
+į baudžiamosios atsakomybės taikymą, atsako drausmine tvarka.
 
-pareikalaujama, kad pareigūnas pasiaiškintų raštu.
+58.
 
-Jei per nustatytą terminą be svarbių
+Visi pareigūnai skatinami arba drausminės nuobaudos jiems skiriamos generalinio
 
-priežasčių pareigūnas nepateikia pasiaiškinimo arba atsisako pasiaiškinti,
+prokuroro ar jo įgalioto kito pareigūno įsakymu.
 
-drausminę nuobaudą galima skirti be pasiaiškinimo. Atsisakymo pasiaiškinti
+59.
 
-faktas įforminamas atitinkamu aktu.
+Prieš skiriant nuobaudą pareikalaujama, kad pareigūnas pasiaiškintų raštu.
 
-60. Drausminė nuobauda skiriama tuoj pat
+Jei
 
-paaiškėjus nusižengimui, bet ne vėliau kaip per mėnesį nuo tos dienos, kai
+per nustatytą terminą be svarbių priežasčių pareigūnas nepateikia pasiaiškinimo
 
-nusižengimas paaiškėjo, neįskaitant laiko, kurį pareigūnas nebuvo tarnyboje dėl
+arba atsisako pasiaiškinti, drausminę nuobaudą galima skirti be pasiaiškinimo.
 
-ligos ar atostogavo, o jeigu buvo iškelta baudžiamoji byla - ne vėliau kaip per
+Atsisakymo pasiaiškinti faktas įforminamas atitinkamu aktu.
 
-vieną mėnesį nuo tos dienos, kai baudžiamoji byla nutraukta. Drausminė nuobauda
+60.
 
-negali būti skiriama vėliau kaip po 6 mėnesių nuo nusižengimo padarymo dienos.
+Drausminė nuobauda skiriama tuoj pat paaiškėjus nusižengimui, bet ne vėliau
 
-Už veiksmus, nesuderinamus su einamomis
+kaip per mėnesį nuo tos dienos, kai nusižengimas paaiškėjo, neįskaitant laiko,
 
-prokuratūroje pareigomis, pareigūnas gali būti atleistas, nesvarbu kokiu
+kurį pareigūnas nebuvo tarnyboje dėl ligos ar atostogavo, o jeigu buvo iškelta
 
-momentu šie veiksmai buvo padaryti.
+baudžiamoji byla - ne vėliau kaip per vieną mėnesį nuo tos dienos, kai
 
-61. Drausminės nuobaudos - pastaba,
+baudžiamoji byla nutraukta. Drausminė nuobauda negali būti skiriama vėliau kaip
 
-papeikimas ir griežtas papeikimas - galioja vienerius metus.
+po 6 mėnesių nuo nusižengimo padarymo dienos.
 
-Šios nuobaudos gali būti panaikintos
+Už
 
-nepasibaigus galiojimo terminui, jei nubaustasis pareigūnas pavyzdingai eina
+veiksmus, nesuderinamus su einamomis prokuratūroje pareigomis, pareigūnas gali
 
-tarnybines pareigas.
+būti atleistas, nesvarbu kokiu momentu šie veiksmai buvo padaryti.
 
-62. Įsakymą dėl drausminės nuobaudos
+61.
 
-paskyrimo per vieną mėnesį galima apskųsti apygardos teismui.
+Drausminės nuobaudos - pastaba, papeikimas ir griežtas papeikimas - galioja
+
+vienerius metus.
+
+Šios
+
+nuobaudos gali būti panaikintos nepasibaigus galiojimo terminui, jei
+
+nubaustasis pareigūnas pavyzdingai eina tarnybines pareigas.
+
+62.
+
+Įsakymą dėl drausminės nuobaudos paskyrimo per vieną mėnesį galima apskųsti
+
+apygardos teismui.
 
 NUŠALINIMAS NUO PAREIGŲ
 
-63. Pareigūnas, pasirodęs tarnyboje
+63.
 
-neblaivus, apsvaigęs nuo narkotinių ar toksinių medžiagų arba padaręs šiurkštų
+Pareigūnas, pasirodęs tarnyboje neblaivus, apsvaigęs nuo narkotinių ar toksinių
 
-tyčinį tarnybinį pažeidimą ar nusikaltimą, taip pat paaiškėjus, jog jis netinka
+medžiagų arba padaręs šiurkštų tyčinį tarnybinį pažeidimą ar nusikaltimą, taip
 
-konkrečioms pareigoms, generalinio prokuroro ar kito jo įgalioto pareigūno
+pat paaiškėjus, jog jis netinka konkrečioms pareigoms, generalinio prokuroro ar
 
-įsakymu gali būti nušalintas nuo pareigų iki atitinkamo sprendimo priėmimo, bet
+kito jo įgalioto pareigūno įsakymu gali būti nušalintas nuo pareigų iki
 
-ne ilgiau kaip vienam mėnesiui, o nusikaltimo padarymo atveju - ne ilgiau kaip
+atitinkamo sprendimo priėmimo, bet ne ilgiau kaip vienam mėnesiui, o
 
-2 mėnesiams.
+nusikaltimo padarymo atveju - ne ilgiau kaip 2 mėnesiams.
 
-64. Pareigūno nušalinimo nuo pareigų
+64.
 
-laikotarpiu sustabdomas darbo užmokesčio mokėjimas, išskyrus atvejus, kai
+Pareigūno nušalinimo nuo pareigų laikotarpiu sustabdomas darbo užmokesčio
 
-pareigūnas nušalinamas nuo pareigų paaiškėjus, jog jis netinka konkrečioms
+mokėjimas, išskyrus atvejus, kai pareigūnas nušalinamas nuo pareigų paaiškėjus,
 
-pareigoms.
+jog jis netinka konkrečioms pareigoms.
 
-Pareigūnas, nepagrįstai nušalintas nuo
+Pareigūnas,
 
-pareigų, grąžinamas į ankstesnes pareigas. Už laiką, kurį jis buvo nušalintas,
+nepagrįstai nušalintas nuo pareigų, grąžinamas į ankstesnes pareigas. Už laiką,
 
-išmokamas vidutinis darbo užmokestis.
+kurį jis buvo nušalintas, išmokamas vidutinis darbo užmokestis.
 
-65. Kai pareigūnas nušalinamas nuo pareigų
+65.
 
-paaiškėjus, jog jis netinka konkrečioms pareigoms, jis įtraukiamas į personalo
+Kai pareigūnas nušalinamas nuo pareigų paaiškėjus, jog jis netinka konkrečioms
 
-skyriaus rezervą ir jam mokamas vidutinis darbo užmokestis pagal pareigas,
+pareigoms, jis įtraukiamas į personalo skyriaus rezervą ir jam mokamas
 
-kurias jis ėjo iki nušalinimo.
+vidutinis darbo užmokestis pagal pareigas, kurias jis ėjo iki nušalinimo.
 
-Per vieną mėnesį nušalintajam pareigūnui
+Per
 
-pasiūlomos kitos pareigos. Nesant tokios galimybės arba nušalintajam pareigūnui
+vieną mėnesį nušalintajam pareigūnui pasiūlomos kitos pareigos. Nesant tokios
 
-nesutikus eiti pasiūlytų pareigų, praėjus vienam mėnesiui nuo nušalinimo
+galimybės arba nušalintajam pareigūnui nesutikus eiti pasiūlytų pareigų,
 
-dienos, jis atleidžiamas iš tarnybos prokuratūroje pagal Statuto 33 straipsnio
+praėjus vienam mėnesiui nuo nušalinimo dienos, jis atleidžiamas iš tarnybos
 
-6 ar
+prokuratūroje pagal Statuto 33 straipsnio 6 ar
 
 7 punktus.
 
 DARBO APMOKĖJIMO TVARKA IR SĄLYGOS
 
-66. Pareigūnų darbo užmokestį sudaro
+66.
 
-pareiginė alga, priedai už turimą laipsnį ir ištarnautą laiką. Be to,
+Pareigūnų darbo užmokestį sudaro pareiginė alga, priedai už turimą laipsnį ir
 
-pareigūnams, pasiekusiems labai gerų rezultatų tarnyboje arba tiriantiems
+ištarnautą laiką. Be to, pareigūnams, pasiekusiems labai gerų rezultatų
 
-organizuotus nusikaltimus bei palaikantiems kaltinimą bylose dėl šių
+tarnyboje arba tiriantiems organizuotus nusikaltimus bei palaikantiems
 
-nusikaltimų, taip pat pareigūnams, įtrauktiems į nuolatines organizuotų nusikaltimų
+kaltinimą bylose dėl šių nusikaltimų, taip pat pareigūnams, įtrauktiems į
 
-tyrimų tardymo bei operatyvines grupes, mokamas Lietuvos Respublikos
+nuolatines organizuotų nusikaltimų tyrimų tardymo bei operatyvines grupes,
 
-Vyriausybės nustatytas papildomas tarnybinio atlyginimo priedas.
+mokamas Lietuvos Respublikos Vyriausybės nustatytas papildomas tarnybinio
 
-Ištarnautas prokuratūroje laikas
+atlyginimo priedas.
 
-skaičiuojamas nuo priėmimo į tarnybą dienos.
+Ištarnautas
 
-67. Pareiginė alga skiriama pagal
+prokuratūroje laikas skaičiuojamas nuo priėmimo į tarnybą dienos.
 
-tarnybinių atlyginimų koeficientus, kurių dydžius nustato Lietuvos Respublikos
+67.
 
-Vyriausybė.
+Pareiginė alga skiriama pagal tarnybinių atlyginimų koeficientus, kurių dydžius
 
-68. Pareigūnams mokami priedai prie
+nustato Lietuvos Respublikos Vyriausybė.
 
-pareiginės algos už laipsnį (1 priedėlis) ir priedai už ištarnautą laiką (2
+68.
 
-priedėlis).
+Pareigūnams mokami priedai prie pareiginės algos už laipsnį (1 priedėlis) ir
 
-Tarnybinio atlyginimo priedo dydžius nustato
+priedai už ištarnautą laiką (2 priedėlis).
 
-Lietuvos Respublikos Vyriausybė.
+Tarnybinio
 
-69. Už naktinį darbą ir darbą poilsio bei
+atlyginimo priedo dydžius nustato Lietuvos Respublikos Vyriausybė.
 
-švenčių dienomis pareigūnams mokama vadovaujantis Lietuvos Respublikos darbo
+69.
 
-apmokėjimo įstatymu.
+Už naktinį darbą ir darbą poilsio bei švenčių dienomis pareigūnams mokama
 
-69(1). Pradėjus įgyvendinti
+vadovaujantis Lietuvos Respublikos darbo apmokėjimo įstatymu.
 
-Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo
+69(1). Pradėjus įgyvendinti Lietuvos
 
-apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, pareigūnams taikomos
+Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo
 
-tame įstatyme nustatytos darbo apmokėjimo sąlygos.
+įstatymo nustatytą darbo apmokėjimo sistemą, pareigūnams taikomos tame įstatyme
 
-Statuto
+nustatytos darbo apmokėjimo sąlygos.
 
-papildymas straipsniu:
+Statuto papildymas straipsniu:
 
 Nr. IX-268, 2001 04 19, Žin., 2001, Nr.
 
@@ -1003,293 +1179,317 @@ Nr. IX-268, 2001 04 19, Žin., 2001, Nr.
 
 PAREIGŪNŲ SOCIALINĖS GARANTIJOS
 
-70. Pareigūnų aprūpinimo pensijomis tvarką
+70.
 
-nustato Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymas,
+Pareigūnų aprūpinimo pensijomis tvarką nustato Lietuvos Respublikos valstybinių
 
-taip pat Vidaus reikalų, valstybės saugumo, krašto apsaugos ir prokuratūros
+socialinio draudimo pensijų įstatymas, taip pat Vidaus reikalų, valstybės saugumo,
 
-pareigūnų ir karių valstybinių pensijų įstatymas.
+krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų
 
-71. Pareigūno, kuris žuvo dėl priežasčių,
+įstatymas.
 
-susijusių su tarnyba, šeimai išmokama vienkartinė 120 mėnesių darbo užmokesčių
+71.
 
-dydžio kompensacija. Žuvusysis laidojamas valstybės lėšomis.
+Jei pareigūnas žuvo dėl priežasčių, susijusių su tarnyba, ir tai pripažinta
 
-Pareigūnui, sužeistam dėl priežasčių,
+draudiminiu įvykiu, jo šeimai išmokama Lietuvos Respublikos nelaimingų
 
-susijusių su tarnyba, išmokama iki 60 mėnesių darbo užmokesčių dydžio
+atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatyta
 
-kompensacija atsižvelgiant į sužalojimo sunkumo laipsnį:
+draudimo išmoka.
 
-tapusiems dėl sužeidimo I grupės
+Jei pareigūnas buvo sužeistas dėl priežasčių,
 
-invalidais - 60 mėnesių darbo užmokesčių dydžio;
+susijusių su tarnyba, ir tai pripažinta draudiminiu įvykiu, pagal Lietuvos
 
-tapusiems dėl sužeidimo II grupės
+Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo
 
-invalidais - 48 mėnesių darbo užmokesčių dydžio;
+įstatymą jam išmokama nustatyto dydžio pašalpa ar (ir) kompensacija.
 
-tapusiems dėl sužeidimo III grupės
+Straipsnio pakeitimai:
 
-invalidais - 36 mėnesių darbo užmokesčių dydžio;
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 
-sunkaus sužeidimo (suluošinimo) atveju -
+64-2328 (2001-07-25)
 
-24 mėnesių darbo užmokesčių dydžio;
+72
 
-lengvo sužeidimo (suluošinimo) atveju - 12
+Pareigūnai nuo nelaimingų atsitikimų einant tarnybines pareigas draudžiami
 
-mėnesių darbo užmokesčių dydžio.
+Lietuvos Respublikos valstybinio socialinio draudimo įstatyme nustatyta tvarka.
 
-Pareigūno žuvimo arba sužeidimo dėl
+Straipsnio pakeitimai:
 
-priežasčių, susijusių su tarnyba, atveju kompensacijos dydis apskaičiuojamas
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 
-pagal įvykio metu gautą jo darbo užmokestį.
+64-2328 (2001-07-25)
 
-72. Pareigūnai valstybės lėšomis
+73.
 
-apdraudžiami nuo nelaimingų atsitikimų einant tarnybines pareigas.
+Pareigūnams ir jų šeimos nariams atlyginamos perkėlimo tarnauti į kitą vietovę
 
-73. Pareigūnams ir jų šeimos nariams
+išlaidos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
-atlyginamos perkėlimo tarnauti į kitą vietovę išlaidos Lietuvos Respublikos
+74.
 
-Vyriausybės nustatyta tvarka.
+Pareigūnams, iki jiems bus suteiktas tarnybinis butas ar kitos gyvenamosios patalpos,
 
-74. Pareigūnams, iki jiems bus suteiktas
+Lietuvos Respublikos Vyriausybės nustatyta tvarka kompensuojamos buto nuomos
 
-tarnybinis butas ar kitos gyvenamosios patalpos, Lietuvos Respublikos
+išlaidos.
 
-Vyriausybės nustatyta tvarka kompensuojamos buto nuomos išlaidos.
+75.
 
-75. Pareigūnams kompensuojamos tarnybinių
+Pareigūnams kompensuojamos tarnybinių kelionių išlaidos visų rūšių transportu,
 
-kelionių išlaidos visų rūšių transportu, išskyrus taksi.
+išskyrus taksi.
 
-76. Materialinė žala, kurią patyrė
+76.
 
-pareigūnai dėl priežasčių, susijusių su tarnyba, atlyginama remiantis
+Materialinė žala, kurią patyrė pareigūnai dėl priežasčių, susijusių su tarnyba,
 
-tarnybinio tyrimo išvada.
+atlyginama remiantis tarnybinio tyrimo išvada.
 
-77. Prokuratūros pareigūnams taikomos
+77.
 
-visos valstybės pareigūnų garantijos.
+Prokuratūros pareigūnams taikomos visos valstybės pareigūnų garantijos.
 
 ASMENS APSAUGOS PRIEMONIŲ IŠDAVIMO,
 
 SAUGOJIMO, NEŠIOJIMO IR PANAUDOJIMO TVARKA
 
-78. Pareigūnams nustatyta tvarka
+78.
 
-išduodamos asmens apsaugos priemonės.
+Pareigūnams nustatyta tvarka išduodamos asmens apsaugos priemonės.
 
-79. Šaunamasis ginklas, šoviniai ar
+79.
 
-specialiosios priemonės darbuotojams išduodamos tik esant padalinio, kuriame
+Šaunamasis ginklas, šoviniai ar specialiosios priemonės darbuotojams išduodamos
 
-dirba šis darbuotojas, vadovo ar jį pavaduojančio pareigūno, o apygardų ir
+tik esant padalinio, kuriame dirba šis darbuotojas, vadovo ar jį pavaduojančio
 
-apylinkių prokuratūrose - taip pat šių prokuratūrų vyriausiųjų prokurorų ar
+pareigūno, o apygardų ir apylinkių prokuratūrose - taip pat šių prokuratūrų
 
-juos pavaduojančių pareigūnų rašytinėms rekomendacijoms.
+vyriausiųjų prokurorų ar juos pavaduojančių pareigūnų rašytinėms
 
-80. Prokuratūros darbuotojai, prieš jiems
+rekomendacijoms.
 
-išduodant šaunamuosius ginklus, šovinius ir specialiąsias priemones, apmokomi
+80.
 
-jais naudotis.
+Prokuratūros darbuotojai, prieš jiems išduodant šaunamuosius ginklus, šovinius
 
-Apmokymo rezultatai fiksuojami specialiame
+ir specialiąsias priemones, apmokomi jais naudotis.
 
-žurnale.
+Apmokymo
 
-81. Šaunamojo ginklo, šovinių ir
+rezultatai fiksuojami specialiame žurnale.
 
-specialiųjų priemonių laikymo ir nešiojimo pagrindas - generalinio prokuroro
+81.
 
-išduotas leidimas.
+Šaunamojo ginklo, šovinių ir specialiųjų priemonių laikymo ir nešiojimo
 
-82. Šaunamuosius ginklus ir specialiąsias
+pagrindas - generalinio prokuroro išduotas leidimas.
 
-priemones draudžiama nešioti neblaiviam pareigūnui, taip pat draudžiama juos
+82.
 
-palikti namuose ar kitose nepritaikytose saugoti patalpose, perduoti kitiems
+Šaunamuosius ginklus ir specialiąsias priemones draudžiama nešioti neblaiviam
 
-asmenims, keisti jų konstrukciją.
+pareigūnui, taip pat draudžiama juos palikti namuose ar kitose nepritaikytose
 
-83. Kai šaunamieji ginklai ir
+saugoti patalpose, perduoti kitiems asmenims, keisti jų konstrukciją.
 
-specialiosios priemonės nesinešiojamos, laikomos darbovietėse užantspauduotuose
+83.
 
-seifuose su patikimais užraktais arba specialiai saugojimui pritaikytose
+Kai šaunamieji ginklai ir specialiosios priemonės nesinešiojamos, laikomos
 
-patalpose, kurias saugo ginkluotas darbuotojas arba yra įrengta signalizacija.
+darbovietėse užantspauduotuose seifuose su patikimais užraktais arba specialiai
 
-84. Prokuratūros darbuotojus atleidžiant
+saugojimui pritaikytose patalpose, kurias saugo ginkluotas darbuotojas arba yra
 
-iš tarnybos prokuratūroje šaunamieji ginklai, šoviniai ir specialiosios
+įrengta signalizacija.
 
-priemonės yra paimami.
+84.
 
-85. Prokuratūros darbuotojai turi teisę
+Prokuratūros darbuotojus atleidžiant iš tarnybos prokuratūroje šaunamieji
 
-panaudoti šaunamąjį ginklą ir specialiąsias priemones po perspėjimo balsu, o
+ginklai, šoviniai ir specialiosios priemonės yra paimami.
 
-šaunamąjį ginklą dar ir po įspėjamojo šūvio į viršų, jei tai padaryti leidžia
+85.
 
-aplinkybės, šiais atvejais:
+Prokuratūros darbuotojai turi teisę panaudoti šaunamąjį ginklą ir specialiąsias
 
-1) atremiant užpuolimą, gresiantį
+priemones po perspėjimo balsu, o šaunamąjį ginklą dar ir po įspėjamojo šūvio į
 
-darbuotojo sveikatai ar gyvybei;
+viršų, jei tai padaryti leidžia aplinkybės, šiais atvejais:
 
-2) atremiant užpuolimą, kuriuo norima
+1)
 
-atimti šaunamąjį ginklą;
+atremiant užpuolimą, gresiantį darbuotojo sveikatai ar gyvybei;
 
-3) atremiant užpuolimą, kuriuo norima
+2)
 
-atimti baudžiamąją bylą, kitus su tarnyba susijusius dokumentus ar daiktinius
+atremiant užpuolimą, kuriuo norima atimti šaunamąjį ginklą;
 
-įrodymus;
+3)
 
-4) stengiantis apginti prokuratūros ar
+atremiant užpuolimą, kuriuo norima atimti baudžiamąją bylą, kitus su tarnyba
 
-darbuotojo nuosavybę, būstą;
+susijusius dokumentus ar daiktinius įrodymus;
 
-5) stengiantis sulaikyti asmenį, užkluptą
+4)
 
-darant sunkų nusikaltimą, jeigu kitaip jo neįmanoma sulaikyti;
+stengiantis apginti prokuratūros ar darbuotojo nuosavybę, būstą;
 
-6) stengiantis sulaikyti asmenį, įtariamą
+5)
 
-padarius nusikaltimą, jeigu jis priešinasi pavojingu žmogaus gyvybei ar
+stengiantis sulaikyti asmenį, užkluptą darant sunkų nusikaltimą, jeigu kitaip
 
-sveikatai būdu;
+jo neįmanoma sulaikyti;
 
-7) stengiantis apginti kitus asmenis nuo
+6)
 
-užpuolimo, gresiančio jų sveikatai ar gyvybei;
+stengiantis sulaikyti asmenį, įtariamą padarius nusikaltimą, jeigu jis
 
-8) prieš gyvūną, keliantį pavojų žmonių
+priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu;
 
-sveikatai ar gyvybei.
+7)
 
-86. Šaunamieji ginklai ir specialiosios
+stengiantis apginti kitus asmenis nuo užpuolimo, gresiančio jų sveikatai ar
 
-priemonės naudojamos, kai visi kiti galimi būdai ir priemonės jau panaudotos
+gyvybei;
 
-arba kai dėl laiko stygiaus ar užpuolimo pobūdžio jų panaudoti nebuvo
+8)
 
-galimybės.
+prieš gyvūną, keliantį pavojų žmonių sveikatai ar gyvybei.
 
-Naudojant šaunamąjį ginklą ir
+86.
 
-specialiąsias priemones, būtina atsižvelgti į užpuolimo pobūdį, užpuoliko
+Šaunamieji ginklai ir specialiosios priemonės naudojamos, kai visi kiti galimi
 
-asmenį ir konkrečias aplinkybes.
+būdai ir priemonės jau panaudotos arba kai dėl laiko stygiaus ar užpuolimo
 
-Naudodami šaunamąjį ginklą ir
+pobūdžio jų panaudoti nebuvo galimybės.
 
-specialiąsias priemones, prokuratūros darbuotojai privalo stengtis išvengti
+Naudojant
 
-sunkių pasekmių.
+šaunamąjį ginklą ir specialiąsias priemones, būtina atsižvelgti į užpuolimo
 
-87. Asmeniui, nukentėjusiam nuo šaunamojo
+pobūdį, užpuoliko asmenį ir konkrečias aplinkybes.
 
-ginklo ar specialiųjų priemonių, turi būti suteikta medicinos pagalba.
+Naudodami
 
-88. Draudžiama naudoti šaunamąjį ginklą ir
+šaunamąjį ginklą ir specialiąsias priemones, prokuratūros darbuotojai privalo
 
-specialiąsias priemones žmonių susibūrimo vietose, jeigu nuo to gali nukentėti
+stengtis išvengti sunkių pasekmių.
 
-pašaliniai asmenys, taip pat prieš asmenis, turinčius su savimi mažamečių
+87.
 
-vaikų, prieš moteris ir nepilnamečius, invalidus su aiškiais invalidumo
+Asmeniui, nukentėjusiam nuo šaunamojo ginklo ar specialiųjų priemonių, turi
 
-požymiais, išskyrus atvejus, kai jie patys užpuola arba priešinasi ginklu.
+būti suteikta medicinos pagalba.
 
-89. Apie šaunamojo ginklo ir specialiųjų
+88.
 
-priemonių panaudojimą nedelsiant raštu turi būti pranešta generaliniam
+Draudžiama naudoti šaunamąjį ginklą ir specialiąsias priemones žmonių
 
-prokurorui.
+susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, taip pat
 
-90. Prokuratūros darbuotojai, neteisėtai
+prieš asmenis, turinčius su savimi mažamečių vaikų, prieš moteris ir
 
-panaudoję arba praradę šaunamąjį ginklą ar specialiąsias priemones, atsako
+nepilnamečius, invalidus su aiškiais invalidumo požymiais, išskyrus atvejus,
 
-įstatymų nustatyta tvarka.
+kai jie patys užpuola arba priešinasi ginklu.
 
-91. Jeigu pareigūnas pažeidžia šaunamojo
+89.
 
-ginklo ar specialiųjų priemonių laikymo, nešiojimo bei panaudojimo tvarką,
+Apie šaunamojo ginklo ir specialiųjų priemonių panaudojimą nedelsiant raštu
 
-šaunamasis ginklas ir specialiosios priemonės iš jo paimamos.
+turi būti pranešta generaliniam prokurorui.
 
-Paimtas šaunamasis ginklas ar
+90.
 
-specialiosios priemonės prokuratūros darbuotojui gali būti grąžintos po
+Prokuratūros darbuotojai, neteisėtai panaudoję arba praradę šaunamąjį ginklą ar
 
-vienerių metų, jeigu pareigūnas nepriekaištingai elgiasi tarnyboje ir buityje
+specialiąsias priemones, atsako įstatymų nustatyta tvarka.
 
-bei yra 79 straipsnyje nurodytų pareigūnų rašytinės rekomendacijos.
+91.
+
+Jeigu pareigūnas pažeidžia šaunamojo ginklo ar specialiųjų priemonių laikymo,
+
+nešiojimo bei panaudojimo tvarką, šaunamasis ginklas ir specialiosios priemonės
+
+iš jo paimamos.
+
+Paimtas
+
+šaunamasis ginklas ar specialiosios priemonės prokuratūros darbuotojui gali
+
+būti grąžintos po vienerių metų, jeigu pareigūnas nepriekaištingai elgiasi
+
+tarnyboje ir buityje bei yra 79 straipsnyje nurodytų pareigūnų rašytinės
+
+rekomendacijos.
 
 APRANGOS SU SKIRIAMAISIAIS ŽENKLAIS
 
 IŠDAVIMO IR DĖVĖJIMO TVARKA
 
-92. Nustatyto pavyzdžio apranga su
+92.
 
-skiriamaisiais ženklais išduodama visiems turintiems laipsnius prokuratūros
+Nustatyto pavyzdžio apranga su skiriamaisiais ženklais išduodama visiems
 
-pareigūnams nemokamai (iš valstybės biudžeto tam skiriamų lėšų). Apranga
+turintiems laipsnius prokuratūros pareigūnams nemokamai (iš valstybės biudžeto
 
-išduodama pagal nustatytas normas kiekvienais metais ne vėliau kaip per 2
+tam skiriamų lėšų). Apranga išduodama pagal nustatytas normas kiekvienais
 
-mėnesius nuo tos dienos, kai Lietuvos Respublikos Seimas patvirtino valstybės
+metais ne vėliau kaip per 2 mėnesius nuo tos dienos, kai Lietuvos Respublikos
 
-biudžetą.
+Seimas patvirtino valstybės biudžetą.
 
-93. Naujai priimtiems pareigūnams apranga
+93.
 
-išduodama per 2 mėnesius nuo laipsnio suteikimo dienos.
+Naujai priimtiems pareigūnams apranga išduodama per 2 mėnesius nuo laipsnio
 
-94. Jeigu nėra galimybės išduoti aprangą
+suteikimo dienos.
 
-per šio statuto 92 ir 93 straipsniuose nustatytus terminus dėl aprangai
+94.
 
-reikalingų medžiagų įsigijimo sunkumų, gali būti išmokama aprangos vertės
+Jeigu nėra galimybės išduoti aprangą per šio statuto 92 ir 93 straipsniuose
 
-piniginė kompensacija.
+nustatytus terminus dėl aprangai reikalingų medžiagų įsigijimo sunkumų, gali
 
-95. Atleidžiant pareigūną iš tarnybos
+būti išmokama aprangos vertės piniginė kompensacija.
 
-prokuratūroje, aprangos išlaidos išieškomos proporcingai neištarnautam laikui.
+95.
 
-Skiriamuosius ženklus atleidžiamasis pareigūnas turi grąžinti.
+Atleidžiant pareigūną iš tarnybos prokuratūroje, aprangos išlaidos išieškomos
 
-96. Pareigūnų apranga siuvama centralizuotai
+proporcingai neištarnautam laikui. Skiriamuosius ženklus atleidžiamasis
 
-pagal patvirtintus eskizus ir modelius.
+pareigūnas turi grąžinti.
 
-Išimtiniais atvejais pasisiūti aprangą
+96.
 
-leidžiama individualiai, o pasiuvimo išlaidos atlyginamos.
+Pareigūnų apranga siuvama centralizuotai pagal patvirtintus eskizus ir modelius.
 
-97. Prokurorai teismo procesuose privalo
+Išimtiniais
 
-vilkėti mantiją su ženklu - Lietuvos valstybės herbo atvaizdu.
+atvejais pasisiūti aprangą leidžiama individualiai, o pasiuvimo išlaidos
 
-Privalomo aprangos su skiriamaisiais
+atlyginamos.
 
-ženklais dėvėjimo kitus atvejus prokuratūros pareigūnams nustato generalinis
+97.
 
-prokuroras.
+Prokurorai teismo procesuose privalo vilkėti mantiją su ženklu - Lietuvos
+
+valstybės herbo atvaizdu.
+
+Privalomo
+
+aprangos su skiriamaisiais ženklais dėvėjimo kitus atvejus prokuratūros
+
+pareigūnams nustato generalinis prokuroras.
 
 Tarnybos
 
@@ -1309,7 +1509,9 @@ už laipsnius
 
 ________________________________________________________________________________
 
-Pareigūno laipsnis                                                                                Priedo
+Pareigūno
+
+laipsnis                                                                                Priedo
 
 dydis
 
@@ -1317,21 +1519,37 @@ dydis
 
 ________________________________________________________________________________
 
-Trečiojo rango teisininkas                                                                    2,0
+Trečiojo
 
-Antrojo rango teisininkas                                                                     2,25
+rango teisininkas                                                                    2,0
 
-Pirmojo rango teisininkas                                                                     2,5
+Antrojo
 
-Vyresnysis teisininkas                                                                         2,75
+rango teisininkas                                                                     2,25
 
-Justicijos patarėjas                                                                               3,0
+Pirmojo
 
-Vyresnysis justicijos patarėjas                                                             3,25
+rango teisininkas                                                                     2,5
 
-Valstybinis justicijos patarėjas                                                             3,5
+Vyresnysis
 
-Vyriausiasis valstybinis justicijos patarėjas                                          3,75
+teisininkas                                                                         2,75
+
+Justicijos
+
+patarėjas                                                                               3,0
+
+Vyresnysis
+
+justicijos patarėjas                                                             3,25
+
+Valstybinis
+
+justicijos patarėjas                                                             3,5
+
+Vyriausiasis
+
+valstybinis justicijos patarėjas                                          3,75
 
 Tarnybos
 
@@ -1349,7 +1567,9 @@ Priedai prokuratūros pareigūnams už ištarnautą laiką
 
 ______________________________________________________________________________
 
-Ištarnauti prokuratūroje                                                                       Priedo
+Ištarnauti
+
+prokuratūroje                                                                       Priedo
 
 dydis
 
@@ -1359,29 +1579,41 @@ algos proc.)
 
 ______________________________________________________________________________
 
-Nuo 1 iki 3 metų
+Nuo
+
+1 iki 3 metų
 
 5
 
-Nuo 3 iki 5 metų
+Nuo
+
+3 iki 5 metų
 
 10
 
-Nuo 5 iki 10 metų
+Nuo
+
+5 iki 10 metų
 
 20
 
-Nuo 10 iki 15 metų
+Nuo
+
+10 iki 15 metų
 
 25
 
-Nuo 15 iki 20 metų
+Nuo
+
+15 iki 20 metų
 
 30
 
-Už kiekvienus tarnybos metus, ištarnautus
+Už
 
-po 20 metų, procentinis priedas didinamas
+kiekvienus tarnybos metus, ištarnautus po 20 metų, procentinis priedas
+
+didinamas
 
 7 procentais, tačiau jo bendra suma negali būti didesnė kaip 100 procentų.
 
@@ -1397,13 +1629,33 @@ Nr. IX-268, 2001 04 19, Žin., 2001, Nr.
 
 39-1339 (2001 05 09)
 
-TARNYBOS LIETUVOS
+TARNYBOS LIETUVOS RESPUBLIKOS
 
-RESPUBLIKOS PROKURATŪROJE STATUTO PAPILDYMO 69(1) STRAIPSNIU ĮSTATYMAS
+PROKURATŪROJE STATUTO PAPILDYMO
+
+69(1) STRAIPSNIU ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+
+64-2328 (2001-07-25)
+
+VALSTYBĖS KONTROLĖS ĮSTATYMO,
+
+TEISMŲ ĮSTATYMO, KONSTITUCINIO TEISMO ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO,
+
+SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS
+
+RESPUBLIKOS PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO,
+
+VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2001 05 16)
+Redagavo: Angonita Rupšytė (2001-07-25)
 
-autrap@lrs.lt
+anrups@lrs.lt
 
