@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "1999-07-28"
+last_updated: "2001-11-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 1999-07-28 iki 2001-11-27
+Suvestinė redakcija nuo 2001-11-28 iki 2002-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -50,7 +50,11 @@ BENDROJI DALIS
 
 7) branduolinių ir radioaktyviųjų medžiagų, naudojamų branduolinėje energetikoje, transportavimo ir sandėliavimo pagrindines sąlygas;
 
-8) branduolinės energetikos objektų fizinės saugos pagrindinius reikalavimus;
+8) branduolinės energetikos objektų ir branduolinių medžiagų fizinės saugos pagrindinius reikalavimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
 
 9) branduolinių ir radiacinių avarijų prevencijos bei likvidavimo tvarkos pagrindinius reikalavimus;
 
@@ -59,6 +63,12 @@ BENDROJI DALIS
 11) ekonomines ir finansines branduolinės energetikos veiklos pagrindines sąlygas;
 
 12) darbo santykių ypatumus branduolinėje energetikoje.
+
+3. Šio įstatymo devintojo skirsnio nuostatos taikomos ir kitose veiklos su branduolinėmis medžiagomis srityse.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
 
 2 straipsnis. Pagrindinės įstatyme vartojamos sąvokos
 
@@ -78,7 +88,11 @@ BENDROJI DALIS
 
 8. Branduolinės energetikos objektą eksploatuojanti organizacija – ūkio subjektas, turintis licenciją bei materialinių ir finansinių išteklių eksploatuoti branduolinės energetikos objektą ir atsakingas už jo saugos būklę.
 
-9. Branduolinės energetikos objekto fizinė sauga – visuma organizacinių, teisinių ir techninių priemonių, kurių tikslas yra apsaugoti branduolinius įrenginius ir branduolines bei radioaktyviąsias medžiagas nuo neteisėto jų užvaldymo ar pagrobimo ir nuo nesankcionuoto pašalinių asmenų patekimo į branduolinio objekto teritoriją.
+9. Branduolinės energetikos objekto fizinė sauga – visuma organizacinių, teisinių, techninių ir specialiųjų priemonių, kurių tikslas yra apsaugoti branduolinius įrenginius ir branduolines bei radioaktyviąsias medžiagas nuo neteisėto jų užvaldymo ar pagrobimo ir nuo nesankcionuoto pašalinių asmenų patekimo į branduolinio objekto teritoriją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
 
 10. Branduolinės energetikos objekto rekonstrukcija – esminis objekto inžinerinis pertvarkymas (išplėtimas, laikančiųjų konstrukcijų pakeitimas, naujų technologijų taikymas ar naujo tipo reaktoriaus montavimas ir kt.), kuris gali turėti įtakos objekto branduolinei saugai.
 
@@ -123,6 +137,12 @@ BENDROJI DALIS
 30. Sanitarinė apsaugos zona – tam tikra teritorija arba radioaktyviojo užteršimo vieta, kurioje apšvitinimo lygis branduolinės energetikos objekto normalaus eksploatavimo sąlygomis gali viršyti leistinas normas.
 
 31. Stebėjimo zona – tam tikra teritorija, kurioje, neviršijant leistinų normų, galimas branduolinės energetikos objekto poveikis aplinkai dėl radioaktyviųjų medžiagų nuotekų ar emisijos.
+
+32. Projektinė grėsmė – galimų vidaus ir (ar) išorės pažeidėjų, kurie galėtų mėginti neteisėtai užvaldyti branduolinės energetikos objektą ir (ar) branduolines medžiagas arba įvykdyti diversiją, charakteristikų ir ketinimų visuma. Užkirsti kelią šiems veiksmams yra projektuojama fizinės saugos sistema.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
 
 3 straipsnis. Veiklos branduolinėje energetikoje teisiniai principai
 
@@ -776,33 +796,57 @@ Radioaktyviosios atliekos gali būti laidojamos Lietuvos teritorijoje tik Lietuv
 
 DEVINTASIS SKIRSNIS
 
-BRANDUOLINĖS ENERGETIKOS OBJEKTŲ FIZINĖ SAUGA
+BRANDUOLINĖS ENERGETIKOS OBJEKTŲ IR BRANDUOLINIŲ MEDŽIAGŲ FIZINĖ SAUGA
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
 
 48 straipsnis. Fizinės saugos tikslai
 
-Branduolinės energetikos objektų, branduolinių ir radioaktyviųjų medžiagų fizinės saugos tikslai:
+Branduolinės energetikos objektų ir branduolinių medžiagų fizinė sauga yra branduolinės saugos užtikrinimo dalis. Fizinės saugos tikslai:
 
-1) apsaugoti branduolinės energetikos objektą arba branduolines medžiagas nuo visokių tyčinių veiksmų, kurie tiesiogiai arba netiesiogiai sukeltų pavojų žmonių sveikatai ir saugumui dėl radioaktyvaus spinduliavimo, išvengti branduolinės energetikos objektų normalios veiklos sutrikdymo;
+1) apsaugoti branduolinės energetikos objektą arba branduolines medžiagas nuo veiksmų, kurie tiesiogiai arba netiesiogiai sukeltų pavojų žmonių sveikatai ir saugumui dėl radioaktyvaus spinduliavimo, išvengti branduolinės energetikos objektų normalios veiklos sutrikdymo;
 
-2) užkirsti kelią branduolinių įrenginių ir branduolinių ar radioaktyviųjų medžiagų užvaldymui ar pagrobimui;
+2) užkirsti kelią branduolinių įrenginių ir branduolinių ar radioaktyviųjų medžiagų užvaldymui ar pagrobimui.
 
-3) atlikti veiksmus, numatytus atominės elektrinės ir kitų branduolinės energetikos objektų antiteroristinės bei antiintervencinės apsaugos tarpžinybinės sąveikos planuose.
+Straipsnio pakeitimai:
+
+Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
 
 49 straipsnis. Branduolinės energetikos objekto apsaugos zonos
 
-1. Branduolinės energetikos objektų, branduolinių ir radioaktyviųjų medžiagų fizinės saugos tikslams įgyvendinti Lietuvos Respublikos Vyriausybė nustato branduolinės energetikos objektų teritorijos apsaugos zonas. Šiose zonose, atsižvelgiant į atstumą iki šių objektų ir objektų svarbą, nustatomi specialūs apribojimai bei reikalavimai, įrengiama speciali, šiuos apribojimus ir reikalavimus užtikrinanti technika ir atsakingiems pareigūnams suteikiami atitinkami įgaliojimai.
+Branduolinės energetikos objektų fizinės saugos tikslams įgyvendinti Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija nustato branduolinės energetikos objektų teritorijos apsaugos zonas ir apsaugos sąlygas. Šiose zonose nustatomi specialūs apribojimai bei reikalavimai, įrengiama speciali šiuos apribojimus ir reikalavimus užtikrinanti technika ir skiriami atsakingi pareigūnai.
 
-2. Atominės elektrinės fizinei saugai užtikrinti nustatomos penkios apsaugos zonos: 1) riboto patekimo zonos; 2) izoliuojančioji zona; 3) saugoma zona; 4) vidinė zona; 5) ypač svarbi zona. Šių zonų ribas ir apsaugos sąlygas nustato Lietuvos Respublikos Vyriausybė.
+Straipsnio pakeitimai:
+
+Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
 
 50 straipsnis. Organizaciniai ir teisiniai fizinės saugos pagrindai
 
-1. Branduolinės energetikos objektą eksploatuojanti organizacija kartu su Vidaus reikalų ministerija, vadovaudamosi Lietuvos Respublikos įstatymais bei kitais norminiais dokumentais, organizuoja bei užtikrina jai priklausančio branduolinės energetikos objekto ir branduolinių bei radioaktyviųjų medžiagų fizinę saugą.
+1. Naudojant, saugant bei gabenant branduolines medžiagas, turi būti taikomos šių medžiagų kategoriją atitinkančios fizinės saugos priemonės, taip pat turi būti užtikrinta visų branduolinės energetikos objektų fizinė sauga.
 
-2. Branduolinės energetikos objektų ir branduolinių bei radioaktyviųjų medžiagų fizinės saugos reikalavimų įgyvendinimo tvarką kontroliuoja Valstybinė atominės energetikos saugos inspekcija.
+2. Branduolinės energetikos objektą eksploatuojanti organizacija kartu su Vidaus reikalų ministerija ir kitos branduolinėmis medžiagomis teisėtai disponuojančios įmonės, vadovaudamosi Lietuvos Respublikos įstatymais bei kitais norminiais aktais ir atsižvelgdamos į nustatytą projektinę grėsmę, organizuoja ir užtikrina branduolinės energetikos objekto ir branduolinių medžiagų fizinę saugą.
 
-51 straipsnis. Objekto fizinės saugos prevencija
+3. Branduolinių medžiagų kategorijas bei branduolinės energetikos objektų ir branduolinių medžiagų fizinės saugos bendruosius reikalavimus nustato ir jų įgyvendinimą kontroliuoja VATESI.
 
-1. Kad būtų garantuota branduolinės energetikos objekto fizinė sauga, draudžiama be eksploatuojančios organizacijos leidimo įeiti į šio objekto teritoriją pašaliniams asmenims (išskyrus TATENA bei VATESI inspektorius (specialistus), turinčius įgaliojimus dirbti arba lankytis branduolinės energetikos objektuose), fotografuoti bei filmuoti ten esančius įrenginius ir įrengimus. Be leidimo į objekto teritoriją patekusiems asmenims taikomos įstatymų nustatytos poveikio priemonės.
+4. Branduolinės energetikos objektų projektinę grėsmę nustato ir ne rečiau kaip kartą per metus peržiūri Lietuvos Respublikos valstybės saugumo departamentas, dalyvaujant Krašto apsaugos ministerijai, Vidaus reikalų ministerijai, VATESI ir branduolinės energetikos objektą eksploatuojančiai organizacijai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
+
+51 straipsnis. Prevencinės priemonės branduolinės energetikos objekto fizinei saugai užtikrinti
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
+
+1. Kad būtų garantuota branduolinės energetikos objekto fizinė sauga, draudžiama asmenims ir transporto priemonėms be eksploatuojančios organizacijos išduoto galiojančio leidimo patekti į šio objekto saugomą teritoriją, atgabenti ir išgabenti krovinius, fotografuoti bei filmuoti ten esančius įrenginius ir įrengimus. Be leidimo į objekto teritoriją patekusiems asmenims taikomos įstatymų nustatytos poveikio priemonės. Eksploatuojanti organizacija užtikrina, kad TATENA inspektorius Lietuvai ir VATESI bei kitų valstybės kontrolę ir priežiūrą atliekančių organizacijų darbuotojai, turintys įgaliojimus lankytis šiame branduolinės energetikos objekte, laiku patektų į saugomą šio objekto teritoriją, taip pat sudaro jiems tinkamas sąlygas pareigoms atlikti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
 
 2. Transporto priemonės ir asmenys (įskaitant ir įmonės darbuotojus), esantys objekto teritorijoje ar sanitarinėje apsaugos zonoje, Lietuvos Respublikos Vyriausybės nustatyta tvarka gali būti apžiūrimi bei tikrinami, ar neturi ginklų, šaudmenų, radioaktyviųjų medžiagų ir kitų daiktų, kuriuos būtų galima panaudoti kenkimo, diversijos, teroro ar kitiems nusikalstamiems tikslams.
 
@@ -1049,4 +1093,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
 
 Lietuvos Respublikos branduolinės energijos įstatymo 14, 16, 19, 26, 30, 31, 32, 33, 35, 37, 38, 44, 68 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
+
+Lietuvos Respublikos branduolinės energijos įstatymo 1, 2, 48, 49, 50, 51 straipsnių pakeitimo bei papildymo ir devintojo skirsnio pavadinimo pakeitimo įstatymas
 
