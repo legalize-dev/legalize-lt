@@ -4,7 +4,7 @@ identifier: "TAR.A92572CC7F9E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-01-28"
-last_updated: "1993-02-05"
+last_updated: "2002-11-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A92572CC7F9E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos baudžiamojo, Baudžiamojo proceso ir Administracinių teisės pažeidimų kodeksų pakeitimo ir papildymo
+
+Suvestinė redakcija nuo 2002-11-22 iki 2003-04-30
+
+Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 22-0; Žin. 1993, Nr.5-90, i. k. 0931010ISTA0000I-57
 
 LIETUVOS RESPUBLIKOS
 
@@ -211,4 +215,14 @@ Prekybos ir viešojo maitinimo įmonių darbuotojų padarytas kitų prekybos alk
 LAIKINAI EINANTIS
 
 RESPUBLIKOS PREZIDENTO PAREIGAS                               ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1162, 2002-10-29, Žin., 2002, Nr. 112-4970 (2002-11-22), i. k. 1021010ISTA0IX-1162
+
+Lietuvos Respublikos baudžiamojo kodekso, patvirtinto 2000 m. rugsėjo 26 d. įstatymu Nr. VIII-1968, Baudžiamojo proceso kodekso, patvirtinto 2002 m. kovo 14 d. įstatymu Nr. IX-785, ir Bausmių vykdymo kodekso, patvirtinto 2002 m. birželio 27 d. įstatymu Nr. IX-994, įsigaliojimo ir įgyvendinimo tvarkos įstatymas
 
