@@ -4,7 +4,7 @@ identifier: "TAR.6E0FCC1A8975"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2000-10-01"
+last_updated: "2000-10-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6E0FCC1A8975"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 3, 4, 7, 10, 13, 15, 16, 17, 18, 19, 24, 26, 27, 40, 41, 42, 47 straipsnių pakeitimo ir kodekso papildymo 4-1 straipsniu įstatymas
+
+Suvestinė redakcija nuo 2000-10-11
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 75-2267, i. k. 1001010ISTAIII-1900
 
 LIETUVOS RESPUBLIKOS
 
