@@ -4,7 +4,7 @@ identifier: "TAR.11A8B08A7405"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-01-18"
-last_updated: "2001-07-18"
+last_updated: "2004-03-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2001-07-18 iki 2004-03-29
+Suvestinė redakcija nuo 2004-03-30 iki 2006-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
 
@@ -270,7 +270,11 @@ Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA
 
 7. Asmenims, paleidžiamiems iš kardomojo kalinimo vietos, kelionės į gyvenamąją arba darbo vietą išlaidas apmoka, aprūpina juos maisto produktais arba pinigais kelionei, taip pat skiria vienkartinę iki minimalaus gyvenimo lygio dydžio piniginę pašalpą kardomojo kalinimo vietos administracija Vyriausybės nustatyta tvarka.
 
-8. Kalinamųjų mitybos ir materialinio buitinio aprūpinimo normas nustato Vyriausybė.
+8. Kalinamųjų mitybos ir materialinio buitinio aprūpinimo normas nustato Vyriausybė arba jos įgaliota institucija
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2058, 2004-03-16, Žin., 2004, Nr. 47-1549 (2004-03-30), i. k. 1041010ISTA0IX-2058
 
 19 straipsnis. Kalinamųjų medicinos aptarnavimas
 
@@ -685,4 +689,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA00IX-431
 
 Lietuvos Respublikos kardomojo kalinimo įstatymo 10, 15, 18 straipsnių bei 1 priedėlio pakeitimo ir papildymo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2058, 2004-03-16, Žin., 2004, Nr. 47-1549 (2004-03-30), i. k. 1041010ISTA0IX-2058
+
+Lietuvos Respublikos kardomojo kalinimo įstatymo 18 straipsnio pakeitimo įstatymas
 
