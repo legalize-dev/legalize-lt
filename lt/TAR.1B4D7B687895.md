@@ -4,7 +4,7 @@ identifier: "TAR.1B4D7B687895"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-01"
-last_updated: "2004-03-23"
+last_updated: "2004-04-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895"
 department: "Lietuvos Respublikos Seimas"
@@ -5702,7 +5702,9 @@ buhalterinius ir kitus dokumentus;
 
 (tikrinti) Lietuvos banko išduotą licenciją turinčias kredito įstaigas, o
 
-įstatymų nustatytais atvejais - ir kitus asmenis;
+įstatymų nustatytais atvejais - ir
+
+kitus asmenis;
 
 1 dalies 3 punkto redakcija iki
 
@@ -6214,6 +6216,10 @@ kitos įgaliotos institucijos sprendimo panaudoti Lietuvos banke finansų
 
 Lietuvos bankui įvykdyti.
 
+3 dalies redakcija iki 2004 m.
+
+gegužės 1 d.:
+
 3. Jeigu
 
 skolininkas sutartyje nustatytu laiku neįvykdo prievolių, kurių įvykdymas buvo
@@ -6228,6 +6234,24 @@ numatytu būdu. Tokią teisę Lietuvos bankas gali įgyvendinti net ir tada, kai
 
 skolininkui iškelta bankroto byla ar draudžiama disponuoti įkeistu turtu.
 
+3 dalies redakcija nuo 2004 m.
+
+gegužės 1 d.:
+
+3.
+
+Jeigu skolininkas sutartyje nustatytu laiku neįvykdo prievolių, kurių įvykdymas
+
+buvo užtikrintas vertybinių popierių ar kito finansinio turto, išskyrus lėšų,
+
+esančių skolininko banko sąskaitoje, įkeitimu, Lietuvos bankas turi teisę
+
+perimti įkeistą turtą ir jį realizuoti teisės aktų nustatyta tvarka. Tokią
+
+teisę Lietuvos bankas gali įgyvendinti net ir tada, kai skolininkui iškelta
+
+bankroto byla ar draudžiama disponuoti įkeistu turtu.
+
 Straipsnio pakeitimai:
 
 Nr.
@@ -6235,6 +6259,10 @@ Nr.
 IX-1598,
 
 2003-06-05, Žin., 2003, Nr. 61-2755 (2003-06-27)
+
+Nr. IX-2131,
+
+2004-04-15, Žin., 2004, Nr. 61-2187 (2004-04-27)
 
 54
 
@@ -6256,13 +6284,13 @@ Lietuvos bankas
 
 turi teisę skirti baudas ir delspinigius finansų įstaigoms už Lietuvos banko nustatytos statistinės informacijos
 
-pateikimo pažeidimus. Baudų ir delspinigių dydį, jų taikymo tvarką ir su tuo susijusios
+pateikimo pažeidimus. Baudų ir delspinigių dydį, jų taikymo tvarką ir su tuo
 
-medžiagos saugojimo terminus nustato Lietuvos bankas, vadovaudamasis tuo, kad
+susijusios medžiagos saugojimo terminus nustato Lietuvos bankas, vadovaudamasis
 
-poveikio priemonės turi būti objektyviai pagrįstos, nediskriminacinės ir
+tuo, kad poveikio priemonės turi būti objektyviai pagrįstos, nediskriminacinės
 
-proporcingos siekiamam tikslui bei pažeidimo pobūdžiui.
+ir proporcingos siekiamam tikslui bei pažeidimo pobūdžiui.
 
 Įstatymas papildytas straipsniu:
 
@@ -6306,9 +6334,9 @@ rinkliavų, išskyrus šio įstatymo 24 straipsnio 1 dalyje numatytą įmoką.
 
 straipsnis. Lietuvos banko 2000 metų pelno paskirstymas
 
-1. Lietuvos banko 2000 metų pelnas
+1. Lietuvos banko 2000 metų
 
-skirstomas šia eile:
+pelnas skirstomas šia eile:
 
 1) 10 procentų –
 
@@ -6560,13 +6588,31 @@ BANKO ĮSTATYMO 8, 11, 42, 43, 45, 46 IR 47 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 
+10.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-2131,
+
+2004-04-15, Žin., 2004, Nr. 61-2187 (2004-04-27)
+
+LIETUVOS BANKO ĮSTATYMO 53
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo 2004
+
+m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-04-22)
+Aušrinė Trapinskienė (2004-04-29)
 
 autrap@lrs.lt
 
