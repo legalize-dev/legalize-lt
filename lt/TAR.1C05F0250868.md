@@ -4,7 +4,7 @@ identifier: "TAR.1C05F0250868"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-12"
-last_updated: "2002-10-08"
+last_updated: "2003-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1C05F0250868"
 department: "Lietuvos Respublikos Seimas"
@@ -206,21 +206,21 @@ negali būti mažesnis už trijų minimalių mėnesinių algų sumą;
 
 2) piniginė
 
-kompensacija už nepanaudotas kasmetines atostogas, bet ne ilgesnes kaip
+kompensacija už nepanaudotas kasmetines atostogas, bet ne ilgesnes kaip Darbo
 
-Atostogų įstatymo nustatytos minimalios trukmės atostogos ir ne daugiau kaip už
+kodekso nustatytos minimalios trukmės atostogos ir ne daugiau kaip už vienerius
 
-vienerius darbo metus, ir ne didesnė kaip Garantinio fondo tarybos teikimu
+darbo metus, ir ne didesnė kaip Garantinio fondo tarybos teikimu nustatyta
 
-nustatyta Vyriausybės;
+Vyriausybės;
 
-3) Darbo sutarties
+3) išeitinė išmoka,
 
-įstatymo 40 straipsnio 1 dalyje nustatyto dydžio išeitinė pašalpa, kai su
+numatyta Darbo kodekso 140 straipsnyje ar Įmonių bankroto įstatymo 19
 
-darbuotoju nutraukiami darbo santykiai. Šios išmokos suma negali viršyti
+straipsnyje. Šios išmokos suma negali viršyti dydžio, kurį Garantinio fondo
 
-dydžio, kurį Garantinio fondo tarybos teikimu nustato Vyriausybė;
+tarybos teikimu nustato Vyriausybė;
 
 4) Žalos atlyginimo
 
@@ -256,9 +256,9 @@ administratoriaus (likvidacinės komisijos pirmininko) arba savivaldybės,
 
 kurioje buvo įregistruota įmonė, likviduota dėl bankroto įsigaliojus šiam
 
-įstatymui, tarybos įgaliotos įstaigos prašymą, bet ne didesnė kaip Garantinio fondo
+įstatymui, tarybos įgaliotos įstaigos prašymą, bet ne didesnė kaip Garantinio
 
-tarybos teikimu nustatyta Vyriausybės.
+fondo tarybos teikimu nustatyta Vyriausybės.
 
 3. Šio straipsnio 1
 
@@ -276,11 +276,11 @@ numatytos šio straipsnio 1 dalies 2 ir 3 punktuose, skaičiuojamos nutraukiant
 
 darbo sutartį.
 
-4. Patvirtinta
+4. Patvirtinta darbuotojų
 
-darbuotojų kreditorinių reikalavimų suma mažinama iš Garantinio fondo sumokėtos
+kreditorinių reikalavimų suma mažinama iš Garantinio fondo sumokėtos išmokos
 
-išmokos suma. Garantinio fondo administratorius į šią sumą įgyja atgręžtinio
+suma. Garantinio fondo administratorius į šią sumą įgyja atgręžtinio
 
 reikalavimo teisę. Jo kreditoriniai reikalavimai tenkinami Įmonių bankroto
 
@@ -314,9 +314,13 @@ Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 
 22-716 (2001 03 14)
 
-Nr. IX-1119,
+Nr. IX-1119, 2002-10-08,
 
-2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
+Žin., 2002, Nr. 102-4544 (2002-10-25)
+
+Nr. IX-1673,
+
+2003-07-01, Žin., 2003, Nr. 73-3350 (2003-07-23)
 
 6 straipsnis.
 
@@ -400,9 +404,9 @@ perdavimo įmonei (savivaldybės įstaigai, juridiniam asmeniui, teikiančiam
 
 bankroto administravimo paslaugas) sutartį.
 
-8. Garantinio
+8. Garantinio fondo
 
-fondo tarybos sprendimai gali būti skundžiami įstatymų nustatyta tvarka.
+tarybos sprendimai gali būti skundžiami įstatymų nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -422,11 +426,11 @@ finansinę veiklą kontroliuoja Valstybės kontrolė.
 
 fondo finansinė atskaitomybė kasmet turi būti tikrinama auditoriaus ar audito
 
-įmonės. Garantinio fondo taryba ne vėliau kaip per 3 mėnesius pasibaigus
+įmonės. Garantinio fondo taryba ne vėliau kaip per 3 mėnesius pasibaigus finansiniams
 
-finansiniams metams skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“
+metams skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“ metinę
 
-metinę finansinę atskaitomybę kartu su auditoriaus išvada.
+finansinę atskaitomybę kartu su auditoriaus išvada.
 
 TREČIASIS
 
@@ -764,13 +768,29 @@ GARANTINIO
 
 FONDO ĮSTATYMO 3, 5, 6, 12, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1673,
+
+2003-07-01, Žin., 2003, Nr. 73-3350 (2003-07-23)
+
+GARANTINIO
+
+FONDO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-10-28)
+Angonita Rupšytė (2003-07-31)
 
-autrap@lrs.lt
+anrups@lrs.lt
 
