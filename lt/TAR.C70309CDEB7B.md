@@ -4,7 +4,7 @@ identifier: "TAR.C70309CDEB7B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-08"
-last_updated: "2000-06-28"
+last_updated: "2000-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2000-06-08"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karo padėties įstatymas
+
+Suvestinė redakcija nuo 2000-11-01 iki 2003-04-30
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
 
 LIETUVOS RESPUBLIKOS
 
@@ -35,7 +39,11 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Ginkluotosios pajėgos – Lietuvos kariuomenė ir karo padėties metu priskirtos kitos ginkluotosios pajėgos: pasienio policija ir kiti specializuoti policijos daliniai, Lietuvos šaulių sąjungos koviniai būriai bei kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotojų pajėgų vadui.
+1. Ginkluotosios pajėgos – Lietuvos kariuomenė ir karo padėties metu priskirtos kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba, specializuoti policijos daliniai, Lietuvos šaulių sąjungos koviniai būriai bei kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-2003, 2000-10-10, Žin., 2000, Nr. 92-2855 (2000-10-31), i. k. 1001010ISTAIII-2003
 
 2. Ginkluotųjų pajėgų vadas – Lietuvos kariuomenės vadas, kurį, įvedus karo padėtį, Respublikos Prezidentas dekretu paskiria visų valstybės ginkluotųjų pajėgų vadu, pavaldžiu gynybos veiksmų civilinei vadovybei.
 
@@ -209,7 +217,11 @@ VALSTYBĖS VALDYMO PERTVARKYMAS
 
 1. Įvedus karo padėtį, valstybės institucijų veikla pertvarkoma siekiant užtikrinti svarbiausių valstybės funkcijų atlikimą. Ministerijoms, kitoms Vyriausybės įstaigoms ir valstybės institucijoms Seimas, Respublikos Prezidentas ar Vyriausybė gali pavesti tokių funkcijų, kurių nėra numatyta jų nuostatuose, bet yra numatytos mobilizaciniuose planuose arba būtinos karo padėties sąlygomis.
 
-2. Pasienio policijos, o prireikus ir kiti specializuoti policijos padaliniai karo padėties metu ginkluotųjų pajėgų vado įsakymu priskiriami ginkluotosioms pajėgoms.
+2. Valstybės sienos apsaugos tarnybos, o prireikus specializuoti policijos padaliniai karo padėties metu ginkluotųjų pajėgų vado įsakymu priskiriami ginkluotosioms pajėgoms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-2003, 2000-10-10, Žin., 2000, Nr. 92-2855 (2000-10-31), i. k. 1001010ISTAIII-2003
 
 3. Policija, išskyrus šio straipsnio 2 dalyje nurodytus atvejus, ginkluotosioms pajėgoms nepriskiriama ir toliau atlieka jai pavestus uždavinius, tačiau yra pavaldi karo komendantams.
 
@@ -356,4 +368,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
 ______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-2003, 2000-10-10, Žin., 2000, Nr. 92-2855 (2000-10-31), i. k. 1001010ISTAIII-2003
+
+Lietuvos Respublikos karo padėties įstatymo 2 ir 21 straipsnių pakeitimo įstatymas
 
