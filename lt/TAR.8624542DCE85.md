@@ -4,7 +4,7 @@ identifier: "TAR.8624542DCE85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-09-25"
-last_updated: "1994-11-08"
+last_updated: "1995-02-02"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8624542DCE85"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -66,6 +66,22 @@ PAKEITIMO
 
 įstatymas įsigalioja nuo 1995 m. sausio 1 dienos.
 
+3.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. I-787, 95.02.02,
+
+Žin., 1995, Nr.18-402 (95.03.01)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS POLITINIŲ PARTIJŲ IR POLITINIŲ ORGANIZACIJŲ ĮSTATYMO
+
+PAPILDYMO
+
 ***
 
 Pabaiga ***
@@ -102,9 +118,9 @@ Respublikos Seimas,  siekdamas garantuoti politinių partijų ir politinių
 
 organizacijų lygiateisiškumą ir užtikrinti, kad jų veikla tarnautų
 
-nepriklausomos demokratinės Lietuvos valstybės stiprinimui bei  visuomenės pažangai,
+nepriklausomos demokratinės Lietuvos valstybės stiprinimui bei  visuomenės
 
-priima ir skelbia šį įstatymą.
+pažangai, priima ir skelbia šį įstatymą.
 
 Preambulės
 
@@ -236,9 +252,9 @@ registravimas
 
 Politines
 
-partijas ir politines organizacijas registruoja  Lietuvos  Respublikos teisingumo
+partijas ir politines organizacijas registruoja  Lietuvos  Respublikos
 
-ministerija.
+teisingumo ministerija.
 
 Lietuvos
 
@@ -252,11 +268,11 @@ pažeisti šio įstatymo 1, 2 ir 3 straipsnio reikalavimai.
 
 Registruojamos
 
-politinės partijos ar ir politinės organizacijos pavadinimas ir simbolika turi
+politinės partijos ar politinės organizacijos pavadinimas ir simbolika turi
 
-skirtis nuo jau registruotų politinių partijų ir politinių organizacijų
+skirtis nuo jau registruotų politinių partijų ir politinių ar visuomeninių
 
-pavadinimų ir simbolikos.
+organizacijų pavadinimų ir simbolikos.
 
 Atsisakius
 
@@ -276,9 +292,9 @@ nurodytus dokumentus.
 
 Jei
 
-politinė partija ar politinė organizacija pakeitė pavadinimą, ji perregistruojama
+politinė partija ar politinė organizacija pakeitė pavadinimą, ji
 
-šio įstatymo nustatyta tvarka.
+perregistruojama šio įstatymo nustatyta tvarka.
 
 Politinė
 
@@ -295,6 +311,10 @@ pakeitimai:
 Nr.
 
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
+
+Nr.
+
+I-787, 95.02.02, Žin., 1995, Nr.18-402 (95.03.01)
 
 5
 
@@ -314,13 +334,13 @@ Teisingumo
 
 ministerija, sužinojusi apie įstatymo pažeidimą, apie tai raštu praneša
 
-politinės partijos ar politinės organizacijos vadovaujantiesiems organams,
+politinės partijos ar politinės organizacijos vadovaujantiesiems organams, nurodydama,
 
-nurodydama, kokie įstatymų reikalavimai pažeisti, ir nustatydama terminą
+kokie įstatymų reikalavimai pažeisti, ir nustatydama terminą pažeidimams
 
-pažeidimams pašalinti. Jei nustatytu terminu pažeidimas nepašalinamas,
+pašalinti. Jei nustatytu terminu pažeidimas nepašalinamas, politinės partijos
 
-politinės partijos ar politinės organizacijos veikla sustabdoma.
+ar politinės organizacijos veikla sustabdoma.
 
 Rinkiminės
 
@@ -440,7 +460,7 @@ Apskundimo  tvarka
 
 Atsisakymas  registruoti   politinę  partiją   ar   politinę organizaciją,
 
-jos   veiklos  sustabdymas   gali  būti  apskųstas Vilniaus  apygardos
+jos   veiklos  sustabdymas   gali  būti  apskųstas Vilniaus  apygardos
 
 teismui,  kuris  skundą  išnagrinėja  per  3
 
@@ -590,11 +610,11 @@ valdžios   ir  valdymo   organai,  valstybinės įmonės, įstaigos  ir
 
 organizacijos neturi teisės kokia nors forma ar būdu  finansuoti politinių
 
-partijų ir  politinių organizacijų bei jų  padalinių, taip  pat politinėms
+partijų ir  politinių organizacijų bei jų  padalinių, taip  pat politinėms  partijoms
 
-partijoms ar  politinėms organizacijoms atstovaujančių  Seimo narių ar
+ar  politinėms organizacijoms atstovaujančių  Seimo narių ar savivaldybių
 
-savivaldybių tarybų narių arba jų grupių.
+tarybų narių arba jų grupių.
 
 Politinės
 
