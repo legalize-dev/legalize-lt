@@ -4,7 +4,7 @@ identifier: "TAR.0475A2E41479"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-23"
-last_updated: "2002-03-01"
+last_updated: "2002-11-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0475A2E41479"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2001-10-23"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas
+
+Suvestinė redakcija nuo 2002-11-22 iki 2004-04-23
+
+Įstatymas paskelbtas: Žin. 2001, Nr. 93-3257, i. k. 1011010ISTA00IX-565
 
 LIETUVOS RESPUBLIKOS
 
@@ -49,7 +53,11 @@ Vilnius
 
 4. Kai supirkimo vietos steigiamos kitų, negu įsteigtas supirkėjas, savivaldybių teritorijose, supirkimo vietų adresas turi būti suderintas su atitinkamomis savivaldybėmis ir įrašomas į licencijas.
 
-5. Supirkimo vietos adresą iš licencijos Vyriausybės nustatyta tvarka išbraukia savivaldybės meras, vadovaudamasis supirkėjo prašymu arba jeigu supirkėjas per vienerius metus toje pačioje supirkimo vietoje 2 kartus pažeidė šio Įstatymo bei kitų teisės aktų, reglamentuojančių skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimą, reikalavimus.
+5. Supirkimo vietos adresą iš licencijos Vyriausybės nustatyta tvarka išbraukia savivaldybės meras, vadovaudamasis supirkėjo prašymu arba jeigu supirkėjas pažeidė šio Įstatymo bei kitų teisės aktų, reglamentuojančių skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimą, reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1184, 2002-11-07, Žin., 2002, Nr. 112-4983 (2002-11-22), i. k. 1021010ISTA0IX-1184
 
 4 straipsnis. Reikalavimai supirkėjui
 
@@ -80,4 +88,14 @@ Vilnius
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1184, 2002-11-07, Žin., 2002, Nr. 112-4983 (2002-11-22), i. k. 1021010ISTA0IX-1184
+
+Lietuvos Respublikos skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo įstatymo 3 straipsnio pakeitimo įstatymas
 
