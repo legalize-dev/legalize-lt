@@ -4,7 +4,7 @@ identifier: "TAR.A52415BA2085"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2002-06-20"
+last_updated: "2003-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085"
 department: "Lietuvos Respublikos Seimas"
@@ -38,7 +38,7 @@ S
 
 1994 m. gruodžio
 
-21 d. Nr.I-720
+21 d. Nr. I-720
 
 Vilnius
 
@@ -242,17 +242,21 @@ Užsienio bankas Lietuvos
 
 Respublikoje gali:
 
+1 dalies 1 punkto
+
+redakcija iki Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
+
 1) vienas ar kartu su kitais
 
 bankais steigti dukterinį banką;
 
-[1 dalies 1 punkto redakcija nuo Lietuvos Respublikos
+1 dalies 1 punkto
 
-įstojimo į Europos Sąjungą dienos:
+redakcija nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
 
 1) vienas ar kartu su kitais
 
-steigėjais steigti dukterinį banką;]
+steigėjais steigti dukterinį banką;
 
 2) įsigyti steigiamo ar
 
@@ -264,19 +268,23 @@ banko akcijų paketą;
 
 (skyrius) ir atstovybes.
 
+2 dalies redakcija iki
+
+Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
+
 Užsienio banko dukterinis
 
-bankas gali būti steigiamas kaip uždaroji ar atviroji akcinė bendrovė tik uždaruoju
+bankas gali būti steigiamas kaip uždaroji ar atviroji akcinė bendrovė tik
 
-būdu. Užsienio banko dukterinio banko steigėjais gali būti tik bankai. Banko
+uždaruoju būdu. Užsienio banko dukterinio banko steigėjais gali būti tik
 
-steigimo sutartis sudaroma Lietuvos Respublikos akcinių bendrovių įstatymo
+bankai. Banko steigimo sutartis sudaroma Lietuvos Respublikos akcinių bendrovių
 
-nustatyta tvarka.
+įstatymo nustatyta tvarka.
 
-[2 dalies redakcija nuo Lietuvos Respublikos įstojimo į
+2 dalies redakcija nuo
 
-Europos Sąjungą dienos:
+Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
 
 Užsienio banko
 
@@ -288,7 +296,7 @@ užsienio bankas, įsigyjantis kontrolinį steigiamo banko akcijų paketą. Bank
 
 steigimo sutartis sudaroma Lietuvos Respublikos akcinių bendrovių įstatymo
 
-nustatyta tvarka.]
+nustatyta tvarka.
 
 Užsienio bankų filialai (skyriai) ir atstovybės gali
 
@@ -336,9 +344,9 @@ Respublika yra sudariusi su užsienio valstybe sutartis dėl kapitalo investicij
 
 apsaugos bei teisinės pagalbos arba užsienio bankas pateikia Lietuvos bankui
 
-pakankamas garantijas, kad prisiima turtinę atsakomybę už filialo (skyriaus)
+pakankamas garantijas, kad prisiima turtinę atsakomybę už filialo (skyriaus) veiklą
 
-veiklą Lietuvos Respublikoje;
+Lietuvos Respublikoje;
 
 2) filialo
 
@@ -346,15 +354,15 @@ veiklą Lietuvos Respublikoje;
 
 ir kitiems teisės aktams;
 
-3) užsienio bankas
+3) užsienio
 
-turi tos valstybės, kurios jurisdikcijai jis priklauso, išduotą banko
+bankas turi tos valstybės, kurios jurisdikcijai jis priklauso, išduotą banko
 
 licenciją;
 
-4) užsienio
+4) užsienio banko
 
-banko finansinė būklė yra gera ir stabili ir pagal Lietuvos banko nustatytus
+finansinė būklė yra gera ir stabili ir pagal Lietuvos banko nustatytus
 
 kriterijus jis vertinamas kaip patikimas bankas, taip pat tos valstybės, kurios
 
@@ -368,11 +376,11 @@ bankas yra pasirašęs sutartį su tos valstybės bankų priežiūros institucij
 
 banko filialo (skyriaus) veiklos priežiūros ir informacijos teikimo arba
 
-užsienio valstybės bankų priežiūros institucija yra vienašališkai
+užsienio valstybės bankų priežiūros institucija yra vienašališkai įsipareigojusi
 
-įsipareigojusi vykdyti tos valstybės banko filialo (skyriaus) veiklos priežiūrą
+vykdyti tos valstybės banko filialo (skyriaus) veiklos priežiūrą ir teikti
 
-ir teikti informaciją Lietuvos bankui;
+informaciją Lietuvos bankui;
 
 6) pateikti šio
 
@@ -528,6 +536,10 @@ IR LICENCIJAVIMAS
 
 steigėjai
 
+1 dalies redakcija iki
+
+Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
+
 Banko steigėjais gali būti
 
 Lietuvos Respublikos fiziniai ir juridiniai asmenys, įmonės, neturinčios
@@ -546,9 +558,9 @@ kaip 7. Kiekvienas banko steigėjas turi būti ir jo akcininkas, steigimo metu
 
 kaip 2 procentus banko akcinio kapitalo.
 
-[1 dalies redakcija nuo Lietuvos Respublikos įstojimo į
+1 dalies redakcija nuo
 
-Europos Sąjungą dienos:
+Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
 
 Banko steigėjais
 
@@ -566,7 +578,7 @@ kaip 7. Kiekvienas banko steigėjas turi būti ir jo akcininkas, steigimo metu
 
 įsigijęs ne mažiau
 
-kaip 2 procentus banko akcinio kapitalo.]
+kaip 2 procentus banko akcinio kapitalo.
 
 Šio straipsnio
 
@@ -1032,9 +1044,9 @@ bankai ir įmonės;
 
 šio banko investicijos sudaro 10 arba daugiau procentų jų kapitalo dydžio;
 
-5) asmenys, kurie buvo
+5) asmenys, kurie buvo nuteisti už nusikaltimus
 
-nuteisti už nusikaltimus ūkininkavimo tvarkai ir nusikaltimus finansams;
+ekonomikai ir verslo tvarkai ir nusikaltimus finansų sistemai;
 
 6) asmenys, negalintys
 
@@ -1070,11 +1082,11 @@ Jeigu per 12 mėnesių nuo
 
 akcininkų susirinkimo, priėmusio nutarimą padidinti banko akcinį kapitalą,
 
-banko statuto (įstatų) pakeitimai, susiję su akcinio kapitalo padidėjimu,
+banko statuto (įstatų) pakeitimai, susiję su akcinio kapitalo padidėjimu, nebuvo
 
-nebuvo įregistruoti Lietuvos Respublikos įstatymų nustatyta tvarka, akcinis
+įregistruoti Lietuvos Respublikos įstatymų nustatyta tvarka, akcinis kapitalas
 
-kapitalas laikomas nepadidintu.
+laikomas nepadidintu.
 
 Leidimą įregistruoti banko
 
@@ -1104,17 +1116,17 @@ Bankui draudžiama priimti
 
 skolininkui priklausančias šio banko akcijas už šiam bankui negrąžintą paskolą.
 
-Lėšos steigiamo banko
+Lėšos steigiamo banko pagrindiniam
 
-pagrindiniam kapitalui sukaupti ar banko išleistoms naujos emisijos akcijoms
+kapitalui sukaupti ar banko išleistoms naujos emisijos akcijoms apmokėti yra
 
-apmokėti yra kaupiamos Lietuvos banke ar kitame banke atidarytoje sąskaitoje.
+kaupiamos Lietuvos banke ar kitame banke atidarytoje sąskaitoje. Sukauptos
 
-Sukauptos lėšos pervedamos į banko sąskaitą po to, kai Lietuvos Respublikos
+lėšos pervedamos į banko sąskaitą po to, kai Lietuvos Respublikos įmonių
 
-įmonių registre įregistruotas steigiamas bankas ar banko statuto (įstatų)
+registre įregistruotas steigiamas bankas ar banko statuto (įstatų) pakeitimai,
 
-pakeitimai, susiję su statute (įstatuose) nurodyto kapitalo didinimu.
+susiję su statute (įstatuose) nurodyto kapitalo didinimu.
 
 Jeigu bankas ar banko
 
@@ -1145,6 +1157,12 @@ I-1358,
 Nr. IX-164,
 
 2001 01 25, Žin., 2001, Nr. 16-492 (2001 02 21)
+
+Nr.
+
+IX-1446, 2003-04-03,
+
+Žin., 2003, Nr. 38-1691 (2003-04-24)
 
 15 straipsnis. Banko
 
@@ -1232,13 +1250,11 @@ atlyginimo klausimus;
 
 kapitalo padidinimo arba sumažinimo klausimus;
 
-6) priima sprendimus dėl
+6) priima sprendimus dėl banko
 
-banko likvidavimo ar reorganizavimo, renka ir atleidžia banko likvidacinės
+likvidavimo ar reorganizavimo, renka ir atleidžia banko likvidacinės komisijos
 
-komisijos narius, tvirtina šios komisijos apyskaitą, jeigu bankas likviduojasi
-
-pats;
+narius, tvirtina šios komisijos apyskaitą, jeigu bankas likviduojasi pats;
 
 7) tvirtina nepiniginių
 
@@ -1276,7 +1292,9 @@ priskirtų banko visuotinio akcininkų susirinkimo kompetencijai, sprendimai
 
 privalo būti suderinti su Lietuvos banku ir Vyriausybe ar jos įgaliota
 
-institucija. Suderinimo tvarka nustatoma Vyriausybės ir Lietuvos banko nutarimu.
+institucija. Suderinimo tvarka nustatoma Vyriausybės ir Lietuvos banko
+
+nutarimu.
 
 Lietuvos bankas turi teisę
 
@@ -1324,11 +1342,11 @@ atstovaujančio banko taryboje asmens įgaliojimus, banko tarybos sprendimu šis
 
 asmuo turi būti atleidžiamas iš banko tarybos, neatsižvelgiant į tai, ar jis
 
-yra banko akcininkas. Naujas banko tarybos narys į laisvą vietą gali būti
+yra banko akcininkas. Naujas banko tarybos narys į laisvą vietą gali būti išrinktas
 
-išrinktas visuotiniame akcininkų susirinkime bendra tvarka. Banko tarybos narys
+visuotiniame akcininkų susirinkime bendra tvarka. Banko tarybos narys gali būti
 
-gali būti perrenkamas kitai kadencijai.
+perrenkamas kitai kadencijai.
 
 Banko taryba savo veiklą
 
@@ -1400,9 +1418,7 @@ administracijos vadovo;
 
 klausimus;
 
-8) sudaro banko veiklos
-
-planą;
+8) sudaro banko veiklos planą;
 
 9) nustato paskolų, kurios
 
@@ -3274,49 +3290,51 @@ galiojančių sutarčių, skolininko nemokumo arba dėl kitų priežasčių nega
 
 išreikalauti įvykdyti iki banko likvidavimo pabaigos, taip pat antrosiose
 
-(pakartotinėse) varžytynėse neparduotą turtą, įskaitant reikalavimo teises,
+(pakartotinėse) varžytynėse neparduotą turtą, įskaitant reikalavimo teises, likvidatorius
 
-likvidatorius gali perduoti kreditoriams šių reikalavimams tenkinti
+gali perduoti kreditoriams šių reikalavimams tenkinti vadovaudamasis šio
 
-vadovaudamasis šio įstatymo 54 straipsnyje nustatyta eile. Šis turtas,
+įstatymo 54 straipsnyje nustatyta eile. Šis turtas, įskaitant reikalavimo
 
-įskaitant reikalavimo teises, gali būti perduotas paskesnės eilės kreditoriams,
+teises, gali būti perduotas paskesnės eilės kreditoriams, jeigu pirmesnės eilės
 
-jeigu pirmesnės eilės kreditoriai nustatyta tvarka nepateikia prašymų, kad šiuo
+kreditoriai nustatyta tvarka nepateikia prašymų, kad šiuo būdu būtų tenkinami
 
-būdu būtų tenkinami jų reikalavimai. Apie turto, įskaitant reikalavimo teises,
+jų reikalavimai. Apie turto, įskaitant reikalavimo teises, perdavimą
 
-perdavimą kreditoriams skelbiama viešai arba kiekvienam kreditoriui pranešama
+kreditoriams skelbiama viešai arba kiekvienam kreditoriui pranešama raštu,
 
-raštu, nurodant terminą, per kurį kreditoriai turi teisę raštu pateikti
+nurodant terminą, per kurį kreditoriai turi teisę raštu pateikti prašymus
 
-prašymus perimti turtą, įskaitant reikalavimo teises. Jeigu per 24 mėnesius nuo
+perimti turtą, įskaitant reikalavimo teises. Jeigu per 24 mėnesius nuo teismo
 
-teismo nutarties likviduoti banką dėl bankroto įsiteisėjimo dienos lieka
+nutarties likviduoti banką dėl bankroto įsiteisėjimo dienos lieka neparduoto ir
 
-neparduoto ir kreditoriams neperduoto banko turto, likvidavimo procedūra
+kreditoriams neperduoto banko turto, likvidavimo procedūra laikoma baigta. Likusios
 
-laikoma baigta. Likusios neparduotos ir kreditorių neperimtos reikalavimo
+neparduotos ir kreditorių neperimtos reikalavimo teisės neatlygintinai
 
-teisės neatlygintinai perduodamos valstybės įmonei Indėlių draudimo fondui ar
+perduodamos valstybės įmonei „Indėlių ir investicijų draudimas“ ar kitai
 
-kitai Vyriausybės nustatytai institucijai. Valstybės įmonei Indėlių draudimo
+Vyriausybės nustatytai institucijai. Valstybės įmonei „Indėlių ir investicijų
 
-fondui reikalavimo teises perduoti gali tik toks likviduojamas bankas, kuris
+draudimas“ reikalavimo teises perduoti gali tik toks likviduojamas bankas,
 
-buvo apdraudęs indėlius Lietuvos Respublikos gyventojų indėlių draudimo
+kuris buvo apdraudęs indėlius Lietuvos Respublikos gyventojų indėlių draudimo
 
-įstatymo ir (ar) Lietuvos Respublikos indėlių draudimo įstatymo nustatyta
+įstatymo ir (ar) Lietuvos Respublikos indėlių draudimo įstatymo arba Lietuvos
 
-tvarka. Kitas turtas, kaip neturintis rinkos vertės, nurašomas ir panaudojamas
+Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo
 
-arba sunaikinamas vadovaujantis likvidatoriaus parengta ir teismo patvirtinta
+nustatyta tvarka. Kitas turtas, kaip neturintis rinkos vertės, nurašomas ir
 
-tvarka. Nurašytas nekilnojamasis turtas per 30 dienų nuo jo nurašymo dienos
+panaudojamas arba sunaikinamas vadovaujantis likvidatoriaus parengta ir teismo
 
-pagal perdavimo aktą neatlygintinai perduodamas savivaldybei, kurios
+patvirtinta tvarka. Nurašytas nekilnojamasis turtas per 30 dienų nuo jo
 
-teritorijoje yra šis turtas.
+nurašymo dienos pagal perdavimo aktą neatlygintinai perduodamas savivaldybei,
+
+kurios teritorijoje yra šis turtas.
 
 Prieš kiekvieną atsiskaitymą su kreditoriais banko
 
@@ -3396,6 +3414,10 @@ Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 
 60-2140 (2001-07-11)
 
+Nr. IX-978,
+
+2002-06-20, Žin., 2002, Nr. 65-2638 (2002-06-28), įsigalioja nuo 2002-07-01
+
 53(1) straipsnis. Atlyginimas įkaito turėtojui
 
 Įkeitimu ir
@@ -3442,21 +3464,7 @@ Pirmąja eile
 
 tenkinami banko darbuotojų reikalavimai, susiję su darbo santykiais.
 
-Antrąja eile
-
-tenkinami valstybės įmonės Indėlių draudimo fondo reikalavimai dėl išlaidų,
-
-susijusių su draudimo išmokų banko indėlininkams išmokėjimu, bei Finansų
-
-ministerijos reikalavimai dėl išlaidų, neviršijančių banko indėlininkams
-
-išmokėtų indėlių dalinių kompensacijų.
-
-[3 dalies redakcija nuo
-
-2002 m. liepos 1 d.:
-
-Antrąja eile tenkinami valstybės įmonės „Indėlių ir investicijų draudimas“ reikalavimai dėl išlaidų, susijusių su draudimo išmokų banko indėlininkams ar investuotojams, nurodytiems Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme, išmokėjimu, bei Finansų ministerijos reikalavimai dėl išlaidų, neviršijančių banko indėlininkams išmokėtų indėlių dalinių kompensacijų.]
+Antrąja eile tenkinami valstybės įmonės „Indėlių ir investicijų draudimas“ reikalavimai dėl išlaidų, susijusių su draudimo išmokų banko indėlininkams ar investuotojams, nurodytiems Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme, išmokėjimu, bei Finansų ministerijos reikalavimai dėl išlaidų, neviršijančių banko indėlininkams išmokėtų indėlių dalinių kompensacijų.
 
 Trečiąja eile
 
