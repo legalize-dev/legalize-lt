@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2000-06-13"
+last_updated: "2000-10-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -44,7 +44,7 @@ Nauja
 
 Nr. VIII-854,
 
-98.07.02, Žin., 1998, Nr.67-1940 (98.07.29)
+1998 07 02, Žin., 1998, Nr. 67-1940 (1998 07 29)
 
 Švietimas -
 
@@ -130,9 +130,9 @@ ugdymo įstaigose;
 
 lavinimo mokyklose;
 
-3) profesinio
+3) profesinio mokymo
 
-mokymo įstaigose, įmonėse;
+įstaigose, įmonėse;
 
 4)
 
@@ -214,9 +214,9 @@ mokyklose.
 
 5. Suaugusieji
 
-bendrąjį išsilavinimą gali įgyti suaugusiųjų bendrojo lavinimo mokyklose (mokymo
+bendrąjį išsilavinimą gali įgyti suaugusiųjų bendrojo lavinimo mokyklose
 
-centruose), bendrojo lavinimo mokyklų suaugusiųjų skyriuose (klasėse).
+(mokymo centruose), bendrojo lavinimo mokyklų suaugusiųjų skyriuose (klasėse).
 
 6. Sanatorijose
 
@@ -274,11 +274,9 @@ turėti bendrąjį vidurinį arba pagrindinį išsilavinimą.
 
 šiose mokyklose trunka nuo dvejų iki ketverių metų.
 
-3.
+3. Aukštesniosios
 
-Aukštesniosios mokyklos gali turėti bendrojo lavinimo ir profesinio mokymo
-
-skyrius.
+mokyklos gali turėti bendrojo lavinimo ir profesinio mokymo skyrius.
 
 4. Į
 
@@ -326,11 +324,11 @@ būreliuose.
 
 Išsilavinimo cenzas
 
-Lietuvos
+Lietuvos Respublikoje
 
-Respublikoje nustatomas toks išsilavinimo cenzas: pradinis, pagrindinis,
+nustatomas toks išsilavinimo cenzas: pradinis, pagrindinis, vidurinis,
 
-vidurinis, aukštesnysis, aukštasis.
+aukštesnysis, aukštasis.
 
 10
 
@@ -440,7 +438,7 @@ pakeitimai:
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
-00.06.13, Žin., 2000, Nr.49-1424 (00.06.16)
+2000 06 13, Žin., 2000, Nr. 49-1424 (2000 06 16)
 
 10 straipsnis.
 
@@ -568,9 +566,9 @@ bendrojo lavinimo mokyklas ir pamokas gimtąja kalba, jeigu šie asmenys to pra�
 
 ir jeigu toks prašymas atitinka realų poreikį. Tėvai (ar vaiko globėjai)
 
-parenka vaikams ikimokyklinę įstaigą ar bendrojo lavinimo mokyklą atitinkama
+parenka vaikams ikimokyklinę įstaigą ar bendrojo lavinimo mokyklą atitinkama dėstymo
 
-dėstymo kalba.
+kalba.
 
 3. Negausioms
 
@@ -604,21 +602,21 @@ Sveikatos apsauga
 
 Švietimo
 
-įstaigose sudaromos sąlygos auklėtinių bei pedagogų sveikatai išsaugoti ir
+įstaigose sudaromos sąlygos auklėtinių bei pedagogų sveikatai išsaugoti ir stiprinti.
 
-stiprinti. Ministerijos ir kitos Vyriausybės įstaigos, apskričių viršininkai,
+Ministerijos ir kitos Vyriausybės įstaigos, apskričių viršininkai, vietos
 
-vietos savivaldybių institucijos, organizacijos ir piliečiai, turintys savo
+savivaldybių institucijos, organizacijos ir piliečiai, turintys savo žinioje
 
-žinioje švietimo įstaigas, užtikrina teisės aktuose nustatytas auklėtinių
+švietimo įstaigas, užtikrina teisės aktuose nustatytas auklėtinių mokymosi,
 
-mokymosi, mitybos, kūno kultūros ir sporto, poilsio, medicinos bei
+mitybos, kūno kultūros ir sporto, poilsio, medicinos bei psichologinės pagalbos
 
-psichologinės pagalbos teikimo sąlygas šiose įstaigose, taip pat auklėtinių
+teikimo sąlygas šiose įstaigose, taip pat auklėtinių apsaugą nuo fizinę ir
 
-apsaugą nuo fizinę ir psichinę sveikatą žalojančio poveikio (tabako, alkoholio,
+psichinę sveikatą žalojančio poveikio (tabako, alkoholio, narkotinių ir
 
-narkotinių ir psichotropinių medžiagų).
+psichotropinių medžiagų).
 
 14
 
@@ -708,9 +706,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1678,
+Nr. VIII-1678, 2000 05 11, Žin., 2000, Nr.
 
-00.05.11, Žin., 2000, Nr.40-1116 (00.05.17), įsigalioja nuo 2001 m. rugsėjo 1d.
+40-1116 (2000 05 17), įsigalioja nuo 2001 09 01
 
 16 straipsnis.
 
@@ -962,21 +960,21 @@ globėjai) privalo:
 
 1) sudaryti
 
-vaikams gyvenimo ir mokymosi sąlygas, laiduojančias sveiką ir saugią jų dvasinių
+vaikams gyvenimo ir mokymosi sąlygas, laiduojančias sveiką ir saugią jų
 
-bei fizinių galių plėtotę, dorovinį brendimą, atsakyti už vaikų auklėjimą ir
+dvasinių bei fizinių galių plėtotę, dorovinį brendimą, atsakyti už vaikų
 
-vystymąsi;
+auklėjimą ir vystymąsi;
 
 2) leisti į
 
 bendrojo lavinimo mokyklą vaikus nuo 6-7 metų, jei jie yra pakankamai fiziškai
 
-ir psichiškai subrendę. Pateikę vaiko psichofizinę brandą liudijančius dokumentus,
+ir psichiškai subrendę. Pateikę vaiko psichofizinę brandą liudijančius
 
-tėvai gali leisti į mokyklą vaiką, mokslo metų pradžios dieną neturintį 6 metų,
+dokumentus, tėvai gali leisti į mokyklą vaiką, mokslo metų pradžios dieną
 
-arba neleisti į mokyklą vaiko, kuriam yra suėję 7 metai;
+neturintį 6 metų, arba neleisti į mokyklą vaiko, kuriam yra suėję 7 metai;
 
 3) bendrauti su
 
@@ -1048,9 +1046,9 @@ praktinė veikla neatitinka turimos kvalifikacinės kategorijos reikalavimų.
 
 3. Pedagogai,
 
-švietimo įstaigų vadovai, pageidaujantys įgyti aukštesnę nei turima kvalifikacinę
+švietimo įstaigų vadovai, pageidaujantys įgyti aukštesnę nei turima
 
-kategoriją, atestuojami pačių prašymu.
+kvalifikacinę kategoriją, atestuojami pačių prašymu.
 
 4. Pedagogų,
 
@@ -1166,15 +1164,15 @@ ORGANIZAVIMAS IR VALDYMAS
 
 1. Lietuvos
 
-Respublikos švietimo įstaigos dirba pagal Švietimo ir mokslo ministerijos
+Respublikos švietimo įstaigos dirba pagal Švietimo ir mokslo ministerijos patvirtintus
 
-patvirtintus arba jos nustatyta tvarka suderintus mokymo planus ir bendrąsias
+arba jos nustatyta tvarka suderintus mokymo planus ir bendrąsias programas.
 
-programas. Mokymo turinys ir metodai turi atitikti švietimo įstaigai keliamus
+Mokymo turinys ir metodai turi atitikti švietimo įstaigai keliamus uždavinius
 
-uždavinius bei visuomenės poreikius. Atskirų mokyklų tipų ir pakopų ugdymo
+bei visuomenės poreikius. Atskirų mokyklų tipų ir pakopų ugdymo turinys
 
-turinys derinamas tarpusavyje.
+derinamas tarpusavyje.
 
 2. Švietimo
 
@@ -1186,9 +1184,9 @@ prieštaraujančias visuotinai pripažintiems tarptautinės teisės ir humanizmo
 
 principams.
 
-3. Tautinių
+3. Tautinių mažumų
 
-mažumų švietimo įstaigose ugdymo programos gali būti papildomos etnokultūros
+švietimo įstaigose ugdymo programos gali būti papildomos etnokultūros
 
 elementais.
 
@@ -1286,7 +1284,7 @@ pakeitimai:
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
-00.06.13, Žin., 2000, Nr.49-1424 (00.06.16)
+2000 06 13, Žin., 2000, Nr. 49-1424 (2000 06 16)
 
 32 straipsnis.
 
@@ -1418,11 +1416,11 @@ Respublikos švietimo įstatymo 34 straipsnio 2 dalis ta apimtimi, kuria
 
 įtvirtinta valstybės pripažintų tradicinių religinių bendrijų - švietimo
 
-įstaigų steigėjų teisė prižiūrėti ne tik tikybos mokymą valstybinėse ir
+įstaigų steigėjų teisė prižiūrėti ne tik tikybos mokymą valstybinėse ir savivaldybių
 
-savivaldybių mokymo ir auklėjimo įstaigose, bet ir visą šių įstaigų veiklą,
+mokymo ir auklėjimo įstaigose, bet ir visą šių įstaigų veiklą, prieštarauja
 
-prieštarauja Lietuvos Respublikos Konstitucijos 40 straipsnio 1 daliai.
+Lietuvos Respublikos Konstitucijos 40 straipsnio 1 daliai.
 
 Straipsnio
 
@@ -1430,7 +1428,7 @@ pakeitimai:
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
-00.06.13, Žin., 2000, Nr.49-1424 (00.06.16)
+2000 06 13, Žin., 2000, Nr. 49-1424 (2000 06 16)
 
 34 straipsnis.
 
@@ -1524,11 +1522,11 @@ kvalifikacinius reikalavimus visų tipų švietimo įstaigų vadovams, tvirtina
 
 viešo konkurso vadovų pareigoms organizavimo tvarką;
 
-4) raštu aprobuoja
+4) raštu
 
-apskričių viršininkų administracijų švietimo padalinių steigimą, reorganizavimą
+aprobuoja apskričių viršininkų administracijų švietimo padalinių steigimą,
 
-ir likvidavimą;
+reorganizavimą ir likvidavimą;
 
 5) koordinuoja
 
@@ -1556,9 +1554,9 @@ nuostatus;
 
 8) nustato visų
 
-tipų švietimo įstaigų bendrųjų veiklos nuostatų reikalavimus, tvirtina pavaldžių
+tipų švietimo įstaigų bendrųjų veiklos nuostatų reikalavimus, tvirtina
 
-švietimo įstaigų veiklos nuostatus;
+pavaldžių švietimo įstaigų veiklos nuostatus;
 
 9) teikia
 
@@ -1708,9 +1706,7 @@ rengimu, kvalifikacijos tobulinimu, organizuoja jų atestaciją.
 
 Apskrities viršininko kompetencija švietimo srityje
 
-Apskrities
-
-viršininkas:
+Apskrities viršininkas:
 
 1) Švietimo ir
 
@@ -1730,11 +1726,11 @@ likvidavimą;
 
 mokslo ministerijos raštišku sutikimu steigia, reorganizuoja ir likviduoja
 
-apskrities viršininko administracijos švietimo padalinius. Viešo konkurso
+apskrities viršininko administracijos švietimo padalinius. Viešo konkurso tvarka,
 
-tvarka, kurią tvirtina Vyriausybė Švietimo ir mokslo ministerijos teikimu,
+kurią tvirtina Vyriausybė Švietimo ir mokslo ministerijos teikimu, skiria
 
-skiria apskrities administracijos švietimo padalinių vadovus;
+apskrities administracijos švietimo padalinių vadovus;
 
 4) užtikrina
 
@@ -1750,23 +1746,23 @@ kaip vykdoma bendroji švietimo politika apskrities teritorijoje esančiose
 
 valstybinėse, savivaldybių ir nevalstybinėse švietimo įstaigose;
 
-7) prižiūri, kaip
+7) prižiūri,
 
-savivaldybės tvarko mokyklinio amžiaus vaikų apskaitą, ir užtikrina, kad visi
+kaip savivaldybės tvarko mokyklinio amžiaus vaikų apskaitą, ir užtikrina, kad
 
-apskrities teritorijoje gyvenantys vaikai iki 16 metų mokytųsi bendrojo
+visi apskrities teritorijoje gyvenantys vaikai iki 16 metų mokytųsi bendrojo
 
 lavinimo ar kitokioje formaliojo švietimo sistemos mokykloje, rūpinasi vaiko
 
 teisių apsauga;
 
-8) sudaro sąlygas
+8) sudaro
 
-apskrities valstybinių švietimo įstaigų vadovams ir pedagogams tobulinti
+sąlygas apskrities valstybinių švietimo įstaigų vadovams ir pedagogams
 
-kvalifikaciją, Švietimo ir mokslo ministerijos nustatyta tvarka organizuoja jų
+tobulinti kvalifikaciją, Švietimo ir mokslo ministerijos nustatyta tvarka
 
-atestavimą;
+organizuoja jų atestavimą;
 
 9) registruoja
 
@@ -1862,11 +1858,9 @@ nemokamą pavėžėjimą į mokyklą ir atgal;
 
 10) sudaro
 
-sąlygas pavaldžių švietimo įstaigų vadovams ir pedagogams tobulinti
+sąlygas pavaldžių švietimo įstaigų vadovams ir pedagogams tobulinti kvalifikaciją,
 
-kvalifikaciją, Švietimo ir mokslo ministerijos nustatyta tvarka organizuoja jų
-
-atestavimą;
+Švietimo ir mokslo ministerijos nustatyta tvarka organizuoja jų atestavimą;
 
 11) Švietimo ir
 
@@ -1874,9 +1868,9 @@ mokslo ministerijos nustatyta tvarka teikia jai, apskrities viršininkui ir
 
 visuomenei informaciją apie švietimo būklę ir problemas.
 
-39 straipsnis.
+39 straipsnis. Lietuvos
 
-Lietuvos švietimo taryba
+švietimo taryba
 
 1. Lietuvos
 
@@ -1982,11 +1976,9 @@ ir savivaldybių švietimo įstaigos, įsteigtos kartu su valstybės pripažinta
 
 tradicine religine bendrija, finansuojamos ir išlaikomos iš valstybės ir
 
-savivaldybių biudžetų. Šios įstaigos gali gauti lėšų iš Lietuvos švietimo
+savivaldybių biudžetų. Šios įstaigos gali gauti lėšų ir kitais įstatymų
 
-fondo, apskričių, miestų ir rajonų švietimo fondų ir kitais įstatymų numatytais
-
-būdais.
+numatytais būdais.
 
 2. Užsienio
 
@@ -2016,9 +2008,13 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1678,
+Nr. VIII-1678, 2000 05 11, Žin., 2000, Nr.
 
-00.05.11, Žin., 2000, Nr.40-1116 (00.05.17), įsigalioja nuo 2001 m. rugsėjo 1d.
+40-1116 (2000 05 17), įsigalioja nuo 2001 09 01
+
+Nr. VIII-2038, 2000 10 12, Žin., 2000, Nr.
+
+92-2878 (2000 10 31)
 
 42 straipsnis.
 
@@ -2110,11 +2106,11 @@ Respublikos teisės aktai bei tarptautinės sutartys.
 
 Tarptautinės sutartys
 
-Jeigu tarptautinėse
+Jeigu
 
-sutartyse nustatytos kitokios taisyklės negu tos, kurias numato šis įstatymas,
+tarptautinėse sutartyse nustatytos kitokios taisyklės negu tos, kurias numato
 
-taikomos tarptautinėse sutartyse nurodytos taisyklės.
+šis įstatymas, taikomos tarptautinėse sutartyse nurodytos taisyklės.
 
 Skelbiu šį
 
@@ -2124,7 +2120,7 @@ RESPUBLIKOS PREZIDENTAS                             
 
 ADAMKUS
 
-_______________________
+___________
 
 Pakeitimai:
 
@@ -2136,9 +2132,7 @@ Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Nutarimas
 
 Nr.
 
-I-1626,
-
-91.07.30
+I-1626, 91.07.30
 
 DĖL
 
@@ -2234,7 +2228,7 @@ Nr.
 
 VIII-854,
 
-98.07.02, Žin., 1998, Nr.67-1940 (98.07.29)
+1998 07 02, Žin., 1998, Nr. 67-1940 (1998 07 29)
 
 LIETUVOS
 
@@ -2248,9 +2242,9 @@ Nauja
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1678,
+Nr. VIII-1678, 2000 05 11, Žin., 2000, Nr.
 
-00.05.11, Žin., 2000, Nr.40-1116 (00.05.17)
+40-1116 (2000 05 17)
 
 ŠVIETIMO ĮSTATYMO 15 STRAIPSNIO PAPILDYMO IR 41
 
@@ -2260,15 +2254,35 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja 2001 m. rugsėjo 1 d.
 
+Pakeitimai:
+
+1)
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-2038, 2000 10 12, Žin., 2000, Nr.
+
+92-2878 (2000 10 31)
+
+ŠVIETIMO
+
+ĮSTATYMO 15 STRAIPSNIO PAPILDYMO IR 41 STRAIPSNIO PAKEITIMO ĮSTATYMO 2
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Konstitucinio Teismo nutarimai:
+Konstitucinio
+
+Teismo nutarimai:
 
 1.
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
-00.06.13, Žin., 2000, Nr.49-1424 (00.06.16)
+2000 06 13, Žin., 2000, Nr. 49-1424 (2000 06 16)
 
 DĖL LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 1 STRAIPSNIO
 
@@ -2282,5 +2296,7 @@ ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.06.16)
+Redagavo: Aušrinė Trapinskienė (2000 11 21)
+
+autrap@lrs.lt
 
