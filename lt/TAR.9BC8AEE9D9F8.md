@@ -4,7 +4,7 @@ identifier: "TAR.9BC8AEE9D9F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "1997-07-03"
+last_updated: "1997-09-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9BC8AEE9D9F8"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.07.17)
+Ramunė Lūžaitė (1997.10.23)
 
 Įstatymas
 
@@ -54,15 +54,31 @@ Lietuvos Respublikos
 
 Seimas, Įstatymas
 
-Nr. VIII-401,
+Nr.
 
-97.07.03, Žin., 1997, Nr.67-1676 (97.07.16)
+VIII-401, 97.07.03, Žin., 1997, Nr.67-1676 (97.07.16)
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 4 STRAIPSNIO PAPILDYMO
+RESPUBLIKOS NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 4 STRAIPSNIO
 
-ĮSTATYMAS
+PAPILDYMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-423,
+
+97.09.25, Žin., 1997, Nr.96-2421 (97.10.24)
+
+LIETUVOS
+
+RESPUBLIKOS NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 6, 23 STRAIPSNIŲ
+
+PAKEITIMO
 
 ***
 
@@ -218,15 +234,15 @@ senoviniai pylimai, kiti senovės gynybiniai įtvirtinimai, senovės gyvenamosio
 
 ir dirbtuvių vietos, senovės statinių griuvėsiai ir liekanos, alkos,
 
-alkakalniai ir kitos senovės religinio kulto vietos, aukurai, akmenys su
+alkakalniai ir kitos senovės religinio kulto vietos, aukurai, akmenys su dubenimis,
 
-dubenimis, pėdomis, įrašais ir kitais ženklais, žemgrindos, kūlgrindos ir kiti
+pėdomis, įrašais ir kitais ženklais, žemgrindos, kūlgrindos ir kiti senovės
 
-senovės keliai, pilkapiai, kapinynai ir kitos senovės laidojimo vietos,
+keliai, pilkapiai, kapinynai ir kitos senovės laidojimo vietos, neveikiančios
 
-neveikiančios kapinės ir karių kapinės turi kultūrinę vertę bei visuomeninę
+kapinės ir karių kapinės turi kultūrinę vertę bei visuomeninę reikšmę ir
 
-reikšmę ir registruojami kaip nekilnojamosios kultūros vertybės.
+registruojami kaip nekilnojamosios kultūros vertybės.
 
 Kiti
 
@@ -514,7 +530,9 @@ saugojimui, taip pat teritorinio planavimo dokumentai turi būti suderinti su
 
 Kultūros vertybių apsaugos departamentu. Nesuderinti aktai ir dokumentai yra
 
-negaliojantys nekilnojamųjų kultūros vertybių, jų teritorijų bei apsaugos zonų atžvilgiu.
+negaliojantys nekilnojamųjų kultūros vertybių, jų teritorijų bei apsaugos zonų
+
+atžvilgiu.
 
 Kultūros
 
@@ -582,39 +600,31 @@ institucijose dirbančius specialistus;
 
 5)
 
-išduoti įstatymų nustatyta tvarka licencijas tyrimo, konservavimo ir
-
-restauravimo darbams,  taip pat šių darbų sąlygoms, programoms ir projektams
-
-rengti;
-
-6)
-
 nustatyti priešavarinių, remonto, pritaikymo, tyrimo, konservavimo,
 
 restauravimo ir kitų nekilnojamosiose kultūros vertybėse atliekamų darbų
 
 tvarką;
 
-7)
+6)
 
 organizuoti nekilnojamųjų kultūros vertybių mokslinius tyrimus bei šių vertybių
 
 propagavimą;
 
-8)
+7)
 
 kaupti,  sisteminti ir  skleisti  informaciją  apie nekilnojamąsias kultūros
 
 vertybes bei jų apsaugos metodus;
 
-9)
+8)
 
 kaupti, tvarkyti ir saugoti archyvinius dokumentus apie nekilnojamąsias
 
 kultūros vertybes ir jų apsaugą;
 
-10)
+9)
 
 rengti  valstybines nekilnojamųjų kultūros vertybių apskaitos,  mokslinių
 
@@ -622,17 +632,17 @@ tyrimų, propagavimo ir kitas saugojimo programas, disponuoti  šioms programom
 
 skirtomis valstybės biudžeto lėšomis;
 
-11)
+10)
 
 kreiptis į teismą ir kitas teisėsaugos institucijas dėl atsakomybės už šio
 
 įstatymo reikalavimų pažeidimus;
 
-12)
+11)
 
 nustatyti apsaugos zonas;
 
-13)
+12)
 
 nustatyti sužalotų nekilnojamųjų kultūros vertybių, jų teritorijų ar apsaugos
 
@@ -640,27 +650,35 @@ zonų atstatymo būdą ir nuostolių dydį bei priverstinai valstybės išperkam
 
 tokių vertybių vertės dydį;
 
-14)
+13)
 
 informuoti  Valstybinę paminklosaugos  komisiją  ir visuomenę apie
 
 nekilnojamųjų kultūros vertybių apsaugos problemas ir savo darbą;
 
+14)
+
+teikti Valstybinei paminklosaugos komisijai metines ataskaitas apie nekilnojamųjų
+
+kultūros vertybių apsaugą;
+
 15)
-
-teikti Valstybinei paminklosaugos komisijai metines ataskaitas apie
-
-nekilnojamųjų kultūros vertybių apsaugą;
-
-16)
 
 vykdyti kitas šio ir kitų įstatymų nustatytas funkcijas;
 
-17)
+16)
 
 per  5 dienas informuoti Valstybinę paminklosaugos komisiją apie  įstatymo
 
 pažeidimo  atvejus saugant kultūros paminklus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-423,
+
+97.09.25, Žin., 1997, Nr.96-2421 (97.10.24)
 
 7 straipsnis. Kultūros vertybių apsaugos departamento teisės
 
@@ -706,11 +724,11 @@ kurie gali būti nekilnojamosiomis kultūros vertybėmis;
 
 6)
 
-susipažinti  su juridinių ir fizinių asmenų turima inventorizacijos, ikonografijos
+susipažinti  su juridinių ir fizinių asmenų turima inventorizacijos,
 
-ir kitokiais dokumentais apie nekilnojamąsias kultūros vertybes ir objektus,
+ikonografijos ir kitokiais dokumentais apie nekilnojamąsias kultūros vertybes
 
-kurie gali būti nekilnojamosiomis kultūros vertybėmis;
+ir objektus, kurie gali būti nekilnojamosiomis kultūros vertybėmis;
 
 7)
 
@@ -1096,11 +1114,11 @@ pat nurodomi pagrindiniai vertybės  apskaitos duomenys - jos sudėtis ir
 
 apimtis, pagrindiniai kultūrinės vertės požymiai, visuomeninė reikšmė ir
 
-teritorija. Pasikeitus  nekilnojamosios kultūros vertybės saugojimo sąlygoms,
+teritorija. Pasikeitus  nekilnojamosios kultūros vertybės saugojimo sąlygoms, jos
 
-jos fizinei būklei ar paskelbus šią vertybę kultūros paminklu, apsaugos
+fizinei būklei ar paskelbus šią vertybę kultūros paminklu, apsaugos reglamentas
 
-reglamentas papildomas ir patikslinamas.
+papildomas ir patikslinamas.
 
 Nekilnojamųjų
 
@@ -1132,7 +1150,7 @@ straipsnis. Nekilnojamųjų kultūros vertybių ženklinimas
 
 Nekilnojamosios
 
-kultūros  vertybės bei  jų  teritorijos ženklinamos Kultūros vertybių apsaugos
+kultūros  vertybės bei  jų  teritorijos ženklinamos Kultūros vertybių apsaugos
 
 departamento nustatyta tvarka.
 
@@ -1146,9 +1164,9 @@ statiniai bei jų kompleksai, ansambliai ir vietovės, įrašyti į Registrą, b
 
 apsaugoti nuo išorinio poveikio bei išsaugota jų aplinka, Kultūros vertybių
 
-apsaugos departamentas nustato individualias apsaugos zonas. Šios zonos
+apsaugos departamentas nustato individualias apsaugos zonas. Šios zonos skirstomos
 
-skirstomos į:
+į:
 
 1)
 
@@ -1432,11 +1450,19 @@ per 15 dienų.
 
 Nekilnojamųjų
 
-kultūros  vertybių  tyrimo,  konservavimo, restauravimo ir atkūrimo darbus
+kultūros vertybių remonto, tyrimo, konservavimo, restauravimo ir atkūrimo
 
-atlikti, taip pat rengti šiems darbams sąlygas, programas arba projektus gali
+darbus atlikti, taip pat rengti šių darbų sąlygas, programas ir projektus gali
 
-tik šiems darbams licencijas turintys subjektai.
+tik Lietuvos Respublikos Vyriausybės nustatyta tvarka atestuotos įmonės.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-423,
+
+97.09.25, Žin., 1997, Nr.96-2421 (97.10.24)
 
 24
 
@@ -1550,11 +1576,11 @@ tyrimo, konservavimo, restauravimo ir kiti darbai;
 
 visų, ne valstybei priklausančių, bet visuomenės lankymui atvirų, kultūros
 
-paminklų būtinų tyrimo ir konservavimo darbų 50 procentų išlaidų. Lietuvos
+paminklų būtinų tyrimo ir konservavimo darbų 50 procentų išlaidų. Lietuvos Respublikos
 
-Respublikos Vyriausybės nutarimu gali būti kompensuota ir didesnė šių darbų
+Vyriausybės nutarimu gali būti kompensuota ir didesnė šių darbų vykdymo išlaidų
 
-vykdymo išlaidų dalis.
+dalis.
 
 Iš
 
@@ -1562,9 +1588,9 @@ savivaldybių biudžeto finansuojama:
 
 1)
 
-savivaldybėms priklausančių kultūros vertybių apsaugos, priešavariniai, remonto,
+savivaldybėms priklausančių kultūros vertybių apsaugos, priešavariniai,
 
-tyrimo, konservavimo, restauravimo ir kiti darbai;
+remonto, tyrimo, konservavimo, restauravimo ir kiti darbai;
 
 2)
 
@@ -1776,5 +1802,5 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS        ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                              ALGIRDAS BRAZAUSKAS
 
