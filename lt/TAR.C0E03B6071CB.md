@@ -4,7 +4,7 @@ identifier: "TAR.C0E03B6071CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-02-06"
-last_updated: "1997-02-18"
+last_updated: "1997-12-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E03B6071CB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,191 +15,215 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų indėlių bankrutuojančiuose bankuose dalinio kompensavimo laikinasis įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
-Redagavo: Ramunė Lūžaitė (1997.03.05)
+Redagavo:
 
-Neoficialus įstatymo tekstas
+Ramunė Lūžaitė (1998.01.10)
+
+Įstatymas
+
+paskelbtas: Žin., 1996, Nr.20-519
+
+Neoficialus
+
+įstatymo tekstas
 
 Pakeitimai:
 
 1.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos
 
-Nr. VIII-117, 97.02.18, Žin., 1997, Nr.19-410
+Respublikos Seimas, Įstatymas
 
-(97.03.05)
+Nr.
 
-LIETUVOS RESPUBLIKOS GYVENTOJŲ INDĖLIŲ
+VIII-117, 97.02.18, Žin., 1997, Nr.19-410 (97.03.05)
 
-BANKRUTUOJANČIUOSE BANKUOSE DALINIO KOMPENSAVIMO LAIKINOJO ĮSTATYMO 3
+LIETUVOS
 
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS GYVENTOJŲ INDĖLIŲ BANKRUTUOJANČIUOSE BANKUOSE DALINIO KOMPENSAVIMO
 
-*** Pabaiga ***
+LAIKINOJO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-596,
+
+97.12.23, Žin., 1997, Nr.119-3080 (97.12.31)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ INDĖLIŲ BANKRUTUOJANČIUOSE BANKUOSE DALINIO KOMPENSAVIMO
+
+LAIKINOJO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
-GYVENTOJŲ
-
-INDĖLIŲ BANKRUTUOJANČIUOSE BANKUOSE
+GYVENTOJŲ INDĖLIŲ BANKRUTUOJANČIUOSE BANKUOSE
 
 DALINIO KOMPENSAVIMO LAIKINASIS
 
 ĮSTATYMAS
 
-1996 m.
+1996 m. vasario 6 d.
 
-vasario 6 d. Nr. I-1196
+Nr. I-1196
 
 Vilnius
-
-(Žin., 1996,
-
-Nr.20-519)
 
 PIRMASIS SKIRSNIS
 
 BENDROSIOS NUOSTATOS
 
-1 straipsnis. Įstatymo
+1 straipsnis.
 
-paskirtis
+Įstatymo paskirtis
 
-Šis   įstatymas
+Šis
 
-nustato   gyventojų   indėlių bankrutuojančiuose Lietuvos komerciniuose
+įstatymas   nustato   gyventojų   indėlių bankrutuojančiuose Lietuvos
 
-bankuose  dalinį kompensavimą Gyventojų indėlių kompensavimo fondo (toliau -
+komerciniuose bankuose  dalinį kompensavimą Gyventojų indėlių kompensavimo
 
-Fondo) lėšomis.
+fondo (toliau - Fondo) lėšomis.
 
-2 straipsnis. Pagrindinės
+2 straipsnis.
 
-sąvokos
+Pagrindinės sąvokos
 
-Šiame įstatyme
+Šiame
 
-vartojamos sąvokos:
+įstatyme vartojamos sąvokos:
 
-gyventojas - Lietuvos
+gyventojas
 
-Respublikos pilietis, asmuo, nuolat arba  laikinai  gyvenantis Lietuvos
+- Lietuvos Respublikos pilietis, asmuo, nuolat arba  laikinai  gyvenantis
 
-Respublikoje,  kitos valstybės pilietis ar asmuo be pilietybės;
+Lietuvos  Respublikoje,  kitos valstybės pilietis ar asmuo be pilietybės;
 
-gyventojo indėlis -
+gyventojo
 
-banko sąskaitų kredito likutis, susidedantis iš tame pačiame banke esančių
+indėlis - banko sąskaitų kredito likutis, susidedantis iš tame pačiame banke
 
-sąskaitų ir (arba) lėšų, kurios vykdant bankines operacijas įskaitytos į to
+esančių sąskaitų ir (arba) lėšų, kurios vykdant bankines operacijas įskaitytos
 
-banko sąskaitas ir kurias bankas privalo grąžinti pagal galiojančius teisės
+į to banko sąskaitas ir kurias bankas privalo grąžinti pagal galiojančius
 
-aktus ir (arba) sutarties sąlygas, ir (arba) bet kokia kita banko skola
+teisės aktus ir (arba) sutarties sąlygas, ir (arba) bet kokia kita banko skola
 
 gyventojui, kurią patvirtina banko išduotas sertifikatas;
 
-indėlio dalinė
+indėlio
 
-kompensacija - suma, išmokama gyventojui iš dalies kompensuojant jo nuostolius,
+dalinė kompensacija - suma, išmokama gyventojui iš dalies kompensuojant jo
 
-patirtus dėl banko, kuriame jis laikė savo indėlį, bankroto;
+nuostolius, patirtus dėl banko, kuriame jis laikė savo indėlį, bankroto;
 
-bankrutuojantis bankas
+bankrutuojantis
 
-- Lietuvos Respublikos komercinis bankas, veikiantis pagal Komercinių bankų
+bankas - Lietuvos Respublikos komercinis bankas, veikiantis pagal Komercinių
 
-įstatymą ir kuriam įstatymo nustatyta tvarka priimta nutartis iškelti bankroto
+bankų įstatymą ir kuriam įstatymo nustatyta tvarka priimta nutartis iškelti
 
-bylą.
+bankroto bylą.
 
-3 straipsnis. Įstatymo
+3 straipsnis.
 
-taikymas
+Įstatymo taikymas
 
-Įstatymas taikomas tiems
+Įstatymas
 
-gyventojų indėliams, kurie nėra apdrausti pagal Gyventojų indėlių draudimo
+taikomas tiems gyventojų indėliams, kurie nėra apdrausti pagal Gyventojų
 
-įstatymą.
+indėlių draudimo įstatymą.
 
-Straipsnio pakeitimai:
+Straipsnio
 
-Nr. VIII-117, 97.02.18, Žin., 1997, Nr.19-410
+pakeitimai:
 
-(97.03.05)
+Nr.
+
+VIII-117, 97.02.18, Žin., 1997, Nr.19-410 (97.03.05)
 
 ANTRASIS SKIRSNIS
 
-INDĖLIŲ
-
-KOMPENSAVIMAS
+INDĖLIŲ KOMPENSAVIMAS
 
 4 straipsnis.
 
 Kompensavimo objektas ir suma
 
-1. Kompensavimo
+1.
 
-objektas yra bankrutuojančiuose bankuose laikomi gyventojų indėliai litais ir
+Kompensavimo objektas yra bankrutuojančiuose bankuose laikomi gyventojų
 
-užsienio valiuta.
+indėliai litais ir užsienio valiuta.
 
-2. Indėlio
+2.
 
-kompensavimo suma yra lygi gyventojo indėlio likučiui, buvusiam bankroto bylos
+Indėlio kompensavimo suma yra lygi gyventojo indėlio likučiui, buvusiam
 
-iškėlimo bankui dieną, bet ne daugiau kaip 4 tūkstančiai litų.
+bankroto bylos iškėlimo bankui dieną, bet ne daugiau kaip 4 tūkstančiai litų.
 
-3. Indėlio
+3.
 
-kompensacijos nemokamos už:
+Indėlio kompensacijos nemokamos už:
 
-1) palūkanas už
+1)
 
-indėlius;
+palūkanas už indėlius;
 
-2) indėlius, kurie
+2)
 
-teismo sprendimu pripažinti kaip įgyti neteisėtu būdu;
+indėlius, kurie teismo sprendimu pripažinti kaip įgyti neteisėtu būdu;
 
-3) bankrutuojančio
+3)
 
-banko ir jo dukterinių bankų bei įmonių akcijų paketo savininkų, šio banko
+bankrutuojančio banko ir jo dukterinių bankų bei įmonių akcijų paketo
 
-tarybos ir valdybos narių, revizorių, administracijos ir filialų vadovų, taip
+savininkų, šio banko tarybos ir valdybos narių, revizorių, administracijos ir
 
-pat Lietuvos banko valdybos narių, vadovų bei Bankų priežiūros departamento
+filialų vadovų, taip pat Lietuvos banko valdybos narių, vadovų bei Bankų priežiūros
 
-darbuotojų indėlius;
+departamento darbuotojų indėlius;
 
-4) banko paskolos
+4)
 
-gavėjo indėlį, jeigu jo dydis neviršija jo negrąžintų paskolų su palūkanomis
+banko paskolos gavėjo indėlį, jeigu jo dydis neviršija jo negrąžintų paskolų su
 
-dydžio. Jeigu banko paskolos gavėjo indėlis didesnis už jo negrąžintas paskolas
+palūkanomis dydžio. Jeigu banko paskolos gavėjo indėlis didesnis už jo
 
-kartu su palūkanomis, kompensuojamas indėlio ir paskolų su palūkanomis
+negrąžintas paskolas kartu su palūkanomis, kompensuojamas indėlio ir paskolų su
 
-skirtumas, bet ne didesnis negu šio straipsnio antrojoje dalyje nurodyta suma;
+palūkanomis skirtumas, bet ne didesnis negu šio straipsnio antrojoje dalyje
 
-5)  anoniminėse  ir
+nurodyta suma;
 
-užkoduotose sąskaitose  laikomus indėlius.
+5)
 
-4. Banko
+anoniminėse  ir užkoduotose sąskaitose  laikomus indėlius.
 
-administratorius sustabdo indėlių kompensacijų išmokėjimą gyventojams, dėl kurių
+4.
 
-indėlių lėšų įsigijimo teisėtumo  kreiptasi  į teisėsaugos institucijas,
+Banko administratorius sustabdo indėlių kompensacijų išmokėjimą gyventojams, dėl
+
+kurių indėlių lėšų įsigijimo teisėtumo  kreiptasi  į teisėsaugos institucijas,
 
 tačiau sprendimas dar nepriimtas.
 
-5. Jeigu
+5.
 
-bankrutuojantis bankas susigrąžina paskolas, realizuoja  savo  turtą ir
+Jeigu bankrutuojantis bankas susigrąžina paskolas, realizuoja  savo  turtą ir
 
 vertybinius popierius,  banko skolininkų įkeistą turtą bei vertybinius
 
@@ -217,143 +241,149 @@ atliekant banko bankroto procedūras.
 
 Kompensacijų apskaičiavimas ir išmokėjimas
 
-1. Indėlių
+1.
 
-kompensacijos išmokamos litais.
+Indėlių kompensacijos išmokamos litais.
 
-2.  Už  indėlius
+2.
 
-užsienio  valiuta  kompensacijos apskaičiuojamos pagal lito ir bazinės valiutos
+Už  indėlius  užsienio  valiuta  kompensacijos apskaičiuojamos pagal lito ir
 
-oficialų kursą ar Lietuvos banko nustatytą lito ir užsienio valiutos santykį,
+bazinės valiutos oficialų kursą ar Lietuvos banko nustatytą lito ir užsienio
 
-galiojusį bankroto bylos iškėlimo bankui dieną.
+valiutos santykį, galiojusį bankroto bylos iškėlimo bankui dieną.
 
-3.  Kompensacijų
+3.
 
-apskaičiavimo ir išmokėjimo  tvarką nustato Vyriausybė.
+Kompensacijų apskaičiavimo ir išmokėjimo  tvarką nustato Vyriausybė.
 
-4.  Kompensacijas
+4.
 
-apskaičiuoja  ir  jų  išmokėjimą Vyriausybės   nustatyta   tvarka
+Kompensacijas  apskaičiuoja  ir  jų  išmokėjimą Vyriausybės   nustatyta
 
-organizuoja   banko administratorius.
+tvarka   organizuoja   banko administratorius.
 
-5.  Kompensacijos
+5.
 
-mokamos  iš  Gyventojų  indėlių kompensavimo fondo.
+Kompensacijos  mokamos  iš  Gyventojų  indėlių kompensavimo fondo.
 
-6. Gyventojui
+6.
 
-išmokėtos kompensacijos suma įrašoma į Fondo vardu atidarytą sąskaitą
+Gyventojui išmokėtos kompensacijos suma įrašoma į Fondo vardu atidarytą
 
-bankrutuojančiame banke.
+sąskaitą bankrutuojančiame banke.
 
 6 straipsnis.
 
 Kompensacijų išmokėjimo terminai
 
-1.  Kompensacijos
+1.
 
-gyventojams išmokamos iki 1997 m. gruodžio  31  d., išskyrus šio straipsnio
+Kompensacijos gyventojams išmokamos iki 1998 m. gruodžio  31  d., išskyrus šio
 
-antrojoje  ir trečiojoje dalyse numatytus atvejus.
+straipsnio antrojoje  ir trečiojoje dalyse numatytus atvejus.
 
-2.  Pensinio amžiaus
+2.
 
-asmenims bei I ir II  grupės invalidams kompensacijos išmokamos per trumpesnį
+Pensinio amžiaus asmenims bei I ir II  grupės invalidams kompensacijos
 
-laikotarpį - iki 1996 m. gruodžio 31 d. Pirmiausia ir iš karto visa
+išmokamos per trumpesnį laikotarpį - iki 1996 m. gruodžio 31 d. Pirmiausia ir
 
-kompensacijos  suma išmokama vienišiems pensinio  amžiaus asmenims bei
+iš karto visa kompensacijos  suma išmokama vienišiems pensinio  amžiaus
 
-vienišiems I ir II grupės invalidams.
+asmenims bei vienišiems I ir II grupės invalidams.
 
-3.  Mirusio
+3.
 
-indėlininko paveldėtojams,  pateikusiems paveldėjimo teisės liudijimą, išmokama
+Mirusio  indėlininko paveldėtojams,  pateikusiems paveldėjimo teisės liudijimą,
 
-visa kompensacijos suma.
+išmokama visa kompensacijos suma.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-596,
+
+97.12.23, Žin., 1997, Nr.119-3080 (97.12.31)
 
 TREČIASIS SKIRSNIS
 
-GYVENTOJŲ
+GYVENTOJŲ INDĖLIŲ KOMPENSAVIMO FONDAS
 
-INDĖLIŲ KOMPENSAVIMO FONDAS
+7 straipsnis.
 
-7 straipsnis. Fondo
+Fondo sudarymas
 
-sudarymas
+1.
 
-1. Fondą pagal Seimo
+Fondą pagal Seimo patvirtintus Fondo veiklos nuostatus kaupia bei jo lėšomis
 
-patvirtintus Fondo veiklos nuostatus kaupia bei jo lėšomis disponuoja Finansų
+disponuoja Finansų ministerija.
 
-ministerija.
+2.
 
-2. Fondo
+Fondo įsipareigojimams, nustatytiems šio įstatymo 4 ir 6 straipsniuose,
 
-įsipareigojimams, nustatytiems šio įstatymo 4 ir 6 straipsniuose, finansuoti
+finansuoti Finansų ministerija turi teisę skolintis lėšų, vidaus rinkoje
 
-Finansų ministerija turi teisę skolintis lėšų, vidaus rinkoje leisdama
-
-valstybės vertybinius popierius.
+leisdama valstybės vertybinius popierius.
 
 8 straipsnis.
 
 Reikalavimo teisė
 
-Išmokėjus  gyventojui
+Išmokėjus
 
-indėlio kompensaciją,  Finansų ministerija reiškia ieškinius dėl:
+gyventojui  indėlio kompensaciją,  Finansų ministerija reiškia ieškinius dėl:
 
-1) likviduojamo banko
+1)
 
-turto dalies, neviršijančios šio banko indėlininkams išmokėtų kompensacijų
+likviduojamo banko turto dalies, neviršijančios šio banko indėlininkams
 
-sumos;
+išmokėtų kompensacijų sumos;
 
-2) po bankroto bylos
+2)
 
-nutraukimo reorganizuoto ir (arba) sanuoto banko turto, neviršijančio šio banko
+po bankroto bylos nutraukimo reorganizuoto ir (arba) sanuoto banko turto,
 
-indėlininkams išmokėtų kompensacijų sumos;
+neviršijančio šio banko indėlininkams išmokėtų kompensacijų sumos;
 
-3)  likviduoto banko
+3)
 
-skolininkų turto, neviršijančio skolininkų  turtinių  įsipareigojimų  šiam
+likviduoto banko skolininkų turto, neviršijančio skolininkų  turtinių
 
-bankui  turto išieškojimo dieną.
+įsipareigojimų  šiam  bankui  turto išieškojimo dieną.
 
-9 straipsnis. Fondo
+9 straipsnis.
 
-veiklos kontrolė
+Fondo veiklos kontrolė
 
-Valstybės kontrolė
+Valstybės
 
-turi teisę įstatymų nustatyta tvarka tikrinti, kaip naudojamos Fondo lėšos.
+kontrolė turi teisę įstatymų nustatyta tvarka tikrinti, kaip naudojamos Fondo
+
+lėšos.
 
 KETVIRTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
 
-10 straipsnis. Fondo
+10 straipsnis.
 
-likvidavimas
+Fondo likvidavimas
 
-1. Fondas likviduojamas
+1.
 
-Seimo sprendimu.
+Fondas likviduojamas Seimo sprendimu.
 
-2.  Likviduojamo Fondo
+2.
 
-lėšos pervedamos į valstybės biudžetą.
+Likviduojamo Fondo lėšos pervedamos į valstybės biudžetą.
 
-Skelbiu šį Lietuvos
+Skelbiu
 
-Respublikos Seimo priimtą įstatymą.
+šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS
-
-PREZIDENTAS           ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS           ALGIRDAS BRAZAUSKAS
 
