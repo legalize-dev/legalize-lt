@@ -4,7 +4,7 @@ identifier: "TAR.1B4D7B687895"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-01"
-last_updated: "2003-03-04"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895"
 department: "Lietuvos Respublikos Seimas"
@@ -1038,9 +1038,9 @@ SKIRSNIS
 
 UŽSIENIO
 
-ATSARGOS IR OPERACIJOS SU
+ATSARGOS IR OPERACIJOS
 
-UŽSIENIO FINANSŲ IR KREDITO ĮSTAIGOMIS
+SU UŽSIENIO FINANSŲ IR KREDITO ĮSTAIGOMIS
 
 33
 
@@ -1131,246 +1131,6 @@ SKIRSNIS
 VALSTYBĖS IŽDO
 
 AGENTO FUNKCIJOS
-
-37
-
-straipsnis. Skolinimo teisės apribojimas
-
-Lietuvos bankui
-
-draudžiama skolinti Vyriausybei ir kitoms valstybės vykdomosios valdžios
-
-įstaigoms, valstybės ir savivaldybių įmonėms arba pirkti jų vertybinių popierių
-
-pirminėje rinkoje.
-
-38
-
-straipsnis. Valstybės institucijų sąskaitų atidarymas
-
-Lietuvos bankas
-
-turi teisę atidaryti ir tvarkyti Lietuvos Respublikos iždo ir įstatymais ar
-
-nutarimais įsteigtų valstybės fondų sąskaitas litais ar (ir) užsienio valiuta.
-
-39
-
-straipsnis. Operacijos su Vyriausybės vertybiniais popieriais
-
-Lietuvos bankas
-
-pagal sutartį su Finansų ministerija gali organizuoti Vyriausybės vertybinių
-
-popierių išleidimą, išpirkimą ir palūkanų už juos išmokėjimą.
-
-40
-
-straipsnis. Valstybės skolos tvarkymas
-
-Lietuvos bankas
-
-pagal sutartį su Finansų ministerija gali tvarkyti valstybės skolą.
-
-41
-
-straipsnis. Vyriausybės konsultavimas
-
-Lietuvos bankas
-
-gali konsultuoti ir teikti pasiūlymus Vyriausybei finansų rinkos ir Valstybės
-
-iždo politikos klausimais.
-
-SEPTINTASIS
-
-SKIRSNIS
-
-KREDITO
-
-ĮSTAIGŲ LICENCIJAVIMAS IR PRIEŽIŪRA
-
-42
-
-straipsnis. Kredito įstaiga
-
-Kredito įstaiga
-
-– tai bankas, kitas juridinis asmuo ar užsienio valstybės kredito įstaigos
-
-padalinys, kurių veikla pagal teisės aktus priskiriama kredito įstaigų veiklai
-
-ir kurie turi Lietuvos banko išduotą licenciją ar leidimą atlikti įstatymų
-
-numatytas operacijas.
-
-43
-
-straipsnis. Kredito įstaigų licencijavimas
-
-1. Be Lietuvos
-
-banko licencijos ar leidimo negalima verstis kredito įstaigos veikla.
-
-2. Licencijų ir
-
-leidimų suteikimo sąlygas ir tvarką nustato kredito įstaigų steigimą bei jų
-
-veiklą reglamentuojantys ir kiti Lietuvos Respublikos įstatymai bei Lietuvos
-
-banko leidžiami teisės aktai.
-
-44
-
-straipsnis. Kredito įstaigų veiklos riziką ribojančių normatyvų nustatymas
-
-Lietuvos bankas
-
-nustato kredito įstaigų veiklos riziką ribojančius normatyvus, jų dydžius ir
-
-skaičiavimo metodiką.
-
-45
-
-straipsnis. Kredito įstaigų veiklos priežiūra
-
-1. Lietuvos
-
-bankas prižiūri Lietuvos banko licenciją ar leidimą turinčių kredito įstaigų
-
-veiklą įstatymų ir kitų teisės aktų nustatyta tvarka.
-
-2. Lietuvos
-
-banko licenciją ar leidimą turinčių kredito įstaigų veiklos priežiūra – tai
-
-priežiūrai atlikti reikalingos iš kredito įstaigų ataskaitų forma gautos
-
-informacijos kaupimas, analizė, kredito įstaigų veiklos bei finansinės būklės
-
-vertinimas šios informacijos pagrindu, atsižvelgiant į teisės aktuose
-
-nustatytus kredito įstaigų veiklos riziką ribojančius normatyvus bei kitus
-
-reikalavimus; kredito įstaigų veiklos inspektavimas: tikrinimas, ar teisingai
-
-sudarytos Lietuvos bankui teiktos finansinės ataskaitos, taip pat kredito
-
-įstaigos veiklos bei finansinės būklės (kapitalo, aktyvų kokybės, pelningumo),
-
-turto ir įsipareigojimų valdymo bei vadovavimo kredito įstaigai efektyvumo
-
-vertinimas; ekonominių ir kitų teisės aktuose nustatytų poveikio priemonių
-
-taikymas kredito įstaigoms, kurios nevykdo teisės aktų reikalavimų dėl saugios
-
-ir patikimos veiklos.
-
-46
-
-straipsnis. Lietuvos banko teisės atliekant kredito įstaigų veiklos priežiūrą
-
-1. Lietuvos
-
-bankas, atlikdamas kredito įstaigų veiklos priežiūrą, turi teisę:
-
-1) gauti
-
-priežiūros funkcijai atlikti reikalingą informaciją iš valstybės institucijų,
-
-kredito įstaigų, jų dukterinių įmonių bei kitų įmonių, įstaigų, organizacijų;
-
-2) inspektuoti
-
-licenciją ar leidimą turinčias kredito įstaigas, tikrinti jų sąskaitas,
-
-buhalterinius ir kitus dokumentus;
-
-3) įstatymų
-
-numatytais atvejais ir tvarka taikyti poveikio priemones licenciją ar leidimą
-
-turinčioms kredito įstaigoms, jeigu jos pažeidė įstatymus bei Lietuvos banko
-
-teisės aktus, reglamentuojančius kredito įstaigų veiklą;
-
-4) imtis
-
-priemonių, reikalingų efektyviam kredito sistemos funkcionavimui užtikrinti.
-
-2. Informacija,
-
-kurią Lietuvos bankas gauna iš valstybės institucijų, kredito įstaigų, įmonių,
-
-įstaigų, organizacijų priežiūros tikslui, negali būti skelbiama viešai ar kam
-
-nors perduota, išskyrus valdymo, kontrolės ir teisėsaugos institucijas įstatymų
-
-numatytais atvejais.
-
-3. Kredito įstaigą
-
-inspektuojantys Lietuvos banko tarnautojai turi teisę gauti visus dokumentus ir
-
-informaciją, susijusią su kredito įstaigos ar jos dukterinės įmonės veikla bei
-
-finansine būkle.
-
-4. Lietuvos banko
-
-nustatyta tvarka Lietuvos banko tarnautojai turi teisę dalyvauti kredito
-
-įstaigos valdymo organų darbe – dalyvauti posėdžiuose stebėtojų teisėmis ar
-
-kitaip stebėti valdymo organų ir kredito įstaigų administracijos veiklą.
-
-47
-
-straipsnis. Bendradarbiavimas su kitų valstybių kredito įstaigų priežiūros
-
-institucijomis
-
-Atlikdamas
-
-kredito įstaigų licencijavimo ir priežiūros funkcijas, Lietuvos bankas turi
-
-teisę keistis su kitų valstybių kredito įstaigų priežiūros institucijomis
-
-informacija apie bet kurios kredito įstaigos veiklą, užtikrindamas tokios
-
-informacijos konfidencialumą. Gauta iš kitos kredito įstaigų priežiūros
-
-institucijos informacija gali būti perduota įstatymų numatytais atvejais tik
-
-teismui, prokurorui, tardymo ir kvotos organams, jeigu ji reikalinga
-
-baudžiamajai bylai tirti ar nagrinėti, taip pat valstybės kontrolės
-
-(priežiūros) institucijoms, jeigu jose dirbantys asmenys pagal jų veiklą
-
-reglamentuojančius teisės aktus gautą informaciją privalo laikyti paslaptyje ir
-
-yra užsienio valstybės kredito įstaigų priežiūros institucijos sutikimas
-
-informaciją atskleisti.
-
-AŠTUNTASIS
-
-SKIRSNIS
-
-LIETUVOS BANKO
-
-FINANSINĖ APSKAITA IR ATSKAITOMYBĖ
-
-48
-
-straipsnis. Lietuvos banko finansiniai metai
-
-Lietuvos banko
-
-finansiniai metai prasideda sausio mėnesio 1 dieną ir baigiasi gruodžio mėnesio
-
-31 dieną.
 
 6 straipsnis. Lietuvos banko išimtinė teisė leisti pinigus
 
@@ -3306,17 +3066,251 @@ turimomis žiniomis verčiasi kredito įstaigos veikla be Lietuvos banko
 
 licencijos.
 
-37 straipsnis. Lietuvos banko poveikio priemonės bankams ir kitoms
+37 straipsnis.
 
-kredito įstaigoms
+Skolinimo teisės apribojimas
 
-Lietuvos bankas turi teisę taikyti bankams ir kitoms kredito
+Lietuvos bankui
 
-įstaigoms Lietuvos  Respublikos įstatymų nustatytas poveikio priemones.
+draudžiama skolinti Vyriausybei ir kitoms valstybės vykdomosios valdžios
 
-Nutarimo dėl poveikio priemonių taikymo pagrįstumas gali būti
+įstaigoms, valstybės ir savivaldybių įmonėms arba pirkti jų vertybinių popierių
 
-apskųstas teismui įstatymų nustatyta tvarka.
+pirminėje rinkoje.
+
+38
+
+straipsnis. Valstybės institucijų sąskaitų atidarymas
+
+Lietuvos bankas
+
+turi teisę atidaryti ir tvarkyti Lietuvos Respublikos iždo ir įstatymais ar
+
+nutarimais įsteigtų valstybės fondų sąskaitas litais ar (ir) užsienio valiuta.
+
+39
+
+straipsnis. Operacijos su Vyriausybės vertybiniais popieriais
+
+Lietuvos bankas
+
+pagal sutartį su Finansų ministerija gali organizuoti Vyriausybės vertybinių
+
+popierių išleidimą, išpirkimą ir palūkanų už juos išmokėjimą.
+
+40
+
+straipsnis. Valstybės skolos tvarkymas
+
+Lietuvos bankas
+
+pagal sutartį su Finansų ministerija gali tvarkyti valstybės skolą.
+
+41
+
+straipsnis. Vyriausybės konsultavimas
+
+Lietuvos bankas
+
+gali konsultuoti ir teikti pasiūlymus Vyriausybei finansų rinkos ir Valstybės
+
+iždo politikos klausimais.
+
+SEPTINTASIS
+
+SKIRSNIS
+
+KREDITO
+
+ĮSTAIGŲ LICENCIJAVIMAS IR PRIEŽIŪRA
+
+42
+
+straipsnis. Kredito įstaiga
+
+Kredito įstaiga
+
+– tai bankas, kitas juridinis asmuo ar užsienio valstybės kredito įstaigos
+
+padalinys, kurių veikla pagal teisės aktus priskiriama kredito įstaigų veiklai
+
+ir kurie turi Lietuvos banko išduotą licenciją ar leidimą atlikti įstatymų
+
+numatytas operacijas.
+
+43
+
+straipsnis. Kredito įstaigų licencijavimas
+
+1. Be Lietuvos
+
+banko licencijos ar leidimo negalima verstis kredito įstaigos veikla.
+
+2. Licencijų ir
+
+leidimų suteikimo sąlygas ir tvarką nustato kredito įstaigų steigimą bei jų
+
+veiklą reglamentuojantys ir kiti Lietuvos Respublikos įstatymai bei Lietuvos
+
+banko leidžiami teisės aktai.
+
+44
+
+straipsnis. Kredito įstaigų veiklos riziką ribojančių normatyvų nustatymas
+
+Lietuvos bankas
+
+nustato kredito įstaigų veiklos riziką ribojančius normatyvus, jų dydžius ir
+
+skaičiavimo metodiką.
+
+45
+
+straipsnis. Kredito įstaigų veiklos priežiūra
+
+1. Lietuvos
+
+bankas prižiūri Lietuvos banko licenciją ar leidimą turinčių kredito įstaigų
+
+veiklą įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+2. Lietuvos
+
+banko licenciją ar leidimą turinčių kredito įstaigų veiklos priežiūra – tai
+
+priežiūrai atlikti reikalingos iš kredito įstaigų ataskaitų forma gautos
+
+informacijos kaupimas, analizė, kredito įstaigų veiklos bei finansinės būklės
+
+vertinimas šios informacijos pagrindu, atsižvelgiant į teisės aktuose
+
+nustatytus kredito įstaigų veiklos riziką ribojančius normatyvus bei kitus
+
+reikalavimus; kredito įstaigų veiklos inspektavimas: tikrinimas, ar teisingai
+
+sudarytos Lietuvos bankui teiktos finansinės ataskaitos, taip pat kredito
+
+įstaigos veiklos bei finansinės būklės (kapitalo, aktyvų kokybės, pelningumo),
+
+turto ir įsipareigojimų valdymo bei vadovavimo kredito įstaigai efektyvumo
+
+vertinimas; ekonominių ir kitų teisės aktuose nustatytų poveikio priemonių
+
+taikymas kredito įstaigoms, kurios nevykdo teisės aktų reikalavimų dėl saugios
+
+ir patikimos veiklos.
+
+46
+
+straipsnis. Lietuvos banko teisės atliekant kredito įstaigų veiklos priežiūrą
+
+1. Lietuvos
+
+bankas, atlikdamas kredito įstaigų veiklos priežiūrą, turi teisę:
+
+1) gauti
+
+priežiūros funkcijai atlikti reikalingą informaciją iš valstybės institucijų,
+
+kredito įstaigų, jų dukterinių įmonių bei kitų įmonių, įstaigų, organizacijų;
+
+2) inspektuoti
+
+licenciją ar leidimą turinčias kredito įstaigas, tikrinti jų sąskaitas,
+
+buhalterinius ir kitus dokumentus;
+
+3) įstatymų
+
+numatytais atvejais ir tvarka taikyti poveikio priemones licenciją ar leidimą
+
+turinčioms kredito įstaigoms, jeigu jos pažeidė įstatymus bei Lietuvos banko
+
+teisės aktus, reglamentuojančius kredito įstaigų veiklą;
+
+4) imtis
+
+priemonių, reikalingų efektyviam kredito sistemos funkcionavimui užtikrinti.
+
+2. Informacija,
+
+kurią Lietuvos bankas gauna iš valstybės institucijų, kredito įstaigų, įmonių,
+
+įstaigų, organizacijų priežiūros tikslui, negali būti skelbiama viešai ar kam
+
+nors perduota, išskyrus valdymo, kontrolės ir teisėsaugos institucijas įstatymų
+
+numatytais atvejais.
+
+3. Kredito įstaigą
+
+inspektuojantys Lietuvos banko tarnautojai turi teisę gauti visus dokumentus ir
+
+informaciją, susijusią su kredito įstaigos ar jos dukterinės įmonės veikla bei
+
+finansine būkle.
+
+4. Lietuvos banko
+
+nustatyta tvarka Lietuvos banko tarnautojai turi teisę dalyvauti kredito
+
+įstaigos valdymo organų darbe – dalyvauti posėdžiuose stebėtojų teisėmis ar
+
+kitaip stebėti valdymo organų ir kredito įstaigų administracijos veiklą.
+
+47
+
+straipsnis. Bendradarbiavimas su kitų valstybių kredito įstaigų priežiūros
+
+institucijomis
+
+Atlikdamas
+
+kredito įstaigų licencijavimo ir priežiūros funkcijas, Lietuvos bankas turi
+
+teisę keistis su kitų valstybių kredito įstaigų priežiūros institucijomis
+
+informacija apie bet kurios kredito įstaigos veiklą, užtikrindamas tokios
+
+informacijos konfidencialumą. Gauta iš kitos kredito įstaigų priežiūros
+
+institucijos informacija, susijusi su nusikalstama veika, gali būti perduota įstatymų
+
+numatytais atvejais tik teismui, prokurorui, ikiteisminio tyrimo įstaigoms,
+
+taip pat valstybės kontrolės (priežiūros) institucijoms, jeigu jose dirbantys
+
+asmenys pagal jų veiklą reglamentuojančius teisės aktus gautą informaciją
+
+privalo laikyti paslaptyje ir yra užsienio valstybės kredito įstaigų priežiūros
+
+institucijos sutikimas informaciją atskleisti.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-1465,
+
+2003-04-03, Žin., 2003, Nr. 38-1710 (2003-04-24)
+
+AŠTUNTASIS
+
+SKIRSNIS
+
+LIETUVOS BANKO
+
+FINANSINĖ APSKAITA IR ATSKAITOMYBĖ
+
+48
+
+straipsnis. Lietuvos banko finansiniai metai
+
+Lietuvos banko
+
+finansiniai metai prasideda sausio mėnesio 1 dieną ir baigiasi gruodžio mėnesio
+
+31 dieną.
 
 38 straipsnis. Bendradarbiavimas su kitų valstybių kredito
 
@@ -3604,9 +3598,9 @@ savo
 
 bankas turi teisę be kredito įstaigos nurodymo nurašyti lėšas iš kredito
 
-įstaigos sąskaitų, jeigu ši įstaiga Lietuvos banko teisės aktuose ar sutartyse
+įstaigos sąskaitų, jeigu ši įstaiga Lietuvos banko teisės aktuose ar sutartyse numatytu
 
-numatytu laiku neįvykdo savo įsipareigojimų Lietuvos bankui.
+laiku neįvykdo savo įsipareigojimų Lietuvos bankui.
 
 2. Jeigu skolininkas sutartyje
 
@@ -3770,13 +3764,37 @@ BANKO ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 banko pelną.
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1465,
+
+2003-04-03, Žin., 2003, Nr. 38-1710 (2003-04-24)
+
+LIETUVOS
+
+BANKO ĮSTATYMO 47 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja kartu su Lietuvos
+
+Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+
+2003 m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-03-19)
+Aušrinė Trapinskienė (2003-05-12)
 
 autrap@lrs.lt
 
