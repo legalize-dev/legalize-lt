@@ -4,7 +4,7 @@ identifier: "TAR.AB0E44DE47D8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-01"
-last_updated: "2003-05-29"
+last_updated: "2004-11-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8"
 department: "Lietuvos Respublikos Seimas"
@@ -149,7 +149,7 @@ IX-1121,
 
 Nr. IX-1247,
 
-2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
 
 3 straipsnis. Įstatymo taikymas
 
@@ -169,19 +169,19 @@ organizacijoms, esančioms Lietuvos Respublikos teritorijoje, taip pat įmonėms
 
 įstaigoms, organizacijoms, kurių įstatinio kapitalo dalis priklauso užsienio
 
-investuotojui (bendroms įmonėms, įstaigoms, organizacijoms) ir kurios yra
+investuotojui (bendroms įmonėms, įstaigoms, organizacijoms) ir kurios yra Lietuvos
 
-Lietuvos Respublikos teritorijoje, jeigu kitaip nenumatyta tarptautinėse
+Respublikos teritorijoje, jeigu kitaip nenumatyta tarptautinėse sutartyse ar
 
-sutartyse ar šių įmonių, įstaigų, organizacijų steigimo dokumentuose.
+šių įmonių, įstaigų, organizacijų steigimo dokumentuose.
 
 2. Lietuvos Respublikos nuolatiniams
 
-gyventojams, kurių sveikata buvo sužalota arba kurie dėl to mirė ar susirgo
+gyventojams, kurių sveikata buvo sužalota arba kurie dėl to mirė ar susirgo profesine
 
-profesine liga dirbdami užsienyje esančiose įmonėse, žala atlyginama
+liga dirbdami užsienyje esančiose įmonėse, žala atlyginama tarptautinėse
 
-tarptautinėse sutartyse nustatyta tvarka.
+sutartyse nustatyta tvarka.
 
 ANTRASIS
 
@@ -267,9 +267,9 @@ ar jo dalies netekimu susijusią žalą, apskaičiuotą šio įstatymo nustatyta
 
 tvarka, taip pat atlyginti nukentėjusiajam kitus nuostolius (papildomas
 
-išlaidas), turėtus dėl sveikatos sužalojimo ar susirgimo profesine liga (pagerintas
+išlaidas), turėtus dėl sveikatos sužalojimo ar susirgimo profesine liga
 
-maitinimas, protezavimas, slauga, gydymo išlaidos ir kt.).
+(pagerintas maitinimas, protezavimas, slauga, gydymo išlaidos ir kt.).
 
 2. Šiame straipsnyje nurodytas žalos
 
@@ -349,7 +349,9 @@ tvarką nustato Pašalpos, darbuotojui žuvus dėl nelaimingo atsitikimo darbe,
 
 skyrimo nuostatai, kuriuos tvirtina Vyriausybė.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr.
 
@@ -453,11 +455,9 @@ kompensacija.
 
 2. Kompensuojamasis uždarbis
 
-apskaičiuojamas dauginant jų kompensavimo koeficientą (k) (šio įstatymo 2
+apskaičiuojamas dauginant jų kompensavimo koeficientą (k) (šio įstatymo 2 straipsnio
 
-straipsnio 11 dalis) iš draudžiamųjų pajamų (D) (šio įstatymo 2 straipsnio 10
-
-dalis),
+11 dalis) iš draudžiamųjų pajamų (D) (šio įstatymo 2 straipsnio 10 dalis),
 
 t. y. pagal formulę k x D.
 
@@ -535,9 +535,9 @@ darbingumo dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga asmuo
 
 turi teisę bet kada reikalauti, kad žalos atlyginimo mokėtojas atitinkamai
 
-padidintų žalos atlyginimą, jeigu VMSEK naujai nustato, kad jo netektas
+padidintų žalos atlyginimą, jeigu VMSEK naujai nustato, kad jo netektas darbingumas
 
-darbingumas padidėjo.
+padidėjo.
 
 18 straipsnis. Žalos atlyginimo
 
@@ -563,9 +563,7 @@ nukentėjusiojo pageidavimu sumoka visą žalos atlyginimą iš karto arba jį
 
 kapitalizuoja Civilinio kodekso 508 straipsnyje nustatyta tvarka.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr.
 
@@ -623,17 +621,17 @@ buvusioje valstybinėje įmonėje iki jos privatizavimo, atsižvelgdama į darbo
 
 sąlygas ir toje įmonėje dirbtą laiką. Kitą darbingumo netekimo dalį atlygina
 
-įmonė, kurioje darbas po įmonės privatizavimo turėjo įtakos susirgimui
+įmonė, kurioje darbas po įmonės privatizavimo turėjo įtakos susirgimui profesine
 
-profesine liga. Darbingumo netekimo dalį, kurios nukentėjusysis neteko
+liga. Darbingumo netekimo dalį, kurios nukentėjusysis neteko dirbdamas
 
-dirbdamas buvusioje valstybinėje įmonėje iki jos privatizavimo, nustato VMSEK.
+buvusioje valstybinėje įmonėje iki jos privatizavimo, nustato VMSEK. Kilus
 
-Kilus ginčui, darbingumo netekimo ir žalos atlyginimo dalis kiekvienu atveju
+ginčui, darbingumo netekimo ir žalos atlyginimo dalis kiekvienu atveju nustato
 
-nustato teismas;
+teismas;
 
-*4)
+4)
 
 kai nuolatinis Lietuvos Respublikos gyventojas, turintis teisę gauti žalos
 
@@ -648,10 +646,6 @@ atlyginimo mokėjimo prievolės perėjimo valstybei tvarką nustato Vyriausybė.
 Valstybė, atlyginusi žalą šio straipsnio 1 dalies 1 punkte nustatytais
 
 atvejais, turi atgręžtinio reikalavimo teisę į žalos atlyginimo mokėtoją.
-
-*Pastaba. Šios nuostatos
-
-taikomos nuo 2003 m. sausio 1 d.
 
 Įstatymas
 
@@ -681,9 +675,7 @@ IX-1540,
 
 2003-04-29, Žin., 2003, Nr. 47-2064 (2003-05-14)
 
-19 straipsnis. Laidojimo išlaidų
-
-atlyginimas
+19 straipsnis. Laidojimo išlaidų atlyginimas
 
 Jeigu dėl nelaimingo atsitikimo darbe
 
@@ -717,11 +709,13 @@ atlyginimą apskaičiuoja ir moka darbdaviai, įmonės, įstaigos, organizacijos
 
 ūkininkai, atsakingi už žalos atlyginimo mokėjimą.
 
-2. Žalos atlyginimas jo gavėjams
+2. Žalos atlyginimas jo gavėjams pristatomas,
 
-pristatomas, persiunčiamas ar pervedamas į jų sąskaitą bet kuriame Lietuvos
+persiunčiamas ar pervedamas į jų sąskaitą bet kuriame Lietuvos Respublikos
 
-Respublikos banke įmonės, ūkininko, privalančių mokėti šias išmokas, lėšomis.
+banke įmonės, ūkininko, privalančių mokėti šias išmokas, lėšomis.
+
+3 dalies redakcija iki 2005 m. sausio 1 d.:
 
 3. Kai žalos atlyginimą
 
@@ -734,6 +728,22 @@ atlyginimo mokėjimo prievolę vykdo Valstybinio socialinio draudimo fondo
 valdybos teritoriniai skyriai, žalos atlyginimo apskaičiavimo ir mokėjimo
 
 kontrolę vykdo Valstybinio socialinio draudimo fondo valdyba.
+
+3 dalies redakcija nuo 2005 m. sausio 1 d.:
+
+3. Kai
+
+žalos atlyginimą moka darbdaviai, įmonės, įstaigos, organizacijos, ūkininkai,
+
+žalos atlyginimo apskaičiavimą ir mokėjimą kontroliuoja Valstybinė darbo
+
+inspekcija. Kai žalos atlyginimo mokėjimo prievolę vykdo Valstybinio socialinio
+
+draudimo fondo valdybos teritoriniai skyriai, žalos atlyginimo apskaičiavimo ir
+
+mokėjimo kontrolę vykdo Valstybinio socialinio draudimo fondo valdyba prie Socialinės
+
+apsaugos ir darbo ministerijos.
 
 Straipsnio
 
@@ -748,6 +758,10 @@ Nr.
 IX-1121,
 
 2002-10-08, Žin., 2002, Nr. 102-4546 (2002-10-25)
+
+Nr. IX-2540,
+
+2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
 
 21 straipsnis. Kreipimosi dėl žalos
 
