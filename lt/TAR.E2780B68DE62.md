@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2001-12-20"
+last_updated: "2003-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -457,11 +457,23 @@ pagal savo kompetenciją organizuoja ir koordinuoja mokslo tyrimus, susijusius
 
 su gamtos ištekliais ir jų naudojimu bei aplinkos apsauga;
 
+5 dalies 14 punkto redakcija
+
+iki 2004 m. sausio 1 d.:
+
 14)
 
 nustatyta tvarka formuoja valstybinį gamtos apsaugos fondą ir disponuoja jo
 
 lėšomis;
+
+5 dalies 14 punkto redakcija
+
+nuo 2004 m. sausio 1 d.:
+
+14) nustatyta tvarka naudoja Aplinkos apsaugos rėmimo
+
+programos lėšas;
 
 15)
 
@@ -525,9 +537,7 @@ klausimais įgyvendinimą:
 
 1)
 
-valdo, naudoja ir saugo joms priskirtus gamtos išteklius ir aplinkosaugos
-
-objektus;
+valdo, naudoja ir saugo joms priskirtus gamtos išteklius ir aplinkosaugos objektus;
 
 2)
 
@@ -539,11 +549,23 @@ rengia, tvirtina ir įgyvendina savivaldybių aplinkos apsaugos ir gamtos
 
 išteklių naudojimo programas, schemas ir kitas aplinkos apsaugos priemones;
 
+7 dalies 4 punkto redakcija
+
+iki 2004 m. sausio 1 d.:
+
 4)
 
 formuoja savivaldybės gamtos apsaugos fondą ir disponuoja juo, tvirtina
 
 asignavimus aplinkos apsaugai;
+
+7 dalies 4 punkto redakcija
+
+nuo 2004 m. sausio 1 d.:
+
+4) nustatyta tvarka naudoja Savivaldybių aplinkos apsaugos
+
+rėmimo specialiosios programos lėšas, tvirtina asignavimus aplinkos apsaugai;
 
 5)
 
@@ -591,17 +613,21 @@ Nr. I-1352,
 
 Nr.
 
-IX-677, 2001-12-20,
+IX-677,
 
-Žin., 2002, Nr. 2-49 (2002-01-09)
+2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
+
+Nr.
+
+IX-1610,
+
+2003-06-10, Žin., 2003, Nr. 61-2763 (2003-06-27)
 
 II SKYRIUS. LIETUVOS RESPUBLIKOS PILIEČIŲ,
 
 VISUOMENINIŲ ORGANIZACIJŲ, KITŲ JURIDINIŲ IR FIZINIŲ ASMENŲ TEISĖS IR PAREIGOS
 
-Skyriaus pavadinimas
-
-pakeistas:
+Skyriaus pavadinimas keistas:
 
 Nr.
 
@@ -1169,9 +1195,9 @@ pareigos
 
 Piliečiai, visuomeninės organizacijos, kiti juridiniai
 
-ir fiziniai asmenys privalo saugoti aplinką, tausoti gamtos išteklius ir
+ir fiziniai asmenys privalo saugoti aplinką, tausoti gamtos išteklius ir nepažeisti
 
-nepažeisti kitų gamtos išteklių naudotojų teisių bei interesų.
+kitų gamtos išteklių naudotojų teisių bei interesų.
 
 Straipsnio pakeitimai:
 
@@ -1251,9 +1277,9 @@ gamtinis karkasas.
 
 Saugomų
 
-teritorijų apsaugą ir gamtos išteklių naudojimą jose reglamentuoja Lietuvos Respublikos
+teritorijų apsaugą ir gamtos išteklių naudojimą jose reglamentuoja Lietuvos
 
-saugomų teritorijų įstatymas,kiti įstatymai ir teisės aktai.
+Respublikos saugomų teritorijų įstatymas,kiti įstatymai ir teisės aktai.
 
 Straipsnio pakeitimai:
 
@@ -1339,9 +1365,9 @@ veikla planuojama ir vykdoma remiantis šiuo ir kitais įstatymais, norminiais
 
 aktais, aplinkos monitoringo, valstybinės gamtos išteklių apskaitos duomenimis,
 
-aplinkos apsaugos programomis bei schemomis, kraštotvarkos projektais bei generaliniais
+aplinkos apsaugos programomis bei schemomis, kraštotvarkos projektais bei
 
-planais atsižvelgiant į Lietuvos Respublikos gamtos potencialą.
+generaliniais planais atsižvelgiant į Lietuvos Respublikos gamtos potencialą.
 
 Juridiniai ir fiziniai asmenys, planuojantys užsiimti
 
@@ -1467,9 +1493,9 @@ priemones.
 
 Priimant
 
-pastatytus, rekonstruotus, išplėstus ūkinės veiklos objektus, dalyvauja Aplinkos
+pastatytus, rekonstruotus, išplėstus ūkinės veiklos objektus, dalyvauja
 
-apsaugos ministerijos sistemos pareigūnai arba pateikiamos jų išvados.
+Aplinkos apsaugos ministerijos sistemos pareigūnai arba pateikiamos jų išvados.
 
 Straipsnio pakeitimai:
 
@@ -1515,13 +1541,11 @@ tvarka vykdyti gamtos išteklių naudojimo ir teršalų emisijos apskaitą.
 
 Juridiniai
 
-ir fiziniai asmenys, eksploatuojantys ūkinės veiklos objektus, kuriems
+ir fiziniai asmenys, eksploatuojantys ūkinės veiklos objektus, kuriems nereikalingas
 
-nereikalingas gamtos išteklių naudojimo ir teršalų emisijos į aplinką leidimas,
+gamtos išteklių naudojimo ir teršalų emisijos į aplinką leidimas, privalo
 
-privalo laikytis tokiems objektams nustatytų aplinkos apsaugos normatyvų ir
-
-standartų.
+laikytis tokiems objektams nustatytų aplinkos apsaugos normatyvų ir standartų.
 
 Straipsnio pakeitimai:
 
@@ -1537,11 +1561,13 @@ Juridiniai
 
 ir fiziniai asmenys, naudodami pavojingas chemines medžiagas, privalo laikytis
 
-nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo, nukenksminimo,
+nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo,
 
-transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios medžiagos
+nukenksminimo, transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios
 
-saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo lėšomis.
+medžiagos saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo
+
+lėšomis.
 
 Pavojingų
 
@@ -2361,7 +2387,9 @@ valdymą reglamentuoja, taip pat šių organizmų ir produktų naudotojų teises
 
 pareigas ir atsakomybę nustato Genetiškai modifikuotų organizmų įstatymas.
 
-Įstatymo papildymas straipsniu:
+Įstatymo papildymas
+
+straipsniu:
 
 Nr.
 
@@ -2483,13 +2511,13 @@ likviduoja padarinius, vykdo kitas nustatyto režimo priemones.
 
 Lietuvos
 
-Respublikos Vyriausybė, apskrities viršininkas ar vietos savivaldos
+Respublikos Vyriausybė, apskrities viršininkas ar vietos savivaldos institucijos
 
-institucijos turi teisę pasitelkti specialiąsias tarnybas, organizacijas bei
+turi teisę pasitelkti specialiąsias tarnybas, organizacijas bei gyventojus
 
-gyventojus ekologinių nelaimių priežastims ir padariniams likviduoti, priimti
+ekologinių nelaimių priežastims ir padariniams likviduoti, priimti sprendimus
 
-sprendimus dėl gyventojų evakuacijos.
+dėl gyventojų evakuacijos.
 
 Ekologinių
 
@@ -2557,9 +2585,9 @@ Lietuvos
 
 Respublikoje nustatomi teršalų koncentracijos aplinkoje bei atskiruose aplinkos
 
-komponentuose, teršalų emisijos į aplinką, cheminių ir kitokių aplinkai pavojingų
+komponentuose, teršalų emisijos į aplinką, cheminių ir kitokių aplinkai
 
-medžiagų naudojimo, gamtos išteklių naudojimo, triukšmo, vibracijos,
+pavojingų medžiagų naudojimo, gamtos išteklių naudojimo, triukšmo, vibracijos,
 
 elektromagnetinių laukų ir kitokio poveikio, radiacinio saugumo, bendrosios
 
@@ -2863,11 +2891,27 @@ apsaugai skiriamos valstybės biudžeto lėšos naudojamos pagal Lietuvos
 
 Respublikos Vyriausybės nustatytas prioritetines kryptis ir programas.
 
+3 dalies redakcija iki 2004 m.
+
+sausio 1 d.:
+
 Aplinkos apsaugos rėmimo programos lėšos ir
 
 savivaldybių gamtos apsaugos fondai yra papildomi aplinkos apsaugos finansavimo
 
 šaltiniai. Papildomas finansavimo šaltinis gali būti užsienio kreditai.
+
+3 dalies redakcija nuo 2004 m.
+
+sausio 1 d.:
+
+Aplinkos apsaugos rėmimo programos lėšos ir
+
+Savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšos yra
+
+papildomi aplinkos apsaugos finansavimo šaltiniai. Papildomas finansavimo
+
+šaltinis gali būti užsienio kreditai.
 
 Aplinkos apsaugos rėmimo programos lėšas bei jų
 
@@ -2884,6 +2928,12 @@ Nr. I-1352,
 Nr. VIII-2026, 00.10.12, Žin., 2000,
 
 Nr.90-2773 (00.10.27), įsigalioja nuo 2001.01.01
+
+Nr.
+
+IX-1610,
+
+2003-06-10, Žin., 2003, Nr. 61-2763 (2003-06-27)
 
 VII SKYRIUS. APLINKOS APSAUGOS VALSTYBINĖ KONTROLĖ
 
@@ -2927,11 +2977,11 @@ apsaugos normatyvų, taisyklių, limitų ir kitų nustatytų sąlygų;
 
 pateikę tarnybinį pažymėjimą, netrukdomi įeiti (įvažiuoti) į visų įmonių,
 
-įstaigų, organizacijų, ūkių, karinių dalinių, pasienio ruožo teritorijas ir objektus,
+įstaigų, organizacijų, ūkių, karinių dalinių, pasienio ruožo teritorijas ir
 
-kad vykdytų juose valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo
+objektus, kad vykdytų juose valstybinę aplinkos apsaugos ir gamtos išteklių
 
-kontrolę ir atliktų kontrolinius tyrimus bei matavimus;
+naudojimo kontrolę ir atliktų kontrolinius tyrimus bei matavimus;
 
 3)
 
@@ -3101,9 +3151,9 @@ Lietuvos
 
 Respublika, vadovaudamasi visuotinai pripažintais ir skelbiamais tarptautiniais
 
-aplinkos apsaugos principais, sudaro tarptautines sutartis aplinkos apsaugos
+aplinkos apsaugos principais, sudaro tarptautines sutartis aplinkos apsaugos klausimais,
 
-klausimais, dalyvauja tarptautinių aplinkos apsaugos organizacijų veikloje.
+dalyvauja tarptautinių aplinkos apsaugos organizacijų veikloje.
 
 Bendradarbiaudama su kitomis valstybėmis aplinkos
 
@@ -3499,9 +3549,11 @@ Vilnius,
 
 1992 m. sausio 21 d.
 
-Nr.I-2223
+Nr.
 
-__________
+I-2223
+
+______________________
 
 Pakeitimai:
 
@@ -3567,9 +3619,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-677,
+IX-677, 2001-12-20,
 
-2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
+Žin., 2002, Nr. 2-49 (2002-01-09)
 
 APLINKOS
 
@@ -3577,13 +3629,29 @@ APSAUGOS ĮSTATYMO 1, 4, 6, 7, 8, 9, 23 STRAIPSNIŲ, II SKYRIAUS PAVADINIMO
 
 PAKEITIMO IR ĮSTATYMO PAPILDYMO 22(1) STRAIPSNIU ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1610,
+
+2003-06-10, Žin., 2003, Nr. 61-2763 (2003-06-27)
+
+APLINKOS
+
+APSAUGOS ĮSTATYMO 6 IR 30 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-01-16)
+Aušrinė Trapinskienė (2003-07-02)
 
 autrap@lrs.lt
 
