@@ -4,7 +4,7 @@ identifier: "TAR.CDC433E7BED2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-07"
-last_updated: "1999-07-07"
+last_updated: "2002-10-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2"
 department: "Lietuvos Respublikos Seimas"
@@ -17,143 +17,179 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1996
 
-Redagavo:
-
-Ramunė Lūžaitė (1999.08.24)
-
 Įstatymas
 
-paskelbtas: Žin., 1993, Nr.28-640
+skelbtas: Žin., 1993, Nr. 28-640
 
 Neoficialus
 
 įstatymo tekstas
 
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-I-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
-
-DĖL
-
-UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO PAKEITIMO IR PAPILDYMO
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-I-1260, 96.03.28, Žin., 1996, Nr. 35-867 (96.04.19)
-
 LIETUVOS
 
-RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 IR 5 STRAIPSNIŲ
+RESPUBLIKOS
 
-PAKEITIMO ĮSTATYMAS
+UŽSIENIO
 
-3.
+VALIUTOS LIETUVOS RESPUBLIKOJE
+
+ĮSTATYMAS
+
+1993 m. liepos 7 d.
+
+Nr. I-202
+
+Vilnius
+
+1
+
+straipsnis. Užsienio valiutos sąvoka
+
+Užsienio valiuta - tai bet
+
+kurios užsienio valstybės ar užsienio valstybių bendrai naudojama valiuta.
+
+2
+
+straipsnis. Užsienio valiutos sąskaitos
 
 Lietuvos
 
-Respublikos Seimas, Įstatymas
+Respublikos ir užsienio valstybių fiziniai ir juridiniai asmenys turi teisę
 
-Nr.
+atidaryti užsienio valiutos sąskaitas ir laikyti indėlius Lietuvos Respublikos
 
-I-1617, 96.11.14, Žin., 1996, Nr.116-2692 (96.12.04)
+kredito įstaigose ir užsienio valstybių kredito įstaigų skyriuose,
 
-LIETUVOS
-
-RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO
-
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-4.
+veikiančiuose Lietuvos Respublikoje.
 
 Lietuvos
 
-Respublikos Seimas, Įstatymas
+Respublikos fiziniai ir juridiniai asmenys turi teisę atidaryti užsienio
+
+valiutos sąskaitas ir laikyti indėlius užsienio valstybėse tose valstybėse
+
+nustatyta tvarka.
+
+Lietuvos Respublikos fiziniai ir juridiniai asmenys
+
+informaciją apie užsienio valstybėse atidarytas ir uždarytas sąskaitas praneša
+
+Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos
+
+Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“
+
+Straipsnio
+
+pakeitimai:
 
 Nr.
 
-VIII-552, 97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
+VIII-552,
 
-LIETUVOS
+97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
 
-RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 2, 3, 6 STRAIPSNIŲ
+Nr. IX-1140,
 
-PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+2002-10-22, Žin., 2002, Nr. 105-4687 (2002-11-06)
 
-5.
+3
 
-Lietuvos Respublikos
+straipsnis. Užsienio valiutos keitimas ir naudojimas
 
-Seimas, Įstatymas
+Litus į užsienio
+
+valiutą, užsienio valiutą į litus ar vieną užsienio valiutą į kitą užsienio
+
+valiutą keičia (perka, parduoda) tik kredito įstaigos, turinčios tokiai veiklai
+
+įstatymų nustatyta tvarka išduotus leidimus (licencijas).
+
+Lietuvos bankas
+
+gali nustatyti užsienio valiutos keitimo (pirkimo, pardavimo) tvarką.
+
+Užsienio valiuta
+
+gali būti naudojama tik šalių susitarimu mokėjimams ir atsiskaitymams
+
+negrynaisiais pinigais, o Europos Sąjungos valiuta euras – ir grynaisiais
+
+pinigais.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-451, 94.04.28,
+
+Žin., 1994, Nr. 34-622 (94.05.06)
+
+Nr.
+
+I-1260,
+
+96.03.28, Žin., 1996, Nr. 35-867 (96.04.19)
+
+Nr.
+
+I-1617,
+
+96.11.14, Žin., 1996, Nr.116-2692 (96.12.04)
+
+Nr.
+
+VIII-552,
+
+97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
+
+Nr.
+
+VIII-1154,
+
+99.04.22, Žin., 1999, Nr.39-1201 (99.05.05)
+
+Nr. IX-1140,
+
+2002-10-22, Žin., 2002, Nr. 105-4687 (2002-11-06)
+
+4
+
+straipsnis. Užsienio paskolos
+
+Valstybės vardu ir su valstybės
+
+garantija gaunamos užsienio paskolos turi būti įregistruojamos Lietuvos
+
+Respublikos finansų ministerijoje Lietuvos Respublikos Vyriausybės nustatyta
+
+tvarka.
+
+Lietuvos Respublikos juridinių
+
+asmenų ir įmonių, neturinčių juridinio asmens teisių, gaunamos užsienio
+
+paskolos be valstybės garantijos ir užsienio ūkio subjektams suteikiamos
+
+paskolos turi būti įregistruojamos Lietuvos banke Lietuvos banko nustatyta
+
+tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-451, 94.04.28,
+
+Žin., 1994, Nr. 34-622 (94.05.06)
 
 Nr. VIII-1115,
 
 99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
-
-LIETUVOS RESPUBLIKOS
-
-UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 4 IR 7 STRAIPSNIØ PAKEITIMO
-
-ĮSTATYMAS
-
-6.
-
-Lietuvos Respublikos
-
-Seimas, Įstatymas
-
-Nr.
-
-VIII-1154, 99.04.22, Žin., 1999, Nr.39-1201 (99.05.05)
-
-LIETUVOS
-
-RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO
-
-PAPILDYMO ĮSTATYMAS
-
-7.
-
-Lietuvos Respublikos
-
-Seimas, Įstatymas
-
-Nr.
-
-VIII-1307, 99.07.07, Žin., 1999, Nr.66-2124 (99.07.30)
-
-LIETUVOS
-
-RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 5 STRAIPSNIO
-
-PAKEITIMO ĮSTATYMAS
-
-***
-
-Pabaiga ***
-
-LIETUVOS RESPUBLIKOS
-
-UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE
-
-ĮSTATYMAS
-
-1993 m. liepos 7 d. Nr.I-202
-
-Vilnius
 
 1 straipsnis.
 
@@ -299,17 +335,13 @@ Nr. VIII-1115,
 
 99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
 
-5 straipsnis. Kapitalo
+5 straipsnis. Kapitalo įvežimas ir išvežimas
 
-įvežimas ir išvežimas
+Užsienio kapitalo, investuojamo Lietuvos Respublikoje, įvežimą, taip pat
 
-Užsienio kapitalo, investuojamo Lietuvos
+šio kapitalo, gauto pelno ir dividendų išvežimą nustato Lietuvos Respublikos investicijų įstatymas ir Lietuvos
 
-Respublikoje, įvežimą, taip pat šio kapitalo, gauto pelno ir dividendų išvežimą
-
-nustato Lietuvos Respublikos investicijų įstatymas ir Lietuvos Respublikos
-
-laisvųjų ekonominių zonų pagrindų įstatymas.
+Respublikos laisvųjų ekonominių zonų pagrindų įstatymas.
 
 Straipsnio
 
@@ -317,11 +349,247 @@ pakeitimai:
 
 Nr.
 
-I-1260, 96.03.28, Žin., 1996, Nr. 35-867 (96.04.19)
+I-1260,
+
+96.03.28, Žin., 1996, Nr. 35-867 (96.04.19)
 
 Nr.
 
-VIII-1307, 99.07.07, Žin., 1999, Nr.66-2124 (99.07.30)
+VIII-1307,
+
+99.07.07, Žin., 1999, Nr.66-2124 (99.07.30)
+
+6
+
+straipsnis. Lito kursas tvarkant apskaitą
+
+Visos įmonės, įstaigos,
+
+organizacijos, bankai ir kredito unijos privalo tvarkyti apskaitą pagal oficialų
+
+lito kursą ir Lietuvos banko skelbiamą lito ir užsienio valiutos santykį.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-451, 94.04.28,
+
+Žin., 1994, Nr. 34-622 (94.05.06)
+
+Nr.
+
+VIII-552,
+
+97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
+
+7
+
+straipsnis. Atsakomybė už įstatymo pažeidimą
+
+Asmenys už užsienio valiutos
+
+naudojimo, operacijų, įvežimo ir išvežimo, taip pat už užsienio paskolų
+
+registravimo tvarkos pažeidimus atsako pagal Lietuvos Respublikos įstatymus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-1115,
+
+99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
+
+8
+
+straipsnis. Baigiamieji nuostatai
+
+Visų nuosavybės formų įmonės,
+
+įstaigos, organizacijos, bankai, draudimo organizacijos perrašo į litus
+
+įstatinio kapitalo dalį, turimą užsienio valiuta, taip pat akcijas, dividendus,
+
+tantjemas, draudimo atlyginimą, draudimo sumas ir kitas išmokas 1993 m. rugpjūčio 1 dienos duomenimis pagal Lietuvos banko nustatytą oficialų kursą arba kita
+
+Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1140,
+
+2002-10-22, Žin., 2002, Nr. 105-4687 (2002-11-06)
+
+9
+
+straipsnis. Įstatymo įsigaliojimas
+
+Įstatymas įsigalioja 1993 m. rugpjūčio 1 dieną.
+
+Skelbiu šį Lietuvos
+
+Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS
+
+ALGIRDAS BRAZAUSKAS
+
+_______________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-451, 94.04.28,
+
+Žin., 1994, Nr. 34-622 (94.05.06)
+
+DĖL
+
+UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO PAKEITIMO IR PAPILDYMO
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-1260,
+
+96.03.28, Žin., 1996, Nr. 35-867 (96.04.19)
+
+LIETUVOS
+
+RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 IR 5 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-1617,
+
+96.11.14, Žin., 1996, Nr.116-2692 (96.12.04)
+
+LIETUVOS
+
+RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-552,
+
+97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
+
+LIETUVOS
+
+RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 2, 3, 6 STRAIPSNIŲ
+
+PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-1115,
+
+99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
+
+LIETUVOS
+
+RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 4 IR 7 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-1154,
+
+99.04.22, Žin., 1999, Nr.39-1201 (99.05.05)
+
+LIETUVOS RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS
+
+RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-1307,
+
+99.07.07, Žin., 1999, Nr.66-2124 (99.07.30)
+
+LIETUVOS
+
+RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 5 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1140,
+
+2002-10-22, Žin., 2002, Nr. 105-4687 (2002-11-06)
+
+UŽSIENIO
+
+VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO IR 8
+
+STRAIPSNIO 2 DALIES PRIPAŽINIMO NETEKUSIA GALIOS ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2002-11-06)
+
+autrap@lrs.lt
 
 6 straipsnis.
 
