@@ -4,7 +4,7 @@ identifier: "TAR.FA02D1C47E3D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-03-22"
-last_updated: "1990-04-11"
+last_updated: "1990-07-17"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Suvestinė redakcija nuo 1990-04-11 iki 1990-07-16
+Suvestinė redakcija nuo 1990-07-17 iki 1990-10-26
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
 
@@ -207,7 +207,11 @@ Lietuvos Respublikos Vyriausybė:
 
 8) koordinuoja ekonominį bendradarbiavimą su Baltijos bei kitomis valstybėmis;
 
-9) tvarko valstybinį gamtos išteklių fondą, nustato gamtonaudos limitus ir normatyvus.
+9) pagal nustatytus limitus ir normatyvus tvarko valstybinį gamtos išteklių fondą
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-382, 1990-07-17, Lietuvos aidas, 1990, Nr. 45-0 (1990-07-25); Žin., 1990, Nr. 21-529 (1990-07-31), i. k. 0901010ISTA000I-382
 
 16 straipsnis. Pagrindiniai Lietuvos Respublikos Vyriausybės įgaliojimai teisėtumo užtikrinimo srityje
 
@@ -249,7 +253,11 @@ Lietuvos Respublikos Vyriausybė pagal savo įgaliojimus:
 
 3) kartu su vietos savivaldybės valdymo organais organizuoja valstybinės reikšmės objektų (gamybinės infrastruktūros) valdymą;
 
-4) nustato bendrąsias socialinio aprūpinimo, sveikatos apsaugos, liaudies švietimo ir kultūros , gamtos plėtojimo kryptis.
+4) nustato bendrąsias socialinio aprūpinimo, sveikatos apsaugos, liaudies švietimo ir kultūros plėtojimo kryptis
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-382, 1990-07-17, Lietuvos aidas, 1990, Nr. 45-0 (1990-07-25); Žin., 1990, Nr. 21-529 (1990-07-31), i. k. 0901010ISTA000I-382
 
 20 straipsnis. Vadovavimas Lietuvos Respublikos ministerijoms ir kitiems Lietuvos Respublikos Vyriausybei pavaldiems organams
 
@@ -394,6 +402,14 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-139, 1990-04-11, Lietuvos aidas, 1990, Nr. 19-0 (1990-04-18); Žin., 1990, Nr. 12-368 (1990-04-30), i. k. 0901010ISTA000I-139
 
 Dėl Lietuvos Respublikos Vyriausybės įstatymo papildymo
+
+3.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-382, 1990-07-17, Lietuvos aidas, 1990, Nr. 45-0 (1990-07-25); Žin., 1990, Nr. 21-529 (1990-07-31), i. k. 0901010ISTA000I-382
+
+Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo
 
 61 straipsnis. Lietuvos Respublikos vyriausybės prisaikdinimas
 
