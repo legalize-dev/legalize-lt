@@ -4,7 +4,7 @@ identifier: "TAR.CFCEE0DB5FF2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-12"
-last_updated: "1997-07-09"
+last_updated: "2000-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CFCEE0DB5FF2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 1997-07-09 iki 2000-10-31
+Suvestinė redakcija nuo 2000-11-01 iki 2001-12-29
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2143, i. k. 0961010ISTA00I-1516
 
@@ -137,7 +137,11 @@ Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010IS
 
 10) nustato zonos valdymo bendrovės iškvietimų užsienio šalių piliečiams ir asmenims be pilietybės, nuolat gyvenantiems užsienyje, norintiems atvykti į zoną, bei tarpininkavimo dėl vizų užsieniečiams vykti per Lietuvos Respublikos teritoriją nuo sienos perėjimo punktų iki zonos teritorijos išdavimo tvarką;
 
-11) suderinusi su Pasienio policijos departamentu prie Vidaus reikalų ministerijos bei Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į zoną tvarką bei tvirtina leidimų pavyzdžius.
+11) suderinusi su Valstybės sienos apsaugos tarnyba bei Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į zoną tvarką bei tvirtina leidimų pavyzdžius.
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, Nr. 95-0 (2000-11-08); Žin., 2000, Nr. 96-0 (2000-11-10), i. k. 1001010ISTAIII-2005
 
 8. Zonos valdybos bendrovės administracija organizuoja ir vykdo zonos veiklą pagal valdybos patvirtintą darbo reglamentą.
 
@@ -149,7 +153,11 @@ Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010IS
 
 3) sudaro savitarpio paslaugų teikimo sutartis su zonos įmonėmis pagal valdybos nustatytas finansines ir kitas sąlygas;
 
-4) išduoda zonos valdymo bendrovės valdybos nustatyto bei su Pasienio policijos departamentu ir Muitinės departamentu patvirtinto pavyzdžio leidimus įeiti į zoną;
+4) išduoda zonos valdymo bendrovės valdybos nustatyto bei su Valstybės sienos apsaugos tarnyba ir Muitinės departamentu patvirtinto pavyzdžio leidimus įeiti į zoną;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, Nr. 95-0 (2000-11-08); Žin., 2000, Nr. 96-0 (2000-11-10), i. k. 1001010ISTAIII-2005
 
 5) užtikrina, kad zonoje registruoti ūkio subjektai laikytųsi zonos statuto, nesiverstų veikla, draudžiama Lietuvos Respublikos įstatymų, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Aplinkos apsaugos įstatymo ir kitų teisės aktų aplinkos apsaugos srityje reikalavimų;
 
@@ -200,4 +208,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010ISTAVIII-330
 
 Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 6 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, Nr. 95-0 (2000-11-08); Žin., 2000, Nr. 96-0 (2000-11-10), i. k. 1001010ISTAIII-2005
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 7 straipsnio pakeitimo įstatymas
 
