@@ -4,7 +4,7 @@ identifier: "TAR.C40F7F89A7C3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-02"
-last_updated: "2004-04-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C40F7F89A7C3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas
 
-Suvestinė redakcija nuo 2004-04-01 iki 2007-06-22
+Suvestinė redakcija nuo 2005-01-01 iki 2007-06-22
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 46-1116, i. k. 0961010ISTA00I-1324
 
@@ -52,7 +52,11 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 5. Nuolatinė įrenginių priežiūra – įrenginių naudojimo ir priežiūros teisės norminiuose aktuose, gamintojo pateiktuose įrenginių techniniuose dokumentuose nurodyti įrenginių savininkams privalomi nuolatiniai naudojamų įrenginių techninės būklės tikrinimai, apžiūros, remontas bei kiti veiksmai.
 
-6. Įgaliota įrenginių techninės būklės tikrinimo įstaiga (toliau – įgaliota įstaiga) – pagal Viešųjų įstaigų įstatymą veikianti viešoji įstaiga, kuriai valstybės institucija suteikė įgaliojimus tikrinti įrenginių techninę būklę ir į kurios kolegialų valdymo organą (tarybą ar (ir) valdybą) įeina viešosios įstaigos dalininkai (savininkas), valstybės institucijos, suteikusios įgaliojimus tikrinti įrenginių techninę būklę, bei įrenginių savininkų atstovas (atstovai).
+6. Įgaliota įrenginių techninės būklės tikrinimo įstaiga (toliau – įgaliota įstaiga) – pagal Viešųjų įstaigų įstatymą veikianti akredituota viešoji įstaiga, kuriai valstybės institucija suteikė įgaliojimus tikrinti įrenginių techninę būklę ir į kurios kolegialų valdymo organą (tarybą ar (ir) valdybą) įeina viešosios įstaigos dalininkai (savininkas), valstybės institucijos, suteikusios įgaliojimus tikrinti įrenginių techninę būklę, bei įrenginių savininkų atstovas (atstovai).
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
 
 7. Įrenginio savininkas – juridinis ar fizinis asmuo, kuriam įrenginys priklauso nuosavybės teise, arba įrenginio valdytojas, kuris valdo, naudoja įrenginį bei juo disponuoja turto patikėjimo teise.
 
