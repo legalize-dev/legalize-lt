@@ -4,7 +4,7 @@ identifier: "TAR.F0E2E67B1F2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-03-19"
-last_updated: "2003-04-01"
+last_updated: "2003-12-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2003-04-01 iki 2003-12-04
+Suvestinė redakcija nuo 2003-12-05 iki 2004-10-25
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
 
@@ -350,11 +350,15 @@ TURISTŲ APGYVENDINIMO PASLAUGOS
 
 14 straipsnis. Kaimo turizmo paslauga
 
-1. Kaimo turizmo paslauga – kaimo gyvenamojoje vietovėje ar mieste, kuriame gyvena ne daugiau kaip 3000 gyventojų, ūkininko sodyboje ar individualiame gyvenamajame pastate teikiama turizmo paslauga, kurios teikėjai privalo:
+1. Kaimo turizmo paslauga – kaimo gyvenamojoje vietovėje ar mieste, kuriame gyvena ne daugiau kaip 3000 gyventojų, ūkininko sodyboje ar individualiame gyvenamajame pastate teikiama specialaus apgyvendinimo paslauga, kurios teikėjai privalo:
 
 1) turėti turistams apgyvendinti pritaikytą sodybą ar atskirus pastatus, kuriuose apgyvendinimui skirtų kambarių (numerių) yra ne daugiau kaip 20;
 
 2) sudaryti kaimo turizmo paslaugos teikimo reikalavimus atitinkančias sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1854, 2003-11-25, Žin., 2003, Nr. 114-5119 (2003-12-05), i. k. 1031010ISTA0IX-1854
 
 2. Fiziniai asmenys gali teikti kaimo turizmo paslaugas tik turėdami savivaldybės išduotą pažymėjimą, patvirtinantį, kad kaimo turizmo paslaugos teikimo reikalavimai įvykdyti.
 
@@ -364,11 +368,15 @@ TURISTŲ APGYVENDINIMO PASLAUGOS
 
 15 straipsnis. Nakvynės ir pusryčių paslauga
 
-1. Nakvynės ir pusryčių paslauga – apgyvendinimo paslauga, įskaitant pusryčius, kurios teikėjai privalo:
+1. Nakvynės ir pusryčių paslauga – specialaus apgyvendinimo paslauga, įskaitant pusryčius, kurios teikėjai privalo:
 
 1) turėti turistams apgyvendinti pritaikytas gyvenamąsias patalpas ar atskirus pastatus, kuriuose apgyvendinimui skirtų kambarių (numerių) yra ne daugiau kaip 10;
 
 2) sudaryti nakvynės ir pusryčių paslaugos teikimo reikalavimus atitinkančias sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1854, 2003-11-25, Žin., 2003, Nr. 114-5119 (2003-12-05), i. k. 1031010ISTA0IX-1854
 
 2. Fiziniai asmenys gali teikti nakvynės ir pusryčių paslaugas tik turėdami savivaldybės išduotą pažymėjimą, patvirtinantį, kad nakvynės ir pusryčių paslaugos teikimo reikalavimai įvykdyti.
 
@@ -557,6 +565,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1211, 2002-12-03, Žin., 2002, Nr. 123-5507 (2002-12-24), i. k. 1021010ISTA0IX-1211
 
 Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1854, 2003-11-25, Žin., 2003, Nr. 114-5119 (2003-12-05), i. k. 1031010ISTA0IX-1854
+
+Lietuvos Respublikos turizmo įstatymo 14 ir 15 straipsnių pakeitimo įstatymas
 
 25 straipsnis. Apskrities viršininko kompetencija plėtojant turizmą
 
