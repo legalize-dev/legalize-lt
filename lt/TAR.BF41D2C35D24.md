@@ -4,7 +4,7 @@ identifier: "TAR.BF41D2C35D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-11"
-last_updated: "1995-05-26"
+last_updated: "1997-10-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių įstatymas
+
+Suvestinė redakcija nuo 1997-10-24 iki 2002-10-22
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
 
 LIETUVOS RESPUBLIKOS
 
@@ -92,9 +96,11 @@ KELIŲ TIESIMAS IR PRIEŽIŪRA
 
 8 straipsnis.
 
-Projektuoti ir tiesti valstybės kelius gali tik ūkio subjektai, turintys Susisiekimo ministerijos išduotą leidimą (licenciją) užsiimti šia veikla.
+Keliai projektuojami remiantis patvirtintais teritorinio planavimo dokumentais, o tiesiami pagal nustatyta tvarka patvirtintus projektus. Kelių tiesimo ir taisymo projektai rengiami vadovaujantis Lietuvos Respublikos įstatymais, normatyviniais statybos dokumentais.
 
-Keliai projektuojami remiantis patvirtintais teritorinio planavimo dokumentais, o tiesiami pagal nustatyta tvarka patvirtintus projektus. Kelių tiesimo ir taisymo projektai rengiami vadovaujantis Lietuvos Respublikos įstatymais, Lietuvos kelių projektavimo normomis ir taisyklėmis.
+Straipsnio pakeitimai:
+
+Nr. VIII-426, 1997-09-25, Žin., 1997, Nr. 96-2424 (1997-10-24), i. k. 0971010ISTAVIII-426
 
 9 straipsnis.
 
@@ -140,7 +146,11 @@ Kelio sanitarinėje apsaugos zonoje rudens ir žiemos laikotarpiu leidžiama sta
 
 13 straipsnis.
 
-Keliai tiesiami, taisomi ir atiduodami naudotis vadovaujantis atitinkamomis valstybinėmis kelių normomis ir taisyklėmis.
+Keliai tiesiami, taisomi ir atiduodami naudotis vadovaujantis atitinkamais normatyviniais statybos dokumentais.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-426, 1997-09-25, Žin., 1997, Nr. 96-2424 (1997-10-24), i. k. 0971010ISTAVIII-426
 
 14 straipsnis.
 
@@ -233,4 +243,14 @@ Jei Lietuvos Respublikoje tarptautinėmis sutartimis nustatytos kitokios taisykl
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-426, 1997-09-25, Žin., 1997, Nr. 96-2424 (1997-10-24), i. k. 0971010ISTAVIII-426
+
+Lietuvos Respublikos kelių įstatymo 8, 13 straipsnių pakeitimo įstatymas
 
