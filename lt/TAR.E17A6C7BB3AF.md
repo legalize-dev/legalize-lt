@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "2003-04-17"
+last_updated: "2004-04-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -133,7 +133,7 @@ Nr. IX-619,
 
 Nr. IX-681,
 
-2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30)
 
 5
 
@@ -181,7 +181,7 @@ Nr. IX-619,
 
 Nr. IX-681,
 
-2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30)
 
 6
 
@@ -425,9 +425,9 @@ Apskrities viršininkas:
 
 1)
 
-organizuoja Vyriausybės patvirtintų valstybinių sveikatos strategijų ir sveikatos
+organizuoja Vyriausybės patvirtintų valstybinių sveikatos strategijų ir
 
-apsaugos reformos įgyvendinimą apskrityje;
+sveikatos apsaugos reformos įgyvendinimą apskrityje;
 
 2)
 
@@ -485,197 +485,15 @@ Nr. VIII-300,
 
 97.06.24, Žin., 1997, Nr.62-1466 (97.07.01)
 
+9 straipsnio pavadinimas iki 2005 m. sausio 1 d.:
+
 9
 
 straipsnis. Apskrities viršininko įgaliojimai teritorijų planavimo ir
 
 paminklotvarkos klausimais
 
-Apskrities
-
-viršininkas:
-
-1) organizuoja
-
-apskrities lygmens teritorijų planavimo dokumentų rengimą, dalyvauja jų
-
-derinimo procedūroje;
-
-2) kaupia ir
-
-tvarko teritorijų planavimo duomenų banką bei teritorijų planavimo duomenų
-
-registrą, teikia informaciją kitų lygių duomenų bankams;
-
-3) teikia
-
-informaciją, išvadas ir pasiūlymus Lietuvos Respublikos teritorijos bendrajam
-
-ir specialiesiems planams rengti;
-
-4) nustatyta
-
-tvarka rengia sąlygas apskrities ir savivaldybių teritorijų planavimo
-
-dokumentams;
-
-5) nustatyta tvarka organizuoja savivaldybių
-
-teritorijų planavimo, statinių projektavimo, statybos, statinių
-
-pripažinimo tinkamais naudoti ir griovimo valstybinės priežiūros
-
-vykdymą; nustatyta tvarka išduoda statybos leidimus (išskyrus tuos, kurių
-
-išdavimas įstatymų pavestas savivaldybės administracijos direktoriui);
-
-6) nustatyta
-
-tvarka organizuoja teritorijų planavimo priežiūrą;
-
-7) koordinuoja
-
-savivaldybių ir valstybės institucijų veiklą vykdant geodezijos, topografijos,
-
-kartografijos ir geoinformatikos darbus, nustatyta tvarka organizuoja šių
-
-darbų valstybinės priežiūros vykdymą;
-
-8) atlieka
-
-kultūros vertybių ir paminklų apsaugą, tvarko jų apskaitą ir organizuoja
-
-paminklotvarkos priežiūrą;
-
-9) atlieka apskričiai priskirtų objektų statybos
-
-užsakovo funkcijas.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-33,
-
-96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-Nr. VIII-456,
-
-97.10.16, Žin., 1997, Nr.97-2444 (97.10.29)
-
-Nr. VIII-1991, 2000 10 10, Žin., 2000, Nr.
-
-89-2752 (2000 10 25), įsigalioja nuo 2001 08 01
-
-Nr. IX-135, 2000 12 23, Žin., 2000, Nr.
-
-113-3622 (2000 12 30)
-
-Nr.
-
-IX-471,
-
-2001-07-12, Žin., 2001, Nr. 66-2412 (2001-08-01)
-
-Nr.
-
-IX-584,
-
-2001-11-08, Žin., 2001, Nr. 99-3518 (2001-11-28), įsigalioja nuo 2002-01-01
-
-Nr.
-
-IX-1511,
-
-2003-04-17, Žin., 2003, Nr. 42-1915 (2003-05-01)
-
-10
-
-straipsnis. Apskrities viršininko įgaliojimai žemėtvarkos ir žemės ūkio
-
-klausimais
-
-Apskrities
-
-viršininkas:
-
-1) tvarko laisvos valstybinės žemės fondą, išskyrus
-
-žemę, perduotą valdyti savivaldybių institucijoms;
-
-2) įgyvendina
-
-žemės reformą;
-
-3) įstatymų nustatyta tvarka organizuoja žemės
-
-servitutų nustatymą ir žemės naudojimo valstybinį reguliavimą bei žemės
-
-naudojimo valstybinę kontrolę;
-
-4) koordinuoja,
-
-organizuoja ir įgyvendina regionines kaimo plėtros programas;
-
-5)
-
-(neteko galios);
-
-6) organizuoja
-
-valstybinės melioracijos ir hidrotechnikos įrenginių priežiūros vykdymą;
-
-7) (neteko galios);
-
-8) parduoda ar kitaip perleidžia
-
-privačion nuosavybėn valstybinę žemę, išskyrus privatizuojamiems nekilnojamojo
-
-turto objektams priskirtus žemės sklypus, atstovauja valstybei perleidžiant
-
-privačią žemę valstybės nuosavybėn bei valstybei pagal įstatymus ar testamentą
-
-paveldint žemę;
-
-9) sprendžia
-
-žemės paėmimo visuomenės poreikiams ir pagrindinės tikslinės žemės naudojimo
-
-paskirties keitimo klausimus.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-33,
-
-96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-Nr. VIII-456,
-
-97.10.16, Žin., 1997, Nr.97-2444 (97.10.29)
-
-Nr. VIII-1195,
-
-99.05.20, Žin., 1999, Nr.50-1602 (99.06.09)
-
-Nr. VIII-1662, 2000 05 04, Žin., 2000, Nr.
-
-42-1190 (2000 05 24)
-
-Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
-
-92-2886 (2000 10 31)
-
-Nr. IX-619,
-
-2001-11-27, Žin., 2001, Nr. 104-3702 (2001-12-12)
-
-Nr. IX-681,
-
-2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
-
-Nr.
-
-IX-1511,
-
-2003-04-17, Žin., 2003, Nr. 42-1915 (2003-05-01)
+9 straipsnio pavadinimas nuo 2005 m. sausio 1 d.:
 
 8 straipsnis. Apskrities viršininko
 
@@ -925,23 +743,27 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 
 92-2886 (2000 10 31)
 
-9 straipsnis. Apskrities viršininko įgaliojimai teritorijos
+9 straipsnis. Apskrities viršininko įgaliojimai
 
-planavimo ir paminklotvarkos klausimais
+teritorijų planavimo, statybos,
+
+statinių naudojimo priežiūros ir paminklotvarkos
+
+klausimais
 
 Apskrities
 
 viršininkas:
 
-1)
+1) organizuoja
 
-organizuoja apskrities lygmens teritorijos planavimo dokumentų rengimą,
+apskrities lygmens teritorijų planavimo dokumentų rengimą, dalyvauja jų
 
-dalyvauja jų derinimo procedūroje;
+derinimo procedūroje;
 
-2) kaupia
+2) kaupia ir
 
-ir tvarko teritorijos planavimo duomenų banką bei teritorijos planavimo duomenų
+tvarko teritorijų planavimo duomenų banką bei teritorijų planavimo duomenų
 
 registrą, teikia informaciją kitų lygių duomenų bankams;
 
@@ -951,53 +773,43 @@ informaciją, išvadas ir pasiūlymus Lietuvos Respublikos teritorijos bendrajam
 
 ir specialiesiems planams rengti;
 
-4)
+4) nustatyta
 
-nustatyta tvarka rengia sąlygas apskrities ir savivaldybių teritorijų planavimo
+tvarka rengia sąlygas apskrities ir savivaldybių teritorijų planavimo
 
 dokumentams;
 
-5)
+5) nustatyta tvarka organizuoja savivaldybių
 
-nustatyta tvarka atlieka savivaldybių teritorijų planavimo, statinių
+teritorijų planavimo, statinių projektavimo, statybos, statinių
 
-projektavimo, statybos, atidavimo naudoti, naudojimo ir griovimo valstybinę
+pripažinimo tinkamais naudoti ir griovimo valstybinės priežiūros
 
-priežiūrą;
+vykdymą; nustatyta tvarka išduoda statybos leidimus (išskyrus tuos, kurių
 
-6)
+išdavimas įstatymų pavestas savivaldybės administracijos direktoriui);
 
-nustatyta tvarka prižiūri teritorijos planavimą;
+6) nustatyta
 
-7)
+tvarka organizuoja teritorijų planavimo priežiūrą;
 
-koordinuoja savivaldybių ir valstybės institucijų veiklą vykdant geodezijos,
+7) koordinuoja
 
-topografijos, kartografijos ir geoinformatikos darbus, nustatyta tvarka atlieka
+savivaldybių ir valstybės institucijų veiklą vykdant geodezijos, topografijos,
 
-šių darbų valstybinę priežiūrą;
+kartografijos ir geoinformatikos darbus, nustatyta tvarka organizuoja šių
+
+darbų valstybinės priežiūros vykdymą;
 
 8) atlieka
 
-kultūros vertybių ir paminklų apsaugą, tvarko jų apskaitą ir prižiūri
+kultūros vertybių ir paminklų apsaugą, tvarko jų apskaitą ir organizuoja
 
-paminklotvarką;
+paminklotvarkos priežiūrą;
 
-9) atlieka
+9) atlieka apskričiai priskirtų objektų statybos
 
-apskričiai priskirtų objektų statybos užsakovo funkcijas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-Nr. VIII-456,
-
-97.10.16, Žin., 1997, Nr.97-2444 (97.10.29)
+užsakovo funkcijas.
 
 10 straipsnis. Apskrities viršininko įgaliojimai žemėtvarkos ir
 
@@ -1121,11 +933,11 @@ jų sprendimus. Viršininko sprendimai gali būti apskųsti įstatymų nustatyta
 
 tvarka;
 
-2) analizuoja apskrities
+2) analizuoja
 
-socialinę, ekonominę ir ekologinę būklę bei jos pokyčius ir apie tai praneša
+apskrities socialinę, ekonominę ir ekologinę būklę bei jos pokyčius ir apie tai
 
-gyventojams;
+praneša gyventojams;
 
 3) registruoja
 
@@ -1149,11 +961,11 @@ stichinių nelaimių, avarijų padarinių likvidavimą, paieškos ir gelbėjimo
 
 darbus;
 
-7) steigia,
+7) steigia, reorganizuoja,
 
-reorganizuoja, likviduoja valstybės įmones, valdo apskričių viršininkams
+likviduoja valstybės įmones, valdo apskričių viršininkams perduotų įmonių
 
-perduotų įmonių valstybei priklausančias akcijas;
+valstybei priklausančias akcijas;
 
 8) Vyriausybės
 
@@ -1170,8 +982,6 @@ komisijos narių kandidatūras, tarp jų - ir pirmininko kandidatūrą;
 10) Regioninės
 
 plėtros įstatymo nustatyta tvarka vykdo regionų plėtros institucijos funkcijas;
-
-1 dalis papildoma 11 punktu nuo 2003 m. liepos 1 d.:
 
 11) kartu su
 
@@ -1215,13 +1025,13 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 
 Nr. IX-681,
 
-2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30)
 
 Nr.
 
 IX-1413,
 
-2003-04-01, Žin., 2003, Nr. 38-1659 (2003-04-24), įsigalioja nuo 2003-07-01
+2003-04-01, Žin., 2003, Nr. 38-1659 (2003-04-24)
 
 13
 
@@ -1301,7 +1111,9 @@ ryšius su atitinkamomis užsienio valstybių regionų institucijomis ir
 
 tarptautinėmis organizacijomis.
 
-Straipsnio žymėjimas pakeistas:
+Straipsnio žymėjimas
+
+pakeistas:
 
 Nr. VIII-33,
 
@@ -1755,9 +1567,7 @@ tarybos sudarymą. Regiono plėtros tarybos sudarymo tvarką bei funkcijas nusta
 
 Regioninės plėtros įstatymas.
 
-Straipsnio žymėjimas
-
-pakeistas:
+Straipsnio žymėjimas pakeistas:
 
 Nr. VIII-33,
 
@@ -1949,7 +1759,7 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS
 
 _________
 
@@ -1957,7 +1767,9 @@ Pakeitimai:
 
 1.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. I-1280, 96.04.04, Žin., 1996, Nr. 35-876 (96.04.19)
 
@@ -2261,13 +2073,33 @@ APSKRITIES
 
 VALDYMO ĮSTATYMO 7, 9 IR 10 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+19.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2213,
+
+2004-04-29, Žin., 2004, Nr. 80-2833 (2004-05-14)
+
+APSKRITIES
+
+VALDYMO ĮSTATYMO 9 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-05-06)
+Aušrinė Trapinskienė (2004-05-14)
 
 autrap@lrs.lt
 
