@@ -4,7 +4,7 @@ identifier: "TAR.A7F77DF94F5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-18"
-last_updated: "2004-03-01"
+last_updated: "2004-04-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D"
 department: "Lietuvos Respublikos Seimas"
@@ -451,13 +451,13 @@ buvę šie laikotarpiai:
 
 1) visas darbininkų ir tarnautojų darbo
 
-laikas, taip pat kolūkio narių darbo kolūkiuose laikas bei Valstybinio socialinio
+laikas, taip pat kolūkio narių darbo kolūkiuose laikas bei Valstybinio
 
-draudimo pensijų skyrimo ir mokėjimo nuostatuose nurodytų kitų asmenų, kurie
+socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nurodytų kitų
 
-pagal galiojusius įstatymus turėjo būti draudžiami valstybiniu socialiniu
+asmenų, kurie pagal galiojusius įstatymus turėjo būti draudžiami valstybiniu
 
-draudimu, darbo laikas;
+socialiniu draudimu, darbo laikas;
 
 2) rašytojų sąjungos, dailininkų
 
@@ -527,17 +527,17 @@ pagal 1 punktą;
 
 8) asmenų, išvežtų Antrojo pasaulinio
 
-karo metais priverstiniams darbams už buvusios TSRS ribų, darbo laikas, taip pat
+karo metais priverstiniams darbams už buvusios TSRS ribų, darbo laikas, taip
 
-buvimo getuose, koncentracijos ar kitokio tipo prievartinėse stovyklose Antrojo
+pat buvimo getuose, koncentracijos ar kitokio tipo prievartinėse stovyklose
 
-pasaulinio karo metais laikas;
+Antrojo pasaulinio karo metais laikas;
 
-9) ginkluoto pasipriešinimo
+9) ginkluoto pasipriešinimo (rezistencijos)
 
-(rezistencijos) dalyvių - karių savanorių faktinis laikas, išbūtas laisvės
+dalyvių - karių savanorių faktinis laikas, išbūtas laisvės kovotojų
 
-kovotojų struktūrose, jei šis laikas neįskaitytas kitaip.
+struktūrose, jei šis laikas neįskaitytas kitaip.
 
 Asmens valstybinio socialinio pensijų
 
@@ -1909,27 +1909,55 @@ m. sausio 1 d. tėvą (motiną). Maitintojo netekimo pensijos mokamos Valstybini
 
 socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nustatyta tvarka.
 
-Ištarnauto laiko pensija perskaičiuojama
+*Ištarnauto laiko pensija perskaičiuojama į valstybinę socialinio
 
-į valstybinę socialinio draudimo senatvės ar invalidumo pensiją tik tuo atveju,
+draudimo senatvės ar invalidumo pensiją tik tuo atveju, jeigu jos gavėjas yra
 
-jeigu jos gavėjas buvo sukakęs šio įstatymo nustatytą senatvės pensijos
+sukakęs šio įstatymo nustatytą senatvės pensijos amžių arba pripažintas
 
-amžių arba pripažintas invalidu *iki šio įstatymo įsigaliojimo.
+invalidu. Šiais atvejais ištarnauto laiko pensija perskaičiuojama pagal
 
-Priešingu atveju pensininkui mokama paskirtoji pensija, indeksuojant ją šio
+ištarnauto laiko pensijos byloje fiksuotus stažo ir uždarbio duomenis (47 ir 48
 
-įstatymo 50 straipsnyje nustatyta tvarka. Vidaus reikalų, Specialiųjų tyrimų
+straipsniai) Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo
 
-tarnybos, krašto apsaugos, valstybės saugumo ir prokuratūros sistemų pareigūnų
+nuostatų nustatyta tvarka. Ištarnauto laiko pensijos gavėjas, kuriam ši
 
-ir karių pensijų perskaičiavimo tvarką nustato Lietuvos Respublikos vidaus
+pensija perskaičiuojama į senatvės ar invalidumo pensiją, gali papildyti
 
-reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos,
+ištarnauto laiko pensijos byloje fiksuotus stažo duomenis, pateikdamas
 
-prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių
+dokumentus apie stažą, įgytą tais laikotarpiais, kurie pagal šio įstatymo 52
 
-pareigūnų ir karių valstybinių pensijų įstatymas.
+straipsnio nuostatas prilyginami valstybinio socialinio pensijų draudimo
+
+stažui. Ištarnauto laiko pensijos gavėjo
+
+pageidavimu senatvės ar invalidumo pensija taip pat gali būti paskirta pagal
+
+šio įstatymo nuostatas dėl naujai skiriamų pensijų arba vietoj perskaičiuotos
+
+ar iš naujo paskirtos senatvės ar invalidumo pensijos toliau mokama ištarnauto
+
+laiko pensija. Iki šio įstatymo įsigaliojimo paskirtoji ištarnauto laiko
+
+pensija toliau mokama ir tiems jų gavėjams, kurie nėra sukakę senatvės pensijos
+
+amžiaus arba pripažinti invalidais. Ištarnauto laiko pensijos indeksuojamos šio
+
+įstatymo 50 straipsnyje nustatyta tvarka. Asmenims, gaunantiems senatvės ar
+
+invalidumo pensiją, ištarnauto laiko pensija nemokama. Vidaus reikalų,
+
+Specialiųjų tyrimų tarnybos, krašto apsaugos, valstybės saugumo ir prokuratūros
+
+sistemų pareigūnų ir karių pensijų perskaičiavimo ir mokėjimo tvarką nustato
+
+Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės
+
+saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių
+
+įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymas.
 
 Valstybinio
 
@@ -1945,21 +1973,13 @@ didesnė, skirtumas pensininkui kompensuojamas nuo šio įstatymo įsigaliojimo
 
 dienos.
 
-*Pastaba. Pripažinti, kad Lietuvos Respublikos valstybinių
+*Pastaba. 45
 
-socialinio draudimo pensijų įstatymo 45 straipsnio 4 dalies (2002 m.
+straipsnio 4 dalies nuostatos pradedamos taikyti nuo Lietuvos Respublikos
 
-gruodžio 10 d. redakcija) nuostatos „ištarnauto laiko pensija perskaičiuojama į
+Konstitucinio Teismo 2003 m. gruodžio 3 d. nutarimo (Žin., 2003, Nr. 115-5221)
 
-valstybinę socialinio draudimo senatvės <...> pensiją tik tuo atveju,
-
-jeigu jos gavėjas buvo sukakęs šio įstatymo nustatytą senatvės pensijos amžių
-
-<...> iki šio įstatymo įsigaliojimo“ dalis „iki šio įstatymo
-
-įsigaliojimo“ prieštarauja Lietuvos Respublikos Konstitucijos 29 ir 52
-
-straipsniams, konstituciniam teisinės valstybės principui.
+įsigaliojimo, .t .y. nuo 2003 m. gruodžio 10 d.
 
 Straipsnio
 
@@ -2017,6 +2037,10 @@ Nr. IX-2017,
 
 2004-02-12, Žin., 2004, Nr. 32-1008 (2004-02-28)
 
+Nr. IX-2180,
+
+2004-04-27, Žin., 2004, Nr. 72-2498 (2004-04-30)
+
 45(1) straipsnis. Našlių
 
 pensijos už mirusius iki 1995 m. sausio 1 d. sutuoktinius
@@ -2027,9 +2051,9 @@ pensija už mirusį iki 1995 m. sausio 1 d. sutuoktinį skiriama, jei mirusysis
 
 buvo įgijęs minimalų valstybinio socialinio pensijų draudimo ar jam prilyginamą
 
-stažą invalidumo pensijai (28 ir 52 straipsniai) arba gavo valstybinę
+stažą invalidumo pensijai (28 ir 52 straipsniai) arba gavo valstybinę socialinio
 
-socialinio draudimo senatvės ar invalidumo pensiją.
+draudimo senatvės ar invalidumo pensiją.
 
 Teisę gauti valstybinę socialinio draudimo
 
@@ -2139,9 +2163,9 @@ Nr. VIII-905,
 
 98.10.22, Žin., 1998, Nr.98-2707 (98.11.11)
 
-47 straipsnis. Stažo apskaičiavimas
+47 straipsnis. Stažo apskaičiavimas perskaičiuojant
 
-perskaičiuojant paskirtas pensijas
+paskirtas pensijas
 
 Visas pensijos byloje fiksuotas darbo
 
@@ -2159,11 +2183,11 @@ laikotarpiai, buvę po Valstybinio socialinio draudimo įstatymo įsigaliojimo,
 
 laikomi valstybinio socialinio pensijų draudimo stažu, įgytu dirbant pagal
 
-darbo sutartį, narystės ar tarnybos pagrindu, asmenims, išvardytiems Valstybinio
+darbo sutartį, narystės ar tarnybos pagrindu, asmenims, išvardytiems
 
-socialinio draudimo įstatymo 4 straipsnyje, mokėjusiems nustatytas valstybinio
+Valstybinio socialinio draudimo įstatymo 4 straipsnyje, mokėjusiems nustatytas
 
-socialinio draudimo įmokas.
+valstybinio socialinio draudimo įmokas.
 
 Perskaičiuojant invalidumo pensiją, į
 
@@ -2363,9 +2387,7 @@ pirmosios dalies 2 punkte, gautas autoriaus honoraras;
 
 4) asmenų, tarnavusių sukarintoje
 
-apsaugoje, specialaus ryšio institucijose ir specialiose gelbėjimo dalyse,
-
-uždarbis.
+apsaugoje, specialaus ryšio institucijose ir specialiose gelbėjimo dalyse, uždarbis.
 
 Į asmens draudžiamąsias pajamas per
 
@@ -2377,9 +2399,9 @@ socialiniu draudimu pagal Valstybinio socialinio draudimo įstatymo 4 straipsnį
 
 uždarbis ir kitos pajamos, nuo kurių buvo mokėtos privalomos valstybinio
 
-socialinio draudimo įmokos, taip pat gautos ligos (laikinojo nedarbingumo) bei motinystės
+socialinio draudimo įmokos, taip pat gautos ligos (laikinojo nedarbingumo) bei
 
-(nėštumo ir gimdymo) pašalpos;
+motinystės (nėštumo ir gimdymo) pašalpos;
 
 2) asmenų, savanoriškai apsidraudusių
 
@@ -2515,23 +2537,23 @@ straipsniuose nurodytą valstybinio socialinio pensijų draudimo stažą;
 
 3) asmeniui
 
-paskirtos vienos valstybinės socialinio draudimo senatvės ar invalidumo pensijos
+paskirtos vienos valstybinės socialinio draudimo senatvės ar invalidumo
 
-dydis arba paskirtų valstybinių socialinio draudimo pensijų ir Lietuvos
+pensijos dydis arba paskirtų valstybinių socialinio draudimo pensijų ir
 
-Respublikos valstybinių pensijų dydžių suma ne didesnė kaip 325 Lt per mėnesį.
+Lietuvos Respublikos valstybinių pensijų dydžių suma ne didesnė kaip 325 Lt per
 
-Kai asmeniui paskirta ir mokama valstybinė socialinio draudimo III grupės
+mėnesį. Kai asmeniui paskirta ir mokama valstybinė socialinio draudimo III
 
-invalidumo pensija, didinant šią pensiją atsižvelgiama į invalidumo pensijos
+grupės invalidumo pensija, didinant šią pensiją atsižvelgiama į invalidumo
 
-dydį pagal II invalidumo grupę (29 straipsnio 4 dalis). Kai asmeniui paskirta
+pensijos dydį pagal II invalidumo grupę (29 straipsnio 4 dalis). Kai asmeniui
 
-ir mokama sumažinta valstybinė socialinio draudimo senatvės pensija dėl to, kad
+paskirta ir mokama sumažinta valstybinė socialinio draudimo senatvės pensija
 
-jis pagal Pensijų sistemos reformos įstatymą pasirinko dalyvavimą pensijų
+dėl to, kad jis pagal Pensijų sistemos reformos įstatymą pasirinko dalyvavimą
 
-kaupime (15 straipsnio 4 dalis), didinant šią pensiją atsižvelgiama į
+pensijų kaupime (15 straipsnio 4 dalis), didinant šią pensiją atsižvelgiama į
 
 nesumažintą valstybinės socialinio draudimo senatvės pensijos dydį.
 
@@ -2647,9 +2669,9 @@ PPinv = M+(R–M) BPS/R–BPS,
 
 kurioje:
 
-PPinv – individualus
+PPinv – individualus invalidumo
 
-invalidumo pensijos prieaugis;
+pensijos prieaugis;
 
 M – maksimalus invalidumo pensijos
 
@@ -2773,37 +2795,35 @@ invalidumo pensijų padidinimas
 
 Pagal šio įstatymo 49 straipsnio 1
 
-dalies nuostatas mokamos neperskaičiuotos senatvės ir invalidumo pensijos
+dalies nuostatas mokamos neperskaičiuotos senatvės ir invalidumo pensijos (toliau
 
-(toliau šiame straipsnyje - mokamos neperskaičiuotos pensijos) padidinamos
+šiame straipsnyje - mokamos neperskaičiuotos pensijos) padidinamos esant 55(1)–55(3)
 
-esant 55(1)–55(3) straipsniuose nustatytoms stažo ir
+straipsniuose nustatytoms stažo ir pensijos dydžio arba pensijų dydžių sumos
 
-pensijos dydžio arba pensijų dydžių sumos sąlygoms. Neperskaičiuotos senatvės
+sąlygoms. Neperskaičiuotos senatvės pensijos padidinamos pridedant prie
 
-pensijos padidinamos pridedant prie asmeniui mokamos neperskaičiuotos senatvės
+asmeniui mokamos neperskaičiuotos senatvės pensijos prieaugį PPs (55(2
 
-pensijos prieaugį PPs (55(2 )straipsnio 1 dalis),
+)straipsnio 1 dalis), neperskaičiuotos I ir II grupių invalidumo pensijos
 
-neperskaičiuotos I ir II grupių invalidumo pensijos – pridedant prie asmeniui
+– pridedant prie asmeniui mokamos neperskaičiuotos invalidumo pensijos prieaugį
 
-mokamos neperskaičiuotos invalidumo pensijos prieaugį PPinv (55(3)
+PPinv (55(3) straipsnio 1 dalis). Asmeniui mokama neperskaičiuota
 
-straipsnio 1 dalis). Asmeniui mokama neperskaičiuota III grupės invalidumo
+III grupės invalidumo pensija padidinama laikantis III grupės invalidumo
 
-pensija padidinama laikantis III grupės invalidumo pensijos apskaičiavimo
+pensijos apskaičiavimo nuostatų (29 straipsnio 4 dalis ir 49 straipsnio 3
 
-nuostatų (29 straipsnio 4 dalis ir 49 straipsnio 3 dalies 3 punktas). Mokama
+dalies 3 punktas). Mokama neperskaičiuota III grupės invalidumo pensija
 
-neperskaičiuota III grupės invalidumo pensija dauginama iš dviejų, gauta suma
+dauginama iš dviejų, gauta suma padidinama pridedant invalidumo pensijos
 
-padidinama pridedant invalidumo pensijos prieaugį PPinv, paskui
+prieaugį PPinv, paskui padidintos II grupės invalidumo pensijos suma
 
-padidintos II grupės invalidumo pensijos suma mažinama 50 procentų. Padidintos
+mažinama 50 procentų. Padidintos neperskaičiuotos senatvės ir invalidumo
 
-neperskaičiuotos senatvės ir invalidumo pensijos toliau indeksuojamos 50
-
-straipsnyje nustatyta tvarka.
+pensijos toliau indeksuojamos 50 straipsnyje nustatyta tvarka.
 
 Įstatymas
 
@@ -2915,15 +2935,13 @@ kompensacija išmokama už 10 metų;
 
 kompensacija išmokama už 5 metus.
 
-Skraidymo ir skraidymų bandymo sudėties
+Skraidymo ir skraidymų bandymo sudėties darbuotojams
 
-darbuotojams - vyrams, išdirbusiems pagal galiojusį iki šio įstatymo priėmimo
+- vyrams, išdirbusiems pagal galiojusį iki šio įstatymo priėmimo skraidymo ir
 
-skraidymo ir skraidymų bandymo sudėties darbuotojų pareigų sąrašą 25 metus,
+skraidymų bandymo sudėties darbuotojų pareigų sąrašą 25 metus, moterims,
 
-moterims, išdirbusioms pagal šį sąrašą 20 metų, kompensacija išmokama už 10
-
-metų.
+išdirbusioms pagal šį sąrašą 20 metų, kompensacija išmokama už 10 metų.
 
 Asmenims, dirbusiems iki šio įstatymo
 
@@ -3009,9 +3027,9 @@ nurodytiems šio straipsnio trečiojoje dalyje ir ketvirtosios dalies 4 punkte,
 
 kompensacija gali būti mokama jų pasirinkto tvirto dydžio, tačiau ne mažiau
 
-kaip 50 procentų ir ne daugiau kaip 150 procentų valstybinės socialinio draudimo
+kaip 50 procentų ir ne daugiau kaip 150 procentų valstybinės socialinio
 
-bazinės pensijos dydžio per mėnesį.
+draudimo bazinės pensijos dydžio per mėnesį.
 
 Asmenims, išskyrus šio straipsnio
 
@@ -3059,11 +3077,11 @@ kompensaciją asmenys dėl kompensacijos skyrimo kreipiasi po šio straipsnio
 
 aštuntojoje dalyje nustatytų kompensacijos mokėjimo pradžios terminų,
 
-kompensacija jiems mokama nuo teisės gauti kompensaciją atsiradimo dienos, tačiau
+kompensacija jiems mokama nuo teisės gauti kompensaciją atsiradimo dienos,
 
-ne daugiau kaip už 12 mėnesių iki dokumentų kompensacijai skirti ir mokėti
+tačiau ne daugiau kaip už 12 mėnesių iki dokumentų kompensacijai skirti ir
 
-gavimo Valstybinio socialinio draudimo fondo valdybos teritoriniame skyriuje
+mokėti gavimo Valstybinio socialinio draudimo fondo valdybos teritoriniame skyriuje
 
 dienos.
 
