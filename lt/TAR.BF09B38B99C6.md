@@ -4,7 +4,7 @@ identifier: "TAR.BF09B38B99C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-20"
-last_updated: "2000-10-17"
+last_updated: "2001-07-10"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF09B38B99C6"
 department: "Lietuvos Respublikos Seimas"
@@ -49,15 +49,13 @@ Vilnius
 
 paskirtis
 
-Šis įstatymas reglamentuoja
+Šis
 
-juridiniams asmenims ir juridinio asmens teisių neturinčioms įmonėms ir
+įstatymas reglamentuoja juridiniams asmenims ir užsienio valstybių juridiniams
 
-organizacijoms nuosavybės teise priklausančio nekilnojamojo turto, kuriam
+asmenims bei organizacijoms (toliau – juridiniams asmenims) nuosavybės
 
-Lietuvos Respublikos Vyriausybės nustatyta tvarka privaloma teisinė
-
-registracija, apmokestinimą.
+teise priklausančio nekilnojamojo turto apmokestinimą.
 
 Straipsnio
 
@@ -68,18 +66,20 @@ Nr.
 I-1436,
 
 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19)
+
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
+
+62-2232 (2001-07-18)
 
 2 straipsnis. Mokesčio
 
 objektas
 
-Mokesčio objektas yra
+Mokesčio objektas yra Lietuvos
 
-Lietuvos Respublikos teritorijoje juridiniams asmenims ir juridinio asmens
+Respublikos teritorijoje juridiniams asmenims nuosavybės teise priklausantis
 
-teisių neturinčioms įmonėms ir organizacijoms nuosavybės teise priklausantis
-
-nekilnojamasis turtas, kuriam privaloma teisinė registracija, išskyrus žemę.
+nekilnojamasis turtas, išskyrus žemę, orlaivius ir laivus.
 
 Straipsnio
 
@@ -91,15 +91,17 @@ I-1436,
 
 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19)
 
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
+
+62-2232 (2001-07-18)
+
 3 straipsnis. Mokesčio
 
 mokėtojai
 
-Mokestį moka juridiniai
+Mokestį moka juridiniai asmenys,
 
-asmenys ir juridinio asmens teisių neturinčios įmonės ir organizacijos,
-
-įregistruotos Lietuvos Respublikoje įstatymų nustatyta tvarka.
+kuriems nuosavybės teise priklauso nekilnojamasis turtas Lietuvos Respublikoje.
 
 Straipsnio
 
@@ -117,9 +119,11 @@ I-1436,
 
 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19)
 
-4 straipsnis. Mokesčio
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
 
-tarifas
+62-2232 (2001-07-18)
+
+4 straipsnis. Mokesčio tarifas
 
 Metinis mokesčio tarifas - 1
 
@@ -203,9 +207,9 @@ patvirtintas funkcijas, nekilnojamasis turtas;
 
 13) visuomeninių
 
-organizacijų, veikiančių pagal Visuomeninių organizacijų įstatymą, nekilnojamasis
+organizacijų, veikiančių pagal Visuomeninių organizacijų įstatymą,
 
-turtas;
+nekilnojamasis turtas;
 
 14) aplinkos apsaugai ir
 
@@ -223,13 +227,9 @@ Vyriausybės patvirtintą sąrašą;
 
 esantis bankrutavusios įmonės balanse;
 
-[1 dalis papildoma 17 punktu nuo 2001 m.
-
-sausio 1 d.:
-
 17) nepriimti
 
-naudoti statiniai.]
+naudoti statiniai.
 
 2. Savivaldybių tarybos savo
 
@@ -261,11 +261,9 @@ Nr. VIII-2059,
 
 turto mokestinė vertė
 
-Nekilnojamąjį turtą, kuriam
+Nekilnojamąjį turtą įvertina Lietuvos
 
-privaloma valstybinė teisinė registracija, įvertina Lietuvos Respublikos
-
-Vyriausybės įsteigtos arba įgaliotos valstybės institucijos.
+Respublikos Vyriausybės įsteigtos arba įgaliotos valstybės institucijos.
 
 Nekilnojamasis turtas
 
@@ -273,7 +271,17 @@ Nekilnojamasis turtas
 
 metodiką. Įvertinimas galioja penkerius metus, jeigu vartojimo kainų indeksas
 
-neviršija 1,25 per kalendorinius metus.
+neviršija
+
+1,25 per kalendorinius metus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
+
+62-2232 (2001-07-18)
 
 7 straipsnis. Mokesčio
 
@@ -293,23 +301,27 @@ Ar teisingai apskaičiuotas
 
 mokestis, kontroliuoja miestų (rajonų) valstybinės mokesčių inspekcijos.
 
-Mokestis už naujai įsigytą
+Mokestis už naujai įsigytą ar
 
-ar pastatytą apmokestinamąjį nekilnojamąjį turtą skaičiuojamas po 1/12 metinės
+pastatytą apmokestinamąjį nekilnojamąjį turtą skaičiuojamas po 1/12 metinės
 
-sumos už kiekvieną mėnesį, pradedant kitu mėnesiu po šio turto teisinio
+sumos už kiekvieną mėnesį, pradedant mėnesiu, einančiu po mėnesio, kurį
 
-įregistravimo. Mokesčio apskaičiavimas valstybinei mokesčių inspekcijai
+nekilnojamasis turtas įgytas nuosavybės teise. Mokesčio apskaičiavimas
 
-pateikiamas praėjus vienam mėnesiui po turto teisinio įregistravimo. Už naujai
+valstybinei mokesčių inspekcijai pateikiamas praėjus vienam mėnesiui po turto
 
-įsigytą turtą mokestis paskirstomas proporcingai likusiems mokėjimo terminams.
+įgijimo nuosavybės teise. Už naujai įsigytą turtą mokestis paskirstomas
 
-Nuosavybės teisei į
+proporcingai likusiems mokėjimo terminams.
 
-nekilnojamąjį turtą perėjus kitam asmeniui arba netekus to turto, mokestis
+Praradus nuosavybės teisę į
 
-neskaičiuojamas nuo kito mėnesio po turto teisinės registracijos pakeitimo.
+nekilnojamąjį turtą, mokestis
+
+neskaičiuojamas nuo kito mėnesio, einančio po mėnesio, kurį
+
+nuosavybės teisė į turtą buvo prarasta.
 
 Laiku neapmokestinti
 
@@ -327,6 +339,10 @@ I-1311,
 
 96.04.30, Žin., 1996, Nr. 46-1106 (96.05.17)
 
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
+
+62-2232 (2001-07-18)
+
 8 straipsnis. Mokesčio
 
 mokėjimo tvarka
@@ -339,9 +355,9 @@ Nekilnojamojo turto mokestis
 
 įskaitomas į savivaldybės, kurios teritorijoje yra turtas, biudžetą.
 
-9 straipsnis. Atsakomybė už
+9 straipsnis. Atsakomybė už neteisingą
 
-neteisingą mokesčio apskaičiavimą ir mokėjimą
+mokesčio apskaičiavimą ir mokėjimą
 
 Atsakomybė už mokesčio
 
@@ -501,15 +517,37 @@ Nr. VIII-2059,
 
 00.10.17, Žin., 2000, Nr.92-2888 (00.10.31)
 
-ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO
+ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO
 
-ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 Šis
 
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
+
+62-2232 (2001-07-18)
+
+ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO
+
+ĮSTATYMO 1, 2, 3, 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Užsienio
+
+juridiniai asmenys ir organizacijos už Lietuvos Respublikoje esantį ir
+
+nuosavybės teise priklausantį nekilnojamąjį turtą mokestį pradeda mokėti nuo
+
+2002 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.11.06)
+Redagavo: Aušra Petraitienė (2001-07-19)
+
+aupetr@lrs.lt
 
