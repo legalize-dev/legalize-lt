@@ -4,7 +4,7 @@ identifier: "TAR.1C72AF32F5CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-10-07"
-last_updated: "2002-06-27"
+last_updated: "2003-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1C72AF32F5CB"
 department: "Lietuvos Respublikos Seimas"
@@ -4899,17 +4899,7 @@ atsitikimas darbe, susijęs su darbu, – įvykis, kurį ištyrus nustatoma, kad
 
 darbdavio žinia atliekamą darbą arba vykstant į darbą ar iš darbo;
 
-2) nelaimingas
-
-atsitikimas, nesusijęs su darbu, – įvykis, kurį ištyrus nustatoma, kad
-
-nukentėjusysis patyrė traumą ar mirė: norėdamas nusižudyti ar susižaloti; kai
-
-prieš jį buvo panaudotas smurtas, jeigu smurto aplinkybės ir motyvai nesusiję
-
-su darbu; kai darė nusikaltimą; kai savavališkai (be darbdavio žinios) dirbo
-
-sau (savo interesais).
+2) nelaimingas atsitikimas, nesusijęs su darbu, – įvykis, kurį ištyrus nustatoma, kad nukentėjusysis patyrė traumą ar mirė: norėdamas nusižudyti ar susižaloti; kai prieš jį buvo panaudotas smurtas, jeigu smurto aplinkybės ir motyvai nesusiję su darbu; kai darė nusikalstamą veiką; kai savavališkai (be darbdavio žinios) dirbo sau (savo interesais).
 
 4. Profesinės
 
@@ -4928,6 +4918,16 @@ liga – staigus darbuotojo sveikatos sutrikimas, kurį sukėlė trumpalaikis
 (vienkartinis arba per vieną darbo dieną) darbo aplinkos pavojingas veiksnys
 
 (veiksniai), pasižymintis ūminiu poveikiu.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1453,
+
+2003-04-03, Žin., 2003, Nr. 38-1698 (2003-04-24)
 
 72
 
@@ -4975,9 +4975,9 @@ priežiūros tarnybos teritorinėms įstaigoms.
 
 apie nelaimingus atsitikimus darbe, profesines ligas ir jų registravimo tvarką
 
-nustato atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatai,
+nustato atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatai, Profesinių
 
-Profesinių ligų tyrimo ir apskaitos nuostatai.
+ligų tyrimo ir apskaitos nuostatai.
 
 72 straipsnis. Nelaimingų
 
@@ -5105,19 +5105,19 @@ informaciją. Darbo inspektoriaus surašytą ir pasirašytą nelaimingo atsitiki
 
 darbe tyrimo aktą pasirašo tyrime dalyvavę asmenys. Darbo inspektorius
 
-nelaimingo atsitikimo darbe tyrimo aktą įteikia darbdaviui pasirašyti. Jei
+nelaimingo atsitikimo darbe tyrimo aktą įteikia darbdaviui pasirašyti. Jei darbdavys
 
-darbdavys ar darbuotojų atstovas nedalyvauja nelaimingo atsitikimo darbe
+ar darbuotojų atstovas nedalyvauja nelaimingo atsitikimo darbe tyrime, darbo
 
-tyrime, darbo inspektorius tiria nelaimingą atsitikimą darbe be suinteresuotos
+inspektorius tiria nelaimingą atsitikimą darbe be suinteresuotos šalies atstovo
 
-šalies atstovo (atstovų). Jei darbdavio ar darbuotojų atstovas arba darbdavys
+(atstovų). Jei darbdavio ar darbuotojų atstovas arba darbdavys nepasirašo
 
-nepasirašo nelaimingo atsitikimo darbe tyrimo akto ir raštu nepateikia darbo
+nelaimingo atsitikimo darbe tyrimo akto ir raštu nepateikia darbo inspektoriui
 
-inspektoriui motyvuotos nepasirašymo priežasties, darbo inspektoriaus surašytas
+motyvuotos nepasirašymo priežasties, darbo inspektoriaus surašytas nelaimingo
 
-nelaimingo atsitikimo tyrimo aktas įsigalioja nuo jo surašymo dienos.
+atsitikimo tyrimo aktas įsigalioja nuo jo surašymo dienos.
 
 5. Darbo
 
@@ -5215,13 +5215,13 @@ tyrimo ir apskaitos nuostatais, tyrimą atlieka ankstesnėje įmonėje ar įmon�
 
 12. Komisijos,
 
-tyrusios profesinę ligą, sprendimus bei išvadas dėl profesinės ligos
+tyrusios profesinę ligą, sprendimus bei išvadas dėl profesinės ligos priežasčių,
 
-priežasčių, taip pat dėl tyrimo tvarkos tyrime dalyvavę darbdavio ir darbuotojų
+taip pat dėl tyrimo tvarkos tyrime dalyvavę darbdavio ir darbuotojų atstovai
 
-atstovai gali apskųsti teismui arba Profesinių ligų tyrimo ir apskaitos
+gali apskųsti teismui arba Profesinių ligų tyrimo ir apskaitos nuostatuose
 
-nuostatuose nustatyta tvarka vyriausiajam valstybiniam darbo inspektoriui.
+nustatyta tvarka vyriausiajam valstybiniam darbo inspektoriui.
 
 13. Ginčytinus
 
@@ -5253,9 +5253,9 @@ atstovai.
 
 atsitikimų darbe, profesinių ligų tyrimo metu Valstybinės darbo inspekcijos
 
-skirtos ekspertizės, kurias atlieka ne valstybinės įstaigos, apmokamos Valstybinei
+skirtos ekspertizės, kurias atlieka ne valstybinės įstaigos, apmokamos
 
-darbo inspekcijai šiam tikslui skirtomis lėšomis.
+Valstybinei darbo inspekcijai šiam tikslui skirtomis lėšomis.
 
 74
 
@@ -5347,9 +5347,7 @@ Ekonominės priemonės
 
 75
 
-straipsnis. Darbuotojų nelaimingų atsitikimų darbe ir profesinių ligų
-
-socialinis
+straipsnis. Darbuotojų nelaimingų atsitikimų darbe ir profesinių ligų socialinis
 
 draudimas
 
@@ -5481,11 +5479,11 @@ naudojamos visos reikiamos priemonės.
 
 neatsako už nelaimingus atsitikimus pakeliui į darbą ar iš darbo.
 
-4. Darbdavio atsakomybė už darbuotojų saugos ir
+4. Darbdavio atsakomybė už darbuotojų saugos ir sveikatos
 
-sveikatos reikalavimų neužtikrinimą gali būti sumažinta įvertinus priemones,
+reikalavimų neužtikrinimą gali būti sumažinta įvertinus priemones, kurių
 
-kurių darbdavys ėmėsi šio įstatymo 36 straipsnio nustatyta tvarka.
+darbdavys ėmėsi šio įstatymo 36 straipsnio nustatyta tvarka.
 
 5. Darbuotojui, kuris pažeidė darbuotojų saugos ir
 
@@ -5651,11 +5649,11 @@ Lietuvos Respublikos darbuotojų saugos ir sveikatos teisės aktus, taikomos
 
 Europos Sąjungos darbuotojų saugos ir sveikatos teisės aktų nuostatos,
 
-Tarptautinės darbo organizacijos konvencijų, kurios nustatyta tvarka
+Tarptautinės darbo organizacijos konvencijų, kurios nustatyta tvarka ratifikuotos
 
-ratifikuotos Lietuvos Respublikoje, nuostatos, taip pat atsižvelgiama į
+Lietuvos Respublikoje, nuostatos, taip pat atsižvelgiama į Tarptautinės darbo
 
-Tarptautinės darbo organizacijos rekomendacijas.
+organizacijos rekomendacijas.
 
 86
 
@@ -5767,7 +5765,7 @@ RESPUBLIKOS PREZIDENTAS
 
 ALGIRDAS BRAZAUSKAS
 
-__________
+_________________
 
 Pakeitimai:
 
@@ -5881,13 +5879,35 @@ DARBUOTOJŲ
 
 SAUGOS IR SVEIKATOS ĮSTATYMO 45 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1453,
+
+2003-04-03, Žin., 2003, Nr. 38-1698 (2003-04-24)
+
+DARBUOTOJŲ
+
+SAUGOS IR SVEIKATOS ĮSTATYMO 71 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin.,
+
+2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin.,
+
+2002, Nr. 37-1341), t.y. nuo 2003 m .gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-07-17)
+Aušrinė Trapinskienė (2003-05-08)
 
 autrap@lrs.lt
 
