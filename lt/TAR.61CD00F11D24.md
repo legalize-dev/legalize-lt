@@ -4,7 +4,7 @@ identifier: "TAR.61CD00F11D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-25"
-last_updated: "1999-11-18"
+last_updated: "1999-11-23"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61CD00F11D24"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė
 
-(1999.12.03)
+(1999.12.09)
 
 Įstatymas paskelbtas: Žin., 1998, Nr.64-1840
 
@@ -67,6 +67,16 @@ Nr. VIII-1429, 99.11.18, Žin., 1999, Nr.102-2923 (99.12.01)
 LIETUVOS
 
 RESPUBLIKOS ADVOKATŪROS ĮSTATYMO 35 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1435, 99.11.23, Žin., 1999, Nr.104-2975 (99.12.08)
+
+LIETUVOS
+
+RESPUBLIKOS ADVOKATŪROS ĮSTATYMO 44 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 *** Pabaiga ***
 
@@ -154,7 +164,9 @@ nepriklausomumas;
 
 demokratiškumas ir kolegiškumas;
 
-4) advokatų profesinės veiklos teisėtumas;
+4) advokatų profesinės veiklos
+
+teisėtumas;
 
 5) Advokatų profesinės etikos kodekso
 
@@ -296,23 +308,23 @@ kuria jis verčiasi, nėra suderinama su Advokatų profesinės etikos kodekso
 
 reikalavimais;
 
-6) jeigu pareiškėjas atleistas iš
+6) jeigu pareiškėjas atleistas iš teisėjų,
 
-teisėjų, notarų, advokatų, prokurorų ar teisėsaugos institucijų už profesinės
+notarų, advokatų, prokurorų ar teisėsaugos institucijų už profesinės veiklos
 
-veiklos pažeidimus.
+pažeidimus.
 
 10 straipsnis. Išvada dėl asmens
 
 sveikatos
 
-Lietuvos advokatų taryba, spręsdama asmens
+Lietuvos advokatų taryba, spręsdama
 
-pripažinimo advokatu klausimą, šio įstatymo 7 straipsnio 7 punkte ir 9
+asmens pripažinimo advokatu klausimą, šio įstatymo 7 straipsnio 7 punkte ir 9 straipsnio
 
-straipsnio 4 punkte nurodytais pagrindais turi pareikalauti iš pareiškėjo
+4 punkte nurodytais pagrindais turi pareikalauti iš pareiškėjo pateikti
 
-pateikti medicinos išvadą dėl sveikatos būklės.
+medicinos išvadą dėl sveikatos būklės.
 
 11 straipsnis. Pripažinimo advokatu
 
@@ -326,9 +338,9 @@ nuo prašymo ir reikiamų dokumentų padavimo dienos ir apie tai informuoja
 
 pareiškėją ne vėliau kaip per 5 dienas.
 
-2. Atsisakymas pripažinti pareiškėją advokatu
+2. Atsisakymas pripažinti pareiškėją
 
-turi būti motyvuotas raštu. Pareiškėjas per 14 dienų nuo atsisakymo įteikimo
+advokatu turi būti motyvuotas raštu. Pareiškėjas per 14 dienų nuo atsisakymo įteikimo
 
 dienos turi teisę sprendimą atsisakyti pripažinti advokatu apskųsti Vilniaus
 
@@ -504,13 +516,13 @@ dalykai: Lietuvos Respublikos konstitucinės teisės, Lietuvos Respublikos
 
 administracinės teisės, Lietuvos Respublikos civilinės teisės, Lietuvos
 
-Respublikos civilinio proceso teisės, Lietuvos Respublikos baudžiamosios teisės,
+Respublikos civilinio proceso teisės, Lietuvos Respublikos baudžiamosios
 
-Lietuvos Respublikos baudžiamojo proceso teisės, Lietuvos Respublikos darbo
+teisės, Lietuvos Respublikos baudžiamojo proceso teisės, Lietuvos Respublikos
 
-teisės, Lietuvos Respublikos finansų teisės, tarptautinės viešosios teisės,
+darbo teisės, Lietuvos Respublikos finansų teisės, tarptautinės viešosios
 
-Europos Sąjungos teisės.
+teisės, Europos Sąjungos teisės.
 
 3. Neišlaikęs advokato kvalifikacinių
 
@@ -524,9 +536,9 @@ per ketvirtį.
 
 5. Jeigu asmuo per 2 metus nuo advokato
 
-kvalifikacinių egzaminų išlaikymo advokatu nepripažįstamas, advokato kvalifikacinių
+kvalifikacinių egzaminų išlaikymo advokatu nepripažįstamas, advokato
 
-egzaminų rezultatai netenka galios.
+kvalifikacinių egzaminų rezultatai netenka galios.
 
 Straipsnio
 
@@ -688,9 +700,9 @@ prisiekiu būti ištikimas(-a) Lietuvos Respublikai, laikytis jos Konstitucijos
 
 ir įstatymų, padėti ginti žmogaus teises, laisves ir teisėtus interesus, dorai
 
-ir sąžiningai atlikti advokato pareigas, saugoti profesinę paslaptį ir savo
+ir sąžiningai atlikti advokato pareigas, saugoti profesinę paslaptį ir savo elgesiu
 
-elgesiu nepakenkti advokato vardui.
+nepakenkti advokato vardui.
 
 Tepadeda man Dievas.”
 
@@ -764,23 +776,23 @@ bylose bei teisinę pagalbą baudžiamosiose bylose pagal tardytojo, prokuroro a
 
 teismo paskyrimą.
 
-5. Advokato(-ų) kontoros steigimo ir
+5. Advokato(-ų) kontoros steigimo ir registravimo
 
-registravimo tvarką reglamentuoja Lietuvos advokatūros statutas, kurio
+tvarką reglamentuoja Lietuvos advokatūros statutas, kurio nuostatos negali
 
-nuostatos negali prieštarauti šiam įstatymui bei negali nustatyti advokato(-ų)
+prieštarauti šiam įstatymui bei negali nustatyti advokato(-ų) kontoroje
 
-kontoroje papildomų, nei nurodyta šio straipsnio 6 dalyje, reikalavimų.
+papildomų, nei nurodyta šio straipsnio 6 dalyje, reikalavimų.
 
-6. Advokato(-ų) kontoroje turi būti
+6. Advokato(-ų) kontoroje turi būti priimamasis
 
-priimamasis bei telefoninis ryšis (stacionarinis arba mobilusis).
+bei telefoninis ryšis (stacionarinis arba mobilusis).
 
 7. Advokato(-ų) kontoros dokumentų
 
-tvarkymo tvarką, gaunamų lėšų apskaitą ir apskaitos dokumentų formas nustato Lietuvos
+tvarkymo tvarką, gaunamų lėšų apskaitą ir apskaitos dokumentų formas nustato
 
-advokatų taryba, suderinusi su Finansų ministerija.
+Lietuvos advokatų taryba, suderinusi su Finansų ministerija.
 
 8. Advokatas (-ai) gali steigti
 
@@ -842,9 +854,9 @@ advokato praktika, sąrašą (toliau - Praktikuojančių advokatų sąrašas) ad
 
 kaip per 14 dienų nuo prašymo gavimo dienos įrašo advokatą į Praktikuojančių
 
-advokatų sąrašą, jeigu šis yra prisiekęs, pateikia civilinės atsakomybės draudimo
+advokatų sąrašą, jeigu šis yra prisiekęs, pateikia civilinės atsakomybės
 
-sutartį bei dokumentus, įrodančius nuolatinės darbo vietos buvimą.
+draudimo sutartį bei dokumentus, įrodančius nuolatinės darbo vietos buvimą.
 
 3. Apie advokato įrašymą į
 
@@ -882,9 +894,9 @@ sprendimas pripažinti asmenį advokatu;
 
 teismo sprendimas;
 
-4) paaiškėja, kad įrašant į Praktikuojančių
+4) paaiškėja, kad įrašant į
 
-advokatų sąrašą buvo pateikti tikrovės neatitinkantys duomenys;
+Praktikuojančių advokatų sąrašą buvo pateikti tikrovės neatitinkantys duomenys;
 
 5) advokatas yra išrenkamas į valstybės
 
@@ -1008,9 +1020,9 @@ advokatų padėjėjų sąrašą asmenį, kuris:
 
 nurodytą šio įstatymo 7 straipsnio 2 punkte;
 
-2) yra nepriekaištingos reputacijos
+2) yra nepriekaištingos reputacijos pagal
 
-pagal šio įstatymo 9 straipsnį;
+šio įstatymo 9 straipsnį;
 
 3) yra susitaręs su advokatu atlikti
 
@@ -1088,9 +1100,9 @@ praktikos atlikimą.
 
 praktikos atlikimo tvarka
 
-Advokato padėjėjo praktikos atlikimo tvarką
+Advokato padėjėjo praktikos atlikimo
 
-nustato Lietuvos advokatūros statutas.
+tvarką nustato Lietuvos advokatūros statutas.
 
 PENKTASIS
 
@@ -1120,9 +1132,9 @@ profesinės etikos kodekso reikalavimų.
 
 laikytis duotos priesaikos ir įstatymų.
 
-33 straipsnis. Atsisakymas sudaryti teisinės
+33 straipsnis. Atsisakymas sudaryti
 
-pagalbos sutartį
+teisinės pagalbos sutartį
 
 Jeigu advokatas nenori sudaryti su
 
@@ -1216,9 +1228,9 @@ turi teisę:
 
 1) atstovauti šalims, pareiškėjams,
 
-tretiesiems ir suinteresuotiems asmenims teismuose nagrinėjant civilines ir administracines
+tretiesiems ir suinteresuotiems asmenims teismuose nagrinėjant civilines ir
 
-bylas, dalyvauti gynėju ar atstovu baudžiamosiose bylose;
+administracines bylas, dalyvauti gynėju ar atstovu baudžiamosiose bylose;
 
 2) fizinių ir juridinių asmenų pavedimu
 
@@ -1264,7 +1276,9 @@ pašalinių susitikti su klientu, išskyrus įstatymų numatytus atvejus.
 
 1. Advokatas negali būti liudytoju ar
 
-teikti paaiškinimų dėl aplinkybių, kurias sužinojo atlikdamas savo profesines pareigas.
+teikti paaiškinimų dėl aplinkybių, kurias sužinojo atlikdamas savo profesines
+
+pareigas.
 
 2. Profesinių pareigų atlikimo metu
 
@@ -1348,15 +1362,21 @@ nustato Lietuvos advokatūros statutas.
 
 teikiamą teisinę pagalbą
 
-1. Advokatui už teisinės pagalbos
+1. Advokatui už teisinės pagalbos teikimą
 
-teikimą klientai moka užmokestį. Dėl užmokesčio dydžio klientas ir advokatas
+klientai moka užmokestį. Dėl užmokesčio dydžio klientas ir advokatas susitaria
 
-susitaria raštu Lietuvos advokatūros statute nustatyta tvarka.
+raštu Lietuvos advokatūros statute nustatyta tvarka.
 
-2. Draudžiama dėl advokato užmokesčio
+2. Draudžiama dėl advokato užmokesčio susitarti
 
-susitarti taip, kad šio užmokesčio dydis priklausytų nuo bylos baigties.
+taip, kad šio užmokesčio dydis priklausytų nuo bylos baigties, išskyrus civilines
+
+bylas dėl atlyginimo žalos, padarytos fiziniam asmeniui kūno sužalojimo ar
+
+sveikatos netekimo atvejais. Šiais atvejais advokato užmokestis negali viršyti
+
+1/3 patenkintos ieškinio sumos.
 
 3. Nustatant užmokesčio dydį, turi būti
 
@@ -1369,6 +1389,12 @@ finansinę padėtį ir kitas reikšmingas aplinkybes.
 Lietuvos advokatų tarybos pirmininku tvirtina rekomendacijas dėl užmokesčio
 
 dydžio ir apskaičiavimo tvarkos.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-1435, 99.11.23, Žin., 1999, Nr.104-2975 (99.12.08)
 
 45 straipsnis. Advokato išlaidų
 
@@ -1644,9 +1670,9 @@ ir jos pirmininko teisės
 
 1. Lietuvos advokatų taryba:
 
-1) renka iš savo narių tarybos pirmininko
+1) renka iš savo narių tarybos
 
-pavaduotoją;
+pirmininko pavaduotoją;
 
 2) steigia ir registruoja advokatų
 
@@ -1720,11 +1746,11 @@ TARYBOS LĖŠOS
 
 lėšos
 
-Lietuvos advokatų tarybos lėšos sudaromos
+Lietuvos advokatų tarybos lėšos
 
-iš advokatų privalomų piniginių įmokų, kurias advokatai sumoka iš užmokesčio už
+sudaromos iš advokatų privalomų piniginių įmokų, kurias advokatai sumoka iš
 
-suteiktą teisinę pagalbą.
+užmokesčio už suteiktą teisinę pagalbą.
 
 DEŠIMTASIS
 
