@@ -4,7 +4,7 @@ identifier: "TAR.075D49C59279"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-07-25"
-last_updated: "2002-11-22"
+last_updated: "2003-04-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.075D49C59279"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -2357,19 +2357,29 @@ Nr. IX-496,
 
 2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
 
-22
+22 straipsnis. Specialiosios nuostatos
 
-straipsnis. Specialiosios nuostatos
+1.
 
-Savivaldybių institucijos
+Savivaldybių institucijos iki 2002 m. liepos 1 d. savo biudžeto lėšomis
 
-iki 2002 m. liepos 1 d. savo biudžeto lėšomis parengia ir patvirtina
+parengia ir patvirtina miestų vietovių, kuriose numatoma už nuosavybės teise
 
-miestų vietovių, kuriose numatoma už nuosavybės teise turėtą žemę suteikti
+turėtą žemę suteikti žemės sklypus individualaus gyvenamojo namo statybai ar
 
-žemės sklypus individualaus gyvenamojo namo statybai ar kitai paskirčiai,
+kitai paskirčiai, teritorijų planavimo dokumentus (detaliuosius planus).
 
-teritorijų planavimo dokumentus (detaliuosius planus).
+2. Valstybinės
+
+žemės sklypų naudotojai, kuriems žemės sklypai suteikti teisės aktų nustatyta
+
+tvarka arba kuriems žemę administruojančių institucijų sprendimais leista žeme
+
+naudotis žemės reformos metu, Lietuvos Respublikos Vyriausybės nustatyta tvarka
+
+už naudojimąsi žeme iki nuomos ar pirkimo–pardavimo sutarčių sudarymo moka
+
+žemės nuomos mokestį, išskyrus už žemę, perduotą naudotis panaudai.
 
 Straipsnio
 
@@ -2379,9 +2389,15 @@ Nr. VIII-1757,
 
 00.06.27, Žin., 2000, Nr.56-1649 (00.07.12)
 
-Nr. IX-496, 2001-08-03,
+Nr. IX-496,
 
-Žin., 2001, Nr. 71-2524 (2001-08-17)
+2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
+
+Nr.
+
+IX-1415,
+
+2003-04-03, Žin., 2003, Nr. 38-1660 (2003-04-24)
 
 LIETUVOS RESPUBLIKOS
 
@@ -2657,39 +2673,27 @@ REFORMOS ĮSTATYMO 7, 9, 10, 14, 15, 16, 18, 19 STRAIPSNIŲ PAKEITIMO IR
 
 PAPILDYMO ĮSTATYMAS
 
+17.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1415,
+
+2003-04-03, Žin., 2003, Nr. 38-1660 (2003-04-24)
+
+ŽEMĖS
+
+REFORMOS ĮSTATYMO 22 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2002-11-25)
+Aušra Bodin (2003-04-24)
 
 aubodi@lrs.lt
-
-22 straipsnis.
-
-Specialiosios nuostatos
-
-Miestų (rajonų) savivaldybės iki 1999 m.
-
-sausio 1 d. biudžeto lėšomis parengia miestų vietovių, kuriose numatoma už
-
-nuosavybės teise turėtą žemę suteikti žemės sklypus individualiai statybai ar
-
-kitai paskirčiai, teritorijų planavimo dokumentus (detaliuosius planus) ir
-
-Vyriausybės nustatyta tvarka šias teritorijas įrengia.
-
-LIETUVOS RESPUBLIKOS
-
-AUKŠČIAUSIOSIOS
-
-TARYBOS PIRMININKAS                    VYTAUTAS LANDSBERGIS
-
-Vilnius, 1991 m.
-
-liepos 25 d.
-
-Nr. I-1607
 
