@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2025-09-01"
+last_updated: "2028-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2025-09-01 iki 2027-12-31
+Suvestinė redakcija nuo 2028-01-01 iki 2028-12-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -511,19 +511,13 @@ Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
 
 1) stojantieji į pirmosios pakopos universitetines ir vientisąsias studijas ir pirmosios pakopos kolegines studijas yra baigę trumposios pakopos studijas;
 
-2) stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas atitinka aukštosios mokyklos nustatytas specialiųjų gebėjimų ir kompetencijų sąlygas ir turi ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį; stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas – ne trumpesnę kaip 24 mėnesių praktinės veiklos patirtį; stojantieji į trumposios pakopos studijas – ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį. Į praktinės veiklos patirties trukmę įskaitomas darbas pagal darbo sutartį, savanoriška veikla pagal savanoriškos veiklos sutartį, nuolatinė privalomoji pradinė karo tarnyba, profesinė karo tarnyba ir savanoriška nenuolatinė karo tarnyba. Reikalavimus praktinės veiklos patirčiai ir praktinės veiklos patirties trukmės skaičiavimo tvarką nustato švietimo, mokslo ir sporto ministras;
-
-TAR pastaba: 77 straipsnio 11 dalies 2 punkto redakcija nuo 2026-01-01:
-
-2) stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas atitinka aukštosios mokyklos nustatytas specialiųjų gebėjimų ir kompetencijų sąlygas ir turi ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį; stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas – ne trumpesnę kaip 24 mėnesių praktinės veiklos patirtį; stojantieji į trumposios pakopos studijas – ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį. Į praktinės veiklos patirties trukmę įskaitoma darbo pagal darbo sutartį, savanoriškos veiklos pagal savanoriškos veiklos sutartį, privalomosios pradinės karo tarnybos, profesinės karo tarnybos ir savanoriškos nenuolatinės karo tarnybos trukmė. Reikalavimus praktinės veiklos patirčiai ir praktinės veiklos patirties trukmės skaičiavimo tvarką nustato švietimo, mokslo ir sporto ministras;
-
-TAR pastaba: 77 straipsnio 11 dalies 2 punkto redakcija nuo 2027-07-01:
-
 2) stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas atitinka aukštosios mokyklos nustatytas specialiųjų gebėjimų ir kompetencijų sąlygas ir turi ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį; stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas – ne trumpesnę kaip 24 mėnesių praktinės veiklos patirtį; stojantieji į trumposios pakopos studijas – ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį. Į praktinės veiklos patirties trukmę įskaitoma darbo pagal darbo sutartį, savanoriškos veiklos pagal savanoriškos veiklos sutartį, privalomosios pradinės karo tarnybos, išskyrus atliktą 9 mėnesių privalomąją pradinę karo tarnybą, profesinės karo tarnybos ir savanoriškos nenuolatinės karo tarnybos trukmė. Atlikta 9 mėnesių privalomoji pradinė karo tarnyba prilyginama 12 mėnesių praktinės veiklos patirčiai. Reikalavimus praktinės veiklos patirčiai ir praktinės veiklos patirties trukmės skaičiavimo tvarką nustato švietimo, mokslo ir sporto ministras;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIV-2844, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12154
+
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 3) asmenys, kurie atitinka šio įstatymo 821 straipsnio 3 dalyje nurodytus kriterijus.
 
@@ -2693,7 +2687,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
-9. Aukštojo mokslo kvalifikacijų atitiktį Lietuvos kvalifikacijų sandaros lygiams nustato Vyriausybė.
+9. Universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis yra nustatomas atliekant šio įstatymo 751 straipsnio 2 dalyje nurodytą kas penkerius metus atliekamą ekspertinį mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Kolegijų taikomųjų mokslinių tyrimų ir eksperimentinės plėtros lygis yra nustatomas atliekant kas 5 metus vykdomą ekspertinį taikomųjų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimą, remiantis taikomųjų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos kokybės, ekonominio ir socialinio poveikio, veiklos perspektyvumo kriterijais, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis apskaičiuojamas nustačius mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos kokybės vertinimo balų reikšmes pagal atitinkamas mokslo (meno) kryptis ir vertinamas pagal penkių balų skalę, kur 5 balai reiškia, kad vykdomi puikaus lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 4 balai reiškia, kad vykdomi labai gero lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 3 balai reiškia, kad vykdomi gero lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 2 balai reiškia, kad vykdomų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis yra patenkinamas, 1 balas reiškia, kad vykdomi žemo lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 0 balų reiškia, kad nevykdomi moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -2971,15 +2969,13 @@ Nr. XIV-2844, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12154
 
 5. Valstybė sudaro studentui, kuris mokosi kitoje vietoje negu jo nuolatinė gyvenamoji vieta, sąlygas pasirinkti asmens sveikatos priežiūros įstaigą ir gydytojus Lietuvos Respublikos sveikatos sistemos įstatymo nustatyta tvarka.
 
-6. Lietuvos Respublikos piliečiams, kurie mokosi aukštosiose mokyklose, sudaromos sąlygos atlikti privalomąją pradinę karo tarnybą Lietuvos Respublikos karo prievolės įstatymo nustatyta tvarka.
-
-TAR pastaba: 62 straipsnio 6 dalies redakcija nuo 2026-01-01:
-
 6. Lietuvos Respublikos piliečiams, kurie mokosi aukštosiose mokyklose, sudaromos sąlygos derinti studijas ir privalomosios pradinės karo tarnybos atlikimą arba išeiti akademinių atostogų bet kuriuo studijų laikotarpiu ir atlikti privalomąją pradinę karo tarnybą Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-2844, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12154
+
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 7. Aukštosios mokyklos vadovas arba jo įgalioti asmenys, gavę studentų rašytinius prašymus, skundus ar pranešimus dėl šiame įstatyme ar kituose teisės aktuose nustatytų jų teisių arba teisėtų interesų pažeidimų, privalo per 15 kalendorinių dienų juos išnagrinėti ir raštu atsakyti.
 
