@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "1997-06-03"
+last_updated: "1997-06-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.06.10)
+Ramunė Lūžaitė (1997.07.03)
 
 Įstatymas
 
@@ -169,9 +169,25 @@ LIETUVOS
 
 RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 4 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-299, 97.06.24, Žin., 1997, Nr.62-1465 (97.07.01)
+
+LIETUVOS
+
+RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
+
+LIETUVOS RESPUBLIKOS
 
 VIETOS SAVIVALDOS
 
@@ -425,9 +441,9 @@ Taryba
 
 ne rečiau kaip vieną kartą per metus turi informuoti gyventojus apie savo ir
 
-jos suformuotų institucijų veiklą, šalinti nurodytus darbo trūkumus,
+jos suformuotų institucijų veiklą, šalinti nurodytus darbo trūkumus, įgyvendinti
 
-įgyvendinti konstruktyvius pasiūlymus.
+konstruktyvius pasiūlymus.
 
 Pagrindinėje
 
@@ -487,9 +503,11 @@ per nustatytą laiką posėdis nesušaukiamas, jį gali šaukti ne mažiau kaip 
 
 visų tarybos narių, apie tai raštu pranešę kitiems tarybos nariams ir
 
-gyventojams. Jei meras ir jo pavaduotojas  posėdyje  nedalyvauja,  pirmininkauja
+gyventojams. Jei meras ir jo pavaduotojas  posėdyje  nedalyvauja,
 
-ir visus posėdyje priimtus dokumentus pasirašo vienas iš tarybos narių.
+pirmininkauja ir visus posėdyje priimtus dokumentus pasirašo vienas iš tarybos
+
+narių.
 
 Apie
 
@@ -731,7 +749,7 @@ pareigas, kai šio nėra.
 
 Mero
 
-pavaduotojas  pirmininkauja tarybos  bei  valdybos posėdžiui, kai svarstomi su
+pavaduotojas  pirmininkauja tarybos  bei  valdybos posėdžiui, kai svarstomi su
 
 mero asmeniu susiję klausimai.
 
@@ -739,9 +757,11 @@ Merui,
 
 mero pavaduotojui įgaliojimai pratęsiami ir po naujų rinkimų iki reikalų
 
-perdavimo naujai išrinktam merui, mero pavaduotojui arba Vyriausybės įgaliotiniui,
+perdavimo naujai išrinktam merui, mero pavaduotojui arba Vyriausybės
 
-kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas.
+įgaliotiniui, kai savivaldybės teritorijoje laikinai įvedamas tiesioginis
+
+valdymas.
 
 Savo įgaliojimų laikui meras gali turėti sekretorių ir patarėjus.
 
@@ -1303,9 +1323,11 @@ sprendimu, pasiūlius valdybos nariams, savivaldybės kontrolieriui ar apskritie
 
 viršininkui.
 
-Valdybos posėdžiai
+Valdybos
 
-protokoluojami. Posėdžių protokolus pasirašo meras ir posėdžių sekretorius.
+posėdžiai protokoluojami. Posėdžių protokolus pasirašo meras ir posėdžių
+
+sekretorius.
 
 Valdybos sprendimai priimami posėdyje dalyvaujančių narių balsų dauguma.
 
@@ -1361,9 +1383,9 @@ straipsnis. Administracija
 
 Tarybos,
 
-mero, valdybos sprendimus įgyvendina bei tarybą, merą, valdybą techniškai aptarnauja
+mero, valdybos sprendimus įgyvendina bei tarybą, merą, valdybą techniškai
 
-administracija.
+aptarnauja administracija.
 
 Administracijos
 
@@ -1921,25 +1943,21 @@ I-1330, 96.05.07, Žin., 1996, Nr.50-1196 (96.05.29)
 
 straipsnis. Valstybės deleguotoji kompetencija
 
-Savivaldos
+Savivaldos institucijos atlieka civilinės metrikacijos funkcijas, tvarko
 
-institucijos  atlieka civilinės metrikacijos funkcijas, tvarko savivaldybių ir
+savivaldybių ir valstybinių bei privataus kapitalo įmonių, visuomeninių
 
-valstybinių bei privataus kapitalo įmonių, visuomeninių organizacijų registrą,
+organizacijų registrą, įgyvendina antrinę sveikatos priežiūrą, taip pat gali
 
-taip pat gali valdyti valstybinius parkus (nacionalinius ir regioninius),
+valdyti valstybinius parkus (nacionalinius ir regioninius), organizuoti
 
-organizuoti savivaldybių policiją, civilinę ir priešgaisrinę saugą, organizuoti
+savivaldybių policiją, civilinę ir priešgaisrinę saugą, įgyvendinti kitas
 
-sveikatinimo veiklą savivaldybės teritorijoje Vyriausybės  nustatyta  tvarka,
+įstatymų deleguotas funkcijas.
 
-įgyvendinti  kitas įstatymų deleguotas funkcijas.
+Savivaldos institucijos, įgyvendindamos deleguotas valstybės funkcijas,
 
-Savivaldos
-
-institucijos,  įgyvendindamos  deleguotas valstybės funkcijas, vadovaujasi
-
-įstatymais, vykdo Vyriausybės nutarimus.
+vadovaujasi įstatymais, vykdo Vyriausybės nutarimus.
 
 Straipsnio
 
@@ -1948,6 +1966,10 @@ pakeitimai:
 Nr.
 
 1-1033, 95.07.05, Žin., 1995, Nr. 59-1486 (95.07.19)
+
+Nr.
+
+VIII-299, 97.06.24, Žin., 1997, Nr.62-1465 (97.07.01)
 
 17
 
@@ -2015,17 +2037,17 @@ valdymo bendrove;
 
 5)
 
-organizuoja vaikų ir jaunimo bendrąjį lavinimą ir papildomą  ugdymą,  suaugusiųjų
+organizuoja vaikų ir jaunimo bendrąjį lavinimą ir papildomą  ugdymą,
 
-bendrąjį  ugdymą,  rūpinasi gyventojų  kultūros  ugdymu,  bendrosios  ir
+suaugusiųjų  bendrąjį  ugdymą,  rūpinasi gyventojų  kultūros  ugdymu,
 
-etnokultūros puoselėjimu, organizuoja gyventojų pirminę sveikatos apsaugą ir
+bendrosios  ir  etnokultūros puoselėjimu, organizuoja gyventojų pirminę
 
-sergamumo  prevenciją, ligonių, invalidų ir senelių slaugą, rūpinasi
+sveikatos apsaugą ir sergamumo  prevenciją, ligonių, invalidų ir senelių
 
-teritorijos sanitarija ir kad būtų laikomasi higienos bei gamtos apsaugos
+slaugą, rūpinasi teritorijos sanitarija ir kad būtų laikomasi higienos bei
 
-reikalavimų, plėtoja gyventojų poilsio ir turizmo industriją;
+gamtos apsaugos reikalavimų, plėtoja gyventojų poilsio ir turizmo industriją;
 
 6)
 
@@ -2067,9 +2089,7 @@ gyventojams paslaugas;
 
 2)
 
-tarybai  įgaliojus skirsto  papildomas  savivaldybės biudžeto lėšas bei kitus
-
-išteklius;
+tarybai  įgaliojus skirsto  papildomas  savivaldybės biudžeto lėšas bei kitus išteklius;
 
 3)
 
@@ -2289,11 +2309,11 @@ Kontrolierius,
 
 neviršydamas Lietuvos Respublikos įstatymų ir tarybos sprendimų   nustatytų
 
-įgaliojimų,  prižiūri,  kaip naudojamos savivaldybės biudžeto lėšos, ar
+įgaliojimų,  prižiūri,  kaip naudojamos savivaldybės biudžeto lėšos, ar teisėtai,
 
-teisėtai, tikslingai ir efektyviai eksploatuojama  savivaldybės nuosavybė, taip
+tikslingai ir efektyviai eksploatuojama  savivaldybės nuosavybė, taip pat
 
-pat savivaldybei patikėta valstybės nuosavybė.
+savivaldybei patikėta valstybės nuosavybė.
 
 Kontrolieriaus
 
@@ -2367,11 +2387,11 @@ nuosavybės teisė atsiranda:
 
 1)
 
-perduodant įstatymų nustatyta tvarka valstybės nuosavybės objektus
+perduodant įstatymų nustatyta tvarka valstybės nuosavybės objektus savivaldybės
 
-savivaldybės  nuosavybėn. Šiuo  atveju  gali  būti įstatymuose nustatytos
+nuosavybėn. Šiuo  atveju  gali  būti įstatymuose nustatytos disponavimo tokiais
 
-disponavimo tokiais objektais apribojimo sąlygos;
+objektais apribojimo sąlygos;
 
 2)
 
@@ -2433,7 +2453,7 @@ tvarka, kokia jis sudaromas ir tvirtinamas.
 
 Lietuvos
 
-valstybės  biudžeto ir  savivaldybių  biudžetų santykius reguliuoja Lietuvos
+valstybės  biudžeto ir  savivaldybių  biudžetų santykius reguliuoja Lietuvos
 
 Respublikos biudžetinės sandaros ir Lietuvos Respublikos mokesčių įstatymai.
 
@@ -2467,13 +2487,13 @@ savivaldybių biudžetų pajamos ar išlaidos dėl Lietuvos valstybės instituci
 
 priimtų aktų keičiasi, pasikeitusios sumos kompensuojamos atitinkamai iš
 
-Lietuvos valstybės ar savivaldybės biudžetų. Kompensacijų sumas derina suinteresuotos
+Lietuvos valstybės ar savivaldybės biudžetų. Kompensacijų sumas derina
 
-šalys. Kilus ginčui, galutinį  sprendimą priima teismas. Lėšos valstybės
+suinteresuotos šalys. Kilus ginčui, galutinį  sprendimą priima teismas. Lėšos
 
-deleguotosioms funkcijoms  įgyvendinti skiriamos iš Lietuvos valstybės
+valstybės deleguotosioms funkcijoms  įgyvendinti skiriamos iš Lietuvos
 
-biudžeto.
+valstybės biudžeto.
 
 Savivaldybė
 
@@ -2529,9 +2549,7 @@ savivaldybių pasiūlymus.
 
 Vyriausybė
 
-remia  savivaldybes rengiant,  tobulinant ir perkvalifikuojant savivaldybių
-
-tarnautojus.
+remia  savivaldybes rengiant,  tobulinant ir perkvalifikuojant savivaldybių tarnautojus.
 
 Savivaldybės
 
