@@ -4,7 +4,7 @@ identifier: "TAR.5180B28B4455"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-15"
-last_updated: "1999-06-22"
+last_updated: "1999-10-19"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455"
 department: "Lietuvos Respublikos Seimas"
@@ -19,13 +19,15 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Redagavo: Ramunė
+Redagavo: Ramunė Lūžaitė
 
-Lūžaitė (1999.07.09)
+(1999.10.28)
 
-Neoficialus įstatymo
+Įstatymas paskelbtas: Žin.,
 
-tekstas
+1995, Nr. 21-490
+
+Neoficialus įstatymo tekstas
 
 Pakeitimai:
 
@@ -57,9 +59,9 @@ I-1409, 96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
 
 LIETUVOS
 
-RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS
+RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ"
 
-SRIČIŲ" PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 3.
 
@@ -95,25 +97,25 @@ SRIČIŲ" 2 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 5.
 
-Lietuvos Respublikos
+Lietuvos Respublikos Seimas,
 
-Seimas, Įstatymas
+Įstatymas
 
-Nr. VIII-174,
+Nr. VIII-174, 97.04.03, Žin.,
 
-97.04.03, Žin., 1997, Nr.31-784 (97.04.16)
+1997, Nr.31-784 (97.04.16)
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS RESPUBLIKOS ĮSTATYMO
 
-ĮSTATYMO “DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ” PAKEITIMO
+“DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ” PAKEITIMO IR
 
-IR PAPILDYMO ĮSTATYMAS
+PAPILDYMO ĮSTATYMAS
 
 6.
 
-Lietuvos Respublikos
+Lietuvos Respublikos Seimas,
 
-Seimas, Įstatymas
+Įstatymas
 
 Nr.
 
@@ -124,6 +126,20 @@ LIETUVOS
 RESPUBLIKOS ĮSTATYMO „DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“
 
 4 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1365, 99.10.19, Žin., 1999, Nr.90-2641
+
+(99.10.27)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO „DĖL SPECIALIOS
+
+PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“ PAKEITIMO ĮSTATYMAS
 
 ***Pabaiga***
 
@@ -138,8 +154,6 @@ Vilnius
 DĖL SPECIALIOS PASKIRTIES BENDROVIŲ
 
 IR JŲ VEIKLOS SRIČIŲ
-
-(Žin., 1995, Nr.21-490)
 
 Lietuvos
 
@@ -217,7 +231,7 @@ VIII-59, 96.12.23, Žin., 1996, Nr.126-2946 (96.12.31)
 
 3
 
-straipsnis. (Panaikintas)
+straipsnis. (Neteko galios)
 
 Straipsnio
 
@@ -391,9 +405,7 @@ Nr. I-1409,
 
 96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
 
-4 straipsnis.(Neteko
-
-galios)
+4 straipsnis.(Neteko galios)
 
 Įstatymas
 
@@ -977,17 +989,9 @@ _________________________________________________________________
 
 Įmonės
 
-kodas                             Pavadinimas
+kodas                             Pavadinimas
 
 _________________________________________________________________
-
-2055155
-
-Lietuvos valstybinė energetikos sistema
-
-2005952
-
-Valstybinė įmonė "Lietuvos dujos"
 
 1005384
 
@@ -1190,4 +1194,8 @@ I-1091, 95.11.09, Žin., 1995, Nr.94-2088 (95.11.17)
 Nr.
 
 I-1537, 96.09.24, Žin., 1996, Nr.100-2259 (96.10.16)
+
+Nr. VIII-1365, 99.10.19, Žin., 1999, Nr.90-2641
+
+(99.10.27)
 
