@@ -4,7 +4,7 @@ identifier: "TAR.717DD0E6FE37"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-02-13"
-last_updated: "1999-01-27"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.717DD0E6FE37"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas
 
-Suvestinė redakcija nuo 1999-01-27 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2008-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 20-520, i. k. 0961010ISTA00I-1202
 
@@ -47,9 +47,17 @@ Apsaugos nuo nusikalstamo poveikio priemonių tikslas yra apsaugoti operatyvinė
 
 1) operatyvinės veiklos dalyviams;
 
-2) asmenims, dalyvaujantiems baudžiamajame procese: liudytojams, nukentėjusiesiems, ekspertams, gynėjams, įtariamiesiems, kaltinamiesiems, teisiamiesiems, nuteistiesiems;
+2) asmenims, dalyvaujantiems baudžiamajame procese: liudytojams, nukentėjusiesiems, ekspertams, gynėjams, įtariamiesiems, kaltinamiesiems, nuteistiesiems, išteisintiesiems;
 
-3) teisingumo ir teisėsaugos institucijų pareigūnams: teisėjams, prokurorams, tardytojams, kvotėjams, teismo antstoliams;
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1441, 2003-04-03, Žin., 2003, Nr. 38-1686 (2003-04-24), i. k. 1031010ISTA0IX-1441
+
+3) teisingumo ir teisėsaugos institucijų pareigūnams: teisėjams, prokurorams, ikiteisminio tyrimo pareigūnams, antstoliams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1441, 2003-04-03, Žin., 2003, Nr. 38-1686 (2003-04-24), i. k. 1031010ISTA0IX-1441
 
 4) šio straipsnio pirmosios dalies 1–3 punktuose išvardytų asmenų artimiesiems: tėvams, įtėviams, vaikams, įvaikiams, broliams ir seserims, seneliams, vaikaičiams bei sutuoktiniams.
 
@@ -57,7 +65,7 @@ Apsaugos nuo nusikalstamo poveikio priemonių tikslas yra apsaugoti operatyvinė
 
 4 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių taikymo pagrindai
 
-1. Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos šio įstatymo 3 straipsnio pirmojoje dalyje išvardytiems asmenims, jei tiriant ar nagrinėjant baudžiamąsias bylas dėl sunkių nusikaltimų, nurodytų Baudžiamojo kodekso 81 straipsnyje, yra realus pagrindas manyti, jog:
+1. Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos šio įstatymo 3 straipsnio pirmojoje dalyje išvardytiems asmenims, jei atliekant ikiteisminį tyrimą ar nagrinėjant baudžiamąsias bylas dėl sunkių ar labai sunkių nusikaltimų, yra realus pagrindas manyti, jog:
 
 1) asmenų gyvybei ar sveikatai gresia pavojus;
 
@@ -65,9 +73,13 @@ Apsaugos nuo nusikalstamo poveikio priemonių tikslas yra apsaugoti operatyvinė
 
 3) asmenų konstitucinėms teisėms ir laisvėms gresia pavojus.
 
-2. Šio įstatymo 3 straipsnio pirmosios dalies 2 punkte nurodytiems asmenims (išskyrus ekspertus bei gynėjus) bei jų artimiesiems apsaugos nuo nusikalstamo poveikio priemonės taikomos, jeigu šie asmenys aktyviai bendradarbiavo su teisingumo ir teisėsaugos institucijų pareigūnais, padėjo išaiškinti nusikaltimą ar suteikė kitos vertingos informacijos teisingumo ir teisėsaugos institucijų pareigūnams.
+2. Šio įstatymo 3 straipsnio pirmosios dalies 2 punkte nurodytiems asmenims (išskyrus ekspertus bei gynėjus) bei jų artimiesiems apsaugos nuo nusikalstamo poveikio priemonės taikomos, jeigu šie asmenys aktyviai bendradarbiavo su teisingumo ir teisėsaugos institucijų pareigūnais, padėjo išaiškinti nusikalstamą veiką ar suteikė kitos vertingos informacijos teisingumo ir teisėsaugos institucijų pareigūnams.
 
-3. Apsaugos nuo nusikalstamo poveikio priemonės gali būti skiriamos ir taikomos vykdant operatyvinę veiklą, parengtinio baudžiamosios bylos tyrimo metu, teisminio baudžiamosios bylos nagrinėjimo metu, taip pat pasibaigus operatyvinei veiklai ar teisminiam baudžiamosios bylos nagrinėjimui.
+3. Apsaugos nuo nusikalstamo poveikio priemonės gali būti skiriamos ir taikomos vykdant operatyvinę veiklą, ikiteisminio tyrimo metu, baudžiamosios bylos nagrinėjimo teisme metu, taip pat pasibaigus operatyvinei veiklai ar baudžiamosios bylos nagrinėjimui teisme.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1441, 2003-04-03, Žin., 2003, Nr. 38-1686 (2003-04-24), i. k. 1031010ISTA0IX-1441
 
 II SKIRSNIS
 
@@ -222,4 +234,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1024, 1999-01-14, Žin., 1999, Nr. 11-243 (1999-01-27), i. k. 0991010ISTAIII-1024
 
 LIetuvos Respublikos baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo 5 ir 15 straipsnių papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1441, 2003-04-03, Žin., 2003, Nr. 38-1686 (2003-04-24), i. k. 1031010ISTA0IX-1441
+
+Lietuvos Respublikos baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
 
