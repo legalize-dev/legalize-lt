@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "1998-01-08"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -17,77 +17,17 @@ document_status: "registruotas TA registre"
 
 @D1=19940623;D2=19960430;D3=19960603
 
-Redagavo:
+Įstatymas paskelbtas: Žin., 1994,
 
-Ramunė Lūžaitė (1998.01.19)
+Nr. 51-951
 
-Įstatymas
-
-paskelbtas: Žin., 1994,
-
-Nr.51-951
-
-Neoficialus
-
-įstatymo tekstas
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-I-1316, 96.04.30, Žin., 1996, Nr. 46-1111 (96.05.17)
-
-LIETUVOS
-
-RESPUBLIKOS KONSULINIO MOKESČIO ĮSTATYMO 8 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-444, 97.10.14, Žin., 1997, Nr.97-2441 (97.10.29)
-
-LIETUVOS
-
-RESPUBLIKOS KONSULINIO MOKESČIO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-601, 98.01.08, Žin., 1998, Nr.6-115 (98.01.16)
-
-LIETUVOS
-
-RESPUBLIKOS KONSULINIO MOKESČIO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-***
-
-Pabaiga ***
+Neoficialus įstatymo tekstas
 
 KONSULINIO MOKESČIO
 
 ĮSTATYMAS
 
-1994 m. birželio 23 d. Nr.I-509
+1994 m. birželio 23 d. Nr. I-509
 
 Vilnius
 
@@ -103,15 +43,15 @@ užsienio reikalų ministerijos Konsulinio departamento, Lietuvos Respublikos
 
 diplomatinių atstovybių ir konsulinių įstaigų užsienyje teikiamas konsulines
 
-paslaugas, atliekamus notarinius veiksmus ar išduodamus juridinę  galią
+paslaugas, atliekamus notarinius veiksmus ar išduodamus juridinę galią
 
 turinčius dokumentus.
 
 Konsulinis
 
-mokestis imamas remiantis Lietuvos Respublikos sutartimis su  kitomis valstybėmis,
+mokestis imamas remiantis Lietuvos Respublikos sutartimis su kitomis
 
-šiuo įstatymu, Lietuvos Respublikos notariato įstatymu.
+valstybėmis, šiuo įstatymu, Lietuvos Respublikos notariato įstatymu.
 
 2
 
@@ -121,15 +61,15 @@ Konsulinį
 
 mokestį moka užsienio ir Lietuvos Respublikos juridiniai asmenys, užsienio
 
-valstybių piliečiai ir Lietuvos Respublikos piliečiai,  asmenys be  pilietybės
+valstybių piliečiai ir Lietuvos Respublikos piliečiai, asmenys be pilietybės už
 
-už  Lietuvos Respublikos  Užsienio   reikalų  ministerijos  Konsulinio
+Lietuvos Respublikos Užsienio reikalų ministerijos Konsulinio departamento,
 
-departamento, Lietuvos Respublikos diplomatinių atstovybių ir konsulinių
+Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų užsienyje
 
-įstaigų  užsienyje  jiems  teikiamas  konsulines paslaugas, atliekamus
+jiems teikiamas konsulines paslaugas, atliekamus notarinius veiksmus ar
 
-notarinius veiksmus ar išduodamus juridinę galią turinčius dokumentus.
+išduodamus juridinę galią turinčius dokumentus.
 
 3
 
@@ -163,9 +103,9 @@ legalizavimą;
 
 6)
 
-atliekamus notarinius veiksmus ir konsulines paslaugas globos, rūpybos,  teisės
+atliekamus notarinius veiksmus ir konsulines paslaugas globos, rūpybos, teisės
 
-į  palikimą bei kitais turtiniais klausimais;
+į palikimą bei kitais turtiniais klausimais;
 
 7)
 
@@ -181,13 +121,11 @@ Konsulinio
 
 mokesčio tarifus nustato Lietuvos Respublikos Vyriausybė.
 
-Straipsnio
+Straipsnio pakeitimai:
 
-pakeitimai:
+Nr. VIII-601,
 
-Nr.
-
-VIII-601, 98.01.08, Žin., 1998, Nr.6-115 (98.01.16)
+98.01.08, Žin., 1998, Nr.6-115 (98.01.16)
 
 5
 
@@ -195,15 +133,15 @@ straipsnis. Mokesčio tikslinimas pariteto pagrindais
 
 Lietuvos
 
-Respublikos  Vyriausybė  turi  teisę  pariteto pagrindais padidinti, sumažinti
+Respublikos Vyriausybė turi teisę pariteto pagrindais padidinti, sumažinti arba
 
-arba panaikinti konsulinį mokestį už vizas, dokumentų pareikalavimą ir jų
+panaikinti konsulinį mokestį už vizas, dokumentų pareikalavimą ir jų
 
-legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims,
+legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims, atsižvelgdama
 
-atsižvelgdama į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos
+į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos Respublikos
 
-Respublikos juridinių ir fizinių asmenų.
+juridinių ir fizinių asmenų.
 
 6
 
@@ -215,7 +153,7 @@ mokestis neimamas už:
 
 1)
 
-Lietuvos  Respublikos diplomatinių pasų išdavimą ir įforminimą;
+Lietuvos Respublikos diplomatinių pasų išdavimą ir įforminimą;
 
 2)
 
@@ -227,15 +165,13 @@ pagrindais;
 
 vizų išdavimą ir pratęsimą užsieniečiams, vykstantiems į Lietuvos Respubliką
 
-dalyvauti Respublikos Prezidento, Seimo, Vyriausybės,  ministerijų  ir  kitų
+dalyvauti Respublikos Prezidento, Seimo, Vyriausybės, ministerijų ir kitų
 
-valstybės  institucijų organizuotuose oficialiuose susitikimuose, teikti
+valstybės institucijų organizuotuose oficialiuose susitikimuose, teikti labdarą
 
-labdarą bei organizuotą pagalbą Lietuvai arba su Raudonojo Kryžiaus misija,
+bei organizuotą pagalbą Lietuvai arba su Raudonojo Kryžiaus misija, taip pat
 
-taip pat tarptautinių organizacijų, kurių narė yra Lietuvos Respublika,
-
-atstovams;
+tarptautinių organizacijų, kurių narė yra Lietuvos Respublika, atstovams;
 
 4)
 
@@ -259,7 +195,7 @@ nario ar artimo giminaičio, kai pateikiamas oficialiai patvirtintas dokumentas;
 
 vizų išdavimą sunkiai sergantiems užsieniečiams arba užsieniečiams, kuriems
 
-reikalinga skubi medicinos pagalba, kai pateikiami dokumentai,  išduoti
+reikalinga skubi medicinos pagalba, kai pateikiami dokumentai, išduoti
 
 atitinkamos organizacijos ir patvirtinantys būtinumą nurodytiems asmenims
 
@@ -267,9 +203,9 @@ skubiai vykti į Lietuvos Respublikos teritoriją;
 
 8)
 
-vizų išdavimą užsieniečiams, lydintiems šio straipsnio 7 punkte  nurodytus
+vizų išdavimą užsieniečiams, lydintiems šio straipsnio 7 punkte nurodytus
 
-asmenis,  kai  pateikiamas  dokumentas, patvirtinantis tokio lydėjimo būtinumą;
+asmenis, kai pateikiamas dokumentas, patvirtinantis tokio lydėjimo būtinumą;
 
 9)
 
@@ -285,21 +221,17 @@ norinčių imigruoti asmenų iki 18 metų prašymų imigruoti per teisėtus atst
 
 11)
 
-dokumentų,  susijusių  su  alimentų  išieškojimu, pareikalavimą ir
+dokumentų, susijusių su alimentų išieškojimu, pareikalavimą ir legalizavimą;
 
-legalizavimą;
+12) įvairių dokumentų ikiteisminiam nusikalstamų veikų tyrimui ar
 
-12)
+baudžiamųjų bylų nagrinėjimui teisme teismo išduodamų dokumentų pareikalavimą
 
-įvairių  dokumentų  baudžiamosioms  byloms,  teismo išduodamų dokumentų
+(jeigu jų pareikalauja valstybių, su kuriomis Lietuvos Respublika yra
 
-pareikalavimą  (jeigu  jų  pareikalauja valstybių, su  kuriomis Lietuvos
+pasirašiusi sutartis dėl teisinės pagalbos, valstybės institucijos ar piliečiai
 
-Respublika yra pasirašiusi sutartis dėl  teisinės pagalbos,  valstybės
-
-institucijos ar piliečiai ir tose sutartyse tokia lengvata numatyta) ir jų
-
-legalizavimą;
+ir tose sutartyse tokia lengvata numatyta) ir jų legalizavimą;
 
 13)
 
@@ -317,15 +249,15 @@ laivus, taip pat lėktuvus, išskyrus protestų arba jiems analogiškų dokument
 
 surašymą;
 
-15) vizų išdavimą asmenims, kurių teisės
+15) vizų išdavimą asmenims, kurių teisės atkurtos
 
-atkurtos pagal Lietuvos Respublikos įstatymą “Dėl asmenų, represuotų už
+pagal Lietuvos Respublikos įstatymą “Dėl asmenų, represuotų už pasipriešinimą
 
-pasipriešinimą okupaciniams režimams, teisių atstatymo” (Žin., 1990, Nr.14-386;
+okupaciniams režimams, teisių atstatymo” (Žin., 1990, Nr.14-386; 1995,
 
-1995, Nr.85-1915, Nr.94-2086; 1996, Nr.67-1603, Nr.119-2273), pateikusiems
+Nr.85-1915, Nr.94-2086; 1996, Nr.67-1603, Nr.119-2273), pateikusiems atitinkamą
 
-atitinkamą pažymėjimą;
+pažymėjimą;
 
 16) vizų išdavimą lietuvių kilmės asmenims,
 
@@ -343,21 +275,25 @@ atvykstantiems dirbti pedagoginį darbą Lietuvos Respublikos aukštosiose,
 
 aukštesniosiose, profesinėse ir bendrojo lavinimo mokyklose;
 
-18) asmens grįžimo pažymėjimo išdavimą asmenims,
+18) asmens grįžimo pažymėjimo išdavimą asmenims, kurie
 
-kurie dėl svarbių priežasčių (nelaimingas atsitikimas, liga, nukentėjimas nuo
+dėl svarbių priežasčių (nelaimingas atsitikimas, liga, nukentėjimas nuo
 
-nusikaltimo) negali sumokėti konsulinio mokesčio, pateikusiems oficialiai
+nusikalstamos veikos) negali sumokėti konsulinio mokesčio, pateikusiems
 
-nukentėjimo faktą patvirtinantį dokumentą.
+oficialiai nukentėjimo faktą patvirtinantį dokumentą.
 
-Straipsnio
+Straipsnio pakeitimai:
 
-pakeitimai:
+Nr. VIII-444,
+
+97.10.14, Žin., 1997, Nr.97-2441 (97.10.29)
 
 Nr.
 
-VIII-444, 97.10.14, Žin., 1997, Nr.97-2441 (97.10.29)
+IX-1482,
+
+2003-04-03, Žin., 2003, Nr. 38-1727 (2003-04-24)
 
 7
 
@@ -371,7 +307,7 @@ notarinius veiksmus.
 
 Konsulinio
 
-mokesčio  sumokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+mokesčio sumokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 8
 
@@ -383,7 +319,7 @@ konsulinis mokestis grąžinamas:
 
 1)
 
-kai  sumokėta  daugiau mokesčio negu reikia pagal įstatymą;
+kai sumokėta daugiau mokesčio negu reikia pagal įstatymą;
 
 2)
 
@@ -391,23 +327,21 @@ kai atsisakyta kreiptis dėl konsulinių paslaugų ar notarinių veiksmų atliki
 
 Konsulinis
 
-mokestis grąžinamas, jeigu prašymas dėl jo grąžinimo  valstybinei  mokesčių
+mokestis grąžinamas, jeigu prašymas dėl jo grąžinimo valstybinei mokesčių
 
-inspekcijai  pateiktas per Lietuvos Respublikos mokesčių administravimo
+inspekcijai pateiktas per Lietuvos Respublikos mokesčių administravimo įstatyme
 
-įstatyme nustatytą terminą.
+nustatytą terminą.
 
 Konsulinio
 
-mokesčio  grąžinimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+mokesčio grąžinimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
-Straipsnio
+Straipsnio pakeitimai:
 
-pakeitimai:
+Nr. I-1316,
 
-Nr.
-
-I-1316, 96.04.30, Žin., 1996, Nr. 46-1111 (96.05.17)
+96.04.30, Žin., 1996, Nr. 46-1111 (96.05.17)
 
 9
 
@@ -419,19 +353,17 @@ mokesčio ėmimą kontroliuoja Valstybinė mokesčių inspekcija.
 
 Klaidingai
 
-paimtas  arba nepaimtas konsulinis mokestis išieškomas iš įstaigos, dėl kurios
+paimtas arba nepaimtas konsulinis mokestis išieškomas iš įstaigos, dėl kurios
 
 kaltės mokestis buvo paimtas klaidingai arba visai nepaimtas, Lietuvos
 
 Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 
-Straipsnio
+Straipsnio pakeitimai:
 
-pakeitimai:
+Nr. I-1316,
 
-Nr.
-
-I-1316, 96.04.30, Žin., 1996, Nr. 46-1111 (96.05.17)
+96.04.30, Žin., 1996, Nr. 46-1111 (96.05.17)
 
 10
 
@@ -447,13 +379,13 @@ straipsnis. Baigiamosios nuostatos
 
 Lietuvos
 
-Respublikos  konsulinio  mokesčio  įstatymas įsigalioja nuo 1995 m. sausio 1
+Respublikos konsulinio mokesčio įstatymas įsigalioja nuo 1995 m. sausio
 
-dienos.
+1 dienos.
 
 Lietuvos
 
-Respublikos Vyriausybė iki 1994 m. lapkričio 1 d. nustato konsulinio  mokesčio
+Respublikos Vyriausybė iki 1994 m. lapkričio 1 d. nustato konsulinio mokesčio
 
 tarifus, mokėjimo ir grąžinimo tvarką.
 
@@ -463,7 +395,89 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS                          ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                  ALGIRDAS BRAZAUSKAS
+
+______________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. I-1316,
+
+96.04.30, Žin., 1996, Nr. 46-1111 (96.05.17)
+
+LIETUVOS RESPUBLIKOS KONSULINIO
+
+MOKESČIO ĮSTATYMO 8 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 1996
+
+metų liepos 1 dienos.
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-444,
+
+97.10.14, Žin., 1997, Nr.97-2441 (97.10.29)
+
+LIETUVOS RESPUBLIKOS KONSULINIO
+
+MOKESČIO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO
+
+3.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-601,
+
+98.01.08, Žin., 1998, Nr.6-115 (98.01.16)
+
+LIETUVOS RESPUBLIKOS KONSULINIO
+
+MOKESČIO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1482,
+
+2003-04-03, Žin., 2003, Nr. 38-1727 (2003-04-24)
+
+KONSULINIO
+
+MOKESČIO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja kartu su
+
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+
+2003 m. gegužės 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2003-05-06)
+
+autrap@lrs.lt
 
 1 straipsnis.
 
