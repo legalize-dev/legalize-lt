@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "1998-02-13"
+last_updated: "1998-02-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1998.02.18)
+Ramunė Lūžaitė (1998.03.02)
 
 Įstatymas
 
@@ -63,6 +63,22 @@ LIETUVOS RESPUBLIKOS
 GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 3, 6 IR 10 STRAIPSNIŲ PAKEITIMO
 
 ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-632, 98.02.17, Žin., 1998, Nr.20-504 (98.02.25)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -146,11 +162,11 @@ išskyrus užsienio valstybių diplomatus, diplomatinių atstovybių ir konsulin
 
 įstaigų darbuotojus - užsienio valstybių piliečius, deklaruoja turtą ir
 
-pajamas, pateikdami pagal gyvenamąją vietą valstybinei mokesčių inspekcijai
+pajamas, pateikdami pagal gyvenamąją vietą valstybinei mokesčių inspekcijai Vyriausybės
 
-Vyriausybės nustatytos formos turto ir pajamų deklaracijas. Nepilnamečių asmenų
+nustatytos formos turto ir pajamų deklaracijas. Nepilnamečių asmenų turtą ir
 
-turtą ir pajamas deklaruoja vienas iš tėvų, įtėvių, globėjų ar rūpintojų.
+pajamas deklaruoja vienas iš tėvų, įtėvių, globėjų ar rūpintojų.
 
 2. Deklaracija pateikiama kasmet iki gegužės 1 dienos už praėjusius
 
@@ -176,11 +192,11 @@ ir pajamų deklaracijos formą bei metodinius nurodymus, kaip ją pildyti, nusta
 
 Vyriausybė. Valstybinė mokesčių inspekcija pagal šį įstatymą deklaruojančius
 
-turtą ir pajamas asmenis nemokamai aprūpina turto ir pajamų deklaracijų blankais
+turtą ir pajamas asmenis nemokamai aprūpina turto ir pajamų deklaracijų
 
-bei metodiniais nurodymais. Užpildytos turto ir pajamų deklaracijos saugomos
+blankais bei metodiniais nurodymais. Užpildytos turto ir pajamų deklaracijos
 
-nuolatinai.
+saugomos nuolatinai.
 
 5
 
@@ -266,13 +282,13 @@ straipsnis. Duomenų kaupimas ir kontrolė
 
 Valstybinė mokesčių inspekcija tikrina turto ir pajamų deklaracijose nurodytų
 
-duomenų teisingumą, kaupia ir saugo šio įstatymo 3 straipsnyje nurodytų
+duomenų teisingumą, kaupia ir saugo šio įstatymo 3 straipsnyje nurodytų Lietuvos
 
-Lietuvos Respublikos gyventojų pateiktas turto ir pajamų deklaracijas bei iš
+Respublikos gyventojų pateiktas turto ir pajamų deklaracijas bei iš kitų
 
-kitų šaltinių gautą informaciją apie šių Lietuvos Respublikos gyventojų pajamas
+šaltinių gautą informaciją apie šių Lietuvos Respublikos gyventojų pajamas ir
 
-ir turtą, patvirtina, siunčia “Valstybės žinių” redakcijai ir išduoda
+turtą, patvirtina, siunčia “Valstybės žinių” redakcijai ir išduoda
 
 deklaravusiajam turtą ir pajamas Lietuvos Respublikos gyventojų turto ir pajamų
 
@@ -300,11 +316,11 @@ straipsnis. Atsakomybė už įstatymo pažeidimą
 
 Privalantis
 
-deklaruoti turtą ir pajamas asmuo, vengiantis pateikti turto ir pajamų
+deklaruoti turtą ir pajamas asmuo, vengiantis pateikti turto ir pajamų deklaraciją,
 
-deklaraciją, taip pat laiku arba iš viso jos nepateikęs, neteisingai nurodęs
+taip pat laiku arba iš viso jos nepateikęs, neteisingai nurodęs duomenis,
 
-duomenis, traukiamas administracinėn ar baudžiamojon atsakomybėn.
+traukiamas administracinėn ar baudžiamojon atsakomybėn.
 
 9
 
@@ -392,29 +408,41 @@ VIII-623, 98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
 
 straipsnis. Įstatymo taikymo tvarka
 
-Šis
+Šis įstatymas taikomas nuo 1996 m. sausio 1
 
-įstatymas taikomas nuo 1996 m. sausio 1 d. tokia tvarka:
+d. tokia tvarka:
 
-1)
+1) šio įstatymo 1 priedėlyje išvardinti
 
-šio įstatymo 1 priedėlyje išvardinti Lietuvos Respublikos politikai, valstybės
+Lietuvos Respublikos politikai, valstybės tarnautojai ir jų šeimų nariai turtą
 
-tarnautojai ir jų šeimų nariai turtą ir pajamas deklaruoja pagal šį įstatymą
+ir pajamas deklaruoja pagal šį įstatymą nuo 1996 metų;
 
-nuo 1996 metų;
+2) Valstybės saugumo departamento, vidaus
 
-2)
+reikalų sistemos valdininkai ir pareigūnai ir jų šeimų nariai, taip pat teismo
 
-šio įstatymo 2 priedėlyje išvardinti valstybės tarnautojai, ūkinių subjektų
+antstoliai ir jų šeimų nariai, kurie turtą ir pajamas pradeda deklaruoti už
 
-vadovai ir jų šeimų nariai turtą ir pajamas pradeda deklaruoti nuo 1996 metų;
+1997 metus;
 
-3)
+3) šio įstatymo 2 priedėlyje išvardinti
 
-kiti Lietuvos Respublikos gyventojai turtą ir pajamas pradeda deklaruoti nuo
+valstybės tarnautojai, ūkinių subjektų vadovai ir jų šeimų nariai turtą ir
 
-1998 metų.
+pajamas pradeda deklaruoti nuo 1996 metų;
+
+4) kiti Lietuvos Respublikos gyventojai turtą
+
+ir pajamas pradeda deklaruoti nuo 1998 metų.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-632, 98.02.17, Žin., 1998, Nr.20-504 (98.02.25)
 
 12
 
@@ -430,7 +458,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS                                                ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                                ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -440,97 +468,75 @@ Lietuvos Respublikos
 
 1 priedėlis
 
-Politikų, valstybės tarnautojų ir jų šeimos narių,
+Politikų, valstybės tarnautojų ir jų šeimos
 
-kurie nuo 1996 metų deklaruoja turtą ir pajamas,
+narių,
+
+kurie nuo 1996 metų ir už 1997 metus
+
+deklaruoja turtą ir pajamas,
 
 s ą r a š a s
 
-1.
+1. Respublikos Prezidentas
 
-Respublikos Prezidentas
+2. Lietuvos Respublikos Seimo nariai
 
-2.
+3. Lietuvos Respublikos Ministras Pirmininkas
 
-Lietuvos Respublikos Seimo nariai
+ir ministrai, viceministrai, ministerijų sekretoriai
 
-3.
+4. Konstitucinio Teismo pirmininkas ir
 
-Lietuvos Respublikos Ministras Pirmininkas ir ministrai, viceministrai,
+teisėjai, Aukščiausiojo Teismo, Apeliacinio teismo ir apygardų teismų
 
-ministerijų sekretoriai
+pirmininkai, skyrių pirmininkai ir teisėjai, Ūkinio teismo ir apylinkių teismų
 
-4.
+pirmininkai, jų pavaduotojai ir teisėjai, teismo antstoliai
 
-Konstitucinio Teismo pirmininkas ir teisėjai, Aukščiausiojo Teismo, Apeliacinio
+5. Generalinis prokuroras ir generalinio
 
-teismo ir apygardų teismų pirmininkai, skyrių pirmininkai ir teisėjai, Ūkinio
+prokuroro pavaduotojai, Generalinės prokuratūros struktūrinių padalinių, taip
 
-teismo ir apylinkių teismų pirmininkai, jų pavaduotojai ir teisėjai
+pat apygardų ir apylinkių prokuratūrų vadovai
 
-5.
+6. Valstybės kontrolės pareigūnai
 
-Generalinis prokuroras ir generalinio prokuroro pavaduotojai, generalinės
+7. Apskričių viršininkai, apskričių
 
-prokuratūros  struktūrinių padalinių, taip pat apygardų ir apylinkių
+viršininkų pavaduotojai
 
-prokuratūrų vadovai
+8. Lietuvos Respublikos Vyriausybės įstaigų
 
-6.
+(departamentų, agentūrų, tarnybų, inspekcijų), prie ministerijų įsteigtų
 
-Valstybės kontrolės pareigūnai
+departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų vadovai
 
-7.
+(generaliniai direktoriai, direktoriai, viršininkai) ir vadovų pavaduotojai
 
-Apskričių viršininkai, apskričių viršininkų pavaduotojai
+9. Lietuvos banko valdybos pirmininkas ir
 
-8.
+valdybos pirmininko pavaduotojai
 
-Lietuvos Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų,
+10. Muitinės departamento prie Finansų
 
-inspekcijų), prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų
+ministerijos ir teritorinių muitinių pareigūnai
 
-valstybės valdymo institucijų vadovai (generaliniai direktoriai, direktoriai,
+11. Valstybinės mokesčių inspekcijos prie
 
-viršininkai) ir vadovų pavaduotojai
+Finansų ministerijos ir teritorinių mokesčių inspekcijų pareigūnai
 
-9.
-
-Lietuvos banko valdybos pirmininkas ir valdybos pirmininko pavaduotojai
-
-10.
-
-Muitinės departamento prie Finansų ministerijos ir teritorinių muitinių
+12. Vidaus reikalų sistemos valdininkai ir
 
 pareigūnai
 
-11.
+13. Savivaldybių tarybų nariai
 
-Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir teritorinių
+14. Seimo kontrolieriai
 
-mokesčių inspekcijų pareigūnai
-
-12.
-
-Vidaus reikalų ministerijos Ekonominių nusikaltimų tyrimo valdybos ir miestų
-
-bei rajonų komisariatų ekonominių nusikaltimų tyrimo skyrių (poskyrių)
+15. Valstybės saugumo sistemos valdininkai ir
 
 pareigūnai
-
-13.
-
-Policijos komisarai inspektoriai, komisarai, vyresnieji komisarai, vyriausieji
-
-komisarai, generalinis komisaras
-
-14.
-
-Savivaldybių tarybų nariai
-
-15.
-
-Seimo kontrolieriai
 
 Priedėlio
 
@@ -539,6 +545,10 @@ pakeitimai:
 Nr.
 
 VIII-134, 97.02.25, Žin., 1997, Nr. 23-542 (97.03.15)
+
+Nr.
+
+VIII-632, 98.02.17, Žin., 1998, Nr.20-504 (98.02.25)
 
 Lietuvos Respublikos
 
@@ -594,9 +604,11 @@ vyriausiųjų buhalterių (finansininkų) pavaduotojai
 
 6.
 
-Ministerijų struktūrinių padalinių (departamentų, valdybų, kanceliarijų, skyrių,
+Ministerijų struktūrinių padalinių (departamentų, valdybų, kanceliarijų,
 
-poskyrių, sektorių, biurų, grupių) vadovai ir padalinių vadovų pavaduotojai
+skyrių, poskyrių, sektorių, biurų, grupių) vadovai ir padalinių vadovų
+
+pavaduotojai
 
 7.
 
@@ -608,11 +620,11 @@ Diplomatinį rangą turintys asmenys
 
 9.
 
-Apskričių viršininkų administracijų struktūrinių padalinių (departamentų,
+Apskričių viršininkų administracijų struktūrinių padalinių (departamentų, valdybų,
 
-valdybų, inspekcijų, skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir
+inspekcijų, skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir padalinių
 
-padalinių vadovų pavaduotojai
+vadovų pavaduotojai
 
 10.
 
