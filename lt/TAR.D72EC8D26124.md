@@ -4,7 +4,7 @@ identifier: "TAR.D72EC8D26124"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-10-05"
-last_updated: "2001-12-20"
+last_updated: "2001-12-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D72EC8D26124"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -188,7 +188,7 @@ Nr.
 
 VIII-291,
 
-97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+97.06.24, Žin., 1997, Nr.61-1443 (97.06.24)
 
 Nr. VIII-865,
 
@@ -656,320 +656,6 @@ VIII-166,
 
 97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
 
-7
-
-straipsnis.
-
-Į
-
-apmokestinamąsias pajamas neįskaitoma:
-
-1) socialinio aprūpinimo ir socialinės paramos
-
-(šalpos) pašalpos, mokamos iš valstybės bei socialinio draudimo lėšų, išskyrus
-
-ligos, motinystės (tėvystės) pašalpas;
-
-2)
-
-pašalpos, kurias išmoka darbdaviai mirus darbuotojo sutuoktiniui arba kitam
-
-darbuotojo pirmosios eilės įstatyminiam įpėdiniui, taip pat pašalpos stichinių
-
-nelaimių bei gaisrų atvejais;
-
-3) teismų
-
-priteistos materialinės ir moralinės žalos atlyginimo sumos;
-
-4) draudimo
-
-įmokos, nustatytos Lietuvos Respublikos draudimo įstatymo 58 straipsnyje;
-
-5) įstatymų
-
-arba Lietuvos Respublikos Vyriausybės nustatyto dydžio komandiruočių išlaidos,
-
-taip pat kitos su darbu susijusių išlaidų kompensacijos ir su darbo santykiais
-
-susijusių išmokų delspinigiai;
-
-6) prizai
-
-(dovanos), gauti asmeninių švenčių, konkursų bei kitomis progomis, jeigu per
-
-kalendorinius metus šių prizų (dovanų) vertė ne didesnė už nustatytą pajamų
-
-neapmokestinamąjį minimumą.
-
-Apmokestinamosios
-
-pajamos sumažinamos:
-
-1) lėšų suma,
-
-kurią paramos teikėjas davė Lietuvos Respublikos labdaros ir paramos įstatymo
-
-nustatyta tvarka, tačiau neviršijančia 15 procentų apskaičiuotų pajamų,
-
-susijusių su darbo santykiais per kalendorinius metus;
-
-2) pensijų įmokų
-
-į asmenines pensijų programų dalyvių sąskaitas pagal Lietuvos Respublikos
-
-pensijų fondų įstatymą suma, neviršijančia 25 procentų apskaičiuotų pajamų,
-
-susijusių su darbo santykiais, per kalendorinius metus.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.I-1514,
-
-1991.06.27, Žin., 1991, Nr. 19-501
-
-Nr.I-2280,
-
-1992.02.06, Žin., 1992, Nr. 7-150
-
-Nr.I-211,
-
-1993.07.13, Žin., 1993, Nr. 30-681
-
-Nr.
-
-I-892,
-
-95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
-
-Nr.
-
-I-1400,
-
-96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02)
-
-Nr.
-
-I-1461,
-
-96.07.10, Žin., 1996, Nr. 73-1747 (96.07.31)
-
-Nr.
-
-VIII-166,
-
-97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
-
-Nr.
-
-VIII-1303,
-
-99.07.07, Žin., 1999, Nr.66-2121 (99.07.30), įsigalioja nuo 2000.01.01
-
-Nr. VIII-1813, 00.07.11, Žin., 2000,
-
-Nr.64-1911 (00.07.31)
-
-8
-
-straipsnis.
-
-Ne pagrindinėje darbovietėje gaunamos pajamos,
-
-nurodytos šio įstatymo 6 straipsnyje, apmokestinamos 6 straipsnio nustatyta
-
-tvarka pagal 2 priedėlyje nurodytų dydžių pajamų mokesčio tarifus.
-
-Jeigu
-
-darbuotojas dirba keliose darbovietėse, pagrindine darboviete mokesčiams
-
-išskaityti laikoma ta, kurią pasirenka darbuotojas ir nurodo darbo sutartyje
-
-arba nurodo papildomame pareiškime, rašomame pagrindinei darbovietei.
-
-Mokymo
-
-įstaigų studentų ir moksleivių uždarbis, gaunamas gamybinės praktikos ir talkų
-
-metu, gydymo ir darbo profilaktoriumų pacientams, pensionatų globotiniams
-
-mokamas darbo užmokestis apmokestinami šio įstatymo 4 ir 6 straipsniuose
-
-nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.I-2280,
-
-1992.02.06, Žin., 1992, Nr. 7-150
-
-Nr.I-211,
-
-1993.07.13, Žin., 1993, Nr. 30-681
-
-Nr.
-
-I-892,
-
-95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
-
-8(1)
-
-straipsnis.
-
-Lietuvos
-
-Respublikoje gyvenančių ar dirbančių asmenų gaunamos su darbo santykiais
-
-susijusios pajamos iš užsienio juridinių asmenų ir kitų organizacijų,
-
-taip pat pajamos, gaunamos iš užsienio valstybių gyventojų ir iš ūkinės
-
-komercinės ar kitos veiklos užsienio valstybėse, apmokestinamos šio įstatymo V
-
-dalyje nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1184,
-
-96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
-
-Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
-
-62-2236 (2001-07-18)
-
-9
-
-straipsnis.
-
-Pajamų mokestį
-
-pagal šio įstatymo 4 ir 8 straipsniuose nurodytus tarifus išskaito pajamas
-
-apskaičiavusios ir išmokėjusios įmonės, įstaigos, organizacijos, tarp jų
-
-užsienio juridinių asmenų ir kitų organizacijų atstovybės ir nuolatinės
-
-buveinės, bei gyventojai, mokantys uždarbį samdomiems asmenims, ir kas
-
-ketvirtį, per 15 dienų ketvirčiui pasibaigus, pateikia teritorinei valstybinei
-
-mokesčių inspekcijai, kurios teritorijoje yra registruoti, žinias apie
-
-samdomiems asmenims išmokėtą uždarbį ar kitas su darbo santykiais susijusias
-
-išmokas bei išskaitytą ir sumokėtą pajamų mokestį. Žinių pateikimo tvarką
-
-nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. VIII-865,
-
-98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
-
-Nr. IX-438, 2001-07-10, Žin., 2001, Nr. 62-2236
-
-(2001-07-18)
-
-10
-
-straipsnis.
-
-Įmonės,
-
-įstaigos, organizacijos ir gyventojai, gaudami iš banko įstaigų pinigus darbo
-
-apmokėjimui už atitinkamą mėnesį (arba mėnesio antrąją pusę), kartu pateikia
-
-banko įstaigoms mokamąjį pavedimą išskaitytoms iš to mėnesio uždarbių pajamų
-
-mokesčio sumoms sumokėti. Apskaičiuojant išmokėtinas 6 straipsnio 3 punkte
-
-nurodytas išmokas, iš jų išskaitytas pajamų mokestis turi būti pervestas į
-
-biudžetą gaunant iš banko įstaigų pinigus šioms išmokoms. Mokėti pajamų mokestį
-
-iš įmonės, įstaigos ir organizacijos lėšų draudžiama.
-
-Įmonės,
-
-įstaigos, organizacijos ir gyventojai, neturintys banko įstaigose
-
-atsiskaitomųjų sąskaitų arba mokantieji už darbą iš savo einamųjų įplaukų,
-
-išskaitytoms mokesčio sumoms mokėti banko įstaigoms mokamąjį pavedimą pateikia
-
-ne vėliau kaip kitą dieną po atlyginimo išmokėjimo.
-
-Straipsnio pakeitimai:
-
-Nr.I-211,
-
-1993.07.13, Žin., 1993, Nr. 30-681
-
-Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
-
-62-2236 (2001-07-18)
-
-11
-
-straipsnis.
-
-Įmonės,
-
-įstaigos ir organizacijos, turinčios nesavarankiškų struktūrinių padalinių kitų
-
-savivaldybių teritorijoje, išskaitytas pajamų mokesčio sumas iš šių
-
-struktūrinių padalinių dirbančiųjų pajamų perveda į biudžetą toje teritorijoje,
-
-kurioje yra minėtieji struktūriniai padaliniai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.I-1055,
-
-1991.02.14, Žin., 1991, Nr. 6-170
-
-Nr. VIII-1520, 00.01.04, Žin., 2000,
-
-Nr.5-127 (00.01.19), įsigalioja nuo 2001.01.01
-
-12
-
-straipsnis.
-
-Per daug
-
-išskaitytas pajamų mokestis grąžinamas Lietuvos Respublikos mokesčių
-
-administravimo įstatymo nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1309,
-
-96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
-
 6 straipsnis.
 
 Į
@@ -1298,89 +984,153 @@ Nr. VIII-865,
 
 apmokestinamąsias pajamas neįskaitoma:
 
-1)  socialinio
+1) socialinio aprūpinimo ir socialinės paramos
 
-aprūpinimo  ir  socialinės  paramos (šalpos)
+(šalpos) pašalpos, mokamos iš valstybės bei socialinio draudimo lėšų, išskyrus
 
-pašalpos,  mokamos
-
-iš  valstybės  bei  socialinio draudimo lėšų,
-
-išskyrus   ligos,
-
-motinystės   (tėvystės)  pašalpas;  pašalpos,
-
-skiriamos
-
-Vyriausybės  bei  vietos  savivaldos  organų, taip pat
-
-mokamos  iš
-
-labdaros  fondų  bei labdaros organizacijų (išskyrus
-
-pašalpas,   mokamas
-
-šių  fondų  ir  organizacijų  darbuotojams);
-
-įmonių,   įstaigų
-
-ir   organizacijų   mokamos   pašalpos  mirus
-
-darbuotojui  ar jo
-
-šeimos nariui, taip pat stichinių nelaimių bei
-
-gaisrų  atvejais;
-
-iš valstybės biudžeto mokamos premijos, kurios
-
-skiriamos  konkurso
-
-tvarka; draudimo įmokos, nustatytos Lietuvos
-
-Respublikos draudimo
-
-įstatymo 58 straipsnyje;
+ligos, motinystės (tėvystės) pašalpas;
 
 2)
 
-materialinės  ir  moralinės  žalos atlyginimas, taip pat
+pašalpos, kurias išmoka darbdaviai mirus darbuotojo sutuoktiniui arba kitam
 
-įstatymų  ir
+darbuotojo pirmosios eilės įstatyminiam įpėdiniui, taip pat pašalpos stichinių
 
-Lietuvos  Respublikos  Vyriausybės nustatyto dydžio
+nelaimių bei gaisrų atvejais;
 
-kompensacijos:
+[2 punkto redakcija nuo 2002 m. sausio 1
 
-komandiruočių
+d.:
 
-išlaidoms apmokėti,
+2) pašalpos,
 
-kitų su darbu
+kurias išmoka darbdaviai mirus darbuotojo sutuoktiniui, vaikams (įvaikiams),
 
-susijusių išlaidų kompensacijos darbuotojams;
+tėvams (įtėviams), taip pat pašalpos stichinių nelaimių bei gaisrų atvejais;]
 
-3)  prizai
+3) teismų
 
-(dovanos), gauti asmeninių švenčių, konkursų bei
+priteistos materialinės ir moralinės žalos atlyginimo sumos;
 
-kitomis   progomis,
+4) draudimo
 
-jeigu  per  kalendorinius  metus  šių  prizų
+įmokos, nustatytos Lietuvos Respublikos draudimo įstatymo 58 straipsnyje;
 
-(dovanų)  vertė  ne
+5) įstatymų
 
-didesnė už nustatytą pajamų neapmokestinamąjį
+arba Lietuvos Respublikos Vyriausybės nustatyto dydžio komandiruočių išlaidos,
 
-minimumą.
+taip pat kitos su darbu susijusių išlaidų kompensacijos ir su darbo santykiais
 
-Apmokestinamosios  pajamos  sumažinamos  lėšų  suma,   kuri
+susijusių išmokų delspinigiai;
 
-duota labdaros ar
+6) prizai
 
-paramos gavėjui Lietuvos Respublikos  labdaros
+(dovanos), gauti asmeninių švenčių, konkursų bei kitomis progomis, jeigu per
 
-ir paramos įstatymo
+kalendorinius metus šių prizų (dovanų) vertė ne didesnė už nustatytą pajamų
+
+neapmokestinamąjį minimumą.
+
+Apmokestinamosios
+
+pajamos sumažinamos:
+
+1) lėšų suma,
+
+kurią paramos teikėjas davė Lietuvos Respublikos labdaros ir paramos įstatymo
+
+nustatyta tvarka, tačiau neviršijančia 15 procentų apskaičiuotų pajamų,
+
+susijusių su darbo santykiais per kalendorinius metus;
+
+2) pensijų įmokų
+
+į asmenines pensijų programų dalyvių sąskaitas pagal Lietuvos Respublikos
+
+pensijų fondų įstatymą suma, neviršijančia 25 procentų apskaičiuotų pajamų,
+
+susijusių su darbo santykiais, per kalendorinius metus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.I-1514,
+
+1991.06.27, Žin., 1991, Nr. 19-501
+
+Nr.I-2280,
+
+1992.02.06, Žin., 1992, Nr. 7-150
+
+Nr.I-211,
+
+1993.07.13, Žin., 1993, Nr. 30-681
+
+Nr.
+
+I-892,
+
+95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
+
+Nr.
+
+I-1400,
+
+96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02)
+
+Nr.
+
+I-1461,
+
+96.07.10, Žin., 1996, Nr. 73-1747 (96.07.31)
+
+Nr.
+
+VIII-166,
+
+97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
+
+Nr.
+
+VIII-1303,
+
+99.07.07, Žin., 1999, Nr.66-2121 (99.07.30), įsigalioja nuo 2000.01.01
+
+Nr. VIII-1813, 00.07.11, Žin., 2000,
+
+Nr.64-1911 (00.07.31)
+
+Nr. IX-678,
+
+2001-12-21, Žin., 2001, Nr. 110-3994 (2001-12-29), įsigalioja nuo 2002-01-01
+
+8
+
+straipsnis.
+
+Ne pagrindinėje darbovietėje gaunamos pajamos,
+
+nurodytos šio įstatymo 6 straipsnyje, apmokestinamos 6 straipsnio nustatyta
+
+tvarka pagal 2 priedėlyje nurodytų dydžių pajamų mokesčio tarifus.
+
+Jeigu
+
+darbuotojas dirba keliose darbovietėse, pagrindine darboviete mokesčiams
+
+išskaityti laikoma ta, kurią pasirenka darbuotojas ir nurodo darbo sutartyje
+
+arba nurodo papildomame pareiškime, rašomame pagrindinei darbovietei.
+
+Mokymo
+
+įstaigų studentų ir moksleivių uždarbis, gaunamas gamybinės praktikos ir talkų
+
+metu, gydymo ir darbo profilaktoriumų pacientams, pensionatų globotiniams
+
+mokamas darbo užmokestis apmokestinami šio įstatymo 4 ir 6 straipsniuose
 
 nustatyta tvarka.
 
@@ -1388,29 +1138,171 @@ Straipsnio
 
 pakeitimai:
 
-1-1514, 1991.06.27,
+Nr.I-2280,
 
-Žin., 1991, Nr. 19-501
+1992.02.06, Žin., 1992, Nr. 7-150
 
-1-2280, 1992.02.06,
+Nr.I-211,
 
-Žin., 1992, Nr. 7-150
+1993.07.13, Žin., 1993, Nr. 30-681
 
-1-211, 1993.07.13,
+Nr.
 
-Žin., 1993, Nr. 30-681
+I-892,
 
-{#95DOAA0892 ;} Nr.
+95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
 
-1-892, 95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
+8(1)
 
-{#19960625AA1400 ;}
+straipsnis.
 
-Nr. 1-1400, 96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02)
+Lietuvos
 
-{#19960710AA1461 ;}
+Respublikoje gyvenančių ar dirbančių asmenų gaunamos su darbo santykiais
 
-Nr. 1-1461, 96.07.10, Žin., 1996, Nr. 73-1747 (96.07.31)
+susijusios pajamos iš užsienio juridinių asmenų ir kitų organizacijų,
+
+taip pat pajamos, gaunamos iš užsienio valstybių gyventojų ir iš ūkinės
+
+komercinės ar kitos veiklos užsienio valstybėse, apmokestinamos šio įstatymo V
+
+dalyje nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-1184,
+
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+
+Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
+
+62-2236 (2001-07-18)
+
+9
+
+straipsnis.
+
+Pajamų mokestį
+
+pagal šio įstatymo 4 ir 8 straipsniuose nurodytus tarifus išskaito pajamas
+
+apskaičiavusios ir išmokėjusios įmonės, įstaigos, organizacijos, tarp jų
+
+užsienio juridinių asmenų ir kitų organizacijų atstovybės ir nuolatinės
+
+buveinės, bei gyventojai, mokantys uždarbį samdomiems asmenims, ir kas
+
+ketvirtį, per 15 dienų ketvirčiui pasibaigus, pateikia teritorinei valstybinei
+
+mokesčių inspekcijai, kurios teritorijoje yra registruoti, žinias apie
+
+samdomiems asmenims išmokėtą uždarbį ar kitas su darbo santykiais susijusias
+
+išmokas bei išskaitytą ir sumokėtą pajamų mokestį. Žinių pateikimo tvarką
+
+nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-865,
+
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+
+Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
+
+62-2236 (2001-07-18)
+
+10
+
+straipsnis.
+
+Įmonės,
+
+įstaigos, organizacijos ir gyventojai, gaudami iš banko įstaigų pinigus darbo
+
+apmokėjimui už atitinkamą mėnesį (arba mėnesio antrąją pusę), kartu pateikia
+
+banko įstaigoms mokamąjį pavedimą išskaitytoms iš to mėnesio uždarbių pajamų
+
+mokesčio sumoms sumokėti. Apskaičiuojant išmokėtinas 6 straipsnio 3 punkte
+
+nurodytas išmokas, iš jų išskaitytas pajamų mokestis turi būti pervestas į
+
+biudžetą gaunant iš banko įstaigų pinigus šioms išmokoms. Mokėti pajamų mokestį
+
+iš įmonės, įstaigos ir organizacijos lėšų draudžiama.
+
+Įmonės,
+
+įstaigos, organizacijos ir gyventojai, neturintys banko įstaigose
+
+atsiskaitomųjų sąskaitų arba mokantieji už darbą iš savo einamųjų įplaukų,
+
+išskaitytoms mokesčio sumoms mokėti banko įstaigoms mokamąjį pavedimą pateikia
+
+ne vėliau kaip kitą dieną po atlyginimo išmokėjimo.
+
+Straipsnio pakeitimai:
+
+Nr.I-211,
+
+1993.07.13, Žin., 1993, Nr. 30-681
+
+Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
+
+62-2236 (2001-07-18)
+
+11
+
+straipsnis.
+
+Įmonės,
+
+įstaigos ir organizacijos, turinčios nesavarankiškų struktūrinių padalinių kitų
+
+savivaldybių teritorijoje, išskaitytas pajamų mokesčio sumas iš šių
+
+struktūrinių padalinių dirbančiųjų pajamų perveda į biudžetą toje teritorijoje,
+
+kurioje yra minėtieji struktūriniai padaliniai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.I-1055,
+
+1991.02.14, Žin., 1991, Nr. 6-170
+
+Nr. VIII-1520, 00.01.04, Žin., 2000, Nr.5-127
+
+(00.01.19), įsigalioja nuo 2001.01.01
+
+12
+
+straipsnis.
+
+Per daug
+
+išskaitytas pajamų mokestis grąžinamas Lietuvos Respublikos mokesčių
+
+administravimo įstatymo nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-1309,
+
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
 
 8 straipsnis.
 
@@ -4116,11 +4008,11 @@ dydžio pajamų mokestis.
 
 Vaikams iki
 
-18 metų, sutuoktiniams ir tėvams (moterims per 55 metus ir vyrams per 60 metų
+18 metų, sutuoktiniams ir tėvams (moterims per 55 metus ir vyrams per 60 metų amžiaus
 
-amžiaus bei I ir II grupės invalidams nepriklausomai nuo amžiaus) pagal šį
+bei I ir II grupės invalidams nepriklausomai nuo amžiaus) pagal šį straipsnį
 
-straipsnį apskaičiuotas pajamų mokestis mažinamas 50%.
+apskaičiuotas pajamų mokestis mažinamas 50%.
 
 19
 
@@ -6384,11 +6276,11 @@ pajamų apmokestinimo tvarka
 
 33 straipsnis.
 
-Bendrosios
+Bendrosios pajamos
 
-pajamos už turto nuomą bei kitos pajamos, neišvardytos šio įstatymo II, III ir
+už turto nuomą bei kitos pajamos, neišvardytos šio įstatymo II, III ir IV
 
-IV dalyse bei šio straipsnio trečiojoje, ketvirtojoje, penktojoje ir šeštojoje
+dalyse bei šio straipsnio trečiojoje, ketvirtojoje, penktojoje ir šeštojoje
 
 dalyse, apmokestinamos taikant 20 procentų pajamų mokesčio tarifą.
 
@@ -6402,23 +6294,57 @@ padidinimo suma, taip pat pajaus vertės padidinimo suma. Iš šiame straipsnyje
 
 nurodytų bendrųjų pajamų jokios išlaidos neišskaitomos, išskyrus sumas, kurias
 
-paramos teikėjas davė Labdaros ir paramos įstatymo nustatyta tvarka, tačiau neviršijančias
+paramos teikėjas davė Labdaros ir paramos įstatymo nustatyta tvarka, tačiau
 
-15 procentų bendrųjų pajamų. Bendrosios pajamos nustatomos atskaičius fizinių
+neviršijančias 15 procentų bendrųjų pajamų. Bendrosios pajamos nustatomos
 
-asmenų, įsiregistravusių pridėtinės vertės mokesčio mokėtojais, apskaičiuotą, o
+atskaičius fizinių asmenų, įsiregistravusių pridėtinės vertės mokesčio
 
-fizinių asmenų, neįsiregistravusių pridėtinės vertės mokesčio mokėtojais, į
+mokėtojais, apskaičiuotą, o fizinių asmenų, neįsiregistravusių pridėtinės
 
-biudžetą sumokėtą pridėtinės vertės mokestį už parduotas prekes, suteiktas
+vertės mokesčio mokėtojais, į biudžetą sumokėtą pridėtinės vertės mokestį už
 
-paslaugas, atliktus darbus arba kitą apmokamą veiklą. Fizinių asmenų,
+parduotas prekes, suteiktas paslaugas, atliktus darbus arba kitą apmokamą
 
-neįsiregistravusių pridėtinės vertės mokesčio mokėtojais, bendrųjų pajamų be
+veiklą. Fizinių asmenų, neįsiregistravusių pridėtinės vertės mokesčio
 
-pridėtinės vertės mokesčio apskaičiavimo tvarką nustato Lietuvos Respublikos
+mokėtojais, bendrųjų pajamų be pridėtinės vertės mokesčio apskaičiavimo tvarką
 
-Vyriausybė ar jos įgaliota institucija.
+nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+[2 dalies redakcija nuo 2002 m. sausio 1
+
+d.:
+
+Bendrosioms pajamoms nepriskiriama
+
+iš įmonės lėšų arba dėl turto vertės padidėjimo akcininkams proporcingai jų
+
+turimų akcijų skaičiui nemokamai išduotos akcijos arba anksčiau išduotų
+
+akcijų nominalios vertės padidinimo suma, taip pat pajininkams proporcingai jų
+
+turimai daliai pajaus vertės padidinimo suma. Iš šiame straipsnyje
+
+nurodytų bendrųjų pajamų jokios išlaidos neišskaičiuojamos, išskyrus sumas,
+
+kurias paramos teikėjas davė Labdaros ir paramos įstatymo nustatyta tvarka,
+
+tačiau neviršijančias 15 procentų bendrųjų pajamų. Bendrosios pajamos
+
+nustatomos atskaičius fizinių asmenų, įsiregistravusių pridėtinės vertės
+
+mokesčio mokėtojais, apskaičiuotą, o fizinių asmenų, neįsiregistravusių
+
+pridėtinės vertės mokesčio mokėtojais, į biudžetą sumokėtą pridėtinės vertės
+
+mokestį už parduotas prekes, suteiktas paslaugas, atliktus darbus arba kitą
+
+apmokamą veiklą. Fizinių asmenų, neįsiregistravusių pridėtinės vertės mokesčio
+
+mokėtojais, bendrųjų pajamų be pridėtinės vertės mokesčio apskaičiavimo tvarką
+
+nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.]
 
 Pajamos
 
@@ -6557,6 +6483,10 @@ Nr. IX-400, 2001-06-26, Žin., 2001, Nr.
 Nr. IX-676,
 
 2001-12-20, Žin., 2001, Nr. 110-3993 (2001-12-29), įsigalioja nuo 2002-01-01
+
+Nr. IX-678,
+
+2001-12-21, Žin., 2001, Nr. 110-3994 (2001-12-29), įsigalioja nuo 2002-01-01
 
 33(1)
 
@@ -6852,6 +6782,18 @@ sutuoktiniui arba kitam jo pirmosios eilės įstatyminiam įpėdiniui, taip pat
 
 pašalpos, išmokėtos stichinių nelaimių bei gaisrų atvejais;
 
+[17 punkto redakcija nuo 2002 m. sausio
+
+1 d.:
+
+17) pašalpos, kurias
+
+darbuotojui (buvusiam darbuotojui) mirus darbdaviai išmoka jo sutuoktiniui,
+
+vaikams (įvaikiams), tėvams (įtėviams), taip pat pašalpos, išmokėtos
+
+stichinių nelaimių bei gaisrų atvejais;]
+
 18)
 
 Politinių kampanijų finansavimo kontrolės įstatymo nustatyta tvarka politinės
@@ -7015,6 +6957,10 @@ Nr. IX-300, 2001 04 26, Žin., 2001, Nr.
 Nr. IX-676,
 
 2001-12-20, Žin., 2001, Nr. 110-3993 (2001-12-29), įsigalioja nuo 2002-01-01
+
+Nr. IX-678,
+
+2001-12-21, Žin., 2001, Nr. 110-3994 (2001-12-29), įsigalioja nuo 2002-01-01
 
 36
 
@@ -8208,7 +8154,7 @@ Nr.
 
 VIII-291,
 
-97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+97.06.24, Žin., 1997, Nr.61-1443 (97.06.24)
 
 LIETUVOS
 
@@ -8502,15 +8448,15 @@ metodu, frančize, nuostolių ir materialinės žalos atlyginimo už autorių ir
 
 gretutinių teisių pažeidimą arba kompensacijų už autorių ir gretutinių teisių
 
-pažeidimą bei dėl palūkanų, išskyrus palūkanas už paskolas, kurias suteikė tarptautinės
+pažeidimą bei dėl palūkanų, išskyrus palūkanas už paskolas, kurias suteikė
 
-finansinės institucijos (institucijos arba organizacijos, kurių visi nariai
+tarptautinės finansinės institucijos (institucijos arba organizacijos, kurių
 
-arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio valstybių
+visi nariai arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio
 
-fondai ir valstybinės finansinės institucijos, kurių daugiau kaip 50 procentų
+valstybių fondai ir valstybinės finansinės institucijos, kurių daugiau kaip 50
 
-akcijų paketo turėtojai yra užsienio valstybių vyriausybės) apmokestinimo taikomos nuo 2002 m. sausio 1 d.,
+procentų akcijų paketo turėtojai yra užsienio valstybių vyriausybės) apmokestinimo taikomos nuo 2002 m. sausio 1 d.,
 
 apmokestinant šias pajamas ir palūkanas, gautas pagal sutartis, sudarytas iki
 
@@ -8538,9 +8484,9 @@ PAPILDYMO VI SKYRIUMI ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1958, 00.09.26, Žin., 2000,
+Nr. VIII-1958, 00.09.26, Žin., 2000, Nr.84-2534
 
-Nr.84-2534 (00.10.06)
+(00.10.06)
 
 FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 5
 
@@ -8650,10 +8596,6 @@ FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 1, 4,
 
 41 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-***
-
-Pabaiga ***
-
 45.
 
 Lietuvos
@@ -8691,6 +8633,26 @@ FIZINIŲ
 ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 1, 33 IR 35 STRAIPSNIŲ PAKEITIMO BEI
 
 ĮSTATYMO IV DALIES PRIPAŽINIMO NETEKUSIA GALIOS ĮSTATYMAS
+
+Įstatymas įsigalioja nuo 2002 m. sausio 1 d.
+
+47.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-678,
+
+2001-12-21, Žin., 2001, Nr. 110-3994 (2001-12-29)
+
+FIZINIŲ
+
+ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 7, 33, 35 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
 
 Įstatymas įsigalioja nuo 2002 m. sausio 1 d.
 
