@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "1999-03-18"
+last_updated: "1999-05-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1999.04.02)
+Lūžaitė (1999.06.10)
 
 Įstatymas
 
@@ -162,6 +162,20 @@ Nr. VIII-1093, 99.03.18,
 LIETUVOS RESPUBLIKOS
 
 APSKRITIES VALDYMO ĮSTATYMO 12 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+10.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1195,
+
+99.05.20, Žin., 1999, Nr.50-1602 (99.06.09)
+
+LIETUVOS RESPUBLIKOS
+
+APSKRITIES VALDYMO ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -475,9 +489,9 @@ Apskrities viršininkas:
 
 valstybines švietimo, išskyrus aukštąsias mokyklas, įstaigas,
 
-kultūros, kūno kultūros ir sporto, socialinės paramos ir globos įstaigas bei tarnybas,
+kultūros, kūno kultūros ir sporto, socialinės paramos ir globos įstaigas bei
 
-taip pat specialiųjų socialinių paslaugų institucijas;
+tarnybas, taip pat specialiųjų socialinių paslaugų institucijas;
 
 2) atsako už šio straipsnio 1 punkte nurodytų valstybinių įstaigų funkcionavimą
 
@@ -487,9 +501,9 @@ ir jų išlaikymą;
 
 vykdymą;
 
-4) rengia,
+4) rengia, koordinuoja ir vykdo apskrities socialines programas ir socialinius
 
-koordinuoja ir vykdo apskrities socialines programas ir socialinius projektus;
+projektus;
 
 5) kontroliuoja socialinių paslaugų teikimą apskričiai priklausančiose
 
@@ -515,9 +529,9 @@ Nr. VIII-129,
 
 97.02.25, Žin., 1997, Nr.21-489 (97.03.12)
 
-Nr. VIII-471, 97.10.21,
+Nr. VIII-471,
 
-Žin., 1997, Nr.101-2549 (97.11.07)
+97.10.21, Žin., 1997, Nr.101-2549 (97.11.07)
 
 8 straipsnis. Apskrities viršininko įgaliojimai sveikatos
 
@@ -687,7 +701,11 @@ kontroliuoja augalų apsaugos priemonių naudojimą;
 
 valstybinę melioracijos ir hidrotechnikos įrenginių priežiūrą, organizuoja
 
-valstybei priklausančių melioracijos ir hidrotechnikos įrenginių eksploataciją.
+valstybei priklausančių melioracijos ir hidrotechnikos įrenginių eksploataciją;
+
+7) prižiūri, kaip vykdomi Žemės ūkio
+
+bendrovių įstatymo reikalavimai.
 
 Straipsnio
 
@@ -701,6 +719,10 @@ Nr. VIII-456,
 
 97.10.16, Žin., 1997, Nr.97-2444 (97.10.29)
 
+Nr. VIII-1195,
+
+99.05.20, Žin., 1999, Nr.50-1602 (99.06.09)
+
 11 straipsnis. Apskrities
 
 viršininko įgaliojimai gamtos išteklių naudojimo ir aplinkos apsaugos
@@ -711,9 +733,9 @@ Apskrities viršininkas:
 
 1) organizuoja veiklą apskričiai priskirtose
 
-saugomose teritorijose ir dalyvauja valdant kitas valstybės saugomas teritorijas
+saugomose teritorijose ir dalyvauja valdant kitas valstybės saugomas
 
-(išskyrus rezervatus);
+teritorijas (išskyrus rezervatus);
 
 2) pagal savo kompetenciją teikia pasiūlymus
 
@@ -877,9 +899,9 @@ tarpregioninių programų projektų;
 
 2)
 
-teikti pasiūlymus Vyriausybei ir kitoms valstybės valdymo institucijoms apskrities
+teikti pasiūlymus Vyriausybei ir kitoms valstybės valdymo institucijoms
 
-raidos klausimais;
+apskrities raidos klausimais;
 
 3)
 
@@ -899,11 +921,11 @@ institucijų struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkaut
 
 5)
 
-sustabdyti ar panaikinti apskrityje esančių įmonių, įstaigų ir organizacijų priimtus
+sustabdyti ar panaikinti apskrityje esančių įmonių, įstaigų ir organizacijų
 
-teisės aktus, neatitinkančius Lietuvos Respublikos įstatymų ir Vyriausybės
+priimtus teisės aktus, neatitinkančius Lietuvos Respublikos įstatymų ir
 
-nutarimų;
+Vyriausybės nutarimų;
 
 6)
 
@@ -1059,9 +1081,11 @@ jei jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba
 
 pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina
 
-ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys  ar  aukštesnioji
+ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys  ar
 
-valstybės  valdymo institucija, galutinį sprendimą priima Vyriausybė.
+aukštesnioji  valstybės  valdymo institucija, galutinį sprendimą priima
+
+Vyriausybė.
 
 Straipsnio
 
@@ -1089,9 +1113,9 @@ apskrities viršininko sudaroma taryba.
 
 Į tarybą pagal pareigas įeina apskrities
 
-viršininkas, kuris yra šios tarybos pirmininkas, apskrities viršininko
+viršininkas, kuris yra šios tarybos pirmininkas, apskrities viršininko pavaduotojas
 
-pavaduotojas (pavaduotojai), apskrityje esančių savivaldybių merai.
+(pavaduotojai), apskrityje esančių savivaldybių merai.
 
 Taryba
 
