@@ -4,7 +4,7 @@ identifier: "TAR.6DF39F2BB769"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "1997-10-14"
+last_updated: "1998-10-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6DF39F2BB769"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 Redagavo: Ramunė
 
-Lūžaitė (1997.10.29)
+Lūžaitė (1998.11.11)
 
 Įstatymas
 
@@ -138,6 +138,20 @@ LIETUVOS RESPUBLIKOS
 
 ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR PAPILDYMO
 
+8.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-913,
+
+98.10.22, Žin., 1998, Nr.98-2714 (98.11.11)
+
+LIETUVOS
+
+RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -186,257 +200,225 @@ veiksmus ar išduodamus juridinę galią turinčius dokumentus.
 
 straipsnis. Mokesčio objektas ir tarifai
 
-Žyminis
+Žyminis mokestis imamas už:
 
-mokestis imamas už:
+1) civilinės būklės aktų
 
-1)
+registravimą civilinės metrikacijos įstaigose, įrašų civilinės būklės aktuose
 
-civilinės būklės aktų registravimą civilinės metrikacijos įstaigose, įrašų
+pakeitimą bei papildymą ir dokumentų, patvirtinančių įrašą civilinės būklės
 
-civilinės būklės aktuose pakeitimą bei papildymą ir dokumentų,  patvirtinančių
+akte, išdavimą;
 
-įrašą  civilinės būklės akte, išdavimą;
+2) išduodamus dokumentus dėl pilietybės,
 
-2)
+išvykimo į užsienį ir atvykimo į Lietuvos Respubliką bei gyvenimo joje, taip
 
-išduodamus dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos
+pat už informaciją apie gyventojo adresą;
 
-Respubliką bei gyvenimo joje, taip pat už informaciją apie gyventojo adresą;
+3) tranzitu vežamų per muitų
 
-3)
+teritoriją prekių apsaugą, kurią atlieka policija, ir atitinkamų dokumentų
 
-tranzitu vežamų per muitų teritoriją prekių apsaugą, kurią atlieka policija, ir
+išdavimą;
+
+4) leidimo įvežti šaunamuosius
+
+ginklus ir šaudmenis, medžioklinius, sportinius šaunamuosius ginklus,
+
+arbaletus, pneumatinius šautuvus (pistoletus), dujinius pistoletus
+
+(revolverius) bei balionėlius, sprogstamąsias medžiagas, spalvoto dauginimo
+
+techniką į Lietuvos Respubliką, įskaitant tranzitą, išdavimą;
+
+5) leidimo išvežti šaunamuosius
+
+ginklus ir šaudmenis, medžioklinius, sportinius šaunamuosius ginklus,
+
+arbaletus, pneumatinius šautuvus (pistoletus), dujinius pistoletus
+
+(revolverius) bei balionėlius, sprogstamąsias medžiagas, spalvoto dauginimo
+
+techniką iš Lietuvos Respublikos išdavimą;
+
+6) leidimo prekiauti
+
+šaunamaisiais ginklais, medžiokliniais peiliais, dujiniais pistoletais
+
+(revolveriais), šaudmenimis, dujiniais balionėliais, pneumatiniais šautuvais
+
+(pistoletais), arbaletais, spalvoto dauginimo technika išdavimą;
+
+7) leidimo steigti antspaudų ir
+
+spaudų dirbtuves, medžioklinių peilių dirbtuves, ginklų remonto dirbtuves
+
+išdavimą;
+
+8) leidimo pasigaminti
+
+antspaudus ir spaudus išdavimą;
+
+9) leidimo pagaminti antspaudą
+
+su Lietuvos Respublikos herbu išdavimą;
+
+10) medžioklinių šautuvų,
+
+šaunamųjų ginklų ir arbaletų registravimą, perregistravimą (išskyrus vardinius
+
+ginklus) ir atitinkamų dokumentų išdavimą, leidimo įsigyti šaudmenų (išskyrus
+
+medžiotojams), sprogmenų, šaunamąjį ginklą, arbaletą išdavimą ir šio leidimo
+
+pratęsimą;
+
+11) masinės informacijos
+
+priemonės steigimą, perregistravimą ir atitinkamų dokumentų išdavimą, steigimo
+
+liudijimo dublikato išdavimą, taip pat už konsultacijas valstybės paslapčių ar
+
+viešai neskelbtinų žinių apsaugos klausimais;
+
+12) kelių policijos atliekamus
+
+veiksmus ir išduodamus dokumentus;
+
+13) traktorių, savaeigių
+
+važiuoklių, traktorinių priekabų ir kelių tiesimo mašinų valstybinę techninę
+
+apžiūrą ir jos įforminimą, jų registravimo liudijimo išdavimą, valstybinio
+
+numerio ženklo išdavimą, už techninio paso ar techninio talono išdavimą;
+
+14) įmonių ir organizacijų,
+
+išskyrus politines partijas, politines ir visuomenines organizacijas,
+
+profesines sąjungas, labdaros bei paramos organizacijas, įregistravimą, jų perregistravimą
+
+ir atitinkamų dokumentų išdavimą (išskyrus atvejus, kai tai reikia atlikti dėl
+
+Lietuvos Respublikos įstatymų ar Vyriausybės nutarimų pasikeitimo), už įmonių
+
+ir visų tipų organizacijų registravimo duomenų ir dokumentų naudojimą;
+
+15) licencijos (leidimo) verstis
+
+licencijuojama veikla išdavimą ir perregistravimą;
+
+16) leidimo importuoti alkoholio
+
+produktus, taip pat prekiauti jais išdavimą ir perregistravimą;
+
+17) vaistų ir vaistinių medžiagų
+
+įrašymą į Valstybinį vaistų registrą;
+
+18) liudijimo potencialiai
+
+pavojingiems įrenginiams gaminti, montuoti ir rekonstruoti išdavimą, šių
+
+įrenginių registravimą ir leidimo eksploatuoti juos po registravimo išdavimą;
+
+19) licencijų importuoti, vežti
+
+tranzitu bei eksportuoti kontroliuojamąsias prekes pagal Lietuvos Respublikos
+
+Vyriausybės patvirtintą kontroliuojamųjų prekių sąrašą, leidimų vežti
+
+radioaktyviąsias ir pavojingas medžiagas (neįtrauktas į kontroliuojamųjų prekių
+
+sąrašą) pagal Jungtinių Tautų Organizacijos klasifikaciją ir importo bei
+
+pristatymo patvirtinimo sertifikatų kontroliuojamosioms prekėms išdavimą;
+
+20) potencialiai pavojingų
+
+įrenginių periodišką techninį patikrinimą;
+
+21) leidimo atlikti sprogdinimo
+
+darbus išdavimą;
+
+22) vertybinių popierių emisijos
+
+įregistravimą, paskelbimą ir atitinkamų dokumentų išdavimą;
+
+23) licencijos medžioti
+
+laukinius kanopinius žvėris ir švelniakailius žvėrelius Lietuvos Respublikos
+
+piliečiams ir leidimo verstis mėgėjiška žūkle neišnuomotuose žūklei vandens
+
+telkiniuose išdavimą;
+
+24) valstybinių inspekcijų prie
+
+Susisiekimo ministerijos išduodamus dokumentus;
+
+25) laivų ir kitų plaukiojimo
+
+priemonių, išskyrus irklines valtis, registravimą ar išregistravimą ir
 
 atitinkamų dokumentų išdavimą;
 
-4)
+26) muitinės įstaigų atliekamų
 
-leidimo  įvežti šaunamuosius  ginklus ir šaudmenis, medžioklinius, sportinius
+muitinės procedūrų įforminimą, atliekamus veiksmus ir dokumentų išdavimą;
 
-šaunamuosius  ginklus,  arbaletus, pneumatinius  šautuvus  (pistoletus),
+27) medžiotojo bilieto išdavimą
 
-dujinius  pistoletus (revolverius) bei balionėlius, sprogstamąsias medžiagas,
+ir pratęsimą;
 
-spalvoto dauginimo techniką į Lietuvos Respubliką, įskaitant tranzitą,
+28) licencijų, asmens pažymėjimų
 
-išdavimą;
+asmens bei turto saugotojui, saugos tarnybai, saugos struktūriniam padaliniui
 
-5)
+ir jų darbuotojams išdavimą, už egzamino pagal profesinio parengimo programą
 
-leidimo  išvežti šaunamuosius ginklus ir šaudmenis, medžioklinius, sportinius
+laikymą, už kvalifikacinio egzamino laikymą ir atitinkamų dokumentų išdavimą;
 
-šaunamuosius  ginklus,  arbaletus, pneumatinius  šautuvus  (pistoletus),
+29) savivaldybių atliekamus
 
-dujinius  pistoletus (revolverius) bei balionėlius, sprogstamąsias medžiagas,
+notarinius veiksmus;
 
-spalvoto dauginimo techniką iš Lietuvos Respublikos išdavimą;
+30) Lietuvos Respublikos
 
-6)
+Konstitucijos pagrindų ir lietuvių kalbos egzamino laikymą ir atitinkamų
 
-leidimo prekiauti šaunamaisiais ginklais, medžiokliniais peiliais, dujiniais
+dokumentų išdavimą;
 
-pistoletais (revolveriais), šaudmenimis, dujiniais balionėliais, pneumatiniais
+31) Valstybinės higienos
 
-šautuvais (pistoletais), arbaletais, spalvoto dauginimo technika išdavimą;
+inspekcijos atliekamus veiksmus ir atitinkamų dokumentų išdavimą;
 
-7)
+32) prekybos naftos produktais
 
-leidimo  steigti  antspaudų  ir  spaudų  dirbtuves, medžioklinių peilių
+vietos atestatų išdavimą;
 
-dirbtuves, ginklų remonto dirbtuves išdavimą;
+33) licencijos, patvirtinančios
 
-8)
+asmens, norinčio dirbti licencijuojamos veiklos įmonėje, pakankamą
 
-leidimo pasigaminti antspaudus ir spaudus išdavimą;
+kvalifikaciją, išdavimą;
 
-9)
+34) leidimų supirkti juodųjų
 
-leidimo pagaminti antspaudą su Lietuvos Respublikos herbu išdavimą;
+metalų laužą ir jų atliekas Lietuvos Respublikoje išdavimą;
 
-10)
+35) leidimų išvežti (išsiųsti)
 
-medžioklinių šautuvų, šaunamųjų ginklų ir arbaletų registravimą,
+kilnojamąsias kultūros vertybes ir antikvarinius daiktus išdavimą;
 
-perregistravimą (išskyrus vardinius ginklus) ir atitinkamų dokumentų išdavimą,
+36) leidimų steigti
 
-leidimo įsigyti šaudmenų (išskyrus medžiotojams), sprogmenų, šaunamąjį ginklą,
-
-arbaletą išdavimą ir šio leidimo pratęsimą;
-
-11)
-
-masinės informacijos priemonės steigimą, perregistravimą ir atitinkamų
-
-dokumentų išdavimą, steigimo liudijimo dublikato išdavimą, taip pat už
-
-konsultacijas valstybės paslapčių ar viešai neskelbtinų žinių apsaugos
-
-klausimais;
-
-12)
-
-kelių  policijos atliekamus veiksmus ir išduodamus dokumentus;
-
-13)
-
-traktorių, savaeigių važiuoklių, traktorinių priekabų ir kelių tiesimo  mašinų
-
-valstybinę  techninę apžiūrą  ir jos įforminimą, jų  registravimo liudijimo
-
-išdavimą, valstybinio numerio ženklo išdavimą, už techninio paso ar techninio
-
-talono išdavimą;
-
-14)
-
-įmonių ir organizacijų, išskyrus politines partijas, politines ir visuomenines
-
-organizacijas, profesines sąjungas, labdaros  bei  paramos  organizacijas,
-
-įregistravimą,  jų perregistravimą  ir  atitinkamų dokumentų  išdavimą
-
-(išskyrus atvejus, kai tai  reikia  atlikti dėl Lietuvos  Respublikos įstatymų
-
-ar Vyriausybės nutarimų pasikeitimo), už įmonių ir visų tipų  organizacijų
-
-registravimo  duomenų ir dokumentų naudojimą;
-
-15)
-
-licencijos (leidimo) verstis licencijuojama veikla išdavimą ir perregistravimą;
-
-16)
-
-leidimo importuoti alkoholio produktus, taip pat prekiauti jais išdavimą ir
-
-perregistravimą;
-
-17)
-
-vaistų ir vaistinių medžiagų įrašymą į Valstybinį vaistų registrą;
-
-18)
-
-liudijimo potencialiai pavojingiems įrenginiams gaminti, montuoti ir
-
-rekonstruoti išdavimą, šių įrenginių registravimą ir leidimo eksploatuoti juos
-
-po registravimo išdavimą;
-
-19)
-
-licencijų importuoti, vežti tranzitu bei eksportuoti kontroliuojamąsias prekes
-
-pagal Lietuvos Respublikos Vyriausybės patvirtintą kontroliuojamųjų prekių
-
-sąrašą, leidimų vežti radioaktyviąsias ir pavojingas medžiagas (neįtrauktas į
-
-kontroliuojamųjų prekių sąrašą) pagal Jungtinių Tautų Organizacijos
-
-klasifikaciją ir importo bei pristatymo patvirtinimo sertifikatų
-
-kontroliuojamosioms prekėms išdavimą;
-
-20)
-
-potencialiai pavojingų įrenginių periodišką  techninį patikrinimą;
-
-21)
-
-leidimo atlikti sprogdinimo darbus išdavimą;
-
-22)
-
-vertybinių popierių emisijos įregistravimą, paskelbimą ir atitinkamų dokumentų
-
-išdavimą;
-
-23)
-
-licencijos medžioti laukinius kanopinius žvėris ir švelniakailius žvėrelius
-
-Lietuvos Respublikos piliečiams ir leidimo verstis mėgėjiška žūkle
-
-neišnuomotuose žūklei vandens telkiniuose išdavimą;
-
-24)
-
-valstybinių inspekcijų prie Susisiekimo ministerijos išduodamus dokumentus;
-
-25)
-
-laivų ir kitų plaukiojimo priemonių, išskyrus irklines valtis, registravimą ar
-
-išregistravimą ir atitinkamų dokumentų išdavimą;
-
-26)
-
-muitinės  įstaigų  atliekamų  muitinės  procedūrų įforminimą, atliekamus
-
-veiksmus ir dokumentų išdavimą;
-
-27)
-
-medžiotojo bilieto išdavimą ir pratęsimą;
-
-28)
-
-licencijų,  asmens  pažymėjimų  asmens  bei  turto saugotojui, saugos tarnybai,
-
-saugos struktūriniam padaliniui ir jų darbuotojams išdavimą, už egzamino pagal
-
-profesinio parengimo programą laikymą,  už kvalifikacinio  egzamino  laikymą
-
-ir atitinkamų dokumentų išdavimą;
-
-29)
-
-savivaldybių atliekamus notarinius veiksmus;
-
-30)
-
-Lietuvos Respublikos Konstitucijos pagrindų ir lietuvių kalbos egzamino laikymą
-
-ir atitinkamų dokumentų išdavimą;
-
-31)
-
-parduodamus vekselius;
-
-32)
-
-Valstybinės higienos inspekcijos atliekamus veiksmus ir atitinkamų dokumentų
-
-išdavimą;
-
-33)
-
-prekybos naftos produktais vietos atestatų išdavimą;
-
-34)
-
-licencijos, patvirtinančios asmens, norinčio dirbti licencijuojamos  veiklos
-
-įmonėje,  pakankamą  kvalifikaciją, išdavimą;
-
-35)
-
-leidimų supirkti juodųjų metalų laužą ir jų atliekas Lietuvos Respublikoje
-
-išdavimą;
-
-36)
-
-leidimų  išvežti (išsiųsti)  kilnojamąsias kultūros vertybes ir antikvarinius
-
-daiktus išdavimą;
+neapmuitinamas parduotuves išdavimą;
 
 37)
-
-leidimų steigti neapmuitinamas parduotuves išdavimą;
-
-38)
 
 Viešųjų pirkimų tarnybos prie Lietuvos Respublikos Vyriausybės teikiamą
 
@@ -479,6 +461,10 @@ VIII-177, 97.04.08, Žin., 1997, Nr.33-810 (97.04.18)
 Nr. VIII-448,
 
 97.10.14, Žin., 1997, Nr.97-2443 (97.10.29)
+
+Nr. VIII-913,
+
+98.10.22, Žin., 1998, Nr.98-2714 (98.11.11)
 
 4
 
@@ -626,7 +612,7 @@ inspekcijai  pateiktas per Lietuvos Respublikos mokesčių administravimo
 
 Žyminio
 
-mokesčio  grąžinimo  tvarką  nustato  Lietuvos Respublikos Vyriausybė.
+mokesčio  grąžinimo  tvarką  nustato  Lietuvos Respublikos Vyriausybė.
 
 Straipsnio
 
@@ -686,9 +672,9 @@ bus priimti pagrindiniai Lietuvos Respublikos pramoninės nuosavybės apsaugos
 
 atliekamas paslaugas valstybinė rinkliava imama pagal Lietuvos Respublikos
 
-Vyriausybės 1993 m. kovo 12  d. nutarimo  Nr.163 "Dėl  valstybinės rinkliavos"
+Vyriausybės 1993 m. kovo 12  d. nutarimo  Nr.163 "Dėl  valstybinės
 
-nustatytus tarifus.
+rinkliavos" nustatytus tarifus.
 
 Lietuvos
 
