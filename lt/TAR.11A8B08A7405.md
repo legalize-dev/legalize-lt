@@ -4,7 +4,7 @@ identifier: "TAR.11A8B08A7405"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-01-18"
-last_updated: "1996-02-01"
+last_updated: "1996-06-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
+
+Suvestinė redakcija nuo 1996-06-21 iki 1997-04-08
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
 
 LIETUVOS RESPUBLIKOS KARDOMOJO KALINIMO Į S T A T Y M A S
 
@@ -54,7 +58,11 @@ Kardomojo kalinimo (suėmimo) pagrindus nustato Baudžiamojo proceso kodeksas.
 
 6 straipsnis. Kardomojo kalinimo vietose laikomi asmenys
 
-1. Kardomojo kalinimo vietose laikomi asmenys, suimti pagal teismo nuosprendį ar nutartį, teisėjo nutarimą ar prokuroro sankciją, taip pat suimti nuteistieji, kuriems nuosprendis įsiteisėjo.
+1. Kardomojo kalinimo vietose laikomi asmenys, suimti pagal teismo nuosprendį ar nutartį, teisėjo nutartį, taip pat suimti nuteistieji, kuriems nuosprendis įsiteisėjo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
 
 2. Kardomojo kalinimo vietose taip pat gali būti laikomi nuteisti laisvės atėmimu:
 
@@ -88,13 +96,15 @@ BENDROSIOS ASMENŲ PRIĖMIMO Į KARDOMOJO KALINIMO VIETAS SĄLYGOS
 
 1. Asmenų priėmimo į kardomojo kalinimo vietas procesinis pagrindas yra:
 
-1) teismo nutartis arba teisėjo nutarimas skirti kardomąją priemonę – suėmimą;
+1) teismo arba teisėjo nutartis skirti kardomąją priemonę – suėmimą;
 
-2) prokuroro sankcija skirti kardomąją priemonę – suėmimą;
+2) teismo nuosprendis skirti laisvės atėmimo arba mirties bausmę asmenims, kuriems nebuvo parinktas suėmimas;
 
-3) teismo nuosprendis skirti laisvės atėmimo arba mirties bausmę asmenims, kuriems nebuvo parinktas suėmimas;
+3) teisėjo sankcija perkelti nuteistąjį iš pataisos darbų įstaigos į tardymo izoliatorių.
 
-4) teisėjo sankcija perkelti nuteistąjį iš pataisos darbų įstaigos į tardymo izoliatorių.
+Straipsnio dalies pakeitimai:
+
+Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
 
 2. Kalinamų moterų vaikai į kardomojo kalinimo vietas nepriimami.
 
@@ -484,7 +494,11 @@ Pagrindai kalinamuosius paleisti iš suėmimo yra šie:
 
 35 straipsnis. Kalinamųjų paleidimo tvarka
 
-1. Kalinamuosius paleidžia kardomojo kalinimo vietos direktorius, remdamasis teismo nuosprendžiu ar nutartimi, teisėjo, prokuroro arba bylą tiriančio pareigūno nutarimu.
+1. Kalinamuosius paleidžia kardomojo kalinimo vietos direktorius, remdamasis teismo nuosprendžiu ar nutartimi, teisėjo nutartimi, prokuroro nutarimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
 
 2. Pasibaigus kardomojo kalinimo (suėmimo) terminui, kardomojo kalinimo vietos direktorius privalo savo nutarimu paleisti kalinamąjį ir pranešti apie tai bylą tiriančiam pareigūnui.
 
@@ -582,172 +596,6 @@ Kalinamiesiems draudžiama dirbti:
 
 9) eiti materialiai atsakingojo pareigas.
 
-38 straipsnis. Suimtųjų laikymo drausmės izoliatoriuose sąlygos
-
-1. Drausmės izoliatoriuose laikomi suimtieji neturi teisės gauti pasimatymų, smulkiųjų paketų su spauda, paskambinti telefonu, įsigyti maisto produktų ir būtiniausių reikmenų, siųsti laiškų. Jiems neleidžiama naudotis stalo žaidimais, televizoriais, kompiuteriais, kompiuterinių žaidimų aparatais, radijo imtuvais ir kitais Tardymo izoliatorių vidaus tvarkos taisyklėse nurodytais daiktais.
-
-2. Drausmės izoliatoriuose laikomiems suimtiesiems leidžiama skaityti knygas, žurnalus, laikraščius ir kitą literatūrą ir kasdien vieną valandą pasivaikščioti gryname ore.
-
-3. Drausmės izoliatoriuose suimtieji laikomi po vieną.
-
-4. Už pažeidimus, padarytus drausmės izoliatoriuje, suimtiesiems gali būti skiriamos šio įstatymo 34 straipsnyje nurodytos nuobaudos, išskyrus pakartotinį uždarymą į drausmės izoliatorių.
-
-39 straipsnis. Suimtųjų materialinė atsakomybė
-
-1. Suimtieji atsako už jų buvimo tardymo izoliatoriuose metu valstybei padarytą žalą:
-
-1) už žalą, padarytą atliekant darbines pareigas, – tiek, kokio dydžio žalos atlyginimą nustato Lietuvos Respublikos darbo įstatymai;
-
-2) už žalą, padarytą kitokiais veiksmais, – tiek, kokio dydžio žalos atlyginimą nustato Civilinis kodeksas.
-
-2. Suimtųjų valstybei padarytos žalos atlyginimas išieškomas motyvuotu tardymo izoliatoriaus direktoriaus nutarimu, jeigu žalos dydis neviršija suimtojo asmeninėje sąskaitoje esančios pinigų sumos. Apie išieškojimą suimtajam pranešama pasirašytinai. Kitais atvejais žalos atlyginimas išieškomas bendrais Lietuvos Respublikos įstatymų nustatytais pagrindais ir tvarka.
-
-3. Valstybei padarytos žalos atlyginimo dalis, kurios pagal tardymo izoliatoriaus direktoriaus nutarimą išieškoti žalos atlyginimą paleistas iš tardymo izoliatoriaus asmuo iki galo neatlygino, išieškoma Civilinio proceso kodekso nustatyta tvarka.
-
-KETVIRTASIS SKIRSNIS
-
-SUIMTŲJŲ UŽIMTUMAS IR JŲ SOCIALINIŲ POREIKIŲ TENKINIMAS
-
-40 straipsnis. Suimtųjų įtraukimas į darbą
-
-1. Tardymo izoliatoriuose, jei yra galimybė dirbti, suimtieji gali dirbti tik jų rašytiniu prašymu ir šių suimtųjų ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam dirbti, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems dirbti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo.
-
-2. Suimtieji gali dirbti tik tardymo izoliatoriaus teritorijoje ir turi būti užtikrintas šio įstatymo 10 straipsnio reikalavimų vykdymas.
-
-3. Tardymo izoliatoriuose laikomiems asmenims draudžiama dirbti darbus ir eiti pareigas, nustatytas Bausmių vykdymo kodekso 2 priede.
-
-4. Suimtiesiems nustatoma ne ilgesnė kaip aštuonių valandų darbo diena. Darbo (pamainos) pradžią ir pabaigą nustato tardymo izoliatoriaus direktorius, vadovaudamasis šio įstatymo 11 straipsnio 6 dalies nuostatomis. Suimtiesiems suteikiamos dvi poilsio dienos per savaitę. Dirbti negali būti skiriama švenčių ir poilsio dienomis. Suimtųjų darbas organizuojamas remiantis darbuotojų saugą ir sveikatą reglamentuojančiais teisės aktais.
-
-5. Suimtieji valstybiniu socialiniu draudimu nedraudžiami, išskyrus Lietuvos Respublikos įstatymų nustatytą nelaimingų atsitikimų darbe ir profesinių ligų socialinį draudimą. Suimtieji gali draustis savanorišku valstybiniu socialiniu draudimu nustatyta tvarka arba sudaryti pensijos sutartis su pensijų fondais įstatymų nustatyta tvarka ir sąlygomis.
-
-6. Už suimtųjų darbą apmokama atsižvelgiant į jo kiekį ir kokybę Lietuvos Respublikos Vyriausybės nustatyta tvarka.
-
-7. Suimtieji, kurie tardymo izoliatoriuose dirbdami neteko darbingumo, turi teisę į žalos atlyginimą Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-41 straipsnis. Suimtųjų bendrasis lavinimas
-
-1. Tardymo izoliatoriuose organizuojamas suimtųjų iki šešiolikos metų bendrasis lavinimas. Suimtųjų bendrojo lavinimo tardymo izoliatoriuose tvarką nustato Lietuvos Respublikos Vyriausybė.
-
-2. Vyresnių negu šešiolikos metų suimtųjų bendrasis lavinimas organizuojamas rašytiniu jų prašymu ir tardymo izoliatoriaus administracijos sutikimu.
-
-3. Suimtųjų bendrąjį lavinimą organizuoja savivaldybė, kurios teritorijoje yra tardymo izoliatorius.
-
-42 straipsnis. Socialinis darbas ir užimtumas
-
-1. Socialinį darbą su suimtaisiais ir jų užimtumą organizuoja tardymo izoliatorių administracija.
-
-2. Pagrindinės užimtumo formos yra šios:
-
-1) socialinis ir teisinis švietimas;
-
-2) suimtųjų socialinių ir dvasinių poreikių tenkinimas;
-
-3) pagalba sprendžiant suimtųjų problemas;
-
-4) kultūros, sporto ir kiti renginiai.
-
-3. Socialinis darbas su suimtaisiais ir jų užimtumas organizuojamas laikantis šio įstatymo 10 straipsnio reikalavimų.
-
-43 straipsnis. Tardymo izoliatorių psichologinės tarnybos
-
-1. Tardymo izoliatoriuose veikia psichologinės tarnybos. Šių tarnybų veiklos pagrindinės kryptys yra šios:
-
-1) suimtojo asmenybės tyrimas ir individualaus psichologinių konsultacijų poreikio nustatymas;
-
-2) suimtųjų psichologinis konsultavimas;
-
-3) suimtųjų ir nuteistųjų psichologinių charakteristikų rengimas ir pateikimas tardymo izoliatoriaus administracijai.
-
-2. Tardymo izoliatorių psichologinių tarnybų struktūrą, darbo tvarką nustato teisingumo ministras.
-
-PENKTASIS SKIRSNIS
-
-SUIMTŲJŲ MATERIALINIS BUITINIS APRŪPINIMAS IR SVEIKATOS PRIEŽIŪRA
-
-44 straipsnis. Suimtųjų materialinis buitinis aprūpinimas
-
-1. Suimtiesiems užtikrinamos gyvenamųjų patalpų ir buities sąlygos, atitinkančios Lietuvos Respublikos higienos normas. Nėščioms moterims, nepilnamečiams, neįgaliesiems ir ligoniams sudaromos geresnės gyvenamųjų patalpų ir buities sąlygos ir nustatomos didesnės mitybos normos. Nėščioms moterims pagal gydytojų komisijos išvadą leidžiama gauti pašto ar perduodamų maisto produktų siuntinių; jų svorį ir periodiškumą nustato Kalėjimų departamento direktorius.
-
-2. Kiekvienam suimtajam nemokamai suteikiama atskira miegamoji vieta ir patalynė. Suimtieji gali naudotis savo patalyne, jeigu jie to pageidauja.
-
-3. Suimtieji, kurie neturi savo drabužių ir avalynės, nemokamai aprūpinami drabužiais ir avalyne pagal sezoną.
-
-4. Ne rečiau kaip kartą per savaitę suimtiesiems turi būti suteikta galimybė pasinaudoti pirtimi arba dušu, kirpėjo paslaugomis ir gauti išskalbtą patalynę ir apatinius rūbus.
-
-5. Suimtiesiems tiekiamas maistas turi atitikti fiziologines mitybos normas ir, kiek įmanoma, jų religinius įsitikinimus. Maistu suimtieji aprūpinami nemokamai. Nepilnamečių maitinimui per mėnesį turi būti skiriama ne mažesnė kaip 1,5 MGL dydžio pinigų suma.
-
-6. Suimtųjų mitybos ir materialinio aprūpinimo normas nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
-
-45 straipsnis. Suimtųjų sveikatos priežiūra
-
-1. Asmens sveikatos priežiūra tardymo izoliatoriuose organizuojama ir atliekama įstatymų nustatyta tvarka. Suimtiesiems turi būti užtikrintas tokios pat kokybės ir lygio gydymas kaip ir laisvėje esantiems asmenims.
-
-2. Tardymo izoliatoriuose veikia asmens sveikatos priežiūros tarnybos. Šių tarnybų struktūrą ir darbo tvarką nustato sveikatos apsaugos ir teisingumo ministrai.
-
-3. Privaloma nuodugniai patikrinti naujų į tardymo izoliatorių priimtų asmenų sveikatos būklę.
-
-4. Suimtajam reikalinga būtinoji medicinos pagalba, kurią suteikti laisvės atėmimo vietų ligoninėje nėra galimybių, gali būti teikiama valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose užtikrinant suimtojo apsaugą. Šios pagalbos teikimo tvarką nustato sveikatos apsaugos ir teisingumo ministrai.
-
-IV SKYRIUS
-
-SUIMTŲJŲ PALEIDIMAS IŠ TARDYMO IZOLIATORIŲ
-
-46 straipsnis. Suimtųjų laikymo tardymo izoliatoriuose trukmė
-
-Asmenys, kuriems paskirtas suėmimas, tardymo izoliatoriuose negali būti laikomi ilgiau negu teismo nutartyse nustatytą terminą.
-
-47 straipsnis. Suimtųjų paleidimo iš tardymo izoliatorių pagrindai
-
-Suimtųjų paleidimo iš tardymo izoliatorių pagrindai yra šie:
-
-1) suėmimo panaikinimas;
-
-2) suėmimo pakeitimas kita kardomąja priemone;
-
-3) pasibaigęs paskirto suėmimo terminas, jeigu jis nepratęstas įstatymų nustatyta tvarka.
-
-48 straipsnis. Suimtųjų paleidimo iš tardymo izoliatorių tvarka
-
-1. Nuosprendis, nutartis arba nutarimas dėl suimtojo paleidimo vykdomi nedelsiant, kai tik juos gauna tardymo izoliatoriaus administracija.
-
-2. Pasibaigus suėmimo terminui, tardymo izoliatoriaus direktorius arba jį pavaduojantis pareigūnas privalo savo nutarimu paleisti suimtąjį ir apie tai pranešti šio asmens nusikalstamą veiką tiriančiam pareigūnui ar prokurorui arba teismui, kurio žinioje yra byla. Jei suimtasis prašo, nustatyta tvarka tardymo izoliatoriaus administracija privalo leisti suimtajam pranešti telefonu sutuoktiniui ar artimiesiems giminaičiams apie jo paleidimą.
-
-3. Paleidžiamiems asmenims paleidimo dieną pasirašytinai išduodami asmens dokumentai ir daiktai, asmeninėje sąskaitoje turimi pinigai, taip pat išbūtą suėmimo laiką liudijantys dokumentai.
-
-4. Paleidžiamo asmens prašymu charakteristika išsiunčiama jo nurodytai institucijai.
-
-5. Tardymo izoliatoriaus direktorius ar jo įgaliotas pareigūnas privalo išaiškinti paleidžiamam asmeniui jo teises ir pareigas.
-
-6. Paleidžiami nepilnamečiai pasiunčiami pas tėvus arba globėjus (rūpintojus) ar artimuosius giminaičius. Nepilnamečius privalo lydėti tardymo izoliatoriaus darbuotojas arba tėvai, globėjai (rūpintojai) ar artimieji giminaičiai.
-
-7. Jeigu tardymo izoliatoriaus administracija yra gavusi pažymą, kad nukentėjusysis pageidauja būti informuotas apie būsimą suimtojo paleidimą į laisvę, tardymo izoliatoriaus direktorius privalo pranešti nukentėjusiajam apie suimtojo paleidimą. Nukentėjusiajam apie suimtojo paleidimą į laisvę pranešama ne vėliau kaip likus vienai dienai iki suimtojo paleidimo dienos. Tais atvejais, kai suimtasis iš tardymo izoliatoriaus turi būti paleidžiamas tuoj po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl suimtojo paleidimo, nukentėjusiajam pranešama iš karto po suimtojo paleidimo.
-
-V SKYRIUS
-
-PAREIGŪNŲ VEIKSMŲ IR SPRENDIMŲ APSKUNDIMAS
-
-49 straipsnis. Pareigūnų veiksmų ir sprendimų apskundimas
-
-1. Tardymo izoliatorių pareigūnų veiksmai ir sprendimai skundžiami Bausmių vykdymo kodekso 183 straipsnyje nustatyta tvarka.
-
-2. Ikiteisminio tyrimo pareigūnų, prokurorų ir teisėjų veiksmai ir sprendimai skundžiami Baudžiamojo proceso kodekso ar kitų teisės aktų nustatyta tvarka.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
-
-Lietuvos Respublikos  suėmimo vykdymo įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-2001 m. kovo 15 d. Tarybos pagrindų sprendimas 2001/220/TVR dėl nukentėjusiųjų padėties baudžiamosiose bylose (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 72).
-
-Priedo pakeitimai:
-
-Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
-
 Pakeitimai:
 
 1.
@@ -757,60 +605,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
 
 Lietuvos Respublikos kardomojo kalinimo įstatymo 6, 9 ir 35 straipsnių pakeitimo ir papildymo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. 0971010ISTAVIII-151
-
-Lietuvos Respublikos kardomojo kalinimo įstatymo 32 ir 33 straipsnių pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
-
-Lietuvos Respublikos kardomojo kalinimo įstatymo 5 straipsnio ir 1 priedėlio pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
-
-Lietuvos Respublikos kardomojo kalinimo įstatymo 5, 15, 19, 32 ir 33 straipsnių pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA00IX-431
-
-Lietuvos Respublikos kardomojo kalinimo įstatymo 10, 15, 18 straipsnių bei 1 priedėlio pakeitimo ir papildymo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-2058, 2004-03-16, Žin., 2004, Nr. 47-1549 (2004-03-30), i. k. 1041010ISTA0IX-2058
-
-Lietuvos Respublikos kardomojo kalinimo įstatymo 18 straipsnio pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. 1061010ISTA000X-636
-
-Lietuvos Respublikos baudžiamojo proceso kodekso, Bausmių vykdymo kodekso ir Kardomojo kalinimo įstatymo pakeitimo ir papildymo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1660, 2008-07-01, Žin., 2008, Nr. 81-3172 (2008-07-17), i. k. 1081010ISTA00X-1660
-
-Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas
 
