@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2003-05-01"
+last_updated: "2003-05-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -3867,9 +3867,15 @@ nenumatytais atvejais gali būti naudojami tik savivaldybių tarybų
 
 leidimu.
 
-4.
+Straipsnio
 
-Savivaldybių vėliavų etaloną tvirtina savivaldybių tarybos.
+pakeitimai:
+
+Nr.
+
+IX-1568,
+
+2003-05-20, Žin., 2003, Nr. 54-2371 (2003-06-04)
 
 43 straipsnis.
 
@@ -3929,11 +3935,11 @@ savivaldybės tarybą.
 
 apklausos metu apklausiami gyventojai turi būti parenkami taip, kad kiekvienas,
 
-kuris galėtų būti apklausiamas, turėtų vienodas galimybes patekti tarp apklausiamųjų.
+kuris galėtų būti apklausiamas, turėtų vienodas galimybes patekti tarp
 
-Vertinant atrankinių apklausų rezultatus, turi būti nurodomi jų patikimumo
+apklausiamųjų. Vertinant atrankinių apklausų rezultatus, turi būti nurodomi jų
 
-duomenys.
+patikimumo duomenys.
 
 6. Apklausa yra
 
@@ -4083,9 +4089,9 @@ spręsti iniciatyvinės grupės įregistravimo klausimą. Savivaldybės
 
 administracijos direktorius, gavęs iniciatyvinės grupės prašymą, ne vėliau kaip
 
-per 5 darbo dienas įregistruoja iniciatyvinę grupę ir ne vėliau kaip per 5
+per 5 darbo dienas įregistruoja iniciatyvinę grupę ir ne vėliau kaip per 5 darbo
 
-darbo dienas nuo jos įregistravimo išduoda vidaus reikalų ministro patvirtintos
+dienas nuo jos įregistravimo išduoda vidaus reikalų ministro patvirtintos
 
 formos gyventojų parašų dėl reikalavimo paskelbti apklausą rinkimo lapus.
 
@@ -4159,9 +4165,9 @@ tarybos sprendimas paskelbti apklausą turi būti paskelbtas per vietines
 
 Straipsnio pakeitimai:
 
-Nr. IX-1327, 2003-01-28,
+Nr. IX-1327,
 
-Žin., 2003, Nr. 17-704 (2003-02-19)
+2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)
 
 51 straipsnis.
 
@@ -4641,9 +4647,9 @@ SAVIVALDOS ĮSTATYMO 3, 14, 18, 20, 25, 36, 41 STRAIPSNIŲ PAKEITIMO IR PAPILDYM
 
 Šis
 
-Įstatymas, išskyrus 6 straipsnį, įsigalioja nuo Lietuvos Respublikos
+Įstatymas, išskyrus 6 straipsnį, įsigalioja nuo Lietuvos Respublikos Konstitucijos
 
-Konstitucijos 119 straipsnio pakeitimo įstatymo įsigaliojimo dienos.
+119 straipsnio pakeitimo įstatymo įsigaliojimo dienos.
 
 23.
 
@@ -4809,6 +4815,20 @@ VIETOS
 
 SAVIVALDOS ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+32.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1568,
+
+2003-05-20, Žin., 2003, Nr. 54-2371 (2003-06-04)
+
+VIETOS
+
+SAVIVALDOS ĮSTATYMO 42 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -4855,7 +4875,7 @@ RESPUBLIKOS KONSTITUCIJAI
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-05-05)
+Aušrinė Trapinskienė (2003-06-05)
 
 autrap@lrs.lt
 
