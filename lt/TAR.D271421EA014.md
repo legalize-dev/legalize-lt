@@ -4,7 +4,7 @@ identifier: "TAR.D271421EA014"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-07-15"
-last_updated: "1992-07-23"
+last_updated: "1994-08-03"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D271421EA014"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 ---
 # Dėl baudų ir mokesčių, numatytų Lietuvos Respublikos kodeksuose, indeksavimo
 
+Suvestinė redakcija nuo 1994-08-03 iki 1994-11-28
+
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 140-0; Žin. 1992, Nr.22-641, i. k. 0921010ISTA00I-2750
+
 LIETUVOS RESPUBLIKOS
 
 ĮSTATYMAS
@@ -24,7 +28,11 @@ DĖL BAUDŲ IR MOKESČIŲ, NUMATYTŲ LIETUVOS RESPUBLIKOS KODEKSUOSE, INDEKSAVIM
 
 Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
-1. Nustatyti, kad Lietuvos Respublikos administracinių teisės pažeidimų kodekse numatytos baudos, taip pat maksimalus dydis baudų, kurias turi teisę skirti šio kodekso šešioliktajame skirsnyje išvardinti organai ir pareigūnai, indeksuojami kartą per ketvirtį, naudojant suvestinį gyventojų vartojamų prekių ir paslaugų kainų indeksą.
+1. Neteko galios nuo 1994-08-03
+
+Punkto naikinimas:
+
+Nr. I-546, 1994-07-18, Žin. 1994, Nr. 59-1152 (1994-08-03), i. k. 0941010ISTA000I-546
 
 2. Nustatyti, kad Lietuvos Respublikos baudžiamajame kodekse numatytos baudos indeksuojamos kartą per ketvirtį, naudojant suvestinį gyventojų vartojamų prekių ir paslaugų kainų indeksą.
 
@@ -49,4 +57,14 @@ PIRMININKAS                                  �
 Vilnius, 1992 m. liepos 15 d.
 
 Nr. I-2750
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-546, 1994-07-18, Žin., 1994, Nr. 59-1152 (1994-08-03), i. k. 0941010ISTA000I-546
+
+Dėl Lietuvos Respublikos įstatymo "Dėl baudų ir mokesčių, numatytų Lietuvos Respublikos kodeksuose, indeksavimo" 1 straipsnio pripažinimo netekusiu galios
 
