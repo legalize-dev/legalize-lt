@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "1998-10-20"
+last_updated: "1998-12-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -96,9 +96,19 @@ varikliams, gazolis (dyzelinis kuras), skystasis krosnių kuras;
 
 Lietuvos Respublikos Vyriausybės patvirtintą sąrašą);
 
-11) parfumerijos, kosmetikos ir tualetiniai
+11) skysti parfumerijos, kosmetikos, tualetiniai
 
-preparatai, kurių sudėtyje yra etilo alkoholio.
+preparatai ir kiti šiame straipsnyje nenurodyti produktai, kurių sudėtyje yra
+
+etilo alkoholio ir kurie dėl nedidelės kainos gali būti vartojami kaip
+
+alkoholinių gėrimų pakaitalai (pagal Lietuvos Respublikos Vyriausybės sudarytą
+
+sąrašą ir jos nustatytą kainų ribą), tačiau tik tie, kuriuose esanti etilo
+
+alkoholio koncentracija viršija Vyriausybės nustatytus minimalius etilo
+
+alkoholio koncentracijos dydžius.
 
 2. Importuojamos prekės, kaip akcizų objektas, yra šio
 
@@ -115,6 +125,10 @@ pakeitimai:
 Nr. VIII-901, 98.10.20, Žin., 1998,
 
 Nr.96-2657 (98.11.04)
+
+Nr. VIII-982, 98.12.21, Žin., 1998,
+
+Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 
 4 straipsnis. Apmokestinamoji vertė
 
@@ -153,6 +167,184 @@ atvejais, kai atsiranda skola muitinei.
 2. Akcizai yra prekių kainos elementas ir
 
 sąskaitose-faktūrose bei mokėjimo dokumentuose nenurodomi.
+
+5(1 )straipsnis. Akcizų tarifai
+
+1. Prekės apmokestinamos taikant šiuos akcizų tarifus:
+
+1) nedenatūruotam etilo alkoholiui ir alkoholiniams
+
+gėrimams, išskyrus midaus trauktines, šampaną, vyną, alų ir medikamentus su
+
+vaistažolėmis, kurių sudėtyje yra etilo alkoholio, įregistruotus Lietuvos
+
+Respublikos valstybiniame vaistų ir vaistinių medžiagų registre, - 0,54 lito už
+
+1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
+
+2) midaus trauktinėms (pagamintoms natūralaus bičių
+
+medaus pagrindu) - 0,12 lito už 1 procentą tūrinės alkoholio koncentracijos
+
+litre gėrimo;
+
+3)
+
+vynui (įskaitant stiprintąjį), kurio faktinė tūrinė alkoholio koncentracija ne
+
+didesnė kaip 13 procentų:
+
+a) šviežių vynuogių - 0,16 lito už 1
+
+procentą tūrinės alkoholio koncentracijos litre gėrimo,
+
+b) vynuogių misai, kitiems
+
+fermentuotiems gėrimams bei jų mišiniams - 0,12 lito už 1 procentą tūrinės
+
+alkoholio koncentracijos litre gėrimo;
+
+4) vynui (įskaitant stiprintąjį), kurio faktinė tūrinė
+
+alkoholio koncentracija didesnė kaip 13 procentų, bet ne didesnė kaip 18
+
+procentų tūrio:
+
+a) šviežių vynuogių - 0,29 lito už 1 procentą tūrinės
+
+alkoholio koncentracijos litre gėrimo,
+
+b) kitiems fermentuotiems gėrimams bei jų mišiniams -
+
+0,20 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
+
+5) vynui, kitiems fermentuotiems gėrimams bei jų
+
+mišiniams, kurių faktinė tūrinė alkoholio koncentracija didesnė kaip 18
+
+procentų tūrio, - 0,38 lito už 1 procentą tūrinės alkoholio koncentracijos
+
+litre gėrimo;
+
+6) šampanui, putojančiam vynui, perteklinio slėgio
+
+vynui - 0,42 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
+
+7) alui - 0,40 lito už litrą;
+
+8) cigaretėms su filtru ir be filtro - 25 litai už
+
+1000 cigarečių;
+
+9) fasuotam rūkomajam tabakui ir kitiems tabako
+
+gaminiams - 50 procentų apmokestinamosios vertės;
+
+10) variklių benzinui:
+
+a) nuo 1999 m. sausio 1 d. - 1210 litų už toną,
+
+b) nuo 2000 m. sausio 1 d. - 1370 litų už toną,
+
+c) nuo 2001 m. sausio 1 d. - 1150 litų už 1000 litrų;
+
+11) reaktyvinių variklių kurui, žibalui, gazoliui
+
+(dyzeliniams degalams), skystajam krosnių kurui:
+
+a) nuo 1999 m. sausio 1 d. - 560 litų už toną,
+
+b) nuo 2000 m. sausio 1 d. - 720 litų už toną,
+
+c) nuo 2001 m. sausio 1 d. - 740 litų už 1000 litrų;
+
+12) visų rūšių tepalams - 240 litų už toną;
+
+13) šokoladui ir kitiems maisto produktams, turintiems
+
+kakavos, išskyrus kakavos miltelius ir produktus, turinčius mažiau kaip 18
+
+procentų masės kakavos sviesto, - 10 procentų apmokestinamosios vertės;
+
+14) kavai - 10 procentų apmokestinamosios vertės;
+
+15) bižuterijai ir jos dalims iš tauriųjų metalų arba
+
+metalų, plakiruotų tauriaisiais metalais, aukso arba sidabro dailiadirbystės
+
+dirbiniams ir jų dalims iš tauriųjų metalų arba metalų, plakiruotų tauriaisiais
+
+metalais, dirbiniams iš natūraliu arba dirbtiniu būdu išaugintų perlų,
+
+brangiųjų arba pusbrangių akmenų - natūralių, sintetinių arba regeneruotų - 10
+
+procentų apmokestinamosios vertės;
+
+16) ne senesniems kaip 5 metų prabangiems
+
+automobiliams (išskyrus specialiuosius), nurodytiems Valstybinės konkurencijos
+
+ir vartotojų teisių gynimo tarnybos prie Lietuvos Respublikos Vyriausybės
+
+sudarytame sąraše, - 15 procentų kainos, viršijančios 60 tūkst. litų;
+
+17) elektros energijai - 1 procentas apmokestinamosios
+
+vertės;
+
+18) erotinio ir smurtinio pobūdžio spaudos leidiniams
+
+- 75 procentai apmokestinamosios vertės;
+
+19) cukrui, įskaitant cukrų, esantį produktuose (pagal
+
+Vyriausybės patvirtintą sąrašą), - 0,01 lito už 1 procentą cukraus kilograme
+
+produkto;
+
+20) skystiems parfumerijos, kosmetikos, tualetiniams
+
+preparatams ir kitiems produktams, kurių sudėtyje yra etilo alkoholio ir kurie
+
+dėl nedidelės kainos gali būti vartojami kaip alkoholinių gėrimų pakaitalai
+
+(pagal Vyriausybės sudarytą sąrašą ir jos nustatytą kainų ribą), - 10 litų už
+
+litrą preparato.
+
+2. Šio straipsnio 1 dalies 10 ir 11 punktuose
+
+nustatyti naftos produktų akcizai litais už 1000 litrų skaičiuojami už 1000
+
+litrų naftos produktų, kurių temperatūra 15(o )C.
+
+3. Kai šio straipsnio 1 dalies 16 punkte nurodyto
+
+importuojamo automobilio, priskirto prabangiems automobiliams, deklaruojamoji
+
+kaina mažesnė už naujo bazinio automobilio kainą, apskaičiuojant
+
+apmokestinamąją kainos dalį, maksimali neapmokestinamoji kaina proporcingai
+
+sumažinama.
+
+4. Cukraus kiekį (procentais), nuo kurio skaičiuojamas
+
+šio straipsnio 1 dalies 19 punkte nustatytas akcizo tarifas, nustato
+
+Vyriausybė.
+
+5. Šio straipsnio 1 dalyje išvardytų prekių kodus
+
+pagal Kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklatūrą
+
+(toliau - KPN) nustato Vyriausybė.
+
+Įstatymas papildytas straipsniu:
+
+Nr. VIII-982, 98.12.21, Žin., 1998,
+
+Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 
 6 straipsnis. Akcizų netaikymo atvejai
 
@@ -194,21 +386,75 @@ gaminti šiuos gėrimus;
 
 importo muitų pagal Lietuvos Respublikos muitų tarifų įstatymą.
 
-2. Be to, akcizas netaikomas, kai etilo alkoholis
+9) įmonių, orlaiviais
 
-parduodamas:
+gabenančių keleivius ir (arba) krovinius tarptautiniais oro maršrutais,
 
-1) Lietuvos Respublikos įmonėms degtinei, likeriui,
+importuojamas ir įsigyjamas iš Lietuvos gamintojų reaktyvinių variklių kuras
 
-trauktinėms, vynui, midui, actui gaminti;
+(kodą pagal KPN nustato Vyriausybė). Įmonių, kurioms taikoma ši lengvata,
 
-2) farmacijos įmonėms ir sveikatos priežiūros
+sąrašą nustato Vyriausybė. Į šį sąrašą įtraukiamos visos Lietuvos Respublikos
 
-įstaigoms medicinos ir farmacijos reikmėms; veterinarinių vaistų gamybos
+įmonės, kurių pajamos iš keleivių ir (arba) krovinių gabenimo tarptautiniais
 
-įmonėms veterinarinių vaistų gamybai ir veterinarijos tiekimo įmonėms
+maršrutais per paskutiniuosius 12 mėnesių sudaro ne mažiau kaip 75 procentus
 
-veterinarijos reikmėms.
+visų realizavimo pajamų;
+
+10) Lietuvos
+
+Respublikos įmonių, gaminančių cigaretes, importuojamas tabakas (kodą pagal KPN
+
+nustato Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata, sąrašą
+
+nustato Vyriausybė. Tuo atveju, kai nurodytas tabakas šiose įmonėse bus
+
+panaudotas ne cigaretėms gaminti, o kitiems tikslams, nurodytos įmonės turi
+
+apskaičiuoti ir sumokėti už jį nustatyto dydžio akcizą.
+
+2. Be to, akcizas netaikomas, kai etilo alkoholis bei
+
+etilo alkoholio turinčios žaliavos parduodami:
+
+1) Lietuvos Respublikos įmonėms actui ir akcizu
+
+apmokestinamiems alkoholiniams gėrimams gaminti;
+
+2) farmacijos įmonėms
+
+ir medicinos pagalbos įstaigoms - medicinos ir farmacijos reikmėms;
+
+veterinarinių vaistų gamybos įmonėms - veterinarinių vaistų gamybai ir
+
+veterinarijos tiekimo įmonėms - veterinarijos reikmėms.
+
+3. Kiekvienos Lietuvoje alų gaminančios įmonės 100
+
+tūkst. dekalitrų per metus pagaminto ir realizuoto alaus taikomas 50 procentų
+
+mažesnis, negu šio įstatymo 5(1) straipsnyje nustatytas akcizo alui
+
+tarifas. Ši lengvata taikoma, iki Lietuva įstos į Pasaulinę prekybos
+
+organizaciją. Įstojus į šią organizaciją, Lietuvoje alų gaminančios įmonės savo
+
+pagamintam ir realizuojamam alui taikys šio įstatymo 5 (1 )straipsnyje
+
+nustatytą akcizo alui tarifą.
+
+4. Degtinei, kurios alkoholio koncentracija didesnė
+
+kaip 30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri
+
+atitinka Vyriausybės nustatytus technologinius bei kokybės reikalavimus,
+
+taikomas mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio
+
+koncentracijos litre gėrimo. Ši lengvata pradedama taikyti Vyriausybei priėmus
+
+atitinkamą nutarimą.
 
 Straipsnio
 
@@ -217,6 +463,10 @@ pakeitimai:
 Nr. VIII-626, 98.02.17, Žin., 1998,
 
 Nr.25-629 (98.03.13), įsigalioja nuo 1998.07.01
+
+Nr. VIII-982, 98.12.21, Žin., 1998,
+
+Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
 
@@ -347,6 +597,206 @@ muitinės sankcionuotų veiksmų atlikimo tvarkos ir dėl to atsiranda importo
 skola muitinei, delspinigiai pradedami skaičiuoti nuo importo skolos muitinei
 
 atsiradimo dienos.
+
+13
+
+straipsnis. Baigiamosios nuostatos
+
+Vyriausybė ar jos įgaliota institucija nustato akcizų
+
+apskaičiavimo ir mokėjimo tvarką.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-982, 98.12.21, Žin., 1998,
+
+Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą
+
+įstatymą.
+
+RESPUBLIKOS
+
+PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+
+___________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. I-767,
+
+95.01.24, Žin., 1995, Nr. 12-260 (95.02.08)
+
+DĖL LIETUVOS RESPUBLIKOS AKCIZŲ
+
+ĮSTATYMO PAPILDYMO
+
+Pakeitimai: 01. Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. I-993,
+
+95.07.03, Žin., 1995, Nr. 59-1469 (95.07.19)
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. I-905,
+
+95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
+
+DĖL LIETUVOS RESPUBLIKOS AKCIZŲ
+
+ĮSTATYMO PAKEITIMO IR PAPILDYMO
+
+3.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. I-1084,
+
+95.11.07, Žin., 1995, Nr. 94-2087 (95.11.17)
+
+DĖL LIETUVOS RESPUBLIKOS AKCIZŲ
+
+ĮSTATYMO PAPILDYMO
+
+4.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. I-1250,
+
+96.03.28, Žin., 1996, Nr. 35-857 (96.04.19)
+
+LIETUVOS RESPUBLIKOS AKCIZŲ
+
+ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. I-1307,
+
+96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
+
+LIETUVOS RESPUBLIKOS AKCIZŲ
+
+ĮSTATYMO 8-1, 8-2, 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 1996
+
+metų liepos 1 dienos.
+
+6.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-51,
+
+96.12.23, Žin., 1996, Nr.126-2941 (96.12.31)
+
+LIETUVOS RESPUBLIKOS AKCIZŲ
+
+ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+7.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-125,
+
+97.02.25, Žin., 1997, Nr.20-447 (97.03.07)
+
+LIETUVOS RESPUBLIKOS AKCIZŲ
+
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-556,
+
+97.12.09, Žin., 1997, Nr.117-2996 (97.12.24)
+
+LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija nuo
+
+1998 m. sausio 1 d.
+
+9.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-626, 98.02.17, Žin., 1998,
+
+Nr.25-629 (98.03.13)
+
+AKCIZŲ ĮSTATYMO 6
+
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 1998 m. liepos 1 d.
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-901, 98.10.20, Žin., 1998,
+
+Nr.96-2657 (98.11.04)
+
+AKCIZŲ ĮSTATYMO 3 IR 7 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-982, 98.12.21, Žin., 1998,
+
+Nr.114-3194 (98.12.30)
+
+AKCIZŲ ĮSTATYMO 3, 6, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 5(1)
+
+STRAIPSNIU ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 1999 m. sausio 1 d.
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė
+
+Trapinskienė (2000.08.17)
 
 13 straipsnis. Baigiamosios nuostatos
 
