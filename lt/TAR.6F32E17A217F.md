@@ -4,7 +4,7 @@ identifier: "TAR.6F32E17A217F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-28"
-last_updated: "1997-10-14"
+last_updated: "1998-07-02"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6F32E17A217F"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.10.24)
+Ramunė Lūžaitė (1998.07.22)
 
 Įstatymas
 
@@ -235,6 +235,20 @@ LIETUVOS RESPUBLIKOS
 
 BUTŲ PRIVATIZAVIMO ĮSTATYMO 3 STRAIPSNIO PAPILDYMO
 
+15.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-847,
+
+98.07.02, Žin., 1998, Nr.65-1876 (98.07.22)
+
+LIETUVOS
+
+RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -269,9 +283,9 @@ privatizuojančių gyvenamąsias patalpas bendrabučiuose, pareiškimų padavimo
 
 terminus nustato Lietuvos Respublikos Vyriausybė. Pareiškimai, paduoti po 1994
 
-m. kovo 31 d. iki šio įstatymo įsigaliojimo, laikomi paduotais nepažeidus nustatyto
+m. kovo 31 d. iki šio įstatymo įsigaliojimo, laikomi paduotais nepažeidus
 
-termino. Pareiškimai, paduoti po 1994 m. liepos 1 d. iki šio įstatymo
+nustatyto termino. Pareiškimai, paduoti po 1994 m. liepos 1 d. iki šio įstatymo
 
 įsigaliojimo, laikomi paduotais nepažeidus nustatyto
 
@@ -383,15 +397,15 @@ penktojoje dalyse, turi būti pateikti per  6 mėnesius nuo suteiktos
 
 gyvenamosios patalpos nuomos sutarties  pasirašymo  dienos,  o  nurodytas šio
 
-straipsnio trečiojoje  dalyje - per 6 mėnesius nuo savivaldybės mero
+straipsnio trečiojoje  dalyje - per 6 mėnesius nuo savivaldybės mero (valdybos)
 
-(valdybos)  ar  kitos  institucijos  sprendimo  įregistruoti gyvenamąjį  namą,
+ar  kitos  institucijos  sprendimo  įregistruoti gyvenamąjį  namą,  jo  dalį,
 
-jo  dalį,  butą valstybės, savivaldybės, kooperatinės  ar  visuomeninės
+butą valstybės, savivaldybės, kooperatinės  ar  visuomeninės  organizacijos
 
-organizacijos vardu teisinės registracijos turto registro įstaigoje, netaikant
+vardu teisinės registracijos turto registro įstaigoje, netaikant šio įstatymo 1
 
-šio įstatymo 1 straipsnio antrojoje dalyje nustatyto termino apribojimo.
+straipsnio antrojoje dalyje nustatyto termino apribojimo.
 
 Pirkimo-pardavimo
 
@@ -473,9 +487,9 @@ kooperatyvą, jeigu šiems asmenims gyvenamojo namo ar buto statybai suteiktas
 
 lengvatinis kreditas arba jeigu sklypas individualiam gyvenamajam namui statyti
 
-jiems suteiktas kvartaluose, kuriuose valstybės lėšomis yra nutiesti magistraliniai
+jiems suteiktas kvartaluose, kuriuose valstybės lėšomis yra nutiesti
 
-inžineriniai tinklai;
+magistraliniai inžineriniai tinklai;
 
 5)
 
@@ -483,13 +497,13 @@ gyvenamieji namai, butai, kurie iš Lietuvos piliečių, turinčių teisę į
 
 nuosavybės atstatymą pagal Lietuvos Respublikos įstatymo  "Dėl  piliečių
 
-nuosavybės  teisių  į  išlikusį nekilnojamąjį turtą  atstatymo tvarkos  ir sąlygų"
+nuosavybės  teisių  į  išlikusį nekilnojamąjį turtą  atstatymo tvarkos  ir
 
-antrąjį straipsnį, administraciniais aktais  ar kitais būdais  buvo paimti,
+sąlygų"  antrąjį straipsnį, administraciniais aktais  ar kitais būdais  buvo
 
-konfiskuoti arba nacionalizuoti, išskyrus šio įstatymo 2 straipsnio trečiojoje
+paimti, konfiskuoti arba nacionalizuoti, išskyrus šio įstatymo 2 straipsnio
 
-dalyje nurodytus atvejus;
+trečiojoje dalyje nurodytus atvejus;
 
 6) gyvenamieji namai, butai, išnuomoti pagal Lietuvos Respublikos gyventojų
 
@@ -609,6 +623,12 @@ pirkimo-pardavimo sutartis ir kas taps perkamo namo, buto savininku
 
 Nesutarus pirkti gyvenamojo namo, buto, pirkimo-pardavimo sutartis nesudaroma.
 
+Sutuoktinių nuosavybės teisė į privatizuotą namą ar butą nustatoma pagal šeimos
+
+įstatymus, neatsižvelgiant į tai, kurio sutuoktinio vardu buvo privatizuotas
+
+namas ar butas.
+
 Pareiškimus
 
 gyvenamiesiems namams, butams įsigyti asmenys paduoda savivaldybei pagal
@@ -628,6 +648,10 @@ I-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
 Nr.
 
 I-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
+
+Nr. VIII-847,
+
+98.07.02, Žin., 1998, Nr.65-1876 (98.07.22)
 
 6
 
@@ -671,11 +695,11 @@ Plotas
 
 gyvenamuosiuose namuose, butuose, viršijantis šio straipsnio pirmojoje dalyje
 
-nustatytas normas  respublikinio pavaldumo miestuose ir miestuose rajonų
+nustatytas normas  respublikinio pavaldumo miestuose ir miestuose rajonų centruose,
 
-centruose, parduodamas dviguba  kaina.  Plotas,  kurį  užima  kūrybinės
+parduodamas dviguba  kaina.  Plotas,  kurį  užima  kūrybinės dirbtuvės,
 
-dirbtuvės, nepriklausomai nuo jų dydžio parduodamas dviguba kaina.
+nepriklausomai nuo jų dydžio parduodamas dviguba kaina.
 
 Nuomininkui
 
@@ -769,11 +793,11 @@ visuomenės reikalams ir pagal tuo laiku galiojusius įstatymus nebuvo
 
 kompensuota namų  vertė, neatlygintinai  pripažįstama nuosavybės teisė į
 
-nuomojamą gyvenamąjį namą ar butą. Jeigu nėra buvusių namų savininkų, jų
+nuomojamą gyvenamąjį namą ar butą. Jeigu nėra buvusių namų savininkų, jų įpėdiniams,
 
-įpėdiniams, įstatymų nustatyta tvarka pasikeitusiems gautąjį kaip kompensaciją
+įstatymų nustatyta tvarka pasikeitusiems gautąjį kaip kompensaciją butą į kitą
 
-butą į kitą  arba gyvenamojo ploto skirstymo tvarka pagerinusiems buto sąlygas,
+arba gyvenamojo ploto skirstymo tvarka pagerinusiems buto sąlygas,
 
 neatlygintinai nuosavybės teisė pripažįstama tik į tą gyvenamojo ploto dalį,
 
