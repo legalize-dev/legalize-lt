@@ -4,7 +4,7 @@ identifier: "TAR.4F9515A6EB3D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-12-23"
-last_updated: "1998-07-01"
+last_updated: "1999-11-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 1998-07-01 iki 1999-11-18
+Suvestinė redakcija nuo 1999-11-19 iki 1999-12-16
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
 
@@ -49,7 +49,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. VIII-797, 1998-06-16, Žin., 1998, Nr. 59-1657 (1998-07-01), i. k. 0981010ISTAVIII-797
 
-9) Lietuvos Respublikos atmosferos oro apsaugos įstatymą, priimtą 1981 m. birželio 19 d., (Žin., 1981, Nr. 17-216; 1984, Nr. 34-391);
+9) Neteko galios nuo 1999-11-19
+
+Straipsnio punkto naikinimas:
+
+Nr. VIII-1392, 1999-11-04, Žin. 1999, Nr. 98-2813 (1999-11-19), i. k. 0991010ISTAIII-1392
 
 Straipsnio punkto pakeitimai:
 
@@ -86,4 +90,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-797, 1998-06-16, Žin., 1998, Nr. 59-1657 (1998-07-01), i. k. 0981010ISTAVIII-797
 
 Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1392, 1999-11-04, Žin., 1999, Nr. 98-2813 (1999-11-19), i. k. 0991010ISTAIII-1392
+
+Lietuvos Respublikos aplinkos oro apsaugos įstatymas
 
