@@ -4,7 +4,7 @@ identifier: "TAR.CFCEE0DB5FF2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-12"
-last_updated: "1996-10-02"
+last_updated: "1997-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CFCEE0DB5FF2"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1996-09-12"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas
+
+Suvestinė redakcija nuo 1997-07-09 iki 2000-10-31
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 92-2143, i. k. 0961010ISTA00I-1516
 
 LIETUVOS RESPUBLIKOS
 
@@ -57,7 +61,11 @@ Zonoje plėtojama prekybos, gamybos, eksporto ir importo, verslo veikla. Zonos v
 
 6 straipsnis. Konkurso sąlygos geriausiam zonos verslo planui ir zonos statutui parengti bei steigėjų grupei parinkti ir kriterijai nugalėtojams nustatyti
 
-1. Tarptautinį konkursą organizuoja Klaipėdos miesto savivaldybė, o konkurso komisiją ir nuostatus tvirtina Vyriausybė. Į komisiją turi būti įtraukta ne mažiau kaip po vieną Klaipėdos miesto tarybos ir Klaipėdos apskrities valdytojo skiriamą narį.
+1. Tarptautinį konkursą organizuoja Klaipėdos miesto savivaldybė, o konkurso komisiją ir nuostatus tvirtina Vyriausybė. Į komisiją turi būti įtraukta ne mažiau kaip po vieną Klaipėdos miesto tarybos ir Klaipėdos apskrities viršininko skiriamą narį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010ISTAVIII-330
 
 2. Tarptautinis konkursas turi būti paskelbtas ne vėliau kaip per mėnesį nuo šio įstatymo įsigaliojimo dienos.
 
@@ -182,4 +190,14 @@ Zonoje plėtojama prekybos, gamybos, eksporto ir importo, verslo veikla. Zonos v
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010ISTAVIII-330
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 6 straipsnio pakeitimo įstatymas
 
