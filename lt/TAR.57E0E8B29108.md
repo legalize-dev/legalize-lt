@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2003-07-23"
+last_updated: "2004-02-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2003-07-23 iki 2004-02-20
+Suvestinė redakcija nuo 2004-02-21 iki 2006-06-09
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -58,6 +58,34 @@ Vilnius
 
 10) valstybės įmonė Tarptautinis Vilniaus oro uostas.
 
+11) valstybės įmonė „Automagistralė“;
+
+12) valstybės įmonė „Alytaus regiono keliai“;
+
+13) valstybės įmonė „Kauno regiono keliai“;
+
+14) valstybės įmonė „Klaipėdos regiono keliai“;
+
+15) valstybės įmonė „Marijampolės regiono keliai“;
+
+16) valstybės įmonė „Panevėžio regiono keliai“;
+
+17) valstybės įmonė „Šiaulių regiono keliai“;
+
+18) valstybės įmonė „Tauragės regiono keliai“;
+
+19) valstybės įmonė „Telšių regiono keliai“;
+
+20) valstybės įmonė „Utenos regiono keliai“;
+
+21) valstybės įmonė „Vilniaus regiono keliai“;
+
+22) valstybės įmonė „Vidaus vandens kelių direkcija“.
+
+Papildyta citata:
+
+Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
+
 2. Strateginę reikšmę nacionaliniam saugumui turi šie valstybei nuosavybės teise priklausantys įrenginiai:
 
 1) Klaipėdos valstybinio jūrų uosto hidrotechniniai įrenginiai, krantinės, navigacijos keliai ir kanalai, navigaciniai įrenginiai ir kiti infrastruktūros objektai;
@@ -70,7 +98,11 @@ Vilnius
 
 3. Šio straipsnio 1 dalyje nurodytos valstybės įmonės gali būti pertvarkytos į akcines bendroves ar uždarąsias akcines bendroves arba reorganizuotos Civilinio kodekso nustatytais būdais tik Seimui priėmus atitinkamą įstatymą.
 
-4. Šio straipsnio 2 dalyje nurodyti įrenginiai turi nuosavybės teise priklausyti valstybei ir gali būti išnuomoti ir perduoti pagal panaudos sutartį tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms ir 3 straipsnio 1 dalyje nurodytoms įmonėms, o perduoti valdyti ir naudoti patikėjimo teise tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms.
+4. Šio straipsnio 2 dalyje nurodyti įrenginiai turi nuosavybės teise priklausyti valstybei ir gali būti išnuomoti ir perduoti pagal panaudos sutartį arba perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms ir 3 straipsnio 1 dalyje nurodytoms įmonėms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
 
 3 straipsnis.         Įmonės, kurių kapitalo dalį gali sudaryti privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis užsienio kapitalas, paliekant sprendžiamąją galią valstybei, ir įrenginiai
 
@@ -82,17 +114,19 @@ Vilnius
 
 3) akcinė bendrovė Lietuvos radijo ir televizijos centras;
 
-4) specialios paskirties akcinė bendrovė „Jonavos grūdai“;
+4) akcinė bendrovė „Jonavos grūdai“;
 
 5) akcinė bendrovė „Lietuvos energija“;
 
-6) specialios paskirties akcinė bendrovė „Šilutės polderiai“;
+6) akcinė bendrovė „Šilutės polderiai“;
 
 7) uždaroji akcinė bendrovė Šiaulių oro uostas;
 
-8) akcinė bendrovė „Klaipėdos nafta“;
+8) akcinė bendrovė „Klaipėdos nafta“.
 
-9) vandens tiekimo ir nuotėkų šalinimo įmonės pagal Vyriausybės patvirtintą sąrašą.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
 
 2. Strateginę reikšmę nacionaliniam saugumui turi akcinės bendrovės „Lietuvos energija“ įrenginiai, sudarantys 110 kV ir aukštesnės įtampos elektros perdavimo tinklą ir jo priklausinius.
 
@@ -128,7 +162,29 @@ Nr. IX-1677, 2003-07-01, Žin., 2003, Nr. 73-3354 (2003-07-23), i. k. 1031010IST
 
 7) akcinė bendrovė „Achema“.
 
+8) vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės pagal Lietuvos Respublikos Vyriausybės patvirtintą sąrašą.
+
+Papildyta straipsnio punktu:
+
+Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
+
 2. Siekiant užtikrinti nacionalinį saugumą, įstatymai gali nustatyti papildomus šio straipsnio 1 dalyje nurodytų įmonių veiklos reikalavimus.
+
+3. Vandens tiekimo bei nuotekų šalinimo paslaugas teikiančios įmonės, nurodytos šio straipsnio 1 dalies 8 punkte, turi nuosavybės teise priklausyti valstybei ar savivaldybei arba valstybei ar savivaldybei turi priklausyti daugiau kaip 75 procentai balsų suteikiančių šių įmonių akcijų.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
+
+5 straipsnis.         Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių sauga
+
+1. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į įmonių veiklos ypatumus, nustato strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių fizinės ir informacinės saugos reikalavimus.
+
+2. Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių vadovai atsako už šio straipsnio 1 dalyje numatytų fizinės ir informacinės saugos reikalavimų įgyvendinimą.
+
+Papildyta straipsniu:
+
+Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -145,4 +201,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1677, 2003-07-01, Žin., 2003, Nr. 73-3354 (2003-07-23), i. k. 1031010ISTA0IX-1677
 
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 3 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
+
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 2, 3, 4 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 5 straipsniu įstatymas
 
