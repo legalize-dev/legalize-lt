@@ -4,7 +4,7 @@ identifier: "TAR.278D4FD8E838"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-25"
-last_updated: "1999-07-01"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymas
+
+Suvestinė redakcija nuo 2003-05-01 iki 2012-04-30
+
+Įstatymas paskelbtas: Žin. 1999, Nr. 52-1672, i. k. 0991010ISTAIII-1202
 
 LIETUVOS RESPUBLIKOS
 
@@ -151,7 +155,11 @@ Turto vertintojo kvalifikacija nekilnojamojo, kilnojamojo turto ir verslo vertin
 
 1) yra veiksnūs;
 
-2) neturi teistumo už sunkius nusikaltimus ir kitus nusikaltimus nuosavybei, valstybės tarnybai, teisingumui, ūkininkavimo tvarkai bei finansams;
+2) neturi teistumo už sunkius ar labai sunkius nusikaltimus arba kitus nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, valstybės tarnybai ir viešiesiems interesams, teisingumui, ekonomikai ir verslo tvarkai bei finansų sistemai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1428, 2003-04-03, Žin., 2003, Nr. 38-1673 (2003-04-24), i. k. 1031010ISTA0IX-1428
 
 3) atitinka Vyriausybės nustatytus išsilavinimo ir profesinės patirties kvalifikacijos reikalavimus.
 
@@ -398,4 +406,14 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1428, 2003-04-03, Žin., 2003, Nr. 38-1673 (2003-04-24), i. k. 1031010ISTA0IX-1428
+
+Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo 8 straipsnio pakeitimo įstatymas
 
