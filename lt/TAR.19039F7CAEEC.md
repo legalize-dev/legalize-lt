@@ -4,7 +4,7 @@ identifier: "TAR.19039F7CAEEC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-23"
-last_updated: "2000-06-13"
+last_updated: "2000-06-27"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC"
 department: "Lietuvos Respublikos Seimas"
@@ -20,11 +20,11 @@ Redagavo: Ramun? L??ait? (1997
 
 Įstatymas
 
-paskelbtas: Žin., 1994, Nr. 3-41
+skelbtas: Žin., 1994, Nr. 3-41
 
 Nauja
 
-įstatymo redakcija paskelbta: Žin., 1998, Nr. 32-855
+įstatymo redakcija skelbta: Žin., 1998, Nr. 32-855
 
 Neoficialus
 
@@ -68,9 +68,9 @@ santykius.
 
 užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarką
 
-nustato Žemės sklypų įsigijimo ir nuomos užsienio valstybių diplomatinėms ir konsulinėms
+nustato Žemės sklypų įsigijimo ir nuomos užsienio valstybių diplomatinėms ir
 
-įstaigoms tvarkos bei sąlygų įstatymas.
+konsulinėms įstaigoms tvarkos bei sąlygų įstatymas.
 
 3. Laisvųjų
 
@@ -134,9 +134,9 @@ viršininkas - išnuomoja kitų subjektų valdomą valstybinę žemę bei kitą
 
 valstybinę žemę.
 
-3. Žemės
+3. Žemės sklypas,
 
-sklypas, priklausantis keliems asmenims bendrosios nuosavybės teise, gali būti
+priklausantis keliems asmenims bendrosios nuosavybės teise, gali būti
 
 išnuomojamas, jeigu bendrasavininkiai sutinka arba nuomos sutartį pasirašo
 
@@ -144,11 +144,9 @@ vienas bendrasavininkis, turintis notaro patvirtintą kitų bendrasavininkių
 
 įgaliojimą.
 
-4. Nuomotojo ir
+4. Nuomotojo ir nuomininko
 
-nuomininko pareigos apibrėžiamos žemės nuomos sutartyje, šiame ir kituose
-
-įstatymuose.
+pareigos apibrėžiamos žemės nuomos sutartyje, šiame ir kituose įstatymuose.
 
 5. Žemės
 
@@ -264,6 +262,16 @@ nuomininkas;
 
 objektas su žemės kadastro bei Nekilnojamojo turto registro duomenimis;
 
+[1 dalies 3 punkto redakcija nuo 2001
+
+sausio 1 d.:
+
+3) žemės nuomos
+
+objektas su nekilnojamojo turto kadastro bei Nekilnojamojo turto registro
+
+duomenimis;]
+
 4) žemės nuomos
 
 terminas;
@@ -330,9 +338,7 @@ nuomininkui atstovauti žemės savininkui ir disponuoti šio savininko privačia
 
 2) įgaliojimas
 
-privačios žemės nuomininkui keisti pagrindinę tikslinę žemės naudojimo
-
-paskirtį.
+privačios žemės nuomininkui keisti pagrindinę tikslinę žemės naudojimo paskirtį.
 
 3. Žemės nuomos
 
@@ -347,6 +353,10 @@ Straipsnio pakeitimai:
 Nr. VIII-1729, 00.06.13, Žin., 2000,
 
 Nr.50-1434 (00.06.21)
+
+Nr. VIII-1767, 00.06.27, Žin., 2000,
+
+Nr.58-1707 (00.07.19), įsigalioja nuo 2001.01.01
 
 7 straipsnis.
 
@@ -420,9 +430,9 @@ nuomotojo ir nuomininko susitarimu.
 
 2. Nuompinigių
 
-(užmokesčio už žemės nuomą) už valstybinę žemę dydis nustatomas Vyriausybės nustatyta
+(užmokesčio už žemės nuomą) už valstybinę žemę dydis nustatomas Vyriausybės
 
-tvarka.
+nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -716,11 +726,13 @@ Nuomotojo pareiga pranešti apie nuomos sutartį
 
 Nuomotojas,
 
-prieš parduodamas ar kitaip perduodamas nuomojamą žemės sklypą ar jį įkeisdamas,
+prieš parduodamas ar kitaip perduodamas nuomojamą žemės sklypą ar jį
 
-privalo informuoti žemės sklypo įgijėją ir būsimą įkaito turėtoją apie nuomos
+įkeisdamas, privalo informuoti žemės sklypo įgijėją ir būsimą įkaito turėtoją
 
-sutartį, o nuomininką - apie numatomą žemės sklypo perleidimą ar įkeitimą.
+apie nuomos sutartį, o nuomininką - apie numatomą žemės sklypo perleidimą ar
+
+įkeitimą.
 
 17 straipsnis.
 
@@ -1184,9 +1196,23 @@ Nr.50-1434 (00.06.21)
 
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1767, 00.06.27, Žin., 2000,
+
+Nr.58-1707 (00.07.19)
+
+ŽEMĖS NUOMOS ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.06.22)
+Redagavo: Aušrinė Trapinskienė (2000.08.01)
 
 25 straipsnis.
 
