@@ -4,7 +4,7 @@ identifier: "TAR.AD44354DA25E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-10-19"
-last_updated: "2001-06-06"
+last_updated: "2002-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AD44354DA25E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos augalų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2001-06-06 iki 2001-12-31
+Suvestinė redakcija nuo 2002-01-01 iki 2004-04-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 90-2013, i. k. 0951010ISTA00I-1069
 
@@ -48,7 +48,11 @@ Vilnius
 
 3 straipsnis. Augalų apsaugos valstybinis valdymas ir valstybinė priežiūra
 
-1. Lietuvos Respublikoje augalų apsaugos valstybinį valdymą, atsižvelgdamos į šio darbo specifinį pobūdį, vykdo Žemės ūkio ministerija per Valstybinę augalų apsaugos tarnybą, Aplinkos ministerija, Sveikatos apsaugos ministerija per visuomenės sveikatos priežiūros tarnybas ir apskričių viršininkai. Minėtos tarnybos, neatsižvelgdamos į naudotojų pavaldumą, kontroliuoja cheminių ir biologinių augalų apsaugos priemonių gamybą, įvežimą, saugojimą, prekybą, naudojimą ir karantino priemonių taikymą.
+1. Lietuvos Respublikoje augalų apsaugos valstybinį valdymą, atsižvelgdamos į šio darbo specifinį pobūdį, vykdo Žemės ūkio ministerija per Valstybinę augalų apsaugos tarnybą, Aplinkos ministerija, Sveikatos apsaugos ministerija per visuomenės sveikatos priežiūros tarnybas. Minėtos tarnybos, neatsižvelgdamos į naudotojų pavaldumą, kontroliuoja cheminių ir biologinių augalų apsaugos priemonių gamybą, įvežimą, saugojimą, prekybą, naudojimą ir karantino priemonių taikymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-635, 2001-12-10, Žin., 2001, Nr. 110-3986 (2001-12-29), i. k. 1011010ISTA00IX-635
 
 2. Augalų apsaugos valstybinę priežiūrą atlieka valstybiniai augalų apsaugos ir karantino inspektoriai, vyriausieji valstybiniai miškų pareigūnai, vyresnieji valstybiniai miškų pareigūnai bei valstybiniai saugomų teritorijų pareigūnai.
 
@@ -159,6 +163,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-320, 2001-05-15, Žin., 2001, Nr. 48-1655 (2001-06-06), i. k. 1011010ISTA00IX-320
 
 Lietuvos Respublikos augalų apsaugos įstatymo 3, 4 ir 11 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-635, 2001-12-10, Žin., 2001, Nr. 110-3986 (2001-12-29), i. k. 1011010ISTA00IX-635
+
+Lietuvos Respublikos augalų apsaugos įstatymo 3 straipsnio pakeitimo įstatymas
 
 12 straipsnis. Tarptautinis bendradarbiavimas augalų apsaugos srityje
 
