@@ -4,7 +4,7 @@ identifier: "TAR.1E52802BE548"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-03"
-last_updated: "2000-09-12"
+last_updated: "2001-12-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548"
 department: "Lietuvos Respublikos Seimas"
@@ -57,15 +57,19 @@ valstybės ir savivaldybių biudžetinėms viešosioms įstaigoms.
 
 įstaigos samprata
 
-1. Viešoji įstaiga - tai šio
+1. Viešoji įstaiga – tai šio įstatymo
 
-įstatymo nustatyta tvarka iš dalininkų (savininko) turto įsteigta ne pelno
+nustatyta tvarka iš dalininkų (savininko) turto įsteigta ne pelno organizacija,
 
-organizacija, veikianti socialinėje, švietimo, mokslo, kultūros, sporto ar
+veikianti socialinėje, švietimo, mokslo, kultūros, sporto ar kitose panašiose
 
-kitose panašiose srityse ir viešai teikianti šių sričių paslaugas visuomenės
+srityse ir viešai teikianti šių sričių paslaugas visuomenės nariams, taip pat
 
-nariams.
+savivaldybės tarybos sprendimu iš savivaldybės turto įsteigta ne pelno
+
+organizacija, teikianti paslaugas keleivinio transporto, ryšių, elektros,
+
+šilumos, dujų, vandentiekio, komunalinio ūkio ar kitose panašiose srityse.
 
 2. Ne pelno organizacija -
 
@@ -74,6 +78,16 @@ tai įstatymų nustatyta tvarka įsteigtas juridinio asmens teises turintis
 subjektas, kurio veiklos tikslas nėra pelno siekimas. Ji gauto pelno negali
 
 skirstyti steigėjams, nariams, dalininkams (savininkui).
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-686,
+
+2001-12-21, Žin., 2001, Nr. 112-4092 (2001-12-30)
 
 3 straipsnis. Viešosios
 
@@ -251,9 +265,9 @@ parašas tvirtinamas antspaudu. Neturinčiam antspaudo užsienio juridiniam
 
 asmeniui taikoma fiziniams asmenims nustatyta tvarka.
 
-6. Viešosios įstaigos
+6. Viešosios įstaigos steigėjai,
 
-steigėjai, sudarę steigimo sutartį, priima viešosios įstaigos įstatus.
+sudarę steigimo sutartį, priima viešosios įstaigos įstatus.
 
 7. Jeigu valstybės ar
 
@@ -407,9 +421,9 @@ turtu tvarka;
 
 panaudojimo tvarka;
 
-11) finansinės veiklos kontrolės
+11) finansinės veiklos
 
-tvarka;
+kontrolės tvarka;
 
 12) įstatų keitimo ir
 
@@ -447,9 +461,9 @@ juridinio asmens antspaudu.
 
 įstaigos kolegialus valdymo organas ir viešosios įstaigos visuotinis
 
-susirinkimas. Pakeistus ar papildytus įstatus tvirtina viešosios įstaigos visuotinis
+susirinkimas. Pakeistus ar papildytus įstatus tvirtina viešosios įstaigos
 
-susirinkimas.
+visuotinis susirinkimas.
 
 6. Įstatų pakeitimai ir
 
@@ -493,11 +507,11 @@ viešosios įstaigos įstatuose, įstatymų nustatyta tvarka reikalinga licencij
 
 juridinis asmuo ir veikia viešosios įstaigos, kaip juridinio asmens, vardu
 
-pagal viešosios įstaigos įstatus ir jos administracijos vadovo suteiktus įgaliojimus,
+pagal viešosios įstaigos įstatus ir jos administracijos vadovo suteiktus
 
-kurie turi būti nurodyti įstaigos įstatuose ir filialo nuostatuose. Viešosios
+įgaliojimus, kurie turi būti nurodyti įstaigos įstatuose ir filialo
 
-įstaigos filialų skaičius neribojamas.
+nuostatuose. Viešosios įstaigos filialų skaičius neribojamas.
 
 2. Filialui leidžiama turėti
 
@@ -555,15 +569,15 @@ priklauso:
 
 įstatus;
 
-2) nustatyti privalomas
+2) nustatyti privalomas veiklos
 
-veiklos užduotis;
+užduotis;
 
 3) nustatyti paslaugų, darbų
 
-bei produkcijos kainas ir tarifus bei jų apskaičiavimo taisykles, jeigu to nenustato
+bei produkcijos kainas ir tarifus bei jų apskaičiavimo taisykles, jeigu to
 
-Vyriausybė;
+nenustato Vyriausybė;
 
 4) skirti ir atleisti iš
 
@@ -625,17 +639,17 @@ nustato darbuotojų etatus ir priima bei atleidžia darbuotojus. Administracijos
 
 vadovo kompetencija ir funkcijos nustatomos įstatuose.
 
-9. Kolegialūs viešosios
+9. Kolegialūs viešosios įstaigos
 
-įstaigos valdymo organai (taryba, valdyba) sudaromi viešosios įstaigos
+valdymo organai (taryba, valdyba) sudaromi viešosios įstaigos visuotinio
 
-visuotinio susirinkimo nutarimu. Kolegialių valdymo organų narių skaičius, jų
+susirinkimo nutarimu. Kolegialių valdymo organų narių skaičius, jų pareigos,
 
-pareigos, teisės, atsakomybė, sudarymo ir atšaukimo tvarka, darbo apmokėjimo
+teisės, atsakomybė, sudarymo ir atšaukimo tvarka, darbo apmokėjimo tvarka
 
-tvarka nustatoma viešosios įstaigos įstatuose. Tik vieno kolegialaus valdymo
+nustatoma viešosios įstaigos įstatuose. Tik vieno kolegialaus valdymo organo
 
-organo narių darbas gali būti apmokamas.
+narių darbas gali būti apmokamas.
 
 12 straipsnis. Finansinės
 
@@ -651,13 +665,13 @@ kontrolės institucijos turi teisę įstatymų nustatyta tvarka tikrinti viešos
 
 įstaigos veiklą.
 
-3. Viešosios įstaigos administracija
+3. Viešosios įstaigos
 
-privalo pateikti valstybės (savivaldybės) kontrolės institucijoms bei įstaigos
+administracija privalo pateikti valstybės (savivaldybės) kontrolės
 
-įstatuose nustatytiems finansinės veiklos kontrolės subjektams jų reikalaujamus
+institucijoms bei įstaigos įstatuose nustatytiems finansinės veiklos kontrolės
 
-viešosios įstaigos dokumentus.
+subjektams jų reikalaujamus viešosios įstaigos dokumentus.
 
 13 straipsnis. Viešosios
 
@@ -837,9 +851,9 @@ arba iš kurių steigiamos naujos viešosios įstaigos.
 
 reorganizuoti, ją jungiant arba skaidant, rengiamas projektas. Jame nurodoma
 
-kiekvienos reorganizuojamos viešosios įstaigos pavadinimas, adresas, reorganizavimo
+kiekvienos reorganizuojamos viešosios įstaigos pavadinimas, adresas,
 
-iniciatorius, reorganizavimo būdas, reorganizavimo pagrindimas,
+reorganizavimo iniciatorius, reorganizavimo būdas, reorganizavimo pagrindimas,
 
 inventorizacijos tvarka, turto vertinimas, prievolių ir dokumentų perėmėjai ir
 
@@ -903,13 +917,13 @@ administracija netenka įgaliojimų, jų funkcijas atlieka likvidatorius.
 
 viešoji įstaiga sumoka skolas, iš likusio jos turto ir lėšų dalininkams
 
-(savininkui) gali būti grąžinta tik jų dalininkų kapitalo dalis. Likus nepaskirstyto
+(savininkui) gali būti grąžinta tik jų dalininkų kapitalo dalis. Likus
 
-turto ar lėšų, jis perduodamas kitai ar kitoms ne pelno organizacijoms,
+nepaskirstyto turto ar lėšų, jis perduodamas kitai ar kitoms ne pelno
 
-įregistruotoms Lietuvos Respublikoje, kurias nustato institucija, nutarusi
+organizacijoms, įregistruotoms Lietuvos Respublikoje, kurias nustato
 
-likviduoti viešąją įstaigą.
+institucija, nutarusi likviduoti viešąją įstaigą.
 
 4. Likviduotos viešosios
 
@@ -923,9 +937,9 @@ likviduoti viešąją įstaigą.
 
 6. Apie viešosios įstaigos
 
-likvidavimą viešai skelbiama du kartus ne rečiau kaip kas mėnesį arba kiekvienam
+likvidavimą viešai skelbiama du kartus ne rečiau kaip kas mėnesį arba
 
-kreditoriui pranešama raštu.
+kiekvienam kreditoriui pranešama raštu.
 
 Straipsnio
 
@@ -1019,9 +1033,9 @@ organizacijos steigimo metu valstybės ar savivaldos institucija perdavė lėša
 
 ne pelno organizacijos įstatiniam kapitalui formuoti, reorganizuojant ne pelno
 
-organizaciją į viešąją įstaigą, šios lėšos įskaitomos į viešosios įstaigos
+organizaciją į viešąją įstaigą, šios lėšos įskaitomos į viešosios įstaigos nuosavą
 
-nuosavą kapitalą.
+kapitalą.
 
 Skelbiu šį Lietuvos
 
@@ -1079,7 +1093,27 @@ VIEŠŲJŲ ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
 
 ĮSTATYMAS
 
-*** Pabaiga ***
+4.
 
-Redagavo: Aušrinė Trapinskienė (2000.10.04)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-686,
+
+2001-12-21, Žin., 2001, Nr. 112-4092 (2001-12-30)
+
+VIEŠŲJŲ
+
+ĮSTAIGŲ ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2002-01-04)
+
+autrap@lrs.lt
 
