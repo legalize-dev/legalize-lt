@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "1993-03-11"
+last_updated: "1993-10-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1993-03-11 iki 1993-10-12
+Suvestinė redakcija nuo 1993-10-13 iki 1993-11-18
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -431,7 +431,11 @@ BENDROVĖS VEIKLOS NUTRAUKIMAS
 
 2) narių susirinkimo nutarimu;
 
-3) bendrovei bankrutavus;
+3) teismui arba kreditorių susirinkimui priėmus sprendimą pripažinti bendrovę bankrutavusia;
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
 
 4) valstybės valdymo organams priėmus sprendimą atšaukti bendrovės registravimą už teisės pažeidimus įstatymo numatytais atvejais;
 
@@ -446,6 +450,12 @@ BENDROVĖS VEIKLOS NUTRAUKIMAS
 1. Bendrovės likvidavimo tvarką reglamentuoja šis ir kiti Lietuvos Respublikos įstatymai bei bendrovės įstatai.
 
 2. Bendrovę likviduoja valdyba (administracija), kuri tampa bendrovės likvidatoriumi. Narių susirinkimas turi teisę savo nuožiūra, kreditorių ar valstybės valdymo organų reikalavimu išrinkti kitus likvidatorius, bet kuriuo laiku juos atšaukti ir rinkti naujus. Išrinkus likvidatorius, valdyba (administracija) savo įgaliojimus nutraukia, jos funkcijas perima likvidatoriai.
+
+Bendrovę likviduoja valdyba (administratorius), kuri tampa bendrovės likvidatoriumi, jeigu narių susirinkimas neišrenka likvidatoriaus. Nutraukiant bendrovės veiklą šio įstatymo 29 straipsnio 3 ir 5 punktuose numatytais pagrindais, bendrovės likvidatorių skiria organas, priėmęs sprendimą nutraukti bendrovės veiklą. Išrinkus (paskyrus) likvidatorių, valdyba (administratorius) savo įgaliojimus nutraukia, jos funkcijas perima likvidatorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
 
 3. Paskyrus likvidatorius, bendrovė įgyja likviduojamosios įmonės statusą.
 
@@ -465,7 +475,11 @@ BENDROVĖS VEIKLOS NUTRAUKIMAS
 
 3. Likvidatoriai turi pateikti įmonių rejestro pareigūnui nutarimą dėl bendrovės likvidavimo. Prie pranešimo pridedama susirinkimo protokolas, likvidatorių vardai, pavardės ir adresai.
 
-4. Pajininkams negali būti išmokėta jų turto dalis, kol nėra patenkinti kreditorių reikalavimai ir kitos pretenzijos. Kreditorių reikalavimai pradedami tenkinti tik tada, kai bendrovė yra sumokėjusi mokesčius valstybei.
+4. Pajininkams negali būti išmokėta jų turto dalis, kol nėra patenkinti kreditorių reikalavimai ir kitos pretenzijos. Kreditorių reikalavimai pradedami tenkinti tik tada, kai bendrovė yra sumokėjusi mokesčius valstybei, o bendrovės bankroto atveju – Lietuvos Respublikos įmonių bankroto įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
 
 5. Patenkinus kreditorių reikalavimus, kilus narių ginčui dėl likusio turto padalijimo, likvidatoriai sustabdo turto dalijimą. Likviduojamosios bendrovės narių tarpusavio ginčai ir ginčai su likvidatoriais nagrinėjami teismine tvarka.
 
@@ -508,6 +522,14 @@ Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo papildymo ir pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
+
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
 
 Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
 
