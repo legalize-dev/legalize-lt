@@ -4,7 +4,7 @@ identifier: "TAR.7B82276223C5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-12-11"
-last_updated: "2000-12-12"
+last_updated: "2001-06-26"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7B82276223C5"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -205,23 +205,23 @@ Iki atskiro
 
 įstatymo, reglamentuojančio Mokesčių policijos departamento prie Vidaus reikalų
 
-ministerijos reorganizavimą, teisinį statusą bei veiklos pagrindus, priėmimo,
+ministerijos reorganizavimą, teisinį statusą bei veiklos pagrindus,
 
-tačiau ne ilgiau kaip iki 2001 m. liepos 1 d., Mokesčių policijos departamentui
+įsigaliojimo, tačiau ne ilgiau kaip iki 2002 m. sausio 1 d., Mokesčių policijos
 
-prie Vidaus reikalų ministerijos vadovauja vyriausiasis mokesčių policijos
+departamentui prie Vidaus reikalų ministerijos vadovauja šio departamento
 
-komisaras. Mokesčių policijos departamento prie Vidaus reikalų ministerijos bei
+vyriausiasis komisaras. Mokesčių policijos departamento prie Vidaus
 
-šio departamento padalinių pareigūnai iki atskiro įstatymo, reglamentuojančio
+reikalų ministerijos bei šio departamento padalinių pareigūnai iki atskiro
 
-Mokesčių policijos departamento prie Vidaus reikalų ministerijos
+įstatymo, reglamentuojančio Mokesčių policijos departamento prie Vidaus reikalų
 
-reorganizavimą, teisinį statusą bei veiklos pagrindus, priėmimo, tačiau ne
+ministerijos reorganizavimą, teisinį statusą bei veiklos pagrindus, įsigaliojimo,
 
-ilgiau kaip iki 2001 m. liepos 1 d., turi visas policijos pareigūnų pareigas
+tačiau ne ilgiau kaip iki 2002 m. sausio 1 d., turi visas policijos pareigūnų
 
-bei teises, nustatytas Lietuvos Respublikos policijos veiklos įstatyme.
+pareigas ir teises, nustatytas Lietuvos Respublikos policijos veiklos įstatyme.
 
 Įstatymas
 
@@ -230,6 +230,10 @@ papildytas straipsniu:
 Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
 
 109-3478 (2000 12 22)
+
+Nr. IX-393, 2001-06-26, Žin., 2001, Nr.
+
+60-2139 (2001-07-11)
 
 9 straipsnis. Neteko galios.
 
@@ -309,9 +313,7 @@ Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
 
 109-3478 (2000 12 22)
 
-13 straipsnis. Neteko
-
-galios.
+13 straipsnis. Neteko galios.
 
 Straipsnio
 
@@ -477,9 +479,9 @@ sistemos padaliniams ir suinteresuotoms tarnyboms operatyvinę ir kitą
 
 informaciją apie nusikalstamus susivienijimus (organizuotas grupes), jų
 
-organizatorius bei narius, taip pat rengiančius ar padariusius nusikaltimus valstybės
+organizatorius bei narius, taip pat rengiančius ar padariusius nusikaltimus
 
-tarnybai ar susijusius su nusikalstamo susivienijimo veikla valstybės
+valstybės tarnybai ar susijusius su nusikalstamo susivienijimo veikla valstybės
 
 pareigūnus bei organizuoja priemones šiai informacijai realizuoti, tiria
 
@@ -501,9 +503,7 @@ VIII-356,
 
 97.07.01, Žin., 1997, Nr.69-1734 (97.07.23)
 
-17 straipsnis. Neteko
-
-galios.
+17 straipsnis. Neteko galios.
 
 Straipsnio
 
@@ -525,7 +525,9 @@ Nr. VIII-2048, 00.10.17, Žin., 2000,
 
 Nr.90-2777 (00.10.27)
 
-19 straipsnis. Neteko galios.
+19 straipsnis. Neteko
+
+galios.
 
 Straipsnio
 
@@ -659,11 +661,11 @@ policijos pareigūno pareigoms.
 
 policijoje savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų
 
-mokantys valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal
+mokantys valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą,
 
-išsilavinimą, asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos
+asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka
 
-būklę tinka policijos pareigūno pareigoms.
+policijos pareigūno pareigoms.
 
 Pirmą kartą priimtiems į
 
@@ -673,9 +675,9 @@ išsilavinimo piliečiams suteikiamas pirmasis policininko stažuotojo pareigini
 
 laipsnis ir nustatomas l metų stažuotės terminas.
 
-Policijos pareigūnai negali būti
+Policijos pareigūnai negali
 
-politinių partijų ar kitų politinių organizacijų nariais.
+būti politinių partijų ar kitų politinių organizacijų nariais.
 
 Tarnyba policijoje tvarkoma
 
@@ -965,9 +967,9 @@ perkvalifikavimo kursai.
 
 IV SKIRSNIS.
 
-POLICIJOS PAREIGŪNŲ
+POLICIJOS
 
-TEISĖS, PAREIGOS, ATSAKOMYBĖ
+PAREIGŪNŲ TEISĖS, PAREIGOS, ATSAKOMYBĖ
 
 33 straipsnis. Neteko
 
@@ -1251,9 +1253,9 @@ atostogų trukmė policijos pareigūnams, ištarnavusiems policijoje (vidaus
 
 reikalų sistemoje):
 
-iki 10 metų - 30
+iki 10 metų - 30 kalendorinių
 
-kalendorinių dienų;
+dienų;
 
 nuo 10 iki 15 metų - 35
 
@@ -1469,7 +1471,9 @@ Nr. VIII-2048, 00.10.17, Žin., 2000,
 
 Nr.90-2777 (00.10.27)
 
-50 straipsnis. Neteko galios.
+50 straipsnis. Neteko
+
+galios.
 
 Straipsnio
 
@@ -1673,17 +1677,27 @@ PAPILDYMO 8(1) STRAIPSNIU ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-2048, 00.10.17, Žin., 2000,
+Nr. VIII-2048,
 
-Nr.90-2777 (00.10.27)
+00.10.17, Žin., 2000, Nr.90-2777 (00.10.27)
 
 POLICIJOS VEIKLOS ĮSTATYMAS
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-393, 2001-06-26, Žin., 2001, Nr.
+
+60-2139 (2001-07-11)
+
+POLICIJOS ĮSTATYMO 8(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000 12 22)
+Redagavo: Aušra Petraitienė (2001-07-12)
 
-autrap@lrs.lt
+aupetr@lrs.lt
 
 36 straipsnis. Neteko
 
