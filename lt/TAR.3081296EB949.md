@@ -4,7 +4,7 @@ identifier: "TAR.3081296EB949"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-10"
-last_updated: "2001-01-01"
+last_updated: "2002-05-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2000-10-10"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
+
+Suvestinė redakcija nuo 2002-05-04 iki 2003-06-30
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
 
 LIETUVOS RESPUBLIKOS
 
@@ -61,7 +65,11 @@ PIRMASIS SKIRSNIS
 
 BENDROSIOS NUOSTATOS
 
-2. Be išlygų muitinės pareigūnų statusą reglamentuoja Valstybės tarnybos įstatymo 2 ir 3 straipsniai, 4 straipsnio 1 dalis, 5 straipsnis, 6 straipsnio 1 ir 2 dalys (išskyrus 2 dalies 2 punktą), 7 ir 8 straipsniai, 22 straipsnis, 24 straipsnio 1 dalis, 25 straipsnio 1 dalis, 31, 32, 33, 34, 35, 37, 45, 48, 55, 56, 62, 63, 64, 68, 69, 70 straipsniai ir 76 straipsnio 1, 2 ir 3 dalys. Kitos Valstybės tarnybos įstatymo nuostatos muitinės pareigūnams taikomos tiek, kiek jų statuso nereglamentuoja šis Statutas. Statutas gali nustatyti griežtesnius reikalavimus, negu nustatyta Valstybės tarnybos įstatymo 9 straipsnio 1 ir 6 dalyse, 22, 28, 56, 68 ir 70 straipsniuose.
+2. Be išlygų muitinės pareigūnų statusą reglamentuoja Valstybės tarnybos įstatymo 2 ir 3 straipsniai, 4 straipsnio 2 dalis, 5 straipsnis, 6 straipsnio 1 ir 2 dalys (išskyrus 2 dalies 2 punktą), 7 ir 8 straipsniai, 21 straipsnio 10 punktas, 22 straipsnis, 24 straipsnio 1 dalis, 25 straipsnio 1 dalis, 28, 31, 32, 33 (išskyrus 3 dalį), 34, 35, 37, 45, 48, 55, 56, 62, 63, 64, 68, 69, 70 straipsniai. Kitos Valstybės tarnybos įstatymo nuostatos muitinės pareigūnams taikomos tiek, kiek jų statuso nereglamentuoja šis Statutas. Statutas gali nustatyti griežtesnius reikalavimus, negu nustatyta Valstybės tarnybos įstatymo 9 straipsnio 1 ir 6 dalyse, 22, 28, 56, 68 ir 70 straipsniuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-848, 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04), i. k. 1021010ISTA00IX-848
 
 4 straipsnis. Bendrieji reikalavimai asmenims, pareiškusiems norą tarnauti muitinėje pareigūnais
 
@@ -131,9 +139,13 @@ Asmenys, pareiškę norą tarnauti muitinėje pareigūnais, privalo pateikti asm
 
 13 straipsnis. Bandomasis laikotarpis
 
-1. Pareigūnams (išskyrus Muitinės departamento direktorių ir muitinės įstaigų vadovus) po stažuotės nustatomas 12 mėnesių bandomasis laikotarpis. Muitinės departamento direktoriaus pavaduotojams ir muitinės įstaigų vadovų pavaduotojams bandomasis laikotarpis nustatomas nuo skyrimo į pareigas dienos. Atostogų ir laikinojo nedarbingumo laikas į bandomąjį laikotarpį neįskaitomas.
+1. Pareigūnams (išskyrus Muitinės departamento direktorių ir muitinės įstaigų vadovus) po stažuotės nustatomas bandomasis laikotarpis. Jis paskyrusio pareigūną į pareigas vadovo nuožiūra turi būti ne ilgesnis kaip 6 mėnesiai. Muitinės departamento direktoriaus pavaduotojams ir muitinės įstaigų vadovų pavaduotojams 6 mėnesių bandomasis laikotarpis nustatomas nuo skyrimo į pareigas dienos. Atostogų ir laikinojo nedarbingumo laikas į bandomąjį laikotarpį neįskaitomas.
 
-2. Jeigu paskyręs pareigūną į pareigas vadovas Muitinės departamento direktoriaus nustatyta tvarka pripažįsta, kad bandomojo laikotarpio rezultatai yra nepatenkinami, pareigūnas atleidžiamas iš tarnybos pagal Statuto 48 straipsnio 1 dalies 7 punktą.
+2. Jeigu paskyręs pareigūną į pareigas vadovas Muitinės departamento direktoriaus nustatyta tvarka pripažįsta, kad bandomojo laikotarpio rezultatai yra nepatenkinami, jis iki bandomojo laikotarpio pabaigos gali atleisti pareigūną iš tarnybos pagal Statuto 48 straipsnio 1 dalies 7 punktą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-848, 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04), i. k. 1021010ISTA00IX-848
 
 14 straipsnis. Uniforma, skiriamieji ženklai ir specialus identifikavimo ženklas
 
@@ -437,7 +449,19 @@ TARNYBINĖS NUOBAUDOS
 
 1. Nusižengimai, už kuriuos skiriamos tarnybinės nuobaudos, skirstomi į sunkius, vidutinius ir lengvus.
 
-2. Sunkaus, vidutinio ir lengvo nusižengimo sąvokas nustato Valstybės tarnybos įstatymas. Pareigūno asmeninio antspaudo, apsauginio lipduko praradimas yra sunkus nusižengimas. Pareigūno, turinčio teisę naudoti šaunamąjį ginklą, tarnybinio šaunamojo ginklo praradimas yra sunkus nusižengimas.
+2. Sunkaus, vidutinio ir lengvo nusižengimo sąvokas nustato Valstybės tarnybos įstatymas. Prie sunkių nusižengimų taip pat priskiriami:
+
+1) pareigūno asmeninio antspaudo, apsauginio lipduko praradimas dėl savo kaltės;
+
+2) pareigūno, turinčio teisę naudoti šaunamąjį ginklą, tarnybinio šaunamojo ginklo praradimas dėl savo kaltės;
+
+3) pareigūno atsisakymas vykdyti aukštesnes pareigas einančio vadovo arba šio vadovo įgalioto pareigūno reikalavimą pasitikrinti dėl neblaivumo ar apsvaigimo nuo narkotinių, toksinių ar psichotropinių medžiagų būsenos;
+
+4) Lietuvos Respublikos valstybės sienos perėjimas tarnybos metu ne tarnybos reikalais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-848, 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04), i. k. 1021010ISTA00IX-848
 
 3. Už lengvą nusižengimą taikoma pastaba, už vidutinį nusižengimą – papeikimas, griežtas papeikimas arba pareiginės algos sumažinimas, už sunkų nusižengimą – pareiginės algos sumažinimas, perkėlimas į žemesnes pareigas arba atleidimas iš tarnybos.
 
@@ -541,7 +565,11 @@ ATLEIDIMAS IŠ TARNYBOS
 
 19) kai jam sukanka 62 metai ir 6 mėnesiai, o pratęsus tarnybos laiką, ne ilgiau, negu sukaks 65 metai;
 
-20) kai jis padaro vidutinį tarnybinį nusižengimą, jei prieš tai jam nors vieną kartą per paskutiniuosius 12 mėnesių buvo taikytos tarnybinės nuobaudos;
+20) kai jis padaro vidutinį tarnybinį nusižengimą turėdamas galiojančią tarnybinę nuobaudą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-848, 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04), i. k. 1021010ISTA00IX-848
 
 21) kai jis padaro sunkų tarnybinį nusižengimą;
 
@@ -571,7 +599,11 @@ Mirę, įstatymų nustatyta tvarka paskelbti mirusiais, pripažinti nežinia kur
 
 52 straipsnis. Kompensacija
 
-Pagal Statuto 48 straipsnio 1 dalies 4, 5, 10 ar 15 punktus atleidžiamam iš tarnybos pareigūnui, atsižvelgiant į valstybės tarnybos stažą, išmokama Valstybės tarnybos įstatymo 76 straipsnio 2 dalyje numatyto dydžio kompensacija.
+Pagal Statuto 48 straipsnio 1 dalies 4, 5, 10 ar 15 punktus atleidžiamam iš tarnybos pareigūnui, atsižvelgiant į valstybės tarnybos stažą, išmokama Valstybės tarnybos įstatymo 55 straipsnio 2 dalyje numatyto dydžio kompensacija.
+
+Straipsnio pakeitimai:
+
+Nr. IX-848, 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04), i. k. 1021010ISTA00IX-848
 
 53 straipsnis. Atsiskaitymas su atleidžiamu iš tarnybos pareigūnu
 
@@ -729,41 +761,13 @@ TRYLIKTASIS SKIRSNIS
 
 ______________
 
-281 straipsnis. Muitinės pareigūno perkėlimas į kitą muitinės įstaigą
+Pakeitimai:
 
-1. Statuto 28 straipsnio 1 dalyje nurodytais atvejais muitinės pareigūnas gali būti jo prašymu perkeltas iš vienos muitinės įstaigos į kitą muitinės įstaigą ar Muitinės departamentą arba iš Muitinės departamento į muitinės įstaigą Muitinės departamento generalinio direktoriaus įsakymu. Perkelti muitinės pareigūną iš vienos muitinės įstaigos į kitą muitinės įstaigą galima, jeigu yra abiejų muitinės įstaigų vadovų rašytinis sutikimas dėl muitinės pareigūno perkėlimo. Perkelti muitinės pareigūną iš Muitinės departamento į muitinės įstaigą arba iš muitinės įstaigos į Muitinės departamentą galima, jeigu yra tos muitinės įstaigos vadovo rašytinis sutikimas.
+1.
 
-2. Perkėlus muitinės pareigūną iš vienos muitinės įstaigos į kitą muitinės įstaigą ar Muitinės departamentą arba iš Muitinės departamento į muitinės įstaigą Muitinės departamento generalinio direktoriaus įsakymu, laikoma, kad muitinės pareigūną į pareigas priėmęs asmuo yra muitinės įstaigos, į kurią jis perkeltas, vadovas arba Muitinės departamento generalinis direktorius, kai yra perkeltas į Muitinės departamentą.
+Lietuvos Respublikos Seimas, Įstatymas
 
-Papildyta straipsniu:
+Nr. IX-848, 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04), i. k. 1021010ISTA00IX-848
 
-Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
-
-531 straipsnis. Kompensacijos muitinės mobiliųjų grupių pareigūnams, muitinės postų pareigūnams ir muitinės pareigūnams, atliekantiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą
-
-1. Muitinės mobiliųjų grupių pareigūno, muitinės postų pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, žuvusio vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba), sutuoktiniui, nepilnamečiams vaikams (įvaikiams), kol jiems sukaks 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose, kol jiems sukaks 24 metai, žuvusiojo vaikams, gimusiems po jo mirties, tėvui, motinai bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per vienerius metus nuo pareigūno mirties lygiomis dalimis išmokama vienkartinė 120 jo vidutinių mėnesinių darbo užmokesčių dydžio kompensacija. Žuvusysis laidojamas valstybės lėšomis. Valstybės apmokamų laidojimo išlaidų aprašą nustato Vyriausybė arba jos įgaliota institucija.
-
-2. Muitinės mobiliųjų grupių pareigūnui, muitinės postų pareigūnui ir muitinės pareigūnui, atliekančiam operatyvinę veiklą ir (arba) ikiteisminį tyrimą, sužeistam vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba), išmokama kompensacija, atsižvelgiant į sužeidimo (suluošinimo) laipsnį:
-
-1) dėl sveikatos sutrikdymo tapusiam neįgaliuoju ir kuriam Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas 0–25 procentų darbingumo lygis arba iki 2005 m. liepos 1 d. buvo nustatyta I invalidumo grupė – 60 jo vidutinių mėnesinių darbo užmokesčių dydžio;
-
-2) dėl sveikatos sutrikdymo tapusiam neįgaliuoju ir kuriam Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas 30–55 procentų darbingumo lygis arba iki 2005 m. liepos 1 d. buvo nustatyta II invalidumo grupė – 36 jo vidutinių mėnesinių darbo užmokesčių dydžio;
-
-3) dėl sveikatos sutrikdymo Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas 60–100 procentų darbingumo lygis arba iki 2005 m. liepos 1 d. buvo nustatyta III invalidumo grupė – 12 jo vidutinių mėnesinių darbo užmokesčių dydžio.
-
-3. Muitinės mobiliųjų grupių pareigūno, muitinės postų pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, sveikatos sužalojimo sunkumo laipsnį, taip pat dėl sužeidimo likusius sveikatos pakitimus ar sumažėjusį jo tinkamumą tarnybai teisės aktų nustatyta tvarka nustato įgaliota Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigos medicinos komisija. Šio straipsnio 1 ir 2 dalyse nustatytos kompensacijos mokamos iš Muitinės departamentui patvirtintų valstybės biudžeto asignavimų.
-
-4. Šio straipsnio 2 dalyje nustatyta kompensacija nemokama, jeigu pareigūnas sužeidimo vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba) metu buvo apsvaigęs nuo narkotinių, toksinių, psichotropinių medžiagų arba alkoholio arba dėl sužeidimo metu atliktų veiksmų buvo pradėtas ikiteisminis tyrimas ar administracinio teisės pažeidimo bylos teisena ir įsiteisėjo apkaltinamasis nuosprendis ar paskirta administracinė nuobauda arba pareigūnas save sužalojo tyčia.
-
-Papildyta straipsniu:
-
-Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
-
-551 straipsnis. Išbraukimas iš muitinės pareigūnų sąrašų
-
-Mirę, įstatymų nustatyta tvarka paskelbti mirusiais, pripažinti nežinia kur esančiais muitinės pareigūnai išbraukiami iš muitinės pareigūnų sąrašų Muitinės departamento generalinio direktoriaus arba muitinės įstaigos vadovo įsakymu.
-
-Papildyta straipsniu:
-
-Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 1, 13, 40, 48, 50 ir 52 straipsnių pakeitimo įstatymas
 
