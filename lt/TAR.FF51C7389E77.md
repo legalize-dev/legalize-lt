@@ -4,7 +4,7 @@ identifier: "TAR.FF51C7389E77"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2000-10-01"
+last_updated: "2000-11-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF51C7389E77"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2000-08-29"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos visuomenės informavimo įstatymo pakeitimo įstatymas
+
+Suvestinė redakcija nuo 2000-11-29
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 75-2272, i. k. 1001010ISTAIII-1905
 
 LIETUVOS RESPUBLIKOS
 
