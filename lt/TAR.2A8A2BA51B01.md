@@ -4,7 +4,7 @@ identifier: "TAR.2A8A2BA51B01"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2003-05-01"
+last_updated: "2003-12-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2A8A2BA51B01"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2003-04-29"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymas
+
+Suvestinė redakcija nuo 2003-12-17 iki 2006-10-31
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 42-1928, i. k. 1031010ISTA0IX-1539
 
 LIETUVOS RESPUBLIKOS
 
@@ -56,6 +60,12 @@ Vilnius
 2. Iki Statuto patvirtinimo įstatymo įsigaliojimo pareigūnams galiojusios socialinės garantijos taikomos ir toliau tiek, kiek neprieštarauja Statuto patvirtinimo įstatymu patvirtintam Vidaus tarnybos statutui.
 
 3. Pareigūnams paliekamos iki Statuto patvirtinimo įstatymo įsigaliojimo suteiktos kvalifikacinės kategorijos.
+
+4. Statuto patvirtinimo įstatymu patvirtinto Vidaus tarnybos statuto 48 straipsnyje ir 52 straipsnio 4 dalyje nustatytos socialinės garantijos pradedamos taikyti nuo 2005 m. sausio 1 d., o 47 straipsnio 4 dalyje nustatyta socialinė garantija – nuo 2006 m. sausio 1 d.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-1859, 2003-11-27, Žin., 2003, Nr. 117-5322 (2003-12-17), i. k. 1031010ISTA0IX-1859
 
 3 straipsnis. Tarnybinių nuobaudų skyrimas
 
@@ -162,4 +172,14 @@ Vyriausybė per 3 mėnesius nuo Statuto patvirtinimo įstatymo įsigaliojimo pri
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1859, 2003-11-27, Žin., 2003, Nr. 117-5322 (2003-12-17), i. k. 1031010ISTA0IX-1859
+
+Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo 2 straipsnio papildymo įstatymas
 
