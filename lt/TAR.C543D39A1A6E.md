@@ -4,7 +4,7 @@ identifier: "TAR.C543D39A1A6E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-11"
-last_updated: "2000-12-21"
+last_updated: "2001-02-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C543D39A1A6E"
 department: "Lietuvos Respublikos Seimas"
@@ -57,9 +57,9 @@ Respublikos Konstitucijos 59 straipsnio ir Seimo statuto reikalavimus.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1421, 1999 11 16, Žin., 1999, Nr.
+Nr. VIII-1421,
 
-104-2974 (1999 12 08)
+1999 11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
 
 2
 
@@ -161,23 +161,29 @@ nariui - susirinkimams rengti bei rinkėjams priimti;
 
 2) vienmandatėje rinkimų apygardoje išrinktam Seimo
 
-nariui ir jo padėjėjui - nuolatiniam naudojimui Seimo nario pasirinktoje
+nariui ir jo padėjėjui – nuolatiniam naudojimui Seimo nario pasirinktoje
 
 rinkimų apygardos savivaldybėje (savivaldybėse) Seimo nario įgaliojimų laikui
 
-ne mažesnę kaip 12 m(2) sanitarijos ir higienos reikalavimus atitinkančią
+ne mažesnę kaip 12 m(2) sanitarijos ir higienos reikalavimus
 
-patalpą su baldais ir telefonu. Už naudojimąsi telefonu neviršijant 0,15 VDU
+atitinkančią patalpą su baldais ir telefonu. Už naudojimąsi telefonu
 
-per mėnesį pagal pateiktą sąskaitą moka Seimo kanceliarija. Limitą viršijančią
+neviršijant paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo
 
-sumą sumoka Seimo narys.
+užmokesčio (toliau – VMDU) 0,15 dydžio per mėnesį pagal pateiktą sąskaitą moka
+
+Seimo kanceliarija. Limitą viršijančią sumą sumoka Seimo narys.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1421, 1999 11 16, Žin., 1999, Nr.
+Nr. VIII-1421,
 
-104-2974 (1999 12 08)
+1999 11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
+
+Nr. IX-182, 2001 02 20, Žin., 2001, Nr.
+
+21-690 (2001 03 09)
 
 6
 
@@ -219,13 +225,13 @@ naudojimo tvarką nustato Seimo kancleris.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1421, 1999 11 16, Žin., 1999, Nr.
+Nr. VIII-1421, 1999
 
-104-2974 (1999 12 08)
+11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
 
-Nr. VIII-1976, 2000 10 10, Žin., 2000, Nr.
+Nr. VIII-1976,
 
-92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
 
 TREČIASIS SKIRSNIS
 
@@ -257,15 +263,15 @@ Nedalyvavimo
 
 Seimo posėdyje iš anksto numatytų balsavimų metu, taip pat nedalyvavimo
 
-komiteto, komisijos ar pakomitečio posėdyje svarbiomis priežastimis laikoma: Seimo
+komiteto, komisijos ar pakomitečio posėdyje svarbiomis priežastimis laikoma:
 
-nario laikinasis nedarbingumas, išvyka Seimo valdybai komandiravus ar pritarus,
+Seimo nario laikinasis nedarbingumas, išvyka Seimo valdybai komandiravus ar
 
-nelaimingi atsitikimai ar kitos aplinkybės, apie kurių pateisinamumą sprendžia
+pritarus, nelaimingi atsitikimai ar kitos aplinkybės, apie kurių pateisinamumą
 
-Seimo Etikos ir procedūrų komisija (toliau - Etikos ir procedūrų komisija),
+sprendžia Seimo Etikos ir procedūrų komisija (toliau - Etikos ir procedūrų
 
-atitinkamų komitetų, komisijų bei pakomitečių pirmininkai.
+komisija), atitinkamų komitetų, komisijų bei pakomitečių pirmininkai.
 
 10
 
@@ -379,17 +385,17 @@ dydį nustato Lietuvos Respublikos įstatymai.
 
 nedalyvavusiam daugiau kaip ketvirtadalyje Seimo posėdžių iš anksto numatytų
 
-balsavimų metu, kai buvo priimami teisės aktai, arba daugiau kaip ketvirtadalyje
+balsavimų metu, kai buvo priimami teisės aktai, arba daugiau kaip
 
-Seimo komiteto, komisijos ar pakomitečio, kurių darbe turi dalyvauti, posėdžių,
+ketvirtadalyje Seimo komiteto, komisijos ar pakomitečio, kurių darbe turi
 
-to mėnesio atlyginimas sumažinamas vienu trečdaliu. Remiantis Seimo Etikos ir
+dalyvauti, posėdžių, to mėnesio atlyginimas sumažinamas vienu trečdaliu.
 
-procedūrų komisijos išvadomis, atlyginimas sumažinamas Seimo valdybos
+Remiantis Seimo Etikos ir procedūrų komisijos išvadomis, atlyginimas
 
-sprendimu. Suma, kuria sumažinamas Seimo nario atlyginimas, išskaitoma iš kito,
+sumažinamas Seimo valdybos sprendimu. Suma, kuria sumažinamas Seimo nario
 
-artimiausio mėnesio atlyginimo.
+atlyginimas, išskaitoma iš kito, artimiausio mėnesio atlyginimo.
 
 3. Jeigu Seimo nariui įstatymų nustatyta tvarka
 
@@ -421,13 +427,13 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-685,
+Nr. VIII-685, 1998 03 26, Žin., 1998,
 
-1998 03 26, Žin., 1998, Nr. 34-900 (1998 04 10)
+Nr. 34-900 (1998 04 10)
 
-Nr. VIII-1976, 2000 10 10, Žin., 2000, Nr.
+Nr. VIII-1976,
 
-92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
 
 14
 
@@ -437,9 +443,29 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1976, 2000 10 10, Žin., 2000, Nr.
+Nr. VIII-1976,
 
-92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+
+15
+
+straipsnis. Seimo Pirmininko fondas
+
+Reprezentacijos
+
+šalyje ir užsienyje bei kitoms išlaidoms finansuoti sudaromas Seimo Pirmininko
+
+fondas, kuriam kiekvieną mėnesį skiriama 12 VMDU dydžio lėšų suma. Pusė Seimo
+
+Pirmininko fondo lėšų naudojama neatsiskaitytinai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-182, 2001 02 20, Žin., 2001, Nr.
+
+21-690 (2001 03 09)
 
 13 straipsnis. Atlyginimo dydis ir
 
@@ -555,15 +581,15 @@ Pirmininko fondo lėšų naudojama neatsiskaitytinai.
 
 16 straipsnis. Lėšos kitoms išlaidoms
 
-1. Kanceliarijos, pašto, telefono, telegrafo,
+1. Kanceliarijos, pašto,
 
-transporto ir kitoms su parlamentine veikla susijusioms išlaidoms Seimo nariui
+telefono, telegrafo, transporto ir kitoms su parlamentine veikla susijusioms
 
-kas mėnesį skiriama 1 VDU dydžio papildomų lėšų.
+išlaidoms Seimo nariui kas mėnesį skiriama 1 VMDU dydžio papildomų lėšų.
 
 2. Seimo nariui, kuris atsisako teisės naudotis
 
-tarnybiniu automobiliu be vairuotojo, kas mėnesį skiriama 0,8 VDU dydžio
+tarnybiniu automobiliu be vairuotojo, kas mėnesį skiriama 0,8 VMDU dydžio
 
 papildomų lėšų transporto išlaidoms kompensuoti.
 
@@ -581,31 +607,35 @@ valdybos, suderinus su Seimo kancleriu, patvirtintų limitų. Seimo narys už
 
 telefoninius pokalbius, viršijančius nustatytą limitą, sumoka iš savo lėšų.
 
-5.
+5. Frakcijos veiklai
 
-Frakcijos veiklai metams skiriama 1 VDU dydžio suma bei papildoma suma,
+metams skiriama 1 VMDU dydžio suma bei papildoma suma, atsižvelgiant į
 
-atsižvelgiant į frakcijos dydį ir skaičiuojant po 0,2 VDU kiekvienam frakcijos
+frakcijos dydį ir skaičiuojant po 0,2 VMDU kiekvienam frakcijos nariui. Jeigu
 
-nariui. Jeigu frakcijos dydis kinta, jai skiriamos lėšos tikslinamos kiekvieną
+frakcijos dydis kinta, jai skiriamos lėšos tikslinamos kiekvieną mėnesį. Šios
 
-mėnesį. Šios lėšos naudojamos įstatymų rengimo ir ekspertizės išlaidoms,
+lėšos naudojamos įstatymų rengimo ir ekspertizės išlaidoms, reprezentacijai,
 
-reprezentacijai, pašto, telefono ir kitoms frakcijos darbo reikmėms apmokėti.
+pašto, telefono ir kitoms frakcijos darbo reikmėms apmokėti.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1421, 1999 11 16, Žin., 1999, Nr.
+Nr. VIII-1421,
 
-104-2974 (1999 12 08)
+1999 11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
 
-Nr. VIII-1483, 1999 12 16, Žin., 1999, Nr.
+Nr. VIII-1483,
 
-109-3175 (1999 12 24)
+1999 12 16, Žin., 1999, Nr. 109-3175 (1999 12 24)
 
-Nr. VIII-1976, 2000 10 10, Žin., 2000, Nr.
+Nr. VIII-1976,
 
-92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+
+Nr. IX-182, 2001 02 20, Žin., 2001, Nr.
+
+21-690 (2001 03 09)
 
 17 straipsnis. Seimo narių teisė grįžti į ankstesnį
 
@@ -627,9 +657,9 @@ Nutrūkus Seimo nario įgaliojimams Lietuvos Respublikos Konstitucijos 63
 
 straipsnio 1, 2, 3 ir 4 punktuose numatytais atvejais, išmokama išeitinė
 
-pašalpa. Ši pašalpa išmokama tiek vidutinių pareiginių atlyginimų dydžio, kiek
+pašalpa. Ši pašalpa išmokama tiek vidutinių pareiginių atlyginimų dydžio, kiek metų
 
-metų nepertraukiamai truko jo kadencija Seime ar Seime ir Lietuvos Respublikos
+nepertraukiamai truko jo kadencija Seime ar Seime ir Lietuvos Respublikos
 
 Aukščiausiojoje Taryboje, bet ne mažesnė nei 2 vidutinių pareiginių atlyginimų
 
@@ -637,15 +667,13 @@ dydžio.
 
 Straipsnio pakeitimai:
 
-Nr. IX-121, 2000 12 21, Žin., 2000, Nr.
+Nr. IX-121, 2000
 
-111-3580 (2000 12 29), įsigalioja nuo 2001 01 01
+12 21, Žin., 2000, Nr. 111-3580 (2000 12 29), įsigalioja nuo 2001 01 01
 
 PENKTASIS SKIRSNIS
 
-SEIMO NARIŲ PADĖJĖJAI-SEKRETORIAI IR FRAKCIJŲ
-
-DARBUOTOJAI
+SEIMO NARIŲ PADĖJĖJAI-SEKRETORIAI IR FRAKCIJŲ DARBUOTOJAI
 
 18 straipsnis.
 
@@ -667,9 +695,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1976, 2000 10 10, Žin., 2000, Nr.
+Nr. VIII-1976, 2000
 
-92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
 
 19
 
@@ -693,9 +721,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1976, 2000 10 10, Žin., 2000, Nr.
+Nr. VIII-1976,
 
-92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
 
 ŠEŠTASIS SKIRSNIS
 
@@ -757,13 +785,13 @@ viešbutyje.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1421, 1999 11 16, Žin., 1999, Nr.
+Nr. VIII-1421,
 
-104-2974 (1999 12 08)
+1999 11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
 
-Nr. VIII-1976, 2000 10 10, Žin., 2000, Nr.
+Nr. VIII-1976,
 
-92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
 
 SEPTINTASIS SKIRSNIS
 
@@ -775,9 +803,9 @@ straipsnis. Seimo narių darbo sąlygų įstatymo įgyvendinimas
 
 1.
 
-Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo įstatymu,
+Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo
 
-sudaro Seimo kanceliarija, savivaldybės.
+įstatymu, sudaro Seimo kanceliarija, savivaldybės.
 
 2.
 
@@ -821,13 +849,13 @@ bei Etikos ir procedūrų komisija.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1421, 1999 11 16, Žin., 1999, Nr.
+Nr. VIII-1421,
 
-104-2974 (1999 12 08)
+1999 11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
 
-Nr. VIII-1976, 2000 10 10, Žin., 2000, Nr.
+Nr. VIII-1976,
 
-92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
@@ -835,7 +863,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
 RESPUBLIKOS
 
-PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
 
 __________
 
@@ -919,11 +947,21 @@ SEIMO NARIŲ DARBO SĄLYGŲ
 
 m. sausio 1 d.
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-182,
+
+2001 02 20, Žin., 2001, Nr. 21-690 (2001 03 09)
+
+SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 5, 15 IR 16 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė
-
-Trapinskienė (2001 01 08)
+Redagavo: Aušrinė Trapinskienė (2001 03 09)
 
 autrap@lrs.lt
 
