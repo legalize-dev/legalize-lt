@@ -4,7 +4,7 @@ identifier: "TAR.A7A6A8CC58D7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2001-07-01"
+last_updated: "2002-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
+
+Suvestinė redakcija nuo 2002-09-01 iki 2003-04-10
+
+Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
 
 LIETUVOS RESPUBLIKOS
 
@@ -40,7 +44,11 @@ Lošimų mokestį moka akcinės bendrovės ir uždarosios akcinės bendrovės (t
 
 3 straipsnis. Mokestinis laikotarpis
 
-Lošimų mokesčio mokestinis laikotarpis yra kalendorinių metų mėnuo.
+Lošimų mokesčio mokestinis laikotarpis yra kalendorinių metų ketvirtis.
+
+Straipsnio pakeitimai:
+
+Nr. IX-996, 2002-06-27, Žin., 2002, Nr. 72-3011 (2002-07-17), i. k. 1021010ISTA00IX-996
 
 ANTRASIS SKIRSNIS
 
@@ -60,9 +68,27 @@ Lošimų mokesčio bazė yra:
 
 2. Organizuojant lošimus automatais, stalo lošimus, nustatomas fiksuotas lošimų mokesčio dydis už kiekvieną lošimo įrenginį:
 
-1) lošimo automatą – 600 litų per mokestinį laikotarpį;
+1) už A kategorijos lošimo automatą
 
-2) ruletės, kortų arba kauliukų stalą – 4000 litų per mokestinį laikotarpį.
+–
+
+1800 litų per mokestinį laikotarpį;
+
+2) už B kategorijos lošimo automatą
+
+–
+
+600 litų per mokestinį laikotarpį;
+
+3) už ruletes, kortų arba kauliukų stalą
+
+–
+
+12 000 litų per mokestinį laikotarpį.“
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-996, 2002-06-27, Žin., 2002, Nr. 72-3011 (2002-07-17), i. k. 1021010ISTA00IX-996
 
 TREČIASIS SKIRSNIS
 
@@ -110,33 +136,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-51 straipsnis. Vienkartinis mokestis už licencijos organizuoti azartinius lošimus išdavimą
+Pakeitimai:
 
-Juridiniai asmenys, Lošimų įstatyme nustatyta tvarka siekiantys įgyti licenciją organizuoti azartinius lošimus, apmokestinami vienkartiniu mokesčiu:
+1.
 
-1) už licencijos organizuoti stalo lošimus ir lošimus A kategorijos automatais išdavimą – 300 000 eurų;
+Lietuvos Respublikos Seimas, Įstatymas
 
-2) už licencijos organizuoti lošimus B kategorijos automatais išdavimą – 300 000 eurų;
+Nr. IX-996, 2002-06-27, Žin., 2002, Nr. 72-3011 (2002-07-17), i. k. 1021010ISTA00IX-996
 
-3) už licencijos organizuoti bingą išdavimą – 100 000 eurų;
-
-4) už licencijos organizuoti totalizatorių, įskaitant ir žirgų totalizatorių, išdavimą – 100 000 eurų;
-
-5) už licencijos organizuoti lažybas išdavimą – 100 000 eurų;
-
-6) už licencijos organizuoti nuotolinius lošimus išdavimą – 500 000 eurų;
-
-7) už visų šios dalies 1–6 punktuose nurodytų licencijų išdavimą – 1 000 000 eurų.
-
-Papildyta straipsniu:
-
-Nr. XIV-581, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21920
-
-TREČIASIS SKIRSNIS
-
-LOTERIJŲ IR LOŠIMŲ MOKESČIO MOKĖJIMO TVARKA
-
-Pakeistas skirsnio pavadinimas:
-
-Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
+Lietuvos Respublikos azartinių lošimų mokesčio įstatymo 3 ir 5 straipsnių pakeitimo įstatymas
 
