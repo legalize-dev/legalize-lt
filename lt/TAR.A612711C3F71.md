@@ -4,7 +4,7 @@ identifier: "TAR.A612711C3F71"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-12"
-last_updated: "2000-01-26"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A612711C3F71"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos tarnybinio paso įstatymas
+
+Suvestinė redakcija nuo 2003-01-01 iki 2003-04-23
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 7-178, i. k. 1001010ISTAIII-1527
 
 LIETUVOS RESPUBLIKOS TARNYBINIO PASO Į S T A T Y M A S
 
@@ -62,7 +66,11 @@ Lietuvos Respublikos tarnybinis pasas - tai Lietuvos Respublikos vidaus reikalų
 
 4 straipsnis. Tarnybinio paso įrašai
 
-1. Tarnybinio paso įrašai turi atitikti Lietuvos Respublikos piliečio paso nuostatų 7, 8, 9 ir 10 straipsnių reikalavimus.
+1. Tarnybinis pasas turi 32 puslapius. Duomenų rūšių pavadinimai spausdinami lietuvių, anglų ir prancūzų kalbomis. Duomenys tarnybiniame pase įrašomi lietuviškais rašmenimis. Tarnybiniame pase įrašomi piliečio vardas (-ai), pavardė, gimimo data, gimimo vieta pagal galiojantį administracinį teritorijos suskirstymą ir asmens kodas. Tarnybiniame pase turi būti piliečio parašas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1251, 2002-12-10, Žin., 2002, Nr. 123-5538 (2002-12-24), i. k. 1021010ISTA0IX-1251
 
 2. Paso savininko pareigos tarnybiniame pase rašomos lietuvių ir anglų kalbomis.
 
@@ -84,38 +92,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-8 straipsnis. Tarnybinio paso negaliojimas
-
-1. Tarnybinis pasas negalioja pasibaigus jo galiojimo laikui, paskelbus jį negaliojančiu ar asmeniui mirus.
-
-2. Tarnybinis pasas paskelbiamas negaliojančiu, jeigu jis:
-
-1) prarastas;
-
-2) pakeistas šio Įstatymo 6 straipsnio 4 dalyje nustatytais pagrindais;
-
-3) grąžintas arba negrąžintas šio Įstatymo 7 straipsnio 1 ir 2 dalyse nustatytais pagrindais;
-
-4) suklastotas.
-
-3. Tarnybinį pasą negaliojančiu paskelbia valstybės tarnybos tvarkymo įstaiga.
-
-9 straipsnis. Tarnybinio paso išdavimo, keitimo, grąžinimo, paskelbimo negaliojančiu ir sunaikinimo tvarka
-
-Tarnybinis pasas išduodamas, keičiamas, grąžinamas, paskelbiamas negaliojančiu ir sunaikinamas vadovaujantis šiuo Įstatymu bei vidaus reikalų ministro nustatyta tarnybinio paso išdavimo, keitimo, grąžinimo, paskelbimo negaliojančiu ir sunaikinimo tvarka.
-
-10 straipsnis. Tarnybinio paso paėmimas
-
-1. Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos, policija ar kita teisėsaugos institucija, nustačiusi, kad asmuo naudojasi kito asmens tarnybiniu pasu arba šio Įstatymo 8 straipsnio 2 dalyje nustatytais pagrindais paskelbtu negaliojančiu tarnybiniu pasu, privalo jį paimti ir perduoti valstybės tarnybos tvarkymo įstaigai.
-
-2. Iš suimto asmens, taip pat iš asmens, kuris nuteistas bausme, susijusia su laisvės atėmimu, arba kuriam paskirtas administracinis areštas, tarnybinį pasą, jeigu jis buvo išduotas, paima policija ar kita teisėsaugos institucija arba teismas ir perduoda valstybės tarnybos tvarkymo įstaigai.
-
-3. Paimti iš asmens tarnybinį pasą draudžiama, išskyrus šio ar kitų įstatymų nustatytus atvejus.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
 Pakeitimai:
 
 1.
@@ -125,12 +101,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1251, 2002-12-10, Žin., 2002, Nr. 123-5538 (2002-12-24), i. k. 1021010ISTA0IX-1251
 
 Lietuvos Respublikos tarnybinio paso įstatymo 4 straipsnio pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1407, 2003-04-01, Žin., 2003, Nr. 38-1655 (2003-04-24), i. k. 1031010ISTA0IX-1407
-
-Lietuvos Respublikos tarnybinio paso įstatymo pakeitimo įstatymas
 
