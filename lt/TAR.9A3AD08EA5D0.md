@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2003-06-17"
+last_updated: "2004-06-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -570,15 +570,25 @@ ugdymas teikiamas vaikui nuo 1 iki 5 (arba 6) metų.
 
 ugdymo programą vykdo lopšeliai, lopšeliai-darželiai, darželiai,
 
-mokyklos-darželiai ir kitos mokyklos, turintis licenciją laisvasis mokytojas ar
+mokyklos-darželiai ir kitos mokyklos, laisvasis mokytojas ar kitas švietimo
 
-kitas švietimo teikėjas.
+teikėjas.
 
 5. Ikimokyklinio
 
 amžiaus vaiką namuose auginančiai šeimai teikiama švietimo pagalba Vyriausybės
 
 arba jos įgaliotos institucijos nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 8 straipsnis.
 
@@ -590,29 +600,39 @@ Priešmokyklinio ugdymo paskirtis – padėti vaikui pasirengti sėkmingai mokyt
 
 pagal pradinio ugdymo programą.
 
-2. Priešmokyklinis
+2.
 
-ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais jam sueina 6
+Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais
 
-metai. Priešmokyklinis ugdymas anksčiau gali būti teikiamas tėvų prašymu ir
+metais jam sueina 6 metai. Priešmokyklinis ugdymas anksčiau gali būti teikiamas
 
-jeigu vaikas yra pakankamai tokiam ugdymui subrendęs, bet ne anksčiau, negu jam
+tėvų prašymu ir jeigu vaikas yra pakankamai tokiam ugdymui subrendęs, bet ne
 
-sueis 5 metai. Atsakingų už vaiko teisių apsaugą institucijų sprendimu atskiram
+anksčiau, negu jam sueis 5 metai. Atsakingų už vaiko teisių apsaugą institucijų
 
-vaikui jis gali būti privalomas.
+sprendimu atskiram vaikui jis gali būti privalomas.
 
 3. Vienerių metų
 
 priešmokyklinio ugdymo programą vykdo darželiai, pradinės ir kitos mokyklos,
 
-turintis licenciją laisvasis mokytojas ar kitas švietimo teikėjas.
+laisvasis mokytojas ar kitas švietimo teikėjas.
 
 4. Nelankančiam
 
 ugdymo įstaigos 5–6 metų vaikui švietimo pagalba teikiama Vyriausybės arba jos
 
 įgaliotos institucijos nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 9 straipsnis.
 
@@ -664,17 +684,29 @@ pasirinkti ir mokytis toliau.
 
 pradinį išsilavinimą.
 
-3. Šešerių metų
+3. Pagrindinio
 
-pagrindinio ugdymo programą arba jos dalį vykdo gimnazijos, vidurinės,
+ugdymo programos I dalis apima ketverių metų pagrindinio ugdymo turinio
 
-pagrindinės, jaunimo, profesinės ir kitos mokyklos. Pagrindinio ugdymo programa
+koncentrą, II dalis – dvejų metų pagrindinio ugdymo turinio koncentrą.
 
-apima du pagrindinio ugdymo turinio koncentrus – ketverių ir dvejų metų.
+Pagrindinio ugdymo programą arba jos dalį vykdo gimnazijos, vidurinės,
+
+pagrindinės, jaunimo, profesinės ir kitos mokyklos.
 
 4. Pagrindinis
 
 išsilavinimas įgyjamas baigus pagrindinio ugdymo programą.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 11 straipsnis.
 
@@ -690,19 +722,19 @@ kompetencijos pradmenis ir (ar) kvalifikaciją.
 
 2. Valstybės
 
-garantuojamas visuotinis vidurinis ugdymas teikiamas mokiniui, įgijusiam
+garantuojamas visuotinis vidurinis ugdymas teikiamas mokiniui, įgijusiam pagrindinį
 
-pagrindinį išsilavinimą.
+išsilavinimą.
 
 3. Dvejų metų
 
 vidurinio ugdymo programą vykdo gimnazijos, vidurinės, profesinės ir kitos
 
-mokyklos. Vidurinio ugdymo programą sudaro įvairūs privalomi ir pasirenkami
+mokyklos. Vidurinio ugdymo programą sudaro privalomi ir pasirenkami bendrojo
 
-bendrojo ugdymo bei galimi profesinio mokymo moduliai. Vidurinio ugdymo
+lavinimo bei galimi profesinio mokymo moduliai. Vidurinio ugdymo programa,
 
-programa, pagal kurią suteikiama ir kvalifikacija, gali būti trimetė.
+pagal kurią suteikiama ir kvalifikacija, gali būti trimetė.
 
 4. Į vidurinio
 
@@ -719,6 +751,16 @@ mokyklose.
 išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius brandos
 
 egzaminus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 12 straipsnis.
 
@@ -876,19 +918,17 @@ gebėjimus, įgyti išsilavinimą ir kvalifikaciją, įveikti socialinę atskirt
 
 2. Specialusis
 
-ugdymas teikiamas pagal visas privalomojo ir visuotinio švietimo programas.
+ugdymas teikiamas pagal visas privalomojo ir visuotinio švietimo
 
-Prireikus šios programos keičiamos, pritaikomos, taip pat kuriamos
+programas. Prireikus šios programos keičiamos, pritaikomos, taip pat kuriamos
 
 specialiosios programos ir teikiama papildoma pagalba.
 
 3. Specialųjį
 
-ugdymą įgyvendina visos privalomąjį ir visuotinį švietimą teikiančios
+ugdymą įgyvendina visos privalomąjį ir visuotinį švietimą teikiančios mokyklos,
 
-mokyklos, turintys licenciją kiti švietimo teikėjai, atskirais atvejais –
-
-specialiosios mokyklos.
+kiti švietimo teikėjai, atskirais atvejais – specialiosios mokyklos.
 
 4. Specialiajam
 
@@ -910,9 +950,19 @@ Atskirais atvejais kvalifikacija įgyjama neturint išsilavinimo.
 
 ugdymą reglamentuoja Specialiojo ugdymo įstatymas.
 
-16 straipsnis.
+Straipsnio
 
-Neformalusis vaikų švietimas
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
+
+16 straipsnis. Neformalusis
+
+vaikų švietimas
 
 1. Neformaliojo
 
@@ -930,15 +980,15 @@ laisvieji mokytojai, kiti švietimo teikėjai.
 
 dailės, meno, sporto, kitos mokyklos, vykdančios iš anksto apibrėžtas
 
-formaliojo švietimo programas ar jų modulius, Vyriausybės nustatyta tvarka yra
+formaliojo švietimo programas ar jų modulius, yra priskiriamos tokiam pat
 
-priskiriamos tokiam pat mokyklų tipui, kaip ir vykdančios formaliojo švietimo
+mokyklų tipui kaip ir vykdančios formaliojo švietimo programas. Muzikos,
 
-programas. Muzikos, dailės, meno krypčių aukštojo išsilavinimo siekiantys
+dailės, meno krypčių aukštojo išsilavinimo siekiantys asmenys, jei tai
 
-asmenys, jei tai nustatyta aukštosios mokyklos priėmimo tvarkoje, kartu su viduriniu
+nustatyta aukštosios mokyklos priėmimo tvarkoje, kartu su viduriniu
 
-išsilavinimu turi būti baigę atitinkamą Švietimo ir mokslo ministro patvirtintą
+išsilavinimu turi būti baigę atitinkamą švietimo ir mokslo ministro patvirtintą
 
 programą.
 
@@ -959,6 +1009,16 @@ institucijos nustatyta tvarka arba aukštųjų mokyklų nusistatyta tvarka. Vaik
 muzikos, dailės, meno, sporto ar kitoje mokykloje išeita ilgalaikio meninio
 
 ugdymo programa gali būti pripažįstama kaip profesinio mokymo modulis.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 17 straipsnis.
 
@@ -986,9 +1046,9 @@ suaugusiųjų švietimą gali teikti visi švietimo teikėjai.
 
 švietimo būdu asmens įgyta kompetencija gali būti pripažįstama kaip formaliojo
 
-švietimo programos ar kvalifikacijos dalis Vyriausybės ar jos įgaliotos
+švietimo programos ar kvalifikacijos dalis Vyriausybės ar jos įgaliotos institucijos
 
-institucijos nustatyta arba aukštosios mokyklos nusistatyta tvarka.
+nustatyta arba aukštosios mokyklos nusistatyta tvarka.
 
 5. Neformalųjį
 
@@ -1092,9 +1152,9 @@ mokyklą pagal protines ir fizines galias ir joje adaptuotis.
 
 teikdama mokiniui socialinę pedagoginę pagalbą, bendradarbiauja su socialinę
 
-pagalbą teikiančiomis tarnybomis, sveikatos priežiūros ir teisėtvarkos
+pagalbą teikiančiomis tarnybomis, sveikatos priežiūros ir teisėtvarkos institucijomis
 
-institucijomis ir konsultuoja mokinio tėvus (globėjus, rūpintojus) ir mokytojus.
+ir konsultuoja mokinio tėvus (globėjus, rūpintojus) ir mokytojus.
 
 3. Socialinės
 
@@ -1222,9 +1282,9 @@ Lietuvos gyventojų teisė ir pareiga mokytis
 
 Lietuvos Respublikos pilietis, užsienietis, turintis teisę nuolat gyventi ar
 
-laikinai apsigyventi Lietuvos Respublikoje, turi teisę mokytis, įgyti
+laikinai apsigyventi Lietuvos Respublikoje, turi teisę mokytis, įgyti išsilavinimą
 
-išsilavinimą ir kvalifikaciją.
+ir kvalifikaciją.
 
 2. Valstybė
 
@@ -1366,9 +1426,9 @@ laisvieji mokytojai, kiti švietimo teikėjai.
 
 teikėjų tinklas kuriamas:
 
-1) plėtojant švietimo
+1) plėtojant
 
-programų bei švietimo įvairovę;
+švietimo programų bei švietimo įvairovę;
 
 2) koordinuojant
 
@@ -1434,13 +1494,11 @@ teisę rinktis valstybinę, savivaldybės ar nevalstybinę mokyklą ir ją keist
 
 2. Priėmimo į
 
-valstybinę ir savivaldybės bendrojo lavinimo mokyklą, profesinę mokyklą ar
+valstybinę ir savivaldybės bendrojo lavinimo ir profesinę mokyklą tvarką
 
-mokyklą, vykdančią aukštesniųjų studijų programas, tvarką nustato steigėjas,
+nustato steigėjas, remdamasis švietimo ir mokslo ministro patvirtintais
 
-remdamasis švietimo ir mokslo ministro patvirtintais bendraisiais priėmimo
-
-kriterijais.
+bendraisiais priėmimo kriterijais.
 
 3. Į valstybinę
 
@@ -1468,9 +1526,11 @@ steigėjas.
 
 6. Priėmimo į
 
-aukštąją mokyklą sąlygas nustato aukštoji mokykla, Vyriausybės nustatyta tvarka
+aukštąją mokyklą sąlygas nustato aukštoji mokykla. Valstybinė aukštoji mokykla
 
-jas suderinusi su švietimo ir mokslo ministru.
+priėmimo sąlygas ir taisykles suderina su švietimo ir mokslo ministru
+
+Vyriausybės nustatyta tvarka.
 
 7. Asmenų
 
@@ -1511,6 +1571,16 @@ steigėju arba bendru steigėjų susitarimu, jo tėvams (globėjams, rūpintojam
 dalyvaujant, mokinį perkelia į kitą mokyklą. Apie mokinio pašalinimą ir
 
 perkėlimą mokykla informuoja jo gyvenamosios vietos savivaldybę.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 29 straipsnis.
 
@@ -1600,9 +1670,9 @@ lietuvių kalba ir esant galimybei mokytis jų gimtosios kalbos.
 
 6. Visos
 
-bendrąjį lavinimą teikiančios mokyklos turi užtikrinti valstybinės lietuvių kalbos
+bendrąjį lavinimą teikiančios mokyklos turi užtikrinti valstybinės lietuvių
 
-mokėjimą pagal Švietimo ir mokslo ministerijos nustatytą standartą.
+kalbos mokėjimą pagal Švietimo ir mokslo ministerijos nustatytą standartą.
 
 31 straipsnis.
 
@@ -1758,17 +1828,17 @@ Mokyklų baigimo dokumentai (brandos atestatai, diplomai ir kt.) išduodami
 
 poreikių vaikui jo tėvų (globėjų, rūpintojų) pageidavimu sudaromos sąlygos
 
-ugdytis arčiau jų gyvenamosios vietos esančioje ikimokyklinio ugdymo ir
+ugdytis arčiau jų gyvenamosios vietos esančioje ikimokyklinio ugdymo ir bendrojo
 
-bendrojo lavinimo mokykloje visiškos, dalinės integracijos forma arba
+lavinimo mokykloje visiškos, dalinės integracijos forma arba specialiojo ugdymo
 
-specialiojo ugdymo programą vykdančioje mokykloje. Vaiko specialiuosius
+programą vykdančioje mokykloje. Vaiko specialiuosius ugdymosi poreikius
 
-ugdymosi poreikius įvertina, ugdymo formą siūlo mokyklos specialiojo ugdymo
+įvertina, ugdymo formą siūlo mokyklos specialiojo ugdymo komisija arba
 
-komisija arba pedagoginė psichologinė tarnyba. Mokyklą vaikui rekomenduoja
+pedagoginė psichologinė tarnyba. Mokyklą vaikui rekomenduoja pedagoginė
 
-pedagoginė psichologinė tarnyba.
+psichologinė tarnyba.
 
 2. Profesinė,
 
@@ -1804,21 +1874,21 @@ egzaminus.
 
 kuriam laikinai atimta ar apribota laisvė, Vyriausybės arba jos įgaliotos
 
-institucijos nustatyta tvarka sudaromos sąlygos mokytis jo perauklėjimo ar bausmės
+institucijos nustatyta tvarka sudaromos sąlygos mokytis jo perauklėjimo ar
 
-atlikimo vietose, kad šis asmuo galėtų įgyti pradinį, pagrindinį ir vidurinį
+bausmės atlikimo vietose, kad šis asmuo galėtų įgyti pradinį, pagrindinį ir
 
-išsilavinimą, kvalifikaciją, savarankiškai lavintis.
+vidurinį išsilavinimą, kvalifikaciją, savarankiškai lavintis.
 
 3. Privalomosios
 
 krašto apsaugos tarnybos kariui privalomosios tarnybos metu sudaromos sąlygos
 
-mokytis pagal bendrojo lavinimo mokyklos programų modulius, dalyvauti
+mokytis pagal bendrojo lavinimo mokyklos programų modulius, dalyvauti neformaliojo
 
-neformaliojo švietimo programose švietimo ir mokslo bei krašto apsaugos
+švietimo programose švietimo ir mokslo bei krašto apsaugos ministrų nustatyta
 
-ministrų nustatyta tvarka bei savišvietoje.
+tvarka bei savišvietoje.
 
 36 straipsnis.
 
@@ -1826,17 +1896,17 @@ Vežiojimas, apgyvendinimas, maitinimas
 
 1. Mokinys į
 
-atitinkamą ugdymo programą vykdančią mokyklą mokinio pažymėjime nurodytu
+atitinkamą ugdymo programą vykdančią mokyklą mokinio pažymėjime nurodytu maršrutu
 
-maršrutu pavežamas visuomeniniu transportu Transporto lengvatų įstatymo
+pavežamas visuomeniniu transportu Transporto lengvatų įstatymo nustatytą
 
-nustatytą atstumą. Toliau kaip 3 kilometrai nuo mokyklos gyvenantys kaimo
+atstumą. Toliau kaip 3 kilometrai nuo mokyklos gyvenantys kaimo bendrojo
 
-bendrojo lavinimo mokyklų priešmokyklinio ugdymo grupių ir 1–8 klasių mokiniai
+lavinimo mokyklų priešmokyklinio ugdymo grupių ir 1–8 klasių mokiniai privalo
 
-privalo būti vežiojami į artimiausią atitinkamą savivaldybės ar kito steigėjo
+būti vežiojami į artimiausią atitinkamą savivaldybės ar kito steigėjo mokyklą
 
-mokyklą mokykliniais autobusais ar kitu transportu.
+mokykliniais autobusais ar kitu transportu.
 
 2. Specialiųjų
 
@@ -1932,13 +2002,11 @@ jos įgaliota institucija nustato:
 
 1) bendruosius
 
-formaliojo švietimo programų, pedagogų išsilavinimo ir kvalifikacijos,
+formaliojo švietimo programų, pedagogų kvalifikacijos reikalavimus, bendruosius
 
-formaliojo ir neformaliojo vaikų švietimo aplinkos bei priemonių reikalavimus;
+iš valstybės ir savivaldybių biudžetų finansuojamų neformaliojo švietimo
 
-bendruosius iš valstybės ir savivaldybių biudžetų finansuojamų neformaliojo
-
-švietimo programų kriterijus, prižiūri, kaip jų laikomasi;
+programų kriterijus, prižiūri, kaip jų laikomasi;
 
 2) licencijų
 
@@ -1958,25 +2026,25 @@ mokyklos steigėjas ir švietimo teikėjas.
 
 4. Švietimo ir
 
-mokslo ministras (jo įgaliotos institucijos) tvirtina priešmokyklinio ugdymo ir
+mokslo ministras tvirtina priešmokyklinio ugdymo ir bendrojo lavinimo
 
-bendrojo lavinimo bendrąsias, netradicinio ugdymo, profesinio mokymo,
+bendrąsias, netradicinio ugdymo, profesinio mokymo, aukštesniųjų ir
 
-aukštesniųjų ir neuniversitetinių studijų programas, nustato ikimokyklinio ir
+neuniversitetinių studijų programas, nustato ikimokyklinio ir neformaliojo
 
-neformaliojo vaikų švietimo programų kriterijus, tvirtina bendrojo lavinimo
+vaikų švietimo programų kriterijus, tvirtina bendrojo lavinimo mokyklų
 
-mokyklų bendruosius ugdymo planus, bendrojo išsilavinimo ir profesinio rengimo
+bendruosius ugdymo planus, pradinio, pagrindinio, vidurinio išsilavinimo ir
 
-standartus, studijų krypčių reglamentus, brandos egzaminų programas, jų
+profesinio rengimo standartus, studijų krypčių reglamentus, pedagogų rengimo
 
-organizavimo ir vykdymo tvarką. Ministerija, jos įgaliotos institucijos atsako
+reglamentą, brandos egzaminų programas, jų organizavimo ir vykdymo tvarką.
 
-už švietimo kokybę, remdamosi švietimo kokybės tyrimų išvadomis, užtikrina
+Ministras, remdamasis švietimo kokybės tyrimų išvadomis, užtikrina formaliojo
 
-formaliojo švietimo programų atnaujinimą, naujų programų įvedimą, skirtingų
+švietimo programų atnaujinimą, naujų programų įvedimą, skirtingų lygmenų
 
-lygmenų programų sąveiką ir dermę.
+programų sąveiką ir dermę.
 
 5. Mokyklos
 
@@ -2032,6 +2100,16 @@ kreipdamiesi į švietimo programas formuojančius asmenis ar atitinkamo lygio
 
 įstaigas.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
+
 38 straipsnis.
 
 Mokymosi pasiekimų vertinimas
@@ -2052,15 +2130,13 @@ pasiekimus vertina mokytojas, švietimo teikėjas, mokyklos steigėjas, Švietim
 
 ir mokslo ministerija ir jos įgaliotos institucijos.
 
-3.
+3. Formaliojo
 
-Ikimokyklinio, priešmokyklinio ugdymo ir kitose formaliojo švietimo (išskyrus
+švietimo (išskyrus aukštojo mokslo) programose dalyvaujančių mokinių mokymosi
 
-aukštojo mokslo) programose dalyvaujančių mokinių mokymosi pasiekimų vertinimą
+pasiekimų vertinimą ir vertinimo rezultatų panaudojimą reglamentuoja švietimo
 
-ir vertinimo rezultatų panaudojimą reglamentuoja švietimo ir mokslo ministro
-
-patvirtinti atitinkami nuostatai.
+ir mokslo ministro patvirtinti atitinkami nuostatai.
 
 4. Švietimo ir
 
@@ -2074,19 +2150,29 @@ mokyklų studentų mokymosi pasiekimai vertinami Aukštojo mokslo įstatymo
 
 nustatyta tvarka.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
+
 39 straipsnis.
 
 Mokymosi pasiekimų įteisinimas
 
 1. Asmens
 
-formaliojo, neformaliojo ar savišvietos būdu įgyti mokymosi pasiekimai
+formaliojo, neformaliojo ar savišvietos būdu įgyti mokymosi pasiekimai įteisinami
 
-įteisinami įstatymų nustatyta tvarka išduotu dokumentu (pažymėjimu, brandos
+įstatymų nustatyta tvarka išduotu dokumentu (pažymėjimu, brandos atestatu,
 
-atestatu, diplomu), kurio turinį, formą ir išdavimo tvarką nustato Vyriausybė
+diplomu), kurio turinį, formą ir išdavimo tvarką nustato Vyriausybė arba jos
 
-arba jos įgaliota institucija.
+įgaliota institucija.
 
 2. Mokymosi
 
@@ -2176,7 +2262,7 @@ PAGALBOS ĮSTAIGŲ STEIGIMAS, VEIKLA, PABAIGA IR PERTVARKYMAS
 
 41 straipsnis.
 
-Mokyklų tipai
+Mokyklų grupės ir tipai
 
 1. Mokyklos
 
@@ -2186,173 +2272,189 @@ skirstomos į šias grupes:
 
 lavinimo mokyklų;
 
-2) meninio ir
+2) profesinių mokyklų;
 
-sportinio ugdymo mokyklų, vykdančių formaliojo ugdymo programas ar jų modulius;
-
-3) profesinių
+3) aukštesniųjų
 
 mokyklų;
 
-4) aukštesniųjų
+4) aukštųjų
 
 mokyklų;
 
-5) aukštųjų
+5) neformaliojo
 
-mokyklų.
+švietimo mokyklų.
 
-2. Mokyklos
+2. Formaliojo
 
-tipas nustatomas pagal jos vykdomą aukščiausio lygio formaliojo švietimo
+švietimo mokyklos tipas nustatomas pagal jos pagrindinę veiklą sąlygojančią
 
-programą.
+aukščiausio lygmens formaliojo švietimo programą.
 
-3. Bendrojo
+3. Formaliojo
 
-lavinimo mokyklų grupę sudaro šių tipų mokyklos:
+švietimo mokykla jos steigėjo sprendimu ir šio Įstatymo 42 ir 43 straipsnių
 
-1)
+nustatyta tvarka, be jos pagrindinę veiklą sąlygojančios formaliojo švietimo
 
-mokykla-darželis (priešmokyklinio ugdymo, pradinio ugdymo programa);
+programos, gali vykdyti neformaliojo švietimo ir kitas formaliojo švietimo
+
+programas arba jų modulius.
+
+4. Bendrojo lavinimo
+
+mokyklų tipai yra: pradinė, pagrindinė ir vidurinė mokykla.
+
+5. Pradinės
+
+mokyklos tipui priskiriama:
+
+1) pradinė
+
+mokykla (pradinio ugdymo programa);
 
 2)
 
-pradinė mokykla (priešmokyklinio ugdymo, pradinio ugdymo programa);
+mokykla-darželis (pradinio ugdymo programa).
 
-3) pagrindinė
+6. Pagrindinės
 
-mokykla (pagrindinio ugdymo programa; pagrindinio, pradinio, priešmokyklinio
+mokyklos tipui priskiriama:
 
-ugdymo programos; atskirais atvejais – pirmojo pagrindinio ugdymo turinio
+1) pagrindinė
 
-koncentro ir pradinio ugdymo programa; pirmojo pagrindinio ugdymo turinio
+mokykla (pagrindinio ugdymo programa; pagrindinio ir pradinio ugdymo programos;
 
-koncentro programa);
+atskirais atvejais – pagrindinio ugdymo programos I dalis ir pradinio ugdymo
 
-4) jaunimo
+programa; pagrindinio ugdymo programos I dalis);
+
+2) jaunimo
 
 mokykla (pagrindinio ugdymo programa);
 
-5) specialieji
+3) specialieji
 
-vaikų auklėjimo ir globos namai (pradinio ugdymo programa; priešmokyklinio
+vaikų auklėjimo ir globos namai (pagrindinio ir pradinio ugdymo programos);
 
-ugdymo, pradinio ir pagrindinio ugdymo programos);
-
-6) ligoninės
+4) ligoninės
 
 mokykla (pagrindinio ir pradinio ugdymo programos);
 
-7) sanatorinė
+5) sanatorinė
 
-mokykla (pagrindinio ir pradinio ugdymo programos);
+mokykla (pagrindinio ir pradinio ugdymo programos).
 
-8) vidurinė
+7. Vidurinės
 
-mokykla (vidurinio ugdymo programa; vidurinio ugdymo ir antrojo pagrindinio
+mokyklos tipui priskiriama:
 
-ugdymo turinio koncentro programos; vidurinio ir pagrindinio ugdymo programos;
+1) vidurinė
 
-vidurinio, pagrindinio ir pradinio ugdymo programos; vidurinio, pagrindinio,
+mokykla (vidurinio ugdymo programa; vidurinio ugdymo programa ir pagrindinio
 
-pradinio ir priešmokyklinio ugdymo programos);
+ugdymo programos II dalis; vidurinio ir pagrindinio ugdymo programos;
 
-9) gimnazija –
+vidurinio, pagrindinio ir pradinio ugdymo programos);
 
-vidurinė mokykla, atitinkanti Vyriausybės ar jos įgaliotos institucijos
+2) gimnazija
 
-nustatytus akreditacijos kriterijus (vidurinio ugdymo programa; vidurinio
+(akredituota vidurinio ugdymo programa; akredituota vidurinio ugdymo programa
 
-ugdymo ir antrojo pagrindinio ugdymo turinio koncentro programos; vidurinio
+ir pagrindinio ugdymo programos II dalis; tarptautinio bakalaureato programa,
 
-ugdymo, antrojo pagrindinio ugdymo turinio koncentro ir tarptautinio bakalaureato
+akredituota vidurinio ugdymo programa ir pagrindinio ugdymo programos II dalis;
 
-programos; atskiru atveju – vidurinio ir pagrindinio ugdymo programos;
+atskirais atvejais – akredituota vidurinio ugdymo ir pagrindinio ugdymo
 
-vidurinio, pagrindinio ir pradinio ugdymo programos; vidurinio, pagrindinio,
+programos; akredituota vidurinio ugdymo, pagrindinio ir pradinio ugdymo
 
-pradinio ir priešmokyklinio ugdymo programos);
+programos);
 
-10) suaugusiųjų
+3) menų
 
-mokykla, suaugusiųjų mokymo centras (vidurinio, pagrindinio ir pradinio ugdymo
+gimnazija (akredituota vidurinio ir muzikinio ugdymo programa, pagrindinio ir
 
-programos; vidurinio ir pagrindinio ugdymo programos);
+muzikinio, pradinio ir muzikinio ugdymo programos; akredituota vidurinio ir
 
-11) ugdymo
+dailės ugdymo programa, pagrindinio ir dailės, pradinio ir dailės ugdymo
 
-centras (vidurinio, pagrindinio, pradinio ir specialiojo ugdymo programos);
+programos);
 
-12) specialioji
+4) konservatorija
 
-mokykla (vidurinio, pagrindinio, pradinio ir specialiojo ugdymo programos;
+(akredituota vidurinio ir muzikinio ugdymo programa, pagrindinio ugdymo
 
-adaptuotos vidurinio, pagrindinio, pradinio ir specialiojo ugdymo programos);
+programos II dalis ir muzikinio ugdymo programa);
 
-13) specialiojo
+5) suaugusiųjų
 
-ugdymo centras (vidurinio, pagrindinio, pradinio ugdymo ir adaptuotos
+mokykla (suaugusiųjų vidurinio, suaugusiųjų pagrindinio ir suaugusiųjų pradinio
 
-vidurinio, pagrindinio, pradinio ir specialiojo ugdymo programos).
+ugdymo programos; suaugusiųjų vidurinio ir suaugusiųjų pagrindinio ugdymo
 
-4. Profesinių ir
+programos);
 
-aukštųjų mokyklų tipus ir reikalavimus jiems reglamentuoja Profesinio mokymo ir
+6) specialioji
 
-Aukštojo mokslo įstatymai.
+mokykla (vidurinio, pagrindinio, pradinio ir specialiojo ugdymo programos).
 
-5.
+8. Profesinių
+
+mokyklų ir aukštųjų mokyklų tipus reglamentuoja Profesinio mokymo ir Aukštojo
+
+mokslo įstatymai.
+
+9.
 
 Aukštesniosios mokyklos į tipus neskirstomos.
 
-6. Mokykla jos
+10. Neformaliojo
 
-steigėjo sprendimu ir šio Įstatymo 42 straipsnio nustatyta tvarka, be jos pagrindinę
+švietimo mokyklos tipas nustatomas pagal jos vykdomą pagrindinę neformaliojo
 
-veiklą sąlygojančios programos, gali vykdyti neformaliojo švietimo ir kitas
+švietimo veiklą.
 
-formaliojo švietimo programas.
+11.
 
-7. Neformaliojo
+Ikimokyklinio ugdymo mokyklos tipui priskiriamas lopšelis, lopšelis-darželis,
 
-švietimo mokyklos tipas nustatomas pagal jos vykdomą pagrindinę švietimo veiklą
+darželis, specialiųjų poreikių vaikų ikimokykliniam ugdymui skirtas lopšelis,
 
-– ikimokyklinis, kitas neformalusis vaikų bei suaugusiųjų švietimas:
+lopšelis-darželis ir darželis.
 
-1) ikimokyklinio
-
-ugdymo mokyklos tipui priskiriamas lopšelis, lopšelis-darželis, darželis,
-
-specialiųjų poreikių vaikų ikimokykliniam ugdymui skirtas lopšelis,
-
-lopšelis-darželis ir darželis;
-
-2) neformaliojo
+12. Neformaliojo
 
 vaikų švietimo mokyklos tipui priskiriama muzikos, dailės, meno, sporto
 
 mokykla, ugdymo centras, skirtas vaikų gebėjimams lavinti, moksleivių rūmai,
 
-kūrybos centras, jaunųjų gamtininkų, technikų stotis, klubas, šeštadieninė ir
+kūrybos centras, klubas, šeštadieninė ir sekmadieninė tautinių mažumų mokykla
 
-sekmadieninė tautinių mažumų mokykla ir pan.;
+ir pan.
 
-3) neformaliojo
+13. Neformaliojo
 
 suaugusiųjų švietimo mokyklos tipui priskiriamas suaugusiųjų mokymo centras,
 
-liaudies aukštoji mokykla, įvairūs kursai ir pan.
+liaudies aukštoji mokykla, mokytojų kvalifikacijos tobulinimo institucija,
 
-8. Reikalavimus
+įvairūs kursai ir pan.
 
-mokyklų (išskyrus aukštųjų mokyklų) tipams nustato Vyriausybė ar jos įgaliota
+14. Mokyklų pavadinimų sudarymo ir rašymo taisykles
 
-institucija.
+nustato Valstybinė lietuvių kalbos komisija.
 
-9. Mokyklų pavadinimų
+Straipsnio
 
-sudarymo ir rašymo taisykles nustato Valstybinė lietuvių kalbos komisija.
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 42 straipsnis.
 
@@ -2362,9 +2464,9 @@ Mokyklų ir pagalbos įstaigų steigimas
 
 pagalbos mokiniui, mokytojui ir mokyklai įstaigas gali steigti:
 
-1) Seimas – valstybinį universitetą Vyriausybės
+1) Seimas – valstybinį universitetą
 
-teikimu;
+Vyriausybės teikimu;
 
 2) Vyriausybė – valstybinę kolegiją
 
@@ -2384,43 +2486,59 @@ raštišką sutikimą;
 
 4) kitos
 
-ministerijos ir Vyriausybės įgaliotos institucijos – profesinio mokymo,
+ministerijos, Vyriausybės įstaigos, įstaigos prie ministerijų – profesinio
 
-neformaliojo suaugusiųjų švietimo mokyklas, gavusios švietimo ir mokslo
+mokymo, neformaliojo suaugusiųjų švietimo mokyklas, gavusios švietimo ir mokslo
 
 ministro bei finansų ministro raštiškus sutikimus;
 
 5) apskrities
 
-viršininkas – specialiojo ugdymo, profesinio mokymo mokyklas, prireikus –
+viršininkas – specialiojo ugdymo, profesinio mokymo, neformaliojo suaugusiųjų
 
-bendrojo lavinimo mokyklas, pagalbą mokiniui, mokytojui ir mokyklai teikiančias
+švietimo mokyklas, prireikus – bendrojo lavinimo mokyklas, pagalbą mokiniui,
 
-įstaigas, gavęs švietimo ir mokslo ministro bei finansų ministro raštiškus
+mokytojui ir mokyklai teikiančias įstaigas, gavęs švietimo ir mokslo ministro
 
-sutikimus;
+bei finansų ministro raštiškus sutikimus;
 
 6) savivaldybės taryba – ikimokyklinio ugdymo, kitas
 
-neformaliojo švietimo mokyklas – savarankiškai, o bendrojo lavinimo, specialiojo
+neformaliojo švietimo mokyklas – savarankiškai, o bendrojo lavinimo,
 
-ugdymo, profesinio mokymo mokyklas, pagalbą mokiniui, mokytojui ir mokyklai
+specialiojo ugdymo, profesinio mokymo mokyklas, pagalbą mokiniui, mokytojui ir
 
-teikiančias įstaigas – vadovaudamasi Vyriausybės nustatytais kriterijais;
+mokyklai teikiančias įstaigas – vadovaudamasi Vyriausybės nustatytais
+
+kriterijais;
 
 7) kiti Lietuvos
 
-Respublikos juridiniai ir fiziniai asmenys bei kitų valstybių juridiniai ir fiziniai
+Respublikos juridiniai ir fiziniai asmenys bei kitų valstybių juridiniai ir
 
-asmenys – bendrojo lavinimo, specialiojo ugdymo, neformaliojo švietimo,
+fiziniai asmenys – bendrojo lavinimo, specialiojo ugdymo, neformaliojo
 
-profesinio mokymo, aukštesniųjų studijų mokyklas.
+švietimo, profesinio mokymo mokyklas.
 
-2. Mokyklos
+2. Nevalstybinės
+
+aukštosios mokyklos steigiamos vadovaujantis Aukštojo mokslo įstatymu.
+
+3. Mokyklos
 
 steigėjais gali būti keli fiziniai ir juridiniai asmenys, sudarę mokyklos
 
 steigimo sandorį.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 43 straipsnis.
 
@@ -2452,7 +2570,9 @@ mokyklos nuostatai (statutas), mokyklos steigimo sandoris.
 
 ir savivaldybės mokyklos nuostatai rengiami vadovaujantis švietimo ir mokslo
 
-ministro patvirtintais reikalavimais atitinkamo mokyklos tipo nuostatams.
+ministro patvirtintais reikalavimais valstybinių ir savivaldybių mokyklų
+
+nuostatams.
 
 5. Aukštosios
 
@@ -2462,17 +2582,15 @@ Aukštojo mokslo įstatymo nustatyta tvarka.
 
 6. Mokykla
 
-vidurinio ugdymo, profesinio mokymo ir aukštesniųjų studijų programas gali
+profesinio mokymo ir aukštesniųjų studijų programas gali vykdyti tik turėdama
 
-vykdyti tik turėdama švietimo ir mokslo ministro ar Vyriausybės išduotą
+švietimo ir mokslo ministro ar Vyriausybės išduotą licenciją. Mokymo
 
-licenciją. Licencijavimo taisykles tvirtina Vyriausybė ar jos įgaliota
+licencijavimo taisykles tvirtina Vyriausybė ar jos įgaliota institucija.
 
-institucija.
+7. Mokykla (išskyrus aukštąją) ar kitas švietimo teikėjas
 
-7. Nevalstybinė mokykla (išskyrus aukštąją) mokinių
-
-priėmimą ir mokymą pradeda tik gavusi licenciją, jeigu ši yra privaloma.
+mokinių priėmimą ir mokymą pradeda tik gavę licenciją, jeigu ši yra privaloma.
 
 8. Mokykla gali:
 
@@ -2554,27 +2672,35 @@ turinys ir metodai turi atitikti Lietuvos Respublikos švietimo ir mokslo
 
 ministerijos mokyklai keliamus uždavinius bei visuomenės poreikius.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
+
 44 straipsnis.
 
 Mokyklos, pagalbos įstaigos pabaiga ir pertvarkymas
 
 1. Valstybinės
 
-mokyklos steigėjas mokyklą reorganizuoja, likviduoja ar pertvarko gavęs
+mokyklos, pagalbos mokiniui, mokytojui ir mokyklai įstaigos steigėjas mokyklą,
 
-mokyklos steigimui pritarusių institucijų raštiškus sutikimus. Savivaldybė
+įstaigą reorganizuoja, likviduoja ar pertvarko gavęs mokyklos, įstaigos
 
-mokyklą steigia, reorganizuoja, likviduoja ar pertvarko pagal Vyriausybės
+steigimui pritarusių institucijų raštiškus sutikimus. Savivaldybės taryba
 
-nustatytus kriterijus. Pagalbos mokiniui, mokytojui ir mokyklai įstaigos
+ikimokyklinio, kitas neformaliojo švietimo mokyklas reorganizuoja, likviduoja
 
-steigėjas įstaigą reorganizuoja ir likviduoja gavęs švietimo ir mokslo ministro
+ar pertvarko savarankiškai, bendrojo lavinimo, specialiojo ugdymo, profesinio
 
-raštišką sutikimą. Savivaldybė pagalbos mokiniui, mokytojui ir mokyklai
+mokymo mokyklas, pagalbą mokiniui, mokytojui ir mokyklai teikiančias įstaigas –
 
-įstaigas steigia, reorganizuoja, likviduoja ir pertvarko vadovaudamasi
-
-Vyriausybės nustatytais kriterijais.
+pagal Vyriausybės nustatytus kriterijus.
 
 2. Nevalstybinė
 
@@ -2599,6 +2725,16 @@ mokiniams.
 mokyklą, pagalbos mokiniui, mokytojui ir mokyklai įstaigą reorganizuoja,
 
 likviduoja ar pertvarko Civilinio kodekso nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 PENKTASIS SKIRSNIS
 
@@ -2626,9 +2762,11 @@ iki 16 metų mokymo sutartį sudaro turėdamas tėvų (rūpintojų) sutikimą.
 
 4. Sutartyje
 
-nurodomos sutarties šalys, mokymosi programa, jos baigimo forma, šalių įsipareigojimai,
+nurodomos sutarties šalys, mokymosi programa, jos baigimo forma, šalių
 
-sutarties terminas, jos keitimo, nutraukimo pagrindai ir padariniai.
+įsipareigojimai, sutarties terminas, jos keitimo, nutraukimo pagrindai ir
+
+padariniai.
 
 5. Švietimo
 
@@ -2698,11 +2836,11 @@ pasirengimas atitinka nustatytus reikalavimus;
 
 7) į
 
-psichologinę ir specialiąją pedagoginę, specialiąją, socialinę pedagoginę,
+psichologinę ir specialiąją pedagoginę, specialiąją, socialinę pedagoginę, informacinę
 
-informacinę pagalbą, sveikatos priežiūrą mokykloje, informaciją apie
+pagalbą, sveikatos priežiūrą mokykloje, informaciją apie savo pasiekimų
 
-savo pasiekimų vertinimą ir kitą su mokymusi susijusią informaciją;
+vertinimą ir kitą su mokymusi susijusią informaciją;
 
 8) į socialinę
 
@@ -2828,45 +2966,43 @@ Teisė dirbti mokytoju
 
 1.
 
-Kvalifikacinius reikalavimus pedagogams, dirbantiems pagal ikimokyklinio,
+Kvalifikacinius reikalavimus mokytojams, dirbantiems pagal ikimokyklinio,
 
-priešmokyklinio, pradinio, pagrindinio, vidurinio, specialiojo ugdymo,
+priešmokyklinio, neformaliojo vaikų švietimo, pradinio, pagrindinio, vidurinio,
 
-profesinio mokymo, aukštesniųjų studijų programas, nustato švietimo ir mokslo
+specialiojo ugdymo, profesinio mokymo, aukštesniųjų studijų programas, nustato
 
-ministras. Dirbti mokytoju pagal šias programas turi teisę:
+švietimo ir mokslo ministras. Dirbti mokytoju pagal šias programas turi teisę:
 
 1) asmuo, įgijęs
 
-aukštąjį arba aukštesnįjį (specialųjį vidurinį, įgytą iki 1995 metų) išsilavinimą,
+aukštąjį arba aukštesnįjį (specialųjį vidurinį, įgytą iki 1995 metų)
 
-turintis pedagogo kvalifikaciją, bei asmuo, nurodytas šio Įstatymo 31
+išsilavinimą, turintis pedagogo kvalifikaciją, bei asmuo, nurodytas šio
 
-straipsnio 5 dalyje.
+Įstatymo 31 straipsnio 5 dalyje;
 
-2) asmuo, įgijęs aukštąjį ar
+2) pirminio
 
-aukštesnįjį (specialųjį vidurinį, įgytą iki 1995 metų) išsilavinimą ir
+profesinio mokymo profesijos mokytoju – asmuo, įgijęs aukštąjį ar aukštesnįjį
 
-neturintis pedagogo kvalifikacijos. Šis asmuo pagal terminuotą darbo sutartį
+(specialųjį vidurinį, įgytą iki 1995 metų) išsilavinimą, bet neturintis
 
-mokytojo pareigas gali eiti ne ilgiau kaip vienerius mokslo metus. Vyriausybės
+pedagogo kvalifikacijos, bei asmuo, baigęs profesinę mokyklą, turintis 3 metų
 
-nustatytais atvejais darbo sutartis gali būti pratęsta, bet ne ilgiau kaip dar
+atitinkamos srities darbo praktiką. Šie asmenys turi būti išklausę švietimo ir
 
-vieneriems mokslo metams;
+mokslo ministro nustatyta tvarka pedagoginių-psichologinių žinių kursą;
 
-3) pirminio
+3) neformaliojo
 
-profesinio mokymo profesijos mokytoju, neformaliojo vaikų švietimo mokytoju –
+vaikų švietimo mokytoju – asmuo, įgijęs aukštąjį, aukštesnįjį (specialųjį
 
-pedagogas arba asmuo, įgijęs aukštąjį ar aukštesnįjį (specialųjį vidurinį,
+vidurinį, įgytą iki 1995 metų) ar vidurinį išsilavinimą, bet neturintis
 
-įgytą iki 1995 metų) išsilavinimą, bet neturintis pedagogo kvalifikacijos, bei
+pedagogo kvalifikacijos, išklausęs švietimo ir mokslo ministro nustatyta tvarka
 
-asmuo, baigęs profesinę mokyklą, turintis 3 metų atitinkamos srities darbo
-
-praktiką ir pedagogo kvalifikaciją.
+pedagoginių-psichologinių žinių kursą.
 
 2. Pagal
 
@@ -2884,13 +3020,9 @@ profesinę mokyklą, turintis kvalifikaciją arba ne trumpesnę kaip 3 metų
 
 atitinkamos srities darbo praktiką.
 
-3.
+3. (neteko
 
-Kvalifikacinius reikalavimus pedagogų mokymo ir studijų programoms nustato
-
-studijų krypčių reglamentai ir (ar) švietimo ir mokslo ministro patvirtinti
-
-profesinio rengimo standartai.
+galios).
 
 4. Mokykloje
 
@@ -2942,6 +3074,16 @@ vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos“
 
 numatyti apribojimai.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
+
 49 straipsnis.
 
 Mokytojo teisės ir pareigos
@@ -2978,7 +3120,9 @@ mokyklos savivaldoje;
 
 6) naudotis kitomis Profesinio mokymo, Specialiojo ugdymo,
 
-Aukštojo mokslo, Neformaliojo švietimo ir kitų įstatymų nustatytomis teisėmis.
+Aukštojo mokslo, Neformaliojo suaugusiųjų švietimo ir kitų įstatymų
+
+nustatytomis teisėmis.
 
 2. Mokytojas privalo:
 
@@ -3004,9 +3148,9 @@ savo kvalifikaciją;
 
 5) suteikti
 
-pagalbą mokiniams, turintiems ugdymosi, mokymosi sunkumų ir specialiųjų
+pagalbą mokiniams, turintiems ugdymosi, mokymosi sunkumų ir specialiųjų ugdymosi
 
-ugdymosi poreikių;
+poreikių;
 
 6) nešališkai
 
@@ -3020,9 +3164,9 @@ pasiekimus;
 
 8) vykdyti kitas
 
-Specialiojo ugdymo, Profesinio mokymo, Aukštojo mokslo, Neformaliojo
+Specialiojo ugdymo, Profesinio mokymo, Aukštojo mokslo, Neformaliojo suaugusiųjų
 
-suaugusiųjų švietimo įstatymų nustatytas pareigas.
+švietimo įstatymų nustatytas pareigas.
 
 3. Pedagogų
 
@@ -3030,19 +3174,27 @@ profesinių sąjungų atstovai turi teisę netrukdomai dalyvauti sprendžiant
 
 pedagogų darbo sąlygų klausimus darbovietėje.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
+
 50 straipsnis.
 
 Laisvojo mokytojo teisės ir pareigos
 
 1. Laisvasis
 
-mokytojas, teikiantis neformalųjį švietimą, vykdantis ikimokyklinio ugdymo arba
+mokytojas teisės aktų nustatyta tvarka gali teikti neformalųjį švietimą,
 
-formaliojo švietimo programas papildančius bei mokinių saviraiškos poreikius
+vykdyti ikimokyklinio ugdymo arba formaliojo švietimo programas papildančius
 
-tenkinančių programų modulius, privalo turėti Vyriausybės arba jos įgaliotos
-
-institucijos nustatyta tvarka išduotą licenciją.
+bei mokinių saviraiškos poreikius tenkinančių programų modulius.
 
 2. Laisvasis
 
@@ -3090,11 +3242,19 @@ mokytojui neleidžiama ugdyti tų mokinių, kuriuos jis ugdo mokykloje pagal to
 
 paties dalyko programą.
 
-5. Laisvajam
+5. (neteko
 
-mokytojui, nevykdančiam 3 dalyje nurodytų pareigų, įstatymų nustatyta tvarka
+galios)
 
-apribojama veikla, panaikinama išduota licencija.
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 51 straipsnis.
 
@@ -3104,15 +3264,13 @@ Kito švietimo teikėjo teisės ir pareigos
 
 švietimo teikėjas turi teisę:
 
-1) įgijęs
-
-licenciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, vykdyti
+1) vykdyti
 
 ikimokyklinio ugdymo, formaliojo švietimo programas papildančius bei mokinių
 
-saviraiškos poreikius tenkinančius šių programų modulius ir profesinio mokymo
+saviraiškos poreikius tenkinančius šių programų modulius, o įgiję licenciją –
 
-programas;
+ir profesinio mokymo programas;
 
 2) teikti
 
@@ -3146,17 +3304,25 @@ Mokytojo etikos normų;
 
 mokytojų profesinės kvalifikacijos tobulinimu.
 
-3. Jeigu kitas
+3. (neteko
 
-švietimo teikėjas nevykdo 2 dalyje nurodytų pareigų, teisės aktų nustatyta
+galios).
 
-tvarka apribojama jo veikla ir panaikinama išduota licencija.
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 ŠEŠTASIS SKIRSNIS
 
-ŠVIETIMO
+ŠVIETIMO VALDYMAS.
 
-VALDYMAS. SAVIVALDA
+SAVIVALDA
 
 52 straipsnis.
 
@@ -3194,9 +3360,11 @@ steigėjas;
 
 vadovas.
 
-3. Dalis švietimo
+3. Dalis
 
-valdymo įgaliojimų gali būti perduota švietimo savivaldos institucijoms.
+švietimo valdymo įgaliojimų gali būti perduota švietimo savivaldos
+
+institucijoms.
 
 53 straipsnis.
 
@@ -3362,9 +3530,9 @@ vykdyti valstybinę švietimo politiką;
 
 švietimo kokybę;
 
-3) rengti
+3) rengti strateginius
 
-strateginius švietimo planus, metines švietimo veiklos programas;
+švietimo planus, metines švietimo veiklos programas;
 
 4) teikti
 
@@ -3384,9 +3552,9 @@ mokslo metų pradžią ir trukmę formaliojo švietimo mokyklose (išskyrus
 
 nevalstybines ir aukštąsias);
 
-6) pritarti
+6) suderinti stojančiųjų
 
-stojančiųjų priėmimo į aukštąsias mokyklas sąlygoms;
+priėmimo į valstybines aukštąsias mokyklas sąlygas ir taisykles;
 
 7) organizuoti
 
@@ -3396,11 +3564,15 @@ programų akreditavimą;
 
 8) Vyriausybės
 
-ar jos įgaliotos institucijos nustatyta tvarka organizuoti švietimo veiklos
+ar jos įgaliotos institucijos nustatyta tvarka tvarkyti valstybės studijų ir
 
-registrų ir informacinių sistemų tvarkymą, mokyklų bei jų asociacijų, studijų
+mokymo programų registrą, steigti ir tvarkyti švietimo ir mokslo institucijų,
 
-ir mokymo programų, išsilavinimo pažymėjimų blankų ir licencijų registravimą;
+licencijų, išsilavinimo pažymėjimų blankų, diplomų ir atestatų, kvalifikacijos
+
+tobulinimo programų ir renginių, mokinių, studentų, pedagogų registrus, steigti
+
+ir tvarkyti valstybės švietimo kompiuterizuotąsias informacines sistemas;
 
 9) organizuoti
 
@@ -3414,9 +3586,9 @@ apskričių viršininkų ir savivaldybių administracijų švietimo padalinių v
 
 bendruosius jų nuostatus;
 
-11) prilyginti
+11) vykdyti
 
-užsienyje įgytą išsilavinimą Lietuvoje įgytam išsilavinimui;
+užsienyje įgyto išsilavinimo pripažinimą Lietuvoje;
 
 12) palaikyti
 
@@ -3428,9 +3600,7 @@ bendradarbiavimą su atitinkamomis kitų valstybių mokyklomis ir organizacijomi
 
 teikti valstybės paramą užsienyje gyvenantiems lietuviams švietimo ir studijų
 
-srityse, atstovauti Lietuvos Respublikai užsienio valstybėse ar tarptautinėse
-
-organizacijose;
+srityse, atstovauti Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose;
 
 13) atlikti
 
@@ -3440,29 +3610,29 @@ funkcijas;
 
 14) tvirtinti
 
-formaliojo švietimo bendrąjį ugdymo, mokymo ir studijų turinį (Lietuvos
+formaliojo švietimo bendrąjį ugdymo, mokymo turinį (Lietuvos bendrojo lavinimo
 
-bendrojo lavinimo mokyklos bendrosios programos ir dalykų programos, ugdymo,
+mokyklos bendrosios programos ir dalykų programos, ugdymo, mokymo planai); visų
 
-mokymo ir studijų planai); visų lygių (išskyrus aukštąjį išsilavinimą ir
+lygių (išskyrus aukštąjį išsilavinimą) valstybinius išsilavinimo standartus,
 
-doktorantūrą) valstybinius išsilavinimo standartus, profesinio rengimo
+profesinio rengimo standartus, studijų krypčių reglamentus; ugdymo programų
 
-standartus, studijų krypčių reglamentus; ugdymo programų akreditacijos
-
-kriterijus ir jos vykdymo tvarką;
+akreditacijos kriterijus ir jos vykdymo tvarką;
 
 15) tvirtinti
 
-brandos egzaminų organizavimo ir vykdymo tvarką; baigiamųjų kvalifikacijos
+nuosekliojo mokymosi pagal bendrojo lavinimo ir profesinio mokymo programas
 
-egzaminų tvarką;
+tvarką, brandos egzaminų organizavimo ir vykdymo tvarką; baigiamųjų
+
+kvalifikacijos egzaminų tvarką;
 
 16) tvirtinti
 
-reikalavimus vadovėliams ir mokymo priemonėms, specifinius reikalavimus visų
+aprūpinimo bendrojo lavinimo ir profesinio mokymo dalykų vadovėliais ir mokymo
 
-tipų valstybinių ir savivaldybių mokyklų (išskyrus aukštąsias mokyklas) veiklos
+priemonėmis tvarką, reikalavimus valstybinių ir savivaldybių mokyklų
 
 nuostatams;
 
@@ -3470,29 +3640,27 @@ nuostatams;
 
 mokyklų audito metodiką ir tvarką; kvalifikacinius reikalavimus apskričių
 
-viršininkų ir savivaldybių administracijų švietimo padalinių vadovams,
+viršininkų ir savivaldybių administracijų švietimo padalinių vadovams ir
 
-inspektoriams ir specialistams, visų tipų (išskyrus aukštąsias mokyklas)
-
-mokyklų vadovams;
+specialistams, visų tipų (išskyrus aukštąsias mokyklas) mokyklų vadovams;
 
 18) tvirtinti
 
-atvirojo konkurso valstybinių ir savivaldybių mokyklų vadovų pareigoms eiti
+atviro konkurso valstybinių (išskyrus aukštųjų) ir savivaldybių mokyklų vadovų
 
-organizavimo tvarką;
+pareigoms eiti organizavimo tvarką;
 
 19) tvirtinti
 
-mokytojų, kitų ugdymo procese dalyvaujančių asmenų bei pagalbos mokiniui,
+valstybinių (išskyrus aukštųjų ir aukštesniųjų) ir savivaldybių mokyklų vadovų,
 
-mokytojui ir mokyklai teikiančių darbuotojų rengimo, jų kvalifikacijos
+jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų kvalifikacijos
 
-tobulinimo tvarką bei reikalavimus kvalifikacinėms kategorijoms; vadovų ir
+tobulinimo ir atestacijos nuostatus bei mokytojų, pagalbos mokiniui specialistų
 
-mokytojų atestacijos, valstybinės kalbos mokėjimo kvalifikavimo
+kvalifikacijos tobulinimo ir atestacijos nuostatus, pedagogų rengimo
 
-komisijos nuostatus;
+reglamentą, valstybinės kalbos mokėjimo kvalifikavimo komisijos nuostatus;
 
 20) rūpintis
 
@@ -3503,6 +3671,16 @@ analizuoti, ar tinkamai naudojamos švietimui skirtos biudžeto lėšos,
 atsiskaityti visuomenei už bendrąją švietimo būklę šalyje ir atlikti kitas
 
 įstatymų ir Vyriausybės nustatytas funkcijas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 57
 
@@ -3562,7 +3740,7 @@ tvarka inicijuoja apskrities savivaldos institucijų kūrimąsi;
 
 2) analizuoja
 
-bendrąją švietimo būklę apskrityje, prižiūri pavaldžių švietimo teikėjų veiklą;
+bendrąją švietimo būklę apskrityje, prižiūri švietimo teikėjų veiklą;
 
 3) steigia,
 
@@ -3570,9 +3748,7 @@ reorganizuoja ir likviduoja apskrities viršininko administracijos švietimo
 
 padalinius pagal Vyriausybės patvirtintą tipinę struktūrą, skiria švietimo
 
-inspektorius ir specialistus, suderinusi su Švietimo ir mokslo ministerija
-
-skiria švietimo padalinių vadovus;
+specialistus ir švietimo padalinių vadovus;
 
 4) formuoja
 
@@ -3592,17 +3768,27 @@ psichologines tarnybas, mokytojų švietimo centrus ir kitas), atlieka šių
 
 6) švietimo ir
 
-mokslo ministro nustatyta tvarka teikia informaciją ministerijai, Valstybinės
+mokslo ministro nustatyta tvarka teikia informaciją ministerijai apie švietimo
 
-švietimo priežiūros institucijoms apie švietimo būklę apskrityje.
+būklę apskrityje.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 59 straipsnis.
 
 Savivaldybės institucijų įgaliojimai
 
-Savivaldybės
+1. Savivaldybės
 
-institucijos:
+atstovaujamoji institucija:
 
 1) vykdo
 
@@ -3610,19 +3796,11 @@ valstybinę švietimo politiką savivaldybėje, tvirtina savivaldybės strategin
 
 švietimo planą, metines švietimo veiklos programas;
 
-2) analizuoja
+2) steigia,
 
-švietimo būklę, užtikrina valstybinės švietimo politikos vykdymą;
+reorganizuoja ir likviduoja savivaldybės administracijos švietimo padalinius;
 
-3) steigia,
-
-reorganizuoja ir likviduoja savivaldybės administracijos švietimo padalinius,
-
-skiria jų specialistus, vadovaudamasi Švietimo ministerijos nustatytais
-
-kvalifikaciniais reikalavimais skiria švietimo padalinių vadovus;
-
-4) formuoja
+3) formuoja
 
 ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo
 
@@ -3634,7 +3812,33 @@ atitinkantis profesinio mokymo ir suaugusiųjų švietimo teikėjų tinklas,
 
 savarankiškai formuoja neformaliojo švietimo teikėjų tinklą;
 
-5) Vyriausybės
+4) steigia,
+
+reorganizuoja, likviduoja ar pertvarko mokyklas bei pagalbą mokiniams,
+
+mokytojams ir mokyklai teikiančias įstaigas (pedagogines psichologines
+
+tarnybas, mokytojų švietimo centrus ir kitas).
+
+2. Savivaldybės
+
+vykdomoji institucija:
+
+1) analizuoja
+
+švietimo būklę, užtikrina valstybinės švietimo politikos vykdymą;
+
+2) vadovaudamasi
+
+švietimo ir mokslo ministro nustatytais kvalifikaciniais reikalavimais skiria
+
+švietimo padalinių vadovus ir specialistus;
+
+3) vykdo mokyklų
+
+vadovų kvalifikacijos tobulinimą ir atestaciją;
+
+4) Vyriausybės
 
 ar jos įgaliotos institucijos nustatyta tvarka organizuoja ir tvarko
 
@@ -3642,31 +3846,33 @@ savivaldybės teritorijoje gyvenančių vaikų apskaitą ir užtikrina, kad visi
 
 vaikai mokytųsi pagal privalomojo švietimo programas;
 
-6) steigia
+5) organizuoja
 
-mokyklas bei pagalbą mokiniams, mokytojams ir mokyklai teikiančias įstaigas
+savivaldybės teritorijoje esančių mokyklų mokinių pagrindinio ugdymo pasiekimų
 
-(pedagogines psichologines tarnybas, mokytojų švietimo centrus ir kitas),
+patikrinimą ir brandos egzaminus;
 
-atlieka šių įstaigų ir pavaldžių mokyklų steigėjo funkcijas;
-
-7) organizuoja
-
-savivaldybės teritorijoje esančių pagrindinių mokyklų mokinių pasiekimų
-
-vertinimą ir brandos egzaminus;
-
-8) pagal šio
+6) pagal šio
 
 Įstatymo 36 straipsnio 1 dalį užtikrina nemokamą mokinių vežiojimą į mokyklas;
 
-9) švietimo ir
+7) švietimo ir
 
 mokslo ministro nustatyta tvarka teikia informaciją ministerijai, valstybinės
 
 švietimo priežiūros institucijoms ir visuomenei apie švietimo būklę
 
 savivaldybėje.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 60 straipsnis.
 
@@ -3696,11 +3902,9 @@ mokslo metų pradžią ir trukmę neformaliojo švietimo ir nevalstybinėje
 
 mokykloje;
 
-4)
+4) steigia,
 
-vadovaudamasis Vyriausybės nustatytais kriterijais, steigia, reorganizuoja,
-
-likviduoja ir pertvarko mokyklą;
+reorganizuoja, likviduoja ir pertvarko mokyklą;
 
 5) tvirtina
 
@@ -3716,29 +3920,23 @@ mokyklos (išskyrus aukštosios) strateginiam švietimo planui, metinei veiklos
 
 programai;
 
-8) tvirtina
+8) (neteko
 
-mokyklos vadovo pareigybės (išskyrus aukštųjų mokyklų) aprašymą;
+galios);
 
 9) tvirtina
 
 mokyklos pedagoginių pareigybių (išskyrus aukštųjų mokyklų) sąrašą;
 
-10) teisės aktų
+10) (neteko
 
-nustatyta tvarka skiria ir atleidžia mokyklos (išskyrus aukštosios) vadovą.
+galios);
 
-Valstybės ir savivaldybių mokyklų vadovai skiriami atviro konkurso tvarka.
+11) švietimo ir
 
-Nevalstybinių mokyklų vadovai skiriami, renkami ir atleidžiami darbo įstatymų
+mokslo ministro nustatyta tvarka vykdo valstybinės (išskyrus aukštosios)
 
-nustatyta tvarka;
-
-11) Švietimo ir
-
-mokslo ministerijos nustatyta tvarka vykdo valstybės ir savivaldybės mokyklos
-
-vadovų atestaciją;
+mokyklos vadovo atestaciją;
 
 12) organizuoja
 
@@ -3752,13 +3950,13 @@ mokyklai ir mokytojui;
 
 13) organizuoja
 
-mokyklos (išskyrus aukštosios) vadovo, pedagogų ir kitų ugdymo procese
+pedagogų ir kitų ugdymo procese dalyvaujančių asmenų kvalifikacijos tobulinimą,
 
-dalyvaujančių asmenų kvalifikacijos tobulinimą, jų atestaciją;
+jų atestaciją;
 
-14) prižiūri
+14) teisės aktų
 
-mokyklos veiklą;
+nustatyta tvarka prižiūri mokyklos veiklą;
 
 15) organizuoja
 
@@ -3782,11 +3980,41 @@ mokyklos steigėjo funkcijų dalį gali pavesti (įgalioti) atlikti kitai
 
 institucijai.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
+
 61 straipsnis.
 
-Mokyklos vadovo įgaliojimai
+Mokyklos vadovo skyrimas ir jo įgaliojimai
 
-1. Mokyklos
+1. Valstybinės
+
+(išskyrus aukštosios) mokyklos vadovo pareigybės aprašymą tvirtina, vadovą
+
+atviro konkurso būdu pareigoms skiria ir iš jų atleidžia steigėjas.
+
+2. Savivaldybės
+
+mokyklos vadovo pareigybės aprašymas tvirtinamas, vadovas atviro konkurso būdu
+
+pareigoms skiriamas neterminuotai ir iš jų atleidžiamas teisės aktų nustatyta
+
+tvarka.
+
+3. Nevalstybinių
+
+mokyklų vadovai skiriami į pareigas ir atleidžiami iš jų įstatymų nustatyta
+
+tvarka.
+
+4. Mokyklos
 
 vadovas:
 
@@ -3828,9 +4056,19 @@ mokyklos steigėjo priskirtas funkcijas, įtvirtintas mokyklos nuostatuose ir
 
 pareigybės aprašyme.
 
-2. Aukštosios
+5. Aukštosios
 
 mokyklos vadovo įgaliojimus ir atsakomybę nustato Aukštojo mokslo įstatymas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 62 straipsnis.
 
@@ -3854,27 +4092,27 @@ visuomeninę mokyklos valdymo priežiūrą. Savivaldos institucijų įvairovę, 
 
 kompetencijas ir sudarymo principus įteisina mokyklos nuostatai (statutas).
 
-3. Mokyklos taryba
+3. Mokyklos
 
-– aukščiausioji mokyklos savivaldos institucija, atstovaujanti mokiniams,
+taryba – aukščiausioji mokyklos savivaldos institucija, atstovaujanti
 
-mokytojams, tėvams (globėjams, rūpintojams) ir vietos bendruomenei. Už savo
+mokiniams, mokytojams, tėvams (globėjams, rūpintojams) ir vietos bendruomenei.
 
-veiklą mokyklos taryba atsiskaito ją rinkusiems mokyklos bendruomenės nariams.
+Už savo veiklą mokyklos taryba atsiskaito ją rinkusiems mokyklos bendruomenės
 
-4. Mokytojų
+nariams.
 
-taryba – nuolat veikianti mokyklos (išskyrus aukštąsias mokyklas ir
+4. Mokytojų taryba – nuolat veikianti mokyklos
 
-neformaliojo švietimo mokyklas) savivaldos institucija mokytojų profesiniams
+(išskyrus aukštąsias mokyklas ir neformaliojo švietimo mokyklas) savivaldos
 
-bei bendriesiems ugdymo klausimams spręsti. Ją sudaro mokyklos vadovybė, visi
+institucija mokytojų profesiniams bei bendriesiems ugdymo klausimams spręsti.
 
-mokykloje dirbantys mokytojai, medicinos darbuotojai, psichologai, socialiniai,
+Ją sudaro mokyklos vadovybė, visi mokykloje dirbantys mokytojai, medicinos
 
-specialieji pedagogai, bibliotekininkai, kiti tiesiogiai ugdymo procese
+darbuotojai, psichologai, socialiniai, specialieji pedagogai, bibliotekininkai,
 
-dalyvaujantys asmenys.
+kiti tiesiogiai ugdymo procese dalyvaujantys asmenys.
 
 5. Mokykloje
 
@@ -3894,13 +4132,13 @@ Apskrities, savivaldybės švietimo savivaldos institucijos
 
 1. Apskrities ar
 
-savivaldybės visuomenės dalyvavimui skatinti formuojant apskrities, savivaldybės
+savivaldybės visuomenės dalyvavimui skatinti formuojant apskrities,
 
-švietimo politiką, veikti šios politikos vykdymą steigiamos apskrities ir
+savivaldybės švietimo politiką, veikti šios politikos vykdymą steigiamos
 
-savivaldybės švietimo, profesinio mokymo, specialiojo ugdymo ir kitos atskirų
+apskrities ir savivaldybės švietimo, profesinio mokymo, specialiojo ugdymo ir
 
-švietimo sričių tarybos.
+kitos atskirų švietimo sričių tarybos.
 
 2. Apskrities,
 
@@ -3928,11 +4166,11 @@ programoms ir telkia visuomenę jiems vykdyti.
 
 Valstybės švietimo savivaldos institucijos
 
-Visuomenės dalyvavimą
+Visuomenės
 
-formuojant švietimo politiką ir priimant švietimo sprendimus skatina valstybės
+dalyvavimą formuojant švietimo politiką ir priimant švietimo sprendimus skatina
 
-švietimo savivaldos institucijos:
+valstybės švietimo savivaldos institucijos:
 
 1) Lietuvos
 
@@ -3976,13 +4214,11 @@ institucija, konsultuojanti nuotolinio švietimo plėtros klausimais. Jos
 
 nuostatus tvirtina švietimo ir mokslo ministras;
 
-6) Aukštojo
+6) Aukštojo mokslo
 
-mokslo taryba yra Švietimo ir mokslo ministerijos ekspertinė institucija
+taryba yra Švietimo ir mokslo ministerijos ekspertinė institucija strateginiais
 
-strateginiais aukštojo mokslo plėtros klausimais. Jos nuostatus tvirtina
-
-Vyriausybė.
+aukštojo mokslo plėtros klausimais. Jos nuostatus tvirtina Vyriausybė.
 
 65 straipsnis.
 
@@ -4042,19 +4278,17 @@ tobulinimą.
 
 2. Švietimo
 
-teikėjų veiklą prižiūri atitinkamos valstybės institucijos ir mokyklos
+teikėjų veiklą prižiūri atitinkamos valstybės institucijos, mokyklos steigėjas,
 
-steigėjas.
+licencijuojamą švietimo veiklą – ir licenciją išduoti teikusios institucijos.
 
 3. Valstybinę
 
-švietimo teikėjų veiklos priežiūrą atlieka Švietimo ir mokslo ministerija bei
+švietimo teikėjų veiklos priežiūrą atlieka švietimo ir mokslo ministras ir
 
-apskrities viršininko administracijos valstybinės švietimo priežiūros
+apskrities viršininkas pagal Vyriausybės patvirtintus Valstybinės švietimo
 
-institucija pagal Vyriausybės patvirtintus Valstybinės švietimo priežiūros
-
-nuostatus.
+priežiūros nuostatus.
 
 4. Mokyklos
 
@@ -4067,6 +4301,16 @@ veiklos išorinio audito metodiką atlieka steigėjas.
 5. Aukštojo
 
 mokslo studijų kokybės priežiūrą atlieka Studijų kokybės vertinimo centras.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 SEPTINTASIS SKIRSNIS
 
@@ -4096,15 +4340,15 @@ Investicijos į švietimo plėtotę
 
 lygiu investicinės lėšos švietimo plėtotei (statyboms, renovacijai, žmonių
 
-išteklių plėtrai ir kt.) skiriamos pagal programas, nustatytas Valstybės biudžeto
+išteklių plėtrai ir kt.) skiriamos pagal programas, nustatytas Valstybės
 
-ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo. Vienerių
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo.
 
-metų ir ilgalaikes investicines programas švietimo srityje rengia Švietimo ir
+Vienerių metų ir ilgalaikes investicines programas švietimo srityje rengia
 
-mokslo ministerija, vadovaudamasi Valstybine švietimo strategija ir Vyriausybės
+Švietimo ir mokslo ministerija, vadovaudamasi Valstybine švietimo strategija ir
 
-programa.
+Vyriausybės programa.
 
 2. Savivaldybių
 
@@ -4136,27 +4380,33 @@ savivaldybių ir nevalstybinėms mokykloms ikimokyklinio, priešmokyklinio,
 
 pradinio, pagrindinio, vidurinio, atitinkamų specialiojo ugdymo programų,
 
-profesinio mokymo, jas papildantiems ir mokinių saviraiškos poreikius
+profesinio mokymo, formaliojo švietimo programas papildantiems ir mokinių
 
-tenkinantiems šių programų moduliams vaikų neformaliojo švietimo mokyklose
+saviraiškos poreikius tenkinantiems šių programų moduliams vaikų neformaliojo
 
-finansuoti skiriamos iš atitinkamų metų Valstybės biudžeto ir savivaldybių
+švietimo mokyklose finansuoti skiriamos iš atitinkamų metų Valstybės biudžeto
 
-biudžetų finansinių rodiklių patvirtinimo įstatyme tvirtinamų savivaldybių
+ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme tvirtinamų
 
-biudžetams valstybės biudžeto specialiųjų tikslinių dotacijų, valstybinėms
+savivaldybių biudžetams valstybės biudžeto specialiųjų tikslinių dotacijų,
 
-mokykloms – iš valstybės biudžete numatytų asignavimų.
+valstybinėms mokykloms – iš valstybės biudžete numatytų asignavimų.
 
-3. Mokyklos ūkio
+3. Mokyklos
 
-lėšas mokykloms skiria mokyklos steigėjas savo nustatyta tvarka.
+(išskyrus nevalstybines tradicinės religinės bendruomenės ar bendrijos
 
-4. Ikimokyklinio
+mokyklas, nurodytas šio straipsnio 7 dalyje) ūkio lėšas mokykloms skiria
 
-ir kito neformaliojo vaikų švietimo programų vykdymą finansuoja mokyklos
+mokyklos steigėjas savo nustatyta tvarka.
 
-steigėjas, mokiniai (jų atstovai) bei rėmėjai teisės aktų nustatyta tvarka.
+4. Neformaliojo
+
+vaikų švietimo (išskyrus ikimokyklinio ir priešmokyklinio ugdymo) programų
+
+vykdymą finansuoja mokyklos steigėjas, mokiniai (jų atstovai) bei rėmėjai
+
+teisės aktų nustatyta tvarka.
 
 5. Profesines,
 
@@ -4193,6 +4443,72 @@ priežiūra mokykloje Vyriausybės nustatyta tvarka finansuojama iš Privalomojo
 sveikatos draudimo fondo biudžeto, valstybės ir savivaldybių biudžetų ir kitų
 
 lėšų.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
+
+70
+
+straipsnis. Mokyklų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių
+
+skyrių vedėjų, mokytojų, pagalbos mokiniui specialistų darbo apmokėjimas
+
+1. Valstybinės (išskyrus aukštosios) ir
+
+savivaldybės mokyklos vadovo, jo pavaduotojo ugdymui, ugdymą organizuojančio
+
+skyriaus vedėjo pareiginė alga priklauso nuo išsilavinimo, pedagoginio darbo stažo,
+
+vadybinės kvalifikacinės kategorijos ir veiklos sudėtingumo.
+
+2. Valstybinės
+
+(išskyrus aukštosios) ir savivaldybės mokyklos mokytojo, pagalbos mokiniui
+
+specialisto pareiginė alga priklauso nuo išsilavinimo, pedagoginio darbo stažo,
+
+kvalifikacinės kategorijos, veiklos sudėtingumo.
+
+3. Valstybinių
+
+(išskyrus aukštųjų) ir savivaldybių mokyklų vadovų, jų pavaduotojų ugdymui,
+
+ugdymą organizuojančių skyrių vedėjų, mokytojų, pagalbos mokiniui specialistų
+
+ir kitų ugdymo procese dalyvaujančių darbuotojų darbo apmokėjimo tvarką nustato
+
+Vyriausybė.
+
+4. Nevalstybinių
+
+mokyklų vadovų, mokytojų ir kitų darbuotojų darbo užmokestis nustatomas
+
+vadovaujantis įstatymų nustatyta tvarka.
+
+5. Aukštosios
+
+mokyklos vadovui, dėstytojui, mokslo darbuotojui mokama už darbą atsižvelgiant
+
+į pareigas, darbo stažą ir mokslinę kvalifikaciją Aukštojo mokslo įstatymo ir
+
+kitų teisės aktų nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 70 straipsnis.
 
@@ -4232,11 +4548,13 @@ kitų teisės aktų nustatyta tvarka.
 
 Materialinė parama
 
-1. Technologinio
+1. Mokiniui,
 
-profilio, profesinės ir aukštesniosios mokyklos mokiniui ir studentui gali būti
+kuris mokosi pagal pirminio profesinio mokymo programas, ir aukštesniųjų
 
-mokama stipendija, skiriama materialinė parama Vyriausybės nustatyta tvarka.
+studijų studentui Vyriausybės nustatyta tvarka gali būti mokama stipendija,
+
+skiriama materialinė parama.
 
 2. Paramą
 
@@ -4254,13 +4572,23 @@ procese dalyvaujantiems asmenims būtų apmokėtos ne mažiau kaip 5 dienų per
 
 metus kvalifikacijos tobulinimo išlaidos.
 
-5. Mokytojas
+5. Mokyklos
 
-gali būti visiškai arba iš dalies atleidžiamas nuo gautos valstybės paskolos
+(išskyrus aukštosios) steigėjas iš jam skiriamų valstybės biudžeto bendrųjų
 
-studijoms grąžinimo arba jam atidedamas paskolos grąžinimo terminas Vyriausybės
+asignavimų gali teikti ir kitą materialinę paramą mokytojams ir kitiems ugdymo
 
-nustatyta tvarka.
+procese dalyvaujantiems specialistams.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 72 straipsnis.
 
@@ -4326,17 +4654,19 @@ už išsilavinimo pažymėjimų blankus, už asmenų, įgijusių vidurinį išsi
 
 ir pageidaujančių geriau pasirengti tolesniam mokymuisi, pakartotinį
 
-pageidaujamų bendrojo lavinimo dalykų mokymąsi, pakartotinius bendrojo lavinimo
+pageidaujamų vidurinio ugdymo programos dalykų mokymąsi, pakartotinius
 
-dalykų valstybinius ar mokyklinius egzaminus nustato švietimo ir mokslo
+valstybinius ar mokyklinius brandos egzaminus nustato švietimo ir mokslo
 
 ministras.
 
 9. Mokesčio dydį
 
-už mokyklos teikiamą neformalųjį švietimą nustato steigėjas. Mokestis mažinamas
+už mokyklos teikiamą neformalųjį švietimą (išskyrus priešmokyklinį ugdymą)
 
-atsižvelgus į mokinių gabumus ir tėvų (globėjų, rūpintojų) socialinę padėtį.
+nustato steigėjas. Mokestis mažinamas atsižvelgus į mokinių gabumus ir tėvų
+
+(globėjų, rūpintojų) socialinę padėtį.
 
 10. Aukštesniųjų
 
@@ -4351,6 +4681,16 @@ technologijų priemonėmis) ir individualios mokymosi priemonės (vadovėliai,
 konspektai ir pan.) yra mokamos. Mokesčio dydį už teikiamas paslaugas ir
 
 mokymosi priemones nustato mokyklos vadovas, suderinęs su mokyklos taryba.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
 
 AŠTUNTASIS SKIRSNIS
 
@@ -4372,13 +4712,13 @@ valstybių švietimo sistemų subjektais.
 
 2. Dalyvavimo ar kitokio
 
-bendradarbiavimo sąlygas ir tvarką nustato Lietuvos Respublikos tarptautinės
+bendradarbiavimo sąlygas ir tvarką nustato Lietuvos Respublikos tarptautinės sutartys,
 
-sutartys, Lietuvos Respublikos institucijų ir užsienio valstybių institucijų
+Lietuvos Respublikos institucijų ir užsienio valstybių institucijų susitarimai,
 
-susitarimai, kiti Lietuvos Respublikos teisės aktai, Lietuvos ir užsienio
+kiti Lietuvos Respublikos teisės aktai, Lietuvos ir užsienio valstybių švietimo
 
-valstybių švietimo įstaigų tiesioginio bendradarbiavimo susitarimai.
+įstaigų tiesioginio bendradarbiavimo susitarimai.
 
 3. Jei
 
@@ -4404,9 +4744,9 @@ valstybių bei tarptautinių organizacijų švietimo programos Lietuvos Respubli
 
 mokyklose, gavus švietimo ir mokslo ministro raštišką leidimą, gali būti
 
-vykdomos nelietuvių kalba, jas išėjusiems išduodami atitinkamų užsienio valstybių
+vykdomos nelietuvių kalba, jas išėjusiems išduodami atitinkamų užsienio
 
-arba organizacijų pažymėjimai.
+valstybių arba organizacijų pažymėjimai.
 
 DEVINTASIS SKIRSNIS
 
@@ -4644,7 +4984,21 @@ Nauja
 
 įstatymo redakcija
 
-*** Pabaiga ***
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-2292,
+
+2004-06-22, Žin., 2004, Nr. 103-3755 (2004-07-01)
+
+ŠVIETIMO
+
+ĮSTATYMO 7, 8, 10, 11, 15, 16, 29, 37, 38, 41, 42, 43, 44, 48, 49, 50, 51, 56,
+
+58, 59, 60, 61, 66, 69, 70, 71, 72 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Konstitucinio
 
@@ -4672,7 +5026,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-06-30)
+Aušra Bodin (2004-07-01)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
