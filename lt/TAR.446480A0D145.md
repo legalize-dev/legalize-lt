@@ -4,7 +4,7 @@ identifier: "TAR.446480A0D145"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-04-18"
-last_updated: "2000-09-26"
+last_updated: "2001-06-26"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145"
 department: "Lietuvos Respublikos Seimas"
@@ -7662,11 +7662,25 @@ antstoliams vykdyti.
 
 baudos išieškomi šio straipsnio 1 ir 2 dalyse nustatyta tvarka.
 
+[216
+
+straipsnis papildomas 4 dalimi nuo 2001 m. rugsėjo 1 d.:
+
+4. Muitų ir mokesčių, taip
+
+pat baudų ir delspinigių išieškojimas finansų ministro nustatyta tvarka gali
+
+būti perduotas akcinei bendrovei Turto bankui.]
+
 Straipsnio pakeitimai:
 
 Nr. VIII-1377, 99.11.04, Žin., 1999,
 
 Nr.101-2899 (99.11.26)
+
+Nr. IX-401, 2001-06-26, Žin., 2001, Nr.
+
+62-2218 (2001-07-18), įsigalioja nuo 2001-09-01
 
 XX SKYRIUS
 
@@ -8090,17 +8104,17 @@ skundą, kuris per šio kodekso taikymą reglamentuojančių teisės aktų nusta
 
 laikotarpį nebuvo išnagrinėtas arba buvo nepatenkintas, turi teisę ne vėliau
 
-kaip po 1 mėnesio nuo nurodyto laikotarpio pabaigos apskųsti teritorinės
+kaip po 1 mėnesio nuo nurodyto laikotarpio pabaigos apskųsti teritorinės muitinės
 
-muitinės priimtą sprendimą arba sprendimo nepriėmimą Muitinės departamentui
+priimtą sprendimą arba sprendimo nepriėmimą Muitinės departamentui arba
 
-arba teismui. Jei Muitinės departamentas skundo neišnagrinėja arba palieka
+teismui. Jei Muitinės departamentas skundo neišnagrinėja arba palieka galioti
 
-galioti teritorinės muitinės sprendimą, šis sprendimas arba sprendimo
+teritorinės muitinės sprendimą, šis sprendimas arba sprendimo nepriėmimas gali
 
-nepriėmimas gali būti apskųstas teismui. Muitinės departamento sprendimas arba
+būti apskųstas teismui. Muitinės departamento sprendimas arba sprendimo
 
-sprendimo nepriėmimas taip pat gali būti apskųstas teismui.
+nepriėmimas taip pat gali būti apskųstas teismui.
 
 230
 
@@ -8328,8 +8342,6 @@ m. spalio 1 d.
 
 Pakeitimai:
 
-1)
-
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. VIII-1966, 00.09.26, Žin., 2000,
@@ -8344,11 +8356,31 @@ MUITINĖS KODEKSO 2, 38, 39, 113,
 
 SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMO 25 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+3.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. IX-401, 2001-06-26, Žin., 2001, Nr.
+
+62-2218 (2001-07-18)
+
+MUITINĖS KODEKSO 216
+
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2001
+
+m. rugsėjo 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė
+Redagavo: Aušra
 
-Trapinskienė (2000.10.16)
+Petraitienė (2001-07-18)
+
+aupetr@lrs.lt
 
 169 straipsnis. Gamybos, prekybos ar
 
