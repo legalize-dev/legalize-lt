@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "1992-04-30"
+last_updated: "1993-03-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1992-04-30 iki 1993-03-10
+Suvestinė redakcija nuo 1993-03-11 iki 1993-10-12
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -195,11 +195,13 @@ Rezervinio kapitalo fondą sudaro privalomi atskaitymai iš pelno. Rezervinio ka
 
 6. Pajai ir jų kasmetinis padidėjimas (sumažėjimas) registruojamas pajininkų turto apskaitos dokumentuose. Pajininkas turi teisę bet kada susipažinti su turto apskaitos dokumentais ir gauti jų išrašus.
 
-7. Neteko galios nuo 1992-04-30.
+7. Pajai negali būti pardavinėjami ir perkami per biržos įstaigas ir aukcionuose;
 
 Straipsnio dalies pakeitimai:
 
 Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992, Nr. 14-386 (1992-05-20), i. k. 0921010ISTA00I-2523
+
+Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
 
 8. Sugrąžinus asmeniui pajų ar jo dalį natūra ar pinigais, jo verte sumažinamas bendrovės pagrindinis kapitalas.
 
@@ -275,6 +277,12 @@ BENDROVĖS NARIŲ TEISĖS IR PAREIGOS
 
 2. Bendrovės narys savo pajų ar jo dalį pirkimo-pardavimo, dovanojimo, paveldėjimo ir kitais būdais gali perleisti kitam bendrovės nariui arba trečiajam asmeniui šio įstatymo ir bendrovės įstatuose nustatyta tvarka.
 
+Pajaus ar jo dalies (pinigais) perleidimo kitam bendrovės nariui arba trečiajam asmeniui sutartis leidžiama tvirtinti apylinkės (valsčiaus) viršaičiui. Mokestis už tokių sutarčių tvirtinimą – 0,5 procento perleidžiamo pajaus vertės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
+
 3. Bendrovės narys turi pirmumo teisę dirbti bendrovėje.
 
 4. Bendrovės narių ir samdomų asmenų darbo santykius su bendrove reguliuoja samdos ir kiti darbo įstatymai.
@@ -303,9 +311,13 @@ Nutarimai priimami paprasta balsų dauguma, jeigu šiame įstatyme ar bendrovės
 
 3. Narys visais atvejais turi teisę gauti, o bendrovė privalo išmokėti pinigais ar natūra jam priklausantį pajų. Išstodamas iš bendrovės, narys turi teisę susigrąžinti nekilnojamąjį turtą, įskaitant ir žemę. Nariui, pareiškusiam norą išstoti iš bendrovės ir steigiančiam ūkininko ūkį, jo pageidavimu, pajus (pirmiausia nario materialinis įnašas) Lietuvos Respublikos Vyriausybės nustatyta tvarka grąžinamas natūra. Kitas nario išstojimo iš bendrovės ir atsiskaitymo sąlygas bei terminus nustato bendrovės įstatai.
 
+Išstojantis iš bendrovės ir steigiantis ūkininko ūkį narys arba narių grupė, steigianti kitą žemės ūkio įmonę, turi teisę gauti iš bendrovės natūra (technikos, gyvulių, apyvartinio ar kito turto) arba pinigais turto dalį, proporcingą jo pajaus dydžiui.
+
 Straipsnio dalies pakeitimai:
 
 Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992, Nr. 14-386 (1992-05-20), i. k. 0921010ISTA00I-2523
+
+Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
 
 4. Narys, pažeidžiantis šiame įstatyme ir bendrovės įstatuose nustatytas pareigas, susirinkimo nutarimu gali būti iš bendrovės pašalintas. Nutarimas dėl pašalinimo gali būti skundžiamas teismui.
 
@@ -490,4 +502,12 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992, Nr. 14-386 (1992-05-20), i. k. 0921010ISTA00I-2523
 
 Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo papildymo ir pakeitimo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
+
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
 
