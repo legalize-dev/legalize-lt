@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "1996-01-01"
+last_updated: "1997-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 1996-01-01 iki 1997-07-08
+Suvestinė redakcija nuo 1997-07-09 iki 1998-06-30
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -63,11 +63,15 @@ Parama yra teikiama siekiant:
 
 4) remti kitą socialiai naudingą veiklą bei programas, kurias skelbia Lietuvos Respublikos Vyriausybė.
 
-Remiamos šio straipsnio antrojoje dalyje nurodytos programos, kurioms pritaria ar kurias tvirtina Lietuvos Respublikos Vyriausybė, ministerijos, apskričių valdytojai, vietos savivaldos institucijos ar tvirtina nevalstybinių organizacijų aukščiausieji valdymo organai. Programose turi būti numatyti tikslai, įgyvendinimo būdai ir priemonės, vykdytojai ir finansavimo šaltiniai.
+Remiamos šio straipsnio antrojoje dalyje nurodytos programos, kurioms pritaria ar kurias tvirtina Lietuvos Respublikos Vyriausybė, ministerijos, apskričių viršininkai, vietos savivaldos institucijos ar tvirtina nevalstybinių organizacijų aukščiausieji valdymo organai. Programose turi būti numatyti tikslai, įgyvendinimo būdai ir priemonės, vykdytojai ir finansavimo šaltiniai.
 
 Papildyta straipsnio dalimi:
 
 Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-311, 1997-06-26, Žin., 1997, Nr. 65-1541 (1997-07-09), i. k. 0971010ISTAVIII-311
 
 3 straipsnis. Labdaros ir paramos pripažinimas
 
@@ -270,4 +274,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
 
 Dėl Lietuvos Respublikos labdaros ir paramos įstatymo pakeitimo ir papildymo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-311, 1997-06-26, Žin., 1997, Nr. 65-1541 (1997-07-09), i. k. 0971010ISTAVIII-311
+
+Lietuvos Respublikos labdaros ir paramos įstatymo 2 straipsnio pakeitimo įstatymas
 
