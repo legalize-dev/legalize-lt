@@ -4,7 +4,7 @@ identifier: "TAR.C44837068B55"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-19"
-last_updated: "2001-05-22"
+last_updated: "2001-12-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C44837068B55"
 department: "Lietuvos Respublikos Seimas"
@@ -47,9 +47,9 @@ Nauja
 
 įstatymo redakcija:
 
-Nr. VIII-903,
+Nr. VIII-903, 98.10.20,
 
-98.10.20, Žin., 1998, Nr.96-2658 (98.11.04)
+Žin., 1998, Nr.96-2658 (98.11.04)
 
 PIRMASIS
 
@@ -101,20 +101,6 @@ Lietuvos banko išduotą licenciją.
 
 5. Finansinės
 
-įstaigos - draudimo įmonės ir draudimo brokeriai, investicinės kintamojo
-
-kapitalo bendrovės, investicinių bendrovių valdymo įmonės ir depozitoriumai,
-
-finansų maklerių įmonės, investicijų valdymo bei konsultavimo įmonės. Lombardo
-
-ir pašto veikla šiame įstatyme prilyginama finansinės įstaigos veiklai.
-
-[5 dalies redakcija nuo 2001 m. liepos 1
-
-d.:
-
-5. Finansinės
-
 įstaigos – draudimo įmonės ir draudimo brokeriai, investicinės kintamojo
 
 kapitalo bendrovės, investicinių bendrovių valdymo įmonės ir depozitoriumai,
@@ -123,21 +109,27 @@ finansų maklerių įmonės, investicijų valdymo bei konsultavimo įmonės. Lom
 
 azartinius lošimus organizuojančios bendrovės ir pašto veikla šiame įstatyme
 
-prilyginama finansinės įstaigos veiklai.]
+prilyginama finansinės įstaigos veiklai.
+
+[5 dalies redakcija nuo 2002 m.
+
+balandžio 1 d.:
+
+5. Finansinės įstaigos – draudimo įmonės ir draudimo brokeriai, investicinės kintamojo kapitalo bendrovės, investicinių bendrovių valdymo įmonės ir depozitoriumai, finansų maklerių įmonės. Lombardo, azartinius lošimus organizuojančios bendrovės ir pašto veikla šiame įstatyme prilyginama finansinės įstaigos veiklai.]
 
 6. Klientas
 
 - juridinis ar fizinis asmuo ar įmonė, neturinti juridinio asmens teisių,
 
-atliekanti operacijas pinigais su kredito ar finansine įstaiga ar kitu
+atliekanti operacijas pinigais su kredito ar finansine įstaiga ar kitu juridiniu
 
-juridiniu asmeniu arba įmone, neturinčia juridinio asmens teisių, išskyrus
+asmeniu arba įmone, neturinčia juridinio asmens teisių, išskyrus valstybės ir
 
-valstybės ir savivaldos institucijas, kitas biudžetines įstaigas, Lietuvos
+savivaldos institucijas, kitas biudžetines įstaigas, Lietuvos banką bei
 
-banką bei valstybės ar savivaldybės fondus, užsienio valstybių diplomatines
+valstybės ar savivaldybės fondus, užsienio valstybių diplomatines atstovybes ar
 
-atstovybes ar konsulines įstaigas.
+konsulines įstaigas.
 
 7. Operacijos
 
@@ -165,6 +157,12 @@ Nr. IX-335,
 
 2001-05-22, Žin., 2001, Nr. 48-1659 (2001-06-06), įsigalioja nuo 2001-07-01
 
+Nr.
+
+IX-660,
+
+2001-12-17, Žin., 2001, Nr. 112-4079 (2001-12-30), įsigalioja nuo 2002-04-01
+
 ANTRASIS
 
 SKIRSNIS
@@ -175,9 +173,7 @@ INSTITUCIJOS, ATSAKINGOS UŽ PINIGŲ PLOVIMO PREVENCIJOS PRIEMONIŲ ĮGYVENDINIM
 
 3 straipsnis.
 
-Valstybės institucijos, atsakingos už pinigų plovimo prevencijos
-
-priemonių
+Valstybės institucijos, atsakingos už pinigų plovimo prevencijos priemonių
 
 įgyvendinimą
 
@@ -217,15 +213,17 @@ registruoja šiame įstatyme nurodytą informaciją apie kliento operacijas
 
 pinigais ir klientą, atliekantį šias operacijas;
 
-2) renka ir analizuoja
+2) renka ir
 
-informaciją, susijusią su pinigų plovimo prevencijos priemonių įgyvendinimu;
+analizuoja informaciją, susijusią su pinigų plovimo prevencijos priemonių
 
-3) teikia
+įgyvendinimu;
 
-informaciją teisėsaugos ir kitoms valstybės institucijoms šių motyvuotu
+3) teikia informaciją
 
-reikalavimu apie kliento atliekamas operacijas pinigais;
+teisėsaugos ir kitoms valstybės institucijoms šių motyvuotu reikalavimu apie
+
+kliento atliekamas operacijas pinigais;
 
 4) atlieka kvotą
 
@@ -281,9 +279,9 @@ prevencijos priemonių įgyvendinimu;
 
 valstybės institucijų, kredito ir finansinių įstaigų, kitų juridinių asmenų ir
 
-įmonių, neturinčių juridinio asmens teisių, informaciją, susijusią su pinigų plovimo
+įmonių, neturinčių juridinio asmens teisių, informaciją, susijusią su pinigų
 
-prevencijos priemonių įgyvendinimu;
+plovimo prevencijos priemonių įgyvendinimu;
 
 4) koordinuoti
 
@@ -371,11 +369,11 @@ klientų sudaromi sandoriai gali būti susiję su pinigų plovimu, privalo klien
 
 tapatybę patvirtinančius duomenis ir 12 straipsnio 1 dalyje nurodytą
 
-informaciją apie sudarytą sandorį nedelsdami, bet ne vėliau kaip per 3 darbo dienas
+informaciją apie sudarytą sandorį nedelsdami, bet ne vėliau kaip per 3 darbo
 
-nuo sandorio patvirtinimo dienos, pateikti mokesčių policijai nepaisant pagal
+dienas nuo sandorio patvirtinimo dienos, pateikti mokesčių policijai nepaisant
 
-sandorį kliento gaunamos ar mokamos pinigų sumos dydžio.
+pagal sandorį kliento gaunamos ar mokamos pinigų sumos dydžio.
 
 3. Kriterijus,
 
@@ -465,31 +463,31 @@ Informacijos pateikimas mokesčių policijai
 
 finansinės įstaigos, atliekančios operacijas pinigais, privalo kliento tapatybę
 
-patvirtinančius duomenis ir informaciją apie atliktą operaciją pinigais
+patvirtinančius duomenis ir informaciją apie atliktą operaciją pinigais pateikti
 
-pateikti mokesčių policijai, jeigu kliento vienkartinės operacijos pinigais
+mokesčių policijai, jeigu kliento vienkartinės operacijos pinigais arba kelių
 
-arba kelių tarpusavyje susijusių operacijų suma viršija 50 000 litų arba ją
+tarpusavyje susijusių operacijų suma viršija 50 000 litų arba ją atitinkančią
 
-atitinkančią sumą užsienio valiuta. Notarai ar asmenys, turintys teisę atlikti
+sumą užsienio valiuta. Notarai ar asmenys, turintys teisę atlikti notarinius
 
-notarinius veiksmus, privalo kliento tapatybę patvirtinančius duomenis ir
+veiksmus, privalo kliento tapatybę patvirtinančius duomenis ir informaciją apie
 
-informaciją apie kliento sudarytą sandorį pranešti mokesčių policijai, jei
+kliento sudarytą sandorį pranešti mokesčių policijai, jei pagal sandorį gaunama
 
-pagal sandorį gaunama ar mokama pinigų suma viršija 50 000 litų ar ją
+ar mokama pinigų suma viršija 50 000 litų ar ją atitinkančią sumą užsienio
 
-atitinkančią sumą užsienio valiuta. Mokesčių policijai pateikiamoje
+valiuta. Mokesčių policijai pateikiamoje informacijoje nurodomi kliento
 
-informacijoje nurodomi kliento tapatybę patvirtinantys duomenys; jeigu
+tapatybę patvirtinantys duomenys; jeigu operacija pinigais atliekama per
 
-operacija pinigais atliekama per atstovą, - ir atstovo tapatybę patvirtinantys
+atstovą, - ir atstovo tapatybę patvirtinantys duomenys; operacijos pinigais
 
-duomenys; operacijos pinigais suma; valiuta, kuria atlikta operacija pinigais;
+suma; valiuta, kuria atlikta operacija pinigais; operacijos pinigais atlikimo
 
-operacijos pinigais atlikimo data; operacijos pinigais atlikimo būdas;
+data; operacijos pinigais atlikimo būdas; subjektas, kurio naudai atlikta
 
-subjektas, kurio naudai atlikta operacija pinigais.
+operacija pinigais.
 
 2. Draudimo
 
@@ -549,17 +547,9 @@ straipsnio 6 dalyje nurodyta išimtis netaikoma, jeigu kredito ar finansinės
 
 paslaugų teikimu, advokato praktika, notaro veikla;
 
-2) loterijų,
-
-bingo organizavimu ir vykdymu;
-
-[7 dalies 2 punkto redakcija nuo 2001 m.
-
-liepos 1 d.:
-
 2) loterijų
 
-organizavimu ir vykdymu;]
+organizavimu ir vykdymu;
 
 3) veikla,
 
@@ -623,9 +613,11 @@ pinigų sumų kontrolę Vyriausybės nustatyta tvarka.
 
 įstaigos privalo registruoti kiekvieną grynųjų pinigų įvežimo į Lietuvos
 
-Respubliką ir išvežimo iš jos atvejį, jeigu įvežamų arba išvežamų grynųjų pinigų
+Respubliką ir išvežimo iš jos atvejį, jeigu įvežamų arba išvežamų grynųjų
 
-vienkartinė suma viršija 10 000 litų ar ją atitinkančią sumą užsienio valiuta.
+pinigų vienkartinė suma viršija 10 000 litų ar ją atitinkančią sumą užsienio
+
+valiuta.
 
 3. Muitinės
 
@@ -653,9 +645,7 @@ tarptautinių sutarčių numatytus atvejus.
 
 14 straipsnis.
 
-Asmenys, kredito ir finansinėse įstaigose atsakingi už pinigų
-
-plovimo
+Asmenys, kredito ir finansinėse įstaigose atsakingi už pinigų plovimo
 
 prevencijos priemonių įgyvendinimą
 
@@ -806,6 +796,24 @@ PLOVIMO PREVENCIJOS ĮSTATYMO 2, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMA
 Šis
 
 įstatymas įsigalioja nuo 2001 m. liepos 1 d.
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-660,
+
+2001-12-17, Žin., 2001, Nr. 112-4079 (2001-12-30)
+
+PINIGŲ
+
+PLOVIMO PREVENCIJOS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Įstatymas
+
+įsigalioja nuo 2002 m. balandžio 1 d.
 
 ***
 
