@@ -4,7 +4,7 @@ identifier: "TAR.B3CC2C0B9BD2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-21"
-last_updated: "1997-11-19"
+last_updated: "2000-07-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vandens įstatymas
+
+Suvestinė redakcija nuo 2000-07-26 iki 2003-04-15
+
+Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
 
 LIETUVOS RESPUBLIKOS VANDENS ĮSTATYMAS
 
@@ -294,7 +298,11 @@ Juridiniai ir fiziniai asmenys, kurie tiesiogiai naudoja vandens išteklius ir t
 
 3. Dirbtinių paviršinio vandens telkinių (melioracijos kanalų, žuvininkystės tvenkinių, kūdrų ir kt.) vandens kokybė turi būti tokia, kad nepakeistų telkinių, į kuriuos įteka, kategorijos.
 
-4. Valstybinės reikšmės paviršiniai vandens telkiniai žuvininkystei nenuomojami. Kitų valstybinio vidaus vandenų fondo paviršinio vandens telkinių nuomos žuvininkystei bei leidimų žvejybai išdavimo tvarką nustato Vyriausybė.
+4. Valstybinio vidaus vandenų fondo paviršinio vandens telkinių naudojimo žuvininkystei tvarką nustato bei nenuomotinų vandens telkinių sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1807, 2000-07-05, Žin., 2000, Nr. 61-1816 (2000-07-26), i. k. 1001010ISTAIII-1807
 
 5. Išnuomojant valstybinio vidaus vandenų fondo paviršinius vandens telkinius žuvininkystei, žemė po vandeniu neišnuomojama.
 
@@ -549,4 +557,14 @@ Lietuvos Respublikos vandens kodeksą (Žin., 1972, Nr. 36-290; 1973, Nr. 3-23; 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1807, 2000-07-05, Žin., 2000, Nr. 61-1816 (2000-07-26), i. k. 1001010ISTAIII-1807
+
+Lietuvos Respublikos vandens įstatymo 21 straipsnio pakeitimo įstatymas
 
