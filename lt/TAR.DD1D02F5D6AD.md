@@ -4,7 +4,7 @@ identifier: "TAR.DD1D02F5D6AD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-07"
-last_updated: "1993-03-01"
+last_updated: "1994-04-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DD1D02F5D6AD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Dėl darbuotojų pirmenybės įsigyti privatizuojamų įmonių akcijų
 
-Suvestinė redakcija nuo 1993-03-01 iki 1994-04-28
+Suvestinė redakcija nuo 1994-04-29 iki 1994-06-14
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 71-0; Žin. 1992, Nr.12-310, i. k. 0921010ISTA00I-2456
 
@@ -47,9 +47,13 @@ Pagal šį įstatymą parduodamos akcijos, kurių nominali vertė kartu su anks�
 
 Pagal šį įstatymą parduodamų paprastųjų vardinių akcijų kaina yra lygi jų nominaliai vertei, o privilegijuotų akcijų kaina lygi akcijos nominaliai vertei, padidintai puse skirtumo tarp nustatytos pradinės akcijos pardavimo kainos pirmajame akcijų pasirašymo etape ir akcijos nominalios vertės.
 
+Privilegijuotos akcijos be balsavimo teisės į paprastas vardines akcijas negali būti keičiamos žemės ūkio aptarnavimo ir žemės ūkio produkcijos perdirbimo įmonėse, kuriose akcijas lengvatinėmis sąlygomis gali įsigyti žemės ūkio produkcijos gamintojai.
+
 Straipsnio pakeitimai:
 
 Nr. I-58, 1993-01-28, Žin., 1993, Nr. 5-91 (1993-02-20), i. k. 0931010ISTA0000I-58
+
+Nr. I-438, 1994-04-21, Žin., 1994, Nr. 32-569 (1994-04-29), i. k. 0941010ISTA000I-438
 
 4 straipsnis
 
@@ -86,4 +90,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-59, 1993-02-01, Žin., 1993, Nr. 6-112 (1993-02-28), i. k. 0931010ISTA0000I-59
 
 Dėl Lietuvos Respublikos įstatymo "Dėl darbuotojų pirmenybės įsigyti privatizuojamų įmonių akcijų" pakeitimo
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-438, 1994-04-21, Žin., 1994, Nr. 32-569 (1994-04-29), i. k. 0941010ISTA000I-438
+
+Dėl Lietuvos Respublikos įstatymo "Dėl darbuotojų pirmenybės įsigyti privatizuojamų įmonių akcijų" papildymo
 
