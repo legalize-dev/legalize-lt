@@ -4,7 +4,7 @@ identifier: "TAR.F960F4CF3005"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "1997-12-19"
+last_updated: "1998-12-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas
 
-Redagavo: Ramunė Lūžaitė (1998.01.10)
+Redagavo: Ramunė Lūžaitė (1998.12.22)
 
 Įstatymas paskelbtas: žin., 1997,
 
@@ -31,9 +31,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-544,
+Nr.
 
-97.12.02, Žin., 1997, Nr.116-2953 (97.12.19)
+VIII-544, 97.12.02, Žin., 1997, Nr.116-2953 (97.12.19)
 
 LIETUVOS
 
@@ -41,9 +41,27 @@ RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14
 
 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-*** Pabaiga ***
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-948, 98.12.03,
+
+Žin., 1998, Nr.111 (98.12.18)
 
 LIETUVOS RESPUBLIKOS
+
+SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAPILDYMO 12(1)
+
+STRAIPSNIU IR 9, 13, 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+LIETUVOS
+
+RESPUBLIKOS
 
 SAVIVALDYBIŲ
 
@@ -97,11 +115,9 @@ Savivaldybių biudžetams priskiriamos šios mokestinės
 
 pajamos:
 
-1) fizinių asmenų pajamų mokestis, atskaičius
+1) fizinių asmenų pajamų mokestis, atskaičius privalomojo
 
-privalomojo sveikatos draudimo fondui pagal Sveikatos draudimo įstatymą skirtas
-
-lėšas;
+sveikatos draudimo fondui pagal Sveikatos draudimo įstatymą skirtas lėšas;
 
 2) žemės mokestis;
 
@@ -251,9 +267,9 @@ procentais;
 
 3) C - planuojamų biudžetinių metų specialios
 
-tikslinės dotacijos iš valstybės biudžeto. Savivaldybių biudžetams skiriamos
+tikslinės dotacijos iš valstybės biudžeto. Savivaldybių biudžetams gali būti
 
-šios specialios tikslinės dotacijos:
+skiriamos šios specialios tikslinės dotacijos:
 
 a) asignavimai, skirti kompensacijoms už valstybės
 
@@ -272,6 +288,12 @@ d) asignavimai gyvenamiesiems namams, butams statyti
 ir pirkti pagal Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą;
 
 e) kitos tikslinės lėšos iš valstybės biudžeto.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-948, 98.12.03,
+
+Žin., 1998, Nr.111 (98.12.18)
 
 10 straipsnis. Valstybės biudžeto bendrosios
 
@@ -317,9 +339,9 @@ procentais.
 
 rezervui nenumatytiems atvejams sudaryti (D1) skiriama toms
 
-savivaldybėms, kurių gautos mokestinės pajamos yra mažesnės, negu buvo
+savivaldybėms, kurių gautos mokestinės pajamos yra mažesnės, negu buvo prognozuota
 
-prognozuota gauti mokestinių pajamų biudžetiniais metais.
+gauti mokestinių pajamų biudžetiniais metais.
 
 3. Savivaldybei skiriama šios dotacijos dalis
 
@@ -397,6 +419,34 @@ savivaldybių, gaunančių dotaciją, skaičius;
 
 kiekvienos savivaldybės gaunamos dotacijos dalis.
 
+12(1) straipsnis. Lėšų,
+
+skiriamų savivaldybių prognozuojamoms                planuojamų biudžetinių
+
+metų pajamoms išlyginti, dydžio nustatymas
+
+Jei pagal šio įstatymo 9 straipsnį apskaičiuojama
+
+valstybės biudžeto bendroji dotacija savivaldybių mokestinėms pajamoms
+
+išlyginti nesusidaro arba jos dalies nepakanka mokestinėms pajamoms išlyginti
+
+pagal šio įstatymo 12 straipsnį, o kai kurioms savivaldybėms apskaičiuotas
+
+prognozuojamas planuojamų biudžetinių metų pajamų be specialių tikslinių
+
+dotacijų kapitalo investicijoms dydis yra mažesnis už apskaičiuotą iki
+
+planuojamų biudžetinių metų tokių pajamų dydį, šioms pajamoms išlyginti
+
+sudaromos lėšos iš fizinių asmenų pajamų mokesčio atskaitymų.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-948, 98.12.03,
+
+Žin., 1998, Nr.111 (98.12.18)
+
 13 straipsnis. Lėšų, skiriamų savivaldybių išlaidų
 
 struktūros
@@ -447,21 +497,31 @@ c) xi - prognozuojamos i-tosios
 
 savivaldybės mokestinės pajamos vienam gyventojui;
 
-d) k - koeficientas, nuo kurio priklauso
+d) k - koeficientas, nuo kurio priklauso savivaldybių,
 
-savivaldybių, kurioms koreguojamos mokestinės pajamos, skaičius;
+kurioms koreguojamos mokestinės pajamos, skaičius;
 
 e) h - išlyginimo koeficientas, nuo kurio priklauso
 
 kiekvienai savivaldybei koreguojamų mokestinių pajamų dalis.
 
-2. Valstybinė mokesčių inspekcija koreguojamą
+2. Prognozuojamos mokestinės pajamos vienam
+
+gyventojui apskaičiuojamos be šio įstatymo 12(1) straipsnyje nustatytų lėšų.
+
+3. Valstybinė mokesčių inspekcija koreguojamą
 
 mokestinių pajamų dalį (Pi), apskaičiuojamą kaip fizinių asmenų
 
 pajamų mokesčio atskirose savivaldybėse dalį procentais, perveda į valstybės
 
 iždo sąskaitą.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-948, 98.12.03,
+
+Žin., 1998, Nr.111 (98.12.18)
 
 14 straipsnis. Lėšų, skiriamų savivaldybių išlaidų
 
@@ -569,9 +629,9 @@ kiekvienai savivaldybei koreguojamų mokestinių pajamų dalis;
 
 6) koeficientus Mr, nurodančius
 
-demografinių, socialinių ir kitų rodiklių svarbą bendram visų savivaldybių
+demografinių, socialinių ir kitų rodiklių svarbą bendram visų savivaldybių biudžetų
 
-biudžetų išlaidų pasikeitimui;
+išlaidų pasikeitimui;
 
 7) nemokestinių pajamų dydį, kaip fiksuotą
 
@@ -603,11 +663,19 @@ išlyginti;
 
 4) specialias tikslines dotacijas, skiriamas
 
-savivaldybėms.
+savivaldybėms;
 
-2. Patvirtintos dotacijų sumos, nurodytos šio
+5) fizinių asmenų pajamų mokesčio atskaitymų dalį
 
-straipsnio 1 dalyje, savivaldybėms pervedamos kas mėnesį lygiomis dalimis.
+procentais, skiriamą savivaldybių pajamoms išlyginti;
+
+6) lėšų dalį, skiriamą kiekvienai savivaldybei
+
+pajamoms išlyginti.
+
+2. Patvirtintos dotacijų ir lėšų sumos, nurodytos
+
+šio straipsnio 1 dalyje, savivaldybėms pervedamos kas mėnesį lygiomis dalimis.
 
 3. Faktiškai įplaukusios lėšos, nurodytos 13
 
@@ -632,6 +700,12 @@ priima sprendimus, dėl kurių keičiasi savivaldybių funkcijos, kartu ir
 išlaidos, ne vėliau kaip per mėnesį daromi atitinkami tarpusavio atsiskaitymai
 
 tarp valstybės biudžeto ir savivaldybių biudžetų.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-948, 98.12.03,
+
+Žin., 1998, Nr.111 (98.12.18)
 
 PENKTASS
 
@@ -668,84 +742,4 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą
 RESPUBLIKOS PREZIDENTAS                                  ALGIRDAS
 
 BRAZAUSKAS
-
-91 straipsnis. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai
-
-1. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai yra išlyginimo koeficientas h, nuo kurio priklauso kiekvienos savivaldybės gaunamų lėšų gyventojų pajamų mokesčiui išlyginti dalis; kiekvienos savivaldybės biudžetui skiriama gyventojų pajamų mokesčio dalis (procentais), patvirtinta atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme; taip pat šie demografiniai, socialiniai ir kiti rodikliai bei jų koeficientai, nurodantys šių rodiklių įtaką savivaldybių išlaidų struktūrų skirtumų pasikeitimui:
-
-1) rodiklis R1 – inventorizuotų vietinių kelių ir gatvių ilgis, kurio koeficientas K1 lygus 0,13;
-
-2) rodiklis R2 – savivaldybės teritorijos plotas, kurio koeficientas K2 lygus 0,17;
-
-3) rodiklis R3 – pensinio amžiaus gyventojų skaičius, kurio koeficientas K3 lygus 0,13;
-
-4) rodiklis R4 – vaikų nuo 7 iki 17 metų skaičius, kurio koeficientas K4 lygus 0,11;
-
-5) rodiklis R5 – vaikų nuo 0 iki 6 metų skaičius, kurio koeficientas K5 lygus 0,25;
-
-6) rodiklis R6 – savivaldybei priklausančių (iš savivaldybės biudžeto finansuojamų) švietimo įstaigų patalpų bendras plotas, kurio koeficientas K6 lygus 0,13;
-
-7) rodiklis R7 – savivaldybės teritorijos užstatytas plotas, kurio koeficientas K7 lygus 0,04;
-
-8) rodiklis R8 – savivaldybės teritorijoje esančių gyvenamųjų vietovių, kurioms suteiktas kurorto statusas, bendras plotas, kurio koeficientas K8 lygus 0,035;
-
-9) rodiklis R9 – savivaldybės teritorijoje esančių gyvenamųjų vietovių, kurioms suteiktas kurortinės teritorijos statusas, bendras plotas, kurio koeficientas K9 lygus 0,005.
-
-2. Savivaldybės gyventojų skaičius ir šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodyti rodikliai nustatomi pagal einamųjų biudžetinių metų sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje šio tvarkytojo nuostatuose nustatyta tvarka ir terminais. Šio straipsnio 1 dalies 1, 2, 6, 7, 8 ir 9 punktuose nurodyti rodikliai nustatomi pagal duomenis, paskelbtus praėjusių biudžetinių metų statistiką tvarkančių institucijų, įstaigų leidinių duomenų bazėse.
-
-TAR pastaba. 91 straipsnio nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-
-Papildyta straipsniu:
-
-Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
-
-101 straipsnis. Finansinio rodiklio verslo plėtros sąlygoms gerinti dydis ir sumos, apskaičiuotos taikant šį dydį, paskirstymas savivaldybėms
-
-1. Atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti numatomas finansinis rodiklis verslo plėtros sąlygoms gerinti, savivaldybėms skatinti už verslo plėtros sąlygų sudarymą. Šio rodiklio dydis apskaičiuojamas pagal formulę:
-
-GPMskatinti = GPMVBGPMn+1 × 0,005,
-
-čia GPMVBGPMn+1 – ateinančių biudžetinių metų prognozuojama gyventojų pajamų mokesčio suma, tenkanti valstybės biudžetui. Šis dydis neskaičiuojamos, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė (ekonomikos sunkmečiu).
-
-2. Apskaičiuota taikant šio straipsnio 1 dalyje nurodyto rodiklio dydį suma paskirstoma savivaldybėms, neturinčioms savaiminio ekonominio augimo požymių, atsižvelgiant į tai, kokiai grupei pagal teritorijoms keliamus ekonominio augimo tikslus priskirta savivaldybė ir koks tai grupei apskaičiuotas svorio (svarbos) koeficientas. Savivaldybių priskyrimo grupėms metodiką ir tvarką nustato Vyriausybė ar jos įgaliota institucija. Konkrečių savivaldybių grupės nustatomos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme. Savivaldybėms ši suma paskirstoma pagal formulę:
-
-Si = PDUFi × GPMskatinti × SGkni, čia:
-
-1) Si – i-ajai savivaldybei prognozuojama gyventojų pajamų mokesčio suma;
-
-2) PDUFi – perskaičiuotas DDUFi koeficientas, nurodantis i-ajai savivaldybei tenkančią teigiamo darbo užmokesčio fondo pokyčio dalį toje savivaldybių grupėje;
-
-3) SGkni – savivaldybių n-osios grupės svorio (svarbos) koeficientas, apskaičiuojamas pagal formulę:
-
-SGkni = (ΣGyvskSGni / ΣGyvskni + ΣPajamosSGni / ΣPajamosni) / 2, čia:
-
-ΣGyvskSGni – savivaldybių n-osios grupės i-ųjų savivaldybių gyventojų skaičiaus suma;
-
-ΣGyvskni – savivaldybių n-ųjų grupių i-ųjų savivaldybių gyventojų skaičiaus suma;
-
-ΣPajamosSGni – savivaldybių n-osios grupės i-ųjų savivaldybių prognozuojamų pajamų, nustatytų einamųjų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme, suma, sumažinta sumomis savivaldybėms skatinti už verslo plėtros sąlygų sudarymą;
-
-ΣPajamosni – savivaldybių n-ųjų grupių i-ųjų savivaldybių prognozuojamų pajamų, nustatytų einamųjų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme, suma, sumažinta sumomis savivaldybėms skatinti už verslo plėtros sąlygų sudarymą.
-
-3. Koeficientas DDUFi apskaičiuojamas pagal formulę:
-
-DDUFi = △Riteig / Σ△Riteig, čia:
-
-1) △Riteig – teigiamo darbo užmokesčio fondo rodiklio pokytis i-ojoje savivaldybėje n – 1 metais, palyginti su n – 2 metais;
-
-2) Σ△Riteig – teigiamo darbo užmokesčio fondo rodiklio pokyčio visose savivaldybėse n – 1 metais, palyginti su n – 2 metais, suma.
-
-4. Darbo užmokesčio fondo rodiklis apskaičiuojamas naudojant statistiką tvarkančių institucijų ir įstaigų duomenis pagal formulę:
-
-DUFi = DSi × VMBDUi × 12, čia:
-
-1) DSi – i-osios savivaldybės vidutinis sąlyginis darbuotojų skaičius veikiančiose įmonėse, įstaigose ir organizacijose, įskaitant individualiąsias įmones, n – 1, n – 2 metais;
-
-2) VMBDUi – i-osios savivaldybės vidutinis mėnesinis bruto darbo užmokestis veikiančiose įmonėse, įstaigose ir organizacijose, įskaitant individualiąsias įmones, n – 1, n – 2 metais.
-
-TAR pastaba. 101 straipsnio nuostatos taikomos rengiant Lietuvos Respublikos 2020 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-
-Papildyta straipsniu:
-
-Nr. XIII-2099, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07406
 
