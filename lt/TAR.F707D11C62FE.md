@@ -1,0 +1,410 @@
+---
+title: "Lietuvos Respublikos tarptautinių sankcijų įstatymas"
+identifier: "TAR.F707D11C62FE"
+country: "lt"
+rank: "istatymas"
+publication_date: "2004-04-22"
+last_updated: "2004-05-01"
+status: "in_force"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.F707D11C62FE"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "1041010ISTA0IX-2160"
+document_number: "IX-2160"
+published_in_tar: "2004-04-22"
+document_group: "valstybės institucijų ir įstaigų teisės aktai"
+document_status: "registruotas TA registre"
+---
+# Lietuvos Respublikos tarptautinių sankcijų įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+EKONOMINIŲ IR KITŲ TARPTAUTINIŲ SANKCIJŲ ĮGYVENDINIMO
+
+Į S T A T Y M A S
+
+2004 m. balandžio 22 d. Nr. IX-2160
+
+Vilnius
+
+PIRMASIS SKIRSNIS
+
+BENDROSIOS NUOSTATOS
+
+1 straipsnis. Įstatymo paskirtis
+
+1. Šis Įstatymas skirtas užtikrinti tinkamą Lietuvos Respublikos tarptautinių įsipareigojimų bei Europos Sąjungos bendrosios saugumo ir užsienio politikos vykdymą, sudaryti sąlygas Lietuvos Respublikai efektyviau prisidėti prie taikos ir stabilumo palaikymo pasaulyje, taip pat prie tarptautinės bendruomenės kovos su tarptautiniu terorizmu, žmogaus teisių pažeidimais, teritoriniais, etniniais ir religiniais konfliktais kitose valstybėse bei užtikrinti Lietuvos Respublikos nacionalinio saugumo interesus.
+
+2. Šis Įstatymas nustato nekarinių tarptautinių sankcijų, nustatomų Jungtinių Tautų ir kitų tarptautinių organizacijų, taip pat Europos Sąjungos, įgyvendinimo tvarką Lietuvos Respublikoje. Tarptautinių sankcijų įgyvendinimas apima tarptautinių sankcijų įgyvendinimo nustatymą, pakeitimą ir nutraukimą.
+
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
+
+1. Subjektas, dėl kurio įgyvendinamos tarptautinės sankcijos – valstybė ar jos dalis; teritorija (specialaus statuso zona); fizinis arba juridinis asmuo; bet kokia kita organizacija ar fizinių asmenų grupė.
+
+2. Tarptautinės sankcijos – Jungtinių Tautų, kitų tarptautinių organizacijų sprendimų ir Europos Sąjungos teisės aktų nustatytų apribojimų ir įpareigojimų visuma. Tarptautinės sankcijos gali būti ekonominės, finansinės, politinės, susisiekimo, visuomeninės, taip pat kitokius apribojimus ir įpareigojimus nustatančios sankcijos.
+
+3. Ekonominės sankcijos – civilinės, dvigubos paskirties prekių, karinės įrangos, paslaugų ir technologijų importo, eksporto, reeksporto ir tranzito, įskaitant tarpininkavimą, apribojimai; prekybos su subjektais, dėl kurių įgyvendinamos tarptautinės sankcijos, apribojimai; Lietuvos Respublikos fizinių ir juridinių asmenų ekonominės veiklos valstybėje ar teritorijoje, dėl kurios įgyvendinamos tarptautinės sankcijos, apribojimai; subjektų, dėl kurių įgyvendinamos tarptautinės sankcijos, ekonominės veiklos Lietuvos Respublikos teritorijoje apribojimai.
+
+4. Finansinės sankcijos – subjektų, dėl kurių įgyvendinamos tarptautinės sankcijos, teisių valdyti, naudoti ir disponuoti pinigais, vertybiniais popieriais, daiktais, kitu turtu ir turtinėmis teisėmis apribojimai; mokėjimų apribojimai subjektams, dėl kurių įgyvendinamos tarptautinės sankcijos; kiti finansinės veiklos apribojimai.
+
+5. Politinės sankcijos – oficialių vizitų apribojimai; kelionių į valstybę ar teritoriją, dėl kurios įgyvendinamos tarptautinės sankcijos, ar per šią valstybę arba teritoriją apribojimai; apribojimai atvykti ar keliauti tranzitu per Lietuvos Respublikos teritoriją asmenims, dėl kurių įgyvendinamos tarptautinės sankcijos; diplomatinių santykių apribojimai; kitos politinio ir diplomatinio poveikio priemonės.
+
+6. Susisiekimo sankcijos – transporto (geležinkelių, kelių, vandens, oro), pašto, elektroninių ryšių ir (ar) kitokių ryšių ir susisiekimo su subjektais, dėl kurių įgyvendinamos tarptautinės sankcijos, apribojimai.
+
+7. Visuomeninės sankcijos – kultūrinių, mokslo, švietimo, sporto ir kitokių visuomeninių ryšių su subjektais, dėl kurių įgyvendinamos tarptautinės sankcijos, apribojimai.
+
+8. Eksportas – prekių išvežimas arba išsiuntimas iš Europos bendrijos muitų teritorijos, programinės įrangos bei technologijų perdavimas faksu, telefonu ar kitu būdu ir (ar) kitomis elektroninėmis priemonėmis į paskirties vietą už Europos bendrijos muitų teritorijos ribų; paslaugų teikimas už Europos bendrijos muitų teritorijos ribų. Žodinis technologijos perdavimas telefonu į šią sąvoką įeina tais atvejais, kai ši technologija yra aprašyta dokumente, iš kurio esminė technologijos aprašymo dalis yra perskaitoma ar apibūdinama telefonu.
+
+9. Importas – prekių įvežimas arba atsiuntimas į Europos bendrijos muitų teritoriją, programinės įrangos bei technologijų perdavimas faksu, telefonu ar kitu būdu ir (ar) kitomis elektroninėmis priemonėmis iš už Europos bendrijos muitų teritorijos ribų; paslaugų gavimas iš už Europos bendrijos muitų teritorijos ribų. Žodinis technologijos perdavimas telefonu į šią sąvoką įeina tais atvejais, kai ši technologija yra aprašyta dokumente, iš kurio esminė technologijos aprašymo dalis yra perskaitoma ar apibūdinama telefonu.
+
+10. Finansų įstaiga – kaip ši sąvoka apibrėžta Lietuvos Respublikos finansų įstaigų įstatyme.
+
+3 straipsnis. Tarptautinių sankcijų įgyvendinimo bendrosios sąlygos
+
+1. Tarptautinių sankcijų įgyvendinimą nustato ir keičia Lietuvos Respublikos Vyriausybės nutarimai, išskyrus šio Įstatymo 8 straipsnio 1 dalyje numatytą atvejį. Lietuvos Respublikos Vyriausybės nutarimu nustatoma, kokios tarptautinės sankcijos įgyvendinamos, taip pat nustatoma jų įgyvendinimo trukmė, sąlygos, galimos išimtys ir subjektai, dėl kurių įgyvendinamos tarptautinės sankcijos. Tarptautinių sankcijų trukmė nustatoma atsižvelgiant į tarptautines sankcijas nustačiusių tarptautinių organizacijų sprendimuose ar Europos Sąjungos teisės aktuose nurodytą jų trukmę. Tarptautinių sankcijų įgyvendinimo Lietuvos Respublikoje trukmė nenustatoma, jeigu jas nustačiusi tarptautinė organizacija ar Europos Sąjunga numato galimybę pratęsti tarptautinių sankcijų įgyvendinimą po peržiūros, kuri atliekama pasibaigus sankcijų įgyvendinimo laikotarpiui.
+
+2. Jeigu tarptautines sankcijas nustačiusių tarptautinių organizacijų sprendimuose ar Europos Sąjungos teisės aktuose nustatoma, kad tarptautinės sankcijos panaikinamos arba po peržiūros jų įgyvendinimas nepratęsiamas, tarptautinių sankcijų įgyvendinimą Lietuvos Respublikoje nutraukia Lietuvos Respublikos Vyriausybė.
+
+3. Lietuvos Respublikos Vyriausybės nutarime dėl tarptautinių sankcijų įgyvendinimo yra nustatoma, kokius veiksmus privalo atlikti Lietuvos Respublikos fiziniai ir juridiniai asmenys, vykdydami tarptautines sankcijas, arba kokius veiksmus atlikti yra draudžiama.
+
+4. Šio Įstatymo nuostatos taikomos ir Lietuvos Respublikos fizinių ir juridinių asmenų veiksmams užsienio valstybių teritorijose, neatsižvelgiant į tai, ar užsienio valstybės įgyvendina tarptautines sankcijas, kurias įgyvendina Lietuvos Respublika, ar ne.
+
+4 straipsnis. Tarptautinių sankcijų įgyvendinimo išimtys
+
+1. Jeigu tarptautines sankcijas nustačiusių tarptautinių organizacijų sprendimuose ir (arba) Europos Sąjungos teisės aktuose, išskyrus reglamentus, yra numatomos jų įgyvendinimo išimtys humanitariniais, taikos palaikymo misijų aprūpinimo tikslais ar kitais ypatingais atvejais, sankcijų išimčių įgyvendinimas Lietuvos Respublikoje yra nustatomas Lietuvos Respublikos Vyriausybės nutarimais, išskyrus šio Įstatymo 8 straipsnio 1 dalyje numatytą atvejį.
+
+2.Lietuvos Respublikos užsienio reikalų ministerija yra atsakinga už nustatytų išimčių įgyvendinimą. Subjektai, dėl kurių yra įgyvendinamos tarptautinės sankcijos arba Lietuvos Respublikos fiziniai ar juridiniai asmenys (iš skyrus finansų įstaigas), siekdami pasinaudoti išimtimis, kreipiasi į tarptautinių sankcijų įgyvendinimo priežiūrą vykdančią instituciją, nurodytą šio Įstatymo 12 straipsnyje, o ši institucija ar finansų įstaiga kreipiasi Lietuvos Respublikos užsienio reikalų ministeriją dėl išimties įgyvendinimo kiek vienu konkrečiu atveju ir įgyvendina išimtį tik gavusios sutikimą. Tais atvejais, kai tarptautinių sankcijų įgyvendinimo priežiūros institucija yra Lietuvos Respublikos užsienio reikalų ministerija, subjektai, dėl kurių yra įgyvendinamos tarptautinės sankcijos, arba Lietuvos Respublikos fiziniai ar juridiniai asmenys, siekdami pasinaudoti išimtimis, kreipiasi tiesiogiai į Lietuvos Respublikos užsienio reikalų ministeriją.
+
+ANTRASIS SKIRSNIS
+
+TARPTAUTINIŲ SANKCIJŲ ĮGYVENDINIMO MASTAS
+
+5 straipsnis. Jungtinių Tautų Saugumo Tarybos rezoliucijų ir kitų tarptautinių organizacijų sprendimų dėl tarptautinių sankcijų, kurie yra privalomi pagal Lietuvos Respublikos tarptautinius įsipareigojimus, įgyvendinimo mastas
+
+Tarptautinės sankcijos, nustatytos Jungtinių Tautų Saugumo Tarybos rezoliucijose ir kituose tarptautinių organizacijų sprendimuose dėl tarptautinių sankcijų, kurie yra privalomi pagal Lietuvos Respublikos tarptautinius įsipareigojimus, įgyvendinamos visiškai šio Įstatymo 3 straipsnyje nustatyta tvarka.
+
+6 straipsnis. Tarptautinių organizacijų rekomendacinių sprendimų dėl tarptautinių sankcijų taikymo įgyvendinimo mastas
+
+Jungtinių Tautų Generalinės Asamblėjos, Europos saugumo ir bendradarbiavimo organizacijos, kitų tarptautinių organizacijų, kurių narė yra Lietuvos Respublika arba kuriose dalyvauja Lietuvos Respublika, sprendimus, kuriais rekomenduojama taikyti tarptautines sankcijas tam tikriems subjektams, Lietuvos Respublika įgyvendina šio Įstatymo 3 straipsnyje nustatyta tvarka, jeigu šių sankcijų įgyvendinimas atitinka Lietuvos Respublikos užsienio politikos bei nacionalinio saugumo interesus ir tik tiek, kiek yra būtina pasiekti šio Įstatymo 1 straipsnyje nurodytus tikslus.
+
+7 straipsnis. Tarptautinių organizacijų sprendimų dėl tarptautinių sankcijų taikymo įgyvendinimas Lietuvos Respublikoje atsižvelgiant į Europos Sąjungos teisę
+
+1. Tarptautinių organizacijų sprendimai dėl tarptautinių sankcijų taikymo užsienio valstybėms Lietuvos Respublikos Vyriausybės nutarimais įgyvendinami tik tiek, kiek jie nėra įgyvendinami Europos Sąjungos reglamentais, tiesiogiai taikomais Lietuvos Respublikoje, atsižvelgiant į šio Įstatymo 8 straipsnio nuostatas.
+
+2. Jei tarptautinių sankcijų įgyvendinimas, kuris yra privalomas pagal Lietuvos Respublikos tarptautinius įsipareigojimus, yra nesuderinamas su įsipareigojimais pagal Europos bendrijos steigimo sutartį, dėl šių sankcijų įgyvendinimo turi būti sprendžiama pagal Europos bendrijos steigimo sutartį.
+
+TREČIASIS SKIRSNIS
+
+TARPTAUTINIŲ SANKCIJŲ ĮGYVENDINIMAS VYKDANT EUROPOS SĄJUNGOS BENDRĄJĄ UŽSIENIO IR SAUGUMO POLITIKĄ
+
+8 straipsnis. Europos Sąjungos bendrosios užsienio ir saugumo politikos teisės aktų dėl tarptautinių sankcijų įgyvendinimas Lietuvos Respublikoje
+
+1. Europos Sąjungos reglamentai dėl tarptautinių sankcijų ir jų įgyvendinimo išimčių, priimti remiantis Europos bendrijos steigimo sutartimi, yra tiesiogiai taikomi Lietuvos Respublikoje nuo jų įsigaliojimo. Prireikus Lietuvos Respublikos Vyriausybė gali priimti nutarimą, kuriame būtų reikalingos reglamento įgyvendinimui Lietuvos Respublikoje nuostatos.
+
+2. Europos Sąjungos bendrosios pozicijos, bendrieji veiksmai, sprendimai ir kiti teisės aktai dėl tarptautinių sankcijų, priimti remiantis Europos Sąjungos sutartimi arba Europos bendrijos steigimo sutartimi, yra įgyvendinami šio Įstatymo 3 straipsnyje nustatyta tvarka.
+
+KETVIRTASIS SKIRSNIS
+
+LIETUVOS RESPUBLIKOJE ĮGYVENDINAMŲ TARPTAUTINIŲ SANKCIJŲ POVEIKIS PRIEVOLĖMS IR SANDORIAMS
+
+9 straipsnis. Prievolių vykdymas nustačius tarptautinių sankcijų įgyvendinimą
+
+1. Draudžiama vykdyti veiksmus, kurių vykdymas draudžiamas Lietuvos Respublikoje įgyvendinamomis tarptautinėmis sankcijomis. Sandoriai, kurie buvo sudaryti iki nustatant tarptautinių sankcijų Lietuvos Respublikoje įgyvendinimą, turi būti nedelsiant nutraukti vienašališkai ar šalių susitarimu arba jų vykdymas sustabdytas tarptautinių sankcijų įgyvendinimo laikotarpiui.
+
+2. Draudžiama sudaryti sandorius, kurių vykdymas prieštarautų Lietuvos Respublikoje įgyvendinamoms tarptautinėms sankcijoms. Tokie sandoriai, sudaryti nustačius tarptautinių sankcijų Lietuvos Respublikoje įgyvendinimą šio Įstatymo nustatyta tvarka, yra niekiniai ir negalioja.
+
+3. Prievolių, atsiradusių iki nustatant tarptautinių sankcijų Lietuvos Respublikoje įgyvendinimą, vykdymas turi būti nedelsiant nutrauktas arba sustabdytas tarptautinių sankcijų įgyvendinimo laikotarpiui. Draudžiama prisiimti naujas prievoles, kurių vykdymas prieštarautų Lietuvos Respublikoje įgyvendinamoms tarptautinėms sankcijoms.
+
+4. Apribojus subjektų, dėl kurių įgyvendinamos tarptautinės sankcijos, disponavimą sąskaitomis, iš jų gali būti išskaitomos įprastinės šių sąskaitų išlaikymo išlaidos ir įskaitomos palūkanos bei mokėjimai pagal sandorius, sudarytus iki pradedant įgyvendinti tarptautines sankcijas, tik tuo atveju, kai jokiais išskaitymais ar įskaitymais negalės disponuoti subjektas, dėl kurio įgyvendinamos finansinės sankcijos.
+
+10 straipsnis. Prievolių nevykdymo dėl tarptautinių sankcijų taikymo teisinės pasekmės
+
+1. Lietuvos Respublikos fiziniams ir juridiniams asmenims už prievolių nevykdymą dėl tarptautinių sankcijų įgyvendinimo civilinė atsakomybė netaikoma arba jie atleidžiami nuo jos pagal Lietuvos Respublikos civilinio kodekso nuostatas.
+
+2. Vykdant šį Įstatymą patirti fizinių ir juridinių asmenų nuostoliai neatlyginami
+
+PENKTASIS SKIRSNIS
+
+TARPTAUTINIŲ SANKCIJŲ ĮGYVENDINIMO ADMINISTRAVIMAS IR ĮGYVENDINIMO PRIEŽIŪRA
+
+11 straipsnis. Tarptautinių sankcijų įgyvendinimo administravimas
+
+1. Lietuvos Respublikos užsienio reikalų ministerija koordinuoja tarptautinių sankcijų įgyvendinimą Lietuvos Respublikoje ir teikia informaciją fiziniams ir juridiniams asmenims tarptautinių sankcijų įgyvendinimo klausimais.
+
+2. Lietuvos Respublikos užsienio reikalų ministerija teikia informaciją apie tarptautinių sankcijų įgyvendinimą atitinkamai Jungtinėms Tautoms, kitoms tarptautinėms organizacijoms ar Europos Sąjungos institucijoms, kurių nustatytos tarptautinės sankcijos yra įgyvendinamos.
+
+12 straipsnis. Tarptautinių sankcijų įgyvendinimo priežiūros institucijos
+
+1. Už tarptautinių sankcijų įgyvendinimo priežiūrą pagal kompetenciją yra atsakingos šios institucijos:
+
+1) Lietuvos Respublikos užsienio reikalų ministerija, Lietuvos Respublikos ūkio ministerija, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos Respublikos draudimo priežiūros komisija – už ekonominių sankcijų įgyvendinimo priežiūrą;
+
+2) Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos Respublikos draudimo priežiūros komisija, Lietuvos Respublikos vertybinių popierių komisija – už finansinių sankcijų įgyvendinimo priežiūrą;
+
+3) Lietuvos Respublikos Vyriausybė ir ministerijos, Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Valstybinis turizmo departamentas prie Lietuvos Respublikos ūkio ministerijos – už politinių sankcijų įgyvendinimo priežiūrą;
+
+4) Lietuvos Respublikos susisiekimo ministerija, Lietuvos Respublikos užsienio reikalų ministerija, Ryšių reguliavimo tarnyba, Civilinės aviacijos administracija – už susisiekimo sankcijų įgyvendinimo priežiūrą;
+
+5) Lietuvos Respublikos kultūros ministerija, Lietuvos Respublikos švietimo ir mokslo ministerija, Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės, Valstybinis turizmo departamentas prie Lietuvos Respublikos ūkio ministerijos – už visuomeninių sankcijų įgyvendinimo priežiūrą.
+
+2. Prireikus Lietuvos Respublikos Vyriausybė gali paskirti ir kitas institucijas, kurios atsako už nutarime nustatytų tarptautinių sankcijų įgyvendinimo priežiūrą.
+
+13 straipsnis. Tarptautinių sankcijų įgyvendinimo priežiūra
+
+1. Tarptautinių sankcijų įgyvendinimo priežiūros tvarką nustato Lietuvos Respublikos Vyriausybė. Juridiniai ir fiziniai asmenys privalo pateikti tarptautinių sankcijų priežiūrą vykdančioms institucijoms visus priežiūrai atlikti reikalingus duomenis.
+
+2. Institucijos, atsakingos už tarptautinių sankcijų įgyvendinimo priežiūrą, ir finansų įstaigos teikia informaciją apie tarptautinių sankcijų įgyvendinimą, jų pažeidimus ir nagrinėjamas bylas Lietuvos Respublikos užsienio reikalų ministerijai.
+
+3. Šiame Įstatyme nurodytos informacijos pateikimas šio straipsnio 1 ir 2 dalyse nurodytoms institucijoms nelaikomas tarnybinės, pramoninės, komercinės, banko paslapties ar konfidencialios informacijos atskleidimu. Duomenys, kurie sudaro valstybės ar tarnybos paslaptį, institucijoms teikiami bei šiose institucijose kaupiami ir saugomi Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
+
+ŠEŠTASIS SKIRSNIS
+
+ATSAKOMYBĖ UŽ TARPTAUTINIŲ SANKCIJŲ PAŽEIDIMUS
+
+14 straipsnis. Atsakomybė už Įstatymo pažeidimus
+
+Už šio Įstatymo pažeidimus fiziniai ir juridiniai asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+SEPTINTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
+
+15 straipsnis. Įstatymo įsigaliojimas
+
+Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+
+16 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+
+Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija per 6 mėnesius nuo šio Įstatymo paskelbimo dienos parengia šiam Įstatymui įgyvendinti būtinus teisės aktus.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+LAIKINAI EINANTIS
+
+RESPUBLIKOS PREZIDENTO PAREIGAS                                  ARTŪRAS PAULAUSKAS
+
+131 straipsnis. Laikinasis administratorius
+
+1. Finansų ministras, išskyrus šio straipsnio 14 dalyje nurodytą atvejį, turi teisę paskirti laikinąjį administratorių juridiniam asmeniui, kai šio juridinio asmens, jo savininko ar jį kontroliuojančio asmens atžvilgiu Lietuvos Respublikoje įgyvendinamos tarptautinės sankcijos ir kai laikinasis administravimas yra būtinas, siekiant išvengti neigiamų socialinių, ekonominių, ekologinių ar kitų svarbių pasekmių visuomenei ar valstybei ir užtikrinti, kad būtų laikomasi Lietuvos Respublikoje įgyvendinamų tarptautinių sankcijų. Apie iškilusį poreikį paskirti laikinąjį administratorių Lietuvos Respublikos finansų ministeriją nedelsdama informuoja šio įstatymo 12 straipsnyje nurodyta institucija, atsakinga už tarptautinių sankcijų įgyvendinimo priežiūrą. Laikinuoju administratoriumi gali būti skiriamas juridinis arba fizinis asmuo.
+
+2. Laikinuoju administratoriumi skiriamas fizinis asmuo ar laikinuoju administratoriumi skiriamo juridinio asmens vadovas turi būti nepriekaištingos reputacijos. Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu:
+
+1) jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo, nepaisant to, ar teistumas išnykęs ar panaikintas;
+
+2) jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl apysunkio nusikaltimo ir turi neišnykusį ar nepanaikintą teistumą;
+
+3) jis yra pripažintas neveiksniu ar ribotai veiksniu bet kurioje srityje arba jam taikomos priverčiamosios medicinos priemonės;
+
+4) jis dėl Lietuvos Respublikai priešiškų interesų bendradarbiauja ar yra bendradarbiavęs, palaiko ar palaikė ryšius su užsienio valstybės žvalgybos ar saugumo tarnyba arba su asmenimis, bendradarbiaujančiais ar palaikančiais ryšius su užsienio valstybės žvalgybos ar saugumo tarnyba;
+
+5) jis dalyvauja ar dalyvavo teroristinės organizacijos ar teroristinės grupės veikloje arba palaiko ar palaikė ryšius su asmeniu, priklausančiu teroristinei organizacijai ar teroristinei grupei;
+
+6) jam taikomos organizuoto nusikalstamumo prevencijos priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymą;
+
+7) jis piktnaudžiauja alkoholiu, vartoja narkotines, psichotropines ar kitas psichiką veikiančias medžiagas ne medicinos tikslais;
+
+8) jis daugiau negu vieną kartą per pastaruosius 3 metus buvo baustas už administracinio nusižengimo, susijusio su alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimu, padarymą.
+
+3. Laikinuoju administratoriumi skiriamam fiziniam asmeniui ar laikinuoju administratoriumi skiriamo juridinio asmens vadovui taikomi ir tinkamos kvalifikacijos bei patirties reikalavimai, jo neturi saistyti interesų konfliktas su juridiniu asmeniu, kurį jis administruoja, ir su Lietuvos Respublikos finansų ministerija. Asmens kvalifikacija ir patirtis vertinamos atsižvelgiant į jo išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos tinkamam veiklos vykdymui. Pretendentus į laikinuosius administratorius finansų ministrui pasiūlo viešoji įstaiga Valdymo koordinavimo centras per 3 darbo dienas nuo informacijos apie poreikį pateikti kandidatūrą gavimo dienos, išskyrus šio straipsnio 14 dalyje nurodytą atvejį.
+
+4. Laikinasis administratorius skiriamas finansų ministro sprendimu. Finansų ministras nustato laikinojo administratoriaus paskyrimo terminą, įgaliojimus, funkcijas ir veiksmus, kuriuos laikinasis administratorius gali atlikti tik Lietuvos Respublikos finansų ministerijai iš anksto pritarus. Šioje dalyje nurodytu sprendimu, kai tai būtina, taip pat gali būti nustatoma, kad laikinai sustabdomi tam tikrų ar visų juridinio asmens organų įgaliojimai ir juos laikinai perima laikinasis administratorius arba kad tam tikriems juridinio asmens organų sprendimams priimti reikia gauti laikinojo administratoriaus pritarimą. Finansų ministras apie priimtą sprendimą dėl laikinojo administratoriaus paskyrimo, pakeitimo ar jo įgaliojimų pasibaigimo privalo ne vėliau kaip kitą darbo dieną pranešti Juridinių asmenų registro tvarkytojui, o šis faktą apie laikinojo administratoriaus paskyrimą, pakeitimą ar jo įgaliojimų pasibaigimą nedelsdamas, bet ne vėliau kaip kitą darbo dieną įrašo Juridinių asmenų registre. Sprendime turi būti nurodoma: juridinio asmens pavadinimas, kodas, paskirto laikinojo administratoriaus vardas ir pavardė, asmens kodas, gyvenamoji vieta (jeigu jis yra fizinis asmuo) ar pavadinimas ir kodas (jeigu jis yra juridinis asmuo).
+
+5. Laikinojo administratoriaus veiklos sąlygos nustatomos laikinojo administravimo sutartyje, sudaromoje Lietuvos Respublikos finansų ministerijos ir laikinojo administratoriaus. Šioje sutartyje taip pat nustatomas laikinojo administratoriaus atlyginimas ir kitos išlaidos (įskaitant išlaidas dėl paslaugų teikėjų teikiamų paslaugų), atsižvelgiant į laikinojo administratoriaus veiklos mastą, kvalifikaciją ir veiklos terminus, jų apmokėjimo tvarka, taip pat aptariama laikinojo administratoriaus atsakomybė, atsistatydinimo ir atšaukimo tvarka. Atlyginimas išmokamas ir išlaidos padengiamos (įskaitant išlaidas dėl paslaugų teikėjų teikiamų paslaugų) iš juridinio asmens lėšų. Jeigu juridinis asmuo laikinajam administratoriui nesumoka laiku, laikinajam administratoriui privalo sumokėti Lietuvos Respublikos finansų ministerija. Lietuvos Respublikos finansų ministerija turi teisę reikalauti iš juridinio asmens atlyginti sumokėtas sumas. Laikinojo administratoriaus minimali civilinės atsakomybės privalomojo draudimo suma yra 300 000 eurų vienam draudžiamajam įvykiui ir 1 000 000 eurų visiems draudžiamiesiems įvykiams per metus. Dėl draudžiamojo įvykio išmokėjus draudimo išmoką ir sumažėjus minimaliai draudimo sumai, laikinasis administratorius privalo per vieną mėnesį apsidrausti civilinę atsakomybę, kad būtų atkurta privalomoji minimali draudimo suma.
+
+6. Laikinasis administratorius skiriamas ne ilgesniam negu vienų metų laikotarpiui. Išimtiniais atvejais laikinojo administratoriaus paskyrimo terminas finansų ministro sprendimu gali būti pratęsiamas. Laikinasis administratorius gali būti bet kuriuo metu pakeičiamas ar atšaukiamas, o išnykus jo paskyrimo poreikiui privalo būti atšaukiamas nedelsiant.
+
+7. Laikinasis administratorius turi teisę savo nuožiūra pasitelkti paslaugų teikėjų (įskaitant teisės, apskaitos, audito, valdymo konsultantus), kad galėtų tinkamai atlikti savo funkcijas.
+
+8. Laikinasis administratorius imasi visų reikalingų veiksmų, siekdamas užtikrinti, kad būtų laikomasi Lietuvos Respublikoje įgyvendinamų tarptautinių sankcijų ir būtų išvengta šio straipsnio 1 dalyje nurodytų neigiamų pasekmių. Jei tai būtina, laikinasis administratorius turi teisę Lietuvos Respublikos finansų įstaigose atidaryti depozitines sąskaitas, kurios būtų naudojamos juridinio asmens veiklos tęstinumui užtikrinti. Iš šiose depozitinėse sąskaitose esančių lėšų draudžiama vykdyti juridinio asmens dalyvių, kurių atžvilgiu Lietuvos Respublikoje įgyvendinamos tarptautinės sankcijos, turtinius reikalavimus.
+
+9. Lietuvos Respublikos finansų ministerija gali reikalauti, kad laikinasis administratorius šio straipsnio 5 dalyje nurodytoje sutartyje nustatytais terminais jai teiktų informaciją apie juridinio asmens finansinę būklę ir per laikinojo administratoriaus paskyrimo terminą atliktus veiksmus.
+
+10. Laikinasis administratorius savo funkcijas privalo atlikti apdairiai ir sąžiningai. Laikinasis administratorius negali jam suteiktų teisių naudoti savo asmeniniams ar trečiųjų asmenų poreikiams tenkinti.
+
+11. Laikinasis administratorius turi teisę atsistatydinti šio straipsnio 5 dalyje nurodytoje sutartyje nustatyta tvarka. Jeigu laikinasis administratorius atsistatydina, finansų ministras nedelsdamas inicijuoja naujo laikinojo administratoriaus paskyrimą.
+
+12. Šio straipsnio nuostatos mutatis mutandis taikomos ir tais atvejais, kai finansų ministras skiria ekonominių išteklių, kurie yra įšaldyti Lietuvos Respublikoje įgyvendinant tarptautines sankcijas, laikinąjį administratorių. Finansų ministras apie priimtą sprendimą dėl laikinojo administratoriaus paskyrimo, kuriame turi būti nurodyti įšaldytus ekonominius išteklius apibūdinantys duomenys, taip pat sprendimą dėl laikinojo administratoriaus pakeitimo ar jo įgaliojimų šioje dalyje nurodytiems ekonominiams ištekliams, kurie registruotini viešajame registre ar kuriuos apibūdinantys duomenys kaupiami valstybės informacinėje sistemoje, pasibaigimo privalo ne vėliau kaip kitą darbo dieną pranešti to viešojo registro ir (ar) informacinės sistemos tvarkytojui, o šis faktą apie laikinojo administratoriaus paskyrimą, pakeitimą ar jo įgaliojimų pasibaigimą nedelsdamas, bet ne vėliau kaip kitą darbo dieną įrašo tame viešajame registre ir (ar) informacinėje sistemoje.
+
+13. Juridiniai ir fiziniai asmenys privalo pateikti Lietuvos Respublikos finansų ministerijai duomenis, reikalingus skiriant laikinąjį administratorių, o laikinajam administratoriui – duomenis, reikalingus jam vykdant veiklą.
+
+14. Laikinąjį administratorių Lietuvos Respublikos Lietuvos banko įstatymo 42 straipsnyje nurodytam licencijuotam ar kitokios formos veiklos leidimą turinčiam ir Lietuvos banko prižiūrimam finansų rinkų dalyviui, kai šio finansų rinkų dalyvio, jo savininko ar jį kontroliuojančio asmens atžvilgiu Lietuvos Respublikoje įgyvendinamos tarptautinės sankcijos, taip pat kai yra kitų šio straipsnio 1 dalyje nurodytų sąlygų, turi teisę paskirti Lietuvos bankas. Pretendentus į laikinuosius administratorius atrenka Lietuvos bankas. Lietuvos bankui mutatis mutandis taikomos šio straipsnio nuostatos, nustatančios finansų ministro ir Lietuvos Respublikos finansų ministerijos teises ir pareigas.
+
+Papildyta straipsniu:
+
+Nr. XIV-1020, 2022-04-19, paskelbta TAR 2022-04-26, i. k. 2022-08433
+
+ŠEŠTASIS SKIRSNIS
+
+ATSAKOMYBĖ UŽ TARPTAUTINIŲ SANKCIJŲ PAŽEIDIMUS
+
+61 straipsnis. Ribojamųjų priemonių nustatymas Lietuvos Respublikos įstatymais
+
+1. Siekiant užtikrinti Lietuvos Respublikos nacionalinio saugumo ir užsienio politikos interesus ir pasiekti šio įstatymo 1 straipsnyje nurodytus tikslus, Lietuvos Respublikos įstatymais gali būti nustatomos ribojamosios priemonės, jeigu tai neprieštarauja Lietuvos Respublikos tarptautiniams įsipareigojimams ir Europos Sąjungos teisei.
+
+2. Šio straipsnio 1 dalyje nurodytos ribojamosios priemonės nustatomos, keičiamos ir atšaukiamos įstatymu, kurį Lietuvos Respublikos Seimui pateikia Vyriausybė pagal atitinkamos valdymo srities ministro teikimą, suderintą su šio įstatymo 10 straipsnio 1 dalyje nurodyta komisija (toliau – įstatymas dėl ribojamųjų priemonių nustatymo).
+
+3. Įstatyme dėl ribojamųjų priemonių nustatymo apibrėžiamas ribojamųjų priemonių turinys, subjektai, kuriems taikomos ribojamosios priemonės, ar juos apibrėžiantys kriterijai, ribojamųjų priemonių taikymo pradžia ir pabaiga, ribojamųjų priemonių įgyvendinimo išimtys ir, jei reikia, kitos nuostatos.
+
+4. Jeigu įstatyme dėl ribojamųjų priemonių nustatymo nustatomi kriterijai, apibrėžiantys subjektus, kuriems taikomos ribojamosios priemonės, Vyriausybė ar jos įgaliota institucija, vadovaudamasi įstatyme dėl ribojamųjų priemonių nustatymo nustatytais kriterijais, nustato konkrečius fizinius ir juridinius asmenis, organizacijas, fizinių ir (ar) juridinių asmenų grupes, kurioms taikomos ribojamosios priemonės.
+
+62 straipsnis. Lietuvos Respublikos įstatymais nustatytų ribojamųjų priemonių įgyvendinimas
+
+Lietuvos Respublikos įstatymais nustatytų ribojamųjų priemonių privalomumui, poveikiui sandoriams ir prievolėms, laikinojo administratoriaus paskyrimui, ekonominių išteklių realizavimui, įgyvendinimui, įgyvendinimo koordinavimui, užtikrinimui ir atsakomybei mutatis mutandis taikomos atitinkamos šio įstatymo nuostatos.
+
+Papildyta skyriumi:
+
+Nr. XIV-1865, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06472
+
+III SKYRIUS
+
+TARPTAUTINIŲ SANKCIJŲ POVEIKIS SANDORIAMS IR PRIEVOLĖMS. LAIKINOJO ADMINISTRATORIAUS PASKYRIMAS, EKONOMINIŲ IŠTEKLIŲ REALIZAVIMAS
+
+17 straipsnis. Poveikio priemones taikančios institucijos teisė netaikyti poveikio priemonių
+
+Jeigu poveikio priemones taikanti institucija, nustačiusi, kad pažeidimas vertintinas kaip mažareikšmis teisės aktų reikalavimų pažeidimas ir kurį galima ištaisyti nedelsiant poveikio priemones taikančios institucijos pareigūno, kito valstybės tarnautojo ar darbuotojo akivaizdoje, tokio pažeidimo tyrimas nutraukiamas, šiame įstatyme nustatytos poveikio priemonės neskiriamos, o asmeniui pareiškiama žodinė pastaba. Kai mažareikšmio teisės aktų reikalavimų pažeidimo nedelsiant ištaisyti negalima poveikio priemones taikančios institucijos pareigūno, kito valstybės tarnautojo ar darbuotojo akivaizdoje, asmeniui pateikiamas rašytinis nurodymas pašalinti mažareikšmį teisės aktų reikalavimų pažeidimą ir nustatomas terminas iki 2 darbo dienų pažeidimui pašalinti, kuris gali būti pratęstas vieną kartą protingam terminui. Jeigu asmuo per nustatytą terminą nepašalina mažareikšmio teisės aktų reikalavimų pažeidimo, pakartotinai rašytinis nurodymas negali būti pateiktas.
+
+18 straipsnis. Paskirtos baudos sumokėjimas ir išieškojimas
+
+1. Juridinis asmuo poveikio priemones taikančios institucijos sprendimu paskirtą baudą privalo sumokėti į valstybės biudžetą ne vėliau kaip per 3 mėnesius nuo sprendimo skirti baudą priėmimo dienos, o jeigu sprendimas skirti baudą buvo apskųstas, – ne vėliau kaip per 3 mėnesius nuo teismo sprendimo, kuriuo skundas buvo atmestas ar patenkintas iš dalies, įsiteisėjimo dienos.
+
+2. Poveikio priemones taikančios institucijos sprendimas skirti baudą yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Jeigu poveikio priemones taikanti institucija, priėmusi sprendimą skirti baudą, yra mokesčių administratorius, baudos išieškojimui mutatis mutandis taikoma Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta mokesčių priverstinio išieškojimo tvarka.
+
+19 straipsnis. Sprendimų apskundimas
+
+Asmuo, nesutinkantis su poveikio priemones taikančios institucijos sprendimu, turi teisę jį apskųsti teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+Skyriaus pakeitimai:
+
+Nr. XIV-1865, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06472
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+LAIKINAI EINANTIS
+
+RESPUBLIKOS PREZIDENTO PAREIGAS                                    ARTŪRAS PAULAUSKAS
+
+Lietuvos Respublikos
+
+tarptautinių sankcijų įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2001 m. gruodžio 27 d. Tarybos reglamentas (EB) Nr. 2580/2001 dėl specialių ribojančių priemonių, taikomų tam tikriems asmenims ir subjektams siekiant kovoti su terorizmu, su paskutiniais pakeitimais, padarytais  2017 m. lapkričio 13 d. Tarybos reglamentu (ES) 2017/2061.
+
+2. 2002 m. gegužės 27 d. Tarybos reglamentas (EB) Nr. 881/2002, kuriuo nustatomos tam tikros specialios ribojamosios priemonės, taikomos tam tikriems asmenims ir subjektams, susijusiems su ISIL („Da'esh“) ir Al-Qaida organizacijomis, su paskutiniais pakeitimais, padarytais 2016 m. kovo 15 d. Tarybos reglamentu (ES) 2016/363.
+
+3. 2004 m. vasario 19 d. Tarybos reglamentas (EB) Nr. 314/2004 dėl ribojamųjų priemonių, atsižvelgiant į padėtį Zimbabvėje, su paskutiniais pakeitimais, padarytais 2022 m. vasario 17 d. Tarybos reglamentu (ES) 2022/225.
+
+4. 2005 m. liepos 18 d. Tarybos reglamentas (EB) Nr. 1183/2005, nustatantis tam tikras konkrečias ribojančias priemones asmenims, kurie savo veiksmais pažeidžia ginklų embargą Kongo Demokratinei Respublikai, su paskutiniais pakeitimais, padarytais 2022 m. gruodžio 5 d. Tarybos reglamentu (ES) 2022/2373.
+
+5. 2006 m. gegužės 18 d. Tarybos reglamentas (EB) Nr. 765/2006 dėl ribojamųjų priemonių atsižvelgiant į padėtį Baltarusijoje ir į Baltarusijos įsitraukimą į Rusijos agresiją prieš Ukrainą su paskutiniais pakeitimais, padarytais 2022 m. birželio 3 d. Tarybos reglamentu (ES) 2022/877.
+
+6. 2009 m. gruodžio 22 d. Tarybos reglamentas (ES) Nr. 1284/2009 dėl ribojamųjų priemonių atsižvelgiant į padėtį Gvinėjoje su paskutiniais pakeitimais, padarytais 2022 m. spalio 24 d. Tarybos reglamentu (ES) 2022/2042.
+
+7. 2011 m. vasario 4 d. Tarybos reglamentas (ES) Nr. 101/2011 dėl ribojamųjų priemonių, taikytinų tam tikriems asmenims, subjektams ir įstaigoms atsižvelgiant į padėtį Tunise, su paskutiniais pakeitimais, padarytais 2022 m. vasario 3 d. Tarybos reglamentu (ES) 2022/149.
+
+8. 2011 m. balandžio 12 d. Tarybos reglamentas (ES) Nr. 359/2011 dėl ribojamųjų priemonių, taikytinų tam tikriems asmenims, subjektams ir įstaigoms atsižvelgiant į padėtį Irane, su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos reglamentu (ES) 517/2013.
+
+9. 2012 m. sausio 18 d. Tarybos reglamentas (ES) Nr. 36/2012 dėl ribojamųjų priemonių, atsižvelgiant į padėtį Sirijoje, kuriuo panaikinamas Reglamentas (ES) Nr. 442/2011, su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 6 d. Tarybos reglamentu (ES) 2016/2137.
+
+10. 2012 m. kovo 23 d. Tarybos reglamentas (ES) Nr. 267/2012 dėl ribojamųjų priemonių Iranui, kuriuo panaikinamas Reglamentas (ES) Nr. 961/2010, su paskutiniais pakeitimais, padarytais 2017 m. birželio 8 d. Tarybos reglamentu (ES) 2017/964.
+
+11. 2012 m. gegužės 3 d. Tarybos reglamentas (ES) Nr. 377/2012 dėl ribojamųjų priemonių, atsižvelgiant į padėtį Bisau Gvinėjoje, su paskutiniais pakeitimais, padarytais 2022 m. liepos 28 d. Tarybos reglamentu (ES) 2022/1329.
+
+12. 2013 m. gegužės 2 d. Tarybos reglamentas (ES) Nr. 401/2013 dėl ribojamųjų priemonių, taikomų atsižvelgiant į padėtį Mianmare / Birmoje, kuriuo panaikinamas Reglamentas (EB) Nr. 194/2008, su paskutiniais pakeitimais, padarytais 2022 m. vasario 21 d. Tarybos reglamentu (ES) 2022/238.
+
+13. 2014 m. kovo 5 d. Tarybos reglamentas (ES) Nr. 208/2014 dėl ribojamųjų priemonių, taikytinų tam tikriems asmenims, subjektams ir įstaigoms atsižvelgiant į padėtį Ukrainoje, su paskutiniais pakeitimais, padarytais 2015 m. sausio 29 d. Tarybos reglamentu (ES) 2015/138.
+
+14. 2014 m. kovo 17 d. Tarybos reglamentas (ES) Nr. 269/2014 dėl ribojamųjų priemonių, taikytinų atsižvelgiant į veiksmus, kuriais kenkiama Ukrainos teritoriniam vientisumui, suverenitetui ir nepriklausomybei arba į juos kėsinamasi, su paskutiniais pakeitimais, padarytais 2022 m. gruodžio 16 d. Tarybos reglamentu (ES) 2022/2475.
+
+15. 2014 m. birželio 23 d. Tarybos reglamentas (ES) Nr. 692/2014 dėl ribojamųjų priemonių atsakant į neteisėtą Krymo ir Sevastopolio prijungimą su paskutiniais pakeitimais, padarytais 2022 m. spalio 4 d. Tarybos reglamentu (ES) 2022/1848.
+
+16. 2014 m. liepos 10 d. Tarybos reglamentas (ES) Nr. 747/2014 dėl ribojamųjų priemonių atsižvelgiant į padėtį Sudane, kuriuo panaikinami reglamentai (EB) Nr. 131/2004 ir (EB) Nr. 1184/2005.
+
+17. 2014 m. liepos 31 d. Tarybos reglamentas (ES) Nr. 833/2014 dėl ribojamųjų priemonių atsižvelgiant į Rusijos veiksmus, kuriais destabilizuojama padėtis Ukrainoje, su paskutiniais pakeitimais, padarytais 2023 m. vasario 4 d. Tarybos reglamentu (ES) 2023/250.
+
+18. 2015 m. gegužės 7 d. Tarybos reglamentas (ES) 2015/735 dėl ribojamųjų priemonių atsižvelgiant į padėtį Pietų Sudane, kuriuo panaikinamas Reglamentas (ES) Nr. 748/2014, su paskutiniais pakeitimais, padarytais 2018 m. rugpjūčio 10 d. Tarybos reglamentu (ES) 2018/1116.
+
+19. 2015 m. spalio 1 d. Tarybos reglamentas (ES) 2015/1755 dėl ribojamųjų priemonių atsižvelgiant į padėtį Burundyje su paskutiniais pakeitimais, padarytais 2019 m. spalio 24 d. Tarybos reglamentu (ES) 2019/1777.
+
+20. 2016 m. sausio 18 d. Tarybos reglamentas (ES) 2016/44 dėl ribojamųjų priemonių atsižvelgiant į padėtį Libijoje ir kuriuo panaikinamas Reglamentas (ES) Nr. 204/2011 su paskutiniais pakeitimais, padarytais 2021 m. birželio 21 d. Tarybos reglamentu (ES) 2021/1005.
+
+21. 2016 m. rugsėjo 20 d. Tarybos reglamentas (ES) 2016/1686, kuriuo nustatomos papildomos ribojamosios priemonės, taikomos ISIL („Da'esh“) ir „Al-Qaida“ bei su jomis susijusiems fiziniams ir juridiniams asmenims, subjektams ar organizacijoms, su paskutiniais pakeitimais, padarytais 2016 m. rugsėjo 20 d. Tarybos reglamentu (ES) 2016/1686.
+
+22. 2017 m. rugpjūčio 30 d. Tarybos reglamentas (ES) 2017/1509 dėl ribojamųjų priemonių Korėjos Liaudies Demokratinei Respublikai, kuriuo panaikinamas Reglamentas (EB) Nr. 329/2007, su paskutiniais pakeitimais, padarytais 2018 m. vasario 26 d. Tarybos reglamentu (ES) 2018/285.
+
+23. 2017 m. rugsėjo 28 d. Tarybos reglamentas (ES) 2017/1770 dėl ribojamųjų priemonių atsižvelgiant į padėtį Malyje su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 13 d. Tarybos reglamentu (ES) 2021/2201.
+
+24. 2017 m. lapkričio 13 d. Tarybos reglamentas (ES) 2017/2063 dėl ribojamųjų priemonių atsižvelgiant į padėtį Venesueloje su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 11 d. Tarybos reglamentu (ES) 2019/1889.
+
+25. 2018 m. spalio 15 d. Tarybos reglamentas (ES) 2018/1542 dėl ribojamųjų kovos su cheminio ginklo platinimu ir naudojimu priemonių.
+
+26. 2019 m. gegužės 17 d. Tarybos reglamentas (ES) 2019/796 dėl ribojamųjų priemonių, skirtų kovai su kibernetiniais išpuoliais, keliančiais grėsmę Sąjungai arba jos valstybėms narėms.
+
+27. 2019 m. spalio 14 d. Tarybos reglamentas (ES) 2019/1716 dėl ribojamųjų priemonių atsižvelgiant į padėtį Nikaragvoje su paskutiniais pakeitimais, padarytais 2022 m. spalio 13 d. Tarybos reglamentu (ES) 2022/1934.
+
+28. 2019 m. lapkričio 11 d. Tarybos reglamentas (ES) 2019/1890 dėl ribojamųjų priemonių atsižvelgiant į neturint leidimo Turkijos vykdomą gręžimo veiklą rytinėje Viduržemio jūros dalyje.
+
+29. 2020 m. gruodžio 7 d. Tarybos reglamentas (ES) 2020/1998 dėl ribojamųjų kovos su šiurkščiais žmogaus teisių pažeidimais priemonių.
+
+30. 2021 m. liepos 30 d. Tarybos reglamentas (ES) 2021/1275 dėl ribojamųjų priemonių atsižvelgiant į padėtį Libane.
+
+31. 2022 m. vasario 23 d. Tarybos reglamentas (ES) 2022/263 dėl ribojamųjų priemonių, taikytinų reaguojant į Rusijos Federacijos sprendimą neteisėtai pripažinti, okupuoti ar aneksuoti tam tikras vyriausybės nekontroliuojamas Ukrainos teritorijas, su paskutiniais pakeitimais, padarytais 2022 m. spalio 6 d. Tarybos reglamentu (ES) 2022/1903.
+
+_____________________
+
+Papildyta priedu:
+
+Nr. XIV-1865, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06472
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1693, 2011-11-17, Žin., 2011, Nr. 146-6839 (2011-12-01), i. k. 1111010ISTA0XI-1693
+
+Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo 12 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1552, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17467
+
+Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo Nr. IX-2160 12 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1567, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17487
+
+Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo Nr. IX-2160 12 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1991, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04586
+
+Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo Nr. IX-2160 12 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1020, 2022-04-19, paskelbta TAR 2022-04-26, i. k. 2022-08433
+
+Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo Nr. IX-2160 pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1865, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06472
+
+Lietuvos Respublikos tarptautinių sankcijų įstatymo Nr. IX-2160 1, 2, 5, 11, 12 straipsnių ir V skyriaus pakeitimo ir Įstatymo papildymo II-1 skyriumi ir priedu įstatymas
+
