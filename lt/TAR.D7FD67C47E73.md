@@ -1,0 +1,45 @@
+---
+title: "Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo 35 straipsnio papildymo įstatymas"
+identifier: "TAR.D7FD67C47E73"
+country: "lt"
+rank: "istatymas"
+publication_date: "2000-10-10"
+last_updated: "2000-10-10"
+status: "repealed"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.D7FD67C47E73"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "1001010ISTAIII-1983"
+document_number: "VIII-1983"
+published_in_tar: "2000-10-10"
+document_status: "registruotas TA registre"
+---
+# Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo 35 straipsnio papildymo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 35 STRAIPSNIO PAPILDYMO
+
+Į S T A T Y M A S
+
+2000 m. spalio 10 d. Nr. VIII-1983
+
+Vilnius
+
+(Žin., 1990, Nr. 31-742; 1992, Nr. 7-150, Nr. 14-388; 1993, Nr. 30-681, Nr. 59-1144; 1994, Nr. 30-531, Nr. 58-1135; 1995, Nr. 44-1077; 1996, Nr. 11-285, Nr. 62-1464; 1997, Nr. 28-662; 1998, Nr. 8-162, Nr. 90-2481; 1999, Nr. 19-515, Nr. 109-3174; 2000, Nr. 64-1911)
+
+1 straipsnis. 35 straipsnio papildymas
+
+Papildyti 35 straipsnį 2 dalimi:
+
+„Kaimo turizmo paslaugą kaimo vietovėse teikiantys ūkininkai ar individualių namų savininkai, kuriems pirmą kartą išduodami patentai apgyvendinimo paslaugoms teikti, penkerius metus paeiliui nuo patento išdavimo dienos patento mokesčio nemoka.“
+
+2 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+______________
+
