@@ -4,7 +4,7 @@ identifier: "TAR.CB5AF955F76E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-04-06"
-last_updated: "1993-05-10"
+last_updated: "1996-07-17"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
+
+Suvestinė redakcija nuo 1996-07-17 iki 1996-12-23
+
+Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
 
 LIETUVOS RESPUBLIKOS
 
@@ -57,6 +61,12 @@ Pagal šį įstatymą „Valstybės žiniose“ turi būti skelbiami:
 3 straipsnis
 
 Lietuvos Respublikos Seimo priimti teisės aktai, išskyrus įstatymus, Respublikos Prezidento dekretai, Lietuvos Respublikos Vyriausybės nutarimai, Lietuvos banko, ministerijų, departamentų ir Vyriausybės įstaigų bei kitų valstybės valdymo institucijų aktai, kuriuose nėra nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, neturintys visuotinės reikšmės Konstitucinio Teismo sprendimai, šiuos aktus pasirašiusių asmenų nuožiūra „Valstybės žiniose“ gali būti neskelbiami. Nepaisant to, ar jie paskelbti „Valstybės žiniose“, šie aktai turi būti išsiunčiami juose minimoms valstybės institucijoms, įmonėms, įstaigoms ir organizacijoms, juridiniams bei fiziniams asmenims.
+
+Teisės aktai, kuriuose yra valstybės ar tarnybinę paslaptį sudarančių žinių, „Valstybės žiniose“ neskelbiami. Šie aktai turi būti išsiunčiami toms institucijoms, kurios įstatymų nustatyta tvarka gali disponuoti valstybės ar tarnybinę paslaptį sudarančiomis žiniomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-1443, 1996-07-04, Žin., 1996, Nr. 67-1604 (1996-07-17), i. k. 0961010ISTA00I-1443
 
 4 straipsnis
 
@@ -206,29 +216,13 @@ Vilnius, 1993 m. balandžio 6 d.
 
 Nr. I-119
 
-101 straipsnis
+Pakeitimai:
 
-Šio įstatymo 2 straipsnyje nurodyti teisės aktai per 3 dienas nuo jų oficialaus paskelbimo „Valstybės žiniose“ turi būti paskelbti Seimo ir juos priėmusios institucijos interneto tinklapiuose.
+1.
 
-Šio įstatymo 3 straipsnio 1 dalyje nurodyti teisės aktai per 3 dienas nuo jų įsigaliojimo dienos turi būti paskelbti jį priėmusios institucijos interneto tinklapyje.
+Lietuvos Respublikos Seimas, Įstatymas
 
-Teisės aktai, kuriuose yra valstybės ar tarnybinę paslaptį sudarančių žinių, interneto tinklapiuose neskelbiami.
+Nr. I-1443, 1996-07-04, Žin., 1996, Nr. 67-1604 (1996-07-17), i. k. 0961010ISTA00I-1443
 
-Papildyta straipsniu:
-
-Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
-
-31 straipsnis. Oficialaus teisės aktų paskelbimo interneto tinklalapyje atvejai
-
-1. Tais atvejais, kai Lietuvos Respublikos Seimo nutarimai, Lietuvos Respublikos Vyriausybės nutarimai, ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų ir kolegialių institucijų priimti teisės aktai turi priedų (brėžinių, lentelių, grafikų, schemų, žemėlapių ar kt.), kuriuos paskelbti „Valstybės žiniose“ nėra techninių galimybių, tokie teisės aktai oficialiai paskelbiami tą pačią dieną:
-
-1) „Valstybės žinių“ interneto tinklalapyje (www.valstybes-zinios.lt) – teisės aktas su priedais;
-
-2) „Valstybės žiniose“ – teisės aktas be priedų.
-
-2. Šiame straipsnyje nurodytus teisės aktus „Valstybės žiniose“ ir „Valstybės žinių“ interneto tinklalapyje oficialiai skelbia juos pasirašę pareigūnai.
-
-Papildyta straipsniu:
-
-Nr. X-1020, 2007-01-16, Žin., 2007, Nr. 12-493 (2007-01-30), i. k. 1071010ISTA00X-1020
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 3 straipsnio papildymo įstatymas
 
