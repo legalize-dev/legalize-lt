@@ -4,7 +4,7 @@ identifier: "TAR.1273CA6042BD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-09"
-last_updated: "2000-09-26"
+last_updated: "2002-11-12"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Neoficialus įstatymo tekstas
 
 Įstatymas
 
-skelbtas: Žin., 1993, Nr.70-1304
+skelbtas: Žin., 1993, Nr. 70-1304
 
 Neoficialus
 
@@ -33,7 +33,7 @@ RESPUBLIKOS
 
 1993 m. gruodžio
 
-9 d. Nr.I-322
+9 d. Nr. I-322
 
 Vilnius
 
@@ -113,19 +113,23 @@ pateikiama jas deklaruojančio asmens nuolatinės gyvenamosios vietos valstybine
 
 mokesčių inspekcijai.
 
-Kai valstybinė mokesčių
+Kai valstybinė
 
-inspekcija turi pagrindo įtarti, kad pajamos yra neteisėtos, apie tai praneša
+mokesčių inspekcija turi pagrindo įtarti, kad pajamos yra neteisėtos, apie tai
 
-pajamas deklaruojančio asmens gyvenamosios vietos policijos komisariatui.
+praneša Finansinių nusikaltimų tyrimo tarnybai prie Vidaus reikalų
 
-Straipsnio
+ministerijos.
 
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr.I-890,
 
 95.05.11, Žin., 1995, Nr. 44-1075 (95.05.27)
+
+Nr. IX-1193,
+
+2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
 
 5 straipsnis.
 
@@ -311,7 +315,7 @@ RESPUBLIKOS
 
 PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
 
-____________
+________________
 
 Pakeitimai:
 
@@ -332,6 +336,10 @@ LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL BRANGŲ TURTĄ ĮSIGIJUSIŲ ARBA
 ĮSIGYJANČIŲ LIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ DEKLARAVIMO" PAKEITIMO
 
 IR PAPILDYMO
+
+Keistas
+
+įstatymo pavadinimas
 
 2.
 
@@ -385,9 +393,37 @@ BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ LĖŠŲ DEKLARA
 
 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-*** Pabaiga ***
+5.
 
-Redagavo: Aušrinė Trapinskienė (2000.10.16)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1193,
+
+2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
+
+AZARTINIŲ
+
+LOŠIMŲ ĮSTATYMO, DARBO SUTARTIES ĮSTATYMO, ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS
+
+GYVENTOJŲ PAJAMŲ BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ
+
+LĖŠŲ DEKLARAVIMO“, GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO
+
+ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2002-12-09)
+
+autrap@lrs.lt
 
 11 straipsnis.
 
@@ -485,13 +521,13 @@ Nr.85-2582 (00.10.11)
 
 7 straipsnis.
 
-Valstybinės mokesčių inspekcijos
+Valstybinės mokesčių
 
-pajamų deklaracijų duomenis naudoja tik apmokestinimo reikalams ir neturi
+inspekcijos pajamų deklaracijų duomenis naudoja tik apmokestinimo reikalams ir
 
-teisės jų skelbti, išskyrus šio įstatymo 4 ir 11 straipsniuose ir kituose
+neturi teisės jų skelbti, išskyrus šio įstatymo 4 ir 11 straipsniuose ir
 
-įstatymuose numatytais atvejais.
+kituose įstatymuose numatytais atvejais.
 
 Straipsnio
 
