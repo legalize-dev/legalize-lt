@@ -4,7 +4,7 @@ identifier: "TAR.4FB9F4D3ED6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-05-08"
-last_updated: "2000-07-13"
+last_updated: "2000-08-31"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -26,9 +26,7 @@ Neoficialus
 
 įstatymo tekstas
 
-LIETUVOS
-
-RESPUBLIKOS
+LIETUVOS RESPUBLIKOS
 
 Į M O N I Ų
 
@@ -90,9 +88,9 @@ I-1015,
 
 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
-Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.108-3129
+Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.
 
-(99.12.22)
+108-3129 (99.12.22)
 
 2
 
@@ -138,9 +136,9 @@ straipsnis.Įmonininkas
 
 yra fizinis arba juridinis asmuo, taip pat į bendrovę (bendriją) susijungę keli
 
-fiziniai ar juridiniai asmenys, kurie nuosavybės teise valdo, naudoja ir disponuoja
+fiziniai ar juridiniai asmenys, kurie nuosavybės teise valdo, naudoja ir
 
-įmonės turtu, organizuoja įmonės ūkinę ir finansinę veiklą.
+disponuoja įmonės turtu, organizuoja įmonės ūkinę ir finansinę veiklą.
 
 Nuosavybės
 
@@ -196,7 +194,7 @@ I-1015,
 
 Nr. VIII-422,
 
-97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
 
 5
 
@@ -240,13 +238,13 @@ Licencija yra dokumentas, suteikiantis teisę verstis
 
 Licencijuojamos tos komercinės-ūkinės veiklos
 
-sritys, kurios yra susijusios su padidėjusiu pavojumi žmogaus gyvybei,
+sritys, kurios yra susijusios su padidėjusiu pavojumi žmogaus gyvybei, sveikatai,
 
-sveikatai, aplinkai, ginkluotės gamyba ir įsigijimu, taip pat prekėmis ir
+aplinkai, ginkluotės gamyba ir įsigijimu, taip pat prekėmis ir paslaugomis,
 
-paslaugomis, kurioms įstatymai gali nustatyti specialią prekių pardavimo ar
+kurioms įstatymai gali nustatyti specialią prekių pardavimo ar paslaugų teikimo
 
-paslaugų teikimo tvarką.
+tvarką.
 
 Kiekvienai įstatymo nustatytai licencijuojamai
 
@@ -260,9 +258,7 @@ Licencijavimo taisyklėse nurodoma:
 
 2) licencijų rūšys;
 
-3) licenciją išduodanti institucija ir jos
-
-įgaliojimai;
+3) licenciją išduodanti institucija ir jos įgaliojimai;
 
 4) dokumentai, reikalingi licencijai gauti;
 
@@ -470,15 +466,15 @@ I-1462,
 
 Nr. VIII-422,
 
-97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
 
 Nr. VIII-1228,
 
-99.06.15, Žin., 1999, Nr.59-1917 (99.07.07)
+99.06.15, Žin., 1999, Nr. 59-1917 (99.07.07)
 
-Nr. VIII-1566, 00.03.16, Žin., 2000,
+Nr. VIII-1566, 00.03.16, Žin., 2000, Nr.
 
-Nr.28-756 (00.04.05)
+28-756 (00.04.05)
 
 14
 
@@ -514,23 +510,35 @@ privalančių registruotis šaukimo komisijose, sąrašus ar dokumentus, reikali
 
 karo prievolininkų karinei įskaitai tvarkyti.
 
-Lietuvos
+Įmonės, kurios
 
-Respublikos Aukščiausiosios Tarybos nutarimu paskelbus ypatingąją padėtį ar tam
+Lietuvos Respublikos valstybės rezervo įstatymo nustatyta tvarka yra
 
-tikrą teritoriją - nelaimės rajonu, įmonės privalo vykdyti Lietuvos Respublikos
+įpareigotos sukaupti ir tvarkyti privalomąsias materialinių išteklių atsargas,
 
-Vyriausybės arba vietos savivaldybės organo nurodymus.
+susidarius ekstremaliai situacijai ar ekonominei grėsmei privalo pagal Lietuvos
 
-Įmonė gali
+Respublikos Vyriausybės sprendimus atlygintinai perduoti šias atsargas
 
-gauti valstybės centralizuota tvarka skiriamų (parduodamų) finansinių,
+nustatytoms valstybės institucijoms, vietos savivaldos institucijoms ir ūkio
 
-medžiaginių ir kitokių vertybių už valstybės patvirtintą arba sutartinę kainą
+subjektams. Įstatymų nustatyta tvarka Lietuvos Respublikoje ar jos teritorijos
 
-ir už įmonės prisiimamus atitinkamus sutartinius įsipareigojimus valstybės
+dalyje paskelbus mobilizaciją ir (ar) įvedus nepaprastąją padėtį, įmonės
 
-(vietos savivaldybės) organui.
+privalo vykdyti Lietuvos Respublikos Vyriausybės, jos įgaliotos institucijos ir
+
+vietos savivaldos institucijos sprendimus.
+
+Įmonė gali gauti
+
+valstybės centralizuota tvarka skiriamų (parduodamų) finansinių, medžiaginių ir
+
+kitokių vertybių už valstybės patvirtintą arba sutartinę kainą ir už įmonės
+
+prisiimamus atitinkamus sutartinius įsipareigojimus valstybės (vietos
+
+savivaldybės) organui.
 
 Įmonė privalo
 
@@ -558,11 +566,15 @@ Nr.
 
 I-1600,
 
-96.10.22, Žin., 1996, Nr.106-2430 (96.11.06)
+96.10.22, Žin., 1996, Nr. 106-2430 (96.11.06)
 
 Nr. VIII-422,
 
-97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
+
+Nr. VIII-1910, 00.08.31, Žin., 2000, Nr.
+
+78-2361 (00.09.15)
 
 15
 
@@ -610,7 +622,7 @@ I-888,
 
 Nr. VIII-422,
 
-97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
 
 16
 
@@ -1460,7 +1472,7 @@ I-1552,
 
 Nr. VIII-422,
 
-97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
 
 20
 
@@ -1548,6 +1560,224 @@ Nr. VIII-422,
 
 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
+21
+
+straipsnis.Įmonės registravimas ir perregistravimas
+
+Įmonė laikoma
+
+įsteigta nuo jos įregistravimo Lietuvos Respublikos įmonių rejestre dienos.
+
+Įmonės neįregistravus Lietuvos Respublikos įstatymų nustatyta tvarka,
+
+komercine-ūkine veikla įmonės vardu užsiimti draudžiama. Asmenų pajamas, gautas
+
+iš komercinės-ūkinės veiklos neteisėtai naudojantis įmonės vardu, valstybinės
+
+mokesčių inspekcijos išieško į biudžetą per teismą.
+
+Įmonių
+
+registravimą reglamentuoja Lietuvos Respublikos įmonių rejestro įstatymas.
+
+Įmonei
+
+įregistruoti įmonių rejestro tvarkytojui pateikiamas steigėjo ar steigėjų
+
+prašymas įregistruoti įmonę, nurodant jame duomenis, reikalingus įtraukti į
+
+rejestrą, ir įstatymo nustatyti kiti įmonės registravimo dokumentai.
+
+Sprendimas
+
+įregistruoti arba atsisakyti įregistruoti įmonę turi būti priimtas ne vėliau
+
+kaip per 15 dienų nuo visų dokumentų, nurodytų šio straipsnio trečiojoje
+
+dalyje, įteikimo. Apie įmonės įregistravimą ar išregistravimą skelbiama
+
+Lietuvos Respublikos įmonių rejestro įstatymo nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-749,
+
+95.01.12, Žin., 1995, Nr. 10-206 (95.02.01)
+
+Nr.
+
+I-1015,
+
+95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+
+Nr.
+
+I-1252,
+
+96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
+
+Nr. VIII-422,
+
+97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
+
+22
+
+straipsnis.Atsisakymas įregistruoti ar perregistruoti įmonę
+
+Atsisakyti
+
+įregistruoti įmonę galima, jeigu nepateikti šio įstatymo 21 straipsnyje
+
+nustatyti dokumentai arba šie dokumentai neatitinka įstatymo nustatytų
+
+reikalavimų. Atsisakymas įregistruoti įmonę kitokiais motyvais yra neteisėtas.
+
+Apie sprendimą įmonės neįregistruoti atitinkamas organas per 3 dienas privalo
+
+raštu pranešti įmonės steigėjui.
+
+Atsisakymas
+
+įregistruoti įmonę gali būti užginčytas teismine tvarka. Įmonės steigėjas per
+
+teismą gali išieškoti nuostolius, atsiradusius dėl neteisėto atsisakymo
+
+įregistruoti įmonę.
+
+Tais
+
+atvejais, kai įmonės (įmonės steigimo sutarties arba įstatų) registravimas
+
+prilygsta leidimui užsiimti ūkine veikla, ginčai dėl registravimo nagrinėjami
+
+pagal šio įstatymo 20 straipsnį.
+
+Šiame
+
+straipsnyje išdėstytos taisyklės taikomos taip pat ir įmonių perregistravimui.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-678,
+
+90.10.16, Žin., 1990, Nr. 31-749
+
+Nr. VIII-422,
+
+97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
+
+23
+
+straipsnis.Įmonės likvidavimas ir reorganizavimas
+
+Įmonės
+
+likvidavimo pagrindas gali būti:
+
+1) įmonės
+
+savininko sprendimas nutraukti įmonės veiklą;
+
+2) teismo
+
+arba kreditorių susirinkimo sprendimas pripažinti įmonę bankrutavusia;
+
+3) valstybės organų priimtas sprendimas
+
+atšaukti įmonės registravimą už teisės pažeidimus, nustatytus Lietuvos
+
+Respublikos įstatymų, o laisvųjų ekonominių zonų įmonėms - ir Lietuvos
+
+Respublikos laisvųjų ekonominių zonų pagrindų įstatyme nustatytais atvejais.
+
+Organas,
+
+priėmęs sprendimą nutraukti įmonės veiklą, paskiria įmonės likvidatorių arba
+
+įpareigoja tai padaryti įmonės steigėją. Paskyrus likvidatorių, įmonė įgyja
+
+likviduojamos įmonės statusą: įmonės organai netenka savo įgaliojimų, įmonės
+
+organo funkcijas atlieka įmonės likvidatorius, įmonė privalo sumokėti
+
+nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio
+
+administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas,
+
+tarp jų baudas ir delspinigius, pervesdama jas į atitinkamus biudžetus iki
+
+likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka ir gali sudaryti
+
+tik tokius sandorius, kurie neprieštarauja likviduojamos įmonės veiklą
+
+reglamentuojantiems įstatymams. Likviduojama įmonė turi būti perregistruojama.
+
+Įmonės
+
+likvidavimo tvarką ir teisines pasekmes taip pat reglamentuoja ir Lietuvos
+
+Respublikos civilinis kodeksas, Lietuvos Respublikos įmonių bankroto įstatymas,
+
+kiti įstatyminiai aktai bei įmonės steigimo dokumentai.
+
+Įmonės gali
+
+būti reorganizuojamos: joms susijungus į gamybinius susivienijimus ir
+
+asociacijas, prisijungus prie kitų įmonių, susivienijimų, pasidalijus į kelias
+
+įmones. Įmonių reorganizavimo tvarką ir pasekmes nustato Lietuvos Respublikos
+
+civilinis kodeksas, Lietuvos Respublikos konkurencijos ir Įmonių bankroto
+
+įstatymai, kiti įstatyminiai aktai ir įmonės įstatai bei kiti įmonės steigimo
+
+dokumentai. Įmonę reorganizavus, naujam juridiniam asmeniui pereina teisės ir
+
+prievolės, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo
+
+biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės
+
+institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki
+
+reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka.
+
+Įmonę
+
+likvidavus arba reorganizavus daromi atitinkami įrašai įmonių registravimo
+
+rejestre. Apie tai skelbiama vietos ir Respublikos spaudoje.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-253,
+
+93.09.28, Žin., 1993, Nr. 52-994 (93.10.13)
+
+Nr.
+
+I-1252,
+
+96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
+
+Nr.
+
+VIII-376,
+
+97.07.02, Žin., 1997, Nr. 69-1737 (97.07.23)
+
 24 straipsnis.
 
 Įmonės filialai ir atstovybės
@@ -1556,11 +1786,11 @@ Lietuvos
 
 Respublikos įmonių rejestre įregistruota įmonė gali
 
-steigti filialus ir atstovybes šio ir kitų Lietuvos Respublikos įstatymų nustatyta
+steigti filialus ir atstovybes šio ir kitų Lietuvos Respublikos įstatymų
 
-tvarka. Įmonės filialų ir atstovybių skaičius neribojamas. Banko filialai
+nustatyta tvarka. Įmonės filialų ir atstovybių skaičius neribojamas. Banko
 
-(skyriai) ir banko atstovybės steigiami ir veikia Lietuvos Respublikos
+filialai (skyriai) ir banko atstovybės steigiami ir veikia Lietuvos Respublikos
 
 komercinių bankų įstatymo ir šio įstatymo nustatyta tvarka. Banko filialai
 
@@ -1578,11 +1808,11 @@ filialo prievoles įmonė atsako visu savo turtu. Filialas nėra juridinis asmuo
 
 Filialo veiklą organizuoja ir vykdo filialo vadovas, kuris įgyja teisę
 
-atstovauti filialui palaikant santykius su trečiaisiais asmenims tik filialą įregistravus.
+atstovauti filialui palaikant santykius su trečiaisiais asmenims tik filialą
 
-Jeigu filialo vadovas sudarydamas sandorius viršija jam suteiktus įgaliojimus,
+įregistravus. Jeigu filialo vadovas sudarydamas sandorius viršija jam suteiktus
 
-tai nepanaikina įmonės atsakomybės už šiuos sandorius.
+įgaliojimus, tai nepanaikina įmonės atsakomybės už šiuos sandorius.
 
 Atstovybė yra buveinę turintis įmonės padalinys,
 
@@ -1630,9 +1860,9 @@ veiklos trukmė, jei numatoma terminuota jo veikla;
 
 veiklos tikslai ir ūkinės veiklos rūšys;
 
-5) filialo
+5) filialo vadovo
 
-vadovo įgaliojimai.
+įgaliojimai.
 
 Filialo
 
@@ -1678,9 +1908,9 @@ filialą įsteigusi įmonė.
 
 organas, kuriam įstatai ar kiti steigimo dokumentai suteikė teisę priimti
 
-sprendimus nutraukti filialo ar atstovybės veiklą, priėmęs tokį sprendimą,
+sprendimus nutraukti filialo ar atstovybės veiklą, priėmęs tokį sprendimą, paskiria
 
-paskiria atsakingą asmenį veiklos nutraukimo procedūrai atlikti. Apie sprendimą
+atsakingą asmenį veiklos nutraukimo procedūrai atlikti. Apie sprendimą
 
 nutraukti filialo ar atstovybės veiklą įmonė viešai skelbia vietos ir šalies
 
@@ -1714,9 +1944,9 @@ I-1015,
 
 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
-Nr. VIII-1465, 99.12.07, Žin., 1999,
+Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.
 
-Nr.108-3129 (99.12.22)
+108-3129 (99.12.22)
 
 4 straipsnis.Įmonės
 
@@ -2134,9 +2364,9 @@ Valstybės ir
 
 savivaldybės įmonės pagal savo prievoles atsako tik tuo įmonės turtu, į kurį
 
-gali būti nukreipiamas išieškojimas. Įmonės neatsako už valstybės ar
+gali būti nukreipiamas išieškojimas. Įmonės neatsako už valstybės ar savivaldybės
 
-savivaldybės prievoles.
+prievoles.
 
 Valstybės ir
 
@@ -2154,7 +2384,7 @@ pakeitimai:
 
 Nr. VIII-422,
 
-97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
 
 11(1)
 
@@ -2178,7 +2408,7 @@ papildytas straipsniu:
 
 Nr. VIII-422,
 
-97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
 
 III skirsnis
 
@@ -3426,19 +3656,19 @@ Respublikoje draudžiama steigti ir laikyti lošimo namus, organizuoti azartiniu
 
 lošimus.
 
-Įmonių įstatymo
+Įmonių įstatymo 6
 
-6 straipsnyje nurodytoms įmonėms ir jų junginiams draudžiama verstis kredito
+straipsnyje nurodytoms įmonėms ir jų junginiams draudžiama verstis kredito
 
 įstaigų veikla, taip pat draudžiama skolintis pinigų iš fizinių asmenų,
 
 išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus ir būdus.
 
-Komercinės-ūkinės veiklos sritis, kuriose
+Komercinės-ūkinės veiklos sritis,
 
-neleidžiamos užsienio investicijos, nustato Lietuvos Respublikos investicijų
+kuriose neleidžiamos užsienio investicijos, nustato Lietuvos Respublikos
 
-įstatymas.
+investicijų įstatymas.
 
 Laisvųjų
 
@@ -3464,9 +3694,9 @@ atstovybę, taip pat sudarydama sandorius su Lietuvos Respublikos asmenimis. Už
 
 valstybės įmonės iš šios veiklos gautas pelnas (pajamos) apmokestinamas
 
-vadovaujantis Lietuvos Respublikos įstatymais ir Lietuvos Respublikos tarptautinėmis
+vadovaujantis Lietuvos Respublikos įstatymais ir Lietuvos Respublikos
 
-sutartimis.
+tarptautinėmis sutartimis.
 
 Straipsnio
 
@@ -3520,19 +3750,19 @@ I-1552,
 
 Nr. VIII-422,
 
-97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
 
 Nr. VIII-936,
 
-98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
+98.11.24, Žin., 1998, Nr. 109-2994 (98.12.11)
 
 Nr. VIII-1305,
 
-99.07.07, Žin., 1999, Nr.66-2122 (99.07.30)
+99.07.07, Žin., 1999, Nr. 66-2122 (99.07.30)
 
-Nr. VIII-1465, 99.12.07, Žin., 1999,
+Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.
 
-Nr.108-3129 (99.12.22)
+108-3129 (99.12.22)
 
 25 straipsnis.
 
@@ -3588,15 +3818,15 @@ atstovybė nėra juridinis asmuo. Užsienio valstybės įmonės atstovybė ją
 
 įsteigusios įmonės vardu gali sudaryti sandorius tik savo reikmėms tenkinti
 
-pagal suteiktus įgaliojimus. Eksporto ir importo operacijos gali būti atliekamos
+pagal suteiktus įgaliojimus. Eksporto ir importo operacijos gali būti
 
-tik tarp užsienio valstybės įmonės atstovybės ir ją įsteigusios įmonės arba
+atliekamos tik tarp užsienio valstybės įmonės atstovybės ir ją įsteigusios
 
-šios įmonės įgalioto užsienio ūkio subjekto. Eksporto ir importo muitinės
+įmonės arba šios įmonės įgalioto užsienio ūkio subjekto. Eksporto ir importo
 
-procedūros įforminamos Lietuvos Respublikos įstatymų nustatyta tvarka pagal
+muitinės procedūros įforminamos Lietuvos Respublikos įstatymų nustatyta tvarka
 
-atstovybės buveinės vietą. Užsienio valstybės įmonės atstovybės veiklą
+pagal atstovybės buveinės vietą. Užsienio valstybės įmonės atstovybės veiklą
 
 organizuoja ir vykdo užsienio valstybės įmonės atstovybės vadovas, kuris įgyja
 
@@ -3662,9 +3892,9 @@ valstybės įmonės filialas ir atstovybė registruojami Lietuvos Respublikos
 
 valstybės įmonės filialas komercinę-ūkinę veiklą gali pradėti tik
 
-jį įregistravus. Dokumentus, kuriuos reikia pateikti norint įregistruoti
+jį įregistravus. Dokumentus, kuriuos reikia pateikti norint įregistruoti filialą
 
-filialą ar atstovybę, nustato Lietuvos Respublikos Vyriausybė.
+ar atstovybę, nustato Lietuvos Respublikos Vyriausybė.
 
 Užsienio valstybės įmonės filialas
 
@@ -3672,13 +3902,13 @@ ir atstovybė raštvedybą, apskaitą, atskaitomybę, finansinius bei techninius
 
 dokumentus tvarko lietuvių kalba, o jeigu reikia, - ir užsienio kalba.
 
-Užsienio
+Užsienio valstybės
 
-valstybės įmonės filialas ir atstovybė privalo tvarkyti apskaitą bei teikti
+įmonės filialas ir atstovybė privalo tvarkyti apskaitą bei teikti valstybės
 
-valstybės institucijoms informaciją Lietuvos Respublikos įstatymų ir kitų
+institucijoms informaciją Lietuvos Respublikos įstatymų ir kitų teisės aktų
 
-teisės aktų nustatyta tvarka.
+nustatyta tvarka.
 
 Užsienio
 
@@ -3756,9 +3986,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1465, 99.12.07, Žin., 1999,
+Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.
 
-Nr.108-3129 (99.12.22)
+108-3129 (99.12.22)
 
 LIETUVOS RESPUBLIKOS
 
@@ -4312,7 +4542,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-376,
+Nr.
+
+VIII-376,
 
 97.07.02, Žin., 1997, Nr.69-1737 (97.07.23)
 
@@ -4326,7 +4558,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-422,
+Nr.
+
+VIII-422,
 
 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
@@ -4342,7 +4576,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-936,
+Nr.
+
+VIII-936,
 
 98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
 
@@ -4420,9 +4656,23 @@ Nr.64-1920 (00.07.31)
 
 ĮMONIŲ ĮSTATYMO 7, 8 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+42.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1910, 00.08.31, Žin., 2000,
+
+Nr.78-2361 (00.09.15)
+
+ĮMONIŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas pradedamas įgyvendinti nuo 2001 m. liepos 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.08.18)
+Redagavo: Aušrinė Trapinskienė (2000.09.15)
 
 6 straipsnis.Įmonių rūšys ir
 
@@ -4500,7 +4750,7 @@ I-1015,
 
 Nr. VIII-422,
 
-97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
 
 7
 
@@ -4544,9 +4794,9 @@ I-529,
 
 94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
 
-Nr. VIII-1843, 00.07.13, Žin., 2000,
+Nr. VIII-1843, 00.07.13, Žin., 2000, Nr.
 
-Nr.64-1920 (00.07.31)
+64-1920 (00.07.31)
 
 8
 
@@ -4590,9 +4840,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1843, 00.07.13, Žin., 2000,
+Nr. VIII-1843, 00.07.13, Žin., 2000, Nr.
 
-Nr.64-1920 (00.07.31)
+64-1920 (00.07.31)
 
 9
 
@@ -4648,9 +4898,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1843, 00.07.13, Žin., 2000,
+Nr. VIII-1843, 00.07.13, Žin., 2000, Nr.
 
-Nr.64-1920 (00.07.31)
+64-1920 (00.07.31)
 
 10
 
@@ -4678,13 +4928,13 @@ veiklą, akcininkų teises ir pareigas, santykius su akcininkais, kreditoriais i
 
 su bendrovės veikla susijusius santykius taip pat reglamentuoja Lietuvos
 
-Respublikos civilinis kodeksas, Akcinių bendrovių įstatymas, Investicinių
+Respublikos civilinis kodeksas, Akcinių bendrovių įstatymas, Investicinių bendrovių
 
-bendrovių įstatymas ir kiti norminiai aktai bei nustatyta tvarka įregistruoti
+įstatymas ir kiti norminiai aktai bei nustatyta tvarka įregistruoti atskiros
 
-atskiros akcinės bendrovės, uždarosios akcinės bendrovės ar investicinės
+akcinės bendrovės, uždarosios akcinės bendrovės ar investicinės bendrovės
 
-bendrovės įstatai.
+įstatai.
 
 Straipsnio
 
@@ -4702,9 +4952,9 @@ I-1015,
 
 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
-18 straipsnis.Įmonės
+18 straipsnis.Įmonės steigimo
 
-steigimo tvarka
+tvarka
 
 Įmonės steigimo tvarką
 
