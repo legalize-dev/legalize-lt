@@ -4,7 +4,7 @@ identifier: "TAR.E4628D05BECC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-28"
-last_updated: "1994-07-13"
+last_updated: "1996-10-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E4628D05BECC"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1994-06-28"
 document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos policijos įstatymo, Lietuvos Respublikos laikinojo krašto apsaugos prievolės įstatymo ir Lietuvos Respublikos krašto apsaugos tarnybos įstatymo pakeitimo ir papildymo
+
+Suvestinė redakcija nuo 1996-10-18
+
+Įstatymas paskelbtas: Žin. 1994, Nr. 53-994, i. k. 0941010ISTA000I-514
 
 LIETUVOS RESPUBLIKOS
 
@@ -101,9 +105,25 @@ b) vidaus daliniuose ir pasienio policijoje;
 
 c) sukarintos priešgaisrinės apsaugos, svarbių civilinių objektų apsaugos bei gelbėjimo tarnybų junginiuose.“
 
-III. Pakeisti ir papildyti Lietuvos Respublikos krašto apsaugos tarnybos įstatymą (Žin., 1990, Nr.36-861):
+3 dalis. Neteko galios nuo 1996-10-18
 
-1. 6 straipsnį išdėstyti taip:
+Dalies naikinimas:
+
+Nr. I-1548, 1996-09-25, Žin. 1996, Nr. 101-2302 (1996-10-18), i. k. 0961010ISTA00I-1548
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1548, 1996-09-25, Žin., 1996, Nr. 101-2302 (1996-10-18), i. k. 0961010ISTA00I-1548
+
+Lietuvos Respublikos krašto apsaugos tarnybos įstatymas
 
 „6 straipsnis
 
