@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "1995-05-30"
+last_updated: "1995-11-07"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -16,11 +16,11 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Redaguota: 1995 06 14
+Redaguota: 1995 11 17
 
-Redaguota: 1995 06
+Redaguota:
 
-14
+1995 11 17
 
 Pakeitimai:
 
@@ -57,6 +57,24 @@ DĖL LIETUVOS
 RESPUBLIKOS AKCIZŲ ĮSTATYMO
 
 PAKEITIMO IR
+
+PAPILDYMO
+
+3.Lietuvos
+
+Respublikos 1995 11 07
+
+Įstatymas
+
+Nr.1-1082
+
+Žin., 1995
+
+Nr.94-2087
+
+DĖL LIETUVOS
+
+RESPUBLIKOS AKCIZŲ ĮSTATYMO
 
 PAPILDYMO
 
@@ -114,6 +132,22 @@ apskaičiuoja, surenka ir moka akcinė bendrovė
 
 nafta".
 
+Pasikeitus
+
+akcizų   tarifams,  akcizų  skirtumą,  tenkantį
+
+prekių likučiui,
+
+esančiam  mažmeninės  ir  didmeninės  prekybos
+
+įmonėse, sumoka
+
+šios  įmonės  Lietuvos  Respublikos  Vyriausybės
+
+nustatyta tvarka ir
+
+terminais.
+
 Pakeitimai:
 
 1.Lietuvos
@@ -128,6 +162,18 @@ Nr.1-905
 
 Nr.49-1179
 
+2.Lietuvos
+
+Respublikos 1995 11 07
+
+Įstatymas
+
+Nr.1-1082
+
+Žin., 1995
+
+Nr.94-1084
+
 3 straipsnis.
 
 Akcizų objektas
@@ -136,9 +182,9 @@ Akcizų objektas
 
 yra šios prekės:
 
-1)
+1) nedenatūruotas
 
-nedenatūruotas  etilo alkoholis  ir alkoholiniai gėrimai,
+etilo alkoholis  ir alkoholiniai gėrimai,
 
 įskaitant alų;
 
@@ -154,9 +200,7 @@ tabakas ir tabako gaminiai;
 
 aukso ir sidabro dirbiniai, išskyrus dirbtinę
 
-bižuteriją ir
-
-monetas;
+bižuteriją ir monetas;
 
 5) variklių
 
@@ -254,7 +298,7 @@ Apmokestinamoji apyvarta
 
 Akcizai
 
-apskaičiuojami   už  šio   įstatymo  3  straipsnyje
+apskaičiuojami   už  šio   įstatymo  3  straipsnyje
 
 išvardytas prekes:
 
@@ -272,7 +316,7 @@ neturinčiai
 
 perdavimo
 
-dokumentais,   perleidžiama  teisė  jomis  disponuoti.
+dokumentais,   perleidžiama  teisė  jomis  disponuoti.
 
 Šiuose dokumentuose
 
@@ -354,7 +398,7 @@ tranzitu prekės.
 
 Taip   pat
 
-akcizas   netaikomas,   kai   etilo   alkoholis
+akcizas   netaikomas,   kai   etilo   alkoholis
 
 parduodamas:
 
@@ -374,9 +418,9 @@ medicinos ir
 
 farmacijos reikmėms;  veterinarinių vaistų  gamybos
 
-įmonėms -
+įmonėms -  veterinarinių
 
-veterinarinių vaistų  gamybai ir veterinarijos tiekimo
+vaistų  gamybai ir veterinarijos tiekimo
 
 įmonėms -
 
@@ -400,9 +444,9 @@ Nr.49-1179
 
 Mokestinis laikotarpis
 
-Akcizų
+Akcizų (išskyrus
 
-(išskyrus  importuojamų  prekių  akcizus)  mokestinis
+importuojamų  prekių  akcizus)  mokestinis
 
 laikotarpis yra
 
@@ -454,9 +498,9 @@ Už
 
 importuojamas prekes akcizai sumokami į biudžetą Lietuvos
 
-Respublikos
+Respublikos Vyriausybės
 
-Vyriausybės  nustatyta  mokesčių  mokėjimo  muitinėje
+nustatyta  mokesčių  mokėjimo  muitinėje
 
 tvarka.
 
@@ -468,9 +512,9 @@ gėrimus,  tabako
 
 gaminius   bei   naftos   produktus   Lietuvos
 
-Respublikos   Vyriausybė
+Respublikos
 
-gali   nustatyti    kitokią    akcizo
+Vyriausybė    gali   nustatyti    kitokią    akcizo
 
 apskaičiavimo ir
 
@@ -504,9 +548,9 @@ išieškoma  papildomai apskaičiuota  akcizo suma ir jos
 
 dydžio bauda.
 
-Jei  mokėtojas
+Jei
 
-nepateikė  akcizų   apyskaitos,   išieškoma
+mokėtojas   nepateikė  akcizų   apyskaitos,   išieškoma
 
 nuslėptoji akcizų
 
