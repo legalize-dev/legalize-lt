@@ -4,7 +4,7 @@ identifier: "TAR.0808D5C392B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-03-20"
-last_updated: "2003-06-05"
+last_updated: "2003-07-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0808D5C392B2"
 department: "Lietuvos Respublikos Seimas"
@@ -50,11 +50,11 @@ unijoms (toliau – įmonės), įregistruotiems Lietuvos Respublikoje įstatymų
 
 nustatyta tvarka. Bankų, kredito unijų, draudimo įmonių, žemės ūkio įmonių,
 
-vertybinių popierių viešosios apyvartos tarpininkų, investicinių bendrovių ir
+vertybinių popierių viešosios apyvartos tarpininkų ir kitų įmonių bei įstaigų
 
-kitų įmonių bei įstaigų bankroto proceso ypatumus gali nustatyti kiti šių
+bankroto proceso ypatumus gali nustatyti kiti šių įmonių ir viešųjų įstaigų
 
-įmonių ir viešųjų įstaigų veiklą reglamentuojantys įstatymai.
+veiklą reglamentuojantys įstatymai.
 
 3.
 
@@ -65,6 +65,14 @@ reikalavimų tenkinimą, kreditoriaus teisę imtis priemonių skoloms išieškot
 mokesčius ir kitas privalomąsias įmokas ir jų administravimą bankroto proceso
 
 metu, įmonėse taikomos tiek, kiek jos neprieštarauja šio įstatymo nuostatoms.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-1711,
+
+2003-07-04, Žin., 2003, Nr. 74-3426 (2003-07-25)
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -134,9 +142,9 @@ kreditoriaus ir įmonės sutartyse įmonės įsipareigojimams įvykdyti, arba pr
 
 tokiam pat terminui po kreditoriaus (kreditorių) reikalavimo įvykdyti
 
-įsipareigojimus, jeigu sutartyse terminas nebuvo nustatytas, ir pradelsti
+įsipareigojimus, jeigu sutartyse terminas nebuvo nustatytas, ir pradelsti įmonės
 
-įmonės įsipareigojimai (skolos) viršija pusę į jos balansą įrašyto turto
+įsipareigojimai (skolos) viršija pusę į jos balansą įrašyto turto
 
 vertės.
 
@@ -368,9 +376,9 @@ Nr. IX-1200,
 
 2002-11-19, Žin., 2002, Nr. 116-5193 (2002-12-06), įsigalioja nuo 2003-01-01
 
-7 straipsnis. Įmonės likvidatoriaus pareiškimas
+7 straipsnis. Įmonės likvidatoriaus pareiškimas teismui
 
-teismui dėl bankroto bylos iškėlimo
+dėl bankroto bylos iškėlimo
 
 1.
 
@@ -600,9 +608,9 @@ finansininką (buhalterį), likvidatorių pateikti teismui bankroto bylai
 
 nagrinėti reikalingus dokumentus ir įvertinti įmonės turtą;
 
-2) kviesti į
+2) kviesti į teismą
 
-teismą įmonės savininką (savininkus), valdybos narius, vadovą, vyriausiąjį
+įmonės savininką (savininkus), valdybos narius, vadovą, vyriausiąjį
 
 finansininką (buhalterį) ir kitus atsakingus darbuotojus, neatsižvelgiant į
 
@@ -610,11 +618,11 @@ tai, kokiu pagrindu buvo nutrauktos su jais darbo sutartys, jeigu jie buvo
 
 atleisti iš darbo per 12 mėnesių iki pareiškimo dėl bankroto bylos iškėlimo
 
-pateikimo teismui dienos, ir reikalauti iš jų raštiškų paaiškinimų, susijusių su
+pateikimo teismui dienos, ir reikalauti iš jų raštiškų paaiškinimų, susijusių
 
-bankroto bylos iškėlimu. Šiems asmenims atvykti į teismą būtina, jiems taikomos
+su bankroto bylos iškėlimu. Šiems asmenims atvykti į teismą būtina, jiems
 
-Civilinio proceso kodekso liudytojams nustatytos garantijos;
+taikomos Civilinio proceso kodekso liudytojams nustatytos garantijos;
 
 3) kviesti į
 
@@ -752,40 +760,6 @@ uždėti įmonės nekilnojamajam turtui ir kitam ilgalaikiam materialiam turtui
 
 areštą, galiojantį iki nutarties iškelti bankroto bylą įsiteisėjimo dienos;
 
-4 dalies 3
-
-punkto redakcija iki 2003 m. liepos 1 d.:
-
-3)
-
-raštu nedelsiant pranešti apie iškeltą bylą juridinių asmenų registrui,
-
-įmonei (kai nutartis priimta rašytinio proceso tvarka – ir kreditoriams) ir per
-
-10 dienų nuo teismo nutarties iškelti bankroto bylą įsiteisėjimo dienos:
-
-kreditoriams, visiems asmenims, išsinuomojusiems, pasiskolinusiems, saugantiems
-
-arba kitais pagrindais naudojantiems ar valdantiems įmonės turtą, Finansų
-
-ministerijai, jeigu įmonė yra valstybės vardu gautos paskolos arba paskolos,
-
-kuriai suteikta valstybės garantija, gavėja, mokesčių, privalomojo socialinio
-
-draudimo bei privalomojo sveikatos draudimo administratoriams, kredito
-
-įstaigoms bei draudimo įmonėms, aptarnaujančioms šią įmonę, valstybės,
-
-savivaldybės bankrutuojančios įmonės steigėjui ar įmonei atstovaujančiai institucijai,
-
-taip pat Vertybinių popierių komisijai, jeigu bankroto byla iškelta akcinei
-
-bendrovei;
-
-4 dalies 3
-
-punkto redakcija nuo 2003 m. liepos 1 d.:
-
 3) raštu nedelsiant pranešti apie iškeltą bylą
 
 juridinių asmenų registrui, įmonei (kai nutartis priimta rašytinio proceso
@@ -796,19 +770,19 @@ Lietuvos banko pagal Atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių
 
 atsiskaitymo sistemose įstatymą skelbiamame sistemų dalyvių sąraše, ir per 10
 
-dienų nuo teismo nutarties iškelti bankroto bylą įsiteisėjimo dienos:
+dienų nuo teismo nutarties iškelti bankroto bylą įsiteisėjimo dienos: kreditoriams,
 
-kreditoriams, visiems asmenims, išsinuomojusiems, pasiskolinusiems, saugantiems
+visiems asmenims, išsinuomojusiems, pasiskolinusiems, saugantiems arba kitais
 
-arba kitais pagrindais naudojantiems ar valdantiems įmonės turtą, Finansų
+pagrindais naudojantiems ar valdantiems įmonės turtą, Finansų ministerijai,
 
-ministerijai, jeigu įmonė yra valstybės vardu gautos paskolos arba paskolos,
+jeigu įmonė yra valstybės vardu gautos paskolos arba paskolos, kuriai suteikta
 
-kuriai suteikta valstybės garantija, gavėja, mokesčių, privalomojo socialinio
+valstybės garantija, gavėja, mokesčių, privalomojo socialinio draudimo bei
 
-draudimo bei privalomojo sveikatos draudimo administratoriams, kredito
+privalomojo sveikatos draudimo administratoriams, kredito įstaigoms bei
 
-įstaigoms bei draudimo įmonėms, aptarnaujančioms šią įmonę, valstybės, savivaldybės
+draudimo įmonėms, aptarnaujančioms šią įmonę, valstybės, savivaldybės
 
 bankrutuojančios įmonės steigėjui ar įmonei atstovaujančiai institucijai, taip
 
@@ -926,30 +900,6 @@ vyriausiasis finansininkas (buhalteris) privalo per visą bankroto procesą
 
 teismo reikalavimu teikti visą bankroto procesui reikalingą informaciją;
 
-7 dalies 3
-
-punkto redakcija iki 2003 m. liepos 1 d.:
-
-3) draudžiama
-
-vykdyti visas finansines prievoles, neįvykdytas iki bankroto bylos iškėlimo,
-
-įskaitant palūkanų, netesybų, mokesčių ir kitų privalomųjų įmokų mokėjimą,
-
-išieškoti skolas iš šios įmonės teismo ar ne ginčo tvarka. Nutraukiamas
-
-netesybų ir palūkanų už visas įmonės prievoles, tarp jų už išmokų, susijusių su
-
-darbo santykiais, pavėluotą mokėjimą, skaičiavimas. Negali būti nustatoma
-
-priverstinė hipoteka. Įmonės kolektyvinės sutarties galiojimas ribojamas
-
-kreditorių susirinkimo nustatyta tvarka;
-
-7 dalies 3
-
-punkto redakcija nuo 2003 m. liepos 1 d.:
-
 3) draudžiama vykdyti visas finansines prievoles,
 
 neįvykdytas iki bankroto bylos iškėlimo, įskaitant palūkanų, netesybų, mokesčių
@@ -962,23 +912,23 @@ tarp jų už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą,
 
 skaičiavimas. Negali būti nustatoma priverstinė hipoteka. Įmonės kolektyvinės
 
-sutarties galiojimas ribojamas kreditorių susirinkimo nustatyta tvarka.
+sutarties galiojimas ribojamas kreditorių susirinkimo nustatyta tvarka. Draudimai
 
-Draudimai vykdyti finansines prievoles bei išieškoti skolas netaikomi
+vykdyti finansines prievoles bei išieškoti skolas netaikomi Atsiskaitymų
 
-Atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose
+baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo
 
-įstatymo nustatytais atvejais;
+nustatytais atvejais;
 
 4) jei per 30
 
 dienų nuo teismo nutarties iškelti bankroto bylą įsiteisėjimo dienos
 
-administratorius pranešė suinteresuotiems asmenims, kad įmonės sudarytų sutarčių,
+administratorius pranešė suinteresuotiems asmenims, kad įmonės sudarytų
 
-kurių vykdymo terminas dar nepasibaigė, nevykdys, šios sutartys (tarp jų
+sutarčių, kurių vykdymo terminas dar nepasibaigė, nevykdys, šios sutartys (tarp
 
-nuomos, panaudos), išskyrus darbo sutartis ir sutartis, iš kurių kyla
+jų nuomos, panaudos), išskyrus darbo sutartis ir sutartis, iš kurių kyla
 
 bankrutuojančios įmonės reikalavimo teisės, laikomos pasibaigusiomis, o dėl
 
@@ -1026,9 +976,9 @@ teisėjas turi raštu nedelsdamas pranešti juridinių asmenų registrui apie
 
 duomenis (vardą, pavardę (pavadinimą), asmens kodą (juridinio asmens kodą),
 
-gyvenamąją vietą (buveinę). Teismas arba teisėjas šiuos veiksmus gali pavesti atlikti
+gyvenamąją vietą (buveinę). Teismas arba teisėjas šiuos veiksmus gali pavesti
 
-administratoriui.
+atlikti administratoriui.
 
 8.
 
@@ -1036,13 +986,13 @@ Atskirasis skundas dėl nutarties iškelti bankroto bylą, paskirti, laikinai
 
 pavaduoti arba atstatydinti administratorių Lietuvos apeliaciniame teisme turi
 
-būti išnagrinėtas ne vėliau kaip per dvi savaites nuo jo padavimo dienos. Lietuvos
+būti išnagrinėtas ne vėliau kaip per dvi savaites nuo jo padavimo dienos.
 
-apeliacinis teismas, panaikinęs nutartį, kuria atsisakyta kelti bankroto bylą,
+Lietuvos apeliacinis teismas, panaikinęs nutartį, kuria atsisakyta kelti
 
-negali priimti nutarties ją iškelti. Lietuvos apeliacinio teismo nutartis yra
+bankroto bylą, negali priimti nutarties ją iškelti. Lietuvos apeliacinio teismo
 
-galutinė ir kasacine tvarka neskundžiama.
+nutartis yra galutinė ir kasacine tvarka neskundžiama.
 
 9. Teismas turi teisę priimti
 
@@ -1050,9 +1000,9 @@ kreditorių reikalavimus, kurie buvo pateikti pažeidus šio straipsnio 4 dalies
 
 punkte nustatytus terminus, jeigu termino praleidimo priežastis pripažįsta svarbiomis. Kreditorių pareiškimai dėl
 
-reikalavimų, susidariusių iki bankroto bylos iškėlimo, pripažinimo, paduoti po šio
+reikalavimų, susidariusių iki bankroto bylos iškėlimo, pripažinimo, paduoti po
 
-straipsnio 4 dalies 5 punkte nustatyto termino, priimami tik iki
+šio straipsnio 4 dalies 5 punkte nustatyto termino, priimami tik iki
 
 teismo nutarties nutraukti bankroto bylą arba įmonę likviduoti dėl bankroto
 
@@ -1152,19 +1102,17 @@ administratoriaus kandidatūrą. Administratoriaus kandidatūrą gali pasiūlyti
 
 kiti šio įstatymo 5 straipsnio 1 dalyje išvardyti asmenys. Teismas turi teisę
 
-administratoriumi paskirti ir kitą asmenį, atitinkantį šio straipsnio
+administratoriumi paskirti ir kitą asmenį, atitinkantį šio straipsnio reikalavimus.
 
-reikalavimus. Jei asmuo, pateikdamas teismui pareiškimą dėl bankroto bylos
+Jei asmuo, pateikdamas teismui pareiškimą dėl bankroto bylos iškėlimo, ar kiti
 
-iškėlimo, ar kiti šio įstatymo 5 straipsnio 1 dalyje išvardyti asmenys
+šio įstatymo 5 straipsnio 1 dalyje išvardyti asmenys administratoriaus
 
-administratoriaus kandidatūros nepasiūlo, teismas privalo pats parinkti
+kandidatūros nepasiūlo, teismas privalo pats parinkti administratorių. Skiriamo
 
-administratorių. Skiriamo administratoriaus kandidatūrą teismas privalo
+administratoriaus kandidatūrą teismas privalo suderinti su šio straipsnio 10
 
-suderinti su šio straipsnio 10 dalyje nurodyta Vyriausybės įgaliota
-
-institucija.
+dalyje nurodyta Vyriausybės įgaliota institucija.
 
 3.
 
@@ -1218,23 +1166,23 @@ patikrina bankrutuojančios įmonės sandorius, sudarytus per ne mažesnį kaip 
 
 mėnesių laikotarpį iki bankroto bylos iškėlimo, ir pareiškia ieškinius įmonės
 
-bankroto bylą nagrinėjančiame teisme dėl sandorių, priešingų įmonės veiklos
+bankroto bylą nagrinėjančiame teisme dėl sandorių, priešingų įmonės
 
-tikslams ir (arba) galėjusių turėti įtakos tam, kad įmonė negali atsiskaityti
+veiklos tikslams ir (arba) galėjusių turėti įtakos tam, kad įmonė negali
 
-su kreditoriais, pripažinimo negaliojančiais. Šiuo atveju laikytina, kad
+atsiskaityti su kreditoriais, pripažinimo negaliojančiais. Šiuo atveju
 
-administratorius apie sandorius sužinojo nuo nutarties iškelti bankroto bylą
+laikytina, kad administratorius apie sandorius sužinojo nuo nutarties iškelti
 
-įsiteisėjimo dienos;
+bankroto bylą įsiteisėjimo dienos;
 
 9) atstovauja
 
 arba įgalioja kitą asmenį atstovauti bankrutuojančiai įmonei teisme, kreditorių
 
-susirinkime ir sudarant sandorius, kai bankrutuojanti įmonė tęsia ūkinę
+susirinkime ir sudarant sandorius, kai bankrutuojanti įmonė tęsia ūkinę komercinę
 
-komercinę veiklą;
+veiklą;
 
 10)
 
@@ -1258,19 +1206,19 @@ reikalavimams, susijusiems su darbo santykiais, tenkinti;
 
 13) per laikotarpį iki
 
-pirmojo kreditorių susirinkimo sprendžia klausimus dėl įmonės sudarytų sandorių,
+pirmojo kreditorių susirinkimo sprendžia klausimus dėl įmonės sudarytų
 
-kurių įvykdymo terminas dar nepasibaigė, tolesnio vykdymo ir naujų sandorių,
+sandorių, kurių įvykdymo terminas dar nepasibaigė, tolesnio vykdymo ir naujų
 
-reikalingų įmonės ūkinei komercinei veiklai tęsti, sudarymo, jei įmonė tęsia
+sandorių, reikalingų įmonės ūkinei komercinei veiklai tęsti, sudarymo, jei
 
-ūkinę komercinę veiklą, ir ne vėliau kaip per 30 dienų nuo teismo nutarties
+įmonė tęsia ūkinę komercinę veiklą, ir ne vėliau kaip per 30 dienų nuo teismo
 
-iškelti bankroto bylą įsiteisėjimo dienos praneša suinteresuotiems asmenims
+nutarties iškelti bankroto bylą įsiteisėjimo dienos praneša suinteresuotiems
 
-apie tai, kad vykdys įmonės sudarytas sutartis, kurių vykdymo terminas dar
+asmenims apie tai, kad vykdys įmonės sudarytas sutartis, kurių vykdymo terminas
 
-nepasibaigė, arba jų nevykdys;
+dar nepasibaigė, arba jų nevykdys;
 
 14) gina visų kreditorių,
 
@@ -1372,9 +1320,9 @@ taikomi ir šioje dalyje nurodytiems asmenims, kurie dirbo bankrutuojančioje
 
 bylos iškėlimo. Administratorius negali turėti teisinio suinteresuotumo bylos
 
-baigtimi. Juridinio asmens, turinčio teisę teikti bankroto administravimo
+baigtimi. Juridinio asmens, turinčio teisę teikti bankroto administravimo paslaugas,
 
-paslaugas, vadovui, jo pavaduotojams (direktoriams), vyriausiajam finansininkui
+vadovui, jo pavaduotojams (direktoriams), vyriausiajam finansininkui
 
 (buhalteriui), juridinio asmens organo nariams, juridinio asmens dalyviams
 
@@ -1474,13 +1422,13 @@ institucijų išduotus vykdomuosius dokumentus.
 
 Jei įmonė negali ir negalės atsiskaityti su kreditoriumi (kreditoriais), įmonės
 
-vadovas, savininkas (savininkai), numatę siekti kreditorių sutikimo, kad bankroto
+vadovas, savininkas (savininkai), numatę siekti kreditorių sutikimo, kad
 
-procesas vyktų ne teismo tvarka, siūlymą bankroto procedūras vykdyti ne teismo
+bankroto procesas vyktų ne teismo tvarka, siūlymą bankroto procedūras vykdyti
 
-tvarka privalo pranešti raštu kiekvienam kreditoriui, kartu nurodydami
+ne teismo tvarka privalo pranešti raštu kiekvienam kreditoriui, kartu
 
-kreditorių susirinkimo datą ir vietą.
+nurodydami kreditorių susirinkimo datą ir vietą.
 
 3. Kreditorių
 
@@ -1742,22 +1690,6 @@ turtu
 
 dienos:
 
-1 dalies 1
-
-punkto redakcija iki 2003 m. liepos 1 d.:
-
-1) teisė valdyti, naudoti bankrutuojančios įmonės
-
-turtą (lėšas) ir juo disponuoti suteikiama tik administratoriui. Nė vienas
-
-įmonės kreditorius ar kitas asmuo neturi teisės perimti bankrutuojančiai įmonei
-
-priklausančio turto ir lėšų kitaip, negu nustatyta šio įstatymo;
-
-1 dalies 1
-
-punkto redakcija nuo 2003 m. liepos 1 d.:
-
 1) teisė valdyti, naudoti bankrutuojančios įmonės
 
 turtą (lėšas) ir juo disponuoti suteikiama tik administratoriui. Nė vienas
@@ -1816,11 +1748,11 @@ susiję reikalavimai, perduodamos bankroto bylą iškėlusiam teismui.
 
 3. Bylose dėl turto
 
-išieškojimo iš kitų asmenų bankrutuojančios įmonės naudai, iškeltose iki
+išieškojimo iš kitų asmenų bankrutuojančios įmonės naudai, iškeltose iki bankroto
 
-bankroto bylos iškėlimo, administratorius arba jo įgaliotas asmuo atstovauja
+bylos iškėlimo, administratorius arba jo įgaliotas asmuo atstovauja nuo
 
-nuo nutarties iškelti bankroto bylą įsiteisėjimo dienos.
+nutarties iškelti bankroto bylą įsiteisėjimo dienos.
 
 Straipsnio pakeitimai:
 
@@ -1904,9 +1836,9 @@ pareigas.
 
 Straipsnio pakeitimai:
 
-Nr. IX-1463, 2003-04-03,
+Nr. IX-1463,
 
-Žin., 2003, Nr. 38-1708 (2003-04-24)
+2003-04-03, Žin., 2003, Nr. 38-1708 (2003-04-24)
 
 19 straipsnis. Darbo
 
@@ -2032,9 +1964,9 @@ susirinkimo pirmininkas. Reikalauti sušaukti kreditorių susirinkimą turi teis
 
 kreditorius (kreditoriai), kurio (kurių) reikalavimų suma vertine išraiška
 
-sudaro ne mažiau kaip 10 procentų šio įstatymo nustatyta tvarka teismo
+sudaro ne mažiau kaip 10 procentų šio įstatymo nustatyta tvarka teismo patvirtintų
 
-patvirtintų visų kreditorių reikalavimų sumos.
+visų kreditorių reikalavimų sumos.
 
 4.
 
@@ -2264,11 +2196,9 @@ sudaryti ne mažiau kaip 5 nariai.
 
 2.
 
-Kreditorių komitetas kontroliuoja, kaip vyksta bankroto procesas,
+Kreditorių komitetas kontroliuoja, kaip vyksta bankroto procesas, administratoriaus
 
-administratoriaus veiklą, gina kreditorių interesus laikotarpiais tarp
-
-kreditorių susirinkimų.
+veiklą, gina kreditorių interesus laikotarpiais tarp kreditorių susirinkimų.
 
 3.
 
@@ -2300,13 +2230,13 @@ teismui.
 
 reikalavimus tvirtina teismas. Kreditorių sąrašo ir jų reikalavimų
 
-patikslinimai, susiję su bankroto procesu (nesumokėti mokesčiai, kitos privalomosios
+patikslinimai, susiję su bankroto procesu (nesumokėti mokesčiai, kitos
 
-įmokos, įsiskolinimas atleistiems darbuotojams), tvirtinami teismo nutartimi,
+privalomosios įmokos, įsiskolinimas atleistiems darbuotojams), tvirtinami
 
-iki teismas priima nutartį nutraukti bankroto bylą arba sprendimą dėl įmonės
+teismo nutartimi, iki teismas priima nutartį nutraukti bankroto bylą arba
 
-pabaigos.
+sprendimą dėl įmonės pabaigos.
 
 2.
 
@@ -2356,9 +2286,9 @@ penkiasdešimt litų.
 
 Straipsnio pakeitimai:
 
-Nr. IX-1200,
+Nr. IX-1200, 2002-11-19,
 
-2002-11-19, Žin., 2002, Nr. 116-5193 (2002-12-06), įsigalioja nuo 2003-01-01
+Žin., 2002, Nr. 116-5193 (2002-12-06), įsigalioja nuo 2003-01-01
 
 27 straipsnis. Bankroto bylos nutraukimas
 
@@ -2590,11 +2520,11 @@ pateikia žalos atlyginimo prievolės dėl nelaimingų atsitikimų darbe ar
 
 susirgimų profesine liga dokumentus ir žalos atlyginimo gavėjų duomenis jų
 
-gyvenamosios vietos Valstybinio socialinio draudimo fondo valdybos teritoriniams
+gyvenamosios vietos Valstybinio socialinio draudimo fondo valdybos
 
-skyriams, kai įstatymo numatytu atveju žalos atlyginimo mokėjimas pereina
+teritoriniams skyriams, kai įstatymo numatytu atveju žalos atlyginimo mokėjimas
 
-valstybei;
+pereina valstybei;
 
 5)
 
@@ -2628,9 +2558,9 @@ perduoda duomenis apie likviduotą įmonę Vyriausybės įgaliotai institucijai.
 
 Straipsnio pakeitimai:
 
-Nr. IX-665,
+Nr. IX-665, 2001-12-17,
 
-2001-12-17, Žin., 2001, Nr. 110-3991 (2001-12-29), įsigalioja nuo 2002-01-01
+Žin., 2001, Nr. 110-3991 (2001-12-29), įsigalioja nuo 2002-01-01
 
 32 straipsnis. Bankrutavusios įmonės likvidavimas
 
@@ -2682,32 +2612,6 @@ fondo išmokėjimas bankrutavusios įmonės darbuotojams, teismas, nagrinėjanti
 
 įmonės bankroto bylą, priima sprendimą dėl įmonės pabaigos.
 
-5 dalies
-
-redakcija iki 2003 m. liepos 1 d.:
-
-5.
-
-Administratorius ne vėliau kaip per 5 dienas nuo teismo sprendimo dėl įmonės
-
-pabaigos įsiteisėjimo dienos arba nuo kreditorių susirinkimo sprendimo dėl įmonės
-
-pabaigos priėmimo dienos pateikia prašymą juridinių asmenų registrui
-
-išregistruoti likviduotą dėl bankroto įmonę. Kartu su prašymu administratorius
-
-privalo pateikti teismo sprendimą dėl įmonės pabaigos arba kreditorių
-
-susirinkimo sprendimą dėl įmonės pabaigos, įmonės įregistravimo pažymėjimo ir
-
-steigimo dokumentų originalus bei nurodo įmonę aptarnaujančių bankų ir
-
-kitų kredito įstaigų adresus.
-
-5 dalies
-
-redakcija nuo 2003 m. liepos 1 d.:
-
 5. Administratorius ne vėliau kaip per 5 dienas nuo
 
 teismo sprendimo dėl įmonės pabaigos įsiteisėjimo dienos arba nuo kreditorių
@@ -2722,9 +2626,9 @@ pabaigos arba kreditorių susirinkimo sprendimą dėl įmonės pabaigos, įmonė
 
 įregistravimo pažymėjimo ir steigimo dokumentų originalus, pažymą, kad
 
-dokumentai toliau saugoti perduoti archyvui, bei nurodo įmonę aptarnaujančių bankų
+dokumentai toliau saugoti perduoti archyvui, bei nurodo įmonę aptarnaujančių
 
-ir kitų kredito įstaigų adresus.
+bankų ir kitų kredito įstaigų adresus.
 
 6. Juridinių
 
@@ -2776,11 +2680,9 @@ parduodamas iš varžytynių Vyriausybės nustatyta tvarka. Kito turto, išskyru
 
 perduotas kreditoriams. Turto pirkimo–pardavimo sutartis arba perdavimo aktas
 
-yra prilyginami notaro patvirtintai sutarčiai ir yra nuosavybės teisę
+yra prilyginami notaro patvirtintai sutarčiai ir yra nuosavybės teisę patvirtinantys
 
-patvirtinantys dokumentai nustatyta tvarka registruojant pirkimo–pardavimo
-
-sutartis.
+dokumentai nustatyta tvarka registruojant pirkimo–pardavimo sutartis.
 
 2.
 
@@ -2892,9 +2794,9 @@ reikalavimai apmokėti už perdirbti supirktą žemės ūkio produkciją.
 
 reikalavimai dėl mokesčių bei kitų įmokų į biudžetą ir dėl privalomojo
 
-valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokų; dėl valstybės
+valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokų; dėl
 
-vardu gautų paskolų ir paskolų, gautų su valstybės garantija.
+valstybės vardu gautų paskolų ir paskolų, gautų su valstybės garantija.
 
 4. Trečiąja eile tenkinami
 
@@ -3142,9 +3044,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. IX-1200, 2002-11-19,
+Nr. IX-1200,
 
-Žin., 2002, Nr. 116-5193 (2002-12-06)
+2002-11-19, Žin., 2002, Nr. 116-5193 (2002-12-06)
 
 ĮMONIŲ BANKROTO ĮSTATYMO 2, 6, 7,
 
@@ -3224,9 +3126,27 @@ STRAIPSNIŲ PAKEITIMO IR 32 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 Įstatymas įsigalioja nuo 2003 m. liepos 1 d.
 
-*** Pabaiga ***
+7.
 
-Redagavo: Aušrinė Trapinskienė (2003-06-30)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1711,
+
+2003-07-04, Žin., 2003, Nr. 74-3426 (2003-07-25)
+
+ĮMONIŲ
+
+BANKROTO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2003-08-05)
 
 autrap@lrs.lt
 
