@@ -4,7 +4,7 @@ identifier: "TAR.8949DB1FAC6E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1989-11-03"
-last_updated: "1989-12-01"
+last_updated: "1990-10-27"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8949DB1FAC6E"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1989-11-03"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos referendumo įstatymas
+
+Suvestinė redakcija nuo 1990-10-27 iki 1992-06-07
+
+Įstatymas paskelbtas: Žin. 1989, Nr. 33-445, i. k. 0891010ISTA0XI-3335
 
 LIETUVOS RESPUBLIKOS
 
@@ -77,9 +81,17 @@ II. REFERENDUMO PASKELBIMAS
 
 7 straipsnis. Referendumo rūšys
 
-Referendumu gali būti priimami įstatymai ir sprendžiami kiti svarbūs valstybinio gyvenimo klausimai.
+Referendumu gali būti priimami įstatymai ir sprendžiami kiti svarbūs valstybinio gyvenimo klausimai
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-695, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-755 (1990-11-10), i. k. 0901010ISTA000I-695
 
 Prireikus gali būti rengiami ir konsultaciniai (patariamieji) referendumai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-695, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-755 (1990-11-10), i. k. 0901010ISTA000I-695
 
 8 straipsnis. Referendumo paskelbimo iniciatyvos teisė
 
@@ -373,293 +385,13 @@ Vilnius, 1989 m. lapkričio 3 d.
 
 Nr. XI-3335
 
-231 straipsnis. Skundai dėl referendumo komisijų sprendimų, kurie buvo priimti iki balsavimo pabaigos
+Pakeitimai:
 
-Politinės partijos ir kitos politinės ar visuomeninės organizacijos įgaliotiniai referendumo komisijų sprendimus, kurie buvo priimti iki balsavimo pabaigos, gali apskųsti:
+1.
 
-1) apylinkių referendumo komisijų – miestų, rajonų referendumo komisijai;
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 
-2) miestų, rajonų referendumo komisijų – Vyriausiajai rinkimų komisijai;
+Nr. I-695, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-755 (1990-11-10), i. k. 0901010ISTA000I-695
 
-3) Vyriausiosios rinkimų komisijos – Aukščiausiajam Teismui.
-
-Šie skundai turi būti išnagrinėti ne vėliau kaip per 48 valandas nuo skundo padavimo. Į šį terminą įskaitomos ir ne darbo dienos. Aukščiausiojo Teismo sprendimas yra galutinis.
-
-Papildyta straipsniu:
-
-Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
-
-251 straipsnis. Referendumo komisijų narių darbo apmokėjimas
-
-Referendumo komisijų pirmininkai ir nariai už darbą referendumo komisijose gauna atlyginimą pagal Vyriausiosios rinkimų komisijos pateiktus ir Vyriausybės patvirtintus tarifus.
-
-Referendumo komisijų pirmininkams ir nariams, dirbantiems įmonėse, įstaigose, organizacijose ir dėl savo veiklos referendumo komisijose negaunantiems darbo užmokesčio, valstybė išmoka vidutinio darbo užmokesčio toje darbo vietoje dydžio sumą
-
-Papildyta straipsniu:
-
-Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
-
-252 straipsnis. Referendumo komisijų sudėties keitimas
-
-Referendumo komisijų pirmininkus ir narius iš jų pareigų komisijoje gali atleisti institucija, patvirtinusi komisijos sudėtį.
-
-Prireikus naujas referendumo komisijos pirmininkas ar narys skiriamas šio įstatymo nustatyta tvarka.
-
-Papildyta straipsniu:
-
-Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
-
-261 straipsnis. Referendumo dokumentų pavyzdžių nustatymas
-
-Balsavimo pažymėjimų, balsavimo biuletenių, vidinių ir išorinių vokų balsavimui paštu, kitų referendume naudojamų oficialių vokų, paketų, dokumentų, antspaudų pavyzdžius bei formas, taip pat jų užpildymo pavyzdžius nustato Vyriausioji rinkimų komisija.
-
-262 straipsnis. Referendumo biuleteniai
-
-Balsavimo biuletenyje įrašomas kreipimosi į pilietį tekstas ir atsakymo variantai: „Taip“ ir „Ne“.
-
-Jeigu referendumui pateikta keletas įstatymo nuostatų, dėl kiekvienos nuostatos balsuojama atskirai vienu biuleteniu.
-
-Jei vienu metu vykdomi du ar keli referendumai, kiekvieno jų balsavimo biuleteniai turi būti skirtingos spalvos.
-
-Balsavimo biuletenio formą bei jo užpildymo pavyzdį nustato Vyriausioji rinkimų komisija.
-
-263 straipsnis. Referendumo biuletenių pristatymas
-
-Referendumo biuleteniai ir vokai referendumo apylinkėms ir pašto skyriams pristatomi likus ne mažiau kaip 7 dienoms iki referendumo.
-
-Lietuvos Respublikos diplomatinėse atstovybėse ir laivuose referendumo biuleteniai ir vokai balsavimui paštu turi būti laisvai prieinami piliečiams likus ne mažiau kaip 10 dienų iki referendumo.
-
-Vyriausioji rinkimų komisija atsako už referendumo biuletenių ir vokų balsavimui paštu išleidimą ir pristatymą nepažeidžiant nurodytų terminų.
-
-264 straipsnis. Balsavimo pažymėjimas
-
-Numeruotus balsavimo pažymėjimus išduoda apylinkių referendumo komisijos.
-
-Balsavimo pažymėjime nurodoma:
-
-1) miesto, rajono referendumo komisijos numeris;
-
-2) piliečio vardas, pavardė;
-
-3) piliečio gimimo data (metai, mėnuo, diena);
-
-4) piliečio adresas;
-
-5) apylinkės, į kurios sąrašus įtrauktas pilietis, adresas.
-
-265 straipsnis. Balsavimo pažymėjimo įteikimas piliečiams
-
-Balsavimo pažymėjimai įteikiami piliečiams likus ne mažiau kaip 10 dienų iki referendumo dienos. Jei dėl referendumo komisijos kaltės balsavimo pažymėjimas nebuvo įteiktas, jis turi būti išduodamas tuoj pat piliečiui pareikalavus.
-
-Piliečiui, kuriam buvo išduotas balsavimo pažymėjimas su netikslumais arba dėl klaidos sąraše nebuvo visai išduotas, teisingas balsavimo pažymėjimas išduodamas tuoj pat po klaidos ištaisymo.
-
-266 straipsnis. Balsavimo pažymėjimo dublikatas
-
-Piliečiui, pateikusiam raštišką prašymą, gali būti išduotas balsavimo pažymėjimo dublikatas. Balsavimo pažymėjimų dublikatai neišduodami referendumo dieną.
-
-Papildyta skirsniu:
-
-Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
-
-V skirsnis
-
-BALSAVIMAS
-
-281 straipsnis. Balsavimo pradžia
-
-Referendumo dieną balsavimo patalpa atidaroma, kai yra susirinkę joje ne mažiau kaip 3/5 apylinkės referendumo komisijos narių. Tada referendumo komisijos pirmininkas su komisijos nariais patikrina, ar balsadėžė yra tuščia ir ją užantspauduoja. Įsitikinęs, kad balsavimo patalpa įrengta nepažeidus nustatytų reikalavimų, apylinkės referendumo komisijos pirmininkas įrašo visą apylinkės gautų biuletenių skaičių į balsų skaičiavimo protokolą, išdalina referendumo biuletenius ir sąrašus komisijos nariams, įrašo kiekvienam komisijos nariui išdalintų referendumo biuletenių skaičių į referendumo apylinkės balsų skaičiavimo protokolą ir atidaro balsavimo patalpą tuo skelbdamas referendumo pradžią.
-
-282 straipsnis. Piliečio asmenybės nustatymas
-
-Atvykęs į balsavimo patalpą, pilietis pateikia apylinkės referendumo komisijos nariui balsavimo pažymėjimą, pasą ar kitą dokumentą, patvirtinantį jo asmenybę bei pilietybę, ir pasirašo referendumo sąraše. Balsavimo pažymėjimas piliečiui negrąžinamas. Tik po to, kai pilietis pasirašė, jam išduodamas referendumo biuletenis.
-
-Balsuojant paštu, balsavimo pažymėjime pažymima apie biuletenio išdavimą ir balsavimo pažymėjimas grąžinamas piliečiui.
-
-Išduoti piliečiui kito asmens referendumo biuletenį draudžiama. Komisijos narys, pažeidęs šį reikalavimą, atsako pagal įstatymą.
-
-291 straipsnis. Balsavimas paštu
-
-Balsuoti paštu galima pašto skyriuose jų darbo valandomis, pradedant septintąja diena iki referendumo ir baigiant likus vienai dienai iki referendumo, jei į to miesto, rajono referendumo sąrašus pilietis yra įrašytas, o jei pilietis nėra įrašytas į to miesto, rajono referendumo sąrašus, – baigiant likus dviems dienoms iki referendumo. Balsavimo paštu išlaidas apmoka valstybė.
-
-Už balsavimo organizavimą atsako pašto skyriaus viršininkas. Jis yra atsakingas už referendumo biuletenių ir balsavimo vokų išdavimą ir priėmimą balsavimo paštu metu.
-
-Referendumo biuleteniams ir vokams išduoti bei priimti balsavimo paštu metu skiriamas atsakingas pareigūnas.
-
-Pašto skyriuose turi būti patalpa (vieta), kur pilietis galėtų netrukdomas užpildyti referendumo biuletenį ir įdėti jį į balsavimo voką.
-
-Balsavimas paštu vyksta šio įstatymo 282 ir 29 straipsniuose nustatyta tvarka, išskyrus biuletenių įmetimą į balsadėžę. Kartu su referendumo biuleteniu piliečiui išduodami vokai balsavimui paštu.
-
-Pilietis užpildytą referendumo biuletenį įdeda į vidinį balsavimo voką, jį užklijuoja ir kartu su balsavimo pažymėjimu įdeda į išorinį voką, kurį taip pat užklijuoja. Išorinis vokas antspauduojamas ryšių skyriaus antspaudu.
-
-Vokai balsavimui paštu adresuojami tos apylinkės referendumo komisijai, į kurios apylinkės referendumo sąrašą pilietis yra įtrauktas.
-
-Išorinius vokus, balsavimo vokus ir referendumo biuletenius paštininkas atneša į namus negalintiems vaikščioti piliečiams likus iki referendumo dienos ne mažiau kaip dviems dienoms. Negalinčių vaikščioti piliečių sąrašą ne vėliau kaip prieš septynias dienas iki referendumo sudaro apylinkės referendumo komisijos pagal duomenis, kuriuos raštu pateikia miesto, rajono globos ir rūpybos įstaigos. Pašto darbuotojai, referendumo komisijų nariai ar kiti asmenys negali atnešti išorinių vokų, balsavimo vokų ir referendumo biuletenių į namus piliečiams, kurie nėra įrašyti į negalinčių vaikščioti piliečių sąrašą.
-
-Užklijuotą išorinį voką (su jame esančiu balsavimo pažymėjimu, balsavimo voku ir ten esančiu biuleteniu) pilietis gali:
-
-1) įteikti pašto skyriaus pareigūnui;
-
-2) įteikti paštininkui, atnešusiam jam referendumo dokumentus;
-
-3) įmesti į pašto dėžutę.
-
-292 straipsnis. Balsavimo Lietuvos Respublikos diplomatinėse atstovybėse ir laivuose tvarka
-
-Balsavimo tvarką Lietuvos Respublikos diplomatinėse atstovybėse ir laivuose nustato Vyriausioji rinkimų komisija.
-
-293 straipsnis. Balsavimas gydymo, socialinės rūpybos ir globos įstaigose
-
-Gydymo, socialinės rūpybos ir globos įstaigose įsteigiami specialūs balsavimui skirti pašto skyriai.
-
-Galintys judėti šių įstaigų pacientai balsuoja patys balsavimo patalpoje šio įstatymo 291 straipsnyje nustatyta tvarka.
-
-Negalinčius judėti gydymo bei globos įstaigų pacientus bei globotinius lanko specialaus pašto skyriaus pareigūnai, kuriuos tvirtina miestų, rajonų referendumo komisijos. Balsuojantis asmuo turi jam sudarytomis slaptumo sąlygomis pats užpildyti referendumo biuletenį ir įdėti jį į balsavimo voką. Esant reikalui, jis gali pasinaudoti asmens, kuriuo pasitiki, pagalba (išskyrus pašto, gydymo bei globos įstaigos darbuotojus, referendumo stebėtojus).
-
-Gydymo, socialinės rūpybos ar globos įstaigos vadovo nurodymu gali būti draudžiama dėl balsavimo trikdyti ligonius, kurių būklė yra sunki. Šis nurodymas referendumo komisijoms yra privalomas.
-
-Taip pat draudžiama dėl balsavimo trikdyti asmenį, jeigu Sveikatos apsaugos ministerijos nustatyta tvarka gydytojų komisija padarė išvada, kad jis balsavimo metu dėl chroniškos psichinės ligos, silpnaprotystės ar trumpalaikio psichikos sutrikimo negali suprasti savo veiksmų esmės ir jų valdyti.
-
-294 straipsnis. Balsavimas kariniuose daliniuose
-
-Krašto apsaugos sistemos ir vidaus tarnybos daliniuose įsteigiami specialūs balsavimui skirti pašto skyriai.
-
-Pagal galimybę dalinių vadai sudaro sąlygas kariams balsuoti jų nuolatinės gyvenamosios vietos referendumo apylinkėse.
-
-295 straipsnis. Balsavimas bausmės atlikimo vietose
-
-Bausmės atlikimo vietose įsteigiami specialūs balsavimui skirti pašto skyriai.
-
-296 straipsnis. Balsavimo vokų ir biuletenių apskaita pašto skyriuose
-
-Likus vienai dienai iki referendumo, pašto skyriaus viršininkas grąžina nepanaudotus vokus ir referendumo biuletenius miesto, rajono referendumo komisijai.
-
-Balsavimo vokų ir biuletenių apskaitą tvarko pašto skyriaus viršininkas specialiai tam skirtame žurnale Vyriausiosios rinkimų komisijos nustatyta tvarka.
-
-Paštas vokus su piliečių užpildytais biuleteniais įteikia apylinkių referendumo komisijoms referendumo dieną ne vėliau kaip likus 2 valandoms iki referendumo pabaigos.
-
-Balsavimo vokų ir biuletenių apskaitą Respublikoje tvarko Vyriausioji rinkimų komisija.
-
-297 straipsnis. Referendumo biuletenių apskaita referendumo apylinkėse
-
-Uždarius balsavimo patalpą, apylinkės referendumo komisijos pirmininkas, dalyvaujant ne mažiau kaip 3/5 referendumo komisijos narių, užklijuoja ir antspauduoja balsadėžės plyšį, surenka atskirai iš kiekvieno apylinkės referendumo komisijos nario nepanaudotus referendumo biuletenius, užrašo jų skaičių balsų skaičiavimo protokole, viešai juos suskaičiuoja ir pagal parašus piliečių sąraše, balsavimo pažymėjimus patikrina, ar nėra neteisėtai išduotų biuletenių.
-
-Nepanaudoti ir sugadinti referendumo biuleteniai referendumo komisijos viešai suskaičiuojami, anuliuojami nukerpant dešinįjį viršutinį kampą, sudedami į specialiai tam skirtus vokus ir užantspauduojami. Nepanaudotų ir sugadintų biuletenių skaičius įrašomas į balsų skaičiavimo protokolą.
-
-Skyriaus pakeitimai:
-
-Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
-
-VI skirsnis
-
-BALSŲ SKAIČIAVIMAS IR REFERENDUMO REZULTATŲ NUSTATYMAS
-
-301 straipsnis. Balsavusiųjų paštu piliečių apskaita ir balsų skaičiavimas
-
-Suskaičiavus balsadėžėje rastus referendumo biuletenius, pradedami skaičiuoti paštu gauti referendumo biuleteniai:
-
-1) apylinkės referendumo komisijos pirmininkas pateikia neatplėštus visus paštu gautus išorinius vokus. Jų skaičius įrašomas į balsų skaičiavimo protokolą;
-
-2) išoriniai vokai atplėšiami po vieną;
-
-3) iš išorinių vokų išimami balsavimo pažymėjimai ir tikrinami pagal apylinkės referendumo sąrašą, o vidiniai balsavimo vokai antspauduojami referendumo apylinkės antspaudu. Jeigu balsavimo pažymėjime įrašytas asmuo, kurio nėra sąraše, arba sąraše yra piliečio parašas, liudijantis, kad jis jau balsavo apylinkėje, arba yra gautas kitas to paties piliečio balsavimo paštu vokas, arba išoriniame voke nėra balsavimo pažymėjimo, arba išoriniame voke yra įdėtas daugiau kaip vienas vidinis balsavimo vokas, antspaudas nededamas ir laikoma, kad voke esantis referendumo biuletenis negalioja. Tą faktą būtina pažymėti ant vidinio balsavimo voko;
-
-4) apylinkės sąraše prie piliečio, kurio balsas gautas paštu, pavardės daromas specialus įrašas apie piliečio balso gavimą;
-
-5) užantspauduotas vidinis balsavimo vokas įmetamas į balsadėžę, paruoštą pagal nustatytus reikalavimus;
-
-6) taip peržiūrėjus visus paštu gautus vokus, balsadėžė atidaroma ir, atplėšus antspauduotus vidinius balsavimo vokus, skaičiuojami paštu gauti balsai pagal 30 straipsnio reikalavimus. Jeigu balsavimo voke yra daugiau kaip vienas referendumo biuletenis, visi voke esantys biuleteniai pripažįstami negaliojančiais.
-
-Jei referendumo apylinkės komisijoje yra tik vienas antspauduotas vidinis vokas, jis, kad nebūtų pažeistas balsavimo slaptumas, neatplėšiamas, o perduodamas aukštesniajai referendumo komisijai, kuri balsavimo rezultatus įrašo į savo balsų skaičiavimo protokolą.
-
-302 straipsnis. Balsų skaičiavimo referendumo apylinkėje protokolai
-
-Kiekvienoje referendumo apylinkėje surašomas balsų skaičiavimo protokolas. Jame įrašoma:
-
-1) piliečių, turinčių teisę dalyvauti referendume, skaičius referendumo apylinkėje;
-
-2) gautų iš miesto, rajono komisijų biuletenių skaičius;
-
-3) kiekvienam komisijos nariui išduotų referendumo biuletenių skaičius, piliečiams išduotų biuletenių skaičius, piliečių parašų skaičius, balsavimo pažymėjimų skaičius, nepanaudotų biuletenių skaičius;
-
-4) nepanaudotų referendumo biuletenių skaičius;
-
-5) referendumo apylinkės patalpoje balsavusių piliečių skaičius;
-
-6) balsadėžės atidarymo laikas;
-
-7) balsadėžėje rastų negaliojančių referendumo biuletenių skaičius;
-
-8) balsadėžėje rastų galiojančių referendumo biuletenių skaičius;
-
-9) balsadėžėje rastų atsakymų „TAIP“ ir „NE“ į kiekvieną referendumui pateiktą klausimą ar teiginį skaičius;
-
-10) paštu gautų balsų skaičius, antspauduotų vidinių vokų skaičius;
-
-11) paštu gautų negaliojančių referendumo biuletenių skaičius;
-
-12) paštu gautų galiojančių referendumo biuletenių skaičius;
-
-13) paštu gautų atsakymų „TAIP“ ir „NE“ į kiekvieną referendumui pateiktą klausimą ar teiginį skaičius;
-
-14) iš viso referendumo apylinkėje dalyvavusių referendume piliečių skaičius;
-
-15) iš viso negaliojančių referendumo apylinkėje biuletenių skaičius;
-
-16) iš viso atsakymų „TAIP“ ir „NE“ į kiekvieną referendumui pateiktą klausimą ar teiginį skaičius.
-
-Jeigu balsadėžėje buvo rasta daugiau biuletenių negu jų buvo išduota piliečiams, apie tai įrašoma balsų skaičiavimo protokole nurodant skaičių, kiek biuletenių buvo rasta daugiau.
-
-Referendumo apylinkės balsų skaičiavimo protokolą pasirašo referendumo komisijos pirmininkas ir nariai. Po to protokolą pasirašo stebėtojai. Jų pastabos, komisijos narių nuomonės pridedamos prie protokolo ir yra neatskiriama jo dalis.
-
-303 straipsnis. Negaliojantys biuleteniai
-
-Negaliojančiais biuleteniais laikomi:
-
-1) nenustatyto pavyzdžio referendumo biuleteniai;
-
-2) užantspauduoti ne tos referendumo apylinkės antspaudu ir neantspauduoti;
-
-3) tie, kuriuose pilietis pažymėjo abu atsakymus – ir „TAIP“, ir „NE“ – į tą patį klausimą ar teiginį;
-
-4) tie, kuriuose pilietis nepažymėjo nė vieno atsakymo – nei „TAIP“, nei „NE“ – į tą patį klausimą ar teiginį.
-
-Sprendimą dėl referendumo biuletenio pripažinimo negaliojančiu priima apylinkės referendumo komisija.
-
-304 straipsnis. Apylinkės balsų skaičiavimo dokumentų pateikimas miesto, rajono referendumo komisijai
-
-Apylinkės referendumo komisija visus referendumo biuletenius, taip pat negaliojančius ir nepanaudotus visus balsavimo vokus, balsų skaičiavimo protokolą, referendumo sąrašus ir kitus referendumo dokumentus Vyriausiosios rinkimų komisijos nustatyta tvarka sudeda į paketą ir užantspauduoja. Paketas miesto, rajono referendumo komisijai pristatomas ne vėliau kaip per 6 valandas po balsavimo pabaigos.
-
-Vyriausioji rinkimų komisija bei Vidaus reikalų ministerija privalo garantuoti referendumo dokumentų transportavimo bei juos transportuojančių asmenų saugumą.
-
-311 straipsnis. Miestų, rajonų balsų skaičiavimo protokolai
-
-Pagal referendumo apylinkių balsų skaičiavimo protokolus, referendumo biuletenius ir kitus referendumo dokumentus miesto, rajono referendumo komisija nustato:
-
-1) mieste, rajone dalyvavusių referendume piliečių skaičių, kuris lygus miesto, rajono referendumo apylinkėse balsavusių piliečių skaičiui;
-
-2) mieste, rajone negaliojančių biuletenių skaičių, kuris lygus miesto, rajono referendumo apylinkėse negaliojančių biuletenių skaičiui;
-
-3) mieste, rajone galiojančių biuletenių skaičių, kuris lygus miesto, rajono referendumo apylinkėje galiojančių biuletenių skaičiui;
-
-4) atsakymų „TAIP“ ir „NE“ į kiekvieną klausimą ar teiginį skaičių. Jis gaunamas susumavus ir vienus, ir kitus atsakymus atskirai referendumo apylinkėse.
-
-Šie duomenys surašomi į miestų, rajonų balsų skaičiavimo protokolus, kuriuos pasirašo miesto, rajono referendumo komisijos pirmininkas ir nariai.
-
-312 straipsnis. Miestų, rajonų balsų skaičiavimo dokumentų pateikimas Vyriausiajai rinkimų komisijai
-
-Miestų, rajonų referendumo komisijos visus dokumentus, gautus iš referendumo apylinkių, referendumo apylinkių balsų skaičiavimo protokolus, miesto, rajono balsų skaičiavimo protokolą ir kitus referendumo dokumentus sudeda į specialius paketus, užantspauduoja ir ne vėliau kaip per 36 valandas po referendumo pabaigos perduoda Vyriausiajai rinkimų komisijai.
-
-321 straipsnis. Stebėtojų dalyvavimas skaičiuojant balsus ir nustatant referendumo rezultatus
-
-Skaičiuojant balsus referendumo apylinkėse bei miestų, rajonų komisijose, taip pat nustatant referendumo rezultatus Vyriausiojoje rinkimų komisijoje, gali dalyvauti politinių partijų ir kitų politinių bei visuomeninių organizacijų paskirti stebėtojai, taip pat visų masinės informacijos priemonių atstovai.
-
-Stebėtojai turi teisę reikšti pastabas ir pretenzijas referendumo komisijoms dėl šio ir kitų Lietuvos Respublikos įstatymų pažeidimų, bet neturi kliudyti referendumo komisijų darbui. Stebėtojai turi teisę raštu pareikšti protestą, kuris turi būti pridėtas prie referendumo komisijos protokolų ir sprendimų bei kartu su kitais referendumo dokumentais turi būti pateiktas aukštesniajai referendumo komisijai.
-
-322 straipsnis. Referendumo rezultatų paskelbimas
-
-Galutinius referendumo rezultatus ne vėliau kaip per 4 dienas po referendumo skelbia Vyriausioji rinkimų komisija.
-
-323 straipsnis. Referendumo dokumentų saugojimas
-
-Pasibaigus referendumui, Vyriausioji rinkimų komisija ne vėliau kaip per 20 dienų po to, kai baigėsi šiame įstatyme nustatytas terminas skundams dėl jos sprendimų išnagrinėti, valstybės archyvui perduoda neterminuotai saugoti referendumo apylinkių, miestų, rajonų referendumo komisijų, Vyriausiosios rinkimų komisijos protokolus ir referendumo sąrašus.
+Dėl Lietuvos Respublikos referendumo įstatymo 7 straipsnio pakeitimo
 
