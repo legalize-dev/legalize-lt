@@ -4,7 +4,7 @@ identifier: "TAR.A84A37E84BD7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-29"
-last_updated: "2001-01-25"
+last_updated: "2001-12-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A84A37E84BD7"
 department: "Lietuvos Respublikos Seimas"
@@ -331,9 +331,9 @@ prokuratūros oficialius pranešimus.
 
 II SKYRIUS
 
-LIETUVOS NACIONALINIO
+LIETUVOS
 
-RADIJO IR TELEVIZIJOS VALDYMAS
+NACIONALINIO RADIJO IR TELEVIZIJOS VALDYMAS
 
 9 straipsnis. LRT taryba
 
@@ -571,9 +571,9 @@ konkurso būdu 5 metams skiria generalinį direktorių, nustato jo atlyginimą;
 
 pavaduotojų skaičių;
 
-18) generalinio direktoriaus teikimu skiria
+18) generalinio direktoriaus teikimu
 
-ir atleidžia jo pavaduotojus.
+skiria ir atleidžia jo pavaduotojus.
 
 2. Tarybos narys negali būti generaliniu
 
@@ -785,7 +785,9 @@ visų Tarybos narių.
 
 direktorius gali atsistatydinti nepasibaigus kadencijai. Tuo atveju
 
-atsistatydina ir jo teikimu Tarybos paskirti generalinio direktoriaus pavaduotojai.
+atsistatydina ir jo teikimu Tarybos paskirti generalinio direktoriaus
+
+pavaduotojai.
 
 6. Tarybai
 
@@ -817,9 +819,9 @@ skelbia įsakymus ir kontroliuoja, kaip jie įgyvendinami;
 
 2) Tarybos
 
-prašymu informuoja Tarybą apie įstatymuose numatytų LRT funkcijų, Tarybos
+prašymu informuoja Tarybą apie įstatymuose numatytų LRT funkcijų, Tarybos nutarimų
 
-nutarimų vykdymą bei Administracinės komisijos išvadas.
+vykdymą bei Administracinės komisijos išvadas.
 
 2. Generalinis
 
