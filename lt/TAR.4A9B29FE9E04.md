@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "2001-07-01"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 2001-07-01 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2004-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -23,7 +23,7 @@ Nauja redakcija nuo 2001-07-01:
 
 Nr. IX-330, 2001-05-17, Žin. 2001, Nr. 45-1574 (2001-05-30), i. k. 1011010ISTA00IX-330
 
-LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO BENDROVIŲ  Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO BENDROVIŲ  ĮSTATYMAS
 
 PIRMASIS SKIRSNIS
 
@@ -235,7 +235,7 @@ KETVIRTASIS SKIRSNIS
 
 PELNAS IR DIVIDENDAI
 
-16 straipsnis.       Bendrovės pelno paskirstymas ir atsargos (rezervinio) kapitalo fondo sudarymas
+16 straipsnis. Bendrovės pelno paskirstymas ir atsargos (rezervinio) kapitalo fondo sudarymas
 
 1. Bendrovės pelnas turi būti paskirstytas ne vėliau kaip per 4 mėnesius pasibaigus ūkiniams metams. Bendrovės narių susirinkimo nutarime dėl pelno paskirstymo turi būti nurodyta:
 
@@ -281,7 +281,11 @@ BENDROVĖS NARIŲ IR PAJININKŲ TEISĖS IR PAREIGOS
 
 2. Bendrovės narys turi teisę:
 
-1) pardavimo, dovanojimo ir kitais būdais perleisti savo pajų bendrovei, kitam bendrovės nariui, pajininkui, bet kuriam kitam fiziniam asmeniui šio įstatymo ir bendrovės įstatų nustatyta tvarka. Šiuos sandorius teisiškai įregistruoja savivaldybės seniūnijos seniūnas. Rinkliava už tokių sandorių registravimą – 0,1 procento perleidžiamo pajaus vertės;
+1) savo pajų pardavimo, dovanojimo ar kitu būdu perleisti bendrovei, kitam bendrovės nariui, pajininkui, bet kuriam kitam fiziniam ar juridiniam asmeniui šio įstatymo ir bendrovės įstatų nustatyta tvarka. Pajų perleidimo sandoriai sudaromi paprasta rašytine forma;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
 
 2) siūlyti pakeisti ar papildyti bendrovės įstatus;
 
@@ -317,7 +321,11 @@ Pajininkas turi teisę:
 
 1) gauti dalį bendrovės pelno (dividendų) ir, jeigu pageidauja, dalyvauti bendrovės narių susirinkimuose;
 
-2) pardavimo, dovanojimo ir kitais būdais savo pajų gali perleisti bendrovei, bendrovės nariui, pajininkui, bet kuriam kitam fiziniam asmeniui šio įstatymo ir bendrovės įstatų nustatyta tvarka.
+2) savo pajų pardavimo, dovanojimo ar kitu būdu perleisti bendrovei, bendrovės nariui, pajininkui, bet kuriam kitam fiziniam  ar juridiniam asmeniui šio įstatymo ir bendrovės įstatų nustatyta tvarka. Pajų perleidimo sandoriai sudaromi paprasta rašytine forma.
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
 
 20 straipsnis. Narystės bendrovėje pasibaigimas
 
@@ -483,19 +491,11 @@ BENDROVĖS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 
 30 straipsnis. Bendrovės likvidavimas
 
-1. Bendrovė likviduojama:
+1. Bendrovė gali būti likviduojama Lietuvos Respublikos civilinio kodekso 2.106 straipsnyje nustatytais pagrindais.
 
-1) pasibaigus įstatuose numatytam veiklos terminui;
+Straipsnio dalies pakeitimai:
 
-2) narių susirinkimo nutarimu;
-
-3) likus mažiau narių negu nustatyta įstatymo, jeigu narių susirinkimas per 6 mėnesius po tokio sumažėjimo nenutaria bendrovės reorganizuoti ar pertvarkyti;
-
-4) juridinių asmenų registro tvarkytojo iniciatyva;
-
-5) teismui pripažinus, kad bendrovės veikla yra netinkama;
-
-6) teismui pripažinus, kad bendrovė įsteigta neteisėtai.
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
 
 2. Bendrovės likvidavimo tvarką nustato šis ir kiti Lietuvos Respublikos įstatymai bei bendrovės įstatai.
 
@@ -569,13 +569,19 @@ BENDROVĖS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 
 8. Jeigu bendrovės narys ar pajininkas atsisako atsiimti likvidacinės komisijos jam paskirtą turtą ir per 15 dienų nuo pranešimo įteikimo dienos nepasirašo turto grąžinimo dokumentuose, surašomas protokolas, kuriame nurodoma, dėl kokių priežasčių jis atsisako paskirto turto, ir įteikiamas arba pasiunčiamas registruotu laišku bendrovės nariui ar pajininkui. Šis per 15 dienų nuo protokolo įteikimo ar išsiuntimo turi teisę likvidacinės komisijos sprendimą apskųsti teismui. To nepadaręs, jis praranda teisę į jam skirtą turtą. Šis turtas paskirstomas kitiems bendrovės nariams ir pajininkams proporcingai jų pajams.
 
-32 straipsnis. Bendrovės likvidavimo kontrolė
+32 straipsnis. Neteko galios nuo 2003-05-01.
 
-Bendrovės likvidavimo eigą kontroliuoja apskrities viršininkas.
+Straipsnio pakeitimai:
+
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
 
 33 straipsnis. Likvidacinės komisijos narių darbo apmokėjimo tvarka ir atsakomybė
 
-1. Likvidacinės komisijos narių darbas apmokamas iš lėšų, gautų už parduotą bendrovės turtą. Valstybės valdymo organams priėmus sprendimą likviduoti bendrovę, turto dalį, skiriamą likvidatorių darbui apmokėti, nustato organas, priėmęs sprendimą bendrovę likviduoti Vyriausybės nustatyta tvarka.
+1. Likvidacinės komisijos narių darbas apmokamas iš bendrovės lėšų. Atlyginimo dydį nustato bendrovės narių ar kreditorių susirinkimas arba teismas, priėmę sprendimą likviduoti bendrovę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
 
 2. Bendrovės likvidacinės komisijos nariai įstatymų nustatyta tvarka privalo atlyginti nuostolius, kurie atsirado dėl jų kaltės.
 
@@ -710,4 +716,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-330, 2001-05-17, Žin., 2001, Nr. 45-1574 (2001-05-30), i. k. 1011010ISTA00IX-330
 
 Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 18, 19, 30, 33 straipsnių pakeitimo ir 32 straipsnio pripažinimo netekusiu galios įstatymas
 
