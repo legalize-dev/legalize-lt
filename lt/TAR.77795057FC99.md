@@ -4,7 +4,7 @@ identifier: "TAR.77795057FC99"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-04-29"
-last_updated: "1994-07-29"
+last_updated: "1995-01-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.77795057FC99"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 1994-07-29 iki 1995-01-19
+Suvestinė redakcija nuo 1995-01-20 iki 1995-10-17
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 88-0; Žin. 1993, Nr.15-376, i. k. 0931010ISTA000I-140
 
@@ -177,6 +177,14 @@ Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA0
 
 Dėl Lietuvos Respublikos muitinės įstatymo pakeitimo ir papildymo
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-752, 1995-01-12, Žin., 1995, Nr. 7-141 (1995-01-20), i. k. 0951010ISTA000I-752
+
+Dėl Lietuvos Respublikos muitinės įstatymo ir Civilinio kodekso pakeitimo ir papildymo
+
 211 straipsnis.
 
 Geležinkelio, oro ir jūrų transporto įstaigos vykimo per valstybės sieną punktuose muitinei, atliekančiai muitinį tikrinimą, patalpas suteikia nemokamai.
@@ -186,4 +194,12 @@ Papildyta straipsniu:
 Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA000I-536
 
 V. NEAPMUITINAMOS PARDUOTUVĖS IR MUITINĖS SANDĖLIAI
+
+101 straipsnis. Prekės bei kitos vertybės, neteisėtai gabenamos per Lietuvos Respublikos muitų sieną ir neturinčios savininko arba kurių savininkas muitinio tikrinimo metu nežinomas, teismo sprendimu pereina valstybės nuosavybėn pagal muitinės pareiškimą.
+
+Pareiškimas paduodamas suėjus dviems mėnesiams nuo tos dienos, kurią neteisėtai gabenamos prekės bei kitos vertybės buvo paimtos į muitinės apskaitą.
+
+Papildyta straipsniu:
+
+Nr. I-752, 1995-01-12, Žin., 1995, Nr. 7-141 (1995-01-20), i. k. 0951010ISTA000I-752
 
