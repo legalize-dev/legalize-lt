@@ -4,7 +4,7 @@ identifier: "TAR.06C50B65B6B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-21"
-last_updated: "2003-05-01"
+last_updated: "2004-04-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2004-04-15
+Suvestinė redakcija nuo 2004-04-16 iki 2005-10-26
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
 
@@ -28,31 +28,47 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis Įstatymas nustato asignavimų žalai, atsiradusiai dėl valdžios institucijų neteisėtų veiksmų, atlyginti naudojimą, žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimą ne teismo tvarka, taip pat valstybės regreso (atgręžtinio reikalavimo) teisės į žalą padariusį asmenį įgyvendinimo tvarką.
+Šis Įstatymas nustato asignavimų žalai, atsiradusiai dėl valdžios institucijų neteisėtų veiksmų, atlyginti naudojimą, žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimą ne teismo tvarka, Europos žmogaus teisių teismo ir Jungtinių Tautų Žmogaus teisių komiteto bei kitų tarptautinių institucijų, kurių jurisdikciją ar kompetenciją spręsti dėl Lietuvos Respublikos jurisdikcijai priklausančių asmenų teisių pažeidimų yra pripažinusi Lietuvos Respublika (toliau – tarptautinės institucijos), sprendimų vykdymą, taip pat valstybės regreso (atgręžtinio reikalavimo) teisės į žalą padariusį asmenį įgyvendinimo tvarką.
 
-2 straipsnis. Asignavimai žalai, atsiradusiai dėl valdžios institucijų neteisėtų veiksmų, atlyginti ir šių asignavimų naudojimas
+Straipsnio pakeitimai:
 
-1. Lietuvos Respublikos valstybės biudžete kasmet numatomi asignavimai žalai, atsiradusiai dėl ikiteisminio tyrimo pareigūno (kvotėjo, tardytojo), prokuroro, teisėjo ar teismo neteisėtų veiksmų (Lietuvos Respublikos civilinio kodekso 6.272 straipsnis), taip pat dėl kitų valdžios institucijų neteisėtų veiksmų (aktų) (Lietuvos Respublikos civilinio kodekso 6.271 straipsnis), atlyginti. Šių asignavimų valdytojas yra Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija).
+Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
+
+2 straipsnis. Asignavimai žalai, atsiradusiai dėl valdžios institucijų neteisėtų veiksmų, atlyginti ir asignavimų mokėjimas
+
+1. Lietuvos Respublikos valstybės biudžete kasmet numatomi asignavimai žalai, atsiradusiai dėl ikiteisminio tyrimo pareigūno (kvotėjo, tardytojo), prokuroro, teisėjo ar teismo neteisėtų veiksmų (Lietuvos Respublikos civilinio kodekso 6.272 straipsnis), taip pat dėl kitų valstybės valdžios institucijų neteisėtų veiksmų (aktų) (Lietuvos Respublikos civilinio kodekso 6.271 straipsnis), atlyginti. Šių asignavimų valdytojas yra Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija).
 
 2. Iš šio straipsnio 1 dalyje nurodytų asignavimų Teisingumo ministerija vykdo:
 
-1) teismo sprendimus dėl žalos, atsiradusios dėl ikiteisminio tyrimo pareigūno (kvotėjo, tardytojo), prokuroro, teisėjo ar teismo arba kitų valdžios institucijų neteisėtų veiksmų (aktų), atlyginimo;
+1) teismo sprendimus dėl žalos, atsiradusios dėl ikiteisminio tyrimo pareigūno (kvotėjo, tardytojo), prokuroro, teisėjo ar teismo arba kitų valstybės valdžios institucijų neteisėtų veiksmų (aktų), atlyginimo;
 
-2) teismo patvirtintas taikos sutartis dėl žalos, atsiradusios dėl ikiteisminio tyrimo pareigūno (kvotėjo, tardytojo), prokuroro, teisėjo ar teismo arba kitų valdžios institucijų neteisėtų veiksmų (aktų), atlyginimo;
+2) teismo patvirtintas taikos sutartis dėl žalos, atsiradusios dėl ikiteisminio tyrimo pareigūno (kvotėjo, tardytojo), prokuroro, teisėjo ar teismo arba kitų valstybės valdžios institucijų neteisėtų veiksmų (aktų), atlyginimo;
 
 3) Europos žmogaus teisių teismo sprendimus ir šalių taikius susitarimus, kuriems preliminariai pritarė Lietuvos Respublikos Vyriausybė;
 
-4) šio Įstatymo 3 straipsnio 7 dalyje nurodytas taikos sutartis.
+4) tarptautinių institucijų sprendimus dėl žalos atlyginimo (kompensacijos išmokėjimo), jei yra nustatytas piniginės kompensacijos dydis;
 
-3. Šio straipsnio 2 dalies 1 ir 2 punktuose nurodytus dokumentus Teisingumo ministerija turi įvykdyti ne vėliau kaip per 3 mėnesius nuo jų gavimo, o šio straipsnio 2 dalies 4 punkte nurodytus dokumentus – per 3 mėnesius nuo jų pasirašymo.
+5) šio Įstatymo 3 straipsnio 7 dalyje nurodytas taikos sutartis.
 
-4. Lietuvos Respublikos Vyriausybės atstovas Europos žmogaus teisių teisme, gavęs Europos žmogaus teisių teismo sprendimus dėl žalos atlyginimo arba šalių taikius susitarimus, kuriems preliminariai pritarė Lietuvos Respublikos Vyriausybė, nedelsdamas juos pateikia Teisingumo ministerijai. Europos žmogaus teisių teismo sprendimas arba šalių taikus susitarimas, kuriam preliminariai pritarė Lietuvos Respublikos Vyriausybė, turi būti įvykdytas išmokant piniginę kompensaciją per 3 mėnesius nuo tos dienos, kurią teismo sprendimą ar šalių taikų susitarimą gavo Lietuvos Respublikos Vyriausybės atstovas Europos žmogaus teisių teisme.
+3. Šio straipsnio 2 dalies 1 ir 2 punktuose nurodytus dokumentus Teisingumo ministerija turi įvykdyti ne vėliau kaip per 3 mėnesius nuo jų gavimo, o šio straipsnio 2 dalies 5 punkte nurodytus dokumentus – per 3 mėnesius nuo jų pasirašymo.
 
-5. Vykdant šio straipsnio 2 dalyje nurodytus dokumentus, lėšos iš šio straipsnio 1 dalyje numatytų asignavimų pervedamos į asmens nurodytą sąskaitą banke arba jo pageidavimu išmokamos grynais pinigais.
+4. Lietuvos Respublikos Vyriausybės atstovas Europos žmogaus teisių teisme, gavęs Europos žmogaus teisių teismo sprendimus dėl žalos atlyginimo arba šalių taikius susitarimus, kuriems preliminariai pritarė Lietuvos Respublikos Vyriausybė, nedelsdamas juos pateikia Teisingumo ministerijai. Europos žmogaus teisių teismo sprendimas arba šalių taikus susitarimas, kuriam preliminariai pritarė Lietuvos Respublikos Vyriausybė, turi būti įvykdytas tarptautinės teisės aktų nustatytais terminais.
+
+5. Valstybės institucija ar pareigūnas, gavę tarptautinių institucijų sprendimus dėl piniginės kompensacijos išmokėjimo, nedelsdami juos pateikia Teisingumo ministerijai. Šie sprendimai turi būti įvykdyti ne vėliau kaip per 3 mėnesius nuo tada, kai juos gauna Teisingumo ministerija, jei tarptautinės teisės aktai nenustato kitaip.
+
+6. Vykdant šio straipsnio 2 dalyje nurodytus dokumentus, lėšos iš šio straipsnio 1 dalyje numatytų asignavimų pervedamos į asmens nurodytą sąskaitą banke arba jo pageidavimu išmokamos grynaisiais pinigais.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
 
 3 straipsnis. Žalos atlyginimas ne teismo tvarka
 
-1. Asmuo turi teisę kreiptis į Teisingumo ministeriją dėl žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis) ne teismo tvarka ne vėliau kaip per 3 metus nuo to laiko, kai jis sužinojo arba turėjo sužinoti, kad įstatymų nustatyta tvarka nustatyta, jog nuteisimas, kardomasis kalinimas (suėmimas), sulaikymas, procesinių prievartos priemonių pritaikymas ar administracinės nuobaudos – arešto paskyrimas yra neteisėti.
+1. Asmuo turi teisę kreiptis į Teisingumo ministeriją dėl žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis) ne teismo tvarka ne vėliau kaip per 3 metus nuo to laiko, kai jis sužinojo arba turėjo sužinoti, kad įstatymų nustatyta tvarka nustatyta, jog nuteisimas, kardomasis kalinimas (suėmimas), sulaikymas, procesinių prievartos priemonių pritaikymas ar administracinės nuobaudos – arešto paskyrimas yra neteisėti. Asmuo, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, turi teisę kreiptis į Teisingumo ministeriją dėl žalos dydžio nustatymo ir žalos atlyginimo. Teisingumo ministerija turi teisę įvykdyti tarptautinių institucijų sprendimus dėl žalos atlyginimo (kompensacijos išmokėjimo) ir tuo atveju, kai nėra asmens prašymo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
 
 2. Ne teismo tvarka neatlyginama žala asmeniui:
 
@@ -70,7 +86,11 @@ Vilnius
 
 4) asmens patvirtinimas, kad teismas nėra priėmęs sprendimo dėl žalos, atsiradusios dėl tų pačių neteisėtų veiksmų, ir nėra patvirtinęs taikos sutarties.
 
-4. Prie Teisingumo ministerijai teikiamo asmens prašymo atlyginti žalą ne teismo tvarka pridedamas įsiteisėjęs ikiteisminio tyrimo pareigūno (kvotėjo, tardytojo), prokuroro, teisėjo ar teismo sprendimas, nustatantis pažeidimus, kuriuos padarė ikiteisminio tyrimo pareigūnas (kvotėjas, tardytojas), prokuroras, teisėjas ar teismas baudžiamojoje ar administracinio teisės pažeidimo byloje priimdami sprendimą dėl nuteisimo, kardomojo kalinimo (suėmimo), sulaikymo, procesinių prievartos priemonių pritaikymo, administracinės nuobaudos – arešto paskyrimo, taip pat žalos dydį patvirtinantys dokumentai.
+4. Prie Teisingumo ministerijai teikiamo asmens prašymo atlyginti žalą ne teismo tvarka pridedamas įsiteisėjęs ikiteisminio tyrimo pareigūno (kvotėjo, tardytojo), prokuroro, teisėjo ar teismo sprendimas, nustatantis pažeidimus, kuriuos padarė ikiteisminio tyrimo pareigūnas (kvotėjas, tardytojas), prokuroras, teisėjas ar teismas baudžiamojoje ar administracinio teisės pažeidimo byloje priimdami sprendimą dėl nuteisimo, kardomojo kalinimo (suėmimo), sulaikymo, procesinių prievartos priemonių pritaikymo, administracinės nuobaudos – arešto paskyrimo, taip pat žalos dydį patvirtinantys dokumentai. Kai į Teisingumo ministeriją kreipiasi asmuo, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, prie prašymo pridedamas tarptautinės institucijos sprendimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
 
 5. Teisingumo ministerija, nagrinėdama asmens prašymą atlyginti žalą ne teismo tvarka, turi teisę iš valstybės institucijų, įstaigų, kitų juridinių bei fizinių asmenų gauti žalos dydžiui apskaičiuoti reikalingą informaciją.
 
@@ -82,11 +102,19 @@ Vilnius
 
 9. Asmuo, kuris nesutiko su Teisingumo ministerijos siūlymu dėl žalos atlyginimo ne teismo tvarka, atsisakė žalos atlyginimo ne teismo tvarka ar šio straipsnio 6 dalyje nustatytu laiku neatvyko pasirašyti taikos sutarties, turi teisę kreiptis į teismą dėl žalos atlyginimo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
-10. Ne vėliau kaip per 3 dienas nuo ieškinio dėl žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimo priėmimo teismas išsiunčia Teisingumo ministerijai gauto ieškinio nuorašą. Teismas ne vėliau kaip per 3 dienas nuo sprendimo dėl žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimo priėmimo ar taikos sutarties patvirtinimo šių dokumentų nuorašus išsiunčia Teisingumo ministerijai.
+10. Ne vėliau kaip per 3 dienas nuo ieškinio dėl žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimo, taip pat dėl žalos atlyginimo tarptautinės institucijos sprendimo pagrindu priėmimo teismas išsiunčia Teisingumo ministerijai gauto ieškinio nuorašą. Teismas ne vėliau kaip per 3 dienas nuo sprendimo dėl žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimo, taip pat sprendimo dėl žalos atlyginimo tarptautinės institucijos sprendimo pagrindu priėmimo ar taikos sutarties patvirtinimo šių dokumentų nuorašus išsiunčia Teisingumo ministerijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
 
 4 straipsnis. Ne teismo tvarka atlyginamos žalos dydžio nustatymas
 
-1. Asmeniui, kuriam žala atsirado dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis), ne teismo tvarka atlyginama reali turtinė žala, t. y. turto netekimas arba sužalojimas, turėtos išlaidos, negautos pajamos (negautas darbo užmokestis ar kitos darbinės pajamos atskaičius mokesčius ir privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas; pašalpos; pensijos), kurias asmuo būtų gavęs, jeigu nebūtų buvę ikiteisminio tyrimo pareigūno (kvotėjo, tardytojo), prokuroro, teisėjo ar teismo neteisėtų veiksmų, taip pat neturtinė žala, apskaičiuota šio straipsnio nustatyta tvarka. Ne teismo tvarka atlyginamos turtinės žalos dydis negali viršyti 10 000 litų, o neturtinės žalos dydis negali viršyti 5 000 litų. Teisingumo ministerija, atlygindama žalą dėl negauto darbo užmokesčio, sumoka privalomojo valstybinio socialinio draudimo įmokas (mokamas darbdavio ir darbuotojo) į Valstybinio socialinio draudimo fondo biudžetą už laikotarpį, per kurį asmuo negavo darbo užmokesčio dėl neteisėtų ikiteisminio tyrimo pareigūno (kvotėjo, tardytojo), prokuroro, teisėjo ar teismo veiksmų. Privalomojo valstybinio socialinio draudimo įmokos neįskaičiuojamos į asmeniui atlyginamos turtinės žalos sumą.
+1. Asmeniui, kuriam žala atsirado dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis), taip pat asmeniui, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, ne teismo tvarka atlyginama reali turtinė žala, t. y. turto netekimas arba sužalojimas, turėtos išlaidos, negautos pajamos (negautas darbo užmokestis ar kitos darbinės pajamos atskaičius mokesčius ir privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas; pašalpos; pensijos), kurias asmuo būtų gavęs, jeigu nebūtų buvę neteisėtų veiksmų, taip pat neturtinė žala, apskaičiuota šio straipsnio nustatyta tvarka. Ne teismo tvarka atlyginamos turtinės žalos dydis negali viršyti 10 000 litų, o neturtinės žalos dydis negali viršyti 5000 litų. Teisingumo ministerija, atlygindama žalą dėl negauto darbo užmokesčio, sumoka privalomojo valstybinio socialinio draudimo įmokas (mokamas darbdavio ir darbuotojo) į Valstybinio socialinio draudimo fondo biudžetą už laikotarpį, per kurį asmuo negavo darbo užmokesčio dėl neteisėtų veiksmų. Privalomojo valstybinio socialinio draudimo įmokos neįskaičiuojamos į asmeniui atlyginamos turtinės žalos sumą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
 
 2. Asmeniui, dirbusiam pagal darbo sutartį, žalos dydis už neteisėto kalinimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo ar neteisėtos administracinės nuobaudos – arešto laiką apskaičiuojamas pagal vidutinį darbo užmokestį, kuris apskaičiuojamas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
@@ -149,4 +177,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1437, 2003-04-03, Žin., 2003, Nr. 38-1682 (2003-04-24), i. k. 1031010ISTA0IX-1437
 
 Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
+
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo 1, 2, 3, 4 straipsnių pakeitimo ir papildymo įstatymas
 
