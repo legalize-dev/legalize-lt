@@ -4,7 +4,7 @@ identifier: "TAR.C543D39A1A6E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-11"
-last_updated: "2003-05-01"
+last_updated: "2003-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C543D39A1A6E"
 department: "Lietuvos Respublikos Seimas"
@@ -169,19 +169,23 @@ nariui - susirinkimams rengti bei rinkėjams priimti;
 
 2) vienmandatėje rinkimų apygardoje išrinktam Seimo
 
-nariui ir jo padėjėjui – nuolatiniam naudojimui Seimo nario pasirinktoje
+nariui ir jo padėjėjui – nuolatiniam naudojimuisi Seimo nario pasirinktoje
 
 rinkimų apygardos savivaldybėje (savivaldybėse) Seimo nario įgaliojimų laikui
 
-ne mažesnę kaip 12 m(2) sanitarijos ir higienos reikalavimus
+ne mažesne kaip 12 m² sanitarijos ir higienos reikalavimus atitinkančią patalpą
 
-atitinkančią patalpą su baldais ir telefonu. Už naudojimąsi telefonu
+su baldais ir telefonu. Už naudojimąsi telefonu neviršijant paskutinio
 
-neviršijant paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo
+paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) 0,15
 
-užmokesčio (toliau – VMDU) 0,15 dydžio per mėnesį pagal pateiktą sąskaitą moka
+dydžio per mėnesį pagal pateiktą sąskaitą moka Seimo kanceliarija. Atskirų
 
-Seimo kanceliarija. Limitą viršijančią sumą sumoka Seimo narys.
+mėnesių limitai gali būti kas ketvirtį sudedami. Apskaičiuotą limitą
+
+viršijančią sumą Seimo kanceliarija iki kito ketvirčio pirmo mėnesio
+
+dvidešimtos dienos išskaičiuoja iš Seimo nario atlyginimo.
 
 Straipsnio pakeitimai:
 
@@ -192,6 +196,10 @@ Nr. VIII-1421,
 Nr. IX-182, 2001 02 20, Žin., 2001, Nr.
 
 21-690 (2001 03 09)
+
+Nr. IX-1671,
+
+2003-07-01, Žin., 2003, Nr. 73-3349 (2003-07-23)
 
 6
 
@@ -391,17 +399,17 @@ dydį nustato Lietuvos Respublikos įstatymai.
 
 nedalyvavusiam daugiau kaip ketvirtadalyje Seimo posėdžių iš anksto numatytų
 
-balsavimų metu, kai buvo priimami teisės aktai, arba daugiau kaip ketvirtadalyje
+balsavimų metu, kai buvo priimami teisės aktai, arba daugiau kaip
 
-Seimo komiteto, komisijos ar pakomitečio, kurių darbe turi dalyvauti, posėdžių,
+ketvirtadalyje Seimo komiteto, komisijos ar pakomitečio, kurių darbe turi
 
-to mėnesio atlyginimas sumažinamas vienu trečdaliu. Remiantis Seimo Etikos ir
+dalyvauti, posėdžių, to mėnesio atlyginimas sumažinamas vienu trečdaliu.
 
-procedūrų komisijos išvadomis, atlyginimas sumažinamas Seimo valdybos
+Remiantis Seimo Etikos ir procedūrų komisijos išvadomis, atlyginimas sumažinamas
 
-sprendimu. Suma, kuria sumažinamas Seimo nario atlyginimas, išskaitoma iš kito,
+Seimo valdybos sprendimu. Suma, kuria sumažinamas Seimo nario atlyginimas,
 
-artimiausio mėnesio atlyginimo.
+išskaitoma iš kito, artimiausio mėnesio atlyginimo.
 
 3. Jeigu Seimo
 
@@ -427,9 +435,9 @@ Seimo nario atlyginimas jam nemokamas už visą šios bausmės atlikimo laiką.
 
 Panaikinus nuosprendį, Seimo nariui ne vėliau kaip per 5 darbo dienas išmokamas
 
-visas Seimo nario atlyginimas, kurio jis negavo atlikdamas arešto ar laisvės atėmimo
+visas Seimo nario atlyginimas, kurio jis negavo atlikdamas arešto ar laisvės
 
-bausmes.
+atėmimo bausmes.
 
 Straipsnio
 
@@ -811,9 +819,9 @@ straipsnis. Frakcijų darbuotojai
 
 Frakcijų darbuotojų skaičių ir jų darbo apmokėjimo sąlygas nustato Seimo
 
-valdyba atsižvelgdama į frakcijos narių skaičių. Frakcijai skiriamas ne mažiau kaip
+valdyba atsižvelgdama į frakcijos narių skaičių. Frakcijai skiriamas ne mažiau
 
-vienas referento etatas.
+kaip vienas referento etatas.
 
 2.
 
@@ -1119,13 +1127,29 @@ NARIŲ DARBO SĄLYGŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 37-1341), t.y. nuo 2003 m. gegužės 1 d.
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1671,
+
+2003-07-01, Žin., 2003, Nr. 73-3349 (2003-07-23)
+
+SEIMO
+
+NARIŲ DARBO SĄLYGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-04-30)
+Angonita Rupšytė (2003-07-23)
 
-autrap@lrs.lt
+anrups@lrs.lt
 
