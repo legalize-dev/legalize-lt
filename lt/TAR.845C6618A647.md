@@ -4,7 +4,7 @@ identifier: "TAR.845C6618A647"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-06"
-last_updated: "2003-04-24"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2003-04-24 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2005-05-27
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
 
@@ -227,7 +227,11 @@ NEPAPRASTOSIOS PADĖTIES METU
 
 19 straipsnis. Žmogaus teisės naudotis privataus gyvenimo neliečiamumu apribojimas
 
-Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad nepaprastosios padėties metu asmenų pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slapta kontrolė gali būti atliekama ir techninės priemonės specialia tvarka panaudojamos be teismo sprendimo, jei nėra galimybės gauti teismo sprendimo įstatymų nustatyta tvarka. Šiuos veiksmus atlikti turi teisę tik operatyvinės veiklos subjektai, kvotos ir tardymo organai.
+Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad nepaprastosios padėties metu asmenų pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slapta kontrolė gali būti atliekama ir techninės priemonės specialia tvarka panaudojamos be teismo sprendimo, jei nėra galimybės gauti teismo sprendimo įstatymų nustatyta tvarka. Šiuos veiksmus atlikti turi teisę tik operatyvinės veiklos subjektai, ikiteisminio tyrimo įstaigos ir prokurorai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1468, 2003-04-03, Žin., 2003, Nr. 38-1713 (2003-04-24), i. k. 1031010ISTA0IX-1468
 
 20 straipsnis. Žmogaus teisės naudotis būsto neliečiamumu apribojimas
 
@@ -374,4 +378,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1416, 2003-04-03, Žin., 2003, Nr. 38-1661 (2003-04-24), i. k. 1031010ISTA0IX-1416
 
 Lietuvos Respublikos nepaprastosios padėties įstatymo 20 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1468, 2003-04-03, Žin., 2003, Nr. 38-1713 (2003-04-24), i. k. 1031010ISTA0IX-1468
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo 19 straipsnio pakeitimo įstatymas
 
