@@ -4,7 +4,7 @@ identifier: "TAR.FBE404535C5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-10-08"
-last_updated: "2002-02-28"
+last_updated: "2003-12-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -448,13 +448,15 @@ kombinuotų vežimų veiklos ypatumus nustato specialieji transporto rūšių
 
 straipsnis. Transporto objektų nuosavybė
 
-1.
+1. Transporto objektai nuosavybės teise gali
 
-Transporto objektai nuosavybės teise gali priklausyti Lietuvos valstybei,
+priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio
 
-savivaldybių institucijoms, Lietuvos Respublikos ir užsienio fiziniams bei
+fiziniams bei juridiniams asmenims. Nuosavybės teisė į viešosios transporto
 
-juridiniams asmenims.
+infrastruktūros objektus – autobusų stotis negali būti perleista kitiems
+
+Lietuvos Respublikos ar užsienio fiziniams ar juridiniams asmenims.
 
 2.
 
@@ -481,6 +483,16 @@ plotus), kitą priskirtą ar sukurtą turtą viešosios transporto infrastruktū
 valdytojas valdo, naudoja bei disponuoja turto patikėjimo teisėmis
 
 vadovaudamasis šiuo ir kitais įstatymais, administraciniu aktu ar sutartimi.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1866,
+
+2003-12-02, Žin., 2003, Nr. 119-5403 (2003-12-18)
 
 7
 
@@ -612,11 +624,9 @@ priemonių registravimo poreikį ir jų išdėstymą šalies teritorijoje, nusta
 
 Vyriausybės įgaliota institucija pagal jos patvirtintą metodiką.
 
-5.
+5. Transporto infrastruktūros objektai pripažįstami
 
-Transporto infrastruktūros objektai pripažįstami tinkamais naudoti Statybos
-
-įstatymo ir kitų teisės aktų nustatyta tvarka.
+tinkamais naudoti Statybos įstatymo ir kitų teisės aktų nustatyta tvarka.
 
 6.
 
@@ -684,13 +694,13 @@ straipsnis. Visuomenės aptarnavimo organizavimas
 
 institucijos užtikrina socialiai būtinų transporto paslaugų teikimą visuomenei.
 
-Patiriami dėl šių paslaugų teikimo nuostoliai vežėjams (operatoriams) yra kompensuojami
+Patiriami dėl šių paslaugų teikimo nuostoliai vežėjams (operatoriams) yra
 
-Vyriausybės ar jos įgaliotos institucijos ir (ar) savivaldybių. Šiems
+kompensuojami Vyriausybės ar jos įgaliotos institucijos ir (ar) savivaldybių.
 
-visuomenės aptarnavimo įsipareigojimams vykdyti vežėjai (operatoriai) parenkami konkurso
+Šiems visuomenės aptarnavimo įsipareigojimams vykdyti vežėjai (operatoriai) parenkami
 
-tvarka.
+konkurso tvarka.
 
 2.
 
@@ -742,11 +752,9 @@ Privačios transporto infrastruktūros savininkas yra fizinis ar juridinis asmuo
 
 Viešosios transporto infrastruktūros valdytoją skiria Vyriausybė ar jos
 
-įgaliota institucija arba savivaldybės institucija. Valdytojui parinkti
+įgaliota institucija arba savivaldybės institucija. Valdytojui parinkti skelbiamas
 
-skelbiamas konkursas arba viešajai transporto infrastruktūrai valdyti steigiama
-
-įmonė.
+konkursas arba viešajai transporto infrastruktūrai valdyti steigiama įmonė.
 
 6 straipsnis.
 
@@ -886,19 +894,19 @@ transporto infrastruktūros objekto valdytojas, garantuodamas optimalų šio
 
 objekto funkcionavimą, išlaidų ir pajamų subalansavimą:
 
-1) sudaro  galimybę
+1) sudaro
 
-nediskriminacinėmis sąlygomis naudotis viešosios transporto infrastruktūros
+galimybę nediskriminacinėmis sąlygomis naudotis viešosios transporto
 
-objektu;
+infrastruktūros objektu;
 
 2) užtikrina,
 
 kad viešosios transporto infrastruktūros objektas  atitiktų saugaus eismo,
 
-aplinkosaugos ir kitus reikalavimus, nustatytus šio Įstatymo 10 ir 11 straipsniuose,
+aplinkosaugos ir kitus reikalavimus, nustatytus šio Įstatymo 10 ir 11
 
-tinkamai prižiūri, modernizuoja ir plėtoja  viešosios transporto
+straipsniuose, tinkamai prižiūri, modernizuoja ir plėtoja  viešosios transporto
 
 infrastruktūros objektus.
 
@@ -1064,13 +1072,27 @@ VEIKLOS PAGRINDŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Nauja įstatymo redakcija
 
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1866,
+
+2003-12-02, Žin., 2003, Nr. 119-5403 (2003-12-18)
+
+TRANSPORTO
+
+VEIKLOS PAGRINDŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-03-26)
+Aušra Bodin (2003-12-19)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
