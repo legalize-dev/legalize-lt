@@ -4,7 +4,7 @@ identifier: "TAR.DEEB2C5600E3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-02-03"
-last_updated: "1996-07-11"
+last_updated: "1998-06-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEEB2C5600E3"
 department: "Lietuvos Respublikos Seimas"
@@ -15,11 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Konstitucinio Teismo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramunė Lūžaitė (1997.05.13)
 
 Redagavo: Ramunė
 
-Lūžaitė (1997.05.13)
+Lūžaitė (1998.06.17)
 
 Įstatymas
 
@@ -33,43 +33,49 @@ Pakeitimai:
 
 1.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr.1-318, 93.12.02,
+Nr.I-318,
 
-Žin.,1993, Nr. 68-1277
+93.12.02, Žin.,1993, Nr. 68-1277
 
-DĖL LIETUVOS
+DĖL
 
-RESPUBLIKOS KONSTITUCINIO TEISMO ĮSTATYMO 17
-
-STRAIPSNIO PAKEITIMO
+LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
 
 2.
 
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-1475, 96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
+
+LIETUVOS
+
+RESPUBLIKOS KONSTITUCINIO TEISMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+3.
+
 Lietuvos Respublikos
 
 Seimas, Įstatymas
 
-Nr. I-1475,
+Nr. VIII-765,
 
-96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
+98.06.04, Žin., 1998, Nr.55-1519 (98.06.17)
 
 LIETUVOS RESPUBLIKOS
 
-KONSTITUCINIO TEISMO ĮSTATYMO PAKEITIMO
-
-IR PAPILDYMO
-
-ĮSTATYMAS
+KONSTITUCINIO TEISMO ĮSTATYMO 26 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 *** Pabaiga ***
 
-LIETUVOS
-
-RESPUBLIKOS
+LIETUVOS RESPUBLIKOS
 
 KONSTITUCINIO TEISMO
 
@@ -81,7 +87,7 @@ I SKYRIUS. KONSTITUCINIO TEISMO STATUSAS
 
 Lietuvos
 
-Respublikos   Konstitucinis   Teismas   garantuoja
+Respublikos   Konstitucinis   Teismas   garantuoja
 
 Lietuvos
 
@@ -95,9 +101,9 @@ ir kiti  Seimo
 
 priimti  aktai neprieštarauja  Konstitucijai, taip
 
-pat   ar    Respublikos
+pat   ar
 
-Prezidento    bei   Vyriausybės   aktai
+Respublikos   Prezidento    bei   Vyriausybės   aktai
 
 neprieštarauja
 
@@ -321,7 +327,7 @@ institucijų  užtikrina  jam  įstatymo  laiduojamos
 
 finansinės,
 
-materialinės-techninės    bei    organizacinės
+materialinės-techninės    bei    organizacinės
 
 garantijos.
 
@@ -333,9 +339,9 @@ biudžeto
 
 užtikrinus  jam galimybę nepriklausomai  ir  deramai
 
-atlikti  konstitucinės
+atlikti
 
-priežiūros funkcijas.  Išlaidų  sąmatą
+konstitucinės  priežiūros funkcijas.  Išlaidų  sąmatą
 
 tvirtina
 
@@ -395,7 +401,9 @@ Nr. I-1475,
 
 96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
 
-II SKYRIUS. KONSTITUCINIO TEISMO TEISĖJŲ STATUSAS
+II
+
+SKYRIUS. KONSTITUCINIO TEISMO TEISĖJŲ STATUSAS
 
 6 straipsnis. Reikalavimai Konstitucinio Teismo teisėjui
 
@@ -459,9 +467,9 @@ PRISIEKIU būti
 
 ištikimas Lietuvos Respublikai;
 
-PRISIEKIU
+PRISIEKIU garbingai
 
-garbingai  ir sąžiningai eiti Konstitucinio Teismo
+ir sąžiningai eiti Konstitucinio Teismo
 
 teisėjo pareigas;
 
@@ -559,9 +567,9 @@ teisėjo patalpas,
 
 daryti ten arba jo asmeniniame ar tarnybiniame
 
-automobilyje,  arba
+automobilyje,
 
-kitoje  asmeninėje  susisiekimo  priemonėje
+arba   kitoje  asmeninėje  susisiekimo  priemonėje
 
 apžiūrą, kratą
 
@@ -681,7 +689,7 @@ Konstitucinio
 
 Teismo  teisėjas neturi  teisės viešai reikšti
 
-savo nuomonę  dėl
+savo nuomonę  dėl
 
 klausimo,  kuris yra  svarstomas arba  priimtas
 
@@ -735,7 +743,7 @@ nežinia kur esančiu.
 
 Sustabdžius
 
-teisėjo   įgaliojimus,  jis   netenka   teisių,
+teisėjo   įgaliojimus,  jis   netenka   teisių,
 
 nustatytų šio
 
@@ -761,9 +769,9 @@ Teismo teisėjo
 
 įgaliojimai atstatyti  nuo tos  dienos,  kai  jis
 
-faktiškai pradeda eiti
+faktiškai pradeda
 
-savo pareigas, pareiškimu pranešdamas apie
+eiti savo pareigas, pareiškimu pranešdamas apie
 
 tai Konstitucinio
 
@@ -817,9 +825,9 @@ jo Pirmininko
 
 teikimu.
 
-Šio  straipsnio
+Šio
 
-4  punkte  nustatytu  atveju  klausimą  dėl
+straipsnio  4  punkte  nustatytu  atveju  klausimą  dėl
 
 teisėjo įgaliojimų
 
@@ -973,9 +981,9 @@ posėdžiuose,
 
 Vyriausybės,  Lietuvos teisėjų  senato, prokuratūros
 
-bei kitų teisinių
+bei kitų teisinių institucijų
 
-institucijų posėdžiuose.
+posėdžiuose.
 
 16 straipsnis. Konstitucinio Teismo teisėjų socialinis
 
@@ -1081,9 +1089,7 @@ pareigos.
 
 III SKYRIUS. PAGRINDINĖS TEISENOS TAISYKLĖS
 
-KONSTITUCINIAME
-
-TEISME
+KONSTITUCINIAME  TEISME
 
 1 SKIRSNIS. BENDROSIOS TAISYKLĖS
 
@@ -1117,9 +1123,9 @@ Valstybės
 
 valdžios  ir valdymo  institucijų, Seimo  narių ir
 
-kitų pareigūnų,
+kitų pareigūnų,  politinių
 
-politinių  partijų,  politinių  ir  visuomeninių
+partijų,  politinių  ir  visuomeninių
 
 organizacijų ar
 
@@ -1167,7 +1173,7 @@ Straipsnio
 
 pakeitimai:
 
-Nr.1-318, 93.12.02,
+Nr.I-318, 93.12.02,
 
 Žin.,1993, Nr. 68-1277
 
@@ -1183,7 +1189,7 @@ Konstitucinio  Teismo  patalpose  ir   pranešama
 
 visuomenės
 
-informavimo  priemonėms  per  Lietuvos   telegramų
+informavimo  priemonėms  per  Lietuvos   telegramų
 
 agentūrą (ELTA).
 
@@ -1303,7 +1309,7 @@ teisėjų.
 
 Sprendimai
 
-priimami   ne  mažesne   kaip   pusės   posėdyje
+priimami   ne  mažesne   kaip   pusės   posėdyje
 
 dalyvaujančių
 
@@ -1493,9 +1499,9 @@ vienam ar  keliems  teisėjams,  nustatydamas  šio
 
 darbo terminą.
 
-Konstitucinio  Teismo
+Konstitucinio
 
-pirmininkas  parengiamuosius  darbus
+Teismo   pirmininkas  parengiamuosius  darbus
 
 tolygiai paskirsto
 
@@ -1607,81 +1613,79 @@ Konstitucinio Teismo tvarkomajam posėdžiui.
 
 26   straipsnis.   Respublikos  Prezidento,   Seimo   ir
 
-Vyriausybės
-
-aktų galiojimo sustabdymas
+Vyriausybės aktų galiojimo sustabdymas
 
 Tais
 
-atvejais,   kai   Konstitucinis   Teismas   gauna
+atvejais, kai Konstitucinis Teismas gauna Respublikos
 
-Respublikos
+Prezidento
 
-Prezidento teikimą ištirti, ar Vyriausybės  aktas
+teikimą  ištirti,  ar  Vyriausybės  aktas  atitinka
 
-atitinka
+Konstituciją, arba
 
-Konstituciją,  arba kai jis  gauna  Seimo  nutarimą,
+kai jis gauna Seimo nutarimą, kuriame prašoma
 
-kuriame  prašoma
+ištirti, ar Lietuvos
 
-ištirti, ar Lietuvos Respublikos  įstatymas,
+Respublikos įstatymas, kitas Seimo priimtas
 
-kitas  Seimo
+aktas atitinka
 
-priimtas aktas atitinka Konstituciją,  ne  vėliau
+Konstituciją, ar Respublikos Prezidento dekretas,
+
+Vyriausybės aktas
+
+atitinka  Konstituciją ir įstatymus, ne vėliau
 
 kaip per 3 dienas
 
-turi būti atliktas išankstinis tos medžiagos
+turi būti atliktas  išankstinis  tos medžiagos
 
-tyrimas   ir
+tyrimas ir
 
-tvarkomajame  Konstitucinio   Teismo   posėdyje
+tvarkomajame Konstitucinio Teismo posėdyje išspręstas
 
-išspręstas    klausimas,
+klausimas, ar
 
-ar   priimti   prašymą    nagrinėti
-
-Konstituciniame
-
-Teisme.
+priimti prašymą nagrinėti Konstituciniame Teisme.
 
 Jeigu
 
-Konstitucinis  Teismas priima  sprendimą  priimti
+Konstitucinis  Teismas  priima  sprendimą  priimti
 
 nagrinėti prašymą,
 
-Konstitucinio Teismo pirmininkas  tuoj  pat
+Konstitucinio Teismo  pirmininkas  tuoj  pat
 
 apie   tai
 
-oficialiai  paskelbia  “Valstybės  žiniose”   arba
+oficialiai  paskelbia  “Valstybės   žiniose”   arba
 
 specialiame  Seimo
 
-leidinyje, arba laikraščiuose per  Lietuvos
+leidinyje, arba  laikraščiuose per  Lietuvos
 
 telegramų  agentūrą
 
-(ELTA). Šiame pirmininko  pranešime  turi
+(ELTA).  Šiame  pirmininko  pranešime  turi
 
 būti nurodytas
 
-tikslus ginčijamo akto pavadinimas, jo priėmimo
+tikslus  ginčijamo akto  pavadinimas, jo priėmimo
 
 data ir tai, jog
 
-pagal Lietuvos Respublikos Konstitucijos  106
+pagal  Lietuvos  Respublikos Konstitucijos  106
 
-straipsnį   minėto
+straipsnį
 
-akto  galiojimas  sustabdomas   nuo   šio
+minėto    akto  galiojimas   sustabdomas   nuo   šio
 
 oficialaus
 
-paskelbimo dienos iki Konstitucinio Teismo nutarimo
+paskelbimo  dienos iki Konstitucinio Teismo nutarimo
 
 dėl šios bylos
 
@@ -1693,7 +1697,7 @@ kai Konstitucinis Teismas, išnagrinėjęs bylą,
 
 priima
 
-nutarimą,    kad   ginčijamas    aktas    neprieštarauja
+nutarimą,    kad   ginčijamas    aktas    neprieštarauja
 
 Konstitucijai,
 
@@ -1730,6 +1734,10 @@ pakeitimai:
 Nr. I-1475,
 
 96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
+
+Nr. VIII-765,
+
+98.06.04, Žin., 1998, Nr.55-1519 (98.06.17)
 
 27 straipsnis. Bylos rengimas Konstitucinio Teismo posėdžiui
 
@@ -1797,9 +1805,9 @@ medžiagą;
 
 ekspertizes, iškviečia ir apklausia specialistus,
 
-nesuinteresuotus bylos
+nesuinteresuotus
 
-baigtimi;
+bylos baigtimi;
 
 6)  atlieka
 
@@ -1885,9 +1893,9 @@ pranešėją;
 
 bylą papildomai ištirti;
 
-3)
+3)  atsisakyti
 
-atsisakyti   nagrinėti  bylą   šio  įstatymo  69  ir  80
+nagrinėti  bylą   šio  įstatymo  69  ir  80
 
 straipsniuose
 
@@ -1921,9 +1929,9 @@ Konstitucinis
 
 Teismas,  gavęs šio  įstatymo nustatyta tvarka
 
-jam žinybingą  kreipimąsi
+jam žinybingą
 
--  prašymą ar  paklausimą,  -  turi  ne
+kreipimąsi -  prašymą ar  paklausimą,  -  turi  ne
 
 vėliau kaip  per 7
 
@@ -2003,7 +2011,7 @@ Seime   apkaltos  bylos,  bei  jo  atstovas;
 
 Respublikos
 
-Prezidentas,  kai teikiama  išvada dėl  jo  sveikatos
+Prezidentas,  kai teikiama  išvada dėl  jo  sveikatos
 
 būklės, bei jo
 
@@ -2019,7 +2027,7 @@ susipažinti  su bylos  medžiaga,  daryti  iš  jos
 
 išrašus,
 
-nuorašus,   kopijas,  pareikšti   nušalinimus,   teikti
+nuorašus,   kopijas,  pareikšti   nušalinimus,   teikti
 
 įrodymus, dalyvauti
 
@@ -2101,9 +2109,9 @@ Dalyvaujančių
 
 byloje   įgaliotais   atstovais    (pagal
 
-pavedimą)
+pavedimą)  Konstituciniame
 
-Konstituciniame Teisme gali būti advokatai,  mokslo
+Teisme gali būti advokatai,  mokslo
 
 laipsnius  turintys
 
@@ -2137,7 +2145,9 @@ specialistą,
 
 išduodamas jam įgaliojimą.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. I-1475,
 
@@ -2247,7 +2257,7 @@ nustatytos galios.
 
 Teismas
 
-įrodymus  įvertina pagal teisėjų vidinį įsitikinimą,
+įrodymus  įvertina pagal teisėjų vidinį įsitikinimą,
 
 pagrįstą
 
@@ -2335,7 +2345,7 @@ Prireikus gali būti skiriami keli ekspertai.
 
 Klausimus,
 
-kuriais  turi būti  gauta eksperto  išvada,  turi
+kuriais  turi būti  gauta eksperto  išvada,  turi
 
 teisę  pateikti
 
@@ -2435,9 +2445,9 @@ su kitais, surašo
 
 savo atskirą išvadą.
 
-Eksperto
+Eksperto išvada
 
-išvada  Konstituciniam  Teismui  neturi  iš  anksto
+Konstituciniam  Teismui  neturi  iš  anksto
 
 nustatytos galios.
 
@@ -2569,7 +2579,7 @@ vykdyti.
 
 Konstitucinis
 
-Teismas,  nustatęs,  kad  yra  du  ar  daugiau
+Teismas,  nustatęs,  kad  yra  du  ar  daugiau
 
 prašymų patikrinti
 
@@ -2765,9 +2775,9 @@ ištirti; šalina  iš
 
 proceso visa tai, kas nesusiję su nagrinėjamu
 
-klausimu;  nutraukia
+klausimu;
 
-proceso  dalyvius,  jeigu  jie  kalba  apie
+nutraukia  proceso  dalyvius,  jeigu  jie  kalba  apie
 
 klausimus,
 
@@ -2847,9 +2857,9 @@ reikalavimų laikytis
 
 tvarkos.
 
-Nepilnamečiai, jeigu
+Nepilnamečiai,
 
-jie nėra  liudytojai, į  posėdžių salę
+jeigu  jie nėra  liudytojai, į  posėdžių salę
 
 neįleidžiami.
 
@@ -2931,7 +2941,9 @@ Teismo  posėdžio sekretorius praneša, kurie iš
 
 yra  atvykę,   kas  žinoma  apie  kitų  asmenų
 
-neatvykimo priežastis.
+neatvykimo
+
+priežastis.
 
 Teismas nustato
 
@@ -3069,9 +3081,9 @@ atvykusius   liudytojus,  kurie   iš  naujo  paprastai
 
 nebešaukiami.
 
-Atnaujinęs atidėtos
+Atnaujinęs
 
-bylos nagrinėjimą, Teismas nusprendžia,
+atidėtos  bylos nagrinėjimą, Teismas nusprendžia,
 
 ar ją  pradėti
 
@@ -3101,7 +3113,7 @@ teisėjai gali užduoti klausimų pranešėjui.
 
 Po    to
 
-išklausomi   dalyvaujančių   byloje   asmenų
+išklausomi   dalyvaujančių   byloje   asmenų
 
 paaiškinimai
 
@@ -3117,7 +3129,7 @@ asmens pareiškimo bei prašymo. Jiems  klausimų
 
 gali   užduoti  ir
 
-Konstitucinio  Teismo  teisėjai.  Posėdžio
+Konstitucinio  Teismo  teisėjai.  Posėdžio
 
 pirmininkas
 
@@ -3153,7 +3165,7 @@ posėdyje.
 
 Rašytiniai
 
-įrodymai  arba  jų  apžiūros  protokolai  garsiai
+įrodymai  arba  jų  apžiūros  protokolai  garsiai
 
 perskaitomi
 
@@ -3205,9 +3217,9 @@ Specialistams gali
 
 būti užduodama klausimų.
 
-Kai  išnagrinėti
+Kai
 
-visi   įrodymai,   posėdžio   pirmininkas
+išnagrinėti   visi   įrodymai,   posėdžio   pirmininkas
 
 paklausia
 
@@ -3241,9 +3253,9 @@ ginčai  susideda iš  dalyvaujančių byloje  asmenų
 
 kalbų.
 
-Teisminiuose ginčuose
+Teisminiuose
 
-pirmieji pasisako  pareiškėjas ir  jo
+ginčuose  pirmieji pasisako  pareiškėjas ir  jo
 
 atstovas, po to -
 
@@ -3309,7 +3321,7 @@ pirmininko vardas, pavardė ir pareigos;
 
 dalyvaujančių
 
-teisėjų   vardai   ir   pavardės,   posėdžių
+teisėjų   vardai   ir   pavardės,   posėdžių
 
 sekretorius;
 
@@ -3389,9 +3401,9 @@ Protokole
 
 turi  būti kiek galima tiksliau  ir  išsamiau
 
-atspindėta Konstitucinio
+atspindėta
 
-Teismo posėdžio eiga ir visos kalbos.
+Konstitucinio Teismo posėdžio eiga ir visos kalbos.
 
 Raštu  pateikti  ir
 
@@ -3473,9 +3485,9 @@ teisėjams galimybę
 
 laisvai ir nekliudomai pareikšti savo nuomonę,
 
-siekdamas
+siekdamas  visapusiško
 
-visapusiško   ir  išsamaus   apsvarstymo,  organizuoja
+ir  išsamaus   apsvarstymo,  organizuoja
 
 balsavimą,
 
@@ -3541,7 +3553,7 @@ arba ištirti naujus įrodymus, priima sprendimą
 
 atnaujinti bylos
 
-nagrinėjimą  ir  nustato,  kuriuos  procesinius
+nagrinėjimą  ir  nustato,  kuriuos  procesinius
 
 veiksmus reikia
 
@@ -3575,7 +3587,7 @@ arba susilaikyti.
 
 Priimtas
 
-nutarimas  išdėstomas  raštu  ir  visų  dalyvavusių
+nutarimas  išdėstomas  raštu  ir  visų  dalyvavusių
 
 teisėjų pasirašomas.
 
@@ -3615,9 +3627,9 @@ nagrinėjamas
 
 klausimas, jo pagrindas;
 
-Konstitucijos  ir
+Konstitucijos
 
-šio  įstatymo  straipsniai,  nustatantys
+ir   šio  įstatymo  straipsniai,  nustatantys
 
 Konstitucinio Teismo
 
@@ -3687,9 +3699,9 @@ salę ir posėdžio
 
 pirmininkas  paskelbia Teismo nutarimą.
 
-Visi  esantieji
+Visi
 
-posėdžių  salėje,  išskyrus  Konstitucinio
+esantieji   posėdžių  salėje,  išskyrus  Konstitucinio
 
 Teismo teisėjus,
 
@@ -3847,9 +3859,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. I-1475,
+Nr. I-1475, 96.07.11,
 
-96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
+Žin., 1996, Nr.73-1749 (96.07.31)
 
 62 straipsnis. Konstitucinio Teismo nutarimo peržiūrėjimas
 
@@ -3883,9 +3895,9 @@ pradeda bylą
 
 nagrinėti iš naujo.
 
-Konstitucinio
+Konstitucinio Teismo
 
-Teismo  sprendimas dėl savo nutarimo aiškinimo
+sprendimas dėl savo nutarimo aiškinimo
 
 gali  būti
 
@@ -3945,9 +3957,9 @@ Bylos dėl
 
 teisės akto  atitikimo Konstitucijai  nagrinėjimo
 
-Konstituciniame Teisme
+Konstituciniame
 
-pagrindas yra teisiškai motyvuota abejonė,
+Teisme pagrindas yra teisiškai motyvuota abejonė,
 
 kad visas aktas ar
 
@@ -3967,7 +3979,9 @@ apimtį;
 
 Konstitucijoje nustatytą priėmimo, pasirašymo, paskelbimo
 
-ar įsigaliojimo tvarką.
+ar įsigaliojimo
+
+tvarką.
 
 Vada nagrinėti
 
@@ -3983,7 +3997,9 @@ Konstituciniam Teismui.
 
 65 straipsnis. Prašymo ištirti teisės akto atitikimą
 
-Konstitucijai padavimas Konstituciniam
+Konstitucijai
+
+padavimas Konstituciniam
 
 Teismui
 
@@ -4091,9 +4107,9 @@ nuorodomis į
 
 įstatymus;
 
-9)
+9) suformuluotas
 
-suformuluotas prašymas Konstituciniam Teismui;
+prašymas Konstituciniam Teismui;
 
 10) pridedamų
 
@@ -4109,7 +4125,7 @@ Konstitucinį  Teismą,  vadovas.  Vyriausybės
 
 prašymas  turi
 
-būti  paremtas   Vyriausybės   nutarimu,   kuris
+būti  paremtas   Vyriausybės   nutarimu,   kuris
 
 pridedamas prie
 
@@ -4161,7 +4177,7 @@ Teismo   posėdį  liudytojų  ir  ekspertų  sąrašas,
 
 specialistų
 
-išvados   bei  kiti  dokumentai  ir  medžiaga.  Prie
+išvados   bei  kiti  dokumentai  ir  medžiaga.  Prie
 
 kiekvieno liudytojo
 
@@ -4177,9 +4193,9 @@ priedai pateikiami
 
 Konstituciniam Teismui  su  nuorašais  po  30
 
-egzempliorių.
+egzempliorių. Konstitucinio
 
-Konstitucinio  Teismo  pirmininkas  prireikus  gali
+Teismo  pirmininkas  prireikus  gali
 
 įpareigoti
 
@@ -4193,9 +4209,7 @@ kiekvieno iš jų.
 
 apeliacinio teismo, apygardų ir
 
-apylinkių
-
-teismų prašymų Konstituciniam
+apylinkių teismų prašymų Konstituciniam
 
 Teismui turinys
 
@@ -4243,9 +4257,9 @@ priėmimo laikas ir vieta;
 
 priėmusio teismo pavadinimas ir adresas;
 
-3) nutartį  priėmusio
+3) nutartį
 
-teismo  sudėtis, dalyvaujantys  byloje
+priėmusio teismo  sudėtis, dalyvaujantys  byloje
 
 asmenys;
 
@@ -4329,9 +4343,9 @@ nagrinėti prašymą ištirti teisės akto
 
 atitikimą Konstitucijai
 
-Konstitucinis
+Konstitucinis  Teismas
 
-Teismas  savo  sprendimu  atsisako  nagrinėti
+savo  sprendimu  atsisako  nagrinėti
 
 prašymą ištirti
 
@@ -4347,7 +4361,7 @@ Konstitucinį Teismą;
 
 2)  prašymo
 
-nagrinėjimas  yra  nežinybingas  Konstituciniam
+nagrinėjimas  yra  nežinybingas  Konstituciniam
 
 Teismui;
 
@@ -4435,9 +4449,9 @@ teisėjo siūlymu
 
 grąžina pareiškėjui prašymą, jeigu     prašymas
 
-arba jo  priedai
+arba jo  priedai neatitinka
 
-neatitinka  šio įstatymo  66 ir 67 straipsniuose
+šio įstatymo  66 ir 67 straipsniuose
 
 nustatytų
 
@@ -4487,9 +4501,9 @@ nurodoma, kuriems
 
 konkretiems Konstitucijos  straipsniams ar  jų
 
-nuostatoms  arba
+nuostatoms  arba  kokiems
 
-kokiems  konkretiems  įstatymams  teisės  aktas
+konkretiems  įstatymams  teisės  aktas
 
 prieštarauja.
 
@@ -4811,7 +4825,7 @@ pažeidimo
 
 Su paklausimu,
 
-ar nebuvo  pažeisti  rinkimų  įstatymai  per
+ar nebuvo  pažeisti  rinkimų  įstatymai  per
 
 Respublikos
 
@@ -5061,7 +5075,7 @@ specialiame Seimo leidinyje; laikraščiuose
 
 per    Lietuvos
 
-telegramų   agentūrą   (ELTA).    Prireikus
+telegramų   agentūrą   (ELTA).    Prireikus
 
 Konstitucinis
 
@@ -5079,9 +5093,7 @@ jie pirmiausiai buvo
 
 paskelbti viename iš minėtų leidinių.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. I-1475,
 
@@ -5115,9 +5127,9 @@ Konstitucinis
 
 Teismas   turi   pagalbinį   aparatą,   kurio
 
-struktūrą ir nuostatus
+struktūrą ir
 
-tvirtina Konstitucinis Teismas.
+nuostatus tvirtina Konstitucinis Teismas.
 
 87 straipsnis. Konstitucinio Teismo apsauga
 
@@ -5197,9 +5209,9 @@ Respublikos Konstitucinis Teismas".
 
 90 straipsnis. Konstitucinio Teismo buveinė
 
-Nuolatinė
+Nuolatinė Konstitucinio
 
-Konstitucinio Teismo buveinė yra Vilniaus miestas.
+Teismo buveinė yra Vilniaus miestas.
 
 Konstitucinio
 
