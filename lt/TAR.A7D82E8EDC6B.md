@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2003-10-14"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -321,16 +321,6 @@ administratorius.
 
 atskaitymų mokėjimo į Programos finansavimo sąskaitą atleidžiami:
 
-6 dalies 1
-
-punkto redakcija iki 2004 m. sausio 1 d.:
-
-1) žemės ūkio subjektai;
-
-6 dalies 1
-
-punkto redakcija nuo 2004 m. sausio 1 d.:
-
 1)
 
 žemės ūkio veiklos subjektai ir kooperatinės bendrovės (kooperatyvai), kurių
@@ -343,11 +333,13 @@ nuostatas apmokestinamas taikant 0 procentų pelno mokesčio tarifą;
 
 sąjungos (architektų, mokslininkų, dailininkų, dizainerių, fotomenininkų,
 
-kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro, žurnalistų),
+kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro,
 
-jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų pelno sunaudoja
+žurnalistų), jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų
 
-kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų įstatuose;
+pelno sunaudoja kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų
+
+įstatuose;
 
 3) įmonės,
 
@@ -357,9 +349,7 @@ pajamos gaunamos tik už jų pačių pagamintą produkciją;
 
 4) biudžetinės
 
-įstaigos, valstybės ir savivaldybių institucijos, įstaigos, tarnybos ar
-
-organizacijos;
+įstaigos, valstybės ir savivaldybių institucijos, įstaigos, tarnybos ar organizacijos;
 
 5) daugiabučių
 
@@ -379,7 +369,11 @@ globos viešosios įstaigos;
 
 9) ikimokyklinio
 
-ugdymo įstaigos.
+ugdymo įstaigos;
+
+10) Lietuvos
+
+bankas.
 
 7. Atskaitymų
 
@@ -398,6 +392,10 @@ Nr. IX-840,
 Nr. IX-1776,
 
 2003-10-14, Žin., 2003, Nr. 104-4646 (2003-11-05)
+
+Nr. IX-2139,
+
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
 
 5 straipsnis. Dalis akcizo
 
@@ -605,13 +603,13 @@ bendroji masė viršija maksimalius leidžiamus dydžius, galima tik suderinus t
 
 su kelio savininku ir gavus jo leidimą. Leidimai išduodami Susisiekimo
 
-ministerijos ir savivaldybių nustatyta tvarka, sumokėjus įstatymų nustatyto dydžio
+ministerijos ir savivaldybių nustatyta tvarka, sumokėjus įstatymų nustatyto
 
-mokestį už naudojimąsi keliais ir jų infrastruktūra stambiagabaritėmis ir (ar)
+dydžio mokestį už naudojimąsi keliais ir jų infrastruktūra stambiagabaritėmis
 
-sunkiasvorėmis transporto priemonėmis. Mokesčio dydį, neviršydama šio Įstatymo
+ir (ar) sunkiasvorėmis transporto priemonėmis. Mokesčio dydį, neviršydama šio
 
-5 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos
+Įstatymo 5 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos
 
 Respublikos Vyriausybė. Mokestis mokamas už kiekvieną leidimą. Dėl
 
@@ -749,11 +747,11 @@ tvarkoje, ir jų transporto priemonėms, tolimojo, vietinio (miesto) reguliaraus
 
 susisiekimo autobusams, dviračiams, autocisternoms, vežančioms kurą į Kuršių
 
-neriją, juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę,
+neriją, juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę,  transporto
 
-transporto priemonėms ir darbuotojams, Neringos mieste ir Klaipėdos miesto
+priemonėms ir darbuotojams, Neringos mieste ir Klaipėdos miesto dalyje
 
-dalyje Smiltynėje gyvenamąją vietą deklaravusiems asmenims ir jų lengvosioms
+Smiltynėje gyvenamąją vietą deklaravusiems asmenims ir jų lengvosioms
 
 transporto priemonėms neatlygintinai perkelti keltais per Klaipėdos valstybinio
 
@@ -811,9 +809,7 @@ m. gruodžio 21 d.
 
 Nr. IX-682
 
-1
-
-priedėlis
+1 priedėlis
 
 ATSKAITYMŲ NUO PAJAMŲ Į PROGRAMOS FINANSAVIMO SĄSKAITĄ
 
@@ -1031,9 +1027,9 @@ TARIFAI
 
 1. Lietuvos Respublikoje
 
-įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio
+įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio ribiniai
 
-ribiniai tarifai:
+tarifai:
 
 Transporto
 
@@ -1135,7 +1131,9 @@ savininkai – žemės ūkio subjektai
 
 200–300
 
-3 priedėlio tęsinys
+3 priedėlio
+
+tęsinys
 
 Transporto
 
@@ -1273,9 +1271,9 @@ priedėlis
 
 UŽSIENIO ŠALYSE
 
-ĮREGISTRUOTŲ TRANSPORTO PRIEMONIŲ  SAVININKŲ AR VALDYTOJŲ NAUDOTOJO MOKESČIO
+ĮREGISTRUOTŲ TRANSPORTO PRIEMONIŲ  SAVININKŲ AR VALDYTOJŲ NAUDOTOJO MOKESČIO RIBINIAI
 
-RIBINIAI TARIFAI
+TARIFAI
 
 Užsienio šalyse įregistruotų transporto
 
@@ -1889,13 +1887,41 @@ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
 
 Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2139,
+
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+
+ĮMONIŲ
+
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
+
+PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
+
+ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO
+
+UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO
+
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-11-07)
+Aušrinė Trapinskienė (2004-05-03)
 
 autrap@lrs.lt
 
