@@ -4,7 +4,7 @@ identifier: "TAR.12977CB93B03"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-23"
-last_updated: "1997-10-30"
+last_updated: "1999-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 1997-10-30 iki 1998-12-31
+Suvestinė redakcija nuo 1999-01-01 iki 2000-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
 
@@ -48,9 +48,13 @@ Miestų (rajonų) valdybos gali skirti dvigubo dydžio pašalpą ir mirus kitiem
 
 3 straipsnis. Pašalpos mokėjimo tvarka
 
-Pašalpa mokama iš savivaldybių biudžetų nuo 1994 m. sausio 1 dienos. Ji turi būti išmokėta ne vėliau kaip per 24 valandas po kreipimosi.
+Pašalpa mokama iš tikslinių lėšų, numatytų savivaldybių biudžetams skaičiuojant jų finansinius rodiklius. Ji turi būti išmokėta besikreipiančiajam ne vėliau kaip per 24 valandas po kreipimosi.
 
-Laidojantis asmuo dėl pašalpos gavimo turi kreiptis ne vėliau kaip per tris mėnesius.
+Laidojantis asmuo dėl pašalpos gavimo turi kreiptis į savivaldybę pagal mirusio asmens buvusią gyvenamąją vietą arba laidojančio asmens gyvenamąją vietą ne vėliau kaip per tris mėnesius nuo šios teisės atsiradimo dienos.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-986, 1998-12-21, Žin., 1998, Nr. 115-3241 (1998-12-31), i. k. 0981010ISTAVIII-986
 
 4 straipsnis. Baigiamoji nuostata
 
@@ -69,4 +73,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-473, 1997-10-21, Žin., 1997, Nr. 98-2484 (1997-10-30), i. k. 0971010ISTAVIII-473
 
 Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-986, 1998-12-21, Žin., 1998, Nr. 115-3241 (1998-12-31), i. k. 0981010ISTAVIII-986
+
+Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 3 straipsnio pakeitimo įstatymas
 
