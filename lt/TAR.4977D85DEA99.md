@@ -4,7 +4,7 @@ identifier: "TAR.4977D85DEA99"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-05"
-last_updated: "1999-12-07"
+last_updated: "2002-12-10"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99"
 department: "Lietuvos Respublikos Seimas"
@@ -607,7 +607,17 @@ sąskaitoje nesukaupta pakankamai lėšų iš šio įstatymo 4 straipsnyje nurod
 
 šaltinių.
 
-7.
+7. Atkuriamųjų sąskaitų lėšos, kurios yra
+
+apskaitomos nebalansiniuose straipsniuose Vyriausybės ir Lietuvos banko
+
+nustatyta tvarka, gali būti įskaitomos atsiskaitant už žemę Valstybės paramos įsigyjant
+
+žemės ūkio paskirties žemę laikinojo įstatymo nustatyta tvarka, netaikant šio
+
+straipsnio 3 dalyje nustatytos eilės tvarkos.
+
+8.
 
 Šio įstatymo 2 straipsnio 2 dalies 5 punkte nurodytomis santaupomis gyventojai
 
@@ -627,6 +637,10 @@ VIII-1467,
 
 1999-12-07, Žin., 1999, Nr. 107-3099 (1999-12-17)
 
+Nr. IX-1238,
+
+2002-12-10, Žin., 2002, Nr. 123-5530 (2002-12-24)
+
 7 straipsnis. Baigiamosios nuostatos
 
 1. Gyventojai, praleidę šio įstatymo 3
@@ -641,17 +655,17 @@ sudėtį ir jos nuostatus tvirtina Vyriausybė. Ši komisija nusprendžia, priim
 
 ar nepriimti gyventojo prašymą atidaryti atkuriamąją sąskaitą. Taip pat šiai
 
-komisijai suteikiama teisė nagrinėti prašymus ir priimti sprendimus dėl santaupų,
+komisijai suteikiama teisė nagrinėti prašymus ir priimti sprendimus dėl
 
-nurodytų šio įstatymo 2 straipsnio 1 dalyje, ir lėšų, nurodytų šio įstatymo 2
+santaupų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, ir lėšų, nurodytų šio
 
-straipsnio 2 dalyje, atkūrimo, jei šios lėšos buvo pervestos ir laikomos
+įstatymo 2 straipsnio 2 dalyje, atkūrimo, jei šios lėšos buvo pervestos ir
 
-Lietuvos valstybiniuose bankuose buvusių tremtinių ir politinių kalinių, kurie
+laikomos Lietuvos valstybiniuose bankuose buvusių tremtinių ir politinių
 
-negrįžo gyventi į Lietuvą, sąskaitose. Komisijos sprendimai perduodami vykdyti
+kalinių, kurie negrįžo gyventi į Lietuvą, sąskaitose. Komisijos sprendimai
 
-AB Lietuvos taupomasis bankas.
+perduodami vykdyti AB Lietuvos taupomasis bankas.
 
 2. Iki 1997 m. gruodžio 31 d. gyventojų
 
@@ -659,9 +673,9 @@ santaupos kompensuojamos Seimo 1993 m. gruodžio 15 d. nutarimo “Dėl gyventoj
 
 santaupų indeksavimo” ir atitinkamų Vyriausybės nutarimų nustatyta tvarka.
 
-3. Nuo 1998 m. sausio 1 d. Seimo
+3. Nuo 1998 m. sausio 1 d. Seimo nutarimą
 
-nutarimą “Dėl gyventojų santaupų indeksavimo”
+“Dėl gyventojų santaupų indeksavimo”
 
 (Žin., 1993, Nr.71-1329), taip pat Seimo nutarimą “Dėl santaupų atkūrimo ir
 
@@ -805,13 +819,29 @@ GYVENTOJŲ
 
 SANTAUPŲ ATKŪRIMO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1238, 2002-12-10,
+
+Žin., 2002, Nr. 123-5530 (2002-12-24)
+
+GYVENTOJŲ
+
+SANTAUPŲ ATKŪRIMO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-01-07)
+Aušrinė Trapinskienė (2003-01-08)
 
 autrap@lrs.lt
 
