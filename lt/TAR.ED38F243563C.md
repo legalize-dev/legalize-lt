@@ -4,7 +4,7 @@ identifier: "TAR.ED38F243563C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "1997-03-25"
+last_updated: "1997-04-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,11 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinių pensijų įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.04.09)
+Ramunė Lūžaitė (1997.05.05)
 
 Neoficialus
 
@@ -92,6 +92,22 @@ VIII-152, 97.03.25, Žin., 1997, Nr.30-708 (97.04.09)
 LIETUVOS
 
 RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-189,
+
+97.04.22, Žin., 1997, Nr.38-925 (97.05.02)
+
+LIETUVOS
+
+RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO 13 STRAIPSNIO PAPILDYMO IR 16
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 ***
 
@@ -377,11 +393,11 @@ Prezidento valstybinė pensija pagal Lietuvos Respublikos Prezidento įstatymą.
 
 Asmenims,
 
-buvusiems Lietuvos Respublikos Seimo Pirmininku, Ministru  Pirmininku,  Aukščiausiojo
+buvusiems Lietuvos Respublikos Seimo Pirmininku, Ministru  Pirmininku,
 
-Teismo  pirmininku, Konstitucinio Teismo  pirmininku, skiriama  pirmojo
+Aukščiausiojo  Teismo  pirmininku, Konstitucinio Teismo  pirmininku, skiriama
 
-laipsnio valstybinė pensija, jei jie bent dvejus metus ėjo šioje dalyje
+pirmojo laipsnio valstybinė pensija, jei jie bent dvejus metus ėjo šioje dalyje
 
 išvardintas pareigas. Pensija šiems asmenims skiriama, kai jie sukanka senatvės
 
@@ -761,23 +777,23 @@ antrojoje dalyje numatytus atvejus.
 
 įstatymo 11 straipsnio pirmosios dalies 2-7 punktuose išvardytiems asmenims,
 
-kurie tapo invalidais neteisėto kalinimo ir  tremties,  rezistencijos  ir
+kurie tapo invalidais neteisėto kalinimo ir tremties, rezistencijos ir
 
-pasipriešinimo  sovietinei okupacijai veiksmų metu, būdami išvežti priverstiniams
+pasipriešinimo sovietinei okupacijai veiksmų metu, būdami išvežti
 
-darbams, būdami  getuose  ir  koncentracijos  stovyklose,  taip  pat
+priverstiniams darbams, būdami getuose ir koncentracijos stovyklose, taip pat
 
-dalyvaudami  karo  veiksmuose bei atlikdami būtinąją karinę tarnybą  ar
+dalyvaudami karo veiksmuose bei atlikdami būtinąją karinę tarnybą ar karinius
 
-karinius  mokymus sovietinėje armijoje ar dėl Černobylio atominės elektrinės
+mokymus sovietinėje armijoje, arba vėliau buvo pripažinti invalidais dėl ligų,
 
-avarijos padarinių likvidavimo darbų poveikio, nukentėjusiųjų asmenų valstybinė
+susijusių su karine tarnyba, ar dėl Černobylio atominės elektrinės avarijos
 
-pensija mokama:
+padarinių likvidavimo darbų poveikio, nukentėjusiųjų asmenų valstybinė pensija
 
-1)
+mokama:
 
-I ar II grupių invalidams - 1,5 valstybinės socialinio draudimo bazinės
+1) I ar II grupių invalidams - 1,5 valstybinės socialinio draudimo bazinės
 
 pensijos dydžio. Be to, I grupės invalidams dar mokama 0,5 valstybinės
 
@@ -785,11 +801,9 @@ socialinio draudimo bazinės pensijos dydžio priedas slaugai, jei šis priedas
 
 nemokamas iš valstybinio socialinio draudimo fondo;
 
-2)
+2) III grupės invalidams - 0,75 valstybinės socialinio draudimo bazinės
 
-III grupės invalidams - 0,75 valstybinės socialinio draudimo bazinės pensijos
-
-dydžio.
+pensijos dydžio.
 
 Nukentėjusiųjų
 
@@ -808,6 +822,10 @@ pakeitimai:
 Nr.
 
 1-1484, 96.07.11, Žin., 1996, Nr. 73-1750 (96.07.31)
+
+Nr.
+
+VIII-189, 97.04.22, Žin., 1997, Nr.38-925 (97.05.02)
 
 14
 
@@ -969,7 +987,7 @@ asmenų  valstybinės  pensijos  asmenims, tapusiems  invalidais  dėl 1991
 
 sausio 11-13 dienomis vykdytos agresijos ir po to buvusių įvykių bei šio
 
-įstatymo nustatytais  atvejais  jų  tėvams, sutuoktiniams ir vaikams skiriamos
+įstatymo nustatytais  atvejais  jų  tėvams, sutuoktiniams ir vaikams skiriamos
 
 pateikus Lietuvos Respublikos generalinės prokuratūros pažymą, rezistencijos ir
 
@@ -1031,11 +1049,9 @@ straipsnis. Įstatymo įsigaliojimas
 
 įstatyme nurodytos pensijos skiriamos nuo šio įstatymo įsigaliojimo.
 
-Nukentėjusiųjų  asmenų valstybinės  našlių  ir našlaičių pensijos skiriamos tik
+Valstybinės našlių ir našlaičių pensijos skiriamos tik už asmenis, mirusius po
 
-už asmenis, mirusius po šio įstatymo įsigaliojimo, išskyrus 14 straipsnyje
-
-nurodytuosius.
+šio įstatymo įsigaliojimo, išskyrus 14 straipsnyje nurodytuosius.
 
 Iki
 
@@ -1052,6 +1068,10 @@ pakeitimai:
 Nr.
 
 1-1012, 95.07.04, Žin., 1995, Nr. 59-1476 (95.07.19)
+
+Nr.
+
+VIII-189, 97.04.22, Žin., 1997, Nr.38-925 (97.05.02)
 
 Skelbiu
 
