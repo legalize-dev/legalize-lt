@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "1997-06-26"
+last_updated: "1998-02-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1997.07.11)
+Lūžaitė (1998.03.13)
 
 Įstatymas
 
@@ -47,17 +47,31 @@ RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 2.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-322,
+Nr.
 
-97.06.26, Žin., 1997, Nr.66-1601 (97.07.11)
+VIII-322, 97.06.26, Žin., 1997, Nr.66-1601 (97.07.11)
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-639, 98.02.24, Žin., 1998, Nr.25-635 (98.03.13)
+
+LIETUVOS
+
+RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 ***
 
@@ -81,9 +95,9 @@ straipsnis. Įstatymo paskirtis
 
 įstatymas nustato iš Lietuvos valstybės biudžeto ir savivaldybių biudžetų lėšų
 
-visiškai arba iš dalies išlaikomų įstaigų steigimą,  reorganizavimą ir  likvidavimą,
+visiškai arba iš dalies išlaikomų įstaigų steigimą,  reorganizavimą ir
 
-valdymą, finansavimą ir kitus su jų veikla susijusius pagrindus.
+likvidavimą,  valdymą, finansavimą ir kitus su jų veikla susijusius pagrindus.
 
 2
 
@@ -93,9 +107,9 @@ Biudžetinė
 
 įstaiga  yra  valstybės  arba  savivaldybės institucija, steigiama įstatymų
 
-nustatyta tvarka, visiškai arba iš dalies išlaikoma iš biudžeto ir taip
+nustatyta tvarka, visiškai arba iš dalies išlaikoma iš biudžeto ir taip įvardyta
 
-įvardyta steigimo akte bei nuostatuose.
+steigimo akte bei nuostatuose.
 
 3
 
@@ -137,9 +151,9 @@ straipsnis. Biudžetinių įstaigų reorganizavimas ir likvidavimas
 
 Biudžetines
 
-įstaigas  reorganizuoja arba  likviduoja jų steigėjai Lietuvos Respublikos
+įstaigas  reorganizuoja arba  likviduoja jų steigėjai Lietuvos Respublikos Vyriausybės
 
-Vyriausybės nustatyta tvarka, jeigu įstatymai nenumato kitaip.
+nustatyta tvarka, jeigu įstatymai nenumato kitaip.
 
 5
 
@@ -263,9 +277,9 @@ tvirtinti bei taikyti;
 
 prižiūrėti
 
-apskaitos tvarkymą, kontroliuoti įsiskolinimus bei imtis visų priemonių jiems išvengti
+apskaitos tvarkymą, kontroliuoti įsiskolinimus bei imtis visų priemonių jiems
 
-ir analizuoti pavaldžių įstaigų apyskaitas;
+išvengti ir analizuoti pavaldžių įstaigų apyskaitas;
 
 garantuoti
 
@@ -301,7 +315,7 @@ Išlaidų
 
 sandarą nustato asignavimų valdytojai, neviršydami jiems patvirtintų  bendrųjų
 
-asignavimų,  tarp jų  -  darbo užmokesčio, paprastųjų ir nepaprastųjų išlaidų.
+asignavimų,  tarp jų  -  darbo užmokesčio, paprastųjų ir nepaprastųjų išlaidų.
 
 Biudžetinių
 
@@ -313,7 +327,9 @@ tvarka.
 
 10
 
-straipsnis. Biudžetinių įstaigų buhalterinė apskaita ir atskaitomybė
+straipsnis. Biudžetinių įstaigų buhalterinė apskaita ir
+
+atskaitomybė
 
 Biudžetinės
 
@@ -343,13 +359,19 @@ institucijos.
 
 straipsnis. Materialinių vertybių nurašymas ir realizavimas
 
-Biudžetinės
+Biudžetinės įstaigos susidėvėjusias ar joms nereikalingas materialines vertybes
 
-įstaigos susidėvėjusias ar joms nereikalingas materialines vertybes nurašo ar
+nurašo ar realizuoja ir gautas pajamas naudoja Lietuvos Respublikos įstatymų ar
 
-realizuoja Lietuvos Respublikos Vyriausybės nustatyta  tvarka ir  gautas
+Vyriausybės nustatyta tvarka.
 
-pajamas perveda į atitinkamą biudžetą.
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-639, 98.02.24, Žin., 1998, Nr.25-635 (98.03.13)
 
 13
 
@@ -375,7 +397,7 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS            ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                               ALGIRDAS BRAZAUSKAS
 
 1 straipsnis. Įstatymo
 
