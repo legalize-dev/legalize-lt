@@ -4,7 +4,7 @@ identifier: "TAR.D503DCB3BF0D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-28"
-last_updated: "2002-10-29"
+last_updated: "2002-11-05"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D503DCB3BF0D"
 department: "Lietuvos Respublikos Seimas"
@@ -583,6 +583,14 @@ apyvartos mokestis;
 
 mokestis.
 
+[1
+
+dalis papildoma 26 punktu nuo 2002 m. lapkričio 22 d.:
+
+26) atskaitymai
+
+nuo pajamų pagal Lietuvos Respublikos miškų įstatymą.]
+
 2. Apmokestinimo
 
 tam tikru mokesčiu tvarką nustato tik atitinkamas mokesčio įstatymas arba jo
@@ -605,11 +613,11 @@ Administruojant muitų ir socialinio draudimo mokesčius, taikomos tik šio
 
 dalies redakcija nuo 2003 m. liepos 1 d.:
 
-4.
+4. Administruojant
 
-Administruojant muitų mokesčius, taikomos tik šio įstatymo normos,
+muitų mokesčius, taikomos tik šio įstatymo normos, reglamentuojančios mokesčio
 
-reglamentuojančios mokesčio mokėtojo turto arešto tvarką.]
+mokėtojo turto arešto tvarką.]
 
 5. Šio
 
@@ -621,15 +629,15 @@ administruojama tik tiek, kiek tai nustatyta Lietuvos Respublikos rinkliavų
 
 nepaimtos valstybės rinkliavos išieškojimas iš institucijos, dėl kurios kaltės
 
-buvo paimta per maža arba iš viso nepaimta valstybės rinkliava, prašymo dėl
+buvo paimta per maža arba iš viso nepaimta valstybės rinkliava, prašymo dėl valstybės
 
-valstybės rinkliavos grąžinimo pateikimo terminas).
+rinkliavos grąžinimo pateikimo terminas).
 
 6. Šio
 
-straipsnio 1 dalies 20 punkte nurodyti mokesčiai už pramoninės nuosavybės objektų
+straipsnio 1 dalies 20 punkte nurodyti mokesčiai už pramoninės nuosavybės
 
-registravimą pagal šį įstatymą administruojami tiek, kiek tai nustatyta
+objektų registravimą pagal šį įstatymą administruojami tiek, kiek tai nustatyta
 
 Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą
 
@@ -721,6 +729,12 @@ IX-1009,
 
 2002-07-02, Žin., 2002, Nr. 73-3087 (2002-07-19)
 
+Nr.
+
+IX-1174,
+
+2002-11-05, Žin., 2002, Nr. 112-4978 (2002-11-22)
+
 5(1) straipsnis. Sutartys su strateginiais
 
 investuotojais
@@ -753,19 +767,19 @@ investicijų sutarties sudarymo dienos.
 
 2. Jeigu
 
-investicijų sutartyse, sudarytose iki šio įstatymo įsigaliojimo, numatytas tiesioginių
+investicijų sutartyse, sudarytose iki šio įstatymo įsigaliojimo, numatytas
 
-mokesčių tarifų (Mokesčių administravimo įstatymo 5 straipsnio 1 dalyje
+tiesioginių mokesčių tarifų (Mokesčių administravimo įstatymo 5 straipsnio 1
 
-išvardytų mokesčių, išskyrus pridėtinės vertės mokestį ir akcizą), nustatytų
+dalyje išvardytų mokesčių, išskyrus pridėtinės vertės mokestį ir akcizą),
 
-galiojusiuose atitinkamuose mokesčių įstatymuose tą dieną, kai investicija
+nustatytų galiojusiuose atitinkamuose mokesčių įstatymuose tą dieną, kai
 
-pasiekė 200 mln. litų, nedidinimo terminas, investicijų sutartį sudariusiam
+investicija pasiekė 200 mln. litų, nedidinimo terminas, investicijų sutartį
 
-ūkio subjektui šių mokesčių tarifai nedidinami iki sutartyje numatyto
+sudariusiam ūkio subjektui šių mokesčių tarifai nedidinami iki sutartyje
 
-nedidinimo termino.
+numatyto nedidinimo termino.
 
 Straipsnio pakeitimai:
 
@@ -4995,7 +5009,7 @@ dienos.
 
 [4
 
-dalies redakcija nuo 2003 m. sausio 1 d.:
+dalies redakcija nuo 2003 m. sausio 1d.:
 
 4. Komerciniai
 
