@@ -4,7 +4,7 @@ identifier: "TAR.A52415BA2085"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "1997-06-24"
+last_updated: "1997-09-11"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1997.07.11)
+Lūžaitė (1997.09.12)
 
 Įstatymas paskelbtas: Žin., 1995, Nr.2-33
 
@@ -168,6 +168,20 @@ RESPUBLIKOS KOMERCINIŲ BANKŲ ĮSTATYMO PAPILDYMO 53(1) STRAIPSNIU IR 17, 37, 3
 
 40, 53, 54 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+10.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-410,
+
+97.09.11, Žin., 1997, Nr.84-2092 (97.09.12)
+
+LIETUVOS RESPUBLIKOS
+
+KOMERCINIŲ BANKŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO
+
 ***
 
 Pabaiga ***
@@ -292,11 +306,11 @@ savininkams ar valdytojams galimybę kontroliuoti banko valdymą ir veiklą.
 
 Tiesiogiai
 
-įgytos  ar (ir) valdomos akcijos - akcinio kapitalo dalis, kurią akcininkas
+įgytos  ar (ir) valdomos akcijos - akcinio kapitalo dalis, kurią akcininkas įsigijo
 
-įsigijo ar (ir) valdo savo vardu ar yra perdavęs įgaliojimus trečiajam asmeniui
+ar (ir) valdo savo vardu ar yra perdavęs įgaliojimus trečiajam asmeniui valdyti
 
-valdyti jo vardu.
+jo vardu.
 
 Netiesiogiai
 
@@ -512,11 +526,15 @@ neprieštarauja steigti filialą (skyrių) Lietuvos Respublikoje;
 
 5)
 
-Lietuvos banko pasirašyta sutartis su tos valstybės bankų priežiūros
+Lietuvos bankas yra pasirašęs sutartį su tos valstybės bankų priežiūros
 
 institucija dėl banko filialo (skyriaus) veiklos priežiūros ir informacijos
 
-teikimo;
+teikimo arba užsienio valstybės bankų priežiūros  institucija yra vienašališkai
+
+įsipareigojusi vykdyti tos valstybės banko filialo (skyriaus) veiklos priežiūrą
+
+ir teikti informaciją Lietuvos bankui;
 
 6)
 
@@ -536,9 +554,9 @@ filialo (skyriaus) steigimo dokumentai;
 
 3)
 
-banko  (steigėjo)  statutas  (įstatai),  licencija, registracijos pažymėjimas
+banko  (steigėjo)  statutas  (įstatai),  licencija, registracijos pažymėjimas ar
 
-ar kiti dokumentai, patvirtinantys teisę verstis banko veikla;
+kiti dokumentai, patvirtinantys teisę verstis banko veikla;
 
 4)
 
@@ -556,7 +574,7 @@ dokumentai,  patvirtinantys, kad  patalpos, kuriomis naudosis banko  filialas
 
 7)
 
-užsienio  valstybės, kurios  jurisdikcijai priklauso užsienio bankas,  bankų
+užsienio  valstybės, kurios  jurisdikcijai priklauso užsienio bankas,  bankų
 
 priežiūros  institucijos  raštiškas neprieštaravimas steigti filialą Lietuvos
 
@@ -576,9 +594,9 @@ jį įsteigęs bankas neturi teisės priimti indėlių savo valstybėje;
 
 2)
 
-užsienio  valstybės  įstatymai  nenumato  indėlių kompensavimo užsienio  valstybėse
+užsienio  valstybės  įstatymai  nenumato  indėlių kompensavimo užsienio
 
-esančių  filialų  (skyrių) indėlininkams;
+valstybėse esančių  filialų  (skyrių) indėlininkams;
 
 3)
 
@@ -613,6 +631,10 @@ pakeitimai:
 Nr.
 
 I-1358, 96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
+
+Nr. VIII-410,
+
+97.09.11, Žin., 1997, Nr.84-2092 (97.09.12)
 
 II skyrius
 
@@ -752,9 +774,9 @@ banko statutas (įstatai);
 
 2)
 
-banko steigimo dokumentai (steigimo sutartis, steigiamojo susirinkimo protokolas,
+banko steigimo dokumentai (steigimo sutartis, steigiamojo susirinkimo
 
-nutarimas dėl banko steigimo, banko vardo registravimo liudijimas);
+protokolas, nutarimas dėl banko steigimo, banko vardo registravimo liudijimas);
 
 3)
 
@@ -804,7 +826,7 @@ akcininkų giminystės, turtinius bei valdymo tarpusavio santykius;
 
 9)
 
-dokumentai,  patvirtinantys, kad  patalpos, kuriomis naudosis bankas, atitinka
+dokumentai,  patvirtinantys, kad  patalpos, kuriomis naudosis bankas, atitinka
 
 Lietuvos banko nustatytus reikalavimus;
 
@@ -876,13 +898,13 @@ dienos,  kai gauti visi sprendimui priimti reikalingi dokumentai  ir
 
 informacija.  Valstybės  ir  savivaldybės institucijos, taip pat įmonės,
 
-įstaigos ir organizacijos privalo Lietuvos banko prašymu pateikti visą jų turimą
+įstaigos ir organizacijos privalo Lietuvos banko prašymu pateikti visą jų
 
-informaciją apie banko steigėjus ir akcininkus, jų finansinę būklę, veiklą,
+turimą informaciją apie banko steigėjus ir akcininkus, jų finansinę būklę,
 
-nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktų patikrinimų ir
+veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktų patikrinimų
 
-revizijų išvadas bei kitą informaciją, kuri Lietuvos  bankui  reikalinga
+ir revizijų išvadas bei kitą informaciją, kuri Lietuvos  bankui  reikalinga
 
 priimant  sprendimą dėl banko licencijos išdavimo.
 
@@ -934,11 +956,9 @@ patirties banko vadovus (valdybos narius, administracijos vadovus);
 
 5)
 
-steigėjų ir akcininkų finansinė būklė gera ir stabili, reputacija
+steigėjų ir akcininkų finansinė būklė gera ir stabili, reputacija nepriekaištinga,
 
-nepriekaištinga, o turto ir lėšų, panaudotų steigiamo banko akcijoms įsigyti,
-
-kilmė legali;
+o turto ir lėšų, panaudotų steigiamo banko akcijoms įsigyti, kilmė legali;
 
 6)
 
@@ -1042,9 +1062,9 @@ akciniam  kapitalui formuoti  draudžiama išleisti pareikštines akcijas.
 
 Asmuo,
 
-įsigijęs banko akcijų paketą be Lietuvos banko leidimo,  neturi  teisės
+įsigijęs banko akcijų paketą be Lietuvos banko leidimo,  neturi  teisės  balsuoti
 
-balsuoti  visuotiniame  akcininkų susirinkime.
+visuotiniame  akcininkų susirinkime.
 
 Nepiniginis
 
@@ -1398,7 +1418,9 @@ tarybos narys gali būti perrenkamas kitai kadencijai.
 
 Banko
 
-taryba savo veiklą pradeda pasibaigus ją išrinkusiam visuotiniam akcininkų susirinkimui.
+taryba savo veiklą pradeda pasibaigus ją išrinkusiam visuotiniam akcininkų
+
+susirinkimui.
 
 Banko
 
@@ -1710,9 +1732,9 @@ kuriais vadovaudamasis visuotinis akcininkų susirinkimas priima nutarimus;
 
 3)
 
-artimiausiame visuotiniame akcininkų susirinkime ar banko tarybos posėdyje
+artimiausiame visuotiniame akcininkų susirinkime ar banko tarybos posėdyje pranešti
 
-pranešti apie  patikrinimų metu nustatytus pažeidimus.
+apie  patikrinimų metu nustatytus pažeidimus.
 
 Banko
 
@@ -1936,9 +1958,9 @@ netaikomi, jeigu bankas akcijas įsigijo kaip kompensaciją už išduotą ir
 
 negrąžintą paskolą. Šiuo atveju bankas privalo per vienerius metus perleisti
 
-investicijų į kitų įmonių akcijas ar kapitalą dalį, kuria viršijama šio straipsnio
+investicijų į kitų įmonių akcijas ar kapitalą dalį, kuria viršijama šio
 
-antrojoje dalyje nustatyta norma.
+straipsnio antrojoje dalyje nustatyta norma.
 
 Bankui
 
@@ -4666,9 +4688,11 @@ banku susijusiais asmenimis yra laikomi:
 
 banko ir jo dukterinių bankų bei jo įmonių akcijų paketo savininkai, jų
 
-sutuoktiniai, tėvai ir vaikai arba įmonės, kuriose minėti asmenys tiesiogiai ar
+sutuoktiniai, tėvai ir vaikai arba įmonės, kuriose minėti asmenys tiesiogiai
 
-(ir) netiesiogiai įsigijo arba valdo daugiau kaip 20 procentų nuosavo kapitalo;
+ar  (ir) netiesiogiai įsigijo arba valdo daugiau kaip 20 procentų nuosavo
+
+kapitalo;
 
 2)
 
@@ -4722,15 +4746,15 @@ sąskaitų tvarkytojui Vertybinių popierių komisijos nustatyta tvarka į banko
 
 vertybinių popierių sąskaitą pervesti įkeistus vertybinius popierius už tokią
 
-sumą, kokia buvo neįvykdytos prievolės, jei tai numatyta banko ir skolininko
+sumą, kokia buvo neįvykdytos prievolės, jei tai numatyta banko ir skolininko sutartyje.
 
-sutartyje. Kai bankas yra jam įkeistų vertybinių popierių sąskaitų tvarkytojas,
+Kai bankas yra jam įkeistų vertybinių popierių sąskaitų tvarkytojas, jis turi
 
-jis turi teisę pervesti šiuos Vyriausybės ar Lietuvos banko vertybinius
+teisę pervesti šiuos Vyriausybės ar Lietuvos banko vertybinius popierius į savo
 
-popierius į savo vertybinių popierių sąskaitą šio straipsnio 3 dalyje
+vertybinių popierių sąskaitą šio straipsnio 3 dalyje nurodytomis sąlygomis,
 
-nurodytomis sąlygomis, tvarka bei sumomis.
+tvarka bei sumomis.
 
 Bankas
 
@@ -4750,9 +4774,9 @@ Bankams
 
 draudžiama banko prievolių pagal paskolų sutartis įvykdymui užtikrinti priimti
 
-paties banko ir su banku susijusių asmenų išleistus vertybinius popierius,
+paties banko ir su banku susijusių asmenų išleistus vertybinius popierius, laidavimo
 
-laidavimo ir garantijų sutartis.
+ir garantijų sutartis.
 
 Straipsnio
 
@@ -4770,7 +4794,7 @@ Esantys
 
 ir  buvę  banko  tarybos,  valdybos  nariai, administracija bei  darbuotojai
 
-privalo  laikyti  paslaptyje informaciją, gautą dirbant banke, ir nenaudoti jos
+privalo  laikyti  paslaptyje informaciją, gautą dirbant banke, ir nenaudoti jos
 
 asmeninei ar kitų naudai.
 
@@ -4958,9 +4982,9 @@ bankas yra nemokus.
 
 straipsnio vienuoliktojoje dalyje nustatyta tvarka akcinis  kapitalas gali būti
 
-didinamas tik Lietuvos bankui leidus, išskyrus atvejį, kai bankui iškelta bankroto
+didinamas tik Lietuvos bankui leidus, išskyrus atvejį, kai bankui iškelta
 
-byla.
+bankroto byla.
 
 Kai
 
@@ -5074,11 +5098,13 @@ finansinė ataskaita turi būti patikrinta nepriklausomo auditoriaus, per  3
 
 mėnesius  nuo finansinių metų pabaigos patvirtinta visuotiniame  akcininkų
 
-susirinkime  ir pateikta Lietuvos bankui. Banko finansinė ataskaita viešai skelbiama
+susirinkime  ir pateikta Lietuvos bankui. Banko finansinė ataskaita viešai
 
-Lietuvos banko nustatyta tvarka iki gegužės 1 dienos. Už metinėje ataskaitoje
+skelbiama Lietuvos banko nustatyta tvarka iki gegužės 1 dienos. Už metinėje
 
-pateiktos  informacijos teisingumą bankas atsako įstatymų nustatyta tvarka.
+ataskaitoje pateiktos  informacijos teisingumą bankas atsako įstatymų nustatyta
+
+tvarka.
 
 Auditoriai
 
@@ -5096,9 +5122,9 @@ Lietuvos
 
 bankas, norėdamas apsaugoti indėlininkų interesus, užtikrinti banko  ir bankų
 
-sistemos saugumą, patikimumą ir stabilumą, turi teisę taikyti bankams šias poveikio
+sistemos saugumą, patikimumą ir stabilumą, turi teisę taikyti bankams šias
 
-priemones:
+poveikio priemones:
 
 1)
 
@@ -5330,11 +5356,11 @@ banko akcijos anuliuotos Lietuvos Respublikos komercinių bankų įstatymo 34
 
 straipsnyje nustatyta tvarka. Šiuo atveju klausimų, priskirtų visuotinio
 
-akcininkų susirinkimo kompetencijai, sprendimas pereina laikinajam
+akcininkų susirinkimo kompetencijai, sprendimas pereina laikinajam administratoriui
 
-administratoriui ir privalo būti suderintas su Lietuvos banku ir Vyriausybe ar
+ir privalo būti suderintas su Lietuvos banku ir Vyriausybe ar jos įgaliota
 
-jos įgaliota institucija.
+institucija.
 
 Banko,
 
@@ -5472,17 +5498,17 @@ banko valdybai kreiptis į teismą dėl bankroto bylos iškėlimo.
 
 Laikinasis administratorius už žalą bankui,
 
-atsiradusią dėl jo kaltės, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+atsiradusią dėl jo kaltės, atsako Lietuvos Respublikos įstatymų nustatyta
 
-Kai Lietuvos bankas paskiria laikinąjį administratorių, sustabdomi išieškojimai
+tvarka. Kai Lietuvos bankas paskiria laikinąjį administratorių, sustabdomi
 
-teisme ar ne ginčo tvarka ir be Lietuvos banko leidimo draudžiami visų šio
+išieškojimai teisme ar ne ginčo tvarka ir be Lietuvos banko leidimo draudžiami
 
-banko finansinių prievolių, įskaitant palūkanas ir mokesčius, mokėjimai, taip
+visų šio banko finansinių prievolių, įskaitant palūkanas ir mokesčius,
 
-pat draudžiama banko kreditorių ir skolininkų reikalavimus perleisti kitiems
+mokėjimai, taip pat draudžiama banko kreditorių ir skolininkų reikalavimus
 
-asmenims bei dalyti ar kitaip skirstyti banko turtą.
+perleisti kitiems asmenims bei dalyti ar kitaip skirstyti banko turtą.
 
 Straipsnio
 
@@ -5584,11 +5610,11 @@ straipsnis. Banko bankroto bylos iškėlimo sąlygos
 
 Banko
 
-bankroto bylą teismas iškelia pagal Lietuvos banko pareiškimą dėl  banko nemokumo,
+bankroto bylą teismas iškelia pagal Lietuvos banko pareiškimą dėl  banko
 
-taip pat pagal visuotinio akcininkų susirinkimo nutarimą ar kreditorių
+nemokumo,  taip pat pagal visuotinio akcininkų susirinkimo nutarimą ar
 
-pareiškimą, tik jeigu yra Lietuvos banko išvada apie banko nemokumą.
+kreditorių pareiškimą, tik jeigu yra Lietuvos banko išvada apie banko nemokumą.
 
 46
 
@@ -5814,7 +5840,7 @@ iškėlus banko bankroto bylą, kreditoriai turi teisę per teismo nustatytą
 
 laikotarpį, ne trumpesnį kaip 30 dienų ir ne ilgesnį kaip 3 mėnesiai nuo bylos
 
-iškėlimo dienos, pareikšti administratoriui savo  finansinius reikalavimus  ir
+iškėlimo dienos, pareikšti administratoriui savo  finansinius reikalavimus  ir
 
 nurodyti prievolės įvykdymo garantijas.
 
@@ -5832,11 +5858,11 @@ straipsnis. Bankrutuojančio banko sanavimas
 
 Bankrutuojančio
 
-banko  sanavimas - tai banko savininkų (akcininkų), kreditorių ar trečiųjų asmenų
+banko  sanavimas - tai banko savininkų (akcininkų), kreditorių ar trečiųjų
 
-bankui taikomos ekonominės ir finansinės priemonės, kad būtų galima išvengti jo
+asmenų  bankui taikomos ekonominės ir finansinės priemonės, kad būtų galima
 
-likvidavimo.
+išvengti jo likvidavimo.
 
 Bankrutuojančiam
 
@@ -7716,9 +7742,9 @@ dienos.
 
 Teismas, priimdamas sprendimą pradėti banko
 
-likvidavimo procedūrą, banko likvidatoriumi skiria banko administratorių ar
+likvidavimo procedūrą, banko likvidatoriumi skiria banko administratorių ar kitą
 
-kitą asmenį.
+asmenį.
 
 Likvidatorius organizuoja bankrutavusio banko
 
@@ -7768,9 +7794,9 @@ reikalavimo teises (skolas bankui).
 
 Banko likvidatorius, pardavęs visą galimą
 
-parduoti banko turtą, pateikia teismui tvirtinti galutinį atsiskaitymo su
+parduoti banko turtą, pateikia teismui tvirtinti galutinį atsiskaitymo su kreditoriais
 
-kreditoriais planą.
+planą.
 
 Baigęs atsiskaityti su kreditoriais,
 
@@ -7824,9 +7850,9 @@ nustatyta tvarka.
 
 papildytas straipsniu:
 
-Nr. VIII-295,
+Nr. VIII-295, 97.06.24,
 
-97.06.24, Žin., 1997, Nr.66-1595 (97.07.11)
+Žin., 1997, Nr.66-1595 (97.07.11)
 
 54 straipsnis. Kreditorių reikalavimų
 
@@ -7842,27 +7868,29 @@ reikalavimai, susiję su darbo santykiais.
 
 Antrąja eile tenkinami Indėlių draudimo fondo
 
-reikalavimai dėl išlaidų, susijusių su draudimo kompensacijų banko indėlininkams
+reikalavimai dėl išlaidų, susijusių su draudimo kompensacijų banko
 
-išmokėjimu, bei Finansų ministerijos reikalavimai dėl išlaidų, neviršijančių
+indėlininkams išmokėjimu, bei Finansų ministerijos reikalavimai dėl išlaidų,
 
-banko indėlininkams išmokėtų indėlių dalinių kompensacijų.
+neviršijančių banko indėlininkams išmokėtų indėlių dalinių kompensacijų.
 
 Trečiąja eile tenkinami fizinių asmenų
 
-reikalavimai dėl indėlio ar jo dalies, neviršijančios draudžiamo indėlio dydžio.
+reikalavimai dėl indėlio ar jo dalies, neviršijančios draudžiamo indėlio
 
-Jeigu fizinių asmenų indėliai ar jų dalis buvo kompensuoti iš Indėlių draudimo
+dydžio. Jeigu fizinių asmenų indėliai ar jų dalis buvo kompensuoti iš Indėlių
 
-fondo ar Gyventojų indėlių kompensavimo fondo lėšų, tai šia eile tenkinamas tik
+draudimo fondo ar Gyventojų indėlių kompensavimo fondo lėšų, tai šia eile
 
-draudžiamo indėlio dydžio ir išmokėtos kompensacijos sumos skirtumas.
+tenkinamas tik draudžiamo indėlio dydžio ir išmokėtos kompensacijos sumos
+
+skirtumas.
 
 Ketvirtąja eile tenkinami kiti banko
 
-kreditorių, išskyrus nurodytus šio straipsnio antrojoje, trečiojoje,
+kreditorių, išskyrus nurodytus šio straipsnio antrojoje, trečiojoje, ketvirtojoje,
 
-ketvirtojoje, šeštojoje, septintojoje ir aštuntojoje dalyse, reikalavimai.
+šeštojoje, septintojoje ir aštuntojoje dalyse, reikalavimai.
 
 Penktąja eile tenkinami kreditorių (paskolų
 
@@ -7878,11 +7906,11 @@ akcijų su kaupiamuoju dividendu savininkų reikalavimai dėl neišmokėto
 
 dividendo.
 
-Septintąja eile tenkinami banko akcijų
+Septintąja eile tenkinami banko akcijų savininkų,
 
-savininkų, išskyrus nurodytus šio straipsnio septintojoje dalyje, reikalavimai
+išskyrus nurodytus šio straipsnio septintojoje dalyje, reikalavimai dėl
 
-dėl neišmokėto dividendo.
+neišmokėto dividendo.
 
 Kiekvienos paskesnės eilės kreditorių
 
@@ -7900,9 +7928,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-295, 97.06.24,
+Nr. VIII-295,
 
-Žin., 1997, Nr.66-1595 (97.07.11)
+97.06.24, Žin., 1997, Nr.66-1595 (97.07.11)
 
 XI skyrius
 
@@ -7928,11 +7956,11 @@ kurie už pasirašytas banko naujos emisijos akcijas yra apmokėję iki šio
 
 įstatymo įsigaliojimo dienos, jeigu banko naujos emisijos  akcijų pasirašymo
 
-sutartyse nėra numatyta atlyginimo už piniginius ar (ir) turtinius įnašus
+sutartyse nėra numatyta atlyginimo už piniginius ar (ir) turtinius įnašus (apmokant
 
-(apmokant akcijas) tvarka, turtinių teisių į dividendą atsiradimo klausimą
+akcijas) tvarka, turtinių teisių į dividendą atsiradimo klausimą sprendžia
 
-sprendžia banko akcininkų visuotinis susirinkimas.
+banko akcininkų visuotinis susirinkimas.
 
 Iki
 
@@ -8000,7 +8028,7 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS        ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                              ALGIRDAS BRAZAUSKAS
 
 55 straipsnis.
 
