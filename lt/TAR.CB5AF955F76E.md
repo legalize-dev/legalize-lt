@@ -4,7 +4,7 @@ identifier: "TAR.CB5AF955F76E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-04-06"
-last_updated: "2003-01-01"
+last_updated: "2003-11-19"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2003-01-01 iki 2003-11-18
+Suvestinė redakcija nuo 2003-11-19 iki 2005-07-20
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
 
@@ -34,7 +34,11 @@ SKELBIMAS IR ĮSIGALIOJIMAS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis Įstatymas nustato Lietuvos Respublikos įstatymų, kitų Lietuvos Respublikos Seimo priimtų teisės aktų, Respublikos Prezidento dekretų, Lietuvos Respublikos Vyriausybės nutarimų, Lietuvos Respublikos Konstitucinio Teismo sprendimų ir nutarimų, kitų valstybės valdžios bei valdymo institucijų priimamų teisės aktų oficialaus skelbimo ir jų įsigaliojimo tvarką.
+1. Šis Įstatymas nustato Lietuvos Respublikos įstatymų, kitų Lietuvos Respublikos Seimo priimtų teisės aktų, Respublikos Prezidento dekretų, Lietuvos Respublikos Vyriausybės nutarimų, Lietuvos Respublikos Konstitucinio Teismo sprendimų, nutarimų, išvadų, Konstitucinio Teismo pirmininko potvarkių, kitų valstybės valdžios bei valdymo institucijų priimamų teisės aktų oficialaus skelbimo ir jų įsigaliojimo tvarką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
 
 2. Šiame Įstatyme nustatoma oficialaus leidinio „Valstybės žinios“ struktūra, „Valstybės žinių“ skyriuose skelbiamų teisės aktų rūšys bei pasirašytų įstatymų ir kitų teisės aktų pateikimo „Valstybės žinių“ redakcijai tvarka.
 
@@ -56,7 +60,11 @@ SKELBIMAS IR ĮSIGALIOJIMAS
 
 4) Lietuvos Respublikos Vyriausybės nutarimai;
 
-5) Konstitucinio Teismo nutarimai, išvados, taip pat sprendimai priimti nagrinėti Konstitucijoje numatytus prašymus ar teikimus;
+5) Konstitucinio Teismo nutarimai, išvados, taip pat sprendimai priimti nagrinėti prašymą ar paklausimą, sprendimai atsisakyti nagrinėti prašymą ar paklausimą, sprendimai nutraukti bylą (teiseną), sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo ir Konstitucinio Teismo pirmininko potvarkiai Lietuvos Respublikos Konstitucinio Teismo įstatymo 25 straipsnio 1 dalies 1 ir 2 punktuose nurodytais klausimais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
 
 6) įsiteisėję teismų sprendimai, pripažįstantys negaliojančiais įstatymams prieštaraujančius teisės aktus ar jų dalis, jeigu šių aktų ir Konstitucijos ar įstatymų atitikimo kontrolė nepriklauso Konstitucinio Teismo kompetencijai;
 
@@ -70,7 +78,11 @@ SKELBIMAS IR ĮSIGALIOJIMAS
 
 4 straipsnis. Įstatymų ir kitų teisės aktų išsiuntimas institucijoms bei asmenims
 
-1. Lietuvos Respublikos įstatymai, Seimo priimti kiti teisės aktai, Respublikos Prezidento dekretai, Vyriausybės nutarimai bei Konstitucinio Teismo sprendimai, nors paskelbti „Valstybės žiniose“, turi būti išsiunčiami juose minimoms valstybės institucijoms, juridiniams bei fiziniams asmenims.
+1. Lietuvos Respublikos įstatymai, Seimo priimti kiti teisės aktai, Respublikos Prezidento dekretai, Vyriausybės nutarimai bei Konstitucinio Teismo sprendimai, nutarimai, išvados, Konstitucinio Teismo pirmininko potvarkiai, nors paskelbti „Valstybės žiniose“, turi būti išsiunčiami juose minimoms valstybės institucijoms, juridiniams bei fiziniams asmenims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
 
 2. Teisės aktai, kuriuose yra valstybės ar tarnybos paslaptį sudarančios informacijos, „Valstybės žiniose“ neskelbiami. Šie teisės aktai įsigalioja jų pasirašymo dieną, jeigu pačiuose teisės aktuose nenustatyta vėlesnė įsigaliojimo data. Šie aktai turi būti išsiunčiami toms institucijoms, kurios įstatymų nustatyta tvarka gali disponuoti valstybės ar tarnybos paslaptį sudarančia informacija.
 
@@ -100,17 +112,27 @@ SKELBIMAS IR ĮSIGALIOJIMAS
 
 2. Respublikos Prezidento dekretas dėl karo ar nepaprastosios padėties įvedimo įsigalioja po jo paskelbimo visuomenės informavimo priemonėse.
 
+3. Respublikos Prezidento dekretas dėl Respublikos Prezidento pavadavimo įsigalioja nuo jo oficialaus paskelbimo „Valstybės žiniose“ ar kitose visuomenės informavimo priemonėse.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
 9 straipsnis. Vyriausybės nutarimų ir Ministro Pirmininko potvarkių įsigaliojimas
 
 1. Vyriausybės nutarimai įsigalioja kitą dieną po to, kai jie Ministro Pirmininko ir atitinkamo ministro pasirašyti paskelbiami „Valstybės žiniose“, jeigu pačiuose nutarimuose nenustatyta vėlesnė jų įsigaliojimo data.
 
 2. Ministro Pirmininko potvarkiai įsigalioja jų pasirašymo dieną, jeigu pačiuose potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data. Ministro Pirmininko potvarkiai, paskelbti „Valstybės žiniose“, įsigalioja kitą dieną po jų paskelbimo, jeigu pačiuose potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data.
 
-10 straipsnis. Konstitucinio Teismo sprendimų ir nutarimų įsigaliojimas
+10 straipsnis. Konstitucinio Teismo aktų ir Konstitucinio Teismo pirmininko potvarkių įsigaliojimas
 
-1. Konstitucinio Teismo sprendimas priimti nagrinėti Respublikos Prezidento teikimą ištirti, ar Vyriausybės aktas atitinka Konstituciją, arba sprendimas priimti nagrinėti Seimo nutarimą, kuriame prašoma ištirti, ar Respublikos Prezidento aktas arba Vyriausybės aktas atitinka Konstituciją, įsigalioja kitą dieną po Konstitucinio Teismo sprendimo oficialaus paskelbimo „Valstybės žiniose“ dienos.
+1. Konstitucinio Teismo nutarimai, išvados, taip pat sprendimai priimti nagrinėti prašymą ar paklausimą, sprendimai atsisakyti nagrinėti prašymą ar paklausimą, sprendimai nutraukti bylą (teiseną), sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo įsigalioja jų oficialaus paskelbimo „Valstybės žiniose“ dieną. Konstitucinio Teismo aktai, kurie nepaskelbiami Lietuvos Respublikos Konstitucinio Teismo įstatymo 84 straipsnio 4 dalyje nustatytu laiku, įsigalioja jų paskelbimo Konstitucinio Teismo leidinyje dieną.
 
-2. Konstitucinio Teismo priimtas nutarimas, kad ginčijamas aktas neprieštarauja Konstitucijai, įsigalioja tą dieną, kurią jis buvo paskelbtas „Valstybės žiniose“.
+2. Šio Įstatymo 3 straipsnio 1 dalies 5 punkte nurodyti Konstitucinio Teismo pirmininko potvarkiai įsigalioja kitą dieną po jų paskelbimo „Valstybės žiniose“, jeigu pačiuose potvarkiuose nenustatyta kita jų įsigaliojimo data.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
 
 11 straipsnis. Ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų ir kolegialių institucijų teisės aktų įsigaliojimas
 
@@ -156,15 +178,41 @@ Kas metai leidžiama „Valstybės žiniose“ išspausdintų teisės aktų raid
 
 2. Šiame leidinyje skelbiami:
 
-1) ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų bei kolegialių institucijų individualūs teisės aktai;
+1) Respublikos Prezidento potvarkiai dėl Respublikos Prezidento politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybių skaičiaus, Respublikos Prezidento kanceliarijos struktūros, Respublikos Prezidento kanceliarijos valstybės tarnautojų pareigybių ir darbuotojų skaičiaus;
 
-2) informacija bei pranešimai, kurių skelbimą „Valstybės žiniose“ numato Lietuvos Respublikos įstatymai ir Vyriausybės nutarimai;
+Papildyta straipsnio punktu:
 
-3) Vyriausiosios rinkimų komisijos sprendimai ir pranešimai, išskyrus šio Įstatymo 3 straipsnio 1 dalies 7 punkte nurodytus sprendimus;
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
 
-4) įstatymų ir kitų teisės aktų projektai, kurie Seimo nutarimu skelbiami svarstyti visuomenei;
+2) ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų bei kolegialių institucijų individualūs teisės aktai;
 
-5) informaciniai pranešimai apie Seime ir jo komitetuose vykusius reikšmingesnius renginius – posėdžius, delegacijų priėmimus, vizitus.
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
+3) informacija bei pranešimai, kurių skelbimą „Valstybės žiniose“ numato Lietuvos Respublikos įstatymai ir Vyriausybės nutarimai;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
+4) Vyriausiosios rinkimų komisijos sprendimai ir pranešimai, išskyrus šio Įstatymo 3 straipsnio 1 dalies 7 punkte nurodytus sprendimus;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
+5) įstatymų ir kitų teisės aktų projektai, kurie Seimo nutarimu skelbiami svarstyti visuomenei;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
+6) informaciniai pranešimai apie Seime ir jo komitetuose vykusius reikšmingesnius renginius – posėdžius, delegacijų priėmimus, vizitus.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
 
 18 straipsnis. „Valstybės žinių“ struktūra
 
@@ -180,11 +228,29 @@ Kas metai leidžiama „Valstybės žiniose“ išspausdintų teisės aktų raid
 
 5) V skyrius. Lietuvos Respublikos Vyriausybės nutarimai;
 
-6) VI skyrius. Konstitucinio Teismo sprendimai, nutarimai ir išvados bei įsiteisėję teismų sprendimai;
+6) VI skyrius. Konstitucinio Teismo sprendimai, nutarimai, išvados, Konstitucinio Teismo pirmininko potvarkiai;
 
-7) VII skyrius. Ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų norminiai teisės aktai;
+Straipsnio punkto pakeitimai:
 
-8) VIII skyrius. Kolegialių institucijų norminiai teisės aktai.
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
+7) VII skyrius. Įsiteisėję teismų sprendimai;
+
+Papildyta straipsnio punktu:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
+8) VIII skyrius. Ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų norminiai teisės aktai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
+9) IX skyrius. Kolegialių institucijų norminiai teisės aktai.
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
 
 19 straipsnis. „Valstybės žinių“ skyriuose skelbiami teisės aktai
 
@@ -200,11 +266,29 @@ Kas metai leidžiama „Valstybės žiniose“ išspausdintų teisės aktų raid
 
 5) V skyriuje – Vyriausybės nutarimai, o prireikus – ir Ministro Pirmininko potvarkiai;
 
-6) VI skyriuje – Konstitucinio Teismo nutarimai ir išvados, sprendimai priimti nagrinėti Konstitucijoje nurodytus prašymus ar teikimus, taip pat įsiteisėję teismų sprendimai, pripažįstantys negaliojančiais įstatymams prieštaraujančius teisės aktus ar jų dalis;
+6) VI skyriuje – Konstitucinio Teismo nutarimai, išvados, taip pat sprendimai priimti nagrinėti prašymą ar paklausimą, sprendimai atsisakyti nagrinėti prašymą ar paklausimą, sprendimai nutraukti bylą (teiseną), sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo, Konstitucinio Teismo pirmininko potvarkiai, nurodyti šio Įstatymo 3 straipsnio 1 dalies 5 punkte;
 
-7) VII skyriuje – ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų norminiai teisės aktai;
+Straipsnio punkto pakeitimai:
 
-8) VIII skyriuje – kolegialių institucijų norminiai teisės aktai bei kiti teisės aktai, kuriuos „Valstybės žiniose“ skelbti nustato įstatymai ir Vyriausybės nutarimai.
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
+7) VII skyriuje – įsiteisėję teismų sprendimai, pripažįstantys negaliojančiais įstatymams prieštaraujančius teisės aktus ar jų dalis;
+
+Papildyta straipsnio punktu:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
+8) VIII skyriuje – ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų norminiai teisės aktai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
+9) IX skyriuje – kolegialių institucijų norminiai teisės aktai bei kiti teisės aktai, kuriuos „Valstybės žiniose“ skelbti nustato įstatymai ir Vyriausybės nutarimai.
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
 
 20 straipsnis. „Valstybės žiniose“ skelbiamų teisės aktų eilės numeris
 
@@ -222,7 +306,11 @@ Kas metai leidžiama „Valstybės žiniose“ išspausdintų teisės aktų raid
 
 23 straipsnis. Pasirašytų įstatymų ir kitų teisės aktų pateikimas „Valstybės žinių“ redakcijai
 
-Seimo, Respublikos Prezidento, Vyriausybės, ministerijų, Vyriausybės įstaigų, kitų valstybės valdymo bei kolegialių institucijų tarnybos privalo garantuoti, kad pasirašyti įstatymai ir kiti teisės aktai būtų įteikti „Valstybės žinių“ redakcijai ne vėliau kaip per 3 dienas nuo jų pasirašymo. Redakcijai pateikiami teisės aktai turi būti suredaguoti. Pateikti skelbti teisės aktai „Valstybės žinių“ redakcijoje neberedaguojami.“
+Seimo, Respublikos Prezidento, Vyriausybės, Konstitucinio Teismo, ministerijų, Vyriausybės įstaigų, kitų valstybės valdymo bei kolegialių institucijų tarnybos privalo garantuoti, kad pasirašyti įstatymai ir kiti teisės aktai būtų įteikti „Valstybės žinių“ redakcijai ne vėliau kaip per 3 darbo dienas nuo jų pasirašymo. Redakcijai pateikiami teisės aktai turi būti suredaguoti. Pateikti skelbti teisės aktai „Valstybės žinių“ redakcijoje neredaguojami.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -297,6 +385,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1270, 2002-12-10, Žin., 2002, Nr. 124-5626 (2002-12-27), i. k. 1021010ISTA0IX-1270
 
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+
+Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 1, 3, 4, 8, 10, 17, 18, 19, 23 straipsnių pakeitimo ir papildymo įstatymas
 
 101 straipsnis
 
