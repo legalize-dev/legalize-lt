@@ -4,7 +4,7 @@ identifier: "TAR.9D04F98F7C14"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-07"
-last_updated: "2000-07-12"
+last_updated: "2001-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Įstatymas
 
-paskelbtas: Žin., 1992, Nr. 14-378
+skelbtas: Žin., 1992, Nr. 14-378
 
 Neoficialus
 
@@ -48,9 +48,7 @@ gyvenamosiomis patalpomis būdus, valstybės teikiamos paramos formas įsigyjant
 
 gyvenamąjį namą ar butą, šios paramos suteikimo ir panaudojimo tvarką bei
 
-sąlygas, taip pat gyvenamųjų patalpų statybos ir eksploatavimo valstybinę
-
-kontrolę.
+sąlygas, taip pat gyvenamųjų patalpų statybos ir eksploatavimo valstybinę kontrolę.
 
 2 straipsnis. Teisė į
 
@@ -118,11 +116,11 @@ namų statybos ar eksploatavimo bendrijos
 
 Fiziniai, juridiniai asmenys
 
-turi teisę sujungti lėšas gyvenamojo namo ar kelių gyvenamųjų namų statybai, sukurdami
+turi teisę sujungti lėšas gyvenamojo namo ar kelių gyvenamųjų namų statybai,
 
-gyvenamojo namo (gyvenamųjų namų) bendriją, turinčią juridinio asmens teises ir
+sukurdami gyvenamojo namo (gyvenamųjų namų) bendriją, turinčią juridinio asmens
 
-veikiančią pagal savivaldybėse įregistruotus įstatus.
+teises ir veikiančią pagal savivaldybėse įregistruotus įstatus.
 
 Straipsnio
 
@@ -178,11 +176,11 @@ rekonstruojant, modernizuojant, likviduojant stichinių ir kitų nelaimių
 
 padarinius;
 
-3) tarnybinį butų fondą, kurio
+3) tarnybinį butų fondą,
 
-gyvenamosios patalpos suteikiamos darbuotojams pagal Civilinio kodekso 360, 361
+kurio gyvenamosios patalpos suteikiamos darbuotojams pagal Civilinio kodekso
 
-straipsnius ;
+360, 361 straipsnius ;
 
 4) specialųjį gyvenamųjų
 
@@ -242,9 +240,9 @@ pertvarkytos naudoti kitiems reikalams arba nugriautos, Lietuvos Respublikos
 
 Vyriausybės nustatyta tvarka išbraukiamos iš gyvenamųjų patalpų apskaitos.
 
-8 straipsnis. Gyvenamosios
+8 straipsnis.
 
-patalpos ploto rodiklis ir valstybės paramos dydis
+Gyvenamosios patalpos ploto rodiklis ir valstybės paramos dydis
 
 Gyvenamosios
 
@@ -318,9 +316,9 @@ Nr. VIII-472,
 
 97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
 
-9 straipsnis. Teisės į valstybės
+9 straipsnis. Teisės į
 
-paramą sąlygos
+valstybės paramą sąlygos
 
 Teisę į
 
@@ -562,17 +560,13 @@ Nr. VIII-472,
 
 97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
 
-13 straipsnis. (Neteko
+13 straipsnis.
 
-galios)
+(Neteko galios)
 
-Straipsnio
+[Įstatymas papildomas 13 straipsniu nuo
 
-pakeitimai:
-
-Nr. VIII-472,
-
-97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
+2001 m. sausio 1 d.:
 
 15 straipsnis. Prašymo
 
@@ -580,41 +574,37 @@ valstybės paramai gauti turinys
 
 Pilietis, norėdamas gauti
 
-valstybės paramą, parašo nustatytos formos prašymą, kuriame nurodo: šeimos
+valstybės paramą, parašo nustatytos formos prašymą, kuriame nurodo: šeimos sudėtį,
 
-sudėtį, duomenis apie turimą gyvenamąją patalpą, pageidaujamos valstybės
+duomenis apie turimą gyvenamąją patalpą, pageidaujamos valstybės paramos formą
 
-paramos formą ir kitus duomenis pagal 2 priedėlyje pateiktą formą. Prašymas
+ir kitus duomenis pagal 2 priedėlyje pateiktą formą. Prašymas turi būti
 
-turi būti pasirašytas visų pilnamečių šeimos narių, taip pat ir laikinai
+pasirašytas visų pilnamečių šeimos narių, taip pat ir laikinai išvykusiųjų.
 
-išvykusiųjų.
+Prie prašymo turi būti pridėta
 
-Prie prašymo turi būti
+šio įstatymo 3 priedėlyje pateiktos formos anketa. Jeigu pareiškėjas ar kiti
 
-pridėta šio įstatymo 3 priedėlyje pateiktos formos anketa. Jeigu pareiškėjas ar
+šeimos nariai, pageidaujantys kartu gauti valstybės paramą, gyvena skirtingose
 
-kiti šeimos nariai, pageidaujantys kartu gauti valstybės paramą, gyvena
+vietose, kiekvienas iš jų privalo užpildyti ir pateikti anketą apie turimas
 
-skirtingose vietose, kiekvienas iš jų privalo užpildyti ir pateikti anketą apie
+gyvenamąsias patalpas, kuri pridedama prie prašymo paramai gauti. Anketą
 
-turimas gyvenamąsias patalpas, kuri pridedama prie prašymo paramai gauti.
+užpildo ir pasirašo pareiškėjas. Anketos duomenis patikslina ir ją patvirtina
 
-Anketą užpildo ir pasirašo pareiškėjas. Anketos duomenis patikslina ir ją
+gyvenamosios patalpos savininkas ar jo įgaliotas asmuo. Jeigu pilietis
 
-patvirtina gyvenamosios patalpos savininkas ar jo įgaliotas asmuo. Jeigu
+pageidauja būti įrašytas į socialiai remtinų asmenų eilę, prie prašymo turi
 
-pilietis pageidauja būti įrašytas į socialiai remtinų asmenų eilę, prie prašymo
+pridėti dokumentą, patvirtinantį, kad jis priklauso tokiai asmenų kategorijai.
 
-turi pridėti dokumentą, patvirtinantį, kad jis priklauso tokiai asmenų
+Jeigu pilietis yra atvykęs iš kitos gyvenamosios vietovės, kurioje buvo
 
-kategorijai. Jeigu pilietis yra atvykęs iš kitos gyvenamosios vietovės, kurioje
+įrašytas į eilę valstybės paramai gauti, jis turi pridėti dokumentą, liudijantį,
 
-buvo įrašytas į eilę valstybės paramai gauti, jis turi pridėti dokumentą,
-
-liudijantį, kiek laiko išbūta tokioje eilėje ankstesnėje gyvenamojoje
-
-vietovėje.
+kiek laiko išbūta tokioje eilėje ankstesnėje gyvenamojoje vietovėje.
 
 Už prašyme ir anketoje
 
@@ -682,11 +672,11 @@ sudaromos atsižvelgiant į piliečių, turinčių teisę gauti valstybės param
 
 charakteristiką, buvimo eilėje laiką ir kitus kriterijus. Kiekvieno piliečio
 
-vieta eilėje nustatoma pagal prie šio įstatymo pridedamą metodiką (5 priedėlis),
+vieta eilėje nustatoma pagal prie šio įstatymo pridedamą metodiką (5
 
-kurioje nurodyta piliečio vietos eilėje nustatymo formulė ir koeficientai.
+priedėlis), kurioje nurodyta piliečio vietos eilėje nustatymo formulė ir
 
-Koeficientų dydžius nustato Lietuvos Respublikos Vyriausybė.
+koeficientai. Koeficientų dydžius nustato Lietuvos Respublikos Vyriausybė.
 
 Piliečių eiles
 
@@ -722,9 +712,17 @@ paramai gauti išbraukiami, kai:
 
 valstybės paramos;
 
-2) yra gavę valstybės
+2) yra gavę valstybės paramą;
 
-paramą;
+[1 dalies 2 punkto redakcija nuo 2001 m.
+
+sausio 1 d.:
+
+2)
+
+yra gavę valstybės paramą (lengvatinį kreditą apsirūpinti gyvenamosiomis
+
+patalpomis arba nuomoja savivaldybės gyvenamąsias patalpas);]
 
 3) išnyksta sąlygos,
 
@@ -746,9 +744,9 @@ gauti yra įrašyti be teisėto pagrindo;
 
 su juo gyvenančių šeimos narių;
 
-7) kartu su šeimos nariais išvyksta
+7) kartu su šeimos nariais
 
-nuolat gyventi į kitą gyvenamąją vietovę.
+išvyksta nuolat gyventi į kitą gyvenamąją vietovę.
 
 Iš eilės išbraukiama
 
@@ -766,33 +764,41 @@ Ginčai dėl išbraukimo iš
 
 eilės gali būti nagrinėjami teismine tvarka.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-2033, 2000 10 12, Žin., 2000, Nr.
+
+92-2874 (2000 10 31), įsigalioja nuo 2001 01 01
+
 20 straipsnis. Piliečių,
 
-kuriems valstybės paramą numatoma suteikti per artimiausius dvejus
+kuriems valstybės paramą numatoma suteikti per artimiausius
 
-ūkinius
+dvejus ūkinius
 
 metus, sąrašai
 
-Savivaldybės, peržiūrėdamos
+Savivaldybės, peržiūrėdamos piliečių
 
-piliečių eiles valstybės paramai gauti ir nepažeisdamos eiliškumo, privalo
+eiles valstybės paramai gauti ir nepažeisdamos eiliškumo, privalo sudaryti
 
-sudaryti asmenų, kuriems valstybės paramą numatoma suteikti per artimiausius
+asmenų, kuriems valstybės paramą numatoma suteikti per artimiausius dvejus
 
-dvejus ūkinius metus, sąrašus. Piliečiams, kuriuos numatoma įrašyti į šiuos
+ūkinius metus, sąrašus. Piliečiams, kuriuos numatoma įrašyti į šiuos sąrašus,
 
-sąrašus, išsiunčiami registruoti pranešimai atvykti patikslinti duomenų.
+išsiunčiami registruoti pranešimai atvykti patikslinti duomenų. Pranešimai turi
 
-Pranešimai turi būti išsiųsti ne vėliau kaip prieš 2 mėnesius iki pranešime
+būti išsiųsti ne vėliau kaip prieš 2 mėnesius iki pranešime nurodytos atvykimo
 
-nurodytos atvykimo datos. Nurodytu laiku be pateisinamos priežasties neatvykę
+datos. Nurodytu laiku be pateisinamos priežasties neatvykę piliečiai į dvejų
 
-piliečiai į dvejų ūkinių metų sąrašus neįrašomi. Asmenų, įrašytų į šiuos
+ūkinių metų sąrašus neįrašomi. Asmenų, įrašytų į šiuos sąrašus, eilės tvarka
 
-sąrašus, eilės tvarka nekeičiama. Iš sąrašų išbraukiama šio įstatymo 18
+nekeičiama. Iš sąrašų išbraukiama šio įstatymo 18 straipsnyje nustatytais
 
-straipsnyje nustatytais atvejais.
+atvejais.
 
 Sąrašai asmenų, kuriems
 
@@ -840,9 +846,9 @@ patalpos, jų adresas, dydis, kambarių bei piliečio šeimos narių skaičius. 
 
 tokio sprendimo priėmimą nuomininkas ir jo šeimos nariai turi pateikti
 
-raštiškus įsipareigojimus apsigyventi suteikiamoje patalpoje ir atituštinti anksčiau
+raštiškus įsipareigojimus apsigyventi suteikiamoje patalpoje ir atituštinti
 
-turėtas gyvenamąsias patalpas savivaldybių gyvenamuosiuose namuose.
+anksčiau turėtas gyvenamąsias patalpas savivaldybių gyvenamuosiuose namuose.
 
 Straipsnio
 
@@ -864,9 +870,9 @@ Lietuvos Respublikos civilinis kodeksas.
 
 LIETUVOS RESPUBLIKOS
 
-AUKŠČIAUSIOSIOS TARYBOS -
+AUKŠČIAUSIOSIOS TARYBOS
 
-ATKURIAMOJO SEIMO PIRMININKAS
+PIRMININKAS
 
 VYTAUTAS LANDSBERGIS
 
@@ -874,11 +880,15 @@ Vilnius, 1992 m. balandžio 7 d.
 
 Nr.I-2455
 
-Lietuvos Respublikos
+Lietuvos
+
+Respublikos
 
 gyventojų apsirūpinimo
 
-gyvenamosiomis patalpomis
+gyvenamosiomis
+
+patalpomis
 
 įstatymo
 
@@ -1026,9 +1036,9 @@ dujinis šildymas;
 
 jei gyvenamosiose patalpose nėra
 
-|        centralizuoto
+|
 
-dujų tiekimo ar elektrinės
+centralizuoto dujų tiekimo ar elektrinės
 
 k7=  |
 
@@ -1150,7 +1160,9 @@ Lietuvos Respublikos
 
 gyventojų apsirūpinimo
 
-gyvenamosiomis patalpomis
+gyvenamosiomis
+
+patalpomis
 
 įstatymo
 
@@ -1344,9 +1356,9 @@ gyvenamosiomis patalpomis
 
 3 priedėlis
 
-Piliečio,
+Piliečio, pageidaujančio gauti valstybės
 
-pageidaujančio gauti valstybės paramą
+paramą
 
 apsirūpinti gyvenamosiomis patalpomis,
 
@@ -1428,7 +1440,7 @@ PAVARDĖ     |GIMINYS- |ASMENS|LIETUVOS |AR JAU BUVO |
 
 |
 
-|             |         |      |     |   |     |      |
+|             |         |      |     |   |     |      |
 
 |
 
@@ -1466,7 +1478,9 @@ PAVARDĖ     |GIMINYS- |ASMENS|LIETUVOS |AR JAU BUVO |
 
 |_________|_____________|_________|______|_____|___|_____|______|
 
-__________         __________________
+__________
+
+__________________
 
 GYVENAMOJI VIETA:
 
@@ -1476,7 +1490,7 @@ Indeksas|          |MIESTAS|                  |
 
 _____________________          _________          ________
 
-|                     |
+|                     |
 
 |         |        |        |
 
@@ -1532,7 +1546,7 @@ patalpų bendras naudingas  __________________
 
 plotas
 
-(m2)                                 |                  |
+(m2)                                 |                  |
 
 |__________________|
 
@@ -1554,9 +1568,7 @@ patalpos:
 
 |_________________________________________|
 
-ŽINIOS
-
-APIE TURIMAS GYVENAMĄSIAS PATALPAS
+ŽINIOS APIE TURIMAS GYVENAMĄSIAS PATALPAS
 
 ____________________
 
@@ -1748,7 +1760,9 @@ Lietuvos Respublikos
 
 gyventojų apsirūpinimo
 
-gyvenamosiomis patalpomis
+gyvenamosiomis
+
+patalpomis
 
 įstatymo
 
@@ -1834,7 +1848,9 @@ Lietuvos Respublikos
 
 gyventojų apsirūpinimo
 
-gyvenamosiomis patalpomis
+gyvenamosiomis
+
+patalpomis
 
 įstatymo
 
@@ -2038,7 +2054,7 @@ Rodikliai išdėstyti
 
 prioriteto mažėjimo tvarka.
 
-______________________
+___________
 
 Pakeitimai:
 
@@ -2140,39 +2156,63 @@ Nr. VIII-1741, 00.06.20, Žin., 2000,
 
 Nr.56-1639 (00.07.12)
 
-DAUGIABUČIŲ NAMŲ SAVININKŲ BENDRIJŲ ĮSTATYMO PAKEITIMO
+DAUGIABUČIŲ NAMŲ SAVININKŲ BENDRIJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-ĮSTATYMAS
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-2033, 2000 10 12, Žin., 2000, Nr.
+
+92-2874 (2000 10 31)
+
+GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS
+
+ĮSTATYMO PAPILDYMO 13 STRAIPSNIU, 14 IR 18 STRAIPSNIŲ PAKEITIMO IR BUTŲ
+
+PRIVATIZAVIMO ĮSTATYMO BEI LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS -
+
+ATKURIAMOJO SEIMO NUTARIMO „DĖL LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO
+
+ĮSTATYMO ĮSIGALIOJIMO“ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.07.24)
+Redagavo: Aušrinė Trapinskienė (2000 11 21)
 
-3 straipsnis. Neteko galios
+autrap@lrs.lt
 
-nuo 2000 liepos 12 d.
+3 straipsnis. Neteko
+
+galios nuo 2000 liepos 12 d.
 
 Straipsnio
 
 pakeitimai:
 
-Nr.I-800;
+Nr.
 
-1995.02.21.; Žin., 1995, Nr.20-451
+I-800;
+
+1995.02.21.; Žin., 1995, Nr. 20-451
 
 Nr.
 
 VIII-194,
 
-97.04.24, Žin., 1997, Nr.38-926 (97.05.02)
+97.04.24, Žin., 1997, Nr. 38-926 (97.05.02)
 
 Nr. VIII-472,
 
-97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
+97.10.21, Žin., 1997, Nr. 98-2483 (97.10.30)
 
-Nr. VIII-1741, 00.06.20, Žin., 2000,
+Nr. VIII-1741, 00.06.20, Žin., 2000, Nr.
 
-Nr.56-1639 (00.07.12)
+56-1639 (00.07.12)
 
 14 straipsnis. Piliečiams
 
@@ -2194,6 +2234,18 @@ finansuojamas iš valstybės ir savivaldybių paramos fondų, valstybės ir
 
 savivaldybių biudžetų bei kitų šaltinių.
 
+[2 dalies redakcija nuo 2001 m. sausio 1
+
+d.:
+
+Šių
+
+programų įgyvendinimas finansuojamas iš Valstybės paramos gyvenamiesiems
+
+namams, butams įsigyti finansavimo programai skirtų lėšų ir savivaldybių
+
+biudžetų bei kitų šaltinių.]
+
 Straipsnio
 
 pakeitimai:
@@ -2201,6 +2253,10 @@ pakeitimai:
 Nr. VIII-472,
 
 97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
+
+Nr. VIII-2033, 2000 10 12, Žin., 2000, Nr.
+
+92-2874 (2000 10 31), įsigalioja nuo 2001 01 01
 
 16 straipsnis. Piliečių,
 
