@@ -4,7 +4,7 @@ identifier: "TAR.845C6618A647"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-06"
-last_updated: "2002-06-26"
+last_updated: "2003-04-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2002-06-06"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
+
+Suvestinė redakcija nuo 2003-04-24 iki 2003-04-30
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
 
 LIETUVOS RESPUBLIKOS
 
@@ -229,7 +233,11 @@ Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prez
 
 1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad nepaprastosios padėties metu, siekiant pašalinti ekstremalios situacijos padarinius ar užtikrinti visuomenės saugumą ir viešąją tvarką, komendantūros pareigūnai turi teisę bet kuriuo paros laiku įeiti į asmens būstą be jo sutikimo.
 
-2. Institucijos, atsakingos už ekstremalių situacijų valdymą, vadovas, komendantai turi teisę panaudoti būstą komendantūros pareigūnams, asmenims, pasitraukusiems iš savo gyvenamųjų vietų, apgyvendinti užtikrinant šių būstų gyventojams galimybę toliau gyventi šiuose būstuose arba perkelti gyventojus į kitus gyventi tinkamus būstus. Nepaprastajai padėčiai pasibaigus, būsto savininko reikalavimu šiais veiksmais padaryta žala atlyginama įstatymų nustatyta tvarka.
+2. Institucijos, atsakingos už ekstremalių situacijų valdymą, vadovas, komendantai turi teisę panaudoti būstą komendantūros pareigūnams, asmenims, pasitraukusiems iš savo gyvenamųjų vietų, apgyvendinti užtikrinant šių būstų gyventojams galimybę toliau gyventi šiuose būstuose arba perkelti gyventojus į kitus gyventi tinkamus būstus. Nepaprastajai padėčiai pasibaigus, būsto savininko reikalavimu šiais veiksmais padarytą žalą atlygina valstybė Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1416, 2003-04-03, Žin., 2003, Nr. 38-1661 (2003-04-24), i. k. 1031010ISTA0IX-1416
 
 21 straipsnis. Teisės reikšti savo įsitikinimus, ieškoti informacijos ir ją gauti ar skleisti apribojimas
 
@@ -356,4 +364,14 @@ Pasiūlyti Vyriausybei per 6 mėnesius nuo Įstatymo įsigaliojimo peržiūrėti
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1416, 2003-04-03, Žin., 2003, Nr. 38-1661 (2003-04-24), i. k. 1031010ISTA0IX-1416
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo 20 straipsnio pakeitimo įstatymas
 
