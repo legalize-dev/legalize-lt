@@ -4,7 +4,7 @@ identifier: "TAR.D503DCB3BF0D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-28"
-last_updated: "2002-10-08"
+last_updated: "2002-10-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D503DCB3BF0D"
 department: "Lietuvos Respublikos Seimas"
@@ -4993,6 +4993,42 @@ elektroniniu būdu per 5 darbo dienas nuo sąskaitos atidarymo ar uždarymo
 
 dienos.
 
+[4
+
+dalies redakcija nuo 2003 m. sausio 1 d.:
+
+4. Komerciniai
+
+bankai ir užsienio banko filialai (skyriai) (toliau – komerciniai bankai)
+
+privalo pateikti centriniam mokesčio administratoriui informaciją apie Lietuvos
+
+ir užsienio juridinių asmenų, jų filialų ir atstovybių (toliau šiame
+
+straipsnyje ir 50 straipsnio 1 dalyje – ūkio subjektų) atidarytas ir uždarytas
+
+visų rūšių sąskaitas. Informacija pateikiama ne vėliau kaip per 3 darbo dienas
+
+nuo sąskaitos atidarymo ar uždarymo dienos. Apie atidarytas ir uždarytas
+
+sąskaitas užsienio bankuose bei apie atidarytą nuolatinės buveinės sąskaitą
+
+praneša sąskaitą atsidaręs ūkio subjektas ar nuolatinė buveinė. Informacija
+
+pateikiama centriniam mokesčio administratoriui raštu arba, suderinus
+
+informacijos pateikimo tvarką su centriniu mokesčio administratoriumi,
+
+elektroniniu būdu per 5 darbo dienas nuo sąskaitos atidarymo ar uždarymo
+
+dienos. Lietuvos Respublikos fiziniai asmenys informaciją apie užsienio
+
+valstybėse atidarytas ir uždarytas sąskaitas privalo pranešti centriniam
+
+mokesčio administratoriui Vyriausybės ar jos įgaliotos institucijos nustatyta
+
+tvarka ir terminais.]
+
 5. Už
 
 informacijos apie atidarytas ir uždarytas sąskaitas nepateikimą (pavėluotą
@@ -5026,6 +5062,12 @@ VIII-838,
 Nr. IX-394, 2001-06-26, Žin., 2001, Nr.
 
 62-2211 (2001-07-18), įsigalioja nuo 2001-09-01
+
+Nr.
+
+IX-1160,
+
+2002-10-29, Žin., 2002, Nr. 112-4968 (2002-11-22), įsigalioja nuo 2003-01-01
 
 26(2)
 
@@ -5225,9 +5267,9 @@ buvo pateikta), tvirtinamas mokesčio administratoriaus sprendimu ir mokesčio
 
 mokėtojui (mokestį išskaičiuojančiam asmeniui) yra privalomas vykdyti.
 
-Patikrinimo aktas turi būti patvirtinamas per 30 darbo dienų nuo jo surašymo.
+Patikrinimo aktas turi būti patvirtinamas per 30 darbo dienų nuo jo surašymo. Tuo
 
-Tuo atveju, jeigu dėl patikrinimo akto buvo pateikta rašytinių pastabų ir
+atveju, jeigu dėl patikrinimo akto buvo pateikta rašytinių pastabų ir
 
 atsikirtimų, šis terminas skaičiuojamas nuo jų pateikimo mokesčio
 
@@ -7869,9 +7911,9 @@ mokestinės paskolos sutartis.
 
 mokesčio bei šio mokesčio delspinigių nepriemoką, raginimas nesiunčiamas.
 
-Mokesčio administratorius įgyja teisę išieškoti nesumokėtą deklaruotą mokestį
+Mokesčio administratorius įgyja teisę išieškoti nesumokėtą deklaruotą mokestį bei
 
-bei su juo susijusius delspinigius po 20 dienų, kai pasibaigė mokesčio įstatyme
+su juo susijusius delspinigius po 20 dienų, kai pasibaigė mokesčio įstatyme
 
 nustatytas deklaruojamo mokesčio sumokėjimo terminas.
 
@@ -8985,13 +9027,13 @@ kokiomis grąžinimo metu yra paskirstomas mokestis.
 
 Mokesčio administratorius, per šio straipsnio 3 dalyje nurodytą terminą
 
-negrąžinęs mokesčio permokos sumos, mokesčio mokėtojo naudai skaičiuoja
+negrąžinęs mokesčio permokos sumos, mokesčio mokėtojo naudai skaičiuoja palūkanas,
 
-palūkanas, iki mokesčio permoka bus grąžinta. Palūkanų dydis yra lygus
+iki mokesčio permoka bus grąžinta. Palūkanų dydis yra lygus nustatytam
 
-nustatytam delspinigių už ne laiku sumokėtą mokestį dydžiui. Priėmus sprendimą
+delspinigių už ne laiku sumokėtą mokestį dydžiui. Priėmus sprendimą sustabdyti
 
-sustabdyti mokesčio permokos grąžinimą, palūkanos mokesčio mokėtojo naudai
+mokesčio permokos grąžinimą, palūkanos mokesčio mokėtojo naudai
 
 neskaičiuojamos, o Lietuvos Respublikos Vyriausybės ar jos įgaliotos
 
@@ -9039,11 +9081,11 @@ atitinkamame mokesčio įstatyme nenumatyta kitaip, mokesčio permoka gali būti
 
 grąžinta (įskaityta), jeigu ji susidarė ne ankščiau kaip per einamuosius ir
 
-prieš juos einančius penkerius kalendorinius metus, skaičiuojant atgal nuo įskaitymo
+prieš juos einančius penkerius kalendorinius metus, skaičiuojant atgal nuo
 
-dienos, o kai yra mokesčio mokėtojo prašymas, – nuo šio prašymo pateikimo
+įskaitymo dienos, o kai yra mokesčio mokėtojo prašymas, – nuo šio prašymo
 
-dienos.
+pateikimo dienos.
 
 Straipsnio
 
@@ -10237,17 +10279,15 @@ kuriais sumažinamos arba panaikinamos baudos, taikomi ir už mokesčių įstaty
 
 pažeidimus, padarytus iki šių aktų įsigaliojimo, jei baudas sumažinantis arba
 
-panaikinantis teisės aktas įsigalioja ne vėliau kaip nutarimo skirti baudą
+panaikinantis teisės aktas įsigalioja ne vėliau kaip nutarimo skirti baudą priėmimo
 
-priėmimo dieną, o jei mokesčio mokėtojas apskundžia mokesčio administratoriaus
+dieną, o jei mokesčio mokėtojas apskundžia mokesčio administratoriaus veiksmus,
 
-veiksmus, – ne vėliau kaip centrinio mokesčio administratoriaus sprendimo,
+– ne vėliau kaip centrinio mokesčio administratoriaus sprendimo, Mokestinių
 
-Mokestinių ginčų komisijos sprendimo, apygardos administracinio teismo
+ginčų komisijos sprendimo, apygardos administracinio teismo sprendimo, Lietuvos
 
-sprendimo, Lietuvos vyriausiojo administracinio teismo sprendimo priėmimo
-
-dieną.
+vyriausiojo administracinio teismo sprendimo priėmimo dieną.
 
 2. Teisės aktai, kuriais panaikinami
 
@@ -10755,9 +10795,9 @@ mokesčio administratorius turi priimti sprendimą dėl skundo per 30 dienų nuo
 
 gavimo dienos. Šis terminas centrinio mokesčio administratoriaus sprendimu gali
 
-būti pratęstas iki 60 dienų, jeigu skundui nagrinėti reikalingas papildomas tyrimas.
+būti pratęstas iki 60 dienų, jeigu skundui nagrinėti reikalingas papildomas
 
-Apie tai turi būti raštu pranešta skundą padavusiam asmeniui.
+tyrimas. Apie tai turi būti raštu pranešta skundą padavusiam asmeniui.
 
 6. Centrinis
 
