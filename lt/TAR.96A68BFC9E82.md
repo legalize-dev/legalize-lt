@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "1996-12-03"
+last_updated: "1996-12-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Redagavo: Ramunė Lūžaitė (1996
+Redagavo: Ramun? L??ait? (1996
 
 Redagavo:
 
@@ -59,6 +59,24 @@ PAKEITIMO
 
 ĮSTATYMAS
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-25, 96.12.05, Žin., 1996, Nr.121-2850 (96.12.14)
+
+LIETUVOS
+
+RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 13 IR 16 STRAIPSNIŲ
+
+PAKEITIMO
+
+ĮSTATYMAS
+
 ***Pabaiga***
 
 LIETUVOS RESPUBLIKOS
@@ -89,7 +107,7 @@ Lietuvos Respublikos Vyriausybė įgyvendina vykdomąją valdžią
 
 Lietuvoje.
 
-Vyriausybės   galias    apibrėžia    Lietuvos    Respublikos
+Vyriausybės   galias    apibrėžia    Lietuvos    Respublikos
 
 Konstitucija
 
@@ -117,9 +135,7 @@ dekretais, taip pat šiuo įstatymu.
 
 Vyriausybės veiklos principai
 
-Lietuvos
-
-Respublikos   Vyriausybė  savo   veikloje  remiasi
+Lietuvos  Respublikos   Vyriausybė  savo   veikloje  remiasi
 
 demokratijos,
 
@@ -145,7 +161,7 @@ Lietuvos  Respublikos   ministrai  yra   atsakingi   Seimui,
 
 Respublikos
 
-Prezidentui   ir   tiesiogiai   pavaldūs   Ministrui
+Prezidentui   ir   tiesiogiai   pavaldūs   Ministrui
 
 Pirmininkui.
 
@@ -161,7 +177,9 @@ LIETUVOS RESPUBLIKOS VYRIAUSYBĖS SUDARYMAS
 
 6 straipsnis.  Lietuvos Respublikos Vyriausybės sudarymo
 
-tvarka ir Vyriausybės programa
+tvarka
+
+ir Vyriausybės programa
 
 Lietuvos Respublikos  Ministrą  Pirmininką  Seimo  pritarimu
 
@@ -245,9 +263,7 @@ ir Vyriausybės programa.
 
 ministrų prisaikdinimas
 
-Pradėdami
-
-eiti  savo  pareigas,  Ministras  Pirmininkas  ir
+Pradėdami  eiti  savo  pareigas,  Ministras  Pirmininkas  ir
 
 ministrai
 
@@ -491,7 +507,7 @@ pat   pateikti   nutarimo   projektą   dėl   nepasitikėjimo
 
 Vyriausybe.
 
-Seimas, apsvarstęs  Ministro Pirmininko ar ministro atsakymą
+Seimas, apsvarstęs  Ministro Pirmininko ar ministro atsakymą
 
 į
 
@@ -507,7 +523,7 @@ ir  daugiau kaip  pusės visų  Seimo  narių  balsų
 
 dauguma
 
-slaptu   balsavimu  pareikšti   nepasitikėjimą  Ministru
+slaptu   balsavimu  pareikšti   nepasitikėjimą  Ministru
 
 Pirmininku
 
@@ -559,9 +575,7 @@ LIETUVOS RESPUBLIKOS VYRIAUSYBĖS NARIŲ GARANTIJOS
 
 neliečiamumo garantijos
 
-Ministras
-
-Pirmininkas  ir ministrai  negali  būti  patraukti
+Ministras Pirmininkas  ir ministrai  negali  būti  patraukti
 
 baudžiamojon
 
@@ -585,45 +599,39 @@ apdraudžiami
 
 valstybės lėšomis.
 
-Pasibaigus   Ministro  Pirmininko  ar  ministrų  kadencijai,
+Pasibaigus Ministro
 
-jiems
+Pirmininko ar ministrų kadencijai, jiems atsistatydinus arba atleidus juos iš
 
-atsistatydinus  arba  atleidus  ministrą  iš  pareigų  dėl
-
-Vyriausybės
-
-reorganizavimo,    taikomos    šios    socialinės
+pareigų dėl ministerijų panaikinimo ar reorganizavimo, taikomos šios socialinės
 
 garantijos:
 
-1)  pasibaigus  pareigų  perdavimui,  Ministrui  Pirmininkui
+1) esant galimybei,
 
-ar
+suteikiamas iki darbo Vyriausybėje dirbtas ar tolygus darbas arba pareigos
 
-ministrui,  dirbusiems  Vyriausybėje  ilgiau  negu  vienerius
+valstybės įstaigoje, organizacijoje, valstybės ar savivaldybės įmonėje,
 
-metus,
+išskyrus renkamas pareigas arba pareigas, į kurias skiriama konkurso būdu. Jei
 
-išmokama  6  jo  vidutinių  mėnesinių   darbo  užmokesčių
+buvusios pareigos panaikintos arba įmonė, įstaiga, organizacija likviduota,
 
-dydžio
+asmens sutikimu esant galimybei jam suteikiamas tolygus darbas arba pareigos
 
-išeitinė pašalpa,  dirbusiems  Vyriausybėje  trumpiau negu
+kitoje valstybės įstaigoje, organizacijoje, valstybės ar savivaldybės įmonėje;
 
-vienerius
+2) pasibaigus pareigų
 
-metus  - 2  jo  vidutinių  mėnesinių darbo  užmokesčių
+perdavimui, Ministrui Pirmininkui ar ministrui išmokama vieno jo vidutinio
 
-dydžio
+mėnesinio darbo užmokesčio dydžio išeitinė pašalpa, o dirbusiems Vyriausybėje
 
-išeitinė pašalpa;
+(įskaitant ir ankstesniąsias Vyriausybes) be pertraukos ilgiau kaip vienerius
 
-2)  suteikiamas  esant  galimybei  ankstesnis  arba  tolygus
+metus išmokama dviejų vidutinių mėnesinių darbo užmokesčių dydžio išeitinė
 
-darbas
-
-ar pareigos valstybinėje įstaigoje, organizacijoje.
+pašalpa.
 
 Ministro Pirmininko  ar ministro, kurie žuvo eidami tarnybą,
 
@@ -651,17 +659,15 @@ sužalojimų
 
 sunkumo laipsnį.
 
-Šio   straipsnio   antrojoje   dalyje  numatytos  socialinės
+Šio straipsnio 2 dalyje
 
-garantijos
+numatytos socialinės garantijos netaikomos asmenims, atsistatydinusiems dėl
 
-netaikomos    asmenims,    atsistatydinusiems   dėl
+jiems pareikšto nepasitikėjimo šio įstatymo 11 straipsnio nustatyta tvarka,
 
-pareikšto
+taip pat dėl to, kad šie asmenys paskirti arba išrinkti į kitas pareigas
 
-nepasitikėjimo šio įstatymo  11  straipsnio  nustatyta
-
-tvarka.
+valstybės įstaigoje, organizacijoje, valstybės ar savivaldybės įmonėje.
 
 Lėšos socialinėms garantijoms mokamos iš valstybės biudžeto.
 
@@ -674,6 +680,10 @@ pakeitimai:
 Nr.
 
 I-1624, 96.11.19, Žin., 1996, Nr.115-2667(96.11.29)
+
+Nr.
+
+VIII-25, 96.12.05, Žin., 1996, Nr.121-2850 (96.12.14)
 
 14 straipsnis. Draudimas Ministrui Pirmininkui ir
 
@@ -689,9 +699,9 @@ renkamų
 
 ar  skiriamų pareigų, išskyrus Seimo nario pareigas, taip
 
-pat dirbti
+pat
 
-verslo, komercijos  ar kitokiose privačiose įstaigose
+dirbti  verslo, komercijos  ar kitokiose privačiose įstaigose
 
 ar
 
@@ -755,7 +765,7 @@ Lietuvos Respublikos  Konstitucijos 89  straipsnio pirmojoje
 
 dalyje
 
-numatytais   atvejais  Seimui   negalint  susirinkti   ir
+numatytais   atvejais  Seimui   negalint  susirinkti   ir
 
 paskelbti
 
@@ -763,17 +773,25 @@ Respublikos   Prezidento  rinkimų,   rinkimus  skelbia
 
 Vyriausybė.
 
-Šio  nutarimo   vykdymas  pavedamas  Respublikos  Prezidento
+Šio nutarimo vykdymas
 
-rinkimų
+pavedamas Vyriausiajai rinkimų komisijai.
 
-komisijai.
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-25, 96.12.05, Žin., 1996, Nr.121-2850 (96.12.14)
 
 17 straipsnis. Ministro Pirmininko ir ministrų
 
 dalyvavimas Seimo darbe
 
-Ministras Pirmininkas  ir ministrai turi teisę Seimo statuto
+Ministras
+
+Pirmininkas  ir ministrai turi teisę Seimo statuto
 
 nustatyta
 
@@ -797,7 +815,7 @@ Seimo nario paklausimas dėl Vyriausybės, ministerijų ar
 
 kitų
 
-Vyriausybės  įstaigų veiklos,  privalo  atsakyti  žodžiu  ar
+Vyriausybės  įstaigų veiklos,  privalo  atsakyti  žodžiu  ar
 
 raštu
 
@@ -953,7 +971,9 @@ tiesioginį
 
 valdymą savivaldybės teritorijoje;
 
-13)  vykdo   kitas  pareigas,   kurias  Vyriausybei   paveda
+13)
+
+vykdo   kitas  pareigas,   kurias  Vyriausybei   paveda
 
 Konstitucija,
 
@@ -1095,7 +1115,9 @@ numatytus
 
 įgaliojimus.
 
-Ministras,  einantis   Ministro   Pirmininko   pareigas   ar
+Ministras,
+
+einantis   Ministro   Pirmininko   pareigas   ar
 
 pavaduojantis
 
@@ -1265,7 +1287,9 @@ Ekonomikos ministerija;
 
 Energetikos ministerija;
 
-Finansų ministerija;
+Finansų
+
+ministerija;
 
 Krašto apsaugos ministerija;
 
@@ -1293,7 +1317,9 @@ Užsienio reikalų ministerija;
 
 Valdymo reformų ir savivaldybių reikalų ministerija;
 
-Vidaus reikalų ministerija;
+Vidaus
+
+reikalų ministerija;
 
 Žemės ūkio ministerija.
 
@@ -1395,7 +1421,7 @@ ministras    (kolegijos    pirmininkas),    ministerijos
 
 sekretorius,
 
-kiti    ministerijos   darbuotojai,    taip    pat
+kiti    ministerijos   darbuotojai,    taip    pat
 
 departamento,
 
@@ -1409,9 +1435,7 @@ valstybinių
 
 institucijų atstovai bei mokslininkai, šiems sutikus.
 
-Kolegijos
-
-narių  skaičių nustato  ir jos  personalinę sudėtį
+Kolegijos narių  skaičių nustato  ir jos  personalinę sudėtį
 
 tvirtina
 
@@ -1487,7 +1511,7 @@ pavestus
 
 uždavinius.
 
-Vyriausybės  įstaigos   vadovas  gali   turėti   pavaduotoją
+Vyriausybės  įstaigos   vadovas  gali   turėti   pavaduotoją
 
 (pavaduotojus).
 
@@ -1747,7 +1771,7 @@ jų įsigaliojimo diena.
 
 protokolai
 
-Vyriausybės   posėdžiai    yra   protokoluojami.   Protokole
+Vyriausybės   posėdžiai    yra   protokoluojami.   Protokole
 
 nurodomas
 
@@ -1790,6 +1814,36 @@ diena.
 X skirsnis
 
 LIETUVOS RESPUBLIKOS VYRIAUSYBĖS KANCELIARIJA
+
+41
+
+straipsnis. Lietuvos Respublikos Vyriausybės
+
+kanceliarija
+
+Lietuvos  Respublikos  Vyriausybė  turi  kanceliariją,  kuri
+
+aptarnauja
+
+Ministrą Pirmininką ir Vyriausybę.
+
+Vyriausybės  kanceliarijos   struktūrą  tvirtina   Ministras
+
+Pirmininkas
+
+Vyriausybės sekretoriaus teikimu.
+
+Vyriausybės kanceliarijai vadovauja Vyriausybės sekretorius.
+
+Vyriausybės kanceliarijos  struktūrinių padalinių vadovus ir
+
+patarėjus
+
+atskiriems  klausimams skiria  ir  atleidžia  Ministras
+
+Pirmininkas
+
+Vyriausybės sekretoriaus teikimu.
 
 41 straipsnis. Lietuvos Respublikos Vyriausybės
 
