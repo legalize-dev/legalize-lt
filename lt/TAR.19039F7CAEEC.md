@@ -4,7 +4,7 @@ identifier: "TAR.19039F7CAEEC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-23"
-last_updated: "1998-03-24"
+last_updated: "1998-05-05"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1998.04.23)
+Ramunė Lūžaitė (1998.05.22)
 
 Įstatymas
 
@@ -135,6 +135,20 @@ LIETUVOS RESPUBLIKOS
 Nauja
 
 įstatymo redakcija
+
+8.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-726,
+
+98.05.05, Žin., 1998, Nr.47-1293 (98.05.22)
+
+LIETUVOS RESPUBLIKOS
+
+ŽEMĖS NUOMOS ĮSTATYMO 7 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -336,9 +350,9 @@ kvarcinį smėlį) naudojimo sąlygos, neprieštaraujančios įstatymams;
 
 įskaitomas užmokestis už melioracijos įrenginius, kelius, tiltus, inžinerinius
 
-įrenginius ir kita, taip pat užmokesčio indeksavimas, jeigu nuomojama valstybinė
+įrenginius ir kita, taip pat užmokesčio indeksavimas, jeigu nuomojama
 
-žemė;
+valstybinė žemė;
 
 12) kiti su nuomojamo žemės sklypo naudojimu
 
@@ -380,11 +394,23 @@ aukcione asmeniui, kurio pasiūlytas nuomos mokestis yra didžiausias. Teisė
 
 dalyvauti aukcione negali būti ribojama.
 
-2. Jeigu valstybinė žemė užstatyta fiziniams
+2. Jeigu  valstybinė žemė užstatyta fiziniams
 
-ar juridiniams asmenims nuosavybės teise priklausančiais ar jų nuomojamais
+ir juridiniams asmenims nuosavybės teise priklausančiais ar jų nuomojamais
 
-pastatais, ji išnuomojama be aukciono Vyriausybės nustatyta tvarka.
+pastatais arba jeigu žemės ūkio paskirties valstybinę žemę išsinuomoti
+
+pageidauja jaunos šeimos, kurių nė vienas iš sutuoktinių nėra vyresnis kaip 40
+
+metų, ji išnuomojama be aukciono Vyriausybės nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-726,
+
+98.05.05, Žin., 1998, Nr.47-1293 (98.05.22)
 
 8 straipsnis. Atlyginimas už žemės nuomą
 
@@ -498,11 +524,11 @@ nutraukus žemės nuomos sutartį prieš terminą, už pastatytus pastatus, stat
 
 ir įrenginius nuomininkui žemės savininkas gali kompensuoti, o jeigu pastatai
 
-lieka buvusio žemės nuomininko nuosavybe, nuomininkas turi teisę į žemės servitutą,
+lieka buvusio žemės nuomininko nuosavybe, nuomininkas turi teisę į žemės
 
-jeigu tai buvo numatyta žemės nuomos sutartyje arba papildomame rašytiniame
+servitutą, jeigu tai buvo numatyta žemės nuomos sutartyje arba papildomame
 
-susitarime.
+rašytiniame susitarime.
 
 2. Ginčai dėl kompensacijos dydžio
 
@@ -604,7 +630,7 @@ poreikiams, žemės nuomos sutartis nutraukiama ir nuomotojui bei nuomininkui
 
 20 straipsnis. Žemės nuomos
 
-sutarties nutraukimas prieš terminą nuomotojo  reikalavimu
+sutarties nutraukimas prieš terminą nuomotojo  reikalavimu
 
 1. Žemės nuomos sutartis prieš terminą
 
@@ -642,15 +668,15 @@ mėnesius iki nuomos sutarties nutraukimo.
 
 3. Žemės nuomos sutartis prieš terminą gali
 
-būti nutraukta pasikeitus valstybinės žemės nuomotojui, privačios žemės
+būti nutraukta pasikeitus valstybinės žemės nuomotojui, privačios žemės nuomininkui,
 
-nuomininkui, jeigu reikalavimai nutraukti nuomos sutartį prieš terminą susiję
+jeigu reikalavimai nutraukti nuomos sutartį prieš terminą susiję su Žemės
 
-su Žemės reformos ir Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
+reformos ir Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo
 
-atkūrimo įstatymų nuostatomis. Šiuo atveju žemės ūkio paskirties žemės nuomos
+įstatymų nuostatomis. Šiuo atveju žemės ūkio paskirties žemės nuomos sutartis
 
-sutartis nutraukiama šio straipsnio 2 dalyje nustatyta tvarka.
+nutraukiama šio straipsnio 2 dalyje nustatyta tvarka.
 
 4. Jeigu žemės ūkio paskirties žemės nuomos
 
