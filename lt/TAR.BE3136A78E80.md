@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "1999-03-25"
+last_updated: "1999-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.09)
 
 Redagavo:
 
-Ramunė Lūžaitė (1999.04.09)
+Ramunė Lūžaitė (1999.06.30)
 
 Įstatymas
 
@@ -147,6 +147,20 @@ LIETUVOS
 
 RESPUBLIKOS NOTARIATO ĮSTATYMO 46 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+9.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1225,
+
+99.06.15, Žin., 1999, Nr.57-1831 (99.06.30)
+
+LIETUVOS
+
+RESPUBLIKOS NOTARIATO ĮSTATYMO 3 IR 23 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -271,31 +285,39 @@ pakeitimai:
 
 Notaro pareigos užimamos viešo konkurso būdu.
 
-Notaru gali būti Lietuvos Respublikos
+Notaru
 
-pilietis, turintis teisės magistro arba teisės bakalauro, arba teisininko
+gali būti Lietuvos Respublikos pilietis, turintis teisės magistro arba teisės
 
-profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį
+bakalauro, arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį
 
-išsilavinimą), ne mažiau kaip vienerius metus buvęs kandidatu į notarus
+universitetinį išsilavinimą), ne mažiau kaip vienerius metus buvęs kandidatu į
 
-(asesoriumi) ir Lietuvos Respublikos teisingumo ministro nustatyta tvarka
+notarus (asesoriumi) ir Lietuvos Respublikos teisingumo ministro nustatyta
 
-išlaikęs notaro kvalifikacinį egzaminą. Lietuvos Respublikos pilietis, apgynęs
+tvarka išlaikęs notaro kvalifikacinį egzaminą. Lietuvos Respublikos pilietis,
 
-socialinių mokslų teisės krypties daktaro ar habilituoto daktaro disertaciją ir
+apgynęs socialinių mokslų teisės krypties daktaro ar habilituoto daktaro
 
-turintis ne mažesnį kaip penkerių metų pedagoginio darbo stažą, taip pat
+disertaciją ir turintis ne mažesnį kaip penkerių metų pedagoginio darbo stažą,
 
-Lietuvos Respublikos pilietis, turintis ne mažesnį kaip penkerių metų teisinio
+taip pat Lietuvos Respublikos pilietis, turintis ne mažesnį kaip penkerių metų
 
-darbo stažą, gali būti skiriamas notaru, jei išlaikė notaro kvalifikacinį
+teisinio darbo stažą, gali būti skiriamas notaru, jei išlaikė notaro
 
-egzaminą ir laimėjo viešą konkursą bei atliko ne trumpesnę kaip trijų mėnesių
+kvalifikacinį egzaminą ir laimėjo viešą konkursą bei atliko ne trumpesnę kaip
 
-notaro praktiką, kurios atlikimo tvarką nustato Lietuvos Respublikos teisingumo
+trijų mėnesių notaro praktiką, kurios atlikimo tvarką nustato Lietuvos
 
-ministras Notarų rūmų prezidiumo teikimu.
+Respublikos teisingumo ministras Notarų rūmų prezidiumo teikimu. Notaru negali
+
+būti asmuo, buvęs SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB)
+
+kadriniu darbuotoju, kuriam taikomi įstatyme „Dėl SSRS valstybės saugumo
+
+komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių
+
+darbuotojų dabartinės veiklos“ numatyti apribojimai.
 
 Teisiniu darbu laikoma veikla, nurodyta
 
@@ -334,6 +356,10 @@ Nr. VIII-737,
 Nr. VIII-1045,
 
 99.02.09, Žin., 1999, Nr.19-509 (99.02.24)
+
+Nr. VIII-1225,
+
+99.06.15, Žin., 1999, Nr.57-1831 (99.06.30)
 
 4 straipsnis. Notarų kvalifikacijos kėlimas
 
@@ -697,13 +723,13 @@ ataskaitą.
 
 Lietuvos Respublikos teisingumo ministras,
 
-manydamas, kad Notarų rūmų nutarimai ar sprendimai neatitinka Lietuvos Respublikos
+manydamas, kad Notarų rūmų nutarimai ar sprendimai neatitinka Lietuvos
 
-įstatymų, gali pateikti skundą Vilniaus apygardos teismui dėl tų nutarimų ar
+Respublikos įstatymų, gali pateikti skundą Vilniaus apygardos teismui dėl tų
 
-sprendimų panaikinimo. Šis skundas turi būti pateiktas per 1 mėnesį nuo
+nutarimų ar sprendimų panaikinimo. Šis skundas turi būti pateiktas per 1 mėnesį
 
-skundžiamo nutarimo ar sprendimo gavimo dienos.
+nuo skundžiamo nutarimo ar sprendimo gavimo dienos.
 
 Straipsnio
 
@@ -733,7 +759,7 @@ savo  veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo  įstatymu
 
 kitais Lietuvos Respublikos įstatymais, Lietuvos  Respublikos Vyriausybės
 
-nutarimais bei potvarkiais,  Lietuvos  Respublikos  teisingumo  ministerijos
+nutarimais bei potvarkiais,  Lietuvos  Respublikos  teisingumo  ministerijos
 
 norminiais aktais ir Notarų rūmų nutarimais.
 
@@ -769,9 +795,9 @@ apie testamentus išduodamos tik testatoriui mirus.
 
 Notarinių
 
-veiksmų slaptumo taisyklės taikomos ir asmenims, nustojusiems dirbti  notaru, taip
+veiksmų slaptumo taisyklės taikomos ir asmenims, nustojusiems dirbti  notaru,
 
-pat asmenims, kurie apie notarinius veiksmus sužinojo, eidami tarnybines
+taip pat asmenims, kurie apie notarinius veiksmus sužinojo, eidami tarnybines
 
 pareigas.
 
@@ -809,9 +835,7 @@ Notaro
 
 raštvedyba tvarkoma valstybine kalba. Sandoriai su užsienio valstybių fiziniais
 
-ir juridiniais asmenimis sudaromi valstybine ir kita abiems šalims priimtina
-
-kalba.
+ir juridiniais asmenimis sudaromi valstybine ir kita abiems šalims priimtina kalba.
 
 Straipsnio
 
@@ -1257,7 +1281,15 @@ straipsnio reikalavimus;
 
 11) jei notaras sistemingai daugiau kaip 4 mėnesius iš eilės nemoka mokesčių
 
-Notarų rūmams.
+Notarų rūmams;
+
+12) jei notaras buvo SSRS valstybės saugumo komiteto (NKVD,
+
+NKGB, MGB, KGB) kadriniu darbuotoju, kuriam taikomi įstatyme "Dėl SSRS
+
+valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios
+
+organizacijos kadrinių darbuotojų dabartinės veiklos“ numatyti apribojimai.
 
 Notaro
 
@@ -1276,6 +1308,10 @@ I-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 Nr.
 
 VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
+
+Nr. VIII-1225,
+
+99.06.15, Žin., 1999, Nr.57-1831 (99.06.30)
 
 24
 
@@ -1303,7 +1339,7 @@ straipsnis. Notarinių veiksmų atlikimas užsienyje
 
 Šio
 
-įstatymo  numatytus  notarinius  veiksmus  Lietuvos Respublikos piliečiams,
+įstatymo  numatytus  notarinius  veiksmus  Lietuvos Respublikos piliečiams,
 
 esantiems užsienyje, atlieka Lietuvos Respublikos konsulinės įstaigos.
 
@@ -2029,13 +2065,13 @@ straipsnis. Notarinių dokumentų pasirašymo tvarka
 
 Notaro
 
-tvirtinami sandoriai, taip pat pareiškimai ir kitokie dokumentai pasirašomi  dalyvaujant
+tvirtinami sandoriai, taip pat pareiškimai ir kitokie dokumentai pasirašomi
 
-notarui.  Jeigu sandoris, pareiškimas arba  kitoks dokumentas  pasirašytas ne
+dalyvaujant notarui.  Jeigu sandoris, pareiškimas arba  kitoks dokumentas
 
-notaro akivaizdoje,  pasirašęs asmuo turi asmeniškai patvirtinti, kad sandorį,
+pasirašytas ne  notaro akivaizdoje,  pasirašęs asmuo turi asmeniškai
 
-pareiškimą arba kitokį dokumentą pasirašė jis.
+patvirtinti, kad sandorį, pareiškimą arba kitokį dokumentą pasirašė jis.
 
 Jeigu
 
@@ -2975,7 +3011,7 @@ straipsnis. Tarptautinės sutartys ir susitarimai
 
 Jeigu
 
-tarptautinė  sutartis arba  susitarimas,  kuriame dalyvauja Lietuvos
+tarptautinė  sutartis arba  susitarimas,  kuriame dalyvauja Lietuvos
 
 Respublika, nustato kitokias notarinių veiksmų taisykles negu tos, kurios yra
 
@@ -3435,9 +3471,9 @@ drausmės bylą, gali:
 
 šios bylos iškėlimo terminas;
 
-4) įpareigoti viešai atsiprašyti
+4) įpareigoti viešai atsiprašyti nukentėjusįjį
 
-nukentėjusįjį arba notaro biuro kolektyvą;
+arba notaro biuro kolektyvą;
 
 5) pareikšti jam pastabą;
 
@@ -3563,11 +3599,11 @@ organizuoja Lietuvos Respublikos teisingumo ministerija kartu su Notarų rūmais
 
 Kandidatas į notarus (asesorius) susipažįsta
 
-su notariniais veiksmais dalyvaudamas rengiant šių veiksmų dokumentus, su organizacine
+su notariniais veiksmais dalyvaudamas rengiant šių veiksmų dokumentus, su
 
-notaro biuro veikla bei kitais klausimais pagal kandidatų į notarus (asesorių)
+organizacine notaro biuro veikla bei kitais klausimais pagal kandidatų į
 
-rengimo programą, kurią tvirtina Notarų rūmų prezidiumas.
+notarus (asesorių) rengimo programą, kurią tvirtina Notarų rūmų prezidiumas.
 
 Kandidatas į notarus (asesorius) neturi
 
@@ -3579,11 +3615,11 @@ saugoti notaro paslaptį.
 
 Kandidatas į notarus (asesorius) privalo
 
-laikytis notaro biure nustatytos darbo tvarkos, nepriekaištingai vykdyti
+laikytis notaro biure nustatytos darbo tvarkos, nepriekaištingai vykdyti notaro,
 
-notaro, kuris vadovauja jo praktikai, pavedimus, elgtis taip, kad nepakenktų
+kuris vadovauja jo praktikai, pavedimus, elgtis taip, kad nepakenktų Lietuvos
 
-Lietuvos Respublikos notariato autoritetui.
+Respublikos notariato autoritetui.
 
 60 straipsnis. Kandidatų į notarus (asesorių)
 
@@ -3599,9 +3635,7 @@ Kandidatams į notarus (asesoriams),
 
 pažeidusiems jiems nustatytas taisykles, notaras, vadovaujantis praktikai, gali
 
-pareikšti pastabą bei pareikalauti nutraukti kandidato į notarus (asesoriaus)
-
-sutartį.
+pareikšti pastabą bei pareikalauti nutraukti kandidato į notarus (asesoriaus) sutartį.
 
 61 straipsnis. Kandidatų į notarus (asesorių)
 
