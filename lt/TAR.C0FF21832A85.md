@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "2001-01-01"
+last_updated: "2002-01-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2002-01-08
+Suvestinė redakcija nuo 2002-01-09 iki 2002-05-03
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -153,11 +153,21 @@ Labdaros ir paramos teikėjų ir gavėjų apmokestinimą Lietuvos Respublikoje n
 
 12 straipsnis. Labdaros ir paramos apskaita
 
-1. Paramos teikėjai, išskyrus fizinius asmenis bei asmenis, nurodytus šio straipsnio 2 dalyje, privalo tvarkyti pagal šį įstatymą teikiamos paramos apskaitą: joje nurodyti duomenis apie konkrečius paramos gavėjus, paramos dalyką ir jo vertę. Paramos teikėjai kiekvieną ketvirtį Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo pateikti teritorinei valstybinei mokesčių inspekcijai ir Statistikos departamentui prie Lietuvos Respublikos Vyriausybės ataskaitas apie suteiktą paramą.
+1. Paramos teikėjai, išskyrus fizinius asmenis bei asmenis, nurodytus šio straipsnio 2 dalyje, privalo tvarkyti pagal šį įstatymą teikiamos paramos apskaitą: joje nurodyti duomenis apie konkrečius paramos gavėjus, paramos dalyką ir jo vertę. Paramos teikėjai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai metinę ataskaitą apie suteiktą paramą.
 
-2. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos teikėjus, kai parama nebuvo gauta anonimiškai, bei vertę ir jos panaudojimą, t. y. įvardyti konkrečius gavėjus, jeigu kaip parama gautos lėšos ar turtas perduotos kitam asmeniui) bei pačių teikiamos paramos ir (arba) labdaros apskaitą (joje nurodyti duomenis apie konkrečius paramos ir (arba) labdaros gavėjus, paramos ir (arba) labdaros dalyką ir jo vertę) ir kiekvieną ketvirtį privalo pateikti teritorinei valstybinei mokesčių inspekcijai ir Statistikos departamentui prie Lietuvos Respublikos Vyriausybės ataskaitas apie gautą paramą ir jos panaudojimą, taip pat apie pačių suteiktą paramą ir (arba) labdarą. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija taip pat nustato anonimiškai gautos paramos apskaitos tvarką.
+2. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos teikėjus, kai parama nebuvo gauta anonimiškai, bei vertę ir jos panaudojimą, t. y. įvardyti konkrečius gavėjus, jeigu kaip parama gautos lėšos ar turtas perduoti kitam asmeniui) bei pačių teikiamos paramos ir (arba) labdaros apskaitą (joje nurodyti duomenis apie konkrečius paramos ir (arba) labdaros gavėjus, paramos ir (arba) labdaros dalyką ir jo vertę) ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai metinę ataskaitą apie gautą paramą ir jos panaudojimą, apie pačių suteiktą paramą ir (arba) labdarą, taip pat apie savo veiklą, susijusią su šio įstatymo 3 straipsnio 3 dalyje nurodytų visuomenei naudingų tikslų įgyvendinimu. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija taip pat nustato anonimiškai gautos paramos apskaitos tvarką.
 
-3. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, per kalendorinius metus šio įstatymo nustatyta tvarka gavę paramą, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka parengia metines ataskaitas apie savo veiklą, susijusią su visuomenei naudingų tikslų, nurodytų šio įstatymo 3 straipsnio 3 dalyje, įgyvendinimu.
+3. Valstybinė mokesčių inspekcija šio straipsnio 1 ir 2 dalyse nurodytose ataskaitose pateiktą informaciją Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Statistikos departamentui prie Lietuvos Respublikos Vyriausybės.
+
+4. Religinės bendruomenės, bendrijos ir centrai pagal šį įstatymą gaunamos paramos apskaitą bei pačių teikiamos paramos ir (arba) labdaros apskaitą tvarko pagal savo kanonus, statutus ir kitas normas. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi teisę teikiamose ataskaitose neatsiskaityti už anonimiškai gautą paramą ir jos panaudojimą, o jeigu per ataskaitinį laikotarpį gauta ir panaudota vien tokia parama – iš viso nepateikti to laikotarpio ataskaitos. Tradicinėms Lietuvos religinėms bendruomenėms, bendrijoms ir centrams, per kalendorinius metus gavusiems paramą vien anonimiškai, netaikomi šio straipsnio 3 dalies reikalavimai dėl metinių ataskaitų pateikimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-680, 2001-12-21, Žin., 2002, Nr. 2-50 (2002-01-09), i. k. 1011010ISTA00IX-680
+
+Straipsnio pakeitimai:
+
+Nr. IX-680, 2001-12-21, Žin., 2002, Nr. 2-50 (2002-01-09), i. k. 1011010ISTA00IX-680
 
 13 straipsnis. Labdaros ir paramos kontrolė
 
@@ -189,7 +199,11 @@ Labdaros ir paramos teikėjų ir gavėjų apmokestinimą Lietuvos Respublikoje n
 
 2) padarė Pinigų plovimo prevencijos įstatymo pažeidimą;
 
-3) Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka neparengė šio įstatymo 12 straipsnio 3 dalyje nurodytos ataskaitos per 2 mėnesius po to, kai buvo apie šį pažeidimą įspėtas;
+3) Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka neparengė šio įstatymo 12 straipsnio 2 dalyje nurodytos ataskaitos per 2 mėnesius po to, kai buvo apie šį pažeidimą įspėtas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-680, 2001-12-21, Žin., 2002, Nr. 2-50 (2002-01-09), i. k. 1011010ISTA00IX-680
 
 4) nuolat pažeidinėja labdaros ir paramos teikimo, gavimo bei panaudojimo reikalavimus ir dėl to kontrolės institucijos jau panaikino jiems mokesčių lengvatas.
 
@@ -242,4 +256,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1811, 2000-07-11, Žin., 2000, Nr. 61-1818 (2000-07-26), i. k. 1001010ISTAIII-1811
 
 Lietuvos Respublikos labdaros ir paramos įstatymo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-680, 2001-12-21, Žin., 2002, Nr. 2-50 (2002-01-09), i. k. 1011010ISTA00IX-680
+
+Lietuvos Respublikos labdaros ir paramos įstatymo 12 ir 15 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
+
+Lietuvos Respublikos labdaros ir paramos įstatymo 1, 3, 5, 10, 12 ir 15 straipsnių papildymo įstatymas
 
