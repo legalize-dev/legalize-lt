@@ -4,7 +4,7 @@ identifier: "TAR.6CADC13B548B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-13"
-last_updated: "2000-04-28"
+last_updated: "2000-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6CADC13B548B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas
+
+Suvestinė redakcija nuo 2000-11-01 iki 2003-04-30
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 35-974, i. k. 1001010ISTAIII-1621
 
 LIETUVOS RESPUBLIKOS
 
@@ -560,7 +564,11 @@ CIVILINEI ADMINISTRACIJAI
 
 Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka kariuomenė, teikdama pagalbą civilinei administracijai, kovinius ginklus naudoja šiais atvejais:
 
-1) kai kariuomenė pasiųsta į pagalbą pasienio policijai, prireikus sustiprinti valstybės sienos apsaugą;
+1) kai kariuomenė pasiųsta į pagalbą Valstybės sienos apsaugos tarnybai, prireikus sustiprinti valstybės sienos apsaugą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-2000, 2000-10-10, Žin., 2000, Nr. 92-2852 (2000-10-31), i. k. 1001010ISTAIII-2000
 
 2) nepaprastosios padėties atveju, kai kariuomenė pasiųsta padėti policijai užkirsti kelią antikonstituciniams smurtiniams veiksmams ar juos sustabdyti;
 
@@ -570,13 +578,17 @@ Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvar
 
 5) esant ypatingoms aplinkybėms, prireikus tam tikram laikui vykdyti teritorijų kontrolę ar sustiprinti valstybinių objektų apsaugą.
 
-31 straipsnis. Kovinių ginklų ir specialiųjų priemonių naudojimo sąlygos, kai kariuomenė pasiųsta į pagalbą pasienio policijai, prireikus sustiprinti valstybės sienos apsaugą
+31 straipsnis. Kovinių ginklų ir specialiųjų priemonių naudojimo sąlygos, kai kariuomenė pasiųsta į pagalbą Valstybės sienos apsaugos tarnybai, prireikus sustiprinti valstybės sienos apsaugą
 
-1. Kai kariuomenė pasiunčiama į pagalbą pasienio policijai, prireikus sustiprinti valstybės sienos apsaugą, išskyrus atvejus, kai karinė jėga naudojama valstybės teritoriniam vientisumui ginti, kariuomenės apginklavimą koviniais ginklais, šaudmenimis ir specialiosiomis priemonėmis įsakymu nustato kariuomenės vadas.
+1. Kai kariuomenė pasiunčiama į pagalbą Valstybės sienos apsaugos tarnybai, prireikus sustiprinti valstybės sienos apsaugą, išskyrus atvejus, kai karinė jėga naudojama valstybės teritoriniam vientisumui ginti, kariuomenės apginklavimą koviniais ginklais, šaudmenimis ir specialiosiomis priemonėmis įsakymu nustato kariuomenės vadas.
 
-2. Valstybės sienos apsaugos operacijoms vadovauja įgaliotas Pasienio policijos departamento pareigūnas, kuris įsakymus kariniams vienetams perduoda per jų vadus (viršininkus).
+2. Valstybės sienos apsaugos operacijoms vadovauja įgaliotas Valstybės sienos apsaugos tarnybos pareigūnas, kuris įsakymus kariniams vienetams perduoda per jų vadus (viršininkus).
 
 3. Karinio vieneto vadas (viršininkas), gavęs valstybės sienos apsaugos operacijai vadovaujančio pareigūno įsakymą, kovinius ginklus ir specialiąsias priemones sau pavaldiems kariams įsako panaudoti laikydamasis įsakymo dėl valstybės sienos apsaugos operacijos, vadovaudamasis šio statuto I skyriaus ketvirtajame skirsnyje nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-2000, 2000-10-10, Žin., 2000, Nr. 92-2852 (2000-10-31), i. k. 1001010ISTAIII-2000
 
 32 straipsnis. Kovinių ginklų ir specialiųjų priemonių naudojimo sąlygos nepaprastosios padėties atveju, kai kariuomenė pasiųsta padėti policijai užkirsti kelią antikonstituciniams smurtiniams veiksmams ar juos sustabdyti
 
@@ -609,4 +621,14 @@ Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvar
 3. Karinių vienetų vadai (viršininkai) nustato teritorijų kontrolės ir objektų apsaugos tvarką ir įsakyme dėl teritorijų kontrolės ir objektų apsaugos organizavimo, vadovaudamiesi šio statuto I skyriaus ketvirtajame skirsnyje nustatyta tvarka, nustato kovinių ginklų ir specialiųjų priemonių naudojimo tvarką.
 
 ______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-2000, 2000-10-10, Žin., 2000, Nr. 92-2852 (2000-10-31), i. k. 1001010ISTAIII-2000
+
+Lietuvos Respublikos kovinių ginklų naudojimo krašto apsaugos sistemoje statuto 30 ir 31 straipsnių pakeitimo įstatymas
 
