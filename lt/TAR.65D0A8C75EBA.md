@@ -4,7 +4,7 @@ identifier: "TAR.65D0A8C75EBA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-04-08"
-last_updated: "1999-01-14"
+last_updated: "1999-02-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.65D0A8C75EBA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,11 +17,11 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė
 
-(1999.01.27)
+(1999.02.24)
 
 Įstatymas paskelbtas: Žin., 1998, Nr.38-1002
 
-Įstatymas paskelbtas
+Neoficialus įstatymo tekstas
 
 Pakeitimai:
 
@@ -57,6 +57,24 @@ LIETUVOS RESPUBLIKOS TEISMŲ
 
 PAKEITIMO ĮSTATYMAS
 
+3.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-1043, 99.02.09,
+
+Žin., 1999, Nr.19-507 (99.02.24)
+
+LIETUVOS RESPUBLIKOS TEISMŲ
+
+ĮSTATYMO 22, 22(1), 28, 77 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR TEISMŲ ĮSTATYMO
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO ĮSTATYMO 1 STRAIPSNIO IR 8
+
+STRAIPSNIO 2 DALIES PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+
 *** pABAIGA ***
 
 LIETUVOS RESPUBLIKOS
@@ -71,27 +89,19 @@ TEISMŲ
 
 Vilnius
 
-1 straipsnis. Kvalifikaciniai reikalavimai
+1 straipsnis.(Neteko
 
-Iki bus įgyvendinti Vyriausybės nustatyti
+galios).
 
-kvalifikaciniai aukštojo teisinio išsilavinimo reikalavimai, numatyti Teismų
+Straipsnio pakeitimai:
 
-įstatymo 22 straipsnio 1 ir 2 dalyse bei 22(1) straipsnio 6 dalyje,
+Nr. VIII-1043, 99.02.09,
 
-šiam išsilavinimui prilyginamas vienpakopis aukštasis teisinis universitetinis
+Žin., 1999, Nr.19-507 (99.02.24)
 
-išsilavinimas. Iki Vyriausybės nustatytų kvalifikacinių aukštojo teisinio
+2 straipsnis. Teisėjų
 
-išsilavinimo reikalavimų, numatytų Teismų įstatymo 22 straipsnio 1 ir 2 dalyse
-
-bei 22(1) straipsnio 6 dalyje, įgyvendinimo įgytas vienpakopis
-
-teisinis universitetinis išsilavinimas laikomas atitinkančiu kvalifikacinius
-
-reikalavimus, kurie yra keliami asmenims, norintiems tapti teisėjais.
-
-2 straipsnis. Teisėjų tarybos suformavimo tvarka
+tarybos suformavimo tvarka
 
 Teisėjų taryba suformuojama ne vėliau kaip per 3
 
@@ -99,9 +109,9 @@ mėnesius nuo Teismų įstatymo pakeitimo ir papildymo įstatymo įsigaliojimo
 
 dienos, papildant ją naujais nariais.
 
-3 straipsnis. Teisėjų garbės teismo suformavimo
+3 straipsnis. Teisėjų garbės
 
-tvarka
+teismo suformavimo tvarka
 
 1. Teisėjų garbės teismas turi būti suformuotas per
 
@@ -112,6 +122,34 @@ tvarka
 būti suformuotas per 2 mėnesius nuo Teismų įstatymo pakeitimo ir papildymo
 
 įstatymo 11 straipsnio įsigaliojimo dienos.
+
+4
+
+straipsnis. Lietuvos apeliacinio teismo ir Lietuvos Aukščiausiojo Teismo
+
+teisėjų skyrimas
+
+1. Iki 2000-ųjų metų Apeliacinio teismo teisėjais
+
+gali būti skiriami apygardų teismų teisėjai ir neturintys 5 metų apygardos
+
+teisėjo darbo stažo.
+
+2. Iki 2000-ųjų metų Lietuvos Aukščiausiojo Teismo
+
+teisėjais gali būti skiriami apygardų teismų teisėjai bei Lietuvos apeliacinio
+
+teismo teisėjai ir neturintys Lietuvos Respublikos teismų įstatymo 24
+
+straipsnio 1 dalies 1 punkte nustatyto apygardos ar Apeliacinio teismo teisėjo
+
+darbo stažo.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1037, 99.01.14,
+
+Žin., 1999, Nr.11-248 (99.01.27)
 
 4 straipsnis.
 
@@ -139,9 +177,9 @@ Nr. VIII-1037, 99.01.14,
 
 Žin., 1999, Nr.11-248 (99.01.27)
 
-5 straipsnis. Lietuvos Aukščiausiojo Teismo statuto
+5 straipsnis. Lietuvos
 
-keitimas
+Aukščiausiojo Teismo statuto keitimas
 
 Lietuvos Aukščiausiasis Teismas per 3 mėnesius nuo
 
@@ -150,6 +188,22 @@ Teismų įstatymo pakeitimo ir papildymo įstatymo įsigaliojimo dienos pateikia
 Lietuvos Respublikos Seimui Lietuvos Aukščiausiojo Teismo statuto pakeitimus,
 
 suderintus su Teismų įstatymo nuostatomis.
+
+6
+
+straipsnis. Teismų įstatymo pakeitimo ir papildymo įstatymo 7, 8, 9, 10, 11 ir
+
+12 straipsnių įsigaliojimas
+
+Teismų įstatymo pakeitimo ir papildymo įstatymo 7,
+
+8, 9, 10, 11 ir 12 straipsniai įsigalioja nuo 1999 m. sausio 1 d.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-912, 98.10.22,
+
+Žin., 1998, Nr.95-2636 (98.10.30)
 
 6 straipsnis.
 
@@ -167,9 +221,9 @@ Nr. VIII-912, 98.10.22,
 
 Žin., 1998, Nr.95-2636 (98.10.30)
 
-7 straipsnis. Teismų departamento prie Teisingumo
+7 straipsnis. Teismų
 
-ministerijos įsteigimas
+departamento prie Teisingumo ministerijos įsteigimas
 
 Teismų departamentas prie Teisingumo ministerijos
 
@@ -177,9 +231,9 @@ Teismų departamentas prie Teisingumo ministerijos
 
 funkcijas atlieka Teisingumo ministerija.
 
-8 straipsnis. Pasiūlymai Lietuvos Respublikos
+8 straipsnis. Pasiūlymai
 
-Vyriausybei
+Lietuvos Respublikos Vyriausybei
 
 1. Lietuvos Respublikos Vyriausybė iki 1998 m.
 
@@ -189,17 +243,17 @@ nuostatus bei teisinių pareigybių, numatytų Teismų įstatymo 22 straipsnio 2
 
 dalyje, sąrašą.
 
-2. Lietuvos Respublikos Vyriausybė, suderinusi su
+2. (Neteko galios).
 
-aukštosiomis mokyklomis, rengiančiomis teisininkus su aukštuoju teisiniu
+Straipsnio pakeitimai:
 
-išsilavinimu, iki 1998 m. liepos 1 d. nustato ir patvirtina aukštojo teisinio
+Nr. VIII-1043, 99.02.09,
 
-išsilavinimo kvalifikacinius reikalavimus, numatytus Teismų įstatymo 22
+Žin., 1999, Nr.19-507 (99.02.24)
 
-straipsnio 1 ir 2 dalyse bei 22(1) straipsnio 6 dalyje.
+9 straipsnis. Pasiūlymas
 
-9 straipsnis. Pasiūlymas teisingumo ministrui
+teisingumo ministrui
 
 Teisingumo ministras iki 1998 m. rugpjūčio 1 d.
 
