@@ -4,7 +4,7 @@ identifier: "TAR.4FB9F4D3ED6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-05-08"
-last_updated: "1999-06-15"
+last_updated: "1999-07-07"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1999.07.07)
+Ramunė Lūžaitė (1999.08.24)
 
 Įstatymas
 
@@ -574,6 +574,20 @@ LIETUVOS RESPUBLIKOS
 
 ĮMONIŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+38.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1305,
+
+99.07.07, Žin., 1999, Nr.66-2122 (99.07.30)
+
+LIETUVOS RESPUBLIKOS
+
+ĮMONIŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -760,7 +774,9 @@ Lietuvos Respublikoje gali veikti šios
 
 2) tikrosios ūkinės bendrijos;
 
-3) komanditinės (pasitikėjimo) ūkinės bendrijos;
+3) komanditinės (pasitikėjimo) ūkinės
+
+bendrijos;
 
 4) akcinės bendrovės, uždarosios akcinės
 
@@ -926,9 +942,9 @@ Komanditinės
 
 įstatymo reglamentuoja Lietuvos Respublikos civilinis kodeksas, Lietuvos
 
-Respublikos ūkinių bendrijų įstatymas bei bendrosios jungtinės veiklos
+Respublikos ūkinių bendrijų įstatymas bei bendrosios jungtinės veiklos sutartis,
 
-sutartis, kuria steigiama komanditinė (pasitikėjimo) ūkinė bendrija.
+kuria steigiama komanditinė (pasitikėjimo) ūkinė bendrija.
 
 10
 
@@ -936,9 +952,9 @@ straipsnis. Akcinė bendrovė, uždaroji akcinė bendrovė ir
 
 investicinė bendrovė
 
-Akcinė bendrovė, uždaroji akcinė bendrovė ir investicinė bendrovė yra ribotos
+Akcinė bendrovė, uždaroji akcinė bendrovė ir investicinė bendrovė yra ribotos turtinės
 
-turtinės atsakomybės įmonės, turinčios juridinio asmens teises, kurių įstatinis
+atsakomybės įmonės, turinčios juridinio asmens teises, kurių įstatinis
 
 (nuosavas) kapitalas yra padalytas į dalis - akcijas.  Akcininkai yra akcinės
 
@@ -2722,9 +2738,9 @@ nustatyti  dokumentai  arba šie dokumentai  neatitinka  įstatymo  nustaty
 
 reikalavimų. Atsisakymas  įregistruoti  įmonę  kitokiais  motyvais  yra
 
-neteisėtas. Apie sprendimą įmonės neįregistruoti atitinkamas organas per 3 dienas
+neteisėtas. Apie sprendimą įmonės neįregistruoti atitinkamas organas per 3
 
-privalo raštu pranešti įmonės steigėjui.
+dienas privalo raštu pranešti įmonės steigėjui.
 
 Atsisakymas
 
@@ -2832,9 +2848,9 @@ prievolės, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo
 
 biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės
 
-institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki
+institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos
 
-reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka.
+įmonės išregistravimo įstatymų nustatyta tvarka.
 
 Įmonę
 
@@ -3380,9 +3396,7 @@ komanditinė (pasitikėjimo) ūkinė bendrija.
 
 Valstybės įmonė yra juridinio asmens teises
 
-turinti įmonė, kurios visas turtas nuosavybės teise priklauso Lietuvos
-
-Respublikai.
+turinti įmonė, kurios visas turtas nuosavybės teise priklauso Lietuvos Respublikai.
 
 Savivaldybės įmonė yra juridinio asmens
 
@@ -4688,11 +4702,11 @@ draudžiama skolintis pinigų iš fizinių asmenų, išskyrus Lietuvos Respublik
 
 įstatymų nustatytus atvejus ir būdus.
 
-Komercinės-ūkinės veiklos sritis, kuriose
+Komercinės-ūkinės
 
-draudžiama užsienio kilmės kapitalo investicija, nustato Užsienio kapitalo
+veiklos sritis, kuriose neleidžiamos užsienio investicijos, nustato Lietuvos
 
-investicijų Lietuvos Respublikoje įstatymas.
+Respublikos investicijų įstatymas.
 
 Laisvųjų ekonominių zonų įmonių veiklos
 
@@ -4750,6 +4764,10 @@ Nr. VIII-936,
 
 98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
 
+Nr. VIII-1305,
+
+99.07.07, Žin., 1999, Nr.66-2122 (99.07.30)
+
 13
 
 straipsnis. Licencijų išdavimas
@@ -4772,11 +4790,13 @@ yra narkotinių, psichotropinių, stipriai veikiančių ir nuodingųjų medžiag
 
 taip pat gaminti, importuoti, eksportuoti narkotines, psichotropines medžiagas,
 
-prekursorius ir užsiimti jų didmenine bei mažmenine prekyba Lietuvos Respublikoje;
+prekursorius ir užsiimti jų didmenine bei mažmenine prekyba Lietuvos
 
-4) gaminti alkoholio produktus, kuriuose
+Respublikoje;
 
-tūrinė etilo alkoholio koncentracija yra ne daugiau kaip 22 procentai;
+4) gaminti alkoholio produktus, kuriuose tūrinė
+
+etilo alkoholio koncentracija yra ne daugiau kaip 22 procentai;
 
 5) teikti sveikatos priežiūros paslaugas,
 
@@ -5078,13 +5098,13 @@ Respublikos valstybės ir savivaldybės įmonių bei Akcinių bendrovių įstaty
 
 numatytus  atvejus,  kai  šie organai yra valstybės įmonių steigėjai ar
 
-specialios paskirties akcinių ar uždarųjų akcinių bendrovių akcininkai, taip
+specialios paskirties akcinių ar uždarųjų akcinių bendrovių akcininkai, taip pat
 
-pat kai įstatymų nustatyta tvarka įmonei  už  teisės pažeidimus taikomas
+kai įstatymų nustatyta tvarka įmonei  už  teisės pažeidimus taikomas specialus
 
-specialus priežiūros režimas ar bankroto bei kitais įstatymų numatytais
+priežiūros režimas ar bankroto bei kitais įstatymų numatytais atvejais
 
-atvejais skiriamas įmonės likvidatorius.
+skiriamas įmonės likvidatorius.
 
 Visos
 
@@ -5112,9 +5132,9 @@ gali gauti valstybės centralizuota tvarka skiriamų (parduodamų) finansinių,
 
 medžiaginių ir kitokių vertybių už valstybės  patvirtintą  arba  sutartinę
 
-kainą ir už įmonės prisiimamus atitinkamus sutartinius įsipareigojimus valstybės
+kainą ir už įmonės prisiimamus atitinkamus sutartinius įsipareigojimus
 
-(vietos savivaldybės) organui.
+valstybės (vietos savivaldybės) organui.
 
 Įmonė privalo turėti valstybės institucijų
 
@@ -5140,9 +5160,9 @@ Nr.
 
 I-1600, 96.10.22, Žin., 1996, Nr.106-2430 (96.11.06)
 
-Nr. VIII-422,
+Nr. VIII-422, 97.09.25,
 
-97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Žin., 1997, Nr.96-2419 (97.10.24)
 
 15
 
