@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2001-12-13"
+last_updated: "2002-03-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -6065,9 +6065,9 @@ straipsnio įgyvendinimas
 
 tarnautojų registrą.
 
-2. Po šio
+2. Po šio įstatymo
 
-įstatymo įsigaliojimo Valstybės tarnautojų registras 3 metus tvarkomas pagal už
+įsigaliojimo Valstybės tarnautojų registras 3 metus tvarkomas pagal už
 
 valstybės tarnybą atsakingo ministro patvirtintus laikinuosius nuostatus.
 
@@ -6105,9 +6105,9 @@ tarnautojų statuso pagrindų įstatymo projektą;
 
 atlieka galiojančių įstatymų, statutų, kitų teisės aktų, susijusių su
 
-statutinių valstybės tarnautojų tarnybos ypatumais, ekspertizę ir pateikia
+statutinių valstybės tarnautojų tarnybos ypatumais, ekspertizę ir pateikia Seimui
 
-Seimui jų pakeitimų ir papildymų projektus;
+jų pakeitimų ir papildymų projektus;
 
 4) per 3 metus
 
@@ -6195,15 +6195,15 @@ atidėjimo įstatymas
 
 įstatymo įsigaliojimo priimti teisės aktai, reglamentuojantys valstybės
 
-tarnautojų priėmimą į pareigas valstybės tarnyboje, profesionalumo vertinimą
+tarnautojų priėmimą į pareigas valstybės tarnyboje, profesionalumo vertinimą (atestaciją),
 
-(atestaciją), darbo užmokestį, kiti su valstybės tarnyba susiję teisės aktai,
+darbo užmokestį, kiti su valstybės tarnyba susiję teisės aktai, išskyrus
 
-išskyrus nurodytus šio straipsnio 1 dalyje, galioja tol, kol bus priimti
+nurodytus šio straipsnio 1 dalyje, galioja tol, kol bus priimti atitinkami juos
 
-atitinkami juos pakeičiantys ir šį įstatymą įgyvendinantys teisės aktai, bet ne
+pakeičiantys ir šį įstatymą įgyvendinantys teisės aktai, bet ne ilgiau negu
 
-ilgiau negu numatyta šio įstatymo 78 straipsnyje.
+numatyta šio įstatymo 78 straipsnyje.
 
 3. Iki bus
 
@@ -6607,9 +6607,7 @@ priedėlis
 
 VIEŠOJO
 
-ADMINISTRAVIMO - ĮSTAIGŲ VADOVŲ IR KARJEROS - VALSTYBĖS TARNAUTOJŲ TIPINIŲ
-
-PAREIGYBIŲ
+ADMINISTRAVIMO - ĮSTAIGŲ VADOVŲ IR KARJEROS - VALSTYBĖS TARNAUTOJŲ TIPINIŲ PAREIGYBIŲ
 
 KATEGORIJOS
 
@@ -6755,9 +6753,9 @@ Skyriaus viršininkas
 
 27-28
 
-Vyriausiasis kontrolierius,
+Vyriausiasis kontrolierius, vyriausiasis
 
-vyriausiasis specialistas
+specialistas
 
 25-26
 
@@ -7709,9 +7707,9 @@ vyresnysis inspektorius
 
 17–21
 
-Specialistas, inspektorius,
+Specialistas,
 
-pamainos vadas
+inspektorius, pamainos vadas
 
 15–20
 
@@ -8421,13 +8419,31 @@ VALSTYBĖS
 
 TARNYBOS ĮSTATYMO 2 PRIEDĖLIO PAKEITIMO ĮSTATYMAS
 
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-797,
+
+2002-03-21, Žin., 2002, Nr. 33-1249 (2002-03-30)
+
+VALSTYBĖS
+
+TARNYBOS ĮSTATYMO 69 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo 2002 m.
+
+balandžio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-01-03)
+Aušrinė Trapinskienė (2002-04-02)
 
 autrap@lrs.lt
 
