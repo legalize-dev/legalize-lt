@@ -4,7 +4,7 @@ identifier: "TAR.A52415BA2085"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2001-04-19"
+last_updated: "2001-06-26"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085"
 department: "Lietuvos Respublikos Seimas"
@@ -2898,11 +2898,9 @@ TVARKA
 
 bankroto procedūra
 
-Banko bankroto procedūra -
+Sąlygas, kurioms esant bankas gali būti
 
-tai banko administratoriaus paskyrimas, banko reorganizavimas ar sanavimas,
-
-norint išvengti jo bankroto, taip pat bankrutavusio banko likvidavimas.
+pripažįstamas nemokiu, nustato Lietuvos bankas.
 
 Bankui taikomas Lietuvos
 
@@ -2922,6 +2920,14 @@ iškėlimą, jos eigą ir banke atliekamą bankroto procedūrą turi būti pažy
 
 įmonių rejestre.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
+
+60-2140 (2001-07-11)
+
 45 straipsnis. Banko
 
 bankroto bylos iškėlimo sąlygos
@@ -2934,13 +2940,13 @@ visuotinio akcininkų susirinkimo nutarimą ar kreditorių pareiškimą, tik jei
 
 yra Lietuvos banko išvada apie banko nemokumą.
 
-46 straipsnis. Banko
+46 straipsnis. Banko bankroto
 
-bankroto bylos iškėlimas teisme
+bylos iškėlimas teisme
 
-Banko bankroto bylą iškelia vietovės,
+Banko bankroto bylą iškelia
 
-kurioje yra banko buveinė, teismas.
+vietovės, kurioje yra banko buveinė, teismas.
 
 Teismas, gavęs pareiškimą,
 
@@ -2986,12 +2992,6 @@ kodekso nustatyta tvarka. Skundo padavimas nesustabdo banko bankroto bylos
 
 eigos.
 
-Nutraukus banko bankroto
-
-bylą dėl reorganizavimo ar sanavimo, apie tai pranešama rejestro tvarkytojui
-
-bei viešai paskelbiama.
-
 Teismui iškėlus banko
 
 bankroto bylą:
@@ -3015,6 +3015,14 @@ administratoriaus veiklai banko bankroto bylos nagrinėjimo metu užtikrinti;
 3) sustabdomas palūkanų
 
 skaičiavimas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
+
+60-2140 (2001-07-11)
 
 47 straipsnis. Banko
 
@@ -3044,9 +3052,11 @@ banko korespondentinę sąskaitą, esančią Lietuvos banke, arba uždrausti atl
 
 mokėjimus iš jų;
 
-2) sudaryti banko skolininkų
+2) per 6 mėnesius nuo teismo nutarties
 
-sąrašą ir pateikti jį teismui;
+iškelti bankui bankroto bylą įsiteisėjimo dienos sudaryti banko kreditorių ir
+
+jų reikalavimų sąrašą bei banko skolininkų sąrašą ir juos pateikti teismui;
 
 3) užfiksuoti indėlius
 
@@ -3058,15 +3068,13 @@ bankroto byla;
 
 paskolas ir aktyvus užsienio valiuta į litus;
 
-5) apie administravimo eigą
+5) apie administravimo eigą ir rezultatus
 
-ir rezultatus atsiskaityti teismui ir Lietuvos bankui per jų nustatytus
+atsiskaityti teismui ir Lietuvos bankui per jų nustatytus terminus ir jų
 
-terminus ir jų nustatyta tvarka.
+nustatyta tvarka;
 
-6) Lietuvos bankui pritarus
-
-siūlyti teismui sanuoti, reorganizuoti ar likviduoti banką.
+6) siūlyti teismui likviduoti banką.
 
 Banko
 
@@ -3096,17 +3104,15 @@ daliai ir už kiekvieną prastovos valandą mokamas Vyriausybės patvirtintas
 
 minimalus valandinis atlygis.
 
-Bankas, kuriam iškelta
+Bankas, kuriam iškelta bankroto
 
-bankroto byla, atleidžiamas nuo žyminio mokesčio bylose dėl turto išieškojimo.
+byla, atleidžiamas nuo žyminio mokesčio bylose dėl turto išieškojimo.
 
 Iškėlus banko bankroto bylą
 
 ir dėl to sustabdžius bylas dėl kreditorių pinigų išieškojimo, kreditoriams
 
-(ieškovams) iš valstybės biudžeto lėšų grąžinamas jų sumokėtas žyminis
-
-mokestis.
+(ieškovams) iš valstybės biudžeto lėšų grąžinamas jų sumokėtas žyminis mokestis.
 
 Straipsnio
 
@@ -3121,6 +3127,10 @@ I-1295,
 Nr. IX-187,
 
 2001 02 20, Žin., 2001, Nr. 21-695 (2001 03 09)
+
+Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
+
+60-2140 (2001-07-11)
 
 48 straipsnis. Banko
 
@@ -3140,9 +3150,9 @@ atlygina nuostolius, kurie atsirado vykdant nepatvirtintus šio straipsnio
 
 pirmojoje dalyje išvardytus sprendimus.
 
-49 straipsnis. Kreditorių teisės,
+49 straipsnis. Kreditorių
 
-teismui iškėlus banko bankroto bylą
+teisės, teismui iškėlus banko bankroto bylą
 
 Teismui iškėlus banko
 
@@ -3162,163 +3172,181 @@ pateikti dėl svarbių priežasčių pažeidus šio straipsnio pirmojoje dalyje
 
 nustatytą terminą.
 
-50 straipsnis.
+50 straipsnis. Neteko galios
 
-Bankrutuojančio banko sanavimas
+Straipsnio
 
-Bankrutuojančio banko
+pakeitimai:
 
-sanavimas - tai banko savininkų (akcininkų), kreditorių ar trečiųjų asmenų
+Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 
-bankui taikomos ekonominės ir finansinės priemonės, kad būtų galima išvengti jo
+60-2140 (2001-07-11)
 
-likvidavimo.
+51 straipsnis. Neteko galios
 
-Bankrutuojančiam bankui
+Straipsnio
 
-taikomos sanavimo sąlygos yra nustatytos Lietuvos Respublikos įmonių bankroto
+pakeitimai:
 
-įstatymo 23 straipsnyje.
+Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 
-51 straipsnis. Banko
+60-2140 (2001-07-11)
 
-administratoriaus funkcijų atlikimas sanavimo metu
+52 straipsnis. Neteko galios
 
-Sanavimo metu banko
+Straipsnio
 
-administratoriaus funkcijas atlieka teismo paskirtas banko administratorius.
+pakeitimai:
 
-52 straipsnis. Banko
+Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 
-sanavimo nutraukimas ir baigimas
-
-Jeigu banko sanavimas yra
-
-neefektyvus ar įsipareigoję sanuoti asmenys nevykdo savo įsipareigojimų,
-
-sanavimas nutraukiamas teismo sprendimu, pasiūlius banko administratoriui ir
-
-suderinus su Lietuvos banku.
-
-Banko sanavimas baigiamas
-
-teismo sprendimu, pasiūlius banko administratoriui ir suderinus su Lietuvos
-
-banku, jei pritaikius sanavimo priemones bankas gali atsiskaityti pagal
-
-prisiimtus įsipareigojimus.
+60-2140 (2001-07-11)
 
 53 straipsnis.
 
 Bankrutavusio banko likvidavimas
 
-Teismas banko
+Teismas,
 
-administratoriaus siūlymu ir Lietuvos banko pritarimu priima sprendimą
+išnagrinėjęs banko bankroto bylą ir pripažinęs banką bankrutavusiu, banko
 
-pripažinti banką bankrutavusiu ir pradėti jo likvidavimo procedūrą, jeigu
+administratoriaus siūlymu priima nutartį likviduoti banką dėl bankroto ne
 
-bankui įstatymų nustatytais terminais netaikomas reorganizavimas ar sanavimas
+vėliau kaip per 3 mėnesius nuo nutarties patvirtinti kreditorių reikalavimus
 
-arba banko reorganizavimas ar sanavimas nutraukiamas.
+įsiteisėjimo dienos. Teismas gali šį terminą pratęsti, jeigu to prašo banko
 
-Teismo
+administratorius.
 
-sprendimas pradėti bankrutavusio banko likvidavimo procedūrą gali būti
+Teismo nutartis
 
-apskųstas įstatymų nustatyta tvarka.
+likviduoti banką dėl bankroto gali būti apskųsta įstatymų nustatyta tvarka.
 
 Bankrutavęs
 
-bankas gali būti likviduotas tik praėjus 6 mėnesiams nuo sprendimo pradėti jo
+bankas gali būti išregistruotas ne anksčiau kaip praėjus vienam mėnesiui nuo
 
-likvidavimo procedūrą priėmimo dienos.
+teismo nutarties likviduoti banką dėl bankroto įsiteisėjimo dienos.
 
 Teismas,
 
-priimdamas sprendimą pradėti banko likvidavimo procedūrą, banko likvidatoriumi
+priimdamas nutartį likviduoti banką dėl bankroto, banko likvidatoriumi skiria
 
-skiria banko administratorių ar kitą asmenį.
+banko administratorių ar kitą asmenį.
 
 Likvidatorius
 
-organizuoja bankrutavusio banko turto pardavimą ir šio įstatymo nustatyta
+privalo organizuoti bankrutavusio banko turto pardavimą ir šio įstatymo
 
-tvarka tenkina kreditorių reikalavimus bei įstatymų nustatyta tvarka atlieka
+nustatyta tvarka tenkinti kreditorių reikalavimus bei įstatymų nustatyta tvarka
 
-kitus būtinus veiksmus banko likvidavimo procedūrai užbaigti.
+atlikti kitus būtinus veiksmus baigti banko likvidavimo procedūrą.
 
-Išlaidų,
+Išlaidų, reikalingų likvidatoriaus veiklai užtikrinti,
 
-reikalingų likvidatoriaus veiklai užtikrinti, sąmatą tvirtina bei keičia
+sąmatą tvirtina ir keičia teismas likvidatoriaus teikimu. Šioje sąmatoje
 
-teismas likvidatoriaus teikimu. Šioje sąmatoje patvirtintos išlaidos dengiamos
+patvirtintos išlaidos dengiamos iš pajamų, gautų pardavus banko turtą, ir iš
 
-iš pajamų, gautų pardavus bankrutuojančio banko turtą, ir iš lėšų, išreikalautų
+lėšų, išreikalautų iš banko skolininkų.
 
-iš banko skolininkų.
+Likviduojamo banko turtas, įskaitant reikalavimo
 
-Likviduojamo
+teises, parduodamas varžytynėse, išskyrus kitų įmonių akcijas ir kitus
 
-banko turtas parduodamas varžytynėse.
+vertybinius popierius, kurie įregistruoti Vertybinių popierių komisijoje ir
+
+kuriuos turi likviduojamas bankas. Šis turtas parduodamas vertybinių popierių
+
+apyvartą reglamentuojančių teisės aktų nustatyta tvarka.
 
 Reikalavimo teises (skolas bankui), kurių dėl
 
 galiojančių sutarčių, skolininko nemokumo arba dėl kitų priežasčių negalima
 
-išreikalauti įvykdyti iki banko likvidavimo pabaigos, likvidatorius perduoda
+išreikalauti įvykdyti iki banko likvidavimo pabaigos, taip pat antrosiose
 
-kreditoriams šių reikalavimams tenkinti, vadovaudamasis šio įstatymo 54
+(pakartotinėse) varžytynėse neparduotą turtą, įskaitant reikalavimo teises, likvidatorius
 
-straipsnyje nustatyta eile. Jeigu pirmesnės eilės kreditoriai atsisako, šios
+gali perduoti kreditoriams šių reikalavimams tenkinti vadovaudamasis šio
 
-teisės gali būti perduotos paskesnės eilės kreditoriams. Jeigu kreditoriai
+įstatymo 54 straipsnyje nustatyta eile. Šis turtas, įskaitant reikalavimo
 
-atsisako perimti reikalavimo teises, jos neatlygintinai perduodamos valstybės
+teises, gali būti perduotas paskesnės eilės kreditoriams, jeigu pirmesnės eilės
 
-įmonei Indėlių draudimo fondui ar kitai Vyriausybės nustatytai institucijai.
+kreditoriai nustatyta tvarka nepateikia prašymų, kad šiuo būdu būtų tenkinami
 
-Valstybės įmonei Indėlių draudimo fondui reikalavimo teises perduoti gali tik
+jų reikalavimai. Apie turto, įskaitant reikalavimo teises, perdavimą
 
-toks likviduojamas bankas, kuris buvo apdraudęs indėlius Lietuvos Respublikos
+kreditoriams skelbiama viešai arba kiekvienam kreditoriui pranešama raštu,
 
-gyventojų indėlių draudimo įstatymo ir (ar) Lietuvos Respublikos indėlių
+nurodant terminą, per kurį kreditoriai turi teisę raštu pateikti prašymus
 
-draudimo įstatymo nustatyta tvarka.
+perimti turtą, įskaitant reikalavimo teises. Jeigu per 24 mėnesius nuo teismo
 
-Prieš kiekvieną
+nutarties likviduoti banką dėl bankroto įsiteisėjimo dienos lieka neparduoto ir
 
-atsiskaitymą su kreditoriais banko likvidatorius pateikia teismui tvirtinti
+kreditoriams neperduoto banko turto, likvidavimo procedūra laikoma baigta. Likusios
 
-atsiskaitymų su kreditoriais planą, kuriame turi būti nurodyti atsiskaitymo
+neparduotos ir kreditorių neperimtos reikalavimo teisės neatlygintinai
 
-terminai, išmokėtinų sumų dydžiai ir kreditorių reikalavimų tenkinimo mastas
+perduodamos valstybės įmonei Indėlių draudimo fondui ar kitai Vyriausybės
 
-perduodant kreditoriams reikalavimo teises (skolas bankui).
+nustatytai institucijai. Valstybės įmonei Indėlių draudimo fondui reikalavimo
 
-Banko
+teises perduoti gali tik toks likviduojamas bankas, kuris buvo apdraudęs
 
-likvidatorius, pardavęs visą galimą parduoti banko turtą, pateikia teismui
+indėlius Lietuvos Respublikos gyventojų indėlių draudimo įstatymo ir (ar)
+
+Lietuvos Respublikos indėlių draudimo įstatymo nustatyta tvarka. Kitas turtas,
+
+kaip neturintis rinkos vertės, nurašomas ir panaudojamas arba sunaikinamas
+
+vadovaujantis likvidatoriaus parengta ir teismo patvirtinta tvarka. Nurašytas
+
+nekilnojamasis turtas per 30 dienų nuo jo nurašymo dienos pagal perdavimo aktą
+
+neatlygintinai perduodamas savivaldybei, kurios teritorijoje yra šis turtas.
+
+Prieš kiekvieną atsiskaitymą su kreditoriais banko
+
+likvidatorius pateikia teismui tvirtinti atsiskaitymų su kreditoriais planą.
+
+Jame turi būti nurodyti atsiskaitymo terminai, išmokėtinų sumų dydžiai ir
+
+kreditorių reikalavimų tenkinimo mastas perduodant kreditoriams turtą,
+
+įskaitant reikalavimo teises.
+
+Banko likvidatorius, pardavęs (perdavęs) visą galimą
+
+parduoti (perduoti) banko turtą, įskaitant reikalavimo teises, pateikia teismui
 
 tvirtinti galutinį atsiskaitymo su kreditoriais planą.
 
 Baigęs
 
-atsiskaityti su kreditoriais, likvidatorius pateikia teismui likvidacinį
+atsiskaityti su kreditoriais pagal galutinį atsiskaitymo su kreditoriais planą,
 
-balansą ir likvidavimo ataskaitą, kurioje turi būti nurodyta, kokia tvarka ir
+likvidatorius pateikia teismui likvidacinę balansinę ataskaitą ir likvidavimo
 
-kokiu mastu buvo patenkinti kreditorių reikalavimai, bei siūlo teismui priimti
+ataskaitą, kurioje turi būti nurodyta, kokia tvarka bei kokiu mastu buvo
 
-nutartį baigti banko likvidavimą ir jį išregistruoti iš įmonių rejestro.
+patenkinti kreditorių reikalavimai, taip pat likusio turto nurašymo,
+
+panaudojimo arba perdavimo aktus ir siūlo teismui priimti sprendimą dėl banko
+
+pabaigos.
 
 Jeigu
 
 atsiskaitant su kreditoriais lieka kreditorių, kurie neatsiėmė jiems
 
-priklausančios turto dalies, likvidatorius, prieš siūlydamas teismui skelbti
+priklausančių lėšų, likvidatorius, prieš pradėdamas tenkinti paskesnės eilės
 
-banko likvidavimo pabaigą, perveda šias nepareikalautas lėšas į notarų biuro depozitą
+kreditorių reikalavimus ar siūlydamas teismui priimti sprendimą dėl banko
+
+pabaigos, perveda šias nepareikalautas lėšas į notarų biuro depozitinę sąskaitą
 
 kreditoriaus vardu.
 
@@ -3326,15 +3354,15 @@ Teismas,
 
 nustatęs, kad neliko likviduojamo banko turto, iš kurio būtų galima tenkinti
 
-kreditorių reikalavimus, patvirtina likvidavimo ataskaitą ir priima nutartį
+kreditorių reikalavimus, patvirtina likvidavimo ataskaitą ir priima sprendimą
 
-baigti banko likvidavimą. Teismo nutartis yra pagrindas išregistruoti banką iš
+dėl banko pabaigos. Teismo sprendimas yra pagrindas išregistruoti banką iš
 
-įmonių rejestro.
+juridinių asmenų registro.
 
-Bankas laikomas
+Bankas
 
-likviduotu, kai jis išregistruojamas iš įmonių rejestro.
+pasibaigia nuo jo išregistravimo iš juridinių asmenų registro dienos.
 
 Straipsnio
 
@@ -3354,15 +3382,29 @@ Nr. IX-193,
 
 2001 02 27, Žin., 2001, Nr. 23-761 (2001 03 16)
 
-53(1) straipsnis.
+Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 
-Atlyginimas įkaito turėtojui
+60-2140 (2001-07-11)
 
-Įkaito turėtojui atlyginama
+53(1) straipsnis. Atlyginimas įkaito turėtojui
 
-iš lėšų, gautų pardavus įkeistą banko turtą. Šių lėšų likutis skiriamas
+Įkeitimu ir
 
-kreditorių reikalavimams tenkinti 54 straipsnyje nustatyta tvarka.
+(arba) hipoteka užtikrinti kreditoriaus reikalavimai tenkinami pirmiausia iš lėšų,
+
+gautų pardavus įkeistą banko turtą, arba perduodant įkeistą turtą. Jei įkeistas
+
+turtas parduodamas už didesnę kainą, negu įkeitimu ir (arba) hipoteka
+
+užtikrintų reikalavimų suma, šių lėšų skirtumas skiriamas kitų kreditorių
+
+reikalavimams tenkinti 54 straipsnyje nustatyta tvarka. Įkaito turėtojui
+
+atsisakius perimti įkeistą turtą ar iki galo nepatenkinus jo įkeitimu
+
+užtikrinto reikalavimo iš įkeisto turto, šie įkaito turėtojo reikalavimai
+
+tenkinami šio įstatymo 54 straipsnyje nustatyta eile ir tvarka.
 
 Įstatymas
 
@@ -3371,6 +3413,10 @@ papildytas straipsniu:
 Nr. VIII-295,
 
 97.06.24, Žin., 1997, Nr.66-1595 (97.07.11)
+
+Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
+
+60-2140 (2001-07-11)
 
 54 straipsnis.
 
@@ -3418,11 +3464,11 @@ tenkinamas tik 5000 litų ir išmokėtos kompensacijos sumos skirtumas.
 
 Penktąja
 
-eile tenkinami kiti banko kreditorių, išskyrus nurodytus šio straipsnio
+eile tenkinami kiti banko kreditorių, išskyrus nurodytus šio straipsnio antrojoje,
 
-antrojoje, trečiojoje, ketvirtojoje, penktojoje, septintojoje, aštuntojoje ir
+trečiojoje, ketvirtojoje, penktojoje, septintojoje, aštuntojoje ir devintojoje
 
-devintojoje dalyse, reikalavimai.
+dalyse, reikalavimai.
 
 Šeštąja
 
