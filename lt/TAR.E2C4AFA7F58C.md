@@ -4,7 +4,7 @@ identifier: "TAR.E2C4AFA7F58C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-23"
-last_updated: "1994-12-07"
+last_updated: "1994-12-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2C4AFA7F58C"
 department: "Lietuvos Respublikos Seimas"
@@ -89,6 +89,50 @@ BIUDŽETUS
 
 NORMATYVŲ BEI DOTACIJŲ" PAKEITIMO
 
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-697, 94.12.13, Žin., 1994, Nr.99-1962 (94.12.23)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS RESPUBLIKOS
+
+1994
+
+METŲ VALSTYBĖS BIUDŽETO IR ATSKAITYMŲ Į SAVIVALDYBIŲ
+
+BIUDŽETUS
+
+NORMATYVŲ BEI DOTACIJŲ" PAKEITIMO
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-717, 94.12.20, Žin., 1994, Nr.99-1963 (94.12.23)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS RESPUBLIKOS
+
+1994
+
+METŲ VALSTYBĖS BIUDŽETO IR ATSKAITYMŲ Į SAVIVALDYBIŲ
+
+BIUDŽETUS
+
+NORMATYVŲ BEI DOTACIJŲ" PAKEITIMO
+
 ***
 
 Pabaiga ***
@@ -101,9 +145,7 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-DĖL
-
-LIETUVOS RESPUBLIKOS 1994 METŲ VALSTYBĖS BIUDŽETO
+DĖL LIETUVOS RESPUBLIKOS 1994 METŲ VALSTYBĖS BIUDŽETO
 
 IR ATSKAITYMŲ Į SAVIVALDYBIŲ BIUDŽETUS
 
@@ -271,7 +313,7 @@ Kitos
 
 nemokestinės pajamos
 
-iš viso                                               103608
+iš viso                                               103608
 
 iš jų:
 
@@ -289,9 +331,7 @@ __________________________________________________
 
 Iš viso pajamų                   2782322
 
-I
-
-Š L A I D O S
+I Š L A I D O S
 
 (tūkst. Lt)
 
@@ -341,7 +381,7 @@ iš jų - Baltijos Asamblėja    200       200
 
 Seimo
 
-kontrolieriai                192       192       269
+kontrolieriai                192       10        7    182
 
 Konstitucinis
 
@@ -349,7 +389,7 @@ Teismas              1957      1846      738  111
 
 Aplinkos
 
-apsaugos departamentas    11778     11223     3256 555
+apsaugos departamentas    11778     11223     3256 555
 
 Valstybės
 
@@ -383,7 +423,7 @@ ministerija                43857     43307     25457 550
 
 Krašto
 
-apsaugos ministerija        130242    103678   47572 26564
+apsaugos ministerija        130242    103678   47572 26564
 
 Kultūros
 
@@ -433,7 +473,7 @@ iš jų: valstybės įmokos
 
 tarptautinėms
 
-organizacijoms         41820     41820
+organizacijoms         41820     41820
 
 Lietuvos diplomatinės
 
@@ -447,7 +487,7 @@ reikalų ministerija         243660    225350  122739 18310
 
 Žemės
 
-ūkio ministerija             292396    274969   17482 17427
+ūkio ministerija             292396    274969   17482 17427
 
 II. Departamentai, tarnybos ir inspekcijos
 
@@ -469,7 +509,7 @@ prie Vidaus
 
 reikalų
 
-ministerijos               38807     28612   19515  10195
+ministerijos               38807     28612   19515  10195
 
 Lietuvos
 
@@ -493,7 +533,7 @@ Vidaus reikalų ministerijos   4526      4077      2578 449
 
 Statistikos
 
-departamentas          5441      5422      2288 19
+departamentas          5441      5422      2288 19
 
 Tautybių
 
@@ -513,7 +553,7 @@ technikos priežiūros
 
 tarnyba
 
-641       616       328  25
+641       616       328  25
 
 Valstybinė
 
@@ -653,7 +693,7 @@ popierių komisija       472       419       181  53
 
 Apsaugos
 
-tarnyba                   2940      1872      1285 1068
+tarnyba                   2940      1872      1285 1068
 
 Valstybinė
 
@@ -673,7 +713,7 @@ Valstybinė
 
 "Vilniaus
 
-aerouostas"              7740                     7740
+aerouostas"              7740                     7740
 
 Valstybinė
 
@@ -697,7 +737,7 @@ valstybinė tiltų
 
 kelių
 
-inspekcija                   47        47        27
+inspekcija                   47        47        27
 
 Vandens
 
@@ -745,7 +785,7 @@ direkcija                    98359     82059     273�
 
 Lietuvos
 
-jūrų uostų direkcija      220                      220
+jūrų uostų direkcija      220                      220
 
 Valstybinė
 
@@ -791,7 +831,9 @@ geležinkelio
 
 direkcija             114       64        44   50
 
-Žemės ūkio ministerijos
+Žemės
+
+ūkio ministerijos
 
 reguliavimo sritis
 
@@ -841,7 +883,7 @@ valstybinė
 
 utilizacijos
 
-įmonė                 689       689
+įmonė                 689       689
 
 Aplinkos apsaugos departamento
 
@@ -917,7 +959,9 @@ valstybinė gamykla
 
 Valstybinės veterinarijos tarnybos
 
-reguliavimo sritis
+reguliavimo
+
+sritis
 
 Ukmergės
 
@@ -955,7 +999,7 @@ prokuratūros           16785     14445     8275 2340
 
 Teismai
 
-24842     23051    11296 1791
+24842     22351    10796 2491
 
 Valstybinis
 
@@ -999,7 +1043,7 @@ rezistencijos
 
 tyrimo
 
-centras                     439       406       221  33
+centras                     439       406       221  33
 
 iš jų -   Rezistencijos
 
@@ -1017,7 +1061,7 @@ profesinių sąjungų
 
 bendrijos
 
-kultūros rūmai           347       347       267
+kultūros rūmai           347       347       267
 
 Valstybinis
 
@@ -1057,7 +1101,7 @@ sąjunga                   113       113       37
 
 Studijų
 
-kreditai                   1200      1200
+kreditai                   1200      1200
 
 Mokslas
 
@@ -1093,7 +1137,7 @@ krikščioniškosios
 
 kultūros
 
-centras                   213       213       152
+centras                   213       213       152
 
 Lietuvos
 
@@ -1117,7 +1161,7 @@ komisija
 
 Valstybinė
 
-draudimo įstaiga        6100      6100
+draudimo įstaiga        6100      6100
 
 Subsidijos
 
@@ -1141,7 +1185,7 @@ restitucijos aktui
 
 įgyvendinti
 
-2000                     2000
+2000                     2000
 
 Butų
 
@@ -1181,7 +1225,7 @@ VIII. Asignavimai
 
 savivaldybių biudžetams
 
-paramai mirties atveju        3000      3000
+paramai mirties atveju        3000      3000
 
 IX. Paramos visuomeninėms
 
@@ -1193,7 +1237,7 @@ programos                     15        15
 
 Iš viso                     2793311  2362604  565753  430707
 
-Perduota dotacija             152544    152544
+Perduota dotacija             152544    152544
 
 Iš viso                     2945855  2515148  565753  430707
 
@@ -1218,6 +1262,14 @@ I-574, 94.07.20, Žin., 1994, Nr.59-1160 (94.08.03)
 Nr.
 
 I-683, 94.12.07, Žin., 1994, Nr.96-1878 (94.12.14)
+
+Nr.
+
+I-697, 94.12.13, Žin., 1994, Nr.99-1962 (94.12.23)
+
+Nr.
+
+I-717, 94.12.20, Žin., 1994, Nr.99-1963 (94.12.23)
 
 Lietuvos Respublikos
 
@@ -1275,7 +1327,7 @@ Marijampolė
 
 Neringa
 
-100            70
+100            70
 
 Palanga
 
@@ -1297,7 +1349,7 @@ Akmenės
 
 Alytaus
 
-100            100                 10203
+100            100                 10203
 
 Anykščių
 
@@ -1329,7 +1381,7 @@ Kaišiadorių
 
 Kauno
 
-100            100                 3633
+100            100                 3633
 
 Kėdainių
 
@@ -1349,7 +1401,7 @@ Kretingos
 
 Kupiškio
 
-100            100                 1822
+100            100                 1822
 
 Lazdijų
 
@@ -1357,7 +1409,7 @@ Lazdijų
 
 Marijampolės
 
-100            100                 15503
+100            100                 15503
 
 Mažeikių
 
@@ -1369,7 +1421,7 @@ Molėtų
 
 Pakruojo
 
-100            100                 6022
+100            100                 6022
 
 Panevėžio
 
@@ -1385,7 +1437,7 @@ Plungės
 
 Prienų
 
-100            100                 6597
+100            100                 6597
 
 Radviliškio
 
@@ -1393,7 +1445,7 @@ Radviliškio
 
 Raseinių
 
-100            100                 1268
+100            100                 1268
 
 Rokiškio
 
@@ -1421,7 +1473,7 @@ Skuodo
 
 Šilutės
 
-100            100                 18171
+100            100                 18171
 
 Širvintų
 
@@ -1445,7 +1497,7 @@ Trakų
 
 Ukmerėgės
 
-100            75,2
+100            75,2
 
 Utenos
 
@@ -1465,7 +1517,7 @@ Vilniaus
 
 Zarasų
 
-100            100                 6829
+100            100                 6829
 
 _____________________________________________
 
@@ -1661,7 +1713,7 @@ Skuodo
 
 Širvintų
 
-1400           1000
+1400           1000
 
 Švenčionių
 
