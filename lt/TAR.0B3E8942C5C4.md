@@ -4,7 +4,7 @@ identifier: "TAR.0B3E8942C5C4"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-12-13"
-last_updated: "2003-03-13"
+last_updated: "2003-06-24"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0B3E8942C5C4"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -267,7 +267,11 @@ mokymo tarnybos veiklai finansuoti;
 
 10) rezerviniam fondui, kuris naudojamas
 
-centralizuotai vykdomoms priemonėms, finansuoti.
+centralizuotai vykdomoms priemonėms, finansuoti;
+
+11) darbuotojų perkvalifikavimo išlaidoms iš dalies ar
+
+visiškai padengti Vyriausybės nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -286,6 +290,12 @@ Nr. IX-687,
 Nr. IX-1366,
 
 2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+
+Nr.
+
+IX-1646,
+
+2003-06-24, Žin., 2003, Nr. 68-3072 (2003-07-09)
 
 IV skyrius. SOCIALINĖS GARANTIJOS BEDARBIAMS
 
@@ -369,17 +379,17 @@ kad augino vaiką iki 8 metų.
 
 Bedarbiai,
 
-kurie neturi šio straipsnio pirmojoje dalyje nurodyto reikiamo valstybinio
+kurie neturi šio straipsnio pirmojoje dalyje nurodyto reikiamo valstybinio socialinio
 
-socialinio draudimo stažo bedarbio pašalpai gauti, šią teisę įgyja po to, kai
+draudimo stažo bedarbio pašalpai gauti, šią teisę įgyja po to, kai su darbo
 
-su darbo biržos siuntimu per paskutiniuosius 12 mėnesių nuo užsiregistravimo
+biržos siuntimu per paskutiniuosius 12 mėnesių nuo užsiregistravimo darbo
 
-darbo biržoje dirbo viešuosius arba Užimtumo fondo remiamus darbus, baigė
+biržoje dirbo viešuosius arba Užimtumo fondo remiamus darbus, baigė profesinį
 
-profesinį mokymą ir šių darbų bei mokymosi bendra trukmė buvo ne mažesnė kaip
+mokymą ir šių darbų bei mokymosi bendra trukmė buvo ne mažesnė kaip 180
 
-180 kalendorinių dienų arba tiek laiko, kiek trūksta iki reikiamo valstybinio
+kalendorinių dienų arba tiek laiko, kiek trūksta iki reikiamo valstybinio
 
 socialinio draudimo stažo, jei tai sudaro ne daugiau kaip 180 kalendorinių
 
@@ -399,9 +409,9 @@ Nr. I-1191, 1996
 
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
-Nr. IX-1366, 2003-03-13,
+Nr. IX-1366,
 
-Žin., 2003, Nr. 32-1313 (2003-04-02)
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 16 straipsnis. Bedarbio pašalpa
 
@@ -923,9 +933,9 @@ VI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
 Skyriaus pavadinimas keistas:
 
-Nr. IX-1366, 2003-03-13,
+Nr. IX-1366,
 
-Žin., 2003, Nr. 32-1313 (2003-04-02)
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 25 straipsnis. Ginčų sprendimas
 
@@ -1065,13 +1075,27 @@ BEI PAPILDYMO, VI SKYRIAUS PAVADINIMO PAKEITIMO, ĮSTATYMO PAPILDYMO 20(2)
 
 STRAIPSNIU IR 3 BEI 22 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1646,
+
+2003-06-24, Žin., 2003, Nr. 68-3072 (2003-07-09)
+
+BEDARBIŲ
+
+RĖMIMO ĮSTATYMO 14 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-04-03)
+Aušrinė Trapinskienė (2003-07-09)
 
 autrap@lrs.lt
 
@@ -1107,9 +1131,9 @@ registruojami valstybinėje darbo biržoje ir jiems taikomos šio ir kitų įsta
 
 nustatytos valstybinės užimtumo ir socialinės garantijos.
 
-Viešųjų darbų atlikimo tvarką nustato Lietuvos Respublikos
+Viešųjų darbų atlikimo tvarką nustato Lietuvos
 
-Vyriausybė ar jos įgaliota institucija.
+Respublikos Vyriausybė ar jos įgaliota institucija.
 
 Straipsnio pakeitimai:
 
@@ -1125,11 +1149,11 @@ Užimtumo
 
 fondo remiami darbai organizuojami bedarbiams, nurodytiems šio įstatymo 15
 
-straipsnio trečiojoje ir ketvirtojoje dalyse, taip pat 19 straipsnyje nurodyta tvarka
+straipsnio trečiojoje ir ketvirtojoje dalyse, taip pat 19 straipsnyje nurodyta
 
-baigusiems profesinį mokymą, kuriems darbo birža negali pasiūlyti nuolatinio
+tvarka baigusiems profesinį mokymą, kuriems darbo birža negali pasiūlyti
 
-darbo.
+nuolatinio darbo.
 
 Užimtumo
 
@@ -1167,9 +1191,9 @@ Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 
-20(2) straipsnis. Vietinių užimtumo
+20(2) straipsnis. Vietinių užimtumo iniciatyvų
 
-iniciatyvų projektų įgyvendinimas
+projektų įgyvendinimas
 
 Vietinių užimtumo iniciatyvų projektai – tai naujų
 
@@ -1623,11 +1647,13 @@ darbo biržos valdymo organizavimas
 
 įgyvendinančiais teisės aktais nustatytas paslaugas ir paramą bedarbiams bei
 
-ieškantiems darbo asmenims, taip pat darbdaviams, ieškantiems reikiamos kvalifikacijos
+ieškantiems darbo asmenims, taip pat darbdaviams, ieškantiems reikiamos
 
-darbuotojų, teikia Lietuvos darbo birža prie Socialinės apsaugos ir darbo
+kvalifikacijos darbuotojų, teikia Lietuvos darbo birža prie Socialinės apsaugos
 
-ministerijos (toliau – Lietuvos darbo birža) ir jos teritorinės darbo biržos.
+ir darbo ministerijos (toliau – Lietuvos darbo birža) ir jos teritorinės darbo
+
+biržos.
 
 Lietuvos darbo biržą
 
@@ -1665,29 +1691,31 @@ steigia ir jų nuostatus tvirtina Lietuvos darbo birža.
 
 Lietuvos darbo birža ir jos
 
-teritorinės darbo biržos yra išlaikomos iš Užimtumo fondo lėšų ir paslaugas teikia
+teritorinės darbo biržos yra išlaikomos iš Užimtumo fondo lėšų ir paslaugas
 
-nemokamai.
+teikia nemokamai.
 
-Darbo rinkos būklės bei darbo rinkos politikos
+Darbo rinkos
 
-priemonių ir paslaugų įgyvendinimo klausimams nagrinėti prie Lietuvos darbo
+būklės bei darbo rinkos politikos priemonių ir paslaugų įgyvendinimo klausimams
 
-biržos bei teritorinių darbo biržų steigiamos visuomeniniais pagrindais
+nagrinėti prie Lietuvos darbo biržos bei teritorinių darbo biržų steigiamos
 
-veikiančios trišalės komisijos. Jos sudaromos
+visuomeniniais pagrindais veikiančios trišalės komisijos. Jos sudaromos iš
 
-iš vienodo skaičiaus lygiateisių narių: darbuotojų (profesinių sąjungų,
+vienodo skaičiaus lygiateisių narių:
 
-susivienijimų, asociacijų ir kt.), darbdavių (asociacijų, konfederacijų ir kt.)
+darbuotojų (profesinių sąjungų, susivienijimų, asociacijų ir kt.), darbdavių
 
-ir valstybės bei savivaldybių institucijų atstovų.
+(asociacijų, konfederacijų ir kt.) ir valstybės bei savivaldybių institucijų
 
-Trišalės komisijos prie Lietuvos darbo biržos nuostatus
+atstovų.
 
-bei pavyzdinius trišalės komisijos prie teritorinės darbo biržos nuostatus
+Trišalės komisijos prie Lietuvos darbo biržos
 
-tvirtina socialinės apsaugos ir darbo ministras.
+nuostatus bei pavyzdinius trišalės komisijos prie teritorinės darbo biržos
+
+nuostatus tvirtina socialinės apsaugos ir darbo ministras.
 
 Straipsnio pakeitimai:
 
@@ -1709,7 +1737,7 @@ Valstybinė darbo inspekcija.
 
 Straipsnio pakeitimai:
 
-Nr. IX-1366,
+Nr. IX-1366, 2003-03-13,
 
-2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Žin., 2003, Nr. 32-1313 (2003-04-02)
 
