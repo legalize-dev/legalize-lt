@@ -4,7 +4,7 @@ identifier: "TAR.078401A44DFD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-12"
-last_updated: "1997-01-01"
+last_updated: "2004-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.078401A44DFD"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įstatymo 3 straipsnis, 5 straipsnio 3 dalis, 7 straipsnio 1 dalies 7 punktas, 9, 12 ir 14 straipsniai įsigalioja 1997-07-01."
 ---
 # Lietuvos Respublikos kraujo donorystės įstatymas
+
+Suvestinė redakcija nuo 2004-03-01 iki 2010-12-31
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 115-2666, i. k. 0961010ISTA00I-1611
 
 LIETUVOS RESPUBLIKOS
 
@@ -32,25 +36,39 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato kraujo donorystės įgyvendinimo principus, tvarką ir sąlygas, donorų teises ir pareigas, kraujo donorystės subjektus, kraujo preparatų gamybos bei transfuzijos ypatumus.
+1. Šis įstatymas nustato kraujo donorystės įgyvendinimo principus, tvarką ir sąlygas, donorų teises ir pareigas, kraujo donorystės subjektus bei transfuzijos ypatumus.
 
-2 straipsnis. Įstatyme vartojamos sąvokos
+Straipsnio dalies pakeitimai:
 
-1. Donoras – asmuo, šio įstatymo nustatyta tvarka savanoriškai duodantis kraujo ar kraujo sudėtinių dalių.
+Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
 
-2. Kraujas – skystas žmogaus organizmo audinys, susidedantis iš kraujo plazmos ir kraujo ląstelinių komponentų (eritrocitų, trombocitų, leukocitų, kamieninių ląstelių).
+2. Kraujo preparatų gamybą ir jų vartojimą reglamentuoja kiti įstatymai.
 
-3. Kraujo donorystė – priemonių visuma, apimanti visuomenės telkimą duoti kraują, donorų atranką, kraujo ar jo sudėtinių dalių paėmimo, saugojimo, kraujo preparatų gamybos bei transfuzijos veiklą.
+Papildyta straipsnio dalimi:
 
-4. Kraujo donorystės įstaiga – asmens sveikatos priežiūros įstaiga ar jos padalinys, akredituoti žmogaus kraujo ar jo sudėtinių dalių paėmimo, saugojimo, kraujo preparatų gamybos bei jų transfuzijos veiklai.
+Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
 
-5. Kraujo preparatai – iš kraujo ar jo sudėtinių dalių pagaminti vaistai.
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-6. Kraujo preparatų gamybos įmonė – farmacinės veiklos įmonė, akredituota kraujo preparatų gamybai.
+1. Donoras – sveikas asmuo, kurio sveikatos būklė atitinka Sveikatos apsaugos ministerijos nustatytus reikalavimus, savanoriškai duodantis kraujo ar kraujo sudėtinių dalių.
 
-7. Recipientas – asmuo, kuriam gydymo tikslu atliekama kraujo, jo sudėtinių dalių ar kraujo preparatų transfuzija arba profilaktikos tikslu – kraujo preparatų transfuzija.
+2. Donoro kraujas (toliau – kraujas) – iš donoro surinktas kraujas, susidedantis iš plazmos ir ląstelinių komponentų (eritrocitų, trombocitų, leukocitų, kamieninių ląstelių) ir paruoštas transfuzijai ar toliau perdirbti.
 
-8. Transfuzija – kraujo perpylimas, jo sudėtinių dalių ar kraujo preparatų perkėlimas į žmogaus organizmą gydymo tikslu arba kraujo preparatų – profilaktikos tikslu.
+3. Kraujo donorystė – priemonių visuma, apimanti visuomenės telkimą duoti kraujo, donorų atranką, kraujo ar jo sudėtinių dalių paėmimo, paruošimo transfuzijai ar toliau perdirbti, saugojimo bei transfuzijos veiklą.
+
+4. Kraujo donorystės įstaiga – sveikatos priežiūros įstaiga ar jos padalinys, licencijuoti visai kraujo donorystės veiklai arba daliai šios veiklos.
+
+5. Kraujo komponentai – terapiniam naudojimui skirtos sudėtinės kraujo dalys (eritrocitai, leukocitai, trombocitai, plazma), kurios gali būti paruoštos įvairiais būdais.
+
+6. Kraujo preparatai – vaistiniai preparatai, pagaminti iš žmogaus kraujo ar plazmos.
+
+7. Recipientas – asmuo, kuriam gydymo tikslu atliekama kraujo ar kraujo komponentų transfuzija.
+
+8. Transfuzija – kraujo ar kraujo komponentų perpylimas į žmogaus organizmą gydymo tikslu.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
 
 II SKYRIUS
 
@@ -100,9 +118,23 @@ Kraujas duodamas vadovaujantis savanoriškumo, anonimiškumo ir neatlygintinumo 
 
 6) būti atleistas nuo darbo kraujo ar kraujo sudėtinių dalių davimo dieną. Įmonių, įstaigų, organizacijų administracija neturi kliudyti darbuotojui kraujo ar kraujo sudėtinių dalių davimo dieną išvykti į kraujo donorystės įstaigą;
 
-7) kraujo ar kraujo sudėtinių dalių davimo dieną Vyriausybės nustatyta tvarka iš valstybės biudžeto gauti kompensaciją, lygią vienos dienos vidutiniam darbo užmokesčiui Lietuvos Respublikoje;
+7) Vyriausybės nustatyta tvarka iš Valstybės biudžeto gauti kompensaciją;
 
-8) Vyriausybės nustatyta tvarka gauti garbės donoro vardą. Garbės donoras įstatymų ir kitų teisės aktų nustatyta tvarka turi teisę gauti valstybinę pensiją.
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
+
+8) duoti kraujo ar jo sudėtinių dalių neatlygintinai;
+
+Papildyta straipsnio punktu:
+
+Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
+
+9) Vyriausybės nustatyta tvarka gauti garbės donoro vardą. Garbės donoras įstatymų ir kitų teisės aktų nustatyta tvarka turi teisę gauti valstybinę pensiją.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
 
 2. Įstatymai, kiti teisės aktai donorams gali numatyti ir kitų teisių.
 
@@ -144,13 +176,21 @@ Kraujo donorystės veiklą kontroliuoja ir koordinuoja Sveikatos apsaugos minist
 
 11 straipsnis. Kraujo donorystės įgyvendinimas
 
-Kraujo donorystės įgyvendinimo subjektai yra kraujo donorystės įstaigos ir sveikatos priežiūros įstaigos, propaguojančios kraujo donorystę.
+Kraujo donorystės įgyvendinimo subjektai yra kraujo donorystės įstaigos ir propaguojančios neatlygintiną donorystę sveikatos priežiūros įstaigos, Lietuvos Raudonojo Kryžiaus draugija bei donorų asociacijos. Valstybė remia neatlygintiną donorystę.
 
-IV SKYRIUS
+Straipsnio pakeitimai:
 
-ŽMOGAUS KRAUJO PREPARATŲ GAMYBOS IR
+Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
 
-VARTOJIMO YPATUMAI
+4 skyrius. Neteko galios nuo 2004-03-01
+
+Skyriaus naikinimas:
+
+Nr. IX-1755, 2003-10-09, Žin. 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
+
+V SKYRIUS
+
+TRANSFUZIJOS ATLIKIMO YPATUMAI
 
 12 straipsnis. Kraujo preparatų gamybos ypatumai
 
@@ -166,9 +206,11 @@ V SKYRIUS
 
 TRANSFUZIJOS ATLIKIMO YPATUMAI
 
-14 straipsnis. Teisė atlikti transfuziją
+14 straipsnis. Neteko galios nuo 2004-03-01
 
-Teisę atlikti transfuziją turi asmens sveikatos priežiūros specialistas, turintis sertifikatą šiai veiklai. Sertifikato transfuzijai išdavimo tvarką ir transfuzijos atlikimo metodiką nustato kiti įsatymai ir teisės aktai.
+Straipsnio naikinimas:
+
+Nr. IX-1755, 2003-10-09, Žin. 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
 
 15 straipsnis. Pareiga pranešti apie su transfuzija susijusias komplikacijas
 
@@ -180,13 +222,13 @@ KRAUJO IR KRAUJO PREPARATŲ
 
 EKSPORTAS IR IMPORTAS
 
-16 straipsnis. Kraujo ir kraujo preparatų eksportas ir importas
+16 straipsnis. Kraujo ir kraujo komponentų eksportas ir importas
 
-1. Kraujo ir kraujo preparatų įvežimo į Lietuvos Respubliką ir išvežimo iš jos sąlygas bei tvarką nustato Sveikatos apsaugos ministerija.
+Kraujo ir kraujo komponentų įvežimo į Lietuvos Respubliką ir išvežimo iš jos sąlygas bei tvarką nustato Sveikatos apsaugos ministerija.
 
-2. Kraujo ir kraujo preparatų importas ir eksportas galimi tik esant ekvivalentiniams kraujo ir kraujo preparatų mainams tarp valstybių.
+Straipsnio pakeitimai:
 
-3. Importuojamas ir eksportuojamas kraujas ir kraujo preparatai turi atitikti Sveikatos apsaugos ministerijos nustatytus reikalavimus.
+Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
 
 VII SKYRIUS
 
@@ -207,4 +249,14 @@ Pasiūlyti Lietuvos Respublikos Vyriausybei pavesti atitinkamoms institucijoms i
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
+
+Lietuvos Respublikos kraujo donorystės įstatymo 1, 2, 7, 11, 16 straipsnių pakeitimo ir papildymo ir IV skyriaus bei 14 straipsnio pripažinimo netekusiais galios įstatymas
 
