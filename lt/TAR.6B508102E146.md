@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "1996-03-28"
+last_updated: "1996-04-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -16,91 +16,105 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Redaguota: 1996 04 19
+@D1=19940412;D2=19960430;D3=19960603
 
-Redaguota:
-
-1996 04 19
+@D1=19940412;D2=19960430;D3=19960603
 
 Pakeitimai:
 
-1.Lietuvos
+1.
 
-Respublikos 1995 01 24
+Parlamentas,
 
 Įstatymas
 
-Nr.1-767;
+{#95@WAA0767 ;} Nr.
 
-Žin., 1995,
-
-Nr.12-260
+1-767, 95.01.24, Žin., 1995, Nr. 12-260 (95.02.08)
 
 DĖL LIETUVOS
 
 RESPUBLIKOS AKCIZŲ ĮSTATYMO PAPILDYMO
 
-2.Lietuvos
+Pakeitimai:
 
-Respublikos 1995 05 30
-
-Įstatymas Nr.1-905
-
-Žin., 1995
-
-Nr.49-1179
-
-DĖL LIETUVOS
-
-RESPUBLIKOS AKCIZŲ ĮSTATYMO
-
-PAKEITIMO IR
-
-PAPILDYMO
-
-3.Lietuvos
-
-Respublikos 1995 11 07
+01. Parlamentas,
 
 Įstatymas
 
-Nr.1-1082
+Nr. 1-993,
 
-Žin., 1995
+95.07.03, Žin., 1995, Nr. 59-1469 (95.07.19)
 
-Nr.94-2087
+2.
 
-DĖL LIETUVOS
-
-RESPUBLIKOS AKCIZŲ ĮSTATYMO
-
-PAPILDYMO
-
-4.Lietuvos
-
-Respublikos 1996 03 28
+Parlamentas,
 
 Įstatymas
 
-Nr.1-1250
+{#95D]AA0905 ;} Nr.
 
-Žin., 1996
+1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 
-Nr.35-857
+DĖL LIETUVOS
+
+RESPUBLIKOS AKCIZŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
+
+3.
+
+Parlamentas,
+
+Įstatymas
+
+{#95JFAA1084 ;} Nr.
+
+1-1084, 95.11.07, Žin., 1995, Nr. 94-2087 (95.11.17)
+
+DĖL LIETUVOS
+
+RESPUBLIKOS AKCIZŲ ĮSTATYMO PAPILDYMO
+
+4.
+
+Parlamentas,
+
+Įstatymas
+
+{#96B[AA1250 ;} Nr.
+
+1-1250, 96.03.28, Žin., 1996, Nr. 35-857 (96.04.19)
 
 LIETUVOS
 
-RESPUBLIKOS AKCIZŲ ĮSTATYMO
+RESPUBLIKOS AKCIZŲ ĮSTATYMO 2 STRAIPSNIO PAPILDYMO
 
-2 STRAIPSNIO
+ĮSTATYMAS
 
-PAPILDYMO ĮSTATYMAS
+5.
+
+Parlamentas,
+
+Įstatymas
+
+{#96C]AA1307 ;} Nr.
+
+1-1307, 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
+
+LIETUVOS
+
+RESPUBLIKOS AKCIZŲ ĮSTATYMO 8-1, 8-2, 9 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
+Pastaba: Šis
+
+įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.
+
+*** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
-A
-
-K C I Z Ų
+A K C I Z Ų
 
 ĮSTATYMAS
 
@@ -126,27 +140,27 @@ Akcizų mokėtojai
 
 Akcizus  į
 
-biudžetą moka  3  straipsnyje  išvardytų  prekių
+biudžetą  moka  3  straipsnyje išvardytų prekių
 
-gamintojai ir
+gamintojai  ir
 
 importuotojai - juridiniai ir fiziniai asmenys bei
 
 juridinio   asmens
 
-teisių   neturinčios   įmonės.   Laisvosiose
+teisių   neturinčios   įmonės.   Laisvosiose
 
 ekonominėse zonose
 
 zonų įmonės akcizų nemoka.
 
-Už   naftos
+Už  naftos
 
 produktus,  pagamintus   akcinėje   bendrovėje
 
 "Mažeikių
 
-nafta",   nesvarbu,  iš  kieno  naftos  šie  produktai
+nafta",   nesvarbu,  iš  kieno  naftos  šie  produktai
 
 pagaminti, akcizus
 
@@ -160,7 +174,7 @@ Pasikeitus
 
 akcizų   tarifams,  akcizų  skirtumą,  tenkantį
 
-prekių likučiui,
+prekių  likučiui,
 
 esančiam  mažmeninės  ir  didmeninės  prekybos
 
@@ -172,43 +186,21 @@ nustatyta tvarka ir
 
 terminais.
 
-Pakeitimai:
+Straipsnio
 
-1.Lietuvos
+pakeitimai:
 
-Respublikos 1995 05 30
+{#95D]AA0905 ;} Nr.
 
-Įstatymas
+1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 
-Nr.1-905
+{#95JFAA1084 ;} Nr.
 
-Žin., 1995
+1-1084, 95.11.07, Žin., 1995, Nr. 94-2087 (95.11.17)
 
-Nr.49-1179
+{#96B[AA1250 ;} Nr.
 
-2.Lietuvos
-
-Respublikos 1995 11 07
-
-Įstatymas
-
-Nr.1-1082
-
-Žin., 1995
-
-Nr.94-1084
-
-3.Lietuvos
-
-Respublikos 1996 03 28
-
-Įstatymas
-
-Nr.1-1250
-
-Žin., 1996
-
-Nr.35-857
+1-1250, 96.03.28, Žin., 1996, Nr. 35-857 (96.04.19)
 
 3 straipsnis.
 
@@ -228,7 +220,7 @@ nedenatūruotas  etilo alkoholis  ir alkoholiniai gėrimai,
 
 tabakas ir tabako gaminiai;
 
-3)  kava,
+3) kava,
 
 šokoladas, maisto produktai su kakava;
 
@@ -240,7 +232,7 @@ bižuteriją ir
 
 monetas;
 
-5) variklių
+5)  variklių
 
 benzinas,   žibalas,   kuras   reaktyviniams
 
@@ -264,35 +256,21 @@ smurtinio pobūdžio spaudiniai;
 
 tepalai.
 
-Pastaba: 9 punktas
+Straipsnio
 
-įsigalios nuo 1996.01.01.
+pakeitimai:
 
-Pakeitimai:
+{#95@WAA0767 ;} Nr.
 
-1.Lietuvos
+1-767, 95.01.24, Žin., 1995, Nr. 12-260 (95.02.08)
 
-Respublikos 1995 01 24
+Pastaba:
 
-Įstatymas
+Įstatymas įsigalioja nuo 1996 m. sausio 1 dienos.
 
-Nr.1-767
+{#95D]AA0905 ;} Nr.
 
-Žin., 1995,
-
-Nr.12-260
-
-2.Lietuvos
-
-Respublikos 1995 05 30
-
-Įstatymas
-
-Nr.1-905
-
-Žin., 1995
-
-Nr.49-1179
+1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 
 4 straipsnis.
 
@@ -316,19 +294,13 @@ importuojamų  prekių -  muitinė prekių  vertė,  įskaitant
 
 muitą.
 
-Pakeitimai:
+Straipsnio
 
-1.Lietuvos
+pakeitimai:
 
-Respublikos 1995 05 30
+{#95D]AA0905 ;} Nr.
 
-Įstatymas
-
-Nr.1-905
-
-Žin., 1995
-
-Nr.49-1179
+1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 
 5 straipsnis.
 
@@ -376,23 +348,17 @@ Akcizai yra
 
 prekių kainos elementas ir sąskaitose- faktūrose
 
-bei mokėjimo dokumentuose
+bei mokėjimo
 
-nenurodomi.
+dokumentuose nenurodomi.
 
-Pakeitimai:
+Straipsnio
 
-1.Lietuvos
+pakeitimai:
 
-Respublikos 1995 05 30
+{#95D]AA0905 ;} Nr.
 
-Įstatymas
-
-Nr.1-905
-
-Žin., 1995
-
-Nr.49-1179
+1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 
 6 straipsnis.
 
@@ -412,9 +378,9 @@ skyriuje  nustatyta  tvarka  atleidžiamos  nuo
 
 muito;
 
-2)
+2) neišpilstyti
 
-neišpilstyti  alkoholiniai gėrimai  ir jų  žaliava, jeigu
+alkoholiniai gėrimai  ir jų  žaliava, jeigu
 
 juos  importuoja
 
@@ -426,7 +392,7 @@ teisę gaminti šiuos gėrimus;
 
 3) eksportuotos
 
-prekės.
+prekės;
 
 4) per
 
@@ -442,7 +408,7 @@ parduodamas:
 
 1)  Lietuvos
 
-Respublikos   įmonėms   degtinei,   likeriui,
+Respublikos   įmonėms   degtinei,   likeriui,
 
 trauktinėms, vynui,
 
@@ -464,19 +430,13 @@ veterinarinių vaistų  gamybai ir veterinarijos tiekimo
 
 veterinarijos reikmėms.
 
-Pakeitimai:
+Straipsnio
 
-1.Lietuvos
+pakeitimai:
 
-Respublikos 1995 05 30
+{#95D]AA0905 ;} Nr.
 
-Įstatymas
-
-Nr.1-905
-
-Žin., 1995
-
-Nr.49-1179
+1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 
 7 straipsnis.
 
@@ -536,9 +496,9 @@ Už
 
 importuojamas prekes akcizai sumokami į biudžetą Lietuvos
 
-Respublikos Vyriausybės
+Respublikos
 
-nustatyta  mokesčių  mokėjimo  muitinėje
+Vyriausybės  nustatyta  mokesčių  mokėjimo  muitinėje
 
 tvarka.
 
@@ -558,79 +518,71 @@ apskaičiavimo ir
 
 mokėjimo į biudžetą tvarką bei terminus.
 
-Pakeitimai:
+Straipsnio
 
-1.Lietuvos
+pakeitimai:
 
-Respublikos 1995 05 30
+{#95D]AA0905 ;} Nr.
 
-Įstatymas
-
-Nr.1-905
-
-Žin., 1995
-
-Nr.49-1179
+1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 
 9 straipsnis.
 
 Sankcijos už įstatymo pažeidimus
 
-Jei  mokėtojų
+Jei  mokėtojas
 
-pateiktose  akcizų  apyskaitose  akcizai  yra
+nepateikė  akcizų apyskaitos arba pateiktose
 
-sumažinti,
+akcizų
 
-išieškoma  papildomai apskaičiuota  akcizo suma ir jos
+apyskaitose    akcizai    yra   sumažinti,   papildomai
 
-dydžio bauda.
+apskaičiuotas
 
-Jei
+akcizas, baudos ir delspinigiai išieškomi Lietuvos
 
-mokėtojas   nepateikė  akcizų   apyskaitos,   išieškoma
+Respublikos mokesčių
 
-nuslėptoji akcizų
-
-suma ir dvigubo jos dydžio bauda.
+administravimo įstatymo nustatyta tvarka.
 
 Laiku
 
-nesumokėjus akcizų, imami 0,3 procento delspinigiai už
+nesumokėjus   akcizų,  imami  delspinigiai  Lietuvos
 
-kiekvieną pradelstą
+Respublikos mokesčių
 
-dieną, įskaitant sumokėjimo dieną.
+administravimo įstatymo nustatyta tvarka.
 
 Jeigu
 
-nesilaikoma  nustatytos muitinės  procedūrų  atlikimo
+nesilaikoma  nustatytos  muitinės  procedūrų atlikimo
 
 tvarkos  ir  laiku
 
-nepateikiama  importo  muitinės  deklaracija,
+nepateikiama  importo  arba eksporto muitinės
 
-delspinigiai
+deklaracija,
 
-pradedami   skaičiuoti  nuo   tos  dienos,  kai  ši
+laikas,  per  kurį  turi  būti  sumokėti  akcizai,
 
-deklaracija turėjo
+skaičiuojamas  nuo
 
-būti pateikta.
+tos  dienos,  kai  ši deklaracija turėjo būti
 
-Pakeitimai:
+pateikta.
 
-1.Lietuvos
+Straipsnio
 
-Respublikos 1995 05 30
+pakeitimai:
 
-Įstatymas
+{#95D]AA0905 ;} Nr.
 
-Nr.1-905
+1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 
-Žin., 1995
+{#96C]AA1307 ;} Nr.
 
-Nr.49-1179
+1-1307, 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
 
 10 straipsnis.
 
