@@ -4,7 +4,7 @@ identifier: "TAR.0EC89509170B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "1995-03-08"
+last_updated: "1995-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1995-02-21"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
+
+Suvestinė redakcija nuo 1995-12-29 iki 2000-07-11
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
 
 LIETUVOS RESPUBLIKOS DAUGIABUČIŲ NAMŲ SAVININKŲ BENDRIJŲ ĮSTATYMAS
 
@@ -57,7 +61,11 @@ II. BENDRIJOS STEIGIMAS
 
 5 straipsnis. Bendrijos steigimas
 
-Daugiabučių namų savininkai arba savivaldybės meras (valdyba) šaukia savininkų susirinkimus bendrijai steigti. Name arba keliuose namuose, susietuose bendrojo naudojimo inžinerine įranga, gali būti steigiama tik viena daugiabučių namų savininkų bendrija.
+Daugiabučių namų savininkai arba savivaldybės meras (valdyba) šaukia savininkų susirinkimus bendrijai steigti. Name arba keliuose namuose, susietuose bendrojo naudojimo inžinerine įranga, jei nėra galimybės jų atskirai eksploatuoti, steigiama tik viena daugiabučių namų savininkų bendrija.
+
+Straipsnio pakeitimai:
+
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
 
 6 straipsnis. Bendrijos steigiamasis susirinkimas
 
@@ -167,7 +175,11 @@ Aukščiausiasis bendrijos valdymo organas yra bendrijos narių susirinkimas, ku
 
 2) rinkti ir atšaukti valdybą arba valdytoją ir revizijos komisiją arba revizorių;
 
-3) nustatyti valdybos narių (valdytojo) apmokėjimo už atliekamą darbą dydį ir tvarką;
+3) nutarti, ar su valdybos nariais (valdytoju) bus sudaroma darbo sutartis, nustatyti apmokėjimo už jų darbą dydį ir tvarką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
 
 4) vertinti bendrijos valdybos veiklą, metinę ataskaitą ir revizijos komisijos (revizoriaus) pateiktą išvadą apie bendrijos finansinę veiklą;
 
@@ -199,7 +211,11 @@ Susirinkimo nutarimai yra teisėti, jeigu už juos balsavo daugiau kaip pusė su
 
 13 straipsnis. Bendrijos valdyba arba valdytojas
 
-Bendrijos valdyba arba valdytojas yra bendrijos valdymo organas, vadovaujantis bendrijos veiklai tarp bendrijos narių (įgaliotinių) susirinkimų. Valdyba renkama ne mažiau kaip iš trijų bendrijos narių ne ilgesniam kaip trejų metų laikui. Valdybos narių kadencijų skaičius neribojamas. Su bendrijos valdybos nariais (valdytoju) darbo sutartis nesudaroma.
+Bendrijos valdyba arba valdytojas yra bendrijos valdymo organas, vadovaujantis bendrijos veiklai tarp bendrijos narių (įgaliotinių) susirinkimų. Valdyba renkama ne mažiau kaip iš trijų bendrijos narių ne ilgesniam kaip trejų metų laikui. Valdybos narių kadencijų skaičius neribojamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
 
 Bendrijos valdybos posėdžiai yra teisėti, jei juose dalyvauja ne mažiau kaip 2/3 valdybos narių. Valdybos nutarimai yra teisėti, jeigu už juos balsavo daugiau kaip pusė posėdyje dalyvaujančių valdybos narių.
 
@@ -307,7 +323,11 @@ Daugiabučio namo bendrojo naudojimo patalpos, bendrojo naudojimo inžinerinė �
 
 Bendrija turi teisę valdyti ir naudoti bendrojo naudojimo patalpas, namo konstrukcijas ir inžinerinę įrangą.
 
-Įregistravus bendrijos įstatus, savivaldybė per 1 mėnesį privalo nustatyta tvarka perduoti bendrijai valdyti ir naudoti gyvenamąjį namą (namus). Bendrija, perėmusi namą, sprendžia klausimą dėl gyventojų sutarčių su namą eksploatuojančia organizacija peržiūrėjimo ir naujų bendrijos sutarčių sudarymo.
+Įregistravus bendrijos įstatus, savivaldybė, įmonė, įstaiga, organizacija, kurios žinioje yra gyvenamasis namas (namai), per 1 mėnesį privalo nustatyta tvarka perduoti bendrijai valdyti ir naudoti gyvenamąjį namą (namus). Bendrija, perėmusi namą, sprendžia klausimą dėl gyventojų sutarčių su namą eksploatuojančia organizacija peržiūrėjimo ir naujų bendrijos sutarčių sudarymo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
 
 21 straipsnis. Bendrijos lėšos
 
@@ -373,99 +393,27 @@ Valstybė ir savivaldybės, atsakydamos už nacionalinio turto – gyvenamojo fo
 
 3) nemokamai įrengia namo šilumos ir vandens apskaitos prietaisus;
 
-4) atleidžia bendrijas nuo žemės mokesčio;
+4) atleidžia bendrijas nuo žemės nuomos mokesčio;
 
-5) kitais paramos būdais.
+Straipsnio punkto pakeitimai:
+
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
+
+5) atleidžia bendrijas ir jų narius nuo žyminio mokesčio ginčuose tarp bendrijos ir nario, taip pat tarp bendrijų;
+
+Papildyta straipsnio punktu:
+
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
+
+6) kitais paramos būdais.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
 
 Bendrijoms remti iš savivaldybės pajamų už negyvenamųjų patalpų nuomą sudaromas specialus bendrijų rėmimo fondas. Fondui sudaryti gali būti naudojami ir kiti valstybės bei savivaldybių pajamų šaltiniai. Bendrijų rėmimo fondo sudarymo ir jo lėšų paskirstymo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 Per 3 mėnesius nuo bendrijos įregistravimo jos gyvenamuosius namus eksploatavusi organizacija nepanaudotas atskaitymų pastato, jo konstrukcijų bei inžinerinės įrangos kapitaliniam remontui lėšas perveda bendrijai.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
-
-29 straipsnis. Bendrijos nario pareigos
-
-1. Bendrijos narys privalo:
-
-1) laikytis bendrijos įstatų, vykdyti bendrijos narių susirinkimo, bendrijos valdybos (bendrijos pirmininko) ir revizijos komisijos (revizoriaus) sprendimus;
-
-2) dalyvauti bendrijos veikloje;
-
-3) tinkamai naudoti ir prižiūrėti nuosavybės teise jam priklausančias patalpas;
-
-4) tausoti bendrijos turtą ir bendrojo naudojimo objektus, laikytis namo vidaus tvarkos ir žemės sklypo priežiūros taisyklių, užtikrinti, kad šių taisyklių laikytųsi jo šeimos nariai ar jo patalpų nuomininkai;
-
-5) atsiskaityti nustatyta tvarka už teikiamas paslaugas, mokėti bendrijos nustatytas įmokas;
-
-6) apmokėti bendrijos nustatytas išlaidas, susijusias su namo bendrojo naudojimo objektų valdymu, priežiūra, remontu ar tvarkymu pagal įstatymų ir kitų teisės aktų nustatytus privalomus statinių naudojimo ir priežiūros reikalavimus, taip pat žemės sklypo naudojimu ir priežiūra proporcingai jo daliai bendrojoje nuosavybėje, jei bendrija neišsprendžia kitaip;
-
-7) savavališkai, be bendrijos valdybos (bendrijos pirmininko) ar jų įgalioto asmens leidimo nereguliuoti, nekeisti, neremontuoti namo bendrosios inžinerinės įrangos, bendrųjų konstrukcijų ir bendrojo naudojimo patalpų;
-
-8) parduodamas, dovanodamas ar kitaip perleisdamas nuosavybės teise jam priklausančias patalpas, atsiskaityti su bendrija pagal savo prievoles ir informuoti bendrijos valdybą (bendrijos pirmininką) apie išstojimą iš bendrijos;
-
-9) atsakyti pagal savo prievoles.
-
-2. Bendrijos narys neprivalo apmokėti išlaidų, dėl kurių jis nėra davęs sutikimo ir kurios nesusiję su įstatymų ir kitų teisės aktų nustatytais privalomais statinių naudojimo ir priežiūros reikalavimais bei valstybės įgyvendinamomis energijos taupymo programomis.
-
-ŠEŠTASIS SKIRSNIS
-
-BENDRIJOS TURTAS IR LĖŠOS
-
-30 straipsnis. Bendrijos turtas
-
-1. Bendrijos turtą sudaro bendrijos lėšomis pirktos ar kitaip teisėtai įgytos materialinės vertybės.
-
-2. Bendrijos turtas valdomas, juo naudojamasi ir disponuojama įstatymų ir bendrijos įstatų nustatyta tvarka.
-
-3. Bendrijos nariai gali prisidėti ir nepiniginiais (turtiniais) įnašais, kurių įvertinimo tvarką nustato bendrijos narių susirinkimas.
-
-31 straipsnis. Bendrijos lėšos ir pajamų paskirstymas
-
-1. Bendrijos lėšas sudaro:
-
-1) bendrijos narių įmokos, skirtos bendrijos veiklai;
-
-2) pajamos, gautos disponuojant bendrijos turtu arba naudojant bendrojo naudojimo patalpas ir kitus objektus;
-
-3) valstybės, savivaldybės, fizinių ar juridinių asmenų bei įmonių, neturinčių juridinio asmens teisių, parama.
-
-2. Pajamos, gautos disponuojant bendrijos turtu arba naudojant bendrojo naudojimo objektus, paskirstomos bendrijos nariams proporcingai jų daliai bendrojoje nuosavybėje bendrijos susirinkimo nustatytu būdu.
-
-3. Bendrijos ūkiniai metai yra nuo sausio 1 dienos iki gruodžio 31 dienos imtinai.
-
-SEPTINTASIS SKIRSNIS
-
-BAIGIAMOSIOS NUOSTATOS
-
-32 straipsnis. Valstybės ir savivaldybių santykiai su daugiabučių namų savininkais ir jų bendrijomis
-
-1. Valstybė ir savivaldybės, turėdamos tikslą išsaugoti nacionalinį turtą – šalies būsto fondą, remia būsto savininkus bei jų bendrijas, siekiančias tinkamai prižiūrėti, atnaujinti ar apšiltinti savo būstus ir bendrojo naudojimo objektus. Valstybės rėmimo būdus ir sąlygas nustato įstatymai bei Vyriausybės patvirtintos specialios programos.
-
-2. Valstybė ir savivaldybės įstatymų nustatyta tvarka remia mažai pajamų gaunančias šeimas (asmenis) visiškai ar iš dalies padengdamos išlaidas būsto ir bendrojo naudojimo objektų priežiūrai.
-
-3. Savivaldybių rėmimo būdus ir sąlygas nustato vietos savivaldos institucijos atitinkamose rėmimo programose.
-
-4. Vietos savivaldos institucijos nemokamai konsultuoja bendrijas steigimo, veiklos, reorganizavimo klausimais.
-
-5. Bendrijoms remti savivaldybėse sudaromas specialus bendrijų rėmimo fondas. Jo sudarymo ir lėšų naudojimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
-
-33 straipsnis. Energijos, dujų ir vandens tiekimo organizavimas
-
-1. Šilumos ir elektros energijos, dujų ir vandens tiekėjai pagal teisės aktų reikalavimus privalo sudaryti tiekimo vartojimo sutartis su kiekvienu daugiabučio namo patalpų savininku. Šilumos ir elektros energijos bei vandens tiekėjais daugiabučio namo patalpų savininkams gali būti ir bendrija.
-
-2. Atsiskaitymo už elektros energijos, dujų ir vandens sąnaudas bendroms namo reikmėms tvarka nustatoma pagal atskiras tiekėjų ir bendrijų sutartis, sudarytas laikantis teisės aktų reikalavimų.
-
-3. Šilumos ir elektros energijos, dujų ir vandens tiekimas daugiabučiams namams negali būti nutrauktas dėl atskirų patalpų savininkų įsiskolinimo tiekėjams. Įsiskolinimai turi būti išieškomi įstatymų nustatyta tvarka.
-
-34 straipsnis. Individualių gyvenamųjų namų ir dalimis (patalpomis) privatizuotų garažų, poilsio namų ir kitų negamybinių pastatų savininkų bendrijų steigimas
-
-Individualių gyvenamųjų namų ir dalimis (patalpomis) privatizuotų garažų, poilsio namų, kūrybinių dirbtuvių ir kitų negamybinių pastatų patalpų savininkai, steigdami atitinkamas bendrijas ir valdydami bei naudodami jiems bendrosios nuosavybės teise priklausantį turtą, vadovaujasi šiuo įstatymu.
-
-35 straipsnis. Ginčų sprendimas
-
-Ginčai tarp bendrijos ir bendrijos narių, tarp bendrijos ir kitų fizinių, juridinių asmenų, valstybės ar savivaldybės spendžiami įstatymų nustatyta tvarka.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -480,12 +428,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
 
 Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo ir papildymo
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1741, 2000-06-20, Žin., 2000, Nr. 56-1639 (2000-07-12), i. k. 1001010ISTAIII-1741
-
-Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymas
 
