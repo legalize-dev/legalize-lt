@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2002-03-07"
+last_updated: "2002-10-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -32,7 +32,7 @@ M I Š K Ų
 
 ĮSTATYMAS
 
-1994 m. lapkričio 22 d. Nr.I-671
+1994 m. lapkričio 22 d. Nr. I-671
 
 Vilnius
 
@@ -904,17 +904,19 @@ saugomų objektų užpuolimą, jeigu kyla pavojus asmens gyvybei.
 
 panaudoti fizinę prievartą bei specialiąsias priemones ar šaunamąjį ginklą
 
-prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu,
+prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei
 
-kad jie invalidai, prieš nepilnamečius, jeigu jų amžius žinomas pareigūnui arba
+akivaizdu, kad jie invalidai, prieš nepilnamečius, jeigu jų amžius žinomas
 
-išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu žmogaus
+pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi
 
-gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas
+pavojingu žmogaus gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė
 
-kelia grėsmę gyvybei ar sveikatai. Draudžiama panaudoti šaunamąjį ginklą žmonių
+ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai. Draudžiama panaudoti
 
-susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys.
+šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti
+
+pašaliniai asmenys.
 
 4.
 
@@ -1086,7 +1088,9 @@ reglamentuoja Nenukirsto valstybinio miško skyrimo ir pardavimo taisyklės.
 
 taip pat privalomų vykdyti miškotvarkos projekto dalių –
 
-pagrindinių kirtimų dešimtmečio normos, miško atkūrimo bei aplinkosaugos reikalavimų.
+pagrindinių kirtimų dešimtmečio normos, miško atkūrimo bei aplinkosaugos
+
+reikalavimų.
 
 6. Draudžiama
 
@@ -1440,21 +1444,21 @@ lėšomis.
 
 miško žemėje, šiam plotui taikomas Miškų įstatymas.
 
-5. Želdintinose kirtavietėse ir degavietėse
+5. Želdintinose kirtavietėse ir degavietėse dirbtiniu
 
-dirbtiniu būdu miškas atkuriamas ne vėliau kaip per trejus metus po jų
+būdu miškas atkuriamas ne vėliau kaip per trejus metus po jų atsiradimo. Miškas
 
-atsiradimo. Miškas dirbtiniu būdu įveisiamas ir atkuriamas ekologiniu pagrindu;
+dirbtiniu būdu įveisiamas ir atkuriamas ekologiniu pagrindu, laikantis Aplinkos
 
-iškirsti ąžuolynai, klevai, liepynai, uosynai ir pušynai, augę jiems tinkamose
+ministerijos tvirtinamų Miško atkūrimo ir įveisimo nuostatų reikalavimų.
 
-augavietėse, turi būti atkurti tomis pačiomis medžių rūšimis. Valstybiniai
+Valstybiniai miškų pareigūnai gali uždrausti miško valdytojams, savininkams ir
 
-miškų pareigūnai gali uždrausti miško valdytojams, savininkams ir naudotojams
+naudotojams tolesnius pagrindinius miško kirtimus, kol bus atkurtas iškirstasis
 
-tolesnius pagrindinius miško kirtimus, kol bus atkurtas iškirstasis miškas.
+miškas. Išimtys leidžiamos, kai dėl stichinių nelaimių žūva dideli miško
 
-Išimtys leidžiamos, kai dėl stichinių nelaimių žūva dideli miško plotai.
+plotai.
 
 6. Miško atkūrimas ir įveisimas taip pat apima medynų
 
@@ -1464,9 +1468,15 @@ susiformuoja jaunuolynas. Žuvę želdiniai ir žėliniai atkuriami ne vėliau k
 
 per dvejus metus.
 
-7.
+Straipsnio
 
-Miško atkūrimo ir įveisimo nuostatus tvirtina Aplinkos ministerija.
+pakeitimai:
+
+Nr.
+
+IX-1152, 2002-10-22,
+
+Žin., 2002, Nr. 105-4691 (2002-11-06)
 
 15 straipsnis. Tarnybinės žemės dalos
 
@@ -1566,19 +1576,19 @@ valstybiniai parkai ir savivaldybės skiria lėšų bendrai valstybinei
 
 priešgaisrinio stebėjimo ir gaisrų gesinimo sistemai visose miško valdose.
 
-Miško valdytojai ir savininkai savo lėšomis įgyvendina profilaktines
+Miško valdytojai ir savininkai savo lėšomis įgyvendina profilaktines priešgaisrines
 
-priešgaisrines priemones (įrengia priešgaisrines juostas ir laužavietes, valo
+priemones (įrengia priešgaisrines juostas ir laužavietes, valo užšlemštą mišką
 
-užšlemštą mišką ir kita).
+ir kita).
 
 3.
 
 Stichinių nelaimių miškuose atvejais Aplinkos ministerija turi teisę nustatyti
 
-specialias apsaugos ir nelaimių padarinių šalinimo priemones, kurios yra
+specialias apsaugos ir nelaimių padarinių šalinimo priemones, kurios yra privalomos
 
-privalomos visiems miško valdytojams, savininkams ir naudotojams.
+visiems miško valdytojams, savininkams ir naudotojams.
 
 19 straipsnis.
 
@@ -1618,9 +1628,9 @@ kirtavietėse ir 20 metų neturinčiuose jaunuolynuose.
 
 Medžiojamų žvėrių skaičius miško žemėje turi būti palaikomas toks, kad būtų
 
-garantuotas ekosistemos stabilumas. Reguliuojant žvėrių skaičių miške, laikomasi
+garantuotas ekosistemos stabilumas. Reguliuojant žvėrių skaičių miške,
 
-Aplinkos apsaugos įstatymo ir kitų teisės aktų reikalavimų.
+laikomasi Aplinkos apsaugos įstatymo ir kitų teisės aktų reikalavimų.
 
 21 straipsnis.
 
@@ -1692,9 +1702,9 @@ MIŠKŲ
 
 ŪKIO SRITYJE
 
-24 straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas
+24 straipsnis. Lietuvos Respublikos tarptautinis
 
-miškų ūkio
+bendradarbiavimas miškų ūkio
 
 klausimais
 
@@ -1718,11 +1728,11 @@ nustato kitokius miško naudojimo, atkūrimo ir apsaugos reikalavimus nei šis
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                 ALGIRDAS
 
 BRAZAUSKAS
 
-__________
+______________
 
 Pakeitimai:
 
@@ -1838,13 +1848,29 @@ MIŠKŲ
 
 ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1152,
+
+2002-10-22, Žin., 2002, Nr. 105-4691 (2002-11-06)
+
+MIŠKŲ
+
+ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-03-27)
+Aušrinė Trapinskienė (2002-11-06)
 
 autrap@lrs.lt
 
