@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2001-10-23"
+last_updated: "2001-12-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -595,9 +595,9 @@ Nr.47-1340 (00.06.09), įsigalioja nuo 2000.07.01
 
 10
 
-straipsnis. Valstybės turto valdymas, naudojimas ir disponavimas juo
+straipsnis. Valstybės turto valdymas, naudojimas ir disponavimas juo patikėjimo
 
-patikėjimo teise
+teise
 
 1. Valstybės turtas patikėjimo teise
 
@@ -1061,9 +1061,25 @@ teise priklausantis turtas kitų subjektų nuosavybėn perduodamas:
 
 Vertybinių popierių viešosios apyvartos įstatymą;
 
+[2 punkto
+
+redakcija nuo 2002 m. balandžio 1 d.:
+
+2) parduodant vertybinius popierius
+
+pagal Vertybinių popierių rinkos įstatymą;]
+
 3) grąžinant valstybės skolas;
 
 4) kitais įstatymų nustatytais būdais.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-657,
+
+2001-12-17, Žin., 2001, Nr. 112-4076 (2001-12-30), įsigalioja nuo 2002-04-01
 
 17 straipsnis.
 
@@ -1101,27 +1117,27 @@ turto mainai
 
 1. Pagal mainų sutartį valstybės
 
-valdžios ir valdymo ar savivaldos institucijos, valstybės ar savivaldybės įmonės,
+valdžios ir valdymo ar savivaldos institucijos, valstybės ar savivaldybės
 
-įstaigos ir organizacijos turi teisę perleisti viena kitai joms patikėjimo
+įmonės, įstaigos ir organizacijos turi teisę perleisti viena kitai joms
 
-teise priklausantį lygiavertį (iki 10 procentų vertės besiskiriantį) ilgalaikį
+patikėjimo teise priklausantį lygiavertį (iki 10 procentų vertės besiskiriantį)
 
-ir trumpalaikį materialųjį turtą, jeigu šie mainai reikalingi valstybės
+ilgalaikį ir trumpalaikį materialųjį turtą, jeigu šie mainai reikalingi
 
-valdžios ir valdymo ar savivaldybės funkcijoms įgyvendinti. Sprendimus dėl
+valstybės valdžios ir valdymo ar savivaldybės funkcijoms įgyvendinti.
 
-valstybei ar savivaldybei nuosavybės teise priklausančio ilgalaikio ir
+Sprendimus dėl valstybei ar savivaldybei nuosavybės teise priklausančio
 
-trumpalaikio materialiojo turto mainų priima:
+ilgalaikio ir trumpalaikio materialiojo turto mainų priima:
 
-1) Vyriausybė arba jos įgaliota
+1) Vyriausybė arba jos įgaliota institucija
 
-institucija - jei bent viena iš mainų šalių yra valstybės valdžios ir valdymo
+- jei bent viena iš mainų šalių yra valstybės valdžios ir valdymo institucija,
 
-institucija, valstybės įmonė, įstaiga ar organizacija, patikėjimo teise
+valstybės įmonė, įstaiga ar organizacija, patikėjimo teise valdanti valstybės
 
-valdanti valstybės turtą;
+turtą;
 
 2) savivaldybių tarybos - jei abi mainų
 
@@ -1157,19 +1173,19 @@ investavimas
 
 1. Valstybės ar savivaldybių ilgalaikio
 
-ir trumpalaikio materialiojo turto investavimas - tai pagal Valstybės ir
+ir trumpalaikio materialiojo turto investavimas - tai pagal Valstybės ir savivaldybių
 
-savivaldybių turto privatizavimo įstatymą įvertinto valstybei ar savivaldybei
+turto privatizavimo įstatymą įvertinto valstybei ar savivaldybei nuosavybės
 
-nuosavybės teise priklausančio ilgalaikio ir trumpalaikio materialiojo turto
+teise priklausančio ilgalaikio ir trumpalaikio materialiojo turto perdavimas
 
-perdavimas privataus kapitalo įmonei, jeigu ji persiregistravo į akcinę
+privataus kapitalo įmonei, jeigu ji persiregistravo į akcinę bendrovę ar
 
-bendrovę ar uždarąją akcinę bendrovę, už jos akcijas. Reikalavimas
+uždarąją akcinę bendrovę, už jos akcijas. Reikalavimas persiregistruoti
 
-persiregistruoti netaikomas įmonėms, kurios iki turto joms perdavimo buvo
+netaikomas įmonėms, kurios iki turto joms perdavimo buvo akcinės bendrovės ar
 
-akcinės bendrovės ar uždarosios akcinės bendrovės.
+uždarosios akcinės bendrovės.
 
 2. Gali būti investuojamas šis valstybės
 
@@ -1429,9 +1445,9 @@ Nuo 2000 m.
 
 liepos 1 d. įstatymas papildytas nauju ketvirtuoju skirsniu:
 
-Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340
 
-Nr.47-1340 (00.06.09), įsigalioja nuo 2000.07.01
+(00.06.09), įsigalioja nuo 2000.07.01
 
 KETVIRTASIS
 
@@ -1555,11 +1571,11 @@ organizacijos kitai tokiai įstaigai ar organizacijai;
 
 2) perduodant pagal panaudos sutartį
 
-viešosioms įstaigoms, labdaros ir paramos organizacijoms, fondams, visuomeninėms
+viešosioms įstaigoms, labdaros ir paramos organizacijoms, fondams,
 
-organizacijoms, politinėms partijoms ir kitiems subjektams, jei tai numatyta
+visuomeninėms organizacijoms, politinėms partijoms ir kitiems subjektams, jei
 
-įstatymuose;
+tai numatyta įstatymuose;
 
 3) investuojant įstatymų nustatyta
 
@@ -1575,19 +1591,19 @@ pagal Valstybės ir savivaldybių turto privatizavimo įstatymą.
 
 2. Jeigu nereikalingo arba netinkamo
 
-(negalimo) naudoti valstybės ar savivaldybių ilgalaikio, trumpalaikio
+(negalimo) naudoti valstybės ar savivaldybių ilgalaikio, trumpalaikio materialiojo
 
-materialiojo turto negalima panaudoti nė vienu iš šio straipsnio 1 dalyje
+turto negalima panaudoti nė vienu iš šio straipsnio 1 dalyje nurodytu būdu, jis
 
-nurodytu būdu, jis turi būti išardomas, o liekamosios medžiagos įtraukiamos į
+turi būti išardomas, o liekamosios medžiagos įtraukiamos į apskaitą. Likusį
 
-apskaitą. Likusį turtą, taip pat turtą, kurio išardymo išlaidos viršija
+turtą, taip pat turtą, kurio išardymo išlaidos viršija laukiamą liekamųjų
 
-laukiamą liekamųjų medžiagų vertę, galima likviduoti pašalinus kenksmingumą,
+medžiagų vertę, galima likviduoti pašalinus kenksmingumą, jei reikia.
 
-jei reikia. Likviduojamas ir nereikalingu arba netinkamu (negalimu) naudoti
+Likviduojamas ir nereikalingu arba netinkamu (negalimu) naudoti pripažintas
 
-pripažintas nematerialusis turtas.
+nematerialusis turtas.
 
 3. Su valstybės paslaptis sudarančiomis
 
@@ -1657,17 +1673,17 @@ ar organizacijai
 
 1. Iš valstybės biudžeto išlaikomos
 
-įstaigos ir organizacijos, kurių steigėjai yra Lietuvos Respublikos Seimas ar Vyriausybė,
+įstaigos ir organizacijos, kurių steigėjai yra Lietuvos Respublikos Seimas ar
 
-be steigėjų sutikimo turi teisę neatlygintinai perduoti patikėjimo teise viena
+Vyriausybė, be steigėjų sutikimo turi teisę neatlygintinai perduoti patikėjimo
 
-kitai nematerialųjį ir ilgalaikį materialųjį turtą, kai turto vieneto likutinė
+teise viena kitai nematerialųjį ir ilgalaikį materialųjį turtą, kai turto
 
-vertė neviršija 50 tūkstančių litų, ir trumpalaikį materialųjį turtą, kai jo
+vieneto likutinė vertė neviršija 50 tūkstančių litų, ir trumpalaikį materialųjį
 
-bendra vertė per metus neviršija 50 tūkstančių litų (išskyrus nekilnojamąjį
+turtą, kai jo bendra vertė per metus neviršija 50 tūkstančių litų (išskyrus
 
-turtą).
+nekilnojamąjį turtą).
 
 2. Šio straipsnio 1 dalyje nenurodytos
 
@@ -1801,9 +1817,9 @@ bei įgyvendinant Lietuvos banko funkcijas ir vykdant veiklą tam reikalingai
 
 infrastruktūrai sukurti bei palaikyti. Nereikalingas arba netinkamas
 
-(negalimas) naudoti Lietuvos banko nekilnojamasis turtas neatlygintinai gali
+(negalimas) naudoti Lietuvos banko nekilnojamasis turtas neatlygintinai gali būti
 
-būti perduodamas tik valstybės ar savivaldybių institucijoms.
+perduodamas tik valstybės ar savivaldybių institucijoms.
 
 Skirsnio ir
 
@@ -1915,13 +1931,35 @@ IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 6
 
 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-657,
+
+2001-12-17, Žin., 2001, Nr. 112-4076 (2001-12-30)
+
+VALSTYBĖS
+
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 17
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Įstatymas
+
+įsigalioja nuo 2002 m. balandžio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2001-11-08)
+Aušrinė Trapinskienė (2002-01-10)
 
 autrap@lrs.lt
 
