@@ -4,7 +4,7 @@ identifier: "TAR.47BB952431DA"
 country: "lt"
 rank: "konstitucija"
 publication_date: "1992-10-25"
-last_updated: "2002-07-21"
+last_updated: "2003-02-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"
 department: "Piliečių referendumas"
@@ -14,7 +14,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Konstitucija
 
-Suvestinė redakcija nuo 2002-07-21 iki 2003-02-23
+Suvestinė redakcija nuo 2003-02-24 iki 2003-04-20
 
 Konstitucija paskelbtas: Lietuvos aidas 1992, Nr. 220-0; Žin. 1992, Nr.33-1014, i. k. 0921010KONSRG922324
 
@@ -402,19 +402,17 @@ Valstybė gina vartotojo interesus.
 
 47 straipsnis
 
-Žemė, vidaus vandenys, miškai, parkai nuosavybės teise gali priklausyti tik Lietuvos Respublikos piliečiams ir valstybei.
+Lietuvos Respublikai išimtine nuosavybės teise priklauso: žemės gelmės, taip pat valstybinės reikšmės vidaus vandenys, miškai, parkai, keliai, istorijos, archeologijos ir  kultūros objektai.
 
-Savivaldybėms, kitiems nacionaliniams subjektams, taip pat tiems ūkinę veiklą Lietuvoje vykdantiems užsienio subjektams, kurie nustatyti konstitucinio įstatymo pagal Lietuvos Respublikos pasirinktos europinės ir transatlantinės integracijos kriterijus, gali būti leidžiama įsigyti nuosavybėn ne žemės ūkio paskirties žemės sklypus, reikalingus jų tiesioginei veiklai skirtiems pastatams ir įrenginiams statyti bei eksploatuoti. Tokio sklypo įsigijimo nuosavybėn tvarką, sąlygas ir apribojimus nustato konstitucinis įstatymas.
+Lietuvos Respublikai priklauso išimtinės teisės į oro erdvę virš jos teritorijos, jos kontinentinį šelfą bei ekonominę zoną Baltijos jūroje.
 
-Papildyta straipsnio dalimi:
-
-Nr. I-1390, 1996-06-20, Žin., 1996, Nr. 64-1501 (1996-07-05), i. k. 0961010ISTA00I-1390
+Žemę, vidaus vandenis ir miškus įsigyti nuosavybėn Lietuvos Respublikoje užsienio subjektai gali pagal konstitucinį įstatymą.
 
 Žemės sklypai nuosavybės teise įstatymų nustatyta tvarka ir sąlygomis gali priklausyti užsienio valstybei – jos diplomatinėms ir konsulinėms įstaigoms įkurti.
 
-Lietuvos Respublikai išimtine nuosavybės teise priklauso: žemės gelmės, taip pat valstybinės reikšmės vidaus vandenys, miškai, parkai, keliai, istorijos, archeologijos ir kultūros objektai.
+Straipsnio pakeitimai:
 
-Lietuvos Respublikai priklauso išimtinės teisės į oro erdvę virš jos teritorijos, jos kontinentinį šelfą bei ekonominę zoną Baltijos jūroje.
+Nr. IX-1305, 2003-01-23, Žin., 2003, Nr. 14-540 (2003-02-07), i. k. 1031010ISTA0IX-1305
 
 48 straipsnis
 
@@ -1393,4 +1391,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-959, 2002-06-20, Žin., 2002, Nr. 65-2629 (2002-06-28), i. k. 1021010ISTA00IX-959
 
 Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1305, 2003-01-23, Žin., 2003, Nr. 14-540 (2003-02-07), i. k. 1031010ISTA0IX-1305
+
+Lietuvos Respublikos Konstitucijos 47 straipsnio pakeitimo įstatymas
 
