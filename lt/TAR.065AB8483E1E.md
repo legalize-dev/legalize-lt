@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2004-05-01"
+last_updated: "2004-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -3012,7 +3012,7 @@ bankuose. Komisijos būstinė yra Vilniuje.
 
 4. Komisiją
 
-sudaro 12 narių: 1 narį skiria Respublikos Prezidentas, 3 narius – Seimas
+sudaro 13 narių: 1 narį skiria Respublikos Prezidentas, 3 narius – Seimas
 
 Švietimo, mokslo ir kultūros komiteto teikimu, po 1 narį – Lietuvos dailininkų
 
@@ -3022,17 +3022,19 @@ Lietuvos rašytojų sąjunga, Lietuvos teatro sąjunga, Lietuvos žurnalistų
 
 sąjunga, Lietuvos žurnalistų draugija, Lietuvos katalikų bažnyčios Vyskupų
 
-konferencija. Komisijos narys skiriamas jį paskyrusios institucijos kadencijos
+konferencija, Lietuvos periodinės spaudos leidėjų asociacija. Komisijos narys
 
-ar jį paskyrusios organizacijos valdymo organų įgaliojimų laikui. Komisijos
+skiriamas jį paskyrusios institucijos kadencijos ar jį paskyrusios
 
-nariu gali būti skiriamas tik nepriekaištingos reputacijos asmuo. Asmenys
+organizacijos valdymo organų įgaliojimų laikui. Komisijos nariu gali būti
 
-Komisijos nariais gali būti ne ilgiau kaip dvi kadencijas iš eilės.
+skiriamas tik nepriekaištingos reputacijos asmuo. Asmenys Komisijos nariais
 
-Komisijos nario darbo Komisijoje teisinis pagrindas yra jį paskyrusios
+gali būti ne ilgiau kaip dvi kadencijas iš eilės. Komisijos nario darbo
 
-institucijos ar organizacijos priimtas sprendimas.
+Komisijoje teisinis pagrindas yra jį paskyrusios institucijos ar organizacijos
+
+priimtas sprendimas.
 
 5. Komisijos
 
@@ -3164,17 +3166,17 @@ data. Juos asmenys gali skųsti teismui per 30 dienų nuo įsigaliojimo dienos.
 
 14. Komisijos
 
-funkcijoms atlikti sudaroma Komisijos administracija. Jai vadovauja
+funkcijoms atlikti sudaroma Komisijos administracija. Jai vadovauja administracijos
 
-administracijos direktorius. Administracijos direktoriumi negali būti Komisijos
+direktorius. Administracijos direktoriumi negali būti Komisijos narys. Komisija
 
-narys. Komisija direktorių skiria konkurso tvarka. Direktorius už
+direktorių skiria konkurso tvarka. Direktorius už administracijos veiklą kasmet
 
-administracijos veiklą kasmet atsiskaito Komisijai. Administracijos sudėtį ir
+atsiskaito Komisijai. Administracijos sudėtį ir darbuotojų skaičių tvirtina
 
-darbuotojų skaičių tvirtina Komisija. Administracijos veikla organizuojama
+Komisija. Administracijos veikla organizuojama pagal Komisijos patvirtintus
 
-pagal Komisijos patvirtintus nuostatus.
+nuostatus.
 
 15. Komisijos
 
@@ -3216,6 +3218,12 @@ Nr. IX-2176,
 
 2004-04-27, Žin., 2004, Nr. 73-2515 (2004-04-30)
 
+Nr.
+
+IX-2396,
+
+2004-07-15, Žin., 2004, Nr. 120-4436 (2004-08-03)
+
 49 straipsnis.
 
 Lietuvos radijo ir televizijos komisijos kompetencija
@@ -3254,11 +3262,11 @@ kaip transliuotojai ir retransliuotojai laikosi prisiimtų įsipareigojimų,
 
 licencijų sąlygų ir Komisijos priimtų sprendimų;
 
-5) pagal savo
+5) pagal savo kompetenciją
 
-kompetenciją vykdyti Nepilnamečių apsaugos nuo neigiamo viešosios informacijos
+vykdyti Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio
 
-poveikio įstatymo nuostatų įgyvendinimo priežiūrą;
+įstatymo nuostatų įgyvendinimo priežiūrą;
 
 6) nustatyti
 
@@ -3280,7 +3288,9 @@ dėl programų rėmimo;
 
 8) kontroliuoti,
 
-kaip retransliuotojai laikosi šio įstatymo nuostatų dėl programų retransliavimo;
+kaip retransliuotojai laikosi šio įstatymo nuostatų dėl programų
+
+retransliavimo;
 
 9)
 
@@ -3570,21 +3580,23 @@ straipsnis. Viešosios informacijos rengėjų, platintojų bei pareigūnų atsak
 
 1. Už šio ir kitų įstatymų, Lietuvos Respublikos
 
-tarptautinių sutarčių, reglamentuojančių viešosios informacijos rengimą,
+tarptautinių sutarčių, reglamentuojančių
 
-pažeidimus, taip pat už įstatymų nustatytos viešosios informacijos platinimo
+viešosios informacijos rengimą, pažeidimus, taip pat už įstatymų nustatytos
 
-tvarkos pažeidimus atsako viešosios informacijos rengėjas ar platintojas šio ir kitų įstatymų nustatyta tvarka.
+viešosios informacijos platinimo tvarkos pažeidimus atsako viešosios
 
-2. Valstybės ir savivaldybių institucijos bei
+informacijos rengėjas ar platintojas šio ir kitų įstatymų nustatyta tvarka.
 
-įstaigos, kitos biudžetinės įstaigos, pareigūnai už trukdymą viešosios
+2. Valstybės ir savivaldybių institucijos bei įstaigos, kitos biudžetinės įstaigos, pareigūnai
 
-informacijos rengėjams ar platintojams skleisti žinias, neteisėtą atsisakymą pateikti viešąją informaciją arba neteisingos
+už trukdymą viešosios informacijos rengėjams ar platintojams skleisti žinias,
 
-informacijos pateikimą atsako įstatymų nustatyta tvarka. Tokie jų veiksmai gali
+neteisėtą atsisakymą pateikti viešąją informaciją arba neteisingos informacijos
 
-būti skundžiami teismui.
+pateikimą atsako įstatymų nustatyta tvarka.
+
+Tokie jų veiksmai gali būti skundžiami teismui.
 
 54 straipsnis.
 
@@ -3606,13 +3618,13 @@ asmeniui padarytą moralinę žalą įstatymų nustatyta tvarka. Moralinės
 
 teismas nustato, kad tikrovės neatitinkanti, asmens garbę ir orumą žeminanti
 
-informacija buvo paskelbta tyčia. Tokiais atvejais teismo sprendimu ši suma gali
+informacija buvo paskelbta tyčia. Tokiais atvejais teismo sprendimu ši suma
 
-būti padidinta, bet ne daugiau kaip 5 kartus. Kiekvienu atveju priteisiama suma
+gali būti padidinta, bet ne daugiau kaip 5 kartus. Kiekvienu atveju priteisiama
 
-negali būti didesnė kaip 5 procentai viešosios informacijos rengėjo ir (ar)
+suma negali būti didesnė kaip 5 procentai viešosios informacijos rengėjo ir
 
-platintojo metinių pajamų.
+(ar) platintojo metinių pajamų.
 
 2. Viešosios
 
@@ -3694,9 +3706,11 @@ tiesioginių radijo ar televizijos laidų dalyvių, nepavaldžių viešosios
 
 informacijos rengėjui;
 
-5) paskelbta specialioje
+5) paskelbta
 
-rinkimų laidoje, kurią rengė ne pats viešosios informacijos rengėjas;
+specialioje rinkimų laidoje, kurią rengė ne pats viešosios informacijos
+
+rengėjas;
 
 6) paskelbta
 
@@ -3784,9 +3798,9 @@ Nr. IX-2176,
 
 2004-04-27, Žin., 2004, Nr. 73-2515 (2004-04-30)
 
-Skelbiu šį Lietuvos Respublikos
+Skelbiu šį Lietuvos
 
-Seimo priimtą įstatymą.
+Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS
 
@@ -4118,9 +4132,19 @@ GALIOS IR ĮSTATYMO PAPILDYMO 56 STRAIPSNIU BEI PRIEDU ĮSTATYMAS
 
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 
-***
+18.
 
-Pabaiga ***
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-2396, 2004-07-15,
+
+Žin., 2004, Nr. 120-4436 (2004-08-03)
+
+VISUOMENĖS
+
+INFORMAVIMO ĮSTATYMO 48 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Konstitucinio
 
@@ -4148,7 +4172,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-05-14)
+Aušra Bodin (2004-08-03)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
