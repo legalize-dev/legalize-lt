@@ -4,7 +4,7 @@ identifier: "TAR.BAEF9ECD886E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-11"
-last_updated: "1996-10-01"
+last_updated: "2002-10-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BAEF9ECD886E"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1996-07-11"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos įstatymas
+
+Suvestinė redakcija nuo 2002-10-25 iki 2004-09-30
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 71-1717, i. k. 0961010ISTA00I-1485
 
 LIETUVOS RESPUBLIKOS GINKLŲ FONDO  Į S T A T Y M A S
 
@@ -31,7 +35,11 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Lietuvos Respublikos ginklų fondas
 
-1. Lietuvos Respublikos ginklų fondas (toliau – Ginklų fondas) yra valstybės institucija, įsteigta ir veikianti prie Lietuvos Respublikos Vyriausybės, turinti išimtinę teisę aprūpinti valstybės institucijas ir kitus juridinius asmenis ginklais, šaudmenimis, sprogmenimis, kovine technika ar specialiosiomis priemonėmis pagal Vyriausybės patvirtintą sąrašą.
+1. Lietuvos Respublikos ginklų fondas (toliau – Ginklų fondas) yra valstybės institucija, įsteigta ir veikianti prie Lietuvos Respublikos Vyriausybės, turinti išimtinę teisę aprūpinti valstybės institucijas ir kitus juridinius asmenis, išskyrus Krašto apsaugos ministeriją, ginklais, šaudmenimis, sprogmenimis, kovine technika ar specialiosiomis priemonėmis. Krašto apsaugos ministerija turi teisę įstatymų nustatyta tvarka aprūpinti krašto apsaugos sistemą ginklais, šaudmenimis, sprogmenimis, kovine technika ir specialiosiomis priemonėmis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1134, 2002-10-15, Žin., 2002, Nr. 102-4549 (2002-10-25), i. k. 1021010ISTA0IX-1134
 
 2. Ginklų fondas turi išimtinę teisę pardavinėti fiziniams asmenims pistoletus (revolverius) savigynai ir šaudmenis šiems ginklams.
 
@@ -135,15 +143,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-51 straipsnis. Pareiga teikti informaciją
+Pakeitimai:
 
-Ginklų fondo motyvuotu prašymu valstybės ar savivaldybių institucijos, registrai ar kiti juridiniai asmenys privalo Ginklų fondui neatlygintinai teikti duomenis, būtinus jo uždaviniams ir funkcijoms įgyvendinti.
+1.
 
-Papildyta straipsniu:
+Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. X-1550, 2008-05-20, Žin., 2008, Nr. 63-2386 (2008-06-03), i. k. 1081010ISTA00X-1550
+Nr. IX-1134, 2002-10-15, Žin., 2002, Nr. 102-4549 (2002-10-25), i. k. 1021010ISTA0IX-1134
 
-TREČIASIS SKIRSNIS
-
-GINKLŲ FONDO STRUKTŪRA IR PERSONALAS
+Lietuvos Respublikos ginklų fondo įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas
 
