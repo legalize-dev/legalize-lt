@@ -4,7 +4,7 @@ identifier: "TAR.D0429A864011"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-09"
-last_updated: "1993-12-22"
+last_updated: "1995-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0429A864011"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos melioracijos įstatymas
+
+Suvestinė redakcija nuo 1995-06-28 iki 1997-06-24
+
+Įstatymas paskelbtas: Žin. 1993, Nr. 71-1326, i. k. 0931010ISTA000I-323
 
 LIETUVOS RESPUBLIKOS MELIORACIJOS ĮSTATYMAS
 
@@ -56,7 +60,11 @@ Melioracijos krypčių ir prioritetų programas tvirtina Lietuvos Respublikos Vy
 
 Lietuvos Respublikos žemės ūkio ministerija rengia melioracijos programas, nustato melioracijos prioritetus, rengia ir tvirtina norminius aktus melioracijos klausimais, atlieka melioracijos darbų valstybinę priežiūrą, sudaro melioracijos įrenginių kadastrą, koordinuoja valstybinių melioracijos tarnybų veiklą.
 
-Savivaldybės (valstybinės melioracijos tarnybos) vykdo valstybei priklausančių melioracijos įrenginių savininko funkcijas ir atsako už šių įrenginių būklę, planuoja biudžeto lėšomis atliekamus melioracijos darbus ir vykdo iš biudžeto finansuojamų melioracijos darbų užsakovo funkcijas, tvarko valstybinę melioracijos įrenginių apskaitą, organizuoja ir atsako už šio įstatymo, Lietuvos Respublikos Vyriausybės sprendimų melioracijos klausimais įgyvendinimą.
+Apskrities valdytojas atlieka valstybei priklausančių melioracijos įrenginių savininko funkcijas, organizuoja šių įrenginių eksploataciją ir atsako už šių įrenginių būklę, atlieka iš biudžeto finansuojamų melioracijos darbų užsakovo funkcijas, tvarko valstybinę melioracijos įrenginių apskaitą, atlieka valstybinę melioracijos ir hidrotechnikos įrenginių priežiūrą ir atsako už šio įstatymo bei Lietuvos Respublikos Vyriausybės nutarimų melioracijos klausimais įgyvendinimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-943, 1995-06-13, Žin., 1995, Nr. 53-1298 (1995-06-28), i. k. 0951010ISTA000I-943
 
 6 straipsnis. Melioracijos projektavimas
 
@@ -135,4 +143,14 @@ Nuostolių apskaičiavimo metodiką ir įkainius tvirtina Lietuvos Respublikos V
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-943, 1995-06-13, Žin., 1995, Nr. 53-1298 (1995-06-28), i. k. 0951010ISTA000I-943
+
+Dėl Lietuvos Respublikos melioracijos įstatymo pakeitimo
 
