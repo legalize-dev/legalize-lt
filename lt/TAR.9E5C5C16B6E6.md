@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2004-04-10"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -42,309 +42,473 @@ balandžio 18 d. Nr. I-857
 
 Vilnius
 
-I SKYRIUS.
+Nauja įstatymo redakcija nuo 2004 m. gegužės 1 d.:
 
-BENDROSIOS NUOSTATOS
+Nr.
 
-1 straipsnis.
+IX-2052,
 
-Įstatyme vartojamos pagrindinės sąvokos
+2004-03-09, Žin., 2004, Nr. 47-1548 (2004-03-30)
 
-Etilo alkoholis
+I SKYRIUS
 
-(toliau - alkoholis) - narkotinio veikimo medžiaga, galinti lemti pripratimą ir
+BENDROSIOS
 
-priklausomybę nuo jos.
+NUOSTATOS
 
-Alkoholio produktai – nedenatūruotas
+1
 
-etilo alkoholis, denatūruotas etilo alkoholis (įskaitant dehidratuotą ir
+straipsnis. Įstatymo
 
-denatūruotą etilo alkoholį (etanolį), techninis etilo alkoholis, alkoholiniai
+paskirtis
 
-gėrimai, ingredientai ir žaliavos, kuriose yra etilo alkoholio.
+1.
 
-Alkoholiniai
+Šio Įstatymo
 
-gėrimai - gėrimai, kurių tūrinė etilo alkoholio koncentracija sudaro nuo 1 iki
+tikslas – mažinti bendrąjį alkoholio suvartojimą, jo prieinamumą, ypač
 
-50 procentų.
+nepilnamečiams, piktnaudžiavimą alkoholiu, jo daromą žalą sveikatai ir ūkiui,
 
-Alkoholio
+nustatyti teisės gaminti, parduoti, įvežti, importuoti ir eksportuoti šiame
 
-reklama - tai bet kokia forma ir bet kokiomis perdavimo priemonėmis
+Įstatyme reglamentuojamus alkoholio produktus suteikimo ūkio subjektams
 
-skelbiama informacija, kuria siekiama daryti poveikį reklamos vartotojų
+teisinius pagrindus.
 
-pasirinkimams, susijusiems su alkoholio produktų įsigijimu, vartojimu, įmonių
+2. Šis Įstatymas
 
-komercine, ūkine bei finansine veikla.
+reglamentuoja santykius, susijusius su alkoholio produktų, maisto ir kitų
 
-Alkoholio
+produktų, kuriuose yra etilo alkoholio, gamyba, prekyba, laikymu, gabenimu,
 
-kontrolė - šiame įstatyme ir kituose teisės aktuose numatytų alkoholio produktų
+įvežimu, importu, eksportu, vartojimu, reklama, rėmimu, ir nustato valstybės
 
-gamybos, importo, vidaus prekybos, vartojimo, alkoholio reklamos valstybinio
+alkoholio kontrolės Lietuvos Respublikoje pagrindus.
 
-reguliavimo priemonių, skirtų alkoholinių gėrimų bendrajam suvartojimui, taip
+3. Šio Įstatymo
 
-pat alkoholinių gėrimų, kitų produktų, kuriuose yra etilo alkoholio, vartojimo
+nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo
 
-nulemtoms kenksmingoms pasekmėms sveikatai ir ūkiui mažinti, visuma.
+priede.
 
-Stacionarinės
+Įstatymo 1 straipsnis įsigalioja nuo 2003 m. spalio 1 d.
 
-prekybos įmonės ir stacionarinės viešojo maitinimo įmonės - prekybos ir viešojo
+20.
 
-maitinimo įmonės, kurių pastatams, kaip nekilnojamajam turtui, Lietuvos
+Lietuvos
 
-Respublikos įstatymai ir kiti teisės aktai nustato valstybinę teisinę
+Respublikos Seimas, Įstatymas
 
-registraciją.
+Nr. IX-1875,
 
-Masiniai renginiai – šventės, festivaliai ir kiti renginiai, kuriuos
+2003-12-09, Žin., 2003, Nr. 119-5407 (2003-12-18)
 
-organizuoja valstybės ar savivaldybių institucijos, taip pat juridiniai ar
+ALKOHOLIO
 
-fiziniai asmenys, turintys savivaldybių institucijų sutikimus organizuoti
+KONTROLĖS ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-renginį (kai toks sutikimas būtinas pagal Lietuvos Respublikos susirinkimų
+21.
 
-įstatymą).
+Lietuvos
 
-Ugdymo įstaigos
+Respublikos Seimas, Įstatymas
 
-šiame įstatyme – ikimokyklinės ugdymo įstaigos, bendrojo lavinimo mokyklos, profesinio
+Nr.
 
-mokymo įstaigos, aukštesniosios mokyklos, papildomo ugdymo ir neformaliojo
+IX-2064, 2004-03-18, Žin., 2004, Nr. 53-1789 (2004-04-10)
 
-švietimo įstaigos.
+ALKOHOLIO
 
-Nestacionarinės
+KONTROLĖS ĮSTATYMO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-viešojo maitinimo įmonės – viešojo maitinimo įmonės, įrengtos vadovaujantis
+22.
 
-viešojo maitinimo įmonėms taikomomis higienos normomis ir taisyklėmis
+Lietuvos
 
-laikinuose statiniuose, kurie neregistruojami nekilnojamojo turto registre.
+Respublikos Seimas, Įstatymas
 
-Straipsnio
+Nr. IX-2052,
 
-pakeitimai:
+2004-03-09, Žin., 2004, Nr. 47-1548 (2004-03-30)
+
+ALKOHOLIO
+
+KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas, išskyrus 2 straipsnį, įsigalioja nuo 2004 m. gegužės 1 d.
+
+Nauja
+
+įstatymo redakcija
+
+*** Pabaiga ***
+
+Konstitucinio
+
+Teismo nutarimai:
+
+1.
 
 Lietuvos
 
 Respublikos Konstitucinis Teismas, Nutarimas
 
-97.02.13,
+1997.02.13,
 
-Žin., 1997, Nr.15-314 (97.02.19)
+Žin., 1997, Nr. 15-314 (1997.02.19)
 
-Nr.
+DĖL
 
-VIII-372,
+LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1 IR 30 STRAIPSNIŲ, LIETUVOS
 
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
+RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO 1, 3 IR 11 STRAIPSNIŲ, TAIP PAT LIETUVOS
 
-Nr.
+RESPUBLIKOS VYRIAUSYBĖS 1996 M. VASARIO 2 D. NUTARIMO NR. 179 "DĖL
 
-VIII-961,
+ALKOHOLIO REKLAMOS KONTROLĖS" ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
-98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
-
-Nr. IX-964,
-
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-2 straipsnis. Alkoholio
-
-kontrolės įstatymo paskirtis ir jo reguliuojami santykiai
-
-Alkoholio
-
-kontrolės įstatymo paskirtis – mažinti bendrąjį alkoholio suvartojimą,
-
-piktnaudžiavimą alkoholiu, jo daromą žalą sveikatai ir ūkiui, nustatyti teisės
-
-gaminti, parduoti ir importuoti šiame įstatyme nustatytus alkoholio produktus
-
-suteikimo ūkio subjektams teisinius pagrindus.
-
-Šis įstatymas reguliuoja
-
-santykius, susijusius su alkoholio produktų, maisto produktų su alkoholio
-
-priedais, kitų produktų, kuriuose yra etilo alkoholio, gamyba, vidaus prekyba,
-
-laikymu, gabenimu, importu, eksportu, vartojimu, bei nustato valstybės
-
-alkoholio kontrolės Lietuvos Respublikoje pagrindus.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-372,
-
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
-
-Nr.
-
-IX-600,
-
-2001-11-13, Žin., 2001, Nr. 99-3531 (2001-11-28)
-
-Nr. IX-964,
-
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-3 straipsnis. Valstybės
-
-alkoholio kontrolės politikos principai
-
-Valstybės alkoholio
-
-kontrolės politikos principai yra:
-
-1) mokesčiais mažinti
-
-alkoholinių gėrimų prieinamumą ;
-
-2) valstybinio reguliavimo priemonėmis
-
-užtikrinti valstybės biudžeto lėšų, gautų iš alkoholinių gėrimų gamybos,
-
-importo ir prekybos, dalies panaudojimą gyventojų sveikatos išsaugojimo ir
-
-stiprinimo programoms įgyvendinti;
-
-3) skatinti įmones gaminti,
-
-importuoti ir realizuoti alkoholinius gėrimus, kurių tūrinė etilo alkoholio
-
-koncentracija mažesnė kaip 22 procentai;
-
-4) riboti alkoholinių gėrimų
-
-pardavimo ir vartojimo skatinimą;
-
-5) papildomai naudoti
-
-nustatytos dalies akcizų už alkoholinius gėrimus įmokas sveikatos programoms
-
-rengti ir įgyvendinti;
-
-6) skatinti privačias įmones
-
-prisidėti įgyvendinant valstybės alkoholio kontrolės politiką;
-
-7) didinti visuomenės
-
-informuotumą alkoholio vartojimo daromos socialinės ir ekonominės žalos
-
-sveikatai ir ūkiui klausimais;
-
-8) didinti nevartojančių ar
-
-saikingai alkoholinius gėrimus vartojančių gyventojų skaičių remiant
-
-sveikatos ir blaivybės organizacijų veiklos programas;
-
-9) remti nealkoholinių
-
-gėrimų gamybą ir prekybą;
-
-10) remti laisvos nuo
-
-alkoholio gyvenamosios aplinkos planavimą;
-
-11) skatinti laisvos nuo
-
-alkoholio socialinės aplinkos formavimą ir socialinę veiklą.
-
-Jeigu šio įstatymo 2
-
-straipsnio antrojoje dalyje nurodyti santykiai nėra įstatymų sureguliuoti ir
-
-jiems negalima pritaikyti teisės aktų, reguliuojančių panašius santykius,
-
-nuostatų, tai sprendžiant kilusius ginčus, taikomi šio straipsnio pirmojoje
-
-dalyje išvardinti principai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-372,
-
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
-
-Nr. IX-964,
-
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-II SKYRIUS.
-
-ALKOHOLIO IR KITŲ PRODUKTŲ, KURIUOSE YRA ETILO ALKOHOLIO,
-
-GAMYBOS,
-
-PREKYBOS, IMPORTO, EKSPORTO BEI VARTOJIMO
-
-REGULIAVIMO
-
-YPATUMAI, ALKOHOLIO PRODUKTŲ KLASIFIKAVIMO,
-
-KOKYBĖS BEI
-
-VISUOMENĖS SVEIKATOS SAUGOS REIKALAVIMŲ
-
-IR RODIKLIŲ
-
-REGLAMENTAVIMAS
-
-4 straipsnis. Alkoholio
-
-produktų gamybos, prekybos ir importo reguliavimo ypatumai
-
-Alkoholio produktai yra
-
-priskiriami specialiems gaminiams, kurių gamybai, importui, prekybai ir
-
-vartojimui pagal šį ir kitus įstatymus bei teisės aktus taikomas ypatingas
-
-valstybinio reguliavimo režimas.
+2.
 
 Lietuvos
 
-Respublikos Vyriausybė ypatingais atvejais, atsižvelgdama į alkoholio
+Respublikos Konstitucinis Teismas, Nutarimas
 
-vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui monitoringo
+2004-01-26,
 
-rezultatus, Sveikatos apsaugos ministerijos teikimu gali nustatyti alkoholinių
+Žin., 2004, Nr. 15-465 (2004-01-29)
 
-gėrimų grupių gamybos ir importo kvotas.
+DĖL
 
-Straipsnio
+LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1 STRAIPSNIO 4 DALIES (1997
 
-pakeitimai:
+M. LIEPOS 2 D. REDAKCIJA), 2 STRAIPSNIO 1 DALIES (1995 M. BALANDŽIO 18 D.
 
-Nr.
+REDAKCIJA), 3 STRAIPSNIO 1 DALIES 2 PUNKTO (1995 M. BALANDŽIO 18 D. REDAKCIJA),
 
-VIII-961,
+4 STRAIPSNIO 2 DALIES (1998 M. GRUODŽIO 10 D. REDAKCIJA), 13 STRAIPSNIO (2000
 
-98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
+M. LIEPOS 18 D. REDAKCIJA), 30 STRAIPSNIO 1 DALIES (1997 M. LIEPOS 2 D.
 
-Nr.
+REDAKCIJA) BEI 44 STRAIPSNIO 4 DALIES (2002 M. BIRŽELIO 20 D. REDAKCIJA) IR
 
-IX-600,
+LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2001 M. SAUSIO 22 D. NUTARIMU NR. 67 "DĖL
 
-2001-11-13, Žin., 2001, Nr. 99-3531 (2001-11-28)
+ALKOHOLIO PRODUKTŲ GAMYBOS LICENCIJAVIMO TAISYKLIŲ PATVIRTINIMO"
+
+PATVIRTINTŲ ALKOHOLIO PRODUKTŲ GAMYBOS LICENCIJAVIMO TAISYKLIŲ 7 BEI 9 PUNKTŲ
+
+(2001 M. SAUSIO 22 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2004-03-31)
+
+autrap@lrs.lt
+
+2 straipsnis.
+
+Pagrindinės šio Įstatymo sąvokos
+
+1. Alkoholiniai
+
+gėrimai – gėrimai, kurių tūrinė etilo alkoholio koncentracija yra didesnė
+
+kaip 1,2 procento (alaus – didesnė kaip 0,5 procento).
+
+2. Alkoholio
+
+kontrolė – šiame Įstatyme ir kituose teisės aktuose nustatytų alkoholio
+
+produktų gamybos, įvežimo, importo, eksporto, prekybos, vartojimo, alkoholio
+
+reklamos visos valstybinio reglamentavimo priemonės, skirtos mažinti alkoholio
+
+bendrąjį suvartojimą, taip pat alkoholinių gėrimų, kitų produktų, kuriuose yra
+
+etilo alkoholio, vartojimo kenksmingas pasekmes sveikatai ir ūkiui.
+
+3. Alkoholio
+
+produktai – nedenatūruotas ir denatūruotas (įskaitant dehidratuotą ir
+
+denatūruotą) žemės ūkio kilmės ir ne žemės ūkio kilmės etilo alkoholis (toliau
+
+– etilo alkoholis), alkoholiniai gėrimai, maistiniai ir nemaistiniai
+
+alkoholiniai tirpalai su kvapiųjų medžiagų priedais (toliau – alkoholiniai
+
+tirpalai) ir etilo alkoholio turinčios žaliavos (toliau – žaliavos).
+
+4. Alkoholio
+
+reklama – bet kuria forma ir bet kokiomis priemonėmis skleidžiama
+
+informacija, susijusi su įmonių komercine, ūkine bei finansine veikla,
+
+skatinanti įsigyti ar vartoti alkoholio produktus.
+
+5. Eksportas
+
+– alkoholio produktų išvežimas (Lietuvos Respublikoje įforminant šių produktų
+
+negrąžinamojo eksporto muitinės procedūrą) į Europos Bendrijos muitų
+
+teritorijai nepriskirtas šalis arba teritorijas.
+
+6. Etilo
+
+alkoholis (toliau – alkoholis) – sotusis monohidroksilis
+
+alkoholis, kuris veikia psichiką ir gali lemti pripratimą bei
+
+priklausomybę nuo jo.
+
+7. Importas –
+
+alkoholio produktų įvežimas (Lietuvos Respublikoje įforminant jų išleidimo
+
+laisvai cirkuliuoti muitinės procedūrą) iš Europos Bendrijos muitų teritorijai
+
+nepriskirtų šalių arba teritorijų.
+
+8. Įvežimas –
+
+Europos Bendrijos produktų statusą turinčių alkoholio produktų įvežimas į
+
+Lietuvos Respubliką (išskyrus fizinių asmenų įvežamus alkoholio produktus) iš
+
+kitų Europos Bendrijos muitų teritorijai priskirtų šalių arba teritorijų.
+
+9. Masiniai
+
+renginiai – šventės, festivaliai ir kiti renginiai, kuriuos organizuoja
+
+valstybės ar savivaldybių institucijos, taip pat kiti juridiniai ar fiziniai
+
+asmenys, suderinę renginio laiką ir kitą jo organizavimo tvarką su
+
+atitinkamomis savivaldybės institucijomis (kai toks suderinimas būtinas pagal
+
+Lietuvos Respublikos susirinkimų įstatymą).
+
+10. Namų
+
+gamybos alkoholiniai gėrimai – fizinio asmens pagaminti alkoholiniai
+
+gėrimai.
+
+11.
+
+Natūralios fermentacijos alkoholiniai gėrimai – gėrimai, kuriuose visas
+
+etilo alkoholis yra gautas alkoholio rauginimo būdu, toliau nedistiliuojant ir
+
+nepridedant alkoholio produktų, turinčių distiliuoto ar rektifikuoto etilo
+
+alkoholio.
+
+12. Nestacionarios
+
+viešojo maitinimo įmonės – viešojo maitinimo įmonės, įrengtos laikantis
+
+viešojo maitinimo įmonėms taikomų higienos normų ir taisyklių laikinuose
+
+statiniuose (kuriuose vykdoma viešojo maitinimo veikla), neregistruojamuose
+
+nekilnojamojo turto registre.
+
+13. Ne žemės
+
+ūkio kilmės etilo alkoholis – etilo alkoholis, pagamintas iš produktų,
+
+nenurodytų Europos Bendrijos steigimo sutarties 1 priede.
+
+14.
+
+Specializuota alkoholinių gėrimų prekybos įmonė (prekybos įmonės specializuotas
+
+alkoholinių gėrimų prekybos skyrius) – prekybos įmonė (prekybos įmonės
+
+skyrius), kurios (kurio) prekių asortimentą sudaro tik alkoholiniai gėrimai
+
+arba alkoholiniai gėrimai ir lydimojo asortimento prekės (nealkoholiniai
+
+gėrimai, sultys, butelių atidarymo ir uždarymo įrankiai, pakuotės buteliams,
+
+tabako gaminiai, degtukai ir žiebtuvėliai).
+
+15. Stacionarios
+
+prekybos įmonės ir stacionarios viešojo maitinimo įmonės – prekybos ir
+
+viešojo maitinimo įmonės, kurių pastatams (kuriuose vykdoma prekybos ar viešojo
+
+maitinimo veikla), kaip nekilnojamajam turtui, Lietuvos Respublikos įstatymai
+
+ir kiti teisės aktai nustato teisinę registraciją.
+
+16. Ugdymo
+
+įstaigos – formaliojo ir neformaliojo švietimo įstaigos, išskyrus
+
+aukštąsias mokyklas.
+
+17. Žemės
+
+ūkio kilmės etilo alkoholis – etilo alkoholis, pagamintas iš žemės ūkio
+
+kilmės produktų, nurodytų Europos Bendrijos steigimo sutarties 1 priede.
+
+3 straipsnis. Valstybės alkoholio
+
+kontrolės politikos principai
+
+Valstybės
+
+alkoholio kontrolės politikos principai yra:
+
+1) mokesčiais
+
+mažinti alkoholinių gėrimų prieinamumą;
+
+2) valstybinio
+
+reglamentavimo priemonėmis užtikrinti valstybės alkoholio kontrolės, gyventojų
+
+sveikatos išsaugojimo ir stiprinimo, nepilnamečių švietimo programų
+
+finansavimą;
+
+3) teikti
+
+pirmenybę natūralios fermentacijos alkoholinių gėrimų gamybai, importui ir
+
+pardavimui;
+
+4) riboti alkoholinių
+
+gėrimų pardavimo ir vartojimo skatinimą;
+
+5) drausti
+
+priemones, skatinančias jaunimą pirkti ir vartoti alkoholinius gėrimus;
+
+6) skatinti
+
+juridinius asmenis, kurie verčiasi alkoholio verslu, prisidėti įgyvendinant
+
+valstybės alkoholio kontrolės politiką;
+
+7) didinti
+
+visuomenės informuotumą alkoholio vartojimo daromos socialinės ir ekonominės
+
+žalos sveikatai ir ūkiui klausimais;
+
+8) remti
+
+sveikatos ir blaivybės organizacijų veiklos programas ir tuo didinti
+
+alkoholinių gėrimų nevartojančių gyventojų skaičių;
+
+9) skatinti
+
+nealkoholinių gėrimų gamybą ir prekybą;
+
+10) remti
+
+laisvos nuo alkoholio gyvenamosios aplinkos planavimą;
+
+11) skatinti
+
+socialinės aplinkos be alkoholio kūrimą;
+
+12) skatinti
+
+mokslinius tyrimus bei informacijos apie alkoholio vartojimo žalą sveikatai
+
+skleidimą visuomenei;
+
+13) stiprinti
+
+bendradarbiavimą su kitomis Europos Sąjungos valstybėmis narėmis ir
+
+tarptautinėmis organizacijomis alkoholio vartojimo mažinimo klausimais.
+
+II SKYRIUS
+
+ALKOHOLIO IR
+
+KITŲ PRODUKTŲ, KURIUOSE YRA ETILO ALKOHOLIO, GAMYBOS, PREKYBOS, ĮVEŽIMO,
+
+IMPORTO, EKSPORTO IR VARTOJIMO VALSTYBINIO REGLAMENTAVIMO YPATUMAI. ALKOHOLIO
+
+PRODUKTŲ KLASIFIKAVIMO, KOKYBĖS IR VISUOMENĖS SVEIKATOS SAUGOS REIKALAVIMŲ BEI
+
+RODIKLIŲ REGLAMENTAVIMAS
+
+4 straipsnis. Alkoholio produktų
+
+gamybos, prekybos, įvežimo, importo ir eksporto
+
+valstybinio
+
+reglamentavimo ypatumai
+
+1. Alkoholio
+
+produktai yra priskiriami specialiems gaminiams, kurių apskaitai, gamybai,
+
+įvežimui, importui, eksportui, prekybai ir vartojimui pagal šį ir kitus
+
+įstatymus bei teisės aktus taikomas ypatingas valstybinio reglamentavimo
+
+režimas.
+
+2. Už vyno
+
+sektorių reglamentuojančių Europos Sąjungos teisės aktų reikalavimų
+
+įgyvendinimo užtikrinimą atsako Žemės ūkio ministerija ir Valstybinė maisto ir
+
+veterinarijos tarnyba.
+
+5
+
+straipsnis. Produktų, kuriuose yra etilo alkoholio, gamybos, prekybos, įvežimo,
+
+importo ir
+
+vartojimo valstybinio reglamentavimo ypatumai
+
+1. Jei skysčiai
+
+(technologiniai, parfumerijos, kosmetikos, buitinės chemijos pramonės gaminiai
+
+ir kt.), kuriuose yra etilo alkoholio, vartojami kaip apsvaigimą sukeliantys
+
+gėrimai, tai Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija turi
+
+teisę, remdamasi šių skysčių vartojimo ir jo sukeliamų žalingų pasekmių
+
+sveikatai statistikos atrankinių tyrimų duomenimis, nustatyti jų apskaitą,
+
+gamybą, įvežimą, importą, prekybą ir vartojimą pagal šio Įstatymo normas.
+
+2. Lietuvos
+
+Respublikos Vyriausybė ar jos įgaliota institucija, remdamasi šiuo ir kitais
+
+įstatymais bei teisės aktais, gali nustatyti maisto produktų, kuriuose yra
+
+alkoholio, apskaitos, gamybos, įvežimo, importo bei prekybos tvarką.
 
 5 straipsnis.
 
@@ -388,731 +552,287 @@ VIII-961,
 
 98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
 
-6 straipsnis. Alkoholio
+6 straipsnis.
 
-produktų kokybės ir higieninių rodiklių reglamentavimas
+Alkoholio produktų saugos ir kokybės rodiklių reglamentavimas
 
-Lietuvos Respublikoje įmonių
+Juridinių
 
-gaminami, į ją importuojami ir Lietuvos Respublikoje realizuojami alkoholio
+asmenų, taip pat Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotų
 
-produktai (toliau - alkoholio produktai) pagal kokybės ir higieninius rodiklius
+užsienio juridinių asmenų, pagal užsienio valstybės įstatymus turinčių teisę
 
-privalo atitikti Lietuvos Respublikos norminius dokumentus.
+vykdyti ūkinę komercinę veiklą, filialų bei atstovybių (toliau – užsienio
 
-Reikalavimai
+juridinių asmenų filialai bei atstovybės) Lietuvos Respublikoje gaminamų, į
 
-alkoholio produktų kokybei nustatomi norminiuose dokumentuose, kuriuos rengia
+Lietuvos Respubliką importuojamų, įvežamų ir joje realizuojamų alkoholio
 
-ir tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.
+produktų (toliau – alkoholio produktai) saugos ir kokybės rodikliai privalo
 
-Alkoholio produktų
-
-higieniniai rodikliai nustatomi norminiuose dokumentuose, kuriuos rengia ir
-
-tvirtina Sveikatos apsaugos ministerija.
-
-Kiekvienai
-
-Lietuvos Respublikoje pagamintų alkoholio produktų siuntai įmonė gamintoja privalo
-
-išduoti Valstybinės maisto ir veterinarijos tarnybos nustatyto pavyzdžio šių
-
-produktų atitiktį patvirtinančius dokumentus.
-
-Asmenys, atsakingi už
-
-alkoholio produktų, kurie neatitinka kokybės ir (ar) higieninių rodiklių,
-
-nustatytų Lietuvos Respublikos norminiuose dokumentuose, pagaminimą ir
-
-išleidimą į apyvartą, atsako pagal įstatymus bei kitus teisės aktus.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-987,
-
-95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
-
-Nr. VIII-1831,
-
-00.07.11, Žin., 2000, Nr.61-1833 (00.07.26)
-
-Nr. IX-127,
-
-2000 12 21, Žin., 2000, Nr. 113-3617 (2000 12 30), įsigalioja nuo 2001 01 01
-
-Nr. IX-964,
-
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
+atitikti Lietuvos Respublikoje galiojančius reikalavimus.
 
 7 straipsnis.
 
-Alkoholio produktų atitikimo norminių dokumentų reikalavimams
+Alkoholio produktų ir teisės aktų reikalavimų atitikties nustatymas
 
-nustatymas
+1. Alkoholio
 
-Ar alkoholio
+produktų saugos ir kokybės rodiklių ir Lietuvos Respublikoje galiojančių teisės
 
-produktai atitinka šio įstatymo bei Lietuvos Respublikos norminių dokumentų
+aktų reikalavimų atitiktį pagal kompetenciją kontroliuoja Valstybinė maisto ir
 
-reikalavimus, pagal kompetenciją kontroliuoja Valstybinė maisto ir
+veterinarijos tarnyba. Alkoholio produktų tyrimus atlieka Lietuvos Respublikos
 
-veterinarijos tarnyba. Alkoholio produktų tyrimus atlieka nustatyta tvarka
+Vyriausybės įgaliotos institucijos patvirtintos laboratorijos, turinčios teisę
 
-akredituotos laboratorijos. Alkoholinių gėrimų kokybės ir higieninės
+išduoti alkoholio produktų atitiktį patvirtinančius dokumentus.
 
-ekspertizės pagrindus, tvarką ir įkainius nustato Valstybinė maisto ir
+2. Vyno produktų
+
+gamyboje naudojamas vyndarystės technologijas kontroliuoja Valstybinė maisto ir
 
 veterinarijos tarnyba.
 
-Jeigu šio
+3. Jeigu šio
 
-įstatymo ir kitų teisės aktų įgaliotos kontrolės institucijos, tirdamos
+Įstatymo ir kitų teisės aktų įgaliotos kontrolės institucijos, tirdamos
 
 nustatyta tvarka paimtus alkoholio produktų pavyzdžius, nustato, kad šie
 
-neatitinka norminių dokumentų reikalavimų, tai laikoma, kad šių reikalavimų
+neatitinka teisės aktų reikalavimų, laikoma, kad šių reikalavimų neatitinka
 
-neatitinka visa alkoholio produktų siunta, iš kurios buvo paimti pavyzdžiai.
+visa alkoholio produktų siunta, iš kurios buvo paimti pavyzdžiai, ir taikomos
 
-Alkoholio produktų siuntų, kurios pagal kontrolės institucijų užsakymu atliktos
+įstatymų nustatytos rinkos ribojimo priemonės.
 
-ekspertizės išvadas pripažintos neatitinkančiomis šio įstatymo ir norminių
+8 straipsnis.
 
-dokumentų reikalavimų, realizavimo sustabdymo ir tolesnio naudojimo tvarką
-
-nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-987,
-
-95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
-
-Nr.
-
-VIII-961,
-
-98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
-
-Nr. VIII-1831,
-
-00.07.11, Žin., 2000, Nr.61-1833 (00.07.26)
-
-8 straipsnis. Alkoholinių
-
-gėrimų klasifikavimas
+Alkoholinių gėrimų klasifikavimas
 
 Lietuvos
 
-Respublikoje įmonių gaminami, į ją importuojami ir Lietuvos Respublikoje
+Respublikoje gaminami, į Lietuvos Respubliką importuojami, įvežami ir joje
 
 realizuojami alkoholiniai gėrimai pagal žaliavas ir gamybos technologijas
 
-skirstomi į grupes, pogrupius ir (ar) kategorijas. Turi būti nustatyta
+skirstomi į grupes, pogrupius ir (ar) kategorijas. Alkoholinių gėrimų, išskyrus
 
-kiekvienos alkoholinių gėrimų grupės maksimali tūrinė etilo alkoholio koncentracija.
+tuos, kurių klasifikavimas nustatytas tiesioginio taikymo Europos Sąjungos
 
-Alkoholinių gėrimų grupes, pogrupius ir (ar) kategorijas ir kiekvienos grupės
+teisės aktais, grupes, pogrupius ir (ar) kategorijas nustato Lietuvos
 
-alkoholinių gėrimų maksimalią tūrinę etilo alkoholio koncentraciją nustato
+Respublikos Vyriausybės įgaliota institucija.
 
-Lietuvos Respublikos Vyriausybės įgaliota institucija.
+9 straipsnis.
 
-Straipsnio
-
-pakeitimai:
-
-Nr. IX-127,
-
-2000 12 21, Žin., 2000, Nr. 113-3617 (2000 12 30), įsigalioja nuo 2001 01 01
-
-Nr. IX-964,
-
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-9 straipsnis. Alkoholinių
-
-gėrimų prekinis žymėjimas
-
-Alkoholinių
-
-gėrimų prekinio žymėjimo reikalavimus nustato norminiai dokumentai, kuriuos
-
-rengia ir tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.
-
-Lietuvos Respublikoje
-
-gaminamų ir realizuojamų alkoholinių gėrimų etiketėse privalo būti nurodyta
-
-tūrinė etilo alkoholio koncentracija juose.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. IX-127,
-
-2000 12 21, Žin., 2000, Nr. 113-3617 (2000 12 30), įsigalioja nuo 2001 01 01
-
-III SKYRIUS.
-
-ALKOHOLIO PRIEINAMUMO RIBOJIMAS
-
-I skirsnis.
-
-Alkoholio produktų gamybos valstybinis reguliavimas
-
-10 straipsnis.
-
-Namų gamybos stiprių alkoholinių gėrimų gaminimo reguliavimas
+Alkoholinių gėrimų ženklinimas
 
 Lietuvos
 
-Respublikoje draudžiama gaminti naminę degtinę, brogą, kitus namų gamybos
+Respublikoje parduodami alkoholiniai gėrimai turi būti paženklinti teisės aktų
 
-stiprius alkoholinius gėrimus. Alkoholiniai gėrimai (išskyrus naminę degtinę ir
+nustatyta tvarka.
 
-brogą) pripažįstami namų gamybos stipriais alkoholiniais gėrimais, jeigu tūrinė
+III SKYRIUS
 
-etilo alkoholio koncentracija juose didesnė kaip 15 procentų (aluje – didesnė
+ALKOHOLIO
 
-kaip 9,5 procento).
+PRIEINAMUMO RIBOJIMAS
 
-Straipsnio
+PIRMASIS SKIRSNIS
 
-pakeitimai:
+ALKOHOLIO
 
-Nr.
+PRODUKTŲ GAMYBOS VALSTYBINIS REGLAMENTAVIMAS
 
-VIII-372,
+10 straipsnis. Namų gamybos alkoholinių
 
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
+gėrimų gamybos valstybinis reglamentavimas
 
-Nr.
+Lietuvos
 
-IX-714,
+Respublikoje draudžiama gaminti namų gamybos alkoholinius gėrimus, išskyrus
 
-2002-01-17, Žin., 2002, Nr. 13-470 (2002-02-06)
+fizinių asmenų asmeniniam naudojimui (t.y. ne parduoti, o tik savo ar šeimos
 
-11 straipsnis. Alkoholio
+poreikiams tenkinti) gaminamus natūralios fermentacijos alkoholinius gėrimus,
 
-produktų gamybos Lietuvos Respublikoje valstybinio
+kurių tūrinė etilo alkoholio koncentracija ne didesnė kaip 18 procentų (alaus –
 
-reguliavimo
+ne didesnė kaip 9,5 procento).
+
+11 straipsnis.
+
+Alkoholio produktų gamybos Lietuvos Respublikoje valstybinio reglamentavimo
 
 ypatumai
 
-Alkoholinių gėrimų, maisto
+1. Alkoholinių
 
-produktų etilo alkoholio priedų gamybai naudojamas etilo alkoholis turi būti
+gėrimų, maisto gamyboje naudojamų etilo alkoholio turinčių produktų gamybai
 
-pagamintas tik iš maisto žaliavų ir nedenatūruotas. Alkoholio produktų
+naudojamas etilo alkoholis turi būti pagamintas tik iš žemės ūkio kilmės produktų
 
-pripažinimo denatūruotais kriterijus nustato norminiai dokumentai, kuriuos
+ir nedenatūruotas. Etilo alkoholio pripažinimo denatūruotu kriterijus nustato
 
-rengia ir tvirtina Sveikatos apsaugos ministerija.
+Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
-Lietuvos Respublikoje
+2. Kiekviena
 
-įmonėms draudžiama gaminti vyną pramoniniu būdu iš sulfituotų sulčių.
+Lietuvos Respublikoje pagaminta alkoholio produktų siunta privalo turėti šių
 
-Lietuvos Respublikoje
+produktų atitiktį patvirtinantį dokumentą. Valstybinė maisto ir veterinarijos
 
-draudžiama diegti tokias užsienio šalių alkoholinių gėrimų gamybos
+tarnyba nustato alkoholio produktų atitiktį patvirtinančio dokumento formą ir,
 
-technologijas, kurios skirtos žemesnės kokybės alkoholiniams gėrimams gaminti
+suderinusi su Žemės ūkio ministerija, patvirtina laboratorijas, turinčias teisę
 
-negu tose pačiose šalyse ir Lietuvoje išleidžiama analogiška aukštesnės kokybės
+išduoti tokius dokumentus.
 
-produkcija.
+12 straipsnis. Teisės gaminti alkoholio
 
-12 straipsnis.
+produktus suteikimas
 
-Teisės gaminti alkoholio produktus suteikimas įmonėms
+1. Gaminti
 
-Gaminti
+alkoholio produktus (išskyrus šio Įstatymo 10 straipsnyje nurodytus namų
 
-alkoholio produktus leidžiama tik toms įmonėms, kurios turi Lietuvos
+gamybos alkoholinius gėrimus, kuriuos pasigamina fiziniai asmenys asmeniniam
 
-Respublikos Vyriausybės ar jos pavedimu Valstybinės tabako ir alkoholio
+naudojimui) leidžiama tik įstatymų nustatyta tvarka Lietuvos Respublikoje
 
-kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės (toliau – VTAKT)
+įregistruotoms įmonėms ir užsienio juridinių asmenų filialams (toliau – įmonė),
 
-išduotą licenciją. Licencija gaminti alkoholio produktus išduodama
+kurie turi Valstybinės tabako ir alkoholio kontrolės tarnybos prie Lietuvos
 
-neterminuotam laikui. Licencija gaminti alkoholio produktus išduodama tik
+Respublikos Vyriausybės (toliau – Tarnyba) išduotą licenciją gaminti šiuos
 
-toms įmonėms, kurios turi nustatyta tvarka patvirtintus norminius dokumentus,
+produktus. Licencija išduodama neterminuotam laikui.
 
-nustatančius šių produktų kokybės, higienos reikalavimus bei rodiklius, taip
+2. Licencija
 
-pat higienos ir technologijos reikalavimus atitinkančią įrangą ir patalpas,
+gaminti alkoholio produktus išduodama tik toms įmonėms, kurios turi nustatyta
 
-alkoholio produktų kokybės tyrimo laboratoriją ir nustatytos kvalifikacijos
+tvarka patvirtintus norminius dokumentus, nustatančius šių produktų saugos ir
 
-personalą. Personalo kvalifikacinius reikalavimus nustato Lietuvos Respublikos
+kokybės rodiklius, taip pat technologijos reikalavimus atitinkančią įrangą ir
 
-Vyriausybės įgaliota institucija. Įmonės, gaminančios per metus iki 100 000
+patalpas, alkoholio produktų kokybės tyrimo laboratoriją ir reikiamos
 
-dekalitrų alaus ir neturinčios galimybės įsirengti nuosavos laboratorijos,
+kvalifikacijos personalą. Personalo kvalifikacijos reikalavimus nustato
 
-pagal sutartis naudojasi nustatyta tvarka atestuotomis kitų žinybų ar įmonių
+Lietuvos Respublikos Vyriausybės įgaliota institucija. Įmonės, gaminančios per
 
-maisto produktų kokybės tyrimo laboratorijų paslaugomis.
+metus iki 100 000 dekalitrų alaus ir neturinčios galimybės įsirengti nuosavos
 
-Licencijose turi
+laboratorijos, pagal sutartis naudojasi nustatyta tvarka atestuotų kitų
 
-būti įrašyti leidžiami gaminti alkoholio produktai ir nurodytos alkoholinių
+institucijų ar įmonių maisto produktų kokybės tyrimo laboratorijų paslaugomis.
 
-gėrimų grupės.
+3. Alkoholio produktų
 
-Alkoholio
+gamybos licencijavimo taisykles, remdamasi šiuo Įstatymu, Lietuvos Respublikos
 
-produktų gamybos licencijavimo taisykles, remdamasi šiuo įstatymu ir Civiliniu
+civiliniu kodeksu (toliau – Civilinis kodeksas) ir Europos Sąjungos teisės
 
-kodeksu, nustato Lietuvos Respublikos Vyriausybė. Licencijos gaminti alkoholio
+reikalavimais, tvirtina Lietuvos Respublikos Vyriausybė. Licencijos gaminti
 
-produktus neišduodamos naujai įsteigtoms įmonėms, jeigu jų steigėjai arba administracijos
+alkoholio produktus naujai įsteigtoms įmonėms neišduodamos, jeigu jų steigėjai
 
-vadovai yra buvę įmonių, kurioms vadovaujantis šio įstatymo 44 straipsnio 11
+ar administracijos vadovai yra buvę įmonių, kurioms vadovaujantis šio Įstatymo
 
-dalies nuostatomis buvo panaikintas licencijų galiojimas, steigėjai ar vadovai.
+34 straipsnio 18 dalimi buvo panaikintas licencijų galiojimas, steigėjai,
 
-Straipsnio
+administracijos vadovai ar kiti šio Įstatymo 34 straipsnio 18 dalyje nurodyti
 
-pakeitimai:
+darbuotojai.
 
-Nr.
+ANTRASIS
 
-I-1345,
-
-96.05.21, Žin., 1996, Nr. 53-1247 (96.06.05)
-
-Nr.
-
-VIII-176,
-
-97.04.08, Žin., 1997, Nr.33-809 (97.04.18)
-
-Nr.
-
-VIII-1232,
-
-99.06.15, Žin., 1999, Nr.57-1835 (99.06.30)
-
-Nr. VIII-1569,
-
-00.03.16, Žin., 2000, Nr.28-759 (00.04.05)
-
-Nr. VIII-1873,
-
-00.07.18, Žin., 2000, Nr.64-1939 (00.07.31)
-
-Nr. IX-964,
-
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-13
-
-straipsnis. Teisės gaminti atskirus alkoholio produktus suteikimas nustatytų
-
-rūšių
-
-įmonėms
-
-Tik akcinėms
-
-bendrovėms, kuriose valstybei nuosavybės teise priklauso akcijų, suteikiančių
-
-ne mažiau kaip 2/3 visų balsų, šio įstatymo ir kitų teisės aktų nustatyta
-
-tvarka suteikiama teisė gaminti nedenatūruotą etilo alkoholį, denatūruotą etilo
-
-alkoholį bei alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija
-
-viršija 22 procentus. Šis reikalavimas netaikomas šio straipsnio antrojoje, trečiojoje
-
-ir ketvirtojoje dalyse nurodytoms įmonėms.
-
-UAB „Lietuviškas midus“ šio įstatymo ir
-
-kitų teisės aktų nustatyta tvarka suteikiama teisė gaminti natūralaus bičių
-
-medaus fermentacijos procese gautų produktų pagrindu gaminamus alkoholinius
-
-gėrimus.
-
-AB „Sema“ šio įstatymo ir kitų teisės
-
-aktų nustatyta tvarka suteikiama teisė gaminti nedenatūruotą etilo alkoholį
-
-kaip pagrindinės mielių gamybos papildomą produktą ir denatūruotą etilo
-
-alkoholį.
-
-Akcinėms
-
-bendrovėms, kuriose valstybei iki jų privatizavimo nuosavybės teise priklausė
-
-akcijų, suteikiančių ne mažiau kaip 2/3 visų balsų, suteikiama teisė gaminti
-
-iki valstybei priklausiusių akcijų privatizavimo gamintus alkoholio produktus
-
-šio įstatymo ir kitų teisės aktų nustatyta tvarka.
-
-Kitų rūšių
-
-įmonėms šio įstatymo ir kitų teisės aktų nustatyta tvarka suteikiama teisė
-
-gaminti kitus alkoholio produktus, įskaitant alkoholinius gėrimus, kurių tūrinė
-
-etilo alkoholio koncentracija neviršija 22 procentų.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-987,
-
-95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
-
-Nr.
-
-VIII-372,
-
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
-
-Nr. VIII-1873,
-
-00.07.18, Žin., 2000, Nr.64-1939 (00.07.31)
-
-Nr. IX-964, 2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-Nr.
-
-IX-1657,
-
-2003-06-26, Žin., 2003, Nr. 64-2883 (2003-06-30)
-
-II skirsnis.
-
-Alkoholio produktų importo ir eksporto
-
-valstybinis
-
-reguliavimas
-
-įstatymo 13 straipsnis galioja iki 2004 m. sausio 1 d.
-
-Įstatymas papildytas straipsniu:
-
-Nr. IX-964,
-
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-IX-1657,
-
-2003-06-26, Žin., 2003, Nr. 64-2883 (2003-06-30)
-
-Skelbiu šį Lietuvos
-
-Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
-
-BRAZAUSKAS
-
-_________________
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-987,
-
-95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
-
-DĖL LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS
-
-ĮSTATYMO PAKEITIMO
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-1156,
-
-95.12.21, Žin., 1996, Nr. 8-195 (96.01.26)
-
-DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-
-PAŽEIDIMŲ KODEKSO, ĮMONIŲ ĮSTATYMO IR ALKOHOLIO KONTROLĖS ĮSTATYMO PAKEITIMO
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-1345,
-
-96.05.21, Žin., 1996, Nr. 53-1247 (96.06.05)
-
-LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO
-
-12, 17, 20 IR 21 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-176,
-
-97.04.08, Žin., 1997, Nr.33-809 (97.04.18)
-
-LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO
-
-12, 17, 19, 20, 33, 44, 45, 50 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-372,
-
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
-
-LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1,
-
-2, 3, 10, 13, 14, 20, 21, 25, 29, 30, 31, 33, 39, 41, 43, 44 STRAIPSNIŲ
-
-PAKEITIMO IR PAPILDYMO BEI IV SKYRIAUS II SKIRSNIO PAVADINIMO PAKEITIMO
-
-ĮSTATYMAS
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-961,
-
-98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
-
-LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1,
-
-4, 5, 7, 17, 19, 20, 21, 24, 25, 36, 43, 44, 46 STRAIPSNIŲ PAKEITIMO IR
-
-PAPILDYMO ĮSTATYMAS
-
-7.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. VIII-1232,
-
-99.06.15, Žin., 1999, Nr.57-1835 (99.06.30)
-
-LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 12
-
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-8.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-1569,
-
-00.03.16, Žin., 2000, Nr.28-759 (00.04.05)
-
-ALKOHOLIO KONTROLĖS ĮSTATYMO
-
-12, 15, 16, 17, 19, 20, 29, 44 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-9.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-1831, 00.07.11,
-
-Žin., 2000, Nr.61-1833 (00.07.26)
-
-ALKOHOLIO KONTROLĖS ĮSTATYMO
-
-6, 7, 16 IR 44 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-10.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-1873,
-
-00.07.18, Žin., 2000, Nr.64-1939 (00.07.31)
-
-ALKOHOLIO KONTROLĖS ĮSTATYMO
-
-12, 13, 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-11.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-127, 2000 12
-
-21, Žin., 2000, Nr. 113-3617 (2000 12 30)
-
-ALKOHOLIO KONTROLĖS ĮSTATYMO
-
-6, 8 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
-
-12.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-237,
-
-2001 04 05, Žin., 2001, Nr. 31-1016 (2001 04 11)
-
-ALKOHOLIO KONTROLĖS ĮSTATYMO
-
-21 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-13.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-600,
-
-2001-11-13, Žin., 2001, Nr. 99-3531 (2001-11-28)
+SKIRSNIS
 
 ALKOHOLIO
 
-KONTROLĖS ĮSTATYMO 2, 4, 21, 25 IR 44 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+PRODUKTŲ ĮVEŽIMO, IMPORTO IR EKSPORTO VALSTYBINIS REGLAMENTAVIMAS
 
-14.
+13 straipsnis. Alkoholio produktų
 
-Lietuvos Respublikos Seimas,
+įvežimo ir importo tvarka
 
-Įstatymas
+1. Importuoti vyną,
 
-Nr. IX-714,
+vynuogių misą (toliau – vyno produktai) ir žemės ūkio kilmės etilo alkoholį
 
-2002-01-17, Žin., 2002, Nr. 13-470 (2002-02-06)
+leidžiama tik įmonėms, turinčioms Lietuvos Respublikos Vyriausybės įgaliotos
 
-ALKOHOLIO KONTROLĖS ĮSTATYMO 10
+institucijos išduotą importo licenciją.
 
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+2. Importuoti
 
-15.
+šio straipsnio 1 dalyje nenurodytus kitus alkoholio produktus leidžiama
 
-Lietuvos Respublikos Seimas,
+tik įmonėms, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
 
-Įstatymas
+nustatyta tvarka informavusioms apie tai Lietuvos Respublikos Vyriausybės
 
-Nr. IX-964,
+įgaliotą instituciją. Importavusios alkoholio produktus, įmonės privalo
 
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
+laikytis šio Įstatymo III skyriaus trečiajame skirsnyje nustatytų realizavimo,
 
-ALKOHOLIO KONTROLĖS ĮSTATYMO 1,
+laikymo, gabenimo reikalavimų.
 
-2, 3, 6, 8, 12, 13, 14, 16, 17, 19, 20, 21, 23, 25, 27, 28, 30, 41, 44, 45, 48,
+3. Importuoti
 
-52 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 53 STRAIPSNIU ĮSTATYMAS
+alkoholio produktus įmonėms leidžiama tik tuo atveju, kai jos turi užsienio
 
-16.
+valstybės kompetentingos institucijos pripažintų subjektų (laboratorijos, kitos
 
-Lietuvos
+institucijos ar alkoholio produktų gamintojo) išduotus alkoholio produktų
 
-Respublikos Seimas, Įstatymas
+atitiktį patvirtinančius dokumentus, kuriuose taip pat privalo būti pateikti ir
 
-Nr. IX-1158,
+deklaruojami kokybės bei nekenksmingumo rodikliai, o importuojant vyno
 
-2002-10-29, Žin., 2002, Nr. 112-4966 (2002-11-22)
+produktus – jų gabenimo dokumentą ir dokumentą, nurodantį vyno produktų
 
-ALKOHOLIO KONTROLĖS ĮSTATYMO 20
+analizės duomenis. Atvejai, kada importuojant vyno produktus nereikalaujama
 
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+turėti šių dokumentų, nustatyti Lietuvos Respublikoje galiojančiuose teisės
 
-17.
+aktuose.
 
-Lietuvos Respublikos Seimas,
+4. Įvežti
 
-Įstatymas
+alkoholio produktus leidžiama juridiniams asmenims ir užsienio juridinių asmenų
 
-Nr. IX-1558,
+filialams bei atstovybėms. Įvežę alkoholio produktus, juridiniai asmenys ir
 
-2003-05-15, Žin., 2003, Nr. 52-2312 (2003-05-30)
+užsienio juridinių asmenų filialai bei atstovybės privalo laikytis šio Įstatymo
 
-ALKOHOLIO KONTROLĖS ĮSTATYMO 20,
+III skyriaus trečiajame skirsnyje nustatytų realizavimo, laikymo, gabenimo reikalavimų.
 
-21, 25 STRAIPSNIŲ PAPILDYMO IR 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+14
 
-18.
+straipsnis. Licencijų importuoti vyno produktus ir žemės ūkio kilmės etilo
 
-Lietuvos
+alkoholį
 
-Respublikos Seimas, Įstatymas
+išdavimo tvarka
 
-Nr.
+1. Licencijas
 
-IX-1657,
+importuoti vyno produktus ir žemės ūkio kilmės etilo alkoholį išduoda Lietuvos
 
-2003-06-26, Žin., 2003, Nr. 64-2883 (2003-06-30)
+Respublikos Vyriausybės įgaliota institucija.
 
-ALKOHOLIO
+2. Šio
 
-KONTROLĖS ĮSTATYMO 13 IR 53 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+straipsnio 1 dalyje nurodytų alkoholio produktų importo licencijavimo
 
-19.
+taisykles, remdamasi šiuo Įstatymu ir Europos Sąjungos teisės reikalavimais,
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-1670,
-
-2003-07-01, Žin., 2003, Nr. 70-3169 (2003-07-16)
-
-ALKOHOLIO KONTROLĖS ĮSTATYMO 29,
-
-30 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šio
+nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 14 straipsnis. Alkoholinių
 
@@ -1156,107 +876,719 @@ Nr. IX-964,
 
 2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
 
-15 straipsnis. Alkoholio
+15 straipsnis.
 
-produktų importo valstybinio reguliavimo ypatumai
+Alkoholio produktų eksporto valstybinis reglamentavimas
 
-Tik įmonėms, turinčioms
+1. Eksportuoti
 
-Lietuvos Respublikos Vyriausybės ar jos pavedimu VTAKT išduotą licenciją
+vyno produktus ir žemės ūkio kilmės etilo alkoholį leidžiama tik įmonėms,
 
-gaminti alkoholio produktus, šio įstatymo ir kitų teisės aktų nustatyta tvarka
+turinčioms Lietuvos Respublikos Vyriausybės įgaliotos institucijos išduotą
 
-leidžiama importuoti nedenatūruotą etilo alkoholį be teisės jį realizuoti
+eksporto licenciją.
 
-kitoms įmonėms.
+2. Šio
 
-Straipsnio
+straipsnio 1 dalyje nurodytų alkoholio produktų eksporto licencijavimo
 
-pakeitimai:
+taisykles, remdamasi šiuo Įstatymu ir Europos Sąjungos teisės reikalavimais,
 
-Nr. VIII-1569,
+nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
-00.03.16, Žin., 2000, Nr.28-759 (00.04.05)
+TREČIASIS
 
-16 straipsnis. Alkoholio
+SKIRSNIS
 
-produktų importo tvarka
+DIDMENINĖS IR
 
-Importuoti alkoholio
+MAŽMENINĖS PREKYBOS ALKOHOLIO PRODUKTAIS VALSTYBINIS REGLAMENTAVIMAS
 
-produktus įmonėms leidžiama tik, kai jos turi:
+16 straipsnis.
 
-1) šio įstatymo ir Lietuvos
+Didmeninės ir mažmeninės prekybos alkoholio produktais licencijos
 
-Respublikos Vyriausybės nutarimų nustatyta tvarka išduotą licenciją;
+1. Didmenine
 
-2) užsienio
+prekyba alkoholio produktais leidžiama verstis tik įmonėms, turinčioms Tarnybos
 
-valstybės kompetentingos institucijos pripažintų subjektų (laboratorijos, kitos
+išduotas licencijas verstis didmenine prekyba jais. Licencijos išduodamos
 
-institucijos ar alkoholio produktų gamintojo) išduotus alkoholio produktų
+neterminuotam laikui. Licencijose verstis didmenine prekyba alkoholio
 
-atitiktį patvirtinančius dokumentus, kuriuose taip pat privalo būti pateikti ir
+produktais, be kita ko, turi būti įrašyti leidžiami parduoti alkoholio
 
-deklaruojami kokybės bei nekenksmingumo rodikliai, o importuojant vyną, – ir
+produktai, nurodytos alkoholinių gėrimų grupės, taip pat alkoholinių gėrimų
 
-dokumentą, nurodantį vyno analizės duomenis.
+prekybos ir laikymo vieta.
 
-3) nustatytą alkoholinių
+2. Įmonės,
 
-gėrimų talpų specialų ženklinimą.
+turinčios licencijas gaminti alkoholio produktus, turi teisę verstis ir
 
-Dokumentų,
+didmenine prekyba savo pagamintais produktais.
 
-nurodytų šio straipsnio pirmosios dalies 2 punkte, įforminimo reikalavimus
+3. Mažmenine
 
-nustato Valstybinė maisto ir veterinarijos tarnyba.
+prekyba alkoholiniais gėrimais leidžiama verstis tik įmonėms, turinčioms
 
-Importuoti
+licencijas verstis mažmenine prekyba alkoholiniais gėrimais. Licencijas išduoda
 
-alkoholinius gėrimus leidžiama tik iš alkoholinius gėrimus gaminančių ar
+atitinkamos savivaldybės vykdomoji institucija neterminuotam laikui. Licencijos
 
-gamintojų pavedimu juos realizuojančių (tik tais atvejais, kai gamintojai patys
+verstis sezonine mažmenine prekyba alumi ir alkoholiniais gėrimais, kurių
 
-nerealizuoja) užsienio ūkio subjektų.
+tūrinė etilo alkoholio koncentracija neviršija 22 procentų, kurortuose ir
 
-Importuojamų alkoholinių
+kitose savivaldybių tarybų nustatytose poilsio bei turizmo teritorijose
 
-gėrimų talpų specialaus ženklinimo ir jo taikymo tvarką nustato Lietuvos
+išduodamos savivaldybių tarybų nustatyto kurortinio, poilsio bei turizmo sezono
 
-Respublikos Vyriausybė.
+laikotarpiui. Vienkartinės licencijos prekybos ir viešojo maitinimo įmonėms
 
-Įmonės, kurios importavo
+prekiauti alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija
 
-alkoholio produktus, privalo Lietuvos Respublikos Vyriausybės nustatyta tvarka
+neviršija 13 procentų, masiniuose renginiuose, parodose ir mugėse, taip pat
 
-ir terminais juos užpajamuoti.
+prekiauti visais alkoholiniais gėrimais parodose ir mugėse, vykstančiose
 
-Alkoholio produktų importo
+stacionariuose pastatuose, išduodamos ne ilgesniam kaip renginio trukmės
 
-tvarką, remdamasi šiuo įstatymu, nustato Lietuvos Respublikos Vyriausybė.
+laikui.
 
-Straipsnio
+4. Mažmeninės
 
-pakeitimai:
+prekybos alkoholiniais gėrimais prekybos ir viešojo maitinimo įmonėse licencijų
 
-Nr.
+išdavimo tvarką nustato ir visuomenės informavimo priemonėse skelbia
 
-I-987,
+savivaldybės taryba. Licencijų išdavimą savivaldybėse kontroliuoja Tarnyba.
 
-95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
+5. Licencijose
 
-Nr. VIII-1569,
+verstis mažmenine prekyba alkoholiniais gėrimais, be kita ko, turi būti
 
-00.03.16, Žin., 2000, Nr.28-759 (00.04.05)
+įrašytos leidžiamų parduoti alkoholinių gėrimų grupės, taip pat alkoholinių
 
-Nr. VIII-1831,
+gėrimų prekybos ir laikymo vieta.
 
-00.07.11, Žin., 2000, Nr.61-1833 (00.07.26)
+6. Didmeninės ir
 
-Nr. IX-964,
+mažmeninės prekybos alkoholio produktais licencijavimo taisykles, remdamasi
 
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
+šiuo Įstatymu, Civiliniu kodeksu ir Europos Sąjungos teisės reikalavimais,
+
+nustato Lietuvos Respublikos Vyriausybė. Naujai įsteigtoms įmonėms licencijos 5
+
+metus neišduodamos, jeigu jų steigėjai arba administracijos vadovai yra buvę
+
+įmonių, kurioms vadovaujantis šio Įstatymo 34 straipsnio 17 dalimi buvo
+
+panaikintas licencijų galiojimas, steigėjai arba administracijos vadovai.
+
+Naujai įsteigtoms įmonėms licencijos neišduodamos, jeigu jų steigėjai arba
+
+administracijos vadovai yra buvę įmonių, kurioms vadovaujantis šio Įstatymo 34
+
+straipsnio 18 dalimi buvo panaikintas licencijų galiojimas, steigėjai,
+
+administracijos vadovai ar kiti šio Įstatymo 34 straipsnio 18 dalyje nurodyti
+
+darbuotojai.
+
+17
+
+straipsnis. Alkoholio produktų pardavimo, laikymo ir gabenimo reikalavimai
+
+1. Lietuvos
+
+Respublikoje parduoti draudžiama:
+
+1) alkoholio
+
+produktus neturint Lietuvos Respublikos Vyriausybės ar jos įgaliotos
+
+institucijos nustatyta tvarka alkoholio produktų atitiktį patvirtinančių
+
+dokumentų;
+
+2) alkoholio
+
+produktus, kurie neįrašyti į licencijas juos gaminti, importuoti, parduoti, ir
+
+alkoholio produktus neturint prekybos (sandėliavimo) vietoje juridinę galią
+
+turinčių privalomų tų produktų įsigijimo arba gabenimo dokumentų
+
+egzemplioriaus;
+
+3) alkoholinius
+
+gėrimus (išskyrus alų ir natūralios fermentacijos sidrą, kurio tūrinė etilo
+
+alkoholio koncentracija neviršija 8,5 procento), nepaženklintus Lietuvos
+
+Respublikos Vyriausybės nustatyta tvarka specialiais ženklais – banderolėmis;
+
+4) alkoholinius
+
+gėrimus, kurie pagaminti naudojant ne žemės ūkio kilmės etilo alkoholį;
+
+5) alkoholio
+
+produktus, kurių saugos ir (ar) kokybės rodikliai neatitinka Lietuvos
+
+Respublikoje galiojančių reikalavimų;
+
+6) alkoholinius
+
+gėrimus, kurių ženklinimas neatitinka Lietuvos Respublikoje galiojančių
+
+reikalavimų;
+
+7) falsifikuotus
+
+alkoholio produktus;
+
+8) namų gamybos
+
+alkoholinius gėrimus;
+
+9) etilo
+
+alkoholį fiziniams asmenims, išskyrus nedenatūruotą žemės ūkio kilmės etilo
+
+alkoholį, parduodamą fiziniams asmenims vaistinėse Sveikatos apsaugos
+
+ministerijos nustatyta tvarka;
+
+10)
+
+kontrabandinius alkoholio produktus;
+
+11) alkoholio
+
+produktus neturint Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos
+
+licencijos.
+
+2. Juridiniams
+
+asmenims ir užsienio juridinių asmenų filialams bei atstovybėms laikyti,
+
+gabenti Lietuvos Respublikoje draudžiama:
+
+1) alkoholio
+
+produktus neturint Lietuvos Respublikos Vyriausybės ar jos įgaliotos
+
+institucijos nustatyta tvarka alkoholio produktų atitiktį patvirtinančių dokumentų;
+
+2) alkoholio
+
+produktus, kurie neįrašyti į licencijas juos gaminti, importuoti, parduoti, ir
+
+alkoholio produktus neturint prekybos (sandėliavimo, laikymo) vietoje ir (ar)
+
+jų gabenimo metu juridinę galią turinčių privalomų tų produktų įsigijimo arba gabenimo
+
+dokumentų egzemplioriaus;
+
+3) alkoholinius
+
+gėrimus (išskyrus alų ir natūralios fermentacijos sidrą, kurio tūrinė etilo
+
+alkoholio koncentracija neviršija 8,5 procento), nepaženklintus Lietuvos
+
+Respublikos Vyriausybės nustatyta tvarka specialiais ženklais – banderolėmis;
+
+4) alkoholinius
+
+gėrimus, kurie pagaminti naudojant ne žemės ūkio kilmės etilo alkoholį;
+
+5) alkoholinius
+
+gėrimus, kurių ženklinimas neatitinka Lietuvos Respublikoje galiojančių
+
+reikalavimų;
+
+6) falsifikuotus
+
+alkoholio produktus;
+
+7) namų gamybos
+
+alkoholinius gėrimus;
+
+8)
+
+kontrabandinius alkoholio produktus;
+
+9) alkoholio
+
+produktus, neturint Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos
+
+alkoholio produktų gamybos, importo, didmeninės ar mažmeninės prekybos
+
+licencijos, išskyrus šio straipsnio 3 dalyje nustatytus atvejus.
+
+3. Šio
+
+straipsnio 2 dalies 9 punkto reikalavimai netaikomi:
+
+1) alkoholiniams
+
+gėrimams, kuriuos laiko ir gabena įmonės, naudojančios šiuos gėrimus kaip maisto
+
+produktų žaliavą, taip pat juridiniai asmenys, užsienio juridinių asmenų
+
+filialai bei atstovybės, įsigiję Lietuvos Respublikos Vyriausybės ar jos
+
+įgaliotos institucijos nustatyta tvarka alkoholinius gėrimus reprezentacinėms
+
+reikmėms;
+
+2) dehidratuotam
+
+ir denatūruotam etilo alkoholiui, kuris naudojamas kurui arba techninius
+
+reglamentus ar standartus atitinkantiems kuro mišiniams su etilo alkoholiu
+
+gaminti, taip pat etilo alkoholiui, kurį laiko ir gabena įmonės, turinčios
+
+teisę importuoti etilo alkoholį, ir įmonės, įstaigos ir organizacijos,
+
+turinčios Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotus leidimus
+
+ir naudojančios etilo alkoholį gamybos, techninėms, medicinos, veterinarijos
+
+reikmėms arba mokslo ir tyrimo darbuose;
+
+3) žaliavoms,
+
+kurias laiko ir gabena įmonės, turinčios licencijas gaminti alkoholio
+
+produktus, įmonės, turinčios teisę importuoti žaliavas, taip pat įmonės,
+
+naudojančios sidro, vynuogių, vaisių ir uogų vyno žaliavas actui gaminti;
+
+4) alkoholiniams
+
+tirpalams, kuriuos laiko ir gabena įmonės, turinčios teisę importuoti
+
+alkoholinius tirpalus, įmonės, naudojančios alkoholinius tirpalus gamybos
+
+reikmėms, taip pat įmonės, kurios verčiasi mažmenine prekyba alkoholiniais
+
+tirpalais, supilstytais į ne didesnę negu 20 mililitrų vienkartinę tarą;
+
+5) alkoholio
+
+produktams, kuriuos, turėdami juridinę galią turinčius privalomus tų produktų
+
+įsigijimo arba gabenimo dokumentus, laiko ar gabena transportavimo paslaugas
+
+teikiantys asmenys ir kitų Europos ekonominei erdvei priklausančių valstybių
+
+ūkio subjektai.
+
+4. Fiziniams
+
+asmenims taikomą alkoholio produktų laikymo ir gabenimo tvarką nustato Lietuvos
+
+Respublikos Vyriausybė ar jos įgaliota institucija.
+
+5. Įmonėms,
+
+turinčioms licencijas gaminti alkoholio produktus, verstis didmenine prekyba
+
+jais ar verstis mažmenine prekyba alkoholiniais gėrimais, draudžiama įgalioti
+
+kitus asmenis verstis licencijose nurodyta veikla ar pagal sutartį perduoti
+
+kitiems asmenims šią teisę.
+
+6. Įmonėms,
+
+turinčioms licencijas verstis didmenine prekyba alkoholiniais gėrimais,
+
+Lietuvos Respublikoje leidžiama juos įsigyti tik iš įmonių, turinčių licencijas
+
+gaminti alkoholinius gėrimus, licencijas verstis didmenine prekyba jais, o
+
+parduoti – įmonėms, kurios turi licencijas verstis didmenine ar mažmenine
+
+prekyba jais, licencijas eksportuoti vyno produktus, taip pat Lietuvos
+
+Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka
+
+juridiniams asmenims, užsienio juridinių asmenų filialams bei atstovybėms,
+
+perkantiems alkoholinius gėrimus reprezentacinėms reikmėms, kitų Europos
+
+ekonominei erdvei priklausančių valstybių ūkio subjektams ir užsienio valstybių
+
+diplomatinėms atstovybėms, konsulinėms įstaigoms bei tarptautinių organizacijų
+
+atstovybėms, akredituotoms Lietuvos Respublikos užsienio reikalų ministerijoje.
+
+7. Įmonėms,
+
+turinčioms licencijas verstis mažmenine prekyba alkoholiniais gėrimais,
+
+Lietuvos Respublikoje leidžiama juos įsigyti tik iš įmonių, turinčių licencijas
+
+gaminti alkoholinius gėrimus arba licencijas verstis didmenine prekyba jais,
+
+o parduoti – fiziniams asmenims jų asmeniniams, šeimos ar namų ūkio
+
+poreikiams, nesusijusiems su verslu ar profesija, tenkinti, taip pat Lietuvos
+
+Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka
+
+juridiniams asmenims, užsienio juridinių asmenų filialams bei atstovybėms,
+
+perkantiems alkoholinius gėrimus reprezentacinėms reikmėms, ir užsienio
+
+valstybių diplomatinėms atstovybėms, konsulinėms įstaigoms bei tarptautinių
+
+organizacijų atstovybėms, akredituotoms Lietuvos Respublikos užsienio reikalų
+
+ministerijoje.
+
+8. Įmonėms,
+
+turinčioms licencijas gaminti alkoholinius gėrimus, leidžiama juos parduoti:
+
+1) įmonėms,
+
+turinčioms licencijas verstis didmenine ar mažmenine prekyba alkoholiniais
+
+gėrimais, licencijas eksportuoti vyno produktus;
+
+2) įmonėms,
+
+naudojančioms šiuos gėrimus kaip maisto produktų žaliavą;
+
+3) Lietuvos
+
+Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka
+
+juridiniams asmenims, užsienio juridinių asmenų filialams bei atstovybėms,
+
+perkantiems alkoholinius gėrimus reprezentacinėms reikmėms, ir užsienio
+
+valstybių diplomatinėms atstovybėms, konsulinėms įstaigoms bei tarptautinių
+
+organizacijų atstovybėms, akredituotoms Lietuvos Respublikos užsienio reikalų
+
+ministerijoje;
+
+4) kitų
+
+Europos ekonominei erdvei priklausančių valstybių ūkio subjektams.
+
+9. Įmonėms,
+
+turinčioms licencijas gaminti etilo alkoholį arba verstis didmenine prekyba
+
+juo, leidžiama jį parduoti:
+
+1) Lietuvos
+
+Respublikos Vyriausybės nustatyta tvarka įmonėms, įstaigoms ir organizacijoms,
+
+naudojančioms etilo alkoholį gamybos, techninėms, medicinos, veterinarijos
+
+reikmėms, mokslo ir tyrimo darbuose;
+
+2) įmonėms,
+
+turinčioms licencijas verstis didmenine prekyba juo ir licencijas eksportuoti
+
+žemės ūkio kilmės etilo alkoholį;
+
+3) kitų Europos
+
+ekonominei erdvei priklausančių valstybių ūkio subjektams.
+
+10. Įmonėms,
+
+turinčioms licencijas gaminti žaliavas arba verstis didmenine prekyba jomis,
+
+leidžiama jas parduoti:
+
+1) įmonėms,
+
+turinčioms licencijas gaminti alkoholio produktus, licencijas verstis didmenine
+
+prekyba žaliavomis ir licencijas eksportuoti vyno produktus;
+
+2) įmonėms,
+
+naudojančioms sidro, vynuogių, vaisių ir uogų vyno žaliavas actui gaminti;
+
+3) kitų Europos
+
+ekonominei erdvei priklausančių valstybių ūkio subjektams.
+
+11. Įmonėms,
+
+turinčioms licencijas gaminti alkoholinius tirpalus arba verstis didmenine
+
+prekyba jais, leidžiama juos (supilstytus į didesnę negu 20 mililitrų
+
+vienkartinę tarą) parduoti:
+
+1) įmonėms,
+
+naudojančioms alkoholinius tirpalus gamybos reikmėms;
+
+2) įmonėms,
+
+turinčioms licencijas verstis didmenine prekyba alkoholiniais tirpalais;
+
+3) kitų Europos
+
+ekonominei erdvei priklausančių valstybių ūkio subjektams.
+
+12. Įmonėms,
+
+turinčioms licencijas gaminti alkoholio produktus ir licencijas verstis
+
+didmenine prekyba jais taip pat leidžiama šiuos produktus ir eksportuoti
+
+(eksportuoti vyną, vynuogių misą ir žemės ūkio kilmės etilo alkoholį leidžiama
+
+tik turint eksporto licenciją).
+
+18
+
+straipsnis. Prekybos alkoholiniais gėrimais mažmeninės prekybos ir viešojo
+
+maitinimo
+
+įmonėse tvarka
+
+1. Lietuvos
+
+Respublikoje prekiauti leidžiama:
+
+1) alkoholiniais
+
+gėrimais – stacionariose specializuotose alkoholinių gėrimų prekybos įmonėse,
+
+stacionarių prekybos įmonių specializuotuose alkoholinių gėrimų prekybos
+
+skyriuose, stacionariose viešojo maitinimo įmonėse, stacionarių degalinių ir
+
+kaimo gyvenamosiose vietovėse esančių stacionarių prekybos įmonių
+
+nespecializuotuose skyriuose, tarptautinio susisiekimo traukiniuose, siaurojo
+
+geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo
+
+maitinimo vietos, parodose bei mugėse, vykstančiose stacionariuose pastatuose;
+
+2) gamyklų
+
+supilstytais į tarą natūralios fermentacijos sidru (kurio tūrinė etilo
+
+alkoholio koncentracija neviršija 8,5 procento) ir alumi – kioskuose,
+
+nestacionariose degalinėse, paviljonuose, automobiliuose-parduotuvėse (kurios
+
+aptarnauja kaimo gyventojus savivaldybės tarybos nustatyta tvarka) ir
+
+stacionarių prekybos įmonių nespecializuotuose skyriuose;
+
+3) alkoholiniais
+
+gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų, –
+
+nestacionariose viešojo maitinimo įmonėse savivaldybės tarybos nustatyto
+
+kurortinio, poilsio bei turizmo sezono laikotarpiu;
+
+4) alkoholiniais
+
+gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, –
+
+masiniuose renginiuose, parodose ir mugėse.
+
+2. Prekiauti
+
+alkoholiniais gėrimais prekybos ir viešojo maitinimo įmonėse, įrengtose daugiabučiuose
+
+gyvenamuosiuose namuose, leidžiama Lietuvos Respublikos daugiabučių namų
+
+savininkų bendrijų įstatymo ir Lietuvos Respublikos Seimo 1995 m. vasario 23 d.
+
+nutarimo Nr. I-808 „Dėl Lietuvos Respublikos daugiabučių namų savininkų
+
+bendrijų įstatymo įgyvendinimo“ nustatyta tvarka.
+
+3. Lietuvos
+
+Respublikoje prekiauti alkoholiniais gėrimais draudžiama:
+
+1) laisvės
+
+atėmimo, karinėse ir sukarintos tarnybos, policijos ir kitose statutinėse,
+
+sveikatos priežiūros, ugdymo įstaigose ir jų teritorijose (išskyrus sanatorijose
+
+įrengtas viešojo maitinimo įmones, kuriose savivaldybės taryba gali leisti
+
+prekiauti alkoholiniais gėrimais), taip pat prie šių įstaigų ir maldos namų
+
+(atstumu, kurį nustato savivaldybės taryba, suderinusi atitinkamai su šių
+
+įstaigų vadovais ir religinėmis bendruomenėmis);
+
+2) mažmeninės
+
+prekybos įmonėse, kuriose vaikams ir paaugliams skirtų prekių dalis sudaro 50
+
+arba daugiau procentų mažmeninės prekių apyvartos;
+
+3) masiniuose
+
+renginiuose, parodose ir mugėse (išskyrus alkoholinius gėrimus, kurių tūrinė
+
+etilo alkoholio koncentracija neviršija 13 procentų, ir alkoholinius gėrimus,
+
+parduodamus parodose ir mugėse, vykstančiose stacionariuose pastatuose);
+
+4) iš prekybos
+
+automatų;
+
+5) asmenims,
+
+jaunesniems kaip 18 metų;
+
+6)
+
+nestacionariose mažmeninės prekybos ir viešojo maitinimo įmonėse. Šis draudimas
+
+netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio
+
+susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose,
+
+kuriuose yra atskirai įrengtos viešojo maitinimo vietos, parodose bei mugėse,
+
+vykstančiose stacionariuose pastatuose, taip pat šio straipsnio 1 dalies 2–4
+
+punktuose nurodytais atvejais;
+
+7) mažmeninės
+
+prekybos, viešojo maitinimo įmonėse ir kioskuose, įrengtuose didmeninės
+
+prekybos įmonių bei importuotojų sandėliuose, kuriuose verčiamasi didmenine
+
+prekyba alkoholiniais gėrimais;
+
+8) mažmeninės
+
+prekybos įmonėse, kurios nėra visiškai izoliuotos nuo gyvenamųjų ar kitų
+
+patalpų, nesusijusių su prekių pardavimo organizavimu ar jų sandėliavimu;
+
+9) sporto
+
+varžybų metu. Šis draudimas netaikomas alkoholiniams gėrimams, kurių tūrinė
+
+etilo alkoholio koncentracija neviršija 6 procentų.
+
+4. Lietuvos
+
+Respublikoje draudžiama parduoti:
+
+1) pilstomus
+
+alkoholinius gėrimus. Šis draudimas netaikomas alkoholiniams gėrimams,
+
+parduodamiems stacionariose viešojo maitinimo įmonėse, stacionariuose
+
+pastatuose vykstančiose parodose bei mugėse, tarptautinio susisiekimo
+
+traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra
+
+atskirai įrengtos viešojo maitinimo vietos, alkoholiniams gėrimams (kurių
+
+tūrinė etilo alkoholio koncentracija neviršija 22 procentų), parduodamiems
+
+nestacionariose viešojo maitinimo įmonėse savivaldybės tarybos nustatyto
+
+kurortinio, poilsio bei turizmo sezono laikotarpiu, taip pat pilstomiems alui
+
+ir natūralios fermentacijos sidrui, parduodamiems firminėse gamybos įmonių
+
+parduotuvėse, pilstomiems alui ir natūralios fermentacijos sidrui (kurių tūrinė
+
+etilo alkoholio koncentracija neviršija 6 procentų), parduodamiems masiniuose
+
+renginiuose, parodose bei mugėse;
+
+2) alkoholinius
+
+gėrimus neblaiviems asmenims;
+
+3) alkoholinius
+
+gėrimus asmenims, jaunesniems kaip 18 metų.
+
+5. Alkoholinių
+
+gėrimų pardavėjai turi teisę, o kai kyla abejonių, kad asmuo yra jaunesnis negu
+
+18 metų, privalo iš perkančio alkoholinius gėrimus asmens reikalauti pateikti
+
+asmens amžių liudijantį dokumentą. Jeigu toks asmuo nepateikia amžių
+
+liudijančio dokumento, alkoholinių gėrimų pardavėjai privalo atsisakyti
+
+parduoti jam alkoholinius gėrimus.
+
+6. Alkoholinių
+
+gėrimų pirkėjai turi teisę pardavimo vietoje gauti išsamią, teisingą, tikslią
+
+ir aiškią informaciją apie perkamą prekę.
+
+7. Prekybos
+
+alkoholiniais gėrimais viešojo maitinimo ir prekybos įmonėse, įskaitant
+
+neapmuitinamas parduotuves, taisykles, vadovaudamasi šiuo Įstatymu ir Civiliniu
+
+kodeksu, tvirtina Lietuvos Respublikos Vyriausybė.
+
+8. Savivaldybių
+
+tarybos turi teisę riboti ar uždrausti prekybą alkoholiniais gėrimais oficialių
+
+švenčių ir masinių renginių dienomis.
+
+IV SKYRIUS
+
+ALKOHOLINIŲ
+
+GĖRIMŲ VARTOJIMO MAŽINIMAS IR KONTROLĖ
+
+PIRMASIS
+
+SKIRSNIS
+
+ALKOHOLIO
+
+BENDROJO SUVARTOJIMO MAŽINIMO
+
+ORGANIZACINĖS
+
+PRIEMONĖS
 
 17 straipsnis.
 
@@ -1358,649 +1690,35 @@ Vidaus prekybos alkoholio produktais reguliavimas
 
 19 straipsnis.
 
-Vidaus prekybos alkoholio produktais licencijos
+Alkoholio bendrojo suvartojimo mažinimo planavimas
 
-Didmeninė
+Lietuvos Respublikos
 
-prekyba alkoholio produktais leidžiama tik turint Lietuvos Respublikos
+Vyriausybės programoje turi būti nustatyti ilgalaikiai alkoholio bendrojo
 
-Vyriausybės ar jos pavedimu VTAKT išduotas licencijas. Licencijos išduodamos
-
-neterminuotam laikui. Licencijose verstis didmenine prekyba alkoholio
-
-produktais turi būti įrašyti leidžiami realizuoti alkoholio produktai ir
-
-nurodytos alkoholinių gėrimų grupės.
-
-Įmonės,
-
-turinčios licencijas gaminti ar importuoti alkoholio produktus (išskyrus
-
-licencijas importuoti nedenatūruotą etilo alkoholį), turi teisę verstis ir
-
-didmenine prekyba į licenciją įrašytais alkoholio produktais, alkoholinių
-
-gėrimų grupėmis.
-
-Mažmeninė
-
-prekyba alkoholiniais gėrimais leidžiama tik turint pagal šio įstatymo 20 ir 21
-
-straipsnių nuostatas išduotas licencijas. Licencijas išduoda atitinkamos
-
-savivaldybės vykdomoji institucija neterminuotam laikui. Licencijos verstis
-
-sezonine mažmenine prekyba alumi ir alkoholiniais gėrimais, kurių tūrinė etilo
-
-alkoholio koncentracija neviršija 22 procentų, kurortinėse vietovėse ir kitose
-
-savivaldybių tarybų nustatytose poilsio bei turizmo zonose išduodamos savivaldybių
-
-tarybų nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiui.
-
-Vienkartinės licencijos prekybos ir viešojo maitinimo įmonėms prekiauti
-
-alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13
-
-procentų, masiniuose renginiuose, mugėse ir parodose, taip pat prekiauti visais
-
-alkoholiniais gėrimais parodose ir mugėse, vykstančiose stacionariniuose
-
-pastatuose, išduodamos ne ilgesniam kaip renginio trukmė laikui.
-
-Mažmeninės
-
-prekybos alkoholiniais gėrimais prekybos ir viešojo maitinimo įmonėse licencijų
-
-išdavimo konkrečią tvarką nustato ir visuomenės informavimo priemonėse skelbia
-
-savivaldybės taryba. Licencijų išdavimo tvarką savivaldybėse kontroliuoja
-
-VTAKT.
-
-Licencijose
-
-verstis mažmenine prekyba alkoholiniais gėrimais turi būti įrašyta leidžiamų
-
-realizuoti alkoholinių gėrimų grupės, prekybos jais vieta, taip pat alkoholinių
-
-gėrimų saugojimo (laikymo) vieta.
-
-Vidaus prekybos
-
-alkoholio produktais licencijavimo taisykles, remdamasi šiuo įstatymu ir
-
-Civiliniu kodeksu, nustato Lietuvos Respublikos Vyriausybė. Licencijos verstis
-
-vidaus prekyba alkoholio produktais neišduodamos naujai įsteigtoms įmonėms,
-
-jeigu jų steigėjai arba administracijos vadovai yra buvę įmonių, kurioms
-
-vadovaujantis šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatomis buvo
-
-panaikintas licencijų galiojimas, steigėjai ar vadovai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-987,
-
-95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
-
-Nr.
-
-VIII-176,
-
-97.04.08, Žin., 1997, Nr.33-809 (97.04.18)
-
-Nr.
-
-VIII-961,
-
-98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
-
-Nr. VIII-1569,
-
-00.03.16, Žin., 2000, Nr.28-759 (00.04.05)
-
-Nr. IX-964,
-
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-Nr.
-
-IX-1875,
-
-2003-12-09, Žin., 2003, Nr. 119-5407 (2003-12-18)
+suvartojimo mažinimo rodikliai.
 
 20
 
-straipsnis. Alkoholio produktų realizavimo, laikymo (saugojimo) ir gabenimo
+straipsnis. Alkoholio produktų vartojimo daromos žalos sveikatai ir ūkiui
 
-reikalavimai
+statistika
 
-Lietuvos Respublikoje realizuoti
+1. Lietuvos
 
-draudžiama:
+Respublikos Vyriausybės nustatyta tvarka, suderinta su Nacionaline sveikatos
 
-1) alkoholio
+taryba, Lietuvos Respublikoje atliekama alkoholio vartojimo, jo daromos
 
-produktus neturint Lietuvos Respublikos Vyriausybės ar jos įgaliotos
+ekonominės žalos sveikatai ir ūkiui stebėsena (monitoringas).
 
-institucijos nustatyta tvarka alkoholio produktų atitiktį patvirtinančių
+2. Alkoholio
 
-dokumentų;
+vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui atrankinių
 
-2) alkoholio produktus,
+statistinių tyrimų organizavimo teisinius pagrindus nustato Lietuvos
 
-kurie neįrašyti į licencijas juos gaminti, importuoti, parduoti, ir alkoholio
-
-produktus neturint prekybos (sandėliavimo) vietoje juridinę galią
-
-turinčių privalomų tų produktų įsigijimo arba gabenimo dokumentų
-
-egzemplioriaus;
-
-3) alkoholinius gėrimus (išskyrus alų bei natūralios fermentacijos sidrą,
-
-kurio tūrinė etilo alkoholio koncentracija neviršija 8,5 procento) be nustatyto
-
-specialaus ženklinimo;
-
-4) alkoholinius
-
-gėrimus, kurių etilo alkoholis pagamintas ne iš maisto žaliavų;
-
-5) importuotus
-
-ar Lietuvos Respublikoje pagamintus alkoholio produktus, kurių kokybės ir (ar)
-
-higieniniai rodikliai neatitinka Lietuvos Respublikoje nustatytų reikalavimų;
-
-6) importuotus
-
-ir Lietuvos Respublikoje pagamintus alkoholinius gėrimus, kurių prekinis
-
-žymėjimas neatitinka Lietuvos standarto LST (CODEX STAN 1): 1993 Fasuotų maisto
-
-produktų ženklinimo bendrųjų reikalavimų bei Lietuvos Respublikoje galiojančių
-
-prekių ženklinimo taisyklių;
-
-7) falsifikuotus
-
-alkoholio produktus;
-
-8) alų, kurio
-
-tūrinė etilo alkoholio koncentracija didesnė kaip 9,5 procento;
-
-9) vynus, kurių
-
-tūrinė etilo alkoholio koncentracija didesnė kaip 22 procentai;
-
-10) alkoholinius
-
-gėrimus, kurių tūrinė etilo alkoholio koncentracija didesnė kaip 50 procentų.
-
-Šis reikalavimas netaikomas natūralaus bičių medaus fermentacijos procese gautų
-
-produktų pagrindu pagamintiems alkoholiniams gėrimams;
-
-11) namų gamybos
-
-alkoholinius gėrimus, išskyrus alų, pagamintą pagal norminius dokumentus, kai
-
-turima nustatyta tvarka išduota licencija jį gaminti;
-
-12)
-
-nedenatūruotą, denatūruotą etilo alkoholį bei techninį etilo alkoholį
-
-gyventojams, išskyrus nedenatūruotą etilo alkoholį, realizuojamą gyventojams
-
-vaistinėse Sveikatos apsaugos ministerijos nustatyta tvarka;
-
-13)
-
-kontrabandinius alkoholio produktus;
-
-14) alkoholio
-
-produktus be Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos
-
-licencijos;
-
-15) pilstomus
-
-alkoholinius gėrimus. Šis draudimas netaikomas alkoholiniams gėrimams,
-
-realizuojamiems stacionarinėse viešojo maitinimo įmonėse, stacionariniuose
-
-pastatuose vykstančiose parodose bei mugėse, tarptautinio susisiekimo
-
-traukiniuose, siaurojo geležinkelio traukiniuose, laivuose, kur yra atskirai
-
-įrengtos viešojo maitinimo vietos, alkoholiniams gėrimams (kurių tūrinė etilo
-
-alkoholio koncentracija neviršija 22 procentų), realizuojamiems
-
-nestacionarinėse viešojo maitinimo įmonėse savivaldybės tarybos nustatyto
-
-kurortinio, poilsio bei turizmo sezono laikotarpiu, taip pat pilstomiems alui
-
-ir natūralios fermentacijos sidrui, realizuojamiems firminėse gamybos įmonių
-
-parduotuvėse, pilstomiems alui ir natūralios fermentacijos sidrui (kurių tūrinė
-
-etilo alkoholio koncentracija neviršija 6 procentų), realizuojamiems masiniuose
-
-renginiuose, parodose bei mugėse;
-
-16) alkoholinius
-
-gėrimus nestacionarinėse prekybos įmonėse. Šis draudimas netaikomas gamyklų
-
-supilstytiems į tarą natūralios fermentacijos sidrui (kurio tūrinė etilo alkoholio koncentracija neviršija 8,5
-
-procento) ir alui, realizuojamiems kioskuose, nestacionarinėse degalinėse,
-
-paviljonuose, autoparduotuvėse (kurios aptarnauja kaimo gyventojus savivaldybės
-
-tarybos nustatyta tvarka), alkoholiniams gėrimams, realizuojamiems
-
-stacionariniuose pastatuose vykstančiose parodose ir mugėse, tarptautinio
-
-susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose, laivuose,
-
-kur yra atskirai įrengtos viešojo maitinimo vietos, alkoholiniams gėrimams
-
-(kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų),
-
-realizuojamiems nestacionarinėse viešojo maitinimo įmonėse savivaldybės tarybos
-
-nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiu, taip pat
-
-alkoholiniams gėrimams (kurių tūrinė etilo alkoholio koncentracija neviršija
-
-13 procentų), realizuojamiems masiniuose renginiuose, parodose ir mugėse;
-
-17) alkoholinius
-
-gėrimus mažmeninės prekybos ir viešojo maitinimo įmonėse, įrengtose didmeninės
-
-prekybos įmonių bei importuotojų sandėliuose, kuriuose verčiamasi didmenine
-
-prekyba alkoholiniais gėrimais, taip pat alų, gamyklų supilstytą į tarą,
-
-kioskuose, įrengtuose didmeninės prekybos įmonių bei importuotojų sandėliuose,
-
-kuriuose verčiamasi didmenine prekyba alkoholiniais gėrimais;
-
-18) alkoholinius
-
-gėrimus prekybos įmonėse, kurios nėra visiškai izoliuotos nuo gyvenamųjų ar
-
-kitų patalpų, nesusijusių su prekių pardavimo organizavimu ar jų sandėliavimu;
-
-19) alkoholinius
-
-gėrimus sporto rungtynių metu. Šis draudimas netaikomas alkoholiniams gėrimams,
-
-kurių tūrinė etilo alkoholio koncentracija neviršija 6 procentų;
-
-20) alkoholinius
-
-gėrimus asmenims, jaunesniems kaip 18 metų;
-
-21) alkoholinius
-
-gėrimus neblaiviems asmenims;
-
-22) alkoholinius
-
-gėrimus uniformuotiems pareigūnams.
-
-Šio straipsnio
-
-pirmosios dalies 1–4, 6–11, 13 ir 14 punktų reikalavimai taikomi ir įmonėse
-
-laikomiems (saugomiems) bei įmonių gabenamiems alkoholio produktams.
-
-Įmonėms draudžiama laikyti ir gabenti
-
-denatūruotą ir techninį etilo alkoholį, išskyrus įmones, turinčias licencijas
-
-juos gaminti, importuoti, bei įmones, įstaigas ir organizacijas, naudojančias
-
-denatūruotą ir techninį etilo alkoholį gamybos, techninėms, medicinos,
-
-veterinarijos reikmėms arba mokslo ir tyrimo darbuose. Įmonėms draudžiama
-
-laikyti ir gabenti nedenatūruotą etilo alkoholį, išskyrus įmones, turinčias
-
-licencijas jį gaminti, importuoti, verstis didmenine prekyba juo (aprūpinančias
-
-ūkio subjektus, naudojančius jį medicinos bei veterinarijos reikmėms), bei
-
-įmones, įstaigas ir organizacijas, naudojančias nedenatūruotą etilo alkoholį
-
-gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo
-
-darbuose. Šios dalies nuostatos netaikomos dehidratuotam ir denatūruotam etilo
-
-alkoholiui (etanoliui), kuris naudojamas kurui arba techninius reglamentus ar
-
-standartus atitinkantiems kuro mišiniams su etilo alkoholiu. Įmonėms draudžiama
-
-laikyti ir gabenti žaliavas, kuriose yra etilo alkoholio, išskyrus įmones,
-
-turinčias licencijas jas gaminti ar importuoti, licencijas gaminti alkoholio
-
-produktus, bei įmones, naudojančias sidro, vynuogių, vaisių ir uogų vyno
-
-žaliavas actui gaminti. Įmonėms draudžiama laikyti ir gabenti ingredientus,
-
-išskyrus įmones, turinčias licencijas juos gaminti ar importuoti, įmones,
-
-naudojančias ingredientus gamybos reikmėms, bei įmones, kurios verčiasi
-
-mažmenine prekyba jais.
-
-Įmonėms,
-
-turinčioms licencijas gaminti alkoholio produktus, verstis didmenine prekyba
-
-jais ar verstis mažmenine prekyba alkoholiniais gėrimais, draudžiama savo vardu
-
-įgalioti ar pagal sutartį perduoti kitoms įmonėms, įmonės agentams (fiziniams
-
-asmenims) teisę verstis licencijose nurodyta veikla.
-
-Įmonėms,
-
-turinčioms teisę verstis didmenine prekyba alkoholiniais gėrimais, leidžiama
-
-juos įsigyti tik iš įmonių, turinčių licencijas alkoholinius gėrimus gaminti,
-
-importuoti, verstis didmenine prekyba jais, o realizuoti – tik įmonėms, kurios
-
-turi teisę verstis didmenine ar mažmenine prekyba jais.
-
-Įmonėms,
-
-turinčioms licencijas gaminti alkoholinius gėrimus, leidžiama juos realizuoti
-
-ir įmonėms, naudojančioms šiuos gėrimus kaip konditerijos gaminių žaliavą.
-
-Įmonėms, turinčioms licencijas gaminti, importuoti denatūruotą etilo alkoholį,
-
-importuoti techninį etilo alkoholį, leidžiama juos realizuoti įmonėms,
-
-įstaigoms ir organizacijoms, naudojančioms juos gamybos, techninėms, medicinos,
-
-veterinarijos reikmėms arba mokslo ir tyrimo darbuose. Įmonėms, turinčioms
-
-licencijas gaminti nedenatūruotą etilo alkoholį, leidžiama jį realizuoti
-
-Lietuvos Respublikos Vyriausybės nustatyta tvarka įmonėms, įstaigoms ir
-
-organizacijoms, naudojančioms nedenatūruotą etilo alkoholį gamybos, techninėms,
-
-medicinos, veterinarijos reikmėms, mokslo ir tyrimo darbuose, bei įmonėms,
-
-turinčioms licencijas verstis didmenine prekyba juo (aprūpinančioms ūkio subjektus,
-
-kurie naudoja jį medicinos bei veterinarijos reikmėms). Įmonėms, turinčioms
-
-licencijas gaminti ir importuoti žaliavas, kuriose yra etilo alkoholio,
-
-leidžiama jas realizuoti įmonėms, turinčioms licencijas gaminti alkoholio
-
-produktus, ir įmonėms, naudojančioms sidro, vynuogių, vaisių ir uogų vyno
-
-žaliavas actui gaminti. Įmonėms, turinčioms licencijas gaminti ir importuoti
-
-ingredientus, leidžiama juos (supilstytus į didesnę negu 20 mililitrų
-
-vienkartinę tarą) realizuoti tik įmonėms, naudojančioms ingredientus gamybos
-
-reikmėms.
-
-Alkoholinių
-
-gėrimų pardavėjai turi teisę reikalauti iš asmenų, kurie perka alkoholinius
-
-gėrimus, pateikti asmens amžių liudijantį dokumentą. Alkoholinių gėrimų
-
-pirkėjai turi teisę pardavimo vietoje gauti išsamią, teisingą, tikslią ir
-
-aiškią informaciją apie perkamą prekę.
-
-Juridiniai ir
-
-fiziniai asmenys, gaminantys, realizuojantys, laikantys (saugantys) arba
-
-gabenantys alkoholinius gėrimus be nustatyto specialaus ženklinimo, blogos
-
-kokybės, falsifikuotus, kontrabandinius alkoholio produktus, suklastoję
-
-alkoholio produktų įsigijimą ar atitiktį patvirtinančius dokumentus ar
-
-nustatytą specialųjį ženklinimą, atsako pagal šį ir kitus įstatymus.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-987,
-
-95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
-
-Nr.
-
-I-1345,
-
-96.05.21, Žin., 1996, Nr. 53-1247 (96.06.05)
-
-Nr.
-
-VIII-176,
-
-97.04.08, Žin., 1997, Nr.33-809 (97.04.18)
-
-Nr.
-
-VIII-372,
-
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
-
-Nr.
-
-VIII-961,
-
-98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
-
-Nr. VIII-1569,
-
-00.03.16, Žin., 2000, Nr.28-759 (00.04.05)
-
-Nr. VIII-1873,
-
-00.07.18, Žin., 2000, Nr.64-1939 (00.07.31)
-
-Nr. IX-964, 2002-06-20,
-
-Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-Nr.
-
-IX-1158,
-
-2002-10-29, Žin., 2002, Nr. 112-4966 (2002-11-22)
-
-Nr. IX-1558, 2003-05-15,
-
-Žin., 2003, Nr. 52-2312 (2003-05-30)
-
-21
-
-straipsnis. Prekybos alkoholiniais gėrimais mažmeninės prekybos ir viešojo
-
-maitinimo
-
-įmonėse tvarka
-
-Lietuvos Respublikoje draudžiama
-
-prekiauti alkoholiniais gėrimais:
-
-1) sveikatos priežiūros, ugdymo
-
-įstaigose ir jų teritorijose (išskyrus sanatorijose įrengtose viešojo maitinimo
-
-įmonėse, kuriose savivaldybės taryba gali leisti prekiauti alkoholiniais
-
-gėrimais), prie maldos namų (atstumu, kurį nustato savivaldybės taryba,
-
-suderinusi su religinėmis bendruomenėmis);
-
-2) mažmeninės prekybos įmonėse, kuriose
-
-vaikams ir paaugliams skirtų prekių dalis sudaro 50 arba daugiau procentų
-
-mažmeninės prekių apyvartos;
-
-3) masiniuose renginiuose, parodose ir
-
-mugėse (išskyrus alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija
-
-neviršija 13 procentų, ir alkoholinius gėrimus, parduodamus parodose ir mugėse,
-
-vykstančiose stacionariniuose pastatuose);
-
-4) iš prekybos automatų;
-
-5) asmenims, jaunesniems kaip 18 metų;
-
-6) kitais Lietuvos Respublikos
-
-Vyriausybės nustatytais atvejais.
-
-Prekiauti
-
-alkoholiniais gėrimais leidžiama stacionarinėse specializuotose alkoholinių
-
-gėrimų prekybos įmonėse, prekybos įmonių specializuotuose alkoholinių gėrimų
-
-prekybos skyriuose ir viešojo maitinimo įmonėse. Be to, leidžiama: prekyba
-
-gamyklų supilstytais į tarą natūralios fermentacijos sidru (kurio tūrinė etilo
-
-alkoholio koncentracija neviršija 8,5 procento) ir alumi kioskuose,
-
-nestacionarinėse degalinėse, paviljonuose ir autoparduotuvėse (kurios
-
-aptarnauja kaimo gyventojus savivaldybės tarybos nustatyta tvarka) ir prekybos
-
-įmonių nespecializuotuose skyriuose; prekyba alkoholiniais gėrimais
-
-stacionarinėse degalinėse ir kaimo gyvenamosiose vietovėse stacionarinių
-
-prekybos įmonių nespecializuotuose skyriuose, tarptautinio susisiekimo
-
-traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kur yra
-
-atskirai įrengtos viešojo maitinimo vietos, parodose bei mugėse, vykstančiose
-
-stacionariniuose pastatuose; prekyba alkoholiniais gėrimais, kurių tūrinė etilo
-
-alkoholio koncentracija neviršija 22 procentų, nestacionariniuose pastatuose
-
-įrengtose viešojo maitinimo įmonėse savivaldybės tarybos nustatyto kurortinio,
-
-poilsio bei turizmo sezono laikotarpiu; prekyba alkoholiniais gėrimais, kurių
-
-tūrinė etilo alkoholio koncentracija neviršija 13 procentų, masiniuose
-
-renginiuose, parodose ir mugėse.
-
-Prekiauti
-
-alkoholiniais gėrimais prekybos ir viešojo maitinimo įmonėse, įrengtose ar
-
-įrengiamose daugiabučiuose gyvenamuosiuose namuose, leidžiama Daugiabučių namų
-
-savininkų bendrijų įstatymo ir Lietuvos Respublikos Seimo nutarimo „Dėl
-
-Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo įgyvendinimo“
-
-nustatyta tvarka.
-
-Prekybos
-
-alkoholiniais gėrimais viešojo maitinimo ir prekybos įmonėse, įskaitant
-
-neapmuitinamas parduotuves, taisykles, remdamasi šiuo įstatymu, tvirtina
-
-Lietuvos Respublikos Vyriausybė.
-
-Savivaldybės
-
-taryba turi teisę riboti ar uždrausti prekybą alkoholiniais gėrimais
-
-valstybinių bei religinių švenčių ir masinių renginių dienomis.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-987,
-
-95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
-
-Nr.
-
-I-1345,
-
-96.05.21, Žin., 1996, Nr. 53-1247 (96.06.05)
-
-Nr.
-
-VIII-372,
-
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
-
-Nr.
-
-VIII-961,
-
-98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
-
-Nr. IX-237, 2001 04 05, Žin., 2001, Nr.
-
-31-1016 (2001 04 11)
-
-Nr.
-
-IX-600,
-
-2001-11-13, Žin., 2001, Nr. 99-3531 (2001-11-28)
-
-Nr. IX-964,
-
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-Nr. IX-1558,
-
-2003-05-15, Žin., 2003, Nr. 52-2312 (2003-05-30)
+Respublikos statistikos įstatymas.
 
 20 straipsnis.
 
@@ -2472,195 +2190,15 @@ IX-600,
 
 2001-11-13, Žin., 2001, Nr. 99-3531 (2001-11-28)
 
-21 straipsnis. Prekybos
+21 straipsnis.
 
-alkoholiniais gėrimais mažmeninės prekybos ir viešojo
+Minimalaus gyvenimo lygio nustatymo ypatumai
 
-maitinimo
+Alkoholinius
 
-įmonėse tvarka
+gėrimus įtraukti į minimalų maisto produktų ir ne maisto prekių bei paslaugų
 
-Lietuvos Respublikoje
-
-draudžiama prekiauti alkoholiniais gėrimais:
-
-1) sveikatos
-
-priežiūros, ugdymo, sporto įstaigose ir jų teritorijose (išskyrus sanatorijose
-
-įrengtose viešojo maitinimo įmonėse, turinčiose atskirą įėjimą, kuriose
-
-savivaldybės gali leisti prekiauti alkoholiniais gėrimais, kurių tūrinė etilo
-
-alkoholio koncentracija neviršija 15 procentų), prie maldos namų (atstumu, kurį
-
-nustato savivaldybės kartu su religinėmis bendruomenėmis);
-
-2) mažmeninės
-
-prekybos įmonėse, kuriose vaikams ir paaugliams skirtų prekių dalis sudaro 50
-
-arba daugiau procentų mažmeninės prekių apyvartos;
-
-3) masiniuose
-
-renginiuose, parodose ir mugėse (išskyrus alkoholinius gėrimus, kurių
-
-tūrinė etilo alkoholio koncentracija neviršija 13 procentų, ir alkoholinius
-
-gėrimus, parduodamus parodose ir mugėse, vykstančiose stacionariniuose
-
-pastatuose);
-
-4) iš prekybos
-
-automatų;
-
-5) magistralinių
-
-ir krašto kelių pakelėse, išskyrus stacionarinėse viešojo maitinimo įmonėse;
-
-6) prekybos ir
-
-viešojo maitinimo įmonėse, kurios įrengtos degalinėse ir prie jų savivaldybių
-
-nustatytu draudžiamu atstumu nuo degalinės teritorijos (išskyrus alų).
-
-Degalinės teritorija - tai plotas, kurio ribos nustatytos degalinės
-
-projektiniuose ir techniniuose dokumentuose;
-
-7) prekybos
-
-įmonėse, kurios nėra visiškai izoliuotos nuo gyvenamųjų ar kitų patalpų,
-
-nesusijusių su prekių pardavimo organizavimu ar jų sandėliavimu;
-
-8) asmenims,
-
-jaunesniems kaip 18 metų;
-
-9) kitais
-
-Lietuvos Respublikos Vyriausybės nustatytais atvejais.
-
-Prekiauti
-
-alkoholiniais gėrimais leidžiama tik išimtinai tokiai prekybai skirtose
-
-stacionarinėse prekybos įmonėse arba jų specializuotuose skyriuose, skirtuose
-
-tokiai prekybai, ir viešojo maitinimo įmonėse, išskyrus prekybą gamyklų
-
-supilstytu į tarą alumi, kioskuose, autoparduotuvėse, kurios aptarnauja kaimo
-
-gyventojus savivaldybių nustatyta tvarka, ir prekybos įmonių
-
-nespecializuotuose skyriuose, prekybą alkoholiniais gėrimais, kurių
-
-tūrinė etilo alkoholio koncentracija neviršija 22 procentų, nestacionarinėse
-
-viešojo maitinimo įmonėse savivaldybių nustatyto kurortinio, poilsio bei
-
-turizmo sezono laikotarpiu, prekybą alkoholiniais gėrimais, kurių tūrinė etilo
-
-alkoholio koncentracija neviršija 13 procentų, masiniuose
-
-renginiuose, parodose ir mugėse, taip pat išskyrus prekybą visais alkoholiniais
-
-gėrimais parodose ir mugėse, vykstančiose stacionariniuose pastatuose. Prekyba
-
-alkoholiniais gėrimais draudžiama mažmeninės prekybos ir viešojo maitinimo
-
-įmonėse, įrengtose didmeninės prekybos įmonių ir importuotojų sandėliuose, iš
-
-kurių vykdoma didmeninė prekyba alkoholiniais gėrimais. Prekyba alumi, gamyklų
-
-supilstytu į tarą, draudžiama kioskuose, įrengtuose didmeninės prekybos įmonių
-
-ir importuotojų sandėliuose, iš kurių vykdoma didmeninė prekyba alkoholiniais
-
-gėrimais.
-
-Prekiauti alkoholiniais
-
-gėrimais prekybos ir viešojo maitinimo įmonėse, įrengtose ar įrengiamose
-
-daugiabučiuose gyvenamuosiuose namuose, leidžiama Daugiabučių namų savininkų
-
-bendrijų įstatymo ir Lietuvos Respublikos Seimo nutarimo "Dėl Lietuvos
-
-Respublikos daugiabučių namų savininkų bendrijų įstatymo įgyvendinimo" nustatyta
-
-tvarka.
-
-Prekybos ir viešojo
-
-maitinimo įmonėse leidžiama prekiauti alkoholiniais gėrimais tik nuo 11
-
-valandos iki kitos dienos 6 valandos ryto (prekyba alumi leidžiama nuo 8
-
-valandos ryto).
-
-Savivaldos vykdomosios
-
-institucijos turi teisę riboti nustatytą alkoholinių gėrimų pardavimo laiką
-
-pagal nustatytas alkoholinių gėrimų grupes, atsižvelgdamos į įmonių padarytus
-
-prekybos alkoholiniais gėrimais tvarkos pažeidimus ir į atitinkamų policijos
-
-komisariatų pasiūlymus.
-
-Prekybos alkoholiniais
-
-gėrimais viešojo maitinimo ir prekybos įmonėse, įskaitant neapmuitinamas
-
-parduotuves, taisykles, remdamasi šiuo įstatymu, tvirtina Lietuvos Respublikos
-
-Vyriausybė.
-
-Atitinkamų policijos
-
-komisariatų vadovai turi teisę už prekybos alkoholiniais gėrimais taisyklių
-
-pažeidimus sustabdyti prekybą alkoholiniais gėrimais prekybos ir viešojo
-
-maitinimo įmonėse iki 24 valandų.
-
-Savivaldos vykdomosios
-
-institucijos turi teisę riboti ar uždrausti prekybą alkoholiniais gėrimais
-
-valstybinių bei religinių švenčių ir masinių renginių dienomis.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-987,
-
-95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
-
-Nr.
-
-I-1345,
-
-96.05.21, Žin., 1996, Nr. 53-1247 (96.06.05)
-
-Nr.
-
-VIII-372,
-
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
-
-Nr.
-
-VIII-961,
-
-98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
+rinkinį minimaliam gyvenimo lygiui apskaičiuoti draudžiama.
 
 23 straipsnis.
 
@@ -2678,455 +2216,281 @@ Nr. IX-964,
 
 2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
 
-24 straipsnis. Alkoholio
+24 straipsnis.
 
-produktų gamybos, prekybos, importo, eksporto, vartojimo, jo
+Alkoholio kontrolės programos
 
-daromos žalos
+1. Lietuvos
 
-sveikatai ir ūkiui statistika
+Respublikos Vyriausybė rengia, tvirtina ir įgyvendina valstybės alkoholio
 
-Lietuvos Respublikoje
+kontrolės programą.
 
-nustatyta tvarka tvarkoma alkoholio produktų gamybos, vidaus ir užsienio
+2. Valstybės
 
-prekybos apskaita ir statistikos informacija.
+alkoholio kontrolės programos įgyvendinimo priemonės finansuojamos iš valstybės
 
-Visos įmonės, kurios gamina
+biudžete ir Valstybės investicijų programoje atitinkamoms ministerijoms,
 
-ir realizuoja Lietuvos Respublikoje alkoholio produktus, privalo tvarkyti jų
+valstybės institucijoms ir kitiems ūkio subjektams, atsakingiems už programos
 
-gamybos ir vidaus prekybos apskaitą bei nustatyta tvarka teikti apie tai
+vykdymą, patvirtintų bendrųjų asignavimų ir kitų lėšų.
 
-statistikos informaciją Statistikos departamentui prie Lietuvos Respublikos
+3. Savivaldybės
 
-Vyriausybės.
+rengia, tvirtina, finansuoja ir įgyvendina savivaldybių alkoholio
 
-Lietuvos Respublikos
+kontrolės programas.
 
-užsienio prekybos alkoholio produktais apskaita tvarkoma pagal muitinėms
+4. Kiti fiziniai
 
-pateikiamų krovinių deklaracijų duomenis. Statistikos informaciją apie Lietuvos
+ir juridiniai asmenys gali rengti ir kitas alkoholio kontrolės programas, dėl
 
-Respublikos užsienio prekybą Statistikos departamentui prie Lietuvos
+jų rengimo ir įgyvendinimo teikti pasiūlymus Lietuvos Respublikos Vyriausybei,
 
-Respublikos Vyriausybės nustatyta tvarka teikia Muitinės departamentas prie
+Nacionalinei sveikatos tarybai ir kitoms valstybės alkoholio kontrolės politiką
 
-Finansų ministerijos.
-
-Alkoholio
-
-produktų gamybos, vidaus ir užsienio prekybos statistikoje naudojamos apskaitos
-
-ir statistikos informacijos teikimo bei skelbimo tvarką tvirtina Lietuvos
-
-Respublikos Vyriausybė ar jos įgaliota institucija.
-
-Lietuvos
-
-Respublikos Vyriausybės nustatyta tvarka, suderinta su Nacionaline sveikatos
-
-taryba, Lietuvos Respublikoje vykdomas alkoholio vartojimo, jo daromos
-
-ekonominės žalos sveikatai ir ūkiui monitoringas.
-
-Alkoholio vartojimo, jo
-
-daromos ekonominės žalos sveikatai ir ūkiui valstybinių ir žinybinių atrankinių
-
-statistikos tyrimų organizavimo teisinius pagrindus nustato Statistikos
-
-įstatymas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-961,
-
-98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
+formuojančioms ir įgyvendinančioms institucijoms.
 
 25 straipsnis.
 
-Alkoholinių gėrimų vartojimo ribojimas
+Blaivybės organizacijų veiklos programų rėmimas
 
-Lietuvos
+Blaivybės
 
-Respublikoje vartoti alkoholinius gėrimus draudžiama:
-
-1) visose
-
-ugdymo, sveikatos priežiūros, karinėse ir sukarintos tarnybos, policijos
-
-įstaigose ir jų teritorijose (išskyrus sanatorijose įrengtose viešojo maitinimo
-
-įmonėse, kuriose savivaldybės taryba gali leisti prekiauti alkoholiniais
-
-gėrimais);
-
-2) valstybės
-
-valdžios ir valdymo institucijose, išskyrus oficialius priėmimus;
-
-3) visų rūšių
-
-viešajame transporte, išskyrus tarptautinio susisiekimo traukinius, siaurojo
-
-geležinkelio traukinius, laivus, kur yra atskirai įrengtos viešojo maitinimo
-
-vietos, taip pat orlaivius, skrendančius už Lietuvos Respublikos ribų.
-
-Savivaldybių
-
-tarybos turi teisę nustatyti viešąsias vietas, kuriose draudžiama vartoti
-
-alkoholinius gėrimus ar atitinkamų grupių alkoholinius gėrimus.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-372,
-
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
-
-Nr.
-
-VIII-961,
-
-98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
-
-Nr.
-
-IX-600,
-
-2001-11-13, Žin., 2001, Nr. 99-3531 (2001-11-28)
-
-Nr. IX-964,
-
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-Nr. IX-1558,
-
-2003-05-15, Žin., 2003, Nr. 52-2312 (2003-05-30)
-
-26 straipsnis. Visuomenės
-
-informavimas apie alkoholį, jo vartojimo lemiamą žalą
-
-sveikatai ir
-
-ūkiui
-
-Švietimo ir mokslo
-
-ministerija privalo parengti sveikatos ugdymo visose bendrojo lavinimo
-
-mokyklose ir kitose švietimo įstaigose programas bei įtraukti sveikatos ugdymo
-
-klausimus į naujai leidžiamus vadovėlius.
-
-Visos švietimo įstaigos,
-
-suderinusios su Sveikatos apsaugos ministerija, privalo į ugdymo programas
-
-įtraukti žinias apie alkoholinius gėrimus, jų daromą žalą sveikatai ir ūkiui,
-
-sveikatai palankios aplinkos, užkertančios kelią alkoholio vartojimo daromai
-
-žalai, sveikos gyvensenos formavimą.
-
-Lietuvos radijo ir televizijos
-
-laidose ne rečiau kaip du kartus per savaitę ir ne mažiau kaip po 5 minutes
-
-bendro laiko televizijos žiūrovams ir radijo klausytojams patogiausiu laiku
-
-turi būti transliuojamos laidos sveikatos ugdymo klausimais.
-
-27 straipsnis. Alkoholio
-
-kontrolės programos
-
-Lietuvos Respublikos Vyriausybė rengia,
-
-tvirtina ir įgyvendina valstybės alkoholio kontrolės programą. Valstybės
-
-alkoholio kontrolės programa finansuojama iš valstybės biudžeto lėšų, skiriamų
-
-Sveikatos apsaugos ministerijai atskiroms programoms finansuoti.
-
-Valstybės
-
-alkoholio kontrolės programos tikslams pasiekti savivaldybės rengia ir
-
-įgyvendina savivaldybių alkoholio kontrolės programas. Savivaldybių alkoholio
-
-kontrolės programos finansuojamos iš savivaldybių sveikatos fondų lėšų.
-
-Savivaldybių sveikatos fondų steigimo ir jų lėšų šaltinių formavimo tvarką
-
-nustato įstatymai ir kiti teisės aktai.
-
-Kiti fiziniai ir juridiniai
-
-asmenys gali rengti ir kitas alkoholio kontrolės programas, dėl jų rengimo ir
-
-įgyvendinimo teikti pasiūlymus Lietuvos Respublikos Vyriausybei, Nacionalinei
-
-sveikatos tarybai (toliau - NST), VTAKT ir kitoms valstybės alkoholio kontrolės
-
-politiką formuojančioms ir įgyvendinančioms institucijoms.
-
-Alkoholio kontrolės
-
-programos rengiamos, finansuojamos, įgyvendinamos ir kontroliuojamos pagal
-
-Lietuvos Respublikos Vyriausybės patvirtintus sveikatos programų rengimo,
-
-tvirtinimo, finansavimo, įgyvendinimo ir kontrolės nuostatus.
-
-Straipsnio pakeitimai:
-
-Nr. IX-964, 2002-06-20,
-
-Žin., 2002, Nr. 65-2632 (2002-06-28)
-
-28 straipsnis. Blaivybės
-
-organizacijų veiklos programų rėmimas
-
-Blaivybės organizacijų
-
-veiklos programos nustatyta tvarka remiamos:
+organizacijų veiklos programos nustatyta tvarka remiamos:
 
 1) iš valstybės
 
-biudžeto lėšų, skiriamų Sveikatos apsaugos ministerijai atskiroms programoms
+biudžeto ir savivaldybių biudžetų lėšų;
 
-finansuoti, iš Sveikatos sistemos įstatyme nustatytų savivaldybių sveikatos
+2) fizinių ir
 
-fondų, iš labdaros ir paramos davėjų;
+juridinių asmenų Lietuvos Respublikos labdaros ir paramos įstatymo nustatyta
 
-2) įmonių, įstaigų ir
+tvarka;
 
-organizacijų Labdaros ir paramos įstatymo nustatyta tvarka;
+3) iš kitų lėšų.
 
-3) iš kitų teisėtai įgytų
+ANTRASIS
 
-lėšų.
+SKIRSNIS
 
-Tvarką, pagal kurią iš
+PIKTNAUDŽIAVIMO
 
-Sveikatos sistemos įstatyme nustatytų sveikatos fondų remiamos blaivybės
+ALKOHOLIU RIBOJIMAS
 
-organizacijų veiklos programos, nustato šių fondų nuostatai.
+26 straipsnis.
 
-Straipsnio pakeitimai:
+Asmenų neblaivumo (girtumo) kontrolės tvarka
 
-Nr. IX-964,
+1. Asmenys,
 
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
+vairuojantys transporto priemones Lietuvos Respublikoje, gali būti tikrinami
 
-II skirsnis.
+dėl neblaivumo (girtumo) ir alkoholio kiekio kraujyje. Darbdaviai privalo
 
-Alkoholinių gėrimų pardavimo skatinimo
+užtikrinti, kad prieš reisą būtų tikrinama, ar jų darbuotojai, vairuojantys
 
-ir reklamos
+įmonių, įstaigų, organizacijų transporto priemones, yra blaivūs (negirti).
 
-ribojimas
+2. Transporto
 
-Skirsnio
+priemones vairuojančių ir kitų asmenų neblaivumo (girtumo) kontrolės tvarką,
 
-pavadinimas keistas:
+vairavimo metu leidžiamą maksimalią etilo alkoholio koncentraciją asmenų,
 
-Nr.
+vairuojančių antžeminio, vandens ir oro transporto priemones Lietuvos
 
-VIII-372,
+Respublikoje, iškvepiamame ore, kraujyje ir kituose organizmo skysčiuose
 
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
+nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
-29 straipsnis.
+27 straipsnis.
+
+Narkologinės priežiūros organizavimas
+
+1. Narkologinė
+
+priežiūra atliekama Lietuvos Respublikos narkologinės priežiūros įstatymo, kitų
+
+įstatymų ir teisės aktų nustatyta tvarka.
+
+2. Asmenys,
+
+apsinuodiję alkoholiu, gali būti įstatymų ir kitų teisės aktų nustatyta tvarka
+
+detoksikuojami asmens sveikatos priežiūros įstaigose. Šiuos asmenis policija
+
+gali priverstinai pristatyti į asmens sveikatos priežiūros įstaigas tik tuo
+
+atveju, kai jie savo veiksmais (ar neveikimu) gali padaryti esminės žalos savo
+
+ar aplinkinių sveikatai, gyvybei.
+
+3. Įstatymų
+
+nustatytais atvejais ir tvarka gali būti apribotas asmenų, kuriems pasireiškia
+
+priklausomybės nuo alkoholio sindromas, veiksnumas.
+
+TREČIASIS
+
+SKIRSNIS
+
+ALKOHOLINIŲ
+
+GĖRIMŲ PARDAVIMO SKATINIMO IR REKLAMOS RIBOJIMAS
+
+28 straipsnis.
 
 Alkoholinių gėrimų pardavimo skatinimo ribojimas
 
-Įmonėms,
+1. Įmonėms,
 
-turinčioms teisę prekiauti alkoholiniais gėrimais, draudžiama naudoti tokius jų
+turinčioms teisę prekiauti alkoholiniais gėrimais, draudžiama naudoti tokius
 
-pardavimo skatinimo būdus:
+alkoholinių gėrimų pardavimo skatinimo būdus:
 
-1) dalį prekių
+1) alkoholinius
 
-išduoti veltui arba kaip premiją;
+gėrimus duoti kaip premiją, kaip prekės priedą arba dovanoti;
 
 2) taikyti
 
-fiksuotas nuolaidas kuponų, išspausdintų visuomenės informavimo priemonėse,
+fiksuotas nuolaidas visuomenės informavimo priemonėse išspausdintų kuponų
 
 savininkams;
 
 3) organizuoti
 
-naujų alkoholinių gėrimų pavyzdžių platinimą nemokamai;
+alkoholinių gėrimų pavyzdžių platinimą nemokamai, išskyrus degustacijas parodų
 
-4) teikti savo
+ir mugių metu;
 
-produkciją į loterijas, konkursus, žaidimus kaip prizus arba kartu su jais;
+4) organizuoti
 
-5) organizuoti
+mažmeninės prekybos subjektų konkursus alkoholinių gėrimų pardavimui skatinti;
 
-mažmeninės prekybos subjektų konkursus dėl alkoholinių gėrimų pardavimo
-
-skatinimo;
-
-6) parduoti
+5) parduoti
 
 Lietuvos Respublikoje ar užsienio šalyse išspausdintus, įvežtus į Lietuvos
 
 Respubliką specializuotus reklaminius leidinius, skirtus alkoholinių gėrimų
 
-pardavimo skatinimui.
+pardavimui skatinti.
 
-Lietuvos
+2. Draudžiama
 
-Respublikos Vyriausybė įmonėms, kurios turi nustatyta tvarka išduotus
+skatinimo veiklai pasitelkti asmenis iki 18 metų.
 
-licencijas prekiauti alkoholiniais gėrimais, turi teisę nustatyti ir kitus
-
-alkoholinių gėrimų pardavimo skatinimo ribojimus.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-372,
-
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
-
-Nr. VIII-1569,
-
-00.03.16, Žin., 2000, Nr.28-759 (00.04.05)
-
-Nr. IX-1670,
-
-2003-07-01, Žin., 2003, Nr. 70-3169 (2003-07-16)
-
-30 straipsnis.
+29 straipsnis.
 
 Alkoholio reklamos ribojimas
 
-Lietuvos
+1. Lietuvos
 
-Respublikoje draudžiama visų formų alkoholio reklama, kuri:
+Respublikoje draudžiama visų formų alkoholio reklama:
 
-1) skirta vaikams
+1) skirta
 
-ir paaugliams iki 18 metų;
+vaikams ir paaugliams iki 18 metų;
 
-2) naudoja
+2) kurioje
 
-asmenis iki 18 metų;
+dalyvauja asmenys iki 18 metų;
 
-3) naudoja
+3) kurioje
 
-sportininkus, gydytojus, politikus, meno ir mokslo įžymybes ar kitus iškilius
+dalyvauja sportininkai, gydytojai, politikai, meno ir mokslo įžymybės, kiti
 
-visuomenės veikėjus, jų asmenį, vardą, atvaizdą ir pan.;
+garsūs visuomenės veikėjai, naudojamas jų asmuo, vardas, atvaizdas ir pan.;
 
-4) sieja
+4) siejanti
 
 alkoholio vartojimą su fizinės būklės pagerėjimu;
 
-5) sieja
+5) siejanti
 
 alkoholio vartojimą su vairavimu;
 
-6) sieja
+6) siejanti
 
 alkoholio vartojimą su psichinės veiklos pagerėjimu, asmeninių problemų
 
 sprendimu;
 
-7) sieja
+7) siejanti
 
 alkoholio vartojimą su stimuliuojančiomis, raminančiomis ir kitomis
 
 gydomosiomis savybėmis;
 
-8) sieja alkoholio
+8) siejanti
 
-vartojimą su socialine sėkme, padidintu seksualiniu aktyvumu;
+alkoholio vartojimą su socialine sėkme, padidintu seksualiniu aktyvumu;
 
 9) palankiai
 
-vaizduoja nesaikingą alkoholinių gėrimų vartojimą ar neigiamai atsiliepia apie
+vaizduojanti nesaikingą alkoholinių gėrimų vartojimą ar neigiamai atsiliepianti
 
-abstinenciją ir saikingumą;
+apie abstinenciją ir saikingumą;
 
-10) pateikia
+10) pateikianti
 
 didesnę tūrinę etilo alkoholio koncentraciją kaip alkoholinių gėrimų privalumą;
 
-11) pateikia
+11) pateikianti
 
-neteisingą ir klaidinančią informaciją apie alkoholinius gėrimus.
+neteisingą ir (ar) klaidinančią informaciją apie alkoholinius gėrimus.
 
-Alkoholio
+2. Alkoholio
 
 reklama draudžiama:
 
 1) laikraščių ir
 
-jų savarankiškų priedų, žurnalų bei knygų pirmuosiuose ir paskutiniuosiuose
-
-puslapiuose (viršeliuose);
+jų savarankiškų priedų, žurnalų bei knygų išorinėse viršelių pusėse;
 
 2) vaikams ir
 
-paaugliams skirtuose specializuotuose laikraščiuose, žurnaluose, knygose,
+paaugliams skirtuose laikraščiuose, žurnaluose, knygose, televizijos ir radijo
 
-televizijos ir radijo programose;
+programose;
 
 3) Lietuvos
 
 Respublikoje įregistruotų radijo ir televizijos stočių, kabelinio radijo ir
 
-kabelinės televizijos stočių transliuojamose ir retransliuojamose programose,
+kabelinės televizijos stočių transliuojamose ir retransliuojamose programose
 
-išskyrus tiesiogiai ir ištisai iš užsienio retransliuojamas laidas, nuo 15
+(išskyrus tiesiogiai ir ištisai iš užsienio retransliuojamas laidas) nuo 15
 
-valandos iki 22 valandos 30 minučių, o savaitgaliais ir moksleivių atostogų
+valandos iki 22 valandos 30 minučių, o šeštadieniais, sekmadieniais ir
 
-dienomis – nuo 8 valandos iki 22 valandos 30 minučių (išskyrus alkoholinių
+moksleivių atostogų dienomis – nuo 8 valandos iki 22 valandos 30 minučių
 
-gėrimų, kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų,
+(išskyrus alkoholinių gėrimų, kurių tūrinė etilo alkoholio koncentracija
 
-reklamą);
+neviršija 22 procentų, reklamą);
 
-4) koncertų, cirko, diskotekų ir kitų masinių renginių, teatro
+4) koncertų,
 
-spektaklių, kino ir videofilmų demonstravimo vietose, išskyrus šių renginių
+cirko, diskotekų, jaunimo sporto ir laisvalaikio renginių, kitų masinių
 
-vietose esančiose prekybos vietose šio straipsnio šeštojoje dalyje leidžiamą
+renginių, teatro spektaklių, kino ir videofilmų demonstravimo vietose, išskyrus
 
-pateikti informaciją. Masiniuose renginiuose (išskyrus renginius, skirtus
+šių renginių vietose esančias prekybos vietas. Masiniuose renginiuose (išskyrus
 
-vaikams ir paaugliams iki 18 metų) taip pat gali būti pateikiamas renginį
+vaikams ir paaugliams iki 18 metų skirtus renginius) taip pat gali būti
 
-remiančios ir gaminančios alkoholinius gėrimus, kuriais leidžiama prekiauti
+pateikiamas renginį remiančios ir alkoholinius gėrimus, kuriais leidžiama
 
-masiniuose renginiuose, arba jais prekiaujančios įmonės pavadinimas ir (ar)
+prekiauti masiniuose renginiuose, gaminančios arba jais prekiaujančios įmonės
 
-prekės ženklas, pagal turinį ir formą neprieštaraujantys teisės aktų
+pavadinimas ir (ar) prekės ženklas, pagal turinį ir formą neprieštaraujantys
 
-reikalavimams;
+teisės aktų reikalavimams;
 
 5) švietimo,
 
@@ -3140,135 +2504,103 @@ sveikatos priežiūros įstaigose;
 
 transporto priemonių viduje ir išorėje;
 
-8)
+8) degalinėse ir
 
-degalinėse ir jų teritorijose esančiose alkoholinių gėrimų prekybos vietose,
+jų teritorijose, išskyrus jose esančias alkoholinių gėrimų prekybos vietas;
 
-išskyrus šio straipsnio šeštojoje dalyje numatytą alkoholinių gėrimų prekybos
+9) ant
 
-vietose leidžiamą pateikti informaciją;
+atvirlaiškių, vokų ir pašto ženklų.
 
-9) ant paštu
+3. Loterijose,
 
-siunčiamų atvirlaiškių, vokų ir pašto ženklų.
+žaidimuose, konkursuose draudžiama teikti alkoholinius gėrimus kaip prizus arba
 
-Loterijose,
+kartu su jais.
 
-žaidimuose, konkursuose draudžiama teikti alkoholinius gėrimus kaip prizus
+4. Lietuvos
 
-asmenims iki 18 metų.
+Respublikoje draudžiama išorinė alkoholio reklama, išskyrus alaus bei
 
-Lietuvos
+natūralios fermentacijos vyno ir sidro išorinę reklamą.
 
-Respublikoje draudžiama išorinė alkoholio reklama, išskyrus alaus bei natūralios
+5. Alaus bei
 
-fermentacijos vyno ir sidro išorinę reklamą.
+natūralios fermentacijos vyno ir sidro išorinėje reklamoje (išskyrus tuos
 
-Reklama
+atvejus, kai išorinėje reklamoje pateikiami tik alkoholinius gėrimus gaminančių
 
-nelaikoma alkoholinių gėrimų prekybos vietoje esanti šio straipsnio šeštojoje
+arba jais prekiaujančių įmonių pavadinimai ir (ar) jų prekių ženklai) turi būti
 
-dalyje leidžiama pateikti informacija, informacija apie alkoholinius gėrimus
+įspėjamasis tekstas apie žalingą alkoholio poveikį sveikatai. Šio teksto formą,
 
-informaciniuose pranešimuose, kurie skirti tik alkoholio verslo specialistams,
+turinį ir jo vietą reklamoje nustato Sveikatos apsaugos ministerija.
 
-taip pat alkoholinius gėrimus gaminančių arba jais prekiaujančių įmonių
+6. Reklama
 
-registruoti pavadinimai (jei alkoholinių gėrimų gamintojo pavadinimas yra
+nelaikoma informacija apie alkoholinius gėrimus informaciniuose pranešimuose,
 
-sudėtinė šių įmonių registruoto pavadinimo dalis) bei prekių ženklai, kai šie
+kurie skirti tik alkoholio verslo specialistams, taip pat alkoholinius gėrimus
 
-pavadinimai ir prekių ženklai pateikiami iškabose ant šių įmonių buveinės ar
+gaminančių arba jais prekiaujančių įmonių registruoti pavadinimai (jei
 
-padalinio pastato bei įmonių specializuoto transporto.
+alkoholinių gėrimų gamintojo pavadinimas yra sudedamoji šių įmonių registruoto
 
-Alkoholinių
+pavadinimo dalis) bei prekių ženklai, kai šie pavadinimai ir prekių ženklai
 
-gėrimų prekybos vietose Lietuvos Respublikos Vyriausybės ar jos įgaliotos
+pateikiami iškabose ant šių įmonių buveinės ar padalinio pastato bei įmonių
 
-institucijos nustatyta tvarka apie šiuos gaminius gali būti pateikta tik ši
+valdomo transporto.
 
-informacija:
+7. Kaip
 
-1)
+laikomasi šio straipsnio reikalavimų, kontroliuoja Tarnyba (išskyrus pažeidimus
 
-gamintojo, prekybos įmonės pavadinimas ir adresas, prekių ženklas, prekybos
+visuomenės informavimo priemonėse), savivaldybių institucijos (išorinės
 
-rūšis (didmeninė ar mažmeninė);
-
-2)
-
-alkoholinių gėrimų pavadinimai ir grupės;
-
-3)
-
-žodžiai „prekiaujame“ arba „parduodame“;
-
-4) gėrimo
-
-tūrinė etilo alkoholio koncentracija;
-
-5)
-
-alkoholinių gėrimų kainos;
-
-6)
-
-iš ko gėrimas pagamintas (vaisių, vynuogių, grūdų ir pan.);
-
-7)
-
-vartojimo ypatumai;
-
-8)
-
-informacija apie alkoholio vartojimo žalą sveikatai.
-
-Kaip laikomasi
-
-šio straipsnio reikalavimų, kontroliuoja VTAKT (išskyrus pažeidimus visuomenės
-
-informavimo priemonėse), savivaldybių institucijos ir VTAKT (išorinės reklamos
-
-draudimo pažeidimus) bei Nacionalinė vartotojų teisių apsaugos taryba
+reklamos draudimo pažeidimus) bei Nacionalinė vartotojų teisių apsaugos taryba
 
 (pažeidimus visuomenės informavimo priemonėse).
 
-Straipsnio
+V SKYRIUS
 
-pakeitimai:
+VALSTYBĖS
 
-Nr.
+ALKOHOLIO KONTROLĖS VALDYMO
 
-I-1156,
+INSTITUCIJŲ
 
-95.12.21, Žin., 1996, Nr. 8-195 (96.01.26)
+KOMPETENCIJA
 
-Lietuvos
+30 straipsnis.
 
-Respublikos Konstitucinis Teismas, Nutarimas
+Valstybės alkoholio kontrolės politikos formavimo sistema
 
-97.02.13,
+Valstybės alkoholio
 
-Žin., 1997, Nr.15-314 (97.02.19)
+kontrolės politiką pagal kompetenciją formuoja ir koordinuoja Lietuvos
 
-Nr.
+Respublikos Seimas, Lietuvos Respublikos Vyriausybė, Nacionalinė sveikatos taryba,
 
-VIII-372,
+savivaldybių tarybos, kitos įstatymų nustatytos institucijos. Jų įgaliojimus
 
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
+alkoholio kontrolės srityje nustato šis ir kiti įstatymai bei teisės aktai.
 
-Nr. IX-964,
+31
 
-2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
+straipsnis. Valstybės alkoholio kontrolės politikos vykdomųjų institucijų
 
-Nr. IX-1558,
+sistema
 
-2003-05-15, Žin., 2003, Nr. 52-2312 (2003-05-30)
+Valstybės alkoholio
 
-Nr. IX-1670,
+kontrolę pagal kompetenciją atlieka ministerijos, Tarnyba, kitos valstybės
 
-2003-07-01, Žin., 2003, Nr. 70-3169 (2003-07-16)
+institucijos, savivaldybių vykdomosios institucijos, policija, sveikatos
+
+priežiūros įstaigos. Jų kompetenciją alkoholio kontrolės srityje nustato šis ir
+
+kiti įstatymai bei teisės aktai.
 
 31 straipsnis. (Neteko galios)
 
@@ -3290,29 +2622,55 @@ ekonominės
 
 priemonės
 
-32 straipsnis. Importo muito
+32 straipsnis.
 
-mokesčio ir akcizų tarifų už alkoholio produktus
+Valstybinė tabako ir alkoholio kontrolės tarnyba
 
-diferencijavimas
+Tarnybos
 
-Alkoholio produktų
+kompetenciją nustato Lietuvos Respublikos sveikatos sistemos įstatymas, šis
 
-apmokestinimo muito mokesčiu ir akcizais tvarką nustato įstatymai ir Lietuvos
+Įstatymas bei Tarnybos nuostatai, kuriuos tvirtina Lietuvos Respublikos
 
-Respublikos Vyriausybės nutarimai.
+Vyriausybė.
 
-Muito mokesčio bei akcizų už
+VI SKYRIUS
 
-Lietuvos Respublikoje realizuojamus ir importuojamus alkoholinius gėrimus
+ATSAKOMYBĖS UŽ
 
-tarifai diferencijuojami pagal nustatytas alkoholinių gėrimų grupes.
+ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA IR BYLŲ NAGRINĖJIMO PROCESAS
 
-Lietuvos Respublikos
+33
 
-Vyriausybė muito mokesčio ir akcizų tarifus turi reguliuoti taip, kad
+straipsnis. Administracinės atsakomybės už Įstatymo pažeidimus taikymo tvarka
 
-alkoholinių gėrimų kainos didėtų greičiau negu gyventojų pajamos.
+1. Fiziniams
+
+asmenims už šio Įstatymo pažeidimus taikoma įstatymų nustatyta administracinė
+
+atsakomybė.
+
+2. Lietuvos
+
+Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti
+
+alkoholio produktai, alkoholiniai gėrimai be specialių ženklų – banderolių, taip
+
+pat alkoholio produktai, kurie neatitinka Lietuvos Respublikoje galiojančių
+
+kokybės reikalavimų ar kurių įsigijimas nepatvirtintas juridinę galią
+
+turinčiais dokumentais, Lietuvos Respublikos administracinių teisės pažeidimų
+
+kodekso (toliau – Administracinių teisės pažeidimų kodeksas) nustatyta tvarka
+
+konfiskuojami.
+
+3. Konfiskuoti
+
+alkoholio produktai sunaikinami arba panaudojami biodegalų gamybai Lietuvos
+
+Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 33 straipsnis. (Neteko galios)
 
@@ -3332,133 +2690,671 @@ VIII-372,
 
 97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
 
-34 straipsnis. Minimalaus
+34 straipsnis.
 
-gyvenimo lygio nustatymo ypatumai
+Ekonominių sankcijų už Įstatymo pažeidimus taikymas
 
-Alkoholinius gėrimus
+1. Už šio
 
-įtraukti į minimalų maisto produktų ir ne maisto prekių bei paslaugų rinkinį
+Įstatymo pažeidimus baudas juridiniams asmenims ir užsienio juridinių asmenų
 
-minimaliam gyvenimo lygiui apskaičiuoti draudžiama.
+filialams bei atstovybėms pagal savo kompetenciją turi teisę skirti Tarnyba,
 
-IV skirsnis.
+Nacionalinė vartotojų teisių apsaugos taryba, Valstybinė maisto ir
 
-Piktnaudžiavimo alkoholiu ribojimas
+veterinarijos tarnyba, Valstybinė mokesčių inspekcija prie Finansų ministerijos
 
-35 straipsnis. Vairavimo
+(toliau – Valstybinė mokesčių inspekcija), teritorinės valstybinės mokesčių
 
-kontrolės tvarka
+inspekcijos, institucija, Lietuvos Respublikos Vyriausybės įgaliota išduoti
 
-Asmenys, vairuojantys
+vyno produktų ir žemės ūkio kilmės etilo alkoholio importo ir eksporto
 
-transporto priemones Lietuvos Respublikoje, gali būti tikrinami dėl neblaivumo,
+licencijas, Lietuvos Respublikos Vyriausybės įgaliota institucija, kuri turi
 
-girtumo ir alkoholio kiekio kraujyje. Darbdaviai privalo užtikrinti, kad jų
+būti informuojama apie alkoholio produktų (išskyrus vyno produktus ir žemės
 
-darbuotojai, vairuojantys įmonių, įstaigų, organizacijų transporto priemones,
+ūkio kilmės etilo alkoholį) importą, savivaldybių institucijos ir policija.
 
-prieš išvykdami į reisą būtų tikrinami dėl neblaivumo (girtumo).
+2. Už alkoholio
 
-Asmenis, vairuojančius
+produktų, neatitinkančių Lietuvos Respublikoje galiojančių saugos ar kokybės
 
-transporto priemones, vairavimo metu dėl neblaivumo ir girtumo tikrina
+reikalavimų, gaminimą ir pardavimą, vyno produktų ir žemės ūkio kilmės etilo
 
-policija. Įtarusi, kad šie asmenys neblaivūs (girti), policija panaudoja
+alkoholio importą ir eksportą, alkoholio produktų gaminimą, laikymą, gabenimą
 
-norminiuose aktuose numatytas priemones apsvaigimo laipsniui nustatyti.
+ir pardavimą neturint šiai veiklai atitinkamos licencijos, alkoholio produktų
 
-Asmenys, nesutinkantys su patikrinimo rezultatais, pristatomi į Sveikatos
+(išskyrus vyno produktus ir žemės ūkio kilmės etilo alkoholį) importą, jei
 
-apsaugos ministerijos įgaliotas sveikatos priežiūros įstaigas apsvaigimo
+neinformuojama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
 
-laipsniui nustatyti. Sveikatos priežiūros įstaigų išvada dėl neblaivumo
+nustatyta tvarka Lietuvos Respublikos Vyriausybės įgaliota institucija, taip
 
-(girtumo) yra galutinė. Sveikatos apsaugos ministerijos įgaliotos neblaivumui
+pat už šio Įstatymo 17 straipsnio 1, 2, 5–11 dalyse nustatytų alkoholio
 
-(girtumui) nustatyti sveikatos priežiūros įstaigos atlieka pristatytų ar
+produktų pardavimo, laikymo, gabenimo reikalavimų nesilaikymą juridiniai
 
-besikreipiančių asmenų medicininę apžiūrą.
+asmenys ir užsienio juridinių asmenų filialai bei atstovybės baudžiami nuo
 
-Asmenų, vairuojančių
+vieno tūkstančio litų iki aštuoniasdešimties tūkstančių litų bauda.
 
-transporto priemones, neblaivumo (girtumo) tikrinimo tvarką, vairavimo metu
+3. Už šio
 
-leidžiamą maksimalią etilo alkoholio koncentraciją asmenų, vairuojančių
+Įstatymo 18 straipsnio 1, 3 dalyse ir 4 dalies 1, 2 punktuose nustatytų
 
-antžeminio, vandens ir oro transporto priemones Lietuvos Respublikoje,
+reikalavimų nesilaikymą įmonės baudžiamos nuo penkių šimtų litų iki dviejų
 
-iškvepiamame ore ir kraujyje nustato Lietuvos Respublikos Vyriausybė.
+tūkstančių litų bauda, o už šių reikalavimų pažeidimą, padarytą pakartotinai
 
-Neblaivių vairuotojų
+per penkerius metus nuo baudos paskyrimo, – nuo dviejų tūkstančių litų iki
 
-vairavimas transporto priemonių, leidimas vairuoti transporto priemones
+penkių tūkstančių litų bauda.
 
-neblaiviems asmenims arba perdavimas vairuoti transporto priemones neblaiviems
+4. Už šio
 
-asmenims užtraukia įstatymų nustatytą baudžiamąją ar administracinę atsakomybę.
+Įstatymo 18 straipsnio 4 dalies 3 punkto reikalavimo nesilaikymą įmonės
 
-Straipsnio
+baudžiamos nuo vieno tūkstančio litų iki trijų tūkstančių litų bauda.
 
-pakeitimai:
+5. Už šio
 
-Nr.
+Įstatymo 28 straipsnio reikalavimų nesilaikymą įmonės baudžiamos nuo vieno
 
-I-987,
+tūkstančio litų iki dešimties tūkstančių litų bauda, už kiekvieną to paties
 
-95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
+reikalavimo pakartotinį pažeidimą, padarytą per penkerius metus nuo baudos
+
+paskyrimo, – nuo dešimties tūkstančių litų iki dvidešimties tūkstančių litų
+
+bauda.
+
+6. Už šio
+
+Įstatymo 29 straipsnio reikalavimų nesilaikymą juridiniai asmenys ir užsienio
+
+juridinių asmenų filialai bei atstovybės baudžiami nuo vieno tūkstančio litų
+
+iki dešimties tūkstančių litų bauda, už kiekvieną to paties reikalavimo
+
+pakartotinį pažeidimą, padarytą per penkerius metus nuo baudos paskyrimo, – nuo
+
+dešimties tūkstančių litų iki dvidešimties tūkstančių litų bauda.
+
+7. Konkretus
+
+skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio 8 ir 9 dalyse
+
+nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra
+
+atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki
+
+minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas
+
+nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių
+
+aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos
+
+dydžio mažinimas ar didinimas motyvuojamas institucijos, skiriančios baudą už
+
+šiame Įstatyme nustatytų reikalavimų nesilaikymą, nutarime.
+
+8. Atsakomybę
+
+lengvinančiomis aplinkybėmis laikoma tai, kad padarę pažeidimą juridiniai
+
+asmenys ir užsienio juridinių asmenų filialai bei atstovybės savo noru užkirto
+
+kelią žalingoms pažeidimo pasekmėms, padėjo kompetentingoms institucijoms
+
+tyrimo metu, atlygino nuostolius ar pašalino padarytą žalą. Skirianti baudą
+
+institucija gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas
+
+šioje dalyje nenurodytas aplinkybes.
+
+9. Atsakomybę
+
+sunkinančiomis aplinkybėmis laikoma tai, kad padarę pažeidimą juridiniai
+
+asmenys ir užsienio juridinių asmenų filialai bei atstovybės kliudė vykdyti
+
+tyrimą, slėpė padarytą pažeidimą, toliau pažeidinėjo šio Įstatymo reikalavimus
+
+nepaisydami kompetentingos institucijos nurodymo nutraukti neteisėtus veiksmus.
+
+10. Baudas už
+
+alkoholio produktų, neatitinkančių saugos ir kokybės reikalavimų, gamybą ir
+
+realizavimą, šio Įstatymo 17 straipsnio 1 dalies 1, 4, 5, 6 punktuose, 2 dalies
+
+1, 4, 5 punktuose nustatytų reikalavimų nesilaikymą skiria Valstybinė maisto ir
+
+veterinarijos tarnyba.
+
+11. Baudas už
+
+šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–11 punktuose, 2 dalies 2, 3, 6–9
+
+punktuose, 5–11 dalyse, 18 straipsnio 1, 3 ir 4 dalyse nustatytų
+
+reikalavimų nesilaikymą skiria Tarnyba ir policija. Policijos vardu skirti
+
+baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys.
+
+12. Baudas už
+
+šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7, 9–11 punktuose, 2 dalies 2, 3, 6,
+
+8, 9 punktuose, 5–11 dalyse, 18 straipsnio 1 dalyje, 3 dalies 6–8 punktuose, 4
+
+dalies 1 punkte nustatytų reikalavimų nesilaikymą skiria Valstybinė
+
+mokesčių inspekcija bei teritorinės valstybinės mokesčių inspekcijos.
+
+13. Baudas už
+
+alkoholio produktų gamybą neturint šiai veiklai reikalingos licencijos, už šio
+
+Įstatymo 17 straipsnio 1 dalies 6 punkte, 2 dalies 5 punkte ir 28 straipsnyje
+
+nustatytų reikalavimų nesilaikymą skiria Tarnyba.
+
+14. Baudas už
+
+šio Įstatymo 29 straipsnyje nustatytų reikalavimų pažeidimus skiria Tarnyba
+
+(išskyrus už reklamos pažeidimus visuomenės informavimo priemonėse),
+
+savivaldybių institucijos (už išorinės reklamos draudimo pažeidimus) ir
+
+Nacionalinė vartotojų teisių apsaugos taryba (už reklamos pažeidimus visuomenės
+
+informavimo priemonėse).
+
+15. Baudas už
+
+vyno produktų ir žemės ūkio kilmės etilo alkoholio importą ir eksportą neturint
+
+šiai veiklai reikalingos licencijos skiria Lietuvos Respublikos Vyriausybės
+
+įgaliota institucija.
+
+16. Baudas už
+
+alkoholio produktų (išskyrus vyno produktus ir žemės ūkio kilmės etilo
+
+alkoholį) importą, jei neinformuojama Lietuvos Respublikos Vyriausybės ar jos
+
+įgaliotos institucijos nustatyta tvarka Lietuvos Respublikos Vyriausybės
+
+įgaliota institucija, skiria institucija, kuri turi būti informuojama apie šių
+
+alkoholio produktų importą.
+
+17. Įmonėms,
+
+turinčioms licencijas verstis didmenine ar mažmenine prekyba alkoholio
+
+produktais ir nesilaikančioms šio Įstatymo 17 straipsnio 1 dalies 1, 2,
+
+4, 5, 8, 9 punktų, 2 dalies 1, 2, 4, 7 punktų reikalavimų, licencijų galiojimas
+
+panaikinamas ir naujos licencijos neišduodamos 5 metus nuo licencijų galiojimo
+
+panaikinimo dienos.
+
+18. Įmonėms
+
+licencijų galiojimas panaikinamas ir pakartotinai licencijos neišduodamos,
+
+jeigu joms arba jų administracijos vadovams ar kitiems darbuotojams (jeigu jie
+
+veikė įmonės vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo
+
+nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs muitinės,
+
+mokesčių inspekcijos, policijos ar Tarnybos nutarimas dėl bausmės ar nuobaudos
+
+skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių
+
+neteisėtą laikymą, gabenimą ar pardavimą, taip pat falsifikuotų alkoholio
+
+produktų pardavimą, gabenimą ar laikymą.
+
+19. Įmonėms,
+
+turinčioms licencijas verstis mažmenine prekyba alkoholiniais gėrimais
+
+(išskyrus šio straipsnio 20 dalyje nurodytas įmones) per vienerius metus nuo
+
+šio straipsnio 4 dalyje nustatytos baudos už šio Įstatymo 18 straipsnio 4
+
+dalies 3 punkto reikalavimo pažeidimą pirmą kartą paskyrimo ir pažeidusioms šį
+
+reikalavimą toje pačioje prekybos vietoje pakartotinai, panaikinamas licencijos
+
+verstis mažmenine prekyba alkoholiniais gėrimais toje prekybos vietoje, kurioje
+
+nustatyti pažeidimai, galiojimas ir nauja licencija neišduodama vienerius metus
+
+nuo licencijos galiojimo panaikinimo dienos.
+
+20. Įmonėms,
+
+prekiaujančioms alkoholiniais gėrimais masiniuose renginiuose, parodose ir
+
+mugėse ir pažeidusioms šio Įstatymo 18 straipsnio 4 dalies 3 punkto
+
+reikalavimą, vienerius metus nuo pažeidimo nustatymo dienos neišduodama
+
+vienkartinė licencija verstis mažmenine prekyba alkoholiniais gėrimais masiniuose
+
+renginiuose, parodose ir mugėse, rengiamuose toje savivaldybėje, kurioje
+
+nustatytas pažeidimas.
+
+21. Licencijų
+
+panaikinimas neatleidžia įmonių nuo šio straipsnio 2, 3, 4, 5 ir 6 dalyse
+
+nustatytų ir įmonėms skirtų piniginių baudų mokėjimo.
+
+35 straipsnis.
+
+Įstatymo pažeidimų protokolas ir bylų nagrinėjimo terminai
+
+1. Šio Įstatymo
+
+34 straipsnio 1 dalyje nurodytų kontrolės institucijų tam įgalioti darbuotojai
+
+(pareigūnai), nustatę, kad šio Įstatymo reikalavimai pažeisti, surašo
+
+Administracinių teisės pažeidimų kodekse nustatyto turinio protokolą.
+
+2. Šio Įstatymo
+
+34 straipsnio 1 dalyje nurodytos institucijos bylas nagrinėja ir baudas skiria
+
+ne vėliau kaip per mėnesį nuo pažeidimo nustatymo dienos.
 
 36 straipsnis.
 
-Narkologinės priežiūros organizavimas
+Bylos nagrinėjimo proceso dalyviai
 
-Narkologinė
+1. Nagrinėjant
 
-priežiūra Lietuvos Respublikoje atliekama Lietuvos Respublikos narkologinės
+bylas dėl šio Įstatymo 34 straipsnyje nurodytų pažeidimų, dalyvauja:
 
-priežiūros įstatymo, kitų įstatymų ir poįstatyminių aktų nustatyta tvarka.
+1) asmuo,
 
-Narkologinę
+įtariamas pažeidęs šį Įstatymą;
 
-sveikatos priežiūrą Lietuvos Respublikoje koordinuoja Sveikatos apsaugos
+2) šio Įstatymo
 
-ministerija arba jos įgaliota institucija.
+34 straipsnio 1 dalyje nurodytų institucijų sprendimu kiti ūkio subjektai, su
+
+kurių interesais tiesiogiai susijusi nagrinėjama byla;
+
+3) valstybės
+
+valdymo ir savivaldybių institucijų atstovai jų prašymu;
+
+4) šio Įstatymo
+
+34 straipsnio 1 dalyje nurodytų institucijų sprendimu ekspertai, specialistai
+
+bei kiti asmenys.
+
+2. Asmenys,
+
+nurodyti šio straipsnio 1 dalies 1 ir 2 punktuose, toliau šiame Įstatyme
+
+vadinami proceso šalimis.
+
+3. Proceso
+
+šalims gali atstovauti jų įgalioti atstovai.
+
+37 straipsnis.
+
+Pranešimas apie bylos nagrinėjimą
+
+Proceso šalims
+
+raštu pranešama apie nustatytus šio Įstatymo pažeidimus, bylos nagrinėjimo
+
+vietą ir laiką, taip pat pasiūloma susipažinti su bylos medžiaga, raštu
+
+pateikti paaiškinimus.
+
+38 straipsnis.
+
+Bylos nagrinėjimas
+
+1. Byla
+
+nagrinėjama, kai dalyvauja proceso šalys ir kiti proceso dalyviai.
+
+2. Bylos
+
+nagrinėjimo metu proceso šalys turi teisę susipažinti su surinkta medžiaga,
+
+duoti paaiškinimus žodžiu ar raštu, pateikti įrodymus, teikti prašymus.
+
+3. Jeigu proceso
+
+šalys bylos nagrinėjimo metu nedalyvauja, byla gali būti išnagrinėta tik tais
+
+atvejais, kai yra duomenų, kad proceso šalims laiku buvo pranešta apie bylos
+
+nagrinėjimo vietą ir laiką.
+
+39 straipsnis.
+
+Nutarimai, priimami išnagrinėjus bylą
+
+1. Šio Įstatymo
+
+34 straipsnio 1 dalyje nurodytos institucijos, išnagrinėjusios bylą, turi teisę
+
+priimti nutarimą:
+
+1) taikyti šio
+
+Įstatymo nustatytas ekonomines sankcijas;
+
+2) atsisakyti
+
+taikyti ekonomines sankcijas, kai nėra šio Įstatymo nustatyto pagrindo;
+
+3) bylą
+
+nutraukti, kai nėra šio Įstatymo pažeidimo;
+
+4) grąžinti bylą
+
+papildomam tyrimui atlikti.
+
+2. Išnagrinėjus
+
+bylą, priimamas nutarimas. Jame turi būti nurodyta: nutarimą priėmusios
+
+institucijos pavadinimas; bylos nagrinėjimo data ir vieta; duomenys apie
+
+pažeidėją; pažeidimo aplinkybės; pažeidėjo kaltės įrodymai, kuriais grindžiamas
+
+nutarimas; šio Įstatymo straipsnis, nustatantis atsakomybę už pažeidimą; pažeidėjo
+
+paaiškinimai ir jų įvertinimas; priimtas sprendimas; jo apskundimo terminai ir
+
+tvarka.
+
+3. Šio Įstatymo
+
+34 straipsnio 1 dalyje nurodytų institucijų nutarimai per 2 darbo dienas nuo jų
+
+priėmimo išsiunčiami asmenims, dėl kurių šie nutarimai priimti.
+
+40 straipsnis.
+
+Baudų išieškojimas
+
+1. Bauda turi
+
+būti sumokama į valstybės biudžetą, o tais atvejais, kai baudas skiria
+
+savivaldybių vykdomosios institucijos, į baudą paskyrusios savivaldybės
+
+biudžetą ne vėliau kaip per vieną mėnesį nuo dienos, kai šio Įstatymo pažeidėjams
+
+įteiktas nutarimas paskirti baudą.
+
+2. Nesumokėtas
+
+baudas išieško antstoliai vykdydami pateiktus šio Įstatymo 39 straipsnyje
+
+nurodytus institucijų nutarimus Lietuvos Respublikos civilinio proceso kodekso
+
+nustatyta tvarka. Nutarimai gali būti pateikiami vykdyti ne vėliau kaip per 3
+
+metus nuo jų priėmimo dienos.
+
+41 straipsnis.
+
+Nutarimų dėl ekonominių sankcijų taikymo apskundimas
+
+1. Ūkio
+
+subjektai, nesutinkantys su šio Įstatymo 34 straipsnio 1 dalyje nurodytų
+
+institucijų nutarimais dėl ekonominių sankcijų taikymo, turi teisę per vieną
+
+mėnesį nuo nutarimo įteikimo jiems dienos apskųsti nutarimą teismui Lietuvos
+
+Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+2. Kreipimasis į
+
+teismą sustabdo šio Įstatymo 34 straipsnio 1 dalyje nurodytų institucijų
+
+nutarimų dėl ekonominių sankcijų taikymo vykdymą.
+
+42 straipsnis.
+
+Ginčai dėl šio Įstatymo pažeidimų
+
+Ginčai dėl šio
+
+Įstatymo pažeidimų sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+Skelbiu šį Lietuvos
+
+Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
+
+BRAZAUSKAS
 
 Lietuvos
 
-Respublikoje asmenys, apsinuodiję alkoholiu, gali būti įstatymų ir kitų teisės
+Respublikos
 
-aktų nustatyta tvarka detoksikuojami detoksikacijos centruose ir kitose
+alkoholio
 
-sveikatos priežiūros įstaigose. Šiuos asmenis policija gali priverstinai
+kontrolės
 
-pristatyti į sveikatos priežiūros įstaigas tik tuo atveju, kai jie savo
+įstatymo
 
-veiksmais gali padaryti esminės žalos savo ar aplinkinių sveikatai, gyvybei.
+priedas
 
-Asmenų,
+EUROPOS SĄJUNGOS
 
-apsinuodijusių alkoholiu, detoksikacijos centrų veiklos, detoksikavimo tvarką
+TEISĖS AKTAI, SU KURIAIS SUDERINTAS LIETUVOS Respublikos
 
-ir sąlygas nustato įstatymai ir kiti teisės aktai.
+alkoholio kontrolės įstatymas
 
-Įstatymų
+Lietuvos Respublikos
 
-numatytais atvejais ir tvarka gali būti apribotas asmenų, sergančių
+alkoholio kontrolės įstatymas suderintas su šiais Europos Sąjungos teisės
 
-priklausomybės nuo alkoholio sindromu, veiksnumas ir jiems taikomos socialinės
+aktais:
 
-bei psichologinės reabilitacijos priemonės.
+1) 1989 m.
 
-Straipsnio
+spalio 3 d. Tarybos direktyva 89/552/EEB dėl kai kurių valstybių narių
 
-pakeitimai:
+įstatymuose ir kituose teisės aktuose išdėstytų nuostatų, susijusių su
+
+televizijos programų transliavimu, suderinimo (su paskutiniais pakeitimais,
+
+padarytais 1997 m. birželio 30 d. Europos Parlamento ir Tarybos direktyva
+
+97/36/EB);
+
+2) 1989 m.
+
+gegužės 29 d. Tarybos reglamentas (EEB) Nr. 1576/1989, nustatantis bendrąsias taisykles
+
+dėl spiritinių gėrimų apibrėžties, apibūdinimo ir pateikimo (su paskutiniais
+
+pakeitimais, padarytais 1994 m. gruodžio 22 d. Europos Parlamento ir Tarybos
+
+reglamentu (EB) Nr. 3378/1994);
+
+3) 1999 m.
+
+gegužės 17 d. Tarybos reglamentas (EB) Nr. 1493/1999 dėl bendro vyno rinkos
+
+organizavimo (su paskutiniais pakeitimais, padarytais 2001 m. gruodžio 19 d.
+
+Tarybos reglamentu (EB) Nr. 2585/2001);
+
+4) 2000 m.
+
+liepos 24 d. Komisijos reglamentas (EB) Nr. 1622/2000, nustatantis tam tikras
+
+išsamias Reglamento (EB) Nr. 1493/1999 dėl bendro vyno rinkos organizavimo
+
+įgyvendinimo taisykles ir nustatantis Bendrijos vynininkystės metodų ir procesų
+
+kodeksą (su paskutiniais pakeitimais, padarytais 2002 m. gruodžio 16 d.
+
+Komisijos reglamentu (EB) Nr. 2244/2002);
+
+5) 2001 m. balandžio
+
+24 d. Komisijos reglamentas (EB) Nr. 883/2001, nustatantis išsamias Tarybos
+
+reglamento (EB) Nr. 1493/1999 įgyvendinimo taisykles vyno sektoriaus produktų
+
+prekybai su trečiosiomis šalimis (su paskutiniais pakeitimais, padarytais 2003
+
+m. liepos 1 d. Komisijos reglamentu (EB) Nr. 1175/2003);
+
+6) 2001 m.
+
+balandžio 24 d. Komisijos reglamentas (EB) Nr. 884/2001, nustatantis išsamias
+
+vyno produktų gabenimo lydraščių taikymo taisykles ir apskaitos dokumentus,
+
+kurie turi būti tvarkomi vyno sektoriuje (su paskutiniais pakeitimais,
+
+padarytais 2002 m. spalio 7 d. Komisijos reglamentu (EB) Nr. 1782/2002);
+
+7) 2001 m.
+
+birželio 5 d. Tarybos rekomendacija 2001/458/EB dėl jaunų žmonių, ypač vaikų ir
+
+paauglių, alkoholio vartojimo;
+
+8) 2003 m.
+
+balandžio 8 d. Tarybos reglamentas (EB) Nr. 670/2003, nustatantis specialias
+
+priemones dėl žemės ūkio kilmės etilo alkoholio rinkos.
+
+_________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
 
 Nr.
 
 I-987,
 
 95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO PAKEITIMO
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-1156,
+
+95.12.21, Žin., 1996, Nr. 8-195 (96.01.26)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO, ĮMONIŲ ĮSTATYMO
+
+IR ALKOHOLIO KONTROLĖS ĮSTATYMO PAKEITIMO
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-1345,
+
+96.05.21, Žin., 1996, Nr. 53-1247 (96.06.05)
+
+LIETUVOS
+
+RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 12, 17, 20 IR 21 STRAIPSNIŲ PAPILDYMO
+
+IR PAKEITIMO ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-176,
+
+97.04.08, Žin., 1997, Nr.33-809 (97.04.18)
+
+LIETUVOS
+
+RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 12, 17, 19, 20, 33, 44, 45, 50
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-372,
+
+97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
+
+LIETUVOS
+
+RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1, 2, 3, 10, 13, 14, 20, 21, 25, 29,
+
+30, 31, 33, 39, 41, 43, 44 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI IV SKYRIAUS II
+
+SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
+
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
 
 Nr.
 
@@ -3466,201 +3362,207 @@ VIII-961,
 
 98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
 
-V SKYRIUS.
+LIETUVOS
 
-VALSTYBĖS ALKOHOLIO KONTROLĖS VALDYMO
+RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1, 4, 5, 7, 17, 19, 20, 21, 24, 25,
 
-INSTITUCIJŲ
+36, 43, 44, 46 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-KOMPETENCIJA
+7.
 
-37 straipsnis. Valstybės
+Lietuvos
 
-alkoholio kontrolės politikos formavimo sistema
-
-Valstybės alkoholio
-
-kontrolės politiką pagal kompetenciją formuoja ir koordinuoja Lietuvos
-
-Respublikos Seimas, Vyriausybė, Nacionalinė sveikatos taryba, savivaldybių
-
-tarybos, kitos įstatymų nustatytos institucijos. Jų įgaliojimus alkoholio
-
-kontrolės srityje nustato šis ir kiti įstatymai bei teisės aktai.
-
-38 straipsnis. Nacionalinės
-
-sveikatos tarybos kompetencija alkoholio kontrolės srityje
-
-Nacionalinės sveikatos
-
-tarybos bendrąją kompetenciją ir teises sveikatos politikos koordinavimo
-
-srityje, jos sudarymo pagrindus nustato Sveikatos sistemos įstatymas.
-
-Nacionalinė sveikatos taryba
-
-alkoholio kontrolės srityje:
-
-1) prisideda formuojant ir
-
-įgyvendinant valstybės alkoholio kontrolės politiką;
-
-2) prisideda rengiant,
-
-aprobuojant valstybės alkoholio kontrolės programą ir koordinuojant jos
-
-įgyvendinimą;
-
-3) prižiūri, kaip VTAKT ir
-
-kitos Vyriausybės institucijos įgyvendina alkoholio kontrolės politiką;
-
-4) kaupia, apibendrina
-
-informaciją apie alkoholio kontrolės politikos efektyvumą ir teikia ją Lietuvos
-
-Respublikos Seimui ir Vyriausybei;
-
-5) skelbia mokslinę,
-
-informacinę ir analitinę medžiagą, leidžia leidinius apie alkoholio kontrolės
-
-politiką Lietuvoje;
-
-6) dalyvauja tarptautinių
-
-organizacijų, tiriančių ir koordinuojančių šalių alkoholio kontrolės politiką,
-
-veikloje;
-
-7) kiekvienais metais daro
-
-Seime pranešimą apie alkoholio kontrolės būklę Lietuvoje;
-
-8) atlieka kitas funkcijas,
-
-priskirtas jai pagal šį ir kitus įstatymus bei NST nuostatus.
-
-39 straipsnis. Valstybės
-
-alkoholio kontrolės politikos vykdomųjų institucijų sistema
-
-Valstybės alkoholio kontrolę
-
-pagal kompetenciją atlieka ministerijos, VTAKT, kitos Vyriausybės institucijos,
-
-valstybinės tarnybos, valstybinės inspekcijos, savivaldos vykdomosios
-
-institucijos, policija, sveikatos sistemos įstaigos. Jų kompetenciją alkoholio
-
-kontrolės srityje nustato šis ir kiti įstatymai bei teisės aktai. Institucijos
-
-privalo garantuoti anonimiškumą asmenų, padėjusių išaiškinti Alkoholio
-
-kontrolės įstatymo pažeidimus.
-
-Straipsnio
-
-pakeitimai:
+Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-372,
+VIII-1232,
 
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
+99.06.15, Žin., 1999, Nr.57-1835 (99.06.30)
 
-40 straipsnis. Valstybinė
+LIETUVOS
 
-tabako ir alkoholio kontrolės tarnyba
+RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-Šio įstatymo įgyvendinimui
+8.
 
-užtikrinti Lietuvos Respublikos Vyriausybė steigia Valstybinę tabako ir
+Lietuvos Respublikos Seimas, Įstatymas
 
-alkoholio kontrolės tarnybą. Jos kompetenciją nustato Sveikatos sistemos
+Nr. VIII-1569,
 
-įstatymas, šis įstatymas bei VTAKT veiklos nuostatai, kuriuos tvirtina Lietuvos
+00.03.16, Žin., 2000, Nr.28-759 (00.04.05)
 
-Respublikos Vyriausybė.
+ALKOHOLIO KONTROLĖS ĮSTATYMO 12, 15, 16, 17, 19, 20, 29,
 
-41
+44 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-straipsnis. Valstybinės tabako ir alkoholio kontrolės tarnybos veiklos kontrolė
+9.
 
-Prireikus
+Lietuvos Respublikos Seimas, Įstatymas
 
-Lietuvos Respublikos Vyriausybė iš Valstybės kontrolės, Sveikatos apsaugos
+Nr. VIII-1831,
 
-ministerijos, Vidaus reikalų ministerijos, Ūkio ministerijos, Žemės ūkio
+00.07.11, Žin., 2000, Nr.61-1833 (00.07.26)
 
-ministerijos atstovų skiria komisiją, kuri tikrina, kaip VTAKT vykdo šio
+ALKOHOLIO KONTROLĖS ĮSTATYMO 6, 7, 16 IR 44 STRAIPSNIŲ
 
-įstatymo ir kitų teisės aktų, reglamentuojančių alkoholio produktų gamybą,
+PAKEITIMO ĮSTATYMAS
 
-importą ir prekybą, reikalavimus, įgyvendina valstybės alkoholio kontrolės politiką.
+10.
 
-Straipsnio
+Lietuvos Respublikos Seimas, Įstatymas
 
-pakeitimai:
+Nr. VIII-1873,
+
+00.07.18, Žin., 2000, Nr.64-1939 (00.07.31)
+
+ALKOHOLIO KONTROLĖS ĮSTATYMO 12, 13, 20 STRAIPSNIŲ
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-127, 2000 12
+
+21, Žin., 2000, Nr. 113-3617 (2000 12 30)
+
+ALKOHOLIO KONTROLĖS ĮSTATYMO 6, 8 IR 9 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-237,
+
+2001 04 05, Žin., 2001, Nr. 31-1016 (2001 04 11)
+
+ALKOHOLIO KONTROLĖS ĮSTATYMO 21 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-600,
+
+2001-11-13, Žin., 2001, Nr. 99-3531 (2001-11-28)
+
+ALKOHOLIO
+
+KONTROLĖS ĮSTATYMO 2, 4, 21, 25 IR 44 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-372,
+IX-714, 2002-01-17,
 
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
+Žin., 2002, Nr. 13-470 (2002-02-06)
 
-Nr. IX-964,
+ALKOHOLIO
+
+KONTROLĖS ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-964,
 
 2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
 
-VI SKYRIUS.
+ALKOHOLIO
 
-ATSAKOMYBĖS UŽ ALKOHOLIO KONTROLĖS ĮSTATYMO
+KONTROLĖS ĮSTATYMO 1, 2, 3, 6, 8, 12, 13, 14, 16, 17, 19, 20, 21, 23, 25, 27,
 
-PAŽEIDIMUS
+28, 30, 41, 44, 45, 48, 52 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 53
 
-TAIKYMO TVARKA
+STRAIPSNIU ĮSTATYMAS
 
-41 straipsnis. Valstybinės
+16.
 
-tabako ir alkoholio kontrolės tarnybos veiklos kontrolė
+Lietuvos
 
-Kasmet Lietuvos Respublikos
-
-Vyriausybė iš Valstybės kontrolės, Sveikatos apsaugos ministerijos, Vidaus
-
-reikalų ministerijos, Ūkio ministerijos, Žemės ir miškų ūkio ministerijos
-
-atstovų skiria komisiją, kuri tikrina, kaip VTAKT vykdo šio įstatymo ir kitų
-
-teisės aktų reikalavimus, įgyvendina valstybės alkoholio kontrolės politiką.
-
-Straipsnio
-
-pakeitimai:
+Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-372,
+IX-1158,
 
-97.07.02, Žin., 1997, Nr.67-1660 (97.07.16)
+2002-10-29, Žin., 2002, Nr. 112-4966 (2002-11-22)
 
-VI SKYRIUS.
+ALKOHOLIO
 
-ATSAKOMYBĖS UŽ ALKOHOLIO KONTROLĖS ĮSTATYMO
+KONTROLĖS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-PAŽEIDIMUS
+17.
 
-TAIKYMO TVARKA
+Lietuvos
 
-42 straipsnis. Atsakomybė už
+Respublikos Seimas, Įstatymas
 
-Alkoholio kontrolės įstatymo pažeidimus
+Nr.
 
-Asmenys, pažeidę Alkoholio
+IX-1558,
 
-kontrolės įstatymo reikalavimus, atsako šio ir kitų įstatymų nustatyta tvarka.
+2003-05-15, Žin., 2003, Nr. 52-2312 (2003-05-30)
+
+ALKOHOLIO
+
+KONTROLĖS ĮSTATYMO 20, 21, 25 STRAIPSNIŲ PAPILDYMO IR 30 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+18.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1657,
+
+2003-06-26, Žin., 2003, Nr. 64-2883 (2003-06-30)
+
+ALKOHOLIO
+
+KONTROLĖS ĮSTATYMO 13 IR 53 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+19.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1670,
+
+2003-07-01, Žin., 2003, Nr. 70-3169 (2003-07-16)
+
+ALKOHOLIO
+
+KONTROLĖS ĮSTATYMO 29, 30 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šio
 
 43 straipsnis.
 
@@ -4220,33 +4122,85 @@ kontrolės įstatymo 4 straipsnio antroji dalis, 5 straipsnio antroji dalis, 6
 
 22 straipsnis.
 
-(Neteko galios)
+Alkoholinių gėrimų vartojimo ribojimas
 
-Straipsnio
+Lietuvos
 
-pakeitimai:
+Respublikoje vartoti alkoholinius gėrimus draudžiama:
 
-Nr.
+1) laisvės
 
-I-987,
+atėmimo, karinėse ir sukarintos tarnybos, policijos ir kitose statutinėse,
 
-95.07.03, Žin., 1995, Nr. 61-1527 (95.07.26)
+sveikatos priežiūros, ugdymo įstaigose ir jų teritorijose (išskyrus
 
-IV SKYRIUS.
+sanatorijose įrengtas viešojo maitinimo įmones, kuriose savivaldybės taryba
 
-ALKOHOLINIŲ GĖRIMŲ VARTOJIMO
+gali leisti prekiauti alkoholiniais gėrimais);
 
-MAŽINIMAS IR
+2) valstybės
 
-KONTROLĖ
+valdžios ir valdymo institucijose, išskyrus oficialius priėmimus ir kitus
 
-I skirsnis.
+protokolinius renginius. Ši nuostata netaikoma šių institucijų patalpose
 
-Alkoholio bendrojo suvartojimo
+įrengtose viešojo maitinimo įmonėse, turinčiose licencijas verstis mažmenine
 
-mažinimo
+prekyba alkoholiniais gėrimais;
 
-organizacinės priemonės
+3) visų rūšių
+
+viešajame transporte, išskyrus tarptautinio susisiekimo traukinius, siaurojo
+
+geležinkelio traukinius ir laivus, kuriuose yra atskirai įrengtos viešojo
+
+maitinimo vietos, taip pat orlaivius, skrendančius už Lietuvos Respublikos
+
+ribų;
+
+4) viešose
+
+vietose, išskyrus viešojo maitinimo įmones, turinčias licencijas verstis
+
+mažmenine prekyba alkoholiniais gėrimais, ir parodose, mugėse bei masiniuose
+
+renginiuose, kuriuose savivaldybių tarybų nustatyta tvarka įmonėms yra išduotos
+
+licencijos prekiauti alkoholiniais gėrimais.
+
+23
+
+straipsnis. Visuomenės informavimas apie alkoholį, jo vartojimo daromą žalą
+
+sveikatai ir ūkiui
+
+1. Švietimo ir
+
+mokslo ministerija privalo parengti sveikatos ugdymo visose bendrojo lavinimo
+
+mokyklose bei kitose švietimo įstaigose programas ir įtraukti sveikatos ugdymo
+
+klausimus į naujai leidžiamus vadovėlius.
+
+2. Visos
+
+švietimo įstaigos, suderinusios su Sveikatos apsaugos ministerija, privalo į
+
+ugdymo programas įtraukti informaciją apie alkoholinius gėrimus, jų daromą žalą
+
+sveikatai ir ūkiui, taip pat sveikatai palankios aplinkos, užkertančios kelią
+
+alkoholio vartojimo daromai žalai, kūrimą bei sveikos gyvensenos puoselėjimą.
+
+3. Lietuvos
+
+nacionalinio radijo ir televizijos laidose ne rečiau kaip du kartus per savaitę
+
+ir ne mažiau kaip po 5 minutes nuo 18 valandos iki 22 valandų 30 minučių turi
+
+būti transliuojamos laidos, propaguojančios blaivų gyvenimo būdą, ir
+
+informuojančios apie alkoholio vartojimo daromą žalą.
 
 53 straipsnis. Įstatymo 13 straipsnio
 
