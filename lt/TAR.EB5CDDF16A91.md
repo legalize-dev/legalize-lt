@@ -4,7 +4,7 @@ identifier: "TAR.EB5CDDF16A91"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-07-15"
-last_updated: "1993-07-21"
+last_updated: "1993-12-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EB5CDDF16A91"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 1993-07-21 iki 1993-12-17
+Suvestinė redakcija nuo 1993-12-18 iki 1996-07-25
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 140-0; Žin. 1992, Nr.22-639, i. k. 0921010ISTA00I-2747
 
@@ -179,6 +179,14 @@ Nr. I-210, 1993-07-13, Žin., 1993, Nr. 30-679 (1993-07-21), i. k. 0931010ISTA00
 
 Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-336, 1993-12-15, Žin., 1993, Nr. 70-1310 (1993-12-18), i. k. 0931010ISTA000I-336
+
+Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo
+
 81 straipsnis. Asmens prevencinis sulaikymas
 
 Remdamasis operatyvinės veiklos priemonėmis gautais duomenimis, kurie įtvirtinti atitinkamuose dokumentuose, reglamentuojančiuose operatyvinę veiklą, ir turėdamas pakankamą pagrindą manyti, kad asmuo gali padaryti pavojingą veiką, numatytą Lietuvos Respublikos baudžiamojo kodekso 2271 arba 2272 straipsniuose, miesto (rajono) policijos komisaras arba jį pavaduojantis policijos pareigūnas motyvuotu nutarimu, sankcionuotu Lietuvos Respublikos generalinio prokuroro arba jo pavaduotojų ar miestų, rajonų vyriausiųjų prokurorų, turi teisę tokį asmenį sulaikyti. Miestų, rajonų vyriausieji prokurorai nedelsiant informuoja Lietuvos Respublikos generalinį prokurorą apie sankcijas, kurias jie davę šio įstatymo numatytoms priemonėms taikyti.
@@ -192,4 +200,10 @@ Sulaikytasis asmuo turi teisę tiek pats, tiek per savo gynėją sulaikymui duot
 Jeigu pasibaigus prevencinio sulaikymo terminui asmuo nepatraukiamas baudžiamojon atsakomybėn, jis turi būti nedelsiant paleistas.
 
 Jeigu asmens sulaikymu buvo užkirstas kelias nusikaltimui, tai sankciją davusiojo ar Lietuvos Respublikos generalinio prokuroro sprendimu sulaikytasis asmuo gali būti paleidžiamas ir nepasibaigus sulaikymo terminui, kuriam buvo duota sankcija.
+
+TAR pastaba. Įsigaliojus (1993-12-18) įstatymui Nr. I-336, visi asmenys, kurie yra sulaikyti pagal 1993 m. liepos 13 d. Lietuvos Respublikos laikinajame įstatyme „Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo“ nustatytą tvarką, per septynias dienas turi būti paleisti arba jų sulaikymo pagrįstumo klausimas turi būti pradėtas spręsti Lietuvos Respublikos baudžiamojo proceso kodekso 501 straipsnyje nustatyta tvarka, o 1993 m. liepos 13 d. Lietuvos Respublikos laikinasis įstatymas „Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo“ (Žin., 1993, Nr. 30-679) netenka galios (bet ne vėliau kaip 1994 m. sausio 1 d.).
+
+Straipsnio pakeitimai:
+
+Nr. I-336, 1993-12-15, Žin., 1993, Nr. 70-1310 (1993-12-18), i. k. 0931010ISTA000I-336
 
