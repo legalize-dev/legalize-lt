@@ -4,7 +4,7 @@ identifier: "TAR.EDDCB615126E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-13"
-last_updated: "2003-07-04"
+last_updated: "2004-03-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 department: "Lietuvos Respublikos Seimas"
@@ -670,15 +670,37 @@ Nr.98-2710 (98.11.11)
 
 14 straipsnis. Pensijos skyrimas iš naujo
 
-Jei pareigūnui arba kariui, kuriam
+Jei pareigūnui arba kariui, kuriam paskirta
 
-paskirta pareigūnų ir karių valstybinė invalidumo pensija, po jos paskyrimo
+pareigūnų ir karių valstybinė invalidumo pensija, po jos paskyrimo pakeičiama
 
-pakeičiama invalidumo grupė, pensija turi būti paskirta iš naujo pagal naujus
+invalidumo grupė, pensija turi būti paskirta iš naujo pagal naujus duomenis nuo
 
-duomenis nuo jų pasikeitimo dienos, bet ne daugiau kaip už 12 mėnesių iki
+jų pasikeitimo dienos, bet ne daugiau kaip už 12 mėnesių iki dokumentų pensijai
 
-dokumentų pensijai perskaičiuoti gavimo atitinkamoje institucijoje dienos.
+perskaičiuoti gavimo atitinkamoje institucijoje dienos.
+
+14
+
+straipsnis papildomas 2 dalimi nuo 2005 m. sausio 1 d.:
+
+Pareigūnui ar kariui, kuriam paskirta
+
+pareigūnų ir karių valstybinė pensija, po jos paskyrimo ištarnavusiam ne mažiau
+
+kaip dvejus metus, pareigūnų ir karių valstybinė pensija jo prašymu gali būti
+
+paskirta iš naujo pagal naujus duomenis. Jeigu naujai paskirta pensija yra
+
+mažesnė, mokama anksčiau paskirta pensija.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-2073,
+
+2004-03-23, Žin., 2004, Nr. 50-1635 (2004-04-06)
 
 15 straipsnis. Pensijos mokėjimas
 
@@ -726,9 +748,11 @@ priimtiems tarnauti vidaus reikalų, valstybės saugumo, krašto apsaugos,
 
 prokuratūros sistemos, Specialiųjų tyrimų tarnybos, Kalėjimų departamento, jam
 
-pavaldžių įstaigų bei valstybės įmonių pareigūnais ir kariais, tarnybos laikui pensijai
+pavaldžių įstaigų bei valstybės įmonių pareigūnais ir kariais, tarnybos laikui
 
-skirti prilyginami šie laikotarpiai, buvę iki šio įstatymo įsigaliojimo:
+pensijai skirti prilyginami šie laikotarpiai, buvę iki šio įstatymo
+
+įsigaliojimo:
 
 1)
 
@@ -794,15 +818,15 @@ specialiosiose vidurinėse, aukštesniosiose Lietuvos Respublikos policijos
 
 (vidaus reikalų), saugumo bei karo mokyklose laikas. Mokymosi analogiškose kitų
 
-valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai
+valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai skirti
 
-skirti Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką
+Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką pensijai
 
-pensijai skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose,
+skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose, aukštesniosiose ir
 
-aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę
+specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę asmenys iš karto
 
-asmenys iš karto paskirti pareigūnais.
+paskirti pareigūnais.
 
 Į Valstybės saugumo departamento sistemos
 
@@ -934,9 +958,9 @@ Nr. VIII-1654,
 
 00.05.02, Žin., 2000, Nr.41-1167 (00.05.19)
 
-Nr. VIII-1851,
+Nr. VIII-1851, 00.07.13,
 
-00.07.13, Žin., 2000, Nr.64-1923 (00.07.31)
+Žin., 2000, Nr.64-1923 (00.07.31)
 
 Nr. VIII-2008,
 
@@ -1168,6 +1192,32 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1 IR 6 STRAIPSNIŲ PAKEITI
 
 ĮSTATYMAS
 
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2073,
+
+2004-03-23, Žin., 2004, Nr. 50-1635 (2004-04-06)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 14 STRAIPSNIO PAPILDYMO
+
+ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
@@ -1214,11 +1264,13 @@ KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREI
 
 KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO 4 DALIAI
 
-*** Pabaiga ***
+***
+
+Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-07-10)
+Aušrinė Trapinskienė (2004-04-07)
 
 autrap@lrs.lt
 
