@@ -4,7 +4,7 @@ identifier: "TAR.C677663D2202"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2004-04-29"
+last_updated: "2004-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 department: "Lietuvos Respublikos Seimas"
@@ -1349,6 +1349,32 @@ lėšomis (tam tikslui paimta iš kredito įstaigos paskola), tai iš pajamų ga
 
 būti atimta per mokestinį laikotarpį grąžinta šios paskolos dalis.
 
+*5) už vieną per trejus metus įsigytą asmeninio kompiuterio vienetą su
+
+programine įranga ir (arba) interneto prieigos įrengimą kartu su šiai prieigai
+
+reikalingos įrangos įsigijimo išlaidomis, neviršijančios 4000 Lt. Jeigu
+
+kompiuterio vienetas su programine įranga įsigyjamas pagal sutartį, kurioje
+
+nustatyta, kad nuosavybės teisė į daiktą pereina pirkėjui apmokėjus visą
+
+sutartyje nustatytą kainą, tai iš pajamų gali būti atimama faktiškai apmokėta
+
+kainos dalis (išskyrus palūkanas), tačiau visa atimama suma negali viršyti 4000
+
+Lt (įskaitant interneto prieigos įrengimo ir šiai prieigai reikalingos įrangos
+
+įsigijimo išlaidas) per sutarties galiojimo laikotarpį. Asmeninio kompiuterio
+
+vienetą sudarančių elementų sąrašą tvirtina Lietuvos Respublikos Vyriausybė
+
+arba jos įgaliota institucija.
+
+*Pastaba: 5 punkto nuostatos taikomos
+
+deklaruojant gyventojų pajamų mokestį už 2004, 2005 ir 2006 metus.
+
 *2. Tais
 
 atvejais, kai ne vyresnis kaip 26 metų studijuojantis nuolatinis Lietuvos
@@ -1371,9 +1397,9 @@ ir deklaruojant pajamas už 2003 ir vėlesnius metus.
 
 Bendra atimamų išlaidų, nurodytų šio straipsnio 1 dalyje, suma negali viršyti
 
-25 procentų sumos, apskaičiuotos iš visų mokestiniu laikotarpiu gautų pajamų atėmus
+25 procentų sumos, apskaičiuotos iš visų mokestiniu laikotarpiu gautų pajamų
 
-šio Įstatymo 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas.
+atėmus šio Įstatymo 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas.
 
 4.
 
@@ -1430,6 +1456,12 @@ Nr. IX-2070,
 Nr. IX-2202,
 
 2004-04-29, Žin., 2004, Nr. 73-2535 (2004-04-30)
+
+Nr.
+
+IX-2272,
+
+2004-06-15, Žin., 2004, Nr. 98-3628 (2004-06-24)
 
 V
 
@@ -3345,15 +3377,37 @@ direktyvą 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo
 
 įgyvendinančių Europos Sąjungos valstybių narių teisės aktų įsigaliojimo data.
 
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2272,
+
+2004-06-15, Žin., 2004, Nr. 98-3628 (2004-06-24)
+
+GYVENTOJŲ
+
+PAJAMŲ MOKESČIO ĮSTATYMO 21 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Gyventojų
+
+pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto nuostatos taikomos
+
+deklaruojant gyventojų pajamų mokestį už 2004, 2005 ir 2006 metus.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-05-14)
+Aušra Bodin (2004-06-25)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
 
