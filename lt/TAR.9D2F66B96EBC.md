@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2000-11-03"
+last_updated: "2002-11-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
+
+Suvestinė redakcija nuo 2002-11-22 iki 2003-10-07
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
 LIETUVOS RESPUBLIKOS
 
@@ -66,7 +70,11 @@ BENDROSIOS NUOSTATOS
 
 14. Orlaivio įgula – orlaivio skrydžio įgula, orlaivio palydovai ir operatoriai.
 
-15. Orlaivio naudotojas – fizinis ar juridinis asmuo arba įmonė, neturinti juridinio asmens teisių, kurie pagal sutartį ar kitu teisėtu pagrindu savo vardu naudoja orlaivį.
+15. Orlaivio naudotojas – fizinis ar juridinis asmuo, kuris pagal sutartį ar kitu teisėtu pagrindu savo vardu naudoja orlaivį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 16. Orlaivio vadas – orlaivio savininko arba naudotojo paskirtas pilotas, atsakingas už orlaivio eksploatavimą ir saugą viso skrydžio laiku.
 
@@ -146,7 +154,11 @@ Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vy
 
 8 straipsnis. Civilinės aviacijos objektų nuosavybė
 
-1. Civiliniai orlaiviai, oro uostai ir aerodromai nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybei ir fiziniams asmenims, taip pat Lietuvos Respublikoje registruotiems juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių.
+1. Civiliniai orlaiviai, oro uostai ir aerodromai nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybei, fiziniams asmenims ir Lietuvos Respublikoje registruotiems juridiniams asmenims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 2. Skrydžių valdymo sistemos įrenginiai ir tarptautinių oro uostų infrastruktūra yra valstybės nuosavybė.
 
@@ -214,13 +226,17 @@ ORO ERDVĖ, SKRYDŽIŲ VALDYMAS IR KITOS PASLAUGOS
 
 2. CAA turi teisę visada patikrinti, ar minėti įrenginiai atitinka keliamus reikalavimus ir kaip teikiamos oro eismo paslaugos, o jos įgalioti atstovai turi teisę nekliudomi patekti į oro eismo paslaugų teikėjo administracines ir gamybines patalpas, susijusias su oro eismo paslaugų teikimu, apžiūrėti įrenginius, taip pat susipažinti su visa su tuo susijusia informacija ir dokumentais.
 
-17 straipsnis. Oro navigacijos informacijos paslaugos
+17 straipsnis. Oro navigacijos informacija
 
-1. Oro navigacijos informacijos paslaugas teikia CAA arba jos įgaliotas paslaugų teikėjas.
+1. Oro navigacijos informaciją renka, kaupia, skelbia ir platina CAA arba jos įgaliotas juridinis asmuo.
 
-2. Oro navigacijos informacijos paslaugų teikimo tvarką ir sąlygas nustato CAA.
+2. Oro navigacijos informacijos rūšis, mastus bei jos skelbimo tvarką ir sąlygas nustato CAA.
 
-3. Juridiniai ir fiziniai asmenys, taip pat įmonės, neturinčios juridinio asmens teisių, turintys oro navigacijos informaciją, privalo ją nemokamai teikti CAA arba jos įgaliotam paslaugų teikėjui.
+3. Juridiniai ir fiziniai asmenys, turintys oro navigacijos informaciją, privalo ją nemokamai teikti CAA arba jos įgaliotam juridiniam asmeniui.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 18 straipsnis. Meteorologinė informacija
 
@@ -250,7 +266,11 @@ Lietuvos Respublikos civilinių orlaivių registro tvarkytojas yra CAA.
 
 1. Orlaivis registruojamas Lietuvos Respublikos civilinių orlaivių registre, jeigu:
 
-1) orlaivio savininkas yra Lietuvos Respublikos pilietis, juridinis asmuo, įmonė, neturinti juridinio asmens teisių, registruoti Lietuvos Respublikoje, Lietuvos valstybė arba savivaldybė;
+1) orlaivio savininkas yra Lietuvos Respublikos pilietis arba juridinis asmuo, registruotas Lietuvos Respublikoje, Lietuvos valstybė arba savivaldybė;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 2) orlaivis turi tinkamumo skraidyti pažymėjimą;
 
@@ -274,7 +294,11 @@ Orlaivis gali būti laikinai įrašytas į Lietuvos Respublikos civilinių orlai
 
 25 straipsnis. Pranešimas apie kitoje valstybėje registruotų orlaivių naudojimą
 
-Tais atvejais, kai kitoje valstybėje registruotu orlaiviu pagal susitarimą naudojasi Lietuvos Respublikos pilietis, juridinis asmuo, įmonė, neturinti juridinio asmens teisių, registruoti Lietuvos Respublikoje, Lietuvos valstybė arba savivaldybė, jie privalo pranešti CAA orlaivio duomenis ir pateikti tokio susitarimo kopiją. CAA turi sudaryti Lietuvos Respublikoje naudojamų užsienio valstybių orlaivių ir jų naudotojų sąrašą. Apie visus pateiktos informacijos pasikeitimus orlaivio naudotojas turi nedelsdamas pranešti CAA.
+Tais atvejais, kai kitoje valstybėje registruotu orlaiviu pagal susitarimą naudojasi Lietuvos Respublikos pilietis arba juridinis asmuo, registruotas Lietuvos Respublikoje, Lietuvos valstybė arba savivaldybė, jie privalo pranešti CAA orlaivio duomenis ir pateikti tokio susitarimo kopiją. CAA turi sudaryti Lietuvos Respublikoje naudojamų užsienio valstybių orlaivių ir jų naudotojų sąrašą. Apie visus pateiktos informacijos pasikeitimus orlaivio naudotojas turi nedelsdamas pranešti CAA.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 26 straipsnis. Civilinio orlaivio registravimo panaikinimas
 
@@ -434,7 +458,11 @@ CIVILINĖS AVIACIJOS SPECIALISTAI
 
 45 straipsnis. Specialistų rengimas
 
-Specialistus rengti, perkvalifikuoti ir kelti jų kvalifikaciją gali mokymo įstaigos, turinčios CAA patvirtintą programą.
+Specialistus rengti, perkvalifikuoti ir kelti jų kvalifikaciją gali CAA akredituotos mokymo įstaigos. Mokymo įstaigų akreditavimo sąlygas bei tvarką nustato susisiekimo ministras.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 46 straipsnis. Specialisto licencija
 
@@ -460,7 +488,11 @@ CAA turi teisę visada patikrinti asmens, turinčio licenciją ar licencijos pri
 
 3) specialisto sveikatos būklė neatitinka nustatytų reikalavimų;
 
-4) specialistas nuteistas už padarytą tyčinį nusikaltimą;
+4) specialistas nuteistas už padarytą tyčinę nusikalstamą veiką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 5) specialisto kvalifikacija neatitinka nustatytų reikalavimų.
 
@@ -522,9 +554,17 @@ Orlaivio vadas turi teisę:
 
 3) prireikus kreiptis pagalbos į keleivius;
 
-4) imtis priemonių teisės pažeidimui ar nusikaltimui tirti, jeigu jis padarytas orlaivyje;
+4) imtis priemonių teisės pažeidimui ar nusikalstamai veikai tirti, jeigu jie padaryti orlaivyje;
 
-5) sulaikyti nusikaltimo padarymu įtariamą asmenį ir, orlaiviui nutūpus, perduoti jį atitinkamoms teisėsaugos institucijoms;
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
+
+5) sulaikyti nusikalstamos veikos padarymu įtariamą asmenį ir, orlaiviui nutūpus, perduoti jį atitinkamoms teisėsaugos institucijoms;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 6) priimti galutinį sprendimą kilti išskrendant, nutraukti skrydį ir grįžti į išskridimo aerodromą ar tūpti atsarginiame aerodrome ir ekstremaliomis sąlygomis tūpti priverstinai.
 
@@ -674,11 +714,11 @@ ORO SUSISIEKIMAS
 
 2. Keleivių, krovinių, bagažo vežimo tarifus bei jų taikymo tvarką nustato vežėjas, jeigu Lietuvos Respublikos tarptautinės sutartys nenumato kitaip.
 
-69 straipsnis. Užsakomieji vežimai
+69 straipsnis. Neteko galios nuo 2002-11-22
 
-1. Keleivių, krovinių, bagažo ir pašto vežimo pagal užsakomųjų skrydžių (čarterio) sutartį sąlygas bei tvarką nustato susisiekimo ministras.
+Straipsnio naikinimas:
 
-2. Keleivių, krovinių, bagažo ir pašto vežimo pagal užsakomųjų skrydžių (čarterio) sutartį tarifai nustatomi šios sutarties šalių susitarimu.
+Nr. IX-1175, 2002-11-05, Žin. 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 70 straipsnis. Kompensavimas už atsisakymą vežti
 
@@ -694,11 +734,15 @@ BAIGIAMOSIOS NUOSTATOS
 
 72 straipsnis. Rinkliavos
 
-1. Fiziniai ir juridiniai asmenys, taip pat įmonės, neturinčios juridinio asmens teisių, valstybės orlaivių naudotojai už oro navigacijos paslaugas Lietuvos Respublikos oro erdvėje ir už naudojimąsi oro uostais moka paslaugos teikėjams šias rinkliavas:
+1. Fiziniai ir juridiniai asmenys, valstybės orlaivių naudotojai už oro navigacijos paslaugas Lietuvos Respublikos oro erdvėje ir už naudojimąsi oro uostais moka paslaugų teikėjams šias rinkliavas:
 
 1) už oro navigacijos paslaugas – oro navigacijos ir oro uosto navigacijos;
 
 2) už naudojimąsi oro uostais – orlaivio tūpimo, išskrendančio keleivio, orlaivio stovėjimo, orlaivio saugumo ir orlaivio palydos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 2. Maksimalius rinkliavų dydžius, mokėjimo ir naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
@@ -728,211 +772,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-141 straipsnis. Oro navigacijos paslaugos
+Pakeitimai:
 
-1. Oro navigacijos paslaugas gali teikti tik juridiniai asmenys, turintys atitinkamą oro navigacijos paslaugų teikėjo pažymėjimą.
+1.
 
-2. Oro navigacijos paslaugų teikėjai, norintys gauti oro navigacijos paslaugų arba atskiros rūšies oro navigacijos paslaugos teikėjo pažymėjimą, turi atitikti 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 549/2004, nustatančio bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas), 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas), 2005 m. gruodžio 20 d. Europos Komisijos reglamento (EB) Nr. 2096/2005, nustatančio bendruosius oro navigacijos paslaugų teikimo reikalavimus, įgyvendinimo taisyklių, kurias Europos Komisija priima įgyvendindama Pagrindų reglamento 3 straipsnyje nurodytas priemones, taip pat kitų teisės aktų reikalavimus.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Oro navigacijos paslaugų teikėjų pažymėjimų išdavimo tvarką nustato, juos išduoda arba kitose Europos Bendrijos valstybėse išduotą pažymėjimą pripažįsta CAA.
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
-4. CAA turi teisę visada patikrinti, ar oro navigacijos paslaugų teikėjai atitinka keliamus reikalavimus ir kaip teikiamos oro eismo paslaugos, o jos įgalioti atstovai, laikydamiesi įslaptintos informacijos apsaugai taikomų reikalavimų, turi teisę nekliudomi patekti į oro eismo paslaugų teikėjo administracines ir gamybines patalpas, susijusias su oro eismo paslaugų teikimu, apžiūrėti įrenginius, taip pat susipažinti su visa reikalinga informacija ir dokumentais.
-
-Papildyta straipsniu:
-
-Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
-
-671 straipsnis. Oro susisiekimo vykdymas ir skrydžių teisių paskyrimas
-
-1. Oro susisiekimas tarp Lietuvos Respublikos ir Europos Bendrijos bei Europos ekonominės erdvės susitarimo valstybių vykdomas vadovaujantis 1992 m. liepos 23 d. Tarybos reglamento (EEB) Nr. 2408/92 dėl Bendrijos oro vežėjų patekimo į Bendrijos vidaus oro maršrutus ir atitinkamų tarptautinių sutarčių nuostatomis tiek, kiek jos neprieštarauja minėtam reglamentui.
-
-2. Oro susisiekimas tarp Lietuvos Respublikos ir Europos Bendrijos bei Europos ekonominei erdvei nepriklausančių valstybių vykdomas pagal atitinkamos tarptautinės sutarties nuostatas, gavus paskyrimą. Kol tokios sutarties nėra, leidimą oro susisiekimui vykdyti išduoda Susisiekimo ministerija arba jos įgaliota CAA.
-
-3. Vežėjas, siekiantis gauti paskyrimą vykdyti oro susisiekimą tarp Lietuvos Respublikos ir Europos Bendrijai bei Europos ekonominei erdvei nepriklausančių valstybių, paraišką paskyrimui gauti teikia Susisiekimo ministerijai.
-
-4. Paraiškų paskyrimui gauti nagrinėjimo, skrydžių teisių suteikimo, paskirstymo, atšaukimo ir konsultacijų su suinteresuotomis šalimis tvarką nustato susisiekimo ministras.
-
-TAR pastaba. 4 dalis įsigalioja 2007-08-30.
-
-5. Reguliaraus ir nereguliaraus oro susisiekimo, nekomercinių skrydžių ir užsienio šalių valstybės orlaivių skrydžių leidimų išdavimo ir atšaukimo sąlygas bei tvarką nustato Vyriausybė ar jos įgaliota institucija.
-
-Papildyta straipsniu:
-
-Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
-
-Dešimtasis skirsnis
-
-ORO SUSISIEKIMAS
-
-701 straipsnis. Neįgalių asmenų ir ribotos judėsenos asmenų teisės keliaujant oro transportu
-
-1. Neįgalių asmenų ir ribotos judėsenos asmenų, keliaujančių oro transportu, teises, apsaugos ir pagalbos jiems teikimo taisykles nustato 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru.
-
-2. CAA kontroliuoja, kaip laikomasi šio straipsnio 1 dalyje nurodyto reglamento nuostatų skrydžiuose iš Lietuvos Respublikos teritorijoje esančių oro uostų ir į juos.
-
-Papildyta straipsniu:
-
-Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
-
-711 straipsnis. Antžeminių paslaugų teikimas
-
-1. Antžeminių paslaugų teikimo Lietuvos Respublikos tarptautiniuose oro uostuose tvarką ir sąlygas nustato susisiekimo ministras.
-
-2. CAA prižiūri ir kontroliuoja, kaip teikiamos antžeminės paslaugos Lietuvos Respublikos tarptautiniuose oro uostuose.
-
-Papildyta straipsniu:
-
-Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
-
-101 straipsnis. Kompensavimas už specialiųjų žemės naudojimo sąlygų taikymą ir triukšmo mažinimo priemonių įgyvendinimą aerodromo triukšmo apsauginėse zonose
-
-1. Specialiųjų žemės naudojimo sąlygų įstatyme nurodytos kompensacijos dėl specialiųjų žemės naudojimo sąlygų taikymo nustatytose aerodromo triukšmo apsauginėse zonose nemokamos, kai aerodromo triukšmo apsauginės zonos nustatytos aplink esamus civilinius aerodromus, esamus ir naujus karinius aerodromus. Šios kompensacijos mokamos, kai aerodromo triukšmo apsauginės zonos nustatytos aplink naujus civilinius aerodromus ir (ar) kai, atsižvelgus į perspektyvinį triukšmo žemėlapį, aplink esamą civilinį aerodromą nustatyta aerodromo triukšmo apsauginė zona teisės aktų nustatyta tvarka padidinama, kompensacijas mokant įvertinus specialiąsias žemės naudojimo sąlygas, taikomas padidėjusioje nustatytos aerodromo triukšmo apsauginės zonos dalyje.
-
-2. Aplink civilinį aerodromą nustatytoje aerodromo triukšmo apsauginėje zonoje civilinį aerodromą valdanti įmonė pagal Taisykles kompensuoja triukšmo mažinimo priemonių įgyvendinimo išlaidas įgyvendinus triukšmo mažinimo priemones esamuose gyvenamosios, poilsio, gydymo paskirties pastatuose (patalpose), bendrojo ugdymo, profesinių, aukštųjų mokyklų, vaikų darželių, lopšelių mokslo paskirties pastatuose (patalpose), skirtuose švietimo reikmėms, ir kituose pastatuose (patalpose), skirtuose neformaliajam švietimui). Triukšmo mažinimo priemonių įgyvendinimo išlaidos iš rinkliavų už naudojimąsi oro uostais kompensuojamos šioje dalyje nurodytų pastatų (patalpų) savininkams ir (ar) patikėtiniams. Triukšmo mažinimo priemonių įgyvendinimo tame pačiame pastate (patalpoje) išlaidos kompensuojamos tik vieną kartą.
-
-3. Vyriausybė nustato konkrečias triukšmo mažinimo priemones, maksimalius kompensacijų už jas dydžius, atsižvelgdama į triukšmo lygį, pastatų (patalpų) dydį ir (ar) paskirtį.
-
-4. Prašymai dėl kompensacijų už triukšmo mažinimo priemonių įgyvendinimą pateikiami ne vėliau kaip per trejus metus nuo perspektyvinių triukšmo žemėlapių viešo paskelbimo dienos ir kompensacijos pareiškėjams išmokamos ne ilgiau kaip per trejus metus nuo prašymų patvirtinimo dienos. Prašymų nagrinėjimo tvarka ir kompensacijų mokėjimo sąlygos nustatomos Taisyklėse. Ginčus dėl šiame straipsnyje nurodytų kompensacijų Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka sprendžia teismas.
-
-Papildyta straipsniu:
-
-Nr. XIII-2170, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09977
-
-411 straipsnis. Asmens reputacijos patikrinimas
-
-1. Standartinio asmens reputacijos patikrinimo išvada negali būti teigiama, jeigu yra nustatyta bent viena iš aplinkybių, nurodytų šio straipsnio 2 dalies 1–4 ir 9 punktuose.
-
-2. Išsamaus asmens reputacijos patikrinimo išvada negali būti teigiama, jeigu yra nustatyta bent viena iš šių aplinkybių:
-
-1) asmuo buvo nuteistas už neatsargų, nesunkų ar apysunkį nusikaltimą ir teistumas nėra išnykęs ar panaikintas;
-
-2) asmuo buvo nuteistas už sunkų ar labai sunkų nusikaltimą ir (arba) už teroristinius ir (ar) su teroristine veikla susijusius nusikaltimus, neatsižvelgiant į tai, ar teistumas yra išnykęs ar panaikintas;
-
-3) asmuo buvo nuteistas už baudžiamąjį nusižengimą ir yra neatlikęs paskirtos bausmės (išskyrus atvejus, kai asmuo atleistas nuo bausmės atlikimo);
-
-4) per pastaruosius 2 metus iki asmens kreipimosi gauti šio įstatymo 41 straipsnio 7 dalyje nurodytus pažymėjimus ar paskyrimo eiti pareigas, nurodytas šio įstatymo 41 straipsnio 1 dalyje, ar iki šio įstatymo 41 straipsnio 3 dalyje nurodytų asmenų pradinio saugumo mokymų, kuriuose pateikiama dėl svarbos saugumui viešai neprieinama informacija, pradžios asmeniui buvo skirtos bent dvi administracinės nuobaudos už aviacijos saugumo reikalavimų pažeidimus;
-
-5) asmuo, turėdamas Lietuvos Respublikai priešiškų interesų, bendradarbiauja ar yra bendradarbiavęs, palaiko ar palaikė ryšius su užsienio valstybės karine, žvalgybos ar saugumo tarnyba arba su asmeniu, bendradarbiaujančiu ar palaikančiu ryšius su užsienio valstybės karine, žvalgybos ar saugumo tarnyba;
-
-6) asmuo dalyvauja ar dalyvavo teroristinės organizacijos ar teroristinės grupės veikloje arba palaiko ar palaikė ryšius su asmeniu, priklausančiu teroristinei organizacijai ar grupei;
-
-7) asmuo dalyvauja ar per pastaruosius 5 metus dalyvavo neregistruoto judėjimo veikloje, jeigu toks dalyvavimas sudaro pagrindą manyti, kad asmuo, kuriam būtinas išsamus asmens reputacijos patikrinimas, netinkamas konkrečiai funkcijai atlikti;
-
-8) šio straipsnio 3 dalies 3 punkte nurodytos institucijos neturi galimybės gauti ar negauna iš atitinkamų užsienio valstybių institucijų patikimos informacijos apie užsienio valstybės pilietį arba asmenį be pilietybės, taip pat Lietuvos Respublikos pilietį, kurio nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, dėl šios dalies 5, 6 ir 7 punktuose nurodytų aplinkybių arba iš atitinkamų institucijų gauta informacija kelia pagrįstų abejonių dėl šios informacijos patikimumo;
-
-9) asmuo atsisako ar negali pateikti šio straipsnio 7 ir 9 dalyse nurodytų dokumentų ir duomenų arba nesutinka būti tikrinamas, arba tikrinimo metu sąmoningai pateikia neteisingus duomenis.
-
-3. Informaciją dėl šio straipsnio 2 dalies 1–8 punktuose nurodytų aplinkybių teikia:
-
-1) LTSA – dėl aplinkybių, nurodytų šio straipsnio 2 dalies 4 punkte;
-
-2) Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl aplinkybių, nurodytų šio straipsnio 2 dalies 1, 2 ir 3 punktuose;
-
-3) Lietuvos Respublikos valstybės saugumo departamentas ir Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos – dėl aplinkybių, nurodytų šio straipsnio 2 dalies 5–8 punktuose.
-
-4. Tais atvejais, kai atliekamas standartinis asmens reputacijos patikrinimas, šio straipsnio 3 dalies 1 ir 2 punktuose nurodytos institucijos informaciją dėl šio straipsnio 2 dalies 1–4 punktuose nurodytų aplinkybių buvimo pateikia oro uostą valdančiai įmonei, vežėjui, aviacijos saugumo priemones taikančiam subjektui ar asmeniui pagal jų prašymus ne vėliau kaip per 10 darbo dienų nuo rašytinio prašymo pateikti nurodytą informaciją gavimo dienos.
-
-5. Vežėjai ir aviacijos saugumo priemones taikantys subjektai, atlikdami išsamų asmens reputacijos patikrinimą pagal šio įstatymo 41 straipsnio 3 dalį, taip pat oro navigacijos paslaugas teikiančios įmonės ir Agentūra, atlikdamos išsamų asmens reputacijos patikrinimą pagal šio įstatymo 41 straipsnio 7 dalį, kreipiasi į LTSA su prašymu pateikti pažymą, ar vertinant įdarbinamą asmenį yra aplinkybių, nurodytų šio straipsnio 2 dalies 1–8 punktuose. Tais atvejais, jeigu dėl šio straipsnio 2 dalies 1–4 punktuose nurodytų aplinkybių buvimo į šio straipsnio 3 dalies 1 ir 2 punktuose nurodytas institucijas kreipiasi patys asmenys, LTSA pateikiamas prašymas pateikti pažymą tik dėl šio straipsnio 2 dalies 5–8 punktuose nurodytų aplinkybių buvimo.
-
-6. Oro uostą valdanti įmonė, atlikdama išsamų asmens reputacijos patikrinimą pagal šio įstatymo 41 straipsnio 3 ir 7 dalis, į šio straipsnio 3 dalyje nurodytas institucijas su prašymu kreipiasi tiesiogiai. Tais atvejais, jeigu dėl šio straipsnio 2 dalies 1–4 punktuose nurodytų aplinkybių buvimo į šio straipsnio 3 dalies 1 ir 2 punktuose nurodytas institucijas kreipiasi patys asmenys, LTSA pateikiamas prašymas pateikti pažymą tik dėl šio straipsnio 2 dalies 5–8 punktuose nurodytų aplinkybių buvimo. Šio straipsnio 3 dalyje nurodytos institucijos pateikia informaciją dėl šio straipsnio 2 dalies 1–8 punktuose nurodytų aplinkybių ne vėliau kaip per 20 darbo dienų nuo oro uostą valdančios įmonės rašytinio prašymo pateikti informaciją apie tikrinamą asmenį gavimo dienos. Šis terminas institucijos motyvuotu sprendimu gali būti pratęstas ne ilgiau kaip iki 30 darbo dienų.
-
-7. Šio straipsnio 4, 5 ir 6 dalyse minimuose prašymuose turi būti nurodytas asmens vardas, pavardė ir asmens kodas ar kitokie asmens identifikavimo duomenys (gimimo data, asmens tapatybės dokumento identifikacinis numeris), jeigu asmuo neturi asmens kodo, taip pat dėl kurių šio straipsnio 2 dalyje nurodytų aplinkybių buvimo ar nebuvimo prašoma pateikti pažymą.
-
-8. Gavusi šio straipsnio 5 dalyje nurodytą prašymą LTSA per 3 darbo dienas nuo prašymo gavimo ir atsižvelgdama į prašyme nurodytų tikrintinų aplinkybių apimtį kreipiasi atitinkamai į šio straipsnio 3 dalies 2 ir 3 punktuose nurodytas institucijas dėl informacijos, ar yra aplinkybių, nurodytų šio straipsnio 2 dalies 1, 2, 3 ir (ar) 5–8 punktuose. Patikrinusios informaciją apie tikrinamą asmenį dėl aplinkybių pagal šio straipsnio 2 dalies 1, 2, 3 ir (ar) 5–8 punktus, šio straipsnio 3 dalies 2 ir (ar) 3 punktuose nurodytos institucijos pateikia ją ne vėliau kaip per 20 darbo dienų nuo LTSA rašytinio kreipimosi pateikti informaciją apie tikrinamą asmenį gavimo dienos. Šis terminas šio straipsnio 3 dalies 2 ir 3 punktuose nurodytų institucijų motyvuotu sprendimu gali būti pratęstas ne ilgiau kaip iki 30 darbo dienų. Gavusi iš šio straipsnio 3 dalies 2 ir (ar) 3 punktuose nurodytų institucijų informaciją, taip pat patikrinusi, ar nėra aplinkybių, nurodytų šio straipsnio 2 dalies 4 punkte, LTSA per 3 darbo dienas nuo paskutinės informacijos iš šio straipsnio 3 dalies 2 ir (ar) 3 punktuose nurodytų institucijų gavimo dienos pateikia pažymą, kurioje nurodoma, ar yra apie tikrinamą asmenį šio straipsnio 2 dalies 1–8 punktuose nurodytų aplinkybių, ar jų nėra.
-
-9. Tais atvejais, kai tikrinami asmenys yra užsienio valstybės piliečiai arba asmenys be pilietybės, taip pat Lietuvos Respublikos piliečiai, kurių nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje arba kurie per pastaruosius 5 metus ilgiau kaip 6 mėnesius gyveno užsienyje, informaciją dėl šio straipsnio 2 dalies 1, 2 ir 3 punktuose nurodytų aplinkybių ir ją patvirtinančius dokumentus, išduotus asmens pilietybės šalies arba asmens be pilietybės, taip pat Lietuvos Respublikos piliečio, kurio nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, atveju – asmens gyvenamosios šalies kompetentingų institucijų, pateikia patys tikrinami asmenys juos į pareigas skiriančiam subjektui.
-
-10. Išsamus asmens reputacijos patikrinimas atliekamas pakartotinai ne vėliau kaip po 12 mėnesių nuo paskutinės šio straipsnio 3 dalyje nurodytų institucijų informacijos dėl šio straipsnio 2 dalyje nurodytų aplinkybių gavimo dienos, kai dėl šios informacijos kreipiasi oro uostą valdanti įmonė, arba nuo šio straipsnio 8 dalyje nurodytos LTSA pažymos dėl asmens reputacijos pateikimo dienos. Asmuo gali būti papildomai tikrinamas ir nepasibaigus vienų metų terminui, jeigu oro uostą valdanti įmonė, oro navigacijos paslaugas teikiančios įmonės, vežėjai, aviacijos saugumo priemones taikantys subjektai ar Agentūra gauna duomenų, kad galėjo atsirasti šio straipsnio 2 dalies 1–9 punktuose nurodytų aplinkybių.
-
-11. Standartinis asmens reputacijos patikrinimas atliekamas pakartotinai ne vėliau kaip po 3 metų nuo paskutinės informacijos dėl šio straipsnio 2 dalyje nurodytų aplinkybių gavimo iš šio straipsnio 3 dalies 1 ir 2 punktuose nurodytų institucijų dienos. Asmuo gali būti papildomai tikrinamas ir nepasibaigus 3 metų terminui, jeigu oro uostą valdanti įmonė, vežėjas ar aviacijos saugumo priemones taikantis subjektas gauna duomenų, kad galėjo atsirasti šio straipsnio 2 dalies 1–4 punktuose nurodytų aplinkybių.
-
-12. Oro uostą valdanti įmonė, oro navigacijos paslaugas teikiančios įmonės, vežėjai, aviacijos saugumo priemones taikantys subjektai ir Agentūra šiame straipsnyje nustatyta tvarka pateiktą informaciją gali naudoti tik priimdami sprendimą dėl asmens, pretenduojančio eiti ar einančio pareigas arba norinčio gauti pažymėjimą, tinkamumo ir šiame straipsnyje nustatyta tvarka gautos informacijos apie asmenį negali perduoti ar kitaip atskleisti tretiesiems asmenims, išskyrus teisės aktuose nustatytus atvejus.
-
-13. Oro uostą valdanti įmonė, oro navigacijos paslaugas teikiančios įmonės, vežėjai, aviacijos saugumo priemones taikantys subjektai, Agentūra ir institucijos bei įstaigos privalo užtikrinti, kad tikrinamo asmens duomenys, gauti šiame straipsnyje nustatyta tvarka, būtų tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
-
-14. Šiame straipsnyje nurodyti dokumentai saugomi Lietuvos Respublikos dokumentų ir archyvų įstatymo ir Lietuvos vyriausiojo archyvaro nustatyta tvarka.
-
-Papildyta straipsniu:
-
-Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
-
-SEPTINTASIS skirsnis
-
-ORLAIVIŲ AVARIJOS IR INCIDENTAI
-
-191 straipsnis. Bendros informacijos paslaugos ir sistemos „U-space“ paslaugos
-
-1. Lietuvos Respublikoje nustatytose sistemos „U-space“ oro erdvėse bendras informacijos paslaugas teikia sertifikuotas oro navigacijos paslaugų teikėjas, Lietuvos Respublikoje teikiantis oro navigacijos informacijos ir oro erdvės valdymo paslaugas, turintis Reglamente (ES) 2021/664 nurodytą vienintelio bendrų informacijos paslaugų teikėjo pažymėjimą.
-
-2. Lietuvos Respublikoje nustatytose sistemos „U-space“ oro erdvėse sistemos „U-space“ paslaugas teikia sistemos „U-space“ paslaugų teikėjai, turintys sistemos „U-space“ paslaugų teikėjų pažymėjimus, nurodytus Reglamente (ES) 2021/664.
-
-3. Bendrų informacijos paslaugų teikimo sąlygas ir tvarką ir sistemos „U-space“ paslaugų teikimo sąlygas ir tvarką nustato LTSA, kiek jų nereglamentuoja Reglamentas (ES) 2021/664.
-
-Papildyta straipsniu:
-
-Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
-
-412 straipsnis. Teisė vykdyti aviacijos saugumo mokymus
-
-1. Teisę vykdyti aviacijos saugumo mokymus turi:
-
-1) aviacijos saugumo instruktoriai;
-
-2) nuotolinius mokymus vykdantys ūkio subjektai.
-
-2. Aviacijos saugumo instruktoriaus ar nuotolinį mokymą vykdančio ūkio subjekto statusas suteikia teisę vykdyti aviacijos saugumo mokymus pagal atitinkamus susisiekimo ministro tvirtinamoje nacionalinėje civilinės aviacijos saugumo mokymo programoje (toliau – Mokymo programa) nurodytus modulius atitinkamų kategorijų darbuotojams. Aviacijos saugumo instruktorius ar nuotolinį mokymą vykdantis ūkio subjektas atestuojamas kas 5 metus Mokymo programoje nustatyta tvarka.
-
-3. Aviacijos saugumo instruktoriaus statusas suteikiamas, jeigu:
-
-1) asmuo atitinka Reglamento (ES) 2015/1998 priedo 11.5 punkte nustatytus reikalavimus;
-
-2) asmens dėstomų mokymų medžiagos turinys atitinka civilinės aviacijos saugumą reglamentuojančių teisės aktų nuostatas. Pasikeitus aviacijos saugumą reglamentuojančių teisės aktų reikalavimams, mokymų medžiaga turi būti atitinkamai atnaujinta Mokymo programoje nustatyta tvarka ir terminais.
-
-4. Nuotolinį mokymą vykdančio ūkio subjekto statusas suteikiamas, jeigu:
-
-1) ūkio subjektas paskiria už mokymus atsakingą asmenį ir šis asmuo atitinka Reglamento (ES) 2015/1998 priedo 11.5 punkte nustatytus reikalavimus;
-
-2) nuotolinių mokymų medžiagos turinys atitinka civilinės aviacijos saugumą reglamentuojančių teisės aktų nuostatas. Pasikeitus aviacijos saugumą reglamentuojančių teisės aktų reikalavimams, mokymų medžiaga turi būti atitinkamai atnaujinta Mokymo programoje nustatyta tvarka ir terminais.
-
-5. Agentūra suteikia aviacijos saugumo instruktoriaus ar nuotolinį mokymą vykdančio ūkio subjekto statusą, sustabdo, panaikina jo galiojimą, sustabdo ar panaikina teisę vykdyti aviacijos saugumo mokymus pagal tam tikrus modulius, taip pat suteikia teisę aviacijos saugumo instruktoriui ar nuotolinį mokymą vykdančiam ūkio subjektui mokyti pagal papildomus ar kitus modulius vadovaudamasi Reglamento (ES) 2015/1998 priedo 11.5 punkte ir šiame straipsnyje nustatytomis sąlygomis ir Mokymo programoje nustatyta tvarka.
-
-6. Mokymų formos ir turinio reikalavimus nustato Agentūra.
-
-7. Jeigu nustatoma, kad aviacijos saugumo instruktorius ar nuotolinį mokymą vykdantis ūkio subjektas neatitinka sąlygų, nurodytų šio straipsnio 3 dalies 1 punkte ar 4 dalies 1 punkte, Agentūra per 3 darbo dienas nuo aplinkybių paaiškėjimo dienos priima sprendimą sustabdyti atitinkamo statuso galiojimą ir nustato 20 darbo dienų terminą šiems trūkumams pašalinti. Aviacijos saugumo instruktoriaus ar nuotolinį mokymą vykdančio ūkio subjekto prašymu šis terminas gali būti pratęstas iki 10 darbo dienų. Jeigu nustatoma, kad aviacijos saugumo instruktorius ar nuotolinį mokymą vykdantis ūkio subjektas neatitinka sąlygų, nurodytų šio straipsnio 3 dalies 2 punkte ar 4 dalies 2 punkte, Agentūra per 3 darbo dienas nuo aplinkybių paaiškėjimo dienos priima sprendimą sustabdyti teisę vykdyti aviacijos saugumo mokymus pagal tam tikrus modulius. Aviacijos saugumo instruktorius ar nuotolinį mokymą vykdantis ūkio subjektas per 3 darbo dienas nuo sprendimo priėmimo dienos apie tai raštu informuojamas, taip pat įspėjamas apie galimą atitinkamo statuso ar teisės vykdyti aviacijos saugumo mokymus pagal tam tikrus modulius galiojimo panaikinimą ir jam suteikiamas Mokymo programoje nustatytas terminas trūkumams pašalinti. Pašalinus trūkumus, atitinkamo statuso ar teisės vykdyti aviacijos saugumo mokymus pagal tam tikrus modulius galiojimo sustabdymas panaikinamas ne vėliau kaip kitą darbo dieną po dokumentų ar duomenų, patvirtinančių, kad trūkumai pašalinti, pateikimo Agentūrai dienos.
-
-8. Aviacijos saugumo instruktoriaus ar nuotolinį mokymą vykdančio ūkio subjekto statuso galiojimas panaikinamas per vieną darbo dieną nuo šioje dalyje nurodytų aplinkybių paaiškėjimo dienos, jeigu paaiškėja bent viena iš jų:
-
-1) aviacijos saugumo instruktorius ar nuotolinį mokymą vykdantis ūkio subjektas, kurio statuso galiojimas sustabdytas šio straipsnio 7 dalyje nurodytais pagrindais, per nustatytą terminą nepašalina trūkumų;
-
-2) to prašo aviacijos saugumo instruktorius ar nuotolinį mokymą vykdantis ūkio subjektas;
-
-3) aviacijos saugumo instruktorius miršta;
-
-4) nuotolinį mokymą vykdantis ūkio subjektas pasibaigia likvidavimo arba reorganizavimo būdu, jam yra iškeliama bankroto byla arba vykdomas bankroto procesas ne teismo tvarka;
-
-5) paaiškėja, kad atitinkamam statusui gauti buvo pateikti tikrovės neatitinkantys duomenys ir (arba) dokumentai;
-
-6) nustatoma, kad aviacijos saugumo instruktorius arba nuotolinį mokymą vykdantis ūkio subjektas vykdė mokymus pagal modulius, neturėdamas tam teisės;
-
-7) aviacijos saugumo instruktorius yra pripažįstamas neveiksniu ar ribotai veiksniu tam tikroje srityje.
-
-9. Aviacijos saugumo instruktoriaus ar nuotolinį mokymą vykdančio ūkio subjekto teisės vykdyti aviacijos saugumo mokymus pagal tam tikrus modulius galiojimas panaikinamas per vieną darbo dieną nuo šioje dalyje nurodytų aplinkybių paaiškėjimo dienos, jeigu paaiškėja bent viena iš jų:
-
-1) aviacijos saugumo instruktorius ar nuotolinį mokymą vykdantis ūkio subjektas, kurio statuso galiojimas sustabdytas šio straipsnio 7 dalyje nustatyta tvarka, per nustatytą terminą nepašalina trūkumų;
-
-2) to prašo aviacijos saugumo instruktorius ar nuotolinį mokymą vykdantis ūkio subjektas.
-
-10. Aviacijos saugumo instruktoriui arba nuotolinį mokymą vykdančiam ūkio subjektui, kurio statuso galiojimas panaikintas šio straipsnio 8 dalies 1, 5 ir 6 punktuose nurodytais pagrindais, aviacijos saugumo instruktoriaus ar nuotolinį mokymą vykdančio ūkio subjekto statusas gali būti suteiktas ne anksčiau kaip praėjus 6 mėnesiams nuo sprendimo panaikinti aviacijos saugumo instruktoriaus ar nuotolinį mokymą vykdančio ūkio subjekto statusą priėmimo dienos.
-
-11. Apie aviacijos saugumo instruktoriaus ar nuotolinį mokymą vykdančio ūkio subjekto statuso ar teisės vykdyti aviacijos saugumo mokymus pagal tam tikrus modulius galiojimo panaikinimą Agentūra per 3 darbo dienas nuo sprendimo priėmimo dienos raštu praneša aviacijos saugumo instruktoriui arba nuotolinį mokymą vykdančiam ūkio subjektui ir nurodo sprendimo priėmimo priežastis ir apskundimo tvarką.
-
-12. Agentūra, siekdama paviešinti informaciją, kad subjektai, kuriems reikalingi aviacijos saugumo mokymai, turėtų patikimą informacijos šaltinį, savo interneto svetainėje viešai skelbia Agentūros patvirtintų aviacijos saugumo instruktorių bei nuotolinius mokymus vykdančių ūkio subjektų sąrašą ir nurodo aviacijos saugumo instruktoriaus vardą, pavardę bei elektroninio pašto adresą; nuotolinį mokymą vykdančio ūkio subjekto pavadinimą, už mokymus atsakingo asmens vardą ir pavardę bei elektroninio pašto adresą; mokymo modulius, pagal kuriuos aviacijos saugumo instruktorius ar nuotolinį mokymą vykdantis ūkio subjektas turi teisę vykdyti aviacijos saugumo mokymus, ir statuso galiojimo terminą. Duomenys apie aviacijos saugumo instruktorių ar nuotolinį mokymą vykdantį ūkio subjektą Agentūros interneto svetainėje paskelbiami ne vėliau kaip kitą darbo dieną nuo šiame straipsnyje nurodytų sprendimų, susijusių su aviacijos saugumo instruktoriaus ar nuotolinį mokymą vykdančio ūkio subjekto statusu, priėmimo dienos. Informacija apie asmenį skelbiama tol, kol jam suteiktas aviacijos saugumo instruktoriaus statuso galiojimas nėra panaikintas.
-
-Papildyta straipsniu:
-
-Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
-
-SEPTINTASIS skirsnis
-
-ORLAIVIŲ AVARIJOS IR INCIDENTAI
+Lietuvos Respublikos aviacijos įstatymo 2, 8, 17, 21, 25, 45, 48, 52, 72 straipsnių pakeitimo ir 69 straipsnio pripažinimo netekusiu galios įstatymas
 
