@@ -4,7 +4,7 @@ identifier: "TAR.C640C19DFD44"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-09-26"
-last_updated: "1997-12-24"
+last_updated: "1999-07-09"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C640C19DFD44"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos
 
-Suvestinė redakcija nuo 1997-12-24 iki 1999-07-08
+Įstatymas netenka galios 2000-05-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1605, 2000-03-30, Žin., 2000, Nr. 32-890 (2000-04-19), i. k. 1001010ISTAIII-1605
+
+Lietuvos Respublikos transporto lengvatų įstatymas
+
+Suvestinė redakcija nuo 1999-07-09 iki 2000-04-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 87-1954, i. k. 0951010ISTA00I-1047
 
@@ -53,7 +61,11 @@ Teisė važiuoti keleiviniu transportu nemokamai suteikiama:
 
 2) II grupės invalidams – vietinio susisiekimo (miesto) keleiviniu transportu, pateikus invalido pažymėjimą;
 
-3) asmenims, nukentėjusiems dėl 1991 m. sausio 11–13 dienomis vykdytos agresijos bei su ja susijusių įvykių, ir žuvusiųjų per šią agresiją šeimų nariams, buvusiems politiniams kaliniams ir tremtiniams – vietinio susisiekimo autobusais ir troleibusais, vietinio susisiekimo paprastaisiais traukiniais sėdimuose vagonuose, pateikus specialų pažymėjimą;
+3) asmenims, nukentėjusiems dėl 1991 m. sausio 11–13 dienomis vykdytos agresijos bei su ja susijusių įvykių, ir žuvusiųjų per šią agresiją šeimų nariams, taip pat pasipriešinimo 1940–1990 metų okupacijoms (rezistencijos) dalyviams – kariams savanoriams ir laisvės kovų dalyviams, buvusiems politiniams kaliniams ir tremtiniams, kuriems įstatymų nustatyta tvarka pripažinti šie statusai arba yra atkurtos jų visos pilietinės teisės, – vietinio susisiekimo autobusais ir troleibusais, vietinio susisiekimo paprastaisiais traukiniais sėdimuose vagonuose, pateikus atitinkamą statusą liudijantį arba specialų (važiavimo lengvatų) pažymėjimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-1274, 1999-06-29, Žin., 1999, Nr. 60-1958 (1999-07-09), i. k. 0991010ISTAIII-1274
 
 4) asmenims, sukakusiems 70 metų – vietinio susisiekimo (miesto) keleiviniu transportu, pateikus pasą arba pensininko pažymėjimą;
 
@@ -196,4 +208,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-578, 1997-12-09, Žin., 1997, Nr. 117-3014 (1997-12-24), i. k. 0971010ISTAVIII-578
 
 Lietuvos Respublikos įstatymo "Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos" 5, 6, 7 straipsnių pakeitimo ir papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1274, 1999-06-29, Žin., 1999, Nr. 60-1958 (1999-07-09), i. k. 0991010ISTAIII-1274
+
+Lietuvos Respublikos įstatymo "Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos" 3 straipsnio papildymo įstatymas
 
