@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "1998-04-07"
+last_updated: "1999-02-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 Redagavo:
 
-Ramunė Lūžaitė (1998.05.06)
+Ramunė Lūžaitė (1999.02.25)
 
 Įstatymas
 
@@ -66,19 +66,33 @@ GALIOS ĮSTATYMAS
 
 3.
 
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-692, 98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
+
+LIETUVOS
+
+RESPUBLIKOS VALSTYBĖS KONTROLĖS ĮSTATYMO 2, 10, 11, 35, 37, 42 STRAIPSNIŲ
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+4.
+
 Lietuvos Respublikos
 
 Seimas, Įstatymas
 
-Nr. VIII-692,
+Nr. VIII-1075,
 
-98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
+99.02.11, Žin., 1999, Nr.19-516 (99.02.24)
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-VALSTYBĖS KONTROLĖS ĮSTATYMO 2, 10, 11, 35, 37, 42 STRAIPSNIŲ PAKEITIMO IR
-
-PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS VALSTYBĖS KONTROLĖS ĮSTATYMO 35 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -292,7 +306,7 @@ finansinę veiklą;
 
 8)
 
-Vyriausybės  kanceliarijos, ministerijų,  Vyriausybės įstaigų ir kitų iš
+Vyriausybės  kanceliarijos, ministerijų,  Vyriausybės įstaigų ir kitų iš
 
 valstybės biudžeto finansuojamų įstaigų ūkinę ir finansinę veiklą;
 
@@ -308,9 +322,9 @@ valstybės įmonių veiklą;
 
 11)
 
-visų rūšių įmonių, įstaigų ir organizacijų, kuriose valstybė turi ne mažiau
+visų rūšių įmonių, įstaigų ir organizacijų, kuriose valstybė turi ne mažiau kaip
 
-kaip pusę balsų suteikiančių akcijų, veiklą;
+pusę balsų suteikiančių akcijų, veiklą;
 
 12)
 
@@ -492,9 +506,9 @@ Asmenys,
 
 kurie per paskutiniuosius trejus metus yra buvę Vyriausybės nariais  ar šalies
 
-politinės partijos centrinės organizacijos išrinktais vadovais, negali būti kandidatais
+politinės partijos centrinės organizacijos išrinktais vadovais, negali būti
 
-į valstybės kontrolieriaus pareigas.
+kandidatais į valstybės kontrolieriaus pareigas.
 
 16
 
@@ -814,7 +828,9 @@ saugoti  visas man  patikėtas  valstybės  ir tarnybines paslaptis;
 
 prisiekiu
 
-savo  elgesiu visur  ir visada saugoti gerą Valstybės kontrolės pareigūno vardą.
+savo  elgesiu visur  ir visada saugoti gerą Valstybės kontrolės pareigūno
+
+vardą.
 
 Tepadeda
 
@@ -914,7 +930,9 @@ Valstybės kontrolėje.
 
 33
 
-straipsnis. Valstybės kontrolės pareigūnų atleidimo iš tarnybos pagrindai
+straipsnis. Valstybės kontrolės pareigūnų atleidimo iš tarnybos
+
+pagrindai
 
 Valstybės
 
@@ -930,7 +948,7 @@ kai jam sukanka 65 metai;
 
 3)
 
-jei  atestavimo metu  pripažįstamas netinkamu  eiti pareigas;
+jei  atestavimo metu  pripažįstamas netinkamu  eiti pareigas;
 
 4)
 
@@ -986,9 +1004,7 @@ kontrolierius yra valstybės kontrolės tarybos pirmininkas.
 
 Valstybės
 
-kontrolės tarybos funkcijas bei darbo tvarką nustato valstybės
-
-kontrolierius.
+kontrolės tarybos funkcijas bei darbo tvarką nustato valstybės kontrolierius.
 
 IV. VALSTYBĖS KONTROLĖS PAREIGŪNŲ TEISĖS IR
 
@@ -996,9 +1012,9 @@ PAREIGOS
 
 35
 
-straipsnis. Valstybės kontrolieriaus, jo pavaduotojų ir kontrolės skyrių
+straipsnis. Valstybės kontrolieriaus, jo pavaduotojų ir kontrolės
 
-viršininkų teisės
+skyrių viršininkų teisės
 
 Valstybės
 
@@ -1092,13 +1108,13 @@ skirtus, gautus arba panaudotus pažeidžiant įstatymus ar kitus teisės aktus,
 
 taip pat sumokėti ekonomines sankcijas;
 
-9) iš tikrinamų ūkio subjektų ne ginčo tvarka išieškoti į valstybės ir
+9) iš tikrinamų ūkio subjektų ne ginčo tvarka išieškoti į valstybės ir savivaldybių
 
-savivaldybių biudžetus bei fondus lėšas, dotacijas, biudžetinius
+biudžetus bei fondus lėšas, dotacijas, biudžetinius asignavimus,
 
-asignavimus, skirtus, gautus arba panaudotus pažeidžiant įstatymus ar kitus
+skirtus, gautus arba panaudotus pažeidžiant įstatymus ar kitus teisės aktus,
 
-teisės aktus, taip pat nesumokėtas ekonomines sankcijas;
+taip pat nesumokėtas ekonomines sankcijas;
 
 10)
 
@@ -1128,7 +1144,7 @@ pasitelkti specialistų tikrinimams atlikti;
 
 15)
 
-įstatymo  nustatyta tvarka  skirti  administracines nuobaudas.
+įstatymo  nustatyta tvarka  skirti  administracines nuobaudas;
 
 16) įpareigoti mokesčių administratorius
 
@@ -1136,7 +1152,13 @@ Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka
 
 išieškoti Valstybės kontrolės tikrinimų metu nustatytus mokesčių mokėtojų
 
-nesumokėtus mokesčius ir ekonomines sankcijas.
+nesumokėtus mokesčius ir ekonomines sankcijas;
+
+17) įpareigoti patikrintų ūkio subjektų
+
+valstybės akcijų turėtojus įstatymo nustatyta tvarka ištaisyti įstatinio
+
+kapitalo formavimo ir didinimo metu padarytus pažeidimus.
 
 Straipsnio
 
@@ -1150,11 +1172,15 @@ Nr. VIII-692,
 
 98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
 
+Nr. VIII-1075,
+
+99.02.11, Žin., 1999, Nr.19-516 (99.02.24)
+
 36
 
-straipsnis. Valstybės kontrolieriaus, jo pavaduotojų ir kontrolės skyrių
+straipsnis. Valstybės kontrolieriaus, jo pavaduotojų ir kontrolės
 
-viršininkų sprendimai
+skyrių viršininkų sprendimai
 
 Valstybės
 
@@ -1166,9 +1192,9 @@ institucijų bei ūkio subjektų ūkinės ir finansinės veiklos pažeidimų.
 
 37
 
-straipsnis. Valstybės kontrolieriaus, jo pavaduotojų ir kontrolės skyrių
+straipsnis. Valstybės kontrolieriaus, jo pavaduotojų ir kontrolės
 
-viršininkų sprendimų apskundimo tvarka
+skyrių viršininkų sprendimų apskundimo tvarka
 
 Kontrolės
 
@@ -1196,9 +1222,9 @@ Nr. VIII-692,
 
 38
 
-straipsnis. Administracinė atsakomybė asmenų, trukdančių Valstybės kontrolei
+straipsnis. Administracinė atsakomybė asmenų, trukdančių Valstybės
 
-vykdyti savo pareigas
+kontrolei vykdyti savo pareigas
 
 Asmenys,
 
@@ -1258,11 +1284,11 @@ inventorizacijos  ir  kiti  faktiniai tikrinimai;
 
 7)
 
-gauti iš Lietuvos banko, komercinių bankų ir kitų kredito įstaigų, taip pat
+gauti iš Lietuvos banko, komercinių bankų ir kitų kredito įstaigų, taip pat valstybės
 
-valstybės ir savivaldybių institucijų bei ūkio subjektų duomenis, pažymas ir
+ir savivaldybių institucijų bei ūkio subjektų duomenis, pažymas ir dokumentų
 
-dokumentų kopijas, susijusias su tikrinimu;
+kopijas, susijusias su tikrinimu;
 
 8)
 
@@ -2540,19 +2566,19 @@ turi būti atliekami taip, kad kuo mažiau būtų trikdoma tikrinamųjų veikla.
 
 44
 
-straipsnis. Darbuotojų, kurių veiklą tikrina Valstybės kontrolė, teisės ir
+straipsnis. Darbuotojų, kurių veiklą tikrina Valstybės kontrolė,
 
-pareigos
+teisės ir pareigos
 
 Darbuotojai,
 
-kurių  veiklą tikrina  Valstybės kontrolė, privalo  dalyvauti,  kai  tikrinamos
+kurių  veiklą tikrina  Valstybės kontrolė, privalo  dalyvauti,  kai
 
-jų  žinioje  esančios materialinės vertybės, vertybiniai popieriai ir pinigai;
+tikrinamos  jų  žinioje  esančios materialinės vertybės, vertybiniai popieriai
 
-turi teisę susipažinti su dokumentais, kuriuose fiksuojami jų darbo trūkumai,
+ir pinigai; turi teisę susipažinti su dokumentais, kuriuose fiksuojami jų darbo
 
-bei teikti paaiškinimus.
+trūkumai, bei teikti paaiškinimus.
 
 Jeigu
 
@@ -2660,9 +2686,11 @@ ligos, komandiruotės arba atostogavo).
 
 49
 
-straipsnis. Valstybės kontrolieriaus, jo pavaduotojų ir kontrolės skyrių
+straipsnis. Valstybės kontrolieriaus, jo pavaduotojų ir kontrolės
 
-viršininkų sprendimų dėl piniginių nuoskaitų skyrimo vykdymas
+skyrių viršininkų sprendimų dėl piniginių nuoskaitų
+
+skyrimo vykdymas
 
 Valstybės
 
@@ -2708,9 +2736,9 @@ atitinkamai valstybinei mokesčių inspekcijai.
 
 Jeigu
 
-piniginės nuoskaitos arba nesumokėtos jos dalies neįmanoma išskaityti iš tų
+piniginės nuoskaitos arba nesumokėtos jos dalies neįmanoma išskaityti iš tų asmenų,
 
-asmenų, kuriems paskirta nuoskaita, darbo užmokesčio, išieškojimo dokumentai
+kuriems paskirta nuoskaita, darbo užmokesčio, išieškojimo dokumentai
 
 persiunčiami teismui, kad reikalinga suma būtų išieškoma iš nurodyto asmens
 
@@ -2760,9 +2788,7 @@ kontrolės pareigūnų socialines garantijas nustato Lietuvos Respublikos
 
 įstatymai.
 
-IX. VALSTYBĖS KONTROLĖS FINANSAVIMAS IR
-
-MATERIALINIS
+IX. VALSTYBĖS KONTROLĖS FINANSAVIMAS IR MATERIALINIS
 
 TECHNINIS APRŪPINIMAS
 
