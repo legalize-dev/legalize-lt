@@ -4,7 +4,7 @@ identifier: "TAR.EE245B47423C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-25"
-last_updated: "1997-01-01"
+last_updated: "1997-07-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ entry_into_force_conditions: "Šio įstatymo 3, 5, 10 straipsniai, 13 straipsnio
 Šio įstatymo kiti straipsniai ar jų dalys įsigalioja nuo 1997 m. sausio 1 d."
 ---
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
+
+Suvestinė redakcija nuo 1997-07-11 iki 2000-07-25
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
 
 LIETUVOS RESPUBLIKOS ŽMONIŲ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS ĮSTATYMAS
 
@@ -153,7 +157,11 @@ UŽKREČIAMŲJŲ LIGŲ EPIDEMIOLOGINĖ PRIEŽIŪRA
 
 1) savivaldybėse: savivaldybės gydytojas – savivaldybės tarybai ir atitinkamam teritoriniam visuomenės sveikatos centrui;
 
-2) apskrityse: teritorinis visuomenės sveikatos centras – atitinkamos apskrities valdytojui ir Tarnybai;
+2) apskrityse: teritorinis visuomenės sveikatos centras – atitinkamos apskrities viršininkui ir Tarnybai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
 
 3) Krašto apsaugos ministerijos, Vidaus reikalų ministerijos medicinos tarnybos – Krašto apsaugos ministerijos ir Vidaus reikalų ministerijos vadovybei ir Tarnybai .
 
@@ -341,7 +349,11 @@ Ypatingųjų epideminių situacijų nustatymo pagrindus reglamentuoja šis įsta
 
 1) visoje Lietuvos teritorijoje ar keliose apskrityse – Vyriausybė sveikatos apsaugos ministro teikimu;
 
-2) vienos apskrities teritorijoje – Vyriausybė bendru apskrities valdytojo ir sveikatos apsaugos ministro teikimu.
+2) vienos apskrities teritorijoje – Vyriausybė bendru apskrities viršininko ir sveikatos apsaugos ministro teikimu.
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
 
 4. Teritorijų skelbimo užkrėstomis, jo atšaukimo, užkrečiamųjų ligų profilaktikos ir kontrolės priemonių šiose teritorijose taikymo tvarką nustato Vyriausybė.
 
@@ -355,11 +367,19 @@ Ypatingųjų epideminių situacijų nustatymo pagrindus reglamentuoja šis įsta
 
 1) visoje Lietuvos teritorijoje ar keliose apskrityse – Vyriausybė sveikatos apsaugos ministro teikimu;
 
-2) vienos apskrities teritorijoje – Vyriausybė bendru apskrities valdytojo ir sveikatos apsaugos ministro teikimu.
+2) vienos apskrities teritorijoje – Vyriausybė bendru apskrities viršininko ir sveikatos apsaugos ministro teikimu.
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
 
 3. Teritorijų karantino skelbimo ir šio skelbimo atšaukimo tvarką nustato Vyriausybė.
 
-4. Teritorijų karantino režimo priemonių įgyvendinimą turi organizuoti atitinkamų savivaldybių, kurių teritorijose skelbiamas karantinas, tarybos ir merai, apskričių, kurioms priskiriamos šios savivaldybės, valdytojai.
+4. Teritorijų karantino režimo priemonių įgyvendinimą turi organizuoti atitinkamų savivaldybių, kurių teritorijose skelbiamas karantinas, tarybos ir merai, apskričių, kurioms priskiriamos šios savivaldybės, viršininkai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
 
 5. Teritorijų, kurioms yra taikomas karantino režimas, ribų apsaugą ir viešosios tvarkos palaikymą šiose teritorijose pagal kompetenciją organizuoja Vidaus reikalų ministerija ir Krašto apsaugos ministerija.
 
@@ -395,13 +415,21 @@ Pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolė
 
 23 straipsnis. Pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės strategijos įgyvendinimas
 
-Vyriausybės institucijos, apskričių valdytojai ir savivaldybių merai, vadovaudamiesi Vyriausybės patvirtintu pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių planu, privalo pagal kompetenciją planuoti pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės organizacines, teisines ir ekonomines priemones bei užtikrinti jų įgyvendinimą. Šių priemonių rengimą ir įgyvendinimą koordinuoja Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės.
+Vyriausybės institucijos, apskričių viršininkai ir savivaldybių merai, vadovaudamiesi Vyriausybės patvirtintu pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių planu, privalo pagal kompetenciją planuoti pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės organizacines, teisines ir ekonomines priemones bei užtikrinti jų įgyvendinimą. Šių priemonių rengimą ir įgyvendinimą koordinuoja Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
 
 24 straipsnis. Pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės, apskričių ir savivaldybių tikslinės programos
 
 1. Užkrečiamųjų ligų profilaktikos ir kontrolės valstybinių privalomųjų programų, kurias rengti ir įgyvendinti yra būtina norint apsaugoti Lietuvos Respublikos teritoriją ir gyventojus nuo pavojingų ir ypač pavojingų užkrečiamųjų ligų įvežimo ir išplitimo, sąrašas, jų rengimo bei įgyvendinimo terminai, rengėjai nustatomi užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių plane.
 
-2. Apskričių valdytojai ir savivaldybių merai, vadovaudamiesi Vyriausybės patvirtintu užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių planu bei atsižvelgdami į Lietuvos Respublikos teritorijos administracinių vienetų higieninę ir gyventojų sveikatos būklę, privalo pagal kompetenciją rengti apskričių ir savivaldybių tikslines pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės programas bei užtikrinti jų įgyvendinimą.
+2. Apskričių viršininkai ir savivaldybių merai, vadovaudamiesi Vyriausybės patvirtintu užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių planu bei atsižvelgdami į Lietuvos Respublikos teritorijos administracinių vienetų higieninę ir gyventojų sveikatos būklę, privalo pagal kompetenciją rengti apskričių ir savivaldybių tikslines pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės programas bei užtikrinti jų įgyvendinimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
 
 ANTRASIS SKIRSNIS
 
@@ -411,7 +439,11 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 1. Užkrečiamųjų ligų profilaktikos ir kontrolės valstybinį valdymą Lietuvos Respublikoje vykdo Vyriausybė, Sveikatos apsaugos ministerija, Tarnyba, Valstybinė veterinarijos tarnyba, kitos įstatymų įgaliotos valstybės institucijos.
 
-2. Užkrečiamųjų ligų profilaktikos ir kontrolės valdymą apskrityse šio ir kitų įstatymų bei teisės aktų nustatyta tvarka vykdo apskričių valdytojai.
+2. Užkrečiamųjų ligų profilaktikos ir kontrolės valdymą apskrityse šio ir kitų įstatymų bei teisės aktų nustatyta tvarka vykdo apskričių viršininkai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
 
 3. Užkrečiamųjų ligų profilaktikos ir kontrolės valdymą savivaldybėse šio ir kitų įstatymų bei teisės aktų nustatyta tvarka vykdo pagal kompetenciją savivaldybių merai ir savivaldybių gydytojai.
 
@@ -447,7 +479,7 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 8) vykdo kitas šio ir kitų įstatymų nustatytas funkcijas užkrečiamųjų ligų profilaktikos ir kontrolės srityse.
 
-8. Apskrities valdytojas, įgyvendindamas savo teritorijoje užkrečiamųjų ligų profilaktikos ir kontrolės valstybės politikos programą:
+8. Apskrities viršininkas, įgyvendindamas savo teritorijoje užkrečiamųjų ligų profilaktikos ir kontrolės valstybės politikos programą:
 
 1) organizuoja užkrečiamųjų ligų profilaktikos ir kontrolės valstybinių privalomųjų ir tikslinių programų įgyvendinimą;
 
@@ -456,6 +488,10 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 3) organizuoja kontrolę, kaip apskrities savivaldybių merai pagal šio ir kitų įstatymų nustatytą kompetenciją įgyvendina užkrečiamųjų ligų kontrolę ir profilaktiką;
 
 4) vykdo kitas šio ir kitų įstatymų nustatytas funkcijas užkrečiamųjų ligų profilaktikos ir kontrolės srityse.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
 
 26 straipsnis. Valstybės nustatyta savivaldos institucijų kompetencija valdyti užkrečiamųjų ligų profilaktiką ir kontrolę
 
@@ -652,76 +688,4 @@ Lietuvos Respublikos vyriausiasis valstybinis gydytojas higienistas, jo pavaduot
 42 straipsnis. Įstatymo įsigaliojimas
 
 1. Šio įstatymo 3, 5, 10 straipsniai, 13 straipsnio 3 dalis, 14 straipsnio 5 dalis, 15, 16 straipsniai, 18 straipsnio 1 ir 5 dalys, 20, 21, 22, 23, 24, 38, 39 straipsniai įsigalioja Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo įgyvendinimo įstatymo nustatyta tvarka nuo 1998 m. sausio 1 d.
-
-43 straipsnis. Pasiūlymas Vyriausybei
-
-Vyriausybė iki 2002 m. liepos 1 d. patvirtina šį Įstatymą įgyvendinančius teisės aktus.
-
-44 straipsnis. Įstatymo įsigaliojimas
-
-Įstatymas, išskyrus 43 straipsnį, įsigalioja 2002 m. liepos 1 d.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
-
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 5, 20, 21, 23, 24, 25 straipsnių pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1801, 2000-07-04, Žin., 2000, Nr. 61-1812 (2000-07-26), i. k. 1001010ISTAIII-1801
-
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 8, 13, 14, 17, 18, 21, 26, 27, 41 straipsnių pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-2012, 2000-10-10, Žin., 2000, Nr. 92-2864 (2000-10-31), i. k. 1001010ISTAIII-2012
-
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 27 straipsnio pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-649, 2001-12-13, Žin., 2001, Nr. 112-4069 (2001-12-30), i. k. 1011010ISTA00IX-649
-
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo pakeitimo įstatymas
-
-321 straipsnis. Sveikatos priežiūros įstaigų darbuotojų, įskaitant gydytojus rezidentus, karantino metu organizuojančių ir (ar) teikiančių sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdančių epidemijų profilaktikos priemones ypač pavojingų ligų židiniuose, darbo užmokesčio didinimas ir su tuo susijusių sveikatos priežiūros įstaigų išlaidų apmokėjimas
-
-1. Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros įstaigų darbuotojams nuo karantino visoje Lietuvos Respublikos teritorijoje, kelių savivaldybių ar vienos savivaldybės teritorijoje paskelbimo mėnesio pradžios iki karantino galiojimo mėnesio pabaigos, kai jie organizuoja ir (ar) teikia sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdo epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, pareiginės algos (darbo užmokesčio) pastoviosios dalies koeficientai arba mėnesinė alga (priklausomai nuo įstaigoje taikomos darbuotojų darbo apmokėjimo sistemos) didinami nuo 60 iki 100 procentų, atsižvelgiant į konkretaus sveikatos priežiūros įstaigos darbuotojo atliekamų funkcijų pobūdį, sudėtingumą ir atsakomybės lygį, darbo krūvį ir veiklos mastą, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
-
-TAR pastaba. Sveikatos priežiūros įstaigų darbuotojams darbo užmokestis perskaičiuojamas ir mokamas pagal 321 straipsnio 1 dalies nuostatas karantino Lietuvos Respublikos teritorijoje laikotarpiu nuo Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo dienos.
-
-2. Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl paslaugų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, patirtos išlaidos, susijusios su šių įstaigų darbuotojų, organizuojančių ir (ar) teikiančių sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdančių epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, darbo užmokesčio padidinimu pagal šio straipsnio 1 dalį, apmokamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis sveikatos apsaugos ministro nustatyta tvarka. Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros įstaigų, nesudariusių sutarčių su teritorinėmis ligonių kasomis dėl paslaugų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, patirtos išlaidos, susijusios su šių įstaigų darbuotojų, organizuojančių ir (ar) teikiančių sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdančių epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, darbo užmokesčio padidinimu pagal šio straipsnio 1 dalį, apmokamos valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka.
-
-3. Lietuvos nacionalinei sveikatos sistemai nepriklausančių sveikatos priežiūros įstaigų patirtos išlaidos, susijusios su sveikatos priežiūros įstaigų darbuotojų, organizuojančių ir (ar) teikiančių sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdančių epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, darbo užmokesčio padidinimu, nustatomos ir apmokamos iš valstybės biudžeto lėšų su šiomis įstaigomis Vyriausybės nustatyta tvarka sudaromose sutartyse numatytomis sąlygomis.
-
-Papildyta straipsniu:
-
-Nr. XIII-2845, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07510
-
-181 straipsnis. Privalomos asmeninės apsaugos priemonės, būtinos visuomenės sveikatos saugos ir higienos sąlygos
-
-Kai iškyla pavojingų ir ypač pavojingų užkrečiamųjų ligų išplitimo pavojus, sveikatos apsaugos ministras Nacionalinio visuomenės sveikatos centro teikimu turi teisę nustatyti privalomus asmeninės apsaugos priemonių naudojimo reikalavimus, taip pat būtinas visuomenės sveikatos saugos ir higienos sąlygas.
-
-Papildyta straipsniu:
-
-Nr. XIV-1654, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26613
-
-KETVIRTASIS SKIRSNIS
-
-UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS SPECIALIOSIOS PRIEMONĖS
 
