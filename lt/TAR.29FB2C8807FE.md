@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2000-04-05"
+last_updated: "2000-04-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2000-04-05 iki 2000-04-25
+Suvestinė redakcija nuo 2000-04-26 iki 2000-05-23
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -392,7 +392,11 @@ VI SKIRSNIS
 
 19 straipsnis. Įmonės reorganizavimas
 
-1. Reorganizavimas – tai įmonės, kaip juridinio asmens, pertvarkymas be likvidavimo procedūros. Reorganizuotų įmonių visų teisių ir prievolių perėmėjai yra reorganizuojant įsteigtos naujos ir po reorganizavimo tęsiančios veiklą įmonės arba bendrovės.
+1. Reorganizavimas – tai įmonės, kaip juridinio asmens, pertvarkymas be likvidavimo procedūros. Reorganizuotų įmonių visų teisių ir prievolių perėmėjai yra reorganizuojant įsteigtos naujos ir po reorganizavimo tęsiančios veiklą įmonės, bendrovės arba biudžetinės įstaigos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
 
 2. Įmonės gali būti reorganizuojamos šiais būdais:
 
@@ -402,7 +406,13 @@ VI SKIRSNIS
 
 3) keičiant įmonės rūšį;
 
-4) keičiant įmonės priklausomybę.
+4) keičiant įmonės priklausomybę;
+
+5) keičiant valstybės ir savivaldybės įmonės teisinę formą.
+
+Papildyta straipsnio punktu:
+
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
 
 3. Reorganizuoti įmonių jungimo būdu galima:
 
@@ -420,11 +430,13 @@ Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010IST
 
 2) iš įmonės, kuri baigia veiklą, steigiant naujas įmones;
 
-3) neteko galios nuo 1998-03-18;
+3) iš valstybės ir savivaldybės įmonės, kuri tęsia veiklą, atskiriant dalį, iš kurios steigiama biudžetinė įstaiga.
 
 Straipsnio punkto pakeitimai:
 
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
 
 5. Kai keičiama įmonės rūšis, įmonė gali būti reorganizuojama į akcinę bendrovę – akcionuojant įmonės turtą ir įregistruojant akcijas Vertybinių popierių komisijoje. Seimui atskaitingų bei pavaldžių valstybės institucijų įmonės šioje dalyje nustatyta tvarka gali būti reorganizuojamos tik po to, kai šių įmonių steigėjo funkcijos Seimo nutarimu bus perduotos Lietuvos Respublikos Vyriausybei.
 
@@ -438,7 +450,17 @@ Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010I
 
 2) iš savivaldybės įmonės į valstybės įmonę – perduodant turtą valstybės nuosavybėn.
 
-7. Įmonės reorganizavimo iniciatyvos teisę turi:
+7. Kai keičiama valstybės ir savivaldybės įmonės teisinė forma, įmonė gali būti reorganizuojama iš valstybės ir savivaldybės įmonės į biudžetinę įstaigą, kuriai įstatymų nustatyta tvarka turtas perduodamas valdyti, naudoti ir disponuoti juo patikėjimo teise.
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
+
+8. Įmonės reorganizavimo iniciatyvos teisę turi:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
 
 1) Lietuvos Respublikos Vyriausybė – tik valstybės įmonėms;
 
@@ -448,9 +470,13 @@ Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010I
 
 4) įmonės administracija.
 
-8. Įmonės priklausomybė gali būti keičiama (šio straipsnio šeštoji dalis) Lietuvos Respublikos Seimo priimtais teisiniais aktais.
+9. Įmonės priklausomybė gali būti keičiama (šio straipsnio šeštoji dalis) Lietuvos Respublikos Seimo priimtais teisiniais aktais.
 
-9. Įmonei reorganizuoti, išskyrus šio straipsnio šeštojoje dalyje nurodytus atvejus, rengiamas projektas. Reorganizavimo projekte turi būti nurodyta:
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
+
+10. Įmonei reorganizuoti, išskyrus šio straipsnio šeštojoje dalyje nurodytus atvejus, rengiamas projektas. Reorganizavimo projekte turi būti nurodyta:
 
 1) kiekvienos reorganizuojamos įmonės pavadinimas ir buveinė;
 
@@ -464,27 +490,41 @@ Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010I
 
 6) prievolių, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka, perėmimas ir perėmimo terminai;
 
-Straipsnio punkto pakeitimai:
-
-Nr. VIII-377, 1997-07-02, Žin., 1997, Nr. 69-1738 (1997-07-23), i. k. 0971010ISTAVIII-377
-
 7) teisės, reorganizavimo laikotarpiu suteikiamos įmonių administracijai ir ekspertams;
 
 8) reorganizavimo terminai.
 
-Kartu su reorganizavimo projektu turi būti parengtas kiekvienos po reorganizavimo veiksiančios įmonės bei bendrovės įstatų projektas.
+Kartu su reorganizavimo projektu turi būti parengtas kiekvienos po reorganizavimo veiksiančios įmonės bei bendrovės įstatų projektas, o biudžetinės įstaigos – nuostatų projektas.
 
-10. Reorganizavimo šio straipsnio trečiojoje ir ketvirtojoje dalyse nurodytais būdais projektą tvirtina reorganizuojamų ir po reorganizavimo veiksiančių įmonių steigėjai. Reorganizavimo šio straipsnio penktojoje dalyje nurodytu būdu projektą valstybės įmonės tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, savivaldybės įmonės – savivaldybės taryba. Reorganizavimo projektą tvirtinančios institucijos turi teisę Vyriausybės nustatyta tvarka skirti ekspertus reorganizavimo projekto ekspertizei. Ekspertai turi teisę gauti iš reorganizuojamų įmonių bet kokią su tuo susijusią informaciją.
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
+
+11. Reorganizavimo šio straipsnio trečiojoje ir ketvirtojoje dalyse, išskyrus šio straipsnio ketvirtosios dalies 3 punktą, nurodytais būdais projektą tvirtina reorganizuojamų ir po reorganizavimo veiksiančių įmonių steigėjai. Reorganizavimo šio straipsnio penktojoje dalyje nurodytu būdu projektą valstybės įmonės tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, savivaldybės įmonės – savivaldybės taryba. Valstybės įmonės reorganizavimo šio straipsnio ketvirtosios dalies 3 punkte ir septintojoje dalyje nurodytais būdais projektą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Savivaldybės įmonės reorganizavimo šio straipsnio ketvirtosios dalies 3 punkte ir septintojoje dalyje nurodytais būdais projektą tvirtina savivaldybės taryba. Reorganizavimo projektą tvirtinančios institucijos turi teisę Vyriausybės nustatyta tvarka skirti ekspertus reorganizavimo projekto ekspertizei. Ekspertai turi teisę gauti iš reorganizuojamų įmonių bet kokią su tuo susijusią informaciją.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
 
-11. Patvirtintam reorganizavimo projektui įgyvendinti sudaroma reorganizavimo komisija. Ją sudaro ir pirmininką skiria reorganizuojamų ir po reorganizavimo veiksiančių įmonių ar bendrovių steigėjai bendru nutarimu.
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
 
-12. Apie įmonės reorganizavimą viešai skelbiama 3 kartus su ne mažesniu kaip 2 mėnesių intervalu arba kiekvienam kreditoriui pranešama raštu.
+12. Patvirtintam reorganizavimo projektui įgyvendinti sudaroma reorganizavimo komisija. Ją sudaro ir pirmininką skiria reorganizuojamų ir po reorganizavimo veiksiančių įmonių ar bendrovių steigėjai bendru nutarimu. Reorganizuojant valstybės įmonę šio straipsnio ketvirtosios dalies 3 punkte ir septintojoje dalyje nurodytais būdais, reorganizavimo projektui įgyvendinti reorganizavimo komisiją sudaro ir jos pirmininką skiria Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Reorganizuojant savivaldybės įmonę šio straipsnio ketvirtosios dalies 3 punkte ir septintojoje dalyje nurodytais būdais, reorganizavimo projektui įgyvendinti reorganizavimo komisiją sudaro ir jos pirmininką skiria savivaldybės taryba.
 
-13. Po reorganizavimo veikiančios įmonės arba bendrovės turi būti įregistruotos atitinkamos rūšies įmonių įstatymo ir Įmonių rejestro įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
+
+13. Apie įmonės reorganizavimą viešai skelbiama 3 kartus su ne mažesniu kaip 2 mėnesių intervalu arba kiekvienam kreditoriui pranešama raštu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
+
+14. Po reorganizavimo veikiančios įmonės arba bendrovės turi būti įregistruotos atitinkamos rūšies įmonių įstatymo ir Įmonių rejestro įstatymo nustatyta tvarka, o biudžetinės įstaigos – Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
 
 20 straipsnis. Įmonės likvidavimas
 
@@ -613,4 +653,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
 
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 11 ir 18 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 straipsnio pakeitimo ir papildymo įstatymas
 
