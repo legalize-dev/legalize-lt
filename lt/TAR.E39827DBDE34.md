@@ -4,7 +4,7 @@ identifier: "TAR.E39827DBDE34"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-12-22"
-last_updated: "1993-01-19"
+last_updated: "1994-11-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34"
 department: "Lietuvos Respublikos Seimas"
@@ -62,6 +62,24 @@ RESPUBLIKOS PREZIDENTO RINKIMŲ ĮSTATYMO 13 STRAIPSNIO
 
 PAKEITIMO
 
+3.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. I-647, 94.11.08,
+
+Žin., 1994, Nr.89-1720 (94.11.18)
+
+DĖL LIETUVOS
+
+RESPUBLIKOS PREZIDENTO RINKIMŲ ĮSTATYMO PAKEITIMO
+
+Šis įstatymas
+
+įsigalioja nuo 1995 m. sausio 1 dienos.
+
 *** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
@@ -112,7 +130,7 @@ mažiau kaip keturiasdešimt metų ir jeigu jis
 
 gali būti renkamas
 
-Seimo nariu. Į Lietuvos  Respublikos  piliečio
+Seimo nariu. Į Lietuvos  Respublikos  piliečio
 
 gyvenimo
 
@@ -130,9 +148,9 @@ darbu
 
 diplomatinėse   tarnybose    bei    kitomis  užduotimis,
 
-susijusiomis  su
+susijusiomis  su  Lietuvos
 
-Lietuvos valstybės pavedimais.
+valstybės pavedimais.
 
 Tas pats  asmuo
 
@@ -256,9 +274,9 @@ Prezidentus
 
 rezultatus.
 
-Valstybinės  masinės
+Valstybinės
 
-informacijos   priemonės   informuoja
+masinės   informacijos   priemonės   informuoja
 
 visuomenę apie
 
@@ -612,9 +630,9 @@ Respublikos
 
 Prezidento  rinkimų  komisijos  pateiktus  klausimus
 
-Seimas svarsto
+Seimas svarsto ypatingos
 
-ypatingos skubos tvarka.
+skubos tvarka.
 
 13 straipsnis.
 
@@ -668,9 +686,9 @@ Politinės
 
 partijos,  visuomeniniai politiniai  judėjimai  ir
 
-tautinių mažumų
+tautinių mažumų  visuomeninės
 
-visuomeninės politinės  organizacijos,  gavusios
+politinės  organizacijos,  gavusios
 
 Seimo narių
 
@@ -826,7 +844,7 @@ mandatus daugiamandatėje  rinkimų  apygardoje  pagal
 
 iškeltų  kandidatų
 
-sąrašą  (jungtinį  sąrašą).  Šios  politinės
+sąrašą  (jungtinį  sąrašą).  Šios  politinės
 
 partijos,
 
@@ -912,7 +930,7 @@ sąrašą miesto, rajono rinkimų komisijai;
 
 5)  įteikia
 
-ar   kitaip   perduoda   rinkėjams   balsavimo
+ar   kitaip   perduoda   rinkėjams   balsavimo
 
 pažymėjimus;
 
@@ -928,9 +946,9 @@ patalpos ir balsadėžės;
 
 dieną organizuoja rinkimų apylinkėje balsavimą;
 
-8) suskaičiuoja
+8)
 
-balsus, surašo  apylinkės balsų skaičiavimo
+suskaičiuoja  balsus, surašo  apylinkės balsų skaičiavimo
 
 protokolą;
 
@@ -1014,9 +1032,9 @@ patikėtiniai,  visų  masinės  informacijos  priemonių
 
 atstovai.
 
-Niekas  neturi
+Niekas
 
-teisės  rengti   neviešų  rinkimų  komisijų
+neturi   teisės  rengti   neviešų  rinkimų  komisijų
 
 posėdžių.
 
@@ -1046,9 +1064,9 @@ Visos
 
 politinės   partijos  ir   politinės   organizacijos,
 
-iškėlusios kandidatą
+iškėlusios
 
-į Prezidentus,  bei kandidatų į Respublikos
+kandidatą  į Prezidentus,  bei kandidatų į Respublikos
 
 Prezidentus
 
@@ -1074,9 +1092,9 @@ komisijai;
 
 Prezidento rinkimų  komisijos  sprendimus  -
 
-Aukščiausiajam
+Vilniaus apygardos
 
-Teismui.
+teismui.
 
 Skundai turi
 
@@ -1084,11 +1102,19 @@ būti išnagrinėti ne vėliau kaip per 48 valandas
 
 nuo skundo
 
-padavimo. Į  šį terminą įskaitomos ir nedarbo dienos.
+padavimo.  Vilniaus   apygardos   teismo   sprendimas
 
-Aukščiausiojo Teismo
+įsiteisėja nuo
 
-sprendimas yra galutinis.
+paskelbimo.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. I-647, 94.11.08,
+
+Žin., 1994, Nr.89-1720 (94.11.18)
 
 19 straipsnis.
 
@@ -1164,23 +1190,23 @@ Prezidento  rinkimų  komisijos  sprendimai  gali
 
 būti apskųsti
 
-Aukščiausiajam Teismui ne vėliau kaip per 2 dienas
+Vilniaus  apygardos teismui, ne  vėliau  kaip per 2
 
-nuo jų  priėmimo ir
+dienas nuo jų
 
-turi būti  išnagrinėti ne vėliau kaip per 48
+priėmimo ir  turi būti  išnagrinėti ne vėliau kaip
 
-valandas.  Į   šį
+per 48 valandas.  Į
 
-terminą   įskaitomos   ir   nedarbo   dienos.
+šį   terminą įskaitomos  ir  nedarbo dienos.
 
-Aukščiausiojo
+Vilniaus apygardos
 
-Teismo  sprendimas yra  galutinis  ir  jo  vykdymas
+teismo sprendimas įsiteisėja nuo paskelbimo ir
 
-Respublikos
+jo vykdymas
 
-Prezidento rinkimų komisijai yra privalomas.
+Respublikos Prezidento rinkimų komisijai yra privalomas.
 
 Respublikos
 
@@ -1210,13 +1236,21 @@ apylinkės  balsų
 
 skaičiavimo  protokolų   įrašus.   Respublikos
 
-Prezidento   rinkimų
+Prezidento
 
-komisija   neturi    teisės    pripažinti
+rinkimų    komisija   neturi    teisės    pripažinti
 
 negaliojančiais
 
 miestų, rajonų balsų skaičiavimo protokolų.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. I-647, 94.11.08,
+
+Žin., 1994, Nr.89-1720 (94.11.18)
 
 20 straipsnis.
 
@@ -1330,9 +1364,9 @@ Rinkimams
 
 vykdyti   sudaromi  rinkimų   apylinkių   rinkėjų
 
-sąrašai.   Sąrašus   sudaro
+sąrašai.   Sąrašus
 
-atitinkamų   savivaldybių   valdymo
+sudaro   atitinkamų   savivaldybių   valdymo
 
 institucijos ir  jų
 
@@ -1346,9 +1380,9 @@ Apylinkių
 
 rinkimų   komisijos   gautus   rinkėjų   sąrašus
 
-patikslina ir  patvirtina.
+patikslina ir
 
-Patvirtintą  rinkėjų  sąrašą  pasirašo
+patvirtina. Patvirtintą  rinkėjų  sąrašą  pasirašo
 
 apylinkės rinkimų
 
@@ -1426,7 +1460,7 @@ kelių  apylinkių rinkėjų sąrašus, likus ne mažiau
 
 kaip  20   dienų
 
-iki  rinkimų,  miesto,  rajono  ar  Respublikos
+iki  rinkimų,  miesto,  rajono  ar  Respublikos
 
 Prezidento rinkimų
 
@@ -1434,7 +1468,7 @@ komisija kreipiasi  į rinkėją,  kad šis per 5
 
 dienas praneštų,  į
 
-kurios  apylinkės rinkėjų  sąrašą jis  norėtų
+kurios  apylinkės rinkėjų  sąrašą jis  norėtų
 
 būti   įrašytas.
 
@@ -1686,9 +1720,9 @@ kandidatu  į
 
 Respublikos  Prezidentus,   ir  priima   motyvuotą
 
-sprendimą  išduoti  asmeniui
+sprendimą  išduoti
 
-rinkėjų  parašų  rinkimo  lapus  su
+asmeniui  rinkėjų  parašų  rinkimo  lapus  su
 
 kandidato į
 
@@ -1698,21 +1732,31 @@ neišduoti.
 
 Atsisakymas  išduoti rinkėjų  parašų rinkimo  lapus ne
 
-vėliau kaip  per 3
+vėliau kaip  per  3
 
-dienas gali būti apskundžiamas Aukščiausiajam
+dienas  gali  būti  apskundžiamas   Vilniaus
 
-Teismui, o  šis
+apygardos  teismui ,
 
-turi  išnagrinėti skundą  ne vėliau  kaip per  72
+o  šis  turi  išnagrinėti  skundą  ne vėliau
 
-valandas nuo  jo
+kaip per  72
 
-padavimo.  Į šį  terminą įskaitomos  ir  nedarbo
+valandas nuo  jo padavimo.  Į šį  terminą įskaitomos
 
-dienos.
+ir  nedarbo dienos.
 
-Aukščiausiojo Teismo sprendimas yra galutinis.
+Vilniaus apygardos teismo sprendimas įsiteisėja
+
+nuo paskelbimo.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. I-647, 94.11.08,
+
+Žin., 1994, Nr.89-1720 (94.11.18)
 
 33 straipsnis.
 
@@ -1798,9 +1842,9 @@ Rinkėjų parašų
 
 rinkimo lapus išduoda Respublikos Prezidento
 
-rinkimų komisija  tiesiogiai
+rinkimų komisija
 
-asmenims,  raštu pareiškusiems  apie
+tiesiogiai asmenims,  raštu pareiškusiems  apie
 
 dalyvavimą
 
@@ -1818,7 +1862,7 @@ Kandidatų į Respublikos Prezidentus
 
 Likus iki
 
-rinkimų  ne  mažiau  kaip  25  dienoms,  asmenys,
+rinkimų  ne  mažiau  kaip  25  dienoms,  asmenys,
 
 iškelti ar  iškėlę
 
@@ -1900,9 +1944,9 @@ per  3   valandas
 
 privalo   įregistruoti  asmenį   kandidatu   į
 
-Respublikos Prezidentus.
+Respublikos
 
-Respublikos Prezidento rinkimų komisijos
+Prezidentus. Respublikos Prezidento rinkimų komisijos
 
 atsisakymas
 
@@ -1912,17 +1956,19 @@ Prezidentus ne
 
 vėliau kaip  per 3  dienas (įskaitant  ir nedarbo
 
-dienas) gali būti
+dienas) gali  būti
 
-apskųstas Aukščiausiajam Teismui, o šis privalo
+apskųstas Vilniaus  apygardos  teismui, o šis
 
-išnagrinėti skundą
+privalo išnagrinėti
 
-per 48  valandas. Į  šį terminą įskaitomos ir
+skundą per 48 valandas. Į šį terminą įskaitomo
 
-nedarbo dienos.
+ir nedarbo dienos.
 
-Aukščiausiojo Teismo sprendimas yra galutinis.
+Vilniaus apygardos teismo sprendimas įsiteisėja
+
+nuo paskelbimo.
 
 Asmenys,
 
@@ -1932,9 +1978,9 @@ Prezidentus,
 
 kandidato  į Respublikos  Prezidentus statusą  įgyja
 
-juos
+juos   įregistravus
 
-įregistravus   kandidatais   į   Respublikos   Prezidentus
+kandidatais   į   Respublikos   Prezidentus
 
 Respublikos
 
@@ -1948,9 +1994,9 @@ Respublikos
 
 Prezidento  rinkimų komisija  oficialiai skelbia visų
 
-asmenų,  įregistruotų
+asmenų,
 
-kandidatais  į  Respublikos  Prezidentus,
+įregistruotų   kandidatais  į  Respublikos  Prezidentus,
 
 sąrašą ir  ne
 
@@ -1964,13 +2010,21 @@ Prezidentus
 
 pažymėjimą.  Nuo oficialaus  kandidatų  į Respublikos
 
-Prezidentus
+Prezidentus  sąrašo   paskelbimo
 
-sąrašo   paskelbimo  dienos   prasideda  Respublikos
+dienos   prasideda  Respublikos
 
 Prezidento rinkimų
 
 kampanija.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. I-647, 94.11.08,
+
+Žin., 1994, Nr.89-1720 (94.11.18)
 
 35 straipsnis.
 
@@ -2044,9 +2098,9 @@ rinkimų komisijai.
 
 Respublikos Prezidento rinkimų stebėtojai
 
-Visos
+Visos  politinės
 
-politinės   partijos  ir   politinės   organizacijos,
+partijos  ir   politinės   organizacijos,
 
 iškėlusios asmenį
 
@@ -2144,7 +2198,9 @@ Kandidato į Respublikos Prezidentus teisė
 
 pasisakyti susirinkimuose, naudotis
 
-masinės informacijos priemonėmis
+masinės
+
+informacijos priemonėmis
 
 Kandidatai į
 
@@ -2246,9 +2302,7 @@ Respublikos Prezidentus apsauga.
 
 Atsakomybė už Lietuvos Respublikos
 
-Prezidento
-
-rinkimų įstatymo pažeidimą
+Prezidento rinkimų įstatymo pažeidimą
 
 Asmenys,
 
@@ -2320,9 +2374,9 @@ Konstituciją ir
 
 įstatymus. Rinkimų  kampanijos pradžią paskelbia
 
-Respubikos
+Respublikos Prezidento
 
-Prezidento rinkimų komisija.
+rinkimų komisija.
 
 43 straipsnis.
 
@@ -2412,13 +2466,13 @@ rinkiminio plakato,
 
 taip pat rinkiminės programos atspausdinimą.
 
-Rinkimų agitacijai
+Rinkimų agitacijai  skirtų
 
-skirtų valstybės  lėšų naudojimą kontroliuoja
+valstybės  lėšų naudojimą kontroliuoja
 
-Respublikos Prezidento
+Respublikos
 
-rinkimų komisija  ir Lietuvos  taupomasis
+Prezidento  rinkimų komisija  ir Lietuvos  taupomasis
 
 bankas.
 
@@ -2626,9 +2680,9 @@ rajono rinkimų komisijos numeris;
 
 rinkimų komisijos numeris;
 
-3) rinkėjo eilės
+3) rinkėjo
 
-numeris apylinkės rinkėjų sąraše;
+eilės numeris apylinkės rinkėjų sąraše;
 
 4) rinkėjo
 
@@ -2720,9 +2774,9 @@ rinkimų komisijos
 
 pirmininkas su komisijos nariais patikrinęs, ar
 
-balsadėžė  yra   tuščia,
+balsadėžė  yra
 
-ją   užantspauduoja.  Įsitikinęs,   kad
+tuščia,  ją   užantspauduoja.  Įsitikinęs,   kad
 
 balsavimo  patalpa
 
@@ -2780,9 +2834,9 @@ Balsuojant paštu,
 
 balsavimo pažymėjime  pažymima apie biuletenio
 
-išdavimą ir
+išdavimą ir balsavimo
 
-balsavimo pažymėjimas grąžinamas rinkėjui.
+pažymėjimas grąžinamas rinkėjui.
 
 Išduoti
 
@@ -2816,7 +2870,7 @@ numatytu atveju.
 
 Biuletenyje
 
-rinkėjas  pažymi  to  kandidato  į  Respublikos
+rinkėjas  pažymi  to  kandidato  į  Respublikos
 
 Prezidentus pavardę,
 
@@ -2888,9 +2942,9 @@ dienai iki  rinkimų,
 
 jei  į to  miesto,  rajono  rinkėjų  sąrašus
 
-rinkėjas yra  įrašytas,
+rinkėjas yra
 
-ir  baigiant  likus  dviem  dienoms  iki
+įrašytas,  ir  baigiant  likus  dviem  dienoms  iki
 
 rinkimų, jei
 
@@ -2968,13 +3022,13 @@ kurios  apylinkės  rinkėjų  sąrašą  rinkėjas  yra
 
 įtrauktas.
 
-Išorinius
+Išorinius vokus,
 
-vokus,  balsavimo  vokus  ir  rinkimų  biuletenius
+balsavimo  vokus  ir  rinkimų  biuletenius
 
-paštininkas atneša  į
+paštininkas atneša
 
-namus  negalintiems  vaikščioti  rinkėjams
+į  namus  negalintiems  vaikščioti  rinkėjams
 
 likus iki  rinkimų
 
@@ -3074,9 +3128,7 @@ vadovas.
 
 Balsavimas laive, plaukiojančiame su
 
-Lietuvos
-
-valstybės vėliava
+Lietuvos valstybės vėliava
 
 Balsavimas
 
@@ -3136,11 +3188,11 @@ Balsavimo Lietuvos Respublikos
 
 diplomatinėse atstovybėse ir  laivuose,
 
-plaukiojančiuose su Lietuvos valstybės
+plaukiojančiuose
 
-vėliava,
+su Lietuvos valstybės
 
-tvarka
+vėliava, tvarka
 
 Balsavimo
 
@@ -3182,9 +3234,7 @@ Bausmės
 
 atlikimo   vietose  sudaromi  specialūs  balsavimui
 
-skirti pašto
-
-skyriai.
+skirti pašto skyriai.
 
 Įkalinimo
 
@@ -3310,9 +3360,7 @@ skaičiavimo protokolą.
 
 Balsų skaičiavimas rinkimų apylinkėje ir
 
-balsavusių
-
-rinkėjų apskaita
+balsavusių rinkėjų apskaita
 
 Apylinkės
 
@@ -3378,7 +3426,7 @@ kad  balsadėžė nebuvo  pažeista, dalyvaujant  ne
 
 mažiau kaip  3/5
 
-komisijos  narių ir  stebėtojams, ji  atidaroma,
+komisijos  narių ir  stebėtojams, ji  atidaroma,
 
 visi rinkimų
 
@@ -3406,9 +3454,9 @@ biuletenio gavimą.
 
 Balsavusių rinkimų apylinkėje rinkėjų skaičius
 
-nustatomas pagal
+nustatomas pagal  apylinkės
 
-apylinkės rinkimų  balsadėžėje rastų biuletenių
+rinkimų  balsadėžėje rastų biuletenių
 
 skaičių. Dalyvavusių
 
@@ -3558,13 +3606,13 @@ antspauduotas
 
 vidinis  vokas, jis, kad nebūtų pažeistas balsavimo
 
-slaptumas,
+slaptumas, neatplėšiamas,
 
-neatplėšiamas,  o  perduodamas  aukštesniajai  rinkimų
+o  perduodamas  aukštesniajai  rinkimų
 
-komisijai,  kuri   balsavimo
+komisijai,  kuri
 
-rezultatus   įrašo  į   savo  balsų
+balsavimo  rezultatus   įrašo  į   savo  balsų
 
 skaičiavimo
 
@@ -3600,9 +3648,9 @@ skaičius, rinkėjams
 
 išduotų biuletenių  skaičius, rinkėjų parašų
 
-skaičius, balsavimo  pažymėjimų
+skaičius, balsavimo
 
-skaičius,  nepanaudotų biuletenių
+pažymėjimų skaičius,  nepanaudotų biuletenių
 
 skaičius;
 
@@ -3634,9 +3682,9 @@ skaičius;
 
 rastų  atskirai  už  kiekvieną  kandidatą  į
 
-Respublikos
+Respublikos Prezidentus
 
-Prezidentus paduotų balsų skaičius;
+paduotų balsų skaičius;
 
 10) paštu
 
@@ -3692,9 +3740,9 @@ nurodant skaičių,
 
 kiek biuletenių buvo rasta daugiau.
 
-Rinkimų
+Rinkimų  apylinkės
 
-apylinkės   balsų  skaičiavimo  protokolą  pasirašo
+balsų  skaičiavimo  protokolą  pasirašo
 
 apylinkės  rinkimų
 
@@ -3752,9 +3800,7 @@ rinkimų komisija.
 
 Apylinkės balsų skaičiavimo dokumentų
 
-pateikimas
-
-miesto,  rajono rinkimų
+pateikimas miesto,  rajono rinkimų
 
 komisijai
 
@@ -4006,7 +4052,7 @@ Prezidento  rinkimų  komisija,  nustačiusi,  kad
 
 dokumentų
 
-suklastojimas   turėjo  lemiamos   įtakos  Respublikos
+suklastojimas   turėjo  lemiamos   įtakos  Respublikos
 
 Prezidento
 
@@ -4084,7 +4130,9 @@ rinkimai.
 
 Stebėtojų dalyvavimas skaičiuojant balsus
 
-ir nustatant rinkimų rezultatus
+ir
+
+nustatant rinkimų rezultatus
 
 Skaičiuojant
 
@@ -4172,9 +4220,9 @@ Prezidento rinkimų komisija.
 
 Respublikos Prezidento pažymėjimas
 
-Po  rinkimų   rezultatų
+Po  rinkimų
 
-paskelbimo  Respublikos  Prezidento
+rezultatų  paskelbimo  Respublikos  Prezidento
 
 rinkimų komisija  ne
 
@@ -4294,9 +4342,9 @@ Respublikos
 
 Prezidentus lygiateisiškumo principu.
 
-Masinės      informacijos
+Masinės
 
-priemonės,      paskelbusios
+informacijos       priemonės,      paskelbusios
 
 kompromituojančią
 
@@ -4334,7 +4382,7 @@ skirti pašto skyriai.
 
 Galintys
 
-judėti   šių  įstaigų   pacientai  balsuoja  patys
+judėti   šių  įstaigų   pacientai  balsuoja  patys
 
 balsavimo patalpoje
 
@@ -4352,9 +4400,9 @@ tvirtina miestų,
 
 rajonų rinkimų  komisijos.  Balsuojantis  asmuo
 
-turi pats  jam sudarytomis
+turi pats  jam
 
-slaptumo sąlygomis  užpildyti rinkimų
+sudarytomis  slaptumo sąlygomis  užpildyti rinkimų
 
 biuletenį ir  įdėti
 
@@ -4440,9 +4488,9 @@ RESPUBLIKOS
 
 PREZIDENTO
 
-PAREIGAS                                ALGIRDAS
+PAREIGAS
 
-BRAZAUSKAS
+ALGIRDAS BRAZAUSKAS
 
 Vilnius, 1992 m.
 
