@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2004-04-13"
+last_updated: "2005-03-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -33,7 +33,9 @@ APLINKOS APSAUGOS
 
 I SKYRIUS. BENDRIEJI NUOSTATAI
 
-1 straipsnis. Pagrindinės sąvokos
+1 straipsnis.
+
+Pagrindinės sąvokos
 
 Šiame įstatyme:
 
@@ -47,20 +49,6 @@ medžiagų, antropogeninių komponentų) visuma bei juos vienijančios natūrali
 
 ir antropogeninės sistemos;
 
-2
-
-punkto redakcija iki 2004 m. liepos 21 d.:
-
-2) aplinkos
-
-apsauga – aplinkos saugojimas nuo fizinio, cheminio, biologinio bei kitokio
-
-neigiamo poveikio, atsirandančio naudojant gamtos išteklius;
-
-2
-
-punkto redakcija nuo 2004 m. liepos 21 d.:
-
 2) aplinkos
 
 apsauga – aplinkos saugojimas nuo
@@ -73,9 +61,11 @@ naudojant gamtos išteklius;
 
 3) gamtos
 
-ištekliai – gyvosios ar negyvosios gamtos elementai, kuriuos žmogus naudoja
+ištekliai – gyvosios ar negyvosios gamtos elementai (augalija, gyvūnija,
 
-arba gali naudoti savo poreikiams;
+įskaitant ir buveines, vanduo, žemė (jos paviršius ir gelmės), kuriuos žmogus
+
+naudoja arba gali naudoti savo reikmėms;
 
 4) ekosistema
 
@@ -107,29 +97,15 @@ ir išsaugojimą ateičiai;
 
 8) kenksmingas
 
-poveikis aplinkai – ekosistemos ar jos elementų natūralių funkcijų
+(neigiamas) poveikis aplinkai – ekosistemos ar jos elementų natūralių
 
-susilpnėjimas arba netekimas;
+funkcijų susilpnėjimas arba netekimas;
 
 9) aplinkos
 
 stebėsena (monitoringas) – sistemingas aplinkos bei jos elementų būklės ir
 
 kitimo stebėjimas, antropogeninio poveikio įvertinimas ir prognozė;
-
-10
-
-punkto redakcija iki 2004 m. liepos 21 d.:
-
-10) poveikio
-
-aplinkai vertinimas – planuojamos ūkinės veiklos galimo poveikio aplinkai
-
-nustatymo, apibūdinimo ir įvertinimo procesas;
-
-10
-
-punkto redakcija nuo 2004 m. liepos 21 d.:
 
 10) poveikio aplinkai vertinimas – planuojamos
 
@@ -167,7 +143,7 @@ išvardyti veiksniai, veikla arba priemonės;
 
 12) ūkinė
 
-veikla – ūkinė ir kitokia veikla, kuri turi įtakos aplinkai;
+veikla – ūkinė ir kitokia veikla, kuri turi ar gali turėti įtakos aplinkai;
 
 13) pavojingos
 
@@ -177,9 +153,11 @@ sukeliančios ir kitos medžiagos, galinčios pakenkti žmogui ir aplinkoje
 
 vykstantiems gamtos procesams;
 
-14) teršalų emisija – teršiančios medžiagos
+14) teršimas – medžiagų, preparatų, organizmų
 
-išmetimas į aplinką;
+ir mikroorganizmų ar jų junginių (toliau – teršalų) išmetimas (išleidimas,
+
+paskleidimas) į aplinką kaip žmonių veiklos rezultatas;
 
 15) genetiškai modifikuotas organizmas –
 
@@ -188,10 +166,6 @@ organizmas (išskyrus žmogų), kurio genetinė medžiaga yra taip pakeista ir
 įgijusi tokių savybių, kurios negalėtų atsirasti organizmui dauginantis
 
 natūraliu būdu;
-
-1
-
-straipsnis papildomas 16, 17 ir 18 punktais nuo 2004 m. liepos 21 d.:
 
 16) pasekmės ar poveikis aplinkai –
 
@@ -231,7 +205,35 @@ pagal galiojančius teisės aktus ar pagal kompetenciją įgyvendinant viešąj�
 
 administravimą ir kurių įgyvendinimo pasekmės gali būti reikšmingos aplinkai,
 
-įskaitant tokių planų ir programų visiškus ar dalinius pakeitimus.
+įskaitant tokių planų ir programų visiškus ar dalinius pakeitimus;
+
+19) aplinkos atkūrimo
+
+priemonės – bet kurie veiksmai, įskaitant žalą sumažinančias bei
+
+laikinąsias priemones, kuriomis nustatyta tvarka atkuriama iki pradinės būklės
+
+pažeista aplinka, jos elementai ir (arba) pablogėjusios jų funkcijos arba
+
+įgyvendinamos lygiavertės tiems aplinkos elementams ir (arba) jų funkcijoms alternatyvos;
+
+20) prevencinės
+
+priemonės – bet kurios priemonės, taikomos reaguojant į įvykį, veikimą ar
+
+neveikimą, siekiant išvengti žalos ar kitokio neigiamo poveikio aplinkai ar ją
+
+(jį) sumažinti;
+
+21) žala aplinkai –
+
+tiesiogiai ar netiesiogiai atsiradęs neigiamas aplinkos ar jos elementų
+
+(įskaitant ir saugomas teritorijas, kraštovaizdį, biologinę įvairovę) pokytis
+
+arba jų funkcijų, turimų savybių, naudingų aplinkai
+
+ar žmonėms (visuomenei), (toliau – funkcijos) pablogėjimas.
 
 Straipsnio pakeitimai:
 
@@ -245,17 +247,19 @@ Nr.39-1093 (00.05.12)
 
 Nr.
 
-IX-677,
+IX-677, 2001-12-20,
 
-2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
+Žin., 2002, Nr. 2-49 (2002-01-09)
 
 Nr. IX-2032,
 
 2004-02-19, Žin., 2004, Nr. 36-1179 (2004-03-07)
 
-2
+Nr. X-147, 2005-03-24,
 
-straipsnis. Įstatymo paskirtis
+Žin., 2005, Nr. 47-1558 (2005-04-12)
+
+2 straipsnis. Įstatymo paskirtis
 
 Šis
 
@@ -273,15 +277,13 @@ ekonominėje zonoje.
 
 Šio įstatymo pagrindu priimami kiti gamtos išteklių
 
-naudojimą bei aplinkos apsaugą reglamentuojantys įstatymai ir norminiai aktai.
+naudojimą bei aplinkos apsaugą reglamentuojantys įstatymai ir kiti teisės
 
-2
+aktai.
 
-straipsnis papildomas 3 dalimi nuo 2004 m. liepos 21 d.:
+Šis įstatymas skirtas
 
-Šis įstatymas
-
-skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
+užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
 
 įgyvendinimą.
 
@@ -293,9 +295,11 @@ Nr. IX-2032,
 
 2004-02-19, Žin., 2004, Nr. 36-1179 (2004-03-07)
 
-3
+Nr. X-147, 2005-03-24,
 
-straipsnis. Aplinkos apsaugos objektas
+Žin., 2005, Nr. 47-1558 (2005-04-12)
+
+3 straipsnis. Aplinkos apsaugos objektas
 
 Aplinkos apsaugos objektas yra Lietuvos Respublikos
 
@@ -303,9 +307,7 @@ teritorijoje esanti aplinka ir Lietuvos Respublikos jurisdikcijai priklausantys
 
 gamtos ištekliai.
 
-4
-
-straipsnis. Aplinkos apsaugos principai
+4 straipsnis. Aplinkos apsaugos principai
 
 Aplinkos apsauga Lietuvos Respublikoje yra visos
 
@@ -337,9 +339,9 @@ IX-677,
 
 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
-5
+5 straipsnis. Lietuvos Respublikos Seimo
 
-straipsnis. Lietuvos Respublikos Seimo kompetencija aplinkos apsaugos srityje
+kompetencija aplinkos apsaugos srityje
 
 Lietuvos
 
@@ -377,413 +379,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-6 straipsnio redakcija iki
+6 straipsnis. Valstybinio
 
-2004 m. gegužės 1 d.:
-
-6
-
-straipsnis. Valstybinio aplinkos apsaugos valdymo sistema
-
-Valstybinį
-
-aplinkos apsaugos valdymą Lietuvos Respublikoje vykdo Vyriausybė, Aplinkos
-
-apsaugos ministerija, kitos įgaliotos valstybės institucijos.
-
-Aplinkos
-
-apsaugos valdymą savivaldybių teritorijose įstatymų nustatyta tvarka vykdo
-
-vietos savivaldos atitinkamos institucijos.
-
-Kiekviena
-
-iš šių institucijų atsako už šio įstatymo joms priskirtų funkcijų vykdymą.
-
-Lietuvos
-
-Respublikos Vyriausybė, įgyvendindama aplinkos apsaugos valstybės politiką:
-
-1)
-
-Aplinkos apsaugos ministerijos teikimu tvirtina aplinkos apsaugos strategijos
-
-veiksmų programą, valstybines gamtos išteklių naudojimo ir aplinkos apsaugos
-
-programas bei schemas;
-
-2)
-
-įstatymų nustatyta tvarka formuoja valstybės institucijų, įgyvendinančių
-
-aplinkos apsaugos ir gamtos išteklių naudojimo politiką, sistemą;
-
-3)
-
-koordinuoja valstybės ir vietos savivaldos valdymo institucijų veiklą aplinkos
-
-apsaugos ir gamtos išteklių naudojimo srityje;
-
-4)
-
-sudaro ir įgyvendina Lietuvos Respublikos tarpvalstybines sutartis aplinkos apsaugos
-
-ir gamtos išteklių naudojimo srityje;
-
-5)
-
-vykdo kitas įstatymų nustatytas funkcijas.
-
-Lietuvos
-
-Respublikos aplinkos apsaugos ministerija, vykdydama aplinkos apsaugos valdymą
-
-ir valstybinį gamtos išteklių naudojimo reguliavimą:
-
-1)
-
-organizuoja ir koordinuoja valstybės strategijos įgyvendinimą aplinkos apsaugos
-
-ir gamtos išteklių naudojimo srityje, rengia valstybines ilgalaikes ir
-
-tikslines aplinkos apsaugos bei gamtos išteklių naudojimo programas, numato jų
-
-įgyvendinimo tvarką ir kontroliuoja, kaip jos vykdomos;
-
-2)
-
-organizuoja ir koordinuoja valstybinės svarbos aplinkos apsaugos schemų, kitų
-
-aplinkos apsaugos priemonių rengimą, taip pat rengia šias schemas ir priemones,
-
-numato jų įgyvendinimo (taikymo) mechanizmą, kontroliuoja, kaip jos vykdomos
-
-(taikomos);
-
-3)
-
-rengia įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir kitų teisės aktų
-
-aplinkos apsaugos ir gamtos išteklių naudojimo klausimais projektus,
-
-organizuoja bendrųjų, specialiųjų bei detaliųjų teritorinio planavimo dokumentų
-
-aplinkos apsaugos klausimais rengimą, pagal savo kompetenciją derina
-
-ministerijų, kitų Vyriausybės įstaigų, apskrities, vietos savivaldos, kitų
-
-institucijų teisės aktų, reguliuojančių ūkinę ir kitokią veiklą, galinčią
-
-turėti poveikio aplinkai, projektus bei teritorinio planavimo dokumentus, kad
-
-jie atitiktų aplinkos apsaugos įstatymus ir kitus teisės aktus;
-
-4)
-
-pagal savo kompetenciją rengia ir tvirtina aplinkos apsaugos ir gamtos išteklių
-
-naudojimo normas, normatyvus, standartus bei taisykles;
-
-5)
-
-pagal savo kompetenciją nustato gamtos išteklių naudojimo limitus ir sąlygas,
-
-leidimų išdavimo tvarką, reglamentuoja ir kontroliuoja gamtos išteklių
-
-apskaitą, organizuoja valstybinių kadastrų bei registrų, priskirtų ministerijos
-
-kompetencijai, sudarymą bei tvarkymą;
-
-6) teikia Lietuvos Respublikos Vyriausybei saugomų
-
-teritorijų steigimo projektus;
-
-7) reglamentuoja ir kontroliuoja veiklą saugomose
-
-teritorijose, organizuoja valstybinių rezervatų, nacionalinių ir regioninių
-
-parkų valdymą, sudaro ir tikslina Raudonąją knygą, organizuoja ir atlieka
-
-darbus, susijusius su retų bei nykstančių augalų, grybų ir gyvūnų išsaugojimu
-
-bei gausinimu, reglamentuoja augalų, gyvūnų medžioklės ir žūklės trofėjų
-
-įvežimo, išvežimo, tranzito, tarptautinės prekybos retomis ir nykstančiomis
-
-augalų ir gyvūnų rūšimis, taip pat gyvūnų laikymo nelaisvėje tvarką;
-
-8)
-
-nustato ir kontroliuoja teršalų (ir radioaktyviųjų medžiagų) emisijos į aplinką
-
-normas bei apskaitos tvarką, nustato leidimų atlikti teršalų (ir radioaktyviųjų
-
-medžiagų) emisiją išdavimo tvarką;
-
-9) nustato pavojingų cheminių medžiagų ir pavojingų
-
-atliekų, radioaktyviųjų medžiagų, genetiškai modifikuotų organizmų bei
-
-potencialių biologinės taršos šaltinių gamybos ir įvežimo, tranzito, išvežimo,
-
-naudojimo, saugojimo, laidojimo, nukenksminimo, utilizavimo ir apskaitos tvarką
-
-bei radiacinio saugumo normatyvus;
-
-10)
-
-nustato tvarką, kuria įvertinama, ar produkcija atitinka aplinkos apsaugos
-
-reikalavimus, organizuoja šį darbą;
-
-11)
-
-rengia ir tvirtina aplinkai padarytos žalos apskaičiavimo metodikas;
-
-12)
-
-organizuoja ir koordinuoja kompleksinį aplinkos monitoringą, kuria ir nuolat
-
-papildo aplinkos apsaugos ir gamtos išteklių naudojimo kompiuterizuotą
-
-informacijos sistemą, naudojasi šia informacija;
-
-13)
-
-pagal savo kompetenciją organizuoja ir koordinuoja mokslo tyrimus, susijusius
-
-su gamtos ištekliais ir jų naudojimu bei aplinkos apsauga;
-
-14) nustatyta tvarka naudoja Aplinkos apsaugos rėmimo
-
-programos lėšas;
-
-15)
-
-nustatyta tvarka pagal savo kompetenciją palaiko ryšius su užsienio valstybių
-
-atitinkamomis institucijomis ir tarptautinėmis organizacijomis, rengia
-
-tarptautinių sutarčių projektus, pasirašo šias sutartis, organizuoja jų
-
-įgyvendinimą, taip pat Lietuvos Respublikos Vyriausybės ar Ministro Pirmininko
-
-pavedimu atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse
-
-organizacijose;
-
-16) rengia ataskaitas apie aplinkos būklę Lietuvos Respublikoje,
-
-koordinuoja ir pagal savo kompetenciją organizuoja visuomenės aplinkosauginį
-
-švietimą bei informavimą, rūpinasi aplinkos apsaugos specialistų kvalifikacijos
-
-tobulinimu;
-
-17)
-
-vykdo valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę,
-
-nustato valstybinės aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės
-
-vykdymo tvarką;
-
-18)
-
-teikia pasiūlymus dėl aplinkos apsaugos ir gamtos išteklių naudojimo ekonominės
-
-sistemos formavimo, dalyvauja nustatant muitų už įvežamus ir išvežamus gamtos
-
-išteklius politiką;
-
-19)
-
-organizuoja kitų aplinkos apsaugos priemonių įgyvendinimą ir kontrolę;
-
-20)
-
-vykdo kitas įstatymų nustatytas funkcijas.
-
-Kitų
-
-valstybės institucijų funkcijas aplinkos apsaugos srityje nustato kiti
-
-įstatymai bei šių institucijų nuostatai.
-
-Vietos
-
-savivaldos institucijos, organizuodamos aplinkos apsaugos įstatymų, Vyriausybės
-
-bei Aplinkos apsaugos ministerijos priimtų norminių aktų aplinkos apsaugos
-
-klausimais įgyvendinimą:
-
-1)
-
-valdo, naudoja ir saugo joms priskirtus gamtos išteklius ir aplinkosaugos
-
-objektus;
-
-2)
-
-paskirsto pagal savivaldybėms nustatytus limitus valstybinius gamtos išteklius;
-
-3)
-
-rengia, tvirtina ir įgyvendina savivaldybių aplinkos apsaugos ir gamtos
-
-išteklių naudojimo programas, schemas ir kitas aplinkos apsaugos priemones;
-
-4) nustatyta tvarka naudoja Savivaldybių aplinkos
-
-apsaugos rėmimo specialiosios programos lėšas, tvirtina asignavimus aplinkos
-
-apsaugai;
-
-5)
-
-steigia ir tvarko įstatymų nustatyta tvarka savivaldybės saugomas teritorijas,
-
-kraštovaizdžio objektus;
-
-6)
-
-pagal kompetenciją nagrinėja ir derina planuojamos veiklos objektų projektus;
-
-7) tvarko miestų ir kaimų
-
-gyvenamųjų vietovių želdynus, rengia ir tvirtina želdinių apsaugos taisykles,
-
-skelbia saugotinais vertingus dendrologiniu, ekologiniu, estetiniu, kultūriniu
-
-bei kraštovaizdžio formavimo požiūriu medžius ir krūmus, augančius valstybinėje
-
-ne miškų ūkio paskirties žemėje ir privačioje žemėje. Vyriausybės įgaliota institucija
-
-nustato kriterijus, pagal kuriuos medžiai ir krūmai priskiriami saugotiniems;
-
-8) nustato savo teritorijoje griežtesnius už
-
-valstybinius normatyvus, suderinusios su juos patvirtinusiomis valstybės
-
-institucijomis;
-
-9) pagal kompetenciją priima sprendimus ir
-
-kontroliuoja jų vykdymą;
-
-10) vykdo kitas įstatymų nustatytas funkcijas.
-
-6 straipsnio redakcija nuo
-
-2004 m. gegužės 1 d.:
-
-2 straipsnis. Įstatymo paskirtis
-
-Šis
-
-įstatymas  reguliuoja  visuomeninius  santykius aplinkosaugos  srityje,
-
-nustato pagrindines  juridinių  bei fizinių  asmenų  teises  ir  pareigas
-
-išsaugant  Lietuvos Respublikai būdingą biologinę įvairovę, ekologines
-
-sistemas bei  kraštovaizdį,  užtikrinant  sveiką  ir švarią aplinką, racionalų
-
-gamtos išteklių naudojimą Lietuvos Respublikoje, jos teritoriniuose vandenyse,
-
-kontinentiniame šelfe ir ekonominėje zonoje.
-
-Šio įstatymo
-
-pagrindu priimami kiti gamtos išteklių naudojimą bei aplinkos apsaugą
-
-reglamentuojantys įstatymai ir norminiai aktai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-3 straipsnis. Aplinkos apsaugos objektas
-
-Aplinkos  apsaugos  objektas  yra  Lietuvos  Respublikos teritorijoje esanti
-
-aplinka ir Lietuvos Respublikos jurisdikcijai priklausantys gamtos ištekliai.
-
-4 straipsnis. Aplinkos apsaugos principai
-
-Aplinkos apsauga Lietuvos Respublikoje yra visos valstybės bei kiekvieno jos
-
-gyventojo rūpestis ir pareiga.
-
-Aplinkos apsaugos valdymo politika ir praktika turi nukreipti visuomeninius bei
-
-privačius interesus aplinkos kokybei gerinti, skatinti gamtos išteklių
-
-naudotojus ieškoti būdų ir priemonių, kaip išvengti arba sumažinti neigiamą
-
-poveikį aplinkai, bei ekologizuoti gamybą.
-
-Gamtos ištekliai  turi būti  naudojami  racionaliai  ir kompleksiškai,
-
-atsižvelgiant į aplinkos išsaugojimo bei atkūrimo galimybes ir Lietuvos
-
-Respublikos gamtos bei ekonomikos ypatumus.
-
-Aplinkos apsauga  grindžiama  visapusiška,  teisinga  ir savalaike ekologine
-
-informacija.
-
-5 straipsnis. Lietuvos Respublikos Seimo kompetencija aplinkos
-
-apsaugos srityje
-
-Lietuvos
-
-Respublikos  Seimas,  formuodamas  aplinkos apsaugos valstybės politiką:
-
-1)
-
-nustato pagrindines aplinkos apsaugos ir gamtos išteklių naudojimo politikos
-
-kryptis;
-
-2)
-
-tvirtina aplinkos apsaugos strategiją;
-
-3)
-
-tvirtina valstybės biudžeto asignavimus aplinkos apsaugos priemonėms
-
-finansuoti;
-
-4)
-
-ratifikuoja ir denonsuoja svarbiausias  Lietuvos Respublikos aplinkos apsaugos
-
-bei gamtos išteklių naudojimo tarptautines sutartis;
-
-5)
-
-vykdo kitas įstatymų nustatytas funkcijas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-6 straipsnis. Valstybinio aplinkos apsaugos valdymo
-
-sistema
+aplinkos apsaugos valdymo sistema
 
 Valstybinį aplinkos apsaugos valdymą Lietuvos
 
@@ -843,9 +441,9 @@ vykdomos;
 
 2) organizuoja ir koordinuoja valstybinės svarbos
 
-aplinkos apsaugos schemų, kitų aplinkos apsaugos priemonių rengimą, taip pat rengia
+aplinkos apsaugos schemų, kitų aplinkos apsaugos priemonių rengimą, taip pat
 
-šias schemas ir priemones, numato jų įgyvendinimo (taikymo) mechanizmą,
+rengia šias schemas ir priemones, numato jų įgyvendinimo (taikymo) mechanizmą,
 
 kontroliuoja, kaip jos vykdomos (taikomos);
 
@@ -901,11 +499,13 @@ bei gausinimu, reglamentuoja augalų, gyvūnų medžioklės ir žūklės trofėj
 
 augalų ir gyvūnų rūšimis, taip pat gyvūnų laikymo nelaisvėje tvarką;
 
-8) nustato ir kontroliuoja teršalų (ir radioaktyviųjų
+8) nustato ir kontroliuoja išmetamų (išleidžiamų,
 
-medžiagų) emisijos į aplinką normas bei apskaitos tvarką, nustato leidimų
+paskleidžiamų) į aplinką teršalų (ir radioaktyviųjų medžiagų) normas bei
 
-atlikti teršalų (ir radioaktyviųjų medžiagų) emisiją išdavimo tvarką;
+apskaitos tvarką, nustato leidimų išmesti (išleisti, paskleisti) teršalus (ir
+
+radioaktyvąsias medžiagas) išdavimo tvarką;
 
 9) nustato pavojingų cheminių medžiagų ir pavojingų
 
@@ -983,9 +583,9 @@ srityje nustato kiti įstatymai bei šių institucijų nuostatai.
 
 Vietos savivaldos institucijos, organizuodamos
 
-aplinkos apsaugos įstatymų, Vyriausybės bei Aplinkos ministerijos priimtų
+aplinkos apsaugos įstatymų, Vyriausybės bei Aplinkos ministerijos priimtų norminių
 
-norminių aktų aplinkos apsaugos klausimais įgyvendinimą:
+aktų aplinkos apsaugos klausimais įgyvendinimą:
 
 1) valdo, naudoja ir saugo joms priskirtus gamtos
 
@@ -1063,6 +663,10 @@ Nr. IX-2113,
 
 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 
+Nr. X-147, 2005-03-24,
+
+Žin., 2005, Nr. 47-1558 (2005-04-12)
+
 II SKYRIUS. LIETUVOS RESPUBLIKOS PILIEČIŲ,
 
 VISUOMENINIŲ ORGANIZACIJŲ, KITŲ JURIDINIŲ IR FIZINIŲ ASMENŲ TEISĖS IR PAREIGOS
@@ -1075,9 +679,9 @@ IX-677,
 
 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
-7 straipsnis. Piliečių, visuomeninių
+7 straipsnis.
 
-organizacijų, kitų juridinių ir fizinių asmenų teisės
+Piliečių, visuomeninių organizacijų, kitų juridinių ir fizinių asmenų teisės
 
 Piliečiai, visuomeninės organizacijos, kiti juridiniai ir fiziniai
 
@@ -1111,15 +715,17 @@ apsaugos idėjas;
 
 8) Lietuvos Respublikos
 
-įstatymų nustatyta tvarka paduoti skundą (prašymą) reikalaudami nubausti
+įstatymų nustatyta tvarka paduoti skundą (prašymą) reikalaudami imtis
 
-asmenis, kaltus dėl kenksmingo poveikio aplinkai, ir pareigūnus, kurių priimti
+atitinkamų veiksmų, kad būtų išvengta ar sumažinta žala aplinkai arba atkurta
 
-sprendimai ar veiksmai (neveikimas) pažeidė piliečių, visuomeninių
+iki pradinės aplinkos būklė, bei nubausti asmenis, kaltus dėl kenksmingo
 
-organizacijų, kitų juridinių ir fizinių asmenų teises ar įstatymų saugomus
+poveikio aplinkai, ir pareigūnus, kurių priimti sprendimai ar veiksmai
 
-interesus;
+(neveikimas) pažeidė piliečių, visuomeninių organizacijų, kitų juridinių ir
+
+fizinių asmenų teises ar įstatymų saugomus interesus;
 
 9) lankytis gamtinėse
 
@@ -1143,11 +749,15 @@ IX-677,
 
 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
-8 straipsnis. Valstybės valdžios, valdymo ir kontrolės
+Nr. X-147, 2005-03-24,
 
-institucijų pareigos užtikrinant piliečių, visuomeninių organizacijų, kitų
+Žin., 2005, Nr. 47-1558 (2005-04-12)
 
-juridinių ir fizinių asmenų teises
+8 straipsnis. Valstybės
+
+valdžios, valdymo ir kontrolės institucijų pareigos užtikrinant piliečių,
+
+visuomeninių organizacijų, kitų juridinių ir fizinių asmenų teises
 
 Valstybės
 
@@ -1189,11 +799,9 @@ planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir galimo planuojamos
 
 ūkinės veiklos poveikio aplinkai;
 
-7)
+7) užtikrinti, kad būtų atlyginta padaryta žala ar neigiamas poveikis aplinkai, o neteisėta veikla
 
-užtikrinti, kad būtų atlyginta neteisėta veikla padaryta žala aplinkai, o kalti
-
-asmenys nubausti;
+padarę žalą aplinkai kalti asmenys – nubausti;
 
 8) organizuoti aplinkosauginį švietimą ir mokymą, nustatyta
 
@@ -1203,7 +811,13 @@ tvarka teikti informaciją apie aplinką;
 
 piliečius, visuomenines organizacijas, kitus juridinius ir fizinius asmenis
 
-dalyvauti priimant ir įgyvendinant sprendimus aplinkos apsaugos srityje.
+dalyvauti priimant ir įgyvendinant sprendimus aplinkos apsaugos srityje;
+
+10) nustatyta tvarka reikalauti, kad atsakingi asmenys
+
+imtųsi prevencinių, aplinkos atkūrimo ar kitų aplinkos apsaugos priemonių, taip
+
+pat kontroliuotų, kaip vykdomos šios priemonės.
 
 Straipsnio pakeitimai:
 
@@ -1211,9 +825,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093
 
-Nr.39-1093 (00.05.12)
+(00.05.12)
 
 Nr.
 
@@ -1221,9 +835,13 @@ IX-677,
 
 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
-9 straipsnis. Piliečių, visuomeninių
+Nr. X-147, 2005-03-24,
 
-organizacijų, kitų juridinių ir fizinių asmenų
+Žin., 2005, Nr. 47-1558 (2005-04-12)
+
+9 straipsnis.
+
+Piliečių, visuomeninių organizacijų, kitų juridinių ir fizinių asmenų
 
 pareigos
 
@@ -1241,11 +859,9 @@ IX-677,
 
 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
-10
+10 straipsnis. Užsienio valstybių piliečių
 
-straipsnis. Užsienio valstybių piliečių ir asmenų be pilietybės teisės ir
-
-pareigos
+ir asmenų be pilietybės teisės ir pareigos
 
 Užsienio
 
@@ -1253,17 +869,17 @@ valstybių piliečiai bei asmenys be pilietybės privalo vykdyti šio įstatymo
 
 nustatytas Lietuvos Respublikos piliečių pareigas ir turi visas šiame įstatyme
 
-įtvirtintas Lietuvos Respublikos piliečių teises, jeigu kiti Lietuvos
+įtvirtintas Lietuvos Respublikos piliečių teises, jeigu kiti Lietuvos Respublikos
 
-Respublikos įstatymai nenumato kitko.
+įstatymai nenumato kitko.
 
-III SKYRIUS. GAMTOS IŠTEKLIŲ NAUDOJIMAS IR
+III SKYRIUS. GAMTOS IŠTEKLIŲ
 
-APSKAITA
+NAUDOJIMAS IR APSKAITA
 
-11
+11 straipsnis. Gamtos išteklių naudojimo
 
-straipsnis. Gamtos išteklių naudojimo objektas
+objektas
 
 Gamtos
 
@@ -1271,9 +887,9 @@ išteklių naudojimo objektas yra Lietuvos Respublikos jurisdikcijai
 
 priklausantys gamtos ištekliai.
 
-12
+12 straipsnis. Saugomos teritorijos ir
 
-straipsnis. Saugomos teritorijos ir gamtinis karkasas
+gamtinis karkasas
 
 Saugomos
 
@@ -1321,9 +937,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-13
+13 straipsnis. Valstybinė gamtos išteklių
 
-straipsnis. Valstybinė gamtos išteklių apskaita
+apskaita
 
 Valstybinės
 
@@ -1337,9 +953,7 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-14
-
-straipsnis. Gamtos išteklių naudotojai
+14 straipsnis. Gamtos išteklių naudotojai
 
 Gamtos
 
@@ -1359,7 +973,9 @@ savo lėšomis įvertinti ūkinės veiklos galimą poveikį aplinkai;
 
 2)
 
-racionaliai ir taupiai naudoti gamtos išteklius;
+racionaliai ir taupiai naudoti gamtos išteklius, nepažeisti aplinkos apsaugos
+
+reikalavimų;
 
 3)
 
@@ -1387,11 +1003,19 @@ vykdyti teisėtus įgaliotų aplinkos apsaugos institucijų bei jų pareigūnų
 
 reikalavimus.
 
-IV SKYRIUS. ŪKINĖS VEIKLOS REGULIAVIMAS
+Straipsnio pakeitimai:
 
-15
+Nr. X-147, 2005-03-24,
 
-straipsnis. Poveikio aplinkai vertinimas
+Žin., 2005, Nr. 47-1558 (2005-04-12)
+
+IV SKYRIUS. ŪKINĖS VEIKLOS
+
+REGULIAVIMAS
+
+15 straipsnis. Poveikio aplinkai
+
+vertinimas
 
 Ūkinė
 
@@ -1437,17 +1061,17 @@ Nr. VIII-1637, 00.04.18, Žin., 2000,
 
 Nr.39-1093 (00.05.12)
 
-16
+16 straipsnis. Ūkinės veiklos, galinčios
 
-straipsnis. Ūkinės veiklos, galinčios turėti poveikio aplinkai, projektavimas
+turėti poveikio aplinkai, projektavimas
 
 Juridinių
 
 bei fizinių asmenų ūkinės veiklos, galinčios turėti poveikį aplinkai,
 
-teritorinis organizavimas ir aplinkos tvarkymo valstybinis reguliavimas
+teritorinis organizavimas ir aplinkos tvarkymo valstybinis reguliavimas vykdomas
 
-vykdomas pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
+pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
 
 Juridiniai
 
@@ -1457,9 +1081,9 @@ aplinkai, statybą, rekonstravimą ar plėtimą, rengiantys bendruosius ir
 
 specialiuosius teritorinio planavimo projektus, projektinėje dokumentacijoje
 
-privalo numatyti priemones gamtos ištekliams racionaliai naudoti, neigiamam poveikiui
+privalo numatyti priemones gamtos ištekliams racionaliai naudoti, neigiamam
 
-aplinkai išvengti.
+poveikiui aplinkai išvengti.
 
 Projektinė
 
@@ -1477,9 +1101,9 @@ Nr. VIII-1637, 00.04.18, Žin., 2000,
 
 Nr.39-1093 (00.05.12)
 
-17
+17 straipsnis. Ūkinės veiklos objektų
 
-straipsnis. Ūkinės veiklos objektų statyba, rekonstravimas ir plėtimas
+statyba, rekonstravimas ir plėtimas
 
 Juridiniai
 
@@ -1511,11 +1135,9 @@ nustatyta tvarka sustabdyti ūkinės veiklos objektų statybos, rekonstravimo ar
 
 plėtimo darbus.
 
-18
+18 straipsnis. Pastatytų, rekonstruotų ir
 
-straipsnis. Pastatytų, rekonstruotų ir išplėstų ūkinės veiklos objektų
-
-priėmimas
+išplėstų ūkinės veiklos objektų priėmimas
 
 Pastatyti,
 
@@ -1524,20 +1146,6 @@ rekonstruoti ir išplėsti ūkinės veiklos objektai priimami eksploatuoti tik
 įvykdžius visas projektinėje dokumentacijoje numatytas aplinkos apsaugos
 
 priemones.
-
-2 dalies redakcija iki 2004 m.
-
-gegužės 1 d.:
-
-Priimant
-
-pastatytus, rekonstruotus, išplėstus ūkinės veiklos objektus, dalyvauja
-
-Aplinkos apsaugos ministerijos sistemos pareigūnai arba pateikiamos jų išvados.
-
-2 dalies redakcija nuo 2004 m.
-
-gegužės 1 d.:
 
 Priimant pastatytus, rekonstruotus, išplėstus ūkinės
 
@@ -1551,39 +1159,19 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. IX-2113,
+Nr. IX-2113, 2004-04-13,
 
-2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
+Žin., 2004, Nr. 60-2121 (2004-04-24)
 
-19
+19 straipsnis. Ūkinės veiklos objektų
 
-straipsnis. Ūkinės veiklos objektų eksploatavimas
-
-1 dalies redakcija iki 2004 m.
-
-gegužės 1 d.:
-
-Juridiniai
-
-ir fiziniai asmenys, prieš pradėdami eksploatuoti ūkinės veiklos objektus,
-
-privalo Aplinkos apsaugos ministerijos nustatyta tvarka gauti gamtos išteklių
-
-naudojimo ir teršalų emisijos į aplinką leidimą (gamtos išteklių naudojimo
-
-leidimą).
-
-1 dalies redakcija nuo 2004 m.
-
-gegužės 1 d.:
+eksploatavimas
 
 Juridiniai ir fiziniai asmenys, prieš pradėdami
 
-eksploatuoti ūkinės veiklos objektus, privalo Aplinkos ministerijos nustatyta
+eksploatuoti ūkinės veiklos objektus ir vykdydami ūkinę veiklą, privalo
 
-tvarka gauti gamtos išteklių naudojimo ir teršalų emisijos į aplinką leidimą
-
-(gamtos išteklių naudojimo leidimą).
+įstatymų nustatytais atvejais ir tvarka gauti leidimą.
 
 Juridiniai
 
@@ -1601,21 +1189,19 @@ teršimo laipsnį, teršimo poveikį aplinkai, užtikrinti informacijos apie tai
 
 viešumą ir sudaryti sąlygas teršimo kontrolei.
 
-Juridiniai
+Juridiniai ir fiziniai asmenys, eksploatuodami ūkinės
 
-ir fiziniai asmenys, eksploatuodami ūkinės veiklos objektus, privalo nustatyta
+veiklos objektus, privalo nustatyta tvarka vykdyti gamtos išteklių naudojimo ir
 
-tvarka vykdyti gamtos išteklių naudojimo ir teršalų emisijos apskaitą.
+išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų apskaitą.
 
-Juridiniai
+Juridiniai ir fiziniai asmenys, eksploatuojantys
 
-ir fiziniai asmenys, eksploatuojantys ūkinės veiklos objektus, kuriems
+ūkinės veiklos objektus ar vykdantys ūkinę veiklą, kai nereikalingas leidimas,
 
-nereikalingas gamtos išteklių naudojimo ir teršalų emisijos į aplinką leidimas,
+privalo laikytis tokiems objektams bei veiklai nustatytų aplinkos apsaugos
 
-privalo laikytis tokiems objektams nustatytų aplinkos apsaugos normatyvų ir
-
-standartų.
+normatyvų ir standartų.
 
 Straipsnio pakeitimai:
 
@@ -1627,37 +1213,23 @@ Nr. IX-2113,
 
 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 
-20
+Nr. X-147, 2005-03-24,
 
-straipsnis. Pavojingų cheminių medžiagų gamyba ir naudojimas
+Žin., 2005, Nr. 47-1558 (2005-04-12)
+
+20 straipsnis. Pavojingų cheminių medžiagų
+
+gamyba ir naudojimas
 
 Juridiniai
 
 ir fiziniai asmenys, naudodami pavojingas chemines medžiagas, privalo laikytis
 
-nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo,
+nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo, nukenksminimo,
 
-nukenksminimo, transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios
+transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios medžiagos
 
-medžiagos saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo
-
-lėšomis.
-
-2 dalies redakcija iki 2004 m.
-
-gegužės 1 d.:
-
-Pavojingų
-
-cheminių medžiagų naudojimo, saugojimo, apskaitos ir leidimų išdavimo,
-
-laidojimo, nukenksminimo, tranzito, įvežimo, išvežimo tvarką nustato Aplinkos
-
-apsaugos ministerija.
-
-2 dalies redakcija nuo 2004 m.
-
-gegužės 1 d.:
+saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo lėšomis.
 
 Pavojingų cheminių medžiagų
 
@@ -1681,737 +1253,9 @@ Nr. IX-2113,
 
 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 
-10 straipsnis. Užsienio valstybių piliečių ir asmenų be
+21 straipsnis.
 
-pilietybės teisės ir pareigos
-
-Užsienio valstybių  piliečiai bei asmenys be pilietybės privalo vykdyti šio
-
-įstatymo nustatytas Lietuvos Respublikos piliečių pareigas ir turi visas šiame
-
-įstatyme įtvirtintas Lietuvos Respublikos  piliečių teises,  jeigu kiti
-
-Lietuvos Respublikos įstatymai nenumato kitko.
-
-III SKYRIUS. GAMTOS IŠTEKLIŲ NAUDOJIMAS IR APSKAITA
-
-11 straipsnis. Gamtos išteklių naudojimo objektas
-
-Gamtos išteklių naudojimo objektas yra Lietuvos Respublikos jurisdikcijai
-
-priklausantys gamtos ištekliai.
-
-12
-
-straipsnis. Saugomos teritorijos ir gamtinis karkasas
-
-Saugomos
-
-teritorijos yra:
-
-1)
-
-išsaugančios - rezervatai, draustiniai bei saugomi kraštovaizdžio objektai;
-
-2)
-
-apsaugančios - įvairios paskirties apsaugos zonos;
-
-3)
-
-gamtos išteklius atkuriančios - saugomi  gamtos išteklių sklypai;
-
-4)
-
-kompleksinės paskirties - valstybiniai (nacionaliniai ir regioniniai) parkai,
-
-biosferos monitoringo teritorijos - biosferos rezervatai ir biosferos
-
-poligonai.
-
-Gamtinio
-
-pobūdžio saugomas teritorijas ir kitas aplinkos apsaugos  požiūriu  svarbias
-
-bei  pakankamai  natūralias teritorijas, garantuojančias bendrą kraštovaizdžio
-
-stabilumą, į bendrą kraštotvarkos ekologinio kompensavimo zonų sistemą jungia
-
-gamtinis karkasas.
-
-Saugomų
-
-teritorijų apsaugą ir gamtos išteklių naudojimą jose reglamentuoja Lietuvos
-
-Respublikos saugomų teritorijų įstatymas,kiti įstatymai ir teisės aktai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-12 straipsnis.
-
-Saugomos teritorijos ir gamtinis karkasas
-
-Saugomos teritorijos
-
-yra:
-
-1)
-
-išsaugančios  - rezervatai, draustiniai  bei  saugomi
-
-kraštovaizdžio
-
-objektai;
-
-2) apsaugančios
-
-- įvairios paskirties apsaugos zonos;
-
-3)   gamtos
-
-išteklius  atkuriančios  -  saugomi   gamtos
-
-išteklių sklypai;
-
-4)  kompleksinės
-
-paskirties - valstybiniai (nacionaliniai
-
-ir  regioniniai)
-
-parkai, biosferos monitoringo  teritorijos  -
-
-biosferos rezervatai
-
-ir biosferos poligonai.
-
-Gamtinio
-
-pobūdžio saugomas teritorijas ir kitas aplinkos
-
-apsaugos
-
-požiūriu   svarbias   bei   pakankamai   natūralias
-
-teritorijas,
-
-garantuojančias bendrą kraštovaizdžio  stabilumą,
-
-į  bendrą
-
-kraštotvarkos ekologinio kompensavimo zonų  sistemą
-
-jungia gamtinis
-
-karkasas.
-
-Saugomų
-
-teritorijų apsaugą ir gamtos išteklių  naudojimą
-
-jose  reglamentuoja
-
-Lietuvos Respublikos  saugomų  teritorijų
-
-įstatymas,kiti
-
-įstatymai ir teisės aktai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. I-1352,
-
-96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-13 straipsnis. Valstybinė gamtos išteklių apskaita
-
-Valstybinės
-
-gamtos išteklių apskaitos, kadastrų tvarkymo ir  atskaitomybės  tvarką
-
-nustato  Lietuvos  Respublikos Vyriausybė.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-14 straipsnis. Gamtos išteklių naudotojai
-
-Gamtos išteklių naudotojais gali būti juridiniai ir fiziniai asmenys.
-
-Gamtos išteklių naudojimo pagrindas yra nuosavybės arba naudojimosi teisė.
-
-Gamtos išteklių naudotojai privalo:
-
-1) savo lėšomis įvertinti ūkinės veiklos galimą poveikį aplinkai;
-
-2) racionaliai ir taupiai naudoti gamtos išteklius;
-
-3) įgyvendinti  priemones, naikinančias arba mažinančias neigiamą poveikį
-
-aplinkai;
-
-4) paaiškėjus, kad aplinkai gresia pavojus, imtis priemonių, kad būtų  jo
-
-išvengta, o atsiradus žalingiems padariniams, neatidėliodami juos pašalinti ir
-
-informuoti atitinkamus aplinkos apsaugos pareigūnus bei institucijas;
-
-5) nepažeisti kitų gamtos išteklių naudotojų teisių bei teisėtų interesų;
-
-6) neteisėta veika padarę žalos aplinkai padarytąją žalą atlyginti;
-
-7) vykdyti teisėtus įgaliotų aplinkos apsaugos institucijų bei jų pareigūnų
-
-reikalavimus.
-
-IV SKYRIUS. ŪKINĖS VEIKLOS REGULIAVIMAS
-
-15
-
-straipsnis. Poveikio aplinkai vertinimas
-
-Ūkinė
-
-veikla planuojama ir vykdoma remiantis šiuo ir kitais įstatymais, norminiais
-
-aktais, aplinkos monitoringo, valstybinės gamtos išteklių apskaitos duomenimis,
-
-aplinkos apsaugos programomis bei schemomis, kraštotvarkos projektais bei
-
-generaliniais planais atsižvelgiant į Lietuvos Respublikos gamtos potencialą.
-
-Juridiniai
-
-ir fiziniai asmenys, planuojantys užsiimti ūkine veikla, savo lėšomis įstatymų
-
-nustatyta tvarka atlieka poveikio aplinkai vertinimą, parengia dokumentaciją
-
-apie tokios veiklos galimą poveikį aplinkai ir teikia ją derinimui pagal
-
-Lietuvos Respublikos Vyriausybės patvirtintą planuojamos veiklos  rūšių  ir
-
-objektų priskyrimo vietos  savivaldos institucijų ar Aplinkos apsaugos
-
-ministerijos kompetencijai sąrašą.
-
-Šio
-
-straipsnio antrojoje dalyje nurodytos institucijos įvertina pateiktą
-
-dokumentaciją apie galimą ūkinės veiklos įtaką aplinkai ir pateikia pagal savo
-
-kompetenciją išvadas arba motyvuotą sprendimą dėl veiklos galimumo. Sprendimas
-
-privalomas institucijai, išduodančiai leidimus ūkinei veiklai.
-
-Dokumentacijos
-
-apie ūkinės veiklos galimą įtaką aplinkai rengimo tvarką nustato Lietuvos
-
-Respublikos aplinkos apsaugos ministerija.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-16
-
-straipsnis. Ūkinės veiklos, galinčios turėti poveikio
-
-aplinkai, projektavimas
-
-Juridinių
-
-bei fizinių asmenų ūkinės veiklos, galinčios turėti poveikį aplinkai,
-
-teritorinis organizavimas ir aplinkos tvarkymo valstybinis reguliavimas
-
-vykdomas pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
-
-Juridiniai
-
-ir fiziniai asmenys, projektuojantys objektų, galinčių turėti poveikio
-
-aplinkai, statybą, rekonstravimą ar plėtimą, rengiantys bendruosius ir specialiuosius
-
-teritorinio planavimo projektus, projektinėje dokumentacijoje  privalo numatyti
-
-priemones gamtos ištekliams racionaliai naudoti, neigiamam poveikiui aplinkai
-
-išvengti.
-
-Projektinė
-
-dokumentacija nustatyta tvarka suderinama su vietos  savivaldos  institucijomis
-
-ir  Aplinkos  apsaugos ministerija.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-15 straipsnis.
-
-Poveikio aplinkai vertinimas
-
-Ūkinė  veikla
-
-planuojama ir vykdoma  remiantis  šiuo  ir
-
-kitais  įstatymais,
-
-norminiais aktais, aplinkos  monitoringo,
-
-valstybinės  gamtos
-
-išteklių apskaitos  duomenimis,  aplinkos
-
-apsaugos
-
-programomis bei schemomis, kraštotvarkos  projektais
-
-bei generaliniais planais
-
-atsižvelgiant į Lietuvos Respublikos
-
-gamtos potencialą.
-
-Juridiniai  ir
-
-fiziniai asmenys,  planuojantys  užsiimti
-
-ūkine  veikla, savo
-
-lėšomis įstatymų nustatyta tvarka  atlieka
-
-poveikio  aplinkai
-
-vertinimą,  parengia  dokumentaciją   apie
-
-tokios  veiklos
-
-galimą poveikį aplinkai ir teikia ją derinimui
-
-pagal Lietuvos
-
-Respublikos Vyriausybės patvirtintą planuojamos
-
-veiklos   rūšių
-
-ir  objektų  priskyrimo  vietos   savivaldos
-
-institucijų  ar
-
-Aplinkos apsaugos ministerijos  kompetencijai
-
-sąrašą.
-
-Šio
-
-straipsnio  antrojoje dalyje nurodytos  institucijos
-
-įvertina  pateiktą
-
-dokumentaciją apie galimą  ūkinės  veiklos
-
-įtaką  aplinkai  ir
-
-pateikia pagal savo kompetenciją  išvadas
-
-arba  motyvuotą
-
-sprendimą  dėl veiklos  galimumo.  Sprendimas
-
-privalomas
-
-institucijai, išduodančiai leidimus ūkinei veiklai.
-
-Dokumentacijos
-
-apie ūkinės veiklos galimą įtaką  aplinkai
-
-rengimo  tvarką
-
-nustato Lietuvos Respublikos aplinkos apsaugos
-
-ministerija.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. I-1352,
-
-96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-16 straipsnis.
-
-Ūkinės veiklos, galinčios turėti poveikio
-
-aplinkai, projektavimas
-
-Juridinių  bei
-
-fizinių asmenų ūkinės veiklos,  galinčios
-
-turėti poveikį
-
-aplinkai, teritorinis organizavimas ir aplinkos
-
-tvarkymo
-
-valstybinis reguliavimas vykdomas pagal bendrojo  ir
-
-specialiojo
-
-teritorinio planavimo dokumentus.
-
-Juridiniai ir
-
-fiziniai asmenys, projektuojantys  objektų,
-
-galinčių  turėti
-
-poveikio aplinkai, statybą, rekonstravimą  ar
-
-plėtimą,  rengiantys
-
-bendruosius ir specialiuosius teritorinio
-
-planavimo
-
-projektus,  projektinėje  dokumentacijoje   privalo
-
-numatyti  priemones
-
-gamtos  ištekliams  racionaliai  naudoti,
-
-neigiamam poveikiui
-
-aplinkai išvengti.
-
-Projektinė
-
-dokumentacija nustatyta tvarka suderinama  su
-
-vietos
-
-savivaldos   institucijomis  ir   Aplinkos   apsaugos
-
-ministerija.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. I-1352,
-
-96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-17 straipsnis. Ūkinės veiklos objektų statyba, rekonstravimas
-
-ir plėtimas
-
-Juridiniai ir fiziniai asmenys gali statyti, rekonstruoti ar plėsti ūkinės
-
-veiklos objektus tik turėdami šio įstatymo 16 straipsnio reikalavimus
-
-atitinkančią projektinę dokumentaciją.
-
-Ūkinės veiklos objektų statyba, rekonstravimas ar plėtimas be projektinės
-
-dokumentacijos,  numatytos  šio  įstatymo  16 straipsnyje, arba nesilaikant
-
-joje nustatytų aplinkos apsaugos reikalavimų, pažeidžiant statybos,
-
-rekonstravimo ar plėtimo darbų aplinkosauginius  apribojimus  užtraukia
-
-įstatymų  numatytą atsakomybę.
-
-Atsakomybės taikymas  neužkerta kelio  šio  įstatymo  6 straipsnyje nurodytoms
-
-valstybinio aplinkos apsaugos valdymo ir kontrolės institucijoms arba jų
-
-pareigūnams nustatyta tvarka sustabdyti ūkinės veiklos objektų statybos,
-
-rekonstravimo ar plėtimo darbus.
-
-18
-
-straipsnis. Pastatytų, rekonstruotų ir išplėstų ūkinės
-
-veiklos objektų priėmimas
-
-Pastatyti, rekonstruoti ir išplėsti ūkinės veiklos objektai priimami
-
-eksploatuoti  tik  įvykdžius  visas  projektinėje dokumentacijoje numatytas aplinkos
-
-apsaugos priemones.
-
-Priimant
-
-pastatytus,  rekonstruotus,  išplėstus  ūkinės veiklos objektus, dalyvauja
-
-Aplinkos  apsaugos  ministerijos sistemos pareigūnai arba pateikiamos jų
-
-išvados.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-19
-
-straipsnis. Ūkinės veiklos objektų eksploatavimas
-
-Juridiniai
-
-ir  fiziniai  asmenys,  prieš  pradėdami eksploatuoti  ūkinės veiklos
-
-objektus,  privalo  Aplinkos apsaugos ministerijos nustatyta tvarka gauti
-
-gamtos išteklių naudojimo ir teršalų emisijos į aplinką leidimą (gamtos
-
-išteklių naudojimo leidimą).
-
-Juridiniai
-
-ir fiziniai asmenys ūkinės veiklos objektus eksploatuoja pagal leidime
-
-nustatytas sąlygas ir neviršydami aplinkos apsaugos normatyvų bei standartų.
-
-Juridiniai
-
-ir fiziniai asmenys, eksploatuodami ūkinės veiklos objektus, kurių veikla
-
-susijusi su kenksmingu poveikiu aplinkai, privalo savo lėšomis stebėti
-
-aplinkos  teršimo laipsnį, teršimo poveikį aplinkai, užtikrinti informacijos
-
-apie tai viešumą ir sudaryti sąlygas teršimo kontrolei.
-
-Juridiniai
-
-ir fiziniai asmenys, eksploatuodami ūkinės veiklos objektus, privalo nustatyta
-
-tvarka vykdyti gamtos išteklių naudojimo ir teršalų emisijos apskaitą.
-
-Juridiniai
-
-ir fiziniai asmenys, eksploatuojantys ūkinės veiklos  objektus, kuriems
-
-nereikalingas gamtos  išteklių naudojimo ir teršalų emisijos į aplinką
-
-leidimas, privalo laikytis  tokiems  objektams nustatytų aplinkos  apsaugos
-
-normatyvų ir standartų.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-18 straipsnis.
-
-Pastatytų, rekonstruotų ir išplėstų ūkinės
-
-veiklos objektų priėmimas
-
-Pastatyti,
-
-rekonstruoti  ir išplėsti  ūkinės veiklos objektai
-
-priimami   eksploatuoti
-
-tik   įvykdžius   visas   projektinėje
-
-dokumentacijoje
-
-numatytas aplinkos apsaugos priemones.
-
-Priimant
-
-pastatytus,   rekonstruotus,   išplėstus   ūkinės
-
-veiklos  objektus,
-
-dalyvauja  Aplinkos   apsaugos   ministerijos
-
-sistemos pareigūnai
-
-arba pateikiamos jų išvados.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. I-1352,
-
-96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-19 straipsnis.
-
-Ūkinės veiklos objektų eksploatavimas
-
-Juridiniai
-
-ir   fiziniai   asmenys,   prieš   pradėdami
-
-eksploatuoti
-
-ūkinės  veiklos  objektus,   privalo   Aplinkos
-
-apsaugos
-
-ministerijos nustatyta tvarka gauti gamtos  išteklių
-
-naudojimo  ir
-
-teršalų  emisijos  į  aplinką  leidimą  (gamtos
-
-išteklių naudojimo
-
-leidimą).
-
-Juridiniai  ir
-
-fiziniai asmenys ūkinės veiklos  objektus
-
-eksploatuoja  pagal
-
-leidime nustatytas sąlygas ir  neviršydami
-
-aplinkos apsaugos
-
-normatyvų bei standartų.
-
-Juridiniai  ir
-
-fiziniai asmenys,  eksploatuodami  ūkinės
-
-veiklos objektus,
-
-kurių veikla susijusi su kenksmingu poveikiu
-
-aplinkai,  privalo  savo
-
-lėšomis  stebėti  aplinkos   teršimo
-
-laipsnį,  teršimo
-
-poveikį aplinkai,  užtikrinti  informacijos
-
-apie tai viešumą ir
-
-sudaryti sąlygas teršimo kontrolei.
-
-Juridiniai  ir
-
-fiziniai asmenys,  eksploatuodami  ūkinės
-
-veiklos  objektus,
-
-privalo nustatyta  tvarka  vykdyti  gamtos
-
-išteklių naudojimo
-
-ir teršalų emisijos apskaitą.
-
-Juridiniai  ir
-
-fiziniai asmenys, eksploatuojantys  ūkinės
-
-veiklos   objektus,
-
-kuriems  nereikalingas  gamtos   išteklių
-
-naudojimo  ir
-
-teršalų  emisijos į aplinką  leidimas,  privalo
-
-laikytis   tokiems
-
-objektams  nustatytų  aplinkos   apsaugos
-
-normatyvų ir
-
-standartų.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. I-1352,
-
-96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-20 straipsnis. Pavojingų cheminių medžiagų gamyba ir  naudojimas
-
-Juridiniai
-
-ir fiziniai asmenys, naudodami pavojingas chemines medžiagas, privalo laikytis
-
-nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo,
-
-nukenksminimo, transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios
-
-medžiagos saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo
-
-lėšomis.
-
-Pavojingų
-
-cheminių  medžiagų  naudojimo,  saugojimo, apskaitos  ir leidimų išdavimo,
-
-laidojimo, nukenksminimo, tranzito, įvežimo, išvežimo tvarką nustato Aplinkos
-
-apsaugos ministerija.
-
-Lietuvos
-
-Respublikoje draudžiama cheminio ginklo gamyba, dislokavimas, tranzitas ir
-
-įvežimas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-21 straipsnis. Radioaktyviųjų medžiagų gamyba ir
-
-naudojimas
+Radioaktyviųjų medžiagų gamyba ir naudojimas
 
 Radioaktyviųjų
 
@@ -2443,25 +1287,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-22
+22 straipsnis. Biologiniai taršos
 
-straipsnis. Biologiniai taršos šaltiniai
-
-1 dalies redakcija iki 2004 m.
-
-gegužės 1 d.:
-
-Potencialių
-
-biologinių taršos šaltinių naudojimo, saugojimo, apskaitos, kūrimo, dauginimo,
-
-nukenksminimo, tranzito, įvežimo, išvežimo tvarką bei normatyvus nustato
-
-Aplinkos apsaugos ministerija kartu su Sveikatos apsaugos ministerija.
-
-1 dalies redakcija nuo 2004 m.
-
-gegužės 1 d.:
+šaltiniai
 
 Potencialių biologinių taršos šaltinių naudojimo,
 
@@ -2487,9 +1315,11 @@ Nr. IX-2113,
 
 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 
-22(1) straipsnis.
+22(1)
 
-Genetiškai modifikuoti organizmai ir genetiškai modifikuoti produktai
+straipsnis. Genetiškai modifikuoti organizmai ir genetiškai modifikuoti
+
+produktai
 
 Veiklą, susijusią su genetiškai modifikuotais
 
@@ -2509,45 +1339,9 @@ IX-677,
 
 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
-22 straipsnis.
+23 straipsnis. Atliekų
 
-Biologiniai taršos šaltiniai
-
-Potencialių
-
-biologinių   taršos   šaltinių   naudojimo,
-
-saugojimo,
-
-apskaitos,   kūrimo,  dauginimo,   nukenksminimo,
-
-tranzito,  įvežimo,
-
-išvežimo tvarką  bei  normatyvus  nustato
-
-Aplinkos  apsaugos
-
-ministerija kartu  su  Sveikatos  apsaugos
-
-ministerija.
-
-Lietuvos
-
-Respublikoje  draudžiama   biologinio   ginklo
-
-gamyba,
-
-dislokavimas, tranzitas ir įvežimas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. I-1352,
-
-96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-23 straipsnis. Atliekų tvarkymas
+tvarkymas
 
 Asmenys privalo laikytis Lietuvos Respublikos įstatymų
 
@@ -2567,123 +1361,7 @@ IX-677,
 
 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
-24
-
-straipsnis. Ypatingosios ekologinės situacijos
-
-Ypatingoji
-
-ekologinė situacija - pavojinga aplinkos būklė, kai dėl ūkinės veiklos,
-
-avarijos ar kitokio įvykio bei gamtinių priežasčių labai ir (ar) nuolat
-
-viršijami aplinkos kokybės normatyvai, degraduoja aplinka.
-
-Vietovės,
-
-kuriose susidarė ypatingoji ekologinė situacija,skelbiamos ekologinio pavojaus
-
-arba ekologinės nelaimės zonomis.
-
-3 dalies redakcija iki 2004 m.
-
-gegužės 1 d.:
-
-Vietovę,
-
-kurioje labai viršijami aplinkos kokybės normatyvai, pavojingai degraduoja
-
-aplinka, Aplinkos apsaugos ministerija skelbia ekologinio pavojaus zona.
-
-3 dalies redakcija nuo 2004 m.
-
-gegužės 1 d.:
-
-Vietovę, kurioje labai viršijami aplinkos kokybės
-
-normatyvai, pavojingai degraduoja aplinka, Aplinkos ministerija skelbia
-
-ekologinio pavojaus zona.
-
-4 dalies redakcija iki 2004 m.
-
-gegužės 1 d.:
-
-Vietovę,
-
-kurioje dėl ūkinės veiklos, avarijos, kitokio poveikio ar gamtinių priežasčių
-
-negrįžtamai degradavo aplinka ir ji nebetinka žmonėms gyventi, Aplinkos
-
-apsaugos ministerijos teikimu Lietuvos Respublikos Vyriausybė skelbia
-
-ekologinės nelaimės zona.
-
-4 dalies redakcija nuo 2004 m.
-
-gegužės 1 d.:
-
-Vietovę, kurioje dėl ūkinės veiklos, avarijos, kitokio
-
-poveikio ar gamtinių priežasčių negrįžtamai degradavo aplinka ir ji nebetinka
-
-žmonėms gyventi, Aplinkos ministerijos teikimu Lietuvos Respublikos Vyriausybė
-
-skelbia ekologinės nelaimės zona.
-
-Vietovė,
-
-kuri paskelbiama ekologinės nelaimės zona, žymima specialiais ženklais.
-
-6 dalies redakcija iki 2004 m.
-
-gegužės 1 d.:
-
-Ekologinio
-
-pavojaus ir ekologinės nelaimės zonose sustabdoma, ribojama arba uždraudžiama
-
-neigiamos įtakos aplinkai ir žmonių sveikatai turinti veikla. Ekologinio
-
-pavojaus zonos režimą nustato Aplinkos apsaugos ministerija, o ekologinės
-
-nelaimės zonos režimą - Lietuvos Respublikos Vyriausybė.
-
-6 dalies redakcija nuo 2004 m.
-
-gegužės 1 d.:
-
-Ekologinio pavojaus ir ekologinės nelaimės zonose
-
-sustabdoma, ribojama arba uždraudžiama neigiamos įtakos aplinkai ir žmonių
-
-sveikatai turinti veikla. Ekologinio pavojaus zonos režimą nustato Aplinkos
-
-ministerija, o ekologinės nelaimės zonos režimą – Lietuvos Respublikos
-
-Vyriausybė.
-
-Ypatingųjų
-
-ekologinių situacijų metu juridiniai ir fiziniai asmenys šalina priežastis,
-
-likviduoja padarinius, vykdo kitas nustatyto režimo priemones.
-
-Lietuvos
-
-Respublikos Vyriausybė, apskrities viršininkas ar vietos savivaldos
-
-institucijos turi teisę pasitelkti specialiąsias tarnybas, organizacijas bei
-
-gyventojus ekologinių nelaimių priežastims ir padariniams likviduoti, priimti
-
-sprendimus dėl gyventojų evakuacijos.
-
-Ekologinių
-
-nelaimių likvidavimo išlaidas atlygina kalti juridiniai ir fiziniai asmenys, o
-
-kitais atvejais - valstybė.
+24 straipsnis. Neteko galios nuo 2005 m. balandžio 12 d.
 
 Straipsnio pakeitimai:
 
@@ -2699,31 +1377,17 @@ Nr. IX-2113,
 
 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 
+Nr. X-147, 2005-03-24,
+
+Žin., 2005, Nr. 47-1558 (2005-04-12)
+
 V SKYRIUS. APLINKOS BŪKLĖS STEBĖJIMO IR NEIGIAMO
 
 POVEIKIO APLINKAI RIBOJIMO SISTEMA
 
-25
+25 straipsnis. Aplinkos būklės stebėjimo
 
-straipsnis. Aplinkos būklės stebėjimo sistema
-
-1 dalies redakcija iki 2004 m.
-
-gegužės 1 d.:
-
-Aplinkai
-
-ir jos komponentų būklei stebėti Lietuvos Respublikoje sudaroma vieninga
-
-aplinkos monitoringo sistema, apimanti valstybinį ir ūkio subjektų aplinkos
-
-monitoringą. Aplinkos apsaugos ministerija vykdo aplinkos monitoringą ir
-
-koordinuoja ūkio subjektų vykdomą aplinkos monitoringą.
-
-1 dalies redakcija nuo 2004 m.
-
-gegužės 1 d.:
+sistema
 
 Aplinkai ir jos komponentų būklei stebėti Lietuvos
 
@@ -2755,27 +1419,29 @@ Nr. IX-2113,
 
 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 
-26
+26 straipsnis. Neigiamo poveikio aplinkai
 
-straipsnis. Neigiamo poveikio aplinkai ribojimo sistema
+ribojimo sistema
 
 Neigiamas
 
-ūkinės veiklos poveikis aplinkai ribojamas aplinkos apsaugos normatyvais, standartais,
+ūkinės veiklos poveikis aplinkai ribojamas aplinkos apsaugos normatyvais,
 
-limitais, teisinėmis ir ekonominio reguliavimo priemonėmis.
+standartais, limitais, teisinėmis ir ekonominio reguliavimo priemonėmis.
 
-Lietuvos
+Lietuvos Respublikoje nustatomi cheminių, biologinių, fizikinių
 
-Respublikoje nustatomi teršalų koncentracijos aplinkoje bei atskiruose aplinkos
+teršalų koncentracijų ribinių verčių aplinkoje bei atskiruose aplinkos
 
-komponentuose, teršalų emisijos į aplinką, cheminių ir kitokių aplinkai
+komponentuose, išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų,
 
-pavojingų medžiagų naudojimo, gamtos išteklių naudojimo, triukšmo, vibracijos,
+cheminių ir kitokių aplinkai pavojingų medžiagų naudojimo, gamtos išteklių
 
-elektromagnetinių laukų ir kitokio poveikio, radiacinio saugumo, bendrosios
+naudojimo, triukšmo, vibracijos, elektromagnetinių laukų ir kitokio poveikio,
 
-antropogeninės apkrovos ir kiti aplinkos apsaugos normatyvai.
+radiacinio saugumo, bendrosios antropogeninės apkrovos ir kiti aplinkos
+
+apsaugos normatyvai.
 
 Diegiant naujas technologijas, naujus gaminius ar
 
@@ -2793,215 +1459,53 @@ Nr. VIII-1637, 00.04.18, Žin., 2000,
 
 Nr.39-1093 (00.05.12)
 
-27
+Nr. X-147, 2005-03-24,
 
-straipsnis. Neteko galios nuo 2000 m. gegužės 12 d.
+Žin., 2005, Nr. 47-1558 (2005-04-12)
 
-Įstatymas
+28 straipsnis. Aplinkos apsaugos
 
-papildomas 27 straipsniu nuo 2004 m. liepos 21 d.:
+ekonominės priemonės
 
-24 straipsnis. Ypatingosios ekologinės situacijos
+Ekologiniai
 
-Ypatingoji
+ir ekonominiai valstybės interesai derinami taikant Lietuvos Respublikos
 
-ekologinė situacija - pavojinga  aplinkos būklė, kai dėl ūkinės veiklos,
+įstatymuose bei kituose teisės aktuose įtvirtintą ekonominį aplinkos apsaugos
 
-avarijos ar kitokio įvykio bei gamtinių priežasčių labai ir (ar) nuolat
+mechanizmą. Jį sudaro:
 
-viršijami aplinkos kokybės normatyvai, degraduoja aplinka.
+1)
 
-Vietovės,
+mokesčiai už gamtos išteklių naudojimą;
 
-kuriose  susidarė  ypatingoji  ekologinė situacija,skelbiamos ekologinio
+2)
 
-pavojaus  arba  ekologinės nelaimės zonomis.
+mokesčiai už aplinkos teršimą;
 
-Vietovę,
+3)
 
-kurioje  labai viršijami aplinkos  kokybės normatyvai, pavojingai degraduoja
+kreditavimo reguliavimas;
 
-aplinka, Aplinkos apsaugos ministerija skelbia ekologinio pavojaus zona.
+4)
 
-Vietovę,
+valstybės subsidijos;
 
-kurioje dėl ūkinės veiklos, avarijos, kitokio poveikio ar gamtinių priežasčių
+5)
 
-negrįžtamai degradavo aplinka ir  ji  nebetinka  žmonėms  gyventi,  Aplinkos
+kainų politika;
 
-apsaugos ministerijos teikimu Lietuvos Respublikos Vyriausybė skelbia
+6)
 
-ekologinės nelaimės zona.
+ekonominės sankcijos ir nuostolių kompensavimas;
 
-Vietovė,
+7)
 
-kuri paskelbiama ekologinės nelaimės  zona, žymima specialiais ženklais.
+kiti ekologiniai mokesčiai ir priemonės.
 
-Ekologinio
+29 straipsnis. Aplinkos
 
-pavojaus ir ekologinės  nelaimės  zonose sustabdoma,  ribojama arba
-
-uždraudžiama neigiamos  įtakos aplinkai  ir žmonių sveikatai turinti veikla.
-
-Ekologinio pavojaus zonos režimą nustato Aplinkos apsaugos ministerija, o
-
-ekologinės  nelaimės zonos režimą - Lietuvos Respublikos Vyriausybė.
-
-Ypatingųjų
-
-ekologinių situacijų metu juridiniai  ir fiziniai asmenys šalina priežastis,
-
-likviduoja padarinius, vykdo kitas nustatyto režimo priemones.
-
-Lietuvos
-
-Respublikos Vyriausybė, apskrities viršininkas ar vietos savivaldos
-
-institucijos turi teisę pasitelkti specialiąsias tarnybas, organizacijas bei
-
-gyventojus ekologinių nelaimių priežastims ir padariniams likviduoti, priimti sprendimus
-
-dėl gyventojų evakuacijos.
-
-Ekologinių
-
-nelaimių likvidavimo išlaidas atlygina kalti juridiniai ir fiziniai asmenys, o
-
-kitais atvejais - valstybė.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-Nr.
-
-VIII-310, 97.06.26, Žin., 1997, Nr.65-1540 (97.07.09)
-
-V SKYRIUS. APLINKOS BŪKLĖS STEBĖJIMO IR NEIGIAMO
-
-POVEIKIO APLINKAI RIBOJIMO SISTEMA
-
-25 straipsnis. Aplinkos būklės stebėjimo sistema
-
-Aplinkai
-
-ir jos komponentų būklei stebėti Lietuvos Respublikoje sudaroma vieninga
-
-aplinkos monitoringo sistema, apimanti valstybinį ir ūkio subjektų aplinkos
-
-monitoringą. Aplinkos apsaugos ministerija vykdo aplinkos monitoringą ir
-
-koordinuoja ūkio subjektų vykdomą aplinkos monitoringą.
-
-Valstybinis
-
-aplinkos monitoringas  finansuojamas  iš valstybės lėšų.Ūkio subjektai aplinkos
-
-monitoringą vykdo savo lėšomis.
-
-Valstybinio
-
-ir ūkio subjektų aplinkos monitoringo turinį, struktūrą bei vykdymo tvarką
-
-nustato Aplinkos monitoringo įstatymas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-26 straipsnis. Neigiamo poveikio aplinkai ribojimo sistema
-
-Neigiamas
-
-ūkinės veiklos poveikis aplinkai ribojamas aplinkos  apsaugos  normatyvais,
-
-standartais,  limitais, teisinėmis ir ekonominio reguliavimo priemonėmis.
-
-Lietuvos
-
-Respublikoje nustatomi teršalų koncentracijos aplinkoje bei atskiruose aplinkos
-
-komponentuose,  teršalų emisijos į aplinką, cheminių ir kitokių aplinkai
-
-pavojingų medžiagų  naudojimo, gamtos išteklių naudojimo, triukšmo, vibracijos,
-
-elektromagnetinių laukų ir kitokio  poveikio, radiacinio saugumo, bendrosios
-
-antropogeninės apkrovos ir kiti aplinkos apsaugos normatyvai.
-
-Prieš
-
-naujos technologijos, gaminio ar medžiagos kūrimą, gamybos pradžią ir įdiegimą
-
-būtina atlikti poveikio aplinkai vertinimą.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-27
-
-straipsnis. Poveikio aplinkai vertinimo valstybinė ekspertizė
-
-Poveikio
-
-aplinkai  vertinimo  valstybinę  ekspertizę nustatyta tvarka organizuoja
-
-Aplinkos apsaugos ministerija.
-
-Poveikio
-
-aplinkai vertinimo valstybinės  ekspertizės išvados  yra privalomos visiems
-
-juridiniams ir fiziniams asmenims.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-VI SKYRIUS. EKONOMINIS APLINKOS APSAUGOS MECHANIZMAS
-
-28 straipsnis. Aplinkos apsaugos ekonominės priemonės
-
-Ekologiniai  ir ekonominiai valstybės interesai derinami taikant  Lietuvos
-
-Respublikos įstatymuose bei kituose teisės aktuose įtvirtintą ekonominį
-
-aplinkos apsaugos mechanizmą. Jį sudaro:
-
-1) mokesčiai už gamtos išteklių naudojimą;
-
-2) mokesčiai už aplinkos teršimą;
-
-3) kreditavimo reguliavimas;
-
-4) valstybės subsidijos;
-
-5) kainų politika;
-
-6) ekonominės sankcijos ir nuostolių kompensavimas;
-
-7) kiti ekologiniai mokesčiai ir priemonės.
-
-29 straipsnis. Aplinkos apsaugos ekonominių priemonių
-
-įgyvendinimo būdai
+apsaugos ekonominių priemonių įgyvendinimo būdai
 
 Mažaatliekių
 
@@ -3009,9 +1513,9 @@ technologijų diegimas, ekologiškos produkcijos gamyba skatinami mažinant
 
 mokesčius, teikiant kreditavimo lengvatas bei valstybės subsidijas.
 
-30 straipsnis. Aplinkos apsaugos priemonių valstybinis
+30 straipsnis. Aplinkos
 
-finansavimas
+apsaugos priemonių valstybinis finansavimas
 
 Aplinkos
 
@@ -3055,9 +1559,9 @@ IX-1610,
 
 2003-06-10, Žin., 2003, Nr. 61-2763 (2003-06-27)
 
-VII SKYRIUS. APLINKOS APSAUGOS VALSTYBINĖ KONTROLĖ
+VII SKYRIUS. APLINKOS APSAUGOS
 
-IR
+VALSTYBINĖ KONTROLĖ IR
 
 TEISINĖ ATSAKOMYBĖ
 
@@ -3067,25 +1571,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-31
+31 straipsnis. Valstybinė aplinkos
 
-straipsnis. Valstybinė aplinkos apsaugos kontrolė
-
-1 dalies redakcija iki 2004 m.
-
-gegužės 1 d.:
-
-Lietuvos
-
-Respublikoje valstybinę aplinkos apsaugos ir gamtos išteklių naudojimo kontrolę
-
-vykdo Aplinkos apsaugos ministerijos sistemos pareigūnai - valstybiniai
-
-aplinkos apsaugos inspektoriai.
-
-1 dalies redakcija nuo 2004 m.
-
-gegužės 1 d.:
+apsaugos kontrolė
 
 Lietuvos Respublikoje valstybinę aplinkos apsaugos ir
 
@@ -3117,9 +1605,11 @@ objektus, kad vykdytų juose valstybinę aplinkos apsaugos ir gamtos išteklių
 
 naudojimo kontrolę ir atliktų kontrolinius tyrimus bei matavimus;
 
-3)
+3) Valstybinės
 
-surašyti protokolus, aktus ir kitokius nustatytos formos dokumentus;
+aplinkos apsaugos kontrolės įstatymo ir kitų įstatymų nustatytais atvejais ir tvarka duoti privalomus
+
+nurodymus, surašyti protokolus, aktus ir kitokius nustatytos formos dokumentus;
 
 4)
 
@@ -3143,11 +1633,11 @@ tarptautiniuose vandenyse esančiuose Lietuvos Respublikos laivuose;
 
 kad būtų užkirstas kelias aplinkos apsaugos įstatymų pažeidimams, už kuriuos
 
-numatyta administracinė ar baudžiamoji atsakomybė, sustabdyti ir apžiūrėti
+numatyta administracinė ar baudžiamoji atsakomybė, sustabdyti ir apžiūrėti įtariamų
 
-įtariamų asmenų transporto priemones, nustatyta tvarka atlikti asmens apžiūrą
+asmenų transporto priemones, nustatyta tvarka atlikti asmens apžiūrą ir daiktų
 
-ir daiktų patikrinimą, paimti daiktus ir dokumentus, apžiūrėti įvykio vietą;
+patikrinimą, paimti daiktus ir dokumentus, apžiūrėti įvykio vietą;
 
 7)
 
@@ -3175,22 +1665,6 @@ tarnybinius šunis, transporto priverstinio stabdymo priemones;
 
 dėvėti nustatyto pavyzdžio uniformą.
 
-3 dalies redakcija iki 2004 m.
-
-gegužės 1 d.:
-
-Aplinkos
-
-apsaugos ministerija, vykdydama valstybinę aplinkos apsaugos ir gamtos išteklių
-
-naudojimo kontrolę, steigia neetatinių aplinkos apsaugos inspektorių
-
-institucijas, tvirtina jų nuostatus.
-
-3 dalies redakcija nuo 2004 m.
-
-gegužės 1 d.:
-
 Aplinkos ministerija, vykdydama valstybinę aplinkos
 
 apsaugos ir gamtos išteklių naudojimo kontrolę, steigia neetatinių aplinkos
@@ -3207,19 +1681,85 @@ Nr. IX-2113,
 
 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 
-32
+Nr. X-147, 2005-03-24,
 
-straipsnis. Neteisėta veika padarytos žalos aplinkai atlyginimo būdai
+Žin., 2005, Nr. 47-1558 (2005-04-12)
 
-Juridiniai
+32 straipsnis. Žala
 
-ir fiziniai asmenys, neteisėta veika padarę žalos aplinkai, žmonių sveikatai ir
+aplinkai ir aplinkos būklės atkūrimas
 
-gyvybei, kitų juridinių ir fizinių asmenų turtui bei interesams, privalo
+Pripažįstama, kad žala aplinkai padaryta, jeigu yra
 
-atlyginti visus nuostolius ir, esant galimybei, atstatyti aplinkos objekto
+tiesioginis ar netiesioginis neigiamas poveikis:
 
-būklę.
+1) palaikomai ar siekiamai išlaikyti rūšių ar buveinių tinkamai
+
+apsaugos būklei, taip pat biologinės įvairovės, miškų, kraštovaizdžio, saugomų
+
+teritorijų būklei;
+
+2) paviršinio ir požeminio vandens ekologinei, cheminei, mikrobinei ir
+
+(arba) kiekybinei būklei ir (arba) ekologiniam pajėgumui (potencialui), kaip
+
+tai apibūdinta Lietuvos Respublikos vandens įstatyme;
+
+3) žemei, tai
+
+yra žemės užteršimas, kai teršalai pasklinda žemės paviršiuje, įterpiami į žemę
+
+ar po ja (į žemės gelmes);
+
+4) kitiems aplinkos elementams (jų funkcijoms), kai
+
+pažeidžiami aplinkos apsaugos reikalavimai.
+
+Gamtos išteklių
+
+naudotojai bei asmenys, vykdantys ūkinę veiklą, (toliau – ūkio subjektai)
+
+privalo imtis visų būtinų priemonių, kad būtų išvengta žalos aplinkai, žmonių
+
+sveikatai ir gyvybei, kitų asmenų turtui bei interesams, o padariusieji žalos
+
+privalo atkurti aplinkos būklę, esant galimybei, iki pirminės būklės, buvusios
+
+iki žalos aplinkai atsiradimo, ir atlyginti visus nuostolius. Pirminė būklė
+
+nustatoma pagal turimą informaciją apie geriausią aplinkos būklę.
+
+Aplinkos būklė atkuriama atgaivinant pažeistą aplinką ar jos elementus
+
+arba jų pažeistas funkcijas. Padarius žalą žemei (jos paviršiui ar gelmėms),
+
+kaip aplinkos elementams, būtina pašalinti bet kokį neigiamo poveikio žmonių
+
+sveikatai pavojų.
+
+Žala aplinkai vertinama ir apskaičiuojama
+
+pagal aplinkos ministro patvirtintą metodiką, įvertinant pirminę būklę
+
+(sąlygas), neigiamo poveikio aplinkai reikšmingumą, natūralaus aplinkos
+
+atsikūrimo galimybes ir laiką, tačiau nevertinamas anksčiau, tai yra iki žalos
+
+aplinkai atsiradimo, nustatytas neigiamas poveikis, atsiradęs dėl konkrečios
+
+ūkinės veiklos, kurią nustatyta tvarka leidžia vykdyti įgaliotos institucijos
+
+ir kuri vykdoma nepažeidžiant aplinkos apsaugos reikalavimų.
+
+Ūkinės
+
+veiklos, kurią nustatyta tvarka leidžia vykdyti įgaliotos institucijos ir kuri
+
+vykdoma nepažeidžiant aplinkos apsaugos reikalavimų, neigiamą poveikį aplinkai
+
+ūkio subjektai atlygina (kompensuoja) vykdydami šiame ir kituose įstatymuose
+
+nustatytuosius aplinkos apsaugos bei kitus reikalavimus.
 
 Straipsnio pakeitimai:
 
@@ -3227,37 +1767,185 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-33
+Nr. X-147, 2005-03-24,
 
-straipsnis. Ieškiniai dėl neteisėta veika padarytos žalos atlyginimo
+Žin., 2005, Nr. 47-1558 (2005-04-12)
 
-Pareikšti
+32(1)
 
-ieškinius dėl neteisėta veika padarytos žalos turi teisę:
+straipsnis. Prevencinių ir aplinkos atkūrimo priemonių taikymas
 
-1)
+Esant realiai grėsmei, kad gali atsirasti žala
 
-juridiniai ir fiziniai asmenys, kurių sveikatai, turtui ar interesams padaryta
+aplinkai, ūkio subjektas privalo nedelsdamas imtis visų būtinų prevencinių
 
-žalos;
+priemonių. Jeigu reali žalos aplinkai grėsmė nepašalinama, nepaisant ūkio
 
-2 punkto redakcija iki 2004 m.
+subjekto taikytų prevencinių priemonių, ūkio subjektas nedelsdamas privalo apie
 
-gegužės 1 d.:
+tai informuoti Aplinkos ministeriją arba jos įgaliotą instituciją.
 
-2)
+Jeigu žala aplinkai atsirado, ūkio subjektas privalo
 
-Lietuvos Respublikos aplinkos apsaugos ministerijos pareigūnai, kiti įstatymų
+nedelsdamas apie tai informuoti Aplinkos ministeriją ar jos įgaliotą
 
-įgalioti pareigūnai, kai padaryta žalos valstybės interesams.
+instituciją ir imtis:
 
-2 punkto redakcija nuo 2004 m.
+1) visų būtinų veiksmų, užtikrinančių teršalų ir
 
-gegužės 1 d.:
+(arba) kitų žalingų veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį
+
+valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai ir neigiamo poveikio
+
+žmonių sveikatai ar tolesnio jų pablogėjimo;
+
+2) būtinų aplinkos atkūrimo priemonių pagal šio
+
+straipsnio penktosios dalies nuostatas.
+
+Aplinkos ministerija arba jos įgaliota institucija bet
+
+kuriuo momentu turi teisę ir pareigą:
+
+1) reikalauti, kad ūkio subjektas pateiktų visą
+
+informaciją apie bet kurią situaciją, kurios metu atsirado žala aplinkai arba
+
+jos grėsmė arba kai įtariama, kad tokia situacija gali atsirasti;
+
+2) reikalauti, kad ūkio subjektas imtųsi būtinų
+
+prevencinių ir (arba) aplinkos atkūrimo priemonių;
+
+3) reikalauti iš ūkio subjekto imtis arba duoti
+
+atitinkamam subjektui nurodymus dėl visų veiksmų, susijusių su teršalų
+
+surinkimu ir (arba) kitokių darančių žalą aplinkai veiksnių pašalinimu,
+
+kontrole ar kitokiu jų valdymu, kad būtų išvengta žalos arba sumažinta žala
+
+aplinkai ir neigiamas poveikis žmonių sveikatai;
+
+4) duoti ūkio subjektui privalomus vykdyti nurodymus
+
+dėl prevencinių ir (arba) aplinkos atkūrimo priemonių taikymo;
+
+5) pati imtis būtinų prevencinių ir (arba) aplinkos
+
+atkūrimo priemonių šio straipsnio ketvirtojoje dalyje numatytais atvejais.
+
+Jeigu ūkio subjektas nevykdo šiame straipsnyje
+
+numatytų pareigų ar neprivalo atlyginti prevencinių ir (arba) aplinkos atkūrimo
+
+priemonių išlaidų arba nėra nustatytas atsakingas už žalą aplinkai asmuo,
+
+savivaldybės ir (arba) valstybės įgaliotos institucijos pagal kompetenciją
+
+pačios ar per trečiuosius asmenis vykdo būtinas priemones.
+
+Aplinkos atkūrimo priemonės vykdomos tik turint
+
+Aplinkos ministerijos ar jos įgaliotos institucijos išankstinį pritarimą. Aplinkos atkūrimo priemonių parinkimo bei išankstinio
+
+pritarimo gavimo tvarką nustato aplinkos ministras.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. X-147, 2005-03-24,
+
+Žin., 2005, Nr. 47-1558 (2005-04-12)
+
+32(2)
+
+straipsnis. Išlaidų atlyginimas
+
+Visas prevencinių ir (arba) aplinkos atkūrimo
+
+priemonių išlaidas atlygina ūkio subjektas, padaręs žalą aplinkai arba sukėlęs
+
+realią jos grėsmę, net ir tais atvejais, kai atitinkamas priemones vykdė
+
+savivaldybės arba valstybės įgaliotos institucijos (pačios ar per trečiuosius
+
+asmenis).
+
+Ūkio subjektas neprivalo atlyginti prevencinių ir
+
+(arba) aplinkos atkūrimo priemonių išlaidų tik tuo atveju, jeigu žala aplinkai
+
+arba jos reali grėsmė atsirado dėl nenugalimos jėgos, taip pat jeigu jis įrodo,
+
+kad žala aplinkai ar reali jos grėsmė atsirado:
+
+1) dėl trečiojo asmens veiksmų (veikimo, neveikimo),
+
+nors visos atitinkamos saugumo priemonės buvo taikytos;
+
+2) tiksliai vykdant įstatymų įgaliotos institucijos
+
+privalomą nurodymą, išskyrus nurodymą dėl teršimo ar įvykio, kurį sukėlė pačio
+
+ūkio subjekto veikla (veikimas, neveikimas).
+
+Ūkio subjekto išlaidas vykdant prevencines ir (arba) aplinkos atkūrimo
+
+priemones šio straipsnio antrojoje dalyje numatytais atvejais atlygina asmenys,
+
+padarę žalos aplinkai, o jeigu šių asmenų nustatyti neįmanoma, – valstybės ar
+
+savivaldybių institucijos.“
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. X-147, 2005-03-24,
+
+Žin., 2005, Nr. 47-1558 (2005-04-12)
+
+33 straipsnis. Ieškiniai
+
+dėl žalos atlyginimo
+
+Pareikšti ieškinius dėl padarytos žalos turi teisę:
+
+1) asmenys, kurių sveikatai, turtui ar interesams
+
+padaryta žalos;
 
 2) Aplinkos ministerijos pareigūnai, kiti įstatymų
 
 įgalioti pareigūnai, kai padaryta žalos valstybės interesams.
+
+Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių institucijos pagal kompetenciją ieškinius dėl žalos
+
+aplinkai bei kitų nuostolių, įskaitant prevencinių ir (arba) aplinkos atkūrimo
+
+priemonių vykdymą, atlyginimo gali pareikšti ūkio subjektui arba kitam
+
+asmeniui, padariusiam aplinkai žalos arba sukėlusiam realią jos grėsmę, per
+
+penkerius metus nuo dienos, kada šios priemonės buvo baigtos taikyti arba buvo
+
+nustatytas atsakingas ūkio subjektas arba kitas asmuo, atsižvelgus į tai, kuri
+
+iš minėtų aplinkybių atsirado vėliau.
+
+Žala aplinkai ir kiti nuostoliai gali būti pripažinti
+
+kaip mažareikšmė žala ir neišieškomi, jeigu žala aplinkai yra nedidelė ir jos
+
+išieškojimo išlaidos didesnės už išieškomą sumą.
+
+Žalos aplinkai ir kitų nuostolių pripažinimo
+
+mažareikšme žala tvarką, mažareikšmės žalos išieškojimo išlaidų apskaičiavimo
+
+metodiką nustato aplinkos ministras, suderinęs su finansų ministru.
 
 Straipsnio pakeitimai:
 
@@ -3269,49 +1957,13 @@ Nr. IX-2113,
 
 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 
-34
+Nr. X-147, 2005-03-24,
 
-straipsnis. Teisinė atsakomybė, ginčų aplinkos apsaugos klausimais nagrinėjimo
+Žin., 2005, Nr. 47-1558 (2005-04-12)
 
-ir sprendimų priėmimo tvarka
+35 straipsnis. Lietuvos Respublikos
 
-Juridiniai
-
-ir fiziniai asmenys, pažeidę aplinkos apsaugos reikalavimus, traukiami
-
-atsakomybėn pagal Lietuvos Respublikos įstatymus.
-
-Ginčus
-
-aplinkos apsaugos ir gamtos išteklių naudojimo klausimais įstatymų nustatyta
-
-tvarka nagrinėja ir sprendžia Lietuvos Respublikos teismai.
-
-Ginčai
-
-tarp Lietuvos Respublikos ir užsienio valstybių juridinių bei fizinių asmenų
-
-sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka, jeigu Lietuvos
-
-Respublikos tarptautinėse sutartyse nenumatyta kita šių ginčų nagrinėjimo ir
-
-sprendimo tvarka.
-
-Straipsnio pakeitimai:
-
-Nr. I-1352,
-
-96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-VIII SKYRIUS. LIETUVOS RESPUBLIKOS TARPTAUTINIS
-
-BENDRADARBIAVIMAS
-
-APLINKOS APSAUGOS SRITYJE
-
-35
-
-straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas aplinkos
+tarptautinis bendradarbiavimas aplinkos
 
 apsaugos  klausimais
 
@@ -3357,331 +2009,9 @@ plėtoja mokslo ir techninius ryšius;
 
 vykdo kitus tarptautinius įsipareigojimus aplinkos apsaugos klausimais.
 
-31 straipsnis.
+36 straipsnis. Lietuvos
 
-Valstybinė aplinkos apsaugos kontrolė
-
-Lietuvos
-
-Respublikoje valstybinę  aplinkos  apsaugos  ir
-
-gamtos  išteklių
-
-naudojimo kontrolę vykdo  Aplinkos  apsaugos
-
-ministerijos
-
-sistemos  pareigūnai  -  valstybiniai   aplinkos
-
-apsaugos
-
-inspektoriai.
-
-Vykdydami
-
-tarnybines  pareigas,  valstybiniai   aplinkos
-
-apsaugos
-
-inspektoriai turi teisę:
-
-1)  nustatyta
-
-tvarka sustabdyti ūkinės ir kitos  veiklos
-
-objektų  statybą
-
-ar  rekonstravimą,  sustabdyti  ar  apriboti
-
-juridinių ir fizinių
-
-asmenų veiklą, jeigu pažeidžiami aplinkos
-
-apsaugos įstatymai
-
-arba ši veikla neatitinka aplinkos apsaugos
-
-normatyvų,
-
-taisyklių, limitų ir kitų nustatytų sąlygų;
-
-2)   pateikę
-
-tarnybinį  pažymėjimą,  netrukdomi   įeiti
-
-(įvažiuoti)  į
-
-visų  įmonių,  įstaigų,  organizacijų,   ūkių,
-
-karinių  dalinių,
-
-pasienio ruožo teritorijas ir objektus,  kad
-
-vykdytų  juose
-
-valstybinę aplinkos apsaugos ir gamtos išteklių
-
-naudojimo
-
-kontrolę  ir  atliktų  kontrolinius  tyrimus   bei
-
-matavimus;
-
-3)  surašyti
-
-protokolus, aktus  ir  kitokius  nustatytos
-
-formos dokumentus;
-
-4)  nustatyta
-
-tvarka  nagrinėti  administracinių  teisės
-
-pažeidimų bylas ir
-
-skirti administracines nuobaudas;
-
-5)
-
-sustabdyti  ir  tikrinti  Lietuvos  Respublikos  bei
-
-užsienio  valstybių
-
-laivus, kitas vandens transporto priemones
-
-Lietuvos
-
-Respublikos  vidaus,  teritoriniuose  vandenyse   ir
-
-ekonominėje
-
-zonoje  -  vykdyti  juose  valstybinę   aplinkos
-
-apsaugos  ir
-
-gamtos  išteklių naudojimo  kontrolę,  taip  pat
-
-vykdyti  šią
-
-kontrolę  tarptautiniuose  vandenyse  esančiuose
-
-Lietuvos Respublikos
-
-laivuose;
-
-6)  kad  būtų
-
-užkirstas kelias aplinkos apsaugos įstatymų
-
-pažeidimams, už
-
-kuriuos numatyta administracinė ar baudžiamoji
-
-atsakomybė,
-
-sustabdyti ir apžiūrėti įtariamų asmenų transporto
-
-priemones, nustatyta
-
-tvarka atlikti asmens apžiūrą  ir  daiktų
-
-patikrinimą,  paimti
-
-daiktus ir dokumentus,  apžiūrėti  įvykio
-
-vietą;
-
-7)  pagal
-
-tarptautinius įsipareigojimus tikrinti Lietuvos
-
-Respublikos
-
-juridinių ir fizinių asmenų veiklą, susijusią  su
-
-gamtos išteklių
-
-naudojimu tarptautiniuose vandenyse;
-
-8)   įstatymų
-
-numatytais  atvejais  pristatyti  aplinkos
-
-apsaugos  įstatymų
-
-pažeidėjus į  policiją  arba  gyvenvietės,
-
-apylinkės
-
-savivaldybės patalpas asmenybei nustatyti;
-
-9)   saugoti,
-
-nešioti  ir  panaudoti  nustatyta   tvarka
-
-tarnybinį  ginklą
-
-bei specialiąsias priemones  -  antrankius,
-
-asmens  apsaugai
-
-skirtas dujas, tarnybinius šunis,  transporto
-
-priverstinio
-
-stabdymo priemones;
-
-10) dėvėti
-
-nustatyto pavyzdžio uniformą.
-
-Aplinkos   apsaugos
-
-ministerija,  vykdydama   valstybinę
-
-aplinkos  apsaugos
-
-ir  gamtos  išteklių  naudojimo  kontrolę,
-
-steigia neetatinių
-
-aplinkos apsaugos inspektorių institucijas,
-
-tvirtina jų
-
-nuostatus.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. I-1352,
-
-96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-32 straipsnis. Neteisėta veika padarytos žalos aplinkai
-
-atlyginimo būdai
-
-Juridiniai ir fiziniai asmenys, neteisėta veika padarę žalos aplinkai, žmonių
-
-sveikatai ir gyvybei, kitų juridinių ir fizinių asmenų turtui bei interesams,
-
-privalo atlyginti visus nuostolius ir, esant galimybei, atstatyti aplinkos
-
-objekto būklę.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-33 straipsnis. Ieškiniai dėl neteisėta veika padarytos žalos
-
-atlyginimo
-
-Pareikšti
-
-ieškinius dėl neteisėta veika padarytos žalos turi teisę:
-
-1)
-
-juridiniai ir fiziniai asmenys, kurių sveikatai, turtui ar interesams padaryta
-
-žalos;
-
-2)
-
-Lietuvos Respublikos aplinkos apsaugos ministerijos pareigūnai, kiti įstatymų
-
-įgalioti pareigūnai, kai padaryta žalos valstybės interesams.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-34
-
-straipsnis. Teisinė atsakomybė, ginčų  aplinkos apsaugos
-
-klausimais nagrinėjimo ir sprendimų priėmimo tvarka
-
-Juridiniai
-
-ir fiziniai asmenys, pažeidę aplinkos apsaugos reikalavimus, traukiami
-
-atsakomybėn pagal Lietuvos Respublikos įstatymus.
-
-Ginčus
-
-aplinkos apsaugos ir gamtos išteklių naudojimo klausimais įstatymų nustatyta
-
-tvarka nagrinėja ir sprendžia Lietuvos Respublikos teismai.
-
-Ginčai
-
-tarp Lietuvos Respublikos ir užsienio valstybių juridinių bei fizinių asmenų
-
-sprendžiami Lietuvos Respublikos įstatymų  nustatyta  tvarka, jeigu  Lietuvos
-
-Respublikos tarptautinėse sutartyse nenumatyta kita šių ginčų nagrinėjimo ir
-
-sprendimo tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-VIII SKYRIUS. LIETUVOS RESPUBLIKOS TARPTAUTINIS
-
-BENDRADARBIAVIMAS APLINKOS APSAUGOS SRITYJE
-
-35 straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas
-
-aplinkos apsaugos klausimais
-
-Lietuvos Respublika, vadovaudamasi visuotinai pripažintais ir skelbiamais
-
-tarptautiniais aplinkos apsaugos principais, sudaro tarptautines sutartis
-
-aplinkos apsaugos klausimais, dalyvauja tarptautinių aplinkos apsaugos
-
-organizacijų veikloje.
-
-Bendradarbiaudama su kitomis valstybėmis aplinkos apsaugos klausimais, Lietuvos
-
-Respublika:
-
-1) siekia regioninio ir visuotinio ekologinio saugumo;
-
-2) sprendžia regionines bei globalines aplinkos apsaugos problemas;
-
-3) teikia suinteresuotoms šalims objektyvią informaciją apie ekologinę
-
-situaciją Lietuvoje;
-
-4) tvarko ir reguliuoja bendrus gamtos išteklių klausimus;
-
-5) prisideda likviduojant neigiamus ekologinių nelaimių bei avarijų padarinius;
-
-6) plėtoja mokslo ir techninius ryšius;
-
-7) vykdo  kitus tarptautinius  įsipareigojimus  aplinkos apsaugos klausimais.
-
-36 straipsnis. Lietuvos Respublikos aplinkos apsaugos
-
-įstatymų santykis su
+Respublikos aplinkos apsaugos įstatymų santykis su
 
 tarptautinėmis aplinkos apsaugos sutartimis
 
@@ -3721,27 +2051,45 @@ Nr.
 
 I-2223
 
-Įstatymas
+Lietuvos Respublikos
 
-papildomas priedu nuo 2004 m. liepos 21 d.:
+1992
 
-Lietuvos
+m. sausio 21 d. įstatymo
 
-Respublikos 1992 m.
+Nr.
 
-sausio
-
-21 d. įstatymo Nr. I-2223
+I-2223
 
 priedas
 
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+ĮGYVENDINAMI EUROPOS SĄJUNGOS
 
-2001 m. birželio 27 d. Europos Parlamento ir Tarybos
+TEISĖS AKTAI
 
-direktyva 2001/42/EB dėl tam tikrų planų ir programų pasekmių aplinkai
+1. 2001 m. birželio 27 d.
 
-vertinimo.
+Europos Parlamento ir Tarybos direktyva 2001/42/EB dėl tam tikrų planų ir
+
+programų pasekmių aplinkai vertinimo.
+
+2. 2004 m. balandžio 21 d. Europos Parlamento ir
+
+Tarybos direktyva 2004/35/EB dėl atsakomybės už žalą aplinkai, numatant žalos
+
+aplinkai prevenciją bei jos atlyginimą.
+
+Įstatymas papildytas preidu:
+
+Nr. X-147, 2005-03-24,
+
+Žin., 2005, Nr. 47-1558 (2005-04-12)
+
+Priedo pakeitimai:
+
+Nr. X-147, 2005-03-24,
+
+Žin., 2005, Nr. 47-1558 (2005-04-12)
 
 ________________
 
@@ -3825,9 +2173,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1610,
+Nr. IX-1610, 2003-06-10,
 
-2003-06-10, Žin., 2003, Nr. 61-2763 (2003-06-27)
+Žin., 2003, Nr. 61-2763 (2003-06-27)
 
 APLINKOS
 
@@ -3879,27 +2227,47 @@ APSAUGOS ĮSTATYMO 6, 18, 19, 20, 22, 24, 25, 31, 33 STRAIPSNIŲ PAKEITIMO
 
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-147,
+
+2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
+
+APLINKOS
+
+APSAUGOS ĮSTATYMO 1, 2, 6, 7, 8, 14, 19, 26, 31, 32, 33, 34 STRAIPSNIŲ IR
+
+PRIEDO PAKEITIMO IR PAPILDYMO, 24 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR
+
+ĮSTATYMO PAPILDYMO 32(1), 32(2) STRAIPSNIAIS ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-04-30)
+Aušrinė Trapinskienė (2005-04-14)
 
 autrap@lrs.lt
 
-27 straipsnis. Planų ir programų rengimas, jų
+27 straipsnis. Planų ir
 
-strateginis pasekmių aplinkai  vertinimas
+programų rengimas, jų strateginis pasekmių aplinkai  vertinimas
 
 Planai ir programos, kurių įgyvendinimo pasekmės
 
-gali būti reikšmingos aplinkai, rengiami ir įgyvendinami remiantis šiuo ir
+gali būti reikšmingos aplinkai, rengiami ir įgyvendinami remiantis šiuo ir kitais
 
-kitais įstatymais bei teisės aktais, reglamentuojančiais strateginį pasekmių
+įstatymais bei teisės aktais, reglamentuojančiais strateginį pasekmių aplinkai
 
-aplinkai vertinimą, teritorijų planavimą bei aplinkos stebėseną.
+vertinimą, teritorijų planavimą bei aplinkos stebėseną.
 
 Planų ir programų strateginio pasekmių aplinkai
 
@@ -3919,47 +2287,63 @@ Nr. IX-2032,
 
 2004-02-19, Žin., 2004, Nr. 36-1179 (2004-03-07)
 
-VI SKYRIUS. EKONOMINIS APLINKOS APSAUGOS
+VI SKYRIUS. EKONOMINIS APLINKOS
 
-MECHANIZMAS
+APSAUGOS MECHANIZMAS
 
-28
+34 straipsnis. Teisinė atsakomybė, ginčų
 
-straipsnis. Aplinkos apsaugos ekonominės priemonės
+aplinkos apsaugos klausimais nagrinėjimo
 
-Ekologiniai
+ir sprendimų priėmimo tvarka
 
-ir ekonominiai valstybės interesai derinami taikant Lietuvos Respublikos
+Asmenys, pažeidę aplinkos apsaugos reikalavimus, atsako pagal Lietuvos
 
-įstatymuose bei kituose teisės aktuose įtvirtintą ekonominį aplinkos apsaugos
+Respublikos įstatymus.
 
-mechanizmą. Jį sudaro:
+Ūkio subjektams taikoma civilinė atsakomybė,
 
-1)
+neatsižvelgiant į jų kaltę, už bet kokią žalą aplinkai arba realią jos grėsmę,
 
-mokesčiai už gamtos išteklių naudojimą;
+atsiradusią dėl jų ūkinės veiklos, išskyrus šiame įstatyme numatytus atvejus.
 
-2)
+Šio straipsnio antrojoje dalyje nurodyta civilinė
 
-mokesčiai už aplinkos teršimą;
+atsakomybė netaikoma asmenims, vykdantiems veiklą, kurios pagrindinė paskirtis
 
-3)
+– krašto apsauga arba tarptautinis saugumas bei kurios vienintelė paskirtis –
 
-kreditavimo reguliavimas;
+apsauga nuo stichinių nelaimių.
 
-4)
+Ginčus
 
-valstybės subsidijos;
+aplinkos apsaugos ir gamtos išteklių naudojimo klausimais įstatymų nustatyta
 
-5)
+tvarka nagrinėja ir sprendžia Lietuvos Respublikos teismai.
 
-kainų politika;
+Ginčai
 
-6)
+tarp Lietuvos Respublikos ir užsienio valstybių juridinių bei fizinių asmenų
 
-ekonominės sankcijos ir nuostolių kompensavimas;
+sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka, jeigu Lietuvos
 
-7)
+Respublikos tarptautinėse sutartyse nenumatyta kita šių ginčų nagrinėjimo ir
 
-kiti ekologiniai mokesčiai ir priemonės.
+sprendimo tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. I-1352,
+
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
+
+Nr. X-147, 2005-03-24,
+
+Žin., 2005, Nr. 47-1558 (2005-04-12)
+
+VIII SKYRIUS. LIETUVOS RESPUBLIKOS TARPTAUTINIS
+
+BENDRADARBIAVIMAS
+
+APLINKOS APSAUGOS SRITYJE
 
