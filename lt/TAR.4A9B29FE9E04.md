@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "1997-03-07"
+last_updated: "1997-07-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1997-03-07 iki 1997-07-22
+Suvestinė redakcija nuo 1997-07-23 iki 1997-12-23
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -649,7 +649,11 @@ Nr. VIII-118, 1997-02-18, Žin., 1997, Nr. 20-445 (1997-03-07), i. k. 0971010IST
 
 2) reorganizuojamos bendrovės turto įvertinimo ar perkainojimo aktas;
 
-3) teisių bei prievolių perėmimo tvarka ir terminai;
+3) teisių bei prievolių, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki po reorganizavimo veikiančių įmonių įstatų įregistravimo įstatymų nustatyta tvarka, perėmimo tvarka ir terminai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-379, 1997-07-02, Žin., 1997, Nr. 69-1740 (1997-07-23), i. k. 0971010ISTAVIII-379
 
 4) bendrovių, kurios yra reorganizuojamos, pajininkų pajų paskirstymo po reorganizavimo tvarka;
 
@@ -763,11 +767,13 @@ Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-
 
 3. Likvidatoriai turi pateikti įmonių rejestro pareigūnui nutarimą dėl bendrovės likvidavimo. Prie pranešimo pridedama susirinkimo protokolas, likvidatorių vardai, pavardės ir adresai.
 
-4. Pajininkams negali būti išmokėta jų turto dalis, kol nėra patenkinti kreditorių reikalavimai ir kitos pretenzijos. Kreditorių reikalavimai pradedami tenkinti tik tada, kai bendrovė yra sumokėjusi mokesčius valstybei, o bendrovės bankroto atveju – Lietuvos Respublikos įmonių bankroto įstatymo nustatyta tvarka.
+4. Pajininkams negali būti išmokėta jų turto dalis, kol nėra patenkinti kreditorių reikalavimai ir kitos pretenzijos. Kreditorių reikalavimai pradedami tenkinti tada, kai bendrovė yra sumokėjusi mokesčius valstybei, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki likviduojamos bendrovės veiklos nutraukimo įregistravimo įstatymų nustatyta tvarka, o bendrovės bankroto atveju – Lietuvos Respublikos įmonių bankroto įstatymo nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
+
+Nr. VIII-379, 1997-07-02, Žin., 1997, Nr. 69-1740 (1997-07-23), i. k. 0971010ISTAVIII-379
 
 5. Patenkinus kreditorių reikalavimus , kilus narių ginčui dėl likusio turto ar turto dalies padalijimo, likvidatoriai sustabdo turto, dėl kurio ginčijamasi, dalijimą. Likviduojamosios bendrovės narių tarpusavio ginčai ir ginčai su likvidatoriais nagrinėjami teismine tvarka.
 
@@ -908,4 +914,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-118, 1997-02-18, Žin., 1997, Nr. 20-445 (1997-03-07), i. k. 0971010ISTAVIII-118
 
 Lietuvos Respublikos žemės ūkio bendrovių įstatymo 4, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 29, 33 straipsnių pakeitimo ir papildymo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-379, 1997-07-02, Žin., 1997, Nr. 69-1740 (1997-07-23), i. k. 0971010ISTAVIII-379
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 ir 33 straipsnių papildymo įstatymas
 
