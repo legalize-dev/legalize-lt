@@ -4,7 +4,7 @@ identifier: "TAR.EA5F9F0D6DBB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-03-28"
-last_updated: "1997-03-28"
+last_updated: "1997-06-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EA5F9F0D6DBB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas
 
-Suvestinė redakcija nuo 1997-03-28 iki 1997-06-05
+Suvestinė redakcija nuo 1997-06-06 iki 2000-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 31-701, i. k. 0951010ISTA000I-830
 
@@ -42,13 +42,35 @@ Tiesioginis valdymas gali būti įvedamas, jeigu:
 
 2) teismai nustato, kad taryba nesilaiko Lietuvos Respublikos Konstitucijos, pažeidinėja įstatymus;
 
-3) taryba neišsirenka mero, mero pavaduotojo ir nesuformuoja savivaldos institucijų per šiame įstatyme nustatytą laiką arba tris kartus nesusirenka į mero šaukiamą posėdį;
+3) taryba neišsirenka mero, mero pavaduotojo ir nesuformuoja savivaldos institucijų per Vietos savivaldos įstatymo 4 straipsnio 3 dalyje nustatytą laiką;
 
-4) meras ir taryba nesilaiko Vietos savivaldos įstatymo 9 straipsnio 3 dalies nuostatų.
+4) tarybos posėdžiai pagal Vietos savivaldos įstatymo 7 straipsnyje nurodytus reikalavimus ir terminus nešaukiami arba taryba pagal šiuos reikalavimus nesusirenka į posėdį 3 kartus iš eilės;
 
-Siūlymą laikinai įvesti tiesioginį valdymą Seimui gali pateikti Vyriausybė, o išvadas dėl tokio siūlymo pagrįstumo Seimui teikia Seimo Valdymo reformų ir savivaldybių komitetas.
+5) meras ir taryba nesilaiko Vietos savivaldos įstatymo 9 straipsnio 3 dalies nuostatų;
+
+6) pakartotinių rinkimų į savivaldybės tarybą rezultatai apygardoje pripažįstami negaliojančiais
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-232, 1997-05-29, Žin., 1997, Nr. 50-1192 (1997-06-06), i. k. 0971010ISTAVIII-232
+
+Siūlymą laikinai įvesti tiesioginį valdymą dėl 1–5 punktuose nurodytų priežasčių Seimui gali pateikti Vyriausybė, o išvadas dėl tokio siūlymo pagrįstumo Seimui teikia Seimo Valdymo reformų ir savivaldybių komitetas
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-232, 1997-05-29, Žin., 1997, Nr. 50-1192 (1997-06-06), i. k. 0971010ISTAVIII-232
+
+Įsigaliojus Vyriausiosios rinkimų komisijos sprendimui dėl pakartotinių rinkimų į savivaldybės tarybą rezultatų apygardoje pripažinimo negaliojančiais, Seimas Valdymo reformų ir savivaldybių komiteto teikimu įveda savivaldybėje tiesioginį valdymą
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-232, 1997-05-29, Žin., 1997, Nr. 50-1192 (1997-06-06), i. k. 0971010ISTAVIII-232
 
 Seimas, priimdamas sprendimą įvesti tiesioginį valdymą, nustato naujų rinkimų į savivaldybės tarybą datą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-232, 1997-05-29, Žin., 1997, Nr. 50-1192 (1997-06-06), i. k. 0971010ISTAVIII-232
 
 Straipsnio pakeitimai:
 
@@ -117,4 +139,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-144, 1997-03-13, Žin., 1997, Nr. 27-621 (1997-03-28), i. k. 0971010ISTAVIII-144
 
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo" 1, 7, 8 straipsnių pakeitimo ir papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-232, 1997-05-29, Žin., 1997, Nr. 50-1192 (1997-06-06), i. k. 0971010ISTAVIII-232
+
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo" 1 straipsnio pakeitimo ir papildymo įstatymas
 
