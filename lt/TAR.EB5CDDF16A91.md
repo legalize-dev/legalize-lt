@@ -4,7 +4,7 @@ identifier: "TAR.EB5CDDF16A91"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-07-15"
-last_updated: "1992-07-15"
+last_updated: "1993-07-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EB5CDDF16A91"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -14,6 +14,10 @@ published_in_tar: "1992-07-15"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
+
+Suvestinė redakcija nuo 1993-07-21 iki 1993-12-17
+
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 140-0; Žin. 1992, Nr.22-639, i. k. 0921010ISTA00I-2747
 
 LIETUVOS RESPUBLIKOS OPERATYVINĖS VEIKLOS ĮSTATYMAS
 
@@ -164,6 +168,16 @@ PIRMININKAS                                  �
 Vilnius, 1992 m. liepos 15 d.
 
 Nr. I-2747
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-210, 1993-07-13, Žin., 1993, Nr. 30-679 (1993-07-21), i. k. 0931010ISTA000I-210
+
+Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo
 
 81 straipsnis. Asmens prevencinis sulaikymas
 
