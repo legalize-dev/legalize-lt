@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2003-01-14"
+last_updated: "2003-10-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -135,6 +135,14 @@ vadovaudami jiems pavestoms valdymo sritims, yra atsakingi Seimui, Respublikos
 
 Prezidentui ir tiesiogiai pavaldūs Ministrui Pirmininkui.
 
+4. Ministrai Vyriausybės nustatyta tvarka informuoja
+
+visuomenę apie savo veiklą ministerijos interneto tinklalapyje, o esant
+
+galimybei, – ir per kitas visuomenės informavimo priemones arba susitikimuose
+
+su gyventojais.
+
 Straipsnio
 
 pakeitimai:
@@ -143,19 +151,23 @@ Nr. IX-1293,
 
 2003-01-14, Žin., 2003, Nr. 10-342 (2003-01-29)
 
+Nr.
+
+IX-1769,
+
+2003-10-14, Žin., 2003, Nr. 104-4639 (2003-11-05)
+
 AntrasIS skirsnis
 
-VYRIAUSYBĖS
-
-SUDARYMAS
+VYRIAUSYBĖS SUDARYMAS
 
 6 straipsnis.
 
 Vyriausybės sudarymo tvarka ir Vyriausybės programa
 
-1. Ministrą Pirmininką
+1. Ministrą
 
-Seimo pritarimu skiria ir atleidžia Respublikos Prezidentas.
+Pirmininką Seimo pritarimu skiria ir atleidžia Respublikos Prezidentas.
 
 2. Ministras
 
@@ -273,11 +285,11 @@ Vyriausybės įgaliojimų grąžinimas
 
 grąžina įgaliojimus išrinkus Respublikos Prezidentą.
 
-2. Po Seimo rinkimų
+2. Po Seimo
 
-Vyriausybė grąžina įgaliojimus Respublikos Prezidentui tą dieną, kai naujasis
+rinkimų Vyriausybė grąžina įgaliojimus Respublikos Prezidentui tą dieną, kai
 
-Seimas susirenka į pirmąjį posėdį.
+naujasis Seimas susirenka į pirmąjį posėdį.
 
 3. Išrinkus
 
@@ -325,13 +337,13 @@ Ministro Pirmininko kandidatūrai ir Respublikos Prezidentas paskiria Ministrą
 
 Pirmininką, jei Ministro Pirmininko pateiktoje ir Respublikos Prezidento
 
-patvirtintoje Vyriausybėje nepasikeitė daugiau nei pusė iki įgaliojimų
+patvirtintoje Vyriausybėje nepasikeitė daugiau nei pusė iki įgaliojimų grąžinimo
 
-grąžinimo dirbusių ministrų, Vyriausybė iš naujo gauna įgaliojimus veikti pagal
+dirbusių ministrų, Vyriausybė iš naujo gauna įgaliojimus veikti pagal Seimo
 
-Seimo anksčiau patvirtintą programą. Jeigu Seimas nepritaria Ministro
+anksčiau patvirtintą programą. Jeigu Seimas nepritaria Ministro Pirmininko
 
-Pirmininko kandidatūrai, Vyriausybė privalo atsistatydinti.
+kandidatūrai, Vyriausybė privalo atsistatydinti.
 
 9 straipsnis.
 
@@ -367,9 +379,9 @@ Ministras Pirmininkas negauna Seimo pakartotinio pritarimo.
 
 2. Ministras Pirmininkas apie
 
-Vyriausybės atsistatydinimą teikia Respublikos Prezidentui rašytinį pranešimą, kuris
+Vyriausybės atsistatydinimą teikia Respublikos Prezidentui rašytinį pranešimą,
 
-prieš tai paskelbiamas Vyriausybės posėdyje.
+kuris prieš tai paskelbiamas Vyriausybės posėdyje.
 
 3. Ministrui Pirmininkui mirus, apie Vyriausybės
 
@@ -441,15 +453,15 @@ Respublikos Prezidentui. Iki atsistatydinimo pateikimo Respublikos Prezidentui
 
 ministras Ministro Pirmininko siūlymu turi teisę atšaukti savo atsistatydinimą.
 
-3. Ministras privalo atsistatydinti, kai
+3. Ministras privalo atsistatydinti, kai nepasitikėjimą
 
-nepasitikėjimą juo slaptu balsavimu pareiškia daugiau kaip pusė Seimo narių.
+juo slaptu balsavimu pareiškia daugiau kaip pusė Seimo narių. Ministras apie
 
-Ministras apie atsistatydinimą tą pačią arba kitą dieną raštu praneša Ministrui
+atsistatydinimą tą pačią arba kitą dieną raštu praneša Ministrui Pirmininkui, o
 
-Pirmininkui, o šis tą pačią dieną, o jeigu tai neįmanoma, - ne vėliau kaip kitą
+šis tą pačią dieną, o jeigu tai neįmanoma, - ne vėliau kaip kitą dieną,
 
-dieną, ministro atsistatydinimą teikia Respublikos Prezidentui. Jeigu ministras
+ministro atsistatydinimą teikia Respublikos Prezidentui. Jeigu ministras
 
 neįvykdo šio reikalavimo, jis Respublikos Prezidento dekretu atleidžiamas iš
 
@@ -523,9 +535,9 @@ Respublikos Prezidentui naują ministro kandidatūrą.
 
 Ketvirtasis skirsnis
 
-VYRIAUSYBĖS
+VYRIAUSYBĖS NARIŲ
 
-NARIŲ GARANTIJOS
+GARANTIJOS
 
 Skirsnio pavadinimas keistas:
 
@@ -587,13 +599,13 @@ POLITINIŲ PAREIGŪNŲ GARANTIJOS
 
 Ministro Pirmininko ir ministrų neliečiamumo  garantijos
 
-Ministras Pirmininkas
+Ministras
 
-ir ministrai negali būti patraukti baudžiamojon atsakomybėn ar suimti, taip pat
+Pirmininkas ir ministrai negali būti patraukti baudžiamojon atsakomybėn ar
 
-negali būti kitaip suvaržyta jų laisvė be išankstinio Seimo sutikimo, o tarp
+suimti, taip pat negali būti kitaip suvaržyta jų laisvė be išankstinio Seimo
 
-Seimo sesijų - be išankstinio Respublikos Prezidento sutikimo.
+sutikimo, o tarp Seimo sesijų - be išankstinio Respublikos Prezidento sutikimo.
 
 13 straipsnis.
 
@@ -651,9 +663,7 @@ vidutinio mėnesinio darbo užmokesčio dydžio kompensacija..
 
 nemokamos Vyriausybės nariams, kai jie paskiriami Ministru Pirmininku ar
 
-ministrais naujai sudarytoje Vyriausybėje, taip pat jei jie yra išrinkti Seimo
-
-nariais.
+ministrais naujai sudarytoje Vyriausybėje, taip pat jei jie yra išrinkti Seimo nariais.
 
 8. Lėšos šiame straipsnyje numatytoms
 
@@ -697,11 +707,11 @@ Užmokesčiu už kūrybinę veiklą laikomas autorinis atlyginimas už
 
 kūrinius, laikomus autorinių teisių objektais pagal Autorinių teisių ir
 
-gretutinių teisių įstatymą, už mokslinį ir pedagoginį darbą aukštosiose
+gretutinių teisių įstatymą, už mokslinį ir pedagoginį darbą aukštosiose mokyklose
 
-mokyklose ar valstybės tarnautojų kvalifikacijos kėlimo įstaigose bei už
+ar valstybės tarnautojų kvalifikacijos kėlimo įstaigose bei už neformalųjį
 
-neformalųjį suaugusiųjų švietimą.
+suaugusiųjų švietimą.
 
 Straipsnio pakeitimai:
 
@@ -725,21 +735,21 @@ Vyriausybės teisė teikti siūlymą dėl pirmalaikių Seimo rinkimų
 
 Vyriausybė turi
 
-teisę teikti siūlymą Respublikos Prezidentui paskelbti pirmalaikius Seimo rinkimus,
+teisę teikti siūlymą Respublikos Prezidentui paskelbti pirmalaikius Seimo
 
-jeigu Seimas pareiškia tiesioginį nepasitikėjimą Vyriausybe.
+rinkimus, jeigu Seimas pareiškia tiesioginį nepasitikėjimą Vyriausybe.
 
 16 straipsnis.
 
 Vyriausybės teisė skelbti Respublikos Prezidento rinkimus
 
-1. Jeigu
+1. Jeigu Lietuvos
 
-Lietuvos Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje numatytais
+Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje numatytais atvejais
 
-atvejais Seimas negali per 10 dienų susirinkti ir paskelbti Respublikos
+Seimas negali per 10 dienų susirinkti ir paskelbti Respublikos Prezidento
 
-Prezidento rinkimų, rinkimus skelbia Vyriausybė, priimdama nutarimą.
+rinkimų, rinkimus skelbia Vyriausybė, priimdama nutarimą.
 
 2. Šį
 
@@ -883,9 +893,9 @@ konstitucinę santvarką ir Lietuvos Respublikos teritorijos neliečiamybę, tva
 
 krašto reikalus, garantuoja valstybės saugumą ir viešąją tvarką;
 
-2) vykdo įstatymus
+2) vykdo
 
-ir Seimo nutarimus dėl įstatymų bei ilgalaikių valstybinių programų
+įstatymus ir Seimo nutarimus dėl įstatymų bei ilgalaikių valstybinių programų
 
 įgyvendinimo, taip pat Respublikos Prezidento dekretus, įgyvendina Vyriausybės
 
@@ -1093,11 +1103,11 @@ Vyriausybei siūlymus dėl apskričių viršininkų, jų pavaduotojų skyrimo ir
 
 atleidimo iš pareigų;
 
-9) kviečia Vyriausybės
+9) kviečia
 
-posėdžius ir jiems vadovauja (pirmininkauja), tvirtina Vyriausybės posėdžio
+Vyriausybės posėdžius ir jiems vadovauja (pirmininkauja), tvirtina Vyriausybės
 
-darbotvarkę;
+posėdžio darbotvarkę;
 
 10) suteikia
 
@@ -1139,9 +1149,9 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-Nr. IX-842, 2002-04-16,
+Nr. IX-842,
 
-Žin., 2002, Nr. 41-1527 (2002-04-19)
+2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 
 25
 
@@ -1227,9 +1237,9 @@ Pavaduojantis ministras nevykdo funkcijų, numatytų šio straipsnio 3 dalies 8,
 
 ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus ir
 
-yra tiesiogiai atsakingas už Vyriausybės programos įgyvendinimą ministerijos
+yra tiesiogiai atsakingas už Vyriausybės programos įgyvendinimą ministerijos kompetencijai
 
-kompetencijai priklausančiais klausimais;
+priklausančiais klausimais;
 
 2) užtikrina
 
@@ -1323,9 +1333,9 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-Nr. IX-842, 2002-04-16,
+Nr. IX-842,
 
-Žin., 2002, Nr. 41-1527 (2002-04-19)
+2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 
 Nr. IX-1293,
 
@@ -1405,7 +1415,9 @@ ministerija;
 
 apsaugos ministerija;
 
-4) Kultūros ministerija;
+4) Kultūros
+
+ministerija;
 
 5) Socialinės
 
@@ -1505,13 +1517,13 @@ rengiami vieneriems, trejiems, penkeriems ir dešimčiai metų atsižvelgiant į
 
 Vyriausybės ilgalaikį strateginį veiklos planą. Seimui pritarus naujos
 
-Vyriausybės programai, ministerijos savo parengtus arba atnaujintus strateginius
+Vyriausybės programai, ministerijos savo parengtus arba atnaujintus
 
-veiklos planus per tris mėnesius pateikia Vyriausybei aprobuoti. Jeigu įsteigta
+strateginius veiklos planus per tris mėnesius pateikia Vyriausybei aprobuoti.
 
-nauja ministerija, ji ilgalaikius ministerijos strateginius veiklos planus
+Jeigu įsteigta nauja ministerija, ji ilgalaikius ministerijos strateginius veiklos
 
-pateikia Vyriausybei aprobuoti per tris mėnesius nuo įsteigimo dienos.
+planus pateikia Vyriausybei aprobuoti per tris mėnesius nuo įsteigimo dienos.
 
 Straipsnio pakeitimai:
 
@@ -1547,9 +1559,9 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-Nr. IX-842,
+Nr. IX-842, 2002-04-16,
 
-2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+Žin., 2002, Nr. 41-1527 (2002-04-19)
 
 31
 
@@ -1617,9 +1629,9 @@ valstybės sekretorius yra karjeros valstybės tarnautojas, pavaldus ministrui.
 
 valstybės sekretorius:
 
-1) koordinuoja ir
+1) koordinuoja
 
-kontroliuoja ministerijos administracijos padalinių veiklą, užtikrina, kad
+ir kontroliuoja ministerijos administracijos padalinių veiklą, užtikrina, kad
 
 įgyvendinant strateginius veiklos planus optimaliai būtų valdomi ir panaudojami
 
@@ -1869,13 +1881,13 @@ tikrina, kaip jie vykdomi.
 
 7. Vyriausybės
 
-įstaigos veikla organizuojama vadovaujantis Vyriausybės aprobuotais viešai
+įstaigos veikla organizuojama vadovaujantis Vyriausybės aprobuotais viešai paskelbtais
 
-paskelbtais strateginiais veiklos planais, rengiamais vadovaujantis
+strateginiais veiklos planais, rengiamais vadovaujantis Vyriausybės
 
-Vyriausybės programa, kuriai Seimas pritaria, ir derinamais su Valstybės
+programa, kuriai Seimas pritaria, ir derinamais su Valstybės ilgalaikės raidos
 
-ilgalaikės raidos strategija.
+strategija.
 
 Straipsnio pakeitimai:
 
@@ -1945,9 +1957,9 @@ savivaldybės laikosi Lietuvos Respublikos Konstitucijos ir įstatymų, ar vykdo
 
 Vyriausybės sprendimus, prižiūri Vyriausybės skiriami atstovai.
 
-4. Apskrities viršininko
+4. Apskrities
 
-administracijos tipinę struktūrą ir jos tipinius nuostatus
+viršininko administracijos tipinę struktūrą ir jos tipinius nuostatus
 
 tvirtina Vyriausybė.
 
@@ -2295,11 +2307,11 @@ Vyriausybės nutarimai
 
 nutarimus pasirašo Ministras Pirmininkas ir atitinkamos valdymo srities
 
-ministras, nepaisant to, kaip jis balsavo posėdžio metu. Tais atvejais, kai nutarimas
+ministras, nepaisant to, kaip jis balsavo posėdžio metu. Tais atvejais, kai
 
-apima kelias valdymo sritis, nutarimą pasirašo Ministras Pirmininkas ir
+nutarimas apima kelias valdymo sritis, nutarimą pasirašo Ministras Pirmininkas
 
-ministras, vadovaujantis nutarimo projektą pateikusiai ministerijai ar vizavęs
+ir ministras, vadovaujantis nutarimo projektą pateikusiai ministerijai ar vizavęs
 
 nutarimo projektą šio įstatymo 38 straipsnio 1 dalyje nustatyta tvarka.
 
@@ -2313,11 +2325,11 @@ ankstesnįjį nutarimą, nepaisant to, kas pateikė Vyriausybei svarstyti naują
 
 nutarimo projektą.
 
-4. Vyriausybės nutarimai
+4. Vyriausybės
 
-pasirašomi Vyriausybės darbo reglamento nustatyta tvarka, jeigu
+nutarimai pasirašomi Vyriausybės darbo reglamento nustatyta tvarka,
 
-Vyriausybė nenustato kitaip.
+jeigu Vyriausybė nenustato kitaip.
 
 5. Vyriausybės
 
@@ -2603,9 +2615,9 @@ Nr. IX-331, 2001 05 17, Žin., 2001, Nr.
 
 48-1656 (2001 06 06)
 
-Nr. IX-842, 2002-04-16,
+Nr. IX-842,
 
-Žin., 2002, Nr. 41-1527 (2002-04-19)
+2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 
 46 straipsnis.
 
@@ -2637,7 +2649,7 @@ PREZIDENTAS                                   
 
 BRAZAUSKAS
 
-___________
+_______________
 
 Pakeitimai:
 
@@ -2807,9 +2819,9 @@ Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
 
 66-2407 (2001-08-01)
 
-VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ
+VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ PAKEITIMO
 
-PAKEITIMO ĮSTATYMAS
+ĮSTATYMAS
 
 12.
 
@@ -2863,6 +2875,20 @@ VYRIAUSYBĖS
 
 ĮSTATYMO 5 IR 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1769,
+
+2003-10-14, Žin., 2003, Nr. 104-4639 (2003-11-05)
+
+VYRIAUSYBĖS
+
+ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Konstitucinio
@@ -2883,9 +2909,9 @@ STRAIPSNIO 2 IR 4 DALIŲ,
 
 STRAIPSNIO
 
-2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3 DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4
+2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3 DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ
 
-DALIŲ IR
+IR
 
 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4 DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO
 
@@ -2897,7 +2923,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-01-29)
+Aušrinė Trapinskienė (2003-11-05)
 
 autrap@lrs.lt
 
