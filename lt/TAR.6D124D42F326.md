@@ -4,7 +4,7 @@ identifier: "TAR.6D124D42F326"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-12-05"
-last_updated: "1995-10-20"
+last_updated: "1996-02-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6D124D42F326"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pilietybės įstatymas
 
-Suvestinė redakcija nuo 1995-10-20 iki 1996-02-20
+Suvestinė redakcija nuo 1996-02-21 iki 1997-07-15
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 251-0; Žin. 1991, Nr.36-977, i. k. 0911010ISTA00I-2072
 
@@ -209,9 +209,13 @@ III. TEISĖS Į LIETUVOS RESPUBLIKOS PILIETYBĘ IŠSAUGOJIMAS. LIETUVOS RESPUBLI
 
 Teisė į Lietuvos Respublikos pilietybę neterminuotai išsaugoma:
 
-1) asmenims, iki 1940 m. birželio 15 d. turėjusiems Lietuvos pilietybę, ir jų vaikams (jei šie asmenys ar jų vaikai nerepatrijavo iš Lietuvos);
+1) asmenims, iki 1940 m. birželio 15 d. turėjusiems Lietuvos pilietybę, ir jų vaikams (jei šie asmenys ar jų vaikai nerepatrijavo iš Lietuvos), gyvenantiems kitose valstybėse;
 
 2) lietuvių kilmės asmenims, gyvenantiems kitose valstybėse.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1199, 1996-02-06, Žin., 1996, Nr. 16-415 (1996-02-21), i. k. 0961010ISTA00I-1199
 
 Lietuvių kilmės asmeniu laikomas asmuo, kurio tėvai ar seneliai arba vienas iš tėvų ar senelių yra lietuviai ir pats asmuo pripažįsta, kad laiko save lietuviu.
 
@@ -269,7 +273,11 @@ Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA
 
 22 straipsnis. Lietuvos Respublikos pilietybės grąžinimas
 
-Asmeniui, netekusiam Lietuvos Respublikos pilietybės šio įstatymo 19 straipsnio 1,3 ir 4 punktuose numatytais pagrindais, pagal jo prašymą gali būti grąžinta Lietuvos Respublikos pilietybė, jei prašymo pateikimo metu šis asmuo nuolat gyvena Lietuvos Respublikos teritorijoje ir atitinka šio įstatymo 12 straipsnio pirmosios dalies 2, 3 ir 5 punktuose nustatytas sąlygas.
+Asmeniui, netekusiam Lietuvos Respublikos pilietybės šio įstatymo 19 straipsnio 1, 2, 3 ir 4 punktuose numatytais pagrindais, pagal jo prašymą gali būti grąžinta Lietuvos Respublikos pilietybė, jei prašymo pateikimo metu šis asmuo nuolat gyvena Lietuvos Respublikos teritorijoje ir atitinka šio įstatymo 12 straipsnio pirmosios dalies 2, 3 ir 5 punktuose nustatytas sąlygas.
+
+Straipsnio pakeitimai:
+
+Nr. I-1199, 1996-02-06, Žin., 1996, Nr. 16-415 (1996-02-21), i. k. 0961010ISTA00I-1199
 
 23 straipsnis. Lietuvos Respublikos pilietybės suteikimo akto pripažinimas negaliojančiu
 
@@ -459,13 +467,15 @@ Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA
 
 Jeigu paaiškėja, kad asmuo įgijo kitos valstybės pilietybę, vidaus reikalų ministras konstatuoja Lietuvos Respublikos pilietybės netekimo faktą pagal šio įstatymo 19 straipsnio 2 punktą. Toks asmuo laikomas netekusiu Lietuvos Respublikos pilietybės nuo kitos valstybės pilietybės įgijimo dienos.
 
-Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo, vidaus reikalų ministro sprendimas dėl teisės į Lietuvos Respublikos pilietybę pagal šio įstatymo 17 straipsnio trečiąją dalį įsigalioja tik asmeniui prisiekus vietos savivaldos vykdomosiose institucijose arba Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse įstaigose užsienyje.
+Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo, vidaus reikalų ministro sprendimas dėl teisės į Lietuvos Respublikos pilietybę pagal šio įstatymo 17 straipsnio šeštąją dalį įsigalioja tik asmeniui prisiekus vietos savivaldos vykdomosiose institucijose arba Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse įstaigose užsienyje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. I-945, 1995-06-13, Žin., 1995, Nr. 53-1300 (1995-06-28), i. k. 0951010ISTA000I-945
 
 Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+
+Nr. I-1199, 1996-02-06, Žin., 1996, Nr. 16-415 (1996-02-21), i. k. 0961010ISTA00I-1199
 
 Asmenys, kurie įgydami Lietuvos Respublikos pilietybę netenka turėtos kitos valstybės pilietybės, prisiekia Lietuvos Respublikai po to, kai pateikia įrodymus, kad jie neteko kitos valstybės pilietybės.
 
@@ -592,4 +602,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
 
 Dėl Lietuvos Respublikos pilietybės įstatymo pakeitimo ir papildymo
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1199, 1996-02-06, Žin., 1996, Nr. 16-415 (1996-02-21), i. k. 0961010ISTA00I-1199
+
+Lietuvos Respublikos pilietybės įstatymo 17 ir 22 straipsnių papildymo ir 31 straipsnio pakeitimo įstatymas
 
