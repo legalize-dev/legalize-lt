@@ -4,7 +4,7 @@ identifier: "TAR.502CB1B9F3DB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-02"
-last_updated: "1999-05-20"
+last_updated: "2002-06-11"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.502CB1B9F3DB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,83 +17,25 @@ document_status: "registruotas TA registre"
 
 @D1=19950502;D2=19960702;D3=19960918
 
-Redagavo: Ramunė Lūžaitė (1999.06.10)
+Įstatymas
 
-Įstatymas paskelbtas: Žin., 1995, Nr.41-991
+paskelbtas: Žin., 1995, Nr. 41-991
 
-Neoficialus įstatymo tekstas
+Neoficialus
 
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-1421, 96.07.02, Žin., 1996, Nr. 68-1632
-
-(96.07.19)
-
-LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS
-
-NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 4, 6, 7, 8, 9 IR 11 STRAIPSNIŲ PAKEITIMO
-
-IR PAPILDYMO ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-516, 97.11.18, Žin., 1997,
-
-Nr.111-2796 (97.12.05)
-
-LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS
-
-NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-600, 98.01.08, Žin., 1998, Nr.6-114
-
-(98.01.16)
-
-LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS
-
-NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 4 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-1193, 99.05.20, Žin., 1999, Nr.48-1527 (99.06.02)
-
-LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS
-
-NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-*** Pabaiga ***
+įstatymo tekstas
 
 LIETUVOS RESPUBLIKOS
 
-ĮSTATYMŲ IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO
-
-TVARKOS
+ĮSTATYMŲ IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS
 
 ĮSTATYMAS
 
-1995 m. gegužės 2 d. Nr.I-872
+1995 m. gegužės 2 d. Nr. I-872
 
 Vilnius
 
-1 straipsnis.
-
-Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas
 
@@ -103,237 +45,231 @@ reglamentuoja Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų
 
 turinio ir kalbos reikalavimus.
 
-2 straipsnis.
+2 straipsnis. Teisės aktas
 
-Teisės aktas
+Teisės aktas šiame įstatyme - tai
 
-Teisės aktas
+įgaliotos valstybės valdžios institucijos arba referendumu priimamas teisės
 
-šiame įstatyme - tai įgaliotos valstybės valdžios institucijos arba referendumu
+aktas, kuriame nustatomos, keičiamos arba naikinamos teisės normos.
 
-priimamas teisės aktas, kuriame nustatomos, keičiamos arba naikinamos teisės
+3 straipsnis. Teisės akto rengimo stadijos
 
-normos.
+Teisės akto rengimo stadijos yra šios:
 
-3 straipsnis.
+1) teisės akto paskirties ir jo rengimo užduoties
 
-Teisės akto rengimo stadijos
+nustatymas;
 
-Teisės akto
+2) rengėjo nustatymas (parinkimas);
 
-rengimo stadijos yra šios:
+3) teisės akto teksto parengimas;
 
-1) teisės  akto
+4) teisės akto derinimas ir aprobavimas.
 
-paskirties  ir jo  rengimo  užduoties nustatymas;
+4 straipsnis. Teisės akto rengimas
 
-2) rengėjo
+1. Pasiūlymus dėl teisės akto rengimo turi
 
-nustatymas (parinkimas);
+teisę teikti visi fiziniai ir juridiniai asmenys. Teisės akto paskirtį ir jo
 
-3) teisės akto
+rengimo užduotį turi teisę nustatyti asmenys, turintys įstatymų leidybos
 
-teksto parengimas;
+iniciatyvos teisę Seime, taip pat valstybės valdžios institucijos pagal savo
 
-4) teisės akto
+kompetenciją.
 
-derinimas ir aprobavimas.
+2. Teisės akto rengėjais gali būti
 
-4 straipsnis.
+valstybės valdžios institucijos paskirti ar konkurso tvarka parinkti asmenys ar
 
-Teisės akto rengimas
+jų grupė, taip pat asmuo arba asmenų iniciatyvinė grupė.
 
-1. Pasiūlymus
+3 dalies
 
-dėl teisės akto rengimo turi teisę teikti visi fiziniai ir juridiniai asmenys.
+redakcija iki 2002 m. liepos 1 d.:
 
-Teisės akto paskirtį ir jo rengimo užduotį turi teisę nustatyti asmenys,
+3. Teisės aktas yra parengtas, jei jis
 
-turintys įstatymų leidybos iniciatyvos teisę Seime, taip pat valstybės valdžios
+atitinka šio įstatymo 5 - 12 straipsniuose nustatytus reikalavimus.
 
-institucijos pagal savo kompetenciją.
+3 dalies
 
-2. Teisės akto
+redakcija nuo 2002 m. liepos 1 d.:
 
-rengėjais gali būti valstybės valdžios institucijos paskirti ar konkurso tvarka
+3. Teisės aktas yra parengtas, jei jis
 
-parinkti asmenys ar jų grupė, taip pat asmuo arba asmenų iniciatyvinė grupė.
+atitinka šio įstatymo 5–12(1) straipsniuose nustatytus
 
-3.  Teisės
+reikalavimus.
 
-aktas yra parengtas, jei jis atitinka šio įstatymo 5 - 12 straipsniuose
+4. Parengtas teisės aktas derinamas,
+
+aprobuojamas ir pateikiamas institucijai, įgaliotai jį priimti, šios
+
+institucijos nustatyta tvarka.
+
+5. Derinamas ekonominius santykius
+
+reguliuojančio teisės akto projektas turi būti įvertinamas antikorupciniu
+
+požiūriu.
+
+6. Jeigu yra pagrindo manyti, kad priimtas
+
+teisės aktas gali daryti įtaką kriminogeninei situacijai, jį priimti įgaliota
+
+institucija skiria kriminologinę ekspertizę.
+
+7. Komisijų ir darbo grupių, kurias
+
+sudaro Seimas, Respublikos Prezidentas ar Vyriausybė, darbo apmokėjimo už
+
+teisės aktų rengimą ir ekspertizę tvarką tvirtina Vyriausybė.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. I-1421, 1996.07.02,
+
+Žin., 1996, Nr. 68-1632 (1996.07.19)
+
+Nr. VIII-600,
+
+1998.01.08, Žin., 1998, Nr. 6-114 (1998.01.16)
+
+Nr. IX-946,
+
+2002-06-11, Žin., 2002, Nr. 66-2705 (2002-06-29)
+
+5 straipsnis. Teisės akto reikalavimai
+
+1. Teisės aktas turi atitikti Lietuvos
+
+Respublikos Konstituciją, taip pat kitus galiojančius teisės aktus, jeigu tame
+
+akte nėra normų, keičiančių galiojančius teisės aktus.
+
+2. Teisės aktas privalo atitikti šiame
+
+įstatyme nustatytus formos, struktūros, turinio ir kalbos reikalavimus.
+
+5
+
+straipsnis papildomas 3 dalimi nuo 2002 m. liepos 1 d.:
+
+3. Teisės akte, kuriuo derinamos ir
+
+įgyvendinamos Europos Sąjungos teisės aktų nuostatos, turi būti nurodyti
+
+Europos Sąjungos teisės aktai pagal šio įstatymo 12(1) straipsnyje
 
 nustatytus reikalavimus.
 
-4.  Parengtas
+Straipsnio
 
-teisės aktas derinamas, aprobuojamas ir pateikiamas  institucijai,  įgaliotai
+pakeitimai:
 
-jį  priimti,  šios institucijos nustatyta tvarka.
+Nr. IX-946,
 
-5. Derinamas
+2002-06-11, Žin., 2002, Nr. 66-2705 (2002-06-29)
 
-ekonominius santykius reguliuojančio teisės akto projektas turi būti
+6 straipsnis. Teisės akto forma
 
-įvertinamas antikorupciniu požiūriu.
+1. Teisės akte turi būti:
 
-6. Jeigu yra
-
-pagrindo manyti, kad priimtas teisės aktas gali daryti įtaką kriminogeninei
-
-situacijai, jį priimti įgaliota institucija skiria kriminologinę ekspertizę.
-
-7. Komisijų ir darbo grupių,
-
-kurias sudaro Seimas, Respublikos Prezidentas ar Vyriausybė, darbo apmokėjimo
-
-už teisės aktų rengimą ir ekspertizę tvarką tvirtina Vyriausybė.
-
-Straipsnio pakeitimai:
-
-Nr. I-1421, 96.07.02, Žin., 1996, Nr. 68-1632
-
-(96.07.19)
-
-Nr. VIII-600, 98.01.08, Žin., 1998, Nr.6-114
-
-(98.01.16)
-
-5 straipsnis.
-
-Teisės akto reikalavimai
-
-1. Teisės
-
-aktas turi  atitikti  Lietuvos  Respublikos Konstituciją, taip pat kitus
-
-galiojančius teisės aktus, jeigu tame akte nėra normų, keičiančių galiojančius
-
-teisės aktus.
-
-2. Teisės aktas
-
-privalo atitikti šiame įstatyme nustatytus formos, struktūros, turinio ir
-
-kalbos reikalavimus.
-
-6 straipsnis.
-
-Teisės akto forma
-
-1. Teisės akte
-
-turi būti:
-
-1)
-
-institucijos, įgaliotos jį priimti, pavadinimas;
-
-2) teisės akto
-
-rūšies pavadinimas;
-
-3) teisės akto
-
-pavadinimas (antraštė);
-
-4) teisės akto
-
-priėmimo data, numeris, vieta;
-
-5) teisės akto
-
-tekstas;
-
-6) teisės aktą
-
-pasirašančiojo pareigos, vardas, pavardė.
-
-2. Teisės akto
-
-projekte prieš akto pavadinimą, dešinėje lapo pusėje turi būti nuoroda
-
-"Projektas".
-
-Straipsnio pakeitimai:
-
-Nr. I-1421, 96.07.02, Žin., 1996, Nr. 68-1632
-
-(96.07.19)
-
-7 straipsnis.
-
-Įstatymo forma
-
-1. Įstatyme
-
-eilės tvarka turi būti:
-
-1) įstatymo
+1) institucijos, įgaliotos jį priimti,
 
 pavadinimas;
 
-2) įstatymo
+2) teisės akto rūšies pavadinimas;
 
-priėmimo data ir numeris;
+3) teisės akto pavadinimas (antraštė);
 
-3) įstatymo
+4) teisės akto priėmimo data, numeris,
 
-priėmimo vieta;
+vieta;
 
-4) įstatymo
+5) teisės akto tekstas;
 
-tekstas;
+6) teisės aktą pasirašančiojo pareigos,
 
-5) įstatymą
+vardas, pavardė.
 
-pasirašančiojo pareigos, vardas, pavardė.
+2. Teisės akto projekte prieš akto
 
-2. Įstatymo
+pavadinimą, dešinėje lapo pusėje turi būti nuoroda "Projektas".
 
-pavadinimas išdėstomas didžiosiomis raidėmis eilutės centre, o žodis
+Straipsnio
 
-"įstatymas" nukeliamas į kitos eilutės centrą.
+pakeitimai:
 
-3. Įstatymo
+Nr. I-1421, 1996.07.02,
 
-priėmimo data ir numeris išdėstomi vienoje eilutėje centre.
+Žin., 1996, Nr. 68-1632 (1996.07.19)
 
-4. Įstatymo
+7 straipsnis. Įstatymo forma
 
-priėmimo  vieta išdėstoma eilutės centre mažosiomis raidėmis.
+1. Įstatyme eilės tvarka turi būti:
 
-5. Įstatymo
+1) įstatymo pavadinimas;
 
-tekstas pradedamas iš naujos eilutės.
+2) įstatymo priėmimo data ir numeris;
 
-6. Įstatymą
+3) įstatymo priėmimo vieta;
 
-pasirašančiojo pareigos išdėstomos po tekstu didžiosiomis raidėmis eilutės
+4) įstatymo tekstas;
 
-kairėje, o vardas, pavardė - eilutės dešinėje.
+5) įstatymą pasirašančiojo pareigos,
 
-7. Kartu su įstatymo projektu pateikiamas
+vardas, pavardė.
 
-aiškinamasis raštas pagal Lietuvos Respublikos Seimo statuto nuostatas.
+2. Įstatymo pavadinimas išdėstomas
 
-Straipsnio pakeitimai:
+didžiosiomis raidėmis eilutės centre, o žodis "įstatymas" nukeliamas
 
-Nr. I-1421, 96.07.02, Žin., 1996, Nr. 68-1632
+į kitos eilutės centrą.
 
-(96.07.19)
+3. Įstatymo priėmimo data ir numeris
 
-Nr.
+išdėstomi vienoje eilutėje centre.
 
-VIII-1193, 99.05.20, Žin., 1999, Nr.48-1527 (99.06.02)
+4. Įstatymo priėmimo vieta išdėstoma
 
-8 straipsnis.
+eilutės centre mažosiomis raidėmis.
 
-Įstatymo struktūra
+5. Įstatymo tekstas pradedamas iš naujos
 
-1. Įstatymą
+eilutės.
 
-sudaro:
+6. Įstatymą pasirašančiojo pareigos
+
+išdėstomos po tekstu didžiosiomis raidėmis eilutės kairėje, o vardas, pavardė -
+
+eilutės dešinėje.
+
+7.
+
+Kartu su įstatymo projektu pateikiamas aiškinamasis raštas pagal Lietuvos
+
+Respublikos Seimo statuto nuostatas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. I-1421, 1996.07.02,
+
+Žin., 1996, Nr. 68-1632 (1996.07.19)
+
+Nr. VIII-1193,
+
+1999.05.20, Žin., 1999, Nr. 48-1527 (1999.06.02)
+
+8 straipsnis. Įstatymo struktūra
+
+1. Įstatymą sudaro:
 
 1) dalys;
 
@@ -343,25 +279,23 @@ sudaro:
 
 4) straipsniai.
 
-2. Visos šio
+2. Visos šio straipsnio pirmojoje dalyje
 
-straipsnio pirmojoje dalyje nurodytos įstatymo sudedamosios dalys turi turėti
+nurodytos įstatymo sudedamosios dalys turi turėti pavadinimus (antraštes).
 
-pavadinimus (antraštes). Įstatymo dalių,  skyrių  ir skirsnių pavadinimai
+Įstatymo dalių, skyrių ir skirsnių pavadinimai rašomi didžiosiomis raidėmis
 
-rašomi didžiosiomis raidėmis  eilutės  centre.  Straipsnių  pavadinimai  rašomi
+eilutės centre. Straipsnių pavadinimai rašomi mažosiomis raidėmis.
 
-mažosiomis raidėmis.
+3. Įstatymo dalys ir skyriai žymimi
 
-3.  Įstatymo
+romėniškais skaitmenimis iš eilės. Skirsniai žymimi žodžiais išreikštais
 
-dalys  ir  skyriai  žymimi  romėniškais skaitmenimis iš eilės. Skirsniai žymimi
+skaitmenimis. Straipsniai žymimi arabiškais skaitmenimis ir numeruojami iš
 
-žodžiais išreikštais skaitmenimis.  Straipsniai žymimi arabiškais skaitmenimis
+eilės. Po žodžio "straipsnis" dedamas taškas ir straipsnio
 
-ir numeruojami iš eilės. Po žodžio "straipsnis" dedamas taškas ir
-
-straipsnio pavadinimas rašomas toje pačioje eilutėje.
+pavadinimas rašomas toje pačioje eilutėje.
 
 4. Įstatymo
 
@@ -371,233 +305,387 @@ rašyti iš naujos eilutės ir žymimos arabiškais skaitmenimis su tašku iš e
 
 Straipsnio dalių punktai žymimi arabiškais skaitmenimis su skliausteliu.
 
-5. Novelos
+5. Novelos žymimos papildomais arabiškais
 
-žymimos papildomais arabiškais skaitmenimis, rašomais  pagrindinio  ženklo,
+skaitmenimis, rašomais pagrindinio ženklo, žyminčio akto teksto dalies
 
-žyminčio akto teksto dalies eiliškumą, dešinės pusės viršuje.
+eiliškumą, dešinės pusės viršuje.
 
-6.
+6. Atsižvelgiant į įstatymo pobūdį, turinį
 
-Atsižvelgiant į įstatymo pobūdį, turinį ir apimtį, jame gali būti ne visos
+ir apimtį, jame gali būti ne visos sudedamosios dalys.
 
-sudedamosios dalys.
+7. Įstatymas gali turėti preambulę,
 
-7. Įstatymas
+lentelių, grafikų, tarifų, schemų, sąrašų ir kitų priedų.
 
-gali turėti preambulę, lentelių, grafikų, tarifų, schemų, sąrašų ir kitų
+8. Įstatymo pradžioje paprastai nurodoma
 
-priedų.
+šio akto paskirtis ir kitos bendrosios nuostatos.
 
-8. Įstatymo
+9. Įstatymo pabaigoje paprastai nurodoma
 
-pradžioje paprastai nurodoma šio akto paskirtis ir kitos bendrosios nuostatos.
+jo įsigaliojimo tvarka, taip pat kiti įstatymai, kurie netenka galios.
 
-9. Įstatymo
+Straipsnio
 
-pabaigoje paprastai nurodoma jo įsigaliojimo tvarka, taip pat kiti įstatymai,
+pakeitimai:
 
-kurie netenka galios.
+Nr. I-1421, 1996.07.02,
 
-Straipsnio pakeitimai:
+Žin., 1996, Nr. 68-1632 (1996.07.19)
 
-Nr. I-1421, 96.07.02, Žin., 1996, Nr. 68-1632
+9 straipsnis. Kitų teisės aktų forma ir
 
-(96.07.19)
+struktūra
 
-9 straipsnis.
+1. Institucijos, priimančios teisės aktus,
 
-Kitų teisės aktų forma ir struktūra
+juos rengia remdamosi šio įstatymo 6 ir 11 straipsnių nuostatomis.
 
-1.
+2. Seimo nutarimus ir Respublikos
 
-Institucijos, priimančios teisės aktus, juos rengia remdamosi šio įstatymo 6 ir
+Prezidento dekretus sudaro straipsniai, jų dalys ir punktai. Straipsniai - be
 
-11 straipsnių nuostatomis.
+pavadinimų, žymimi arabiškais skaitmenimis ir numeruojami iš eilės. Po
 
-2. Seimo
+skaitmens rašomas žodis "straipsnis" ir dedamas taškas, straipsnio
 
-nutarimus ir Respublikos Prezidento dekretus sudaro straipsniai, jų dalys ir
+tekstas rašomas iš naujos eilutės. Straipsnių dalys žymimos arabiškais skaitmenimis
 
-punktai. Straipsniai - be pavadinimų, žymimi arabiškais skaitmenimis ir
+iš eilės. Straipsnio dalių punktai žymimi arabiškais skaitmenimis su
 
-numeruojami iš eilės.  Po skaitmens rašomas žodis "straipsnis" ir
+skliausteliu. Seimo nutarimais ir Prezidento dekretais tvirtinami teisės aktai
 
-dedamas taškas, straipsnio tekstas rašomas iš naujos eilutės. Straipsnių dalys
+turi punktus ir papunkčius. Jų punktai žymimi arabiškais skaitmenimis su tašku,
 
-}ymimos arabiškais skaitmenimis iš eilės. Straipsnio dalių punktai žymimi
+o papunkčiai žymimi arabišku skaitmeniu su skliausteliu.
 
-arabiškais skaitmenimis su skliausteliu. Seimo nutarimais ir Prezidento dekretais
+3. Vyriausybės ir kitų institucijų teisės
 
-tvirtinami teisės aktai turi punktus ir papunkčius. Jų punktai žymimi
+aktus sudaro punktai, jų pastraipos ir punktų papunkčiai. Punktai žymimi
 
-arabiškais skaitmenimis su  tašku,  o  papunkčiai  žymimi  arabišku  skaitmeniu
+arabiškais skaitmenimis ir numeruojami iš eilės. Po skaitmens dedamas taškas.
 
-su skliausteliu.
+Punktų pastraipos nenumeruojamos. Punktų papunkčiai žymimi arabiškais
 
-3. Vyriausybės
+skaitmenimis ir turi pradinį punkto ir savo eilės skaitmenį. Tarp punkto ir
 
-ir kitų institucijų teisės aktus sudaro punktai, jų pastraipos ir punktų
+papunkčio skaitmens ir po papunkčio skaitmens dedami taškai. Atskirai numeruoti
 
-papunkčiai. Punktai žymimi arabiškais skaitmenimis ir numeruojami iš eilės. Po
+papunkčiai gali būti vadinami punktais. Viso teisės akto punktų numeracija yra
 
-skaitmens dedamas  taškas.  Punktų  pastraipos  nenumeruojamos. Punktų
+ištisinė.
 
-papunkčiai žymimi arabiškais skaitmenimis ir turi pradinį punkto ir savo eilės
+4. Didesnės apimties teisės aktas gali
 
-skaitmenį. Tarp punkto ir papunkčio skaitmens ir po  papunkčio  skaitmens
+būti skirstomas į skyrius ir skirsnius. Skyriai ir skirsniai žymimi romėniškais
 
-dedami taškai. Atskirai numeruoti papunkčiai gali būti vadinami punktais. Viso
+skaitmenimis iš eilės.
 
-teisės akto punktų numeracija yra ištisinė.
+Straipsnio
 
-4. Didesnės
+pakeitimai:
 
-apimties teisės aktas gali būti skirstomas į skyrius ir skirsnius. Skyriai ir
+Nr. I-1421, 1996.07.02,
 
-skirsniai žymimi romėniškais skaitmenimis iš eilės.
+Žin., 1996, Nr. 68-1632 (1996.07.19)
 
-Straipsnio pakeitimai:
-
-Nr. I-1421, 96.07.02, Žin., 1996, Nr. 68-1632
-
-(96.07.19)
-
-10 straipsnis.
-
-Teisės akto turinio reikalavimai
-
-1. Teisės akto
-
-turinys turi atitikti jo paskirtį.
-
-2. Teisės akto
-
-turinys turi būti logiškas, glaustas ir aiškus.
-
-3. Tekste
-
-neturi būti nereikalingų arba netaisyklingų žodžių, žodžių junginių, pastabų ir
-
-dviprasmybių. Straipsnio tekstas nekartojamas kituose straipsniuose. Neleistini
-
-žodžių sutrumpinimai, išskyrus  atvejus, kai  pateikiama nuoroda į leidinį,
-
-kuriame šis aktas oficialiai paskelbtas. Pirmą kartą minimas pavadinimas negali
-
-būti trumpinamas.
-
-11 straipsnis.
-
-Teisės akto, kuriuo keičiamas ar papildomas kitas
-
-teisės aktas,
+10 straipsnis. Teisės akto turinio
 
 reikalavimai
 
-1. Keičiant
+1. Teisės akto turinys turi atitikti jo
 
-teisės aktą, jei straipsnis, jo dalis ar punktas keičiamas iš esmės, išdėstoma
+paskirtį.
 
-pakeitimo esmė ir pateikiama keičiamo straipsnio, jo dalies ar punkto nauja
+2. Teisės akto turinys turi būti logiškas,
 
-redakcija. Jei teisės aktas pildomas nauju straipsniu (jo dalimi ar punktu),
+glaustas ir aiškus.
 
-išdėstoma papildymo esmė ir pateikiama naujo straipsnio (jo dalies ar punkto)
+3. Tekste neturi būti nereikalingų arba
 
-redakcija. Keičiant teisės aktą, kurio straipsnyje (jo dalyje ar punkte) reikia
+netaisyklingų žodžių, žodžių junginių, pastabų ir dviprasmybių. Straipsnio
 
-išbraukti žodžius (skaičius), įrašyti naujus žodžius (skaičius), vietoj vienų
+tekstas nekartojamas kituose straipsniuose. Neleistini žodžių sutrumpinimai,
 
-žodžių (skaičių) įrašyti kitus žodžius (skaičius), dėstant pakeitimų esmę
+išskyrus atvejus, kai pateikiama nuoroda į leidinį, kuriame šis aktas
 
-nurodomas keičiamas straipsnis (jo dalis ar punktas), kokius žodžius (skaičius)
+oficialiai paskelbtas. Pirmą kartą minimas pavadinimas negali būti trumpinamas.
 
-išbraukti, po kokių žodžių (skaičių) ar vietoj kokių žodžių (skaičių) įrašyti
+11 straipsnis.
 
-naujus žodžius (skaičius) ir išdėstoma straipsnio (jo dalies ar punkto) nauja
+Teisės akto, kuriuo keičiamas ar papildomas kitas teisės aktas,
 
-redakcija. Jei straipsnis, jo dalis ar punktas pripažįstamas netekusiu galios,
+reikalavimai
 
-nurodomas tas straipsnis (jo dalis ar punktas).
+1. Keičiant teisės aktą, jei straipsnis,
 
-2. Jei
+jo dalis ar punktas keičiamas iš esmės, išdėstoma pakeitimo esmė ir pateikiama
 
-keičiamajame teisės akte keičiama ar buvo pakeista daugiau  kaip pusė jo
+keičiamo straipsnio, jo dalies ar punkto nauja redakcija. Jei teisės aktas
 
-straipsnių, keičiamasis teisės aktas paprastai  dėstomas nauja redakcija arba
+pildomas nauju straipsniu (jo dalimi ar punktu), išdėstoma papildymo esmė ir
 
-parengiamas naujas teisės aktas.
+pateikiama naujo straipsnio (jo dalies ar punkto) redakcija. Keičiant teisės
 
-3. Vienu
+aktą, kurio straipsnyje (jo dalyje ar punkte) reikia išbraukti žodžius
 
-įstatymu paprastai keičiamas tik vienas įstatymas. Jei keičiamas ar pildomas
+(skaičius), įrašyti naujus žodžius (skaičius), vietoj vienų žodžių (skaičių)
 
-įstatymas yra susijęs su kitų įstatymų pakeitimais, jie gali būti keičiami ar
+įrašyti kitus žodžius (skaičius), dėstant pakeitimų esmę nurodomas keičiamas
 
-pildomi vienu įstatymu. Šiuo atveju įstatymas skirstomas į skirsnius ir
+straipsnis (jo dalis ar punktas), kokius žodžius (skaičius) išbraukti, po kokių
 
-straipsnius. Kiekviename skirsnyje straipsniai numeruojami iš naujo.
+žodžių (skaičių) ar vietoj kokių žodžių (skaičių) įrašyti naujus žodžius
 
-4. Įstatymo,
+(skaičius) ir išdėstoma straipsnio (jo dalies ar punkto) nauja redakcija. Jei
 
-kuriuo keičiamas, pildomas arba pripažįstamas netekusiu  galios kitas
+straipsnis, jo dalis ar punktas pripažįstamas netekusiu galios, nurodomas tas
 
-įstatymas, pradžioje po nuorodos į įstatymo priėmimo vietą turi būti nurodoma
+straipsnis (jo dalis ar punktas).
 
-(atskira eilute, skliausteliuose) keičiamo, papildomo arba pripažįstamo
+2. Jei keičiamajame teisės akte keičiama
 
-netekusiu galios kito įstatymo oficialus paskelbimo šaltinis ir įstatymų,
+ar buvo pakeista daugiau kaip pusė jo straipsnių, keičiamasis teisės aktas
 
-kuriais  buvo keičiamas ar pildomas atitinkamo to įstatymo straipsnis,  jo
+paprastai dėstomas nauja redakcija arba parengiamas naujas teisės aktas.
 
-dalis  ar  punktas,  oficialaus paskelbimo šaltiniai.  Kai vienu įstatymu
+3. Vienu įstatymu paprastai keičiamas tik
 
-keičiami keli įstatymai (jų straipsniai, dalys ar punktai), oficialaus
+vienas įstatymas. Jei keičiamas ar pildomas įstatymas yra susijęs su kitų
 
-paskelbimo šaltiniai nurodomi po keičiančiojo įstatymo skirsnio pavadinimo.
+įstatymų pakeitimais, jie gali būti keičiami ar pildomi vienu įstatymu. Šiuo
 
-5. Keičiant ar
+atveju įstatymas skirstomas į skirsnius ir straipsnius. Kiekviename skirsnyje
 
-pildant įstatymus, paskelbtus iki Lietuvos Respublikos  įstatymų ir kitų teisės
+straipsniai numeruojami iš naujo.
 
-norminių aktų rengimo tvarkos įstatymo (Žin., 1995, Nr.41-991) įsigaliojimo, jų
+4. Įstatymo, kuriuo keičiamas, pildomas
 
-forma ir struktūra nekeičiama.
+arba pripažįstamas netekusiu galios kitas įstatymas, pradžioje po nuorodos į
 
-Straipsnio pakeitimai:
+įstatymo priėmimo vietą turi būti nurodoma (atskira eilute, skliausteliuose)
 
-Nr. I-1421, 96.07.02, Žin., 1996, Nr. 68-1632
+keičiamo, papildomo arba pripažįstamo netekusiu galios kito įstatymo oficialus
 
-(96.07.19)
+paskelbimo šaltinis ir įstatymų, kuriais buvo keičiamas ar pildomas atitinkamo
 
-Nr. VIII-516, 97.11.18, Žin., 1997,
+to įstatymo straipsnis, jo dalis ar punktas, oficialaus paskelbimo šaltiniai.
 
-Nr.111-2796 (97.12.05)
+Kai vienu įstatymu keičiami keli įstatymai (jų straipsniai, dalys ar punktai),
 
-12 straipsnis.
+oficialaus paskelbimo šaltiniai nurodomi po keičiančiojo įstatymo skirsnio
 
-Teisės akto kalba
+pavadinimo.
 
-Teisės aktai
+5. Keičiant ar pildant įstatymus,
 
-rašomi laikantis bendrinės lietuvių kalbos normų ir teisinės terminijos. Tarptautiniai
+paskelbtus iki Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų
 
-žodžiai vartojami tik tada, kai lietuvių kalboje nėra šių žodžių atitikmenų.
+rengimo tvarkos įstatymo (Žin., 1995, Nr.41-991) įsigaliojimo, jų forma ir
 
-13 straipsnis.
+struktūra nekeičiama.
 
-Šio įstatymo įsigaliojimas
+Straipsnio
 
-Šis įstatymas
+pakeitimai:
 
-įsigalioja nuo 1996 m. sausio 1 dienos.
+Nr. I-1421, 1996.07.02,
 
-Skelbiu šį
+Žin., 1996, Nr. 68-1632 (1996.07.19)
 
-Lietuvos Respublikos Seimo priimtą įstatymą.
+Nr. VIII-516,
 
-RESPUBLIKOS PREZIDENTAS                         ALGIRDAS
+1997.11.18, Žin., 1997, Nr. 111-2796 (1997.12.05)
+
+12 straipsnis. Teisės akto kalba
+
+Teisės aktai rašomi laikantis bendrinės
+
+lietuvių kalbos normų ir teisinės terminijos. Tarptautiniai žodžiai vartojami
+
+tik tada, kai lietuvių kalboje nėra šių žodžių atitikmenų.
+
+Įstatymas
+
+papildomas 12(1) straipsniu nuo 2002 m. liepos 1 d.:
+
+12(1) straipsnis. Nuorodos
+
+į Europos Sąjungos teisės aktus
+
+1. Nuorodos į Europos Sąjungos teisės
+
+aktus pagal šio straipsnio reikalavimus pateikiamos tais atvejais, kai teisės
+
+aktu arba atskiromis teisės akto nuostatomis  derinami ir įgyvendinami
+
+Europos Sąjungos teisės aktai.
+
+2. Europos Sąjungos teisės aktai
+
+nurodomi įstatymo priede, o įstatymo pradžioje, nurodant jo paskirtį ir kitas
+
+bendrąsias nuostatas, kartu daroma nuoroda į įstatymo priedą.
+
+3. Kituose teisės aktuose Europos
+
+Sąjungos teisės aktai nurodomi tų teisės aktų preambulėje.
+
+4. Kai keičiamas ar papildomas iki šio
+
+straipsnio įsigaliojimo priimtas teisės aktas, kuriuo buvo derinami ir įgyvendinami
+
+Europos Sąjungos teisės aktai ir kuriame nėra nuorodų į Europos Sąjungos teisės
+
+aktus arba jos pateiktos ne pagal šio straipsnio reikalavimus,
+
+kartu parengiamas ir teikiamas įstatymo papildymo reikiamu priedu įstatymo
+
+projektas ar kito teisės akto papildymo preambule arba jos pakeitimo projektas,
+
+kuriame pateikiami nenurodyti Europos Sąjungos teisės aktai.
+
+5. Nurodant Europos Sąjungos teisės
+
+aktą, turi būti nurodomas jį priėmusios institucijos ar institucijų
+
+pavadinimai, teisės akto priėmimo data, numeris ir pilnas pavadinimas. Jei
+
+Europos Sąjungos teisės aktas yra pakeistas ar papildytas ir naujos jo
+
+nuostatos derinamos bei įgyvendinamos Lietuvos Respublikos teisės aktu, pagal
+
+šioje dalyje nustatytus reikalavimus taip pat nurodomi visi to Europos Sąjungos
+
+teisės akto pakeitimai ar papildymai. Nuorodos į oficialų Europos Sąjungos
+
+teisės akto paskelbimo ne lietuvių kalba šaltinį nepateikiamos.
+
+6. Nuorodos į Europos Sąjungos teisės
+
+aktus, kurių nuostatos ar principai nėra privalomi, tačiau norima pabrėžti jų
+
+svarbą, pateikiamos įstatymo pradžioje ar kito teisės akto
+
+preambulėje.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. IX-946,
+
+2002-06-11, Žin., 2002, Nr. 66-2705 (2002-06-29)
+
+13 straipsnis. Šio įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja nuo 1996 m.
+
+sausio 1 dienos.
+
+Skelbiu šį Lietuvos Respublikos Seimo
+
+priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                 ALGIRDAS
 
 BRAZAUSKAS
+
+________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. I-1421, 1996.07.02,
+
+Žin., 1996, Nr. 68-1632 (1996.07.19)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 4,
+
+6, 7, 8, 9 IR 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-516,
+
+1997.11.18, Žin., 1997, Nr. 111-2796 (1997.12.05)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 11
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-600,
+
+1998.01.08, Žin., 1998, Nr. 6-114 (1998.01.16)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 4
+
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1193,
+
+1999.05.20, Žin., 1999, Nr. 48-1527 (1999.06.02)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 7
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-946,
+
+2002-06-11, Žin., 2002, Nr. 66-2705 (2002-06-29)
+
+ĮSTATYMŲ IR KITŲ TEISĖS NORMINIŲ
+
+AKTŲ RENGIMO TVARKOS ĮSTATYMO 4, 5 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI
+
+ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU ĮSTATYMAS
+
+Šio Įstatymo 1, 2 ir 3
+
+straipsniai įsigalioja nuo 2002 m. liepos 1 d.
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė
+
+(2002-07-01)
+
+autrap@lrs.lt
 
