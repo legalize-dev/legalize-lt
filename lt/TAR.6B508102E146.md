@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "2001-05-17"
+last_updated: "2001-07-10"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -56,29 +56,33 @@ apmokestinimą akcizais.
 
 1. Akcizus į biudžetą moka šio įstatymo 3 straipsnyje
 
-išvardytų prekių, išskyrus nurodytas 3 straipsnio 1 dalies 12 punkte,
+išvardytų prekių, išskyrus nurodytas
 
-gamintojai ir importuotojai – juridiniai ir fiziniai asmenys bei juridinio
+3 straipsnio 1 dalies 12 punkte, gamintojai ir importuotojai – juridiniai ir
 
-asmens teisių neturinčios įmonės. Už 3 straipsnio 1 dalies 12 punkte nurodytas
+fiziniai asmenys.
 
-prekes akcizą Lietuvos Respublikos Vyriausybės nustatyta tvarka į biudžetą moka
+Už 3 straipsnio 1 dalies 12 punkte nurodytas prekes akcizą Lietuvos Respublikos
 
-įmonės, turinčios licenciją verstis mažmenine prekyba suskystintomis dujomis,
+Vyriausybės nustatyta tvarka į biudžetą moka įmonės, turinčios licenciją
 
-skirtomis automobilių transportui, taip pat kitos įmonės – už savo reikmėms
+verstis mažmenine prekyba suskystintomis dujomis, skirtomis automobilių
 
-panaudotas suskystintas dujas, skirtas automobilių transportui, jei už jas
+transportui, taip pat kitos įmonės – už savo reikmėms panaudotas suskystintas
 
-akcizas nesumokėtas. Laisvųjų ekonominių zonų įmonės akcizų nemoka.
+dujas, skirtas automobilių transportui, jei už jas akcizas nesumokėtas.
+
+Laisvųjų ekonominių zonų įmonės akcizų nemoka.
 
 2. Už naftos produktus, pagamintus akcinėje bendrovėje
 
-„Mažeikių nafta“, išskyrus 3 straipsnio 1 dalies 12 punkte nurodytus naftos
+„Mažeikių nafta“, išskyrus
 
-produktus, nesvarbu, iš kieno naftos šie produktai pagaminti, akcizus
+3 straipsnio 1 dalies 12 punkte nurodytus naftos produktus, nesvarbu, iš kieno
 
-apskaičiuoja, surenka ir moka akcinė bendrovė „Mažeikių nafta“.
+naftos šie produktai pagaminti, akcizus apskaičiuoja, surenka ir moka akcinė
+
+bendrovė „Mažeikių nafta“.
 
 3. Šio įstatymo 5 straipsnio 2 dalyje nurodytu atveju
 
@@ -97,6 +101,10 @@ Nr. VIII-1553,
 Nr. IX-170, 2001 01 26, Žin., 2001, Nr.
 
 14-425 (2001 02 14), įsigalioja nuo 2001 03 01
+
+Nr. IX-441, 2001-07-10, Žin., 2001, Nr.
+
+62-2239 (2001-07-18)
 
 3 straipsnis. Akcizų objektas
 
@@ -200,19 +208,19 @@ nustatyta tvarka.
 
 5 straipsnis. Apmokestinamoji apyvarta
 
-1. Akcizai apskaičiuojami už šio įstatymo 3 straipsnyje
+1. Akcizai apskaičiuojami už šio įstatymo 3
 
-išvardytas prekes:
+straipsnyje išvardytas prekes:
 
-1) iš gatavos produkcijos sandėlio perduotas kitam
+1) iš gatavos produkcijos
 
-juridiniam ar fiziniam asmeniui arba juridinio asmens teisių neturinčiai
+sandėlio perduotas kitam juridiniam ar fiziniam asmeniui, kuriems pagal
 
-įmonei, kuriems pagal išrašytus prekių perdavimo dokumentus perleidžiama teisė
+išrašytus prekių perdavimo dokumentus perleidžiama teisė tomis prekėmis
 
-tomis prekėmis disponuoti. Šiuose dokumentuose turi būti Buhalterinės apskaitos
+disponuoti. Šiuose dokumentuose turi būti Buhalterinės apskaitos pagrindų
 
-pagrindų įstatymo 10 straipsnyje nurodyti privalomi rekvizitai;
+įstatymo 10 straipsnyje nurodyti privalomi rekvizitai;
 
 2) įmonės, turinčios
 
@@ -220,19 +228,17 @@ licenciją verstis mažmenine prekyba suskystintomis dujomis, skirtomis
 
 automobilių transportui, – už 3 straipsnio 1 dalies 12 punkte nurodytas prekes,
 
-panaudotas savo reikmėms arba perduotas kitam juridiniam ar fiziniam asmeniui
+panaudotas savo reikmėms arba perduotas kitam juridiniam ar fiziniam asmeniui,
 
-arba įmonei, neturinčiai juridinio asmens teisių, kuriems pagal išrašytus
+kuriam pagal išrašytus prekių perdavimo dokumentus (šiuose dokumentuose turi
 
-prekių perdavimo dokumentus (šiuose dokumentuose turi būti Buhalterinės
+būti Buhalterinės apskaitos pagrindų įstatymo
 
-apskaitos pagrindų įstatymo 10 straipsnyje nurodyti privalomi rekvizitai)
+10 straipsnyje nurodyti privalomi rekvizitai) perleidžiama teisė tomis prekėmis
 
-perleidžiama teisė tomis prekėmis disponuoti, kitos įmonės – už savo reikmėms
+disponuoti, kitos įmonės – už savo reikmėms panaudotas 3 straipsnio 1 dalies 12
 
-panaudotas 3 straipsnio 1 dalies 12 punkte nurodytas prekes, už kurias akcizas
-
-nesumokėtas;
+punkte nurodytas prekes, už kurias akcizas nesumokėtas;
 
 3) importuojamas – Muitinės kodekso nustatytais
 
@@ -242,15 +248,13 @@ punkte nurodytas prekes.
 
 2. Šio įstatymo 6 straipsnio 1 dalies 9 ir 11 punktuose
 
-nurodytos įmonės Lietuvos Respublikos Vyriausybės nustatyta tvarka privalo
+nurodytos įmonės Lietuvos Respublikos Vyriausybės nustatyta tvarka privalo apskaičiuoti
 
-apskaičiuoti ir sumokėti šio įstatymo 5(1) straipsnyje nustatyto
+ir sumokėti šio įstatymo 5(1) straipsnyje nustatyto dydžio akcizą už
 
-dydžio akcizą už perduotą (parduotą ar kitaip perleistą nuosavybėn) arba
+perduotą (parduotą ar kitaip perleistą nuosavybėn) arba panaudotą be akcizo
 
-panaudotą be akcizo įsigytą ar importuotą orlaivių variklių ar laivų kurą,
-
-išskyrus, kai:
+įsigytą ar importuotą orlaivių variklių ar laivų kurą, išskyrus, kai:
 
 1) orlaivių variklių kuras perduotas ar panaudotas
 
@@ -276,11 +280,9 @@ vykdyti, ar žvejybos laivus.
 
 3. Akcizai yra prekių kainos elementas ir
 
-sąskaitose-faktūrose bei mokėjimo dokumentuose nenurodomi, išskyrus akcizą už
+sąskaitose-faktūrose bei mokėjimo dokumentuose nenurodomi, išskyrus akcizą už cukrų.
 
-cukrų. Akcizas už cukrų nurodomas Lietuvos Respublikos Vyriausybės nustatyta
-
-tvarka.
+Akcizas už cukrų nurodomas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 Straipsnio
 
@@ -298,79 +300,13 @@ Nr. IX-309, 2001 05 08, Žin., 2001, Nr.
 
 43-1489 (2001 05 23), įsigalioja nuo 2001 06 01
 
+Nr. IX-441, 2001-07-10, Žin., 2001, Nr.
+
+62-2239 (2001-07-18)
+
 5(1 )straipsnis. Akcizų tarifai
 
 1. Prekės apmokestinamos taikant šiuos akcizų tarifus:
-
-1) nedenatūruotam etilo alkoholiui ir alkoholiniams
-
-gėrimams, išskyrus midaus trauktines, šampaną, vyną, alų ir medikamentus su
-
-vaistažolėmis, kurių sudėtyje yra etilo alkoholio, įregistruotus Lietuvos
-
-Respublikos valstybiniame vaistų ir vaistinių medžiagų registre, - 0,30 lito už
-
-1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
-
-2) midaus trauktinėms (pagamintoms natūralaus bičių
-
-medaus pagrindu) - 0,12 lito už 1 procentą tūrinės alkoholio koncentracijos
-
-litre gėrimo;
-
-3)
-
-vynui (įskaitant stiprintąjį), kurio faktinė tūrinė alkoholio koncentracija ne
-
-didesnė kaip 13 procentų:
-
-a) šviežių vynuogių - 0,16 lito už 1
-
-procentą tūrinės alkoholio koncentracijos litre gėrimo,
-
-b) vynuogių misai, kitiems
-
-fermentuotiems gėrimams bei jų mišiniams - 0,12 lito už 1 procentą tūrinės
-
-alkoholio koncentracijos litre gėrimo;
-
-4) vynui (įskaitant stiprintąjį), kurio faktinė tūrinė
-
-alkoholio koncentracija didesnė kaip 13 procentų, bet ne didesnė kaip 18
-
-procentų tūrio:
-
-a) šviežių vynuogių - 0,29 lito už 1 procentą tūrinės
-
-alkoholio koncentracijos litre gėrimo,
-
-b) kitiems fermentuotiems gėrimams bei jų mišiniams -
-
-0,16 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
-
-5) vynui, kitiems fermentuotiems gėrimams bei jų
-
-mišiniams, kurių faktinė tūrinė alkoholio koncentracija didesnė kaip 18
-
-procentų tūrio, - 0,38 lito už 1 procentą tūrinės alkoholio koncentracijos
-
-litre gėrimo;
-
-6) šampanui, putojančiam vynui, perteklinio slėgio
-
-vynui - 0,25 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
-
-7)
-
-alui - 0,40 lito už litrą;
-
-8) cigaretėms su filtru ir be filtro - 30 litų už 1000
-
-cigarečių;
-
-[1
-
-dalies 1 - 8 punktų redakcija nuo 2001 m. birželio 1 d.:
 
 1) nedenatūruotam etilo alkoholiui ir alkoholiniams
 
@@ -408,9 +344,9 @@ hektolitrą, o nuo
 
 2004 m. sausio 1 d. – 150 litų už produkto hektolitrą;
 
-5) tarpiniams produktams, išskyrus
+5) tarpiniams produktams,
 
-nurodytus šios dalies 6 punkte, kurių:
+išskyrus nurodytus šios dalies 6 punkte, kurių:
 
 a) faktinė alkoholio koncentracija, išreikšta tūrio procentais, yra ne
 
@@ -452,7 +388,7 @@ procentą faktinės alkoholio koncentracijos, išreikštos tūrio procentais.
 
 8) cigaretėms su filtru ir be filtro – 32 litai už
 
-1000 cigarečių;]
+1000 cigarečių;
 
 9) fasuotam rūkomajam tabakui ir kitiems tabako
 
@@ -530,25 +466,21 @@ transportui, – 170 litų už vieną tūkstantį litrų.
 
 importuojamo automobilio, priskirto prabangiems automobiliams, deklaruojamoji
 
-kaina mažesnė už naujo bazinio automobilio kainą, apskaičiuojant
+kaina mažesnė už naujo bazinio automobilio kainą, apskaičiuojant apmokestinamąją
 
-apmokestinamąją kainos dalį, maksimali neapmokestinamoji kaina proporcingai
-
-sumažinama.
+kainos dalį, maksimali neapmokestinamoji kaina proporcingai sumažinama.
 
 4. Cukraus kiekį (procentais), nuo kurio skaičiuojamas
 
-šio straipsnio 1 dalies 19 punkte nustatytas akcizo tarifas, nustato Vyriausybė.
+šio straipsnio 1 dalies 19 punkte nustatytas akcizo tarifas, nustato
+
+Vyriausybė.
 
 5. Šio straipsnio 1 dalyje išvardytų prekių kodus
 
 pagal Kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklatūrą
 
 (toliau - KPN) nustato Vyriausybė.
-
-[Straipsnis
-
-papildomas 6 ir 7 dalimis nuo 2001 m. birželio 1 d.:
 
 6. Šio straipsnio 1 dalyje nustatyti akcizo tarifai už
 
@@ -560,7 +492,7 @@ procentų tūrio ir kurio temperatūra yra 20 °C.
 
 7. Vyriausybė nustato alaus gamybos apskaitos bei
 
-akcizo už alų apskaičiavimo pagal faktinę alkoholio koncentraciją taisykles.]
+akcizo už alų apskaičiavimo pagal faktinę alkoholio koncentraciją taisykles.
 
 Įstatymas papildytas straipsniu:
 
@@ -591,10 +523,6 @@ Nr. IX-309, 2001 05 08, Žin., 2001, Nr.
 Nr. IX-332, 2001 05 17, Žin., 2001, Nr.
 
 45-1575 (2001 05 30), įsigalioja nuo 2001 06 01
-
-[Įstatymas
-
-papildomas 5(2) straipsniu nuo 2001 m. birželio 1 d.:
 
 5(2) straipsnis. 5(1 )straipsnyje
 
@@ -664,7 +592,7 @@ bet ne didesnė kaip
 
 22 procentai tūrio, ir kurie pagal šio įstatymo nuostatas nepriskirtini šio
 
-straipsnio 1–5 dalyse nurodytiems gėrimams.]
+straipsnio 1–5 dalyse nurodytiems gėrimams.
 
 Įstatymas papildytas straipsniu:
 
@@ -784,25 +712,13 @@ etilo alkoholio turinčios žaliavos parduodami:
 
 apmokestinamiems alkoholiniams gėrimams gaminti;
 
-2) farmacijos įmonėms
-
-ir medicinos pagalbos įstaigoms - medicinos ir farmacijos reikmėms;
-
-veterinarinių vaistų gamybos įmonėms - veterinarinių vaistų gamybai ir
-
-veterinarijos tiekimo įmonėms - veterinarijos reikmėms.
-
-[2
-
-dalies 2 punkto redakcija nuo 2001 m. birželio 1 d.:
-
 2) farmacijos įmonėms ir sveikatos priežiūros
 
 įstaigoms – sveikatinimo reikmėms; veterinarinių vaistų gamybos įmonėms –
 
 veterinarinių vaistų gamybai; veterinarijos tiekimo
 
-įmonėms – veterinarijos reikmėms.]
+įmonėms – veterinarijos reikmėms.
 
 3. Mažos alų gaminančios įmonės (toliau - mažosios
 
@@ -824,13 +740,13 @@ nuo bet kokios kitos alaus daryklos ir kuri nevykdo savo veiklos pagal kitos
 
 Respublikos Vyriausybė ar jos įgaliota institucija.
 
-4. Degtinei, kurios alkoholio koncentracija didesnė
+4. Degtinei, kurios alkoholio koncentracija didesnė kaip
 
-kaip 30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri
+30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri atitinka
 
-atitinka Vyriausybės nustatytus technologinius bei kokybės reikalavimus,
+Vyriausybės nustatytus technologinius bei kokybės reikalavimus, taikomas
 
-taikomas mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio
+mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio
 
 koncentracijos litre gėrimo. Ši lengvata pradedama taikyti Vyriausybei priėmus
 
@@ -944,13 +860,11 @@ dalį.
 
 Vyriausybės nustatyta tvarka.
 
-4. Už Lietuvos Respublikoje pagamintus ir įvežamus
+4. Už Lietuvos Respublikoje pagamintus ir įvežamus alkoholinius
 
-alkoholinius gėrimus, tabako gaminius bei naftos produktus Vyriausybė gali
+gėrimus, tabako gaminius bei naftos produktus Vyriausybė gali nustatyti kitokią
 
-nustatyti kitokią akcizų apskaičiavimo ir mokėjimo į biudžetą tvarką bei
-
-terminus.
+akcizų apskaičiavimo ir mokėjimo į biudžetą tvarką bei terminus.
 
 10 straipsnis. Akcizų išieškojimas
 
@@ -1372,11 +1286,27 @@ STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 5(2) STRAIPSNIU
 
 straipsnį, įsigalioja nuo 2001 m. birželio 1 d.
 
+22.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. IX-441, 2001-07-10, Žin., 2001, Nr.
+
+62-2239 (2001-07-18)
+
+AKCIZŲ ĮSTATYMO 2 IR 5
+
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2001 05 31)
+Redagavo: Aušra
 
-autrap@lrs.lt
+Petraitienė (2001-07-19)
+
+aupetr@lrs.lt
 
 13 straipsnis. Baigiamosios nuostatos
 
