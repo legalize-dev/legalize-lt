@@ -4,7 +4,7 @@ identifier: "TAR.3C56DC9F15F3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-20"
-last_updated: "1995-01-01"
+last_updated: "1997-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3C56DC9F15F3"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)
 
-Suvestinė redakcija nuo 1995-01-01 iki 1997-07-01
+Suvestinė redakcija nuo 1997-07-02 iki 2004-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1162, i. k. 0941010ISTA000I-576
 
@@ -51,11 +51,19 @@ Nr. I-731, 1994-12-22, Žin. 1994, Nr. 101-2019 (1994-12-30), i. k. 0941010ISTA0
 
 5 straipsnis.
 
-Išmokėti žuvusiųjų būtinojoje karinėje tarnyboje sovietinėje armijoje šeimoms 120 MMA dydžio vienkartinę kompensaciją. Kompensacija mokama žuvusiųjų tėvams (įtėviams), kitos santuokos nesudariusiems sutuoktiniams, vaikams (įvaikiams) ir kitiems išlaikytiniams lygiomis dalimis.
+Išmokėti žuvusiųjų būtinojoje karinėje tarnyboje sovietinėje armijoje šeimoms 14400 litų vienkartinę kompensaciją. Kompensacija mokama žuvusiųjų tėvams (įtėviams), kitos santuokos nesudariusiems sutuoktiniams, vaikams (įvaikiams) ir kitiems išlaikytiniams lygiomis dalimis.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010ISTAVIII-241
 
 6 straipsnis.
 
-Išmokėti kompensacijas: I grupės invalidams – 60 MMA dydžio, II grupės invalidams – 48 MMA dydžio ir III grupės invalidams – 36 MMA dydžio. Sužalotiems būtinojoje karinėje tarnyboje sovietinėje armijoje asmenims – 24 MMA dydžio.
+Išmokėti kompensacijas: I grupės invalidams – 7200 litų, II grupės invalidams – 5760 litų ir III grupės invalidams – 4320 litų. Sužalotiems būtinojoje karinėje tarnyboje sovietinėje armijoje asmenims – 2880 litų.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010ISTAVIII-241
 
 7 straipsnis.
 
@@ -63,27 +71,15 @@ Išmokėti kompensacijas: I grupės invalidams – 60 MMA dydžio, II grupės in
 
 8 straipsnis.
 
-Kompensacijos išmokamos per 2 metus iš Valstybės biudžeto ir kitų lėšų. Kompensacijų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Kompensacijos išmokamos iš Valstybės biudžeto ir kitų lėšų šiame įstatyme nurodytiems asmenims, jeigu jie kreipėsi dėl kompensacijų iki 1997 m. rugpjūčio 1 d. Kompensacijų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė. Įstatymas įsigalioja nuo 1995 m. sausio 1 dienos.
 
-Įstatymas įsigalioja nuo 1995 m. sausio 1 dienos.
+Straipsnio pakeitimai:
+
+Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010ISTAVIII-241
 
 9 straipsnis.
 
 Išmokėtos kompensacijos Lietuvos Respublikos Vyriausybės registruojamos kaip Rusijos, SSRS teisių ir pareigų perėmėjos, skola Lietuvai.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-731, 1994-12-22, Žin., 1994, Nr. 101-2019 (1994-12-30), i. k. 0941010ISTA000I-731
-
-Dėl Lietuvos Respublikos įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)" pakeitimo
 
 10 straipsnis.
 
