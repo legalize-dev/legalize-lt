@@ -4,7 +4,7 @@ identifier: "TAR.C7B4705BFD4A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-01"
-last_updated: "1993-07-14"
+last_updated: "1993-12-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7B4705BFD4A"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1993-07-01"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Vyriausybės atstovo įstatymas
+
+Suvestinė redakcija nuo 1993-12-29 iki 1996-06-18
+
+Įstatymas paskelbtas: Žin. 1993, Nr. 28-639, i. k. 0931010ISTA000I-200
 
 LIETUVOS RESPUBLIKOS
 
@@ -49,13 +53,19 @@ Vyriausybės atstovas privalo tikrinti, ar savivaldybių kolegialių ir nekolegi
 
 Apie teikimo svarstymo rezultatus savivaldybės privalo informuoti Vyriausybės atstovą: dėl tarybos sprendimo – per mėnesį nuo teikimo gavimo dienos, dėl valdybos ir nekolegialiai priimtų aktų – per savaitę;
 
-2) savo potvarkiu sustabdo ginčytino sprendimo vykdymą ir teikia motyvuotą reikalavimą, kuris turi būti nedelsiant apsvarstytas sesijoje ar posėdyje ir dėl jo priimtas sprendimas.
+2) savo potvarkiu sustabdo ginčytino sprendimo vykdymą ir teikia motyvuotą reikalavimą, kuris turi būti nedelsiant apsvarstytas sesijoje ar posėdyje ir dėl jo priimtas sprendimas;
+
+3) rašo savivaldybės tarybai ar jos vykdomajam organui reikalavimą, kad šie neatidėliodami vykdytų Vyriausybės nutarimą, ir prašo nurodytu laiku raštu pranešti apie reikalavimo įvykdymo rezultatus.
 
 4 straipsnis. Sustabdytieji savivaldybių organų sprendimai negali būti vykdomi, kol galutinai ginčas nebus išspręstas per nustatytą terminą savivaldybėje arba teismo sprendimu.
 
 Visais atvejais apie Vyriausybės atstovo reikalavimų svarstymo laiką ir vietą turi būti informuojamas Vyriausybės atstovas ir pagal pavaldumą aukštesnis savivaldybės organas. Jeigu nekolegialiai priimto potvarkio ar įsakymo panaikinimo klausimą imasi svarstyti kolegialus organas, turintis teisę jį naikinti, tai Vyriausybės atstovas, kolegialaus organo prašymu, atideda sutartam laikui savo reikalavimo įvykdymo terminą.
 
-5 straipsnis. Jeigu savivaldybės taryba arba valdyba atsisako vykdyti Vyriausybės atstovo reikalavimą, taip pat jeigu šios institucijos per dvi savaites nepanaikina joms pavaldžių organų ar pareigūnų ginčytinų aktų, Vyriausybės atstovas per tris dienas pateikia ieškinį teismui dėl tokių aktų panaikinimo.
+5 straipsnis. Jeigu savivaldybės taryba arba valdyba atsisako vykdyti Vyriausybės atstovo reikalavimą arba laiku nepraneša apie reikalavimo ar Vyriausybės nutarimo vykdymą, taip pat jeigu šios institucijos nuo Vyriausybės atstovo potvarkio gavimo dienos per 2 savaites nepanaikina savo ar joms pavaldžių organų (valdybos, mero, valdytojo, viršaičio) neteisėtų aktų, Vyriausybės atstovas per 10 dienų apskundžia šiuos aktus ar pareigūnų veiksmus teismui, o dėl Vyriausybės nutarimo nevykdymo praneša Vyriausybei.
+
+Straipsnio pakeitimai:
+
+Nr. I-343, 1993-12-21, Žin., 1993, Nr. 73-1370 (1993-12-29); Žin., 1994, Nr. 4-0 (1994-01-14), i. k. 0931010ISTA000I-343
 
 6 straipsnis. Vyriausybės atstovas privalo kiekvieną pusmetį pateikti Vyriausybei ir atitinkamoms savivaldybėms informaciją ir joje nurodyti, ar tikrintų savivaldybių priimti dokumentai teisėti ir kaip jis reagavo į ginčytinus sprendimus, taip pat kokie pateiktų reikalavimų svarstymo bei ginčų sprendimo teismuose rezultatai.
 
@@ -63,11 +73,21 @@ Visais atvejais apie Vyriausybės atstovo reikalavimų svarstymo laiką ir viet�
 
 Vyriausybės atstovu skiriamas Lietuvos Respublikos pilietis, turintis aukštąjį išsilavinimą.
 
-Vyriausybės atstovas yra valstybės pareigūnas. Jis negali užimti jokių kitų renkamų ar skiriamų pareigų, dirbti valstybinėse, visuomeninėse, privačiose verslo, komercijos ar kitokiose įstaigose ar įmonėse, taip pat gauti kitokio atlyginimo, išskyrus nustatytą pagal užimamas pareigas bei užmokestį už kūrybinę veiklą.
+Vyriausybės atstovas yra valstybės pareigūnas. Jis negali užimti jokių kitų renkamų ar skiriamų pareigų (išskyrus politinėse partijose, kitose politinėse ir visuomeninėse organizacijose), būti savivaldybės tarybos deputatu, dirbti kitose valstybinėse, privačiose verslo, komercijos ar kitokiose įstaigose, įmonėse bei visuomeninėse organizacijose, taip pat gauti kitokio atlyginimo, išskyrus pagal pareigas nustatytąjį bei užmokestį už kūrybinę veiklą.
 
 8 straipsnis. Vyriausybės atstovas išlaikomas iš valstybės biudžeto. Jo darbo apimtį ir vietą, materialinį aprūpinimą ir atlyginimą nustato Vyriausybė.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-343, 1993-12-21, Žin., 1993, Nr. 73-1370 (1993-12-29); Žin., 1994, Nr. 4-0 (1994-01-14), i. k. 0931010ISTA000I-343
+
+Dėl Lietuvos Respublikos Vyriausybės atstovo įstatymo pakeitimo
 
