@@ -4,7 +4,7 @@ identifier: "TAR.9F0B5321D2DB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-16"
-last_updated: "2004-01-01"
+last_updated: "2004-11-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0B5321D2DB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas
+
+Suvestinė redakcija nuo 2004-11-26 iki 2005-06-30
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 101-4543, i. k. 1031010ISTA0IX-1789
 
 LIETUVOS RESPUBLIKOS LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARŲ STATUSO ĮSTATYMAS
 
@@ -62,7 +66,13 @@ Vilnius
 
 6 straipsnis. Valstybinė signataro renta
 
-Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signataro rentos dydis yra 50 procentų Seimo nario pareiginės algos per mėnesį.
+1. Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signataro rentos dydis yra 50 procentų Seimo nario pareiginės algos per mėnesį.
+
+2. Valstybinę signataro rentą turi teisę tomis pačiomis sąlygomis gauti ir Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatai, 1990 m. kovo 11–14 dienomis vykdę svarbią valstybinę užduotį Maskvoje.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
 
 7 straipsnis. Valstybinės signataro rentos skyrimo ir mokėjimo sąlygos
 
@@ -92,9 +102,23 @@ Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signatar
 
 1. Valstybinę signataro našlių ir našlaičių rentą turi teisę gauti mirusio signataro (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) sutuoktinis, vaikai bei įvaikiai iki 18 metų, vyresni kaip 18 metų, jeigu jie tapo invalidais iki 18 metų, taip pat vidurinių bei nustatyta tvarka įregistruotų aukštųjų, aukštesniųjų ir profesinių mokyklų dieninių skyrių studentai ir moksleiviai iki šių mokyklų baigimo, bet ne ilgiau, negu jiems sukaks 24 metai.
 
-2. Valstybinės signataro našlių ir našlaičių rentos dydis yra 25 procentai valstybinės signataro rentos dydžio kiekvienam šio straipsnio 1 dalyje nurodytam asmeniui.
+2. Valstybinę signataro našlių ir našlaičių rentą turi teisę tomis pačiomis sąlygomis gauti ir šio Įstatymo 6 straipsnio 2 dalyje nurodytų Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatų našlės ir našlaičiai.
 
-3. Valstybinė signataro našlių ir našlaičių renta neskiriama, o paskirtoji nemokama, jeigu:
+Papildyta straipsnio dalimi:
+
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
+
+3. Valstybinės signataro našlių ir našlaičių rentos dydis yra 25 procentai valstybinės signataro rentos dydžio kiekvienam šio straipsnio 1 dalyje nurodytam asmeniui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
+
+4. Valstybinė signataro našlių ir našlaičių renta neskiriama, o paskirtoji nemokama, jeigu:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
 
 1) mirusio signataro sutuoktinis, vaikas, įvaikis nėra Lietuvos Respublikos pilietis;
 
@@ -104,7 +128,11 @@ Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signatar
 
 4) mirusio signataro sutuoktinis neatsisako gaunamos valstybinės pensijos, išskyrus valstybinę socialinio draudimo pensiją.
 
-4. Valstybinės signataro našlių ir našlaičių rentos gavėjas privalo pranešti rentą mokančiai institucijai apie šio straipsnio 3 dalyje nurodytų aplinkybių atsiradimą per 10 dienų nuo jų atsiradimo. Jeigu apie nurodytas aplinkybes laiku nepranešama ir dėl to renta permokama, permokėtos rentos suma išieškoma iš rentos gavėjo įstatymų nustatyta tvarka.
+5. Valstybinės signataro našlių ir našlaičių rentos gavėjas privalo pranešti rentą mokančiai institucijai apie šio straipsnio 3 dalyje nurodytų aplinkybių atsiradimą per 10 dienų nuo jų atsiradimo. Jeigu apie nurodytas aplinkybes laiku nepranešama ir dėl to renta permokama, permokėtos rentos suma išieškoma iš rentos gavėjo įstatymų nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
 
 10 straipsnis. Valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos skyrimo ir mokėjimo tvarka
 
@@ -160,7 +188,9 @@ Lietuvos Respublikos
 
 priedėlis
 
-LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARAI
+LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARAI IR LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS-ATKURIAMOJO SEIMO DEPUTATAI, 1990 M. KOVO 11–14 DIENOMIS VYKDĘ SVARBIĄ VALSTYBINĘ UŽDUOTĮ MASKVOJE
+
+I. Lietuvos Nepriklausomybės Akto signatarai
 
 1. Aleksandras Algirdas ABIŠALA
 
@@ -409,4 +439,26 @@ LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARAI
 123. Alfonsas ŽALYS
 
 124. Vidmantas ŽIEMELIS
+
+II. Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatai, 1990 m. kovo 11–14 dienomis vykdę svarbią valstybinę užduotį Maskvoje
+
+1. Stasys KAŠAUSKAS
+
+2. Nikolaj MEDVEDEV
+
+3. Mindaugas STAKVILEVIČIUS
+
+Priedo pakeitimai:
+
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
+
+Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų statuso įstatymo 6, 9 straipsnių ir priedėlio papildymo įstatymas
 
