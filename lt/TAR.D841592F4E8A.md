@@ -4,7 +4,7 @@ identifier: "TAR.D841592F4E8A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-25"
-last_updated: "1998-01-01"
+last_updated: "1999-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D841592F4E8A"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1997-11-25"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymas
+
+Suvestinė redakcija nuo 1999-12-22 iki 2005-07-13
+
+Įstatymas paskelbtas: Žin. 1997, Nr. 114-2868, i. k. 0971010ISTAVIII-541
 
 LIETUVOS RESPUBLIKOS
 
@@ -47,7 +51,11 @@ Vilnius
 
 4) sužalotiems kovose – 5 600 Lt.
 
-2. Pašalpos išmokamos per 2 metus iš valstybės biudžeto. Pašalpų mokėjimo tvarką nustato Vyriausybė.
+2. Pašalpos išmokamos iš valstybės biudžeto. Pašalpų mokėjimo tvarką nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1471, 1999-12-07, Žin., 1999, Nr. 108-3131 (1999-12-22), i. k. 0991010ISTAIII-1471
 
 4 straipsnis. Karių savanorių laidojimo tvarka
 
@@ -64,4 +72,14 @@ Vyriausybė iki 1998 m. vasario 1 d. parengia ir pateikia Seimui valstybės para
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1471, 1999-12-07, Žin., 1999, Nr. 108-3131 (1999-12-22), i. k. 0991010ISTAIII-1471
+
+Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo 3 straipsnio pakeitimo įstatymas
 
