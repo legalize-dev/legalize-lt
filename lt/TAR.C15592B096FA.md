@@ -4,7 +4,7 @@ identifier: "TAR.C15592B096FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-15"
-last_updated: "2000-07-04"
+last_updated: "2003-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 department: "Lietuvos Respublikos Seimas"
@@ -651,53 +651,35 @@ civilinės saugos pratyboms.
 
 gelbėjimo tarnyba
 
-1. Valstybinė priešgaisrinė gelbėjimo
+1. Valstybinė
 
-tarnyba yra nuolatinės parengties sudėtinė civilinės saugos ir gelbėjimo
+priešgaisrinė gelbėjimo tarnyba yra nuolatinės parengties sudėtinė civilinės
 
-sistemos dalis, vadovaujanti gaisrų gesinimui, žmonių paieškai ir gelbėjimui
+saugos ir gelbėjimo sistemos dalis, organizuojanti gaisrų gesinimą, gesinanti
 
-bei jų skubiam iškeldinimui iš ekstremalių situacijų židinių ir teikianti
-
-įstatymo nustatyto masto pirmąją medicinos pagalbą. Valstybinei priešgaisrinei
-
-gelbėjimo tarnybai vadovauja Priešgaisrinės apsaugos ir gelbėjimo departamentas
-
-prie Vidaus reikalų ministerijos (toliau - Priešgaisrinės apsaugos ir gelbėjimo
-
-departamentas).
+gaisrus, atliekanti gelbėjimo darbus bei valstybinę priešgaisrinę priežiūrą.
 
 2. Likviduojant ekstremalių situacijų
 
-padarinius dalyvaujantys valstybinės priešgaisrinės gelbėjimo tarnybos
+padarinius dalyvaujančios valstybinė priešgaisrinė gelbėjimo tarnyba,
 
-padaliniai, ugniagesių komandos bei žinybinės priešgaisrinės pajėgos,
+savivaldybių priešgaisrinės tarnybos, žinybinės priešgaisrinės pajėgos ir
 
-neatsižvelgiant į jų priklausomybę, yra pavaldūs Priešgaisrinės apsaugos ir
+savanoriškos ugniagesių formuotės, neatsižvelgiant į jų priklausomybę, yra
 
-gelbėjimo departamento paskirtam gelbėjimo darbų ekstremalaus įvykio židinyje
+pavaldžios Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus
 
-vadovui.
+reikalų ministerijos (toliau – Priešgaisrinės apsaugos ir gelbėjimo
 
-3. Valstybinė priešgaisrinė gelbėjimo
+departamentas) direktoriaus nustatyta tvarka paskirtam gelbėjimo darbų vadovui.
 
-tarnyba vykdo valstybinę priešgaisrinę priežiūrą. Jos uždaviniai yra vykdyti
+Straipsnio
 
-gaisrų prevenciją ir užtikrinti technines bei organizacines priemones gaisrams
+pakeitimai:
 
-gesinti. Valstybinės priešgaisrinės priežiūros darbas organizuojamas
+Nr. IX-1674,
 
-vadovaujantis Vyriausybės patvirtintais nuostatais.
-
-4. Valstybinės priešgaisrinės gelbėjimo
-
-tarnybos ir jos padalinių veiklos nuostatus, sudėtį, materialinio techninio
-
-aprūpinimo normas bei plėtros programas tvirtina steigėjas, o detalias
-
-funkcijas, teises ir atsakomybę ekstremalių situacijų atvejais, atliekant
-
-gelbėjimo darbus, nustato kiti teisės aktai.
+2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
 
 12 straipsnis. Ministerijos ir kitos
 
@@ -801,9 +783,9 @@ departamentą apie administraciniame vienete įvykusius ekstremalius įvykius;
 
 padarinių likvidavimą, paieškos ir gelbėjimo darbų aprūpinimą;
 
-7) teikia pagalbą nukentėjusiesiems dėl
+7) teikia pagalbą nukentėjusiesiems dėl ekstremalių
 
-ekstremalių įvykių;
+įvykių;
 
 8) kontroliuoja savivaldos vykdomųjų
 
@@ -893,11 +875,11 @@ saugos priemonių valstybinį rezervą ir prireikus organizuoja jo išdavimą;
 
 apie savivaldybės teritorijoje įvykusias ekstremalias situacijas;
 
-13) telkia visas savivaldybės teritorijoje
+13) telkia visas savivaldybės
 
-esančias civilinės saugos pajėgas ekstremalių situacijų padariniams šalinti ir
+teritorijoje esančias civilinės saugos pajėgas ekstremalių situacijų
 
-gelbėjimo darbams atlikti;
+padariniams šalinti ir gelbėjimo darbams atlikti;
 
 14) teikia pagalbą nukentėjusiesiems dėl
 
@@ -1149,23 +1131,23 @@ avarijų ar katastrofų atvejais šis centras nedelsdamas organizuoja nelaimės
 
 stabdymą, žmonių gelbėjimą ir padarinių šalinimą. Prireikus į pagalbą gelbėjimo
 
-darbus atliekančioms civilinės saugos pajėgoms telkia kitoms valstybės institucijoms
+darbus atliekančioms civilinės saugos pajėgoms telkia kitoms valstybės
 
-pavaldžias tarnybas ir techniką, koordinuoja jų veiksmus. Vyriausybė tvirtina
+institucijoms pavaldžias tarnybas ir techniką, koordinuoja jų veiksmus.
 
-ekstremalių situacijų valdymo planus. Juose, kai to reikia, numatomas ministrų
+Vyriausybė tvirtina ekstremalių situacijų valdymo planus. Juose, kai to reikia,
 
-vadovavimas gelbėjimo ir padarinių šalinimo veiksmams.
+numatomas ministrų vadovavimas gelbėjimo ir padarinių šalinimo veiksmams.
 
-2. Ekstremalių situacijų atvejais Ekstremalių
+2. Ekstremalių situacijų atvejais
 
-situacijų valdymo centras priima ir teikia ministerijoms, kitoms valstybės
+Ekstremalių situacijų valdymo centras priima ir teikia ministerijoms, kitoms
 
-valdymo institucijoms, vietos savivaldos vykdomosioms institucijoms, ūkio
+valstybės valdymo institucijoms, vietos savivaldos vykdomosioms institucijoms,
 
-subjektams ir gyventojams privalomus sprendimus dėl ekstremalios situacijos
+ūkio subjektams ir gyventojams privalomus sprendimus dėl ekstremalios
 
-padarinių lokalizavimo ir šalinimo.
+situacijos padarinių lokalizavimo ir šalinimo.
 
 3. Ekstremalių situacijų valdymo centrą
 
@@ -1213,51 +1195,27 @@ gelbėjimo sistemos pajėgos
 
 1. Civilinės saugos ir gelbėjimo
 
-sistemos pajėgos sudaromos gelbėjimo, žmonių paieškos ir kitiems
+sistemos pajėgos sudaromos gelbėjimo, žmonių paieškos ir kitiems neatidėliotiniems
 
-neatidėliotiniems darbams atlikti.
+darbams atlikti.
 
 2. Civilinės saugos ir gelbėjimo
 
 sistemos pajėgos pagal savo paskirtį yra:
 
-1) Valstybinės priešgaisrinės gelbėjimo
-
-tarnybos padaliniai;
+1) priešgaisrinės gelbėjimo pajėgos;
 
 2) bendrosios ir specialiosios
 
-paskirties profesionaliosios ir savanoriškosios formuotės;
+paskirties profesionaliosios ir savanoriškosios formuotės.
 
-3) savivaldybių priešgaisrinės tarnybos.
+Straipsnio
 
-24
+pakeitimai:
 
-straipsnis. Valstybinės priešgaisrinės gelbėjimo tarnybos padaliniai ir jų
+Nr. IX-1674,
 
-paskirtis
-
-1. Valstybinės priešgaisrinės gelbėjimo
-
-tarnybos padaliniai gesina gaisrus, vykdo gelbėjimo darbus pramoninių avarijų
-
-ir transporto avarijų vietose, likviduoja gaivalinių nelaimių padarinius,
-
-cheminius ir radiacinius incidentus, dalyvauja atliekant žmonių paiešką
-
-sausumoje, teritoriniuose vandenyse ir ekonominėje zonoje, suteikia
-
-nukentėjusiesiems pirmąją medicinos pagalbą bei vykdo valstybinę priešgaisrinę
-
-priežiūrą. Šie padaliniai steigiami apskrityse, rajonuose (miestuose) bei ūkio
-
-subjektuose. Jie yra nuolatinės parengties, 24 valandas per parą pasirengę
-
-išvykti į ekstremalaus įvykio vietą.
-
-2. Valstybinės priešgaisrinės gelbėjimo
-
-tarnybos padalinius steigia Vidaus reikalų ministerija.
+2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
 
 25 straipsnis. Bendrosios ir
 
@@ -1277,37 +1235,29 @@ metu, kad būtų sustiprintas ir visapusiškai aprūpintas bendrosios paskirties
 
 formuočių darbas. Specialiosios paskirties formuotes steigia ministerijos,
 
-kitos valstybės valdymo institucijos, rajonų (miestų) savivaldybės ir ūkio subjektai.
+kitos valstybės valdymo institucijos, rajonų (miestų) savivaldybės ir ūkio
+
+subjektai.
 
 3. Bendrosios ir specialiosios
 
 paskirties formuočių sudėtį, formavimo ir aprūpinimo tvarką nustato Vyriausybė.
 
-26 straipsnis. Savivaldybių
+26 straipsnis. Neteko galios
 
-priešgaisrinės tarnybos
+nuo 2003 m. liepos 23 d.
 
-1. Savivaldybės priešgaisrinė
+Straipsnio
 
-tarnyba yra nuolatinės parengties civilinės saugos ir gelbėjimo sistemos dalis,
+pakeitimai:
 
-išlaikoma iš savivaldybės biudžeto.
+Nr. IX-1674,
 
-2. Savivaldybių priešgaisrinės tarnybos
+2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
 
-gesina gaisrus ir atlieka pirminius gelbėjimo darbus.
+27 straipsnis. Paieškos ir gelbėjimo
 
-3. Savivaldybių priešgaisrinių tarnybų
-
-ir valstybinės priešgaisrinės gelbėjimo tarnybos padalinių bendrus veiksmus
-
-nustato Priešgaisrinės apsaugos ir gelbėjimo departamentas. Jis teikia metodinę
-
-pagalbą savivaldybių priešgaisrinėms tarnyboms ir kontroliuoja jų pasirengimą
-
-veikti ekstremalių situacijų atvejais.
-
-27 straipsnis. Paieškos ir gelbėjimo tarnyba
+tarnyba
 
 1. Paieškos ir gelbėjimo tarnyba yra
 
@@ -1349,9 +1299,9 @@ institucijoms priskirtą reguliavimo sritį, kompetenciją ir funkcijas. Šių
 
 tarnybų funkcijas nustato Vyriausybė arba jos įgaliota institucija.
 
-29 straipsnis. Stebėjimo ir
+29 straipsnis. Stebėjimo ir laboratorinės
 
-laboratorinės kontrolės tinklas
+kontrolės tinklas
 
 1. Aplinkos užteršimą pavojingomis
 
@@ -1389,13 +1339,13 @@ valdymo centrams.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1794, 00.07.04, Žin., 2000,
+Nr. VIII-1794, 2000.07.04, Žin., 2000, Nr.
 
-Nr.61-1805 (00.07.26)
+61-1805 (2000.07.26)
 
-30 straipsnis.Vadovavimas gelbėjimo ir
+30 straipsnis.Vadovavimas gelbėjimo ir kitiems
 
-kitiems neatidėliotiniems darbams
+neatidėliotiniems darbams
 
 1. Gaisrų gesinimą, žmonių
 
@@ -1541,23 +1491,23 @@ subjektų vadovai, o atskirais atvejais sprendimą dėl skubaus žmonių iškeld
 
 iš ekstremalaus įvykio židinio priima Valstybinės priešgaisrinės gelbėjimo
 
-tarnybos, rajono (miesto) savivaldybės priešgaisrinės tarnybos ir policijos
+tarnybos, rajono (miesto) savivaldybės priešgaisrinės tarnybos ir policijos pareigūnai.
 
-pareigūnai. Gyventojai evakuojami teritoriniu principu.
+Gyventojai evakuojami teritoriniu principu.
 
 2. Gyventojų evakavimą organizuoja prie
 
-rajono (miesto) ekstremalių situacijų valdymo centrų sudarytos gyventojų evakavimo
+rajono (miesto) ekstremalių situacijų valdymo centrų sudarytos gyventojų
 
-komisijos (grupės), joms vadovauja rajono (miesto) savivaldybės mero paskirti
+evakavimo komisijos (grupės), joms vadovauja rajono (miesto) savivaldybės mero
 
-vadovai. Gyventojų evakavimo komisijos (grupės) sudaromos iš atitinkamo rajono
+paskirti vadovai. Gyventojų evakavimo komisijos (grupės) sudaromos iš
 
-(miesto) administracijos, sveikatos apsaugos, policijos, autotransporto ir kitų
+atitinkamo rajono (miesto) administracijos, sveikatos apsaugos, policijos,
 
-įstaigų pareigūnų. Evakavimo komisijų (grupių) veiklos nuostatus ir komisijų
+autotransporto ir kitų įstaigų pareigūnų. Evakavimo komisijų (grupių) veiklos
 
-sudėtį tvirtina rajono (miesto) meras.
+nuostatus ir komisijų sudėtį tvirtina rajono (miesto) meras.
 
 3. Gyventojų evakavimo organizavimo
 
@@ -1653,11 +1603,11 @@ tarnybų ir jų padalinių vadovai, bendrosios ir specialiosios paskirties
 
 formuočių vadai, visų ūkio subjektų vadovai ir jų pavaduotojai turi baigti
 
-Civilinės saugos departamento nustatytos civilinės saugos mokymo programos kursą.
+Civilinės saugos departamento nustatytos civilinės saugos mokymo programos
 
-Šie darbuotojai mokomi ir jų kvalifikacija civilinės saugos srityje keliama
+kursą. Šie darbuotojai mokomi ir jų kvalifikacija civilinės saugos srityje
 
-Civilinės saugos departamento nustatyta tvarka.
+keliama Civilinės saugos departamento nustatyta tvarka.
 
 34 straipsnis. Civilinės saugos mokymo
 
@@ -1675,13 +1625,15 @@ jo nuostatus tvirtina krašto apsaugos ministras.
 
 ir treniruotės
 
-Valstybės valdymo ir savivaldybių institucijų,
+Valstybės valdymo ir savivaldybių
 
-ūkio subjektų pasirengimui ekstremalioms situacijoms patikrinti bei jų valdymo
+institucijų, ūkio subjektų pasirengimui ekstremalioms situacijoms patikrinti
 
-praktiniams įgūdžiams tobulinti Vyriausybės nustatyta tvarka rengiamos ir iš
+bei jų valdymo praktiniams įgūdžiams tobulinti Vyriausybės nustatyta tvarka
 
-valstybės biudžeto finansuojamos civilinės saugos pratybos ir treniruotės.
+rengiamos ir iš valstybės biudžeto finansuojamos civilinės saugos pratybos ir
+
+treniruotės.
 
 36 straipsnis. Tarptautinis
 
@@ -1739,9 +1691,9 @@ asmenims nuosavybės teise priklausantys materialiniai ištekliai, kompensuojamo
 
 Vyriausybės nustatyta tvarka.
 
-39 straipsnis. Civilinės saugos ir
+39 straipsnis. Civilinės saugos ir gelbėjimo
 
-gelbėjimo sistemos materialinis aprūpinimas
+sistemos materialinis aprūpinimas
 
 1. Gyventojų apsaugai organizuoti,
 
@@ -1823,7 +1775,9 @@ atlyginimas
 
 nuostoliai, gelbėjimo bei padarinių šalinimo išlaidos juridiniams ir fiziniams
 
-asmenims kompensuojamos bei valstybės parama teikiama Vyriausybės nustatyta tvarka.
+asmenims kompensuojamos bei valstybės parama teikiama Vyriausybės nustatyta
+
+tvarka.
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -1833,7 +1787,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 ADAMKUS
 
-________
+_______________
 
 Pakeitimai:
 
@@ -1841,15 +1795,39 @@ Pakeitimai:
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1794, 00.07.04, Žin., 2000,
+Nr. VIII-1794, 2000.07.04, Žin., 2000, Nr.
 
-Nr.61-1805 (00.07.26)
+61-1805 (2000.07.26)
 
 CIVILINĖS SAUGOS ĮSTATYMO 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+2.
 
-Redagavo: Aušrinė Trapinskienė (2000.08.08)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1674,
+
+2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
+
+CIVILINĖS
+
+SAUGOS ĮSTATYMO 11, 23, 24 STRAIPSNIŲ PAKEITIMO IR 26 STRAIPSNIO PRIPAŽINIMO
+
+NETEKUSIU GALIOS ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2003-08-05)
+
+autrap@lrs.lt
 
 24 straipsnis. Priešgaisrinės gelbėjimo
 
@@ -1904,600 +1882,4 @@ pakeitimai:
 Nr. IX-1674,
 
 2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
-
-31 straipsnis. Radiacinių ir pramoninių
-
-avarijų prevencija, avarijų padarinių likvidavimas
-
-1. Radiacinių avarijų prevencijos ir jų
-
-padarinių likvidavimo tvarką bei atsakomybės pagrindus nustato Branduolinės
-
-energijos bei Radiacinės saugos įstatymai.
-
-2. Valstybės institucijos, apskritys ir
-
-savivaldybės rengia veiksmų radiacinės avarijos Ignalinos atominėje elektrinėje
-
-atveju planus ir gyventojų apsaugos priemones bei padarinių, kurie susidarė už
-
-pavojingų objektų ribų, likvidavimo priemones, įtrauktas į civilinės saugos
-
-parengties ekstremalioms situacijoms planus. Planų rengimo metodiką ir užduotis
-
-nustato Priešgaisrinės apsaugos ir gelbėjimo departamentas.
-
-3. Pramoninių avarijų prevencijos,
-
-likvidavimo ir tyrimo tvarką reglamentuoja Pramoninių avarijų prevencijos,
-
-likvidavimo ir tyrimo nuostatai. Juos tvirtina Vyriausybė.
-
-4. Priešgaisrinės
-
-apsaugos ir gelbėjimo departamentas yra kompetentinga institucija, kuri
-
-organizuoja ir koordinuoja valstybės priežiūros ir kontrolės institucijų veiklą
-
-pramoninių avarijų prevencijos ir likvidavimo srityje.
-
-5. Priešgaisrinės
-
-apsaugos ir gelbėjimo departamentas:
-
-1) rengia Lietuvos Respublikos gyventojų
-
-apsaugos radiacinės avarijos Ignalinos atominėje elektrinėje atveju planą,
-
-Pramoninių avarijų prevencijos, likvidavimo ir tyrimo nuostatus ir Avarijų
-
-pavojinguose objektuose likvidavimo planų sudarymo tvarką;
-
-2) kontroliuoja ir vertina pavojingų
-
-objektų pavojaus ir rizikos analizę, avarijų likvidavimo planų sudarymą,
-
-planuose numatytų prevencinių priemonių vykdymą ir pasirengimą galimų avarijų
-
-likvidavimo darbams;
-
-3) sudaro pavojingų objektų veiklos
-
-patikrinimų programą ir organizuoja jos vykdymą;
-
-4) organizuoja ir kontroliuoja valstybės
-
-ir savivaldybių institucijų pasirengimą radiacinės ir pramoninės avarijos padariniams
-
-likviduoti už atominės elektrinės sanitarinės zonos bei pavojingų objektų ribų;
-
-5) Vyriausybės nustatyta tvarka teikia
-
-apie pavojingus objektus informaciją ir ataskaitas Europos Komisijai.
-
-6. Jeigu pavojingo objekto veiklos
-
-vykdytojas nesiima Pramoninių avarijų prevencijos, likvidavimo ir tyrimo
-
-nuostatuose nustatytų prevencinių priemonių avarijoms išvengti, galimų avarijų
-
-padariniams švelninti ir likviduoti, kyla pavojus žmonėms ir aplinkai, Priešgaisrinės
-
-apsaugos ir gelbėjimo departamento vadovaujama iš valstybės priežiūros ir
-
-kontrolės institucijų specialistų sudaryta komisija Vyriausybės nustatyta
-
-tvarka šio objekto veiklą sustabdo. Įvykdžius komisijos reikalavimus, objekto
-
-veikla atnaujinama.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. IX-2001,
-
-2004-02-05, Žin., 2004, Nr. 28-872 (2004-02-21)
-
-Nr. IX-2503,
-
-2004-10-26, Žin., 2004, Nr. 163-5941 (2004-11-09)
-
-6 straipsnis.
-
-Civilinės saugos sistemos valdymo ir veikimo principai
-
-Civilinės saugos sistema, įgyvendindama
-
-jai keliamus tikslus ir uždavinius, vadovaujasi šiais valdymo ir veikimo
-
-principais:
-
-1) ekstremaliųjų situacijų
-
-prevencijos – visi civilinės saugos sistemos subjektai vykdo ekstremaliųjų
-
-situacijų prevenciją pagal teisės aktais jiems priskirtą kompetenciją;
-
-2) saugumo ir paramos – civilinės
-
-saugos sistemos subjektai, likviduodami įvykius, ekstremaliuosius
-
-įvykius ir ekstremaliąsias
-
-situacijas ir atkurdami būtiniausias gyvenimo (veiklos) sąlygas, teikia pagalbą
-
-visuomenei, užtikrina minimalią gyvenimo kokybę;
-
-3) teritoriniu – civilinė sauga
-
-organizuojama visoje valstybėje pagal jos teritorijos administracinį
-
-suskirstymą ir apima visus gyventojus;
-
-4) informavimo, perspėjimo ir
-
-pasirengimo ekstremaliosioms situacijoms – gyventojai, valstybės ir
-
-savivaldybių institucijos ir įstaigos, kitos įstaigos ir ūkio subjektai turi
-
-būti informuojami apie gresiančią ar susidariusią ekstremaliąją situaciją;
-
-5) veiklos diferencijavimo –
-
-civilinės saugos priemonės taikomos ir pasirengimas atlikti gelbėjimo, paieškos
-
-ir neatidėliotinus darbus, likviduoti įvykius,
-
-ekstremaliuosius įvykius ir ekstremaliąsias situacijas ir šalinti jų padarinius
-
-atskiruose teritorijos administraciniuose vienetuose vykdomas atsižvelgiant į
-
-tų vienetų teritorijose prognozuojamų ekstremaliųjų situacijų
-
-pavojingumą ir galimą poveikį;
-
-6) nuolatinės parengties – pagal
-
-ekstremaliosios situacijos lygį kiekvienas civilinės saugos sistemos subjektas
-
-užtikrina jo vadovaujamų civilinės saugos sistemos pajėgų parengtį,
-
-materialinių išteklių panaudojimą likviduojant įvykį, ekstremalųjį įvykį ir
-
-ekstremaliąją situaciją ir šalinant jų padarinius, ekstremaliosios situacijos
-
-metu pagal kompetenciją dalyvauja atliekant ekstremaliosios situacijos
-
-likvidavimo ir jos padarinių šalinimo darbus;
-
-7) viešumo – civilinės saugos
-
-sistemos subjektų veikla civilinės saugos srityje yra atvira visuomenei;
-
-8) visuotinio privalomumo –
-
-civilinės saugos priemonės yra privalomos valstybės ir savivaldybių
-
-institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir gyventojams;
-
-9) sąveikos – gresiant ar
-
-susidarius ekstremaliajai situacijai veiksmų efektyvumas užtikrinamas
-
-koordinuojant visų civilinės saugos sistemos subjektų, karinių vienetų sąveikos
-
-planų įgyvendinimą;
-
-10) racionalumo ir efektyvumo –
-
-racionalaus ir veiksmingo civilinės saugos sistemos pajėgų ir materialinių
-
-išteklių paskirstymo ir naudojimo.
-
-38 straipsnis. Civilinės saugos sistemos materialinis ir techninis aprūpinimas
-
-Gyventojų apsaugai organizuoti, gelbėjimo, paieškos ir neatidėliotiniems darbams atlikti, ekstremaliosioms situacijoms likviduoti ir jų padariniams šalinti iš anksto sudaromas valstybės rezervas, kurio sudarymo, kaupimo, tvarkymo ir administravimo tvarką nustato Lietuvos Respublikos valstybės rezervo įstatymas.
-
-IX skyrius
-
-Baigiamosios nuostatos
-
-301 straipsnis. Prekybos ir paslaugų teikimo reguliavimas valstybės lygio ekstremaliosios situacijos metu
-
-1. Paskelbus valstybės lygio ekstremaliąją situaciją, Vyriausybės ekstremalių situacijų komisija turi teisę nustatyti gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms ir ūkio subjektams būtinų prekių ir (ar) paslaugų sąrašą ir pavesti Valstybinei vartotojų teisių apsaugos tarnybai stebėti šių prekių ir (ar) paslaugų kainų ir prieinamumo pokyčius. Valstybinė vartotojų teisių apsaugos tarnyba, nustačiusi šių prekių ir (ar) paslaugų trūkumą ir (ar) jų prieinamumo kliūtis, nedelsdama apie tai informuoja Vyriausybės ekstremalių situacijų komisiją. Vyriausybės ekstremalių situacijų komisija, atsižvelgdama į gautą informaciją, gali teikti siūlymą Vyriausybei spręsti dėl poreikio imtis šio įstatymo 9 straipsnio 20 punkte nurodytų priemonių.
-
-2. Vyriausybė, gavusi šio straipsnio 1 dalyje nurodytą Vyriausybės ekstremalių situacijų komisijos siūlymą ir Lietuvos Respublikos konkurencijos tarybos nuomonę, turi teisę šio įstatymo 9 straipsnio 20 punkto pagrindu valstybės lygio ekstremaliosios situacijos metu imtis konkrečių prekių ir (ar) paslaugų tiekimą ir prieinamumą didinančių priemonių.
-
-3. Nustatydama šio straipsnio 2 dalyje nurodytas priemones, Vyriausybė turi laikytis proporcingumo principo, nepažeisti sąžiningos konkurencijos ir ūkio subjektų lygiateisiškumo ir nurodyti maksimalų jų taikymo terminą, ne ilgesnį už valstybės lygio ekstremaliosios situacijos trukmę. Paskelbus valstybės lygio ekstremaliąją situaciją gyventojų, valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų ir ūkio subjektų atžvilgiu nustatytas priemones Vyriausybė turi nedelsdama atšaukti, kai išnyksta priežastys, dėl kurių jos buvo nustatytos.
-
-Papildyta straipsniu:
-
-Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
-
-VI SKYRIUS
-
-Kompensacijos, VALSTYBĖS PARAMA IR SOCIALINĖS GARANTIJOS
-
-141 straipsnis. Savivaldybių institucijos ir įstaigos
-
-Savivaldybių institucijos ir įstaigos privalo kaupti apsaugos priemonių atsargas. Savivaldybių institucijas ir įstaigas, kurios pagal šį straipsnį privalo kaupti apsaugos priemones, apsaugos priemonių sąrašus, kiekį ir laikotarpį, kuriam turi būti sukauptos šių apsaugos priemonių atsargos, nustato Vyriausybė ar jos įgaliota institucija.
-
-Papildyta straipsniu:
-
-Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
-
-III SKYRIUS
-
-GYVENTOJŲ, ŪKIO SUBJEKTŲ IR kitų ĮSTAIGŲ TEISĖS IR PAREIGOS CIVILINĖS SAUGOS SRITYJE
-
-40 straipsnis. Asmens teisių ir laisvių, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimų nustatymas
-
-1. Paskelbus valstybės lygio ekstremaliąją situaciją:
-
-1) valstybės ir savivaldybių institucijos ir įstaigos, dalyvaujančios valdant valstybės lygio ekstremaliąją situaciją ir šalinant jos padarinius, gali siūlyti nustatyti gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams asmens judėjimo laisvės, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimus, būtinus valstybės lygio ekstremaliajai situacijai likviduoti ir jos padariniams šalinti. Šie pasiūlymai teikiami Nacionaliniam krizių valdymo centrui;
-
-2) Nacionalinis krizių valdymo centras pasiūlymą Vyriausybei nustatyti gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams asmens judėjimo laisvės, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimus, būtinus valstybės lygio ekstremaliajai situacijai likviduoti ir jos padariniams šalinti, teikia savo iniciatyva arba valstybės ir savivaldybių institucijų ir įstaigų, dalyvaujančių valdant valstybės lygio ekstremaliąją situaciją ir šalinant jos padarinius, siūlymu.
-
-2. Nacionalinis krizių valdymo centras, teikdamas šio straipsnio 1 dalies 2 punkte nurodytus pasiūlymus, turi surinkti informaciją apie pagrįstą poreikį garantuoti viešąją tvarką, gelbėti ar apsaugoti žmogaus gyvybę, sveikatą ar turtą valstybės lygio ekstremaliosios situacijos metu.
-
-3. Vyriausybė, gavusi šio straipsnio 1 dalies 2 punkte nurodytą Nacionalinio krizių valdymo centro pasiūlymą, prieš priimdama sprendimą dėl šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodytų apribojimų, gali paprašyti kompetentingų valstybės institucijų ir įstaigų arba reikiamos srities ekspertų papildomai įvertinti Nacionalinio krizių valdymo centro pateiktą pasiūlymą.
-
-4. Nustatydama šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodytus apribojimus, Vyriausybė turi nustatyti jų taikymo terminą, ne ilgesnį už valstybės lygio ekstremaliosios situacijos trukmę, laikydamasi proporcingumo principo, nepažeisdama sąžiningos konkurencijos ir ūkio subjektų lygiateisiškumo. Paskelbus valstybės lygio ekstremaliąją situaciją gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams nustatytus apribojimus Vyriausybė turi nedelsdama atšaukti, kai išnyksta priežastys, dėl kurių šie apribojimai buvo nustatyti.
-
-43 straipsnis. Perspėjimas ir informavimas
-
-1. Gyventojai, valstybės ir savivaldybių institucijos ir įstaigos, kitos įstaigos, ūkio subjektai ir veiklos vykdytojai apie susidariusią krizę perspėjami išplatinant valstybės ir savivaldybių institucijų ir įstaigų turimą arba joms skirtą informaciją, kuri leistų imtis priemonių, siekiant išvengti galimos žalos arba ją sušvelninti.
-
-2. Gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas, ūkio subjektus ir veiklos vykdytojus apie susidariusią krizę perspėja Nacionalinis krizių valdymo centras.
-
-3. Nacionalinis krizių valdymo centras ir valstybės institucijos ir įstaigos pagal kompetenciją teikia informaciją gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams apie priimtus sprendimus krizių valdymo klausimais. Informacijos teikimą gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams apie priimtus sprendimus krizių valdymo klausimais koordinuoja Nacionalinis krizių valdymo centras.
-
-44 straipsnis. Asmens teisių ir laisvių, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimų nustatymas krizės metu
-
-Asmens judėjimo laisvės, nuosavybės ir būsto neliečiamumo teisės, ūkinės veiklos laisvės, viešųjų ir administracinių paslaugų teikimo apribojimai krizės metu nustatomi mutatis mutandis vadovaujantis šio įstatymo 40 straipsnyje nustatyta tvarka ir reikalavimais.
-
-45 straipsnis. Prekybos ir paslaugų teikimo reguliavimas krizės metu
-
-Prekių tiekimą ir (ar) paslaugų teikimą bei prieinamumą didinančių priemonių krizės metu imamasi mutatis mutandis vadovaujantis šio įstatymo 41 straipsnyje nustatyta tvarka ir reikalavimais.
-
-VI skyrius
-
-KRIZIŲ VALDYMO ir Civilinės saugos sistemOS finansavimas, materialinis ir TECHNINIS APRŪPINIMAS, Kompensacijos ir VALSTYBĖS PARAMA
-
-46 straipsnis. Krizių valdymo ir civilinės saugos sistemos finansavimas
-
-1. Krizių valdymo ir civilinės saugos sistemos subjektų (išskyrus ūkio subjektus ir veiklos vykdytojus) veikla finansuojama iš Lietuvos Respublikos valstybės biudžeto, savivaldybių biudžetų ir kitų teisėtų finansavimo šaltinių, ūkio subjektų ir veiklos vykdytojų – iš savo sukauptų lėšų ir iš kitų teisėtų finansavimo šaltinių.
-
-2. Krizių valdymo ir civilinės saugos sistemos subjektams finansavimas planuojamas ir skiriamas atsižvelgiant į grėsmes Lietuvos Respublikos nacionalinio saugumo interesams, į Lietuvos Respublikos strateginio valdymo įstatymo ir Nacionalinio saugumo pagrindų įstatymo nustatyta tvarka rengiamą programą, skirtą civilinės saugos stiprinimui ir plėtrai užtikrinti, į skirtas valstybines pasirengimo krizėms ir ekstremaliosioms situacijoms, krizių ir ekstremaliųjų situacijų prevencijos, reagavimo į krizes ir ekstremaliąsias situacijas ir jų padarinių šalinimo užduotis, taip pat į valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų pasirengimą krizėms ir ekstremaliosioms situacijoms.
-
-3. Parengties pareigūnų funkcijoms atlikti reikalingų valstybės biudžeto lėšų poreikis nustatomas Vyriausybės nustatyta tvarka.
-
-47 straipsnis. Materialinis ir techninis aprūpinimas
-
-Gyventojų apsaugai organizuoti, paieškos, gelbėjimo ir neatidėliotiniems darbams atlikti, krizėms ir ekstremaliosioms situacijoms likviduoti ir jų padariniams šalinti gali būti:
-
-1) naudojamos sukauptos būtinųjų priemonių atsargos ir kiti krizių valdymo ir civilinės saugos sistemos subjektų valdomi materialiniai ištekliai;
-
-2) naudojamas valstybės rezervas Valstybės rezervo įstatymo nustatytais atvejais ir tvarka;
-
-3) naudojamas Vyriausybės rezervas ir savivaldybės administracijos direktoriaus rezervas Biudžeto sandaros įstatymo nustatytais atvejais ir tvarka;
-
-4) pasitelkiami šio įstatymo 38 straipsnyje nurodyti materialiniai ištekliai.
-
-48 straipsnis. Kompensacija už materialinių išteklių teikimą, būtinų užduočių atlikimą
-
-1. Gyventojams, kitoms įstaigoms ir ūkio subjektams, kurie atliko būtinas užduotis, Vyriausybės nustatyta tvarka kompensuojamos išlaidos, susijusios su būtinų užduočių atlikimu.
-
-2. Kitoms įstaigoms ir ūkio subjektams, kurie teikė materialinius išteklius, išlaidos kompensuojamos Vyriausybės nustatyta tvarka. Kai paskelbta savivaldybės lygio ekstremalioji situacija, savivaldybės materialinių išteklių teikimo išlaidoms padengti naudojami savivaldybės finansavimo ištekliai. Kai paskelbta valstybės lygio ekstremalioji situacija, savivaldybėms iš valstybės finansavimo išteklių Vyriausybės nustatyta tvarka kompensuojama ne mažiau kaip 70 procentų išlaidų pagal valstybės operacijų vadovo nustatytas kompensuotinas išlaidas ir (ar) jų grupes.
-
-49 straipsnis. Valstybės paramos teikimas
-
-Vyriausybės nustatyta tvarka valstybės parama gali būti teikiama gyventojams, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams, kurie dėl krizės ar ekstremaliosios situacijos patyrė žalą. Gyventojai, kitos įstaigos, ūkio subjektai ir veiklos vykdytojai, kurie dėl krizės ar ekstremaliosios situacijos patyrė žalą, turi teisę kreiptis į Vyriausybės įgaliotą instituciją su rašytiniais prašymais suteikti valstybės paramą už žalą, patirtą dėl krizės ar ekstremaliosios situacijos, ne vėliau kaip per trejus metus nuo žalos atsiradimo.
-
-VII skyrius
-
-Tarptautinis bendradarbiavimas
-
-50 straipsnis. Tarptautinis bendradarbiavimas krizių valdymo ir civilinės saugos srityje
-
-1. Lietuvos Respublikos tarptautinis bendradarbiavimas krizių valdymo ir civilinės saugos srityje remiasi visuotinai pripažintais tarptautiniais žmogaus teisių ir laisvių apsaugos, aplinkos apsaugos ir gyventojų gerovės užtikrinimo principais ir vykdomas laikantis Lietuvos Respublikos tarptautinių sutarčių.
-
-2. Priešgaisrinės apsaugos ir gelbėjimo departamentas koordinuoja tarptautinį bendradarbiavimą civilinės saugos srityje ir atstovauja Lietuvos Respublikos interesams specializuotose tarptautinėse institucijose ir organizacijose.
-
-3. Priešgaisrinės apsaugos ir gelbėjimo departamentas bendradarbiauja su Europos Komisijos, NATO ir Jungtinių Tautų reagavimo į nelaimes monitoringo ir koordinaciniais centrais.
-
-4. Nacionalinis krizių valdymo centras koordinuoja tarptautinį bendradarbiavimą krizių valdymo srityje, konsultuoja Lietuvos Respublikos užsienio reikalų ministeriją ir teikia pagalbą diplomatinei tarnybai atstovaujant Lietuvos Respublikos interesams tarptautinėse institucijose ir organizacijose, teikiant informaciją Lietuvoje akredituotų užsienio valstybių diplomatinėms atstovybėms, Europos Sąjungos įstaigoms, tarptautinių organizacijų atstovybėms, kitoms atstovybėms, akredituotiems jų nariams.
-
-5. Nacionalinis krizių valdymo centras, bendradarbiaudamas su Užsienio reikalų ministerija ir Lietuvos Respublikos krašto apsaugos ministerija, vykdo nacionalinių krizių valdymo procedūrų atitikties NATO ir Europos Sąjungos institucijų nustatytoms procedūroms priežiūrą.
-
-51 straipsnis. Civilinės saugos tarptautinė pagalba
-
-1. Civilinės saugos tarptautinė pagalba teikiama siunčiant tarptautinės pagalbos teikimo komandą, ekspertus ir (ar) teikiant pagalbos priemones.
-
-2. Tarptautinės pagalbos teikimo komandos sudarymo ir aprūpinimo tvarkos aprašą tvirtina vidaus reikalų ministras.
-
-3. Civilinės saugos tarptautinės pagalbos prašymo, priėmimo ir teikimo tvarkos aprašą tvirtina Vyriausybė.
-
-52 straipsnis. Informacijos teikimas
-
-1. Kilus krizei, gresiant ar susidarius ekstremaliajai situacijai, dėl kurių gali kilti pavojus kaimyninių valstybių gyventojams ir aplinkai, Nacionalinis krizių valdymo centras kaimyninėms valstybėms teikia informaciją apie krizę, gresiančią ar susidariusią ekstremaliąją situaciją ir dėl jų kilusius pavojus, jeigu kiti įstatymai, Lietuvos Respublikos tarptautinės sutartys ar tarptautiniai susitarimai nenustato kitaip.
-
-2. Valstybės ir savivaldybių institucijos ir įstaigos, gavusios informaciją, kad krizės ar ekstremaliosios situacijos metu nukentėjo ar žuvo užsienio valstybių piliečiai, nedelsdamos apie tai informuoja Užsienio reikalų ministeriją.
-
-VIII skyrius
-
-Baigiamosios nuostatos
-
-53 straipsnis. Atsakomybė už šio įstatymo reikalavimų pažeidimus
-
-Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                     VALDAS ADAMKUS
-
-Lietuvos Respublikos
-
-krizių valdymo ir
-
-civilinės saugos įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2003 m. sausio 28 d. Europos Parlamento ir Tarybos direktyva 2003/4/EB dėl visuomenės galimybės susipažinti su informacija apie aplinką ir panaikinanti Tarybos direktyvą 90/313/EEB.
-
-2. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/18/ES dėl didelių, su pavojingomis cheminėmis medžiagomis susijusių avarijų pavojaus kontrolės, iš dalies keičianti ir vėliau panaikinanti Tarybos direktyvą 96/82/EB.
-
-–––––––––––––––––––––
-
-part_6725544aa2e042569451d73f438ae33e_end
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1794, 2000.07.04, Žin., 2000, Nr. 61-1805 (2000.07.26)
-
-CIVILINĖS SAUGOS ĮSTATYMO 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1674, 2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
-
-CIVILINĖS SAUGOS ĮSTATYMO 11, 23, 24 STRAIPSNIŲ PAKEITIMO IR 26 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-2001, 2004-02-05, Žin., 2004, Nr. 28-872 (2004-02-21)
-
-CIVILINĖS SAUGOS ĮSTATYMO 2, 3, 6, 7, 9, 10, 12, 13, 14, 15, 19, 20, 21, 22, 25, 28, 29, 30, 31, 32, 33, 34, 35, 38, 39 IR 42 STRAIPSNIŲ, AŠTUNTOJO SKIRSNIO PAVADINIMO PAKEITIMO, 27 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR ĮSTATYMO PAPILDYMO 30(1) STRAIPSNIU ĮSTATYMAS
-
-Šio Įstatymo 2 straipsnio 1 dalis, 4, 5, 11 ir 24 straipsniai įsigalioja nuo 2004 m. balandžio 1 d.
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-2503, 2004-10-26, Žin., 2004, Nr. 163-5941 (2004-11-09)
-
-CIVILINĖS SAUGOS ĮSTATYMO 3, 9, 10, 12, 13, 14, 19, 22, 24, 29, 30, 31, 32, 33, 34, 37 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI 11, 21 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
-
-Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-676, 2006-06-08, Žin., 2006, Nr. 72-2691 (2006-06-28)
-
-CIVILINĖS SAUGOS ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-635, 2009-12-22, Žin., 2009, Nr. 159-7207 (2009-12-31)
-
-CIVILINĖS SAUGOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Nauja įstatymo redakcija
-
-Šis įstatymas, išskyrus 2 straipsnį, įsigalioja 2010 m. sausio 1 d.
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-732, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00065
-
-LIETUVOS RESPUBLIKOS CIVILINĖS SAUGOS ĮSTATYMO 2, 8, 12, 14, 15, 21, 26, 27, 28, 31 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. balandžio 1 d.
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
-
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 5, 6, 12, 14, 15, 22 straipsnių ir priedo pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-657, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16015
-
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 9 ir 30 straipsnių pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1768, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20879
-
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 12 ir 14 straipsnių pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
-
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 8, 9, 11, 12, 14, 22, 27, 28 straipsnių pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2905, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10902
-
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 13 straipsnio pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-3129, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15374
-
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 9 straipsnio pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
-
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 13, 14, 15 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
-
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 9, 13, 15, 17, 18, 24, 28, 31 ir 32 straipsnių pakeitimo įstatymas
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
-
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 pakeitimo įstatymas
-
-491 straipsnis. Ypatingos svarbos subjektų nustatymas
-
-1. Ministerija, kuriai vadovaujančio ministro valdymo sričiai priskirtas juridinis asmuo, kita organizacija ar jų padalinys, identifikuoja ypatingos svarbos subjektus atsižvelgdama į Vyriausybės tvirtinamas ypatingos svarbos subjektų atsparumo stiprinimo gaires, nacionalinį galimų pavojų ir ekstremaliųjų situacijų rizikos vertinimą ir visas šias sąlygas:
-
-1) juridinis asmuo, kita organizacija ar jų padalinys teikia vieną ar daugiau būtinųjų paslaugų Lietuvos Respublikoje;
-
-2) juridinis asmuo, kita organizacija ar jų padalinys valdo ypatingos svarbos infrastruktūrą, kuri yra Lietuvos Respublikos teritorijoje;
-
-3) įvykis, ekstremalusis įvykis, ypatingas įvykis, ekstremalioji situacija ar krizė, įvertinus šio straipsnio 2 dalyje nurodytus kriterijus, turi didelį trikdomąjį poveikį vienos ar daugiau būtinųjų paslaugų teikimui arba kitos (-ų) būtinosios (-ųjų) paslaugos (-ų) teikimui šio įstatymo 1 priede nurodytuose sektoriuose, kurie yra priklausomi nuo tos (tų) būtinosios (-ųjų) paslaugos  (-ų).
-
-2. Didelis trikdomasis poveikis nustatomas įvertinus šiuos kriterijus, kurie detalizuojami Vyriausybės tvirtinamose ypatingos svarbos subjektų atsparumo stiprinimo gairėse:
-
-1) vartotojų, kurie priklauso nuo juridinio asmens, kitos organizacijos ar jų padalinio teikiamos būtinosios paslaugos, skaičių;
-
-2) šio įstatymo 1 priede nurodytų kitų sektorių ir subsektorių priklausomybę nuo atitinkamos būtinosios paslaugos;
-
-3) poveikį, kurį įvykis, ekstremalusis įvykis, ypatingas įvykis, ekstremalioji situacija ar krizė dėl savo masto ir trukmės galėtų padaryti gyventojų gyvybei ar sveikatai, jų būtiniausioms gyvenimo (veiklos) sąlygoms, turtui, aplinkai, gyvybiškai svarbių valstybės funkcijų atlikimui, viešajai tvarkai;
-
-4) juridinio asmens, kitos organizacijos ar jų padalinio rinkos dalį būtinųjų paslaugų rinkoje;
-
-5) teritoriją, kurioje įvykis, ekstremalusis įvykis, ypatingas įvykis, ekstremalioji situacija ar krizė galėtų daryti poveikį, įskaitant bet kokius tarpvalstybinius padarinius;
-
-6) juridinio asmens, kitos organizacijos ar jų padalinio svarbą pakankamam būtinosios paslaugos lygiui užtikrinti atsižvelgiant į būtinosios paslaugos teikimo alternatyvas.
-
-3. Ministerija, kuriai vadovaujančio ministro valdymo sričiai priskirtas juridinis asmuo, kita organizacija ar jų padalinys, pasiūlo Vyriausybei atitinkamą juridinį asmenį, kitą organizaciją ar jų padalinį įtraukti į Vyriausybės tvirtinamą ypatingos svarbos subjektų sąrašą, kartu apie tai informuodama ir tą juridinį asmenį, kitą organizaciją ar jų padalinį.
-
-4. Vyriausybei priėmus sprendimą dėl juridinio asmens, kitos organizacijos ar jų padalinio įtraukimo į ypatingos svarbos subjektų sąrašą ar išbraukimo iš jo, Nacionalinis krizių valdymo centras:
-
-1) ne vėliau kaip per 5 darbo dienas nuo juridinio asmens, kitos organizacijos ar jų padalinio įtraukimo į ypatingos svarbos subjektų sąrašą ar išbraukimo iš jo dienos apie tai informuoja:
-
-a) Lietuvos Respublikos kibernetinio saugumo įstatyme numatytą kompetentingą instituciją, kartu pranešdamas apie ypatingos svarbos subjektus, kurie priskirti šio įstatymo 1 priede nurodytiems bankininkystės, finansų rinkų infrastruktūros ir skaitmeninės infrastruktūros sektoriams, ir jiems taikomas šio įstatymo išimtis;
-
-b) ypatingos svarbos subjektą apie jam taikomus (išbraukimo iš ypatingos svarbos subjektų sąrašo atveju – nebetaikomus) šio įstatymo 492 straipsnyje nustatytus reikalavimus ir datą, nuo kurios šie reikalavimai taikomi (nebetaikomi), o ypatingos svarbos subjektą, kuris priskirtas šio įstatymo 1 priede nurodytam bankininkystės, finansų rinkų infrastruktūros ar skaitmeninės infrastruktūros sektoriui, – apie jam taikomas šio įstatymo išimtis;
-
-2) nedelsdamas, bet ne vėliau kaip per 5 darbo dienas nuo juridinio asmens, kitos organizacijos ar jų padalinio įtraukimo į ypatingos svarbos subjektų sąrašą dienos, Europos Komisijai pateikia šią informaciją:
-
-a) papildomų būtinųjų paslaugų, negu nurodytos 2023 m. liepos 25 d. Komisijos reglamente (ES) 2023/2450, kuriuo papildoma Europos Parlamento ir Tarybos direktyva (ES) 2022/2557, nustatant esminių paslaugų sąrašą, Lietuvos Respublikoje sąrašą;
-
-b) ypatingos svarbos subjektų, teikiančių būtinąsias paslaugas ir atitinkančių šio įstatymo 1 priede nurodytą tam tikrą sektorių ir subsektorių, skaičių.
-
-5. Ypatingos svarbos subjektų sąrašas sudaromas, taip pat ne rečiau kaip kas ketverius metus peržiūrimas ir atnaujinamas Vyriausybės tvirtinamose ypatingos svarbos subjektų atsparumo stiprinimo gairėse nustatyta tvarka.
-
-6. Nacionalinį saugumą užtikrinančios institucijos, teisėsaugos institucijos ir teismai ypatingos svarbos subjektams nepriskiriami.
-
-492 straipsnis. Reikalavimai ypatingos svarbos subjektams
-
-Ypatingos svarbos subjektas privalo:
-
-1) šio įstatymo 491 straipsnio 4 dalies 1 punkto b papunktyje nurodytu atveju ne vėliau kaip per 9 mėnesius nuo informacijos gavimo dienos, o vėliau – prireikus, bet ne rečiau kaip kas ketverius metus, Vyriausybės tvirtinamose ypatingos svarbos subjektų atsparumo stiprinimo gairėse nustatyta tvarka atlikti ypatingos svarbos subjekto rizikos vertinimą;
-
-2) atsižvelgdamas į nacionalinį galimų pavojų ir ekstremaliųjų situacijų rizikos vertinimą ir ypatingos svarbos subjekto rizikos vertinimą imtis tinkamų ir proporcingų priemonių, kuriomis būtų užtikrintas jo atsparumas (toliau – atsparumo užtikrinimo priemonės);
-
-3) parengti ir patvirtinti ypatingos svarbos subjekto atsparumo stiprinimo planą, kuriame būtų numatytos šios dalies 2 punkte nurodytos ypatingos svarbos subjekto atsparumo užtikrinimo priemonės; atsparumo užtikrinimo priemonės gali būti numatytos nacionaliniam saugumui užtikrinti svarbių įmonių saugumo planuose arba ekstremaliųjų situacijų valdymo planuose, jeigu tokie privalo būti rengiami;
-
-4) paskirti kontaktinį asmenį ryšiams su ministerija, kuriai vadovaujančio ministro valdymo sričiai jis priskirtas, Nacionaliniu krizių valdymo centru ir kitomis institucijomis palaikyti;
-
-5) ministerijos, kuriai vadovaujančio ministro valdymo sričiai priskirtas ypatingos svarbos subjektas, ir (ar) šio įstatymo 22 straipsnio 4 dalyje nurodytos priežiūros institucijos prašymu ir per jų nurodytą terminą, kuris negali būti trumpesnis kaip 5 darbo dienos, pateikti informaciją, reikalingą ypatingos svarbos subjekto atsparumui įvertinti;
-
-6) auditoriaus, atliekančio ypatingos svarbos subjekto jam nustatytų reikalavimų laikymosi auditą, prašymu suteikti prieigą prie su būtinųjų paslaugų teikimu susijusios informacijos ir ypatingos svarbos infrastruktūros, per jo nurodytą terminą pašalinti nustatytus trūkumus ir ne vėliau kaip per 5 darbo dienas nuo tokių trūkumų pašalinimo dienos apie tai informuoti auditorių ir ministeriją, kuriai vadovaujančio ministro valdymo sričiai priskirtas ypatingos svarbos subjektas;
-
-7) per šio įstatymo 22 straipsnio 4 dalyje nurodytos priežiūros institucijos nurodytą terminą pašalinti ypatingos svarbos subjekto atsparumo įvertinimo metu nustatytus trūkumus ir ne vėliau kaip per 5 darbo dienas nuo tokių trūkumų pašalinimo dienos apie tai informuoti priežiūros instituciją ir ministeriją, kuriai vadovaujančio ministro valdymo sričiai priskirtas ypatingos svarbos subjektas;
-
-8) Vyriausybės nustatyta tvarka pranešti ministerijai, kuriai vadovaujančio ministro valdymo sričiai jis priskirtas, ir Nacionaliniam krizių valdymo centrui apie įvykį, ekstremalųjį įvykį, ypatingą įvykį, ekstremaliąją situaciją ar krizę, kurie sutrikdo arba gali sutrikdyti būtinosios paslaugos teikimą, nurodydamas numanomą to priežastį ir galimus padarinius bei visą informaciją, reikalingą tarpvalstybiniam poveikiui nustatyti;
-
-9) ne vėliau kaip per 30 dienų nuo įvykio, ekstremaliojo įvykio, ypatingo įvykio, ekstremaliosios situacijos ar krizės, nurodytų šios dalies 8 punkte, likvidavimo ar padarinių pašalinimo dienos pateikti ataskaitą ministerijai, kuriai vadovaujančio ministro valdymo sričiai jis priskirtas, ir Nacionaliniam krizių valdymo centrui;
-
-10) keistis su krizių valdymo ir civilinės saugos sistemos subjektais su ypatingos svarbos subjektų atsparumo užtikrinimu susijusia informacija tokiu būdu, kuris užtikrintų su ypatingos svarbos subjektų atsparumo užtikrinimu susijusios įslaptintos ir neįslaptintos informacijos apsaugą.
-
-493 straipsnis. Asmenų, pretenduojančių eiti ar einančių pareigas ypatingos svarbos subjektuose, patikra
-
-1. Ministerija, kuriai vadovaujančio ministro valdymo sričiai priskirtas ypatingos svarbos subjektas (išskyrus ypatingos svarbos subjektus, priskiriamus nacionaliniam saugumui užtikrinti svarbioms įmonėms pagal Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymą), nustato asmenų, dirbančių ypatingos svarbos subjekte ir (ar) vykdančių funkcijas, susijusias su ypatingos svarbos subjekto atsparumo užtikrinimu, taip pat asmenų, kuriems dėl jiems priskirtų funkcijų ar pavesto darbo būtų suteikta teisė be palydos patekti prie ypatingos svarbos infrastruktūros ar priimti sprendimus dėl jos funkcionavimo, einamų pareigų sąrašą (toliau – pareigų sąrašas), kuriame nurodo pareigas, į kurias skiriami ar paskirti asmenys turi atitikti šio straipsnio 2 dalyje nustatytus kriterijus.
-
-2. Į pareigų sąraše nurodytas pareigas skiriamas arba paskirtas asmuo negali eiti pareigų sąraše nurodytų pareigų, jeigu jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar dėl bet kurio iš šių nusikaltimų atitinkančios nusikalstamos veikos pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą.
-
-3. Šio straipsnio 1 dalyje nurodytų asmenų patikrai mutatis mutandis taikoma Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 17 straipsnio 3–7 dalyse nustatyta tvarka.
-
-4. Valstybės institucijos, vykdydamos asmenų, pretenduojančių eiti pareigas ypatingos svarbos subjektuose, tikrinimą, renkamus asmens duomenis tvarko nacionalinio saugumo ar gynybos tikslais Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatyme ir šiame įstatyme nustatyta tvarka.
-
-494 straipsnis. Europos mastu ypač reikšmingų ypatingos svarbos subjektų nustatymas ir jiems taikomi reikalavimai
-
-1. Ypatingos svarbos subjektas, gavęs šio įstatymo 491 straipsnio 4 dalies 1 punkto b papunktyje nurodytą pranešimą, ne vėliau kaip per 10 darbo dienų privalo informuoti ministeriją, kuriai vadovaujančio ministro valdymo sričiai jis priskirtas, ir Nacionalinį krizių valdymo centrą apie tai, kad jis teikia tas pačias arba panašias būtinąsias paslaugas bent šešioms valstybėms narėms arba šešiose ar daugiau valstybių narių, nurodydamas, kokias būtinąsias paslaugas jis teikia ir kokioms (-iose) valstybėms (-ėse) narėms (-ėse).
-
-2. Nacionalinis krizių valdymo centras privalo:
-
-1) nedelsdamas, bet ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 1 dalyje nurodytos informacijos gavimo dienos, ją pateikti Europos Komisijai kartu su konkrečių ypatingos svarbos subjektų sąrašu;
-
-2) nedelsdamas, bet ne vėliau kaip per 5 darbo dienas nuo Europos Komisijos pranešimo, kad ypatingos svarbos subjektas laikomas Europos mastu ypač reikšmingu ypatingos svarbos subjektu, gavimo dienos, šią informaciją pateikti ypatingos svarbos subjektui, informuodamas apie jam taikomus šio straipsnio 3 dalyje nustatytus reikalavimus;
-
-3) konsultacijų su Europos Komisija metu Europos Komisijai pranešti, jeigu paslaugas, kurias ypatingos svarbos subjektas teikia Lietuvos Respublikai ar jos teritorijoje, Nacionalinis krizių valdymo centras laiko būtinosiomis paslaugomis;
-
-4) Europos Komisijos arba vienos iš valstybių narių, kurioms ar kuriose teikiama būtinoji paslauga, prašymu pateikti informaciją, susijusią su ypatingos svarbos subjekto rizikos vertinimu, atsparumo užtikrinimo priemonių sąrašą, informaciją apie priežiūros veiksmus, kurių imtasi siekiant užtikrinti ypatingos svarbos subjektui nustatytų reikalavimų laikymąsi, bei atsakomybės už reikalavimų, susijusių su ypatingos svarbos subjektų atsparumo užtikrinimu, nevykdymą taikymą;
-
-5) Europos Komisijos nustatyta tvarka, atsižvelgdamas į Europos Komisijos organizuojamų patariamųjų misijų specifiką, pateikti Europos Komisijai patariamųjų misijų dalyvių kandidatūras.
-
-3. Europos mastu ypač reikšmingas ypatingos svarbos subjektas Europos Komisijos organizuojamų patariamųjų misijų metu jų dalyviams privalo suteikti prieigą prie su būtinųjų paslaugų teikimu susijusios informacijos ir ypatingos svarbos infrastruktūros.
-
-Papildyta skyriumi:
-
-Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
-
-VII skyrius
-
-Tarptautinis bendradarbiavimas
 
