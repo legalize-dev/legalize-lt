@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2004-05-01"
+last_updated: "2004-11-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -4307,6 +4307,10 @@ investuotojams, nurodytiems Indėlių ir įsipareigojimų investuotojams draudim
 
 įstatyme, išmokėjimu.
 
+3 dalies
+
+redakcija iki 2005 m. sausio 1 d.:
+
 3. Trečiąja eile
 
 tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei privalomojo
@@ -4314,6 +4318,18 @@ tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei pri
 valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų, taip
 
 pat dėl suteiktų paskolų, gautų valstybės vardu ir su valstybės garantija.
+
+3 dalies
+
+redakcija nuo 2005 m. sausio 1 d.:
+
+3. Trečiąja eile
+
+tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei valstybinio
+
+socialinio draudimo ir privalomojo sveikatos draudimo įmokų, taip pat dėl
+
+suteiktų paskolų, gautų valstybės vardu ir su valstybės garantija.
 
 4. Ketvirtąja
 
@@ -4332,6 +4348,14 @@ pasitikėtinės (subordinuotos) paskolos sąlygas.
 tenkinami Centrinės kredito unijos stebėtojų tarybos, valdybos ir Centrinės
 
 kredito unijos administracijos vadovų reikalavimai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-2537,
+
+2004-11-04, Žin., 2004, Nr. 171-6297 (2004-11-26)
 
 DVYLIKTASIS
 
@@ -4377,9 +4401,9 @@ pertvarkymą, likvidavimą, bankrotą, taikomos procedūroms, pradėtoms įsigal
 
 įstatymas taikomas veikiančios Centrinės kredito unijos reorganizavimo,
 
-likvidavimo ir bankroto procedūroms, jei sprendimai dėl jos likvidavimo ar bankroto
+likvidavimo ir bankroto procedūroms, jei sprendimai dėl jos likvidavimo ar
 
-priimti iki šio Įstatymo įsigaliojimo.
+bankroto priimti iki šio Įstatymo įsigaliojimo.
 
 3. Jei iki šio Įstatymo
 
@@ -4405,19 +4429,21 @@ naujos formos licencija.
 
 5. Jei valstybė
 
-turi bent vieną veikiančios Centrinės kredito unijos pajų, priimamas naujas Centrinės
+turi bent vieną veikiančios Centrinės kredito unijos pajų, priimamas naujas
 
-kredito unijos narys privalo išpirkti valstybės turimą pajų už nominalią vertę
+Centrinės kredito unijos narys privalo išpirkti valstybės turimą pajų už
 
-ir šis pajus tampa naujo Centrinės kredito unijos nario pagrindiniu pajumi.
+nominalią vertę ir šis pajus tampa naujo Centrinės kredito unijos nario
+
+pagrindiniu pajumi.
 
 6. Veikiančios
 
-Centrinės kredito unijos narės valstybės narystė Centrinėje kredito unijoje pasibaigia,
+Centrinės kredito unijos narės valstybės narystė Centrinėje kredito unijoje
 
-kai išperkami visi valstybei priklausantys pajai. Pirmiausiai išperkami
+pasibaigia, kai išperkami visi valstybei priklausantys pajai. Pirmiausiai
 
-papildomi valstybei priklausantys pajai.
+išperkami papildomi valstybei priklausantys pajai.
 
 7. Veikiančios
 
@@ -4539,11 +4565,31 @@ dienos.
 
 Nauja įstatymo redakcija
 
-*** Pabaiga ***
+3.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-2537,
+
+2004-11-04, Žin., 2004, Nr. 171-6297 (2004-11-26)
+
+ANTSTOLIŲ ĮSTATYMO, NOTARIATO
+
+ĮSTATYMO, BANKŲ ĮSTATYMO, CENTRINĖS KREDITO UNIJOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+
+***
+
+Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-04-29)
+Aušrinė Trapinskienė (2004-12-07)
 
 autrap@lrs.lt
 
