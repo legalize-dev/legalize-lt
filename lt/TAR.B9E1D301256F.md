@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2003-06-05"
+last_updated: "2003-11-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -1721,6 +1721,8 @@ elementai. Kombinuoto akcizo tarifo apskaičiavimo tvarką nustato Vyriausybė a
 
 jos įgaliota institucija.
 
+2 dalies redakcija iki 2004 m. sausio 1 d.:
+
 2. Cigaretėms
 
 taikomas toks akcizo tarifas:
@@ -1732,6 +1734,20 @@ elementas – 42,6 lito ir
 2) vertybinis
 
 elementas – 10 procentų.
+
+2 dalies redakcija nuo 2004 m. sausio 1 d.:
+
+2. Cigaretėms
+
+taikomas toks akcizo tarifas:
+
+1) specifinis
+
+elementas – 47,5 lito ir
+
+2) vertybinis
+
+elementas –15 procentų.
 
 3. Šio Įstatymo 3
 
@@ -1752,6 +1768,12 @@ Nr.
 IX-1228,
 
 2002-12-10, Žin., 2002, Nr. 123-5520 (2002-12-24)
+
+Nr.
+
+IX-1817,
+
+2003-11-11, Žin., 2003, Nr. 112-4995 (2003-11-28)
 
 26 straipsnis.
 
@@ -1807,9 +1829,19 @@ KURAS
 
 priedams taikomi akcizo tarifai
 
+1 dalies redakcija iki 2004 m. sausio 1 d.:
+
 1. Variklių benzinui,
 
 jo pakaitalams ir priedams taikomas 1250 litų už toną produkto akcizo tarifas,
+
+jeigu šiame straipsnyje nenustatyta kitaip.
+
+1 dalies redakcija nuo 2004 m. sausio 1 d.:
+
+1. Variklių benzinui,
+
+jo pakaitalams ir priedams taikomas 1318 litų už toną produkto akcizo tarifas,
 
 jeigu šiame straipsnyje nenustatyta kitaip.
 
@@ -1823,6 +1855,16 @@ straipsnio 1 dalyje nustatytas akcizo tarifas, sumažintas dalimi, proporcingai
 
 atitinkančia biologinės kilmės žaliavų dalį (procentais) tonoje produkto.
 
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-1817,
+
+2003-11-11, Žin., 2003, Nr. 112-4995 (2003-11-28)
+
+30 straipsnio redakcija iki 2004 m. sausio 1 d.:
+
 30 straipsnis. Žibalui, jo pakaitalams ir priedams
 
 taikomi akcizo tarifai
@@ -1831,13 +1873,25 @@ taikomi akcizo tarifai
 
 pakaitalams ir priedams taikomas 720 litų už toną produkto akcizo tarifas.
 
+30 straipsnio redakcija nuo 2004 m. sausio 1 d.:
+
 31 straipsnis. Gazoliams, jų pakaitalams ir priedams
 
 taikomi akcizo tarifai
 
+1 dalies redakcija iki 2004 m. sausio 1 d.:
+
 1. Gazoliams, jų
 
 pakaitalams ir priedams taikomas 860 litų už toną produkto akcizo tarifas,
+
+jeigu šiame straipsnyje nenustatyta kitaip.
+
+1 dalies redakcija nuo 2004 m. sausio 1 d.:
+
+1. Gazoliams, jų
+
+pakaitalams ir priedams taikomas 1002 litų už toną produkto akcizo tarifas,
 
 jeigu šiame straipsnyje nenustatyta kitaip.
 
@@ -1849,11 +1903,11 @@ gazoliams (buitiniam krosnių kurui), pažymėtiems šio Įstatymo
 
 tarifas.
 
-3. Gazolių ir
+3. Gazolių ir biologinės
 
-biologinės kilmės žaliavų mišiniams, pagamintiems laikantis Biokuro įstatymo ir
+kilmės žaliavų mišiniams, pagamintiems laikantis Biokuro įstatymo ir jo
 
-jo įgyvendinimą reglamentuojančių teisės aktų reikalavimų, taikomas šiame
+įgyvendinimą reglamentuojančių teisės aktų reikalavimų, taikomas šiame
 
 straipsnyje tiems gazoliams nustatytas akcizo tarifas, sumažintas dalimi,
 
@@ -1870,6 +1924,12 @@ Nr.
 IX-1228,
 
 2002-12-10, Žin., 2002, Nr. 123-5520 (2002-12-24)
+
+Nr.
+
+IX-1817,
+
+2003-11-11, Žin., 2003, Nr. 112-4995 (2003-11-28)
 
 32 straipsnis. Skystajam kurui (mazutams), jo
 
@@ -1955,11 +2015,11 @@ keleivius ir (arba) krovinius vietiniais maršrutais, taip pat teikiantiems
 
 kitokias paslaugas už atlyginimą; orlaiviams, kurie naudojami atliekant
 
-valstybės ar savivaldybių institucijų funkcijas; orlaiviams, dalyvaujantiems karinėse
+valstybės ar savivaldybių institucijų funkcijas; orlaiviams, dalyvaujantiems
 
-tarptautinėse pratybose. Kuro, kuriam taikoma ši lengvata, kodus pagal KPN
+karinėse tarptautinėse pratybose. Kuro, kuriam taikoma ši lengvata, kodus pagal
 
-nustato Vyriausybė;
+KPN nustato Vyriausybė;
 
 2) laivų degalai
 
@@ -2023,17 +2083,17 @@ Lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 2. Panaikinus akcizų
 
-mokėjimo laikino atidėjimo režimą arba importuojant kurą, nurodytą šio straipsnio
+mokėjimo laikino atidėjimo režimą arba importuojant kurą, nurodytą šio
 
-1 dalies 1 arba 2 punkte, akcizai neskaičiuojami. Panaikinus akcizų mokėjimo
+straipsnio 1 dalies 1 arba 2 punkte, akcizai neskaičiuojami. Panaikinus akcizų
 
-laikino atidėjimo režimą arba importuojant kurą, skirtą šio straipsnio 1 dalies
+mokėjimo laikino atidėjimo režimą arba importuojant kurą, skirtą šio straipsnio
 
-3 punkte nurodytiems tikslams, akcizai turi būti apskaičiuoti ir sumokėti šio
+1 dalies 3 punkte nurodytiems tikslams, akcizai turi būti apskaičiuoti ir
 
-Įstatymo nustatyta tvarka, o nurodyta lengvata taikoma įsigijusiam ar
+sumokėti šio Įstatymo nustatyta tvarka, o nurodyta lengvata taikoma įsigijusiam
 
-importavusiam kurą asmeniui grąžinant akcizus, kuriuos jis sumokėjo šį kurą
+ar importavusiam kurą asmeniui grąžinant akcizus, kuriuos jis sumokėjo šį kurą
 
 įsigydamas iš tiekėjo (akcizų mokėtojo) arba importuodamas. Šio straipsnio 1
 
@@ -2087,9 +2147,9 @@ BAIGIAMOSIOS NUOSTATOS
 
 Įskaitymas į biudžetą
 
-Akcizai įskaitomi į valstybės
+Akcizai įskaitomi į
 
-biudžetą.
+valstybės biudžetą.
 
 39 straipsnis. Akcizo už kurą, naudojamą žemės ūkyje
 
@@ -2111,11 +2171,9 @@ grąžinamas. Grąžinama akcizų suma apskaičiuojama pagal žemės ūkio subje
 
 1)
 
-120 litrų per kalendorinius metus vienam žemės ūkio naudmenų hektarui,
+120 litrų per kalendorinius metus vienam žemės ūkio naudmenų hektarui, deklaruotam
 
-deklaruotam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, ir
-
-(arba)
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, ir (arba)
 
 2)
 
@@ -2295,11 +2353,9 @@ Respublikos akcizų įstatymo 2, 3, 5, 5(1)
 
 straipsnių pakeitimo ir papildymo įstatymas ( Žin., 2001, Nr. 14-425);
 
-21) Lietuvos
+21) Lietuvos Respublikos
 
-Respublikos akcizų įstatymo 6 straipsnio papildymo įstatymas (Žin., 2001, Nr.
-
-16-494);
+akcizų įstatymo 6 straipsnio papildymo įstatymas (Žin., 2001, Nr. 16-494);
 
 22) Lietuvos
 
@@ -2309,9 +2365,9 @@ Respublikos akcizų įstatymo 5(1) straipsnio pakeitimo
 
 23) Lietuvos
 
-Respublikos akcizų įstatymo 5(1), 6 straipsnių
+Respublikos akcizų įstatymo 5(1), 6 straipsnių pakeitimo
 
-pakeitimo bei papildymo ir Įstatymo papildymo 5(2)
+bei papildymo ir Įstatymo papildymo 5(2)
 
 straipsniu įstatymas (Žin., 2001, Nr. 45-1575);
 
