@@ -4,7 +4,7 @@ identifier: "TAR.6DF39F2BB769"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "1997-04-08"
+last_updated: "1997-10-14"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6DF39F2BB769"
 department: "Lietuvos Respublikos Seimas"
@@ -18,9 +18,13 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Redagavo:
+Redagavo: Ramunė
 
-Ramunė Lūžaitė (1997.04.18)
+Lūžaitė (1997.10.29)
+
+Įstatymas
+
+paskelbtas: Žin., 1994, Nr.51-950
 
 Neoficialus
 
@@ -36,7 +40,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
+I-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 
 DĖL
 
@@ -54,7 +58,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-899, 95.05.23, Žin., 1995, Nr. 47-1135 (95.06.07)
+I-899, 95.05.23, Žin., 1995, Nr. 47-1135 (95.06.07)
 
 DĖL
 
@@ -68,7 +72,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1211, 96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
+I-1211, 96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
 
 LIETUVOS
 
@@ -82,7 +86,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
+I-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
 
 LIETUVOS
 
@@ -120,6 +124,20 @@ LIETUVOS
 
 RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+7.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-448,
+
+97.10.14, Žin., 1997, Nr.97-2443 (97.10.29)
+
+LIETUVOS RESPUBLIKOS
+
+ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR PAPILDYMO
+
 ***
 
 Pabaiga ***
@@ -133,8 +151,6 @@ LIETUVOS RESPUBLIKOS
 1994 m. birželio 23 d. Nr.I-508
 
 Vilnius
-
-(Žin., 1994, Nr.51-950)
 
 1
 
@@ -154,7 +170,7 @@ pakeitimai:
 
 Nr.
 
-1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
+I-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 
 2
 
@@ -178,7 +194,7 @@ mokestis imamas už:
 
 civilinės būklės aktų registravimą civilinės metrikacijos įstaigose, įrašų
 
-civilinės būklės aktuose pakeitimą bei papildymą ir dokumentų,  patvirtinančių
+civilinės būklės aktuose pakeitimą bei papildymą ir dokumentų,  patvirtinančių
 
 įrašą  civilinės būklės akte, išdavimą;
 
@@ -226,7 +242,7 @@ pistoletais (revolveriais), šaudmenimis, dujiniais balionėliais, pneumatiniais
 
 7)
 
-leidimo  steigti  antspaudų  ir  spaudų  dirbtuves, medžioklinių peilių
+leidimo  steigti  antspaudų  ir  spaudų  dirbtuves, medžioklinių peilių
 
 dirbtuves, ginklų remonto dirbtuves išdavimą;
 
@@ -254,7 +270,9 @@ masinės informacijos priemonės steigimą, perregistravimą ir atitinkamų
 
 dokumentų išdavimą, steigimo liudijimo dublikato išdavimą, taip pat už
 
-konsultacijas valstybės paslapčių ar viešai neskelbtinų žinių apsaugos klausimais;
+konsultacijas valstybės paslapčių ar viešai neskelbtinų žinių apsaugos
+
+klausimais;
 
 12)
 
@@ -308,9 +326,17 @@ po registravimo išdavimą;
 
 19)
 
-leidimo vežti pavojingas medžiagas pagal Jungtinių Tautų Organizacijos klasifikaciją,
+licencijų importuoti, vežti tranzitu bei eksportuoti kontroliuojamąsias prekes
 
-radioaktyviąsias medžiagas išdavimą;
+pagal Lietuvos Respublikos Vyriausybės patvirtintą kontroliuojamųjų prekių
+
+sąrašą, leidimų vežti radioaktyviąsias ir pavojingas medžiagas (neįtrauktas į
+
+kontroliuojamųjų prekių sąrašą) pagal Jungtinių Tautų Organizacijos
+
+klasifikaciją ir importo bei pristatymo patvirtinimo sertifikatų
+
+kontroliuojamosioms prekėms išdavimą;
 
 20)
 
@@ -408,11 +434,15 @@ daiktus išdavimą;
 
 37)
 
-leidimų steigti neapmuitinamas parduotuves išdavimą.
+leidimų steigti neapmuitinamas parduotuves išdavimą;
 
-Žyminio
+38)
 
-mokesčio tarifus, išskyrus už teismų nagrinėjamas bylas ir  išduodamų
+Viešųjų pirkimų tarnybos prie Lietuvos Respublikos Vyriausybės teikiamą
+
+informaciją iš pirkimų procedūrų ataskaitų.
+
+Žyminio mokesčio tarifus, išskyrus už teismų nagrinėjamas bylas ir  išduodamų
 
 dokumentų  nuorašus,  nustato  Lietuvos Respublikos Vyriausybė.
 
@@ -428,15 +458,15 @@ pakeitimai:
 
 Nr.
 
-1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
+I-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 
 Nr.
 
-1-899, 95.05.23, Žin., 1995, Nr. 47-1135 (95.06.07)
+I-899, 95.05.23, Žin., 1995, Nr. 47-1135 (95.06.07)
 
 Nr.
 
-1-1211, 96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
+I-1211, 96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
 
 Nr.
 
@@ -445,6 +475,10 @@ I-1616, 96.11.14, Žin., 1996, Nr.116-2691 (96.12.04)
 Nr.
 
 VIII-177, 97.04.08, Žin., 1997, Nr.33-810 (97.04.18)
+
+Nr. VIII-448,
+
+97.10.14, Žin., 1997, Nr.97-2443 (97.10.29)
 
 4
 
@@ -538,7 +572,7 @@ pakeitimai:
 
 Nr.
 
-1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
+I-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 
 5
 
@@ -600,11 +634,11 @@ pakeitimai:
 
 Nr.
 
-1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
+I-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 
 Nr.
 
-1-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
+I-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
 
 8
 
@@ -634,7 +668,7 @@ pakeitimai:
 
 Nr.
 
-1-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
+I-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
 
 9
 
@@ -652,9 +686,9 @@ bus priimti pagrindiniai Lietuvos Respublikos pramoninės nuosavybės apsaugos
 
 atliekamas paslaugas valstybinė rinkliava imama pagal Lietuvos Respublikos
 
-Vyriausybės 1993 m. kovo 12  d. nutarimo  Nr.163 "Dėl  valstybinės
+Vyriausybės 1993 m. kovo 12  d. nutarimo  Nr.163 "Dėl  valstybinės rinkliavos"
 
-rinkliavos" nustatytus tarifus.
+nustatytus tarifus.
 
 Lietuvos
 
@@ -668,7 +702,7 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS            ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                               ALGIRDAS BRAZAUSKAS
 
 1 straipsnis. Įstatymo paskirtis
 
