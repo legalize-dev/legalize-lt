@@ -4,7 +4,7 @@ identifier: "TAR.E79004684F4D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-28"
-last_updated: "2001-12-30"
+last_updated: "2002-07-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D"
 department: "Lietuvos Respublikos Seimas"
@@ -779,15 +779,31 @@ pridėtinės vertės mokestį ir akcizą, išskyrus už prekes, esančias laisvo
 
 teritorijose veikiančiose įmonėse.
 
-2. Zonos valdymo
+2.
 
-bendrovė už nuomojamą valstybinę žemę moka lengvatinį - 50 procentų mažesnį
+Zonos valdymo bendrovė už nuomojamą valstybinę žemę moka lengvatinį – 50
 
-žemės nuomos mokestį. Zonos valdymo bendrovės ir zonos įmonių privatus
+procentų mažesnį žemės nuomos mokestį. Valstybinės žemės nuomos sutartyje gali
 
-kapitalas, investuotas į zonos infrastruktūrą, į žemės vertę, nustatant jos
+būti numatyta, kad visas valstybinės žemės nuomos mokestis sumokamas iš karto
 
-nuomos mokestį, neįskaičiuojamas.
+už visą nuomos laikotarpį. Tokiu atveju sukauptos lėšos už laisvųjų ekonominių
+
+zonų teritorijoje išnuomotą žemę skiriamos žemei, paimamai visuomenės
+
+poreikiams iš žemės savininkų šioje teritorijoje išpirkti. Zonos valdymo
+
+bendrovės ir zonos įmonių privatus kapitalas, investuotas į zonos infrastruktūrą,
+
+į žemės vertę, nustatant jos nuomos mokestį, neįskaičiuojamas. Jei zonos
+
+valdymo bendrovė iš anksto sumokėjo visą žemės nuomos mokestį už įstatymo
+
+numatytą nuomos laikotarpį, o vėliau pasikeitė žemės vertė, pagal kurią
+
+skaičiuojamas žemės mokesčio dydis, ar žemės mokesčio tarifas, žemės nuomos
+
+mokesčio dydis nekeičiamas.
 
 3. Zonos įmonė 5 metus nuo
 
@@ -866,6 +882,12 @@ Nr. IX-285, 2001 04 19, Žin., 2001, Nr.
 Nr. IX-668,
 
 2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
+
+Nr.
+
+IX-973,
+
+2002-06-20, Žin., 2002, Nr. 68-2772 (2002-07-03)
 
 16
 
@@ -1213,9 +1235,9 @@ Lietuvos Respublikos
 
 teisėsaugos institucijos zonoje veikia pagal savo kompetenciją Lietuvos
 
-Respublikos įstatymų nustatyta tvarka. Zonos valdymo bendrovė sudaro šių
+Respublikos įstatymų nustatyta tvarka. Zonos valdymo bendrovė sudaro šių institucijų
 
-institucijų darbui būtinas sąlygas.
+darbui būtinas sąlygas.
 
 24 straipsnis. Priežiūros
 
@@ -1251,11 +1273,11 @@ atvykimo į zoną tvarka
 
 1. Užsienio šalių piliečiai
 
-ir asmenys be pilietybės, nuolat gyvenantys užsienyje, jeigu nori atvykti į
+ir asmenys be pilietybės, nuolat gyvenantys užsienyje, jeigu nori atvykti į zoną,
 
-zoną, turi gauti zonos valdymo bendrovės iškvietimą ir į zoną atvyksta gavę
+turi gauti zonos valdymo bendrovės iškvietimą ir į zoną atvyksta gavę Lietuvos
 
-Lietuvos Respublikos vizą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Respublikos vizą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 2. Užsienio šalių piliečiai
 
@@ -1581,13 +1603,27 @@ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 2, 6, 7, 8, 9, 11, 12, 15, 16, 29 STRAIPSN
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-973,
+
+2002-06-20, Žin., 2002, Nr. 68-2772 (2002-07-03)
+
+LAISVŲJŲ
+
+EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 15 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-01-08)
+Aušrinė Trapinskienė (2002-07-04)
 
 autrap@lrs.lt
 
