@@ -4,7 +4,7 @@ identifier: "TAR.D2D24C160EB1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2001-06-20"
+last_updated: "2001-12-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D2D24C160EB1"
 department: "Lietuvos Respublikos Seimas"
@@ -102,9 +102,9 @@ Nr. VIII-1539, 2000 02 15, Žin., 2000, Nr. 18-430 (2000 02 29)
 
 LIETUVOS
 
-RESPUBLIKOS LABDAROS IR PARAMOS FONDŲ
+RESPUBLIKOS LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 1 STRAIPSNIO
 
-ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+PAPILDYMO ĮSTATYMAS
 
 3.
 
@@ -126,13 +126,31 @@ Nr. IX-357, 2001-06-05, Žin., 2001, Nr.
 
 52-1816 (2001-06-20)
 
-LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 14 STRAIPSNIO
+LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+IR PAPILDYMO ĮSTATYMAS
 
-*** Pabaiga ***
+5.
 
-Redagavo: Aušrinė Trapinskienė (2001-06-20)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-609,
+
+2001-11-15, Žin., 2001, Nr. 102-3627 (2001-12-05)
+
+LABDAROS
+
+IR PARAMOS FONDŲ ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2001-12-05)
 
 autrap@lrs.lt
 
@@ -330,13 +348,13 @@ susirinkimo bei valdybos nutarimus ir administracijos sprendimus.
 
 neribojamas. Fondo steigėjai už įsipareigojimų nevykdymą gali būti pašalinti, o
 
-fondo rėmėjams, įsipareigojantiems skirti fondui lėšų, gali būti suteiktos steigėjo
+fondo rėmėjams, įsipareigojantiems skirti fondui lėšų, gali būti suteiktos
 
-teisės, kurias nustato šis įstatymas. Steigėją pašalinti bei rėmėjui suteikti
+steigėjo teisės, kurias nustato šis įstatymas. Steigėją pašalinti bei rėmėjui
 
-steigėjo teises gali tik steigėjų susirinkimas. Steigėjo pašalinimo bei
+suteikti steigėjo teises gali tik steigėjų susirinkimas. Steigėjo pašalinimo
 
-steigėjo teisių suteikimo rėmėjams tvarka turi būti nustatyta įstatuose.
+bei steigėjo teisių suteikimo rėmėjams tvarka turi būti nustatyta įstatuose.
 
 4. Steigėjai sudaro fondo steigimo
 
@@ -462,13 +480,13 @@ išregistruojami Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 filialus. Jie steigiami fondo įstatuose nustatyta tvarka.
 
-2. Filialas yra fondo
+2. Filialas yra fondo padalinys,
 
-padalinys, turintis atskirą buveinę. Filialas nėra juridinis asmuo ir naudojasi
+turintis atskirą buveinę. Filialas nėra juridinis asmuo ir naudojasi fondo,
 
-fondo, kaip juridinio asmens, vardu. Filialas veikia pagal fondo įstatų
+kaip juridinio asmens, vardu. Filialas veikia pagal fondo įstatų suteiktus
 
-suteiktus įgaliojimus, kurie turi būti nurodyti ir filialo nuostatuose.
+įgaliojimus, kurie turi būti nurodyti ir filialo nuostatuose.
 
 3. Filialo turtas
 
@@ -592,7 +610,11 @@ palūkanos, mokamos už jose saugomas lėšas;
 
 tiksliniams projektams bei programoms iš analogiškų fondų, programų bei
 
-projektų.
+projektų;
+
+7) pajamos už
+
+Vyriausybės ir savivaldybių vertybinius popierius.
 
 3. Steigėjų ir rėmėjų
 
@@ -608,9 +630,9 @@ nurodytiems tikslams.
 
 5. Fondo rėmėjas gali
 
-nustatyti jo skirtų lėšų (turto) naudojimo sritis, bet tik fondo įstatų numatytai
+nustatyti jo skirtų lėšų (turto) naudojimo sritis, bet tik fondo įstatų
 
-veiklai. Rėmėjo prašymu fondas privalo teikti informaciją, reikalingą
+numatytai veiklai. Rėmėjo prašymu fondas privalo teikti informaciją, reikalingą
 
 kontroliuoti, kaip fondas vykdo rėmėjo nustatytas sąlygas.
 
@@ -638,9 +660,19 @@ saugomos bankų įstaigose.
 
 9. Fondo pajamos iš veiklos,
 
-kuri nėra numatyta įstatuose, taip pat gautos arba panaudotos pažeidžiant šį
+kuri nėra numatyta įstatuose, taip pat gautos arba panaudotos pažeidžiant šį įstatymą,
 
-įstatymą, paimamos į valstybės biudžetą įstatymų nustatyta tvarka.
+paimamos į valstybės biudžetą įstatymų nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-609,
+
+2001-11-15, Žin., 2001, Nr. 102-3627 (2001-12-05)
 
 11 straipsnis. Valdymo
 
@@ -778,9 +810,9 @@ ir paramai;
 
 6) analizuoti fondo veiklos
 
-rezultatus, pajamų ir išlaidų sąmatas, revizijų, inventorizacijos ir kitus vertybių
+rezultatus, pajamų ir išlaidų sąmatas, revizijų, inventorizacijos ir kitus
 
-apskaitos duomenis;
+vertybių apskaitos duomenis;
 
 7) teikti steigėjų
 
@@ -954,7 +986,9 @@ revizorius arba auditorius, kuriuos fondo įstatuose nustatytam laikui renka
 
 steigėjų susirinkimas. Revizoriumi (auditoriumi) gali būti fizinis arba
 
-juridinis asmuo, bet ne steigėjas, valdybos narys ar administracijos darbuotojas.
+juridinis asmuo, bet ne steigėjas, valdybos narys ar administracijos
+
+darbuotojas.
 
 2. Revizorius privalo:
 
@@ -1004,9 +1038,11 @@ Reorganizavimas
 
 reorganizuotas į kitos rūšies įmonę ar organizaciją.
 
-2. Fondas gali būti reorganizuotas
+2. Fondas gali būti
 
-steigėjų susirinkimo nutarimu. Galimi fondo reorganizavimo būdai:
+reorganizuotas steigėjų susirinkimo nutarimu. Galimi fondo reorganizavimo
+
+būdai:
 
 1) jungiantis su kitais
 
@@ -1058,11 +1094,11 @@ likviduoti fondą už įstatymų nustatytus teisės pažeidimus.
 
 2. Organas, nusprendęs
 
-(nutaręs) likviduoti fondą, skiria likvidatorių ir nustato jo įgaliojimus. Paskyrus
+(nutaręs) likviduoti fondą, skiria likvidatorių ir nustato jo įgaliojimus.
 
-likvidatorių, fondas įgyja likviduojamojo fondo statusą: valdymo organai
+Paskyrus likvidatorių, fondas įgyja likviduojamojo fondo statusą: valdymo
 
-netenka įgaliojimų valdyti fondą, jų funkcijas atlieka likvidatorius.
+organai netenka įgaliojimų valdyti fondą, jų funkcijas atlieka likvidatorius.
 
 3. Fondą likvidavus,
 
