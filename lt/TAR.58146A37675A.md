@@ -4,7 +4,7 @@ identifier: "TAR.58146A37675A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-09-21"
-last_updated: "2000-07-26"
+last_updated: "2004-11-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.58146A37675A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2000-07-26 iki 2004-11-24
+Suvestinė redakcija nuo 2004-11-25 iki 2006-01-16
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 82-2414, i. k. 0991010ISTAIII-1328
 
@@ -131,7 +131,11 @@ Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010I
 
 4) apskričių viršininkai;
 
-5) vietos savivaldos institucijos.
+5) savivaldybių institucijos.
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2531, 2004-11-02, Žin., 2004, Nr. 170-6237 (2004-11-25), i. k. 1041010ISTA0IX-2531
 
 2. Etninės kultūros valstybinės globos institucijų kompetencija:
 
@@ -163,13 +167,21 @@ Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010I
 
 3) visuomeninės organizacijos.
 
-4. Pritarus Etninės kultūros globos tarybai, steigėjas gali suteikti specializuoto etninės kultūros šakos archyvo statusą saugykloms, sukaupusioms gausiausią tam tikros etninės kultūros šakos archyvinę medžiagą.
+4. Neteko galios nuo 2004-11-25
+
+Straipsnio dalies naikinimas:
+
+Nr. IX-2531, 2004-11-02, Žin. 2004, Nr. 170-6237 (2004-11-25), i. k. 1041010ISTA0IX-2531
 
 5. Mokslo ir studijų institucijos rengia specialistus darbui etninės kultūros kaupimo, apsaugos ir tyrimo institucijose, atlieka etninės kultūros paveldo ir gyvosios tradicijos procesų tyrimus.
 
 7 straipsnis. Etninės kultūros vertybių kaupimo bei naudojimo teisinis reglamentavimas
 
-1. Sistemingai etninės kultūros vertybes renkantys ir kaupiantys asmenys privalo laikytis Etninės kultūros globos tarybos parengtų ar aprobuotų etninės kultūros vertybių rinkimo bei kaupimo taisyklių.
+1. Sistemingai etninės kultūros vertybes renkantys ir kaupiantys asmenys privalo laikytis Etninės kultūros globos tarybos parengtų ir Vyriausybės patvirtintų etninės kultūros vertybių rinkimo bei kaupimo taisyklių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2531, 2004-11-02, Žin., 2004, Nr. 170-6237 (2004-11-25), i. k. 1041010ISTA0IX-2531
 
 2. Rinkėjas etninės kultūros vertybėms fiksuoti ir aprašyti privalo gauti pateikėjo sutikimą.
 
@@ -197,7 +209,11 @@ Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010I
 
 1. Etninės kultūros globos taryba inicijuoja ir padeda Vyriausybei parengti etninės kultūros plėtros valstybinę programą bei koordinuoti jos įgyvendinimą.
 
-2. Etninės kultūros globos taryba inicijuoja ir padeda Vyriausybei parengti ilgalaikius Lietuvos etnografinių regionų, kaimų išlikimo projektus, užtikrinančius etninės kultūros subjektų gamybinės ir kultūrinės veiklos plėtrą.
+2. Etninės kultūros globos taryba padeda Vyriausybei parengti ilgalaikę Lietuvos etnografinių kaimų išsaugojimo programą, užtikrinančią etninės kultūros subjektų gamybinės ir kultūrinės veiklos plėtrą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2531, 2004-11-02, Žin., 2004, Nr. 170-6237 (2004-11-25), i. k. 1041010ISTA0IX-2531
 
 3. Vyriausybė inicijuoja etninio kalbos savitumo ugdymą, užtikrina tarmių, etninių vietovardžių išlikimą ir organizuoja lietuvių kalboje esančių svetimžodžių keitimą lietuviškais atitikmenimis.
 
@@ -301,23 +317,13 @@ IV skyrius
 
 BAIGIAMOSIOS NUOSTATOS
 
-12 straipsnis. Įstatymo įgyvendinimas
+12 straipsnis. Pasiūlymas Vyriausybei
 
-Lietuvos Respublikos Vyriausybė:
+Lietuvos Respublikos Vyriausybė iki 2004 m. gruodžio 31 d. parengia Etninės kultūros globos fondo nuostatus.
 
-1) skiria Etninės kultūros globos tarybai patalpas;
+Straipsnio pakeitimai:
 
-Straipsnio punkto pakeitimai:
-
-Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010ISTAIII-1847
-
-2) iki 1999 m. gruodžio 31 d. patvirtina Etninės kultūros globos fondo nuostatus ir įsteigia Etninės kultūros globos fondą;
-
-3) iki 2000 m. gruodžio 31 d. parengia tarmių bei etninių vietovardžių išsaugojimo programą ir nustato svetimžodžių keitimo lietuviškais atitikmenimis įgyvendinimo tvarką;
-
-4) iki 2000 m. gruodžio 31 d. parengia Etninės kultūros plėtros valstybinę programą;
-
-5) iki 2000 m. gruodžio 31 d. parengia Lietuvos etnografinių kaimų išlikimo ilgalaikę programą.
+Nr. IX-2531, 2004-11-02, Žin., 2004, Nr. 170-6237 (2004-11-25), i. k. 1041010ISTA0IX-2531
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -332,4 +338,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010ISTAIII-1847
 
 Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 5 ir 12 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2531, 2004-11-02, Žin., 2004, Nr. 170-6237 (2004-11-25), i. k. 1041010ISTA0IX-2531
+
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 5, 6, 7, 8 ir 12 straipsnių pakeitimo įstatymas
 
