@@ -4,7 +4,7 @@ identifier: "TAR.C7E57DF3CEC5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-07"
-last_updated: "2003-07-10"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2003-07-10 iki 2003-12-31
+Suvestinė redakcija nuo 2004-01-01 iki 2004-08-06
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
 
@@ -167,15 +167,13 @@ INVESTAVIMO YPATUMAI
 
 1. Investicijos Lietuvos Respublikoje leidžiamos į visas teisėtas komercines-ūkines veiklas, atsižvelgiant į šio ir kitų Lietuvos Respublikos įstatymų nustatytus apribojimus.
 
-2. Užsienio investicijos neleidžiamos į šias komercines-ūkines veiklas:
-
-1) valstybės saugumo ir gynybos užtikrinimo (išskyrus investicijas iš Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atitinkančių užsienio subjektų, jei tam pritaria Valstybės gynimo taryba);
-
-2) loterijų organizavimo.
+2. Užsienio investicijos neleidžiamos į valstybės saugumo ir gynybos užtikrinimo veiklą (išskyrus investicijas iš Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atitinkančių ūkio subjektų, jei tam pritaria Valstybės gynimo taryba).
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-1558, 2000-02-17, Žin., 2000, Nr. 20-495 (2000-03-08), i. k. 1001010ISTAIII-1558
+
+Nr. IX-1665, 2003-07-01, Žin., 2003, Nr. 73-3345 (2003-07-23), i. k. 1031010ISTA0IX-1665
 
 3. Investuojant į steigiamą ūkio subjektą, kurio veikla pagal Lietuvos Respublikos įmonių įstatymą ir kitus tą veiklos sritį reglamentuojančius įstatymus yra licencijuojama, ūkio subjektas savo veiklai privalo įsigyti licenciją įstatymų ir kitų teisės aktų nustatyta tvarka.
 
@@ -322,4 +320,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
 
 Lietuvos Respublikos investicijų įstatymo 2, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1665, 2003-07-01, Žin., 2003, Nr. 73-3345 (2003-07-23), i. k. 1031010ISTA0IX-1665
+
+Lietuvos Respublikos investicijų įstatymo 8 straipsnio pakeitimo įstatymas
 
