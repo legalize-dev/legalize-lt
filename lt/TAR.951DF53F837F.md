@@ -4,7 +4,7 @@ identifier: "TAR.951DF53F837F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "1999-06-09"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
+
+Suvestinė redakcija nuo 2004-04-01 iki 2004-04-30
+
+Įstatymas paskelbtas: Žin. 1999, Nr. 50-1600; Žin. 1999, Nr.68-0; Žin. 2011, Nr.91-4318, i. k. 0991010ISTAIII-1190
 
 LIETUVOS RESPUBLIKOS
 
@@ -55,9 +59,17 @@ BENDROSIOS NUOSTATOS
 
 9. Galutinis radioaktyviųjų atliekų apdorojimas – operacijos, atliekamos gaminant radioaktyviųjų atliekų pakuotes, kurias galima vežti, saugoti ir (arba) laidoti. Galutinio apdorojimo metu atliekos gali būti sukietinamos, dedamos į atliekų konteinerius ir prireikus papildomai supakuojamos.
 
-10. Licenciaras – valstybės valdymo institucija, išduodanti licencijas.
+10. Licenciaras – valstybės institucija, išduodanti licencijas.
 
-11. Licencija – valstybės valdymo institucijos išduotas oficialus dokumentas, kuris suteikia teisę laikantis nustatytų sąlygų ir reikalavimų verstis tam tikra radioaktyviųjų atliekų tvarkymo veikla.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA0IX-2004
+
+11. Licencija – valstybės institucijos išduotas oficialus dokumentas, kuris suteikia teisę laikantis nustatytų sąlygų ir reikalavimų verstis tam tikra radioaktyviųjų atliekų tvarkymo veikla.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA0IX-2004
 
 12. Panaudotas branduolinis kuras – reaktoriaus aktyviojoje zonoje apšvitintas branduolinis kuras, jeigu reaktorių eksploatuojanti organizacija licenciaro nustatyta tvarka įformina, kad jis nebebus naudojamas reaktoriuose.
 
@@ -89,7 +101,11 @@ BENDROSIOS NUOSTATOS
 
 26. Smulkusis atliekų gamintojas – atliekų gamintojas, išskyrus atominę elektrinę eksploatuojančią organizaciją.
 
-27. Švarumo pagal radioaktyvumą lygiai (toliau – švarumo lygiai) – valstybės valdymo ir priežiūros institucijų nustatytos radioaktyvumo (savitojo aktyvumo, paviršiaus užterštumo, bendrojo aktyvumo ir t. t.) reikšmės, kurių neviršijant, užterštos radionuklidais arba turinčios jų savo sudėtyje medžiagos licenciaro nekontroliuojamos.
+27. Švarumo pagal radioaktyvumą lygiai (toliau – švarumo lygiai) – valstybės institucijų nustatytos radioaktyvumo (savitojo aktyvumo, paviršiaus užterštumo, bendrojo aktyvumo ir t. t.) reikšmės, kurių neviršijant, užterštos radionuklidais arba turinčios jų savo sudėtyje medžiagos licenciaro nekontroliuojamos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA0IX-2004
 
 28. Uždarasis šaltinis – kietos būsenos ir hermetizuotas kapsulėje arba apvalkale jonizuojančiosios spinduliuotės šaltinis, išskyrus reaktoriaus kuro elementus.
 
@@ -203,7 +219,11 @@ Be Vyriausybės nustatyta tvarka išduotos licencijos draudžiama:
 
 10 straipsnis. Licencijų ir leidimų išdavimas
 
-1. Šio įstatymo 9 straipsnio 1 punkte nurodytai veiklai licencijas išduoda Valstybinė atominės energetikos saugos inspekcija, suderinus su Radiacinės saugos centru, Aplinkos ministerija ir vietos savivaldos institucija, kurios teritorija ar jos dalis yra saugyklos ar kapinyno sanitarinės apsaugos zonoje.
+1. Šio įstatymo 9 straipsnio 1 punkte nurodytai veiklai licencijas išduoda Valstybinė atominės energetikos saugos inspekcija, suderinusi su Radiacinės saugos centru, Aplinkos ministerija ir savivaldybės, kurios teritorija ar jos dalis yra saugyklos ar kapinyno sanitarinės apsaugos zonoje, administracijos direktoriumi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA0IX-2004
 
 2. Šio įstatymo 9 straipsnio 2 punkte nurodytai veiklai licencijas radioaktyviųjų atliekų vežėjui išduoda Radiacinės saugos centras, suderinus su Aplinkos ministerija, o radioaktyviąsias atliekas vežti su branduolinėmis medžiagomis – ir Valstybine atominės energetikos saugos inspekcija.
 
@@ -249,7 +269,11 @@ RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYMO AGENTŪRA
 
 1. Agentūra turi tarybą. Agentūros tarybos narius, tarybos pirmininką ir Agentūros direktorių skiria ir atleidžia ūkio ministras.
 
-2. Tarybą sudaro 9 nariai iš valstybės valdymo ir savivaldos institucijų, atliekų gamintojų ir mokslo institucijų. Agentūros tarybos nario pareigos yra visuomeninės. Tarybos nariai negali dirbti Agentūroje.
+2. Tarybą sudaro 9 nariai iš valstybės ir savivaldybės institucijų, atliekų gamintojų ir mokslo institucijų. Agentūros tarybos nario pareigos yra visuomeninės. Tarybos nariai negali dirbti Agentūroje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA0IX-2004
 
 3. Pagrindiniai Agentūros tarybos uždaviniai yra:
 
@@ -381,7 +405,11 @@ Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija atsak
 
 1. Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija atsako, kad iki radioaktyviųjų atliekų tvarkymo įrenginio priėmimo ir perdavimo eksploatuoti ir eksploatavimo metu būtų sudaryti avarijų ar incidentų likvidavimo planai.
 
-2. Krašto apsaugos ministerijos Civilinės saugos departamentas kartu su vietos savivaldos institucijomis iki radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo pradžios turi parengti gyventojų saugos planus tokios teritorijos, kuri gali būti paveikta įvykus branduolinei ar radiacinei avarijai radioaktyviųjų atliekų tvarkymo įrenginyje. Eksploatavimo metu avarijų ar incidentų likvidavimo bei gyventojų saugos planai kartu su eksploatuojančia organizacija turi būti reguliariai bandomi. Prieš nutraukiant radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimą, planai turi būti atnaujinti atsižvelgiant į eksploatavimo nutraukimo sąlygas.
+2. Civilinės saugos departamentas prie Vidaus reikalų ministerijos kartu su savivaldybės institucijomis iki radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo pradžios turi parengti gyventojų saugos planus tokios teritorijos, kuri gali būti paveikta įvykus branduolinei ar radiacinei avarijai radioaktyviųjų atliekų tvarkymo įrenginyje. Eksploatavimo metu avarijų ar incidentų likvidavimo bei gyventojų saugos planai kartu su eksploatuojančia organizacija turi būti reguliariai bandomi. Prieš nutraukiant radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimą, planai turi būti atnaujinti atsižvelgiant į eksploatavimo nutraukimo sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA0IX-2004
 
 3. Branduolinių ar radiacinių avarijų prevencija ir avarijų likvidavimas radioaktyviųjų atliekų tvarkymo įrenginiuose vykdomi Branduolinės energijos įstatymo ir kitų įstatymų bei teisės aktų nustatyta tvarka.
 
@@ -459,35 +487,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-81 straipsnis. Radioaktyviųjų atliekų tvarkymo plėtros programa
+Pakeitimai:
 
-1. Radioaktyviųjų atliekų tvarkymo plėtros programoje nurodomi:
+1.
 
-1) bendrieji radioaktyviųjų atliekų tvarkymo tikslai;
+Lietuvos Respublikos Seimas, Įstatymas
 
-2) pagrindiniai bendrųjų radioaktyviųjų atliekų tvarkymo tikslų įgyvendinimo etapai ir aiškūs tų etapų įgyvendinimo laikotarpiai;
+Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA0IX-2004
 
-3) visų radioaktyviųjų atliekų aprašas ir būsimo kiekio (įskaitant tą, kuris susidarys branduolinės energetikos objekto eksploatavimo nutraukimo metu) apskaičiavimas, aiškiai nurodant radioaktyviųjų atliekų vietą bei kiekį pagal nustatytą radioaktyviųjų atliekų klasifikavimą;
-
-4) visiems radioaktyviųjų atliekų tvarkymo etapams (pradedant susidarymu ir baigiant dėjimu į atliekynus) skirtos koncepcijos arba planai ir techniniai sprendimai;
-
-5) po atliekyno uždarymo jo naudojimo laiku, įskaitant laiką, kai vykdoma institucinė priežiūra, taikomos koncepcijos arba planai, įskaitant ilgalaikes priemones, naudotinas informacijai apie įrenginį išsaugoti;
-
-6) mokslinių tyrimų, plėtros ir demonstracinė veikla, reikalinga, kad būtų įgyvendinti panaudoto branduolinio kuro ir radioaktyviųjų atliekų tvarkymo sprendimai;
-
-7) atsakomybė už šios programos įgyvendinimą ir pagrindiniai veiklos rodikliai, reikalingi programos įgyvendinimo pažangos stebėsenai;
-
-8) lėšų poreikis šiai programai įgyvendinti, lėšų poreikio vertinimo pagrindas bei prielaidos nurodant, kaip ilgainiui poreikis keičiasi;
-
-9) šios programos įgyvendinimo finansavimo būdai ir šaltiniai;
-
-10) visuomenės informavimo būdai ir priemonės;
-
-11) jeigu yra, su užsienio valstybe ar valstybėmis sudarytas susitarimas ar susitarimai dėl radioaktyviųjų atliekų tvarkymo, įskaitant susitarimus dėl atliekynų.
-
-2. Energetikos ministerija praneša Europos Komisijai apie Radioaktyviųjų atliekų tvarkymo plėtros programą ir esminius jos pakeitimus. Europos Komisijai pateikus atsiliepimą, kuriuo prašoma papildomo paaiškinimo apie pateiktą Radioaktyviųjų atliekų tvarkymo plėtros programą ar jos pakeitimus arba pateikiama nuomonė dėl Radioaktyviųjų atliekų tvarkymo plėtros programos atitikties šio įstatymo priedo 2 punkte nurodyto Europos Sąjungos teisės akto nuostatoms, Energetikos ministerija per šešis mėnesius pateikia prašomą paaiškinimą arba informuoja apie reikiamus teisės aktų pakeitimus.
-
-Papildyta straipsniu:
-
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 2, 10, 14 ir 24 straipsnių pakeitimo įstatymas
 
