@@ -4,7 +4,7 @@ identifier: "TAR.0120FD7BCFFC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "1995-09-27"
+last_updated: "1997-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 1995-09-27 iki 1997-07-08
+Suvestinė redakcija nuo 1997-07-09 iki 1999-05-18
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
 
@@ -173,7 +173,11 @@ Lietuvos Respublikos gyvenamosios vietovės registruojamos, o jų teritorijų ar
 
 13 straipsnis. Dokumentų teikimas teritorijos administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti ir riboms keisti
 
-Institucijos, teikdamos pasiūlymus dėl teritorijos administracinių vienetų ir gyvenamųjų vietovių teritorijų nustatymo bei jų ribų keitimo, turi pateikti atitinkamos savivaldybės tarybos sprendimą, savivaldybės tarybos paaiškinamąjį raštą, kuriame pagrindžiamas teikiamų siūlymų tikslingumas, pertvarkomų teritorijų administracinių vienetų 1:100000 mastelio planus (2 egzempliorius) su siūlomais pakeitimais, o jeigu keičiamos teritorijos ribos nesutampa su žemės naudotojų ribomis – 1:10000 mastelio ribų planus (2 egzempliorius). Planai turi būti suderinti su apskrities valdytoju bei Lietuvos Respublikos teritorijos administracinių vienetų ir gyvenamųjų vietovių rejestro tvarkytoju.
+Institucijos, teikdamos pasiūlymus dėl teritorijos administracinių vienetų ir gyvenamųjų vietovių teritorijų nustatymo bei jų ribų keitimo, turi pateikti atitinkamos savivaldybės tarybos sprendimą, savivaldybės tarybos paaiškinamąjį raštą, kuriame pagrindžiamas teikiamų siūlymų tikslingumas, pertvarkomų teritorijų administracinių vienetų 1:100000 mastelio planus (2 egzempliorius) su siūlomais pakeitimais, o jeigu keičiamos teritorijos ribos nesutampa su žemės naudotojų ribomis – 1:10000 mastelio ribų planus (2 egzempliorius). Planai turi būti suderinti su apskrities viršininku bei Lietuvos Respublikos teritorijos administracinių vienetų ir gyvenamųjų vietovių rejestro tvarkytoju.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-316, 1997-06-26, Žin., 1997, Nr. 65-1544 (1997-07-09), i. k. 0971010ISTAVIII-316
 
 VI SKYRIUS
 
@@ -196,4 +200,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
 
 Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio papildymo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-316, 1997-06-26, Žin., 1997, Nr. 65-1544 (1997-07-09), i. k. 0971010ISTAVIII-316
+
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 13 straipsnio pakeitimo įstatymas
 
