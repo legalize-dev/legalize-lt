@@ -4,7 +4,7 @@ identifier: "TAR.90F8B1B91FDB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-26"
-last_updated: "1997-06-17"
+last_updated: "1998-11-17"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.90F8B1B91FDB"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,11 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kainų įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramunė Lūžaitė (1997.07.03)
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.07.03)
+Ramunė Lūžaitė (1998.12.02)
 
 Įstatymas
 
@@ -37,7 +37,7 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-1-261;
+I-261;
 
 1993.10.05. Žin.,1993, Nr.52-1000
 
@@ -49,7 +49,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1020, 95.07.05, žin., 1995, Nr.59-1480
+I-1020, 95.07.05, žin., 1995, Nr.59-1480
 
 DĖL
 
@@ -69,6 +69,20 @@ LIETUVOS
 
 RESPUBLIKOS KAINŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-927,
+
+98.11.17, Žin., 1998, Nr.105-2898 (98.12.02)
+
+LIETUVOS RESPUBLIKOS
+
+KAINŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -85,9 +99,25 @@ K A I N Ų
 
 sistemos, jų reguliavimo ir kontrolės pagrindus Lietuvos Respublikoje.
 
-Įstatymo 6, 7, 12 ir 13 straipsnių nuostatos netaikomos elektros energijos,
+Įstatymo 6, 7, 12 ir 13 straipsnių nuostatos
 
-centralizuotos šilumos ir karšto vandens bei gamtinių dujų kainoms.
+netaikomos elektros energijos, centralizuotos šilumos, karšto ir šalto vandens
+
+bei gamtinių dujų kainoms, taip pat Transporto veiklos pagrindų įstatymo 6
+
+straipsnio 1 dalyje numatytiems tarifams. Šias kainas ir tarifus nustato
+
+atitinkamai tiekėjai ar vežėjai, suderinę kainas ar tarifų maksimalius dydžius
+
+su Valstybine kainų ir energetikos kontrolės komisija (toliau - Komisija).
+
+Kainos ir tarifai nustatomi įvertinus būtinas sąnaudas pagal Komisijos
+
+patvirtintas metodikas. Jeigu tiekėjams ar vežėjams nepavyksta suderinti kainų
+
+ar tarifų su Komisija, ši turi priimti sprendimą dėl kainų dydžio ar tarifų
+
+maksimalaus dydžio ir nurodyti sprendimo galiojimo laiką.
 
 Straipsnio
 
@@ -96,6 +126,10 @@ pakeitimai:
 Nr.
 
 VIII-262, 97.06.17, Žin., 1997, Nr.63-1472 (97.07.02)
+
+Nr. VIII-927,
+
+98.11.17, Žin., 1998, Nr.105-2898 (98.12.02)
 
 2 straipsnis.
 
@@ -151,17 +185,19 @@ Jeigu rinkos  kainų ir  tarifų  dinamika  sukelia arba gali sukelti
 
 ekonomikos  funkcionavimo  sutrikimus,  kurie pažeidžiaRespublikos ūkio  ir
 
-gyventojų  interesus, Lietuvos RespublikosVyriausybė gali sustabdyti arba apriboti
+gyventojų  interesus, Lietuvos RespublikosVyriausybė gali sustabdyti arba
 
-rinkos kainų ir tarifų didėjimą ne ilgesniam kaip 6 mėnesių laikotarpiui.
+apriboti rinkos kainų ir tarifų didėjimą ne ilgesniam kaip 6 mėnesių
+
+laikotarpiui.
 
 9 straipsnis.
 
 Valstybinė kainų kontrolė apima kainų sistemos priežasčių ir veiksnių, kurie
 
-turi įtakos kainų lygiui ir jo pasikeitimams, tyrimą, šio įstatymo ir kitų norminių
+turi įtakos kainų lygiui ir jo pasikeitimams, tyrimą, šio įstatymo ir kitų
 
-kainodaros aktųįgyvendinimą ūkinėje veikloje.
+norminių kainodaros aktųįgyvendinimą ūkinėje veikloje.
 
 10 straipsnis.
 
@@ -189,7 +225,7 @@ Straipsnio
 
 pakeitimai:
 
-1-261;
+I-261;
 
 1993.10.05. Žin.,1993, Nr.52-1000
 
@@ -205,13 +241,13 @@ Straipsnio
 
 pakeitimai:
 
-1-261;
+I-261;
 
 1993.10.05. Žin.,1993, Nr.52-1000
 
 Nr.
 
-1-1020, 95.07.05, žin., 1995, Nr.59-1480
+I-1020, 95.07.05, žin., 1995, Nr.59-1480
 
 13 straipsnis
 
@@ -227,7 +263,7 @@ Straipsnio
 
 pakeitimai:
 
-1-261;
+I-261;
 
 1993.10.05. Žin.,1993, Nr.52-1000
 
