@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "1997-07-02"
+last_updated: "1998-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.07.17)
+Ramunė Lūžaitė (1998.12.24)
 
 Įstatymas
 
@@ -76,6 +76,24 @@ LIETUVOS
 
 RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 83 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-946,
+
+98.12.01, Žin., 1998, Nr.112-3099 (98.12.23)
+
+LIETUVOS RESPUBLIKOS
+
+SVEIKATOS SISTEMOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo
+
+redakcija
+
 ***
 
 Pabaiga ***
@@ -90,1857 +108,823 @@ SVEIKATOS SISTEMOS
 
 Vilnius
 
-Lietuvos
+Nauja
 
-Respublikos Seimas,
+įstatymo redakcija:
 
-pripažindamas,
+Nr. VIII-946,
 
-kad
+98.12.01, Žin., 1998, Nr.112-3099 (98.12.23)
 
-gyventojų
+Lietuvos Respublikos Seimas,
 
-sveikata yra didžiausia visuomenės socialinė ir ekonominė vertybė,
+pripažindamas, kad
 
-sveikata
+gyventojų sveikata yra didžiausia visuomenės
 
-- tai ne tik ligų ir fizinių defektų nebuvimas, bet ir fizinė, dvasinė bei
+socialinė ir ekonominė vertybė,
 
-socialinė žmonių gerovė,
+sveikata - tai ne tik ligų ir fizinių defektų
 
-sveikatos
+nebuvimas, bet ir fizinė, dvasinė bei socialinė žmonių gerovė,
 
-potencialą  ir jo  palaikymo  sąlygas  lemia ekonominės sistemos raidos
+sveikatos potencialą ir jo palaikymo sąlygas
 
-stabilumas, visuomenės socialinio saugumo ir  švietimo garantijos, gyventojų
+lemia ekonominės sistemos raidos stabilumas, visuomenės socialinio saugumo ir
 
-užimtumas ir jų pakankamos pajamos, apsirūpinimas būstu, prieinama, priimtina
+švietimo garantijos, gyventojų užimtumas ir jų pakankamos pajamos,
 
-ir tinkama  sveikatos  priežiūra,  kokybiška  mityba,  darbo, gyvenamosios ir
+apsirūpinimas būstu, prieinama, priimtina ir tinkama sveikatos priežiūra,
 
-gamtinės aplinkos kokybė, gyventojų pastangos ugdyti sveikatą,
+kokybiška mityba, darbo, gyvenamosios ir gamtinės aplinkos kokybė, gyventojų
 
-asmens
+pastangos ugdyti sveikatą,
 
-pastangos būti sveikam gali būti skatinamos tik gyvenamam laikui ir žmogaus
+asmens pastangos būti sveikam gali būti
 
-orumui priimtinomis socialinėmis ir ekonominėmis priemonėmis,
+skatinamos tik gyvenamam laikui ir žmogaus orumui priimtinomis socialinėmis ir
 
-kuo
+ekonominėmis priemonėmis,
 
-geresnė  visuomenės sveikata  yra būtina  Lietuvos valstybės saugumo ir
+kuo geresnė visuomenės sveikata yra būtina
 
-klestėjimo  bei atviros, teisingos ir darnios pilietinės visuomenės kūrimo
+Lietuvos valstybės saugumo ir klestėjimo bei atviros, teisingos ir darnios
 
-prielaida;
+pilietinės visuomenės kūrimo prielaida;
 
-atsižvelgdamas
+atsižvelgdamas į Pasaulio sveikatos
 
-į Pasaulinės Sveikatos Asamblėjos 30 sesijos 1977 metais paskelbtas globalinės
+organizacijos priimtą sveikatos strategiją “Sveikata visiems”, Otavos sveikatos
 
-strategijos "Sveikata visiems - 2000", Otavos  sveikatos stiprinimo
+stiprinimo chartijos ir Lietuvos nacionalinės sveikatos koncepcijos nuostatas;
 
-chartijos ir  Lietuvos nacionalinės sveikatos koncepcijos nuostatas;
+siekdamas užtikrinti prigimtinę žmogaus teisę
 
-siekdamas
+turėti kuo geresnę sveikatą, taip pat teisę turėti sveiką aplinką, priimtiną,
 
-užtikrinti prigimtinę žmogaus teisę turėti kuo geresnę sveikatą,  taip pat
+prieinamą ir tinkamą sveikatos priežiūrą;
 
-teisę turėti  sveiką aplinką, priimtiną, prieinamą ir tinkamą sveikatos
+vadovaudamasis Lietuvos Respublikos
 
-priežiūrą;
+Konstitucija,
 
-vadovaudamasis
-
-Lietuvos Respublikos Konstitucija,
-
-priima
-
-Sveikatos sistemos įstatymą.
+priima Sveikatos sistemos įstatymą.
 
 I DALIS
 
 SVEIKATOS SISTEMA
 
-I SKYRIUS. BENDRIEJI NUOSTATAI
+I SKYRIUS
 
-1
-
-straipsnis. Lietuvos Respublikos sveikatos sistemos įstatymo
-
-paskirtis
-
-Lietuvos  Respublikos  sveikatos  sistemos  įstatymas reglamentuoja Lietuvos
-
-nacionalinę sveikatos  sistemą,  jos struktūrą, sveikatos saugos, sveikatos
-
-stiprinimo ir sveikatos atgavimo santykių  teisinio reguliavimo  ribas,
-
-sveikatinimo veiklos mastų  nustatymo, asmens  ir  visuomenės  sveikatos
-
-priežiūros organizavimo, valdymo, sveikatos rėmimo, sveikatinimo veiklos
-
-sutarčių sudarymo pagrindus, atsakomybės už sveikatinimo veiklos  teisės
-
-normų  pažeidimus  pagrindus,  gyventojų, sveikatinimo veiklos subjektų teises
-
-ir pareigas.
-
-2
-
-straipsnis. Sveikatos santykių teisinis reguliavimas
-
-Sveikatos
-
-santykius, atsirandančius saugant, stiprinant ir padedant atgauti  asmens ir
-
-visuomenės sveikatą, taip pat santykius, susijusius  su asmens teisių turėti
-
-kuo geresnę sveikatą įgyvendinimu, asmens ir visuomenės sveikatos interesų
-
-gynyba, reguliuoja šis įstatymas, kiti sveikatinimo veiklos įstatymai, taip pat
-
-šių įstatymų prasmei neprieštaraujantys valstybinės valdžios ir valdymo
-
-struktūrų bei įstaigų, vietos savivaldos, visuomeninių organizacijų, žmonių teisių
-
-ir kitų socialinių klausimų,  aplinkos apsaugos,  ekonomikos, krašto apsaugos
-
-ir vidaus tvarkos įstatymai, poįstatyminiai teisės aktai, sutartys ar
-
-susitarimai dėl sveikatinimo veiklos bei darbo salygų.
-
-3
-
-straipsnis. Sveikatos santykių teisinio reguliavimo ribos
-
-Tik
-
-Lietuvos Respublikos sveikatinimo veiklos įstatymai nustato:
-
-1)
-
-sveikatos teisės veikimo sferą, uždavinius ir principus;
-
-2)
-
-sveikatinimo  veiklos rūšių  ir sveikatinimo veiklos subjektų sistemą,
-
-pagrindinių sveikatinimo  veiklos  valdymo subjektų  kompetenciją,
-
-sveikatinimo  veiklos  koordinavimo, sveikatos  priežiūros  valstybinių
-
-tarnybų  ir  valstybinių inspekcijų, asmens ir visuomenės sveikatos priežiūros
-
-įstaigų bei farmacinės veiklos  subjektų teises  ir pareigas  asmens ir
-
-visuomenės sveikatos priežiūroje ar farmacinėje veikloje, jų steigimo, veiklos,
-
-jos nutraukimo teisinius pagrindus;
-
-3)
-
-valstybinės higienos  inspekcijos steigimo,  veiklos, reorganizavimo teisinius
-
-pagrindus,  valstybinės  higieninės kontrolės sąlygas ir tvarką;
-
-4)
-
-nacionalinės sveikatos sistemos išteklių struktūrą ir jų valdymo pagrindus;
-
-5)
-
-sveikatinimo veiklos organizavimo, valdymo, sveikatos rėmimo bei finansavimo
-
-pagrindus;
-
-6)
-
-sveikatinimo veiklos būtinąsias sąlygas ir jų kontrolės teisinius pagrindus;
-
-7)
-
-gyventojų teises  ir pareigas sveikatinimo veikloje, visuomenės dalyvavimo
-
-sveikatos reikalų  tvarkyme teisinius pagrindus;
-
-8)
-
-asmenų, turinčių  aukštąjį  ar  specialųjį  vidurinį medicinos ar  kitos
-
-specialybės  išsilavinimą,  akreditavimo sveikatinimo veiklai bei farmacinei
-
-veiklai teisinius pagrindus, pagrindines profesines medicinos specialistų
-
-pareigas, teises, kvalifikacinių reikalavimų nustatymo, jų kvalifikacijos
-
-kėlimo bei jų praktikos ribojimo tvarką, sveikatos priežiūros reklamos
-
-ribojimo, civilinės atsakomybės už žalą pacientų sveikatai, padarytą vykdant
-
-asmens sveikatos priežiūrą, nustatymo teisinius pagrindus;
-
-9)
-
-sveikatinimo veiklos sutarčių sudarymo tvarką ir jų esmines sąlygas;
-
-10)
-
-pirminės sveikatinimo veiklos organizavimo, valdymo, jos sąlygų kontrolės
-
-teisinius pagrindus;
-
-11)
-
-visuomenės  sveikatos  priežiūros  sistemą,  jos organizavimo, valdymo,
-
-higieninio reglamentavimo, užkrečiamųjų ligų epidemiologinės  saugos,
-
-higieninės  ir epidemiologinės kontrolės, higieninės ekspertizės teisinius
-
-pagrindus;
-
-12)
-
-žmonių saugos  darbe,  darbo  medicinos,  vartotojų sveikatos saugos
-
-organizavimo ir valdymo teisinius pagrindus;
-
-13)
-
-bendrus maisto  produktų kokybės  reikalavimus. Šių produktų gamybos, importo,
-
-prekybos, reklamos sąlygų, maisto produktų ir jų taros kokybės kontrolės, jos
-
-ženklinimo tvarką;
-
-14)
-
-bendrus geriamojo vandens kokybės reikalavimus, vandens valymo, nukenksminimo,
-
-kokybės pagerinimo teisinius pagrindus;
-
-15)
-
-narkotinių  ir psichotropinių  medžiagų,  alkoholio produktų, tabako ir jo
-
-gaminių gamybos, prekybos, importo, eksporto, jų  licencijavimo,   vartojimo
-
-kontrolės  tvarką, alkoholinių gėrimų,   rūkalų  vartojimo  mažinimo  sistemą,
-
-narkologinės priežiūros, alkoholinių gėrimų ir rūkalų reklamos draudimo tvarką;
-
-16)
-
-nuodų, kitų toksinių ir radioaktyvių medžiagų gamybos, prekybos, importo,
-
-eksporto, transportavimo, naudojimo sąlygas, reikalavimus darbams su
-
-jonizuojančio spinduliavimo šaltiniais, radiacinio saugumo užtikrinimo sąlygas
-
-ir kontrolės tvarką;
-
-17)
-
-užkrečiamųjų ligų  profilaktikos sistemą,  šių ligų kontrolės organizavimo ir
-
-valdymo teisinius pagrindus;
-
-18)
-
-visuomenės sveikatos monitoringo, visuomenės sveikatos ekspertizės sąlygas,  jų
-
-organizavimo bei valdymo teisinius pagrindus;
-
-19)
-
-kūno kultūros ir sporto organizavimo, valdymo, dopingo ir lyties kontrolės
-
-teisinius pagrindus;
-
-20)
-
-asmenų teises vykdant psichikos sveikatos priežiūrą, psichikos sveikatos
-
-priežiūros sąlygas, jos organizavimo bei valdymo, jos sąlygų kontrolės
-
-teisinius pagrindus;
-
-21)
-
-invalidų medicininės  ir  socialinės  reabilitacijos organizavimo teisinius
-
-pagrindus;
-
-22)
-
-stomatologinės  priežiūros,  narkologinės  priežiūros sąlygas, jos organizavimo
-
-bei valdymo teisinius pagrindus;
-
-23)
-
-šeimos planavimo bei genetinio konsultavimo tvarką, kontracepcijos, dirbtinio
-
-apvaisinimo, vaisiaus saugos, nėštumo nutraukimo, sterilizavimo teisinius
-
-pagrindus;
-
-24)
-
-biomedicininių tyrimų etikos reikalavimus, jų laikymosi kontrolės tvarką bei
-
-atsakomybę už biomedicininių tyrimų etikos reikalavimų pažeidimus;
-
-25)
-
-žmogaus kraujo  paėmimo donorystei, kraujo produktų gamybos, žmogaus kraujo ir
-
-jo produktų transfuzijos sąlygas bei tvarką;
-
-26)
-
-organų  ar audinių  paėmimo  transplantacijai,  jų panaudojimo
-
-transplantacijai,  medicinos  mokslo  tyrimams, diagnostikai, gydymui
-
-pagrindus, sąlygas bei tvarką;
-
-27)
-
-asmens terminalinių būklių ir mirties fakto nustatymo kriterijus, asmens
-
-atsisakymo nuo  dalies ar visų gyvybės pratęsimo paslaugų sąlygas, lavono
-
-patologoanatominio tyrimo (autopsijos) sąlygas ir tvarką;
-
-28)
-
-farmacinių  paslaugų  teikimo,  farmacinės  veiklos organizavimo ir valdymo
-
-teisinius pagrindus;
-
-29)
-
-leidimo platinti vaistus ir vaistines medžiagas Lietuvos Respublikoje išdavimo,
-
-jų kokybės kontrolės sąlygas ir tvarką;
-
-30)
-
-sveikatos draudimo  sistemą,  privalomojo  sveikatos draudimo lėšų surinkimo
-
-tvarką, savanoriškojo sveikatos draudimo teisinius pagrindus, apdraustųjų ir
-
-draudėjų teises ir pareigas, sveikatos draudimo įstaigų steigimo ir  veiklos
-
-tvarką, šių įstaigų teises ir pareigas;
-
-31)
-
-atsakomybės už sveikatinimo veiklos įstatymų reikalavimų pažeidimus pagrindus.
-
-Lietuvos
-
-Respublikos Vyriausybė, ministerijos, valstybinės tarnybos ir valstybinės
-
-inspekcijos turi teisę priimti teisės aktus sveikatos  santykių reguliavimo
-
-klausimais pagal savo kompetenciją, išskyrus  tuos, kuriuos reguliuoja
-
-sveikatinimo veiklos įstatymai. Lietuvos Respublikos Vyriausybės, ministerijų,
-
-valstybinių tarnybų  ir valstybinių  inspekcijų teisės  aktų nuostatos, kurios
-
-pablogina sveikatinimo veiklos sąlygas palyginti su tomis,  kurias nustato
-
-sveikatinimo  veiklos  įstatymai, negalioja.
-
-Įmonės,
-
-įstaigos, organizacijos pagal savo kompetenciją turi teisę priimti teisės
-
-aktus, nustatančius papildomas palyginti su įstatymais ir kitais teisės aktais
-
-ekonomines ir socialines paskatas piliečiams ugdyti savo sveikatą, ūkiniams
-
-subjektams - verstis sveikatai naudinga ūkine-komercine veiklą, papildomą
-
-paramą socialiai remtinoms gyventojų grupėms kompensuojant šių sveikatos
-
-priežiūros kaštus, papildomus reikalavimus visuomenės sveikatos priežiūros
-
-įgyvendinimui. Įmonių, įstaigų, organizacijų teisės aktų nuostatos, kurios
-
-pablogina sveikatinimo veiklos lygį palyginti su tuo, kurį nustato sveikatinimo
-
-veiklos įstatymai ir kiti teisės aktai, negalioja.
-
-4
-
-straipsnis. Sveikatinimo veikla
-
-Sveikatinimo
-
-veiklą sudaro:
-
-1)
-
-asmens sveikatos priežiūra;
-
-2)
-
-visuomenės sveikatos priežiūra;
-
-3)
-
-farmacinė veikla;
-
-4)
-
-tradicinė medicina, liaudies medicina bei nemedicininiai sveikatos atgavimo
-
-būdai.
-
-5
-
-straipsnis. Sveikatinimo veiklos tikslai
-
-Sveikatinimo
-
-veiklos tikslai yra:
-
-1)
-
-mažinti atskirų  visuomenės socialinių ir profesinių grupių atsilikimą nuo kitų
-
-visuomenės grupių pagal sveikatos būklės rodiklius, nepabloginant bendrojo
-
-gyventojų sveikatos lygio;
-
-2)
-
-saugoti gyventojus nuo ligų, išvengiamos mirties ir invalidumo;
-
-3)
-
-ilginti gyvenimo be ligų ir traumų laiką bei gerinti jo kokybę;
-
-4)
-
-didinti gyvenimo ekonominį ir socialinį našumą.
-
-6
-
-straipsnis. Sveikatinimo veiklos reguliavimo principai
-
-Šio
-
-įstatymo 1 straipsnyje nurodytiems santykiams reguliuoti taikomi šie principai:
-
-1)
-
-visapusiška asmens ir visuomenės sveikatos sauga;
-
-2)
-
-asmens, visuomenės  sveikatos bei valstybės interesų derinimas;
-
-3)
-
-asmens teisių  turėti kuo  geresnę sveikatą  lygybė nesvarbu, kokios jis būtų
-
-lyties, rasės, tautybės, pilietybės, socialinės padėties ir profesijos;
-
-4)
-
-asmens laisvė pasirinkti kuo geresnės sveikatos sąlygas;
-
-5)
-
-asmens sveikatos priežiūros priimtinumas, prieinamumas ir tinkamumas;
-
-6)
-
-asmenų laisvė vienytis į visuomenines organizacijas, ginančias asmens ir
-
-visuomenės sveikatos interesus,ir valstybės parama šių organizacijų veiklos
-
-programoms;
-
-7)
-
-visapusiškas, teisingas  ir  nepavėluotas  visuomenės informavimas apie kuo
-
-geresnės sveikatos ugdymo sąlygas ir šių sąlygų reklama;
-
-8)
-
-visuomeninių  organizacijų  dalyvavimas  sveikatinimo veiklos valdyme tiek
-
-tiesiogiai, tiek per demokratiškai išrinktus savo atstovus;
-
-9)
-
-valstybės  parama  asmenims  saugant,  atgaunant  ir stiprinant jų sveikatą;
-
-10)
-
-valstybės garantuojamas  sveikatos priežiūros kaštų, kurie galėtų pabloginti
-
-gyvenimo kokybę, dalinis ar visiškas kompensavimas;
-
-11)
-
-visų sveikatinimo veiklos subjektų vykdoma visapusiška pavojaus ir žalos asmens
-
-ir visuomenės sveikatai prevencija;
-
-12)
-
-valstybės vykdomas sveikatai naudingų ūkinių pastangų ir iniciatyvos
-
-skatinimas.
-
-Jeigu
-
-šio įstatymo 1 straipsnyje nurodyti santykiai įstatymų nėra sureguliuoti ir
-
-jiems negalima pritaikyti teisės normų, reguliuojančių panašius  santykius,
-
-nuostatų, tai sprendžiant kilusius ginčus taikomi šio straipsnio pirmoje dalyje
-
-išvardyti principai.
-
-II SKYRIUS. LIETUVOS NACIONALINĖ SVEIKATOS SISTEMA
-
-7
-
-straipsnis. Lietuvos nacionalinės sveikatos sistemos sudarymo
-
-pagrindai
-
-Lietuvos
-
-nacionalinės sveikatos sistemos sudarymo pagrindai yra:
-
-1)
-
-socialinio teisumo sveikatinimo veikloje užtikrinimas;
-
-2)
-
-visų  sveikatinimo veiklos  išteklių integravimas į vieningą sistemą, jų
-
-planavimas ir naudojimas atsižvelgiant į nacionalinius sveikatinimo veiklos
-
-prioritetus;
-
-3)
-
-asmens sveikatos priežiūros bei visuomenės sveikatos priežiūros integravimas į
-
-vieningą sistemą;
-
-4)
-
-socialinės  rinkos  ekonomikos  elementų  sveikatinimo veikloje,
-
-nepažeidžiant  nacionalinių  sveikatinimo  veiklos prioritetų, diegimas;
-
-5)
-
-Lietuvos  sveikatos  programos,  sveikatos  sistemos reformos programų
-
-įgyvendinimo užtikrinimas;
-
-6)
-
-sveikatinimo  veiklos   tarpžinybinio  koordinavimo užtikrinimas;
-
-7)
-
-visuomenės dalyvavimo  sveikatinimo  veiklos  valdyme užtikrinimas.
-
-8
-
-straipsnis. Lietuvos nacionalinės sveikatos sistemos struktūra
-
-Lietuvos
-
-nacionalinę  sveikatos sistemą  (toliau  šiame įstatyme - LNSS) sudaro:
-
-1)
-
-LNSS vykdomieji subjektai;
-
-2)
-
-LNSS valdymo subjektai.
-
-3)
-
-LNSS ištekliai;
-
-4)
-
-LNSS veikla ir teikiamos paslaugos bei patarnavimai;
-
-9
-
-straipsnis. LNSS vykdomieji subjektai
-
-LNSS
-
-vykdomieji subjektai yra:
-
-1)
-
-valstybinės ir savivaldybių asmens ir (ar) visuomenės sveikatos priežiūros
-
-įstaigos;
-
-2)
-
-įmonės, akredituotos nustatytų rūšių sveikatinimo veiklai bei sudariusios šio
-
-įstatymo nustatytas  sveikatinimo veiklos sutartis su LNSS veiklos, paslaugų ir
-
-patarnavimų užsakovais.
-
-10
-
-straipsnis. LNSS valdymo subjektai
-
-LNSS
-
-valdymo subjektai yra:
-
-1)
-
-LNSS veiklos valstybinio valdymo subjektai;
-
-2)
-
-vietos savivaldybės ir jų institucijos;
-
-3)
-
-LNSS veiklos koordinavimo institucijos;
-
-4)
-
-LNSS specialieji valdymo subjektai;
-
-5)
-
-LNSS veiklos sąlygų kontrolės institucijos.
-
-LNSS
-
-valdymo subjektai pagal savo kompetenciją šio ir kitų įstatymų bei teisės aktų
-
-nustatyta tvarka prižiūri ir koordinuoja kitų sveikatinimo  veiklos  subjektų,
-
-nepriklausančių  LNSS sistemai, sveikatinimo veiklą.
-
-11
-
-straipsnis. LNSS ištekliai
-
-LNSS
-
-ištekliai yra:
-
-1)
-
-žemė, priklausanti viešosios nuosavybės teise valstybei ar savivaldybėms,
-
-skirta rekreaciniams poreikiams bei kurortų or- ganizavimui;
-
-2)
-
-gamtos ištekliai (mineralinis vanduo, gydomasis purvas ir kt.), skirti LNSS
-
-vykdomai medicininei reabilitacijai laiduoti;
-
-3)
-
-materialiniai ištekliai, skirti LNSS valdymui laiduoti;
-
-4)
-
-LNSS vykdomųjų ir valdymo subjektų turtas;
-
-5)
-
-valstybės ir savivaldybių finansiniai biudžeto ištekliai, skirti LNSS veiklai
-
-laiduoti;
-
-6)
-
-privalomojo sveikatos draudimo lėšos;
-
-7)
-
-bet koks kitas turtas, įstatymais priskiriamas LNSS veiklai laiduoti;
-
-8)
-
-valstybinių ir  savivaldybių  asmens  ir  visuomenės sveikatos priežiūros
-
-įstaigų, valstybinių įmonių, akredituotų asmens ar visuomenės sveikatos
-
-priežiūrai, farmacinei veiklai, specialistai ir kiti darbuotojai;
-
-9)
-
-asmens ir  visuomenės sveikatos informacijos duomenų bankai.
-
-LNSS
-
-išteklius reglamentuoja šis ir kiti įstatymai bei teisės aktai.
-
-Į
-
-valstybines ar savivaldybių asmens ar visuomenės sveikatos priežiūros įstaigas
-
-negali būti nukreiptas turto išieškojimas.
-
-12
-
-straipsnis. LNSS veikla ir teikiamos paslaugos bei patarnavimai
-
-LNSS
-
-veiklai ir teikiamoms paslaugoms bei patarnavimams priskiriami:
-
-1)
-
-asmens sveikatos priežiūra;
-
-2)
-
-visuomenės sveikatos priežiūra;
-
-3)
-
-farmacinė veikla;
-
-4)
-
-šio įstatymo I dalies IV skyriuje numatytos mokamos paslaugos bei patarnavimai.
-
-13
-
-straipsnis. LNSS veiklos organizavimo lygiai
-
-LNSS
-
-veiklos organizavimo lygiai yra:
-
-1)
-
-pirminis (toliau šiame įstatyme - pirminė sveikatinimo veikla);
-
-2)
-
-antrinis (toliau šiame įstatyme - antrinė sveikatinimo veikla);
-
-3)
-
-tretinis (toliau šiame įstatyme - tretinė sveikatinimo veikla).
-
-Pirminė
-
-sveikatinimo veikla apima savivaldybių teritorijos administracinius vienetus.
-
-Ją vykdo savivaldybėms pavaldūs LNSS subjektai. Šį  darbą  sutartiniais
-
-pagrindais  pagal  savo kompetenciją gali atlikti ir kiti LNSS veiklos
-
-organizavimo lygiams priklausantys LNSS vykdomieji subjektai.
-
-Antrinė
-
-sveikatinimo  veikla  apima  aukštesniuosius administracinius vienetus. Ją
-
-vykdo aukštesniųjų administracinių vienetų LNSS subjektai. Šį darbą
-
-sutartiniais pagrindais pagal savo kompetenciją  gali atlikti  ir tretinio
-
-LNSS veiklos organizavimo lygio LNSS vykdomieji subjektai.
-
-Tretinę
-
-sveikatinimo veiklą pagal savo kompetenciją vykdo universitetinės, akademinės
-
-klinikos bei kiti medicinos pagalbos centrai, teikiantys  specializuotą bei
-
-labai  specializuotą medicinos pagalbą asmenims neatsižvelgiant į jų gyvenamąją
-
-vietą. Šie LNSS vykdomieji subjektai sutartiniais pagrindais pagal savo
-
-kompetenciją gali vykdyti pirminę ir antrinę sveikatinimo veiklą.
-
-Pirminės
-
-sveikatinimo veiklos įgyvendinimo tvarką ir sąlygas nustato įstatymai ir kiti teisės
-
-aktai.
-
-Pirminės,
-
-antrinės ir tretinės sveikatinimo veiklos rūšių bei jas  įgyvendinančių LNSS
-
-vykdomųjų sveikatinimo veiklos subjektų nomenklatūrą, jų kompetenciją,
-
-antrinės  ir tretinės sveikatinimo veiklos įgyvendinimo tvarką ir sąlygas
-
-nustato įstatymai ir kiti teisės aktai.
-
-14
-
-straipsnis. LNSS vykdomųjų subjektų sveikatinimo veiklos išimtinės
-
-teisės
-
-Tik
-
-LNSS vykdomieji subjektai turi teisę atlikti ir vykdyti:
-
-1)
-
-valstybės ar  savivaldybių remiamą (nemokamą) asmens sveikatos priežiūrą;
-
-2)
-
-medicininę ir socialinę ekspertizę, teisės medicinos ekspertizę,  teisės
-
-psichiatrijos  ir  teisės  narkologijos ekspertizę bei patologoanatominę
-
-ekspertizę;
-
-3)
-
-Lietuvos  Respublikos Vyriausybės  nustatyto  sąrašo visuomenės sveikatos
-
-priežiūros priemones;
-
-4)
-
-valstybinį visuomenės sveikatos monitoringą ir valstybinę visuomenės sveikatos
-
-ekspertizę.
-
-15
-
-straipsnis. LNSS veiklos ir teikiamų paslaugų bei patarnavimų
-
-užsakovai
-
-LNSS
-
-veiklos  ir  teikiamų  paslaugų  bei  patarnavimų pagrindiniai užsakovai yra
-
-Lietuvos Respublikos Vyriausybė ir jos įstaigos, vietos savivaldybės,
-
-Valstybinė ir teritorinės ligonių kasos, kiti juridiniai ir fiziniai asmenys.
-
-LNSS
-
-veiklos ir teikiamų paslaugų bei patarnavimų užsakymų, kuriuos gali nustatyti
-
-atitinkami LNSS veiklos užsakovai, ribas reglamentuoja įstatymai, kiti teisės
-
-aktai.
-
-III SKYRIUS. SVEIKATINIMO VEIKLOS LYGIAI
-
-I SKIRSNIS. PRIVALOMASIS SVEIKATINIMO VEIKLOS LYGIS
-
-16
-
-straipsnis. Privalomojo sveikatinimo veiklos lygio rodikliai
-
-Privalomasis
-
-sveikatinimo veiklos lygis nustato valstybės ar savivaldybių remiamus
-
-sveikatinimo veiklos mastus, sveikatinimo veiklos būtinąsias sąlygas, priemonių
-
-ir institucijų, būtinų išsaugoti ar palaikyti jau pasiektą gyventojų sveikatos
-
-lygį, nomenklatūrą.
-
-Privalomąjį
-
-sveikatinimo veiklos lygį apibrėžia:
-
-1)
-
-Sveikatos ministerijos  patvirtinti ligų diagnostikos būtinųjų priemonių
-
-sąrašai;
-
-2)
-
-Sveikatos ministerijos patvirtintas būtinasis vaistų ir kitų medicininės
-
-paskirties gaminių asortimentas;
-
-3)
-
-valstybės ir savivaldybių remiamos (nemokamos) asmens sveikatos priežiūros
-
-priemonių nomenklatūra;
-
-4)
-
-valstybinių asmens ir visuomenės sveikatos priežiūros įstaigų ir tarnybų,
-
-vaistinių nomenklatūra pagal jų pobūdį;
-
-5)
-
-būtinųjų visuomenės  sveikatos  priežiūros  priemonių nomenklatūra;
-
-6)
-
-nustatytos asmens ir visuomenės sveikatos priežiūros būtinosios sąlygos;
-
-7)
-
-privalomosios valstybinės  ir savivaldybių  sveikatos programos;
-
-8)
-
-šio įstatymo nustatytas bazinis sveikatinimo veiklos, kurią vykdo Lietuvos
-
-nacionalinė sveikatos sistema, finansavimo iš valstybės, savivaldybių biudžetų
-
-bei privalomojo sveikatos draudimo lėšų, dydis.
-
-Privalomasis
-
-sveikatinimo  veiklos  lygis  nustatomas atsižvelgiant į gyventojų
-
-demografinius, sveikatos ir aplinkos kokybės rodiklius bei jų kitimo
-
-tendencijas.
-
-Privalomojo
-
-sveikatinimo  veiklos  lygį,  išskyrus  šio straipsnio antrosios dalies 1,2
-
-punktuose nurodytus bei asmens sveikatos priežiūros priimtinumo ir tinkamumo
-
-rodiklius, nustato Lietuvos  Respublikos  Vyriausybė  pagal  bendrą  Sveikatos
-
-ministerijos ir Nacionalinės sveikatos tarybos teikimą.
-
-17
-
-straipsnis. Valstybės ir savivaldybių remiamos (nemokamos) asmens
-
-sveikatos priežiūros struktūra
-
-Valstybės
-
-ir  savivaldybių  remiama  (nemokama)  asmens sveikatos priežiūra apima:
-
-1)
-
-prevencinę medicinos pagalbą;
-
-2)
-
-atstatomąją medicinos pagalbą;
-
-3)
-
-medicininę reabilitaciją;
-
-4)
-
-slaugą;
-
-5)
-
-socialines paslaugas  ir socialinę  globą  medicinos pagalboje;
-
-6)
-
-paslaugas, šio įstatymo nustatyta tvarka priskiriamas medicinos pagalbai.
-
-18
-
-straipsnis. Valstybės remiama (nemokama) asmens sveikatos priežiūra
-
-Valstybės
-
-remiamai (nemokamai) asmens sveikatos priežiūrai priskiriama:
-
-1)
-
-būtinoji medicinos  pagalba antriniame ir tretiniame sveikatinimo veiklos
-
-lygiuose;
-
-2)
-
-karių, kariūnų ir teisėtvarkos bei teisėsaugos pareigūnų, savanorių asmens
-
-sveikatos priežiūra;
-
-3)
-
-asmenų, sulaikytų policijos, esančių kardomojo kalinimo vietose, nuteistųjų
-
-asmens  sveikatos  priežiūra  (išskyrus medicininę reabilitaciją  sanatorinio
-
-bei  kurortinio  tipo įstaigose);
-
-4)
-
-asmenų, nukentėjusių dėl teisės pažeidimų, jeigu jie teisės aktų  nustatyta
-
-tvarka yra liudytojai baudžiamosiose bylose, asmens sveikatos priežiūra;
-
-5)
-
-asmens sveikatos  priežiūra pagal įstatymo nustatytą valstybės tarnautojų
-
-kategorijų sąrašą;
-
-6)
-
-asmenų, sergančių be pertraukos ilgiau kaip 4 mėnesius, asmens sveikatos
-
-priežiūra;
-
-7)
-
-dantų, galūnių,  sanarių, kitų  organų  protezavimas asmenims, sergantiems
-
-ligomis, kurių sąrašą tvirtina Lietuvos Respublikos Vyriausybė;
-
-8)
-
-asmens  sveikatos  priežiūra  asmenų,  susirgusių tuberkulioze, lytiniu keliu
-
-plintančiomis ligomis, AIDS, Lietuvos Respublikos Vyriausybės  nustatyto
-
-sąrašo  infekcinėmis  bei endokrininėmis ligomis, taip pat psichikos ligomis,
-
-onkologinėmis ligomis, priklausomybės nuo alkoholio sindromu, narkomanijomis,
-
-toksikomanijomis;
-
-9)
-
-kraujo donorystė,  hemodializė,  organų  ir  audinių transplantavimas.
-
-Valstybės
-
-remiamos  asmens sveikatos  priežiūros mastus (asmens  sveikatos  priežiūros
-
-rūšis  bei  jų  priemonių nomenklatūrą), išskyrus šio straipsnio pirmosios
-
-dalies 5 punkte nurodytą atvejį, nustato Lietuvos Respublikos Vyriausybė pagal
-
-bendrą Sveikatos ministerijos ir Nacionalinės sveikatos tarybos teikimą.
-
-19
-
-straipsnis. Savivaldybių remiama (nemokama) asmens sveikatos
-
-priežiūra
-
-Savivaldybių
-
-remiamai  (nemokamai)  asmens  sveikatos priežiūrai priskiriama:
-
-1)
-
-pirminio sveikatinimo veiklos lygio būtinoji medicinos pagalba;
-
-2)
-
-nėščiųjų asmens sveikatos priežiūra;
-
-3)
-
-motinų asmens sveikatos priežiūra iki vaikui sukaks vieneri metai;
-
-4)
-
-bedarbių nedarbingų  šeimos narių  asmens  sveikatos priežiūra;
-
-5)
-
-asmenų iki 16 metų asmens sveikatos priežiūra;
-
-6)
-
-asmenų, kurių pajamos yra mažesnės negu valstybės remiamų pajamų lygis,
-
-našlaičių iki 18 metų asmens sveikatos priežiūra;
-
-7)
-
-I grupės invalidų asmens sveikatos priežiūra;
-
-8)
-
-nustatytų kategorijų asmenų dantų protezavimas.
-
-Savivaldybės
-
-remiamos asmens sveikatos priežiūros mastus (asmens sveikatos priežiūros rūšis
-
-bei jų priemonių nomenklatūrą) nustato Lietuvos Respublikos Vyriausybė pagal
-
-bendrą Sveikatos ministerijos ir Nacionalinės sveikatos tarybos teikimą.
-
-Savivaldybės
-
-turi teisę esant galimybei pagal bendrą miesto, rajono savivaldybės gydytojo ir
-
-bendruomenės sveikatos tarybos teikimą nustatyti papildomus, palyginti su tais,
-
-kuriuos nustatė Lietuvos Respublikos Vyriausybė, savivaldybių remiamos asmens
-
-ir visuomenės sveikatos priežiūros mastus.
-
-20
-
-straipsnis. Sveikatinimo veiklos būtinosios sąlygos
-
-Sveikatinimo
-
-veiklos  Lietuvos  Respublikoje  būtinosios sąlygos yra:
-
-1)
-
-akreditavimas asmens, visuomenės sveikatos priežiūros ar farmacijos veiklai;
-
-2)
-
-asmens ir visuomenės sveikatos priežiūros prieinamumas, priimtinumas ir
-
-tinkamumas.
-
-Sveikatinimo
-
-veikla apima tik Lietuvos valstybės teritoriją, jeigu ko  kita nenustato
-
-Lietuvos Respublikos tarptautinės sutartys.
-
-Akreditavimo
-
-asmens, visuomenės sveikatos priežiūrai ar farmacijos veiklai tvarką ir sąlygas
-
-nustato šis įstatymas ir kiti teisės aktai.
-
-Asmens
-
-sveikatos priežiūros prieinamumo rodiklius nustato Lietuvos  Respublikos
-
-Vyriausybė  pagal  bendrą  Sveikatos ministerijos ir Nacionalinės sveikatos
-
-tarybos teikimą. Asmens sveikatos priežiūros priimtinumo reikalavimus nustato
-
-įstatymai ir kiti teisės aktai.
-
-Asmens
-
-sveikatos  priežiūros tinkamumo reikalavimus bei normas reglamentuoja
-
-standartizacijos norminiai  dokumentai, kuriuos rengia universitetinės,
-
-akademinės klinikos ir centrai. Visuomenės  sveikatos  priežiūros  tinkamumo
-
-reikalavimus reglamentuojančius standartizacijos norminius dokumentus pagal
-
-savo kompetenciją  rengia  Valstybinė  visuomenės  sveikatos priežiūros
-
-tarnyba  prie  Lietuvos  Respublikos  sveikatos ministerijos, sveikatinimo
-
-veiklos sąlygų kontrolės institucijos prie kitų Vyriausybės įstaigų. Šiuos
-
-norminius dokumentus pagal savo kompetenciją tvirtina Sveikatos ministerija ar
-
-Lietuvos standartizacijos tarnyba prie Ekonomikos ministerijos.
-
-Sveikatinimo
-
-veiklos būtinąsias sąlygas turi užtikrinti visi sveikatinimo veiklos subjektai.
-
-Sveikatinimo veiklos subjektai, neužtikrinantys nustatytų sveikatinimo veiklos
-
-būtinųjų sąlygų, atsako pagal įstatymus.
-
-II SKIRSNIS. SUTARTINIS SVEIKATINIMO VEIKLOS LYGIS
-
-21
-
-straipsnis. Sutartinio sveikatinimo veiklos lygio nustatymo sąlygos
-
-Sutartiniam
-
-sveikatinimo  veiklos  lygiui  priskiriama privalomajam  sveikatinimo  veiklos
-
-lygiui  nepriklausanti sveikatinimo veikla.
-
-Sutartinio
-
-sveikatinimo veiklos lygio mastai ir sąlygos yra nustatomi  šio  įstatymo
-
-numatytomis  sveikatinimo  veiklos sutartimis.  Šiose  sutartyse  šalių
-
-nustatyti  sutartinio sveikatinimo veiklos lygio mastai ir sąlygos neturi
-
-pabloginti privalomojo sveikatinimo veiklos lygio.
-
-22
-
-straipsnis. Sveikatinimo veiklos sutartis ir jos sudarymo tvarka
-
-Sveikatinimo
-
-veiklos sutartis - tai sveikatinimo veiklos subjekto ar subjektų (sveikatinimo
-
-veiklos sutarties vykdytojo ar vykdytojų), turinčių teisę verstis sveikatinimo
-
-veikla ar ją vyk- dyti, ir sveikatinimo veiklos užsakovo ar užsakovų
-
-susitarimas, kuriuo sveikatinimo veiklos subjektas (subjektai) įsipareigoja
-
-vykdyti tam tikro masto ir rūšių sveikatinimo veiklą, teikti šios srities
-
-paslaugas  ir patarnavimus,  o sveikatinimo veiklos užsakovas (užsakovai)
-
-įsipareigoja mokėti už atliktą darbą ir suteiktas paslaugas ir patarnavimus.
-
-23
-
-straipsnis. Sveikatinimo veiklos sutarčių šalys
-
-Sveikatinimo
-
-veiklos sutarčių šalimis gali būti Vyriausybės įstaigos, vietos savivaldybių
-
-valdymo organai, sveikatos draudimo įstaigos, įmonės, įstaigos, organizacijos,
-
-fiziniai ir juridiniai asmenys iš vienos pusės, juridiniai asmenys, įmonės,
-
-neturinčios juridinio asmens statuso, akredituoti sveikatinimo veiklai - iš
-
-kitos pusės.
-
-24
-
-straipsnis. Sveikatinimo veiklos sutarties sudarymas
-
-Sveikatinimo
-
-veiklos sutartis paprastai turi būti sudaroma raštu. Ji laikoma sudaryta, jei
-
-sutarties šalys susitaria dėl es- minių sveikatinimo veiklos sutarties sąlygų.
-
-25
-
-straipsnis. Sveikatinimo veiklos sutarties struktūra, turinys  ir
-
-jos galiojimas
-
-Sveikatinimo
-
-veiklos  sutarčių šalys  nustato  sutarčių struktūrą, skyrius bei priedus.
-
-Sveikatinimo
-
-veiklos  sutarties turinys  yra jos šalių sulygtos sutarties  sąlygos,
-
-apibrėžiančios šalių teises ir pareigas, jų vykdymo tvarką ir šalių atsakomybę,
-
-šio įstatymo nustatytos esminės sveikatinimo veiklos sutarčių sąlygos.
-
-Sutarties
-
-šalys  negali  nustatyti  sutartyje  tokių sveikatinimo veiklos  sąlygų, kurios
-
-pablogintų sveikatinimo veiklos sąlygas  palyginti su tomis, kurios nustatytos
-
-šio įstatymo, kitų įstatymų bei teisės aktų. Kilus ginčui dėl sveikatinimo
-
-veiklos sutarties sąlygų taikymo, jį sprendžia teismas.
-
-Sveikatinimo
-
-veiklos sutartis įsigalioja nuo jos pasirašymo. Sutarties galiojimo terminai
-
-nustatomi šalių susitarimu.
-
-26
-
-straipsnis. Esminės sveikatinimo veiklos sutarties sąlygos
-
-Kiekvienoje
-
-sveikatinimo veiklos sutartyje jos šalys privalo sulygti dėl esminių sąlygų:
-
-1)
-
-sveikatinimo veiklos  rūšių, šios  veiklos masto ir įgyvendinimo terminų;
-
-2)
-
-sveikatinimo  veiklos  įkainių  ir  šalių  sutarto sveikatinimo  veiklos
-
-masto  finansavimo  bei  paprastųjų, nepaprastųjų, papildomųjų išlaidų
-
-kompensavimo tvarkos;
-
-3)
-
-ligonių, vaistų ir vaistinių medžiagų transportavimo išlaidų kompensavimo
-
-tvarkos;
-
-4)
-
-užsiėmimo privačia  sveikatinimo veikla rezervuojamos laiko dalies;
-
-5)
-
-sveikatinimo veiklos sutarties pakeitimo, papildymo ir nutraukimo tvarkos;
-
-6)
-
-sutarčių šalių nustatytos papildomos, palyginti su šiuo įstatymu, materialinės
-
-atsakomybės už sutarčių įsipareigojimų netinkamą vykdymą ir jų vienašališką
-
-nutraukimą;
-
-7)
-
-sutarčių įsipareigojimų vykdymo ir jų kontrolės tvarkos bei terminų.
-
-Šio
-
-straipsnio pirmosios dalies 4 punktas taikomas tik privatiems sveikatinimo
-
-veiklos subjektams, sudariusiems sutartį su LNSS užsakovais dėl privalomojo
-
-sveikatinimo veiklos lygio darbų atlikimo.
+BENDROSIOS NUOSTATOS
 
 1 straipsnis.
 
-Lietuvos Respublikos sveikatos sistemos
+Sveikatos sistemos įstatymo paskirtis
 
-įstatymo paskirtis
+Sveikatos sistemos įstatymas reglamentuoja
 
-Lietuvos
+Lietuvos nacionalinę sveikatos sistemą, jos struktūrą, sveikatos saugos,
 
-Respublikos    sveikatos    sistemos    įstatymas
+sveikatos stiprinimo ir sveikatos atgavimo santykių teisinio reguliavimo ribas,
 
-reglamentuoja
+asmens ir visuomenės sveikatos priežiūros organizavimo, valstybės ir savivaldybių
 
-Lietuvos   nacionalinę  sveikatos   sistemą,   jos
+laiduojamos (nemokamos) sveikatos priežiūros užtikrinimo, valdymo, sveikatos
 
-struktūrą,
+rėmimo, sveikatinimo veiklos sutarčių sudarymo pagrindus, atsakomybės už
 
-sveikatos  saugos, sveikatos  stiprinimo ir  sveikatos
+sveikatinimo veiklos teisės normų pažeidimus pagrindus, gyventojų, sveikatinimo
 
-atgavimo  santykių
-
-teisinio  reguliavimo   ribas,  sveikatinimo
-
-veiklos  mastų
-
-nustatymo,  asmens   ir   visuomenės   sveikatos
-
-priežiūros
-
-organizavimo,  valdymo, sveikatos rėmimo, sveikatinimo
-
-veiklos sutarčių
-
-sudarymo pagrindus,  atsakomybės už sveikatinimo
-
-veiklos   teisės
-
-normų   pažeidimus    pagrindus,   gyventojų,
-
-sveikatinimo veiklos
-
-subjektų teises ir pareigas.
+veiklos subjektų teises ir pareigas.
 
 2 straipsnis.
 
-Sveikatos santykių teisinis reguliavimas
+Pagrindinės šio įstatymo sąvokos
 
-Sveikatos
+1. Sveikata - asmens ir visuomenės fizinė,
 
-santykius,  atsirandančius saugant,  stiprinant ir
+dvasinė ir socialinė gerovė.
 
-padedant  atgauti
+2. Visuomenės sveikatos sauga -
 
-asmens  ir   visuomenės  sveikatą,  taip  pat
+organizacinių, techninių, socialinių, ekonominių ir teisinių priemonių, skirtų
 
-santykius,
+apsaugoti visuomenės ar atskirų jos grupių sveikatą nuo aplinkos veiksnių
 
-susijusius   su  asmens  teisių  turėti  kuo  geresnę
+kenksmingo poveikio arba minimaliai sumažinti šio poveikio riziką, visuma.
 
-sveikatą
+3. Visuomenės sveikatos stiprinimas -
 
-įgyvendinimu,  asmens ir  visuomenės sveikatos  interesų
+valstybės institucijų, savivaldos vykdomųjų institucijų, kitų juridinių ir
 
-gynyba,  reguliuoja
+fizinių asmenų įgyvendinamos organizacinės, teisinės, socialinės ir ekonominės
 
-šis  įstatymas,  kiti  sveikatinimo  veiklos
+priemonės, kurios padeda gausinti bei racionaliau naudoti sveikatos priežiūros
 
-įstatymai,  taip
+išteklius, formuoti visuomenės sveikatos problemų sprendimo socialinės
 
-pat  šių  įstatymų  prasmei  neprieštaraujantys
+kontrolės sistemą, skatina visuomenės dalyvavimą formuojant valstybės ir
 
-valstybinės
+savivaldybių sveikatos politiką , padeda kurti sveiką aplinką, skatina žmones
 
-valdžios  ir valdymo  struktūrų bei  įstaigų,  vietos
+gyventi sveikai ir didina sveikos gyvensenos motyvacijos efektyvumą, skatina
 
-savivaldos,
+sveikatos draudimo organizacijas ir asmens sveikatos priežiūros įstaigas
 
-visuomeninių  organizacijų,  žmonių  teisių  ir  kitų
+orientuotis į ekonomiškai efektyvesnes sveikatinimo priemones, grindžiamas ligų
 
-socialinių
+profilaktika.
 
-klausimų,   aplinkos  apsaugos,   ekonomikos,  krašto
+4. Lietuvos nacionalinė sveikatos sistema -
 
-apsaugos  ir
+valstybės sveikatos reikalų, institucijų, sveikatinimo veiklos bei jos išteklių
 
-vidaus  tvarkos  įstatymai,  poįstatyminiai  teisės
+tvarkymo sistema.
 
-aktai, sutartys ar
+5. Sveikatinimo veikla - asmens sveikatos
 
-susitarimai dėl sveikatinimo veiklos bei darbo
+priežiūra, visuomenės sveikatos priežiūra, farmacinė ir kita sveikatinimo
 
-salygų.
+veikla, kurios rūšis ir reikalavimus ją vykdantiems subjektams nustato
 
-Respublikos  sveikatos  sistemos  įstatymo  3 straipsnis, 10 straipsnio antroji
+Sveikatos apsaugos ministerija.
+
+6. Asmens sveikatos priežiūra - valstybės
+
+licencijuota fizinių ir juridinių asmenų veikla, kurios tikslas laiku
+
+diagnozuoti asmens sveikatos sutrikimus ir užkirsti jiems kelią, padėti atgauti
+
+ir sustiprinti sveikatą.
+
+7. Visuomenės sveikatos priežiūra -
+
+organizacinių, teisinių, ekonominių, techninių, socialinių bei medicinos
+
+priemonių, padedančių įgyvendinti ligų ir traumų profilaktiką, išsaugoti
+
+visuomenės sveikatą bei ją stiprinti, visuma.
+
+8. Farmacinė veikla - juridinių ir fizinių
+
+asmenų veikla, kurią reglamentuoja Farmacinės veiklos įstatymas.
+
+9. Sveikatos priežiūros priimtinumas -
+
+valstybės nustatyta tvarka pripažįstamos sveikatos priežiūros sąlygos,
+
+užtikrinančios sveikatos priežiūros paslaugų ir medicinos mokslo principų bei
+
+medicinos etikos reikalavimų atitiktį.
+
+10. Sveikatos priežiūros prieinamumas -
+
+valstybės nustatyta tvarka pripažįstamos sveikatos priežiūros sąlygos,
+
+užtikrinančios asmens sveikatos priežiūros paslaugų ekonominį, komunikacinį ir
+
+organizacinį priimtinumą asmeniui ir visuomenei.
+
+11. Sveikatos priežiūros tinkamumas - tai
+
+valstybės nustatyta tvarka pripažįstamos sveikatos priežiūros sąlygos,
+
+užtikrinančios sveikatos priežiūros paslaugų bei patarnavimų kokybę ir
+
+efektyvumą.
+
+12. Valstybės laiduojama (nemokama) asmens
+
+sveikatos priežiūra - asmens sveikatos priežiūros paslaugos, apmokamos iš
+
+privalomojo sveikatos draudimo fondo, valstybės ar savivaldybių biudžetų,
+
+valstybės ar savivaldybių sveikatos fondų lėšų.
+
+13. Medicininis auditas - sveikatos
+
+priežiūros paslaugų prieinamumo, ekonominio efektyvumo ir tinkamumo ekspertizė
+
+bei kontrolė.
+
+14. Lokalus medicininis auditas - sveikatos
+
+priežiūros įstaigų organizuotas ar užsakytas medicininis auditas.
+
+15. Valstybinė visuomenės sveikatos kontrolė
+
+- valstybės įgaliotų valstybinių inspekcijų, valstybinių tarnybų, kitų
+
+institucijų ir jų pareigūnų atliekami tarnybiniai veiksmai, turint tikslą:
+
+1) kontroliuoti, kaip įmonės ir įstaigos,
+
+kiti juridiniai ir fiziniai asmenys laikosi visuomenės sveikatos saugos teisės
+
+aktų, bei taikyti įstatymų nustatytą atsakomybę už jų pažeidimus (tiesioginė
+
+valstybinė visuomenės sveikatos kontrolė);
+
+2) derybomis ar sutartimis siekti, kad įmonės
+
+ir įstaigos, kiti juridiniai asmenys prisiimtų įsipareigojimus gerinti
+
+visuomenės sveikatos saugos būklę (visuomenės sveikatos saugos rėmimas);
+
+3) pagal kompetenciją rinkti, kaupti,
+
+apdoroti ir analizuoti informaciją apie visuomenės sveikatos saugos teisės aktų
+
+pažeidimus, jų socialines, ekonomines ir kitokias priežastis, taip pat apie
+
+visus kitus veiksnius, darančius įtaką visuomenės sveikatos saugos būklei (netiesioginė
+
+visuomenės sveikatos kontrolė).
+
+16. Visuomenės sveikatos monitoringas -
+
+visuomenės sveikatos veiksnių, įvykių, veiksnių poveikio visuomenės sveikatai,
+
+visuomenės sveikatos išteklių bei visuomenės sveikatos priežiūros procesų ir
+
+rezultatų stebėjimo (duomenų registravimo, kaupimo ir apdorojimo) sistema.
+
+17. Visuomenės sveikatos ekspertizė -
+
+visuomenės sveikatos veiksnių galimo ar esamo poveikio visuomenės sveikatai
+
+nustatymo bei išvadų ir pasiūlymų, kaip užkirsti kelią šiam poveikiui ar jį
+
+riboti, rengimo procesas.
+
+3 straipsnis.
+
+Sveikatos santykių teisinio reguliavimo ribos
+
+Tik įstatymai nustato:
+
+1) sveikatos teisės veikimo sritį, uždavinius
+
+ir principus;
+
+2) sveikatinimo veiklos rūšių ir sveikatinimo
+
+veiklos subjektų sistemą, pagrindinių sveikatinimo veiklos valdymo subjektų
+
+kompetenciją, sveikatinimo veiklos koordinavimo, sveikatos priežiūros
+
+valstybinių tarnybų ir valstybinių inspekcijų, asmens ir visuomenės sveikatos
+
+priežiūros įstaigų bei farmacinės veiklos subjektų teises ir pareigas farmacinėje
+
+veikloje, jų steigimo, veiklos, jos nutraukimo teisinius pagrindus;
+
+3) Sveikatos apsaugos ministerijai pavaldžių
+
+visuomenės sveikatos kontrolės valstybinių inspekcijų steigimo, veiklos,
+
+reorganizavimo teisinius pagrindus, visuomenės sveikatos valstybinės kontrolės
+
+sąlygas ir tvarką;
+
+4) nacionalinės sveikatos sistemos išteklių
+
+struktūrą ir jų valdymo pagrindus;
+
+5) sveikatinimo veiklos organizavimo,
+
+valdymo, sveikatos rėmimo bei finansavimo pagrindus;
+
+6) sveikatinimo veiklos būtinąsias sąlygas ir
+
+jų kontrolės teisinius pagrindus;
+
+7) gyventojų teises ir pareigas sveikatinimo
+
+veikloje, visuomenės dalyvavimo tvarkant sveikatos reikalus teisinius
+
+pagrindus;
+
+8) asmenų, turinčių aukštąjį ar specialųjį
+
+vidurinį medicinos ar kitos specialybės išsilavinimą, sveikatinimo veiklos
+
+licencijavimo teisinius pagrindus, pagrindines profesines sveikatos priežiūros
+
+specialistų pareigas, teises, kvalifikacinių reikalavimų nustatymo,
+
+kvalifikacijos kėlimo bei praktikos ribojimo tvarką, sveikatos priežiūros
+
+reklamos ribojimo, civilinės atsakomybės už žalą pacientų sveikatai, padarytą
+
+atliekant asmens sveikatos priežiūrą, nustatymo teisinius pagrindus;
+
+9) sveikatinimo veiklos sutarčių sudarymo
+
+tvarką ir sąlygas;
+
+10) visuomenės sveikatos priežiūros sistemą,
+
+jos organizavimo, valdymo ir finansavimo bei visuomenės sveikatos priežiūros
+
+įgyvendinimo tvarką;
+
+11) žmonių saugos darbe, darbo medicinos,
+
+vartotojų sveikatos saugos organizavimo ir valdymo teisinius pagrindus;
+
+12) bendrus maisto produktų kokybės
+
+reikalavimus. Šių produktų gamybos, importo, prekybos, reklamos sąlygų, maisto
+
+produktų ir jų taros kokybės kontrolės, taros ženklinimo tvarką;
+
+13) bendrus geriamojo vandens kokybės
+
+reikalavimus, vandens valymo, nukenksminimo, kokybės gerinimo teisinius
+
+pagrindus;
+
+14) narkotinių ir psichotropinių medžiagų, jų
+
+pirmtakų (prekursorių), alkoholio produktų, tabako ir jo gaminių gamybos,
+
+prekybos, importo, eksporto, licencijavimo, vartojimo kontrolės tvarką,
+
+alkoholinių gėrimų, tabako vartojimo mažinimo sistemą, alkoholinių gėrimų ir
+
+tabako reklamos ribojimo ar draudimo tvarką;
+
+15) nuodų, kitų toksinių ir radioaktyviųjų
+
+medžiagų gamybos, prekybos, importo, eksporto, transportavimo, naudojimo
+
+sąlygas, darbų su jonizuojančio spinduliavimo šaltiniais reikalavimus,
+
+radiacinio saugumo užtikrinimo sąlygas ir kontrolės tvarką;
+
+16) užkrečiamųjų ligų profilaktikos sistemą,
+
+šių ligų profilaktikos ir kontrolės organizavimo ir valdymo teisinius
+
+pagrindus;
+
+17) visuomenės sveikatos monitoringo,
+
+visuomenės sveikatos ekspertizės sąlygas, jų organizavimo bei valdymo teisinius
+
+pagrindus;
+
+18) kūno kultūros ir sporto organizavimo,
+
+valdymo, dopingo ir lyties kontrolės teisinius pagrindus;
+
+19) psichikos sveikatos priežiūros sąlygas,
+
+jos organizavimo bei valdymo, šios priežiūros sąlygų kontrolės teisinius
+
+pagrindus;
+
+20) invalidų medicininės ir socialinės
+
+reabilitacijos organizavimo teisinius pagrindus;
+
+21) stomatologinės priežiūros, narkologinės
+
+priežiūros sąlygas, jų organizavimo bei valdymo teisinius pagrindus;
+
+22) biomedicininių tyrimų etikos
+
+reikalavimus, jų laikymosi kontrolės tvarką bei atsakomybę už biomedicininių
+
+tyrimų etikos reikalavimų pažeidimus;
+
+23) donoro kraujo paėmimo, kraujo produktų
+
+gamybos, žmogaus kraujo ir jo produktų transfuzijos sąlygas bei tvarką;
+
+24) organų ar audinių paėmimo
+
+transplantacijai, jų panaudojimo transplantacijai, medicinos mokslo tyrimams,
+
+diagnostikai, gydymui pagrindus, sąlygas bei tvarką;
+
+25) asmens terminalinių būklių ir mirties
+
+fakto nustatymo kriterijus, asmens atsisakymo dalies ar visų gyvybės pratęsimo
+
+paslaugų sąlygas, lavono patologoanatominio tyrimo (autopsijos) sąlygas ir
+
+tvarką;
+
+26) farmacinės veiklos organizavimo ir
+
+valdymo teisinius pagrindus;
+
+27) vaistų registravimo ir jų kokybės
+
+kontrolės tvarką;
+
+28) sveikatos draudimo sistemą, privalomojo
+
+sveikatos draudimo lėšų surinkimo tvarką, savanoriškojo sveikatos draudimo
+
+teisinius pagrindus, apdraustųjų, draudėjų ir draudikų teises ir pareigas,
+
+sveikatos draudimo įstaigų steigimo ir veiklos tvarką, šių įstaigų teises ir
+
+pareigas;
+
+29) atsakomybės už sveikatinimo veiklos
+
+įstatymų reikalavimų pažeidimus pagrindus.
 
 4 straipsnis.
 
-Sveikatinimo veikla
+Sveikatinimo veiklos tikslai
 
-Sveikatinimo
+Sveikatinimo veiklos tikslai:
 
-veiklą sudaro:
+1) mažinti atskirų visuomenės socialinių ir
 
-1) asmens
+profesinių grupių atsilikimą nuo kitų visuomenės grupių pagal sveikatos būklės
 
-sveikatos priežiūra;
+rodiklius, nepabloginant bendrojo gyventojų sveikatos lygio;
 
-2) visuomenės
+2) saugoti gyventojus nuo ligų, išvengiamos
 
-sveikatos priežiūra;
+mirties ir invalidumo;
 
-3) farmacinė
+3) ilginti gyvenimo be ligų ir traumų laiką
 
-veikla;
+bei gerinti gyvenimo kokybę;
 
-4) tradicinė
+4) didinti gyvenimo ekonominį ir socialinį
 
-medicina,  liaudies medicina bei nemedicininiai
-
-sveikatos atgavimo
-
-būdai.
+našumą.
 
 5 straipsnis.
 
-Sveikatinimo veiklos tikslai
-
-Sveikatinimo
-
-veiklos tikslai yra:
-
-1) mažinti
-
-atskirų   visuomenės  socialinių  ir  profesinių
-
-grupių atsilikimą
-
-nuo kitų  visuomenės  grupių  pagal  sveikatos
-
-būklės  rodiklius,
-
-nepabloginant  bendrojo  gyventojų  sveikatos
-
-lygio;
-
-2) saugoti
-
-gyventojus  nuo  ligų,  išvengiamos  mirties  ir
-
-invalidumo;
-
-3) ilginti
-
-gyvenimo  be ligų  ir traumų laiką bei gerinti jo
-
-kokybę;
-
-4) didinti
-
-gyvenimo ekonominį ir socialinį našumą.
-
-6 straipsnis.
-
 Sveikatinimo veiklos reguliavimo principai
 
-Šio įstatymo  1
+1. Šio įstatymo 1 ir 3 straipsniuose
 
-straipsnyje nurodytiems santykiams reguliuoti
+nurodytiems santykiams reguliuoti taikomi šie principai:
 
-taikomi šie
+1) visapusė asmens ir visuomenės sveikatos
 
-principai:
+sauga;
 
-1) visapusiška
+2) asmens, visuomenės sveikatos bei valstybės
 
-asmens ir visuomenės sveikatos sauga;
+interesų derinimas;
 
-2) asmens,
+3) asmens teisių turėti kuo geresnę sveikatą
 
-visuomenės   sveikatos  bei  valstybės  interesų
+lygybė, nesvarbu, kokios jis būtų lyties, rasės, tautybės, pilietybės,
 
-derinimas;
+socialinės padėties ir profesijos;
 
-3) asmens
+4) asmens laisvė pasirinkti kuo geresnės
 
-teisių   turėti  kuo   geresnę  sveikatą   lygybė
+sveikatos sąlygas;
 
-nesvarbu, kokios
+5) asmens sveikatos priežiūros priimtinumas,
 
-jis būtų  lyties, rasės,  tautybės, pilietybės,
+prieinamumas ir tinkamumas;
 
-socialinės padėties
+6) asmenų laisvė vienytis į visuomenines
 
-ir profesijos;
+organizacijas, ginančias asmens ir visuomenės sveikatos interesus, ir valstybės
 
-4) asmens
+parama šių organizacijų veiklos programoms;
 
-laisvė pasirinkti kuo geresnės sveikatos sąlygas;
+7) visuomenės informavimas visapusiškai
 
-5) asmens
+teisingai ir laiku apie kuo geresnės sveikatos ugdymo sąlygas bei šių sąlygų
 
-sveikatos  priežiūros priimtinumas, prieinamumas ir
+reklama;
 
-tinkamumas;
+8) visuomeninių organizacijų dalyvavimas
 
-6) asmenų
+valdant sveikatinimo veiklą ir tiesiogiai, ir per išrinktus savo atstovus;
 
-laisvė  vienytis  į  visuomenines  organizacijas,
+9) valstybės parama asmenims saugant,
 
-ginančias asmens  ir
+atgaunant ir stiprinant jų sveikatą;
 
-visuomenės  sveikatos interesus,ir valstybės
+10) valstybės laiduojamos (nemokamos)
 
-parama šių
+sveikatos priežiūros nustatymas;
 
-organizacijų veiklos programoms;
+11) visų sveikatinimo veiklos subjektų
 
-7)
+vykdoma visapusė pavojaus ir žalos asmens ir visuomenės sveikatai prevencija;
 
-visapusiškas,  teisingas   ir   nepavėluotas   visuomenės
+12) valstybės skatinamos sveikatai naudingos
 
-informavimas apie
+ūkinė veikla ir iniciatyva.
 
-kuo geresnės  sveikatos ugdymo  sąlygas ir šių
+2. Jeigu šio įstatymo 1 ir 3 straipsnyje
 
-sąlygų reklama;
+nurodyti santykiai įstatymų nėra sureguliuoti ir jiems negalima pritaikyti
 
-8)
+panašius santykius reguliuojančių teisės normų nuostatų, tai sprendžiant
 
-visuomeninių   organizacijų    dalyvavimas   sveikatinimo
+kilusius ginčus taikomi šio straipsnio 1 dalyje išvardyti principai.
 
-veiklos valdyme tiek
-
-tiesiogiai, tiek per demokratiškai išrinktus
-
-savo atstovus;
-
-9) valstybės
-
-parama   asmenims   saugant,   atgaunant   ir
-
-stiprinant jų
-
-sveikatą;
-
-10) valstybės
-
-garantuojamas   sveikatos  priežiūros  kaštų,
-
-kurie galėtų
-
-pabloginti gyvenimo  kokybę,  dalinis  ar  visiškas
-
-kompensavimas;
-
-11) visų sveikatinimo
-
-veiklos subjektų  vykdoma visapusiška
-
-pavojaus ir žalos
-
-asmens ir visuomenės sveikatai prevencija;
-
-12) valstybės
-
-vykdomas  sveikatai naudingų ūkinių pastangų ir
-
-iniciatyvos
-
-skatinimas.
-
-Jeigu šio
-
-įstatymo 1 straipsnyje nurodyti santykiai įstatymų
-
-nėra sureguliuoti
-
-ir  jiems  negalima  pritaikyti  teisės  normų,
-
-reguliuojančių
-
-panašius   santykius,  nuostatų,  tai  sprendžiant
-
-kilusius ginčus
-
-taikomi šio  straipsnio pirmoje  dalyje išvardyti
-
-principai.
-
-II SKYRIUS.
+II SKYRIUS
 
 LIETUVOS NACIONALINĖ SVEIKATOS SISTEMA
 
-7 straipsnis.
+6 straipsnis. Lietuvos
+
+nacionalinės sveikatos sistemos sudarymo
+
+pagrindai
 
 Lietuvos nacionalinės sveikatos sistemos
 
-sudarymo pagrindai
+sudarymo pagrindai yra:
 
-Lietuvos
+1) bendras sveikatos reikalų tvarkymas
 
-nacionalinės  sveikatos sistemos sudarymo pagrindai
+Lietuvos Respublikoje;
 
-yra:
-
-1) socialinio
-
-teisumo sveikatinimo veikloje užtikrinimas;
-
-2)  visų
-
-sveikatinimo  veiklos   išteklių  integravimas  į
-
-vieningą sistemą,
-
-jų planavimas  ir naudojimas  atsižvelgiant  į
-
-nacionalinius
-
-sveikatinimo veiklos prioritetus;
-
-3) asmens
-
-sveikatos  priežiūros  bei  visuomenės  sveikatos
-
-priežiūros
-
-integravimas į vieningą sistemą;
-
-4) socialinės
-
-rinkos   ekonomikos   elementų   sveikatinimo
-
-veikloje,
-
-nepažeidžiant    nacionalinių   sveikatinimo   veiklos
-
-prioritetų,
-
-diegimas;
-
-5) Lietuvos
-
-sveikatos    programos,   sveikatos   sistemos
-
-reformos programų
-
-įgyvendinimo užtikrinimas;
-
-6)
-
-sveikatinimo    veiklos     tarpžinybinio    koordinavimo
+2) socialinio teisumo sveikatinimo veikloje
 
 užtikrinimas;
 
-7) visuomenės
+3) visų sveikatinimo veiklos išteklių
 
-dalyvavimo   sveikatinimo   veiklos   valdyme
+integravimas į bendrą sistemą, jų planavimas ir naudojimas atsižvelgiant į
 
-užtikrinimas.
+nacionalinius sveikatinimo veiklos prioritetus;
 
-8 straipsnis.
+4) asmens sveikatos priežiūros bei visuomenės
 
-Lietuvos nacionalinės sveikatos sistemos
+sveikatos priežiūros integravimas į bendrą sistemą;
 
-struktūra
+5) Lietuvos sveikatos programos, valstybės ir
 
-Lietuvos
+savivaldybių sveikatos programų įgyvendinimo užtikrinimas;
 
-nacionalinę   sveikatos  sistemą   (toliau   šiame
+6) sveikatinimo veiklos tarpžinybinio
 
-įstatyme - LNSS)
+koordinavimo užtikrinimas;
 
-sudaro:
+7) visuomenės dalyvavimo formuojant sveikatos
 
-1) LNSS
+politiką užtikrinimas.
 
-vykdomieji subjektai;
+7 straipsnis. Lietuvos
 
-2) LNSS valdymo
+nacionalinės sveikatos sistemos struktūra
 
-subjektai.
+Lietuvos nacionalinę sveikatos sistemą
 
-3) LNSS
+(toliau - LNSS) sudaro:
 
-ištekliai;
+1) LNSS vykdomieji subjektai;
 
-4) LNSS veikla
+2) sveikatinimo veiklos valdymo subjektai;
 
-ir teikiamos paslaugos bei patarnavimai;
+3) LNSS ištekliai;
+
+4) LNSS veikla ir teikiamos paslaugos.
+
+8 straipsnis. LNSS
+
+vykdomieji subjektai
+
+LNSS vykdomieji subjektai - tai sveikatos
+
+priežiūros ar farmacinės veiklos licencijas turinčios:
+
+1) valstybės ir savivaldybių asmens ir
+
+visuomenės sveikatos priežiūros biudžetinės ir viešosios įstaigos;
+
+2) valstybės ir savivaldybių įmonės;
+
+3) kitos įmonės bei įstaigos, įstatymų
+
+nustatyta tvarka sudariusios sutartis su Valstybine ar teritorinėmis ligonių
+
+kasomis arba kitais LNSS veiklos užsakovais - šių sutarčių galiojimo laikotarpiu.
 
 9 straipsnis.
 
-LNSS vykdomieji subjektai
+Sveikatinimo veiklos valdymo subjektai
 
-LNSS vykdomieji
+1. Sveikatinimo veiklos valdymo subjektai
 
-subjektai yra:
+yra:
 
-1) valstybinės
+1) sveikatinimo veiklos valstybinio valdymo
 
-ir  savivaldybių asmens  ir  (ar)  visuomenės
+subjektai (Vyriausybė, ministerijos, kitos Vyriausybės įstaigos, apskričių
 
-sveikatos priežiūros
+viršininkai);
 
-įstaigos;
+2) sveikatinimo veiklos koordinavimo
 
-2) įmonės,
+institucijos;
 
-akredituotos nustatytų rūšių sveikatinimo veiklai
+3) sveikatinimo veiklos specialieji valdymo
 
-bei sudariusios  šio
+ir kontrolės subjektai;
 
-įstatymo  nustatytas   sveikatinimo  veiklos
+4) savivaldos vykdomosios institucijos.
 
-sutartis su LNSS
+2. Sveikatinimo veiklos valdymo subjektai
 
-veiklos, paslaugų ir patarnavimų užsakovais.
+pagal kompetenciją šio ir kitų įstatymų bei teisės aktų nustatyta tvarka
 
-10 straipsnis.
-
-LNSS valdymo subjektai
-
-LNSS valdymo
-
-subjektai yra:
-
-1) LNSS veiklos
-
-valstybinio valdymo subjektai;
-
-2) vietos
-
-savivaldybės ir jų institucijos;
-
-3) LNSS veiklos
-
-koordinavimo institucijos;
-
-4) LNSS
-
-specialieji valdymo subjektai;
-
-5) LNSS veiklos
-
-sąlygų kontrolės institucijos.
-
-LNSS valdymo
-
-subjektai pagal  savo kompetenciją šio ir kitų
-
-įstatymų bei teisės
-
-aktų nustatyta tvarka prižiūri ir koordinuoja
-
-kitų  sveikatinimo
-
-veiklos   subjektų,   nepriklausančių   LNSS
-
-sistemai,
+prižiūri kitų sveikatinimo veiklos vykdomųjų subjektų, nepriklausančių LNSS,
 
 sveikatinimo veiklą.
 
-dalis,  11 straipsnis,  13 straipsnio penktoji ir šeštoji dalys,  15 straipsnio
+10 straipsnis. LNSS
 
-trečioji dalis, 16 straipsnio ketvirtoji dalis, 18 straipsnio antroji dalis, 19
+ištekliai
 
-straipsnio antroji dalis, 20 straipsnio ketvirtoji, penktoji, šeštoji ir
+1. LNSS ištekliai yra:
 
-septintoji dalys, 29 straipsnio pirmosios dalies 1 punktas, antroji dalis, 30
+1) LNSS valdymui laiduoti skirti
 
-straipsnio antroji dalis, 31 straipsnio antroji dalis, 32, 33 ir 34
+materialiniai ištekliai;
 
-12 straipsnis.
+2) LNSS vykdomųjų ir valdymo subjektų turtas;
 
-LNSS veikla ir teikiamos paslaugos
+3) LNSS veiklai laiduoti skirti valstybės ir
 
-bei patarnavimai
+savivaldybių biudžeto ištekliai;
 
-LNSS veiklai
+4) privalomojo sveikatos draudimo lėšos;
 
-ir  teikiamoms  paslaugoms  bei  patarnavimams
+5) kitas turtas, įstatymų priskirtas LNSS
 
-priskiriami:
+veiklai laiduoti;
 
-1) asmens
+6) valstybės ir savivaldybių įstaigų, įmonių,
 
-sveikatos priežiūra;
+turinčių asmens ar visuomenės sveikatos priežiūros, farmacinės veiklos
 
-2) visuomenės
+licenciją, specialistai ir kiti darbuotojai;
 
-sveikatos priežiūra;
+7) asmens ir visuomenės sveikatos
 
-3) farmacinė
+informacijos duomenų bankai.
 
-veikla;
+2. LNSS išteklius reglamentuoja šis ir kiti
 
-4) šio
+įstatymai bei teisės aktai.
 
-įstatymo  I  dalies  IV  skyriuje  numatytos  mokamos
+3. Į biudžetinių sveikatos priežiūros įstaigų
 
-paslaugos bei
+turtą ir lėšas negali būti nukreiptas išieškojimas.
 
-patarnavimai.
+11 straipsnis. LNSS
+
+vykdomųjų subjektų veikla ir teikiamos paslaugos
+
+1. LNSS vykdomųjų subjektų veiklai ir
+
+teikiamoms paslaugoms priskiriama:
+
+1) asmens sveikatos priežiūra;
+
+2) visuomenės sveikatos priežiūra;
+
+3) farmacinė veikla;
+
+4) LNSS vykdomųjų subjektų teikiamos kitos
+
+(mokamos) paslaugos, nepriskiriamos sveikatos priežiūros ir farmacinėms
+
+paslaugoms, tačiau reikalingos jų teikimui užtikrinti. Paslaugų kainas nustato
+
+paslaugas teikiančių įstaigų administracija.
+
+2. LNSS vykdomieji subjektai pagal
+
+kompetenciją teikia šių rūšių sveikatos priežiūros paslaugas:
+
+1) asmens ir visuomenės sveikatos priežiūros
+
+paslaugas, už kurias jų gavėjai tiesiogiai nemoka sveikatos priežiūros
+
+įstaigoms, o jos apmokamos iš privalomojo sveikatos draudimo fondo, valstybės
+
+ar savivaldybių biudžetų ar sveikatos fondų lėšų;
+
+2) mokamas asmens ir visuomenės sveikatos
+
+priežiūros paslaugas, už kurias jų gavėjai (juridiniai ir fiziniai asmenys)
+
+privalo sumokėti. Šių paslaugų sąrašą, kainas, kainų indeksavimo ir paslaugų
+
+teikimo tvarką tvirtina Sveikatos apsaugos ministerija.
+
+12 straipsnis. LNSS
+
+veiklos organizavimo ir sveikatos priežiūros
+
+lygiai
+
+1. LNSS veiklos organizavimo lygiai yra:
+
+1) savivaldybių;
+
+2) apskričių;
+
+3) valstybės.
+
+2. Sveikatos priežiūros lygiai yra:
+
+1) pirminis (pirminė sveikatos priežiūra);
+
+2) antrinis (antrinė sveikatos priežiūra);
+
+3) tretinis (tretinė sveikatos priežiūra).
+
+3. Savivaldos vykdomosios institucijos
+
+organizuoja pirminę asmens ir visuomenės sveikatos priežiūrą. Pirminės
+
+sveikatos priežiūros organizavimo tvarką nustato Vyriausybė ar jos įgaliota
+
+institucija.
+
+4. Savivaldos vykdomosios institucijos taip
+
+pat įgyvendina įstatymo deleguotą valstybės funkciją - organizuoja antrinę
+
+asmens sveikatos priežiūrą, kurios mastą ir profilius nustato Sveikatos
+
+apsaugos ministerija.
+
+5. Apskričių viršininkai organizuoja
+
+Sveikatos apsaugos ministerijos nustatyto masto ir profilių antrinę asmens ir
+
+visuomenės sveikatos priežiūrą.
+
+6. Sveikatos apsaugos ministerija ir jai
+
+pavaldžios valstybės institucijos pagal kompetenciją organizuoja nustatyto
+
+masto asmens ir visuomenės sveikatos priežiūrą jai pavaldžiose LNSS įstaigose.
+
+Sveikatos priežiūros įstaigose, kurių steigėjos yra Krašto apsaugos ministerija
+
+arba Vidaus reikalų ministerija, nustatyto masto asmens sveikatos priežiūrą
+
+organizuoja atitinkamai Krašto apsaugos ministerija, Vidaus reikalų ministerija
+
+arba joms pavaldžios valstybės institucijos.
+
+7. Tretinio LNSS sveikatos priežiūros
+
+organizavimo lygio įstaigos pirmine ir antrine sveikatos priežiūra gali verstis
+
+tik mokslo ir mokymo tikslais.
+
+8. Sveikatos priežiūros mastą pagal LNSS
+
+veiklos organizavimo ir sveikatos priežiūros lygius nustato Sveikatos apsaugos
+
+ministerija.
+
+13
+
+straipsnis. LNSS veiklos ir LNSS vykdomųjų subjektų teikiamų paslaugų užsakovai
+
+1. LNSS veiklos ir teikiamų paslaugų
+
+užsakovai yra Vyriausybė, Sveikatos apsaugos ministerija, kitos valstybinės
+
+institucijos, apskričių viršininkai, savivaldybių tarybos, Valstybinė ir
+
+teritorinės ligonių kasos bei kitos LNSS ištekliais disponuojančios
+
+institucijos.
+
+2. LNSS vykdomųjų subjektų kitos veiklos ir
+
+teikiamų paslaugų užsakovais gali būti ir kiti juridiniai bei fiziniai asmenys
+
+arba įmonės, neturinčios juridinio asmens teisių.
+
+II DALIS
+
+SVEIKATINIMO VEIKLA
+
+I SKYRIUS
+
+BENDROSIOS NUOSTATOS
 
 13 straipsnis.
 
@@ -2062,1267 +1046,381 @@ teisės aktai.
 
 14 straipsnis.
 
-LNSS vykdomųjų subjektų sveikatinimo veiklos
+Sveikatinimo veiklos turinys
 
-išimtinės
+Sveikatinimo veiklą sudaro:
 
-teisės
+1) asmens sveikatos priežiūra;
 
-Tik LNSS
+2) visuomenės sveikatos priežiūra;
 
-vykdomieji subjektai turi teisę atlikti ir vykdyti:
+3) farmacinė veikla;
 
-1) valstybės
+4) kita sveikatinimo veikla, kurios rūšis ir
 
-ar   savivaldybių  remiamą  (nemokamą)  asmens
-
-sveikatos priežiūrą;
-
-2) medicininę
-
-ir  socialinę  ekspertizę,  teisės  medicinos
-
-ekspertizę,
-
-teisės   psichiatrijos   ir   teisės   narkologijos
-
-ekspertizę  bei
-
-patologoanatominę ekspertizę;
-
-3)  Lietuvos
-
-Respublikos  Vyriausybės   nustatyto   sąrašo
-
-visuomenės sveikatos
-
-priežiūros priemones;
-
-4) valstybinį
-
-visuomenės sveikatos monitoringą ir valstybinę
-
-visuomenės sveikatos
-
-ekspertizę.
+reikalavimus ją vykdantiems subjektams nustato Sveikatos apsaugos ministerija.
 
 15 straipsnis.
 
-LNSS veiklos ir teikiamų paslaugų bei
+Sveikatinimo veiklos būtinosios sąlygos
 
-patarnaviumų  užsakovai
+1. Sveikatinimo veiklos Lietuvos Respublikoje
 
-LNSS  veiklos
+būtinosios sąlygos yra:
 
-ir   teikiamų   paslaugų   bei   patarnavimų
+1) teisės verstis tam tikrų rūšių
 
-pagrindiniai
+sveikatinimo veikla įgijimas;
 
-užsakovai yra Lietuvos Respublikos Vyriausybė ir jos
+2) asmens ir visuomenės sveikatos priežiūros
 
-įstaigos, vietos
+prieinamumas, priimtinumas ir tinkamumas;
 
-savivaldybės, Valstybinė ir teritorinės ligonių
+3) asmens sutikimas gauti sveikatos
 
-kasos, kiti
+priežiūros paslaugas, išskyrus įstatymų numatytus atvejus, kai tokios paslaugos
 
-juridiniai ir fiziniai asmenys.
+gali būti suteiktos be jo sutikimo.
 
-LNSS veiklos
+2. Sveikatinimo veikla apima tik Lietuvos
 
-ir teikiamų paslaugų bei patarnavimų užsakymų,
+Respublikos teritoriją, jeigu ko kita nenustato Lietuvos Respublikos
 
-kuriuos gali
+tarptautinės sutartys.
 
-nustatyti atitinkami  LNSS veiklos užsakovai, ribas
+3. Sveikatinimo veiklos būtinąsias sąlygas
 
-reglamentuoja
+turi užtikrinti visi sveikatinimo veiklos subjektai.
 
-įstatymai, kiti teisės aktai.
+16 straipsnis. Teisė
 
-III
+verstis sveikatinimo veikla
 
-SKYRIUS. SVEIKATINIMO VEIKLOS LYGIAI
+1. Teisė verstis tam tikros rūšies sveikatos
 
-I SKIRSNIS.
+priežiūros praktika pripažįstama fiziniams asmenims, įstatymo nustatyta tvarka
 
-PRIVALOMASIS SVEIKATINIMO VEIKLOS LYGIS
+gavusiems licenciją ir sertifikatą. Teisė verstis tam tikros rūšies farmacine
 
-16 straipsnis.
+praktika pripažįstama fiziniams asmenims, įstatymų nustatyta tvarka gavusiems
 
-Privalomojo sveikatinimo veiklos lygio
+leidimą.
 
-rodikliai
+2. Įmonės ir įstaigos teisę verstis sveikatos
 
-Privalomasis
+priežiūros veikla įgyja tik Vyriausybės ar jos įgaliotos institucijos nustatyta
 
-sveikatinimo veiklos lygis nustato valstybės ar
+tvarka gavusios licencijas.
 
-savivaldybių
+3. Įmonės, įstaigos ir organizacijos įgyja
 
-remiamus  sveikatinimo veiklos  mastus, sveikatinimo
+teisę verstis farmacine veikla tik Vyriausybės ar jos įgaliotos institucijos
 
-veiklos būtinąsias
+nustatyta tvarka gavusios licencijas. Farmacinė veikla vykdoma pagal Farmacinės
 
-sąlygas,  priemonių  ir  institucijų,  būtinų
+veiklos įstatymą, kitus įstatymus bei teisės aktus.
 
-išsaugoti ar
+4. Įmonės ir įstaigos gali būti
 
-palaikyti jau  pasiektą gyventojų  sveikatos  lygį,
+akredituojamos sveikatos priežiūrai.
 
-nomenklatūrą.
+5. Fizinių asmenų, įmonių, įstaigų vykdoma
 
-Privalomąjį
+sveikatos priežiūros ar farmacinė veikla neturint licencijos ar leidimo yra
 
-sveikatinimo veiklos lygį apibrėžia:
+neteisėta.
 
-1) Sveikatos
+6. Teisė verstis kita sveikatinimo veikla,
 
-ministerijos   patvirtinti  ligų  diagnostikos
+kurios rūšis ir reikalavimus ja besiverčiantiems subjektams nustato Sveikatos
 
-būtinųjų priemonių
+apsaugos ministerija, pripažįstama tik toms įmonėms ir įstaigoms, kuriose dirba
 
-sąrašai;
+gydytojai ar kiti sveikatos priežiūros specialistai, šio ir kitų įstatymų
 
-2) Sveikatos
+nustatyta tvarka įgiję teisę tokiai veiklai. Fiziniai asmenys, kurie nėra
 
-ministerijos patvirtintas  būtinasis vaistų ir
+sveikatos priežiūros specialistai ar neatitinka Sveikatos apsaugos ministerijos
 
-kitų medicininės
+nustatytų reikalavimų, neturi teisės verstis sveikatinimo veikla.
 
-paskirties gaminių asortimentas;
+II SKYRIUS
 
-3) valstybės
-
-ir  savivaldybių  remiamos  (nemokamos)  asmens
-
-sveikatos priežiūros
-
-priemonių nomenklatūra;
-
-4) valstybinių
-
-asmens  ir  visuomenės  sveikatos  priežiūros
-
-įstaigų ir tarnybų,
-
-vaistinių nomenklatūra pagal jų pobūdį;
-
-5) būtinųjų
-
-visuomenės   sveikatos   priežiūros   priemonių
-
-nomenklatūra;
-
-6) nustatytos
-
-asmens  ir  visuomenės  sveikatos  priežiūros
-
-būtinosios sąlygos;
-
-7)
-
-privalomosios  valstybinės   ir  savivaldybių   sveikatos
-
-programos;
-
-8) šio
-
-įstatymo  nustatytas  bazinis  sveikatinimo  veiklos,
-
-kurią vykdo
-
-Lietuvos nacionalinė sveikatos sistema,  finansavimo
-
-iš valstybės,
-
-savivaldybių biudžetų  bei  privalomojo  sveikatos
-
-draudimo lėšų,
-
-dydis.
-
-Privalomasis
-
-sveikatinimo    veiklos   lygis    nustatomas
-
-atsižvelgiant į
-
-gyventojų demografinius,  sveikatos ir  aplinkos
-
-kokybės rodiklius
-
-bei jų kitimo tendencijas.
-
-Privalomojo
-
-sveikatinimo   veiklos   lygį,   išskyrus   šio
-
-straipsnio
-
-antrosios  dalies 1,2  punktuose nurodytus  bei asmens
-
-sveikatos
-
-priežiūros  priimtinumo ir tinkamumo rodiklius, nustato
-
-Lietuvos
-
-Respublikos    Vyriausybė   pagal   bendrą   Sveikatos
-
-ministerijos ir
-
-Nacionalinės sveikatos tarybos teikimą.
+ASMENS SVEIKATOS PRIEŽIŪRA
 
 17 straipsnis.
 
-Valstybės ir savivaldybių remiamos (nemokamos)
+Prevencinės medicinos pagalbos turinys
 
-asmens  sveikatos priežiūros struktūra
+Prevencinę medicinos pagalbą sudaro:
 
-Valstybės  ir
+1) informacinės paslaugos ligų profilaktikos
 
-savivaldybių   remiama   (nemokama)   asmens
+klausimais, kurias privalo teikti visi asmens sveikatos priežiūros
 
-sveikatos priežiūra
+specialistai;
 
-apima:
+2) atskirų asmenų grupių (atrankiniai)
 
-1) prevencinę
+sveikatos patikrinimai;
 
-medicinos pagalbą;
+3) užkrečiamųjų ligų imunoprofilaktika ir
 
-2) atstatomąją
+chemioprofilaktika;
 
-medicinos pagalbą;
-
-3) medicininę
-
-reabilitaciją;
-
-4) slaugą;
-
-5) socialines
-
-paslaugas   ir  socialinę   globą   medicinos
-
-pagalboje;
-
-6) paslaugas,
-
-šio įstatymo  nustatyta  tvarka  priskiriamas
-
-medicinos pagalbai.
+4) profilaktiniai patikrinimai.
 
 18 straipsnis.
 
-Valstybės remiama (nemokama) asmens sveikatos
+Profilaktiniai patikrinimai
 
-priežiūra
+1. Nustatytų profesijų darbuotojai bei
 
-Valstybės
+nustatytuose darbuose, gamybos šakose ir baruose dirbantys asmenys prieš
 
-remiamai  (nemokamai) asmens  sveikatos priežiūrai
+pradėdami profesinę veiklą ir jos metu privalo pasitikrinti sveikatą. Šių
 
-priskiriama:
+profesijų, darbų, gamybos šakų ir barų sąrašą, asmenų sveikatos tikrinimo
 
-1) būtinoji
+tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
-medicinos   pagalba  antriniame  ir  tretiniame
+2. Sveikatos priežiūros įstaigos privalo per
 
-sveikatinimo veiklos
+nustatytą laiką tikrinti nėščiųjų, vaikų iki 16 metų, motinų, iki vaikui sukaks
 
-lygiuose;
+vieneri metai, ir kitų asmenų, kurių sąrašą nustato Sveikatos apsaugos
 
-2) karių, kariūnų
+ministerija, sveikatą.
 
-ir teisėtvarkos bei teisėsaugos pareigūnų,
+3. Asmenų patikrinimo, izoliavimo, stebėjimo
 
-savanorių  asmens
+dėl užkrečiamųjų ligų tvarką ir sąlygas nustato Žmonių užkrečiamųjų ligų
 
-sveikatos priežiūra;
-
-3) asmenų,
-
-sulaikytų  policijos, esančių  kardomojo kalinimo
-
-vietose,
-
-nuteistųjų   asmens   sveikatos   priežiūra   (išskyrus
-
-medicininę
-
-reabilitaciją   sanatorinio   bei   kurortinio   tipo
-
-įstaigose);
-
-4) asmenų,
-
-nukentėjusių dėl  teisės  pažeidimų,  jeigu  jie
-
-teisės  aktų
-
-nustatyta  tvarka  yra  liudytojai  baudžiamosiose
-
-bylose,  asmens
-
-sveikatos priežiūra;
-
-5) asmens
-
-sveikatos   priežiūra  pagal  įstatymo  nustatytą
-
-valstybės tarnautojų
-
-kategorijų sąrašą;
-
-6) asmenų,
-
-sergančių  be pertraukos  ilgiau kaip 4 mėnesius,
-
-asmens sveikatos
-
-priežiūra;
-
-7) dantų,
-
-galūnių,   sanarių,  kitų   organų   protezavimas
-
-asmenims,
-
-sergantiems  ligomis, kurių  sąrašą  tvirtina  Lietuvos
-
-Respublikos
-
-Vyriausybė;
-
-8) asmens
-
-sveikatos    priežiūra    asmenų,    susirgusių
-
-tuberkulioze,
-
-lytiniu keliu plintančiomis ligomis, AIDS, Lietuvos
-
-Respublikos
-
-Vyriausybės   nustatyto  sąrašo   infekcinėmis   bei
-
-endokrininėmis
-
-ligomis, taip pat psichikos ligomis, onkologinėmis
-
-ligomis,
-
-priklausomybės  nuo alkoholio  sindromu, narkomanijomis,
-
-toksikomanijomis;
-
-9) kraujo
-
-donorystė,   hemodializė,   organų   ir   audinių
-
-transplantavimas.
-
-Valstybės
-
-remiamos   asmens  sveikatos   priežiūros  mastus
-
-(asmens
-
-sveikatos    priežiūros   rūšis    bei   jų   priemonių
-
-nomenklatūrą),
-
-išskyrus  šio straipsnio pirmosios dalies 5 punkte
-
-nurodytą atvejį,
-
-nustato Lietuvos  Respublikos Vyriausybė  pagal
-
-bendrą Sveikatos  ministerijos
-
-ir  Nacionalinės sveikatos tarybos
-
-teikimą.
+profilaktikos ir kontrolės įstatymas.
 
 19 straipsnis.
 
-Savivaldybių remiama (nemokama) asmens
+Būtinoji medicinos pagalba ir jos teikimo ypatumai
 
-sveikatos priežiūra
+1. Būtinajai medicinos pagalbai priskiriama:
 
-Savivaldybių
+1) pirmoji medicinos pagalba;
 
-remiamai    (nemokamai)   asmens    sveikatos
+2) institucinė (nestacionarinė ar
 
-priežiūrai
+stacionarinė) skubi medicinos pagalba.
 
-priskiriama:
+2. Būtinosios medicinos pagalbos mastą ir
 
-1) pirminio
+teikimo tvarką nustato Sveikatos apsaugos ministerija.
 
-sveikatinimo veiklos  lygio būtinoji  medicinos
+3. Gelbstint asmenų, kuriems dėl nelaimingo
 
-pagalba;
+atsitikimo, avarijų, ekologinių ir gaivalinių nelaimių arba dėl ūmaus susirgimo
 
-2) nėščiųjų
+yra būtina medicinos pagalba, gyvybę, pirmąją medicinos pagalbą privalo
 
-asmens sveikatos priežiūra;
+nedelsiant suteikti sveikatos priežiūros, farmacijos specialistai bei kiti
 
-3) motinų
+asmenys, buvę kartu su nukentėjusiaisiais ar ligoniais nelaimingų atsitikimų ar
 
-asmens  sveikatos  priežiūra  iki  vaikui  sukaks
+gyvybei pavojingo ūmaus susirgimo vietose. Sveikatos priežiūros, farmacijos
 
-vieneri metai;
+specialistų bei kitų asmenų, privalančių suteikti pirmąją medicinos pagalbą,
 
-4) bedarbių
-
-nedarbingų   šeimos  narių   asmens   sveikatos
-
-priežiūra;
-
-5) asmenų iki
-
-16 metų asmens sveikatos priežiūra;
-
-6) asmenų,
-
-kurių pajamos yra mažesnės negu valstybės remiamų
-
-pajamų lygis,
-
-našlaičių iki 18 metų asmens sveikatos priežiūra;
-
-7) I grupės
-
-invalidų asmens sveikatos priežiūra;
-
-8) nustatytų
-
-kategorijų asmenų dantų protezavimas.
-
-Savivaldybės
-
-remiamos  asmens  sveikatos  priežiūros  mastus
-
-(asmens sveikatos
-
-priežiūros rūšis bei jų priemonių nomenklatūrą)
-
-nustato Lietuvos
-
-Respublikos Vyriausybė  pagal bendrą  Sveikatos
-
-ministerijos ir
-
-Nacionalinės sveikatos tarybos teikimą.
-
-Savivaldybės
-
-turi teisę esant galimybei pagal bendrą miesto,
-
-rajono savivaldybės
-
-gydytojo ir  bendruomenės sveikatos  tarybos
-
-teikimą nustatyti
-
-papildomus, palyginti su tais, kuriuos nustatė
-
-Lietuvos
-
-Respublikos  Vyriausybė, savivaldybių remiamos asmens ir
-
-visuomenės sveikatos
-
-priežiūros mastus.
+sąrašą ir kompetenciją nustato Sveikatos apsaugos ministerija.
 
 20 straipsnis.
 
-Sveikatinimo veiklos būtinosios sąlygos
+Diagnostikos ir gydymo priemonių taikymo ypatumai
 
-Sveikatinimo
+1. Sveikatos priežiūros specialistai turi
 
-veiklos   Lietuvos   Respublikoje   būtinosios
+teisę pasirinkti Sveikatos apsaugos ministerijos nustatyta tvarka aprobuotas
 
-sąlygos yra:
+diagnostikos ir gydymo metodikas bei technologijas.
 
-1) akreditavimas
+2. Sveikatos priežiūros specialistai gali
 
-asmens,  visuomenės sveikatos priežiūros ar
+panaudoti naujus, moksliškai pagrįstus, bet dar nustatyta tvarka
 
-farmacijos veiklai;
+neįregistruotus vaistus, neaprobuotus profilaktikos, diagnostikos ir gydymo
 
-2) asmens  ir
+metodus, medicinos aparatūrą ir instrumentus tik stengdamiesi pacientą
 
-visuomenės  sveikatos priežiūros prieinamumas,
+išgydyti, išgelbėti ar pratęsti jo gyvybę. Šiuo atveju jie privalo gauti
 
-priimtinumas ir
+paciento, o jeigu jis yra nesąmoningos būsenos arba nepilnametis, - jo tėvų,
 
-tinkamumas.
+artimųjų, globėjų ar jo atstovo, taip pat sveikatos priežiūros įstaigos
 
-Sveikatinimo
+medicinos etikos komisijos sutikimą. Sutikimas turi būti patvirtintas raštu.
 
-veikla apima tik Lietuvos valstybės teritoriją,
+Kai pacientas yra nesąmoningos būsenos ir kai nėra jokių žinių apie jo
 
-jeigu  ko   kita
+artimuosius, tėvus, globėjus ar jo atstovą, šios technologijos gali būti
 
-nenustato   Lietuvos  Respublikos  tarptautinės
+taikomos tik raštiškai pritarus ne mažiau kaip dviejų atitinkamos specialybės
 
-sutartys.
+gydytojų konsiliumui bei sveikatos priežiūros įstaigos medicinos etikos
 
-Akreditavimo
+komisijai.
 
-asmens,  visuomenės  sveikatos  priežiūrai  ar
+3. Priverstinės hospitalizacijos,
 
-farmacijos veiklai
+priverstinės diagnostikos bei priverstinio gydymo priemonių taikymas galimas
 
-tvarką ir  sąlygas nustato  šis įstatymas  ir
+tik įstatymų nustatytais pagrindais ir tvarka, kai yra reali grėsmė, kad šie
 
-kiti teisės aktai.
+asmenys veiksmais ar dėl savo sveikatos būklės gali padaryti žalą savo
 
-Asmens
-
-sveikatos  priežiūros prieinamumo  rodiklius  nustato
-
-Lietuvos
-
-Respublikos    Vyriausybė   pagal   bendrą   Sveikatos
-
-ministerijos ir
-
-Nacionalinės sveikatos  tarybos teikimą.  Asmens
-
-sveikatos
-
-priežiūros  priimtinumo reikalavimus  nustato įstatymai
-
-ir kiti teisės
-
-aktai.
-
-Asmens
-
-sveikatos   priežiūros  tinkamumo  reikalavimus  bei
-
-normas
-
-reglamentuoja   standartizacijos  norminiai   dokumentai,
-
-kuriuos rengia
-
-universitetinės, akademinės  klinikos ir centrai.
-
-Visuomenės
-
-sveikatos    priežiūros    tinkamumo    reikalavimus
-
-reglamentuojančius
-
-standartizacijos  norminius  dokumentus  pagal
-
-savo  kompetenciją
-
-rengia   Valstybinė   visuomenės   sveikatos
-
-priežiūros
-
-tarnyba    prie   Lietuvos   Respublikos   sveikatos
-
-ministerijos,
-
-sveikatinimo  veiklos sąlygų kontrolės institucijos
-
-prie kitų  Vyriausybės
-
-įstaigų.  Šiuos norminius dokumentus pagal
-
-savo kompetenciją
-
-tvirtina  Sveikatos  ministerija  ar  Lietuvos
-
-standartizacijos
-
-tarnyba prie Ekonomikos ministerijos.
-
-Sveikatinimo
-
-veiklos būtinąsias sąlygas turi užtikrinti visi
-
-sveikatinimo veiklos
-
-subjektai. Sveikatinimo  veiklos subjektai,
-
-neužtikrinantys
-
-nustatytų  sveikatinimo veiklos  būtinųjų sąlygų,
-
-atsako pagal
-
-įstatymus.
-
-II SKIRSNIS.
-
-SUTARTINIS SVEIKATINIMO VEIKLOS LYGIS
+sveikatai, gyvybei arba aplinkinių asmenų sveikatai, gyvybei.
 
 21 straipsnis.
 
-Sutartinio sveikatinimo veiklos lygio
+Žmogaus kraujo ir jo produktų transfuzija
 
-nustatymo sąlygos
+Žmogaus kraujas transfuzijai ar kraujo
 
-Sutartiniam
+produktų gamybai gali būti paimtas iš donoro tik šio laisva valia ir sutikimu.
 
-sveikatinimo    veiklos   lygiui   priskiriama
+Su žmogaus kraujo paėmimu ir jo produktų gamyba, eksportu, importu bei transfuzija
 
-privalomajam
-
-sveikatinimo    veiklos   lygiui    nepriklausanti
-
-sveikatinimo veikla.
-
-Sutartinio
-
-sveikatinimo  veiklos lygio mastai ir sąlygos yra
-
-nustatomi   šio
-
-įstatymo   numatytomis   sveikatinimo   veiklos
-
-sutartimis.
-
-Šiose    sutartyse   šalių   nustatyti   sutartinio
-
-sveikatinimo
-
-veiklos  lygio mastai  ir sąlygos  neturi pabloginti
-
-privalomojo
-
-sveikatinimo veiklos lygio.
+susijusius santykius reguliuoja Kraujo donorystės įstatymas.
 
 22 straipsnis.
 
-Sveikatinimo veiklos sutartis ir jos
+Žmogaus kūno audinių ir organų panaudojimo ribojimas
 
-sudarymo  tvarka
+1. Žmogaus kūno audiniai ar organai negali
 
-Sveikatinimo
+būti komercinių sandorių objektai.
 
-veiklos  sutartis -  tai  sveikatinimo  veiklos
+2. Iš žmogaus kūno paimamų audinių ar organų
 
-subjekto ar subjektų
+panaudojimo sąlygas bei tvarką, audinių ar organų donorų teises nustato Žmogaus
 
-(sveikatinimo veiklos sutarties vykdytojo ar
-
-vykdytojų), turinčių
-
-teisę verstis sveikatinimo veikla ar ją vyk-
-
-dyti, ir
-
-sveikatinimo veiklos  užsakovo ar užsakovų susitarimas,
-
-kuriuo sveikatinimo
-
-veiklos subjektas  (subjektai)  įsipareigoja
-
-vykdyti tam tikro
-
-masto ir rūšių sveikatinimo veiklą, teikti šios
-
-srities  paslaugas
-
-ir  patarnavimus,   o  sveikatinimo  veiklos
-
-užsakovas
-
-(užsakovai)  įsipareigoja mokėti  už atliktą  darbą  ir
-
-suteiktas paslaugas
-
-ir patarnavimus.
+audinių ir organų donorystės ir transplantacijos įstatymas.
 
 23 straipsnis.
 
-Sveikatinimo veiklos sutarčių šalys
+Medicininė reabilitacija ir sanatorinis gydymas
 
-Sveikatinimo
+Pacientų atrankos ir siuntimo į medicininės
 
-veiklos  sutarčių šalimis gali būti Vyriausybės
+reabilitacijos ir sanatorinio gydymo sveikatos priežiūros įstaigas sąlygas ir
 
-įstaigos, vietos
-
-savivaldybių valdymo organai, sveikatos draudimo
-
-įstaigos, įmonės,
-
-įstaigos, organizacijos, fiziniai ir juridiniai
-
-asmenys iš  vienos
-
-pusės, juridiniai asmenys, įmonės, neturinčios
-
-juridinio asmens
-
-statuso, akredituoti  sveikatinimo veiklai - iš
-
-kitos pusės.
+tvarką nustato Sveikatos apsaugos ministerija.
 
 24 straipsnis.
 
-Sveikatinimo veiklos sutarties sudarymas
+Pacientų slauga
 
-Sveikatinimo
+1. Slaugos paslaugos pacientams teikiamos
 
-veiklos  sutartis  paprastai turi būti sudaroma
+namuose, kur jie gyvena, sveikatos priežiūros bei socialinės globos įstaigose.
 
-raštu. Ji laikoma
+2. Slaugos paslaugų pacientams teikimo tvarką
 
-sudaryta, jei sutarties šalys susitaria dėl es-
-
-minių sveikatinimo
-
-veiklos sutarties sąlygų.
+reglamentuoja įstatymai ir kiti teisės aktai.
 
 25 straipsnis.
 
-Sveikatinimo veiklos sutarties struktūra,
+Socialinės paslaugos atliekant asmens sveikatos
 
-turinys   ir   jos galiojimas
+priežiūrą
 
-Sveikatinimo
+1. Socialinių paslaugų teikimas atliekant
 
-veiklos   sutarčių  šalys   nustato   sutarčių
+asmens sveikatos priežiūrą organizuojamas norint garantuoti pacientų, vaikų ir
 
-struktūrą, skyrius
+pagyvenusių žmonių, neįgalių asmenų, kitų rizikos grupėms priklausančių asmenų
 
-bei priedus.
+socialinį saugumą, jų psichikos sveikatos priežiūrą ir psichosocialinę
 
-Sveikatinimo
+reabilitaciją. Socialines paslaugas teikia asmens sveikatos priežiūros įstaigų
 
-veiklos   sutarties  turinys   yra  jos  šalių
+socialiniai darbuotojai.
 
-sulygtos
+2. Socialinių paslaugų teikimo sveikatos
 
-sutarties   sąlygos,  apibrėžiančios  šalių  teises  ir
+priežiūros įstaigose tvarką reglamentuoja įstatymai ir kiti teisės aktai.
 
-pareigas, jų
+3. Sveikatos priežiūros įstaigų socialinių
 
-vykdymo tvarką  ir šalių  atsakomybę, šio  įstatymo
+darbuotojų veiklos sveikatos priežiūros įstaigose nuostatus tvirtina, jų
 
-nustatytos esminės
+rengimo bei kvalifikacijos kėlimo tvarką nustato Socialinės apsaugos ir darbo
 
-sveikatinimo veiklos sutarčių sąlygos.
-
-Sutarties
-
-šalys    negali   nustatyti    sutartyje   tokių
-
-sveikatinimo
-
-veiklos   sąlygų,  kurios  pablogintų  sveikatinimo
-
-veiklos  sąlygas
-
-palyginti  su  tomis,  kurios  nustatytos  šio
-
-įstatymo,  kitų
-
-įstatymų  bei  teisės  aktų.  Kilus  ginčui  dėl
-
-sveikatinimo
-
-veiklos  sutarties  sąlygų  taikymo,  jį  sprendžia
-
-teismas.
-
-Sveikatinimo
-
-veiklos  sutartis įsigalioja nuo jos pasirašymo.
-
-Sutarties galiojimo
-
-terminai nustatomi šalių susitarimu.
+ministerija kartu su Sveikatos apsaugos ministerija.
 
 26 straipsnis.
 
-Esminės sveikatinimo veiklos sutarties
+Laikinojo nedarbingumo ekspertizė
 
-sąlygos
+1. Laikinojo asmens nedarbingumo ekspertizę
 
-Kiekvienoje
+atlieka sveikatos priežiūros įstaigos gydytojai arba gydytojų konsultacinė
 
-sveikatinimo  veiklos sutartyje jos šalys privalo
+komisija. Šios ekspertizės organizavimo ir atlikimo tvarką nustato Sveikatos
 
-sulygti dėl esminių
+apsaugos ministerija bei Socialinės apsaugos ir darbo ministerija.
 
-sąlygų:
+2. Karių laikinojo nedarbingumo ekspertizės
 
-1)
+atlikimo tvarką nustato Krašto apsaugos ministerija, suderinusi su Sveikatos
 
-sveikatinimo  veiklos   rūšių,  šios   veiklos  masto  ir
+apsaugos ministerija.
 
-įgyvendinimo
+27 straipsnis.
 
-terminų;
+Medicininė socialinė ir specializuotoji medicininė
 
-2)
+ekspertizė
 
-sveikatinimo   veiklos    įkainių   ir    šalių   sutarto
+1. Ilgalaikio ir pastovaus darbingumo
 
-sveikatinimo
+netekimo atvejais medicininė socialinė ekspertizė atliekama Sveikatos apsaugos
 
-veiklos    masto   finansavimo   bei   paprastųjų,
+ministerijos ir Socialinės apsaugos ir darbo ministerijos nustatyta tvarka.
 
-nepaprastųjų,
+2. Specializuotosios medicininės ekspertizės
 
-papildomųjų išlaidų kompensavimo tvarkos;
+organizavimo ir atlikimo tvarką pagal kompetenciją nustato Sveikatos apsaugos
 
-3) ligonių,
+ministerija arba Vidaus reikalų ministerija, arba Krašto apsaugos ministerija,
 
-vaistų  ir  vaistinių  medžiagų  transportavimo
+suderinusios su Sveikatos apsaugos ministerija.
 
-išlaidų kompensavimo
+28 straipsnis. Teismo
 
-tvarkos;
+medicinos ekspertizė
 
-4) užsiėmimo
+Teismo medicinos ekspertizė atliekama pagal
 
-privačia   sveikatinimo  veikla  rezervuojamos
+kvotos, tardymo organų ar prokuroro nutarimą, taip pat pagal teismo nutartį.
 
-laiko dalies;
+Šios ekspertizės vykdomuosius subjektus, jos organizavimo ir atlikimo tvarką
 
-5) sveikatinimo
-
-veiklos  sutarties pakeitimo,  papildymo  ir
-
-nutraukimo tvarkos;
-
-6) sutarčių
-
-šalių  nustatytos papildomos,  palyginti su šiuo
-
-įstatymu,
-
-materialinės  atsakomybės  už  sutarčių  įsipareigojimų
-
-netinkamą vykdymą ir
-
-jų vienašališką nutraukimą;
-
-7) sutarčių
-
-įsipareigojimų  vykdymo ir  jų kontrolės tvarkos
-
-bei terminų.
-
-Šio straipsnio
-
-pirmosios  dalies  4  punktas  taikomas  tik
-
-privatiems
-
-sveikatinimo  veiklos subjektams, sudariusiems sutartį
-
-su LNSS  užsakovais
-
-dėl  privalomojo sveikatinimo  veiklos  lygio
-
-darbų atlikimo.
-
-27 straipsnis. Sveikatinimo veiklos sutarčių vykdymo kontrolė
-
-Sveikatinimo
-
-veiklos sutarties įsipareigojimų kontrolę vykdo sutartį sudariusios šalys.
-
-Sveikatinimo
-
-veiklos sutarties šalių atstovų atsiskaitymo už sutarties įsipareigojimų
-
-vykdymą tvarka ir terminai nustatomi sutartyje.
-
-28
-
-straipsnis. Atsakomybė už sveikatinimo veiklos  sutarčių
-
-nevykdymą ar jos vienašališką nutraukimą
-
-Už
-
-sveikatinimo veiklos sutarčių vykdymą atsakingos abi jas sudariusios šalys.
-
-Sveikatinimo
-
-veiklos  sutarties vienašališko  nutraukimo pagrindus nustato Lietuvos
-
-Respublikos civilinis kodeksas.
-
-Jei
-
-sveikatinimo  veiklos   sutarties  įsipareigojimai neįvykdomi ar ji
-
-vienašališkai nutraukiama dėl sveikatinimo veiklos subjekto  (sveikatinimo
-
-veiklos sutarties vykdytojo) kaltės, sveikatinimo  veiklos  užsakovo  patirti
-
-nuostoliai kompensuojami iš sveikatinimo veiklos subjekto (sveikatinimo veiklos
-
-sutarties vykdytojo) lėšų.  Jeigu sveikatinimo veiklos sutarties
-
-įsipareigojimai  neįvykdomi  ar  ji  vienašališkai nutraukiama  dėl
-
-sveikatinimo  veiklos  užsakovo  kaltės, sveikatinimo veiklos  subjekto
-
-(sveikatinimo veiklos sutarties vykdytojo) patirti  nuostoliai kompensuojami iš
-
-sveikatinimo veiklos užsakovo lėšų.
-
-IV SKYRIUS. VALSTYBINIŲ IR SAVIVALDYBIŲ ASMENS IR VISUOMENĖS
-
-SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ,  FARMACINĖS VEIKLOS
-
-SUBJEKTŲ
-
-TEIKIAMOS MOKAMOS PASLAUGOS IR PATARNAVIMAI
-
-SVEIKATINIMO VEIKLOJE
+nustato Vyriausybė ar jos įgaliota institucija.
 
 29
 
-straipsnis. Mokamos asmens sveikatos priežiūros paslaugos
+straipsnis. Teismo psichiatrinė, teismo narkologinė ir teismo psichologinė
 
-ir patarnavimai
+ekspertizės
 
-Mokamos
+Teismo psichiatrinė, teismo narkologinė ir
 
-asmens  sveikatos  priežiūros  paslaugos  ir patarnavimai yra:
+teismo psichologinė ekspertizės atliekamos pagal kvotos, tardymo organų ar
 
-1)
+prokuroro nutarimą, taip pat pagal teismo nutartį. Ekspertizes atlieka
 
-asmens sveikatos  priežiūros priemonės,  įtrauktos  į Sveikatos ministerijos ir
+Valstybinė teismo psichiatrijos ir narkologijos tarnyba prie Sveikatos apsaugos
 
-Nacionalinės sveikatos tarybos sudarytą ir Lietuvos Respublikos Vyriausybės
+ministerijos ir jai pavaldžios sveikatos priežiūros įstaigos. Šių ekspertizių
 
-patvirtintą sąrašą;
-
-2)
-
-Sveikatos  ministerijos  nustatyto  sąrašo  paslaugos (patalynė, ligoninės
-
-rūbai, telefonas, televizorius  ir kt.), teikiamos stacionarinėse asmens
-
-sveikatos priežiūros įstaigose;
-
-3)
-
-asmenų siuntimas  nustatyta tvarka į užsienio šalių sveikatos priežiūros
-
-įstaigas;
-
-4)
-
-analogiškų  pagal savo  veikimo efektyvumą,  tačiau brangesnių vaistų teikimas
-
-stacionarinėse medicinos pagalbos įstaigose;
-
-5)
-
-Sveikatos  ministerijos nustatyto  sąrašo  paslaugos, teikiamos asmens
-
-sveikatos priežiūros įstaigose ligoniui mirus.
-
-Mokamų
-
-asmens sveikatos priežiūros paslaugų ir patarnavimų teikimo tvarką, tarifus,
-
-mokėjimo ir jo lengvatų taikymo tvarką nustato Lietuvos  Respublikos
-
-Vyriausybė, vadovaudamasi šiuo įstatymu, Valstybinio socialinio draudimo
-
-įstatymu ir kitais įstatymais.
-
-30
-
-straipsnis. Mokamos farmacinės veiklos paslaugos ir patarnavimai
-
-Mokamos
-
-farmacinės veiklos paslaugos ir patarnavimai yra:
-
-1)
-
-vaistų registravimas;
-
-2)
-
-vaistų kokybės  tyrimas juridinių ir fizinių asmenų užsakymu;
-
-3)
-
-vaistų,  išskyrus  nustatyto  sąrašo  narkotinio  ir psichotropinio  veikimo
-
-vaistus,  realizavimas  vaistinėse gyventojams be recepto;
-
-4)
-
-užsakymų  ekstemporalių, išskyrus  nustatyto  sąrašo narkotinio ir
-
-psichotropinio veikimo vaistus, vaistų gamybai priėmimas telefonu iš medicinos
-
-pagalbos įstaigų ir fizinių asmenų, akredituotų asmens sveikatos priežiūrai;
-
-5)
-
-vaistų pristatymas jų užsakovui;
-
-6)
-
-kiti patarnavimai.
-
-Mokamų
-
-farmacinės veiklos paslaugų ir patarnavimų teikimo tvarką, tarifus, mokėjimo ir
-
-jo lengvatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė,
-
-vadovaudamasi šiuo įstatymu ir kitais teisės aktais.
-
-31
-
-straipsnis. Mokamos visuomenės sveikatos priežiūros
-
-paslaugos ir patarnavimai
-
-Mokamos
-
-visuomenės  sveikatos priežiūros  paslaugos  ir patarnavimai yra:
-
-1)
-
-Lietuvos Respublikos sveikatos ministerijos nustatytų profesijų, darbų ir
-
-gamybų šakų ar barų darbuotojų sveikatos mokymas;
-
-2)
-
-visuomenės sveikatos monitoringas, visuomenės sveikatos ekspertizė, atliekami
-
-suinteresuotų juridinių ir fizinių asmenų užsakymu;
-
-3)
-
-suaugusiųjų  profilaktiniai   skiepijimai,  išskyrus skiepijimus, atliekamus
-
-pavojingų infekcijų židiniuose bei gydymo tikslams;
-
-4)
-
-patalpų  ir  teritorijų  dezinfekcija,  dezinsekcija, deratizacija, išskyrus
-
-darbus, atliekamus ypatingai pavojingų ir pavojingų infekcijų židiniuose;
-
-5)
-
-standartizacijos norminių dokumentų ir kitų spaudinių visuomenės   sveikatos
-
-priežiūros  klausimais leidyba ir platinimas;
-
-6)
-
-sveikatos programų kūrimas suinteresuotų juridinių ir fizinių asmenų užsakymu;
-
-7)
-
-kitos  visuomenės sveikatos priežiūros paslaugos ir patarnavimai.
-
-Mokamų
-
-visuomenės  sveikatos  priežiūros  paslaugų  ir patarnavimų teikimo tvarką,
-
-tarifus, mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė, vadovaudamasi
-
-šiuo įstatymu ir kitais teisės aktais.
-
-II DALIS
-
-SVEIKATINIMO VEIKLA
-
-I SKYRIUS. UŽSIĖMIMAS SVEIKATINIMO VEIKLA
-
-32
-
-straipsnis. Teisė užsiimti sveikatinimo veikla Lietuvos
-
-Respublikoje
-
-Asmens
-
-ar visuomenės sveikatos priežiūra užsiimti arba jos priemones skirti turi teisę
-
-asmenys, įgiję išsilavinimą ir specialų pasiruošimą šiuos specialistus
-
-rengiančiose įstaigose, kurioms Lietuvos Respublikos Vyriausybė yra pripažinusi
-
-teisę išduoti dokumentus, patvirtinančius atitinkamą asmens sveikatos ar
-
-visuomenės sveikatos priežiūros specialisto kvalifikaciją, šio įstatymo ir kitų
-
-teisės aktų nustatyta tvarka akredituoti asmens ar visuomenės sveikatos
-
-priežiūrai ir turintys licenciją užsiimti šių rūšių veikla Lietuvos
-
-Respublikoje.
-
-Asmenų
-
-akreditavimo kitų rūšių sveikatinimo veiklai sąlygas ir tvarką nustato šis ir
-
-kiti įstatymai.
-
-Asmens
-
-ar  visuomenės  sveikatos  priežiūros  paslaugos Sveikatos ministerijos
-
-nustatyta tvarka gali būti teikiamos ir užsienio šalių  asmens ar  visuomenės
-
-sveikatos  priežiūros specialistų tik labdaros ar specialistų mokymo tikslams,
-
-jeigu ko kita nenustato Lietuvos Respublikos tarptautinės sutartys.
-
-Valstybinių
-
-ar savivaldybių asmens ar visuomenės sveikatos priežiūros įstaigų specialistai,
-
-gavę nustatyta tvarka licenciją privačiai praktikai, turi teisę praktikuoti
-
-privačiai tik už šių įstaigų ribų.
-
-Asmenų,
-
-įgijusių asmens ar visuomenės sveikatos priežiūros išsilavinimą,  tačiau
-
-neturinčių  specialaus  pasiruošimo, kvalifikaciją bei  jos pripažinimo tvarką
-
-nustato Sveikatos ministerija.
-
-Teisė
-
-užsiimti sveikatinimo veikla gali būti atimta tik įstatymų nustatytais
-
-pagrindais ir tvarka.
-
-33
-
-straipsnis. Asmens ir visuomenės sveikatos priežiūros specialistų
-
-profesinės pareigos, teisės, jų profesinis tobulinimasis ir atsakomybė
-
-Pagrindines
-
-profesines  asmens ir  visuomenės sveikatos priežiūros specialistų pareigas,
-
-teises, Hipokrato priesaikos turinį ir jos priėmimo sąlygas bei tvarką, jų
-
-praktikos ribojimo tvarką,   atsakomybę už  žalą sveikatai, padarytą vykdant
-
-sveikatos priežiūrą, nustato įstatymai ir kiti teisės aktai.
-
-34
-
-straipsnis. Sveikatos priežiūros specialistų pareiga saugoti
-
-asmens sveikatos (medicininę) paslaptį
-
-Asmens
-
-ar visuomenės sveikatos priežiūros specialistams draudžiama pažeisti asmens
-
-sveikatos informacijos, kurią jie sužinojo eidami profesines pareigas,
-
-konfidencialumą. Medicinos etikos   reikalavimus   asmens   sveikatos
-
-informacijos konfidencialumui saugoti nustato Sveikatos ministerija.
-
-28 straipsnis.
-
-Atsakomybė už sveikatinimo veiklos   sutarčių
-
-nevykdymą ar jos vienašališką nutraukimą
-
-Už
-
-sveikatinimo  veiklos  sutarčių vykdymą atsakingos abi jas
-
-sudariusios šalys.
-
-Sveikatinimo
-
-veiklos   sutarties  vienašališko   nutraukimo
-
-pagrindus nustato
-
-Lietuvos Respublikos civilinis kodeksas.
-
-Jei  sveikatinimo
-
-veiklos      sutarties   įsipareigojimai
-
-neįvykdomi  ar  ji
-
-vienašališkai  nutraukiama  dėl  sveikatinimo
-
-veiklos  subjekto
-
-(sveikatinimo  veiklos  sutarties  vykdytojo)
-
-kaltės,
-
-sveikatinimo   veiklos   užsakovo   patirti   nuostoliai
-
-kompensuojami  iš
-
-sveikatinimo  veiklos  subjekto  (sveikatinimo
-
-veiklos sutarties
-
-vykdytojo) lėšų.   Jeigu  sveikatinimo veiklos
-
-sutarties
-
-įsipareigojimai   neįvykdomi   ar   ji   vienašališkai
-
-nutraukiama   dėl
-
-sveikatinimo   veiklos    užsakovo   kaltės,
-
-sveikatinimo
-
-veiklos   subjekto  (sveikatinimo veiklos  sutarties
-
-vykdytojo)
-
-patirti   nuostoliai  kompensuojami  iš  sveikatinimo
-
-veiklos užsakovo
-
-lėšų.
-
-IV SKYRIUS.
-
-VALSTYBINIŲ IR SAVIVALDYBIŲ ASMENS
-
-IR
-
-VISUOMENĖS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ,
-
-FARMACINĖS
-
-VEIKLOS SUBJEKTŲ TEIKIAMOS MOKAMOS PASLAUGOS IR
-
-PATARNAVIMAI SVEIKATINIMO VEIKLOJE
+organizavimo ir atlikimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 29 straipsnis.
 
@@ -3406,2217 +1504,393 @@ Valstybinio  socialinio  draudimo  įstatymu  ir  kitais
 
 30 straipsnis.
 
-Mokamos farmacinės veiklos paslaugos ir
+Patologoanatominė ekspertizė
 
-patarnavimai
+Patologoanatominė ekspertizė atliekama asmeniui
 
-Mokamos
+mirus. Lavono patologoanatominio tyrimo (autopsijos) sąlygas ir tvarką
 
-farmacinės veiklos paslaugos ir patarnavimai yra:
+reglamentuoja Sveikatos priežiūros įstaigų įstatymas ir kiti teisės aktai.
 
-1) vaistų
+III SKYRIUS
 
-registravimas;
-
-2) vaistų
-
-kokybės   tyrimas  juridinių  ir  fizinių  asmenų
-
-užsakymu;
-
-3) vaistų,
-
-išskyrus   nustatyto   sąrašo   narkotinio   ir
-
-psichotropinio
-
-veikimo    vaistus,   realizavimas    vaistinėse
-
-gyventojams be
-
-recepto;
-
-4)  užsakymų   ekstemporalių,
-
-išskyrus   nustatyto   sąrašo
-
-narkotinio ir
-
-psichotropinio  veikimo  vaistus,  vaistų  gamybai
-
-priėmimas telefonu
-
-iš  medicinos  pagalbos  įstaigų  ir  fizinių
-
-asmenų, akredituotų
-
-asmens sveikatos priežiūrai;
-
-5) vaistų
-
-pristatymas  jų užsakovui;
-
-6) kiti
-
-patarnavimai.
-
-Mokamų
-
-farmacinės  veiklos paslaugų  ir patarnavimų  teikimo
-
-tvarką, tarifus,
-
-mokėjimo ir  jo lengvatų taikymo tvarką nustato
-
-Lietuvos
-
-Respublikos  Vyriausybė, vadovaudamasi  šiuo įstatymu ir
-
-kitais teisės aktais.
+VISUOMENĖS SVEIKATOS PRIEŽIŪRA
 
 31 straipsnis.
 
-Mokamos visuomenės sveikatos priežiūros
+Visuomenės sveikatos priežiūros visuotinumas
 
-paslaugos ir patarnavimai
+Vykdyti visuomenės sveikatos priežiūrą, kuria
 
-Mokamos
+siekiama ugdyti sveikatą, užkirsti kelią vartojimui skirtų produktų, maisto,
 
-visuomenės   sveikatos  priežiūros   paslaugos   ir
+geriamojo vandens, gyvenamosios, darbo ir gamtinės aplinkos kokybės blogėjimui,
 
-patarnavimai yra:
+užkirsti kelią ligoms ir traumoms, sumažinti sergamumą, yra visų juridinių ir
 
-1) Lietuvos
-
-Respublikos  sveikatos  ministerijos  nustatytų
-
-profesijų, darbų  ir
-
-gamybų  šakų ar  barų  darbuotojų  sveikatos
-
-mokymas;
-
-2) visuomenės
-
-sveikatos  monitoringas, visuomenės  sveikatos
-
-ekspertizė,
-
-atliekami  suinteresuotų juridinių  ir fizinių asmenų
-
-užsakymu;
-
-3)
-
-suaugusiųjų    profilaktiniai     skiepijimai,    išskyrus
-
-skiepijimus,
-
-atliekamus  pavojingų infekcijų židiniuose bei gydymo
-
-tikslams;
-
-4) patalpų
-
-ir   teritorijų   dezinfekcija,   dezinsekcija,
-
-deratizacija,
-
-išskyrus  darbus, atliekamus ypatingai pavojingų ir
-
-pavojingų infekcijų
-
-židiniuose;
-
-5)
-
-standartizacijos norminių  dokumentų  ir  kitų  spaudinių
-
-visuomenės
-
-sveikatos    priežiūros    klausimais  leidyba  ir
-
-platinimas;
-
-6) sveikatos
-
-programų  kūrimas  suinteresuotų  juridinių  ir
-
-fizinių asmenų
-
-užsakymu;
-
-7)  kitos
-
-visuomenės  sveikatos  priežiūros  paslaugos  ir
-
-patarnavimai.
-
-Mokamų
-
-visuomenės   sveikatos   priežiūros   paslaugų   ir
-
-patarnavimų teikimo
-
-tvarką,  tarifus,  mokėjimo  tvarką  nustato
-
-Lietuvos
-
-Respublikos  Vyriausybė, vadovaudamasi  šiuo įstatymu ir
-
-kitais teisės
-
-aktais.
-
-II DALIS
-
-SVEIKATINIMO VEIKLA
-
-I
-
-SKYRIUS. UŽSIĖMIMAS SVEIKATINIMO VEIKLA
+fizinių asmenų pareiga.
 
 32 straipsnis.
 
-Teisė užsiimti sveikatinimo veikla Lietuvos
+Visuomenės sveikatos ugdymas ir stiprinimas
 
-Respublikoje
+1. Visuomenės sveikatos ugdymo sąlygas ir
 
-Asmens ar
+tvarką nustato šis ir kiti įstatymai. Visuomenės sveikatos ugdymą sudaro:
 
-visuomenės sveikatos  priežiūra užsiimti arba jos
+1) sveikatos propaganda visuomenės
 
-priemones  skirti
+informavimo priemonėse;
 
-turi  teisę  asmenys,  įgiję  išsilavinimą  ir
+2) sveikatos žinių populiarinimas;
 
-specialų
+3) sveikatos mokymas;
 
-pasiruošimą  šiuos specialistus  rengiančiose įstaigose,
+4) šeimos planavimo konsultavimas.
 
-kurioms Lietuvos
+2. Sveikatos propagandą, remiančią sveikatos
 
-Respublikos Vyriausybė  yra  pripažinusi  teisę
+politikos iniciatyvas, per Lietuvos nacionalinį radiją ir televiziją bei kitas
 
-išduoti dokumentus,
+visuomenės informavimo priemones iš valstybės ar savivaldybių biudžetų lėšų
 
-patvirtinančius atitinkamą  asmens sveikatos
+pagal kompetenciją organizuoja Sveikatos apsaugos ministerija, Vyriausybės
 
-ar visuomenės
+kitos įstaigos, apskričių viršininkai, savivaldos vykdomosios institucijos.
 
-sveikatos priežiūros specialisto kvalifikaciją, šio
+3. Sveikatos mokymą sudaro savanoriško,
 
-įstatymo ir  kitų
+privalomojo sveikatos mokymo ir kūno kultūros priemonių visuma.
 
-teisės aktų nustatyta tvarka akredituoti asmens
-
-ar visuomenės
-
-sveikatos priežiūrai ir turintys licenciją užsiimti
-
-šių rūšių veikla
-
-Lietuvos Respublikoje.
-
-Asmenų
-
-akreditavimo  kitų rūšių sveikatinimo veiklai sąlygas
-
-ir tvarką nustato
-
-šis ir kiti įstatymai.
-
-Asmens  ar
-
-visuomenės   sveikatos   priežiūros   paslaugos
-
-Sveikatos
-
-ministerijos  nustatyta tvarka  gali būti  teikiamos ir
-
-užsienio  šalių
-
-asmens  ar   visuomenės  sveikatos   priežiūros
-
-specialistų tik
-
-labdaros ar specialistų mokymo tikslams, jeigu ko
-
-kita nenustato
-
-Lietuvos Respublikos tarptautinės sutartys.
-
-Valstybinių ar
-
-savivaldybių asmens  ar visuomenės sveikatos
-
-priežiūros įstaigų
-
-specialistai, gavę nustatyta tvarka licenciją
-
-privačiai
-
-praktikai,  turi teisę praktikuoti privačiai tik už šių
-
-įstaigų ribų.
-
-Asmenų,
-
-įgijusių  asmens ar  visuomenės sveikatos priežiūros
-
-išsilavinimą,
-
-tačiau    neturinčių   specialaus    pasiruošimo,
-
-kvalifikaciją  bei
-
-jos  pripažinimo  tvarką  nustato  Sveikatos
-
-ministerija.
-
-Teisė užsiimti
-
-sveikatinimo veikla  gali  būti  atimta  tik
-
-įstatymų nustatytais
-
-pagrindais ir tvarka.
-
-33 straipsnis.
-
-Asmens ir visuomenės sveikatos priežiūros
-
-specialistų profesinės pareigos, teisės, jų
-
-profesinis     tobulinimasis  ir atsakomybė
-
-Pagrindines
-
-profesines   asmens  ir   visuomenės  sveikatos
-
-priežiūros
-
-specialistų  pareigas,  teises,  Hipokrato  priesaikos
-
-turinį ir  jos
-
-priėmimo sąlygas bei tvarką, jų praktikos ribojimo
-
-tvarką,
-
-atsakomybę  už    žalą  sveikatai,  padarytą  vykdant
-
-sveikatos priežiūrą,
+4. Visuomenės sveikatos stiprinimo turinį
 
 nustato įstatymai ir kiti teisės aktai.
 
-34 straipsnis.
+33 straipsnis.
 
-Sveikatos priežiūros specialistų pareiga
+Visuomenės sveikatos sauga
 
-saugoti   asmens sveikatos (medicininę)
+1. Visuomenės sveikatos saugos pagrindą
 
-paslaptį
+sudaro pavojaus ir žalos sveikatai ribojimo priemonių sistema darbo,
 
-Asmens  ar
+gyvenamojoje bei gamtinėje aplinkoje.
 
-visuomenės  sveikatos  priežiūros  specialistams
+2. Pavojaus ir žalos sveikatai prevencija ir
 
-draudžiama pažeisti
+ribojimas įgyvendinamas įstatymų ir kitų teisės aktų nustatyta tvarka:
 
-asmens  sveikatos  informacijos,  kurią  jie
+1) reglamentuojami darbo, gyvenamosios bei
 
-sužinojo eidami
+gamtinės aplinkos, maisto, geriamojo vandens, žaliavų, technikos bei įrangos ir
 
-profesines pareigas,  konfidencialumą. Medicinos
+kitų prekių, ūkinės ar kitokios veiklos nepavojingumo ir nekenksmingumo
 
-etikos
+sveikatai rodikliai ir higienos reikalavimai;
 
-reikalavimus     asmens     sveikatos     informacijos
+2) licencijuojama ūkinė komercinė veikla;
 
-konfidencialumui
+3) licencijuojama juridinių ir fizinių
 
-saugoti nustato Sveikatos ministerija.
+asmenų, įmonių, neturinčių juridinio asmens teisių, asmens ar visuomenės
 
-35 straipsnis. Asmens ir visuomenės sveikatos priežiūros specialistų
+sveikatos priežiūros veikla;
 
-pareiga informuoti apie užkrečiamųjų ligų atvejus
+4) nustatomos sanitarinės apsaugos zonos;
 
-Asmens
+5) nustatomos sveikatai kenksmingų prekių
 
-ir visuomenės sveikatos priežiūros specialistai, įtarę ar nustatę asmenis
+gamybos kvotos;
 
-sergant Sveikatos ministerijos nustatyto sąrašo infekcinėmis ligomis ar esant
+6) atliekama visuomenės sveikatos saugos
 
-šių ligų sukėlėjų nešiotojais, privalo nustatyta tvarka informuoti apie tai Valstybinę
+ekspertizė;
 
-visuomenės sveikatos priežiūros tarnybą. Informacijos apie infekcines ligas
+7) sustabdoma sveikatai kenksminga ar
 
-teikimo tvarką nustato Sveikatos ministerija.
+pavojinga ūkinė komercinė ar kitokia veikla;
 
-Jeigu
+8) taikomi individualūs akcizai sveikatai
 
-asmens ir visuomenės sveikatos priežiūros įstaigų specialistai, išaiškinę  ar
+žalingoms prekėms, įrašytoms į Akcizų įstatymą, ir kitos įstatymų nustatytos
 
-įtarę asmenis sergant Sveikatos ministerijos nustatyto sąrašo infekcinėmis
+ekonominio reguliavimo priemonės;
 
-ligomis ar esant šių ligų nešiotojais,  nustatytu laiku  ir tvarka
+9) taikoma įstatymų nustatyta atsakomybė už
 
-neinformuoja Valstybinės visuomenės sveikatos priežiūros tarnybos apie šiuos
+sveikatinimo veiklos teisės aktų pažeidimus.
 
-asmenis, tai jiems taikoma įstatymų nustatyta atsakomybė.
+3. Žaliavos, technika, įranga, statybinės
 
-II SKYRIUS. ASMENS SVEIKATOS PRIEŽIŪRA
+medžiagos, gyvenamųjų patalpų interjero elementai, maistas, jo pakuotė, tara
 
-I SKIRSNIS. PREVENCINĖ MEDICINOS PAGALBA
+bei kitos prekės, geriamasis vanduo neturi sukelti jokios rizikos sveikatai
 
-36
+arba gali kelti jai tik minimalią riziką. Darbo, gyvenamosios bei gamtinės
 
-straipsnis. Informacinės paslaugos ligų profilaktikos klausimais
+aplinkos, ūkinės ar kitokios veiklos, vartojimui skirtų produktų nekenksmingumo
 
-Informacines paslaugas ligų profilaktikos klausimais privalo teikti visi asmens
+ir nepavojingumo sveikatai reikalavimus nustato Sveikatos apsaugos ministerija.
 
-sveikatos priežiūros subjektai. Šių paslaugų teikimo sąlygas ir tvarką nustato
+4. Įmonės bei asmenys, kurie verčiasi
 
-Sveikatos ministerija.
+Sveikatos apsaugos ministerijos nustatyto sąrašo ūkine komercine veikla,
 
-37
+privalo turėti leidimą - higienos pasą.
 
-straipsnis. Atrankiniai asmenų sveikatos patikrinimai
+5. Leidimo - higienos paso išdavimo tvarką
 
-Atrankiniai
+bei atsisakymo jį išduoti pagrindus nustato Sveikatos apsaugos ministerija.
 
-asmenų sveikatos tyrimai atliekami Sveikatos ministerijos sprendimu ir jos
+Leidimus - higienos pasus išduoda Sveikatos apsaugos ministerijos įgaliotos
 
-nustatyta tvarka.
+valstybinės visuomenės sveikatos priežiūros įstaigos, taip pat įmonės, įstatymų
 
-Respondentų
+nustatyta tvarka turinčios teisę atlikti visuomenės sveikatos saugos
 
-visumą, kuriems atliekami atrankiniai sveikatos patikrinimai, ir statistinės
+ekspertizę.
 
-informacijos surinkimo, kaupimo ir apdorojimo būdus nustato sveikatos
+6. Visuomenės sveikatos kontrolės
 
-informacinės tarnybos.
+institucijos įstatymų nustatyta tvarka ir pagrindais turi teisę uždrausti,
 
-38
+sustabdyti ar riboti ūkinę komercinę veiklą, prekių importą, jų realizavimą,
 
-straipsnis. Užkrečiamųjų ligų imunoprofilaktika ir
+paslaugų teikimą.
 
-chemioprofilaktika
+34 straipsnis. Ligų
 
-Asmens
+profilaktika ir kontrolė
 
-sveikatos priežiūros subjektų, kurie privalo vykdyti užkrečiamųjų ligų
+1. Užkrečiamųjų ligų profilaktikos ir
 
-imunoprofilaktiką bei  chemioprofilaktiką, nomenklatūrą  ir   šių  ligų
+kontrolės pagrindus bei tvarką nustato Žmonių užkrečiamųjų ligų profilaktikos
 
-imunoprofilaktikos   bei chemioprofilaktikos turinį, sąlygas bei tvarką nustato
+ir kontrolės įstatymas.
 
-Sveikatos ministerija.
+2. Sveikatos priežiūros įstaigos, kitos
 
-Užkrečiamųjų
+įmonės ir įstaigos pagal kompetenciją privalo organizuoti neinfekcinių
 
-ligų imunoprofilaktikos ar chemioprofilaktikos priemones priverstinai taikyti
+susirgimų bei traumų profilaktiką.
 
-asmenims galima tik įstatymų nustatytais pagrindais ir tvarka, jeigu kyla reali
+3. Neinfekcinių ligų profilaktikos ir
 
-grėsmė, kad jie gali  susirgti ypatingai  pavojingomis ar  pavojingomis
+kontrolės tvarką nustato Sveikatos apsaugos ministerija.
 
-užkrečiamosiomis ligomis.
+4. Traumatizmo, kurį lemia transportas,
 
-Medicinos
+profilaktikos priemones ir turinį pagal kompetenciją nustato Susisiekimo,
 
-specialistai, pažeidę šio straipsnio reikalavimus, atsako įstatymų nustatyta
+Sveikatos apsaugos, Vidaus reikalų ir kitos ministerijos.
 
-tvarka.
+5. Profesinių ligų ir nelaimingų atsitikimų
 
-39
+darbe profilaktikos tvarką nustato Žmonių saugos darbe įstatymas, kiti
 
-straipsnis. Profilaktiniai patikrinimai
+įstatymai ir teisės aktai.
 
-Nustatytų
+35 straipsnis.
 
-profesijų  darbuotojai bei asmenys, dirbantys nustatytuose darbuose ir gamybos
+Ekstremalios visuomenės sveikatai situacijos
 
-šakose bei baruose, prieš užsiimdami profesine veikla ir jos metu privalo
+1. Ekstremali visuomenės sveikatai situacija
 
-pasitikrinti sveikatą. Šių profesijų, darbų ir gamybų šakų bei barų sąrašą bei
+- tokios visuomenės sveikatos raidos aplinkybės, kai aplinkos veiksnių poveikis
 
-asmenų sveikatos tikrinimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+lemia staigų:
 
-Privalomai
+1) grupinių ar masinių sveikatos pakenkimų
 
-tikrinama Sveikatos  ministerijos  nustatytų profesijų, darbų ir gamybos šakų
+pavojaus atsiradimą;
 
-ar barų darbuotojų, asmenų, bendravusių su ligoniais, susirgusiais Sveikatos
+2) grupinių ar masinių gyventojų sveikatos
 
-ministerijos nustatyto sąrašo infekcinėmis ligomis, sveikata.
+pakenkimų atsiradimą.
 
-Medicinos
+2. Teritorija, kurioje staigiai atsiranda
 
-pagalbos įstaigos privalo per nustatytą laiką tikrinti sveikatą:
+grupinių ar masinių sveikatos pakenkimų pavojus, Vyriausybės nutarimu yra
 
-1)
+skelbiama pavojaus visuomenės sveikatai rajonu.
 
-nėščiųjų, vaikų iki 16 metų;
+3. Teritorija, kurioje pakenkiama gyventojų
 
-2)
+grupių ar didelės gyventojų dalies sveikata, Vyriausybės nutarimu yra skelbiama
 
-motinų, iki vaikui sukaks vieneri metai;
+žalos visuomenės sveikatai rajonu.
 
-3)
+4. Ekstremalių visuomenės sveikatai situacijų
 
-asmenų, bendravusių su ligoniais, susirgusiais Sveikatos ministerijos nustatyto
+nustatymo kriterijus, ypatingų visuomenės sveikatai situacijų valdymo,
 
-sąrašo užkrečiamosiomis ligomis.
+kontrolės, neigiamų pasekmių visuomenės sveikatai ir ūkiui šalinimo priemonių
 
-Nustatytų
+bei jų finansavimo tvarką tvirtina Vyriausybė ar jos įgaliota institucija.
 
-profesijų, gamybos šakų bei barų darbuotojai, kiti asmenys,  bendravę  su
+36 straipsnis.
 
-ligoniais,  susirgusiais  Sveikatos ministerijos nustatyto sąrašo
+Visuomenės sveikatos monitoringas ir ekspertizė
 
-užkrečiamosiomis ligomis, šio ir kitų įstatymų nustatyta tvarka ir sąlygomis
+1. Informacijos apie visuomenės sveikatą
 
-turi būti izoliuojami ir per  nustatytą laiką stebima jų sveikatos būklė. Šiems
+viešumas negali būti ribojamas ir ji negali būti laikoma valstybine ar
 
-asmenims, jų artimiesiems ar jų atstovams nesutikus su gydytojo sprendimu dėl
+komercine paslaptimi.
 
-izoliacijos ir sveikatos būklės stebėjimo, tie asmenys įstatymų  nustatyta
+2. Visuomenės sveikatai, jai darantiems
 
-tvarka  turi būti  priverstinai izoliuojami ir priverstinai stebima jų
+poveikį veiksniams, šiam poveikiui stebėti, registruoti, kaupti apie tai
 
-sveikatos būklė. Policija sveikatos priežiūros  įstaigų teikimu privalo padėti
+informaciją Lietuvos Respublikoje vykdomas visuomenės sveikatos monitoringas.
 
-tokius asmenis priverstinai izoliuoti.
+3. Valstybinį visuomenės sveikatos
 
-Lietuvos
+monitoringą organizuoja ar įstatymo nustatyta tvarka vykdo valstybės valdymo,
 
-Respublikos  Vyriausybės  nustatytų  profesijų, darbuose ir gamybos šakose ar
+savivaldos vykdomosios institucijos, įstaigos ir įmonės.
 
-baruose dirbantys darbuotojai, taip pat Sveikatos ministerijos nustatytų
+4. Visuomenės sveikatos problemoms,
 
-profesijų, darbų ir gamybos šakų ar barų dirbantieji, bendravę su ligoniais,
+visuomenės sveikatos monitoringo duomenims ir valdymo sprendimams įvertinti ir
 
-susirgusiais Sveikatos ministerijos nustatyto sąrašo infekcinėmis ligomis, atsisakę
+pagrįsti Lietuvos Respublikoje atliekama visuomenės sveikatos ekspertizė.
 
-nustatytu laiku pasitikrinti sveikatą, atsako įstatymų nustatyta tvarka.
+5. Įmonės ir įstaigos, kurios verčiasi ūkine
 
-II SKIRSNIS. ATSTATOMOJI MEDICINOS PAGALBA
+komercine veikla, keliančia pavojų ar darančia žalą visuomenės sveikatai,
 
-40
+privalo teisės aktų nustatyta tvarka organizuoti visuomenės sveikatos
 
-straipsnis. Būtinoji medicinos pagalba
+monitoringą ir visuomenės sveikatos ekspertizę savo lėšomis. Tokių įmonių ir
 
-Būtinajai
+įstaigų sąrašus tvirtina Sveikatos apsaugos ministerija.
 
-medicinos pagalbai priskiriama:
+6. Visuomenės sveikatos monitoringo ir
 
-1)
-
-pirmoji medicinos pagalba;
-
-2)
-
-institucinė (nestacionarinė  ar  stacionarinė)  skubi medicinos pagalba.
-
-Asmenims,
-
-kuriems  dėl nelaimingo  atsitikimo, avarijų, ekologinių ir gaivalinių nelaimių
-
-arba dėl ūmaus susirgimo gelbstint gyvybę yra būtina medicinos pagalba, pirmąją
-
-medicinos pagalbą privalo neatidėliotinai suteikti medicinos ar farmacijos
-
-specialistai, buvę  kartu su  nukentėjusiais  ar  ligoniais nelaimingų
-
-atsitikimų  ar ūmaus gyvybei pavojingo susirgimo vietose.
-
-Nestacionarinę
-
-skubią medicinos pagalbą nukentėjusiems ar staigiai susirgusiems privalo
-
-teikti:
-
-1)
-
-skubios medicinos pagalbos mobilios tarnybos;
-
-2)
-
-nukentėjusiam ar ūmiai susirgusiam - artimiausia asmens sveikatos priežiūros
-
-įstaiga.
-
-Stacionarinę
-
-skubią medicinos pagalbą teikia stacionarinės specializuotos medicinos pagalbos
-
-įstaigos ar medicinos pagalbos įstaigų specializuoti skyriai šiai pagalbai
-
-teikti.
-
-Jeigu
-
-asmens gyvybei gresia realus pavojus, stacionarinė skubi medicinos pagalba gali
-
-būti suteikta ir be to asmens sutikimo, ne mažiau kaip dviejų gydytojų
-
-konsiliumui nutarus, informavus ligonį, jo šeimos narius ar jo atstovą, o jeigu
-
-nukentėjęs ar ūmiai susirgęs yra nepilnametis, - jo tėvus, globėjus apie
-
-suteiktą medicinos pagalbą.
-
-Būtinosios
-
-medicinos pagalbos turinį, jos teikimo pagrindus, sąlygas ir tvarką, asmens
-
-sveikatos priežiūros įstaigų, medicinos ir farmacijos  specialistų kompetenciją
-
-būtinosios medicinos pagalbos teikimo  klausimais nustato  Sveikatos
-
-ministerija. Skubios medicinos pagalbos mobilių tarnybų struktūrą, steigimo ir
-
-finansavimo tvarką, kompetenciją nustato Sveikatos ministerija, neviršydama
-
-skirtų lėšų.
-
-Asmenims,
-
-kurie šio įstatymo ir kitų teisės aktų yra įpareigoti teikti būtinąją medicinos
-
-pagalbą, savo neveikimu ar veikimu padidinusiems nukentėjusių ar staigiai
-
-susirgusių asmenų sveikatos pakenkimą,  taikoma įstatymų  nustatyta drausminė,
-
-materialinė, administracinė ir baudžiamoji atsakomybė.
-
-41
-
-straipsnis. Diagnostikos ir gydymo priemonių taikymas
-
-Ligų
-
-diagnostikos priemonių, taikomų Lietuvos Respublikos medicinos pagalbos
-
-įstaigose, mastai turi būti ne mažesni už tuos, kurie yra nustatyti ligų
-
-diagnostikos būtinųjų priemonių sąrašuose.
-
-Medicinos
-
-pagalbos specialistai turi teisę pasirinkti šio įstatymo ir kitų teisės aktų
-
-nustatyta tvarka aprobuotas gydymo technologijas. Gydymo  technologijų taikymo
-
-tvarką  nustato sveikatos priežiūros standartizacijos norminiai dokumentai.
-
-Vaistai
-
-yra priskiriami diagnostikos bei gydymo priemonėms, jeigu:
-
-1)
-
-juos skiria gydytojas ar kitas asmuo, turintis teisę juos skirti;
-
-2)
-
-jie  yra  nustatyta  tvarka  įregistruoti  Lietuvos Respublikoje.
-
-Medicinos
-
-specialistas gali panaudoti naujus, moksliškai pagrįstus, bet dar
-
-neįregistruotus nustatyta tvarka vaistus, profilaktikos, diagnostikos  ir
-
-gydymo  metodus,  medicininę aparatūrą ir instrumentus tik stengdamasis ligonį
-
-išgydyti, išgelbėti ar pratęsti jo gyvybę. Šiuo atveju jis privalo gauti
-
-ligonio, o jeigu ligonis nesąmoningos būsenos arba nepilnametis - jo tėvų,
-
-artimųjų, globėjų ar jo atstovo, taip pat medicinos pagalbos įstaigos medicinos
-
-etikos komisijos sutikimą dėl tokių asmens sveikatos  priežiūros  technologijų
-
-naudojimo.  Toks sutikimas turi būti patvirtintas raštiškai.  Kai ligonis yra
-
-nesąmoningos būsenos ir kai nėra jokių žinių apie jo artimuosius, tėvus,
-
-globėjus ar jo atstovą, šios technologijos gali būti taikomos tik raštiškai
-
-pritarus ne mažiau kaip dviejų atitinkamos specialybės gydytojų konsiliumui bei
-
-medicinos pagalbos įstaigos medicinos etikos komisijai.
-
-Priverstinės
-
-hospitalizacijos, priverstinės diagnostikos bei priverstinio gydymo  priemonių
-
-taikymas asmenims galimi tik įstatymų nustatytais pagrindais ir tvarka, esant
-
-realiai grėsmei, kad šie asmenys veiksmais ar dėl savo sveikatos būklės gali
-
-padaryti esminę žalą savo sveikatai, gyvybei arba aplinkinių as- menų
-
-sveikatai, gyvybei. Medicinos specialistai, pažeidę šiuos reikalavimus, atsako
-
-įstatymų nustatyta tvarka.
-
-42
-
-straipsnis. Žmogaus kraujo ir jo produktų transfuzija
-
-Žmogaus
-
-kraujas transfuzijai ar kraujo produktų gamybai gali būti paimtas iš donoro tik
-
-šio laisva valia ir sutikimu.
-
-Žmogaus
-
-kraują ir jo produktus pagal sudarytas su užsienio šalių juridiniais asmenimis
-
-sutartis įvežti į Lietuvos Respubliką donorystės tikslui ir išvežti iš jos turi
-
-teisę tik akredituoti šiai veiklai asmens sveikatos priežiūros subjektai.
-
-Žmogaus
-
-kraujo ir jo produktų įvežimo į Lietuvos Respubliką ir išvežimo iš jos sąlygas
-
-bei tvarką, Lietuvos Respublikos bei užsienio šalių piliečiams leidžiamo įvežti
-
-į Lietuvos Respubliką donorų kraujo ar jo produktų kiekį, skirtą asmeniškai
-
-naudoti gydymui, žmonių  kraujo ir  jo kraujo  produktų, naudojamų
-
-transfuzijai, tyrimo dėl jo nekenksmingumo sveikatai, sąlygas ir tvarką nustato
-
-Sveikatos ministerija.
-
-Žmogaus
-
-kraujo paėmimo donorystės tikslui, kraujo produktų gamybos, žmogaus kraujo ir
-
-jo produktų transfuzijos, organų ar audinių, paimamų  iš jo kūno, panaudojimo
-
-transplantacijai, medicinos mokslo tyrimams, diagnostikai, gydymui sąlygas bei
-
-tvarką, kraujo, audinių ir (ar) organų donorų teises nustato įstatymai.
-
-Asmenys,
-
-pažeidę  šio straipsnio  reikalavimus,  atsako įstatymų nustatyta tvarka.
-
-43
-
-straipsnis. Žmogaus kūno audinių ir organų transplantacija
-
-Žmogaus
-
-kūno audiniai ir (ar) organai negali būti komercinių sandorių objektais ir turi
-
-būti naudojami tik transplantavimui ar biomedicininių tyrimų tikslams. Žmogaus
-
-kūno audinių ir (ar) organų pardavimas ar pirkimas, tokios veiklos reklama
-
-užtraukia įstatymų nustatytą atsakomybę.
-
-Žmogaus
-
-kūno  audinių ar organų, paimamų iš jo kūno, panaudojimo transplantavimui,
-
-medicinos mokslo tyrimams, diagnos- tikai, gydymui sąlygas bei tvarką, audinių
-
-ir (ar) organų donorų teises nustato įstatymai.
-
-III SKIRSNIS. MEDICININĖ REABILITACIJA, SLAUGA,
-
-SOCIALINĖS PASLAUGOS IR SOCIALINĖ GLOBA BEI
-
-PATARNAVIMAI, PRISKIRIAMI ASMENS SVEIKATOS PRIEŽIŪRAI
-
-44
-
-straipsnis. Medicininė reabilitacija
-
-Ligonių
-
-medicininės reabilitacijos medicinos pagalbos ir slaugos įstaigose,  pacientų
-
-atrankos  ir  jų  siuntimo  į reabilitacines ligonines ir sanatorijas sąlygas
-
-ir tvarką nustato Sveikatos ministerija.
-
-Invalidų
-
-medicininės reabilitacijos organizavimo pagrindus nustato Invalidų socialinės
-
-integracijos įstatymas. Invalidų medicininės reabilitacijos sąlygas ir tvarką
-
-nustato Lietuvos Respublikos Vyriausybė.
-
-Vietovių,
-
-tinkančių   medicininės  (ir  socialinės) reabilitacijos organizavimui,
-
-pripažinimo kurortais tvarką ir jų organizavimo sąlygas nustato Lietuvos
-
-Respublikos Vyriausybė.
-
-45
-
-straipsnis. Žmonių slauga
-
-Žmonės
-
-slaugomi namuose, kur jie gyvena, medicinos pagalbos, slaugos bei socialinės
-
-globos institucijose.
-
-Negalios
-
-ištiktų  asmenų, senų  žmonių slaugos turinį, sąlygas, jos organizavimo tvarką
-
-nustato Lietuvos Respublikos Vyriausybė.
-
-46
-
-straipsnis. Asmens medicinos pagalbos teikiamos socialinės
-
-paslaugos ir  socialinė globa
-
-Socialinių
-
-paslaugų teikimas ir socialinė globa asmens sveikatos priežiūroje
-
-organizuojama  stengiantis sumažinti pacientų, asmenų, ištiktų negalios, senų
-
-žmonių psichoemocinės įtampos lygį, padėti jiems kovoti su stresais ir
-
-užtikrinti jų socialinį saugumą. Socialines paslaugas teikia ir socialinę globą
-
-tvarko medicinos pagalbos įstaigų socialiniai darbuotojai.
-
-Socialinių
-
-paslaugų rūšis ir jų teikimo mastus, socialinės globos asmens sveikatos
-
-priežiūroje turinį, jos tvarką ir sąlygas nustato ir sveikatos priežiūros
-
-sistemos socialinių darbuotojų nuostatus tvirtina Lietuvos Respublikos
-
-Vyriausybė.
-
-Socialinių
-
-darbuotojų rengimo ir jų kvalifikacijos kėlimo tvarką nustato Socialinės
-
-apsaugos ir darbo ministerija.
-
-47
-
-straipsnis. Paslaugos bei kiti patarnavimai, priskiriami
-
-medicinos pagalbai
-
-Paslaugos
-
-bei  kiti patarnavimai, priskiriami medicinos pagalbai, yra:
-
-1)
-
-farmaciniai patarnavimai  (recepto priėmimas  ir  jo patikrinimas, vaisto
-
-parinkimas pagal receptą ar ekvivalentinio veikimo vaistų  parinkimas,
-
-žodinis  ir  raštiškas  asmens informavimas apie  vaisto vartojimo būdą,
-
-informacijos apie vaisto saugaus vartojimo sąlygas patikslinimas, vaistų,
-
-kuriems nereikia recepto,  išdavimas savigydai,   vaistų  ar  kitų medicininės
-
-paskirties priemonių paskyrimas atsižvelgiant į as- mens nurodytas sveikatos
-
-būklės problemas ir vaistų išdavimo nus- tatytą tvarką, informacijos apie
-
-vaistų prieinamumą pateikimas);
-
-2)
-
-ligonių  transportavimo,  protezavimo,  ortopediniai, aprūpinimo  kompensacine
-
-technika,  gaminiais,  produktais (įskaitant maisto produktus), naudojamais
-
-medicinos pagalboje, patarnavimai.
-
-Šio
-
-straipsnio pirmoje dalyje numatytos paslaugos bei kiti patarnavimai priskiriami
-
-medicinos pagalbai, jeigu:
-
-1)
-
-jie yra skiriami gydytojo ar kito asmens, turinčio teisę juos skirti;
-
-2)
-
-jie yra įtraukti į skiriamų paslaugų bei patarnavimų sąrašą, sudarytą
-
-medicinos pagalbos subjekto ir jo veiklos užsakovo, Sveikatos  ministerijos ar
-
-savivaldybių, kai šios paslaugos ir patarnavimai priklauso valstybės ar
-
-savivaldybių remiamai asmens sveikatos priežiūrai.
-
-Medicinos
-
-pagalba neapima paslaugų ir produktų, skirtų kosmetiniams ar higieniniams
-
-tikslams, net jei jie taip pat būtų naudingi asmens sveikatai.
-
-IV SKIRSNIS. ASMENS SVEIKATOS EKSPERTIZĖ
-
-48
-
-straipsnis. Asmens sveikatos potencialo ekspertizė
-
-Asmens
-
-sveikatos potencialo ekspertizę atlieka sveikatos centrai. Šios ekspertizės
-
-organizavimo ir atlikimo tvarką nustato Sveikatos ministerija.
-
-49
-
-straipsnis. Medicininė darbingumo ekspertizė
-
-Laikinojo
-
-asmens nedarbingumo ekspertizę atlieka medicinos pagalbos įstaigos  gydytojas
-
-arba  gydytojų komisija.  Šios ekspertizės organizavimo ir atlikimo tvarką
-
-nustato Sveikatos ministerija.
-
-50
-
-straipsnis. Medicininė ir socialinė ekspertizė
-
-Ilgalaikio
-
-arba  pastovaus darbingumo netekimo atvejais medicininę ir socialinę ekspertizę
-
-atlieka valstybinių medicinos pagalbos įstaigų medicininės ir socialinės
-
-ekspertizės komisijos ir Valstybinės medicininės-socialinės ekspertizės
-
-komisijos. Šių komisijų nuostatų tvirtinimo tvarką ir kompetenciją
-
-reglamentuoja Invalidų socialinės  integracijos įstatymas. Ilgalaikio arba
-
-pastovaus darbingumo  netekimo medicininius  ir  socialinius kriterijus nustato
-
-Sveikatos ministerija kartu su Socialinės apsaugos ir darbo ministerija.
-
-51
-
-straipsnis. Teisės medicinos ekspertizė
-
-Teisės
-
-medicinos ekspertizė daroma remiantis kvotos, tardymo organų ar  prokuroro
-
-nutarimu,  taip pat teismo nutartimi. Ekspertizę  atlieka  Valstybinė  teisės
-
-medicinos  tarnyba. Ekspertizės organizavimo ir atlikimo tvarką nustato
-
-Lietuvos Respublikos Vyriausybė.
-
-52
-
-straipsnis. Teisės psichiatrinė ir teisės narkologinė ekspertizė
-
-Teisės
-
-psichiatrinė, teisės narkologinė ekspertizė daroma remiantis kvotos, tardymo
-
-organų ar prokuroro nutarimu, taip pat teismo  nutartimi.  Ekspertizes
-
-atlieka  Valstybinė  teisės psichiatrijos ir narkologijos tarnyba. Ekspertizės
-
-organizavimo ir atlikimo tvarką nustato Lietuvos Respublikos Vyriausybė.
-
-53
-
-straipsnis. Patologoanatominė ekspertizė
-
-Patologoanatominė
-
-ekspertizė  atliekama asmeniui  mirus. Lavono patologoanatominio tyrimo
-
-(autopsijos) sąlygas ir tvarką reglamentuoja įstatymai ir kiti teisės aktai.
-
-III SKYRIUS. VISUOMENĖS SVEIKATOS PRIEŽIŪRA
-
-54
-
-straipsnis. Visuomenės sveikatos priežiūros visuotinumas
-
-Vykdyti
-
-visuomenės  sveikatos priežiūrą, kuria siekiama ugdyti sveikatą, užkirsti kelią
-
-vartojimui skirtų produktų, maisto, geriamojo  vandens, gyvenamosios, darbo ir
-
-gamtinės aplinkos kokybės blogėjimui, užkirsti kelią ligoms ir traumoms,
-
-sumažinti sergamumą,  yra visų fizinių ir juridinių asmenų pareiga. Juridiniai
-
-ir fiziniai asmenys, pažeidę šį reikalavimą, atsako šio ir kitų įstatymų
-
-nustatyta tvarka.
-
-55
-
-straipsnis. Visuomenės sveikatos ugdymas
-
-Visuomenės
-
-sveikatos ugdymą sudaro:
-
-1)
-
-sveikatos propaganda masinėse informacijos priemonėse;
-
-2)
-
-sveikatos žinių populiarinimas;
-
-3)
-
-sveikatos mokymas;
-
-4)
-
-šeimos planavimo konsultavimas.
-
-Sveikatos
-
-propagandą,  remiančią  sveikatos  politikos iniciatyvas,  masinėse
-
-informacijos  priemonėse  organizuoja Lietuvos Respublikos Vyriausybė ar
-
-savivaldybės iš valstybės ar savivaldybių biudžeto  lėšų. Sveikatos
-
-propagandos masinėse informacijos priemonėse  sąlygas ir tvarką nustato
-
-Lietuvos Respublikos Vyriausybė.
-
-Sveikatos
-
-žinios, kurios skatina gyventojų sveiką gyvenseną, populiarinamos,  šeimos
-
-planavimas  konsultuojamas  pagal valstybines ir savivaldybių sveikatos
-
-programas.
-
-Sveikatos
-
-mokymą sudaro savanoriško, privalomojo sveikatos mokymo ir kūno kultūros
-
-priemonių visuma.
-
-Sveikatos
-
-ugdymo sąlygas ir tvarką reglamentuoja šis ir kiti įstatymai bei teisės aktai.
-
-56
-
-straipsnis. Visuomenės sveikatos sauga
-
-Visuomenės
-
-sveikatos saugos pagrindą sudaro pavojaus ir žalos sveikatai ribojimo priemonių
-
-sistema darbo, gyvenamojoje bei gamtinėje aplinkoje.
-
-Pavojaus
-
-ir  žalos sveikatai  prevencija ir  ribojimas įgyvendinamas:
-
-taikant:
-
-1)
-
-darbo, gyvenamosios  bei gamtinės  aplinkos, maisto, geriamojo vandens,
-
-žaliavų, technikos bei įrangos ir kitų prekių, ūkinės ar kitokios veiklos
-
-nepavojingumo ir nekenksmingumo sveikatai rodiklių ir reikalavimų higieninį
-
-reglamentavimą;
-
-2)
-
-ūkinės-komercinės ir kitokios veiklos licencijavimą;
-
-3)
-
-juridinių ir  fizinių asmenų akreditavimą asmens ar visuomenės sveikatos
-
-priežiūros veiklai;
-
-nustatant:
-
-4)
-
-sanitarines apsaugos zonas;
-
-5)
-
-sveikatai kenksmingų prekių gamybos kvotas;
-
-sustabdant
-
-sveikatai kenksmingą ar pavojingą ūkinę-komercinę ar kitokią veiklą;
-
-taikant
-
-individualius akcizus sveikatai žalingoms prekėms, įrašytoms į  Akcizų
-
-įstatymą, ir kitus įstatymų nustatytus ekonominio reguliavimo būdus;
-
-taikant
-
-įstatymų  nustatytą atsakomybę  už sveikatinimo veiklos teisės aktų pažeidimus.
-
-Žaliavos,
-
-technika, įranga, statybinės medžiagos, gyvenamųjų patalpų interjero elementai,
-
-maistas, jo pakuotė, tara bei kitos prekės, geriamasis vanduo neturi sukelti
-
-jokios rizikos sveikatai arba gali kelti jai tik minimalią riziką. Darbo,
-
-gyvenamosios bei gamtinės aplinkos, ūkinės ar kitokios veiklos, vartojimui
-
-skirtų produktų nekenksmingumo ir nepavojingumo sveikatai reikalavimus ir
-
-rodiklius nustato Lietuvos Respublikos sveikatos priežiūros standartizacijos
-
-norminiai dokumentai, kuriuos rengia ir tvirtina Sveikatos ministerija.
-
-Sveikatai
-
-kenksmingas  ar  pavojingas  ūkinės-komercinės veiklos rūšis, kurioms užsiimti
-
-reikalingas Lietuvos Respublikos Vyriausybės ar jos įgaliotos Valstybinės
-
-visuomenės sveikatos priežiūros tarnybos išduotas leidimas (licencija), nustato
-
-Įmonių įstatymas.
-
-Įmonių
-
-ūkinė-komercinė veikla, kuri kenkia žmonių sveikatai, jų darbo ir gyvenamajai
-
-aplinkai, Įmonių įstatymo nustatyta tvarka turi būti ribojama atsisakant
-
-išduoti ar atšaukiant leidimą (licenciją) tokiai veiklai.
-
-Leidimų
-
-(licencijų) ūkinei-komercinei veiklai, neigiamai veikiančiai sveikatą,
-
-atšaukimo, tokios veiklos sustabdymo ar uždraudimo kriterijus, juridinių asmenų
-
-ir pareigūnų įgaliojimus sustabdyti ar nutraukti tokią veiklą bei jų
-
-įgyvendinimo tvarką nustato šis įstatymas, Įmonių įstatymas, kiti įstatymai bei
-
-teisės aktai.
-
-Apie
-
-ūkinės-komercinės  ir kitokios veiklos, prekių ir paslaugų kenksmingumą
-
-sveikatai sprendžia valstybinės tarnybos ir valstybinės  inspekcijos,  vykdančios
-
-visuomenės  sveikatos kontrolę.
-
-Ūkinės-komercinės
-
-ir  kitokios veiklos, žmonių buities, mokymosi ar  darbo sąlygų,  įvairių
-
-statinių, jų projektų, technologinių procesų,  geriamojo vandens,  maisto,
-
-žaliavų, technikos bei įrangos ir kitų prekių, paslaugų kenksmingumo ar
-
-pavojingumo sveikatai ekspertizės sąlygas ir tvarką nustato įstatymai ir kiti
-
-teisės aktai. Sveikatai kenksmingų ar pavojingų prekių, kurių gamyba, prekyba,
-
-sveikatai kenksmingų ar pavojingų paslaugų teikimas šio ir kitų įstatymų
-
-nustatyta tvarka turi būti draudžiami ar ribojami, sąrašus tvirtina Lietuvos
-
-Respublikos Vyriausybė.
-
-Sveikatai
-
-kenksmingų ar pavojingų prekių, kurių gamyba turi būti ribojama, gamybos kvotas
-
-nustato Vyriausybės įstaigos, išduodančios leidimus (licencijas) šioms prekėms
-
-gaminti.
-
-Akreditavimo
-
-sveikatos priežiūros ar farmacinei veiklai tvarką, sveikatai kenksmingų prekių
-
-apmokestinimo individualiais akcizais dydžius nustato Lietuvos Respublikos
-
-Vyriausybė.
-
-57
-
-straipsnis. Užkrečiamųjų ligų profilaktika ir kontrolė
-
-Sveikatinimo
-
-veiklos subjektai pagal savo kompetenciją vykdo užkrečiamųjų ligų pirminę,
-
-antrinę ir tretinę profilaktiką ir kontrolę.
-
-Lietuvos
-
-Respublikos  Vyriausybė,  ministerijos,  kitos Vyriausybės įstaigos užtikrina
-
-Lietuvos      Respublikos teritorijos ir gyventojų apsaugą nuo ypatingai
-
-pavojingų ir pavojingų infekcinių ligų įvežimo bei jų platinimo. Ypatingai
-
-pavojingų ir pavojingų užkrečiamųjų ligų sąrašus tvirtina bei keičia Sveikatos
-
-ministerija. Sanitarinių - priešepideminių bei karantininių priemonių, kuriomis
-
-siekiama apsaugoti gyventojus nuo ypatingai pavojingų užkrečiamųjų ligų,
-
-sistemos taikymo tvarką nustato Lietuvos Respublikos Vyriausybė. Veterinarinius
-
-sanitarinius reikalavimus  ypatingai pavojingų  ir pavojingų užkrečiamųjų ligų
-
-profilaktikai nustato Veterinarijos įstatymas.
-
-Lietuvos
-
-Respublikos Vyriausybė ar savivaldybės, iškilus infekcinių ligų atsiradimo ar
-
-plitimo grėsmei, joms atsiradus ir paplitus, - gali įstatymų nustatyta tvarka
-
-įvesti atitinkamose teritorijose ypatingąsias darbo, mokymosi, kelionių ir
-
-pervežimų sąlygas bei režimus, kad būtų apsisaugota nuo šių ligų.
-
-Juridiniai
-
-ir  fiziniai asmenys,  pažeidę teisės  aktų nustatytus  užkrečiamųjų  ligų
-
-profilaktikos  ir  kontrolės reikalavimus, atsako pagal įstatymus.
-
-58
-
-straipsnis. Ypatingos visuomenės sveikatai situacijos
-
-Ypatinga
-
-visuomenės  sveikatai situacija  - tai tokios visuomenės sveikatos raidos
-
-aplinkybės, kai aplinkos veiksnių poveikis lemia staigų:
-
-1) grupinių ar masinių sveikatos pakenkimų pavojaus atsiradimą;
-
-2) grupinių ar masinių gyventojų sveikatos pakenkimų atsiradimą.
-
-Teritorija, kurioje staigiai atsiranda grupinių ar masinių sveikatos pakenkimų
-
-pavojus, Lietuvos Respublikos Vyriausybės sprendimu yra skelbiama pavojaus
-
-visuomenės sveikatai rajonu.
-
-Teritorija,
-
-kurioje  pakenkiama  gyventojų  grupių  ar pakenkiama didelės gyventojų masės
-
-sveikata, Lietuvos Respublikos Vyriausybės sprendimu yra skelbiama žalos
-
-visuomenės sveikatai rajonu.
-
-Ypatingų
-
-visuomenės  sveikatai  situacijų  nustatymo kriterijus, ypatingų visuomenės
-
-sveikatai situacijų valdymo, kontrolės, neigiamų  pasekmių visuomenės sveikatai
-
-ir ūkiui šalinimo priemonių bei jų finansavimo tvarką tvirtina Lietuvos Respublikos
-
-Vyriausybė.
-
-59
-
-straipsnis. Neinfekcinių ligų ir traumų profilaktika ir kontrolė
-
-Įmonės,
-
-įstaigos,  organizacijos,  medicinos  pagalbos, medicininės ir socialinės
-
-reabilitacijos bei slaugos įstaigos pagal savo kompetenciją kontroliuoja
-
-neinfekcinių susirgimų bei traumų profilaktiką, sergamumą bei traumatizmą.
-
-Profesinių
-
-susirgimų,  apsinuodijimų, traumatizmo  darbe profilaktikos ir kontrolės
-
-sąlygas ir tvarką nustato Žmonių saugos darbe įstatymas, kiti įstatymai bei
-
-teisės aktai.
-
-Traumatizmo,
-
-kurį lemia transportas, profilaktikos priemones ir turinį nustato Lietuvos
-
-Respublikos Vyriausybė.
-
-Neinfekcinių
-
-ligų  antrinės ir  tretinės  profilaktikos priemonių taikymą medicinos
-
-pagalboje nustato šis įstatymas ir kiti teisės aktai.
-
-60
-
-straipsnis. Visuomenės sveikatos kontrolė
-
-Visuomenės
-
-sveikatos kontrolė yra valstybės ir savivaldybių.
-
-Valstybės
-
-įgyvendinama visuomenės sveikatos kontrolė apima:
-
-1)
-
-valstybinę alkoholio kontrolę;
-
-2)
-
-valstybinę tabako kontrolę;
-
-3)
-
-valstybinę narkotikų kontrolę;
-
-4)
-
-valstybinę higieninę kontrolę;
-
-5)
-
-valstybinę aplinkos apsaugos kontrolę;
-
-6)
-
-valstybinę saugos darbe organizavimo kontrolę;
-
-7)
-
-valstybinę radiacinio  saugumo atominėje energetikoje kontrolę;
-
-8)
-
-valstybinę veterinarinę kontrolę;
-
-9)
-
-valstybinį medicininį auditą.
-
-Savivaldybės
-
-vykdo savo teritorijos gyvenamosios aplinkos palaikymo palankia sveikatai
-
-sanitarinę kontrolę.
-
-Visuomenės
-
-sveikatos kontrolės turinį, jos įgyvendinimo tvarką, kontrolės institucijų
-
-kompetenciją reglamentuoja šis įstatymas, Veterinarijos įstatymas, Aplinkos
-
-apsaugos įstatymas, Žmonių saugos darbe įstatymas, kiti įstatymai ir teisės
-
-aktai.
-
-Sanitarinės
-
-kontrolės, kurią turi vykdyti savivaldybės savo teritorijų administraciniuose
-
-vienetuose, turinį  ir tvarką nustato Lietuvos Respublikos Vyriausybė Sveikatos
-
-ministerijos teikimu.
-
-61
-
-straipsnis. Sveikatai kenksmingos ūkinės-komercinės veiklos
-
-sustabdymas
-
-Valstybinės
-
-inspekcijos,   savivaldybių   sanitarijos inspekcijos, vykdančios  visuomenės
-
-sveikatos kontrolę, savo sprendimu turi teisę reikalauti, kad darbdavys (jo
-
-įgaliotas asmuo) sustabdytų darbus, jeigu:
-
-1)
-
-darbdavys  nevykdo  visuomenės  sveikatos  priežiūros valstybinių inspekcijų
-
-teisėtų reikalavimų;
-
-2)
-
-paaiškėja, kad  žaliavos, gaminama  ir  realizuojama produkcija, realizuojamos
-
-prekės,  darbo  priemonės  kenkia sveikatai;
-
-3)
-
-dėl sveikatos  priežiūros  standartizacijos  norminių dokumentų pažeidimų darbo
-
-aplinka tampa pavojinga sveikatai ar padaroma žala sveikatai;
-
-4)
-
-kitais įstatymų nustatytais pagrindais.
-
-Darbų
-
-sustabdymo dėl pavojaus ir žalos sveikatai tvarką nustato šis įstatymas, Žmonių
-
-saugos darbe įstatymas ir kiti įstatymai.
-
-Valstybinės
-
-inspekcijos,  kontroliuojančios  visuomenės sveikatos priežiūrą,  savivaldybių
-
-sanitarijos  inspekcijos, nustačiusios visuomenės  sveikatos  priežiūros
-
-teisės  aktų pažeidimus, gali taikyti baudas ir ekonomines sankcijas, kurių
-
-taikymo, išieškojimo tvarka nustatyta Administracinių teisės pažeidimų kodekso,
-
-kitų įstatymų bei teisės aktų.
-
-62
-
-straipsnis. Sveikatinimo veiklos valdymo funkcijos, priskiriamos
-
-visuomenės sveikatos priežiūrai
-
-Visuomenės
-
-sveikatos priežiūrai priskiriamos sveikatinimo veiklos valdymo funkcijos,
-
-išdėstytos šio įstatymo IV dalies II skyriaus 86, 87, 88, 89, 90 ir 94
-
-straipsniuose.
-
-IV SKYRIUS. FARMACINĖ VEIKLA, TRADICINĖ
-
-MEDICINA,
-
-LIAUDIES MEDICINA, NEMEDICININĖS SVEIKATOS ATGAVIMO PRIEMONĖS
-
-63
-
-straipsnis. Farmacinė veikla
-
-Farmacinę
-
-veiklą turi teisę vykdyti ar ja užsiimti tik akredituoti šiai veiklai
-
-juridiniai asmenys, įmonės, neturinčios juridinio asmens statuso, fiziniai
-
-asmenys.
-
-Farmacinės
-
-veiklos struktūrą, jos organizavimo teisinius pagrindus, akreditavimo šiai
-
-veiklai sąlygas bei tvarką nustato šis įstatymas, Farmacinės veiklos įstatymas,
-
-kiti įstatymai bei teisės aktai.
-
-64
-
-straipsnis. Tradicinė medicina, liaudies medicina, nemedicininės
-
-sveikatos atgavimo priemonės
-
-Tradicinės
-
-medicinos,  liaudies medicinos, nemedicininio sveikatos atgavimo  paslaugas
-
-teikia juridiniai ir fiziniai asmenys, teisės aktų nustatyta tvarka akredituoti
-
-šiai veiklai. Tradicinės medicinos, liaudies medicinos paslaugų, nemedicininių
-
-sveikatos atgavimo priemonių taikymo  sąlygas ir tvarką nustato šis įstatymas
-
-ir kiti teisės aktai.
-
-III DALIS
-
-SVEIKATINIMO VEIKLOS VYKDOMIEJI SUBJEKTAI,
-
-JŲ TEISIŲ IR PAREIGŲ TURINYS
-
-I SKYRIUS. ASMENS SVEIKATOS PRIEŽIŪROS, VISUOMENĖS SVEIKATOS
-
-PRIEŽIŪROS BEI FARMACINĖS VEIKLOS SUBJEKTAI IR JŲ STEIGIMAS
-
-65
-
-straipsnis. Asmens sveikatos priežiūros, visuomenės sveikatos
-
-priežiūros  bei farmacinės veiklos subjektų steigimas
-
-Asmens
-
-sveikatos priežiūros, visuomenės sveikatos priežiūros bei farmacinės veiklos
-
-subjektų steigimą reglamentuoja įstatymai ir kiti teisės aktai.
-
-Valstybines
-
-asmens  sveikatos  priežiūros,  visuomenės sveikatos priežiūros  įstaigas,
-
-valstybines  vaistines  savo sprendimu steigia Lietuvos Respublikos Vyriausybė
-
-ar jos pavedimu - Sveikatos ministerija.
-
-Savivaldybių
-
-asmens  sveikatos  priežiūros,  visuomenės sveikatos priežiūros įstaigos,
-
-vaistinės steigiamos savivaldybės tarybos sprendimu.
-
-Privačios
-
-nuosavybės  teise veikiantys asmens sveikatos priežiūros, visuomenės sveikatos
-
-priežiūros ar farmacinės veiklos subjektai steigiami pačių steigėjų sprendimu,
-
-gavus Sveikatos ministerijos leidimą (licenciją).
-
-66
-
-straipsnis. Asmens sveikatos priežiūros, visuomenės sveikatos
-
-priežiūros bei farmacinės veiklos subjektų steigimo dokumentai
-
-Asmens
-
-sveikatos priežiūros, visuomenės sveikatos priežiūros bei farmacinės veiklos
-
-subjektų steigimo dokumentai yra:
-
-1)
-
-Valstybinės akreditavimo sveikatos priežiūrai tarnybos ar Valstybinės vaistų
-
-kontrolės tarnybos pagal kompetenciją išduoti dokumentai, patvirtinantys šių
-
-subjektų projektines galimybes užtikrinti sveikatinimo veiklos būtinąsias
-
-sąlygas;
-
-2)
-
-asmens  sveikatos priežiūros,  visuomenės  sveikatos priežiūros bei farmacinės
-
-veiklos subjektų nuostatai (įstatai);
-
-3)
-
-kiti Įmonių  įstatymo bei  kitų įstatymų  nustatyti dokumentai.
-
-Asmens
-
-sveikatos  priežiūros,  visuomenės  sveikatos priežiūros, farmacinės  veiklos
-
-subjektų nuostatai (įstatai) sudaromi pagal Lietuvos Respublikos Vyriausybės
-
-patvirtintus tipinius nuostatus (įstatus).
-
-67
-
-straipsnis. Asmens sveikatos priežiūros, visuomenės sveikatos
-
-priežiūros bei farmacinės veiklos nuosavybės   formos  bei
-
-nuosavybės teisės subjektai
-
-Nuosavybės
-
-formas bei nuosavybės teisės subjektus asmens sveikatos priežiūroje,
-
-visuomenės sveikatos  priežiūroje bei farmacinėje veikloje reglamentuoja
-
-Civilinis kodeksas.
-
-Nuosavybės
-
-teisės objektus, kurie reikalingi įgyvendinti pirminei  sveikatinimo  veiklai
-
-savivaldybės  teritorijoje, priskiria savivaldybės nuosavybės teisės įstatymai.
-
-68
-
-straipsnis. Asmens sveikatos priežiūros, visuomenės sveikatos
-
-priežiūros bei farmacinės veiklos subjektų ekonominės veiklos
-
-tipai bei jų nomenklatūra
-
-Asmens
-
-sveikatos priežiūros, visuomenės sveikatos priežiūros bei farmacinės veiklos
-
-subjektų ekonominės veiklos pobūdį bei kompetenciją nustato jų steigėjai ir
-
-įstatymai.
-
-Asmens
-
-sveikatos priežiūros, visuomenės sveikatos priežiūros bei farmacinės veiklos
-
-subjektus, kurie steigiami ir veikia kaip valstybinės ar savivaldybių įstaigos,
-
-valstybinės ar savivaldybių įmonės, taip pat sveikatinimo veiklos rūšis, kurias
-
-gali vykdyti tik šie subjektai, nustato šis ir kiti įstatymai.
-
-Asmens
-
-sveikatos priežiūros, visuomenės sveikatos priežiūros bei farmacinės veiklos
-
-subjektų nomenklatūrą pagal jų atliekamą sveikatinimo veiklą reglamentuoja
-
-įstatymai ir kiti teisės aktai.
-
-69
-
-straipsnis. Valstybinių ir savivaldybių asmens ir visuomenės
-
-sveikatos priežiūros įstaigų registravimas ir perregistravimas
-
-Kiekviena
-
-valstybinė ar savivaldybės asmens ar visuomenės sveikatos priežiūros  įstaiga,
-
-prieš  pradėdama sveikatinimo veiklą, privalo būti registruojama rejestre,
-
-kurio steigėjas ir vyriausias tvarkytojas yra Sveikatos ministerija. Šį
-
-rejestrą tvarko ir vietos savivaldybių valdymo organai.
-
-Sveikatos
-
-ministerija registruoja tik iš valstybės lėšų įsteigtas asmens ir visuomenės
-
-sveikatos priežiūros įstaigas, taip pat kaupia ir tvarko visų Lietuvos
-
-Respublikos savivaldybėse įregistruotų asmens ir visuomenės sveikatos
-
-priežiūros įstaigų duomenis.
-
-Savivaldybių
-
-valdymo organai registruoja, kaupia ir tvarko asmens ir visuomenės sveikatos
-
-priežiūros įstaigų, įsteigtų iš savivaldybės lėšų, duomenis.
-
-Jeigu
-
-valstybinių ar savivaldybių asmens ar visuomenės sveikatos priežiūros įstaigų
-
-steigimo dokumentai keičiami ar papildomi, jos turi būti nustatyta tvarka
-
-perregistruojamos.
-
-Valstybinių
-
-ar savivaldybių asmens ar visuomenės sveikatos priežiūros įstaigų  registravimo
-
-ir  perregistravimo tvarką, atsisakymo registruoti pagrindus nustato Lietuvos
-
-Respublikos Vyriausybė.
-
-70
-
-straipsnis. Valstybinių ar savivaldybių asmens ir visuomenės
-
-sveikatos priežiūros įstaigų, įmonių, užsiimančių sveikatinimo
-
-veikla, likvidavimas
-
-Valstybinės
-
-ar savivaldybių asmens ar visuomenės sveikatos priežiūros įstaigos likvidavimo
-
-pagrindu gali būti:
-
-1)
-
-steigėjo sprendimas nutraukti savo įstaigos veiklą;
-
-2)
-
-Sveikatos ministerijos ar savivaldybės tarybos priimtas sprendimas atšaukti
-
-savo įsteigtos įstaigos registravimą, kai jos negauna akreditavimo asmens ar
-
-visuomenės sveikatos priežiūrai.
-
-Įmonių,
-
-užsiimančių sveikatinimo veikla, likvidavimo pagrin- dus nustato Įmonių
-
-įstatymas.
-
-II SKYRIUS. ASMENS SVEIKATOS PRIEŽIŪROS,
-
-VISUOMENĖS SVEIKATOS PRIEŽIŪROS BEI FARMACINĖS VEIKLOS
-
-SUBJEKTŲ TEISĖS IR PAREIGOS
-
-71
-
-straipsnis. Asmens sveikatos priežiūros, visuomenės sveikatos
-
-priežiūros bei farmacinės veiklos subjektų teisės
-
-Asmens
-
-sveikatos priežiūros, visuomenės sveikatos priežiūros bei farmacinės veiklos
-
-subjektai turi teisę:
-
-1)
-
-sudaryti šio  ir  kitų  įstatymų  nustatyta  tvarka sveikatinimo veiklos
-
-sutartis, taip pat Civiliniame kodekse numatytas sutartis;
-
-2)
-
-turėti viename iš Lietuvos Respublikos, taip pat viename iš užsienio valstybių
-
-įregistruotų bankų savo sąskaitas ir naudoti jose esančias lėšas;
-
-3)
-
-nustatyti viso turimo kapitalo naudojimo kryptis ir būdus, kiek tai
-
-neprieštarauja šiam įstatymui, kitiems įstatymams ir asmens sveikatos
-
-priežiūros, visuomenės sveikatos priežiūros ar farmacinės veiklos subjekto
-
-nuostatams (įstatams);
-
-4)
-
-sudaryti sutartis dėl trumpalaikių beprocentinių paskolų iš  nebiudžetinių
-
-lėšų  įplaukų  suteikimo  valstybinėms (savivaldybių) sveikatos priežiūros
-
-įstaigoms arba gavimo, teikti šioms paramą;
-
-5)
-
-nustatyti, jeigu  tai neprieštarauja šiam įstatymui, asmens ar visuomenės
-
-sveikatos priežiūros subjekto nuostatams (įstatams), vidaus  organizacinę
-
-struktūrą bei steigti savo filialus, kurių veiklos tikslas - aptarnauti asmens
-
-sveikatos priežiūros, visuomenės sveikatos priežiūros ar farmacinės veiklos
-
-subjekto pagrindinę  veiklą ir  gauti papildomų pajamų jos plėtojimui,
-
-apibrėžti padalinių teisinį statusą;
-
-6)
-
-savarankiškai užmegzti sveikatinimo veiklos ryšius su vidaus ir užsienio
-
-partneriais;
-
-7)
-
-nustatyti asmens ar visuomenės sveikatos priežiūros darbų ir patarnavimų,
-
-vaistų, kitų medicininės paskirties gaminių kainas, tarifus,  darbo apmokėjimo
-
-sistemas, išskyrus tuos atvejus, kai pagal šį ir kitus įstatymus asmens ar
-
-visuomenės sveikatos priežiūros ir patarnavimų, vaistų, kitų medicininės
-
-paskirties gaminių kainas ir kitus normatyvus reguliuoja Lietuvos Respublikos
-
-Vyriausybė, savivaldybės;
-
-8)
-
-pateikti teisminius ieškinius dėl žalos, jiems padarytos neteisėtais
-
-valstybinių valdymo organų, savivaldybių valdybų, sveikatos draudimo įstaigų,
-
-taip pat pareigūnų, einant jiems tarnybines pareigas, administracinio valdymo
-
-veiksmais.
-
-Asmens
-
-ar visuomenės sveikatos priežiūros subjektai gali turėti ir kitokias teises,
-
-jeigu jos neprieštarauja šiam ir kitiems įstatymams bei asmens sveikatos
-
-priežiūros, visuomenės sveikatos priežiūros ar farmacinės veiklos subjektų
-
-steigimo dokumentams.
-
-72
-
-straipsnis. Asmens sveikatos priežiūros, visuomenės sveikatos
-
-priežiūros bei farmacinės veiklos subjektų pareigos
-
-Asmens
-
-sveikatos priežiūros, visuomenės sveikatos priežiūros bei farmacinės veiklos
-
-subjektų pareigos yra:
-
-1)
-
-laikytis šio įstatymo, kitų sveikatinimo veiklos įstatymų bei teisės aktų
-
-reikalavimų;
-
-2)
-
-sudaryti sveikas ir saugias medicinos personalo darbo sąlygas;
-
-3)
-
-stengtis užkirsti kelią pavojui bei žalai sveikatai ir aplinkai sveikatingumo
-
-veikloje, taip pat riboti šios veiklos galimą pavojų bei žalą sveikatai;
-
-4)
-
-užtikrinti jų vykdomos sveikatinimo veiklos atitikimą ak- reditacijos
-
-dokumentuose nustatytoms sąlygoms;
-
-5)
-
-užtikrinti  pagal  savo  kompetenciją  nustatytas sveikatinimo veiklos
-
-būtinąsias sąlygas;
-
-6)
-
-teikti gyventojams informaciją  apie asmens  sveikatos priežiūros, visuomenės
-
-sveikatos priežiūros įstaigas ir tarnybas, vaistines, jų veiklą ir teikiamas
-
-paslaugas ir patarnavimus;
-
-7)
-
-užtikrinti asmenų teisę gauti informaciją apie savo sveikatą ir šios
-
-informacijos konfidencialumą;
-
-8)
-
-nustatyta  tvarka  organizuoti  visuomenės  sveikatos monitoringą ir teikti
-
-sveikatos statistinę informaciją;
-
-9)
-
-laiku  informuoti  Valstybinę  visuomenės  sveikatos priežiūros tarnybą apie
-
-išaiškintus užkrečiamųjų ligų atvejus;
-
-10)
-
-organizuoti šio įstatymo, kitų įstatymų bei teisės aktų nustatyta tvarka
-
-medicinos personalo asmens sveikatos priežiūrą;
-
-11)
-
-įstatymų bei kitų teisės aktų nustatytais pagrindais ir tvarka organizuoti
-
-asmens sveikatos  priežiūros, visuomenės sveikatos priežiūros bei farmacinės
-
-veiklos subjektų civilinės atsakomybės dėl žalos sveikatai, padarytos vykdant
-
-sveikatinimo veiklą, draudimą.
-
-Asmens
-
-ar visuomenės sveikatos priežiūros subjektai gali turėti ir kitokias pareigas,
-
-jeigu jos neprieštarauja šiam ir kitiems įstatymams bei jų steigimo
-
-dokumentams.
-
-IV DALIS
-
-SVEIKATINIMO VEIKLOS VALDYMO PAGRINDAI
-
-I SKYRIUS. SVEIKATOS RĖMIMO BŪDAI IR PRIEMONĖS
-
-73
-
-straipsnis. Sveikatos santykių valstybinio reguliavimo ekonominės
-
-priemonės
-
-Sveikatos
-
-santykiai reguliuojami taikant įstatymų, kitų teisės aktų reglamentuojamas
-
-ekonomines priemones:
-
-1)
-
-mokesčius;
-
-2)
-
-privalomojo sveikatos draudimo lėšas;
-
-3)
-
-savanoriškojo sveikatos draudimo lėšas;
-
-4)
-
-draudimo nuo nelaimingų atsitikimų ir profesinių ligų lėšas;
-
-5)
-
-kitų rūšių draudimo įmokas;
-
-6)
-
-valstybės biudžeto tikslines subsidijas;
-
-7)
-
-lengvatines paskolas;
-
-8)
-
-kainodaros politiką;
-
-9)
-
-licencijas;
-
-10)
-
-ekonomines sankcijas už sveikatinimo veiklos įstatymų ir kitų teisės aktų
-
-pažeidimus;
-
-11)
-
-kitas ekonomines priemones.
-
-74
-
-straipsnis. Valstybės biudžeto tikslinių subsidijų naudojimas
-
-sveikatinimo veiklai remti
-
-Tikslinių
-
-valstybės biudžeto dotacijų skirstymo sveikatinimo veiklai remti prioritetai
-
-yra:
-
-1)
-
-privalomojo sveikatinimo veiklos lygio užtikrinimas;
-
-2)
-
-brangios medicininės technologijos, aparatūros, įrangos įsigijimas ir
-
-įdiegimas valstybinėse  asmens ir visuomenės sveikatos priežiūros įstaigose,
-
-valstybinėse vaistinėse;
-
-3)
-
-ypatingų visuomenės  sveikatai situacijų  (epidemijų, gaivalinių nelaimių,
-
-ekologinių katastrofų) sukeltų neigiamų gyventojų sveikatai pasekmių šalinimas;
-
-4)
-
-kitos Lietuvos Respublikos Vyriausybės nustatytos asmens ir visuomenės
-
-sveikatos priežiūros reikmės.
-
-Konkrečius
-
-subsidijų objektus nustato Lietuvos Respublikos Vyriausybė.
-
-75
-
-straipsnis. Lengvatinių paskolų taikymas
-
-Juridiniams
-
-ir fiziniams asmenims, kurie yra privalomųjų valstybinių, savivaldybių
-
-sveikatos programų  užsakovai  ir nustatyta tvarka yra jas aprobavę,
-
-valstybinėms vaistų tiekimo įmonėms, gavusiems  banko paskolas atitinkamai šių
-
-programų įgyvendinimui ar būtinojo asortimento vaistų ir kitų medicininės
-
-paskirties gaminių tiekimui į Lietuvos Respubliką, Lietuvos Respublikos
-
-Vyriausybės nustatyta tvarka iš valstybės ar savival- dybių biudžetų
-
-padengiamos gautų paskolų palūkanos.
-
-76
-
-straipsnis. Privalomojo sveikatinimo veiklos lygio priemonių
-
-įkainių  ir  paslaugų bei patarnavimų  tarifų nustatymo tvarka
-
-Privalomojo
-
-sveikatinimo veiklos lygio priemonių ir paslaugų bei patarnavimų bazinius
-
-įkainius ir tarifus tvirtina Lietuvos Respublikos Vyriausybė ar jos pavedimu
-
-Sveikatos ministerija. Ši nustato jas vienodas visoje valstybėje, suderinusi su
-
-Valstybine kainų ir  konkurencijos tarnyba,  Valstybine  ligonių  kasa,
-
-Valstybine visuomenės sveikatos priežiūros tarnyba bei kitais suinteresuotais
-
-sveikatinimo  veiklos valdymo subjektais. Jei einamaisiais biudžetiniais
-
-metais, likus vienam mėnesiui iki jų pabaigos, Sveikatos ministerija nesudera
-
-dėl įkainių nustatymo, juos tvirtina  Lietuvos Respublikos  Vyriausybė.  Privalomojo
-
-sveikatinimo lygio darbų ir patarnavimų kainas ir tarifus Lietuvos Respublikos
-
-Vyriausybė indeksuoja ne rečiau kaip vieną kartą per ketvirtį, jeigu
-
-infliacijos lygis  per ketvirtį viršija 10 procentų.
-
-77
-
-straipsnis. Privalomojo sveikatinimo veiklos lygio priemonių ir
-
-paslaugų bei patarnavimų kaštų gyventojams kompensavimas
-
-Valstybės
-
-ir  savivaldybių  remiama  asmens  sveikatos priežiūra, paslaugos ir
-
-patarnavimai, pagal Lietuvos Respublikos Vyriausybės nustatytas šiai sveikatos
-
-priežiūrai reikalingų ligų diagnostikos būtinųjų priemonių, būtinojo
-
-asortimento vaistų ir kitų medicininės paskirties gaminių bazines kainas,
-
-Lietuvos Respublikos piliečiams  ir asmenims  be pilietybės,  nuolat
-
-gyvenantiems Lietuvoje, yra nemokami.
-
-Skirtumai
-
-tarp valstybės ar savivaldybių remiamos asmens sveikatos priežiūros bazinių ir
-
-realių kaštų padengiami įstatymo nustatyta tvarka iš privalomojo sveikatos
-
-draudimo lėšų.
-
-78
-
-straipsnis. Kitų sveikatinimo veiklos priemonių ir paslaugų bei
-
-patarnavimų kaštų kompensavimas iš  privalomojo
-
-sveikatos draudimo lėšų
-
-Asmenims,
-
-kuriems pagal  šio įstatymo 18 ir 19 straipsnius netaikoma valstybės ar
-
-savivaldybių remiama asmens sveikatos priežiūra, palaugos  ir patarnavimai,
-
-asmens ir visuomenės sveikatos priežiūros, paslaugų ir patarnavimų kaštų
-
-kompensavimo tvarką iš privalomojo sveikatos draudimo lėšų nustato įstatymai ir
-
-kiti teisės aktai.
-
-79
-
-straipsnis. Sveikatos priežiūros specialistų profesinio
-
-lavinimosi skatinimas
-
-Valstybinių
-
-ar savivaldybių asmens ir visuomenės sveikatos priežiūros įstaigų ir tarnybų
-
-medicinos specialistų kvalifikacijos kėlimo ir persikvalifikavimo išlaidos
-
-Lietuvos    Respublikos Vyriausybės nustatyta tvarka ir sąlygomis yra
-
-padengiamos iš valstybės ar savivaldybių biudžetų lėšų, jeigu kitų šių išlaidų
-
-padengimo šaltinių nenustato kiti įstatymai.
-
-Farmacijos
-
-įmonių specialistų kvalifikacijos kėlimo ir per- sikvalifikavimo išlaidos
-
-padengiamos iš šių įmonių lėšų.
-
-80
-
-straipsnis. Įmonių ir įstaigų, akredituotų asmens sveikatos
-
-priežiūrai, civilinės atsakomybės už žalą, padarytą asmenų
-
-sveikatai vykdant asmens sveikatos priežiūrą, draudimas
-
-Įmonės
-
-ir  įstaigos,  akredituotos  asmens  sveikatos priežiūrai, privalo drausti savo
-
-civilinę atsakomybę už žalą, padarytą asmenų sveikatai vykdant asmens sveikatos
-
-priežiūrą.
-
-Įmonių
-
-ir įstaigų, akredituotų asmens sveikatos priežiūrai, civilinės atsakomybės už žalą,
-
-padarytą asmenų sveikatai vykdant asmens sveikatos priežiūrą, privalomojo
-
-draudimo sutarčių sąlygas ir sudarymo tvarką, privalomojo draudimo lėšų
-
-šaltinius ir jų lėšų panaudojimo  tvarką nustato  Draudimo įstatymas,  kiti
-
-įstatymai bei teisės aktai.
-
-81
-
-straipsnis. Parama sveikatos priežiūros įstaigoms, sveikatos
-
-programų įgyvendinimui, gyventojų sveikatos priežiūrai
-
-Paramos
-
-asmens ir visuomenės sveikatos priežiūros įstaigoms, sveikatos programų
-
-įgyvendinimui tvarką nustato Labdaros ir paramos įstatymas.
-
-Gyventojų
-
-grupių,  kurių sveikatai  daro didelę  įtaką sveikatos  rizikos  faktoriai,
-
-išskyrus  sveikatos  rizikos faktorius, kuriuos  lemia jų  žalingi įpročiai,
-
-asmens ar visuomenės sveikatos  priežiūros kaštai Lietuvos Respublikos
-
-Vyriausybės ar savivaldybių nustatyta tvarka gali būti padengiami iš
-
-valstybinėms, savivaldybių sveikatos programoms skirtų lėšų. Tokias gyventojų
-
-grupes nustato Sveikatos ministerija.
-
-82
-
-straipsnis. Visuomeninių organizacijų, ginančių visuomenės
-
-sveikatos interesus, veiklos programų rėmimas
-
-Visuomeninių
-
-organizacijų,  ginančių visuomenės sveikatos interesus, veiklos programų
-
-rėmimui nustatyta tvarka gali būti naudojamos Valstybinio sveikatos fondo, savivaldybių
-
-sveikatos fondų, įmonių, įstaigų, organizacijų, konfesijų, kitų juridinių ir
-
-fizinių asmenų sveikatos fondų lėšos. Rėmimo iš šių fondų lėšų pagrindus ir
-
-tvarką nustato Lietuvos Respublikos Vyriausybė.
-
-straipsniai, 35 straipsnio antroji dalis, 36 straipsnis, 37 straipsnio antroji
+ekspertizės tvarką reglamentuoja įstatymai ir kiti teisės aktai.
 
 37 straipsnis.
 
-Atrankiniai asmenų sveikatos patikrinimai
+Visuomenės sveikatos kontrolė
 
-Atrankiniai
+1. Visuomenės sveikatos kontrolės tvarką
 
-asmenų  sveikatos  tyrimai  atliekami  Sveikatos
+nustato įstatymai ir kiti teisės aktai. Visuomenės sveikatos kontrolės
 
-ministerijos
+įgyvendinimą koordinuoja Sveikatos apsaugos ministerija.
 
-sprendimu ir jos nustatyta tvarka.
+2. Visuomenės sveikatos kontrolė yra:
 
-Respondentų
+1) valstybinė visuomenės sveikatos kontrolė;
 
-visumą,  kuriems atliekami atrankiniai sveikatos
+2) savivaldybių visuomenės sveikatos
 
-patikrinimai, ir
+kontrolė.
 
-statistinės informacijos  surinkimo, kaupimo ir
+3. Valstybinės visuomenės sveikatos kontrolės
 
-apdorojimo būdus
+rūšys yra:
 
-nustato sveikatos informacinės tarnybos.
+1) valstybinė alkoholio kontrolė;
+
+2) valstybinė tabako kontrolė;
+
+3) valstybinė narkotinių, psichotropinių
+
+medžiagų ir jų pirmtakų (toliau - narkotikų) kontrolė;
+
+4) valstybinė saugos darbe kontrolė (kiek tai
+
+susiję su darbo higienos norminių aktų laikymosi kontrole);
+
+5) valstybinė veterinarijos kontrolė (kiek
+
+tai susiję su bendrų žmonėms ir gyvūnams užkrečiamųjų ligų epidemiologine
+
+priežiūra);
+
+6) valstybinė aplinkos kontrolė (kiek tai
+
+susiję su aplinkos taršos, kenkiančios sveikatai, prevencija ir ribojimu);
+
+7) valstybinė radiacinės saugos kontrolė;
+
+8) valstybinė maisto ir ne maisto produktų
+
+saugos kontrolė;
+
+9) valstybinė higienos kontrolė.
+
+4. Savivaldybių visuomenės sveikatos kontrolė
+
+apima savivaldybių tarybų patvirtintų sanitarijos ir higienos taisyklių
+
+reikalavimų vykdymo kontrolę.
+
+III DALIS
+
+SVEIKATINIMO VEIKLOS VALSTYBINIS VALDYMAS
+
+I SKYRIUS
+
+SVEIKATINIMO VEIKLOS FINANSAVIMO IR
+
+EKONOMINIO REGULIAVIMO YPATYBĖS
+
+38
+
+straipsnis. LNSS vykdomųjų subjektų vykdomos sveikatos priežiūros finansavimo
+
+šaltiniai
+
+1. LNSS vykdomųjų subjektų vykdomos sveikatos
+
+priežiūros ir teikiamų paslaugų finansavimo šaltiniai yra:
+
+1) valstybės ar savivaldybių biudžetų lėšos;
+
+2) privalomojo sveikatos draudimo fondo
+
+biudžeto lėšos;
+
+3) draudimo nuo nelaimingų atsitikimų darbe
+
+ir susirgimų profesinėmis ligomis lėšos;
+
+4) savanoriškojo sveikatos draudimo lėšos;
+
+5) šio įstatymo reglamentuojamų sveikatos
+
+fondų lėšos;
+
+6) lėšos už mokamas paslaugas;
+
+7) palūkanos, mokamos už bankuose saugomas
+
+asmens ar visuomenės sveikatos priežiūros įstaigų lėšas.
+
+2. LNSS vykdomųjų subjektų finansavimo iš
+
+privalomojo sveikatos draudimo fondo biudžeto lėšų tvarką nustato Sveikatos
+
+draudimo įstatymas.
+
+39
+
+straipsnis. Bazinis Lietuvos nacionalinės sveikatos sistemos veiklos
+
+finansavimo dydis
+
+Bazinis Lietuvos nacionalinės sveikatos
+
+sistemos veiklos finansavimo dydis, įskaitant valstybės biudžeto, savivaldybių
+
+biudžetų lėšas bei privalomojo sveikatos draudimo fondo biudžeto lėšas,
+
+kiekvienais metais turi sudaryti ne mažiau kaip 5 procentus bendrojo vidinio
+
+produkto vertės.
 
 dalis, 38 straipsnis, 39  straipsnio pirmoji,  antroji, ketvirtoji ir penktoji
 
@@ -5764,291 +2038,129 @@ SKIRSNIS. ATSTATOMOJI MEDICINOS PAGALBA
 
 40 straipsnis.
 
-Būtinoji medicinos pagalba
+Valstybinis sveikatos fondas
 
-Būtinajai
+1. Valstybinis sveikatos fondas sudaromas
 
-medicinos pagalbai priskiriama:
+siekiant sukaupti lėšų privalomosioms valstybinėms sveikatos programoms
 
-1) pirmoji
+finansuoti ir visuomeninių organizacijų programoms sveikatos stiprinimo srityje
 
-medicinos pagalba;
+remti. Valstybinį sveikatos fondą sudaro, jo sąmatą tvirtina, juo disponuoja
 
-2) institucinė
+bei nustatyta tvarka jo lėšas naudoja Sveikatos apsaugos ministerija. Šio fondo
 
-(nestacionarinė   ar   stacionarinė)   skubi
+nuostatus tvirtina Vyriausybė.
 
-medicinos pagalba.
+2. Valstybinio sveikatos fondo lėšų šaltiniai
 
-Asmenims,
+yra:
 
-kuriems   dėl  nelaimingo   atsitikimo,  avarijų,
+1) Seimo nustatyti valstybės biudžeto
 
-ekologinių  ir
+asignavimai (įskaitant akcizų įmokų dalį už alkoholio ir tabako gaminius bei
 
-gaivalinių  nelaimių  arba  dėl  ūmaus  susirgimo
+ekonominių sankcijų už sveikatinimo veiklos teisės aktų pažeidimus dalį),
 
-gelbstint gyvybę
+skirti valstybinėms sveikatos programoms;
 
-yra būtina medicinos pagalba, pirmąją medicinos
+2) ne mažiau kaip 0,7 procento privalomojo
 
-pagalbą privalo
+sveikatos draudimo fondo biudžeto lėšų;
 
-neatidėliotinai suteikti medicinos ar farmacijos
+3) savanoriškos fizinių ar juridinių asmenų
 
-specialistai,
+įmokos;
 
-buvę   kartu  su   nukentėjusiais   ar   ligoniais
+4) palūkanos, mokamos už bankuose saugomas
 
-nelaimingų
+šio fondo lėšas;
 
-atsitikimų   ar  ūmaus  gyvybei  pavojingo  susirgimo
-
-vietose.
-
-Nestacionarinę
-
-skubią  medicinos pagalbą  nukentėjusiems  ar
-
-staigiai
-
-susirgusiems privalo teikti:
-
-1) skubios
-
-medicinos pagalbos mobilios tarnybos;
-
-2)
-
-nukentėjusiam ar  ūmiai susirgusiam  - artimiausia asmens
-
-sveikatos priežiūros
-
-įstaiga.
-
-Stacionarinę
-
-skubią  medicinos pagalbą  teikia stacionarinės
-
-specializuotos
-
-medicinos  pagalbos įstaigos ar medicinos pagalbos
-
-įstaigų
-
-specializuoti skyriai šiai pagalbai teikti.
-
-Jeigu asmens
-
-gyvybei gresia  realus  pavojus,  stacionarinė
-
-skubi medicinos
-
-pagalba gali  būti  suteikta  ir  be  to  asmens
-
-sutikimo, ne  mažiau
-
-kaip  dviejų gydytojų  konsiliumui  nutarus,
-
-informavus ligonį,
-
-jo šeimos  narius  ar  jo  atstovą,  o  jeigu
-
-nukentėjęs ar
-
-ūmiai  susirgęs  yra  nepilnametis,  -  jo  tėvus,
-
-globėjus apie
-
-suteiktą medicinos pagalbą.
-
-Būtinosios
-
-medicinos pagalbos turinį, jos teikimo pagrindus,
-
-sąlygas ir tvarką,
-
-asmens sveikatos priežiūros įstaigų, medicinos
-
-ir  farmacijos
-
-specialistų  kompetenciją  būtinosios  medicinos
-
-pagalbos  teikimo
-
-klausimais  nustato   Sveikatos  ministerija.
-
-Skubios medicinos
-
-pagalbos mobilių tarnybų struktūrą, steigimo ir
-
-finansavimo tvarką,
-
-kompetenciją nustato  Sveikatos ministerija,
-
-neviršydama skirtų
-
-lėšų.
-
-Asmenims,  kurie
-
-šio  įstatymo  ir  kitų  teisės  aktų  yra
-
-įpareigoti teikti
-
-būtinąją medicinos  pagalbą, savo neveikimu ar
-
-veikimu
-
-padidinusiems nukentėjusių ar staigiai  susirgusių asmenų
-
-sveikatos
-
-pakenkimą,   taikoma  įstatymų   nustatyta  drausminė,
-
-materialinė,
-
-administracinė ir baudžiamoji atsakomybė.
+5) kitos teisėtai įgytos lėšos.
 
 41 straipsnis.
 
-Diagnostikos ir gydymo priemonių taikymas
+Savivaldybių sveikatos fondai
 
-Ligų
+1. Tipinius savivaldybių sveikatos fondo
 
-diagnostikos  priemonių, taikomų  Lietuvos  Respublikos
+nuostatus tvirtina Seimas. Savivaldybių sveikatos fondai sudaromi norint
 
-medicinos pagalbos
+sukaupti lėšų savivaldybių visuomenės sveikatos programoms remti. Savivaldybės
 
-įstaigose, mastai  turi būti  ne  mažesni  už
+sveikatos fondą sudaro ir jo nuostatus, remdamasi Tipiniais savivaldybių
 
-tuos, kurie  yra
+sveikatos fondų nuostatais, tvirtina savivaldybės taryba.
 
-nustatyti  ligų diagnostikos  būtinųjų priemonių
+2. Savivaldybių sveikatos fondų lėšų
 
-sąrašuose.
+šaltiniai yra:
 
-Medicinos
+1) nustatyta savivaldybės biudžeto asignavimų
 
-pagalbos  specialistai turi  teisę pasirinkti  šio
+dalis;
 
-įstatymo ir  kitų
+2) ne mažiau kaip 0,3 procento privalomojo
 
-teisės  aktų nustatyta tvarka aprobuotas gydymo
+sveikatos draudimo fondo biudžeto, atsižvelgiant į gyventojų skaičių;
 
-technologijas.
+3) savanoriškos fizinių ar juridinių asmenų
 
-Gydymo   technologijų  taikymo   tvarką   nustato
+įmokos;
 
-sveikatos priežiūros
+4) palūkanos, mokamos už bankuose saugomas
 
-standartizacijos norminiai dokumentai.
+šio fondo lėšas;
 
-Vaistai yra
+5) ne mažesni kaip 20 procentų savivaldybių
 
-priskiriami diagnostikos bei gydymo priemonėms,
+gamtos apsaugos fondo lėšų atskaitymai;
 
-jeigu:
+6) kitos teisėtai įgytos lėšos.
 
-1) juos skiria
+42
 
-gydytojas ar kitas asmuo, turintis teisę juos
+straipsnis. Įmonių, įstaigų, organizacijų, religinių bendruomenių ir bendrijų,
 
-skirti;
+kitų juridinių ir fizinių asmenų sveikatos fondai
 
-2)  jie   yra
+1. Įmonės, įstaigos, išskyrus biudžetines
 
-nustatyta   tvarka   įregistruoti   Lietuvos
+įstaigas, organizacijos, religinės bendruomenės ir bendrijos, kiti juridiniai
 
-Respublikoje.
+ir fiziniai asmenys turi teisę sudaryti sveikatos fondus (toliau - įmonių
 
-Medicinos
+sveikatos fondai), kurių lėšos naudojamos savivaldybių sveikatos programoms
 
-specialistas  gali  panaudoti  naujus,  moksliškai
+remti, įmonės, įstaigos ar organizacijos sveikatos saugos ar sveikatos
 
-pagrįstus, bet  dar
+stiprinimo programai finansuoti, įmonių darbuotojams savanorišku sveikatos
 
-neįregistruotus  nustatyta  tvarka  vaistus,
+draudimu apdrausti, įmonių, įstaigų ir organizacijų darbuotojų darbo higienos
 
-profilaktikos,
+įvertinimo ir sergamumo tyrimo darbams vykdyti. Šių sveikatos fondų sudarymo
 
-diagnostikos   ir  gydymo   metodus,   medicininę
+bei jų lėšų naudojimo tvarka nustatoma pavyzdiniuose nuostatuose, kuriuos
 
-aparatūrą  ir
+tvirtina Vyriausybės įgaliota institucija. Šio fondo išlaidų sąmatą tvirtina jo
 
-instrumentus  tik  stengdamasis  ligonį  išgydyti,
+steigėjas (steigėjai).
 
-išgelbėti ar
+2. Įmonių sveikatos fondų pajamas sudaro:
 
-pratęsti jo  gyvybę. Šiuo  atveju jis privalo gauti
+1) įmonės, įstaigos pelno (pajamų) dalis,
 
-ligonio, o jeigu
+pervedama į tos įmonės ar įstaigos sveikatos fondą;
 
-ligonis nesąmoningos būsenos arba nepilnametis -
+2) juridinių ir fizinių asmenų savanoriškos
 
-jo tėvų,  artimųjų,
+įmokos;
 
-globėjų  ar jo  atstovo, taip  pat  medicinos
+3) palūkanos, mokamos už bankuose saugomas
 
-pagalbos įstaigos
+fondo lėšas;
 
-medicinos etikos  komisijos sutikimą dėl tokių
-
-asmens  sveikatos
-
-priežiūros   technologijų   naudojimo.   Toks
-
-sutikimas turi  būti
-
-patvirtintas  raštiškai.    Kai  ligonis yra
-
-nesąmoningos būsenos
-
-ir kai nėra jokių žinių apie jo artimuosius,
-
-tėvus, globėjus  ar
-
-jo  atstovą,  šios  technologijos  gali  būti
-
-taikomos tik
-
-raštiškai pritarus ne mažiau kaip dviejų atitinkamos
-
-specialybės
-
-gydytojų  konsiliumui bei medicinos pagalbos įstaigos
-
-medicinos etikos
-
-komisijai.
-
-Priverstinės
-
-hospitalizacijos, priverstinės diagnostikos bei
-
-priverstinio
-
-gydymo   priemonių  taikymas  asmenims  galimi  tik
-
-įstatymų nustatytais
-
-pagrindais ir tvarka, esant realiai grėsmei,
-
-kad šie  asmenys
-
-veiksmais  ar dėl  savo  sveikatos  būklės  gali
-
-padaryti esminę
-
-žalą  savo sveikatai, gyvybei arba aplinkinių as-
-
-menų sveikatai,
-
-gyvybei. Medicinos  specialistai, pažeidę  šiuos
-
-reikalavimus, atsako
-
-įstatymų nustatyta tvarka.
+4) kitos teisėtai įgytos lėšos.
 
 42 straipsnis.
 
@@ -6136,7 +2248,71 @@ pažeidę   šio  straipsnio   reikalavimus,   atsako
 
 tvarka.
 
-ketvirtoji ir penktoji dalys, 43 straipsnis, 44 straipsnis, 45 straipsnio
+43 straipsnis.
+
+Sveikatos santykių valstybinio reguliavimo ekonominės
+
+priemonės
+
+Sveikatos santykiai reguliuojami taikant
+
+įstatymų, kitų teisės aktų reglamentuojamas ekonomines priemones:
+
+1) mokesčius;
+
+2) privalomojo sveikatos draudimo lėšas;
+
+3) savanoriškojo sveikatos draudimo lėšas;
+
+4) draudimo nuo nelaimingų atsitikimų darbe
+
+ir susirgimų profesinėmis ligomis lėšas;
+
+5) kitų rūšių draudimo įmokas;
+
+6) valstybės biudžeto tikslines dotacijas;
+
+7) lengvatines paskolas;
+
+8) kainodaros politiką;
+
+9) licencijas;
+
+10) ekonomines sankcijas už sveikatinimo
+
+veiklos įstatymų ir kitų teisės aktų pažeidimus;
+
+11) kitas ekonomines priemones.
+
+44
+
+straipsnis. Valstybės biudžeto tikslinių dotacijų skyrimo sveikatinimo veiklai
+
+remti prioritetai
+
+1. Valstybės biudžeto tikslinių dotacijų
+
+skyrimo sveikatinimo veiklai remti prioritetai yra:
+
+1) integracijos į Europos Sąjungą proceso
+
+užtikrinimas;
+
+2) ekstremalių visuomenės sveikatai situacijų
+
+(epidemijų, gaivalinių nelaimių, ekologinių katastrofų) sukeltų neigiamų
+
+gyventojų sveikatai pasekmių šalinimas;
+
+3) kiti Vyriausybės ar jos įgaliotos
+
+institucijos patvirtinti prioritetai.
+
+2. Konkrečius dotuojamus objektus ir
+
+sveikatinimo veiklos priemones nustato Vyriausybė Sveikatos apsaugos
+
+ministerijos teikimu.
 
 44 straipsnis.
 
@@ -6188,193 +2364,345 @@ nustato Lietuvos Respublikos Vyriausybė.
 
 45 straipsnis.
 
-Žmonių slauga
+Investicijos sveikatinimo veiklai ir jų skatinimas
 
-Žmonės slaugomi
+1. Investicijomis sveikatinimo veiklai
 
-namuose, kur jie gyvena, medicinos pagalbos,
+laikomas lėšų skyrimas ir naudojimas sveikatos priežiūros paslaugų asortimentui
 
-slaugos bei
+plėsti, naujoms sveikatos priežiūros technologijoms įsigyti ir įdiegti,
 
-socialinės globos institucijose.
+valstybinėms ir savivaldybių sveikatos programoms įgyvendinti, sveikatos
 
-Negalios
+priežiūros prieinamumui ir tinkamumui gerinti, sveikatos informacinėms
 
-ištiktų   asmenų,  senų   žmonių  slaugos  turinį,
+sistemoms kurti.
 
-sąlygas, jos
+2. Investicijų sveikatinimo veiklai
 
-organizavimo tvarką  nustato  Lietuvos  Respublikos
-
-Vyriausybė.
+ekonominio skatinimo tvarką nustato įstatymai ir kiti teisės aktai.
 
 46 straipsnis.
 
-Asmens medicinos pagalbos teikiamos
+Sveikatinimo veiklos planavimas
 
-socialinės     paslaugos ir   socialinė globa
+1. Seimas Vyriausybės teikimu tvirtina
 
-Socialinių
+Lietuvos sveikatos programą, kurioje nurodomi sveikatinimo veiklos tikslai,
 
-paslaugų  teikimas  ir  socialinė  globa  asmens
+valstybės siekiamo sveikatos lygio rodikliai ir sveikatinimo veiklos
 
-sveikatos
+strategijos jiems pasiekti.
 
-priežiūroje     organizuojama   stengiantis  sumažinti
+2. Lietuvos sveikatos programoje nustatytiems
 
-pacientų, asmenų,
+uždaviniams įgyvendinti Vyriausybė, ministerijos, kitos Vyriausybės įstaigos,
 
-ištiktų negalios,  senų žmonių  psichoemocinės
+apskričių viršininkai, savivaldybės organizuoja valstybės, apskričių (regionų)
 
-įtampos lygį,
+ir savivaldybių sveikatos programų ir įstatymų nustatytų planavimo dokumentų
 
-padėti jiems  kovoti su  stresais ir užtikrinti jų
+rengimą bei jų įgyvendinimą arba numato šių uždavinių įgyvendinimo priemones
 
-socialinį saugumą.
+kitose socialinio ir ekonominio plėtojimo programose.
 
-Socialines paslaugas teikia ir socialinę globą
+3. Sveikatos programų rengimo, finansavimo,
 
-tvarko medicinos
+įgyvendinimo ir kontrolės tvarką nustato Sveikatos apsaugos ministerija.
 
-pagalbos įstaigų socialiniai darbuotojai.
+II SKYRIUS
 
-Socialinių
+VALSTYBĖS LAIDUOJAMA (NEMOKAMA) IR
 
-paslaugų  rūšis ir  jų teikimo mastus, socialinės
-
-globos asmens
-
-sveikatos priežiūroje turinį, jos tvarką ir sąlygas
-
-nustato ir
-
-sveikatos priežiūros  sistemos socialinių  darbuotojų
-
-nuostatus tvirtina
-
-Lietuvos Respublikos Vyriausybė.
-
-Socialinių
-
-darbuotojų  rengimo ir  jų kvalifikacijos  kėlimo
-
-tvarką nustato
-
-Socialinės apsaugos ir darbo ministerija.
+SAVIVALDYBIŲ REMIAMA SVEIKATOS PRIEŽIŪRA IR JOS TEIKIMO TVARKA
 
 47 straipsnis.
 
-Paslaugos bei kiti patarnavimai, priskiriami
+Valstybės laiduojama (nemokama) sveikatos priežiūra
 
-medicinos pagalbai
+1. Valstybės laiduojamos (nemokamos)
 
-Paslaugos
+sveikatos priežiūros paslaugos apmokamos iš privalomojo sveikatos draudimo
 
-bei   kiti  patarnavimai,  priskiriami  medicinos
+fondo, valstybės ar savivaldybių biudžetų, valstybės ar savivaldybių sveikatos
 
-pagalbai, yra:
+fondų lėšų.
 
-1) farmaciniai
+2. Valstybės laiduojamai (nemokamai)
 
-patarnavimai   (recepto  priėmimas   ir   jo
+sveikatos priežiūrai priskiriama:
 
-patikrinimas,
+1) būtinoji medicinos pagalba;
 
-vaisto  parinkimas pagal  receptą ar ekvivalentinio
+2) Lietuvos Respublikos karių asmens
 
-veikimo  vaistų
+sveikatos priežiūra;
 
-parinkimas,   žodinis   ir   raštiškas   asmens
+3) papildomai per programas remiama policijos
 
-informavimas  apie
+ir kitų vidaus reikalų pareigūnų asmens sveikatos priežiūra;
 
-vaisto  vartojimo  būdą,  informacijos  apie
+4) asmenų, sulaikytų policijos, esančių
 
-vaisto saugaus
+kardomojo kalinimo vietose, nuteistųjų bei pabėgėlių ir nelegalių migrantų
 
-vartojimo sąlygas  patikslinimas, vaistų, kuriems
+asmens sveikatos priežiūra;
 
-nereikia  recepto,
+5) apdraustųjų privalomuoju sveikatos
 
-išdavimas  savigydai,     vaistų   ar   kitų
+draudimu, nurodytų Sveikatos draudimo įstatyme, asmens sveikatos priežiūra;
 
-medicininės
+6) asmenų, sergančių ligomis, kurių sąrašą
 
-paskirties  priemonių paskyrimas  atsižvelgiant į as-
+tvirtina Sveikatos apsaugos ministerija, galūnių, sąnarių, kitų organų
 
-mens nurodytas
+protezavimas;
 
-sveikatos būklės problemas ir vaistų išdavimo nus-
+7) asmenų, sergančių tuberkulioze, lytiniu
 
-tatytą tvarką,
+keliu plintančiomis ligomis, AIDS, užkrečiamosiomis, endokrininėmis, psichikos,
 
-informacijos apie vaistų prieinamumą pateikimas);
+onkologinėmis ligomis, priklausomybės nuo alkoholio sindromu, narkomanijomis,
 
-2) ligonių
+toksikomanijomis ir kitomis Sveikatos apsaugos ministerijos nustatyto sąrašo
 
-transportavimo,    protezavimo,   ortopediniai,
+ligomis, bei nėščiųjų asmens sveikatos priežiūra;
 
-aprūpinimo
+8) Sveikatos apsaugos ministerijos nustatyto
 
-kompensacine    technika,   gaminiais,    produktais
+sąrašo vaistų ir medicinos pagalbos priemonių, kompensuojamų iš privalomojo
 
-(įskaitant maisto
+sveikatos draudimo biudžeto, kompensavimas apdraustiesiems;
 
-produktus), naudojamais  medicinos  pagalboje,
+9) visuomenės sveikatos priežiūra pagal
 
-patarnavimai.
+Sveikatos apsaugos ministerijos patvirtintą būtinųjų visuomenės sveikatos
 
-Šio straipsnio
+priežiūros priemonių ir paslaugų nomenklatūrą;
 
-pirmoje dalyje  numatytos paslaugos bei kiti
+10) kraujo donorystė.
 
-patarnavimai
+3. Valstybės laiduojamos sveikatos priežiūros
 
-priskiriami medicinos pagalbai, jeigu:
+mastai numatomi įvertinus gyventojų demografinius, sveikatos ir aplinkos
 
-1) jie yra
+kokybės rodiklius bei jų kitimo tendencijas.
 
-skiriami gydytojo ar kito asmens, turinčio teisę
+48 straipsnis.
 
-juos skirti;
+Savivaldybių remiama sveikatos priežiūra
 
-2) jie yra
+Savivaldybės remia savo teritorijos gyventojų
 
-įtraukti į  skiriamų  paslaugų  bei  patarnavimų
+sveikatos priežiūrą ją papildomai finansuodamos iš savivaldybių biudžetų lėšų.
 
-sąrašą, sudarytą
+Savivaldybių remiamai sveikatos priežiūrai priskiriama:
 
-medicinos  pagalbos  subjekto  ir  jo  veiklos
+1) pirminio sveikatos priežiūros organizavimo
 
-užsakovo,
+lygio būtinoji medicinos pagalba;
 
-Sveikatos   ministerijos  ar  savivaldybių,  kai  šios
+2) nėščiųjų sveikatos priežiūra;
 
-paslaugos ir
+3) bedarbių, nedarbingų šeimos narių asmens
 
-patarnavimai priklauso  valstybės  ar  savivaldybių
+sveikatos priežiūra;
 
-remiamai asmens
+4) vaikų iki 16 metų sveikatos priežiūra;
 
-sveikatos priežiūrai.
+5) asmenų, kurių pajamos yra mažesnės už
 
-Medicinos
+valstybės remiamas, sveikatos priežiūra;
 
-pagalba  neapima  paslaugų  ir  produktų,  skirtų
+6) našlaičių iki 18 metų sveikatos priežiūra;
 
-kosmetiniams ar
+7) I grupės invalidų sveikatos priežiūra;
 
-higieniniams tikslams, net jei jie taip pat būtų
+8) nustatytų kategorijų asmenų dantų
 
-naudingi asmens
+protezavimas;
 
-sveikatai.
+9) kitos savivaldybės remiamos sveikatos
 
-IV
+priežiūros paslaugos, kurių sąrašą ir teikimo tvarką nustato savivaldybių
 
-SKIRSNIS. ASMENS SVEIKATOS EKSPERTIZĖ
+tarybos.
 
-antroji dalis, 46 straipsnio antroji  ir trečioji  dalys, 48  straipsnis, 49
+49
+
+straipsnis. Valstybės laiduojamų (nemokamų) asmens sveikatos priežiūros
+
+paslaugų teikimo LNSS įstaigose tvarka
+
+1. Teisę gauti valstybės laiduojamą
+
+(nemokamą) asmens sveikatos priežiūrą turi Lietuvos Respublikos, kitų valstybių
+
+piliečiai ir asmenys be pilietybės, nuolat gyvenantys Lietuvoje (toliau -
+
+nuolatiniai gyventojai). Būtinoji medicinos pagalba LNSS įstaigose teikiama
+
+nemokamai visiems nuolatiniams gyventojams, neatsižvelgiant į tai, ar jie
+
+apdrausti privalomuoju sveikatos draudimu, taip pat neatsižvelgiant į paciento
+
+apsilankymų įstaigoje per kalendorinius metus skaičių ir jo gyvenamąją vietą.
+
+Užsienio šalių piliečiams, asmenims be pilietybės, nepriskiriamiems
+
+nuolatiniams gyventojams, LNSS įstaigos teikia būtinąją medicinos pagalbą
+
+Sveikatos apsaugos ministerijos nustatyta tvarka, jei kitaip nenustato Lietuvos
+
+Respublikos tarptautinės sutartys.
+
+2. Valstybės laiduojamų (nemokamų) asmens
+
+sveikatos priežiūros paslaugų teikimo LNSS įstaigose esminės sąlygos yra:
+
+1) paciento kreipimasis dėl nemokamų paslaugų
+
+gavimo į pirminės sveikatos priežiūros gydytojus, kurių specialybių sąrašą
+
+nustato Sveikatos apsaugos ministerija;
+
+2) paciento kreipimasis dėl nemokamų asmens
+
+sveikatos priežiūros paslaugų gavimo į antrinės ar tretinės sveikatos
+
+priežiūros įstaigas. Šiais atvejais pacientas privalo pateikti 1 punkte
+
+nurodytų gydytojų siuntimą.
+
+3. Pacientas turi teisę pasirinkti Sveikatos
+
+apsaugos ministerijos ir Privalomojo sveikatos draudimo tarybos nustatyta
+
+tvarka LNSS pirminės sveikatos priežiūros įstaigą ir gydytoją, taip pat pagal
+
+šio straipsnio nustatytas sąlygas antrinės ar tretinės sveikatos priežiūros
+
+įstaigą ir gydytoją, kad suteiktų nemokamas asmens sveikatos priežiūros
+
+paslaugas.
+
+4. Šio straipsnio 2 dalyje išdėstytos sąlygos
+
+netaikomos pacientams, kurie kreipėsi į LNSS įstaigą dėl būtinosios medicinos
+
+pagalbos suteikimo.
+
+5.Valstybės laiduojama (nemokama) asmens
+
+sveikatos priežiūra LNSS įstaigose teikiama nemokamai, už šios priežiūros
+
+paslaugas iš paciento negali būti reikalaujama papildomo mokesčio. Jei
+
+pacientai, turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas,
+
+savo iniciatyva pasirenka brangiau kainuojančias paslaugas, medžiagas,
+
+procedūras, tai šių paslaugų, medžiagų, procedūrų faktinių kainų ir nemokamų
+
+paslaugų, medžiagų, procedūrų bazinių kainų skirtumą jie apmoka patys Sveikatos
+
+apsaugos ministerijos nustatyta tvarka. Jei pacientai, turintys teisę į
+
+nemokamas asmens sveikatos priežiūros paslaugas, savo iniciatyva pasirenka
+
+papildomas paslaugas ar procedūras, šių paslaugų ar procedūrų kainą jie apmoka
+
+patys.
+
+6. LNSS įstaigos privalo teikti informaciją
+
+gyventojams apie nemokamų asmens sveikatos priežiūros paslaugų rūšis, jų teikimo
+
+mastą ir kainas.
+
+III SKYRIUS
+
+SVEIKATINIMO VEIKLOS VALSTYBINIO VALDYMO KITI
+
+YPATUMAI
+
+50
+
+straipsnis. Sveikatos priežiūros ir farmacijos specialistų profesinės pareigos,
+
+teisės ir atsakomybė
+
+1. Pagrindines profesines sveikatos
+
+priežiūros ir farmacijos specialistų pareigas, teises, jų praktikos ribojimo
+
+tvarką, atsakomybę už padarytą žalą sveikatai nustato Gydytojų medicinos
+
+praktikos, Farmacinės veiklos, Žmonių užkrečiamųjų ligų profilaktikos ir
+
+kontrolės, Pacientų teisių ir žalos sveikatai atlyginimo įstatymai, kiti
+
+įstatymai ir teisės aktai.
+
+2. Sveikatos priežiūros ir farmacijos
+
+specialistai gali praktikuoti tik pagal įgytą specialybę, o įstatymų
+
+nustatytais atvejais - tik gavę licenciją. Specialybėms registruoti sudaromas
+
+sveikatos priežiūros ir farmacijos specialybių registras, kurio tvarkytojas yra
+
+Sveikatos apsaugos ministerija.
+
+3. Sveikatos priežiūros įstaigų specialistai,
+
+dirbantys valstybės ar savivaldybių sveikatos priežiūros įstaigose, turi teisę
+
+privačiai praktikuoti tik už šių įstaigų ribų.
+
+51
+
+straipsnis. Sveikatos priežiūros ir farmacijos specialistų profesinis
+
+tobulinimasis ir jo finansavimas
+
+1. Sveikatos priežiūros ir farmacijos
+
+specialistų profesiniu tobulinimusi rūpinasi sveikatos priežiūros ir farmacinės
+
+veiklos įstaigos, įmonės, jų steigėjai bei profesinės sveikatos priežiūros ir
+
+farmacinės veiklos specialistų organizacijos. Šių specialistų rengimo ir
+
+profesinio tobulinimosi užsakovai yra Sveikatos apsaugos ministerija ir
+
+Švietimo ir mokslo ministerija.
+
+2. Sveikatos priežiūros bei farmacijos
+
+specialistų kvalifikacijos kėlimo tvarką nustato Sveikatos apsaugos
+
+ministerija, derindama su profesinėmis sveikatos priežiūros ir farmacinės
+
+veiklos specialistų organizacijomis.
+
+3. Valstybės ir savivaldybių sveikatos
+
+priežiūros įstaigų specialistų kvalifikacijos kėlimo ir persikvalifikavimo
+
+išlaidos Sveikatos apsaugos ministerijos nustatyta tvarka ir sąlygomis yra
+
+padengiamos iš valstybės ar savivaldybių biudžetų lėšų, jeigu šių išlaidų kitų
+
+padengimo šaltinių nenustato kiti įstatymai.
+
+4. Kitų sveikatos priežiūros ir farmacijos
+
+įstaigų ir įmonių specialistų kvalifikacijos kėlimo, persikvalifikavimo ir
+
+profesinio tobulinimosi išlaidos padengiamos iš šių įstaigų ir įmonių ar pačių
+
+specialistų lėšų.
 
 49 straipsnis.
 
@@ -6398,49 +2726,143 @@ straipsnis, 50 straipsnis, 51 straipsnis, 52 straipsnis, 53 straipsnis, 55
 
 straipsnis, 51 straipsnis, 52 straipsnis, 53 straipsnis, 55 straipsnio antroji,
 
-52 straipsnis.
+52 straipsnis. Asmens
 
-Teisės psichiatrinė ir teisės narkologinė
+sveikatos informacijos viešumo ribojimas
 
-ekspertizė
+1. Asmens sveikatos informacijos viešumas yra
 
-Teisės
+ribojamas norint užtikrinti asmens privataus gyvenimo ir jo asmens sveikatos
 
-psichiatrinė,  teisės narkologinė  ekspertizė  daroma
+paslapties neliečiamumą.
 
-remiantis kvotos,
+2. Draudžiama skelbti visuomenės informavimo
 
-tardymo organų ar prokuroro nutarimu, taip pat
+priemonėse informaciją apie asmens sveikatą be raštiško jo sutikimo.
 
-teismo
+Informacijos apie asmens sveikatą kompiuteriuose apsauga privalo garantuoti jos
 
-nutartimi.   Ekspertizes   atlieka   Valstybinė   teisės
+konfidencialumą.
 
-psichiatrijos ir
+3. Asmens ar visuomenės sveikatos priežiūros
 
-narkologijos tarnyba.  Ekspertizės organizavimo
+specialistams draudžiama, išskyrus įstatymuose numatytus atvejus, pažeisti
 
-ir atlikimo tvarką
+asmens privataus gyvenimo ar asmens sveikatos informacijos, kuri sudaro asmens
 
-nustato Lietuvos Respublikos Vyriausybė.
+sveikatos paslaptį ir kurią jie sužinojo eidami profesines pareigas,
+
+konfidencialumą.
+
+4. Asmens sveikatos paslapties kriterijus
+
+nustato Sveikatos apsaugos ministerija.
 
 53 straipsnis.
 
-Patologoanatominė ekspertizė
+Medicininis ir visuomenės sveikatos priežiūros auditas
 
-Patologoanatominė  ekspertizė   atliekama  asmeniui   mirus.
+1. Kiekvienos asmens ar visuomenės sveikatos
 
-Lavono
+priežiūros įstaigos, įmonės, turinčios teisę vykdyti asmens ar visuomenės
 
-patologoanatominio  tyrimo (autopsijos)  sąlygas ir tvarką
+sveikatos priežiūrą, administracija privalo organizuoti lokalinį medicininį ar
 
-reglamentuoja
+visuomenės sveikatos priežiūros auditą Sveikatos apsaugos ministerijos
 
-įstatymai ir kiti teisės aktai.
+nustatyta tvarka.
 
-III
+2. Asmens ir visuomenės sveikatos priežiūros
 
-SKYRIUS. VISUOMENĖS SVEIKATOS PRIEŽIŪRA
+įstaigų ir įmonių, kurios verčiasi asmens ar visuomenės sveikatos priežiūros
+
+veikla, valstybinį medicininį ar visuomenės sveikatos priežiūros auditą pagal
+
+kompetenciją atlieka Sveikatos apsaugos ministerijos įgaliota institucija.
+
+54
+
+straipsnis. Asmens ir visuomenės sveikatos priežiūros technologijų įvertinimas
+
+1. Draudžiama naudoti neįvertintas ar
+
+neaprobuotas asmens sveikatos ir visuomenės sveikatos priežiūros technologijas,
+
+išskyrus įstatymų numatytais atvejais.
+
+2. Asmens ir visuomenės sveikatos priežiūros
+
+technologijų įvertinimo ir aprobavimo tvarką nustato Sveikatos apsaugos
+
+ministerija.
+
+55
+
+straipsnis. Sveikatinimo veiklos mokslinių tyrimų organizavimo ir finansavimo
+
+ypatumai
+
+1. Taikomųjų biomedicininių ir visuomenės
+
+sveikatos tyrimų prioritetus nustato, tyrimus užsako, finansuoja ir jų kontrolę
+
+vykdo Sveikatos apsaugos ministerija.
+
+2. Draudžiama vykdyti biomedicininius tyrimus
+
+be Lietuvos medicinos etikos komiteto leidimo. Biomedicininių tyrimų etikos
+
+reikalavimus ir jų kontrolės tvarką nustato įstatymai ir kiti teisės aktai.
+
+3. Sveikatos priežiūrai skirtos valstybės ir
+
+savivaldybių biudžetų lėšos gali būti naudojamos ir sveikatinimo veiklos
+
+moksliniams taikomiesiems tyrimams finansuoti. Sveikatinimo veiklos moksliniams
+
+fundamentiniams tyrimams finansuoti naudojamos mokslui ir techninei pažangai
+
+skirtos valstybės biudžeto lėšos.
+
+56
+
+straipsnis. Sveikatos priežiūros rėmimo iš sveikatos programoms skirtų lėšų
+
+tvarka
+
+Gyventojų grupių, kurių sveikatai daro didelę
+
+įtaką sveikatos rizikos faktoriai, išskyrus sveikatos rizikos faktorius,
+
+kuriuos lemia žalingi įpročiai, asmens ar visuomenės sveikatos priežiūros
+
+išlaidos Sveikatos apsaugos ministerijos nustatyta tvarka gali būti padengiamos
+
+iš valstybinių, savivaldybių sveikatos programoms skirtų lėšų.
+
+57
+
+straipsnis. Prekių, gaminių ir paslaugų, galinčių daryti įtaką sveikatai,
+
+reklamos ribojimas ar draudimas
+
+1. Lietuvos Respublikoje ribojama arba
+
+draudžiama prekių, gaminių bei paslaugų, galinčių daryti kenksmingą įtaką
+
+sveikatai, reklama. Tokių prekių, gaminių ir paslaugų reklamos ribojimo ar
+
+draudimo tvarką nustato įstatymai ir kiti teisės aktai.
+
+2. Tabako ir jo gaminių reklama Lietuvos
+
+Respublikoje draudžiama. Alkoholio produktų ir alkoholinių gėrimų reklama
+
+ribojama ar draudžiama Alkoholio kontrolės įstatymo nustatyta tvarka.
+
+3. Vaistų reklamos ribojimo ypatumus nustato
+
+Farmacinės veiklos įstatymas.
 
 54 straipsnis.
 
@@ -6648,217 +3070,501 @@ pagal įstatymus.
 
 58 straipsnis.
 
-Ypatingos visuomenės sveikatai situacijos
+Sveikatinimo veiklos sutartys ir jų sąlygos
 
-Ypatinga
+1. Sveikatinimo veiklos sutartys sudaromos
 
-visuomenės   sveikatai  situacija   -  tai  tokios
+valstybės ar savivaldybių ir kitų subjektų sveikatos programoms vykdyti bei
 
-visuomenės
+sveikatos priežiūros paslaugoms teikti. Sveikatinimo veiklos sutartys sudaromos
 
-sveikatos  raidos aplinkybės,  kai  aplinkos  veiksnių
+raštu. Kiekvienoje sveikatinimo veiklos sutartyje šalys privalo sulygti dėl šių
 
-poveikis lemia
+sąlygų:
 
-staigų:
+1) teikiamų sveikatinimo paslaugų rūšių, jų
 
-1)
+nomenklatūros, teikimo masto ir terminų;
 
-grupinių ar  masinių sveikatos  pakenkimų pavojaus
+2) paslaugoms apmokėti reikalingų išlaidų
 
-atsiradimą;
+padengimo;
 
-2)
+3) sveikatinimo veiklos sutarties pakeitimo,
 
-grupinių  ar masinių gyventojų sveikatos pakenkimų
+papildymo ir nutraukimo tvarkos;
 
-atsiradimą.
+4) paslaugų tinkamumo ir organizacinio bei
 
-Teritorija,
+teritorinio prieinamumo reikalavimų, jeigu teisės aktuose šie reikalavimai nėra
 
-kurioje staigiai atsiranda grupinių ar masinių
+nustatyti;
 
-sveikatos pakenkimų
+5) netesybų dėl sutarties įsipareigojimų
 
-pavojus,  Lietuvos  Respublikos  Vyriausybės
+netinkamo vykdymo, nevykdymo ar jos vienašalio nutraukimo, įskaitant netesybas
 
-sprendimu yra
+už nustatytų sveikatos priežiūros būtinųjų sąlygų reikalavimų nesilaikymą;
 
-skelbiama pavojaus visuomenės sveikatai rajonu.
+6) sutarties įsipareigojimų vykdymo ir jų
 
-Teritorija,
+kontrolės, tvarkos bei terminų;
 
-kurioje   pakenkiama   gyventojų   grupių   ar
-
-pakenkiama didelės
-
-gyventojų masės sveikata, Lietuvos Respublikos
-
-Vyriausybės
-
-sprendimu  yra skelbiama  žalos visuomenės  sveikatai
-
-rajonu.
-
-Ypatingų
-
-visuomenės    sveikatai    situacijų    nustatymo
-
-kriterijus,
-
-ypatingų  visuomenės  sveikatai  situacijų  valdymo,
-
-kontrolės,
-
-neigiamų   pasekmių  visuomenės  sveikatai  ir  ūkiui
-
-šalinimo priemonių
-
-bei jų  finansavimo tvarką  tvirtina Lietuvos
-
-Respublikos
-
-Vyriausybė.
+7) kitų sąlygų, nustatomų šalių susitarimu.
 
 59 straipsnis.
 
-Neinfekcinių ligų ir traumų profilaktika ir
+Normatyvinių dokumentų privalomumas
 
-kontrolė
+1. Ūkinės komercinės veiklos sąlygos,
 
-Įmonės,
+gyvenamoji ir darbo aplinka, žaliava, gaminiai, importuojamos ir realizuojamos
 
-įstaigos,   organizacijos,   medicinos   pagalbos,
+prekės ir paslaugos turi atitikti visuomenės sveikatos saugos, užkrečiamųjų
 
-medicininės ir
+ligų profilaktikos ir kontrolės bei farmacinės veiklos normatyvinių dokumentų
 
-socialinės reabilitacijos  bei  slaugos  įstaigos
+reikalavimus.
 
-pagal savo
+2. Normatyviniai dokumentai,
 
-kompetenciją kontroliuoja  neinfekcinių susirgimų bei
+reglamentuojantys visuomenės sveikatos saugos, užkrečiamųjų ligų profilaktikos
 
-traumų profilaktiką,
+ir kontrolės bei farmacinės veiklos reikalavimus, tampa privalomi įmonėms,
 
-sergamumą bei traumatizmą.
+įstaigoms ir fiziniams asmenims, patvirtinus juos Sveikatos apsaugos
 
-Profesinių
+ministerijos teisės aktais, ir įsigalioja kitą dieną po jų paskelbimo
 
-susirgimų,   apsinuodijimų,  traumatizmo   darbe
+“Valstybės žiniose”, jeigu pačiuose teisės aktuose nenustatoma vėlesnė jų
 
-profilaktikos ir
+įsigaliojimo data.
 
-kontrolės  sąlygas  ir  tvarką  nustato  Žmonių
+IV DALIS
 
-saugos darbe
+SVEIKATINIMO VEIKLOS VALDYMO, KOORDINAVIMO IR
 
-įstatymas, kiti įstatymai bei teisės aktai.
+KONTROLĖS SUBJEKTAI BEI JŲ KOMPETENCIJA
 
-Traumatizmo,
+I SKYRIUS
 
-kurį lemia transportas, profilaktikos priemones
+SVEIKATINIMO VEIKLOS VALDYMO SUBJEKTAI IR JŲ
 
-ir turinį nustato
-
-Lietuvos Respublikos Vyriausybė.
-
-Neinfekcinių
-
-ligų   antrinės  ir   tretinės   profilaktikos
-
-priemonių taikymą
-
-medicinos pagalboje  nustato šis  įstatymas ir
-
-kiti teisės aktai.
+KOMPETENCIJA
 
 60 straipsnis.
 
-Visuomenės sveikatos kontrolė
+Vyriausybės pagrindiniai įgaliojimai sveikatinimo
 
-Visuomenės
+veiklai valdyti
 
-sveikatos kontrolė yra valstybės ir savivaldybių.
+Vyriausybė tvarko sveikatinimo reikalus ir
 
-Valstybės
+reguliuoja sveikatinimo veiklą:
 
-įgyvendinama visuomenės sveikatos kontrolė apima:
+1) tvirtina ir užtikrina valstybinių
 
-1) valstybinę
+sveikatos programų įgyvendinimą;
 
-alkoholio kontrolę;
+2) nustato ministerijų, Vyriausybės įstaigų
 
-2) valstybinę
+ar kitų valstybės institucijų kompetenciją sveikatinimo veiklos klausimais;
 
-tabako kontrolę;
+3) užtikrina tarpžinybinės sveikatinimo
 
-3) valstybinę
+veiklos koordinavimą valstybiniu lygiu;
 
-narkotikų kontrolę;
+4) rengia ir teikia Seimui svarstyti
 
-4) valstybinę
+sveikatinimo veiklos įstatymų ir kitų teisės aktų projektus;
 
-higieninę kontrolę;
+5) pagal kompetenciją rengia ir priima teisės
 
-5) valstybinę
+aktus kitais sveikatinimo veiklos reguliavimo klausimais;
 
-aplinkos apsaugos kontrolę;
+6) steigia valstybines tarnybas ir
 
-6) valstybinę
+inspekcijas ar kitas valstybės institucijas ir vykdo jų steigėjo funkcijas;
 
-saugos darbe organizavimo kontrolę;
+7) rūpinasi, kad Lietuvos valstybės sienos ir
 
-7) valstybinę
+teritorija būtų apsaugotos nuo užkrečiamųjų ligų įvežimo, jų paplitimo;
 
-radiacinio   saugumo  atominėje  energetikoje
+8) vykdo kitas sveikatinimo veiklos valdymo
 
-kontrolę;
+funkcijas, kurias Vyriausybei paveda Lietuvos Respublikos Konstitucija, šis ir
 
-8) valstybinę
+kiti įstatymai.
 
-veterinarinę kontrolę;
+61
 
-9) valstybinį
+straipsnis. Sveikatos apsaugos ministerijos pagrindiniai įgaliojimai
 
-medicininį auditą.
+sveikatinimo reikalams tvarkyti
 
-Savivaldybės
+1. Sveikatos apsaugos ministerija:
 
-vykdo  savo teritorijos  gyvenamosios  aplinkos
+1) steigia, reorganizuoja, likviduoja jos
 
-palaikymo palankia
+pavaldumui priskirtas įstaigas ir valdymo institucijas;
 
-sveikatai sanitarinę kontrolę.
+2) analizuoja gyventojų sveikatos būklę ir
 
-Visuomenės
+jos raidos prognozę, prisideda nustatant sveikatinimo veiklos tikslus,
 
-sveikatos  kontrolės  turinį,  jos  įgyvendinimo
+valstybės siekiamo sveikatos lygio rodiklius ir įgyvendinant Lietuvos sveikatos
 
-tvarką,  kontrolės
+programą;
 
-institucijų  kompetenciją  reglamentuoja  šis
+3) rengia valstybines sveikatos programas;
 
-įstatymas,
+4) Vyriausybės pavedimu kartu su
 
-Veterinarijos  įstatymas, Aplinkos apsaugos įstatymas,
+savivaldybėmis nustato pirminės sveikatos priežiūros plėtojimo pagrindines
 
-Žmonių saugos darbe
+kryptis;
 
-įstatymas, kiti įstatymai ir teisės aktai.
+5) organizuoja akreditavimą sveikatos
 
-Sanitarinės
+priežiūrai ir jos licencijavimą bei prižiūri visų nuosavybės rūšių asmens ir
 
-kontrolės,  kurią turi vykdyti savivaldybės savo
+visuomenės sveikatos priežiūros subjektų veiklą;
 
-teritorijų
+6) vykdo farmacinės veiklos licencijavimą,
 
-administraciniuose   vienetuose,  turinį   ir  tvarką
+išskyrus farmacinės veiklos licencijavimą veterinarijoje;
 
-nustato Lietuvos
+7) rengia ir priima pagal kompetenciją teisės
 
-Respublikos Vyriausybė  Sveikatos  ministerijos
+aktus sveikatinimo veiklos rūšių, išvardytų šiame straipsnyje, įgyvendinimo
 
-teikimu.
+klausimais.
+
+2. Sveikatos apsaugos ministerija tvarko ir
+
+kitus sveikatinimo veiklos reikalus kartu su kitomis ministerijomis bei vykdo
+
+kitas valstybinio reguliavimo funkcijas, numatytas šiame įstatyme, kituose
+
+įstatymuose ir teisės aktuose, ministerijos nuostatuose.
+
+62
+
+straipsnis. Bendroji ministerijų, Vyriausybės įstaigų kompetencija sveikatinimo
+
+reikalų klausimais
+
+1. Ministerijos, kitos Vyriausybės įstaigos
+
+pagal kompetenciją:
+
+1) sustabdo, riboja ūkinių subjektų veiklą,
+
+kenkiančią sveikatai bei aplinkai, kai pažeidžiami sveikatos priežiūros ar
+
+aplinkos apsaugos teisės aktų reikalavimai;
+
+2) skelbia visuomenei ūkinės ir kitokios
+
+veiklos, galinčios turėti kenksmingą poveikį sveikatai, projektus, planus ir
+
+programas;
+
+3) laiku informuoja gyventojus apie sveikatos
+
+rizikos laipsnį gyvenamojoje ir darbo aplinkoje;
+
+4) riboja potencialiai pavojingas sveikatai
+
+darbinės veiklos rūšis;
+
+5) remia žmonių išsilavinimo, kultūros ir
+
+informuotumo lygio kėlimą, siekdamos daryti teigiamą įtaką žmonių elgesiui,
+
+susijusiam su sveiko gyvenimo būdo formavimu;
+
+6) organizuoja sveikatos propagandą per
+
+visuomenės informavimo priemones;
+
+7) draudžia ar riboja sveikatai kenksmingų
+
+prekių, vartojimo reikmenų reklamą;
+
+8) draudžia ar riboja sveikatai kenksmingų
+
+prekių, produkcijos gamybą, paslaugų teikimą, importą, prekybą tokiomis
+
+prekėmis ir jų vartojimą;
+
+9) prisideda prie aplinkos kokybės atkūrimo
+
+ir palaikymo;
+
+10) organizuoja priemonių, skirtų atkurti ir
+
+palaikyti nustatytą maisto produktų, geriamojo vandens kokybę, įgyvendinimą;
+
+11) organizuoja veiklą, kad būtų pašalintos
+
+visuomenės sveikatai ypatingos situacijos pasekmės žmonių sveikatai ir gyvybei;
+
+12) plėtoja ir optimizuoja valstybinių
+
+sveikatos priežiūros įstaigų, tarnybų bei valstybinių farmacijos įmonių tinklą;
+
+13) kontroliuoja, kaip juridiniai ir fiziniai
+
+asmenys laikosi Sveikatos priežiūros įstatymų, vykdo sveikatos priežiūros
+
+standartizacijos norminių dokumentų reikalavimus;
+
+14) teikia pasiūlymus Vyriausybei, kaip
+
+įstatymais nustatyti fizinių ir juridinių asmenų atsakomybę už sveikatinimo
+
+veiklos teisės aktų pažeidimus, už padarytą žalą sveikatai ir aplinkai;
+
+15) plėtoja sveikatinimo veiklos mokslinius
+
+tyrimus ir studijas;
+
+16) plėtoja tarptautinį bendradarbiavimą
+
+sveikatinimo veiklos srityje.
+
+2. Ministerijų ir kitų Vyriausybės įstaigų
+
+specialiąją kompetenciją sveikatinimo veiklos valdymo klausimais nustato
+
+Vyriausybė.
+
+63
+
+straipsnis. Savivaldybės tarybos kompetencija sveikatinimo veiklos valdymo
+
+klausimais
+
+Savivaldybės taryba:
+
+1) tvirtina pirminės sveikatos priežiūros
+
+plėtojimo programą, kitas savivaldybės kompleksines ir tikslines sveikatos
+
+programas ir kontroliuoja jų įgyvendinimą;
+
+2) tvirtina savivaldybės biudžeto lėšas
+
+sveikatinimo veiklai ir jų panaudojimo apyskaitą;
+
+3) tvirtina savivaldybės valdybos (mero)
+
+sudarytas sveikatinimo veiklos sutartis;
+
+4) pagal kompetenciją tvirtina sanitarijos ir
+
+higienos taisykles, už kurių pažeidimus taikoma administracinė atsakomybė;
+
+5) sudaro savivaldybės sveikatos fondą,
+
+tvirtina jo lėšų panaudojimo apyskaitą ir kontroliuoja jų naudojimą;
+
+6) sudaro bendruomenės sveikatos tarybą,
+
+skiria jos pirmininką ir tvirtina šios tarybos nuostatus;
+
+7) steigia, reorganizuoja ar likviduoja
+
+pirminės sveikatos priežiūros įstaigas, farmacijos įmones ir vykdo jų steigėjos
+
+funkcijas;
+
+8) valdo jos pavaldumui priskirtas antrinio
+
+lygio sveikatos priežiūros įstaigas;
+
+9) nustato savivaldybės reguliavimo sričiai
+
+priskirtų įstaigų įgaliojimus saugant ir stiprinant gyventojų sveikatą;
+
+10) atšaukia prieštaraujančius įstatymams ar
+
+savivaldybės tarybos sprendimams savivaldybės valdybos, mero sprendimus ir
+
+potvarkius, komitetų, komisijų, bendruomenės sveikatos tarybos sudarytų
+
+padalinių sprendimus sveikatinimo veiklos klausimais;
+
+11) vykdo įstatymų ir kitų teisės aktų nustatytus
+
+kitus sveikatinimo veiklos įgaliojimus.
+
+64
+
+straipsnis. Savivaldybės mero ar savivaldybės valdybos kompetencija
+
+sveikatinimo veiklos klausimais
+
+Savivaldybės meras ar savivaldybės valdyba:
+
+1) organizuoja Lietuvos sveikatos programos,
+
+valstybinių sveikatos programų įgyvendinimą, savivaldybės pirminės sveikatos
+
+priežiūros plėtojimo programos, kitų savivaldybės kompleksinių ir tikslinių
+
+sveikatos programų projektų rengimą ir savivaldybės tarybos patvirtintų
+
+programų, sveikatinimo veiklos įstatymų, kitų teisės aktų įgyvendinimą
+
+savivaldybės teritorijoje;
+
+2) pagal kompetenciją užtikrina valstybės
+
+laiduojamą ir savivaldybės remiamą sveikatos priežiūrą savivaldybės
+
+teritorijoje;
+
+3) organizuoja pirminę sveikatos priežiūrą ir
+
+vykdo valstybės deleguotą funkciją – organizuoja antrinę sveikatos priežiūrą;
+
+4) organizuoja savivaldybės tarybos
+
+patvirtintų sanitarijos ir higienos taisyklių laikymosi kontrolę savivaldybės
+
+teritorijoje;
+
+5) šio įstatymo ir kitų teisės aktų nustatyta
+
+tvarka sudaro sveikatinimo veiklos sutartis, teikia jas tvirtinti savivaldybės
+
+tarybai ir kontroliuoja, kaip jų laikomasi;
+
+6) vykdo savivaldybės nuosavybei
+
+priklausančių pirminės sveikatos priežiūros įstaigų projektavimo, statybos,
+
+kapitalinio remonto užsakovo funkcijas;
+
+7) organizuoja savivaldybei pavaldžių
+
+pirminės sveikatos priežiūros įstaigų medicininį ir visuomenės sveikatos
+
+priežiūros auditą;
+
+8) organizuoja pacientų teisių įgyvendinimo
+
+priežiūrą pirminio lygio asmens sveikatos priežiūros įstaigose;
+
+9) įstatymų numatytais pagrindais neleidžia
+
+įmonėms verstis ūkine komercine veikla, nustatyta tvarka atšaukia juridiniams
+
+ir fiziniams asmenims išduotas šios veiklos licencijas;
+
+10) organizuoja alkoholio ir tabako reklamos
+
+išorinėse reklamos priemonėse ribojimo ir draudimų laikymosi kontrolę;
+
+11) vykdo įstatymų ir kitų teisės aktų
+
+nustatytus kitus sveikatinimo veiklos įgaliojimus.
+
+65
+
+straipsnis. Savivaldybės gydytojas ir jo kompetencijos sveikatinimo veiklos
+
+reikalų klausimais nustatymas
+
+1. Savivaldybės gydytojais konkurso tvarka
+
+skiriami sveikatos priežiūros specialistai, atitinkantys Sveikatos apsaugos
+
+ministerijos nustatytus kvalifikacinius reikalavimus.
+
+2. Savivaldybės gydytojas vadovauja
+
+savivaldybės sveikatinimo veiklos padaliniui, kurio tarnautojų etatų skaičių
+
+nustato savivaldybės taryba.
+
+3. Pavyzdinius savivaldybės gydytojo
+
+nuostatus tvirtina Vyriausybė ar jos įgaliota institucija.
+
+66
+
+straipsnis. Apskrities gydytojas ir jo kompetencija sveikatinimo
+
+veiklos
+
+klausimais
+
+1. Apskrities gydytoją skiria ir atleidžia
+
+apskrities viršininkas, suderinęs su sveikatos apsaugos ministru.
+
+2. Apskrities gydytojas:
+
+1) prižiūri sveikatinimo veiklos įstatymų,
+
+kitų teisės aktų, Lietuvos sveikatos programos ir valstybinių sveikatos
+
+programų įgyvendinimą ir remia savivaldybių sveikatos programų įgyvendinimą
+
+apskrityje;
+
+2) apibendrina sveikatos santykių valstybinio
+
+reguliavimo priemonių taikymo praktiką apskrityje ir rengia pasiūlymus
+
+Valstybinei sveikatos reikalų komisijai dėl šių priemonių rengimo bei
+
+tobulinimo;
+
+3) derina su apskrities administracija ir
+
+Sveikatos apsaugos ministerija antrinio lygio asmens sveikatos priežiūros
+
+įstaigų steigimo, reorganizavimo ar likvidavimo klausimus;
+
+4) prižiūri, kaip apskrities administracija
+
+atlieka antrinio lygio sveikatos priežiūros statybos, kapitalinio remonto ir
+
+užsakovo funkcijas;
+
+5) prižiūri antrinio lygio asmens sveikatos
+
+priežiūros įstaigų veiklą;
+
+6) organizuoja pacientų teisių įgyvendinimo
+
+priežiūrą antrinio lygio sveikatos priežiūros įstaigose;
+
+7) vykdo įstatymų ir kitų teisės aktų
+
+nustatytus kitus sveikatinimo veiklos įgaliojimus.
+
+3. Apskrities gydytojas savo funkcijoms
+
+įgyvendinti turi specialistų ir pagalbinį personalą, kurių etatų struktūrą ir
+
+skaičių nustato apskrities viršininkas, neviršydamas nustatyto darbo užmokesčio
+
+fondo. Prie apskrities gydytojo sudaroma visuomeninė konsultacinė taryba
+
+sveikatos priežiūros paslaugų teikimui apskrityje racionalizuoti.
+
+4. Pavyzdinius apskrities gydytojo nuostatus
+
+tvirtina Vyriausybė ar jos įgaliota institucija.
+
+II SKYRIUS
+
+SVEIKATINIMO VEIKLOS KOORDINAVIMO SUBJEKTAI
 
 dalys, 61 straipsnis, 63 straipsnio antroji dalis, 64 straipsnis, 65 straipsnio
 
@@ -6986,37 +3692,157 @@ pirmoji dalis, 66 straipsnis, 68 straipsnio antroji ir trečioji dalys, 69
 
 67 straipsnis.
 
-Asmens sveikatos priežiūros, visuomenės
+Nacionalinė sveikatos taryba
 
-sveikatos  priežiūros bei farmacinės veiklos
+1. Nacionalinė sveikatos taryba - tai Seimui
 
-nuosavybės     formos    bei  nuosavybės
+atskaitinga sveikatos politikos koordinavimo institucija. Nacionalinė sveikatos
 
-teisės subjektai
+taryba sudaroma ir veikia pagal Seimo patvirtintus nuostatus. Nacionalinę
 
-Nuosavybės
+sveikatos tarybą sudaro: 1/3 Lietuvos savivaldybių asociacijos deleguotų
 
-formas  bei  nuosavybės  teisės  subjektus  asmens
+savivaldybių bendruomenių sveikatos tarybų atstovų, 1/3 visuomeninių
 
-sveikatos
+organizacijų, ginančių visuomenės sveikatos interesus, atstovų, 1/3 visuomenės
 
-priežiūroje,   visuomenės  sveikatos   priežiūroje  bei
+sveikatos priežiūros specialistų. Nacionalinės sveikatos tarybos veikla yra
 
-farmacinėje veikloje
+finansuojama iš valstybės biudžeto.
 
-reglamentuoja Civilinis kodeksas.
+2. Nacionalinė sveikatos taryba koordinuoja:
 
-Nuosavybės
+1) sveikatos ugdymo politiką;
 
-teisės  objektus,  kurie  reikalingi  įgyvendinti
+2) alkoholio kontrolės politiką;
 
-pirminei
+3) tabako kontrolės politiką;
 
-sveikatinimo    veiklai   savivaldybės   teritorijoje,
+4) narkotinių ir psichotropinių medžiagų
 
-priskiria
+kontrolės ir narkomanijos prevencijos politiką;
 
-savivaldybės nuosavybės teisės įstatymai.
+5) visuomenės sveikatos saugos politiką;
+
+6) ligų profilaktikos ir kontrolės politiką.
+
+3. Nacionalinė sveikatos taryba teikia
+
+išvadas dėl valstybės siekiamo sveikatos lygio rodiklių, sveikatinimo veiklos
+
+tikslų, Lietuvos sveikatos programos bei kitų valstybinių sveikatos programų,
+
+pagal kompetenciją koordinuoja Lietuvos sveikatos programos įgyvendinimą,
+
+rengia ir kasmet teikia Seimui pranešimą apie gyventojų sveikatos ir sveikatos
+
+politikos formavimo ir įgyvendinimo būklę, vykdo šio ir kitų įstatymų bei
+
+tarybos nuostatų jai priskirtas kitas funkcijas.
+
+4. Nacionalinė sveikatos taryba turi teisę:
+
+1) gauti iš Vyriausybės, ministerijų, kitų
+
+Vyriausybės įstaigų, savivaldybių valdymo organų, įmonių, įstaigų, organizacijų
+
+teisės aktų, programų projektus, kitą informaciją, reikalingą šiame įstatyme ir
+
+Tarybos nuostatuose numatytoms funkcijoms vykdyti;
+
+2) pagal kompetenciją atlikti įstatymų, kitų
+
+teisės aktų, socialinio ir ekonominio plėtojimo programų projektų ekspertizę ir
+
+teikti šių programų rengėjams savo išvadas;
+
+3) pagal kompetenciją teikti konsultacijas
+
+Seimui, Vyriausybei, ministerijoms, kitoms Vyriausybės įstaigoms;
+
+4) sudaryti ekspertų komisijas Tarybos
+
+funkcijoms įgyvendinti.
+
+68
+
+straipsnis. Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos
+
+Vyriausybės
+
+1. Valstybinė sveikatos reikalų komisija prie
+
+Lietuvos Respublikos Vyriausybės yra institucija, koordinuojanti sveikatos
+
+politikos priemonių planavimą ir įgyvendinimą ministerijose, kitose Vyriausybės
+
+įstaigose, sveikatinimo veiklos įstatymų ir kitų teisės aktų įgyvendinimą.
+
+2. Valstybinę sveikatos reikalų komisiją prie
+
+Lietuvos Respublikos Vyriausybės sudaro ir jos nuostatus tvirtina Vyriausybė.
+
+Valstybinės sveikatos reikalų komisijos prie Lietuvos Respublikos Vyriausybės
+
+veikla finansuojama iš valstybės biudžeto.
+
+3. Valstybinė sveikatos reikalų komisija prie
+
+Lietuvos Respublikos Vyriausybės:
+
+1) koordinuoja sveikatos politikos formavimą
+
+ministerijose ir kitose Vyriausybės įstaigose;
+
+2) teikia išvadas dėl Vyriausybės sprendimų
+
+projektų sveikatos politikos klausimais.
+
+3) teikia Vyriausybei pasiūlymus dėl
+
+ministerijų ir kitų Vyriausybės įstaigų specialiosios kompetencijos
+
+sveikatinimo srityje nustatymo;
+
+4) vykdo kitas jos nuostatuose numatytas
+
+funkcijas.
+
+4. Valstybinė sveikatos reikalų komisija prie
+
+Lietuvos Respublikos Vyriausybės turi teisę:
+
+1) gauti iš Vyriausybės, ministerijų, kitų
+
+Vyriausybės įstaigų, savivaldybių valdymo organų, įmonių, įstaigų, organizacijų
+
+įstatymų, kitų teisės aktų, programų projektus bei kitą informaciją, reikalingą
+
+šiame įstatyme ir komisijos nuostatuose numatytoms funkcijoms vykdyti;
+
+2) pagal kompetenciją atlikti įstatymų, kitų
+
+teisės aktų, socialinio ir ekonominio plėtojimo programų projektų ekspertizę ir
+
+teikti šių programų rengėjams ekspertizės išvadas;
+
+3) pagal kompetenciją teikti siūlymus
+
+ministerijoms, kitoms Vyriausybės įstaigoms, apskričių viršininkams, savivaldos
+
+vykdomosioms institucijoms;
+
+4) dalyvauti svarstant sveikatos politikos
+
+klausimus Vyriausybėje, savivaldos vykdomosiose institucijose, apskričių
+
+administracijose, ministerijose, kitose Vyriausybės įstaigose;
+
+5) sudaryti laikinas ar nuolatines ekspertų
+
+ar kitų specialistų grupes komisijos kompetencijai priskirtiems uždaviniams
+
+spręsti.
 
 68 straipsnis.
 
@@ -7074,7 +3900,155 @@ sveikatinimo veiklą
 
 reglamentuoja įstatymai ir kiti teisės aktai.
 
-straipsnis, 68 straipsnio antroji ir trečioji dalys, 69 straipsnis, 70
+69 straipsnis.
+
+Savivaldybės bendruomenės sveikatos taryba
+
+1. Savivaldybės bendruomenės sveikatos taryba
+
+- tai savarankiška sveikatinimo veiklos koordinavimo institucija prie
+
+savivaldybės tarybos. Savivaldybės bendruomenės sveikatos tarybą sudaro ir jos
+
+nuostatus tvirtina savivaldybės taryba. Savivaldybės bendruomenės sveikatos
+
+tarybą sudaro: 1/3 savivaldybės paskirtų asmenų, 1/3 savivaldybės įmonių,
+
+įstaigų, organizacijų atstovų, 1/3 visuomeninių organizacijų, ginančių
+
+visuomenės sveikatos interesus, atstovų. Savivaldybės bendruomenės sveikatos
+
+tarybos veiklos programa yra finansuojama iš savivaldybės biudžeto.
+
+2. Savivaldybės bendruomenės sveikatos taryba
+
+koordinuoja savivaldybės teritorijoje sveikatos ugdymo, alkoholio, tabako ir
+
+narkotikų kontrolės, visuomenės sveikatos saugos ir sveikatos stiprinimo, ligų
+
+profilaktikos priemonių rengimą ir įgyvendinimą, nustato savivaldybės sveikatos
+
+fondo lėšų naudojimo prioritetus, teikia savivaldybės tarybai tvirtinti šio
+
+fondo sąmatos projektą bei vykdo kitas funkcijas, priskirtas pagal šį ir kitus
+
+įstatymus bei jos nuostatus.
+
+3. Savivaldybės bendruomenės sveikatos taryba
+
+turi teisę:
+
+1) gauti iš savivaldybės valdymo institucijų,
+
+savivaldybės teritorijoje esančių įmonių, įstaigų, organizacijų informaciją,
+
+reikalingą šiame įstatyme ir jos nuostatuose numatytoms funkcijoms vykdyti;
+
+2) pagal kompetenciją teikti siūlymus
+
+savivaldybės tarybai, savivaldos vykdomosioms institucijoms.
+
+III SKYRIUS
+
+SVEIKATINIMO VEIKLOS SPECIALIEJI VALDYMO
+
+IR KONTROLĖS SUBJEKTAI
+
+70
+
+straipsnis. Valstybinė tabako ir alkoholio kontrolės tarnyba prie Lietuvos
+
+Respublikos Vyriausybės
+
+1. Valstybinę tabako ir alkoholio kontrolės
+
+tarnybą prie Lietuvos Respublikos Vyriausybės steigia ir jos nuostatus tvirtina
+
+Vyriausybė. Valstybinė tabako ir alkoholio kontrolės tarnyba yra juridinis asmuo.
+
+Jos veikla finansuojama iš valstybės biudžeto.
+
+2. Valstybinė tabako ir alkoholio kontrolės
+
+tarnyba prie Lietuvos Respublikos Vyriausybės:
+
+1) licencijuoja alkoholio, tabako gamybą,
+
+prekybą, importą;
+
+2) kontroliuoja, kaip ūkiniai subjektai
+
+laikosi Tabako kontrolės ir Alkoholio kontrolės įstatymų;
+
+3) kontroliuoja, kaip visuomenės informavimo
+
+priemonėse laikomasi tabako ir alkoholio reklamos ribojimo ir draudimo;
+
+4) vykdo kitas įstatymų, tarnybos nuostatų
+
+nustatytas funkcijas.
+
+71
+
+straipsnis. Valstybinė visuomenės sveikatos priežiūros tarnyba prie Sveikatos
+
+apsaugos ministerijos
+
+1. Valstybinę visuomenės sveikatos priežiūros
+
+tarnybą prie Sveikatos apsaugos ministerijos steigia ir jos nuostatus tvirtina
+
+Sveikatos apsaugos ministerija. Valstybinė visuomenės sveikatos priežiūros
+
+tarnyba yra juridinis asmuo.
+
+2. Valstybinė visuomenės sveikatos priežiūros
+
+tarnyba prie Sveikatos apsaugos ministerijos koordinuoja jai pavaldžių įstaigų
+
+vykdomą valstybinį visuomenės sveikatos monitoringą, valstybinę visuomenės sveikatos
+
+ekspertizę, visuomenės sveikatos saugos ekspertizę, atlieka visuomenės
+
+sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir efektyvumo
+
+kontrolę bei vykdo kitas funkcijas, nustatytas jos nuostatuose.
+
+72
+
+straipsnis. Valstybinė vaistų kontrolės tarnyba prie Sveikatos apsaugos
+
+ministerijos
+
+1. Valstybinę vaistų kontrolės tarnybą prie
+
+Sveikatos apsaugos ministerijos steigia ir jos nuostatus tvirtina Sveikatos
+
+apsaugos ministerija. Ši tarnyba yra juridinis asmuo. Jos veikla finansuojama
+
+iš valstybės biudžeto.
+
+2. Valstybinė vaistų kontrolės tarnyba prie
+
+Sveikatos apsaugos ministerijos:
+
+1) registruoja vaistus;
+
+2) kontroliuoja vaistų ir vaistinių medžiagų
+
+kokybę;
+
+3) kontroliuoja farmacinę veiklą;
+
+4) vykdo farmacinės veiklos monitoringą
+
+(informacijos apie vaistus, jų gamybą, importą, prekybą, eksportą rinkimas,
+
+kaupimas, apdorojimas ir platinimas);
+
+5) vykdo įstatymų, tarnybos nuostatų
+
+nustatytas kitas funkcijas.
 
 straipsnis, 70 straipsnis, 73 straipsnis, 74 straipsnis, IV dalies I skyrius,
 
@@ -7390,11 +4364,85 @@ I SKYRIUS.
 
 SVEIKATOS RĖMIMO BŪDAI IR PRIEMONĖS
 
-straipsnis, 73 straipsnis, 74 straipsnis, IV dalies I skyrius, 85 straipsnio
+73 straipsnis.
 
-trečioji dalis, 86 straipsnio penktoji dalis, 87 straipsnio ketvirtoji dalis,
+Valstybinė teismo medicinos tarnyba
 
-88 straipsnio antroji, trečioji ir ketvirtoji dalys, 89 straipsnio antroji,
+1. Valstybinė teismo medicinos tarnyba yra
+
+juridinis asmuo. Jos veikla finansuojama iš valstybės biudžeto.
+
+2. Valstybinė teismo medicinos tarnyba:
+
+1) atlieka kvotos, tardymo ir teismo pavedimu
+
+teismo medicinos ekspertizes ir tyrimus;
+
+2) vykdo kitas šiame ir kituose įstatymuose,
+
+teisės aktuose bei šios tarnybos nuostatuose nustatytas funkcijas.
+
+74
+
+straipsnis. Valstybinė teismo psichiatrijos ir narkologijos tarnyba prie
+
+Sveikatos apsaugos ministerijos
+
+1. Valstybinę teismo psichiatrijos ir
+
+narkologijos tarnybą prie Sveikatos apsaugos ministerijos steigia ir jos
+
+nuostatus tvirtina Sveikatos apsaugos ministerija. Ši tarnyba yra juridinis
+
+asmuo. Jos veikla finansuojama iš valstybės biudžeto.
+
+2. Valstybinė teismo psichiatrijos ir
+
+narkologijos tarnyba prie Sveikatos apsaugos ministerijos:
+
+1) atlieka kvotos, tardymo ir teismo pavedimu
+
+teismo medicinos, teismo psichiatrines, teismo narkologines ir teismo
+
+psichologines ekspertizes;
+
+2) vykdo kitas įstatymų ir šios tarnybos
+
+nuostatų nustatytas funkcijas.
+
+75
+
+straipsnis. Valstybinė akreditavimo sveikatos priežiūrai tarnyba prie Sveikatos
+
+apsaugos ministerijos
+
+1. Valstybinę akreditavimo sveikatos
+
+priežiūrai tarnybą prie Sveikatos apsaugos ministerijos steigia ir jos
+
+nuostatus tvirtina Sveikatos apsaugos ministerija. Ši tarnyba yra juridinis
+
+asmuo. Jos veikla yra finansuojama iš valstybės biudžeto.
+
+2. Valstybinė akreditavimo tarnyba prie
+
+Sveikatos apsaugos ministerijos:
+
+1) licencijuoja ir akredituoja įmones ir
+
+įstaigas sveikatos priežiūros veiklai;
+
+2) registruoja sveikatos priežiūros įstaigas
+
+Valstybiniame sveikatos priežiūros įstaigų registre;
+
+3) kartu su kitomis institucijomis rengia
+
+sveikatos priežiūros veiklą reglamentuojančius normatyvinius dokumentus;
+
+4) vykdo įstatymų ir šios tarnybos nuostatų
+
+numatytas kitas funkcijas.
 
 74 straipsnis.
 
@@ -7490,67 +4538,59 @@ padengiamos gautų paskolų palūkanos.
 
 76 straipsnis.
 
-Privalomojo sveikatinimo veiklos lygio
+Valstybinė ir teritorinės ligonių kasos
 
-priemonių įkainių   ir   paslaugų  bei
+Valstybinė ir teritorinės ligonių kasos pagal
 
-patarnavimų
+kompetenciją užtikrina nustatytų rūšių asmens sveikatos priežiūros paslaugų
 
-tarifų nustatymo tvarka
+apmokėjimą, kontroliuoja jų kiekį ir kokybę, atlieka privalomojo sveikatos
 
-Privalomojo
+draudimo lėšų naudojimo finansinę bei ekonominę analizę, teikia lėšas valstybės
 
-sveikatinimo  veiklos lygio priemonių ir paslaugų
+ir savivaldybių fondams, vykdo įstatymų ir ligonių kasų nuostatų nustatytas
 
-bei patarnavimų
+funkcijas.
 
-bazinius įkainius  ir tarifus  tvirtina  Lietuvos
+77
 
-Respublikos
+straipsnis. Valstybinė sveikatos priežiūros tarnyba prie Vidaus reikalų
 
-Vyriausybė  ar jos  pavedimu Sveikatos ministerija. Ši
+ministerijos bei Karo medicinos tarnybos valdyba prie Krašto apsaugos
 
-nustato jas  vienodas
+ministerijos
 
-visoje  valstybėje, suderinusi su Valstybine
+1. Valstybinę sveikatos priežiūros tarnybą
 
-kainų  ir
+prie Vidaus reikalų ministerijos steigia ir jos nuostatus tvirtina Vidaus
 
-konkurencijos  tarnyba,   Valstybine   ligonių   kasa,
+reikalų ministerija. Ši tarnyba yra juridinis asmuo. Jos veikla finansuojama iš
 
-Valstybine
+valstybės biudžeto.
 
-visuomenės  sveikatos  priežiūros  tarnyba  bei  kitais
+2. Karo medicinos tarnybos valdybą prie
 
-suinteresuotais
+Krašto apsaugos ministerijos steigia ir jos nuostatus tvirtina Krašto apsaugos
 
-sveikatinimo   veiklos  valdymo  subjektais.  Jei
+ministerija. Ši tarnyba yra juridinis asmuo. Jos veikla finansuojama iš
 
-einamaisiais
+valstybės biudžeto.
 
-biudžetiniais  metais, likus  vienam mėnesiui  iki jų
+3. Valstybinė sveikatos priežiūros tarnyba
 
-pabaigos, Sveikatos
+prie Vidaus reikalų ministerijos bei Karo medicinos tarnyba prie Krašto
 
-ministerija nesudera  dėl įkainių  nustatymo,
+apsaugos ministerijos :
 
-juos  tvirtina
+1) įgyvendina šio bei kitų įstatymų Vidaus
 
-Lietuvos  Respublikos   Vyriausybė.   Privalomojo
+reikalų ministerijos bei Krašto apsaugos ministerijos specialiajai
 
-sveikatinimo lygio
+kompetencijai priskiriamą sveikatos priežiūros veiklą;
 
-darbų ir patarnavimų kainas ir tarifus Lietuvos
+2) vykdo įstatymų ir šių tarnybų nuostatuose
 
-Respublikos
-
-Vyriausybė  indeksuoja ne  rečiau kaip vieną kartą per
-
-ketvirtį,  jeigu
-
-infliacijos  lygis   per  ketvirtį  viršija  10
-
-procentų.
+numatytas kitas funkcijas.
 
 77 straipsnis.
 
@@ -7602,37 +4642,53 @@ privalomojo sveikatos draudimo lėšų.
 
 78 straipsnis.
 
-Kitų sveikatinimo veiklos priemonių ir
+Valstybinė higienos inspekcija
 
-paslaugų
+1. Valstybinę higienos inspekciją steigia ir
 
-bei patarnavimų kaštų kompensavimas
+jos nuostatus tvirtina Sveikatos apsaugos ministerija.
 
-iš   privalomojo    sveikatos draudimo lėšų
+2. Valstybinė higienos inspekcija vykdo
 
-Asmenims,
+valstybinę higienos kontrolę, kontroliuoja, kaip laikomasi visuomenės sveikatos
 
-kuriems  pagal   šio įstatymo 18 ir 19 straipsnius
+priežiūros įstatymų ir kitų teisės aktų reikalavimų, ir taiko sankcijas
 
-netaikoma valstybės
+juridiniams ir fiziniams asmenims už šių teisės aktų pažeidimus, vykdo įstatymų
 
-ar  savivaldybių  remiama  asmens  sveikatos
+ir šios inspekcijos nuostatų nustatytas kitas funkcijas.
 
-priežiūra,
+79
 
-palaugos   ir  patarnavimai,   asmens  ir  visuomenės
+straipsnis. Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos
 
-sveikatos
+ministerijos
 
-priežiūros, paslaugų ir patarnavimų  kaštų kompensavimo
+1. Valstybinę medicininio audito inspekciją
 
-tvarką iš
+prie Sveikatos apsaugos ministerijos steigia ir jos veiklos nuostatus tvirtina
 
-privalomojo sveikatos  draudimo lėšų nustato įstatymai
+Sveikatos apsaugos ministerija. Ši inspekcija yra juridinis asmuo. Jos veikla
 
-ir kiti teisės
+yra finansuojama iš valstybės biudžeto.
 
-aktai.
+2. Valstybinė medicininio audito inspekcija
+
+prie Sveikatos apsaugos ministerijos:
+
+1) atlieka asmens sveikatos priežiūros paslaugų
+
+prieinamumo, kokybės (tinkamumo) ir ekonominio efektyvumo kontrolę;
+
+2) kontroliuoja, kaip fiziniai ir juridiniai
+
+asmenys laikosi standartizacijos norminių dokumentų reikalavimų sveikatos
+
+priežiūros kokybės klausimais;
+
+3) vykdo įstatymų ir šios inspekcijos
+
+nuostatų nustatytas kitas funkcijas.
 
 79 straipsnis.
 
@@ -7674,129 +4730,91 @@ išlaidos padengiamos iš šių įmonių lėšų.
 
 80 straipsnis.
 
-Įmonių ir įstaigų, akredituotų asmens
+Lietuvos medicinos etikos komitetas
 
-sveikatos priežiūrai,  civilinės atsakomybės
+1. Lietuvos medicinos etikos komitetą steigia
 
-už žalą, padarytą asmenų sveikatai
+ir jo veiklos nuostatus tvirtina Sveikatos apsaugos ministerija. Lietuvos
 
-vykdant
+medicinos etikos komitetas yra juridinis asmuo. Jo veikla yra finansuojama iš
 
-asmens sveikatos priežiūrą, draudimas
+valstybės biudžeto.
 
-Įmonės   ir
+2. Lietuvos medicinos etikos komitetas:
 
-įstaigos,   akredituotos   asmens   sveikatos
+1) atlieka asmens sveikatos priežiūros
 
-priežiūrai, privalo
+atitikimo medicinos etikos reikalavimams kontrolę;
 
-drausti savo  civilinę atsakomybę  už  žalą,
+2) išduoda leidimus biomedicininiams
 
-padarytą asmenų
+tyrimams;
 
-sveikatai vykdant asmens sveikatos priežiūrą.
+3) vykdo komiteto nuostatų nustatytas kitas
 
-Įmonių ir  įstaigų,
+funkcijas.
 
-akredituotų asmens sveikatos priežiūrai,
+3. Lietuvos medicinos etikos komitetas
 
-civilinės
+inicijuoja regioninių padalinių apskrityse formavimą ir turi teisę perduoti
 
-atsakomybės  už žalą, padarytą asmenų sveikatai vykdant
+jiems funkcijas, numatytas šio straipsnio 2 dalies 2 punkte.
 
-asmens sveikatos
+81 straipsnis. Asmens
 
-priežiūrą, privalomojo draudimo sutarčių sąlygas
+sveikatos priežiūros įstaigų medicinos etikos
 
-ir sudarymo  tvarką,
+komisijos
 
-privalomojo  draudimo lėšų  šaltinius ir  jų
+1. Asmens sveikatos priežiūros įstaigų
 
-lėšų  panaudojimo
+medicinos etikos komisijos prižiūri, kaip asmens sveikatos priežiūros
 
-tvarką  nustato   Draudimo  įstatymas,   kiti
+specialistai laikosi medicinos etikos reikalavimų.
 
-įstatymai bei teisės
+2. Asmens sveikatos priežiūros įstaigų
 
-aktai.
+medicinos etikos komisijos sudaromos ir veikia pagal Sveikatos apsaugos
 
-81 straipsnis.
-
-Parama sveikatos priežiūros įstaigoms,
-
-sveikatos programų  įgyvendinimui, gyventojų
-
-sveikatos priežiūrai
-
-Paramos asmens
-
-ir visuomenės sveikatos priežiūros įstaigoms,
-
-sveikatos  programų
-
-įgyvendinimui  tvarką  nustato  Labdaros  ir
-
-paramos įstatymas.
-
-Gyventojų
-
-grupių,   kurių  sveikatai   daro  didelę   įtaką
-
-sveikatos
-
-rizikos   faktoriai,   išskyrus   sveikatos   rizikos
-
-faktorius,
-
-kuriuos   lemia  jų   žalingi  įpročiai,   asmens  ar
-
-visuomenės
-
-sveikatos   priežiūros  kaštai  Lietuvos  Respublikos
-
-Vyriausybės ar
-
-savivaldybių nustatyta tvarka gali būti padengiami
-
-iš valstybinėms,
-
-savivaldybių sveikatos  programoms skirtų lėšų.
-
-Tokias gyventojų
-
-grupes nustato Sveikatos ministerija.
+ministerijos patvirtintus pavyzdinius nuostatus.
 
 82 straipsnis.
 
-Visuomeninių organizacijų, ginančių
+Savivaldybių sanitarijos inspekcija
 
-visuomenės     sveikatos interesus,
+1. Savivaldybių sanitarijos inspekcija yra
 
-veiklos programų rėmimas
+specializuotas savivaldybės administracijos padalinys, kontroliuojantis, kaip
 
-Visuomeninių
+laikomasi sanitarijos reikalavimų savivaldybės teritorijoje.
 
-organizacijų,   ginančių  visuomenės  sveikatos
+2. Savivaldybių sanitarijos inspekcijos
 
-interesus, veiklos
+uždavinius, kompetenciją, struktūrą, jos pareigūnų teises ir pareigas,
 
-programų rėmimui  nustatyta tvarka  gali  būti
+sanitarinės kontrolės turinį ir tvarką reglamentuoja nuostatai, kuriuos
 
-naudojamos
+tvirtina Vyriausybė Sveikatos apsaugos ministerijos teikimu.
 
-Valstybinio  sveikatos  fondo,  savivaldybių  sveikatos
+83
 
-fondų, įmonių,
+straipsnis. Kitų sveikatinimo veiklos valdymo ir kontrolės institucijų
 
-įstaigų, organizacijų, konfesijų, kitų juridinių ir
+kompetencija sveikatinimo veiklos klausimais
 
-fizinių asmenų
+Kitų sveikatinimo veiklos valdymo ir
 
-sveikatos fondų  lėšos. Rėmimo  iš šių  fondų lėšų
+kontrolės institucijų (Valstybinės veterinarijos tarnybos, Valstybinės darbo
 
-pagrindus ir tvarką
+inspekcijos ir kt.) kompetenciją sveikatinimo veiklos klausimais nustato
 
-nustato Lietuvos Respublikos Vyriausybė.
+įstatymai, kiti teisės aktai bei šių institucijų nuostatai.
+
+V DALIS
+
+ASMENŲ IR ŪKIO SUBJEKTŲ TEISĖS IR PAREIGOS
+
+SVEIKATINIMO VEIKLOJE
 
 83 straipsnis. Sveikatai
 
@@ -10864,123 +7882,159 @@ Lietuvos
 
 84 straipsnis.
 
-Ekonominių sankcijų taikymas
+Lietuvos Respublikos gyventojų teisės sveikatinimo
 
-Ekonominės
+veikloje
 
-sankcijos   įmonėms  gali   būti  taikomos,  kai
+Lietuvos Respublikos gyventojai turi teisę:
 
-nustatomi
+1) turėti sveiką, saugią fizinę ir socialinę
 
-sveikatinimo  veiklos teisės  aktų pažeidimai  arba kai
+aplinką bei gauti informaciją apie pavojų sveikatai šioje aplinkoje;
 
-neįvykdomi
+2) gauti sveikatai saugias vartojimui skirtas
 
-valstybinių inspekcijų, valstybinių tarnybų, vykdančių
+žaliavas, gaminius, prekes ir paslaugas;
 
-visuomenės
+3) gauti informaciją apie sveikatos
 
-sveikatos  kontrolę,  taip  pat  farmacinės  veiklos,
+priežiūros įstaigas bei jų teikiamas sveikatos priežiūros paslaugas;
 
-vaistų ir  vaistinių
+4) gauti informaciją apie savo sveikatą bei
 
-medžiagų kokybės kontrolę, pareigūnų teisėti
+teisę į šios informacijos konfidencialumą;
 
-nurodymi.
+5) gauti įstatymų ir teisės aktų numatytą
 
-Ekonominės
+sveikatos priežiūrą;
 
-sankcijos  įmonėms gali  būti skiriamos  ir tada,
+6) nustatyta tvarka pasirinkti sveikatos
 
-kai  nustatomi
+priežiūros specialistą, sveikatos priežiūros įstaigą, sveikatos priežiūros rūšį
 
-nelaimingų  atsitikimų  darbe,  profesinių  ligų,
+arba jų atsisakyti, išskyrus įstatymuose numatytus atvejus;
 
-profesinių apsinuodijimų,
+7) gauti valstybės laiduojamą (nemokamą) ir
 
-hospitalinių  infekcijų,  užkrečiamųjų
-
-ligų slėpimo
-
-atvejai.
-
-Ekonominių
-
-sankcijų  šiame straipsnyje  numatytais  atvejais
-
-taikymo,
-
-išieškojimo  ir apskundimo tvarką, sankcijų dydį nustato
-
-įstatymai.
-
-II
-
-SKYRIUS. ASMENS SVEIKATOS PRIEŽIŪROS,
-
-VISUOMENĖS
-
-SVEIKATOS PRIEŽIŪROS, FARMACINĖS VEIKLOS
-
-BEI KITŲ RŪŠIŲ
-
-SVEIKATINIMO VEIKLOS VALDYMO FUNKCIJOS
+savivaldybių remiamą sveikatos priežiūrą šio ir kitų įstatymų nustatyta tvarka.
 
 85 straipsnis.
 
-Asmens sveikatos informacijos viešumo
+Lietuvos Respublikos gyventojų pareigos sveikatinimo
 
-ribojimas
+veikloje
 
-Asmens
+Lietuvos Respublikos gyventojai privalo:
 
-sveikatos  informacijos viešumas  gali būti ribojamas
+1) rūpintis savo sveikata;
 
-tik įstatymų
+2) rūpintis savo nepilnamečių vaikų (įvaikių,
 
-nustatytais atvejais, kai ji sudaro asmens sveikatos
+globotinių) sveikata;
 
-(medicininę)
+3) rūpintis savo tėvų sveikata;
 
-paslaptį.  Asmens sveikatos (medicininės) paslapties
+4) nepažeisti kitų asmenų sveikatos teisių;
 
-kriterijus nustato
+5) nekenkti aplinkai;
 
-įstatymai.
+6) mokėti privalomojo sveikatos draudimo
 
-Draudžiama
+įmokas, kurias nustato Sveikatos draudimo įstatymas.
 
-skelbti   masinėse  informacijos   priemonėse
+86
 
-informaciją  apie
+straipsnis. Lietuvos Respublikoje veikiančių įmonių ir įstaigų teisės
 
-asmens  sveikatą  be  jo  raštiško  sutikimo.
+sveikatinimo veikloje
 
-Informacijos apie
+1. Lietuvos Respublikoje veikiančios įmonės
 
-asmens sveikatą kompiuteriuose apsauga privalo
+ir įstaigos turi teisę:
 
-užtikrinti jos
+1) šio ir kitų įstatymų nustatyta tvarka
 
-konfidencialumą.  Asmens  sveikatos  informacijos
+sudaryti sveikatinimo veiklos sutartis;
 
-sveikatinimo
+2) šio įstatymo ir kitų teisės aktų nustatyta
 
-veiklos  subjektams priklausančiuose  kompiuteriuose
+tvarka steigti sveikatos fondus;
 
-konfidencialumo
+3) įstatymų nustatyta tvarka steigti asmens
 
-apsaugos    reikalavimus   nustato    Sveikatos
+ar visuomenės sveikatos priežiūros įstaigas, įkurti savo padalinius,
 
-ministerija.
+atliekančius sveikatos priežiūrą;
 
-Asmenys,
+4) organizuoti sveikatos programų rengimą ir
 
-pažeidę     asmens    sveikatos     informacijos
+finansuoti jų įgyvendinimą iš savo įsteigtų sveikatos fondų ar kitų teisėtai
 
-konfidencialumą,
+įgytų lėšų.
 
-atsako pagal šį ir kitus įstatymus.
+2. Įmonės ir įstaigos gali turėti ir kitų
+
+teisių, jeigu jos neprieštarauja šiam ir kitiems įstatymams bei steigimo
+
+dokumentams.
+
+87
+
+straipsnis. Lietuvos Respublikoje veikiančių įmonių ir įstaigų pareigos
+
+sveikatinimo veikloje
+
+1. Lietuvos Respublikoje veikiančios įmonės
+
+ir įstaigos privalo:
+
+1) vykdyti sveikatos priežiūros
+
+standartizacijos norminių dokumentų reikalavimus;
+
+2) laiku informuoti sveikatos priežiūros
+
+įstaigas, tarnybas, gyventojus apie pavojų sveikatai, kurį lemia jų veikla,
+
+gaminama produkcija, realizuojamos prekės;
+
+3) sudaryti sveikas ir saugias darbo sąlygas;
+
+4) užkirsti kelią kylančiam pavojui aplinkai,
+
+riboti pavojų ir žalą aplinkai;
+
+5) saugoti žmones nuo per maistą ir geriamąjį
+
+vandenį plintančių užkrečiamųjų ligų, invazijų, taip pat apsinuodijimų maistu,
+
+įgyvendinti užkrečiamųjų ligų plitimą ribojančias priemones;
+
+6) nustatyta tvarka ir atvejais organizuoti
+
+ir apmokėti visuomenės sveikatos monitoringą ir visuomenės sveikatos
+
+ekspertizę;
+
+7) organizuoti darbuotojų sveikatos
+
+priežiūrą.
+
+2. Įmonės ir įstaigos gali turėti ir kitų
+
+pareigų, jeigu jos neprieštarauja šiam ir kitiems įstatymams.
+
+3. Įmonių ir įstaigų teisių įgyvendinimas ir
+
+pareigų sveikatinimo veikloje vykdymas neturi pažeisti kitų fizinių ir
+
+juridinių asmenų teisių.
+
+VI DALIS
+
+ATSAKOMYBĖ UŽ SVEIKATINIMO VEIKLOS
+
+TEISĖS NORMŲ PAŽEIDIMUS
 
 86 straipsnis.
 
@@ -11116,79 +8170,61 @@ teisės aktai.
 
 88 straipsnis.
 
-Sveikatinimo veiklos planavimas
+Padarytos žalos sveikatai atlyginimas
 
-Lietuvos
+Juridiniai ir fiziniai asmenys, savo veikimu
 
-Respublikoje   sveikatinimo   veiklos   planavimo
+ar neveikimu padarę žalos žmonių sveikatai, privalo atlyginti nuostolius,
 
-pagrindą sudaro
+atsiradusius dėl sveikatos pakenkimo, o nukentėjusiajam mirus - atlyginti žalą
 
-programinis planavimas.
+jo šeimai ir kitiems asmenims. Nuostoliai, atsiradę dėl sveikatos pakenkimo ar
 
-Lietuvos Respublikos
+gyvybės atėmimo, apskaičiuojami pagal Vyriausybės patvirtintus žalos sveikatai
 
-Seimas  Vyriausybės  teikimu  tvirtina
+apskaičiavimo dydžius ir metodikas, jeigu kitaip nenustato įstatymai, ir, esant
 
-ne mažiau kaip 10
+ginčui, išieškomi teismine tvarka. Žalos atlyginimo tvarką nustato Civilinis
 
-metų laikotarpiui sveikatinimo veiklos tikslus,
+kodeksas, kiti teisės aktai.
 
-valstybės
+89
 
-siekiamo   sveikatos  lygio   rodiklius  ir   Lietuvos
+straipsnis. Asmens sveikatos priežiūros įstaigų ir įmonių civilinės atsakomybės
 
-sveikatos programą
+draudimas
 
-jiems pasiekti.  Lietuvos sveikatos programos
+1. Asmens sveikatos priežiūros įmonės ir
 
-sandarą, jos
+įstaigos privalo drausti savo civilinę atsakomybę dėl žalos, padarytos pacientų
 
-rengimo,  finansavimo,  įgyvendinimo  ir  kontrolės
+sveikatai vykdant asmens sveikatos priežiūrą.
 
-tvarką
+2. Asmens sveikatos priežiūros įmonių ir
 
-reglamentuoja   nuostatai,  kuriuos   tvirtina   Lietuvos
+įstaigų civilinės atsakomybės dėl žalos, padarytos pacientų sveikatai, vykdant
 
-Respublikos
+asmens sveikatos priežiūrą, draudimo tvarką reglamentuoja Pacientų teisių ir
 
-Vyriausybė.
+žalos sveikatai atlyginimo, Draudimo įstatymas, kiti įstatymai bei teisės
 
-Lietuvos
+aktai.
 
-sveikatos   programoje  nustatytiems   uždaviniams
+90
 
-įgyvendinti
+straipsnis. Prievolė atlyginti valstybinių tarnybų, valstybinių inspekcijų,
 
-Lietuvos  Respublikos Vyriausybė, ministerijos, kitos
+sveikatos priežiūros įstaigų ir kitų juridinių asmenų išlaidas, atsiradusias
 
-Vyriausybės
+dėl neteisėta veika padarytos žalos sveikatai
 
-įstaigos,    savivaldybės    rengia    atitinkamai
+Juridiniai ir fiziniai asmenys, neteisėta
 
-valstybines,
+veika padarę žalos žmonių sveikatai, privalo įstatymų nustatyta tvarka
 
-šakines  ar   savivaldybių kompleksines ir tikslines
+atlyginti sveikatos priežiūros įstaigų, valstybinių tarnybų ar valstybinių
 
-sveikatos
-
-programas   arba  numato  šių  uždavinių  įgyvendinimo
-
-priemones kitose
-
-socialinio ir ekonominio plėtojimo programose.
-
-Sveikatos
-
-programų   rengimo,   tvirtinimo,   finansavimo,
-
-įgyvendinimo   ir
-
-kontrolės   tvarką   reglamentuoja   Lietuvos
-
-Respublikos
-
-Vyriausybės patvirtinti nuostatai.
+inspekcijų, kitų juridinių asmenų dėl to turėtas išlaidas.
 
 89 straipsnis.
 
@@ -11256,177 +8292,79 @@ straipsnio antroji, trečioji ir ketvirtoji dalys, 90 straipsnis, 91 straipsnis,
 
 91 straipsnis.
 
-Asmens sveikatos priežiūros būtinųjų sąlygų
+Moralinės žalos atlyginimas
 
-įgyvendinimo kontrolė
+1. Asmenys, pažeidę sveikatos priežiūros
 
-Kiekvienos
+priimtinumo reikalavimus, asmens sveikatos informacijos konfidencialumą (asmens
 
-asmens     sveikatos    priežiūros    įstaigos
+medicininę paslaptį), privalo atlyginti asmeniui padarytą moralinę žalą.
 
-administracija
+2. Teismas, nustatydamas moralinės
 
-privalo   atlikti  asmens   sveikatos  priežiūros
+(neturtinės) žalos, išreikštos pinigais, dydį, atsižvelgia į žalą padariusio
 
-tinkamumo ir
+asmens turtinę padėtį, teisės pažeidimo sunkumo laipsnį, teisės pažeidimo
 
-prieinamumo lokalinį  medicininį auditą.  Lokalinio
+pasekmes ir kitas aplinkybes, tačiau kiekvienu atveju šis dydis negali viršyti
 
-medicininio audito
-
-tvarką nustato Sveikatos ministerija.
-
-Pacientas,
-
-norėdamas,   kad  būtų   užtikrintas   medicinos
-
-pagalbos
-
-tinkamumas,   išskyrus  būtinosios  medicinos  pagalbos
-
-suteikimo atvejus,
-
-turi teisę  kreiptis į  pasirinktą  gydytoją,
-
-kuris,  paciento
-
-raštišku  pageidavimu,  gali  sutikti  atlikti
-
-individualų
-
-medicininį auditą. Individualaus medicininio audito
-
-sąlygas, turinį,
-
-tvarką, jo apmokėjimo šaltinius, tvarką ir kitas
-
-sąlygas nustato
-
-įstatymai ir kiti teisės aktai.
-
-Valstybinį
-
-medicininį  auditą atlieka Valstybinė medicininio
-
-audito inspekcija
-
-prie  Sveikatos  ministerijos  bei  Valstybinė
-
-ligonių kasa.
-
-Valstybinio medicininio  audito turinį,  jo tvarką
-
-nustato Lietuvos
-
-Respublikos Vyriausybė.
+500 minimalių mėnesinių atlyginimų.
 
 92 straipsnis.
 
-Sveikatinimo veiklos mokslinių tyrimų
+Atsakomybė už neteisėtą vertimąsi sveikatinimo veikla
 
-organizavimas
+Už neteisėtą vertimąsi sveikatinimo veikla ar
 
-Taikomųjų ir
+jos neteisėtą vykdymą fiziniai ir juridiniai asmenys atsako įstatymų nustatyta
 
-fundamentaliųjų biomedicininių tyrimų kriterijus
-
-nustato Sveikatos
-
-ministerija kartu su Lietuvos mokslo taryba.
-
-Taikomųjų
-
-biomedicininių  ir visuomenės   sveikatos  tyrimų
-
-prioritetus
-
-nustato,  tyrimus  užsako,  finansuoja  ir  vykdo  jų
-
-kontrolę Sveikatos
-
-ministerija.
-
-Fundamentaliųjų  biomedicininių tyrimų prioritetus  nustato,
-
-tyrimus užsako,
-
-finansuoja ir  vykdo jų kontrolę Lietuvos mokslo
-
-taryba.
-
-Draudžiama
-
-vykdyti   biomedicininius  tyrimus  be  Lietuvos
-
-medicinos etikos
-
-komiteto leidimo.  Biomedicininių tyrimų etikos
-
-reikalavimus ir jų
-
-kontrolės tvarką nustato biomedicininių tyrimų
-
-etikos įstatymas.
-
-Sveikatinimo
-
-veiklos   moksliniai  tyrimai   vykdomi  pagal
-
-sutartis, sudaromas
-
-Civilinio kodekso nustatyta tvarka.
+tvarka.
 
 93 straipsnis.
 
-Sveikatos priežiūros ir farmacijos
+Ekonominių sankcijų taikymas
 
-specialistų    rengimo   bei jų
+Įmonėms už visuomenės sveikatos priežiūros
 
-kvalifikacijos kėlimo organizavimas
+teisės aktų pažeidimus yra taikomos ekonominės sankcijos pagal Ekonominių
 
-Sveikatos
+sankcijų už visuomenės sveikatos priežiūros teisės aktų pažeidimus įstatymą.
 
-priežiūros  ir farmacijos  specialistų rengimu bei
+VII DALIS
 
-jų  kvalifikacijos
+BAIGIAMOSIOS NUOSTATOS
 
-kėlimu  pagal   savo  kompetenciją  rūpinasi
+94
 
-Sveikatos
+straipsnis. Lietuvos Respublikos tarptautinio bendradarbiavimo sveikatinimo
 
-ministerija   ir   profesinės   sveikatos   priežiūros
+veiklos srityje pagrindiniai principai
 
-specialistų
+Lietuvos Respublika, bendradarbiaudama su
 
-organizacijos.
+kitomis valstybėmis ir tarptautinėmis organizacijomis sveikatinimo veiklos
 
-Sveikatos
+srityje, turi vadovautis šiais principais:
 
-priežiūros  ir farmacijos specialybėms registruoti
+1) užtikrinti, kad Lietuvos Respublikos
 
-sudaromas
+įmonės ir įstaigos savo ūkine komercine veikla nepadarytų žalos kitų valstybių
 
-sveikatos   priežiūros   ir   farmacijos   specialistų
+teritorijoje gyvenantiems asmenims;
 
-registras, kurio
+2) teikti suinteresuotoms šalims objektyvią
 
-tvarkytojas yra Sveikatos ministerija.
+ir patikimą sveikatos informaciją;
 
-Asmens ir
+3) aktyviai siekti Pasaulio sveikatos
 
-visuomenės  sveikatos  priežiūros  bei  farmacijos
+organizacijos priimtų sveikatos strategijų įgyvendinimo;
 
-specialistų
+4) bendradarbiauti likviduojant ekologinių
 
-kvalifikacijos   kėlimo  tvarką   nustato   Sveikatos
+katastrofų, avarijų ir gaivalinių nelaimių neigiamas pasekmes visuomenės
 
-ministerija,
-
-suderinusi  su  profesinėmis  asmens  bei  visuomenės
-
-sveikatos priežiūros
-
-ir farmacijos darbuotojų organizacijomis.
+sveikatai.
 
 94 straipsnis.
 
@@ -11490,57 +8428,21 @@ pagrindimas, nustato Sveikatos ministerija.
 
 95 straipsnis.
 
-Asmens ir visuomenės sveikatos priežiūros
+Sveikatos sistemos įstatymas ir tarptautinės sutartys
 
-technologijų naudojimo tvarka
+Jeigu Lietuvos Respublikos tarptautinėje
 
-Asmens  ar
+sutartyje nustatyti kitokie reikalavimai nei nustato šis įstatymas, taikomos
 
-visuomenės  sveikatos   priežiūrai  turi   būti
+tarptautinės sutarties nuostatos.”
 
-naudojami tik
+Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
-Lietuvos Respublikoje nustatyta tvarka įregistruoti
+įstatymą.
 
-vaistai,
+RESPUBLIKOS
 
-profilaktikos,  diagnostikos, gydymo metodai, medicininė
-
-aparatūra ir
-
-instrumentai. Neįregistruotus Lietuvos Respublikoje
-
-vaistus galima
-
-naudoti Lietuvoje  tik tuo  atveju,  kai  yra  jų
-
-registravimą
-
-užsienio  šalyse patvirtinantys dokumentai, taip pat
-
-kitais šio  ir kitų
-
-įstatymų nustatytais pagrindais. Tokių vaistų
-
-naudojimo sąlygas ir
-
-tvarką nustato Sveikatos ministerija.
-
-Asmens  ir
-
-visuomenės  sveikatos  priežiūros  technologijų
-
-įvertinimo  ir   jų
-
-registravimo  tvarką  nustato  šis  ir  kiti
-
-įstatymai bei teisės
-
-aktai.
-
-III
-
-SKYRIUS. SVEIKATINIMO VEIKLOS FINANSAVIMAS
+PREZIDENTAS                                  VALDAS ADAMKUS
 
 ir trečioji dalys, 94, 95 straipsniai, 96 straipsnis, 98  straipsnio antroji ir
 
