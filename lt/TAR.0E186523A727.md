@@ -4,7 +4,7 @@ identifier: "TAR.0E186523A727"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-20"
-last_updated: "1995-07-05"
+last_updated: "1996-06-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0E186523A727"
 department: "Lietuvos Respublikos Seimas"
@@ -15,43 +15,55 @@ document_status: "registruotas TA registre"
 ---
 # Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn
 
-Redaguota:1995 07 19
+@D1=19941220;D2=19960620;D3=19960918
 
-Redaguota:1995 07 19
-
-g
+@D1=19941220;D2=19960620;D3=19960918
 
 Pakeitimai:
 
-Lietuvos Respublikos
+1.
 
-1995 07 05
+Parlamentas,
 
-Įstatymas Nr.1-1031
+Įstatymas
 
-Žin., 1995,
+{#19950705AA1031 ;}
 
-Nr.59-1484
+Nr. 1-1031, 95.07.05, Žin., 1995, Nr. 59-1484 (95.07.19)
 
 DĖL LIETUVOS
 
-RESPUBLIKOS ĮSTATYMO "DĖL
+RESPUBLIKOS ĮSTATYMO "DĖL DALIES VALSTYBĖS TURTO
 
-DALIES VALSTYBĖS
+PRISKYRIMO IR
 
-TURTO PRISKYRIMO IR
-
-PERDAVIMO
-
-SAVIVALDYBIŲ NUOSAVYBĖN"
-
-PAKEITIMO IR
+PERDAVIMO SAVIVALDYBIŲ NUOSAVYBĖN" PAKEITIMO IR
 
 PAPILDYMO
 
+2.
+
+Parlamentas,
+
+Įstatymas
+
+{#19960620AA1397 ;}
+
+Nr. 1-1397, 96.06.20, Žin., 1996, Nr. 64-1507 (96.07.05)
+
 LIETUVOS
 
-RESPUBLIKOS
+RESPUBLIKOS ĮSTATYMO "DĖL DALIES VALSTYBĖS TURTO
+
+PRISKYRIMO IR
+
+PERDAVIMO SAVIVALDYBIŲ NUOSAVYBĖN" 3 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+LIETUVOS RESPUBLIKOS
 
 ĮSTATYMAS
 
@@ -71,33 +83,25 @@ I. BENDROSIOS NUOSTATOS
 
 1 straipsnis
 
-Pagal  šį
+Pagal   šį
 
-įstatymą  dalis   valstybės  turto   priskiriama
+įstatymą   dalis  valstybės  turto  priskiriama
 
 savivaldybių
 
-nuosavybėn    įstatymų
+nuosavybėn įstatymų nustatytoms funkcijoms vykdyti.
 
-nustatytoms
+Šis įstatymas taip
 
-funkcijoms  vykdyti. Šis  įstatymas taip  pat nustato
+pat nustato minimo turto perdavimo tvarką.
 
-minimo turto
+Straipsnio
 
-perdavimo tvarką.
+pakeitimai:
 
-Pakeitimai:
+{#95FDAA1031 ;} Nr.
 
-Lietuvos Respublikos
-
-1995 07 05
-
-Įstatymas Nr.1-1031
-
-Žin., 1995,
-
-Nr.59-1484
+1-1031, 95.07.05, Žin., 1995, Nr. 59-1484 (95.07.19)
 
 2 straipsnis
 
@@ -121,17 +125,13 @@ savivaldybėms jų
 
 bendrosios dalinės nuosavybės teise.
 
-Pakeitimai:
+Straipsnio
 
-Lietuvos Respublikos
+pakeitimai:
 
-1995 07 05
+{#95FDAA1031 ;} Nr.
 
-Įstatymas Nr.1-1031
-
-Žin., 1995,
-
-Nr.59-1484
+1-1031, 95.07.05, Žin., 1995, Nr. 59-1484 (95.07.19)
 
 II.
 
@@ -145,119 +145,119 @@ Savivaldybių
 
 nuosavybėn priskiriama:
 
-1. Įmonės,
+1.  Įmonės,
 
 kurių  steigėjos  yra  savivaldybės,  nurodytos
 
 Lietuvos
 
-Respublikos  įstatymo "Dėl valstybinių įmonių, kurių iki
+Respublikos įstatymo "Dėl valstybinių įmonių, kurių iki
 
-2000-ųjų  metų
+2000-ųjų   metų
 
 nenumatoma  nei  akcionuoti,  nei  privatizuoti"
 
 priedėlyje
 
-pateiktame  sąraše (Žin., 1994, Nr.102-2051), ne pelno
+pateiktame sąraše (Žin., 1994, Nr.102-2051), ne pelno
 
-įmonės bei
+įmonės  bei
 
-savivaldybių įmonės,  taip pat  savivaldybių įsteigtų
+savivaldybių  įmonės, taip pat savivaldybių įsteigtų
 
-akcinių bendrovių,
+akcinių  bendrovių,
 
-specialios  paskirties  bendrovių,  ne  pelno
+specialios  paskirties  bendrovių,  ne pelno
 
-įmonių,  uždarųjų
+įmonių,   uždarųjų
 
 akcinių  bendrovių  valstybei  priklausančios
 
-akcijos,   kurias
+akcijos,    kurias
 
 šioje   dalyje   nurodytose   įmonėse   turi
 
 savivaldybės:
 
-1) butų  ūkio
+1)  butų  ūkio
 
-eksploatavimo  ir remonto  įmonės  (butų  ūkio
+eksploatavimo  ir  remonto įmonės (butų ūkio
 
 eksploatavimo,
 
-bendrabučių   eksploatavimo,  butų  ūkio  remonto
+bendrabučių  eksploatavimo,  butų  ūkio  remonto
 
 avarinės tarnybos);
 
 2)
 
-bendrosios    paskirties   komunalinio   ūkio   objektų
+bendrosios   paskirties   komunalinio   ūkio   objektų
 
-eksploatavimo ir
+eksploatavimo  ir
 
 remonto įmonės (komunalinio ūkio ir komunalinių
 
-paslaugų įmonės,
+paslaugų  įmonės,
 
-komunalinių įmonių  kombinatai, kelių ir gatvių
+komunalinių įmonių kombinatai, kelių ir gatvių
 
-bei jų  statinių
+bei  jų  statinių
 
-inžinerinės  įrangos, komunikacijų eksploatavimo
+inžinerinės įrangos, komunikacijų eksploatavimo
 
-bei  remonto
+bei   remonto
 
-įmonės,  miestų   išorinio  apšvietimo,   želdinių
+įmonės,   miestų  išorinio  apšvietimo,  želdinių
 
-priežiūros, remonto
+priežiūros,
 
-bei jų  įrengimo, nutekamųjų vandenų valymo,
+remonto  bei jų įrengimo, nutekamųjų vandenų valymo,
 
 specializuoto
 
-autotransporto,   dekoratyvinių  augalų   auginimo
+autotransporto,   dekoratyvinių  augalų  auginimo
 
 miesto
 
-poreikiams,   kapines   prižiūrinčios   ir   skęstančiųjų
+poreikiams,   kapines   prižiūrinčios   ir  skęstančiųjų
 
 gelbėjimo įmonės);
 
-3) buitinio
+3)  buitinio
 
 gyventojų aptarnavimo įmonės (buitinių paslaugų
 
-įmonės, skalbyklos,
+įmonės,  skalbyklos,
 
-pirtys,  cheminio  drabužių  valymo  įmonės,
+pirtys,  cheminio  drabužių  valymo įmonės,
 
 kirpyklos);
 
-4) mažmeninės
+4)  mažmeninės
 
-prekybos įmonės  (maisto prekių  parduotuvės,
+prekybos  įmonės (maisto prekių parduotuvės,
 
-vaisių  ir
+vaisių   ir
 
-daržovių  parduotuvės,   kitos  mažmeninės  prekybos
+daržovių  parduotuvės,  kitos  mažmeninės  prekybos
 
 įmonės);
 
-5) vandens
+5)    vandens
 
-tiekimo įmonės (išskyrus savarankiškas pramoninio
+tiekimo   įmonės   (išskyrus   savarankiškas
 
-vandens tiekimo
+pramoninio vandens
 
-įmones);
+tiekimo įmones);
 
-6) šilumos tiekimo
+6) šilumos
 
-įmonės;
+tiekimo įmonės;
 
-7) keleivinio
+7)  keleivinio
 
-transporto  įmonės  (autobusų  ir  troleibusų
+transporto  įmonės  (autobusų  ir troleibusų
 
 parkai);
 
@@ -269,13 +269,13 @@ paslaugų įmonės;
 
 profilaktinės dezinfekcijos įmonės;
 
-2. Valstybinis
+2.  Valstybinis
 
-turtas bei akcijos (pagrindinės  priemonės,
+turtas  bei akcijos (pagrindinės priemonės,
 
 materialinės
 
-atsargos, piniginės  lėšos ir  kt.),  valdomas  šių
+atsargos,  piniginės  lėšos  ir  kt.), valdomas šių
 
 savivaldybių įstaigų
 
@@ -285,7 +285,7 @@ ir ne pelno organizacijų:
 
 ikimokyklinių   įstaigų,   darželių-mokyklų,   bendrojo
 
-lavinimo pradinių,
+lavinimo  pradinių,
 
 pagrindinių ir vidurinių mokyklų, suaugusiųjų
 
@@ -293,17 +293,19 @@ mokyklų, centrų,
 
 jaunimo mokyklų;
 
-2) papildomo
+2)  papildomo
 
-(saviraiškos) ugdymo  įstaigų  (meno,  dailės,
+(saviraiškos)  ugdymo  įstaigų (meno, dailės,
 
-muzikos, sporto
+muzikos,   sporto
 
-mokyklų, moksleivių namų, vaikų klubų, moksleivių
+mokyklų,   moksleivių   namų,   vaikų  klubų,
 
-kūrybos namų ir
+moksleivių  kūrybos
 
-centrų, technikų, turistų, gamtininkų stočių);
+namų ir centrų, technikų, turistų, gamtininkų
+
+stočių);
 
 3) bibliotekų;
 
@@ -311,23 +313,23 @@ centrų, technikų, turistų, gamtininkų stočių);
 
 galerijų;
 
-5)  laisvalaikio
+5)
 
-organizavimo  (klubinių)  įstaigų  (klubų,
+laisvalaikio  organizavimo  (klubinių)  įstaigų  (klubų,
 
 kultūros namų ir
 
 centrų, sporto rūmų);
 
-6) teatrų  ir
+6)  teatrų  ir
 
-teatro  studijų,  choro  studijų,  koncertinių
+teatro  studijų,  choro studijų, koncertinių
 
 studijų;
 
 7)
 
-municipalinių     televizijos     stočių,     vietinio
+municipalinių     televizijos     stočių,    vietinio
 
 (municipalinio)
 
@@ -335,31 +337,33 @@ radijo centrų;
 
 8)
 
-stacionarinių   asmens  sveikatos   priežiūros   įstaigų
+stacionarinių   asmens   sveikatos  priežiūros  įstaigų
 
 (apylinkių
 
-ligoninių,  slaugos ligoninių),  ambulatorinių  asmens
+ligoninių,  slaugos  ligoninių), ambulatorinių asmens
 
 sveikatos
 
-priežiūros   įstaigų  (miestų,   rajonų   poliklinikų,
+priežiūros   įstaigų   (miestų,  rajonų  poliklinikų,
 
-turinčių juridinio
+turinčių
 
-asmens teises, ambulatorijų, medicinos punktų,
+juridinio   asmens   teises,  ambulatorijų,  medicinos
 
-felčerio-akušerio
+punktų,
 
-punktų),  įstatymų nustatytų kitų stacionarinių
+felčerio-akušerio   punktų),  įstatymų  nustatytų  kitų
 
-ir ambulatorinių
+stacionarinių   ir
 
-pirminės asmens sveikatos priežiūros įstaigų;
+ambulatorinių   pirminės   asmens  sveikatos
 
-9)  įstatymų
+priežiūros įstaigų;
 
-nustatytų   visuomenės   sveikatos   pirminės
+9)   įstatymų
+
+nustatytų   visuomenės   sveikatos  pirminės
 
 priežiūros įstaigų;
 
@@ -369,21 +373,21 @@ slaugos įstaigų (globos namų, nakvynės namų);
 
 11)
 
-švietimo,   kultūros,  sveikatos  pirminės  priežiūros,
+švietimo,  kultūros,  sveikatos  pirminės  priežiūros,
 
-socialinės globos
+socialinės  globos
 
 įstaigas aptarnaujančių tarnybų (centralizuotų
 
 buhalterijų,
 
-metodinių   kabinetų,   ūkinių   skyrių   (grupių),
+metodinių   kabinetų,   ūkinių   skyrių  (grupių),
 
 filmotekų);
 
-3. Į
+3.  Į
 
-savivaldybių balansą  įeinantys socialinės  paskirties
+savivaldybių  balansą įeinantys socialinės paskirties
 
 objektai ir kitas
 
@@ -391,29 +395,27 @@ turtas:
 
 1)
 
-neprivatizuotas   savivaldybių  butų   fondas   su   jam
+neprivatizuotas   savivaldybių   butų   fondas  su  jam
 
 priklausančiais
 
-šilumos    tinklais,   požeminių   komunikacijų
+šilumos   tinklais,   požeminių   komunikacijų
 
 kolektorių statybos
 
 dalimi, grupinėmis boilerinėmis;
 
-2) pastatai,
+2)
 
-kuriuose  yra  savivaldos  institucijos,  arba
+pastatai,   kuriuose   savivaldos   institucijos   savo
 
-dalis pastatų  ir
+funkcijoms vykdyti
 
-atskiros  patalpos,  reikalingos  savivaldybių
+užima 30 procentų ir daugiau patalpų;
 
-funkcijoms vykdyti;
+3)  miestų  ir
 
-3) miestų  ir
-
-gyvenviečių  bendrosios paskirties komunalinio
+gyvenviečių bendrosios paskirties komunalinio
 
 ūkio objektai,
 
@@ -421,27 +423,27 @@ reikalingi savivaldybių funkcijoms vykdyti:
 
 vietinės
 
-reikšmės  keliai ir gatvės su
+reikšmės    keliai    ir    gatvės   su   visais
 
-visais
+priklausančiais
 
-priklausančiais    statiniais    (tiltais,    viadukais,
+statiniais  (tiltais, viadukais, požeminėmis bei
 
-požeminėmis bei
+antžeminėmis
 
-antžeminėmis  perėjomis,  laiptais,  atraminėmis
+perėjomis,   laiptais,   atraminėmis   sienelėmis,
 
-sienelėmis,
+visuomeninio
 
-visuomeninio    keleivinio   transporto   sustojimo
+keleivinio    transporto    sustojimo   vietomis,
 
-vietomis,
+paviljonais,  kelių
 
-paviljonais,   kelių  eismo   reguliavimo  techninėmis
+eismo  reguliavimo  techninėmis priemonėmis,
 
-priemonėmis,
+inžinerine įranga
 
-inžinerine įranga bei komunikacijomis);
+bei komunikacijomis);
 
 miestų  ir
 
@@ -459,11 +461,11 @@ telkinių statiniai ir įrenginiai;
 
 vandenvietės,
 
-vandentiekio  linijos (su hidrantais), vandens
+vandentiekio linijos (su hidrantais), vandens
 
-siurbimo stotys
+siurbimo  stotys
 
-bei  valymo  įrenginiai,  fekalinės  ir  mišrios
+bei  valymo  įrenginiai,  fekalinės  ir mišrios
 
 kanalizacijos
 
@@ -497,7 +499,7 @@ apželdinti, dekoratyvinių augalų oranžerijos;
 
 paminklai,
 
-skulptūros,   fontanai,  memorialiniai  akmenys,
+skulptūros,  fontanai,  memorialiniai  akmenys,
 
 mažoji architektūra;
 
@@ -515,15 +517,15 @@ katilinės ir
 
 kultūros ir sporto statiniai ir įrenginiai;
 
-5)  nebaigti
+5)   nebaigti
 
-statyti  objektai   (su  projektine  sąmatine
+statyti  objektai  (su  projektine  sąmatine
 
 dokumentacija),
 
 reikalingi savivaldybių funkcijoms vykdyti.
 
-4. Vietos
+4.  Vietos
 
 savivaldos institucijų valdomas valstybės turtas
 
@@ -531,23 +533,21 @@ savivaldos institucijų valdomas valstybės turtas
 
 turtas ir piniginės lėšos.
 
-Pakeitimai:
+Straipsnio
 
-Lietuvos Respublikos
+pakeitimai:
 
-1995 07 05
+{#95FDAA1031 ;} Nr.
 
-Įstatymas Nr.1-1031
+1-1031, 95.07.05, Žin., 1995, Nr. 59-1484 (95.07.19)
 
-Žin., 1995,
+{#19960620AA1397 ;}
 
-Nr.59-1484
+Nr. 1-1397, 96.06.20, Žin., 1996, Nr. 64-1507 (96.07.05)
 
 III. PRISKIRTO TURTO PERDAVIMO
 
-SAVIVALDYBIŲ
-
-NUOSAVYBĖN TVARKA
+SAVIVALDYBIŲ NUOSAVYBĖN TVARKA
 
 4 straipsnis
 
@@ -601,7 +601,7 @@ perdavimo-priėmimo aktus, kuriuose nurodoma akcijų
 
 turėtojas, įmonės
 
-pavadinimas,  akcijų  rūšis,  akcijų  nominali
+pavadinimas,  akcijų  rūšis,  akcijų  nominali
 
 vertė.
 
@@ -613,15 +613,15 @@ dalyje,
 
 perduodamas  pagal  perdavimo-priėmimo  aktus,  kuriuose
 
-nurodoma savivaldybės
+nurodoma
 
-įstaigos pavadinimas,  vieta, jos  metinio
+savivaldybės  įstaigos pavadinimas,  vieta, jos  metinio
 
 balanso duomenys.
 
-Ne pelno
+Ne pelno  organizacijų,
 
-organizacijų, nurodytų  šio įstatymo  3 straipsnio
+nurodytų  šio įstatymo  3 straipsnio
 
 antrojoje dalyje,
 
@@ -701,9 +701,9 @@ Savivaldybės
 
 jų  nuosavybėn  perduotą  nekilnojamąjį  turtą
 
-kitiems juridiniams
+kitiems juridiniams  ir
 
-ir  fiziniams  asmenims  įstatymų  nustatyta
+fiziniams  asmenims  įstatymų  nustatyta
 
 tvarka išnuomoja  ir
 
@@ -755,19 +755,15 @@ perdavimo-priėmimo aktus pasirašo Lietuvos Respublikos
 
 Vyriausybės
 
-įgaliotas asmuo ir miesto ar rajono meras."
+įgaliotas asmuo ir miesto ar rajono meras.
 
-Pakeitimai:
+Straipsnio
 
-Lietuvos Respublikos
+pakeitimai:
 
-1995 07 05
+{#95FDAA1031 ;} Nr.
 
-Įstatymas Nr.1-1031
-
-Žin., 1995,
-
-Nr.59-1484
+1-1031, 95.07.05, Žin., 1995, Nr. 59-1484 (95.07.19)
 
 IV. BAIGIAMOSIOS NUOSTATOS
 
