@@ -4,7 +4,7 @@ identifier: "TAR.7B82276223C5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-12-11"
-last_updated: "2001-06-26"
+last_updated: "2001-12-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7B82276223C5"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -197,31 +197,29 @@ Policijos pareigūnams
 
 draudžiama streikuoti.
 
-8(1)
+8(1) straipsnis. Mokesčių policijos departamentas prie Vidaus reikalų ministerijos
 
-straipsnis. Mokesčių policijos departamentas prie Vidaus reikalų ministerijos
+Iki atskiro įstatymo, reglamentuojančio Mokesčių
 
-Iki atskiro
+policijos departamento prie Vidaus reikalų ministerijos pertvarkymą, teisinį
 
-įstatymo, reglamentuojančio Mokesčių policijos departamento prie Vidaus reikalų
+statusą bei veiklos pagrindus, įsigaliojimo, tačiau ne ilgiau kaip iki 2002 m.
 
-ministerijos reorganizavimą, teisinį statusą bei veiklos pagrindus,
+balandžio 1 d., Mokesčių policijos departamentui prie Vidaus reikalų
 
-įsigaliojimo, tačiau ne ilgiau kaip iki 2002 m. sausio 1 d., Mokesčių policijos
+ministerijos vadovauja šio departamento vyriausiasis komisaras. Mokesčių policijos
 
-departamentui prie Vidaus reikalų ministerijos vadovauja šio departamento
+departamento prie Vidaus reikalų ministerijos bei šio departamento padalinių
 
-vyriausiasis komisaras. Mokesčių policijos departamento prie Vidaus
+pareigūnai iki atskiro įstatymo, reglamentuojančio Mokesčių policijos
 
-reikalų ministerijos bei šio departamento padalinių pareigūnai iki atskiro
+departamento prie Vidaus reikalų ministerijos pertvarkymą, teisinį statusą bei
 
-įstatymo, reglamentuojančio Mokesčių policijos departamento prie Vidaus reikalų
+veiklos pagrindus, įsigaliojimo, tačiau ne ilgiau kaip iki 2002 m. balandžio 1
 
-ministerijos reorganizavimą, teisinį statusą bei veiklos pagrindus, įsigaliojimo,
+d., turi visas policijos pareigūnų pareigas ir teises, nustatytas Lietuvos
 
-tačiau ne ilgiau kaip iki 2002 m. sausio 1 d., turi visas policijos pareigūnų
-
-pareigas ir teises, nustatytas Lietuvos Respublikos policijos veiklos įstatyme.
+Respublikos policijos veiklos įstatyme.
 
 Įstatymas
 
@@ -231,9 +229,17 @@ Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
 
 109-3478 (2000 12 22)
 
+Straipsnio pakeitimai:
+
 Nr. IX-393, 2001-06-26, Žin., 2001, Nr.
 
 60-2139 (2001-07-11)
+
+Nr.
+
+IX-685,
+
+2001-12-21, Žin., 2001, Nr. 112-4091 (2001-12-30)
 
 9 straipsnis. Neteko galios.
 
@@ -313,7 +319,9 @@ Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
 
 109-3478 (2000 12 22)
 
-13 straipsnis. Neteko galios.
+13 straipsnis. Neteko
+
+galios.
 
 Straipsnio
 
@@ -503,7 +511,9 @@ VIII-356,
 
 97.07.01, Žin., 1997, Nr.69-1734 (97.07.23)
 
-17 straipsnis. Neteko galios.
+17 straipsnis. Neteko
+
+galios.
 
 Straipsnio
 
@@ -657,11 +667,11 @@ asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka
 
 policijos pareigūno pareigoms.
 
-Į tarnybą
+Į tarnybą policijoje
 
-policijoje savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų
+savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų mokantys
 
-mokantys valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą,
+valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą,
 
 asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka
 
@@ -807,17 +817,17 @@ generalinis
 
 komisaras.
 
-Policijos
+Policijos pareiginiai
 
-pareiginiai laipsniai suteikiami pareigūnams skiriant juos į atitinkamas
+laipsniai suteikiami pareigūnams skiriant juos į atitinkamas pareigas ir kai
 
-pareigas ir kai jie yra išlaikę kvalifikacinį egzaminą, kurio reikalavimus ir
+jie yra išlaikę kvalifikacinį egzaminą, kurio reikalavimus ir tvarką nustato
 
-tvarką nustato Lietuvos Respublikos vidaus reikalų ministras. Lietuvos teisės
+Lietuvos Respublikos vidaus reikalų ministras. Lietuvos teisės universiteto
 
-universiteto Policijos fakulteto policijos pareigūnus į pareigas Universiteto
+Policijos fakulteto policijos pareigūnus į pareigas Universiteto statute
 
-statute nustatyta tvarka skiria Universiteto rektorius, o pareiginius laipsnius
+nustatyta tvarka skiria Universiteto rektorius, o pareiginius laipsnius
 
 Universiteto rektoriaus teikimu jiems suteikia vidaus reikalų ministras.
 
@@ -1253,9 +1263,9 @@ atostogų trukmė policijos pareigūnams, ištarnavusiems policijoje (vidaus
 
 reikalų sistemoje):
 
-iki 10 metų - 30 kalendorinių
+iki 10 metų - 30
 
-dienų;
+kalendorinių dienų;
 
 nuo 10 iki 15 metų - 35
 
@@ -1575,11 +1585,11 @@ KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU
 
 LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU
 
-LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ
+LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO
 
-VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO
+KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO IR
 
-IR PAPILDYMO
+PAPILDYMO
 
 5.
 
@@ -1693,11 +1703,29 @@ Nr. IX-393, 2001-06-26, Žin., 2001, Nr.
 
 POLICIJOS ĮSTATYMO 8(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+11.
 
-Redagavo: Aušra Petraitienė (2001-07-12)
+Lietuvos
 
-aupetr@lrs.lt
+Respublikos Seimas, Įstatymas
+
+Nr. IX-685,
+
+2001-12-21, Žin., 2001, Nr. 112-4091 (2001-12-30)
+
+POLICIJOS
+
+ĮSTATYMO 8(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2002-01-04)
+
+autrap@lrs.lt
 
 36 straipsnis. Neteko
 
