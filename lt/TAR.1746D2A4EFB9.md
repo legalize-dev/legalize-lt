@@ -4,7 +4,7 @@ identifier: "TAR.1746D2A4EFB9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "2024-07-01"
+last_updated: "2027-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1746D2A4EFB9"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2026-12-31
+Suvestinė redakcija nuo 2027-01-01
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2727, i. k. 0971010ISTAVIII-499
 
@@ -859,7 +859,11 @@ Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 
 2) asmuo turi leidimą įkurti zoologijos sodą, išduotą vadovaujantis Laukinės gyvūnijos įstatymu.
 
-3) prekiaujama saugomų rūšių laukiniais gyvūnais, skirtais veislinei bandai specializuotuose kailinių žvėrelių auginimo ūkiuose sudaryti.
+3) Neteko galios nuo 2027-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIV-2223, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22369
 
 3. Aplinkos ministerijos įgaliota institucija leidimą prekiauti saugomų rūšių laukiniais gyvūnais išduoda arba motyvuotą rašytinį atsisakymą išduoti leidimą prekiauti saugomų rūšių laukiniais gyvūnais leidimo prekiauti saugomų rūšių laukiniais gyvūnais prašytojui pateikia ne vėliau kaip per 30 kalendorinių dienų nuo prašymo, visų tinkamai įformintų dokumentų ir informacijos, reikalingų išduoti leidimą prekiauti saugomų rūšių laukiniais gyvūnais, gavimo dienos.
 
