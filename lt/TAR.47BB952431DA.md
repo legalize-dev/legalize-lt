@@ -4,7 +4,7 @@ identifier: "TAR.47BB952431DA"
 country: "lt"
 rank: "konstitucija"
 publication_date: "1992-10-25"
-last_updated: "1996-07-21"
+last_updated: "1997-01-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"
 department: "Piliečių referendumas"
@@ -14,7 +14,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Konstitucija
 
-Suvestinė redakcija nuo 1996-07-21 iki 1997-01-12
+Suvestinė redakcija nuo 1997-01-13 iki 2002-07-20
 
 Konstitucija paskelbtas: Lietuvos aidas 1992, Nr. 220-0; Žin. 1992, Nr.33-1014, i. k. 0921010KONSRG922324
 
@@ -1108,7 +1108,11 @@ VIETOS SAVIVALDA IR VALDYMAS
 
 Savivaldos teisė laiduojama įstatymo numatytiems valstybės teritorijos administraciniams vienetams. Ji įgyvendinama per atitinkamas savivaldybių tarybas.
 
-Savivaldybių tarybų narius dvejiems metams renka administracinio vieneto gyventojai – Lietuvos Respublikos piliečiai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
+Savivaldybių tarybų narius trejiems metams renka administracinio vieneto gyventojai - Lietuvos Respublikos piliečiai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-32, 1996-12-12, Žin., 1996, Nr. 122-2863 (1996-12-18), i. k. 0961010ISTA0VIII-32
 
 Savivaldos institucijų organizavimo ir veiklos tvarką nustato įstatymas.
 
@@ -1371,4 +1375,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1390, 1996-06-20, Žin., 1996, Nr. 64-1501 (1996-07-05), i. k. 0961010ISTA00I-1390
 
 Lietuvos Respublikos Konstitucijos 47 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-32, 1996-12-12, Žin., 1996, Nr. 122-2863 (1996-12-18), i. k. 0961010ISTA0VIII-32
+
+Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymas
 
