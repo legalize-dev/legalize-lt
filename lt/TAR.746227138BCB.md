@@ -4,7 +4,7 @@ identifier: "TAR.746227138BCB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-01"
-last_updated: "2003-05-01"
+last_updated: "2003-10-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.746227138BCB"
 department: "Lietuvos Respublikos Seimas"
@@ -595,9 +595,9 @@ jeigu moterų ir vyrų lygių galimybių kontrolierius nenusprendžia kitaip.
 
 1. Skunde turi būti:
 
-1) adresatas - moterų ir vyrų lygių
+1) adresatas - moterų ir vyrų lygių galimybių
 
-galimybių kontrolierius;
+kontrolierius;
 
 2) pareiškėjo vardas, pavardė ar
 
@@ -885,42 +885,6 @@ Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 
 64-2328 (2001-07-25)
 
-27
-
-straipsnis. Moterų ir vyrų lygių galimybių kontrolieriaus tarnybos veiklos
-
-ataskaita
-
-Moterų ir vyrų lygių galimybių
-
-kontrolierius kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių
-
-kalendorinių metų Moterų ir vyrų lygių galimybių kontrolieriaus tarnybos
-
-veiklos ataskaitą, kuri nagrinėjama Seime ir paskelbiama viešai.
-
-28
-
-straipsnis. Moterų ir vyrų lygių galimybių kontrolieriaus tarnybos veiklos
-
-viešumas
-
-Moterų ir vyrų lygių galimybių
-
-kontrolieriaus tarnyba informaciją spaudai ir kitoms visuomenės informavimo
-
-priemonėms apie skundo dėl lygių teisių pažeidimo tyrimą teikia tik pareiškėjui
-
-sutikus.
-
-VI
-
-SKYRIUS
-
-BAIGIAMOSIOS
-
-NUOSTATOS
-
 26 straipsnis. Moterų ir vyrų lygių
 
 galimybių kontrolieriaus atlyginimas
@@ -989,9 +953,9 @@ Respublikos Vyriausybei
 
 Pasiūlyti Vyriausybei per 10 dienų nuo
 
-šio įstatymo įsigaliojimo Moterų ir vyrų lygių galimybių kontrolieriaus
+šio įstatymo įsigaliojimo Moterų ir vyrų lygių galimybių kontrolieriaus tarnybai
 
-tarnybai skirti patalpas.
+skirti patalpas.
 
 30 straipsnis. Įstatymo įsigaliojimas
 
@@ -1081,13 +1045,75 @@ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 21 IR 24 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 37-1341), t.y. nuo 2003 m. gegužės 1 d.
 
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1771,
+
+2003-10-14, Žin., 2003, Nr. 104-4641 (2003-11-05)
+
+MOTERŲ
+
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 27 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-04-28)
+Aušrinė Trapinskienė (2003-11-05)
 
 autrap@lrs.lt
+
+27 straipsnis. Moterų ir vyrų lygių
+
+galimybių kontrolieriaus tarnybos veiklos ataskaita
+
+Moterų ir vyrų lygių galimybių
+
+kontrolierius kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių
+
+kalendorinių metų Moterų ir vyrų lygių galimybių kontrolieriaus tarnybos
+
+veiklos ataskaitą, kuri nagrinėjama Seime. Visa ataskaita turi būti paskelbta
+
+Moterų ir vyrų lygių galimybių kontrolieriaus tarnybos interneto tinklalapyje,
+
+o esant galimybei, – ir per kitas visuomenės informavimo priemones.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1771,
+
+2003-10-14, Žin., 2003, Nr. 104-4641 (2003-11-05)
+
+28
+
+straipsnis. Moterų ir vyrų lygių galimybių kontrolieriaus tarnybos veiklos
+
+viešumas
+
+Moterų ir vyrų lygių galimybių
+
+kontrolieriaus tarnyba informaciją spaudai ir kitoms visuomenės informavimo
+
+priemonėms apie skundo dėl lygių teisių pažeidimo tyrimą teikia tik pareiškėjui
+
+sutikus.
+
+VI
+
+SKYRIUS
+
+BAIGIAMOSIOS
+
+NUOSTATOS
 
