@@ -4,7 +4,7 @@ identifier: "TAR.A84A37E84BD7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-29"
-last_updated: "2002-12-10"
+last_updated: "2003-12-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A84A37E84BD7"
 department: "Lietuvos Respublikos Seimas"
@@ -1069,7 +1069,7 @@ straipsnis. Baigiamosios nuostatos
 
 1.
 
-LRT finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2004 m. sausio 1 d.
+LRT finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2005 m. sausio 1 d.
 
 2.
 
@@ -1096,6 +1096,12 @@ Nr. IX-695,
 Nr. IX-1273,
 
 2002-12-10, Žin., 2002, Nr. 123-5554 (2002-12-24)
+
+Nr.
+
+IX-1893,
+
+2003-12-11, Žin., 2003, Nr. 123-5578 (2003-12-30)
 
 Vadovaudamasis
 
@@ -1203,11 +1209,31 @@ TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO
 
 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+7.
 
-Redagavo: Aušrinė Trapinskienė (2003-01-08)
+Lietuvos
 
-autrap@lrs.lt
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1893,
+
+2003-12-11, Žin., 2003, Nr. 123-5578 (2003-12-30)
+
+LIETUVOS
+
+NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušra Bodin (2003-12-31)
+
+aubodi@lrs.lt
 
 10 straipsnis.
 
