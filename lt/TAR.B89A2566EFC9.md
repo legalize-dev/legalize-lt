@@ -4,7 +4,7 @@ identifier: "TAR.B89A2566EFC9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-01-17"
-last_updated: "1995-01-27"
+last_updated: "1996-02-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B89A2566EFC9"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1995-01-17"
 document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo
+
+Suvestinė redakcija nuo 1996-02-14 iki 2004-11-25
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 9-184, i. k. 0951010ISTA000I-761
 
 LIETUVOS RESPUBLIKOS
 
@@ -79,7 +83,11 @@ Kol bus priimtas Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos
 
 9 straipsnis.
 
-Į Lietuvos Respublikos respublikinės ir vietinės reikšmės istorijos ir kultūros paminklų sąrašus, Naujai išaiškinamų istorijos ir kultūros paminklų sąrašą įrašyti bei į laikinąją istorijos ir kultūros paminklų apskaitą įtraukti objektai, kol bus nuspręsta dėl jų įrašymo į Lietuvos Respublikos kultūros vertybių registrą, turi būti saugomi kaip nekilnojamosios kultūros vertybės. Istorijos ir kultūros paminklų apsaugos dokumentai (apsaugos ir nuomos sutartis, apsaugos sutartis, įsipareigojimas saugoti paminklą), jų apsaugos zonų nustatymo ir kiti dokumentai galioja, kol jie bus pakeisti pagal Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymą.
+Į Lietuvos Respublikos respublikinės ir vietinės reikšmės istorijos ir kultūros paminklų sąrašus, Naujai išaiškinamų istorijos ir kultūros paminklų sąrašą įrašyti bei į laikinąją istorijos ir kultūros paminklų apskaitą įtraukti objektai, taip pat visos kartografuotos ir inventorizuotos bei įtrauktos į gamtos, istorijos ir kultūros paminklų katalogus neveikiančios kapinės, kol bus nuspręsta dėl jų įrašymo į Lietuvos Respublikos nekilnojamųjų kultūros vertybių registrą, turi būti saugoma kaip nekilnojamosios kultūros vertybės. Istorijos ir kultūros paminklų bei neveikiančių kapinių apsaugos dokumentai (apsaugos ir nuomos sutartis, apsaugos sutartis, įsipareigojimas saugoti paminklą), jų apsaugos zonų nustatymo ir kiti dokumentai galioja, kol jie bus pakeisti pagal Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymą.
+
+Straipsnio pakeitimai:
+
+Nr. I-1198, 1996-02-06, Žin., 1996, Nr. 14-355 (1996-02-14), i. k. 0961010ISTA00I-1198
 
 10 straipsnis.
 
@@ -98,4 +106,14 @@ Nuo 1995 m. vasario 1 d. netenka galios:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1198, 1996-02-06, Žin., 1996, Nr. 14-355 (1996-02-14), i. k. 0961010ISTA00I-1198
+
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo" 9 straipsnio papildymo Įstatymas
 
