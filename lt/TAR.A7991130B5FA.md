@@ -4,7 +4,7 @@ identifier: "TAR.A7991130B5FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-07-04"
-last_updated: "1995-09-15"
+last_updated: "1996-10-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7991130B5FA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Po 1997 m. gruodžio 1 d. lieka galioti objektų privatizavimas, kurių privatizavimo programos nustatyta tvarka patvirtintos iki 1997 m. gruodžio 1 d."
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymas
+
+Suvestinė redakcija nuo 1996-10-16 iki 1996-12-30
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 61-1530, i. k. 0951010ISTA00I-1001
 
 LIETUVOS RESPUBLIKOS
 
@@ -276,7 +280,11 @@ Lietuvos Respublikos Vyriausybė turi teisę nustatyti ir kitus privatizavimo pr
 
 6. Objektai, kurie Lietuvos Respublikos įstatymų nustatyta tvarka yra valstybės saugomi, gali būti įtraukti į privatizavimo programas tik suderinus jų naudojimo sąlygas su atitinkama institucija, atliekančia šių objektų valstybinę priežiūrą.
 
-7. Privatizavimo objektas iš Lietuvos Respublikos Vyriausybės patvirtinto sąrašo ar iš Privatizavimo komisijos patvirtintos privatizavimo programos gali būti išbrauktas tik po to, kai tas objektas šio įstatymo nustatyta tvarka bent vieną kartą buvo siūlomas parduoti, bet per privatizavimo programoje nustatytą laiką parduotas nebuvo.
+7. Privatizavimo objektas iš Lietuvos Respublikos Vyriausybės patvirtinto sąrašo ar iš Privatizavimo komisijos patvirtintos privatizavimo programos gali būti išbrauktas po to, kai tas objektas šio įstatymo nustatyta tvarka bent vieną kartą buvo siūlomas parduoti, bet per privatizavimo programoje nustatytą laiką parduotas nebuvo, ir kitais įstatymų numatytais atvejais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1538, 1996-09-24, Žin., 1996, Nr. 100-2260 (1996-10-16), i. k. 0961010ISTA00I-1538
 
 14 straipsnis. Informacijos apie privatizavimo objektus paskelbimas
 
@@ -427,4 +435,14 @@ Tais atvejais, kai Lietuvos Respublikos tarptautinėse sutartyse yra nustatytos 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1538, 1996-09-24, Žin., 1996, Nr. 100-2260 (1996-10-16), i. k. 0961010ISTA00I-1538
+
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 13 straipsnio pakeitimo įstatymas
 
