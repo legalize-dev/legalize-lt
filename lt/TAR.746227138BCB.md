@@ -4,7 +4,7 @@ identifier: "TAR.746227138BCB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-01"
-last_updated: "2002-06-18"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.746227138BCB"
 department: "Lietuvos Respublikos Seimas"
@@ -669,15 +669,11 @@ nepateikia reikiamų duomenų;
 
 nepriskirtas moterų ir vyrų lygių galimybių kontrolieriaus kompetencijai;
 
-4) skundas tuo pačiu klausimu buvo
+4) skundas tuo pačiu klausimu buvo išnagrinėtas,
 
-išnagrinėtas, yra nagrinėjamas teisme arba pagal įstatymus turi būti
+yra nagrinėjamas teisme arba pagal įstatymus turi būti nagrinėjamas teisme;
 
-nagrinėjamas teisme;
-
-5) dėl skunde keliamo dalyko yra
-
-priimtas procesinis sprendimas iškelti baudžiamąją bylą.
+5) dėl skunde keliamo dalyko yra priimtas procesinis sprendimas pradėti ikiteisminį tyrimą.
 
 2. Jeigu pareiškėjui skundas grąžinamas,
 
@@ -702,6 +698,16 @@ pateikiami nauji faktai.
 duomenų, be kurių neįmanoma pradėti skundo tyrimo, skundas paliekamas
 
 nenagrinėtas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1433,
+
+2003-04-03, Žin., 2003, Nr. 38-1678 (2003-04-24)
 
 22 straipsnis. Skundo ištyrimo terminai
 
@@ -773,9 +779,9 @@ galimybių kontrolieriaus sprendimai
 
 galimybių kontrolierius gali priimti sprendimą:
 
-1) perduoti tyrimo medžiagą tardymo
+1) perduoti tyrimo medžiagą ikiteisminio
 
-organams, jeigu nustatomi nusikaltimo požymiai;
+tyrimo įstaigai ar prokurorui, jeigu nustatomi nusikalstamos veikos požymiai;
 
 2) kreiptis į atitinkamą asmenį ar
 
@@ -807,6 +813,12 @@ Nr. IX-956,
 
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
 
+Nr.
+
+IX-1433,
+
+2003-04-03, Žin., 2003, Nr. 38-1678 (2003-04-24)
+
 25
 
 straipsnis. Moterų ir vyrų lygių galimybių kontrolieriaus reikalavimų
@@ -832,14 +844,6 @@ per 10 darbo dienų.
 3. Asmenys, trukdantys moterų ir vyrų
 
 lygių galimybių kontrolieriui atlikti pareigas, atsako pagal įstatymus.
-
-26 straipsnio
-
-pavadinimas pakeistas:
-
-Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
-
-64-2328 (2001-07-25)
 
 26
 
@@ -1055,13 +1059,35 @@ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 1, 2, 3, 8, 12, 24 STRAIPSNIŲ PAKEITIMO IR
 
 PAPILDYMO BEI ĮSTATYMO PAPILDYMO 5(1) IR 7(1) STRAIPSNIAIS ĮSTATYMAS
 
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1433,
+
+2003-04-03, Žin., 2003, Nr. 38-1678 (2003-04-24)
+
+MOTERŲ
+
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 21 IR 24 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas
+
+įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr.
+
+89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr.
+
+37-1341), t.y. nuo 2003 m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-07-05)
+Aušrinė Trapinskienė (2003-04-28)
 
 autrap@lrs.lt
 
