@@ -4,7 +4,7 @@ identifier: "TAR.0BF57F35FC82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-07-04"
-last_updated: "1995-09-01"
+last_updated: "2000-05-24"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0BF57F35FC82"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos pramoninio dizaino įstatymas
+
+Suvestinė redakcija nuo 2000-05-24 iki 2000-12-31
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 61-1531, i. k. 0951010ISTA00I-1006
 
 LIETUVOS RESPUBLIKOS PRAMONINIO DIZAINO ĮSTATYMAS
 
@@ -66,11 +70,11 @@ Pramoninis dizainas turi individualias savybes, jeigu informuotas vartotojas ats
 
 5 straipsnis. Pramoninio dizaino savininko teisės
 
-Be pramoninio dizaino savininko leidimo kitas asmuo neturi teisės atlikti šių veiksmų:
+Įregistruoto pramoninio dizaino savininkas turi išimtinę teisę leisti arba drausti kitiems asmenims, neturintiems jo leidimo, gaminti, siūlyti parduoti, parduoti, išleisti į rinką, importuoti ar eksportuoti, kaupti ir naudoti gaminius ar jų dalis, kurie yra įregistruoto pramoninio dizaino kopija ar iš esmės yra kopija, kai tokie veiksmai vykdomi komerciniais tikslais.
 
-1) gaminti gaminį, kuris ar jo dalis yra įregistruotas kaip pramoninis dizainas;
+Straipsnio dalies pakeitimai:
 
-2) siūlyti įvežti ar eksportuoti bei kaupti rinkai gaminius ar jų dalis, įregistruotus kaip pramoninis dizainas.
+Nr. VIII-1676, 2000-05-11, Žin., 2000, Nr. 42-1196 (2000-05-24), i. k. 1001010ISTAIII-1676
 
 Pramoninio dizaino savininko teisių pažeidimu nelaikoma šio straipsnio pirmojoje dalyje išvardyti veiksmai, jeigu:
 
@@ -306,11 +310,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-261 straipsnis. Muitinės priežiūros priemonių taikymas
+Pakeitimai:
 
-Gaminiams ir jų dalims, kurių importas į Lietuvos Respubliką ir eksportas iš Lietuvos Respublikos laikytinas teisių į pramoninį dizainą pažeidimu, gali būti taikomos įstatymų nustatytos muitinės priežiūros priemonės.
+1.
 
-Papildyta straipsniu:
+Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-119, 2000-12-21, Žin., 2000, Nr. 113-3613 (2000-12-30), i. k. 1001010ISTA00IX-119
+Nr. VIII-1676, 2000-05-11, Žin., 2000, Nr. 42-1196 (2000-05-24), i. k. 1001010ISTAIII-1676
+
+Lietuvos Respublikos pramoninio dizaino įstatymo 5 straipsnio pakeitimo įstatymas
 
