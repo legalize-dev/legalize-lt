@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2001-06-12"
+last_updated: "2001-07-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -214,6 +214,430 @@ Nr. VIII-2064, 2000 10 17, Žin., 2000, Nr.
 Nr. IX-374, 2001-06-12, Žin., 2001, Nr.
 
 55-1946 (2001-06-27)
+
+4
+
+straipsnis. Asmenys draudžiami nelaimingų atsitikimų darbe socialiniu draudimu
+
+1. Nelaimingų atsitikimų darbe socialiniu draudimu privalomai draudžiami:
+
+1) asmenys, dirbantys pagal darbo sutartis, einantys narystės pagrindu
+
+renkamąsias pareigas renkamose organizacijose, dirbantys narystės pagrindu
+
+ūkinėse bendrijose, žemės ūkio bendrovėse arba kooperatinėse organizacijose,
+
+kandidatai į notarus (asesoriai);
+
+2) valstybės politikai, Konstitucinio Teismo teisėjai, Lietuvos
+
+Aukščiausiojo Teismo teisėjai, kitų teismų teisėjai, kandidatai į teisėjus,
+
+prokuratūros pareigūnai, Lietuvos banko valdybos pirmininkas, jo pavaduotojai,
+
+valdybos nariai, Seimo ar Respublikos Prezidento paskirti valstybės institucijų
+
+ar įstaigų vadovai, kiti Seimo ar Respublikos Prezidento paskirti valstybės
+
+institucijų ar įstaigų pareigūnai, Seimo ar Respublikos Prezidento paskirti
+
+valstybinių (nuolatinių) komisijų ir tarybų, kitų valstybinių (nuolatinių)
+
+komisijų ir tarybų pirmininkai, jų pavaduotojai ir nariai, taip pat pagal
+
+specialius įstatymus įsteigtų komisijų ar tarybų pareigūnai, viešojo
+
+administravimo valstybės tarnautojai, išskyrus Vidaus reikalų ministerijos,
+
+policijos, Valstybės sienos apsaugos tarnybos ir kitų vidaus reikalų įstaigų
+
+pareigūnus, vidaus tarnybos dalinių karininkus, liktinės tarnybos
+
+puskarininkius ir karius, Specialiųjų tyrimų tarnybos, Kalėjimų departamento
+
+prie Lietuvos Respublikos teisingumo ministerijos bei jam pavaldžių įstaigų ir
+
+valstybės įmonių pareigūnus, krašto apsaugos sistemos profesinės karo tarnybos
+
+karius ir Valstybės saugumo departamento sistemos pareigūnus;
+
+3) profesinių mokyklų moksleiviai, aukštesniųjų ir aukštųjų mokyklų
+
+studentai jų profesinio mokymo (praktikos) įstaigoje ar įmonėje metu bei
+
+asmenys, darbo biržų siųsti persikvalifikuoti įmonėse arba dirbti viešuosius
+
+darbus;
+
+4) asmenys, esantys socialinės bei psichologinės reabilitacijos
+
+įstaigose, – už jų darbo laiką;
+
+5) nuteistieji laisvės atėmimu – už jų darbo laiką.
+
+2. Šio straipsnio 1 dalyje nurodyti asmenys draudžiami, jei jiems už
+
+darbą mokamas darbo užmokestis.
+
+Straipsnio pakeitimai:
+
+Nr. IX-428, 2001-07-05, Žin., 2001, Nr.
+
+64-2325 (2001-07-25)
+
+5
+
+straipsnis. Draudėjai
+
+Šio
+
+įstatymo 4 straipsnyje nurodytų asmenų draudėjai yra:
+
+1)
+
+pagal darbo sutartį dirbančių asmenų darbdaviai;
+
+2)
+
+valstybės ir savivaldybių įmonės, įstaigos, organizacijos;
+
+3)
+
+įstaigos ir įmonės, kuriose mokiniai ir studentai atlieka gamybinę praktiką,
+
+bei įmonės, kuriose darbo biržos siųsti asmenys persikvalifikuoja ar dirba
+
+viešuosius darbus (jei su šiais asmenimis nėra sudarytos darbo sutartys);
+
+4)
+
+socialinės bei psichologinės reabilitacijos įstaigos;
+
+5)
+
+bausmės atlikimo įstaigos.
+
+6
+
+straipsnis. Draudiminiai įvykiai
+
+1.
+
+Draudiminiai įvykiai, susiję su 4 straipsnyje nurodytais apdraustaisiais, yra
+
+įvykiai, kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
+
+nustatyta tvarka ištirti ir pripažinti nelaimingais atsitikimais darbe,
+
+profesinėmis ligomis, nelaimingais atsitikimais pakeliui į darbą ar iš darbo,
+
+tai:
+
+1) nelaimingi atsitikimai
+
+darbe ir profesinės ligos, dirbant pagal darbo sutartį, atliekant viešojo
+
+administravimo funkcijas arba gaunant atlyginimą už darbą (šio įstatymo 5
+
+straipsnio 3–5 punktai), taip pat nelaimingi atsitikimai, įvykę darbo laiku
+
+rengiant ar tvarkant darbo vietą ar darbo vietoje atliekant kitus su darbo
+
+procesu susijusius veiksmus, įvykiai, įvykę papildomų, specialių pertraukų ar
+
+pertraukų pailsėti ir pavalgyti metu, kai darbuotojas yra darbo vietoje, įmonės
+
+patalpose ar jos teritorijoje;
+
+2) nelaimingi
+
+atsitikimai pakeliui į darbą ir iš darbo;
+
+3) nelaimingi
+
+atsitikimai, kai apdraustieji atlieka teisės aktais nustatytas pareigas ar
+
+darbdavio pavedimu – visuomenines pareigas, susijusias su tos įmonės veikla,
+
+kai už tai mokamas darbo užmokestis.
+
+2.
+
+Sprendžiant nelaimingo atsitikimo priskyrimo draudiminiam įvykiui klausimą,
+
+nelaimingo atsitikimo darbe, susirgimo profesine liga ar mirties dėl nelaimingo
+
+atsitikimo darbe priežasties įrodymas yra:
+
+1)
+
+nelaimingą atsitikimą darbe ar profesinę ligą patvirtinantys tyrimo aktai;
+
+2)
+
+teismo nuosprendžiai, sprendimai;
+
+3)
+
+darbo aplinkos kenksmingų veiksnių matavimo rezultatų ir darbo sąlygų
+
+higieninio įvertinimo dokumentai;
+
+4) Centrinės
+
+darbo medicinos ekspertų komisijos išvada;
+
+5)
+
+atitinkamos sveikatos priežiūros įstaigos darbo medicinos specialistų tyrimo ar
+
+ekspertizės išvada, išduota Vyriausybės ar jos įgaliotos institucijos nustatyta
+
+tvarka;
+
+6)
+
+kiti dokumentai, kuriuose yra duomenų apie nelaimingą atsitikimą darbe,
+
+susirgimą profesine liga arba apie mirties dėl nelaimingo atsitikimo darbe
+
+priežastį.
+
+Straipsnio pakeitimai:
+
+Nr. IX-374, 2001-06-12, Žin., 2001, Nr. 55-1946
+
+(2001-06-27)
+
+7
+
+straipsnis. Nedraudiminiai įvykiai
+
+Draudiminiams
+
+įvykiams nepriskiriami nelaimingi atsitikimai darbe, kuriuos ištyrus nustatyta,
+
+kad jie įvyko:
+
+1)
+
+dėl to, kad nukentėjusysis buvo apsvaigęs nuo alkoholio, narkotikų ar toksinių
+
+medžiagų ir tai nebuvo susiję su technologiniu procesu;
+
+2)
+
+nukentėjusiajam darant tyčinį nusikaltimą;
+
+3)
+
+nukentėjusiajam savavališkai (be draudėjo žinios) atliekant darbą ne draudėjo
+
+naudai (ne draudėjo interesais);
+
+4)
+
+nukentėjusiajam sąmoningai siekiant, jog įvyktų nelaimingas atsitikimas;
+
+5)
+
+dėl bendro susirgimo.
+
+8
+
+straipsnis. Draudėjų pareigos ir atsakomybė
+
+1.
+
+Draudėjai privalo:
+
+1)
+
+organizuoti pirmąją medicinos pagalbą nukentėjusiajam dėl nelaimingo atsitikimo
+
+darbe ar ūmios profesinės ligos, taip pat prireikus nugabenti nukentėjusįjį į
+
+sveikatos priežiūros įstaigą;
+
+2) įstatymų nustatyta tvarka pranešti apie nelaimingą atsitikimą darbe,
+
+susirgimą profesine liga Darbuotojų saugos ir sveikatos įstatymo nustatytoms
+
+institucijoms bei valstybinio socialinio draudimo įstaigai;
+
+3) laiku ir teisingai
+
+apskaičiuoti bei mokėti valstybinio socialinio draudimo įmokas.
+
+2.
+
+Už šio įstatymo nustatytų pareigų nevykdymą draudėjas atsako įstatymų nustatyta
+
+tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. IX-428, 2001-07-05, Žin., 2001, Nr.
+
+64-2325 (2001-07-25)
+
+9
+
+straipsnis. Apdraustųjų asmenų teisės
+
+1.
+
+Teisę į šio įstatymo 11 straipsnyje nustatytas draudimo išmokas turi
+
+apdraustieji, kurių sveikatai dėl nelaimingo atsitikimo darbe ar susirgimo
+
+profesine liga buvo pakenkta įvykus draudiminiam įvykiui, numatytam 6
+
+straipsnyje.
+
+2.
+
+Apdraustieji taip pat turi teisę gauti iš draudėjo informaciją apie
+
+valstybinio socialinio draudimo įmokų mokėjimą už juos, o įvykus draudiminiam
+
+įvykiui - informaciją iš valstybinio socialinio draudimo įstaigos apie šio
+
+įstatymo nustatytų garantijų taikymą pagal šį įvykį.
+
+10
+
+straipsnis. Apdraustųjų asmenų pareigos ir atsakomybė
+
+Apdraustieji
+
+asmenys turi laikytis saugos darbe teisės aktų nustatytų reikalavimų bei
+
+gydymo, medicininės, profesinės reabilitacijos rekomendacijų.
+
+ANTRASIS
+
+SKIRSNIS
+
+DRAUDIMO
+
+IŠMOKOS
+
+11
+
+straipsnis. Nelaimingų atsitikimų darbe socialinio draudimo išmokų rūšys
+
+1.
+
+Apdraustajam, dėl 6 straipsnyje numatyto draudiminio įvykio netekusiam dalies
+
+ar viso darbingumo, pagal šį įstatymą išmokama:
+
+1)
+
+ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos pašalpa (toliau
+
+-ligos pašalpa);
+
+2)
+
+netekto darbingumo vienkartinė kompensacija;
+
+3)
+
+netekto darbingumo periodinė kompensacija.
+
+2.
+
+Apdraustajam žuvus dėl draudiminio įvykio, jo šeimos nariams, išvardytiems 31
+
+straipsnyje, lygiomis dalimis išmokama laidojimo pašalpa.
+
+3.
+
+Apdraustajam žuvus dėl draudiminio įvykio, jo šeimos nariams lygiomis dalimis
+
+mokama periodinė draudimo išmoka.
+
+4.
+
+Asmenims, nuteistiems laisvės atėmimu (šio įstatymo 4 straipsnio 5 punktas),
+
+šio straipsnio 1 dalyje nurodytos išmokos mokamos paleidus juos iš bausmės
+
+atlikimo įstaigos.
+
+12
+
+straipsnis. Ligos pašalpa
+
+1.
+
+Ligos pašalpa skiriama apdraustajam asmeniui tapus laikinai nedarbingu
+
+dėl nelaimingo atsitikimo darbe arba profesinės ligos, išskyrus 7 straipsnyje
+
+nurodytus atvejus.
+
+2.
+
+Ligos pašalpa apdraustiesiems, besigydantiems sveikatos priežiūros įstaigoje,
+
+teikiančioje ortopedines ir (ar) protezavimo paslaugas, skiriama už vykimo į
+
+šią įstaigą, buvimo joje ir grįžimo iš jos laiką.
+
+13
+
+straipsnis. Teisė į ligos pašalpą
+
+1. Susižaloję darbe ar susirgę
+
+profesine liga apdraustieji (4 straipsnio 1 dalies 1, 2 punktai) teisę į ligos
+
+pašalpą įgyja neatsižvelgiant į turimą valstybinio socialinio draudimo stažą.
+
+2.
+
+Ligos pašalpa skiriama, jei teisė ją gauti atsirado darbo laikotarpiu,
+
+įskaitant bandomąjį laikotarpį ir atleidimo iš darbo dieną.
+
+3.   Pagrindas
+
+skirti ligos pašalpą yra nustatyta tvarka išduotas nedarbingumo pažymėjimas ir
+
+dokumentai, patvirtinantys draudiminį įvykį (6 straipsnio 2 dalis).
+
+14
+
+straipsnis. Kompensuojamasis uždarbis ligos pašalpoms
+
+apskaičiuoti
+
+1.
+
+Kompensuojamasis uždarbis apskaičiuojamas pagal asmens draudžiamąsias pajamas
+
+tokia pat tvarka, kokia yra Vyriausybės ar jos įgaliotos institucijos nustatyta
+
+ligos ir motinystės (tėvystės) pašalpoms apskaičiuoti.
+
+2. Vidutinis
+
+mėnesinis kompensuojamasis uždarbis nelaimingų atsitikimų darbe draudimo
+
+išmokoms skaičiuoti negali viršyti Vyriausybės patvirtintų vidutinių mėnesinių
+
+draudžiamųjų pajamų, galiojusių draudiminio įvykio atsitikimo mėnesį, trijų su
+
+puse dydžio sumos.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1787, 2000 07 04, Žin., 2000, Nr.
+
+58-1716 (2000 07 19)
 
 4 straipsnis. Asmenys, draudžiami
 
@@ -899,11 +1323,9 @@ darbingumas padidėjo.
 
 straipsnis. Draudimo išmokų mokėjimo terminai
 
-1.
+1. Draudimo išmokos apdraustajam mokamos nuo draudiminio įvykio (nelaimingo
 
-Draudimo išmokos apdraustajam mokamos nuo draudiminio įvykio (nelaimingo
-
-atsitikimo darbe ar susirgimo profesine liga) dienos.
+atsitikimo darbe ar profesinės ligos nustatymo) dienos.
 
 2.
 
@@ -913,13 +1335,19 @@ teisės į draudimo išmoką atsiradimo dienos, draudimo išmoka mokama nuo
 
 kreipimosi dienos.
 
+Straipsnio pakeitimai:
+
+Nr. IX-428, 2001-07-05, Žin., 2001, Nr.
+
+64-2325 (2001-07-25)
+
 30
 
 straipsnis. Draudimo išmoka apdraustajam mirus
 
-1. Jeigu apdraustasis dėl
+1. Jeigu apdraustasis dėl nelaimingo atsitikimo darbe ar ūmios
 
-nelaimingo atsitikimo darbe, pripažinto draudiminiu įvykiu, miršta, teisę į
+profesinės ligos, pripažintų draudiminiais įvykiais, miršta, teisę į
 
 draudimo išmoką turi nedarbingi asmenys, kurie buvo mirusiojo išlaikomi arba jo
 
@@ -927,31 +1355,23 @@ mirties dieną turėjo teisę gauti iš jo išlaikymą, taip pat mirusiojo vaika
 
 (vaikai), gimęs (gimę) po jo mirties. Draudimo išmoka mokama:
 
-1)
+1) nepilnamečiams – iki jiems sukaks 18 metų, o jeigu jie mokosi
 
-nepilnamečiams - iki jiems sukaks 18 metų, o jeigu jie mokosi nustatyta tvarka
+nustatyta tvarka įregistruotų aukštųjų, aukštesniųjų, profesinių, vidurinių
 
-įregistruotų aukštųjų, aukštesniųjų, profesinių, vidurinių mokyklų dieniniuose
+mokyklų dieniniuose skyriuose, – iki jiems sukaks 24 metai;
 
-skyriuose, - iki jiems sukaks 24 metai;
+2) mirusiojo sutuoktiniui ar tėvui (motinai), įtėviui, nepaisant amžiaus
 
-2) mirusiojo sutuoktiniui ar
+ir darbingumo, jeigu jis nedirba ir prižiūri mirusiojo vaikus (įvaikius),
 
-tėvui (motinai), įtėviui, nepaisant amžiaus ir darbingumo, jeigu jis nedirba ir
+vaikaičius, brolius ar seseris, iki šiems sukaks 8 metai;
 
-prižiūri mirusiojo vaikus (įvaikius), vaikaičius, brolius ar seseris, iki šiems
+3) asmenims, sukakusiems Valstybinių socialinio draudimo pensijų įstatymo
 
-sukaks 8 metai;
+nustatytą senatvės pensijos amžių, – iki gyvos galvos;
 
-3)
-
-asmenims, sukakusiems Valstybinių socialinio draudimo pensijų įstatymo
-
-nustatytą senatvės pensijos amžių, - iki gyvos galvos;
-
-4)
-
-invalidams - invalidumo laikotarpiu.
+4) invalidams – invalidumo laikotarpiu.
 
 2.
 
@@ -1133,11 +1553,27 @@ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 6, 24
 
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-428, 2001-07-05, Žin., 2001, Nr.
+
+64-2325 (2001-07-25)
+
+NELAIMINGŲ
+
+ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 4, 8, 29, 30,
+
+31 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo: Angonita
 
-Rupšytė (2001-07-02)
+Rupšytė (2001-07-25)
 
 anrups@lrs.lt
 
