@@ -4,7 +4,7 @@ identifier: "TAR.C543D39A1A6E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-11"
-last_updated: "2001-02-20"
+last_updated: "2001-07-05"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C543D39A1A6E"
 department: "Lietuvos Respublikos Seimas"
@@ -223,15 +223,31 @@ tarnybinį automobilį be vairuotojo.
 
 naudojimo tvarką nustato Seimo kancleris.
 
+[2
+
+dalis netenka galios nuo 2002 m. sausio 1 d.]
+
+[Buvusi
+
+3 dalis laikoma 2 dalimi nuo 2002 m. sausio 1 d.:
+
+2. Tarnybinių automobilių, kuriais disponuoja Seimas,
+
+naudojimo tvarką nustato Seimo kancleris.]
+
 Straipsnio pakeitimai:
 
-Nr. VIII-1421, 1999
+Nr. VIII-1421,
 
-11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
+1999 11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
 
 Nr. VIII-1976,
 
 2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+
+Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
+
+64-2322 (2001-07-25), įsigalioja nuo 2002-01-01
 
 TREČIASIS SKIRSNIS
 
@@ -431,9 +447,9 @@ Nr. VIII-685, 1998 03 26, Žin., 1998,
 
 Nr. 34-900 (1998 04 10)
 
-Nr. VIII-1976,
+Nr. VIII-1976, 2000
 
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
 
 14
 
@@ -593,6 +609,18 @@ tarnybiniu automobiliu be vairuotojo, kas mėnesį skiriama 0,8 VMDU dydžio
 
 papildomų lėšų transporto išlaidoms kompensuoti.
 
+[2
+
+dalies redakcija nuo 2002 m. sausio 1 d.:
+
+2.
+
+Seimo nariui, išskyrus Seimo narius, kuriems pagal pareigas priklauso
+
+tarnybinis automobilis ir jie juo naudojasi, kas mėnesį skiriama 0,8 VMDU
+
+dydžio papildomų lėšų transporto išlaidoms kompensuoti.]
+
 3. Seimo nariui, pasiųstam į tarnybinę komandiruotę,
 
 atlyginamos su komandiruote susijusios išlaidos. Šių išmokų dydį ir apmokėjimo
@@ -637,6 +665,10 @@ Nr. IX-182, 2001 02 20, Žin., 2001, Nr.
 
 21-690 (2001 03 09)
 
+Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
+
+64-2322 (2001-07-25), įsigalioja nuo 2002-01-01
+
 17 straipsnis. Seimo narių teisė grįžti į ankstesnį
 
 darbą
@@ -653,17 +685,19 @@ Seimo nario parlamentinės veiklos laikas įskaitomas į visų rūšių darbo st
 
 3.
 
-Nutrūkus Seimo nario įgaliojimams Lietuvos Respublikos Konstitucijos 63
+Nutrūkus
 
-straipsnio 1, 2, 3 ir 4 punktuose numatytais atvejais, išmokama išeitinė
+Seimo nario įgaliojimams Lietuvos Respublikos Konstitucijos 63 straipsnio 1, 2,
 
-pašalpa. Ši pašalpa išmokama tiek vidutinių pareiginių atlyginimų dydžio, kiek metų
+3 ir 4 punktuose numatytais atvejais, išmokama išeitinė pašalpa. Ši pašalpa
+
+išmokama tiek vidutinių mėnesinių Seimo nario atlyginimų dydžio, kiek metų
 
 nepertraukiamai truko jo kadencija Seime ar Seime ir Lietuvos Respublikos
 
-Aukščiausiojoje Taryboje, bet ne mažesnė nei 2 vidutinių pareiginių atlyginimų
+Aukščiausiojoje Taryboje, bet ne mažesnė kaip 2 ir ne didesnė kaip 6 vidutinių
 
-dydžio.
+mėnesinių Seimo nario atlyginimų dydžio.
 
 Straipsnio pakeitimai:
 
@@ -671,9 +705,15 @@ Nr. IX-121, 2000
 
 12 21, Žin., 2000, Nr. 111-3580 (2000 12 29), įsigalioja nuo 2001 01 01
 
+Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
+
+64-2322 (2001-07-25)
+
 PENKTASIS SKIRSNIS
 
-SEIMO NARIŲ PADĖJĖJAI-SEKRETORIAI IR FRAKCIJŲ DARBUOTOJAI
+SEIMO NARIŲ PADĖJĖJAI-SEKRETORIAI IR FRAKCIJŲ
+
+DARBUOTOJAI
 
 18 straipsnis.
 
@@ -695,9 +735,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1976, 2000
+Nr. VIII-1976,
 
-10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
 
 19
 
@@ -783,6 +823,18 @@ užimamų gyvenamųjų patalpų ir visiškai atsiskaityti už gyvenimą Seimo
 
 viešbutyje.
 
+[3
+
+dalies redakcija nuo 2002 m. sausio 1 d.:
+
+3.
+
+Nutrūkus Seimo nario įgaliojimams, buvęs Seimo narys ir su juo gyvenantys jo
+
+šeimos nariai privalo per 15 dienų išsikelti iš užimamų patalpų ir
+
+visiškai atsiskaityti už gyvenimą Seimo viešbutyje.]
+
 Straipsnio pakeitimai:
 
 Nr. VIII-1421,
@@ -792,6 +844,10 @@ Nr. VIII-1421,
 Nr. VIII-1976,
 
 2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+
+Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
+
+64-2322 (2001-07-25), įsigalioja nuo 2002-01-01
 
 SEPTINTASIS SKIRSNIS
 
@@ -863,7 +919,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
 RESPUBLIKOS
 
-PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
 
 __________
 
@@ -959,9 +1015,25 @@ SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 5, 15 IR 16 STRAIPSNIŲ
 
 PAKEITIMO ĮSTATYMAS
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
+
+64-2322 (2001-07-25)
+
+SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 7, 16, 17 IR 20 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+Šis įstatymas, išskyrus 3 straipsnį, įsigalioja nuo 2002
+
+m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2001 03 09)
+Redagavo: Angonita Rupšytė (2001-07-25)
 
-autrap@lrs.lt
+anrups@lrs.lt
 
