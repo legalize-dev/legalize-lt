@@ -4,7 +4,7 @@ identifier: "TAR.6A449FCC534B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-10"
-last_updated: "1998-07-01"
+last_updated: "1999-07-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 1998-07-01 iki 1999-07-29
+Suvestinė redakcija nuo 1999-07-30 iki 2003-09-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
 
@@ -84,7 +84,11 @@ KONCESIJOS OBJEKTAI IR VEIKLOS SRITYS
 
 1. Koncesijos sutartimi grindžiama veikla leidžiama visose ūkinės veiklos srityse, išskyrus tas, kuriose pagal Įmonių įstatymo 13 straipsnį leidžiama veikti tik valstybės įmonėms, savivaldybės įmonėms ir specialios paskirties akcinėms bendrovėms.
 
-2. Užsienio koncesininko veiklai taikomi Užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 8 straipsnio ribojimai.
+2. Užsienio koncesininko veiklai taikomi Lietuvos Respublikos investicijų įstatymo 8 straipsnio ribojimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1306, 1999-07-07, Žin., 1999, Nr. 66-2123 (1999-07-30), i. k. 0991010ISTAIII-1306
 
 3. Ūkinė veikla pagal koncesiją šio straipsnio 1 ir 2 dalyse nustatytose draudžiamose srityse gali būti leidžiama pagal atskirus įstatymus.
 
@@ -315,4 +319,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-629, 1998-02-17, Žin., 1998, Nr. 25-632 (1998-03-13), i. k. 0981010ISTAVIII-629
 
 Lietuvos Respublikos koncesijų įstatymo 16 straipsnio pripažinimo netekusiu galios įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1306, 1999-07-07, Žin., 1999, Nr. 66-2123 (1999-07-30), i. k. 0991010ISTAIII-1306
+
+Lietuvos Respublikos koncesijų įstatymo 4 straipsnio pakeitimo įstatymas
 
