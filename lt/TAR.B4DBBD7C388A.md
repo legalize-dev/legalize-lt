@@ -4,7 +4,7 @@ identifier: "TAR.B4DBBD7C388A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-10-04"
-last_updated: "1997-07-11"
+last_updated: "2001-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4DBBD7C388A"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas
 
-Suvestinė redakcija nuo 1997-07-11 iki 2001-08-31
+Suvestinė redakcija nuo 2001-09-01 iki 2006-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 89-1985, i. k. 0951010ISTA00I-1057
 
@@ -176,11 +176,17 @@ Religinėms bendruomenėms, bendrijoms ir centrams gali nuosavybės teise prikla
 
 Religinės bendruomenės, bendrijos ir centrai jiems nuosavybės teise priklausantį turtą valdo, juo naudojasi ir disponuoja pagal Lietuvos Respublikos įstatymus.
 
-14 straipsnis.       Religinių bendruomenių, bendrijų ir centrų švietimo, labdaros ir gailestingumo veikla
+14 straipsnis. Religinių bendruomenių, bendrijų ir centrų švietimo, labdaros ir gailestingumo veikla
 
 Religinės bendruomenės, bendrijos ir centrai turi teisę įstatymų ar kitų norminių aktų nustatyta tvarka steigti ir turėti bendrojo lavinimo mokyklas bei kitokias mokymo, švietimo ir kultūros įstaigas, taip pat mokymo-ugdymo įstaigas dvasininkams ir tikybos dėstytojams rengti.
 
 Įstatymų ar kitų norminių aktų nustatyta tvarka tradicinių ir kitų juridinio asmens teises turinčių religinių bendruomenių, bendrijų ir centrų mokymo įstaigos, tokių religinių bendruomenių, bendrijų ir centrų mokyklos, suteikiančios valstybės nustatytą išsilavinimą, gauna finansinę ir kitokią paramą iš valstybės ir savivaldybių biudžetų.
+
+Tradicinių religinių bendruomenių ir bendrijų švietimo ir ugdymo įstaigos, suteikiančios valstybinio standarto bendrąjį išsilavinimą, yra finansuojamos ir išlaikomos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, skiriant biudžeto lėšų tiek pat, kiek ir atitinkamo tipo (pakopos) valstybės ar savivaldybių švietimo įstaigoms. Lėšų dydis nustatomas atsižvelgiant į išlaidas, numatytas vienam vaikui, moksleiviui atitinkamo tipo (pakopos) valstybinėse ar savivaldybių švietimo įstaigose.
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-1677, 2000-05-11, Žin., 2000, Nr. 40-1115 (2000-05-17), i. k. 1001010ISTAIII-1677
 
 Visos religinės bendruomenės, bendrijos ir centrai gali užsiimti labdara, dalyvauti gailestingumo veikloje, steigti gydymo įstaigas, taip pat labdaros įstaigas ir organizacijas.
 
@@ -245,4 +251,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-394, 1997-07-02, Žin., 1997, Nr. 66-1618 (1997-07-11), i. k. 0971010ISTAVIII-394
 
 Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 10 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1677, 2000-05-11, Žin., 2000, Nr. 40-1115 (2000-05-17), i. k. 1001010ISTAIII-1677
+
+Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 14 straipsnio papildymo įstatymas
 
