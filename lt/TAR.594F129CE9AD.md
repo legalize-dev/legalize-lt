@@ -4,7 +4,7 @@ identifier: "TAR.594F129CE9AD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2001-01-01"
+last_updated: "2002-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2002-03-31
+Suvestinė redakcija nuo 2002-04-01 iki 2002-06-25
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
 
@@ -127,17 +127,15 @@ Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010I
 
 1. Vyriausioji administracinių ginčų komisija nagrinėja skundus (prašymus) dėl centrinių valstybinio administravimo subjektų priimtų individualių administracinių aktų ir veiksmų teisėtumo, taip pat dėl minėtų subjektų atsisakymo ar vilkinimo atlikti jų kompetencijai priskirtus veiksmus teisėtumo ir pagrįstumo.
 
-2. Vyriausioji administracinių ginčų komisija taip pat sprendžia ginčus dėl Lietuvos Respublikos antidempingo įstatymo pažeidimų.
-
-3. Vyriausioji administracinių ginčų komisija nesprendžia:
+2. Vyriausioji administracinių ginčų komisija nesprendžia:
 
 1) Administracinių bylų teisenos įstatymo 16 straipsnyje, 18 straipsnyje, 19 straipsnio 2 ir 3 dalyse ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų;
 
 2) administracinių ginčų, kuriems nagrinėti įstatymai numato kitokią tvarką.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
+Nr. IX-664, 2001-12-17, Žin., 2001, Nr. 112-4083 (2001-12-30); Žin., 2002, Nr. 5-0 (2002-01-18), i. k. 1011010ISTA00IX-664
 
 10 straipsnis. Vyriausiosios administracinių ginčų komisijos darbo tvarka
 
@@ -234,4 +232,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
 
 Lietuvos Respublikos administracinių ginčų komisijų įstatymo 3, 4, 6 straipsnių pakeitimo ir papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-664, 2001-12-17, Žin., 2001, Nr. 112-4083 (2001-12-30); Žin., 2002, Nr. 5-0 (2002-01-18), i. k. 1011010ISTA00IX-664
+
+Lietuvos Respublikos administracinių ginčų komisijų įstatymo 9 straipsnio pakeitimo įstatymas
 
