@@ -4,7 +4,7 @@ identifier: "TAR.8F9A7A777267"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-03-28"
-last_updated: "1998-03-26"
+last_updated: "1998-11-10"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8F9A7A777267"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1998.04.30)
+Ramunė Lūžaitė (1998.11.26)
 
 Įstatymas
 
@@ -92,6 +92,20 @@ RESPUBLIKOS ENERGETIKOS ĮSTATYMO 1, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15 IR 17
 
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+5.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-919,
+
+98.11.10, Žin., 1998, Nr.103-2837 (98.11.25)
+
+LIETUVOS RESPUBLIKOS
+
+ENERGETIKOS ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -144,15 +158,15 @@ nafta, hidroenergija, saulės, vėjo ar geoterminė energija);
 
 atsinaujinantys energijos ištekliai - tai
 
-savaime atsikuriantys ar atkuriami gamtos ištekliai: hidroenergetika, mediena,
+saulės energija, vėjo energija, vandens energija, geoterminė energija, biomasės
 
-biomasė, kurie gali būti panaudoti energetikos tikslams;
+energija;
 
 atliekiniai energijos ištekliai - bet kokio
 
-technologinio proceso metu gaunama energija transformuojant pirminę energiją
+technologinio proceso metu gaunama energija transformuojant pirminę energiją arba
 
-arba kitą energiją, kuri nepanaudojama tam technologiniam procesui;
+kitą energiją, kuri nepanaudojama tam technologiniam procesui;
 
 energetikos efektyvumas - tai visų energijos
 
@@ -200,6 +214,10 @@ Nr.
 
 VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
 
+Nr. VIII-919,
+
+98.11.10, Žin., 1998, Nr.103-2837 (98.11.25)
+
 2
 
 straipsnis. Energetikos įstatymo paskirtis
@@ -212,9 +230,9 @@ plėtojimo, funkcionavimo  ir valdymo  pagrindus. Atskirų energetikos sektori
 
 valstybės, savivaldybių  ir privačių įmonių, energijos gamintojų, tiekėjų ir
 
-vartotojų  veiklą, jų teisinius ir ekonominius santykius, jeigu šių santykių
+vartotojų  veiklą, jų teisinius ir ekonominius santykius, jeigu šių santykių objektas
 
-objektas yra energija ar energijos ištekliai, reglamentuoja kiti įstatymai ir
+yra energija ar energijos ištekliai, reglamentuoja kiti įstatymai ir
 
 poįstatyminiai aktai.
 
@@ -248,9 +266,9 @@ būtinumą;
 
 5)
 
-gamintojų ir vartotojų skatinimas efektyviai naudoti vietinius, atsinaujinančius
+gamintojų ir vartotojų skatinimas efektyviai naudoti vietinius,
 
-ir atliekinius energijos išteklius;
+atsinaujinančius ir atliekinius energijos išteklius;
 
 6)
 
@@ -294,9 +312,9 @@ arba jos įgaliota institucija.
 
 Energijos
 
-išteklių gavėjų ir energijos gamintojų, vartotojų ir tiekėjų tarpusavio
+išteklių gavėjų ir energijos gamintojų, vartotojų ir tiekėjų tarpusavio santykiai
 
-santykiai grindžiami sutartimis.
+grindžiami sutartimis.
 
 Energijos
 
@@ -356,11 +374,11 @@ bei naudojimo priemonės, sudaromas energijos taupymo fondas.
 
 Fondo
 
-lėšos naudojamos energijos taupymo ir efektyvaus naudojimo programoms finansuoti,
+lėšos naudojamos energijos taupymo ir efektyvaus naudojimo programoms
 
-vietinių, atsinaujinančių ir atliekinių energijos išteklių naudojimo
+finansuoti, vietinių, atsinaujinančių ir atliekinių energijos išteklių
 
-priemonėms diegti, eksploatuoti ir plėtoti.
+naudojimo priemonėms diegti, eksploatuoti ir plėtoti.
 
 Pradinis fondo įnašas formuojamas Vyriausybės
 
@@ -1056,11 +1074,11 @@ energijos poreikiams tenkinti.
 
 Kuro valstybinių atsargų sudarymo,
 
-saugojimo, naudojimo ir jo apskaitos tvarką nustato Lietuvos Respublikos
+saugojimo, naudojimo ir jo apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė
 
-Vyriausybė arba jos įgaliota institucija. Už kuro valstybinių atsargų
+arba jos įgaliota institucija. Už kuro valstybinių atsargų sudarymą ir
 
-sudarymą ir naudojimą atsako Ūkio ministerija.
+naudojimą atsako Ūkio ministerija.
 
 Lietuvos
 
@@ -1470,9 +1488,9 @@ kokybę, jos atitikimą standartams, kontroliuoti prekybą energetinėmis
 
 žaliavomis ir energijos produktais. Savo išvadas ir pasiūlymus Komisija teikia
 
-Seimui, Vyriausybei, o jeigu nustatė piktnaudžiavimą - prokuratūrai. Komisija ne
+Seimui, Vyriausybei, o jeigu nustatė piktnaudžiavimą - prokuratūrai. Komisija
 
-rečiau kaip kartą per metus atsiskaito Seimui.
+ne rečiau kaip kartą per metus atsiskaito Seimui.
 
 Vyriausybės ar savivaldybės tarybos sprendimu
 
@@ -1584,13 +1602,13 @@ Elektrinės,
 
 dirbančios bendroje technologinėje energetikos sistemoje, veikia  bendru darbo
 
-režimu ir privalo paklusti operatyviniam dispečeriniam valdymui. Šie reikalavimai
+režimu ir privalo paklusti operatyviniam dispečeriniam valdymui. Šie
 
-privalomi remonto ir  statybos-montavimo bei  kitoms  įmonėms,  kurių
+reikalavimai privalomi remonto ir  statybos-montavimo bei  kitoms  įmonėms,
 
-pagrindinė funkcija yra palaikyti ir užtikrinti normalų elektros energetikos
+kurių pagrindinė funkcija yra palaikyti ir užtikrinti normalų elektros
 
-sistemos darbą.
+energetikos sistemos darbą.
 
 Energetikos
 
@@ -1616,13 +1634,11 @@ straipsnis. Energetikos darbuotojų rengimas ir atestavimas
 
 Vadovaujantys
 
-energetikos   įmonių  darbuotojai  ir specialistai, kurie atlieka
+energetikos   įmonių  darbuotojai  ir specialistai, kurie atlieka technologinius
 
-technologinius energetikos darbus, privalo turėti specialų pasirengimą.
+energetikos darbus, privalo turėti specialų pasirengimą. Energetikos įmonės
 
-Energetikos įmonės rengia ir lavina personalą šių įmonių remiamose mokymo
-
-įstaigose.
+rengia ir lavina personalą šių įmonių remiamose mokymo įstaigose.
 
 Energetikos
 
@@ -1856,11 +1872,11 @@ Energetikos sistemų (įmonių), įstaigų ir
 
 organizacijų tarptautinę veiklą koordinuoja Ūkio ministerija.
 
-Ūkio ministerija nustatyta tvarka teikia
+Ūkio ministerija nustatyta tvarka teikia pasiūlymus
 
-pasiūlymus Lietuvos Respublikos Vyriausybei dėl dalyvavimo tarptautinių
+Lietuvos Respublikos Vyriausybei dėl dalyvavimo tarptautinių energetikos
 
-energetikos organizacijų darbe.
+organizacijų darbe.
 
 Straipsnio
 
