@@ -4,7 +4,7 @@ identifier: "TAR.4043B97881A2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-06"
-last_updated: "2001-07-25"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4043B97881A2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2001-07-25 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2005-07-13
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1290, i. k. 0951010ISTA000I-924
 
@@ -271,7 +271,11 @@ VIII SKYRIUS. ASMENŲ, NUTEISTŲ LAISVĖS ATĖMIMU IR SUSIRGUSIŲ PSICHIKOS LIGA
 
 35 straipsnis. Psichikos ligonių, gydomų laisvės atėmimo vietose, teisės gali būti ribojamos pagal šio įstatymo ir kitų Lietuvos Respublikos įstatymų reikalavimus, kaip ir kitų laisvės atėmimu nuteistų asmenų.
 
-IX SKYRIUS. PSICHIKOS LIGONIŲ, PADARIUSIŲ VISUOMENEI PAVOJINGĄ VEIKĄ (NUSIKALTIMĄ), PSICHIKOS SVEIKATOS PRIEŽIŪRA
+IX SKYRIUS. PSICHIKOS LIGONIŲ, PADARIUSIŲ VISUOMENEI PAVOJINGĄ VEIKĄ (NUSIKALSTAMĄ VEIKĄ), PSICHIKOS SVEIKATOS PRIEŽIŪRA
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. IX-1444, 2003-04-03, Žin., 2003, Nr. 38-1689 (2003-04-24), i. k. 1031010ISTA0IX-1444
 
 36 straipsnis. Dėl psichikos ligonių, padariusių visuomenei pavojingą veiką ir pripažintų nepakaltinamais, priverstinio hospitalizavimo ir priverstinio gydymo sprendžia teismas, vadovaudamasis šio įstatymo 27 straipsniu ir Lietuvos Respublikos baudžiamuoju kodeksu.
 
@@ -340,6 +344,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
 
 Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 1, 4, 14, 15, 16, 17, 19, 25, 28, 29, 47 straipsnių bei V skyriaus pakeitimo ir X skyriaus pripažinimo netekusiu galios įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1444, 2003-04-03, Žin., 2003, Nr. 38-1689 (2003-04-24), i. k. 1031010ISTA0IX-1444
+
+Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo IX skyriaus pavadinimo pakeitimo įstatymas
 
 381 straipsnis. Valstybinę psichikos sveikatos komisiją prie Lietuvos Respublikos Vyriausybės (toliau – VPSK) sudaro ir jos nuostatus tvirtina Vyriausybė. VPSK veikla reglamentuojama Sveikatos sistemos įstatymo, šio įstatymo bei VPSK nuostatų ir finansuojama iš valstybės biudžeto. VPSK sudaroma iš Sveikatos apsaugos, Socialinės apsaugos ir darbo, Švietimo ir mokslo, Vidaus reikalų, Teisingumo ministerijų atstovų, Lietuvos savivaldybių asociacijos, Sveikatos apsaugos ministerijos pasiūlytų visuomeninių organizacijų bei gausiausių tradicinių religinių bendruomenių atstovų, jos sudėtį ir sudarymo tvarką reglamentuoja šios komisijos nuostatai.
 
