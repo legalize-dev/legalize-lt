@@ -4,7 +4,7 @@ identifier: "TAR.8DDDD8D87491"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "2002-01-01"
+last_updated: "2003-07-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2002-01-01 iki 2003-07-24
+Suvestinė redakcija nuo 2003-07-25 iki 2004-02-13
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
 
@@ -63,11 +63,15 @@ Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA
 
 9. Pavojingi gyvūnai – gyvūnai, kurie dėl biologinių savybių nuolat kelia pavojų žmonių ar gyvūnų gyvybei ir sveikatai.
 
-10. Agresyvūs šunys – kovoms išvestų veislių šunys bei jų mišrūnai, Vyriausybės ar jos įgaliotos institucijos specialiu sąrašu nustatytų veislių šunys bei jų mišrūnai.
+10. Agresyvūs šunys – kovoms išvestų veislių šunys bei jų mišrūnai, taip pat kitų pavojingų veislių šunys ir jų mišrūnai, kurie kelia grėsmę asmenų gyvybei, sveikatai ar turtui. Agresyvių šunų veislių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija.
 
 Papildyta straipsnio dalimi:
 
 Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1697, 2003-07-04, Žin., 2003, Nr. 74-3418 (2003-07-25), i. k. 1031010ISTA0IX-1697
 
 11. Žmogaus elgesys su gyvūnais – tiesioginiai ir netiesioginiai žmonių veiksmai, kurie gali būti naudingi, nekenksmingi arba kenksmingi gyvūnui.
 
@@ -373,37 +377,47 @@ Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA
 
 Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 1, 2, 5, 7 straipsnių pakeitimo bei papildymo ir įstatymo papildymo 6(1) straipsniu įstatymas
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1697, 2003-07-04, Žin., 2003, Nr. 74-3418 (2003-07-25), i. k. 1031010ISTA0IX-1697
+
+Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 2, 6-1 straipsnių pakeitimo ir papildymo įstatymas
+
 61 straipsnis. Agresyvių šunų įvežimas, įsigijimas, laikymas, registravimas, veisimas, dresavimas, prekyba jais bei jų paėmimas
 
-1. Agresyvius šunis įvežti į Lietuvos Respubliką, įsigyti, laikyti, veisti, dresuoti ir jais prekiauti gali tik asmenys, turintys savivaldybės ar Vyriausybė įgaliotos institucijos išduotus leidimus. Agresyvių šunų įvežimo į Lietuvos Respubliką, įsigijimo, laikymo, registravimo, veisimo, dresavimo ir prekybos jais taisykles, kuriose nustatoma taip pat ir leidimų įvežti, įsigyti, laikyti, veisti, dresuoti ir prekiauti išdavimo, sustabdymo ir panaikinimo tvarka, tvirtina Vyriausybė ar jos įgaliota institucija. Šias taisykles įgyvendina ir jų priežiūrą vykdo savivaldybės ir Vyriausybės įgaliotos institucijos.
+1. Į Lietuvos Respubliką įvežti kovoms išvestų veislių šunis ir jų mišrūnus, juos veisti ir jais prekiauti yra draudžiama.
 
-2. Leidimai, nurodyti šio straipsnio 1 dalyje, neišduodami asmenims:
+2. Kitus agresyvius šunis įvežti į Lietuvos Respubliką, veisti, dresuoti ir jais prekiauti, taip pat agresyvius šunis įsigyti ir laikyti gali tik asmenys, turintys savivaldybės ar Vyriausybės įgaliotos institucijos išduotus leidimus. Agresyvių šunų įvežimo į Lietuvos Respubliką, įsigijimo, laikymo, registravimo, veisimo, dresavimo ir prekybos jais taisykles, kuriose nustatoma taip pat ir leidimų įvežti, įsigyti, laikyti, veisti, dresuoti ir prekiauti išdavimo, sustabdymo ir panaikinimo tvarka, tvirtina Vyriausybė ar jos įgaliota institucija. Šias taisykles įgyvendina ir jų priežiūrą vykdo savivaldybės ir Vyriausybės įgaliotos institucijos.
 
-1) jaunesniems nei 18 metų;
+3. Leidimai, nurodyti šio straipsnio 2 dalyje, neišduodami asmenims:
+
+1) jaunesniems negu 18 metų;
 
 2) įrašytiems į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos ar psichinės ligos;
 
-3) teistiems už tyčinius smurtinius nusikaltimus, kuriems teistumas neišnykęs arba nepanaikintas;
+3) teistiems už tyčinius smurtinius nusikaltimus, jeigu teistumas neišnykęs arba nepanaikintas;
 
-4) nepateikusiems pažymos apie atitinkamos mokymo programos, kurią tvirtina Vyriausybės įgaliota institucija, išklausymą;
+4) nepateikusiems pažymos, kad jie yra išklausę atitinkamą mokymo programą, kurią tvirtina Vyriausybės įgaliota institucija;
 
-5) gyvenantiems kartu su asmenimis, nurodytais šio straipsnio 2 dalies 2 ir 3 punktuose.
+5) gyvenantiems kartu su asmenimis, nurodytais šios dalies 2 ir 3 punktuose.
 
-3. Savivaldybės ar Vyriausybės įgaliotos institucijos agresyvius šunis gali paimti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka:
+4. Savivaldybės ar Vyriausybės įgaliotos institucijos agresyvius šunis gali paimti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka:
 
-1) kai atsiranda šio straipsnio 2 dalies 2, 3 ir 5 punktuose numatyti pagrindai;
+1) kai atsiranda šio straipsnio 3 dalies 2, 3 ir 5 punktuose numatyti pagrindai;
 
 2) panaikinus leidimą laikyti agresyvų šunį;
 
-3) sustabdžius leidimo laikyti agresyvų šunį galiojimą, kol išnyks leidimo sustabdymo pagrindai;
+3) sustabdžius leidimo laikyti agresyvų šunį galiojimą, iki išnyks leidimo sustabdymo pagrindai;
 
-4) mirus šuns savininkui, kol jo įpėdiniui bus išduotas leidimas laikyti agresyvų šunį;
+4) mirus šuns savininkui, iki jo įpėdiniui bus išduotas leidimas laikyti agresyvų šunį;
 
 5) mirus šuns savininkui, jei įpėdinis nepriėmė palikimo ar įpėdiniui atsisakyta išduoti leidimą laikyti agresyvų šunį.
 
-4. Šio straipsnio 3 dalies 1, 2 ir 4 punktuose numatytais atvejais paimti agresyvūs šunys realizuojami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Realizavus šunį, gauti pinigai, atskaičius realizavimo išlaidas, grąžinami šuns savininkui ar įpėdiniui (išskyrus atvejį, jeigu įpėdinis nepriėmė palikimo).
+5. Šio straipsnio 4 dalies 1, 2 ir 4 punktuose numatytais atvejais paimti agresyvūs šunys realizuojami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Realizavus šunį, gauti pinigai, atskaičius realizavimo išlaidas, grąžinami šuns savininkui ar įpėdiniui (išskyrus atvejį, jeigu įpėdinis nepriėmė palikimo).
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+Nr. IX-1697, 2003-07-04, Žin., 2003, Nr. 74-3418 (2003-07-25), i. k. 1031010ISTA0IX-1697
 
