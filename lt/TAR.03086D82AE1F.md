@@ -4,7 +4,7 @@ identifier: "TAR.03086D82AE1F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-01"
-last_updated: "1996-03-28"
+last_updated: "1996-11-19"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.03086D82AE1F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,11 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos pinigų įstatymas
 
-@D1=19930701;D2=19960328;D3=19960422
+Redagavo: Ramunė Lūžaitė (1996
 
-@D1=19930701;D2=19960328;D3=19960422
+Redagavo:
+
+Ramunė Lūžaitė (1996.12.04)
 
 Pakeitimai:
 
@@ -28,13 +30,13 @@ Parlamentas,
 
 Įstatymas
 
-{#94CKAA0431 ;} Nr.
+Nr.
 
 1-431, 94.04.12, Žin., 1994, Nr. 30-532 (94.04.22)
 
-DĖL LIETUVOS
+DĖL
 
-RESPUBLIKOS PINIGŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
+LIETUVOS RESPUBLIKOS PINIGŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
 
 2.
 
@@ -42,13 +44,13 @@ Parlamentas,
 
 Įstatymas
 
-{#94IKAA0603 ;} Nr.
+Nr.
 
 1-603, 94.10.12, Žin., 1994, Nr. 81-1516 (94.10.19)
 
-DĖL LIETUVOS
+DĖL
 
-RESPUBLIKOS PINIGŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+LIETUVOS RESPUBLIKOS PINIGŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
 
 3.
 
@@ -56,7 +58,7 @@ Parlamentas,
 
 Įstatymas
 
-{#96B[AA1258 ;} Nr.
+Nr.
 
 1-1258, 96.03.28, Žin., 1996, Nr. 35-865 (96.04.19)
 
@@ -64,9 +66,29 @@ LIETUVOS
 
 RESPUBLIKOS PINIGŲ ĮSTATYMO 3 STRAIPSNIO PAPILDYMO IR
 
-PAKEITIMO ĮSTATYMAS
+PAKEITIMO
 
-*** Pabaiga ***
+ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-1629, 96.11.19, Žin., 1996, Nr.116-2697 (96.12.04)
+
+LIETUVOS
+
+RESPUBLIKOS PINIGŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+***
+
+Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
@@ -78,133 +100,113 @@ PINIGŲ
 
 Vilnius
 
-1 straipsnis.
+1 straipsnis. Piniginis vienetas
 
-Piniginis vienetas
+Lietuvos Respublikos  piniginis  vienetas  yra  litas,  kurį
 
-Lietuvos
+sudaro
 
-Respublikos  piniginis  vienetas  yra  litas,  kurį
+100 centų.
 
-sudaro 100 centų.
-
-Grynieji
-
-pinigai  yra litų  banknotai ir  monetos bei  centų
+Grynieji pinigai  yra litų  banknotai ir  monetos bei  centų
 
 monetos.
 
-Lietuvos
+Lietuvos bankas  nustato banknotų bei monetų vertę, taip pat
 
-bankas  nustato banknotų bei monetų vertę, taip pat
+jų
 
-jų dizainą.
+dizainą.
 
-2 straipsnis.
+2 straipsnis. Emisija
 
-Emisija
+Lietuvos bankui  priklauso išimtinė teisė išleisti ar išimti
 
-Lietuvos
+iš apyvartos
 
-bankui  priklauso išimtinė teisė išleisti ar išimti
+litus Lietuvos Respublikos lito patikimumo įstatymo
 
-iš apyvartos  litus
+nustatyta
 
-Lietuvos Respublikos lito patikimumo įstatymo
-
-nustatyta tvarka.
+tvarka.
 
 Straipsnio
 
 pakeitimai:
 
-{#94CKAA0431 ;}Nr.
+Nr.
 
 1-431, 94.04.12, Žin., 1994, Nr. 30-532
 
-3 straipsnis.
+3 straipsnis. Mokėjimo ir atsiskaitymo priemonė
 
-Mokėjimo ir atsiskaitymo priemonė
-
-Vienintelė
-
-teisėta   mokėjimo  ir   atsiskaitymo   priemonė
+Vienintelė  teisėta   mokėjimo  ir   atsiskaitymo   priemonė
 
 Lietuvos
 
 Respublikoje yra litas. Juridiniai bei fiziniai asmenys,
 
-esantys   Lietuvos
+esantys
 
-Respublikoje,    neturi    teisės    vidaus
+Lietuvos    Respublikoje,    neturi    teisės    vidaus
 
 atsiskaitymams
 
 naudoti kitos mokėjimo priemonės, išskyrus litą.
 
-Laisvosiose
+Užsienio valiuta Lietuvos Respublikoje  gali  būti naudojama
 
-ekonominÓse  zonose  atsiskaitoma  gali  b×ti
+įstatymų
 
-litais ir
+nustatyta tvarka.
 
-konvertuojama uŲsienio ÕaliÖ valiuta.
+Įvedus litą,  visi finansiniai  aktai, skolų ir pasižadėjimų
 
-Įvedus litą,
+dokumentai
 
-visi finansiniai  aktai, skolų ir pasižadėjimų
-
-dokumentai bei
-
-sutartys, mokėjimai  ir  atsiskaitymai  atliekami
+bei  sutartys, mokėjimai  ir  atsiskaitymai  atliekami
 
 litais.
 
-Lietuvos
+Lietuvos bankas,  kiti Lietuvos  Respublikos bankai, kredito
 
-bankas,  kiti Lietuvos  Respublikos bankai, kredito
+įstaigos
 
-įstaigos  bei  kiti
+bei  kiti  juridiniai  asmenys  privalo  be  apribojimų
 
-juridiniai  asmenys  privalo  be  apribojimų
+priimti
 
-priimti Lietuvos Respublikos
-
-teisėtą mokėjimo priemonę - litus.
+Lietuvos Respublikos teisėtą mokėjimo priemonę - litus.
 
 Straipsnio
 
 pakeitimai:
 
-{#96B[AA1258 ;} Nr.
+Nr.
 
 1-1258, 96.03.28, Žin., 1996, Nr. 35-865 (96.04.19)
 
-4 straipsnis.
+Nr.
 
-Lito kursas
+I-1629, 96.11.19, Žin., 1996, Nr.116-2697 (96.12.04)
 
-Oficialus lito
+4 straipsnis. Lito kursas
 
-kursas nustatomas  parinktos bazine valiutos
+Oficialus lito  kursas nustatomas  parinktos bazine valiutos
 
 atžvilgiu.
 
-Bazinę
+Bazinę  valiutą  ir oficialų  lito  kursą  nustato  Lietuvos
 
-valiutą  ir oficialų  lito  kursą  nustato  Lietuvos
+bankas
 
-bankas Lito
+Lito patikimumo įstatymo nustatyta tvarka.
 
-patikimumo įstatymo nustatyta tvarka.
+Lito ir  kitų užsienio  valiutų santykius  pagal  vidaus  ir
 
-Lito ir  kitų
+pasaulio
 
-užsienio  valiutų santykius  pagal  vidaus  ir
-
-pasaulio  valiutų
-
-rinkų  kursus  nustato  ir  skelbia  Lietuvos
+valiutų   rinkų  kursus  nustato  ir  skelbia  Lietuvos
 
 bankas.
 
@@ -212,103 +214,79 @@ Straipsnio
 
 pakeitimai:
 
-{#94CKAA0431 ;}Nr.
+Nr.
 
 1-431, 94.04.12, Žin., 1994, Nr. 30-532
 
-{#94IKAA0603 ;} Nr.
+Nr.
 
 1-603, 94.10.12, Žin., 1994, Nr. 81-1516 (94.10.19)
 
-5 straipsnis.
+5 straipsnis. Litų keitimas
 
-Litų keitimas
-
-Litus  į
-
-užsienio  valiutą   keičia  tik   Lietuvos  banke
+Litus  į   užsienio  valiutą   keičia  tik   Lietuvos  banke
 
 įregistruotos
 
 kredito   įstaigos,   turinčios   Lietuvos  banko
 
-išduotus leidimus
+išduotus
 
-operacijoms užsienio valiuta atlikti.
+leidimus operacijoms užsienio valiuta atlikti.
 
-Valiutų,
+Valiutų,  privalomai   keičiamų  į   litus,  sąrašą  nustato
 
-privalomai   keičiamų  į   litus,  sąrašą  nustato
+Lietuvos
 
-Lietuvos bankas.
+bankas.
 
 Straipsnio
 
 pakeitimai:
 
-{#94CKAA0431 ;}Nr.
+Nr.
 
 1-431, 94.04.12, Žin., 1994, Nr. 30-532
 
-6 straipsnis.
+6 straipsnis. Informacija apie lito patikimumą
 
-Informacija apie lito patikimumą
+Lietuvos bankas  ne rečiau  kaip  kartą  per  mėnesį  viešai
 
-Lietuvos
+praneša
 
-bankas  ne rečiau  kaip  kartą  per  mėnesį  viešai
+apie  turimo aukso  atsargas ir  konvertuojamos  užsienio
 
-praneša apie  turimo
+valiutos
 
-aukso  atsargas ir  konvertuojamos  užsienio
+rezervą, taip pat apie litų kiekį, esantį apyvartoje.
 
-valiutos rezervą,
+7 straipsnis. Susidėvėję ir sugadinti pinigai
 
-taip pat apie litų kiekį, esantį apyvartoje.
+Susidėvėjusius ir  sugadintus  Lietuvos  Respublikos  pinigų
 
-7 straipsnis.
+banknotus
 
-Susidėvėję ir sugadinti pinigai
-
-Susidėvėjusius
-
-ir  sugadintus  Lietuvos  Respublikos  pinigų
-
-banknotus bei
-
-monetas priima  ir keičia  Lietuvos bankas ir kiti
+bei  monetas priima  ir keičia  Lietuvos bankas ir kiti
 
 bankai.
 
-8 straipsnis.
-
-Atsakomybė už netikrų litų ar centų
+8 straipsnis. Atsakomybė už netikrų litų ar centų
 
 gaminimą, laikymą arba paleidimą apyvarton
 
-Netikrų litų
+Netikrų litų  ar centų  gaminimas, laikymas  arba paleidimas
 
-ar centų  gaminimas, laikymas  arba paleidimas
+apyvarton
 
-apyvarton baudžiamas
+baudžiamas pagal Lietuvos Respublikos įstatymus.
 
-pagal Lietuvos Respublikos įstatymus.
+9 straipsnis. Įstatymo įsigaliojimas
 
-9 straipsnis.
+Šis įstatymas įsigalioja nuo 1993 m. rugpjūčio 1 dienos.
 
-Įstatymo įsigaliojimas
-
-Šis įstatymas
-
-įsigalioja nuo 1993 m. rugpjūčio 1 dienos.
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
 PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
-
-_
 
