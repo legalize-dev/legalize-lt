@@ -4,7 +4,7 @@ identifier: "TAR.E0922DC07500"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-16"
-last_updated: "2002-03-26"
+last_updated: "2002-10-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E0922DC07500"
 department: "Lietuvos Respublikos Seimas"
@@ -219,7 +219,9 @@ importas, pardavimas;
 
 vertybinių popierių, dokumentų blankų ir specialių ženklų – banderolių
 
-alkoholiniams gėrimams ir tabako gaminiams ženklinti spausdinimas;
+apdorotam tabakui, etilo alkoholiui ir alkoholiniams gėrimams ženklinti
+
+spausdinimas;
 
 6)
 
@@ -259,17 +261,25 @@ Lietuvos Respublikos Seimo 1997 m. spalio 14 d. nutarimą Nr.VIII-445 „Dėl
 
 Lietuvos Respublikos įmonių įstatymo 4, 6, 11, 12, 13, 14, 15, 19, 20, 21, 22
 
-straipsnių pakeitimo ir papildymo 11(1) straipsniu įstatymo
+straipsnių pakeitimo ir papildymo 11(1) straipsniu įstatymo įgyvendinimo“
 
-įgyvendinimo“ (Žin., 1997, Nr.96-2420).
+(Žin., 1997, Nr.96-2420).
 
-Straipsnio pakeitimai:
+Straipsnio
 
-Nr. IX-314, 2001 05 08, Žin., 2001, Nr. 43-1494 (2001 05 23)
+pakeitimai:
 
-Nr. IX-812,
+Nr. IX-314,
 
-2002-03-26, Žin., 2002, Nr. 38-1359 (2002-04-10)
+2001 05 08, Žin., 2001, Nr. 43-1494 (2001 05 23)
+
+Nr. IX-812, 2002-03-26,
+
+Žin., 2002, Nr. 38-1359 (2002-04-10)
+
+Nr. IX-1123,
+
+2002-10-08, Žin., 2002, Nr. 101-4494 (2002-10-23)
 
 3
 
@@ -305,29 +315,49 @@ Pakeitimai:
 
 1.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos
 
-Nr. IX-314, 2001 05 08, Žin.,
+Respublikos Seimas, Įstatymas
 
-2001, Nr. 43-1494 (2001 05 23)
+Nr. IX-314, 2001 05 08, Žin., 2001, Nr.
 
-ĮMONIŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMO 2
-
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-812, 2002-03-26,
-
-Žin., 2002, Nr. 38-1359 (2002-04-10)
+43-1494 (2001 05 23)
 
 ĮMONIŲ ĮSTATYMO 13 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-812,
+
+2002-03-26, Žin., 2002, Nr. 38-1359 (2002-04-10)
+
+ĮMONIŲ
+
+ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1123,
+
+2002-10-08, Žin., 2002, Nr. 101-4494 (2002-10-23)
+
+ĮMONIŲ
+
+ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 ***
 
@@ -335,7 +365,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-04-10)
+Aušrinė Trapinskienė (2002-10-24)
 
 autrap@lrs.lt
 
