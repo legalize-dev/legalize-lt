@@ -4,7 +4,7 @@ identifier: "TAR.863886C4199F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-08"
-last_updated: "1995-06-28"
+last_updated: "1997-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.863886C4199F"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1995-06-08"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos muziejų įstatymas
+
+Suvestinė redakcija nuo 1997-07-09 iki 1999-03-18
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 53-1292, i. k. 0951010ISTA000I-930
 
 LIETUVOS RESPUBLIKOS
 
@@ -135,7 +139,11 @@ Nacionalinius muziejus steigia Kultūros ministerija. Sprendimą dėl nacionalin
 
 Respublikinius muziejus steigia Kultūros ministerija bei kitos valstybės valdymo institucijos.
 
-Apskrities muziejus steigia apskričių valdytojai.
+Apskrities muziejus steigia apskričių viršininkai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-319, 1997-06-26, Žin., 1997, Nr. 65-1546 (1997-07-09), i. k. 0971010ISTAVIII-319
 
 Vietinius muziejus steigia savivaldybės.
 
@@ -239,9 +247,9 @@ V. MUZIEJŲ VEIKLOS REGULIAVIMAS
 
 9) rūpinasi muziejininkų ir restauratorių rengimu, jų kvalifikacijos kėlimu ir perkvalifikavimu.
 
-21 straipsnis. Apskrities valdytojo kompetencija muziejų veiklos reguliavimo srityje
+21 straipsnis. Apskrities viršininko kompetencija muziejų veiklos reguliavimo srityje
 
-Apskrities valdytojas pagal savo kompetenciją:
+Apskrities viršininkas pagal savo kompetenciją:
 
 1) steigia, finansuoja ir kontroliuoja apskrities muziejus;
 
@@ -250,6 +258,10 @@ Apskrities valdytojas pagal savo kompetenciją:
 3) reorganizuoja ir likviduoja apskrities muziejų, gavęs Kultūros ministerijos raštišką sutikimą;
 
 4) esant bendram susitarimui, kooperuoja apskrities teritorijoje esančių savivaldybių lėšas bendroms muziejų programoms finansuoti.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-319, 1997-06-26, Žin., 1997, Nr. 65-1546 (1997-07-09), i. k. 0971010ISTAVIII-319
 
 22 straipsnis. Savivaldybės kompetencija muziejų veiklos reguliavimo srityje
 
@@ -287,17 +299,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
 
-71 straipsnis. Muziejaus emeritas
+Pakeitimai:
 
-1. Didelę profesinę patirtį turinčiam, nacionaliniame, respublikiniame ar savivaldybės muziejuje aktyviai dirbusiam ir kūrusiam muziejininkui, su kuriuo darbo sutartis buvo nutraukta, už nuopelnus Lietuvos kultūrai, kultūros paveldo apsaugai ir veiklą, padėjusią įgyvendinti muziejaus tikslus, gali būti suteiktas muziejaus emerito vardas. Muziejaus emerito vardą suteikia muziejaus vadovas kultūros ministro nustatyta tvarka.
+1.
 
-2. Muziejaus emeritui sudaromos sąlygos prisidėti prie muziejaus darbuotojų kvalifikacijos tobulinimo ir gebėjimų ugdymo, konsultuoti muziejaus darbuotojus veiklos klausimais, dalyvauti šio muziejaus edukacinėse ir veiklos populiarinimo programose.
+Lietuvos Respublikos Seimas, Įstatymas
 
-Papildyta straipsniu:
+Nr. VIII-319, 1997-06-26, Žin., 1997, Nr. 65-1546 (1997-07-09), i. k. 0971010ISTAVIII-319
 
-Nr. XII-2330, 2016-05-03, paskelbta TAR 2016-05-11, i. k. 2016-12224
-
-TREČIASIS SKIRSNIS
-
-MUZIEJŲ FONDAS, MUZIEJINIŲ VERTYBIŲ APSAUGOS UŽTIKRINIMAS IR JŲ RESTAURAVIMAS
+Lietuvos Respublikos muziejų įstatymo 9 ir 21 straipsnių pakeitimo įstatymas
 
