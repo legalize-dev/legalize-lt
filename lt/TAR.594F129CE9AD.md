@@ -4,7 +4,7 @@ identifier: "TAR.594F129CE9AD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2002-04-01"
+last_updated: "2002-06-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2002-04-01 iki 2002-06-25
+Suvestinė redakcija nuo 2002-06-26 iki 2003-04-10
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
 
@@ -53,21 +53,15 @@ Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010I
 
 3 straipsnis. Savivaldybės ir apskrities administracinių ginčų komisijos sudarymas
 
-1. Savivaldybės visuomeninė administracinių ginčų komisija sudaroma 3 metams savivaldybės tarybos sprendimu iš 5 narių, iš kurių bent pirmininkas ir sekretorius turi turėti aukštąjį teisinį išsilavinimą. Komisijos narių kandidatūras, iš jų ir pirmininko kandidatūrą, savivaldybės tarybai teikia savivaldybės meras.
+1. Savivaldybės visuomeninė administracinių ginčų komisija sudaroma 3 metams savivaldybės tarybos sprendimu iš 5 narių, iš kurių bent pirmininkas ir sekretorius turi turėti aukštąjį teisinį išsilavinimą. Komisijos narių kandidatūras, iš jų komisijos pirmininko  ir pirmininko pavaduotojo kandidatūras, savivaldybės tarybai teikia savivaldybės meras.
 
-2. Apskrities administracinių ginčų komisija sudaroma 4 metams iš 5 narių, turinčių aukštąjį teisinį išsilavinimą. Komisijos narius, iš jų komisijos pirmininką ir pirmininko pavaduotoją, skiria Vyriausybė. Komisijos narių, komisijos pirmininko ir pirmininko pavaduotojo kandidatūras Vyriausybei teikia apskrities taryba.
+2. Apskrities administracinių ginčų komisija sudaroma 4 metams iš 5 narių, turinčių aukštąjį teisinį išsilavinimą. Komisijos narius, iš  jų komisijos pirmininką ir pirmininko pavaduotoją, skiria Vyriausybė. Komisijos narių, komisijos pirmininko ir pirmininko pavaduotojo kandidatūras Vyriausybei teikia regiono plėtros taryba.
 
-Straipsnio dalies pakeitimai:
+3. Komisijos pirmininkas, pirmininko pavaduotojas ir nariai turi teisę atsistatydinti. Motyvuotu teikimu regiono plėtros taryba gali siūlyti Vyriausybei, o savivaldybės meras – savivaldybės tarybai atleisti atitinkamos komisijos pirmininką, pirmininko pavaduotoją ar narį prieš laiką ir vietoj jų teikti naujas kandidatūras.
 
-Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
+Straipsnio pakeitimai:
 
-3. Komisijos pirmininkas, pirmininko pavaduotojas ir nariai turi teisę atsistatydinti. Motyvuotu teikimu apskrities taryba gali siūlyti Vyriausybei, o savivaldybės meras – savivaldybės tarybai atleisti atitinkamos komisijos pirmininką, pirmininko pavaduotoją ar narį prieš laiką ir vietoj jų teikti naujas kandidatūras.
-
-Straipsnio dalies pakeitimai:
-
-Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
-
-4. Siūlyti Vyriausybei ar savivaldybės tarybai pirma laiko atleisti konkrečios apskrities administracinių ginčų komisijos pirmininką ar narį iš pareigų turi teisę ir Vyriausioji administracinių ginčų komisija.
+Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
 
 4 straipsnis. Apskrities administracinių ginčų komisijų statusas
 
@@ -103,13 +97,15 @@ Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010I
 
 1. Komisijos posėdžiai vyksta iš anksto nustatytomis savaitės dienomis. Prireikus organizuojami išvažiuojamieji posėdžiai į savivaldybes.
 
-2. Už savo darbą savivaldybės visuomeninė administracinių ginčų komisija kartą per metus atsiskaito savivaldybės tarybai, taip pat yra atsakinga savivaldybės merui.
+2. Savivaldybės visuomeninę administracinių ginčų komisiją techniškai aptarnauja savivaldybės administracija.
 
-3. Už savo darbą apskrities administracinių ginčų komisija kartą per metus atsiskaito apskrities tarybai, taip pat yra atsakinga Vyriausiajai administracinių ginčų komisijai.
+3. Už savo darbą savivaldybės visuomeninė administracinių ginčų komisija kartą per metus atsiskaito savivaldybės tarybai, taip pat yra atsakinga savivaldybės merui.
 
-Straipsnio dalies pakeitimai:
+4. Už savo darbą apskrities administracinių ginčų komisija kartą per metus atsiskaito regiono plėtros tarybai, taip pat yra atsakinga Vyriausiajai administracinių ginčų komisijai.
 
-Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
+Straipsnio pakeitimai:
+
+Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
 
 7 straipsnis. Vyriausiosios administracinių ginčų komisijos sudarymas
 
@@ -121,7 +117,11 @@ Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010I
 
 1. Vyriausioji administracinių ginčų komisija yra juridinis asmuo, išlaikomas iš valstybės biudžeto.
 
-2. Komisijos pirmininkas ir nariai yra valstybės tarnautojai ir jų darbas komisijoje laikytinas darbu pagrindinėje darbovietėje. Jų atlyginimus, taip pat pagalbinio personalo skaičių bei atlyginimus nustato Vyriausybė.
+2. Komisijos pirmininkas ir nariai yra valstybės tarnautojai ir jų darbas komisijose laikytinas darbu pagrindinėje darbovietėje. Vyriausiosios administracinių ginčų komisijos pagalbiniam personalui taikomas Valstybės tarnybos įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
 
 9 straipsnis. Vyriausiosios administracinių ginčų komisijos kompetencija
 
@@ -240,4 +240,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-664, 2001-12-17, Žin., 2001, Nr. 112-4083 (2001-12-30); Žin., 2002, Nr. 5-0 (2002-01-18), i. k. 1011010ISTA00IX-664
 
 Lietuvos Respublikos administracinių ginčų komisijų įstatymo 9 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
+
+Lietuvos Respublikos administracinių ginčų komisijų įstatymo 3, 6, 8 straipsnių pakeitimo ir papildymo įstatymas
 
