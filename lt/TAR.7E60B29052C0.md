@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2003-09-18"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -144,9 +144,11 @@ Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucij
 
 ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus Valstybės
 
-saugumo departamento generalinį direktorių ir jo pavaduotojus bei Specialiųjų
+saugumo departamento generalinį direktorių ir jo pavaduotojus, Specialiųjų
 
-tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams;
+tyrimų tarnybos direktorių ir jo pavaduotojus bei policijos generalinį
+
+komisarą) bei pareigūnams;
 
 9) Seimo,
 
@@ -186,9 +188,9 @@ Nr. IX-1326,
 
 2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
 
-Nr. IX-1390,
+Nr. IX-1390, 2003-03-25,
 
-2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
+Žin., 2003, Nr. 35-1464 (2003-04-11)
 
 Nr. IX-1520,
 
@@ -197,6 +199,12 @@ Nr. IX-1520,
 Nr. IX-1594,
 
 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
+
+Nr.
+
+IX-1918,
+
+2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
 
 3
 
@@ -340,9 +348,9 @@ bei A ir B lygio paslaugų valstybės tarnautojų, taip pat Valstybės tarnybos
 
 įstatymo 4 straipsnio 3 dalies 1–6 punktuose nurodytas pareigas.
 
-2. Tarnybos laikas
+2. Tarnybos
 
-einant ne tuo pačiu metu šio straipsnio 1 dalyje nurodytas pareigas
+laikas einant ne tuo pačiu metu šio straipsnio 1 dalyje nurodytas pareigas
 
 susumuojamas. Į tarnybos stažą įskaitomas stažuotės ar bandomasis laikotarpis,
 
@@ -728,9 +736,9 @@ Nr. IX-1240,
 
 2002-12-10, Žin., 2002, Nr. 123-5532 (2002-12-24)
 
-Nr. IX-1326, 2003-01-28,
+Nr. IX-1326,
 
-Žin., 2003, Nr. 17-703 (2003-02-19)
+2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
 
 8 straipsnis. Neteko galios.
 
@@ -918,39 +926,23 @@ Ministrai
 
 Savivaldybių merai ir
 
-Savivaldybės
-
-teritorijoje gyvena
-
 merų pavaduotojai
 
-per 500 tūkst.
+Savivaldybės teritorijoje
 
-gyventojų
+gyvena
 
-per 100 tūkst.
+per 100 tūkst. gyventojų
 
-gyventojų
-
-per 50 tūkst.
-
-gyventojų
-
-50 tūkst. ir
-
-mažiau gyventojų
+iki 100 tūkst. gyventojų
 
 5.1.
 
 Merai
 
-12
+12,2
 
-11
-
-10
-
-8,5
+10,5
 
 5.2.
 
@@ -958,11 +950,7 @@ Merų pavaduotojai
 
 10,5
 
-9,8
-
-8,8
-
-7,7
+8,8          “
 
 Skirsnio
 
@@ -972,13 +960,19 @@ Nr. VIII-2057,
 
 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 
-Nr. IX-1326,
+Nr. IX-1326, 2003-01-28,
 
-2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
+Žin., 2003, Nr. 17-703 (2003-02-19)
 
 Nr. IX-1594,
 
 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
+
+Nr.
+
+IX-1918,
+
+2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
 
 *II. Teisėjų pareiginės algos
 
@@ -1122,11 +1116,11 @@ Pripažinti, kad Lietuvos Respublikos valstybės politikų, teisėjų ir valstyb
 
 pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 3 dalies 1 punktas (2000 m.
 
-rugpjūčio 29 d., 2000 m. spalio 17 d., 2001 m. kovo 27 d. redakcijos), 7 straipsnio
+rugpjūčio 29 d., 2000 m. spalio 17 d., 2001 m. kovo 27 d. redakcijos), 7
 
-5 dalis (2000 m. rugpjūčio 29 d. ir 2001 m. kovo 27 d. redakcijos), 7
+straipsnio 5 dalis (2000 m. rugpjūčio 29 d. ir 2001 m. kovo 27 d. redakcijos),
 
-straipsnio 6 dalies nuostata, įtvirtinanti pereinamąjį laikotarpį, ir šio įstatymo
+7 straipsnio 6 dalies nuostata, įtvirtinanti pereinamąjį laikotarpį, ir šio įstatymo
 
 priedėlio II skirsnis “Teisėjų pareiginės algos” ta apimtimi, kuria juose
 
@@ -1414,13 +1408,13 @@ Valstybės kontrolė:
 
 valstybės kontrolierius
 
-14,5
+15,5
 
 1.2.
 
 valstybės kontrolieriaus pavaduotojai
 
-12,9
+13,8
 
 2.
 
@@ -1472,11 +1466,11 @@ Seimo, Seimo Pirmininko, Respublikos
 
 Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
 
-tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
+tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės lošimų
 
-lošimų priežiūros komisijos,  Vertybinių popierių komisijos, Vyriausiosios
+priežiūros komisijos,  Vertybinių popierių komisijos, Vyriausiosios rinkimų
 
-rinkimų  komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 7.1.
 
@@ -1566,7 +1560,7 @@ Respublikos draudimo priežiūros komisija:
 
 11.1.     pirmininkas                                                                                                  12
 
-11.2.     pavaduotojai                                                                                                11
+11.2.     pavaduotojai                                                                                                11
 
 11.3.
 
@@ -1613,6 +1607,12 @@ Nr. IX-1390,
 Nr. IX-1738,
 
 2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
+
+Nr.
+
+IX-1918,
+
+2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
 
 __________________
 
@@ -1840,9 +1840,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1520, 2003-04-22,
+IX-1520,
 
-Žin., 2003, Nr. 42-1920 (2003-05-01)
+2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
 
 VALSTYBĖS
 
@@ -1892,7 +1892,25 @@ POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIED
 
 PAPILDYMO ĮSTATYMAS
 
-*** Pabaiga ***
+16.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1918,
+
+2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
+
+VALSTYBĖS
+
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO
+
+IR PRIEDĖLIO I BEI IV SKIRSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2004-01-01.
 
 Konstitucinio
 
@@ -1952,7 +1970,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-10-08)
+Aušra Bodin (2003-12-31)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
