@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2000-10-10"
+last_updated: "2000-11-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -612,9 +612,9 @@ VIII-912,
 
 98.10.22, Žin., 1998, Nr.95-2636 (98.10.30)
 
-17 straipsnis.
+17 straipsnis. Apeliacinio
 
-Apeliacinio teismo kompetencija
+teismo kompetencija
 
 Apeliacinis
 
@@ -1310,11 +1310,11 @@ nepriekaištingos reputacijos, teisingumo ministro nustatyta tvarka atliko 5
 
 mėnesių praktiką teismuose ir išlaikė teisėjų egzaminą.
 
-Apeliacinio teismo
+Apeliacinio
 
-teisėju gali būti skiriamas asmuo, turintis ne mažesnį kaip 5 metų apygardos
+teismo teisėju gali būti skiriamas asmuo, turintis ne mažesnį kaip 5 metų
 
-teismo teisėjo darbo stažą.
+apygardos teismo teisėjo darbo stažą.
 
 Apygardos ar
 
@@ -2190,13 +2190,13 @@ apylinkės teismų hipotekos skyrių hipotekos teisėjai, vykdydami įstatymų j
 
 pavestas funkcijas, turi tokias pat teises ir pareigas kaip ir kiti teisėjai.
 
-Teismų pirmininkai,
+Teismų
 
-jų pavaduotojai ir skyrių pirmininkai neturi teisės daryti poveikio kitų
+pirmininkai, jų pavaduotojai ir skyrių pirmininkai neturi teisės daryti
 
-teisėjų darbui, kai šie vykdo teisingumą, arba kitaip pažeisti teisėjų
+poveikio kitų teisėjų darbui, kai šie vykdo teisingumą, arba kitaip pažeisti
 
-nepriklausomumą.
+teisėjų nepriklausomumą.
 
 Straipsnio
 
@@ -2836,9 +2836,9 @@ teismo pirmininką ir kitus teisėjus teisingumo ministro teikimu ir patarus
 
 Teisėjų tarybai, atleidžia iš pareigų Respublikos Prezidentas Seimui pritarus.
 
-**Apeliacinio
+**Apeliacinio teismo
 
-teismo skyrių pirmininkus atleidžia iš pareigų teisingumo ministras Teismų
+skyrių pirmininkus atleidžia iš pareigų teisingumo ministras Teismų
 
 departamento direktoriaus teikimu arba savo iniciatyva.
 
@@ -3068,11 +3068,11 @@ pirmininkams ir kitiems teisėjams drausminę bylą gali iškelti Lietuvos
 
 Aukščiausiojo Teismo pirmininkas, teisingumo ministras Teismų departamento
 
-direktoriaus teikimu ar savo iniciatyva. Respublikos Prezidentas teisingumo
+direktoriaus teikimu ar savo iniciatyva. Respublikos Prezidentas teisingumo ministro
 
-ministro teikimu gali nušalinti teisėją, kuriam iškelta drausmės byla, nuo
+teikimu gali nušalinti teisėją, kuriam iškelta drausmės byla, nuo teisėjo
 
-teisėjo pareigų, iki paaiškės bylos baigtis.
+pareigų, iki paaiškės bylos baigtis.
 
 Aukščiausiojo
 
@@ -3230,31 +3230,33 @@ Aukščiausiajame
 
 Teisme
 
-Apygardų teismuose ir
+Apygardų
 
-Apeliaciniame teisme bylas nagrinėja trijų teisėjų kolegija.
+teismuose ir Apeliaciniame teisme bylas nagrinėja trijų teisėjų kolegija.
 
-Proceso įstatymuose
+Proceso
 
-nustatytais atvejais apygardų teismuose teisėjas atskirus procesinius veiksmus
+įstatymuose nustatytais atvejais apygardų teismuose teisėjas atskirus
 
-atlieka ir bylas nagrinėja vienas, sprendimus priima teismo vardu.
+procesinius veiksmus atlieka ir bylas nagrinėja vienas, sprendimus priima
 
-Aukščiausiajame Teisme bylas
+teismo vardu.
 
-nagrinėja šio įstatymo 18 straipsnio 1 dalyje nustatytos sudėties teisėjų
+Aukščiausiajame
 
-kolegija (trijų teisėjų kolegija arba išplėstinė septynių teisėjų kolegija)
+Teisme bylas nagrinėja šio įstatymo 18 straipsnio 1 dalyje nustatytos sudėties
 
-arba Aukščiausiojo Teismo plenarinė sesija. Aukščiausiojo Teismo plenarinės
+teisėjų kolegija (trijų teisėjų kolegija arba išplėstinė septynių teisėjų
 
-sesijos posėdyje bylos nagrinėjamos dalyvaujant ne mažiau kaip 2/3 šio teismo
+kolegija) arba Aukščiausiojo Teismo plenarinė sesija. Aukščiausiojo Teismo
 
-teisėjų.
+plenarinės sesijos posėdyje bylos nagrinėjamos dalyvaujant ne mažiau kaip 2/3
 
-Kolegijos sudėtį sudaro ir
+šio teismo teisėjų.
 
-jos pirmininką skiria atitinkamo teismo ar jo skyriaus pirmininkas.
+Kolegijos sudėtį
+
+sudaro ir jos pirmininką skiria atitinkamo teismo ar jo skyriaus pirmininkas.
 
 Straipsnio
 
@@ -4274,9 +4276,9 @@ PROKURATŪRA
 
 Prokuratūros struktūra
 
-Prokuratūros struktūra
+Prokuratūros
 
-yra:
+struktūra yra:
 
 1) Generalinė
 
@@ -4304,13 +4306,9 @@ Prokurorų skyrimas ir atleidimas
 
 Generalinį
 
-prokurorą skiria ir atleidžia Lietuvos Respublikos Seimas Seimo Teisės ir
+prokurorą skiria ir atleidžia Respublikos Prezidentas Lietuvos Respublikos
 
-teisėtvarkos komiteto teikimu. Generalinio prokuroro kandidatūras Seimo Teisės
-
-ir teisėtvarkos komitetui siūlo Lietuvos Aukščiausiojo Teismo pirmininkas ir
-
-teisingumo ministras.
+Seimo pritarimu.
 
 Kitus prokurorus
 
@@ -4333,6 +4331,10 @@ Nr.
 VIII-143,
 
 97.03.13, Žin., 1997, Nr.22-544 (97.03.15)
+
+Nr. IX-44, 2000 11 28, Žin., 2000, Nr.
+
+103-3260 (2000 12 01)
 
 67 straipsnis.
 
@@ -4392,9 +4394,9 @@ Teisingumo ministerijos teisės aktais.
 
 Hipotekos
 
-skyrius turi antspaudą su savo pavadinimu bei Lietuvos valstybės herbu ir
+skyrius turi antspaudą su savo pavadinimu bei Lietuvos valstybės herbu ir sąskaitą
 
-sąskaitą banke.
+banke.
 
 Straipsnio
 
@@ -4432,17 +4434,17 @@ Hipotekos
 
 teisėjas turi tokias pat teises ir pareigas kaip ir kiti apylinkės teisėjai.
 
-Hipotekos teisėjas įstatymų nustatyta tvarka registruoja
+Hipotekos teisėjas įstatymų nustatyta tvarka
 
-turto įkeitimą, turto arešto aktus, priima nutartis dėl įkeisto turto arešto,
+registruoja turto įkeitimą, turto arešto aktus, priima nutartis dėl įkeisto
 
-išieškojimo iš įkeisto turto, paskirsto išieškotas sumas išieškotojams, taip
+turto arešto, išieškojimo iš įkeisto turto, paskirsto išieškotas sumas
 
-pat vykdo kitus įstatymų jam suteiktus įgaliojimus ar pavestas funkcijas.
+išieškotojams, taip pat vykdo kitus įstatymų jam suteiktus įgaliojimus ar
 
-Hipotekos teisėjas taip pat gali liudyti parašų hipotekos skyriui pateikiamuose
+pavestas funkcijas. Hipotekos teisėjas taip pat gali liudyti parašų hipotekos
 
-dokumentuose bei dokumentų nuorašų ir jų išrašų tikrumą.
+skyriui pateikiamuose dokumentuose bei dokumentų nuorašų ir jų išrašų tikrumą.
 
 Hipotekos teisėjo pasiūlymu apylinkės teismo
 
@@ -4456,11 +4458,11 @@ tvarkymu, turto arešto aktų registravimu bei turto arešto aktų registro
 
 tvarkymu susijusius veiksmus.
 
-Hipotekos teisėjo
+Hipotekos
 
-pasiūlymu apylinkės teismo pirmininkas gali įgalioti kitus hipotekos skyriaus
+teisėjo pasiūlymu apylinkės teismo pirmininkas gali įgalioti kitus hipotekos
 
-darbuotojus liudyti parašų tikrumą hipotekos skyriui pateikiamuose
+skyriaus darbuotojus liudyti parašų tikrumą hipotekos skyriui pateikiamuose
 
 dokumentuose, taip pat atlikti su hipotekos registravimu bei hipotekos registro
 
@@ -4900,9 +4902,9 @@ nagrinėjimą;
 
 užtikrinančias efektyvų teismų sprendimų vykdymą;
 
-3) kitas
+3) kitas priemones,
 
-priemones, padedančias užtikrinti efektyvią ir geros kokybės teismų (teisėjų)
+padedančias užtikrinti efektyvią ir geros kokybės teismų (teisėjų)
 
 administracinę veiklą.
 
@@ -5316,9 +5318,19 @@ Nr.92-2847 (00.10.31)
 
 TEISMO ANTSTOLIŲ ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS
 
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-44, 2000 11 28, Žin., 2000, Nr.
+
+103-3260 (2000 12 01)
+
+TEISMŲ ĮSTATYMO 66 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***Pabaiga***
 
-LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO NUTARIMAI:
+KONSTITUCINIO TEISMO NUTARIMAI:
 
 1.
 
@@ -5336,7 +5348,9 @@ KONSTITUCIJAI
 
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.11.06)
+Redagavo: Aušrinė Trapinskienė (2000 12 01)
+
+autrap@lrs.lt
 
 74 straipsnis.
 
