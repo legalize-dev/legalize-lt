@@ -4,7 +4,7 @@ identifier: "TAR.2CCC6F1CC7CE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "1993-11-19"
+last_updated: "1994-07-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CCC6F1CC7CE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
+
+Suvestinė redakcija nuo 1994-07-20 iki 1994-12-30
+
+Įstatymas paskelbtas: Žin. 1993, Nr. 62-1169, i. k. 0931010ISTA000I-300
 
 LIETUVOS RESPUBLIKOS
 
@@ -37,9 +41,11 @@ Pakeisti ir papildyti kai kuriuos Lietuvos Respublikos įstatymus, reglamentuoja
 
 „3) sudaryti sutartis dėl paskolų suteikimo (tik iš nuosavo kapitalo lėšų) arba jų gavimo ir palūkanų už jas dydžio;“.
 
-3. Lietuvos Respublikos akcinių bendrovių įstatymo (Žin., 1990, Nr. 24-594) 12 straipsnio antrosios dalies 6 punktą išdėstyti taip:
+3. Neteko galios nuo 1994-07-20
 
-„6) sudaryti sutartis, prisiimti įsipareigojimus, skolinti (tik nuosavo kapitalo lėšas) ir skolintis piniginių lėšų už palūkanas, nustatomas sutartimi;“.
+Straipsnio dalies naikinimas:
+
+Nr. I-528, 1994-07-05, Žin. 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA000I-528
 
 4. Lietuvos Respublikos ūkinių bendrijų įstatymo (Žin., 1990, Nr. 31-747) 6 straipsnio pirmosios dalies 5 punktą išdėstyti taip:
 
@@ -70,4 +76,14 @@ Pakeisti ir papildyti kai kuriuos Lietuvos Respublikos įstatymus, reglamentuoja
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-528, 1994-07-05, Žin., 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA000I-528
+
+Lietuvos Respublikos akcinių bendrovių įstatymas
 
