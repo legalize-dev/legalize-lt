@@ -4,7 +4,7 @@ identifier: "TAR.2CE9084B15DA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "1996-09-25"
+last_updated: "1996-10-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1996
 
 Redagavo:
 
-Ramunė Lūžaitė (1996.10.28)
+Ramunė Lūžaitė (1996.11.14)
 
 Pakeitimai:
 
@@ -156,6 +156,24 @@ I-1549, 96.09.25, Žin., 1996, Nr.101-2303 (96.10.18)
 LIETUVOS
 
 RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 1 STRAIPSNIO
+
+PAPILDYMO
+
+ĮSTATYMAS
+
+9.
+
+Parlamentas,
+
+Įstatymas
+
+Nr.
+
+I-1599, 96.10.22, Žin., 1996, Nr.106-2429 (96.11.06)
+
+LIETUVOS
+
+RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 15 STRAIPSNIO
 
 PAPILDYMO
 
@@ -383,7 +401,7 @@ reikalaujančios,
 
 kad jie atsistatydintų iš pareigų;
 
-21)   kai   komercinio   banko  laikinasis  administratorius
+21)   kai   komercinio   banko  laikinasis  administratorius
 
 (administratorius)
 
@@ -483,7 +501,7 @@ trečioji  dalis),  turi būti nutraukta. Darbdaviui ar
 
 jo
 
-įgaliotam  asmeniui,  padariusiam  tokį  pažeidimą,  taikomos
+įgaliotam  asmeniui,  padariusiam  tokį  pažeidimą,  taikomos
 
 įstatymų
 
@@ -641,7 +659,7 @@ Nr.
 
 formulavimas
 
-Dokumentuose  apie  darbo  sutarties  pasibaigimą  atleidimo
+Dokumentuose  apie  darbo  sutarties  pasibaigimą  atleidimo
 
 formulavimas
 
@@ -651,7 +669,7 @@ turi  atitikti  sutarties pasibaigimo aplinkybes ir
 
 8 straipsnis.Darbo sutarties sąlygos
 
-Kiekvienoje   darbo  sutartyje  šalys  privalo  sulygti  dėl
+Kiekvienoje   darbo  sutartyje  šalys  privalo  sulygti  dėl
 
 būtinųjų
 
@@ -787,7 +805,7 @@ Nr.
 
 18 straipsnis. Giminaičių darbo apribojimas
 
-Draudžiama  eiti  tarnautojų  pareigas  vienoje valstybės ir
+Draudžiama  eiti  tarnautojų  pareigas  vienoje valstybės ir
 
 savivaldybės
 
@@ -881,7 +899,7 @@ Jei  darbuotojas  pasirodė  darbe  neblaivus,  apsvaigęs nuo
 
 narkotikų
 
-ar  toksinių  medžiagų,  darbdavys  tą dieną (pamainą)
+ar  toksinių  medžiagų,  darbdavys  tą dieną (pamainą)
 
 neleidžia
 
@@ -1011,7 +1029,7 @@ paslaptis arba jas praneša konkuruojančiai įmonei;
 
 vykdyti
 
-patvarkymus   (nurodymus),   vieną   kartą   šiurkščiai
+patvarkymus   (nurodymus),   vieną   kartą   šiurkščiai
 
 pažeidžia
 
@@ -1043,7 +1061,7 @@ auklėjimo  funkcijas,  gali  būti atleisti iš darbo,
 
 kai
 
-jų  elgesys,  nors  ir ne darbo metu, yra amoralus ir dėl to
+jų  elgesys,  nors  ir ne darbo metu, yra amoralus ir dėl to
 
 nesuderinamas
 
@@ -1057,7 +1075,7 @@ jų  laikinojo nedarbingumo laikotarpiu (išskyrus atleidimą
 
 pagal
 
-šio  straipsnio  1  ir  4  punktus),  taip  pat darbuotojų
+šio  straipsnio  1  ir  4  punktus),  taip  pat darbuotojų
 
 atostogų
 
@@ -1165,7 +1183,7 @@ nutraukimo
 
 bendrąją tvarką.
 
-Darbo   sutarčių   sudarymo,  pakeitimo  ir  nutraukimo   su
+Darbo   sutarčių   sudarymo,  pakeitimo  ir  nutraukimo   su
 
 renkamaisiais,
 
@@ -1419,7 +1437,7 @@ Gali   būti   sudaroma   neterminuota  darbo  sutartis  arba
 
 nustatomas
 
-terminas,  bet  ne ilgesnis kaip penkeri metai, jeigu
+terminas,  bet  ne ilgesnis kaip penkeri metai, jeigu
 
 kiti
 
@@ -1581,7 +1599,7 @@ iš  darbo,  nesilaikydamas  šio  įstatymo  33  ir  34
 
 straipsniuose
 
-nustatytos  tvarkos,  ir  nemokėti  jam  išeitinės
+nustatytos  tvarkos,  ir  nemokėti  jam  išeitinės
 
 pašalpos.
 
@@ -1611,45 +1629,57 @@ darbo sutartį leidžiama tik bendraisiais pagrindais.
 
 15 straipsnis.Dokumentai, būtini priimant į darbą
 
-Darbdavys   gali   pareikalauti,   kad   priimamasis  dirbti
+Darbdavys   gali   pareikalauti,   kad   priimamasis  dirbti
 
 pateiktų
 
 asmenį liudijantį dokumentą.
 
-Jeigu   darbo  įstatymai sieja priėmimą į darbą su tam tikru
+Jeigu  darbo  įstatymai  sieja  priėmimą   į  darbą  su  tam
 
-išsimokslinimu
+tikru
 
-ar   profesiniu  pasirengimu,  sveikatos  būkle,
+išsimokslinimu   ar   profesiniu   pasirengimu,  sveikatos
 
-darbdavys
+būkle,
 
-privalo  pareikalauti,  kad  priimamasis  pateiktų  tą
+darbdavys   privalo    pareikalauti,   kad   priimamasis
 
-išsimokslinimą,
+pateiktų
 
-profesinį    pasirengimą,    sveikatos   būklę
+tą  išsimokslinimą,  profesinį  pasirengimą,  sveikatos
 
-patvirtinančius
+būklę
 
-dokumentus, o priimdamas į darbą nepilnametį nuo
+patvirtinančius   dokumentus,  o  priimdamas   į   darbą
 
-14
+nepilnametį
 
-iki  16  metų  -  jo  gimimo liudijimą, mokyklos, kurioje jis
+nuo  14  iki   16  metų  -  jo   gimimo   liudijimą,
 
-mokosi,
+mokyklos,
 
-ir  vieno iš tėvų ar kito jį faktiškai auginančio asmens
+kurioje  jis  mokosi, ir  vieno iš  tėvų  ar  kito  jį
 
-raštišką
+faktiškai
 
-sutikimą.  Darbdavys  turi  teisę  pareikalauti ir kitų
+auginančio    asmens   raštišką    sutikimą.    Karo
 
-įstatymuose
+prievolininkai
 
-numatytų dokumentų.
+privalo   pateikti   dokumentus,  kad  jie   yra
+
+įsirašę
+
+į  karinę  įskaitą   vietinėse   teritorinėse   karinėse
+
+įstaigose
+
+pagal  jų  gyvenamąją  vietą.  Darbdavys  turi   teisę
+
+pareikalauti
+
+ir kitų įstatymuose numatytų dokumentų.
 
 Straipsnio
 
@@ -1658,6 +1688,10 @@ pakeitimai:
 Nr.
 
 1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
+
+Nr.
+
+I-1599, 96.10.22, Žin., 1996, Nr.106-2429 (96.11.06)
 
 19 straipsnis.Įsidarbinimo garantijos
 
@@ -2045,7 +2079,7 @@ nėščia moterimi ir motina, auginančia
 
 vaiką iki 3 metų
 
-Darbo  sutartis  darbdavio  iniciatyva  ir  darbdavio  valia
+Darbo  sutartis  darbdavio  iniciatyva  ir  darbdavio  valia
 
 negali
 
@@ -2243,7 +2277,7 @@ termino,  nuo kurio pradedama mokėti bedarbio pašalpa
 
 (Lietuvos
 
-Respublikos  gyventojų užimtumo įstatymo 16 straipsnio
+Respublikos  gyventojų užimtumo įstatymo 16 straipsnio
 
 antroji
 
@@ -2359,7 +2393,9 @@ D A R B O  S U T A R T I S Nr._______
 
 199 __ m. ____________ d.
 
-Įmonė, įstaiga, organizacija (toliau - įmonė)___________________________
+Įmonė, įstaiga, organizacija (toliau -
+
+įmonė)___________________________
 
 (pavadinimas)
 
@@ -2383,7 +2419,9 @@ nurodyti, vardas ir pavardė)
 
 ________________________________________________________________________
 
-Priimamas į darbą asmuo_________________________________________________
+Priimamas į darbą
+
+asmuo_________________________________________________
 
 (vardas, pavardė)
 
@@ -2415,9 +2453,7 @@ pavardė)
 
 priimamas dirbti
 
-1.1.
-
-___________________________________________________________________
+1.1. ___________________________________________________________________
 
 (nurodyti padalinį)
 
@@ -2437,7 +2473,9 @@ nurodyti)
 
 1.3. pagal neterminuotą, terminuotą darbo
 
-sutartį (nereikalingą žodį išbraukti)______________________________________________________________
+sutartį (nereikalingą žodį
+
+išbraukti)______________________________________________________________
 
 ________________________________________________________________________
 
@@ -2487,9 +2525,7 @@ kartų per mėnesį, kuriomis dienomis)
 
 neprivalomi pagal teisės aktus, bet jiems neprieštarauja ir kurių
 
-nereglamentuoja kolektyvinis susitarimas arba kolektyvinė
-
-sutartis___________________________________
+nereglamentuoja kolektyvinis susitarimas arba kolektyvinė sutartis___________________________________
 
 (papildomos garantijos,
 
@@ -2515,9 +2551,7 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
-7. Ši darbo sutartis
-
-įsigalioja_________________________________________
+7. Ši darbo sutartis įsigalioja_________________________________________
 
 (nurodyti datą)
 
@@ -2603,15 +2637,15 @@ sutartyse gali būti šalių nustatytos kitokios teisės aktams neprieštaraujan
 
 sąlygos.
 
-Šios darbo
+Šios darbo sutarties būtinosios
 
-sutarties būtinosios sąlygos - darbuotojo darbo vieta (įmonė, jos padalinys ir
+sąlygos - darbuotojo darbo vieta (įmonė, jos padalinys ir pan.), darbo
 
-pan.), darbo funkcijos (profesija, kvalifikacija, specialybė, darbas, pareigos),
+funkcijos (profesija, kvalifikacija, specialybė, darbas, pareigos), darbo
 
-darbo apmokėjimo sąlygos - gali būti keičiamos tiktai šalių susitarimu. Kitų
+apmokėjimo sąlygos - gali būti keičiamos tiktai šalių susitarimu. Kitų šios
 
-šios sutarties sąlygų keitimas negali prieštarauti įstatymams, kitiems teisės
+sutarties sąlygų keitimas negali prieštarauti įstatymams, kitiems teisės
 
 aktams, reglamentuojantiems darbo sutarties sudarymą, pakeitimą ir nutraukimą.
 
