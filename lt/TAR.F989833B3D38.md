@@ -4,7 +4,7 @@ identifier: "TAR.F989833B3D38"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-28"
-last_updated: "1997-06-26"
+last_updated: "1997-11-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F989833B3D38"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1997.07.11)
+Lūžaitė (1997.12.02)
 
 Įstatymas
 
@@ -111,6 +111,22 @@ LIETUVOS RESPUBLIKOS
 
 NEI PRIVATIZUOTI” DALINIO PAKEITIMO ĮSTATYMAS
 
+6.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-531,
+
+97.11.20, Žin., 1997, Nr.108-2738 (97.11.28)
+
+LIETUVOS RESPUBLIKOS
+
+ĮSTATYMO “DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI AKCIONUOTI,
+
+NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
@@ -147,7 +163,9 @@ Lietuvos Respublikos
 
 priedėlis
 
-Valstybinių įmonių, kurių iki 2000-ųjų metų
+Valstybinių
+
+įmonių, kurių iki 2000-ųjų metų
 
 nenumatoma
 
@@ -163,16 +181,6 @@ pavadinimas
 
 ______________________________________________________________
 
-Lietuvos Respublikos Seimo kanceliarija
-
-2173997   Valstybinė
-
-įmonė "Greminta"
-
-5245037
-
-Valstybiniai poilsio namai "Eglė"
-
 Lietuvos
 
 Respublikos Vyriausybės kanceliarija
@@ -180,10 +188,6 @@ Respublikos Vyriausybės kanceliarija
 5200457   Valstybinė
 
 sanatorija "Lietuva"
-
-5240953
-
-Valstybiniai poilsio namai "Baltija"
 
 Finansų ministerija
 
@@ -339,7 +343,7 @@ Vilniaus Rotušės vaistinė
 
 valstybinė centro vaistinė
 
-3396632   Valstybinė
+3396632   Valstybinė
 
 įmonė "Aleksoto vaistinė"
 
@@ -525,9 +529,7 @@ Lietuvos bankas
 
 monetų kalykla
 
-Alytaus
-
-apskrities viršininko administracija
+Alytaus apskrities viršininko administracija
 
 8453729
 
@@ -539,11 +541,11 @@ apskrities viršininko administracija
 
 5657226
 
-Valstybinė   veislininkystės   įmonė   (Jonavos rajonas)
+Valstybinė   veislininkystės   įmonė   (Jonavos rajonas)
 
-6113181   Valstybinė
+6113181
 
-įmonė  “Pagirių  sodai”   (Kėdainių rajonas)
+Valstybinė  įmonė  “Pagirių  sodai”   (Kėdainių rajonas)
 
 Panevėžio apskrities viršininko administracija
 
@@ -551,7 +553,9 @@ Panevėžio apskrities viršininko administracija
 
 gyvulių  sėklinimo  įmonė  (Pasvalio rajonas)
 
-Šiaulių apskrities viršininko administracija
+Šiaulių
+
+apskrities viršininko administracija
 
 7132079  Šeduvos
 
@@ -645,7 +649,7 @@ Valstybinis laidojimo biuras "Liūdesys"
 
 įmonė "Atgaiva"
 
-3352403   Valstybinė
+3352403   Valstybinė
 
 skalbykla "Šarma"
 
@@ -685,7 +689,9 @@ Akmenės rajono valdyba
 
 ekologijos laboratorija
 
-Biržų rajono valdyba
+Biržų
+
+rajono valdyba
 
 5472442   Valstybinė
 
@@ -726,4 +732,8 @@ Nr. VIII-259,
 Nr. VIII-317,
 
 97.06.26, Žin., 1997, Nr.66-1599 (97.07.11)
+
+Nr. VIII-531,
+
+97.11.20, Žin., 1997, Nr.108-2738 (97.11.28)
 
