@@ -4,7 +4,7 @@ identifier: "TAR.8E13ADB62DC6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-21"
-last_updated: "1996-01-26"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8E13ADB62DC6"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1995-12-21"
 document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso, Įmonių įstatymo ir Alkoholio kontrolės įstatymo pakeitimo
+
+Suvestinė redakcija nuo 2004-01-01
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 8-195, i. k. 0951010ISTA00I-1156
 
 LIETUVOS RESPUBLIKOS
 
@@ -37,13 +41,11 @@ Visuomenės informavimo priemonių valdybos prie Teisingumo ministerijos vardu n
 
 2. 2591 straipsnio pirmosios dalies 1 punkto aštuonioliktoje pastraipoje vietoj žodžių „Spaudos kontrolės valdybos prie Teisingumo ministerijos pareigūnai“ įrašyti žodžius „Visuomenės informavimo priemonių valdybos prie Teisingumo ministerijos pareigūnai“.
 
-II. Pakeisti ir papildyti Lietuvos Respublikos įmonių įstatymą (Žin., 1990, Nr. 14-395, Nr. 23-573; 1994, Nr. 8-119, Nr. 59-1163; 1995, Nr. 10-207, Nr. 44-1074, Nr. 60-1503):
+2 skyrius. Neteko galios nuo 2004-01-01
 
-1. 12 straipsnio antrąją dalį išdėstyti taip:
+Skyriaus naikinimas:
 
-„Lietuvos Respublikoje draudžiama steigti ir laikyti lošimo namus, organizuoti azartinius lošimus. Leidžiama teikti poligrafijos paslaugas, leisti laikraščius, žurnalus, knygas ir kitus spaudinius, steigti radijo, televizijos stotis, kino, garso, vaizdo studijas, informacijos agentūras tik įregistravus šią veiklą Visuomenės informavimo priemonių valdyboje prie Teisingumo ministerijos.“
-
-2. 19 straipsnio ketvirtąjį sakinį išdėstyti taip: „Įmonės, teikiančios poligrafijos paslaugas, leidžiančios laikraščius, žurnalus, knygas ir kitus spaudinius, steigiančios radijo, televizijos stotis, kino, garso, vaizdo studijas, informacijos agentūras, privalo turėti registracijos Visuomenės informavimo priemonių valdyboje prie Teisingumo ministerijos dokumentus.“
+Nr. IX-1891, 2003-12-11, Žin. 2003, Nr. 123-5576 (2003-12-30), i. k. 1031010ISTA0IX-1891
 
 III. Pakeisti Lietuvos Respublikos alkoholio kontrolės įstatymą (Žin., 1995, Nr. 44-1073, Nr. 61-1527):
 
@@ -54,4 +56,14 @@ III. Pakeisti Lietuvos Respublikos alkoholio kontrolės įstatymą (Žin., 1995,
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1891, 2003-12-11, Žin., 2003, Nr. 123-5576 (2003-12-30), i. k. 1031010ISTA0IX-1891
+
+Lietuvos Respublikos įmonių įstatymo, jį keitusių bei su juo susijusių įstatymų pripažinimo netekusiais galios įstatymas
 
