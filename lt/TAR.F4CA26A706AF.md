@@ -4,7 +4,7 @@ identifier: "TAR.F4CA26A706AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-25"
-last_updated: "2000-05-23"
+last_updated: "2000-06-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Įstatymas paskelbtas: Žin., 1999, Nr.105-3019
+Įstatymas paskelbtas: Žin., 1999, Nr. 105-3019
 
 Neoficialus įstatymo tekstas
 
@@ -608,9 +608,9 @@ Straipsnio
 
 pakeitimai
 
-Nr. VIII-1699,
+Nr. VIII-1699, 00.05.23, Žin., 2000,
 
-00.05.23, Žin., 2000, Nr.45-1297 (00.06.02)
+Nr.45-1297 (00.06.02)
 
 6
 
@@ -672,11 +672,11 @@ terminą pratęsia Lietuvos Respublikos paslapčių apsaugos koordinavimo komisi
 
 Įslaptinimo terminas gali būti pratęsiamas iki 10 metų. Pratęsimų skaičius
 
-neribojamas, tačiau bendras informacijos įslaptinimo terminas negali būti
+neribojamas, tačiau bendras informacijos įslaptinimo terminas negali būti ilgesnis
 
-ilgesnis nei 95 metai, išskyrus informaciją apie slaptuosius operatyvinės
+nei 95 metai, išskyrus informaciją apie slaptuosius operatyvinės veiklos
 
-veiklos dalyvius.
+dalyvius.
 
 7 straipsnis. Įslaptintos informacijos
 
@@ -986,13 +986,13 @@ informacija, pažymėta žemesnio laipsnio slaptumo žyma, nereikalingas.
 
 valstybės paslaptį sudarančia informacija, žymima slaptumo žymomis „Visiškai
 
-slaptai“ arba „Slaptai“, išduodamas 5 metams, o su valstybės paslaptį
+slaptai“ arba „Slaptai“, išduodamas 5 metams, o su valstybės paslaptį sudarančia
 
-sudarančia informacija, žymima slaptumo žyma „Konfidencialiai“, - 7 metams.
+informacija, žymima slaptumo žyma „Konfidencialiai“, - 7 metams. Šiems
 
-Šiems terminams pasibaigus, asmuo tikrinamas iš naujo. Asmuo gali būti
+terminams pasibaigus, asmuo tikrinamas iš naujo. Asmuo gali būti papildomai
 
-papildomai tikrinamas ir nepasibaigus šiame straipsnyje nustatytiems terminams.
+tikrinamas ir nepasibaigus šiame straipsnyje nustatytiems terminams.
 
 8.
 
@@ -1124,15 +1124,13 @@ Asmeniui teisę susipažinti su įslaptinta informacija, kuria disponuoja kitas
 
 paslapčių subjektas, suteikia šia informacija disponuojančio paslapčių subjekto
 
-vadovas. Asmuo privalo pateikti institucijos, kurioje jis dirba, vadovo
+vadovas. Asmuo privalo pateikti institucijos, kurioje jis dirba, vadovo tikslinį
 
-tikslinį siuntimą. Siuntime turi būti patvirtinta, kad asmuo turi leidimą
+siuntimą. Siuntime turi būti patvirtinta, kad asmuo turi leidimą dirbti ar
 
-dirbti ar susipažinti su atitinkama slaptumo žyma pažymėta įslaptinta
+susipažinti su atitinkama slaptumo žyma pažymėta įslaptinta informacija, bei
 
-informacija, bei nurodyta, kodėl ir su kokia informacija asmeniui reikia
-
-susipažinti.
+nurodyta, kodėl ir su kokia informacija asmeniui reikia susipažinti.
 
 3.
 
@@ -1154,9 +1152,9 @@ paslapčių apsaugos koordinavimo komisija
 
 paslapčių apsaugos koordinavimo komisija yra kolegiali institucija,
 
-koordinuojanti įslaptintos informacijos apsaugą. Jos nuostatus tvirtina Lietuvos
+koordinuojanti įslaptintos informacijos apsaugą. Jos nuostatus tvirtina
 
-Respublikos Vyriausybė.
+Lietuvos Respublikos Vyriausybė.
 
 2.
 
@@ -1316,11 +1314,11 @@ informacija disponuojantys paslapčių subjektai.
 
 3.
 
-Paslapčių subjektų saugomų dokumentų, kuriuose yra įslaptintos informacijos,
+Paslapčių subjektų saugomų dokumentų, kuriuose yra įslaptintos informacijos, apskaitos,
 
-apskaitos, tvarkymo, raštvedybos organizavimo bei kontrolės tvarką nustato
+tvarkymo, raštvedybos organizavimo bei kontrolės tvarką nustato Lietuvos
 
-Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+Respublikos Vyriausybė ar jos įgaliota institucija.
 
 14 straipsnis. Asmens, kuriam patikėta
 
@@ -1336,21 +1334,11 @@ Asmuo jam patikėtą ar tarnybos metu sužinotą įslaptintą informaciją priva
 
 saugoti visą tokios informacijos įslaptinimo terminą.
 
-2.
+Straipsnio pakeitimai:
 
-Asmuo, kuriam buvo patikėta informacija, pažymėta slaptumo žyma „Visiškai
+Nr. VIII-1713, 00.06.06, Žin., 2000, Nr.50-1433
 
-slaptai“, negali emigruoti 5 metus, „Slaptai“ - 2 metus, „Konfidencialiai“ - 1
-
-metus nuo to momento, kai jis nebedirba darbo, susijusio su valstybės paslaptį
-
-sudarančios informacijos naudojimu bei apsauga, arba kai jam buvo leista
-
-susipažinti su tokia informacija. Šis apribojimas netaikomas tuo atveju, jeigu
-
-asmeniui patikėta valstybės paslaptį sudaranti informacija iki prašymo
-
-emigruoti padavimo dienos buvo išslaptinta.
+(00.06.21)
 
 15
 
@@ -1382,9 +1370,9 @@ savanoriškai perduoda atitinkamoms valstybės institucijoms iki 2000 m. rugsėj
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1584, 00.03.21, Žin., 2000, Nr.27-713
+Nr. VIII-1584, 00.03.21, Žin., 2000,
 
-(00.03.31)
+Nr.27-713 (00.03.31)
 
 16
 
@@ -1432,7 +1420,7 @@ RESPUBLIKOS PREZIDENTAS                             
 
 ADAMKUS
 
-__________________
+______________
 
 Pakeitimai:
 
@@ -1442,9 +1430,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-1584,
+Nr. VIII-1584, 00.03.21, Žin., 2000,
 
-00.03.21, Žin., 2000, Nr.27-713 (00.03.31)
+Nr.27-713 (00.03.31)
 
 VALSTYBĖS IR
 
@@ -1456,15 +1444,31 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-1699,
+Nr. VIII-1699, 00.05.23, Žin., 2000,
 
-00.05.23, Žin., 2000, Nr.45-1297 (00.06.02)
+Nr.45-1297 (00.06.02)
 
 VALSTYBĖS IR
 
 TARNYBOS PASLAPČIŲ ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1713, 00.06.06, Žin., 2000,
+
+Nr.50-1433 (00.06.21)
+
+VALSTYBĖS IR
+
+TARNYBOS PASLAPČIŲ ĮSTATYMO 14 STRAIPSNIO 2 DALIES PRIPAŽINIMO NETEKUSIA GALIOS
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.06.05)
+Redagavo: Aušrinė Trapinskienė (2000.06.22)
 
