@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2000-01-12"
+last_updated: "2000-03-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -2096,7 +2096,21 @@ investuotojai) po 1998 m. spalio 1 d. per 3 metus (36 kalendorinius mėnesius)
 
 investavo į perkančiąją organizaciją ne mažiau kaip 200 mln. Lt ir perkančioji
 
-organizacija yra patvirtinusi savo pirkimų taisykles.
+organizacija yra patvirtinusi savo pirkimų taisykles;
+
+8) iš įkalinimo įstaigų, valstybės įmonių, kurių
+
+steigėja yra Vidaus reikalų ar Teisingumo ministerija, ir kuriose dirba daugiau
+
+kaip 50 procentų nuteistųjų, įmonių, kuriose dirba daugiau kaip 50 procentų
+
+invalidų, bei įmonių prie sveikatos priežiūros įstaigų, kuriose darbo terapijos
+
+pagrindais dirba ne mažiau kaip 50 procentų pacientų, perkamos jų pagamintos
+
+prekės, teikiamos paslaugos ar atliekami darbai yra mažesnės vertės už nurodytą
+
+šio įstatymo 12 straipsnio 3 dalyje.
 
 3. Jeigu prekių ar paslaugų pirkimo vertė viršija 150
 
@@ -2126,19 +2140,23 @@ reikalingas, kai prekių, paslaugų ar darbų pirkimų vertė viršija nurodytą
 
 sutikimas nereikalingas karšto ir šalto vandens, elektros, šiluminės energijos,
 
-vamzdynais tiekiamų dujų ir laidinio ryšio paslaugų pirkimams bei įmonių,
+vamzdynais tiekiamų dujų ir laidinio ryšio paslaugų pirkimams bei įmonių, veikiančių
 
-veikiančių vandentvarkos, energetikos, transporto ir telekomunikacijų srityse,
+vandentvarkos, energetikos, transporto ir telekomunikacijų srityse,
 
 atliekamiems pirkimams pagal šio straipsnio 2 dalies 2 punkto reikalavimus.
 
-Lietuvos Respublikos Vyriausybės sutikimas nereikalingas VĮ Ignalinos AE pagrindinei
+Lietuvos Respublikos Vyriausybės sutikimas nereikalingas VĮ Ignalinos AE
 
-veiklai naudojamų žaliavų, medžiagų, komplektuojančių dalių, pirminių energijos
+pagrindinei veiklai naudojamų žaliavų, medžiagų, komplektuojančių dalių,
 
-išteklių ir su jų tiekimu susijusių paslaugų, specialiosios įrangos, atsarginių
+pirminių energijos išteklių ir su jų tiekimu susijusių paslaugų, specialiosios
 
-dalių pirkimams.
+įrangos, atsarginių dalių pirkimams. Lietuvos Respublikos Vyriausybės sutikimas
+
+nereikalingas perkant prekes, darbus arba paslaugas šio straipsnio 2 dalies 8
+
+punkte nurodytu atveju.
 
 4. Šio straipsnio 2 dalies 4 ir 5 punktuose
 
@@ -2167,6 +2185,10 @@ Nr. VIII-1349, 1999 10 05, Žin., 1999, Nr.
 Nr. VIII-1526, 2000 01 12, Žin., 2000, Nr.
 
 7-177 (2000 01 26)
+
+Nr. VIII-1577, 2000 03 21, Žin., 2000, Nr.
+
+28-766 (2000 04 05)
 
 ŠEŠTASIS SKIRSNIS
 
@@ -2310,11 +2332,11 @@ pripažintas laimėjusiu, ir nurodomas laikas, iki kada reikia atvykti sudaryti
 
 pirkimo sutartį.
 
-4. Jeigu tiekėjas (rangovas), kuriam buvo
+4. Jeigu tiekėjas (rangovas), kuriam buvo pasiūlyta
 
-pasiūlyta sudaryti pirkimo sutartį, raštu atsisako ją sudaryti arba nepateikia
+sudaryti pirkimo sutartį, raštu atsisako ją sudaryti arba nepateikia pirkimo
 
-pirkimo dokumentuose nustatyto pirkimo sutarties įvykdymo užtikrinimo, arba iki
+dokumentuose nustatyto pirkimo sutarties įvykdymo užtikrinimo, arba iki
 
 perkančiosios organizacijos nurodyto laiko neatvyksta sudaryti pirkimo
 
@@ -2360,7 +2382,9 @@ gali didinti atsižvelgus į kainos indeksavimą dėl infliacijos antraisiais ir
 
 vėlesniais metais, kai pirkimo sutartis sudaryta dėl viso objekto statybos,
 
-kurios trukmė ilgesnė nei 1 metai.
+kurios trukmė ilgesnė
+
+nei 1 metai.
 
 Straipsnio pakeitimai:
 
@@ -2842,11 +2866,19 @@ VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 1, 17, 18, 20, 27, 32, 34, 35, 46 STRAIPSNIŲ
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1577, 2000 03 21, Žin., 2000, Nr.
+
+28-766 (2000 04 05)
+
+VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 32 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo:
-
-Aušrinė Trapinskienė (2000 12 05)
+Redagavo: Aušrinė Trapinskienė (2000 12 05)
 
 autrap@lrs.lt
 
