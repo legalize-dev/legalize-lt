@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "2000-02-17"
+last_updated: "2000-07-11"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -21,6 +21,10 @@ Redagavo: Ramun? L??ait? (1997
 Įstatymas paskelbtas: Žin., 1994,
 
 Nr.30-530
+
+Nauja įstatymo redakcija skelbta:
+
+Žin., 1997, Nr.117-2996
 
 Neoficialus įstatymo tekstas
 
@@ -376,11 +380,9 @@ litrą preparato;
 
 importuojamo automobilio, priskirto prabangiems automobiliams, deklaruojamoji
 
-kaina mažesnė už naujo bazinio automobilio kainą, apskaičiuojant
+kaina mažesnė už naujo bazinio automobilio kainą, apskaičiuojant apmokestinamąją
 
-apmokestinamąją kainos dalį, maksimali neapmokestinamoji kaina proporcingai
-
-sumažinama.
+kainos dalį, maksimali neapmokestinamoji kaina proporcingai sumažinama.
 
 4. Cukraus kiekį (procentais), nuo kurio skaičiuojamas
 
@@ -417,6 +419,14 @@ Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
 1. Akcizais neapmokestinama:
 
 1) kaip labdara įvežamos prekės;
+
+[1
+
+dalies 1 punkto redakcija nuo 2001 m. sausio 1 d.:
+
+1) 3 straipsnio 1 dalies 3 ir 10 punktuose nurodytos
+
+prekės, įvežamos kaip parama;]
 
 2) fizinių asmenų (keleivių) įvežamos prekės, jeigu jų
 
@@ -556,6 +566,10 @@ Nr. VIII-1553, 00.02.17, Žin., 2000,
 
 Nr.22-554 (00.03.15)
 
+Nr. VIII-1814, 00.07.11, Žin., 2000,
+
+Nr.61-1820 (00.07.26), įsigalioja nuo 2001.01.01
+
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
 
 išieškoti
@@ -670,13 +684,13 @@ administravimo įstatymo nustatyta tvarka.
 
 1. Jeigu nustatytu laiku nesumokami akcizai, imami
 
-delspinigiai, kurie skaičiuojami Mokesčių administravimo įstatymo nustatyta
+delspinigiai, kurie skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.
 
-tvarka. Jeigu mokėtojas nepateikė akcizų apyskaitos arba pateiktoje akcizų
+Jeigu mokėtojas nepateikė akcizų apyskaitos arba pateiktoje akcizų apyskaitoje
 
-apyskaitoje akcizus sumažino, teritorinės valstybinės mokesčių inspekcijos
+akcizus sumažino, teritorinės valstybinės mokesčių inspekcijos taiko baudas
 
-taiko baudas Mokesčių administravimo įstatymo nustatyta tvarka.
+Mokesčių administravimo įstatymo nustatyta tvarka.
 
 2. Jeigu nesilaikoma Muitinės kodekso nustatytos
 
@@ -820,9 +834,9 @@ Nr. VIII-125,
 
 97.02.25, Žin., 1997, Nr.20-447 (97.03.07)
 
-LIETUVOS RESPUBLIKOS AKCIZŲ
+LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO
 
-ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 8.
 
@@ -858,9 +872,9 @@ STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-901, 98.10.20, Žin., 1998,
+Nr. VIII-901, 98.10.20, Žin., 1998, Nr.96-2657
 
-Nr.96-2657 (98.11.04)
+(98.11.04)
 
 AKCIZŲ ĮSTATYMO 3 IR 7 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
@@ -955,6 +969,20 @@ dalies nuostatos, susijusios su laivų pripildymu (aprūpinimu atsargomis), taip
 pat šio įstatymo 3 straipsnyje išdėstytas 6 straipsnio 1 dalies 11 punktas
 
 įsigalioja nuo 2000 m. gegužės 15 d.
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1814, 00.07.11, Žin., 2000,
+
+Nr.61-1820 (00.07.26)
+
+AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2001
+
+m. sausio 1 d.
 
 *** Pabaiga ***
 
