@@ -4,7 +4,7 @@ identifier: "TAR.A9C13A86ED0A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2002-01-15"
+last_updated: "2004-01-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A"
 department: "Lietuvos Respublikos Seimas"
@@ -38,7 +38,7 @@ BENDRADARBIAVIMO RENGINIŲ
 
 1994 m. liepos
 
-19 d. Nr.I-555
+19 d. Nr. I-555
 
 Vilnius
 
@@ -374,6 +374,10 @@ Respublikos tarptautinės sutartys ar susitarimai dėl bendrų karinių vienetų
 
 steigimo.
 
+5
+
+dalies redakcija iki 2004 m. liepos 1 d.:
+
 5. Į
 
 tarptautinių operacijų karinį vienetą savanoriškumo pagrindu priimami
@@ -382,17 +386,33 @@ profesinės karo tarnybos kariai, kariuomenės aktyviojo rezervo prievolininkai
 
 ir individualiajam rezervui priklausantys asmenys. Su priimamaisiais sudaroma
 
-profesinės karo arba civilinės krašto apsaugos tarnybos sutartis ir tarnybos
+profesinės karo arba civilinės krašto apsaugos tarnybos sutartis ir tarnybos tarptautinių
 
-tarptautinių operacijų kariniame vienete sutartis. Taip pat gali būti priimami
+operacijų kariniame vienete sutartis. Taip pat gali būti priimami parengti
 
-parengti dalyvauti tarptautinėse operacijose privalomosios pradinės tarnybos
+dalyvauti tarptautinėse operacijose privalomosios pradinės tarnybos kariai. Su
 
-kariai. Su jais sudaroma tarnybos tarptautinių operacijų kariniame vienete
+jais sudaroma tarnybos tarptautinių operacijų kariniame vienete sutartis, o
 
-sutartis, o pasibaigus privalomajai pradinei tarnybai, – profesinės karo
+pasibaigus privalomajai pradinei tarnybai, – profesinės karo tarnybos sutartis.
 
-tarnybos sutartis.
+5
+
+dalies redakcija nuo 2004 m. liepos 1 d.:
+
+5. Atlikti
+
+tarnybą tarptautinių operacijų kariniame vienete įstatymų ir kitų teisės
+
+aktų nustatyta tvarka skiriami profesinės karo tarnybos kariai, kariai
+
+savanoriai, taip pat asmenys, atliekantys civilinę krašto apsaugos tarnybą.
+
+Pagrindinį karinį parengimą įgiję privalomosios karo tarnybos kariai
+
+tarptautinių operacijų kariniam vienetui gali būti priskirti jų mokymo ir
+
+rengimo tarptautinėms operacijoms tikslais.
 
 6. Lietuvos
 
@@ -411,6 +431,14 @@ kariniai vienetai, netaikant jų sudarymui šio straipsnio 5 dalyje numatytų
 sąlygų. Kitoms operacijoms vykdyti paprastai naudojami tik tarptautinių
 
 operacijų kariniai vienetai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-1994,
+
+2004-01-29, Žin., 2004, Nr. 25-762 (2004-02-14)
 
 5
 
@@ -440,13 +468,13 @@ Lietuvos Respublikos teritorijoje.
 
 Lietuvos Respublikos karinių vienetų išvykimo ir panaudojimo kolektyvinės
 
-gynybos operacijos tikslais kitų valstybių teritorijose, taip pat dėl kitų
+gynybos operacijos tikslais kitų valstybių teritorijose, taip pat dėl kitų valstybių
 
-valstybių karinių vienetų atvykimo ir panaudojimo kolektyvinės gynybos
+karinių vienetų atvykimo ir panaudojimo kolektyvinės gynybos operacijos
 
-operacijos tikslais Lietuvos Respublikos teritorijoje priima Lietuvos Respublikos
+tikslais Lietuvos Respublikos teritorijoje priima Lietuvos Respublikos Seimas,
 
-Seimas, Respublikos Prezidento teikimu priimdamas nutarimą.
+Respublikos Prezidento teikimu priimdamas nutarimą.
 
 3. Lietuvos
 
@@ -598,11 +626,11 @@ straipsnio 5 dalį nustatytas maksimalus Lietuvos Respublikos karinių vienetų
 
 dydis ir maksimalus jų buvimo kitų valstybių teritorijose laikas, taip pat
 
-maksimalus kitų valstybių karinių vienetų dydis ir maksimalus jų buvimo
+maksimalus kitų valstybių karinių vienetų dydis ir maksimalus jų buvimo Lietuvos
 
-Lietuvos Respublikos teritorijoje laikas, atsižvelgiant į Lietuvos valstybės
+Respublikos teritorijoje laikas, atsižvelgiant į Lietuvos valstybės interesus,
 
-interesus, prireikus gali būti sumažintas Lietuvos Respublikos Seimo nutarimu,
+prireikus gali būti sumažintas Lietuvos Respublikos Seimo nutarimu,
 
 nepažeidžiant Lietuvos Respublikos įsipareigojimų pagal kolektyvinės gynybos
 
@@ -752,17 +780,15 @@ ir programas bei kitus krašto apsaugos sistemos institucijų susitarimus su
 
 kompetentingomis kitų valstybių institucijomis:
 
-1) Lietuvos
+1) Lietuvos Respublikos
 
-Respublikos teritorijoje gali būti rengiamos bendros Lietuvos Respublikos ir
+teritorijoje gali būti rengiamos bendros Lietuvos Respublikos ir kitų valstybių
 
-kitų valstybių karinių vienetų pratybos arba kitų valstybių karinių vienetų
+karinių vienetų pratybos arba kitų valstybių karinių vienetų pratybos Lietuvos
 
-pratybos Lietuvos Respublikos krašto apsaugos sistemai skirtuose
+Respublikos krašto apsaugos sistemai skirtuose infrastruktūros objektuose ir
 
-infrastruktūros objektuose ir karinio mokymo teritorijose, taip pat
-
-organizuojami kiti renginiai;
+karinio mokymo teritorijose, taip pat organizuojami kiti renginiai;
 
 2)
 
@@ -928,11 +954,11 @@ vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams,
 
 priimamas Lietuvos Respublikos Vyriausybės siūlymu Seimo nutarimu. Šiame
 
-nutarime nustatomas maksimalus galinčių vienu metu būti Lietuvos Respublikoje kitų
+nutarime nustatomas maksimalus galinčių vienu metu būti Lietuvos Respublikoje
 
-valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų skaičius,
+kitų valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų
 
-taip pat maksimali pratybų ar kitų renginių trukmė.
+skaičius, taip pat maksimali pratybų ar kitų renginių trukmė.
 
 2.
 
@@ -1012,9 +1038,9 @@ sutartį naudotis šiais objektais ir teritorijomis. Kitų valstybių karinių
 
 vienetų naudojimosi Lietuvos Respublikos krašto apsaugos sistemos reikmėms
 
-skirtais infrastruktūros objektais ir karinio mokymo teritorijomis tvarką nustato
+skirtais infrastruktūros objektais ir karinio mokymo teritorijomis tvarką
 
-Lietuvos Respublikos Vyriausybė.
+nustato Lietuvos Respublikos Vyriausybė.
 
 10 straipsnis. Sprendimų siųsti Lietuvos Respublikos
 
@@ -1036,9 +1062,9 @@ dalyvauti pratybose ir kituose renginiuose priimamas Lietuvos Respublikos
 
 Vyriausybės siūlymu Seimo nutarimu. Šiame nutarime nustatomas maksimalus
 
-galinčių išvykti Lietuvos karių ir civilių krašto apsaugos sistemos tarnautojų
+galinčių išvykti Lietuvos karių ir civilių krašto apsaugos sistemos tarnautojų skaičius,
 
-skaičius, taip pat maksimali jų buvimo kitų valstybių teritorijose trukmė.
+taip pat maksimali jų buvimo kitų valstybių teritorijose trukmė.
 
 2. Išskyrus šio
 
@@ -1204,35 +1230,35 @@ pajėgų statuso ir jomis grindžiami susitarimai, taip pat Lietuvos Respublikos
 
 įstatymai ir kiti teisės aktai.
 
-2. Krašto
+2. Krašto apsaugos
 
-apsaugos ministrui ar jo įgaliotam atstovui iš anksto pateikus dokumentus dėl
+ministrui ar jo įgaliotam atstovui iš anksto pateikus dokumentus dėl leidimo
 
-leidimo kitų valstybių kariniams vienetams, kariams ir karinėms pajėgoms
+kitų valstybių kariniams vienetams, kariams ir karinėms pajėgoms priskirtiems
 
-priskirtiems civiliams tarnautojams atvykti į Lietuvos Respubliką, Lietuvos
+civiliams tarnautojams atvykti į Lietuvos Respubliką, Lietuvos valstybės sienos
 
-valstybės sienos apsaugos, muitinės ir kitos kontrolės institucijos taiko jiems
+apsaugos, muitinės ir kitos kontrolės institucijos taiko jiems specialiąją
 
-specialiąją valstybės sienos perėjimo tvarką – atleidžia nuo pasų bei vizų
+valstybės sienos perėjimo tvarką – atleidžia nuo pasų bei vizų kontrolės ir
 
-kontrolės ir netaiko užsieniečių registravimo taisyklių. Ši tvarka taikoma
+netaiko užsieniečių registravimo taisyklių. Ši tvarka taikoma valstybių, kurios
 
-valstybių, kurios kartu su Lietuvos Respublika yra daugiašalių tarptautinių
+kartu su Lietuvos Respublika yra daugiašalių tarptautinių sutarčių dėl karinių
 
-sutarčių dėl karinių pajėgų statuso dalyvės, kariniams vienetams, kariams ir
+pajėgų statuso dalyvės, kariniams vienetams, kariams ir karinėms pajėgoms
 
-karinėms pajėgoms priskirtiems civiliams tarnautojams, o Vyriausybės nutarimu –
+priskirtiems civiliams tarnautojams, o Vyriausybės nutarimu – taip pat kitų
 
-taip pat kitų valstybių kariniams vienetams, kariams ir karinėms pajėgoms
+valstybių kariniams vienetams, kariams ir karinėms pajėgoms priskirtiems
 
-priskirtiems civiliams tarnautojams, jeigu jos taiko tokią pačią sienos
+civiliams tarnautojams, jeigu jos taiko tokią pačią sienos perėjimo tvarką
 
-perėjimo tvarką Lietuvos Respublikos kariniams vienetams, kariams ir civiliams
+Lietuvos Respublikos kariniams vienetams, kariams ir civiliams krašto apsaugos
 
-krašto apsaugos sistemos tarnautojams. Specialiąją valstybės sienos
+sistemos tarnautojams. Specialiąją valstybės sienos perėjimo tvarką
 
-perėjimo tvarką tvirtina Lietuvos Respublikos Vyriausybė.
+tvirtina Lietuvos Respublikos Vyriausybė.
 
 3. Lietuvos
 
@@ -1274,13 +1300,13 @@ amuniciją bei oficialius dokumentus, taip pat savo vartojimo poreikiams
 
 reikalingą maisto produktų, kitų atsargų ir prekių kiekį (įskaitant akcizų
 
-objektu esančias prekes). Įvežamos ar išvežamos ginkluotės, amunicijos ir technikos
+objektu esančias prekes). Įvežamos ar išvežamos ginkluotės, amunicijos ir
 
-sąrašas, oficialių dokumentų paketų skaičius, taip pat maisto produktų, kitų
+technikos sąrašas, oficialių dokumentų paketų skaičius, taip pat maisto
 
-atsargų ir prekių kiekis nurodomas šio straipsnio 3 dalyje nurodytame įsakyme
+produktų, kitų atsargų ir prekių kiekis nurodomas šio straipsnio 3 dalyje
 
-arba jo priede.
+nurodytame įsakyme arba jo priede.
 
 5. Kitų valstybių
 
@@ -1322,31 +1348,29 @@ renginiuose, kariniam vienetui, kariams ir karinėms pajėgoms priskirtiems
 
 civiliams tarnautojams taip pat gali būti leidžiama vykti per Lietuvos
 
-Respublikos teritoriją į tarptautines operacijas, pratybas ar kitus renginius
+Respublikos teritoriją į tarptautines operacijas, pratybas ar kitus renginius trečiojoje
 
-trečiojoje šalyje, jeigu kaimyninė valstybė sutinka priimti per Lietuvos
+šalyje, jeigu kaimyninė valstybė sutinka priimti per Lietuvos Respubliką
 
-Respubliką tranzitu vykstantį karinį vienetą, karius ir karinėms pajėgoms
+tranzitu vykstantį karinį vienetą, karius ir karinėms pajėgoms priskirtus
 
-priskirtus civilius tarnautojus. Šiais atvejais taikoma ta pati šio Įstatymo
+civilius tarnautojus. Šiais atvejais taikoma ta pati šio Įstatymo nustatyta
 
-nustatyta sprendimų leisti atvykti į Lietuvos Respubliką kitų valstybių
+sprendimų leisti atvykti į Lietuvos Respubliką kitų valstybių kariniams
 
-kariniams vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams
+vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams
 
-tarnautojams priėmimo tvarka (išskyrus šio straipsnio 2 dalyje numatytą
+priėmimo tvarka (išskyrus šio straipsnio 2 dalyje numatytą atvejį), taip pat
 
-atvejį), taip pat šio Įstatymo nustatyta dalyvaujančių tarptautinėse
+šio Įstatymo nustatyta dalyvaujančių tarptautinėse operacijose, pratybose ir
 
-operacijose, pratybose ir kituose renginiuose kitų valstybių karinių vienetų,
+kituose renginiuose kitų valstybių karinių vienetų, karių ir karinėms pajėgoms
 
-karių ir karinėms pajėgoms priskirtų civilių tarnautojų vykimo per Lietuvos
+priskirtų civilių tarnautojų vykimo per Lietuvos valstybės sieną tvarka bei jų
 
-valstybės sieną tvarka bei jų statusą reglamentuojančios kitos šio Įstatymo,
+statusą reglamentuojančios kitos šio Įstatymo, Lietuvos Respublikos tarptautinių
 
-Lietuvos Respublikos tarptautinių sutarčių dėl karinių pajėgų statuso ir jomis
-
-grindžiamų susitarimų nuostatos.
+sutarčių dėl karinių pajėgų statuso ir jomis grindžiamų susitarimų nuostatos.
 
 2. Neatidėliotinu
 
@@ -1372,15 +1396,15 @@ nesijungimo
 
 Respublika gali steigti bendrus karinius vienetus su NVS valstybėmis ar kitomis
 
-valstybėmis, priklausančiomis kitoms buvusios SSRS pagrindu sukurtoms
+valstybėmis, priklausančiomis kitoms buvusios SSRS pagrindu sukurtoms sąjungoms,
 
-sąjungoms, jeigu bendras karinis vienetas yra skirtas dalyvauti kitose
+jeigu bendras karinis vienetas yra skirtas dalyvauti kitose operacijose, o jo
 
-operacijose, o jo steigėjos taip pat yra NATO, Europos Sąjungos, Vakarų Europos
+steigėjos taip pat yra NATO, Europos Sąjungos, Vakarų Europos Sąjungos
 
-Sąjungos valstybės arba valstybės, nepriklausančios NVS ar kitoms buvusios SSRS
+valstybės arba valstybės, nepriklausančios NVS ar kitoms buvusios SSRS pagrindu
 
-pagrindu sukurtoms sąjungoms ir dalyvaujančios NATO Partnerystės taikos labui
+sukurtoms sąjungoms ir dalyvaujančios NATO Partnerystės taikos labui
 
 programoje.
 
@@ -1438,13 +1462,13 @@ gali dalyvauti Lietuvos Respublikos teritorijoje organizuojamuose kituose
 
 renginiuose, jeigu vienu metu bendras NVS valstybių karių ir karinėms pajėgoms
 
-priskirtų civilių tarnautojų skaičius yra mažesnis negu Lietuvos kariuomenės dalinio
+priskirtų civilių tarnautojų skaičius yra mažesnis negu Lietuvos kariuomenės
 
-(bent dviejų kuopų) karių ir civilių krašto apsaugos sistemos tarnautojų
+dalinio (bent dviejų kuopų) karių ir civilių krašto apsaugos sistemos
 
-skaičius. NVS šalių kariniai vienetai gali atvykti į Lietuvos Respublikoje
+tarnautojų skaičius. NVS šalių kariniai vienetai gali atvykti į Lietuvos
 
-organizuojamus kitus renginius ne daugiau kaip dviem savaitėms.
+Respublikoje organizuojamus kitus renginius ne daugiau kaip dviem savaitėms.
 
 V
 
@@ -1538,11 +1562,9 @@ Nr. VIII-1860,
 
 KARIUOMENĖS VIENETŲ DALYVAVIMO TARPTAUTINĖSE OPERACIJOSE
 
-IR PRATYBOSE, TAIP PAT TARPTAUTINIŲ PRATYBŲ RENGIMO LIETUVOS TERITORIJOJE
+IR PRATYBOSE, TAIP PAT TARPTAUTINIŲ PRATYBŲ RENGIMO LIETUVOS TERITORIJOJE ĮSTATYMO
 
-ĮSTATYMO PAVADINIMO, 1, 6, 8, 9, 10, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-
-ĮSTATYMAS
+PAVADINIMO, 1, 6, 8, 9, 10, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Pakeistas įstatymo pavadinimas
 
@@ -1568,13 +1590,35 @@ Nauja
 
 (keistas įstatymo pavadinimas)
 
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1994,
+
+2004-01-29, Žin., 2004, Nr. 25-762 (2004-02-14)
+
+TARPTAUTINIŲ
+
+OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 4
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Įstatymas
+
+įsigalioja nuo 2004 m. liepos 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-02-06)
+Aušrinė Trapinskienė (2004-02-19)
 
 autrap@lrs.lt
 
