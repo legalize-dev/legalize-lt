@@ -4,7 +4,7 @@ identifier: "TAR.5DE7219AB40C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-01-31"
-last_updated: "2002-06-04"
+last_updated: "2004-04-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -38,9 +38,17 @@ VEIKLOS
 
 S
 
-Šis įstatymas reglamentuoja
+Šis įstatymas
 
-farmacinę veiklą Lietuvos Respublikoje.
+reglamentuoja farmacinę veiklą Lietuvos Respublikoje. Šio įstatymo nuostatos
+
+suderintos su Įstatymo priede nurodytais Europos Sąjungos teisės aktais.
+
+Preambulės pakeitimai:
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 I skyrius.
 
@@ -104,7 +112,15 @@ atliekų tvarkymas, išskyrus jų šalinimą;
 
 7) informacijos
 
-apie vaistus ir vaistines medžiagas teikimas.
+ir konsultacijų apie vaistus ir vaistines medžiagas teikimas;
+
+8) vaistų ir
+
+veikliųjų vaistinių medžiagų importas;
+
+9) tiriamųjų
+
+vaistų gamyba ir importas.
 
 Farmacinės atliekos
 
@@ -112,15 +128,15 @@ Farmacinės atliekos
 
 medžiagos ar medžiagos, kurių vartojimo laikas yra pasibaigęs.
 
-Farmakopėja
+Farmakopėja – bendrųjų
 
-– rinkinys galiojančių valstybinių standartų, nustatančių vaistų ir vaistinių
+nuostatų ir įteisintų paskelbtų normatyvinių reikalavimų vaistinių medžiagų bei
 
-medžiagų analizės metodus, reagentus, vaistų formų bendruosius straipsnius,
+vaistų pavadinimams, savybėms, tapatybės nustatymui, grynumui, kiekybiniam
 
-vaistinių medžiagų tapatybę, grynumą, kokybės kontrolę, laikymo sąlygas bei
+nustatymui, laikymo sąlygoms, ženklinimui ir bendriesiems kontrolės metodams
 
-pavadinimus.
+rinkinys.
 
 Farmakotechnikas – asmuo,
 
@@ -192,13 +208,11 @@ Vaistinė – juridinis
 
 asmuo ar šio įstatymo nustatytų juridinių asmenų padalinys, turintis teisę
 
-verstis vaistų ir vaistinių medžiagų įsigijimu, laikymu, vaistų ir vaistinių
+verstis vaistų ir vaistinių medžiagų įsigijimu, laikymu, vaistų ruošimu, vaistų
 
-medžiagų gamyba, vaistų bei vaistinių medžiagų kokybės kontrole, pardavimu
+bei vaistinių medžiagų kokybės kontrole, pardavimu (išdavimu) galutiniam
 
-(išdavimu) galutiniam vartotojui. Šiame įstatyme sąvoka „vaistinė“ neapima
-
-veterinarijos vaistinių.
+vartotojui. Šiame įstatyme sąvoka ,,vaistinė“ neapima veterinarijos vaistinių.
 
 Vaistinės asortimento
 
@@ -206,15 +220,31 @@ prekės – prekės, kuriomis Vyriausybės įgaliotų institucijų nustatyta
 
 tvarka leidžiama prekiauti vaistinėse. Į šią sąvoką vaistai neįeina.
 
-Vaistinės medžiagos
+Vaistinės
 
-– medžiagos, kurios veikia žmogaus ar gyvūnų organizme vykstančius procesus ir
+medžiagos
 
-įvairia vaisto forma vartojamos žmonių ar gyvūnų gydymui, ligų profilaktikai,
+– medžiagos, kurių kilmė gali būti:
 
-diagnostikai in vivo ar fiziologinėms funkcijoms grąžinti,
+1) cheminė
 
-koreguoti arba modifikuoti.
+(elementai, gamtoje pasitaikančios natūralios cheminės medžiagos, chemijos
+
+produktai, gaunami cheminių pokyčių ar sintezės būdu, ir kt.);
+
+2) augalinė
+
+(mikroorganizmai, augalai, jų dalys, augalų išskyros, ištraukos ir kt.);
+
+3) iš žmogaus
+
+(žmogaus kraujas, žmogaus kraujo produktai ir kt.);
+
+4) gyvūninė
+
+(mikroorganizmai, gyvūnai, jų organų dalys, gyvūnų sekretai, toksinai,
+
+ekstraktai, kraujo produktai ir kt.).
 
 Vaistininkas – asmuo, įgijęs vaistininko
 
@@ -228,31 +258,35 @@ biologinių, mikrobiologinių) savybių, įskaitant vaisto tapatybę, grynumą,
 
 sudėtį, analizė ir tyrimas bei vaisto gamybos technologijos kontrolė.
 
-Vaistų didmeninis
+Vaistų
 
-platinimas – farmacinė veikla, kurią sudaro vaistų ir vaistinių medžiagų
+didmeninis platinimas
 
-įsigijimas ir (ar) importas, laikymas (sandėliavimas), pardavimas juridiniams
+– farmacinė veikla, kurią sudaro vaistų įsigijimas, laikymas (sandėliavimas),
 
-asmenims, turintiems teisę verstis farmacine veikla, ir(ar) eksportas.
+tiekimas ar eksportavimas, išskyrus tiekimą galutiniam vartotojui.
 
-Vaistų gamyba – visos
+Vaistų gamyba – vaistų gamybos
 
-operacijos, atliekamos vaistui pagaminti (medžiagų priėmimas, jų apdorojimas,
+procedūros, kurias vykdo vaistų gamybos licenciją turintis juridinis asmuo.
 
-pakavimas). Farmacijos pramonės įmonėse vaistų gamyba apima ir visas medžiagų
+Vaistų ruošimas suprantamas kaip vaistų gamyba vaistinėse ar sveikatos priežiūros
 
-bei produktų įsigijimo operacijas, jų kokybės kontrolę, sandėliavimą, platinimą
+įstaigose, turinčiose licenciją veiklai su jonizuojančiosios spinduliuotės
 
-ir reikiamus patikrinimus.
+šaltiniais.
 
-Valstybinis
+Vaistinių
 
-vaistų registras – vaistų ir vaistinių medžiagų, specialios
+preparatų registras
 
-medicininės paskirties gaminių, kuriuos leidžiama vartoti sveikatos priežiūros
+– vaistinių preparatų, kuriuos leidžiama vartoti sveikatos priežiūrai Lietuvos
 
-reikmėms Lietuvos Respublikoje, sąrašas.
+Respublikoje, sąrašas. Į šį registrą neįrašomi vaistiniai preparatai, įrašyti į
+
+Europos Bendrijos vaistinių preparatų ir Europos Bendrijos retųjų vaistinių
+
+preparatų registrus.
 
 Valstybinis
 
@@ -282,6 +316,44 @@ deriniai, kurie gali būti naudojami gyvūnams, siekiant nustatyti diagnozę ar
 
 grąžinti, koreguoti ar modifikuoti gyvūnų fiziologines funkcijas.
 
+Kvalifikuotas
+
+asmuo
+
+– asmuo, įrašytas į Kvalifikuotų asmenų sąrašą ir turintis nustatytą
+
+kvalifikaciją bei atsakingas už vaistinio preparato serijos išleidimą arba
+
+tiriamo vaisto gamybą ir kontrolę pagal šio įstatymo ir kitų teisės aktų
+
+nustatytus reikalavimus.
+
+Farmacinės
+
+veiklos vadovas (vaistų platinimo įmonėje) – vaistininkas, kuris
+
+turi nustatytą kvalifikaciją ir vaistų platinimo įmonėje yra
+
+atsakingas už vaistinių preparatų platinimą pagal šio įstatymo ir kitų teisės
+
+aktų nustatytus reikalavimus.
+
+Tiriamasis
+
+vaistinis preparatas –
+
+veikliosios medžiagos vaisto forma arba placebas, kuris klinikinio tyrimo metu
+
+yra tiriamas arba naudojamas kaip palyginamasis preparatas, įskaitant ir preparatus,
+
+kurie įregistruoti, bet vartojami arba gaminami (vaisto forma arba pakuotė)
+
+kitaip negu registruoti, arba kai vaistinis preparatas tiriamas nepatvirtintai
+
+indikacijai nustatyti ar norint gauti išsamesnių duomenų apie vaistinį
+
+preparatą, kuris jau registruotas.
+
 Straipsnio
 
 pakeitimai:
@@ -292,9 +364,13 @@ I-1442,
 
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
 
-Nr. IX-922,
+Nr. IX-922, 2002-06-04,
 
-2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
+Žin., 2002, Nr. 58-2348 (2002-06-14)
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 II skyrius.
 
@@ -404,11 +480,27 @@ vaistais garantijos
 
 2 straipsnis.
 
-Valstybė garantuoja Lietuvos
+Į Lietuvos
 
-Respublikos gyventojų aprūpinimą būtino asortimento vaistais ir kitais
+Respubliką gali būti įvežami ir (ar) importuojami, atiduodami į apyvartą ir
 
-medicininės paskirties gaminiais.
+vartojami sveikatos priežiūrai tik Lietuvos Respublikoje ir Europos Bendrijoje
+
+registruoti vaistai, išskyrus atvejus, nurodytus šio įstatymo 7 straipsnyje.
+
+Veterinariniai
+
+vaistai, vartojami veterinarijos reikmėms Lietuvos Respublikoje, turi būti
+
+registruoti Valstybiniame veterinarinių vaistų registre.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 3 straipsnis.
 
@@ -422,27 +514,23 @@ III skyrius.
 
 Valstybinė vaistų registracija
 
-4
+4 straipsnis.
 
-straipsnis.
+Vaistinių
 
-Vaistai,
+preparatų registrą tvarko Sveikatos apsaugos ministerijos įgaliota institucija.
 
-vartojami sveikatos priežiūros reikmėms Lietuvos Respublikoje, privalo būti
+Valstybinį
 
-įregistruoti valstybiniame vaistų registre, veterinariniai vaistai, vartojami
+veterinarinių vaistų registrą steigia Vyriausybė. Šį registrą tvarko
 
-veterinarijos reikmėms Lietuvos Respublikoje – valstybiniame veterinarinių
-
-vaistų registre. Šiuos registrus steigia Vyriausybė ir tvarko jos įgaliotos
-
-institucijos.
+Vyriausybės įgaliota institucija.
 
 Naikintini
 
 vaistai ir naikintini veterinariniai vaistai negali būti naudojami sveikatos
 
-priežiūros ir veterinarijos reikmėms.
+priežiūrai ir veterinarijos reikmėms.
 
 Straipsnio
 
@@ -452,45 +540,17 @@ Nr. IX-922,
 
 2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
 
-5
+Nr. IX-2203,
 
-straipsnis.
-
-Vaistai
-
-ir vaistinės medžiagos Lietuvos Respublikoje registruojami Vyriausybės ar jos
-
-įgaliotų institucijų nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1442,
-
-96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
-
-Nr. IX-922,
-
-2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
-
-4 straipsnis.
-
-Vaistai ir vaistinės
-
-medžiagos, vartojami medicinos ir veterinarijos reikmėms Lietuvos Respublikoje,
-
-privalo būti įregistruoti Valstybiniame vaistų registre.
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 5 straipsnis.
 
-Vaistai ir vaistinės
+Vaistiniai
 
-medžiagos Lietuvos Respublikoje registruojami Valstybinės vaistų kontrolės
+preparatai Lietuvos Respublikoje registruojami Sveikatos apsaugos ministerijos
 
-tarnybos prie Sveikatos apsaugos ministerijos nustatyta tvarka.
+nustatyta tvarka.
 
 Straipsnio
 
@@ -501,6 +561,32 @@ Nr.
 I-1442,
 
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
+
+Nr. IX-922,
+
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
+
+6
+
+straipsnis.
+
+Už vaistinių
+
+preparatų įrašymą į Vaistinių preparatų registrą pareiškėjas moka valstybei
+
+nustatyto dydžio mokestį.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 6 straipsnis.
 
@@ -512,15 +598,31 @@ nustatyto dydžio mokestį.
 
 7 straipsnis.
 
-Valstybinė vaistų
+Registracijos
 
-registracija nereikalinga tuo atveju, kai vaistai gaminami vaistinėse iš
+reikalavimai netaikomi paruoštiems vaistams, tiriamiesiems vaistiniams
 
-įregistruotų vaistinių medžiagų pagal individualius oficialius raštiškus
+preparatams, vaistų gamybos įmonėje skirtiems perdirbti tarpiniams produktams,
 
-paskyrimus (receptus) ar oficialius raštiškus sveikatos priežiūros įstaigų
+sandariai uždarytiems ir kaip šaltinis vartojamiems radionuklidams, žmogaus
 
-užsakymus.
+kraujui ir kraujo komponentams.
+
+Registracijos
+
+reikalavimai taip pat netaikomi radiofarmaciniams preparatams, kuriuos prieš jų
+
+vartojimą pagal gamintojo nurodymus išskirtinai iš registruotų radionuklidų
+
+generatorių, radiofarmacinių preparatų komplektų, radiofarmacinių preparatų
+
+radionuklidų pirmtakų pagamina asmuo ar sveikatos priežiūros įstaiga, nustatyta
+
+tvarka įgiję licenciją veiklai su jonizuojančiosios spinduliuotės šaltiniais,
+
+ir šie radiofarmaciniai preparatai yra vartojami tokią licenciją turinčioje
+
+sveikatos priežiūros įstaigoje.
 
 Straipsnio
 
@@ -532,27 +634,49 @@ I-1442,
 
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
 
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
+
 8 straipsnis.
 
-Sveikatos apsaugos
+Sveikatos
 
-ministerija gali leisti:
+apsaugos ministerijos nustatyta tvarka į Lietuvos Respubliką gali būti įvežami
 
-1) ypatingais atvejais
+ir (ar) importuojami, atiduodami į apyvartą ir vartojami sveikatos priežiūrai
 
-(gaivalinių nelaimių, katastrofų ir pan.) įvežti į Lietuvos Respubliką ir
+Lietuvos Respublikoje neregistruoti vaistai, jei:
 
-išduoti gyventojams bei gydymo ir profilaktikos įstaigoms Lietuvos Respublikoje
+1) jie
 
-neįregistruotus užsienio šalių vaistus, kurie įregistruoti ir naudojami tose
+registruoti kitose Europos Sąjungos valstybėse narėse laikantis Europos
 
-šalyse;
+Sąjungos reikalavimų;
 
-2) naudoti mokslinio tyrimo
+2)
 
-darbams ir klinikiniams tyrimams neįregistruotus Lietuvos Respublikoje vaistus
+juos paskyrė sveikatos priežiūros specialistas savo individualiems pacientams,
 
-ir vaistines medžiagas.
+už kuriuos jis tiesiogiai ir asmeniškai atsako;
+
+3) įtariama ar
+
+nustatoma, kad yra patogeninių ar cheminių veiksnių, toksinų, jonizuojančiosios
+
+spinduliuotės paplitimas, galintis pakenkti žmonių sveikatai;
+
+4) ypatingais
+
+atvejais (gaivalinių nelaimių, katastrofų).
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 9 straipsnis.
 
@@ -576,15 +700,15 @@ profesinė kvalifikacija ir farmacijos magistro kvalifikacinis laipsnis
 
 suteikiamas asmenims, aukštojoje mokykloje baigusiems universitetines
 
-farmacijos studijų krypties ne trumpesnes kaip 5 metų – 200 kreditų)
+farmacijos studijų krypties ne trumpesnes kaip 5 metų – 200 kreditų) vientisąsias
 
-vientisąsias studijas, kurių didžiąją dalį (ne mažiau kaip 4 metus (160
+studijas, kurių didžiąją dalį (ne mažiau kaip 4 metus (160 kreditų) sudaro
 
-kreditų) sudaro teorinės ir praktinės studijos aukštosios mokyklos dieniniame
+teorinės ir praktinės studijos aukštosios mokyklos dieniniame skyriuje ir ne
 
-skyriuje ir ne trumpesnė kaip 6 mėnesių farmacinės veiklos praktika vaistinėje,
+trumpesnė kaip 6 mėnesių farmacinės veiklos praktika vaistinėje, išskyrus
 
-išskyrus labdaros vaistinę.
+labdaros vaistinę.
 
 Farmakotechniko
 
@@ -674,43 +798,75 @@ Vyriausybė.
 
 Licencijuojamos
 
-farmacinės veiklos rūšys (farmacinės veiklos licencijų rūšys):
+farmacinės veiklos licencijų rūšys:
 
-1) vaistų gamyba
+1) vaistinių preparatų gamybos
 
-vaistinėse, kokybės kontrolė, vaistų ir vaistinių medžiagų įsigijimas, laikymas
+licencija;
 
-(sandėliavimas) ir pardavimas (išdavimas) fiziniams asmenims bei juridiniams
+2) vaistinių preparatų importo
 
-asmenims, neturintiems teisės verstis farmacine veikla;
+licencija;
 
-2) pramoninė
+3) tiriamųjų vaistinių preparatų gamybos
 
-vaistų ir vaistinių medžiagų gamyba, įsigijimas, laikymas (sandėliavimas),
+licencija;
 
-kokybės kontrolė, pagamintų preparatų pardavimas juridiniams asmenims,
+4) tiriamųjų vaistinių preparatų importo
 
-turintiems teisę verstis farmacine veikla;
+licencija;
 
-3) vaistų ir
+5) vaistinių preparatų didmeninio
 
-vaistinių medžiagų kokybės kontrolė;
+platinimo licencija;
 
-4) vaistų ir
+6) licencija vaistinės veiklai;
 
-vaistinių medžiagų įsigijimas, laikymas (sandėliavimas), kokybės kontrolė ir
+7) licencija gamybinės vaistinės
 
-pardavimas (išdavimas) fiziniams asmenims bei juridiniams asmenims,
+veiklai;
 
-neturintiems teisės verstis farmacine veikla;
+8)
 
-5) farmacinių
+farmacinių atliekų tvarkymo licencija, išskyrus šalinimą.
 
-atliekų tvarkymas, išskyrus jų šalinimą;
+Vaistinių
 
-6) vaistų ir
+preparatų gamybos licencija yra privaloma, kai vykdoma visa ar dalinė gamyba
 
-vaistinių medžiagų didmeninis platinimas, kokybės kontrolė.
+arba įvairūs procesai, susiję su fasavimu, pakavimu ar ženklinimu. Ši licencija
+
+privaloma ir tais atvejais, kai gaminami vaistai yra skirti tik eksportui.
+
+Licencija suteikia teisę platinti šios licencijos turėtojo pagamintus vaistus.
+
+Veikliųjų vaistinių medžiagų gamyba,
+
+importu, platinimu galima verstis tik gavus atitinkamas 2 dalyje nurodytas
+
+licencijas.
+
+Vaistinių
+
+preparatų gamybos licencijos nereikalaujama vaistų ruošimui, fasavimui,
+
+pakavimui ir ženklinimui, jei šiuos procesus atlieka gamybinės vaistinės ir šie
+
+vaistai skirti tik galutiniam vartotojui, taip pat sveikatos priežiūros
+
+įstaigoms, turinčioms licenciją veiklai su jonizuojančiosios spinduliuotės
+
+šaltiniais.
+
+Vyriausybės
+
+nustatyta tvarka licencijos galiojimas sustabdomas ar panaikinamas, jei
+
+nesilaikoma šio įstatymo bei kitų teisės aktų nustatytų reikalavimų. Vaistinių
+
+preparatų gamybos licencijos galiojimas sustabdomas ar panaikinamas tam tikrai
+
+vaistų grupei ar visiems vaistams.
 
 Įstatymas
 
@@ -719,6 +875,40 @@ papildytas straipsniu:
 Nr. IX-922,
 
 2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
+
+10(2) straipsnis.
+
+Vaistinių
+
+preparatų gamybos licencijų išdavimo procedūros neturi viršyti 90 dienų nuo
+
+paraiškos gavimo.
+
+Jei šių licencijų turėtojas
+
+prašo pakeisti licencijos išdavimo sąlygas, laikotarpis, kurio reikia su šiuo
+
+prašymu susijusiai procedūrai, turi būti ne ilgesnis kaip 30 dienų. Sveikatos
+
+apsaugos ministerijos nustatytais atvejais šis terminas gali būti pratęstas iki
+
+90 dienų.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 11 straipsnis.
 
@@ -782,19 +972,67 @@ I-1442,
 
 13 straipsnis.
 
-Gaminti vaistus pagal
+Vaistai gali
 
-individualius raštiškus paskyrimus (receptus) leidžiama tik vaistinėse.
+būti ruošiami tik gamybinėse vaistinėse. Ekstemporalūs vaistai gali būti
+
+ruošiami pagal receptus ir pagal sveikatos priežiūros įstaigų užsakymus
+
+(magistraliniai vaistai), pagal farmakopėjos straipsnius (oficinaliniai
+
+vaistai). Dažnai skiriami ekstemporalūs vaistai gali būti gaminami iš anksto
+
+kaip vaistinės paruošos.
+
+Už vaistinėje
+
+paruoštų vaistų kokybę atsako juos pagaminusi vaistinė teisės aktų nustatyta
+
+tvarka.
+
+Vaistinėje
+
+paruošti vaistai parduodami (išduodami) Sveikatos apsaugos ministerijos
+
+nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 14 straipsnis.
 
-Vaistai, vaistinės medžiagos
+Vaistai gali
 
-bei gamtinės kilmės vaistinės žaliavos gali būti parduodamos gyventojams, taip
+būti parduodami (išduodami) gyventojams, taip pat įmonėms ar įstaigoms,
 
-pat įmonėms ar įstaigoms, neturinčioms leidimo (licencijos) farmacinei veiklai,
+neturinčioms licencijos farmacinei veiklai, tik per vaistines, išskyrus šio
 
-tik per vaistines.
+straipsnio numatytus atvejus.
+
+Imunoprofilaktikai
+
+skirtus imunologinius preparatus vaistų didmeninio platinimo įmonės ar tam
+
+teisę turintys gamintojai gali tiekti tik asmens ir visuomenės sveikatos
+
+priežiūros įstaigoms, turinčioms licencijas imunoprofilaktikai atlikti
+
+Sveikatos apsaugos ministerijos nustatyta tvarka.
+
+Imunologiniai,
+
+išskyrus šios straipsnio 2 dalyje nurodytus, kraujo, radiofarmaciniai
+
+preparatai, medicininės dujos sveikatos priežiūros įstaigoms, neturinčioms
+
+ligoninės vaistinės, gali būti parduodami tiesiogiai iš vaistų didmeninio
+
+platinimo įmonės Sveikatos apsaugos ministerijos nustatyta tvarka.
 
 Kaimo vietovėse, jeigu nėra
 
@@ -823,6 +1061,10 @@ I-1442,
 Nr. VIII-258,
 
 97.06.12, Žin., 1997, Nr.58-1332 (97.06.20)
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 15 straipsnis.
 
@@ -858,13 +1100,31 @@ Nr. IX-922,
 
 16 straipsnis.
 
-Gaminant vaistus, gali būti
+Vaistų ir
 
-vartojamos tik tos pagalbinės medžiagos, kurios nurodytos farmakopėjoje ar
+vaistinių medžiagų, vartojamų vaistų gamybai ar ruošimui, kokybė turi atitikti:
 
-kituose Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos
+1) Europos
 
-ministerijos patvirtintuose norminiuose dokumentuose.
+farmakopėjos reikalavimus – jei vaistai ir medžiagos aprašytos Europos
+
+farmakopėjoje;
+
+2) Europos
+
+Sąjungos valstybės narės farmakopėjos reikalavimus – jei vaistai ir medžiagos
+
+neaprašytos Europos farmakopėjoje, bet aprašytos Europos Sąjungos valstybės
+
+narės farmakopėjoje;
+
+3) Valstybinės
+
+vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos nustatytus
+
+reikalavimus – jei vaistai ir medžiagos neaprašytos Europos farmakopėjoje ir
+
+(ar) valstybės narės farmakopėjoje.
 
 Straipsnio
 
@@ -875,6 +1135,10 @@ Nr.
 I-1442,
 
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 17 straipsnis.
 
@@ -914,25 +1178,25 @@ specialistams skirtoje reklamoje leidžiama reklamuoti receptinius ir
 
 nereceptinius vaistus. Receptinius vaistus leidžiama reklamuoti spaudiniuose,
 
-kurie skirti tik specialistams. Tokių spaudinių sąrašą tvirtina Vyriausybė ar
+kurie skirti tik specialistams. Tokių spaudinių sąrašą tvirtina Vyriausybė ar jos
 
-jos įgaliota institucija.
+įgaliota institucija.
 
 Reklamuojant vaistus, neparduodami vaistų pavyzdžiai gali
 
 būti pateikiami tik gydytojams, turintiems teisę išrašyti vaistus. Ant tokio
 
-vaisto pakuotės turi būti užrašas „Neparduodamas pavyzdys“. Tam pačiam gydytojui
+vaisto pakuotės turi būti užrašas „Neparduodamas pavyzdys“. Tam pačiam
 
-galima pateikti tik vieną to paties prekinio pavadinimo, formos ir stiprumo
+gydytojui galima pateikti tik vieną to paties prekinio pavadinimo, formos ir
 
-vaisto mažiausią registruotą pakuotę. Draudžiama platinti neparduodamus
+stiprumo vaisto mažiausią registruotą pakuotę. Draudžiama platinti
 
-pavyzdžius vaistų, kurie turi medžiagų, įrašytų į sveikatos apsaugos ministro
+neparduodamus pavyzdžius vaistų, kurie turi medžiagų, įrašytų į sveikatos
 
-patvirtintus Narkotinių ir psichotropinių medžiagų sąrašus. Neparduodamus
+apsaugos ministro patvirtintus Narkotinių ir psichotropinių medžiagų sąrašus.
 
-vaistų pavyzdžius parduoti draudžiama.
+Neparduodamus vaistų pavyzdžius parduoti draudžiama.
 
 Gyventojams skirtoje reklamoje leidžiama reklamuoti tik
 
@@ -1162,9 +1426,85 @@ Valstybinė farmacinės veiklos kontrolė
 
 19 straipsnis.
 
-Farmacinę veiklą Lietuvos Respublikoje kontroliuoja Vyriausybės
+Farmacinę
 
-įgaliota institucija ir (ar) sveikatos apsaugos ministro įgalioti asmenys.
+veiklą Lietuvos Respublikoje kontroliuoja, jos atitiktį gerai gamybos ir gerai
+
+platinimo praktikai vertina Valstybinė vaistų kontrolės tarnyba prie Sveikatos
+
+apsaugos ministerijos.
+
+Valstybinės
+
+vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos įgalioti
+
+inspektoriai turi teisę:
+
+1) tikrinti ir
+
+vertinti farmacinės veiklos licencijas turinčius juridinius asmenis, taip pat
+
+kitus asmenis bei laboratorijas, kuriems vaistų ar tiriamųjų vaistų gamybos ar
+
+importo licencijos turėtojas patikėjo atlikti vaistų ar tiriamųjų vaistų tyrimus,
+
+nurodytus atitinkamai vaistinio preparato registravimo byloje ar informacijoje
+
+klinikiniams tyrimams atlikti;
+
+2) imti
+
+bandinius;
+
+3) tikrinti, ar
+
+imunologinių preparatų gamybos procesai tinkamai patikrinti bei patvirtinti ir
+
+ar užtikrintas gaminamų serijų vienodumas;
+
+4) tikrinti, ar
+
+kraujo preparatų gamybos bei gryninimo procesai tinkamai patikrinti ir
+
+patvirtinti, ar serijos vienodos ir ar užtikrinta, kiek leidžia technologijos
+
+lygis, kad nėra specifinių virusinių užkratų;
+
+5) tikrinti įmones, siekiančias įgyti licenciją
+
+farmacinei veiklai;
+
+6) tikrinti, ar kvalifikuotas asmuo ir farmacinės
+
+veiklos vadovas tinkamai atlieka pareigas, vertinti, ar jo kvalifikacija
+
+atitinka einamas pareigas;
+
+7) teikti išvadas dėl farmacinės veiklos licencijos
+
+išdavimo, jos galiojimo sustabdymo, panaikinimo, galiojimo sustabdymo
+
+panaikinimo, taip pat dėl kvalifikuoto asmens ar farmacinės veiklos vadovo
+
+tinkamumo. Šios išvados laikomos pagrindu licencijai išduoti, sustabdyti ar
+
+panaikinti jos galiojimą, panaikinti galiojimo sustabdymą, taip pat asmenį
+
+tvirtinti kvalifikuotu asmeniu ar farmacinės veiklos vadovu, stabdyti ar
+
+nutraukti jo veiklą;
+
+8) tikrinti, ar trečiųjų šalių gamintojų ar gamybą
+
+pagal sutartis (kontraktus) vykdančių gamintojų veikla atitinka gerą gamybos
+
+praktiką.
+
+Farmacinė veikla
+
+kontroliuojama vadovaujantis šiuo įstatymu ir Vyriausybės ar jos įgaliotos
+
+institucijos nustatyta tvarka.
 
 Straipsnio
 
@@ -1180,37 +1520,55 @@ Nr. IX-922,
 
 2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
 
-20
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
+
+19(1)
 
 straipsnis.
 
-Vaistų ir
+Prieš
 
-vaistinių medžiagų didmeninis platinimas vykdomas Lietuvos Respublikos įstatymų
+išleidžiant imunologinių preparatų ir iš žmogaus kraujo ar plazmos pagamintų
 
-nustatyta tvarka ir pagal vaistų geros platinimo praktikos taisykles, o
+preparatų serijas į apyvartą, Valstybinei vaistų kontrolės tarnybai prie
 
-pramoninė vaistų ir vaistinių medžiagų gamyba vykdoma Lietuvos Respublikos
+Sveikatos apsaugos ministerijos turi būti pateikiamos šių serijų kokybės
 
-įstatymų nustatyta tvarka ir pagal vaistų geros gamybos praktikos taisykles.
+kontrolės, atliktos Europos ekonominės erdvės šalies oficialioje ar tuo tikslu
 
-Šias taisykles tvirtina ir jų įsigaliojimo terminus nustato Vyriausybės
+akredituotoje laboratorijoje, protokolų kopijos.
 
-įgaliota institucija.
+Valstybinė
 
-Vaistų kokybė
+farmacinės veiklos kontrolė atliekama vadovaujantis šiuo įstatymu ir
 
-turi atitikti Lietuvos Respublikoje galiojančių farmakopėjų ar farmakopėjos
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-straipsnių, įrašytų į Lietuvos Respublikoje galiojančių farmakopėjų ir
+Įstatymas papildytas straipsniu:
 
-farmakopėjos straipsnių sąrašą, reikalavimus.
+Nr. IX-2203,
 
-Lietuvos
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
-Respublikoje galiojančių farmakopėjų ir farmakopėjos straipsnių sąrašą sudaro
+20 straipsnis.
 
-ir tvirtina Vyriausybės įgaliota institucija.
+Vaistų,
+
+vaistinių veikliųjų medžiagų ir tiriamųjų vaistinių preparatų gamyba turi būti
+
+vykdoma pagal sveikatos apsaugos ministro patvirtintą vaistų ar tiriamųjų
+
+vaistinių preparatų gerą gamybos praktiką, suderintą su Europos Bendrijos
+
+vaistų ir tiriamųjų vaistų geros gamybos praktikos principais ir gairėmis.
+
+Tiriamieji
+
+vaistiniai preparatai įsigyjami ir parduodami (išduodami) klinikiniams tyrimams
+
+sveikatos apsaugos ministro nustatyta tvarka.
 
 Straipsnio
 
@@ -1220,23 +1578,239 @@ Nr. IX-922,
 
 2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
 
-VI skyrius.
+Nr. IX-2203,
 
-Farmacinė veikla veterinarijoje
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
-20 straipsnis.
+20(1)
 
-Vaistų, vaistinių medžiagų
+straipsnis.
 
-ir vaistinių žaliavų kokybės kontrolė Lietuvos Respublikoje atliekama pagal
+Šio įstatymo 10(1)
 
-farmakopėjos reikalavimus arba tuos reikalavimus, kurie priimti dvišalėse
+straipsnio 2 dalies 1–4 punktuose nurodytos licencijos turėtojas gali vykdyti
 
-sutartyse, kai viena iš šalių yra Lietuvos Respublika, arba pagal tarptautinių
+veiklą tik tose patalpose, tais įrengimais bei gaminti ar importuoti tik tuos
 
-organizacijų, kurių narė yra Lietuvos Respublika, vaistų kokybės ir jos
+vaistus ir formas, kurie nurodyti licencijoje bei jos dokumentuose.
 
-kontrolės reikalavimus.
+Šio straipsnio 1
+
+dalyje nurodytas licencijos turėtojas turi užtikrinti, kad jo kvalifikuotas
+
+asmuo jam priskirtas pareigas atliktų nuolat ir nepertraukiamai.
+
+Kvalifikuotu
+
+asmeniu gali būti tik tas asmuo, kuris sveikatos apsaugos ministro nustatyta
+
+tvarka įrašytas į Kvalifikuotų asmenų sąrašą.
+
+Kvalifikuoto
+
+asmens kvalifikacija turi atitikti Vyriausybės ar jos įgaliotos institucijos
+
+nustatytus reikalavimus ir jis turi vykdyti šių institucijų nustatytas
+
+pareigas.
+
+Kvalifikuotas
+
+asmuo atsako, kad:
+
+1) kiekviena
+
+vaistinio preparato serija atitiktų ir būtų patikrinta pagal šio įstatymo ir
+
+kitų teisės aktų reikalavimus, ir atitiktų vaistinio preparato specifikaciją ir
+
+registravimo liudijimą;
+
+2) būtų atlikti vaistinio
+
+preparato, importuojamo iš trečiosios šalies, kiekvienos serijos visos
+
+kokybinės analizės, visų aktyviųjų sudedamųjų dalių kiekybinės analizės ir visi
+
+kiti bandymai arba patikrinimai, atlikti Europos Sąjungos ar kitoje Europos
+
+ekonominės erdvės šalyje, būtini vaistų kokybei užtikrinti pagal vaistinio
+
+preparato registravimo liudijimą;
+
+3) tiriamojo
+
+vaistinio preparato kiekviena serija būtų pagaminta ir patikrinta pagal gerą
+
+gamybos praktiką;
+
+4)
+
+tiriamasis vaistinis preparatas, importuojamas iš trečiosios šalies, būtų
+
+pagamintas pagal Europos Sąjungoje galiojančius geros gamybos praktikos arba
+
+juos atitinkančius reikalavimus ir preparato specifikaciją bei kad kiekvienos
+
+serijos patikrinimas būtų patvirtintas pagal informaciją klinikiniam tyrimui
+
+atlikti;
+
+5)
+
+tyrimui vartojamo palyginamojo preparato iš trečiosios šalies, kurioje jis yra
+
+registruotas, tačiau nėra galimybės gauti dokumentų, patvirtinančių, kad
+
+kiekviena šio preparato serija pagaminta pagal nustatytus reikalavimus, kokybė
+
+atitiktų informaciją klinikiniam tyrimui atlikti.
+
+Jeigu
+
+dėl kvalifikuoto asmens veiksmų pradedamos administracinės arba drausminės
+
+procedūros, Valstybinė vaistų kontrolės tarnyba prie Sveikatos apsaugos
+
+ministerijos laikinai sustabdo jo įgaliojimus.
+
+Įstatymas papildytas straipsniu:
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
+
+20(2)
+
+straipsnis.
+
+Vaistai
+
+ir tiriamieji vaistiniai preparatai importuojami vadovaujantis šiuo įstatymu
+
+bei sveikatos apsaugos ministro nustatyta tvarka. Vaistinių preparatų ar
+
+tiriamųjų vaistinių preparatų importo licencija yra vaistinių preparatų ar
+
+tiriamųjų vaistinių preparatų gamybos licencijos atitikmuo ir privaloma norint
+
+importuoti vaistus ar tiriamuosius vaistus iš trečiųjų šalių, nepaisant to, ar
+
+tose šalyse jie pagaminti, atlikta gamybos procedūrų dalis, ar tik sufasuoti,
+
+ar supakuoti.
+
+Iš trečiųjų šalių importuojami vaistai ar tiriamieji
+
+vaistiniai preparatai turi būti pagaminti įmonėse, kurios turi pagal šalies
+
+įstatymus išduotą licenciją ar leidimą verstis vaistinių preparatų ar tiriamųjų
+
+vaistinių preparatų gamyba ir gamybą vykdo pagal Europos Sąjungos geros gamybos
+
+praktikos ar juos atitinkančius reikalavimus. Licencija būtina ir tuo atveju,
+
+kai atliekama tik dalis vaistų ar tiriamųjų vaistų gamybos procedūrų ir kai
+
+vaistai ar tiriamieji vaistai fasuojami ar pakuojami.
+
+Prieš vaisto serijos išleidimą į
+
+rinką, importo įmonė privalo užtikrinti, kad iš trečiųjų šalių importuojamų
+
+vaistų kiekvienai serijai Europos Sąjungos ar kitoje Europos ekonominės erdvės
+
+šalyje būtų atlikta visa kokybinė analizė, visų aktyviųjų sudedamųjų dalių
+
+kiekybinė analizė ir visi kiti bandymai arba patikrinimai, būtini vaistų
+
+kokybei užtikrinti pagal vaistinio preparato registravimo liudijimą.
+
+Jei
+
+vaistai importuojami iš šalies, su kuria Europos Bendrija yra pasirašiusi
+
+abipusio pripažinimo sutartį, kvalifikuotas asmuo gali neatlikti serijos išsamios
+
+kontrolės ir jos sertifikavimo patvirtinimo, jei jam pakanka gamintojo
+
+patvirtinimo, kad serija pagaminta ir patikrinta pagal gerą gamybos praktiką
+
+bei vaistinio preparato registravimo byloje pateiktus dokumentus, o serija buvo
+
+transportuojama, laikoma ir saugoma nustatytomis sąlygomis.
+
+Tiriamieji
+
+vaistai gali būti išleidžiami į apyvartą įsitikinus, kad jie pagaminti ir
+
+patikrinti pagal informaciją klinikiniams tyrimams atlikti.
+
+Įstatymas papildytas straipsniu:
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
+
+20(3)
+
+straipsnis.
+
+Vaistų ir
+
+veikliųjų vaistinių medžiagų didmeninis platinimas turi būti vykdomas pagal
+
+sveikatos apsaugos ministro patvirtintą vaistų gerą platinimo praktiką,
+
+suderintą su Europos Bendrijos vaistų geros platinimo praktikos principais ir
+
+gairėmis.
+
+Vaistų platinimo
+
+licencijos turėtojas gali vykdyti veiklą tik tose patalpose, tais įrengimais
+
+bei platinti tik tuos vaistus ar jų grupes, kurie nurodyti licencijoje bei jos
+
+dokumentuose.
+
+Vaistų platinimo
+
+licencijos turėtojas, be kitų nustatytų pareigų, turi užtikrinti, kad:
+
+1) farmacinės
+
+veiklos vadovas jam priskirtas pareigas atliktų nuolat ir nepertraukiamai;
+
+2) įmonėje būtų
+
+įdiegta sistema, užtikrinanti galimybę atsekti vaisto ir veikliųjų vaistinių
+
+medžiagų kilmę, tiekėją bei jų pristatymo vietą;
+
+3) būtų
+
+nepertraukiamai tiekiami reikalingi vaistai Sveikatos apsaugos ministerijos
+
+nustatyta tvarka ir terminais.
+
+Farmacinės
+
+veiklos vadovu gali būti tik tas asmuo, kurio kvalifikacija ir patirtis
+
+atitinka sveikatos apsaugos ministro nustatytus reikalavimus.
+
+Farmacinės
+
+veiklos vadovas turi užtikrinti, kad vaistai būtų platinami pagal gerą
+
+platinimo praktiką.
+
+Įstatymas papildytas straipsniu:
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 VI skyrius.
 
@@ -1244,15 +1818,13 @@ Farmacinė veikla veterinarijoje
 
 21 straipsnis.
 
-Veterinarijoje
+Veterinariniai
 
-vartojami vaistai ir veterinarinės paskirties gaminiai registruojami
+vaistai ir veterinarinės paskirties gaminiai registruojami Valstybinės maisto ir
 
-Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka.
+veterinarijos tarnybos nustatyta tvarka. Valstybinį veterinarinių vaistų
 
-Valstybinį veterinarinių vaistų registrą tvarko Valstybinė maisto ir
-
-veterinarijos tarnyba.
+registrą tvarko Valstybinė maisto ir veterinarijos tarnyba.
 
 Straipsnio
 
@@ -1267,6 +1839,10 @@ I-1442,
 Nr. VIII-1802, 00.07.04, Žin., 2000,
 
 Nr.61-1813 (00.07.26)
+
+Nr. IX-2203, 2004-04-29,
+
+Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 22 straipsnis.
 
@@ -1286,7 +1862,7 @@ Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka;
 
 mokslinio tyrimo darbams ir klinikiniams tyrimams neregistruotus Lietuvos
 
-Respublikoje vaistus ir vaistines medžiagas.
+Respublikoje veterinarinius vaistus.
 
 Straipsnio
 
@@ -1301,6 +1877,10 @@ I-1442,
 Nr. VIII-1802, 00.07.04, Žin., 2000,
 
 Nr.61-1813 (00.07.26)
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 23 straipsnis.
 
@@ -1336,13 +1916,13 @@ Nr.61-1813 (00.07.26)
 
 24 straipsnis.
 
-Farmacinę veiklą
+Farmacinę
 
-veterinarijoje - tik veterinarijos tikslams vartojamų vaistų gamybą, kokybės
+veiklą veterinarijoje – veterinarinių vaistų gamybą, kokybės kontrolę, tiekimą,
 
-kontrolę, tiekimą, laikymą ir pardavimą - reglamentuoja Valstybinė maisto ir
+laikymą ir pardavimą – reglamentuoja Valstybinė maisto ir veterinarijos
 
-veterinarijos tarnyba.
+tarnyba.
 
 Straipsnio
 
@@ -1358,15 +1938,17 @@ Nr. VIII-1802, 00.07.04, Žin., 2000,
 
 Nr.61-1813 (00.07.26)
 
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
+
 25 straipsnis.
 
-Įmonėms, turinčioms leidimą
+Leidimas
 
-(licenciją) farmacinei veiklai veterinarijoje, draudžiama parduoti vaistus
+(licencija) farmacinei veiklai veterinarijoje suteikia teisę verstis veikla,
 
-žmonėms gydyti. Vaistai, vartojami veterinarijos tikslams, parduodami tik su
-
-žyma “Veterinarijos tikslams”.
+susijusia tik su veterinariniais vaistais.
 
 Įstatymas
 
@@ -1378,6 +1960,10 @@ I-1442,
 
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
 
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
+
 LIETUVOS RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS
@@ -1387,6 +1973,42 @@ V.LANDSBERGIS
 Vilnius, 1991 m. sausio 31 d.
 
 Nr. I-1025
+
+Lietuvos
+
+Respublikos
+
+farmacinės
+
+veiklos
+
+įstatymo
+
+priedas
+
+Įgyvendinami Europos Sąjungos teisės aktai
+
+1. 2001 m.
+
+balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių
+
+narių įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos
+
+įgyvendinimu atliekant žmonėms skirtų vaistinių preparatų klinikinius tyrimus,
+
+suderinimo.
+
+2.
+
+2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/83/EB dėl
+
+Bendrijos kodekso, susijusio su žmonėms skirtais vaistais.
+
+Įstatymas papildytas priedu:
+
+Nr. IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
 
 _____________
 
@@ -1466,6 +2088,26 @@ VEIKLOS ĮSTATYMO 1, 4, 5, 10, 11, 15, 17, 19, 20 STRAIPSNIŲ PAKEITIMO IR
 
 ĮSTATYMO PAPILDYMO 10(1), 17(1) STRAIPSNIAIS ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2203,
+
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
+
+FARMACINĖS
+
+VEIKLOS ĮSTATYMO PREAMBULĖS, 1, 2, 4, 5, 6, 7, 8, 10(1), 13, 14, 16, 19, 20,
+
+21, 22, 24, 25 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 10(2), 19(1), 20(1),
+
+20(2), 20(3) STRAIPSNIAIS BEI PRIEDU ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -1496,7 +2138,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-06-14)
+Aušrinė Trapinskienė (2004-05-19)
 
 autrap@lrs.lt
 
