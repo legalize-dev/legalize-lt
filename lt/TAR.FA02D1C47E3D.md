@@ -4,7 +4,7 @@ identifier: "TAR.FA02D1C47E3D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-03-22"
-last_updated: "1990-03-29"
+last_updated: "1990-04-07"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -14,6 +14,10 @@ published_in_tar: "1990-03-22"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymas
+
+Suvestinė redakcija nuo 1990-04-07 iki 1990-04-10
+
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
 
 LIETUVOS RESPUBLIKOS
 
@@ -295,7 +299,11 @@ IV. LIETUVOS RESPUBLIKOS MINISTERIJŲ SĄRAŠAS
 
 Respublikoje yra šios ministerijos:
 
-Ekonomikos ministerija; Energetikos ministerija; Finansų ministerija; Krašto apsaugos ministerija; Kultūros ir švietimo ministerija; Materialinių išteklių ministerija; Miškų ūkio ministerija; Pramonės ministerija; Prekybos ministerija; Ryšių ministerija; Statybos ir urbanistikos ministerija; Susisiekimo ministerija; Socialinės apsaugos ministerija; Sveikatos apsaugos ministerija; Teisingumo ministerija; Užsienio reikalų ministerija; Vidaus reikalų ministerija; Žemės ūkio ministerija.
+Ekonomikos ministerija; Energetikos ministerija; Finansų ministerija; Kultūros ir švietimo ministerija; Materialinių išteklių ministerija; Miškų ūkio ministerija; Pramonės ministerija; Prekybos ministerija; Ryšių ministerija; Statybos ir urbanistikos ministerija; Susisiekimo ministerija; Socialinės apsaugos ministerija; Sveikatos apsaugos ministerija; Teisingumo ministerija; Užsienio reikalų ministerija; Vidaus reikalų ministerija; Žemės ūkio ministerija.
+
+Straipsnio pakeitimai:
+
+Nr. I-108, 1990-04-03, Lietuvos aidas, 1990, Nr. 16-0 (1990-04-06); Žin., 1990, Nr. 11-347 (1990-04-20), i. k. 0901010NUTA000I-108
 
 V. LIETUVOS RESPUBLIKOS VYRIAUSYBĖS
 
@@ -369,23 +377,13 @@ Vilnius, 1990 m. kovo 22 d.
 
 Nr. I-61
 
-61 straipsnis. Lietuvos Respublikos vyriausybės prisaikdinimas
+Pakeitimai:
 
-Naujai paskirti vyriausybės nariai prisiekia šiais žodžiais:
+1.
 
-„Aš, (vardas, pavardė), jums liudijant,
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Nutarimas
 
-prisiekiu būti ištikimas Lietuvos Respublikai;
+Nr. I-108, 1990-04-03, Lietuvos aidas, 1990, Nr. 16-0 (1990-04-06); Žin., 1990, Nr. 11-347 (1990-04-20), i. k. 0901010NUTA000I-108
 
-prisiekiu gerbti ir vykdyti Jos įstatymus, saugoti Jos žemių vientisumą;
-
-prisiekiu visomis išgalėmis stiprinti Lietuvos nepriklausomybę, sąžiningai tarnauti Tėvynei, Demokratijai, Lietuvos žmonių gerovei.
-
-Tepadeda man Dievas!“
-
-Prisiekti galima ir be paskutinio sakinio.
-
-Papildyta straipsniu:
-
-Nr. I-139, 1990-04-11, Lietuvos aidas, 1990, Nr. 19-0 (1990-04-18); Žin., 1990, Nr. 12-368 (1990-04-30), i. k. 0901010ISTA000I-139
+Dėl pakeitimų Lietuvos Respublikos Vyriausybės įstatyme
 
