@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2004-06-01"
+last_updated: "2004-11-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -935,6 +935,12 @@ partijoms;
 
 5)
 
+valstybės ir savivaldybių įmonėms, organizuojančioms orlaivių skrydžius bei
+
+eksploatuojančioms oro uostus;
+
+6)
+
 kitiems subjektams, jei tai nustatyta įstatymuose arba tarptautinėse sutartyse.
 
 2.
@@ -973,9 +979,9 @@ panaudos sąlygos. Panaudos davėjas privalo nutraukti panaudos sutartį, jei
 
 panaudos gavėjas nesiverčia veikla, dėl kurios buvo perduotas valstybės ar
 
-savivaldybės turtas, ar šį turtą naudoja ne pagal paskirtį. Panaudos gavėjui,
+savivaldybės turtas, ar šį turtą naudoja ne pagal paskirtį. Panaudos gavėjui, pagerinusiam
 
-pagerinusiam pagal panaudos sutartį perduotą turtą, už pagerinimą neatlyginama.
+pagal panaudos sutartį perduotą turtą, už pagerinimą neatlyginama.
 
 Straipsnio
 
@@ -986,6 +992,10 @@ Nr.
 IX-2252,
 
 2004-06-01, Žin., 2004, Nr. 96-3520 (2004-06-19)
+
+Nr. IX-2543,
+
+2004-11-04, Žin., 2004, Nr. 168-6175 (2004-11-20)
 
 14
 
@@ -1199,11 +1209,9 @@ straipsnio 1 dalies 3 punkte nurodyto užsienio valstybėje esančio turto
 
 pardavimo priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės
 
-institucija ar įstaiga, įgaliota sudaryti turto pirkimo–pardavimo sutartį.
+institucija ar įstaiga, įgaliota sudaryti turto pirkimo–pardavimo sutartį. Parduodamas
 
-Parduodamas turtas turi būti įvertintas pagal Turto ir verslo vertinimo
-
-pagrindų įstatymą.
+turtas turi būti įvertintas pagal Turto ir verslo vertinimo pagrindų įstatymą.
 
 3. Savivaldybės turtas savivaldybės tarybos sprendimu
 
@@ -1227,11 +1235,11 @@ Pagal mainų sutartį valstybės ar savivaldybių institucijos, valstybės ar
 
 savivaldybės įmonės, įstaigos ir organizacijos turi teisę perleisti viena kitai
 
-joms patikėjimo teise priklausantį lygiavertį (iki 10 procentų vertės besiskiriantį)
+joms patikėjimo teise priklausantį lygiavertį (iki 10 procentų vertės
 
-ilgalaikį ir trumpalaikį materialųjį turtą, jeigu šis turtas reikalingas
+besiskiriantį) ilgalaikį ir trumpalaikį materialųjį turtą, jeigu šis turtas
 
-valstybės ar savivaldybės funkcijoms įgyvendinti.
+reikalingas valstybės ar savivaldybės funkcijoms įgyvendinti.
 
 2.
 
@@ -2373,13 +2381,13 @@ viešajai įstaigai, akcinei bendrovei ar uždarajai akcinei bendrovei, taip pat
 
 šio turto perdavimas didinant viešosios įstaigos kapitalą arba akcinės
 
-bendrovės ar uždarosios akcinės bendrovės įstatinį kapitalą, jei valstybė ir (ar)
+bendrovės ar uždarosios akcinės bendrovės įstatinį kapitalą, jei valstybė ir
 
-savivaldybė yra jų dalyvė. Gali būti investuojami pinigai, taip pat pagal Turto
+(ar) savivaldybė yra jų dalyvė. Gali būti investuojami pinigai, taip pat pagal
 
-ir verslo vertinimo pagrindų įstatymą įvertintas ilgalaikis ir trumpalaikis
+Turto ir verslo vertinimo pagrindų įstatymą įvertintas ilgalaikis ir
 
-materialusis turtas bei nematerialusis turtas.
+trumpalaikis materialusis turtas bei nematerialusis turtas.
 
 2.
 
@@ -2393,11 +2401,11 @@ pagrįsti.
 
 3.
 
-Valstybės ar savivaldybių turtas negali būti investuojamas įmonei ar
+Valstybės ar savivaldybių turtas negali būti investuojamas įmonei ar vertybiniams
 
-vertybiniams popieriams įsigyti iš fizinių ir privačiųjų juridinių asmenų, taip
+popieriams įsigyti iš fizinių ir privačiųjų juridinių asmenų, taip pat
 
-pat privačiajam juridiniam asmeniui steigti, išskyrus šio ir kitų įstatymų
+privačiajam juridiniam asmeniui steigti, išskyrus šio ir kitų įstatymų
 
 nustatytus atvejus.
 
@@ -2603,11 +2611,11 @@ panaudojimas ir nurašymas
 
 Panaudoti nereikalingą ar netinkamą (negalimą) naudoti valstybės ar
 
-savivaldybės nematerialųjį, ilgalaikį ir trumpalaikį materialųjį turtą,
+savivaldybės nematerialųjį, ilgalaikį ir trumpalaikį materialųjį turtą, išskyrus
 
-išskyrus šio Įstatymo 22 straipsnio 1 dalies 6 punkte nurodytą atvejį, galima
+šio Įstatymo 22 straipsnio 1 dalies 6 punkte nurodytą atvejį, galima šiais
 
-šiais būdais:
+būdais:
 
 1)
 
@@ -2679,23 +2687,21 @@ kenksmingumą, jei reikia. Likviduojamas ir nereikalingu arba netinkamu
 
 Su valstybės paslaptis sudarančia informacija susijusio turto, kuris laikantis
 
-nustatytos valstybės paslaptis sudarančios informacijos apsaugos reikalavimų
+nustatytos valstybės paslaptis sudarančios informacijos apsaugos reikalavimų privalomai
 
-privalomai turi būti sunaikintas, kai tampa nereikalingas arba netinkamas
+turi būti sunaikintas, kai tampa nereikalingas arba netinkamas (negalimas)
 
-(negalimas) naudoti, sąrašą sudaro naikintino turto valdytojas, t. y. paslapčių
+naudoti, sąrašą sudaro naikintino turto valdytojas, t. y. paslapčių subjektais
 
-subjektais esančios valstybės ar savivaldybių institucijos bei jų steigiamos
+esančios valstybės ar savivaldybių institucijos bei jų steigiamos įmonės ir
 
-įmonės ir įstaigos, kurių veikla yra susijusi su įslaptintos informacijos
+įstaigos, kurių veikla yra susijusi su įslaptintos informacijos naudojimu ar
 
-naudojimu ar jos apsauga ir kurioms Valstybės ir tarnybos paslapčių įstatymo
+jos apsauga ir kurioms Valstybės ir tarnybos paslapčių įstatymo nustatyta
 
-nustatyta tvarka suteikiama teisė įslaptinti bei išslaptinti informaciją,
+tvarka suteikiama teisė įslaptinti bei išslaptinti informaciją, suderinusios jį
 
-suderinusios jį su Lietuvos Respublikos paslapčių apsaugos koordinavimo
-
-komisija.
+su Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija.
 
 4.
 
@@ -2987,9 +2993,9 @@ IX-1586,
 
 VALSTYBĖS
 
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19 STRAIPSNIO
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19
 
-PAKEITIMO ĮSTATYMAS
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 11.
 
@@ -3005,9 +3011,9 @@ IX-1652,
 
 VALSTYBĖS
 
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 4
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 4 STRAIPSNIO
 
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 12.
 
@@ -3027,15 +3033,33 @@ DISPONAVIMO JUO ĮSTATYMO IR VIEŠŲJŲ PIRKIMŲ ĮSTATYMO PAKEITIMO IR PAPILDYM
 
 ĮSTATYMAS
 
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2543,
+
+2004-11-04, Žin., 2004, Nr. 168-6175 (2004-11-20)
+
+VALSTYBĖS
+
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 13
+
+STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2004-06-21)
+Aušrinė Trapinskienė (2004-11-22)
 
-aubodi@lrs.lt
+autrap@lrs.lt
 
 20 straipsnis.
 
