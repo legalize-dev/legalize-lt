@@ -4,7 +4,7 @@ identifier: "TAR.542D2FA3CA61"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "1999-12-23"
+last_updated: "2000-03-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61"
 department: "Lietuvos Respublikos Seimas"
@@ -16,11 +16,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas
 
-Redagavo: Ramunė Lūžaitė
+Redagavo: Aušrinė Trapinskienė
 
-(2000.01.11)
+(2000.04.11)
 
-Įstatymas paskelbtas: Žin., 1998, Nr.61-1728
+Įstatymas paskelbtas: Žin., 1998, Nr. 61-1728
 
 Neoficialus įstatymo tekstas
 
@@ -32,9 +32,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-1182,
+Nr. VIII-1182, 99.05.13,
 
-99.05.13, Žin., 1999, Nr.48-1523 (99.06.02)
+Žin., 1999, Nr.48-1523 (99.06.02)
 
 LIETUVOS
 
@@ -50,31 +50,53 @@ NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ AT
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1386, 99.11.04, Žin., 1999, Nr.98-2810 (99.11.19)
+Nr. VIII-1386, 99.11.04, Žin., 1999,
 
-LIETUVOS
+Nr.98-2810 (99.11.19)
 
-RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO,
+LIETUVOS RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS
 
-ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
+IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS,
 
-NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
+TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
 
-ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAPILDYMO
+
+ĮSTATYMAS
 
 3.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1499, 99.12.23, Žin., 1999, Nr.113-3292 (99.12.30)
+Nr. VIII-1499, 99.12.23, Žin., 1999,
 
-LIETUVOS RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO,
+Nr.113-3292 (99.12.30)
 
-ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
+LIETUVOS
+
+RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ
+
+DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
 
 NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
 
 ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1580, 00.03.21, Žin., 2000,
+
+Nr.28-767 (00.04.05)
+
+KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ,
+
+MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ
+
+NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 9
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
@@ -166,11 +188,11 @@ metodiką.
 
 straipsnis. Atlyginimas už išperkamus gyvenamuosius namus, jų dalis, butus
 
-Atlyginant už valstybės išperkamus gyvenamuosius
+Atlyginant už valstybės išperkamus
 
-namus, jų dalis, butus, perduodamo neatlygintinai turto, mokamų pinigų suma,
+gyvenamuosius namus, jų dalis, butus, perduodamo neatlygintinai turto, mokamų
 
-išduodamų vertybinių popierių skaičius bei vertė, įskaitomos piniginės
+pinigų suma, išduodamų vertybinių popierių skaičius bei vertė, įskaitomos piniginės
 
 prievolės valstybei dydis apskaičiuojama pagal Vyriausybės patvirtintą
 
@@ -180,7 +202,9 @@ metodiką.
 
 straipsnis. Atlyginimo piliečiams už valstybės išperkamą išlikusį nekilnojamąjį
 
-turtą šaltiniai
+turtą
+
+šaltiniai
 
 Atlyginimo piliečiams už valstybės
 
@@ -250,11 +274,11 @@ savivaldybių biudžetų finansinius rodiklius, nustato Vyriausybė, atsižvelgd
 
 įsipareigojimus ir valstybės pajamų šaltinius.
 
-2. Piniginės
+2. Piniginės kompensacijos
 
-kompensacijos mokamos nuo sprendimo atkurti nuosavybės teises priėmimo dienos
+mokamos nuo sprendimo atkurti nuosavybės teises priėmimo dienos Vyriausybės
 
-Vyriausybės nustatyta tvarka ir sąlygomis:
+nustatyta tvarka ir sąlygomis:
 
 1) už išperkamą žemę, mišką, vandens
 
@@ -294,15 +318,23 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1386, 99.11.04, Žin., 1999, Nr.98-2810 (99.11.19)
+Nr. VIII-1386, 99.11.04, Žin., 1999,
 
-Nr. VIII-1499, 99.12.23, Žin., 1999, Nr.113-3292 (99.12.30)
+Nr.98-2810 (99.11.19)
+
+Nr. VIII-1499, 99.12.23, Žin., 1999,
+
+Nr.113-3292 (99.12.30)
 
 8
 
 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą
 
-pinigais ir vertybiniais popieriais tvarka
+pinigais ir
+
+vertybiniais
+
+popieriais tvarka
 
 1. Vyriausybės nustatyta tvarka sudaromi
 
@@ -334,15 +366,15 @@ būdo. Jeigu pilietis neapsisprendžia ir per vieną mėnesį nepateikia rašyti
 
 pareiškimo dėl išpirkimo būdo, institucija savo nuožiūra priima sprendimą dėl
 
-išpirkimo būdo, pateikia jį tvirtinti apskrities viršininkui ir apie šį
+išpirkimo būdo, pateikia jį tvirtinti apskrities viršininkui ir apie šį sprendimą
 
-sprendimą raštu informuoja pilietį. Pilietis, nesutinkantis su institucijos
+raštu informuoja pilietį. Pilietis, nesutinkantis su institucijos sprendimu,
 
-sprendimu, gali per vieną mėnesį motyvuotu prašymu kreiptis į apskrities
+gali per vieną mėnesį motyvuotu prašymu kreiptis į apskrities viršininką
 
-viršininką panaikinti institucijos sprendimą. Apskrities viršininko sprendimas
+panaikinti institucijos sprendimą. Apskrities viršininko sprendimas yra
 
-yra galutinis ir gali būti skundžiamas tik teismui.
+galutinis ir gali būti skundžiamas tik teismui.
 
 Straipsnio
 
@@ -406,7 +438,9 @@ Nr. VIII-1182, 99.05.13,
 
 9 straipsnis.
 
-Valstybės garantijos sugrąžintų gyvenamųjų namų, jų dalių ar butų nuomininkams
+Valstybės garantijos sugrąžintų gyvenamųjų namų, jų dalių ar butų
+
+nuomininkams
 
 ir savininkams, šių garantijų įgyvendinimo tvarka ir sąlygos
 
@@ -430,7 +464,7 @@ gyvenamosios patalpos, kurių dalis, atitinkanti nuomojamų patalpų vertę, bus
 
 neatlygintinai perduota nuosavybėn, o likusią dalį jie privalės išsipirkti
 
-įstatymo nustatyta tvarka, ar
+Vyriausybės nustatyta tvarka ir terminais, ar
 
 3) bus neatlygintinai perduotos
 
@@ -576,13 +610,13 @@ gyvenamojo namo, jo dalies ar buto savininkui.
 
 vykdomos pagal Vyriausybės parengtą programą, kuri sudaroma atsižvelgiant į
 
-miestų, rajonų savivaldybių pateiktus duomenis. Remdamasi šiais duomenimis,
+miestų, rajonų savivaldybių pateiktus duomenis. Remdamasi šiais duomenimis, Vyriausybė
 
-Vyriausybė kasmet valstybės biudžeto ir savivaldybių biudžetų finansinių
+kasmet valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 
-rodiklių patvirtinimo įstatymo projekte numato, kiek turi būti skirta lėšų
+patvirtinimo įstatymo projekte numato, kiek turi būti skirta lėšų nurodytai
 
-nurodytai programai įvykdyti.
+programai įvykdyti.
 
 9. Nuomininkui neatlygintinai
 
@@ -610,6 +644,10 @@ Nr. VIII-1182,
 
 99.05.13, Žin., 1999, Nr.48-1523 (99.06.02)
 
+Nr. VIII-1580, 00.03.21, Žin., 2000,
+
+Nr.28-767 (00.04.05)
+
 10 straipsnis. Atlyginimo už žemę, mišką
 
 padidinimo tvarka
@@ -624,21 +662,21 @@ skyriaus teikimu gali būti iki trisdešimties arba iki šimto procentų padidin
 
 apskrities viršininko sprendimu ir Vyriausybės nustatyta tvarka.
 
-2. Lietuvos Respublikos piliečiams
+2. Lietuvos Respublikos piliečiams 1918-1920 m. nepriklausomybės kovų
 
-1918-1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo
+kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams
 
-(rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ar Vyčio Kryžiaus
+kaliniams, tremtiniams ar Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų
 
-ordinu apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams
+sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), kuriems atkurtos
 
-(įvaikiams), kuriems atkurtos nuosavybės teisės į žemę, priskirtą valstybės
+nuosavybės teisės į žemę, priskirtą valstybės išperkamai žemei ir naudojamą
 
-išperkamai žemei ir naudojamą asmeniniam arba valstiečių ūkiui, tarnybinėms
+asmeniniam arba valstiečių ūkiui, tarnybinėms daloms, apskrities viršininko
 
-daloms, apskrities viršininko sprendimu pagal rajono (miesto) žemėtvarkos
+sprendimu pagal rajono (miesto) žemėtvarkos skyriaus išvadą atlyginimo dydis
 
-skyriaus išvadą atlyginimo dydis pinigais padidinamas 15 procentų.
+pinigais padidinamas 15 procentų.
 
 Straipsnio
 
@@ -652,7 +690,9 @@ Nr. VIII-1182,
 
 straipsnis. Valstybės išperkamo ir perduodamo nuosavybėn neatlygintinai turto
 
-vertės nustatymas
+vertės
+
+nustatymas
 
 1. Vyriausybė nustato išperkamo ir
 
