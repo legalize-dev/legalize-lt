@@ -4,7 +4,7 @@ identifier: "TAR.06C50B65B6B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-21"
-last_updated: "2002-06-07"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
+
+Suvestinė redakcija nuo 2003-05-01 iki 2004-04-15
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
 
 LIETUVOS RESPUBLIKOS ŽALOS, ATSIRADUSIOS DĖL VALDŽIOS INSTITUCIJŲ NETEISĖTŲ VEIKSMŲ, ATLYGINIMO Į S T A T Y M A S
 
@@ -108,7 +112,11 @@ Vilnius
 
 1. Valstybė, atlyginusi dėl ikiteisminio tyrimo pareigūno (kvotėjo, tardytojo), prokuratūros ar teismo pareigūno, teisėjo tyčinių veiksmų (aktų), o kitų valdžios institucijų pareigūnų, valstybės tarnautojų ar kitų darbuotojų kaltų veiksmų (aktų) atsiradusią žalą, įgyja regreso (atgręžtinio reikalavimo) teisę teismo tvarka išieškoti iš šių asmenų įstatymų nustatyto dydžio sumas.
 
-2. Valstybė, atlyginusi žalą, įgyja regreso (atgręžtinio reikalavimo) teisę į asmenį, melagingai pranešusį apie nusikaltimą, melagingai asmenį įskundusį, kad šis padarė nusikaltimą ar administracinį teisės pažeidimą, arba asmenį, davusį melagingus parodymus, melagingą eksperto ar revizoriaus išvadą, melagingą specialisto paaiškinimą ar išvadą arba pateikusio žinomai neteisingą vertimą, jeigu šiais veiksmais toks asmuo padarė nusikaltimą, kuris nustatytas įsiteisėjusiu teismo nuosprendžiu.
+2. Valstybė, atlyginusi žalą, įgyja regreso (atgręžtinio reikalavimo) teisę į asmenį, melagingai pranešusį apie nusikalstamą veiką, melagingai asmenį įskundusį, kad šis padarė nusikalstamą veiką ar administracinį teisės pažeidimą, arba asmenį, davusį melagingus parodymus, melagingą eksperto ar revizoriaus išvadą, melagingą specialisto paaiškinimą ar išvadą arba pateikusio žinomai neteisingą vertimą, jeigu šiais veiksmais toks asmuo padarė nusikalstamą veiką, kuri nustatyta įsiteisėjusiu teismo nuosprendžiu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1437, 2003-04-03, Žin., 2003, Nr. 38-1682 (2003-04-24), i. k. 1031010ISTA0IX-1437
 
 3. Lėšos, kurias valstybė išieškojo regreso (atgręžtinio reikalavimo) tvarka, sumokamos į valstybės biudžetą.
 
@@ -132,59 +140,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-51 straipsnis. Atstovavimas valstybei
+Pakeitimai:
 
-1. Valstybei teisme, arbitraže atstovauja Lietuvos Respublikos Vyriausybė, išskyrus šio straipsnio ir kitų įstatymų numatytus atvejus, kai valstybei teisme atstovauja Lietuvos Respublikos Vyriausybės įgaliota ar kita įstatymų nustatyta institucija.
+1.
 
-2. Bylose, iškeltose dėl sutartinių santykių, valstybei teisme, arbitraže atstovauja sutartį pasirašiusi institucija. Jeigu ši institucija likviduota ar reorganizuota, valstybei atstovauja šios institucijos teisių perėmėjas, o kai jo nėra, – Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Europos Bendrijų Teisingumo Teisme, Europos Bendrijų pirmosios instancijos teisme, specializuotuose teismuose ar prie Pirmosios instancijos teismo steigiamose kolegijose ir Europos laisvosios prekybos asociacijos teisme Lietuvos valstybei atstovauja Europos teisės departamentas prie Lietuvos Respublikos teisingumo ministerijos. Europos žmogaus teisių teisme, Jungtinių Tautų Žmogaus teisių komitete nagrinėjant bylas prieš Lietuvos Respubliką valstybei atstovauja Lietuvos Respublikos Vyriausybės atstovas Europos žmogaus teisių teisme.
+Nr. IX-1437, 2003-04-03, Žin., 2003, Nr. 38-1682 (2003-04-24), i. k. 1031010ISTA0IX-1437
 
-4. Šio straipsnio 2 dalyje nenumatytais atvejais teisme, arbitraže valstybei atstovauja institucija, priėmusi ginčijamą sprendimą arba atlikusi ginčijamą veiksmą, arba institucija, kurios neveikimas yra ginčijamas. Jeigu institucija likviduota ar reorganizuota, valstybei atstovauja šios institucijos teisių perėmėjas, o kai jo nėra, – šio straipsnio 1 dalyje numatyta institucija.
-
-5. Atstovaujant valstybei, laikomasi šių principų:
-
-1) valstybės interesų gynimo efektyvumo – t. y. sprendimais, susijusiais su atstovavimu valstybei, turi būti siekiama maksimalios naudos valstybei;
-
-2) bendradarbiavimo – t. y. institucijos, atstovaudamos valstybei, turi teisę gauti iš valstybės ir savivaldybių institucijų tinkamam valstybės atstovavimui reikalingą valstybės ir savivaldybių institucijų turimą ar kontroliuojamą informaciją, dokumentus, jų nuorašus. Informaciją privaloma pateikti per valstybei atstovaujančios institucijos nurodytą terminą.
-
-6. Atstovaujant valstybei, gali būti pasitelkiami advokatai (kiti teisininkai, bylos nagrinėjimo valstybėje turintys teisę teikti teisines paslaugas), jeigu byla yra sudėtinga, reikia specialių žinių, patyrimo, užsienio valstybių teisės žinių arba kitais atvejais, kai tai yra būtina tinkamam ir efektyviam valstybės interesų gynimui.
-
-7. Šis straipsnis taikomas ir tais atvejais, kai siekiama ginčus išspręsti kitose ginčų sprendimo institucijose ar derybų būdu, taip pat vykdymo proceso metu, jeigu išieškoma iš valstybės biudžeto.
-
-TAR pastaba. Straipsnis taikomas ginčams, pradėtiems spręsti po įstatymo Nr. X-370 įsigaliojimo (2005-10-27).
-
-Papildyta straipsniu:
-
-Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
-
-52 straipsnis. Bendrų jungtinių tyrimo grupių pareigūnų padarytos žalos atlyginimas
-
-1. Europos Sąjungos bendroje (jungtinėje) tyrimo grupėje dalyvavusių ir baudžiamojo proceso veiksmus Lietuvos Respublikoje atlikusių užsienio valstybių pareigūnų veiksmais (neveikimu) Lietuvos Respublikoje padaryta žala atlyginama tokiomis pat sąlygomis ir tvarka kaip ir Lietuvos Respublikos pareigūnų padaryta žala. Šalių teisės ir pareigos pagal prievoles, atsirandančias dėl padarytos žalos, nustatomos pagal Lietuvos Respublikos teisę.
-
-2. Bylose dėl Europos Sąjungos bendroje (jungtinėje) tyrimo grupėje dalyvavusių ir baudžiamojo proceso veiksmus Lietuvos Respublikoje atlikusių užsienio valstybių pareigūnų veiksmais (neveikimu) Lietuvos Respublikoje padarytos žalos atlyginimo Lietuvos valstybei atstovauja Lietuvos Respublikos generalinė prokuratūra.
-
-3. Teisingumo ministerija, atlyginusi žalą pagal šio straipsnio 1 dalį, kreipiasi į valstybės, kurios pareigūnai, veikdami Lietuvos Respublikos teritorijoje, padarė žalą asmeniui, kompetentingą instituciją dėl nukentėjusiam ar turinčiam teisę gauti išmoką asmeniui išmokėtų lėšų kompensavimo.
-
-4. Kai Lietuvos Respublikos pareigūnai, dalyvaudami Europos Sąjungos bendroje (jungtinėje) tyrimo grupėje, padaro žalą užsienio valstybės teritorijoje, Teisingumo ministerija pagal užsienio valstybės pateiktus dokumentus kompensuoja šiai valstybei visas lėšas, kurias ji sumokėjo nukentėjusiems ar turintiems teisę gauti išmokas asmenims.
-
-5. Šio straipsnio nuostatos dėl žalos atlyginimo, jeigu Lietuvos Respublikos tarptautinės sutartys nenustato kitaip, taikomos ir tais atvejais, kai bendroji (jungtinė) tyrimo grupė yra sudaryta vadovaujantis tarptautinėmis sutartimis.
-
-Papildyta straipsniu:
-
-Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
-
-21 straipsnis. Žalos dėl kardomosios priemonės – suėmimo taikymo kompensavimas
-
-1. Teisę ne teismo tvarka gauti iki 50 bazinių socialinių išmokų dydžio piniginę kompensaciją, skirtą atlyginti dėl suėmimo pritaikymo patirtą realią turtinę žalą, t. y. turto netekimą arba sugadinimą, turėtas išlaidas, negautas pajamas (negautą darbo užmokestį ar kitas darbines pajamas atskaičius mokesčius ir privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas, taip pat negautas socialines ir kitas išmokas), turi asmuo, kuris įsiteisėjusiu teismo nuosprendžiu buvo išteisintas arba kuriam priimta nutartis ar nutarimas nutraukti ikiteisminį tyrimą Lietuvos Respublikos baudžiamojo proceso kodekso 212 straipsnio 1 dalies 1 ir 2 punktuose nustatytais pagrindais, išskyrus atvejus, kai ikiteisminis tyrimas buvo nutrauktas suėjus apkaltinamojo nuosprendžio priėmimo senaties terminui arba atsisakyta asmenį persekioti baudžiamąja tvarka Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatytais pagrindais. Asmuo turi teisę ne vėliau kaip per vienus metus nuo nutarties ar nutarimo nutraukti ikiteisminį tyrimą arba išteisinamojo nuosprendžio įsiteisėjimo dienos Teisingumo ministerijai pateikti Lietuvos Respublikos teisingumo ministro patvirtintos formos prašymą skirti šioje dalyje nurodytą piniginę kompensaciją. Kartu su prašymu turi būti pateikti dokumentai, patvirtinantys prašomos piniginės kompensacijos dydį ir asmens tapatybę, taip pat pridedama įsiteisėjusi teismo nutartis skirti suėmimą ir įsiteisėjęs nutarimas, nutartis ar išteisinamasis nuosprendis.
-
-2. Teisingumo ministerija, nagrinėdama prašymą skirti piniginę kompensaciją, turi teisę gauti iš valstybės institucijų, įstaigų, kitų juridinių ir fizinių asmenų informaciją, reikalingą šiai kompensacijai apskaičiuoti.
-
-3. Teisingumo ministerija ne vėliau kaip per 3 mėnesius nuo asmens prašymo skirti piniginę kompensaciją ir visų jai apskaičiuoti reikalingų dokumentų gavimo dienos turi šiam asmeniui pateikti motyvuotą rašytinį sprendimą dėl piniginės kompensacijos skyrimo ar atsisakymo ją skirti. Atsisakyti skirti piniginę kompensaciją Teisingumo ministerija gali tik tuo atveju, kai pateikti ne visi šio straipsnio 1 dalyje nurodyti dokumentai arba žala jau buvo atlyginta ne teismo tvarka pagal šio įstatymo 3 straipsnį, arba asmuo kreipėsi į teismą šio įstatymo ir Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
-
-4. Asmuo, kuris nesutinka su Teisingumo ministerijos sprendimu dėl kompensacijos ar jos atsisako, turi teisę kreiptis dėl žalos atlyginimo šio įstatymo ir Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Asmuo, ne teismo tvarka gavęs piniginę kompensaciją, turi teisę dėl žalos atlyginimo kreiptis į teismą Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Jeigu šiuo atveju teismas priteisia žalos atlyginimą, jis mažinamas atžvelgiant į asmeniui jau išmokėtos piniginės kompensacijos dydį.
-
-Papildyta straipsniu:
-
-Nr. XIV-370, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13178
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas
 
