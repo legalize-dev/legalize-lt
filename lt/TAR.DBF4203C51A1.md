@@ -4,7 +4,7 @@ identifier: "TAR.DBF4203C51A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2002-03-27"
+last_updated: "2004-04-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DBF4203C51A1"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2002-03-14"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionalinės teismų administracijos įstatymas
+
+Suvestinė redakcija nuo 2004-04-24 iki 2008-08-31
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 31-1130, i. k. 1021010ISTA00IX-787
 
 LIETUVOS RESPUBLIKOS NACIONALINĖS TEISMŲ ADMINISTRACIJOS Į S T A T Y M A S
 
@@ -39,13 +43,23 @@ Vilnius
 
 1) sudaro Nacionalinės teismų administracijos biudžeto bei investicinių programų projektus ir pateikia juos Teismų tarybai tvirtinti;
 
-2) sudaro ir tvarko su Nacionalinės teismų administracijos veikla susijusias duomenų bazes;
+2) sudaro ir tvarko su Nacionalinės teismų administracijos veikla susijusias duomenų bazes, dalyvauja kuriant ir diegiant teismuose informacines sistemas, atlieka jų administravimą ir tobulinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2109, 2004-04-08, Žin., 2004, Nr. 60-2119 (2004-04-24), i. k. 1041010ISTA0IX-2109
 
 3) rengia teismuose naudojamų statistinių ataskaitų formų bei teisės aktų, kuriuos pagal Teismų įstatymą tvirtina Teismų taryba, projektus;
 
 4) analizuoja teismų darbo krūvį;
 
-5) analizuoja teismų darbo sąlygas.
+5) analizuoja teismų darbo sąlygas;
+
+6) atlieka vidaus auditą apylinkių, apygardų, apygardų administraciniuose teismuose, taip pat Nacionalinėje teismų administracijoje.
+
+Papildyta straipsnio punktu:
+
+Nr. IX-2109, 2004-04-08, Žin., 2004, Nr. 60-2119 (2004-04-24), i. k. 1041010ISTA0IX-2109
 
 2. Nacionalinė teismų administracija Teismų tarybos pavedimu:
 
@@ -87,14 +101,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-5 straipsnis. Nacionalinės teismų administracijos finansinės veiklos vertinimas
-
-Nacionalinės teismų administracijos finansinės veiklos vertinimą atlieka įgaliotos valstybės institucijos įstatymų ir kitų teisės aktų nustatyta tvarka.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
 Pakeitimai:
 
 1.
@@ -104,12 +110,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2109, 2004-04-08, Žin., 2004, Nr. 60-2119 (2004-04-24), i. k. 1041010ISTA0IX-2109
 
 Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 2 straipsnio papildymo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1715, 2008-07-15, Žin., 2008, Nr. 87-3472 (2008-07-31), i. k. 1081010ISTA00X-1715
-
-Lietuvos Respublikos nacionalinės teismų administracijos įstatymo pakeitimo įstatymas
 
