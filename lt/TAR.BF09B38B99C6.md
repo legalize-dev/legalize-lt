@@ -4,7 +4,7 @@ identifier: "TAR.BF09B38B99C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-20"
-last_updated: "2003-11-25"
+last_updated: "2004-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF09B38B99C6"
 department: "Lietuvos Respublikos Seimas"
@@ -175,18 +175,6 @@ paslaugoms naudojami pastatai, statiniai ar jų dalys;
 
 įmonių naudojamas nekilnojamasis turtas;
 
-1
-
-dalies 7 punkto redakcija iki 2004 m. sausio 1 d.:
-
-7) žemės ūkio įmonėms
-
-priklausantis nekilnojamasis turtas;
-
-1
-
-dalies 7 punkto redakcija nuo 2004 m. sausio 1 d.:
-
 7) žemės ūkio veiklos subjektų
 
 ir kooperatinių bendrovių (kooperatyvų), kurių apmokestinamasis pelnas pagal
@@ -245,17 +233,15 @@ esantis bankrutavusios įmonės balanse;
 
 17) nepriimti
 
-naudoti statiniai.
-
-1
-
-dalies papildymas nuo 2004-01-01:
+naudoti statiniai;
 
 18) profesinių sąjungų nekilnojamasis turtas (ar jo
 
 dalis), naudojamas (-a) tik nekomercinei profesinių sąjungų įstatuose numatytai
 
-veiklai.
+veiklai;
+
+19) Lietuvos banko nekilnojamasis turtas.
 
 2. Savivaldybių
 
@@ -281,13 +267,17 @@ VIII-267,
 
 Nr. VIII-2059,
 
-00.10.17, Žin., 2000, Nr.92-2888 (00.10.31), įsigalioja nuo 2001.01.01
+00.10.17, Žin., 2000, Nr.92-2888 (00.10.31)
 
 Nr.
 
 IX-1850,
 
 2003-11-25, Žin., 2003, Nr. 116-5256 (2003-12-12)
+
+Nr. IX-2139,
+
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
 
 6 straipsnis. Nekilnojamojo
 
@@ -433,9 +423,9 @@ Iki 6 straipsnio
 
 1) įmonių ir organizacijų,
 
-sudarančių balansą, nekilnojamojo turto mokestine verte laikoma šio turto pradinė
+sudarančių balansą, nekilnojamojo turto mokestine verte laikoma šio turto
 
-vertė, indeksuota taikant Lietuvos Respublikos Vyriausybės nustatytus
+pradinė vertė, indeksuota taikant Lietuvos Respublikos Vyriausybės nustatytus
 
 koeficientus;
 
@@ -619,13 +609,41 @@ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO
 
 Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2139,
+
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+
+ĮMONIŲ
+
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
+
+PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
+
+ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO,
+
+MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS
+
+BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2003-12-12)
+Aušrinė Trapinskienė (2004-05-03)
 
-aubodi@lrs.lt
+autrap@lrs.lt
 
