@@ -4,7 +4,7 @@ identifier: "TAR.B494EC0B78B0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-10"
-last_updated: "2002-11-08"
+last_updated: "2004-03-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B494EC0B78B0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos prekių ženklų įstatymas
 
-Suvestinė redakcija nuo 2002-11-08 iki 2004-03-12
+Suvestinė redakcija nuo 2004-03-13 iki 2004-04-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2844, i. k. 1001010ISTAIII-1981
 
@@ -44,7 +44,11 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 1. Prekių ženklas (toliau – ženklas) – bet koks žymuo, kurio paskirtis – atskirti vieno asmens prekes arba paslaugas nuo kito asmens prekių arba paslaugų ir kurį galima pavaizduoti grafiškai. Šiame įstatyme prekių ženklui prilyginamas ir ženklas, skirtas paslaugoms žymėti.
 
-2. Asmuo – fizinis asmuo, įmonė, neturinti juridinio asmens teisių, juridinis asmuo.
+2. Asmuo – fizinis arba juridinis asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
 
 3. Kolektyvinis ženklas – ženklas, kurio savininkas yra asmenų sąjunga (asociacija, susivienijimas, konsorciumas ir pan.).
 
@@ -82,6 +86,12 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 20. Komercializavimas – prekių naudojimas siekiant gauti pelną.
 
+21. Juridinio asmens pavadinimas – juridinio asmens, jo filialo arba atstovybės pavadinimas.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+
 3 straipsnis. Įstatymo taikymo sritis
 
 1. Šis įstatymas taikomas kiekvienam prekėms ir (ar) paslaugoms žymėti skirtam ženklui, kuris yra arba Valstybiniam patentų biurui paduotos paraiškos registruoti ženklą objektas, arba yra įregistruotas šio įstatymo nustatyta tvarka, arba yra Lietuvos Respublikoje galiojančios tarptautinės ženklo registracijos objektas.
@@ -104,7 +114,11 @@ ANTRASIS SKIRSNIS
 
 Ženklai, kuriems taikoma šio įstatymo nustatyta teisinė apsauga, gali būti sudaryti iš šių žymenų:
 
-1) žodžių, asmenų pavardžių, vardų, meninių pseudonimų, firmų vardų, šūkių;
+1) žodžių, asmenų pavardžių, vardų, meninių pseudonimų, juridinių asmenų pavadinimų, šūkių;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
 
 2) raidžių, skaitmenų;
 
@@ -156,7 +170,11 @@ ANTRASIS SKIRSNIS
 
 3) tapatus šio įstatymo 9 straipsnio nustatyta tvarka Lietuvos Respublikoje pripažintam plačiai žinomu ženklui, priklausančiam kitam asmeniui, arba klaidinamai į jį panašus;
 
-4) tapatus firmos vardui arba klaidinamai panašus į firmos vardą, priklausantį kitam asmeniui, kuris teisę į tą firmos vardą Lietuvos Respublikoje įgijo iki paraiškos įregistruoti ženklą padavimo arba prioriteto datos, jeigu datoje nurodytą dieną firma turėjo teisę į tą pačią ar panašią veiklą, kuriai gali būti priskiriamos įregistruotu ženklu žymimos prekės ir (ar) paslaugos;
+4) tapatus juridinio asmens pavadinimui arba klaidinamai panašus į juridinio asmens pavadinimą, priklausantį kitam asmeniui, kuris teisę į tą pavadinimą Lietuvos Respublikoje įgijo iki paraiškos įregistruoti ženklą padavimo arba prioriteto datos, jeigu datoje nurodytą dieną juridinis asmuo turėjo teisę į tą pačią ar panašią veiklą, kuriai gali būti priskiriamos įregistruotu ženklu žymimos prekės ir (ar) paslaugos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
 
 5) tapatus Lietuvos Respublikoje saugomai geografinei nuorodai arba klaidinamai į ją panašus, išskyrus tokią nuorodą, kuri kaip nesaugomas elementas įtraukta į ženklą, registruojamą asmens, turinčio teisę naudoti tą geografinę nuorodą;
 
@@ -176,7 +194,11 @@ ANTRASIS SKIRSNIS
 
 1. Ženklas neturi būti sudarytas iš elementų, kurie negalėtų būti registruojami kaip atskiri (savarankiški) ženklai.
 
-2. Jeigu ženkle yra šio straipsnio 1 dalyje nurodytų elementų ir jeigu yra pagrindas manyti, kad tokio ženklo registracija gali sukelti abejonių dėl ženklo suteikiamos apsaugos apimties, tokie elementai pareiškėjo prašymu, Valstybinio patentų biuro arba teismo sprendimu gali būti pripažinti nesaugomais ženklo elementais.
+2. Jeigu ženkle yra šio straipsnio 1 dalyje nurodytų elementų ir jeigu yra pagrindas manyti, kad tokio ženklo registracija gali sukelti abejonių dėl ženklo suteikiamos apsaugos apimties, tokie elementai pareiškėjo arba ženklo savininko prašymu, Valstybinio patentų biuro arba teismo sprendimu gali būti pripažinti nesaugomais ženklo elementais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
 
 3. Jeigu išnyksta aplinkybės, dėl kurių ženklo elementai buvo pripažinti nesaugomais, dėl šių elementų ar tokių elementų turinčio ženklo gali būti paduota nauja paraiška įregistruoti ženklą netaikant šio straipsnio 2 dalyje nurodytų apribojimų.
 
@@ -259,6 +281,18 @@ TREČIASIS SKIRSNIS
 1. Paraiškos padavimo data laikoma ta diena, kai Valstybinis patentų biuras gauna šio įstatymo 11 straipsnio 4 dalies 1 ir 2 punktuose išvardytus dokumentus.
 
 2. Nepateikus nors vieno iš šio įstatymo 11 straipsnio 4 dalies 1 ir 2 punktuose nurodytų dokumentų, padavimo data paraiškai nesuteikiama ir paraiškos dokumentai grąžinami pareiškėjui, nurodant paraiškos nepriėmimo motyvus.
+
+3. Nuo paraiškos padavimo datos, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą, pareiškėjas įgyja pirmumo teisę į ženklą. Nuo šios datos iki ženklo registracijos liudijimo išdavimo datos ženklui suteikiama laikina teisinė apsauga, kuri suteikia teisę reikšti pretenzijas kitam asmeniui įspėjant dėl teisių, numatytų šio įstatymo 38 straipsnyje, galimo pažeidimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+
+4. Jeigu pareiškėjas atšaukė savo paraišką, ženklas neįregistruojamas, išregistruojamas ženklo savininko prašymu arba jo registraciją nuginčija kitas asmuo, laikoma, kad šio straipsnio 3 dalyje numatyta laikina teisinė apsauga ženklui nebuvo suteikta.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
 
 13 straipsnis. Paraiškos ekspertizė
 
@@ -544,11 +578,17 @@ TARPTAUTINĖ ŽENKLO REGISTRACIJA
 
 30 straipsnis. Tarptautinės ženklo registracijos galiojimas
 
-1. Nuo tarptautinės ženklo registracijos, kurioje nurodoma Lietuvos Respublika, datos arba teritorinio išplėtimo po tarptautinės registracijos (toliau – vėlesnis teritorinis išplėtimas) datos tarptautinė ženklo registracija turi tokią pačią teisinę apsaugą, kaip ir ženklas, kuris būtų įregistruotas vadovaujantis šio įstatymo nuostatomis.
+1. Nuo tarptautinės ženklo registracijos, kurioje nurodoma Lietuvos Respublika, datos pagal Madrido protokolo 3 straipsnio 4 dalį arba teritorinio išplėtimo po tarptautinės registracijos (toliau – vėlesnis teritorinis išplėtimas) datos pagal Madrido protokolo 3(ter) straipsnio 2 dalį, tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir šio įstatymo nustatyta tvarka pareikštas registruoti ženklas.
 
-2. Tarptautinės ženklo registracijos duomenys skelbiami Tarptautinio biuro tarptautinių ženklų biuletenyje.
+2. Nuo šio straipsnio 1 dalyje nurodytos datos tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir ženklas, kuris būtų įregistruotas vadovaujantis šio įstatymo nuostatomis, jeigu vadovaujantis Madrido protokolo 5 straipsnio 1 ir 2 dalių nuostatomis tarptautinės registracijos ženklui nebuvo atsisakyta suteikti apsaugą Lietuvos Respublikoje arba jeigu toks atsisakymas vėliau buvo atšauktas.
 
-3. Valstybinis patentų biuras duomenis apie tarptautinę ženklo registraciją, išplėstą Lietuvoje, įrašo į Lietuvos Respublikos prekių ženklų registrą.
+3. Tarptautinės ženklo registracijos duomenys skelbiami Tarptautinio biuro tarptautinių ženklų biuletenyje.
+
+4. Valstybinis patentų biuras duomenis apie tarptautinę ženklo registraciją, išplėstą Lietuvos Respublikoje, įrašo į Lietuvos Respublikos prekių ženklų registrą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
 
 31 straipsnis. Tarptautinės ženklo registracijos negaliojimas
 
@@ -670,7 +710,11 @@ SEPTINTASIS SKIRSNIS
 
 1) tapatus įregistruotam ženklui tapačioms prekėms ir (ar) paslaugoms;
 
-2) tapatus įregistruotam ženklui tapačioms ar panašioms prekėms ir (ar) paslaugoms ar klaidinamai panašus į jį, jeigu yra tikimybė, kad visuomenė gali juos supainioti dėl žymens asocijavimosi su ženklu;
+2) tapatus įregistruotam ženklui tapačioms ar panašioms prekėms ir (ar) paslaugoms ar klaidinamai į jį panašus ir dėl to yra galimybė suklaidinti visuomenę, įskaitant ir klaidinamą asocijavimą su įregistruotu ženklu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
 
 3) tapatus įregistruotam ženklui nepanašioms prekėms ir (ar) paslaugoms ar klaidinamai panašus į jį, jeigu įregistruotasis ženklas Lietuvos Respublikoje turi reputaciją ir jeigu dėl neteisėto tokio žymens vartojimo įgyjamas nesąžiningas pranašumas arba pažeidžiamas to ženklo skiriamasis požymis, arba pakenkiama jo reputacijai.
 
@@ -688,7 +732,11 @@ SEPTINTASIS SKIRSNIS
 
 3. Šio straipsnio 1 dalies 3 punkte nurodytu skiriamojo ženklo požymio pažeidimu, be to, pripažįstami atvejai, kai:
 
-1) žymuo naudojamas kaip firmos vardas ir toks jo naudojimas klaidina visuomenę dėl savo panašumo į įregistruotą ženklą bei prekes ir (ar) paslaugas, kurioms šis ženklas įregistruotas;
+1) žymuo naudojamas kaip juridinio asmens pavadinimas ir toks jo naudojimas klaidina visuomenę dėl savo panašumo į įregistruotą ženklą bei prekes ir (ar) paslaugas, kurioms šis ženklas įregistruotas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
 
 2) skelbimuose ar kitose visuomenės informavimo priemonėse žymuo atgaminamas arba nurodomas taip, kad gali susidaryti įspūdis, jog atitinkamas ženklas yra tapęs bendriniu tam tikrų prekių ir (ar) paslaugų pavadinimu.
 
@@ -736,7 +784,11 @@ TEISĖS Į ŽENKLĄ PERDAVIMAS, LICENCIJAVIMAS IR ĮKEITIMAS
 
 43 straipsnis. Teisės į pareikštą registruoti ar įregistruotą ženklą perdavimas
 
-1. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti perduota pagal sutartį visai ar iš dalies, kartu su kitomis teisėmis, susijusiomis su įmonės veikla, arba atskirai. Teisė į ženklą pereina kartu su įmone, jeigu sutartyje nenumatyta kitaip.
+1. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti perduota pagal sutartį visai ar iš dalies, kartu su kitomis teisėmis, susijusiomis su juridinio asmens veikla, arba atskirai. Teisė į ženklą pereina kartu su juridiniu asmeniu, jeigu sutartyje nenumatyta kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
 
 2. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti perduota visoms arba daliai prekių ir (ar) paslaugų žymėti.
 
@@ -800,11 +852,15 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 7. Šio straipsnio 1–6 dalių nuostatos taikomos ir sublicencinei sutarčiai.
 
-45 straipsnis. Teisės į ženklą įkeitimas
+45 straipsnis. Teisės į ženklą įkeitimas ar areštas
 
-1. Teisė į ženklą gali būti įkeista Lietuvos Respublikos įstatymų nustatyta tvarka.
+1. Teisė į ženklą gali būti įkeista ar areštuota (laikinai apribota teisė naudoti, valdyti ženklą arba juo disponuoti) Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-2. Gavęs hipotekos registro tvarkytojo pranešimą apie įkeistą teisę į ženklą, Valstybinis patentų biuras teisės į ženklą įkeitimo duomenis įrašo į Lietuvos Respublikos prekių ženklų registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+2. Gavęs hipotekos ar turto arešto aktų registro tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į ženklą, Valstybinis patentų biuras teisės į ženklą įkeitimo ar arešto duomenis įrašo į Lietuvos Respublikos prekių ženklų registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
 
 DEVINTASIS SKIRSNIS
 
