@@ -4,7 +4,7 @@ identifier: "TAR.1B4D7B687895"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-01"
-last_updated: "2004-04-15"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895"
 department: "Lietuvos Respublikos Seimas"
@@ -6330,6 +6330,16 @@ yra taip pat mokesčio įstatymas.
 
 rinkliavų, išskyrus šio įstatymo 24 straipsnio 1 dalyje numatytą įmoką.
 
+57 straipsnis
+
+netenka galios nuo 2004 m. gegužės 1 d.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2139,
+
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+
 58
 
 straipsnis. Lietuvos banko 2000 metų pelno paskirstymas
@@ -6414,11 +6424,9 @@ padirbinėjimo.
 
 birželio 28 d. Tarybos reglamentas (EB) 1339/2001, išplečiantis Reglamento (EB)
 
-Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo klastojimo,
+Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo klastojimo, veikimą
 
-veikimą toms valstybėms, kurios nėra priėmusios euro kaip savo bendros
-
-valiutos.
+toms valstybėms, kurios nėra priėmusios euro kaip savo bendros valiutos.
 
 Įstatymas papildytas priedu:
 
@@ -6606,6 +6614,32 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 m. gegužės 1 d.
 
+11.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-2139,
+
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+
+ĮMONIŲ IR ORGANIZACIJŲ
+
+NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS
+
+FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ
+
+UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS
+
+TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo 2004
+
+m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
@@ -6613,176 +6647,6 @@ Pabaiga ***
 Redagavo:
 
 Aušrinė Trapinskienė (2004-04-29)
-
-autrap@lrs.lt
-
-57 straipsnis.
-
-Lietuvos banko atleidimas nuo mokesčių
-
-1. Šis įstatymas
-
-yra taip pat mokesčio įstatymas.
-
-2. Lietuvos bankas nemoka jokių mokesčių ir
-
-rinkliavų, išskyrus šio įstatymo 24 straipsnio 1 dalyje numatytą įmoką.
-
-58
-
-straipsnis. Lietuvos banko 2000 metų pelno paskirstymas
-
-1. Lietuvos banko 2000 metų
-
-pelnas skirstomas šia eile:
-
-1) 10 procentų –
-
-Lietuvos banko įstatiniam kapitalui sudaryti;
-
-2) 50 procentų –
-
-Lietuvos banko atsargos kapitalui sudaryti.
-
-2. Likęs pelnas
-
-sumokamas į valstybės biudžetą iki 2001 metų gegužės 1 dienos.
-
-Skelbiu
-
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
-
-___________________
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
-
-LIETUVOS RESPUBLIKOS LIETUVOS BANKO ĮSTATYMO
-
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-179,
-
-97.04.08, Žin., 1997, Nr.33-812 (97.04.18)
-
-LIETUVOS RESPUBLIKOS LIETUVOS BANKO ĮSTATYMO 44
-
-STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-389,
-
-97.07.02, Žin., 1997, Nr.67-1666 (97.07.16)
-
-LIETUVOS RESPUBLIKOS LIETUVOS BANKO ĮSTATYMO 11,
-
-43(1) STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
-
-4.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-205, 2001 03 13, Žin., 2001, Nr.
-
-28-890 (2001 03 30)
-
-LIETUVOS BANKO ĮSTATYMO
-
-PAKEITIMO ĮSTATYMAS
-
-Nauja įstatymo redakcija
-
-5.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1352,
-
-2003-03-04, Žin., 2003, Nr. 27-1079 (2003-03-19)
-
-LIETUVOS
-
-BANKO ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šio
-
-Įstatymo nuostatos taikomos skirstant 2002 ir vėlesnių finansinių metų Lietuvos
-
-banko pelną.
-
-6.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1465,
-
-2003-04-03, Žin., 2003, Nr. 38-1710 (2003-04-24)
-
-LIETUVOS
-
-BANKO ĮSTATYMO 47 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos
-
-baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos
-
-baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės
-
-1 d.
-
-7.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1598,
-
-2003-06-05, Žin., 2003, Nr. 61-2755 (2003-06-27)
-
-LIETUVOS
-
-BANKO ĮSTATYMO 8 IR 53 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas
-
-įsigalioja nuo 2003 m. liepos 1 d.
-
-***
-
-Pabaiga ***
-
-Redagavo:
-
-Aušrinė Trapinskienė (2003-06-27)
 
 autrap@lrs.lt
 
