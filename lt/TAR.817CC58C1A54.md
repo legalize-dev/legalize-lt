@@ -4,7 +4,7 @@ identifier: "TAR.817CC58C1A54"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2002-09-18"
+last_updated: "2003-11-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.817CC58C1A54"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2002-09-10"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymas
+
+Suvestinė redakcija nuo 2003-11-19 iki 2006-12-27
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 91-3890; Žin. 2002, Nr.93-0; Žin. 2009, Nr.86-3637, i. k. 1021010ISTA0IX-1067
 
 LIETUVOS RESPUBLIKOS
 
@@ -79,7 +83,11 @@ Nustatant nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio 
 
 1. Neigiamą poveikį nepilnamečio vystymuisi darančia informacija taip pat laikoma viešoji informacija, kurioje:
 
-1) siejant su nusikalstama veika ar kitais teisės pažeidimais skelbiami nuo teisėsaugos institucijų ar teismo nesislapstančio įtariamojo padarius nusikaltimą, kaltinamojo, teisiamojo, nuteistojo ar nuo nusikalstamos veikos arba kitų teisės pažeidimų nukentėjusio nepilnamečio asmens duomenys, pagal kuriuos galima nustatyti jo asmens tapatybę;
+1) siejant su nusikalstama veika ar kitais teisės pažeidimais skelbiami nuo teisėsaugos institucijų ar teismo nesislapstančio įtariamojo padarius nusikalstamą veiką, kaltinamojo, nuteistojo ar nuo nusikalstamos veikos arba kitų teisės pažeidimų nukentėjusio nepilnamečio asmens duomenys, pagal kuriuos galima nustatyti jo asmens tapatybę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1794, 2003-10-21, Žin., 2003, Nr. 108-4813 (2003-11-19), i. k. 1031010ISTA0IX-1794
 
 2) skelbiami save sužalojusio ar mėginusio tai padaryti, nusižudžiusio ar mėginusio nusižudyti nepilnamečio asmens duomenys, pagal kuriuos galima nustatyti jo asmens tapatybę;
 
@@ -149,7 +157,11 @@ Apribojimai, nustatyti neigiamą poveikį nepilnamečių vystymuisi priskirtai v
 
 4) kreiptis į atitinkamas institucijas, kad jos pagal savo kompetenciją šio Įstatymo pažeidėjams taikytų atsakomybės priemones;
 
-5) esant nusikaltimų, susijusių su šio Įstatymo nuostatomis, požymių, kreiptis į teisėsaugos institucijas dėl baudžiamosios bylos iškėlimo;
+5) esant nusikalstamų veikų, susijusių su šio Įstatymo nuostatomis, požymių, kreiptis į teisėsaugos institucijas, kad būtų pradėtas ikiteisminis tyrimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1794, 2003-10-21, Žin., 2003, Nr. 108-4813 (2003-11-19), i. k. 1031010ISTA0IX-1794
 
 6) nemokamai gauti iš viešosios informacijos rengėjų ir platintojų, valstybės ir savivaldybių institucijų bei įstaigų, už šio Įstatymo nuostatų įgyvendinimo priežiūrą atsakingų institucijų informaciją, būtiną inspektoriaus funkcijoms atlikti, taip pat naudotis Lietuvos radijo ir televizijos komisijos informacijos stebėsenos (monitoringo) duomenimis.
 
@@ -169,7 +181,13 @@ Apribojimai, nustatyti neigiamą poveikį nepilnamečių vystymuisi priskirtai v
 
 4) Lietuvos žurnalistų ir leidėjų etikos komisija;
 
-5) Vaiko teisių apsaugos kontrolieriaus įstaiga.
+5) Vaiko teisių apsaugos kontrolieriaus įstaiga;
+
+6) savivaldybių vykdomosios institucijos.
+
+Papildyta straipsnio punktu:
+
+Nr. IX-1794, 2003-10-21, Žin., 2003, Nr. 108-4813 (2003-11-19), i. k. 1031010ISTA0IX-1794
 
 8. Šio straipsnio 7 dalyje išvardytos institucijos gali kreiptis į inspektorių dėl viešosios informacijos priskyrimo informacijos, kuri daro neigiamą poveikį nepilnamečių vystymuisi, kategorijai, bendradarbiauja, keičiasi informacija ir pagal savo kompetenciją taiko atsakomybę šio Įstatymo nuostatų nesilaikantiems fiziniams ar juridiniams asmenims.
 
@@ -190,4 +208,14 @@ Vyriausybė iki 2002 m. lapkričio 1 d.:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1794, 2003-10-21, Žin., 2003, Nr. 108-4813 (2003-11-19), i. k. 1031010ISTA0IX-1794
+
+Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 5 ir 9 straipsnių pakeitimo ir papildymo įstatymas
 
