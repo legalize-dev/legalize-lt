@@ -4,7 +4,7 @@ identifier: "TAR.D2808EF078C3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-07-12"
-last_updated: "2002-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D2808EF078C3"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos nuodingųjų medžiagų kontrolės įstatymas
+
+Suvestinė redakcija nuo 2005-01-01 iki 2017-04-30
+
+Įstatymas paskelbtas: Žin. 2001, Nr. 64-2330, i. k. 1011010ISTA00IX-456
 
 LIETUVOS RESPUBLIKOS
 
@@ -82,7 +86,11 @@ Pagrindiniai VEIKLOS, SUSIJUSIOS SU NUODINGOSIOMIS MEDŽIAGOMIS, REIKALAVIMAI
 
 4. Sveikatos priežiūros įstaigos ir kompetentingi asmenys Sveikatos apsaugos ministerijai ar jos įgaliotai kompetentingai sveikatos priežiūros įstaigai privalo teikti jiems žinomą informaciją apie atvejus, kai nuodingosios medžiagos padarė žalos sveikatai. Informacijos pateikimo tvarką nustato Sveikatos apsaugos ministerija.
 
-5. Įvykus avarijai ir išsipylus ar išsklidus nuodingosioms medžiagoms, avarinė situacija likviduojama ir nuodingųjų medžiagų poveikio pasekmės šalinamos Civilinės saugos įstatymo, kitų įstatymų ir teisės aktų nustatyta tvarka. Informaciją apie šias avarines situacijas kaupia ir teisės aktų nustatyta tvarka teikia Civilinės saugos departamentas.
+5. Įvykus avarijai ir išsipylus ar išsklidus nuodingosioms medžiagoms, avarinė situacija likviduojama ir nuodingųjų medžiagų poveikio pasekmės šalinamos Civilinės saugos įstatymo, kitų įstatymų ir teisės aktų nustatyta tvarka. Informaciją apie šias avarines situacijas kaupia ir teisės aktų nustatyta tvarka teikia Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2509, 2004-10-26, Žin., 2004, Nr. 163-5947 (2004-11-09); Žin., 2004, Nr. 164-0 (2004-11-11), i. k. 1041010ISTA0IX-2509
 
 5 straipsnis. Veiklos, susijusios su potencialiai nuodingomis medžiagomis, reikalavimai
 
@@ -219,4 +227,14 @@ Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įst
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2509, 2004-10-26, Žin., 2004, Nr. 163-5947 (2004-11-09); Žin., 2004, Nr. 164-0 (2004-11-11), i. k. 1041010ISTA0IX-2509
+
+Lietuvos Respublikos nuodingųjų medžiagų kontrolės įstatymo 4 straipsnio pakeitimo įstatymas
 
