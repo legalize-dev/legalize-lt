@@ -4,7 +4,7 @@ identifier: "TAR.6DF39F2BB769"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "1996-04-30"
+last_updated: "1996-11-14"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6DF39F2BB769"
 department: "Lietuvos Respublikos Seimas"
@@ -16,79 +16,111 @@ eu_legal_act: "true"
 ---
 # Žyminio mokesčio įstatymas
 
-Neoficialus įstatymo tekstas
+Redagavo: Ramunė Lūžaitė (1996
 
-Neoficialus įstatymo
+Redagavo:
 
-tekstas
+Ramunė Lūžaitė (1996.12.04)
+
+Neoficialus
+
+įstatymo tekstas
 
 Pakeitimai:
 
 1.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. 1-637, 94.11.08,
+Nr.
 
-Žin., 1994, Nr. 89-1712 (94.11.18)
+1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 
-DĖL LIETUVOS
+DĖL
 
-RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO PAKEITIMO
+LIETUVOS RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO PAKEITIMO
+
+Pastaba:
+
+Šis įstatymas įsigalioja nuo 1995 metų sausio 1 dienos.
 
 2.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. 1-899, 95.05.23,
+Nr.
 
-Žin., 1995, Nr. 47-1135 (95.06.07)
+1-899, 95.05.23, Žin., 1995, Nr. 47-1135 (95.06.07)
 
-DĖL LIETUVOS
+DĖL
 
-RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO PAKEITIMO
+LIETUVOS RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO PAKEITIMO
 
 3.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. 1-1211,
+Nr.
 
-96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
+1-1211, 96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO
+RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO
 
-PAPILDYMO ĮSTATYMAS
+PAPILDYMO
+
+ĮSTATYMAS
 
 4.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. 1-1317,
+Nr.
 
-96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
+1-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-ŽYMINIO MOKESČIO ĮSTATYMO 7 IR 8 STRAIPSNIŲ
+RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO 7 IR 8 STRAIPSNIŲ
 
-PAKEITIMO ĮSTATYMAS
+PAKEITIMO
 
-Pastaba: Šis
+ĮSTATYMAS
 
-įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.
+Pastaba:
 
-*** Pabaiga ***
+Šis įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-1616, 96.11.14, Žin., 1996, Nr.116-2691 (96.12.04)
+
+LIETUVOS
+
+RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO
+
+PAPILDYMO
+
+ĮSTATYMAS
+
+***
+
+Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
@@ -100,113 +132,71 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-1 straipsnis.
+1 straipsnis. Įstatymo paskirtis
 
-Įstatymo paskirtis
+Žyminio  mokesčio  įstatymas  reglamentuoja žyminio mokesčio
 
-Žyminio
+už
 
-mokesčio  įstatymas  reglamentuoja žyminio mokesčio
+valstybės  institucijų, išskyrus  teismų, atliekamus  veiksmus
 
-už valstybės
+bei
 
-institucijų, išskyrus  teismų, atliekamus  veiksmus
-
-bei išduodamus
-
-juridinę galią turinčius dokumentus ėmimą.
+išduodamus juridinę galią turinčius dokumentus ėmimą.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. 1-637, 94.11.08,
+Nr.
 
-Žin., 1994, Nr. 89-1712 (94.11.18)
+1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 
-2 straipsnis.
+2 straipsnis. Mokesčio mokėtojai
 
-Mokesčio mokėtojai
-
-Žyminį
-
-mokestį  moka  juridiniai  ir  fiziniai  asmenys  už
+Žyminį  mokestį  moka  juridiniai  ir  fiziniai  asmenys  už
 
 valstybės
 
 institucijų  atliekamus veiksmus ar išduodamus juridinę
 
-galią turinčius
+galią
 
-dokumentus.
+turinčius dokumentus.
 
-3 straipsnis.
+3 straipsnis. Mokesčio objektas ir tarifai
 
-Mokesčio objektas ir tarifai
+Žyminis mokestis imamas už:
 
-Žyminis
+1) civilinės būklės aktų registravimą civilinės metrikacijos
 
-mokestis imamas už:
+įstaigose,
 
-1) civilinės
+įrašų civilinės būklės aktuose pakeitimą bei papildymą
 
-būklės aktų registravimą civilinės metrikacijos
+ir
 
-įstaigose, įrašų
-
-civilinės būklės aktuose pakeitimą bei papildymą
-
-ir  dokumentų,
-
-patvirtinančių  įrašą   civilinės  būklės  akte,
+dokumentų,   patvirtinančių  įrašą   civilinės  būklės  akte,
 
 išdavimą;
 
-2) išduodamus
+2) išduodamus  dokumentus dėl pilietybės, išvykimo į užsienį
 
-dokumentus dėl pilietybės, išvykimo į užsienį
+ir
 
-ir atvykimo  į
+atvykimo  į Lietuvos Respubliką bei gyvenimo joje, taip pat už
 
-Lietuvos Respubliką bei gyvenimo joje, taip pat už
+informaciją
 
-informaciją apie
+apie gyventojo adresą;
 
-gyventojo adresą;
+3) tranzitu  vežamų per  muitų  teritoriją  prekių  apsaugą,
 
-3) tranzitu
+kurią
 
-vežamų per  muitų  teritoriją  prekių  apsaugą,
+atlieka policija, ir atitinkamų dokumentų išdavimą;
 
-kurią atlieka
-
-policija, ir atitinkamų dokumentų išdavimą;
-
-4)  leidimo
-
-įvežti  šaunamuosius   ginklus  ir  šaudmenis,
-
-medžioklinius,
-
-sportinius   šaunamuosius   ginklus,   arbaletus,
-
-pneumatinius
-
-šautuvus    (pistoletus),   dujinius    pistoletus
-
-(revolverius) bei
-
-balionėlius, sprogstamąsias medžiagas, spalvoto
-
-dauginimo techniką
-
-į Lietuvos  Respubliką,  įskaitant  tranzitą,
-
-išdavimą;
-
-5)  leidimo
-
-išvežti  šaunamuosius  ginklus  ir  šaudmenis,
+4)  leidimo   įvežti  šaunamuosius   ginklus  ir  šaudmenis,
 
 medžioklinius,
 
@@ -216,17 +206,35 @@ pneumatinius
 
 šautuvus    (pistoletus),   dujinius    pistoletus
 
-(revolverius) bei
+(revolverius)
 
-balionėlius, sprogstamąsias medžiagas, spalvoto
+bei balionėlius, sprogstamąsias medžiagas, spalvoto
 
-dauginimo techniką
+dauginimo
 
-iš Lietuvos Respublikos išdavimą;
+techniką  į Lietuvos  Respubliką,  įskaitant  tranzitą,
 
-6) leidimo
+išdavimą;
 
-prekiauti šaunamaisiais ginklais, medžiokliniais
+5)  leidimo   išvežti  šaunamuosius  ginklus  ir  šaudmenis,
+
+medžioklinius,
+
+sportinius   šaunamuosius   ginklus,   arbaletus,
+
+pneumatinius
+
+šautuvus    (pistoletus),   dujinius    pistoletus
+
+(revolverius)
+
+bei balionėlius, sprogstamąsias medžiagas, spalvoto
+
+dauginimo
+
+techniką iš Lietuvos Respublikos išdavimą;
+
+6) leidimo  prekiauti šaunamaisiais ginklais, medžiokliniais
 
 peiliais,
 
@@ -236,203 +244,165 @@ dujiniais
 
 balionėliais,  pneumatiniais  šautuvais  (pistoletais),
 
-arbaletais, spalvoto
+arbaletais,
 
-dauginimo technika išdavimą;
+spalvoto dauginimo technika išdavimą;
 
-7)  leidimo
+7)  leidimo   steigti   antspaudų   ir   spaudų   dirbtuves,
 
-steigti   antspaudų   ir   spaudų   dirbtuves,
+medžioklinių
 
-medžioklinių peilių
+peilių dirbtuves, ginklų remonto dirbtuves išdavimą;
 
-dirbtuves, ginklų remonto dirbtuves išdavimą;
+8) leidimo pasigaminti antspaudus ir spaudus išdavimą;
 
-8) leidimo
-
-pasigaminti antspaudus ir spaudus išdavimą;
-
-9) leidimo
-
-pagaminti antspaudą su Lietuvos Respublikos herbu
+9) leidimo pagaminti antspaudą su Lietuvos Respublikos herbu
 
 išdavimą;
 
-10)
-
-medžioklinių  šautuvų,  šaunamųjų  ginklų  ir  arbaletų
+10)  medžioklinių  šautuvų,  šaunamųjų  ginklų  ir  arbaletų
 
 registravimą,
 
 perregistravimą  (išskyrus  vardinius  ginklus)  ir
 
-atitinkamų dokumentų
+atitinkamų
 
-išdavimą, leidimo įsigyti šaudmenų (išskyrus
+dokumentų išdavimą, leidimo įsigyti šaudmenų (išskyrus
 
 medžiotojams),
 
 sprogmenų,  šaunamąjį ginklą, arbaletą išdavimą ir
 
-šio leidimo
+šio
 
-pratęsimą;
+leidimo pratęsimą;
 
-11) masinės
+11) masinės informacijos priemonės steigimą, perregistravimą
 
-informacijos priemonės steigimą, perregistravimą
+ir
 
-ir atitinkamų
+atitinkamų  dokumentų išdavimą,  steigimo liudijimo  dublikato
 
-dokumentų išdavimą,  steigimo liudijimo  dublikato
+išdavimą,
 
-išdavimą, taip pat
+taip pat už konsultacijas valstybės paslapčių ar viešai
 
-už konsultacijas valstybės paslapčių ar viešai
+neskelbtinų
 
-neskelbtinų žinių
+žinių apsaugos klausimais;
 
-apsaugos klausimais;
-
-12)  kelių
-
-policijos  atliekamus  veiksmus  ir  išduodamus
+12)  kelių   policijos  atliekamus  veiksmus  ir  išduodamus
 
 dokumentus;
 
-13) traktorių,
+13) traktorių, savaeigių važiuoklių, traktorinių priekabų ir
 
-savaeigių važiuoklių, traktorinių priekabų ir
+kelių
 
-kelių  tiesimo
+tiesimo   mašinų  valstybinę   techninę  apžiūrą   ir  jos
 
-mašinų  valstybinę   techninę  apžiūrą   ir  jos
+įforminimą,
 
-įforminimą,  jų
+jų   registravimo  liudijimo  išdavimą,  valstybinio
 
-registravimo  liudijimo  išdavimą,  valstybinio
+numerio
 
-numerio ženklo
-
-išdavimą, už  techninio paso  ar techninio talono
+ženklo  išdavimą, už  techninio paso  ar techninio talono
 
 išdavimą;
 
-14)  įmonių ir
+14)  įmonių ir organizacijų,  išskyrus  politines  partijas,
 
-organizacijų,  išskyrus  politines  partijas,
+politines
 
-politines  ir
+ir  visuomenines  organizacijas,  profesines sąjungas,
 
-visuomenines  organizacijas,  profesines sąjungas,
+labdaros
 
-labdaros   bei
-
-paramos    organizacijas,   įregistravimą,   jų
+bei    paramos    organizacijas,   įregistravimą,   jų
 
 perregistravimą
 
-ir   atitinkamų  dokumentų  išdavimą  (išskyrus
+ir   atitinkamų  dokumentų   išdavimą (išskyrus
 
-atvejus, kai  tai
+atvejus,
 
-reikia   atlikti   dėl  Lietuvos   Respublikos
+kai  tai   reikia   atlikti  dėl  Lietuvos   Respublikos
 
-įstatymų ar
+įstatymų
 
-Vyriausybės  nutarimų  pasikeitimo),  už   įmonių  ir
+ar  Vyriausybės  nutarimų pasikeitimo),  už  įmonių  ir
 
-visų  tipų
+visų
 
-organizacijų   registravimo   duomenų  ir  dokumentų
+tipų   organizacijų   registravimo   duomenų  ir  dokumentų
 
 naudojimą;
 
-15)
-
-licencijos   (leidimo)  verstis  licencijuojama  veikla
+15)  licencijos   (leidimo)  verstis  licencijuojama  veikla
 
 išdavimą;
 
-16)  leidimo
+16)  leidimo   importuoti  alkoholio   produktus,  taip  pat
 
-importuoti  alkoholio   produktus,  taip  pat
+prekiauti
 
-prekiauti jais
+jais išdavimą;
 
-išdavimą;
-
-17) vaistų ir
-
-vaistinių medžiagų įrašymą į Valstybinį vaistų
+17) vaistų ir vaistinių medžiagų įrašymą į Valstybinį vaistų
 
 registrą;
 
-18) liudijimo
+18) liudijimo potencialiai pavojingiems įrenginiams gaminti,
 
-potencialiai pavojingiems įrenginiams gaminti,
+montuoti
 
-montuoti ir
+ir  rekonstruoti išdavimą, šių įrenginių registravimą ir
 
-rekonstruoti išdavimą, šių įrenginių registravimą ir
+leidimo
 
-leidimo eksploatuoti
+eksploatuoti juos po registravimo išdavimą;
 
-juos po registravimo išdavimą;
-
-19) leidimo
-
-vežti pavojingas medžiagas pagal Jungtinių Tautų
+19) leidimo vežti pavojingas medžiagas pagal Jungtinių Tautų
 
 Organizacijos
 
 klasifikaciją, radioaktyviąsias medžiagas išdavimą;
 
-20)
-
-potencialiai  pavojingų įrenginių  periodišką   techninį
+20) potencialiai  pavojingų įrenginių  periodišką   techninį
 
 patikrinimą;
 
-21) leidimo
+21) leidimo atlikti sprogdinimo darbus išdavimą;
 
-atlikti sprogdinimo darbus išdavimą;
+22) vertybinių  popierių emisijos  įregistravimą, paskelbimą
 
-22) vertybinių
+ir
 
-popierių emisijos  įregistravimą, paskelbimą
+atitinkamų dokumentų išdavimą;
 
-ir atitinkamų
-
-dokumentų išdavimą;
-
-23)
-
-licencijos  medžioti  laukinius  kanopinius  žvėris  ir
+23)  licencijos  medžioti  laukinius  kanopinius  žvėris  ir
 
 švelniakailius
 
 žvėrelius   Lietuvos  Respublikos  piliečiams  ir
 
-leidimo verstis
+leidimo
 
-mėgėjiška žūkle  neišnuomotuose  žūklei  vandens
+verstis  mėgėjiška žūkle  neišnuomotuose  žūklei  vandens
 
 telkiniuose
 
 išdavimą;
 
-24)
-
-valstybinių  inspekcijų  prie  Susisiekimo  ministerijos
+24) valstybinių  inspekcijų  prie  Susisiekimo  ministerijos
 
 išduodamus
 
 dokumentus;
 
-25) laivų  ir
-
-kitų  plaukiojimo priemonių, išskyrus irklines
+25) laivų  ir kitų  plaukiojimo priemonių, išskyrus irklines
 
 valtis,
 
@@ -440,69 +410,51 @@ registravimą  ar išregistravimą  ir atitinkamų  dokumentų
 
 išdavimą;
 
-26)
-
-muitinės    įstaigų   atliekamų   muitinės   procedūrų
+26)   muitinės    įstaigų   atliekamų   muitinės   procedūrų
 
 įforminimą,
 
 atliekamus veiksmus  ir dokumentų išdavimą;
 
-27)  medžiotojo
+27)  medžiotojo bilieto išdavimą ir pratęsimą;
 
-bilieto išdavimą ir pratęsimą;
+28)  licencijų,   asmens   pažymėjimų   asmens   bei   turto
 
-28)
+saugotojui,
 
-licencijų,   asmens   pažymėjimų   asmens   bei   turto
+saugos  tarnybai, saugos  struktūriniam padaliniui ir
 
-saugotojui, saugos  tarnybai,
+jų
 
-saugos  struktūriniam padaliniui ir
+darbuotojams  išdavimą, už egzamino pagal profesinio parengimo
 
-jų darbuotojams
+programą
 
-išdavimą, už egzamino pagal profesinio parengimo
+laikymą,   už  kvalifikacinio   egzamino   laikymą   ir
 
-programą  laikymą,
+atitinkamų
 
-už  kvalifikacinio   egzamino   laikymą   ir
+dokumentų išdavimą;
 
-atitinkamų dokumentų
+29) savivaldybių atliekamus notarinius veiksmus;
 
-išdavimą;
+30) Lietuvos  Respublikos Konstitucijos pagrindų ir lietuvių
 
-29)
+kalbos
 
-savivaldybių atliekamus notarinius veiksmus;
+egzamino laikymą ir atitinkamų dokumentų išdavimą;
 
-30) Lietuvos
+31)  parduodamus vekselius;
 
-Respublikos Konstitucijos pagrindų ir lietuvių
+32) Valstybinės  higienos inspekcijos atliekamus veiksmus ir
 
-kalbos egzamino
+atitinkamų
 
-laikymą ir atitinkamų dokumentų išdavimą;
+dokumentų išdavimą;
 
-31)
+33) prekybos naftos produktais vietos atestatų išdavimą;
 
-parduodamus vekselius;
-
-32)
-
-Valstybinės  higienos inspekcijos atliekamus veiksmus ir
-
-atitinkamų dokumentų
-
-išdavimą;
-
-33) prekybos
-
-naftos produktais vietos atestatų išdavimą;
-
-34)
-
-licencijos,  patvirtinančios  asmens,  norinčio  dirbti
+34)  licencijos,  patvirtinančios  asmens,  norinčio  dirbti
 
 licencijuojamos
 
@@ -510,183 +462,165 @@ veiklos   įmonėje,   pakankamą   kvalifikaciją,
 
 išdavimą;
 
-35) leidimų
-
-supirkti juodųjų  metalų laužą  ir jų  atliekas
+35) leidimų  supirkti juodųjų  metalų laužą  ir jų  atliekas
 
 Lietuvos
 
 Respublikoje išdavimą;
 
-36)  leidimų
+36)  leidimų   išvežti  (išsiųsti)   kilnojamąsias  kultūros
 
-išvežti  (išsiųsti)   kilnojamąsias  kultūros
+vertybes
 
-vertybes ir
+ir antikvarinius daiktus išdavimą;
 
-antikvarinius daiktus išdavimą.
+37)    leidimų  steigti neapmuitinamas parduotuves išdavimą.
 
 Žyminio
 
 mokesčio  tarifus, išskyrus  už teismų nagrinėjamas
 
-bylas  ir
+bylas
 
-išduodamų  dokumentų   nuorašus,   nustato   Lietuvos
+ir   išduodamų  dokumentų   nuorašus,   nustato   Lietuvos
 
 Respublikos
 
 Vyriausybė.
 
-Mokesčio
+Mokesčio tarifai  indeksuojami kartą  per  ketvirtį  taikant
 
-tarifai  indeksuojami kartą  per  ketvirtį  taikant
+ketvirčio
 
-ketvirčio vartojimo
-
-kainų indeksą, jeigu šis didesnis negu 1.1.
+vartojimo kainų indeksą, jeigu šis didesnis negu 1.1.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. 1-637, 94.11.08,
+Nr.
 
-Žin., 1994, Nr. 89-1712 (94.11.18)
+1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 
-Nr. 1-899, 95.05.23,
+Nr.
 
-Žin., 1995, Nr. 47-1135 (95.06.07)
+1-899, 95.05.23, Žin., 1995, Nr. 47-1135 (95.06.07)
 
-Nr. 1-1211,
+Nr.
 
-96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
+1-1211, 96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
 
-4 straipsnis.
+Nr.
 
-Mokesčio lengvatos
+I-1616, 96.11.14, Žin., 1996, Nr.116-2691 (96.12.04)
 
-Nuo žyminio
+4 straipsnis. Mokesčio lengvatos
 
-mokesčio atleidžiami:
+Nuo žyminio mokesčio atleidžiami:
 
-1)  už
-
-civilinės  būklės   aktų   registravimą   civilinės
+1)  už   civilinės  būklės   aktų   registravimą   civilinės
 
 metrikacijos
 
 įstaigose,  įrašų civilinės būklės aktuose pakeitimą
 
-bei papildymą ir
+bei
 
-dokumentų, patvirtinančių įrašą civilinės būklės
+papildymą ir dokumentų, patvirtinančių įrašą civilinės būklės
 
-akte, išdavimą:
+akte,
 
-asmenys  -
+išdavimą:
 
-už  gimimo,  mirties,  įvaikinimo  ir  tėvystės
+asmenys  -   už  gimimo,  mirties,  įvaikinimo  ir  tėvystės
 
 nustatymo
 
-registravimą,   už  klaidų,   padarytų   registruojant
+registravimą,   už  klaidų,   padarytų   registruojant
 
-civilinės būklės
+civilinės
 
-aktus, ištaisymą, taip pat už nepilnamečių vaikų
+būklės aktus, ištaisymą, taip pat už nepilnamečių vaikų
 
-civilinės būklės
+civilinės
 
-aktų ištaisymą pasikeitus įrašams tėvų civilinės
+būklės aktų ištaisymą pasikeitus įrašams tėvų civilinės
 
-būklės  aktuose,
+būklės
 
-asmenys  -
+aktuose,
 
-už  vardo,   pavardės,  tėvo  vardo  pakeitimą,
+asmenys  -   už  vardo,   pavardės,  tėvo  vardo  pakeitimą,
 
-papildymą ir
+papildymą
 
-ištaisymą tikslinant įrašus, padarytus registruojant
+ir ištaisymą tikslinant įrašus, padarytus registruojant
 
-aktus okupacijos
+aktus
 
-metais,
+okupacijos metais,
 
-Užsienio
-
-reikalų   ministerija   -   už   jai   išduodamus
+Užsienio   reikalų   ministerija   -   už   jai   išduodamus
 
 metrikacijos
 
 liudijimų dublikatus;
 
-2) už
+2) už  išduodamus  dokumentus  dėl  pilietybės,  išvykimo  į
 
-išduodamus  dokumentus  dėl  pilietybės,  išvykimo  į
+užsienį
 
-užsienį ir atvykimo
+ir atvykimo į Lietuvos Respubliką bei gyvenimo joje:
 
-į Lietuvos Respubliką bei gyvenimo joje:
-
-netekusieji
-
-tėvų  globos vaikai  ir našlaičiai  iki 18 metų,
+netekusieji tėvų  globos vaikai  ir našlaičiai  iki 18 metų,
 
 socialinės
 
 apsaugos   įstaigų  (pensionų)  globotiniai,  vieniši
 
-pensinio amžiaus
+pensinio
 
-asmenys,  I  grupės  invalidai  -  už  Lietuvos
+amžiaus  asmenys,  I  grupės  invalidai  -  už  Lietuvos
 
 Respublikos
 
 piliečio  paso išdavimą  bei paso  pakeitimą, duomenų
 
-apie piliečio
+apie
 
-nuolatinę gyvenamąją vietą įrašymą į pasą,
+piliečio nuolatinę gyvenamąją vietą įrašymą į pasą,
 
-asmenys iki  16
+asmenys iki  16 metų  -  už  dokumentų,  suteikiančių  teisę
 
-metų  -  už  dokumentų,  suteikiančių  teisę
+išvykti
 
-išvykti į  užsienį
+į  užsienį asmenims  be  pilietybės,  išdavimą,  už  vizų
 
-asmenims  be  pilietybės,  išdavimą,  už  vizų
+išdavimą
 
-išdavimą ir
+ir pratęsimą, už vaiko kelionės dokumento išdavimą,
 
-pratęsimą, už vaiko kelionės dokumento išdavimą,
-
-asmenys iki  18
-
-metų  -  už  prašymą  imigruoti  į  Lietuvos
+asmenys iki  18 metų  -  už  prašymą  imigruoti  į  Lietuvos
 
 Respubliką,
 
-užsienio
-
-valstybių   piliečiai,   vykstantys   į   Lietuvos
+užsienio  valstybių   piliečiai,   vykstantys   į   Lietuvos
 
 Respubliką
 
 dalyvauti  Respublikos Prezidento, Seimo, Vyriausybės,
 
-ministerijų  ir
+ministerijų
 
-kitų   valstybės   institucijų   organizuotuose
+ir   kitų   valstybės   institucijų   organizuotuose
 
 oficialiuose
 
 susitikimuose,  labdaros bei  organizuotos  pagalbos
 
-Lietuvai tikslais
+Lietuvai
 
-arba su  Raudonojo Kryžiaus  misija, taip  pat
+tikslais  arba su  Raudonojo Kryžiaus  misija, taip  pat
 
 tarptautinių
 
@@ -694,69 +628,59 @@ organizacijų,  kurių narė  yra Lietuvos  Respublika,
 
 atstovai.
 
-Savivaldybių, į
+Savivaldybių, į kurių biudžetus įskaitomas žyminis mokestis,
 
-kurių biudžetus įskaitomas žyminis mokestis,
+valdybos
 
-valdybos turi
+turi  teisę  sumažinti  ar  atleisti  nuo  mokesčio  kai
 
-teisę  sumažinti  ar  atleisti  nuo  mokesčio  kai
+kuriuos
 
-kuriuos juridinius
-
-ir fizinius  asmenis, o  tarybos - jų grupes.
+juridinius  ir fizinius  asmenis, o  tarybos - jų grupes.
 
 Lietuvos
 
-Respublikos   Vyriausybė  turi   teisę  sumažinti  arba
+Respublikos   Vyriausybė  turi   teisę  sumažinti  arba
 
-atleisti nuo
+atleisti
 
-žyminio mokesčio,  kai šis  mokestis  įskaitomas  į
+nuo  žyminio mokesčio,  kai šis  mokestis  įskaitomas  į
 
-valstybės biudžetą.
+valstybės
+
+biudžetą.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. 1-637, 94.11.08,
+Nr.
 
-Žin., 1994, Nr. 89-1712 (94.11.18)
+1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 
-5 straipsnis.
+5 straipsnis. Mokesčio mokėjimas
 
-Mokesčio mokėjimas
+Ne  didesnis   kaip  50  litų  žyminis  mokestis  gali  būti
 
-Ne  didesnis
+sumokamas
 
-kaip  50  litų  žyminis  mokestis  gali  būti
+nuperkant žyminio mokesčio ženklą.
 
-sumokamas nuperkant
+Žyminis mokestis  atskirais  atvejais  gali  būti  sumokamas
 
-žyminio mokesčio ženklą.
+įsigyjant
 
-Žyminis
+blanką.
 
-mokestis  atskirais  atvejais  gali  būti  sumokamas
-
-įsigyjant blanką.
-
-Žyminio
-
-mokesčio   sumokėjimo   tvarką   nustato   Lietuvos
+Žyminio  mokesčio   sumokėjimo   tvarką   nustato   Lietuvos
 
 Respublikos
 
 Vyriausybė.
 
-6 straipsnis.
+6 straipsnis. Mokesčio įskaitymas į biudžetą
 
-Mokesčio įskaitymas į biudžetą
-
-Žyminis
-
-mokestis  įskaitomas į  biudžetą, iš kurio išlaikoma
+Žyminis mokestis  įskaitomas į  biudžetą, iš kurio išlaikoma
 
 įstaiga,
 
@@ -764,31 +688,25 @@ atliekanti   veiksmus  ar   išduodanti  juridinę  galią
 
 turinčius
 
-dokumentus,  už  kuriuos  imamas  šis  mokestis,  o  už
+dokumentus,  už  kuriuos  imamas  šis  mokestis,  o  už
 
-parduotus žyminio
+parduotus
 
-mokesčio ženklus  -  į  savivaldybės  biudžetą
+žyminio  mokesčio ženklus  -  į  savivaldybės  biudžetą
 
-pagal pardavusio
+pagal
 
-ženklus banko buvimo vietą.
+pardavusio ženklus banko buvimo vietą.
 
-7 straipsnis.
+7 straipsnis. Mokesčio grąžinimas
 
-Mokesčio grąžinimas
+Sumokėtas  žyminis  mokestis  arba  jo  dalis grąžinami, kai
 
-Sumokėtas
+sumokėta
 
-žyminis  mokestis  arba  jo  dalis grąžinami, kai
+daugiau negu reikia pagal įstatymą.
 
-sumokėta daugiau negu
-
-reikia pagal įstatymą.
-
-Žyminis
-
-mokestis   grąžinamas,   jeigu   prašymas  dėl  jo
+Žyminis   mokestis   grąžinamas,   jeigu   prašymas  dėl  jo
 
 grąžinimo
 
@@ -800,9 +718,7 @@ Respublikos  mokesčių administravimo įstatyme nustatytą
 
 terminą.
 
-Žyminio
-
-mokesčio   grąžinimo   tvarką   nustato   Lietuvos
+Žyminio   mokesčio   grąžinimo   tvarką   nustato   Lietuvos
 
 Respublikos
 
@@ -812,39 +728,33 @@ Straipsnio
 
 pakeitimai:
 
-Nr. 1-637, 94.11.08,
+Nr.
 
-Žin., 1994, Nr. 89-1712 (94.11.18)
+1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 
-Nr. 1-1317,
+Nr.
 
-96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
+1-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
 
-8 straipsnis.
+8 straipsnis. Mokesčio ėmimo kontrolė
 
-Mokesčio ėmimo kontrolė
-
-Žyminio
-
-mokesčio  ėmimą  kontroliuoja  valstybinės mokesčių
+Žyminio  mokesčio  ėmimą  kontroliuoja  valstybinės mokesčių
 
 inspekcijos.
 
-Jeigu
+Jeigu  patikrinimo  metu nustatyta, kad mokesčio buvo paimta
 
-patikrinimo  metu nustatyta, kad mokesčio buvo paimta
+per
 
-per  mažai  arba
+mažai  arba  mokestis  iš viso nebuvo paimtas, tai trūkstama
 
-mokestis  iš viso nebuvo paimtas, tai trūkstama
+arba
 
-arba  visa
+visa  mokesčio  suma  ir  bauda  išieškoma iš įstaigos, dėl
 
-mokesčio  suma  ir  bauda  išieškoma iš įstaigos, dėl
+kurios
 
-kurios  kaltės
-
-paimtas  per mažas arba visai nepaimtas mokestis,
+kaltės  paimtas  per mažas arba visai nepaimtas mokestis,
 
 Lietuvos
 
@@ -852,9 +762,7 @@ Respublikos  mokesčių administravimo įstatymo nustatyta
 
 tvarka.
 
-Permokėtą
-
-sumą   mokėtojui   grąžina  valstybinė  mokesčių
+Permokėtą   sumą   mokėtojui   grąžina  valstybinė  mokesčių
 
 inspekcija.
 
@@ -862,59 +770,49 @@ Straipsnio
 
 pakeitimai:
 
-Nr. 1-1317,
+Nr.
 
-96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
+1-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
 
-9 straipsnis.
+9 straipsnis. Baigiamosios nuostatos
 
-Baigiamosios nuostatos
+Lietuvos Respublikos  žyminio mokesčio  įstatymas įsigalioja
 
-Lietuvos
+nuo
 
-Respublikos  žyminio mokesčio  įstatymas įsigalioja
+1995 m. sausio 1 dienos.
 
-nuo 1995 m. sausio 1
+Iki bus priimti pagrindiniai Lietuvos Respublikos pramoninės
 
-dienos.
+nuosavybės
 
-Iki bus priimti
+apsaugos  įstatymai  (išradimų  (patentų),  pramoninių
 
-pagrindiniai Lietuvos Respublikos pramoninės
+pavyzdžių),
 
-nuosavybės apsaugos
+už  Patentų  biuro  atliekamas  paslaugas  valstybinė
 
-įstatymai  (išradimų  (patentų),  pramoninių
+rinkliava
 
-pavyzdžių), už
+imama  pagal Lietuvos  Respublikos Vyriausybės  1993 m.
 
-Patentų  biuro  atliekamas  paslaugas  valstybinė
+kovo
 
-rinkliava imama
+12   d.  nutarimo   Nr.163  "Dėl   valstybinės  rinkliavos"
 
-pagal Lietuvos  Respublikos Vyriausybės  1993 m.
+nustatytus
 
-kovo  12   d.
+tarifus.
 
-nutarimo   Nr.163  "Dėl   valstybinės  rinkliavos"
+Lietuvos Respublikos  Vyriausybė iki  1994 m. lapkričio 1 d.
 
-nustatytus tarifus.
+nustato
 
-Lietuvos
+žyminio mokesčio tarifus, mokėjimo ir grąžinimo tvarką.
 
-Respublikos  Vyriausybė iki  1994 m. lapkričio 1 d.
-
-nustato žyminio
-
-mokesčio tarifus, mokėjimo ir grąžinimo tvarką.
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
-
-_
+PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
 
