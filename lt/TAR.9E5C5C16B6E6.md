@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2004-01-26"
+last_updated: "2004-04-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -3682,27 +3682,27 @@ patraukimas administracinėn atsakomybėn neatleidžia jų nuo prievolės atlygi
 
 Alkoholio įstatymo pažeidimais padarytą žalą sveikatai ir turtui.
 
-Lietuvos Respublikoje
+Lietuvos
 
-pagaminti falsifikuoti, į ją įvežti kaip kontrabanda bei joje realizuojami,
+Respublikoje pagaminti falsifikuoti, į ją įvežti kaip kontrabanda bei joje
 
-laikomi (saugomi), gabenami alkoholio produktai, kurie neatitinka kokybės
+realizuojami, laikomi (saugomi), gabenami alkoholio produktai, kurie neatitinka
 
-reikalavimų, reglamentuotų Lietuvos Respublikos norminiuose dokumentuose, taip
+kokybės reikalavimų, reglamentuotų Lietuvos Respublikos norminiuose
 
-pat kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais,
+dokumentuose, taip pat kurių įsigijimas nepatvirtintas juridinę galią
 
-Administracinių teisės pažeidimų kodekso nustatyta tvarka gali būti VTAKT ar
+turinčiais dokumentais, Administracinių teisės pažeidimų kodekso nustatyta
 
-kitų tam įgaliotų institucijų, kontroliuojančių įmonių komercinę ir ūkinę ar
+tvarka gali būti VTAKT ar kitų tam įgaliotų institucijų, kontroliuojančių
 
-sveikatingumo veiklą, konfiskuojami.
+įmonių komercinę ir ūkinę ar sveikatingumo veiklą, konfiskuojami.
 
 Konfiskuoti
 
-alkoholio produktai sunaikinami Lietuvos Respublikos Vyriausybės nustatyta
+alkoholio produktai sunaikinami arba panaudojami biodegalų gamybai Lietuvos
 
-tvarka.
+Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 Straipsnio
 
@@ -3719,6 +3719,12 @@ Nr.
 VIII-961,
 
 98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
+
+Nr.
+
+IX-2064,
+
+2004-03-18, Žin., 2004, Nr. 53-1789 (2004-04-10)
 
 44 straipsnis. Ekonominių
 
@@ -3802,9 +3808,9 @@ alkoholio produktų, neatitinkančių higienos normų reikalavimų, gamybą ir
 
 realizavimą, šio įstatymo 20 straipsnio pirmosios dalies 5 ir 12 punktuose
 
-numatytų alkoholio produktų realizavimo ir laikymo (saugojimo) reikalavimų
+numatytų alkoholio produktų realizavimo ir laikymo (saugojimo) reikalavimų nesilaikymą
 
-nesilaikymą skiria Valstybinė maisto ir veterinarijos tarnyba.
+skiria Valstybinė maisto ir veterinarijos tarnyba.
 
 Baudas už šio
 
@@ -3970,11 +3976,11 @@ pirmojoje dalyje nurodytų institucijų nutarimas dėl piniginės baudos skyrimo
 
 darbo dienas nuo nutarimo priėmimo siunčiamas teisės aktų pažeidėjui.
 
-Piniginė bauda
+Piniginė bauda turi
 
-turi būti sumokama į valstybės biudžetą ne vėliau kaip per vieną mėnesį nuo
+būti sumokama į valstybės biudžetą ne vėliau kaip per vieną mėnesį nuo dienos,
 
-dienos, kurią šio įstatymo pažeidėjams įteiktas nutarimas paskirti baudą.
+kurią šio įstatymo pažeidėjams įteiktas nutarimas paskirti baudą.
 
 Straipsnio
 
@@ -4110,11 +4116,11 @@ taikyti ekonominę sankciją vykdymo atidėjimas
 
 Jei yra aplinkybių, dėl
 
-kurių nedelsiant įvykdyti nutarimą taikyti ekonominę sankciją negalima, šio
+kurių nedelsiant įvykdyti nutarimą taikyti ekonominę sankciją negalima, šio įstatymo
 
-įstatymo 44 straipsnio pirmojoje dalyje nurodytų institucijų pareigūnas, kuris
+44 straipsnio pirmojoje dalyje nurodytų institucijų pareigūnas, kuris priėmė
 
-priėmė nutarimą, pagal ūkio subjektų, dėl kurių priimtas nutarimas, motyvuotą
+nutarimą, pagal ūkio subjektų, dėl kurių priimtas nutarimas, motyvuotą
 
 pareiškimą gali atidėti nutarimo vykdymą iki mėnesio.
 
@@ -4512,9 +4518,9 @@ ALKOHOLIO
 
 KONTROLĖS ĮSTATYMO 1, 2, 3, 6, 8, 12, 13, 14, 16, 17, 19, 20, 21, 23, 25, 27,
 
-28, 30, 41, 44, 45, 48, 52 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 53
+28, 30, 41, 44, 45, 48, 52 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 53 STRAIPSNIU
 
-STRAIPSNIU ĮSTATYMAS
+ĮSTATYMAS
 
 16.
 
