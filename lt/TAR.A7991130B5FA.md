@@ -4,7 +4,7 @@ identifier: "TAR.A7991130B5FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-07-04"
-last_updated: "1996-10-16"
+last_updated: "1996-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7991130B5FA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Po 1997 m. gruodžio 1 d. lieka galioti objektų p
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1996-10-16 iki 1996-12-30
+Suvestinė redakcija nuo 1996-12-31 iki 1997-04-08
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1530, i. k. 0951010ISTA00I-1001
 
@@ -36,7 +36,7 @@ I SKIRSNIS. BENDROSIOS NUOSTATOS
 
 Šiame įstatyme vartojamos sąvokos:
 
-privatizavimas – valstybės ir savivaldybių turto (akcijų, akcijų paketų ar kitokio turto) perleidimas privatizavimo subjektų nuosavybėn pagal šiame įstatyme nustatyta tvarka sudarytus privatizavimo sandorius;
+privatizavimas – valstybės ir savivaldybių turto (akcijų, akcijų paketų ar kitokio turto) perleidimas privatizavimo subjektų nuosavybėn pagal šiame įstatyme nustatyta tvarka sudarytus privatizavimo sandorius, taip pat valstybės (savivaldybės) kontroliuojamų įmonių kontrolės perdavimas didinant šių įmonių įstatinį kapitalą papildomais akcininkų arba kitų fizinių ar juridinių asmenų įnašais;
 
 privatizavimo objektas – akcijos ar kitas turtas, kuris viešosios nuosavybės teise priklauso valstybei ar savivaldybei ir kurį Lietuvos Respublikos Vyriausybė ar savivaldybės taryba nusprendžia privatizuoti. Privatizavimo objektu negali būti savivaldybių gyvenamosios patalpos;
 
@@ -56,11 +56,31 @@ privatizuojama valstybės (savivaldybės) kontroliuojama įmonė – valstybės 
 
 Šios sąvokos tokia prasme yra vartojamos šiame įstatyme, jei jos tekste išryškintos.
 
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-58, 1996-12-23, Žin., 1996, Nr. 126-2945 (1996-12-31), i. k. 0961010ISTA0VIII-58
+
 2 straipsnis. Įstatymo paskirtis
 
 1. Šio įstatymo paskirtis – nustatyti valstybės ir savivaldybių turto privatizavimą už pinigus vietoj pirminio privatizavimo pagal VTPPĮ.
 
 2. Viešosios nuosavybės teise valstybei ar savivaldybei priklausantis turtas kitiems asmenims privačios nuosavybės teise gali būti perleistas tik pagal šį įstatymą, jeigu ko kita nenustato kiti Lietuvos Respublikos įstatymai.
+
+3. Draudžiama valstybės (savivaldybės) kontroliuojamų įmonių akcijas, išleidžiamas įmonės įstatiniam kapitalui didinti papildomais įnašais, perduoti šio įstatymo 1 straipsnyje nurodytiems privatizavimo subjektams kitokia negu šiame įstatyme nustatyta tvarka (t.y. nesudarant privatizavimo sandorių), jeigu valstybei (savivaldybei) priklausančių akcijų, suteikiančių teisę balsuoti visuotiniame akcininkų susirinkime, dalis po įstatinio kapitalo padidinimo:
+
+1) yra mažesnė kaip 70 procentų, kai valstybei (savivaldybei) priklausė daugiau kaip 70 procentų visų akcijų;
+
+2) nėra didesnė kaip 50 procentų, kai valstybei (savivaldybei) priklausė daugiau kaip 50 procentų, bet mažiau kaip 70 procentų visų akcijų
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-58, 1996-12-23, Žin., 1996, Nr. 126-2945 (1996-12-31), i. k. 0961010ISTA0VIII-58
+
+4. Kitais atvejais valstybės (savivaldybės) kontroliuojamų įmonių įstatinis kapitalas didinimas Akcinių bendrovių įstatymo nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-58, 1996-12-23, Žin., 1996, Nr. 126-2945 (1996-12-31), i. k. 0961010ISTA0VIII-58
 
 II SKIRSNIS. PRIVATIZAVIMO INSTITUCIJOS
 
@@ -445,4 +465,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1538, 1996-09-24, Žin., 1996, Nr. 100-2260 (1996-10-16), i. k. 0961010ISTA00I-1538
 
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 13 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-58, 1996-12-23, Žin., 1996, Nr. 126-2945 (1996-12-31), i. k. 0961010ISTA0VIII-58
+
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 1 ir 2 straipsnių papildymo įstatymas
 
