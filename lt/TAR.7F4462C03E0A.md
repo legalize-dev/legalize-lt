@@ -4,7 +4,7 @@ identifier: "TAR.7F4462C03E0A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-12"
-last_updated: "1992-01-12"
+last_updated: "1992-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7F4462C03E0A"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -14,6 +14,10 @@ published_in_tar: "1992-01-12"
 document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo ir papildymo
+
+Suvestinė redakcija nuo 1992-07-15
+
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 10-0; Žin. 1992, Nr.3-38, i. k. 0921010ISTA00I-2198
 
 LIETUVOS RESPUBLIKOS
 
@@ -41,7 +45,11 @@ Išmokėti žuvusiųjų kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sa
 
 Išmokėti asmenims, sužalotiems kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, tokio dydžio vienkartines kompensacijas: asmenims, kuriems padarytas sunkus kūno sužalojimas, – 90 tūkst. rublių, asmenims, kuriems padarytas apysunkis kūno sužalojimas, – 45 tūkst. rublių, asmenims, kuriems padarytas lengvas kūno sužalojimas, – 10 tūkst. rublių.
 
-Kompensacijos turi būti išmokėtos ne vėliau kaip per vieną mėnesį nuo atitinkamų dokumentų pateikimo Krašto apsaugos ministerijai ir ne vėliau kaip iki 1992 m. kovo 31 dienos.
+Dokumentai iš nukentėjusių asmenų priimami ne vėliau kaip iki 1992 m. spalio 31 d., o kompensacijos išmokamos ne vėliau kaip per vieną mėnesį nuo atitinkamų dokumentų pateikimo Krašto apsaugos ministerijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-2751, 1992-07-15, Lietuvos aidas, 1992, Nr. 140-0 (1992-07-21); Žin., 1992, Nr. 22-642 (1992-08-10), i. k. 0921010ISTA00I-2751
 
 5 straipsnis.
 
@@ -54,4 +62,14 @@ LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS
 
 PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
+
+Pakeitimai:
+
+1.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-2751, 1992-07-15, Lietuvos aidas, 1992, Nr. 140-0 (1992-07-21); Žin., 1992, Nr. 22-642 (1992-08-10), i. k. 0921010ISTA00I-2751
+
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo ir papildymo" pakeitimo
 
