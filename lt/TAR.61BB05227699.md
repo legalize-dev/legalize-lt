@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "2000-04-11"
+last_updated: "2001-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -72,7 +72,9 @@ Respublika. Valstybės kontrolė".
 
 Straipsnio pakeitimai:
 
-Nr. VIII-692, 98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
+Nr. VIII-692,
+
+98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
 
 3
 
@@ -314,11 +316,11 @@ kompetencijai priskirti nusikaltimai.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-692, 98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
+Nr. VIII-692,
 
-Nr. VIII-1617,
+98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
 
-00.04.11, Žin., 2000, Nr.34-957 (00.04.26)
+Nr. VIII-1617, 00.04.11, Žin., 2000, Nr.34-957 (00.04.26)
 
 11
 
@@ -334,7 +336,9 @@ efektyvumo požiūriu.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-692, 98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
+Nr. VIII-692,
+
+98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
 
 12
 
@@ -410,9 +414,9 @@ padalinių ir darbuotojų pareiginius nuostatus;
 
 8)
 
-kontroliuoja Valstybės kontrolės pareigūnų sprendimų teisėtumą, nagrinėja
+kontroliuoja Valstybės kontrolės pareigūnų sprendimų teisėtumą, nagrinėja skundus
 
-skundus dėl Valstybės kontrolės pareigūnų veiksmų ir sprendimų;
+dėl Valstybės kontrolės pareigūnų veiksmų ir sprendimų;
 
 9)
 
@@ -536,9 +540,9 @@ valstybės kontrolierius nesutinka su Vyriausybės priimtu nutarimu, jis gali
 
 pareikšti atskirąją nuomonę, kuri turi būti įrašoma į Vyriausybės posėdžio
 
-protokolą, tačiau dėl to Vyriausybės nutarimo vykdymas nesustabdomas. Apie pareikštą
+protokolą, tačiau dėl to Vyriausybės nutarimo vykdymas nesustabdomas. Apie
 
-atskirąją nuomonę valstybės kontrolierius raštu praneša Seimui.
+pareikštą atskirąją nuomonę valstybės kontrolierius raštu praneša Seimui.
 
 Valstybės
 
@@ -704,9 +708,9 @@ perkėlimas ir atleidimas iš darbo
 
 Valstybės kontrolės
 
-pareigūnų priėmimą į darbą, perkėlimą ir atleidimą iš darbo reglamentuoja šis
+pareigūnų priėmimą į darbą, perkėlimą ir atleidimą iš darbo reglamentuoja šis ir
 
-ir kiti įstatymai .
+kiti įstatymai .
 
 Priimamiems
 
@@ -1958,13 +1962,17 @@ formavimo ir didinimo metu padarytus pažeidimus.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-467, 97.10.21, Žin.,
+Nr. VIII-467, 97.10.21,
 
-1997, Nr.99-2504 (97.10.31)
+Žin., 1997, Nr.99-2504 (97.10.31)
 
-Nr. VIII-692, 98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
+Nr. VIII-692,
 
-Nr. VIII-1075, 99.02.11, Žin., 1999, Nr.19-516 (99.02.24)
+98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
+
+Nr. VIII-1075,
+
+99.02.11, Žin., 1999, Nr.19-516 (99.02.24)
 
 36
 
@@ -2008,7 +2016,9 @@ kitaip.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-692, 98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
+Nr. VIII-692,
+
+98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
 
 38
 
@@ -2090,11 +2100,11 @@ nustatytais pažeidimais;
 
 pasitelkti policijos pareigūnus, jeigu kliudoma įeiti į valstybės ir
 
-savivaldybių institucijų bei ūkio subjektų patalpas arba jei atsisakoma pateikti
+savivaldybių institucijų bei ūkio subjektų patalpas arba jei atsisakoma
 
-reikalaujamus dokumentus. Šiais atvejais policijos pareigūnai privalo paimti
+pateikti reikalaujamus dokumentus. Šiais atvejais policijos pareigūnai privalo
 
-Valstybės kontrolės pareigūno reikalaujamus dokumentus.
+paimti Valstybės kontrolės pareigūno reikalaujamus dokumentus.
 
 40
 
@@ -2304,7 +2314,9 @@ vertinimų, kol dėl tikrinimo ataskaitos (akto) nepriimti atitinkami sprendimai
 
 Straipsnio pakeitimai:
 
-Nr. VIII-692, 98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
+Nr. VIII-692,
+
+98.04.07, Žin., 1998, Nr.38-999 (98.04.22)
 
 V. KONTROLĖS VYKDYMO TVARKA
 
@@ -2533,152 +2545,6 @@ Valstybės
 kontrolės pareigūnų darbo apmokėjimo tvarką ir sąlygas nustato Lietuvos
 
 Respublikos įstatymai.
-
-52
-
-straipsnis. Valstybės kontrolės pareigūnų socialinės garantijos
-
-Valstybės
-
-kontrolės pareigūnų socialines garantijas nustato Lietuvos Respublikos
-
-įstatymai.
-
-IX. VALSTYBĖS KONTROLĖS FINANSAVIMAS IR MATERIALINIS
-
-TECHNINIS APRŪPINIMAS
-
-53
-
-straipsnis. Valstybės kontrolės finansavimas
-
-Valstybės
-
-kontrolė finansuojama iš Lietuvos valstybės biudžeto. Valstybės kontrolės
-
-asignavimų dydį nustato ir skiria Lietuvos Respublikos Seimas Biudžeto ir
-
-finansų komiteto teikimu.
-
-54
-
-straipsnis. Valstybės kontrolės aprūpinimas patalpomis
-
-Valstybės
-
-kontrolė gali turėti tarnybinį gyvenamąjį plotą. Šis plotas įgyjamas Lietuvos
-
-Respublikos Vyriausybės nustatyta tvarka.
-
-55
-
-straipsnis. (Neteko galios).
-
-Straipsnio pakeitimai:
-
-Nr. VIII-672, 98.03.19, Žin.,
-
-1998, Nr.32-853 (98.04.03)
-
-X. VALSTYBĖS KONTROLĖS VEIKLOS PARLAMENTINĖ KONTROLĖ
-
-56
-
-straipsnis. Valstybės kontrolės parlamentinė kontrolė
-
-Valstybės
-
-kontrolės parlamentinę kontrolę atlieka Lietuvos Respublikos Seimas.
-
-Valstybės
-
-kontrolės ūkinę ir finansinę veiklą kasmet tikrina Seimo paskirta komisija.
-
-Tikrinimo ataskaita teikiama Seimui kartu su išvada apie metinę valstybės
-
-biudžeto vykdymo apyskaitą.
-
-Skelbiu
-
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                 ALGIRDAS
-
-BRAZAUSKAS
-
-__________
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-467, 97.10.21, Žin.,
-
-1997, Nr.99-2504 (97.10.31)
-
-LIETUVOS RESPUBLIKOS VALSTYBĖS
-
-KONTROLĖS ĮSTATYMO 35 STRAIPSNIO PAPILDYMO
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-672, 98.03.19, Žin.,
-
-1998, Nr.32-853 (98.04.03)
-
-LIETUVOS RESPUBLIKOS VALSTYBĖS
-
-KONTROLĖS ĮSTATYMO 55 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-
-3.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-692, 98.04.07, Žin.,
-
-1998, Nr.38-999 (98.04.22)
-
-LIETUVOS RESPUBLIKOS VALSTYBĖS
-
-KONTROLĖS ĮSTATYMO 2, 10, 11, 35, 37, 42 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-
-ĮSTATYMAS
-
-4.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-1075, 99.02.11, Žin.,
-
-1999, Nr.19-516 (99.02.24)
-
-LIETUVOS RESPUBLIKOS VALSTYBĖS
-
-KONTROLĖS ĮSTATYMO 35 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1617, 00.04.11, Žin., 2000, Nr.34-957 (00.04.26)
-
-VALSTYBĖS KONTROLĖS ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-*** Pabaiga ***
-
-Redagavo: Aušrinė Trapinskienė
-
-(2000.04.26)
 
 43 straipsnis.
 
@@ -2916,21 +2782,181 @@ kontrolės pareigūnų darbo apmokėjimo tvarką ir sąlygas nustato Lietuvos
 
 Respublikos įstatymai.
 
-52 straipsnis.
+52 straipsnis. Valstybės kontrolės
 
-Valstybės kontrolės pareigūnų socialinės garantijos
+pareigūnų valstybinis socialinis draudimas ir kitos socialinės garantijos
 
 Valstybės
 
-kontrolės pareigūnų socialines garantijas nustato Lietuvos Respublikos
+kontrolės pareigūnai draudžiami valstybiniu socialiniu draudimu Valstybinio
 
-įstatymai.
+socialinio draudimo įstatyme nustatyta tvarka. Kitas socialines garantijas
 
-IX. VALSTYBĖS KONTROLĖS FINANSAVIMAS IR
+nustato Lietuvos Respublikos įstatymai.
 
-MATERIALINIS
+Straipsnio pakeitimai:
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328
+
+(2001-07-25)
+
+IX. VALSTYBĖS KONTROLĖS FINANSAVIMAS IR MATERIALINIS
 
 TECHNINIS APRŪPINIMAS
+
+53
+
+straipsnis. Valstybės kontrolės finansavimas
+
+Valstybės
+
+kontrolė finansuojama iš Lietuvos valstybės biudžeto. Valstybės kontrolės
+
+asignavimų dydį nustato ir skiria Lietuvos Respublikos Seimas Biudžeto ir
+
+finansų komiteto teikimu.
+
+54
+
+straipsnis. Valstybės kontrolės aprūpinimas patalpomis
+
+Valstybės
+
+kontrolė gali turėti tarnybinį gyvenamąjį plotą. Šis plotas įgyjamas Lietuvos
+
+Respublikos Vyriausybės nustatyta tvarka.
+
+55
+
+straipsnis. (Neteko galios).
+
+Straipsnio pakeitimai:
+
+Nr. VIII-672, 98.03.19,
+
+Žin., 1998, Nr.32-853 (98.04.03)
+
+X. VALSTYBĖS KONTROLĖS VEIKLOS PARLAMENTINĖ KONTROLĖ
+
+56
+
+straipsnis. Valstybės kontrolės parlamentinė kontrolė
+
+Valstybės
+
+kontrolės parlamentinę kontrolę atlieka Lietuvos Respublikos Seimas.
+
+Valstybės
+
+kontrolės ūkinę ir finansinę veiklą kasmet tikrina Seimo paskirta komisija.
+
+Tikrinimo ataskaita teikiama Seimui kartu su išvada apie metinę valstybės
+
+biudžeto vykdymo apyskaitą.
+
+Skelbiu
+
+šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS
+
+PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
+
+__________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-467, 97.10.21,
+
+Žin., 1997, Nr.99-2504 (97.10.31)
+
+LIETUVOS RESPUBLIKOS VALSTYBĖS
+
+KONTROLĖS ĮSTATYMO 35 STRAIPSNIO PAPILDYMO
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-672, 98.03.19,
+
+Žin., 1998, Nr.32-853 (98.04.03)
+
+LIETUVOS RESPUBLIKOS VALSTYBĖS
+
+KONTROLĖS ĮSTATYMO 55 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-692, 98.04.07,
+
+Žin., 1998, Nr.38-999 (98.04.22)
+
+LIETUVOS RESPUBLIKOS VALSTYBĖS
+
+KONTROLĖS ĮSTATYMO 2, 10, 11, 35, 37, 42 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-1075,
+
+99.02.11, Žin., 1999, Nr.19-516 (99.02.24)
+
+LIETUVOS RESPUBLIKOS VALSTYBĖS
+
+KONTROLĖS ĮSTATYMO 35 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1617, 00.04.11, Žin., 2000,
+
+Nr.34-957 (00.04.26)
+
+VALSTYBĖS KONTROLĖS ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+
+64-2328 (2001-07-25)
+
+VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO, KONSTITUCINIO TEISMO
+
+ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO,
+
+PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE STATUTO,
+
+MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS
+
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo: Angonita Rupšytė (2001-07-25)
+
+anrups@lrs.lt
 
 53 straipsnis.
 
