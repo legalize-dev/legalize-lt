@@ -4,7 +4,7 @@ identifier: "TAR.5368B592234C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-11"
-last_updated: "2003-07-01"
+last_updated: "2004-04-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2003-07-01 iki 2004-04-23
+Suvestinė redakcija nuo 2004-04-24 iki 2008-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
 
@@ -379,7 +379,15 @@ DUOMENŲ SUBJEKTO TEISĖS
 
 3. Atlikdama šio straipsnio 2 dalyje nurodytą paslaugą duomenų subjektui, Valstybinė duomenų apsaugos inspekcija neturi teisės rinkti Valstybės ir tarnybos paslapčių įstatyme nustatytų duomenų, kurie yra įslaptinta informacija.
 
-4. Šio straipsnio 2 dalyje nustatyta paslauga duomenų subjektui teikiama atlygintinai. Atlyginimo dydis neturi viršyti duomenų rinkimo ir teikimo paslaugos sąnaudų. Atlyginimo už paslaugą tvarką nustato Vyriausybė.
+4. Už šio straipsnio 2 dalyje nustatytą paslaugą duomenų subjektui imama Vyriausybės nustatyto dydžio valstybės rinkliava.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2111, 2004-04-13, Žin., 2004, Nr. 60-2120 (2004-04-24), i. k. 1041010ISTA0IX-2111
+
+KETVIRTASIS SKIRSNIS
+
+DUOMENŲ SAUGUMAS
 
 24 straipsnis. Duomenų saugumas
 
@@ -415,9 +423,17 @@ Asmens duomenys gali būti tvarkomi automatiniu būdu tik kai duomenų valdytoja
 
 1. Valstybinė duomenų apsaugos inspekcija atlieka išankstinę patikrą šiais atvejais:
 
-1) kai duomenų valdytojas ketina tvarkyti ypatingus asmens duomenis, išskyrus šio Įstatymo 10 straipsnyje ir 5 straipsnio 2 dalies 6 ir 7 punktuose nustatytus atvejus;
+1) kai duomenų valdytojas automatiniu būdu ketina tvarkyti ypatingus asmens duomenis, išskyrus šių duomenų tvarkymą vidaus administravimo tikslais arba šio Įstatymo 10 straipsnyje ir 5 straipsnio 2 dalies 6 ir 7 punktuose nustatytais atvejais;
 
-2) kai duomenų valdytojas ketina tvarkyti viešas duomenų rinkmenas, jei įstatymuose ar kituose teisės aktuose neapibrėžta duomenų teikimo tvarka;
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2111, 2004-04-13, Žin., 2004, Nr. 60-2120 (2004-04-24), i. k. 1041010ISTA0IX-2111
+
+2) kai duomenų valdytojas automatiniu būdu ketina tvarkyti viešas duomenų rinkmenas, jei įstatymuose ar kituose teisės aktuose neapibrėžta duomenų teikimo tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2111, 2004-04-13, Žin., 2004, Nr. 60-2120 (2004-04-24), i. k. 1041010ISTA0IX-2111
 
 3) kai valstybės registrų ar valstybės ir savivaldybių institucijų informacinių sistemų duomenų valdytojas įgalioja duomenų tvarkytoją tvarkyti asmens duomenis, išskyrus atvejus, kai įstatymuose ar kituose teisės aktuose įtvirtinta duomenų valdytojo teisė įgalioti tvarkyti asmens duomenis konkretų duomenų tvarkytoją arba kai duomenų tvarkytojas yra duomenų valdytojo įsteigtas juridinis asmuo;
 
@@ -606,4 +622,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1296, 2003-01-21, Žin., 2003, Nr. 15-597 (2003-02-12), i. k. 1031010ISTA0IX-1296
 
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2111, 2004-04-13, Žin., 2004, Nr. 60-2120 (2004-04-24), i. k. 1041010ISTA0IX-2111
+
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 23 ir 26 straipsnių pakeitimo įstatymas
 
