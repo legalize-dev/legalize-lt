@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "1998-04-28"
+last_updated: "1998-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1998.05.07)
+Ramunė Lūžaitė (1998.07.22)
 
 Įstatymas
 
@@ -127,6 +127,20 @@ Nauja
 
 įstatymo redakcija
 
+7.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-818,
+
+98.06.30, Žin., 1998, Nr.65-1871 (98.07.22)
+
+LIETUVOS RESPUBLIKOS
+
+VYRIAUSYBĖS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***Pabaiga***
 
 LIETUVOS RESPUBLIKOS
@@ -179,7 +193,15 @@ Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis
 
 sutartimis, kitais Seimo priimtais teisės aktais, Vyriausybės programa,
 
-Respublikos Prezidento dekretais ir šiuo įstatymu.
+Respublikos Prezidento dekretais, šiuo įstatymu ir kitais teisės aktais.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-818,
+
+98.06.30, Žin., 1998, Nr.65-1871 (98.07.22)
 
 4 straipsnis. Svarbiausieji Vyriausybės
 
@@ -231,11 +253,11 @@ Seimas motyvuotu nutarimu nepritaria šiai programai, Ministras Pirmininkas ne
 
 vėliau kaip per 15 dienų nuo nepritarimo dienos pateikia svarstyti naują
 
-programą. Ministerijos ir kitos valstybės institucijos privalo paskirtiems ministrams
+programą. Ministerijos ir kitos valstybės institucijos privalo paskirtiems
 
-teikti medžiagą, reikalingą Vyriausybės programai parengti, bei prisidėti prie
+ministrams teikti medžiagą, reikalingą Vyriausybės programai parengti, bei
 
-programos rengimo.
+prisidėti prie programos rengimo.
 
 3. Vyriausybė gauna įgaliojimus veikti, kai
 
@@ -251,9 +273,9 @@ Vyriausybė privalo per 3 mėnesius parengti ir patvirtinti konkrečias priemone
 
 prisaikdinimas
 
-1. Pradėdami eiti savo pareigas, Ministras
+1. Pradėdami eiti savo pareigas, Ministras Pirmininkas
 
-Pirmininkas ir ministrai prisiekia. Nustatomas toks jų priesaikos tekstas:
+ir ministrai prisiekia. Nustatomas toks jų priesaikos tekstas:
 
 “Aš (vardas, pavardė)
 
@@ -333,9 +355,9 @@ pirmąjį posėdį.
 
 3. Išrinkus Respublikos Prezidentą,
 
-Vyriausybė įgaliojimus grąžina Respublikos Prezidentui tą dieną, kai šis pradeda
+Vyriausybė įgaliojimus grąžina Respublikos Prezidentui tą dieną, kai šis
 
-eiti pareigas.
+pradeda eiti pareigas.
 
 4. Kai pasikeičia daugiau nei pusė ministrų,
 
@@ -343,9 +365,9 @@ Vyriausybė turi iš naujo gauti Seimo įgaliojimus.
 
 5. Vyriausybės įgaliojimai laikomi
 
-grąžintais, kai Ministras Pirmininkas ar Vyriausybės narys, pavaduojantis
+grąžintais, kai Ministras Pirmininkas ar Vyriausybės narys, pavaduojantis Ministrą
 
-Ministrą Pirmininką, įteikia Respublikos Prezidentui raštišką pareiškimą.
+Pirmininką, įteikia Respublikos Prezidentui raštišką pareiškimą.
 
 6. Respublikos Prezidentas priima Vyriausybės
 
@@ -373,9 +395,9 @@ Respublikos Prezidentas paskiria Ministrą Pirmininką, jei Ministro Pirmininko
 
 pateiktoje ir Respublikos Prezidento patvirtintoje Vyriausybėje nepasikeitė
 
-daugiau nei pusė iki įgaliojimų grąžinimo dirbusių ministrų, Vyriausybė iš
+daugiau nei pusė iki įgaliojimų grąžinimo dirbusių ministrų, Vyriausybė iš naujo
 
-naujo gauna įgaliojimus veikti pagal Seimo anksčiau patvirtintą programą. Jeigu
+gauna įgaliojimus veikti pagal Seimo anksčiau patvirtintą programą. Jeigu
 
 Seimas nepritaria Ministro Pirmininko kandidatūrai, Vyriausybė privalo
 
@@ -383,9 +405,7 @@ atsistatydinti.
 
 9 straipsnis. Vyriausybės atsistatydinimas
 
-1. Vyriausybė privalo atsistatydinti šiais
-
-atvejais:
+1. Vyriausybė privalo atsistatydinti šiais atvejais:
 
 1) kai Seimas du kartus iš eilės nepritaria
 
@@ -539,11 +559,11 @@ suvaržyta jų laisvė be išankstinio Seimo sutikimo, o tarp Seimo sesijų - be
 
 išankstinio Respublikos Prezidento sutikimo.
 
-13 straipsnis. Vyriausybės
+13 straipsnis. Vyriausybės narių,
 
-narių, Ministro Pirmininko ir ministrų skiriamų politinių pareigūnų darbo
+Ministro Pirmininko ir ministrų skiriamų politinių pareigūnų darbo sąlygos bei
 
-sąlygos bei socialinės garantijos
+socialinės garantijos
 
 1. Vyriausybės narių ir politinių pareigūnų
 
@@ -675,9 +695,9 @@ kūrybinę veiklą. Atlyginimu už kūrybinę veiklą laikomas autorinis honorar
 
 paskaitas, meno kūrinius bei jų atlikimą, už publikacijas bei knygas, už
 
-dalyvavimą radijo bei televizijos laidose bei šių laidų įrašus, taip pat atlygis
+dalyvavimą radijo bei televizijos laidose bei šių laidų įrašus, taip pat
 
-už pedagoginį darbą valstybinėse mokslo įstaigose.
+atlygis už pedagoginį darbą valstybinėse mokslo įstaigose.
 
 Penktasis skirsnis
 
@@ -817,11 +837,11 @@ Prezidento dekretus, įgyvendina Seimo pavirtintą Vyriausybės programą;
 
 įstaigų veiklą;
 
-4) rengia valstybės biudžeto projektą ir
+4) rengia valstybės biudžeto projektą ir teikia
 
-teikia jį Seimui; vykdo valstybės biudžetą, teikia Seimui valstybės biudžeto
+jį Seimui; vykdo valstybės biudžetą, teikia Seimui valstybės biudžeto įvykdymo
 
-įvykdymo apyskaitą;
+apyskaitą;
 
 5) remdamasi įstatymais disponuoja
 
@@ -843,15 +863,15 @@ bei įstaigas prie ministerijų;
 
 ir įstaigų prie ministerijų nuostatus;
 
-10) kartu su Respublikos Prezidentu vykdo užsienio
+10) kartu su Respublikos Prezidentu vykdo
 
-politiką; užmezga diplomatinius santykius ir palaiko ryšius su užsienio
+užsienio politiką; užmezga diplomatinius santykius ir palaiko ryšius su
 
-valstybėmis bei tarptautinėmis organizacijomis; atsižvelgdama į Seimo Užsienio
+užsienio valstybėmis bei tarptautinėmis organizacijomis; atsižvelgdama į Seimo
 
-reikalų komiteto rekomendacijas, teikia Respublikos Prezidentui siūlymus dėl
+Užsienio reikalų komiteto rekomendacijas, teikia Respublikos Prezidentui siūlymus
 
-Lietuvos Respublikos diplomatinių atstovų užsienio valstybėse ir prie
+dėl Lietuvos Respublikos diplomatinių atstovų užsienio valstybėse ir prie
 
 tarptautinių organizacijų skyrimo bei atšaukimo;
 
@@ -961,9 +981,9 @@ atleidžia iš pareigų Vyriausybės įstaigų - inspekcijų, tarnybų ir kitų 
 
 vadovus;
 
-7) skiria Vyriausybės įstaigų vadovams ir
+7) skiria Vyriausybės įstaigų vadovams ir kitiems
 
-kitiems Ministro Pirmininko skiriamiems valstybės tarnautojams bei pareigūnams
+Ministro Pirmininko skiriamiems valstybės tarnautojams bei pareigūnams
 
 drausmines nuobaudas;
 
@@ -983,11 +1003,11 @@ ministrų pavaduoti Ministrą Pirmininką;
 
 programą;
 
-11) įstatymų ar Vyriausybės nutarimų
+11) įstatymų ar Vyriausybės nutarimų numatytais
 
-numatytais atvejais ministrų teikimu skiria departamentų ir kitų įstaigų prie
+atvejais ministrų teikimu skiria departamentų ir kitų įstaigų prie ministerijų
 
-ministerijų vadovus;
+vadovus;
 
 12) teikia Vyriausybei siūlymus dėl apskričių
 
@@ -1281,9 +1301,9 @@ Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis
 
 sutartimis, Vyriausybės nutarimais, kitais teisės aktais.
 
-7. Ministerija yra biudžetinė įstaiga,
+7. Ministerija yra biudžetinė įstaiga, finansuojama
 
-finansuojama iš valstybės biudžeto.
+iš valstybės biudžeto.
 
 8. Ministerijos nuostatus tvirtina
 
@@ -1449,9 +1469,9 @@ sekretorius. Vyriausybės nutarimu Vyriausybės įstaiga gali būti pavaldi
 
 ministrui.
 
-4. Vyriausybės įstaigos vadovas sprendžia įstaigos
+4. Vyriausybės įstaigos vadovas sprendžia
 
-kompetencijai priskirtus klausimus, taip pat vykdo kitas įstatymų ir
+įstaigos kompetencijai priskirtus klausimus, taip pat vykdo kitas įstatymų ir
 
 Vyriausybės nutarimų nustatytas funkcijas. Vyriausybės įstaigos vadovas yra
 
@@ -1501,11 +1521,11 @@ teisės normos, įsigalioja įstatymų nustatyta tvarka.
 
 valdymo organizavimas ir savivaldybių       veiklos administracinė priežiūra
 
-1. Vyriausybė valdymą apskrityje - Lietuvos Respublikos
+1. Vyriausybė valdymą apskrityje - Lietuvos
 
-teritorijos aukštesniajame administraciniame vienete - organizuoja per
+Respublikos teritorijos aukštesniajame administraciniame vienete - organizuoja
 
-apskrities viršininką, ministerijas bei Vyriausybės įstaigas.
+per apskrities viršininką, ministerijas bei Vyriausybės įstaigas.
 
 2. Vyriausybės teikimu Seimas nustato ir
 
