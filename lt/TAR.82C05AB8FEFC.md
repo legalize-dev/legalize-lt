@@ -4,7 +4,7 @@ identifier: "TAR.82C05AB8FEFC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-01"
-last_updated: "1995-11-14"
+last_updated: "1996-10-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82C05AB8FEFC"
 department: "Lietuvos Respublikos Seimas"
@@ -41,7 +41,29 @@ IŠMOKŲ BEI KITŲ
 
 TIKSLINIŲ KOMPENSACIJŲ PANAUDOJIMO" PAPILDYMO
 
-LIETUVOS RESPUBLIKOS
+2.
+
+Parlamentas,
+
+Įstatymas
+
+Nr. I-1592,
+
+96.10.22, Žin., 1996, Nr.104-2371 (96.10.30)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO "DĖL VALSTYBĖS VIENKARTINIŲ IŠMOKŲ
+
+BEI KITŲ TIKSLINIŲ
+
+KOMPENSACIJŲ PANAUDOJIMO" 2 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+LIETUVOS
+
+RESPUBLIKOS
 
 ĮSTATYMAS
 
@@ -85,7 +107,7 @@ nepanaudotos  valstybės vienkartinės  išmokos bei kitos
 
 tikslinės
 
-kompensacijos  deponuojamos jų asmeninėse investicinėse
+kompensacijos  deponuojamos jų asmeninėse investicinėse
 
 sąskaitose Lietuvos
 
@@ -131,13 +153,9 @@ butų privatizavimo
 
 įstatymą (Žin.,  1991, Nr.17-449,  Nr.22-576;
 
-1992, Nr.3-36,
+1992, Nr.3-36, Nr.30-920; 1993, Nr.12-293, Nr.32-722, Nr.70-1308;
 
-Nr.30-920; 1993, Nr.12-293, Nr.32-722, Nr.70-1308;
-
-1994, Nr.14-231,
-
-Nr.40-717, Nr.85-1606);
+1994, Nr.14-231, Nr.40-717, Nr.85-1606);
 
 gyvenamąsias
 
@@ -159,27 +177,25 @@ sąlygų" (Žin.,
 
 1991, Nr.21-545;  1992, Nr.3-40, Nr.7-155, Nr.11-
 
-278, Nr.15-405;
+278, Nr.15-405;  1993, Nr.5-83, Nr.32-725; 1994, Nr.7-100, Nr.14-
 
-1993, Nr.5-83, Nr.32-725; 1994, Nr.7-100, Nr.14-
+229, Nr.42-771, Nr.43-778);
 
-229, Nr.42-771,
+žemės
 
-Nr.43-778);
+sklypus,  bet ne daugiau kaip 50  ha  žemės  ūkio
 
-žemės sklypus,
+naudmenų, kuriais
 
-bet ne  daugiau kaip  80  ha,  kuriais  buvo
+buvo leista naudotis asmenims pagal Lietuvos
 
-leista naudotis
+Respublikos
 
-asmenims pagal  Lietuvos Respublikos  valstiečių
+valstiečio  ūkio  įstatymą,  tačiau  šios   žemės
 
-ūkio įstatymą,
+įsigijimas
 
-tačiau šios  žemės  suteikimas  nebuvo  nustatytu
-
-laiku įformintas;
+nuosavybėn nebuvo laiku įformintas;
 
 asmeniniam
 
@@ -201,15 +217,13 @@ namų valdų
 
 periodinių
 
-leidinių    (laikraščių,   žurnalų)   leidyklų,
+leidinių    (laikraščių,   žurnalų)   leidyklų,
 
 periodinių leidinių
 
 redakcijų užimamas  patalpas pagal  Lietuvos
 
-Respublikos Seimo
-
-1994 m.  vasario 17  d. nutarimą Nr.I-394 "Dėl
+Respublikos Seimo  1994 m.  vasario 17  d. nutarimą Nr.I-394 "Dėl
 
 Lietuvos
 
@@ -223,13 +237,9 @@ Respublikos  valstybinio  turto  pirminio  privatizavimo
 
 įsigaliojimo"  8 punkto  papildymo" (Žin.,  1991, Nr.10-
 
-263, Nr.32-857;
+263, Nr.32-857;  1992,  Nr.11-280,  Nr.20-591;  1993,  Nr.18-452,
 
-1992,  Nr.11-280,  Nr.20-591;  1993,  Nr.18-452,
-
-Nr.54-1055; 1994,
-
-Nr.14-239).
+Nr.54-1055; 1994, Nr.14-239).
 
 Straipsnio
 
@@ -238,6 +248,10 @@ pakeitimai:
 Nr. I-1094,
 
 95.11.14, Žin., 1995, Nr.95-2112 (95.11.22)
+
+Nr. I-1592,
+
+96.10.22, Žin., 1996, Nr.104-2371 (96.10.30)
 
 3. Lietuvos
 
