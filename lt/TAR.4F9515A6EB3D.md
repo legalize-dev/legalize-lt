@@ -4,7 +4,7 @@ identifier: "TAR.4F9515A6EB3D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-12-23"
-last_updated: "2001-06-30"
+last_updated: "2001-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 2001-06-30 iki 2001-06-30
+Suvestinė redakcija nuo 2001-07-01 iki 2001-12-28
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
 
@@ -35,7 +35,11 @@ Patvirtinti Lietuvos Respublikos teritorijoje galiojančių įstatymų, kurie bu
 
 3) Lietuvos Respublikos civilinį kodeksą, priimtą 1964 m. liepos 7 d., (Žin., 1964, Nr. 19-138) su vėlesniais pakeitimais ir papildymais – iki 2001 m. liepos 1 d.;
 
-4) Lietuvos Respublikos civilinio proceso kodeksą, priimtą 1964 m. liepos 7 d., (Žin., 1964, Nr. 19-139) su vėlesniais pakeitimais ir papildymais – iki 2001 m. liepos 1 d.;
+4) Neteko galios nuo 2001-07-01
+
+Straipsnio punkto naikinimas:
+
+Nr. IX-390, 2001-06-21, Žin. 2001, Nr. 55-1947 (2001-06-27), i. k. 1011010ISTA00IX-390
 
 5) Lietuvos Respublikos santuokos ir šeimos kodeksą, priimtą 1969 m. liepos 16 d., (Žin., 1969, Nr. 21-186) su vėlesniais pakeitimais ir papildymais – iki 2001 m. liepos 1 d.;
 
@@ -104,4 +108,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-416, 2001-06-28, Žin., 2001, Nr. 56-1985 (2001-06-30), i. k. 1011010ISTA00IX-416
 
 Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-390, 2001-06-21, Žin., 2001, Nr. 55-1947 (2001-06-27), i. k. 1011010ISTA00IX-390
+
+Lietuvos Respublikos civilinio proceso kodekso pakeitimo ir papildymo įstatymas
 
