@@ -4,7 +4,7 @@ identifier: "TAR.172F280D69BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-21"
-last_updated: "1997-06-24"
+last_updated: "1998-12-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.172F280D69BC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,11 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų indėlių draudimo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.07.11)
+Ramunė Lūžaitė (1999.01.06)
 
 Įstatymas
 
@@ -62,6 +62,22 @@ IR PAPILDYMO ĮSTATYMAS
 Įstatymas įsigalioja
 
 nuo 1998 m. sausio 1 d.
+
+3.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1004,
+
+98.12.22, Žin., 1998, Nr.115-3247 (98.12.31)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
 
 ***
 
@@ -119,9 +135,9 @@ draudimo įmoką ir mokantis kitas įmokas;
 
 draudiminis
 
-įvykis - Lietuvos Respublikos komercinių bankų įstatymo nustatyta tvarka
+įvykis - Lietuvos Respublikos komercinių bankų įstatymo nustatyta tvarka bankroto
 
-bankroto bylos iškėlimas draudėjui;
+bylos iškėlimas draudėjui;
 
 indėlis
 
@@ -147,9 +163,9 @@ Draudimo
 
 objektas yra Lietuvos bankuose laikomi gyventojų indėliai litais ir užsienio
 
-valiuta - Jungtinių Amerikos Valstijų doleriais ir Vokietijos Federacinės
+valiuta - Jungtinių Amerikos Valstijų doleriais ir Vokietijos Federacinės Respublikos
 
-Respublikos markėmis (toliau - užsienio valiuta).
+markėmis (toliau - užsienio valiuta).
 
 Neapdraudžiami
 
@@ -383,9 +399,9 @@ su palūkanomis dydžio. Jeigu banko paskolos gavėjo indėlis yra didesnis už 
 
 gavėjo negrąžintas paskolas kartu su palūkanomis, kompensuojamas indėlio ir
 
-paskolų su palūkanomis skirtumas,  bet ne didesnis negu nurodytas šio įstatymo 4
+paskolų su palūkanomis skirtumas,  bet ne didesnis negu nurodytas šio įstatymo
 
-straipsnio pirmojoje dalyje;
+4 straipsnio pirmojoje dalyje;
 
 5)
 
@@ -549,9 +565,9 @@ Fondo
 
 teisės bei pareigos, taip pat Lietuvos Respublikos valstybės  ir savivaldybės
 
-įmonių  įstatymo  6 straipsnyje nustatyti kiti reikalavimai. Fondo įstatus
+įmonių  įstatymo  6 straipsnyje nustatyti kiti reikalavimai. Fondo įstatus tvirtina
 
-tvirtina Lietuvos Respublikos Vyriausybė.
+Lietuvos Respublikos Vyriausybė.
 
 10
 
@@ -805,7 +821,7 @@ Fondo
 
 Fondo
 
-įstatinis kapitalas per 1997 ir 1998 metus turi būti padidintas iki 50 mln.
+įstatinis kapitalas iki 2002 metų turi būti padidintas iki 60 mln.
 
 litų.
 
@@ -820,6 +836,14 @@ biudžetą.
 Atsargos
 
 kapitalas formuojamas iš Fondo pelno.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-1004,
+
+98.12.22, Žin., 1998, Nr.115-3247 (98.12.31)
 
 18
 
@@ -913,9 +937,9 @@ straipsnis. Finansinės veiklos kontrolė
 
 Metinė
 
-Fondo  finansinė ataskaita turi būti patikrinta nepriklausomo audito ir paskelbta
+Fondo  finansinė ataskaita turi būti patikrinta nepriklausomo audito ir
 
-ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos.
+paskelbta ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos.
 
 23
 
@@ -1023,7 +1047,7 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS                           ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                           ALGIRDAS BRAZAUSKAS
 
 1 straipsnis.
 
