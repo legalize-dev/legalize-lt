@@ -4,7 +4,7 @@ identifier: "TAR.F989833B3D38"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-28"
-last_updated: "1997-11-20"
+last_updated: "1998-06-09"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F989833B3D38"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1997.12.02)
+Lūžaitė (1998.06.19)
 
 Įstatymas
 
@@ -127,6 +127,22 @@ LIETUVOS RESPUBLIKOS
 
 NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
 
+7.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-773,
+
+98.06.09, Žin., 1998, Nr.56-1547 (98.06.19)
+
+LIETUVOS RESPUBLIKOS
+
+ĮSTATYMO “DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI
+
+AKCIONUOTI, NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
@@ -163,9 +179,7 @@ Lietuvos Respublikos
 
 priedėlis
 
-Valstybinių
-
-įmonių, kurių iki 2000-ųjų metų
+Valstybinių įmonių, kurių iki 2000-ųjų metų
 
 nenumatoma
 
@@ -215,7 +229,9 @@ Statybos ir urbanistikos ministerija
 
 Respublikinis valstybinis inventorizavimo,
 
-projektavimo ir paslaugų biuras
+projektavimo
+
+ir paslaugų biuras
 
 2008215   Valstybinė
 
@@ -343,7 +359,7 @@ Vilniaus Rotušės vaistinė
 
 valstybinė centro vaistinė
 
-3396632   Valstybinė
+3396632   Valstybinė
 
 įmonė "Aleksoto vaistinė"
 
@@ -401,7 +417,7 @@ institutas"
 
 Žemės ir miškų ūkio ministerija
 
-5551693   Ignalinos
+5551693   Ignalinos
 
 valstybinė žuvivaisos įmonė
 
@@ -475,51 +491,31 @@ respublikinė sporto renginių valdyba
 
 įmonė "Lietuvos loto"
 
-Lietuvos standartizacijos tarnyba
+Valstybinė metrologijos tarnyba
 
-2022939   Vilniaus
-
-valstybinis metrologijos centras
-
-3244233   Kauno
+2022939 Vilniaus
 
 valstybinis metrologijos centras
 
-4021649   Klaipėdos
+3244233 Kauno
 
 valstybinis metrologijos centras
 
-4413211   Šiaulių
+4021649 Klaipėdos
 
 valstybinis metrologijos centras
 
-4714667   Panevėžio
+4413211 Šiaulių
 
 valstybinis metrologijos centras
 
-2082689   Valstybinė
+4714667 Panevėžio
 
-įmonė "Matas"
-
-3312806   Valstybinė
-
-įmonė "Skalė"
-
-4052522   Valstybinė
-
-įmonė "Rodyklė"
-
-4463495   Valstybinė
-
-įmonė "Svaras"
-
-4762675   Valstybinė
-
-įmonė "Svarstis"
+valstybinis metrologijos centras
 
 Aplinkos apsaugos ministerija
 
-5885293   Laukystos
+5885293   Laukystos
 
 žuvų veislynas
 
@@ -541,7 +537,7 @@ apskrities viršininko administracija
 
 5657226
 
-Valstybinė   veislininkystės   įmonė   (Jonavos rajonas)
+Valstybinė   veislininkystės   įmonė   (Jonavos rajonas)
 
 6113181
 
@@ -553,9 +549,7 @@ Panevėžio apskrities viršininko administracija
 
 gyvulių  sėklinimo  įmonė  (Pasvalio rajonas)
 
-Šiaulių
-
-apskrities viršininko administracija
+Šiaulių apskrities viršininko administracija
 
 7132079  Šeduvos
 
@@ -649,7 +643,7 @@ Valstybinis laidojimo biuras "Liūdesys"
 
 įmonė "Atgaiva"
 
-3352403   Valstybinė
+3352403   Valstybinė
 
 skalbykla "Šarma"
 
@@ -667,7 +661,9 @@ knygynas
 
 tinklai"
 
-Klaipėdos miesto valdyba
+Klaipėdos
+
+miesto valdyba
 
 4084288   Valstybinė
 
@@ -689,9 +685,7 @@ Akmenės rajono valdyba
 
 ekologijos laboratorija
 
-Biržų
-
-rajono valdyba
+Biržų rajono valdyba
 
 5472442   Valstybinė
 
@@ -736,4 +730,8 @@ Nr. VIII-317,
 Nr. VIII-531,
 
 97.11.20, Žin., 1997, Nr.108-2738 (97.11.28)
+
+Nr. VIII-773,
+
+98.06.09, Žin., 1998, Nr.56-1547 (98.06.19)
 
