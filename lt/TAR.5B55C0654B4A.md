@@ -4,7 +4,7 @@ identifier: "TAR.5B55C0654B4A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-06"
-last_updated: "2000-04-26"
+last_updated: "2000-07-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5B55C0654B4A"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos pašarų įstatymas
+
+Suvestinė redakcija nuo 2000-07-26 iki 2004-04-29
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 34-952, i. k. 1001010ISTAIII-1610
 
 LIETUVOS RESPUBLIKOS PAŠARŲ ĮSTATYMAS
 
@@ -91,7 +95,11 @@ BENDROSIOS NUOSTATOS
 
 22. Atitikties sertifikatas – pagal sertifikavimo taisykles išduotas dokumentas, liudijantis, kad reikiamu būdu identifikuotas pašaras atitinka tam tikrą normą.
 
-23. Veterinarijos sertifikatas – Valstybinės veterinarijos tarnybos išduodamas oficialus dokumentas, liudijantis apie gyvūnų užkrečiamų ligų paplitimą (ar nebuvimą) pašarus eksportuojančioje šalyje ar atitinkamoje jos teritorijoje.
+23. Veterinarijos sertifikatas – Valstybinės maisto ir veterinarijos tarnybos išduodamas oficialus dokumentas, liudijantis apie gyvūnų užkrečiamųjų ligų paplitimą (ar nebuvimą) pašarus eksportuojančioje šalyje ar atitinkamoje jos teritorijoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1832, 2000-07-11, Žin., 2000, Nr. 61-1834 (2000-07-26), i. k. 1001010ISTAIII-1832
 
 24. Fitosanitarinis sertifikatas – Valstybinės augalų apsaugos tarnybos išduodamas oficialus dokumentas, pažymintis, kad augalų, augalinių produktų fitosanitarinė būklė atitinka juos įvežančios šalies nustatytus reikalavimus.
 
@@ -119,7 +127,7 @@ PAŠARŲ GAMYBOS, LAIKYMO, GABENIMO, NAUDOJIMO, PREKYBOS JAIS TVARKA
 
 3. Pašarai turi būti gaminami pagal veterinarijos ir higienos reikalavimus įrengtose patalpose ir atitikti jiems teisės aktų, standartų, metodikų nustatytus kokybės reikalavimus.
 
-4. Žemės ūkio ministerija kartu su Valstybine veterinarijos tarnyba nustato:
+4. Žemės ūkio ministerija kartu su Valstybine maisto ir veterinarijos tarnyba nustato:
 
 1) privalomuosius pašarų saugos ir ženklinimo reikalavimus;
 
@@ -132,6 +140,10 @@ PAŠARŲ GAMYBOS, LAIKYMO, GABENIMO, NAUDOJIMO, PREKYBOS JAIS TVARKA
 5) kenksmingų (nepageidautinų) medžiagų, produktų, augalinių priemaišų ir pašarų priedų didžiausias leistinas normas gaminamuose pašaruose;
 
 6) pašarų priedų gamybos, vartojimo, prekybos jais tvarką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1832, 2000-07-11, Žin., 2000, Nr. 61-1834 (2000-07-26), i. k. 1001010ISTAIII-1832
 
 5 straipsnis. Pašarų laikymo sąlygos
 
@@ -159,7 +171,11 @@ PAŠARŲ EKSPORTAS IR IMPORTAS
 
 1. Pašarai eksportuojami ir importuojami vadovaujantis šio įstatymo, Muitinės kodekso, Veterinarijos įstatymo, kitų įstatymų bei teisės aktų nuostatomis, taip pat tarptautinėmis sutartimis. Importuojami ir eksportuojami pašarai privalo turėti atitikties, veterinarijos ir fitosanitarinį sertifikatus.
 
-2. Valstybinė veterinarijos tarnyba turi teisę uždrausti įvežti į Lietuvos Respubliką pašarus, jei jie neatitinka pašarams taikomų privalomųjų reikalavimų.
+2. Valstybinė maisto ir veterinarijos tarnyba turi teisę uždrausti įvežti į Lietuvos Respubliką pašarus, jei jie neatitinka pašarams taikomų privalomųjų reikalavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1832, 2000-07-11, Žin., 2000, Nr. 61-1834 (2000-07-26), i. k. 1001010ISTAIII-1832
 
 3. Importuojamų pašarų priedų ir premiksų registravimo ir atitikties įvertinimo tvarką nustato Žemės ūkio ministerija.
 
@@ -217,144 +233,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
-15 straipsnis. Baudos ir įspėjimai už pašarų saugą reglamentuojančių teisės aktų pažeidimus
-
-1. Pašarų ūkio subjektams, patiekusiems rinkai nesaugų pašarą, skiriamas įspėjimas arba nuo 300 iki 3 000 eurų bauda.
-
-2. Pašarų ūkio subjektams, patiekusiems rinkai nesaugų pašarą, už įpareigojimo nutraukti jo tiekimą rinkai nesilaikymą skiriama nuo 1 000 iki 5 000 eurų bauda.
-
-3. Pašarų ūkio subjektams, nevykdantiems Tarnybos sprendimo pašalinti nesaugų pašarą iš rinkos ar jį sunaikinti, skiriama nuo 2 000 iki 6 000 eurų bauda.
-
-4. Pašarų ūkio subjektams, patiekusiems rinkai nesaugų pašarą, jeigu šis (šie) pažeidimas (pažeidimai) padarė žalos gyvūnų sveikatai, skiriama nuo 3 000 iki 6 000 eurų bauda.
-
-5. Pašarų ūkio subjektams, patiekusiems rinkai nesaugų pašarą, jeigu šis (šie) pažeidimas (pažeidimai) padarė žalos gyvūninių produktų, gautų iš rinkai patiektu nesaugiu pašaru šertų gyvūnų, vartotojų sveikatai, skiriama nuo 6 000 iki 12 000 eurų bauda.
-
-6. Pašarų ūkio subjektams, patiekusiems rinkai nesaugų pašarą, jeigu šis (šie) pažeidimas (pažeidimai) sukėlė gyvūnų žūtį, skiriama nuo 6 000 iki 12 000 eurų bauda.
-
-7. Pašarų ūkio subjektams, patiekusiems rinkai nesaugų pašarą, jeigu šis (šie) pažeidimas (pažeidimai) sukėlė gyvūninių produktų, gautų iš rinkai patiektu nesaugiu pašaru šertų gyvūnų, vartotojų mirtį, skiriama nuo 12 000 iki 24 000 eurų bauda.
-
-8. Įspėjimų arba baudų taikymas neatleidžia nuo pareigos atlyginti gyvūnų laikytojams ir gyvūninių produktų vartotojams padarytą žalą.
-
-16 straipsnis. Atleidimas nuo atsakomybės ir atsakomybę lengvinančios ir sunkinančios aplinkybės
-
-1. Pašarų ūkio subjektas neatsako už nesaugaus pašaro patiekimą rinkai, jeigu jis įrodo, kad:
-
-1) jis nesaugaus pašaro rinkai nepatiekė;
-
-2) pašaras tapo nesaugus vėliau dėl trečiojo asmens veiksmų netinkamai, neatsargiai gabenant ar saugant (sandėliuojant) pašarą, dėl kitų nuo pašarų ūkio subjekto valios nepriklausančių priežasčių;
-
-3) tuo metu, kai nesaugus pašaras buvo patiektas rinkai, mokslo ir technikos pažanga nebuvo tokio lygio, kad būtų galima nustatyti galimą riziką;
-
-4) gyvūnų laikytojas naudojo gyvūnams šerti pašarus, pažeisdamas pašaro gamintojo nustatytas pašaro naudojimo taisykles, dėl kurių nesilaikymo gyvūnams buvo padaryta žalos ar gyvūniniai produktai, gauti iš šiuo pašaru šertų gyvūnų, tapo nesaugūs;
-
-5) pašaro pavojingas savybes nulėmė nenugalima jėga.
-
-2. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudos vidurkį ir šio straipsnio 3 ir 4 dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą.
-
-3. Skiriant nuobaudą, lengvinančiomis aplinkybėmis yra laikomos šios aplinkybės:
-
-1) pašarų ūkio subjektai, padarę pažeidimą, bendradarbiauja su Tarnyba atliekant teisės akto pažeidimo tyrimą;
-
-2) pašarų ūkio subjektai pašalino pažeidimą;
-
-3) pašarų ūkio subjektai, padarę pažeidimą, gera valia atlygino gyvūnų laikytojams ar vartotojams padarytą žalą;
-
-4) kitos reikšmingos aplinkybės.
-
-4. Skiriant nuobaudą, sunkinančiomis aplinkybėmis yra laikomos šios aplinkybės:
-
-1) pašarų ūkio subjektas slėpė padarytą teisės akto pažeidimą;
-
-2) pašarų ūkio subjektas pakartotinai per vienus metus nuo dienos, kurią įsiteisėjo nutarimas skirti nuobaudą už šio įstatymo tos pačios straipsnio dalies pažeidimą, tęsė pažeidimą nepaisydamas Tarnybos įpareigojimo nutraukti neteisėtus veiksmus;
-
-3) pašarų ūkio subjektas neatlygino ar vengė atlyginti gyvūnų laikytojams ar vartotojams padarytą žalą;
-
-4) pašarų ūkio subjektas nebendradarbiavo su Tarnyba.
-
-17 straipsnis. Baudų ir įspėjimų už pašarų saugos pažeidimus skyrimo terminas
-
-Šio įstatymo 15 ir 21 straipsniuose nustatyta nuobauda gali būti paskirta ne vėliau kaip per dvejus metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per dvejus metus nuo jo paaiškėjimo dienos.
-
-18 straipsnis. Pašarų saugos pažeidimų nagrinėjimo ir nuobaudų skyrimo tvarka
-
-1. Tarnyba nagrinėja pašarų saugą reglamentuojančių teisės aktų pažeidimų bylas ir skiria nustatytas nuobaudas ne vėliau kaip per 6 mėnesius nuo protokolo surašymo dienos.
-
-2. Tarnybos pareigūnai dėl pašarų saugą reglamentuojančių teisės aktų pažeidimų surašo protokolus, kurių vieną egzempliorių įteikia pažeidėjui ir (ar) jo įgaliotam atstovui.
-
-3. Bylos parengiamos, nagrinėjamos ir baudos skiriamos šio įstatymo ir Tarnybos direktoriaus įsakymu nustatyta tvarka.
-
-4. Pažeidėjui ir (ar) jo įgaliotam atstovui ne vėliau kaip prieš 10 darbo dienų iki posėdžio pradžios raštu pranešama apie bylos nagrinėjimo vietą ir laiką, taip pat pasiūloma susipažinti su bylos medžiaga, raštu pateikti paaiškinimus.
-
-5. Pažeidėjas ir (ar) jo įgaliotas atstovas turi teisę susipažinti su surinkta medžiaga, duoti rašytinius ir žodinius paaiškinimus, pateikti prašymus, teikti įrodymus, apskųsti priimamus sprendimus. Pažeidėjas ir (ar) jo įgaliotas atstovas iki bylos nagrinėjimo paaiškinimus gali teikti per Tarnybos nustatytą terminą, kuris negali būti trumpesnis kaip 14 darbo dienų nuo dienos, kurią pažeidėjas ir (ar) jo įgaliotas atstovas gauna šio straipsnio 2 dalyje nurodytą protokolą.
-
-6. Tarnybos sprendimu į bylą gali būti įtraukti kiti ūkio subjektai, su kurių interesais tiesiogiai susijusi nagrinėjama byla, ekspertai, specialistai ir kiti asmenys.
-
-7. Pažeidėjo ir (ar) jo atstovo neatvykimas į bylos nagrinėjimą nekliudo ją nagrinėti, jeigu jis buvo laiku informuotas apie bylos nagrinėjimo vietą ir laiką ir jeigu iki bylos nagrinėjimo pradžios pažeidėjas ir (ar) jo įgaliotas atstovas nepateikia savo neatvykimą pateisinančių dokumentų, kuriuose nurodytas neatvykimo priežastis Tarnyba pripažįsta svarbiomis. Tinkamu pranešimu apie bylos nagrinėjimo vietą ir laiką laikytinas pranešimas, išsiųstas pažeidėjo ir (ar) jo atstovo protokole nurodytu adresu registruotu paštu arba elektroniniu paštu.
-
-8. Išnagrinėjusi bylą, Tarnyba priima nutarimą. Nutarime nurodoma: nutarimą priėmusios institucijos pavadinimas, bylos nagrinėjimo data ir vieta, duomenys apie pažeidėją, pažeidimo aplinkybės, įrodymai, kuriais grindžiamas nutarimas, šio įstatymo straipsnis, kuriame nustatyta atsakomybė už pašarų saugą reglamentuojančių teisės aktų pažeidimą, priimtas sprendimas, jo apskundimo terminai ir tvarka.
-
-9. Tarnybos nutarimai ir sprendimai dėl poveikio priemonių taikymo turi būti skelbiami Tarnybos interneto svetainėje ne vėliau kaip per 2 darbo dienas nuo jų priėmimo.
-
-19 straipsnis. Tarnybos nutarimų apskundimas
-
-1. Pašarų ūkio subjektas Tarnybos nutarimus dėl įspėjimų ar baudų už pašarų saugos reikalavimų pažeidimus skyrimo per 20 kalendorinių dienų nuo nutarimo priėmimo dienos gali apskųsti Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-2. Kreipimasis į teismą nesustabdo nutarimo vykdymo, jeigu teismas nenustato kitaip.
-
-20 straipsnis. Baudų išieškojimas
-
-1. Paskirtos baudos, nustatytos šio įstatymo 15 straipsnyje, į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kurią pažeidėjas gavo nutarimą dėl baudos už pašarų saugos pažeidimus skyrimo. Įvertinusi atsakomybėn traukiamo pašarų ūkio subjekto finansinę padėtį ir kitas reikšmingas aplinkybes, jo rašytiniu prašymu Tarnyba, kai pašarų ūkio subjektas pateikia finansinę padėtį ar kitas reikšmingas aplinkybes pagrindžiančius įrodymus, priimdama nutarimą dėl baudos už pašarų saugos pažeidimus skyrimo ir atsižvelgdama į gautą rašytinį prašymą dėl baudos mokėjimo dalimis ir skiriamos baudos dydį, gali leisti paskirtą baudą sumokėti dalimis per nustatytą ne ilgesnį kaip dvejų metų laikotarpį. Po nutarimo dėl baudos už pašarų saugos pažeidimus skyrimo priėmimo paskirtos baudos mokėjimo tvarkos klausimai sprendžiami Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
-
-2. Tarnybos nutarimas dėl baudos už pašarų saugos reikalavimų pažeidimus skyrimo yra vykdomasis dokumentas, kuris vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimas dėl baudos už pašarų saugos reikalavimų pažeidimus skyrimo gali būti perduotas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos.
-
-21 straipsnis. Atsakomybė už nesąžiningą pašarų ūkio subjekto veiklą
-
-1. Tarnyba už nesąžiningą pašarų ūkio subjekto veiklą pašarų ūkio subjektams skiria iki 6 procentų bendrųjų metinių pajamų baudą. Jeigu pašarų ūkio subjektas veikia trumpiau negu vienus metus, bauda skiriama iki 3 procentų jo pajamų einamaisiais finansiniais metais, bet ne didesnė negu 100 000 eurų.
-
-2. Pašarų ūkio subjekto bendrosios metinės pajamos, pagal kurias skaičiuojamas skiriamos baudos dydis, nustatomos pagal paskutinių asmens sudarytų (pasirašytų) metinių finansinių ataskaitų ar pajamų deklaracijų duomenis.
-
-3. Tais atvejais, kai sunku ar neįmanoma nustatyti pašarų ūkio subjekto bendrųjų metinių pajamų arba bendrosios metinės pajamos yra mažesnės negu 200 000 eurų, Tarnyba vietoj šio straipsnio 1 dalyje nurodytos baudos pašarų ūkio subjektui skiria iki 12 000 eurų baudą.
-
-4. Jeigu dėl šio straipsnio 1 dalyje nurodytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių arba padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba 3 dalyje nurodytus baudų dydžius, Tarnyba turi teisę skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio.
-
-5. Skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio 6 ir 7 dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Jeigu nustatomos vien lengvinančios ar kitos asmens padėtį gerinančios aplinkybės, baudos dydis yra mažinamas, o jeigu nustatomos vien sunkinančios ar kitos asmens padėtį bloginančios aplinkybės, baudos dydis yra didinamas. Kai yra ir atsakomybę lengvinančių ar kitų asmens padėtį gerinančių, ir atsakomybę sunkinančių ar kitų asmens padėtį bloginančių aplinkybių, baudos dydis mažinamas arba didinamas atsižvelgiant į aplinkybių skaičių ir reikšmingumą.
-
-6. Skiriant baudą, lengvinančiomis aplinkybėmis yra laikomos aplinkybės, nurodytos šio įstatymo 16 straipsnio 3 dalyje.
-
-7. Skiriant baudą, sunkinančiomis aplinkybėmis yra laikomos aplinkybės, nurodytos šio įstatymo 16 straipsnio 4 dalyje.
-
-8. Šiame straipsnyje nurodytas pažeidimas nagrinėjamas, Tarnybos nutarimas dėl paskirtos baudos skundžiamas, baudos išieškomos šio įstatymo 18, 19 ir 20 straipsniuose nustatyta tvarka.
-
-22 straipsnis. Nuobaudų už pašarus reglamentuojančių teisės aktų pažeidimus skyrimas
-
-1. Kai vienas pašarų ūkio subjektas padaro du arba daugiau pašarus reglamentuojančių teisės aktų pažeidimų, nuobauda skiriama už kiekvieną pažeidimą atskirai.
-
-2. Kai pašarų ūkio subjekto vienu metu padaryta veika ar veikos užtraukia administracinę atsakomybę pagal kelis šio įstatymo ir (ar) Administracinių nusižengimų kodekso straipsnius ar kelias straipsnio dalis, galutinė nuobauda šiam pašarų ūkio subjektui skiriama pagal sankciją, nustatytą už sunkesnįjį iš padarytų nusižengimų.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
-
-Lietuvos Respublikos
-
-pašarų įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras.
-
-2. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1831/2003 dėl priedų, skirtų naudoti gyvūnų mityboje.
-
-3. 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 183/2005, nustatantis pašarų higienos reikalavimus.
-
-4. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 767/2009 dėl pašarų tiekimo rinkai ir naudojimo, iš dalies keičiantis Reglamentą (EB) Nr. 1831/2003 ir panaikinantis Direktyvas 79/373/EEB, 80/511/EEB, 82/471/EEB, 83/228/EB, 93/74/EEB, 93/113/EB, 96/25/EB bei Sprendimą 2004/217/EB.
-
-5. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB, ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas).
-
-6. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/4 dėl vaistinių pašarų gamybos, pateikimo rinkai ir naudojimo, kuriuo iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 183/2005 ir panaikinama Tarybos direktyva 90/167/EEB.
-
 Pakeitimai:
 
 1.
@@ -364,36 +242,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1832, 2000-07-11, Žin., 2000, Nr. 61-1834 (2000-07-26), i. k. 1001010ISTAIII-1832
 
 Lietuvos Respublikos pašarų įstatymo 3, 4, 8 straipsnių pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-2210, 2004-04-29, Žin., 2004, Nr. 73-2541 (2004-04-30), i. k. 1041010ISTA0IX-2210
-
-Lietuvos Respublikos pašarų įstatymo pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-654, 2010-01-14, Žin., 2010, Nr. 12-560 (2010-01-30), i. k. 1101010ISTA00XI-654
-
-Lietuvos Respublikos pašarų įstatymo pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1094, 2010-11-04, Žin., 2010, Nr. 137-6995 (2010-11-23), i. k. 1101010ISTA0XI-1094
-
-Lietuvos Respublikos pašarų įstatymo 8 straipsnio pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-3209, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15403
-
-Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 pakeitimo įstatymas
 
