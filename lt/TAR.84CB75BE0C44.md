@@ -4,7 +4,7 @@ identifier: "TAR.84CB75BE0C44"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-31"
-last_updated: "2001-06-26"
+last_updated: "2001-07-10"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.84CB75BE0C44"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -48,51 +48,47 @@ mokėtojai ir objektas
 
 asmenų pelno mokestį moka:
 
-a) juridinio
+a) Lietuvos Respublikos
 
-asmens teises turinčios įmonės, kurių veiklą reglamentuoja Lietuvos Respublikos
+juridiniai asmenys, išskyrus individualias (personalines) įmones ir ūkines
 
-įmonių įstatymas;
+bendrijas bei juridinius asmenis, kurie verčiasi nekomercine veikla ir negavo
 
-b) juridiniai
+pajamų iš ūkinės komercinės veiklos, taip pat Lietuvos banką, valstybės įmonę
 
-asmenys, užsiimantys nekomercine veikla, bet gavę pajamų iš komercinės-ūkinės
+Indėlių draudimo fondą ir biudžetines įstaigas, gavusias nebiudžetinių lėšų.
 
-veiklos, išskyrus Lietuvos banką, valstybės įmonę Indėlių draudimo fondą ir biudžetinių
+Lietuvos Respublikos individualių (personalinių) įmonių ir ūkinių bendrijų
 
-įstaigų nebiudžetines lėšas;
+pajamos apmokestinamos Lietuvos Respublikos fizinių asmenų pajamų mokesčio
 
-c) užsienio
+laikinojo įstatymo IV dalyje nustatyta tvarka;
 
-valstybių įmonės, kurių veiklą reglamentuoja užsienio valstybių įstatymai ir
+b) užsienio juridiniai asmenys ir kitos
 
-kurių buveinė yra užsienio valstybėje, - šio įstatymo nustatyta tvarka;
+organizacijos, kurių veiklą reglamentuoja užsienio valstybių įstatymai ir kurių
 
-**d) nuolatinės
+buveinė yra užsienio valstybėje, - šio įstatymo nustatyta tvarka;
 
-buveinės. Užsienio valstybės įmonė laikoma turinčia nuolatinę buveinę, jeigu ji
+c) nuolatinės
 
-Lietuvoje: nuolat vykdo savo komercinę-ūkinę veiklą arba jos dalį; arba vykdo
+buveinės. Užsienio juridinis asmuo arba kita organizacija laikoma turinčia
 
-savo komercinę-ūkinę veiklą per priklausomą atstovą (agentą); arba naudoja
+nuolatinę buveinę, jeigu ji Lietuvoje: nuolat vykdo savo ūkinę komercinę veiklą
 
-statybos teritoriją, statybos, surinkimo ar įrangos objektą; arba gamtinių
+arba jos dalį; arba vykdo savo ūkinę komercinę veiklą per priklausomą atstovą
 
-išteklių tyrimui ar gavybai naudoja įrangą arba konstrukciją, įskaitant tam
+(agentą); arba naudoja statybos teritoriją, statybos, surinkimo ar įrangos
 
-naudojamus gręžinius arba laivus. Komercinės-ūkinės veiklos nuolatinumo
+objektą; arba gamtinių išteklių tyrimui ar gavybai naudoja įrangą arba
 
-apibrėžimą, atstovo (agento) statuso priklausomumo ar nepriklausomumo
+konstrukciją, įskaitant tam naudojamus gręžinius arba laivus. Ūkinės komercinės
 
-kriterijus nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota
+veiklos nuolatinumo apibrėžimą, atstovo (agento) statuso priklausomumo ar
 
-institucija.
+nepriklausomumo kriterijus nustato Lietuvos Respublikos Vyriausybė arba jos
 
-**Pastaba: Šios
-
-nuostatos taikomos apskaičiuojant 2000-ųjų ir vėlesnių metų apmokestinamąjį
-
-pelną.
+įgaliota institucija.
 
 Straipsnio
 
@@ -124,47 +120,55 @@ Nr. VIII-1818, 00.07.11, Žin., 2000,
 
 Nr.64-1912 (00.07.31)
 
+Nr. IX-437, 2001-07-10, Žin., 2001, Nr.
+
+62-2235 (2001-07-18)
+
 2 straipsnis. Lietuvos
 
 Respublikos juridinių asmenų pelno mokesčio objektas yra apmokestinamasis
 
 pelnas, apskaičiuotas šio įstatymo II skyriuje nustatyta tvarka.
 
-Užsienio valstybių įmonių mokesčio objektas yra: iš
+Užsienio juridinių asmenų ir kitų organizacijų
 
-Lietuvos Respublikos juridinių asmenų ir užsienio valstybių įmonių nuolatinių
+mokesčio objektas yra: iš Lietuvos Respublikos juridinių asmenų, įskaitant
 
-buveinių Lietuvos Respublikoje (išskyrus atvejus, kai išmokos mokamos užsienio
+individualias (personalines) įmones ir ūkines bendrijas, ir užsienio juridinių
 
-valstybių įmonėms iš jų nuolatinių buveinių) gautos visos pajamos, neatimant
+asmenų arba kitų organizacijų nuolatinių buveinių Lietuvos Respublikoje
 
-jokių sąnaudų, jei šis įstatymas nenustato ko kita, už suteiktas rinkotyros,
+(išskyrus atvejus, kai išmokos mokamos užsienio juridiniams asmenims arba
 
-konsultavimo, tarpininkavimo, projektavimo-konstravimo, darbo organizavimo,
+kitoms organizacijoms iš jų nuolatinių buveinių) gautos visos pajamos,
 
-valdymo, koordinavimo paslaugas, už turto nuomą, už parduotą ar kitaip
+neatimant jokių sąnaudų, jei šis įstatymas nenustato ko kita, už suteiktas
 
-perleistą nuosavybėn Nekilnojamojo turto registre registruojamą nekilnojamąjį
+rinkotyros, konsultavimo, tarpininkavimo, projektavimo-konstravimo, darbo
 
-turtą; autorinis atlyginimas; atlyginimas už perduotas ar autorinėje
+organizavimo, valdymo, koordinavimo paslaugas, už turto nuomą, už parduotą ar
 
-licencinėje sutartyje suteiktas autorių teises ir gretutines teises, taip pat
+kitaip perleistą nuosavybėn nekilnojamojo turto registre registruojamą
 
-už perduotas ar licencinėje sutartyje suteiktas teises naudotis išradimo
+nekilnojamąjį turtą; autorinis atlyginimas; atlyginimas už perduotas ar
 
-patentu, pramoniniu dizainu, puslaidininkio gaminio topografija, prekių ir
+autorinėje licencinėje sutartyje suteiktas autorių teises ir gretutines teises,
 
-paslaugų ženklu, firmos vardu, slapta formule ar metodu, frančize, nuostolių ir
+taip pat už perduotas ar licencinėje sutartyje suteiktas teises naudotis
 
-materialinės žalos atlyginimas už autorių arba gretutinių teisių pažeidimą arba
+išradimo patentu, pramoniniu dizainu, puslaidininkio gaminio topografija,
 
-kompensacijos už autorinių arba gretutinių teisių pažeidimą; palūkanos,
+prekių ir paslaugų ženklu, firmos vardu, slapta formule ar metodu, frančize,
+
+nuostolių ir materialinės žalos atlyginimas už autorių arba gretutinių teisių
+
+pažeidimą arba kompensacijos už autorių arba gretutinių teisių pažeidimą; palūkanos,
 
 išskyrus palūkanas už paskolas, kurias suteikė užsienio valstybių bankai ir
 
-pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos sudarytą ir
+pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos sudarytą
 
-patvirtintą sąrašą tarptautinės finansinės institucijos (institucijos arba
+ir patvirtintą sąrašą tarptautinės finansinės institucijos (institucijos arba
 
 organizacijos, kurių visi nariai arba steigėjai yra kelių valstybių
 
@@ -172,31 +176,33 @@ vyriausybės, taip pat užsienio valstybių fondai ir valstybinės finansinės
 
 institucijos, kurių daugiau kaip 50 procentų akcijų paketo turėtojai yra
 
-užsienio valstybių vyriausybės), ir palūkanas už Lietuvos Respublikos ūkio
+užsienio valstybių vyriausybės), ir palūkanas už Lietuvos Respublikos juridinių
 
-subjektų obligacijas bei už Lietuvos Respublikos Vyriausybės, savivaldybių ir
+asmenų obligacijas bei už Lietuvos Respublikos Vyriausybės, savivaldybių ir
 
 tarptautinių finansinių organizacijų, kurių narė yra Lietuvos Respublika,
 
 vertybinius popierius.
 
-Užsienio
+Užsienio juridinių asmenų ir kitų organizacijų,
 
-valstybių įmonių, įregistruotų lengvatinio mokesčio tarifo valstybėse arba
+įregistruotų lengvatinio mokesčio tarifo valstybėse arba zonose (teritorijose,
 
-zonose (teritorijose, kuriose mokesčiai mažesni negu Lietuvos Respublikoje),
+kuriose mokesčiai mažesni negu Lietuvos Respublikoje), mokesčio objektas yra iš
 
-mokesčio objektas yra iš Lietuvos Respublikos juridinių asmenų ir užsienio
+Lietuvos Respublikos juridinių asmenų, įskaitant individualias (personalines)
 
-valstybių įmonių nuolatinių buveinių Lietuvos Respublikoje (išskyrus atvejus,
+įmones ir ūkines bendrijas, ir užsienio juridinių asmenų arba kitų organizacijų
 
-kai išmokos mokamos užsienio valstybių įmonėms iš jų nuolatinių buveinių)
+nuolatinių buveinių Lietuvos Respublikoje (išskyrus atvejus, kai išmokos
 
-gautos pajamos. Šių valstybių arba zonų sąrašą bei apmokestinamųjų pajamų rūšis
+mokamos užsienio juridiniams asmenims arba kitoms organizacijoms iš jų
 
-ir mokesčio mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos
+nuolatinių buveinių) gautos pajamos. Šių valstybių arba zonų sąrašą bei
 
-įgaliota institucija.
+apmokestinamųjų pajamų rūšis ir mokesčio mokėjimo tvarką nustato Lietuvos
+
+Respublikos Vyriausybė ar jos įgaliota institucija.
 
 Straipsnio
 
@@ -226,6 +232,10 @@ Nr. VIII-1818, 00.07.11, Žin., 2000,
 
 Nr.64-1912 (00.07.31)
 
+Nr. IX-437, 2001-07-10, Žin., 2001, Nr.
+
+62-2235 (2001-07-18)
+
 II.
 
 Apmokestinamojo pelno nustatymas
@@ -236,23 +246,23 @@ apskaičiavimo pagrindas - realizavimo pajamų ir nerealizacinių pajamų suma
 
 (toliau - bendrosios pajamos).
 
-Realizavimo pajamas sudaro iš įmonės išsiųsta
+Realizavimo pajamas sudaro iš juridinio asmens
 
-produkcija, kitos materialinės vertybės, atlikti darbai ir suteiktos paslaugos,
+išsiųsta produkcija, kitos materialinės vertybės, atlikti darbai ir suteiktos
 
-įskaitant pajamas už turto nuomą, kompensaciniai priedai bei grąžinta skolų
+paslaugos, įskaitant pajamas už turto nuomą, kompensaciniai priedai bei
 
-suma, kuri iki mokestinio laikotarpio pradžios buvo atimta iš apmokestinamųjų
+grąžinta skolų suma, kuri iki mokestinio laikotarpio pradžios buvo atimta iš
 
-pajamų, kaip beviltiškų skolų, nustatytų šio įstatymo 5 straipsnio 1 dalies 15
+apmokestinamųjų pajamų, kaip beviltiškų skolų, nustatytų šio įstatymo 5
 
-punkte, suma. Parduodant ilgalaikį materialųjį turtą, įskaitant nebaigtą
+straipsnio 1 dalies 15 punkte, suma. Parduodant ilgalaikį materialųjį turtą,
 
-statybą, pigiau negu jo likutinė vertė, realizavimo pajamas sudarys suma, ne
+įskaitant nebaigtą statybą, pigiau negu jo likutinė vertė, realizavimo pajamas
 
-mažesnė už to turto likutinę vertę. Bankrutavusios įmonės pajamos už parduotą
+sudaro suma, ne mažesnė už to turto likutinę vertę. Bankrutavusio juridinio
 
-turtą realizavimo pajamoms nepriskiriamos.
+asmens pajamos už parduotą turtą realizavimo pajamoms nepriskiriamos.
 
 Nerealizacines
 
@@ -268,13 +278,13 @@ teigiamos įtakos.
 
 pajamas, apskaičiuojant apmokestinamąjį pelną, neįskaitoma:
 
-1) iš Lietuvos
+1) iš Lietuvos Respublikos juridinių asmenų gauti
 
-Respublikos įmonių gauti dividendai (iš kurių išskaičiuotas pelno mokestis) bei
+dividendai (iš kurių išskaičiuotas pelno mokestis) bei iš užsienio juridinių
 
-iš užsienio valstybių įmonių gauti dividendai (nuo kurių sumokėtas pelno
+asmenų ir kitų organizacijų gauti dividendai (nuo kurių sumokėtas pelno
 
-mokestis), palūkanos už Lietuvos Respublikos ūkio subjektų obligacijas, taip
+mokestis), palūkanos už Lietuvos Respublikos juridinių asmenų obligacijas, taip
 
 pat palūkanos už Lietuvos Respublikos Vyriausybės, savivaldybių ir tarptautinių
 
@@ -292,7 +302,7 @@ antrinėje rinkoje;
 
 2) pajininkų iš
 
-kitų įmonių gauta pelno dalis;
+kitų juridinių asmenų gauta pelno dalis;
 
 3) iš draudimo
 
@@ -360,9 +370,9 @@ priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo
 
 įstatyme.
 
-***Bendrosioms pajamoms nepriskiriama iš
+Bendrosioms pajamoms nepriskiriama iš juridinio
 
-įmonės lėšų arba dėl turto vertės padidėjimo akcininkams proporcingai jų turimų
+asmens lėšų arba dėl turto vertės padidėjimo akcininkams proporcingai jų turimų
 
 akcijų skaičiui nemokamai išduotos akcijos arba anksčiau išduotų akcijų
 
@@ -371,12 +381,6 @@ nominalios vertės padidinimo suma.
 **Pastaba. Šio
 
 straipsnio nuostatos taikomos apskaičiuojant 2000-ųjų ir vėlesnių metų
-
-apmokestinamąjį pelną.
-
-***Pastaba. Šios
-
-dalies nuostatos taikomos apskaičiuojant 2001 metų ir vėlesnių metų
 
 apmokestinamąjį pelną.
 
@@ -472,6 +476,10 @@ Nr. IX-381, 2001-06-14, Žin., 2001, Nr.
 
 56-1979 (2001-06-30)
 
+Nr. IX-437, 2001-07-10, Žin., 2001, Nr.
+
+62-2235 (2001-07-18)
+
 4 straipsnis. Iš bendrųjų
 
 pajamų atskaičius 5 straipsnyje nurodytas realizuotos produkcijos, darbų ir
@@ -506,13 +514,11 @@ kalendoriniais metais. Mokestinių metų nuostolių perkėlimo tvarką nustato
 
 finansų ministras. Centrinis mokesčio administratorius mokesčių mokėtojams,
 
-kurių veikla yra sezoninė, jų prašymu gali nustatyti kitokį mokestinį
+kurių veikla yra sezoninė, jų prašymu gali nustatyti kitokį mokestinį laikotarpį
 
-laikotarpį su sąlyga, kad tas laikotarpis bus pastovus (nekeičiamas) ir lygus
+su sąlyga, kad tas laikotarpis bus pastovus (nekeičiamas) ir lygus 12 mėnesių.
 
-12 mėnesių. Centrinis mokesčio administratorius tvirtina tokių mokesčių
-
-mokėtojų sąrašą.
+Centrinis mokesčio administratorius tvirtina tokių mokesčių mokėtojų sąrašą.
 
 Juridinių
 
@@ -628,189 +634,195 @@ Nr. VIII-836,
 
 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
-5 straipsnis. **Nustatant
+5 straipsnis.
 
-bendrąjį apmokestinamąjį pelną, iš bendrųjų įmonės pajamų atimamos šios
+Nustatant bendrąjį apmokestinamąjį pelną, iš bendrųjų juridinio asmens pajamų
 
-faktiškai patirtos įmonės sąnaudos toms pajamoms uždirbti:
+atimamos šios faktiškai patirtos juridinio asmens sąnaudos toms pajamoms
 
-1) materialinės ir joms
+uždirbti:
 
-prilygintos sąnaudos, įskaitant sąnaudas dėl valiutos kurso pasikeitimo
+1) materialinės
+
+ir joms prilygintos sąnaudos, įskaitant sąnaudas dėl valiutos kurso pasikeitimo
 
 neigiamos įtakos, panaudotąją subsidijų ir dotacijų dalį;
 
-2) ilgalaikio turto
+2) ilgalaikio
 
-(materialiojo ir nematerialiojo) nusidėvėjimo (amortizacijos) - Lietuvos
+turto (materialiojo ir nematerialiojo) nusidėvėjimo (amortizacijos) – Lietuvos
 
 Respublikos Vyriausybės nustatyta tvarka;
 
-3) sąnaudos darbo apmokėjimui;
+3) sąnaudos
 
-4) socialinio draudimo sąnaudos;
+darbo apmokėjimui;
 
-5) draudimo įmokų, nustatytų
+4) socialinio
 
-Lietuvos Respublikos draudimo įstatyme, sąnaudos;
+draudimo sąnaudos;
 
-6) mokesčiai, rinkliavos bei
+5) draudimo
 
-kitos privalomos įmokos, nustatytos Lietuvos Respublikos įstatymų bei
+įmokų, nustatytų Lietuvos Respublikos draudimo įstatyme, sąnaudos;
 
-Vyriausybės nutarimų, išskyrus pridėtinės vertės mokestį, mokamą į biudžetą,
+6) mokesčiai,
 
-palūkanas už valstybinio kapitalo naudojimą bei baudas, delspinigius ir kitas
+rinkliavos bei kitos privalomos įmokos, nustatytos Lietuvos Respublikos
 
-sankcijas;
+įstatymų bei Vyriausybės nutarimų, išskyrus pridėtinės vertės mokestį, mokamą į
 
-7) palūkanos už paskolas ir
+biudžetą, palūkanas už valstybinio kapitalo naudojimą bei baudas, delspinigius
 
-įmokos, susijusios su paskolų garantijų gavimu;
+ir kitas sankcijas;
 
-8) specialieji atidėjimai bankų,
+7) palūkanos už
 
-kredito unijų abejotiniems aktyvams ir draudimo įmonių (draudikų) formuojami
+paskolas ir įmokos, susijusios su paskolų garantijų gavimu;
 
-techniniai draudimo atidėjimai bei perdraudimui tenkanti draudimo įmokų dalis,
+8) specialieji
 
-išskyrus draudimo įmokų grąžinimo techninį atidėjimą;
+atidėjimai bankų, kredito unijų abejotiniems aktyvams ir draudimo įmonių
 
-9) Ignalinos atominės elektrinės
+(draudikų) formuojami techniniai draudimo atidėjimai bei perdraudimui tenkanti
 
-papildomos sąnaudos, nustatytos Lietuvos Respublikos Vyriausybės nutarimų,
+draudimo įmokų dalis, išskyrus draudimo įmokų grąžinimo techninį atidėjimą;
 
-nenumatytos šiame straipsnyje;
+9) Ignalinos
 
-10) pirkimo ir sumokėto importo
+atominės elektrinės papildomos sąnaudos, nustatytos Lietuvos Respublikos
 
-pridėtinės vertės mokesčio sumos, neatskaitomos pagal Pridėtinės vertės
+Vyriausybės nutarimų, nenumatytos šiame straipsnyje;
 
-mokesčio įstatymo nuostatas;
+10) pirkimo ir
 
-11)
+sumokėto importo pridėtinės vertės mokesčio sumos, neatskaitomos pagal
 
-nuosavo ir išperkamosios nuomos būdu turimo ilgalaikio materialiojo turto remonto
+Pridėtinės vertės mokesčio įstatymo nuostatas;
 
-sąnaudų dalis, per mokestinį laikotarpį neviršijanti 50 procentų šio turto
+11) nuosavo ir
 
-įsigijimo vertės. Jeigu remonto vertė viršija 50 procentų nuosavo ar
+išperkamosios nuomos būdu turimo ilgalaikio materialiojo turto remonto sąnaudų
 
-išperkamosios nuomos būdu turimo ilgalaikio turto įsigijimo vertės arba jeigu
+dalis, per mokestinį laikotarpį neviršijanti 50 procentų šio turto įsigijimo
 
-atliekami minėto turto rekonstravimo darbai, tai to ilgalaikio materialiojo
+vertės. Jeigu remonto vertė viršija 50 procentų nuosavo ar išperkamosios nuomos
 
-turto įsigijimo vertė didinama visa remonto ir rekonstravimo darbų verte.
+būdu turimo ilgalaikio turto įsigijimo vertės arba jeigu atliekami minėto turto
 
-Rekonstravimui priskiriami statybos darbai nustatomi vadovaujantis Statybos
+rekonstravimo darbai, tai to ilgalaikio materialiojo turto įsigijimo vertė
 
-įstatymu. Nekilnojamojo turto, kurį savivaldybės, valstybės valdžios ir valdymo
+didinama visa remonto ir rekonstravimo darbų verte. Rekonstravimui priskiriami
 
-institucijos bei valstybės (savivaldybės) įmonės išnuomojo arba perdavė
+statybos darbai nustatomi vadovaujantis Statybos įstatymu. Nekilnojamojo turto,
 
-neatlygintinai naudotis pagal panaudos sutartis, nuomininko (panaudos gavėjo)
+kurį savivaldybės, valstybės valdžios ir valdymo institucijos bei valstybės
 
-patirtos remonto, rekonstravimo ir eksploatavimo sąnaudos Lietuvos Respublikos
+(savivaldybės) įmonės išnuomojo arba perdavė neatlygintinai naudotis pagal
 
-Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais ir tvarka
+panaudos sutartis, nuomininko (panaudos gavėjo) patirtos remonto, rekonstravimo
 
-pripažįstamos mažinančiomis bendrąsias pajamas. Taip pat pagal nuomos
+ir eksploatavimo sąnaudos Lietuvos Respublikos Vyriausybės arba jos įgaliotos
 
-(panaudos) sutartį nuomojamo iš kitų asmenų ilgalaikio materialiojo turto
+institucijos nustatytais atvejais ir tvarka pripažįstamos mažinančiomis
 
-patirtos remonto (sąnaudų dalis, neviršijanti 50 procentų šio turto įsigijimo
+bendrąsias pajamas. Taip pat pagal nuomos (panaudos) sutartį nuomojamo iš kitų
 
-vertės) ir eksploatavimo sąnaudos pripažįstamos mažinančiomis bendrąsias
+asmenų ilgalaikio materialiojo turto patirtos remonto (sąnaudų dalis,
 
-pajamas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
+neviršijanti 50 procentų šio turto įsigijimo vertės) ir eksploatavimo sąnaudos
 
-nustatytais atvejais ir tvarka;
+pripažįstamos mažinančiomis bendrąsias pajamas Lietuvos Respublikos Vyriausybės
 
-12)
+ar jos įgaliotos institucijos nustatytais atvejais ir tvarka;
 
-Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyti
+12) Lietuvos
 
-ribojamo dydžio natūralios netekties nuostoliai ir komandiruočių sąnaudos bei
+Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyti ribojamo dydžio
 
-įmonės patirtų reprezentacinių sąnaudų suma, tačiau šios reprezentacinės
+natūralios netekties nuostoliai ir komandiruočių sąnaudos bei juridinio asmens
 
-sąnaudos neturi viršyti 1 procento įmonės realizavimo pajamų. Reprezentacinės
+patirtų reprezentacinių sąnaudų suma, tačiau šios reprezentacinės sąnaudos
 
-sąnaudos šiame įstatyme - tokios įmonės lėšos, kurias įmonė skiria naujiems
+neturi viršyti 1 procento juridinio asmens realizavimo pajamų. Reprezentacinės
 
-verslo ryšiams sukurti arba esamiems ryšiams su kitais juridiniais ar fiziniais
+sąnaudos šiame įstatyme – tokios juridinio asmens lėšos, kurias juridinis asmuo
 
-asmenimis, išskyrus įmonės darbuotojus, pagerinti. Reprezentacinės sąnaudos
+skiria naujiems verslo ryšiams sukurti arba esamiems ryšiams su kitais
 
-patiriamos konkrečių asmenų naudai. Reprezentacinės sąnaudos pripažįstamos
+juridiniais ar fiziniais asmenimis, išskyrus juridinio asmens darbuotojus,
 
-mažinančiomis bendrąsias pajamas Lietuvos Respublikos Vyriausybės ar jos
+pagerinti. Reprezentacinės sąnaudos patiriamos konkrečių asmenų naudai.
 
-įgaliotos institucijos nustatyta tvarka;
+Reprezentacinės sąnaudos pripažįstamos mažinančiomis bendrąsias pajamas
 
-13) įmonės darbuotojų naudai
+Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta
 
-pagal Lietuvos Respublikos pensijų fondų įstatymą mokamos įmokos į asmenines
+tvarka;
 
-pensijų programų dalyvių sąskaitas, tačiau ne daugiau kaip 25 procentai per
+13) juridinio
 
-mokestinius metus šiems darbuotojams apskaičiuotų su darbo santykiais susijusių
+asmens darbuotojų naudai pagal Lietuvos Respublikos pensijų fondų įstatymą
 
-pajamų;
+mokamos įmokos į asmenines pensijų programų dalyvių sąskaitas, tačiau ne
 
-14) stojamųjų narių įnašų suma
+daugiau kaip 25 procentai per mokestinius metus šiems darbuotojams apskaičiuotų
 
-ir narių mokesčių suma, ne didesnė kaip 0,2 procento realizavimo pajamų, bei
+su darbo santykiais susijusių pajamų;
 
-tikslinių nario įmokų suma, ne didesnė kaip 0,2 procento realizavimo pajamų,
+14) stojamųjų
 
-jei šie įnašai, mokesčiai ir tikslinės įmokos sumokami juridiniams asmenims,
+narių įnašų suma ir narių mokesčių suma, ne didesnė kaip 0,2 procento
 
-kurių veiklą reglamentuoja specialūs įstatymai ir kurių veiklos tikslas nėra
+realizavimo pajamų, bei tikslinių nario įmokų suma, ne didesnė kaip 0,2
 
-pelno siekimas, o gautas pelnas negali būti skiriamas jų steigėjams ir (arba)
+procento realizavimo pajamų, jei šie įnašai, mokesčiai ir tikslinės įmokos
 
-dalininkams, ir (arba) nariams;
+sumokami juridiniams asmenims, kurių veiklą reglamentuoja specialūs įstatymai
+
+ir kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti
+
+skiriamas jų steigėjams ir (arba) dalininkams, ir (arba) nariams;
 
 15) mokestiniu
 
 laikotarpiu atsiradusi beviltiškų skolų suma, jei iki mokestinio laikotarpio ta
 
-suma buvo įtraukta į įmonės (mokesčio mokėtojo) realizavimo pajamas, tačiau jei
+suma buvo įtraukta į juridinio asmens (mokesčio mokėtojo) realizavimo pajamas,
 
-beviltiškų skolų suma buvo įtraukta į įmonės (mokesčio mokėtojo) realizavimo
+tačiau jei beviltiškų skolų suma buvo įtraukta į juridinio asmens (mokesčio
 
-pajamas iki 1999 m. gruodžio 31 d., tai beviltiškų skolų suma į įmonės
+mokėtojo) realizavimo pajamas iki 1999 m. gruodžio 31 d., tai beviltiškų skolų
 
-sąnaudas, mažinančias apmokestinamąjį pelną, perkeliama lygiomis dalimis per
+suma į juridinio asmens sąnaudas, mažinančias apmokestinamąjį pelną, perkeliama
 
-penkerius metus, pradedant tuo mokestiniu laikotarpiu, kuriuo įsigaliojo šio
+lygiomis dalimis per penkerius metus, pradedant tuo mokestiniu laikotarpiu,
 
-punkto nuostatos. Skolos yra laikomos beviltiškomis, jei įmonė (mokesčio
+kuriuo įsigaliojo šio punkto nuostatos. Skolos yra laikomos beviltiškomis, jei
 
-mokėtojas) negali jų susigrąžinti, praėjus ne mažiau kaip vieneriems metams nuo
+juridinis asmuo (mokesčio mokėtojas) negali jų susigrąžinti, praėjus ne mažiau
 
-skolos sumos įtraukimo į įmonės (mokesčio mokėtojo) realizavimo pajamas, arba
+kaip vieneriems metams nuo skolos sumos įtraukimo į juridinio asmens (mokesčio
 
-skolininkas yra miręs, arba paskelbtas mirusiu, arba likviduotas, arba
+mokėtojo) realizavimo pajamas, arba skolininkas yra miręs, arba paskelbtas
 
-bankrutavęs ir visais šiais atvejais įmonė (mokesčio mokėtojas) įrodo skolos
+mirusiu, arba likviduotas, arba bankrutavęs ir visais šiais atvejais juridinis
 
-beviltiškumą ir pastangas susigrąžinti šias skolas. Šio punkto nuostatos
+asmuo (mokesčio mokėtojas) įrodo skolos beviltiškumą ir pastangas susigrąžinti
 
-netaikomos bankams, taip pat susijusių ūkio subjektų grupių dalyvių
+šias skolas. Šio punkto nuostatos netaikomos bankams, taip pat susijusių ūkio
 
-beviltiškoms tarpusavio skoloms. Susijusių ūkio subjektų grupės sąvoka
+subjektų grupių dalyvių beviltiškoms tarpusavio skoloms. Susijusių ūkio
 
-nustatyta Lietuvos Respublikos konkurencijos įstatyme. Skolų beviltiškumo ir
+subjektų grupės sąvoka nustatyta Lietuvos Respublikos konkurencijos įstatyme.
 
-pastangų šioms skoloms susigrąžinti įrodymo bei beviltiškų skolų sumų
+Skolų beviltiškumo ir pastangų šioms skoloms susigrąžinti įrodymo bei
 
-apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota
+beviltiškų skolų sumų apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė
 
-institucija;
+arba jos įgaliota institucija;
 
-***16) miško
+16) miško
 
 atkūrimo, ugdymo, priežiūros, apsaugos, rekreacijos, gyvūnijos gausinimo, miško
 
@@ -820,31 +832,31 @@ sąnaudos, išskyrus sąnaudas, susijusias su veiklos neigiamu poveikiu aplinkai
 
 ar to poveikio padarytos žalos atlyginimu;
 
-17) stojamasis Lietuvos Respublikos transporto
+17) stojamasis Lietuvos
 
-priemonių savininkų ir valdytojų civilinės atsakomybės draudimo biuro narės
+Respublikos transporto priemonių savininkų ir valdytojų civilinės atsakomybės
 
-mokestis.
+draudimo biuro narės mokestis.
 
-Nustatant apmokestinamąjį pelną, iš bendrųjų įmonės
+Nustatant
 
-pajamų atimami tik juridinę galią turinčiais dokumentais patvirtinti faktiški
+apmokestinamąjį pelną, iš bendrųjų juridinio asmens pajamų atimamos tik
 
-gamybos ir cirkuliacijos kaštai bei įmonės sąnaudos, išvardintos šio straipsnio
+juridinę galią turinčiais dokumentais patvirtintos faktiškai patirtos juridinio
 
-pirmojoje dalyje.
+asmens sąnaudos, išvardytos šio straipsnio pirmojoje dalyje.
 
-Materialinių vertybių įsivežimas iš užsienio turi
+Materialinių vertybių
 
-būti patvirtintas muitinės deklaracijomis.
+įsivežimas iš užsienio turi būti patvirtintas muitinės deklaracijomis.
 
-Įmonių
+Juridinių asmenų
 
-sąnaudomis nelaikomos užsienio valstybių įmonėms tiesiogiai ar per tarpininkus
+sąnaudomis nelaikomos užsienio juridiniams asmenims ir kitoms organizacijoms
 
-išmokėtos sumos, jeigu šio įstatymo nustatyta tvarka jos nėra apmokestintos
+tiesiogiai ar per tarpininkus išmokėtos sumos, jeigu šio įstatymo nustatyta
 
-prie pajamų šaltinio.
+tvarka jos nėra apmokestintos prie pajamų šaltinio.
 
 Sveikatos
 
@@ -857,24 +869,6 @@ fondo lėšų, ir kitoms pajamoms. Apskaičiuojant sveikatos priežiūros įstai
 apmokestinamąjį pelną, iš bendrųjų pajamų neatimamos sąnaudos, tenkančios
 
 paslaugoms, kurios finansuojamos iš Privalomojo sveikatos draudimo fondo lėšų.
-
-**Pastaba: 5 straipsnio 1
-
-dalies nuostatos taikomos tokioms beviltiškų skolų sumoms, kurios buvo
-
-įtrauktos į įmonės (mokesčio mokėtojo) realizavimo pajamas ne anksčiau kaip
-
-1996 metais.
-
-Šios dalies nuostatos
-
-taikomos apskaičiuojant 2000-ųjų ir vėlesnių metų apmokestinamąjį pelną.
-
-***Pastaba. Šios
-
-dalies nuostatos taikomos apskaičiuojant 2001 metų ir vėlesnių metų
-
-apmokestinamąjį pelną.
 
 Straipsnio
 
@@ -972,6 +966,10 @@ Nr. IX-381, 2001-06-14, Žin., 2001, Nr.
 
 56-1979 (2001-06-30)
 
+Nr. IX-437, 2001-07-10, Žin., 2001, Nr.
+
+62-2235 (2001-07-18)
+
 7 straipsnis. Mokesčio
 
 tarifai:
@@ -990,29 +988,33 @@ investicijų apskaičiavimo būdą, apmokestinamasis pelnas, panaudotas
 
 investicijoms, apmokestinamas taikant nulinį (0 procentų) tarifą;
 
-3) užsienio valstybių įmonių (išskyrus užsienio
+3) užsienio juridinių asmenų ir kitų organizacijų
 
-valstybių įmones, nurodytas šios dalies 4 punkte) iš Lietuvos Respublikos
+(išskyrus užsienio juridinius asmenis ir kitas organizacijas, nurodytus šios
 
-juridinių asmenų ir užsienio valstybių įmonių nuolatinių buveinių Lietuvos
+dalies 4 punkte) iš Lietuvos Respublikos juridinių asmenų, įskaitant
 
-Respublikoje (išskyrus tuos atvejus, kai išmokos mokamos užsienio valstybių
+individualias (personalines) įmones ir ūkines bendrijas, ir užsienio juridinių
 
-įmonėms iš jų nuolatinių buveinių) gautos pajamos, neatimant jokių sąnaudų, jei
+asmenų arba kitų organizacijų nuolatinių buveinių Lietuvos Respublikoje
 
-šis įstatymas nenustato ko kita, už suteiktas rinkotyros, konsultavimo,
+(išskyrus tuos atvejus, kai išmokos mokamos užsienio juridiniams asmenims arba
 
-tarpininkavimo, projektavimo-konstravimo, darbo organizavimo, valdymo,
+kitoms organizacijoms iš jų nuolatinių buveinių) gautos pajamos, neatimant
 
-koordinavimo paslaugas, už turto nuomą, už parduotą ar kitaip perleistą
+jokių sąnaudų, jei šis įstatymas nenustato ko kita, už suteiktas rinkotyros,
 
-nuosavybėn Nekilnojamojo turto registre registruojamą nekilnojamąjį turtą, taip
+konsultavimo, tarpininkavimo, projektavimo-konstravimo, darbo organizavimo,
 
-pat palūkanos, išskyrus palūkanas už paskolas, kurias suteikė užsienio
+valdymo, koordinavimo paslaugas, už turto nuomą, už parduotą ar kitaip
 
-valstybių bankai ir pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos
+perleistą nuosavybėn nekilnojamojo turto registre registruojamą nekilnojamąjį
 
-institucijos sudarytą ir patvirtintą sąrašą tarptautinės finansinės
+turtą, taip pat palūkanos, išskyrus palūkanas už paskolas, kurias suteikė
+
+užsienio valstybių bankai ir pagal Lietuvos Respublikos Vyriausybės ar jos
+
+įgaliotos institucijos sudarytą ir patvirtintą sąrašą tarptautinės finansinės
 
 institucijos (institucijos arba organizacijos, kurių visi nariai arba steigėjai
 
@@ -1020,39 +1022,45 @@ yra kelių valstybių vyriausybės, užsienio valstybių fondai ir valstybinės
 
 finansinės institucijos, kurių daugiau kaip 50 procentų akcijų paketo turėtojai
 
-yra užsienio valstybių vyriausybės), ir palūkanas už Lietuvos Respublikos ūkio
+yra užsienio valstybių vyriausybės), ir palūkanas už Lietuvos Respublikos
 
-subjektų obligacijas ir už Lietuvos Respublikos Vyriausybės, savivaldybių bei
+juridinių asmenų obligacijas ir už Lietuvos Respublikos Vyriausybės,
 
-tarptautinių finansinių organizacijų, kurių narė yra Lietuvos Respublika,
+savivaldybių bei tarptautinių finansinių organizacijų, kurių narė yra Lietuvos
 
-vertybinius popierius, apmokestinamos prie pajamų šaltinio taikant 15 procentų
+Respublika, vertybinius popierius, apmokestinamos prie pajamų šaltinio taikant
 
-tarifą; autorinis atlyginimas, atlyginimas už perduotas ar autorinėje licencinėje
+15 procentų tarifą; autorinis atlyginimas, atlyginimas už perduotas ar
 
-sutartyje suteiktas autorių teises ir gretutines teises, taip pat už perduotas
+autorinėje licencinėje sutartyje suteiktas autorių teises ir gretutines teises,
 
-ar licencinėje sutartyje suteiktas teises naudotis išradimo patentu, pramoniniu
+taip pat už perduotas ar licencinėje sutartyje suteiktas teises naudotis
 
-dizainu, puslaidininkio gaminio topografija, prekių ir paslaugų ženklu, firmos
+išradimo patentu, pramoniniu dizainu, puslaidininkio gaminio topografija,
 
-vardu, slapta formule ar metodu, frančize, nuostolių ir materialinės žalos
+prekių ir paslaugų ženklu, firmos vardu, slapta formule ar metodu, frančize,
 
-atlyginimas už autorių arba gretutinių teisių pažeidimą arba kompensacijos už
+nuostolių ir materialinės žalos atlyginimas už autorių arba gretutinių teisių
 
-autorių arba gretutinių teisių pažeidimą - taikant 10 procentų tarifą;
+pažeidimą arba kompensacijos už autorių arba gretutinių teisių pažeidimą –
 
-4) užsienio
+taikant 10 procentų tarifą;
 
-valstybių įmonių, įregistruotų lengvatinio mokesčio tarifo valstybėse arba
+4) užsienio juridinių asmenų ir kitų organizacijų,
 
-zonose, pajamos, gautos iš Lietuvos Respublikos juridinių asmenų ir užsienio
+įregistruotų lengvatinio mokesčio tarifo valstybėse arba zonose, pajamos,
 
-valstybių įmonių nuolatinių buveinių Lietuvos Respublikoje (išskyrus tuos
+gautos iš Lietuvos Respublikos juridinių asmenų, įskaitant individualias
 
-atvejus, kai išmokos mokamos užsienio valstybių įmonėms iš jų nuolatinių
+(personalines) įmones ir ūkines bendrijas, ir užsienio juridinių asmenų arba
 
-buveinių), apmokestinamos prie pajamų šaltinio taikant 15 procentų tarifą.
+kitų organizacijų nuolatinių buveinių Lietuvos Respublikoje (išskyrus tuos
+
+atvejus, kai išmokos mokamos užsienio juridiniams asmenims arba kitoms
+
+organizacijoms iš jų nuolatinių buveinių), apmokestinamos prie pajamų šaltinio
+
+taikant 15 procentų tarifą.
 
 Straipsnio
 
@@ -1109,6 +1117,10 @@ Nr.113-3291 (99.12.30)
 Nr. VIII-1818, 00.07.11, Žin., 2000,
 
 Nr.64-1912 (00.07.31)
+
+Nr. IX-437, 2001-07-10, Žin., 2001, Nr.
+
+62-2235 (2001-07-18)
 
 IV. Mokesčio
 
@@ -1212,13 +1224,13 @@ apmokestinamajam pelnui taikomas 15 procentų pelno mokesčio tarifas. Ši
 
 lengvata netaikoma juridiniams asmenims, kurie verčiasi prekyba alkoholiniais
 
-gėrimais ar tabako gaminiais, didmenine ar mažmenine naftos produktų prekyba (įskaitant
+gėrimais ar tabako gaminiais, didmenine ar mažmenine naftos produktų prekyba
 
-atvejus, kai kartu prekiaujama ir kitomis prekėmis), bei tiems juridiniams
+(įskaitant atvejus, kai kartu prekiaujama ir kitomis prekėmis), bei tiems
 
-asmenims, kurie teikia viešojo maitinimo paslaugas ir pardavinėja alkoholinius
+juridiniams asmenims, kurie teikia viešojo maitinimo paslaugas ir pardavinėja
 
-gėrimus, įskaitant alų bei tabako gaminius.
+alkoholinius gėrimus, įskaitant alų bei tabako gaminius.
 
 Kredito unijos iki 1997 m.
 
@@ -1238,13 +1250,11 @@ pelno mokesčio. Nuo 2003 m. sausio 1 d. kredito unijos pelnas apmokestinamas 70
 
 procentų mažesniu juridinių asmenų pelno mokesčiu.
 
-Organizacijų (įmonių), kurios
+Juridinių asmenų, kurie pagal jų
 
-pagal jų įsteigimą ir veiklą reglamentuojantį įstatymą ar Vyriausybės nutarimą
+įsteigimą ir veiklą reglamentuojantį įstatymą ar Vyriausybės nutarimą yra ne
 
-yra ne pelno siekiančios organizacijos (įmonės), pelno mokesčio tarifas - 5
-
-procentai.
+pelno siekiantys juridiniai asmenys, pelno mokesčio tarifas – 5 procentai.
 
 Investicinių kintamojo
 
@@ -1332,47 +1342,57 @@ Nr. VIII-1685, 00.05.18, Žin., 2000,
 
 Nr.45-1291 (00.06.02)
 
-9 straipsnis. Įmonės, kurių realizavimo
+Nr. IX-437, 2001-07-10, Žin., 2001, Nr.
 
-pajamos už pačių pagamintą produkciją sudaro daugiau kaip 50% visų gautų pajamų
+62-2235 (2001-07-18)
 
-ir kuriose dirba riboto darbingumo dirbantieji, mažina apskaičiuotą pelno
+9 straipsnis.
 
-mokestį tokia tvarka:
+Juridiniai asmenys, kurių realizavimo pajamos už pačių pagamintą produkciją
+
+sudaro daugiau kaip 50 % visų gautų pajamų ir kuriuose dirba riboto darbingumo
+
+dirbantieji, mažina apskaičiuotą pelno mokestį tokia tvarka:
 
 Riboto
 
-darbingumo dirbančiųjų                          Apskaičiuoto pelno mokesčio
+darbingumo dirbančiųjų
+
+dalis tarp
+
+visų dirbančiųjų
+
+Apskaičiuoto
+
+pelno mokesčio
 
 sumažinimas
 
-dalis tarp visų
+Daugiau kaip
 
-dirbančiųjų
+50 %
 
-Daugiau kaip      50%
+100 %
 
-100%
+40–50 %
 
-40-50%
+75 %
 
-75%
+30–40 %
 
-30-40%
+50 %
 
-50%
+20–30 %
 
-20-30%
+25 %
 
-25%
+Kategorijas
 
-Kategorijas asmenų,
+asmenų, kuriems taikomas riboto darbingumo dirbančiųjų statusas, jų dalies tarp
 
-kuriems taikomas riboto darbingumo dirbančiųjų statusas, jų dalies tarp visų
+visų dirbančiųjų apskaičiavimo metodiką ir šios lengvatos taikymo tvarką
 
-dirbančiųjų apskaičiavimo metodiką ir šios lengvatos taikymo tvarką nustato
-
-Lietuvos Respublikos Vyriausybė.
+nustato Lietuvos Respublikos Vyriausybė.
 
 Straipsnio
 
@@ -1395,6 +1415,10 @@ Nr.
 I-848,
 
 95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
+
+Nr. IX-437, 2001-07-10, Žin., 2001, Nr.
+
+62-2235 (2001-07-18)
 
 10 straipsnis. Jeigu mokėtojas
 
@@ -1438,33 +1462,39 @@ apskaičiavimas ir mokėjimas
 
 11 straipsnis. Pelno mokesčio mokėtojai
 
-apskaičiuotą pelno mokestį sumoka į Biudžetinės sandaros įstatymo nustatytą
+apskaičiuotą pelno mokestį sumoka į Lietuvos valstybės biudžetą. Kai užsienio
 
-biudžetą. Kai užsienio įmonių pajamos apmokestinamos prie pajamų šaltinio šio
+juridinių asmenų arba kitų organizacijų pajamos apmokestinamos prie pajamų
 
-įstatymo nustatyta tvarka, pelno mokestį išskaičiuoja ir sumoka tas Lietuvos
+šaltinio šio įstatymo nustatyta tvarka, pelno mokestį išskaičiuoja, sumoka ir
 
-Respublikos juridinis asmuo arba ta nuolatinė buveinė, kurie išmoka joms
+apyskaitas pateikia užsienio juridiniams asmenims arba kitoms organizacijoms
 
-pajamas, ne vėliau kaip per 15 dienų pasibaigus mėnesiui, kurį buvo išmokėtos
+pajamas išmokėjęs Lietuvos Respublikos juridinis asmuo, įskaitant individualias
 
-tos pajamos.
+(personalines) įmones ir ūkines bendrijas, arba nuolatinė buveinė ne vėliau
 
-Užsienio valstybės įmonė,
+kaip per 15 dienų pasibaigus mėnesiui, kurį buvo išmokėtos tos pajamos.
 
-gavusi pajamų už parduotą ar kitaip perleistą nuosavybėn Nekilnojamojo turto
+Apyskaitos formą bei jos pildymo tvarką nustato centrinis mokesčio
 
-registre registruojamą nekilnojamąjį turtą (toliau - turtas), turi teisę
+administratorius.
 
-kreiptis į vietos mokesčio administratorių, kurio veiklos teritorijoje
+Užsienio juridinis asmuo
 
-įregistruotas mokestį išskaičiuojantis asmuo, dėl išskaityto pelno mokesčio už
+arba kita organizacija, gavę pajamų už parduotą ar kitaip perleistą nuosavybėn
 
-parduotą ar kitaip perleistą nuosavybėn turtą perskaičiavimo. Šiuo atveju pelno
+nekilnojamojo turto registre registruojamą nekilnojamąjį turtą (toliau –
 
-mokestis būtų apskaičiuojamas iš pajamų, gautų pardavus ar kitaip perleidus
+turtas), turi teisę kreiptis į vietos mokesčio administratorių, kurio veiklos
 
-nuosavybėn turtą, atėmus išlaidas, patirtas šiam turtui įsigyti arba
+teritorijoje įregistruotas mokestį išskaičiuojantis asmuo, dėl išskaityto pelno
+
+mokesčio už parduotą ar kitaip perleistą nuosavybėn turtą perskaičiavimo. Šiuo
+
+atveju pelno mokestis būtų apskaičiuojamas iš pajamų, gautų pardavus ar kitaip
+
+perleidus nuosavybėn turtą, atėmus išlaidas, patirtas šiam turtui įsigyti arba
 
 pasistatyti.
 
@@ -1516,6 +1546,10 @@ Nr. VIII-1818, 00.07.11, Žin., 2000,
 
 Nr.64-1912 (00.07.31)
 
+Nr. IX-437, 2001-07-10, Žin., 2001, Nr.
+
+62-2235 (2001-07-18)
+
 12 straipsnis. Pelno mokesčio
 
 avanso suma (toliau - pelno avansinis mokestis), kurią mokesčio mokėtojas
@@ -1542,29 +1576,27 @@ mėnesio pelno avansinis mokestis sudarys 1/12 faktiškai per minėtą laikotarp
 
 apskaičiuoto pelno mokesčio sumos.
 
-Įregistruotos
+Įregistruoti nauji juridiniai asmenys pirmaisiais
 
-naujos įmonės pirmaisiais mokestiniais metais atleidžiamos nuo pelno avansinių
+mokestiniais metais atleidžiami nuo pelno avansinių mokesčių. Šie juridiniai
 
-mokesčių. Šios įmonės pelno avansinius mokesčius pradeda mokėti nuo kitų metų
+asmenys pelno avansinius mokesčius pradeda mokėti nuo kitų metų gegužės mėnesio
 
-gegužės mėnesio (mokestinio laikotarpio penktojo mėnesio). Jeigu praėjęs
+(mokestinio laikotarpio penktojo mėnesio). Jeigu praėjęs mokestinis laikotarpis
 
-mokestinis laikotarpis buvo trumpesnis negu dvylika mėnesių, apskaičiuojant
+buvo trumpesnis negu dvylika mėnesių, apskaičiuojant pelno avansinius mokesčius
 
-pelno avansinius mokesčius faktiškai apskaičiuota mokesčio suma laikoma už tą
+faktiškai apskaičiuota mokesčio suma laikoma už tą mokestinį laikotarpį
 
-mokestinį laikotarpį apskaičiuotoji mokesčio suma, padalyta iš to laikotarpio
+apskaičiuotoji mokesčio suma, padalyta iš to laikotarpio mėnesių skaičiaus ir
 
-mėnesių skaičiaus ir padauginta iš dvylikos.
+padauginta iš dvylikos.
 
-Jeigu
+Jeigu praėjusiais mokestiniais metais bendrosios
 
-praėjusiais mokestiniais metais bendrosios pajamos neviršijo 100 tūkst. litų,
+pajamos neviršijo 100 tūkst. litų, juridinis asmuo einamaisiais mokestiniais
 
-įmonė einamaisiais mokestiniais metais pelno avansinių mokesčių mokėti
-
-neprivalo.
+metais pelno avansinių mokesčių mokėti neprivalo.
 
 Mokesčio
 
@@ -1576,23 +1608,23 @@ bendrąsias pajamas arba kad jam pradedamos taikyti šiame įstatyme nustatytos
 
 mokesčių lengvatos, turi teisę ne vėliau kaip prieš mėnesį iki eilinio pelno
 
-avansinio mokesčio mokėjimo termino, nustatyto šio įstatymo 13 straipsnyje, kreiptis
+avansinio mokesčio mokėjimo termino, nustatyto šio įstatymo 13 straipsnyje,
 
-į vietos mokesčio administratorių, kad sumažintų likusius pelno avansinius
+kreiptis į vietos mokesčio administratorių, kad sumažintų likusius pelno
 
-mokesčius arba nuo jų atleistų. Vietos mokesčio administratorius tokiam
+avansinius mokesčius arba nuo jų atleistų. Vietos mokesčio administratorius
 
-mokesčio mokėtojui turi sumažinti mokesčio mokėjimo avansu prievolės sumą
+tokiam mokesčio mokėtojui turi sumažinti mokesčio mokėjimo avansu prievolės
 
-proporcingai sumažėjusioms pajamoms arba atleisti nuo pelno avansinio mokesčio.
+sumą proporcingai sumažėjusioms pajamoms arba atleisti nuo pelno avansinio
 
-Jeigu šio mokesčio mokėtojo einamųjų metų bendrosios pajamos vėl padidėjo iki
+mokesčio. Jeigu šio mokesčio mokėtojo einamųjų metų bendrosios pajamos vėl
 
-25 procentų ir daugiau, jis privalo ne vėliau kaip prieš mėnesį iki eilinio
+padidėjo iki 25 procentų ir daugiau, jis privalo ne vėliau kaip prieš mėnesį
 
-pelno avansinio mokesčio mokėjimo termino kreiptis į vietos mokesčio
+iki eilinio pelno avansinio mokesčio mokėjimo termino kreiptis į vietos
 
-administratorių, kad padidintų likusius pelno avansinius mokesčius.
+mokesčio administratorių, kad padidintų likusius pelno avansinius mokesčius.
 
 Mokesčio mokėtojas gali pasirinkti pelno avansinį
 
@@ -1619,6 +1651,10 @@ I-395,
 Nr. VIII-836,
 
 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+
+Nr. IX-437, 2001-07-10, Žin., 2001, Nr.
+
+62-2235 (2001-07-18)
 
 13 straipsnis. Pelno mokesčio
 
@@ -1672,13 +1708,13 @@ VIII-1218,
 
 metams (mokestiniam laikotarpiui) pasibaigus, iki kitų metų gegužės 1 dienos
 
-(iki kito mokestinio laikotarpio penktojo mėnesio 1 dienos) mokėtojai teritorinėms
+(iki kito mokestinio laikotarpio penktojo mėnesio 1 dienos) mokėtojai
 
-valstybinėms mokesčių inspekcijoms pristato Buhalterinės apskaitos pagrindų
+teritorinėms valstybinėms mokesčių inspekcijoms pristato Buhalterinės apskaitos
 
-įstatymo nustatytą finansinę atskaitomybę ir pelno mokesčio apyskaitą. Šios
+pagrindų įstatymo nustatytą finansinę atskaitomybę ir pelno mokesčio apyskaitą.
 
-apyskaitos bei pelno mokesčio avansinės apyskaitos formas ir jų užpildymo
+Šios apyskaitos bei pelno mokesčio avansinės apyskaitos formas ir jų užpildymo
 
 tvarką nustato centrinis mokesčio administratorius.
 
@@ -1746,9 +1782,9 @@ dienos nesumoka priskaičiuotų delspinigių, tai delspinigiai priskaičiuojami 
 
 sumokami į biudžetą ir už visą atidėjimo laikotarpį. Mokėjimo atidėjimo pradžia
 
-laikoma diena, kurią įsigaliojo priimtas Vyriausybės nutarimas dėl
+laikoma diena, kurią įsigaliojo priimtas Vyriausybės nutarimas dėl priskaičiuotų
 
-priskaičiuotų delspinigių atidėjimo termino nustatymo.
+delspinigių atidėjimo termino nustatymo.
 
 Mokėjimo
 
@@ -1794,11 +1830,11 @@ asmenų pelno mokesčio lengvatos, nustatytos šio įstatymo 8 straipsnio
 
 šeštojoje, septintojoje ir aštuntojoje dalyse, taikomos tais atvejais, kai
 
-įmonė buvo įsteigta (registruota) arba užsienio kapitalas buvo investuotas,
+įmonė buvo įsteigta (registruota) arba užsienio kapitalas buvo investuotas, arba
 
-arba įmonėje užsienio investuotojo (investuotojų) užsienio kapitalo investicija
+įmonėje užsienio investuotojo (investuotojų) užsienio kapitalo investicija yra
 
-yra pasiekusi du milijonus JAV dolerių iki 1997 m. balandžio 1 d.
+pasiekusi du milijonus JAV dolerių iki 1997 m. balandžio 1 d.
 
 ***Pastaba: Šio
 
@@ -1836,11 +1872,11 @@ dalį) ar apskaičiuotą pelno mokestį, Mokesčių administravimo įstatymo nus
 
 tvarka skaičiuojami delspinigiai. Jei mokesčio mokėtojas pelno mokesčio
 
-apyskaitoje sumažina pelno mokesčio sumą arba per mažai sumoka į biudžetą,
+apyskaitoje sumažina pelno mokesčio sumą arba per mažai sumoka į biudžetą, Mokesčių
 
-Mokesčių administravimo įstatymo nustatyta tvarka skiriamos ekonominės
+administravimo įstatymo nustatyta tvarka skiriamos ekonominės sankcijos (baudos
 
-sankcijos (baudos ir delspinigiai).
+ir delspinigiai).
 
 [2 dalies redakcija nuo
 
@@ -1892,69 +1928,67 @@ VII. Kitos
 
 nuostatos
 
-21 straipsnis.
+21 straipsnis. Šiame įstatyme
 
-***Šiame
-
-įstatyme investicijos yra apskaičiuojamos pagal įmonės pasirinktą tik vieną iš
+investicijos yra apskaičiuojamos pagal juridinio asmens pasirinktą tik vieną iš
 
 šių būdų:
 
-1)
+1) pelnas, panaudotas investicijoms į patį juridinį
 
-pelnas, panaudotas investicijoms į savo įmonę, apmokestinamas taikant nulinį (0
+asmenį, apmokestinamas taikant nulinį (0 procentų) tarifą. Šiuo atveju
 
-procentų) tarifą. Šiuo atveju investicija apskaičiuojama tokia tvarka: iš
+investicija apskaičiuojama tokia tvarka: iš naudojamo ilgalaikio materialiojo
 
-naudojamo ilgalaikio materialiojo turto, įskaitant nebaigtą statybą, įsigijimo
+turto, įskaitant nebaigtą statybą, įsigijimo savikainos, įskaitant remonto,
 
-savikainos, įskaitant remonto, kurio vertė viršija 50 procentų šio turto
+kurio vertė viršija 50 procentų šio turto įsigijimo vertės, ir rekonstravimo
 
-įsigijimo vertės, ir rekonstravimo vertę, ir naudojamų licencijuotų kompiuterių
+vertę, ir naudojamų licencijuotų kompiuterių programų (toliau – kompiuterių
 
-programų (toliau - kompiuterių programos) vertės, išskyrus pačios įmonės
+programos) vertės, išskyrus paties juridinio asmens susikurtų kompiuterių
 
-susikurtų kompiuterių programų vertę, buvusių mokestinio laikotarpio pabaigoje,
+programų vertę, buvusių mokestinio laikotarpio pabaigoje, atimama naudoto
 
-atimama naudoto ilgalaikio materialiojo turto, įskaitant nebaigtą statybą,
+ilgalaikio materialiojo turto, įskaitant nebaigtą statybą, įsigijimo savikaina,
 
-įsigijimo savikaina, įskaitant remonto, kurio vertė viršija 50 procentų šio
+įskaitant remonto, kurio vertė viršija 50 procentų šio turto įsigijimo vertės,
 
-turto įsigijimo vertės, ir rekonstravimo vertę, ir naudotų licencijuotų
+ir rekonstravimo vertę, ir naudotų licencijuotų kompiuterių programų vertė,
 
-kompiuterių programų vertė, išskyrus pačios įmonės susikurtų kompiuterių
+išskyrus paties juridinio asmens susikurtų kompiuterių programų vertę, buvusios
 
-programų vertę, buvusios mokestinio laikotarpio pradžioje, ir atimama per
+mokestinio laikotarpio pradžioje, ir atimama per mokestinį laikotarpį
 
-mokestinį laikotarpį ilgalaikiam materialiajam turtui arba kompiuterių
+ilgalaikiam materialiajam turtui arba kompiuterių programoms, išskyrus paties
 
-programoms, išskyrus pačios įmonės susikurtas, įsigyti panaudota ir negrąžinta
+juridinio asmens susikurtas, įsigyti panaudota ir negrąžinta skolintų lėšų
 
-skolintų lėšų likučio suma, taip pat per mokestinį laikotarpį atsiradusio
+likučio suma, taip pat per mokestinį laikotarpį atsiradusio įsigyjant ilgalaikį
 
-įsigyjant ilgalaikį materialųjį turtą arba kompiuterių programas, išskyrus
+materialųjį turtą arba kompiuterių programas, išskyrus paties juridinio asmens
 
-pačios įmonės susikurtas, kreditorinio įsiskolinimo suma, per mokestinį
+susikurtas, kreditorinio įsiskolinimo suma, per mokestinį laikotarpį juridinio
 
-laikotarpį įmonės nemokamai gautų ilgalaikio materialiojo turto arba
+asmens nemokamai gautų ilgalaikio materialiojo turto arba kompiuterių programų
 
-kompiuterių programų vertė bei apskaičiuota per mokestinį laikotarpį įsigyto
+vertė bei apskaičiuota per mokestinį laikotarpį įsigyto ilgalaikio materialiojo
 
-ilgalaikio materialiojo turto arba kompiuterių programų, išskyrus pačios įmonės
+turto arba kompiuterių programų, išskyrus paties juridinio asmens susikurtas, nusidėvėjimo
 
-susikurtas, nusidėvėjimo suma. Parduodant šį ilgalaikį materialųjį turtą arba
+suma. Parduodant šį ilgalaikį materialųjį turtą arba kompiuterių programas,
 
-kompiuterių programas, išskyrus pačios įmonės susikurtas, apmokestinamos visos
+išskyrus paties juridinio asmens susikurtas, apmokestinamos visos gautos
 
-gautos realizavimo pajamos neatimant šio turto likutinės vertės. Kai šis
+realizavimo pajamos neatimant šio turto likutinės vertės. Kai šis ilgalaikis
 
-ilgalaikis materialusis turtas arba kompiuterių programos, išskyrus pačios
+materialusis turtas arba kompiuterių programos, išskyrus paties juridinio
 
-įmonės susikurtas, perduodamas panaudos būdu arba investuojamas į kitą įmonę,
+asmens susikurtas, perduodami panaudos būdu arba investuojami į kitą juridinį
 
-nerealizacinės apmokestinamosios pajamos didinamos šio turto įsigijimo verte.
+asmenį, nerealizacinės apmokestinamosios pajamos didinamos šio turto įsigijimo
 
-Apskaičiuojant šiame straipsnyje nustatyta tvarka apmokestinamąjį pelną,
+verte. Apskaičiuojant šiame straipsnyje nustatyta tvarka apmokestinamąjį pelną,
 
 panaudotą investicijoms, bankų ir kitų kredito įstaigų skolintomis lėšomis
 
@@ -1964,61 +1998,55 @@ terminuoti indėliai;
 
 2) investicija į
 
-savo įmonę - tai kompiuterių programų bei ilgalaikio materialiojo turto
+patį juridinį asmenį – tai kompiuterių programų bei ilgalaikio materialiojo
 
-įsigijimas, pasistatymas, remontas, kurio vertė viršija 50 procentų šio turto
+turto įsigijimas, pasistatymas, remontas, kurio vertė viršija 50 procentų šio
 
-įsigijimo vertės, rekonstravimas arba nebaigta statyba iš įmonės nuosavų arba
+turto įsigijimo vertės, rekonstravimas arba nebaigta statyba iš juridinio
 
-skolintų lėšų. Investicija nelaikomas lengvųjų automobilių įsigijimas, išskyrus
+asmens nuosavų arba skolintų lėšų. Investicija nelaikomas lengvųjų automobilių
 
-įmones, kurių pagrindinė veikla - transporto paslaugos. Kompiuterių programų
+įsigijimas, išskyrus juridinius asmenis, kurių pagrindinė veikla – transporto
 
-susikūrimas nelaikomas kompiuterių programų įsigijimu. Apskaičiuojant bendrąjį
+paslaugos. Kompiuterių programų susikūrimas nelaikomas kompiuterių programų
 
-apmokestinamąjį pelną, investicijai panaudotos lėšos atimamos iš bendrųjų
+įsigijimu. Apskaičiuojant bendrąjį apmokestinamąjį pelną, investicijai
 
-pajamų tik vienu iš šių būdų: įsigijus, pasistačius ilgalaikį materialųjį turtą
+panaudotos lėšos atimamos iš bendrųjų pajamų tik vienu iš šių būdų: įsigijus,
 
-arba įsigijus kompiuterių programas, iš bendrųjų pajamų atskaitoma visa šio
+pasistačius ilgalaikį materialųjį turtą arba įsigijus kompiuterių programas, iš
 
-turto įsigijimo vertė (gauto išperkamosios nuomos būdu - faktiškai apmokėta šio
+bendrųjų pajamų atskaitoma visa šio turto įsigijimo vertė (gauto išperkamosios
 
-turto dalis) arba ilgalaikio materialiojo turto įsigijimo, pasistatymo ar
+nuomos būdu – faktiškai apmokėta šio turto dalis) arba ilgalaikio materialiojo
 
-kompiuterių programų įsigijimo vertė į sąnaudas perkeliama dalimis per jų
+turto įsigijimo, pasistatymo ar kompiuterių programų įsigijimo vertė į sąnaudas
 
-eksploatavimo laikotarpį 5 straipsnio pirmosios dalies 2 punkte nustatyta tvarka.
+perkeliama dalimis per jų eksploatavimo laikotarpį 5 straipsnio pirmosios
 
-Parduodant ilgalaikį materialųjį turtą arba kompiuterių programas, jei šio
+dalies 2 punkte nustatyta tvarka. Parduodant ilgalaikį materialųjį turtą arba
 
-turto įsigijimo vertė buvo iš karto atskaityta iš bendrųjų pajamų,
+kompiuterių programas, jei šio turto įsigijimo vertė buvo iš karto atskaityta
 
-apmokestinamos visos gautos realizavimo pajamos neatimant šio turto likutinės
+iš bendrųjų pajamų, apmokestinamos visos gautos realizavimo pajamos neatimant
 
-vertės. Jeigu šis ilgalaikis materialusis turtas arba kompiuterių programos
+šio turto likutinės vertės. Jeigu šis ilgalaikis materialusis turtas arba kompiuterių
 
-perduodami panaudos būdu arba investuojami į kitą įmonę, nerealizacinės
+programos perduodami panaudos būdu arba investuojami į kitą juridinį asmenį,
 
-apmokestinamosios pajamos didinamos šio turto įsigijimo verte. Kai ilgalaikiam
+nerealizacinės apmokestinamosios pajamos didinamos šio turto įsigijimo verte.
 
-materialiajam turtui arba kompiuterių programoms įsigyti panaudotos lėšos iš
+Kai ilgalaikiam materialiajam turtui arba kompiuterių programoms įsigyti
 
-karto atimamos iš bendrųjų pajamų, šio turto nusidėvėjimas neskaičiuojamas tik
+panaudotos lėšos iš karto atimamos iš bendrųjų pajamų, šio turto nusidėvėjimas
 
-apskaičiuojant pelno mokestį.
+neskaičiuojamas tik apskaičiuojant pelno mokestį.
 
-Įmonės
+Juridinio asmens
 
 pasirinktas investicijos apskaičiavimo būdas nuo 1999 m. sausio 1 d. negali
 
 būti keičiamas.
-
-***Pastaba: Šios dalies
-
-nuostatos taikomos apskaičiuojant 2000-ųjų ir vėlesnių metų apmokestinamąjį
-
-pelną.
 
 Įstatymas
 
@@ -2034,79 +2062,85 @@ Nr. VIII-1818, 00.07.11, Žin., 2000,
 
 Nr.64-1912 (00.07.31)
 
-22 straipsnis.
+Nr. IX-437,
 
-Lietuvos Respublikos juridinių asmenų gaunami dividendai iš kitų Lietuvos
+2001-07-10, Žin., 2001, Nr. 62-2235 (2001-07-18)
 
-Respublikos įmonių bei iš užsienio valstybių įmonių apmokestinami taikant 29
+22 straipsnis. Lietuvos
 
-procentų pelno mokesčio tarifą.
+Respublikos juridinių asmenų gaunami dividendai iš kitų Lietuvos Respublikos
 
-Užsienio
-
-valstybių įmonių iš Lietuvos Respublikos įmonių gaunami dividendai
+juridinių asmenų ir užsienio juridinių asmenų arba kitų organizacijų
 
 apmokestinami taikant 29 procentų pelno mokesčio tarifą.
 
-Dividendus
+Užsienio juridinių asmenų
 
-Lietuvos Respublikos juridiniams asmenims, ūkinėms bendrijoms ir juridinio
+arba kitų organizacijų iš Lietuvos Respublikos juridinių asmenų gaunami
 
-asmens teisių neturinčioms individualioms (personalinėms) įmonėms bei užsienio
+dividendai apmokestinami taikant 29 procentų pelno mokesčio tarifą.
 
-valstybių įmonėms išmokanti Lietuvos Respublikos įmonė mokestį apskaičiuoja,
+Dividendus Lietuvos
 
-išskaito ir sumoka į biudžetą ne vėliau kaip per 10 kalendorinių dienų po
+Respublikos juridiniams asmenims, įskaitant individualias (personalines) įmones
 
-dividendų išmokėjimo dienos.
+bei ūkines bendrijas, ir užsienio juridiniams asmenims arba kitoms
 
-Dividendų išmokėjimo Lietuvos Respublikos
+organizacijoms išmokantis Lietuvos Respublikos juridinis asmuo mokestį
 
-juridiniams asmenims, ūkinėms bendrijoms ir juridinio asmens teisių
+apskaičiuoja, išskaito ir sumoka į Lietuvos valstybės biudžetą ne vėliau kaip
 
-neturinčioms individualioms (personalinėms) įmonėms bei užsienio valstybių
+per 10 kalendorinių dienų po dividendų išmokėjimo dienos.
 
-įmonėms ir pelno (pajamų) mokesčio nuo dividendų išskaičiavimo apyskaita
+Dividendų išmokėjimo
+
+Lietuvos Respublikos juridiniams asmenims, įskaitant individualias (personalines)
+
+įmones bei ūkines bendrijas, ir užsienio juridiniams asmenims arba kitoms
+
+organizacijoms ir pelno (pajamų) mokesčio nuo dividendų išskaičiavimo apyskaita
 
 pateikiama per 10 kalendorinių dienų po dividendų išmokėjimo dienos tam vietos
 
-mokesčio administratoriui, kurio veiklos teritorijoje įregistruota pelno
-
-mokestį apskaičiuojanti ir išskaitanti įmonė. Apyskaitos formą ir jos užpildymo
-
-tvarką nustato centrinis mokesčio administratorius.
-
-Nuo dividendų išskaityto ir sumokėto į biudžetą
-
-pelno mokesčio dydžiu (pajamų mokesčio dydžiu) yra mažinamas praėjusio
-
-mokestinio laikotarpio pelno mokestis, apskaičiuotas nuo apmokestinamojo pelno,
-
-tačiau neviršijant to mokestinio laikotarpio apskaičiuoto pelno mokesčio
-
-dydžio.
-
-Dividendus
-
-iš užsienio valstybių įmonių gaunantis Lietuvos Respublikos juridinis asmuo
-
-mokestį apskaičiuoja ir sumoka į biudžetą ne vėliau kaip per 10 kalendorinių
-
-dienų po dividendų gavimo dienos. Lietuvos Respublikos juridinių asmenų pelno
-
-mokestis, apskaičiuotas nuo apmokestinamojo pelno, nebus mažinamas sumokėtu
-
-pelno mokesčiu nuo dividendų, gaunamų iš užsienio valstybių įmonių. Dividendų
-
-gavimo iš užsienio valstybių įmonių ir pelno mokesčio apskaičiavimo apyskaita
-
-pateikiama per 10 kalendorinių dienų nuo dividendų gavimo dienos tam vietos
-
 mokesčio administratoriui, kurio veiklos teritorijoje įregistruotas pelno
 
-mokestį apskaičiuojantis Lietuvos Respublikos juridinis asmuo. Apyskaitos formą
+mokestį apskaičiuojantis ir išskaitantis juridinis asmuo. Apyskaitos formą ir
 
-ir jos užpildymo tvarką nustato centrinis mokesčio administratorius.
+jos pildymo tvarką nustato centrinis mokesčio administratorius.
+
+Nuo dividendų
+
+išskaityto ir sumokėto į Lietuvos valstybės biudžetą pelno mokesčio dydžiu
+
+(pajamų mokesčio dydžiu) yra mažinamas praėjusio mokestinio laikotarpio pelno
+
+mokestis, apskaičiuotas nuo apmokestinamojo pelno, tačiau neviršijant to
+
+mokestinio laikotarpio apskaičiuoto pelno mokesčio dydžio.
+
+Dividendus iš užsienio
+
+juridinių asmenų arba kitų organizacijų gaunantis Lietuvos Respublikos
+
+juridinis asmuo mokestį apskaičiuoja ir sumoka į Lietuvos valstybės biudžetą ne
+
+vėliau kaip per 10 kalendorinių dienų po dividendų gavimo dienos. Lietuvos
+
+Respublikos juridinių asmenų pelno mokestis, apskaičiuotas nuo apmokestinamojo
+
+pelno, nebus mažinamas sumokėtu pelno mokesčiu nuo dividendų, gaunamų iš
+
+užsienio juridinių asmenų arba kitų organizacijų. Dividendų gavimo iš užsienio
+
+juridinių asmenų arba kitų organizacijų ir pelno mokesčio apskaičiavimo
+
+apyskaita pateikiama per 10 kalendorinių dienų nuo dividendų gavimo dienos tam
+
+vietos mokesčio administratoriui, kurio veiklos teritorijoje įregistruotas
+
+pelno mokestį apskaičiuojantis Lietuvos Respublikos juridinis asmuo. Apyskaitos
+
+formą ir jos pildymo tvarką nustato centrinis mokesčio administratorius.
 
 Įstatymas
 
@@ -2123,6 +2157,10 @@ pakeitimai:
 Nr. VIII-1496, 99.12.23, Žin., 1999,
 
 Nr.113-3291 (99.12.30)
+
+Nr. IX-437,
+
+2001-07-10, Žin., 2001, Nr. 62-2235 (2001-07-18)
 
 LIETUVOS RESPUBLIKOS
 
@@ -2744,33 +2782,33 @@ projektavimo-konstravimo, darbo organizavimo, valdymo, koordinavimo paslaugas,
 
 už turto nuomą, už parduotą ar kitaip perleistą nuosavybėn Nekilnojamojo turto
 
-registre registruojamą nekilnojamąjį turtą, dėl autorinio atlyginimo,
+registre registruojamą nekilnojamąjį turtą, dėl autorinio atlyginimo, atlyginimo
 
-atlyginimo už perduotas ar autorinėje licencinėje sutartyje suteiktas autorių
+už perduotas ar autorinėje licencinėje sutartyje suteiktas autorių teises ir
 
-teises ir gretutines teises, taip pat už perduotas ar licencinėje sutartyje
+gretutines teises, taip pat už perduotas ar licencinėje sutartyje suteiktas
 
-suteiktas teises naudotis išradimo patentu, pramoniniu dizainu, puslaidininkio
+teises naudotis išradimo patentu, pramoniniu dizainu, puslaidininkio gaminio
 
-gaminio topografija, paslaugų ženklu, slapta formule ar metodu, frančize,
+topografija, paslaugų ženklu, slapta formule ar metodu, frančize, nuostolių ir
 
-nuostolių ir materialinės žalos atlyginimo už autorių arba gretutinių teisių
+materialinės žalos atlyginimo už autorių arba gretutinių teisių pažeidimą arba
 
-pažeidimą arba kompensacijų už autorių arba gretutinių teisių pažeidimą bei dėl
+kompensacijų už autorių arba gretutinių teisių pažeidimą bei dėl palūkanų,
 
-palūkanų, išskyrus palūkanas už paskolas, kurias suteikė tarptautinės
+išskyrus palūkanas už paskolas, kurias suteikė tarptautinės finansinės
 
-finansinės institucijos (institucijos arba organizacijos, kurių visi nariai
+institucijos (institucijos arba organizacijos, kurių visi nariai arba steigėjai
 
-arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio valstybių
+yra kelių valstybių vyriausybės, taip pat užsienio valstybių fondai ir
 
-fondai ir valstybinės finansinės institucijos, kurių daugiau kaip 50 procentų
+valstybinės finansinės institucijos, kurių daugiau kaip 50 procentų akcijų
 
-akcijų paketo turėtojai yra užsienio valstybių vyriausybės) apmokestinimo
+paketo turėtojai yra užsienio valstybių vyriausybės) apmokestinimo taikomos nuo
 
-taikomos nuo 2002 m. sausio 1 d. apmokestinant minėtas pajamas ir palūkanas,
+2002 m. sausio 1 d. apmokestinant minėtas pajamas ir palūkanas, gautas pagal
 
-gautas pagal sutartis, sudarytas iki šio įstatymo įsigaliojimo.
+sutartis, sudarytas iki šio įstatymo įsigaliojimo.
 
 34.
 
@@ -2814,27 +2852,39 @@ JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 15 STRAIPSNIO
 
 PAKEITIMO IR 16 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
-Šis įstatymas
+Šis
 
-įsigalioja nuo 2001 m. rugsėjo 1 d.
+įstatymas įsigalioja nuo 2001 m. rugsėjo 1 d.
+
+37.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-437, 2001-07-10, Žin., 2001, Nr.
+
+62-2235 (2001-07-18)
+
+JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 1, 2, 3, 5, 7,
+
+8, 9, 11, 12, 21 IR 22 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
-Redagavo: Aušra Petraitienė (2001-07-18)
+Redagavo: Aušra Petraitienė (2001-07-19)
 
 aupetr@lrs.lt
 
-6 straipsnis. Juridinių
+6 straipsnis. Juridinių asmenų,
 
-asmenų, pagal Lietuvos Respublikos labdaros ir paramos įstatymą turinčių teisę
+pagal Lietuvos Respublikos labdaros ir paramos įstatymą turinčių teisę teikti
 
-teikti labdarą, šio įstatymo 4 straipsnyje nustatyta tvarka apskaičiuotas
+labdarą, šio įstatymo 4 straipsnyje nustatyta tvarka apskaičiuotas bendrasis
 
-bendrasis apmokestinamasis pelnas mažinamas visomis faktiškai padarytomis ir
+apmokestinamasis pelnas mažinamas visomis faktiškai padarytomis ir juridinę
 
-juridinę galią turinčiais dokumentais patvirtintomis išlaidomis, skirtomis
+galią turinčiais dokumentais patvirtintomis išlaidomis, skirtomis labdarai ir
 
-labdarai ir paramai.
+paramai.
 
 Iš kitų
 
@@ -2864,9 +2914,9 @@ paramą paslaugomis, labdaros ir paramos suma yra lygi šių paslaugų suteikimo
 
 savikainai. Teikiant paramą panaudos teise perduodant ilgalaikį materialųjį
 
-turtą, paramos suma lygi apskaičiuotai šio turto nusidėvėjimo per laikotarpį,
+turtą, paramos suma lygi apskaičiuotai šio turto nusidėvėjimo per laikotarpį, kurį
 
-kurį paramos gavėjas naudojo šį turtą, sumai.
+paramos gavėjas naudojo šį turtą, sumai.
 
 Laisvųjų
 
