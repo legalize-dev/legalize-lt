@@ -4,7 +4,7 @@ identifier: "TAR.C828E20E430B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2002-03-27"
+last_updated: "2003-11-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C828E20E430B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įstatymo 8 straipsnio 2 dalies 1, 2 ir 3 punktai ir 11 bei 12 straipsniai įsigalioja nuo 2003-01-01."
 ---
 # Lietuvos Respublikos kino įstatymas
+
+Suvestinė redakcija nuo 2003-11-19 iki 2010-02-28
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 31-1107, i. k. 1021010ISTA00IX-752
 
 LIETUVOS RESPUBLIKOS KINO ĮSTATYMAS
 
@@ -134,11 +138,19 @@ VALSTYBINIS KINO VALDYMAS
 
 6 straipsnis. Kino taryba
 
-1. Kino taryba (toliau – Taryba) yra kolegiali, patariamojo balso teisę turinti visuomeniniais pagrindais veikianti institucija prie Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje. Ji analizuoja Lietuvos kino plėtros ir sklaidos klausimus, nagrinėja kino programas ir filmų gamybos projektus, pretenduojančius gauti valstybės finansavimą, ir pasiūlymus šiais klausimais teikia Vyriausybės įgaliotai institucijai, atsakingai už valstybės politiką kino srityje. Tarybos darbo reglamentą tvirtina pati Taryba.
+1. Kino taryba (toliau – Taryba) yra kolegiali, patariamojo balso teisę turinti institucija, veikianti prie Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje. Ji, kaip ekspertas ir konsultantas, analizuoja Lietuvos kino plėtros ir sklaidos klausimus, nagrinėja kino programas ir filmų gamybos projektus, pretenduojančius gauti valstybės finansavimą, ir pasiūlymus šiais klausimais teikia Vyriausybės įgaliotai institucijai, atsakingai už valstybės politiką kino srityje. Tarybos darbo reglamentą tvirtina pati Taryba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
 
 2. Tarybą sudaro 9 nariai. 3 narius į ją deleguoja Lietuvos kinematografininkų sąjunga, po 1 narį – prodiuserių, filmų platintojų ir rodytojų asociacijos, taip pat Lietuvos radijo ir televizijos asociacija, Lietuvos nacionalinis radijas ir televizija bei Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje.
 
-3. Tarybos sudėtį ir nuostatus tvirtina Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje.
+3. Tarybos sudėtį, nuostatus, teikiamų paslaugų apmokėjimo tvarką tvirtina Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
 
 TREČIASIS SKIRSNIS
 
@@ -170,7 +182,7 @@ KINO FINANSAVIMAS
 
 6) kitoms kino valstybinėms programoms finansuoti.
 
-3.    Lėšų skyrimo tvarką ir sąlygas, atsižvelgdamos į Tarybos pasiūlymus, nustato Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje, ir Vyriausybės įgaliota institucija, atsakinga už kino paveldo apsaugą.
+3. Lėšų skyrimo tvarką ir sąlygas, atsižvelgdamos į Tarybos pasiūlymus, nustato Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje, ir Vyriausybės įgaliota institucija, atsakinga už kino paveldo apsaugą.
 
 4. Lėšų skyrimas yra įforminamas Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje, ir lėšų gavėjų (filmų gamintojų, prodiuserių, platintojų, rodytojų ir t. t.) sutartimis. Valstybės biudžeto lėšos naudojamos tik sutartyse numatytiems įsipareigojimams vykdyti.
 
@@ -188,17 +200,23 @@ KINO FINANSAVIMAS
 
 8 straipsnis. Nacionalinio kino rėmimo programa
 
-1. Filmų gamybai, debiutinių filmų gamybos projektams įgyvendinti, nacionaliniams filmams rodyti, kino priemonėms modernizuoti, kinui populiarinti Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje, sudaro Nacionalinio kino rėmimo programą. Ją tvirtina Vyriausybė.
+1. Filmų gamybai, debiutinių filmų gamybos projektams įgyvendinti, nacionaliniams filmams rodyti, kino priemonėms modernizuoti, kinui populiarinti Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje, sudaro ir tvirtina Nacionalinio kino rėmimo programą.
 
-2. Nacionalinės kino rėmimo programos lėšas sudaro:
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
+
+2.Nacionalinės kino rėmimo programos lėšas sudaro:
 
 1) valstybės biudžeto asignavimai. Planuojant kiekvienų metų valstybės biudžeto išlaidas, Nacionalinio kino rėmimo programai yra numatoma suma, lygi 30 procentų praėjusiais metais apskaičiuoto pridėtinės vertės mokesčio už kino filmų platinimą ir viešą rodymą. Suma apskaičiuojama pagal Statistikos departamento paskelbtus duomenis (pajamos už filmų viešą rodymą kino salėse);
 
-2) 50 procentų atskaitymų nuo mokesčio už televizijos stočių ir kabelinės televizijos veiklos licencijas;
+2) 25 procentai surinkto atlyginimo už garso ir vaizdo (audiovizualinių) kūrinių panaudojimą asmeniniams tikslams (atlyginimo už tuščią vaizdo laikmeną ir asmeniniam atgaminimui skirtą vaizdo įrangą);
 
-3) 25 procentai surinkto atlyginimo už garso ir vaizdo (audiovizualinių) kūrinių panaudojimą asmeniniams tikslams (atlyginimo už tuščią vaizdo laikmeną ir asmeniniam atgaminimui skirtą vaizdo įrangą);
+3) rinkliava už filmų registro duomenų teikimą.
 
-4) rinkliava už filmų registro duomenų teikimą.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
 
 3. Nacionalinės kino rėmimo programos lėšų skyrimo tvarką ir sąlygas, atsižvelgdama į Tarybos pasiūlymus, nustato Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje.
 
@@ -266,7 +284,11 @@ FILMŲ PLATINIMAS, RODYMAS
 
 1. Visi platinami ir rodomi kino teatruose, kino salėse (videosalėse) filmai turi būti indeksuojami pagal žiūrovų amžiaus cenzą.
 
-2. Indeksus, kurie turi būti nurodomi filmų afišose, kitoje reklamoje ir bet kokio pobūdžio informacinėje medžiagoje, skirtoje filmams anonsuoti, suteikia Filmų indeksavimo komisija. Jos sudėtį ir nuostatus Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje, teikimu tvirtina bei Komisijos narių darbo apmokėjimo tvarką nustato Vyriausybė. Ne mažiau kaip pusę Filmų indeksavimo komisijos narių sudaro Lietuvos kinematografininkų sąjungos, prodiuserių, filmų platintojų ir rodytojų asociacijų deleguoti atstovai.
+2. Indeksus, kurie turi būti nurodomi filmų afišose, kitoje reklamoje ir bet kokio pobūdžio informacinėje medžiagoje, skirtoje filmams anonsuoti, suteikia Filmų indeksavimo komisija. Jos sudėtį ir nuostatus Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje, teikimu tvirtina bei Komisijos narių teikiamų paslaugų apmokėjimo tvarką nustato Vyriausybė. Ne mažiau kaip pusę Filmų indeksavimo komisijos narių sudaro Lietuvos kinematografininkų sąjungos, prodiuserių, filmų platintojų ir rodytojų asociacijų deleguoti atstovai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
 
 3. Rinkliavos už filmų indeksavimą dydį bei surinkimo tvarką nustato Vyriausybė.
 
@@ -333,4 +355,14 @@ Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi
 skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 LIETUVOS RESPUBLIKOS SEIMO PIRMININKAS                       ARTŪRAS PAULAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
+
+Lietuvos Respublikos kino įstatymo 6, 8 ir 12 straipsnių pakeitimo įstatymas
 
