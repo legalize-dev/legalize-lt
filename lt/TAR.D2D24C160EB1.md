@@ -4,7 +4,7 @@ identifier: "TAR.D2D24C160EB1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2001-05-09"
+last_updated: "2001-06-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D2D24C160EB1"
 department: "Lietuvos Respublikos Seimas"
@@ -118,9 +118,21 @@ LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 1 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-357, 2001-06-05, Žin., 2001, Nr.
+
+52-1816 (2001-06-20)
+
+LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 14 STRAIPSNIO
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2001 05 11)
+Redagavo: Aušrinė Trapinskienė (2001-06-20)
 
 autrap@lrs.lt
 
@@ -800,6 +812,78 @@ balsavo prieš, susilaikė arba nedalyvavo posėdyje priimant tokį sprendimą.
 
 Ginčus dėl nuostolių atlyginimo sprendžia teismas.
 
+14
+
+straipsnis. Administracija
+
+1.
+
+Fondo veiklą organizuoja ir vykdo administracija.
+
+2.
+
+Administracija dirba vadovaudamasi Lietuvos Respublikos įstatymais ir kitais
+
+teisės aktais, fondo įstatais, pareigybių nuostatais ir valdybos sprendimais.
+
+3. Fonde
+
+turi būti administracijos vadovas ir vyriausiasis finansininkas (buhalteris).
+
+Tas pats asmuo negali eiti abejų pareigų. Vyriausiojo finansininko (buhalterio)
+
+funkcijas pagal sutartį gali atlikti juridinis asmuo.
+
+4. Fondo
+
+valdyba:
+
+1) skiria į
+
+pareigas ir iš jų atleidžia administracijos vadovą ir vyriausiąjį finansininką
+
+(buhalterį);
+
+2) nustato
+
+administracijos vadovo ir vyriausiojo finansininko (buhalterio) pareiginius
+
+atlyginimus, jeigu sudaro su jais darbo sutartis.
+
+5.
+
+Administracijos vadovas priima į darbą kitus administracijos darbuotojus ir
+
+sudaro su jais darbo sutartis, taip pat organizuoja savanoriškus darbus
+
+Vyriausybės nustatyta tvarka.
+
+6. Administracijos vadovas,
+
+vadovaudamasis fondo įstatais, valdybos sprendimais, pareigybės nuostatais,
+
+turi teisę sudaryti fondo sandorius. Fondo įstatuose gali būti nustatytos
+
+veiklos sritys, kuriose savarankiškai veikti ir sudaryti fondo sandorius gali
+
+ir kiti įgalioti asmenys. Administracijos vadovas atstovauja fondui teisme,
+
+valstybės valdžios ir valdymo institucijose, taip pat bendradarbiaujant su
+
+kitais asmenimis.
+
+7.
+
+Administracijos vadovas ir darbuotojai įstatymų nustatyta tvarka privalo
+
+atlyginti fondui dėl savo kaltės padarytus nuostolius.
+
+Straipsnio pakeitimai:
+
+Nr. IX-357, 2001-06-05, Žin., 2001, Nr.
+
+52-1816 (2001-06-20)
+
 14 straipsnis.
 
 Administracija
@@ -870,9 +954,7 @@ revizorius arba auditorius, kuriuos fondo įstatuose nustatytam laikui renka
 
 steigėjų susirinkimas. Revizoriumi (auditoriumi) gali būti fizinis arba
 
-juridinis asmuo, bet ne steigėjas, valdybos narys ar administracijos
-
-darbuotojas.
+juridinis asmuo, bet ne steigėjas, valdybos narys ar administracijos darbuotojas.
 
 2. Revizorius privalo:
 
@@ -922,19 +1004,17 @@ Reorganizavimas
 
 reorganizuotas į kitos rūšies įmonę ar organizaciją.
 
-2. Fondas gali būti
+2. Fondas gali būti reorganizuotas
 
-reorganizuotas steigėjų susirinkimo nutarimu. Galimi fondo reorganizavimo
-
-būdai:
+steigėjų susirinkimo nutarimu. Galimi fondo reorganizavimo būdai:
 
 1) jungiantis su kitais
 
 fondais;
 
-2) skaidant fondą į kelis savarankiškus
+2) skaidant fondą į kelis
 
-fondus.
+savarankiškus fondus.
 
 3. Reorganizuoto fondo visų
 
@@ -978,11 +1058,11 @@ likviduoti fondą už įstatymų nustatytus teisės pažeidimus.
 
 2. Organas, nusprendęs
 
-(nutaręs) likviduoti fondą, skiria likvidatorių ir nustato jo įgaliojimus.
+(nutaręs) likviduoti fondą, skiria likvidatorių ir nustato jo įgaliojimus. Paskyrus
 
-Paskyrus likvidatorių, fondas įgyja likviduojamojo fondo statusą: valdymo
+likvidatorių, fondas įgyja likviduojamojo fondo statusą: valdymo organai
 
-organai netenka įgaliojimų valdyti fondą, jų funkcijas atlieka likvidatorius.
+netenka įgaliojimų valdyti fondą, jų funkcijas atlieka likvidatorius.
 
 3. Fondą likvidavus,
 
