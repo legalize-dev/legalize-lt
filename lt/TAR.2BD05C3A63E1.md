@@ -4,7 +4,7 @@ identifier: "TAR.2BD05C3A63E1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-14"
-last_updated: "1997-07-16"
+last_updated: "1998-12-31"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2BD05C3A63E1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo  2 straipsnis  įsigalioja per 10 d
 ---
 # Laikinosios atsiskaitymų tvarkos ir sąlygų įstatymas
 
-Suvestinė redakcija nuo 1997-07-16 iki 1998-12-30
+Suvestinė redakcija nuo 1998-12-31 iki 1999-04-22
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 31-711, i. k. 0931010ISTA000I-218
 
@@ -71,7 +71,11 @@ Vilnius
 
 5 straipsnis. Įstatymo galiojimas
 
-Įstatymas galioja iki 1998 m. gruodžio 31 d.
+Įstatymas galioja iki kito įstatymo, reglamentuojančio žemės ūkio produkcijos supirkimą bei atsiskaitymą už supirktą žemės ūkio produkciją, įsigaliojimo, bet ne ilgiau kaip iki 1999 m. liepos 1 d.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-992, 1998-12-21, Žin., 1998, Nr. 115-3244 (1998-12-31), i. k. 0981010ISTAVIII-992
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -126,6 +130,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-383, 1997-07-02, Žin., 1997, Nr. 67-1664 (1997-07-16), i. k. 0971010ISTAVIII-383
 
 Lietuvos Respublikos įstatymo "Dėl laikinosios atsiskaitymų tvarkos ir sąlygų" pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-992, 1998-12-21, Žin., 1998, Nr. 115-3244 (1998-12-31), i. k. 0981010ISTAVIII-992
+
+Lietuvos Respublikos laikinosios atsiskaitymų tvarkos ir sąlygų įstatymo 5 straipsnio pakeitimo įstatymas
 
 6 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos banko statuto ir pagrindinio kapitalo“ 4 dalį (Žin., 1990, Nr. 27-636), pagal kurią Lietuvos bankas buvo atleistas nuo mokesčių į valstybės biudžetą, pripažinti netekusia galios.
 
