@@ -4,7 +4,7 @@ identifier: "TAR.6A449FCC534B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-10"
-last_updated: "2003-10-01"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2003-10-01 iki 2004-04-30
+Suvestinė redakcija nuo 2004-05-01 iki 2006-07-26
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
 
@@ -36,11 +36,21 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis Įstatymas nustato koncesijos Lietuvos Respublikoje sampratą, koncesijos sutarties dalyką, koncesininkų atrankos ir koncesijų suteikimo tvarką, suteikiančiųjų institucijų bei koncesininkų įgaliojimus, teises ir pareigas, koncesijos sutarčių turinį, taip pat nustato su tuo susijusius santykius.
+1. Šis Įstatymas nustato koncesijos Lietuvos Respublikoje sampratą, koncesijos sutarties dalyką, koncesininkų atrankos ir koncesijų suteikimo tvarką, suteikiančiųjų institucijų bei koncesininkų įgaliojimus, teises ir pareigas, koncesijos sutarčių turinį, taip pat nustato su tuo susijusius santykius.
+
+2. Šiuo Įstatymu viešosios darbų koncesijos reglamentavimas suderinamas su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo priede.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2200, 2004-04-29, Žin., 2004, Nr. 73-2533 (2004-04-30), i. k. 1041010ISTA0IX-2200
 
 2 straipsnis. Įstatyme vartojamos sąvokos
 
-1. Koncesija – vadovaujantis koncesijos sutartimi ir joje nustatytomis sąlygomis suteikiančiosios institucijos koncesininkui pagal šį Įstatymą suteikiamas specialus leidimas vykdyti ūkinę veiklą, susijusią su infrastruktūros objektų projektavimu, statyba, plėtra, atnaujinimu, pakeitimu, remontu, valdymu, naudojimu ir (ar) priežiūra, teikti viešąsias paslaugas, valdyti ir (ar) naudoti valstybės ar savivaldybės turtą (tarp jų eksploatuoti gamtos išteklius), kai koncesininkas pagal koncesijos sutartį prisiima visą ar didžiąją dalį su tokia veikla susijusios rizikos bei atitinkamas teises ir pareigas.
+1. Koncesija – vadovaujantis koncesijos sutartimi ir joje nustatytomis sąlygomis suteikiančiosios institucijos koncesininkui pagal šį Įstatymą suteikiamas leidimas vykdyti ūkinę veiklą, susijusią su infrastruktūros objektų projektavimu, statyba, plėtra, atnaujinimu, pakeitimu, remontu, valdymu, naudojimu ir (ar) priežiūra, teikti viešąsias paslaugas, valdyti ir (ar) naudoti valstybės ar savivaldybės turtą (tarp jų eksploatuoti gamtos išteklius), kai koncesininkas pagal koncesijos sutartį prisiima visą ar didžiąją dalį su tokia veikla susijusios rizikos bei atitinkamas teises ir pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2200, 2004-04-29, Žin., 2004, Nr. 73-2533 (2004-04-30), i. k. 1041010ISTA0IX-2200
 
 2. Koncesijos sutartis – suteikiančiosios institucijos, kuri veikia valstybės ar savivaldybės vardu, ir koncesininko sudaryta rašytinė sutartis, kurioje nustatomos suteikiančiosios institucijos ir koncesininko teisės ir pareigos, susijusios su koncesija.
 
@@ -54,6 +64,24 @@ BENDROSIOS NUOSTATOS
 
 7. Suteikiančioji institucija – institucija, kuri pagal savo kompetenciją ir įgaliojimus, nustatytus Lietuvos Respublikos teisės aktų, yra atsakinga už atitinkamas funkcijas ar veiklos sritis, kurios gali būti įgyvendinamos ir užtikrinamos suteikiant koncesijas: tai yra Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, – kai koncesija suteikiama valstybės vardu, arba savivaldybės vykdomoji institucija, – kai koncesija suteikiama atitinkamos savivaldybės vardu.
 
+8. Viešoji darbų koncesija – tai koncesija, dėl kurios suteikimo tarp koncesininko ir suteikiančiosios institucijos, kuri atitinka Lietuvos Respublikos viešųjų pirkimų įstatymo 3 straipsnio 1 dalies 1, 2 arba 3 punktų reikalavimus, sudaroma koncesijos sutartis dėl darbų, nurodytų Lietuvos Respublikos viešųjų pirkimų įstatymo 2 straipsnio 21 dalyje, pirkimo. Šios sutarties pagrindu koncesininkui kaip atlyginimas už atliktus darbus suteikiama arba tik teisė eksploatuoti infrastruktūros objektą, kuris yra tokių darbų rezultatas, arba suteikiama tokia teisė ir papildomai mokamas atlyginimas. Šiame įstatyme viešąja darbų koncesija laikoma tik tokia koncesija, kai numatoma koncesijos sutarties pirkimo vertė, nustatyta vadovaujantis Lietuvos Respublikos viešųjų pirkimų įstatymo 8 straipsniu, yra ne mažesnė kaip 17 264 000 litų (5 000 000 eurų)
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2200, 2004-04-29, Žin., 2004, Nr. 73-2533 (2004-04-30), i. k. 1041010ISTA0IX-2200
+
+9. Susijusios įmonės – įmonės, kurias koncesininkas tiesiogiai ar netiesiogiai kontroliuoja arba kurios pačios tiesiogiai ar netiesiogiai kontroliuoja koncesininką, arba kurias kartu su koncesininku tiesiogiai ar netiesiogiai kontroliuoja kita įmonė, turėdama nuosavybės teisę, kapitalo dalį ar įgyvendindama tokiai kontroliuojamai įmonei taikomus teisės aktų reikalavimus. Laikoma, kad įmonės kontroliuoja kitas įmones, jei jos tiesiogiai ar netiesiogiai:
+
+1) turi daugumą tokios kontroliuojamos įmonės išleistų akcijų ar kitokių nuosavybės vertybinių popierių; arba
+
+2) turi daugumą visų balsų, kuriuos suteikia kontroliuojamos įmonės išleistos akcijos ar kitokie nuosavybės vertybiniai popieriai; arba
+
+3) turi galimybę paskirti ar išrinkti daugiau kaip pusę tokios kontroliuojamos įmonės valdymo ar kito organo (išskyrus dalyvių susirinkimą) narių.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2200, 2004-04-29, Žin., 2004, Nr. 73-2533 (2004-04-30), i. k. 1041010ISTA0IX-2200
+
 II SKYRIUS
 
 KONCESIJOS SUTARTIES DALYKAS
@@ -62,7 +90,7 @@ KONCESIJOS SUTARTIES DALYKAS
 
 1. Koncesijos sutartys gali būti sudaromos dėl bet kurios iš šio straipsnio 2 ir (ar) 3 dalyse išvardytos veiklos ir funkcijų.
 
-2. Vadovaujantis koncesijos sutartimi, koncesininkui suteikiamas specialus leidimas vykdyti ūkinę veiklą, susijusią su infrastruktūros objektų projektavimu, statyba, plėtra, atnaujinimu, pakeitimu, remontu, valdymu, naudojimu ir (ar) priežiūra, arba teikti viešąsias paslaugas šiose srityse:
+2. Vadovaujantis koncesijos sutartimi, koncesininkui suteikiamas leidimas vykdyti ūkinę veiklą, susijusią su infrastruktūros objektų projektavimu, statyba, plėtra, atnaujinimu, pakeitimu, remontu, valdymu, naudojimu ir (ar) priežiūra, arba teikti viešąsias paslaugas šiose srityse:
 
 1) energetikos, įskaitant šilumos ir elektros energijos, naftos ir gamtinių dujų išgavimą, perdavimą, skirstymą, tiekimą;
 
@@ -93,6 +121,10 @@ KONCESIJOS SUTARTIES DALYKAS
 14) kultūros, sporto, laisvalaikio leidimo objektų, įrenginių ir kitos infrastruktūros;
 
 15) Lietuvos Respublikos Vyriausybės ar atitinkamos savivaldybės tarybos sprendimu – bet kokioje kitoje srityje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2200, 2004-04-29, Žin., 2004, Nr. 73-2533 (2004-04-30), i. k. 1041010ISTA0IX-2200
 
 3. Pagal koncesijos sutartis koncesininkams gali būti perduotas valdyti ir (ar) naudoti valstybės ar savivaldybės turtas, įskaitant turtą, kuris pagal Lietuvos Respublikos Konstituciją išimtine nuosavybės teise priklauso valstybei, tai yra žemės gelmės, taip pat valstybinės reikšmės vidaus vandenys, miškai, parkai, keliai, istorijos, archeologijos ir kultūros objektai. Pagal koncesijos sutartis gali būti suteiktos teisės naudotis kontinentiniu šelfu ir (ar) ekonomine zona  Baltijos jūroje, į kuriuos valstybė turi išimtines teises, taip pat Lietuvos Respublikos žemės gelmių įstatyme nustatytais žemės gelmių ištekliais (įskaitant naudingąsias iškasenas), žemės gelmių ertmėmis ir kitais gamtos ištekliais. Jeigu koncesijos, kuri suteikiama atviro viešo konkurso būdu, projektui įgyvendinti reikalinga valstybinė ar savivaldybės žemė ir tai numato konkurso sąlygos, teisės į šios žemės sklypus koncesininkui gali būti suteikiamos be aukciono, sudarant su juo nuomos ar kitas įstatymų numatytas sutartis.
 
@@ -314,9 +346,9 @@ SU KONCESIJŲ SUTEIKIMU SUSIJĘ GINČAI
 
 Konkurso, surengto pagal šį Įstatymą, dalyviai, su kuriais nuspręsta nesudaryti koncesijos sutarties, ir kiti asmenys, kurie mano, kad jų teisės suteikiant koncesijas buvo pažeistos, turi teisę ginti savo teises teisme pagal Lietuvos Respublikos įstatymus. Tokie reikalavimai teismui turi būti pateikiami per vieno mėnesio ieškinio senaties terminą nuo pranešimo apie sprendimą sudaryti koncesijos sutartį paskelbimo, kaip numatyta šio Įstatymo 19 straipsnyje, dienos.
 
-IV SKYRIUS
+ŠEŠTASIS SKIRSNIS
 
-KONCESIJOS SUTARTYS
+VIEŠŲJŲ DARBŲ KONCESIJŲ YPATUMAI
 
 21 straipsnis. Suteikiančiosios institucijos dalyvavimo lygiais pagrindais ir sutarties laisvės principų taikymas koncesijos sutarčiai
 
@@ -432,6 +464,22 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
+Lietuvos Respublikos
+
+koncesijų įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 1989 m. gruodžio 21 d. Tarybos direktyva 89/665/EEB dėl įstatymų ir kitų teisės aktų, susijusių su peržiūros procedūrų taikymu sudarant viešojo prekių pirkimo ir viešojo darbų pirkimo sutartis, koordinavimo (su paskutiniais pakeitimais, padarytais 1992 m. birželio 18 d. Tarybos direktyva 92/50/EEB).
+
+2. 1993 m. birželio 14 d. Tarybos direktyva 93/37/EEB dėl viešojo darbų pirkimo sutarčių sudarymo tvarkos derinimo (su paskutiniais pakeitimais, padarytais 2001 m. rugsėjo 13 d. Komisijos direktyva 2001/78/EB).
+
+Papildyta priedu:
+
+Nr. IX-2200, 2004-04-29, Žin., 2004, Nr. 73-2533 (2004-04-30), i. k. 1041010ISTA0IX-2200
+
 Pakeitimai:
 
 1.
@@ -457,4 +505,50 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1647, 2003-06-24, Žin., 2003, Nr. 70-3163 (2003-07-16), i. k. 1031010ISTA0IX-1647
 
 Lietuvos Respublikos koncesijų įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2200, 2004-04-29, Žin., 2004, Nr. 73-2533 (2004-04-30), i. k. 1041010ISTA0IX-2200
+
+Lietuvos Respublikos koncesijų įstatymo 1, 2, 3 straipsnių pakeitimo ir papildymo, III skyriaus papildymo šeštuoju skirsniu ir įstatymo papildymo priedu įstatymas
+
+201 straipsnis. Viešosios darbų koncesijos suteikimo ypatumai
+
+1. Kai koncesijos sutarties dalykas yra darbai ir viešųjų paslaugų teikimas, tokia koncesija laikoma viešąja darbų koncesija, jei pagrindinis tokios koncesijos dalykas yra darbai, o paslaugų teikimas tik papildo koncesininko įsipareigojimą atlikti darbus. Viešąja darbų koncesija nelaikoma koncesija, kurios sutarties pagrindinis dalykas yra viešųjų paslaugų teikimas, o darbai tik papildo koncesininko įsipareigojimą teikti viešąsias paslaugas.
+
+2. Suteikdama viešąją darbų koncesiją, suteikiančioji institucija privalo šio įstatymo III skyriaus antrame skirsnyje nustatyta tvarka organizuoti konkursą bei skelbti apie jį Europos Sąjungos oficialių leidinių tarnybos specialiame leidinyje ir „Valstybės žinių“ priede „Informaciniai pranešimai“ bei interneto „Valstybės žinių“ tinklalapyje. Suteikiančioji institucija, suteikdama viešąją darbų koncesiją, nustato pasiūlymų pateikimo terminą, kuris neturi būti trumpesnis kaip 52 dienos nuo skelbimo išsiuntimo iš Viešųjų pirkimų tarnybos dienos. Skelbimo standartinę formą ir reikalavimus nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Skelbimai rengiami ir skelbiami laikantis Lietuvos Respublikos viešųjų pirkimų įstatymo 19 straipsnyje nustatytų reikalavimų.
+
+3. Suteikdama viešąją darbų koncesiją, suteikiančioji institucija viešosios darbų koncesijos suteikimo konkurso sąlygose gali nustatyti vieną iš šių reikalavimų:
+
+1) kad koncesininkas sutartis dėl darbų, kurių vertė yra ne mažesnė kaip 30 procentų darbų ir dėl kurių numatoma sudaryti koncesijos sutartį, vertės, atlikimo sudarytų su trečiaisiais asmenimis. Viešosios darbų koncesijos suteikimo konkurso dalyviams turi būti sudaryta galimybė pasiūlyti tretiesiems asmenims atlikti darbus, kurių vertė didesnė kaip 30 procentų darbų, dėl kurių numatoma sudaryti koncesijos sutartį, vertės. Tokia pasiūlyta vertė turi būti nurodyta koncesijos sutartyje; arba
+
+2) kad konkurso dalyviai nurodytų darbų, dėl kurių atlikimo jie numato sudaryti sutartis su trečiaisiais asmenimis, vertę. Tokia vertė turi būti nurodoma kaip darbų, dėl kurių numatoma sudaryti koncesijos sutartį, vertės procentinė išraiška.
+
+4. Jei koncesininkas atitinka Lietuvos Respublikos viešųjų pirkimų įstatymo 3 straipsnio 1 dalies reikalavimus, nustatytus perkančiajai organizacijai, visus darbus, reikalingus koncesijos sutarčiai įgyvendinti, jis privalo pirkti vadovaudamasis Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatomis dėl viešojo darbų pirkimo.
+
+5. Jei koncesininkas neatitinka Lietuvos Respublikos viešųjų pirkimų įstatymo 3 straipsnio 1 dalies reikalavimų, nustatytų perkančiajai organizacijai, pirkdamas darbus, reikalingus koncesijos sutarčiai įgyvendinti, dėl kurių atlikimo jis numato sudaryti sutartis su trečiaisiais asmenimis, kai numatoma tokių darbų pirkimo vertė, nustatyta vadovaujantis Lietuvos Respublikos viešųjų pirkimų įstatymo 8 straipsniu, yra ne mažesnė kaip 17 264 000 litų (5 000 000 eurų), jis privalo paskelbti apie darbų pirkimą ir šį pirkimą atlikti skelbiamų derybų būdu, atliekant pirkimo procedūras ir nustatant laimėtoją laikantis lygiateisiškumo, nediskriminavimo, skaidrumo principų. Skelbimo standartinę formą ir reikalavimus nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Skelbimai rengiami ir skelbiami laikantis Lietuvos Respublikos viešųjų pirkimų įstatymo 19 straipsnyje nustatytų reikalavimų. Koncesininkas privalo nustatyti ir nurodyti skelbime galutinius paraiškų dalyvauti pirkime ir pasiūlymų pateikimo terminus. Tokie terminai nustatomi remiantis Lietuvos Respublikos viešųjų pirkimų įstatymo 23 straipsnio 1–4 dalimis, tačiau galutinis paraiškų dalyvauti pirkime pateikimo terminas negali būti trumpesnis kaip 37 dienos, o galutinis pasiūlymų pateikimo terminas – trumpesnis kaip 40 dienų. Apie pirkimą skelbti neprivaloma, jei yra sąlygos, kurioms esant, remiantis Lietuvos Respublikos viešųjų pirkimų įstatymo 45 straipsniu, darbai gali būti perkami neskelbiamų derybų būdu.
+
+6. Šiame straipsnyje trečiuoju asmeniu nelaikoma:
+
+1) dvi ar daugiau įmonių, kurios sudarė konsorciumą ar kitokią grupę tam, kad vadovaujantis šiuo įstatymu būtų pripažinta koncesininku kaip viena įmonė;
+
+2) su koncesininku ar su šios dalies 1 punkte nurodytomis įmonėmis susijusios įmonės.
+
+7. Prieš suteikiant viešąją darbų koncesiją, kiekvienas viešosios darbų koncesijos suteikimo konkurso dalyvis turi pateikti suteikiančiajai institucijai išsamų visų su juo susijusių įmonių sąrašą. Pasikeitus su koncesininku susijusioms įmonėms, toks sąrašas turi būti atitinkamai pakeistas.
+
+8. Šiame straipsnyje išdėstyti viešųjų darbų koncesijų suteikimo ypatumai nėra taikomi Lietuvos Respublikos viešųjų pirkimų įstatymo 9 straipsnio 1 dalyje išvardytiems pirkimams.
+
+202 straipsnis. Pretenzijų ir skundų nagrinėjimas, taikinimas, žalos atlyginimas
+
+Teisės pareikšti pretenziją ar apskųsti perkančiosios organizacijos veiksmus ir sprendimus, pretenzijų pateikimo, nagrinėjimo tvarkos ir terminų, ieškinio pateikimo tvarkos, žalos atlyginimo, Europos Bendrijos teisės pažeidimų nagrinėjimo, taikinimo, atestavimo ir perkančiosios organizacijos vadovų ar kitų įgaliotų asmenų atsakomybės klausimai yra sprendžiami vadovaujantis Lietuvos Respublikos viešųjų pirkimų įstatymo V skyriaus nuostatomis.
+
+Papildyta skirsniu:
+
+Nr. IX-2200, 2004-04-29, Žin., 2004, Nr. 73-2533 (2004-04-30), i. k. 1041010ISTA0IX-2200
+
+IV SKYRIUS
+
+KONCESIJOS SUTARTYS
 
