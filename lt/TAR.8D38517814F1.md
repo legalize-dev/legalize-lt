@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2002-07-01"
+last_updated: "2003-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -36,18 +36,6 @@ ATLIEKŲ TVARKYMO
 Vilnius
 
 Nauja
-
-įstatymo redakcija nuo 2003 m. sausio 1 d.:
-
-Nr.
-
-IX-1004,
-
-2002-07-01, Žin., 2002, Nr. 72-3016 (2002-07-17)
-
-Pirmasis skirsnis
-
-BENDROSIOS NUOSTATOS
 
 1 straipsnis.
 
@@ -91,13 +79,13 @@ privalo atsikratyti ir kurie priklauso atliekų kategorijoms, nurodytoms
 
 sąrašą.
 
-3. Atliekų gamintojas –
+3. Atliekų gamintojas – asmuo,
 
-asmuo, kurio veiklos metu susidaro atliekų arba kuris atlieka atliekų
+kurio veiklos metu susidaro atliekų arba kuris atlieka atliekų rūšiavimo,
 
-rūšiavimo, maišymo ar kitokią operaciją, kurios metu pasikeičia atliekų pobūdis
+maišymo ar kitokią operaciją, kurios metu pasikeičia atliekų pobūdis ar
 
-ar sudėtis.
+sudėtis.
 
 4. Atliekų naudojimas –
 
@@ -203,17 +191,17 @@ savybėmis ir atitinkančios atliekų pavojingumo kriterijus.
 
 Sąvartynams priklauso atliekų šalinimo įrenginiai, kuriuose atliekų gamintojas
 
-šalina savo atliekas jų susidarymo vietoje, ir nuolatiniai (veikiantys ilgiau negu
+šalina savo atliekas jų susidarymo vietoje, ir nuolatiniai (veikiantys ilgiau
 
-metus) įrenginiai, naudojami laikinai saugoti atliekoms, išskyrus įrenginius,
+negu metus) įrenginiai, naudojami laikinai saugoti atliekoms, išskyrus
 
-kuriuose atliekos iškraunamos, kad būtų paruoštos toliau pervežti į naudojimo,
+įrenginius, kuriuose atliekos iškraunamos, kad būtų paruoštos toliau pervežti į
 
-apdorojimo ar šalinimo vietas; įrenginiai, kuriuose atliekos saugomos iki
+naudojimo, apdorojimo ar šalinimo vietas; įrenginiai, kuriuose atliekos
 
-naudojimo ar apdorojimo trumpiau negu trejus metus, ir įrenginiai, kuriuose
+saugomos iki naudojimo ar apdorojimo trumpiau negu trejus metus, ir įrenginiai,
 
-atliekos saugomos iki šalinimo trumpiau negu vienus metus.
+kuriuose atliekos saugomos iki šalinimo trumpiau negu vienus metus.
 
 Antrasis skirsnis
 
@@ -281,11 +269,11 @@ bei kitų teisės aktų nustatyta tvarka turi tvarkyti atliekas pats arba perduo
 
 jas atliekų tvarkytojui.
 
-2. Įmonės, kurių ūkinėje
+2. Įmonės, kurių ūkinėje komercinėje
 
-komercinėje veikloje susidaro atliekų, privalo jas rūšiuoti Vyriausybės ar jos
+veikloje susidaro atliekų, privalo jas rūšiuoti Vyriausybės ar jos įgaliotos
 
-įgaliotos institucijos nustatyta tvarka.
+institucijos nustatyta tvarka.
 
 3. Atliekas surenkančios,
 
@@ -319,9 +307,9 @@ Gamtos išteklių naudojimo leidimai
 
 1. Įmonės, kurių ūkinėje
 
-komercinėje veikloje susidaro atliekų kiekiai, viršijantys Aplinkos
+komercinėje veikloje susidaro atliekų kiekiai, viršijantys Aplinkos ministerijos
 
-ministerijos nustatytus ribinius dydžius, ir įmonės, kurios atliekas naudoja,
+nustatytus ribinius dydžius, ir įmonės, kurios atliekas naudoja,
 
 šalina ar saugo ilgiau, negu nustatyta šio Įstatymo 8 straipsnio 3
 
@@ -421,31 +409,19 @@ Su atliekų tvarkymu susiję dokumentai
 
 turi būti saugomi Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-12 straipsnis.
+įstatymo redakcija nuo 2003 m. sausio 1 d. (12 straipsnis įsigalioja nuo 2003
 
-Pavojingų atliekų tvarkymo licencijavimas
+m. kovo 1 d.):
 
-1. Įmonės, kurios tvarko
+Nr.
 
-(surenka, veža, saugo, šalina ar naudoja) pavojingas atliekas, turi gauti
+IX-1004,
 
-licenciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+2002-07-01, Žin., 2002, Nr. 72-3016 (2002-07-17)
 
-2. Licencijoje turi būti
+Pirmasis skirsnis
 
-nurodytos pavojingų atliekų, kurias licencijos turėtojas gali tvarkyti, rūšys
-
-bei šių atliekų tvarkymo būdai.
-
-3. Licencija gali būti išduodama
-
-tik tai įmonei, kuri pagal šio Įstatymo 6 straipsnio reikalavimus yra gavusi
-
-gamtos išteklių naudojimo leidimą, kurios darbuotojų kvalifikacija atitinka
-
-nustatytus pavojingų atliekų tvarkymo atestacinius reikalavimus ir kurios
-
-veikla apdrausta draudimo kompanijoje.
+BENDROSIOS NUOSTATOS
 
 13 straipsnis.
 
@@ -557,11 +533,11 @@ TVARKYMO valstybinis reglamentavimas
 
 Aplinkos ministerijos funkcijos
 
-1. Aplinkos ministerija
+1. Aplinkos ministerija reglamentuoja
 
-reglamentuoja ir administruoja visų atliekų tvarkymą, kontroliuoja nustatytų
+ir administruoja visų atliekų tvarkymą, kontroliuoja nustatytų reikalavimų ir
 
-reikalavimų ir užduočių įgyvendinimą.
+užduočių įgyvendinimą.
 
 2. Aplinkos ministerija
 
@@ -605,9 +581,9 @@ tvirtina programas, skatinančias atliekų prevenciją, taip pat skatinančias
 
 mažinti gamyboje susidarančių atliekų kiekį, diegti mažaatliekes technologijas,
 
-kurti rinkas iš antrinių žaliavų pagamintiems produktams; koordinuoja šių
+kurti rinkas iš antrinių žaliavų pagamintiems produktams; koordinuoja šių programų
 
-programų įgyvendinimą.
+įgyvendinimą.
 
 2. Ūkio ministerija koordinuoja
 
@@ -765,9 +741,9 @@ paslaugos pasiūlą visiems savivaldybės teritorijoje esantiems asmenims.
 
 planus rengia savivaldybės ir tvirtina savivaldybių tarybos.
 
-29
+29 straipsnis. Regioninių ir savivaldybių atliekų
 
-straipsnis. Regioninių ir savivaldybių atliekų tvarkymo planų sudėtis
+tvarkymo planų sudėtis
 
 1. Regioniniuose ir savivaldybių atliekų tvarkymo planuose turi būti
 
@@ -790,18 +766,6 @@ nustato Aplinkos ministerija.
 septintasis skirsnis
 
 komunalinių atliekų tvarkymo sistemos
-
-29 straipsnis.
-
-Socialinės apsaugos ir darbo ministerijos funkcijos
-
-Socialinės apsaugos ir darbo
-
-ministerija nustato darbų saugos reikalavimus atliekų šalinimo ir naudojimo
-
-įmonėse, organizuoja šių darbų saugą reglamentuojančių norminių aktų rengimą,
-
-kurių vykdymą kontroliuoja Valstybinė darbo inspekcija.
 
 30 straipsnis.
 
@@ -857,17 +821,19 @@ atliekų tvarkymo sistemą savivaldybės gali pavesti (kaip privalomą užduotį
 
 savivaldybės įsteigtai bendrovei arba kelių savivaldybių įsteigtai atliekų
 
-tvarkymo įstaigai, įmonei ar organizacijai. Savivaldybės gali organizuoti ir komunalinių
+tvarkymo įstaigai, įmonei ar organizacijai. Savivaldybės gali organizuoti ir
 
-atliekų tvarkymo sistemos eksploatavimo ir plėtojimo paslaugų operatorių
+komunalinių atliekų tvarkymo sistemos eksploatavimo ir plėtojimo paslaugų
 
-(atliekų tvarkytojų) atrankos konkursą arba, nutarusios įvesti vietinę
+operatorių (atliekų tvarkytojų) atrankos konkursą arba, nutarusios įvesti
 
-rinkliavą iš atliekų turėtojų už komunalinių atliekų surinkimą ir tvarkymą,
+vietinę rinkliavą iš atliekų turėtojų už komunalinių atliekų surinkimą ir
 
-turi organizuoti komunalinių atliekų tvarkymo (komunalinių atliekų tvarkymo
+tvarkymą, turi organizuoti komunalinių atliekų tvarkymo (komunalinių atliekų
 
-sistemos eksploatavimo ir plėtojimo) paslaugų viešojo pirkimo konkursą.
+tvarkymo sistemos eksploatavimo ir plėtojimo) paslaugų viešojo pirkimo
+
+konkursą.
 
 5. Įmonės, kurios verčiasi
 
@@ -1145,11 +1111,11 @@ mažinimo planus.
 
 3. Gamtos išteklių taupymo ir
 
-atliekų mažinimo planai peržiūrimi ir keičiami, jeigu pasikeičia gamybos
+atliekų mažinimo planai peržiūrimi ir keičiami, jeigu pasikeičia gamybos technologija
 
-technologija ar mastas, išskyrus pačiame plane numatytus pasikeitimus, tačiau
+ar mastas, išskyrus pačiame plane numatytus pasikeitimus, tačiau ne rečiau kaip
 
-ne rečiau kaip kas penkeri metai.
+kas penkeri metai.
 
 7 straipsnis.
 
@@ -1251,9 +1217,21 @@ savivaldybių biudžetai;
 
 programos lėšos;
 
+4 punkto
+
+redakcija iki 2004 m. sausio 1 d.:
+
 4)
 
 savivaldybių gamtos apsaugos fondai;
+
+4 punkto
+
+redakcija nuo 2004 m. sausio 1 d.:
+
+4) Savivaldybių aplinkos apsaugos
+
+rėmimo specialiosios programos lėšos;
 
 5) Lietuvos aplinkos apsaugos
 
@@ -1264,6 +1242,16 @@ investicijų fondo programos lėšos;
 organizacijų ir finansų institucijų bei Lietuvos Respublikos asmenų tiksliniai
 
 įnašai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1615,
+
+2003-06-10, Žin., 2003, Nr. 61-2768 (2003-06-27)
 
 34
 
@@ -1303,9 +1291,9 @@ investiciniams projektams įgyvendinti naudojamų paskolų palūkanoms dotuoti;
 
 mažaatliekėms technologijoms kurti bei jų naudojimui skatinti.
 
-4.
+4. Pagrindiniai
 
-Pagrindiniai Programos lėšų naudojimo principai:
+Programos lėšų naudojimo principai:
 
 1)
 
@@ -1343,11 +1331,9 @@ ir mokamos už panaudotą ar pašalintą (pagal šio straipsnio 4 dalies 2 punkt
 
 apmokestinamųjų gaminių ir (ar) pakuotės atliekų kiekį, išskyrus tą atliekų
 
-kiekį, už kurį mokėtojai pagal Mokesčio už aplinkos teršimą įstatymą
+kiekį, už kurį mokėtojai pagal Mokesčio už aplinkos teršimą įstatymą atleidžiami
 
-atleidžiami nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės
-
-atliekomis;
+nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis;
 
 5)
 
@@ -1373,11 +1359,11 @@ ir (ar) pakuotės atliekoms tvarkyti nėra būtinų pajėgumų arba yra įgyvend
 
 tik atskiri šių atliekų tvarkymo etapai;
 
-7)
+7) Programos
 
-Programos lėšos, nepanaudotos einamaisiais biudžetiniais metais, yra naudojamos
+lėšos, nepanaudotos einamaisiais biudžetiniais metais, yra naudojamos kitais
 
-kitais metais šio straipsnio 3 dalyje numatytoms priemonėms finansuoti.
+metais šio straipsnio 3 dalyje numatytoms priemonėms finansuoti.
 
 5.
 
@@ -1553,9 +1539,9 @@ QQ10
 
 Mechaninio
 
-apdirbimo ir apdailos liekanos (pvz.: tekinimo, frezavimo darbų atliekos ir t.
+apdirbimo ir apdailos liekanos (pvz.: tekinimo, frezavimo darbų atliekos ir
 
-t.)
+t. t.)
 
 QQ11
 
@@ -1933,9 +1919,9 @@ pagrįstai tikima, sukelia žmonių ar kitų gyvųjų organizmų ligas
 
 H10 Teratogeninės:
 
-medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali
+medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti
 
-sukelti įgimtus nepaveldimus išsigimimus arba padidinti jų skaičių
+įgimtus nepaveldimus išsigimimus arba padidinti jų skaičių
 
 H11 Mutageninės: medžiagos
 
@@ -2025,9 +2011,35 @@ ATLIEKŲ
 
 TVARKYMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
+Šis
+
+Įstatymas įsigalioja nuo 2003 m. sausio 1 d., išskyrus 12 straipsnį, kuris įsigalioja
+
+nuo 2003 m. kovo 1 d.
+
 Nauja
 
 įstatymo redakcija
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1615,
+
+2003-06-10, Žin., 2003, Nr. 61-2768 (2003-06-27)
+
+ATLIEKŲ
+
+TVARKYMO ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 
 ***
 
@@ -2035,7 +2047,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-07-18)
+Aušrinė Trapinskienė (2003-07-02)
 
 autrap@lrs.lt
 
