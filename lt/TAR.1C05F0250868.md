@@ -4,7 +4,7 @@ identifier: "TAR.1C05F0250868"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-12"
-last_updated: "2004-05-01"
+last_updated: "2004-11-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1C05F0250868"
 department: "Lietuvos Respublikos Seimas"
@@ -56,11 +56,21 @@ Lietuvos banką, ir kredito unijoms (toliau – įmonės), kurios įregistruotos
 
 Lietuvos Respublikos įstatymų nustatyta tvarka.
 
+3. Šio įstatymo
+
+nuostatos suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės
+
+aktais.
+
 Straipsnio pakeitimai:
 
 Nr. IX-2139,
 
 2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+
+Nr. IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533
+
+(2004-10-16)
 
 2 straipsnis.
 
@@ -72,9 +82,11 @@ fondo steigėjas – Lietuvos Respublikos Vyriausybė.
 
 2. Garantinio
 
-fondo administratorius – Vyriausybės įgaliota institucija. Garantinio fondo administratoriaus
+fondo administratorius – Vyriausybės įgaliota institucija. Garantinio fondo
 
-veiklą reglamentuoja Garantinio fondo nuostatai, kuriuos tvirtina Vyriausybė.
+administratoriaus veiklą reglamentuoja Garantinio fondo nuostatai, kuriuos
+
+tvirtina Vyriausybė.
 
 3. Garantinis
 
@@ -92,19 +104,25 @@ nuostatais bei kitais teisės aktais.
 
 Garantinio fondo paskirtis
 
-Lėšos iš Garantinio
+Lėšos iš
 
-fondo skiriamos šiame įstatyme nustatyto dydžio išmokoms bankrutuojančių ar
+Garantinio fondo skiriamos šiame įstatyme nustatyto dydžio išmokoms
 
-bankrutavusių įmonių darbuotojams, nutraukusiems darbo santykius su šiomis
+bankrutuojančių ir bankrutavusių įmonių darbuotojams, dirbusiems įmonėje iki
 
-įmonėmis, taip pat darbuotojams, kurie tęsia darbo santykius su bankrutuojančia
+teismo nutarties iškelti įmonei bankroto bylą priėmimo dienos arba iki
 
-įmone, bei buvusiems įmonių, likviduotų dėl bankroto įsigaliojus šiam įstatymui
+kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo tvarka
 
-darbuotojams, kai įmonės jiems yra įsiskolinusios, taip pat Garantinio fondo
+priėmimo dienos, neatsižvelgiant į tai, ar darbo santykiai tęsiasi, ar yra
 
-administravimo išlaidoms Garantinio fondo nuostatų nustatyta tvarka.
+nutrūkę, taip pat buvusiems įmonių, likviduotų dėl bankroto įsigaliojus šiam
+
+įstatymui, darbuotojams, kai įmonės jiems yra įsiskolinusios, taip pat
+
+Garantinio fondo administravimo išlaidoms Garantinio fondo nuostatų nustatyta
+
+tvarka.
 
 Straipsnio pakeitimai:
 
@@ -115,6 +133,10 @@ Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 Nr. IX-1119,
 
 2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
+
+Nr. IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533
+
+(2004-10-16)
 
 ANTRASIS
 
@@ -152,7 +174,9 @@ reikalavimams tenkinti;
 
 4) juridinių ir
 
-fizinių asmenų bei įmonių, neturinčių juridinio asmens teisių, savanoriškos įmokos.
+fizinių asmenų bei įmonių, neturinčių juridinio asmens teisių, savanoriškos
+
+įmokos.
 
 2. Garantinio
 
@@ -284,9 +308,9 @@ darbuotojų kreditorinių reikalavimų suma mažinama iš Garantinio fondo sumok
 
 išmokos suma. Garantinio fondo administratorius į šią sumą įgyja atgręžtinio
 
-reikalavimo teisę. Jo kreditoriniai reikalavimai tenkinami Įmonių bankroto
+reikalavimo teisę. Jo kreditoriniai reikalavimai tenkinami Įmonių bankroto įstatymo
 
-įstatymo nustatyta tvarka.
+nustatyta tvarka.
 
 5. Išmokos,
 
@@ -492,7 +516,7 @@ sprendimus dėl Garantinio fondo lėšų skyrimo;
 
 3) teikia pasiūlymus Vyriausybei dėl maksimalių išmokų dydžių, numatytų
 
-5 straipsnio 1 dalies 1 ir 5 punktuose;
+šio įstatymo 5 straipsnio 1 dalies 1, 2, 3 ir 5 punktuose;
 
 4) teikia
 
@@ -502,9 +526,9 @@ Vyriausybei Garantinio fondo veiklos pusmečio ir metų ataskaitas;
 
 Vyriausybei pasiūlymus Garantinio fondo veiklos klausimais;
 
-6) tvirtina
+6) tvirtina lėšų
 
-lėšų iš Garantinio fondo perdavimo įmonei sutarties tipinę formą;
+iš Garantinio fondo perdavimo įmonei sutarties pavyzdinę formą;
 
 7) vykdo
 
@@ -515,6 +539,10 @@ Straipsnio pakeitimai:
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 
 22-716 (2001 03 14)
+
+Nr. IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533
+
+(2004-10-16)
 
 10 straipsnis.
 
@@ -610,25 +638,25 @@ kreditorių susirinkimas, bankroto procedūras vykdant ne teismo tvarka, iki ši
 
 įstatymo įsigaliojimo dienos yra priėmęs nutartį (nutarimą) išregistruoti
 
-likviduotą dėl bankroto įmonę. Kai bankrutuojančios ar bankrutavusios įmonės
+likviduotą dėl bankroto įmonę. Kai bankrutuojančios ar bankrutavusios įmonės darbuotojams
 
-darbuotojams bankroto proceso metu jau buvo sumokėta tam tikra įmonės
+bankroto proceso metu jau buvo sumokėta tam tikra įmonės įsiskolinimo dalis iš
 
-įsiskolinimo dalis iš Fondo bankrutuojančių ir bankrutavusių įmonių darbuotojų
+Fondo bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams,
 
-reikalavimams, susijusiems su darbo santykiais, tenkinti skirtų finansinės
+susijusiems su darbo santykiais, tenkinti skirtų finansinės paramos lėšų, šio
 
-paramos lėšų, šio įstatymo 5 straipsnio 1 dalies 1 punkte nurodytos išmokos
+įstatymo 5 straipsnio 1 dalies 1 punkte nurodytos išmokos jiems turi būti
 
-jiems turi būti sumažinamos sumokėta suma. Kai darbuotojams skirtos išmokos,
+sumažinamos sumokėta suma. Kai darbuotojams skirtos išmokos, numatytos šio
 
-numatytos šio įstatymo 5 straipsnio 1 dalies 1 punkte, pagal galiojusias šios
+įstatymo 5 straipsnio 1 dalies 1 punkte, pagal galiojusias šios dalies
 
-dalies nuostatas buvo sumažintos bankroto proceso metu iš įmonės lėšų sumokėta
+nuostatas buvo sumažintos bankroto proceso metu iš įmonės lėšų sumokėta darbo
 
-darbo užmokesčio dalimi, jiems skiriamos papildomos išmokos, kurių kiekvienos
+užmokesčio dalimi, jiems skiriamos papildomos išmokos, kurių kiekvienos dydis
 
-dydis yra lygus sumai, kuria buvo sumažinta anksčiau skirta išmoka.
+yra lygus sumai, kuria buvo sumažinta anksčiau skirta išmoka.
 
 3.
 
@@ -688,7 +716,9 @@ dienos, 5 straipsnio 1 dalies 1 ir 4 punktų taikymo tvarką;
 
 4) 2001 metų
 
-valstybės biudžeto projekte numato asignavimus pradiniam įnašui į Garantinį fondą;
+valstybės biudžeto projekte numato asignavimus pradiniam įnašui į Garantinį
+
+fondą;
 
 5) parengia
 
@@ -712,15 +742,35 @@ Nr. IX-1119,
 
 2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
 
-Skelbiu šį Lietuvos
+Skelbiu šį
 
-Respublikos Seimo priimtą įstatymą.
+Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 
 ADAMKUS
 
-__________________
+Lietuvos
+
+Respublikos
+
+garantinio
+
+fondo įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS
+
+AKTAI
+
+1980
+
+m. spalio 20 d. Tarybos direktyva 80/987/EEB dėl valstybių narių įstatymų,
+
+susijusių su darbuotojų apsauga jų darbdaviui tapus nemokiam, suderinimo.
+
+_______________
 
 Pakeitimai:
 
@@ -760,9 +810,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1119, 2002-10-08,
+IX-1119,
 
-Žin., 2002, Nr. 102-4544 (2002-10-25)
+2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
 
 GARANTINIO
 
@@ -812,13 +862,33 @@ BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
+
+GARANTINIO
+
+FONDO ĮSTATYMO 1, 3, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO
+
+PRIEDU ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2004 m. lapkričio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-05-03)
+Aušrinė Trapinskienė (2004-10-20)
 
 autrap@lrs.lt
 
