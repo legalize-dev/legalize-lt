@@ -4,7 +4,7 @@ identifier: "TAR.CA0F08EF687E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-11"
-last_updated: "2002-12-10"
+last_updated: "2003-10-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA0F08EF687E"
 department: "Lietuvos Respublikos Seimas"
@@ -170,6 +170,10 @@ neatsižvelgiant į jų gavimo laiką. Pinigų srautų plane ir ataskaitoje paro
 
 faktinės pinigų įplaukos.
 
+2
+
+dalies redakcija iki 2004 m. sausio 1 d.:
+
 2.
 
 Fondo biudžeto pajamas sudaro draudėjų ir apdraustųjų valstybinio socialinio
@@ -178,25 +182,59 @@ draudimo įmokos, individualių (personalinių) įmonių savininkų, individuali
 
 (personalinių) įmonių nuomininkų, advokatų, advokatų padėjėjų, notarų, tikrųjų
 
-ūkinių bendrijų narių, komanditinių ūkinių bendrijų tikrųjų narių, patentus
+ūkinių bendrijų narių, komanditinių ūkinių bendrijų tikrųjų narių, verslo
 
-įsigijusių asmenų bei
+liudijimus turinčių asmenų bei ūkininkų valstybinio socialinio  draudimo
 
-ūkininkų valstybinio socialinio draudimo įmokos, valstybinio savanoriškojo
+įmokos, valstybinio savanoriškojo socialinio  draudimo įmokos, baudos,
 
-socialinio draudimo įmokos, baudos, delspinigiai bei kitos pajamos, gautinos
+delspinigiai bei kitos pajamos, gautinos taikant sankcijas, asignavimai iš
 
-taikant sankcijas, asignavimai iš valstybės biudžeto, atgautos į ankstesnių
+valstybės biudžeto, atgautos į ankstesnių metų Fondo biudžeto išlaidas iškeltos
 
-metų Fondo biudžeto išlaidas iškeltos abejotinai atgautinos sumos, Fondo
+abejotinai atgautinos sumos, Fondo biudžeto veiklos pajamos ir iš turimo
 
-biudžeto veiklos pajamos ir iš turimo kapitalo gaunamos pajamos.
+kapitalo gaunamos pajamos.
+
+2
+
+dalies redakcija nuo 2004 m. sausio 1 d.:
+
+2. Fondo
+
+biudžeto pajamas sudaro draudėjų ir apdraustųjų valstybinio socialinio draudimo
+
+įmokos, individualių (personalinių) įmonių savininkų, individualių
+
+(personalinių) įmonių nuomininkų, tikrųjų ūkinių bendrijų narių, komanditinių
+
+ūkinių bendrijų tikrųjų narių, taip pat asmenų, kurie verčiasi individualia
+
+veikla pagal Gyventojų pajamų mokesčio įstatymą, valstybinio socialinio
+
+draudimo įmokos, valstybinio savanoriškojo socialinio draudimo įmokos, baudos,
+
+delspinigiai bei kitos pajamos, gautinos taikant sankcijas, asignavimai iš
+
+valstybės biudžeto, atgautos į ankstesnių metų Fondo biudžeto išlaidas iškeltos
+
+abejotinai atgautinos sumos, Fondo biudžeto veiklos pajamos ir iš turimo
+
+kapitalo gaunamos pajamos.
 
 Straipsnio pakeitimai:
 
 Nr. IX-871,
 
 2002-05-07, Žin., 2002, Nr. 52-1984 (2002-05-24)
+
+Nr. IX-1266,
+
+2002-12-10, Žin., 2002, Nr. 123-5551 (2002-12-24), įsigalioja nuo 2003-01-01
+
+Nr. IX-1748,
+
+2003-10-07, Žin., 2003, Nr. 101-4535 (2003-10-29)
 
 1 straipsnis.
 
@@ -1112,6 +1150,10 @@ išlaidos, neatsižvelgiant į mokėjimo laiką. Pinigų srautų plane ir ataska
 
 parodomos faktinės pinigų išlaidos.
 
+2
+
+dalies redakcija iki 2004 m. sausio 1 d.:
+
 2.
 
 Fondo biudžeto išlaidas sudaro: pensijų socialinio draudimo, ligos, motinystės
@@ -1124,7 +1166,7 @@ fondą bei draudimui nuo nedarbo pervedamos lėšos, įvertintos neatgautinos ir
 
 abejotinai atgautinos sumos bei Fondo biudžeto veiklos sąnaudos.
 
-[2
+2
 
 dalies redakcija nuo 2004 m. sausio 1 d.:
 
@@ -1138,7 +1180,7 @@ profesinių ligų socialinio draudimo išlaidos bei draudimui nuo nedarbo
 
 pervedamos lėšos, įvertintos neatgautinos ir abejotinai atgautinos sumos bei
 
-Fondo biudžeto veiklos sąnaudos.]
+Fondo biudžeto veiklos sąnaudos.
 
 3.
 
@@ -1178,9 +1220,9 @@ socialinio draudimo įstatymą.
 
 draudimo įmokos, baudos ir delspinigiai, numatyti Sveikatos draudimo įstatyme.
 
-[7
+7
 
-dalis netenka galios nuo 2004 m. sausio 1 d.]
+dalis netenka galios nuo 2004 m. sausio 1 d.
 
 Straipsnio pakeitimai:
 
@@ -1216,6 +1258,10 @@ kurių neįmanoma atgauti, bei Vyriausybės ar jos įgaliotos institucijos
 
 nustatyta tvarka įvertinti atidėjiniai abejotinai atgautinoms sumoms.
 
+3
+
+dalies redakcija iki 2004 m. sausio 1 d.:
+
 3.
 
 Fondo biudžeto veiklos sąnaudas sudaro Fondo įstaigų valstybės tarnautojų darbo
@@ -1234,7 +1280,7 @@ taip pat sąnaudos, susijusios su draudimo nuo nedarbo, sveikatos draudimo įmok
 
 administravimu bei su išmokų, finansuojamų iš valstybės biudžeto, mokėjimu.
 
-[3
+3
 
 dalies redakcija nuo 2004 m. sausio 1 d. 3 dalies nuostata, kad Fondo biudžeto veiklos sąnaudas
 
@@ -1260,17 +1306,21 @@ laiku nepervestas lėšas draudėjams pašalpoms mokėti, nekilnojamojo turto ir
 
 įmokų administravimu bei su išmokų, finansuojamų iš valstybės biudžeto,
 
-mokėjimu.]
+mokėjimu.
 
 Straipsnio pakeitimai:
 
-Nr. IX-871, 2002-05-07,
+Nr. IX-871,
 
-Žin., 2002, Nr. 52-1984 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1984 (2002-05-24)
 
 7
 
 straipsnis. Fondo rezervas ir kasos apyvartos lėšos
+
+1
+
+dalies redakcija iki 2004 m. sausio 1 d.:
 
 1.
 
@@ -1284,7 +1334,7 @@ draudimo fondą, ir yra skiriamas Fondui stabilizuoti. Į Fondo rezervą
 
 materialusis, nematerialusis ir finansinis sukauptas turtas.
 
-[1
+1
 
 dalies redakcija nuo 2004 m. sausio 1 d.:
 
@@ -1296,7 +1346,7 @@ viršijančios pajamų dalies ir yra skiriamas Fondui stabilizuoti. Į Fondo
 
 rezervą įskaitomas įstatymų ir kitų teisės aktų nustatyta tvarka įvertintas
 
-ilgalaikis materialusis, nematerialusis ir finansinis sukauptas turtas.]
+ilgalaikis materialusis, nematerialusis ir finansinis sukauptas turtas.
 
 2.
 
@@ -1314,13 +1364,13 @@ pajamų dydžio Fondo rezervas arba susikaupia daugiau kaip einamųjų metų 2
 
 mėnesių pajamų dydžio metinės pajamų sumos Fondo rezervas, Fondo taryba teikia
 
-Vyriausybei pasiūlymus dėl valstybinio socialinio draudimo įmokų tarifų ar
+Vyriausybei pasiūlymus dėl valstybinio socialinio draudimo įmokų tarifų ar išmokų
 
-išmokų dydžių pakeitimo. Vyriausybė, apsvarsčiusi Fondo tarybos pasiūlymus ir
+dydžių pakeitimo. Vyriausybė, apsvarsčiusi Fondo tarybos pasiūlymus ir jiems
 
-jiems pritarusi, pateikia Seimui teisės aktų projektus dėl valstybinio
+pritarusi, pateikia Seimui teisės aktų projektus dėl valstybinio socialinio
 
-socialinio draudimo įmokų tarifų ar išmokų dydžių pakeitimo.
+draudimo įmokų tarifų ar išmokų dydžių pakeitimo.
 
 4.
 
@@ -1584,29 +1634,71 @@ darbuotojų darbo apmokėjimo bei jų valstybinio socialinio draudimo sąnaudos,
 
 Šis Įstatymas,
 
-išskyrus 1 straipsnį, įsigalioja nuo 2004 m. sausio 1 d.(pakeistas įstatymo
+išskyrus 1 straipsnį, įsigalioja nuo 2004 m. sausio 1 d. (pakeistas įstatymo
 
 įsigaliojimas)
 
 Tai nusako:
 
-Lietuvos Respublikos Seimas,
+Lietuvos
 
-Įstatymas
+Respublikos Seimas, Įstatymas
 
 Nr. IX-1230,
 
 2002-12-10, Žin., 2002, Nr. 123-5522 (2002-12-24)
 
+VALSTYBINIO SOCIALINIO DRAUDIMO
+
+FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 5, 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 5
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-1266,
+
+2002-12-10, Žin., 2002, Nr. 123-5551 (2002-12-24)
+
+VALSTYBINIO SOCIALINIO DRAUDIMO
+
+FONDO BIUDŽETO SANDAROS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas
+
+įsigalioja nuo 2003 m. sausio 1 d.
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1748,
+
+2003-10-07, Žin., 2003, Nr. 101-4535 (2003-10-29)
+
 VALSTYBINIO
 
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 5, 6 IR 7 STRAIPSNIŲ
+SOCIALINIO DRAUDIMO ĮSTATYMO IR VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO
 
-PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 
-Redagavo: Aušrinė Trapinskienė (2003-01-09)
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2003-10-30)
 
 autrap@lrs.lt
 
