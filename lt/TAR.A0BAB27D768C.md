@@ -4,7 +4,7 @@ identifier: "TAR.A0BAB27D768C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-12-19"
-last_updated: "1999-01-14"
+last_updated: "2000-06-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,55 +15,19 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Redagavo: Ramunė Lūžaitė
-
-(1999.01.27)
-
-Įstatymas paskelbtas: Žin., 1997,
-
-Nr.2-16
-
-Neoficialus įstatymo tekstas
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas,
-
 Įstatymas
 
-Nr. VIII-770, 98.06.04,
+paskelbtas: Žin., 1997, Nr. 2-16
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+Neoficialus
 
-LIETUVOS RESPUBLIKOS
-
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO 5, 6 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMO
-
-ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-1026, 99.01.14,
-
-Žin., 1999, Nr.11-245 (99.01.27)
+įstatymo tekstas
 
 LIETUVOS RESPUBLIKOS
 
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO PAPILDYMO ĮSTATYMAS
+NACIONALINIO SAUGUMO
 
-*** PABAIGA ***
-
-LIETUVOS RESPUBLIKOS
-
-NACIONALINIO
-
-SAUGUMO PAGRINDŲ
+PAGRINDŲ
 
 ĮSTATYMAS
 
@@ -77,143 +41,151 @@ Vilnius
 
 nacionalinio saugumo užtikrinimo pagrindus, kurie išdėstyti priedėlyje.
 
-2. Lietuvos nacionalinio saugumo užtikrinimas
+2. Lietuvos nacionalinio saugumo
 
-- tai Tautos ir valstybės laisvos ir demokratinės raidos sąlygų sudarymas,
+užtikrinimas - tai Tautos ir valstybės laisvos ir demokratinės raidos sąlygų
 
-Lietuvos valstybės nepriklausomybės, jos teritorinio vientisumo ir
+sudarymas, Lietuvos valstybės nepriklausomybės, jos teritorinio vientisumo ir
 
 konstitucinės santvarkos apsauga ir gynimas.
 
-3. Lietuvos nacionalinio saugumo sistemą
+3. Lietuvos nacionalinio saugumo
 
-sudaro valstybės ir piliečių veiklos šiam tikslui patvirtintų pagrindinių
+sistemą sudaro valstybės ir piliečių veiklos šiam tikslui patvirtintų
 
-nuostatų, principų ir būdų, integracijos į Europos ir transatlantinę sąjungas
+pagrindinių nuostatų, principų ir būdų, integracijos į Europos ir
 
-priemonių, įstatymų ir kitų teisės aktų, valstybės šiam tikslui įsteigtų
+transatlantinę sąjungas priemonių, įstatymų ir kitų teisės aktų, valstybės šiam
 
-institucijų, jų veiklos principų bei tarpusavio sąveikos būdų visuma.
+tikslui įsteigtų institucijų, jų veiklos principų bei tarpusavio sąveikos būdų
 
-2 straipsnis. Nacionalinio saugumo
+visuma.
 
-užtikrinimo subjektai
+2 straipsnis. Nacionalinio
 
-Lietuvos nacionalinį saugumą užtikrina
+saugumo užtikrinimo subjektai
 
-Lietuvos Respublikos piliečiai, jų bendrijos ir organizacijos, Respublikos
+Lietuvos nacionalinį saugumą
 
-Prezidentas, Seimas, Vyriausybė, kariuomenė, kitos šiam tikslui valstybės
+užtikrina Lietuvos Respublikos piliečiai, jų bendrijos ir organizacijos,
 
-įsteigtos institucijos, vadovaudamiesi Konstitucija ir įstatymais bei vykdydami
+Respublikos Prezidentas, Seimas, Vyriausybė, kariuomenė, kitos šiam tikslui
 
-savo pareigas ir funkcijas nacionalinio saugumo sistemoje.
+valstybės įsteigtos institucijos, vadovaudamiesi Konstitucija ir įstatymais bei
 
-3 straipsnis. Nacionalinio saugumo sistemos
+vykdydami savo pareigas ir funkcijas nacionalinio saugumo sistemoje.
 
-plėtra
+3 straipsnis. Nacionalinio
 
-Respublikos Prezidentas, Seimas, Vyriausybė
+saugumo sistemos plėtra
 
-ir kitos valstybės institucijos plėtoja Lietuvos nacionalinio saugumo sistemą
+Respublikos Prezidentas, Seimas,
 
-vadovaudamiesi šio įstatymo nustatytais Nacionalinio saugumo pagrindais.
+Vyriausybė ir kitos valstybės institucijos plėtoja Lietuvos nacionalinio
 
-4 straipsnis. Nacionalinio saugumo sistemos
+saugumo sistemą vadovaudamiesi šio įstatymo nustatytais Nacionalinio saugumo
 
-plėtros teisinis
+pagrindais.
 
-reglamentavimas
+4 straipsnis. Nacionalinio
 
-1. Lietuvos nacionalinio saugumo sistemą
+saugumo sistemos plėtros teisinis reglamentavimas
 
-reglamentuoja įstatymai ir kiti teisės aktai.
+1. Lietuvos nacionalinio saugumo
 
-2. Seimas tvirtina nacionalinio saugumo
+sistemą reglamentuoja įstatymai ir kiti teisės aktai.
 
-sistemos plėtrai reikalingų įstatymų sąrašą, nustato naujų ir galiojančių
+2. Seimas tvirtina nacionalinio
 
-įstatymų pakeitimo projektų pateikimo Seimui bei jų svarstymo terminus.
+saugumo sistemos plėtrai reikalingų įstatymų sąrašą, nustato naujų ir
 
-3. Vyriausybė, rengdama nacionalinio saugumo
+galiojančių įstatymų pakeitimo projektų pateikimo Seimui bei jų svarstymo
 
-sistemos plėtrai reikalingų naujų ir galiojančių įstatymų pakeitimo projektus,
+terminus.
 
-jų nuostatas suderina su Nacionalinio saugumo pagrindų nuostatomis ir teikia
+3. Vyriausybė, rengdama
 
-Seimui.
+nacionalinio saugumo sistemos plėtrai reikalingų naujų ir galiojančių įstatymų
 
-4. Vyriausybės ir kitų valstybės institucijų
+pakeitimo projektus, jų nuostatas suderina su Nacionalinio saugumo pagrindų
 
-leidžiami teisės aktai turi atitikti Nacionalinio saugumo pagrindų nuostatas.
+nuostatomis ir teikia Seimui.
 
-5. Vyriausybė ir kitos valstybės institucijos
+4. Vyriausybės ir kitų valstybės
 
-iki šio įstatymo įsigaliojimo savo priimtus ir galiojančius teisės aktus
+institucijų leidžiami teisės aktai turi atitikti Nacionalinio saugumo pagrindų
 
-privalo papildyti ir pataisyti taip, kad jie atitiktų Nacionalinio saugumo
+nuostatas.
 
-pagrindų nuostatas.
+5. Vyriausybė ir kitos valstybės
 
-5 straipsnis. Ilgalaikės valstybinės saugumo
+institucijos iki šio įstatymo įsigaliojimo savo priimtus ir galiojančius teisės
 
-stiprinimo programos
+aktus privalo papildyti ir pataisyti taip, kad jie atitiktų Nacionalinio
 
-1. Vyriausybė, vadovaudamasi Nacionalinio
+saugumo pagrindų nuostatas.
 
-saugumo pagrindais, pateikia Seimui ilgalaikių valstybinių saugumo stiprinimo
+5 straipsnis. Ilgalaikės
 
-programų rengimo planą, nustato jų rengimo bei vykdymo tvarką, rengia šias
+valstybinės saugumo stiprinimo programos
 
-programas ir pateikia Seimui, išskyrus valstybės paslaptį sudarančias jų dalis.
+1. Vyriausybė, vadovaudamasi
 
-Dėl pateiktos programos Seimas priima nutarimą.
+Nacionalinio saugumo pagrindais, pateikia Seimui ilgalaikių valstybinių saugumo
 
-2. Vyriausybė, pateikdama Seimui ilgalaikes
+stiprinimo programų rengimo planą, nustato jų rengimo bei vykdymo tvarką,
 
-valstybines saugumo stiprinimo programas, kartu pateikia skaičiavimus, kiek
+rengia šias programas ir pateikia Seimui, išskyrus valstybės paslaptį
 
-lėšų joms įgyvendinti reikėtų skirti kiekvienais biudžetiniais metais ir iš
+sudarančias jų dalis. Dėl pateiktos programos Seimas priima nutarimą.
 
-viso.
+2. Vyriausybė, pateikdama Seimui
 
-3. Vyriausybė, rengdama kiekvienų metų
+ilgalaikes valstybines saugumo stiprinimo programas, kartu pateikia
 
-valstybės biudžeto projektus, numato lėšų ilgalaikėms valstybinėms saugumo
+skaičiavimus, kiek lėšų joms įgyvendinti reikėtų skirti kiekvienais
+
+biudžetiniais metais ir iš viso.
+
+3. Vyriausybė, rengdama kiekvienų
+
+metų valstybės biudžeto projektus, numato lėšų ilgalaikėms valstybinėms saugumo
 
 stiprinimo programoms parengti.
 
-Straipsnio pakeitimai:
+Straipsnio
 
-Nr. VIII-770, 98.06.04,
+pakeitimai:
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+Nr. VIII-770,
 
-6 straipsnis. Vyriausybės ataskaitos apie
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
 
-nacionalinio saugumo
+6 straipsnis. Vyriausybės
 
-sistemos plėtrą
+ataskaitos apie nacionalinio saugumo sistemos plėtrą
 
-Vyriausybė kasmet ne vėliau kaip iki gegužės
+Vyriausybė kasmet ne vėliau kaip
 
-1 d. pateikia Seimui metinę ataskaitą apie nacionalinio saugumo sistemos būklę
+iki gegužės 1 d. pateikia Seimui metinę ataskaitą apie nacionalinio saugumo
 
-ir plėtrą. Seimas svarsto Vyriausybės ataskaitą ir dėl jos priima rezoliuciją.
+sistemos būklę ir plėtrą. Seimas svarsto Vyriausybės ataskaitą ir dėl jos
 
-Straipsnio pakeitimai:
+priima rezoliuciją.
 
-Nr. VIII-770, 98.06.04,
+Straipsnio
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+pakeitimai:
 
-Skelbiu šį Lietuvos
+Nr. VIII-770,
 
-Respublikos Seimo priimtą įstatymą.
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
 
-RESPUBLIKOS PREZIDENTAS                                  ALGIRDAS
+Skelbiu šį
 
-BRAZAUSKAS
+Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
 Lietuvos
 
@@ -235,35 +207,35 @@ NACIONALINIO SAUGUMO PAGRINDAI
 
 PREAMBULĖ
 
-Lietuvos Respublikos Seimas, nustatydamas
+Lietuvos Respublikos Seimas,
 
-Lietuvos nacionalinio saugumo pagrindus, vadovaujasi nuostatomis:
+nustatydamas Lietuvos nacionalinio saugumo pagrindus, vadovaujasi nuostatomis:
 
-- prieš daugelį amžių susikūrusi Lietuvos
+- prieš daugelį amžių susikūrusi
 
-valstybė, besiremianti Europą vienijančios krikščioniškosios kultūros
+Lietuvos valstybė, besiremianti Europą vienijančios krikščioniškosios kultūros
 
 pagrindais, yra neatskiriama Europos tautų bendrijos dalis;
 
-- lietuvių tauta niekada nesutiko su jokia
+- lietuvių tauta niekada nesutiko
 
-okupacija ir pavergimu, priešinosi visais įmanomais būdais ir siekė
+su jokia okupacija ir pavergimu, priešinosi visais įmanomais būdais ir siekė
 
 išsivadavimo, ir šis tautos nusistatymas yra nekintamas;
 
-- lietuvių tauta siekė ir tebesiekia
+- lietuvių tauta siekė ir
 
-išsaugoti savo laisvę, garantuoti saugią ir laisvą raidą savo etninėje žemėje,
+tebesiekia išsaugoti savo laisvę, garantuoti saugią ir laisvą raidą savo
 
-puoselėti tautinę tapatybę, ugdyti prigimtines kūrybos galias ir prisidėti prie
+etninėje žemėje, puoselėti tautinę tapatybę, ugdyti prigimtines kūrybos galias
 
-pasaulio pažangos;
+ir prisidėti prie pasaulio pažangos;
 
-- nepriklausoma demokratinė Lietuvos valstybė
+- nepriklausoma demokratinė
 
-privalo užtikrinti saugų Tautos gyvavimą, jos savitą ir laisvą raidą, o
+Lietuvos valstybė privalo užtikrinti saugų Tautos gyvavimą, jos savitą ir
 
-valstybės saugumas yra būtina demokratinės raidos sąlyga.
+laisvą raidą, o valstybės saugumas yra būtina demokratinės raidos sąlyga.
 
 I
 
@@ -289,33 +261,35 @@ IR
 
 BENDROSIOS NUOSTATOS
 
-Nacionalinio saugumo politikos tikslas -
+Nacionalinio saugumo politikos
 
-sutelktomis valstybės ir piliečių pastangomis plėtoti ir stiprinti demokratiją,
+tikslas - sutelktomis valstybės ir piliečių pastangomis plėtoti ir stiprinti
 
-užtikrinti Tautos ir valstybės saugų būvį, atgrasyti kiekvieną potencialų
+demokratiją, užtikrinti Tautos ir valstybės saugų būvį, atgrasyti kiekvieną
 
-užpuoliką, ginti Lietuvos valstybės nepriklausomybę, teritorijos vientisumą ir
+potencialų užpuoliką, ginti Lietuvos valstybės nepriklausomybę, teritorijos
 
-konstitucinę santvarką.
+vientisumą ir konstitucinę santvarką.
 
-Lietuvos nacionalinio saugumo sistema remiasi
+Lietuvos nacionalinio saugumo
 
-valstybės institucijų veikla ir kiekvieno Lietuvos piliečio dalyvavimu, atvira
+sistema remiasi valstybės institucijų veikla ir kiekvieno Lietuvos piliečio
 
-pilietine visuomene, suvokiančia pavojus ir savo atsakomybę, pilietiškai
+dalyvavimu, atvira pilietine visuomene, suvokiančia pavojus ir savo atsakomybę,
 
-susipratusia ir pasirengusia ginti Lietuvos laisvę.
+pilietiškai susipratusia ir pasirengusia ginti Lietuvos laisvę.
 
-Lietuvos nacionalinio saugumo sistema
+Lietuvos nacionalinio saugumo
 
-plėtojama kaip Europos bendros saugumo ir transatlantinės gynybos sistemų
+sistema plėtojama kaip Europos bendros saugumo ir transatlantinės gynybos
 
-dalis.
+sistemų dalis.
 
-Lietuva nė vienos valstybės nelaiko savo
+Lietuva nė vienos valstybės
 
-priešu, niekam negrasina ir su visomis stengiasi palaikyti gerus santykius.
+nelaiko savo priešu, niekam negrasina ir su visomis stengiasi palaikyti gerus
+
+santykius.
 
 Stiprinti nacionalinį saugumą yra
 
@@ -335,23 +309,25 @@ NACIONALINIO
 
 SAUGUMO OBJEKTAI
 
-Pagrindiniai nacionalinio saugumo objektai
+Pagrindiniai nacionalinio saugumo
 
-yra:
+objektai yra:
 
-- žmogaus ir piliečio teisės, laisvės bei
+- žmogaus ir piliečio teisės,
 
-asmens saugumas;
+laisvės bei asmens saugumas;
 
-- tautos puoselėjamos vertybės, jos teisės ir
+- tautos puoselėjamos vertybės,
 
-laisvos raidos sąlygos;
+jos teisės ir laisvos raidos sąlygos;
 
 - valstybės nepriklausomybė;
 
 - konstitucinė santvarka;
 
-- valstybės teritorijos vientisumas;
+- valstybės teritorijos
+
+vientisumas;
 
 - aplinka ir kultūros paveldas.
 
@@ -361,15 +337,17 @@ NACIONALINIO
 
 SAUGUMO UŽTIKRINIMO SUBJEKTAI
 
-Nacionalinio saugumo užtikrinimo subjektai
+Nacionalinio saugumo užtikrinimo
 
-yra:
+subjektai yra:
 
-- valstybė, jos nacionalinio saugumo bei
+- valstybė, jos nacionalinio
 
-gynybos ir kitos institucijos;
+saugumo bei gynybos ir kitos institucijos;
 
-- piliečiai, jų bendrijos ir organizacijos.
+- piliečiai, jų bendrijos ir
+
+organizacijos.
 
 TrečiasIS skirsnis
 
@@ -381,61 +359,63 @@ Nacionalinį saugumą užtikrina:
 
 a) VALSTYBĖ:
 
-- vykdydama rizikos veiksnius ir grėsmes
+- vykdydama rizikos veiksnius ir
 
-mažinančią vidaus ir užsienio politiką ;
+grėsmes mažinančią vidaus ir užsienio politiką ;
 
-- patikimai kontroliuodama valstybės sausumos
+- patikimai kontroliuodama
 
-ir jūros sienas bei oro erdvę;
+valstybės sausumos ir jūros sienas bei oro erdvę;
 
-- garantuodama pasirengimą besąlygiškai
+- garantuodama pasirengimą
 
-gynybai ir visuotiniam pilietiniam pasipriešinimui agresijos atveju;
+besąlygiškai gynybai ir visuotiniam pilietiniam pasipriešinimui agresijos
 
-- stiprindama nacionalinio saugumo bei
+atveju;
 
-gynybos institucijas ir tobulindama jų veiklą;
+- stiprindama nacionalinio
 
-- rengdama gynybai kariuomenę ir jos aktyvųjį
+saugumo bei gynybos institucijas ir tobulindama jų veiklą;
 
-rezervą;
+- rengdama gynybai kariuomenę ir
 
-- rengdama ir vykdydama ilgalaikes
+jos aktyvųjį rezervą;
 
-valstybines saugumo stiprinimo programas;
+- rengdama ir vykdydama
 
-- integruodamasi į Europos Sąjungą (EU),
+ilgalaikes valstybines saugumo stiprinimo programas;
 
-Vakarų Europos Sąjungą (WEU), Šiaurės Atlanto sutarties organizaciją (NATO) ir
+- integruodamasi į Europos
 
-siekdama visateisės narystės šiose organizacijose;
+Sąjungą (EU), Vakarų Europos Sąjungą (WEU), Šiaurės Atlanto sutarties
+
+organizaciją (NATO) ir siekdama visateisės narystės šiose organizacijose;
 
 b) PILIEČIAI:
 
-- saugodami tautines vertybes ir ugdydami
+- saugodami tautines vertybes ir
 
-pasiryžimą ginti Lietuvos laisvę;
+ugdydami pasiryžimą ginti Lietuvos laisvę;
 
-- rengdamiesi visuotiniam pilietiniam
+- rengdamiesi visuotiniam
 
-pasipriešinimui;
+pilietiniam pasipriešinimui;
 
-- plėtodami visuomenės institutus, piliečių
+- plėtodami visuomenės
 
-susivienijimų ir draugijų veiklą.
+institutus, piliečių susivienijimų ir draugijų veiklą.
 
-Nacionalinio saugumo institucijos plėtojamos
+Nacionalinio saugumo institucijos
 
-bei saugumo stiprinimo priemonės rengiamos vadovaujantis demokratinės kontrolės
+plėtojamos bei saugumo stiprinimo priemonės rengiamos vadovaujantis
 
-principais.
+demokratinės kontrolės principais.
 
-Valstybės institucijų vykdomas nacionalinio
+Valstybės institucijų vykdomas
 
-saugumo priemones finansuoja valstybė. Tam tikslui naudojamos valstybės
+nacionalinio saugumo priemones finansuoja valstybė. Tam tikslui naudojamos
 
-biudžeto lėšos, kreditai bei tarptautinė pagalba.
+valstybės biudžeto lėšos, kreditai bei tarptautinė pagalba.
 
 3
 
@@ -445,51 +425,55 @@ TEISINIAI
 
 NACIONALINIO SAUGUMO PAGRINDAI
 
-Lietuvos nacionalinio saugumo teisinis
+Lietuvos nacionalinio saugumo
 
-pagrindas yra Lietuvos Respublikos Konstitucija.
+teisinis pagrindas yra Lietuvos Respublikos Konstitucija.
 
-Kertinės Konstitucijos normos, tiesiogiai
+Kertinės Konstitucijos normos,
 
-reglamentuojančios valstybės saugumo klausimus, yra:
+tiesiogiai reglamentuojančios valstybės saugumo klausimus, yra:
 
-- Konstitucijos 8 straipsnis, nustatantis,
+- Konstitucijos 8 straipsnis,
 
-kad valstybės valdžios ar jos institucijos užgrobimas smurtu laikomi
+nustatantis, kad valstybės valdžios ar jos institucijos užgrobimas smurtu
 
-antikonstituciniais veiksmais;
+laikomi antikonstituciniais veiksmais;
 
-- Konstitucijos 94 straipsnis, įpareigojantis
+- Konstitucijos 94 straipsnis,
 
-Vyriausybę saugoti Lietuvos Respublikos teritorijos neliečiamybę, garantuoti
+įpareigojantis Vyriausybę saugoti Lietuvos Respublikos teritorijos
 
-valstybės saugumą ir viešąją tvarką; ir
+neliečiamybę, garantuoti valstybės saugumą ir viešąją tvarką; ir
 
-- Konstitucijos sudedamosios dalies - 1992 m.
+- Konstitucijos sudedamosios
 
-birželio 8 d. Konstitucinio akto - reikalavimai niekada ir jokiu pavidalu
+dalies - 1992 m. birželio 8 d. Konstitucinio akto - reikalavimai niekada ir
 
-nesijungti į jokias buvusios SSRS pagrindu kuriamas naujas politines, karines,
+jokiu pavidalu nesijungti į jokias buvusios SSRS pagrindu kuriamas naujas
 
-ekonomines ar kitokias valstybių sąjungas bei sandraugas.
+politines, karines, ekonomines ar kitokias valstybių sąjungas bei sandraugas.
 
-Nacionalinis saugumas taip pat grindžiamas:
+Nacionalinis saugumas taip pat
 
-- Jungtinių Tautų Chartija, Europos saugumo
+grindžiamas:
 
-ir bendradarbiavimo organizacijos dokumentais, žmogaus teisių apsaugos ir
+- Jungtinių Tautų Chartija,
 
-kitais tarptautinės teisės aktais, kuriuos Lietuvos Respublika yra ratifikavusi
+Europos saugumo ir bendradarbiavimo organizacijos dokumentais, žmogaus teisių
 
-ar prie kurių prisijungusi, taip pat visuotinai pripažintais tarptautinės
+apsaugos ir kitais tarptautinės teisės aktais, kuriuos Lietuvos Respublika yra
 
-teisės principais;
+ratifikavusi ar prie kurių prisijungusi, taip pat visuotinai pripažintais
 
-- branduolinio ginklo neplatinimo sutartimi;
+tarptautinės teisės principais;
 
-- cheminio ir bakteriologinio ginklų
+- branduolinio ginklo neplatinimo
 
-nenaudojimo konvencijomis.
+sutartimi;
+
+- cheminio ir bakteriologinio
+
+ginklų nenaudojimo konvencijomis.
 
 4
 
@@ -507,101 +491,105 @@ SAUGUMO
 
 UŽTIKRINIMO POLITIKA
 
-Priimami valstybės vidaus politikos
+Priimami valstybės vidaus
 
-sprendimai turi būti analizuojami, kaip jie prisidės prie rizikos veiksnių
+politikos sprendimai turi būti analizuojami, kaip jie prisidės prie rizikos
 
-silpninimo ir grėsmių nacionaliniam saugumui mažinimo.
+veiksnių silpninimo ir grėsmių nacionaliniam saugumui mažinimo.
 
-Vidaus politika turi būti grindžiama
+Vidaus politika turi būti
 
-teisingumu ir teisėtumu, ugdyti pilietiškumą, pagarbą Konstitucijai ir
+grindžiama teisingumu ir teisėtumu, ugdyti pilietiškumą, pagarbą Konstitucijai
 
-pasitikėjimą nacionaliniais institutais. Atvira pilietinė visuomenė privalo
+ir pasitikėjimą nacionaliniais institutais. Atvira pilietinė visuomenė privalo
 
 gauti išsamią ir patikimą informaciją šalies gyvenimo klausimais.
 
-Pirmaeilis valstybės uždavinys - užtikrinti
+Pirmaeilis valstybės uždavinys -
 
-patikimą valstybės sausumos sienų su Baltarusija ir Karaliaučiaus krašto
+užtikrinti patikimą valstybės sausumos sienų su Baltarusija ir Karaliaučiaus
 
-(Kaliningrado srities) teritorija bei jūrų sienų kontrolę, taip pat Lietuvos
+krašto (Kaliningrado srities) teritorija bei jūrų sienų kontrolę, taip pat
 
-oro erdvės kontrolę.
+Lietuvos oro erdvės kontrolę.
 
-Valstybės valdžia privalo apsaugoti Lietuvą
+Valstybės valdžia privalo
 
-nuo užsienio valstybių slaptųjų tarnybų ir jų priedangos struktūrų ardomosios
+apsaugoti Lietuvą nuo užsienio valstybių slaptųjų tarnybų ir jų priedangos
 
-veiklos, diversijų ir teroro aktų.
+struktūrų ardomosios veiklos, diversijų ir teroro aktų.
 
-Vyriausybė ir teisėsaugos sistema privalo
+Vyriausybė ir teisėsaugos sistema
 
-apginti piliečius ir valstybę nuo korupcijos bei organizuoto nusikalstamumo,
+privalo apginti piliečius ir valstybę nuo korupcijos bei organizuoto
 
-užtikrinti asmens ir turto saugumą.
+nusikalstamumo, užtikrinti asmens ir turto saugumą.
 
-Nacionalinio saugumo ir kitose valstybės
+Nacionalinio saugumo ir kitose
 
-institucijose turi veikti imuniteto tarnybos, kurios apsaugotų institucijas ir
+valstybės institucijose turi veikti imuniteto tarnybos, kurios apsaugotų
 
-pareigūnus nuo visokio neteisėto poveikio.
+institucijas ir pareigūnus nuo visokio neteisėto poveikio.
 
 EKONOMINĖ
 
 POLITIKA
 
-Seimas įstatymu nustato, kurios įmonės ir
+Seimas įstatymu nustato, kurios
 
-įrenginiai (tarp jų ir steigtini) turi strateginę reikšmę nacionaliniam
+įmonės ir įrenginiai (tarp jų ir steigtini) turi strateginę reikšmę
 
-saugumui. Įstatymas taip pat nustato, kurie iš jų privalo būti valstybės
+nacionaliniam saugumui. Įstatymas taip pat nustato, kurie iš jų privalo būti
 
-nuosavybė, o kuriuose iš jų (ir kokiomis sąlygomis) leidžiama dalyvauti
+valstybės nuosavybė, o kuriuose iš jų (ir kokiomis sąlygomis) leidžiama
 
-privačiam nacionaliniam bei europinės ir transatlantinės integracijos
+dalyvauti privačiam nacionaliniam bei europinės ir transatlantinės integracijos
 
 kriterijus atitinkančiam užsienio kapitalui, paliekant sprendžiamąją galią
 
 valstybei.
 
-Vyriausybė privalo užtikrinti alternatyvius,
+Vyriausybė privalo užtikrinti
 
-nuo monopolinio tiekėjo nepriklausomus kuro ir žaliavų įsigijimo šaltinius.
+alternatyvius, nuo monopolinio tiekėjo nepriklausomus kuro ir žaliavų įsigijimo
 
-Aprūpinimas energetiniais ištekliais negali būti perduotas šalių, iš kurių šie
+šaltinius. Aprūpinimas energetiniais ištekliais negali būti perduotas šalių, iš
 
-ištekliai tiekiami, subjektų kontrolei. Europinės ir transatlantinės integracijos
+kurių šie ištekliai tiekiami, subjektų kontrolei. Europinės ir transatlantinės
 
-kriterijus atitinkančioms užsienio investicijoms teikiamos preferencijos.
+integracijos kriterijus atitinkančioms užsienio investicijoms teikiamos
 
-Draudžiama dominuojanti užsienio ūkio subjektų padėtis natūralių monopolijų
+preferencijos. Draudžiama dominuojanti užsienio ūkio subjektų padėtis natūralių
 
-sektoriuje ir finansų sistemoje.
+monopolijų sektoriuje ir finansų sistemoje.
 
-Lietuvos bankas, Vyriausybė bei teisėsaugos
+Lietuvos bankas, Vyriausybė bei
 
-institucijos pagal savo kompetenciją užtikrina ūkio ir bankų-finansų sistemos
+teisėsaugos institucijos pagal savo kompetenciją užtikrina ūkio ir
 
-saugumą nuo apgavysčių, nelegalios kilmės pinigų ir investicijų.
+bankų-finansų sistemos saugumą nuo apgavysčių, nelegalios kilmės pinigų ir
 
-Lietuvos geležinkelis, parengus specialią
+investicijų.
 
-valstybės programą, turi būti laipsniškai rekonstruojamas pagal europinės vėžės
+Lietuvos geležinkelis, parengus
 
-standartus. Vežimo Lietuvos geležinkeliais sistema turi būti pertvarkyta pagal
+specialią valstybės programą, turi būti laipsniškai rekonstruojamas pagal
 
-Konvencijos dėl tarptautinio geležinkelio transporto (COTIF) normas.
+europinės vėžės standartus. Vežimo Lietuvos geležinkeliais sistema turi būti
+
+pertvarkyta pagal Konvencijos dėl tarptautinio geležinkelio transporto (COTIF)
+
+normas.
 
 SOCIALINĖ
 
 POLITIKA
 
-Valstybės socialinė politika turi skatinti
+Valstybės socialinė politika turi
 
-socialiai savarankiškos, solidarios, kartu ir stabilios pilietinės visuomenės
+skatinti socialiai savarankiškos, solidarios, kartu ir stabilios pilietinės
 
-formavimąsi. Valstybė turi vykdyti visų piliečių gerovės politiką, mažinti
+visuomenės formavimąsi. Valstybė turi vykdyti visų piliečių gerovės politiką, mažinti
 
 galimų socialinių krizių rizikos veiksnius ir rūpintis, kad dėl pernelyg
 
@@ -609,35 +597,39 @@ didelių turtinės visuomenės skirtumų ir gyventojų nuskurdimo nebūtų paže
 
 socialinio solidarumo pagrindai.
 
-Valstybė turi ypač rūpintis šeimos, kaip
+Valstybė turi ypač rūpintis
 
-pagrindinės ir atsakingos visuomenės institucijos, padėtimi.
+šeimos, kaip pagrindinės ir atsakingos visuomenės institucijos, padėtimi.
 
 KULTŪROS
 
 POLITIKA
 
-Valstybės pareiga globoti natūralią tautinės
+Valstybės pareiga globoti
 
-kultūros raidą, saugoti ją nuo griaunančio antihumanistinės pseudokultūros
+natūralią tautinės kultūros raidą, saugoti ją nuo griaunančio antihumanistinės
 
-poveikio, puoselėti lietuvių kalbą, saugoti intelektinį potencialą, lietuvių
+pseudokultūros poveikio, puoselėti lietuvių kalbą, saugoti intelektinį
 
-tautos ir tautinių bendrijų kultūros paveldą.
+potencialą, lietuvių tautos ir tautinių bendrijų kultūros paveldą.
 
-Švietimo ir auklėjimo sistema turi ugdyti
+Švietimo ir auklėjimo sistema
 
-pilietiškumą, tautinį sąmoningumą, pakantą ir pagarbą kitoms tautoms.
+turi ugdyti pilietiškumą, tautinį sąmoningumą, pakantą ir pagarbą kitoms
+
+tautoms.
 
 TAUTINĖ
 
 POLITIKA
 
-Tautinių mažumų bendrijoms priklausančių
+Tautinių mažumų bendrijoms
 
-piliečių teises puoselėti savo kalbą, kultūrą ir papročius gina įstatymai.
+priklausančių piliečių teises puoselėti savo kalbą, kultūrą ir papročius gina
 
-Tautinės bendrijos yra integrali Lietuvos pilietinės visuomenės dalis.
+įstatymai. Tautinės bendrijos yra integrali Lietuvos pilietinės visuomenės
+
+dalis.
 
 5
 
@@ -651,61 +643,67 @@ UŽSIENIO
 
 POLITIKOS NUOSTATOS
 
-Lietuvos užsienio politika formuojama
+Lietuvos užsienio politika
 
-remiantis Seime atstovaujamų politinių partijų solidarumu bei atsakomybe ir
+formuojama remiantis Seime atstovaujamų politinių partijų solidarumu bei
 
-grindžiama Lietuvos nacionaliniais tikslais.
+atsakomybe ir grindžiama Lietuvos nacionaliniais tikslais.
 
-Svarbiausias Lietuvos užsienio politikos
+Svarbiausias Lietuvos užsienio
 
-tikslas - plėtoti Lietuvos integraciją į europines bei transatlantinę
+politikos tikslas - plėtoti Lietuvos integraciją į europines bei transatlantinę
 
 institucijas ir užsitikrinti tarptautines saugumo garantijas.
 
-Lietuva su visomis valstybėmis stengiasi
+Lietuva su visomis valstybėmis
 
-teisingais ir lygiateisiais pagrindais nustatyti bei palaikyti gerus
+stengiasi teisingais ir lygiateisiais pagrindais nustatyti bei palaikyti gerus
 
 kaimyniškus santykius, grindžiamus visuotinai pripažintomis tarptautinės teisės
 
 normomis ir principais.
 
-Pagrindiniai Lietuvos užsienio politikos
+Pagrindiniai Lietuvos užsienio
 
-uždaviniai:
+politikos uždaviniai:
 
-- visapusiškai ir aktyviai dalyvauti Europos
+- visapusiškai ir aktyviai
 
-integracijoje: vykdyti Europos (asociacijos) sutartį, siekti kuo greitesnės
+dalyvauti Europos integracijoje: vykdyti Europos (asociacijos) sutartį, siekti
 
-narystės Šiaurės Atlanto sutarties organizacijoje ir Vakarų Europos Sąjungoje;
+kuo greitesnės narystės Šiaurės Atlanto sutarties organizacijoje ir Vakarų
 
-- siekti tolygios kooperacijos su visomis
+Europos Sąjungoje;
 
-Europos Sąjungos šalimis;
+- siekti tolygios kooperacijos su
 
-- į Europos ir transatlantinę saugumo bei
+visomis Europos Sąjungos šalimis;
 
-gynybos sistemas integruotis tiesiogiai, o ne per tarpinius darinius;
+- į Europos ir transatlantinę
 
-- bendradarbiauti su Baltijos, Vidurio
+saugumo bei gynybos sistemas integruotis tiesiogiai, o ne per tarpinius
 
-Europos ir Šiaurės valstybėmis kaip su regionais;
+darinius;
 
-- pasinaudojant Jungtinių Amerikos Valstijų
+- bendradarbiauti su Baltijos,
 
-iniciatyva ir bendradarbiaujant su kaimyninėmis ir Šiaurės valstybėmis,
+Vidurio Europos ir Šiaurės valstybėmis kaip su regionais;
 
-prisijungti prie Europos oro erdvės kontrolės bendros sistemos;
+- pasinaudojant Jungtinių
+
+Amerikos Valstijų iniciatyva ir bendradarbiaujant su kaimyninėmis ir Šiaurės
+
+valstybėmis, prisijungti prie Europos oro erdvės kontrolės bendros sistemos;
 
 - siekti Karaliaučiaus krašto
 
 demilitarizavimo ir Lietuvos interesams neprieštaraujančios jo raidos.
 
-Lietuvos valstybė labai vertina ir skatina
+Lietuvos valstybė labai vertina
 
-užsienio lietuvių talką stiprinant Lietuvos saugumą bei gynybinę galią.
+ir skatina užsienio lietuvių talką stiprinant Lietuvos saugumą bei gynybinę
+
+galią.
 
 6
 
@@ -715,37 +713,37 @@ TEISINIAI
 
 LIETUVOS GYNYBOS PAGRINDAI
 
-Lietuvos suvereniteto, teritorijos vientisumo
+Lietuvos suvereniteto,
 
-ir konstitucinės santvarkos gynimas bei gynybos institucijų veikla grindžiama
+teritorijos vientisumo ir konstitucinės santvarkos gynimas bei gynybos
 
-Konstitucija, reguliuojama įstatymų ir kitų Lietuvos teisės aktų, taip pat
+institucijų veikla grindžiama Konstitucija, reguliuojama įstatymų ir kitų
 
-tarptautinių teisės aktų, kuriuos Lietuva yra ratifikavusi arba prie kurių
+Lietuvos teisės aktų, taip pat tarptautinių teisės aktų, kuriuos Lietuva yra
 
-prisijungusi. Lietuva numato pasinaudoti ir kitais tarptautinės teisės aktais,
+ratifikavusi arba prie kurių prisijungusi. Lietuva numato pasinaudoti ir kitais
 
-kurių principus ir normas ji gerbia.
+tarptautinės teisės aktais, kurių principus ir normas ji gerbia.
 
-Konstitucijos kertinės normos, tiesiogiai
+Konstitucijos kertinės normos,
 
-reglamentuojančios valstybės gynybos klausimus, yra:
+tiesiogiai reglamentuojančios valstybės gynybos klausimus, yra:
 
-- Konstitucijos 3 straipsnio antroji dalis,
+- Konstitucijos 3 straipsnio
 
-skelbianti, kad Tauta ir kiekvienas pilietis turi teisę priešintis bet kam, kas
+antroji dalis, skelbianti, kad Tauta ir kiekvienas pilietis turi teisę
 
-prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos
+priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės
 
-vientisumą, konstitucinę santvarką;
+nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką;
 
-- Konstitucijos 139 straipsnis, skelbiantis,
+- Konstitucijos 139 straipsnis,
 
-kad Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo yra kiekvieno
+skelbiantis, kad Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo
 
-Lietuvos Respublikos piliečio teisė ir pareiga, ir nustatantis piliečių
+yra kiekvieno Lietuvos Respublikos piliečio teisė ir pareiga, ir nustatantis
 
-privalomąją karo tarnybą.
+piliečių privalomąją karo tarnybą.
 
 7
 
@@ -761,87 +759,91 @@ VISUOTINĖS
 
 IR BESĄLYGINĖS GYNYBOS PRINCIPAS
 
-Lietuvos gynimas yra visuotinis ir
+Lietuvos gynimas yra visuotinis
 
-besąlyginis.
+ir besąlyginis.
 
-Gynybos visuotinumas reiškia, kad Lietuvą
+Gynybos visuotinumas reiškia, kad
 
-ginklu gina valstybės ginkluotosios pajėgos, kad gynybai panaudojami valstybės
+Lietuvą ginklu gina valstybės ginkluotosios pajėgos, kad gynybai panaudojami
 
-ištekliai, kad kiekvienas pilietis ir Tauta priešinasi visais įmanomais būdais.
+valstybės ištekliai, kad kiekvienas pilietis ir Tauta priešinasi visais
 
-Gynybos besąlyginumas reiškia, kad Lietuvos
+įmanomais būdais.
 
-gynyba nėra saistoma jokių sąlygų ir kad niekas negali varžyti Tautos ir
+Gynybos besąlyginumas reiškia,
 
-kiekvieno piliečio teisės priešintis agresoriui, okupantui ir bet kam, kas
+kad Lietuvos gynyba nėra saistoma jokių sąlygų ir kad niekas negali varžyti
 
-prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos vientisumą
+Tautos ir kiekvieno piliečio teisės priešintis agresoriui, okupantui ir bet
 
-ir konstitucinę santvarką. Siekdama tarptautinės pagalbos gynybai, Lietuva
+kam, kas prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos
 
-ginasi ir priešinasi pati, nelaukdama, kada toji pagalba bus suteikta.
+vientisumą ir konstitucinę santvarką. Siekdama tarptautinės pagalbos gynybai,
 
-Antrasis
+Lietuva ginasi ir priešinasi pati, nelaukdama, kada toji pagalba bus suteikta.
 
-skirsnis
+Antrasis skirsnis
 
-BENDROSIOS LIETUVOS
+BENDROSIOS
 
-GYNYBOS NUOSTATOS
+LIETUVOS GYNYBOS NUOSTATOS
 
-Lietuvos gynybinė galia grindžiama:
+Lietuvos gynybinė galia
+
+grindžiama:
 
 - Tautos apsisprendimu ir pasiryžimu
 
 priešintis kiekvienam užpuolikui;
 
-- įstatymo nustatyta visuotine privalomąja
+- įstatymo nustatyta visuotine
 
-karo tarnyba;
+privalomąja karo tarnyba;
 
-- kariuomenės ir jos aktyviojo rezervo
+- kariuomenės ir jos aktyviojo
 
-parengtimi ir apginklavimu;
+rezervo parengtimi ir apginklavimu;
 
-- piliečių pasirengimu visuotiniam ginkluotam
+- piliečių pasirengimu
 
-ir neginkluotam pasipriešinimui bei pilietinei gynybai;
+visuotiniam ginkluotam ir neginkluotam pasipriešinimui bei pilietinei gynybai;
 
-- geru kariuomenės ir civilių piliečių
+- geru kariuomenės ir civilių
 
-savitarpio supratimu ir bendradarbiavimu;
+piliečių savitarpio supratimu ir bendradarbiavimu;
 
 - valstybės atsargomis.
 
-Lietuvos kariuomenė ir kitos krašto apsaugos institucijos
+Lietuvos kariuomenė ir kitos
 
-kuriamos ir rengiamos Lietuvos valstybės gynybai ir sąveikai su NATO pajėgomis.
+krašto apsaugos institucijos kuriamos ir rengiamos Lietuvos valstybės gynybai
 
-Valstybės ginkluotąsias pajėgas taikos metu
+ir sąveikai su NATO pajėgomis.
 
-sudaro visos kariuomenės rūšys ir jos aktyvusis rezervas. Įvedus karo padėtį ar
+Valstybės ginkluotąsias pajėgas
 
-ginkluotos gynybos nuo agresijos (karo) metu ginkluotosioms pajėgoms
+taikos metu sudaro visos kariuomenės rūšys ir jos aktyvusis rezervas. Įvedus
 
-priskiriama: pasienio policija, kiti specializuoti policijos daliniai, Karo
+karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu ginkluotosioms
 
-akademija, koviniai Šaulių sąjungos būriai, savanorių piliečių ginkluoto
+pajėgoms priskiriama: pasienio policija, kiti specializuoti policijos daliniai,
+
+Karo akademija, koviniai Šaulių sąjungos būriai, savanorių piliečių ginkluoto
 
 pasipriešinimo (partizanų) būriai.
 
-Lietuvos gynybos sistemos pagrindas - visuotinės
+Lietuvos gynybos sistemos
 
-ir besąlyginės gynybos principas. Šis principas įtvirtinamas įstatymuose,
+pagrindas - visuotinės ir besąlyginės gynybos principas. Šis principas
 
-kituose gynybą reglamentuojančiuose teisės aktuose, kariuomenės bei jos
+įtvirtinamas įstatymuose, kituose gynybą reglamentuojančiuose teisės aktuose,
 
-aktyviojo rezervo parengimo gynybai planuose ir kituose dokumentuose. Šiuo
+kariuomenės bei jos aktyviojo rezervo parengimo gynybai planuose ir kituose
 
-principu taip pat grindžiamas piliečių mokymas ir rengimasis gynybai bei
+dokumentuose. Šiuo principu taip pat grindžiamas piliečių mokymas ir rengimasis
 
-pasipriešinimui.
+gynybai bei pasipriešinimui.
 
 Visuotiniu piliečių pasirengimu
 
@@ -849,85 +851,93 @@ pasipriešinimui ir ginkluotųjų pajėgų pasirengimu besąlygiškai gynybai nu
 
 agresijos Lietuva siekia atgrasinti kiekvieną potencialų užpuoliką.
 
-Lietuva priešinsis agresoriui visomis jai
+Lietuva priešinsis agresoriui
 
-prieinamomis priemonėmis: karine gynyba ir partizaniniais veiksmais, civilių
+visomis jai prieinamomis priemonėmis: karine gynyba ir partizaniniais veiksmais,
 
-piliečių nepaklusnumu, nekolaboravimu bei kitais būdais.
+civilių piliečių nepaklusnumu, nekolaboravimu bei kitais būdais.
 
-Lietuva remiasi pasirašytais su NATO
+Lietuva remiasi pasirašytais su
 
-dokumentais ir neatidėliodama prašo NATO konsultacijų, kai jaučia tiesioginę
+NATO dokumentais ir neatidėliodama prašo NATO konsultacijų, kai jaučia
 
-grėsmę jos teritoriniam vientisumui, politinei nepriklausomybei ar saugumui.
+tiesioginę grėsmę jos teritoriniam vientisumui, politinei nepriklausomybei ar
 
-Lietuva rengiasi gynybai remdamasi
+saugumui.
 
-šiuolaikiniu karybos mokslu ir tautos dešimtmete pokario partizaninės kovos
+Lietuva rengiasi gynybai
 
-prieš Sovietų Sąjungos kariuomenę ir okupacinį režimą patirtimi.
+remdamasi šiuolaikiniu karybos mokslu ir tautos dešimtmete pokario partizaninės
 
-Agresijos faktą Lietuva konstatuoja
+kovos prieš Sovietų Sąjungos kariuomenę ir okupacinį režimą patirtimi.
 
-vadovaudamasi tarptautinės teisės normomis. Agresijos ar kitu prievartos prieš
+Agresijos faktą Lietuva
 
-Lietuvos valstybę atveju piliečiai ir jų susivienijimai priešinasi bet kam, kas
+konstatuoja vadovaudamasi tarptautinės teisės normomis. Agresijos ar kitu
 
-prievarta kėsinasi į Lietuvos nepriklausomybę, teritorijos vientisumą ar
+prievartos prieš Lietuvos valstybę atveju piliečiai ir jų susivienijimai
 
-konstitucinę santvarką. Kiekvienam pasipriešinimo dalyviui taikomas kombatanto
+priešinasi bet kam, kas prievarta kėsinasi į Lietuvos nepriklausomybę,
 
-statusas pagal tarptautinės teisės aktus.
+teritorijos vientisumą ar konstitucinę santvarką. Kiekvienam pasipriešinimo
 
-Tautos ir valstybės gynybai vadovauja laisvai
+dalyviui taikomas kombatanto statusas pagal tarptautinės teisės aktus.
 
-ir teisėtai veikiančios valstybės institucijos, o jei jos negali veikti, -
+Tautos ir valstybės gynybai
 
-Tautos sukurtos arba jos pripažįstamos vadovavimo pasipriešinimui institucijos.
+vadovauja laisvai ir teisėtai veikiančios valstybės institucijos, o jei jos
 
-Ginkluotųjų pajėgų daliniai turi iš anksto
+negali veikti, - Tautos sukurtos arba jos pripažįstamos vadovavimo
 
-parengtus veiksmų planus agresijai atremti. Agresijos atveju ginkluotųjų pajėgų
+pasipriešinimui institucijos.
 
-dalinių vadai, vadovaudamiesi šiais planais ir nelaukdami atskiro politinio
+Ginkluotųjų pajėgų daliniai turi
 
-sprendimo, nedelsdami įsako ginklu pasipriešinti agresoriui, ginti Lietuvos
+iš anksto parengtus veiksmų planus agresijai atremti. Agresijos atveju
 
-valstybę, jos laisvę ir nepriklausomybę bei teritorijos vientisumą.
+ginkluotųjų pajėgų dalinių vadai, vadovaudamiesi šiais planais ir nelaukdami
 
-Agresijos ar kitu prievartos prieš Lietuvos
+atskiro politinio sprendimo, nedelsdami įsako ginklu pasipriešinti agresoriui,
 
-valstybę atveju jokia valstybės institucija ar pareigūnas negali priimti
+ginti Lietuvos valstybę, jos laisvę ir nepriklausomybę bei teritorijos
 
-sprendimo arba duoti įsakymo, draudžiančio ginti Lietuvos nepriklausomybę,
+vientisumą.
 
-teritorijos vientisumą ar konstitucinę santvarką. Toks sprendimas ar įsakymas
+Agresijos ar kitu prievartos
 
-bus niekiniai, o jų nevykdymas neužtrauks jokios atsakomybės.
+prieš Lietuvos valstybę atveju jokia valstybės institucija ar pareigūnas negali
 
-Jei dėl agresijos ar kitokios prievartos
+priimti sprendimo arba duoti įsakymo, draudžiančio ginti Lietuvos
 
-prieš Lietuvos valstybės nepriklausomybę, teritorijos vientisumą ar
+nepriklausomybę, teritorijos vientisumą ar konstitucinę santvarką. Toks
+
+sprendimas ar įsakymas bus niekiniai, o jų nevykdymas neužtrauks jokios
+
+atsakomybės.
+
+Jei dėl agresijos ar kitokios
+
+prievartos prieš Lietuvos valstybės nepriklausomybę, teritorijos vientisumą ar
 
 konstitucinę santvarką pareigūnas negali laisvai vykdyti valstybės gynimo
 
 pareigų arba su gynyba susijusių funkcijų ar perduoti įsakymų, žemesniosios
 
-grandies pareigūnai gynybos funkcijas vykdo savarankiškai. Tokiu atveju šių
+grandies pareigūnai gynybos funkcijas vykdo savarankiškai. Tokiu atveju šių pareigūnų
 
-pareigūnų įsakymai bus privalomi, o karinių dalinių, piliečių ir jų
+įsakymai bus privalomi, o karinių dalinių, piliečių ir jų savaveiksmių darinių
 
-savaveiksmių darinių pasipriešinimo bei kovos veiksmai bus teisėti.
+pasipriešinimo bei kovos veiksmai bus teisėti.
 
-Krašto gynybos operatyvinė vadovybė privalo
+Krašto gynybos operatyvinė
 
-užtikrinti, kad pasienio provokacijos, vietinio įsibrovimo į Lietuvos
+vadovybė privalo užtikrinti, kad pasienio provokacijos, vietinio įsibrovimo į
 
-teritoriją ar Lietuvos oro erdvės pažeidimo atvejais būtų nedelsiant duoti
+Lietuvos teritoriją ar Lietuvos oro erdvės pažeidimo atvejais būtų nedelsiant
 
-įsakymai dėl adekvačių kariuomenės ir pasienio policijos veiksmų ir imtasi
+duoti įsakymai dėl adekvačių kariuomenės ir pasienio policijos veiksmų ir
 
-diplomatinių priemonių.
+imtasi diplomatinių priemonių.
 
 TrečiasIS skirsnis
 
@@ -935,39 +945,39 @@ KARINĖ
 
 GYNYBA
 
-Karinei valstybės gynybai naudojamos visos
+Karinei valstybės gynybai
 
-ginkluotosios pajėgos. Jos privalo būti parengtos greitam reagavimui, gerai
+naudojamos visos ginkluotosios pajėgos. Jos privalo būti parengtos greitam
 
-tarpusavio sąveikai ir greitam pergrupavimui. Ypatinga reikšmė teikiama
+reagavimui, gerai tarpusavio sąveikai ir greitam pergrupavimui. Ypatinga
 
-žvalgybai, informacijos analizei ir veiksmingam operatyviniam vadovavimui
+reikšmė teikiama žvalgybai, informacijos analizei ir veiksmingam operatyviniam
 
-ginkluotosioms pajėgoms.
+vadovavimui ginkluotosioms pajėgoms.
 
-Lietuvos kariuomenė ypač turi būti parengta
+Lietuvos kariuomenė ypač turi
 
-gynybos veiksmams netikėto ir staigaus agresoriaus desantinių ir kitokių
+būti parengta gynybos veiksmams netikėto ir staigaus agresoriaus desantinių ir
 
-mobilių pajėgų įsiveržimo atvejais. Kariuomenė turi būti apmokyta ir
+kitokių mobilių pajėgų įsiveržimo atvejais. Kariuomenė turi būti apmokyta ir
 
 partizaninės kovos veiksmų priešo užimtose teritorijose bei pasirengusi tęsti
 
 partizaninį karą.
 
-Prasidėjus agresijai prieš Lietuvą,
+Prasidėjus agresijai prieš
 
-kariuomenė ginklu gina valstybę siekdama išsekinti ir sunaikinti priešo
+Lietuvą, kariuomenė ginklu gina valstybę siekdama išsekinti ir sunaikinti
 
-pajėgas; Lietuva prašo NATO ir jos narių pagalbos gynybai, taip pat kitokios
+priešo pajėgas; Lietuva prašo NATO ir jos narių pagalbos gynybai, taip pat
 
-tarptautinės pagalbos.
+kitokios tarptautinės pagalbos.
 
-Pagrindinis kariuomenės uždavinys - naikinti
+Pagrindinis kariuomenės uždavinys
 
-priešą ir palaužti jo norą kovoti prieš Lietuvą. Konkrečius kariuomenės dalinių
+- naikinti priešą ir palaužti jo norą kovoti prieš Lietuvą. Konkrečius
 
-strateginius uždavinius nustato kariuomenės vadas.
+kariuomenės dalinių strateginius uždavinius nustato kariuomenės vadas.
 
 KetvirtasIS skirsnis
 
@@ -975,13 +985,13 @@ PILIETINIS
 
 PASIPRIEŠINIMAS
 
-Pilietinio pasipriešinimo jėgą lemia Tautos
+Pilietinio pasipriešinimo jėgą
 
-valia ir apsisprendimas kovoti už savo laisvę, kiekvieno piliečio, nesvarbu,
+lemia Tautos valia ir apsisprendimas kovoti už savo laisvę, kiekvieno piliečio,
 
-koks jo amžius ir profesija, pasiryžimas visais įmanomais būdais priešintis
+nesvarbu, koks jo amžius ir profesija, pasiryžimas visais įmanomais būdais
 
-užpuolikui ar okupantui, prisidėti prie Lietuvos gynybos.
+priešintis užpuolikui ar okupantui, prisidėti prie Lietuvos gynybos.
 
 Piliečių pasirengimo pilietiniam
 
@@ -989,37 +999,37 @@ pasipriešinimui sistema yra valstybinė. Jos funkcionavimą organizuoja
 
 Vyriausybė.
 
-Piliečiai reguliariai mokomi įvairių
+Piliečiai reguliariai mokomi
 
-pasipriešinimo ir civilinės saugos būdų. Valstybė juos aprūpina būtinomis
+įvairių pasipriešinimo ir civilinės saugos būdų. Valstybė juos aprūpina
 
-techninėmis priemonėmis.
+būtinomis techninėmis priemonėmis.
 
-Patriotizmo ugdymas, pasipriešinimo būdų
+Patriotizmo ugdymas,
 
-mokymas ir įgūdžių ugdymas yra ir mokyklos privalomosios lavinimo programos
+pasipriešinimo būdų mokymas ir įgūdžių ugdymas yra ir mokyklos privalomosios
 
-sudėtinė dalis.
+lavinimo programos sudėtinė dalis.
 
-Valstybė remia savaveiksmes visuomenės
+Valstybė remia savaveiksmes
 
-organizacijas, kurių veikla prisideda prie pasirengimo pilietiniam
+visuomenės organizacijas, kurių veikla prisideda prie pasirengimo pilietiniam
 
 pasipriešinimui ar gynybinės galios stiprinimo.
 
-Užpuolimo, pasikėsinimo į Lietuvos
+Užpuolimo, pasikėsinimo į
 
-teritorijos vientisumą arba jos konstitucinę santvarką atveju piliečiai ir jų
+Lietuvos teritorijos vientisumą arba jos konstitucinę santvarką atveju
 
-savaveiksmiai dariniai imasi pilietinio pasipriešinimo veiksmų - nesmurtinio
+piliečiai ir jų savaveiksmiai dariniai imasi pilietinio pasipriešinimo veiksmų
 
-pasipriešinimo, nepaklusnumo ir nekolaboravimo su neteisėta administracija,
+- nesmurtinio pasipriešinimo, nepaklusnumo ir nekolaboravimo su neteisėta
 
-taip pat ginkluoto pasipriešinimo.
+administracija, taip pat ginkluoto pasipriešinimo.
 
-Kolaboravimo veikas ir atsakomybę už jas
+Kolaboravimo veikas ir atsakomybę
 
-nustato įstatymai.
+už jas nustato įstatymai.
 
 8
 
@@ -1033,27 +1043,27 @@ SAUGUMO
 
 INSTITUCIJŲ KONTROLĖ
 
-Visus sprendimus dėl gynybos politikos ir
+Visus sprendimus dėl gynybos
 
-ginkluotųjų pajėgų priima demokratiškai išrinkta civilinė valdžia. Nacionalinė
+politikos ir ginkluotųjų pajėgų priima demokratiškai išrinkta civilinė valdžia.
 
-gynybos politika ir gynybos išlaidos skelbiami viešai.
+Nacionalinė gynybos politika ir gynybos išlaidos skelbiami viešai.
 
-Sprendimus dėl ginkluotųjų pajėgų išdėstymo
+Sprendimus dėl ginkluotųjų pajėgų
 
-taikos metu priima Respublikos Prezidentas. Jis savo dekretu patvirtina visų
+išdėstymo taikos metu priima Respublikos Prezidentas. Jis savo dekretu
 
-kariuomenės dalinių nuolatinio dislokavimo taikos metu vietas ir teritorines
+patvirtina visų kariuomenės dalinių nuolatinio dislokavimo taikos metu vietas
 
-manevravimo ribas. Taikos metu tik Respublikos Prezidentas savo dekretu gali
+ir teritorines manevravimo ribas. Taikos metu tik Respublikos Prezidentas savo
 
-duoti įsakymus dėl ginkluotųjų pajėgų dalinių perkėlimo į kitą dislokavimo
+dekretu gali duoti įsakymus dėl ginkluotųjų pajėgų dalinių perkėlimo į kitą
 
-vietą.
+dislokavimo vietą.
 
-Gynybos veiksmų civilinę vadovybę sudaro
+Gynybos veiksmų civilinę vadovybę
 
-Respublikos Prezidentas ir krašto apsaugos ministras. Pagal demokratinės
+sudaro Respublikos Prezidentas ir krašto apsaugos ministras. Pagal demokratinės
 
 civilių kontrolės principą operacinio vadovavimo karinėms operacijoms ir
 
@@ -1065,59 +1075,63 @@ išimtinių aplinkybių, - tiesiai lauko pajėgų vadui, reguliariųjų pajėgų
 
 vadams ar Savanorių pajėgų vadui.
 
-Kai Respublikos Prezidentas iš šalies
+Kai Respublikos Prezidentas iš
 
-išvyksta, krašto apsaugos ministras privalo būti Lietuvoje, išskyrus įstatymų
+šalies išvyksta, krašto apsaugos ministras privalo būti Lietuvoje, išskyrus
 
-numatytus atvejus.
+įstatymų numatytus atvejus.
 
-Ginkluotųjų pajėgų organizaciją, plėtrą,
+Ginkluotųjų pajėgų organizaciją,
 
-apginklavimo poreikius, asignavimus nustato piliečių demokratiškai išrinktas
+plėtrą, apginklavimo poreikius, asignavimus nustato piliečių demokratiškai
 
-Seimas. Seimas įstatymų nustatyta tvarka vykdo ginkluotųjų pajėgų ir kitų
+išrinktas Seimas. Seimas įstatymų nustatyta tvarka vykdo ginkluotųjų pajėgų ir
 
-nacionalinio saugumo institucijų parlamentinę kontrolę. Už ginkluotųjų pajėgų
+kitų nacionalinio saugumo institucijų parlamentinę kontrolę. Už ginkluotųjų pajėgų
 
 tvarkymą ir vadovavimą joms Seimui yra atsakingi Vyriausybė, krašto apsaugos
 
 ministras ir kariuomenės vadas.
 
-Sprendimus dėl kariuomenės aprūpinimo,
+Sprendimus dėl kariuomenės
 
-ginkluotės įsigijimo ir materialinės bazės priima Vyriausybė.
+aprūpinimo, ginkluotės įsigijimo ir materialinės bazės priima Vyriausybė.
 
-Sprendimus dėl mobilizacijos, karo padėties
+Sprendimus dėl mobilizacijos,
 
-įvedimo, ginkluotųjų pajėgų panaudojimo ir sprendimą dėl gynybos nuo ginkluotos
+karo padėties įvedimo, ginkluotųjų pajėgų panaudojimo ir sprendimą dėl gynybos
 
-agresijos priima Respublikos Prezidentas ir Seimas Konstitucijos nustatyta tvarka.
+nuo ginkluotos agresijos priima Respublikos Prezidentas ir Seimas Konstitucijos
 
-Krašto apsaugos ministras, vidaus reikalų
+nustatyta tvarka.
 
-ministras, Krašto apsaugos ir Vidaus reikalų ministerijų viceministrai ir
+Krašto apsaugos ministras, vidaus
 
-Valstybės saugumo departamento vadovas turi būti tik civiliai asmenys.
+reikalų ministras, Krašto apsaugos ir Vidaus reikalų ministerijų viceministrai
 
-Kariuomenės vadas pavaldus krašto apsaugos
+ir Valstybės saugumo departamento vadovas turi būti tik civiliai asmenys.
 
-ministrui.
+Kariuomenės vadas pavaldus krašto
 
-Krašto apsaugos, Vidaus reikalų ministerijos
+apsaugos ministrui.
 
-ir Valstybės saugumo departamento civiliams pareigūnams gali būti suteikiami
+Krašto apsaugos, Vidaus reikalų
 
-įstatymų nustatyti tarnybiniai rangai.
+ministerijos ir Valstybės saugumo departamento civiliams pareigūnams gali būti
 
-Skyriaus pakeitimai:
+suteikiami įstatymų nustatyti tarnybiniai rangai.
 
-Nr. VIII-770, 98.06.04,
+Skyriaus
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+pakeitimai:
 
-Nr. VIII-1026, 99.01.14,
+Nr. VIII-770,
 
-Žin., 1999, Nr.11-245 (99.01.27)
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
+
+Nr. VIII-1026,
+
+99.01.14, Žin., 1999, Nr.11-245 (99.01.27)
 
 II
 
@@ -1139,9 +1153,9 @@ RIZIKOS
 
 VEIKSNIAI IR PAVOJAI LIETUVOS SAUGUMUI
 
-Užtikrinant Lietuvos nacionalinį saugumą,
+Užtikrinant Lietuvos nacionalinį
 
-atsižvelgiama į tokius pavojus bei rizikos veiksnius, kurie Lietuvai
+saugumą, atsižvelgiama į tokius pavojus bei rizikos veiksnius, kurie Lietuvai
 
 nepalankiomis sąlygomis neginčijamai gali pasireikšti.
 
@@ -1151,125 +1165,131 @@ RIZIKOS
 
 VEIKSNIAI IR PAVOJAI IŠ UŽSIENIO
 
-Svarbus Lietuvos saugumo veiksnys - specifinė
+Svarbus Lietuvos saugumo veiksnys
 
-geopolitinė aplinka, sunkiai Lietuvos kaimynystėje prognozuojama dėl joje
+- specifinė geopolitinė aplinka, sunkiai Lietuvos kaimynystėje prognozuojama
 
-esančių militarizuotų teritorijų ir netvirtos demokratijos valstybių.
+dėl joje esančių militarizuotų teritorijų ir netvirtos demokratijos valstybių.
 
-Geopolitinės
+Geopolitinės aplinkos sąlygojami išoriniai rizikos
 
-aplinkos sąlygojami išoriniai rizikos veiksniai, iššūkiai ir galimi pavojai
+veiksniai, iššūkiai ir galimi pavojai
 
 POLITINIAI:
 
-- politinis spaudimas ir diktatas, siekiai
+- politinis spaudimas ir
 
-įtvirtinti ypatingų interesų zonas ir ypatingas teises, trukdymas Lietuvai
+diktatas, siekiai įtvirtinti ypatingų interesų zonas ir ypatingas teises,
 
-įgyti tarptautines saugumo garantijas;
+trukdymas Lietuvai įgyti tarptautines saugumo garantijas;
 
-- užsienio valstybių grasinimai naudoti jėgą
+- užsienio valstybių grasinimai
 
-savo interesų gynimo dingstimi;
+naudoti jėgą savo interesų gynimo dingstimi;
 
-- pastangos primesti Lietuvai pavojingus
+- pastangos primesti Lietuvai
 
-nelygiateisius tarptautinius susitarimus.
+pavojingus nelygiateisius tarptautinius susitarimus.
 
 KARINIAI:
 
-- karinis potencialas netoli Lietuvos sienų;
+- karinis potencialas netoli
+
+Lietuvos sienų;
 
 - karinis tranzitas per Lietuvą;
 
-- nelegalių ginkluotų būrių kūrimasis ar
+- nelegalių ginkluotų būrių
 
-skverbimasis į Lietuvos teritoriją;
+kūrimasis ar skverbimasis į Lietuvos teritoriją;
 
 - atvira agresija.
 
 SPECIFINIAI:
 
-- užsienio slaptųjų tarnybų šnipinėjimo bei
+- užsienio slaptųjų tarnybų
 
-ardomoji veikla, įskaitant priedangos struktūrų kūrimą ir veiklą; diversijų ir
+šnipinėjimo bei ardomoji veikla, įskaitant priedangos struktūrų kūrimą ir
 
-pasikėsinimų organizavimas;
+veiklą; diversijų ir pasikėsinimų organizavimas;
 
-- ardomosios informacijos platinimas ir
+- ardomosios informacijos
 
-kitokie pilietinės visuomenės ir valstybės griovimo veiksmai naudojant
+platinimas ir kitokie pilietinės visuomenės ir valstybės griovimo veiksmai
 
-propagandą ir dezinformaciją;
+naudojant propagandą ir dezinformaciją;
 
-- tiesioginis ar netiesioginis kišimasis į
+- tiesioginis ar netiesioginis
 
-Lietuvos vidaus reikalus, pastangos daryti įtaką valstybės valdžios
+kišimasis į Lietuvos vidaus reikalus, pastangos daryti įtaką valstybės valdžios
 
 institucijoms ir Lietuvos vidaus politikai bei socialiniams procesams;
 
-- nelegali imigracija ir tranzitinė
+- nelegali imigracija ir
 
-migracija; pabėgėlių antplūdis;
+tranzitinė migracija; pabėgėlių antplūdis;
 
-- tautinių grupių skatinimas būti nelojalioms
+- tautinių grupių skatinimas būti
 
-Lietuvos valstybei; kitų valstybių pastangos primesti Lietuvai dvigubos
+nelojalioms Lietuvos valstybei; kitų valstybių pastangos primesti Lietuvai
 
-pilietybės principus.
+dvigubos pilietybės principus.
 
 EKONOMINIAI:
 
-- ekonominis spaudimas, blokada ar kitokios
+- ekonominis spaudimas, blokada
 
-priešiškos ekonominės akcijos;
+ar kitokios priešiškos ekonominės akcijos;
 
-- visos ūkio šakos priklausomybė nuo kurios
+- visos ūkio šakos priklausomybė
 
-nors vienos šalies ar šalių grupės;
+nuo kurios nors vienos šalies ar šalių grupės;
 
-- kapitalo investicijos politiniais tikslais:
+- kapitalo investicijos
 
-energetikos ir kitų nacionaliniam saugumui strategiškai svarbių ūkio šakų
+politiniais tikslais: energetikos ir kitų nacionaliniam saugumui strategiškai
 
-įmonių, finansų bei kredito įstaigų, svarbiausių komunikacijų (geležinkelio,
+svarbių ūkio šakų įmonių, finansų bei kredito įstaigų, svarbiausių komunikacijų
 
-greitkelių, vamzdynų, jūros uostų, oro uostų) nuosavybės ar valdymo kontrolės
+(geležinkelio, greitkelių, vamzdynų, jūros uostų, oro uostų) nuosavybės ar
 
-perėmimas;
+valdymo kontrolės perėmimas;
 
-- energetikos priklausomybė nuo vienos šalies
+- energetikos priklausomybė nuo
 
-ar vienos grupės šalių išteklių; lengvas energetikos sistemos funkcionavimo
+vienos šalies ar vienos grupės šalių išteklių; lengvas energetikos sistemos
 
-pažeidžiamumas;
+funkcionavimo pažeidžiamumas;
 
-- valstybės finansinę sistemą destabilizuojantis
+- valstybės finansinę sistemą
 
-įsiskolinimų užsieniui mastas;
+destabilizuojantis įsiskolinimų užsieniui mastas;
 
-- destabilizuojančios intervencijos į
+- destabilizuojančios
 
-Lietuvos finansų-bankų sistemą ir ją griaunantys poveikiai.
+intervencijos į Lietuvos finansų-bankų sistemą ir ją griaunantys poveikiai.
 
-TARPTAUTINIŲ NUSIKALSTAMŲ STRUKTŪRŲ:
+TARPTAUTINIŲ NUSIKALSTAMŲ
 
-- organizuotų nusikalstamų struktūrų veikla
+STRUKTŪRŲ:
 
-ir nelegalus verslas bei kontrabanda;
+- organizuotų nusikalstamų
 
-- teroristų skverbimasis iš užsienio ir jų
+struktūrų veikla ir nelegalus verslas bei kontrabanda;
 
-veikla Lietuvoje;
+- teroristų skverbimasis iš
 
-- nelegalus ginklų, narkotikų, radioaktyviųjų
+užsienio ir jų veikla Lietuvoje;
 
-ir kitokių ypač pavojingų medžiagų įvežimas, tranzitas ar prekyba jais;
+- nelegalus ginklų, narkotikų,
 
-- netikrų pinigų gamyba, platinimas ar
+radioaktyviųjų ir kitokių ypač pavojingų medžiagų įvežimas, tranzitas ar
 
-neteisėtu būdų įgytų pinigų plovimas.
+prekyba jais;
+
+- netikrų pinigų gamyba,
+
+platinimas ar neteisėtu būdų įgytų pinigų plovimas.
 
 AntrasIS skirsnis
 
@@ -1279,77 +1299,85 @@ VIDAUS RIZIKOS VEIKSNIAI IR VIDINĖS KRIZĖS
 
 POLITINIAI:
 
-- politinis nestabilumas ar valstybės
+- politinis nestabilumas ar
 
-valdžios krizė, kai jie kelia grėsmę konstitucinei demokratinei santvarkai;
+valstybės valdžios krizė, kai jie kelia grėsmę konstitucinei demokratinei
 
-- kėsinimasis į konstitucinę demokratinę
+santvarkai;
 
-santvarką ir Konstitucijos pažeidinėjimai;
+- kėsinimasis į konstitucinę
 
-- pilietinių teisių ir laisvių pažeidinėjimai
+demokratinę santvarką ir Konstitucijos pažeidinėjimai;
 
-bei Konstitucijos nenumatyti jų apribojimai;
+- pilietinių teisių ir laisvių
 
-- ilgalaikių nacionalinių tikslų nepaisymas
+pažeidinėjimai bei Konstitucijos nenumatyti jų apribojimai;
 
-valstybės politikoje.
+- ilgalaikių nacionalinių tikslų
+
+nepaisymas valstybės politikoje.
 
 EKONOMINIAI:
 
-- darbo vietų, gamybos mastų ir nacionalinio
+- darbo vietų, gamybos mastų ir
 
-produkto sumažėjimas iki kritinio lygio;
+nacionalinio produkto sumažėjimas iki kritinio lygio;
 
-- ūkio struktūrinis ir technologinis
+- ūkio struktūrinis ir
 
-atsilikimas;
+technologinis atsilikimas;
 
 - ekonomikos kriminalizacija;
 
 nekontroliuojamas ekonominių nusikaltimų mastas;
 
-- bankų-finansų sistemos krizės ir finansinės
+- bankų-finansų sistemos krizės
 
-panikos;
+ir finansinės panikos;
 
-- nacionalinės valiutos destabilizacija,
+- nacionalinės valiutos
 
-Lietuvos banko valiutos atsargų sumažėjimas žemiau kritinės ribos;
+destabilizacija, Lietuvos banko valiutos atsargų sumažėjimas žemiau kritinės
 
-- valstybės finansines galimybes viršijanti
+ribos;
 
-vidaus skola.
+- valstybės finansines galimybes
+
+viršijanti vidaus skola.
 
 SOCIALINIAI:
 
-- visuotinis gyventojų nuskurdimas, nedarbas;
+- visuotinis gyventojų
 
-- artėjantys prie kritinio lygio, gresiantys
+nuskurdimas, nedarbas;
 
-socialiniu konfliktu, nenormalūs visuomenės grupių turtinės padėties skirtumai;
+- artėjantys prie kritinio lygio,
+
+gresiantys socialiniu konfliktu, nenormalūs visuomenės grupių turtinės padėties
+
+skirtumai;
 
 - asmens nesaugumas;
 
-- visuomenės sveikatos būklės blogėjimas;
+- visuomenės sveikatos būklės
 
-alkoholizmas, toksikomanija, narkomanija.
+blogėjimas; alkoholizmas, toksikomanija, narkomanija.
 
 TAUTINIAI:
 
-- veiksniai, silpninantys tautos imunitetą ir
+- veiksniai, silpninantys tautos
 
-tapatumą;
+imunitetą ir tapatumą;
 
 - tautinių vertybių nesaugojimas;
 
-- tautos mažėjimas; intelektinio potencialo
+- tautos mažėjimas; intelektinio
 
-mažėjimas; didelė emigracija;
+potencialo mažėjimas; didelė emigracija;
 
-- antihumanistinės, prievartą propaguojančios
+- antihumanistinės, prievartą
 
-pseudokultūros plitimas;
+propaguojančios pseudokultūros plitimas;
 
 - tautinės neapykantos kurstymas.
 
@@ -1357,35 +1385,37 @@ KRIMINALINIAI:
 
 - didelis nusikalstamumas;
 
-- korupcija, ypač teisėsaugos ir teisingumo
+- korupcija, ypač teisėsaugos ir
 
-institucijose; valstybės ir savivaldybės pareigūnų savivalė;
+teisingumo institucijose; valstybės ir savivaldybės pareigūnų savivalė;
 
-- teroristinių, prievartavimo ir kitokių
+- teroristinių, prievartavimo ir
 
-organizuotų kriminalinių struktūrų veikla;
+kitokių organizuotų kriminalinių struktūrų veikla;
 
-- pinigų, dokumentų bei vertybinių popierių
+- pinigų, dokumentų bei
 
-padirbinėjimas.
+vertybinių popierių padirbinėjimas.
 
 KITI:
 
-- katastrofos, technologinės avarijos,
+- katastrofos, technologinės
 
-gaisrai ir gaivalinės nelaimės;
+avarijos, gaisrai ir gaivalinės nelaimės;
 
-- aplinkos teršimas, ypač kancerogeninėmis ir
+- aplinkos teršimas, ypač
 
-mutageninėmis medžiagomis;
+kancerogeninėmis ir mutageninėmis medžiagomis;
 
 - Ignalinos atominė elektrinė;
 
-- neracionalus gamtinių išteklių ir aplinkos
+- neracionalus gamtinių išteklių
 
-naudojimas, aplinkos netausojimas;
+ir aplinkos naudojimas, aplinkos netausojimas;
 
-- ypač pavojingos epidemijos ir epizootijos.
+- ypač pavojingos epidemijos ir
+
+epizootijos.
 
 10
 
@@ -1405,27 +1435,29 @@ NACIONALINIO
 
 SAUGUMO UŽTIKRINIMO PRIEMONIŲ VISUMA
 
-Be šių pagrindų pirmojoje dalyje apibrėžtos
+Be šių pagrindų pirmojoje dalyje
 
-užsienio, vidaus ir gynybos politikos, kitos nacionalinio saugumo užtikrinimo
+apibrėžtos užsienio, vidaus ir gynybos politikos, kitos nacionalinio saugumo
 
-priemonės yra:
+užtikrinimo priemonės yra:
 
-- dalyvavimas tarptautinėse saugumą
+- dalyvavimas tarptautinėse
 
-stiprinančiose organizacijose;
+saugumą stiprinančiose organizacijose;
 
-- narystė Šiaurės Atlanto sutarties
+- narystė Šiaurės Atlanto
 
-organizacijoje, Vakarų Europos Sąjungoje ir Europos Sąjungoje;
+sutarties organizacijoje, Vakarų Europos Sąjungoje ir Europos Sąjungoje;
 
-- nacionalinio saugumo strateginis planavimas
+- nacionalinio saugumo
 
-bei ilgalaikių valstybinių saugumo stiprinimo programų parengimas ir vykdymas;
+strateginis planavimas bei ilgalaikių valstybinių saugumo stiprinimo programų
 
-- nacionalinį saugumą užtikrinančių
+parengimas ir vykdymas;
 
-institucijų veikla;
+- nacionalinį saugumą
+
+užtikrinančių institucijų veikla;
 
 - saugumo ir gynybos sistemą
 
@@ -1437,21 +1469,23 @@ DALYVAVIMAS
 
 TARPTAUTINĖSE ORGANIZACIJOSE
 
-Lietuvos saugumas yra Europos saugumo dalis.
+Lietuvos saugumas yra Europos
 
-Lietuva pasirengusi dalyvauti stiprinant tarptautinį saugumą ir prisiimti
+saugumo dalis. Lietuva pasirengusi dalyvauti stiprinant tarptautinį saugumą ir
 
-savąją dalį įsipareigojimų. Lietuva dalyvauja Jungtinių Tautų (JT/UN), Europos
+prisiimti savąją dalį įsipareigojimų. Lietuva dalyvauja Jungtinių Tautų
 
-Tarybos (ET/CE), Europos saugumo ir bendradarbiavimo organizacijos (ESBO/OSCE),
+(JT/UN), Europos Tarybos (ET/CE), Europos saugumo ir bendradarbiavimo
 
-Šiaurės Atlanto Bendradarbiavimo Tarybos (ŠABT/NACC), Šiaurės Atlanto
+organizacijos (ESBO/OSCE), Šiaurės Atlanto Bendradarbiavimo Tarybos
 
-Asamblėjos (ŠAA/NAA) ir kitų tarptautinių organizacijų, kurių paskirtis -
+(ŠABT/NACC), Šiaurės Atlanto Asamblėjos (ŠAA/NAA) ir kitų tarptautinių
 
-užtikrinti taiką, stiprinti saugumą ir stabilumą Europoje, veikloje, taip pat
+organizacijų, kurių paskirtis - užtikrinti taiką, stiprinti saugumą ir
 
-dalyvauja taikos palaikymo misijose ir kitose akcijose.
+stabilumą Europoje, veikloje, taip pat dalyvauja taikos palaikymo misijose ir
+
+kitose akcijose.
 
 TrečiasIS skirsnis
 
@@ -1463,55 +1497,59 @@ TRANSATLANTINĖJE
 
 GYNYBOS ORGANIZACIJOJE
 
-Lietuva siekia narystės Europos sąjungose ir
+Lietuva siekia narystės Europos
 
-transatlantinėje gynybos organizacijoje vienijama bendrų idealų ir vertybių.
+sąjungose ir transatlantinėje gynybos organizacijoje vienijama bendrų idealų ir
 
-Būdama asocijuota Europos Sąjungos narė,
+vertybių.
 
-Lietuva įgyvendina Europos (asociacijos) sutarties normas ir jos numatytas
+Būdama asocijuota Europos
 
-integracijos priemones, dalyvauja bendroje Europos Sąjungos saugumo ir gynybos
+Sąjungos narė, Lietuva įgyvendina Europos (asociacijos) sutarties normas ir jos
 
-politikoje.
+numatytas integracijos priemones, dalyvauja bendroje Europos Sąjungos saugumo
 
-Lietuva vykdo šias pasirengimo visateisei
+ir gynybos politikoje.
 
-narystei Europos Sąjungoje priemones:
+Lietuva vykdo šias pasirengimo
 
-- sukuria integracijos į Europos Sąjungą
+visateisei narystei Europos Sąjungoje priemones:
 
-koordinavimo institucinę sistemą;
+- sukuria integracijos į Europos
 
-- įgyvendina Europos (asociacijos) sutarties
+Sąjungą koordinavimo institucinę sistemą;
 
-ir Pasirengimo narystei Europos Sąjungoje strategijos nuostatas;
+- įgyvendina Europos
 
-- dalyvauja struktūrų dialoge su Europos
+(asociacijos) sutarties ir Pasirengimo narystei Europos Sąjungoje strategijos
 
-Sąjunga;
+nuostatas;
 
-- pertvarko ūkio veiklą reglamentuojančius
+- dalyvauja struktūrų dialoge su
 
-įstatymus, jų nuostatas derindama su Europos Sąjungos teisės principais ir
+Europos Sąjunga;
 
-normomis.
+- pertvarko ūkio veiklą
 
-Lietuva, būdama asocijuota Vakarų Europos
+reglamentuojančius įstatymus, jų nuostatas derindama su Europos Sąjungos teisės
 
-Sąjungos partnerė, siekia kuo greičiau tapti visateise jos nare.
+principais ir normomis.
 
-Lietuva yra pasiryžusi tapti visateise
+Lietuva, būdama asocijuota Vakarų
 
-kolektyvinės transatlantinės gynybos organizacijos - Šiaurės Atlanto sutarties
+Europos Sąjungos partnerė, siekia kuo greičiau tapti visateise jos nare.
 
-organizacijos - nare. Išreikšdama šį pasiryžimą, Lietuva 1994 m. sausio 4 d.
+Lietuva yra pasiryžusi tapti
 
-oficialiu dokumentu kreipėsi į NATO dėl Lietuvos narystės Šiaurės Atlanto
+visateise kolektyvinės transatlantinės gynybos organizacijos - Šiaurės Atlanto
 
-sutarties organizacijoje. Siekdama narystės NATO, Lietuva pasiryžusi prisiimti
+sutarties organizacijos - nare. Išreikšdama šį pasiryžimą, Lietuva 1994 m.
 
-savąją bendros atsakomybės dalį šioje organizacijoje.
+sausio 4 d. oficialiu dokumentu kreipėsi į NATO dėl Lietuvos narystės Šiaurės
+
+Atlanto sutarties organizacijoje. Siekdama narystės NATO, Lietuva pasiryžusi
+
+prisiimti savąją bendros atsakomybės dalį šioje organizacijoje.
 
 Lietuva imasi atsakomybės už savo
 
@@ -1519,9 +1557,9 @@ suvereniteto bei teritorijos gynybą, stiprina ir išlaiko savo nacionalinę
 
 gynybos sistemą, priderintą prie NATO standartų ir struktūrų.
 
-Lietuvos naryste NATO siekiama padidinti
+Lietuvos naryste NATO siekiama
 
-pasitikėjimą, stabilumą ir saugumą regione bei visoje Europoje.
+padidinti pasitikėjimą, stabilumą ir saugumą regione bei visoje Europoje.
 
 Ketvirtasis skirsnis
 
@@ -1529,83 +1567,83 @@ INTEGRAVIMOSI
 
 Į NATO PRIEMONĖS
 
-Lietuvos gynybos sistema nuosekliai ir
+Lietuvos gynybos sistema
 
-ryžtingai integruojama į NATO gynybos sistemą. Lietuvos integravimasis į NATO
+nuosekliai ir ryžtingai integruojama į NATO gynybos sistemą. Lietuvos
 
-ir narystės siekimas šioje stabilumą ir saugumą garantuojančioje gynybos
+integravimasis į NATO ir narystės siekimas šioje stabilumą ir saugumą
 
-organizacijoje nėra priešiški jokiai kitai šaliai.
+garantuojančioje gynybos organizacijoje nėra priešiški jokiai kitai šaliai.
 
-Lietuva, siekdama tapti visateise Šiaurės
+Lietuva, siekdama tapti visateise
 
-Atlanto sutarties organizacijos, įskaitant jos integralią karinę struktūrą,
+Šiaurės Atlanto sutarties organizacijos, įskaitant jos integralią karinę
 
-nare, vykdo aktyvaus integravimosi į NATO priemones:
+struktūrą, nare, vykdo aktyvaus integravimosi į NATO priemones:
 
-- bendradarbiauja su NATO planuojant gynybą,
+- bendradarbiauja su NATO
 
-rengia savo struktūras bendros gynybos poreikiams;
+planuojant gynybą, rengia savo struktūras bendros gynybos poreikiams;
 
-- pagal NATO standartus moko ir parengia
+- pagal NATO standartus moko ir
 
-kariuomenę, pertvarko ir rengia savo gynybos struktūras sąveikai su NATO
+parengia kariuomenę, pertvarko ir rengia savo gynybos struktūras sąveikai su
 
-struktūromis;
+NATO struktūromis;
 
-- parengia karius dalyvauti tarptautinėse
+- parengia karius dalyvauti
 
-taikos palaikymo akcijose;
+tarptautinėse taikos palaikymo akcijose;
 
-- gynybos srityje dvišaliais pagrindais
+- gynybos srityje dvišaliais
 
-plečia bendradarbiavimą su šalimis NATO narėmis;
+pagrindais plečia bendradarbiavimą su šalimis NATO narėmis;
 
-- dalyvauja bendrose NATO pratybose ir
+- dalyvauja bendrose NATO
 
-mokymuose bei organizuoja juos Lietuvos teritorijoje; pritaiko bendroms
+pratybose ir mokymuose bei organizuoja juos Lietuvos teritorijoje; pritaiko
 
-pratyboms pagrindinius gynybinės infrastruktūros objektus;
+bendroms pratyboms pagrindinius gynybinės infrastruktūros objektus;
 
-- kuria karinę civilinę oro erdvės kontrolės
+- kuria karinę civilinę oro
 
-sistemą, integruodama ją į bendrą Europos kontrolės sistemą;
+erdvės kontrolės sistemą, integruodama ją į bendrą Europos kontrolės sistemą;
 
-- standartizuoja pagal NATO reikalavimus
+- standartizuoja pagal NATO
 
-gynybos struktūras, informacijos ir ryšių sistemas, technines priemones,
+reikalavimus gynybos struktūras, informacijos ir ryšių sistemas, technines
 
-žemėlapius ir dokumentaciją, gynybą reglamentuojančius teisės aktus, statutus,
+priemones, žemėlapius ir dokumentaciją, gynybą reglamentuojančius teisės aktus,
 
-terminiją;
+statutus, terminiją;
 
-- dalyvauja rengiant ir įgyvendinant bendras
+- dalyvauja rengiant ir
 
-su NATO ir valstybėmis NATO narėmis mokslo ir technologijų plėtros programas
+įgyvendinant bendras su NATO ir valstybėmis NATO narėmis mokslo ir technologijų
 
-bei pramonės kooperacijos projektus;
+plėtros programas bei pramonės kooperacijos projektus;
 
-- kuria informacijos apsaugos sistemą,
+- kuria informacijos apsaugos
 
-integralią su NATO sistema;
+sistemą, integralią su NATO sistema;
 
-- įveda privalomą reikalavimą karininkams
+- įveda privalomą reikalavimą
 
-mokėti bent vieną iš oficialiųjų NATO kalbų;
+karininkams mokėti bent vieną iš oficialiųjų NATO kalbų;
 
-- karo specialistus, karininkus ir
+- karo specialistus, karininkus
 
-puskarininkius rengia ne tik Lietuvoje, bet ir NATO šalių karo mokyklose ir
+ir puskarininkius rengia ne tik Lietuvoje, bet ir NATO šalių karo mokyklose ir
 
 gynybos struktūrose, siunčia juos stažuoti; atestuoja juos pagal NATO
 
 reikalavimus, ypač jų pasirengimą sąveikai su NATO daliniais.
 
-Lietuva vykdo suderintą su NATO individualią
+Lietuva vykdo suderintą su NATO
 
-Partnerystės taikos labui programą, jos priemones traktuodama kaip pasirengimą
+individualią Partnerystės taikos labui programą, jos priemones traktuodama kaip
 
-narystei.
+pasirengimą narystei.
 
 PenktasIS skirsnis
 
@@ -1613,23 +1651,25 @@ INTEGRAVIMOSI
 
 Į VES (WEU) STRUKTŪRAS PRIEMONĖS
 
-Lietuva, siekdama kuo greičiau tapti
+Lietuva, siekdama kuo greičiau
 
-pilnateise VES (WEU) nare, skiria savo atstovus bei dalyvauja jos institucijų
+tapti pilnateise VES (WEU) nare, skiria savo atstovus bei dalyvauja jos
 
-veikloje:
+institucijų veikloje:
 
-- VES (WEU) parlamentinės asamblėjos darbe;
+- VES (WEU) parlamentinės
+
+asamblėjos darbe;
 
 - gynybos planavime;
 
-- gelbėjimo, humanitarinėse ir taikos
+- gelbėjimo, humanitarinėse ir
 
-palaikymo operacijose;
+taikos palaikymo operacijose;
 
-- kitų VES (WEU) plėtojamų institucijų
+- kitų VES (WEU) plėtojamų
 
-veikloje ir renginiuose.
+institucijų veikloje ir renginiuose.
 
 11
 
@@ -1639,89 +1679,93 @@ ILGALAIKĖS
 
 VALSTYBINĖS SAUGUMO STIPRINIMO PROGRAMOS
 
-Svarbiausios ilgalaikės nacionalinio saugumo
+Svarbiausios ilgalaikės
 
-stiprinimo valstybinės programos:
+nacionalinio saugumo stiprinimo valstybinės programos:
 
-- krašto apsaugos sistemos ir gynybai
+- krašto apsaugos sistemos ir
 
-reikalingos infrastruktūros plėtotės;
+gynybai reikalingos infrastruktūros plėtotės;
 
-- kariuomenės ir jos aktyvaus rezervo
+- kariuomenės ir jos aktyvaus
 
-parengimo bei apginklavimo;
+rezervo parengimo bei apginklavimo;
 
-- valstybės sienos apsaugos sistemos
+- valstybės sienos apsaugos
 
-plėtotės;
+sistemos plėtotės;
 
-- oro erdvės kontrolės sistemos plėtotės ir
+- oro erdvės kontrolės sistemos
 
-jos integravimo į vieningą Europos kontrolės sistemą;
+plėtotės ir jos integravimo į vieningą Europos kontrolės sistemą;
 
-- karinių specialistų rengimo, karinio
+- karinių specialistų rengimo,
 
-švietimo ir karo mokslo plėtojimo;
+karinio švietimo ir karo mokslo plėtojimo;
 
-- piliečių mokymo ir rengimo pasipriešinimui
+- piliečių mokymo ir rengimo
 
-bei civilinei saugai;
+pasipriešinimui bei civilinei saugai;
 
-- ekonominių grėsmių mažinimo ir ekonominio
+- ekonominių grėsmių mažinimo ir
 
-saugumo stiprinimo, krašto ūkio funkcionavimo ekstremaliomis sąlygomis;
+ekonominio saugumo stiprinimo, krašto ūkio funkcionavimo ekstremaliomis
+
+sąlygomis;
 
 - valstybės valdžios institucijų
 
 funkcionavimo ekstremaliomis sąlygomis;
 
-- valstybės strateginių atsargų kaupimo ir
+- valstybės strateginių atsargų
 
-išlaikymo;
+kaupimo ir išlaikymo;
 
-- vientisos civilinės saugos ir gelbėjimo
+- vientisos civilinės saugos ir
 
-sistemos plėtotės;
+gelbėjimo sistemos plėtotės;
 
 - ekologinio saugumo užtikrinimo;
 
-- Ignalinos AE saugios eksploatacijos
+- Ignalinos AE saugios
 
-užtikrinimo iki jos eksploatacijos pabaigos ir po to;
+eksploatacijos užtikrinimo iki jos eksploatacijos pabaigos ir po to;
 
-- energetikos sistemos stabilumo ir
+- energetikos sistemos stabilumo
 
-integravimosi į Europos energetikos sistemas;
+ir integravimosi į Europos energetikos sistemas;
 
-- geležinkelio rekonstravimo pagal europinės
+- geležinkelio rekonstravimo
 
-vėžės standartus, jo integravimo į Europos transporto sistemą;
+pagal europinės vėžės standartus, jo integravimo į Europos transporto sistemą;
 
-- svarbiausių nacionalinių išteklių tausojimo
+- svarbiausių nacionalinių
 
-ir apsaugos;
+išteklių tausojimo ir apsaugos;
 
-- natūralaus gyventojų prieaugio palaikymo;
+- natūralaus gyventojų prieaugio
+
+palaikymo;
 
 - kovos su nusikalstamumu;
 
 - kovos su korupcija.
 
-Prireikus parengiamos ir kitos programos.
+Prireikus parengiamos ir kitos
 
-Saugumo stiprinimo valstybines programas, išskyrus valstybės paslaptį sudarančias
+programos. Saugumo stiprinimo valstybines programas, išskyrus valstybės
 
-jų dalis, Vyriausybė pateikia Seimui. Dėl pateiktų programų Seimas
+paslaptį sudarančias jų dalis, Vyriausybė pateikia Seimui. Dėl pateiktų
 
-priima nutarimą. Programos finansuojamos iš valstybės biudžeto ar kitų
+programų Seimas priima nutarimą. Programos finansuojamos iš valstybės biudžeto
 
-įstatymuose numatytų šaltinių.
+ar kitų įstatymuose numatytų šaltinių.
 
 Skyriaus pakeitimai:
 
-Nr. VIII-770, 98.06.04,
+Nr. VIII-770,
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
 
 III
 
@@ -1745,27 +1789,33 @@ SAUGUMĄ UŽTIKRINANČIOS INSTITUCIJOS
 
 VADOVAUJANČIOS INSTITUCIJOS:
 
-Valstybės aukščiausiosios vadovaujančios
+Valstybės aukščiausiosios
 
-institucijos, kurios vadovauja nacionalinio saugumo užtikrinimui, yra Lietuvos
+vadovaujančios institucijos, kurios vadovauja nacionalinio saugumo
 
-Respublikos Prezidentas, Vyriausybė ir Seimas.
+užtikrinimui, yra Lietuvos Respublikos Prezidentas, Vyriausybė ir Seimas.
 
-VYKDOMOSIOS IR KITOS INSTITUCIJOS:
+VYKDOMOSIOS IR KITOS
+
+INSTITUCIJOS:
 
 - Valstybės gynimo taryba;
 
-- Krašto apsaugos ministerija, krašto
+- Krašto apsaugos ministerija,
 
-apsaugos ministrui pavaldūs kariuomenės vadas ir Gynybos štabas;
+krašto apsaugos ministrui pavaldūs kariuomenės vadas ir Gynybos štabas;
 
 - kariuomenė;
 
 - policija;
 
-- Valstybės saugumo departamentas;
+- Valstybės saugumo
 
-- Pilietinio pasipriešinimo rengimo centras;
+departamentas;
+
+- Pilietinio pasipriešinimo
+
+rengimo centras;
 
 - Civilinės saugos departamentas;
 
@@ -1783,23 +1833,23 @@ VALSTYBĖS
 
 GYNYBAI
 
-Ginkluoto valstybės užpuolimo atveju, kai kyla
+Ginkluoto valstybės užpuolimo
 
-grėsmė valstybės suverenumui ar teritorijos vientisumui, Respublikos
+atveju, kai kyla grėsmė valstybės suverenumui ar teritorijos vientisumui,
 
-Prezidentas nedelsdamas priima sprendimą dėl gynybos nuo ginkluotos agresijos,
+Respublikos Prezidentas nedelsdamas priima sprendimą dėl gynybos nuo ginkluotos
 
-įveda karo padėtį visoje valstybėje ar jos dalyje, skelbia mobilizaciją ir
+agresijos, įveda karo padėtį visoje valstybėje ar jos dalyje, skelbia
 
-šiuos sprendimus teikia tvirtinti Seimui.
+mobilizaciją ir šiuos sprendimus teikia tvirtinti Seimui.
 
-Pagal Konstituciją Respublikos Prezidentas
+Pagal Konstituciją Respublikos
 
-yra Vyriausiasis ginkluotųjų pajėgų vadas.
+Prezidentas yra Vyriausiasis ginkluotųjų pajėgų vadas.
 
-Respublikos Prezidentas, gavęs Seimo
+Respublikos Prezidentas, gavęs
 
-pritarimą, skiria kariuomenės vadą.
+Seimo pritarimą, skiria kariuomenės vadą.
 
 14
 
@@ -1807,9 +1857,7 @@ skyrius
 
 VYRIAUSYBĖS
 
-VEIKLA NACIONALINIAM SAUGUMUI
-
-UŽTIKRINTI
+VEIKLA NACIONALINIAM SAUGUMUI UŽTIKRINTI
 
 PirmasIS skirsnis
 
@@ -1817,123 +1865,205 @@ PAGRINDINIAI
 
 VYRIAUSYBĖS UŽDAVINIAI
 
-Vyriausybė saugo Lietuvos Respublikos
+Vyriausybė saugo Lietuvos
 
-teritorijos neliečiamybę, garantuoja valstybės saugumą ir viešąją tvarką.
+Respublikos teritorijos neliečiamybę, garantuoja valstybės saugumą ir viešąją
 
-Vyriausybė koordinuoja ministerijų ir kitų valstybės įstaigų, įgyvendinančių
+tvarką. Vyriausybė koordinuoja ministerijų ir kitų valstybės įstaigų,
 
-šias garantijas, veiklą.
+įgyvendinančių šias garantijas, veiklą.
 
-Vyriausybė vadovauja visų nacionalinio
+Vyriausybė vadovauja visų
 
-saugumo priemonių įgyvendinimui bei piliečių rengimui pilietiniam
+nacionalinio saugumo priemonių įgyvendinimui bei piliečių rengimui pilietiniam pasipriešinimui.
 
-pasipriešinimui.
+Vyriausybė rengia ir teikia
 
-Vyriausybė rengia ir teikia Seimui tvirtinti
+Seimui tvirtinti ilgalaikių valstybinių nacionalinio saugumo stiprinimo
 
-ilgalaikių valstybinių nacionalinio saugumo stiprinimo programų projektus bei
+programų projektus bei vadovauja jų įgyvendinimui.
 
-vadovauja jų įgyvendinimui.
+Lietuvos Vyriausybė atsakinga už
 
-Lietuvos Vyriausybė atsakinga už strateginį
+strateginį nacionalinio saugumo planavimą. Ji taip pat atsakinga už imuniteto
 
-nacionalinio saugumo planavimą. Ji taip pat atsakinga už imuniteto tarnybų
+tarnybų veiklą nacionalinio saugumo ir gynybos institucijose.
 
-veiklą nacionalinio saugumo ir gynybos institucijose.
+Vyriausybė turi turėti ir
 
-Vyriausybė turi turėti ir įgyvendinti
+įgyvendinti specialią ekonominio saugumo užtikrinimo veiksmų programą.
 
-specialią ekonominio saugumo užtikrinimo veiksmų programą.
+Vyriausybė atsakinga už
 
-Vyriausybė atsakinga už valstybinės
+valstybinės informacijos valdymo ir jos apsaugos užtikrinimo sistemos sukūrimą
 
-informacijos valdymo ir jos apsaugos užtikrinimo sistemos sukūrimą ir jos
+ir jos funkcionavimą.
 
-funkcionavimą.
+Vyriausybė užtikrina, kad visos
 
-Vyriausybė užtikrina, kad visos civilinės
+civilinės valstybės institucijos ir Lietuvos ūkio infrastruktūros objektai būtų
 
-valstybės institucijos ir Lietuvos ūkio infrastruktūros objektai būtų parengti
+parengti privalomiems gynybos bei civilinės saugos uždaviniams vykdyti.
 
-privalomiems gynybos bei civilinės saugos uždaviniams vykdyti.
+Vyriausybė teikia Seimui metinę
 
-Vyriausybė teikia Seimui metinę ataskaitą
+ataskaitą apie nacionalinio saugumo sistemos plėtrą. Ataskaitoje pateikiama
 
-apie nacionalinio saugumo sistemos plėtrą. Ataskaitoje pateikiama konkrečių
+konkrečių žinių (išskyrus tas, kurios yra valstybės paslaptis) apie:
 
-žinių (išskyrus tas, kurios yra valstybės paslaptis) apie: nacionalinio saugumo
+nacionalinio saugumo sistemos būklę ir plėtrą; priemones, kurių imamasi
 
-sistemos būklę ir plėtrą; priemones, kurių imamasi galimiems vidaus ir išorės
+galimiems vidaus ir išorės rizikos veiksniams ir pavojams išvengti; saugumą ir
 
-rizikos veiksniams ir pavojams išvengti; saugumą ir gynybinę galią stiprinančią
+gynybinę galią stiprinančią Vyriausybės ir valstybės institucijų veiklą,
 
-Vyriausybės ir valstybės institucijų veiklą, įskaitant integracijos į NATO
+įskaitant integracijos į NATO priemonių vykdymą; nacionalinių saugumą
 
-priemonių vykdymą; nacionalinių saugumą stiprinančių programų rengimą ir
+stiprinančių programų rengimą ir įgyvendinimą; piliečių ugdymą ir apmokymą
 
-įgyvendinimą; piliečių ugdymą ir apmokymą visuotiniam pasipriešinimui bei
+visuotiniam pasipriešinimui bei civilinės saugos būdų, organizacinių struktūrų
 
-civilinės saugos būdų, organizacinių struktūrų parengties gerinimą; paramą
+parengties gerinimą; paramą savaveiksmėms organizacijoms, kurių veikla
 
-savaveiksmėms organizacijoms, kurių veikla prisideda prie pasirengimo
+prisideda prie pasirengimo pilietiniam pasipriešinimui.
 
-pilietiniam pasipriešinimui.
+ANTRASIS
 
-AntrasIS skirsnis
+SKIRSNIS
 
-NACIONALINIO
+NACIONALINIO SAUGUMO
 
-SAUGUMO STRATEGINIO PLANAVIMO
+STRATEGINIS PLANAVIMAS
 
-GRUPĖ
+IR KRIZIŲ VALDYMAS
 
-Nacionalinio saugumo strateginio planavimo
+Vyriausybė sudaro Nacionalinio
 
-grupę sudaro Vyriausybės paskirti specialūs patarėjai - saugumo problemų
+saugumo strateginio planavimo grupę. Ši grupė:
 
-ekspertai. Ši grupė veikia kaip sudėtinė Vyriausybės patarėjų institucijos
+1) koordinuoja ilgalaikių
 
-dalis. Ji numato galimas situacijas ateityje, išaiškina ilgalaikius ir
+valstybinių saugumo stiprinimo programų projektų rengimą;
 
-galinčius kilti naujus pavojus, projektuoja išankstinius veiksmus jiems
+2) atsižvelgdama į grėsmių ir
 
-išvengti, nuo jų apsisaugoti ir Lietuvos saugumui užtikrinti, prognozuoja
+rizikos veiksnių monitoringo duomenis ir galimų krizinių situacijų prognozes,
 
-ilgalaikes Vyriausybės sprendimų pasekmes ir įtaką nacionaliniam saugumui,
+rengia ir teikia Vyriausybei išankstinių veiksmų bei priemonių, skirtų rizikos
 
-rengia išvadas bei rekomendacijas Vyriausybei ir Valstybės gynimo tarybai.
+veiksnių negatyviam poveikiui sumažinti ir krizėms išvengti, pasiūlymus ir
 
-Nacionalinio saugumo strateginio planavimo
+projektus;
 
-grupė bendradarbiauja su Valstybės saugumo departamentu ir Krašto apsaugos
+3) rengia išvadas ir pasiūlymus
 
-ministerija.
+Vyriausybei aktualiais nacionalinio saugumo stiprinimo klausimais.
 
-Nacionalinio saugumo strateginio planavimo
+Nacionalinio saugumo strateginio
 
-grupė dalyvauja rengiant ilgalaikių valstybinių saugumo stiprinimo programų
+planavimo grupė bendradarbiauja su Krizių valdymo centru ir naudojasi jo
 
-projektus.
+teikiama informacija bei rekomendacijomis.
+
+Vyriausybės įsteigtas Krizių valdymo
+
+centras yra pagrindinis valstybės įvairaus pobūdžio krizių valdymo strateginiu
+
+lygmeniu štabas. Krizių valdymo centro uždaviniai yra:
+
+1) kompleksiškas rizikos veiksnių
+
+ir grėsmių monitoringas bei galimų krizių prognozavimas;
+
+2) valstybės institucijų veiklos
+
+krizių prevencijos srityje koordinavimas;
+
+3) efektyvi krizių valdymo
+
+infrastruktūra;
+
+4) bendradarbiavimas tarptautinio
+
+krizių valdymo srityje.
+
+Valstybės gynimo taryba nustato
+
+strategines krizių valdymo gaires.
+
+Krizių
+
+ir ekstremalių situacijų prevencijos bei jų valdymo planus ir priemones,
+
+atsižvelgdamos į krizių pobūdį, pagal savo kompetenciją rengia ministerijos ir
+
+kitos valstybės institucijos, tarp jų - Gynybos štabas, Ekstremalių situacijų
+
+komisija. Integralius krizių ir ekstremalių situacijų valdymo planus ir
+
+priemones tvirtina Vyriausybė.
+
+Krizių valdymo centre nuolat
+
+veikia grėsmių ir krizinių reiškinių monitoringo bei krizių prognozavimo
+
+ekspertų grupės, sudarytos minėtų ir kitų valstybės institucijų deleguotų
+
+ekspertų bei pareigūnų jungtinės veiklos pagrindu. Šios grupės:
+
+1) ikikriziniu laikotarpiu
+
+kompleksiškai analizuoja valstybės institucijų renkamą informaciją,
+
+atspindinčią grėsmių ir rizikos veiksnių dinamiką;
+
+2) prognozuoja krizės kilimo
+
+grėsmę ir jos vystymosi fazes;
+
+3) Respublikos Prezidentui,
+
+Seimui, Vyriausybei, Valstybės gynimo tarybai teikia išvadas, prognozes,
+
+rekomendacijas dėl krizių prevencijos, informuoja visuomenę.
+
+Operacinį vadovavimą įveikiant
+
+kilusią krizę, atsižvelgdami į jos mastą ir pobūdį, strateginiu lygmeniu vykdo
+
+Respublikos Prezidentas, civilinė ir karinė gynybos vadovybė, Ministras
+
+Pirmininkas, ministrai, civilinės saugos sistemos pareigūnai - pagal nustatytas
+
+operacinio vadovavimo grandines ir procedūras. Operacinio vadovavimo pareigūnai
+
+ir vadovaujančios struktūros (krizių štabai) pagal operacinio vadovavimo
+
+strateginiu lygmeniu poreikius naudojasi Krizių valdymo centro būstine ir jos
+
+infrastruktūra.
+
+Skirsnio
+
+pakeitimai:
+
+Nr. VIII-1778, 00.06.29, Žin., 2000,
+
+Nr.58-1710 (00.07.19)
 
 TrečiasIS skirsnis
 
 VALSTYBINIS
 
-PILIETINIO PASIPRIEŠINIMO
+PILIETINIO PASIPRIEŠINIMO RENGIMO CENTRAS
 
-RENGIMO
+Valstybinį pilietinio
 
-CENTRAS
+pasipriešinimo rengimo centrą steigia Vyriausybė. Jo paskirtis - tiesiogiai ir
 
-Valstybinį pilietinio pasipriešinimo rengimo
+koordinuojant kitų institucijų veiklą apmokyti ir parengti visuomenę
 
-centrą steigia Vyriausybė. Jo paskirtis - tiesiogiai ir koordinuojant kitų
-
-institucijų veiklą apmokyti ir parengti visuomenę individualiam ir organizuotam
-
-pilietiniam pasipriešinimui ir civilinei saugai.
+individualiam ir organizuotam pilietiniam pasipriešinimui ir civilinei saugai.
 
 15
 
@@ -1949,33 +2079,33 @@ PirmasIS skirsnis
 
 LEIDYBA
 
-Seimas rūpinasi, kad būtų laiku priimti
+Seimas rūpinasi, kad būtų laiku
 
-Nacionalinio saugumo pagrindams įgyvendinti būtini įstatymai, kiti teisės
+priimti Nacionalinio saugumo pagrindams įgyvendinti būtini įstatymai, kiti
 
-aktai, galiojančių įstatymų papildymai ir pakeitimai.
+teisės aktai, galiojančių įstatymų papildymai ir pakeitimai.
 
-Seimas priima įstatymą, nustatantį
+Seimas priima įstatymą,
 
-konkrečiais tikslais ir funkcijomis pagrįstą krašto apsaugos ir gynybos
+nustatantį konkrečiais tikslais ir funkcijomis pagrįstą krašto apsaugos ir
 
-struktūrą.
+gynybos struktūrą.
 
-Seimas priima įstatymus, tvirtinančius
+Seimas priima įstatymus,
 
-Vyriausybės pateiktas nacionalinio saugumo priemonių programas.
+tvirtinančius Vyriausybės pateiktas nacionalinio saugumo priemonių programas.
 
-Seimas įstatymu nustato bendrus metinius
+Seimas įstatymu nustato bendrus
 
-reguliariosios kariuomenės ir aktyviojo rezervo karių skaičius. Seimas,
+metinius reguliariosios kariuomenės ir aktyviojo rezervo karių skaičius.
 
-atsižvelgdamas į gynybos struktūrą, įstatymu nustato kiekvieno laipsnio
+Seimas, atsižvelgdamas į gynybos struktūrą, įstatymu nustato kiekvieno laipsnio
 
 aukštesniųjų karininkų skaičius.
 
-Seimas įgyvendina šių pagrindų nuostatas
+Seimas įgyvendina šių pagrindų
 
-sukurdamas teisinę nacionalinio saugumo ir gynybos bazę - įstatymais
+nuostatas sukurdamas teisinę nacionalinio saugumo ir gynybos bazę - įstatymais
 
 reglamentuoja šias sritis: krašto apsaugos taikos metu; visuotinės gynybos ir
 
@@ -1999,11 +2129,11 @@ departamento veiklos: žvalgybos, kontržvalgybos ir kovos su ardomąja veikla;
 
 operatyvinės veiklos; Ginklų fondo ir kitas.
 
-Seimas priima įstatymus, tvirtinančius
+Seimas priima įstatymus,
 
-kariuomenės ir policijos drausmės statutus, nustatančius arešto pagrindus ir
+tvirtinančius kariuomenės ir policijos drausmės statutus, nustatančius arešto
 
-teisines procedūras.
+pagrindus ir teisines procedūras.
 
 AntrasIS skirsnis
 
@@ -2011,21 +2141,21 @@ SPRENDIMAI
 
 DĖL VALSTYBĖS GYNYBOS
 
-Seimas skelbia nepaprastąją padėtį, įveda
+Seimas skelbia nepaprastąją
 
-karo padėtį, skelbia mobilizaciją ar demobilizaciją, priima sprendimą panaudoti
+padėtį, įveda karo padėtį, skelbia mobilizaciją ar demobilizaciją, priima
 
-ginkluotąsias pajėgas, kai prireikia ginti Tėvynę arba vykdyti tarptautinius
+sprendimą panaudoti ginkluotąsias pajėgas, kai prireikia ginti Tėvynę arba
 
-Lietuvos įsipareigojimus.
+vykdyti tarptautinius Lietuvos įsipareigojimus.
 
-Ginkluoto užpuolimo atveju, kai Respublikos
+Ginkluoto užpuolimo atveju, kai
 
-Prezidentas nedelsdamas priima sprendimą dėl gynybos nuo ginkluotos agresijos,
+Respublikos Prezidentas nedelsdamas priima sprendimą dėl gynybos nuo ginkluotos
 
-įveda karo padėtį ar skelbia mobilizaciją, Seimas šiuos sprendimus tvirtina
+agresijos, įveda karo padėtį ar skelbia mobilizaciją, Seimas šiuos sprendimus
 
-arba panaikina.
+tvirtina arba panaikina.
 
 TrečiasIS skirsnis
 
@@ -2049,21 +2179,21 @@ VALSTYBĖS
 
 GYNIMO TARYBA
 
-Svarbiausius valstybės gynimo reikalus,
+Svarbiausius valstybės gynimo
 
-įskaitant valstybės institucijų veiklą svarbiausiais valstybės saugumo
+reikalus, įskaitant valstybės institucijų veiklą svarbiausiais valstybės
 
-užtikrinimo ir gynimo klausimais, svarsto ir koordinuoja Valstybės gynimo
+saugumo užtikrinimo ir gynimo klausimais, svarsto ir koordinuoja Valstybės
 
-taryba, į kurią įeina Ministras Pirmininkas, Seimo Pirmininkas, krašto apsaugos
+gynimo taryba, į kurią įeina Ministras Pirmininkas, Seimo Pirmininkas, krašto
 
-ministras ir kariuomenės vadas. Valstybės gynimo tarybai vadovauja Respublikos
+apsaugos ministras ir kariuomenės vadas. Valstybės gynimo tarybai vadovauja
 
-Prezidentas. Į Valstybės gynimo tarybos posėdžius paprastai kviečiamas
+Respublikos Prezidentas. Į Valstybės gynimo tarybos posėdžius paprastai
 
-Valstybės saugumo departamento direktorius. Tarybos sudarymą, veiklos tvarką ir
+kviečiamas Valstybės saugumo departamento direktorius. Tarybos sudarymą,
 
-įgaliojimus nustato įstatymas.
+veiklos tvarką ir įgaliojimus nustato įstatymas.
 
 17
 
@@ -2081,51 +2211,51 @@ BENDROSIOS
 
 NUOSTATOS
 
-Krašto apsaugos ministras vadovauja gynybos
+Krašto apsaugos ministras
 
-politikos įgyvendinimui, atsako už krašto apsaugos sistemos plėtrą ir jos
+vadovauja gynybos politikos įgyvendinimui, atsako už krašto apsaugos sistemos
 
-parengimą ginti valstybę, valdo krašto apsaugai ir gynybai skirtus finansinius
+plėtrą ir jos parengimą ginti valstybę, valdo krašto apsaugai ir gynybai
 
-išteklius, kariuomenės aprūpinimą ginkluote ir technika, vykdo tarptautinį
+skirtus finansinius išteklius, kariuomenės aprūpinimą ginkluote ir technika,
 
-bendradarbiavimą gynybos srityje, personalo ir informacijos politiką. Krašto
+vykdo tarptautinį bendradarbiavimą gynybos srityje, personalo ir informacijos
 
-apsaugos ministerijos administracija formuojama iš ministerijos funkcijoms
+politiką. Krašto apsaugos ministerijos administracija formuojama iš
 
-vykdyti reikalingų civilių pareigūnų ir karinių reikalų specialistų. Krašto
+ministerijos funkcijoms vykdyti reikalingų civilių pareigūnų ir karinių reikalų
 
-apsaugos ministerijos administracija ir kariuomenės vadui pavaldus Gynybos
+specialistų. Krašto apsaugos ministerijos administracija ir kariuomenės vadui
 
-štabas krašto gynybos sistemos plėtojimo ir valdymo funkcijas vykdo vieningai.
+pavaldus Gynybos štabas krašto gynybos sistemos plėtojimo ir valdymo funkcijas
 
-Ministerijos administracijos padaliniai ir Gynybos štabas funkcijas vykdo
+vykdo vieningai. Ministerijos administracijos padaliniai ir Gynybos štabas
 
-vieningai bendradarbiaudami ir jų nedubliuodami.
+funkcijas vykdo vieningai bendradarbiaudami ir jų nedubliuodami.
 
-Krašto apsaugos ministerijos ir Gynybos štabo
+Krašto apsaugos ministerijos ir
 
-funkcijas nustato ir paskirsto įstatymai ir kiti teisės aktai vadovaujantis
+Gynybos štabo funkcijas nustato ir paskirsto įstatymai ir kiti teisės aktai
 
-krašto apsaugos sistemos valdymo integralumo principu.
+vadovaujantis krašto apsaugos sistemos valdymo integralumo principu.
 
-Krašto apsaugos ministras prižiūri ir
+Krašto apsaugos ministras
 
-kontroliuoja kariuomenės parengimą. Šią kontrolę vykdo ministrui pavaldus
+prižiūri ir kontroliuoja kariuomenės parengimą. Šią kontrolę vykdo ministrui
 
-krašto apsaugos generalinis inspektorius.
+pavaldus krašto apsaugos generalinis inspektorius.
 
-Krašto apsaugos ministrui pavaldi žvalgybos
+Krašto apsaugos ministrui pavaldi
 
-tarnyba ir Gynybos štabo sudėtyje esantis karinės taktinės žvalgybos padalinys
+žvalgybos tarnyba ir Gynybos štabo sudėtyje esantis karinės taktinės žvalgybos
 
-veikia koordinuotai ir informaciją bei analizes teikia ir krašto apsaugos
+padalinys veikia koordinuotai ir informaciją bei analizes teikia ir krašto
 
-ministrui, ir kariuomenės vadui.
+apsaugos ministrui, ir kariuomenės vadui.
 
-Krašto apsaugos ministerija vykdo karo
+Krašto apsaugos ministerija vykdo
 
-prievolininkų apskaitą ir šaukimą į pirminę karo tarnybą, taip pat į
+karo prievolininkų apskaitą ir šaukimą į pirminę karo tarnybą, taip pat į
 
 alternatyviąją tarnybą. Šiam tikslui ministerija sudaro civilines teritorines
 
@@ -2133,17 +2263,19 @@ alternatyviąją tarnybą. Šiam tikslui ministerija sudaro civilines teritorine
 
 tarnybą vykdo kariuomenės štabai.
 
-Krašto apsaugos ministerijos administracija
+Krašto apsaugos ministerijos
 
-organizuoja kariuomenės bendradarbiavimą su visuomene ir civilinėmis
+administracija organizuoja kariuomenės bendradarbiavimą su visuomene ir
 
-institucijomis.
+civilinėmis institucijomis.
 
-Skirsnio pakeitimai:
+Skirsnio
 
-Nr. VIII-770, 98.06.04,
+pakeitimai:
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+Nr. VIII-770,
+
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
 
 Antrasis SKIRSNIS
 
@@ -2151,65 +2283,65 @@ KARIUOMENĖS
 
 VADAS IR GYNYBOS ŠTABAS
 
-Kariuomenės vadas taikos metu yra tiesiogiai
+Kariuomenės vadas taikos metu yra
 
-pavaldus krašto apsaugos ministrui, tačiau nepavaldus krašto apsaugos
+tiesiogiai pavaldus krašto apsaugos ministrui, tačiau nepavaldus krašto
 
-viceministrams.
+apsaugos viceministrams.
 
-Kariuomenės vadas yra aukščiausiasis
+Kariuomenės vadas yra
 
-valstybės karinis pareigūnas ir turi teisę kariniais klausimais pagal savo
+aukščiausiasis valstybės karinis pareigūnas ir turi teisę kariniais klausimais
 
-kompetenciją atstovauti Lietuvos kariuomenei.
+pagal savo kompetenciją atstovauti Lietuvos kariuomenei.
 
-Respublikos Prezidentas krašto apsaugos
+Respublikos Prezidentas krašto
 
-ministro teikimu skiria lauko pajėgų vadą. Jo nuolatines pareigas, teises ir
+apsaugos ministro teikimu skiria lauko pajėgų vadą. Jo nuolatines pareigas,
 
-atsakomybę taikos ir karo metu, taip pat ir tas, kurias jis turi nesant
+teises ir atsakomybę taikos ir karo metu, taip pat ir tas, kurias jis turi
 
-kariuomenės vado, nustato įstatymai.
+nesant kariuomenės vado, nustato įstatymai.
 
-Svarbiausias kariuomenės vado uždavinys
+Svarbiausias kariuomenės vado
 
-taikos metu - parengti visas reguliariosios kariuomenės rūšis, Savanorių
+uždavinys taikos metu - parengti visas reguliariosios kariuomenės rūšis,
 
-pajėgas ir aktyvųjį kariuomenės rezervą ginkluotai valstybės gynybai, vadovauti
+Savanorių pajėgas ir aktyvųjį kariuomenės rezervą ginkluotai valstybės gynybai,
 
-valstybės teritorijos apsaugai, teritorinės jūros, ekonominės zonos ir oro erdvės
+vadovauti valstybės teritorijos apsaugai, teritorinės jūros, ekonominės zonos
 
-kontrolei bei apsaugai.
+ir oro erdvės kontrolei bei apsaugai.
 
-Kariuomenės vadas atsako, kad būtų iš anksto
+Kariuomenės vadas atsako, kad
 
-parengti kariuomenės dalinių veiksmų planai netikėto užpuolimo ir kitais
+būtų iš anksto parengti kariuomenės dalinių veiksmų planai netikėto užpuolimo
 
-neatidėliotinais atvejais.
+ir kitais neatidėliotinais atvejais.
 
-Ginkluoto užpuolimo ar karo padėties atveju
+Ginkluoto užpuolimo ar karo
 
-kariuomenės vadas Respublikos Prezidento dekretu skiriamas visų Lietuvos
+padėties atveju kariuomenės vadas Respublikos Prezidento dekretu skiriamas visų
 
-Respublikos ginkluotųjų pajėgų vadu, pavaldžiu gynybos veiksmų civilinei
+Lietuvos Respublikos ginkluotųjų pajėgų vadu, pavaldžiu gynybos veiksmų
 
-vadovybei.
+civilinei vadovybei.
 
-Gynybos štabas yra bendras valstybės karinės
+Gynybos štabas yra bendras
 
-gynybos štabas. Gynybos štabas rengia ginkluotos gynybos planus, koordinuoja
+valstybės karinės gynybos štabas. Gynybos štabas rengia ginkluotos gynybos
 
-kariuomenės rūšių štabų veiklą ir teritorinės gynybos štabų darbą, organizuoja
+planus, koordinuoja kariuomenės rūšių štabų veiklą ir teritorinės gynybos štabų
 
-kariuomenės kovinį parengimą bei materialinį aprūpinimą (logistiką). Gynybos
+darbą, organizuoja kariuomenės kovinį parengimą bei materialinį aprūpinimą
 
-štabo struktūra, funkcijos ir atsakomybės paskirstymas nustatomi krašto
+(logistiką). Gynybos štabo struktūra, funkcijos ir atsakomybės paskirstymas
 
-apsaugos struktūrą reglamentuojančiuose teisės aktuose.
+nustatomi krašto apsaugos struktūrą reglamentuojančiuose teisės aktuose.
 
-Gynybos štabo viršininką skiria krašto
+Gynybos štabo viršininką skiria
 
-apsaugos ministras kariuomenės vado teikimu. Gynybos štabo aukštuosius
+krašto apsaugos ministras kariuomenės vado teikimu. Gynybos štabo aukštuosius
 
 pareigūnus skiria kariuomenės vadas, suderinęs su krašto apsaugos ministru.
 
@@ -2217,11 +2349,13 @@ Gynybos štabas jungia atskirų kariuomenės rūšių štabų veiklą. Šių št
 
 karininkai pagal rotacijos principą dalyvauja Gynybos štabo darbe.
 
-Skirsnio pakeitimai:
+Skirsnio
 
-Nr. VIII-770, 98.06.04,
+pakeitimai:
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+Nr. VIII-770,
+
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
 
 TREČIASIS
 
@@ -2231,39 +2365,43 @@ TERITORINIS
 
 VADOVAVIMAS GYNYBAI
 
-Lietuvos teritorija
+Lietuvos
 
-skirstoma į tris karines apygardas.
+teritorija skirstoma į tris karines apygardas.
 
-Krašto apsaugos ministras
+Krašto apsaugos
 
-kariuomenės vado teikimu skiria karinės apygardos vadą, kuris formuoja
+ministras kariuomenės vado teikimu skiria karinės apygardos vadą, kuris
 
-apygardos teritorinį gynybos štabą (ATGŠ). ATGŠ rengia apygardos teritorijos
+formuoja apygardos teritorinį gynybos štabą (ATGŠ). ATGŠ rengia apygardos
 
-gynybos planus, užtikrina apygardos Savanorių pajėgų ir kitų teritorijoje
+teritorijos gynybos planus, užtikrina apygardos Savanorių pajėgų ir kitų
 
-dislokuotų dalinių bei junginių sąveiką.
+teritorijoje dislokuotų dalinių bei junginių sąveiką.
 
-Krašto apsaugos ministerija steigia
+Krašto apsaugos ministerija
 
-apygardose privalomosios karo tarnybos karių šaukimo centrus. Šie centrai
+steigia apygardose privalomosios karo tarnybos karių šaukimo centrus. Šie
 
-tvarko karo prievolininkų ir mobilizacijos personalo apskaitą bei vykdo
+centrai tvarko karo prievolininkų ir mobilizacijos personalo apskaitą
 
-karo prievolininkų šaukimą.
+bei vykdo karo prievolininkų šaukimą.
 
-ATGŠ organizuoja aktyviojo kariuomenės
+ATGŠ organizuoja aktyviojo
 
-rezervo karių apmokymą apygardos mokymo centruose ar kariuomenės daliniuose,
+kariuomenės rezervo karių apmokymą apygardos mokymo centruose ar kariuomenės
 
-vykdo komendantūros funkcijas, palaiko ryšius su Šaulių sąjungos būriais.
+daliniuose, vykdo komendantūros funkcijas, palaiko ryšius su Šaulių sąjungos
 
-Skirsnio pakeitimai:
+būriais.
 
-Nr. VIII-770, 98.06.04,
+Skirsnio
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+pakeitimai:
+
+Nr. VIII-770,
+
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
 
 18
 
@@ -2277,51 +2415,51 @@ BENDROSIOS
 
 NUOSTATOS
 
-Kariuomenė ištikima Lietuvos Respublikai, jos
+Kariuomenė ištikima Lietuvos
 
-Konstitucijai, tarnauja valstybei ir visuomenei, paklūsta Lietuvos piliečių
+Respublikai, jos Konstitucijai, tarnauja valstybei ir visuomenei, paklūsta
 
-demokratiškai išrinktai valstybės valdžiai.
+Lietuvos piliečių demokratiškai išrinktai valstybės valdžiai.
 
-Aukštajai karinei vadovybei taikomi
+Aukštajai karinei vadovybei
 
-terminuoto skyrimo pareigoms ir rotacijos principai.
+taikomi terminuoto skyrimo pareigoms ir rotacijos principai.
 
-Kariuomenė turi būti rengiama ugdant kario
+Kariuomenė turi būti rengiama
 
-asmenybę, pilietiškumą ir patriotizmą, profesionalius įgūdžius ir kario etiką.
+ugdant kario asmenybę, pilietiškumą ir patriotizmą, profesionalius įgūdžius ir
 
-Vadai turi puoselėti karių ir civilių gyventojų tarpusavio supratimą ir
+kario etiką. Vadai turi puoselėti karių ir civilių gyventojų tarpusavio
 
-pasitikėjimą.
+supratimą ir pasitikėjimą.
 
-Kariui garantuojama minties, įsitikinimų,
+Kariui garantuojama minties,
 
-tikėjimo ir sąžinės laisvė. Kiekvieno kario žmogaus orumas turi būti gerbiamas,
+įsitikinimų, tikėjimo ir sąžinės laisvė. Kiekvieno kario žmogaus orumas turi
 
-karys neturi patirti pažeminimų. Karių teisės tarnybos (įskaitant rezervo
+būti gerbiamas, karys neturi patirti pažeminimų. Karių teisės tarnybos
 
-tarnybą) metu gali būti įstatymo apribotos tiek, kiek reikia tarnybos pareigoms
+(įskaitant rezervo tarnybą) metu gali būti įstatymo apribotos tiek, kiek reikia
 
-vykdyti ir kariniam paklusnumui užtikrinti. Šie apribojimai taikomi dėl
+tarnybos pareigoms vykdyti ir kariniam paklusnumui užtikrinti. Šie apribojimai
 
-nuomonės reiškimo, privataus gyvenimo apsaugos, tarnybos vietos garantijų,
+taikomi dėl nuomonės reiškimo, privataus gyvenimo apsaugos, tarnybos vietos
 
-susivienijimų laisvės, grupinių peticijų, gyvenimo vietos pasirinkimo,
+garantijų, susivienijimų laisvės, grupinių peticijų, gyvenimo vietos
 
-gyvenamojo būsto neliečiamybės.
+pasirinkimo, gyvenamojo būsto neliečiamybės.
 
-Kariuomenėje veikia karo kapelionų
+Kariuomenėje veikia karo
 
-institutas. Politinių partijų veikla kariuomenėje neleidžiama.
+kapelionų institutas. Politinių partijų veikla kariuomenėje neleidžiama.
 
-Kariui ar kariuomenės daliniui negali būti
+Kariui ar kariuomenės daliniui
 
-duotas įsakymas, prieštaraujantis įstatymams. Joks kariuomenėje tarnaujantis
+negali būti duotas įsakymas, prieštaraujantis įstatymams. Joks kariuomenėje
 
-asmuo negali būti verčiamas tarnauti kitam asmeniui ar asmenų grupei, išskyrus
+tarnaujantis asmuo negali būti verčiamas tarnauti kitam asmeniui ar asmenų
 
-oficialią pareigą.
+grupei, išskyrus oficialią pareigą.
 
 AntrasIS skirsnis
 
@@ -2329,7 +2467,9 @@ KARIUOMENĖS
 
 SUDĖTIS IR FUNKCIJOS
 
-Kariuomenę sudaro:
+Kariuomenę
+
+sudaro:
 
 - reguliariosios pajėgos;
 
@@ -2337,35 +2477,35 @@ Kariuomenę sudaro:
 
 - aktyvusis rezervas.
 
-Reguliariosios pajėgos formuojamos
+Reguliariosios pajėgos
 
-Konstitucijos nustatytos privalomosios karo tarnybos, taip pat profesinės karo
+formuojamos Konstitucijos nustatytos privalomosios karo tarnybos, taip pat
 
-tarnybos pagrindais. Privalomoji karo tarnyba susideda iš pradinės tarnybos
+profesinės karo tarnybos pagrindais. Privalomoji karo tarnyba susideda iš
 
-reguliariosiose pajėgose ir paskesnės tarnybos aktyviajame rezerve ir yra
+pradinės tarnybos reguliariosiose pajėgose ir paskesnės tarnybos aktyviajame
 
-skirta parengti piliečiams ginkluotai Lietuvos gynybai. Privalomoji karo
+rezerve ir yra skirta parengti piliečiams ginkluotai Lietuvos gynybai.
 
-tarnyba atliekama tik kariuomenėje.
+Privalomoji karo tarnyba atliekama tik kariuomenėje.
 
-Privalomosios tarnybos
+Privalomosios
 
-reguliariosiose pajėgose ir aktyviajame rezerve trukmę, periodiškumą ir kitas
+tarnybos reguliariosiose pajėgose ir aktyviajame rezerve trukmę, periodiškumą
 
-sąlygas nustato įstatymai. Įstatymai taip pat nustato darbo vietos apsaugos
+ir kitas sąlygas nustato įstatymai. Įstatymai taip pat nustato darbo vietos
 
-garantijas privalomosios (pradinės ir rezervo) tarnybos metu.
+apsaugos garantijas privalomosios (pradinės ir rezervo) tarnybos metu.
 
-Šauktinio arba piliečio,
+Šauktinio arba
 
-kuriam pradinė privalomoji karo tarnyba buvo atidėta, nepriekaištinga ir
+piliečio, kuriam pradinė privalomoji karo tarnyba buvo atidėta, nepriekaištinga
 
-įstatymo nustatytos trukmės savanoriškoji krašto apsaugos tarnyba prilyginama
+ir įstatymo nustatytos trukmės savanoriškoji krašto apsaugos tarnyba
 
-pradinei privalomajai karo tarnybai. Įstatymai nustato atvejus ir tvarką, kai
+prilyginama pradinei privalomajai karo tarnybai. Įstatymai nustato atvejus ir
 
-tarnyba Savanorių pajėgose gali būti prilyginta privalomajai tarnybai
+tvarką, kai tarnyba Savanorių pajėgose gali būti prilyginta privalomajai tarnybai
 
 aktyviajame rezerve. Įstatymai nustato aukštųjų ir aukštesniųjų specialiųjų
 
@@ -2373,91 +2513,95 @@ mokyklų studentų karinio apmokymo ir pirminės tarnybos trukmę bei atlikimo
 
 tvarką.
 
-Karo padėties, mobilizacijos ir karo atveju
+Karo padėties, mobilizacijos ir
 
-tarnybos trukmė neribojama.
+karo atveju tarnybos trukmė neribojama.
 
-Yra dvi rezervo stadijos: tarnyba aktyviajame
+Yra dvi rezervo stadijos: tarnyba
 
-rezerve ir paskesnis priklausymas individualiam mobilizacijos rezervui.
+aktyviajame rezerve ir paskesnis priklausymas individualiam mobilizacijos
 
-Kiekvienas tarnybos
+rezervui.
 
-aktyviajame rezerve prievolininkas turi priskirtą tarnybos vietą dalinyje.
+Kiekvienas
 
-Atlikę privalomąją karinę tarnybą reguliariosiose pajėgose ir aktyviajame
+tarnybos aktyviajame rezerve prievolininkas turi priskirtą tarnybos vietą
 
-rezerve bei sulaukę įstatymų nustatyto amžiaus piliečiai perkeliami į individualų
+dalinyje. Atlikę privalomąją karinę tarnybą reguliariosiose pajėgose ir aktyviajame
 
-mobilizacijos rezervą. Individualaus mobilizacijos rezervo asmenys pašaukiami į
+rezerve bei sulaukę įstatymų nustatyto amžiaus piliečiai perkeliami į
 
-krašto apsaugos tarnybą ypatingais atvejais arba visuotinės mobilizacijos
+individualų mobilizacijos rezervą. Individualaus mobilizacijos rezervo asmenys
 
-atveju.
+pašaukiami į krašto apsaugos tarnybą ypatingais atvejais arba visuotinės
 
-Reguliariąsias pajėgas
+mobilizacijos atveju.
 
-sudaro:
+Reguliariąsias
 
-- sausumos pajėgos, kurių paskirtis -
+pajėgas sudaro:
 
-valstybės teritorijos karinė apsauga ir valstybės gynimas;
+- sausumos pajėgos, kurių
 
-- karinės oro pajėgos, kurių
+paskirtis - valstybės teritorijos karinė apsauga ir valstybės gynimas;
 
-paskirtis - oro erdvės kontrolė, apsauga ir gynyba, parama sausumos ir jūrų
+- karinės oro
 
-pajėgoms bei specialiųjų operacijų vykdymas;
+pajėgos, kurių paskirtis - oro erdvės kontrolė, apsauga ir gynyba, parama
 
-- karinės jūrų pajėgos, kurių paskirtis -
+sausumos ir jūrų pajėgoms bei specialiųjų operacijų vykdymas;
 
-teritorinės jūros ir išimtinės ekonominės zonos kontrolė, apsauga ir gynyba,
+- karinės jūrų pajėgos, kurių
 
-pakrančių ir laivybos apsauga, specialiosios užduotys - konvojus, evakuacija ir
+paskirtis - teritorinės jūros ir išimtinės ekonominės zonos kontrolė, apsauga
 
-kt.
+ir gynyba, pakrančių ir laivybos apsauga, specialiosios užduotys - konvojus,
 
-Kariuomenės skaičių ir principinę struktūrą
+evakuacija ir kt.
 
-krašto apsaugos ministro teikimu tvirtina Seimas.
+Kariuomenės skaičių ir principinę
+
+struktūrą krašto apsaugos ministro teikimu tvirtina Seimas.
 
 Taikos metu kariuomenė:
 
-- saugo valstybės
+- saugo
 
-teritoriją, oro erdvę, teritorinius vandenis ir išimtinę ekonominę zoną bei
+valstybės teritoriją, oro erdvę, teritorinius vandenis ir išimtinę ekonominę
 
-karinius objektus;
+zoną bei karinius objektus;
 
 - palaiko kovinę parengtį;
 
-- rengiasi ir, Seimui nutarus, savanoriškumo
+- rengiasi ir, Seimui nutarus,
 
-pagrindais dalyvauja taikos operacijose ir misijose už Lietuvos ribų;
+savanoriškumo pagrindais dalyvauja taikos operacijose ir misijose už Lietuvos
 
-- šio skyriaus penktajame skirsnyje
+ribų;
 
-numatytais atvejais gali būti pasiųsta padėti civilinei valdžiai.
+- šio skyriaus penktajame
 
-Skirsnio pakeitimai:
+skirsnyje numatytais atvejais gali būti pasiųsta padėti civilinei valdžiai.
 
-Nr. VIII-770, 98.06.04,
+Skirsnio
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+pakeitimai:
 
-TrečiasIS
+Nr. VIII-770,
 
-skirsnis
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
 
-KRAŠTO APSAUGOS
+TrečiasIS skirsnis
 
-SAVANORIŲ PAJĖGOS
+KRAŠTO
 
-Krašto apsaugos savanorių
+APSAUGOS SAVANORIŲ PAJĖGOS
 
-pajėgos (sutrumpintai - Savanorių pajėgos) yra sudedamoji kariuomenės dalis.
+Krašto apsaugos
 
-Savanorių pajėgų vadą skiria krašto apsaugos ministras kariuomenės vado
+savanorių pajėgos (sutrumpintai - Savanorių pajėgos) yra sudedamoji kariuomenės
+
+dalis. Savanorių pajėgų vadą skiria krašto apsaugos ministras kariuomenės vado
 
 teikimu. Savanorių pajėgų vadas pavaldus kariuomenės vadui. Savanorių pajėgų
 
@@ -2465,59 +2609,61 @@ vienetai formuojami kiekvienoje teritorinėje apygardoje. Jų pagrindinė
 
 paskirtis - vykdyti gynybos uždavinius savo apygardoje.
 
-Taikos metu Savanorių pajėgų
+Taikos metu
 
-funkcijos yra: savanorių karinis parengimas ir jų dalinių parengimas gynybai
+Savanorių pajėgų funkcijos yra: savanorių karinis parengimas ir jų dalinių
 
-savo teritorijoje ir bendriems gynybos uždaviniams vykdyti; savanorių rezervo
+parengimas gynybai savo teritorijoje ir bendriems gynybos uždaviniams vykdyti;
 
-rengimas; gynybos infrastruktūros ir strateginių objektų apsauga; pagalba
+savanorių rezervo rengimas; gynybos infrastruktūros ir strateginių objektų
 
-katastrofų atvejais. Savanorių tarnybos tvarką, Savanorių pajėgų veiklą bei
+apsauga; pagalba katastrofų atvejais. Savanorių tarnybos tvarką, Savanorių
 
-funkcijas nustato įstatymai.
+pajėgų veiklą bei funkcijas nustato įstatymai.
 
-Savanorių pajėgų daliniai gynybai rengiami
+Savanorių pajėgų daliniai
 
-bendrai su kitais kariuomenės daliniais, o pasienio apygardose - taip pat su
+gynybai rengiami bendrai su kitais kariuomenės daliniais, o pasienio apygardose
 
-pasienio policijos daliniais.
+- taip pat su pasienio policijos daliniais.
 
-Skirsnio pakeitimai:
+Skirsnio
 
-Nr. VIII-770, 98.06.04,
+pakeitimai:
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+Nr. VIII-770,
 
-KetvirtasIS
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
 
-skirsnis
+KetvirtasIS skirsnis
 
-KARO AKADEMIJA
+KARO
 
-Karo akademija yra karininkų rengimo ir jų
+AKADEMIJA
 
-karinės kvalifikacijos kėlimo institucija, pavaldi krašto apsaugos ministrui ir
+Karo akademija yra karininkų
 
-kariuomenės vadui. Biudžeto lėšos Akademijai finansuoti skiriamos Krašto
+rengimo ir jų karinės kvalifikacijos kėlimo institucija, pavaldi krašto
 
-apsaugos ministerijai. Bendruosius aukštojo mokslo reikalavimus karo akademijos
+apsaugos ministrui ir kariuomenės vadui. Biudžeto lėšos Akademijai finansuoti
 
-studentams nustato Švietimo ir mokslo ministerija.
+skiriamos Krašto apsaugos ministerijai. Bendruosius aukštojo mokslo
 
-Krašto apsaugos ministerija, atsižvelgdama į
+reikalavimus karo akademijos studentams nustato Švietimo ir mokslo ministerija.
 
-NATO narių ir kitų Europos valstybių patirtį bei Lietuvos karininkų poreikius,
+Krašto apsaugos ministerija,
 
-parengia ir pateikia Seimui aprobuoti Lietuvos karininkų korpuso rengimo ir
+atsižvelgdama į NATO narių ir kitų Europos valstybių patirtį bei Lietuvos
 
-profesinio tobulinimo koncepciją.
+karininkų poreikius, parengia ir pateikia Seimui aprobuoti Lietuvos karininkų
 
-Valstybės užpuolimo (karo) ar karo padėties
+korpuso rengimo ir profesinio tobulinimo koncepciją.
 
-atveju Karo akademija, kaip ginkluotųjų pajėgų sudedamoji dalis, tampa pavaldi
+Valstybės užpuolimo (karo) ar
 
-kariuomenės vadui.
+karo padėties atveju Karo akademija, kaip ginkluotųjų pajėgų sudedamoji dalis,
+
+tampa pavaldi kariuomenės vadui.
 
 Penktasis skirsnis
 
@@ -2525,45 +2671,45 @@ KARIUOMENĖS
 
 PANAUDOJIMAS TAIKOS METU
 
-Taikos metu Lietuvos kariuomenė už Lietuvos
+Taikos metu Lietuvos kariuomenė
 
-Respublikos teritorijos ribų gali būti panaudota tik Seimui leidus.
+už Lietuvos Respublikos teritorijos ribų gali būti panaudota tik Seimui leidus.
 
-Nepaprastosios padėties atveju kariuomenė
+Nepaprastosios padėties atveju
 
-gali būti pasiųsta padėti policijai, kai reikia užkirsti kelią
+kariuomenė gali būti pasiųsta padėti policijai, kai reikia užkirsti kelią
 
-antikonstituciniams smurtiniams veiksmams ar juos stabdyti. Įsakymą pasiųsti
+antikonstituciniams smurtiniams veiksmams ar juos stabdyti. Įsakymą pasiųsti kariuomenę
 
-kariuomenę į pagalbą policijai duoda Respublikos Prezidentas, remdamasis Seimo
+į pagalbą policijai duoda Respublikos Prezidentas, remdamasis Seimo sprendimu
 
-sprendimu dėl kariuomenės panaudojimo. Kai įstatymų nustatyta tvarka ir
+dėl kariuomenės panaudojimo. Kai įstatymų nustatyta tvarka ir atvejais
 
-atvejais Respublikos Prezidentas priima neatidėliotiną sprendimą dėl
+Respublikos Prezidentas priima neatidėliotiną sprendimą dėl nepaprastosios
 
-nepaprastosios padėties įvedimo ir įsako pasiųsti kariuomenę į pagalbą
+padėties įvedimo ir įsako pasiųsti kariuomenę į pagalbą policijai, šiuos
 
-policijai, šiuos sprendimus turi patvirtinti Seimas.
+sprendimus turi patvirtinti Seimas.
 
-Respublikos Prezidentas arba krašto apsaugos
+Respublikos Prezidentas arba
 
-ministras be Seimo sutikimo gali įsakyti panaudoti kariuomenę gelbėjimo darbams
+krašto apsaugos ministras be Seimo sutikimo gali įsakyti panaudoti kariuomenę
 
-avarijų ir katastrofų atvejais. Kariuomenė Respublikos Prezidento arba krašto
+gelbėjimo darbams avarijų ir katastrofų atvejais. Kariuomenė Respublikos
 
-apsaugos ministro įsakymu taip pat gali būti pasiųsta į pagalbą pasienio
+Prezidento arba krašto apsaugos ministro įsakymu taip pat gali būti pasiųsta į
 
-policijai, kai prireikia sustiprinti valstybės sienos apsaugą.
+pagalbą pasienio policijai, kai prireikia sustiprinti valstybės sienos apsaugą.
 
-Netikėtais ir neatidėliotinais atvejais, kai
+Netikėtais ir neatidėliotinais
 
-nusikaltėliai sukelia realų pavojų žmonių gyvybei ar nuosavybei ir reikia
+atvejais, kai nusikaltėliai sukelia realų pavojų žmonių gyvybei ar nuosavybei
 
-padėti vykdyti skubias tokių nusikaltėlių sulaikymo operacijas, Policijos
+ir reikia padėti vykdyti skubias tokių nusikaltėlių sulaikymo operacijas,
 
-departamento prie Vidaus reikalų ministerijos generalinio komisaro, jo
+Policijos departamento prie Vidaus reikalų ministerijos generalinio komisaro,
 
-pavaduotojo ar vietos policijos komisariato vadovo raštišku prašymu, civilinei
+jo pavaduotojo ar vietos policijos komisariato vadovo raštišku prašymu, civilinei
 
 operacinei vadovybei leidus, karinis vienetas operacinio vadovavimo grandinėje
 
@@ -2579,17 +2725,21 @@ vadovo paskirtas pareigūnas. Prireikus pagalbos teikimo policijai trukmė,
 
 laikantis tokios pat tvarkos, gali būti pratęsta iki 48 valandų.
 
-Tokiai operacijai bendrai vadovauja policijos
+Tokiai operacijai bendrai
 
-paskirtas vadas. Visais atvejais karinė jėga naudojama minimaliai. Kariuomenės
+vadovauja policijos paskirtas vadas. Visais atvejais karinė jėga naudojama
 
-pagalbos teikimo policijai tvarką nustato įstatymai ir kiti teisės aktai.
+minimaliai. Kariuomenės pagalbos teikimo policijai tvarką nustato įstatymai ir
 
-Skirsnio pakeitimai:
+kiti teisės aktai.
 
-Nr. VIII-770, 98.06.04,
+Skirsnio
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+pakeitimai:
+
+Nr. VIII-770,
+
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
 
 Šeštasis skirsnis
 
@@ -2597,11 +2747,11 @@ KARINĖ
 
 TEISĖSAUGA
 
-Teisėsaugą kariuomenėje vykdo Lietuvos
+Teisėsaugą kariuomenėje vykdo
 
-teisėsaugos institucijų specializuoti padaliniai. Specializuotų padalinių ir
+Lietuvos teisėsaugos institucijų specializuoti padaliniai. Specializuotų padalinių
 
-pareigūnų veiklos paskirtis - sustabdyti kariškių daromus teisės pažeidimus,
+ir pareigūnų veiklos paskirtis - sustabdyti kariškių daromus teisės pažeidimus,
 
 tirti tarnybos metu karių ir karininkų padarytus arba susijusius su tarnyba
 
@@ -2613,29 +2763,29 @@ tardymo institucijose. Karių ir karininkų bylas dėl tarnybos arba su tarnyba
 
 susijusių teisės pažeidimų nagrinėja specializuotas teismas.
 
-Specializuotų karinės teisėsaugos padalinių
+Specializuotų karinės teisėsaugos
 
-ir pareigūnų veiklos, patraukimo atsakomybėn ir proceso ypatumus karo padėties
+padalinių ir pareigūnų veiklos, patraukimo atsakomybėn ir proceso ypatumus karo
 
-arba valstybės gynybos (karo) metu nustato įstatymai.
+padėties arba valstybės gynybos (karo) metu nustato įstatymai.
 
-Krašto apsaugos ministerijos sistemoje veikia
+Krašto apsaugos ministerijos
 
-karo policija, kurios paskirtis - užkirsti kelią karių viešosios tvarkos ir
+sistemoje veikia karo policija, kurios paskirtis - užkirsti kelią karių
 
-teisės pažeidimams. Viešosios tvarkos ar teisės pažeidimų atvejais karo
+viešosios tvarkos ir teisės pažeidimams. Viešosios tvarkos ar teisės pažeidimų
 
-policija sulaiko pažeidėjus ir atlieka kvotą. Karo policijos funkcijas, teises
+atvejais karo policija sulaiko pažeidėjus ir atlieka kvotą. Karo policijos
 
-ir pareigas nustato įstatymai.
+funkcijas, teises ir pareigas nustato įstatymai.
 
-Už drausmės pažeidimus krašto apsaugos
+Už drausmės pažeidimus krašto
 
-tarnyboje kariuomenės vadai turi teisę skirti nuobaudas. Nuobaudų už drausmės
+apsaugos tarnyboje kariuomenės vadai turi teisę skirti nuobaudas. Nuobaudų už
 
-pažeidimus rūšis, karinių pareigūnų teises nuobaudas skirti, jų skyrimo ir
+drausmės pažeidimus rūšis, karinių pareigūnų teises nuobaudas skirti, jų
 
-apskundimo procedūras nustato įstatymai.
+skyrimo ir apskundimo procedūras nustato įstatymai.
 
 19
 
@@ -2645,15 +2795,15 @@ POLICIJOS
 
 PAJĖGOS
 
-Pagrindinė policijos, kaip nacionalinio
+Pagrindinė policijos, kaip
 
-saugumo sistemos sudedamosios dalies, paskirtis - užtikrinti asmens saugumą,
+nacionalinio saugumo sistemos sudedamosios dalies, paskirtis - užtikrinti
 
-žmogaus teises ir laisves, palaikyti viešąją tvarką, kovoti su nusikaltimais,
+asmens saugumą, žmogaus teises ir laisves, palaikyti viešąją tvarką, kovoti su
 
-saugoti valstybės sieną, kontroliuoti perėjimo punktus ir pasienio ruožą,
+nusikaltimais, saugoti valstybės sieną, kontroliuoti perėjimo punktus ir
 
-saugoti valstybės objektus. Policijos funkcijas nustato įstatymas.
+pasienio ruožą, saugoti valstybės objektus. Policijos funkcijas nustato įstatymas.
 
 Policijos daliniai formuojami tik
 
@@ -2661,43 +2811,45 @@ profesionalios tarnybos pagrindais. Privalomoji karo tarnyba policijoje
 
 neatliekama.
 
-Lietuvoje nebus Vidaus reikalų ministerijos
+Lietuvoje nebus Vidaus reikalų
 
-karinių dalinių. Esami vidaus tarnybos daliniai reorganizuojami taip:
+ministerijos karinių dalinių. Esami vidaus tarnybos daliniai reorganizuojami
 
-- specializuoti policijos daliniai, kurių
+taip:
 
-paskirtis - slopinti riaušes kalėjimuose, kovoti su teroristais ir nusikaltėlių
+- specializuoti policijos
 
-gaujomis, vykdyti sulaikymo ir kitas policijos operacijas, saugoti svarbius
+daliniai, kurių paskirtis - slopinti riaušes kalėjimuose, kovoti su teroristais
 
-valstybės objektus, numatytus Vyriausybės nutarimu patvirtintame sąraše,
+ir nusikaltėlių gaujomis, vykdyti sulaikymo ir kitas policijos operacijas,
 
-pasilieka pavaldūs Vidaus reikalų ministerijai;
+saugoti svarbius valstybės objektus, numatytus Vyriausybės nutarimu
 
-- kalėjimų apsaugos tarnyba perduodama
+patvirtintame sąraše, pasilieka pavaldūs Vidaus reikalų ministerijai;
 
-Teisingumo ministerijos žinion;
+- kalėjimų apsaugos tarnyba
 
-- vidaus tarnybos daliniuose tarnaujantys
+perduodama Teisingumo ministerijos žinion;
 
-privalomosios krašto apsaugos tarnybos kariai su kovine ginkluote perkeliami į
+- vidaus tarnybos daliniuose
 
-kariuomenės dalinius.
+tarnaujantys privalomosios krašto apsaugos tarnybos kariai su kovine ginkluote
 
-Valstybės sieną saugo specializuoti Vidaus
+perkeliami į kariuomenės dalinius.
 
-reikalų ministerijai pavaldūs pasienio policijos daliniai. Pagal Gynybos štabo
+Valstybės sieną saugo
 
-planus jie rengiami ginkluotos gynybos veiksmams valstybės gynybos (karo)
+specializuoti Vidaus reikalų ministerijai pavaldūs pasienio policijos daliniai.
 
-atveju. Jų rengimo gynybai tvarką reglamentuoja įstatymas.
+Pagal Gynybos štabo planus jie rengiami ginkluotos gynybos veiksmams valstybės
 
-Pasienio policijos, o prireikus ir kiti
+gynybos (karo) atveju. Jų rengimo gynybai tvarką reglamentuoja įstatymas.
 
-specializuoti policijos daliniai karo padėties ir valstybės gynybos (karo) metu
+Pasienio policijos, o prireikus
 
-priskiriami ginkluotosioms pajėgoms.
+ir kiti specializuoti policijos daliniai karo padėties ir valstybės gynybos
+
+(karo) metu priskiriami ginkluotosioms pajėgoms.
 
 20
 
@@ -2707,45 +2859,47 @@ VALSTYBĖS
 
 SAUGUMO DEPARTAMENTAS
 
-Valstybės saugumo departamentas yra Seimui
+Valstybės saugumo departamentas
 
-ir Respublikos Prezidentui atskaitinga institucija, kurios paskirtis - apsaugoti
+yra Seimui ir Respublikos Prezidentui atskaitinga institucija, kurios paskirtis
 
-nuo pasikėsinimų valstybę, jos suverenitetą ir konstitucinę santvarką.
+- apsaugoti nuo pasikėsinimų valstybę, jos suverenitetą ir konstitucinę
 
-Valstybės saugumo departamento uždaviniai -
+santvarką.
 
-vykdyti užsienio žvalgybą ir kontržvalgybą, laiku atskleisti veikas, keliančias
+Valstybės saugumo departamento
 
-grėsmę valstybės saugumui, suverenitetui, teritorijos neliečiamybei ir
+uždaviniai - vykdyti užsienio žvalgybą ir kontržvalgybą, laiku atskleisti veikas,
 
-vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ir
+keliančias grėsmę valstybės saugumui, suverenitetui, teritorijos neliečiamybei
+
+ir vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ir
 
 ekonominei galiai, užkirsti kelią šioms veikoms ir jas šalinti įstatymų
 
 nustatyta tvarka.
 
-Valstybės saugumo departamentas teikia
+Valstybės saugumo departamentas
 
-žvalgybos ir kontržvalgybos informaciją, išvadas ir rekomendacijas Respublikos
+teikia žvalgybos ir kontržvalgybos informaciją, išvadas ir rekomendacijas
 
-Prezidentui, Vyriausybei ir kitoms valstybės institucijoms. Informaciją, kuri
+Respublikos Prezidentui, Vyriausybei ir kitoms valstybės institucijoms.
 
-nėra valstybės paslaptis, Departamentas teikia ir visuomenei.
+Informaciją, kuri nėra valstybės paslaptis, Departamentas teikia ir visuomenei.
 
-Valstybės saugumo departamento veiklą
+Valstybės saugumo departamento
 
-reglamentuoja įstatymai.
+veiklą reglamentuoja įstatymai.
 
-Valstybės saugumo departamento biudžetas,
+Valstybės saugumo departamento
 
-ištekliai, darbo metodai ir technika yra valstybės paslaptis.
+biudžetas, ištekliai, darbo metodai ir technika yra valstybės paslaptis.
 
-Seimas atlieka parlamentinę Departamento
+Seimas atlieka parlamentinę
 
-veiklos kontrolę. Ši kontrolė atliekama laikantis valstybės paslapčių apsaugos
+Departamento veiklos kontrolę. Ši kontrolė atliekama laikantis valstybės
 
-reikalavimų ir Seimo nustatytų specialių procedūrų.
+paslapčių apsaugos reikalavimų ir Seimo nustatytų specialių procedūrų.
 
 21
 
@@ -2761,11 +2915,11 @@ VIENTISA
 
 CIVILINĖS SAUGOS IR GELBĖJIMO SISTEMA
 
-Seimas tvirtina civilinės saugos ir gelbėjimo
+Seimas tvirtina civilinės saugos
 
-vientisos sistemos struktūrą bei jos plėtros programą, aprėpiančią ir
+ir gelbėjimo vientisos sistemos struktūrą bei jos plėtros programą, aprėpiančią
 
-ekstremalių situacijų valdymą bei tarptautinį bendradarbiavimą. Civilinės
+ir ekstremalių situacijų valdymą bei tarptautinį bendradarbiavimą. Civilinės
 
 saugos ir gelbėjimo vientisos sistemos paskirtis - apsaugoti gyventojus nuo
 
@@ -2775,89 +2929,87 @@ dalyvaujant. Ši sistema užtikrina visų gelbėjimo tarnybų parengtį ir
 
 prevencinius veiksmus, o gaivalinių nelaimių, katastrofų ir ginkluotų veiksmų
 
-atvejais - krašto gyventojų perspėjimą ir informavimą, jų gyvybės ir turto
+atvejais - krašto gyventojų perspėjimą ir informavimą, jų gyvybės ir turto apsaugą,
 
-apsaugą, reikalingą neatidėliotiną pagalbą ir evakuaciją iš pavojingų rajonų.
+reikalingą neatidėliotiną pagalbą ir evakuaciją iš pavojingų rajonų.
 
-Civilinės saugos ir gelbėjimo vientisos
+Civilinės saugos ir gelbėjimo
 
-sistemos struktūrą sudaro: Civilinės saugos departamentas; Ekstremalių
+vientisos sistemos struktūrą sudaro: Civilinės saugos departamentas;
 
-situacijų valdymo centras; ministerijų, kitų valstybės institucijų bei
+Ekstremalių situacijų valdymo centras; ministerijų, kitų valstybės institucijų
 
-savivaldybių civilinės saugos, priešgaisrinės gelbėjimo, paieškos ir gelbėjimo,
+bei savivaldybių civilinės saugos, priešgaisrinės gelbėjimo, paieškos ir
 
-kitos teritorinės gyventojų perspėjimo, informavimo, gelbėjimo, pagalbos ir
+gelbėjimo, kitos teritorinės gyventojų perspėjimo, informavimo, gelbėjimo,
 
-evakuacijos tarnybos.
+pagalbos ir evakuacijos tarnybos.
 
-Ministerijų, kitų valstybės institucijų ir
+Ministerijų, kitų valstybės
 
-savivaldybių civilinės saugos tarnybų paskirtis - apmokyti civilius gyventojus
+institucijų ir savivaldybių civilinės saugos tarnybų paskirtis - apmokyti
 
-praktinių apsisaugojimo veiksmų, gyventojus perspėti ir informuoti, apsaugoti
+civilius gyventojus praktinių apsisaugojimo veiksmų, gyventojus perspėti ir
 
-juos ir jų turtą, gelbėti ir evakuoti gaivalinių nelaimių, katastrofų ar
+informuoti, apsaugoti juos ir jų turtą, gelbėti ir evakuoti gaivalinių
 
-ginkluotų veiksmų atvejais bei šalinti jų padarinius.
+nelaimių, katastrofų ar ginkluotų veiksmų atvejais bei šalinti jų padarinius.
 
-Priešgaisrinės gelbėjimo tarnybos paskirtis -
+Priešgaisrinės gelbėjimo tarnybos
 
-rūpintis priešgaisrine sauga, gesinti gaisrus ir dirbti gelbėjimo darbus,
+paskirtis - rūpintis priešgaisrine sauga, gesinti gaisrus ir dirbti gelbėjimo
 
-teikti neatidėliotiną medicinos ir techninę pagalbą. Šiems darbams telkiamos ir
+darbus, teikti neatidėliotiną medicinos ir techninę pagalbą. Šiems darbams
 
-savivaldybių bei nevalstybinės priešgaisrinės gelbėjimo organizacijos.
+telkiamos ir savivaldybių bei nevalstybinės priešgaisrinės gelbėjimo organizacijos.
 
-Paieškos ir gelbėjimo tarnybų paskirtis -
+Paieškos ir gelbėjimo tarnybų
 
-ieškoti ir gelbėti Baltijos jūroje ir Lietuvos teritorijoje nelaimės ištiktų
+paskirtis - ieškoti ir gelbėti Baltijos jūroje ir Lietuvos teritorijoje
 
-skraidymo aparatų ir laivų įgulas bei keleivius. Tarnybos funkcijas nustato
+nelaimės ištiktų skraidymo aparatų ir laivų įgulas bei keleivius. Tarnybos
 
-įstatymai ir Lietuvos įsipareigojimai dėl tarptautinio bendradarbiavimo dirbant
+funkcijas nustato įstatymai ir Lietuvos įsipareigojimai dėl tarptautinio
 
-paieškos ir gelbėjimo darbus.
+bendradarbiavimo dirbant paieškos ir gelbėjimo darbus.
 
-Jeigu reikia, katastrofoms ir kitoms didelio
+Jeigu reikia, katastrofoms ir
 
-masto nelaimėms įveikti, gelbėjimo darbams dirbti bei pasekmėms šalinti
+kitoms didelio masto nelaimėms įveikti, gelbėjimo darbams dirbti bei pasekmėms
 
-telkiamos ne tik specializuotos civilinės saugos ir gelbėjimo tarnybos, bet ir
+šalinti telkiamos ne tik specializuotos civilinės saugos ir gelbėjimo tarnybos,
 
-kariuomenė, specialistai iš mobilizacinio rezervo, ministerijų, kitų valstybės
+bet ir kariuomenė, specialistai iš mobilizacinio rezervo, ministerijų, kitų
 
-institucijų ir savivaldybių organizacijos, panaudojami joms priklausantys
+valstybės institucijų ir savivaldybių organizacijos, panaudojami joms
 
-ištekliai, savaveiksmių organizacijų savanoriai. Šio telkimo ir dalyvavimo
+priklausantys ištekliai, savaveiksmių organizacijų savanoriai. Šio telkimo ir
 
-darbuose sąlygas ir tvarką nustato įstatymas.
+dalyvavimo darbuose sąlygas ir tvarką nustato įstatymas.
 
-Visų vieningos civilinės saugos ir gelbėjimo
+Visų vieningos civilinės saugos
 
-sistemos institucijų ir tarnybų detalią struktūrą, pavaldumą, funkcijas,
+ir gelbėjimo sistemos institucijų ir tarnybų detalią struktūrą, pavaldumą,
 
-atsakomybę, tarpusavio ir su kitomis valstybės institucijomis bei
+funkcijas, atsakomybę, tarpusavio ir su kitomis valstybės institucijomis bei
 
 savivaldybėmis sąveiką nustato įstatymai ir kiti teisės aktai.
 
-AntrasIS
+AntrasIS skirsnis
 
-skirsnis
+CIVILINĖS
 
-CIVILINĖS SAUGOS
+SAUGOS DEPARTAMENTAS
 
-DEPARTAMENTAS
+Civilinės saugos departamentą
 
-Civilinės saugos departamentą steigia
+steigia Vyriausybė. Jis vadovauja civilinės saugos vientisos sistemos
 
-Vyriausybė. Jis vadovauja civilinės saugos vientisos sistemos nuolatinei
+nuolatinei veiklai. Departamento pavaldumą, funkcijas, teises ir atsakomybę
 
-veiklai. Departamento pavaldumą, funkcijas, teises ir atsakomybę gamtinių
+gamtinių nelaimių, katastrofų, grėsmių ar valstybės ginkluotos gynybos (karo)
 
-nelaimių, katastrofų, grėsmių ar valstybės ginkluotos gynybos (karo) atvejais
-
-nustato įstatymai.
+atvejais nustato įstatymai.
 
 Trečiasis skirsnis
 
@@ -2865,31 +3017,33 @@ EKSTREMALIŲ
 
 SITUACIJŲ VALDYMO CENTRAS
 
-Ekstremalių situacijų valdymo centras veikia
+Ekstremalių situacijų valdymo
 
-kaip Ekstremalių situacijų komisijos nuolatinė institucija, turinti Vyriausybės
+centras veikia kaip Ekstremalių situacijų komisijos nuolatinė institucija,
 
-įstaigos statusą. Didelio masto gaivalinių nelaimių, technologinių avarijų ar
+turinti Vyriausybės įstaigos statusą. Didelio masto gaivalinių nelaimių,
 
-katastrofų atvejais jis nedelsiant organizuoja nelaimės stabdymą, žmonių
+technologinių avarijų ar katastrofų atvejais jis nedelsiant organizuoja
 
-gelbėjimą ir padarinių šalinimą, tam vadovauja. Prireikus Centras civilinės
+nelaimės stabdymą, žmonių gelbėjimą ir padarinių šalinimą, tam vadovauja.
 
-saugos ir gelbėjimo tarnyboms telkia į pagalbą kitoms valstybės institucijoms
+Prireikus Centras civilinės saugos ir gelbėjimo tarnyboms telkia į pagalbą
 
-pavaldžias tarnybas ir techniką, koordinuoja jų veiksmus. Centro funkcijas ir
+kitoms valstybės institucijoms pavaldžias tarnybas ir techniką, koordinuoja jų
 
-įgaliojimus nustato Vyriausybė. Vyriausybė tvirtina ekstremalių situacijų
+veiksmus. Centro funkcijas ir įgaliojimus nustato Vyriausybė. Vyriausybė
 
-valdymo planus, kuriuose, kai to reikia, numatomas ministrų vadovavimas
+tvirtina ekstremalių situacijų valdymo planus, kuriuose, kai to reikia,
 
-gelbėjimo ir pasekmių šalinimo veiksmams.
+numatomas ministrų vadovavimas gelbėjimo ir pasekmių šalinimo veiksmams.
 
-Skirsnio pakeitimai:
+Skirsnio
 
-Nr. VIII-770, 98.06.04,
+pakeitimai:
 
-Žin., 1998, Nr.55-1520 (98.06.17)
+Nr. VIII-770,
+
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
 
 22
 
@@ -2899,15 +3053,15 @@ GINKLŲ
 
 FONDAS
 
-Ginklų fondas - prie Vyriausybės veikianti
+Ginklų fondas - prie Vyriausybės
 
-valstybinė įstaiga, kurios pagrindinis uždavinys - aprūpinti krašto apsaugos
+veikianti valstybinė įstaiga, kurios pagrindinis uždavinys - aprūpinti krašto
 
-sistemą ir valstybės institucijas ginklais, karine technika, šaudmenimis ir
+apsaugos sistemą ir valstybės institucijas ginklais, karine technika,
 
-sprogmenimis. Ginklų fondas gamina ir remontuoja kariuomenei ir kitoms
+šaudmenimis ir sprogmenimis. Ginklų fondas gamina ir remontuoja kariuomenei ir
 
-valstybės institucijoms reikalingą ginkluotę, šaudmenis ir sprogmenis jo
+kitoms valstybės institucijoms reikalingą ginkluotę, šaudmenis ir sprogmenis jo
 
 reguliavimo sričiai priskirtose valstybės įmonėse, įstatymų nustatytomis
 
@@ -2925,13 +3079,13 @@ ALTERNATYVIOJI
 
 KRAŠTO APSAUGOS TARNYBA
 
-Alternatyvioji krašto apsaugos tarnyba yra
+Alternatyvioji krašto apsaugos
 
-karo prievolei alternatyvi privalomoji krašto apsaugos pagalbinė tarnyba be
+tarnyba yra karo prievolei alternatyvi privalomoji krašto apsaugos pagalbinė
 
-ginklų tiems, kurie dėl savo religinių ar pacifistinių įsitikinimų negali
+tarnyba be ginklų tiems, kurie dėl savo religinių ar pacifistinių įsitikinimų
 
-tarnauti su ginklu rankoje. Šios tarnybos tikslas - ugdyti piliečius ir
+negali tarnauti su ginklu rankoje. Šios tarnybos tikslas - ugdyti piliečius ir
 
 sudaryti jiems galimybę prisidėti prie krašto apsaugos ir nacionalinio saugumo
 
@@ -2949,15 +3103,17 @@ skyrius
 
 SĄJUNGA
 
-Šaulių sąjunga yra savanoriška sukarinta
+Šaulių sąjunga yra savanoriška
 
-organizacija, veikianti pagal savo statutą. Ji yra valstybės remiama pilietinės
+sukarinta organizacija, veikianti pagal savo statutą. Ji yra valstybės remiama
 
-savigynos institucija. Šaulių sąjungos dalyvavimą krašto apsaugos veikloje ir
+pilietinės savigynos institucija. Šaulių sąjungos dalyvavimą krašto apsaugos
 
-bendradarbiavimą su Krašto apsaugos ministerija reglamentuoja įstatymas. Šaulių
+veikloje ir bendradarbiavimą su Krašto apsaugos ministerija reglamentuoja
 
-sąjungos reikalams Krašto apsaugos ministerija skiria atsakingą pareigūną.
+įstatymas. Šaulių sąjungos reikalams Krašto apsaugos ministerija skiria
+
+atsakingą pareigūną.
 
 BAIGIAMOSIOS
 
@@ -2971,13 +3127,65 @@ NACIONALINIO
 
 SAUGUMO SISTEMOS PLĖTRA
 
-Lietuvos nacionalinio saugumo sistema
+Lietuvos nacionalinio saugumo
 
-plėtojama nuosekliai, remiantis šio dokumento nustatytais pagrindais.
+sistema plėtojama nuosekliai, remiantis šio dokumento nustatytais pagrindais.
 
 Nacionalinio saugumo sistemos pagrindais vadovaujamasi ir jie išplėtojami
 
 įstatymuose ir kituose teisės aktuose pertvarkant ir plėtojant valstybės
 
 nacionalinio saugumo institucijas ir tobulinant jų veiklą.
+
+_______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-770,
+
+98.06.04, Žin., 1998, Nr.55-1520 (98.06.17)
+
+LIETUVOS
+
+RESPUBLIKOS NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO 5, 6 STRAIPSNIŲ IR PRIEDĖLIO
+
+PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1026,
+
+99.01.14, Žin., 1999, Nr.11-245 (99.01.27)
+
+LIETUVOS
+
+RESPUBLIKOS NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO PAPILDYMO
+
+ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1778, 00.06.29, Žin., 2000,
+
+Nr.58-1710 (00.07.19)
+
+NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 14 SKYRIAUS ANTROJO
+
+SKIRSNIO PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2000.08.02)
 
