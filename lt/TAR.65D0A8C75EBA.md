@@ -4,7 +4,7 @@ identifier: "TAR.65D0A8C75EBA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-04-08"
-last_updated: "1998-10-22"
+last_updated: "1999-01-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.65D0A8C75EBA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė
 
-(1998.11.04)
+(1999.01.27)
 
 Įstatymas paskelbtas: Žin., 1998, Nr.38-1002
 
@@ -38,6 +38,22 @@ Nr. VIII-912, 98.10.22,
 LIETUVOS RESPUBLIKOS TEISMŲ
 
 ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO ĮSTATYMO 6 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-1037, 99.01.14,
+
+Žin., 1999, Nr.11-248 (99.01.27)
+
+LIETUVOS RESPUBLIKOS TEISMŲ
+
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO ĮSTATYMO 4 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
@@ -109,9 +125,19 @@ teisėjo darbo stažo.
 
 2. Iki 2000-ųjų metų Lietuvos Aukščiausiojo Teismo
 
-teisėjais gali būti skiriami Lietuvos apeliacinio teismo teisėjai ir neturintys
+teisėjais gali būti skiriami apygardų teismų teisėjai bei Lietuvos apeliacinio
 
-5 metų Apeliacinio teismo teisėjo darbo stažo.
+teismo teisėjai ir neturintys Lietuvos Respublikos teismų įstatymo 24
+
+straipsnio 1 dalies 1 punkte nustatyto apygardos ar Apeliacinio teismo teisėjo
+
+darbo stažo.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1037, 99.01.14,
+
+Žin., 1999, Nr.11-248 (99.01.27)
 
 5 straipsnis. Lietuvos Aukščiausiojo Teismo statuto
 
