@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2003-03-25"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -110,7 +110,7 @@ valstybės pareigūnams, kuriems netaikomas Lietuvos Respublikos valstybės
 
 tarnybos įstatymas (toliau – valstybės pareigūnai):
 
-1) prokuratūros pareigūnams;
+1) prokurorams;
 
 2) valstybės
 
@@ -138,13 +138,13 @@ etikos inspektoriui;
 
 8) Seimo, Seimo
 
-Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų
+Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems
 
-ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus Valstybės
+institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus
 
-saugumo departamento generalinį direktorių ir jo pavaduotojus bei Specialiųjų
+Valstybės saugumo departamento generalinį direktorių ir jo pavaduotojus bei
 
-tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams;
+Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams;
 
 9) Seimo,
 
@@ -187,6 +187,60 @@ Nr. IX-1326,
 Nr. IX-1390,
 
 2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
+
+Nr. IX-1520,
+
+2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
+
+3
+
+straipsnis. Valstybės politikų, teisėjų ir valstybės pareigūnų darbo užmokestis
+
+1. Valstybės politikų ir teisėjų darbo užmokestis susideda iš:
+
+1) pareiginės algos;
+
+2) priedo už ištarnautus Lietuvos valstybei metus.
+
+2.  Valstybės pareigūnų (išskyrus prokurorų) darbo
+
+užmokestis susideda iš:
+
+1) pareiginės algos;
+
+2) priedo už ištarnautus Lietuvos valstybei metus;
+
+3) vienkartinės
+
+priemokos.
+
+3. Prokurorų darbo užmokestis susideda iš:
+
+1) pareiginės algos;
+
+2) priedo už ištarnautus Lietuvos valstybei metus;
+
+3) priedo už kvalifikacinį rangą.
+
+4. Duomenys apie valstybės politikų, teisėjų ir valstybės
+
+pareigūnų darbo užmokestį yra vieši. Šių duomenų pateikimo tvarką iki 2002 m.
+
+birželio 1 d. nustato Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. IX-811,
+
+2002-03-26, Žin., 2002, Nr. 38-1358 (2002-04-10)
+
+Nr. IX-1045,
+
+2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
+
+Nr. IX-1520,
+
+2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
 
 3 straipsnis. Valstybės politikų,
 
@@ -295,6 +349,46 @@ pakeitimai:
 Nr. VIII-2057,
 
 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+
+5(1)
+
+straipsnis. Priedas už kvalifikacinį rangą
+
+1. Prokurorams priedai už kvalifikacinį rangą skaičiuojami
+
+nuo pareiginės algos:
+
+1) justicijos
+
+patarėjui – 5 procentų dydžio;
+
+2) vyresniajam
+
+justicijos patarėjui – 10 procentų dydžio;
+
+3) vyriausiajam
+
+justicijos patarėjui – 15 procentų dydžio;
+
+4) valstybiniam
+
+justicijos patarėjui – 20 procentų dydžio;
+
+5) vyriausiajam
+
+valstybiniam justicijos patarėjui – 25 procentų dydžio.
+
+2. Prokurorams
+
+priedas už suteiktą jaunesniojo justicijos patarėjo kvalifikacinį rangą
+
+nemokamas.
+
+Įstatymas papildytas straipsniu:
+
+Nr. IX-1520,
+
+2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
 
 6 straipsnis.
 
@@ -494,11 +588,11 @@ Pereinamuoju laikotarpiu į valstybės politiko, išskyrus mero ir mero
 
 pavaduotojo, teisėjo ir valstybės pareigūno pareigas išrinktiems ar paskirtiems
 
-asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio
+asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio nuostatas
 
-nuostatas ir nurodytas formules, kuriose dydis C reiškia naujai išrinkto ar
+ir nurodytas formules, kuriose dydis C reiškia naujai išrinkto ar paskirto
 
-paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokesčio,
+valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokesčio,
 
 apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo apmokėjimo
 
@@ -578,11 +672,11 @@ asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal tas šio įstaty
 
 7 straipsnio nuostatas ir formules, kurios nustato teisėjų atlyginimų mažinimą,
 
-prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsniui, 109
+prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsniui, 109 straipsniui,
 
-straipsniui, 114 straipsnio 1 daliai ir Lietuvos Respublikos Konstitucijoje
+114 straipsnio 1 daliai ir Lietuvos Respublikos Konstitucijoje įtvirtintam
 
-įtvirtintam teisinės valstybės principui.
+teisinės valstybės principui.
 
 Straipsnio
 
@@ -596,9 +690,9 @@ Nr. IX-231, 2001 03 27, Žin., 2001, Nr.
 
 29-918 (2001 04 04)
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Konstitucinis Teismas, Nutarimas
+Konstitucinis Teismas, Nutarimas
 
 2001-07-12, Žin.,
 
@@ -1048,9 +1142,11 @@ Nr. IX-1390,
 
 2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
 
-III. Prokuratūros pareigūnų pareiginės algos
+III. Prokurorų pareiginės algos
 
-(MMA dydžiais)
+(MMA
+
+dydžiais)
 
 Eil. Nr.
 
@@ -1064,11 +1160,7 @@ algos koeficientas
 
 1.
 
-Generalinė prokuratūra prie
-
-Lietuvos
-
-Aukščiausiojo Teismo
+Generalinė prokuratūra
 
 1.1.
 
@@ -1076,7 +1168,7 @@ Generalinis prokuroras
 
 16,7
 
-1.2
+1.2.
 
 Generalinio prokuroro pavaduotojas
 
@@ -1090,41 +1182,19 @@ Departamento vyriausiasis prokuroras
 
 1.4.
 
-Departamento valdybos vyriausiasis
-
-prokuroras
-
-14,6
-
-1.5.
-
 Skyriaus vyriausiasis prokuroras
 
 14,5
 
-1.6.
+1.5.
 
-Grupės vyriausiasis prokuroras
-
-14,4
-
-1.7.
-
-departamento vyriausiojo prokuroro
+Departamento vyriausiojo prokuroro
 
 pavaduotojas
 
 14,3
 
-1.8.
-
-Valdybos vyriausiojo prokuroro
-
-pavaduotojas
-
-14,2
-
-1.9.
+1.6.
 
 Skyriaus vyriausiojo prokuroro
 
@@ -1132,69 +1202,33 @@ pavaduotojas
 
 14,1
 
-1.10.
+1.7.
 
-Grupės vyriausiojo prokuroro
-
-pavaduotojas
-
-14,0
-
-1.11.
-
-ONKT departamento prokuroras,
-
-tardytojas
+ONKT departamento prokuroras
 
 13,8
 
-1.12.
+1.8.
 
-ONKT valdybos prokuroras, tardytojas
-
-13,8
-
-1.13.
-
-ONKT skyriaus prokuroras, tardytojas
-
-13,7
-
-1.14.
-
-ONKT grupės prokuroras, tardytojas
-
-13,6
-
-1.15.
-
-Departamento prokuroras, tardytojas
+Departamento prokuroras
 
 13,1
 
-1.16.
+1.9.
 
-Valdybos prokuroras, tardytojas
-
-13,1
-
-1.17.
-
-Skyriaus prokuroras, tardytojas
+Skyriaus prokuroras
 
 13,0
 
-1.18.
+1.10.
 
-Grupės prokuroras, tardytojas
+Prokuroras
 
 12,9
 
 2.
 
-Apygardų prokuratūros prie apygardų
-
-teismų
+Apygardų prokuratūros
 
 2.1.
 
@@ -1224,13 +1258,13 @@ pavaduotojas
 
 2.5.
 
-ONKT prokuroras, tardytojas
+ONKT prokuroras
 
 10,0
 
 2.6.
 
-Prokuroras, tardytojas
+Prokuroras
 
 9,5
 
@@ -1238,7 +1272,7 @@ Prokuroras, tardytojas
 
 Vilniaus, Kauno ir Klaipėdos miestų
 
-apylinkių prokuratūros prie apylinkių teismų
+apylinkių prokuratūros
 
 3.1.
 
@@ -1248,33 +1282,27 @@ Vyriausiasis prokuroras
 
 3.2.
 
-Vyriausiojo
-
-prokuroro pavaduotojas
+Vyriausiojo prokuroro pavaduotojas
 
 9,3
 
 3.3.
 
-Skyriaus
-
-vyriausiasis prokuroras
+Skyriaus vyriausiasis prokuroras
 
 8,5
 
 3.4.
 
-Skyriaus
+Skyriaus vyriausiojo prokuroro
 
-vyriausiojo prokuroro pavaduotojas
+pavaduotojas
 
 8,4
 
 3.5.
 
-Prokuroras,
-
-tardytojas
+Prokuroras
 
 8,3
 
@@ -1282,45 +1310,37 @@ tardytojas
 
 Šiaulių ir Panevėžio miestų apylinkių
 
-prokuratūros prie apylinkių teismų
+prokuratūros
 
 4.1.
 
-Vyriausiasis
-
-prokuroras
+Vyriausiasis prokuroras
 
 9,7
 
 4.2.
 
-Vyriausiojo
-
-prokuroro pavaduotojas
+Vyriausiojo prokuroro pavaduotojas
 
 9,2
 
 4.3.
 
-Skyriaus
-
-vyriausiasis prokuroras
+Skyriaus vyriausiasis prokuroras
 
 8,5
 
 4.4.
 
-Skyriaus
+Skyriaus vyriausiojo prokuroro
 
-vyriausiojo prokuroro pavaduotojas
+pavaduotojas
 
 8,4
 
 4.5.
 
-Prokuroras,
-
-tardytojas
+Prokuroras
 
 8,3
 
@@ -1328,31 +1348,35 @@ tardytojas
 
 Kitų rajonų (miestų) apylinkių
 
-prokuratūros prie apylinkių teismų
+prokuratūros
 
 5.1.
 
-Vyriausiasis
-
-prokuroras
+Vyriausiasis prokuroras
 
 9,3
 
 5.2.
 
-Vyriausiojo
-
-prokuroro pavaduotojas
+Vyriausiojo prokuroro pavaduotojas
 
 8,8
 
 5.3.
 
-Prokuroras,
-
-tardytojas
+Prokuroras
 
 8,0
+
+Pastaba.
+
+ONKT – Organizuotų nusikaltimų ir korupcijos tyrimas.
+
+Skirsnio pakeitimai:
+
+Nr. IX-1520,
+
+2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
 
 IV. VALSTYBĖS PAREIGŪNŲ
 
@@ -1526,9 +1550,9 @@ nariai
 
 Pastaba. Komisijų ir
 
-tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
+tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis apskaičiuojamas
 
-apskaičiuojamas proporcingai dirbtam laikui.
+proporcingai dirbtam laikui.
 
 Skirsnio
 
@@ -1596,9 +1620,9 @@ APMOKĖJIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 3.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
 
@@ -1778,6 +1802,30 @@ POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STR
 
 IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1520,
+
+2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
+
+VALSTYBĖS
+
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 3
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 5(1) STRAIPSNIU IR
+
+ĮSTATYMO PRIEDĖLIO III SKIRSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2003 m. gegužės 1 d.
+
 *** Pabaiga ***
 
 Konstitucinio
@@ -1794,11 +1842,11 @@ Respublikos Konstitucinis Teismas, Nutarimas
 
 2001, Nr. 62-2276 (2001-07-18)
 
-DĖL LIETUVOS
+DĖL LIETUVOS RESPUBLIKOS
 
-RESPUBLIKOS VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO
+VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 4
 
-ĮSTATYMO 4 STRAIPSNIO 1 IR 2 DALIŲ, 5 STRAIPSNIO 1 IR 3 DALIŲ,
+STRAIPSNIO 1 IR 2 DALIŲ, 5 STRAIPSNIO 1 IR 3 DALIŲ,
 
 7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO ĮSTATYMO PRIEDĖLIO II
 
@@ -1822,15 +1870,15 @@ LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR LIETUVOS
 
 RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ DARBUOTOJŲ DARBO
 
-APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D.
+APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO
 
-NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO
+NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D.
 
-30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS
+NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ
 
-INSTITUCIJŲ VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO"
+VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO" DALINIO
 
-DALINIO PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 ***
 
@@ -1838,7 +1886,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-04-11)
+Aušrinė Trapinskienė (2003-05-06)
 
 autrap@lrs.lt
 
