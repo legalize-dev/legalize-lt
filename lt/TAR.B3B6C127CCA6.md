@@ -4,7 +4,7 @@ identifier: "TAR.B3B6C127CCA6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-12-17"
-last_updated: "2000-12-21"
+last_updated: "2001-03-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B3B6C127CCA6"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -88,9 +88,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1702, 00.05.23, Žin., 2000,
+Nr. VIII-1702,
 
-Nr.44-1248 (00.05.31)
+00.05.23, Žin., 2000, Nr.44-1248 (00.05.31)
 
 3 straipsnis. Atostogų rūšys
 
@@ -156,13 +156,13 @@ I-1288,
 
 pailgintos atostogos
 
-Pailgintos iki 58 kalendorinių
+Pailgintos iki 58
 
-dienų atostogos suteikiamos tam tikrų kategorijų darbuotojams, kurių darbas
+kalendorinių dienų atostogos suteikiamos tam tikrų kategorijų darbuotojams,
 
-susijęs su didesne nervine, emocine, protine įtampa bei profesine rizika, taip
+kurių darbas susijęs su didesne nervine, emocine, protine įtampa bei profesine
 
-pat kurių specifinės darbo sąlygos.
+rizika, taip pat kurių specifinės darbo sąlygos.
 
 Darbuotojų, turinčių teisę į
 
@@ -390,11 +390,11 @@ Darbo užmokestis už
 
 kasmetines minimalias atostogas mokamas ne vėliau kaip prieš tris kalendorines
 
-dienas iki prasidedant atostogoms. Darbo užmokestis už kasmetines pailgintas
+dienas iki prasidedant atostogoms. Darbo užmokestis už kasmetines pailgintas atostogas
 
-atostogas gali būti mokamas dalimis. Už pirmąją atostogų dalį (30 kalendorinių
+gali būti mokamas dalimis. Už pirmąją atostogų dalį (30 kalendorinių dienų)
 
-dienų) sumokama ne vėliau kaip prieš tris kalendorines dienas iki prasidedant
+sumokama ne vėliau kaip prieš tris kalendorines dienas iki prasidedant
 
 atostogoms, o už likusią atostogų dalį - ne vėliau kaip prieš tris kalendorines
 
@@ -418,9 +418,9 @@ VIII-271,
 
 97.06.17, Žin., 1997, Nr.63-1475 (97.07.02)
 
-16 straipsnis. Piniginė kompensacija
+16 straipsnis. Piniginė
 
-už nepanaudotas kasmetines atostogas
+kompensacija už nepanaudotas kasmetines atostogas
 
 Darbuotojams pakeisti
 
@@ -492,9 +492,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. IX-111, 2000 12 21, Žin., 2000, Nr.
+Nr. IX-111,
 
-111-3575 (2000 12 29), įsigalioja nuo 2001 01 01
+2000 12 21, Žin., 2000, Nr. 111-3575 (2000 12 29), įsigalioja nuo 2001 01 01
 
 19 straipsnis. Atostogos
 
@@ -534,13 +534,13 @@ invalidą iki 16 metų , šalių suderintu laiku kasmet suteikiamos iki 30
 
 kalendorinių dienų trukmės nemokamos atostogos.
 
-Moters nėštumo ir gimdymo
+Moters nėštumo ir gimdymo bei
 
-bei vaiko priežiūros iki jam sueis treji metai atostogų metu tėvui jo
+vaiko priežiūros iki jam sueis treji metai atostogų metu tėvui jo pageidavimu
 
-pageidavimu suteikiamos nemokamos atostogos, kurių bendra trukmė negali viršyti
+suteikiamos nemokamos atostogos, kurių bendra trukmė negali viršyti trijų
 
-trijų mėnesių.
+mėnesių.
 
 Straipsnio
 
@@ -554,15 +554,15 @@ Nr. VIII-365,
 
 įvaikinusiems asmenims
 
-Asmenims, įvaikinusiems naujagimius,
+Asmenims, įvaikinusiems
 
-ir globėjams, paėmusiems kūdikius į globą, suteikiamos atostogos už laiką nuo
+naujagimius, ir globėjams, paėmusiems kūdikius į globą, suteikiamos atostogos
 
-įvaikinimo ar paėmimo į globą dienos iki kūdikiui sueis 70 dienų, mokant už jas
+už laiką nuo įvaikinimo ar paėmimo į globą dienos iki kūdikiui sueis 70 dienų,
 
-taip, kaip numatyta šio įstatymo 18 straipsnyje. Jiems taip pat suteikiamos
+mokant už jas taip, kaip numatyta šio įstatymo 18 straipsnyje. Jiems taip pat
 
-atostogos, numatytos šio įstatymo 19 ir 20 straipsniuose.
+suteikiamos atostogos, numatytos šio įstatymo 19 ir 20 straipsniuose.
 
 22 straipsnis. Atostogos
 
@@ -620,9 +620,21 @@ valstybiniams egzaminams
 
 pasirengti ir laikyti - po šešias dienas kiekvienam egzaminui.
 
+Darbuotojo ir profesinės sąjungos prašymu
+
+darbuotojui suteikiamos nemokamos iki 3 dienų atostogos per metus švietimui ir
+
+mokymuisi.
+
 Į atostogų laiką
 
 neįskaitomas kelionėje sugaištas laikas.
+
+Straipsnio pakeitimai:
+
+Nr. IX-224,
+
+2001 03 22, Žin., 2001, Nr. 28-899 (2001 03 30)
 
 24 straipsnis. Atostogų,
 
@@ -640,11 +652,13 @@ aukštąsias ir aukštesniąsias mokyklas su įmonių siuntimais, už suteikiama
 
 atostogas šios įmonės moka ne mažesnį kaip vidutinį darbo užmokestį.
 
-Darbuotojams, laikantiems stojamuosius
+Darbuotojams, laikantiems
 
-egzaminus ir besimokantiems savo iniciatyva, mokymosi laiko apmokėjimo
+stojamuosius egzaminus ir besimokantiems savo iniciatyva, mokymosi laiko
 
-klausimas sprendžiamas kolektyvinėje sutartyje arba šalims susitarus.
+apmokėjimo klausimas sprendžiamas kolektyvinėje sutartyje arba šalims
+
+susitarus.
 
 25 straipsnis. Nemokamos
 
@@ -680,9 +694,9 @@ IV skirsnis.
 
 BAIGIAMOJI DALIS
 
-26 straipsnis. Teisė
+26 straipsnis. Teisė nustatyti
 
-nustatyti papildomas atostogų garantijas
+papildomas atostogų garantijas
 
 Kolektyvinėse arba darbo
 
@@ -826,9 +840,9 @@ RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 20, 25 IR 26 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1702, 00.05.23, Žin., 2000, Nr.44-1248
+Nr. VIII-1702,
 
-(00.05.31)
+00.05.23, Žin., 2000, Nr.44-1248 (00.05.31)
 
 ATOSTOGŲ ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
@@ -844,9 +858,9 @@ Respublikos teisingumo ministerijos ir jam pavaldžių įstaigų bei valstybės
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-111, 2000 12 21, Žin., 2000, Nr.
+Nr. IX-111, 2000 12
 
-111-3575 (2000 12 29)
+21, Žin., 2000, Nr. 111-3575 (2000 12 29)
 
 ATOSTOGŲ ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
@@ -854,9 +868,21 @@ ATOSTOGŲ ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-224, 2001 03 22, Žin., 2001, Nr.
+
+28-899 (2001 03 30)
+
+ATOSTOGŲ ĮSTATYMO 23 STRAIPSNIO PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2001 01 09)
+Redagavo: Aušrinė Trapinskienė (2001 04 02)
 
 autrap@lrs.lt
 
