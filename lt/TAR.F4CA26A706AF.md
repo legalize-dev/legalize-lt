@@ -4,7 +4,7 @@ identifier: "TAR.F4CA26A706AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-25"
-last_updated: "2002-03-26"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 department: "Lietuvos Respublikos Seimas"
@@ -98,11 +98,11 @@ slaptai“, „Slaptai“ arba „Konfidencialiai“, naudojimu, turėtų atitin
 
 leidimus dirbti ar susipažinti su tokia informacija.
 
-7. Įslaptinta informacija
+7. Įslaptinta informacija saugoma,
 
-saugoma, tvarkoma ir naikinama Lietuvos Respublikos Vyriausybės ar jos
+tvarkoma ir naikinama Lietuvos Respublikos Vyriausybės ar jos įgaliotos
 
-įgaliotos institucijos nustatyta tvarka.
+institucijos nustatyta tvarka.
 
 10 straipsnis. Leidimo dirbti ar
 
@@ -196,9 +196,9 @@ paslapčių
 
 subjektas, suteikimas
 
-1. Susipažinti su
+1. Susipažinti
 
-valstybės paslaptį sudarančia informacija, žymima slaptumo žymomis „Visiškai
+su valstybės paslaptį sudarančia informacija, žymima slaptumo žymomis „Visiškai
 
 slaptai“, „Slaptai“ bei „Konfidencialiai“, turi teisę tik leidimą dirbti ar
 
@@ -212,13 +212,13 @@ teisę susipažinti su įslaptinta informacija, kuria disponuoja kitas paslapči
 
 subjektas, suteikia šia informacija disponuojančio paslapčių subjekto vadovas.
 
-Asmuo privalo pateikti institucijos, kurioje jis dirba, vadovo tikslinį siuntimą.
+Asmuo privalo pateikti institucijos, kurioje jis dirba, vadovo tikslinį
 
-Siuntime turi būti patvirtinta, kad asmuo turi leidimą dirbti ar susipažinti su
+siuntimą. Siuntime turi būti patvirtinta, kad asmuo turi leidimą dirbti ar
 
-atitinkama slaptumo žyma pažymėta įslaptinta informacija, bei nurodyta, kodėl
+susipažinti su atitinkama slaptumo žyma pažymėta įslaptinta informacija, bei
 
-ir su kokia informacija asmeniui reikia susipažinti.
+nurodyta, kodėl ir su kokia informacija asmeniui reikia susipažinti.
 
 3. Jei priimamas
 
@@ -282,9 +282,9 @@ asmens patikimumo pažymėjimus;
 
 3) teikia
 
-Lietuvos Respublikos Vyriausybei pasiūlymus dėl šio įstatymo ir kitų teisės
+Lietuvos Respublikos Vyriausybei pasiūlymus dėl šio įstatymo ir kitų teisės aktų,
 
-aktų, susijusių su įslaptintos informacijos apsauga, keitimo ar pripažinimo
+susijusių su įslaptintos informacijos apsauga, keitimo ar pripažinimo
 
 netekusiais galios, galiojančios įslaptintos informacijos apsaugos sistemos
 
@@ -348,11 +348,11 @@ perduoti kitoms valstybėms ar tarptautinėms organizacijoms, su kuriomis nėra
 
 pasirašyta sutarčių dėl įslaptintos informacijos abipusės apsaugos.
 
-4. Lietuvos Respublikos
+4. Lietuvos Respublikos paslapčių
 
-paslapčių apsaugos koordinavimo komisijos priimti sprendimai paslapčių
+apsaugos koordinavimo komisijos priimti sprendimai paslapčių subjektams yra
 
-subjektams yra privalomi.
+privalomi.
 
 12 straipsnis. Lietuvos Respublikos
 
@@ -546,9 +546,9 @@ tokios informacijos įslaptinimo terminą.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1713, 00.06.06, Žin., 2000, Nr.50-1433
+Nr. VIII-1713, 00.06.06, Žin., 2000,
 
-(00.06.21)
+Nr.50-1433 (00.06.21)
 
 15
 
@@ -1052,11 +1052,11 @@ naudojimu ar jos apsauga, kandidatūrų tikrinimo tvarką bei eigą, taip pat
 
 tikrinimo metu surinkta informacija apie asmenis;
 
-3) asmenų,
+3) asmenų, padariusių ar įtariamų
 
-padariusių ar įtariamų padarius nusikaltimus, paieškos ir sulaikymo, policijos
+padarius nusikalstamas veikas, paieškos ir sulaikymo, policijos kompleksinių
 
-kompleksinių priemonių ir operacijų organizavimas bei detalūs planai;
+priemonių ir operacijų organizavimas bei detalūs planai;
 
 4) valstybės
 
@@ -1194,6 +1194,10 @@ IX-813,
 
 2002-03-26, Žin., 2002, Nr. 38-1360 (2002-04-10)
 
+Nr. IX-1425,
+
+2003-04-03, Žin., 2003, Nr. 38-1670 (2003-04-24)
+
 6 straipsnis.
 
 Įslaptinimo terminai
@@ -1242,25 +1246,23 @@ trumpesniam įslaptinimo terminui, nei numatyta šio straipsnio 1 dalies 1-3
 
 punktuose, įslaptinimo terminas nurodomas šalia slaptumo žymos.
 
-5. Tais
+5. Tais atvejais,
 
-atvejais, kai valstybės saugumo interesams tam tikros informacijos įslaptinimo
+kai valstybės saugumo interesams tam tikros informacijos įslaptinimo terminas
 
-terminas turi būti ilgesnis, nei numatyta šio straipsnio 1 dalies 1-3
+turi būti ilgesnis, nei numatyta šio straipsnio 1 dalies 1-3 punktuose, šį
 
-punktuose, šį klausimą paslapčių subjekto teikimu sprendžia bei įslaptinimo
+klausimą paslapčių subjekto teikimu sprendžia bei įslaptinimo terminą pratęsia
 
-terminą pratęsia Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija.
+Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija. Įslaptinimo
 
-Įslaptinimo terminas gali būti pratęsiamas iki 10 metų. Pratęsimų skaičius
+terminas gali būti pratęsiamas iki 10 metų. Pratęsimų skaičius neribojamas,
 
-neribojamas, tačiau bendras informacijos įslaptinimo terminas negali būti
+tačiau bendras informacijos įslaptinimo terminas negali būti ilgesnis nei 95
 
-ilgesnis nei 95 metai, išskyrus informaciją apie slaptuosius operatyvinės
+metai, išskyrus informaciją apie slaptuosius operatyvinės veiklos dalyvius bei
 
-veiklos dalyvius bei įslaptintus žvalgybos tarnautojus ir žvalgybos
-
-bendradarbius.
+įslaptintus žvalgybos tarnautojus ir žvalgybos bendradarbius.
 
 Straipsnio
 
@@ -1288,17 +1290,19 @@ informacija išslaptinama, kai:
 
 nepasibaigęs.
 
-2. Visa įslaptinta
+2. Visa
 
-informacija, kai nustatytas įslaptinimo terminas dar nepasibaigęs, gali būti
+įslaptinta informacija, kai nustatytas įslaptinimo terminas dar nepasibaigęs,
 
-išslaptinama tik paslapčių subjekto, įslaptinusio tokią informaciją, sprendimu.
+gali būti išslaptinama tik paslapčių subjekto, įslaptinusio tokią informaciją,
+
+sprendimu.
 
 3. Pasibaigus
 
-nustatytam įslaptinimo terminui, informacija išslaptinama ją įslaptinusio arba šia
+nustatytam įslaptinimo terminui, informacija išslaptinama ją įslaptinusio arba
 
-informacija disponuojančio paslapčių subjekto sprendimu.
+šia informacija disponuojančio paslapčių subjekto sprendimu.
 
 9 straipsnis.
 
@@ -1402,9 +1406,9 @@ dalies 5 punkto nustatyta tvarka Lietuvos Respublikos paslapčių apsaugos
 
 koordinavimo komisija priėmė sprendimą neišduoti leidimo dirbti ar susipažinti
 
-su valstybės paslaptį sudarančia informacija. Ši nuostata netaikoma asmenims, tarnavusiems
+su valstybės paslaptį sudarančia informacija. Ši nuostata netaikoma asmenims,
 
-NATO narių karinėse ar gynybos struktūrose;
+tarnavusiems NATO narių karinėse ar gynybos struktūrose;
 
 3) yra kreipęsis
 
@@ -1426,9 +1430,11 @@ informacija. Ši nuostata netaikoma asmenims, tarnavusiems NATO narių karinėse
 
 ar gynybos struktūrose;
 
-5) buvo nuteistas už valstybinį
+5) buvo
 
-nusikaltimą ar už kitą sunkų nusikaltimą;
+nuteistas už nusikaltimą Lietuvos valstybės nepriklausomybei, teritorijos
+
+vientisumui ir konstitucinei santvarkai ar už kitą sunkų ar labai sunkų nusikaltimą;
 
 6) turi teistumą
 
@@ -1462,11 +1468,11 @@ kitų teisės aktų nustatyta tvarka buvo atleistas iš pareigų dėl darbo su
 
 įslaptinta informacija tvarkos pažeidimo;
 
-12) yra asmuo,
+12) yra asmuo, kurio
 
-kurio atžvilgiu atliekamas operatyvinis tyrimas, arba yra patrauktas
+atžvilgiu atliekamas operatyvinis tyrimas, arba yra patrauktas baudžiamojon
 
-baudžiamojon atsakomybėn už tyčinį nusikaltimą;
+atsakomybėn už tyčinę nusikalstamą veiką;
 
 13) yra asmuo,
 
@@ -1526,9 +1532,13 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1907, 00.08.29, Žin., 2000, Nr.75-2274
+Nr. VIII-1907, 00.08.29, Žin., 2000,
 
-(00.09.07)
+Nr.75-2274 (00.09.07)
+
+Nr. IX-1425,
+
+2003-04-03, Žin., 2003, Nr. 38-1670 (2003-04-24)
 
 10
 
@@ -1562,9 +1572,11 @@ pareigas, nesusijusias su valstybės paslaptį sudarančios informacijos
 
 naudojimu;
 
-4) asmuo
+4) asmuo nuteisiamas už
 
-nuteisiamas už valstybinio nusikaltimo ar už tyčinio nusikaltimo padarymą;
+nusikaltimo Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir
+
+konstitucinei santvarkai ar už kitos tyčinės nusikalstamos veikos padarymą;
 
 5) asmuo
 
@@ -1616,6 +1628,12 @@ panaikinimo gali būti skundžiamas Lietuvos Respublikos paslapčių apsaugos
 
 koordinavimo komisijai, kuri priima galutinį sprendimą.
 
+Straipsnio pakeitimai:
+
+Nr. IX-1425,
+
+2003-04-03, Žin., 2003, Nr. 38-1670 (2003-04-24)
+
 13 straipsnis.
 
 Valstybės paslaptį sudarančios informacijos apsaugos kontrolė
@@ -1642,7 +1660,7 @@ sistemos tobulinimo;
 
 3) atlieka
 
-kvotą, iškėlus baudžiamąją bylą dėl valstybės paslaptį sudarančios informacijos
+ikiteisminį tyrimą dėl valstybės paslaptį sudarančios informacijos
 
 praradimo ar atskleidimo;
 
@@ -1665,6 +1683,12 @@ subjektų saugomų dokumentų, kuriuose yra įslaptintos informacijos, apskaitos
 tvarkymo, raštvedybos organizavimo bei kontrolės tvarką nustato Lietuvos
 
 Respublikos Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1425,
+
+2003-04-03, Žin., 2003, Nr. 38-1670 (2003-04-24)
 
 15 straipsnis.
 
@@ -1852,13 +1876,39 @@ VALSTYBĖS
 
 IR TARNYBOS PASLAPČIŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1425,
+
+2003-04-03, Žin., 2003, Nr. 38-1670 (2003-04-24)
+
+VALSTYBĖS
+
+IR TARNYBOS PASLAPČIŲ ĮSTATYMO 5, 9, 10 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja kartu su
+
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y. nuo
+
+2003 m.
+
+gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-04-11)
+Aušrinė Trapinskienė (2003-06-04)
 
 autrap@lrs.lt
 
