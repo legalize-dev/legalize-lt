@@ -4,7 +4,7 @@ identifier: "TAR.D570962773F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-03"
-last_updated: "2001-05-17"
+last_updated: "2001-06-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 department: "Lietuvos Respublikos Seimas"
@@ -35,111 +35,73 @@ Vilnius
 
 straipsnis. Atmintinos dienos
 
-Nustatyti
+Nustatyti šias atmintinas dienas:
 
-šias atmintinas dienas:
+1) sausio 1-oji – Lietuvos vėliavos diena;
 
-1)
+2) sausio 13-oji – Laisvės gynėjų diena;
 
-sausio 1-oji – Lietuvos vėliavos diena;
+3) kovo 4-oji – Lietuvos globėjo šv. Kazimiero
 
-2)
+diena;
 
-sausio 13-oji – Laisvės gynėjų diena;
+4) kovo 20-oji – Žemės diena;
 
-3)
+5) gegužės 7-oji – Spaudos atgavimo, kalbos ir
 
-kovo 4-oji – Lietuvos globėjo šv. Kazimiero diena;
+knygos diena;
 
-4)
+6) gegužės trečiasis sekmadienis – Partizanų
 
-kovo 20-oji – Žemės diena;
+pagerbimo, kariuomenės ir visuomenės vienybės diena;
 
-5)
+7) birželio 1-oji – Tarptautinė vaikų gynimo diena;
 
-gegužės 7-oji – Spaudos atgavimo, kalbos ir knygos diena;
+8) birželio pirmasis sekmadienis – Tėvo diena;
 
-6)
+9) birželio 14-oji – Gedulo ir vilties diena;
 
-gegužės trečiasis sekmadienis – Partizanų pagerbimo, kariuomenės ir visuomenės
+10) birželio 15-oji – Okupacijos ir genocido diena;
 
-vienybės diena;
+11) birželio 23-ioji – Birželio sukilimo diena;
 
-7)
+12) birželio 24-oji – Rasos (Joninių) diena;
 
-birželio 1-oji – Tarptautinė vaikų gynimo diena;
+13) liepos 15-oji – Žalgirio mūšio diena;
 
-8)
+14) liepos paskutinysis sekmadienis – Jūros diena;
 
-birželio pirmasis sekmadienis – Tėvo diena;
+15) rugpjūčio 23-ioji – Juodojo kaspino diena;
 
-9)
+16) rugsėjo 1-oji – Laisvės diena;
 
-birželio 14-oji – Gedulo ir vilties diena;
+17) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos
 
-10)
+gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos
 
-birželio 15-oji – Okupacijos ir genocido diena;
+nepriklausomybės ir laisvės apgynimą diena;
 
-11)
+18) rugsėjo 22-oji – Baltų vienybės diena;
 
-birželio 23-ioji – Birželio sukilimo diena;
+19) rugsėjo 23-ioji – Lietuvos žydų genocido diena;
 
-12)
+20) spalio 5-oji – Tarptautinė mokytojų diena;
 
-birželio 24-oji – Rasos (Joninių) diena;
+21) spalio 25-oji – Konstitucijos diena;
 
-13)
+22) spalio antrasis šeštadienis – Derliaus diena;
 
-liepos 15-oji – Žalgirio mūšio diena;
+23) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių)
 
-14)
+diena;
 
-liepos paskutinysis sekmadienis – Jūros diena;
+24) lapkričio 23-ioji – Lietuvos karių diena;
 
-15)
+25) lapkričio 30-oji – Mažosios Lietuvos
 
-rugpjūčio 23-ioji – Juodojo kaspino diena;
+prisijungimo prie Didžiosios Lietuvos akto diena;
 
-16)
-
-rugsėjo 1-oji – Laisvės diena;
-
-17) rugsėjo 8-oji –
-
-Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir
-
-Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
-
-18)
-
-rugsėjo 22-oji – Baltų vienybės diena;
-
-19)
-
-rugsėjo 23-ioji – Lietuvos žydų genocido diena;
-
-20)
-
-spalio 5-oji – Tarptautinė mokytojų diena;
-
-21)
-
-spalio 25-oji – Konstitucijos diena;
-
-22)
-
-lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena;
-
-23)
-
-lapkričio 23-ioji – Lietuvos karių diena;
-
-24) lapkričio 30-oji –
-
-Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
-
-25) gruodžio 10-oji – Tarptautinė
+26) gruodžio 10-oji – Tarptautinė
 
 žmogaus teisių diena.
 
@@ -162,6 +124,10 @@ Nr.57-1679 (00.07.14)
 Nr. IX-329, 2001 05 17, Žin., 2001, Nr.
 
 43-1499 (2001 05 23)
+
+Nr. IX-379, 2001-06-14, Žin., 2001, Nr.
+
+57-2027 (2001-07-04)
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -219,11 +185,21 @@ Nr. IX-329, 2001 05 17, Žin., 2001, Nr.
 
 ATMINTINŲ DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-379, 2001-06-14, Žin., 2001, Nr.
+
+57-2027 (2001-07-04)
+
+ATMINTINŲ DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2001 05 24)
+Redagavo: Angonita Rupšytė (2001-07-04)
 
-autrap@lrs.lt
+anrups@lrs.lt
 
 1 straipsnis. Atmintinos dienos
 
