@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "1996-01-05"
+last_updated: "1996-02-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1996-01-05 iki 1996-02-06
+Suvestinė redakcija nuo 1996-02-07 iki 1997-03-06
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -45,9 +45,13 @@ Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA
 
 3 straipsnis. Bendrovės pavadinimas
 
-1. Bendrovė turi savo pavadinimą (įmonės vardą). Pavadinime turi būti įrašytas rajono (apskrities) pavadinimas ir žodžiai „žemės ūkio bendrovė“ arba jų santrumpa ŽŪB.
+1. Bendrovė turi savo pavadinimą (įmonės vardą). Pavadinime turi būti įrašytas rajono pavadinimas ir žodžiai „žemės ūkio bendrovė“ arba jų santrumpa ŽŪB.
 
-2. Bendrovės pavadinimas (įmonės vardas) negali būti tapatus su kitos rajone (apskrityje) įregistruotos įmonės pavadinimu. Ginčai dėl bendrovės pavadinimo žinybingi teismui.
+2. Bendrovės pavadinimas (įmonės vardas) negali būti tapatus su kitos rajone įregistruotos įmonės pavadinimu. Ginčai dėl bendrovės pavadinimo žinybingi teismui.
+
+Straipsnio pakeitimai:
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
 4 straipsnis. Bendrovės teisės ir pareigos
 
@@ -185,6 +189,12 @@ Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-
 
 2. Įstatuose gali būti ir kitų taisyklių, neprieštaraujančių Lietuvos Respublikos įstatymams.
 
+3. Įstatų pakeitimai ir papildymai arba įstatų nauja redakcija turi būti registruojami nereikalaujant registracijos mokesčio.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
+
 12 straipsnis. Bendrovės registravimas
 
 1. Ne vėliau kaip per mėnesį nuo steigiamojo susirinkimo sprendimo įsteigti bendrovę priėmimo dienos bendrovės steigėjai (įgaliotiniai) vietos savivaldybei įteikia paraišką įregistruoti bendrovę įmonių rejestre.
@@ -231,7 +241,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
 
-5. Metams pasibaigus ir patvirtinus bendrovės metinę apyskaitą, pagrindinio kapitalo padidėjimas (sumažėjimas) paskirstomas nariams (ir paveldėtojams, iki jiems bus grąžinti pajai) proporcingai pajų vertei. Proporcingai pajų vertei paskirstomas ir turto padidėjimas (sumažėjimas), atsiradęs dėl turto perkainojimo.
+5. Metams pasibaigus ir patvirtinus bendrovės metinę apyskaitą, nariams ir paveldėtojams proporcingai pajų vertei paskirstomas turto vertės padidėjimas (sumažėjimas). Proporcingai pajų vertei paskirstomas ir turto padidėjimas (sumažėjimas), atsiradęs dėl turto perkainojimo.
 
 Straipsnio dalies pakeitimai:
 
@@ -239,9 +249,15 @@ Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-
 
 Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
-6. Pajai ir jų kasmetinis padidėjimas (sumažėjimas) registruojamas pajininkų turto apskaitos dokumentuose. Pajininkas turi teisę bet kada susipažinti su turto apskaitos dokumentais ir gauti jų išrašus.
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
-7. Pajai negali būti pardavinėjami ir perkami per biržos įstaigas ir aukcionuose;
+6. Pajai ir jų kasmetinis padidėjimas (sumažėjimas) registruojami pajininkų turto apskaitos dokumentuose. Pajininkas turi teisę bet kada susipažinti su turto apskaitos dokumentais ir gauti jų išrašus. Bendrovė privalo pajininkui išduoti pajaus apskaitos knygelę, kurioje žymimi visi per metus buvę pajaus pasikeitimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
+
+7. Pajai negali būti pardavinėjami ir perkami per biržos įstaigas ir viešuose aukcionuose. Jeigu pajininkai pageidauja, bendrovė gali pajininkams organizuoti uždarus aukcionus pajams pirkti ir parduoti.
 
 Straipsnio dalies pakeitimai:
 
@@ -249,47 +265,49 @@ Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992
 
 Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
 
-8. Sugrąžinus asmeniui pajų ar jo dalį natūra ar pinigais, jo verte sumažinamas bendrovės pagrindinis kapitalas.
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
+
+8. Neteko galios nuo 1996-02-07.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
 15 straipsnis. Bendrovės pagrindinio kapitalo padidinimas
 
 Bendrovės pagrindinis kapitalas padidinamas:
 
-1) priimant į bendrovę naujus pajininkus;
+1) priimtant į bendrovę naujus pajininkus, jų pajų dydžiu;
 
 2) įskaitant balansinio pelno dalį;
 
 3) iš narių papildomų įnašų į pajų;
 
-4) didėjant pagrindinio kapitalo sudėtinių dalių vertėms;
+4) neatlygintinai gavus turto;
 
 5) perkainojant turtą (jei jis padidėjo).
 
-Papildyta straipsnio punktu:
+Straipsnio pakeitimai:
 
-Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
 16 straipsnis. Bendrovės pagrindinio kapitalo sumažinimas
 
 Bendrovės pagrindinis kapitalas sumažinamas:
 
-1) išmokant, sugrąžinant bendrovės nario pajų ar jo dalį;
+1) neatlygintinai perdavus turtą;
 
 2) atimant iš pagrindinio kapitalo nuostolius, kurių nepadengia rezervinio kapitalo fondas;
 
 3) mažėjant pagrindinio kapitalo sudėtinių dalių vertėms;
 
-4) perkainojant turtą (jei jis sumažėjo;
+4) perkainojant turtą (jei jis sumažėjo);
 
-Papildyta straipsnio punktu:
+5) perduodant turtą už įsiskolinimus valstybės ar  savivaldybių biudžetams.
 
-Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+Straipsnio pakeitimai:
 
-5) perduodant turtą už įsiskolinimus valstybės ar savivaldybių biudžetams.
-
-Papildyta straipsnio punktu:
-
-Nr. I-1161, 1995-12-28, Žin., 1996, Nr. 1-5 (1996-01-05), i. k. 0951010ISTA00I-1161
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
 IV S K I R S N I S
 
@@ -297,9 +315,7 @@ PELNAS IR DIVIDENDAI
 
 17 straipsnis. Bendrovės pelno paskirstymas
 
-1. Bendrovės pelnas turi būti paskirstytas ne vėliau kaip per 2 mėnesius pasibaigus ūkiniams metams.
-
-Bendrovės narių susirinkimo nutarime dėl pelno paskirstymo turi būti nurodyta:
+1. Bendrovės pelnas turi būti paskirstytas ne vėliau kaip per 3 mėnesius pasibaigus ūkiniams metams. Bendrovės narių susirinkimo nutarime dėl pelno paskirstymo turi būti nurodyta:
 
 1) balansinis pelnas;
 
@@ -311,7 +327,13 @@ Bendrovės narių susirinkimo nutarime dėl pelno paskirstymo turi būti nurodyt
 
 5) atskaitymai pagrindiniam kapitalui padidinti;
 
-6) dividendai.
+6) dividendai;
+
+7) rezervas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
 2. Metiniai atskaitymai į rezervinio kapitalo fondą sudaro ne mažiau kaip 2 procentus pelno dalies. Atskaitymai į šį fondą daromi tol, kol rezervinis kapitalas sudarys ne mažiau kaip 10 procentų pagrindinio kapitalo vertės.
 
@@ -343,11 +365,7 @@ BENDROVĖS NARIŲ TEISĖS IR PAREIGOS
 
 1. Nariai turi turtines ir asmenines neturtines teises ir pareigas, numatytas šiame bei kituose Lietuvos Respublikos įstatymuose, bendrovės įstatuose.
 
-2. Bendrovės narys savo pajų ar jo dalį pirkimo-pardavimo, dovanojimo, paveldėjimo ir kitais būdais gali perleisti kitam bendrovės nariui arba bet kuriam kitam fiziniam asmeniui šio įstatymo ir bendrovės įstatuose nustatyta tvarka.
-
-Pajaus ar jo dalies (pinigais) perleidimo kitam bendrovės nariui arba bet kuriam kitam fiziniam asmeniui sutartis leidžiama tvirtinti savivaldybės seniūnijos kaimo vietovėje seniūnui. Mokestis už tokių sutarčių tvirtinimą – 0,5 procento perleidžiamo pajaus vertės.
-
-Įsteigus bendrovę, asmuo, paveldėjęs, pirkęs, dovanojimo ar kitokiu būdu įsigijęs bendrovės nario pajų ar jo dalį, bendrovės nariu tampa tik tada, kai šį asmenį į bendrovę priima bendrovės narių susirinkimas. Jei susirinkimas pajų įsigijusio asmens į bendrovę nepriima, su šiuo asmeniu atsiskaitoma kaip su išstojusiu iš bendrovės nariu šiame įstatyme ir bendrovės įstatuose nustatyta tvarka ir terminais.
+2. Bendrovės narys savo pajų ar jo dalį pirkimo-pardavimo, dovanojimo, paveldėjimo ir kitais būdais gali perleisti bendrovei, kitam bendrovės nariui arba bet kuriam kitam fiziniam asmeniui šio įstatymo ir bendrovės įstatuose nustatyta tvarka. Pajaus ar jo dalies (pinigais) perleidimo kitam bendrovės nariui arba bet kuriam kitam fiziniam asmeniui sutartis leidžiama tvirtinti savivaldybės seniūnijos kaimo vietovėje seniūnui. Mokestis už tokių sutarčių tvirtinimą – 0,5 procento perleidžiamo pajaus vertės. Įsteigus bendrovę, asmuo, paveldėjęs, pirkęs, dovanojimo ar kitokiu būdu įsigijęs bendrovės nario pajų ar jo dalį, bendrovės nariu tampa tik tada, kai šį asmenį į bendrovę priima bendrovės narių susirinkimas. Šiuo būdu įsigijęs pajų asmuo, nepriimtas į bendrovę, į jam priklausantį pajų turi tokias pat teises kaip ir bendrovės narys.
 
 Straipsnio dalies pakeitimai:
 
@@ -359,6 +377,8 @@ Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA
 
 Nr. I-942, 1995-06-13, Žin., 1995, Nr. 53-1297 (1995-06-28), i. k. 0951010ISTA000I-942
 
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
+
 3. Bendrovės narys turi pirmumo teisę dirbti bendrovėje.
 
 4. Bendrovės narių ir samdomų asmenų darbo santykius su bendrove reguliuoja samdos ir kiti darbo įstatymai.
@@ -367,9 +387,11 @@ Nr. I-942, 1995-06-13, Žin., 1995, Nr. 53-1297 (1995-06-28), i. k. 0951010ISTA0
 
 6. Narys turi teisę susipažinti su bendrovės buhalteriniu balansu, pajamų ir išlaidų sąmata ir sutikrinti su pirminiais dokumentais.
 
-7. Kiekvienas bendrovės narys susirinkime priimant sprendimus turi vieną balsą.
+7. Kiekvienas bendrovės narys susirinkime priimant sprendimus turi vieną balsą arba tiek balsų, kiek jis turi minimalių bendrovės nario pajinių įnašų. Konkreti bendrovės narių pasirinkta balsavimo tvarka įrašoma bendrovės įstatuose ir įsigalioja nuo jos priėmimo susirinkime momento. Nutarimai priimami paprasta balsų dauguma, jeigu šiame įstatyme ar bendrovės įstatuose nenumatyta kitokia tvarka. Bendrovės narys neturi teisės balsuoti, jei priimamas nutarimas dėl jo pašalinimo iš bendrovės.
 
-Nutarimai priimami paprasta balsų dauguma, jeigu šiame įstatyme ar bendrovės įstatuose nenumatyta kitokia tvarka. Bendrovės narys neturi teisės balsuoti, jei priimamas nutarimas dėl jo pašalinimo iš bendrovės.
+Straipsnio dalies pakeitimai:
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
 8. Pajininkų ir bendrovės ginčai dėl turtinių ir neturtinių interesų sprendžiami teisme.
 
@@ -383,13 +405,13 @@ Nutarimai priimami paprasta balsų dauguma, jeigu šiame įstatyme ar bendrovės
 
 3) pašalinus iš bendrovės.
 
-2. Narys iš bendrovės išstoja pateikęs rašytinį pareiškimą.
+2. Narys iš bendrovės išstoja pateikęs rašytinį pareiškimą. Išstojusiu jis laikomas nuo sprendimo narių susirinkime priėmimo.
 
-3. Narys visais atvejais turi teisę gauti, o bendrovė privalo išmokėti pinigais ar natūra jam priklausantį pajų. Išstodamas iš bendrovės, narys turi teisę susigrąžinti nekilnojamąjį turtą, įskaitant ir žemę. Nariui, pareiškusiam norą išstoti iš bendrovės ir steigiančiam ūkininko ūkį, jo pageidavimu, pajus (pirmiausia nario materialinis įnašas) Lietuvos Respublikos Vyriausybės nustatyta tvarka grąžinamas natūra. Kitas nario išstojimo iš bendrovės ir atsiskaitymo sąlygas bei terminus nustato bendrovės įstatai.
+Straipsnio dalies pakeitimai:
 
-Išstojantis iš bendrovės narys arba narių grupė turi teisę gauti iš bendrovės turto natūra (pastatų, technikos, gyvulių, apyvartinio ir kito turto proporcingai jų pajaus dydžiui ir šio turto struktūros elementų vertei) arba pinigais.
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
-Su išstojusiu arba pašalintu iš bendrovės nariu atsiskaitoma bendrovės įstatuose nustatyta tvarka, sąlygomis ir terminais.
+3. Buvęs narys visais atvejais turi teisę savo pajų pirkimo-pardavimo, dovanojimo ar kitais būdais perleisti bendrovei, kitiems bendrovės nariams ar kitiems fiziniams asmenims.
 
 Straipsnio dalies pakeitimai:
 
@@ -401,6 +423,8 @@ Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-
 
 Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
+
 4. Kai bendrovės narys susigrąžina ūkininkavimui nuosavybės teise jam priklausančią žemę (daugiau kaip 5 ha), atsisakydamas ją išnuomoti bendrovei, arba šią žemę perleidžia kitiems asmenims, taip pat kai bendrovės narys išsinuomoja žemę (daugiau kaip 5 ha) ir steigia ūkininko ūkį, bendrovės narių susirinkimas gali spręsti klausimą dėl šio bendrovės nario tolesnės narystės bendrovėje.
 
 Papildyta straipsnio dalimi:
@@ -411,13 +435,21 @@ Straipsnio dalies pakeitimai:
 
 Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
-5. Narys, pažeidžiantis šiame įstatyme ir bendrovės įstatuose nustatytas pareigas, susirinkimo nutarimu gali būti iš bendrovės pašalintas. Nutarimas dėl pašalinimo gali būti skundžiamas teismui.
+5. Narys, pažeidžiantis šiame įstatyme ir bendrovės įstatuose nustatytas pareigas, susirinkimo nutarimu gali būti iš bendrovės pašalintas. Narys laikomas pašalintu nuo to momento, kai narių susirinkimas priima nutarimą dėl pašalinimo iš bendrovės. Nutarimas dėl pašalinimo gali būti skundžiamas teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
 
-6. Pašalintam asmeniui turtas grąžinamas ta pačia tvarka ir terminais, kaip ir išstojusiam iš bendrovės.
+6. Neteko galios nuo 1996-02-07.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -467,15 +499,21 @@ Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-
 
 8) spręsti visus kitus su bendrovės veikla susijusius reikalus.
 
-3. Susirinkimus šaukia bendrovės valdyba (administracija) kasmet, ne vėliau kaip per 2 mėnesius pasibaigus ūkiniams metams.
+3. Susirinkimus šaukia bendrovės valdyba (administracija) kasmet, ne vėliau kaip per 3 mėnesius pasibaigus ūkiniams metams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
 4. Neeilinius susirinkimus šaukia bendrovės valdyba (administracija) savo iniciatyva arba kai to pareikalauja revizijos komisija (revizorius), arba 1/4 bendrovės narių rašytiniu pareiškimu. Bendrovės narių susirinkimas privalo būti sušauktas per 10 dienų nuo pareikalavimo pateikimo dienos.
 
-5. Susirinkimas yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė bendrovės narių. Sprendimai priimami paprasta balsų dauguma. 2/3 balsų dauguma sprendimas priimamas dėl bendrovės sujungimo, reorganizavimo ar likvidavimo.
+5. Susirinkimas yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė bendrovės narių. Sprendimai priimami paprasta balsų dauguma. Paprasta balsų dauguma priimamas sprendimas ir dėl bendrovės sujungimo, reorganizavimo ar likvidavimo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
 
 6. Susirinkime balsuojama atviru balsavimu, išskyrus atvejus, kai slapto balsavimo reikalauja 1/4 narių arba bendrovės įstatai.
 
@@ -659,6 +697,12 @@ Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA
 
 10. Likviduotos bendrovės dokumentai perduodami savivaldybei saugoti dešimtį metų. Buvę bendrovės nariai ir jų įpėdiniai turi teisę susipažinti su saugomais dokumentais ir gauti jų nuorašus.
 
+11. Bendrovės likvidavimo procedūros trukmė – ne ilgiau kaip 6 mėnesiai nuo antrojo viešo skelbimo spaudoje apie bendrovės likvidavimą, neskaitant laiko, per kurį nagrinėjami turtiniai ginčai teisme.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
+
 33 straipsnis. Likvidatorių materialinis skatinimas ir atsakomybė
 
 1. Likvidatoriaus darbas apmokamas iš lėšų, gautų už parduotą bendrovės turtą. Valstybės valdymo organams priėmus sprendimą likviduoti bendrovę, turto dalį, skiriamą likvidatorių darbo apmokėjimui, nustato Lietuvos Respublikos Vyriausybė pagal bendrovės kapitalo dydį.
@@ -744,4 +788,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1161, 1995-12-28, Žin., 1996, Nr. 1-5 (1996-01-05), i. k. 0951010ISTA00I-1161
 
 Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo 16 straipsnio laikino papildymo
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 3, 11, 14, 15, 16, 17, 19, 20, 22, 32 straipsnių pakeitimo ir papildymo įstatymas
 
