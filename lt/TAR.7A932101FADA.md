@@ -4,7 +4,7 @@ identifier: "TAR.7A932101FADA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2003-02-24"
+last_updated: "2003-05-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
+
+Suvestinė redakcija nuo 2003-05-30 iki 2004-08-06
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
 
 LIETUVOS RESPUBLIKOS
 
@@ -30,7 +34,17 @@ Vilnius
 
 1. Šio Įstatymo tikslas – užtikrinti, kad Lietuvos nacionalinis turtas – žemės ūkio paskirties žemė būtų naudojama racionaliai, būtų skatinama žemės rinka ir konkurencingas žemės ūkis, sudarytos sąlygos žemės konsolidacijai.
 
-2. Įstatyme nustatyti reikalavimai taikomi įsigyjant valstybės, savivaldybių ir privačią žemės ūkio paskirties žemę pirkimo, mainų ir kitais būdais, kurie neprieštarauja šio Įstatymo nustatytoms sąlygoms, išskyrus paveldėjimą ir nuosavybės teisių atkūrimą.
+2. Įstatyme nustatyti reikalavimai taikomi įsigyjant valstybės, savivaldybių ir privačią žemės ūkio paskirties žemę pirkimo ir kitais šio Įstatymo nustatytoms sąlygoms neprieštaraujančiais būdais, išskyrus paveldėjimą, dovanojimą artimiesiems giminaičiams, nurodytiems Civilinio kodekso 3.135 straipsnyje, mainus, nuosavybės teisių atkūrimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1570, 2003-05-20, Žin., 2003, Nr. 52-2315 (2003-05-30), i. k. 1031010ISTA0IX-1570
+
+3. Šis Įstatymas netaikomas įsigyjant sodininkų bendrijų sodų žemės sklypus.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-1570, 2003-05-20, Žin., 2003, Nr. 52-2315 (2003-05-30), i. k. 1031010ISTA0IX-1570
 
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
@@ -130,11 +144,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
 
-41 straipsnis. Maksimalus žemės ūkio paskirties žemės plotas, kurio įsigijimui taikoma valstybės parama
+Pakeitimai:
 
-Valstybės parama taikoma įsigyjant ne daugiau kaip 300 ha žemės ūkio paskirties žemės.
+1.
 
-Papildyta straipsniu:
+Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. X-762, 2006-07-13, Žin., 2006, Nr. 82-3259 (2006-07-27), i. k. 1061010ISTA000X-762
+Nr. IX-1570, 2003-05-20, Žin., 2003, Nr. 52-2315 (2003-05-30), i. k. 1031010ISTA0IX-1570
+
+Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 1 straipsnio pakeitimo ir papildymo įstatymas
 
