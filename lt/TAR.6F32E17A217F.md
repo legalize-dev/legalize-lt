@@ -4,7 +4,7 @@ identifier: "TAR.6F32E17A217F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-28"
-last_updated: "1997-04-29"
+last_updated: "1997-10-14"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6F32E17A217F"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,11 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Butų privatizavimo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.05.06)
+Ramunė Lūžaitė (1997.10.24)
 
 Įstatymas
 
@@ -35,11 +35,11 @@ Pakeitimai:
 
 Lietuvos
 
-Respublikos Seimas, Įstatymas
+Respublikos Aukščiausioji Taryba-Atkūriamasis Seimas, Įstatymas
 
 Nr.
 
-1-1615, 91.07.25, Žin., 1991, Nr. 22-576
+I-1615, 91.07.25, Žin., 1991, Nr. 22-576
 
 DĖL
 
@@ -49,11 +49,11 @@ LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO 6 IR 9 STRAIPSNIŲ PAPILDYMO
 
 Lietuvos
 
-Respublikos Seimas, Įstatymas
+Respublikos Aukščiausioji Taryba-Atkūriamasis Seimas, Įstatymas
 
 Nr.
 
-1-2128, 91.12.20, Žin., 1992, Nr. 3-36
+I-2128, 91.12.20, Žin., 1992, Nr. 3-36
 
 DĖL
 
@@ -69,7 +69,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-2934, 92.10.06, Žin., 1992, Nr. 30-920
+I-2934, 92.10.06, Žin., 1992, Nr. 30-920
 
 DĖL
 
@@ -85,7 +85,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-116, 93.04.01, Žin., 1993, Nr. 12-293
+I-116, 93.04.01, Žin., 1993, Nr. 12-293
 
 DĖL
 
@@ -99,7 +99,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
+I-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
 
 DĖL
 
@@ -113,7 +113,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-329, 93.12.09, Žin., 1993, Nr. 70-1308 (93.12.18)
+I-329, 93.12.09, Žin., 1993, Nr. 70-1308 (93.12.18)
 
 DĖL
 
@@ -127,7 +127,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-390, 94.02.15, Žin., 1994, Nr. 14-231 (94.02.23)
+I-390, 94.02.15, Žin., 1994, Nr. 14-231 (94.02.23)
 
 DĖL
 
@@ -141,7 +141,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-470, 94.05.19, Žin., 1994, Nr. 40-717 (94.05.27)
+I-470, 94.05.19, Žin., 1994, Nr. 40-717 (94.05.27)
 
 DĖL
 
@@ -155,7 +155,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-616, 94.10.25, Žin., 1994, Nr. 85-1606 (94.11.04)
+I-616, 94.10.25, Žin., 1994, Nr. 85-1606 (94.11.04)
 
 DĖL
 
@@ -169,7 +169,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
+I-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
 
 DĖL
 
@@ -183,7 +183,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1239, 96.03.19, Žin., 1996, Nr. 30-733 (96.04.03)
+I-1239, 96.03.19, Žin., 1996, Nr. 30-733 (96.04.03)
 
 LIETUVOS
 
@@ -199,7 +199,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1465, 96.07.10, Žin., 1996, Nr. 68-1643 (96.07.19)
+I-1465, 96.07.10, Žin., 1996, Nr. 68-1643 (96.07.19)
 
 LIETUVOS
 
@@ -220,6 +220,20 @@ LIETUVOS
 RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO 1 IR 3 STRAIPSNIŲ PAKEITIMO IR
 
 PAPILDYMO ĮSTATYMAS
+
+14.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-452,
+
+97.10.14, Žin., 1997, Nr.96-2430 (97.10.24)
+
+LIETUVOS RESPUBLIKOS
+
+BUTŲ PRIVATIZAVIMO ĮSTATYMO 3 STRAIPSNIO PAPILDYMO
 
 ***
 
@@ -255,9 +269,9 @@ privatizuojančių gyvenamąsias patalpas bendrabučiuose, pareiškimų padavimo
 
 terminus nustato Lietuvos Respublikos Vyriausybė. Pareiškimai, paduoti po 1994
 
-m. kovo 31 d. iki šio įstatymo įsigaliojimo, laikomi paduotais nepažeidus
+m. kovo 31 d. iki šio įstatymo įsigaliojimo, laikomi paduotais nepažeidus nustatyto
 
-nustatyto termino. Pareiškimai, paduoti po 1994 m. liepos 1 d. iki šio įstatymo
+termino. Pareiškimai, paduoti po 1994 m. liepos 1 d. iki šio įstatymo
 
 įsigaliojimo, laikomi paduotais nepažeidus nustatyto
 
@@ -269,39 +283,39 @@ pakeitimai:
 
 Nr.
 
-1-2128, 91.12.20, Žin., 1992, Nr. 3-36
+I-2128, 91.12.20, Žin., 1992, Nr. 3-36
 
 Nr.
 
-1-2934, 92.10.06, Žin., 1992, Nr. 30-920
+I-2934, 92.10.06, Žin., 1992, Nr. 30-920
 
 Nr.
 
-1-116, 93.04.01, Žin., 1993, Nr. 12-293
+I-116, 93.04.01, Žin., 1993, Nr. 12-293
 
 Nr.
 
-1-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
+I-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
 
 Nr.
 
-1-329, 93.12.09, Žin., 1993, Nr. 70-1308 (93.12.18)
+I-329, 93.12.09, Žin., 1993, Nr. 70-1308 (93.12.18)
 
 Nr.
 
-1-470, 94.05.19, Žin., 1994, Nr. 40-717 (94.05.27)
+I-470, 94.05.19, Žin., 1994, Nr. 40-717 (94.05.27)
 
 Nr.
 
-1-616, 94.10.25, Žin., 1994, Nr. 85-1606 (94.11.04)
+I-616, 94.10.25, Žin., 1994, Nr. 85-1606 (94.11.04)
 
 Nr.
 
-1-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
+I-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
 
 Nr.
 
-1-1465, 96.07.10, Žin., 1996, Nr. 68-1643 (96.07.19)
+I-1465, 96.07.10, Žin., 1996, Nr. 68-1643 (96.07.19)
 
 Nr.
 
@@ -399,27 +413,27 @@ pakeitimai:
 
 Nr.
 
-1-2128, 91.12.20, Žin., 1992, Nr. 3-36
+I-2128, 91.12.20, Žin., 1992, Nr. 3-36
 
 Nr.
 
-1-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
+I-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
 
 Nr.
 
-1-329, 93.12.09, Žin., 1993, Nr. 70-1308 (93.12.18)
+I-329, 93.12.09, Žin., 1993, Nr. 70-1308 (93.12.18)
 
 Nr.
 
-1-390, 94.02.15, Žin., 1994, Nr. 14-231 (94.02.23)
+I-390, 94.02.15, Žin., 1994, Nr. 14-231 (94.02.23)
 
 Nr.
 
-1-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
+I-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
 
 Nr.
 
-1-1239, 96.03.19, Žin., 1996, Nr. 30-733 (96.04.03)
+I-1239, 96.03.19, Žin., 1996, Nr. 30-733 (96.04.03)
 
 3
 
@@ -459,9 +473,9 @@ kooperatyvą, jeigu šiems asmenims gyvenamojo namo ar buto statybai suteiktas
 
 lengvatinis kreditas arba jeigu sklypas individualiam gyvenamajam namui statyti
 
-jiems suteiktas kvartaluose, kuriuose valstybės lėšomis yra nutiesti
+jiems suteiktas kvartaluose, kuriuose valstybės lėšomis yra nutiesti magistraliniai
 
-magistraliniai inžineriniai tinklai;
+inžineriniai tinklai;
 
 5)
 
@@ -469,17 +483,23 @@ gyvenamieji namai, butai, kurie iš Lietuvos piliečių, turinčių teisę į
 
 nuosavybės atstatymą pagal Lietuvos Respublikos įstatymo  "Dėl  piliečių
 
-nuosavybės  teisių  į  išlikusį nekilnojamąjį turtą  atstatymo tvarkos  ir
+nuosavybės  teisių  į  išlikusį nekilnojamąjį turtą  atstatymo tvarkos  ir sąlygų"
 
-sąlygų"  antrąjį straipsnį, administraciniais aktais  ar kitais būdais
+antrąjį straipsnį, administraciniais aktais  ar kitais būdais  buvo paimti,
 
-buvo paimti, konfiskuoti arba nacionalizuoti, išskyrus šio įstatymo 2
+konfiskuoti arba nacionalizuoti, išskyrus šio įstatymo 2 straipsnio trečiojoje
 
-straipsnio trečiojoje dalyje nurodytus atvejus;
+dalyje nurodytus atvejus;
 
 6) gyvenamieji namai, butai, išnuomoti pagal Lietuvos Respublikos gyventojų
 
-apsirūpinimo gyvenamosiomis patalpomis įstatymą.
+apsirūpinimo gyvenamosiomis patalpomis įstatymą, išskyrus gyvenamuosius namus,
+
+butus, kurie pradėti eksploatuoti iki 1993 m. sausio 1 d. ir kurių nuomininkai
+
+ar jų šeimos nariai iki 1997 m. gegužės 7 d. nustatyta tvarka pareiškė norą
+
+juos privatizuoti.
 
 Miestų
 
@@ -497,31 +517,35 @@ pakeitimai:
 
 Nr.
 
-1-2128, 91.12.20, Žin., 1992, Nr. 3-36
+I-2128, 91.12.20, Žin., 1992, Nr. 3-36
 
 Nr.
 
-1-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
+I-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
 
 Nr.
 
-1-329, 93.12.09, Žin., 1993, Nr. 70-1308 (93.12.18)
+I-329, 93.12.09, Žin., 1993, Nr. 70-1308 (93.12.18)
 
 Nr.
 
-1-390, 94.02.15, Žin., 1994, Nr. 14-231 (94.02.23)
+I-390, 94.02.15, Žin., 1994, Nr. 14-231 (94.02.23)
 
 Nr.
 
-1-470, 94.05.19, Žin., 1994, Nr. 40-717 (94.05.27)
+I-470, 94.05.19, Žin., 1994, Nr. 40-717 (94.05.27)
 
 Nr.
 
-1-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
+I-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
 
 Nr.
 
 VIII-205, 97.04.29, Žin., 1997, Nr.39-954 (97.05.07)
+
+Nr. VIII-452,
+
+97.10.14, Žin., 1997, Nr.96-2430 (97.10.24)
 
 4
 
@@ -567,7 +591,7 @@ pakeitimai:
 
 Nr.
 
-1-2128, 91.12.20, Žin., 1992, Nr. 3-36
+I-2128, 91.12.20, Žin., 1992, Nr. 3-36
 
 5
 
@@ -577,13 +601,13 @@ Gyvenamojo
 
 namo, buto nuomininkas, jo šeimos nariai, taip pat ir laikinai išvykusieji,
 
-susitaria dėl gyvenamojo namo, buto pirkimo, kieno vardu bus sudaroma pirkimo-pardavimo
+susitaria dėl gyvenamojo namo, buto pirkimo, kieno vardu bus sudaroma
 
-sutartis ir kas taps perkamo namo, buto savininku (bendrasavininkiais). Toks
+pirkimo-pardavimo sutartis ir kas taps perkamo namo, buto savininku
 
-susitarimas turi būti patvirtintas notariškai. Nesutarus pirkti gyvenamojo
+(bendrasavininkiais). Toks susitarimas turi būti patvirtintas notariškai.
 
-namo, buto, pirkimo-pardavimo sutartis nesudaroma.
+Nesutarus pirkti gyvenamojo namo, buto, pirkimo-pardavimo sutartis nesudaroma.
 
 Pareiškimus
 
@@ -599,11 +623,11 @@ pakeitimai:
 
 Nr.
 
-1-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
+I-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
 
 Nr.
 
-1-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
+I-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
 
 6
 
@@ -717,15 +741,15 @@ pakeitimai:
 
 Nr.
 
-1-1615, 91.07.25, Žin., 1991, Nr. 22-576
+I-1615, 91.07.25, Žin., 1991, Nr. 22-576
 
 Nr.
 
-1-2128, 91.12.20, Žin., 1992, Nr. 3-36
+I-2128, 91.12.20, Žin., 1992, Nr. 3-36
 
 Nr.
 
-1-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
+I-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
 
 7
 
@@ -781,11 +805,11 @@ pakeitimai:
 
 Nr.
 
-1-2128, 91.12.20, Žin., 1992, Nr. 3-36
+I-2128, 91.12.20, Žin., 1992, Nr. 3-36
 
 Nr.
 
-1-2934, 92.10.06, Žin., 1992, Nr. 30-920
+I-2934, 92.10.06, Žin., 1992, Nr. 30-920
 
 8
 
@@ -855,11 +879,11 @@ pakeitimai:
 
 Nr.
 
-1-1615, 91.07.25, Žin., 1991, Nr. 22-576
+I-1615, 91.07.25, Žin., 1991, Nr. 22-576
 
 Nr.
 
-1-2128, 91.12.20, Žin., 1992, Nr. 3-36
+I-2128, 91.12.20, Žin., 1992, Nr. 3-36
 
 10
 
@@ -877,7 +901,7 @@ Gyvenamojo
 
 namo, buto pirkimo-pardavimo sutartis turi būti notariškai patvirtinta. Kai
 
-nesudaroma atskira sutartis  su Kultūros  paveldo  inspekcija,  perkant
+nesudaroma atskira sutartis  su Kultūros  paveldo  inspekcija,  perkant
 
 turintį  istorinę, kultūrinę, architektūrinę reikšmę  gyvenamąjį namą ar  butą
 
@@ -889,7 +913,7 @@ pakeitimai:
 
 Nr.
 
-1-2128, 91.12.20, Žin., 1992, Nr. 3-36
+I-2128, 91.12.20, Žin., 1992, Nr. 3-36
 
 11
 
@@ -929,7 +953,7 @@ pakeitimai:
 
 Nr.
 
-1-616, 94.10.25, Žin., 1994, Nr. 85-1606 (94.11.04)
+I-616, 94.10.25, Žin., 1994, Nr. 85-1606 (94.11.04)
 
 14
 
@@ -943,11 +967,13 @@ gautos už parduotus valstybinio ir visuomeninio butų fondo gyvenamuosius namus
 
 butus, nukreipiamos į specialius fondus, skirtus gyvenamųjų namų statybai,
 
-rekonstravimui ar kapitaliniam remontui, finansinei paramai (kreditams) gyvenamųjų
+rekonstravimui ar kapitaliniam remontui, finansinei paramai (kreditams)
 
-namų statytojams  teikti bei  kompensacijoms už  valstybės išpirktus ar
+gyvenamųjų namų statytojams  teikti bei  kompensacijoms už  valstybės išpirktus
 
-buvusiems savininkams negrąžintus gyvenamuosius namus (arba jų dalis) išmokėti.
+ar buvusiems savininkams negrąžintus gyvenamuosius namus (arba jų dalis)
+
+išmokėti.
 
 Straipsnio
 
@@ -955,11 +981,15 @@ pakeitimai:
 
 Nr.
 
-1-470, 94.05.19, Žin., 1994, Nr. 40-717 (94.05.27)
+I-470, 94.05.19, Žin., 1994, Nr. 40-717 (94.05.27)
 
 LIETUVOS
 
-RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS               V. LANDSBERGIS
+RESPUBLIKOS
+
+AUKŠČIAUSIOSIOS
+
+TARYBOS PIRMININKAS                         V. LANDSBERGIS
 
 Vilnius,
 
