@@ -4,7 +4,7 @@ identifier: "TAR.0EC89509170B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2000-07-12"
+last_updated: "2000-12-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2000-07-12 iki 2000-12-27
+Suvestinė redakcija nuo 2000-12-28 iki 2001-10-25
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
 
@@ -455,11 +455,23 @@ BENDRIJOS IR JOS NARIŲ TEISĖS IR PAREIGOS
 
 4. Bendrijos nario teises ir pareigas patalpų savininkai įgyja nuo bendrijos ir jos įstatų įregistravimo dienos arba nuo nuosavybės teisės į patalpas bendrijos name atsiradimo dienos.
 
+Straipsnio dalies pakeitimai:
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo (1995 m. vasario 21 d. redakcija) 16 straipsnio 1 dalies nuostatos, kad bendrijos nariai yra namų patalpų savininkai ir kad bendrijos nario teises ir pareigas namo patalpų savininkai įgyja nuo bendrijos įstatų įregistravimo dienos arba nuo nuosavybės teisės į patalpas bendrijos name atsiradimo dienos, taip pat 17 straipsnio 2 dalis ir šio įstatymo (2000 m. birželio 20 d. redakcija) 27 straipsnio 4 dalis ta apimtimi, kuria jose narystės daugiabučių namų savininkų bendrijoje atsiradimas nesiejamas su savininko laisva valia, prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 1 ir 2 dalims.
+
+2000-12-21, Žin., 2000, Nr. 110-3536 (2000-12-28), i. k. 1001000NUTARG003446
+
 5. Patalpų bendrasavininkiams atstovauja vienas asmuo jų tarpusavio susitarimu.
 
 6. Bendrijos nariai registruojami registravimo knygoje. Joje nurodomas patalpos savininko vardas ir pavardė, gyvenamoji vieta (juridinių asmenų – pavadinimas ir adresas), nuosavybės teisės į patalpas įgijimo pagrindas ir data bei patalpų plotas.
 
 7. Narystė bendrijoje pasibaigia nariui mirus, nariui netekus nuosavybės teisės į visas bendrijos name turėtas patalpas bei likvidavus bendriją.
+
+Straipsnio dalies pakeitimai:
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo (1995 m. vasario 21 d. redakcija) 17 straipsnio 1 dalis ir šio įstatymo (2000 m. birželio 20 d. redakcija) 27 straipsnio 7 dalis ta apimtimi, kuria jose paneigiama savininko teisė laisva valia išstoti iš daugiabučių namų savininkų bendrijos, prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 1 ir 2 dalims.
+
+2000-12-21, Žin., 2000, Nr. 110-3536 (2000-12-28), i. k. 1001000NUTARG003446
 
 8. Fizinis ar juridinis asmuo, pirkęs, paveldėjęs ar kitaip įsigijęs patalpas bendrijos valdomame name, per 10 darbo dienų nuo nuosavybės teisės įgijimo apie tai raštu praneša bendrijos valdybai (bendrijos pirmininkui).
 
@@ -584,4 +596,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1741, 2000-06-20, Žin., 2000, Nr. 56-1639 (2000-07-12), i. k. 1001010ISTAIII-1741
 
 Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2000-12-21, Žin., 2000, Nr. 110-3536 (2000-12-28), i. k. 1001000NUTARG003446
+
+Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo (1995 m. vasario 21 d. redakcija) 16 straipsnio 1 dalies, 17 straipsnio 1 ir 2 dalių, 19 straipsnio ir šio įstatymo (2000 m. birželio 20 d. redakcija) 27 straipsnio 4 ir 7 dalių, taip pat Lietuvos Respublikos Vyriausybės 1995 m. birželio 15 d. nutarimu Nr. 852 "Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo įgyvendinimo tvarkos" patvirtintų Tipinių daugiabučių namų savininkų bendrijų įstatų 8 punkto 1, 3 ir 4 pastraipų, 10 punkto 1 pastraipos atitikties Lietuvos Respublikos Konstitucijai
 
