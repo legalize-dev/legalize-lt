@@ -4,7 +4,7 @@ identifier: "TAR.5A04D7CC7EF6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-06"
-last_updated: "1995-06-21"
+last_updated: "2000-05-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1995-06-06"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos bibliotekų įstatymas
+
+Suvestinė redakcija nuo 2000-05-26 iki 2004-08-02
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
 
 LIETUVOS RESPUBLIKOS
 
@@ -199,9 +203,17 @@ Visos bibliotekos registruojamos Kultūros įstaigų registro nuostatų, patvirt
 
 Bibliotekos turtą gali sudaryti pastatai, patalpos, kitos pagrindinės priemonės, spaudinių ir kitų dokumentų fondas, finansiniai ištekliai ir kitas su bibliotekos veikla susijęs turtas. Valstybinės bibliotekos joms priskirtą valstybės turtą valdo, juo naudojasi neatlygintinai ir privalo jį tausoti bei saugoti.
 
-Apskričių bibliotekų nuomojami ar kitaip naudojami pastatai ir patalpos yra šių bibliotekų balansuose.
+Valstybinių bibliotekų, jų skyrių ir filialų patalpos yra valdomos ir naudojamos patikėjimo teise
 
-Pastatai ir patalpos, kuriose yra valstybinės bibliotekos, bei šių bibliotekų turtas neprivatizuojami.
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1681, 2000-05-16, Žin., 2000, Nr. 43-1223 (2000-05-26), i. k. 1001010ISTAIII-1681
+
+Pastatai ir patalpos, kuriose yra valstybinės bibliotekos, bei šių bibliotekų turtas neprivatizuojami, neparduodami, neperduodami, taip pat neįkeičiami.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1681, 2000-05-16, Žin., 2000, Nr. 43-1223 (2000-05-26), i. k. 1001010ISTAIII-1681
 
 Bibliotekos steigėjas privalo rūpintis, kad biblioteka turėtų reikiamų lėšų, bibliotekininkystės specialistų, veiklai tinkamas patalpas ir bibliotekų įrangą.
 
@@ -381,51 +393,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-61 straipsnis. Bibliotekų, kurių savininkė yra valstybė ar savivaldybė, vadovų skyrimas
+Pakeitimai:
 
-1. Bibliotekų, kurių savininkė yra valstybė ar savivaldybė, vadovai į darbą priimami konkurso būdu.
+1.
 
-2. Lietuvos nacionalinės, apskričių viešųjų ir valstybinės reikšmės bibliotekų (išskyrus Vilniaus universiteto biblioteką) vadovai į pareigas skiriami penkerių metų kadencijai konkurso būdu. Kadencijų skaičius neribojamas.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Kvalifikacinius reikalavimus šio straipsnio 1 ir 2 dalyse nurodytų bibliotekų vadovams ir konkurso šioms pareigoms eiti tvarką nustato Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) įgaliota valstybės valdymo institucija.
+Nr. VIII-1681, 2000-05-16, Žin., 2000, Nr. 43-1223 (2000-05-26), i. k. 1001010ISTAIII-1681
 
-Papildyta straipsniu:
-
-Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
-
-TREČIASIS SKIRSNIS
-
-BIBLIOTEKŲ SISTEMA
-
-81 straipsnis. Lietuvos audiosensorinė biblioteka
-
-1. Lietuvos audiosensorinė biblioteka yra biudžetinė įstaiga. Jos savininkė yra valstybė, jos savininko teises ir pareigas įgyvendina Kultūros ministerija.
-
-2. Lietuvos audiosensorinė biblioteka atlieka šias funkcijas:
-
-1) aptarnauja asmenis, negalinčius skaityti įprasto spausdinto teksto;
-
-2) kaupia ir saugo tradicinių tiflotyrinių, prieinamumo bei įtraukties tematikos, skaitmeninių dokumentų ir dokumentų prieinamais formatais fondą;
-
-3) vykdo informacijos išteklių prieinamais formatais leidybinę veiklą ir pritaiko bei adaptuoja išleistus ar viešai paskelbtus leidinius;
-
-4) vykdo tarptautinį keitimąsi kūrinių ar kitų objektų prieinamos formos kopijomis;
-
-5) kuria ir diegia Elektroninių leidinių valdymo informacinę sistemą (ELVIS);
-
-6) teikia metodinę pagalbą leidėjams, rinkos priežiūros institucijoms, rengia gaires, rekomendacijas ir kitus dokumentus, padedančius įgyvendinti įtraukios leidybos principus, užtikrinant skaitmeninių leidinių prieinamumo reikalavimus;
-
-7) atlieka aklųjų (Brailio) rašto naudojimo leidyboje stebėseną ir kontrolę;
-
-8) vykdo skaitmeninio ir medijų raštingumo ugdymo, kultūrinės edukacijos ir kitas neformalaus švietimo veiklas;
-
-9) atlieka asmenų, negalinčių skaityti įprasto spausdinto teksto, aptarnavimo metodinio centro funkcijas;
-
-10) atlieka kitas teisės aktuose ir savo nuostatuose nustatytas funkcijas.
-
-3. Lietuvos audiosensorinė biblioteka gali atlikti mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą.
-
-Papildyta straipsniu:
-
-Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
+Lietuvos Respublikos bibliotekų įstatymo 16 straipsnio pakeitimo ir papildymo įstatymas
 
