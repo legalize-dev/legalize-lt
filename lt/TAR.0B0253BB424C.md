@@ -4,7 +4,7 @@ identifier: "TAR.0B0253BB424C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-01-31"
-last_updated: "1995-02-18"
+last_updated: "2002-07-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0B0253BB424C"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1995-01-31"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinės kalbos įstatymas
+
+Suvestinė redakcija nuo 2002-07-03 iki 2025-12-31
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 15-344, i. k. 0951010ISTA000I-779
 
 LIETUVOS RESPUBLIKOS
 
@@ -117,7 +121,11 @@ Asmenvardžiai keičiami bei koreguojami įstatymų nustatyta tvarka.
 
 16 straipsnis.
 
-Visų Lietuvos Respublikoje veikiančių įmonių, įstaigų ir organizacijų pavadinimai daromi laikantis lietuvių kalbos normų ir Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo patvirtintų taisyklių.
+Visų Lietuvos Respublikoje veikiančių įmonių, įstaigų ir organizacijų pavadinimai daromi laikantis lietuvių kalbos normų ir Valstybinės lietuvių kalbos komisijos nutarimų.
+
+Straipsnio pakeitimai:
+
+Nr. IX-954, 2002-06-13, Žin., 2002, Nr. 68-2760 (2002-07-03), i. k. 1021010ISTA00IX-954
 
 VIII. ŽENKLAI IR INFORMACIJA
 
@@ -167,7 +175,11 @@ Asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
 
 25 straipsnis.
 
-Šio įstatymo vykdymą kontroliuoja Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo Kalbos inspekcija.
+Šio įstatymo vykdymą kontroliuoja Valstybinė kalbos inspekcija.
+
+Straipsnio pakeitimai:
+
+Nr. IX-954, 2002-06-13, Žin., 2002, Nr. 68-2760 (2002-07-03), i. k. 1021010ISTA00IX-954
 
 26 straipsnis.
 
@@ -185,13 +197,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
-71 straipsnis.
+Pakeitimai:
 
-Lietuvos Respublikoje parduodantys prekes ir (ar) paslaugas teikiantys juridiniai ir fiziniai asmenys, kitos organizacijos ir jų padaliniai, išskyrus Lietuvos Respublikoje laikinai prekes parduodančius fizinius asmenis ir fizinius asmenis, kurie prekių pardavimo veikla nesiverčia nuolat, užtikrina tiesioginį gyventojų aptarnavimą valstybine kalba Vyriausybės nustatytu lietuvių kalbos mokėjimo lygiu. Išimtys gali būti taikomos Lietuvos Respublikos mokslo ir studijų įstatyme numatytais atvejais, kai reikalavimas mokėti valstybinę kalbą laikomas nepagrįstu teisės dirbti ribojimu.
+1.
 
-Papildyta straipsniu:
+Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XIV-3007, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17771
+Nr. IX-954, 2002-06-13, Žin., 2002, Nr. 68-2760 (2002-07-03), i. k. 1021010ISTA00IX-954
 
-III. TEISMAI
+Lietuvos Respublikos valstybinės kalbos įstatymo 16 ir 25 straipsnių pakeitimo įstatymas
 
