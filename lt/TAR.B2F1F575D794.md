@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "2003-05-01"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -53,23 +53,67 @@ mokestis imamas remiantis Lietuvos Respublikos sutartimis su kitomis
 
 valstybėmis, šiuo įstatymu, Lietuvos Respublikos notariato įstatymu.
 
-2
+1 straipsnis.
 
-straipsnis. Mokesčio mokėtojai
+Įstatymo  paskirtis
 
-Konsulinį
+Šis įstatymas
 
-mokestį moka užsienio ir Lietuvos Respublikos juridiniai asmenys, užsienio
+reglamentuoja konsulinio  mokesčio  ėmimą  už
 
-valstybių piliečiai ir Lietuvos Respublikos piliečiai, asmenys be pilietybės už
+Lietuvos
 
-Lietuvos Respublikos Užsienio reikalų ministerijos Konsulinio departamento,
+Respublikos  užsienio  reikalų  ministerijos  Konsulinio
 
-Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų užsienyje
+departamento,
 
-jiems teikiamas konsulines paslaugas, atliekamus notarinius veiksmus ar
+Lietuvos  Respublikos  diplomatinių  atstovybių  ir
 
-išduodamus juridinę galią turinčius dokumentus.
+konsulinių  įstaigų
+
+užsienyje  teikiamas  konsulines  paslaugas,
+
+atliekamus
+
+notarinius  veiksmus ar  išduodamus  juridinę    galią
+
+turinčius
+
+dokumentus.
+
+Konsulinis
+
+mokestis  imamas remiantis  Lietuvos  Respublikos
+
+sutartimis  su
+
+kitomis  valstybėmis,  šiuo  įstatymu,  Lietuvos
+
+Respublikos
+
+notariato įstatymu.
+
+2 straipsnis. Mokesčio mokėtojai
+
+Konsulinį mokestį moka užsienio ir Lietuvos
+
+Respublikos juridiniai asmenys, išskyrus Lietuvos banką, užsienio valstybių
+
+piliečiai ir Lietuvos Respublikos piliečiai, asmenys be pilietybės už Lietuvos
+
+Respublikos užsienio reikalų ministerijos Konsulinio departamento, Lietuvos
+
+Respublikos diplomatinių atstovybių ir konsulinių įstaigų užsienyje jiems
+
+teikiamas konsulines paslaugas, atliekamus notarinius veiksmus ar išduodamus
+
+juridinę galią turinčius dokumentus.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2139,
+
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
 
 3
 
@@ -137,11 +181,11 @@ Respublikos Vyriausybė turi teisę pariteto pagrindais padidinti, sumažinti ar
 
 panaikinti konsulinį mokestį už vizas, dokumentų pareikalavimą ir jų
 
-legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims, atsižvelgdama
+legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims,
 
-į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos Respublikos
+atsižvelgdama į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos
 
-juridinių ir fizinių asmenų.
+Respublikos juridinių ir fizinių asmenų.
 
 6
 
@@ -379,9 +423,9 @@ straipsnis. Baigiamosios nuostatos
 
 Lietuvos
 
-Respublikos konsulinio mokesčio įstatymas įsigalioja nuo 1995 m. sausio
+Respublikos konsulinio mokesčio įstatymas įsigalioja nuo 1995 m. sausio 1
 
-1 dienos.
+dienos.
 
 Lietuvos
 
@@ -469,91 +513,43 @@ Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
 
 2003 m. gegužės 1 d.
 
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2139,
+
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+
+ĮMONIŲ
+
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
+
+PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
+
+ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO,
+
+MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS
+
+BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-05-06)
+Aušrinė Trapinskienė (2004-05-03)
 
 autrap@lrs.lt
-
-1 straipsnis.
-
-Įstatymo  paskirtis
-
-Šis įstatymas
-
-reglamentuoja konsulinio  mokesčio  ėmimą  už
-
-Lietuvos
-
-Respublikos  užsienio  reikalų  ministerijos  Konsulinio
-
-departamento,
-
-Lietuvos  Respublikos  diplomatinių  atstovybių  ir
-
-konsulinių  įstaigų
-
-užsienyje  teikiamas  konsulines  paslaugas,
-
-atliekamus
-
-notarinius  veiksmus ar  išduodamus  juridinę    galią
-
-turinčius
-
-dokumentus.
-
-Konsulinis
-
-mokestis  imamas remiantis  Lietuvos  Respublikos
-
-sutartimis  su
-
-kitomis  valstybėmis,  šiuo  įstatymu,  Lietuvos
-
-Respublikos
-
-notariato įstatymu.
-
-2 straipsnis.
-
-Mokesčio mokėtojai
-
-Konsulinį
-
-mokestį  moka  užsienio  ir  Lietuvos  Respublikos
-
-juridiniai asmenys,
-
-užsienio  valstybių  piliečiai  ir  Lietuvos
-
-Respublikos
-
-piliečiai,   asmenys  be   pilietybės  už   Lietuvos
-
-Respublikos
-
-Užsienio     reikalų    ministerijos    Konsulinio
-
-departamento,
-
-Lietuvos  Respublikos  diplomatinių  atstovybių  ir
-
-konsulinių
-
-įstaigų   užsienyje   jiems   teikiamas   konsulines
-
-paslaugas,
-
-atliekamus  notarinius veiksmus ar išduodamus juridinę
-
-galią turinčius
-
-dokumentus.
 
 3 straipsnis.
 
