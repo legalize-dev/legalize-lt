@@ -1,0 +1,37 @@
+---
+title: "Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimo dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais ratifikavimo įstatymas"
+identifier: "TAR.4132890D3B7F"
+country: "lt"
+rank: "istatymas"
+publication_date: "1998-04-15"
+last_updated: "1998-04-15"
+status: "in_force"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.4132890D3B7F"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "0981010ISTAVIII-703"
+document_number: "VIII-703"
+published_in_tar: "1998-04-15"
+document_status: "registruotas TA registre"
+---
+# Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimo dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais ratifikavimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+VYRIAUSYBĖS IR MOLDOVOS RESPUBLIKOS VYRIAUSYBĖS SUSITARIMO DĖL KELEIVIŲ IR KROVINIŲ TARPTAUTINIŲ VEŽIOJIMŲ AUTOMOBILIAIS RATIFIKAVIMO
+
+Į S T A T Y M A S
+
+1998 m. balandžio 15 d. Nr. VIII-703
+
+Vilnius
+
+1 straipsnis. Susitarimo ratifikavimas
+
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. kovo 10 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+______________
+
