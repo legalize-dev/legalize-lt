@@ -4,7 +4,7 @@ identifier: "TAR.1C05F0250868"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-12"
-last_updated: "2004-11-01"
+last_updated: "2004-11-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1C05F0250868"
 department: "Lietuvos Respublikos Seimas"
@@ -68,9 +68,9 @@ Nr. IX-2139,
 
 2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
 
-Nr. IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533
+Nr. IX-2469,
 
-(2004-10-16)
+2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
 
 2 straipsnis.
 
@@ -134,9 +134,9 @@ Nr. IX-1119,
 
 2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
 
-Nr. IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533
+Nr. IX-2469,
 
-(2004-10-16)
+2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
 
 ANTRASIS
 
@@ -154,6 +154,10 @@ Garantinio fondo lėšos
 
 fondo lėšas sudaro:
 
+1 dalies 1 punkto redakcija iki 2005 m.
+
+sausio 1 d.:
+
 1) įmonių,
 
 nurodytų šio įstatymo 1 straipsnio 2 dalyje, įmokos – 0,2 proc. priskaičiuoto
@@ -161,6 +165,18 @@ nurodytų šio įstatymo 1 straipsnio 2 dalyje, įmokos – 0,2 proc. priskaiči
 darbuotojams darbo užmokesčio (nuo kurio skaičiuojamos privalomojo valstybinio
 
 socialinio draudimo įmokos);
+
+1 dalies 1 punkto redakcija nuo 2005 m.
+
+sausio 1 d.:
+
+1) įmonių,
+
+nurodytų šio įstatymo 1 straipsnio 2 dalyje, įmokos – 0,2 proc. priskaičiuoto
+
+darbuotojams darbo užmokesčio (nuo kurio skaičiuojamos valstybinio socialinio
+
+draudimo įmokos);
 
 2) Privatizavimo
 
@@ -211,6 +227,10 @@ Straipsnio pakeitimai:
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 
 22-716 (2001 03 14)
+
+Nr. IX-2538,
+
+2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26)
 
 5 straipsnis.
 
@@ -308,9 +328,9 @@ darbuotojų kreditorinių reikalavimų suma mažinama iš Garantinio fondo sumok
 
 išmokos suma. Garantinio fondo administratorius į šią sumą įgyja atgręžtinio
 
-reikalavimo teisę. Jo kreditoriniai reikalavimai tenkinami Įmonių bankroto įstatymo
+reikalavimo teisę. Jo kreditoriniai reikalavimai tenkinami Įmonių bankroto
 
-nustatyta tvarka.
+įstatymo nustatyta tvarka.
 
 5. Išmokos,
 
@@ -426,9 +446,9 @@ su bankrutuojančia ar bankrutavusia įmone arba savivaldybės tarybos įgaliota
 
 įmonių bankroto administravimo paslaugas, sudaro lėšų iš Garantinio fondo
 
-perdavimo įmonei (savivaldybės įstaigai, juridiniam asmeniui, teikiančiam
+perdavimo įmonei (savivaldybės įstaigai, juridiniam asmeniui, teikiančiam bankroto
 
-bankroto administravimo paslaugas) sutartį.
+administravimo paslaugas) sutartį.
 
 8. Garantinio
 
@@ -466,9 +486,9 @@ GARANTINIO FONDO
 
 VALDYMAS
 
-8 straipsnis.
+8 straipsnis. Garantinio
 
-Garantinio fondo taryba
+fondo taryba
 
 1. Garantiniam
 
@@ -540,9 +560,9 @@ Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 
 22-716 (2001 03 14)
 
-Nr. IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533
+Nr. IX-2469,
 
-(2004-10-16)
+2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
 
 10 straipsnis.
 
@@ -638,25 +658,25 @@ kreditorių susirinkimas, bankroto procedūras vykdant ne teismo tvarka, iki ši
 
 įstatymo įsigaliojimo dienos yra priėmęs nutartį (nutarimą) išregistruoti
 
-likviduotą dėl bankroto įmonę. Kai bankrutuojančios ar bankrutavusios įmonės darbuotojams
+likviduotą dėl bankroto įmonę. Kai bankrutuojančios ar bankrutavusios įmonės
 
-bankroto proceso metu jau buvo sumokėta tam tikra įmonės įsiskolinimo dalis iš
+darbuotojams bankroto proceso metu jau buvo sumokėta tam tikra įmonės
 
-Fondo bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams,
+įsiskolinimo dalis iš Fondo bankrutuojančių ir bankrutavusių įmonių darbuotojų
 
-susijusiems su darbo santykiais, tenkinti skirtų finansinės paramos lėšų, šio
+reikalavimams, susijusiems su darbo santykiais, tenkinti skirtų finansinės
 
-įstatymo 5 straipsnio 1 dalies 1 punkte nurodytos išmokos jiems turi būti
+paramos lėšų, šio įstatymo 5 straipsnio 1 dalies 1 punkte nurodytos išmokos
 
-sumažinamos sumokėta suma. Kai darbuotojams skirtos išmokos, numatytos šio
+jiems turi būti sumažinamos sumokėta suma. Kai darbuotojams skirtos išmokos,
 
-įstatymo 5 straipsnio 1 dalies 1 punkte, pagal galiojusias šios dalies
+numatytos šio įstatymo 5 straipsnio 1 dalies 1 punkte, pagal galiojusias šios
 
-nuostatas buvo sumažintos bankroto proceso metu iš įmonės lėšų sumokėta darbo
+dalies nuostatas buvo sumažintos bankroto proceso metu iš įmonės lėšų sumokėta
 
-užmokesčio dalimi, jiems skiriamos papildomos išmokos, kurių kiekvienos dydis
+darbo užmokesčio dalimi, jiems skiriamos papildomos išmokos, kurių kiekvienos
 
-yra lygus sumai, kuria buvo sumažinta anksčiau skirta išmoka.
+dydis yra lygus sumai, kuria buvo sumažinta anksčiau skirta išmoka.
 
 3.
 
@@ -870,7 +890,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
+IX-2469,
+
+2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
 
 GARANTINIO
 
@@ -882,13 +904,37 @@ PRIEDU ĮSTATYMAS
 
 įstatymas įsigalioja nuo 2004 m. lapkričio 1 d.
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2538,
+
+2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26)
+
+GARANTINIO
+
+FONDO ĮSTATYMO, ĮMONIŲ BANKROTO ĮSTATYMO, LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ
+
+ĮSTATYMO, ŽEMĖS ŪKIO BENDROVIŲ ĮSTATYMO, ŪKININKO ŪKIO ĮSTATYMO PAKEITIMO
+
+ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-10-20)
+Aušrinė Trapinskienė (2004-12-10)
 
 autrap@lrs.lt
 
