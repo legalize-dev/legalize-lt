@@ -4,7 +4,7 @@ identifier: "TAR.F989833B3D38"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-28"
-last_updated: "1995-02-22"
+last_updated: "1996-04-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F989833B3D38"
 department: "Lietuvos Respublikos Seimas"
@@ -42,6 +42,22 @@ DĖL VALSTYBINIŲ
 ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI AKCIONUOTI, NEI PRIVATIZUOTI,
 
 SĄRAŠO PAKEITIMO IR PAPILDYMO
+
+2.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. I-1279,
+
+96.04.04, Žin., 1996, Nr.35-875 (96.04.19)
+
+LIETUVOS RESPUBLIKOS
+
+ĮSTATYMO “DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI
+
+AKCIONUOTI, NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
@@ -99,9 +115,7 @@ pavadinimas
 
 ______________________________________________________________
 
-Lietuvos
-
-Respublikos Seimo kanceliarija
+Lietuvos Respublikos Seimo kanceliarija
 
 2173997   Valstybinė
 
@@ -495,9 +509,9 @@ valstybinė kelių valdyba
 
 valstybinė kelių valdyba
 
-8010269   Telšių
+8010269   Telšių valstybinė
 
-valstybinė kelių valdyba
+kelių valdyba
 
 8110248   Trakų
 
@@ -619,9 +633,9 @@ valstybinė tarprajoninė veislininkystės
 
 įmonė
 
-8601654   Vilniaus valstybinė
+8601654   Vilniaus
 
-tarprajoninė veislininkystės
+valstybinė tarprajoninė veislininkystės
 
 įmonė
 
@@ -683,9 +697,7 @@ valstybinis metrologijos centras
 
 įmonė "Svarstis"
 
-Energetikos
-
-ministerija
+Energetikos ministerija
 
 2225111   Valstybinė
 
@@ -752,6 +764,68 @@ Lietuvos bankas
 1005293   Lietuvos
 
 monetų kalykla
+
+Alytaus apskrities valdytojo administracija
+
+8453729
+
+Valstybinė  gyvulių  sėklinimo  įmonė  (Varėnos rajonas)
+
+Kauno
+
+apskrities valdytojo administracija
+
+5657226
+
+Valstybinė   veislininkystės   įmonė   (Jonavos rajonas)
+
+6113181
+
+Valstybinė  įmonė  “Pagirių  sodai”   (Kėdainių rajonas)
+
+Panevėžio apskrities valdytojo administracija
+
+6913115  Valstybinė
+
+gyvulių  sėklinimo  įmonė  (Pasvalio rajonas)
+
+Šiaulių apskrities valdytojo administracija
+
+7132079  Šeduvos
+
+valstybinė avių  veislininkystės  įmonė
+
+(Radviliškio
+
+rajonas)
+
+6243708 Valstybinė
+
+sėklinimo įmonė (Kelmės rajonas)
+
+Telšių
+
+apskrities valdytojo administracija
+
+6981037
+
+Valstybinė  gyvulių  sėklinimo  įmonė  (Plungės rajonas)
+
+Utenos
+
+apskrities valdytojo administracija
+
+8365663
+
+Valstybinė  gyvulių  sėklinimo  įmonė   (Utenos rajonas)
+
+Vilniaus
+
+apskrities valdytojo administracija
+
+8276783  Valstybinė
+
+gyvulių  sėklinimo  įmonė  (Ukmergės rajonas)
 
 Vilniaus miesto valdyba
 
@@ -873,7 +947,7 @@ Klaipėdos miesto valdyba
 
 įmonė "Senasis turgus"
 
-4054119   Valstybinė
+4054119   Valstybinė
 
 vaistinė "Vyturys"
 
@@ -971,12 +1045,6 @@ valstybinė vaistinė
 
 valstybinė vaistinė
 
-Jonavos rajono valdyba
-
-5657226   Valstybinė
-
-veislininkystės įmonė
-
 Joniškio rajono valdyba
 
 5751154   Valstybinė
@@ -1009,21 +1077,11 @@ Karmėlavos vaistinė
 
 Garliavos vaistinė
 
-Kėdainių rajono valdyba
-
-6113181   Valstybinė
-
-įmonė "Pagirių sodai"
-
 Kelmės rajono valdyba
 
 6243985   Valstybinė
 
 Kelmės rajono vaistinių įmonė
-
-6243708   Valstybinė
-
-sėklinimo įmonė
 
 Klaipėdos rajono valdyba
 
@@ -1037,9 +1095,7 @@ Mažeikių rajono valdyba
 
 Mažeikių rajono vaistinių įmonė
 
-Pakruojo
-
-rajono valdyba
+Pakruojo rajono valdyba
 
 6792493   Valstybinė
 
@@ -1059,19 +1115,11 @@ Vaškų vaistinė
 
 Daujėnų vaistinė
 
-6913115   Valstybinė
-
-gyvulių sėklinimo įmonė
-
 Plungės rajono valdyba
 
 6982291   Valstybinė
 
 vaistinė "Manga"
-
-6981037   Valstybinė
-
-gyvulių sėklinimo įmonė
 
 Prienų rajono valdyba
 
@@ -1085,10 +1133,6 @@ Radviliškio rajono valdyba
 
 vaistinių įmonė
 
-7132079   Šeduvos
-
-valstybinė avių veislininkystės įmonė
-
 Skuodo rajono valdyba
 
 7386043   Valstybinė
@@ -1099,9 +1143,7 @@ Barstyčių vaistinė
 
 Ylakių vaistinė
 
-Šakių
-
-rajono valdyba
+Šakių rajono valdyba
 
 7432714   Plokščių
 
@@ -1139,9 +1181,7 @@ Telšių rajono valdyba
 
 rajono radijo ir televizijos informacijos redakcija
 
-Trakų
-
-rajono valdyba
+Trakų rajono valdyba
 
 8125342   Trakų
 
@@ -1157,13 +1197,7 @@ Ukmergės rajono valdyba
 
 Ukmergės vaistinė
 
-8276783   Valstybinė
-
-gyvulių sėklinimo įmonė
-
-Utenos
-
-rajono valdyba
+Utenos rajono valdyba
 
 8370635   Valstybinė
 
@@ -1176,10 +1210,6 @@ Utenos vaistinė
 8370449   Daugailių
 
 valstybinė vaistinė
-
-8365663   Valstybinė
-
-gyvulių sėklinimo įmonė
 
 Varėnos rajono valdyba
 
@@ -1198,10 +1228,6 @@ valstybinė vaistinė
 8456436
 
 Marcinkonių valstybinė vaistinė
-
-8453729   Valstybinė
-
-gyvulių sėklinimo įmonė
 
 Vilniaus rajono valdyba
 
@@ -1224,4 +1250,8 @@ pakeitimai:
 Nr. I-802, 95.02.22,
 
 Žin., 1995, Nr.21-491 (95.03.10)
+
+Nr. I-1279,
+
+96.04.04, Žin., 1996, Nr.35-875 (96.04.19)
 
