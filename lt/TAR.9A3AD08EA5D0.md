@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "1996-10-22"
+last_updated: "1997-06-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,11 +16,15 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos švietimo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
-Redagavo:
+Redagavo: Ramunė
 
-Ramunė Lūžaitė (1997.02.27)
+Lūžaitė (1997.07.09)
+
+Įstatymas
+
+paskelbtas: žin., 1991, Nr. 23-593
 
 Neoficialus
 
@@ -98,15 +102,31 @@ LIETUVOS
 
 RESPUBLIKOS KARO PRIEVOLĖS ĮSTATYMAS
 
+6.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-306,
+
+97.06.26, Žin., 1997, Nr.65-1537 (97.07.09)
+
+LIETUVOS
+
+RESPUBLIKOS ŠVIETIMO ĮSTATYMO 9, 11, 30, 31, 33, 33(1) STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
-ŠVIETIMO ĮSTATYMAS
+ŠVIETIMO
 
-( žin., 1991, Nr. 23-593)
+ĮSTATYMAS
 
 Švietimas
 
@@ -368,9 +388,9 @@ mokyklos gali turėti bendrojo lavinimo ir profesinio rengimo skyrius.
 
 Aukštesniosios
 
-mokyklos gali rengti studentus bakalauro kvalifikaciniam laipsniui, kurį suteikia
+mokyklos gali rengti studentus bakalauro kvalifikaciniam laipsniui, kurį
 
-aukštosios mokyklos.
+suteikia aukštosios mokyklos.
 
 Straipsnio
 
@@ -442,13 +462,13 @@ straipsnis. Švietimo įstaigų steigimas, reorganizavimas
 
 ir likvidavimas
 
-Valstybines
+Valstybines ir savivaldybių švietimo įstaigas steigia, reorganizuoja ir
 
-ir savivaldybių švietimo įstaigas steigia, reorganizuoja ir likviduoja Švietimo
+likviduoja Švietimo ir mokslo ministerija, taip pat apskričių viršininkai ir
 
-ir mokslo ministerija, taip pat apskričių valdytojai ir savivaldybių tarybos
+savivaldybių tarybos Švietimo ir mokslo ministerijai ir apskričių viršininkams
 
-Švietimo ir mokslo ministerijai ir apskričių valdytojams raštu sutikus.
+raštu sutikus.
 
 Valstybines
 
@@ -484,9 +504,9 @@ nevalstybinės  švietimo įstaigos veikla pažeidžia Lietuvos Respublikos
 
 įstaigos veiklą, kol ginčas bus išspręstas teismine tvarka.   Švietimo įstaigos
 
-turi juridinio asmens teises ir yra pavaldžios steigėjams. Švietimo įstaigos registruojamos
+turi juridinio asmens teises ir yra pavaldžios steigėjams. Švietimo įstaigos
 
-Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+registruojamos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 Švietimo
 
@@ -510,6 +530,10 @@ Nr.
 
 I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
 
+Nr. VIII-306,
+
+97.06.26, Žin., 1997, Nr.65-1537 (97.07.09)
+
 10
 
 straipsnis. Dėstomoji kalba
@@ -524,11 +548,11 @@ ir kompaktiškai gyvenančioms Lietuvos Respublikos tautinėms mažumoms  sudar
 
 sąlygos turėti valstybines ar valstybės remiamas ikimokyklines įstaigas,
 
-bendrojo lavinimo mokyklas ir pamokas gimtąja kalba. Tėvai (globėjai, rūpintojai)
+bendrojo lavinimo mokyklas ir pamokas gimtąja kalba. Tėvai (globėjai,
 
-parenka vaikams ikimokyklinę įstaigą ar bendrojo lavinimo mokyklą atitinkama
+rūpintojai) parenka vaikams ikimokyklinę įstaigą ar bendrojo lavinimo mokyklą
 
-dėstomąja kalba.
+atitinkama dėstomąja kalba.
 
 Negausioms
 
@@ -566,7 +590,7 @@ straipsnis. Sveikatos apsauga
 
 stiprinti. Ministerijos ir kitos Lietuvos Respublikos Vyriausybės įstaigos,
 
-apskričių valdytojai, vietos savivaldos institucijos, organizacijos ir
+apskričių viršininkai, vietos savivaldos institucijos, organizacijos ir
 
 piliečiai, turintys savo žinioje švietimo įstaigas, užtikrina norminiuose
 
@@ -582,6 +606,10 @@ Nr.
 
 I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
 
+Nr. VIII-306,
+
+97.06.26, Žin., 1997, Nr.65-1537 (97.07.09)
+
 12
 
 straipsnis. Vaikų ir moksleivių su fiziniais ir psichiniais
@@ -594,11 +622,11 @@ ikimokyklinio ir mokyklinio amžiaus vaikai su fiziniais ar psichiniais
 
 trūkumais ugdomi namuose, ikimokyklinių įstaigų bendrosiose ar korekcinėse
 
-grupėse, specialiose ikimokyklinėse įstaigose, bendrojo lavinimo mokyklų
+grupėse, specialiose ikimokyklinėse įstaigose, bendrojo lavinimo mokyklų bendrosiose
 
-bendrosiose ar korekcinėse klasėse, specialiosiose mokyklose kuo arčiau tėvų
+ar korekcinėse klasėse, specialiosiose mokyklose kuo arčiau tėvų gyvenamosios
 
-gyvenamosios vietos.
+vietos.
 
 Korekciniam
 
@@ -1722,9 +1750,9 @@ turinys derinamas tarpusavyje.
 
 Švietimo
 
-įstaigose draudžiama propaguoti rasinį, tautinį, religinį, socialinį
+įstaigose draudžiama propaguoti rasinį, tautinį, religinį, socialinį  priešiškumą
 
-priešiškumą ir  išskirtinumą,  skleisti militaristines ir kitas idėjas, prieštaraujančias
+ir  išskirtinumą,  skleisti militaristines ir kitas idėjas, prieštaraujančias
 
 visuotinai pripažintiems tarptautinės teisės ir humanizmo principams.
 
@@ -1826,15 +1854,15 @@ Visų
 
 švietimo įstaigų pedagoginę veiklą prižiūri vieninga valstybinė švietimo
 
-inspekcija, sudaryta iš Švietimo ir mokslo ministerijos bei apskričių valdytojų
+inspekcija, sudaryta iš Švietimo ir mokslo ministerijos bei apskričių
 
-administracijos  švietimo inspektorių ir veikianti pagal Švietimo ir mokslo
+viršininkų administracijos švietimo inspektorių ir veikianti pagal Švietimo ir
 
-ministerijos patvirtintus  nuostatus.  Valstybinė  švietimo  inspekcija
+mokslo ministerijos patvirtintus nuostatus. Valstybinė švietimo inspekcija
 
 periodiškai informuoja visuomenę apie Lietuvos ir atskirų jos regionų švietimo
 
-būklę, švietimo įstaigų teikiamo ugdymo  kokybę Švietimo ir mokslo ministerijos
+būklę, švietimo įstaigų teikiamo ugdymo kokybę Švietimo ir mokslo ministerijos
 
 nustatyta tvarka.
 
@@ -1857,6 +1885,10 @@ I-381, 94.01.20, Žin., 1994, Nr.8-122 (94.01.28)
 Nr.
 
 I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
+
+Nr. VIII-306,
+
+97.06.26, Žin., 1997, Nr.65-1537 (97.07.09)
 
 31
 
@@ -1922,25 +1954,25 @@ literatūros rengimą, gamybą bei leidybą;
 
 8)
 
-kartu su darbdavių ir dirbančiųjų atstovais nustato visų lygių  (išskyrus  aukštąjį
+kartu su darbdavių ir dirbančiųjų atstovais nustato visų lygių  (išskyrus
 
-išsilavinimą  ir  doktorantūrą) išsilavinimo valstybinius standartus;
+aukštąjį  išsilavinimą  ir  doktorantūrą) išsilavinimo valstybinius standartus;
 
 9)
 
-raštu aprobuoja apskričių valdytojų administracijos švietimo padalinių
+raštu aprobuoja apskričių viršininkų administracijos švietimo padalinių
 
 steigimą, reorganizavimą ir likvidavimą, tų padalinių vadovų skyrimą ir
 
-atleidimą, apskričių valdytojams ar savivaldybėms pavaldžių švietimo įstaigų,
+atleidimą, apskričių viršininkams ar savivaldybėms pavaldžių švietimo įstaigų,
 
-išskyrus ikimokyklines ugdymo įstaigas,  pradines mokyklas,  papildomo ugdymo
+išskyrus ikimokyklines ugdymo įstaigas, pradines mokyklas, papildomo ugdymo bei
 
-bei suaugusiųjų  neformaliojo  švietimo  įstaigas,  steigimą, reorganizavimą ir
+suaugusiųjų neformaliojo švietimo įstaigas, steigimą, reorganizavimą ir
 
-likvidavimą, jų vadovų skyrimą ir atleidimą. Švietimo įstaigų  vadovai gali
+likvidavimą, jų vadovų skyrimą ir atleidimą. Švietimo įstaigų vadovai gali būti
 
-būti atleisti ministerijos, apskričių valdytojų arba savivaldybių iniciatyva
+atleisti ministerijos, apskričių viršininkų arba savivaldybių iniciatyva
 
 Švietimo ir mokslo ministerijai sutikus;
 
@@ -2000,13 +2032,13 @@ egzaminams prižiūrėti ir darbams vertinti;
 
 organizuoja  švietimo įstaigų  ir aukštesniojo bei profesinio mokymo
 
-specialybių registravimą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+specialybių registravimą Lietuvos Respublikos Vyriausybės nustatyta tvarka;
 
 20)
 
-prižiūri  ir  koordinuoja  apskričių  valdytojų administracijos  ir
+prižiūri ir koordinuoja apskričių viršininkų administracijos ir savivaldybių
 
-savivaldybių  administracijos  švietimo padalinių veiklą.
+administracijos švietimo padalinių veiklą.
 
 Straipsnio
 
@@ -2023,6 +2055,10 @@ I-381, 94.01.20, Žin., 1994, Nr.8-122 (94.01.28)
 Nr.
 
 I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
+
+Nr. VIII-306,
+
+97.06.26, Žin., 1997, Nr.65-1537 (97.07.09)
 
 32
 
@@ -2060,7 +2096,7 @@ lavinimo dalykų mokymo planus ir programas;
 
 5)
 
-dalyvauja  nustatant  pavaldžių  profesinių  bei aukštesniųjų mokyklų teikiamo
+dalyvauja  nustatant  pavaldžių  profesinių  bei aukštesniųjų mokyklų teikiamo
 
 išsilavinimo standartus;
 
@@ -2081,396 +2117,6 @@ I-381, 94.01.20, Žin., 1994, Nr.8-122 (94.01.28)
 Nr.
 
 I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
-
-33
-
-straipsnis. Apskrities valdytojo kompetencija švietimo srityje
-
-Apskrities
-
-valdytojas:
-
-1)
-
-Švietimo ir mokslo ministerijai raštu sutikus, steigia, reorganizuoja ir
-
-likviduoja apskrities valdytojo administracijos švietimo padalinius, skiria ir
-
-atleidžia jų vadovus;
-
-2)
-
-Švietimo ir mokslo ministerijai raštu sutikus, steigia, reorganizuoja ir
-
-likviduoja apskrities valstybines švietimo įstaigas, išskyrus aukštąsias
-
-mokyklas;
-
-3)
-
-raštu aprobuoja apskrities teritorijoje esančių švietimo įstaigų steigimą,
-
-reorganizavimą ir likvidavimą;
-
-4)
-
-Švietimo ir mokslo ministerijai raštu sutikus, skiria ir atleidžia pavaldžių
-
-valstybinių švietimo įstaigų vadovus;
-
-5)
-
-raštu  aprobuoja  apskrities  teritorijoje  esančių savivaldybei pavaldžių
-
-švietimo įstaigų  vadovų skyrimą ir atleidimą;
-
-6)
-
-užtikrina  pavaldžių  valstybinių  švietimo  įstaigų funkcionavimą ir
-
-išlaikymą;
-
-7)
-
-tvirtina pavaldžių valstybinių švietimo įstaigų veiklos nuostatus;
-
-8)
-
-prižiūri,  kaip vykdoma  bendroji švietimo politika apskrityje,  inspektuoja
-
-apskrities  teritorijoje  esančias valstybines ir nevalstybines švietimo
-
-įstaigas;
-
-9)
-
-prižiūri, kaip savivaldybės tvarko mokyklinio amžiaus vaikų apskaitą ir
-
-užtikrina, kad visi apskrities teritorijoje gyvenantys vaikai iki 16 metų,
-
-nebaigę pagrindinės mokyklos, mokytųsi bendrojo lavinimo ar kitokio tipo
-
-mokyklose, rūpinasi vaiko teisių apsauga;
-
-10)
-
-sudaro sąlygas apskrities valstybinių švietimo įstaigų vadovams ir pedagogams
-
-tobulinti kvalifikaciją, Švietimo ir mokslo ministerijos nustatyta tvarka
-
-organizuoja jų atestavimą;
-
-11)
-
-Lietuvos  Respublikos Vyriausybės  nustatyta tvarka registruoja švietimo
-
-įstaigas;
-
-12)
-
-inicijuoja  apskrities švietimo  tarybos  ir  kitų savivaldos institucijų
-
-kūrimąsi;
-
-13)
-
-nustatyta tvarka teikia informaciją Švietimo ir mokslo ministerijai apie
-
-švietimo būklę ir problemas apskrityje.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-381, 94.01.20, Žin., 1994, Nr.8-122 (94.01.28)
-
-Nr.
-
-I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
-
-33-1
-
-straipsnis. Savivaldybės kompetencija švietimo srityje
-
-Savivaldybė:
-
-1)
-
-apskrities valdytojui sutikus, steigia, reorganizuoja ir likviduoja ikimokyklines
-
-ugdymo įstaigas, bendrojo lavinimo pradines mokyklas, papildomo ugdymo bei
-
-suaugusiųjų neformaliojo švietimo įstaigas, skiria ir atleidžia jų vadovus;
-
-2)
-
-Švietimo ir mokslo ministerijai ir apskrities valdytojui raštu sutikus,
-
-steigia, reorganizuoja ir likviduoja visų tipų bendrojo lavinimo pagrindines ir
-
-vidurines mokyklas, skiria ir atleidžia šių švietimo įstaigų vadovus;
-
-3)
-
-Lietuvos Respublikos Vyriausybės nustatyta tvarka raštu aprobuoja šio
-
-straipsnio 1 ir 2 punktuose išvardytų nevalstybinių švietimo įstaigų, esančių
-
-savivaldybės teritorijoje, steigimą, reorganizavimą ir likvidavimą;
-
-4)
-
-tvirtina pavaldžių švietimo įstaigų veiklos nuostatus;
-
-5)
-
-užtikrina įstatymų, Lietuvos Respublikos Vyriausybės nutarimų, Švietimo ir mokslo
-
-ministerijos teisės aktų bei kitų institucijų teisės  aktų įgyvendinimą
-
-pavaldžiose  švietimo įstaigose;
-
-6)
-
-užtikrina pavaldžių švietimo įstaigų funkcionavimą ir išlaikymą;
-
-7)
-
-tvarko tikslią mokyklinio amžiaus vaikų apskaitą, sudaro jų sąrašus ir
-
-užtikrina, kad visi savivaldybės teritorijoje gyvenantys vaikai iki 16 metų,
-
-nebaigę pagrindinės mokyklos, mokytųsi bendrojo lavinimo ar kitokio tipo
-
-mokykloje, rūpinasi vaiko teisių apsauga;
-
-8)
-
-organizuoja kaimo bendrojo lavinimo mokyklų moksleivių, gyvenančių toliau nuo
-
-mokyklos, nemokamą pavėžėjimą į mokyklą ir atgal;
-
-9)
-
-sudaro sąlygas pavaldžių švietimo įstaigų vadovams ir pedagogams  tobulinti
-
-kvalifikaciją,  Švietimo  ir  mokslo ministerijos nustatyta tvarka organizuoja
-
-jų atestavimą;
-
-10)
-
-nustatyta  tvarka  teikia  informaciją  visuomenei, apskrities valdytojui ir
-
-Švietimo ir mokslo ministerijai apie švietimo būklę ir problemas.
-
-Įstatymas
-
-papildytas straipsniu:
-
-Nr.
-
-I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
-
-34
-
-straipsnis. Lietuvos švietimo taryba
-
-Lietuvos
-
-švietimo  taryba yra  institucija,  atliekanti mokslinio  eksperto  bei
-
-konsultanto  vaidmenį  sprendžiant strateginius Respublikos švietimo plėtotės
-
-klausimus.
-
-Taryba
-
-sudaroma ir veikia pagal nuostatus, kuriuos tvirtina Lietuvos Respublikos
-
-Vyriausybė.
-
-35
-
-straipsnis. Valstybinių švietimo įstaigų savivalda
-
-Kiekvienoje
-
-valstybinėje švietimo įstaigoje turi veikti savivaldos institucijos - švietimo
-
-įstaigos taryba ir pedagogų taryba, gali veikti ir kitos savivaldos
-
-institucijos.
-
-Savivaldos
-
-institucijos:
-
-1)
-
-aprobuoja švietimo įstaigos nuostatus;
-
-2)
-
-nustato pagrindines švietimo įstaigos finansinės-ūkinės veiklos perspektyvas;
-
-3)
-
-kontroliuoja  švietimo įstaigos finansinę-materialinę veiklą.
-
-Savivaldos
-
-organai pagal savo kompetenciją turi teisę gauti iš administracijos informaciją
-
-apie švietimo įstaigos veiklą.
-
-Valstybinių
-
-švietimo įstaigų savivaldos organų kompetencija apibrėžiama  atitinkamo  tipo
-
-(pakopos)  švietimo  įstaigų bendruosiuose veiklos nuostatuose.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-381, 94.01.20, Žin., 1994, Nr.8-122 (94.01.28)
-
-36
-
-straipsnis. Švietimo įstaigų finansavimas
-
-Pagrindiniai
-
-valstybinių  švietimo  įstaigų  finansavimo šaltiniai yra  savivaldybių ir
-
-Lietuvos Respublikos valstybės biudžetai.  Valstybinis finansavimas užtikrina
-
-normalias šių įstaigų veiklos sąlygas. Kiti jų finansavimo šaltiniai yra
-
-Lietuvos švietimo fondas, miestų ir rajonų švietimo fondai ir švietimo įstaigų
-
-nebiudžetinės lėšos.
-
-Steigiant
-
-bendras  su užsieniu  švietimo institucijas, užsienio kapitalo dydis
-
-neribojamas.
-
-Nevalstybines
-
-švietimo  įstaigas  išlaiko  steigėjai. Nevalstybinėms  švietimo  įstaigoms
-
-valstybinio  standarto išsilavinimą suteikiančioms  programoms  finansuoti
-
-Lietuvos Respublikos Vyriausybės  nustatyta tvarka skiriamos biudžeto lėšos,
-
-kaip atitinkamo profilio valstybinėms švietimo įstaigoms. Lėšų dydis nustatomas
-
-atsižvelgiant į išlaidas, numatytas vienam vaikui, moksleiviui  atitinkamo
-
-profilio valstybinėse ugdymo įstaigose.
-
-Nevalstybinėms
-
-įstaigoms,  kurios  užtikrina  valstybinį standartą  atitinkantį
-
-išsilavinimą,  gali  būti  skiriami biudžetiniai asignavimai Vyriausybės
-
-numatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-381, 94.01.20, Žin., 1994, Nr.8-122 (94.01.28)
-
-37
-
-straipsnis. Švietimo fondai
-
-Lietuvos
-
-švietimo fondo bei apskričių, savivaldybių švietimo fondų sudarymo šaltiniai
-
-yra:
-
-1)
-
-savanoriški asmenų, organizacijų ir įmonių įnašai;
-
-2)
-
-pajamos iš paties fondo veiklos;
-
-3)
-
-užsienio valstybių organizacijų bei piliečių, taip pat tarptautinių
-
-organizacijų  aukojamos lėšos  ir  materialinės vertybės.
-
-Lietuvos
-
-švietimo  fondo nuostatus bei miestų (rajonų) švietimo  fondų  bendruosius
-
-nuostatus  tvirtina  Lietuvos Respublikos Vyriausybė.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
-
-IV. Tarptautiniai ryšiai
-
-38
-
-straipsnis. Lietuvos gyventojų teisė mokytis ir lietuvių  švietimo  įstaigos
-
-užsienio  valstybėse
-
-Lietuvos
-
-gyventojai turi teisę mokytis užsienio valstybėse.
-
-Ši
-
-teisė  įgyvendinama  asmens  iniciatyva  arba  per tarpvalstybinius
-
-susitarimus.
-
-Lietuvių
-
-švietimo   įstaigos  užsienio   valstybėse organizuojamos bei
-
-finansinė-materialinė parama joms teikiama tarpvalstybiniais susitarimais
-
-nustatyta tvarka.
-
-39
-
-straipsnis.  Užsienio piliečių ir asmenų be pilietybės pedagoginė
-
-veikla ir mokymasis Lietuvos Respublikoje
-
-Užsienio
-
-piliečiai ar asmenys be pilietybės turi teisę dirbti pedagoginį darbą ir
-
-mokytis Lietuvos Respublikoje. Jų mokymosi ir darbo sąlygas Lietuvos švietimo
-
-įstaigose nustato atitinkami Lietuvos Respublikos norminiai aktai bei
-
-tarptautinės sutartys.
 
 15 straipsnis. Pedagogų darbo apmokėjimas
 
@@ -3380,117 +3026,77 @@ Nr.
 
 I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
 
-33 straipsnis. Apskrities valdytojo kompetencija švietimo
+33 straipsnis. Apskrities viršininko
 
-srityje
+kompetencija švietimo srityje
 
-Apskrities valdytojas:
+Apskrities viršininkas:
 
-1) Švietimo  ir mokslo  ministerijai raštu sutikus, steigia,
+1) Švietimo ir mokslo ministerijai raštu
 
-reorganizuoja
+sutikus, steigia, reorganizuoja ir likviduoja apskrities viršininko
 
-ir  likviduoja apskrities valdytojo administracijos
+administracijos švietimo padalinius, skiria ir atleidžia jų vadovus;
 
-švietimo
+2) Švietimo ir mokslo ministerijai raštu
 
-padalinius, skiria ir atleidžia jų vadovus;
+sutikus, steigia, reorganizuoja ir likviduoja apskrities valstybines švietimo
 
-2) Švietimo  ir mokslo  ministerijai raštu sutikus, steigia,
+įstaigas, išskyrus aukštąsias mokyklas;
 
-reorganizuoja
+3) raštu aprobuoja apskrities teritorijoje
 
-ir   likviduoja  apskrities  valstybines  švietimo
+esančių švietimo įstaigų steigimą, reorganizavimą ir likvidavimą;
 
-įstaigas,
+4) Švietimo ir mokslo ministerijai raštu
 
-išskyrus aukštąsias mokyklas;
+sutikus, skiria ir atleidžia pavaldžių valstybinių švietimo įstaigų vadovus;
 
-3) raštu  aprobuoja apskrities teritorijoje esančių švietimo
+5) raštu aprobuoja apskrities teritorijoje
 
-įstaigų
+esančių savivaldybei pavaldžių švietimo įstaigų vadovų skyrimą ir atleidimą;
 
-steigimą, reorganizavimą ir likvidavimą;
+6) užtikrina pavaldžių valstybinių švietimo
 
-4) Švietimo  ir mokslo ministerijai raštu sutikus, skiria ir
+įstaigų funkcionavimą ir išlaikymą;
 
-atleidžia
+7) tvirtina pavaldžių valstybinių švietimo
 
-pavaldžių valstybinių švietimo įstaigų vadovus;
+įstaigų veiklos nuostatus;
 
-5)   raštu   aprobuoja   apskrities   teritorijoje   esančių
+8) prižiūri, kaip vykdoma bendroji švietimo
 
-savivaldybei
-
-pavaldžių   švietimo  įstaigų   vadovų  skyrimą  ir
-
-atleidimą;
-
-6)  užtikrina   pavaldžių   valstybinių   švietimo   įstaigų
-
-funkcionavimą
-
-ir išlaikymą;
-
-7) tvirtina  pavaldžių valstybinių  švietimo įstaigų veiklos
-
-nuostatus;
-
-8)  prižiūri,   kaip  vykdoma   bendroji  švietimo  politika
-
-apskrityje,
-
-inspektuoja    apskrities   teritorijoje   esančias
-
-valstybines
+politika apskrityje, inspektuoja apskrities teritorijoje esančias valstybines
 
 ir nevalstybines švietimo įstaigas;
 
-9) prižiūri,  kaip savivaldybės  tvarko  mokyklinio  amžiaus
+9) prižiūri, kaip savivaldybės tvarko
 
-vaikų
+mokyklinio amžiaus vaikų apskaitą, ir užtikrina, kad visi apskrities
 
-apskaitą  ir užtikrina,  kad visi  apskrities  teritorijoje
+teritorijoje gyvenantys vaikai iki 16 metų, nebaigę pagrindinės mokyklos,
 
-gyvenantys
+mokytųsi bendrojo lavinimo ar kitokio tipo mokyklose, rūpinasi vaiko teisių
 
-vaikai  iki 16  metų,  nebaigę  pagrindinės  mokyklos,
+apsauga;
 
-mokytųsi
+10) sudaro sąlygas apskrities valstybinių
 
-bendrojo  lavinimo ar  kitokio tipo  mokyklose, rūpinasi
+švietimo įstaigų vadovams ir pedagogams tobulinti kvalifikaciją, Švietimo ir
 
-vaiko
+mokslo ministerijos nustatyta tvarka organizuoja jų atestavimą;
 
-teisių apsauga;
+11) Lietuvos Respublikos Vyriausybės
 
-10) sudaro  sąlygas apskrities  valstybinių švietimo įstaigų
+nustatyta tvarka registruoja švietimo įstaigas;
 
-vadovams
+12) inicijuoja apskrities švietimo tarybos
 
-ir  pedagogams  tobulinti  kvalifikaciją,  Švietimo  ir
+ir kitų savivaldos institucijų kūrimąsi;
 
-mokslo
+13) nustatyta tvarka teikia informaciją
 
-ministerijos nustatyta tvarka organizuoja jų atestavimą;
-
-11)  Lietuvos   Respublikos  Vyriausybės   nustatyta  tvarka
-
-registruoja
-
-švietimo įstaigas;
-
-12)  inicijuoja   apskrities  švietimo   tarybos   ir   kitų
-
-savivaldos
-
-institucijų kūrimąsi;
-
-13) nustatyta  tvarka teikia  informaciją Švietimo ir mokslo
-
-ministerijai
-
-apie švietimo būklę ir problemas apskrityje.
+Švietimo ir mokslo ministerijai apie švietimo būklę ir problemas apskrityje.
 
 Straipsnio
 
@@ -3503,6 +3109,296 @@ I-381, 94.01.20, Žin., 1994, Nr.8-122 (94.01.28)
 Nr.
 
 I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
+
+Nr. VIII-306,
+
+97.06.26, Žin., 1997, Nr.65-1537 (97.07.09)
+
+33-1
+
+straipsnis. Savivaldybės kompetencija švietimo srityje
+
+Savivaldybė:
+
+1) apskrities viršininkui sutikus, steigia, reorganizuoja ir likviduoja
+
+ikimokyklines ugdymo įstaigas, bendrojo lavinimo pradines mokyklas, papildomo
+
+ugdymo bei suaugusiųjų neformaliojo švietimo įstaigas, skiria ir atleidžia jų
+
+vadovus;
+
+2) Švietimo ir mokslo ministerijai ir apskrities viršininkui raštu sutikus,
+
+steigia, reorganizuoja ir likviduoja visų tipų bendrojo lavinimo pagrindines ir
+
+vidurines mokyklas, skiria ir atleidžia šių švietimo įstaigų vadovus;
+
+3)
+
+Lietuvos Respublikos Vyriausybės nustatyta tvarka raštu aprobuoja šio
+
+straipsnio 1 ir 2 punktuose išvardytų nevalstybinių švietimo įstaigų, esančių
+
+savivaldybės teritorijoje, steigimą, reorganizavimą ir likvidavimą;
+
+4)
+
+tvirtina pavaldžių švietimo įstaigų veiklos nuostatus;
+
+5)
+
+užtikrina įstatymų, Lietuvos Respublikos Vyriausybės nutarimų, Švietimo ir
+
+mokslo ministerijos teisės aktų bei kitų institucijų teisės  aktų įgyvendinimą
+
+pavaldžiose  švietimo įstaigose;
+
+6)
+
+užtikrina pavaldžių švietimo įstaigų funkcionavimą ir išlaikymą;
+
+7)
+
+tvarko tikslią mokyklinio amžiaus vaikų apskaitą, sudaro jų sąrašus ir
+
+užtikrina, kad visi savivaldybės teritorijoje gyvenantys vaikai iki 16 metų,
+
+nebaigę pagrindinės mokyklos, mokytųsi bendrojo lavinimo ar kitokio tipo
+
+mokykloje, rūpinasi vaiko teisių apsauga;
+
+8)
+
+organizuoja kaimo bendrojo lavinimo mokyklų moksleivių, gyvenančių toliau nuo
+
+mokyklos, nemokamą pavėžėjimą į mokyklą ir atgal;
+
+9)
+
+sudaro sąlygas pavaldžių švietimo įstaigų vadovams ir pedagogams  tobulinti
+
+kvalifikaciją,  Švietimo  ir  mokslo ministerijos nustatyta tvarka organizuoja
+
+jų atestavimą;
+
+10)
+
+nustatyta tvarka teikia informaciją visuomenei, apskrities viršininkui ir
+
+Švietimo ir mokslo ministerijai apie švietimo būklę ir problemas.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-306,
+
+97.06.26, Žin., 1997, Nr.65-1537 (97.07.09)
+
+34
+
+straipsnis. Lietuvos švietimo taryba
+
+Lietuvos
+
+švietimo  taryba yra  institucija,  atliekanti mokslinio  eksperto  bei
+
+konsultanto  vaidmenį  sprendžiant strateginius Respublikos švietimo plėtotės
+
+klausimus.
+
+Taryba
+
+sudaroma ir veikia pagal nuostatus, kuriuos tvirtina Lietuvos Respublikos
+
+Vyriausybė.
+
+35
+
+straipsnis. Valstybinių švietimo įstaigų savivalda
+
+Kiekvienoje
+
+valstybinėje švietimo įstaigoje turi veikti savivaldos institucijos - švietimo
+
+įstaigos taryba ir pedagogų taryba, gali veikti ir kitos savivaldos institucijos.
+
+Savivaldos
+
+institucijos:
+
+1)
+
+aprobuoja švietimo įstaigos nuostatus;
+
+2)
+
+nustato pagrindines švietimo įstaigos finansinės-ūkinės veiklos perspektyvas;
+
+3)
+
+kontroliuoja  švietimo įstaigos finansinę-materialinę veiklą.
+
+Savivaldos
+
+organai pagal savo kompetenciją turi teisę gauti iš administracijos informaciją
+
+apie švietimo įstaigos veiklą.
+
+Valstybinių
+
+švietimo įstaigų savivaldos organų kompetencija apibrėžiama  atitinkamo  tipo
+
+(pakopos)  švietimo  įstaigų bendruosiuose veiklos nuostatuose.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-381, 94.01.20, Žin., 1994, Nr.8-122 (94.01.28)
+
+36
+
+straipsnis. Švietimo įstaigų finansavimas
+
+Pagrindiniai
+
+valstybinių  švietimo  įstaigų  finansavimo šaltiniai yra  savivaldybių ir
+
+Lietuvos Respublikos valstybės biudžetai.  Valstybinis finansavimas užtikrina
+
+normalias šių įstaigų veiklos sąlygas. Kiti jų finansavimo šaltiniai yra
+
+Lietuvos švietimo fondas, miestų ir rajonų švietimo fondai ir švietimo įstaigų
+
+nebiudžetinės lėšos.
+
+Steigiant
+
+bendras  su užsieniu  švietimo institucijas, užsienio kapitalo dydis
+
+neribojamas.
+
+Nevalstybines
+
+švietimo  įstaigas  išlaiko  steigėjai. Nevalstybinėms  švietimo  įstaigoms
+
+valstybinio  standarto išsilavinimą suteikiančioms  programoms  finansuoti
+
+Lietuvos Respublikos Vyriausybės  nustatyta tvarka skiriamos biudžeto lėšos,
+
+kaip atitinkamo profilio valstybinėms švietimo įstaigoms. Lėšų dydis nustatomas
+
+atsižvelgiant į išlaidas, numatytas vienam vaikui, moksleiviui  atitinkamo
+
+profilio valstybinėse ugdymo įstaigose.
+
+Nevalstybinėms
+
+įstaigoms,  kurios  užtikrina  valstybinį standartą  atitinkantį
+
+išsilavinimą,  gali  būti  skiriami biudžetiniai asignavimai Vyriausybės
+
+numatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-381, 94.01.20, Žin., 1994, Nr.8-122 (94.01.28)
+
+37
+
+straipsnis. Švietimo fondai
+
+Lietuvos
+
+švietimo fondo bei apskričių, savivaldybių švietimo fondų sudarymo šaltiniai
+
+yra:
+
+1)
+
+savanoriški asmenų, organizacijų ir įmonių įnašai;
+
+2)
+
+pajamos iš paties fondo veiklos;
+
+3)
+
+užsienio valstybių organizacijų bei piliečių, taip pat tarptautinių
+
+organizacijų  aukojamos lėšos  ir  materialinės vertybės.
+
+Lietuvos
+
+švietimo  fondo nuostatus bei miestų (rajonų) švietimo  fondų  bendruosius
+
+nuostatus  tvirtina  Lietuvos Respublikos Vyriausybė.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-963, 95.06.22, Žin., 1995, Nr.57-1419 (95.07.12)
+
+IV. Tarptautiniai ryšiai
+
+38
+
+straipsnis. Lietuvos gyventojų teisė mokytis ir lietuvių  švietimo  įstaigos
+
+užsienio  valstybėse
+
+Lietuvos
+
+gyventojai turi teisę mokytis užsienio valstybėse.
+
+Ši
+
+teisė  įgyvendinama  asmens  iniciatyva  arba  per tarpvalstybinius
+
+susitarimus.
+
+Lietuvių
+
+švietimo   įstaigos  užsienio   valstybėse organizuojamos bei
+
+finansinė-materialinė parama joms teikiama tarpvalstybiniais susitarimais
+
+nustatyta tvarka.
+
+39
+
+straipsnis.  Užsienio piliečių ir asmenų be pilietybės pedagoginė
+
+veikla ir mokymasis Lietuvos Respublikoje
+
+Užsienio
+
+piliečiai ar asmenys be pilietybės turi teisę dirbti pedagoginį darbą ir
+
+mokytis Lietuvos Respublikoje. Jų mokymosi ir darbo sąlygas Lietuvos švietimo
+
+įstaigose nustato atitinkami Lietuvos Respublikos norminiai aktai bei
+
+tarptautinės sutartys.
 
 34 straipsnis. Lietuvos švietimo taryba
 
@@ -3746,7 +3642,7 @@ RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS
 
 PIRMININKO
 
-PAVADUOTOJAS                               BRONISLOVAS KUZMICKAS
+PAVADUOTOJAS                               BRONISLOVAS KUZMICKAS
 
 Vilnius,
 
