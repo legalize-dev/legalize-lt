@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2001-07-05"
+last_updated: "2001-08-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -335,9 +335,7 @@ Nustatomos šios
 
 savarankiškosios savivaldybių funkcijos:
 
-1)
-
-ikimokyklinis vaikų ugdymas;
+1) ikimokyklinis vaikų ugdymas;
 
 2) vaikų ir
 
@@ -557,9 +555,7 @@ Valstybinės
 
 (perduotos savivaldybėms) funkcijos yra:
 
-1)
-
-civilinės būklės aktų registravimas;
+1) civilinės būklės aktų registravimas;
 
 2) įstatymų
 
@@ -569,9 +565,9 @@ priskirtų registrų tvarkymas ir duomenų teikimas valstybės registrams;
 
 saugos organizavimas;
 
-4)
+4) savivaldybės priešgaisrinių tarnybų
 
-savivaldybės priešgaisrinių tarnybų organizavimas;
+organizavimas;
 
 5) dalyvavimas
 
@@ -1485,11 +1481,11 @@ sprendimą atlikti savivaldybės įstaigų ar savivaldybės kontroliuojamų įmo
 
 tam tikros veiklos nepriklausomą auditą;
 
-38) tvirtina
+38) tvirtina sutarčių
 
-sutarčių pasirašymo tvarką ir nustato, kokios sutartys negali
+pasirašymo tvarką ir nustato, kokios sutartys negali būti
 
-būti sudaromos be išankstinio savivaldybės tarybos pritarimo;
+sudaromos be išankstinio savivaldybės tarybos pritarimo;
 
 39)
 
@@ -2083,11 +2079,11 @@ netekusio mandato tarybos nario, – meras.
 
 tarybos narį persekioti už balsavimą ar pareikštą nuomonę savivaldybės tarybos
 
-ar jos komitetų posėdžiuose. Už asmens įžeidimą ar šmeižtą, už asmens garbę ir
+ar jos komitetų posėdžiuose. Už asmens įžeidimą ar šmeižtą, už asmens garbę ir orumą
 
-orumą žeminančios ir tikrovės neatitinkančios informacijos paskleidimą tarybos
+žeminančios ir tikrovės neatitinkančios informacijos paskleidimą tarybos narys
 
-narys gali būti traukiamas atsakomybėn bendra tvarka.
+gali būti traukiamas atsakomybėn bendra tvarka.
 
 4. Tarybos nario
 
@@ -2111,9 +2107,9 @@ savivaldybės tarybos posėdžiuose;
 
 (be Kontrolės komiteto) komiteto nariu;
 
-3)
+3) dalyvauti komiteto, kurio narys jis
 
-dalyvauti komiteto, kurio narys jis yra, posėdžiuose;
+yra, posėdžiuose;
 
 4) nebalsuoti
 
@@ -2159,9 +2155,9 @@ dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darb
 
 tvarkos ir kt., savivaldybės tarybos posėdžio metu klausti pranešėjus,
 
-pasisakyti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų,
+pasisakyti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės
 
-savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir
+institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir
 
 organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės
 
@@ -2173,9 +2169,9 @@ pasisakyti komitetų ir komisijų posėdžiuose, taip pat valdybos posėdžiuose
 
 kuriuose svarstomi jo pateikti klausimai;
 
-4)
+4) jungtis į frakcijas savivaldybės
 
-jungtis į frakcijas savivaldybės tarybos veiklos reglamento nustatyta tvarka;
+tarybos veiklos reglamento nustatyta tvarka;
 
 5) gauti iš
 
@@ -2735,9 +2731,9 @@ nuostatai.
 
 Seniūnija:
 
-1)
+1) administruoja jai priskirtų viešųjų
 
-administruoja jai priskirtų viešųjų paslaugų teikimą;
+paslaugų teikimą;
 
 2) prireikus
 
@@ -2851,13 +2847,13 @@ tvarka atlieka notarinius ir kitus veiksmus;
 
 galioja iki 2003 m. sausio 1 d.]
 
-4) įrašo duomenis apie piliečių,
+4)
 
-gyvenančių gyvenamosiose vietovėse, kuriose nėra migracijos tarnybų, nuolatinę
+įrašo duomenis apie piliečių, gyvenančių gyvenamosiose vietovėse, kuriose nėra
 
-gyvenamąją vietą į Lietuvos Respublikos piliečio pasą ir gyvenamosios vietos
+migracijos tarnybų, nuolatinę gyvenamąją vietą į Lietuvos Respublikos piliečio
 
-duomenų apskaitos dokumentus
+pasą ir gyvenamosios vietos duomenų apskaitos dokumentus;
 
 5)
 
@@ -2889,15 +2885,13 @@ GYVENAMŲJŲ VIETOVIŲ BENDRUOMENĖMS
 
 32 straipsnis.
 
-Gyvenamosios vietovės bendruomenės atstovo statusas(
+Gyvenamosios vietovės bendruomenės atstovo statusas
 
-)1. Gyvenamosios
+1. Gyvenamosios
 
-vietovės ar kelių gyvenamųjų vietovių (kaimo ar kelių kaimų, miesto arba
+vietovės ar kelių gyvenamųjų vietovių (kaimo ar kelių kaimų, miesto arba miestelio)
 
-miestelio) bendruomenės gyventojai gali išsirinkti bendruomenės atstovą
-
-(atstovus).
+bendruomenės gyventojai gali išsirinkti bendruomenės atstovą (atstovus).
 
 2. Gyvenamosios
 
@@ -3067,9 +3061,9 @@ savivaldybių biudžetų pajamos;
 
 5) savivaldybių biudžetinių įstaigų pajamos už teikiamas paslaugas;
 
-6) pajamos už savivaldybių lėšų likučius einamosiose
+6) pajamos už
 
-sąskaitose;
+savivaldybių lėšų likučius einamosiose sąskaitose;
 
 7) pajamos, gautos Vyriausybės nustatyta tvarka paskirsčius lėšas už
 
@@ -3079,7 +3073,9 @@ parduotus ir išnuomotus ne žemės ūkio paskirčiai valstybinės žemės sklyp
 
 9) kitos įstatymų nustatytos pajamos;
 
-10) negrąžintina finansinė parama (piniginės lėšos);
+10) negrąžintina
+
+finansinė parama (piniginės lėšos);
 
 11)
 
@@ -3277,9 +3273,9 @@ VIENUOLIKTASIS
 
 SKIRSNIS
 
-SAVIVALDYBIŲ
+SAVIVALDYBIŲ TEISINĖS
 
-TEISINĖS GARANTIJOS IR ADMINISTRACINĖ PRIEŽIŪRA
+GARANTIJOS IR ADMINISTRACINĖ PRIEŽIŪRA
 
 40 straipsnis.
 
@@ -3351,11 +3347,11 @@ nustatyta tvarka prižiūri Vyriausybės skiriami pareigūnai – Vyriausybės
 
 atstovai.
 
-2. Piliečių
+2. Piliečių skundus dėl savivaldybės pareigūnų
 
-skundus dėl savivaldybės tarnautojų piktnaudžiavimo ar biurokratizmo tiria
+piktnaudžiavimo ar biurokratizmo tiria Seimo kontrolieriai, kurių įgaliojimus
 
-Seimo kontrolieriai.
+nustato Seimo kontrolierių įstatymas.
 
 3. Savivaldybės
 
@@ -3371,6 +3367,16 @@ funkcijų ir teisių apribojimus, kai skelbiama karo ir (ar) nepaprastoji
 
 padėtis, nustato atitinkami įstatymai.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-482,
+
+2001-08-02, Žin., 2001, Nr. 71-2515 (2001-08-17)
+
 DVYLIKTASIS
 
 SKIRSNIS
@@ -3379,9 +3385,9 @@ SAVIVALDYBIŲ
 
 ATRIBUTIKA IR RAŠTVEDYBA
 
-42 straipsnis. Savivaldybių
+42 straipsnis.
 
-atributika
+Savivaldybių atributika
 
 1.
 
@@ -3395,9 +3401,11 @@ atributiką ir jos naudojimo tvarką reglamentuoja Savivaldybių atributikos
 
 3. Savivaldybių
 
-herbai yra savivaldybių nuosavybė ir Savivaldybių atributikos įstatymo nenumatytais
+herbai yra savivaldybių nuosavybė ir Savivaldybių atributikos įstatymo
 
-atvejais gali būti naudojami tik savivaldybių tarybų leidimu.
+nenumatytais atvejais gali būti naudojami tik savivaldybių tarybų
+
+leidimu.
 
 4.
 
@@ -3647,9 +3655,9 @@ VIII-929,
 
 LIETUVOS
 
-RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 15 IR 18 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 15 IR 18 STRAIPSNIŲ PAKEITIMO IR
 
-ĮSTATYMAS
+PAPILDYMO ĮSTATYMAS
 
 14.
 
@@ -3697,11 +3705,31 @@ PAPILDYMO ĮSTATYMAS
 
 įstatymo 1 ir 3 straipsniai galioja iki Gyvenamosios vietos deklaravimo
 
-įstatymo įsigaliojimo (2003-01-01).
+įstatymo įsigaliojimo,
 
-*** Pabaiga ***
+t. y. 2003 m. sausio 1 d.
 
-Redagavo: Angonita Rupšytė (2001-07-25)
+17.
 
-anrups@lrs.lt
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-482,
+
+2001-08-02, Žin., 2001, Nr. 71-2515 (2001-08-17)
+
+VIETOS
+
+SAVIVALDOS ĮSTATYMO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2001-08-17)
+
+autrap@lrs.lt
 
