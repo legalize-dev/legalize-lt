@@ -4,7 +4,7 @@ identifier: "TAR.D00D08A48D5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2000-01-05"
+last_updated: "2000-10-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D00D08A48D5D"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatymas
 
-Suvestinė redakcija nuo 2000-01-05 iki 2000-10-24
+Suvestinė redakcija nuo 2000-10-25 iki 2004-04-15
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2696, i. k. 0961010ISTA00I-1626
 
@@ -136,11 +136,13 @@ KOMERCINIŲ SANDORIŲ UŽDRAUDIMAS
 
 10 straipsnis. Komercinių sandorių neleistinumas
 
-1. Gyvo ar mirusio žmogaus audiniai ir organai negali būti civilinių sandorių objektas. Šis reikalavimas netaikomas Lietuvos Respublikos tarptautinėms sutartims dėl pasikeitimo organais transplantacijos tikslams.
+1. Gyvo ar mirusio žmogaus audiniai ir organai negali būti civilinių komercinių sandorių objektas. Audinių ir organų, skirtų transplantacijai, įvežimo iš užsienio ir išvežimo į užsienį tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
-2. Juridiniams ir fiziniams asmenims draudžiama imti užmokestį už žmogaus audinius ar organus.
+2. Sveikatos priežiūros įstaigų išlaidos dėl žmogaus audinių ir organų paėmimo, paruošimo ir transportavimo apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto ar valstybės biudžeto lėšų teisės aktų nustatyta tvarka. Žmogaus audinių ir organų, skirtų transplantacijai, kai jie įvežami iš užsienio ar išvežami į užsienį, paruošimo ir transportavimo išlaidos apmokamos Sveikatos apsaugos ministerijos nustatyta tvarka.
 
-3. Sveikatos priežiūros įstaigų išlaidos dėl žmogaus audinių ar organų paėmimo, paruošimo ir transportavimo apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto ar valstybės biudžeto lėšų teisės aktų nustatyta tvarka.
+Straipsnio pakeitimai:
+
+Nr. VIII-1985, 2000-10-10, Žin., 2000, Nr. 89-2749 (2000-10-25), i. k. 1001010ISTAIII-1985
 
 V SKYRIUS
 
@@ -167,6 +169,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1484, 1999-12-21, Žin., 2000, Nr. 1-2 (2000-01-05), i. k. 0991010ISTAIII-1484
 
 Lietuvos Respublikos žmogaus audinių ir organų donorystės ir transplantacijos įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1985, 2000-10-10, Žin., 2000, Nr. 89-2749 (2000-10-25), i. k. 1001010ISTAIII-1985
+
+Lietuvos Respublikos žmogaus audinių ir organų donorystės ir transplantacijos įstatymo 10 straipsnio pakeitimo įstatymas
 
 13 straipsnis. Siūlymas Lietuvos Respublikos Vyriausybei
 
