@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "1999-07-09"
+last_updated: "2000-04-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 1999-07-09 iki 2000-04-04
+Suvestinė redakcija nuo 2000-04-05 iki 2000-04-25
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -58,11 +58,15 @@ Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA
 
 3) administracijos, kurios darbuotojus skiria steigėjas, pareigybes;
 
-4) tantjemoms skiriamas lėšas.
+4) neteko galios nuo 2000-04-05.
 
 Papildyta straipsnio punktu:
 
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
 
 3. Valstybės įmonės pavadinime privalomi žodžiai „valstybės įmonė“, o savivaldybės įmonės – „savivaldybės įmonė“ arba atitinkamos šių žodžių santrumpos – „VĮ“, „SĮ“. Įmonės pavadinimas turi atitikti Lietuvos Respublikos Vyriausybės patvirtintų Firmų vardų nuostatų reikalavimus. Ginčus dėl įmonės pavadinimo sprendžia teismas.
 
@@ -226,11 +230,13 @@ Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010IST
 
 11 straipsnis. Valdyba
 
-1. Valdyba įmonėje sudaroma steigėjo sprendimu. Valdybos narių skaičius, jos pareigos, teisės, atsakomybė nustatoma įmonės įstatuose. Valdybos narių darbui valdyboje apmokėti steigėjo sprendimu gali būti skiriamos tantjemos iš grynojo pelno. Šios tantjemos pervedamos tai valstybės institucijai ar savivaldybei, kuri deleguoja valdininkus į įmonės valdybą. Administracijos vadovo darbas valdyboje taip pat apmokamas iš tantjemų.
+1. Valdyba įmonėje sudaroma steigėjo sprendimu. Valdybos narių skaičius, jos pareigos, teisės, atsakomybė nustatoma įmonės įstatuose.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+
+Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
 
 2. Valdyba yra kolegialus organas, jos veiklai vadovauja pirmininkas. Valdybos pirmininku negali būti administracijos vadovas. Valdybos darbo tvarką nustato jos priimtas valdybos darbo reglamentas.
 
@@ -370,11 +376,13 @@ V SKIRSNIS
 
 3) atskaitymams į įmonės pelno rezervą.
 
-3. Likusi pelno dalis steigėjo nustatytu santykiu skiriama įmonės įstatiniam kapitalui didinti ir ne mažiau kaip 25 procentai – kitoms reikmėms (premijoms, tantjemoms, socialinėms ir kultūrinėms priemonėms ir kt. finansuoti bei rezervams sudaryti).
+3. Likusi pelno dalis steigėjo nustatytu santykiu skiriama įmonės įstatiniam kapitalui didinti ir ne mažiau kaip 25 procentai - kitoms reikmėms (premijoms, socialinėms ir kultūrinėms priemonėms finansuoti bei rezervams sudaryti).
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+
+Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
 
 4. Kol įmonė nesumoka įstatymų nustatytų mokesčių, ji neturi teisės naudoti pelno kitiems tikslams. Premijos įmonės darbuotojams gali būti išmokamos kiekvieną ketvirtį, jeigu gauta pakankamai pelno. Draudžiama iš pelno mokėti premijas darbuotojams, jeigu per nustatytus terminus neatsiskaityta su kreditoriais.
 
@@ -597,4 +605,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
 
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 5, 11, 19 straipsnių pakeitimo ir papildymo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 11 ir 18 straipsnių pakeitimo įstatymas
 
