@@ -4,7 +4,7 @@ identifier: "TAR.A7991130B5FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-07-04"
-last_updated: "1997-04-09"
+last_updated: "1997-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7991130B5FA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Po 1997 m. gruodžio 1 d. lieka galioti objektų p
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1997-04-09 iki 1997-07-03
+Suvestinė redakcija nuo 1997-07-04 iki 1997-11-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1530, i. k. 0951010ISTA00I-1001
 
@@ -240,7 +240,13 @@ Privatizavimo komisija neigiamą sprendimą šio straipsnio nurodytais atvejais 
 
 3) teikti paskoloms (kreditams) už palūkanas smulkiam ir vidutiniam verslui skatinti ir kitoms investicijoms į Lietuvos ūkį;
 
-4) išlaidoms, susijusioms su šiame įstatyme nustatytų Privatizavimo komisijos, taip pat Privatizavimo agentūros ir įmonės steigėjo techniniu aprūpinimu, privatizavimo srityje dirbančių darbuotojų skatinimu, Informacinio privatizavimo biuletenio leidimu bei kitų šiame įstatyme nustatytų funkcijų įgyvendinimu, padengti.
+4) išlaidoms, susijusioms su šiame įstatyme nustatytų Privatizavimo komisijos, taip pat Privatizavimo agentūros ir įmonės steigėjo techniniu aprūpinimu, privatizavimo srityje dirbančių darbuotojų skatinimu, Informacinio privatizavimo biuletenio leidimu bei kitų šiame įstatyme nustatytų funkcijų įgyvendinimu, padengti;
+
+5) fondui bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti.
+
+Papildyta straipsnio punktu:
+
+Nr. VIII-269, 1997-06-17, Žin., 1997, Nr. 64-1499 (1997-07-04), i. k. 0971010ISTAVIII-269
 
 4. Privatizavimo fondo lėšos naudojamos pagal sąmatą, kurią kiekvieną metų ketvirtį Finansų ministerijos teikimu tvirtina Lietuvos Respublikos Vyriausybė. Vyriausybė nustato ir Privatizavimo fondo lėšų apskaitos ir naudojimo tvarką.
 
@@ -485,4 +491,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-154, 1997-03-25, Žin., 1997, Nr. 30-710 (1997-04-09), i. k. 0971010ISTAVIII-154
 
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 4 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-269, 1997-06-17, Žin., 1997, Nr. 64-1499 (1997-07-04), i. k. 0971010ISTAVIII-269
+
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10 straipsnio papildymo įstatymas
 
