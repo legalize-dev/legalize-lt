@@ -4,7 +4,7 @@ identifier: "TAR.11A8B08A7405"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-01-18"
-last_updated: "1997-04-09"
+last_updated: "1999-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 1997-04-09 iki 1999-11-30
+Suvestinė redakcija nuo 1999-12-01 iki 2000-08-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
 
@@ -54,7 +54,11 @@ Kardomojo kalinimo (suėmimo) pagrindus nustato Baudžiamojo proceso kodeksas.
 
 2. Tardymo izoliatoriuje vienu metu leidžiama laikyti ne daugiau kaip vieną tūkstantį kalinamųjų.
 
-3. Prireikus atlikti tardymo veiksmus suimti asmenys gali būti uždaryti į policijos areštines, tačiau ne ilgiau kaip dešimčiai parų.
+3. Asmenys, kuriems paskirtas kardomasis kalinimas (suėmimas), gali būti uždaryti į policijos areštines, tačiau ne ilgiau kaip penkiolikai parų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
 
 6 straipsnis. Kardomojo kalinimo vietose laikomi asmenys
 
@@ -540,7 +544,7 @@ SĄRAŠAS
 
 1. Daiktai, gaminiai ir medžiagos, išimtos iš civilinės apyvartos.
 
-2. Visų rūšių šaunamieji ir nešaunamieji ginklai, šaudmenys bei sprogmenys, dujų balionėliai, žiebtuvėliai.
+2. Visų rūšių šaunamieji ir nešaunamieji ginklai, šaudmenys bei sprogmenys, dujų balionėliai.
 
 3. Visų rūšių transporto priemonės.
 
@@ -548,13 +552,13 @@ SĄRAŠAS
 
 5. Optiniai prietaisai.
 
-6. Magnetofonai, videomagnetofonai, kompiuteriai, telefonai.
+6. Magnetofonai, videomagnetofonai, kompiuteriai (išskyrus kompiuterinių žaidimų aparatus), telefonai.
 
 7. Rankiniai ir kišeniniai laikrodžiai iš brangiųjų metalų.
 
 8. Visų rūšių alkoholiniai gėrimai, kvepalai, odekolonai ir kiti gaminiai, kurių sudėtyje yra spirito.
 
-9. Narkotikai, toksinės priemonės ir stipriai veikiantys medikamentai, medicininės paskirties daiktai.
+9. Narkotikai, toksinės priemonės ir stipriai veikiantys medikamentai, taip pat nesant gydytojo leidimo – medicininės paskirties daiktai.
 
 10. Spausdinimo mašinėlės, dauginimo ir kopijavimo aparatai.
 
@@ -566,13 +570,17 @@ SĄRAŠAS
 
 14. Fotoaparatai, fotomedžiagos, chemikalai.
 
-15. Dokumentai (išskyrus įstatymų tekstus, teismų nuosprendžių, nutarčių ir nutarimų nuorašus, atiduotų saugoti pinigų, vertingų daiktų kvitus).
+15. Dokumentai (išskyrus įstatymų ir kitų teisės aktų, skelbiamų „Valstybės žiniose“, tekstus, teismų nuosprendžių, nutarčių ir nutarimų nuorašus, atiduotų saugoti pinigų, vertingų daiktų kvitus).
 
 16. Topografiniai žemėlapiai, kompasai.
 
 17. Karinė ir kitokia uniforma, jos reikmenys.
 
-18. Spalvoti pieštukai, flamasteriai, visų spalvų dažai, kopijavimo popierius.
+18. Kopijavimo popierius.
+
+Priedo pakeitimai:
+
+Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
 
 1996 m. sausio 18 d.
 
@@ -621,4 +629,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. 0971010ISTAVIII-151
 
 Lietuvos Respublikos kardomojo kalinimo įstatymo 32 ir 33 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
+
+Lietuvos Respublikos kardomojo kalinimo įstatymo 5 straipsnio ir 1 priedėlio pakeitimo įstatymas
 
