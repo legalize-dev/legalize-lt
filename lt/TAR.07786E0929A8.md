@@ -4,7 +4,7 @@ identifier: "TAR.07786E0929A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-18"
-last_updated: "2001-11-09"
+last_updated: "2002-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ X skirsnis įsigalioja pradėjus galioti Lietuvos Respublikos Vyriausybės ir Eu
 ---
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2001-11-09 iki 2005-07-13
+Suvestinė redakcija nuo 2002-01-01 iki 2005-07-13
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
 
@@ -792,4 +792,34 @@ Gaminiams, kurių importas į Lietuvos Respubliką ir eksportas iš jos laikytin
 Papildyta straipsniu:
 
 Nr. IX-118, 2000-12-21, Žin., 2000, Nr. 113-3612 (2000-12-30), i. k. 1001010ISTA00IX-118
+
+271 straipsnis Papildomos apsaugos liudijimas
+
+Patento savininkui ar jo teisių perėmėjui ne ilgesniam kaip penkerių metų laikotarpiui gali būti išduotas papildomos apsaugos liudijimas (toliau – liudijimas), jei teisinė apsauga suteikta:
+
+1) vaisto veikliosioms medžiagoms;
+
+2) augalų apsaugos priemonės veikliosioms medžiagoms.
+
+Liudijimas išduodamas, jeigu patento savininkas ar jo teisių perėmėjas Valstybiniam patentų biurui pateikia paraišką liudijimui gauti. Paraišką sudaro šie dokumentai:
+
+1) prašymas išduoti liudijimą;
+
+2) vaisto ar augalų apsaugos priemonės registravimo liudijimo, pirmą kartą suteikiančio teisę prekiauti vaistu ar augalų apsaugos priemone, kopija;
+
+3) dokumentas, patvirtinantis, kad sumokėtas nustatytas mokestis.
+
+Paraiška liudijimui gauti turi būti paduota Valstybiniam patentų biurui iki patento galiojimo pabaigos dienos, bet ne vėliau kaip per 6 mėnesius nuo vaisto ar augalų apsaugos priemonės registravimo liudijimo išdavimo arba per 6 mėnesius nuo patento išdavimo, jei patentas buvo išduotas vėliau. Paraiškos dokumentams taikomus reikalavimus, paraiškos nagrinėjimo, liudijimo išdavimo ir galiojimo tvarką nustato Valstybinis patentų biuras. Apie paraiškos liudijimui gauti padavimą, liudijimo išdavimą bei galiojimo pabaigą Valstybinis patentų biuras skelbia savo oficialiame biuletenyje. Į Lietuvos Respublikos patentų registrą įrašomi duomenys apie liudijimo išdavimą ir galiojimą.
+
+Išduotas liudijimas įsigalioja pasibaigus patento galiojimo terminui ir galioja tiek laiko, kiek susidaro iš laiko nuo patentinės paraiškos padavimo dienos iki vaisto ar augalų apsaugos priemonės registravimo liudijimo išdavimo dienos atėmus penkerius metus, bet ne ilgiau kaip penkerius metus nuo liudijimo įsigaliojimo dienos. Liudijimo galiojimas priklauso nuo nustatyto metų mokesčio mokėjimo.
+
+TAR pastaba. 3 dalies nuostatos dėl paraiškos liudijimui gauti padavimo laikotarpio netaikomos Lietuvos Respublikoje galiojančio patento, kuriam gauti paraiška buvo paduota po 1994 m. vasario 1 d., savininkui arba jo teisių perėmėjui, jeigu paraiška liudijimui gauti pateikiama per 6 mėnesius nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
+
+Liudijimas savininkui ar jo teisių perėmėjui suteikia visas šio įstatymo nustatytas teises, pareigas bei apribojimus.
+
+Teisinė apsauga, kurią suteikia liudijimas, gali būti taikoma tik tam vaistui ar augalų apsaugos priemonei, dėl kurių išduotas registravimo liudijimas, suteikiantis teisę jais prekiauti, ir neturi viršyti patento suteikiamos teisinės apsaugos.
+
+Papildyta straipsniu:
+
+Nr. IX-568, 2001-10-30, Žin., 2001, Nr. 94-3308 (2001-11-09), i. k. 1011010ISTA00IX-568
 
