@@ -4,7 +4,7 @@ identifier: "TAR.CDC433E7BED2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-07"
-last_updated: "1994-04-28"
+last_updated: "1996-03-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,33 +15,53 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymas
 
-Redaguota: 1994
+@D1=19930707;D2=19960328;D3=19960422
 
-Redaguota:
-
-1994.05.20
+@D1=19930707;D2=19960328;D3=19960422
 
 Pakeitimai:
 
-1. Parlamentas
+1.
 
-, Įstatymas
+Parlamentas,
 
-Nr.1-451,
+Įstatymas
 
-priimtas 94.04.28, Žin., 1994, Nr.34-622
+{#94C[AA0451 ;} Nr.
+
+1-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
 
 DĖL UŽSIENIO
 
-VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO
-
-PAKEITIMOM IR
+VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO PAKEITIMO IR
 
 PAPILDYMO
 
+2.
+
+Parlamentas,
+
+Įstatymas
+
+{#96B[AA1260 ;} Nr.
+
+1-1260, 96.03.28, Žin., 1996, Nr. 35-867 (96.04.19)
+
+LIETUVOS
+
+RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE
+
+ĮSTATYMO 3 IR 5
+
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
 LIETUVOS RESPUBLIKOS
 
-UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE
+UŽSIENIO
+
+VALIUTOS LIETUVOS RESPUBLIKOJE
 
 ĮSTATYMAS
 
@@ -103,21 +123,25 @@ laikyti Lietuvos Respublikos bankuose.
 
 Užsienio valiutos naudojimas
 
-Užsienio
+UŲsienio
 
-valiuta   gali  būti   naudojama  mokėjimams  bei
+valiuta   gali  b×ti  naudojama  mokÓjimams  bei
 
-atsiskaitymams su
+atsiskaitymams  su
 
-užsienio valstybių  juridiniais  ir  fiziniais
+uŲsienio  valstybiÖ  juridiniais ir fiziniais
 
-asmenimis, esančiais
+asmenimis,
 
-ne Lietuvos Respublikoje.
+esanŃiais   ne   Lietuvos   Respublikoje,  taip  pat
+
+laisvosiose
+
+ekonominÓse zonose.
 
 Lietuvos
 
-Respublikos  ir užsienio  valstybių  juridiniai  ir
+Respublikos  ir  užsienio  valstybių juridiniai ir
 
 fiziniai asmenys
 
@@ -141,7 +165,7 @@ banko leidimą.
 
 Užsienio
 
-valiuta,   išskyrus pasirinktąją bazine, perkama ir
+valiuta,  išskyrus pasirinktąją bazine, perkama ir
 
 parduodama rinkos
 
@@ -153,7 +177,17 @@ užsienio  valiuta atlikimo tvarką nustato Lietuvos
 
 bankas.
 
-Pakeitimai: Nr.1-451; 1994.04.28, Žin., 1994, Nr.34-622
+Straipsnio
+
+pakeitimai:
+
+{#94C[AA0451 ;}Nr.
+
+1-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
+
+{#96B[AA1260 ;} Nr.
+
+1-1260, 96.03.28, Žin., 1996, Nr. 35-867 (96.04.19)
 
 4 straipsnis.
 
@@ -193,23 +227,45 @@ nustato  Lietuvos Respublikos  Vyriausybė ir
 
 Lietuvos bankas.
 
-Pakeitimai: Nr.1-451; 1994.04.28, Žin., 1994, Nr.34-622
+Straipsnio
+
+pakeitimas(ai):
+
+{#94C[AA0451 ;}Nr.
+
+1-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
 
 5 straipsnis.
 
-Kapitalo įvežimas ir išvežimas
+Kapitalo ŌveŲimas ir iÕveŲimas
 
-Užsienio
+UŲsienio
 
-kapitalo,   investuojamo  Lietuvos   Respublikoje,
+kapitalo,   investuojamo  Lietuvos  Respublikoje,
 
-įvežimą, taip pat
+ŌveŲimŠ,   taip
 
-šio kapitalo, gauto pelno ir dividendų išvežimą
+pat  Õio  kapitalo,  gauto  pelno  ir  dividendÖ
 
-nustato Užsienio
+iÕveŲimŠ   nustato
 
-investicijų Lietuvos Respublikoje įstatymas.
+UŲsienio   kapitalo   investicijÖ   Lietuvos
+
+Respublikoje
+
+Ōstatymas   ir   Lietuvos   Respublikos   laisvÖjÖ
+
+ekonominiÖ zonÖ
+
+pagrindÖ Ōstatymas.
+
+Straipsnio
+
+pakeitimai:
+
+{#96B[AA1260 ;} Nr.
+
+1-1260, 96.03.28, Žin., 1996, Nr. 35-867 (96.04.19)
 
 6 straipsnis.
 
@@ -221,13 +277,19 @@ Visos įmonės,
 
 tvarkyti apskaitą
 
-pagal oficialų  lito kursą  ir Lietuvos banko
+pagal oficialų  lito kursą  ir Lietuvos  banko
 
 skelbiamą lito ir
 
 užsienio valiutos santykį.
 
-Pakeitimai: Nr.1-451; 1994.04.28, Žin., 1994, Nr.34-622
+Straipsnio
+
+pakeitimas(ai):
+
+{#94C[AA0451 ;}Nr.
+
+1-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
 
 7 straipsnis.
 
@@ -283,9 +345,9 @@ vykdomi Lietuvoje
 
 ir jų terminas baigiasi po 1993 m. rugpjūčio 1
 
-dienos, išskyrus
+dienos, išskyrus  bankų
 
-bankų įsipareigojimus  išmokėti  iš  valiutinių
+įsipareigojimus  išmokėti  iš  valiutinių
 
 sąskaitų indėlius,
 
@@ -313,7 +375,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS            ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
 
 _
 
