@@ -4,7 +4,7 @@ identifier: "TAR.D38B48DC3EF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-06-05"
-last_updated: "2003-07-01"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D38B48DC3EF0"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas
+
+Suvestinė redakcija nuo 2004-05-01 iki 2006-05-05
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 61-2754, i. k. 1031010ISTA0IX-1597
 
 LIETUVOS RESPUBLIKOS ATSISKAITYMŲ BAIGTINUMO MOKĖJIMO IR VERTYBINIŲ POPIERIŲ  ATSISKAITYMO SISTEMOSE ĮSTATYMAS
 
@@ -50,7 +54,11 @@ BENDROSIOS NUOSTATOS
 
 6. Finansinis turtas – Finansų įstaigų įstatyme apibūdintas turtas.
 
-7. Įkaitas – įkeistas finansinis turtas (įskaitant pinigus), taip pat pagal atpirkimo arba panašų sandorį perleistas finansinis turtas teisėms ir įsipareigojimams, galintiems atsirasti dėl naudojimosi sistema, užtikrinti arba pateiktas Lietuvos bankui, valstybių narių centriniams bankams ar Europos centriniam bankui kaip prievolės šiems bankams įvykdymo užtikrinimas.
+7. Įkaitas – įkeistas finansinis turtas (įskaitant pinigus), taip pat pagal atpirkimo arba panašų sandorį perleistas finansinis turtas teisėms ir įsipareigojimams, galintiems atsirasti dėl naudojimosi sistema, užtikrinti arba pateiktas Lietuvos bankui, valstybių narių centriniams bankams ar Europos centriniam bankui kaip prievolės šiems bankams įvykdymo užtikrinimas. Įkaitu pagal šį Įstatymą laikomas ir finansinis užstatas pagal Finansinio užtikrinimo susitarimų įstatymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2128, 2004-04-15, Žin., 2004, Nr. 61-2184 (2004-04-27), i. k. 1041010ISTA0IX-2128
 
 8. Įskaitymas – reikalavimų ir įsipareigojimų, atsirandančių dėl pervedimo nurodymų arba mokėjimo nurodymų, kuriuos sistemos dalyvis turėjo atlikti vienam ar keliems kitiems sistemos dalyviams arba gauti iš jų, sujungimas į vieną grynąjį reikalavimą arba vieną grynąjį įsipareigojimą – tada sistemos dalyvis turi tik vieną grynąjį įsipareigojimą arba tik vienas jo grynasis reikalavimas turi būti padengtas.
 
@@ -206,7 +214,11 @@ OPERACIJŲ SUSTABDYMO IR BANKROTO PROCESO PADARINIŲ APRIBOJIMAS
 
 9 straipsnis. Teisės į įkaitą
 
-1. Jeigu sistemos dalyvis arba Lietuvos banko, valstybių narių centrinių bankų ir Europos centrinio banko sandorio šalis laiku neįvykdo įkaitu užtikrintos prievolės, kitas sistemos dalyvis arba minėti bankai raštu įspėję skolininką turi teisę perimti įkaitą ir jį realizuoti sutartyje numatytu būdu. Ši teisė taikoma neatsižvelgiant į sistemos dalyvio arba Lietuvos banko, valstybių narių centrinių bankų ir Europos centrinio banko sandorio šalies operacijų sustabdymą ir (ar) pradėtą bankroto procesą. Patenkinus įkaitu apsaugotus reikalavimus, likusi suma išmokama įkaito davėjui arba skiriama kitų kreditorių reikalavimams tenkinti.
+1. Jeigu sistemos dalyvis arba Lietuvos banko, valstybių narių centrinių bankų ir Europos centrinio banko sandorio šalis laiku neįvykdo įkaitu užtikrintos prievolės, kitas sistemos dalyvis arba minėti bankai turi teisę perimti įkaitą ir jį realizuoti teisės aktų nustatyta tvarka. Ši teisė taikoma neatsižvelgiant į sistemos dalyvio arba Lietuvos banko, valstybių narių centrinių bankų ir Europos centrinio banko sandorio šalies operacijų sustabdymą ir (ar) pradėtą bankroto procesą. Patenkinus įkaitu apsaugotus reikalavimus, likusi suma išmokama įkaito davėjui arba skiriama kitų kreditorių reikalavimams tenkinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2128, 2004-04-15, Žin., 2004, Nr. 61-2184 (2004-04-27), i. k. 1041010ISTA0IX-2128
 
 2. Jeigu sistemos dalyviams arba Lietuvos bankui, valstybių narių centriniams bankams arba Europos centriniam bankui įkaitu pateikiami vertybiniai popieriai (įskaitant teises į vertybinius popierius) ir šių asmenų arba asmenų, veikiančių jų vardu, teisės į šiuos vertybinius popierius įstatymų nustatyta tvarka yra įregistruotos registre, atitinkamoje sąskaitoje arba centralizuotoje saugojimo sistemoje, esančioje valstybėje narėje, tai šių asmenų, kaip įkaito turėtojų, teises į šiuos vertybinius popierius nustato tos valstybės narės teisė.
 
@@ -253,4 +265,14 @@ priedas
 Europos Parlamento ir Tarybos 1998 m. gegužės 19 d. direktyva 98/26/EB „Dėl atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose“.
 
 ______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2128, 2004-04-15, Žin., 2004, Nr. 61-2184 (2004-04-27), i. k. 1041010ISTA0IX-2128
+
+Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 2 ir 9 straipsnių pakeitimo įstatymas
 
