@@ -4,7 +4,7 @@ identifier: "TAR.983975D33B37"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-09-27"
-last_updated: "1994-11-03"
+last_updated: "2003-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.983975D33B37"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,277 +17,153 @@ document_status: "registruotas TA registre"
 
 @D1=19900927;D2=19941117;
 
-@D1=19900927;D2=19941117;
+Įstatymas skelbtas: Žin., 1990, Nr. 30-711
 
-Redaguota:1994 11 17
+Neoficialus įstatymo tekstas
 
-g
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos1994 11 03
-
-įstatymas Nr.1-624,
-
-Žin., 1994, Nr.
-
-88-1667
-
-DĖL LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ
-
-PAJAMŲ GARANTIJŲ
-
-ĮSTATYMO PAKEITIMO
-
-LIETUVOS
-
-RESPUBLIKOS
+LIETUVOS RESPUBLIKOS
 
 GYVENTOJŲ PAJAMŲ GARANTIJŲ
 
 Į S T A T Y M A S
 
-Šis įstatymas
+Šis įstatymas nustato gyventojų pajamų rėmimo
 
-nustato  gyventojų  pajamų  rėmimo  principus
+principus atsižvelgiant į minimalų gyvenimo lygį ir kainų dinamiką.Įstatyme
 
-atsižvelgiant į
+numatytos garantijos taikomos Lietuvos Respublikos piliečiams, taip pat
 
-minimalų gyvenimo lygį ir kainų dinamiką.Įstatyme
+Lietuvoje nuolatos gyvenantiems užsienio piliečiams ir asmenims be pilietybės,
 
-numatytos
+jeigu kitaip nenumatyta Lietuvos Respublikos įstatymuose ir tarpvalstybinėse
 
-garantijos  taikomos Lietuvos  Respublikos  piliečiams,
+sutartyse.
 
-taip pat  Lietuvoje
-
-nuolatos  gyvenantiems užsienio piliečiams ir
-
-asmenims  be
-
-pilietybės,  jeigu   kitaip  nenumatyta   Lietuvos
-
-Respublikos
-
-įstatymuose ir tarpvalstybinėse sutartyse.
-
-I SKYRIUS.
-
-PAGRINDINĖS SĄVOKOS
+I SKYRIUS. PAGRINDINĖS SĄVOKOS
 
 1 straipsnis.
 
-Šiame įstatyme:
+Šiame
+
+įstatyme:
 
 darbo
 
-apmokėjimas (naudojamas pajamų indeksavimui) laikinis,
-
-vienetinis darbo
+apmokėjimas (naudojamas pajamų indeksavimui) laikinis, vienetinis darbo
 
 užmokestis ir pareiginės algos;
 
 indeksavimas
 
--   nominaliųjų   pajamų   ar   jų   normatyvų
+- nominaliųjų pajamų ar jų normatyvų perskaičiavimas, siekiant visiškai ar iš
 
-perskaičiavimas,
-
-siekiant  visiškai ar  iš dalies kompensuoti dėl
-
-prekių ir paslaugų
-
-kainų pokyčių prarastas pajamas;
+dalies kompensuoti dėl prekių ir paslaugų kainų pokyčių prarastas pajamas;
 
 minimalus
 
-gyvenimo lygis (MGL) - tai šeimos mėnesinių pajamų
+gyvenimo lygis (MGL) - tai šeimos mėnesinių pajamų suma, tenkanti vienam žmogui
 
-suma, tenkanti  vienam
+per mėnesį ir garantuojanti visiems minimalų socialiai priimtiną poreikių
 
-žmogui per mėnesį ir garantuojanti visiems
+patenkinimo lygį, atitinkantį organizmo maisto poreikius pagal fiziologines
 
-minimalų
+normas, taip pat minimalius drabužių, avalynės, baldų, ūkinių, sanitarijos ir
 
-socialiai   priimtiną   poreikių   patenkinimo   lygį,
+higienos reikmenų, buto, komunalinių, buitinių,transporto, ryšių, kultūros ir
 
-atitinkantį
+švietimo paslaugų poreikius;
 
-organizmo maisto poreikius pagal fiziologines normas,
+pajamos
 
-taip  pat
+- visos šeimos nominaliosios pajamos (darbo apmokėjimas kartu su premijomis,
 
-minimalius   drabužių,   avalynės,   baldų,   ūkinių,
+honorarai, pensijos, stipendijos, pašalpos, pajamos iš asmeninio pagalbinio
 
-sanitarijos   ir
+ūkio bei individualios veiklos, pajamos iš asmeninio turto, palūkanos,
 
-higienos   reikmenų,    buto,    komunalinių,
+dividendai ir kt.), taip pat natūrinių pajamų, gaunamų darbovietėje nemokamai
 
-buitinių,transporto,
+arba lengvatinėmis sąlygomis, piniginis įvertinimas galiojančiomis mažmeninėmis
 
-ryšių,   kultūros  ir   švietimo   paslaugų
-
-poreikius;
-
-pajamos  -
-
-visos  šeimos   nominaliosios  pajamos   (darbo
-
-apmokėjimas
-
-kartu    su   premijomis,    honorarai,   pensijos,
-
-stipendijos,
-
-pašalpos,  pajamos iš  asmeninio pagalbinio ūkio bei
-
-individualios
-
-veiklos,  pajamos iš  asmeninio  turto,  palūkanos,
-
-dividendai  ir
-
-kt.),  taip   pat  natūrinių   pajamų,   gaunamų
-
-darbovietėje
-
-nemokamai  arba lengvatinėmis  sąlygomis,  piniginis
-
-įvertinimas
-
-galiojančiomis mažmeninėmis kainomis;
+kainomis;
 
 remiamos
 
-pajamos  - apskaičiuojamos  vienam  šeimos  nariui,
+pajamos - apskaičiuojamos vienam šeimos nariui, atskaitant iš pajamų privalomus
 
-atskaitant iš pajamų
+mokėjimus ir neįskaitant pagal šį įstatymą išmokėtos socialinės pašalpos,
 
-privalomus mokėjimus ir neįskaitant pagal šį
+kompensacinių išmokų (išskyrus šio įstatymo numatytus atvejus), taip pat visų
 
-įstatymą  išmokėtos
+rūšių draudimo pajamų, išskyrus laikino nedarbingumo pašalpas;
 
-socialinės  pašalpos,  kompensacinių  išmokų
+1 straipsnio 6 pastraipa
 
-(išskyrus šio
+netenka galios nuo 2004 m. sausio 1 d.
 
-įstatymo numatytus  atvejus), taip  pat visų rūšių
+šeima
 
-draudimo pajamų,
+- socialinės paramos požiūriu kaip atskira šeima traktuojami sutuoktiniai,
 
-išskyrus laikino nedarbingumo pašalpas;
+sugyventiniai, našliai nepriklausomai nuo to, ar jie turi vaikų (išlaikytinių),
 
-šeima -
+ar neturi, globėjai su globotiniais ir vieniši asmenys. Pensininkai traktuojami
 
-socialinės  paramos  požiūriu  kaip  atskira  šeima
+kaip atskira šeima nepriklausomai nuo to, ar gyvena atskirai, ar savo vaikų
 
-traktuojami
+(globotinių) šeimose. Viengungiai studentai traktuojami kaip jų tėvų (globėjų)
 
-sutuoktiniai,  sugyventiniai, našliai  nepriklausomai
+šeimos nariai. Būtinosios karinės tarnybos kariai, pensionatuose ir kitose
 
-nuo to,  ar jie turi
+įstaigose valstybės išlaikomi vaikai, įkalinimo įstaigose bausmę atliekantys
 
-vaikų (išlaikytinių), ar neturi, globėjai su
+asmenys į šeimos sudėtį neįskaitomi.
 
-globotiniais ir
+Straipsnio pakeitimai:
 
-vieniši asmenys.  Pensininkai  traktuojami  kaip
+Nr. I-624,
 
-atskira šeima
+1994 11 03, Žin., 1994, Nr. 88-1667
 
-nepriklausomai nuo to, ar gyvena atskirai, ar savo
+Nr. IX-1675,
 
-vaikų (globotinių)
+2003-07-01, Žin., 2003, Nr. 73-3352 (2003-07-23)
 
-šeimose.  Viengungiai  studentai  traktuojami
+II SKYRIUS. MINIMALUS GYVENIMO LYGIS IR
 
-kaip jų tėvų
-
-(globėjų) šeimos nariai. Būtinosios karinės tarnybos
-
-kariai,
-
-pensionatuose  ir kitose  įstaigose  valstybės  išlaikomi
-
-vaikai, įkalinimo
-
-įstaigose bausmę  atliekantys asmenys į šeimos
-
-sudėtį neįskaitomi.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos1994 11 03
-
-įstatymas
-
-Nr.1-624,
-
-Žin., 1994, Nr.
-
-88-1667
-
-II SKYRIUS.
-
-MINIMALUS GYVENIMO LYGIS
-
-IR PAJAMŲ INDEKSAVIMAS
+PAJAMŲ INDEKSAVIMAS
 
 2 straipsnis.
 
-Minimalų  gyvenimo
+Minimalų
 
-lygį  tvirtina   Lietuvos   Respublikos
+gyvenimo lygį tvirtina Lietuvos Respublikos Aukščiausioji Taryba Vyriausybės
 
-Aukščiausioji
+teikimu ne rečiau kaip kas penkeri metai.
 
-Taryba  Vyriausybės  teikimu  ne  rečiau  kaip  kas
+Minimalų
 
-penkeri metai.
-
-Minimalų darbo
-
-apmokėjimą ir  minimalias  pensijas  nustato
-
-atskiri įstatymai.
+darbo apmokėjimą ir minimalias pensijas nustato atskiri įstatymai.
 
 3 straipsnis.
 
-Indeksavimo pagrindas
+Indeksavimo
 
-- suvestinis vartojimo kainų indeksas,
+pagrindas - suvestinis vartojimo kainų indeksas, kurį skaičiuoja ir ne rečiau
 
-kurį  skaičiuoja
+kaip kas ketvirtį skelbia Statistikos departamentas prie Lietuvos Respublikos
 
-ir  ne   rečiau  kaip   kas  ketvirtį  skelbia
-
-Statistikos
-
-departamentas prie Lietuvos Respublikos Vyriausybės.
+Vyriausybės.
 
 4 straipsnis.
 
 Minimalus
 
-gyvenimo  lygis indeksuojamas  paprastai tuo pačiu
+gyvenimo lygis indeksuojamas paprastai tuo pačiu dažnumu, kuriuo Statistikos
 
-dažnumu, kuriuo
+departamentas skaičiuoja ir skelbia vartojimo kainų indeksą, bet ne rečiau kaip
 
-Statistikos departamentas  skaičiuoja ir skelbia
-
-vartojimo kainų
-
-indeksą, bet  ne rečiau  kaip kartą  per  metus.
-
-Minimalų
-
-gyvenimo    lygį   indeksuoja    Socialinės   apsaugos
+kartą per metus. Minimalų gyvenimo lygį indeksuoja Socialinės apsaugos
 
 ministerija.
 
@@ -295,25 +171,13 @@ ministerija.
 
 Pastovios
 
-išmokos  (stipendijos, algos, pensijos, socialinės
+išmokos (stipendijos, algos, pensijos, socialinės pašalpos) bei minimalus darbo
 
-pašalpos) bei
+apmokėjimas indeksuojami kaip ir minimalus gyvenimo lygis. Darbo užmokestis
 
-minimalus darbo  apmokėjimas indeksuojami  kaip ir
+visose pelno siekiančiose įmonėse indeksuojamas, jeigu tai numatyta darbo arba
 
-minimalus
-
-gyvenimo   lygis.  Darbo   užmokestis   visose   pelno
-
-siekiančiose įmonėse
-
-indeksuojamas, jeigu tai numatyta darbo arba
-
-kolektyvinėse
-
-(samdos)   sutartyse.  Vienkartinės   pajamos  bei
-
-pajamos iš
+kolektyvinėse (samdos) sutartyse. Vienkartinės pajamos bei pajamos iš
 
 nuosavybės neindeksuojamos.
 
@@ -321,193 +185,121 @@ nuosavybės neindeksuojamos.
 
 Remiantis
 
-indeksavimu    nustatytos   prarastos    pajamos
+indeksavimu nustatytos prarastos pajamos kompensuojamos. Jos kompensuojamos tuo
 
-kompensuojamos. Jos
+pačiu dažnumu, kuriuo ir indeksuojamos, jeigu vartojimo kainų indeksas didesnis
 
-kompensuojamos tuo  pačiu dažnumu, kuriuo ir
+negu 1,1 skaičiuojant nuo paskutinio kompensavimo. Prarastos pajamos
 
-indeksuojamos,
+kompensuojamos iš tų lėšų, iš kurių išmokamos atitinkamos pajamos. Ginčai dėl
 
-jeigu  vartojimo kainų  indeksas didesnis negu 1,1
-
-skaičiuojant  nuo
-
-paskutinio  kompensavimo.  Prarastos  pajamos
-
-kompensuojamos  iš
-
-tų  lėšų,  iš  kurių  išmokamos  atitinkamos
-
-pajamos. Ginčai  dėl
-
-neišmokėtų kompensacijų sprendžiami teismine
-
-tvarka.
+neišmokėtų kompensacijų sprendžiami teismine tvarka.
 
 7 straipsnis.
 
 Vyriausybė
 
-gali  laikinai, bet  ne ilgiau  kaip 6  mėnesius,
-
-neleisti mokėti
-
-kompensacijų.
+gali laikinai, bet ne ilgiau kaip 6 mėnesius, neleisti mokėti kompensacijų.
 
 8 straipsnis.
 
 Kompensacijų
 
-dydis  nustatomas,  atsižvelgiant  į  minimalų
+dydis nustatomas, atsižvelgiant į minimalų gyvenimo lygį, kompensuojamų bei
 
-gyvenimo  lygį,
+prarastų pajamų dydį ir kompensacijos normą, apibūdinančią prarastų pajamų
 
-kompensuojamų  bei   prarastų  pajamų  dydį  ir
-
-kompensacijos normą,
-
-apibūdinančią prarastų pajamų dalį.
+dalį.
 
 Pastovių
 
-išmokų,  mažesnių  ir  lygių  minimaliam  gyvenimo
+išmokų, mažesnių ir lygių minimaliam gyvenimo lygiui, apskaičiuotam po
 
-lygiui,
+indeksavimo, prarastas dydis kompensuojamas visiškai, t.y. kompensacijos norma
 
-apskaičiuotam    po   indeksavimo,    prarastas   dydis
-
-kompensuojamas
-
-visiškai, t.y. kompensacijos norma lygi vienetui.
+lygi vienetui.
 
 Pastovių
 
-išmokų,   didesnių  už   minimalų  gyvenimo  lygį,
+išmokų, didesnių už minimalų gyvenimo lygį, apskaičiuotą po indeksavimo,
 
-apskaičiuotą po
+prarastas dydis kompensuojamas pagal mažėjančią prarastų pajamų kompensacijos
 
-indeksavimo, prarastas dydis kompensuojamas pagal
-
-mažėjančią prarastų
-
-pajamų kompensacijos normą.
+normą.
 
 Vyriausybė
 
-nustato  nekompensuojamų  pastovių  išmokų  lygį,
+nustato nekompensuojamų pastovių išmokų lygį, kuriam esant kompensacijos norma
 
-kuriam esant
+lygi nuliui. Pagal mažėjančią kompensacijos normą Vyriausybė privalo
 
-kompensacijos norma  lygi nuliui.  Pagal mažėjančią
+kompensuoti ne mažesnes kaip trijų vidutinių minimalaus gyvenimo lygių,
 
-kompensacijos normą
-
-Vyriausybė privalo  kompensuoti ne  mažesnes
-
-kaip trijų
-
-vidutinių minimalaus  gyvenimo lygių, apskaičiuotų po
-
-indeksavimo,
-
-pastovias išmokas.
+apskaičiuotų po indeksavimo, pastovias išmokas.
 
 9 straipsnis.
 
 Darbo
 
-užmokesčio  paprastas dydis  įmonėse kompensuojamas ta
+užmokesčio paprastas dydis įmonėse kompensuojamas ta pačia tvarka kaip ir
 
-pačia tvarka  kaip
+pastovios išmokos, jeigu tai numatyta darbo arba kolektyvinėse (samdos)
 
-ir pastovios išmokos, jeigu tai numatyta darbo
+sutartyse. Darbo užmokesčio prarastas dydis susidaro, kai vartojimo kainų
 
-arba kolektyvinėse
+indeksas viršija vidutinio darbo užmokesčio didėjimo konkrečioje įmonėje
 
-(samdos) sutartyse. Darbo užmokesčio prarastas
+tempus. Šį viršijimą dauginant iš bazinio konkretaus darbo užmokesčio dydžio,
 
-dydis susidaro,  kai
+gaunamas darbo užmokesčio prarastas dydis.
 
-vartojimo  kainų indeksas  viršija vidutinio
+III SKYRIUS. SOCIALINĖ PAŠALPA
 
-darbo  užmokesčio
-
-didėjimo  konkrečioje   įmonėje  tempus.   Šį
-
-viršijimą
-
-dauginant   iš  bazinio  konkretaus  darbo  užmokesčio
-
-dydžio, gaunamas
-
-darbo užmokesčio prarastas dydis.
-
-III SKYRIUS.
-
-SOCIALINĖ
-
-PAŠALPA
-
-10 straipsnis
+10 straipsnis.
 
 Šeimai,
 
-kurios  pajamos  mažesnės  už  valstybės  remiamas,
-
-mokama socialinė
-
-pašalpa.
+kurios pajamos mažesnės už valstybės remiamas, mokama socialinė pašalpa.
 
 Socialinė
 
-pašalpa  šeimai sudaro  90 procentų  skirtumo tarp
+pašalpa šeimai sudaro 90 procentų skirtumo tarp valstybės remiamų pajamų šeimai
 
-valstybės remiamų
+dydžio ir vidutinių mėnesinių šeimos pajamų.
 
-pajamų šeimai  dydžio ir  vidutinių  mėnesinių
+10 straipsnio 1 ir 2 dalys
 
-šeimos pajamų.
+netenka galios nuo 2004 m. sausio 1 d.
 
 Lietuvos
 
-Respublikos Vyriausybė Socialinės apsaugos ir darbo
-
-ministerijos teikimu
+Respublikos Vyriausybė Socialinės apsaugos ir darbo ministerijos teikimu
 
 tvirtina valstybės remiamų pajamų dydį.
 
-Pakeitimai:
+Straipsnio pakeitimai:
 
-1.Lietuvos
+Nr. I-624,
 
-Respublikos1994 11 03
+1994 11 03, Žin., 1994, Nr. 88-1667
 
-įstatymas
+Nr. IX-1675, 2003-07-01,
 
-Nr.1-624,
-
-Žin., 1994, Nr.
-
-88-1667
+Žin., 2003, Nr. 73-3352 (2003-07-23)
 
 11 straipsnis.
 
-Neteko galios.
+Asmenys
 
-Pakeitimai:
+įstatymų nustatyta tvarka atsako už pajamų deklaravimo teisingumą. Nuslėptų
 
-1.Lietuvos
+pajamų ir trigubos išmokėtos socialinės pašalpos suma išieškoma ir paimama į
 
-Respublikos1994 11 03
+savivaldybių biudžetus. Ši suma išieškoma teismine tvarka pagal savivaldybių
 
-įstatymas
+ieškinį. Vyriausybė nustato tvarką, kuria išmokamos socialinės pašalpos ir
 
-Nr.1-624,
-
-Žin., 1994, Nr.
-
-88-1667
+kontroliuojamas pajamų deklaravimo teisingumas.
 
 12 straipsnis.
 
