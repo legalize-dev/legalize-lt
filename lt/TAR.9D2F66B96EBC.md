@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2002-11-22"
+last_updated: "2003-10-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2002-11-22 iki 2003-10-07
+Suvestinė redakcija nuo 2003-10-08 iki 2004-04-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -594,9 +594,17 @@ VEŽĖJO PAŽYMĖJIMAS IR LICENCIJA
 
 56 straipsnis. Licencija oro susisiekimui vykdyti
 
-1. Oro susisiekimui vykdyti vežėjas privalo turėti susisiekimo ministro išduotą licenciją.
+1. Oro susisiekimui vykdyti vežėjas privalo turėti Susisiekimo ministerijos arba jos įgaliotos CAA išduotą licenciją.
 
-2. Užsienio valstybių vežėjai turi teisę vykdyti oro susisiekimą pagal atitinkamą Lietuvos Respublikos tarptautinę sutartį. Kol tokios sutarties nėra, susisiekimo ministras gali išduoti atitinkamą leidimą.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1744, 2003-09-23, Žin., 2003, Nr. 94-4248 (2003-10-08), i. k. 1031010ISTA0IX-1744
+
+2. Užsienio valstybių vežėjai turi teisę vykdyti oro susisiekimą pagal atitinkamą Lietuvos Respublikos tarptautinę sutartį. Kol tokios sutarties nėra, Susisiekimo ministerija arba jos įgaliota CAA gali išduoti atitinkamą leidimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1744, 2003-09-23, Žin., 2003, Nr. 94-4248 (2003-10-08), i. k. 1031010ISTA0IX-1744
 
 3. Jeigu Lietuvos Respublikos tarptautinė sutartis nenumato kitaip, šio straipsnio 1 dalyje nurodyta licencija gali būti išduodama Lietuvos Respublikoje įsteigtai įmonei, kuri turi vežėjo pažymėjimą, o jos kontrolės teisės priklauso Lietuvos Respublikos piliečiams, savivaldybėms, valstybei ar kitoms Lietuvos Respublikoje įregistruotoms įmonėms, kurių kontrolės teisės taip pat priklauso Lietuvos Respublikos piliečiams, savivaldybėms ar valstybei.
 
@@ -781,4 +789,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
 
 Lietuvos Respublikos aviacijos įstatymo 2, 8, 17, 21, 25, 45, 48, 52, 72 straipsnių pakeitimo ir 69 straipsnio pripažinimo netekusiu galios įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1744, 2003-09-23, Žin., 2003, Nr. 94-4248 (2003-10-08), i. k. 1031010ISTA0IX-1744
+
+Lietuvos Respublikos aviacijos įstatymo 56 straipsnio pakeitimo įstatymas
 
