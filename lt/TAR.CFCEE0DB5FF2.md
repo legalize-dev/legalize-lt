@@ -4,7 +4,7 @@ identifier: "TAR.CFCEE0DB5FF2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-12"
-last_updated: "2000-11-01"
+last_updated: "2001-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CFCEE0DB5FF2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2000-11-01 iki 2001-12-29
+Suvestinė redakcija nuo 2001-12-30 iki 2004-02-27
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2143, i. k. 0961010ISTA00I-1516
 
@@ -135,13 +135,13 @@ Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010IS
 
 9) nustato žemės subnuomos mokesčio skaičiavimo ir mokėjimo tvarką;
 
-10) nustato zonos valdymo bendrovės iškvietimų užsienio šalių piliečiams ir asmenims be pilietybės, nuolat gyvenantiems užsienyje, norintiems atvykti į zoną, bei tarpininkavimo dėl vizų užsieniečiams vykti per Lietuvos Respublikos teritoriją nuo sienos perėjimo punktų iki zonos teritorijos išdavimo tvarką;
+10) suderinusi su Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į laisvąsias teritorijas tvarką bei tvirtina leidimų pavyzdžius;
 
-11) suderinusi su Valstybės sienos apsaugos tarnyba bei Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į zoną tvarką bei tvirtina leidimų pavyzdžius.
+11) suderinusi su Muitinės departamentu prie Finansų ministerijos, skelbia zonos teritorijos dalis laisvosiomis teritorijomis ir nustato šių teritorijų ribas.
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, Nr. 95-0 (2000-11-08); Žin., 2000, Nr. 96-0 (2000-11-10), i. k. 1001010ISTAIII-2005
+Nr. IX-669, 2001-12-18, Žin., 2001, Nr. 112-4085 (2001-12-30), i. k. 1011010ISTA00IX-669
 
 8. Zonos valdybos bendrovės administracija organizuoja ir vykdo zonos veiklą pagal valdybos patvirtintą darbo reglamentą.
 
@@ -153,25 +153,23 @@ Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, N
 
 3) sudaro savitarpio paslaugų teikimo sutartis su zonos įmonėmis pagal valdybos nustatytas finansines ir kitas sąlygas;
 
-4) išduoda zonos valdymo bendrovės valdybos nustatyto bei su Valstybės sienos apsaugos tarnyba ir Muitinės departamentu patvirtinto pavyzdžio leidimus įeiti į zoną;
-
-Straipsnio punkto pakeitimai:
-
-Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, Nr. 95-0 (2000-11-08); Žin., 2000, Nr. 96-0 (2000-11-10), i. k. 1001010ISTAIII-2005
+4) išduoda zonos valdymo bendrovės valdybos nustatyto bei su Muitinės departamentu prie Finansų ministerijos suderinto pavyzdžio leidimus įeiti į laisvąsias teritorijas;
 
 5) užtikrina, kad zonoje registruoti ūkio subjektai laikytųsi zonos statuto, nesiverstų veikla, draudžiama Lietuvos Respublikos įstatymų, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Aplinkos apsaugos įstatymo ir kitų teisės aktų aplinkos apsaugos srityje reikalavimų;
 
-6) užtikrina zonos ribų apsaugą ir sudaro sąlygas Lietuvos Respublikos muitinės darbui muitinės kontrolės postuose;
+6) užtikrina laisvųjų teritorijų ribų apsaugą ir sudaro sąlygas Lietuvos Respublikos muitinės darbui laisvųjų teritorijų muitinės kontrolės postuose;
 
-7) užtikrina zonos teritorijos fizinę apsaugą;
+7) užtikrina laisvųjų teritorijų fizinę apsaugą;
 
 8) sudaro sąlygas teisėsaugos institucijoms ir tarptautinėms kontrolės organizacijoms atlikti zonoje savo funkcijas;
 
 9) išduoda leidimus ūkio subjekto veiklai zonoje;
 
-10) renka iš ūkio subjektų statistinius ataskaitinius duomenis ir juos analizuoja atsižvelgdama į Statistikos įstatymo reikalavimus;
+10) atlieka kitą valdybos pavestą veiklą.
 
-11) atlieka kitą valdybos pavestą veiklą.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-669, 2001-12-18, Žin., 2001, Nr. 112-4085 (2001-12-30), i. k. 1011010ISTA00IX-669
 
 8 straipsnis. Zonos valdymo bendrovės likvidavimas bei naujos bendrovės suformavimas
 
@@ -193,7 +191,11 @@ Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, N
 
 1. Zonos valdymo bendrovė, įgyvendindama įstatymo jai nustatytas teises, pareigas ir atsakomybę, sutartimi su zonos įmone, remdamasi zonos statutu, gali nustatyti rinkliavas zonos įmonėms.
 
-2. Zonos valdymo bendrovė, remdamasi zonos statutu, nustato rinkliavų bendriems zonos reikalams tarifų dydžius, subjektus, iš kurių bus imamos rinkliavos, taip pat kitas rinkliavų rinkimo ir mokėjimo sąlygas.
+2. Zonos valdymo bendrovė, remdamasi zonos statutu, nustato rinkliavų zonos įmonėms tarifų dydžius, subjektus, iš kurių bus imamos rinkliavos, taip pat kitas rinkliavų rinkimo ir mokėjimo sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-669, 2001-12-18, Žin., 2001, Nr. 112-4085 (2001-12-30), i. k. 1011010ISTA00IX-669
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -216,4 +218,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, Nr. 95-0 (2000-11-08); Žin., 2000, Nr. 96-0 (2000-11-10), i. k. 1001010ISTAIII-2005
 
 Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 7 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-669, 2001-12-18, Žin., 2001, Nr. 112-4085 (2001-12-30), i. k. 1011010ISTA00IX-669
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 7, 9 straipsnių pakeitimo ir papildymo įstatymas
 
