@@ -4,7 +4,7 @@ identifier: "TAR.84CB75BE0C44"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-31"
-last_updated: "2000-05-18"
+last_updated: "2000-07-11"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.84CB75BE0C44"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -22,7 +22,7 @@ Neoficialus ?statymo tekstas
 
 Įstatymas
 
-paskelbtas: Žin., 1990, Nr.24-601
+paskelbtas: Žin., 1990, Nr. 24-601
 
 Neoficialus
 
@@ -58,9 +58,9 @@ b) juridiniai
 
 asmenys, užsiimantys nekomercine veikla, bet gavę pajamų iš komercinės-ūkinės
 
-veiklos, išskyrus Lietuvos banką, valstybės įmonę Indėlių draudimo fondą ir biudžetinių
+veiklos, išskyrus Lietuvos banką, valstybės įmonę Indėlių draudimo fondą ir
 
-įstaigų nebiudžetines lėšas;
+biudžetinių įstaigų nebiudžetines lėšas;
 
 c) užsienio
 
@@ -76,9 +76,9 @@ užsienio valstybių įmonių filialai (toliau - nuolatinės buveinės), kurie
 
 Lietuvos Respublikoje: turi veiklos vietą, kurioje vykdo savo veiklą arba jos
 
-dalį; arba kurie vykdo savo veiklą per įgaliotą fizinį, juridinį ar kitą asmenį,
+dalį; arba kurie vykdo savo veiklą per įgaliotą fizinį, juridinį ar kitą
 
-jeigu šis asmuo turi tos užsienio valstybės įmonės įgaliojimą jos vardu
+asmenį, jeigu šis asmuo turi tos užsienio valstybės įmonės įgaliojimą jos vardu
 
 sudaryti sutartis ir tuo įgaliojimu naudojasi; arba kurie naudoja statybos
 
@@ -98,19 +98,25 @@ pakeitimai:
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 Nr.
 
-I-1399, 96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
+I-1399,
+
+96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
 
 Nr.
 
-VIII-165, 97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
+VIII-165,
 
-Nr.
+97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+Nr. VIII-836,
+
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 2 straipsnis.
 
@@ -154,19 +160,23 @@ pakeitimai:
 
 Nr.
 
-VIII-165, 97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
+VIII-165,
+
+97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
 
 Nr.
 
-VIII-290, 97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
+VIII-290,
 
-Nr.
+97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+Nr. VIII-836,
 
-Nr.
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
-VIII-1113, 99.03.30, Žin., 1999, Nr.33-948 (99.04.14)
+Nr. VIII-1113,
+
+99.03.30, Žin., 1999, Nr.33-948 (99.04.14)
 
 II.
 
@@ -282,51 +292,75 @@ pakeitimai:
 
 Nr.
 
-I-642, 90.10.05, Žin., 1990, Nr. 30-715
+I-642,
+
+90.10.05, Žin., 1990, Nr. 30-715
 
 Nr.
 
-I-2275, 92.02.06, Žin., 1992, Nr. 6-110
+I-2275,
+
+92.02.06, Žin., 1992, Nr. 6-110
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 Nr.
 
-I-212, 93.07.13, Žin., 1993, Nr. 30-682 (93.07.21)
+I-212,
+
+93.07.13, Žin., 1993, Nr. 30-682 (93.07.21)
 
 Nr.
 
-I-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+I-395,
+
+94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
 
 Nr.
 
-I-848, 95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
+I-848,
+
+95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
 
 Nr.
 
-I-1399, 96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
+I-1399,
+
+96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
 
 Nr.
 
-I-1426, 96.07.02, Žin., 1996, Nr. 66-1577 (96.07.12)
+I-1426,
+
+96.07.02, Žin., 1996, Nr. 66-1577 (96.07.12)
 
 Nr.
 
-I-1460, 96.07.10, Žin., 1996, Nr. 73-1746 (96.07.31)
+I-1460,
+
+96.07.10, Žin., 1996, Nr. 73-1746 (96.07.31)
 
 Nr.
 
-VIII-165, 97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
+VIII-165,
+
+97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
 
 Nr.
 
-VIII-290, 97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
+VIII-290,
+
+97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
 
 Nr.
 
-VIII-265, 97.06.17, Žin., 1997, Nr.63-1473 (97.07.02)
+VIII-265,
+
+97.06.17, Žin., 1997, Nr.63-1473 (97.07.02)
 
 Nr. VIII-836,
 
@@ -340,15 +374,15 @@ darbų ir paslaugų sąnaudas bei investicijai skirtas lėšas (pasirinkus 21
 
 straipsnio 1 dalyje 2 punkte nustatytą apskaičiavimo būdą), nustatomas
 
-bendrasis apmokestinamasis pelnas. Šis bendrasis apmokestinamasis pelnas
+bendrasis apmokestinamasis pelnas. Šis bendrasis apmokestinamasis pelnas mažinamas
 
-mažinamas 6 straipsnyje nurodytomis labdarai ir paramai skirtomis
+6 straipsnyje nurodytomis labdarai ir paramai skirtomis neapmokestinamomis
 
-neapmokestinamomis sumomis bei išmokomis iš pelno, apmokestintomis fizinių
+sumomis bei išmokomis iš pelno, apmokestintomis fizinių asmenų pajamų mokesčiu.
 
-asmenų pajamų mokesčiu. Atskaičius šias sumas, nustatomas apmokestinamasis
+Atskaičius šias sumas, nustatomas apmokestinamasis pelnas, nuo kurio
 
-pelnas, nuo kurio skaičiuojamas pelno mokestis.
+skaičiuojamas pelno mokestis.
 
 Jeigu
 
@@ -360,17 +394,17 @@ sumą leidžiama perkelti ne ilgiau kaip penkerius mokestinius metus, pradedant
 
 skaičiuoti nuo kitų metų, kai nuostoliai atsirado. Pasibaigus penkerių metų
 
-terminui, nuostolių suma nebeperkeliama. Mokestiniai metai sutampa su kalendoriniais
+terminui, nuostolių suma nebeperkeliama. Mokestiniai metai sutampa su
 
-metais. Finansų ministras mokesčių mokėtojams, kurių veikla yra sezoninė, jų
+kalendoriniais metais. Finansų ministras mokesčių mokėtojams, kurių veikla yra
 
-prašymu gali nustatyti kitokį mokestinį laikotarpį su sąlyga, kad tas
+sezoninė, jų prašymu gali nustatyti kitokį mokestinį laikotarpį su sąlyga, kad
 
-laikotarpis bus pastovus (nekeičiamas) ir lygus 12 mėnesių. Finansų ministras
+tas laikotarpis bus pastovus (nekeičiamas) ir lygus 12 mėnesių. Finansų
 
-tvirtina tokių mokesčių mokėtojų sąrašą. Mokestinių metų nuostolių perkėlimo
+ministras tvirtina tokių mokesčių mokėtojų sąrašą. Mokestinių metų nuostolių
 
-tvarką taip pat nustato finansų ministras.
+perkėlimo tvarką taip pat nustato finansų ministras.
 
 Juridinių
 
@@ -392,19 +426,25 @@ pakeitimai:
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 Nr.
 
-I-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+I-395,
+
+94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
 
 Nr.
 
-VIII-290, 97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
+VIII-290,
 
-Nr.
+97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+Nr. VIII-836,
+
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 4(1)
 
@@ -456,15 +496,17 @@ papildytas straipsniu:
 
 Nr.
 
-VIII-290, 97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
+VIII-290,
+
+97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
 
 Straipsnio
 
 pakeitimai:
 
-Nr.
+Nr. VIII-836,
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 5 straipsnis.
 
@@ -522,9 +564,9 @@ draudimo įmokų dalis, išskyrus draudimo įmokų grąžinimo techninį atidėj
 
 9) Ignalinos
 
-atominės elektrinės papildomos sąnaudos, nustatytos Lietuvos Respublikos Vyriausybės
+atominės elektrinės papildomos sąnaudos, nustatytos Lietuvos Respublikos
 
-nutarimų, nenumatytos šiame straipsnyje;
+Vyriausybės nutarimų, nenumatytos šiame straipsnyje;
 
 10) pirkimo ir
 
@@ -558,11 +600,11 @@ patirtos remonto, rekonstravimo ir eksploatavimo sąnaudos Lietuvos Respublikos
 
 Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais ir tvarka
 
-pripažįstamos mažinančiomis bendrąsias pajamas. Taip pat pagal nuomos
+pripažįstamos mažinančiomis bendrąsias pajamas. Taip pat pagal nuomos (panaudos)
 
-(panaudos) sutartį nuomojamo iš kitų asmenų turto patirtos remonto (neviršijant
+sutartį nuomojamo iš kitų asmenų turto patirtos remonto (neviršijant 50
 
-50 procentų šio turto įsigijimo vertės) ir eksploatavimo sąnaudos pripažįstamos
+procentų šio turto įsigijimo vertės) ir eksploatavimo sąnaudos pripažįstamos
 
 mažinančiomis bendrąsias pajamas Lietuvos Respublikos Vyriausybės ar jos
 
@@ -592,11 +634,11 @@ mažinančiomis bendrąsias pajamas Lietuvos Respublikos Vyriausybės ar jos
 
 13) įmonės
 
-darbuotojų naudai pagal Lietuvos Respublikos pensijų fondų įstatymą mokamos įmokos
+darbuotojų naudai pagal Lietuvos Respublikos pensijų fondų įstatymą mokamos
 
-į asmenines pensijų programų dalyvių sąskaitas, tačiau ne daugiau kaip 25
+įmokos į asmenines pensijų programų dalyvių sąskaitas, tačiau ne daugiau kaip
 
-procentai per mokestinius metus šiems darbuotojams apskaičiuotų su darbo
+25 procentai per mokestinius metus šiems darbuotojams apskaičiuotų su darbo
 
 santykiais susijusių pajamų;
 
@@ -632,11 +674,11 @@ priežiūros įstaigų sąnaudos paskirstomos proporcingai to mokestinio laikota
 
 pajamoms už paslaugas, kurios finansuojamos iš Privalomojo sveikatos draudimo
 
-fondo lėšų, ir kitoms pajamoms. Apskaičiuojant sveikatos priežiūros įstaigų apmokestinamąjį
+fondo lėšų, ir kitoms pajamoms. Apskaičiuojant sveikatos priežiūros įstaigų
 
-pelną, iš bendrųjų pajamų neatimamos sąnaudos, tenkančios paslaugoms, kurios
+apmokestinamąjį pelną, iš bendrųjų pajamų neatimamos sąnaudos, tenkančios
 
-finansuojamos iš Privalomojo sveikatos draudimo fondo lėšų.
+paslaugoms, kurios finansuojamos iš Privalomojo sveikatos draudimo fondo lėšų.
 
 Straipsnio
 
@@ -644,59 +686,83 @@ pakeitimai:
 
 Nr.
 
-I-1516, 91.06.27, Žin., 1991, Nr. 20-520
+I-1516,
+
+91.06.27, Žin., 1991, Nr. 20-520
 
 Nr.
 
-I-2275, 92.02.06, Žin., 1992, Nr. 6-110
+I-2275,
+
+92.02.06, Žin., 1992, Nr. 6-110
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 Nr.
 
-I-212, 93.07.13, Žin., 1993, Nr. 30-682 (93.07.21)
+I-212,
+
+93.07.13, Žin., 1993, Nr. 30-682 (93.07.21)
 
 Nr.
 
-I-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+I-395,
+
+94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
 
 Nr.
 
-I-539, 94.07.12, Žin., 1994, Nr. 55-1052 (94.07.20)
+I-539,
+
+94.07.12, Žin., 1994, Nr. 55-1052 (94.07.20)
 
 Nr.
 
-I-848, 95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
+I-848,
+
+95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
 
 Nr.
 
-I-1399, 96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
+I-1399,
+
+96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
 
 Nr.
 
-I-1460, 96.07.10, Žin., 1996, Nr. 73-1746 (96.07.31)
+I-1460,
+
+96.07.10, Žin., 1996, Nr. 73-1746 (96.07.31)
 
 Nr.
 
-VIII-165, 97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
+VIII-165,
+
+97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
 
 Nr.
 
-VIII-290, 97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
+VIII-290,
+
+97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
+
+Nr. VIII-836,
+
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 Nr.
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+VIII-1295,
 
-Nr.
+99.07.07, Žin., 1999, Nr.64-2072 (99.07.23)
 
-VIII-1295, 99.07.07, Žin., 1999, Nr.64-2072 (99.07.23)
+Nr. VIII-1648, 00.04.20, Žin., 2000,
 
-Nr. VIII-1648, 00.04.20, Žin., 2000, Nr.36-988
-
-(00.05.03)
+Nr.36-988 (00.05.03)
 
 7 straipsnis.
 
@@ -760,39 +826,51 @@ pakeitimai:
 
 Nr.
 
-I-1397, 91.05.30, Žin., 1991, Nr. 16-426, įsigaliojo 1991.07.01
+I-1397,
+
+91.05.30, Žin., 1991, Nr. 16-426, įsigaliojo 1991.07.01
 
 Nr.
 
-I-2275, 92.02.06, Žin., 1992, Nr. 6-110
+I-2275,
+
+92.02.06, Žin., 1992, Nr. 6-110
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 Nr.
 
-I-1399, 96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
+I-1399,
+
+96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
 
 Nr.
 
-VIII-165, 97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
+VIII-165,
+
+97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
 
 Nr.
 
-VIII-290, 97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
+VIII-290,
 
-Nr.
+97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+Nr. VIII-836,
 
-Nr.
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
-VIII-1113, 99.03.30, Žin., 1999, Nr.33-948 (99.04.14)
+Nr. VIII-1113,
 
-Nr. VIII-1496, 99.12.23, Žin., 1999, Nr.113-3291
+99.03.30, Žin., 1999, Nr.33-948 (99.04.14)
 
-(99.12.30)
+Nr. VIII-1496, 99.12.23, Žin., 1999,
+
+Nr.113-3291 (99.12.30)
 
 IV. Mokesčio
 
@@ -854,13 +932,13 @@ gruodžio 31 d., tai jos pelno dalis (proporcinga užsienio investicijos daliai
 
 įmonės įstatiniame kapitale), tenkanti šiai užsienio investicijai ir
 
-nepanaudota darbo užmokesčiui, taip pat reinvestuota įmonėje, 5 metus nuo įplaukų
+nepanaudota darbo užmokesčiui, taip pat reinvestuota įmonėje, 5 metus nuo
 
-gavimo dienos apmokestinama 70 procentų mažesniu pelno mokesčiu. Šiam terminui
+įplaukų gavimo dienos apmokestinama 70 procentų mažesniu pelno mokesčiu. Šiam
 
-pasibaigus, užsienio investicijai tenkanti pelno dalis 3 metus apmokestinama 50
+terminui pasibaigus, užsienio investicijai tenkanti pelno dalis 3 metus
 
-procentų mažesniu pelno mokesčiu.
+apmokestinama 50 procentų mažesniu pelno mokesčiu.
 
 Jei įmonė buvo įsteigta (registruota) arba užsienio
 
@@ -880,11 +958,11 @@ apyskaitinio ketvirčio, kurį pradėtas gauti pelnas, pradžios. Kitus trejus
 
 metus ši įmonė moka 50 procentų mažesnį pelno mokestį. Šioje dalyje numatytos
 
-mokesčių lengvatos netaikomos įmonėms, kurios verčiasi didmenine, mažmenine
+mokesčių lengvatos netaikomos įmonėms, kurios verčiasi didmenine, mažmenine naftos
 
-naftos produktų prekyba, jeigu jų pajamos iš prekybos šiais produktais sudaro
+produktų prekyba, jeigu jų pajamos iš prekybos šiais produktais sudaro daugiau
 
-daugiau kaip 30 procentų jų realizacinių pajamų.
+kaip 30 procentų jų realizacinių pajamų.
 
 Juridinių
 
@@ -896,13 +974,13 @@ apmokestinamajam pelnui taikomas 15 procentų pelno mokesčio tarifas. Ši
 
 lengvata netaikoma juridiniams asmenims, kurie verčiasi prekyba alkoholiniais
 
-gėrimais ar tabako gaminiais, didmenine ar mažmenine naftos produktų prekyba
+gėrimais ar tabako gaminiais, didmenine ar mažmenine naftos produktų prekyba (įskaitant
 
-(įskaitant atvejus, kai kartu prekiaujama ir kitomis prekėmis), bei tiems
+atvejus, kai kartu prekiaujama ir kitomis prekėmis), bei tiems juridiniams
 
-juridiniams asmenims, kurie teikia viešojo maitinimo paslaugas ir pardavinėja
+asmenims, kurie teikia viešojo maitinimo paslaugas ir pardavinėja alkoholinius
 
-alkoholinius gėrimus, įskaitant alų bei tabako gaminius.
+gėrimus, įskaitant alų bei tabako gaminius.
 
 Kredito unijos iki 1997 m.
 
@@ -960,53 +1038,69 @@ pakeitimai:
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 Nr.
 
-I-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+I-395,
+
+94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
 
 Nr.
 
-I-705, 94.12.15, Žin., 1994, Nr. 100-1999 (94.12.28), įsigaliojo 1995.01.01
+I-705,
+
+94.12.15, Žin., 1994, Nr. 100-1999 (94.12.28), įsigaliojo 1995.01.01
 
 Nr.
 
-I-1255, 96.03.28, Žin., 1996, Nr. 35-862 (96.04.19)
+I-1255,
+
+96.03.28, Žin., 1996, Nr. 35-862 (96.04.19)
 
 Nr.
 
-I-1399, 96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
+I-1399,
+
+96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
 
 Nr.
 
-I-1482, 96.07.11, Žin., 1996, Nr. 71-1715 (96.07.26)
+I-1482,
+
+96.07.11, Žin., 1996, Nr. 71-1715 (96.07.26)
+
+Nr. VIII-836,
+
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+
+Nr. VIII-1230,
+
+99.06.15, Žin., 1999, Nr.57-1833 (99.06.30)
 
 Nr.
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+VIII-1295,
 
-Nr.
+99.07.07, Žin., 1999, Nr.64-2072 (99.07.23)
 
-VIII-1230, 99.06.15, Žin., 1999, Nr.57-1833 (99.06.30)
+Nr. VIII-1389, 99.11.04, Žin., 1999,
 
-Nr.
+Nr.98-2812 (99.11.19)
 
-VIII-1295, 99.07.07, Žin., 1999, Nr.64-2072 (99.07.23)
+Nr. VIII-1685, 00.05.18, Žin., 2000,
 
-Nr. VIII-1389, 99.11.04, Žin., 1999, Nr.98-2812
-
-(99.11.19)
-
-Nr. VIII-1685, 00.05.18, Žin., 2000, Nr.45-1291
-
-(00.06.02)
+Nr.45-1291 (00.06.02)
 
 9 straipsnis. Įmonės, kurių realizavimo pajamos už
 
 pačių pagamintą produkciją sudaro daugiau kaip 50% visų gautų pajamų ir kuriose
 
-dirba riboto darbingumo dirbantieji, mažina apskaičiuotą pelno mokestį tokia tvarka:
+dirba riboto darbingumo dirbantieji, mažina apskaičiuotą pelno mokestį tokia
+
+tvarka:
 
 Riboto
 
@@ -1034,13 +1128,13 @@ Daugiau kaip      50%
 
 25%
 
-Kategorijas
+Kategorijas asmenų,
 
-asmenų, kuriems taikomas riboto darbingumo dirbančiųjų statusas, jų dalies tarp
+kuriems taikomas riboto darbingumo dirbančiųjų statusas, jų dalies tarp visų
 
-visų dirbančiųjų apskaičiavimo metodiką ir šios lengvatos taikymo tvarką
+dirbančiųjų apskaičiavimo metodiką ir šios lengvatos taikymo tvarką nustato
 
-nustato Lietuvos Respublikos Vyriausybė.
+Lietuvos Respublikos Vyriausybė.
 
 Straipsnio
 
@@ -1048,15 +1142,21 @@ pakeitimai:
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 Nr.
 
-I-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+I-395,
+
+94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
 
 Nr.
 
-I-848, 95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
+I-848,
+
+95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
 
 10 straipsnis.
 
@@ -1078,15 +1178,21 @@ pakeitimai:
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 Nr.
 
-I-1159, 95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
+I-1159,
+
+95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
 
 Nr.
 
-VIII-387, 97.07.02, Žin., 1997, Nr.69-1745 (97.07.23)
+VIII-387,
+
+97.07.02, Žin., 1997, Nr.69-1745 (97.07.23)
 
 V. Mokesčio
 
@@ -1112,19 +1218,25 @@ pakeitimai:
 
 Nr.
 
-VIII-165, 97.03.27, Žin., 1997, Nr.28-661 (97.03.29), įsigaliojo 1997.04.01
+VIII-165,
+
+97.03.27, Žin., 1997, Nr.28-661 (97.03.29), įsigaliojo 1997.04.01
 
 Nr.
 
-VIII-290, 97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
+VIII-290,
+
+97.06.24, Žin., 1997, Nr.61-1442 (97.01.01)
 
 Nr.
 
-VIII-387, 97.07.02, Žin., 1997, Nr.69-1745 (97.07.23)
+VIII-387,
 
-Nr.
+97.07.02, Žin., 1997, Nr.69-1745 (97.07.23)
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+Nr. VIII-836,
+
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 12 straipsnis.
 
@@ -1194,15 +1306,15 @@ avansinius mokesčius arba nuo jų atleistų. Vietos mokesčio administratorius
 
 tokiam mokesčio mokėtojui turi sumažinti mokesčio mokėjimo avansu prievolės
 
-sumą proporcingai sumažėjusioms pajamoms arba atleisti nuo pelno avansinio
+sumą proporcingai sumažėjusioms pajamoms arba atleisti nuo pelno avansinio mokesčio.
 
-mokesčio. Jeigu šio mokesčio mokėtojo einamųjų metų bendrosios pajamos vėl
+Jeigu šio mokesčio mokėtojo einamųjų metų bendrosios pajamos vėl padidėjo iki
 
-padidėjo iki 25 procentų ir daugiau, jis privalo ne vėliau kaip prieš mėnesį
+25 procentų ir daugiau, jis privalo ne vėliau kaip prieš mėnesį iki eilinio
 
-iki eilinio pelno avansinio mokesčio mokėjimo termino kreiptis į vietos
+pelno avansinio mokesčio mokėjimo termino kreiptis į vietos mokesčio
 
-mokesčio administratorių, kad padidintų likusius pelno avansinius mokesčius.
+administratorių, kad padidintų likusius pelno avansinius mokesčius.
 
 Mokesčio mokėtojas gali pasirinkti pelno avansinį
 
@@ -1216,15 +1328,19 @@ pakeitimai:
 
 Nr.
 
-I-326, 93.12.09, Žin., 1993, Nr. 70-1306 (93.12.18)
+I-326,
+
+93.12.09, Žin., 1993, Nr. 70-1306 (93.12.18)
 
 Nr.
 
-I-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+I-395,
 
-Nr.
+94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+Nr. VIII-836,
+
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 13 straipsnis.
 
@@ -1260,15 +1376,19 @@ pakeitimai:
 
 Nr.
 
-I-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+I-395,
+
+94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+
+Nr. VIII-836,
+
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 Nr.
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+VIII-1218,
 
-Nr.
-
-VIII-1218, 99.06.08, Žin., 1999, Nr.55-1771 (99.06.23)
+99.06.08, Žin., 1999, Nr.55-1771 (99.06.23)
 
 14 straipsnis.
 
@@ -1302,15 +1422,19 @@ pakeitimai:
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 Nr.
 
-I-1310, 96.04.30, Žin., 1996, Nr. 46-1105 (96.05.17), įsigaliojo 1996.07.01
+I-1310,
 
-Nr.
+96.04.30, Žin., 1996, Nr. 46-1105 (96.05.17), įsigaliojo 1996.07.01
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+Nr. VIII-836,
+
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 VI. Atsakomybė
 
@@ -1354,21 +1478,25 @@ pakeitimai:
 
 Nr.
 
-I-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+I-395,
+
+94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
 
 Nr.
 
-I-1310, 96.04.30, Žin., 1996, Nr. 46-1105 (96.05.17), įsigaliojo 1996.07.01
+I-1310,
+
+96.04.30, Žin., 1996, Nr. 46-1105 (96.05.17), įsigaliojo 1996.07.01
 
 19 straipsnis.
 
 Kai Lietuvos Respublikos juridinis asmuo gauna pelną, apmokestinamą užsienyje,
 
-ir nėra sutarties dvigubam apmokestinimui išvengti, Lietuvos Respublikos
+ir nėra sutarties dvigubam apmokestinimui išvengti, Lietuvos Respublikos Vyriausybės
 
-Vyriausybės arba jos pavedimu Finansų ministerijos nustatyta tvarka galima iš
+arba jos pavedimu Finansų ministerijos nustatyta tvarka galima iš tokio
 
-tokio juridinio asmens apskaičiuoto pelno mokesčio atimti sumą, lygią užsienio
+juridinio asmens apskaičiuoto pelno mokesčio atimti sumą, lygią užsienio
 
 valstybėje sumokėtam pelno mokesčiui. Ši atimama suma negali viršyti tos
 
@@ -1382,7 +1510,9 @@ papildytas straipsniu:
 
 Nr.
 
-I-848, 95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
+I-848,
+
+95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
 
 15 straipsnis.
 
@@ -1390,19 +1520,19 @@ Mokėtojas atsako už tai, kad pelno avansinis mokestis ir pelno mokestis už
 
 mokestinį laikotarpį būtų teisingai apskaičiuotas ir sumokėtas.
 
-Jeigu mokesčio mokėtojas ar mokestį išskaičiuojantis
+Jeigu mokesčio mokėtojas ar mokestį
 
-asmuo ne laiku sumoka arba perveda pelno avansinį mokestį (jo dalį) ar
+išskaičiuojantis asmuo ne laiku sumoka arba perveda pelno avansinį mokestį (jo
 
-apskaičiuotą pelno mokestį, Mokesčių administravimo įstatymo nustatyta tvarka
+dalį) ar apskaičiuotą pelno mokestį, Mokesčių administravimo įstatymo nustatyta
 
-skaičiuojami delspinigiai. Jei mokesčio mokėtojas pelno mokesčio apyskaitoje
+tvarka skaičiuojami delspinigiai. Jei mokesčio mokėtojas pelno mokesčio
 
-sumažina pelno mokesčio sumą arba per mažai sumoka į biudžetą, Mokesčių
+apyskaitoje sumažina pelno mokesčio sumą arba per mažai sumoka į biudžetą,
 
-administravimo įstatymo nustatyta tvarka skiriamos ekonominės sankcijos (baudos
+Mokesčių administravimo įstatymo nustatyta tvarka skiriamos ekonominės
 
-ir delspinigiai).
+sankcijos (baudos ir delspinigiai).
 
 Straipsnio
 
@@ -1410,19 +1540,25 @@ pakeitimai:
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 Nr.
 
-I-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+I-395,
+
+94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
 
 Nr.
 
-I-1310, 96.04.30, Žin., 1996, Nr. 46-1105 (96.05.17), įsigaliojo 1996.07.01
+I-1310,
 
-Nr.
+96.04.30, Žin., 1996, Nr. 46-1105 (96.05.17), įsigaliojo 1996.07.01
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+Nr. VIII-836,
+
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 17 straipsnis. Mokėtojo pareigūnai, pateikę
 
@@ -1456,33 +1592,35 @@ pradžioje, įsigijimo savikaina ir atimama per mokestinį laikotarpį ilgalaiki
 
 materialiajam turtui įsigyti panaudota ir negrąžinta skolintų lėšų likučio
 
-suma, taip pat per mokestinį laikotarpį atsiradusio įsigyjant ilgalaikį materialųjį
+suma, taip pat per mokestinį laikotarpį atsiradusio įsigyjant ilgalaikį
 
-turtą kreditorinio įsiskolinimo suma, per mokestinį laikotarpį įmonės nemokamai
+materialųjį turtą kreditorinio įsiskolinimo suma, per mokestinį laikotarpį
 
-gauto ilgalaikio materialiojo turto vertė bei apskaičiuota per mokestinį
+įmonės nemokamai gauto ilgalaikio materialiojo turto vertė bei apskaičiuota per
 
-laikotarpį įsigyto ilgalaikio materialiojo turto nusidėvėjimo suma. Parduodant
+mokestinį laikotarpį įsigyto ilgalaikio materialiojo turto nusidėvėjimo suma.
 
-šį ilgalaikį materialųjį turtą, apmokestinamos visos gautos realizavimo pajamos
+Parduodant šį ilgalaikį materialųjį turtą, apmokestinamos visos gautos
 
-neatimant šio turto likutinės vertės. Kai šis ilgalaikis materialusis turtas
+realizavimo pajamos neatimant šio turto likutinės vertės. Kai šis ilgalaikis
 
-perduodamas panaudos būdu arba investuojamas į kitą įmonę, nerealizacinės
+materialusis turtas perduodamas panaudos būdu arba investuojamas į kitą įmonę,
 
-apmokestinamosios pajamos didinamos šio turto įsigijimo verte. Apskaičiuojant
+nerealizacinės apmokestinamosios pajamos didinamos šio turto įsigijimo verte.
 
-šiame straipsnyje nustatyta tvarka apmokestinamąjį pelną, panaudotą
+Apskaičiuojant šiame straipsnyje nustatyta tvarka apmokestinamąjį pelną,
 
-investicijoms, bankų ir kitų kredito įstaigų skolintomis lėšomis laikomi
+panaudotą investicijoms, bankų ir kitų kredito įstaigų skolintomis lėšomis
 
-įsiskolinimai kitiems bankams ir kitoms kredito įstaigoms bei terminuoti indėliai.
+laikomi įsiskolinimai kitiems bankams ir kitoms kredito įstaigoms bei
 
-Jeigu įmonė, apskaičiuodama pelno mokestį, investicijas apskaičiuoja šiuo būdu,
+terminuoti indėliai. Jeigu įmonė, apskaičiuodama pelno mokestį, investicijas
 
-pasibaigus mokestiniam laikotarpiui ir skirstant įmonės pelną investicijai
+apskaičiuoja šiuo būdu, pasibaigus mokestiniam laikotarpiui ir skirstant įmonės
 
-panaudota pelno dalis paskiriama į nepaskirstytinuosius rezervus;
+pelną investicijai panaudota pelno dalis paskiriama į nepaskirstytinuosius
+
+rezervus;
 
 2) investicija į
 
@@ -1520,19 +1658,17 @@ turtui įsigyti panaudotos lėšos iš karto atimamos iš bendrųjų pajamų, š
 
 nusidėvėjimas neskaičiuojamas tik apskaičiuojant pelno mokestį.
 
-Įmonės
+Įmonės pasirinktas
 
-pasirinktas investicijos apskaičiavimo būdas nuo 1999 m. sausio 1 d. negali
-
-būti keičiamas.
+investicijos apskaičiavimo būdas nuo 1999 m. sausio 1 d. negali būti keičiamas.
 
 Įstatymas
 
 papildytas straipsniu:
 
-Nr.
+Nr. VIII-836,
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 22 straipsnis. Lietuvos
 
@@ -1570,11 +1706,11 @@ neturinčioms individualioms (personalinėms) įmonėms bei užsienio valstybių
 
 pateikiama per 10 kalendorinių dienų po dividendų išmokėjimo dienos tam vietos
 
-mokesčio administratoriui, kurio veiklos teritorijoje įregistruota pelno mokestį
+mokesčio administratoriui, kurio veiklos teritorijoje įregistruota pelno
 
-apskaičiuojanti ir išskaitanti įmonė. Apyskaitos formą ir jos užpildymo tvarką
+mokestį apskaičiuojanti ir išskaitanti įmonė. Apyskaitos formą ir jos užpildymo
 
-nustato centrinis mokesčio administratorius.
+tvarką nustato centrinis mokesčio administratorius.
 
 Nuo dividendų išskaityto ir sumokėto į biudžetą
 
@@ -1612,17 +1748,17 @@ ir jos užpildymo tvarką nustato centrinis mokesčio administratorius.
 
 papildytas straipsniu:
 
-Nr.
+Nr. VIII-836,
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1496, 99.12.23, Žin., 1999, Nr.113-3291
+Nr. VIII-1496, 99.12.23, Žin., 1999,
 
-(99.12.30)
+Nr.113-3291 (99.12.30)
 
 LIETUVOS RESPUBLIKOS
 
@@ -1646,7 +1782,9 @@ Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 
 Nr.
 
-I-642, 90.10.05, Žin., 1990, Nr. 30-715
+I-642,
+
+90.10.05, Žin., 1990, Nr. 30-715
 
 DĖL
 
@@ -1680,7 +1818,9 @@ Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 
 Nr.
 
-I-1516, 91.06.27, Žin., 1991, Nr. 20-520
+I-1516,
+
+91.06.27, Žin., 1991, Nr. 20-520
 
 DĖL
 
@@ -1696,7 +1836,9 @@ Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 
 Nr.
 
-I-2275, 92.02.06, Žin., 1992, Nr. 6-110
+I-2275,
+
+92.02.06, Žin., 1992, Nr. 6-110
 
 DĖL
 
@@ -1712,7 +1854,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 DĖL
 
@@ -1728,7 +1872,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-212, 93.07.13, Žin., 1993, Nr. 30-682 (93.07.21)
+I-212,
+
+93.07.13, Žin., 1993, Nr. 30-682 (93.07.21)
 
 DĖL
 
@@ -1744,7 +1890,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-326, 93.12.09, Žin., 1993, Nr. 70-1306 (93.12.18)
+I-326,
+
+93.12.09, Žin., 1993, Nr. 70-1306 (93.12.18)
 
 DĖL
 
@@ -1760,7 +1908,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+I-395,
+
+94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
 
 DĖL
 
@@ -1776,7 +1926,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-539, 94.07.12, Žin., 1994, Nr. 55-1052 (94.07.20)
+I-539,
+
+94.07.12, Žin., 1994, Nr. 55-1052 (94.07.20)
 
 DĖL
 
@@ -1790,7 +1942,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-705, 94.12.15, Žin., 1994, Nr. 100-1999 (94.12.28)
+I-705,
+
+94.12.15, Žin., 1994, Nr. 100-1999 (94.12.28)
 
 DĖL
 
@@ -1810,7 +1964,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-848, 95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
+I-848,
+
+95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
 
 DĖL
 
@@ -1826,7 +1982,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1159, 95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
+I-1159,
+
+95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
 
 DĖL
 
@@ -1840,13 +1998,15 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1255, 96.03.28, Žin., 1996, Nr. 35-862 (96.04.19)
+I-1255,
+
+96.03.28, Žin., 1996, Nr. 35-862 (96.04.19)
 
 LIETUVOS
 
-RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 6 IR 8 STRAIPSNIŲ PAPILDYMO
+RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 6 IR 8 STRAIPSNIŲ
 
-ĮSTATYMAS
+PAPILDYMO ĮSTATYMAS
 
 14.
 
@@ -1856,7 +2016,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1310, 96.04.30, Žin., 1996, Nr. 46-1105 (96.05.17)
+I-1310,
+
+96.04.30, Žin., 1996, Nr. 46-1105 (96.05.17)
 
 LIETUVOS
 
@@ -1876,7 +2038,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1399, 96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
+I-1399,
+
+96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
 
 LIETUVOS
 
@@ -1892,7 +2056,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1426, 96.07.02, Žin., 1996, Nr. 66-1577 (96.07.12)
+I-1426,
+
+96.07.02, Žin., 1996, Nr. 66-1577 (96.07.12)
 
 LIETUVOS
 
@@ -1908,7 +2074,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1460, 96.07.10, Žin., 1996, Nr. 73-1746 (96.07.31)
+I-1460,
+
+96.07.10, Žin., 1996, Nr. 73-1746 (96.07.31)
 
 LIETUVOS
 
@@ -1924,7 +2092,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1482, 96.07.11, Žin., 1996, Nr. 71-1715 (96.07.26)
+I-1482,
+
+96.07.11, Žin., 1996, Nr. 71-1715 (96.07.26)
 
 LIETUVOS
 
@@ -1944,7 +2114,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-165, 97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
+VIII-165,
+
+97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
 
 LIETUVOS
 
@@ -1964,7 +2136,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-290, 97.06.24, Žin., 1997, Nr.61-1442 (97.07.01)
+VIII-290,
+
+97.06.24, Žin., 1997, Nr.61-1442 (97.07.01)
 
 LIETUVOS
 
@@ -1980,7 +2154,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-265, 97.06.17, Žin., 1997, Nr.63-1473 (97.07.02)
+VIII-265,
+
+97.06.17, Žin., 1997, Nr.63-1473 (97.07.02)
 
 LIETUVOS
 
@@ -1996,7 +2172,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-387, 97.07.02, Žin., 1997, Nr.69-1745 (97.07.23)
+VIII-387,
+
+97.07.02, Žin., 1997, Nr.69-1745 (97.07.23)
 
 LIETUVOS
 
@@ -2014,9 +2192,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr.
+Nr. VIII-836,
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
 
 LIETUVOS
 
@@ -2032,9 +2210,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr.
+Nr. VIII-1113,
 
-VIII-1113, 99.03.30, Žin., 1999, Nr.33-948 (99.04.14)
+99.03.30, Žin., 1999, Nr.33-948 (99.04.14)
 
 LIETUVOS
 
@@ -2050,7 +2228,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-1218, 99.06.08, Žin., 1999, Nr.55-1771 (99.06.23)
+VIII-1218,
+
+99.06.08, Žin., 1999, Nr.55-1771 (99.06.23)
 
 LIETUVOS
 
@@ -2064,9 +2244,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr.
+Nr. VIII-1230,
 
-VIII-1230, 99.06.15, Žin., 1999, Nr.57-1833 (99.06.30)
+99.06.15, Žin., 1999, Nr.57-1833 (99.06.30)
 
 LIETUVOS
 
@@ -2082,7 +2262,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-1295, 99.07.07, Žin., 1999, Nr.64-2072 (99.07.23)
+VIII-1295,
+
+99.07.07, Žin., 1999, Nr.64-2072 (99.07.23)
 
 LIETUVOS
 
@@ -2094,9 +2276,9 @@ PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1389, 99.11.04, Žin., 1999, Nr.98-2812
+Nr. VIII-1389, 99.11.04, Žin., 1999,
 
-(99.11.19)
+Nr.98-2812 (99.11.19)
 
 LIETUVOS
 
@@ -2108,9 +2290,9 @@ PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1496, 99.12.23, Žin., 1999, Nr.113-3291
+Nr. VIII-1496, 99.12.23, Žin., 1999,
 
-(99.12.30)
+Nr.113-3291 (99.12.30)
 
 LIETUVOS
 
@@ -2122,9 +2304,9 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1648, 00.04.20, Žin., 2000, Nr.36-988
+Nr. VIII-1648, 00.04.20, Žin., 2000,
 
-(00.05.03)
+Nr.36-988 (00.05.03)
 
 JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 5 STRAIPSNIO
 
@@ -2134,17 +2316,33 @@ PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1685, 00.05.18, Žin., 2000, Nr.45-1291
+Nr. VIII-1685, 00.05.18, Žin., 2000,
 
-(00.06.02)
+Nr.45-1291 (00.06.02)
 
 JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 8 STRAIPSNIO
 
 PAPILDYMO ĮSTATYMAS
 
+32.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1812, 00.07.11, Žin., 2000,
+
+Nr.61-1819 (00.07.26)
+
+JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 6 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.06.05)
+Redagavo: Aušrinė Trapinskienė (2000.08.08)
 
 6 straipsnis. Labdaros organizacijų ir fondų,
 
@@ -2156,9 +2354,9 @@ faktiškai padarytomis ir juridinę galią turinčiais dokumentais patvirtintomi
 
 išlaidomis, skirtomis labdarai ir paramai.
 
-Labdaros ir paramos
+Labdaros ir
 
-įstatymo numatytiems labdaros davėjams ar rėmėjams, nenurodytiems šio
+paramos įstatymo numatytiems labdaros davėjams ar rėmėjams, nenurodytiems šio
 
 straipsnio pirmojoje dalyje, iš 4 straipsnyje nustatyta tvarka apskaičiuoto
 
@@ -2181,6 +2379,54 @@ valstybių juridiniams asmenims, išskyrus atvejus, kai tokia labdara ar parama
 teikiama per tarptautines labdaros organizacijas arba lietuvių bendruomenes,
 
 esančias užsienyje.
+
+[1, 2, 3 dalių redakcija nuo 2001 sausio
+
+1 d.:
+
+Juridinių
+
+asmenų, pagal Lietuvos Respublikos labdaros ir paramos įstatymą turinčių teisę
+
+teikti labdarą, šio įstatymo 4 straipsnyje nustatyta tvarka apskaičiuotas
+
+bendrasis apmokestinamasis pelnas mažinamas visomis faktiškai padarytomis ir
+
+juridinę galią turinčiais dokumentais patvirtintomis išlaidomis, skirtomis
+
+labdarai ir paramai.
+
+Iš kitų
+
+juridinių asmenų, nenurodytų šio straipsnio pirmojoje dalyje, kurie pagal
+
+Lietuvos Respublikos labdaros ir paramos įstatymą turi teisę teikti paramą, 4
+
+straipsnyje nustatyta tvarka apskaičiuoto bendrojo apmokestinamojo pelno
+
+atimamos faktiškai padarytos ir juridinę galią turinčiais dokumentais
+
+patvirtintos išlaidos, skirtos paramai, bet ne daugiau kaip 40 procentų
+
+bendrojo apmokestinamojo pelno.
+
+Teikiant labdarą
+
+ir paramą ilgalaikiu materialiuoju turtu, suteiktos labdaros ir paramos suma
+
+lygi šio turto likutinei vertei. Teikiant labdarą ir paramą kitomis
+
+materialinėmis vertybėmis, suteiktos labdaros ir paramos suma yra lygi šių
+
+materialinių vertybių įsigijimo (pagaminimo) savikainai. Teikiant labdarą ir
+
+paramą paslaugomis, labdaros ir paramos suma yra lygi šių paslaugų suteikimo
+
+savikainai. Teikiant paramą panaudos teise perduodant ilgalaikį materialųjį
+
+turtą, paramos suma lygi apskaičiuotai šio turto nusidėvėjimo per laikotarpį,
+
+kurį paramos gavėjas naudojo šį turtą, sumai.]
 
 Laisvųjų
 
@@ -2208,43 +2454,65 @@ pakeitimai:
 
 Nr.
 
-I-1516, 91.06.27, Žin., 1991, Nr. 20-520
+I-1516,
+
+91.06.27, Žin., 1991, Nr. 20-520
 
 Nr.
 
-I-2275, 92.02.06, Žin., 1992, Nr. 6-110
+I-2275,
+
+92.02.06, Žin., 1992, Nr. 6-110
 
 Nr.
 
-I-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+I-152,
+
+93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
 
 Nr.
 
-I-212, 93.07.13, Žin., 1993, Nr. 30-682 (93.07.21)
+I-212,
+
+93.07.13, Žin., 1993, Nr. 30-682 (93.07.21)
 
 Nr.
 
-I-539, 94.07.12, Žin., 1994, Nr. 55-1052 (94.07.20)
+I-539,
+
+94.07.12, Žin., 1994, Nr. 55-1052 (94.07.20)
 
 Nr.
 
-I-1255, 96.03.28, Žin., 1996, Nr. 35-862 (96.04.19)
+I-1255,
+
+96.03.28, Žin., 1996, Nr. 35-862 (96.04.19)
 
 Nr.
 
-I-1399, 96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
+I-1399,
+
+96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
 
 Nr.
 
-I-1460, 96.07.10, Žin., 1996, Nr. 73-1746 (96.07.31)
+I-1460,
+
+96.07.10, Žin., 1996, Nr. 73-1746 (96.07.31)
 
 Nr.
 
-VIII-165, 97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
+VIII-165,
 
-Nr.
+97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
 
-VIII-836, 98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+Nr. VIII-836,
+
+98.07.02, Žin., 1998, Nr.68-1977 (98.07.31)
+
+Nr. VIII-1812, 00.07.11, Žin., 2000,
+
+Nr.61-1819 (00.07.26), įsigalioja nuo 2001 m. sausio 1 d.
 
 III. Mokesčio
 
@@ -2264,7 +2532,9 @@ papildytas straipsniu:
 
 Nr.
 
-I-848, 95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
+I-848,
+
+95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
 
 20 straipsnis.
 
@@ -2286,5 +2556,7 @@ papildytas straipsniu:
 
 Nr.
 
-VIII-165, 97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
+VIII-165,
+
+97.03.27, Žin., 1997, Nr.28-661 (97.03.29)
 
