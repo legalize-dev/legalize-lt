@@ -4,7 +4,7 @@ identifier: "TAR.9D04F98F7C14"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-07"
-last_updated: "2003-05-15"
+last_updated: "2004-05-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -414,11 +414,11 @@ teisėtai įsigyjant gyvenamuosius namus, jų dalis, butus. Šiais būdais įsig
 
 gyvenamieji namai, jų dalys, butai registruojami savivaldybės nuosavybės teise.
 
-Valstybės biudžeto asignavimai socialinio būsto fondui plėtoti planuojami ir paskirstomi
+Valstybės biudžeto asignavimai socialinio būsto fondui plėtoti planuojami ir
 
-savivaldybėms pagal Vyriausybės patvirtintą socialinio būsto fondo plėtros
+paskirstomi savivaldybėms pagal Vyriausybės patvirtintą socialinio būsto fondo
 
-programą.
+plėtros programą.
 
 2. Socialinis
 
@@ -538,9 +538,11 @@ Socialinio būsto nuomos tvarka ir sąlygos
 
 pagal šio Įstatymo 8 straipsnį, pateikę rašytinį prašymą, registruojami
 
-savivaldybės vykdomojoje institucijoje pagal asmens (šeimos atveju – vieno iš
+savivaldybės vykdomojoje institucijoje pagal asmens (šeimos atveju – vieno iš sutuoktinių)
 
-sutuoktinių) įstatymų nustatyta tvarka deklaruotą gyvenamąją vietą. Kartu su
+įstatymų nustatyta tvarka deklaruotą gyvenamąją vietą, o jei
+
+gyvenamosios vietos neturi, – pagal savivaldybę, kurioje gyvena. Kartu su
 
 prašymu pateikiami dokumentai, įrodantys teisę į socialinį būstą ar būsto
 
@@ -612,6 +614,14 @@ straipsnio 1 dalyje nurodyta tvarka pateikiami ne dažniau kaip vieną kartą pe
 
 trejus metus.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-2217,
+
+2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14)
+
 KETVIRTASIS
 
 SKIRSNIS
@@ -670,17 +680,17 @@ privatizuoti pagal Butų privatizavimo įstatymą;
 
 4) kai patalpų
 
-savininkai privatizuoja pagal Butų privatizavimo įstatymą privatizuotų
+savininkai privatizuoja pagal Butų privatizavimo įstatymą privatizuotų gyvenamųjų
 
-gyvenamųjų patalpų papildomą naudingąjį plotą, atsiradusį atlikus privatizuoto
+patalpų papildomą naudingąjį plotą, atsiradusį atlikus privatizuoto buto
 
-buto inventorizaciją, taip pat plotą, atsiradusį savivaldybės institucijos
+inventorizaciją, taip pat plotą, atsiradusį savivaldybės institucijos sutikimu
 
-sutikimu išplėtus privatizuoto buto naudingąjį plotą sumažinant gyvenamojo namo
+išplėtus privatizuoto buto naudingąjį plotą sumažinant gyvenamojo namo bendrojo
 
-bendrojo naudojimo patalpų plotą (bendrabučių privatizavimo ir pertvarkymo į
+naudojimo patalpų plotą (bendrabučių privatizavimo ir pertvarkymo į butus
 
-butus atvejais);
+atvejais);
 
 5) kai
 
@@ -690,15 +700,15 @@ tremtiniams Vyriausybės nustatyta tvarka nuomos pagrindais suteiktos
 
 gyvenamosios patalpos;
 
-6) kai
+6) kai privatizuoja
 
-privatizuoja nuomininkai, gyvenantys gyvenamosiose patalpose, kurios
+nuomininkai, gyvenantys gyvenamosiose patalpose, kurios negrąžintos natūra
 
-negrąžintos natūra religinėms bendruomenėms ar bendrijoms, taip pat
+religinėms bendruomenėms ar bendrijoms, taip pat nuomininkai, kuriems suteiktos
 
-nuomininkai, kuriems suteiktos kitos gyvenamosios patalpos, iškeldinus juos iš
+kitos gyvenamosios patalpos, iškeldinus juos iš religinėms bendruomenėms ar
 
-religinėms bendruomenėms ar bendrijoms grąžintų gyvenamųjų patalpų;
+bendrijoms grąžintų gyvenamųjų patalpų;
 
 7) taip pat
 
@@ -708,13 +718,13 @@ turtą atkūrimo įstatymas ir (ar) kiti teisės aktai, susiję su šio Įstatym
 
 įgyvendinimu.
 
-2. Už kainą, Vyriausybės
+2. Už kainą,
 
-nustatyta tvarka apskaičiuotą pagal Turto ir verslo vertinimo pagrindų
+Vyriausybės nustatyta tvarka apskaičiuotą pagal Turto ir verslo vertinimo
 
-įstatymą, gali būti parduodamos šios savivaldybės (valstybės) gyvenamosios
+pagrindų įstatymą, gali būti parduodamos šios savivaldybės (valstybės)
 
-patalpos ir jų priklausiniai:
+gyvenamosios patalpos ir jų priklausiniai:
 
 1) kambariai (ir
 
@@ -816,7 +826,7 @@ Vilnius, 1992 m. balandžio 7 d.
 
 Nr. I-2455
 
-__________________
+________________
 
 Pakeitimai:
 
@@ -832,9 +842,7 @@ Nr.I-358;
 
 DĖL
 
-LIETUVOS RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO
-
-PAKEITIMO
+LIETUVOS RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO PAKEITIMO
 
 IR
 
@@ -990,13 +998,37 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO 2, 4, 6, 8, 12 STRAIPSNIŲ
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2217,
+
+2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14)
+
+VALSTYBINIŲ
+
+SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIŲ ŠALPOS IŠMOKŲ ĮSTATYMO,
+
+MOKSLININKŲ VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO, VALSTYBINIŲ PENSIJŲ
+
+ĮSTATYMO, VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO, PINIGINĖS
+
+SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS
+
+ASMENIMS) ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-05-21)
+Aušrinė Trapinskienė (2004-05-18)
 
 autrap@lrs.lt
 
