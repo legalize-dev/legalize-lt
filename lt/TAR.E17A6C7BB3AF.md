@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "1998-10-15"
+last_updated: "1999-03-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1998.11.04)
+Lūžaitė (1999.04.02)
 
 Įstatymas
 
@@ -148,6 +148,20 @@ LIETUVOS
 RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO PAKEITIMO IR APSKRITIES VALDYMO
 
 ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+
+9.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1093, 99.03.18,
+
+Žin., 1999, Nr.30-854 (99.04.02)
+
+LIETUVOS RESPUBLIKOS
+
+APSKRITIES VALDYMO ĮSTATYMO 12 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -461,9 +475,9 @@ Apskrities viršininkas:
 
 valstybines švietimo, išskyrus aukštąsias mokyklas, įstaigas,
 
-kultūros, kūno kultūros ir sporto, socialinės paramos ir globos įstaigas bei
+kultūros, kūno kultūros ir sporto, socialinės paramos ir globos įstaigas bei tarnybas,
 
-tarnybas, taip pat specialiųjų socialinių paslaugų institucijas;
+taip pat specialiųjų socialinių paslaugų institucijas;
 
 2) atsako už šio straipsnio 1 punkte nurodytų valstybinių įstaigų funkcionavimą
 
@@ -473,9 +487,9 @@ ir jų išlaikymą;
 
 vykdymą;
 
-4) rengia, koordinuoja ir vykdo apskrities socialines programas ir socialinius
+4) rengia,
 
-projektus;
+koordinuoja ir vykdo apskrities socialines programas ir socialinius projektus;
 
 5) kontroliuoja socialinių paslaugų teikimą apskričiai priklausančiose
 
@@ -501,9 +515,9 @@ Nr. VIII-129,
 
 97.02.25, Žin., 1997, Nr.21-489 (97.03.12)
 
-Nr. VIII-471,
+Nr. VIII-471, 97.10.21,
 
-97.10.21, Žin., 1997, Nr.101-2549 (97.11.07)
+Žin., 1997, Nr.101-2549 (97.11.07)
 
 8 straipsnis. Apskrities viršininko įgaliojimai sveikatos
 
@@ -537,9 +551,9 @@ apskrityje, regioninių visuomenės sveikatos ugdymo ir neinfekcinių ligų bei
 
 traumų profilaktikos programų rengimą ir jų įgyvendinimą;
 
-5) bendradarbiauja su apskrities savivaldybėmis formuojant savivaldybių bendruomenių
+5) bendradarbiauja su apskrities savivaldybėmis formuojant savivaldybių
 
-sveikatos tarybas ir organizuojant jų veiklą;
+bendruomenių sveikatos tarybas ir organizuojant jų veiklą;
 
 6) įstatymų nustatyta tvarka ir pagrindais teikia siūlymus Vyriausybei skelbti
 
@@ -605,13 +619,13 @@ priežiūrą;
 
 nustatyta tvarka prižiūri teritorijos planavimą;
 
-7) koordinuoja
+7)
 
-savivaldybių ir valstybės institucijų veiklą vykdant geodezijos, topografijos,
+koordinuoja savivaldybių ir valstybės institucijų veiklą vykdant geodezijos,
 
-kartografijos ir geoinformatikos darbus, nustatyta tvarka atlieka šių darbų
+topografijos, kartografijos ir geoinformatikos darbus, nustatyta tvarka atlieka
 
-valstybinę priežiūrą;
+šių darbų valstybinę priežiūrą;
 
 8) atlieka
 
@@ -697,9 +711,9 @@ Apskrities viršininkas:
 
 1) organizuoja veiklą apskričiai priskirtose
 
-saugomose teritorijose ir dalyvauja valdant kitas valstybės saugomas
+saugomose teritorijose ir dalyvauja valdant kitas valstybės saugomas teritorijas
 
-teritorijas (išskyrus rezervatus);
+(išskyrus rezervatus);
 
 2) pagal savo kompetenciją teikia pasiūlymus
 
@@ -807,7 +821,13 @@ akcinėse bendrovėse ar uždarosiose akcinėse bendrovėse, kuriose valstybei
 
 priklausančių akcijų valdytojas yra Valstybės turto fondas ar kita valstybės
 
-institucija.
+institucija;
+
+10) teikia Vyriausybei Apskrities
+
+administracinių ginčų komisijos narių kandidatūras, tarp jų - ir pirmininko
+
+kandidatūrą.
 
 Apskrities
 
@@ -835,6 +855,10 @@ Nr.
 
 VIII-896, 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
 
+Nr. VIII-1093,
+
+99.03.18, Žin., 1999, Nr.30-854 (99.04.02)
+
 13
 
 straipsnis. Apskrities viršininko teisės
@@ -853,17 +877,17 @@ tarpregioninių programų projektų;
 
 2)
 
-teikti pasiūlymus Vyriausybei ir kitoms valstybės valdymo institucijoms
+teikti pasiūlymus Vyriausybei ir kitoms valstybės valdymo institucijoms apskrities
 
-apskrities raidos klausimais;
+raidos klausimais;
 
 3)
 
-dalyvauti Vyriausybės posėdžiuose svarstant su apskrities valdytojo kompetencija
+dalyvauti Vyriausybės posėdžiuose svarstant su apskrities valdytojo
 
-susijusius klausimus, taip pat apskrityje esančių ministerijų ir kitų
+kompetencija susijusius klausimus, taip pat apskrityje esančių ministerijų ir
 
-Vyriausybės institucijų struktūrinių padalinių bei savivaldos institucijų
+kitų Vyriausybės institucijų struktūrinių padalinių bei savivaldos institucijų
 
 posėdžiuose;
 
@@ -875,11 +899,11 @@ institucijų struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkaut
 
 5)
 
-sustabdyti ar panaikinti apskrityje esančių įmonių, įstaigų ir organizacijų
+sustabdyti ar panaikinti apskrityje esančių įmonių, įstaigų ir organizacijų priimtus
 
-priimtus teisės aktus, neatitinkančius Lietuvos Respublikos įstatymų ir
+teisės aktus, neatitinkančius Lietuvos Respublikos įstatymų ir Vyriausybės
 
-Vyriausybės nutarimų;
+nutarimų;
 
 6)
 
@@ -1031,15 +1055,13 @@ viršininkas  praneša  atitinkamai  Lietuvos Respublikos Seimui  ar Vyriaus
 
 apie valstybės  valdymo institucijų padalinių apskrityje veiklą ir sprendimus,
 
-jei jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba pažeidžia
+jei jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba
 
-piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina ar
+pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina
 
-nepakeičia jį priėmęs valstybės valdymo institucijos padalinys  ar
+ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys  ar  aukštesnioji
 
-aukštesnioji  valstybės  valdymo institucija, galutinį sprendimą priima
-
-Vyriausybė.
+valstybės  valdymo institucija, galutinį sprendimą priima Vyriausybė.
 
 Straipsnio
 
@@ -1161,11 +1183,11 @@ teikia Vyriausybei apskrities lėšų sąmatos projektą;
 
 3) įstatymų ir kitų teisės aktų nustatyta
 
-tvarka skiria ir atleidžia iš pareigų jam pavaldžių įstaigų vadovus, administracijos
+tvarka skiria ir atleidžia iš pareigų jam pavaldžių įstaigų vadovus,
 
-departamentų, skyrių ir padalinių vadovus, sudaro su šiais darbuotojais darbo
+administracijos departamentų, skyrių ir padalinių vadovus, sudaro su šiais
 
-sutartis;
+darbuotojais darbo sutartis;
 
 4)
 
