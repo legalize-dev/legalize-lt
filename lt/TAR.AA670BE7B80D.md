@@ -4,7 +4,7 @@ identifier: "TAR.AA670BE7B80D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-14"
-last_updated: "1997-06-30"
+last_updated: "1999-03-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AA670BE7B80D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,11 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramunė Lūžaitė (1997.07.14)
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.07.14)
+Ramunė Lūžaitė (1999.04.14)
 
 Įstatymas
 
@@ -46,6 +46,22 @@ LIETUVOS
 RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS VYSTYMO BANKO STEIGIMO IR STATUTO
 
 PATVIRTINIMO” PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-1114, 99.03.30, Žin., 1999, Nr.33-949 (99.04.14)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS VYSTYMO BANKO STEIGIMO IR STATUTO
+
+PATVIRTINIMO” PAPILDYMO IR JO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
 
 ***
 
@@ -107,6 +123,32 @@ Pasiūlyti Lietuvos Respublikos Vyriausybei dalyvauti steigiant Lietuvos vystymo
 
 banką.
 
+4. Nustatyti, kad Lietuvos vystymo bankas
+
+pradeda veikti pagal Lietuvos Respublikos komercinių bankų įstatymą kaip
+
+komercinis bankas parengus Lietuvos vystymo banko statuto naują redakciją pagal
+
+Lietuvos Respublikos komercinių bankų įstatymą, statutą įregistravus Lietuvos
+
+Respublikos įmonių rejestro įstatymo nustatyta tvarka ir pakeitus banko
+
+licenciją. Šio įstatymo patvirtintu statutu Lietuvos vystymo bankas vadovaujasi
+
+iki naujos redakcijos statuto, parengto pagal Lietuvos Respublikos komercinių
+
+bankų įstatymą, įregistravimo Lietuvos Respublikos įmonių rejestro įstatymo
+
+nustatyta tvarka ir banko licencijos pakeitimo.
+
+Įstatymo
+
+pakeitimai:
+
+Nr.
+
+VIII-1114, 99.03.30, Žin., 1999, Nr.33-949 (99.04.14)
+
 Skelbiu
 
 šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -141,13 +183,15 @@ BENDRIEJI NUOSTATAI
 
 straipsnis
 
-Lietuvos
+UAB Lietuvos vystymo bankas (toliau -
 
-vystymo bankas yra akcinis investicijų bankas, steigiamas Lietuvos Respublikos
+Lietuvos vystymo bankas) yra akcinio kapitalo pagrindu veikianti įmonė,
 
-Vyriausybės kartu su Europos rekonstrukcijos ir vystymo banku, suteikiant
+steigiama Lietuvos Respublikos Vyriausybės kartu su Europos rekonstrukcijos ir
 
-galimybę dalyvauti ir kitiems Lietuvos bei užsienio akcininkams.
+vystymo banku, suteikiant galimybę dalyvauti ir kitiems Lietuvos bei užsienio
+
+akcininkams.
 
 Lietuvos
 
@@ -155,23 +199,25 @@ vystymo bankas vadovaujasi Lietuvos Respublikos įstatymais,  šiuo  statutu 
 
 tarptautinės  bankininkystės principais.
 
-Lietuvos
+Lietuvos vystymo bankas yra juridinis asmuo,
 
-vystymo bankas yra juridinis asmuo, veikiantis nepriklausomai ir savarankiškai.
+veikiantis nepriklausomai ir savarankiškai. Banko pavadinimas yra:
 
-Banko pavadinimas yra:
+lietuviškai - UAB Lietuvos vystymo
 
-lietuviškai
+bankas (sutrumpintai - LVB),
 
-- Lietuvos vystymo bankas (sutrumpintai - LVB),
+angliškai - CSC Lithuanian Development
 
-angliškai
+Bank (sutrumpintai - LDB).
 
-- Lithuanian Development Bank (sutrumpintai - LDB).
+Straipsnio
 
-Banko
+pakeitimai:
 
-būstinė yra Vilniuje.
+Nr.
+
+VIII-1114, 99.03.30, Žin., 1999, Nr.33-949 (99.04.14)
 
 2
 
@@ -307,9 +353,9 @@ iki kurios visos akcijos turi būti apmokėtos;
 
 2)
 
-steigiamojo akcininkų susirinkimo protokolas, nurodantis išrinktus Direktorių
+steigiamojo akcininkų susirinkimo protokolas, nurodantis išrinktus Direktorių  valdybos
 
-valdybos narius  ir  paskirtus  banko auditorius;
+narius  ir  paskirtus  banko auditorius;
 
 3)
 
@@ -361,9 +407,9 @@ straipsnis
 
 LVB
 
-akcinis kapitalas yra 10,8 milijono ekiu. Akcinis kapitalas padalintas į 108
+akcinis kapitalas yra 10,8 milijono eurų. Akcinis kapitalas padalintas į 108
 
-paprastąsias vardines akcijas, kurių kiekvienos nominali vertė 100 000 ekiu.
+paprastąsias vardines akcijas, kurių kiekvienos nominali vertė 100 000 eurų.
 
 Įmokos
 
@@ -388,6 +434,10 @@ pakeitimai:
 Nr.
 
 VIII-350, 97.06.30, Žin., 1997, Nr.66-1615 (97.07.11)
+
+Nr.
+
+VIII-1114, 99.03.30, Žin., 1999, Nr.33-949 (99.04.14)
 
 9
 
@@ -423,11 +473,11 @@ akcininkų susirinkimas nustato papildomos akcijų emisijos sąlygas, kapitalo
 
 padidinimo metu išleidžiamų akcijų klases ir kiekį, pasirašymo sąlygas ir
 
-tvarką. Pasirašytos akcijos turi būti apmokėtos per visuotinio akcininkų
+tvarką. Pasirašytos akcijos turi būti apmokėtos per visuotinio akcininkų susirinkimo
 
-susirinkimo nustatytą laikotarpį, kuris negali būti ilgesnis kaip vieneri metai
+nustatytą laikotarpį, kuris negali būti ilgesnis kaip vieneri metai nuo akcijų
 
-nuo akcijų pasirašymo dienos.
+pasirašymo dienos.
 
 11
 
@@ -607,13 +657,13 @@ užmokestį, priklausantį nuo pagrindinio skolininko finansinio  pajėgumo
 
 6)
 
-teikdamas paskolas ir investuodamas LVB siekia, kad komisiniai ir kiti mokesčiai,
+teikdamas paskolas ir investuodamas LVB siekia, kad komisiniai ir kiti
 
-taip pat palūkanos už paskolas ir kitas operacijas būtų nustatomi tokio dydžio,
+mokesčiai, taip pat palūkanos už paskolas ir kitas operacijas būtų nustatomi
 
-jog atlygintų LVB išlaidas ir atneštų bankui komercinį pelną, taip pat atitiktų
+tokio dydžio, jog atlygintų LVB išlaidas ir atneštų bankui komercinį pelną,
 
-pasirinktos operacijos rinkos sąlygas;
+taip pat atitiktų pasirinktos operacijos rinkos sąlygas;
 
 7)
 
@@ -767,11 +817,11 @@ daugiau kaip pusę visų balsų skaičiaus, arba jų įgalioti asmenys. Jeigu n�
 
 kvorumo, tai Direktorių valdyba, vadovaudamasi šio statuto 19 straipsnyje
 
-nustatyta susirinkimų šaukimo tvarka, privalo nedelsdama sušaukti pakartotinį susirinkimą.
+nustatyta susirinkimų šaukimo tvarka, privalo nedelsdama sušaukti pakartotinį
 
-Pakartotinis susirinkimas turi teisę priimti nutarimus, neatsižvelgiant į
+susirinkimą. Pakartotinis susirinkimas turi teisę priimti nutarimus,
 
-susirinkusiųjų akcininkų skaičių.
+neatsižvelgiant į susirinkusiųjų akcininkų skaičių.
 
 Visuotinis
 
@@ -921,9 +971,9 @@ rečiau kaip 4 kartus per metus.
 
 Posėdis
 
-taip pat gali būti šaukiamas nors dviejų Direktorių valdybos narių arba
+taip pat gali būti šaukiamas nors dviejų Direktorių valdybos narių arba prezidento,
 
-prezidento, arba auditoriaus (auditorių) reikalavimu, pateikus posėdžio darbotvarkę.
+arba auditoriaus (auditorių) reikalavimu, pateikus posėdžio darbotvarkę.
 
 Direktorių
 
@@ -931,13 +981,13 @@ valdyba priima nutarimus, kai posėdyje dalyvauja daugiau kaip pusė jos narių
 
 arba jų įgalioti asmenys. Direktorių valdybos nutarimai priimami dalyvaujančių
 
-ir balsuojančių narių balsų dauguma, išskyrus klausimus, išvardintus 21 straipsnio
+ir balsuojančių narių balsų dauguma, išskyrus klausimus, išvardintus 21
 
-2, 3 ir 7 punktuose, kurie priimami 2/3 dalyvaujančių ir balsuojančių narių
+straipsnio 2, 3 ir 7 punktuose, kurie priimami 2/3 dalyvaujančių ir
 
-balsų. Kiekvienas narys turi vieną balsą. Balsų surinkus po lygiai, susirinkimo
+balsuojančių narių balsų. Kiekvienas narys turi vieną balsą. Balsų surinkus po
 
-pirmininko balsas yra lemiantis.
+lygiai, susirinkimo pirmininko balsas yra lemiantis.
 
 Esant
 
