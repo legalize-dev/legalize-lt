@@ -4,7 +4,7 @@ identifier: "TAR.A84A37E84BD7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-29"
-last_updated: "2000-12-23"
+last_updated: "2001-01-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A84A37E84BD7"
 department: "Lietuvos Respublikos Seimas"
@@ -137,29 +137,17 @@ kūrinių bei nepriklausomų kūrėjų garso ir vaizdo (audiovizualinių) kūrin
 
 programose mastus nustato Visuomenės informavimo įstatymas.
 
-4. Minimali LRT
-
-programų transliavimo trukmė yra:
-
-1) televizijos: darbo
-
-dienomis - 12 valandų per parą, savaitgaliais ir švenčių dienomis - 16 valandų
-
-per parą;
-
-2) radijo: pirmosios
-
-programos trukmė - 24 valandos per parą, antrosios - 18 valandų per parą,
-
-trečiosios - 12 valandų per parą.
-
 Straipsnio
 
 pakeitimai:
 
-Nr. VIII-2070, 2000 10 17, Žin., 2000, Nr.
+Nr. VIII-2070,
 
-94-2919 (2000 11 03)
+2000 10 17, Žin., 2000, Nr. 94-2919 (2000 11 03)
+
+Nr. IX-155,
+
+2001 01 25, Žin., 2001, Nr. 16-491 (2001 02 21)
 
 5 straipsnis. LRT teisės ir pareigos
 
@@ -219,11 +207,11 @@ radijo programas.
 
 laiką Respublikos Prezidentui kalbėti šalies vidaus ir užsienio politikos
 
-klausimais Prezidento įstatymo nustatyta tvarka. Seimo ar Vyriausybės prašymu
+klausimais Prezidento įstatymo nustatyta tvarka. Seimo ar Vyriausybės prašymu LRT
 
-LRT pagal galimybes kuo greičiau suteikia laiką oficialiems Seimo ar
+pagal galimybes kuo greičiau suteikia laiką oficialiems Seimo ar Vyriausybės
 
-Vyriausybės pranešimams. LRT gali leisti kalbėti opozicijos atstovui.
+pranešimams. LRT gali leisti kalbėti opozicijos atstovui.
 
 7. LRT suteikia
 
@@ -275,11 +263,11 @@ valstybinės reikšmės renginius;
 
 skirtose laidose.
 
-3. Reklamos
+3. Reklamos trukmė
 
-trukmė tiek LRT televizijos, tiek LRT radijo programose neturi viršyti 15
+tiek LRT televizijos, tiek LRT radijo programose neturi viršyti 15 procentų
 
-procentų dienos transliavimo laiko.
+dienos transliavimo laiko.
 
 4. Didėjant
 
@@ -313,9 +301,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-2070, 2000 10 17, Žin., 2000, Nr.
+Nr. VIII-2070,
 
-94-2919 (2000 11 03)
+2000 10 17, Žin., 2000, Nr. 94-2919 (2000 11 03)
 
 7 straipsnis. LRT programų rėmimas
 
@@ -493,9 +481,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1911, 2000 08 31, Žin., 2000, Nr.
+Nr. VIII-1911,
 
-78-2362 (2000 09 15), įsigalioja nuo 2000 10 01
+2000 08 31, Žin., 2000, Nr. 78-2362 (2000 09 15), įsigalioja nuo 2000 10 01
 
 10 straipsnis.
 
@@ -509,9 +497,9 @@ programų valstybinę strategiją;
 
 2) formuoja LRT
 
-programų mastus ir struktūrą, kasmet tvirtina LRT programų sudėtį ir jų
+programų mastus ir struktūrą, nustato LRT programų transliavimo trukmę, kasmet
 
-pakeitimus;
+tvirtina LRT programų sudėtį ir jų pakeitimus;
 
 3) nustato
 
@@ -583,9 +571,9 @@ konkurso būdu 5 metams skiria generalinį direktorių, nustato jo atlyginimą;
 
 pavaduotojų skaičių;
 
-18) generalinio direktoriaus teikimu
+18) generalinio direktoriaus teikimu skiria
 
-skiria ir atleidžia jo pavaduotojus.
+ir atleidžia jo pavaduotojus.
 
 2. Tarybos narys negali būti generaliniu
 
@@ -603,9 +591,9 @@ dėl Tarybos atsistatydinimo. Taryba privalo ne vėliau kaip per 10 dienų
 
 svarstyti generalinio direktoriaus prašymą. Pakartotinai balsavus už tą patį
 
-nutarimą daugiau kaip pusei visų Tarybos narių, generalinis direktorius
+nutarimą daugiau kaip pusei visų Tarybos narių, generalinis direktorius nutarimą
 
-nutarimą privalo vykdyti.
+privalo vykdyti.
 
 5. Taryba turi
 
@@ -629,6 +617,14 @@ paskelbia metinę veiklos ataskaitą, o Tarybos pirmininkas kartą per metus už
 
 LRT veiklą atsiskaito Seimo plenariniame posėdyje.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-155,
+
+2001 01 25, Žin., 2001, Nr. 16-491 (2001 02 21)
+
 11 straipsnis.
 
 Administracinė komisija, jos funkcijos, teisės ir atskaitomybė
@@ -639,15 +635,15 @@ Administracinė komisija sudaroma iš 5 narių. Administracinės komisijos nariu
 
 metams skiria Taryba. Administracinės komisijos nariais negali būti Seimo,
 
-Vyriausybės nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, asmenys,
+Vyriausybės nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai,
 
-dirbantys pagal darbo sutartis radijo ir (ar) televizijos stotyse, įskaitant ir
+asmenys, dirbantys pagal darbo sutartis radijo ir (ar) televizijos stotyse,
 
-LRT. Pasibaigus Administracinės komisijos nario kadencijai, jis gali būti
+įskaitant ir LRT. Pasibaigus Administracinės komisijos nario kadencijai, jis
 
-skiriamas pakartotinai, su sąlyga, jeigu dėl tokio paskyrimo nesusidaro daugiau
+gali būti skiriamas pakartotinai, su sąlyga, jeigu dėl tokio paskyrimo
 
-kaip dvi kadencijos iš eilės.
+nesusidaro daugiau kaip dvi kadencijos iš eilės.
 
 2.
 
@@ -789,9 +785,7 @@ visų Tarybos narių.
 
 direktorius gali atsistatydinti nepasibaigus kadencijai. Tuo atveju
 
-atsistatydina ir jo teikimu Tarybos paskirti generalinio direktoriaus
-
-pavaduotojai.
+atsistatydina ir jo teikimu Tarybos paskirti generalinio direktoriaus pavaduotojai.
 
 6. Tarybai
 
@@ -905,9 +899,9 @@ komercinės ir ūkinės veiklos. Didėjant valstybės rinkliavos LRT įplaukoms,
 
 atitinkamai mažinamas LRT finansavimas iš biudžeto.
 
-2. LRT savarankiškai
+2. LRT
 
-vykdo komercinę, ūkinę, leidybos veiklą.
+savarankiškai vykdo komercinę, ūkinę, leidybos veiklą.
 
 3. LRT skiriamos
 
