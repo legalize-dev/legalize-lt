@@ -4,7 +4,7 @@ identifier: "TAR.4043B97881A2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-06"
-last_updated: "1996-01-01"
+last_updated: "1999-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4043B97881A2"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1995-06-06"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas
+
+Suvestinė redakcija nuo 1999-12-22 iki 2001-07-24
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 53-1290, i. k. 0951010ISTA000I-924
 
 LIETUVOS RESPUBLIKOS
 
@@ -55,7 +59,13 @@ slaugos personalas – sveikatos pagalbos įstaigų darbuotojai, slaugantys psic
 
 psichikos sveikatos priežiūra – specializuota sveikatos priežiūra, vykdoma pagal Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintus standartus. Šios priežiūros tikslas – teikti psichiatrijos pagalbą (diagnozuoti, gydyti sutrikusias žmogaus psichikos funkcijas, laiku perspėti psichikos ligų paūmėjimus), padėti žmogui prisitaikyti prie visuomenės gyvenimo ir į jį grįžti;
 
-hospitalizavimas – asmens paguldymas į psichiatrijos įstaigą.
+hospitalizavimas – asmens paguldymas į psichiatrijos įstaigą;
+
+psichinė sveikata – tai natūrali žmogaus asmenybės būsena, kuri turi būti saugoma arba grąžinama sutrikimų bei ligų atvejais. Pagal Pasaulio Sveikatos Organizacijos apibrėžimą – psichikos sveikata yra emocinis ir dvasinis atsparumas, kuris leidžia patirti džiaugsmą ir ištverti skausmą, nusivylimą, liūdesį. Tai teigiamas gėrio jausmas, kuriuo remiasi tikėjimas savo bei kitų žmonių orumu ir verte.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1461, 1999-12-02, Žin., 1999, Nr. 108-3127 (1999-12-22), i. k. 0991010ISTAIII-1461
 
 2 straipsnis. Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo tikslas – nustatyti asmenų, kurie naudojasi psichikos sveikatos priežiūra, teises, psichikos sveikatos priežiūros tvarką ir kontrolę.
 
@@ -231,7 +241,7 @@ Praėjus 6 mėnesiams, o jeigu reikia, ir anksčiau, teismas pagal psichiatrijos
 
 38 straipsnis. Teismo nutartimi priverstinai hospitalizuotiems ligoniams, padariusiems visuomenei pavojingą veiką, galioja šio įstatymo reikalavimai, išskyrus teisę pasirinkti psichiatrijos įstaigą, sveikatos priežiūros sąlygas.
 
-X SKYRIUS. SAVIVALDYBĖS PSICHIKOS SVEIKATOS KOMISIJA
+IX1 skyrius. VALSTYBINĖ PSICHIKOS SVEIKATOS KOMISIJA PRIE LIETUVOS RESPUBLIKOS VYRIAUSYBĖS
 
 39 straipsnis. SPSK yra steigiama savivaldybės valdybos sprendimu trejiems metams ten, kur yra stacionarinė psichiatrijos įstaiga, šio įstatymo nustatytiems psichikos sveikatos priežiūros klausimams spręsti: priverstinio hospitalizavimo, priverstinio gydymo, ginčams, kylantiems tarp paciento, jo atstovo ir medicinos darbuotojų dėl sveikatos priežiūros, ir kitiems šiame įstatyme ir SPSK nuostatuose nurodytiems klausimams.
 
@@ -268,6 +278,16 @@ XII SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1461, 1999-12-02, Žin., 1999, Nr. 108-3127 (1999-12-22), i. k. 0991010ISTAIII-1461
+
+Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo papildymo IX(1) skyriumi ir 1 straipsnio papildymo įstatymas
 
 381 straipsnis. Valstybinę psichikos sveikatos komisiją prie Lietuvos Respublikos Vyriausybės (toliau – VPSK) sudaro ir jos nuostatus tvirtina Vyriausybė. VPSK veikla reglamentuojama Sveikatos sistemos įstatymo, šio įstatymo bei VPSK nuostatų ir finansuojama iš valstybės biudžeto. VPSK sudaroma iš Sveikatos apsaugos, Socialinės apsaugos ir darbo, Švietimo ir mokslo, Vidaus reikalų, Teisingumo ministerijų atstovų, Lietuvos savivaldybių asociacijos, Sveikatos apsaugos ministerijos pasiūlytų visuomeninių organizacijų bei gausiausių tradicinių religinių bendruomenių atstovų, jos sudėtį ir sudarymo tvarką reglamentuoja šios komisijos nuostatai.
 
