@@ -4,7 +4,7 @@ identifier: "TAR.C6074E202D98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "1997-07-09"
+last_updated: "1999-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 1997-07-09 iki 1999-12-21
+Suvestinė redakcija nuo 1999-12-22 iki 2000-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
 
@@ -37,21 +37,13 @@ Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas tik įsta
 
 3 straipsnis. Zonos teritorija
 
-1. Zonos teritorija užima 1053,99 ha.
+1. Zonos teritorija užima 1000 ha, o jos ribas nustato šio įstatymo 4 straipsnis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1457, 1999-12-02, Žin., 1999, Nr. 108-3126 (1999-12-22), i. k. 0991010ISTAIII-1457
 
 2. Zonos teritorija Žemės nuomos įstatymo nustatyta tvarka išnuomojama zonos valdymo bendrovei.
-
-4 straipsnis. Zonos teritorijos ribos
-
-1. Nustatomos šios zonos teritorijos ribos:
-
-1) šiaurinė riba – magistralinis kelias A–6 Kaunas–Zarasai; sutampa su valstybinio žemės fondo (Karmėlavos gyvenvietės pietvakarinė riba), valstybės įmonės „Kauno aerouostas“ pietine riba, Jonavos rajono žemių ribomis;
-
-2) rytinė riba – geležinkelio ruožas Gaižiūnai–Palemonas;
-
-3) pietinė ir vakarinė riba – valstybinio vandens fondo upelio Zversva vaga bei šiame upelyje įrengto valstybinio vandens fondo tvenkinio dešinysis krantas.
-
-2. Zonos teritorijos ribų schema, pateikta kaip Įstatymo priedas, yra neatskiriama šio įstatymo dalis.
 
 5 straipsnis. Zonos veiklos rūšys
 
@@ -218,4 +210,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010ISTAVIII-334
 
 Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 6, 7, 8 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1457, 1999-12-02, Žin., 1999, Nr. 108-3126 (1999-12-22), i. k. 0991010ISTAIII-1457
+
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
 
