@@ -4,7 +4,7 @@ identifier: "TAR.FBE404535C5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-10-08"
-last_updated: "1997-09-25"
+last_updated: "1998-11-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1997.10.24)
+Lūžaitė (1998.12.02)
 
 Įstatymas
 
@@ -67,6 +67,22 @@ Nr. VIII-425,
 LIETUVOS
 
 RESPUBLIKOS TRANSPORTO VEIKLOS PAGRINDŲ ĮSTATYMO 9 STRAIPSNIO PAKEITIMO
+
+3.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-923, 98.11.17,
+
+Žin., 1998, Nr.105-2894 (98.12.02)
+
+LIETUVOS
+
+RESPUBLIKOS TRANSPORTO VEIKLOS PAGRINDŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
 
 ***
 
@@ -124,9 +140,9 @@ aptarnauti.
 
 Automobilių
 
-transportui  priklauso  keliai,  transporto priemonės, technologiniai įrengimai,
+transportui  priklauso  keliai,  transporto priemonės, technologiniai
 
-stotys ir kiti inžineriniai statiniai.
+įrengimai, stotys ir kiti inžineriniai statiniai.
 
 Jūrų
 
@@ -158,9 +174,9 @@ inžineriniai statiniai.
 
 Vamzdiniam
 
-transportui priklauso naftotiekio bei dujotiekio vamzdynų  linijos  technologiniai
+transportui priklauso naftotiekio bei dujotiekio vamzdynų  linijos
 
-įrengimai,  inžineriniai statiniai.
+technologiniai  įrengimai,  inžineriniai statiniai.
 
 3
 
@@ -208,25 +224,29 @@ Respublikos  Vyriausybės  įgaliotos institucijos.
 
 Vietos
 
-savivaldybių  žinioje esantį transportą įstatymo nustatyta tvarka valdo
+savivaldybių  žinioje esantį transportą įstatymo nustatyta tvarka valdo atitinkamos
 
-atitinkamos savivaldybės.
+savivaldybės.
 
 6
 
 straipsnis. Transporto paslaugų apmokėjimas
 
-Keleivių
+Keleivių vežimo kelių transportu reguliariais
 
-vežimo ir su tuo susijusių transporto paslaugų maksimalius tarifus, jų taikymo
+reisais tolimojo susisiekimo maršrutais, vietinio susisiekimo traukiniais ir
 
-taisykles tvirtina Lietuvos Respublikos Vyriausybė.
+vidaus vandenų transportu tarifus nustato vežėjas, maksimalius jų dydžius
 
-Lietuvos Respublikos Seimas gali nustatyti lengvatinio keleivių vežimo  tvarką.
+suderinęs su Valstybine kainų ir energetikos kontrolės komisija.
 
-Tokiu  atveju išlaidos  transporto priemonės  savininkui  kompensuojamos  iš
+Lietuvos Respublikos Seimas gali nustatyti
 
-valstybės  arba savivaldybių biudžetų.
+lengvatinio keleivių vežimo  tvarką. Tokiu  atveju išlaidos  transporto
+
+priemonės  savininkui  kompensuojamos  iš  valstybės  arba savivaldybių
+
+biudžetų.
 
 Už
 
@@ -252,6 +272,10 @@ Nr.
 
 I-1080, 95.10.31, Žin., 1995, Nr.92-2056 (95.11.10)
 
+Nr. VIII-923,
+
+98.11.17, Žin., 1998, Nr.105-2894 (98.12.02)
+
 7
 
 straipsnis. Teisė vairuoti transporto priemonę
@@ -270,9 +294,7 @@ Sveikatos
 
 būklės tinkamumą vairuoti transporto priemonę įvertina sveikatos apsaugos
 
-darbuotojai Lietuvos Respublikos sveikatos apsaugos ministerijos nustatyta
-
-tvarka.
+darbuotojai Lietuvos Respublikos sveikatos apsaugos ministerijos nustatyta tvarka.
 
 8
 
@@ -350,7 +372,7 @@ RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS
 
 PIRMININKO
 
-PAVADUOTOJAS                                  KAZIMIERAS MOTIEKA
+PAVADUOTOJAS                                  KAZIMIERAS MOTIEKA
 
 Vilnius,
 
