@@ -4,7 +4,7 @@ identifier: "TAR.1559303036A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-08"
-last_updated: "2001-01-25"
+last_updated: "2001-12-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1559303036A8"
 department: "Lietuvos Respublikos Seimas"
@@ -926,7 +926,7 @@ Nauja įstatymo redakcija
 
 LRT finansavimo
 
-tvarka pagal šį įstatymą įsigalioja nuo 2002 m. sausio 1 d.
+tvarka pagal šį įstatymą įsigalioja nuo 2003 m. sausio 1 d.
 
 LRT administracinė
 
@@ -938,7 +938,9 @@ finansavimo tvarkos įsigaliojimo.
 
 straipsnio 6 dalies nuostata įsigalioja nuo 2002 m. sausio 1 d.
 
-Pakeitimas:
+Pakeitimai:
+
+1)
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -948,7 +950,25 @@ Nr. IX-137, 2000 12 23, Žin., 2000, Nr.
 
 LIETUVOS NACIONALINIO RADIJO IR
 
-TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO
+
+2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2)
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. IX-695,
+
+2001-12-21, Žin., 2002, Nr. 2-52 (2002-01-09)
+
+LIETUVOS NACIONALINIO
+
+RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO
+
+2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 5.
 
@@ -990,11 +1010,13 @@ LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4 IR 10 STRAIPSNIŲ
 
 PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+***
+
+Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2001 02 21)
+Aušrinė Trapinskienė (2002-01-09)
 
 autrap@lrs.lt
 
