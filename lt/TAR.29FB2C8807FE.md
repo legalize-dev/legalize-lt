@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "1994-12-31"
+last_updated: "1995-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
+
+Suvestinė redakcija nuo 1995-05-03 iki 1996-07-04
+
+Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS IR SAVIVALDYBĖS ĮMONIŲ Į S T A T Y M A S
 
@@ -424,117 +428,17 @@ BAIGIAMOSIOS NUOSTATOS
 
 22 straipsnis
 
-1. Valstybinės įmonės, kurios įrašytos į Lietuvos Respublikos Seimo patvirtintą įmonių, kurių nenumatoma iki 2000 metų nei akcionuoti, nei privatizuoti, sąrašą, turi pataisyti savo įstatus pagal šį įstatymą ir įregistruoti juos per 3 mėnesius nuo šio įstatymo įsigaliojimo Įmonių rejestro įstatymo nustatyta tvarka. Šių įmonių įstatai iki jų perregistravimo galioja tiek, kiek jie neprieštarauja šiam įstatymui.
+1. Valstybinės įmonės, kurios įrašytos į Lietuvos Respublikos Seimo patvirtintą įmonių, kurių nenumatoma iki 2000 metų nei akcionuoti, nei privatizuoti, sąrašą, turi pataisyti savo įstatus pagal šį įstatymą ir įregistruoti juos per 6 mėnesius nuo šio įstatymo įsigaliojimo Įmonių rejestro įstatymo nustatyta tvarka. Šių įmonių įstatai iki jų perregistravimo galioja tiek, kiek jie neprieštarauja šiam įstatymui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-866, 1995-04-27, Žin., 1995, Nr. 36-888 (1995-05-03), i. k. 0951010ISTA000I-866
 
 2. Įmonių, kurios priklauso savivaldybių reguliavimo sričiai, steigėjo funkcijas, nustatytas šio įstatymo, iki įmonės bus perduotos savivaldybių nuosavybėn, atlieka atitinkamos savivaldybės taryba.
 
 3. Valstybinėms, valstybinėms akcinėms įmonėms, kol jos bus perregistruotos pagal Lietuvos Respublikos akcinių bendrovių įstatymą ar pagal Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymą, draudžiama iš likutinio pelno mokėti atlyginimus, premijas bei skirti šias lėšas kitoms vartojimo reikmėms ir akciniam kapitalui sudaryti bei didinti.
 
 4. Pripažinti netekusiais galios Lietuvos Respublikos valstybinių įmonių įstatymą (Žin., 1990, Nr. 30-709; 1991, Nr. 4-107; 1992, Nr. 30-914; 1993, Nr. 31-710, Nr. 32-730, Nr. 49-963, Nr. 52-995, Nr. 62-1169) ir Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą „Dėl Lietuvos Respublikos valstybinių įmonių įstatymo įsigaliojimo tvarkos“ (Žin., 1990, Nr. 30-710, Nr. 32-771).
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
-
-23 straipsnis. Įmonės pertvarkymas į akcinę bendrovę arba uždarąją akcinę bendrovę
-
-1. Įmonė gali būti pertvarkoma į akcinę bendrovę, jeigu įmonės nuosavas kapitalas yra ne mažesnis nei Akcinių bendrovių įstatyme akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas.
-
-2. Įmonė gali būti pertvarkoma į uždarąją akcinę bendrovę, jeigu įmonės nuosavas kapitalas yra ne mažesnis nei Akcinių bendrovių įstatyme uždarosioms akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas.
-
-3. Iki sprendimo pertvarkyti įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę priėmimo įmonės turtą turi įvertinti nepriklausomas turto vertintojas teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaita turi atitikti Akcinių bendrovių įstatymo nepiniginio įnašo vertinimui nustatytus reikalavimus ir ne vėliau kaip likus 10 dienų iki sprendimo pertvarkyti įmonę priėmimo turi būti pateikta įmonei. Pertvarkant įmonę į akcinę bendrovę, turto vertinimo ataskaita taip pat turi būti pateikta juridinių asmenų registrui kartu su kitais akcinės bendrovės įstatams įregistruoti reikalingais teisės aktų nustatytais dokumentais.
-
-4. Sprendimas pertvarkyti valstybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę gali būti priimamas, kai yra Vyriausybės sutikimas pertvarkyti valstybės įmonę, išskyrus atvejus, kai valstybės įmonei pertvarkyti į akcinę bendrovę ar uždarąją akcinę bendrovę priimamas atskiras įstatymas.
-
-5. Sprendimas pertvarkyti savivaldybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę gali būti priimamas, kai yra savivaldybės tarybos sutikimas pertvarkyti savivaldybės įmonę.
-
-6. Sprendime pertvarkyti įmonę į akcinę bendrovę ar uždarąją akcinę bendrovę, be šio Įstatymo 19 straipsnio 3 dalyje nustatytų reikalavimų, taip pat turi būti:
-
-1) nurodyta įmonės turto vertė;
-
-2) nurodytas po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė. Visos akcijos turi būti paprastosios vardinės akcijos. Akcijų nominalių verčių suma turi atitikti turto vertinimo ataskaitoje nurodytą turto vertę;
-
-3) nustatyta pertvarkomos įmonės valdymo organų kompetencija pertvarkymo laikotarpiu, jei ji skiriasi nuo kompetencijos, nustatytos šios įmonės įstatuose.
-
-7. Pertvarkius valstybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę, visų akcijų savininkė yra valstybė.
-
-8. Pertvarkius savivaldybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę, visų akcijų savininkė yra savivaldybė.
-
-9. Po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatus patvirtinusi valstybės ar savivaldybės institucija tampa valstybei arba savivaldybei nuosavybės teise priklausančių akcijų valdytoja.
-
-24 straipsnis. Įmonės likvidavimas
-
-1. Įmonė gali būti likviduojama Civilinio kodekso nustatytais juridinių asmenų likvidavimo pagrindais.
-
-2. Įmonės savininko teises ir pareigas įgyvendinanti institucija priimti sprendimą likviduoti įmonę gali tik po to, kai yra Vyriausybės nutarimas nutraukti valstybės įmonės veiklą arba savivaldybės tarybos sprendimas nutraukti savivaldybės įmonės veiklą.
-
-3. Sprendimą likviduoti įmonę priėmusi įmonės savininko teises ir pareigas įgyvendinanti institucija, teismas arba juridinių asmenų registro tvarkytojas, kai jų iniciatyva teismas priima sprendimą likviduoti įmonę, privalo paskirti likvidatorių. Nuo likvidatoriaus paskyrimo įmonės valdymo organai netenka savo įgaliojimų.
-
-4. Jei įmonė įsteigta ribotam laikui, likus ne mažiau kaip 3 mėnesiams iki nustatyto laikotarpio pabaigos, įmonės savininko teises ir pareigas įgyvendinanti institucija privalo paskirti likvidatorių arba priimti sprendimą pratęsti veiklos laikotarpį ir pakeisti įmonės įstatus. Jeigu šio Įstatymo 5 straipsnio 3 dalyje nurodytame teisės akte yra nustatytas laikotarpis, kuriam steigiama įmonė, sprendimas pratęsti šį valstybės įmonės veiklos laikotarpį gali būti priimamas gavus išankstinį Vyriausybės sutikimą, savivaldybės įmonės – gavus išankstinį savivaldybės tarybos sutikimą.
-
-5. Jei įmonės savininko teises ir pareigas įgyvendinanti institucija nepriima sprendimo pratęsti įmonės veiklos laikotarpį ir nepaskiria likvidatoriaus, įmonės vadovas ar juridinių asmenų registro tvarkytojas turi teisę kreiptis į teismą, kad šis paskirtų likvidatorių.
-
-6. Jei įmonės likvidavimo pagrindas yra teismo ar kreditorių susirinkimo sprendimas likviduoti bankrutavusią įmonę, ji likviduojama Įmonių bankroto įstatymo nustatyta tvarka.
-
-7. Apie sprendimą likviduoti įmonę turi būti viešai paskelbta įstatuose nustatyta tvarka ir įstatuose nurodytame dienraštyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta vieną kartą įstatuose nurodytame dienraštyje ir pranešta visiems kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
-
-1) įmonės pavadinimas;
-
-2) įmonės buveinė;
-
-3) įmonės kodas;
-
-4) registras, kuriame kaupiami ir saugomi duomenys apie likviduojamą įmonę;
-
-5) sprendimo likviduoti įmonę priėmimo diena.
-
-8. Apie likvidavimą pranešama juridinių asmenų registrui teisės aktų nustatyta tvarka ne vėliau kaip pirmą viešo paskelbimo dieną. Nuo sprendimo likviduoti įmonę priėmimo įmonė įgyja likviduojamos įmonės statusą, o jo netenka įmonę likvidavus ar įstatymų nustatytais atvejais atšaukus sprendimą ją likviduoti. Likvidavimo atšaukimą patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui.
-
-9. Likviduojamos įmonės kreditorių reikalavimai tenkinami įstatymų nustatyta tvarka. Patenkinus visus likviduojamos valstybės įmonės kreditorių reikalavimus, likęs turtas perduodamas valstybės įmonės savininko teises ir pareigas įgyvendinančiai institucijai, jeigu Vyriausybė nenutaria kitaip. Patenkinus visus likviduojamos savivaldybės įmonės kreditorių reikalavimus, likęs turtas savivaldybės tarybos sprendimu perduodamas kitiems savivaldybės administravimo subjektams.
-
-25 straipsnis. Likvidatoriaus kompetencija
-
-1. Likvidatorius turi įmonės valdymo organų teises ir pareigas nuo jo paskyrimo dienos.
-
-2. Be kitų šiame Įstatyme ir Civiliniame kodekse nustatytų pareigų, likvidatorius privalo:
-
-1) pranešti juridinių asmenų registrui apie sprendimą likviduoti įmonę, pateikti sprendimą patvirtinantį dokumentą ir pranešti duomenis apie likvidatorių;
-
-2) sudaryti likvidavimo laikotarpio pradžios įmonės balansą;
-
-3) baigti vykdyti įmonės prievoles, atsiskaityti su likviduojamos įmonės kreditoriais;
-
-4) pareikšti reikalavimus įmonės skolininkams;
-
-5) perduoti likusį įmonės turtą šio Įstatymo nustatyta tvarka;
-
-6) sudaryti įmonės likvidavimo aktą;
-
-7) perduoti dokumentus saugoti Archyvų įstatymo nustatyta tvarka;
-
-8) pateikti juridinių asmenų registrui įmonės likvidavimo aktą bei kitus teisės aktų nustatytus dokumentus, reikalingus likviduotai įmonei išregistruoti.
-
-Septintasis skirsnis
-
-BAIGIAMOSIOS NUOSTATOS
-
-26 straipsnis. Baigiamosios nuostatos
-
-1. Įsigaliojus šiam Įstatymui, institucijos, iki šio Įstatymo įsigaliojimo vykdžiusios įmonių steigėjo funkcijas, įgyvendina šių įmonių savininko teises ir pareigas.
-
-2. Šio Įstatymo nustatyti reikalavimai gauti Vyriausybės sutikimą priimant šiame Įstatyme nurodytus sprendimus Lietuvos Respublikos Seimui ir Lietuvos bankui netaikomi. Lietuvos bankui taip pat netaikoma šio Įstatymo 10 straipsnio 1 dalies nuostata skirti į valdybą (jeigu valdyba sudaroma) valstybės tarnautojus.
-
-3. Iki 2004 m. gruodžio 31 d. už kapitalo naudojimą įmonė moka palūkanas iš pelno. Valstybės įmonė moka palūkanas į valstybės biudžetą. Valstybės įmonių mokamų palūkanų dydį ir mokėjimo tvarką nustato Vyriausybė. Savivaldybės įmonė moka palūkanas į savivaldybės biudžetą. Savivaldybės įmonės mokamų palūkanų dydį ir mokėjimo tvarką nustato savivaldybės taryba.
-
-4. Šio Įstatymo nustatytos normos dėl įmonių registravimo juridinių asmenų registre įsigalioja nuo juridinių asmenų registro veiklos pradžios.
-
-5. Iki juridinių asmenų registro veiklos pradžios:
-
-1) įmonės, jų filialai ir atstovybės bei jų dokumentai ir duomenys registruojami ir kaupiami įmonių rejestre;
-
-2) dokumentai, kurie šio Įstatymo nustatyta tvarka turi būti pateikti juridinių asmenų registrui, pateikiami įmonių rejestro tvarkytojui.
-
-6. Nuo juridinių asmenų registro veiklos pradžios įmonių rejestre įregistruotos įmonės laikomos įregistruotomis juridinių asmenų registre.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -549,118 +453,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-866, 1995-04-27, Žin., 1995, Nr. 36-888 (1995-05-03), i. k. 0951010ISTA000I-866
 
 Dėl Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA00I-1403
-
-Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-377, 1997-07-02, Žin., 1997, Nr. 69-1738 (1997-07-23), i. k. 0971010ISTAVIII-377
-
-Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 ir 21 straipsnių papildymo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
-
-Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 4 straipsnio pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
-
-Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 9, 10, 11, 16 , 18, 19 straipsnių pakeitimo ir papildymo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
-
-Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 5, 11, 19 straipsnių pakeitimo ir papildymo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
-
-Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 11 ir 18 straipsnių pakeitimo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
-
-Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 straipsnio pakeitimo ir papildymo įstatymas
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1658, 2000-05-02, Žin., 2000, Nr. 42-1186 (2000-05-24), i. k. 1001010ISTAIII-1658
-
-Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 straipsnio pakeitimo ir papildymo įstatymas
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1920, 2000-09-12, Žin., 2000, Nr. 83-2512 (2000-10-04), i. k. 1001010ISTAIII-1920
-
-Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 5 straipsnio pakeitimo įstatymas
-
-11.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1895, 2003-12-16, Žin., 2004, Nr. 4-24 (2004-01-07), i. k. 1031010ISTA0IX-1895
-
-Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo įstatymas
-
-221 straipsnis. Įmonės pertvarkymas į viešąją įstaigą
-
-1. Įmonė, kurios turimų piniginių lėšų pakanka jos įsipareigojimams įvykdyti, gali būti pertvarkoma į viešąją įstaigą.
-
-2. Iki sprendimo pertvarkyti įmonę į viešąją įstaigą priėmimo įmonei patikėjimo teise priklausantis įmonės turtas, kuris po pertvarkymo bus perduotas viešosios įstaigos nuosavybėn kaip įnašas nustatant (formuojant) viešosios įstaigos dalininkų kapitalą, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reguliuojančių turto vertinimą, nustatyta tvarka. Pertvarkant įmonę į viešąją įstaigą, turto vertinimo ataskaita turi būti pateikta juridinių asmenų registrui kartu su po pertvarkymo veiksiančios viešosios įstaigos įstatais.
-
-3. Sprendimas pertvarkyti valstybės įmonę į viešąją įstaigą gali būti priimamas, kai yra Vyriausybės nutarimas dėl sutikimo pertvarkyti valstybės įmonę į viešąją įstaigą ir valstybės įmonei patikėjimo teise priklausančio viso ar dalies turto perdavimo viešosios įstaigos nuosavybėn kaip įnašo nustatant (formuojant) viešosios įstaigos dalininkų kapitalą Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais valstybės ir savivaldybės turto investavimo pagrindais ir tvarka.
-
-4. Sprendimas pertvarkyti savivaldybės įmonę į viešąją įstaigą gali būti priimamas, kai yra savivaldybės tarybos sprendimas dėl sutikimo pertvarkyti savivaldybės įmonę į viešąją įstaigą ir savivaldybės įmonei patikėjimo teise priklausančio viso ar dalies turto perdavimo viešosios įstaigos nuosavybėn kaip įnašo nustatant (formuojant) viešosios įstaigos dalininkų kapitalą Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais valstybės ir savivaldybės turto investavimo pagrindais ir tvarka.
-
-5. Sprendime pertvarkyti įmonę į viešąją įstaigą, be šio Įstatymo 19 straipsnio 3 dalyje nustatytų reikalavimų, taip pat turi būti:
-
-1) nurodyta įvertinto įmonės turto vertė, kuri turi atitikti turto vertinimo ataskaitoje nurodytą turto vertę;
-
-2) nurodytas po pertvarkymo veiksiančios viešosios įstaigos dalininko (savininko) kapitalo dydis.
-
-6. Dėl įmonės savininko turto, kuris patikėjimo teise įmonės gautas po to, kai buvo priimtas sprendimas pertvarkyti įmonę į viešąją įstaigą, turi būti:
-
-1) patikslinamas Vyriausybės nutarimas arba savivaldybės tarybos sprendimas dėl įmonei patikėjimo teise priklausančio turto perdavimo viešosios įstaigos nuosavybėn kaip įnašo nustatant (formuojant) viešosios įstaigos dalininkų kapitalą Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais valstybės ir savivaldybės turto investavimo pagrindais ir tvarka;
-
-2) patikslinamas sprendimas pertvarkyti įmonę į viešąją įstaigą.
-
-7. Šio straipsnio 6 dalyje nurodytas turtas, kuris patikėjimo teise gautas po to, kai buvo priimtas sprendimas pertvarkyti įmonę į viešąją įstaigą, jeigu jis perduodamas po įmonės pertvarkymo veiksiančios viešosios įstaigos nuosavybėn, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reguliuojančių turto vertinimą, nustatyta tvarka. Turtas turi būti įvertintas iki patikslinto sprendimo pertvarkyti įmonę į viešąją įstaigą priėmimo. Pertvarkant įmonę į viešąją įstaigą, ši turto vertinimo ataskaita turi būti pateikta juridinių asmenų registrui kartu su po pertvarkymo veiksiančios viešosios įstaigos įstatais.
-
-8. Iki įmonės pertvarkymo pabaigos Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais pagrindais ir tvarka turi būti priimtas sprendimas dėl turto, kuris pagal įstatymus gali būti tik valstybės nuosavybė, perdavimo atitinkamam subjektui, turinčiam teisę tokį turtą valdyti ir (arba) naudoti, ir (arba) juo disponuoti.
-
-9. Įmonės vadovas apie patikslintą sprendimą pertvarkyti įmonę turi pranešti juridinių asmenų registrui, vieną kartą viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje ir visiems įmonės kreditoriams pranešti raštu. Patikslinus sprendimą, kartu su pranešimu juridinių asmenų registrui pateikiamas visas patikslinto sprendimo pertvarkyti įmonę tekstas. Skelbime ir pranešime, be šio Įstatymo 19 straipsnio 4 dalyje nustatytų reikalavimų, taip pat turi būti nurodyta priežastis, dėl kurios sprendimas pertvarkyti įmonę patikslintas.
-
-10. Įmonės savininko teises ir pareigas įgyvendinanti institucija, priėmusi sprendimą pertvarkyti įmonę į viešąją įstaigą, kartu tvirtina po pertvarkymo veiksiančios viešosios įstaigos įstatus. Juos įregistravus juridinių asmenų registre, įmonės savininko teises ir pareigas įgyvendinanti institucija tampa valstybės ar savivaldybės institucija, kuriai pavedama įgyvendinti valstybės ar savivaldybės, kaip viešosios įstaigos dalininkės (savininkės), teises ir pareigas.
-
-Papildyta straipsniu:
-
-Nr. XIII-1591, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18205
 
