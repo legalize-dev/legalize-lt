@@ -4,7 +4,7 @@ identifier: "TAR.F74ECE427C23"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-07-02"
-last_updated: "1999-07-01"
+last_updated: "1999-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1998-07-02"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
+
+Suvestinė redakcija nuo 1999-07-09 iki 2000-03-30
+
+Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
 
 LIETUVOS RESPUBLIKOS GYVENAMOSIOS VIETOS DEKLARAVIMO Į S T A T Y M A S
 
@@ -205,39 +209,15 @@ BAIGIAMOSIOS NUOSTATOS
 
 2. Asmenys, turintys Lietuvos Respublikos piliečio pase ar leidime nuolat gyventi Lietuvos Respublikoje jų gyvenamąją vietą atitinkantį įrašą apie nuolatinę gyvenamąją vietą, laikomi deklaravusiais savo gyvenamąją vietą. Kiti asmenys deklaruoja savo gyvenamąją vietą šio įstatymo nustatyta tvarka.
 
-3. Šis įstatymas įsigalioja nuo 1999 m. liepos 1 d.
+3. Šis įstatymas įsigalioja nuo 2000 m. balandžio 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1259, 1999-06-22, Žin., 1999, Nr. 60-1953 (1999-07-09), i. k. 0991010ISTAIII-1259
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
-18 straipsnis. Atsakomybė
-
-Asmenys, pažeidę šį įstatymą, gyvenamosios vietos deklaravimo tvarką ar pateikę melagingus deklaravimo duomenis, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-19 straipsnis. Deklaravimo įstaigos sprendimų apskundimo tvarka
-
-Deklaravimo įstaigų sprendimai, priimti pagal šį įstatymą, gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
-Lietuvos Respublikos
-
-gyvenamosios vietos
-
-deklaravimo įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir panaikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46).
-
-Papildyta priedu:
-
-Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA000X-961
 
 Pakeitimai:
 
@@ -248,68 +228,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1259, 1999-06-22, Žin., 1999, Nr. 60-1953 (1999-07-09), i. k. 0991010ISTAIII-1259
 
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 17 straipsnio pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1598, 2000-03-28, Žin., 2000, Nr. 27-716 (2000-03-31), i. k. 1001010ISTAIII-1598
-
-Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 17 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
-
-Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 4, 6, 7, 8, 9, 10 ir 11 straipsnių pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
-
-Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 4 ir 11 straipsnių papildymo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-2552, 2004-11-09, Žin., 2004, Nr. 171-6306 (2004-11-26), i. k. 1041010ISTA0IX-2552
-
-Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 8 straipsnio papildymo ir pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-395, 2005-11-17, Žin., 2005, Nr. 143-5169 (2005-12-08), i. k. 1051010ISTA000X-395
-
-Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 11 ir 13 straipsnių pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA000X-961
-
-Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 1, 4 straipsnių papildymo ir pakeitimo ir įstatymo papildymo priedu įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-469, 2009-11-12, Žin., 2009, Nr. 141-6192 (2009-11-28), i. k. 1091010ISTA00XI-469
-
-Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 4, 8 ir 11 straipsnių pakeitimo įstatymas
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1919, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11182
-
-Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pakeitimo įstatymas
 
