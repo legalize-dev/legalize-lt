@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2002-04-18"
+last_updated: "2002-04-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -348,15 +348,13 @@ straipsnis. Valstybės rinkliavos mokėjimas
 
 rinkliavos mokėjimo tvarką nustato Vyriausybė.
 
-2. (Neteko galios 2002-05-04).
+2. Neteko galios (2002-05-04).
 
 Straipsnio pakeitimai:
 
-Nr.
+Nr.IX-847,
 
-IX-857,
-
-2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
+2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
 
 10
 
@@ -396,19 +394,19 @@ RINKLIAVOS
 
 straipsnis. Vietinių rinkliavų objektai
 
-1.
+1. Savivaldybės
 
-Savivaldybės taryba turi teisę savivaldybės teritorijoje nustatyti vietines
+taryba turi teisę savivaldybės teritorijoje nustatyti vietines rinkliavas tik
 
-rinkliavas tik už:
+už:
 
 1) leidimo
 
 atlikti kasinėjimo darbus savivaldybės viešojo naudojimo teritorijoje (gatvėse,
 
-aikštėse, žaliuosiuose plotuose), atitverti ją ar jos dalį arba apriboti eismą
+vietinės reikšmės keliuose, aikštėse, žaliuosiuose plotuose), atitverti ją ar
 
-joje išdavimą;
+jos dalį arba apriboti eismą joje išdavimą;
 
 2) leidimo
 
@@ -418,9 +416,11 @@ vietose išdavimą (išskyrus prekybą prekyvietėse, kai mokamas prekyviečių
 
 mokestis pagal Prekyviečių mokesčio įstatymą);
 
-3) leidimo įrengti vaizdinę komercinę reklamą ant savivaldybei
+3) leidimo
 
-priklausančių ar valdytojo teise valdomų objektų išdavimą;
+įrengti išorinę reklamą ant savivaldybei priklausančių ar valdytojo teise
+
+valdomų objektų išdavimą;
 
 4) leidimo
 
@@ -428,23 +428,27 @@ organizuoti komercinius renginius savivaldybei priklausančiose ar valdytojo
 
 teise valdomose viešojo naudojimo teritorijose išdavimą;
 
-5) leidimo
+5) leidimo įvažiuoti mechaninėmis transporto priemonėmis į
 
-įvažiuoti mechaninėmis transporto priemonėmis į valstybės saugomas teritorijas,
+valstybės saugomas teritorijas, savivaldybių įsteigtus saugomus draustinius, jų
 
-savivaldybių įsteigtus saugomus draustinius, jų paskelbtų kraštovaizdžio
+paskelbtų kraštovaizdžio objektų teritorijas ir nustatytas vietinės reikšmės
 
-objektų teritorijas ir nustatytas vietinės reikšmės apsaugines zonas išdavimą
+apsaugines zonas išdavimą (išskyrus važiavimą per šias teritorijas valstybinės
 
-(išskyrus važiavimą per šias teritorijas magistraliniais ir krašto keliais,
+reikšmės keliais, naudojimąsi jų statiniais, stovėjimo ir poilsio aikštelėmis,
 
-naudojimąsi jų statiniais, stovėjimo ir poilsio aikštelėmis, terminalais ir
+terminalais ir pasienio kontrolės punktais; šios išimtys netaikomos Neringos
 
-pasienio kontrolės punktais);
+miestui);
 
-6) naudojimąsi savivaldybių tarybos nustatytomis miestų ar miestelių
+6) naudojimąsi
 
-gatvių bei aikščių vietomis automobiliams statyti;
+savivaldybių tarybos nustatytomis vietomis automobiliams statyti (išskyrus
+
+vietas automobiliams statyti prie valstybinės reikšmės kelių ir 5–15 m
+
+pažymėtoje atkarpoje prie valstybės įstaigų, institucijų ir tarnybų);
 
 7) gyvūnų (šunų,
 
@@ -452,7 +456,15 @@ kačių) registravimą ir laikymą daugiabučiuose namuose;
 
 8) komunalinių
 
-atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą.
+atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą;
+
+9) leidimo
+
+įrengti laikinus kilnojamus įrenginius savivaldybės teritorijoje (išskyrus prie
+
+valstybinės reikšmės kelių, privačiuose ir išnuomotuose valstybinės
+
+žemės sklypuose) išdavimą.
 
 2. Iš vietinės
 
@@ -461,6 +473,14 @@ rinkliavos mokėtojo negali būti reikalaujama atlyginti už objektą, už kurį
 pagal šį įstatymą nustatyta vietinė rinkliava, kitaip negu sumokant vietinę
 
 rinkliavą.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-857,
+
+2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
 
 12
 
@@ -474,9 +494,9 @@ taryba savo sprendimu:
 
 vietinę rinkliavą;
 
-2) tvirtina vietinės
+2) tvirtina
 
-rinkliavos nuostatus;
+vietinės rinkliavos nuostatus;
 
 3) nustato
 
@@ -665,6 +685,20 @@ IX-847,
 RINKLIAVŲ
 
 ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-857, 2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
+
+RINKLIAVŲ
+
+ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 ***
 
