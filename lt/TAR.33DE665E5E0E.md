@@ -4,7 +4,7 @@ identifier: "TAR.33DE665E5E0E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-14"
-last_updated: "2002-12-31"
+last_updated: "2004-01-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.33DE665E5E0E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2002-12-31 iki 2004-01-06
+Suvestinė redakcija nuo 2004-01-07 iki 2004-06-23
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 51-1392; Žin. 2004, Nr.98-3626, i. k. 0981010ISTAVIII-730
 
@@ -57,7 +57,11 @@ Vilnius
 
 1. Vyriausybės atstovas gali:
 
-1) prižiūrėdamas, ar savivaldybės laikosi Konstitucijos ir įstatymų, ar vykdo Vyriausybės sprendimus, tikrinti savivaldybės tarybos, savivaldybės valdybos, savivaldybės mero, savivaldybės kontrolieriaus, taip pat kitų savivaldybės viešojo administravimo subjektų, tiesiogiai įgyvendinančių vykdomąsias funkcijas, priimtų teisės aktų teisėtumą;
+1) prižiūrėdamas, ar savivaldybės laikosi Konstitucijos ir įstatymų, ar vykdo Vyriausybės sprendimus, tikrinti savivaldybės tarybos, savivaldybės tarybos kolegijos, savivaldybės mero, savivaldybės administracijos direktoriaus, savivaldybės kontrolieriaus, taip pat kitų savivaldybės viešojo administravimo subjektų, tiesiogiai įgyvendinančių vykdomąsias funkcijas, priimtų teisės aktų teisėtumą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1928, 2003-12-18, Žin., 2004, Nr. 4-34 (2004-01-07), i. k. 1031010ISTA0IX-1928
 
 2) atlikdamas savivaldybių administracinę priežiūrą, paduoti administraciniam teismui pareiškimus dėl savivaldybės institucijų ir savivaldybės pareigūnų teisės aktų, neatitinkančių Konstitucijos ir įstatymų, dėl įstatymų ir Vyriausybės sprendimų ar kitų teisės aktų (kuriais įgyvendinamos valstybinės (perduotos savivaldybėms) funkcijos) nevykdymo, dėl savivaldybės viešojo administravimo subjektų aktų ir veiksmų (neveikimo), pažeidžiančių viešąjį interesą ar gyventojų ir organizacijų teises, teisėtumo.
 
@@ -65,33 +69,63 @@ Vilnius
 
 5 straipsnis. Įgaliojimų įgyvendinimo tvarka
 
-1. Nustatęs, kad savivaldybės viešojo administravimo subjekto priimtas teisės aktas neatitinka Konstitucijos ir įstatymų, arba kad savivaldybės vykdomosios institucijos neįgyvendina įstatymų, nevykdo Vyriausybės sprendimų ar kitų teisės aktų (kuriais įgyvendinamos valstybinės (perduotos savivaldybėms) funkcijos), Vyriausybės atstovas savo įgaliojimus įgyvendina vienu iš šių būdų:
+1. Nustatęs, kad savivaldybės viešojo administravimo subjekto priimtas teisės aktas neatitinka Konstitucijos ir įstatymų arba kad savivaldybės administracijos direktorius neįgyvendina įstatymų, nevykdo Vyriausybės sprendimų ar kitų teisės aktų (kuriais įgyvendinamos valstybinės (perduotos savivaldybėms) funkcijos), Vyriausybės atstovas savo įgaliojimus įgyvendina vienu iš šių būdų:
 
 1) motyvuotu teikimu pasiūlo savivaldybės merui pateikti atitinkamai savivaldybės institucijai svarstyti teisės akto sustabdymo ir jo pakeitimo ar panaikinimo klausimą. Savivaldybės institucija privalo apsvarstyti Vyriausybės atstovo teikimą ir apie priimtą sprendimą jam raštu pranešti per dešimt dienų;
 
 2) savivaldybės viešojo administravimo subjektui pateikia rašytinį reikalavimą neatidėliojant įgyvendinti įstatymą, vykdyti Vyriausybės sprendimą nustatydamas laiką, per kurį šis subjektas turi pranešti apie reikalavimo įvykdymą.
 
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1928, 2003-12-18, Žin., 2004, Nr. 4-34 (2004-01-07), i. k. 1031010ISTA0IX-1928
+
 2. Įgyvendindamas šio straipsnio 1 dalies 1 punkte nustatytus įgaliojimus, Vyriausybės atstovas gali kreiptis į teismą dėl teisės aktų sustabdymo.
 
 3. Jeigu savivaldybės viešojo administravimo subjektas ir Vyriausybės atstovui pareikalavus neįgyvendina įstatymų ar nevykdo Vyriausybės sprendimų, jeigu per nustatytą terminą nepanaikina ginčijamų norminių teisės aktų arba priima naujus Konstitucijos ar įstatymų neatitinkančius norminius teisės aktus, jeigu individualus teisės aktas pažeidžia viešąjį interesą arba viešojo administravimo subjektų teisės aktais ar veiksmais pažeidžiamos gyventojų ar organizacijų teisės, Vyriausybės atstovas tokius teisės aktus ar veiksmus (neveikimą) skundžia Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-4. Fizinių ir juridinių asmenų skundų, nagrinėtinų administracinių bylų teisenos tvarka, Vyriausybės atstovas nenagrinėja.
+4. Jeigu Laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo nustatytais atvejais į Vyriausybės atstovą kreipiasi Vyriausybės įgaliotinis, Vyriausybės atstovas, nustatęs, kad savivaldybės institucijų priimti teisės aktai neatitinka Konstitucijos ar įstatymų, kreipiasi į teismą dėl šių teisės aktų sustabdymo.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-1928, 2003-12-18, Žin., 2004, Nr. 4-34 (2004-01-07), i. k. 1031010ISTA0IX-1928
+
+5. Fizinių ir juridinių asmenų skundų, nagrinėtinų administracinių bylų teisenos tvarka, Vyriausybės atstovas nenagrinėja.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-1928, 2003-12-18, Žin., 2004, Nr. 4-34 (2004-01-07), i. k. 1031010ISTA0IX-1928
 
 6 straipsnis. Vyriausybės atstovo teisės
 
 1. Vyriausybės atstovas turi teisę:
 
-1) gauti iš savivaldybės administracijos savivaldybės tarybai, savivaldybės valdybai ar savivaldybės merui priimti pateiktus teisės aktų projektus bei jų aiškinamuosius raštus. Šiuos dokumentus savivaldybės administracija privalo pateikti Vyriausybės atstovui tokia pat tvarka, kaip pagal savivaldybės tarybos veiklos reglamentą savivaldybės tarybos nariams pateikiami savivaldybės tarybos sprendimų projektai;
+1) gauti iš savivaldybės administracijos savivaldybės tarybai, savivaldybės tarybos kolegijai, savivaldybės merui ar savivaldybės administracijos direktoriui priimti pateiktus teisės aktų projektus bei jų aiškinamuosius raštus. Šiuos dokumentus savivaldybės administracija privalo pateikti Vyriausybės atstovui tokia pat tvarka, kaip pagal savivaldybės tarybos veiklos reglamentą savivaldybės tarybos nariams pateikiami savivaldybės tarybos sprendimų projektai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1928, 2003-12-18, Žin., 2004, Nr. 4-34 (2004-01-07), i. k. 1031010ISTA0IX-1928
 
 2) susipažinti su savivaldybės administracijos padaliniuose priimtais viešojo administravimo srities teisės aktais;
 
-3) reikalauti iš savivaldybės administracijos savivaldybės administravimo subjektų priimtų teisės aktų kopijų, taip pat savivaldybės tarybos ar valdybos posėdžių, kuriuose buvo priimti šių institucijų teisės aktai, protokolų kopijų. Šis reikalavimas turi būti įvykdytas ne vėliau kaip per penkias darbo dienas nuo jo gavimo;
+3) reikalauti iš savivaldybės administracijos savivaldybės administravimo subjektų priimtų teisės aktų kopijų, taip pat savivaldybės tarybos ar savivaldybės tarybos kolegijos posėdžių, kuriuose buvo priimti šios institucijos teisės aktai, protokolų kopijų. Šis reikalavimas turi būti įvykdytas ne vėliau kaip per penkias darbo dienas nuo jo gavimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1928, 2003-12-18, Žin., 2004, Nr. 4-34 (2004-01-07), i. k. 1031010ISTA0IX-1928
 
 4) išnykus aplinkybėms, kurios buvo pagrindas teikti pasiūlymą sustabdyti teisės akto vykdymą, kad jis būtų pakeistas ar panaikintas, arba reikalauti, kad būtų neatidėliojant įgyvendinamas įstatymas ar vykdomas Vyriausybės sprendimas, motyvuotu potvarkiu tokį pasiūlymą ar reikalavimą atšaukti, jei jie dar neįvykdyti;
 
-5) nustatyti kitą Vyriausybės atstovo nurodytų veiksmų įvykdymo terminą, jeigu gautas pagal kompetenciją savivaldybės tarybos, valdybos, mero ar kito savivaldybės viešojo administravimo subjekto prašymas šį terminą pratęsti;
+5) nustatyti kitą Vyriausybės atstovo nurodytų veiksmų įvykdymo terminą, jeigu gautas pagal kompetenciją savivaldybės tarybos, savivaldybės tarybos kolegijos, mero, administracijos direktoriaus ar kito savivaldybės viešojo administravimo subjekto prašymas šį terminą pratęsti;
 
-6) dalyvauti savivaldybės tarybos bei savivaldybės valdybos posėdžiuose ir, kai yra pagrindas, pranešti savivaldybės tarybos nariams, kad svarstomi projektai neatitinka Konstitucijos ar įstatymų;
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1928, 2003-12-18, Žin., 2004, Nr. 4-34 (2004-01-07), i. k. 1031010ISTA0IX-1928
+
+6) dalyvauti savivaldybės tarybos bei savivaldybės tarybos kolegijos posėdžiuose ir, kai yra pagrindas, pranešti savivaldybės tarybos nariams, kad svarstomi projektai neatitinka Konstitucijos ar įstatymų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1928, 2003-12-18, Žin., 2004, Nr. 4-34 (2004-01-07), i. k. 1031010ISTA0IX-1928
 
 7) dalyvauti Vyriausybės posėdžiuose Vyriausybės darbo reglamento nustatyta tvarka, taip pat valstybės institucijų organizuojamuose renginiuose, kai svarstomi savivaldybių veiklos klausimai;
 
@@ -144,4 +178,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1282, 2002-12-10, Žin., 2002, Nr. 127-5748 (2002-12-31), i. k. 1021010ISTA0IX-1282
 
 Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1928, 2003-12-18, Žin., 2004, Nr. 4-34 (2004-01-07), i. k. 1031010ISTA0IX-1928
+
+Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymas
 
