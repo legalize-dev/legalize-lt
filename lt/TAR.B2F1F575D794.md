@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "1997-10-14"
+last_updated: "1998-01-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ document_status: "registruotas TA registre"
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.10.29)
+Ramunė Lūžaitė (1998.01.19)
 
 Įstatymas
 
@@ -65,6 +65,20 @@ LIETUVOS
 
 RESPUBLIKOS KONSULINIO MOKESČIO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-601, 98.01.08, Žin., 1998, Nr.6-115 (98.01.16)
+
+LIETUVOS
+
+RESPUBLIKOS KONSULINIO MOKESČIO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -95,9 +109,9 @@ turinčius dokumentus.
 
 Konsulinis
 
-mokestis imamas remiantis Lietuvos Respublikos sutartimis su  kitomis
+mokestis imamas remiantis Lietuvos Respublikos sutartimis su  kitomis valstybėmis,
 
-valstybėmis, šiuo įstatymu, Lietuvos Respublikos notariato įstatymu.
+šiuo įstatymu, Lietuvos Respublikos notariato įstatymu.
 
 2
 
@@ -165,11 +179,15 @@ straipsnis. Mokesčio tarifai
 
 Konsulinio
 
-mokesčio tarifus iki 1998 m. sausio 1 d. nustato Lietuvos Respublikos
+mokesčio tarifus nustato Lietuvos Respublikos Vyriausybė.
 
-Vyriausybė. Nuo  1998 metų konsulinio mokesčio tarifus tvirtina Lietuvos
+Straipsnio
 
-Respublikos Seimas.
+pakeitimai:
+
+Nr.
+
+VIII-601, 98.01.08, Žin., 1998, Nr.6-115 (98.01.16)
 
 5
 
@@ -177,7 +195,7 @@ straipsnis. Mokesčio tikslinimas pariteto pagrindais
 
 Lietuvos
 
-Respublikos  Vyriausybė  turi  teisę  pariteto pagrindais padidinti, sumažinti
+Respublikos  Vyriausybė  turi  teisę  pariteto pagrindais padidinti, sumažinti
 
 arba panaikinti konsulinį mokestį už vizas, dokumentų pareikalavimą ir jų
 
@@ -273,13 +291,15 @@ legalizavimą;
 
 12)
 
-įvairių  dokumentų  baudžiamosioms  byloms,  teismo išduodamų dokumentų  pareikalavimą
+įvairių  dokumentų  baudžiamosioms  byloms,  teismo išduodamų dokumentų
 
-(jeigu  jų  pareikalauja valstybių, su  kuriomis Lietuvos Respublika yra
+pareikalavimą  (jeigu  jų  pareikalauja valstybių, su  kuriomis Lietuvos
 
-pasirašiusi sutartis dėl  teisinės pagalbos,  valstybės institucijos ar
+Respublika yra pasirašiusi sutartis dėl  teisinės pagalbos,  valstybės
 
-piliečiai ir tose sutartyse tokia lengvata numatyta) ir jų legalizavimą;
+institucijos ar piliečiai ir tose sutartyse tokia lengvata numatyta) ir jų
+
+legalizavimą;
 
 13)
 
@@ -319,17 +339,17 @@ patvirtintos formos pažymėjimus;
 
 17) specialiųjų vizų išdavimą užsieniečiams,
 
-atvykstantiems dirbti pedagoginį darbą Lietuvos Respublikos aukštosiose, aukštesniosiose,
+atvykstantiems dirbti pedagoginį darbą Lietuvos Respublikos aukštosiose,
 
-profesinėse ir bendrojo lavinimo mokyklose;
+aukštesniosiose, profesinėse ir bendrojo lavinimo mokyklose;
 
-18) asmens grįžimo pažymėjimo išdavimą
+18) asmens grįžimo pažymėjimo išdavimą asmenims,
 
-asmenims, kurie dėl svarbių priežasčių (nelaimingas atsitikimas, liga,
+kurie dėl svarbių priežasčių (nelaimingas atsitikimas, liga, nukentėjimas nuo
 
-nukentėjimas nuo nusikaltimo) negali sumokėti konsulinio mokesčio, pateikusiems
+nusikaltimo) negali sumokėti konsulinio mokesčio, pateikusiems oficialiai
 
-oficialiai nukentėjimo faktą patvirtinantį dokumentą.
+nukentėjimo faktą patvirtinantį dokumentą.
 
 Straipsnio
 
@@ -443,7 +463,7 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS                           ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                          ALGIRDAS BRAZAUSKAS
 
 1 straipsnis.
 
