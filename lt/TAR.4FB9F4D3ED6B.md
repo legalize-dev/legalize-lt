@@ -4,7 +4,7 @@ identifier: "TAR.4FB9F4D3ED6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-05-08"
-last_updated: "1997-09-25"
+last_updated: "1998-11-24"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.10.24)
+Ramunė Lūžaitė (1998.12.14)
 
 Įstatymas
 
@@ -542,6 +542,24 @@ lošimų, Energetikos įstatymo pakeitimo, Klaipėdos valstybinio jūrų uosto
 
 įstatymo pakeitimo ir Turizmo įstatymai.
 
+36.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-936,
+
+98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
+
+LIETUVOS RESPUBLIKOS
+
+ĮMONIŲ ĮSTATYMO 12 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Įstatymas
+
+įsigalioja nuo 1999 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
@@ -570,11 +588,11 @@ teisinius pagrindus.
 
 Atskirų,
 
-nurodytų šio įstatymo 6 straipsnyje, rūšių įmonių steigimas, jų teisinis
+nurodytų šio įstatymo 6 straipsnyje, rūšių įmonių steigimas, jų teisinis  statusas,
 
-statusas, veikla, likvidavimas  ir reorganizavimas reglamentuojamas
+veikla, likvidavimas  ir reorganizavimas reglamentuojamas atitinkamais
 
-atitinkamais įstatymais.
+įstatymais.
 
 Šis
 
@@ -636,9 +654,9 @@ disponuoja įmonės turtu, organizuoja įmonės ūkinę ir finansinę veiklą.
 
 Nuosavybės
 
-teisę  į įmonę  įmonininkas įgyja  įmonės steigimo, pirkimo-pardavimo arba
+teisę  į įmonę  įmonininkas įgyja  įmonės steigimo, pirkimo-pardavimo arba kitokių
 
-kitokių civilinių sandorių pagrindu.
+civilinių sandorių pagrindu.
 
 Jeigu
 
@@ -684,9 +702,9 @@ Nr.
 
 I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
-Nr. VIII-422, 97.09.25,
+Nr. VIII-422,
 
-Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 
 5
 
@@ -720,7 +738,9 @@ II skirsnis
 
 straipsnis.Įmonių rūšys ir įmonių junginiai
 
-Lietuvos Respublikoje gali veikti šios įmonės:
+Lietuvos Respublikoje gali veikti šios
+
+įmonės:
 
 1) individualios (personalinės) įmonės;
 
@@ -738,9 +758,9 @@ bendrovės ir investicinės bendrovės;
 
 6) savivaldybės įmonės;
 
-7) žemės ūkio bendrovės (veikla
+7) žemės ūkio bendrovės (veikla reglamentuojama
 
-reglamentuojama atskirame įstatyme);
+atskirame įstatyme);
 
 8) kooperatinės bendrovės (kooperatyvai). Jų
 
@@ -826,13 +846,13 @@ jungtinės veiklos sutartimi apjungus kelių fizinių ar juridinių asmenų turt
 
 bendrąją dalinę nuosavybę komercinei-ūkinei veiklai su bendru firmos vardu.
 
-Tikroji ūkinė bendrija neturi juridinio asmens teisių, jos turtas neatskirtas
+Tikroji ūkinė bendrija neturi juridinio asmens teisių, jos turtas neatskirtas nuo
 
-nuo bendrijos narių turto. Pagal tikrosios ūkinės bendrijos prievoles jos
+bendrijos narių turto. Pagal tikrosios ūkinės bendrijos prievoles jos nariai
 
-nariai atsako solidariai visu savo turtu.  Tikroji ūkinė bendrija neatsako
+atsako solidariai visu savo turtu.  Tikroji ūkinė bendrija neatsako pagal savo
 
-pagal savo narių prievoles, nesusijusias su bendrijos veikla.
+narių prievoles, nesusijusias su bendrijos veikla.
 
 Tikrosios
 
@@ -856,19 +876,19 @@ straipsnis.Komanditinė (pasitikėjimo) ūkinė bendrija
 
 Komanditinę
 
-(pasitikėjimo) ūkinę bendriją sudaro bendros firmos  vardu  veikiantys  tikrieji
+(pasitikėjimo) ūkinę bendriją sudaro bendros firmos  vardu  veikiantys
 
-nariai  ir  nariai komanditoriai, kuriems įmonės  turtas priklauso  bendrosios
+tikrieji  nariai  ir  nariai komanditoriai, kuriems įmonės  turtas priklauso
 
-dalinės nuosavybės teise. Komanditinė (pasitikėjimo)  ūkinė bendrija nėra
+bendrosios dalinės nuosavybės teise. Komanditinė (pasitikėjimo)  ūkinė bendrija
 
-juridinis asmuo, jos turtas neatskirtas nuo bendrijos  tikrųjų  narių  turto.
+nėra juridinis asmuo, jos turtas neatskirtas nuo bendrijos  tikrųjų  narių
 
-Pagal  komanditinės (pasitikėjimo) ūkinės bendrijos prievoles jos tikrieji
+turto.   Pagal  komanditinės (pasitikėjimo) ūkinės bendrijos prievoles jos
 
-nariai solidariai atsako visu savo turtu, o nariai komanditoriai - tik ta savo
+tikrieji nariai solidariai atsako visu savo turtu, o nariai komanditoriai - tik
 
-turto dalimi, kurią pagal sutartį yra perdavę bendrai komanditinės
+ta savo turto dalimi, kurią pagal sutartį yra perdavę bendrai komanditinės
 
 (pasitikėjimo)  ūkinės  bendrijos  veiklai. Komanditinė (pasitikėjimo) ūkinė
 
@@ -912,9 +932,9 @@ turtinės atsakomybės įmonės, turinčios juridinio asmens teises, kurių įst
 
 bendrovės, uždarosios akcinės bendrovės ar investicinės  bendrovės nariai,
 
-kuriais tampama įstatymų nustatyta tvarka įsigijus šių bendrovių akcijų. Akcininkais
+kuriais tampama įstatymų nustatyta tvarka įsigijus šių bendrovių akcijų.
 
-gali būti fiziniai asmenys, juridiniai asmenys ar valstybė (vietos
+Akcininkais gali būti fiziniai asmenys, juridiniai asmenys ar valstybė (vietos
 
 savivaldybė), kuriai atstovauja atitinkama valstybės institucija.  Akcinės
 
@@ -2604,9 +2624,9 @@ Savivaldybės
 
 organo  atsisakymą  duoti  leidimą  arba sprendimą atšaukti  leidimą užsiimti
 
-ūkine veikla  įmonės steigėjas ne vėliau kaip per 30 dienų po savivaldybės organo
+ūkine veikla  įmonės steigėjas ne vėliau kaip per 30 dienų po savivaldybės
 
-sprendimo įteikimo dienos gali užginčyti teismine tvarka.
+organo sprendimo įteikimo dienos gali užginčyti teismine tvarka.
 
 Straipsnio
 
@@ -2640,13 +2660,13 @@ biudžetą per teismą.
 
 Respublikos įmonių rejestro įstatymas.
 
-Įmonei įregistruoti įmonių rejestro
+Įmonei įregistruoti įmonių rejestro tvarkytojui
 
-tvarkytojui pateikiamas steigėjo ar steigėjų prašymas įregistruoti įmonę,
+pateikiamas steigėjo ar steigėjų prašymas įregistruoti įmonę, nurodant jame
 
-nurodant jame duomenis, reikalingus įtraukti į rejestrą, ir įstatymo nustatyti
+duomenis, reikalingus įtraukti į rejestrą, ir įstatymo nustatyti kiti įmonės
 
-kiti įmonės registravimo dokumentai.
+registravimo dokumentai.
 
 Sprendimas įregistruoti arba atsisakyti
 
@@ -2796,13 +2816,13 @@ civilinis kodeksas, Lietuvos Respublikos konkurencijos ir Įmonių bankroto
 
 dokumentai. Įmonę reorganizavus, naujam juridiniam asmeniui pereina teisės ir
 
-prievolės, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą,
+prievolės, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo
 
-taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų
+biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės
 
-priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos
+institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki
 
-įmonės išregistravimo įstatymų nustatyta tvarka.
+reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka.
 
 Įmonę
 
@@ -2834,9 +2854,9 @@ straipsnis.Įmonės filialai ir atstovybės
 
 gali steigti savo filialus ir atstovybes. Įmonės filialai ir atstovybės veikia
 
-pagal įmonės įgaliojimą. Įmonės filialui steigti taikomos įmonių steigimo ir  registravimo
+pagal įmonės įgaliojimą. Įmonės filialui steigti taikomos įmonių steigimo ir
 
-taisyklės.
+registravimo taisyklės.
 
 Filialus
 
@@ -3364,19 +3384,19 @@ naudoja ir juo disponuoja turto patikėjimo teisėmis.
 
 Valstybės ir savivaldybės įmonės pagal savo
 
-prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas
+prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas išieškojimas.
 
-išieškojimas. Įmonės neatsako už valstybės ar savivaldybės prievoles.
+Įmonės neatsako už valstybės ar savivaldybės prievoles.
 
 Valstybės ir savivaldybės įmonių steigimą,
 
 veiklą, reorganizavimą ir likvidavimą taip pat reglamentuoja Lietuvos
 
-Respublikos civilinis kodeksas, Lietuvos Respublikos valstybės ir savivaldybės
+Respublikos civilinis kodeksas, Lietuvos Respublikos valstybės ir savivaldybės įmonių
 
-įmonių įstatymas, kiti norminiai aktai bei įstatymų nustatyta tvarka
+įstatymas, kiti norminiai aktai bei įstatymų nustatyta tvarka patvirtinti ir
 
-patvirtinti ir įregistruoti įmonės įstatai.
+įregistruoti įmonės įstatai.
 
 Straipsnio
 
@@ -4638,11 +4658,11 @@ komercine-ūkine ar kitokia veikla, nesuvaržyta šio ar kitų įstatymų, įmon
 
 steigimo dokumentų arba kitaip neuždrausta įstatymų nustatyta tvarka.
 
-Komercinės-ūkinės veiklos, kuria verstis reikalinga licencija, sritis,
+Komercinės-ūkinės veiklos, kuria verstis reikalinga licencija, sritis, licencijas
 
-licencijas išduodančias institucijas bei licencijų išdavimo tvarką nustato šis
+išduodančias institucijas bei licencijų išdavimo tvarką nustato šis ir kiti
 
-ir kiti įstatymai.
+įstatymai.
 
 Lietuvos Respublikoje draudžiama steigti ir
 
@@ -4667,6 +4687,16 @@ Laisvųjų ekonominių zonų įmonių veiklos
 sritis, kuriose draudžiamos kapitalo investicijos, nustato Lietuvos Respublikos
 
 laisvųjų ekonominių zonų pagrindų įstatymas.
+
+[12
+
+straipsnio 6 dalies redakcija nuo 1999 m. sausio 1 d.]
+
+Individualių (personalinių) įmonių savininkai
+
+gali panaudoti savo ir savo šeimos narių (sutuoktinių, tėvų, įtėvių, vaikų,
+
+įvaikių), jiems sutikus, pinigines lėšas ir turtą įmonės veiklai.
 
 Straipsnio
 
@@ -4704,9 +4734,13 @@ Nr.
 
 I-1552, 96.09.25, Žin., 1996, Nr. 100-2267 (96.10.16)
 
-Nr. VIII-422, 97.09.25,
+Nr. VIII-422,
 
-Žin., 1997, Nr.96-2419 (97.10.24)
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+
+Nr. VIII-936,
+
+98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
 
 13
 
@@ -4834,9 +4868,9 @@ turėdamos Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotas licencij
 
 turi teisę užsiimti šia veikla:
 
-1) gaminti alkoholio produktus, kuriuose tūrinė
+1) gaminti alkoholio produktus, kuriuose
 
-etilo alkoholio koncentracija viršija 22 procentus. Šią teisę turi tik
+tūrinė etilo alkoholio koncentracija viršija 22 procentus. Šią teisę turi tik
 
 valstybės įmonės, jeigu Alkoholio kontrolės įstatymas nenustato ko kita;
 
@@ -4844,11 +4878,13 @@ valstybės įmonės, jeigu Alkoholio kontrolės įstatymas nenustato ko kita;
 
 ženklus ir gaminti monetas.
 
-Kiekvienai įstatymo nustatytai licencijuojamai
+Kiekvienai įstatymo nustatytai
 
-komercinės-ūkinės veiklos sričiai Lietuvos Respublikos Vyriausybė tvirtina
+licencijuojamai komercinės-ūkinės veiklos sričiai Lietuvos Respublikos
 
-licencijavimo taisykles, jeigu kiti įstatymai nenustato ko kita.
+Vyriausybė tvirtina licencijavimo taisykles, jeigu kiti įstatymai nenustato ko
+
+kita.
 
 Licencijavimo taisyklėse nurodoma:
 
