@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2004-11-02"
+last_updated: "2004-11-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -271,15 +271,15 @@ Respublikos Prezidentas. Priesaiką priima Seimo Pirmininkas, o kai šio nėra, 
 
 Seimo Pirmininko pavaduotojas, laikinai einantis Seimo Pirmininko pareigas.
 
-4. Ministras
+4. Ministras Pirmininkas
 
-Pirmininkas ir kiekvienas ministras prisiekia stovėdami priešais Seimo
+ir kiekvienas ministras prisiekia stovėdami priešais Seimo Pirmininką ar Seimo
 
-Pirmininką ar Seimo Pirmininko pavaduotoją, skaitydami priesaikos tekstą padėję
+Pirmininko pavaduotoją, skaitydami priesaikos tekstą padėję ranką ant Lietuvos
 
-ranką ant Lietuvos Respublikos Konstitucijos. Prisiekęs Ministras Pirmininkas
+Respublikos Konstitucijos. Prisiekęs Ministras Pirmininkas ar ministras
 
-ar ministras pasirašo vardinį priesaikos lapą.
+pasirašo vardinį priesaikos lapą.
 
 5. Nustatytas
 
@@ -681,9 +681,9 @@ Jų naudojimo tvarką nustato Vyriausybė.
 
 5. Ministras
 
-Pirmininkas gali turėti rezidenciją, išlaikomą iš Vyriausybės kanceliarijai
+Pirmininkas gali turėti rezidenciją, išlaikomą iš Vyriausybės kanceliarijai valstybės
 
-valstybės biudžete numatytų lėšų.
+biudžete numatytų lėšų.
 
 6. Pasibaigus Vyriausybės nario įgaliojimams šio
 
@@ -841,41 +841,25 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-19
+19 straipsnis.
 
-straipsnis. Ministro Pirmininko ir ministrų pareiga pasirašyti Respublikos
-
-Prezidento
-
-dekretus
+Respublikos Prezidento dekretų pasirašymas
 
 Ministras Pirmininkas arba atitinkamas ministras
 
-Lietuvos Respublikos Konstitucijos
+Lietuvos Respublikos Konstitucijos 85 straipsnyje nurodytais klausimais ne vėliau
 
-85 straipsnyje nurodytais klausimais ne vėliau kaip per 3 dienas pasirašo
+kaip per 3 dienas pasirašo Respublikos Prezidento dekretus. Atsakomybė už tokį
 
-Respublikos Prezidento dekretus. Atsakomybė už tokį dekretą tenka jį
+dekretą tenka jį pasirašiusiam Ministrui Pirmininkui arba ministrui.
 
-pasirašiusiam Ministrui Pirmininkui arba ministrui.
+Straipsnio pakeitimai:
 
-19 straipsnis. Ministro
+Nr.
 
-Pirmininko ir ministrų pareiga pasirašyti
+IX-2559, 2004-11-11,
 
-Respublikos
-
-Prezidento dekretus
-
-Ministras Pirmininkas arba atitinkamas
-
-ministras Lietuvos Respublikos Konstitucijos 85 straipsnyje nurodytais
-
-klausimais ne vėliau kaip per 3 dienas pasirašo Respublikos Prezidento
-
-dekretus. Atsakomybė už tokį dekretą tenka jį pasirašiusiam Ministrui
-
-Pirmininkui arba ministrui.
+Žin., 2004, Nr. 171-6310 (2004-11-26)
 
 20 straipsnis.
 
@@ -1155,9 +1139,9 @@ posėdžio darbotvarkę;
 
 11) sudaro
 
-vyriausybines delegacijas oficialiems vizitams į kitas šalis, taip pat dalyvauti
+vyriausybines delegacijas oficialiems vizitams į kitas šalis, taip pat
 
-tarptautiniuose kongresuose, konferencijose, sesijose;
+dalyvauti tarptautiniuose kongresuose, konferencijose, sesijose;
 
 12) suteikia
 
@@ -1397,11 +1381,11 @@ darbui vadovauja Vyriausybės skiriamas Vyriausybės narys ar kitas asmuo.
 
 uždavinius, funkcijas, įgaliojimus, veiklos tvarką ir finansavimą nustato
 
-Vyriausybė. Lėšos nuolatinėms komisijoms finansuoti turi būti numatytos valstybės
+Vyriausybė. Lėšos nuolatinėms komisijoms finansuoti turi būti numatytos
 
-biudžete; nenumatytiems atvejams jų gali būti skiriama iš Vyriausybės rezervo
+valstybės biudžete; nenumatytiems atvejams jų gali būti skiriama iš Vyriausybės
 
-fondo.
+rezervo fondo.
 
 28 straipsnis.
 
@@ -1475,9 +1459,7 @@ apsaugos ministerija;
 
 mokslo ministerija;
 
-9) Teisingumo
-
-ministerija;
+9) Teisingumo ministerija;
 
 10) Ūkio
 
@@ -1591,9 +1573,9 @@ departamentai, taip pat kontrolės ar apskaitos funkcijas vykdančios tarnybos i
 
 inspekcijos.
 
-2. Ministerijos administraciją
+2. Ministerijos
 
-sudaro departamentai, skyriai ir kiti padaliniai.
+administraciją sudaro departamentai, skyriai ir kiti padaliniai.
 
 Straipsnio pakeitimai:
 
@@ -1697,9 +1679,7 @@ Ministro Pirmininko ir Vyriausybės pavedimų vykdymą, vadovaudamasis
 
 ministerijos strateginiais veiklos planais ir Vyriausybės programos
 
-įgyvendinimo priemonėmis, užtikrina ministerijos rengiamų sprendimų
-
-suderinamumą;
+įgyvendinimo priemonėmis, užtikrina ministerijos rengiamų sprendimų suderinamumą;
 
 5) koordinuoja
 
@@ -1905,9 +1885,9 @@ agentūras, inspekcijas ir kitas įstaigas).
 
 3. Vyriausybės
 
-įstaigai vadovauja generalinis direktorius (direktorius, viršininkas). Vyriausybės
+įstaigai vadovauja generalinis direktorius (direktorius, viršininkas).
 
-įstaigos vadovas yra pavaldus Ministrui Pirmininkui.
+Vyriausybės įstaigos vadovas yra pavaldus Ministrui Pirmininkui.
 
 4. Vyriausybės
 
@@ -1933,13 +1913,13 @@ tikrina, kaip jie vykdomi.
 
 7. Vyriausybės
 
-įstaigos veikla organizuojama vadovaujantis Vyriausybės aprobuotais viešai
+įstaigos veikla organizuojama vadovaujantis Vyriausybės aprobuotais viešai paskelbtais
 
-paskelbtais strateginiais veiklos planais, rengiamais vadovaujantis
+strateginiais veiklos planais, rengiamais vadovaujantis Vyriausybės
 
-Vyriausybės programa, kuriai Seimas pritaria, ir derinamais su Valstybės
+programa, kuriai Seimas pritaria, ir derinamais su Valstybės ilgalaikės raidos
 
-ilgalaikės raidos strategija.
+strategija.
 
 Straipsnio pakeitimai:
 
@@ -2099,19 +2079,17 @@ darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 
 37 straipsnis.
 
-Vyriausybės posėdžiai
+Vyriausybės posėdžiai ir Vyriausybės pasitarimai
 
-1. Vyriausybė
+1. Vyriausybė valstybės valdymo reikalus sprendžia
 
-valstybės valdymo reikalus sprendžia posėdžiuose visų Vyriausybės narių balsų
+posėdžiuose visų Vyriausybės narių balsų dauguma priimdama nutarimus.
 
-dauguma priimdama nutarimus.
+2. Vyriausybės
 
-2. Vyriausybės posėdžiuose
+posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos
 
-gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos Respublikos
-
-Konstitucija ir kiti įstatymai.
+Respublikos Konstitucija ir kiti įstatymai.
 
 3. Į Vyriausybės
 
@@ -2119,11 +2097,21 @@ posėdžius gali būti kviečiami ir kiti asmenys.
 
 4. Svarbiausi
 
-klausimai gali būti aptariami prieš Vyriausybės posėdžius ministrų
+klausimai gali būti aptariami prieš Vyriausybės posėdžius Vyriausybės
 
-pasitarimuose, Ministro Pirmininko sudarytuose nuolatiniuose arba
+pasitarimuose, nuolatiniuose arba laikinuosiuose Vyriausybės komitetuose.
 
-laikinuosiuose Vyriausybės komitetuose.
+Vyriausybės pasitarimuose taip pat gali būti svarstomos Vyriausybei pateiktos
+
+ataskaitos.
+
+5. Vyriausybė
+
+Lietuvos Respublikos pozicijas dėl pasiūlymų priimti Europos Sąjungos
+
+teisės aktus ir dėl kitų Europos Sąjungos dokumentų prireikus svarsto
+
+Vyriausybės pasitarimuose.
 
 Straipsnio pakeitimai:
 
@@ -2134,6 +2122,10 @@ Nr. VIII-1980,
 Nr. IX-842,
 
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+
+Nr. IX-2576,
+
+2004-11-11, Žin., 2004, Nr. 171-6322 (2004-11-26)
 
 38 straipsnis.
 
@@ -2173,9 +2165,9 @@ tvarka
 
 1. Teisės
 
-aktų projektų, apimančių kelių ministrų valdymo sritis, derinimo metu iškilę
+aktų projektų, apimančių kelių ministrų valdymo sritis, derinimo metu iškilę nesutarimai
 
-nesutarimai paprastai svarstomi Vyriausybės komitete.
+paprastai svarstomi Vyriausybės komitete.
 
 2. Komitetams
 
@@ -2237,9 +2229,9 @@ turi teisę ir ministras Vyriausybės darbo reglamento nustatyta tvarka.
 
 Balsuojama, ar klausimą įtraukti į darbotvarkę. Jei šiuo klausimu teigiamas
 
-sprendimas nepriimamas, klausimas turi būti teikiamas svarstyti Vyriausybės
+sprendimas nepriimamas, klausimas turi būti teikiamas svarstyti Vyriausybės darbo
 
-darbo reglamento nustatyta tvarka.
+reglamento nustatyta tvarka.
 
 4. Vyriausybės
 
@@ -2397,6 +2389,34 @@ Nr. IX-842,
 
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 
+41(1)
+
+straipsnis. Vyriausybės sprendimai ir Vyriausybės rezoliucijos
+
+1. Vyriausybės sprendimai ir Vyriausybės rezoliucijos priimami
+
+Vyriausybės pasitarime dalyvaujančių Vyriausybės narių balsų dauguma.
+
+2. Vyriausybės sprendimus ir Vyriausybės rezoliucijas
+
+pasirašo Ministras Pirmininkas Vyriausybės darbo reglamento nustatyta tvarka.
+
+3. Vyriausybė,
+
+svarstydama Lietuvos Respublikos pozicijas dėl pasiūlymų priimti Europos
+
+Sąjungos teisės aktus, gali priimti sprendimus, o dėl kitų Europos
+
+Sąjungos dokumentų – rezoliucijas.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. IX-2576,
+
+2004-11-11, Žin., 2004, Nr. 171-6322 (2004-11-26)
+
 42 straipsnis.
 
 Vyriausybės posėdžių protokolai
@@ -2435,9 +2455,7 @@ SKIRSNIS
 
 MINISTRO PIRMININKO
 
-POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI IR VYRIAUSYBĖS
-
-KANCELIARIJA
+POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI IR VYRIAUSYBĖS KANCELIARIJA
 
 Skirsnio pavadinimas keistas:
 
@@ -2691,6 +2709,204 @@ nutarimų ir Ministro Pirmininko potvarkių vertimas į užsienio kalbas ir vert
 
 autentiškumas užtikrinamas Vyriausybės nustatyta tvarka.
 
+Įstatymas
+
+papildytas vienuoliktuoju skirsniu:
+
+Nr. IX-2576,
+
+2004-11-11, Žin., 2004, Nr. 171-6322 (2004-11-26)
+
+VIENUOLIKTASIS
+
+SKIRSNIS
+
+KLAUSIMŲ, SUSIJUSIŲ SU LIETUVOS RESPUBLIKOS
+
+NARYSTE
+
+EUROPOS SĄJUNGOJE, SPRENDIMAS
+
+47
+
+straipsnis. Lietuvos Respublikos pozicijos dėl pasiūlymo priimti Europos
+
+Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento rengimas, derinimas
+
+ir pristatymas
+
+1. Vyriausybės
+
+nustatyta tvarka jos įgaliota institucija rengia Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos Sąjungos teisės aktą, o
+
+prireikus rengia poziciją dėl kito Europos Sąjungos dokumento.
+
+2. Vyriausybė, rengdama, derindama ir
+
+pristatydama Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos
+
+Sąjungos teisės aktą, šio įstatymo 49 straipsnyje nustatyta tvarka
+
+konsultuojasi su Seimu, sudaro sąlygas pateikti savo nuomonę kitoms
+
+suinteresuotoms valstybės institucijoms, viešosioms įstaigoms bei
+
+nevyriausybinėms organizacijoms.
+
+3. Vyriausybė arba jos įgaliota
+
+institucija, rengdama Lietuvos Respublikos poziciją dėl pasiūlymo priimti
+
+Europos Sąjungos teisės aktą užsienio politikos, nacionalinio saugumo
+
+klausimais, taip pat Europos Vadovų Taryboje svarstomais klausimais, rengiamą
+
+poziciją derina su Respublikos Prezidentu.
+
+4. Lietuvos Respublikos pozicija dėl
+
+pasiūlymo priimti Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos
+
+dokumento rengiama, nagrinėjama ir pristatoma įstatymų ir kitų teisės aktų
+
+nustatyta tvarka.
+
+48 straipsnis. Vyriausybės pareiga informuoti Seimą ir
+
+Respublikos Prezidentą apie pasiūlymus priimti Europos Sąjungos teisės aktus ir
+
+kitus Europos Sąjungos dokumentus
+
+1. Vyriausybė Seimo statuto ir įstatymų
+
+nustatyta tvarka nedelsdama informuoja Seimą apie gautus pasiūlymus priimti
+
+Europos Sąjungos teisės aktus ar kitus Europos Sąjungos dokumentus tų sričių,
+
+kurios pagal Lietuvos Respublikos Konstituciją susijusios su Seimo ar
+
+Respublikos Prezidento kompetencija.
+
+2. Nusprendusi
+
+rengti Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos
+
+Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento tų sričių, kurios
+
+pagal Lietuvos Respublikos Konstituciją susijusios su Seimo ar Respublikos
+
+Prezidento kompetencija, Vyriausybė nedelsdama informuoja Seimą ar Respublikos
+
+Prezidentą, pateikdama Vyriausybės suformuotą Lietuvos Respublikos poziciją.
+
+49 straipsnis. Vyriausybės pareiga konsultuotis su Seimu
+
+rengiant, derinant ir pristatant Lietuvos Respublikos poziciją
+
+1. Dėl pasiūlymų priimti Europos
+
+Sąjungos teisės aktus ar kitus Europos Sąjungos dokumentus tų sričių, kurios
+
+pagal Lietuvos Respublikos Konstituciją susijusios su Seimo kompetencija,
+
+Vyriausybė konsultuojasi su Seimu.
+
+2. Seimas Seimo statuto nustatyta tvarka
+
+gali rekomenduoti Vyriausybei Lietuvos Respublikos poziciją dėl pasiūlymo
+
+priimti Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento.
+
+3. Seimo Europos reikalų komitetas arba
+
+Užsienio reikalų komitetas Seimo statuto nustatyta tvarka Vyriausybei gali
+
+pateikti Seimo nuomonę dėl pasiūlymų priimti Europos Sąjungos teisės aktus ar
+
+kitus Europos Sąjungos dokumentus.
+
+4. Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos Sąjungos
+
+teisės aktą ar dėl kito Europos Sąjungos dokumento pristato Ministras
+
+Pirmininkas arba atitinkamas ministras Seimo plenariniame posėdyje, Seimo
+
+Europos reikalų komitete arba Užsienio reikalų komitete. Išimtiniais atvejais
+
+atitinkamas ministras gali pavesti pristatyti poziciją dėl pasiūlymo priimti
+
+Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento
+
+viceministrui.
+
+5. Vyriausybė įvertina Seimo ar jo komitetų teikiamas rekomendacijas ar
+
+nuomones ir teisės aktų nustatyta tvarka informuoja Seimą apie jų vykdymą.
+
+50 straipsnis.
+
+Vyriausybės nuomonė dėl subsidiarumo
+
+Vyriausybė, pateikdama Lietuvos
+
+Respublikos poziciją dėl pasiūlymo priimti Europos Sąjungos teisės aktą ar dėl
+
+kito Europos Sąjungos dokumento, Seimui teikia nuomonę, ar Europos Sąjungos
+
+teisės aktas atitinka subsidiarumo principą.
+
+51
+
+straipsnis. Europos Sąjungos teisės perkėlimas į Lietuvos Respublikos
+
+nacionalinę teisę ir jos įgyvendinimas
+
+Vyriausybė pagal savo kompetenciją yra atsakinga už
+
+Europos Sąjungos teisės perkėlimą į nacionalinę teisę ir jos įgyvendinimą.
+
+Europos Sąjungos teisės aktai į Lietuvos Respublikos nacionalinę teisę
+
+perkeliami ir įgyvendinami Vyriausybės nustatyta tvarka.
+
+52 straipsnis.
+
+Pareigūnų, kuriuos į pareigas Europos Sąjungos institucijose teikia Lietuvos
+
+Respublika, kandidatūrų siūlymas
+
+1. Vyriausybė siūlo kandidatus į aukščiausius
+
+Europos Sąjungos pareigūnus. Jų skyrimą numato sutartys, kuriomis yra
+
+grindžiama Europos Sąjunga.
+
+2. Vyriausybė, Respublikos Prezidentui pritarus,
+
+siūlydama kandidatus į Europos Komisijos narius ir Audito Rūmų narius
+
+Seimo statuto nustatyta tvarka konsultuojasi su Seimu.
+
+3. Vyriausybė, Respublikos Prezidentui
+
+pritarus, siūlydama kandidatus į Europos Bendrijų Teisingumo Teismo ir
+
+Pirmosios instancijos teismo teisėjus Seimo statuto nustatyta tvarka
+
+konsultuojasi su Seimu.
+
+4. Vyriausybė, siūlydama kandidatus į Europos Sąjungos Regionų
+
+komitetą, teisės aktų nustatyta tvarka konsultuojasi su Lietuvos savivaldybių
+
+asociacija.
+
+5. Vyriausybė, siūlydama kandidatus į
+
+Europos Sąjungos Ekonomikos ir socialinių reikalų komitetą, teisės aktų
+
+nustatyta tvarka konsultuojasi su Lietuvos Respublikos trišale taryba.
+
 Skelbiu šį
 
 Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -2787,7 +3003,7 @@ Nr.
 
 VIII-148,
 
-97.03.25,  Žin., 1997, Nr.30-704 (97.04.09)
+97.03.25,  Žin., 1997, Nr.30-704 (97.04.09)
 
 LIETUVOS
 
@@ -2871,9 +3087,9 @@ Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
 
 66-2407 (2001-08-01)
 
-VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ
+VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ PAKEITIMO
 
-PAKEITIMO ĮSTATYMAS
+ĮSTATYMAS
 
 12.
 
@@ -2969,6 +3185,38 @@ VYRIAUSYBĖS
 
 ĮSTATYMO 31(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+18.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-2559,
+
+2004-11-11, Žin., 2004, Nr. 171-6310 (2004-11-26)
+
+VYRIAUSYBĖS
+
+ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+19.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2576,
+
+2004-11-11, Žin., 2004, Nr. 171-6322 (2004-11-26)
+
+VYRIAUSYBĖS
+
+ĮSTATYMO 37 STRAIPSNIO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 41(1)
+
+STRAIPSNIU BEI VIENUOLIKTUOJU SKIRSNIU ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -2999,7 +3247,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-11-18)
+Aušrinė Trapinskienė (2004-11-29)
 
 autrap@lrs.lt
 
