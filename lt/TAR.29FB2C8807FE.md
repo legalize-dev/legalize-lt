@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "1998-03-18"
+last_updated: "1999-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 1998-03-18 iki 1999-07-08
+Suvestinė redakcija nuo 1999-07-09 iki 2000-04-04
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -126,9 +126,11 @@ II SKIRSNIS
 
 5 straipsnis. Įmonės steigimo teisinis pagrindas
 
-1. Valstybės įmonės steigimo teisinis pagrindas yra įmonės steigimo aktas, priimtas Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės arba jos pavedimu - įgaliotos vyriausybinės institucijos. Savivaldybės įmonės steigimo teisinis pagrindas yra įmonės steigimo aktas, priimtas savivaldybės tarybos.
+1. Valstybės įmonės steigimo teisinis pagrindas yra įmonės steigimo aktas, priimtas Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės arba kurio nors iš jų pavedimu – įgaliotos jiems atskaitingos ar pavaldžios institucijos. Savivaldybės įmonės steigimo teisinis pagrindas yra įmonės steigimo aktas, priimtas savivaldybės tarybos. Institucija, priėmusi nutarimą (sprendimą) įsteigti įmonę, yra tos įmonės steigėja. Seimas, Vyriausybė ar savivaldybės taryba, jeigu kuris nors iš jų yra įmonės steigėjas, gali įgalioti jiems atskaitingas ar pavaldžias institucijas vykdyti visas ar dalį įmonės steigėjos funkcijų, taip pat susigrąžinti šias funkcijas. Įmonės steigėjo funkcijos iš Seimo Vyriausybei arba iš Vyriausybės Seimui bei tarp šioms institucijoms atskaitingų ar pavaldžių valstybės institucijų yra perduodamos Lietuvos Respublikos Seimo nutarimu.
 
-Institucija, priėmusi nutarimą (sprendimą) įsteigti įmonę, yra tos įmonės steigėja. Vyriausybė ar savivaldybės taryba, jeigu viena iš jų yra įmonės steigėja, gali įmonės steigimo aktu įgalioti pavaldžias institucijas vykdyti visas ar dalį įmonės steigėjos funkcijų.
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
 
 2. Įmonių steigimą reglamentuoja Lietuvos Respublikos įmonių įstatymas, šis įstatymas ir kiti teisės aktai.
 
@@ -236,11 +238,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
 
-3. Valdybos pirmininką bei narius skiria ir atšaukia steigėjas. Valdybos nariai skiriami ne ilgesniam kaip 4 metų laikotarpiui. Valdybos nariais gali būti tik tos įmonės administracijos vadovas ir valstybės ar savivaldybių valdininkai. Valdybos nario kadencijų skaičius neribojamas. Įstatuose gali būti nustatyti papildomi reikalavimai valdybos nariams.
+3. Valdybos pirmininką bei narius skiria ir atšaukia steigėjas. Valdybos nariai skiriami ne ilgesniam kaip 4 metų laikotarpiui. Valdybos nariais gali būti tik tos įmonės administracijos vadovas ir valstybės ar savivaldybių valdininkai, Lietuvos banko darbuotojai. Valdybos nario kadencijų skaičius neribojamas. Įstatuose gali būti nustatyti papildomi reikalavimai valdybos nariams.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+
+Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
 
 4. Valdybos narys gali atsistatydinti iš valdybos kadencijai nesibaigus, apie tai raštu įspėjęs valdybą ir steigėją ne vėliau kaip prieš 14 kalendorinių dienų. Jeigu įmonė dirba nuostolingai, steigėjas privalo svarstyti valdybos narių atšaukimo iš valdybos klausimą.
 
@@ -414,7 +418,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
 
-5. Kai keičiama įmonės rūšis, įmonė gali būti reorganizuojama į akcinę bendrovę – akcionuojant įmonės turtą ir įregistruojant akcijas Vertybinių popierių komisijoje.
+5. Kai keičiama įmonės rūšis, įmonė gali būti reorganizuojama į akcinę bendrovę – akcionuojant įmonės turtą ir įregistruojant akcijas Vertybinių popierių komisijoje. Seimui atskaitingų bei pavaldžių valstybės institucijų įmonės šioje dalyje nustatyta tvarka gali būti reorganizuojamos tik po to, kai šių įmonių steigėjo funkcijos Seimo nutarimu bus perduotos Lietuvos Respublikos Vyriausybei.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
 
 6. Kai keičiama įmonės priklausomybė, ji gali būti reorganizuojama:
 
@@ -581,4 +589,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
 
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 9, 10, 11, 16 , 18, 19 straipsnių pakeitimo ir papildymo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 5, 11, 19 straipsnių pakeitimo ir papildymo įstatymas
 
