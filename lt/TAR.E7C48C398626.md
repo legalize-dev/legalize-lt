@@ -4,7 +4,7 @@ identifier: "TAR.E7C48C398626"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-20"
-last_updated: "2002-12-10"
+last_updated: "2003-06-10"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E7C48C398626"
 department: "Lietuvos Respublikos Seimas"
@@ -575,6 +575,10 @@ pagal atitinkamų bendruomenių poreikius susisiekimo infrastruktūrai plėtoti.
 
 finansavimas
 
+1 dalies redakcija iki 2004 m.
+
+sausio 1 d.:
+
 1. Krašto bevariklio transporto
 
 infrastruktūros įrengimas bei priežiūra finansuojama valstybės investicijų
@@ -583,6 +587,26 @@ programose. Papildomi finansavimo šaltiniai gali būti Kelių fondo,
 
 Gamtos apsaugos fondo, Sveikatos fondo lėšos.
 
+1 dalies redakcija nuo 2004 m.
+
+sausio 1 d.:
+
+1. Krašto bevariklio transporto
+
+infrastruktūros įrengimas bei priežiūra finansuojama valstybės investicijų
+
+programose. Papildomi finansavimo šaltiniai gali būti Kelių priežiūros
+
+ir plėtros programos, Savivaldybių aplinkos apsaugos rėmimo specialiosios
+
+programos, Savivaldybių visuomenės sveikatos rėmimo specialiosios programos
+
+lėšos.
+
+2 dalies redakcija iki 2004 m.
+
+sausio 1 d.:
+
 2. Rajoninės ir vietinės
 
 bevariklio transporto infrastruktūros įrengimas bei priežiūra finansuojami iš
@@ -590,6 +614,22 @@ bevariklio transporto infrastruktūros įrengimas bei priežiūra finansuojami i
 savivaldybių biudžetų, naudojant savivaldybėms skiriamas Kelių fondo, Gamtos
 
 apsaugos fondo, Sveikatos fondo lėšas.
+
+2 dalies redakcija nuo 2004 m.
+
+sausio 1 d.:
+
+2. Rajoninės ir vietinės
+
+bevariklio transporto infrastruktūros įrengimas bei priežiūra finansuojami iš
+
+savivaldybių biudžetų, naudojant savivaldybėms skiriamas Kelių priežiūros ir
+
+plėtros programos, Savivaldybių aplinkos apsaugos rėmimo specialiosios
+
+programos, Savivaldybių visuomenės sveikatos rėmimo specialiosios programos
+
+lėšas.
 
 3. Bevariklio transporto
 
@@ -602,6 +642,12 @@ užsienio šalių fizinių ar juridinių asmenų lėšos.
 visuomeniniam naudojimui skirtą bevariklio transporto infrastruktūrą yra
 
 prilyginamos paramai pagal Labdaros ir paramos įstatymą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1617,
+
+2003-06-10, Žin., 2003, Nr. 61-2770 (2003-06-27)
 
 15
 
@@ -629,25 +675,13 @@ transporto priemones taikomos kitoms investicijoms galiojančios mokesčių
 
 lengvatos.
 
-4. Fiziniams
-
-asmenims, kurių veikla yra bevariklio transporto priemonių konstravimas,
-
-remontas, nuoma, keleivių ir krovinių vežimas bevariklio transporto
-
-priemonėmis, Vyriausybės nustatyta tvarka išduodami patentai.
-
-[4 dalies redakcija nuo 2003 m. sausio 1
-
-d.:
-
 4.
 
-Fiziniai asmenys, kurių veikla yra bevariklio transporto priemonių konstravimas,
+Fiziniai asmenys, kurių veikla yra bevariklio transporto priemonių
 
-remontas, nuoma, keleivių ir krovinių vežimas bevariklio transporto
+konstravimas, remontas, nuoma, keleivių ir krovinių vežimas bevariklio
 
-priemonėmis, gali ja verstis turėdami verslo liudijimą.]
+transporto priemonėmis, gali ja verstis turėdami verslo liudijimą.
 
 Straipsnio pakeitimai:
 
@@ -813,234 +847,6 @@ TRANSPORTO ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 
-***
-
-Pabaiga ***
-
-Redagavo:
-
-Aušrinė Trapinskienė (2003-01-13)
-
-autrap@lrs.lt
-
-13 straipsnis. Bevariklio transporto infrastruktūros
-
-plėtros ekonominės sąlygos
-
-1. Už bevariklio
-
-transporto infrastruktūros plėtrą ir saugų eksploatavimą yra atsakinga
-
-Vyriausybė ar jos įgaliotos institucijos, apskritys, savivaldybės bei
-
-transporto infrastruktūros savininkai. Lėšos šalies bevariklio
-
-transporto infrastruktūrai plėsti ir eksploatuoti numatomos valstybės ir
-
-savivaldybių biudžetuose. Vyriausybė remia krašto, savivaldybių, bendruomenių
-
-bevariklio transporto plėtros programas.
-
-2. Žemė bevariklio transporto
-
-infrastruktūrai plėsti įgyjama Lietuvos Respublikos įstatymų nustatyta tvarka
-
-pagal atitinkamų bendruomenių poreikius susisiekimo infrastruktūrai plėtoti.
-
-15 straipsnis. Bevariklio transporto priemonių
-
-gamybos ir naudojimo skatinimas
-
-1. Bevariklio
-
-transporto priemonių naudotojai už krašto ir savivaldybių bevariklio transporto
-
-infrastruktūros naudojimą neapmokestinami jokiais mokesčiais ir
-
-rinkliavomis.
-
-2. Lietuvoje
-
-registruotos įmonės, gaminančios bei remontuojančios vienetines bevariklio
-
-transporto priemones, skatinamos teisės aktų nustatyta tvarka.
-
-3. Įmonių,
-
-ūkinių bendrijų investicijoms į tarnybiniam naudojimui skirtas bevariklio
-
-transporto priemones taikomos kitoms investicijoms galiojančios mokesčių
-
-lengvatos.
-
-4.
-
-Fiziniai asmenys, kurių veikla yra bevariklio transporto priemonių
-
-konstravimas, remontas, nuoma, keleivių ir krovinių vežimas bevariklio
-
-transporto priemonėmis, gali ja verstis turėdami verslo liudijimą.
-
-Straipsnio pakeitimai:
-
-Nr. IX-1264,
-
-2002-12-10, Žin., 2002, Nr. 123-5549 (2002-12-24)
-
-KETVIRTASIS SKIRSNIS
-
-BEVARIKLIO
-
-TRANSPORTO VALDYMAS IR KONTROLĖ
-
-16
-
-straipsnis. Bevariklio transporto plėtros valdymas
-
-1. Bevariklio
-
-transporto plėtros valdymą vykdo Vyriausybė ar jos įgaliotos institucijos,
-
-apskritys ir savivaldybės.
-
-2. Prie Susisiekimo ministerijos
-
-ir savivaldybių tarybų steigiamos Bevariklio transporto komisijos, kurios
-
-tvarko bevariklio transporto plėtros fondus, inicijuoja ir prižiūri bevariklio
-
-transporto plėtros programų, bevariklio transporto tinklo plėtros planų
-
-įgyvendinimą.
-
-3. Užsienio ir
-
-šalies bevariklio transporto raidos patirties analizei, metodiniam
-
-reguliavimui, programinėms užduotims rengti, informacijos analizei ir
-
-apibendrinimui prie Susisiekimo ministerijos steigiamas Bevariklio transporto
-
-metodinis-informacinis kabinetas.
-
-17
-
-straipsnis. Teisė naudotis bevariklio transporto trasomis
-
-Teisę naudotis
-
-bevariklio transporto trasomis turi visi Lietuvos Respublikos ir užsienio
-
-piliečiai, vadovaudamiesi šiuo, Kelių ir kitais įstatymais, Kelių eismo
-
-taisyklėmis, kelių ir gatvių priežiūros taisyklėmis. Eismas bevariklio
-
-transporto trasomis gali būti laikinai apribotas arba uždraustas, jei kyla
-
-pavojus eismo saugumui. Tai turi būti įforminta nustatyta tvarka. Informacija
-
-apie bevariklio transporto trasos uždarymą skelbiama visuomenės informavimo priemonėse.
-
-18
-
-straipsnis. Bevariklio transporto infrastruktūros valdytojų teisės
-
-1. Bevariklio
-
-transporto infrastruktūros valdytojai, policija turi teisę nutraukti arba
-
-apriboti eismą bevariklio transporto trasomis, jei kyla pavojus saugiam eismui
-
-arba jei yra išduodamas leidimas dėl objektų, esančių po trasa arba šalia jos,
-
-statybos, rekonstrukcijos, remonto.
-
-2. Leidimas bevariklio transporto trasai
-
-uždaryti dėl objektų, esančių po trasa ar šalia jos, statybos, rekonstrukcijos,
-
-remonto išduodamas nustatant uždarymo terminus bei rinkliavos dydžius pagal
-
-bevariklio transporto trasų kategorijas.
-
-19
-
-straipsnis. Teisė vairuoti bevariklio transporto priemones
-
-1. Teisė
-
-vairuoti bevariklio transporto priemones žaliakeliais ir dviračių takais
-
-neribojama.
-
-2. Teisę
-
-vairuoti bevariklio transporto priemonę bevariklio transporto trasomis gatvėse
-
-ir keliuose turi kiekvienas asmuo, sulaukęs 12 metų arba jaunesnio amžiaus,
-
-turintis Švietimo ir mokslo ministerijos nustatyta tvarka išduotą pažymėjimą.
-
-20
-
-straipsnis. Bevariklio transporto eismo saugumo kontrolė
-
-1. Bevariklio
-
-transporto saugaus eismo reikalavimus nustato, bevariklio transporto priemonių
-
-eismo ir techninę kontrolę vykdo Vyriausybės įgaliotos institucijos.
-
-2. Bevariklio
-
-transporto priemonių eismo tvarką reglamentuoja Kelių eismo taisyklės ir
-
-atitinkami techniniai reglamentai.
-
-3. Bevariklio
-
-transporto priemonių registracijos, apskaitos reikmę ir tvarką nustato
-
-savivaldybės arba jų įgaliotos institucijos.
-
-21
-
-straipsnis. Atsakomybė už Įstatymo pažeidimą
-
-Už šio įstatymo
-
-reikalavimų pažeidimą taikoma Lietuvos Respublikos įstatymų nustatyta
-
-atsakomybė.
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS
-
-ADAMKUS
-
-______________
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-1264,
-
-2002-12-10, Žin., 2002, Nr. 123-5549 (2002-12-24)
-
-BEVARIKLIO
-
-TRANSPORTO ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
-
 2.
 
 Lietuvos
@@ -1061,29 +867,13 @@ TRANSPORTO ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 sausio 1 d.
 
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2455,
-
-2004-09-28, Žin., 2004, Nr. 152-5526 (2004-10-16)
-
-BEVARIKLIO
-
-TRANSPORTO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-10-20)
+Aušrinė Trapinskienė (2003-07-03)
 
 autrap@lrs.lt
 
