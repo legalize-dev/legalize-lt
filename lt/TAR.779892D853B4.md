@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2003-07-01"
+last_updated: "2003-09-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2003-07-01 iki 2003-09-25
+Suvestinė redakcija nuo 2003-09-26 iki 2004-04-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -764,9 +764,13 @@ FINANSŲ ĮSTAIGOS VERSLO RIZIKA IR JOS APRIBOJIMAS
 
 3) pačios finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių dalies įkeitimo;
 
-4) pačios finansų įstaigos kontroliuojamos arba ją globojančios (patronuojančios) finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių dalies įkeitimo;
+4) pačios finansų įstaigos kontroliuojamos arba ją globojančios (patronuojančios) finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių dalies įkeitimo.
 
-5) įmonės, kuri turi kvalifikuotąją finansų įstaigos kliento įstatinio kapitalo ir (arba) balsavimo teisių dalį arba kurios kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turi finansų įstaigos klientas, įstatinio kapitalo ir (arba) balsavimo teisių dalies įkeitimo.
+5) Neteko galios nuo 2003-09-26
+
+Straipsnio punkto naikinimas:
+
+Nr. IX-1734, 2003-09-16, Žin. 2003, Nr. 91-4109 (2003-09-26), i. k. 1031010ISTA0IX-1734
 
 6. Finansų įstaiga, sudariusi sandorį, privalo nuolat stebėti ir dokumentuose fiksuoti, ar klientas vykdo sutartinius įsipareigojimus, ar jo finansinė ir ekonominė būklė nekelia grėsmės tinkamam sutartinių įsipareigojimų finansų įstaigai vykdymui.
 
@@ -1172,11 +1176,13 @@ Nr. IX-1125, 2002-10-08, Žin., 2002, Nr. 101-4496 (2002-10-23), i. k. 1021010IS
 
 59 straipsnis. Pasiūlymai Vyriausybei ir Lietuvos bankui
 
-Pasiūlyti Vyriausybei ir Lietuvos bankui parengti ir iki 2003 m. sausio 1 d. pateikti Seimui įstatymų, neatitinkančių Finansų įstaigų įstatymo nuostatų, pakeitimo ir (arba) papildymo įstatymų projektus, taip pat parengti šiam Įstatymui įgyvendinti reikalingus įstatymų lydimuosius teisės aktus.
+Pasiūlyti Vyriausybei ir Lietuvos bankui parengti ir iki 2003 m. lapkričio 1 d. pateikti Seimui įstatymų, neatitinkančių Finansų įstaigų įstatymo nuostatų, pakeitimo ir (arba) papildymo įstatymų projektus, taip pat parengti šiam Įstatymui įgyvendinti reikalingus lydimuosius teisės aktus.
 
 Straipsnio pakeitimai:
 
 Nr. IX-1125, 2002-10-08, Žin., 2002, Nr. 101-4496 (2002-10-23), i. k. 1021010ISTA0IX-1125
+
+Nr. IX-1734, 2003-09-16, Žin., 2003, Nr. 91-4109 (2003-09-26), i. k. 1031010ISTA0IX-1734
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -1200,25 +1206,11 @@ Nr. IX-1481, 2003-04-03, Žin., 2003, Nr. 38-1726 (2003-04-24), i. k. 1031010IST
 
 Lietuvos Respublikos finansų įstaigų įstatymo 6 ir 20 straipsnių pakeitimo įstatymas
 
-381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
+3.
 
-1. Lietuvos Respublikos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatytais atvejais finansinei grupei taikoma jungtinė (konsoliduota) priežiūra.
+Lietuvos Respublikos Seimas, Įstatymas
 
-2. Finansų įstaigų, kurioms taikoma konsoliduota priežiūra, bei mišrią veiklą vykdančių kontroliuojančiųjų (holdingo) bendrovių teises ir pareigas, taip pat jungtinę (konsoliduotą) priežiūrą atliekančios priežiūros institucijos teises ir pareigas nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą.
+Nr. IX-1734, 2003-09-16, Žin., 2003, Nr. 91-4109 (2003-09-26), i. k. 1031010ISTA0IX-1734
 
-Papildyta straipsniu:
-
-Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
-
-281 straipsnis. Finansinės pagalbos teikimas finansų įstaigos akcijoms įsigyti
-
-Finansų įstaiga turi teisę, laikydamasi šiame Įstatyme ir Lietuvos Respublikos akcinių bendrovių įstatyme nustatytų reikalavimų, teikti finansinę pagalbą fiziniams ir (ar) juridiniams asmenims, tiesiogiai ar netiesiogiai iš anksto išmokėdama lėšų, suteikdama paskolą ar užtikrindama prievolių įvykdymą, kai šiais veiksmais siekiama sudaryti sąlygas šiems asmenims įsigyti tos finansų įstaigos akcijų  ir tenkinama bent viena iš šių sąlygų:
-
-1) finansų įstaigos teisinė forma yra akcinė bendrovė arba uždaroji akcinė bendrovė ir šie veiksmai yra priskiriami jos teikiamoms finansų paslaugoms;
-
-2) finansų įstaigos teisinė forma yra akcinė bendrovė, ji atitinka 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyvos 2012/30/ES 17 straipsnio 7 dalies antrojoje pastraipoje nustatytus kriterijus ir šiais veiksmais sudaro sąlygas fiziniams ir (ar) juridiniams asmenims įsigyti šios finansų įstaigos išleistų ir investuotojui pareikalavus tos finansų įstaigos ar įmonių grupei priklausančios finansų įstaigos įsigytų visiškai apmokėtų akcijų. Ši finansų įstaiga dokumentuose, kuriuos ji naudoja turėdama santykių su kitais subjektais (raštuose, sąskaitose, prekybos dokumentuose ir kt.), privalo vartoti žodžius „investicinė bendrovė“.
-
-Papildyta straipsniu:
-
-Nr. XII-913, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07640
+Lietuvos Respublikos finansų įstaigų įstatymo 31 ir 59 straipsnių pakeitimo įstatymas
 
