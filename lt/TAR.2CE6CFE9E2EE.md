@@ -4,7 +4,7 @@ identifier: "TAR.2CE6CFE9E2EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-29"
-last_updated: "2001-01-01"
+last_updated: "2003-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2003-02-28
+Suvestinė redakcija nuo 2003-03-01 iki 2004-03-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
 
@@ -32,23 +32,27 @@ Vilnius
 
 1 straipsnis. Asmenys, turintys teisę gauti šalpos (socialinę) pensiją
 
-Teisę gauti šalpos (socialinę) pensiją turi nuolat Lietuvos Respublikoje gyvenantys:
+Teisę gauti šalpos (socialinę) pensiją turi Lietuvos Respublikos piliečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje yra įrašyti į Lietuvos Respublikos gyventojų registrą arba kurie, vadovaujantis Lietuvos Respublikos civiliniu kodeksu, Vyriausybės nustatyta tvarka yra pripažinti turinčiais nuolatinę gyvenamąją vietą Lietuvos Respublikoje, arba nuolat Lietuvos Respublikoje gyvenantys užsieniečiai:
 
 1) vaikai invalidai ir I, II ar III grupės invalidai nuo vaikystės arba tapę invalidais nesukakę 18 metų;
 
 2) asmenys, kurie tapo invalidais mokydamiesi nustatyta tvarka įregistruotų vidurinių, profesinių, aukštesniųjų ar aukštųjų mokyklų dieniniuose skyriuose, taip pat būdami doktorantais, tačiau ne vyresni negu 24 metų;
 
-3) nustatyta tvarka įregistruotų vidurinių, profesinių, aukštesniųjų ar aukštųjų mokyklų dieninių skyrių absolventai, kurie tapo invalidais iki naujų mokslo metų pradžios (iki einamųjų metų rugsėjo pirmosios dienos arba, jeigu stoja mokytis, – iki tos datos, nuo kurios toje mokykloje prasideda nauji mokslo metai);
+3) nustatyta tvarka įregistruotų vidurinių, profesinių, aukštesniųjų ar aukštųjų mokyklų dieninių skyrių absolventai, kurie tapo invalidais iki naujų mokslo metų pradžios (iki einamųjų metų rugsėjo pirmosios dienos arba, jeigu stoja mokytis, - iki tos datos, nuo kurios toje mokykloje prasideda nauji mokslo metai);
 
-4) nustatyta tvarka įregistruotų vidurinių, profesinių, aukštesniųjų ar aukštųjų mokyklų dieninių skyrių absolventai, kurie tapo invalidais prasidėjus naujiems mokslo metams (nuo einamųjų metų rugsėjo pirmosios dienos arba, jeigu stoja mokytis, bet neįstoja, nuo tos datos, nuo kurios toje mokykloje prasideda nauji mokslo metai), nustatyta tvarka užsiregistravę valstybinėje darbo biržoje bedarbiais, bet ne vėliau kaip pirmaisiais metais po šių mokyklų dieninių skyrių baigimo;
+4) nustatyta tvarka įregistruotų vidurinių, profesinių, aukštesniųjų ar aukštųjų mokyklų dieninių skyrių absolventai, kurie tapo invalidais prasidėjus naujiems mokslo metams (nuo einamųjų metų rugsėjo pirmosios dienos arba, jeigu stoja mokytis, bet neįstoja, – nuo tos datos, nuo kurios toje mokykloje prasideda nauji mokslo metai), nustatyta tvarka užsiregistravę valstybinėje darbo biržoje bedarbiais, bet ne vėliau kaip pirmaisiais metais po šių mokyklų dieninių skyrių baigimo;
 
-5) tėvai (įtėviai), sukakę Valstybinių socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžius) arba pripažinti I ar II grupės invalidais, kurie ne mažiau kaip 15 metų slaugė namuose savo vaikus (įvaikius) invalidus ar savo vaikus (įvaikius) I ar II grupės invalidus nuo vaikystės arba tapusius I ar II grupės invalidais iki 18 metų. Už vieno invalido slaugą šalpos (socialinė) pensija gali būti paskirta tik vienam asmeniui;
+5) tėvai (įtėviai), sukakę Valstybinių socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių (toliau - senatvės pensijos amžius) arba pripažinti I ar II grupės invalidais, kurie ne mažiau kaip 15 metų slaugė namuose savo vaikus (įvaikius) invalidus ar savo vaikus (įvaikius) I ar II grupės invalidus nuo vaikystės arba tapusius I ar II grupės invalidais iki 18 metų. Už vieno invalido slaugą šalpos (socialinė) pensija gali būti paskirta tik vienam asmeniui;
 
 6) globėjai ir rūpintojai, sukakę senatvės pensijos amžių arba pripažinti I ar II grupės invalidais, kurie ne mažiau kaip 15 metų slaugė namuose vaikus invalidus arba I ar II grupės invalidus nuo vaikystės arba tapusius I ar II grupės invalidais iki 18 metų, arba visiškos negalios invalidus. Už vieno invalido slaugą šalpos (socialinė) pensija gali būti paskirta tik vienam asmeniui;
 
 7) tėvai (įtėviai), globėjai, rūpintojai, nepaisant amžiaus ir darbingumo, slaugantys namuose vaikus (įvaikius) invalidus arba I grupės invalidus nuo vaikystės arba tapusius I grupės invalidais iki 18 metų. Už vieno invalido slaugą šalpos (socialinė) pensija skiriama tik vienam asmeniui. Jeigu tėvai (įtėviai), globėjai, rūpintojai slaugo namuose kelis vaikus (įvaikius) invalidus ar (ir) I grupės invalidus nuo vaikystės arba tapusius I grupės invalidais iki 18 metų, šalpos (socialinė) pensija skiriama vienam iš tėvų (įtėvių), globėjų, rūpintojų už kiekvieno invalido slaugą;
 
 8) motinos, sukakusios senatvės pensijos amžių arba pripažintos I ar II grupės invalidėmis, kurios pagimdė ir išaugino iki 8 metų 5 ir daugiau vaikų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1298, 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07), i. k. 1031010ISTA0IX-1298
 
 Mirus asmeniui, gavusiam šalpos (socialinę) pensiją arba galėjusiam ją gauti pagal šio straipsnio 1 dalį, teisę gauti šalpos (socialinę) pensiją turi jo vaikai iki 18 metų, taip pat vyresni, jei šie tapo invalidais iki 18 metų. Vaikai, besimokantys nustatyta tvarka įregistruotų vidurinių, profesinių, aukštesniųjų ar aukštųjų mokyklų dieniniuose skyriuose, turi teisę gauti šalpos (socialinę) pensiją, iki baigs šias mokyklas, bet ne ilgiau iki jiems sukaks 24 metai. Mirusiojo vaikams teisė gauti šalpos (socialinę) pensiją taip pat išlieka, jeigu jie įvaikinami.
 
@@ -213,4 +217,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1989, 2000-10-10, Žin., 2000, Nr. 89-2750 (2000-10-25), i. k. 1001010ISTAIII-1989
 
 Lietuvos Respublikos šalpos (socialinių) pensijų įstatymo 1, 2, 6, 9, 10 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1298, 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07), i. k. 1031010ISTA0IX-1298
+
+Lietuvos Respublikos pilietybės įstatymo įgyvendinimo įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Šalpos (socialinių) pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo pakeitimo ir papildymo įstatymas
 
