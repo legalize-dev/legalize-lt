@@ -1,0 +1,127 @@
+---
+title: "Lietuvos Respublikos policijos įstatymo 12, 13, 25 straipsnių pakeitimo, 16(1), 16(2), 21(1) straipsnių, 27 straipsnio 5 dalies ir 39(1) straipsnio pripažinimo netekusiais galios įstatymas"
+identifier: "TAR.7FB20ADA897C"
+country: "lt"
+rank: "istatymas"
+publication_date: "2000-10-10"
+last_updated: "2000-11-01"
+status: "repealed"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.7FB20ADA897C"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "1001010ISTAIII-2016"
+document_number: "VIII-2016"
+published_in_tar: "2000-10-10"
+document_status: "registruotas TA registre"
+---
+# Lietuvos Respublikos policijos įstatymo 12, 13, 25 straipsnių pakeitimo, 16(1), 16(2), 21(1) straipsnių, 27 straipsnio 5 dalies ir 39(1) straipsnio pripažinimo netekusiais galios įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+POLICIJOS ĮSTATYMO 12, 13, 25 STRAIPSNIŲ PAKEITIMO, 161, 162, 211 STRAIPSNIŲ, 27 STRAIPSNIO 5 DALIES IR 391 STRAIPSNIO PRIPAŽINIMO NETEKUSIAIS GALIOS
+
+Į S T A T Y M A S
+
+2000 m. spalio 10 d. Nr. VIII-2016
+
+Vilnius
+
+(Žin., 1991, Nr. 2-22; 1994, Nr. 53-994; 1994, Nr. 82-1547; 1997, Nr. 69-1734; 1998, Nr. 20-505)
+
+1 straipsnis. 12 straipsnio 1, 2 ir 3 dalių pakeitimas
+
+12 straipsnio 1 dalyje išbraukti žodžius „Pasienio policijos departamento prie Vidaus reikalų ministerijos padaliniai“ bei „ir Specialiųjų tyrimų tarnybos prie Vidaus reikalų ministerijos padaliniai“, 2 dalyje išbraukti trečiąjį bei penktąjį sakinius, 3 dalyje išbraukti žodžius „pasienio policijos“ ir „bei specialiųjų tyrimų tarnybos“ ir šį straipsnį išdėstyti taip:
+
+„12 straipsnis. Policijos organizacija ir struktūra
+
+Vieningą Lietuvos Respublikos policijos sistemą sudaro Lietuvos Respublikos vidaus reikalų ministerijos Policijos departamento vadovaujamos respublikinės ir savivaldybių policijos tarnybos bei struktūriniai padaliniai, Mokesčių policijos departamento prie Vidaus reikalų ministerijos padaliniai.
+
+Policijos departamentui vadovauja generalinis komisaras. Jį skiria ir atleidžia vidaus reikalų ministras. Mokesčių policijos departamentui prie Vidaus reikalų ministerijos vadovauja vyriausiasis mokesčių policijos komisaras. Jį skiria ir atleidžia vidaus reikalų ministras.
+
+Miesto (rajono) policijos komisariatas yra Vidaus reikalų ministerijos padalinys, kuriame veikia respublikinės ir savivaldybių policijos, mokesčių policijos padaliniai.
+
+Miesto (rajono) policijos komisarą pareigoms Policijos departamento generalinio komisaro teikimu skiria ir atleidžia vidaus reikalų ministras.“
+
+2 straipsnis. 13 straipsnio 2 dalies pakeitimas
+
+13 straipsnio 2 dalyje išbraukti žodžius „pasienio policijos“ ir „bei specialiųjų tyrimų“ ir šią dalį išdėstyti taip:
+
+„Vidaus reikalų ministro įsakymu prie vietos policijos komisariatų gali veikti ir kitos vidaus reikalų, mokesčių policijos tarnybos.“
+
+3 straipsnis. 161 straipsnio pripažinimas netekusiu galios
+
+161 straipsnį pripažinti netekusiu galios.
+
+4 straipsnis. 162 straipsnio pripažinimas netekusiu galios
+
+16(2 )straipsnį pripažinti netekusiu galios.
+
+5 straipsnis. 211 straipsnio pripažinimas netekusiu galios
+
+21(1 )straipsnį pripažinti netekusiu galios.
+
+6 straipsnis. 25 straipsnio 1 dalies pakeitimas
+
+25 straipsnio 1 dalyje išbraukti antrąjį sakinį ir šią dalį išdėstyti taip:
+
+„Į tarnybą policijoje savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų mokantys valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą, asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka policijos pareigūno pareigoms.“
+
+7 straipsnis. 27 straipsnio 5 dalies pripažinimas netekusia galios
+
+27 straipsnio 5 dalį pripažinti netekusia galios.
+
+8 straipsnis. 391 straipsnio pripažinimas netekusiu galios
+
+391 straipsnį pripažinti netekusiu galios.
+
+9 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+„27 straipsnis. Pareiginiai laipsniai
+
+Policijos pareigūnų tarnybos stažui, kvalifikacijai ir einamoms pareigoms pažymėti bei santykiams reguliuoti yra šie pareiginiai laipsniai:
+
+policininkas stažuotojas
+
+policininkas
+
+vyresnysis policininkas
+
+viršila
+
+jaunesnysis inspektorius
+
+inspektorius
+
+vyresnysis inspektorius
+
+komisaras inspektorius
+
+komisaras
+
+vyresnysis komisaras
+
+vyriausiasis komisaras
+
+generalinis komisaras.
+
+Policijos pareiginiai laipsniai suteikiami pareigūnams skiriant juos į atitinkamas pareigas ir kai jie yra išlaikę kvalifikacinį egzaminą, kurio reikalavimus ir tvarką nustato Lietuvos Respublikos vidaus reikalų ministras. Lietuvos teisės universiteto Policijos fakulteto policijos pareigūnus į pareigas Universiteto statute nustatyta tvarka skiria Universiteto rektorius, o pareiginius laipsnius Universiteto rektoriaus teikimu jiems suteikia vidaus reikalų ministras.
+
+Policijos pareigūnų kvalifikacijai pažymėti nustatomos pareiginio laipsnio kvalifikacinės kategorijos.
+
+Straipsnio pakeitimai:
+
+Nr. IX-74, 2000-12-12, Žin., 2000, Nr. 109-3478 (2000-12-22), i. k. 1001010ISTA000IX-74
+
+81 straipsnis. Mokesčių policijos departamentas prie Vidaus reikalų ministerijos
+
+Iki atskiro įstatymo, reglamentuojančio Mokesčių policijos departamento prie Vidaus reikalų ministerijos reorganizavimą, teisinį statusą bei veiklos pagrindus, priėmimo, tačiau ne ilgiau kaip iki 2001 m. liepos 1 d., Mokesčių policijos departamentui prie Vidaus reikalų ministerijos vadovauja vyriausiasis mokesčių policijos komisaras. Mokesčių policijos departamento prie Vidaus reikalų ministerijos bei šio departamento padalinių pareigūnai iki atskiro įstatymo, reglamentuojančio Mokesčių policijos departamento prie Vidaus reikalų ministerijos reorganizavimą, teisinį statusą bei veiklos pagrindus, priėmimo, tačiau ne ilgiau kaip iki 2001 m. liepos 1 d., turi visas policijos pareigūnų pareigas bei teises, nustatytas Lietuvos Respublikos policijos veiklos įstatyme.
+
+Papildyta straipsniu:
+
+Nr. IX-74, 2000-12-12, Žin., 2000, Nr. 109-3478 (2000-12-22), i. k. 1001010ISTA000IX-74
+
