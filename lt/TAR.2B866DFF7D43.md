@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2004-07-05"
+last_updated: "2004-10-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -9716,6 +9716,34 @@ baudžiamas
 
 laisvės atėmimu nuo ketverių iki aštuonerių metų.
 
+253(1)
+
+straipsnis. Neteisėtas tarpininkavimas dėl karinės įrangos perdavimo
+
+1. Tas, kas
+
+neturėdamas leidimo tarpininkavo dėl karinės įrangos perdavimo į kitą, ne
+
+Europos Sąjungos, valstybę,
+
+baudžiamas
+
+teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba
+
+bauda, arba areštu, arba laisvės atėmimu iki trejų metų.
+
+2.
+
+Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+Kodeksas papildytas straipsniu:
+
+Nr.
+
+IX-2512,
+
+2004-10-28, Žin., 2004, Nr. 166-6061 (2004-11-16)
+
 255 straipsnis. Šaunamojo ginklo, šaudmenų, sprogmenų ar
 
 sprogstamųjų medžiagų laikymo taisyklių pažeidimas
@@ -9736,9 +9764,9 @@ veikla atėmimu.
 
 2.
 
-Asmuo pagal šį straipsnį atsako tik tais atvejais, kai numatytos veikos padarytos
+Asmuo pagal šį straipsnį atsako tik tais atvejais, kai numatytos veikos
 
-dėl neatsargumo.
+padarytos dėl neatsargumo.
 
 3.
 
@@ -9750,11 +9778,11 @@ laikymas ar naudojimas
 
 1.
 
-Tas, kas pagrobė ar kitaip neteisėtai įgijo, laikė, panaudojo ar suardė bet kokio
+Tas, kas pagrobė ar kitaip neteisėtai įgijo, laikė, panaudojo ar suardė bet
 
-pavidalo ir bet kokios fizinės būsenos jonizuojančios spinduliuotės šaltinius,
+kokio pavidalo ir bet kokios fizinės būsenos jonizuojančios spinduliuotės
 
-radioaktyviąsias ar branduolines medžiagas,
+šaltinius, radioaktyviąsias ar branduolines medžiagas,
 
 baudžiamas
 
@@ -9842,9 +9870,9 @@ SKYRIUS
 
 NUSIKALTIMAI
 
-IR BAUDŽIAMIEJI NUSIŽENGIMAI, SUSIJĘ SU DISPONAVIMU NARKOTINĖMIS AR
+IR BAUDŽIAMIEJI NUSIŽENGIMAI, SUSIJĘ SU DISPONAVIMU NARKOTINĖMIS AR PSICHOTROPINĖMIS,
 
-PSICHOTROPINĖMIS, NUODINGOSIOMIS AR STIPRIAI VEIKIANČIOMIS MEDŽIAGOMIS
+NUODINGOSIOMIS AR STIPRIAI VEIKIANČIOMIS MEDŽIAGOMIS
 
 259 straipsnis. Neteisėtas disponavimas narkotinėmis ar
 
@@ -9910,9 +9938,9 @@ neteisėtai gamino, perdirbo, įgijo, laikė, gabeno ar siuntė didelį kiekį
 
 narkotinių ar psichotropinių medžiagų turėdamas tikslą jas parduoti ar kitaip
 
-platinti arba pardavė ar kitaip platino didelį kiekį narkotinių ar
+platinti arba pardavė ar kitaip platino didelį kiekį narkotinių ar psichotropinių
 
-psichotropinių medžiagų,
+medžiagų,
 
 baudžiamas
 
@@ -9924,9 +9952,9 @@ neteisėtai gamino, perdirbo, įgijo, laikė, gabeno, siuntė, pardavė ar kitai
 
 platino labai didelį kiekį narkotinių ar psichotropinių medžiagų,
 
-baudžiamas
+baudžiamas laisvės
 
-laisvės atėmimu nuo dešimties iki penkiolikos metų.
+atėmimu nuo dešimties iki penkiolikos metų.
 
 Straipsnio pakeitimai:
 
@@ -10070,9 +10098,9 @@ Tas, kas pažeidė narkotinių, psichotropinių, stipriai veikiančių ar nuodin
 
 medžiagų gaminimo, laikymo, apskaitos, išdavimo, gabenimo ar siuntimo
 
-taisykles, jeigu dėl to tos medžiagos buvo pagrobtos arba kitaip tapo nelegalios
+taisykles, jeigu dėl to tos medžiagos buvo pagrobtos arba kitaip tapo
 
-apyvartos dalyku,
+nelegalios apyvartos dalyku,
 
 baudžiamas
 
@@ -10480,9 +10508,7 @@ Orlaivio
 
 ar kito skraidymo įrenginio ekipažo narys, pažeidęs tarptautinių skrydžių
 
-taisykles įskrisdamas į Lietuvos Respubliką arba išskrisdamas iš Lietuvos
-
-Respublikos,
+taisykles įskrisdamas į Lietuvos Respubliką arba išskrisdamas iš Lietuvos Respublikos,
 
 baudžiamas
 
@@ -10580,11 +10606,9 @@ laisvės atėmimu iki šešerių metų.
 
 5. Tas, kas vairuodamas kelių
 
-transporto priemonę pažeidė kelių eismo saugumo ar transporto priemonės
+transporto priemonę pažeidė kelių eismo saugumo ar transporto priemonės eksploatavimo
 
-eksploatavimo taisykles, jeigu dėl to įvyko eismo įvykis, dėl kurio žuvo
-
-žmogus,
+taisykles, jeigu dėl to įvyko eismo įvykis, dėl kurio žuvo žmogus,
 
 baudžiamas
 
@@ -10626,9 +10650,9 @@ Nr. IX-1495,
 
 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 
-Nr. IX-1706, 2003-07-04,
+Nr. IX-1706,
 
-Žin., 2003, Nr. 74-3423 (2003-07-25)
+2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)
 
 282
 
@@ -10734,9 +10758,9 @@ bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 2.
 
-Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to buvo
+Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to buvo iškviestos
 
-iškviestos specialios tarnybos, padarė baudžiamąjį nusižengimą ir
+specialios tarnybos, padarė baudžiamąjį nusižengimą ir
 
 baudžiamas
 
@@ -10806,11 +10830,11 @@ administravimo funkcijas atliekančio asmens veiklą
 
 Valstybės
 
-tarnautojas, visuomenės veikėjas, politinės ar visuomeninės organizacijos atstovas,
+tarnautojas, visuomenės veikėjas, politinės ar visuomeninės organizacijos
 
-kuris naudodamasis savo įtaka kišosi į valstybės tarnautojo ar viešojo
+atstovas, kuris naudodamasis savo įtaka kišosi į valstybės tarnautojo ar
 
-administravimo funkcijas atliekančio asmens veiklą siekdamas priversti
+viešojo administravimo funkcijas atliekančio asmens veiklą siekdamas priversti
 
 atsisakyti teisėtų veiksmų ar atlikti neteisėtus veiksmus savo ar kitų asmenų
 
@@ -11008,9 +11032,9 @@ baudžiamas
 
 bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
-296 straipsnis. Tarnybos paslapties pagrobimas ar kitoks
+296 straipsnis. Tarnybos paslapties pagrobimas ar kitoks neteisėtas
 
-neteisėtas įgijimas
+įgijimas
 
 Tas,
 
@@ -11126,9 +11150,9 @@ straipsnis. Antspaudo, spaudo ar blanko suklastojimas
 
 Tas, kas suklastojo tikrą ar pagamino netikrą fizinio ar juridinio asmens
 
-antspaudą, spaudą ar griežtos atskaitomybės blanką arba pasinaudojo žinomai
+antspaudą, spaudą ar griežtos atskaitomybės blanką arba pasinaudojo žinomai suklastotu
 
-suklastotu antspaudu, spaudu ar blanku, arba jį realizavo,
+antspaudu, spaudu ar blanku, arba jį realizavo,
 
 baudžiamas
 
@@ -11324,9 +11348,7 @@ straipsnis. Pelnymasis iš kito asmens prostitucijos
 
 1.
 
-Tas, kas turėjo pajamų iš kito asmens prostitucijos arba sąvadavo
-
-prostitucijai,
+Tas, kas turėjo pajamų iš kito asmens prostitucijos arba sąvadavo prostitucijai,
 
 baudžiamas
 
@@ -12108,13 +12130,31 @@ vadovaudamasis Lietuvos Respublikos baudžiamojo kodekso 3, 75 ir 92
 
 straipsniais.
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2512,
+
+2004-10-28, Žin., 2004, Nr. 166-6061 (2004-11-16)
+
+BAUDŽIAMOJO
+
+KODEKSO XXXVI SKYRIAUS PAVADINIMO PAKEITIMO IR KODEKSO PAPILDYMO 253(1)
+
+STRAIPSNIU ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-07-15)
+Aušrinė Trapinskienė (2004-11-16)
 
 autrap@lrs.lt
 
