@@ -4,7 +4,7 @@ identifier: "TAR.CB5AF955F76E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-04-06"
-last_updated: "1999-07-09"
+last_updated: "2000-06-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 1999-07-09 iki 2000-06-27
+Suvestinė redakcija nuo 2000-06-28 iki 2001-09-25
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
 
@@ -86,6 +86,12 @@ Jeigu Lietuvos Respublikos Konstitucijos 71 straipsnio pirmojoje dalyje nurodytu
 
 Referendumu priimtas įstatymas ar kitas teisės aktas įsigalioja, kai jį pasirašo ir „Valstybės žiniose“ oficialiai paskelbia Respublikos Prezidentas. Jeigu Lietuvos Respublikos Konstitucijos 71 straipsnio ketvirtojoje dalyje nurodytu laiku tokio įstatymo Respublikos Prezidentas nepasirašo ir nepaskelbia „Valstybės žiniose“, įstatymas įsigalioja po to, kai jį pasirašo ir „Valstybės žiniose“ oficialiai paskelbia Seimo Pirmininkas.
 
+Lietuvos Respublikos įstatymas, kuriuo Lietuvos Respublikos Seimas įveda karo ar nepaprastąją padėtį, įsigalioja po to, kai jį pasirašo Respublikos Prezidentas ir jis oficialiai paskelbiamas per visuomenės informavimo priemones.
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-1722, 2000-06-08, Žin., 2000, Nr. 52-1483 (2000-06-28), i. k. 1001010ISTAIII-1722
+
 5 straipsnis
 
 Lietuvos Respublikos Seimo priimti teisės aktai, išskyrus įstatymus, įsigalioja kitą dieną po jų paskelbimo „Valstybės žiniose“, jeigu pačiuose aktuose nenustatoma kita įsigaliojimo tvarka.
@@ -93,6 +99,12 @@ Lietuvos Respublikos Seimo priimti teisės aktai, išskyrus įstatymus, įsigali
 6 straipsnis
 
 Respublikos Prezidento dekretai įsigalioja kitą dieną po jų paskelbimo „Valstybės žiniose“, jeigu pačiuose dekretuose nenustatoma kita jų įsigaliojimo diena.
+
+Respublikos Prezidento dekretas dėl karo ar nepaprastosios padėties įvedimo įsigalioja po jo paskelbimo per visuomenės informavimo priemones.
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-1722, 2000-06-08, Žin., 2000, Nr. 52-1483 (2000-06-28), i. k. 1001010ISTAIII-1722
 
 7 straipsnis. Neteko galios nuo 1999-06-02
 
@@ -297,6 +309,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1249, 1999-06-22, Žin., 1999, Nr. 60-1949 (1999-07-09), i. k. 0991010ISTAIII-1249
 
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 2 ir 17 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1722, 2000-06-08, Žin., 2000, Nr. 52-1483 (2000-06-28), i. k. 1001010ISTAIII-1722
+
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 4 ir 6 straipsnių papildymo įstatymas
 
 101 straipsnis
 
