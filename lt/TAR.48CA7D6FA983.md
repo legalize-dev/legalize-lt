@@ -4,7 +4,7 @@ identifier: "TAR.48CA7D6FA983"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-20"
-last_updated: "2001-04-19"
+last_updated: "2002-07-05"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.48CA7D6FA983"
 department: "Lietuvos Respublikos Seimas"
@@ -106,6 +106,24 @@ Saugumo departamento statutą
 
 tvirtina Lietuvos Respublikos Vyriausybė.
 
+[2
+
+dalies redakcija nuo 2002 m. rugpjūčio 1 d.:
+
+Saugumo
+
+departamento statutas tvirtinamas įstatymu.]
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+
 4 straipsnis. Saugumo
 
 departamento veiklos viešumas
@@ -176,13 +194,53 @@ palaikyti tarnybos ryšius su kitų šalių atitinkamomis institucijomis bei
 
 tarptautinėmis organizacijomis.
 
+[Įstatymas
+
+papildomas 6(1) straipsniu nuo 2002 m. rugpjūčio 1 d.:
+
+6(1)
+
+straipsnis. Teisė gauti informaciją
+
+Lietuvos
+
+Respublikos Vyriausybė, ministerijos bei kitos valstybės ir savivaldybių
+
+institucijos bei įstaigos Saugumo departamento reikalavimu per 5 darbo dienas privalo
+
+jam pateikti priimtus, tačiau „Valstybės žiniose“ neskelbtus teisės aktus.
+
+Valstybės ir
+
+savivaldybių institucijos, įstaigos bei įmonės privalo sudaryti sąlygas Saugumo
+
+departamentui neatlygintinai ir netrukdomai naudotis valstybės registrų,
+
+kadastrų, klasifikatorių duomenų bankais. Kitais valstybės ir savivaldybių
+
+institucijų ir įstaigų, įmonių, kitų įstaigų, organizacijų ir fizinių asmenų
+
+duomenų bankais Saugumo departamentas gali naudotis pagal atskiras sutartis,
+
+jeigu kiti įstatymai nenustato kitaip.]
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+
 II. SAUGUMO
 
 DEPARTAMENTO UŽDAVINIAI IR FUNKCIJOS
 
-7
+7 straipsnis.
 
-straipsnis. Saugumo departamento uždaviniai
+Saugumo departamento uždaviniai
 
 Saugumo
 
@@ -202,9 +260,9 @@ Nr. VIII-1945,
 
 00.09.19, Žin., 2000, Nr.83-2514 (00.10.04)
 
-8
+8 straipsnis.
 
-straipsnis. Saugumo departamento funkcijos
+Saugumo departamento funkcijos
 
 Saugumo
 
@@ -212,23 +270,23 @@ departamentas, spręsdamas Įstatymo numatytus uždavinius Lietuvos valstybės
 
 interesais:
 
-1)
+1) atlieka
 
-atlieka žvalgybą ir kontržvalgybą;
+žvalgybą ir kontržvalgybą;
 
-2)
+2) tiria,
 
-tiria, analizuoja ir prognozuoja visuomeninius politinius bei ekonominius
+analizuoja ir prognozuoja visuomeninius politinius bei ekonominius procesus,
 
-procesus, susijusius su valstybės saugumu;
+susijusius su valstybės saugumu;
 
-3)
+3) kovoja su
 
-kovoja su terorizmu, keliančiu grėsmę valstybės saugumui;
+terorizmu, keliančiu grėsmę valstybės saugumui;
 
-4)
+4) savarankiškai
 
-savarankiškai arba kartu su kitomis įgaliotomis valstybės ar savivaldybių institucijomis
+arba kartu su kitomis įgaliotomis valstybės ar savivaldybių institucijomis
 
 ar įstaigomis rengia ir įgyvendina priemones valstybei pavojingoms veikoms
 
@@ -236,33 +294,31 @@ užkirsti energetikos, svarbiausių komunikacijų, ryšių bei kituose strategin
 
 reikšmę nacionaliniam saugumui turinčiuose objektuose;
 
-5)
+5) tiria Saugumo
 
-tiria Saugumo departamento kompetencijai priskirtus nusikaltimus ir kitus
+departamento kompetencijai priskirtus nusikaltimus ir kitus teisės pažeidimus,
 
-teisės pažeidimus, vykdo asmenų, įtariamų padarius tokius teisės pažeidimus,
+vykdo asmenų, įtariamų padarius tokius teisės pažeidimus, paiešką;
 
-paiešką;
+6) tiria asmenų
 
-6)
+veikas, dėl kurių gali būti padaryta arba daroma žala valstybės saugumui, jos ekonominiams
 
-tiria asmenų veikas, dėl kurių gali būti padaryta arba daroma žala valstybės
+ir strateginiams interesams;
 
-saugumui, jos ekonominiams ir strateginiams interesams;
+7) organizuoja
 
-7)
+ir užtikrina techninę vyriausybinio ryšio apsaugą;
 
-organizuoja ir užtikrina techninę vyriausybinio ryšio apsaugą;
+8) kontroliuoja
 
-8)
+Lietuvos Respublikos valstybės paslapčių apsaugą šalies viduje bei jos
 
-kontroliuoja Lietuvos Respublikos valstybės paslapčių apsaugą šalies viduje bei
+įstaigose užsienyje;
 
-jos įstaigose užsienyje;
+9) savarankiškai
 
-9)
-
-savarankiškai arba kartu su kitomis įgaliotomis valstybės ar savivaldybių institucijomis
+arba kartu su kitomis įgaliotomis valstybės ar savivaldybių institucijomis
 
 ar įstaigomis rengia ir įgyvendina priemones užsienio diplomatinių įstaigų
 
@@ -284,111 +340,61 @@ Nr. VIII-1945,
 
 00.09.19, Žin., 2000, Nr.83-2514 (00.10.04)
 
+[Įstatymas
+
+papildomas 8(1) straipsniu nuo 2002 m. rugpjūčio 1 d.:
+
+8(1)
+
+straipsnis. Oficialus įspėjimas asmeniui
+
+Oficialus
+
+įspėjimas asmeniui yra Saugumo departamento pareigūno rašytinis reikalavimas
+
+asmeniui laikytis Lietuvos Respublikos Konstitucijos ir įstatymų, nevaržyti
+
+kitų žmonių teisių ir laisvių, nedaryti kitų teisės pažeidimų ir supažindinimas
+
+su galimomis teisinėmis pasekmėmis.
+
+Oficialus
+
+įspėjimas gali būti taikomas, kai iš nustatyta tvarka gautų duomenų yra
+
+pakankamas pagrindas manyti, kad asmuo gali daryti teisės pažeidimus, galinčius
+
+pakenkti valstybės saugumo interesams.
+
+Oficialų
+
+įspėjimą asmeniui turi teisę pareikšti Saugumo departamento generalinis
+
+direktorius, jo pavaduotojai, centrinio aparato valdybų ir skyrių viršininkai
+
+arba teritorinių įstaigų viršininkai.
+
+Šio
+
+straipsnio pirmojoje dalyje nurodytas oficialus įspėjimas pareiškiamas
+
+asmeniškai, pateikiant jį asmeniui susipažinti pasirašytinai. Oficialiai
+
+įspėtas asmuo turi teisę gauti jo oficialaus įspėjimo nuorašą.]
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+
 III. SAUGUMO
 
 DEPARTAMENTO STRUKTŪRA IR KADRAI
-
-7 straipsnis. Saugumo
-
-departamento uždaviniai
-
-Saugumo departamento
-
-uždaviniai yra išaiškinti veikas, keliančias grėsmę  valstybės  saugumui,  jos
-
-suverenitetui, teritorijos neliečiamumui ir vientisumui, Lietuvos Respublikos
-
-Konstitucijos įtvirtintai  valstybės santvarkai ir valdžiai, valstybės
-
-gynybinei ir ekonominei galiai, užkirsti kelią šioms veikoms, nustatyti
-
-priežastis, sąlygojančias šias veikas, bei įstatymų nustatyta tvarka imtis
-
-priemonių joms šalinti.
-
-8 straipsnis. Saugumo
-
-departamento funkcijos
-
-Saugumo
-
-departamentas,  spręsdamas  įstatymo  numatytus uždavinius:
-
-1) Lietuvos  valstybės
-
-interesais  atlieka žvalgybą ir kontržvalgybą;
-
-2) atlieka kvotą,
-
-tiriant Saugumo departamento kompetencijai priskirtus nusikaltimus, ir asmenų,
-
-įtariamų padarius tokius nusikaltimus, paiešką;
-
-3) imasi priemonių
-
-valstybės ekonominių pagrindų apsaugai, taip pat kovai su terorizmu ir
-
-korupcija, keliančiais grėsmę valstybės saugumui;
-
-4) rengia ir
-
-įgyvendina priemones avarijoms, katastrofoms ir kitiems pavojingiems  įvykiams
-
-užkirsti atominės energetikos objektuose, oro, jūrų ir geležinkelio transporte
-
-bei kituose strateginę reikšmę turinčiuose objektuose;
-
-5) tiria valstybės
-
-pareigūnų ir kitų asmenų nusikalstamas veikas, dėl kurių gali būti padaryta
-
-arba daroma didelė žala valstybės saugumui, jos ekonominiams ir kitiems
-
-interesams, taip pat asmens konstitucinėms teisėms bei teisėtiems interesams;
-
-6) organizuoja ir
-
-užtikrina techninę vyriausybinio ryšio apsaugą;
-
-7) rengia, įgyvendina
-
-ir kontroliuoja Lietuvos Respublikos paslapčių apsaugą šalies viduje bei jos
-
-įstaigose užsienyje;
-
-8) savarankiškai arba
-
-kartu su kitomis kompetentingomis institucijomis įgyvendina operatyvines
-
-priemones :
-
-svarbių valstybinių,
-
-tarptautinių, visuomeninių renginių saugumui užtikrinti,
-
-Lietuvos Respublikos
-
-vadovų, užsienio šalių vadovų bei kitų oficialių Lietuvos Respublikos svečių
-
-apsaugai organizuoti ir užtikrinti,
-
-užsienio diplomatinių
-
-įstaigų  Lietuvoje  ir  Lietuvos Respublikos įstaigų užsienyje apsaugai
-
-organizuoti ir užtikrinti;
-
-9) tiria, analizuoja
-
-ir prognozuoja politinius visuomeninius procesus, susijusius su valstybės
-
-saugumu, ir informuoja apie juos Seimą bei Respublikos Prezidentą, taip pat
-
-Vyriausybę.
-
-III.
-
-SAUGUMO DEPARTAMENTO STRUKTŪRA IR KADRAI
 
 9 straipsnis. Organizaciniai
 
@@ -406,11 +412,35 @@ struktūrą sudaro centrinis aparatas, teritorinės įstaigos ir specialios
 
 paskirties įstaigos prie Saugumo departamento.
 
+[2
+
+dalies redakcija nuo 2002 m. rugpjūčio 1 d.:
+
+Saugumo
+
+departamento sistemą sudaro Saugumo departamento centrinis aparatas,
+
+teritorinės įstaigos ir specialios paskirties įstaigos prie Saugumo
+
+departamento. Saugumo departamento struktūrą sudaro Saugumo departamento
+
+centrinis aparatas (su struktūriniais padaliniais) bei teritorinės įstaigos.]
+
 Saugumo departamento
 
 padalinius, išskyrus specialios paskirties įstaigas, steigia ir likviduoja, jų
 
 vidaus struktūrą nustato Saugumo departamento generalinis direktorius.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
 
 10 straipsnis. Saugumo
 
@@ -434,9 +464,11 @@ sudaroma kolegija. Saugumo departamento kolegija yra generalinio direktoriaus
 
 patariamoji institucija. Jos veiklą reglamentuoja Saugumo departamento
 
-kolegijos nuostatai, kuriuos tvirtina Saugumo departamento generalinis direktorius,
+kolegijos nuostatai, kuriuos tvirtina Saugumo departamento generalinis
 
-o pagrindinius veiklos principus nustato Saugumo departamento statutas.
+direktorius, o pagrindinius veiklos principus nustato Saugumo departamento
+
+statutas.
 
 11 straipsnis. Saugumo
 
@@ -454,15 +486,19 @@ paskirties įstaiga prie Saugumo departamento
 
 Specialioms Saugumo
 
-departamento funkcijoms, tokioms kaip vyriausybinių ryšių apsauga,
+departamento funkcijoms, tokioms kaip vyriausybinių ryšių apsauga, konfidencialaus
 
-konfidencialaus pašto gabenimas, informacinėms ir kitoms Saugumo departamento
+pašto gabenimas, informacinėms ir kitoms Saugumo departamento reikmėms
 
-reikmėms realizuoti gali būti steigiamos specialios paskirties įstaigos prie
+realizuoti gali būti steigiamos specialios paskirties įstaigos prie Saugumo
 
-Saugumo departamento. Specialios paskirties įstaigas steigia, finansuoja ir
+departamento. Specialios paskirties įstaigas steigia, finansuoja ir likviduoja
 
-likviduoja Lietuvos Respublikos Vyriausybė.
+Lietuvos Respublikos Vyriausybė.
+
+[12
+
+straipsnio redakcija nuo 2002 m. rugpjūčio 1 d.:
 
 13 straipsnis. Saugumo
 
@@ -478,19 +514,37 @@ pareigūnas yra asmuo, einantis Saugumo departamento statute nustatytas
 
 pareigas.
 
+[13
+
+straipsnio redakcija nuo 2002 m. rugpjūčio 1 d.:
+
 14 straipsnis. Saugumo
 
 departamento pareigūnų atranka
 
 Saugumo departamento
 
-pareigūnais priimami ne jaunesni kaip 20 metų valstybinę kalbą mokantys
+pareigūnais priimami ne jaunesni kaip 20 metų valstybinę kalbą mokantys Lietuvos
 
-Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą, intelektą, asmenines
+Respublikos piliečiai, kurie pagal išsilavinimą, intelektą, asmenines savybes,
 
-savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka Saugumo
+dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka Saugumo departamento
 
-departamento pareigūno darbui.
+pareigūno darbui.
+
+[14
+
+straipsnis netenka galios nuo 2002 m. rugpjūčio 1 d.]
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
 
 15 straipsnis. Saugumo
 
@@ -524,13 +578,27 @@ Kitų darbuotojų priėmimą į
 
 darbą, perkėlimą ir atleidimą iš darbo reglamentuoja Darbo sutarties įstatymas.
 
+[15
+
+straipsnis netenka galios nuo 2002 m. rugpjūčio 1 d.]
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+
 17 straipsnis. Saugumo
 
 departamento pareigūno priesaika
 
-Priimami į Saugumo departamentą
+Priimami į Saugumo
 
-pareigūnais asmenys prisiekia Lietuvos valstybei šiais žodžiais:
+departamentą pareigūnais asmenys prisiekia Lietuvos valstybei šiais žodžiais:
 
 "Aš, (vardas, pavardė),
 
@@ -558,13 +626,17 @@ Prisiekti galima ir be
 
 paskutiniojo sakinio.
 
+[17
+
+straipsnio redakcija nuo 2002 m. rugpjūčio 1 d.:
+
 18 straipsnis. Saugumo
 
 departamento pareigūno teisinė padėtis
 
-Saugumo departamento
+Saugumo departamento pareigūnų
 
-pareigūnų tarnybą reglamentuoja Saugumo departamento statutas.
+tarnybą reglamentuoja Saugumo departamento statutas.
 
 Saugumo departamento
 
@@ -604,6 +676,16 @@ padarytus nusikaltimus Saugumo departamento pareigūnas atsako bendra Lietuvos
 
 Respublikos įstatymų numatyta tvarka.
 
+[7
+
+dalies redakcija nuo 2002 m. rugpjūčio 1 d.:
+
+Už įstatymų
+
+pažeidimus Saugumo departamento pareigūnas atsako Lietuvos Respublikos įstatymų
+
+nustatyta tvarka.]
+
 Saugumo departamento
 
 pareigūnas negali eiti renkamų ar skiriamų pareigų, dirbti verslo, komercijos
@@ -614,15 +696,37 @@ išskyrus atvejus, kai tai Saugumo departamento statuto nustatyta tvarka
 
 suderinta su generaliniu direktoriumi.
 
+[8
+
+dalis netenka galios, 9 dalis laikoma 8 dalimi nuo 2002 m. rugpjūčio 1 d.]
+
 Saugumo departamento
 
 pareigūnų teisėti reikalavimai yra privalomi valstybinėms, visuomeninėms ir
 
-privačioms įstaigoms bei organizacijoms, Lietuvos Respublikos piliečiams, Lietuvos
+privačioms įstaigoms bei organizacijoms, Lietuvos Respublikos piliečiams,
 
-Respublikoje esantiems užsieniečiams bei asmenims be pilietybės.
+Lietuvos Respublikoje esantiems užsieniečiams bei asmenims be pilietybės.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1043, 2002-07-05,
+
+Žin., 2002, Nr. 73-3102 (2002-07-19)
 
 19 straipsnis. Saugumo departamento pareigūnų teisėsSaugumo departamento uždaviniams ir funkcijoms atlikti departamento pareigūnai turi teisę: 1) vykdyti operatyvinę veiklą, numatytą Lietuvos Respublikos operatyvinės veiklos įstatyme, naudodamiesi operatyvinės veiklos subjektams suteiktomis teisėmis; 2) kartu su vidaus reikalų ir krašto apsaugos sistemų padaliniais ir kitomis įgaliotomis valstybės ar savivaldybių institucijomis ar įstaigomis įgyvendinti bendras valstybės saugumą užtikrinančias priemones; 3) tirti Saugumo departamento kompetencijai priskirtus nusikaltimus bei kitus teisės pažeidimus;4) naudotis policijos komisariatų areštinėmis, asmenų, įtariamų padarius Saugumo departamento tyrimo kompetencijai priskirtą nusikaltimą, sulaikymui, taip pat prireikus savarankiškai arba su kitomis įgaliotomis institucijomis juos saugoti ir konvojuoti; 5) Saugumo departamento statute nustatyta tvarka oficialiai įspėti asmenis dėl neteisėtų veikų neleistinumo;
+
+[5
+
+punkto redakcija nuo 2002 m. rugpjūčio 1 d.:
+
+5) šio Įstatymo
+
+nustatyta tvarka oficialiai įspėti asmenis;]
 
 6) Saugumo departamento centrinio
 
@@ -656,21 +760,23 @@ valstybių specialistus bei ekspertus Saugumo departamento tiriamais klausimais
 
 ir gauti jų išvadas;
 
-9) neatidėliotinais
+9)
 
-atvejais įstatymų nustatyta tvarka netrukdomai patekti į juridiniams asmenims,
+neatidėliotinais atvejais įstatymų nustatyta tvarka netrukdomai patekti į
 
-asmenims, neturintiems juridinio asmens teisių, bei fiziniams asmenims
+juridiniams asmenims, asmenims, neturintiems juridinio asmens teisių, bei
 
-priklausančias teritorijas, patalpas ir transporto priemones, taip pat
+fiziniams asmenims priklausančias teritorijas, patalpas ir transporto
 
-pasinaudoti šių asmenų transporto ar ryšio priemonėmis. Jeigu transporto ar
+priemones, taip pat pasinaudoti šių asmenų transporto ar ryšio priemonėmis.
 
-ryšio priemonės savininkas arba valdytojas reikalauja, išduodama Saugumo
+Jeigu transporto ar ryšio priemonės savininkas arba valdytojas reikalauja,
 
-departamento generalinio direktoriaus nustatytos formos pažyma, pagal kurią iš
+išduodama Saugumo departamento generalinio direktoriaus nustatytos formos
 
-Saugumo departamento lėšų kompensuojami patirti nuostoliai ar materialinė žala.
+pažyma, pagal kurią iš Saugumo departamento lėšų kompensuojami patirti
+
+nuostoliai ar materialinė žala.
 
 Straipsnio pakeitimai:
 
@@ -678,9 +784,13 @@ Nr. VIII-1945,
 
 00.09.19, Žin., 2000, Nr.83-2514 (00.10.04)
 
-20 straipsnis. Pareigūnų
+Nr.
 
-laipsniai
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+
+20 straipsnis. Pareigūnų laipsniai
 
 Saugumo departamento
 
@@ -716,6 +826,10 @@ pareigūnų laipsnių suteikimo ir netekimo pagrindus bei tvarką nustato Saugum
 
 departamento statutas.
 
+[20
+
+straipsnio redakcija nuo 2002 m. rugpjūčio 1 d.:
+
 21 straipsnis. Saugumo
 
 departamento pareigūnų uniforma ir skiriamieji ženklai
@@ -727,6 +841,32 @@ pareigūnai dėvi uniformą su Saugumo departamento skiriamaisiais ženklais.
 Uniformos ir skiriamųjų ženklų pavyzdžius tvirtina Lietuvos Respublikos
 
 Vyriausybė. Uniformos dėvėjimo tvarką nustato Saugumo departamento statutas.
+
+[21
+
+straipsnio redakcija nuo 2002 m. rugpjūčio 1 d.:
+
+21
+
+straipsnis. Saugumo departamento pareigūnų uniforma ir skiriamieji ženklai
+
+Saugumo
+
+departamento pareigūnai dėvi uniformą su Saugumo departamento skiriamaisiais
+
+ženklais. Uniformos ir skiriamųjų ženklų pavyzdžius tvirtina Lietuvos
+
+Respublikos Vyriausybė.]
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
 
 22 straipsnis. Saugumo
 
@@ -796,9 +936,9 @@ Saugumo departamento
 
 pareigūnas atleidžiamas iš tarnybos:
 
-1) Darbo sutarties įstatymo nustatytais
+1) Darbo sutarties įstatymo
 
-pagrindais;
+nustatytais pagrindais;
 
 2) kai jam sueina Saugumo
 
@@ -831,6 +971,20 @@ nustato Saugumo departamento statutas.
 Ginčai dėl atleidimo iš
 
 tarnybos sprendžiami teismine tvarka.
+
+[25
+
+straipsnis netenka galios nuo 2002 m. rugpjūčio 1 d.]
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
 
 IV. SAUGUMO
 
@@ -874,31 +1028,15 @@ pareigūnų darbo užmokestį sudaro pagrindinė mėnesinė alga pagal pareigas,
 
 pareigūno laipsnį, ištarnautą laiką ir kvalifikacinę kategoriją.
 
-Tarnybinio atlyginimo,
-
-papildomo apmokėjimo, priedų, kompensacijų, pašalpų ir kitų išmokų dydį bei
-
-skyrimo tvarką nustato Lietuvos Respublikos įstatymai, Vyriausybės nutarimai
-
-bei Saugumo departamento statutas.
-
-[27 straipsnio 2 dalies redakcija nuo
-
-2001 m. liepos 1 d:
-
 Tarnybinio atlyginimo, papildomo apmokėjimo, priedų,
 
 kompensacijų, pašalpų ir kitų išmokų dydį bei skyrimo tvarką nustato Lietuvos
 
-Respublikos įstatymai.]
+Respublikos įstatymai.
 
-Straipsnio
+[27
 
-pakeitimai:
-
-Nr. IX-267, 2001 04 19, Žin., 2001, Nr.
-
-39-1338 (2001 05 09), įsigalioja nuo 2001 07 01
+straipsnio redakcija nuo 2002 m. rugpjūčio 1 d.:
 
 28 straipsnis. Saugumo
 
@@ -918,11 +1056,11 @@ krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų į
 
 departamento sistemoje nuo paskyrimo į pareigas dienos;
 
-2) darbo Saugumo
+2) darbo Saugumo departamento
 
-departamento sistemoje Darbo sutarties įstatymo pagrindais laikas, jeigu vėliau
+sistemoje Darbo sutarties įstatymo pagrindais laikas, jeigu vėliau tos pareigos
 
-tos pareigos priskirtos pareigūno statusui;
+priskirtos pareigūno statusui;
 
 3) tarnyba Lietuvos
 
@@ -1014,23 +1152,47 @@ Saugumo departamento
 
 pareigūno, žuvusio ryšium su tarnyba, šeimai išmokama vienkartinė dešimties
 
-metų (120 mėnesių) darbo užmokesčio dydžio kompensacija. Jis laidojamas valstybės
+metų (120 mėnesių) darbo užmokesčio dydžio kompensacija. Jis laidojamas
 
-lėšomis.
+valstybės lėšomis.
 
-Saugumo departamento
+Saugumo departamento pareigūnui,
 
-pareigūnui, sužeistam ryšium su tarnyba, išmokama iki penkerių metų (iki 60
+sužeistam ryšium su tarnyba, išmokama iki penkerių metų (iki 60 mėnesių) darbo
 
-mėnesių) darbo užmokesčio dydžio kompensacija, atsižvelgiant į kūno sužalojimų
+užmokesčio dydžio kompensacija, atsižvelgiant į kūno sužalojimų sunkumo
 
-sunkumo laipsnį.
+laipsnį.
+
+[2
+
+dalies redakcija nuo 2002 m. rugpjūčio 1 d.:
+
+Saugumo
+
+departamento pareigūnui, sužeistam ryšium su tarnyba, Vyriausybės nustatyta
+
+tvarka išmokama nuo vienerių iki penkerių metų (nuo 12 iki 60 mėnesių) darbo
+
+užmokesčio dydžio kompensacija, atsižvelgiant į kūno sužalojimų sunkumo
+
+laipsnį.]
 
 Saugumo departamento
 
 pareigūnams visiškai atlyginama materialinė žala, kurią jie patiria dėl
 
 tarnybos.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
 
 32 straipsnis. Saugumo
 
@@ -1106,9 +1268,13 @@ dydį nustato ir skiria Lietuvos Respublikos Seimas Nacionalinio saugumo
 
 komiteto teikimu.
 
-36 straipsnis. Saugumo
+[35
 
-departamento aprūpinimas patalpomis
+straipsnio redakcija nuo 2002 m. rugpjūčio 1 d.:
+
+36 straipsnis. Saugumo departamento
+
+aprūpinimas patalpomis
 
 Saugumo departamentui
 
@@ -1158,13 +1324,13 @@ Nr.
 
 I-694,
 
-94.12.13, Žin., 1994, Nr.99-1959
+1994.12.13, Žin., 1994, Nr. 99-1959
 
 DĖL
 
-LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO ĮSTATYMO 28 STRAIPSNIO
+LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO ĮSTATYMO
 
-PAKEITIMO
+28 STRAIPSNIO PAKEITIMO
 
 2.
 
@@ -1176,7 +1342,7 @@ Nr.
 
 I-1080,
 
-95.10.31, Žin., 1995, Nr.92-2056 (95.11.10)
+1995.10.31, Žin., 1995, Nr. 92-2056 (1995.11.10)
 
 DĖL
 
@@ -1186,9 +1352,9 @@ LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU
 
 LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ
 
-VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO
+VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO IR
 
-IR PAPILDYMO
+PAPILDYMO
 
 3.
 
@@ -1196,7 +1362,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. VIII-1945,
 
-00.09.19, Žin., 2000, Nr.83-2514 (00.10.04)
+2000.09.19, Žin., 2000, Nr. 83-2514 (2000.10.04)
 
 VALSTYBĖS SAUGUMO DEPARTAMENTO ĮSTATYMO 7, 8 IR 19
 
@@ -1218,9 +1384,37 @@ PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja nuo 2001 m. liepos 1 d.
 
-*** Pabaiga ***
+5.
 
-Redagavo: Aušrinė Trapinskienė (2001 05 16)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO ĮSTATYMO PAPILDYMO 6(1), 8(1) STRAIPSNIAIS, 3, 9, 12, 13,
+
+17, 18, 19, 20, 21, 27, 31, 35 STRAIPSNIŲ PAKEITIMO BEI 14, 15, 16 IR 25
+
+STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2002 m. rugpjūčio 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2002-07-29)
 
 autrap@lrs.lt
 
@@ -1232,9 +1426,9 @@ Pareigūnai, kurių veiksmai
 
 kelia nepasitikėjimą, gali būti generalinio direktoriaus įsakymu, pritarus
 
-kolegijai, nušalinti nuo pareigų. Nušalinimo laikotarpiu darbo užmokesčio
+kolegijai, nušalinti nuo pareigų. Nušalinimo laikotarpiu darbo užmokesčio mokėjimas
 
-mokėjimas jiems sustabdomas.
+jiems sustabdomas.
 
 Nepagrįstai nuo pareigų
 
@@ -1245,4 +1439,18 @@ darbo užmokestis.
 Pareigūnų nušalinimo nuo
 
 pareigų tvarką reglamentuoja Saugumo departamento statutas.
+
+[16
+
+straipsnis netenka galios nuo 2002 m. rugpjūčio 1 d.]
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1043,
+
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
 
