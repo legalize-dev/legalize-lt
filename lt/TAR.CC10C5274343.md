@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2001-08-03"
+last_updated: "2002-07-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -2359,6 +2359,34 @@ tiesiami keliai su tvirta danga; įrengiami tvenkiniai; sodinamas miškas;
 
 paverčiami žemės ūkio naudmenomis miškai, pelkės ir krūmai.
 
+Žemės ūkio
+
+paskirties žemės nuomos terminas nustatomas nuomotojo ir nuomininko susitarimu,
+
+bet ne trumpiau kaip 5 metams.
+
+Valstybinė žemės
+
+ūkio paskirties žemė kaimo vietovėje Vyriausybės nustatyta tvarka išnuomojama
+
+ne aukciono būdu:
+
+1) fiziniams
+
+asmenims, įregistravusiems ūkininko ūkį Ūkininko ūkio įstatymo nustatyta tvarka
+
+arba turintiems Vyriausybės įgaliotos institucijos išduotą kvalifikacinį
+
+pasirengimo ūkininkauti pažymėjimą;
+
+2) juridiniams
+
+asmenims – žemės ūkio produkcijos gamintojams, kurių metinės įplaukos iš
+
+prekinės žemės ūkio produkcijos realizavimo sudaro daugiau kaip 50 procentų
+
+visų gaunamų pajamų.
+
 Į žemės ūkio paskirties
 
 žemėnaudas įsiterpusių miškų priskyrimo miškų ūkio paskirties žemei ir šių
@@ -2396,6 +2424,12 @@ VIII-315,
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 
 Nr.42-1191 (00.05.24)
+
+Nr.
+
+IX-1048,
+
+2002-07-05, Žin., 2002, Nr. 74-3141 (2002-07-24)
 
 36 straipsnis.
 
@@ -2497,13 +2531,13 @@ valstybinę žemės ūkio paskirties žemę, žemės ūkio naudmenos turi būti 
 
 nuo dirvožemių alinimo, vėjo ir vandens erozijos, apaugimo krūmais ir mišku,
 
-supelkėjimo ar kitokio ūkinių savybių pablogėjimo. Vykdant statybas ar
+supelkėjimo ar kitokio ūkinių savybių pablogėjimo. Vykdant statybas ar eksploatuojant
 
-eksploatuojant gamtos išteklius, derlingasis dirvožemio sluoksnis neturi būti
+gamtos išteklius, derlingasis dirvožemio sluoksnis neturi būti sunaikintas, bet
 
-sunaikintas, bet panaudotas žemės ūkio naudmenoms gerinti, o pažeistos žemės
+panaudotas žemės ūkio naudmenoms gerinti, o pažeistos žemės turi būti
 
-turi būti rekultivuotos.
+rekultivuotos.
 
 Valstybinė žemės
 
@@ -2705,9 +2739,9 @@ Konservacinės paskirties
 
 rezervatams;
 
-2) gamtos, istorijos, archeologijos
+2) gamtos, istorijos,
 
-ir kultūros paminklų teritorijoms;
+archeologijos ir kultūros paminklų teritorijoms;
 
 3) valstybinių nacionalinių
 
@@ -2787,9 +2821,11 @@ miškų ūkio veiklai.
 
 Valstybinės žemės ploto
 
-poreikis kitos paskirties žemės naudotojams nustatomas pagal Lietuvos Respublikos
+poreikis kitos paskirties žemės naudotojams nustatomas pagal Lietuvos
 
-Vyriausybės ir ministerijų bei valstybinių tarnybų patvirtintus normatyvus.
+Respublikos Vyriausybės ir ministerijų bei valstybinių tarnybų patvirtintus
+
+normatyvus.
 
 Įstatymų ir Lietuvos
 
@@ -2945,9 +2981,9 @@ paskirtis:
 
 1) rengti valstybinės žemės
 
-naudojimo ir apsaugos programas bei šalies administracinių teritorijų žemėtvarkos
+naudojimo ir apsaugos programas bei šalies administracinių teritorijų
 
-schemas kaip sudėtinę teritorinio planavimo (kraštotvarkos) dalį;
+žemėtvarkos schemas kaip sudėtinę teritorinio planavimo (kraštotvarkos) dalį;
 
 2) rengti žemėtvarkos
 
@@ -2975,9 +3011,7 @@ veiklos apribojimams bei servitutams nustatyti;
 
 projektus žemės ūkio įmonių ir pagal atskirus užsakymus ūkininkų ūkių bei kitų
 
-žemės naudotojų žemėnaudoms tvarkyti ir racionaliam žemės naudojimui
-
-organizuoti.
+žemės naudotojų žemėnaudoms tvarkyti ir racionaliam žemės naudojimui organizuoti.
 
 Straipsnio
 
@@ -2993,9 +3027,9 @@ I-939,
 
 žemėtvarkos darbų atlikimas
 
-Valstybinės žemėtvarkos
+Valstybinės žemėtvarkos darbai
 
-darbai atliekami valstybės, žemės savininkų ir kitų žemės naudotojų lėšomis.
+atliekami valstybės, žemės savininkų ir kitų žemės naudotojų lėšomis.
 
 Valstybinės
 
@@ -3071,19 +3105,17 @@ Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
 
 Žemės
 
-informacinės sistemos paskirtis - naudojantis nekilnojamojo turto kadastro,
+informacinės sistemos paskirtis - naudojantis nekilnojamojo turto kadastro, Nekilnojamojo
 
-Nekilnojamojo turto registro, miškų kadastro, teritorijų planavimo,
+turto registro, miškų kadastro, teritorijų planavimo, aplinkosaugos,
 
-aplinkosaugos, paminklosaugos, žemės reformos, dirvožemio tyrimų ir kitais
+paminklosaugos, žemės reformos, dirvožemio tyrimų ir kitais duomenimis apie
 
-duomenimis apie žemę, Lietuvos Respublikos Vyriausybės nustatyta tvarka kaupti
+žemę, Lietuvos Respublikos Vyriausybės nustatyta tvarka kaupti ir atnaujinti
 
-ir atnaujinti informaciją apie žemės naudmenų plotą ir vertę, žemės naudojimo
+informaciją apie žemės naudmenų plotą ir vertę, žemės naudojimo sąlygas ir
 
-sąlygas ir apribojimus, kitas žemės sklype esančio nekilnojamojo turto
-
-charakteristikas.
+apribojimus, kitas žemės sklype esančio nekilnojamojo turto charakteristikas.
 
 Straipsnio
 
@@ -3185,9 +3217,9 @@ išteklių naudojimo ir teritoriniam planavimui;
 
 projektams ir schemoms rengti;
 
-5) žemės įkeitimui
+5) žemės
 
-ir žemės rinkos formavimui;
+įkeitimui ir žemės rinkos formavimui;
 
 6) žemės
 
@@ -3413,9 +3445,9 @@ sutvarkyti žemę taip, kad ji būtų tinkama naudoti pagal paskirtį;
 
 priemonių žemės ūkio naudmenų dirvožemiams gerinti ir apsaugoti;
 
-7) pažeidė kitų žemės naudotojų
+7) pažeidė kitų žemės
 
-ir gyventojų interesus;
+naudotojų ir gyventojų interesus;
 
 8) nesilaikė kitų žemės
 
@@ -3475,17 +3507,17 @@ teise arba naudojamo kitu pagrindu žemės sklypu;
 
 3) žemės savininkų bei kitų
 
-teisėtų žemės naudotojų - dėl nutraukimo kaimyniniame žemės sklype veiklos
+teisėtų žemės naudotojų - dėl nutraukimo kaimyniniame žemės sklype veiklos (nors
 
-(nors ir teisėtos), kuria daroma žala nuosavybės teise priklausančiai arba
+ir teisėtos), kuria daroma žala nuosavybės teise priklausančiai arba nuomojamai
 
-nuomojamai ar kitu pagrindu naudojamai žemei;
+ar kitu pagrindu naudojamai žemei;
 
 4) žemės savininkų bei
 
-valstybinės žemės naudotojų ir apskrities viršininko - dėl atlyginimo už paimamą
+valstybinės žemės naudotojų ir apskrities viršininko - dėl atlyginimo už
 
-visuomenės poreikiams žemę būdo ir dydžio;
+paimamą visuomenės poreikiams žemę būdo ir dydžio;
 
 5) žemės
 
@@ -3693,13 +3725,27 @@ Nr. IX-490,
 
 ĮSTATYMO 18 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1048,
+
+2002-07-05, Žin., 2002, Nr. 74-3141 (2002-07-24)
+
+ŽEMĖS
+
+ĮSTATYMO 35 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2001-08-17)
+Aušrinė Trapinskienė (2002-07-24)
 
 autrap@lrs.lt
 
