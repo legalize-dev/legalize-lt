@@ -4,7 +4,7 @@ identifier: "TAR.FB3D4CB25AC5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-01-28"
-last_updated: "1993-02-21"
+last_updated: "1993-03-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FB3D4CB25AC5"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,18 @@ published_in_tar: "1993-01-28"
 document_status: "registruotas TA registre"
 ---
 # Dėl įstatymo "Dėl darbuotojų pirmenybės įsigyti privatizuojamų įmonių akcijų" pakeitimo
+
+Įstatymas netenka galios 1997-12-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-480, 1997-11-04, Žin., 1997, Nr. 107-2688 (1997-11-26), i. k. 0971010ISTAVIII-480
+
+Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
+
+Suvestinė redakcija nuo 1993-03-01 iki 1997-11-30
+
+Įstatymas paskelbtas: Žin. 1993, Nr. 5-91, i. k. 0931010ISTA0000I-58
 
 LIETUVOS RESPUBLIKOS
 
@@ -29,9 +41,11 @@ Papildyti ir pakeisti Lietuvos Respublikos įstatymą „Dėl darbuotojų pirmen
 
 „taip pat buvę šių įmonių darbuotojai, turintys privatizuojamoje įmonėje ne mažesnį kaip 25 metų bendrą darbo stažą arba tapę šioje įmonėje invalidais.“
 
-2. 2 straipsnį išdėstyti taip:
+2. Neteko galios nuo 1993-03-01
 
-„Akcijų paketas, kurį pirmenybės teise gali įsigyti 1 straipsnyje nurodyti asmenys, nustatomas taip, kad bendra tokiu būdu parduodamų akcijų nominali vertė kartu su anksčiau sukauptu privačiu kapitalu, tenkančiu įmonės dirbantiesiems, sudarytų iki 50 procentų (imtinai), o žemės ūkio produkciją perdirbančioms įmonėms – iki 49 procentų (imtinai) įmonės įstatinio kapitalo.“
+Punkto naikinimas:
+
+Nr. I-59, 1993-02-01, Žin. 1993, Nr. 6-112 (1993-02-28), i. k. 0931010ISTA0000I-59
 
 3. 3 straipsnį išdėstyti taip:
 
@@ -46,4 +60,14 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 Vilnius, 1993 m. sausio 28 d.
 
 Nr. I-58
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-59, 1993-02-01, Žin., 1993, Nr. 6-112 (1993-02-28), i. k. 0931010ISTA0000I-59
+
+Dėl Lietuvos Respublikos įstatymo "Dėl darbuotojų pirmenybės įsigyti privatizuojamų įmonių akcijų" pakeitimo
 
