@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "1991-04-25"
+last_updated: "1992-04-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,11 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-LIETUVOS RESPUBLIKOS
+Suvestinė redakcija nuo 1992-04-30 iki 1993-03-10
 
-ŽEMĖS ŪKIO BENDROVIŲ
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
-Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO BENDROVIŲ Į S T A T Y M A S
 
 I S K I R S N I S
 
@@ -195,7 +195,11 @@ Rezervinio kapitalo fondą sudaro privalomi atskaitymai iš pelno. Rezervinio ka
 
 6. Pajai ir jų kasmetinis padidėjimas (sumažėjimas) registruojamas pajininkų turto apskaitos dokumentuose. Pajininkas turi teisę bet kada susipažinti su turto apskaitos dokumentais ir gauti jų išrašus.
 
-7. Pajai negali būti pardavinėjami ir perkami per biržos įstaigas.
+7. Neteko galios nuo 1992-04-30.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992, Nr. 14-386 (1992-05-20), i. k. 0921010ISTA00I-2523
 
 8. Sugrąžinus asmeniui pajų ar jo dalį natūra ar pinigais, jo verte sumažinamas bendrovės pagrindinis kapitalas.
 
@@ -297,9 +301,11 @@ Nutarimai priimami paprasta balsų dauguma, jeigu šiame įstatyme ar bendrovės
 
 2. Narys iš bendrovės išstoja pateikęs rašytinį pareiškimą.
 
-3. Narys visais atvejais turi teisę gauti, o bendrovė privalo išmokėti pinigais ar natūra jam priklausantį pajų. Išstodamas iš bendrovės, narys turi teisę susigrąžinti nekilnojamąjį turtą, įskaitant ir žemę.
+3. Narys visais atvejais turi teisę gauti, o bendrovė privalo išmokėti pinigais ar natūra jam priklausantį pajų. Išstodamas iš bendrovės, narys turi teisę susigrąžinti nekilnojamąjį turtą, įskaitant ir žemę. Nariui, pareiškusiam norą išstoti iš bendrovės ir steigiančiam ūkininko ūkį, jo pageidavimu, pajus (pirmiausia nario materialinis įnašas) Lietuvos Respublikos Vyriausybės nustatyta tvarka grąžinamas natūra. Kitas nario išstojimo iš bendrovės ir atsiskaitymo sąlygas bei terminus nustato bendrovės įstatai.
 
-Nario išstojimo iš bendrovės ir atsiskaitymo sąlygas bei terminus nustato bendrovės įstatai.
+Straipsnio dalies pakeitimai:
+
+Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992, Nr. 14-386 (1992-05-20), i. k. 0921010ISTA00I-2523
 
 4. Narys, pažeidžiantis šiame įstatyme ir bendrovės įstatuose nustatytas pareigas, susirinkimo nutarimu gali būti iš bendrovės pašalintas. Nutarimas dėl pašalinimo gali būti skundžiamas teismui.
 
@@ -475,30 +481,6 @@ Vilnius, 1991 m. balandžio 16 d.
 
 Nr. I-1222
 
-34 straipsnis. Likvidatorių materialinis skatinimas ir atsakomybė
-
-Straipsnio numeracijos pakeitimas:
-
-Nr. VIII-118, 1997-02-18, Žin., 1997, Nr. 20-445 (1997-03-07), i. k. 0971010ISTAVIII-118
-
-1. Likvidatoriaus darbas apmokamas iš lėšų, gautų už parduotą bendrovės turtą. Valstybės valdymo organams priėmus sprendimą likviduoti bendrovę, turto dalį, skiriamą likvidatorių darbo apmokėjimui, nustato Lietuvos Respublikos Vyriausybė pagal bendrovės kapitalo dydį.
-
-2. Bendrovės likvidatoriai, išeikvoję turtą, dėl savo kaltės neįvykdę pagal įstatymus, įstatus ir organo, priėmusio sprendimą likviduoti bendrovę, nutarimus pavestų pareigų, atsako už susidariusius nuostolius Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-Straipsnio pakeitimai:
-
-Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
-
-LIETUVOS RESPUBLIKOS
-
-AUKŠČIAUSIOSIOS TARYBOS
-
-PIRMININKAS                                                                                                    V. LANDSBERGIS
-
-Vilnius, 1991 m. balandžio 16 d.
-
-Nr. I-1222
-
 Pakeitimai:
 
 1.
@@ -508,106 +490,4 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992, Nr. 14-386 (1992-05-20), i. k. 0921010ISTA00I-2523
 
 Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo papildymo ir pakeitimo
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
-
-Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
-
-Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
-
-Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
-
-Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
-
-Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-942, 1995-06-13, Žin., 1995, Nr. 53-1297 (1995-06-28), i. k. 0951010ISTA000I-942
-
-Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-1161, 1995-12-28, Žin., 1996, Nr. 1-5 (1996-01-05), i. k. 0951010ISTA00I-1161
-
-Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo 16 straipsnio laikino papildymo
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-1177, 1996-01-18, Žin., 1996, Nr. 11-283 (1996-02-07); Žin., 1996, Nr. 12-0 (1996-02-09), i. k. 0961010ISTA00I-1177
-
-Lietuvos Respublikos žemės ūkio bendrovių įstatymo 3, 11, 14, 15, 16, 17, 19, 20, 22, 32 straipsnių pakeitimo ir papildymo įstatymas
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-118, 1997-02-18, Žin., 1997, Nr. 20-445 (1997-03-07), i. k. 0971010ISTAVIII-118
-
-Lietuvos Respublikos žemės ūkio bendrovių įstatymo 4, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 29, 33 straipsnių pakeitimo ir papildymo įstatymas
-
-111 straipsnis. Juridinių asmenų dalyvių  informacinės sistemos duomenys
-
-1. Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiami šie duomenys apie bendrovės narius ir pajininkus:
-
-1) nario fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta (jeigu bendrovės narys fizinis asmuo yra nurodęs bendrovei savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiamas tik adresas korespondencijai) arba nario juridinio asmens pavadinimas, kodas, teisinė forma ir buveinė; asmens priėmimo į bendrovės narius data; nario pajinio įnašo dydis (kai įnašas yra piniginis) ir (ar) vertė (kai įnašas yra nepiniginis); narystės pasibaigimo bendrovėje data. Teikiant duomenis apie narį  užsienio valstybės fizinį asmenį, papildomai nurodoma jo gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie narį užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje jis registruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;
-
-2) pajininko fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta (jeigu bendrovės pajininkas fizinis asmuo yra nurodęs bendrovei savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui  teikiamas tik adresas korespondencijai) arba pajininko juridinio asmens pavadinimas, kodas, teisinė forma ir buveinė; asmens pajinio įnašo sumokėjimo data; pajininko pajinio įnašo dydis (kai įnašas yra piniginis) ir (ar) vertė (kai įnašas yra nepiniginis); pajininko pajaus perleidimo bendrovėje data. Teikiant duomenis apie pajininką užsienio valstybės fizinį asmenį, papildomai nurodoma jo gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie pajininką užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje jis yra registruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data.
-
-TAR pastaba. Bendrovės, įsteigtos iki įstatymo Nr. XIII-743 įsigaliojimo (2018-05-01), 111 straipsnio 1 dalyje nurodytus duomenis Juridinių asmenų dalyvių informacinės sistemos tvarkytojui turi pateikti iki 2018-12-31.
-
-2. Šio straipsnio 1 dalyje nurodyti duomenys apie bendrovės narius ir pajininkus Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 kalendorines dienas nuo bendrovės įregistravimo Juridinių asmenų registre dienos, o pasikeitus bendrovės nariams ir pajininkams bei jų duomenims, – ne vėliau kaip per 5 kalendorines dienas nuo šių pasikeitimų dienos.
-
-3. Už bendrovės narių ir pajininkų duomenų pateikimą Juridinių asmenų dalyvių informacinės sistemos tvarkytojui atsako bendrovės valdybos pirmininkas ar administracijos vadovas (pirmininkas).
-
-4. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų pagrindu parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, jeigu ji:
-
-1) teikiama bendrovės nariams ir pajininkams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus;
-
-2) perduodama susijusiems registrams, valstybės informacinėms sistemoms;
-
-3) teikiama mokesčių administravimo, teisėtvarkos institucijoms ir teismams, kitoms valstybės institucijoms ir įstaigoms  teisės aktuose nustatytoms funkcijoms atlikti.
-
-Papildyta straipsniu:
-
-Nr. XIII-743, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18511
-
-TREČIASIS SKIRSNIS
-
-BENDROVĖS KAPITALAS
 
