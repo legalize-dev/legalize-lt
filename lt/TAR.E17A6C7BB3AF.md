@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "2001-07-12"
+last_updated: "2001-11-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -427,13 +427,13 @@ gyventojų sveikatos išsaugojimo, atgavimo ir stiprinimo;
 
 3)
 
-suderinęs su Sveikatos apsaugos ministerija, steigia, reorganizuoja ir likviduoja
+suderinęs su Sveikatos apsaugos ministerija, steigia, reorganizuoja ir
 
-apskričių ligonines, taip pat nustatytas ir įrašytas į Sveikatos apsaugos
+likviduoja apskričių ligonines, taip pat nustatytas ir įrašytas į Sveikatos
 
-ministerijos patvirtintą sąrašą antrinės sveikatos priežiūros specializuotas
+apsaugos ministerijos patvirtintą sąrašą antrinės sveikatos priežiūros
 
-stacionarines asmens sveikatos priežiūros įstaigas;
+specializuotas stacionarines asmens sveikatos priežiūros įstaigas;
 
 4)
 
@@ -475,9 +475,7 @@ Nr. VIII-300,
 
 straipsnis. Apskrities viršininko įgaliojimai teritorijos planavimo ir
 
-paminklotvarkos
-
-klausimais
+paminklotvarkos klausimais
 
 Apskrities
 
@@ -512,6 +510,22 @@ dokumentams;
 tvarka atlieka savivaldybių teritorijų planavimo, statinių projektavimo,
 
 statybos, atidavimo naudoti, naudojimo ir griovimo valstybinę priežiūrą;
+
+[5 punkto redakcija nuo 2002 m. sausio 1
+
+d.:
+
+5) nustatyta tvarka atlieka
+
+savivaldybių teritorijų planavimo, statinių projektavimo, statybos, statinių
+
+pripažinimo tinkamais naudoti ir griovimo valstybinę priežiūrą; nustatyta
+
+tvarka išduoda statybos leidimus (išskyrus tuos, kurių išdavimas įstatymų
+
+pavestas savivaldybės merui (jo įgaliotam savivaldybės administratoriui ar
+
+kitam savivaldybės administracijos tarnautojui);]
 
 6) nustatyta
 
@@ -558,6 +572,12 @@ Nr.
 IX-471,
 
 2001-07-12, Žin., 2001, Nr. 66-2412 (2001-08-01)
+
+Nr.
+
+IX-584,
+
+2001-11-08, Žin., 2001, Nr. 99-3518 (2001-11-28), įsigalioja nuo 2002-01-01
 
 10
 
@@ -1027,9 +1047,7 @@ Nr. VIII-1195,
 
 11 straipsnis. Apskrities viršininko
 
-įgaliojimai gamtos išteklių naudojimo ir aplinkos
-
-apsaugos klausimais
+įgaliojimai gamtos išteklių naudojimo ir aplinkos apsaugos klausimais
 
 Apskrities viršininkas:
 
@@ -1199,11 +1217,11 @@ apskrities raidos klausimais;
 
 3)
 
-dalyvauti Vyriausybės posėdžiuose svarstant su apskrities valdytojo
+dalyvauti Vyriausybės posėdžiuose svarstant su apskrities valdytojo kompetencija
 
-kompetencija susijusius klausimus, taip pat apskrityje esančių ministerijų ir
+susijusius klausimus, taip pat apskrityje esančių ministerijų ir kitų
 
-kitų Vyriausybės institucijų struktūrinių padalinių bei savivaldos institucijų
+Vyriausybės institucijų struktūrinių padalinių bei savivaldos institucijų
 
 posėdžiuose;
 
@@ -1801,9 +1819,7 @@ nuostatus tvirtina bei darbo apmokėjimo tvarką nustato Vyriausybė arba jos
 
 įgaliota institucija.
 
-Straipsnio žymėjimas
-
-pakeistas:
+Straipsnio žymėjimas pakeistas:
 
 Nr. VIII-33,
 
@@ -1975,9 +1991,7 @@ VALDYMO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 3.
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. VIII-33,
 
@@ -1985,9 +1999,9 @@ Nr. VIII-33,
 
 LIETUVOS RESPUBLIKOS APSKRITIES
 
-VALDYMO ĮSTATYMO PAKEITIMO IR PAPILDYMO BEI VYRIAUSYBĖS ATSTOVO ĮSTATYMO
+VALDYMO ĮSTATYMO PAKEITIMO IR PAPILDYMO BEI VYRIAUSYBĖS ATSTOVO ĮSTATYMO PRIPAŽINIMO
 
-PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+NETEKUSIU GALIOS ĮSTATYMAS
 
 4.
 
@@ -2013,9 +2027,9 @@ Nr. VIII-300,
 
 97.06.24, Žin., 1997, Nr.62-1466 (97.07.01)
 
-LIETUVOS RESPUBLIKOS APSKRITIES
+LIETUVOS RESPUBLIKOS APSKRITIES VALDYMO
 
-VALDYMO ĮSTATYMO 8, 17, 19 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ĮSTATYMO 8, 17, 19 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 6.
 
@@ -2161,13 +2175,31 @@ APSKRITIES VALDYMO ĮSTATYMO 5, 10, 12, 13, 16, 17, 19, 20 STRAIPSNIŲ
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-584,
+
+2001-11-08, Žin., 2001, Nr. 99-3518 (2001-11-28)
+
+APSKRITIES
+
+VALDYMO ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Įstatymas įsigalioja nuo 2002 m.
+
+sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2001-08-16)
+Aušrinė Trapinskienė (2001-11-30)
 
 autrap@lrs.lt
 
