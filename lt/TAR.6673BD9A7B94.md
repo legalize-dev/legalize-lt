@@ -4,7 +4,7 @@ identifier: "TAR.6673BD9A7B94"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-10-25"
-last_updated: "1991-02-22"
+last_updated: "1992-02-14"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6673BD9A7B94"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 1991-02-22 iki 1992-02-13
+Įstatymas netenka galios 1992-07-03:
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Nutarimas
+
+Nr. I-2676, 1992-06-25, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 21-613 (1992-07-31), i. k. 0921010NUTA00I-2676
+
+Dėl Lietuvos Respublikos žemės mokesčio įstatymo įsigaliojimo
+
+Suvestinė redakcija nuo 1992-02-14 iki 1992-07-02
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 119-0; Žin. 1990, Nr.32-764, i. k. 0901010ISTA000I-714
 
@@ -50,7 +58,13 @@ Skardžiai, karstinės duobės, smėlynai ir natūralių vandens telkinių užim
 
 4 straipsnis. Ne žemės ūkio paskirties bendras žemės plotas apmokestinamas pagal bazinį mokesčio tarifą – 335 rubliai už 1 hektarą.
 
+Durpynų žemė, sporto aikštynų ir techninių taikomųjų sporto bazių žemė, išskyrus ne sporto paskirties objektais užimtą žemę, apmokestinama pagal 10 kartų sumažintą bazinį mokesčių tarifą.
+
 Šiam įstatymui įsigaliojus, ne žemės ūkio paskirčiai skirtas (įgytas) buvęs žemės ūkio paskirties bendras žemės plotas pirmuosius trejus kalendorinius metus apmokestinamas pagal šio įstatymo 2 priedėlyje nurodytus bazinius mokesčio tarifus.
+
+Straipsnio pakeitimai:
+
+Nr. I-2278, 1992-02-06, Lietuvos aidas, 1992, Nr. 30-0 (1992-02-13); Žin., 1992, Nr. 7-149 (1992-03-10), i. k. 0921010ISTA00I-2278
 
 5 straipsnis. Nustatant minimalius žemės mokesčio tarifus, 3 ir 4 straipsniuose nurodyti baziniai mokesčio tarifai padidinami naudojant tokius koeficientus:
 
@@ -171,4 +185,12 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-1063, 1991-02-14, Lietuvos aidas, 1991, Nr. 37-0 (1991-02-21); Žin., 1991, Nr. 6-177 (1991-02-28), i. k. 0911010ISTA00I-1063
 
 Dėl Lietuvos Respublikos žemės mokesčio įstatymo 7 straipsnio pakeitimo
+
+2.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-2278, 1992-02-06, Lietuvos aidas, 1992, Nr. 30-0 (1992-02-13); Žin., 1992, Nr. 7-149 (1992-03-10), i. k. 0921010ISTA00I-2278
+
+Dėl Lietuvos Respublikos žemės mokesčio įstatymo 4 straipsnio papildymo
 
