@@ -4,7 +4,7 @@ identifier: "TAR.65AD818F5F9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2002-04-09"
+last_updated: "2004-04-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2002-04-09 iki 2004-04-29
+Suvestinė redakcija nuo 2004-04-30 iki 2004-07-26
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
 
@@ -36,11 +36,15 @@ Bendrosios nuostatos
 
 1 straipsnis. Kodekso paskirtis
 
-Lietuvos Respublikos kelių transporto kodeksas (toliau – šis kodeksas) reguliuoja keleivių, bagažo, krovinių ir pašto, dokumentų siuntų vežimų organizavimą ir vykdymą, vežimų valstybinį valdymą ir kontrolę, atsakomybę už turtinę žalą.
+1. Lietuvos Respublikos kelių transporto kodeksas (toliau – šis kodeksas) reguliuoja keleivių, bagažo, krovinių ir pašto, dokumentų siuntų vežimų organizavimą ir vykdymą, vežimų valstybinį valdymą ir kontrolę, atsakomybę už turtinę žalą.
+
+2. Šio kodekso nuostatos suderintos su šio kodekso priede nurodytais Europos Sąjungos teisės aktais.
 
 Straipsnio pakeitimai:
 
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+Nr. IX-2195, 2004-04-29, Žin., 2004, Nr. 73-2529 (2004-04-30), i. k. 1041010ISTA0IX-2195
 
 2 straipsnis. Kelių transportas ir kelių transporto priemonės
 
@@ -102,7 +106,11 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 3 straipsnis. Kelių transporto objektų nuosavybė
 
-1. Kelių transporto priemonės, autobusų stotys ir stotelės, krovinių vežimo stotys (terminalai), tiesiogiai su jais susiję pastatai ir įrenginiai nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio fiziniams bei juridiniams asmenims, užsienio valstybėms.
+1. Kelių transporto priemonės, autobusų stotys ir stotelės, krovinių vežimo stotys (terminalai), tiesiogiai su jais susiję pastatai ir įrenginiai nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio fiziniams bei juridiniams asmenims, užsienio juridinių asmenų filialams arba atstovybėms. Nuosavybės teisė į autobusų stotis, priklausančias valstybei ar savivaldybėms bei valstybės ar savivaldybės kontroliuojamoms įmonėms, negali būti perleista kitiems fiziniams ar juridiniams asmenims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2195, 2004-04-29, Žin., 2004, Nr. 73-2529 (2004-04-30), i. k. 1041010ISTA0IX-2195
 
 2. Valstybinės reikšmės keliai išimtine nuosavybės teise gali priklausyti tik Lietuvos valstybei. Vietinės reikšmės keliai nuosavybės teise gali priklausyti Lietuvos Respublikos piliečiams, savivaldybėms.
 
@@ -174,11 +182,19 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 2) vidaus ir tarptautiniais maršrutais transporto priemonėmis, kurių bendroji masė, įskaitant priekabą, didesnė kaip 3,5 tonos – nuo 2003 m. sausio 1 d.
 
-4. Licenciją (leidimą) verstis keleivių vežimais tolimojo ir tarptautinio susisiekimo maršrutais bei krovinių vežimais išduoda Valstybinė kelių transporto inspekcija prie Susisiekimo ministerijos (toliau – Valstybinė kelių transporto inspekcija).
+4. Licenciją (leidimą) verstis keleivių vežimais tolimojo ir tarptautinio susisiekimo maršrutais bei krovinių vežimais išduoda Valstybinė kelių transporto inspekcija prie Susisiekimo ministerijos (toliau – Valstybinė kelių transporto inspekcija). Valstybinės kelių transporto inspekcijos išduodamas licencijas (leidimus) verstis keleivių vežimais tarptautinio susisiekimo maršrutais bei krovinių vežimais tarptautiniais maršrutais transporto priemonėmis, kurių keliamoji galia, įskaitant priekabą, didesnė kaip 3,5 tonos arba bendroji masė, įskaitant priekabą, didesnė kaip 6 tonos, nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos pakeičia Bendrijos licencijos (leidimai), išduodamos Valstybinės kelių transporto inspekcijos pagal šio kodekso priede išvardytus Europos Sąjungos teisės aktus. Šių teisės aktų taikymo tvarką nustato Kelių transporto veiklos licencijavimo taisyklės, tvirtinamos Vyriausybės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2195, 2004-04-29, Žin., 2004, Nr. 73-2529 (2004-04-30), i. k. 1041010ISTA0IX-2195
 
 5. Licenciją (leidimą) verstis keleivių vežimais vietinio susisiekimo maršrutais ir lengvaisiais automobiliais taksi išduoda savivaldybių institucijos arba jų įgaliotos įstaigos.
 
-6. Kelių transporto veiklos licencijavimo taisykles tvirtina Vyriausybė.
+6. Vežėjas, pageidaujantis verstis kelių transporto ūkine komercine veikla ir visą laikotarpį, kol šia veikla verčiasi, privalo atitikti finansinio pajėgumo, geros reputacijos, profesinės kompetencijos reikalavimus, kuriuos nustato Kelių transporto veiklos licencijavimo taisyklės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2195, 2004-04-29, Žin., 2004, Nr. 73-2529 (2004-04-30), i. k. 1041010ISTA0IX-2195
 
 Straipsnio pakeitimai:
 
@@ -202,13 +218,19 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 11 straipsnis. Stotys ir stotelės
 
-1. Miestuose ir didesnėse gyvenvietėse keleiviams aptarnauti reguliariais reisais vietinio, tolimojo ir tarptautinio susisiekimo maršrutais steigiamos autobusų stotys.
+1. Miestuose ir didesnėse gyvenvietėse steigiamos autobusų stotys, kurių pagrindinė paskirtis – aptarnauti keleivius reguliariais reisais vietinio, tolimojo ir tarptautinio susisiekimo maršrutais, organizuoti autobusų ekipažų priešreisinį patikrinimą ir tarpreisinį poilsį, kontroliuoti autobusų išvykimo bei atvykimo laiką, parduoti keleiviams bilietus, teikti jiems informaciją ir bagažo saugojimo paslaugas. Ši pagrindinė autobusų stočių paskirtis negali būti keičiama. Autobusų stotis gali būti juridinis asmuo arba juridinio asmens struktūrinis padalinys.
 
-2. Autobusų stočių steigimą ir jų priežiūrą atlieka savivaldybės.
+2. Autobusų stotis gali steigti savivaldybė, Lietuvos Respublikos ir užsienio fiziniai bei juridiniai asmenys, užsienio juridinių asmenų filialai ar atstovybės.
 
-3. Autobusų stočių naudojimo ir jų darbo tvarką reguliuoja Autobusų stočių nuostatai, kuriuos tvirtina Susisiekimo ministerija.
+3. Autobusų stotys steigiamos pagal savivaldybių tarybų nustatytus kriterijus ir tvarką bei patvirtintų teritorijų planavimo dokumentų nustatytose vietose.
 
-4. Keleiviams aptarnauti skirtų stotelių miestuose, gyvenvietėse ir keliuose įrengimą ir priežiūrą reguliuoja Keleivių ir bagažo vežimo taisyklės, kurias tvirtina Susisiekimo ministerija.
+4. Autobusų stočių naudojimo ir jų darbo tvarką reguliuoja Susisiekimo ministerijos patvirtinti Autobusų stočių nuostatai.
+
+5. Keleiviams aptarnauti skirtų stotelių miestuose, gyvenvietėse ir keliuose įrengimą ir priežiūrą reguliuoja Susisiekimo ministerijos patvirtintos Keleivių ir bagažo vežimo taisyklės.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2195, 2004-04-29, Žin., 2004, Nr. 73-2529 (2004-04-30), i. k. 1041010ISTA0IX-2195
 
 12 straipsnis. Tarptautiniai vežimai
 
@@ -280,17 +302,31 @@ Straipsnio dalies pakeitimai:
 
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
-3. Kiti keleivių bei krovinių vežimo tarifai nustatomi šalių susitarimu. Su keleivių bei krovinių vežimu susijusių papildomų paslaugų tarifus nustato šių paslaugų teikėjai, išskyrus tarifus, nurodytus šio straipsnio 4 dalyje.
+3. Keleivių vežimo lengvaisiais automobiliais taksi tarifus nustato vežėjas, apie nustatytus tarifus informuoja savivaldybių institucijas arba jų įgaliotas įstaigas ir juos skelbia Keleivių vežimo lengvaisiais automobiliais taksi taisyklių nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2195, 2004-04-29, Žin., 2004, Nr. 73-2529 (2004-04-30), i. k. 1041010ISTA0IX-2195
+
+4. Kiti keleivių bei krovinių vežimo tarifai nustatomi šalių susitarimu. Su keleivių bei krovinių vežimu susijusių papildomų paslaugų tarifus nustato šių paslaugų teikėjai, išskyrus tarifus, nurodytus šio straipsnio 4 dalyje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
-4. Autobusų stotyse paslaugų teikimo vežėjams tarifus nustato paslaugų teikėjai, maksimalius jų dydžius pagal stočių kategorijas suderinę su Valstybine kainų ir energetikos kontrolės komisija. Autobusų stotys visiems vežėjams taiko vienodus paslaugų tarifus.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-2195, 2004-04-29, Žin., 2004, Nr. 73-2529 (2004-04-30), i. k. 1041010ISTA0IX-2195
+
+5. Autobusų stotyse paslaugų teikimo vežėjams tarifus nustato paslaugų teikėjai, maksimalius jų dydžius pagal stočių kategorijas suderinę su Valstybine kainų ir energetikos kontrolės komisija. Autobusų stotys visiems vežėjams taiko vienodus paslaugų tarifus.
 
 Papildyta straipsnio dalimi:
 
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-2195, 2004-04-29, Žin., 2004, Nr. 73-2529 (2004-04-30), i. k. 1041010ISTA0IX-2195
 
 PENKTASIS skirsnis
 
@@ -780,6 +816,30 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
 
+Lietuvos Respublikos
+
+kelių transporto kodekso
+
+priedas
+
+EUROPOS SĄJUNGOS TEISĖS AKTAI, SU KURIAIS SUDERINTAS LIETUVOS RESPUBLIKOS KELIŲ TRANSPORTO KODEKSAS
+
+1. 1992 m. kovo 16 d. Tarybos reglamentas (EEB) Nr. 684/92 dėl bendrųjų tarptautinio keleivių vežimo tolimojo susisiekimo ir miesto autobusais taisyklių.
+
+2. 1992 m. kovo 26 d. Tarybos reglamentas (EEB) Nr. 881/92 dėl patekimo į rinką vežant krovinius Bendrijos keliais į valstybės narės teritoriją ar iš jos arba kertant vienos ar kelių valstybių narių teritorijas.
+
+3. 1996 m. balandžio 29 d. Tarybos direktyva 96/26/EB dėl leidimo verstis krovinių ir keleivių vežėjo kelių transporto verslu ir diplomų, pažymėjimų bei kitų oficialių profesinę kvalifikaciją patvirtinančių dokumentų tarpusavio pripažinimo, skirto palengvinti šiems vežėjams naudojimąsi įsisteigimo laisve nacionalinio ir tarptautinio vežimo srityje.
+
+4. 1997 m. gruodžio 11 d. Tarybos reglamentas (EB) Nr. 11/98, iš dalies pataisantis reglamentą (EEB) Nr. 684/92 dėl tarptautinio keleivių vežimo tolimojo susisiekimo ir miesto autobusais bendrųjų taisyklių.
+
+5. 1998 m. spalio 1 d. Tarybos direktyva 98/76/EB, iš dalies pakeičianti Direktyvą 96/26/EB dėl leidimo verstis krovinių ir keleivių vežėjo kelių transporto verslu ir diplomų, pažymėjimų bei kitų oficialių profesinę kvalifikaciją patvirtinančių dokumentų tarpusavio pripažinimo, skirto palengvinti šiems vežėjams naudojimąsi įsisteigimo laisve nacionalinio ir tarptautinio vežimo srityje.
+
+6. 2002 m. kovo 1 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 484/2002, iš dalies pakeičiantis Tarybos reglamentus (EEB) Nr. 881/92 ir (EEB) 3118/93 dėl vairuotojo liudijimo nustatymo.
+
+Papildyta priedu:
+
+Nr. IX-2195, 2004-04-29, Žin., 2004, Nr. 73-2529 (2004-04-30), i. k. 1041010ISTA0IX-2195
+
 Pakeitimai:
 
 1.
@@ -813,6 +873,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 Lietuvos Respublikos kelių transporto kodekso 1, 2, 4, 7, 8, 13, 14, 16, 17, 18, 20, 21, 23, 29, 37, 40, 42, 44, 47 straipsnių ir septintojo skirsnio pavadinimo pakeitimo, kodekso papildymo 17(1) straipsniu bei 57 ir 58 straipsnių pripažinimo netekusiais galios įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2195, 2004-04-29, Žin., 2004, Nr. 73-2529 (2004-04-30), i. k. 1041010ISTA0IX-2195
+
+Lietuvos Respublikos kelių transporto kodekso 1, 3, 8, 11, 16 straipsnių pakeitimo ir papildymo bei Kodekso papildymo priedu įstatymas
 
 171 straipsnis. Visuomenės aptarnavimo organizavimas
 
