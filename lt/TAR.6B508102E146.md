@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "1999-07-08"
+last_updated: "1999-09-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -178,7 +178,7 @@ gėrimams, išskyrus midaus trauktines, šampaną, vyną, alų ir medikamentus s
 
 vaistažolėmis, kurių sudėtyje yra etilo alkoholio, įregistruotus Lietuvos
 
-Respublikos valstybiniame vaistų ir vaistinių medžiagų registre, - 0,54 lito už
+Respublikos valstybiniame vaistų ir vaistinių medžiagų registre, - 0,30 lito už
 
 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
 
@@ -216,7 +216,7 @@ alkoholio koncentracijos litre gėrimo,
 
 b) kitiems fermentuotiems gėrimams bei jų mišiniams -
 
-0,20 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
+0,16 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
 
 5) vynui, kitiems fermentuotiems gėrimams bei jų
 
@@ -228,7 +228,7 @@ litre gėrimo;
 
 6) šampanui, putojančiam vynui, perteklinio slėgio
 
-vynui - 0,42 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
+vynui - 0,25 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
 
 7) alui - 0,40 lito už litrą;
 
@@ -346,6 +346,10 @@ Nr. VIII-982, 98.12.21, Žin., 1998,
 
 Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 
+Nr. VIII-1342, 99.09.30, Žin., 1999,
+
+Nr.85-2514 (99.10.13)
+
 6 straipsnis. Akcizų netaikymo atvejai
 
 1. Akcizais neapmokestinama:
@@ -364,11 +368,11 @@ veiklai, jeigu šių tarptautinių organizacijų sutartyse su Lietuvos Respublik
 
 numatyta neimti akcizų;
 
-4) į Lietuvos Respublikos muitų teritoriją
+4) į Lietuvos Respublikos muitų teritoriją atsiunčiamos
 
-atsiunčiamos pašto siuntos, kurių svoris ne didesnis kaip 31,5 kilogramo, o
+pašto siuntos, kurių svoris ne didesnis kaip 31,5 kilogramo, o vertė ne didesnė
 
-vertė ne didesnė kaip 400 litų;
+kaip 400 litų;
 
 5) importuojamos prekės, kurios pagal Muitinės kodeksą
 
@@ -406,9 +410,9 @@ visų realizavimo pajamų;
 
 Respublikos įmonių, gaminančių cigaretes, importuojamas tabakas (kodą pagal KPN
 
-nustato Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata, sąrašą
+nustato Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata,
 
-nustato Vyriausybė. Tuo atveju, kai nurodytas tabakas šiose įmonėse bus
+sąrašą nustato Vyriausybė. Tuo atveju, kai nurodytas tabakas šiose įmonėse bus
 
 panaudotas ne cigaretėms gaminti, o kitiems tikslams, nurodytos įmonės turi
 
@@ -524,7 +528,9 @@ pateikti akcizų apyskaitą.
 
 mėnesinė akcizų suma buvo didesnė kaip 50 tūkst. litų, akcizus moka:
 
-1) iki mėnesio 30 dienos - už mėnesio pirmąjį dešimtadienį;
+1) iki mėnesio 30 dienos - už mėnesio pirmąjį
+
+dešimtadienį;
 
 2) iki kito mėnesio 10 dienos - už mėnesio antrąjį
 
@@ -758,9 +764,9 @@ Lietuvos Respublikos
 
 Seimas, Įstatymas
 
-Nr. VIII-626, 98.02.17, Žin., 1998, Nr.25-629
+Nr. VIII-626, 98.02.17, Žin., 1998,
 
-(98.03.13)
+Nr.25-629 (98.03.13)
 
 AKCIZŲ ĮSTATYMO 6
 
@@ -803,6 +809,20 @@ Nr. VIII-1321, 99.07.08, Žin., 1999,
 Nr.66-2132 (99.07.30)
 
 AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+13.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1342, 99.09.30, Žin., 1999,
+
+Nr.85-2514 (99.10.13)
+
+AKCIZŲ ĮSTATYMO 5(1)
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
