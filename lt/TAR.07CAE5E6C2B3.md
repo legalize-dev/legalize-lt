@@ -4,7 +4,7 @@ identifier: "TAR.07CAE5E6C2B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-26"
-last_updated: "2003-12-12"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,187 +16,379 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2003-12-12 iki 2004-08-31
+Suvestinė redakcija nuo 2004-09-01 iki 2005-05-27
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
 
-Nauja redakcija nuo 1994-02-25:
+TAR pastaba. Vėliavos, pagamintos ir įsigytos iki šio įstatymo įsigaliojimo, gali būti naudojamos, kol jos tinkamos naudoti.
 
-Nr. I-397, 1994-02-17, Žin. 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2331, 2004-07-08, Žin., 2004, Nr. 115-4274 (2004-07-24), i. k. 1041010ISTA0IX-2331
+
+Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" pakeitimo įstatymas
+
+Nauja redakcija nuo 2004-09-01:
+
+Nr. IX-2331, 2004-07-08, Žin. 2004, Nr. 115-4274 (2004-07-24), i. k. 1041010ISTA0IX-2331
 
 LIETUVOS RESPUBLIKOS
 
-ĮSTATYMAS
+VALSTYBĖS VĖLIAVOS IR KITŲ VĖLIAVŲ
 
-DĖL LIETUVOS VALSTYBĖS VĖLIAVOS
+Į S T A T Y M A S
 
-1 straipsnis
+PIRMASIS SKIRSNIS
 
-Lietuvos valstybės vėliava yra tautinė vėliava audeklas, susidedantis iš trijų lygių horizontalių spalvų juostų: viršutinės – geltonos, vidurinės – žalios, žemutinės – raudonos.
+BENDROSIOS NUOSTATOS
 
-Iškeliant Lietuvos valstybės vėliavą vertikaliai, kairėje pusėje turi būti geltona juosta, viduryje – žalia, dešinėje raudona.
+1 straipsnis. Įstatymo paskirtis
 
-2 straipsnis
+1. Šis įstatymas reglamentuoja Lietuvos valstybės vėliavą, kitas vėliavas, jų aprašymus, oficialaus naudojimo Lietuvos Respublikoje principus ir tvarką, atsakomybę už vėliavų iškėlimo tvarkos pažeidimus ar vėliavų išniekinimą, vėliavų gamybą ir priežiūrą.
 
-Lietuvos valstybės vėliava turi būti 1 metro pločio ir 2 metrų ilgio, o vėliavos kotas – 3,4 metro ilgio. Vėliava ar jos atvaizdas gali būti ir kitokių matmenų, tačiau visada vėliavos pločio ir ilgio santykis turi būti 1:2, o vėliavos ilgio ir vėliavos koto ilgio santykis – 1:1,7.
+2. Lietuvos Respublikos teritorijoje oficialiai gali būti naudojamos Lietuvos valstybės vėliava, Lietuvos valstybės istorinė vėliava, užsienio valstybių vėliavos, Europos Sąjungos vėliava, tarptautinių viešųjų organizacijų vėliavos, kitų tarptautinių organizacijų vėliavos, Respublikos Prezidento vėliava, apskričių ir savivaldybių vėliavos, štandartai, kitos vėliavos, stalo ir automobilio vėliavėlės (toliau – vėliavos).
 
-Vėliava ir jos atvaizdas visada turi atitikti Lietuvos valstybės vėliavos spalvų etaloninį atvaizdą.
+3. Lietuvos valstybės vėliavos etalonas negali būti naudojamas kaip heraldikos pagrindas kitoms vėliavoms. Kitos vėliavos negali būti identiškos Lietuvos valstybės vėliavai.
 
-3 straipsnis.
+4. Valstybės institucijos, išskyrus Respublikos Prezidentą, negali turėti savo vėliavų. Respublikos Prezidento vėliavai šio įstatymo nuostatos taikomos tiek, kiek jos nereglamentuoja kiti įstatymai.
 
-Lietuvos valstybės vėliava iškeliama:
+5. Vėliavų etalonuose, atvaizduose negali būti simbolių ar kitokių ženklų, kurie yra susiję su tautinės, rasinės, religinės, socialinės ar kitokios nesantaikos skleidimu, neapykantos kurstymu, taip pat prieštarauja moralei ar viešajai tvarkai, visuomenės dorovės normoms.
 
-1) prie Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės, Lietuvos Respublikos krašto apsaugos ministerijos ir savarankiškų karinių dalinių teritorijose, prie apskričių viršininkų administracijų, savivaldybių tarybų pastatų, taip pat ant Gedimino pilies bokšto Vilniuje – nuolat. Prie valstybinių aukštųjų ir valstybės bei savivaldybių bendrojo lavinimo mokyklų – paprastai iškeliama prasidėjus mokslo metams ir nuleidžiama jiems pasibaigus.
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-Prie Lietuvos Respublikos valstybės ir savivaldybių institucijų bei įstaigų nuolat iškeliama tik Lietuvos valstybės vėliava. Naudoti kitų valstybių vėliavas prie Lietuvos Respublikos valstybės ir savivaldybių institucijų bei įstaigų, taip pat jų pastatų viduje neleidžiama, išskyrus šio įstatymo 5 straipsnyje nurodytus atvejus;
+1. Lietuvos valstybės vėliava – oficialus Lietuvos valstybės simbolis, tautinė vėliava – audeklas iš trijų lygių horizontalių spalvų juostų: viršutinės – geltonos, vidurinės – žalios, žemutinės – raudonos.
 
-Straipsnio punkto pakeitimai:
+2. Lietuvos valstybės istorinė vėliava – istorinis Lietuvos valstybės simbolis, audeklas, kurio raudoname lauke vaizduojamas sidabrinis šarvuotas raitelis ant balto žirgo, laikantis dešinėje rankoje virš galvos iškeltą sidabrinį kalaviją. Prie raitelio kairiojo peties kabo mėlynas skydas su dvigubu auksiniu kryžiumi. Žirgo balnas, gūnia, kamanos ir diržai mėlyni. Kalavijo rankena, kamanų žąslai, balno kilpa ir pentinas, makšties bei žirgo aprangos metaliniai sutvirtinimai auksiniai.
 
-Nr. IX-1704, 2003-07-04, Žin., 2003, Nr. 74-3422 (2003-07-25), i. k. 1031010ISTA0IX-1704
+3. Užsienio valstybės vėliava – užsienio valstybės teisės aktų nustatyta tvarka priimta ar patvirtinta valstybės ar tautinė (nacionalinė) vėliava.
 
-2) prie valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų pastatų, gyvenamųjų namų – vasario 16-ąją ir kovo 11-ąją, o prie valstybės ir savivaldybių institucijų bei įstaigų – ir kitomis dienomis Lietuvos Respublikos Vyriausybės nutarimu;
+4. Europos Sąjungos vėliava – Europos Sąjungos teisės aktų nustatyta tvarka priimta ar patvirtinta Europos Sąjungos vėliava.
 
-Straipsnio punkto pakeitimai:
+5. Tarptautinės viešosios organizacijos vėliava – tarptautinės viešosios organizacijos institucijos teisės aktų nustatyta tvarka priimta ar patvirtinta tos organizacijos vėliava.
 
-Nr. IX-1845, 2003-11-25, Žin., 2003, Nr. 116-5251 (2003-12-12), i. k. 1031010ISTA0IX-1845
+6. Apskrities vėliava – apskrities viršininko administracijos su Lietuvos heraldikos komisija suderintas ir patvirtintas apskrities atributikos objektas.
 
-3) prie Lietuvos Respublikos diplomatinių, prekybinių atstovybių, konsulinių įstaigų pastatų – pagal diplomatinio protokolo reikalavimus;
+7. Savivaldybės vėliava – savivaldybės tarybos su Lietuvos heraldikos komisija suderintas ir patvirtintas savivaldybės atributikos objektas.
 
-4) laivuose ar ant kitų transporto priemonių, kur yra Lietuvos Respublikos Prezidentas, Lietuvos Respublikos Ministras Pirmininkas, Lietuvos Respublikos užsienio reikalų ministras ar kiti asmenys, oficialiai atstovaujantys Lietuvos Respublikai, – nurodytiems asmenims sutikus;
+8. Štandartas – statutinės institucijos, karinio vieneto arba savivaldybės seniūnijos su Lietuvos heraldikos komisija suderintas ir jų veiklą reglamentuojančių teisės aktų nustatyta tvarka patvirtintas atributikos objektas.
 
-5) laivuose, įregistruotuose Lietuvos Respublikoje;
+9. Kitos vėliavos – viešųjų ir privačių juridinių asmenų su Lietuvos heraldikos komisija suderintas ir jų veiklą reglamentuojančių teisės aktų nustatyta tvarka patvirtintas ar priimtas atributikos objektas.
 
-6) laivuose, įplaukusiuose į Lietuvos Respublikos teritorinius vandenis, uostus;
+10. Stalo vėliavėlė – sumažinta Lietuvos valstybės, užsienio valstybės, Europos Sąjungos arba tarptautinės viešosios organizacijos vėliava, atitinkanti valstybės, Europos Sąjungos ar tarptautinės viešosios organizacijos vėliavos spalvų etaloninį pavyzdį ir matmenis, naudojama pakabinta ant stovelio ir pastatyta ant stalo.
 
-7) prie balsavimo patalpų – Lietuvos Respublikos Seimo narių ir savivaldybių tarybų rinkimų, referendumo, visuotinės gyventojų apklausos (plebiscito) dienomis;
+11. Automobilio vėliavėlė – sumažinta Lietuvos valstybės, užsienio valstybės, Europos Sąjungos arba tarptautinės viešosios organizacijos vėliava, atitinkanti valstybės, Europos Sąjungos ar tarptautinės viešosios organizacijos vėliavos spalvų etaloninį pavyzdį ir matmenis, naudojama pakabinta ant stovelio, kuris tvirtinamas prie automobilio.
 
-8) prie pastatų, kuriuose vyksta savivaldybių tarybų sesijos, – tarybos posėdžių dienomis;
+12. Gamintojas – Lietuvos Respublikos įstatymų ir kitų norminių teisės aktų nustatyta tvarka įregistruotas juridinis asmuo, užsienio valstybės fizinis bei juridinis asmuo, užsienio juridinio asmens filialas, turintys teisę gaminti vėliavas.
 
-9) sporto arenose – per Lietuvos Respublikos čempionatus ir pirmenybes, tarptautines sporto varžybas, kuriose dalyvauja nacionalinės rinktinės, ir per tarptautinių varžybų nugalėtojų, atstovaujančių Lietuvos Respublikos sporto rinktinėms, apdovanojimo ceremonijas;
+3 straipsnis. Vėliavų spalvos ir matmenys
 
-10) prie Lietuvos Respublikos krašto apsaugos ministerijos pastatų ir savarankiškų karinių dalinių teritorijose – krašto apsaugos ministro nustatyta tvarka.
+1. Lietuvos valstybės vėliava, Lietuvos valstybės istorinė vėliava, kitos vėliavos, taip pat vėliavų atvaizdai visada turi atitikti šių vėliavų spalvų etaloninį atvaizdą (pagal Pantone sistemą) ir matmenis.
 
-Lietuvos Respublikos privatūs asmenys, valstybės ir savivaldybių įmonės bei organizacijos gali savo nuožiūra iškelti Lietuvos valstybės vėliavą.
+2. Lietuvos valstybės vėliavos ir Lietuvos valstybės istorinės vėliavos audeklo pločio ir ilgio santykis turi būti 3:5.
 
-Straipsnio pakeitimai:
+3. Paprastai prie, virš ar ant pastatų keliamos Lietuvos valstybės vėliava yra 1 metro pločio ir 1,7 metro ilgio, Lietuvos valstybės istorinė vėliava – 1 metro pločio ir 1,7 metro ilgio.
 
-Nr. I-1229, 1996-03-14, Žin., 1996, Nr. 33-806 (1996-04-12), i. k. 0961010ISTA00I-1229
+4. Lietuvos valstybės vėliava ir Lietuvos valstybės istorinė vėliava gali būti ir kitokių Lietuvos Respublikos Vyriausybės nustatytų matmenų, tačiau šių vėliavų audeklo pločio ir ilgio santykis visada turi atitikti šio straipsnio 2 dalyje nustatytą santykį.
 
-Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
+4 straipsnis. Vėliavų naudojimo principai
 
-4 straipsnis
+1. Lietuvos Respublikos piliečiai, kiti asmenys privalo gerbti vėliavas.
 
-Šio įstatymo 3 straipsnio 2 punkte numatytais atvejais Lietuvos valstybės vėliava iškeliama 7 valandą ir nuleidžiama 22 valandą, o 3 straipsnio 7 punkte numatytais atvejais – balsavimo laiku.
+2. Vėliavos turi atitikti šio įstatymo 3 straipsnyje nustatytus reikalavimus, būti tvarkingos ir nenublukusios.
 
-5 straipsnis
+3. Iškeliamai ar pastatomai Lietuvos valstybės vėliavai turi būti skirta garbingiausia pagal heraldikos principus vieta.
 
-Miestų arba apskričių istorinių ar naujo pavyzdžio vėliavų tvirtinimo ir naudojimo tvarką nustato įstatymai.
+4. Kai Lietuvos valstybės vėliava iškeliama vertikaliai, heraldinėje dešinėje pusėje turi būti geltona juosta, viduryje – žalia, kairėje – raudona.
 
-Vasario 16-ąją – Lietuvos valstybės atkūrimo dieną, kovo 11-ąją – Lietuvos nepriklausomybės atkūrimo dieną, taip pat vasario 24-ąją – Estijos Nepriklausomybės dieną ir lapkričio 18-ąją – Latvijos Nepriklausomybės paskelbimo dieną prie Lietuvos Respublikos Seimo kartu su Lietuvos valstybės vėliava iškeliamos Latvijos ir Estijos valstybių vėliavos.
+5. Vėliavos gali būti keliamos prie pastatų (ant stiebų, įrengtų priešais pastato fasadą), virš ar ant pastatų, aikštėse, laivuose, pastatomos posėdžių salėse, darbo kabinetuose ar oficialių ceremonijų vietose, tvirtinamos prie automobilio.
 
-Papildyta straipsnio dalimi:
+6. Jeigu kartu iškeliamos kelios vėliavos, jos turi būti viename aukštyje, kiek tai įmanoma, panašaus dydžio, taip pat laikomasi šio eiliškumo:
 
-Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
+1) Lietuvos valstybės vėliava;
 
-Straipsnio dalies pakeitimai:
+2) Lietuvos valstybės istorinė vėliava;
 
-Nr. IX-1845, 2003-11-25, Žin., 2003, Nr. 116-5251 (2003-12-12), i. k. 1031010ISTA0IX-1845
+3) užsienio valstybių vėliavos;
 
-Kitais atvejais užsienio valstybių vėliavos prie Lietuvos Respublikos valstybės ir savivaldybių institucijų bei įstaigų, taip pat kitų pastatų gali būti iškeliamos tik oficialių vizitų, oficialių ceremonijų ir tarptautinių renginių metu diplomatinio protokolo bei tarptautinių dokumentų nustatyta tvarka.
+4) Europos Sąjungos vėliava;
 
-Straipsnio dalies pakeitimai:
+5) tarptautinių viešųjų organizacijų vėliavos;
 
-Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
+6) Respublikos Prezidento vėliava;
 
-Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
+7) štandartai;
 
-Užsienio valstybių vėliavos gali būti iškeliamos tik prie Lietuvos Respublikoje teisėtai įsteigtų užsienio valstybinių įstaigų, išskyrus šio straipsnio antrojoje dalyje nurodytą atvejį.
+8) apskričių vėliavos;
 
-Straipsnio dalies pakeitimai:
+9) savivaldybių vėliavos;
 
-Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
+10) kitos vėliavos.
 
-Lietuvos Respublikos privatūs asmenys ir užsieniečiai gali savo nuožiūra iškelti užsienio valstybių vėliavas.
+7. Vėliavų kėlimo laiką nustato Lietuvos Respublikos Vyriausybė.
 
-Papildyta straipsnio dalimi:
+ANTRASIS SKIRSNIS
 
-Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
+LIETUVOS VALSTYBĖS VĖLIAVA
 
-6 straipsnis
+5 straipsnis. Lietuvos valstybės vėliavos iškėlimo vietos ir progos
 
-Iškeliant Lietuvos valstybės vėliavą kartu su kitos valstybės vėliava, Lietuvos valstybės vėliava turi būti iškelta, žiūrint į pastato fasadą, dešinėje pusėje, kitos valstybės vėliava – kairėje pusėje. Jeigu kartu su Lietuvos valstybės vėliava keliamos kelių valstybių vėliavos, tai jos iškeliamos į kairę ir į dešinę nuo Lietuvos valstybės vėliavos. Jeigu kartu su Lietuvos valstybės vėliava keliama lyginis skaičius kitų valstybių vėliavų, jos iškeliamos abėcėlės tvarka po lygiai abiejose Lietuvos valstybės vėliavos pusėse.
+1. Lietuvos valstybės vėliava nuolat iškeliama prie, virš ar ant šių pastatų:
 
-Lietuvos valstybės vėliava turi būti viename aukštyje su kitų valstybių vėliavomis.
+1) Lietuvos Respublikos Seimo;
 
-Iškeliant Lietuvos valstybės vėliavą ant transporto priemonės (išskyrus laivus), kairėje pusėje pagal judėjimo kryptį turi būti Lietuvos valstybės vėliava, dešinėje kitos valstybės vėliava.
+2) Respublikos Prezidento rezidencijos;
 
-7 straipsnis
+3) Lietuvos Respublikos Vyriausybės, ministerijų ir apskričių viršininkų administracijų;
 
-Pažymint gedulą, Lietuvos Respublikos Vyriausybei nutarus gali būti iškeliama Lietuvos valstybės vėliava su gedulo ženklu – prie vėliavos koto arba stiebo prisegus 10 cm pločio juodą kaspiną, kurio galai siekia vėliavos apačią.
+4) Lietuvos Respublikos Konstitucinio Teismo ir kitų teismų;
 
-Straipsnio dalies pakeitimai:
+5) Lietuvos Respublikos generalinės prokuratūros;
 
-Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
+6) Lietuvos banko;
 
-Jeigu pažymint gedulą valstybės vėliava iškelta ant stiebo, ji nuleidžiama 1/3 stiebo ilgio.
+7) Lietuvos Respublikos vyriausiosios rinkimų komisijos;
 
-8 straipsnis
+8) Gedimino pilies bokšte Vilniuje;
 
-Lietuvos valstybės vėliava gali būti keliama kitomis švenčių ir atmintinomis dienomis bei viešųjų renginių proga.
+9) savivaldybių tarybų;
 
-2 dalis netenka galios 2002-04-30.
+10) pasienio kontrolės punktuose – tarptautiniuose oro uostuose, atviruose tarptautinei laivybai jūrų ir upių (vidaus vandenų) uostuose, geležinkelio stotyse ar prie automobilių kelių Lietuvos Respublikos Vyriausybės nutarimu įsteigtose vietose, kuriose patikrinimą atlieka Valstybės sienos apsaugos tarnyba, muitinė ir kitos tam įgaliotos valstybės institucijos.
 
-Straipsnio pakeitimai:
+2. Valstybės švenčių dienomis Lietuvos valstybės vėliava keliama prie, virš ar ant šių pastatų: prie kitų valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų, nesvarbu, kokia jų nuosavybės forma, taip pat gyvenamųjų namų.
 
-Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
+3. Lietuvos valstybės vėliava taip pat keliama:
 
-9 straipsnis
+1) prie, virš ar ant Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų ir šių atstovybių bei įstaigų padalinių, taip pat specialiųjų misijų, esančių užsienio valstybėse pastatų, – pagal tarptautinės teisės normas, diplomatinio protokolo reikalavimus ir buvimo valstybės tradicijas;
 
-Iškeliamos Lietuvos valstybės vėliavos turi būti tvarkingos ir nenublukusios. Iškeliant vėliavas prie pastatų, jos įstatomos į laikiklius, kurie tvirtinami prie pastato fasado taip, kad vėliavos kotas su fasadu sudarytų ne didesnį kaip 45 laipsnių kampą. Laikiklių apatinė dalis tvirtinama prie fasado ne žemiau kaip 2 metrai nuo žemės.
+2) prie, virš ar ant valstybinių aukštųjų, aukštesniųjų, valstybės ir savivaldybių bendrojo lavinimo mokyklų pastatų – paprastai prasidėjus mokslo metams ir nuleidžiama jiems pasibaigus;
 
-Valstybės vėliavos taip pat gali būti iškeliamos ant stiebų, įrengtų priešais pastato fasadą.
+3) savarankiškų karinių dalinių teritorijose – krašto apsaugos ministro nustatyta tvarka;
 
-10 straipsnis
+4) laivuose, įregistruotuose Lietuvos Respublikoje;
 
-Lietuvos valstybės vėliavos atvaizdas yra ant oro laivų, įregistruotų Lietuvos Respublikoje.
+5) laivuose, įplaukusiuose į Lietuvos Respublikos teritorinius vandenis, uostus;
 
-11 straipsnis
+6) prie, virš ar ant pastatų, kuriuose vyksta balsavimas, rinkimų į Lietuvos Respublikos Seimą, savivaldybių tarybas ar Europos Parlamentą ir Respublikos Prezidento rinkimų dieną, taip pat balsavimo referendume dieną.
 
-Lietuvos valstybės vėliavos atvaizdą galima naudoti dekoratyviniais tikslais kaip valstybinį ir tautinį simbolį tokiu būdu, kad nebūtų parodyta nepagarba valstybės vėliavai.
+4. Fiziniai ir juridiniai asmenys taip pat gali savo nuožiūra (išskyrus šio straipsnio 1, 2 ir 3 dalyse numatytus atvejus) naudoti (kelti, pastatyti) Lietuvos valstybės vėliavą ir (arba) vėliavėles laikydamiesi vėliavų naudojimo principų ir tik tokiu būdu, kad nebūtų parodyta nepagarba šioms vėliavoms.
 
-12 straipsnis.
+5. Lietuvos valstybės vėliava gali būti keliama:
 
-Atsakomybė už šių nuostatų vykdymą iškeliant Lietuvos valstybės vėliavą prie valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų pastatų tenka jų administracijos vadovams, o iškeliant vėliavą prie gyvenamųjų namų – jų savininkams arba asmenims, kuriems pavesta organizuoti namų eksploatavimą.
+1) tarptautinių viešųjų renginių vietose kartu su kitomis vėliavomis – pagal tarptautinio protokolo reikalavimus;
 
-Straipsnio pakeitimai:
+2) sporto arenose – per Lietuvos Respublikos čempionatus ir pirmenybes, tarptautines sporto varžybas, kuriose dalyvauja Lietuvos nacionalinės rinktinės, ir per tarptautinių varžybų nugalėtojų, atstovaujančių Lietuvos Respublikos sporto rinktinėms, apdovanojimo ceremonijas;
 
-Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
+3) atmintinomis dienomis ar viešųjų renginių proga – Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-13 straipsnis
+6. Lietuvos valstybės vėliava nuolat pastatoma:
 
-Prižiūrėti, kad tiksliai būtų vykdomas šis įstatymas, pavedama savivaldybių valdyboms.
+1) Lietuvos Respublikos Seimo posėdžių salėje;
 
-Prižiūrėti, kad tiksliai būtų vykdomas šis įstatymas krašto apsaugos daliniuose, pavedama Krašto apsaugos ministerijai, savaeigiuose laivuose – kapitonams, nesavaeigiuose laivuose – škiperiams, Lietuvos Respublikos uostuose ir prieplaukose – jų viršininkams, o diplomatinėse, prekybinėse atstovybėse bei konsulinėse įstaigose – jų vadovams.
+2) Lietuvos Respublikos Vyriausybės posėdžių salėje;
 
-Straipsnio dalies pakeitimai:
+3) Lietuvos Respublikos Konstitucinio Teismo posėdžių salėje;
 
-Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
+4) Lietuvos Respublikos Aukščiausiojo Teismo ir kitų teismų posėdžių salėse;
 
-14 straipsnis
+5) Lietuvos Respublikos Seimo Pirmininko, Seimo Pirmininko pavaduotojų darbo kabinetuose;
 
-Lietuvos valstybės vėliavos gamybos ir prekybos priežiūra vykdoma Vyriausybės nustatyta tvarka.
+6) Respublikos Prezidento rezidencijos darbo kabinete bei kitose Respublikos Prezidento rezidencijos patalpose, skirtose ar naudojamose oficialioms ceremonijoms ar renginiams;
 
-15 straipsnis
+7) Lietuvos Respublikos Ministro Pirmininko ir ministrų darbo kabinetuose;
 
-Lietuvos Respublikos piliečiai, taip pat Lietuvoje esantys kiti asmenys privalo gerbti Lietuvos valstybės vėliavą.
+8) Lietuvos Respublikos Konstitucinio Teismo pirmininko ir teisėjų darbo kabinetuose;
 
-Lietuvos valstybės vėliavos išniekinimas baudžiamas įstatymų nustatyta tvarka.
+9) Lietuvos Respublikos Aukščiausiojo Teismo pirmininko ir kitų teismų pirmininkų darbo kabinetuose;
+
+10) Lietuvos Respublikos generalinio prokuroro, prokuratūrų vyriausiųjų prokurorų darbo kabinetuose;
+
+11) Lietuvos Respublikos vyriausiosios rinkimų komisijos pirmininko darbo kabinete;
+
+12) Lietuvos Respublikos kariuomenės karinių dalinių vadų darbo kabinetuose;
+
+13) Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų, specialiųjų misijų, esančių užsienio valstybėse, vadovų darbo kabinetuose.
+
+7. Lietuvos valstybės vėliava gali būti pastatoma patalpose, kuriose tuo metu vyksta valstybės ar savivaldybių institucijos rengiami oficialūs renginiai arba kiti oficialūs renginiai, kuriuose dalyvauja Seimo Pirmininkas, Respublikos Prezidentas ar Ministras Pirmininkas.
+
+8. Laidojant Respublikos Prezidentą, Lietuvos Nepriklausomybės Akto signatarą, Seimo ar Vyriausybės narį, kitą Vyriausybės nustatyta tvarka pripažintą Lietuvos Respublikai nusipelniusį asmenį, taip pat asmenį, kuris žuvo atlikdamas savo tarnybinę pareigą ar gelbėdamas žūvančius, karstas su mirusiojo palaikais uždengiamas Lietuvos valstybės vėliavos audeklu, kuris, palaidojus mirusįjį, sulankstomas ir perduodamas mirusiojo giminėms (artimiesiems).
+
+6 straipsnis. Gedulo ženklo naudojimas
+
+1. Minint gedulą, Lietuvos valstybės vėliava nuleidžiama 1/3 stiebo ilgio. Jeigu Lietuvos valstybės vėliava keliama ne ant stiebo, ji keliama su gedulo ženklu – prie vėliavos koto prisegamas 10 cm pločio juodas kaspinas, kurio galai siekia vėliavos apačią.
+
+2. Gedulą skelbia ir vėliavų kėlimo jo metu vietas bei laiką nustato Lietuvos Respublikos Vyriausybė.
+
+7 straipsnis. Lietuvos valstybės vėliavos atvaizdo naudojimas
+
+1. Lietuvos valstybės vėliavos atvaizdas yra ant Lietuvos Respublikoje įregistruotų orlaivių.
+
+2. Lietuvos valstybės vėliavos atvaizdą galima naudoti dekoratyviniais tikslais kaip oficialų valstybės simbolį tokiu būdu, kad nebūtų parodyta nepagarba Lietuvos valstybės vėliavai ar kitaip pažeisti vėliavų naudojimo principai.
+
+8 straipsnis. Automobilio ir stalo vėliavėlių naudojimas
+
+1. Automobilio vėliavėlė naudojama ant automobilio, kai jame yra:
+
+1) Lietuvos Respublikos Seimo Pirmininkas, Ministras Pirmininkas ar užsienio reikalų ministras, lydintis Lietuvos Respublikos oficialų svečią;
+
+2) Lietuvos Respublikos Seimo Pirmininkas, Respublikos Prezidentas, Ministras Pirmininkas ar užsienio reikalų ministras jų oficialių vizitų į užsienį metu, – pagal tarptautinės teisės normas, diplomatinio protokolo reikalavimus ir buvimo valstybės tradicijas;
+
+3) Lietuvos Respublikos diplomatinės atstovybės, konsulinės įstaigos ar specialiosios misijos, akredituotų užsienio valstybėse, vadovai, – pagal tarptautinės teisės normas, diplomatinio protokolo reikalavimus ir buvimo valstybės tradicijas.
+
+2. Stalo vėliavėlė gali būti pastatoma patalpose, kuriose tuo metu vyksta oficialūs renginiai ir dalyvauja Lietuvos valstybės, užsienio valstybių, oficialūs asmenys valstybės arba savivaldybių institucijų vadovai ar jų įgalioti asmenys, Europos Sąjungos ar tarptautinių viešųjų organizacijų vadovai ar jų įgalioti asmenys, taip pat tarptautinių konferencijų metu.
+
+9 straipsnis. Atsakomybė už vėliavų iškėlimo tvarkos pažeidimus ar vėliavų išniekinimą
+
+1. Asmenys, pažeidę Lietuvos valstybės, užsienio valstybės, Europos Sąjungos ar tarptautinės viešosios organizacijos vėliavos iškėlimo tvarką, atsako įstatymų nustatyta tvarka.
+
+2. Už Lietuvos valstybės vėliavos, užsienio valstybės, Europos Sąjungos ar tarptautinės viešosios organizacijos vėliavos išniekinimą baudžiama įstatymų nustatyta tvarka.
+
+TREČIASIS SKIRSNIS
+
+LIETUVOS VALSTYBĖS ISTORINĖ VĖLIAVA
+
+10 straipsnis. Lietuvos valstybės istorinės vėliavos iškėlimo vietos ir progos
+
+1. Lietuvos valstybės istorinė vėliava nuolat iškeliama:
+
+1) virš Lietuvos valdovų rūmų Vilniuje;
+
+2) Trakų pilyje;
+
+3) Karo muziejaus skverelyje, Kaune.
+
+2. Lietuvos valstybės istorinė vėliava taip pat iškeliama:
+
+1) vasario 16 d. – Lietuvos valstybės atkūrimo dieną – prie (ant ar virš) Signatarų namų pastato, esančio Pilies g., Vilniuje;
+
+2) kovo 11 d. – Lietuvos nepriklausomybės atkūrimo dieną – prie Lietuvos Respublikos Seimo rūmų;
+
+3) liepos 6 d. – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) dieną – prie Respublikos Prezidento rezidencijos;
+
+4) liepos 15 d. – Žalgirio mūšio dieną – prie Lietuvos Respublikos krašto apsaugos ministerijos;
+
+5) spalio 25 d. – Konstitucijos dieną – prie Lietuvos Respublikos Seimo rūmų, Respublikos Prezidento rezidencijos ir Lietuvos Respublikos Vyriausybės.
+
+KETVIRTASIS SKIRSNIS
+
+UŽSIENIO VALSTYBIŲ, EUROPOS SĄJUNGOS IR TARPTAUTINIŲ VIEŠŲJŲ ORGANIZACIJŲ VĖLIAVOS
+
+11 straipsnis. Užsienio valstybių, Europos Sąjungos ir tarptautinių viešųjų organizacijų vėliavų naudojimo principai
+
+1. Kartu su Lietuvos valstybės vėliava keliamos užsienio valstybių, Europos Sąjungos ir tarptautinių viešųjų organizacijų vėliavos turi atitikti Lietuvos valstybės vėliavos dydį.
+
+2. Lietuvos Respublikos oficialių svečių vizitų metu jų atstovaujamos valstybės, Europos Sąjungos (jos institucijos) ar tarptautinės viešosios organizacijos vėliavai gali būti suteikiama garbingiausia pagal heraldikos principus vieta.
+
+3. Jei kartu keliamos kelios užsienio valstybių ar kelios tarptautinių viešųjų organizacijų vėliavos, jų eiliškumas nustatomas abėcėlės tvarka pagal tų valstybių ar organizacijų pavadinimus lietuvių, renginio darbo arba atitinkamos tarptautinės viešosios organizacijos oficialia kalba.
+
+12 straipsnis. Užsienio valstybių, Europos Sąjungos ir tarptautinių viešųjų organizacijų vėliavų naudojimo vietos ir progos
+
+1. Užsienio valstybių, Europos Sąjungos ir tarptautinių viešųjų organizacijų vėliavos gali būti nuolat iškeliamos tik prie, virš ar ant užsienio valstybių diplomatinių atstovybių, konsulinių įstaigų bei jų vadovų rezidencijų pastatų, Europos Sąjungos institucijų, tarptautinių viešųjų organizacijų atstovybių bei jų vadovų rezidencijų pastatų, kitų Lietuvos Respublikoje teisėtai įsteigtų užsienio valstybių valstybinių įstaigų, Europos Sąjungos ir tarptautinių institucijų pastatų, jeigu Lietuvos Respublikos tarptautinės sutartys nenumato kitaip.
+
+2. Užsienio valstybių, Europos Sąjungos ir tarptautinių viešųjų organizacijų vėliavos prie, virš ar ant Lietuvos Respublikos valstybės ar savivaldybių institucijų ir įstaigų pastatų gali būti iškeliamos tik tuo metu, kai jose lankosi Lietuvos Respublikos oficialūs svečiai ir specialiųjų misijų atstovai, taip pat atmintinų dienų ar oficialių tarptautinių renginių šiose institucijose ir įstaigose proga, kitais Lietuvos Respublikos Vyriausybės nustatytais atvejais pagal diplomatinio protokolo reikalavimus.
+
+3. Vasario 16-ąją – Lietuvos valstybės atkūrimo dieną, kovo 11-ąją – Lietuvos nepriklausomybės atkūrimo dieną, taip pat vasario 24-ąją – Estijos nepriklausomybės dieną ir lapkričio 18-ąją – Latvijos nepriklausomybės paskelbimo dieną prie Lietuvos Respublikos Seimo kartu su Lietuvos valstybės vėliava iškeliamos Latvijos Respublikos ir Estijos Respublikos vėliavos.
+
+4. Europos Sąjungos vėliava nuolat iškeliama Europos Sąjungos išorinės sienos pasienio kontrolės punktuose.
+
+5. Kartu su Lietuvos valstybės vėliava Europos Sąjungos vėliava naudojama:
+
+1) gegužės 9-ąją – šio įstatymo 5 straipsnio 1 dalyje nustatytose vietose ir būdais;
+
+2) iškeliama prie, virš ar ant pastatų, kuriuose vyksta balsavimas rinkimų dieną į Europos Parlamentą ar Lietuvoje rengiamų referendumų Europos Sąjungos klausimais dienomis;
+
+3) šio įstatymo 5 straipsnio 3 dalies 1 punkte nustatytose vietose ir būdais.
+
+6. Fiziniai ir juridiniai asmenys gali savo nuožiūra naudoti (kelti, pastatyti) užsienio valstybių tautines (nacionalines), Europos Sąjungos ar tarptautinių viešųjų organizacijų vėliavas ir (arba) vėliavėles laikydamiesi vėliavų naudojimo principų ir tik tokiu būdu, kad nebūtų parodyta nepagarba šioms vėliavoms.
+
+7. Užsienio valstybių, Europos Sąjungos ir tarptautinių viešųjų organizacijų stalo ir automobilio vėliavėlės naudojamos šio įstatymo nustatytais atvejais Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+PENKTASIS SKIRSNIS
+
+ŠTANDARTAI, APSKRIČIŲ, SAVIVALDYBIŲ VĖLIAVOS
+
+13 straipsnis. Štandartų, apskričių ir savivaldybių vėliavų naudojimas
+
+1. Štandartų naudojimo tvarką nustato statutinių institucijų ar karinių dalinių veiklą reglamentuojantys teisės aktai.
+
+2. Apskričių vėliavų naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+3. Savivaldybės vėliava iškeliama savivaldybės tarybos nustatyta tvarka.
+
+ŠEŠTASIS SKIRSNIS
+
+TEISĖ VERSTIS VĖLIAVŲ GAMYBA IR JOS KONTROLĖ
+
+14 straipsnis. Teisė gaminti vėliavas
+
+1. Gaminti šio įstatymo 2 straipsnyje, išskyrus 9 dalį, nurodytas vėliavas, taip pat Respublikos Prezidento vėliavą turi teisę Lietuvos Respublikos įstatymų ir kitų norminių teisės aktų nustatyta tvarka įregistruoti juridiniai asmenys, užsienio valstybės fiziniai bei juridiniai asmenys, užsienio juridinių asmenų filialai, turintys licenciją gaminti vėliavas.
+
+2. Licencijas gaminti vėliavas Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda, sustabdo jų galiojimą ar panaikina Lietuvos Respublikos Vyriausybės įgaliota institucija.
+
+3. Vėliavų gamybos licencijavimo taisykles tvirtina Lietuvos Respublikos Vyriausybė.
+
+4. Už licencijos išdavimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava.
+
+5. Licencija gaminti vėliavas išduodama arba rašytinis motyvuotas atsisakymas išduoti licenciją pateikiamas Lietuvos Respublikos įstatymų ir kitų norminių teisės aktų nustatyta tvarka įregistruotam juridiniam asmeniui ar užsienio valstybės fiziniam bei juridiniam asmeniui, užsienio juridinio asmens filialui per 60 dienų nuo dokumentų, reikalingų licencijai išduoti, gavimo dienos.
+
+6. Atsisakymas išduoti licenciją, sustabdyti jos galiojimą ar ją panaikinti gali būti apskųstas įstatymų nustatyta tvarka.
+
+15 straipsnis. Leidimas užsakyti pagaminti vėliavas
+
+1. Valstybės institucijos, įstaigos ar asmenys, kurie turi teisę naudoti Lietuvos valstybės istorinę vėliavą, Respublikos Prezidento vėliavą gali užsakyti pagaminti šias vėliavas tik gavę Lietuvos Respublikos Vyriausybės įgaliotos institucijos leidimą.
+
+2. Leidimų užsakyti pagaminti Lietuvos valstybės istorinę vėliavą ir Respublikos Prezidento vėliavą išdavimo taisykles nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+16 straipsnis. Gamintojų pareigos
+
+1. Vėliavos gali būti gaminamos tik iš Lietuvos Respublikos Vyriausybės nustatytų medžiagų ir turi atitikti įstatymų ir kitų norminių teisės aktų nustatytus reikalavimus.
+
+2. Valstybės institucijos, pagal kompetenciją kontroliuojančios vėliavų gamybą, reikalavimu gamintojai privalo Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka pateikti reikalaujamą informaciją, susijusią su licencijuojama veikla ar licencijos išdavimą lemiančiomis sąlygomis.
+
+17 straipsnis. Valstybės institucijų, pagal kompetenciją kontroliuojančių vėliavų gamybą ir prekybą jomis, teisės
+
+1. Valstybės institucijos pagal kompetenciją tikrina, ar fizinių ir juridinių asmenų veiksmai, susiję su vėliavų gamyba, prekyba jomis, atitinka galiojančias teisės normas.
+
+2. Vėliavų gamybą, prekybą jomis kontroliuojančių valstybės institucijų valstybės tarnautojai turi teisę:
+
+1) tikrinti, kaip laikomasi galiojančių teisės aktų, reglamentuojančių vėliavų gamybą, prekybą jomis;
+
+2) įstatymų nustatyta tvarka patekti į teritoriją ir patalpas, kuriose vėliavos gaminamos, prekiaujama jomis, ir ten atlikti patikrinimus;
+
+3) gauti iš gamintojų ar iš kitos kontroliuojančios institucijos informaciją, susijusią su licencijuojama vėliavų gamybos veikla ar licencijos išdavimą lemiančiomis sąlygomis;
+
+4) pagal kompetenciją teikti privalomus vykdyti nurodymus vėliavų gamintojams, jomis prekiaujantiems asmenims ir įpareigoti pašalinti nustatytus pažeidimus;
+
+5) nustatę gamintojų, prekybos vėliavomis vietų ar asmenų padarytus pažeidimus, siūlyti licenciją išdavusiai institucijai sustabdyti jos galiojimą ar ją panaikinti.
+
+SEPTINTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
+
+18 straipsnis. Įstatymo vykdymo priežiūra
+
+1. Už Lietuvos valstybės vėliavos, Lietuvos valstybės istorinės vėliavos, Respublikos Prezidento vėliavos, užsienio valstybių vėliavų, Europos Sąjungos vėliavos ir tarptautinių viešųjų organizacijų vėliavų, taip pat stalo ir automobilio vėliavėlių naudojimą valstybės institucijose yra atsakingi šių institucijų veiklą užtikrinančių valstybės įstaigų vadovai, t. y.:
+
+1) Lietuvos Respublikos Seime – Seimo kancleris;
+
+2) Respublikos Prezidento institucijoje – Respublikos Prezidento kanceliarijos vadovas (kancleris);
+
+3) Lietuvos Respublikos Vyriausybėje – Vyriausybės kancleris;
+
+4) Lietuvos Respublikos Konstituciniame Teisme, Lietuvos Aukščiausiajame Teisme, Lietuvos vyriausiajame administraciniame teisme – teismo kancleris, kituose teismuose – teismo pirmininkas;
+
+5) kitose valstybės įstaigose, Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir specialiosiose misijose – jų vadovai.
+
+2. Šio įstatymo įgyvendinimą prižiūri Lietuvos heraldikos komisija, savivaldybių administracijos, krašto apsaugos sistemos kariniuose vienetuose – krašto apsaugos ministras ar jo įgaliotas asmuo, savaeigiuose laivuose – kapitonai, nesavaeigiuose laivuose – škiperiai, Lietuvos Respublikos uostuose ir prieplaukose – jų viršininkai.
+
+3. Medžiagas, iš kurių gali būti gaminamos vėliavos, vėliavų matmenis, prekybos jomis vietas nustato Lietuvos Respublikos Vyriausybė.
+
+4. Vėliavų gamybą kontroliuoja Lietuvos Respublikos Vyriausybės įgaliotos institucijos vadovaudamosi šiuo įstatymu ir kitais norminiais teisės aktais.
 
 LIETUVOS RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS TARYBOS
 
-PIRMININKO PAVADUOTOJAS                                                                         B. KUZMICKAS
+PIRMININKO PAVADUOTOJAS                                                                     B. KUZMICKAS
 
 Vilnius, 1991 m. birželio 26 d.
 
@@ -259,4 +451,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1845, 2003-11-25, Žin., 2003, Nr. 116-5251 (2003-12-12), i. k. 1031010ISTA0IX-1845
 
 Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 ir 5 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2331, 2004-07-08, Žin., 2004, Nr. 115-4274 (2004-07-24), i. k. 1041010ISTA0IX-2331
+
+Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" pakeitimo įstatymas
 
