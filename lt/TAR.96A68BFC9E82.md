@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2000-10-10"
+last_updated: "2000-10-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -49,7 +49,7 @@ Nauja
 
 Nr. VIII-717,
 
-98.04.28, Žin., 1998, Nr.41(1)-1131 (98.05.01)
+1998 04 28, Žin., 1998, Nr. 41(1)-1131 (1998 05 01)
 
 PirmasIS skirsnis
 
@@ -93,13 +93,15 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-818,
+Nr.
 
-98.06.30, Žin., 1998, Nr.65-1871 (98.07.22)
+VIII-818,
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+1998 06 30, Žin., 1998, Nr. 65-1871 (1998 07 22)
 
-Nr.92-2843 (00.10.31)
+Nr. VIII-1980,
+
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 4 straipsnis.
 
@@ -401,9 +403,9 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 10 straipsnis.
 
@@ -445,17 +447,17 @@ pareigų.
 
 atsistatydinimą priima Respublikos Prezidentas. Ministras laikomas
 
-atsistatydinusiu nuo Respublikos Prezidento dekreto įsigaliojimo dienos.
+atsistatydinusiu nuo Respublikos Prezidento dekreto įsigaliojimo dienos. Respublikos
 
-Respublikos Prezidentas gali pavesti ministrui eiti pareigas, kol
+Prezidentas gali pavesti ministrui eiti pareigas, kol Ministro
 
-Ministro Pirmininko teikimu bus paskirtas naujas ministras.
+Pirmininko teikimu bus paskirtas naujas ministras.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 11
 
@@ -515,9 +517,9 @@ NARIŲ GARANTIJOS
 
 Skirsnio pavadinimas keistas:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 11 straipsnis. Interpeliacijos
 
@@ -573,13 +575,13 @@ POLITINIŲ PAREIGŪNŲ GARANTIJOS
 
 Ministro Pirmininko ir ministrų neliečiamumo  garantijos
 
-Ministras
+Ministras Pirmininkas
 
-Pirmininkas ir ministrai negali būti patraukti baudžiamojon atsakomybėn ar
+ir ministrai negali būti patraukti baudžiamojon atsakomybėn ar suimti, taip pat
 
-suimti, taip pat negali būti kitaip suvaržyta jų laisvė be išankstinio Seimo
+negali būti kitaip suvaržyta jų laisvė be išankstinio Seimo sutikimo, o tarp
 
-sutikimo, o tarp Seimo sesijų - be išankstinio Respublikos Prezidento sutikimo.
+Seimo sesijų - be išankstinio Respublikos Prezidento sutikimo.
 
 13 straipsnis.
 
@@ -649,9 +651,9 @@ nariai negali turėti teisės aktuose nenustatytų socialinių garantijų.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 14 straipsnis.
 
@@ -663,15 +665,15 @@ pareigas ir dirbti kitą darbą
 
 Ministras
 
-Pirmininkas ir ministrai negali eiti jokių kitų renkamų ar
+Pirmininkas ir ministrai negali eiti jokių kitų renkamų ar skiriamų
 
-skiriamų pareigų (išskyrus galimybę Seimo nariams eiti Ministro Pirmininko ar
+pareigų (išskyrus galimybę Seimo nariams eiti Ministro Pirmininko ar ministro
 
-ministro pareigas), negali dirbti verslo, komercijos ar kitose privačiose
+pareigas), negali dirbti verslo, komercijos ar kitose privačiose įstaigose ar
 
-įstaigose ar įmonėse, taip pat gauti kito atlyginimo, išskyrus jiems nustatytą
+įmonėse, taip pat gauti kito atlyginimo, išskyrus jiems nustatytą darbo
 
-darbo užmokestį pagal pareigas Vyriausybėje bei užmokestį už kūrybinę veiklą.
+užmokestį pagal pareigas Vyriausybėje bei užmokestį už kūrybinę veiklą.
 
 Užmokesčiu už kūrybinę veiklą laikomas autorinis atlyginimas už
 
@@ -685,9 +687,9 @@ neformalųjį suaugusiųjų švietimą.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 Penktasis skirsnis
 
@@ -705,9 +707,9 @@ Vyriausybės teisė teikti siūlymą dėl pirmalaikių Seimo rinkimų
 
 Vyriausybė turi
 
-teisę teikti siūlymą Respublikos Prezidentui paskelbti pirmalaikius Seimo rinkimus,
+teisę teikti siūlymą Respublikos Prezidentui paskelbti pirmalaikius Seimo
 
-jeigu Seimas pareiškia tiesioginį nepasitikėjimą Vyriausybe.
+rinkimus, jeigu Seimas pareiškia tiesioginį nepasitikėjimą Vyriausybe.
 
 16 straipsnis.
 
@@ -767,9 +769,9 @@ klausimais.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 19
 
@@ -829,7 +831,9 @@ teisę teikti siūlymą Seimui balsuoti dėl pasitikėjimo Vyriausybe.
 
 Šeštasis skirsnis
 
-VYRIAUSYBĖS KOMPETENCIJA
+VYRIAUSYBĖS
+
+KOMPETENCIJA
 
 22 straipsnis.
 
@@ -965,9 +969,9 @@ kiti įstatymai.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 23 straipsnis.
 
@@ -1007,9 +1011,9 @@ Pirmininkas atstovauja Vyriausybei ir vadovauja jos veiklai.
 
 Pirmininkas:
 
-1) sudaro Vyriausybę
+1) sudaro
 
-ir teikia jos sudėtį tvirtinti Respublikos Prezidentui;
+Vyriausybę ir teikia jos sudėtį tvirtinti Respublikos Prezidentui;
 
 2) teikia
 
@@ -1055,11 +1059,11 @@ siūlymus pavesti vienam iš ministrų pavaduoti Ministrą Pirmininką;
 
 svarstyti Vyriausybės programą;
 
-10) teikia
+10) teikia Vyriausybei
 
-Vyriausybei siūlymus dėl apskričių viršininkų, jų pavaduotojų skyrimo ir
+siūlymus dėl apskričių viršininkų, jų pavaduotojų skyrimo ir atleidimo iš
 
-atleidimo iš pareigų;
+pareigų;
 
 11) kviečia
 
@@ -1103,9 +1107,9 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 25
 
@@ -1139,9 +1143,9 @@ pareigas” ar “pavaduojantis Ministrą Pirmininką”.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 25 straipsnis. Ministro,
 
@@ -1195,13 +1199,13 @@ yra tiesiogiai atsakingas už Vyriausybės programos įgyvendinimą ministerijos
 
 kompetencijai priklausančiais klausimais;
 
-2) užtikrina įstatymų,
+2) užtikrina
 
-Lietuvos Respublikos tarptautinių sutarčių, Respublikos Prezidento dekretų,
+įstatymų, Lietuvos Respublikos tarptautinių sutarčių, Respublikos Prezidento
 
-Vyriausybės nutarimų, Ministro Pirmininko potvarkių ir kitų teisės aktų
+dekretų, Vyriausybės nutarimų, Ministro Pirmininko potvarkių ir kitų teisės
 
-vykdymą;
+aktų vykdymą;
 
 3) teikia
 
@@ -1277,9 +1281,9 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 27 straipsnis.
 
@@ -1343,7 +1347,9 @@ Ministerijos
 
 Respublikoje yra šios ministerijos:
 
-1) Aplinkos ministerija;
+1) Aplinkos
+
+ministerija;
 
 2) Finansų
 
@@ -1385,15 +1391,11 @@ ministerija;
 
 reikalų ministerija;
 
-12) Valdymo
-
-reformų ir savivaldybių reikalų ministerija;
-
-13) Vidaus
+12) Vidaus
 
 reikalų ministerija;
 
-14) Žemės ūkio
+13) Žemės ūkio
 
 ministerija.
 
@@ -1413,9 +1415,9 @@ vadovauja ministras.
 
 5. Ministerija
 
-yra juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu
+yra juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu bei
 
-bei savo pavadinimu.
+savo pavadinimu.
 
 6. Ministerija
 
@@ -1455,19 +1457,23 @@ rengiami vieneriems, trejiems, penkeriems ir dešimčiai metų atsižvelgiant į
 
 Vyriausybės ilgalaikį strateginį veiklos planą. Seimui pritarus naujos
 
-Vyriausybės programai, ministerijos savo parengtus arba atnaujintus
+Vyriausybės programai, ministerijos savo parengtus arba atnaujintus strateginius
 
-strateginius veiklos planus per tris mėnesius pateikia Vyriausybei aprobuoti.
+veiklos planus per tris mėnesius pateikia Vyriausybei aprobuoti. Jeigu įsteigta
 
-Jeigu įsteigta nauja ministerija, ji ilgalaikius ministerijos strateginius
+nauja ministerija, ji ilgalaikius ministerijos strateginius veiklos planus
 
-veiklos planus pateikia Vyriausybei aprobuoti per tris mėnesius nuo įsteigimo dienos.
+pateikia Vyriausybei aprobuoti per tris mėnesius nuo įsteigimo dienos.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
+
+Nr. VIII-2050,
+
+2000 10 17, Žin., 2000, Nr. 89-2755 (2000 10 25)
 
 30
 
@@ -1485,9 +1491,9 @@ apskaitos funkcijas vykdančios tarnybos ir inspekcijos.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 30 straipsnis.
 
@@ -1579,9 +1585,9 @@ ministro jam pavestas funkcijas.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 32 straipsnis.
 
@@ -1679,9 +1685,9 @@ nuo įsteigimo ar reorganizavimo dienos.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 34
 
@@ -1709,9 +1715,9 @@ potvarkiams.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 35
 
@@ -1753,9 +1759,9 @@ viršininko ir Vyriausybės atstovo įgaliojimus nustato įstatymai.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 Devintasis skirsnis
 
@@ -1859,9 +1865,9 @@ Vyriausybės sekretoriaus šaukiamuose ministerijų sekretorių pasitarimuose.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 38 straipsnis.
 
@@ -1889,9 +1895,9 @@ būti suderintas Vyriausybės darbo reglamento nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 39
 
@@ -1905,13 +1911,13 @@ projektų, apimančių kelių ministrų valdymo sritis, derinimo metu iškilę
 
 nesutarimai paprastai svarstomi Ministro Pirmininko aparate.
 
-2. Jeigu
+2. Jeigu Ministro
 
-Ministro Pirmininko aparate nuomonių suderinti nepavyksta, Vyriausybės
+Pirmininko aparate nuomonių suderinti nepavyksta, Vyriausybės kancleris arba
 
-kancleris arba ministrai kreipiasi į Ministrą Pirmininką. Šis gali siūlyti
+ministrai kreipiasi į Ministrą Pirmininką. Šis gali siūlyti klausimą svarstyti
 
-klausimą svarstyti Vyriausybės komitete (toliau - komitetai).
+Vyriausybės komitete (toliau - komitetai).
 
 3. Komitetams
 
@@ -1933,9 +1939,9 @@ susitarimus ar diskusijų išvadas.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 40
 
@@ -2011,9 +2017,9 @@ asmenys.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 39 straipsnis. Nesutarimų,
 
@@ -2145,9 +2151,9 @@ nutarimai įsigalioja įstatymų nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 42 straipsnis.
 
@@ -2191,9 +2197,9 @@ IR MINISTRO PIRMININKO APARATAS
 
 Skirsnio pavadinimo pakeistas:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 44 straipsnis.
 
@@ -2261,9 +2267,9 @@ kanceliarijos struktūrą Vyriausybės sekretoriaus teikimu tvirtina Vyriausybė
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 45 straipsnis.
 
@@ -2287,9 +2293,9 @@ organizacijomis.
 
 2. Vyriausybės kancleris pagal savo
 
-kompetenciją gali leisti pavedimus – rezoliucijas, išskyrus pavedimus Vyriausybės
+kompetenciją gali leisti pavedimus – rezoliucijas, išskyrus pavedimus
 
-nariams ir Vyriausybės įstaigų vadovams.
+Vyriausybės nariams ir Vyriausybės įstaigų vadovams.
 
 3. Vyriausybės
 
@@ -2317,9 +2323,9 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980,
 
-Nr.92-2843 (00.10.31)
+2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 46 straipsnis.
 
@@ -2423,7 +2429,7 @@ RESPUBLIKOS EUROPOS REIKALŲ MINISTERIJOS, ŪKIO MINISTERIJOS, ŽEMĖS IR MIŠK�
 
 MINISTERIJOS, MIŠKŲ ŪKIO MINISTERIJOS, PRAMONĖS  IR PREKYBOS  MINISTERIJOS,
 
-ŽEMĖS ŪKIO MINISTERIJOS  PANAIKINIMO  IR VYRIAUSYBĖS ĮSTATYMO 27 STRAIPSNIO
+ŽEMĖS ŪKIO MINISTERIJOS  PANAIKINIMO  IR VYRIAUSYBĖS ĮSTATYMO 27 STRAIPSNIO
 
 PAKEITIMO
 
@@ -2453,7 +2459,7 @@ Nr.
 
 VIII-717,
 
-98.04.28, Žin., 1998, Nr.41(1)-1131 (98.05.01)
+1998 04 28, Žin., 1998, Nr. 41(1)-1131 (1998 05 01)
 
 LIETUVOS
 
@@ -2473,7 +2479,7 @@ Nr.
 
 VIII-818,
 
-98.06.30, Žin., 1998, Nr.65-1871 (98.07.22)
+1998 06 30, Žin., 1998, Nr. 65-1871 (1998 07 22)
 
 LIETUVOS
 
@@ -2483,9 +2489,9 @@ RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1980, 00.10.10, Žin., 2000,
+Nr. VIII-1980, 2000
 
-Nr.92-2843 (00.10.31)
+10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
 VYRIAUSYBĖS ĮSTATYMO 3, 9, 10, 13, 14, 18, 22, 24, 25,
 
@@ -2493,11 +2499,21 @@ VYRIAUSYBĖS ĮSTATYMO 3, 9, 10, 13, 14, 18, 22, 24, 25,
 
 IR DEŠIMTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-2050, 2000
+
+10 17, Žin., 2000, Nr. 89-2755 (2000 10 25)
+
+VYRIAUSYBĖS ĮSTATYMO 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-KONSTITUCINIO
+Konstitucinio
 
-TEISMO NUTARIMAI:
+Teismo nutarimai:
 
 1.
 
@@ -2515,7 +2531,7 @@ DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4
 
 DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
-*** Pabaiga ***
-
 Redagavo: Aušrinė Trapinskienė (2000 11 02)
+
+autrap@lrs.lt
 
