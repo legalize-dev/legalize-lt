@@ -4,7 +4,7 @@ identifier: "TAR.951DF53F837F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "2004-05-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2005-10-12
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1600; Žin. 1999, Nr.68-0; Žin. 2011, Nr.91-4318, i. k. 0991010ISTAIII-1190
 
@@ -415,11 +415,13 @@ Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija atsak
 
 1. Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija atsako, kad iki radioaktyviųjų atliekų tvarkymo įrenginio priėmimo ir perdavimo eksploatuoti ir eksploatavimo metu būtų sudaryti avarijų ar incidentų likvidavimo planai.
 
-2. Civilinės saugos departamentas prie Vidaus reikalų ministerijos kartu su savivaldybės institucijomis iki radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo pradžios turi parengti gyventojų saugos planus tokios teritorijos, kuri gali būti paveikta įvykus branduolinei ar radiacinei avarijai radioaktyviųjų atliekų tvarkymo įrenginyje. Eksploatavimo metu avarijų ar incidentų likvidavimo bei gyventojų saugos planai kartu su eksploatuojančia organizacija turi būti reguliariai bandomi. Prieš nutraukiant radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimą, planai turi būti atnaujinti atsižvelgiant į eksploatavimo nutraukimo sąlygas.
+2. Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos kartu su savivaldybės institucijomis iki radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo pradžios turi parengti gyventojų saugos planus tokios teritorijos, kuri gali būti paveikta įvykus branduolinei ar radiacinei avarijai radioaktyviųjų atliekų tvarkymo įrenginyje. Eksploatavimo metu avarijų ar incidentų likvidavimo bei gyventojų saugos planai kartu su eksploatuojančia organizacija turi būti reguliariai bandomi. Prieš nutraukiant radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimą, planai turi būti atnaujinti atsižvelgiant į eksploatavimo nutraukimo sąlygas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA0IX-2004
+
+Nr. IX-2506, 2004-10-26, Žin., 2004, Nr. 163-5944 (2004-11-09); Žin., 2004, Nr. 164-0 (2004-11-11), i. k. 1041010ISTA0IX-2506
 
 3. Branduolinių ar radiacinių avarijų prevencija ir avarijų likvidavimas radioaktyviųjų atliekų tvarkymo įrenginiuose vykdomi Branduolinės energijos įstatymo ir kitų įstatymų bei teisės aktų nustatyta tvarka.
 
@@ -514,4 +516,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2116, 2004-04-13, Žin., 2004, Nr. 60-2124 (2004-04-24), i. k. 1041010ISTA0IX-2116
 
 Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 10 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2506, 2004-10-26, Žin., 2004, Nr. 163-5944 (2004-11-09); Žin., 2004, Nr. 164-0 (2004-11-11), i. k. 1041010ISTA0IX-2506
+
+Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 24 straipsnio pakeitimo įstatymas
 
