@@ -4,7 +4,7 @@ identifier: "TAR.CB64F0F13B35"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "1996-07-12"
+last_updated: "1997-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB64F0F13B35"
 department: "Lietuvos Respublikos Seimas"
@@ -15,11 +15,23 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo įgyvendinimo įstatymas
 
-LIETUVOS RESPUBLIKOS
+Įstatymas netenka galios 1998-12-11:
 
-SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO ĮGYVENDINIMO
+Lietuvos Respublikos Seimas, Įstatymas
 
-Į S T A T Y M A S
+Nr. VIII-940, 1998-11-24, Žin., 1998, Nr. 109-2995 (1998-12-11), i. k. 0981010ISTAVIII-940
+
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo pakeitimo įstatymas
+
+Suvestinė redakcija nuo 1997-07-01 iki 1998-12-10
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 66-1573, i. k. 0961010ISTA00I-1368
+
+Nauja redakcija nuo 1997-07-01:
+
+Nr. VIII-298, 1997-06-24, Žin. 1997, Nr. 62-1464 (1997-07-01), i. k. 0971010ISTAVIII-298
+
+LIETUVOS RESPUBLIKOS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS
 
 1996 m. birželio 6 d. Nr. I-1368
 
@@ -27,41 +39,33 @@ Vilnius
 
 1 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
-1. Vyriausybė per 5 mėnesius nuo Sveikatos priežiūros įstaigų įstatymo įsigaliojimo turi parengti ir pateikti Lietuvos Respublikos Seimui:
+1. Vyriausybė iki 1997 m. spalio 1 d. parengia ir pateikia Seimui ar priima pagal kompetenciją šiuos teisės aktus:
 
-1) Valstybinio turto pirminio privatizavimo įstatymo pakeitimų ir papildymų įstatymo projektą, kuriame būtų numatytas lėšų, gautų privatizavus LNSS įstaigas, perdavimas į valstybės ir savivaldybių sveikatos fondus;
+1) privatizavimo įstatymų pakeitimų ir papildymų įstatymų projektus, kuriuose būtų numatytas lėšų, gautų privatizavus LNSS asmens sveikatos priežiūros viešąsias įstaigas, perdavimas į valstybės ir savivaldybių sveikatos fondus;
 
-2) Apskrities valdymo įstatymo pakeitimų ir papildymų įstatymo projektą, kuriame būtų patikslinta apskrities sveikatos priežiūros įstaigų nomenklatūra;
+2) Sveikatos sistemos įstatymo papildymų ir pakeitimų įstatymo projektą;
 
-3) Sveikatos sistemos įstatymo papildymų ir pakeitimų įstatymo projektą;
+3) įstatymo „Dėl laikinosios atskaitymų į savivaldybių biudžetus normatyvų ir dotacijų nustatymo metodikos“ papildymo ir pakeitimo projektą, kuriame būtų numatytas asignavimų savivaldybių remiamai (nemokamai) asmens sveikatos priežiūrai, savivaldybių privalomosioms sveikatos programoms, savivaldybių sveikatos priežiūros įstaigų nepaprastosioms išlaidoms ir pirminei visuomenės sveikatos priežiūrai nustatymas valstybės biudžeto projekte ir šių išlaidų normatyvų apskaičiavimas;
 
-4) įstatymo „Dėl laikinosios atskaitymų į savivaldybių biudžetus normatyvų ir dotacijų nustatymo metodikos“ papildymo ir pakeitimo projektą, kuriame būtų numatytas savivaldybių biudžetų išlaidų savivaldybių remiamai (nemokamai) asmens sveikatos priežiūrai ir visuomenės sveikatos priežiūrai normatyvų nustatymas.
+4) Biudžetinės sandaros įstatymo papildymų ir pakeitimų projektą, kuriame patikslinti sveikatos priežiūros paslaugų teikimo ir valstybės privalomųjų bei savivaldybių privalomųjų sveikatos programų finansavimo, Valstybinio sveikatos fondo lėšų šaltinių formavimo iš akcizų už alkoholinius gėrimus ir tabako gaminius atskaitymų, valstybės ir savivaldybių sveikatos priežiūros įstaigų nepaprastųjų išlaidų atlyginimo tvarką;
 
-2. Vyriausybė per 3 mėnesius nuo Sveikatos priežiūros įstaigų įstatymo įsigaliojimo turi parengti ir patvirtinti:
+5) Juridinių asmenų pelno mokesčio, Įmonių ir organizacijų nekilnojamojo turto mokesčio, Kelių fondo įstatymų pakeitimų projektus, kuriuose numatyti mokesčių lengvatas sveikatos priežiūros įstaigoms.
 
-1) Akreditavimo sveikatos priežiūrai ir farmacijos veiklai nuostatų pakeitimus ir papildymus, susijusius su Sveikatos priežiūros įstaigų įstatymo įgyvendinimu;
+2. Vyriausybė iki 1999 m. sausio 1 d. parengia ir patvirtina kitus teisės aktus, susijusius su Sveikatos priežiūros įstaigų įstatymo įgyvendinimu.
 
-2) Vyriausybės 1994 m. lapkričio 11 d. nutarimo Nr. 1123 „Dėl žyminio mokesčio tarifų bei žyminio mokesčio mokėjimo ir grąžinimo tvarkos patvirtinimo“ papildymą, kuriame būtų numatytas žyminis mokestis už akreditavimo pažymėjimo išdavimą ir sveikatos priežiūros įstaigų įregistravimą Valstybiniame sveikatos priežiūros įstaigų registre bei naudojimąsi šiuo registru;
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-3) Valstybinio sveikatos priežiūros įstaigų registro nuostatus;
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-4) nemokamų sveikatos priežiūros paslaugų ir patarnavimų teikimo Krašto apsaugos ir Vidaus reikalų ministerijų sistemų uždarosiose biudžetinėse sveikatos priežiūros įstaigose tvarką.
+Pakeitimai:
 
-3. Vyriausybė per 8 mėnesius nuo Sveikatos priežiūros įstaigų įstatymo įsigaliojimo turi parengti ir patvirtinti:
+1.
 
-1) uždarųjų biudžetinių sveikatos priežiūros įstaigų valstybinio medicininio audito, valstybinės higieninės kontrolės tvarką;
+Lietuvos Respublikos Seimas, Įstatymas
 
-2) biudžetinių ir viešųjų sveikatos priežiūros įstaigų finansavimo iš valstybės ir savivaldybių biudžetų tvarką;
+Nr. VIII-298, 1997-06-24, Žin., 1997, Nr. 62-1464 (1997-07-01), i. k. 0971010ISTAVIII-298
 
-3) religinių bendruomenių ir bendrijų, visuomeninių organizacijų viešųjų sveikatos priežiūros įstaigų tipinius nuostatus;
-
-4) užsienio valstybių piliečiams nemokamai teikiamos būtinosios medicinos pagalbos mastus.
-
-4. Vyriausybė per 15 mėnesių nuo Sveikatos priežiūros įstaigų įstatymo įsigaliojimo turi parengti ir patvirtinti:
-
-1) valstybės ir savivaldybių įmonių ir biudžetinių įstaigų, kurios verčiasi sveikatos priežiūra, turto inventorizavimo, šių įstaigų reorganizavimo ir perregistravimo a Lietuvos nacionalinės sveikatos sistemos biudžetines ir viešąsias sveikatos priežiūros įstaigas pagal nustatytus LNSS veiklos organizavimo lygius tvarką;
-
-2) kitus teisės aktus, susijusius su Sveikatos priežiūros įstaigų įstatymo įgyvendinimu.
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo įgyvendinimo įstatymo pakeitimo įstatymas
 
 2 straipsnis. Pasiūlymai Sveikatos apsaugos ministerijai
 
