@@ -4,7 +4,7 @@ identifier: "TAR.1273CA6042BD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-09"
-last_updated: "1996-03-21"
+last_updated: "1997-03-27"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD"
 department: "Lietuvos Respublikos Seimas"
@@ -15,75 +15,67 @@ document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo
 
-Redaguota: 1996 04 03
+Neoficialus įstatymo tekstas
 
-Redaguota: 1996 04
+Neoficialus
 
-03
-
-g
+įstatymo tekstas
 
 Pakeitimai:
 
-1.Lietuvos
+1.
 
-Respublikos 1995 05 11
+Lietuvos
 
-įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr.1-890
+Nr.1-890,
 
-Žin., 1995, Nr.
+95.05.11, Žin., 1995 DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL BRANGŲ TURTĄ
 
-1-890
+ĮSIGIJUSIŲ ARBA ĮSIGYJANČIŲ LIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ
 
-DĖL LIETUVOS
+DEKLARAVIMO" PAKEITIMO IR PAPILDYMO
 
-RESPUBLIKOS ĮSTATYMO "DĖL
+2.
 
-BRANGŲ TURTĄ
+Lietuvos
 
-ĮSIGIJUSIŲ ARBA ĮSIGYJANČIŲ
+Respublikos Seimas, Įstatymas
 
-LIETUVOS
+Nr.1-1243,
 
-RESPUBLIKOS GYVENTOJŲ PAJAMŲ
-
-DEKLARAVIMO"
-
-PAKEITIMO IR PAPILDYMO
-
-2.Lietuvos
-
-Respublikos 1996 03 21
-
-įstatymas
-
-Nr.1-1243
-
-Žin., 1996,
-
-Nr.30-734
+96.03.21, Žin., 1996, Nr.30-734
 
 LIETUVOS
 
-RESPUBLIKOS ĮSTATYMO "DĖL
+RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ BRANGIAM
 
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ PAJAMŲ
-
-BRANGIAM TURTUI
-
-ĮSIGYTI ARBA KITŲ ĮSIGYTŲ
-
-BEI PERLEIDŽIAMŲ
-
-LĖŠŲ DEKLARAVIMO"
-
-12-2 STRAIPSNIO
+TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ LĖŠŲ DEKLARAVIMO" 12-2 STRAIPSNIO
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-167, 97.03.27, Žin., 1997, Nr.28-663 (97.03.29)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO ĮSTATYMO “DĖL LIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ
+
+BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ LĖŠŲ DEKLARAVIMO” 3
+
+IR 12(2) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
@@ -93,205 +85,57 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-DĖL
+DĖL LIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ
 
-LIETUVOS  RESPUBLIKOS GYVENTOJŲ  PAJAMŲ
+BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI
 
-BRANGIAM  TURTUI
+PERLEIDŽIAMŲ LĖŠŲ DEKLARAVIMO
 
-ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI
-
-PERLEIDŽIAMŲ
-
-LĖŠŲ DEKLARAVIMO
+(Žin., 1990, Nr.24-601)
 
 Pakeitimai:
 
-1.Lietuvos
+Nr.1-890,
 
-Respublikos 1995 05 11
+95.05.11, Žin., 1995
 
-įstatymas
+1 straipsnis.
 
-Nr.1-890
+Šis įstatymas reglamentuoja Lietuvos Respublikos gyventojų, nuo 1994 m.
 
-Žin., 1995, Nr.
+birželio 1 d. visais būdais įsigyjančių (įsigijusių) brangų turtą arba
 
-1-890
+įsigyjančių arba perleidžiančių pinigines lėšas, pajamų deklaravimą. Pajamos
 
-1  straipsnis.
+pagrindžiamos įstatymų reikalaujama forma sudarytais sandoriais arba juridinę
 
-Šis   įstatymas   reglamentuoja    Lietuvos
+galią turinčiais dokumentais. Prie užsienio kalba parašytų dokumentų turi būti
 
-Respublikos
+pridėtas notarine tvarka patvirtintas jų vertimas į lietuvių kalbą.
 
-gyventojų,  nuo 1994  m. birželio  1 d. visais būdais
+Straipsnio
 
-įsigyjančių
+pakeitimai:
 
-(įsigijusių)  brangų  turtą  arba  įsigyjančių  arba
+Nr.1-890,
 
-perleidžiančių
-
-pinigines   lėšas,  pajamų  deklaravimą.  Pajamos
-
-pagrindžiamos
-
-įstatymų  reikalaujama forma  sudarytais sandoriais
-
-arba juridinę  galią
-
-turinčiais  dokumentais. Prie užsienio kalba
-
-parašytų
-
-dokumentų   turi   būti   pridėtas   notarine   tvarka
-
-patvirtintas jų
-
-vertimas į lietuvių kalbą.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1995 05 11
-
-įstatymas
-
-Nr.1-890
-
-Žin., 1995, Nr.
-
-1-890
+95.05.11, Žin., 1995
 
 2 straipsnis.
 
-Brangiu turtu laikomas ne mažesnės kaip 30000
+Brangiu turtu laikomas ne mažesnės kaip 30000 litų vertės įsigijimo rinkos
 
-litų  vertės
+kaina iš karto arba dalimis įsigyjamas (įsigytas) turtas, taip pat įsigytų ar
 
-įsigijimo  rinkos  kaina  iš  karto  arba  dalimis
+perleistų kitų lėšų (įskaitant paskolas) ne mažesnė kaip 30000 litų suma.
 
-įsigyjamas
+Straipsnio
 
-(įsigytas)  turtas, taip pat įsigytų ar perleistų kitų
+pakeitimai:
 
-lėšų (įskaitant
+Nr.1-890,
 
-paskolas) ne mažesnė kaip 30000 litų suma.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1995 05 11
-
-įstatymas
-
-Nr.1-890
-
-Žin., 1995, Nr.
-
-1-890
-
-3
-
-straipsnis.   Lietuvos  Respublikos   gyventojų  pajamos,
-
-atsižvelgiant į šio
-
-įstatymo 2 straipsnio nuostatą, deklaruojamos
-
-kiekvienu atveju,
-
-kai:
-
-1)
-
-registruojamas   Lietuvos   Respublikos   įstatymų   ir
-
-Vyriausybės
-
-nustatyta   tvarka  privalomas  registruoti  turtas,
-
-įskaitant ir pačių
-
-pasistatytus pastatus bei statinius;
-
-2) įsigyjami
-
-vertybiniai popieriai;
-
-3)  sumokami
-
-pajai  ar  kitos  įmokos  įmonėms,  įstaigoms,
-
-organizacijoms bei
-
-bendrijoms,  išskyrus  įmokas  registruojamam
-
-turtui įsigyti;
-
-4)
-
-investuojamos lėšos į įmones bei kitus ūkio subjektus;
-
-5) grąžinamos
-
-paskolos kredito ir kitoms įstaigoms, įmonėms
-
-ar organizacijoms
-
-bei kitiems juridiniams bei fiziniams asmenims;
-
-6) dovanojamos
-
-juridiniams ar  fiziniams asmenims piniginės
-
-lėšos arba
-
-suteikiamos paskolos  (įskaitant terminuotus indėlius
-
-kredito įstaigoms).
-
-Šiame
-
-straipsnyje   nurodyto  turto   arba  lėšų  įsigijimo
-
-(perleidimo)
-
-pajamos  taip pat  deklaruojamos,  kai  įsigyto  per
-
-metus turto
-
-įsigijimo rinkos kaina arba bendra šio straipsnio 2-6
-
-punktuose išvardytų
-
-lėšų suma viršijo 30000 litų per metus. Šiais
-
-atvejais pajamos
-
-deklaruojamos pasibaigus  kalendoriniams metams
-
-iki kitų metų
-
-balandžio 1 dienos.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1995 05 11
-
-įstatymas
-
-Nr.1-890
-
-Žin., 1995, Nr.
-
-1-890
+95.05.11, Žin., 1995
 
 4    straipsnis.
 
@@ -333,395 +177,157 @@ Nr.1-890
 
 5 straipsnis.
 
-Valstybinė mokesčių  inspekcija,  gavusi  šio
+Valstybinė mokesčių inspekcija, gavusi šio įstatymo 3 straipsnio pirmojoje
 
-įstatymo  3   straipsnio
+dalyje numatytais atvejais Vyriausybės nustatyta tvarka užpildytą pajamų
 
-pirmojoje  dalyje  numatytais  atvejais
+deklaraciją ir įsitikinusi, kad joje nurodytos pajamos yra apmokestintos, o tam
 
-Vyriausybės
+tikrais atvejais - laikinuosius pinigus-talonus keičiant į litus - Vyriausybės
 
-nustatyta  tvarka  užpildytą  pajamų  deklaraciją  ir
+nustatyta tvarka piniginės pajamos buvo deklaruotos, per 5 darbo dienas išduoda
 
-įsitikinusi, kad
+pajamas deklaravusiam asmeniui pažymą apie pajamų deklaravimą.
 
-joje nurodytos pajamos yra apmokestintos, o tam
+Jei pajamų deklaracijoje nurodomos iki lito įvedimo turėtos piniginės pajamos,
 
-tikrais atvejais  -
+o keičiant laikinuosius pinigus-talonus į litus, jos nebuvo deklaruotos,
 
-laikinuosius pinigus-talonus keičiant į litus
+atsižvelgiama tik į sutuoktinių ir jų nepilnamečių vaikų nuo 16 metų turėtų
 
--   Vyriausybės
+grynųjų pinigų Vyriausybės nustatytą nedeklaruotiną dydį.
 
-nustatyta   tvarka   piniginės   pajamos   buvo
+Grynųjų pinigų  konvertuojama valiuta įsigijimas pagrindžiamas šio įstatymo
 
-deklaruotos, per  5
+nustatyta tvarka ir Lietuvos banko, vadovaujantis Lietuvos Respublikos
 
-darbo  dienas išduoda  pajamas  deklaravusiam
+Aukščiausiosios Tarybos 1991 m. kovo 21 d. nutarimu Nr.I-1160, nustatyta
 
-asmeniui pažymą apie
+tvarka, išskyrus atvejus, kai ši valiuta buvo gauta oficialiai.
 
-pajamų deklaravimą.
+Nustačius, kad deklaruotos pajamos nebuvo apmokestintos arba jos nepagrįstos
 
-Jei pajamų
+įstatymų reikalaujama forma sudarytais sandoriais ar juridinę galią turinčiais
 
-deklaracijoje nurodomos iki lito įvedimo turėtos
+dokumentais, o keičiant laikinuosius pinigus-talonus į litus, Vyriausybės
 
-piniginės pajamos,
+nustatyta tvarka piniginės pajamos nebuvo deklaruotos, jos (išskyrus
 
-o  keičiant  laikinuosius  pinigus-talonus  į
+nedeklaruotiną dydį) apmokestinamos taikant 20 procentų pajamų mokesčio tarifą.
 
-litus, jos nebuvo
+Pajamų mokestis turi būti sumokėtas per 10 dienų nuo valstybinės mokesčių
 
-deklaruotos, atsižvelgiama tik į sutuoktinių ir
+inspekcijos pranešimo apie apskaičiuotą mokestį dienos. Jeigu mokestis
 
-jų  nepilnamečių
+nesumokėtas, pažyma apie pajamų deklaravimą neišduodama. Nesumokėtas mokestis
 
-vaikų  nuo   16  metų  turėtų  grynųjų  pinigų
+išieškomas įstatymų nustatyta tvarka.
 
-Vyriausybės
+Straipsnio
 
-nustatytą nedeklaruotiną dydį.
+pakeitimai:
 
-Grynųjų
+Nr.1-890,
 
-pinigų     konvertuojama    valiuta    įsigijimas
+95.05.11, Žin., 1995
 
-pagrindžiamas šio
+6 straipsnis. (Neteko galios)
 
-įstatymo nustatyta  tvarka ir  Lietuvos banko,
+Straipsnio
 
-vadovaujantis
+pakeitimai:
 
-Lietuvos  Respublikos Aukščiausiosios  Tarybos 1991
+Nr.1-890,
 
-m. kovo  21 d.
-
-nutarimu Nr.I-1160,  nustatyta  tvarka,  išskyrus
-
-atvejus, kai ši
-
-valiuta buvo gauta oficialiai.
-
-Nustačius, kad
-
-deklaruotos pajamos nebuvo apmokestintos arba
-
-jos nepagrįstos
-
-įstatymų reikalaujama forma sudarytais sandoriais
-
-ar juridinę galią
-
-turinčiais dokumentais, o keičiant laikinuosius
-
-pinigus-talonus į
-
-litus, Vyriausybės  nustatyta tvarka piniginės
-
-pajamos nebuvo
-
-deklaruotos, jos  (išskyrus nedeklaruotiną  dydį)
-
-apmokestinamos
-
-taikant 20 procentų pajamų mokesčio tarifą. Pajamų
-
-mokestis  turi
-
-būti  sumokėtas  per  10  dienų  nuo  valstybinės
-
-mokesčių
-
-inspekcijos  pranešimo apie apskaičiuotą mokestį dienos.
-
-Jeigu  mokestis
-
-nesumokėtas,  pažyma  apie  pajamų  deklaravimą
-
-neišduodama.
-
-Nesumokėtas  mokestis išieškomas  įstatymų nustatyta
-
-tvarka.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1995 05 11
-
-įstatymas
-
-Nr.1-890
-
-Žin., 1995, Nr.
-
-1-890
-
-6 straipsnis.
-
-Neteko galios
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1995 05 11
-
-įstatymas
-
-Nr.1-890
-
-Žin., 1995, Nr.
-
-1-890
-
-7
-
-straipsnis.   Valstybinės  mokesčių   inspekcijos  pajamų
-
-deklaracijų
-
-duomenis  naudoja  tik  apmokestinimo  reikalams  ir
-
-neturi   teisės
-
-jų   skelbti,   išskyrus  šio  įstatymo  4 ir 11
-
-straipsniuose ir
-
-kituose įstatymuose numatytais atvejais.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1995 05 11
-
-įstatymas
-
-Nr.1-890
-
-Žin., 1995, Nr.
-
-1-890
+95.05.11, Žin., 1995
 
 8 straipsnis.
 
-Nepateikus valstybinės  mokesčių  inspekcijos
+Nepateikus valstybinės mokesčių inspekcijos pažymos apie pajamų deklaravimą,
 
-pažymos apie  pajamų
+draudžiama registruoti turtą, parduoti vertybinius popierius, priimti pajus,
 
-deklaravimą,  draudžiama registruoti  turtą,
+priimti suteikiamas paskolas ( įskaitant terminuotus indėlius ), investuojamas
 
-parduoti
+lėšas ar kitas įmokas, kurių įsigijimo rinkos kaina ar lėšų suma ne mažesnė už
 
-vertybinius    popierius,   priimti   pajus,   priimti
+2 straipsnyje nurodytąją.
 
-suteikiamas
-
-paskolas   ( įskaitant   terminuotus   indėlius ),
-
-investuojamas lėšas
-
-ar kitas įmokas, kurių įsigijimo rinkos kaina
-
-ar  lėšų suma ne
-
-mažesnė už 2 straipsnyje nurodytąją.
-
-Už šios tvarkos
-
-pažeidimą asmenys, taip pat pareigūnai atsako
-
-įstatymų nustatyta
-
-tvarka.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1995 05 11
-
-įstatymas
-
-Nr.1-890
-
-Žin., 1995, Nr.
-
-1-890
-
-9 straipsnis.
-
-Pajamų deklaraciją  pateikęs asmuo  atsako už
-
-joje pateiktų
-
-duomenų teisingumą.
-
-Asmuo,
-
-nepateikęs  deklaracijos,  neteisingai  nurodęs  joje
-
-duomenis, taip  pat
-
-neteisėtai  gavęs pajamų, baudžiamas įstatymų
+Už šios tvarkos pažeidimą asmenys, taip pat pareigūnai atsako įstatymų
 
 nustatyta tvarka.
 
-10
+Straipsnio
 
-straipsnis.    Valstybinės    mokesčių     inspekcijos
+pakeitimai:
 
-kontroliuoja,  kaip
+Nr.1-890,
 
-įmonės,  įstaigos,  organizacijos  bei  kiti
+95.05.11, Žin., 1995
 
-juridiniai ar
+9 straipsnis.
 
-fiziniai asmenys,  registruojantys  brangų  turtą,
+Pajamų deklaraciją pateikęs asmuo atsako už joje pateiktų duomenų teisingumą.
 
-parduodantys
+Asmuo, nepateikęs deklaracijos, neteisingai nurodęs joje duomenis, taip pat
 
-vertybinius  popierius, taip  pat priimantys  pajus,
-
-suteikiamas
-
-paskolas    (įskaitant    terminuotus    indėlius),
-
-investuojamas
-
-lėšas  ar  kitas  įmokas,  vykdo  šio  įstatymo  8
-
-straipsnio
-
-reikalavimus,  taip pat  tikrina šių institucijų pagal
-
-šio įstatymo 12-2
-
-straipsnį pateiktus duomenis.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1995 05 11
-
-įstatymas
-
-Nr.1-890
-
-Žin., 1995, Nr.
-
-1-890
+neteisėtai gavęs pajamų, baudžiamas įstatymų nustatyta tvarka.
 
 13 straipsnis.
 
 Baigiamosios nuostatos:
 
-Šis įstatymas
+Šis
 
-įsigalioja nuo 1994 m. birželio 1 dienos.
+įstatymas įsigalioja nuo 1994 m. birželio 1 dienos.
 
-Lietuvos
+Lietuvos Respublikos Vyriausybė iki 1994 m. balandžio 1 dienos:
 
-Respublikos  Vyriausybė iki  1994  m.  balandžio  1
+1) parengia brangų turtą įsigijusių arba įsigyjančių Lietuvos Respublikos
 
-dienos:
+gyventojų pajamų deklaravimo tvarką bei pajamų deklaracijos ir išduodamos
 
-1)  parengia
+pažymos apie pajamų deklaravimą formas;
 
-brangų  turtą   įsigijusių  arba  įsigyjančių
+2) parengia privalomo registruoti turto sąrašą bei šio turto įvertinimo
 
-Lietuvos Respublikos
+metodiką;
 
-gyventojų  pajamų  deklaravimo  tvarką  bei
+3) pateikia pasiūlymus dėl galiojančių Lietuvos Respublikos įstatymų ir kitų
 
-pajamų deklaracijos
+norminių aktų pakeitimų bei papildymų, būtinų šiam įstatymui įgyvendinti;
 
-ir išduodamos pažymos apie pajamų deklaravimą
+4) nustato šio įstatymo 2 straipsnyje nurodytos deklaruojamo brangaus turto įsigijimo
 
-formas;
+kainos dydį atskirais laikotarpiais nuo 1990 m. kovo 11 d. iki šio įstatymo
 
-2) parengia
+įsigaliojimo dienos ir indeksuoja jį, atsižvelgdama į vartojimo kainų
 
-privalomo registruoti turto sąrašą bei šio turto
+pasikeitimus po įstatymo įsigaliojimo.
 
-įvertinimo metodiką;
+Pasiūlyti Lietuvos Respublikos Vyriausybei iki 1995 m. rugpjūčio 1 d.
 
-3) pateikia
+atitinkamai pakeisti priimtus šiuo klausimu norminius aktus, taip pat pateikti
 
-pasiūlymus dėl galiojančių Lietuvos Respublikos
+norminių aktų, būtinų šio įstatymo pakeitimams bei papildymams įgyvendinti,
 
-įstatymų ir  kitų
+projektus.
 
-norminių  aktų pakeitimų  bei papildymų, būtinų
+Straipsnio
 
-šiam įstatymui
+pakeitimai:
 
-įgyvendinti;
+Nr.1-890,
 
-4) nustato šio
+95.05.11, Žin., 1995
 
-įstatymo 2 straipsnyje nurodytos deklaruojamo
+Skelbiu
 
-brangaus turto
-
-įsigijimo kainos dydį atskirais laikotarpiais nuo
-
-1990 m.  kovo 11  d.
-
-iki  šio  įstatymo  įsigaliojimo  dienos  ir
-
-indeksuoja jį,
-
-atsižvelgdama į  vartojimo kainų  pasikeitimus po
-
-įstatymo
-
-įsigaliojimo.
-
-Pasiūlyti
-
-Lietuvos  Respublikos  Vyriausybei  iki  1995  m.
-
-rugpjūčio  1  d.
-
-atitinkamai  pakeisti  priimtus  šiuo  klausimu
-
-norminius aktus,
-
-taip pat  pateikti norminių  aktų,  būtinų  šio
-
-įstatymo pakeitimams
-
-bei papildymams įgyvendinti, projektus.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1995 05 11
-
-įstatymas
-
-Nr.1-890
-
-Žin., 1995, Nr.
-
-1-890
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
+šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
-
-_
+PREZIDENTAS     ALGIRDAS BRAZAUSKAS
 
 11 straipsnis.
 
@@ -874,4 +480,138 @@ Nr.1-1243
 Žin., 1996,
 
 Nr.30-734
+
+3 straipsnis.
+
+Lietuvos Respublikos gyventojų pajamos, atsižvelgiant į šio įstatymo 2
+
+straipsnio nuostatą, deklaruojamos kiekvienu atveju, kai:
+
+1) registruojamas Lietuvos Respublikos įstatymų ir Vyriausybės nustatyta tvarka
+
+privalomas registruoti turtas, įskaitant ir pačių pasistatytus pastatus bei
+
+statinius;
+
+2) įsigyjami vertybiniai popieriai;
+
+3) sumokami pajai ar kitos įmokos įmonėms, įstaigoms, organizacijoms bei
+
+bendrijoms, išskyrus įmokas registruojamam turtui įsigyti;
+
+4) investuojamos lėšos į įmones bei kitus ūkio subjektus;
+
+5) grąžinamos paskolos kredito ir kitoms įstaigoms, įmonėms ar organizacijoms
+
+bei kitiems juridiniams bei fiziniams asmenims;
+
+6) dovanojamos piniginės lėšos, suteikiamos  paskolos juridiniams ar fiziniams
+
+asmenims arba padedami į banką ir kitas kredito įstaigas terminuoti indėliai.
+
+Šiame straipsnyje nurodyto turto arba lėšų įsigijimo (perleidimo) pajamos taip
+
+pat deklaruojamos, kai įsigyto per metus turto įsigijimo rinkos kaina arba
+
+bendra šio straipsnio 2-6 punktuose išvardytų lėšų suma viršijo 30000 litų per
+
+metus. Šiais atvejais pajamos deklaruojamos pasibaigus kalendoriniams metams
+
+iki kitų metų balandžio 1 dienos.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.1-890,
+
+95.05.11, Žin., 1995
+
+Nr.
+
+VIII-167, 97.03.27, Žin., 1997, Nr.28-663 (97.03.29)
+
+4
+
+straipsnis.
+
+Pajamų deklaracija pateikiama jas deklaruojančio asmens nuolatinės gyvenamosios
+
+vietos valstybinei mokesčių inspekcijai.
+
+Kai valstybinė mokesčių inspekcija turi pagrindo įtarti, kad pajamos yra
+
+neteisėtos, apie tai praneša pajamas deklaruojančio asmens gyvenamosios vietos
+
+policijos komisariatui.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.1-890,
+
+95.05.11, Žin., 1995
+
+7 straipsnis.
+
+Valstybinės mokesčių inspekcijos pajamų deklaracijų duomenis naudoja tik
+
+apmokestinimo reikalams ir neturi teisės jų skelbti, išskyrus šio įstatymo 4 ir
+
+11  straipsniuose ir kituose įstatymuose numatytais atvejais.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.1-890,
+
+95.05.11, Žin., 1995
+
+10 straipsnis.
+
+Valstybinės mokesčių  inspekcijos kontroliuoja, kaip įmonės, įstaigos,
+
+organizacijos bei kiti juridiniai ar fiziniai asmenys, registruojantys brangų
+
+turtą, parduodantys vertybinius popierius, taip pat priimantys pajus,
+
+suteikiamas paskolas (įskaitant terminuotus indėlius), investuojamas lėšas ar
+
+kitas įmokas, vykdo šio įstatymo 8 straipsnio reikalavimus, taip pat tikrina
+
+šių institucijų pagal šio įstatymo 12-2 straipsnį pateiktus duomenis.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.1-890,
+
+95.05.11, Žin., 1995
+
+11
+
+straipsnis.
+
+Nustačius, kad šiame įstatyme įvardytas registruojamas brangus turtas įsigytas
+
+nedeklaravus pajamų, per teismą šio turto registravimas panaikinamas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.1-890,
+
+95.05.11, Žin., 1995
+
+12
+
+straipsnis.
+
+Valstybės kontrolės departamentas kontroliuoja, kaip valstybinės mokesčių
+
+inspekcijos vykdo šio įstatymo pavestas funkcijas.
 
