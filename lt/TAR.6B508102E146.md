@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "2001-12-06"
+last_updated: "2002-04-02"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -54,13 +54,11 @@ apmokestinimą akcizais.
 
 2 straipsnis. Akcizų mokėtojai
 
-1. Akcizus į biudžetą moka šio įstatymo 3 straipsnyje
+1. Akcizus į biudžetą moka
 
-išvardytų prekių, išskyrus nurodytas
+šio įstatymo 3 straipsnyje išvardytų prekių, išskyrus nurodytas 3 straipsnio 1
 
-3 straipsnio 1 dalies 12 punkte, gamintojai ir importuotojai – juridiniai ir
-
-fiziniai asmenys.
+dalies 12 punkte, gamintojai ir importuotojai – juridiniai ir fiziniai asmenys.
 
 Už 3 straipsnio 1 dalies 12 punkte nurodytas prekes akcizą Lietuvos Respublikos
 
@@ -71,8 +69,6 @@ verstis mažmenine prekyba suskystintomis dujomis, skirtomis automobilių
 transportui, taip pat kitos įmonės – už savo reikmėms panaudotas suskystintas
 
 dujas, skirtas automobilių transportui, jei už jas akcizas nesumokėtas.
-
-Laisvųjų ekonominių zonų įmonės akcizų nemoka.
 
 2. Už naftos produktus, pagamintus akcinėje bendrovėje
 
@@ -105,6 +101,10 @@ Nr. IX-170, 2001 01 26, Žin., 2001, Nr.
 Nr. IX-441, 2001-07-10, Žin., 2001, Nr.
 
 62-2239 (2001-07-18)
+
+Nr. IX-829,
+
+2002-04-02, Žin., 2002, Nr. 40-1467 (2002-04-17)
 
 3 straipsnis. Akcizų objektas
 
@@ -280,13 +280,11 @@ atlyginimą, laivus, naudojamus valstybės ar savivaldos institucijų funkcijoms
 
 vykdyti, ar žvejybos laivus.
 
-3. Akcizai yra prekių kainos elementas ir
+3. Akcizai yra prekių kainos elementas ir sąskaitose-faktūrose
 
-sąskaitose-faktūrose bei mokėjimo dokumentuose nenurodomi, išskyrus akcizą už
+bei mokėjimo dokumentuose nenurodomi, išskyrus akcizą už cukrų. Akcizas už
 
-cukrų. Akcizas už cukrų nurodomas Lietuvos Respublikos Vyriausybės nustatyta
-
-tvarka.
+cukrų nurodomas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 Straipsnio
 
@@ -390,39 +388,23 @@ didesnė kaip 15 procentų tūrio, – 230 litų už produkto hektolitrą;
 
 procentą faktinės alkoholio koncentracijos, išreikštos tūrio procentais.
 
-8) cigaretėms su filtru ir be filtro – 32 litai už
+*8)
 
-1000 cigarečių;
+cigaretėms su filtru ir be filtro – 36 litai už 1000 cigarečių;
 
-[8
+9) fasuotam rūkomajam
 
-punkto redakcija nuo 2002 m. balandžio 1 d. iki 2002 m. birželio 30 d. imtinai:
+tabakui ir kitiems tabako gaminiams - 50 procentų apmokestinamosios vertės;
 
-8) cigaretėms su filtru ir be filtro – 36 litai už
+*10)
 
-1000 cigarečių;]
+variklių benzinui – 1250 litų už toną;
 
-9) fasuotam rūkomajam tabakui ir kitiems tabako
+*11)
 
-gaminiams - 50 procentų apmokestinamosios vertės;
+reaktyvinių variklių kurui, žibalui, gazoliui (dyzeliniams degalams), skystajam
 
-10) variklių benzinui - 1210 litų už toną;
-
-11) reaktyvinių variklių kurui, žibalui, gazoliui
-
-(dyzeliniams degalams), skystajam krosnių kurui - 560 litų už toną;
-
-[10
-
-ir 11 punktų redakcija nuo 2002 m. sausio 1 d. iki 2002 m. birželio 30 d.
-
-imtinai:
-
-10) variklių benzinui – 1250 litų už toną;
-
-11) reaktyvinių variklių kurui, žibalui, gazoliui
-
-(dyzeliniams degalams), skystajam krosnių kurui – 720 litų už toną;]
+krosnių kurui – 720 litų už toną;
 
 12) visų rūšių tepalams - 240 litų už toną;
 
@@ -432,25 +414,21 @@ kakavos, išskyrus kakavos miltelius ir produktus, turinčius mažiau kaip 18
 
 procentų masės kakavos sviesto, - 10 procentų apmokestinamosios vertės;
 
-14) kavai - 10 procentų apmokestinamosios vertės;
+*14) kavai –
 
-[14
+15 procentų apmokestinamosios vertės;
 
-punkto redakcija nuo 2002 m. sausio 1 d. iki 2002 m. birželio 30 d. imtinai:
+15) bižuterijai ir jos
 
-14) kavai – 15 procentų apmokestinamosios vertės;]
+dalims iš tauriųjų metalų arba metalų, plakiruotų tauriaisiais metalais, aukso
 
-15) bižuterijai ir jos dalims iš tauriųjų metalų arba
+arba sidabro dailiadirbystės dirbiniams ir jų dalims iš tauriųjų metalų arba
 
-metalų, plakiruotų tauriaisiais metalais, aukso arba sidabro dailiadirbystės
+metalų, plakiruotų tauriaisiais metalais, dirbiniams iš natūraliu arba
 
-dirbiniams ir jų dalims iš tauriųjų metalų arba metalų, plakiruotų tauriaisiais
+dirbtiniu būdu išaugintų perlų, brangiųjų arba pusbrangių akmenų - natūralių,
 
-metalais, dirbiniams iš natūraliu arba dirbtiniu būdu išaugintų perlų,
-
-brangiųjų arba pusbrangių akmenų - natūralių, sintetinių arba regeneruotų - 10
-
-procentų apmokestinamosios vertės;
+sintetinių arba regeneruotų - 10 procentų apmokestinamosios vertės;
 
 16) ne senesniems kaip 5 metų prabangiems
 
@@ -484,23 +462,15 @@ dėl nedidelės kainos gali būti vartojami kaip alkoholinių gėrimų pakaitala
 
 litrą preparato;
 
-21) mazutui ir orimulsijai - 20 litų už toną;
+*21) mazutui
 
-22) suskystintoms dujoms, skirtoms automobilių
+– 45 litai už toną;
 
-transportui, – 170 litų už vieną tūkstantį litrų.
+*22)
 
-[21
+suskystintoms dujoms, skirtoms automobilių transportui, – 200 litų už vieną
 
-ir 22 punktų redakcija nuo 2002 m. sausio 1 d. iki 2002 m. birželio 30 d.
-
-imtinai:
-
-21) mazutui – 45 litai už toną;
-
-22) suskystintoms dujoms, skirtoms automobilių
-
-transportui, – 200 litų už vieną tūkstantį litrų.]
+tūkstantį litrų.
 
 2. (Neteko galios).
 
@@ -538,6 +508,12 @@ procentų tūrio ir kurio temperatūra yra 20 °C.
 
 akcizo už alų apskaičiavimo pagal faktinę alkoholio koncentraciją taisykles.
 
+*Pastaba. 8,
+
+10 ,11, 14, 21 ir22 punktų redakcijos galioja iki 2002 m. birželio 30 d.
+
+imtinai.
+
 Įstatymas papildytas straipsniu:
 
 Nr. VIII-982,
@@ -560,9 +536,9 @@ Nr. IX-170, 2001 01 26, Žin., 2001, Nr.
 
 14-425 (2001 02 14), įsigalioja nuo 2001 03 01
 
-Nr. IX-309, 2001 05 08, Žin., 2001, Nr. 43-1489
+Nr. IX-309, 2001 05 08, Žin., 2001, Nr.
 
-(2001 05 23), įsigalioja nuo 2001 06 01
+43-1489 (2001 05 23), įsigalioja nuo 2001 06 01
 
 Nr. IX-332, 2001 05 17, Žin., 2001, Nr.
 
@@ -600,9 +576,9 @@ išreikšta tūrio procentais, yra didesnė kaip 1,2 procento tūrio, bet ne did
 
 kaip 18 procentų tūrio ir yra gauta tik fermentacijos būdu.
 
-4. Putojantis vynas iš šviežių vynuogių – alkoholinis
+4. Putojantis vynas iš šviežių vynuogių –
 
-gėrimas, kuris klasifikuojamas
+alkoholinis gėrimas, kuris klasifikuojamas
 
 KPN 2204.10, 2204.21.10 ir 2204.29.10 subpozicijose bei 22.05 pozicijoje, jeigu
 
@@ -694,15 +670,15 @@ gaminti šiuos gėrimus;
 
 importo muitų pagal Lietuvos Respublikos muitų tarifų įstatymą.
 
-9) orlaivių variklių kuras (kodus pagal KPN nustato Vyriausybė),
+9) orlaivių variklių kuras (kodus pagal KPN nustato
 
-kurį importuoja ar įsigyja iš Lietuvos gamintojų įmonės, turinčios licenciją
+Vyriausybė), kurį importuoja ar įsigyja iš Lietuvos gamintojų įmonės, turinčios
 
-verstis naftos produktų importu, prekyba ar eksportu, jeigu šioje licencijoje
+licenciją verstis naftos produktų importu, prekyba ar eksportu, jeigu šioje
 
-nurodyta, kad įmonė verčiasi orlaivių (lėktuvų) pripildymu, taip pat nurodyti
+licencijoje nurodyta, kad įmonė verčiasi orlaivių (lėktuvų) pripildymu, taip
 
-šio kuro kodai pagal KPN;
+pat nurodyti šio kuro kodai pagal KPN;
 
 10) Lietuvos
 
@@ -762,15 +738,15 @@ akcizo alui tarifas. Šiame įstatyme mažąja alaus darykla, kuriai taikoma ši
 
 lengvata, laikoma per kalendorinius metus ne daugiau kaip 800 tūkst. dekalitrų
 
-alaus pagaminanti teisiškai ir ekonomiškai nuo jokios kitos alaus daryklos nepriklausanti
+alaus pagaminanti teisiškai ir ekonomiškai nuo jokios kitos alaus daryklos
 
-alaus darykla, kurios gamybinės patalpos yra fiziškai atskirtos nuo bet kokios
+nepriklausanti alaus darykla, kurios gamybinės patalpos yra fiziškai atskirtos
 
-kitos alaus daryklos ir kuri nevykdo savo veiklos pagal kitos įmonės suteiktą
+nuo bet kokios kitos alaus daryklos ir kuri nevykdo savo veiklos pagal kitos
 
-licenciją. Šios lengvatos taikymo tvarką nustato Lietuvos Respublikos
+įmonės suteiktą licenciją. Šios lengvatos taikymo tvarką nustato Lietuvos
 
-Vyriausybė ar jos įgaliota institucija.
+Respublikos Vyriausybė ar jos įgaliota institucija.
 
 4. Degtinei, kurios alkoholio koncentracija didesnė
 
@@ -820,35 +796,29 @@ Nr. IX-167, 2001 01 25, Žin., 2001,
 
 Nr. 16-494 (2001 02 21), įsigalioja nuo 2002 01 01
 
-Nr. IX-332,
+Nr. IX-332, 2001 05 17, Žin., 2001, Nr. 45-1575 (2001 05 30),
 
-2001 05 17, Žin., 2001, Nr. 45-1575 (2001 05 30), įsigalioja nuo 2001 06 01
+įsigalioja nuo 2001 06 01
 
-Nr. IX-592,
+Nr. IX-592, 2001-11-13, Žin., 2001, Nr.
 
-2001-11-13, Žin., 2001, Nr. 99-3526 (2001-11-28)
+99-3526 (2001-11-28)
 
-[Įstatymas
+*6(1) straipsnis. Akcizo už kurą, naudojamą
 
-papildomas 6(1) straipsniu nuo 2002 m. sausio 1 d. ir galioja
+žemės ūkyje ir vidaus vandenų
 
-iki 2002 m. birželio 30 d. imtinai:
-
-6(1) straipsnis. Akcizo už kurą, naudojamą
-
-žemės ūkyje ir vidaus vandenų žuvininkystėje,
-
-grąžinimas
+žuvininkystėje, grąžinimas
 
 1. Žemės ūkio subjektams, registruotiems Vyriausybės
 
 nustatyta tvarka, akcizas už jų įsigytus gazolius ir (arba) jų pakaitalus,
 
-skirtus naudoti kaip degalai (variklių kuras) žemės ūkyje ir (arba) vidaus
+skirtus naudoti kaip degalai (variklių kuras) žemės ūkyje ir (arba) vidaus vandenų
 
-vandenų žuvininkystėje, yra grąžinamas. Grąžinama akcizų suma apskaičiuojama
+žuvininkystėje, yra grąžinamas. Grąžinama akcizų suma apskaičiuojama pagal
 
-pagal žemės ūkio subjektų įsigytą gazolių ir (arba) jų pakaitalų kiekį, tačiau
+žemės ūkio subjektų įsigytą gazolių ir (arba) jų pakaitalų kiekį, tačiau
 
 neviršijant:
 
@@ -864,13 +834,15 @@ tvenkiniuose ir kituose vidaus vandenyse sugautų ir realizuotų žuvų.
 
 2. Akcizo grąžinimo tvarką nustato Vyriausybė ar jos
 
-įgaliota institucija.]
+įgaliota institucija.
+
+*Pastaba. 6(1)
+
+straipsnio redakcija galioja iki 2002 m. birželio 30 d. imtinai.
 
 Įstatymas papildytas straipsniu:
 
-Nr. IX-592,
-
-2001-11-13, Žin., 2001, Nr. 99-3526 (2001-11-28)
+Nr. IX-592, 2001-11-13, Žin., 2001, Nr. 99-3526 (2001-11-28)
 
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
 
@@ -924,7 +896,9 @@ pateikti akcizų apyskaitą.
 
 mėnesinė akcizų suma buvo didesnė kaip 50 tūkst. litų, akcizus moka:
 
-1) iki mėnesio 30 dienos - už mėnesio pirmąjį dešimtadienį;
+1) iki mėnesio 30 dienos - už mėnesio pirmąjį
+
+dešimtadienį;
 
 2) iki kito mėnesio 10 dienos - už mėnesio antrąjį
 
@@ -970,15 +944,15 @@ grąžinimas
 
 Prašymas grąžinti nepagrįstai sumokėtus (išieškotus)
 
-akcizus gali būti pateiktas per dvejus metus nuo akcizo sumokėjimo
+akcizus gali būti pateiktas per dvejus metus nuo akcizo sumokėjimo (išieškojimo)
 
-(išieškojimo) dienos. Nepagrįstai sumokėtas (išieškotas) akcizų sumas
+dienos. Nepagrįstai sumokėtas (išieškotas) akcizų sumas (įskaitant teritorinių
 
-(įskaitant teritorinių muitinių teikimais pripažintas grąžintinomis importo
+muitinių teikimais pripažintas grąžintinomis importo akcizų sumas) grąžina
 
-akcizų sumas) grąžina teritorinės valstybinės mokesčių inspekcijos Mokesčių
+teritorinės valstybinės mokesčių inspekcijos Mokesčių administravimo įstatymo
 
-administravimo įstatymo nustatyta tvarka.
+nustatyta tvarka.
 
 12 straipsnis. Sankcijos už įstatymų pažeidimus
 
@@ -994,9 +968,9 @@ taiko baudas Mokesčių administravimo įstatymo nustatyta tvarka.
 
 2. Jeigu nesilaikoma Muitinės kodekso nustatytos
 
-muitinės sankcionuotų veiksmų atlikimo tvarkos ir dėl to atsiranda importo
+muitinės sankcionuotų veiksmų atlikimo tvarkos ir dėl to atsiranda importo skola
 
-skola muitinei, delspinigiai pradedami skaičiuoti nuo importo skolos muitinei
+muitinei, delspinigiai pradedami skaičiuoti nuo importo skolos muitinei
 
 atsiradimo dienos.
 
@@ -1030,7 +1004,9 @@ Pakeitimai:
 
 1.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. I-767,
 
@@ -1100,17 +1076,15 @@ LIETUVOS RESPUBLIKOS AKCIZŲ
 
 5.
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. I-1307,
 
 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
 
-LIETUVOS RESPUBLIKOS AKCIZŲ
+LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO
 
-ĮSTATYMO 8(1), 8(2), 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+8(1), 8(2), 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja nuo 1996
 
@@ -1204,9 +1178,9 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 5(1) STRAIPSNIU ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1321, 99.07.08, Žin., 1999, Nr.66-2132
+Nr. VIII-1321, 99.07.08, Žin., 1999,
 
-(99.07.30)
+Nr.66-2132 (99.07.30)
 
 AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
@@ -1282,9 +1256,9 @@ d.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1814, 00.07.11, Žin., 2000,
+Nr. VIII-1814, 00.07.11, Žin., 2000, Nr.61-1820
 
-Nr.61-1820 (00.07.26)
+(00.07.26)
 
 AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
@@ -1370,13 +1344,15 @@ Nr. IX-332, 2001 05 17, Žin., 2001, Nr.
 
 45-1575 (2001 05 30)
 
-AKCIZŲ ĮSTATYMO 5(1), 6 STRAIPSNIŲ
+AKCIZŲ ĮSTATYMO 5(1), 6
 
-PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 5(2) STRAIPSNIU ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 5(2) STRAIPSNIU
 
-Šis įstatymas, išskyrus 5
+ĮSTATYMAS
 
-straipsnį, įsigalioja nuo 2001 m. birželio 1 d.
+Šis įstatymas, išskyrus 5 straipsnį,
+
+įsigalioja nuo 2001 m. birželio 1 d.
 
 22.
 
@@ -1444,13 +1420,29 @@ AKCIZŲ
 
 birželio 30 d. imtinai.
 
+25.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-829,
+
+2002-04-02, Žin., 2002, Nr. 40-1467 (2002-04-17)
+
+AKCIZŲ
+
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2001-12-21)
+Aušrinė Trapinskienė (2002-04-17)
 
 autrap@lrs.lt
 
