@@ -4,7 +4,7 @@ identifier: "TAR.8F9A7A777267"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-03-28"
-last_updated: "1997-10-07"
+last_updated: "1998-03-26"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8F9A7A777267"
 department: "Lietuvos Respublikos Seimas"
@@ -16,11 +16,11 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.10.24)
+Ramunė Lūžaitė (1998.04.30)
 
 Įstatymas
 
@@ -76,6 +76,22 @@ RESPUBLIKOS ENERGETIKOS ĮSTATYMO 1, 9, 11, 12, 16, 17, 19, 20 IR 22 STRAIPSNIŲ
 
 PAKEITIMO IR PAPILDYMO
 
+4.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
+
+LIETUVOS
+
+RESPUBLIKOS ENERGETIKOS ĮSTATYMO 1, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15 IR 17
+
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -96,23 +112,21 @@ I skirsnis. BENDROJI DALIS
 
 straipsnis. Sąvokos ir apibrėžimai
 
-Šiame
+Šiame įstatyme vartojamos sąvokos:
 
-įstatyme vartojamos sąvokos:
+energetika - ūkio dalis, kuri apima energijos
 
-energetika - ūkio dalis,
+išteklių žvalgymą, gavybą, transportavimą ir laikymą, įvairių energijos rūšių
 
-kuri apima energijos išteklių žvalgymą, gavybą, transportavimą ir laikymą,
+gamybą, transformavimą, paskirstymą, perdavimą, prekybą bei energijos
 
-įvairių energijos rūšių gamybą, transformavimą, paskirstymą, perdavimą, prekybą
+naudojimą;
 
-bei energijos naudojimą;
+energetikos sistema - tai energetikos įmonių
 
-energetikos sistema - tai energetikos įmonių (bendrovių), susijusių
+(bendrovių), susijusių techniniais, organizaciniais arba (ir) ekonominiais
 
-techniniais, organizaciniais arba (ir) ekonominiais ryšiais ir darbo režimo
-
-funkcijomis, visuma;
+ryšiais ir darbo režimo funkcijomis, visuma;
 
 energetikos sektorius - tai
 
@@ -120,61 +134,55 @@ energetikos dalis, susijusi su kuria nors energijos išteklių ar energijos
 
 rūšimi: kuru, elektra, šiluma;
 
-pirminiai energijos
+pirminiai energijos ištekliai - tai
 
-ištekliai - tai gamtos ištekliai, kurie gali būti tiesiogiai naudojami
+gamtos ištekliai, kurie gali būti tiesiogiai naudojami kurui (skalūnai, anglys,
 
-kurui (skalūnai, anglis, durpės, biomasė, degiosios dujos) arba energijai
+durpės, biomasė, degiosios dujos) arba energijai gaminti (branduolinis kuras,
 
-gaminti (branduolinis kuras, nafta, hidroenergija, saulės, vėjo ar geoterminė
+nafta, hidroenergija, saulės, vėjo ar geoterminė energija);
 
-energija);
+atsinaujinantys energijos ištekliai - tai
 
-atsinaujinantys energijos ištekliai - tai savaime atsikuriantys ar
+savaime atsikuriantys ar atkuriami gamtos ištekliai: hidroenergetika, mediena,
 
-atkuriami gamtos ištekliai: hidroenergetika, mediena, biomasė, kurie gali būti
+biomasė, kurie gali būti panaudoti energetikos tikslams;
 
-panaudoti energetikos tikslams;
+atliekiniai energijos ištekliai - bet kokio
 
-šalutiniai energijos
+technologinio proceso metu gaunama energija transformuojant pirminę energiją
 
-ištekliai - bet kokio technologinio proceso metu gaunama energija
+arba kitą energiją, kuri nepanaudojama tam technologiniam procesui;
 
-transformuojant pirminę energiją arba kitą energiją, kuri nepanaudojama tam
+energetikos efektyvumas - tai visų energijos
 
-technologiniam procesui;
+rūšių gamyba ir naudojimas pažangiausiais būdais;
 
-energetikos efektyvumas -
+energetikos įmonė - ekonomiškai ir
 
-tai visų energijos rūšių gamyba ir naudojimas pažangiausiais būdais;
+juridiškai įteisintas savarankiškas ūkio subjektas, kurio vienas ar keli
 
-energetikos įmonė -
+pagrindiniai tikslai yra energetinė veikla;
 
-ekonomiškai ir juridiškai įteisintas savarankiškas ūkio subjektas, kurio vienas
+energetinė veikla - tai veikla, susijusi su
 
-ar keli pagrindiniai tikslai yra energetinė veikla;
+energijos išteklių žvalgymu, gavyba, transportavimu, paskirstymu, energijos
 
-energetinė veikla - tai
+gamyba, perdavimu, prekyba ar energetikos įrenginių eksploatavimu;
 
-veikla, susijusi su energijos išteklių žvalgymu, gavyba,
+energetikos įrenginių (elektros, šilumos,
 
-transportavimu,paskirstymu, energijos gamyba, perdavimu, prekyba ar energetikos
+dujų, naftos) eksploatavimas - tai įrenginių technologinis valdymas,
 
-įrenginių aptarnavimu;
-
-energetikos įrenginių
-
-(elektros, šilumos, dujų, naftos) aptarnavimas - įrenginių technologinis
-
-valdymas, eksploatavimas, remontas, matavimai, bandymai, paleidimo ir derinimo
+techninė priežiūra, remontas, matavimai, bandymai, paleidimo ir derinimo
 
 darbai;
 
-energetikos standartai ir
+energetikos standartai ir normos - tai
 
-normos - tai nustatyta tvarka patvirtintos   pajėgumų, gaminių, statinių ir
+nustatyta tvarka patvirtintos pajėgumų, gaminių, statinių ir įrenginių,
 
-įrenginių, naudojamų energetinėje veikloje, statinės ir dinaminės techninės
+naudojamų energetinėje veikloje, statinės ir dinaminės techninės
 
 charakteristikos bei energijos ir energetinių žaliavų kokybę reglamentuojantys
 
@@ -187,6 +195,10 @@ pakeitimai:
 Nr.
 
 VIII-433, 97.10.07, Žin., 1997, Nr.96-2425 (97.10.24)
+
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
 
 2
 
@@ -236,9 +248,9 @@ būtinumą;
 
 5)
 
-gamintojų ir vartotojų skatinimas efektyviai naudoti vietinius,
+gamintojų ir vartotojų skatinimas efektyviai naudoti vietinius, atsinaujinančius
 
-atsinaujinančius ir antrinius energijos išteklius;
+ir atliekinius energijos išteklius;
 
 6)
 
@@ -260,6 +272,14 @@ konkurencijos ir privataus kapitalo dalyvavimo skatinimas ekonominiam
 
 efektyvumui didinti.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
+
 II skirsnis. ENERGIJOS IŠTEKLIŲ NAUDOJIMAS
 
 4
@@ -268,9 +288,9 @@ straipsnis. Pagrindinės energijos išteklių naudojimo nuostatos
 
 Energijos
 
-išteklių ir energijos naudojimo tvarką tvirtina Lietuvos Respublikos
+išteklių ir energijos naudojimo tvarką tvirtina Lietuvos Respublikos Vyriausybė
 
-Vyriausybė.
+arba jos įgaliota institucija.
 
 Energijos
 
@@ -284,29 +304,45 @@ išteklių gavyba ir energijos gamyba bei naudojimas yra valstybinės priežiūr
 
 objektas.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
+
 5
 
 straipsnis. Energetinės veiklos poįstatyminių aktų tvirtinimo tvarka
 
 Energetinės
 
-veiklos poįstatyminius aktus tvirtina Lietuvos Respublikos Vyriausybė  arba
+veiklos poįstatyminius aktus tvirtina Lietuvos Respublikos Vyriausybė arba jos
 
-kitos  institucijos Vyriausybės nustatyta tvarka.
+įgaliota institucija.
 
-Įmonės,
+Įmonės, įstaigos, organizacijos ir gyventojai
 
-įstaigos, organizacijos ir gyventojai (energijos gamintojai, tiekėjai  ir
+(energijos gamintojai, tiekėjai ir vartotojai), be šio įstatymo, privalo
 
-vartotojai), be šio įstatymo, privalo laikytis ir kitų norminių aktų (įrengimo,
+laikytis ir kitų norminių aktų (įrengimo, eksploatavimo, darbų saugos,
 
-eksploatavimo, darbų saugos, darbuotojų mokymo bei atestavimo taisyklių ir
+darbuotojų mokymo bei atestavimo taisyklių ir pan.), kurie reglamentuoja
 
-pan.), kurie  reglamentuoja  techninius,  eksploatacijos  ir  kitus energetikos
+techninius, eksploatacijos ir kitus energetikos klausimus. Šiuos norminius
 
-klausimus. Šiuos norminius aktus tvirtina Energetikos ministerija arba kitos
+aktus tvirtina Ūkio ministerija arba kitos Lietuvos valstybės institucijos
 
-Lietuvos valstybės institucijos pagal savo kompetenciją.
+pagal savo kompetenciją.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
 
 6
 
@@ -320,15 +356,25 @@ bei naudojimo priemonės, sudaromas energijos taupymo fondas.
 
 Fondo
 
-lėšos naudojamos energijos taupymo ir efektyvaus naudojimo programoms
+lėšos naudojamos energijos taupymo ir efektyvaus naudojimo programoms finansuoti,
 
-finansuoti, vietinių, atsinaujinančių ir antrinių energijos  išteklių
+vietinių, atsinaujinančių ir atliekinių energijos išteklių naudojimo
 
-naudojimo  priemonėms  diegti, eksploatuoti ir plėtoti.
+priemonėms diegti, eksploatuoti ir plėtoti.
 
-Pradinį
+Pradinis fondo įnašas formuojamas Vyriausybės
 
-fondo įnašą formuoja ir fondo nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+nustatyta tvarka. Fondo nuostatus tvirtina Vyriausybė arba jos įgaliota
+
+institucija.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
 
 7
 
@@ -354,15 +400,23 @@ straipsnis. Energijos vartotojų teisės ir pareigos
 
 Energijos
 
-vartotojai  naudoja  energiją  vadovaudamiesi Lietuvos  Respublikos
+vartotojai naudoja energiją vadovaudamiesi Lietuvos Respublikos Vyriausybės arba
 
-Vyriausybės  patvirtintais  norminiais dokumentais.
+jos įgaliotos institucijos patvirtintais norminiais dokumentais.
 
 Energijos
 
 vartotojų  teises gina  Lietuvos  Respublikos vartotojų teisių gynimo įstatymas
 
 ir kiti teisiniai aktai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
 
 III skirsnis. ENERGETIKOS STRATEGIJA IR
 
@@ -410,9 +464,9 @@ kaip kas 5 metai.
 
 Nacionalinės
 
-energetikos strategijos rengimas gali būti finansuojamas iš  valstybės lėšų.
+energetikos strategijos rengimas gali būti finansuojamas iš valstybės lėšų. Už
 
-Už jos parengimą atsako Energetikos ministerija.
+jos parengimą ir vykdymo kontrolę atsako Ūkio ministerija.
 
 Nacionalinę
 
@@ -444,65 +498,9 @@ Nr.
 
 VIII-433, 97.10.07, Žin., 1997, Nr.96-2425 (97.10.24)
 
-10
-
-straipsnis. Investicijos
-
-Valstybinės
-
-reikšmės  energetikos  objektai  statomi vadovaujantis Nacionaline energetikos
-
-strategija. Jie gali būti finansuojami iš įvairių šaltinių konkurso būdu.
-
-Valstybinio kapitalo dydis  turi garantuoti valstybei kontrolinį akcijų paketą.
-
-Savivaldybių
-
-ir kitų vietinės reikšmės bei energetikos objektų finansavimu, energetinės
-
-veiklos plėtimu rūpinasi miestų (rajonų) savivaldybės, energijos tiekėjai arba
-
-(ir) vartotojai, privatūs investitoriai.
-
-11
-
-straipsnis. Kuro atsargos
-
-Energijos
-
-tiekimo patikimumui didinti energetikos įmonėse sudaromos ūkinės kuro atsargos.
-
-Jos privalo būti ne mažesnės už tą kuro kiekį, kuris reikalingas 2 mėnesių
-
-energijos poreikiams tenkinti.
-
-Kuro
-
-valstybinių atsargų sudarymo, saugojimo, naudojimo ir jo apskaitos tvarką
-
-nustato Lietuvos Respublikos Vyriausybė. Už kuro valstybinių atsargų sudarymą
-
-ir naudojimą atsako Ūkio ministerija.
-
-Lietuvos
-
-Respublikos  Vyriausybė  skiria  lėšų  kuro valstybinėms atsargoms sudaryti ir
-
-saugoti.
-
-Energijos
-
-gamintojai,  atsižvelgdami į  objekto svarbą, privalo turėti rezervinio arba
-
-avarinio kuro.
-
-Straipsnio
-
-pakeitimai:
-
 Nr.
 
-VIII-433, 97.10.07, Žin., 1997, Nr.96-2425 (97.10.24)
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
 
 1 straipsnis.
 
@@ -1030,91 +1028,67 @@ Investicijos
 
 Valstybinės
 
-reikšmės    energetikos    objektai    statomi
+reikšmės  energetikos  objektai  statomi vadovaujantis Nacionaline energetikos
 
-vadovaujantis
+strategija. Jie gali būti finansuojami iš įvairių šaltinių konkurso būdu.
 
-Nacionaline  energetikos strategija.  Jie gali būti
+Valstybinio kapitalo dydis  turi garantuoti valstybei kontrolinį akcijų paketą.
 
-finansuojami  iš
+Savivaldybių ir
 
-įvairių  šaltinių  konkurso  būdu.  Valstybinio
+kitų vietinės reikšmės bei energetikos objektų finansavimu, energetinės veiklos
 
-kapitalo  dydis
+plėtimu rūpinasi miestų (rajonų) savivaldybės, energijos tiekėjai arba (ir)
 
-turi  garantuoti  valstybei  kontrolinį  akcijų
-
-paketą.
-
-Savivaldybių  ir
-
-kitų  vietinės  reikšmės  bei  energetikos
-
-objektų
-
-finansavimu,  energetinės veiklos plėtimu rūpinasi miestų
-
-(rajonų)
-
-savivaldybės,  energijos tiekėjai  arba (ir) vartotojai,
-
-privatūs
-
-investitoriai.
+vartotojai, privatūs investitoriai.
 
 11 straipsnis.
 
 Kuro atsargos
 
-Energijos tiekimo
+Energijos
 
-patikimumui didinti  energetikos  įmonėse
+tiekimo patikimumui didinti energetikos įmonėse sudaromos ūkinės kuro atsargos.
 
-sudaromos ūkinės
+Jos privalo būti ne mažesnės už tą kuro kiekį, kuris reikalingas 2 mėnesių
 
-kuro atsargos.  Jos privalo būti ne mažesnės už
+energijos poreikiams tenkinti.
 
-tą kuro  kiekį,
+Kuro valstybinių atsargų sudarymo,
 
-kuris  reikalingas 2 mėnesių energijos poreikiams
+saugojimo, naudojimo ir jo apskaitos tvarką nustato Lietuvos Respublikos
 
-tenkinti.
+Vyriausybė arba jos įgaliota institucija. Už kuro valstybinių atsargų
 
-Kuro
-
-valstybinių  atsargų sudarymo,  saugojimo, naudojimo ir
-
-jo apskaitos  tvarką
-
-nustato  Lietuvos Respublikos Vyriausybė. Už
-
-kuro  valstybinių
-
-atsargų  sudarymą   ir     naudojimą   atsako
-
-Energetikos
-
-ministerija.
+sudarymą ir naudojimą atsako Ūkio ministerija.
 
 Lietuvos
 
-Respublikos    Vyriausybė   skiria    lėšų   kuro
+Respublikos  Vyriausybė  skiria  lėšų  kuro valstybinėms atsargoms sudaryti ir
 
-valstybinėms
-
-atsargoms sudaryti ir saugoti.
+saugoti.
 
 Energijos
 
-gamintojai,   atsižvelgdami  į   objekto  svarbą,
+gamintojai,  atsižvelgdami į  objekto svarbą, privalo turėti rezervinio arba
 
-privalo turėti
+avarinio kuro.
 
-rezervinio arba avarinio kuro.
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-433, 97.10.07, Žin., 1997, Nr.96-2425 (97.10.24)
+
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
 
 12 straipsnis.
 
-Atsinaujinančių ir šalutinių energijos išteklių
+Atsinaujinančių ir atliekinių energijos išteklių
 
 naudojimas
 
@@ -1122,11 +1096,11 @@ Valstybė (savivaldybė), formuodama mokesčių
 
 politiką, teikdama lengvatinius kreditus, subsidijas, skatina atsinaujinančių
 
-ir šalutinių energijos išteklių efektyvų naudojimą.
+ir atliekinių energijos išteklių efektyvų naudojimą.
 
 Ūkio ministerija atsako už atsinaujinančių ir
 
-šalutinių energijos išteklių naudojimą.
+atliekinių energijos išteklių naudojimą.
 
 Jeigu atsinaujinančių energijos išteklių
 
@@ -1138,21 +1112,13 @@ atsiskaitoma pagal sutartines kainas bei tarifus. Prijungimo prie energetikos
 
 tinklų tvarką ir sąlygas nustato Ūkio ministerija.
 
-Vietinių, atsinaujinančių ir šalutinių
+Naudoti vidaus vandenų potencinę energiją,
 
-energijos išteklių efektyvaus naudojimo priemonėms įgyvendinti suteikiami
+jei tai susiję su upės užtvenkimu arba jos vagos pakeitimu, galima tik gavus
 
-kreditai. Lietuvos Respublikos Vyriausybė nustato kreditų teikimo ir grąžinimo
+leidimą. Leidimas išduodamas Vandens įstatymo nustatyta tvarka. Geoterminę
 
-tvarką.
-
-Vidaus vandenų potencinę energiją, jei tai
-
-susiję su upės užtvenkimu arba jos vagos pakeitimu, ir geoterminę energiją
-
-galima naudoti tik gavus licenciją, kuri išduodama Lietuvos Respublikos
-
-Vyriausybės nustatyta tvarka.
+energiją galima naudoti tik Žemės gelmių įstatymo nustatyta tvarka.
 
 Straipsnio
 
@@ -1162,6 +1128,10 @@ Nr.
 
 VIII-433, 97.10.07, Žin., 1997, Nr.96-2425 (97.10.24)
 
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
+
 IV skirsnis. ENERGETIKOS TVARKYMO PAGRINDAI
 
 13
@@ -1170,11 +1140,11 @@ straipsnis. Nuosavybė
 
 Visi
 
-pirminiai energijos ištekliai, esantys Lietuvos žemės gelmėse ir kontinentiniame
+pirminiai energijos ištekliai, esantys Lietuvos Respublikos sausumoje, jos kontinentinio
 
-šelfe Baltijos jūroje, yra išimtinė valstybės nuosavybė. Jie naudojami pagal
+šelfo ir ekonominės zonos Baltijos jūroje žemės gelmėse, yra išimtinė valstybės
 
-Lietuvos Respublikos Vyriausybės nustatyta tvarka suteiktas licencijas.
+nuosavybė. Jie naudojami Žemės gelmių įstatymo nustatyta tvarka.
 
 Energetikos
 
@@ -1184,29 +1154,31 @@ išskyrus valstybinės reikšmės energetikos įmones, kurių sąrašus tvirtina
 
 Lietuvos Respublikos Seimas Vyriausybės teikimu.
 
-Lietuvos
+Energetikos
 
-Respublikos  teritorijoje gali būti steigiamos valstybinės, privačios, bendros
+įmonių ir objektų buvimo Lietuvos Respublikos teritorijoje sąlygas
 
-Lietuvos ir užsienio valstybių, taip pat užsienio valstybių nuosavybės
+reglamentuoja Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija,
 
-energetikos įmonės ir objektai. Jų buvimo Lietuvos Respublikos teritorijoje
+remdamasi Lietuvos Respublikos Konstitucija, šiuo ir kitais Lietuvos
 
-sąlygas reglamentuoja Lietuvos Respublikos Vyriausybė, remdamasi Lietuvos
+Respublikoje galiojančiais įstatymais, tarpvalstybinėmis sutartimis.
 
-Respublikos Konstitucija, šiuo ir kitais Lietuvos Respublikoje galiojančiais
+Draudžiama steigti, parduoti ar perduoti energetikos įmones bei suteikti
 
-įstatymais, tarpvalstybinėmis sutartimis.
+leidimus energijos ištekliams eksploatuoti užsienio valstybių juridiniams ar
 
-Draudžiama
+fiziniams asmenims, jeigu tai gali pakenkti Lietuvos Respublikos interesams
 
-steigti, parduoti ar perduoti energetikos įmones bei suteikti  licencijas
+arba didina jos priklausomybę nuo užsienio valstybių energetikos monopolio.
 
-energijos  ištekliams  eksploatuoti užsienio valstybių juridiniams ar fiziniams
+Straipsnio
 
-asmenims, jeigu tai gali pakenkti Lietuvos Respublikos interesams arba didina
+pakeitimai:
 
-jos priklausomybę nuo užsienio valstybių energetikos monopolio.
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
 
 14
 
@@ -1214,9 +1186,9 @@ straipsnis. Žemės suteikimas naudotis ir nuomojimas
 
 Žemė
 
-energijos gamybos ir perdavimo objektams statyti ir plėsti, elektros linijoms ir
+energijos gamybos ir perdavimo objektams statyti ir plėsti, elektros linijoms
 
-vamzdynams bei kitiems įrenginiams statyti suteikiama naudotis ar nuomojama
+ir vamzdynams bei kitiems įrenginiams statyti suteikiama naudotis ar nuomojama
 
 žemės įstatymų ir poįstatyminių aktų nustatyta tvarka.
 
@@ -1234,7 +1206,7 @@ Energetikos
 
 objektų, elektros tiekimo linijų ir vamzdynų apsaugos taisykles tvirtina
 
-Lietuvos Respublikos Vyriausybė.
+Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
 
 Žemės
 
@@ -1242,15 +1214,23 @@ naudojimo ribojimo konkrečios sąlygos ir kompensacija už galimus nuostolius d
 
 tokio ribojimo įforminamos rašytine, notariškai tvirtinama sutartimi, sudaroma
 
-tarp žemės savininko ar kito žemės naudotojo ir energetikos sistemos (įmonės). Žemės
+tarp žemės savininko ar kito žemės naudotojo ir energetikos sistemos (įmonės).
 
-savininkų ir energetikos sistemų (įmonių) sutartys dėl žemės naudojimo
+Žemės savininkų ir energetikos sistemų (įmonių) sutartys dėl žemės naudojimo
 
 įsigalioja įregistravus jas Valstybinio žemės kadastro duomenų registre. Šiose
 
 sutartyse nustatyti žemės naudojimo apribojimai turi atitikti energetikos
 
 objektų, elektros tiekimo linijų ir vamzdynų apsaugos taisyklių reikalavimus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
 
 13 straipsnis.
 
@@ -1420,15 +1400,17 @@ apsaugos taisyklių reikalavimus.
 
 15 straipsnis. Kainos, kainodara ir energetinės veiklos kontrolė
 
-Kuro ir energijos kainos nustatomos įvertinus būtinas išlaidas kuro gavybai,
+Kuro ir energijos kainos nustatomos
 
-energijos gamybai, pirkimui, transportavimui ir energetikos plėtrai. Kainos
+įvertinus būtinas išlaidas kuro gavybai, energijos gamybai, pirkimui,
 
-turi atitikti kuro ir energijos kokybę, skatinti efektyvią energijos gamybą,
+transportavimui ir energetikos plėtrai. Kainos turi atitikti kuro ir energijos
 
-patikimą tiekimą, taupų jos naudojimą ir tiekimo nuostolių mažinimą bei
+kokybę, skatinti efektyvią energijos gamybą, patikimą tiekimą, taupų jos
 
-antrinių energijos šaltinių naudojimą.
+naudojimą ir tiekimo nuostolių mažinimą bei atliekinių energijos šaltinių
+
+naudojimą.
 
 Elektros energijos, centralizuotos šilumos bei gamtinių dujų kainos gali būti
 
@@ -1488,9 +1470,9 @@ kokybę, jos atitikimą standartams, kontroliuoti prekybą energetinėmis
 
 žaliavomis ir energijos produktais. Savo išvadas ir pasiūlymus Komisija teikia
 
-Seimui, Vyriausybei, o jeigu nustatė piktnaudžiavimą - prokuratūrai. Komisija
+Seimui, Vyriausybei, o jeigu nustatė piktnaudžiavimą - prokuratūrai. Komisija ne
 
-ne rečiau kaip kartą per metus atsiskaito Seimui.
+rečiau kaip kartą per metus atsiskaito Seimui.
 
 Vyriausybės ar savivaldybės tarybos sprendimu
 
@@ -1507,6 +1489,10 @@ pakeitimai:
 Nr.
 
 VIII-261, 97.06.17, Žin., 1997, Nr.64-1494 (97.07.04)
+
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
 
 V skirsnis. ENERGETIKOS VALDYMO PAGRINDAI
 
@@ -1546,25 +1532,31 @@ VIII-433, 97.10.07, Žin., 1997, Nr.96-2425 (97.10.24)
 
 17
 
-straipsnis. Energetikos licencijos
+straipsnis. Energetikos licencijos ir leidimai
 
-Verstis
-
-energetikos įrenginių (elektros, šilumos, degiųjų gamtinių ir skystųjų
-
-angliavandenilinių dujų) aptarnavimu, taip pat nefasuotų naftos produktų pagal
+Verstis nefasuotų naftos produktų pagal
 
 Lietuvos Respublikos Vyriausybės nustatytą sąrašą importu, eksportu, didmenine
 
 ir mažmenine prekyba gali tik įmonės, gavusios licenciją Lietuvos Respublikos
 
-Vyriausybės nustatyta tvarka. Licencijas nefasuotų naftos produktų importui,
+Vyriausybės nustatyta tvarka.
 
-eksportui ir didmeninei prekybai išduoda Ūkio ministerija. Mažmeninė prekyba
+Licencijas nefasuotų naftos produktų
 
-nefasuotais naftos produktais leidžiama tik turint atitinkamos savivaldos
+importui, eksportui ir didmeninei prekybai išduoda Ūkio ministerija. Mažmeninė
 
-vykdomosios institucijos išduotas licencijas.
+prekyba nefasuotais naftos produktais leidžiama tik turint atitinkamos
+
+savivaldybės išduotas licencijas.
+
+Verstis energetikos įrenginių (elektros,
+
+šilumos, degiųjų gamtinių ir skystųjų angliavandenilinių dujų) eksploatavimu
+
+gali tik įmonės, gavusios Ūkio ministerijos nustatyta tvarka išduotą leidimą.
+
+Leidimus išduoda Energetikos valstybinė inspekcija prie Ūkio ministerijos.
 
 Straipsnio
 
@@ -1573,6 +1565,10 @@ pakeitimai:
 Nr.
 
 VIII-433, 97.10.07, Žin., 1997, Nr.96-2425 (97.10.24)
+
+Nr.
+
+VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
 
 18
 
@@ -1588,13 +1584,13 @@ Elektrinės,
 
 dirbančios bendroje technologinėje energetikos sistemoje, veikia  bendru darbo
 
-režimu ir privalo paklusti operatyviniam dispečeriniam valdymui. Šie
+režimu ir privalo paklusti operatyviniam dispečeriniam valdymui. Šie reikalavimai
 
-reikalavimai privalomi remonto ir  statybos-montavimo bei  kitoms  įmonėms,
+privalomi remonto ir  statybos-montavimo bei  kitoms  įmonėms,  kurių
 
-kurių pagrindinė funkcija yra palaikyti ir užtikrinti normalų elektros
+pagrindinė funkcija yra palaikyti ir užtikrinti normalų elektros energetikos
 
-energetikos sistemos darbą.
+sistemos darbą.
 
 Energetikos
 
