@@ -4,7 +4,7 @@ identifier: "TAR.C6BD96A0CAF5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-07-04"
-last_updated: "1997-11-18"
+last_updated: "1998-07-16"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6BD96A0CAF5"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1997.12.02)
+Lūžaitė (1998.07.22)
 
 Įstatymas
 
@@ -62,6 +62,22 @@ LIETUVOS RESPUBLIKOS
 ĮSTATYMO “DĖL PABĖGĖLIŲ LIETUVOS RESPUBLIKOJE STATUSO” 18 STRAIPSNIO
 
 PRIPAŽINIMO NETEKUSIU GALIOS IR 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-860,
+
+98.07.16, Žin., 1998, Nr.65-1879 (98.07.22)
+
+LIETUVOS RESPUBLIKOS
+
+ĮSTATYMO “DĖL PABĖGĖLIŲ LIETUVOS RESPUBLIKOJE STATUSO” 5 STRAIPSNIO PAPILDYMO
+
+ĮSTATYMAS
 
 ***
 
@@ -127,9 +143,9 @@ straipsnis. Priežastys, kliudančios užsieniečiui naudotis
 
 prieglobsčiu Lietuvos Respublikoje
 
-Užsieniečiui teisė  naudotis prieglobsčiu  Lietuvos Respublikoje nepripažįstama,
+Užsieniečiui teisė  naudotis prieglobsčiu  Lietuvos Respublikoje
 
-jei:
+nepripažįstama, jei:
 
 1)
 
@@ -237,6 +253,28 @@ arba kaltinamas veikla, prieštaraujančia Jungtinių Tautų tikslams ir princip
 
 iki prieglobsčio gavimo Lietuvos Respublikoje.
 
+4) yra rimtų priežasčių manyti, kad jis
+
+įvykdė nusikaltimą taikai, žmonijai arba karinį nusikaltimą, taip pat yra rimtų
+
+priežasčių manyti, kad jis tarnaudamas totalitarinių režimų represinėse
+
+struktūrose ar kolaboruodamas su šalį valdžiusiu okupaciniu režimu, ar dalyvaudamas
+
+teroristinėse grupuotėse šiurkščiai pažeidė pagrindines žmogaus teises ir
+
+laisves ir, vengdamas atsakomybės už šias nusikalstamas veikas, pabėgo iš savo
+
+šalies.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-860,
+
+98.07.16, Žin., 1998, Nr.65-1879 (98.07.22)
+
 6
 
 straipsnis. Užsieniečio teisės į pabėgėlio statusą išnykimas
@@ -321,11 +359,11 @@ Užsieniečiui,
 
 neteisėtai atvykusiam į Lietuvos Respubliką iš šalies, kurioje jo gyvybei ar
 
-laisvei gresia pavojus, šio įstatymo 2  straipsnyje numatytais  atvejais
+laisvei gresia pavojus, šio įstatymo 2  straipsnyje numatytais  atvejais atsakomybė
 
-atsakomybė  už neteisėtą įvažiavimą ir buvimą netaikoma, jeigu jis per 48
+už neteisėtą įvažiavimą ir buvimą netaikoma, jeigu jis per 48 valandas
 
-valandas prisistato vietos valdžios institucijų arba miesto (rajono) policijos
+prisistato vietos valdžios institucijų arba miesto (rajono) policijos
 
 komisariato pareigūnams.
 
@@ -435,9 +473,9 @@ išlaikyti skiriamos lėšos iš Lietuvos Respublikos valstybės biudžeto.
 
 Pabėgėlių  priėmimo centrų  steigėjams  suteikiama Lietuvos Respublikos
 
-Vyriausybės parama, taip pat jie turi teisę naudotis kitų valstybių,
+Vyriausybės parama, taip pat jie turi teisę naudotis kitų valstybių, tarptautinių
 
-tarptautinių organizacijų bei užsienio privačių asmenų parama.
+organizacijų bei užsienio privačių asmenų parama.
 
 Teisėtai
 
