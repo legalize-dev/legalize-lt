@@ -4,7 +4,7 @@ identifier: "TAR.5180B28B4455"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-15"
-last_updated: "1999-10-19"
+last_updated: "2000-07-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455"
 department: "Lietuvos Respublikos Seimas"
@@ -19,129 +19,9 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Redagavo: Ramunė Lūžaitė
-
-(1999.10.28)
-
-Įstatymas paskelbtas: Žin.,
-
-1995, Nr. 21-490
+Įstatymas paskelbtas: Žin., 1995, Nr. 21-490
 
 Neoficialus įstatymo tekstas
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-I-1091, 95.11.09, Žin., 1995, Nr.94-2088 (95.11.17)
-
-DĖL
-
-LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ
-
-VEIKLOS SRIČIŲ" PAPILDYMO
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-I-1409, 96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
-
-LIETUVOS
-
-RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ"
-
-PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-I-1537, 96.09.24, Žin., 1996, Nr.100-2259 (96.10.16)
-
-LIETUVOS
-
-RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS
-
-SRIČIŲ"  PAKEITIMO ĮSTATYMAS
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-59, 96.12.23, Žin., 1996, Nr.126-2946 (96.12.31)
-
-LIETUVOS
-
-RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS
-
-SRIČIŲ" 2 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-5.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-174, 97.04.03, Žin.,
-
-1997, Nr.31-784 (97.04.16)
-
-LIETUVOS RESPUBLIKOS ĮSTATYMO
-
-“DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ” PAKEITIMO IR
-
-PAPILDYMO ĮSTATYMAS
-
-6.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr.
-
-VIII-1256, 99.06.22, Žin., 1999, Nr.60-1952 (99.07.09)
-
-LIETUVOS
-
-RESPUBLIKOS ĮSTATYMO „DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“
-
-4 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1365, 99.10.19, Žin., 1999, Nr.90-2641
-
-(99.10.27)
-
-LIETUVOS
-
-RESPUBLIKOS ĮSTATYMO „DĖL SPECIALIOS
-
-PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“ PAKEITIMO ĮSTATYMAS
-
-***Pabaiga***
 
 LIETUVOS RESPUBLIKOS
 
@@ -155,103 +35,133 @@ DĖL SPECIALIOS PASKIRTIES BENDROVIŲ
 
 IR JŲ VEIKLOS SRIČIŲ
 
-Lietuvos
+Preambulė neteko galios nuo 2000 m. liepos 31 d.:
 
-Respublikos  Seimas,  įgyvendindamas  Lietuvos Respublikos akcinių bendrovių
+Nr. VIII-1837, 00.07.13, Žin., 2000,
 
-įstatymo nuostatas, priima šį įstatymą.
+Nr.64-1916 (00.07.31)
 
-1
+1 straipsnis. Akcinėms
 
-straipsnis. Patvirtinti veiklos sričių, kuriose gali būti specialios paskirties
+bendrovėms ir uždarosioms akcinėms bendrovėms, vykdančioms gyvybiškai būtinas
 
-bendrovių, sąrašą pagal šio įstatymo 1 priedėlį.
+funkcijas, arba toms bendrovėms, kurių veiklai būtinas specialus režimas, gali
 
-Specialios
+būti suteikiamas specialios paskirties bendrovių statusas.
 
-paskirties bendrovių statuso suteikimo tvarką nustato Lietuvos Respublikos
+Valstybei ar savivaldybei specialios paskirties bendrovėje nuosavybės
 
-Vyriausybė.
+teise turi priklausyti akcijų, suteikiančių ne mažiau kaip 2/3 visų balsų.
 
-2
+Specialios paskirties bendrovėms valstybės ar vietos savivaldos
 
-straipsnis. Įmonės, įrašytos į šio įstatymo 2 priedėlį, turi reorganizuotis į
+institucija, valdanti kontrolinį akcijų paketą, turi teisę papildomai
 
-specialios paskirties akcines ir uždarąsias akcines bendroves. Visos valstybei
+nustatyti:
+
+1) privalomus darbus (užduotis);
+
+2) prekių (paslaugų) kokybės reikalavimus;
+
+3) prekių (paslaugų) kainas ir kainų skaičiavimo taisykles.
+
+Šio straipsnio 3 dalyje numatytos sąlygos, atsižvelgiant į bendrovės
+
+specifiką, turi būti nurodytos bendrovės įstatuose.
+
+Veiklos sritys, kuriose gali būti specialios paskirties bendrovių,
+
+nurodytos šio įstatymo 1 priedėlyje.
+
+Specialios paskirties bendrovių statuso suteikimo
+
+tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1837, 00.07.13, Žin., 2000,
+
+Nr.64-1916 (00.07.31)
+
+2 straipsnis. Įmonės,
+
+įrašytos į šio įstatymo 2 priedėlį, turi reorganizuotis į specialios paskirties
+
+akcines ir uždarąsias akcines bendroves. Visos valstybei ar savivaldybei
 
 priklausančios akcijos šiose bendrovėse turi balsavimo teisę.
 
-Įmonės,
+Įmonės, įrašytos į šio įstatymo 2 priedėlį ir reorganizuotos į
 
-įrašytos į šio įstatymo 2 priedėlį ir reorganizuotos į specialios paskirties
+specialios paskirties bendroves, Akcinių bendrovių įstatymo nustatyta tvarka
 
-bendroves, Akcinių bendrovių įstatymo nustatyta tvarka gali didinti įstatinį
+gali didinti įstatinį kapitalą tik iš bendrovės lėšų. Didinti įstatinį kapitalą
 
-kapitalą tik iš bendrovės lėšų. Didinti įstatinį kapitalą iš juridinių ir
+iš juridinių ir fizinių asmenų, valstybės ir savivaldybės papildomų įnašų
 
-fizinių asmenų, valstybės ir savivaldybės papildomų įnašų galima Akcinių
+galima Akcinių bendrovių įstatymo nustatyta tvarka tik Vyriausybei priėmus
 
-bendrovių įstatymo nustatyta tvarka tik Vyriausybei priėmus nutarimą. Šioms
+nutarimą ar sprendimą priėmus savivaldybės tarybai. Šioms specialios paskirties
 
-specialios paskirties bendrovėms įstatinį kapitalą didinti papildomais įnašais
+bendrovėms įstatinį kapitalą didinti papildomais įnašais leidžiama, kai visos
 
-leidžiama, kai visos perkainojimo rezervo lėšos yra panaudotos įstatiniam
+perkainojimo rezervo lėšos yra panaudotos įstatiniam kapitalui didinti ir
 
-kapitalui didinti ir bendrovės įstatų pakeitimai dėl įstatinio kapitalo
+bendrovės įstatų pakeitimai dėl įstatinio kapitalo padidinimo įregistruoti
 
-padidinimo įregistruoti Įmonių rejestro įstatymo nustatyta tvarka. Įstatinį
+Įmonių rejestro įstatymo nustatyta tvarka. Įstatinį kapitalą didinti
 
-kapitalą didinti perkainojimo rezervo lėšomis draudžiama esant nepadengtiems
+perkainojimo rezervo lėšomis draudžiama esant nepadengtiems bendrovės
 
-bendrovės finansinėje atskaitomybėje apskaitytiems bendrovės nuostoliams.
+finansinėje atskaitomybėje apskaitytiems bendrovės nuostoliams. Įstatinis
 
-Įstatinis kapitalas iš papildomų įnašų gali būti didinamas tik Valstybės ir
+kapitalas iš papildomų įnašų gali būti didinamas tik Valstybės ir savivaldybių
 
-savivaldybių turto privatizavimo įstatymo nustatyta tvarka.
+turto privatizavimo įstatymo nustatyta tvarka.
 
-Uždrausti
+Įmonėms, įrašytoms į šio įstatymo 2 priedėlį ir
 
-įmonėms, įrašytoms į šio įstatymo 2 priedėlį ir reorganizuotoms į specialios
+reorganizuotoms į specialios paskirties bendroves, draudžiama keisti specialios
 
-paskirties bendroves,     keisti specialios bendrovės statusą, reorganizuotis
+paskirties bendrovės statusą. Jos gali reorganizuotis tik į specialios
 
-kitaip, kaip į specialios paskirties bendroves.
+paskirties bendroves.
 
-Straipsnio
+Straipsnio pakeitimai:
 
-pakeitimai:
+Nr. I-1409,
 
-Nr.
+96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
 
-I-1409, 96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
+Nr. VIII-59,
 
-Nr.
+96.12.23, Žin., 1996, Nr.126-2946 (96.12.31)
 
-VIII-59, 96.12.23, Žin., 1996, Nr.126-2946 (96.12.31)
+Nr. VIII-1837, 00.07.13, Žin., 2000,
+
+Nr.64-1916 (00.07.31)
 
 3
 
 straipsnis. (Neteko galios)
 
-Straipsnio
+Straipsnio pakeitimai:
 
-pakeitimai:
+Nr. I-1409,
 
-Nr.
-
-I-1409, 96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
+96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
 
 3
 
-straipsnis.  Valstybinių  įmonių  įstatai  iki  jų perregistravimo  pagal
+straipsnis. Valstybinių įmonių įstatai iki jų perregistravimo pagal Lietuvos
 
-Lietuvos  Respublikos  valstybės  ir savivaldybės įmonių įstatymą, taip pat
+Respublikos valstybės ir savivaldybės įmonių įstatymą, taip pat valstybinių ir
 
-valstybinių ir valstybinių akcinių įmonių įstatai iki šių įmonių reorganizavimo
+valstybinių akcinių įmonių įstatai iki šių įmonių reorganizavimo pagal Akcinių
 
-pagal Akcinių bendrovių įstatymą galioja tiek, kiek jie neprieštarauja
+bendrovių įstatymą galioja tiek, kiek jie neprieštarauja Valstybės ir
 
-Valstybės ir savivaldybės įmonių įstatymui.
+savivaldybės įmonių įstatymui.
 
 Akcinių
 
@@ -261,133 +171,9 @@ Akcinių bendrovių įstatymą galioja tiek, kiek jie neprieštarauja Akcinių
 
 bendrovių įstatymui.
 
-Straipsnio
+Straipsnio žymėjimas
 
-žymėjimas pakeistas:
-
-Nr.
-
-I-1409, 96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
-
-1 straipsnis.
-
-Patvirtinti veiklos sričių, kuriose gali būti
-
-specialios
-
-paskirties  bendrovių, sąrašą  pagal  šio  įstatymo  1
-
-priedėlį.
-
-Specialios
-
-paskirties  bendrovių  statuso  suteikimo  tvarką
-
-nustato Lietuvos
-
-Respublikos Vyriausybė.
-
-2 straipsnis.
-
-Įmonės, įrašytos  į šio  įstatymo 2 priedėlį,
-
-turi reorganizuotis
-
-į specialios paskirties akcines ir uždarąsias
-
-akcines bendroves.
-
-Visos valstybei  priklausančios akcijos šiose
-
-bendrovėse turi balsavimo
-
-teisę.
-
-Įmonės,
-
-įrašytos    į  šio    įstatymo   2   priedėlį   ir
-
-reorganizuotos   į
-
-specialios  paskirties   bendroves,  Akcinių
-
-bendrovių  įstatymo
-
-nustatyta  tvarka  gali   didinti   įstatinį
-
-kapitalą  tik iš
-
-bendrovės lėšų.  Didinti  įstatinį  kapitalą  iš
-
-juridinių   ir
-
-fizinių   asmenų,  valstybės    ir  savivaldybės
-
-papildomų  įnašų
-
-galima  Akcinių  bendrovių  įstatymo  nustatyta
-
-tvarka  tik
-
-Vyriausybei   priėmus  nutarimą.  Šioms  specialios
-
-paskirties
-
-bendrovėms  įstatinį  kapitalą  didinti  papildomais
-
-įnašais  leidžiama,
-
-kai  visos perkainojimo rezervo  lėšos   yra
-
-panaudotos
-
-įstatiniam  kapitalui  didinti ir  bendrovės  įstatų
-
-pakeitimai   dėl
-
-įstatinio   kapitalo  padidinimo  įregistruoti
-
-Įmonių  rejestro
-
-įstatymo  nustatyta  tvarka.  Įstatinį  kapitalą
-
-didinti
-
-perkainojimo   rezervo    lėšomis   galima   ir   esant
-
-nepadengtiems
-
-bendrovės finansinėje ataskaitomybėje apskaitytiems
-
-bendrovės
-
-nuostoliams. Didinant įstatinį kapitalą  iš papildomų
-
-įnašų,  naujų  akcijų
-
-emisijos  kainą  ir turtinių  įnašų vertę
-
-tvirtina Vyriausybė.
-
-Uždrausti
-
-įmonėms,  įrašytoms į  šio įstatymo  2 priedėlį ir
-
-reorganizuotoms į
-
-specialios paskirties bendroves,         keisti
-
-specialios
-
-bendrovės  statusą,  reorganizuotis  kitaip,  kaip  į
-
-specialios
-
-paskirties bendroves.
-
-Straipsnio
-
-pakeitimai:
+pakeistas:
 
 Nr. I-1409,
 
@@ -407,23 +193,27 @@ Nr. I-1409,
 
 4 straipsnis.(Neteko galios)
 
-Įstatymas
+Įstatymas papildytas
 
-papildytas straipsniu:
+straipsniu:
 
-Nr.
+Nr. VIII-174,
 
-VIII-174, 97.04.03, Žin., 1997, Nr.31-784 (97.04.16)
+97.04.03, Žin., 1997, Nr.31-784 (97.04.16)
 
-Nr.
+Straipsnio pakeitimai:
 
-VIII-1256, 99.06.22, Žin., 1999, Nr.60-1952 (99.07.09)
+Nr. VIII-1256,
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+99.06.22, Žin., 1999, Nr.60-1952 (99.07.09)
+
+Skelbiu
+
+šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -433,19 +223,19 @@ Lietuvos Respublikos
 
 1 priedėlis
 
-Veiklos sričių, kuriose gali būti
+Veiklos sričių, kuriose gali būti specialios
 
-specialios paskirties bendrovių,
+paskirties bendrovių,
 
 s ą r a š a s
 
-_________________________________________________________________
+_______________________________________________________________________________
 
 Veiklos
 
-kodas            Veiklos pavadinimas
+kodas                                       Veiklos pavadinimas
 
-_________________________________________________________________
+_______________________________________________________________________________
 
 Žemės ūkis
 
@@ -539,9 +329,7 @@ Cheminių medžiagų, naudojamų vaistų pramonėje, gamyba
 
 242306
 
-Ne vaistinės paskirties stipriai veikiančių ir
-
-nuodingųjų medžiagų gamyba
+Ne vaistinės paskirties stipriai veikiančių ir nuodingųjų medžiagų gamyba
 
 242901
 
@@ -575,9 +363,7 @@ Kitų transporto priemonių gamyba
 
 351103
 
-Laivų ir plaukymo priemonių techninė priežiūra ir
-
-remontas
+Laivų ir plaukymo priemonių techninė priežiūra ir remontas
 
 353001
 
@@ -593,9 +379,9 @@ Kitų gaminių, neįtrauktų į kitas kategorijas, gamyba
 
 Vaizdinių mokymo priemonių gamyba
 
-Elektros energijos, dujų, garo
+Elektros energijos, dujų, garo ir karšto vandens
 
-ir karšto vandens tiekimas
+tiekimas
 
 401001
 
@@ -607,9 +393,7 @@ Elektros energijos paskirstymas
 
 402000
 
-Dujų gamyba, paskirstymas ir dujų kilmės kuro
-
-transportavimas vamzdynais
+Dujų gamyba, paskirstymas ir dujų kilmės kuro transportavimas vamzdynais
 
 403002
 
@@ -633,9 +417,7 @@ Statyba
 
 451003
 
-Sprogdinimo, išlyginimo, žemių stumdymo ir užpylimo
-
-darbai
+Sprogdinimo, išlyginimo, žemių stumdymo ir užpylimo darbai
 
 451004
 
@@ -673,21 +455,19 @@ Didmeninė prekyba farmacijos ir medicinos prekėmis
 
 513910
 
-Didmeninė prekyba chirurginiais ir ortopediniais
-
-instrumentais bei protezais
+Didmeninė prekyba chirurginiais ir ortopediniais instrumentais bei protezais
 
 514100
 
-Didmeninė prekyba benzinu, dujų kuru, tepalais,
+Didmeninė prekyba benzinu, dujų kuru, tepalais, dizeliniu kuru, žibalu, kitais
 
-dizeliniu kuru, žibalu, kitais naftos produktais
+naftos
+
+produktais
 
 514901
 
-Prekyba cheminėmis augalų apsaugos priemonėmis ir
-
-trąšomis
+Prekyba cheminėmis augalų apsaugos priemonėmis ir trąšomis
 
 518001
 
@@ -695,17 +475,21 @@ Užsienio prekybos pirkimo ir pardavimo operacijos
 
 519002
 
-Didmeninė prekyba ne vaistinės paskirties stipriai
+Didmeninė prekyba ne vaistinės paskirties stipriai veikiančiomis ir
 
-veikiančiomis ir nuodingosiomis medžiagomis
+nuodingosiomis
+
+medžiagomis
 
 Mažmeninė prekyba
 
 505000
 
-Mažmeninė prekyba benzinu, dujų kuru, tepalais,
+Mažmeninė prekyba benzinu, dujų kuru, tepalais, dizeliniu kuru, žibalu, kitais
 
-dizeliniu kuru, žibalu, kitais naftos produktais
+naftos
+
+produktais
 
 522007
 
@@ -721,9 +505,11 @@ Mažmeninė prekyba medicinos ir ortopedinėmis prekėmis
 
 523105
 
-Mažmeninė prekyba ne vaistinės paskirties stipriai
+Mažmeninė prekyba ne vaistinės paskirties stipriai veikiančiomis ir
 
-veikiančiomis ir nuodingosiomis medžiagomis
+nuodingosiomis
+
+medžiagomis
 
 523903
 
@@ -737,9 +523,11 @@ Viešbučiai ir restoranai
 
 552005
 
-Moksleivių, studentų ir socialiai remtinų žmonių bei
+Moksleivių, studentų ir socialiai remtinų žmonių bei invalidų maitinimas ir
 
-invalidų maitinimas ir dietinis maitinimas
+dietinis
+
+maitinimas
 
 Sausumos kelių transportas, vamzdynų transportas
 
@@ -761,9 +549,7 @@ Keleivių vežimas troleibusais
 
 603001
 
-Dujų, skysčių, skystų tirpiklių transportavimas
-
-vamzdynais
+Dujų, skysčių, skystų tirpiklių transportavimas vamzdynais
 
 603003
 
@@ -809,9 +595,7 @@ Gelbėjimo darbai
 
 630309
 
-Techninių priemonių, reguliuojančių gatvių judėjimą,
-
-įrengimas ir eksploatacija
+Techninių priemonių, reguliuojančių gatvių judėjimą, įrengimas ir eksploatacija
 
 630310
 
@@ -839,9 +623,11 @@ Tyrimai ir konstravimo - bandomieji darbai
 
 731011
 
-Tyrimai ir konstravimo - bandomieji darbai vidaus
+Tyrimai ir konstravimo - bandomieji darbai vidaus reikalų, krašto apsaugos ir
 
-reikalų, krašto apsaugos ir saugumo sistemai
+saugumo
+
+sistemai
 
 731012
 
@@ -867,13 +653,13 @@ Sveikatos apsauga ir socialinės paslaugos
 
 851100
 
-Gydymas ligonių, sergančių pavojingomis ir ypač
+Gydymas ligonių, sergančių pavojingomis ir ypač pavojingomis infekcinėmis, tarp
 
-pavojingomis infekcinėmis, tarp jų ir venerinėmis bei
+jų ir
 
-užkrečiamomis odos ligomis, agresyviomis psichinių ligų
+venerinėmis bei užkrečiamomis odos ligomis,
 
-formomis
+agresyviomis psichinių ligų formomis
 
 852001
 
@@ -883,15 +669,13 @@ Gydymas gyvulių, sergančių ypač pavojingomis ligomis
 
 Socialinės paslaugos
 
-Kanalizacija ir atliekų pašalinimas,
+Kanalizacija ir atliekų pašalinimas, sanitarinis apdorojimas
 
-sanitarinis apdorojimas ir kitos paslaugos
+ir kitos paslaugos
 
 900001
 
-Šiukšlių ir gamybos atliekų surinkimas ir
-
-transportavimas
+Šiukšlių ir gamybos atliekų surinkimas ir transportavimas
 
 900002
 
@@ -921,9 +705,9 @@ Gatvių valymas ir laistymas
 
 Želdynų įrengimas ir priežiūra
 
-Poilsio ir pramogų organizavimas,
+Poilsio ir pramogų organizavimas, kultūros ir sporto
 
-kultūros ir sporto veiklos plėtojimas
+veiklos plėtojimas
 
 921100
 
@@ -963,13 +747,11 @@ Pirčių paslaugos
 
 Prekyviečių (turgaviečių) paslaugos
 
-Priedėlio
+Priedėlio pakeitimai:
 
-pakeitimai:
+Nr. I-1091,
 
-Nr.
-
-I-1091, 95.11.09, Žin., 1995, Nr.94-2088 (95.11.17)
+95.11.09, Žin., 1995, Nr.94-2088 (95.11.17)
 
 Lietuvos Respublikos
 
@@ -985,13 +767,13 @@ turi būti specialios paskirties bendrovės,
 
 s ą r a š a s
 
-_________________________________________________________________
+_______________________________________________________________________________
 
 Įmonės
 
-kodas                             Pavadinimas
+kodas                                       Pavadinimas
 
-_________________________________________________________________
+_______________________________________________________________________________
 
 1005384
 
@@ -1015,9 +797,7 @@ Valstybinė firma "Alita"
 
 6855597
 
-Panevėžio valstybinė veislinių gyvulių supirkimo
-
-firma
+Panevėžio valstybinė veislinių gyvulių supirkimo firma
 
 7224603
 
@@ -1065,9 +845,7 @@ Birštono valstybinė vandens tiekimo įmonė
 
 5300599
 
-Valstybinė Naujosios Akmenės šilumos ir vandens
-
-tiekimo įmonė
+Valstybinė Naujosios Akmenės šilumos ir vandens tiekimo įmonė
 
 5413866
 
@@ -1095,9 +873,7 @@ Kaišiadorių valstybinė vandens tiekimo įmonė
 
 5884794
 
-Žiežmarių valstybinė vandens ir šilumos tiekimo
-
-įmonė
+Žiežmarių valstybinė vandens ir šilumos tiekimo įmonė
 
 6118642
 
@@ -1133,9 +909,7 @@ Plungės valstybinė vandens tiekimo įmonė
 
 7063978
 
-Prienų valstybinė vandens tiekimo ir komunalinių
-
-paslaugų įmonė
+Prienų valstybinė vandens tiekimo ir komunalinių paslaugų įmonė
 
 7126517
 
@@ -1143,9 +917,7 @@ Radviliškio valstybinė vandens tiekimo įmonė
 
 7382052
 
-Palangos valstybinės vandens tiekimo įmonės Skuodo
-
-baras
+Palangos valstybinės vandens tiekimo įmonės Skuodo baras
 
 7426488
 
@@ -1183,19 +955,141 @@ Utenos valstybinė vandens tiekimo įmonė
 
 Varėnos valstybinė vandens tiekimo įmonė
 
-Priedėlio
+Priedėlio pakeitimai:
 
-pakeitimai:
+Nr. I-1091,
 
-Nr.
+95.11.09, Žin., 1995, Nr.94-2088 (95.11.17)
 
-I-1091, 95.11.09, Žin., 1995, Nr.94-2088 (95.11.17)
+Nr. I-1537,
 
-Nr.
+96.09.24, Žin., 1996, Nr.100-2259 (96.10.16)
 
-I-1537, 96.09.24, Žin., 1996, Nr.100-2259 (96.10.16)
+Nr. VIII-1365, 99.10.19, Žin., 1999,
 
-Nr. VIII-1365, 99.10.19, Žin., 1999, Nr.90-2641
+Nr.90-2641 (99.10.27)
 
-(99.10.27)
+______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. I-1091, 95.11.09, Žin., 1995, Nr.94-2088 (95.11.17)
+
+DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO
+
+"DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ" PAPILDYMO
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. I-1409,
+
+96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO
+
+"DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ" PAKEITIMO
+
+ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. I-1537,
+
+96.09.24, Žin., 1996, Nr.100-2259 (96.10.16)
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO
+
+"DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ" PAKEITIMO
+
+ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-59,
+
+96.12.23, Žin., 1996, Nr.126-2946 (96.12.31)
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO
+
+"DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ" 2
+
+STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-174,
+
+97.04.03, Žin., 1997, Nr.31-784 (97.04.16)
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO
+
+“DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ” PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
+6.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-1256,
+
+99.06.22, Žin., 1999, Nr.60-1952 (99.07.09)
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO
+
+„DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“ 4 STRAIPSNIO
+
+PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1365, 99.10.19, Žin., 1999,
+
+Nr.90-2641 (99.10.27)
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR
+
+JŲ VEIKLOS SRIČIŲ“ PAKEITIMO ĮSTATYMAS
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1837, 00.07.13, Žin., 2000,
+
+Nr.64-1916 (00.07.31)
+
+ĮSTATYMO „DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“
+
+PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2000.08.22)
 
