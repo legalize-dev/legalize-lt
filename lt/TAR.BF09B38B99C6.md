@@ -4,7 +4,7 @@ identifier: "TAR.BF09B38B99C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-20"
-last_updated: "1996-03-28"
+last_updated: "1996-04-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF09B38B99C6"
 department: "Lietuvos Respublikos Seimas"
@@ -19,39 +19,53 @@ straipsnio paskutinę  dalį, kuri įsigalioja nuo 1994 m. rugpjūčio
 ---
 # Lietuvos Respublikos įmonių ir organizacijų nekilnojamojo turto mokesčio įstatymas
 
-Redaguota: 1996 04 19
+@D1=19940720;D2=19960430;D3=19960603
 
-Redaguota: 1996 04
-
-19
+@D1=19940720;D2=19960430;D3=19960603
 
 Pakeitimai:
 
-1. Lietuvos
+1.
 
-Respublikos 1996 03 28
+Parlamentas,
 
 Įstatymas
 
-Nr.1-1253
+{#96B[AA1253 ;} Nr.
 
-žin., 1996,
-
-Nr.35-860
+1-1253, 96.03.28, Žin., 1996, Nr. 35-860 (96.04.19)
 
 LIETUVOS
 
-RESPUBLIKOS ĮMONIŲ IR ORGANIZACIJŲ
+RESPUBLIKOS ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO
 
-NEKILNOJAMOJO
+MOKESČIO ĮSTATYMO 3
 
-TURTO MOKESČIO ĮSTATYMO 3
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
-STRAIPSNIO
+2.
 
-PAPILDYMO ĮSTATYMAS
+Parlamentas,
 
-LIETUVOS RESPUBLIKOS
+Įstatymas
+
+{#96C]AA1311 ;} Nr.
+
+1-1311, 96.04.30, Žin., 1996, Nr. 46-1106 (96.05.17)
+
+LIETUVOS
+
+RESPUBLIKOS ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO
+
+MOKESČIO ĮSTATYMO 7
+
+IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Pastaba: Šis
+
+įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.
+
+*** Pabaiga ***
 
 ĮMONIŲ IR ORGANIZACIJŲ
 
@@ -67,7 +81,7 @@ Vilnius
 
 Įstatymo paskirtis
 
-Šis  įstatymas
+Šis įstatymas
 
 reglamentuoja juridinių  asmenų ir  juridinio
 
@@ -113,35 +127,37 @@ Nuo mokesčio
 
 atleidžiama:
 
-1) užsienio
+1)
 
-valstybių diplomatinės ir konsulinės atstovybės,
+užsienio    valstybių   diplomatinės   ir   konsulinės
 
-jei jų
+atstovybės,
 
-atstovaujamose valstybėse Lietuvos Respublikos diplomatinė
+jei    jų   atstovaujamose   valstybėse   Lietuvos
 
-ar konsulinė
+Respublikos
 
-atstovybės yra atleistos nuo tokių pat ar analogiškų
+diplomatinė  ar  konsulinė  atstovybės yra atleistos
 
-mokesčių;
+nuo tokių pat ar
 
-2)  sveikatos
+analogiškų mokesčių;
 
-apsaugos,  mokslo   ir  studijų,   švietimo,
+2)
 
-kultūros,  sporto,
+sveikatos   apsaugos,   mokslo  ir  studijų,  švietimo,
 
-socialinės  globos   ir  rūpybos  bei  vaikų
+kultūros,
+
+sporto,   socialinės  globos  ir  rūpybos  bei  vaikų
 
 ikimokyklinės
 
 įstaigos, įmonės ir organizacijos;
 
-3) gyvenamųjų
+3)  gyvenamųjų
 
-namų eksploatavimo,  garažų eksploatavimo  ir
+namų  eksploatavimo, garažų eksploatavimo ir
 
 sodininkų bendrijos,
 
@@ -151,9 +167,11 @@ aptarnaujančios tik savo narius;
 
 įmonės;
 
-5) aklųjų,
+5)  aklųjų,
 
-kurčiųjų ir kitų invalidų draugijos ir jų įmonės;
+kurčiųjų  ir  kitų  invalidų  draugijos  ir  jų
+
+įmonės;
 
 6) labdaros
 
@@ -179,27 +197,21 @@ dvišalėse
 
 tarpvalstybinėse sutartyse nenumatyta kitaip.
 
-Pakeitimai:
+Straipsnio
 
-1. Lietuvos
+pakeitimai:
 
-Respublikos 1996 03 28
+{#96B[AA1253 ;} Nr.
 
-Įstatymas
-
-Nr.1-1253
-
-žin., 1996,
-
-Nr.35-860
+1-1253, 96.03.28, Žin., 1996, Nr. 35-860 (96.04.19)
 
 4 straipsnis.
 
 Mokesčio tarifas
 
-Metinis
+Metinis mokesčio
 
-mokesčio tarifas:
+tarifas:
 
 1)
 
@@ -267,7 +279,7 @@ bendruomenių patalpos,  pastatai ir statiniai,
 
 naudojami tik  kulto
 
-veiklai  bei socialinei  globai ir  rūpybai,
+veiklai  bei socialinei  globai ir  rūpybai,
 
 kulto reikmenų
 
@@ -391,29 +403,33 @@ mėnesio po turto
 
 teisinės registracijos pakeitimo.
 
-Mokėtojai,
+Laiku
 
-laiku  nesumokėję mokesčio,  jį sumoka ne daugiau
+neapmokestinti  mokėtojai  apmokestinami,  mokestis
 
-kaip už  dvejus
+išieškomas,  grąžinamas
 
-praėjusius metus. Patikslinti mokestinę vertę bei
+bei  patikslinamas  Lietuvos Respublikos
 
-mokesčio
+mokesčių
 
-apskaičiavimą   ir  grąžinti   arba  išieškoti  mokestį
+administravimo įstatymo nustatyta tvarka.
 
-leidžiama taip pat
+Straipsnio
 
-ne daugiau kaip už dvejus praėjusius metus.
+pakeitimai:
+
+{#96C]AA1311 ;} Nr.
+
+1-1311, 96.04.30, Žin., 1996, Nr. 46-1106 (96.05.17)
 
 8 straipsnis.
 
 Mokesčio mokėjimo tvarka
 
-Mokestis
+Mokestis mokamas
 
-mokamas po 1/4 metinės sumos pasibaigus ketvirčiui,
+po 1/4 metinės sumos pasibaigus ketvirčiui,
 
 per 25 dienas.
 
@@ -431,29 +447,25 @@ Atsakomybė už neteisingą mokesčio
 
 apskaičiavimą ir mokėjimą
 
-Valstybinė
+Atsakomybė  už
 
-mokesčių  inspekcija, nustačiusi,  kad  mokėtojas
+mokesčio  įstatymo  pažeidimus  ir  mokesčio
 
-nepateikė mokesčio
+mokėjimo
 
-apskaičiavimo arba apskaičiavo mokesčio mažiau
+užtikrinimo  priemonės  taikomos  Lietuvos  Respublikos
 
-negu priklausė,  ne
+mokesčių
 
-ginčo  tvarka išieško papildomai apskaičiuotą
+administravimo įstatymo nustatyta tvarka.
 
-mokesčio sumą ir jos
+Straipsnio
 
-dydžio baudą.
+pakeitimai:
 
-Jeigu mokestis
+{#96C]AA1311 ;} Nr.
 
-laiku nesumokamas,  už  kiekvieną  pavėluotą
-
-dieną mokami 0,3
-
-procento delspinigiai.
+1-1311, 96.04.30, Žin., 1996, Nr. 46-1106 (96.05.17)
 
 10 straipsnis.
 
@@ -595,7 +607,7 @@ Akcinės
 
 bendrovės  (buvusios valstybinės akcinės įmonės) nuo
 
-1994 m.  rugpjūčio 1
+1994 m.  rugpjūčio 1
 
 d. iki 1994 m. gruodžio 31 d. moka palūkanas
 
@@ -609,7 +621,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
 
 _
 
