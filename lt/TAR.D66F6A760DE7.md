@@ -4,7 +4,7 @@ identifier: "TAR.D66F6A760DE7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2000-02-15"
+last_updated: "2000-08-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,75 +16,9 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas
 
-Redagavo:
+Įstatymas paskelbtas: Žin., 1996, Nr. 53-1245
 
-Ramunė Lūžaitė (2000.02.29)
-
-Įstatymas
-
-paskelbtas: Žin., 1996, Nr.53-1245
-
-Neoficialus
-
-įstatymo tekstas
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-424, 97.09.25, Žin., 1997, Nr.96-2422
-
-(97.10.24)
-
-LIETUVOS RESPUBLIKOS KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO
-
-ĮSTATYMO 30 STRAIPSNIO PAKEITIMO
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-682, 98.03.26, Žin., 1998, Nr.32-856
-
-(98.04.03)
-
-LIETUVOS RESPUBLIKOS KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO
-
-ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561
-
-(99.10.15)
-
-LIETUVOS
-
-RESPUBLIKOS
-
-KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 1, 11, 14, 18, 19, 22 STRAIPSNIŲ
-
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-4.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-1538, 00.02.15, Žin.,
-
-2000, Nr.18-429 (00.02.29)
-
-LIETUVOS RESPUBLIKOS KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 33
-
-STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-*** Pabaiga ***
+Neoficialus įstatymo tekstas
 
 LIETUVOS RESPUBLIKOS
 
@@ -102,11 +36,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1.
+1. Lietuvos Respublikos Klaipėdos
 
-Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas reguliuoja
+valstybinio jūrų uosto įstatymas reguliuoja Klaipėdos valstybinio jūrų uosto
 
-Klaipėdos valstybinio jūrų uosto (toliau - uostas) veiklą bei valdymą.
+(toliau - uostas) veiklą bei valdymą.
 
 2.
 
@@ -118,277 +52,329 @@ Lietuvos Respublikos įstatymai, o iki jų įsigaliojimo - Lietuvos Respublikos
 
 Vyriausybės nutarimai.
 
-Straipsnio
+Straipsnio pakeitimai:
 
-pakeitimai:
+Nr. VIII-1344,
 
-Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561
+99.10.05, Žin., 1999, Nr.86-2561 (99.10.15)
 
-(99.10.15)
+2 straipsnis.
 
-2 straipsnis. Įstatyme vartojamos sąvokos
+Įstatyme vartojamos sąvokos
 
 Šiame įstatyme:
 
 uostas - teritorija (uosto žemė ir
 
-akvatorija),  skirta laivams įplaukti ir išplaukti, stovėti, aptarnauti,
+akvatorija), skirta laivams įplaukti ir išplaukti, stovėti, aptarnauti,
 
 kroviniams perkrauti, taip pat keleiviams aptarnauti;
 
-uosto žemė - žemės  plotas su jame
+uosto žemė - žemės plotas su jame esančia
 
-esančia uosto infrastruktūra;
+uosto infrastruktūra;
 
-uosto infrastruktūra - hidrotechninių
+uosto infrastruktūra - hidrotechninių ir
 
-ir inžinerinių statinių, navigacinių įrenginių, inžinerinių tinklų, taip  pat
+inžinerinių statinių, navigacinių įrenginių, inžinerinių tinklų, taip pat kelių
 
-kelių bei privažiuojamųjų geležinkelių kompleksas;
+bei privažiuojamųjų geležinkelių kompleksas;
 
-uosto  akvatorija - vandens plotas
+uosto akvatorija - vandens plotas Lietuvos
 
-Lietuvos Respublikos Vyriausybės nustatytose ribose, kuriame yra laivybos
+Respublikos Vyriausybės nustatytose ribose, kuriame yra laivybos kanalas,
 
-kanalas, plūdrieji statiniai ir vidinis bei išorinis reidai;
+plūdrieji statiniai ir vidinis bei išorinis reidai;
 
-uosto kapitonas - valstybės
+uosto kapitonas - valstybės pareigūnas,
 
-pareigūnas, vykdantis valstybinę laivybos priežiūrą, kvalifikacijos dokumentų
+vykdantis valstybinę laivybos priežiūrą, kvalifikacijos dokumentų išdavimą,
 
-išdavimą, laivų  registravimą, tarptautinių sutarčių dėl laivybos saugumo
+laivų registravimą, tarptautinių sutarčių dėl laivybos saugumo taikymo
 
-taikymo kontrolę;
+kontrolę;
 
-uosto rinkliava - administraciniu
+uosto rinkliava - administraciniu būdu iš
 
-būdu iš laivų  savininkų (valdytojų) ir krovinių savininkų renkamos lėšos už
+laivų savininkų (valdytojų) ir krovinių savininkų renkamos lėšos už naudojimąsi
 
-naudojimąsi uostu;
+uostu;
 
-uosto navigaciniai įrenginiai -
+uosto navigaciniai įrenginiai - kranto ir
 
-kranto ir  plūduriuojantys įrengimai, informuojantys apie laivybos sąlygas;
+plūduriuojantys įrengimai, informuojantys apie laivybos sąlygas;
 
-uosto navigacinių įrenginių veikimo
+uosto navigacinių įrenginių veikimo sektorius
 
-sektorius - teritorija, kurioje pastatyti ir aptarnaujami navigaciniai
-
-įrenginiai;
+- teritorija, kurioje pastatyti ir aptarnaujami navigaciniai įrenginiai;
 
 laivas - savaeigis arba nesavaeigis
 
 plaukiojantis statinys, turintis savo pavadinimą, įgulą ir valstybės vėliavą;
 
-linijinis laivas - laivas,
+linijinis laivas - laivas, plaukiantis pagal
 
-plaukiantis pagal grafiką nuolatiniu  maršrutu ir kuriam Uosto direkcija  yra
+grafiką nuolatiniu maršrutu ir kuriam Uosto direkcija yra suteikusi linijinio
 
-suteikusi linijinio laivo statusą.
+laivo statusą.
 
-II SKYRIUS
+[2
 
-VALSTYBINIS UOSTO VEIKLOS REGLAMENTAVIMAS
-
-PIRMASIS SKIRSNIS
-
-UOSTAS
+straipsnio redakcija nuo 2001 m.liepos 1 d.:
 
 3 straipsnis. Uostas ir jo ribos
 
-1. Klaipėdos valstybinis jūrų uostas
+1. Klaipėdos valstybinis jūrų uostas yra
 
-yra Lietuvos Respublikos valstybės nuosavybė.
+Lietuvos Respublikos valstybės nuosavybė.
 
-2. Uosto  steigėja yra Lietuvos
+2. Uosto steigėja yra Lietuvos Respublikos
 
-Respublikos Vyriausybė. Steigėjo  funkcijas  Vyriausybės  pavedimu  vykdo
+Vyriausybė. Steigėjo funkcijas Vyriausybės pavedimu vykdo Susisiekimo
 
-Susisiekimo ministerija.
+ministerija.
 
-3. Uosto teritorijos ir rezervinių
+3. Uosto teritorijos ir rezervinių teritorijų
 
-teritorijų ribas Susisiekimo ministerijos teikimu nustato Vyriausybė.
+ribas Susisiekimo ministerijos teikimu nustato Vyriausybė.
+
+[3
+
+straipsnis papildomas 4 dalimi nuo 2001 m. liepos 1 d.:
+
+4. Žemės sklypą, kaip karinę uosto
+
+teritoriją, Lietuvos kariuomenei neterminuotai naudoti suteikia ir šios
+
+teritorijos ribas nustato Lietuvos Respublikos Vyriausybė.]
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
 4 straipsnis. Uosto paskirtis
 
-1. Uostas - Lietuvos Respublikos
+1. Uostas - Lietuvos Respublikos transporto
 
-transporto sistemos dalis, skirta  laivams  aptarnauti bei kitai  su  laivyba
+sistemos dalis, skirta laivams aptarnauti bei kitai su laivyba susijusiai
 
-susijusiai komercinei ir ūkinei veiklai vykdyti.
+komercinei ir ūkinei veiklai vykdyti.
 
-2. Fiziniai ir juridiniai asmenys
+2. Fiziniai ir juridiniai asmenys uosto
 
-uosto teritorijoje  gali vykdyti  tik  tokią komercinę ir ūkinę veiklą,  kuri
+teritorijoje gali vykdyti tik tokią komercinę ir ūkinę veiklą, kuri atitinka
 
-atitinka uosto  funkcinę paskirtį, ir jeigu dėl jų veiklai  reikalingos uosto
+uosto funkcinę paskirtį, ir jeigu dėl jų veiklai reikalingos uosto žemės šie
 
-žemės šie asmenys yra sudarę uosto žemės nuomos sutartį su Uosto direkcija.
+asmenys yra sudarę uosto žemės nuomos sutartį su Uosto direkcija.
+
+[4
+
+straipsnis papildomas 3 dalimi nuo 2001 m. liepos 1 d.:
+
+3. Vyriausybė
+
+nustato sąrašą ne karinėje uosto teritorijoje esančių krantinių, kurias Uosto
+
+direkcija rezervuoja budintiems Lietuvos karo laivams, taip pat užsienio
+
+valstybių vizituojantiems karo laivams pirmumo teise pastatyti ir stovėti.
+
+Tokių krantinių bendras ilgis turi būti ne mažesnis kaip 190 metrų. Paraiškų
+
+karo laivams pastatyti pateikimo, taip pat švartavimo, ekologinių, sanitarinių,
+
+vandens ir energijos tiekimo paslaugų suteikimo ir apmokėjimo tvarką nustato
+
+Vyriausybė.]
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
 5 straipsnis. Uosto žemė ir kitas
 
 nekilnojamasis turtas
 
-1. Uosto žemė, akvatorija,
+1. Uosto žemė, akvatorija, hidrotechniniai
 
-hidrotechniniai  įrenginiai, krantinės,   navigacijos keliai ir kanalai,
+įrenginiai, krantinės, navigacijos keliai ir kanalai, navigaciniai įrenginiai
 
-navigaciniai įrenginiai ir kiti  infrastruktūros objektai  yra  valstybės
+ir kiti infrastruktūros objektai yra valstybės nuosavybė.
 
-nuosavybė.
+2. Uosto akvatoriją, žemę, uosto
 
-2. Uosto  akvatoriją, žemę, uosto
+infrastruktūros objektus bei kitą priskirtą ar sukurtą turtą Uosto direkcija
 
-infrastruktūros objektus bei  kitą  priskirtą ar sukurtą turtą Uosto
+valdo, naudoja bei juo disponuoja turto patikėjimo teisėmis vadovaudamasi šiuo
 
-direkcija  valdo, naudoja   bei   juo   disponuoja turto  patikėjimo teisėmis
+ir kitais Lietuvos Respublikos įstatymais.
 
-vadovaudamasi šiuo ir kitais Lietuvos Respublikos įstatymais.
+3. Uosto direkcija turi teisę išnuomoti uosto
 
-3. Uosto direkcija turi teisę
+žemę su uosto veikla susijusioms reikmėms, taip pat jau uosto teritorijoje
 
-išnuomoti uosto žemę su uosto veikla  susijusioms reikmėms, taip pat jau uosto
+veikiantiems ūkio subjektams, net jei jų veikla nesusijusi su uosto veikla.
 
-teritorijoje veikiantiems ūkio subjektams, net jei jų veikla nesusijusi  su
+4. Ilgalaikio materialiojo turto susidėvėjimo
 
-uosto veikla.
+atskaitymai daromi Lietuvos Respublikos Vyriausybės nustatyta tvarka. Palūkanos
 
-4. Ilgalaikio materialiojo turto
+už valstybinio kapitalo naudojimą nemokamos.
 
-susidėvėjimo  atskaitymai daromi Lietuvos  Respublikos  Vyriausybės  nustatyta
+5. Uostui priskirtu valstybės turtu negali
 
-tvarka. Palūkanos už valstybinio kapitalo naudojimą nemokamos.
+būti užtikrinamas trečiųjų asmenų prievolių vykdymas.
 
-5. Uostui priskirtu valstybės turtu
+6 straipsnis. Apribojimai uosto navigacinių
 
-negali būti užtikrinamas trečiųjų asmenų prievolių vykdymas.
+įrenginių veikimo sektoriuje
 
-6 straipsnis. Apribojimai  uosto
+1. Uosto navigacinių įrenginių veikimo
 
-navigacinių  įrenginių veikimo sektoriuje
+sektoriuje draudžiama statyti nuolatinius arba laikinus pastatus, sodinti
 
-1. Uosto navigacinių įrenginių
+medžius, įrengti didelio galingumo elektros arba kitokius šviesos šaltinius.
 
-veikimo sektoriuje draudžiama statyti nuolatinius arba laikinus pastatus,
+2. Kiekviena statyba uosto navigacinių
 
-sodinti medžius,  įrengti  didelio galingumo  elektros  arba  kitokius šviesos
+įrenginių veikimo sektoriuje turi būti suderinta su Uosto direkcija.
 
-šaltinius.
+3. Uosto navigacinių įrenginių sektoriaus
 
-2. Kiekviena statyba uosto
+ribas, apribojimus šio sektoriaus žemės naudotojams nustato Lietuvos
 
-navigacinių įrenginių  veikimo sektoriuje turi būti suderinta su Uosto
+Respublikos Vyriausybė.
 
-direkcija.
+[6
 
-3. Uosto navigacinių įrenginių
+straipsnis. Netenka galios nuo 2001 m. liepos 1 d.]
 
-sektoriaus ribas, apribojimus šio sektoriaus žemės naudotojams nustato
+Straipsnio pakeitimai:
 
-Lietuvos Respublikos Vyriausybė.
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
 7 straipsnis. Uosto privatizavimas
 
-1. Uosto žemė, infrastruktūra ir
+1. Uosto žemė, infrastruktūra ir akvatorija
 
-akvatorija neprivatizuojama.
+neprivatizuojama.
 
-2. Kiti uoste esantys valstybės
+2. Kiti uoste esantys valstybės nuosavybės
 
-nuosavybės objektai gali būti  privatizuojami pagal Valstybės ir savivaldybių
+objektai gali būti privatizuojami pagal Valstybės ir savivaldybių turto
 
-turto privatizavimo įstatymą, suderinus su Susisiekimo ministerija.
+privatizavimo įstatymą, suderinus su Susisiekimo ministerija.
 
-8 straipsnis. Naudojimosi uostu
+8 straipsnis. Naudojimosi uostu tvarka
 
-tvarka
+1. Uostas yra atviras tarptautinei laivybai.
 
-1. Uostas yra atviras tarptautinei
+2. Uosto naudojimo, Uosto laivybos taisykles
 
-laivybai.
+Uosto direkcijos teikimu tvirtina Susisiekimo ministerija, nustatyta tvarka
 
-2.   Uosto   naudojimo,  Uosto
+suderinusi jas su suinteresuotomis institucijomis. Šios taisyklės yra
 
-laivybos  taisykles   Uosto direkcijos teikimu tvirtina Susisiekimo
+privalomos visiems uosto naudotojams.
 
-ministerija, nustatyta tvarka suderinusi jas su suinteresuotomis
+3. Laivams su branduolinėmis jėgainėmis ir
 
-institucijomis. Šios taisyklės yra privalomos visiems uosto naudotojams.
+branduoliniu ginklu įplaukti į uostą draudžiama.
 
-3.  Laivams  su  branduolinėmis
+4. Kitų šalių karo ir kiti nekomerciniai
 
-jėgainėmis ir  branduoliniu ginklu įplaukti į uostą draudžiama.
+laivai į uostą gali įplaukti Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
-4.  Kitų  šalių karo ir kiti
+9 straipsnis. Uoste esančių įmonių, įstaigų ir
 
-nekomerciniai laivai  į  uostą gali   įplaukti  Lietuvos  Respublikos
-
-Vyriausybės  nustatyta tvarka.
-
-9 straipsnis. Uoste esančių įmonių,
-
-įstaigų ir organizacijų veikla
+organizacijų veikla
 
 1. Uoste esančios įmonės, įstaigos ir
 
-organizacijos veikia savarankiškai  pagal  jų veiklą reglamentuojančius
+organizacijos veikia savarankiškai pagal jų veiklą reglamentuojančius
 
-įstatymus. Šios  įmonės,  įstaigos ir organizacijos privalo laikytis  šio
+įstatymus. Šios įmonės, įstaigos ir organizacijos privalo laikytis šio įstatymo
 
-įstatymo bei Uosto naudojimo taisyklių reikalavimų.
+bei Uosto naudojimo taisyklių reikalavimų.
 
-2. Uoste     esančios    įmonės,
+2. Uoste esančios įmonės, naudojančios ar
 
-naudojančios     ar transportuojančios  žmonių sveikatai  kenksmingas,
+transportuojančios žmonių sveikatai kenksmingas, pavojingas medžiagas, privalo
 
-pavojingas medžiagas, privalo užtikrinti darbo aplinkos saugumą.
+užtikrinti darbo aplinkos saugumą.
 
-3. Už saugų darbą uoste esančiose
+3. Už saugų darbą uoste esančiose įmonėse
 
-įmonėse atsako tų įmonių administracija. Transporto  eismas  uoste   esančių
+atsako tų įmonių administracija. Transporto eismas uoste esančių įmonių
 
-įmonių teritorijose   organizuojamas pagal atitinkamos transporto rūšies
+teritorijose organizuojamas pagal atitinkamos transporto rūšies taisykles.
 
-taisykles.  Specialiojo (techninio)  transporto  eismo taisykles pagal saugos
+Specialiojo (techninio) transporto eismo taisykles pagal saugos darbe teisės
 
-darbe teisės aktų reikalavimus  nustato tų įmonių administracija.
+aktų reikalavimus nustato tų įmonių administracija.
 
-4. Uoste veikiančios įmonės  turi
+4. Uoste veikiančios įmonės turi suteikti
 
-suteikti patalpas valstybės  institucijoms, kurių veikla uoste  privaloma
+patalpas valstybės institucijoms, kurių veikla uoste privaloma pagal Lietuvos
 
-pagal Lietuvos Respublikos įstatymus.
+Respublikos įstatymus.
 
 ANTRASIS SKIRSNIS
 
 UOSTO VALDYMAS
 
-10 straipsnis. Uosto valdymas
+10 straipsnis.
 
-1. Uoste esančius valstybės
+Uosto valdymas
 
-nuosavybės objektus valdo Uosto direkcija.
+1. Uoste esančius valstybės nuosavybės
 
-2.  Uosto  direkcija, į kurios sudėtį
+objektus valdo Uosto direkcija.
 
-įeina Uosto  kapitono valdyba,  yra ne pelno organizacija, turinti juridinio
+2. Uosto direkcija, į kurios sudėtį įeina
 
-asmens teises. Uosto direkcijos steigėja yra Susisiekimo ministerija.
+Uosto kapitono valdyba, yra ne pelno organizacija, turinti juridinio asmens
 
-3.   Susisiekimo  ministerija
+teises. Uosto direkcijos steigėja yra Susisiekimo ministerija.
 
-skiria  ir  atleidžia  Uosto direkcijos  vadovą, vyriausiąjį finansininką,
+3. Susisiekimo ministerija skiria ir atleidžia
 
-uosto  kapitoną, priima,  keičia ir papildo Uosto direkcijos įstatus,  tvirtina
+Uosto direkcijos vadovą, vyriausiąjį finansininką, uosto kapitoną, priima,
 
-metinę  pajamų  ir išlaidų sąmatą bei Uosto direkcijos  metinę ataskaitą apie
+keičia ir papildo Uosto direkcijos įstatus, tvirtina metinę pajamų ir išlaidų
 
-uosto veiklą.
+sąmatą bei Uosto direkcijos metinę ataskaitą apie uosto veiklą.
 
-11 straipsnis. Uosto direkcijos
+[2
 
-funkcijos
+ir 3 dalių redakcija nuo 2001 m. liepos 1 d.:
+
+2. Uosto direkcija yra valstybės įmonė.
+
+Uosto direkcijos steigėja yra Susisiekimo ministerija.
+
+3. Susisiekimo ministras skiria ir
+
+atleidžia Uosto direkcijos vadovą, vyriausiąjį finansininką, priima, keičia ir
+
+papildo Uosto direkcijos įstatus, tvirtina metinę pajamų ir išlaidų sąmatą bei
+
+Uosto direkcijos metinę uosto veiklos ataskaitą.]
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
+
+11 straipsnis. Uosto direkcijos funkcijos
 
 1. Uosto direkcija vykdo šio
 
@@ -402,13 +388,13 @@ produktų terminalų, neįeinančių į jūrų uostų teritorijas.
 
 2. Pagrindinės Uosto direkcijos funkcijos:
 
-1) uosto veiklos organizavimas,
+1) uosto veiklos organizavimas, laivybos
 
-laivybos saugumo užtikrinimas;
+saugumo užtikrinimas;
 
-2) priskirto  valstybės turto  ir
+2) priskirto valstybės turto ir finansinių
 
-finansinių išteklių efektyvus naudojimas ir išsaugojimas;
+išteklių efektyvus naudojimas ir išsaugojimas;
 
 3) uosto žemės nuoma;
 
@@ -416,53 +402,47 @@ finansinių išteklių efektyvus naudojimas ir išsaugojimas;
 
 5) laivų ir žmonių gelbėjimo darbų
 
-organizavimas uosto akvatorijoje, kituose  Lietuvos  Respublikos
+organizavimas uosto akvatorijoje, kituose Lietuvos Respublikos teritoriniuose
 
-teritoriniuose vandenyse bei ekonominėje zonoje;
+vandenyse bei ekonominėje zonoje;
 
-6) uosto plėtros krypčių projektų
+6) uosto plėtros krypčių projektų rengimas, jų
 
-rengimas, jų realizavimo organizavimas, mokslinio tyrimo darbų organizavimas,
+realizavimo organizavimas, mokslinio tyrimo darbų organizavimas, uosto
 
-uosto reklamavimas;
+reklamavimas;
 
-7) uoste veikiančių įmonių
+7) uoste veikiančių įmonių rekonstrukcijos,
 
-rekonstrukcijos, naujų  objektų statybos projektų nagrinėjimas, derinimas,
+naujų objektų statybos projektų nagrinėjimas, derinimas, privalomų techninių
 
-privalomų techninių sąlygų nustatymas ir tvirtinimas, leidimų realizuoti
+sąlygų nustatymas ir tvirtinimas, leidimų realizuoti projektus išdavimas;
 
-projektus išdavimas;
+8) Lietuvos Respublikos įstatymų, tarptautinės
 
-8) Lietuvos Respublikos įstatymų,
+jūrų teisės dokumentų ir kitų teisės aktų laivybos klausimais laikymosi
 
-tarptautinės jūrų teisės dokumentų  ir  kitų teisės aktų laivybos klausimais
-
-laikymosi kontrolė;
+kontrolė;
 
 9) uosto kapitono tarnybų veiklos
 
 užtikrinimas;
 
-10) ryšių priemonių ir sistemų
+10) ryšių priemonių ir sistemų eksploatacija
 
-eksploatacija ir plėtra;
+ir plėtra;
 
-11) uosto apsaugos nuo taršos
+11) uosto apsaugos nuo taršos kontrolė bei
 
-kontrolė bei taršos pasekmių likvidavimo organizavimas;
+taršos pasekmių likvidavimo organizavimas;
 
-12) uosto  objektų  ir  navigacinių
+12) uosto objektų ir navigacinių įrenginių
 
-įrenginių   statyba, eksploatavimas ir plėtra.
+statyba, eksploatavimas ir plėtra.
 
-Straipsnio
+[11
 
-pakeitimai:
-
-Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561
-
-(99.10.15)
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
 12 straipsnis. Kitos uosto valdymo
 
@@ -470,77 +450,159 @@ institucijos
 
 1. Uosto plėtros kryptims nustatyti,
 
-santykiams tarp uosto, Klaipėdos  miesto  savivaldybės  bei Vyriausybės įstaigų
+santykiams tarp uosto, Klaipėdos miesto savivaldybės bei Vyriausybės įstaigų
 
-koordinuoti  Vyriausybės nutarimu sudaroma Uosto plėtojimo taryba iš
+koordinuoti Vyriausybės nutarimu sudaroma Uosto plėtojimo taryba iš
 
-Susisiekimo,  Finansų ir kitų suinteresuotų ministerijų, Klaipėdos apskrities,
+Susisiekimo, Finansų ir kitų suinteresuotų ministerijų, Klaipėdos apskrities,
 
-Klaipėdos miesto savivaldybės,  mokslo  įstaigų,  Uosto  direkcijos  bei  uosto
+Klaipėdos miesto savivaldybės, mokslo įstaigų, Uosto direkcijos bei uosto
 
 teritorijoje esančių įmonių atstovų.
 
-2. Uosto plėtojimo tarybos nuostatus
+2. Uosto plėtojimo tarybos nuostatus tvirtina
 
-tvirtina  Lietuvos Respublikos Vyriausybė.
+Lietuvos Respublikos Vyriausybė.
 
-3. Uosto plėtros klausimams
+3. Uosto plėtros klausimams (programoms)
 
-(programoms) rengti gali  būti sudaroma  Uosto direktorių taryba iš Susisiekimo
+rengti gali būti sudaroma Uosto direktorių taryba iš Susisiekimo ministerijos,
 
-ministerijos, Klaipėdos  miesto  savivaldybės,  Uosto  direkcijos,   įmonių,
+Klaipėdos miesto savivaldybės, Uosto direkcijos, įmonių, įstaigų ir
 
-įstaigų ir organizacijų, susijusių su uosto veikla, atstovų.
+organizacijų, susijusių su uosto veikla, atstovų.
 
-4. Uosto direktorių tarybos nuostatus
+4. Uosto direktorių tarybos nuostatus tvirtina
 
-tvirtina Susisiekimo ministerija.
+Susisiekimo ministerija.
+
+Įstatymas papildomas
+
+straipsniu nuo 2001 m.liepos 1 d.:
+
+[12(1)
+
+straipsnis. Uosto kapitonas
+
+1.
+
+Uosto veiklą, susijusią su laivyba, užtikrina uosto kapitonas. Uosto kapitoną
+
+skiria ir atleidžia Uosto direkcijos vadovas.
+
+2. Uosto kapitono pareigas gali eiti
+
+laivavedys, mokantis valstybinę ir anglų kalbas bei turintis aukštąjį jūrinį
+
+išsilavinimą ir ne mažesnį kaip penkerių metų plaukiojimo jūrų laivo, kurio
+
+bendroji talpa 3000 ir daugiau tonų, kapitonu stažą.
+
+3. Uosto kapitono veiklą nustato šis
+
+įstatymas, Lietuvos Respublikos saugios laivybos įstatymas bei Uosto kapitono nuostatai. Uosto kapitono nuostatus,
+
+suderintus su Lietuvos saugios laivybos administracija, tvirtina Uosto
+
+direkcijos vadovas.
+
+4. Jeigu yra nesumokėtos
+
+uosto rinkliavos ir baudos, laivas sužalojo ar sunaikino uosto infrastruktūrą
+
+ir (ar) suprastruktūrą, uosto kapitonas turi teisę neleisti laivui
+
+išplaukti iš uosto, iki bus sumokėtos uosto
+
+rinkliavos ar atlyginta padaryta žala arba iki minėtų prievolių įvykdymas bus užtikrintas
+
+Lietuvos Respublikos įstatymų nustatytais būdais.]
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
 TREČIASIS SKIRSNIS
 
 UOSTO KAPITONO VALDYBA
 
+[Skirsnio pavadinimas nuo 2001 m. liepos 1 d.
+
+TREČIASIS SKIRSNIS
+
+LAISVASIS UOSTAS
+
+Skirsnio pavadinimas keistas:
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01]
+
 13 straipsnis. Uosto kapitonas
 
-1. Uosto  veiklą,  susijusią su
+1. Uosto veiklą, susijusią su laivyba,
 
-laivyba,  užtikrina  Uosto kapitono  valdyba,  kuriai vadovauja  uosto
+užtikrina Uosto kapitono valdyba, kuriai vadovauja uosto kapitonas. Uosto
 
-kapitonas.  Uosto kapitono  valdyboje  yra  laivybos  priežiūros,  laivų
+kapitono valdyboje yra laivybos priežiūros, laivų         eismo (locmanų) ir
 
-eismo (locmanų) ir kiti struktūriniai padaliniai.
+kiti struktūriniai padaliniai.
 
-2. Uosto  kapitono pareigas gali eiti
+2. Uosto kapitono pareigas gali eiti Lietuvos
 
-Lietuvos Respublikos pilietis, turintis aukštąjį jūrinį išsilavinimą ir ne
+Respublikos pilietis, turintis aukštąjį jūrinį išsilavinimą ir ne mažesnį kaip
 
-mažesnį kaip penkerių metų plaukiojimo jūrų laivo kapitonu stažą.
+penkerių metų plaukiojimo jūrų laivo kapitonu stažą.
 
-3. Uosto kapitoną Uosto direkcijos
+3. Uosto kapitoną Uosto direkcijos vadovo teikimu
 
-vadovo teikimu skiria ir atleidžia Susisiekimo ministerija.
+skiria ir atleidžia Susisiekimo ministerija.
 
-4. Uosto  kapitonas veikia pagal
+4. Uosto kapitonas veikia pagal nuostatus,
 
-nuostatus, kuriuos  Uosto direkcijos teikimu tvirtina Susisiekimo ministerija.
+kuriuos Uosto direkcijos teikimu tvirtina Susisiekimo ministerija.
 
-5. Uosto  kapitonas  turi antspaudą
+5. Uosto kapitonas turi antspaudą su Lietuvos
 
-su Lietuvos  valstybės herbu.
+valstybės herbu.
 
-14 straipsnis. Pagrindinės uosto
+[13
 
-kapitono funkcijos
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
+
+13
+
+straipsnis. Laisvojo uosto steigimas
+
+1.
+
+Uosto teritorijos dalys, kurių ribos nustatomos šio straipsnio 2 dalyje
+
+nurodyta tvarka, šiuo įstatymu skelbiamos laisvuoju uostu.
+
+2. Laisvojo uosto ribas ir jo veiklos
+
+sąlygas nustato Lietuvos Respublikos Vyriausybė.]
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
+
+14 straipsnis. Pagrindinės uosto kapitono
+
+funkcijos
 
 1.
 
 Klaipėdos valstybinio jūrų uosto kapitonas uosto akvatorijos, Lietuvos
 
-Respublikos teritorinių vandenų, išimtinės ekonominės zonos teritorijose, išskyrus
+Respublikos teritorinių vandenų, išimtinės ekonominės zonos teritorijose,
 
-teritorijas kitų Lietuvos Respublikos jūrų uostų, naftos bei chemijos produktų
+išskyrus teritorijas kitų Lietuvos Respublikos jūrų uostų, naftos bei chemijos
 
-terminalų, neįeinančių į jūrų uostų teritorijas:
+produktų terminalų, neįeinančių į jūrų uostų teritorijas:
 
 1)
 
@@ -554,9 +616,9 @@ kontroliuoja laivų pasirengimą išplaukti į jūrą, registruoja įplaukimą i
 
 išplaukimą iš uosto;
 
-3)
+3) tikrina laivų
 
-tikrina laivų dokumentus ir laivų įgulų kvalifikacijos dokumentus;
+dokumentus ir laivų įgulų kvalifikacijos dokumentus;
 
 4)
 
@@ -570,9 +632,9 @@ išduoda jūrininkų knygeles ir kitus kvalifikacijos dokumentus, tvirtina darbo
 
 laive ir plaukiojimo stažą;
 
-6)
+6) organizuoja
 
-organizuoja locmanų darbą ir jam vadovauja;
+locmanų darbą ir jam vadovauja;
 
 7)
 
@@ -586,13 +648,13 @@ kontroliuoja laivų grimzlę, laivų pakrovimo ir krovinių pritvirtinimo laivuo
 
 kokybę;
 
-9)
+9) inspektuoja
 
-inspektuoja laivus, stovinčius uoste;
+laivus, stovinčius uoste;
 
-10)
+10) kontroliuoja
 
-kontroliuoja uosto krantinių techninę būklę;
+uosto krantinių techninę būklę;
 
 11)
 
@@ -600,9 +662,9 @@ organizuoja žmonių ir laivų gelbėjimo darbus uosto akvatorijoje, Lietuvos
 
 Respublikos teritoriniuose vandenyse ir ekonominėje zonoje;
 
-12)
+12) teikia
 
-teikia laivams navigacinę ir hidrometeorologinę informaciją;
+laivams navigacinę ir hidrometeorologinę informaciją;
 
 13)
 
@@ -610,9 +672,9 @@ leidžia laivams įplaukti į uostą ir išplaukti iš jo; susidarius ekstremali
 
 situacijoms uoste, perdislokuoja laivus;
 
-14)
+14) tiria laivų
 
-tiria laivų avarijas, nustato jų priežastis ir teikia išvadas;
+avarijas, nustato jų priežastis ir teikia išvadas;
 
 15)
 
@@ -622,107 +684,215 @@ akvatorijoje, derina leidimų vykdyti statybos ir remonto darbus uosto
 
 krantinėse ir akvatorijoje išdavimą.
 
-2. Uosto  kapitono  inspektavimo metu
+2. Uosto kapitono inspektavimo metu nustatytų
 
-nustatytų  pažeidimų pašalinimo išlaidas apmoka laivo savininkas ar valdytojas.
+pažeidimų pašalinimo išlaidas apmoka laivo savininkas ar valdytojas.
 
-3.  Uosto  kapitono  reikalavimu
+3. Uosto kapitono reikalavimu uoste stovintys
 
-uoste  stovintys  laivai privalo  suteikti  pagalbą  nelaimės  ištiktiems
+laivai privalo suteikti pagalbą nelaimės ištiktiems laivams bei žmonėms
 
-laivams  bei žmonėms panaudodami savo turimas technines priemones.
+panaudodami savo turimas technines priemones.
 
-Straipsnio
+[14
 
-pakeitimai:
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
-Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561
+14
 
-(99.10.15)
+straipsnis. Laisvojo uosto įrengimo sutartis
 
-15 straipsnis. Uosto kapitono
+1. Laisvojo uosto žemės sklypo
 
-sprendimų privalomumas
+nuomininkas, norėdamas pradėti veiklą laisvajame uoste, sudaro su Uosto
 
-1. Uosto kapitono sprendimai jo
+direkcija žemės sklypo įrengimo sutartį.
 
-kompetencijai priklausančiais klausimais yra privalomi ir turi būti  vykdomi
+2.
 
-nedelsiant. Įvykdytas  sprendimas gali būti skundžiamas teismine tvarka.
+Laisvojo uosto žemės sklypų įrengimo tvarka nustatoma Tipinėje laisvojo uosto
 
-2. Už  sprendimų  nevykdymą uosto
+žemės sklypų įrengimo sutartyje.
 
-kapitonas  gali  taikyti įstatymų nustatytas administracines nuobaudas.
+3. Tipinę laisvojo uosto žemės sklypų
 
-16 straipsnis. Laivų išplaukimo iš
+įrengimo sutarties formą nustato susisiekimo ministras suderinęs su finansų
 
-uosto apribojimai
+ministru ir vidaus reikalų ministru.]
 
-Uosto kapitonas turi teisę neduoti
+Straipsnio pakeitimai:
 
-leidimo išplaukti iš uosto, jeigu:
+Nr. VIII-1344, 99.10.05, Žin., 1999,
 
-1) laivas techniškai netinkamas
+Nr.86-2561 (99.10.15)
 
-plaukioti;
+Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-2) pažeisti laivo pakrovimo, laivo
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
-aprūpinimo reikalingais ištekliais, laivo įgulos komplektavimo reikalavimai;
+15 straipsnis. Uosto kapitono sprendimų
 
-3) laivo   dokumentų  įforminimas
+privalomumas
 
-neatitinka   nustatytų reikalavimų;
+1. Uosto kapitono sprendimai jo kompetencijai
 
-4) nesumokėtos nustatytos rinkliavos
+priklausančiais klausimais yra privalomi ir turi būti vykdomi nedelsiant.
 
-ir baudos;
+Įvykdytas sprendimas gali būti skundžiamas teismine tvarka.
 
-5)  yra  kitų  laivo trūkumų,
+2. Už sprendimų nevykdymą uosto kapitonas gali
 
-keliančių grėsmę  plaukiojimo saugumui arba laive esančių žmonių sveikatai.
+taikyti įstatymų nustatytas administracines nuobaudas.
 
-17 straipsnis. Laivo sulaikymo uoste
+[15
 
-tvarka
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
-1. Asmuo,  suinteresuotas  sulaikyti
+15
 
-laivą  uoste,  uosto kapitonui pateikia raštu motyvuotą reikalavimą.
+straipsnis. Veikla laisvajame uoste
 
-2. Uosto kapitonas gali sulaikyti
+1.
 
-uoste laivą, jei to prašo asmuo, turintis teisę reikalauti atlyginti žalą dėl
+Laisvajame uoste gali būti vykdoma Ekonominių veiklos rūšių klasifikatoriuje
 
-bendrosios laivo  avarijos, gelbėjimo darbų, laivų susidūrimo ar  kitokio
+numatyta veikla:
 
-laivo  ar  krovinio sužalojimo, taip pat dėl uosto  įrenginių, navigacijos
+1)
 
-ženklų ar uoste esančio turto kitokio sužalojimo, sunaikinimo ar kitos žalos
+transportavimas, sandėliavimas ir nuotoliniai ryšiai (telekomunikacijos);
 
-padarymo, kol laivo savininkas arba valdytojas    nustatyta    tvarka
+2)
 
-neužtikrins    reikalavimo patenkinimo.
+transporto priemonių gamyba;
 
-3. Laivas  uoste gali būti sulaikytas
+3)
 
-ne ilgiau kaip  tris darbo  dienas. Jeigu  per  tą  laiką  nebus  priimtas
+didmeninė prekyba;
 
-teismo sprendimas  areštuoti  laivą, kad būtų  užtikrintas  ieškinys,
+4)
 
-sulaikytas laivas turi būti tuojau pat paleistas.
+mažmeninė prekyba Lietuvos prekėmis laisvajame uoste esančių fizinių asmenų
 
-4. Sulaikyto  laivo  kapitonas
+poreikiams tenkinti jų buvimo laisvajame uoste metu;
 
-uosto  kapitono  raštišką sprendimą dėl laivo sulaikymo gali apskųsti teismui.
+5)
+
+statyba;
+
+6)
+
+elektros, dujų ir vandens tiekimas;
+
+7)
+
+finansinis tarpininkavimas;
+
+8)
+
+nekilnojamasis turtas, nuoma ir kita verslo veikla.
+
+2. Laisvajame uoste gali būti vykdoma ir
+
+kita veikla, tiesiogiai susijusi su šiame įstatyme numatyta Klaipėdos
+
+valstybinio jūrų uosto funkcine paskirtimi.]
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
+
+16 straipsnis. Laivų išplaukimo iš uosto
+
+apribojimai
+
+Uosto kapitonas turi teisę neduoti leidimo
+
+išplaukti iš uosto, jeigu:
+
+1) laivas techniškai netinkamas plaukioti;
+
+2) pažeisti laivo pakrovimo, laivo aprūpinimo
+
+reikalingais ištekliais, laivo įgulos komplektavimo reikalavimai;
+
+3) laivo dokumentų įforminimas neatitinka
+
+nustatytų reikalavimų;
+
+4) nesumokėtos nustatytos rinkliavos ir
+
+baudos;
+
+5) yra kitų laivo trūkumų, keliančių grėsmę
+
+plaukiojimo saugumui arba laive esančių žmonių sveikatai.
+
+[16
+
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
+
+16
+
+straipsnis. Valstybės ir savivaldybės institucijų veikla laisvajame uoste
+
+Valstybės ir savivaldybės institucijos
+
+laisvajame uoste veikia pagal savo kompetenciją Lietuvos Respublikos įstatymų
+
+nustatyta tvarka.]
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
+
+17 straipsnis. Laivo sulaikymo uoste tvarka
+
+1. Asmuo, suinteresuotas sulaikyti laivą
+
+uoste, uosto kapitonui pateikia raštu motyvuotą reikalavimą.
+
+2. Uosto kapitonas gali sulaikyti uoste laivą,
+
+jei to prašo asmuo, turintis teisę reikalauti atlyginti žalą dėl bendrosios
+
+laivo avarijos, gelbėjimo darbų, laivų susidūrimo ar kitokio laivo ar krovinio
+
+sužalojimo, taip pat dėl uosto įrenginių, navigacijos ženklų ar uoste esančio
+
+turto kitokio sužalojimo, sunaikinimo ar kitos žalos padarymo, kol laivo
+
+savininkas arba valdytojas nustatyta tvarka neužtikrins reikalavimo
+
+patenkinimo.
+
+3. Laivas uoste gali būti sulaikytas ne ilgiau
+
+kaip tris darbo dienas. Jeigu per tą laiką nebus priimtas teismo sprendimas
+
+areštuoti laivą, kad būtų užtikrintas ieškinys, sulaikytas laivas turi būti
+
+tuojau pat paleistas.
+
+4. Sulaikyto laivo kapitonas uosto kapitono
+
+raštišką sprendimą dėl laivo sulaikymo gali apskųsti teismui.
+
+[17
+
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
 18 straipsnis. Locmanas
 
-1. Locmanas - laivavedys, turintis ne
+1. Locmanas - laivavedys, turintis ne mažesnį
 
-mažesnį kaip tolimojo plaukiojimo  šturmano  jūrinį  laipsnį  ir  nustatytos
+kaip tolimojo plaukiojimo šturmano jūrinį laipsnį ir nustatytos formos locmano
 
-formos locmano liudijimą. Locmanas nėra vedamo laivo įgulos narys.
+liudijimą. Locmanas nėra vedamo laivo įgulos narys.
 
 2.
 
@@ -744,9 +914,9 @@ diplomai išduoti ne Lietuvoje.
 
 išduodamas ne jaunesniam kaip 25 metų asmeniui, turinčiam laivavedžio diplomą.
 
-4. Asmuo  gali  eiti locmano
+4. Asmuo gali eiti locmano pareigas, iki jam
 
-pareigas, iki  jam  sueis  65 metai.
+sueis 65 metai.
 
 5. Locmanų veiklos uosto
 
@@ -754,13 +924,9 @@ prieigose ir uosto vandenyse nuostatus tvirtina ir locmanų veiklą kontroliuoja
 
 uosto kapitonas.
 
-Straipsnio
+[18
 
-pakeitimai:
-
-Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561
-
-(99.10.15)
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
 19 straipsnis. Laivų vedimas uoste
 
@@ -776,61 +942,125 @@ neįeinančių į jūrų uostų teritorijas, prieigose užtikrinamas Lietuvos
 
 Respublikos Vyriausybės nustatyta tvarka.
 
-2. Rajonus  ir  laivų  kategorijas,
+2. Rajonus ir laivų kategorijas, kur būtina naudotis
 
-kur  būtina  naudotis locmano patarnavimais, nustato Uosto laivybos taisyklės.
+locmano patarnavimais, nustato Uosto laivybos taisyklės.
 
-Straipsnio
+[19
 
-pakeitimai:
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
+
+19
+
+straipsnis. Patekimas į laisvąjį uostą
+
+1.
+
+Asmenys ir transporto priemonės į laisvąjį uostą įleidžiami pateikę leidimus.
+
+Leidimų išdavimo tvarką ir pavyzdžius tvirtina susisiekimo ministras suderinęs
+
+su Muitinės departamentu prie Finansų ministerijos ir Pasienio policijos
+
+departamentu prie Vidaus reikalų ministerijos.
+
+2. Uosto direkcijos ir valstybės
+
+institucijų, vykdančių laisvojo uosto ar laivybos priežiūrą bei kontrolę,
+
+pareigūnai ir jų transporto priemonės į laisvąjį uostą įleidžiami pateikę
+
+tarnybinį pažymėjimą.]
+
+Straipsnio pakeitimai:
 
 Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561
 
 (99.10.15)
 
-20 straipsnis. Locmano ir vedamo
+Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-laivo kapitono santykiai
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
-1. Už  laivo  valdymą atsako vedamo
+20 straipsnis. Locmano ir vedamo laivo
 
-laivo  kapitonas.  Jis atsako už laivo valdymą ir tuomet, kai suteikia locmanui
+kapitono santykiai
 
-teisę savarankiškai vesti laivą.
+1. Už laivo valdymą atsako vedamo laivo
 
-2. Locmanas privalo duoti vedamo
+kapitonas. Jis atsako už laivo valdymą ir tuomet, kai suteikia locmanui teisę
 
-laivo kapitonui patarimus, užtikrinančius  saugų  laivo vedimą, ir  tikrinti,
+savarankiškai vesti laivą.
 
-ar  vedamo laivo kapitonas teisingai suprato duotus patarimus.
+2. Locmanas privalo duoti vedamo laivo
 
-3. Jeigu  vedamo laivo kapitonas
+kapitonui patarimus, užtikrinančius saugų laivo vedimą, ir tikrinti, ar vedamo
 
-nevykdo locmano patarimų, locmanas  vis  tiek  privalo (kiek tai įmanoma)
+laivo kapitonas teisingai suprato duotus patarimus.
 
-teikti  laivo kapitonui duomenis apie laivybos ypatumus.
+3. Jeigu vedamo laivo kapitonas nevykdo
 
-21 straipsnis. Draudimas locmanui
+locmano patarimų, locmanas vis tiek privalo (kiek tai įmanoma) teikti laivo
 
-palikti vedamą laivą
+kapitonui duomenis apie laivybos ypatumus.
 
-Pradėjęs  vesti  laivą, locmanas be
+[20
 
-vedamo  laivo  kapitono leidimo neturi teisės palikti laivo:
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
-1)  išvedant  laivą į jūrą - kol
+21 straipsnis. Draudimas locmanui palikti
 
-laivas  nuplauks  iki  tos vietos,  nuo  kurios  toliau gali saugiai plaukti
+vedamą laivą
 
-be  locmano pagalbos;
+Pradėjęs vesti laivą, locmanas be vedamo laivo
+
+kapitono leidimo neturi teisės palikti laivo:
+
+1) išvedant laivą į jūrą - kol laivas nuplauks
+
+iki tos vietos, nuo kurios toliau gali saugiai plaukti be locmano pagalbos;
 
 2) įvedant laivą į uostą - kol laivas
 
 nuleidžia inkarą arba prisitvirtina prie krantinės;
 
-3) kol locmaną pakeičia kitas
+3) kol locmaną pakeičia kitas locmanas.
 
-locmanas.
+[21
+
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
+
+21
+
+straipsnis. Laisvojo uosto priežiūra
+
+1.
+
+Laisvojo uosto ribas ir prekių įvežimo bei išvežimo punktus prižiūri muitinė,
+
+kuri tikrina į laisvąjį uostą atvykstančius ir iš jo išvykstančius fizinius
+
+asmenis bei transporto priemones. Laisvojo uosto ribų pagal perimetrą apsaugą
+
+organizuoja ir už ją atsako Uosto direkcija.
+
+2.
+
+Prekės sausumos transportu į laisvąjį uostą įvežamos ir išvežamos per tam
+
+tikslui įrengtus punktus.
+
+3. Muitinė tikrina į laisvąjį uostą
+
+įvežamas, iš jo išvežamas ir jame laikomas prekes Muitinės kodekso nustatyta
+
+tvarka.]
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
 22 straipsnis. Atlyginimas už locmano
 
@@ -842,45 +1072,41 @@ kapitonas privalo mokėti locmano rinkliavą Lietuvos Respublikos Vyriausybės
 
 nustatyta tvarka.
 
-2. Laivo  kapitonas,
+2. Laivo kapitonas,
 
-iškvietęs locmaną  ir  šiam  atvykus atsisakęs  jo  patarnavimų, privalo
+iškvietęs locmaną ir šiam atvykus atsisakęs jo patarnavimų, privalo sumokėti
 
-sumokėti visą locmano rinkliavą, priklausančią  už  laivo  vedimą, kuriam buvo
+visą locmano rinkliavą, priklausančią už laivo vedimą, kuriam buvo iškviestas
 
-iškviestas locmanas.
+locmanas.
 
 3. Kai locmano patarnavimais naudotis
 
-privaloma, tačiau laivo  kapitonas jais nesinaudoja, jis privalo  sumokėti
+privaloma, tačiau laivo kapitonas jais nesinaudoja, jis privalo sumokėti visą
 
-visą locmano rinkliavą, priklausančią už laivo vedimą, ir gali būti patrauktas
+locmano rinkliavą, priklausančią už laivo vedimą, ir gali būti patrauktas
 
-administracinėn atsakomybėn  Lietuvos  Respublikos įstatymų nustatyta tvarka.
+administracinėn atsakomybėn Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-4. Kai locmanas užlaikomas laive
+4. Kai locmanas užlaikomas laive daugiau kaip
 
-daugiau kaip dvi valandas dėl  nuo  jo nepriklausančių priežasčių, kurios nėra
+dvi valandas dėl nuo jo nepriklausančių priežasčių, kurios nėra sukeltos
 
-sukeltos nenugalimos jėgos, laivo kapitonas privalo sumokėti  papildomą
+nenugalimos jėgos, laivo kapitonas privalo sumokėti papildomą locmano
 
-locmano  rinkliavą, kurios maksimalų dydį nustato  Susisiekimo ministerija.
+rinkliavą, kurios maksimalų dydį nustato Susisiekimo ministerija.
 
-5. Jeigu  locmaną jo  vestas laivas
+5. Jeigu locmaną jo vestas laivas nuplukdo už
 
-nuplukdo už jo aptarnaujamo  rajono  ribų, laivo kapitonas  privalo apmokėti
+jo aptarnaujamo rajono ribų, laivo kapitonas privalo apmokėti locmanui kelionės
 
-locmanui  kelionės  atgal išlaidas ir sumokėti  atlyginimą  už kiekvieną išbūtą
+atgal išlaidas ir sumokėti atlyginimą už kiekvieną išbūtą valandą už locmano
 
-valandą už locmano aptarnaujamo rajono ribų.
+aptarnaujamo rajono ribų.
 
-Straipsnio
+[Nuo 2001 m. liepos 1 d. 22
 
-pakeitimai:
-
-Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561
-
-(99.10.15)
+straipsnis perkeliamas III skyrių
 
 III SKYRIUS
 
@@ -890,169 +1116,247 @@ PIRMASIS SKIRSNIS
 
 UOSTO ŽEMĖS NUOMA
 
+22 straipsnio redakcija nuo
+
+2001 m. liepos 1 d.:
+
 23 straipsnis. Nuomos sutarties sudarymo
 
 tvarka
 
-Uosto  direkcija  uosto  žemę gali
+Uosto direkcija uosto žemę gali išnuomoti tik
 
-išnuomoti  tik  konkurso tvarka.  Nuomos  konkurso sąlygas, tipinę uosto
+konkurso tvarka. Nuomos konkurso sąlygas, tipinę uosto žemės nuomos sutarties
 
-žemės  nuomos sutarties  formą  ir nuomos mokesčio apskaičiavimo tvarką
+formą ir nuomos mokesčio apskaičiavimo tvarką tvirtina Susisiekimo ministerija.
 
-tvirtina Susisiekimo ministerija.
+[23
 
-24 straipsnis. Nuomos sutarties forma
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
-ir terminas
+24 straipsnis. Nuomos sutarties forma ir
 
-1. Uosto  žemės nuomos sutartis
+terminas
 
-sudaroma raštu, ne  ilgiau kaip  25  metams,  laikantis  Lietuvos  Respublikos
+1. Uosto žemės nuomos sutartis sudaroma raštu,
 
-civilinio kodekso ir šio įstatymo reikalavimų.
+ne ilgiau kaip 25 metams, laikantis Lietuvos Respublikos civilinio kodekso ir
 
-2. Nuomininkas,  tvarkingai  vykdęs
+šio įstatymo reikalavimų.
 
-uosto  žemės  nuomos sutartyje  nustatytas pareigas, pasibaigus sutarties
+2. Nuomininkas, tvarkingai vykdęs uosto žemės
 
-terminui, turi pirmumo teisę atnaujinti sutartį.
+nuomos sutartyje nustatytas pareigas, pasibaigus sutarties terminui, turi
 
-25 straipsnis. Nuomos sutarties
+pirmumo teisę atnaujinti sutartį.
 
-sąlygos
+[24
 
-1. Nuomininkas  privalo laikytis visų
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
-uosto  žemės  nuomos sutartyje nustatytų sąlygų.
+25 straipsnis. Nuomos sutarties sąlygos
 
-2. Nuomos   sutartyje  turi  būti
+1. Nuomininkas privalo laikytis visų uosto
 
-nustatytos  nuomininko teikiamų paslaugų minimalios ir maksimalios kainos bei
+žemės nuomos sutartyje nustatytų sąlygų.
 
-krovos ar kitų darbų minimalios apimtys.
+2. Nuomos sutartyje turi būti nustatytos
 
-3. Nuomotojas  turi  teisę
+nuomininko teikiamų paslaugų minimalios ir maksimalios kainos bei krovos ar
 
-nustatyta  tvarka  reikalauti nutraukti  uosto  žemės  nuomos  sutartį  prieš
+kitų darbų minimalios apimtys.
 
-terminą,  jei nuomininkas nevykdo pareigų, nustatytų šiame įstatyme ar uosto
+3. Nuomotojas turi teisę nustatyta tvarka
 
-žemės nuomos sutartyje ir jei tai numato Civilinis kodeksas.
+reikalauti nutraukti uosto žemės nuomos sutartį prieš terminą, jei nuomininkas
 
-4. Nuomininkas  turi  teisę
+nevykdo pareigų, nustatytų šiame įstatyme ar uosto žemės nuomos sutartyje ir
 
-nustatyta  tvarka  reikalauti nutraukti  uosto žemės nuomos sutartį prieš
+jei tai numato Civilinis kodeksas.
 
-terminą,  jei  tai numato Civilinis kodeksas.
+4. Nuomininkas turi teisę nustatyta tvarka
+
+reikalauti nutraukti uosto žemės nuomos sutartį prieš terminą, jei tai numato
+
+Civilinis kodeksas.
+
+[25
+
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
+
+25
+
+straipsnis. Uosto žemės nuomos sutarties sąlygos
+
+1. Nuomininkas privalo laikytis visų uosto žemės nuomos sutartyje
+
+nustatytų sąlygų.
+
+2. Uosto žemės nuomos sutartyje turi būti nustatyti nuomininko
+
+krovos ar kitų darbų minimalūs mastai.
+
+3. Nuomotojas turi teisę nustatyta tvarka nutraukti uosto žemės
+
+nuomos sutartį prieš terminą, jeigu:
+
+1) nuomininkas nevykdo šiame įstatyme ar uosto žemės nuomos
+
+sutartyje numatytų įsipareigojimų;
+
+2) nuomininkas sistemingai nevykdo uosto žemės nuomos sutartyje
+
+numatytos veiklos ar tai nustato Lietuvos Respublikos žemės nuomos ar kiti
+
+įstatymai;
+
+3) Lietuvos Respublikos įstatymų nustatyta tvarka to reikia
+
+visuomenės poreikiams tenkinti.
+
+4. Nuomininkas turi teisę nustatyta tvarka reikalauti nutraukti
+
+uosto žemės nuomos sutartį prieš terminą, jei tai numato Lietuvos Respublikos
+
+žemės nuomos įstatymas ar uosto žemės nuomos sutartis.]
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
 26 straipsnis. Uosto infrastruktūros
 
 pagerinimas
 
-1. Uosto infrastruktūros pagerinimas
+1. Uosto infrastruktūros pagerinimas galimas
 
-galimas tik nuomotojui leidus.
+tik nuomotojui leidus.
 
-2. Jeigu  nuomininkas išsinuomotoje
+2. Jeigu nuomininkas išsinuomotoje uosto
 
-uosto žemėje  pagerina uosto  infrastruktūros objektus arba sukuria naujus,
+žemėje pagerina uosto infrastruktūros objektus arba sukuria naujus, jis turi
 
-jis  turi teisę  į padarytų šiam tikslui būtinų išlaidų atlyginimą  arba jų
+teisę į padarytų šiam tikslui būtinų išlaidų atlyginimą arba jų įskaitymą į
 
-įskaitymą į uosto žemės nuomos mokestį.
+uosto žemės nuomos mokestį.
 
-3. Jeigu  pagerinimas  padarytas  be
+3. Jeigu pagerinimas padarytas be nuomuotojo
 
-nuomuotojo  leidimo, pagerinimo išlaidos nuomininkui neatlyginamos.
+leidimo, pagerinimo išlaidos nuomininkui neatlyginamos.
 
 ANTRASIS SKIRSNIS
 
-ŪKINĖS IR KOMERCINĖS VEIKLOS
+ŪKINĖS IR KOMERCINĖS VEIKLOS UOSTE YPATUMAI
 
-UOSTE YPATUMAI
+27 straipsnis. Teisės aktai, reglamentuojantys
 
-27  straipsnis. Teisės aktai,
+ūkinės ir komercinės veiklos uoste
 
-reglamentuojantys  ūkinės  ir komercinės veiklos uoste ypatumus
+ypatumus
 
-1. Uosto ūkinės ir komercinės veiklos
+1. Uosto ūkinės ir komercinės veiklos ypatumus
 
-ypatumus nustato šis įstatymas   ir  Klaipėdos  valstybinio  jūrų  uosto
+nustato šis įstatymas ir Klaipėdos valstybinio jūrų uosto naudojimo taisyklės,
 
-naudojimo taisyklės, kurias tvirtina Susisiekimo ministerija.
+kurias tvirtina Susisiekimo ministerija.
 
-2. Pavojingų  krovinių vežimo,
+2. Pavojingų krovinių vežimo, perkrovimo ir
 
-perkrovimo ir  sandėliavimo uoste tvarką nustato kiti Lietuvos Respublikos
+sandėliavimo uoste tvarką nustato kiti Lietuvos Respublikos teisės aktai ir
 
-teisės aktai ir tarptautinės sutartys, kurių dalyvė yra Lietuvos Respublika.
+tarptautinės sutartys, kurių dalyvė yra Lietuvos Respublika.
 
 28 straipsnis. Aptarnavimas uoste
 
-1. Uoste  keleiviai  gali  būti
+1. Uoste keleiviai gali būti aptarnaujami,
 
-aptarnaujami,  kroviniai, paštas   perkraunami,  laivai  aptarnaujami,
+kroviniai, paštas perkraunami, laivai aptarnaujami, transportavimo,
 
-transportavimo, ekspedicijos  bei sandėliavimo operacijos atliekamos  tik  tam
+ekspedicijos bei sandėliavimo operacijos atliekamos tik tam specialiai skirtose
 
-specialiai skirtose vietose.
+vietose.
 
-2. Linijiniai laivai uoste
+2. Linijiniai laivai uoste aptarnaujami
 
-aptarnaujami pirmumo tvarka.
+pirmumo tvarka.
 
-29 straipsnis.  Laikinas  ūkinės  ir
+[28
 
-komercinės  veiklos nutraukimas ar apribojimas
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
-Uosto direkcija turi teisę laikinai
+29 straipsnis. Laikinas ūkinės ir komercinės
 
-nutraukti ar  apriboti laivų  aptarnavimą, keleivių, krovinių ir pašto priėmimą
+veiklos nutraukimas ar apribojimas
 
-uoste dėl   stichinių  nelaimių,  katastrofų,  avarijų,   karantino, streiko,
+Uosto direkcija turi teisę laikinai nutraukti
 
-embargo  ir  kitų  panašių  aplinkybių. Šis Uosto direkcijos sprendimas
+ar apriboti laivų aptarnavimą, keleivių, krovinių ir pašto priėmimą uoste dėl
 
-skelbiamas viešai.
+stichinių nelaimių, katastrofų, avarijų, karantino, streiko, embargo ir kitų
 
-30 straipsnis. Atestuojama veikla
+panašių aplinkybių. Šis Uosto direkcijos sprendimas skelbiamas viešai.
 
-Teikti laivų agentavimo paslaugas, verstis laivų
+30
 
-vilkimu (buksyravimu), žmonių ir laivų gelbėjimo, povandeniniais techniniais
+straipsnis. Atestuojama veikla
 
-darbais gali tik Susisiekimo ministerijos nustatyta tvarka atestuotos įmonės.
+Teikti
+
+laivų agentavimo paslaugas, verstis laivų vilkimu (buksyravimu), žmonių ir
+
+laivų gelbėjimo, povandeniniais techniniais darbais gali tik Susisiekimo
+
+ministerijos nustatyta tvarka atestuotos įmonės.
+
+[30
+
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
+
+30 straipsnis. Laivo, esančio uoste,
+
+areštas
+
+Laivas, esantis uoste, gali būti
+
+areštuotas tik Lietuvos Respublikos įstatymų ir Lietuvos Respublikos
+
+tarptautinių sutarčių numatytais atvejais ir tvarka.]
 
 Straipsnio pakeitimai:
 
-Nr. VIII-424, 97.09.25, Žin., 1997, Nr.96-2422
+Nr. VIII-424,
 
-(97.10.24)
+97.09.25, Žin., 1997, Nr.96-2422 (97.10.24)
 
-Nr. VIII-682, 98.03.26, Žin., 1998, Nr.32-856
+Nr. VIII-682,
 
-(98.04.03)
+98.03.26, Žin., 1998, Nr.32-856 (98.04.03)
 
-31 straipsnis. Privačios nuosavybės
+Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-objektų, esančių uoste, paėmimas valstybės poreikiams
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
-1. Privačios nuosavybės objektai,
+31 straipsnis. Privačios nuosavybės objektų,
 
-esantys uosto teritorijoje,  Lietuvos Respublikos Vyriausybės nutarimu  gali
+esančių uoste, paėmimas valstybės
 
-būti  atlygintinai  paimti  valstybės  poreikiams,  jeigu  tai būtina  uosto
+poreikiams
+
+1. Privačios nuosavybės objektai, esantys
+
+uosto teritorijoje, Lietuvos Respublikos Vyriausybės nutarimu gali būti
+
+atlygintinai paimti valstybės poreikiams, jeigu tai būtina uosto
 
 infrastruktūros objektų statybai.
 
-2. Už paimamus privačios nuosavybės
+2. Už paimamus privačios nuosavybės objektus
 
-objektus jų savininkams atlyginama Lietuvos Respublikos Vyriausybės nustatyta
+jų savininkams atlyginama Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
-tvarka. Ginčus  dėl  tokių  objektų paėmimo ir turto vertės  nustatymo
-
-sprendžia teismas.
+Ginčus dėl tokių objektų paėmimo ir turto vertės nustatymo sprendžia teismas.
 
 TREČIASIS SKIRSNIS
 
@@ -1070,315 +1374,445 @@ UOSTO LĖŠOS
 
 4) amortizaciniai atskaitymai;
 
-5) pajamos, gaunamos už Uosto
+5) pajamos, gaunamos už Uosto direkcijos
 
-direkcijos   teikiamus patarnavimus;
+teikiamus patarnavimus;
 
 6) kitos teisėtai gautos lėšos.
 
-2. Uosto  rinkliavos ir uosto žemės
+2. Uosto rinkliavos ir uosto žemės nuomos
 
-nuomos  mokestis  yra nerealizacinės ir neapmokestinamosios pajamos.
+mokestis yra nerealizacinės ir neapmokestinamosios pajamos.
 
 33 straipsnis. Uosto lėšų naudojimas
 
-Uosto lėšos naudojamos uosto
+Uosto lėšos naudojamos uosto eksploatavimo, plėtros ir
 
-eksploatavimo, plėtros ir kitoms išlaidoms, susijusioms su uosto veikla,
+kitoms išlaidoms, susijusioms su uosto veikla, finansuoti. Šios lėšos
 
-finansuoti. Šios lėšos skiriamos:
+skiriamos:
 
-1) uosto teritorijai prižiūrėti ir
+1) uosto teritorijai prižiūrėti ir laivybos saugumui
 
-laivybos saugumui užtikrinti;
+užtikrinti;
 
-2) navigacijos ženklams ir sistemoms
+2) navigacijos ženklams ir sistemoms statyti,
 
-statyti, remontuoti ir prižiūrėti;
+remontuoti ir prižiūrėti;
 
-3) skelbiamam uosto vandens gyliui
+[2
 
-palaikyti bei akvatorijos gilinimo darbams;
+punkto redakcija nuo 2001 m. liepos 1 d.:
+
+2) saugią laivybą uoste užtikrinančioms sistemoms įrengti,
+
+prižiūrėti ir remontuoti;]
+
+3) skelbiamam uosto vandens gyliui palaikyti bei
+
+akvatorijos gilinimo darbams;
 
 4) Uosto direkcijai išlaikyti;
 
-5) gelbėjimo darbams ir teršalų
+5) gelbėjimo darbams ir teršalų padariniams
 
-padariniams likviduoti;
+likviduoti;
+
+[5
+
+punkto redakcija nuo 2001 m. liepos 1 d.:
+
+5) gelbėjimo darbams ir taršos padariniams uosto akvatorijoje
+
+likviduoti;]
 
 6) hidrotechniniams įrenginiams statyti;
 
 7) terminalams statyti;
 
-8) bendrojo naudojimo inžineriniams
+8) bendrojo naudojimo inžineriniams įrenginiams
 
-įrenginiams statyti;
+statyti;
 
-9) privažiavimo keliams rekonstruoti ir
+9) privažiavimo keliams rekonstruoti ir išplėsti, jas
 
-išplėsti, jas perdavus savivaldybei;
+perdavus savivaldybei;
 
 10) hidrografiniams darbams;
 
-11) mokslinio tyrimo ir projektavimo
+11) mokslinio tyrimo ir projektavimo darbams;
 
-darbams;
+12) kitoms išlaidoms, numatytoms Susisiekimo
 
-12) kitoms išlaidoms, numatytoms
+ministerijos patvirtintoje pajamų-išlaidų sąmatoje.
 
-Susisiekimo ministerijos patvirtintoje pajamų-išlaidų sąmatoje.
+[Nuo 2001 m. liepos 1 d. 10 punktas netenka galios,
+
+buvę 11 ir 12 punktai laikomi atitinkamai 10 ir 11 punktais.]
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1538, 00.02.15, Žin.,
+Nr. VIII-1538, 00.02.15, Žin., 2000,
 
-2000, Nr.18-429 (00.02.29)
+Nr.18-429 (00.02.29)
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
 34 straipsnis. Uosto rinkliavos
 
-1. Laivų savininkai arba valdytojai,
+1. Laivų savininkai arba valdytojai, krovinių
 
-krovinių savininkai už naudojimąsi  uostu  ir Uosto direkcijos patarnavimais
+savininkai už naudojimąsi uostu ir Uosto direkcijos patarnavimais privalo
 
-privalo mokėti uosto rinkliavas.
+mokėti uosto rinkliavas.
 
-2. Uosto  rinkliavų  rūšis,
+2. Uosto rinkliavų rūšis, dydžius, rinkliavų
 
-dydžius,  rinkliavų  taikymo principus nustato Lietuvos Respublikos Vyriausybė.
+taikymo principus nustato Lietuvos Respublikos Vyriausybė.
 
 3. Uosto rinkliavų taikymo taisykles,
 
-rinkliavų nuolaidų ir priedų  dydžius  bei  jų  taikymo tvarką  nustato
+rinkliavų nuolaidų ir priedų dydžius bei jų taikymo tvarką nustato Susisiekimo
 
-Susisiekimo ministerija.
+ministerija.
 
-KETVIRTASIS SKIRSNIS
+[34
 
-UOSTO AKVATORIJOJE PASKENDĘS TURTAS
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
-35 straipsnis.  Paskendusio  turto
+35 straipsnis. Paskendusio turto savanoriško
 
-savanoriško  iškėlimo tvarka
+iškėlimo tvarka
 
-1. Uosto   akvatorijoje  paskendusio
+1. Uosto akvatorijoje paskendusio turto
 
-turto   savininkas, norintis šį turtą iškelti, turi apie tai raštu pranešti
+savininkas, norintis šį turtą iškelti, turi apie tai raštu pranešti Uosto
 
-Uosto direkcijai per tris mėnesius nuo turto paskendimo dienos.
+direkcijai per tris mėnesius nuo turto paskendimo dienos.
 
-2. Uosto   direkcija,   suderinusi
+2. Uosto direkcija, suderinusi su
 
-su   suinteresuotomis valstybės  institucijomis, nustato terminą turtui
+suinteresuotomis valstybės institucijomis, nustato terminą turtui iškelti bei
 
-iškelti  bei šių   darbų   atlikimo  tvarką  ir  apie  tai  praneša   turto
+šių darbų atlikimo tvarką ir apie tai praneša turto savininkui.
 
-savininkui.
+3. Uosto direkcija turi teisę neleisti
 
-3. Uosto  direkcija turi teisę
+savininkui kelti paskendusį turtą savo priemonėmis arba jo pasirinktos laivų
 
-neleisti  savininkui  kelti paskendusį  turtą  savo priemonėmis arba jo
+kėlimo organizacijos priemonėmis, jeigu paskendęs turtas yra akvatorijos
 
-pasirinktos  laivų kėlimo  organizacijos priemonėmis, jeigu paskendęs turtas
+dalyse, kuriose taikomas ypatingas režimas. Šiuo atveju turto iškėlimą
 
-yra akvatorijos  dalyse, kuriose taikomas ypatingas režimas.  Šiuo atveju
+organizuoja Uosto direkcija turto savininko lėšomis.
 
-turto  iškėlimą  organizuoja  Uosto  direkcija   turto savininko lėšomis.
+36 straipsnis. Privalomas paskendusio turto
 
-36 straipsnis. Privalomas paskendusio
+iškėlimas
 
-turto iškėlimas
+1. Jeigu paskendęs turtas kliudo laivybai,
 
-1. Jeigu paskendęs turtas kliudo
+jūrų verslams, hidrotechnikos arba kitiems darbams, kelia grėsmę žmonių gyvybei
 
-laivybai, jūrų verslams, hidrotechnikos  arba  kitiems  darbams,  kelia
+ar saugumui arba teršia aplinką, turto savininkas privalo iškelti šį turtą
 
-grėsmę  žmonių gyvybei  ar  saugumui  arba teršia aplinką,  turto  savininkas
+Uosto direkcijos reikalavimu per jos nustatytą terminą.
 
-privalo iškelti šį turtą Uosto direkcijos reikalavimu per  jos nustatytą
+2. Jeigu dėl paskendusio turto yra tiesioginė
 
-terminą.
+grėsmė laivybos saugumui arba jeigu paskendusio turto savininkas neiškelia jo
 
-2. Jeigu  dėl  paskendusio  turto
+per nustatytą terminą, Uosto direkcija turi teisę imtis reikiamų priemonių
 
-yra  tiesioginė  grėsmė laivybos  saugumui  arba  jeigu paskendusio  turto
-
-savininkas neiškelia jo per nustatytą terminą, Uosto direkcija turi teisę
-
-imtis  reikiamų  priemonių  turtui  iškelti,  o  prireikus  jį sunaikinti arba
-
-kitu būdu pašalinti.
+turtui iškelti, o prireikus jį sunaikinti arba kitu būdu pašalinti.
 
 3. Jeigu paskendusio turto savininkas
 
-nežinomas, terminus, nustatytus   paskendusiam  turtui  iškelti,  Uosto
+nežinomas, terminus, nustatytus paskendusiam turtui iškelti, Uosto direkcija
 
-direkcija paskelbia viešai.
+paskelbia viešai.
 
-37 straipsnis. Paskendusio karinio
+[36
 
-turto iškėlimas
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
-1. Paskendusį karinį turtą iškelia
+37 straipsnis. Paskendusio karinio turto
 
-arba sunaikina ar  kitu būdu   pašalina  šio  turto  savininkas  pagal  šio
+iškėlimas
 
-įstatymo reikalavimus.
+1. Paskendusį karinį turtą iškelia arba
 
-2. Jeigu  paskendęs karinis turtas
+sunaikina ar kitu būdu pašalina šio turto savininkas pagal šio įstatymo
 
-kliudo  laivybai,  jūrų verslams,  hidrotechnikos arba kitiems darbams,  kelia
+reikalavimus.
 
-grėsmę žmonių  gyvybei  ar saugumui arba teršia aplinką,  paskendusio karinio
+2. Jeigu paskendęs karinis turtas kliudo
 
-turto  savininkas  privalo iškelti  šį  turtą  Uosto direkcijos reikalavimu per
+laivybai, jūrų verslams, hidrotechnikos arba kitiems darbams, kelia grėsmę
 
-jos nustatytą terminą.
+žmonių gyvybei ar saugumui arba teršia aplinką, paskendusio karinio turto
 
-38 straipsnis. Uosto direkcijos
+savininkas privalo iškelti šį turtą Uosto direkcijos reikalavimu per jos
 
-iškelto paskendusio  turto  išreikalavimas
+nustatytą terminą.
 
-1. Turtą, kurio iškėlimą organizavo
+[37
 
-Uosto direkcija,  taip pat  turtą, kurio iškėlimą organizavo Uosto direkcija
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
-dėl  jo tiesioginės  grėsmės  laivybos  saugumui,  žmonių  gyvybei  ar
+38 straipsnis. Uosto direkcijos iškelto
 
-saugumui  arba  dėl aplinkos teršimo, kliudymo jūrų  verslams, hidrotechnikos
+paskendusio turto išreikalavimas
 
-arba  kitiems  darbams,  jo  savininkas   gali išreikalauti  per  šešis
+1. Turtą, kurio iškėlimą organizavo Uosto
 
-mėnesius nuo turto  iškėlimo  dienos. Šiuo   atveju   turto  savininkas  Uosto
+direkcija, taip pat turtą, kurio iškėlimą organizavo Uosto direkcija dėl jo
 
-direkcijai   privalo atlyginti turto iškėlimo, jo saugojimo ir kitas dėl to
+tiesioginės grėsmės laivybos saugumui, žmonių gyvybei ar saugumui arba dėl
+
+aplinkos teršimo, kliudymo jūrų verslams, hidrotechnikos arba kitiems darbams,
+
+jo savininkas gali išreikalauti per šešis mėnesius nuo turto iškėlimo dienos.
+
+Šiuo atveju turto savininkas Uosto direkcijai privalo atlyginti turto iškėlimo,
+
+jo saugojimo ir kitas dėl to turėtas išlaidas.
+
+2. Turto savininkas, net jeigu atsisako
+
+paskendusio ar iškelto turto, privalo Uosto direkcijai atlyginti visas dėl to
 
 turėtas išlaidas.
 
-2. Turto  savininkas,  net jeigu
+[38
 
-atsisako  paskendusio  ar iškelto turto, privalo Uosto direkcijai atlyginti
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
-visas dėl to turėtas išlaidas.
+39 straipsnis. Atsitiktinai iškeltas paskendęs
 
-39 straipsnis. Atsitiktinai iškeltas
+turtas
 
-paskendęs turtas
+1. Atsitiktinai iškeltas paskendęs turtas turi
 
-1. Atsitiktinai  iškeltas  paskendęs
+būti perduotas Uosto direkcijai, kuri apie turto iškėlimą ir jo saugojimo vietą
 
-turtas  turi   būti perduotas  Uosto direkcijai, kuri apie turto  iškėlimą  ir
+informuoja turto savininką. Jeigu iškelto turto savininkas nežinomas, Uosto
 
-jo saugojimo  vietą  informuoja turto  savininką.  Jeigu  iškelto turto
+direkcija apie tai paskelbia viešai.
 
-savininkas nežinomas, Uosto direkcija apie tai paskelbia viešai.
+2. Turto savininkas privalo atlyginti Uosto
 
-2. Turto  savininkas  privalo
+direkcijai tokio turto saugojimo išlaidas ir sumokėti atlyginimą asmeniui,
 
-atlyginti Uosto direkcijai tokio   turto saugojimo išlaidas  ir sumokėti
+iškėlusiam ir perdavusiam Uosto direkcijai turtą.
 
-atlyginimą asmeniui, iškėlusiam ir perdavusiam Uosto direkcijai turtą.
+[39
 
-PENKTASIS SKIRSNIS
+straipsnio redakcija nuo 2001 m. liepos 1 d.:
 
-NUOSTOLIŲ ATLYGINIMAS
+40 straipsnis. Nuostolių, atsiradusių dėl
 
-40 straipsnis. Nuostolių, atsiradusių
+locmano kaltės, atlyginimas
 
-dėl locmano  kaltės, atlyginimas
+1. Nuostolius, atsiradusius dėl avarijos,
 
-1. Nuostolius,  atsiradusius dėl
+įvykusios dėl locmano kaltės einant jam tarnybines pareigas, atlygina Uosto
 
-avarijos,  įvykusios  dėl locmano kaltės einant jam tarnybines pareigas,
+direkcija, jeigu įrodoma, kad tai atsitiko dėl locmano klaidingų patarimų,
 
-atlygina  Uosto direkcija,  jeigu  įrodoma,  kad  tai  atsitiko  dėl   locmano
+kuriais vadovaudamasis vedamo            laivo kapitonas negalėjo išvengti
 
-klaidingų   patarimų,  kuriais  vadovaudamasis  vedamo   laivo kapitonas
+avarijos.
 
-negalėjo išvengti avarijos.
+2. Nuostolių atlyginimo dydis negali viršyti
 
-2. Nuostolių  atlyginimo  dydis
+avarinio fondo, kurį formuoja Uosto direkcija, atskaitydama į fondą 10 procentų
 
-negali  viršyti  avarinio fondo, kurį formuoja Uosto direkcija, atskaitydama į
+gaunamų už locmanų patarnavimus metinių pajamų, dydžio.
 
-fondą  10 procentų  gaunamų  už  locmanų  patarnavimus  metinių  pajamų,
+3. Uosto direkcija gali sudaryti locmanų
 
-dydžio.
+tarnybinių pareigų vykdymo civilinės atsakomybės draudimo sutartis.
 
-3. Uosto direkcija gali sudaryti
+[40
 
-locmanų tarnybinių pareigų vykdymo civilinės atsakomybės draudimo sutartis.
+straipsnis. Netenka galios nuo 2001 m. liepos 1 d.]
 
-41 straipsnis. Nuostolių, atsiradusių
+Straipsnio pakeitimai:
 
-dėl nepagrįstai uoste sulaikyto laivo, atlyginimas
+Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265
 
-Nuostolius,  atsiradusius dėl
+(00.09.07), įsigalioja nuo 2001.07.01
 
-nepagrįstai  uoste  sulaikyto laivo,  privalo atlyginti juridinis arba fizinis
+41 straipsnis. Nuostolių, atsiradusių dėl
 
-asmuo,  kurio reikalavimu laivas buvo nepagrįstai sulaikytas.
+nepagrįstai uoste sulaikyto laivo, atlyginimas
 
-42 straipsnis.   Nuostolių,
+Nuostolius, atsiradusius dėl nepagrįstai uoste
 
-atsiradusių dėl taršos, atlyginimas
+sulaikyto laivo, privalo atlyginti juridinis arba fizinis asmuo, kurio
 
-1. Nuostoliai dėl taršos - pinigais
+reikalavimu laivas buvo nepagrįstai sulaikytas.
 
-įvertinta žala  žmonių sveikatai  ir  gyvybei,  kitų asmenų  turtui  bei
+[41
 
-interesams, atsiradusi  dėl uosto teritorijos teršimo, taip pat  išlaidos,
+straipsnis. Netenka galios nuo 2001 m. liepos 1 d.]
 
-atsiradusios  teršimų galimoms neigiamoms pasekmėms  sumažinti arba jų
+Straipsnio pakeitimai:
 
-išvengti.
+Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-2.  Laivo  savininkas arba
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
-valdytojas, kiti  juridiniai  ir fiziniai   asmenys  Lietuvos  Respublikos
+42 straipsnis. Nuostolių, atsiradusių dėl
 
-įstatymų  nustatyta tvarka privalo atlyginti nuostolius, atsiradusius dėl
+taršos, atlyginimas
 
-taršos.
+1. Nuostoliai dėl taršos - pinigais įvertinta
 
-3. Nuostolius dėl taršos,
+žala žmonių sveikatai ir gyvybei, kitų asmenų turtui bei interesams, atsiradusi
 
-atsiradusius išmetant kenksmingas medžiagas, naftą, naftos produktus,
+dėl uosto teritorijos teršimo, taip pat išlaidos, atsiradusios teršimų galimoms
 
-nutekamuosius vandenis  ar šiukšles iš dviejų ar daugiau laivų, šių laivų
+neigiamoms pasekmėms sumažinti arba jų išvengti.
 
-savininkai arba valdytojai,  jeigu  negalima nustatyti  kiekvieno  jų  kaltės,
+2. Laivo savininkas arba valdytojas, kiti
 
-privalo atlyginti solidariai.
+juridiniai ir fiziniai asmenys Lietuvos Respublikos įstatymų nustatyta tvarka
 
-43 straipsnis. Žalos dėl navigacinių
+privalo atlyginti nuostolius, atsiradusius dėl taršos.
 
-įrenginių  sužalojimo atlyginimas
+3. Nuostolius dėl taršos, atsiradusius
 
-Juridinis arba fizinis asmuo,
+išmetant kenksmingas medžiagas, naftą, naftos produktus, nutekamuosius vandenis
 
-sugadinęs ar sunaikinęs uosto navigacinius įrenginius, privalo atlyginti
+ar šiukšles iš dviejų ar daugiau laivų, šių laivų savininkai arba valdytojai,
 
-padarytą žalą, taip pat  ir  avarijų, įvykusių dėl navigacinio ar uosto
+jeigu negalima nustatyti kiekvieno jų kaltės, privalo atlyginti solidariai.
 
-įrenginio sugadinimo, pasekmių likvidavimo išlaidas.
+43 straipsnis. Žalos dėl navigacinių įrenginių
+
+sužalojimo atlyginimas
+
+Juridinis arba fizinis asmuo, sugadinęs ar
+
+sunaikinęs uosto navigacinius įrenginius, privalo atlyginti padarytą žalą, taip
+
+pat ir avarijų, įvykusių dėl navigacinio ar uosto įrenginio sugadinimo,
+
+pasekmių likvidavimo išlaidas.
+
+[43
+
+straipsnis. Netenka galios nuo 2001 m. liepos 1 d.]
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07), įsigalioja nuo 2001.07.01
 
 IV SKYRIUS
 
 BAIGIAMOSIOS NUOSTATOS
 
-44 straipsnis. Klaipėdos valstybinio
+44 straipsnis. Klaipėdos valstybinio jūrų
 
-jūrų uosto reorganizavimas ar likvidavimas
+uosto reorganizavimas ar likvidavimas
 
-Klaipėdos  valstybinis jūrų uostas
+Klaipėdos valstybinis jūrų uostas gali būti
 
-gali būti reorganizuotas arba jo veikla nutraukta tik Lietuvos Respublikos
+reorganizuotas arba jo veikla nutraukta tik Lietuvos Respublikos įstatymu.
 
-įstatymu.
+Skelbiu šį
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS
+RESPUBLIKOS PREZIDENTAS
 
-PREZIDENTAS                                  ALGIRDAS BRAZAUSKAS
+ALGIRDAS BRAZAUSKAS
+
+____________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-424,
+
+97.09.25, Žin., 1997, Nr.96-2422 (97.10.24)
+
+LIETUVOS RESPUBLIKOS KLAIPĖDOS
+
+VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 30 STRAIPSNIO PAKEITIMO
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-682,
+
+98.03.26, Žin., 1998, Nr.32-856 (98.04.03)
+
+LIETUVOS RESPUBLIKOS KLAIPĖDOS
+
+VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1344, 99.10.05, Žin., 1999,
+
+Nr.86-2561 (99.10.15)
+
+LIETUVOS RESPUBLIKOS KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 1, 11,
+
+14, 18, 19, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1538, 00.02.15, Žin., 2000,
+
+Nr.18-429 (00.02.29)
+
+LIETUVOS RESPUBLIKOS KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 33
+
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+
+Nr.75-2265 (00.09.07)
+
+KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 2, 3, 4, 10, 11, 13, 14, 15,
+
+16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 30, 33, 34, 36, 37, 38, 39
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 6, 40, 41, 43 STRAIPSNIŲ PRIPAŽINIMO
+
+NETEKUSIAIS GALIOS, ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR II SKYRIAUS TREČIOJO
+
+SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2001 m. liepos 1 d.
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2000.09.14)
 
