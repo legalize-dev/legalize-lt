@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "1998-02-17"
+last_updated: "1998-10-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -90,7 +90,15 @@ varikliams, gazolis (dyzelinis kuras), skystasis krosnių kuras;
 
 8) erotinio ir smurtinio pobūdžio spaudiniai;
 
-9) visų rūšių tepalai.
+9) visų rūšių tepalai;
+
+10) cukrus, įskaitant cukrų, esantį produktuose (pagal
+
+Lietuvos Respublikos Vyriausybės patvirtintą sąrašą);
+
+11) parfumerijos, kosmetikos ir tualetiniai
+
+preparatai, kurių sudėtyje yra etilo alkoholio.
 
 2. Importuojamos prekės, kaip akcizų objektas, yra šio
 
@@ -99,6 +107,14 @@ straipsnio 1 dalyje nurodytos ne Lietuvos prekės, dėl kurių pagal Lietuvos
 Respublikos muitinės kodeksą (toliau - Muitinės kodeksas) atsiranda importo
 
 skola muitinei.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-901, 98.10.20, Žin., 1998,
+
+Nr.96-2657 (98.11.04)
 
 4 straipsnis. Apmokestinamoji vertė
 
@@ -213,6 +229,26 @@ Muitinės kodekso nustatytais atvejais.
 2. Atsisakoma išieškoti akcizus už importuojamas
 
 prekes Muitinės kodekso nustatytais atvejais.
+
+3. Lietuvos Respublikos įmonių sumokėtas akcizas už
+
+cukrų, sunaudotą Lietuvos Respublikos Vyriausybės sąraše nurodytiems produktams
+
+gaminti (kaip žaliavą), įskaitomas apskaičiuojant akcizą už cukrų, esantį
+
+produktuose, kurie nurodyti Vyriausybės sąraše, arba grąžinamas. Akcizo
+
+įskaitymo ir grąžinimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos
+
+įgaliota institucija.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-901, 98.10.20, Žin., 1998,
+
+Nr.96-2657 (98.11.04)
 
 8 straipsnis. Mokestinis laikotarpis
 
@@ -485,6 +521,16 @@ AKCIZŲ ĮSTATYMO 6
 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja nuo 1998 m. liepos 1 d.
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-901, 98.10.20, Žin., 1998,
+
+Nr.96-2657 (98.11.04)
+
+AKCIZŲ ĮSTATYMO 3 IR 7 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
 *** Pabaiga ***
 
