@@ -4,7 +4,7 @@ identifier: "TAR.A216CB73876A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-28"
-last_updated: "1990-10-18"
+last_updated: "1990-11-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A216CB73876A"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo  14-25  straipsniai  ir  26  straipsnis 
 ---
 # Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymas
 
-Suvestinė redakcija nuo 1990-10-18 iki 1990-11-07
+Suvestinė redakcija nuo 1990-11-08 iki 1990-11-20
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-592, i. k. 090XX01ISTA000I-422
 
@@ -221,4 +221,12 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-671, 1990-10-11, Lietuvos aidas, 1990, Nr. 104-0 (1990-10-17); Žin., 1990, Nr. 31-746 (1990-11-10), i. k. 0901010ISTA000I-671
 
 Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo pakeitimo ir papildymo
+
+2.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-716, 1990-10-30, Lietuvos aidas, 1990, Nr. 117-0 (1990-11-07); Žin., 1990, Nr. 32-767 (1990-11-20), i. k. 0901010ISTA000I-716
+
+Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo 15 straipsnio pakeitimo ir papildymo
 
