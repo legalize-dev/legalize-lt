@@ -4,7 +4,7 @@ identifier: "TAR.446480A0D145"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-04-18"
-last_updated: "2001-06-26"
+last_updated: "2001-12-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,9 @@ eu_legal_act: "true"
 
 14
 
-Kodeksas paskelbtas: Žin., 1996, Nr.52-1239
+Kodeksas paskelbtas: Žin., 1996, Nr.
+
+52-1239
 
 Neoficialus kodekso tekstas
 
@@ -32,55 +34,51 @@ Vilnius
 
 Lietuvos Respublikos Seimas,
 
-siekdamas
+siekdamas susisteminti šiame kodekse
 
-susisteminti šiame kodekse muitinės veiklą reglamentuojančių teisės aktų
+muitinės veiklą reglamentuojančių teisės aktų nuostatas ir suteikti joms
 
-nuostatas ir suteikti joms įstatymo galią;
+įstatymo galią;
 
-pripažindamas,
+pripažindamas, kad išsamaus ir svarbiausių
 
-kad išsamaus ir svarbiausių muitinės veiklą reglamentuojančių tarptautinių
+muitinės veiklą reglamentuojančių tarptautinių konvencijų nuostatas
 
-konvencijų nuostatas atitinkančio Muitinės kodekso priėmimas išreiškia tiek
+atitinkančio Muitinės kodekso priėmimas išreiškia tiek užsienio prekybos
 
-užsienio prekybos subjektų, tiek Lietuvos Respublikos muitinės interesus;
+subjektų, tiek Lietuvos Respublikos muitinės interesus;
 
-suprasdamas,
+suprasdamas, kad viena iš svarbiausių
 
-kad viena iš svarbiausių Muitinės kodekso funkcijų yra sudaryti palankias
+Muitinės kodekso funkcijų yra sudaryti palankias sąlygas verslo ir užsienio
 
-sąlygas verslo ir užsienio prekybos plėtrai;
+prekybos plėtrai;
 
-įsitikinęs,
+įsitikinęs, kad suteikiant muitinei
 
-kad suteikiant muitinei efektyvias tikslaus šio kodekso nuostatų įgyvendinimo
+efektyvias tikslaus šio kodekso nuostatų įgyvendinimo galimybes būtina sukurti
 
-galimybes būtina sukurti palankias sąlygas pasitikėti sąžiningais užsienio
+palankias sąlygas pasitikėti sąžiningais užsienio prekybos subjektais ir
 
-prekybos subjektais ir užtikrinti jų teisių apsaugą;
+užtikrinti jų teisių apsaugą;
 
-pažymėdamas,
+pažymėdamas, kad norint sudaryti palankias
 
-kad norint sudaryti palankias sąlygas užsienio prekybai, kuri yra gyvybiškai
+sąlygas užsienio prekybai, kuri yra gyvybiškai svarbi Lietuvos ūkio raidai,
 
-svarbi Lietuvos ūkio raidai, būtina kiek įmanoma supaprastinti ir pagreitinti
+būtina kiek įmanoma supaprastinti ir pagreitinti būtinus muitinės formalumus;
 
-būtinus muitinės formalumus;
+atsižvelgdamas į tai, kad Lietuvos
 
-atsižvelgdamas
+Respublikai siekiant narystės Europos Sąjungoje būtina laipsniškai priartinti
 
-į tai, kad Lietuvos Respublikai siekiant narystės Europos Sąjungoje būtina
+Lietuvos Respublikos įstatymus prie atitinkamų Europos Sąjungos teisės aktų, o
 
-laipsniškai priartinti Lietuvos Respublikos įstatymus prie atitinkamų Europos
+muitinės veiklą reglamentuojantys įstatymai pripažinti viena iš prioritetinių
 
-Sąjungos teisės aktų, o muitinės veiklą reglamentuojantys įstatymai pripažinti
+tokio teisės aktų suartinimo sričių,
 
-viena iš prioritetinių tokio teisės aktų suartinimo sričių,
-
-priima
-
-šį kodeksą.
+priima šį kodeksą.
 
 I DALIS
 
@@ -90,355 +88,393 @@ I SKYRIUS
 
 BENDROSIOS NUOSTATOS
 
-1
+1 straipsnis. Lietuvos Respublikos muitinės
 
-straipsnis. Lietuvos Respublikos muitinės kodekso reguliavimo sritis
+kodekso reguliavimo sritis
 
-Lietuvos
+Lietuvos Respublikos muitinės kodeksas
 
-Respublikos muitinės kodeksas reglamentuoja prekių importo, eksporto ir
+reglamentuoja prekių importo, eksporto ir tranzito tvarką, su ja susijusių
 
-tranzito tvarką, su ja susijusių muitinės procedūrų atlikimą, importo ir
+muitinės procedūrų atlikimą, importo ir eksporto muitų ir mokesčių, taip pat
 
-eksporto muitų ir mokesčių, taip pat importo ir eksporto draudimų, apribojimų
+importo ir eksporto draudimų, apribojimų ir kontrolės priemonių taikymą bei
 
-ir kontrolės priemonių taikymą bei Lietuvos Respublikos muitinės veiklos
-
-pagrindus.
-
-1   straipsnis.  Lietuvos  Respublikos
-
-muitinės  kodekso reguliavimo sritis
-
-Lietuvos   Respublikos  muitinės
-
-kodeksas  reglamentuoja prekių  importo, eksporto ir tranzito tvarką, su ja
-
-susijusių muitinės  procedūrų  atlikimą, importo ir  eksporto  muitų  ir
-
-mokesčių, taip pat importo ir eksporto draudimų, apribojimų ir kontrolės
-
-priemonių taikymą bei Lietuvos Respublikos  muitinės veiklos pagrindus.
+Lietuvos Respublikos muitinės veiklos pagrindus.
 
 2 straipsnis. Sąvokos
 
-Šiame
+Šiame kodekse vartojamos sąvokos:
 
-kodekse vartojamos sąvokos:
+1) asmuo - fizinis arba juridinis asmuo;
 
-1)
+2) Lietuvos Respublikos asmuo - Lietuvos
 
-asmuo - fizinis arba juridinis asmuo;
+Respublikoje gyvenantis ar nuolat gyvenantis fizinis asmuo arba įstatymų
 
-2)
+nustatyta tvarka Lietuvos Respublikoje įsteigta ir veikianti įmonė, įstaiga ar
 
-Lietuvos Respublikos asmuo - Lietuvos Respublikoje gyvenantis ar nuolat
+organizacija;
 
-gyvenantis fizinis asmuo arba įstatymų nustatyta tvarka Lietuvos Respublikoje
+3) Lietuvos Respublikos ūkio subjektas -
 
-įsteigta ir veikianti įmonė, įstaiga ar organizacija;
+Lietuvos Respublikoje įsteigta ir veikianti įmonė, įstaiga ar organizacija,
 
-3)
+kuri verčiasi komercine, ūkine, finansine, profesine ar panašia veikla;
 
-Lietuvos Respublikos ūkio subjektas - Lietuvos Respublikoje įsteigta ir
+[2 ir 3 punktų redakcija nuo 2002 m. birželio 1 d.:
 
-veikianti įmonė, įstaiga ar organizacija, kuri verčiasi komercine, ūkine,
+2) Lietuvos Respublikos asmuo –
 
-finansine, profesine ar panašia veikla;
+Lietuvos Respublikoje gyvenantis ar nuolat gyvenantis fizinis asmuo arba
 
-4)
+įstatymų nustatyta tvarka Lietuvos Respublikoje įregistruota ir veikianti
 
-keleivis - neturintis ūkio subjekto statuso fizinis asmuo, nelaikomas
+įmonė, įstaiga, organizacija, užsienio juridinio asmens ar kitos organizacijos
 
-gyvenančiu arba nuolat gyvenančiu Lietuvos Respublikoje, laikinai atvykstantis
+atstovybė, filialas, nuolatinė buveinė ar kitoks padalinys arba kitas Lietuvos
 
-į Lietuvos Respubliką turizmo, sporto, darbo, profesinių susirinkimų, gydymosi,
+Respublikoje įregistruotas ir veikiantis asmuo;
 
-mokslo bei panašiais tikslais ir iš jos išvykstantis, taip pat vykstantis per
+3) Lietuvos Respublikos ūkio
 
-Lietuvos Respubliką tranzitu, arba laikomas gyvenančiu ar nuolat gyvenančiu
+subjektas – Lietuvos Respublikoje įregistruota ir veikianti įmonė, įstaiga,
 
-Lietuvos Respublikoje ir laikinai išvykstantis iš Lietuvos Respublikos į
+organizacija, užsienio juridinio asmens ar kitos organizacijos atstovybė,
 
-užsienį turizmo, sporto, darbo, profesinių susirinkimų, gydymosi, mokslo bei
+filialas, nuolatinė buveinė ar kitoks padalinys arba kitas Lietuvos Respublikoje
 
-panašiais tikslais ir grįžtantis atgal;
+įregistruotas ir veikiantis asmuo, kuris verčiasi komercine, ūkine, finansine,
 
-5)
+profesine ar panašia veikla;]
 
-Lietuvos Respublikos muitų teritorija - Lietuvos Respublikos teritorija, kurią
+4) keleivis - neturintis ūkio subjekto
 
-riboja Lietuvos Respublikos muitų siena, išskyrus atvejus, kai Lietuvos
+statuso fizinis asmuo, nelaikomas gyvenančiu arba nuolat gyvenančiu Lietuvos
 
-Respublikos tarptautinės sutartys numato ką kita;
+Respublikoje, laikinai atvykstantis į Lietuvos Respubliką turizmo, sporto,
 
-6)
+darbo, profesinių susirinkimų, gydymosi, mokslo bei panašiais tikslais ir iš
 
-Lietuvos Respublikos muitų siena - Lietuvos Respublikos muitų teritorijos riba,
+jos išvykstantis, taip pat vykstantis per Lietuvos Respubliką tranzitu, arba
 
-sutampanti su Lietuvos Respublikos valstybės siena, išskyrus atvejus, kai Lietuvos
+laikomas gyvenančiu ar nuolat gyvenančiu Lietuvos Respublikoje ir laikinai
 
-Respublikos tarptautinės sutartys numato ką kita;
+išvykstantis iš Lietuvos Respublikos į užsienį turizmo, sporto, darbo,
 
-7)
+profesinių susirinkimų, gydymosi, mokslo bei panašiais tikslais ir grįžtantis
 
-Lietuvos Respublikos muitinė (toliau - muitinė) - Lietuvos Respublikos
+atgal;
 
-valstybės institucija, atsakinga už šio kodekso, jos kompetencijai priskirtų
+5) Lietuvos Respublikos muitų teritorija -
 
-įstatymų bei kitų su importu, eksportu ir tranzitu susijusių teisės aktų
+Lietuvos Respublikos teritorija, kurią riboja Lietuvos Respublikos muitų siena,
 
-įgyvendinimą, importo ir eksporto muitų bei mokesčių surinkimą;
+išskyrus atvejus, kai Lietuvos Respublikos tarptautinės sutartys numato ką
 
-8)
+kita;
 
-muitinės įstaiga - muitinės struktūrinis padalinys, atsakingas už jo
+6) Lietuvos Respublikos muitų siena -
 
-kompetencijai priskirtų muitinės priežiūros priemonių taikymą;
+Lietuvos Respublikos muitų teritorijos riba, sutampanti su Lietuvos Respublikos
 
-9)
+valstybės siena, išskyrus atvejus, kai Lietuvos Respublikos tarptautinės
 
-muitinės priežiūra - visuma priemonių, kurias muitinė taiko įgyvendindama tuos
+sutartys numato ką kita;
 
-įstatymus ir kitus teisės aktus, už kurių vykdymą ji atsako;
+7) Lietuvos Respublikos muitinė (toliau -
 
-10)
+muitinė) - Lietuvos Respublikos valstybės institucija, atsakinga už šio
 
-sprendimas - oficialus veiksmas, kuriuo muitinė pareiškia apie šio kodekso ar
+kodekso, jos kompetencijai priskirtų įstatymų bei kitų su importu, eksportu ir
 
-kitų teisės aktų nuostatų taikymą tam tikru konkrečiu atveju, sukeliantis
+tranzitu susijusių teisės aktų įgyvendinimą, importo ir eksporto muitų bei
 
-teisines pasekmes vienam ar keliems asmenims;
+mokesčių surinkimą;
 
-11)
+8) muitinės įstaiga - muitinės
 
-prekės - bet koks kilnojamasis turtas, galintis būti užsienio prekybos objektu;
+struktūrinis padalinys, atsakingas už jo kompetencijai priskirtų muitinės
 
-12)
+priežiūros priemonių taikymą;
 
-Lietuvos prekės - prekės, laisvai cirkuliuojančios Lietuvos Respublikos muitų
+9) muitinės priežiūra - visuma priemonių,
 
-teritorijoje, t.y. prekės, kuriomis gali būti disponuojama Lietuvos Respublikos
+kurias muitinė taiko įgyvendindama tuos įstatymus ir kitus teisės aktus, už
 
-muitų teritorijoje, netaikant joms muitinės priežiūros priemonių, taip pat
+kurių vykdymą ji atsako;
 
-muitinės prižiūrimos prekės, kurios dėl ypatingos paskirties visai ar iš dalies
+10) sprendimas - oficialus veiksmas,
 
-neapmokestinamos importo muitais ir mokesčiais;
+kuriuo muitinė pareiškia apie šio kodekso ar kitų teisės aktų nuostatų taikymą
 
-13)
+tam tikru konkrečiu atveju, sukeliantis teisines pasekmes vienam ar keliems
 
-ne Lietuvos prekės - prekės, neturinčios Lietuvos prekių statuso;
+asmenims;
 
-14)
+11) prekės - bet koks kilnojamasis turtas,
 
-importas - prekių įvežimas į Lietuvos Respublikos muitų teritoriją;
+galintis būti užsienio prekybos objektu;
 
-15)
+12) Lietuvos prekės - prekės, laisvai
 
-eksportas - prekių išvežimas iš Lietuvos Respublikos muitų teritorijos;
+cirkuliuojančios Lietuvos Respublikos muitų teritorijoje, t.y. prekės, kuriomis
 
-16)
+gali būti disponuojama Lietuvos Respublikos muitų teritorijoje, netaikant joms
 
-reimportas - prekių, anksčiau eksportuotų iš Lietuvos Respublikos muitų
+muitinės priežiūros priemonių, taip pat muitinės prižiūrimos prekės, kurios dėl
 
-teritorijos, importas į šią teritoriją;
+ypatingos paskirties visai ar iš dalies neapmokestinamos importo muitais ir
 
-17)
+mokesčiais;
 
-reeksportas - prekių, anksčiau importuotų į Lietuvos Respublikos muitų
+[10, 11 ir 12 punktų redakcija nuo 2002 m. birželio 1
 
-teritoriją, eksportas iš šios teritorijos;
+d.:
 
-18)
+10) sprendimas – individualus
 
-tranzitas - ne Lietuvos prekių gabenimas per Lietuvos Respublikos muitų
+administracinis aktas, kuriuo muitinė pareiškia apie šio kodekso ar kitų teisės
+
+aktų nuostatų taikymą tam tikru konkrečiu atveju, sukeliantis teisines pasekmes
+
+vienam ar keliems, konkrečiai nurodytiems ar individualiais požymiais
+
+apibrėžtiems asmenims, įskaitant šio kodekso 5(1) straipsnyje
+
+nurodytų privalomosios informacijos aktų išdavimą;
+
+11) prekės – daiktai, galintys
+
+būti užsienio prekybos objektais, išskyrus žemę bei kitus su žeme susijusius ir
+
+pagal jų paskirtį ir prigimtį nekilnojamuosius daiktus, kurių negalima perkelti
+
+iš vienos vietos į kitą nepakeitus jų paskirties bei iš esmės nesumažinus jų
+
+vertės;
+
+12) Lietuvos prekės – prekės:
+
+a) kurios išgautos, pagamintos arba
+
+išgautos ir pagamintos Lietuvos Respublikos muitų teritorijoje laikantis šio
+
+kodekso 25 straipsnyje nustatytų sąlygų ir kurių sudėtyje nėra prekių,
+
+importuotų į Lietuvos Respublikos muitų teritoriją iš kitų valstybių arba
+
+teritorijų. Prekės, išgautos, pagamintos arba išgautos ir pagamintos iš kitų
+
+prekių įforminus muitinės procedūrą, kurią taikant sąlygiškai neapmokestinama
+
+importo muitais ir mokesčiais, Lietuvos prekėmis laikomos tik tada, kai
+
+išleidžiamos laisvai cirkuliuoti;
+
+b) importuotos į Lietuvos Respublikos
+
+muitų teritoriją iš kitų valstybių arba teritorijų ir išleistos laisvai
+
+cirkuliuoti, įskaitant muitinės prižiūrimas prekes, kurios dėl ypatingos
+
+paskirties visai ar iš dalies neapmokestinamos importo muitais ir mokesčiais;
+
+c) išgautos arba pagamintos Lietuvos
+
+Respublikos muitų teritorijoje tik iš šio punkto
+
+b papunktyje nurodytų prekių arba ir iš a, ir iš b papunkčiuose nurodytų
+
+prekių;]
+
+13) ne Lietuvos prekės - prekės,
+
+neturinčios Lietuvos prekių statuso;
+
+14) importas - prekių įvežimas į Lietuvos
+
+Respublikos muitų teritoriją;
+
+15) eksportas - prekių išvežimas iš
+
+Lietuvos Respublikos muitų teritorijos;
+
+[14 ir 15 punktų redakcija nuo 2002 m. birželio 1 d.:
+
+14) importas – prekių įvežimas į
+
+Lietuvos Respublikos muitų teritoriją arba jų įvežimą sukėlę veiksmai;
+
+15) eksportas – prekių išvežimas
+
+iš Lietuvos Respublikos muitų teritorijos arba jų išvežimą sukėlę veiksmai;]
+
+16) reimportas - prekių, anksčiau
+
+eksportuotų iš Lietuvos Respublikos muitų teritorijos, importas į šią
 
 teritoriją;
 
-19)
+17) reeksportas - prekių, anksčiau
 
-mokesčio įstatymas - įstatymas, Lietuvos Respublikos tarptautinė sutartis,
+importuotų į Lietuvos Respublikos muitų teritoriją, eksportas iš šios
 
-kurie nustato mokestį ir (arba) apibrėžia su apmokestinimu arba mokesčių
+teritorijos;
 
-lengvatomis susijusius klausimus;
+18) tranzitas - ne Lietuvos prekių
 
-20)
+gabenimas per Lietuvos Respublikos muitų teritoriją;
 
-importo muitai ir mokesčiai - muitai ir kiti mokesčiai, renkami (sumokami) už
+19) mokesčio įstatymas - įstatymas,
 
-importuojamas prekes arba susiję su importu, išskyrus apmokėjimą už suteiktas
+Lietuvos Respublikos tarptautinė sutartis, kurie nustato mokestį ir (arba)
 
-paslaugas;
+apibrėžia su apmokestinimu arba mokesčių lengvatomis susijusius klausimus;
 
-21)
+20) importo muitai ir mokesčiai - muitai
 
-eksporto muitai ir mokesčiai - muitai ir kiti mokesčiai, renkami (sumokami) už
+ir kiti mokesčiai, renkami (sumokami) už importuojamas prekes arba susiję su
 
-eksportuojamas prekes arba susiję su eksportu, išskyrus apmokėjimą už suteiktas
+importu, išskyrus apmokėjimą už suteiktas paslaugas;
 
-paslaugas;
+21) eksporto muitai ir mokesčiai - muitai
 
-22)
+ir kiti mokesčiai, renkami (sumokami) už eksportuojamas prekes arba susiję su
 
-skola muitinei - asmens prievolė sumokėti tam tikrą įstatymų ir kitų teisės
+eksportu, išskyrus apmokėjimą už suteiktas paslaugas;
 
-aktų už prekes nustatytų importo muitų ir mokesčių (importo skola) arba
+22) skola muitinei - asmens prievolė
 
-eksporto muitų ir mokesčių (eksporto skola) sumą;
+sumokėti tam tikrą įstatymų ir kitų teisės aktų už prekes nustatytų importo
 
-23)
+muitų ir mokesčių (importo skola) arba eksporto muitų ir mokesčių (eksporto
 
-skolininkas - asmuo, privalantis sumokėti skolą muitinei;
+skola) sumą;
 
-24)
+23) skolininkas - asmuo, privalantis
 
-muitinis tikrinimas - prekių tikrinimas, dokumentų atitikties ir galiojimo,
+sumokėti skolą muitinei;
 
-įmonių apskaitos ir kitų dokumentų, transporto priemonių, asmenų (keleivių) bei
+24) muitinis tikrinimas - prekių
 
-jų gabenamo bagažo ir kitų daiktų tikrinimas, tyrimai ir kiti panašūs muitinės
+tikrinimas, dokumentų atitikties ir galiojimo, įmonių apskaitos ir kitų
 
-veiksmai, atliekami norint įsitikinti, ar laikomasi įstatymų ir kitų teisės
+dokumentų, transporto priemonių, asmenų (keleivių) bei jų gabenamo bagažo ir
 
-aktų, už kurių įgyvendinimą atsako muitinė;
+kitų daiktų tikrinimas, tyrimai ir kiti panašūs muitinės veiksmai, atliekami
 
-25)
+norint įsitikinti, ar laikomasi įstatymų ir kitų teisės aktų, už kurių
 
-muitinės formalumai - asmens ir muitinės privalomos atlikti operacijos,
+įgyvendinimą atsako muitinė;
 
-reikalingos užtikrinti įstatymų ir kitų teisės aktų, už kurių įgyvendinimą
+25) muitinės formalumai - asmens ir
 
-atsako muitinė, laikymąsi;
+muitinės privalomos atlikti operacijos, reikalingos užtikrinti įstatymų ir kitų
 
-26)
+teisės aktų, už kurių įgyvendinimą atsako muitinė, laikymąsi;
 
-muitinės sankcionuoti veiksmai - šie veiksmai, kuriuos asmenys, turėdami
+26) muitinės sankcionuoti veiksmai - šie
 
-muitinės sutikimą, atlieka su muitinės prižiūrimomis prekėmis:
+veiksmai, kuriuos asmenys, turėdami muitinės sutikimą, atlieka su muitinės
 
-a)
+prižiūrimomis prekėmis:
 
-prekių pateikimas muitinės procedūrai įforminti ir muitinės procedūros
+a) prekių pateikimas muitinės procedūrai
 
-vykdymas;
+įforminti ir muitinės procedūros vykdymas;
 
-b)
+b) prekių įvežimas į laisvąją ekonominę
 
-prekių įvežimas į laisvąją ekonominę zoną arba padėjimas į laisvąjį sandėlį;
+zoną arba padėjimas į laisvąjį sandėlį;
 
-c)
+[26 punkto b papunkčio redakcija nuo 2002 m. birželio
 
-reeksportas;
+1 d.:
 
-d)
+b) prekių įvežimas į laisvąją zoną arba
 
-prekių sunaikinimas;
+padėjimas į laisvąjį sandėlį;]
 
-e)
+c) reeksportas;
 
-prekių neatlygintinas perdavimas valstybei;
+d) prekių sunaikinimas;
 
-27)
+e) prekių neatlygintinas perdavimas
 
-muitinės procedūra - šie muitinės sankcionuoti veiksmai:
+valstybei;
 
-a)
+27) muitinės procedūra - šie muitinės
 
-išleidimas laisvai cirkuliuoti;
+sankcionuoti veiksmai:
 
-b)
+a) išleidimas laisvai cirkuliuoti;
 
-muitinis tranzitas;
+b) muitinis tranzitas;
 
-c)
+c) muitinis sandėliavimas;
 
-muitinis sandėliavimas;
+d) laikinasis įvežimas perdirbti;
 
-d)
+e) muitinės prižiūrimas perdirbimas;
 
-laikinasis įvežimas perdirbti;
+f) laikinasis įvežimas;
 
-e)
+g) laikinasis išvežimas perdirbti;
 
-muitinės prižiūrimas perdirbimas;
+h) laikinasis išvežimas;
 
-f)
+i) negrąžinamasis eksportas;
 
-laikinasis įvežimas;
+28) muitinės deklaracija - muitinės
 
-g)
+nustatytos ar muitinei priimtinos formos pareiškimas arba veiksmas, kuriais
 
-laikinasis išvežimas perdirbti;
+pasirenkama muitinės procedūra ir pateikiama muitinės reikalaujama informacija
 
-h)
+apie prekes, reikalinga šiai muitinės procedūrai įforminti;
 
-laikinasis išvežimas;
+29)deklarantas - asmuo, pateikiantis
 
-i)
+muitinės deklaraciją, arba asmuo, kurio vardu ši deklaracija pateikiama;
 
-negrąžinamasis eksportas;
+30) prekių pateikimas muitinei -
 
-28)
+nustatytos formos pranešimas muitinei apie prekių pristatymą į muitinės įstaigą
 
-muitinės deklaracija - muitinės nustatytos ar muitinei priimtinos formos
+arba kitą muitinės nustatytą ar muitinei priimtiną vietą jų muitiniam
 
-pareiškimas arba veiksmas, kuriais pasirenkama muitinės procedūra ir pateikiama
+tikrinimui;
 
-muitinės reikalaujama informacija apie prekes, reikalinga šiai muitinės
+31) prekių išleidimas - muitinės veiksmas,
 
-procedūrai įforminti;
+kuriuo asmeniui suteikiama teisė atlikti su prekėmis veiksmus, leidžiamus
 
-29)deklarantas
+taikant muitinės procedūrą, kuriai įforminti pateiktos prekės;
 
-- asmuo, pateikiantis muitinės deklaraciją, arba asmuo, kurio vardu ši
+32) muitinės procedūros vykdytojas -
 
-deklaracija pateikiama;
+asmuo, atsakingas muitinei už prekėms taikomos muitinės procedūros reikalavimų
 
-30)
+įvykdymą;
 
-prekių pateikimas muitinei - nustatytos formos pranešimas muitinei apie prekių
+33) garantija - piniginis užstatas arba
 
-pristatymą į muitinės įstaigą arba kitą muitinės nustatytą ar muitinei
+raštiškas garanto įsipareigojimas atsakyti muitinei, jeigu skolininkas skolos
 
-priimtiną vietą jų muitiniam tikrinimui;
+muitinei nesumokės ar šią prievolę įvykdys netinkamai;
 
-31)
+34) garantas - Lietuvos Respublikos ūkio
 
-prekių išleidimas - muitinės veiksmas, kuriuo asmeniui suteikiama teisė atlikti
+subjektas, įstatymų nustatyta tvarka prisiėmęs atsakomybę dėl kito asmens
 
-su prekėmis veiksmus, leidžiamus taikant muitinės procedūrą, kuriai įforminti
+prievolės sumokėti skolą muitinei įvykdymo, jeigu šis asmuo skolos muitinei
 
-pateiktos prekės;
+nesumokės arba šią prievolę įvykdys netinkamai;
 
-32)
+35) laisvoji zona – laisvoji ekonominė
 
-muitinės procedūros vykdytojas - asmuo, atsakingas muitinei už prekėms taikomos
-
-muitinės procedūros reikalavimų įvykdymą;
-
-33)
-
-garantija - piniginis užstatas arba raštiškas garanto įsipareigojimas atsakyti
-
-muitinei, jeigu skolininkas skolos muitinei nesumokės ar šią prievolę įvykdys
-
-netinkamai;
-
-34)
-
-garantas - Lietuvos Respublikos ūkio subjektas, įstatymų nustatyta tvarka
-
-prisiėmęs atsakomybę dėl kito asmens prievolės sumokėti skolą muitinei
-
-įvykdymo, jeigu šis asmuo skolos muitinei nesumokės arba šią prievolę įvykdys
-
-netinkamai;
-
-35) laisvoji zona – laisvoji ekonominė zona, laisvasis
-
-uostas.
+zona, laisvasis uostas.
 
 Straipsnio pakeitimai:
 
@@ -450,6 +486,10 @@ Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
 
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
 II SKYRIUS
 
 ASMENŲ TEISĖS IR PAREIGOS, SUSIJUSIOS SU KODEKSO
@@ -458,697 +498,889 @@ NUOSTATŲ ĮGYVENDINIMU
 
 3 straipsnis. Atstovavimas
 
-1.
+1. Atsižvelgiant į šio kodekso 63
 
-Atsižvelgiant į šio kodekso 63 straipsnio 2 dalies nuostatas, kiekvienas asmuo
+straipsnio 2 dalies nuostatas, kiekvienas asmuo įstatymų nustatyta tvarka ir
 
-įstatymų nustatyta tvarka ir sąlygomis gali įgalinti kitą asmenį atstovauti jam
+sąlygomis gali įgalinti kitą asmenį atstovauti jam muitinėje įforminant prekių
 
-muitinėje įforminant prekių laikinąjį saugojimą, muitinės procedūrą ar kitą
+laikinąjį saugojimą, muitinės procedūrą ar kitą muitinės sankcionuotą veiksmą.
 
-muitinės sankcionuotą veiksmą.
+2. Atstovas turi būti Lietuvos Respublikos
 
-2.
+asmuo, šio kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka
 
-Atstovas turi būti Lietuvos Respublikos asmuo, šio kodekso taikymą
+įgijęs teisę atstovauti kitiems asmenims, deklaruodamas prekes muitinei ir
 
-reglamentuojančių teisės aktų nustatyta tvarka įgijęs teisę atstovauti kitiems
+pateikdamas jas muitiniam įforminimui (muitinės tarpininkas), išskyrus atvejus,
 
-asmenims, deklaruodamas prekes muitinei ir pateikdamas jas muitiniam
+nurodytus šio kodekso 63 straipsnio 4 dalyje.
 
-įforminimui (muitinės tarpininkas), išskyrus atvejus, nurodytus šio kodekso 63
+3. Atstovas privalo pareikšti muitinei,
 
-straipsnio 4 dalyje.
+kad atstovauja kitam asmeniui, ir pateikti visus jo įgalinimą patvirtinančius
 
-3.
+dokumentus.
 
-Atstovas privalo pareikšti muitinei, kad atstovauja kitam asmeniui, ir pateikti
-
-visus jo įgalinimą patvirtinančius dokumentus.
+[3 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
 4 straipsnis. Sprendimai
 
-1.
+1. Asmuo, prašantis muitinės priimti
 
-Asmuo, prašantis muitinės priimti sprendimą dėl šio kodekso, taip pat kitų
+sprendimą dėl šio kodekso, taip pat kitų teisės aktų, už kurių įgyvendinimą
 
-teisės aktų, už kurių įgyvendinimą atsakinga muitinė, taikymo, turi pateikti
+atsakinga muitinė, taikymo, turi pateikti muitinei jos reikalaujamą informaciją
 
-muitinei jos reikalaujamą informaciją ir dokumentus, reikalingus sprendimui
+ir dokumentus, reikalingus sprendimui priimti.
 
-priimti.
+2. Kai prašymas pateikiamas raštu,
 
-2.
+sprendimas turi būti priimamas ne vėliau kaip per 8 darbo dienas, jeigu
 
-Kai prašymas pateikiamas raštu, sprendimas turi būti priimamas ne vėliau kaip
+įstatymai ir kiti teisės aktai nenustato kito termino. Jeigu sprendimui priimti
 
-per 8 darbo dienas, jeigu įstatymai ir kiti teisės aktai nenustato kito
+būtina papildoma informacija, kuriai gauti reikalinga ekspertizė,tyrimas,
 
-termino. Jeigu sprendimui priimti būtina papildoma informacija, kuriai gauti
+komercinės ir ūkinės veiklos patikrinimas, kreipimasis į kitas valstybės
 
-reikalinga ekspertizė,tyrimas, komercinės ir ūkinės veiklos patikrinimas,
+institucijas ar panašūs veiksmai, tai sprendimas turi būti priimamas ne vėliau
 
-kreipimasis į kitas valstybės institucijas ar panašūs veiksmai, tai sprendimas
+kaip per 30 darbo dienų. Muitinė išimties tvarka gali pratęsti prašymo
 
-turi būti priimamas ne vėliau kaip per 30 darbo dienų. Muitinė išimties tvarka
+nagrinėjimo laikotarpį, bet ne daugiau kaip 10 darbo dienų. Apie sprendimą arba
 
-gali pratęsti prašymo nagrinėjimo laikotarpį, bet ne daugiau kaip 10 darbo
+prašymo nagrinėjimo laikotarpio pratęsimą pareiškėjui pranešama raštu. Priimtus
 
-dienų. Apie sprendimą arba prašymo nagrinėjimo laikotarpio pratęsimą
+sprendimus muitinė nedelsdama įgyvendina.
 
-pareiškėjui pranešama raštu. Priimtus sprendimus muitinė nedelsdama įgyvendina.
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-3.
+2. Kai prašymas pateikiamas raštu,
 
-Raštu išdėstytame muitinės sprendime, kuriuo prašymas atmetamas arba kuris yra
+sprendimas turi būti priimamas ne vėliau kaip per 8 darbo dienas, jeigu
 
-nepalankus pareiškėjui, turi būti nurodyti tokio sprendimo priėmimo motyvai ir
+įstatymai ir kiti teisės aktai nenustato kito termino. Jeigu sprendimui priimti
 
-asmens teisė jį apskųsti vadovaujantis šio kodekso 226 straipsnio nuostatomis.
+būtina papildoma informacija, kuriai gauti reikalinga ekspertizė, tyrimas,
 
-4.Asmeniui
+komercinės ir ūkinės veiklos patikrinimas, kreipimasis į kitas valstybės
 
-palankus sprendimas pripažįstamas negaliojančiu, jeigu jis priimtas remiantis
+institucijas ar panašūs veiksmai, tai sprendimas turi būti priimamas ne vėliau
 
-netikslia arba neišsamia informacija, apie kurios netikslumą arba neišsamumą
+kaip per 30 darbo dienų. Muitinė išimties tvarka gali pratęsti prašymo
 
-pareiškėjas žinojo arba turėjo žinoti, ir jeigu toks sprendimas negalėjo būti
+nagrinėjimo laikotarpį, bet ne daugiau kaip 10 darbo dienų, arba sustabdyti
 
-priimtas remiantis tikslia ir išsamia informacija. Sprendimas netenka galios
+prašymo nagrinėjimą ne ilgesniam kaip 12 mėnesių laikotarpiui, jeigu sprendimui
 
-nuo jo pripažinimo negaliojančiu. Apie sprendimo pripažinimą negaliojančiu
+priimti būtina papildoma informacija ir muitinė Lietuvos Respublikos
 
-pranešama raštu asmeniui, kuris buvo informuotas apie sprendimą.
+tarptautinių sutarčių nustatyta tvarka kreipėsi į kompetentingą užsienio
 
-5.
+valstybės instituciją ar tarptautinę organizaciją dėl šios informacijos
 
-Asmeniui palankaus sprendimo galiojimas gali būti sustabdytas arba pakeistas
+pateikimo. Apie sprendimą arba prašymo nagrinėjimo laikotarpio pratęsimą ar
 
-pasikeitus sąlygoms, kurioms esant jis buvo priimtas, arba pareiškėjui
+sustabdymą pareiškėjui pranešama raštu. Priimtus sprendimus muitinė nedelsdama
 
-nevykdant su priimtu sprendimu susijusių prievolių. Apie sprendimo galiojimo
+įgyvendina.]
 
-sustabdymą arba jo pakeitimą raštu pranešama asmeniui, kuris buvo informuotas
+3. Raštu išdėstytame muitinės sprendime,
 
-apie sprendimą. Sprendimo galiojimo sustabdymas arba pakeitimas įsigalioja nuo
+kuriuo prašymas atmetamas arba kuris yra nepalankus pareiškėjui, turi būti
 
-pranešimo apie tai pareiškėjui, jeigu muitinė nenustato kito termino.
+nurodyti tokio sprendimo priėmimo motyvai ir asmens teisė jį apskųsti
+
+vadovaujantis šio kodekso 226 straipsnio nuostatomis.
+
+4.Asmeniui palankus sprendimas
+
+pripažįstamas negaliojančiu, jeigu jis priimtas remiantis netikslia arba
+
+neišsamia informacija, apie kurios netikslumą arba neišsamumą pareiškėjas
+
+žinojo arba turėjo žinoti, ir jeigu toks sprendimas negalėjo būti priimtas
+
+remiantis tikslia ir išsamia informacija. Sprendimas netenka galios nuo jo
+
+pripažinimo negaliojančiu. Apie sprendimo pripažinimą negaliojančiu pranešama
+
+raštu asmeniui, kuris buvo informuotas apie sprendimą.
+
+5. Asmeniui palankaus sprendimo galiojimas
+
+gali būti sustabdytas arba pakeistas pasikeitus sąlygoms, kurioms esant jis
+
+buvo priimtas, arba pareiškėjui nevykdant su priimtu sprendimu susijusių
+
+prievolių. Apie sprendimo galiojimo sustabdymą arba jo pakeitimą raštu
+
+pranešama asmeniui, kuris buvo informuotas apie sprendimą. Sprendimo galiojimo
+
+sustabdymas arba pakeitimas įsigalioja nuo pranešimo apie tai pareiškėjui,
+
+jeigu muitinė nenustato kito termino.
+
+[5 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+5. Asmeniui palankaus sprendimo
+
+galiojimas gali būti sustabdytas arba pakeistas pasikeitus sąlygoms, kurioms
+
+esant jis buvo priimtas, arba pareiškėjui nevykdant su priimtu sprendimu
+
+susijusių prievolių. Apie sprendimo galiojimo sustabdymą arba jo pakeitimą
+
+raštu pranešama asmeniui, kuris buvo informuotas apie sprendimą. Sprendimo
+
+galiojimo sustabdymas arba pakeitimas įsigalioja nuo pranešimo apie tai
+
+pareiškėjui dienos. Tačiau išimtiniais atvejais, kai tai būtina dėl teisėtų
+
+asmens, kuriam taikomas atitinkamas sprendimas, lūkesčių, muitinė turi teisę nustatyti
+
+vėlesnę sprendimo galiojimo sustabdymo arba pakeitimo įsigaliojimo datą.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 5 straipsnis. Informavimas
 
-1.
+1. Kiekvienas asmuo turi teisę prašyti
 
-Kiekvienas asmuo turi teisę prašyti muitinės pateikti informaciją, kaip
+muitinės pateikti informaciją, kaip taikomas šis kodeksas, taip pat kiti teisės
 
-taikomas šis kodeksas, taip pat kiti teisės aktai, už kurių įgyvendinimą atsakinga
+aktai, už kurių įgyvendinimą atsakinga muitinė. Toks prašymas gali būti
 
-muitinė. Toks prašymas gali būti nepatenkinamas, jeigu jis nėra susijęs su
+nepatenkinamas, jeigu jis nėra susijęs su konkrečia pareiškėjo atlikta arba
 
-konkrečia pareiškėjo atlikta arba numatoma atlikti importo, eksporto arba
+numatoma atlikti importo, eksporto arba tranzito operacija.
 
-tranzito operacija.
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-2.
+1. Kiekvienas asmuo turi teisę prašyti
 
-Informacija pareiškėjui teikiama nemokamai, tačiau kai informacijos pateikimas
+muitinės pateikti informaciją, kaip taikomas šis kodeksas, taip pat kiti teisės
 
-susijęs su tam tikromis muitinės išlaidomis - prekių ekspertize arba analize,
+aktai, už kurių įgyvendinimą atsakinga muitinė. Toks prašymas gali būti
 
-jų grąžinimu pareiškėjui paštu, informacijos paieška, dokumentų kopijavimu ir
+nepatenkinamas, jeigu jis nėra susijęs su konkrečia pareiškėjo atlikta arba
 
-pan., - pareiškėjas privalo Muitinės departamento nustatyta tvarka šias
+numatoma atlikti importo (įskaitant su importuotomis prekėmis atliekamus
 
-išlaidas atlyginti.
+muitinės sankcionuotus veiksmus), eksporto arba tranzito operacija.]
+
+2. Informacija pareiškėjui teikiama
+
+nemokamai, tačiau kai informacijos pateikimas susijęs su tam tikromis muitinės
+
+išlaidomis - prekių ekspertize arba analize, jų grąžinimu pareiškėjui paštu,
+
+informacijos paieška, dokumentų kopijavimu ir pan., - pareiškėjas privalo
+
+Muitinės departamento nustatyta tvarka šias išlaidas atlyginti.
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+[Kodeksas papildomas 5(1) straipsniu nuo
+
+2002 m. birželio 1 d.:
+
+5(1) straipsnis.
+
+Privalomosios informacijos aktai
+
+1. Gavusi asmens raštišką prašymą,
+
+muitinė, vadovaudamasi šio kodekso taikymą reglamentuojančiais teisės aktais,
+
+išduoda šiam asmeniui privalomosios tarifinės informacijos aktą, kuriame
+
+pateikta informacija apie jame aprašytų prekių tarifinį klasifikavimą, arba
+
+privalomosios prekių kilmės informacijos aktą, kuriame pateikta informacija
+
+apie jame aprašytų prekių kilmę ir jos įgijimą nulemiančias aplinkybes.
+
+2. Privalomosios
+
+tarifinės informacijos ir privalomosios prekių kilmės informacijos aktuose
+
+pateikta informacija yra privaloma visoms muitinės įstaigoms, tačiau tik tada,
+
+jeigu muitinei prekes pateikia pats asmuo, kuriam išduotas atitinkamas aktas,
+
+arba jo vardu muitinės tarpininkas, ir tik atliekant tarifinį prekių
+
+klasifikavimą arba nustatant jų kilmę. Ji privaloma muitinės įstaigoms tik
+
+tada, jeigu muitinės formalumai su prekėmis, kurioms pageidaujama taikyti
+
+privalomąją informaciją, atliekami po to, kai muitinė jau yra išdavusi
+
+atitinkamą aktą. Privalomoji prekių kilmės informacija naudojama atliekant
+
+muitinės formalumus, susijusius su šio kodekso 24–28 straipsnių taikymu.
+
+3. Asmuo, kuriam išduotas privalomosios
+
+informacijos aktas, arba jo vardu šį aktą pateikęs muitinės tarpininkas privalo
+
+būti pasirengęs įrodyti ir atsako už tai, kad:
+
+1) tarifinio prekių klasifikavimo atveju
+
+– deklaruojamos prekės pagal visus požymius atitinka prekes, apie kurias
+
+pateikta informacija atitinkamame privalomosios tarifinės informacijos akte;
+
+2) prekių kilmės nustatymo atveju –
+
+prekės, kurių kilmė nustatoma, ir jos įgijimą nulemiančios aplinkybės visais
+
+atžvilgiais atitinka prekes ir aplinkybes, apie kurias pateikta informacija
+
+atitinkamame privalomosios prekių kilmės informacijos akte.
+
+4. Privalomosios tarifinės informacijos
+
+aktas galioja 6 metus nuo jo išdavimo dienos, o privalomosios prekių kilmės
+
+informacijos aktas – 3 metus nuo jo išdavimo dienos. Aktas pripažįstamas
+
+netekusiu galios, jeigu jis išduotas remiantis netikslia arba neišsamia
+
+pareiškėjo pateikta informacija, nežiūrint į tai, ar pareiškėjas apie šios
+
+informacijos netikslumą žinojo, ar ne.
+
+5. Privalomosios informacijos aktas
+
+netenka galios:
+
+1) privalomosios tarifinės informacijos:
+
+a) šio kodekso taikymą reglamentuojančių
+
+teisės aktų nustatytais atvejais, kai įsigalioja kombinuotosios muitų tarifų ir
+
+užsienio prekybos statistikos nomenklatūros taikymą reglamentuojantys teisės
+
+aktai, kurių nuostatų privalomosios tarifinės informacijos akte pateikta
+
+informacija neatitinka;
+
+b) kai jis pripažįstamas negaliojančiu
+
+arba pakeičiamas kitu vadovaujantis šio kodekso 4 straipsniu, jeigu apie šio
+
+akto pripažinimą negaliojančiu arba pakeitimą kitu informuojamas asmuo, kuriam
+
+jis išduotas;
+
+c) šio kodekso taikymą reglamentuojančių
+
+teisės aktų nustatyta tvarka šį aktą pripažinus netekusiu galios, jeigu
+
+nustatoma, kad jame pateikta informacija neatitinka kombinuotosios muitų tarifų
+
+ir užsienio prekybos statistikos nomenklatūros taikymą reglamentuojančių teisės
+
+aktų;
+
+d) įsiteisėjus atitinkamam teismo
+
+sprendimui;
+
+2) privalomosios prekių kilmės
+
+informacijos:
+
+a) šio kodekso taikymą reglamentuojančių
+
+teisės aktų nustatytais atvejais, kai įsigalioja Lietuvos Respublikos
+
+tarptautinės sutartys ar kiti prekių kilmės taisyklių taikymą reglamentuojantys
+
+teisės aktai, kurių nuostatų privalomosios prekių kilmės informacijos akte
+
+pateikta informacija neatitinka;
+
+b) kai jis pripažįstamas negaliojančiu
+
+arba pakeičiamas kitu vadovaujantis šio kodekso
+
+4 straipsniu, jeigu apie šio akto pripažinimą negaliojančiu arba pakeitimą kitu
+
+informuojamas asmuo, kuriam jis išduotas;
+
+c) šio kodekso taikymą reglamentuojančių
+
+teisės aktų nustatyta tvarka šį aktą pripažinus netekusiu galios, jeigu
+
+nustatoma, kad jame pateikta informacija neatitinka Lietuvos Respublikos
+
+tarptautinių sutarčių ar kitų teisės aktų, reglamentuojančių prekių kilmės
+
+taisyklių taikymą;
+
+d) įsiteisėjus atitinkamam teismo
+
+sprendimui.
+
+6. Asmuo, kuriam išduotas privalomosios
+
+informacijos aktas, netenkantis galios vadovaujantis šio straipsnio 5 dalies 1
+
+punkto a papunkčiu arba 2 punkto a papunkčiu, gali juo naudotis dar šešis
+
+mėnesius nuo atitinkamų teisės aktų įsigaliojimo datos, jeigu jis iki šios
+
+datos remdamasis tokiame akte pateikta informacija yra sudaręs privalomas
+
+vykdyti sutartis (kontraktus) dėl atitinkamų prekių pirkimo arba pardavimo. Šio
+
+straipsnio 5 dalies 1 punkto a papunktyje ir 2 punkto a papunktyje nurodytuose
+
+teisės aktuose gali būti nustatyti ir kiti šios straipsnio dalies nuostatų
+
+taikymo laikotarpiai.
+
+7. Kai privalomosios informacijos aktais
+
+naudojamasi vadovaujantis šio straipsnio 6 dalimi, juose pateikta informacija
+
+galima remtis tik apskaičiuojant importo arba eksporto muitus ir (arba)
+
+mokesčius.]
+
+Kodeksas papildytas straipsniu:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 6 straipsnis. Tikrinimas
 
-Muitinė
+Muitinė turi teisę vadovaudamasi įstatymų
 
-turi teisę vadovaudamasi įstatymų ir kitų teisės aktų nuostatomis atlikti
-
-muitinį tikrinimą, kad būtų užtikrintas šio kodekso, taip pat kitų teisės aktų,
-
-už kurių įgyvendinimą atsakinga muitinė, vykdymas, jeigu Lietuvos Respublikos
-
-įstatymai ir tarptautinės sutartys nenustato ko kita.
-
-7 straipsnis. Informacijos pateikimas muitinei
-
-Įgyvendinant
+ir kitų teisės aktų nuostatomis atlikti muitinį tikrinimą, kad būtų užtikrintas
 
 šio kodekso, taip pat kitų teisės aktų, už kurių įgyvendinimą atsakinga
 
-muitinė, nuostatas, kiekvienas asmuo,susijęs su importo, eksporto arba tranzito
+muitinė, vykdymas, jeigu Lietuvos Respublikos įstatymai ir tarptautinės
 
-operacijomis, privalo muitinės reikalavimu pateikti visą informaciją ir turimus
+sutartys nenustato ko kita.
 
-dokumentus, susijusius su nurodytomis importo, eksporto arba tranzito
+7 straipsnis. Informacijos
 
-operacijomis.
+pateikimas muitinei
+
+Įgyvendinant šio kodekso, taip pat kitų
+
+teisės aktų, už kurių įgyvendinimą atsakinga muitinė, nuostatas, kiekvienas
+
+asmuo,susijęs su importo, eksporto arba tranzito operacijomis, privalo muitinės
+
+reikalavimu pateikti visą informaciją ir turimus dokumentus, susijusius su
+
+nurodytomis importo, eksporto arba tranzito operacijomis.
+
+[7 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
 8 straipsnis. Informacijos apsauga
 
-Visa
+Visa konfidenciali arba konfidencialiai
 
-konfidenciali arba konfidencialiai pateikta informacija laikoma tarnybine
+pateikta informacija laikoma tarnybine paslaptimi. Muitinė neturi teisės jos
 
-paslaptimi. Muitinė neturi teisės jos atskleisti be tiesioginio informacijos
+atskleisti be tiesioginio informacijos pateikėjo - asmens arba valstybės
 
-pateikėjo - asmens arba valstybės institucijos - sutikimo. Informacija
+institucijos - sutikimo. Informacija pateikiama nustatyta tvarka, jeigu muitinė
 
-pateikiama nustatyta tvarka, jeigu muitinė turi teisę arba privalo ją pateikti
+turi teisę arba privalo ją pateikti vadovaudamasi įstatymais ir kitais teisės
 
-vadovaudamasi įstatymais ir kitais teisės aktais.
+aktais.
+
+[8 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
 9 straipsnis. Informacijos saugojimas
 
-Asmenys,
+Asmenys, susiję su importo, eksporto arba
 
-susiję su importo, eksporto arba tranzito operacijomis, privalo saugoti šio
+tranzito operacijomis, privalo saugoti šio kodekso 7 straipsnyje nurodytus
 
-kodekso 7 straipsnyje nurodytus dokumentus ir informaciją, neatsižvelgdami į
+dokumentus ir informaciją, neatsižvelgdami į jos laikmenas, kaip apskaitos
 
-jos laikmenas, kaip apskaitos dokumentus įstatymų nustatyta tvarka, bet ne
+dokumentus įstatymų nustatyta tvarka, bet ne trumpiau kaip 3 kalendorinius
 
-trumpiau kaip 3 kalendorinius metus. Šis 3 kalendorinių metų laikotarpis
+metus. Šis 3 kalendorinių metų laikotarpis skaičiuojamas nuo metų, per kuriuos
 
-skaičiuojamas nuo metų, per kuriuos prekės nustojo būti muitinės priežiūros
+prekės nustojo būti muitinės priežiūros objektu, pabaigos.
 
-objektu, pabaigos.
-
-II DALIS
-
-MUITINĖ IR JOS FUNKCIJOS
-
-III SKYRIUS
-
-MUITINĖ IR JOS FUNKCIJOS
+[9 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
 10 straipsnis. Muitinės struktūra
 
-Muitinę
+Muitinę sudaro:
 
-sudaro:
+1) Muitinės departamentas prie Lietuvos
 
-1)
+Respublikos finansų ministerijos (toliau - Muitinės departamentas);
 
-Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos (toliau -
+2) teritorinės muitinės ir muitinės
 
-Muitinės departamentas);
+postai;
 
-2)
+3) kitos muitinės įstaigos.
 
-teritorinės muitinės ir muitinės postai;
+11 straipsnis. Muitinės veiklos
 
-3)
+teisinis pagrindas
 
-kitos muitinės įstaigos.
+Muitinė savo veiklą grindžia Lietuvos
 
-11 straipsnis. Muitinės veiklos teisinis pagrindas
+Respublikos Konstitucija, šiuo kodeksu, Tarnybos Lietuvos Respublikos muitinėje
 
-Muitinė
+statutu, kitais įstatymais, Vyriausybės nutarimais, Muitinės departamento
 
-savo veiklą grindžia Lietuvos Respublikos Konstitucija, šiuo kodeksu, Tarnybos
+nuostatais bei kitais jos veiklą reglamentuojančiais teisės aktais.
 
-Lietuvos Respublikos muitinėje statutu, kitais įstatymais, Vyriausybės
+12 straipsnis. Muitinės
 
-nutarimais, Muitinės departamento nuostatais bei kitais jos veiklą
+departamentas, jo funkcijos ir teisės
 
-reglamentuojančiais teisės aktais.
+1.Muitinės departamentas yra muitinės
 
-12 straipsnis. Muitinės departamentas, jo funkcijos ir
+veiklai vadovaujanti valstybės institucija, veikianti prie Lietuvos Respublikos
 
-teisės
+finansų ministerijos ir jai atskaitinga. Muitinės departamentas yra juridinis
 
-1.Muitinės
+asmuo, turintis antspaudą su Lietuvos valstybės herbu bei savo pavadinimu.
 
-departamentas yra muitinės veiklai vadovaujanti valstybės institucija,
+2. Muitinės departamentui vadovauja
 
-veikianti prie Lietuvos Respublikos finansų ministerijos ir jai atskaitinga.
+Muitinės departamento direktorius. Jį skiria ir atleidžia finansų ministras.
 
-Muitinės departamentas yra juridinis asmuo, turintis antspaudą su Lietuvos
+Muitinės departamento direktoriaus pavaduotojus skiria ir atleidžia Muitinės
 
-valstybės herbu bei savo pavadinimu.
+departamento direktorius.
 
-2.
+3. Muitinės departamento struktūrą nustato
 
-Muitinės departamentui vadovauja Muitinės departamento direktorius. Jį skiria
+Muitinės departamento direktorius, suderinęs su finansų ministru.
 
-ir atleidžia finansų ministras. Muitinės departamento direktoriaus pavaduotojus
+4. Muitinės departamentas vykdo šias
 
-skiria ir atleidžia Muitinės departamento direktorius.
+funkcijas:
 
-3.
+1)suderinęs su Finansų
 
-Muitinės departamento struktūrą nustato Muitinės departamento direktorius,
+ministerija,steigia, reorganizuoja ir likviduoja teritorines muitines bei
 
-suderinęs su finansų ministru.
+muitinės postus ir nustato teritorinių muitinių veiklos zonas;
 
-4.
+2) vadovauja teritorinėms muitinėms ir
 
-Muitinės departamentas vykdo šias funkcijas:
+derina jų veiklą;
 
-1)suderinęs
+3) organizuoja muitinės įstaigų veiklos
 
-su Finansų ministerija,steigia, reorganizuoja ir likviduoja teritorines
+apskaitą ir vykdo šios veiklos kontrolę;
 
-muitines bei muitinės postus ir nustato teritorinių muitinių veiklos zonas;
+4) organizuoja, kontroliuoja importo ir
 
-2)
+eksporto muitų bei mokesčių surinkimą, importo, eksporto ir tranzito draudimų
 
-vadovauja teritorinėms muitinėms ir derina jų veiklą;
+bei apribojimų taikymą, teikia pasiūlymus, kaip taikyti ekonomines ir
 
-3)
+administracines importo, eksporto bei tranzito reguliavimo priemones;
 
-organizuoja muitinės įstaigų veiklos apskaitą ir vykdo šios veiklos kontrolę;
+5) tvarko kombinuotąją muitų tarifų ir
 
-4)
+užsienio prekybos statistikos nomenklatūrą, renka ir apdoroja importo, eksporto
 
-organizuoja, kontroliuoja importo ir eksporto muitų bei mokesčių surinkimą,
+bei tranzito statistinius duomenis, įstatymų ir kitų teisės aktų nustatyta
 
-importo, eksporto ir tranzito draudimų bei apribojimų taikymą, teikia pasiūlymus,
+tvarka teikia juos atitinkamoms valstybės institucijoms;
 
-kaip taikyti ekonomines ir administracines importo, eksporto bei tranzito
+6) šio kodekso ir kitų teisės aktų
 
-reguliavimo priemones;
+nustatyta tvarka teikia asmenims informaciją apie įstatymų ir kitų teisės aktų,
 
-5)
+už kurių įgyvendinimą atsakinga muitinė, taikymą;
 
-tvarko kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklatūrą,
+7) nagrinėja asmenų prašymus bei skundus
 
-renka ir apdoroja importo, eksporto bei tranzito statistinius duomenis,
+dėl muitinės įstaigų bei jų pareigūnų veiksmų, imasi priemonių nustatytiems
 
-įstatymų ir kitų teisės aktų nustatyta tvarka teikia juos atitinkamoms
+trūkumams bei pažeidimams pašalinti ir kaltiems asmenims nubausti;
 
-valstybės institucijoms;
+8) organizuoja ir vykdo įstatymų bei kitų
 
-6)
+teisės aktų, už kurių įgyvendinimą atsakinga muitinė, pažeidimų prevenciją,
 
-šio kodekso ir kitų teisės aktų nustatyta tvarka teikia asmenims informaciją
+nustatymą ir tyrimą;
 
-apie įstatymų ir kitų teisės aktų, už kurių įgyvendinimą atsakinga muitinė,
+9) taikydamas Operatyvinės veiklos
 
-taikymą;
+įstatymo nustatytus operatyvinės veiklos metodus bei naudodamas operatyvinės
 
-7)
+veiklos priemones, imasi priemonių kontrabandos faktams nustatyti;
 
-nagrinėja asmenų prašymus bei skundus dėl muitinės įstaigų bei jų pareigūnų
+10) jei yra kontrabandos požymių, iškelia
 
-veiksmų, imasi priemonių nustatytiems trūkumams bei pažeidimams pašalinti ir
+baudžiamąsias bylas ir Baudžiamojo proceso kodekso nustatyta tvarka atlieka
 
-kaltiems asmenims nubausti;
+kvotą baudžiamosiose bylose dėl kontrabandos;
 
-8)
+11) sprendžia muitinės veiklos
 
-organizuoja ir vykdo įstatymų bei kitų teisės aktų, už kurių įgyvendinimą
+organizavimo, kadrų atrankos, muitinės darbuotojų profesinio rengimo, ūkinius
 
-atsakinga muitinė, pažeidimų prevenciją, nustatymą ir tyrimą;
+ir administracinius klausimus;
 
-9)
+12) suderinęs su Finansų ministerija,
 
-taikydamas Operatyvinės veiklos įstatymo nustatytus operatyvinės veiklos
+steigia muitinės mokymo įstaigas, laboratorijas, informacijos centrus, kitas
 
-metodus bei naudodamas operatyvinės veiklos priemones, imasi priemonių
+muitinės įstaigas, muitinės sandėlius, taip pat įmones ir organizacijas,
 
-kontrabandos faktams nustatyti;
+reikalingas muitinės veiklai užtikrinti;
 
-10)
+13) teikia pasiūlymus dėl muitinės veiklą
 
-jei yra kontrabandos požymių, iškelia baudžiamąsias bylas ir Baudžiamojo
+reglamentuojančių teisės aktų rengimo ir tobulinimo Vyriausybei,Finansų
 
-proceso kodekso nustatyta tvarka atlieka kvotą baudžiamosiose bylose dėl
+ministerijai,kitoms valstybės institucijoms, rengia nurodytų teisės aktų
 
-kontrabandos;
+projektus ir pagal savo kompetenciją juos tvirtina;
 
-11)
+14) užtikrina, kad būtų laikomasi Lietuvos
 
-sprendžia muitinės veiklos organizavimo, kadrų atrankos, muitinės darbuotojų
+Respublikos tarptautinėse sutartyse prisiimtų muitinės srities įsipareigojimų,
 
-profesinio rengimo, ūkinius ir administracinius klausimus;
+dalyvauja rengiant šių sutarčių projektus, palaiko ryšius su atitinkamomis kitų
 
-12)
+valstybių institucijomis ir tarptautinėmis organizacijomis;
 
-suderinęs su Finansų ministerija, steigia muitinės mokymo įstaigas,
+15) vykdo kitą veiklą, reikalingą muitinės
 
-laboratorijas, informacijos centrus, kitas muitinės įstaigas, muitinės
+įstaigų funkcijoms įgyvendinti.
 
-sandėlius, taip pat įmones ir organizacijas, reikalingas muitinės veiklai
+5. Muitinės departamentas, vykdydamas savo
 
-užtikrinti;
+funkcijas, turi teisę:
 
-13)
+1) nustatyta tvarka teikti valstybės
 
-teikia pasiūlymus dėl muitinės veiklą reglamentuojančių teisės aktų rengimo ir
+institucijoms pasiūlymus ir gauti iš jų informaciją bei išaiškinimus, kaip
 
-tobulinimo Vyriausybei,Finansų ministerijai,kitoms valstybės institucijoms,
+taikyti įstatymus ir kitus teisės aktus, už kurių įgyvendinimą atsakinga
 
-rengia nurodytų teisės aktų projektus ir pagal savo kompetenciją juos tvirtina;
+muitinė;
 
-14)
+2) pagal savo kompetenciją tikrinti, kaip
 
-užtikrina, kad būtų laikomasi Lietuvos Respublikos tarptautinėse sutartyse
+valstybės institucijos, kiti Lietuvos Respublikos ūkio subjektai vykdo
 
-prisiimtų muitinės srities įsipareigojimų, dalyvauja rengiant šių sutarčių
+įstatymus ir kitus teisės aktus, už kurių įgyvendinimą atsakinga muitinė, taip
 
-projektus, palaiko ryšius su atitinkamomis kitų valstybių institucijomis ir
+pat reikalauti pašalinti priežastis, sudarančias galimybių juos pažeisti;
 
-tarptautinėmis organizacijomis;
+3) duoti asmenims privalomus nurodymus
 
-15)
+pašalinti įstatymų ir kitų teisės aktų pažeidimus, nustatyta tvarka kreiptis į
 
-vykdo kitą veiklą, reikalingą muitinės įstaigų funkcijoms įgyvendinti.
-
-5.
-
-Muitinės departamentas, vykdydamas savo funkcijas, turi teisę:
-
-1)
-
-nustatyta tvarka teikti valstybės institucijoms pasiūlymus ir gauti iš jų
-
-informaciją bei išaiškinimus, kaip taikyti įstatymus ir kitus teisės aktus, už
-
-kurių įgyvendinimą atsakinga muitinė;
-
-2)
-
-pagal savo kompetenciją tikrinti, kaip valstybės institucijos, kiti Lietuvos
-
-Respublikos ūkio subjektai vykdo įstatymus ir kitus teisės aktus, už kurių įgyvendinimą
-
-atsakinga muitinė, taip pat reikalauti pašalinti priežastis, sudarančias
-
-galimybių juos pažeisti;
-
-3)
-
-duoti asmenims privalomus nurodymus pašalinti įstatymų ir kitų teisės aktų
-
-pažeidimus, nustatyta tvarka kreiptis į įgaliotas valstybės institucijas dėl
-
-pažeidimus padariusių Lietuvos Respublikos ūkio subjektų veiklos apribojimo;
-
-4)
-
-įstatymų ir kitų teisės aktų nustatyta tvarka atlikti Lietuvos Respublikos ūkio
-
-subjektų komercinės ir ūkinės veiklos, jos apskaitos, finansinės atskaitomybės
-
-patikrinimus, susijusius su šių subjektų atliekamomis muitinės procedūromis;
-
-5)
-
-naudotis kitomis šiame kodekse ir kituose teisės aktuose suteiktomis teisėmis.
-
-6.
-
-Muitinės departamento uždavinius, funkcijas, teises ir darbo organizavimo
-
-tvarką detaliai reglamentuoja Muitinės departamento nuostatai. Juos tvirtina
-
-finansų ministras.
-
-13 straipsnis. Teritorinė muitinė, jos funkcijos ir
-
-teisės
-
-1.
-
-Teritorinė muitinė yra muitinės įstaiga, veikianti Muitinės departamento
-
-nustatytoje veiklos zonoje. Teritorinė muitinė yra juridinis asmuo.
-
-2.
-
-Teritorinei muitinei vadovauja teritorinės muitinės viršininkas, kurį skiria ir
-
-atleidžia Muitinės departamento direktorius.
-
-3.
-
-Teritorinė muitinė vykdo šias funkcijas:
-
-1)
-
-vadovauja jos veiklos zonoje įsteigtiems muitinės postams, derina ir
-
-kontroliuoja jų veiklą;
-
-2)
-
-atsako už muitinės priežiūros priemonių įgyvendinimą, importo ir eksporto muitų
-
-bei mokesčių surinkimą;
-
-3)
-
-vykdo įstatymų ir kitų teisės aktų, už kurių įgyvendinimą atsakinga muitinė,
-
-pažeidimų prevenciją, nustatymą ir tyrimą;
-
-4)
-
-taikydama Operatyvinės veiklos įstatymo nustatytus operatyvinės veiklos metodus
-
-bei naudodama operatyvinės veiklos priemones, siekia nustatyti kontrabandos
-
-faktus;
-
-5)
-
-jei yra kontrabandos požymių, iškelia baudžiamąsias bylas ir Baudžiamojo
-
-proceso kodekso nustatyta tvarka atlieka kvotą baudžiamosiose bylose dėl
-
-kontrabandos;
-
-6)
-
-renka ir apdoroja importo, eksporto bei tranzito statistinius duomenis,
-
-nustatyta tvarka teikia juos Muitinės departamentui;
-
-7)
-
-vykdo kitas Muitinės departamento jai pavestas užduotis.
-
-4.
-
-Teritorinė muitinė, vykdydama savo funkcijas, turi teisę:
-
-1)
-
-nustatyta tvarka teikti Muitinės departamentui pasiūlymus ir gauti iš jo
-
-informaciją bei išaiškinimus, kaip taikyti įstatymus ir kitus teisės aktus, už
-
-kurių įgyvendinimą atsakinga muitinė;
-
-2)
-
-Muitinės departamento pavedimu patikrinti, kaip valstybės institucijos, kiti
-
-Lietuvos Respublikos ūkio subjektai vykdo įstatymus ir kitus teisės aktus, už
-
-kurių įgyvendinimą atsakinga muitinė, reikalauti pašalinti priežastis, sudarančias
-
-galimybių juos pažeisti;
-
-3)
-
-teikti privalomus nurodymus pašalinti įstatymų ir kitų teisės aktų pažeidimus,
-
-kreiptis į Muitinės departamentą dėl pažeidimus padariusių Lietuvos Respublikos
+įgaliotas valstybės institucijas dėl pažeidimus padariusių Lietuvos Respublikos
 
 ūkio subjektų veiklos apribojimo;
 
-4)
+4) įstatymų ir kitų teisės aktų nustatyta
 
-šio kodekso taikymą reglamentuojančiuose teisės aktuose nustatyta tvarka
+tvarka atlikti Lietuvos Respublikos ūkio subjektų komercinės ir ūkinės veiklos,
 
-atlikti Lietuvos Respublikos ūkio subjektų komercinės ir ūkinės veiklos, jos
+jos apskaitos, finansinės atskaitomybės patikrinimus, susijusius su šių
 
-apskaitos, finansinės atskaitomybės patikrinimus, susijusius su šių subjektų
+subjektų atliekamomis muitinės procedūromis;
 
-atliekamomis muitinės procedūromis;
+5) naudotis kitomis šiame kodekse ir
 
-5)
+kituose teisės aktuose suteiktomis teisėmis.
 
-ne ginčo tvarka iš skolininko sąskaitų banke išieškoti skolą muitinei, su ja
+6. Muitinės departamento uždavinius,
 
-susijusias baudas ir (arba) delspinigius;
+funkcijas, teises ir darbo organizavimo tvarką detaliai reglamentuoja Muitinės
 
-6)
+departamento nuostatai. Juos tvirtina finansų ministras.
 
-remiantis Mokesčių administravimo įstatymu, areštuoti skolininko turtą bei
+13 straipsnis. Teritorinė muitinė,
 
-sąskaitas banke, jeigu mokesčio įstatymo nustatyta tvarka nesumokėti
+jos funkcijos ir teisės
 
-(nepervesti) mokesčiai;
+1. Teritorinė muitinė yra muitinės
 
-7)
+įstaiga, veikianti Muitinės departamento nustatytoje veiklos zonoje. Teritorinė
 
-naudotis kitomis šiame kodekse ir kituose teisės aktuose suteiktomis teisėmis.
+muitinė yra juridinis asmuo.
 
-14 straipsnis. Muitinės postai ir jų funkcijos
+2. Teritorinei muitinei vadovauja teritorinės
 
-1.
+muitinės viršininkas, kurį skiria ir atleidžia Muitinės departamento
 
-Muitinės postas yra teritorinės muitinės padalinys, veikiantis Muitinės
+direktorius.
 
-departamento nustatytoje vietoje. Muitinės postai steigiami valstybės sienos
+3. Teritorinė muitinė vykdo šias
 
-perėjimo vietose, geležinkelio stotyse, tarptautiniuose jūrų, upių bei oro
+funkcijas:
 
-uostuose, taip pat kitose Muitinės departamento nustatytose vietose
+1) vadovauja jos veiklos zonoje
 
-atsižvelgiant į asmenų, transporto priemonių ir prekių srautus bei jų muitinio
+įsteigtiems muitinės postams, derina ir kontroliuoja jų veiklą;
 
-tikrinimo galimybes.
+2) atsako už muitinės priežiūros priemonių
 
-2.
+įgyvendinimą, importo ir eksporto muitų bei mokesčių surinkimą;
 
-Muitinės postui vadovauja muitinės posto viršininkas, kurį skiria ir atleidžia
+3) vykdo įstatymų ir kitų teisės aktų, už
 
-Muitinės departamento direktorius teritorinės muitinės viršininko teikimu.
+kurių įgyvendinimą atsakinga muitinė, pažeidimų prevenciją, nustatymą ir
 
-3.
+tyrimą;
 
-Muitinės postas atsako už jo kompetencijai priskirtų muitinės priežiūros
+4) taikydama Operatyvinės veiklos įstatymo
 
-priemonių įgyvendinimą, importo ir eksporto muitų bei mokesčių surinkimą, taip
+nustatytus operatyvinės veiklos metodus bei naudodama operatyvinės veiklos
 
-pat kitų Muitinės departamento arba teritorinės muitinės jam pavestų užduočių
+priemones, siekia nustatyti kontrabandos faktus;
 
-vykdymą.
+5) jei yra kontrabandos požymių, iškelia
 
-15 straipsnis. Pagalba muitinės įstaigoms
+baudžiamąsias bylas ir Baudžiamojo proceso kodekso nustatyta tvarka atlieka
 
-1.
+kvotą baudžiamosiose bylose dėl kontrabandos;
 
-Savivaldybės, teisėsaugos bei kitos valstybinės institucijos privalo
+6) renka ir apdoroja importo, eksporto bei
 
-nedelsdamos pateikti atitinkamoms muitinės įstaigoms visą turimą informaciją
+tranzito statistinius duomenis, nustatyta tvarka teikia juos Muitinės
 
-apie rengiamus, daromus arba padarytus įstatymų ir kitų teisės aktų, už kurių
+departamentui;
 
-įgyvendinimą atsakinga muitinė, pažeidimus, taip pat šio kodekso taikymą
+7) vykdo kitas Muitinės departamento jai
 
-reglamentuojančių teisės aktų nustatyta tvarka dalyvauti muitinės atliekamuose
+pavestas užduotis.
 
-Lietuvos Respublikos ūkio subjektų komercinės ir ūkinės veiklos, jos apskaitos,
+4. Teritorinė muitinė, vykdydama savo funkcijas,
 
-finansinės atskaitomybės patikrinimuose.
+turi teisę:
 
-2.
+1) nustatyta tvarka teikti Muitinės
 
-Savivaldybės, įmonės, įstaigos ir organizacijos, įskaitant geležinkelio, oro,
+departamentui pasiūlymus ir gauti iš jo informaciją bei išaiškinimus, kaip
 
-jūrų, upių ir vamzdynų transporto įstaigas, muitinės sandėlius, laisvuosius
+taikyti įstatymus ir kitus teisės aktus, už kurių įgyvendinimą atsakinga
 
-sandėlius ir prekių laikinojo saugojimo vietas eksploatuojančias įmones bei
+muitinė;
 
-laisvųjų ekonominių zonų valdymo bendroves, privalo suteikti muitinės įstaigų
+2) Muitinės departamento pavedimu patikrinti,
 
-veiklai reikalingas patalpas.
+kaip valstybės institucijos, kiti Lietuvos Respublikos ūkio subjektai vykdo
 
-16 straipsnis. Muitinės įstaigų pagalba kitoms
+įstatymus ir kitus teisės aktus, už kurių įgyvendinimą atsakinga muitinė,
 
-valstybės institucijoms
+reikalauti pašalinti priežastis, sudarančias galimybių juos pažeisti;
 
-1.
+3) teikti privalomus nurodymus pašalinti
 
-Muitinės įstaigos privalo nedelsdamos pateikti atitinkamoms teisėsaugos
+įstatymų ir kitų teisės aktų pažeidimus, kreiptis į Muitinės departamentą dėl
 
-institucijoms visą turimą informaciją apie teisės pažeidimus, kuriuos jos
+pažeidimus padariusių Lietuvos Respublikos ūkio subjektų veiklos apribojimo;
 
-nustato vykdydamos savo funkcijas, jeigu šių pažeidimų prevencija arba tyrimas
+4) šio kodekso taikymą
 
-priklauso šių teisėsaugos institucijų kompetencijai.
+reglamentuojančiuose teisės aktuose nustatyta tvarka atlikti Lietuvos
 
-2.
+Respublikos ūkio subjektų komercinės ir ūkinės veiklos, jos apskaitos,
 
-Pagal šio kodekso 8 straipsnio nuostatas teisėsaugos institucijos ir teismai
+finansinės atskaitomybės patikrinimus, susijusius su šių subjektų atliekamomis
 
-baudžiamosiose bei administracinėse bylose, taip pat teismai civilinėse bylose
+muitinės procedūromis;
 
-turi teisę įstatymų nustatyta tvarka gauti muitinės įstaigose saugomą
+5) ne ginčo tvarka iš skolininko sąskaitų
 
-informaciją apie asmenų atliekamas importo, eksporto arba tranzito operacijas.
+banke išieškoti skolą muitinei, su ja susijusias baudas ir (arba) delspinigius;
 
-Statistiniai duomenys valstybės institucijoms teikiami Statistikos įstatymo
+6) remiantis Mokesčių administravimo
 
-nustatyta tvarka.
+įstatymu, areštuoti skolininko turtą bei sąskaitas banke, jeigu mokesčio
 
-17 straipsnis. Muitinės tarptautiniai santykiai ir
+įstatymo nustatyta tvarka nesumokėti (nepervesti) mokesčiai;
 
-tarptautinis bendradarbiavimas
+7) naudotis kitomis šiame kodekse ir
 
-1.
+kituose teisės aktuose suteiktomis teisėmis.
 
-Vadovaudamasi Lietuvos Respublikos tarptautinėmis sutartimis ir savo iniciatyva
+14 straipsnis. Muitinės postai ir jų
 
-muitinė pagal savo kompetenciją palaiko ryšius ir bendradarbiauja su
+funkcijos
 
-atitinkamomis kitų valstybių institucijomis ir tarptautinėmis organizacijomis.
+1. Muitinės postas yra teritorinės
 
-2.
+muitinės padalinys, veikiantis Muitinės departamento nustatytoje vietoje.
 
-Muitinė, norėdama nustatyti asmenis, susijusius su neteisėtu narkotikų,
+Muitinės postai steigiami valstybės sienos perėjimo vietose, geležinkelio
 
-psichotropinių, nuodingųjų, radioaktyviųjų medžiagų, šaunamųjų ginklų ir
+stotyse, tarptautiniuose jūrų, upių bei oro uostuose, taip pat kitose Muitinės
 
-šaudmenų, pinigų, kultūros vertybių gabenimu, Lietuvos Respublikos tarptautinių
+departamento nustatytose vietose atsižvelgiant į asmenų, transporto priemonių
 
-sutarčių nustatyta tvarka taiko kontroliuojamojo pristatymo metodą. Taikant šį
+ir prekių srautus bei jų muitinio tikrinimo galimybes.
 
-metodą, leidžiama neteisėtai gabenamas arba įtariamas esant neteisėtai
+2. Muitinės postui vadovauja muitinės
 
-gabenamomis nurodytų prekių siuntas įvežti į Lietuvos Respublikos muitų
+posto viršininkas, kurį skiria ir atleidžia Muitinės departamento direktorius
 
-teritoriją, išvežti iš jos arba gabenti per ją tranzitu, kai muitinė bei kitos
+teritorinės muitinės viršininko teikimu.
 
-teisėsaugos institucijos tai žino ir prižiūri. Kontroliuojamojo pristatymo
+3. Muitinės postas atsako už jo
 
-metodas taikomas tik su generalinio prokuroro sankcija.
+kompetencijai priskirtų muitinės priežiūros priemonių įgyvendinimą, importo ir
 
-18 straipsnis. Muitinės pareigūnai ir tarnautojai
+eksporto muitų bei mokesčių surinkimą, taip pat kitų Muitinės departamento arba
 
-1.
+teritorinės muitinės jam pavestų užduočių vykdymą.
 
-Muitinės pareigūnai yra muitinės darbuotojai, kurie nuolat ar laikinai vykdo
+15 straipsnis. Pagalba muitinės
 
-valdžios atstovo funkcijas arba turi administracijos įgalinimus. Muitinės
+įstaigoms
 
-pareigūnų teises ir pareigas, priėmimo į tarnybą, stažavimo, priesaikos,
+1. Savivaldybės, teisėsaugos bei kitos
 
-atestacijos, pareiginių laipsnių suteikimo, perkėlimo į kitas pareigas,
+valstybinės institucijos privalo nedelsdamos pateikti atitinkamoms muitinės
 
-skatinimo, drausminės atsakomybės, nušalinimo nuo pareigų, atleidimo iš
+įstaigoms visą turimą informaciją apie rengiamus, daromus arba padarytus
 
-tarnybos, darbo apmokėjimo ir socialinių garantijų tvarką reglamentuoja
+įstatymų ir kitų teisės aktų, už kurių įgyvendinimą atsakinga muitinė,
 
-Tarnybos Lietuvos Respublikos muitinėje statutas.
+pažeidimus, taip pat šio kodekso taikymą reglamentuojančių teisės aktų
 
-2.
+nustatyta tvarka dalyvauti muitinės atliekamuose Lietuvos Respublikos ūkio
 
-Muitinės tarnautojai yra muitinės darbuotojai, nevykdantys valdžios atstovo
+subjektų komercinės ir ūkinės veiklos, jos apskaitos, finansinės atskaitomybės
 
-funkcijų ir neturintys administracijos įgalinimų. Muitinės tarnautojams taikomi
+patikrinimuose.
 
-darbo santykius reglamentuojantys įstatymai.
+2. Savivaldybės, įmonės, įstaigos ir
 
-3.
+organizacijos, įskaitant geležinkelio, oro, jūrų, upių ir vamzdynų transporto
 
-Muitinės pareigūnai ir tarnautojai už neteisėtus veiksmus atsako įstatymų
+įstaigas, muitinės sandėlius, laisvuosius sandėlius ir prekių laikinojo
 
-nustatyta tvarka.
+saugojimo vietas eksploatuojančias įmones bei laisvųjų ekonominių zonų valdymo
 
-4.
+bendroves, privalo suteikti muitinės įstaigų veiklai reikalingas patalpas.
 
-Muitinės pareigūnų ir tarnautojų veiksmai gali būti apskųsti šio kodekso IX
+16 straipsnis. Muitinės įstaigų
 
-dalyje, taip pat kituose teisės aktuose nustatyta tvarka.
+pagalba kitoms valstybės institucijoms
+
+1. Muitinės įstaigos privalo nedelsdamos
+
+pateikti atitinkamoms teisėsaugos institucijoms visą turimą informaciją apie
+
+teisės pažeidimus, kuriuos jos nustato vykdydamos savo funkcijas, jeigu šių pažeidimų
+
+prevencija arba tyrimas priklauso šių teisėsaugos institucijų kompetencijai.
+
+2. Pagal šio kodekso 8 straipsnio
+
+nuostatas teisėsaugos institucijos ir teismai baudžiamosiose bei
+
+administracinėse bylose, taip pat teismai civilinėse bylose turi teisę įstatymų
+
+nustatyta tvarka gauti muitinės įstaigose saugomą informaciją apie asmenų
+
+atliekamas importo, eksporto arba tranzito operacijas. Statistiniai duomenys
+
+valstybės institucijoms teikiami Statistikos įstatymo nustatyta tvarka.
+
+17 straipsnis. Muitinės
+
+tarptautiniai santykiai ir tarptautinis bendradarbiavimas
+
+1. Vadovaudamasi Lietuvos Respublikos
+
+tarptautinėmis sutartimis ir savo iniciatyva muitinė pagal savo kompetenciją
+
+palaiko ryšius ir bendradarbiauja su atitinkamomis kitų valstybių institucijomis
+
+ir tarptautinėmis organizacijomis.
+
+2. Muitinė, norėdama nustatyti asmenis,
+
+susijusius su neteisėtu narkotikų, psichotropinių, nuodingųjų, radioaktyviųjų
+
+medžiagų, šaunamųjų ginklų ir šaudmenų, pinigų, kultūros vertybių gabenimu,
+
+Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka taiko
+
+kontroliuojamojo pristatymo metodą. Taikant šį metodą, leidžiama neteisėtai
+
+gabenamas arba įtariamas esant neteisėtai gabenamomis nurodytų prekių siuntas
+
+įvežti į Lietuvos Respublikos muitų teritoriją, išvežti iš jos arba gabenti per
+
+ją tranzitu, kai muitinė bei kitos teisėsaugos institucijos tai žino ir
+
+prižiūri. Kontroliuojamojo pristatymo metodas taikomas tik su generalinio
+
+prokuroro sankcija.
+
+18 straipsnis. Muitinės pareigūnai
+
+ir tarnautojai
+
+1. Muitinės pareigūnai yra muitinės
+
+darbuotojai, kurie nuolat ar laikinai vykdo valdžios atstovo funkcijas arba
+
+turi administracijos įgalinimus. Muitinės pareigūnų teises ir pareigas,
+
+priėmimo į tarnybą, stažavimo, priesaikos, atestacijos, pareiginių laipsnių
+
+suteikimo, perkėlimo į kitas pareigas, skatinimo, drausminės atsakomybės,
+
+nušalinimo nuo pareigų, atleidimo iš tarnybos, darbo apmokėjimo ir socialinių
+
+garantijų tvarką reglamentuoja Tarnybos Lietuvos Respublikos muitinėje
+
+statutas.
+
+2. Muitinės tarnautojai yra muitinės
+
+darbuotojai, nevykdantys valdžios atstovo funkcijų ir neturintys
+
+administracijos įgalinimų. Muitinės tarnautojams taikomi darbo santykius
+
+reglamentuojantys įstatymai.
+
+3. Muitinės pareigūnai ir tarnautojai už
+
+neteisėtus veiksmus atsako įstatymų nustatyta tvarka.
+
+4. Muitinės pareigūnų ir tarnautojų
+
+veiksmai gali būti apskųsti šio kodekso IX dalyje, taip pat kituose teisės
+
+aktuose nustatyta tvarka.
 
 III DALIS
 
@@ -1156,9 +1388,9 @@ VEIKSNIAI, KURIAIS REMIANTIS PREKĖS APMOKESTINAMOS
 
 IMPORTO IR
 
-EKSPORTO MUITAIS BEI MOKESČIAIS
+EKSPORTO MUITAIS BEI MOKESČIAIS IR TAIKOMI IMPORTO,
 
-IR TAIKOMI IMPORTO, EKSPORTO BEI TRANZITO
+EKSPORTO BEI TRANZITO
 
 DRAUDIMAI IR APRIBOJIMAI
 
@@ -1170,89 +1402,75 @@ IMPORTO,
 
 EKSPORTO BEI TRANZITO DRAUDIMAI IR APRIBOJIMAI
 
-19
-
-straipsnis. Muitai
-
-Muitai
-
-yra pagal muitų tarifą nustatyti mokesčiai, kuriais apmokestinamos
-
-importuojamos ir eksportuojamos prekės.
-
 19 straipsnis. Muitai
 
-Muitai   yra  pagal  muitų  tarifą
+Muitai yra pagal muitų tarifą nustatyti
 
-nustatyti  mokesčiai, kuriais apmokestinamos importuojamos ir eksportuojamos
-
-prekės.
+mokesčiai, kuriais apmokestinamos importuojamos ir eksportuojamos prekės.
 
 20 straipsnis. Muitų tarifai
 
-1.
+1. Muitų tarifai nustatomi vadovaujantis
 
-Muitų tarifai nustatomi vadovaujantis Muitų tarifų įstatymu.
+Muitų tarifų įstatymu.
 
-2.
+2. Muitų tarifus sudaro:
 
-Muitų tarifus sudaro:
+1) kombinuotoji muitų tarifų ir užsienio
 
-1)
+prekybos statistikos nomenklatūra;
 
-kombinuotoji muitų tarifų ir užsienio prekybos statistikos nomenklatūra;
+2) importo ir eksporto muitų normos,
 
-2)
+įskaitant lengvatinių muitų (preferencijų) normas. Lengvatinių muitų
 
-importo ir eksporto muitų normos, įskaitant lengvatinių muitų (preferencijų)
+(preferencijų) normos taikomos vadovaujantis Lietuvos Respublikos
 
-normas. Lengvatinių muitų (preferencijų) normos taikomos vadovaujantis Lietuvos
-
-Respublikos tarptautinėmis sutartimis.
+tarptautinėmis sutartimis.
 
 21 straipsnis. Muitų tarifų taikymas
 
-Jeigu
+Jeigu atsižvelgiant į muitų tarifų
 
-atsižvelgiant į muitų tarifų struktūrą iš tam tikrų šalių arba jų grupių
+struktūrą iš tam tikrų šalių arba jų grupių kilusioms prekėms taikomi mažesni
 
-kilusioms prekėms taikomi mažesni muitai, įskaitant Lietuvos Respublikos
+muitai, įskaitant Lietuvos Respublikos tarptautinių sutarčių nustatytus
 
-tarptautinių sutarčių nustatytus lengvatinius muitus (preferencijas), kartu su
+lengvatinius muitus (preferencijas), kartu su muitinės deklaracija turi būti pateikti
 
-muitinės deklaracija turi būti pateikti dokumentai, įrodantys tokių muitų
+dokumentai, įrodantys tokių muitų taikymą sąlygojančią prekių kilmę.
 
-taikymą sąlygojančią prekių kilmę.
+22 straipsnis. Tarifinis prekių
 
-22 straipsnis. Tarifinis prekių klasifikavimas
+klasifikavimas
 
-Tarifiniu prekių klasifikavimu laikomas nustatymas
+Tarifiniu prekių klasifikavimu laikomas
 
-kombinuotosios muitų tarifų ir užsienio prekybos statistikos nomenklatūros
+nustatymas kombinuotosios muitų tarifų ir užsienio prekybos statistikos
 
-subpozicijos, kurioje šios prekės turi būti klasifikuojamos vadovaujantis
+nomenklatūros subpozicijos, kurioje šios prekės turi būti klasifikuojamos
 
-nurodytos nomenklatūros taikymo taisyklėmis.
+vadovaujantis nurodytos nomenklatūros taikymo taisyklėmis.
 
-23 straipsnis. Kiti importo ir eksporto mokesčiai,
+23 straipsnis. Kiti importo ir
 
-importo, eksporto bei tranzito
+eksporto mokesčiai, importo, eksporto bei tranzito
 
 draudimai ir apribojimai
 
-1.
+1. Importuojamos ir eksportuojamos prekės
 
-Importuojamos ir eksportuojamos prekės taip pat apmokestinamos kitais importo
+taip pat apmokestinamos kitais importo ir eksporto mokesčiais, kurie nustatomi
 
-ir eksporto mokesčiais, kurie nustatomi ir taikomi vadovaujantis Akcizų,
+ir taikomi vadovaujantis Akcizų, Pridėtinės vertės mokesčio ir kitais mokesčių
 
-Pridėtinės vertės mokesčio ir kitais mokesčių įstatymais.
+įstatymais.
 
-2.
+2. Importo, eksporto bei tranzito
 
-Importo, eksporto bei tranzito draudimai ir apribojimai nustatomi ir taikomi
+draudimai ir apribojimai nustatomi ir taikomi vadovaujantis įstatymais bei
 
-vadovaujantis įstatymais bei kitais teisės aktais.
+kitais teisės aktais.
 
 V SKYRIUS
 
@@ -1262,30 +1480,6 @@ Pirmasis skirsnis
 
 ĮPRASTINĖ (NEPREFERENCINĖ) PREKIŲ KILMĖ
 
-24
-
-straipsnis. Įprastinės (nepreferencinės) prekių kilmės nustatymas
-
-Įprastinė
-
-(nepreferencinė) prekių kilmė nustatoma:
-
-1)
-
-taikant muitų tarifus, išskyrus Lietuvos Respublikos tarptautinių sutarčių
-
-nustatytus lengvatinius muitus (preferencijas);
-
-2)
-
-taikant įstatymų ir kitų teisės aktų nustatytus importo ir eksporto draudimus
-
-bei apribojimus, susijusius su prekių kilme;
-
-3)
-
-įforminant ir išduodant prekių kilmės sertifikatus.
-
 24 straipsnis. Įprastinės
 
 (nepreferencinės) prekių kilmės nustatymas
@@ -1294,675 +1488,663 @@ bei apribojimus, susijusius su prekių kilme;
 
 nustatoma:
 
-1)  taikant  muitų tarifus, išskyrus
+1) taikant muitų tarifus, išskyrus
 
-Lietuvos Respublikos tarptautinių sutarčių   nustatytus   lengvatinius muitus
+Lietuvos Respublikos tarptautinių sutarčių nustatytus lengvatinius muitus
 
 (preferencijas);
 
-2)  taikant  įstatymų  ir  kitų  teisės
+2) taikant įstatymų ir kitų teisės aktų
 
-aktų  nustatytus importo  ir eksporto draudimus bei apribojimus, susijusius  su
+nustatytus importo ir eksporto draudimus bei apribojimus, susijusius su prekių
 
-prekių kilme;
+kilme;
 
 3) įforminant ir išduodant prekių kilmės
 
 sertifikatus.
 
-25 straipsnis. Prekių kilmės šalis. Prekės, išgautos
+25 straipsnis. Prekių kilmės šalis.
 
-ir pagamintos vienoje šalyje
+Prekės, išgautos ir pagamintos vienoje šalyje
 
-1.
+1. Prekių kilmės šalimi laikoma ta šalis,
 
-Prekių kilmės šalimi laikoma ta šalis, kurioje prekės yra išgautos, pagamintos
+kurioje prekės yra išgautos, pagamintos arba išgautos ir pagamintos.
 
-arba išgautos ir pagamintos.
+2. Prekėmis, išgautomis ir pagamintomis
 
-2.
+vienoje šalyje, laikomos šios prekės:
 
-Prekėmis, išgautomis ir pagamintomis vienoje šalyje, laikomos šios prekės:
+1) šalies teritorijoje išgautos
 
-1)
+mineralinės ir organinės medžiagos, dujos ir kitos naudingosios iškasenos;
 
-šalies teritorijoje išgautos mineralinės ir organinės medžiagos, dujos ir kitos
+2) šalyje išaugę augalinės kilmės
 
-naudingosios iškasenos;
+produktai;
 
-2)
+3) šalyje gimę ir užaugę gyvūnai;
 
-šalyje išaugę augalinės kilmės produktai;
+4) produktai, pagaminti iš šalyje
 
-3)
+užaugusių gyvūnų;
 
-šalyje gimę ir užaugę gyvūnai;
+5) produktai, pagaminti iš šalyje
 
-4)
+sumedžiotų ar sužvejotų gyvūnų;
 
-produktai, pagaminti iš šalyje užaugusių gyvūnų;
+6) jūrų žūklės ir kiti jūros verslų
 
-5)
+produktai, laivų, registruotų toje šalyje ir plaukiojančių su tos šalies
 
-produktai, pagaminti iš šalyje sumedžiotų ar sužvejotų gyvūnų;
+vėliava, sugauti arba išgauti jūroje, kuri neįeina į šalies teritorinius
 
-6)
+vandenis;
 
-jūrų žūklės ir kiti jūros verslų produktai, laivų, registruotų toje šalyje ir
+7) produktai, išgauti arba pagaminti
 
-plaukiojančių su tos šalies vėliava, sugauti arba išgauti jūroje, kuri neįeina
+plaukiojančiose įmonėse iš tos šalies kilmės prekių, nurodytų šios dalies 6
 
-į šalies teritorinius vandenis;
+punkte, jeigu šios plaukiojančios įmonės registruotos toje šalyje ir plaukioja
 
-7)
+su tos šalies vėliava;
 
-produktai, išgauti arba pagaminti plaukiojančiose įmonėse iš tos šalies kilmės
+8) produktai, išgauti iš jūros dugno ar
 
-prekių, nurodytų šios dalies 6 punkte, jeigu šios plaukiojančios įmonės
+podugnio, esančio už teritorinių vandenų ribų, jeigu ta šalis turi išimtines
 
-registruotos toje šalyje ir plaukioja su tos šalies vėliava;
+teises eksploatuoti šį jūros dugną ar podugnį;
 
-8)
+9) gamybos proceso metu susidariusios
 
-produktai, išgauti iš jūros dugno ar podugnio, esančio už teritorinių vandenų
+atliekos ir laužas bei naudoti gaminiai, surinkti toje šalyje ir tinkami tiktai
 
-ribų, jeigu ta šalis turi išimtines teises eksploatuoti šį jūros dugną ar
+žaliavoms regeneruoti;
 
-podugnį;
+10) prekės, pagamintos ar pradėtos gaminti
 
-9)
+toje šalyje vien tik iš šios straipsnio dalies
 
-gamybos proceso metu susidariusios atliekos ir laužas bei naudoti gaminiai,
+1-9 punktuose nurodytų produktų arba jų darinių.
 
-surinkti toje šalyje ir tinkami tiktai žaliavoms regeneruoti;
+[25 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-10)
+26 straipsnis. Prekės, pagamintos
 
-prekės, pagamintos ar pradėtos gaminti toje šalyje vien tik iš šios straipsnio
+šalyje
 
-dalies 1-9 punktuose nurodytų produktų arba jų darinių.
+1. Jeigu prekės buvo gaminamos ne vienoje
 
-26 straipsnis. Prekės, pagamintos šalyje
+šalyje, prekių kilmės šalimi laikoma ta šalis, kurioje buvo atliekamas
 
-1.
+baigiamasis, svarbus perdirbimo arba apdorojimo procesas tam tikslui įrengtose
 
-Jeigu prekės buvo gaminamos ne vienoje šalyje, prekių kilmės šalimi laikoma ta
+gamybinėse patalpose, ir jei perdirbimo arba apdorojimo proceso metu pagaminama
 
-šalis, kurioje buvo atliekamas baigiamasis, svarbus perdirbimo arba apdorojimo
+kita prekė arba atliekamas svarbus tos prekės gamybos etapas.
 
-procesas tam tikslui įrengtose gamybinėse patalpose, ir jei perdirbimo arba
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-apdorojimo proceso metu pagaminama kita prekė arba atliekamas svarbus tos
+1. Jeigu prekės buvo gaminamos ne
 
-prekės gamybos etapas.
+vienoje šalyje, prekių kilmės šalimi laikoma ta šalis, kurioje buvo atliekamas
 
-2.
+baigiamasis, svarbus, ekonomiškai pagrįstas perdirbimo arba apdorojimo procesas
 
-Lietuvos Respublikos tarptautinės sutartys arba šio kodekso taikymą
+tam tikslui įrengtose gamybinėse patalpose, ir jei perdirbimo arba apdorojimo
 
-reglamentuojantys teisės aktai nustato kriterijus, pagal kuriuos šio straipsnio
+proceso metu pagaminama kita prekė arba atliekamas svarbus tos prekės gamybos
 
-1 dalyje nurodytos prekės pripažįstamos kitomis arba tam tikras jų gamybos
+etapas.]
 
-etapas - svarbiu.
+2. Lietuvos Respublikos tarptautinės
 
-27 straipsnis. Prekių kilmę įrodančių dokumentų
+sutartys arba šio kodekso taikymą reglamentuojantys teisės aktai nustato
 
-pateikimas
+kriterijus, pagal kuriuos šio straipsnio 1 dalyje nurodytos prekės
 
-Įstatymų ir kitų teisės
+pripažįstamos kitomis arba tam tikras jų gamybos etapas - svarbiu.
 
-aktų nustatytais atvejais muitinei turi būti pateikti prekių kilmę įrodantys
+Straipsnio pakeitimai:
 
-dokumentai, o jei kyla abejonių, - taip pat ir kita informacija, reikalinga
+Nr. IX-624, 2001-12-04,
 
-prekių kilmei nustatyti ar patikrinti.
+Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-Antrasis skirsnis
+27 straipsnis. Prekių kilmę
 
-LENGVATINĖ (PREFERENCINĖ) PREKIŲ KILMĖ
+įrodančių dokumentų pateikimas
 
-28
+Įstatymų ir kitų teisės aktų nustatytais atvejais
 
-straipsnis. Lengvatinės (preferencinės) prekių kilmės nustatymas
+muitinei turi būti pateikti prekių kilmę įrodantys dokumentai, o jei kyla abejonių,
 
-Lietuvos
+- taip pat ir kita informacija, reikalinga prekių kilmei nustatyti ar
 
-Respublikos tarptautinių sutarčių nustatytos lengvatinės (preferencinės) prekių
+patikrinti.
 
-kilmės nustatymo taisyklės apibrėžia sąlygas, kurias įvykdžius prekėms taikomi
+[27 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-lengvatiniai muitai.
+28 straipsnis. Lengvatinės (preferencinės)
+
+prekių kilmės nustatymas
+
+Lietuvos Respublikos tarptautinių sutarčių
+
+nustatytos lengvatinės (preferencinės) prekių kilmės nustatymo taisyklės
+
+apibrėžia sąlygas, kurias įvykdžius prekėms taikomi lengvatiniai muitai.
 
 VI SKYRIUS
 
 PREKIŲ MUITINIS ĮVERTINIMAS
 
-28  straipsnis. Lengvatinės
+29 straipsnis. Prekių muitinio
 
-(preferencinės) prekių kilmės nustatymas
+įvertinimo tvarkos taikymas
 
-Lietuvos  Respublikos  tarptautinių
+Šiame skyriuje nustatyta prekių
 
-sutarčių  nustatytos lengvatinės (preferencinės) prekių kilmės nustatymo
+muitinio įvertinimo tvarka vadovaujamasi taikant muitų tarifą, kitus importo
 
-taisyklės apibrėžia   sąlygas,   kurias   įvykdžius   prekėms taikomi
+mokesčius, taip pat įstatymų ir kitų teisės aktų nustatytus importo draudimus
 
-lengvatiniai muitai.
+bei apribojimus, susijusius su prekių verte.
 
-VI SKYRIUS
+30 straipsnis. Sandorio vertės
 
-PREKIŲ MUITINIS ĮVERTINIMAS
+metodo taikymas
 
-29 straipsnis. Prekių muitinio įvertinimo tvarkos
+1. Importuojamų prekių muitine verte
 
-taikymas
+laikoma sandorio vertė, t.y. pinigų suma, sumokėta arba priklausanti sumokėti
 
-Šiame skyriuje nustatyta prekių muitinio įvertinimo
+už prekes, parduotas eksportui į Lietuvos Respublikos muitų teritoriją,
 
-tvarka vadovaujamasi taikant muitų tarifą, kitus importo mokesčius, taip pat
+prireikus patikslinta vadovaujantis šio kodekso 33 ir 34 straipsnio
 
-įstatymų ir kitų teisės aktų nustatytus importo draudimus bei apribojimus,
+nuostatomis. Sandorio vertė nelaikoma prekių muitine verte, jeigu:
 
-susijusius su prekių verte.
+1) pirkėjui taikomi disponavimo prekėmis
 
-30 straipsnis. Sandorio vertės metodo taikymas
+arba prekių naudojimo apribojimai, išskyrus:
 
-1.
+a) nustatytus įstatymų ir kitų teisės aktų;
 
-Importuojamų prekių muitine verte laikoma sandorio vertė, t.y. pinigų suma,
+b) ribojančius prekių perpardavimo
 
-sumokėta arba priklausanti sumokėti už prekes, parduotas eksportui į Lietuvos
+geografinę sritį; arba
 
-Respublikos muitų teritoriją, prireikus patikslinta vadovaujantis šio kodekso
+c) neturinčius didelės įtakos prekių
 
-33 ir 34 straipsnio nuostatomis. Sandorio vertė nelaikoma prekių muitine verte,
+vertei;
 
-jeigu:
+2) prekių pardavimui arba jų kainai turėjo
 
-1)
+įtakos tam tikros sąlygos ar aplinkybės, kurių poveikio prekių pardavimo
 
-pirkėjui taikomi disponavimo prekėmis arba prekių naudojimo apribojimai,
+sandorio vertei neįmanoma nustatyti;
 
-išskyrus:
+3) tam tikra dalis pajamų, gautų pirkėjui
 
-a)
+toliau perparduodant, naudojant prekes ar kitaip jomis disponuojant, tiesiogiai
 
-nustatytus įstatymų ir kitų teisės aktų;
+arba netiesiogiai tenka pardavėjui, išskyrus atvejus, kai pagal šio kodekso 33
 
-b)
+straipsnio nuostatas prekių pardavimo sandorio vertė gali būti patikslinta;
 
-ribojančius prekių perpardavimo geografinę sritį; arba
+4) pirkėjas ir pardavėjas yra tarpusavyje
 
-c)
+susiję, išskyrus atvejus, kai net pirkėjui ir pardavėjui esant tarpusavyje
 
-neturinčius didelės įtakos prekių vertei;
+susijusiems prekių pardavimo sandorio vertė gali būti laikoma prekių muitine
 
-2)
+verte remiantis šio straipsnio 2-5 dalių nuostatomis.
 
-prekių pardavimui arba jų kainai turėjo įtakos tam tikros sąlygos ar
+2. Nustatant, ar sandorio vertė gali būti
 
-aplinkybės, kurių poveikio prekių pardavimo sandorio vertei neįmanoma
+laikoma prekių muitine verte pagal šio straipsnio 1 dalį, faktas, kad pirkėjas
 
-nustatyti;
+ir pardavėjas yra tarpusavyje susiję, nelaikomas pakankamu pripažįstant
 
-3)
+sandorio vertę netinkama prekių muitiniam įvertinimui. Jeigu įvertinus prekių
 
-tam tikra dalis pajamų, gautų pirkėjui toliau perparduodant, naudojant prekes
+pardavimo aplinkybes nustatoma, kad pirkėjo ir pardavėjo tarpusavio ryšys
 
-ar kitaip jomis disponuojant, tiesiogiai arba netiesiogiai tenka pardavėjui,
+neturėjo įtakos kainai, sandorio vertė pripažįstama tinkama prekių muitiniam
 
-išskyrus atvejus, kai pagal šio kodekso 33 straipsnio nuostatas prekių
+įvertinimui. Jeigu muitinė, remdamasi deklaranto pateikta ar kitu būdu gauta
 
-pardavimo sandorio vertė gali būti patikslinta;
+informacija, turi pagrindo manyti, kad pirkėjo ir pardavėjo tarpusavio ryšys
 
-4)
+turėjo įtakos kainai, deklarantas raštu informuojamas apie tokio sprendimo
 
-pirkėjas ir pardavėjas yra tarpusavyje susiję, išskyrus atvejus, kai net
+motyvus ir jam suteikiama galimybė pateikti muitinei išdėstytų motyvų
 
-pirkėjui ir pardavėjui esant tarpusavyje susijusiems prekių pardavimo sandorio
+įvertinimą.
 
-vertė gali būti laikoma prekių muitine verte remiantis šio straipsnio 2-5 dalių
+3. Kai pirkėjas ir pardavėjas yra
 
-nuostatomis.
+tarpusavyje susiję, sandorio vertė pripažįstama tinkama ir prekių muitinis
 
-2.
+įvertinimas atliekamas vadovaujantis šio straipsnio 1 dalies nuostatomis, jeigu
 
-Nustatant, ar sandorio vertė gali būti laikoma prekių muitine verte pagal šio
+deklarantas parodo, kad ši vertė beveik nesiskiria nuo maždaug tuo pačiu metu (bet
 
-straipsnio 1 dalį, faktas, kad pirkėjas ir pardavėjas yra tarpusavyje susiję,
+ne daugiau kaip 90 dienų anksčiau arba vėliau) nustatytos:
 
-nelaikomas pakankamu pripažįstant sandorio vertę netinkama prekių muitiniam
+1) tapačių arba panašių prekių pardavimo
 
-įvertinimui. Jeigu įvertinus prekių pardavimo aplinkybes nustatoma, kad pirkėjo
+eksportui į Lietuvos Respublikos muitų teritoriją sandorio vertės, kai pirkėjas
 
-ir pardavėjo tarpusavio ryšys neturėjo įtakos kainai, sandorio vertė
+ir pardavėjas tarpusavyje nesusiję;
 
-pripažįstama tinkama prekių muitiniam įvertinimui. Jeigu muitinė, remdamasi
+2) tapačių arba panašių prekių muitinės
 
-deklaranto pateikta ar kitu būdu gauta informacija, turi pagrindo manyti, kad
+vertės, nustatytos vadovaujantis šio kodekso 31 straipsnio 2 dalies 3 punktu;
 
-pirkėjo ir pardavėjo tarpusavio ryšys turėjo įtakos kainai, deklarantas raštu
+3) tapačių arba panašių prekių muitinės
 
-informuojamas apie tokio sprendimo motyvus ir jam suteikiama galimybė pateikti
+vertės, nustatytos vadovaujantis šio kodekso 31 straipsnio 2 dalies 4 punktu.
 
-muitinei išdėstytų motyvų įvertinimą.
+4. Pagal šio straipsnio 3 dalį atliekant
 
-3.
+palyginimus, atsižvelgiama į deklaranto nurodytus prekybos sąlygų ir parduodamų
 
-Kai pirkėjas ir pardavėjas yra tarpusavyje susiję, sandorio vertė pripažįstama
+prekių kiekio skirtumus, šio kodekso 33 straipsnyje išvardytas prekių vertės
 
-tinkama ir prekių muitinis įvertinimas atliekamas vadovaujantis šio straipsnio
+sudėtines dalis, taip pat į pardavėjo išlaidas, kai prekės parduodamos su juo
 
-1 dalies nuostatomis, jeigu deklarantas parodo, kad ši vertė beveik nesiskiria
+nesusijusiam pirkėjui, jeigu šių išlaidų pardavėjas neturi parduodamas prekes
 
-nuo maždaug tuo pačiu metu (bet ne daugiau kaip 90 dienų anksčiau arba vėliau)
+su juo susijusiam pirkėjui.
 
-nustatytos:
+5. Šio straipsnio 3 dalyje nurodyti
 
-1)
+įvertinimai atliekami deklaranto pageidavimu ir tik prekių vertės palyginimo
 
-tapačių arba panašių prekių pardavimo eksportui į Lietuvos Respublikos muitų
+tikslais. Remiantis nurodytos dalies nuostatomis, negali būti nustatyta prekių
 
-teritoriją sandorio vertės, kai pirkėjas ir pardavėjas tarpusavyje nesusiję;
+vertė, naudojama muitiniam įvertinimui vietoj sandorio vertės.
 
-2)
+6. Sumokėta arba priklausančia sumokėti
 
-tapačių arba panašių prekių muitinės vertės, nustatytos vadovaujantis šio
+pinigų suma laikomi visi pirkėjo įvykdyti ar priklausantys įvykdyti mokėjimai
 
-kodekso 31 straipsnio 2 dalies 3 punktu;
+pardavėjui arba pardavėjo naudai už importuotas prekes. Į šią sumą įskaitomi
 
-3)
+visi įvykdyti ar priklausantys įvykdyti pirkėjo mokėjimai pardavėjui arba
 
-tapačių arba panašių prekių muitinės vertės, nustatytos vadovaujantis šio
+pardavėjo nurodymu kitiems asmenims, esantys importuotų prekių pardavimo
 
-kodekso 31 straipsnio 2 dalies 4 punktu.
+pirkėjui sąlyga. Mokama gali būti tiesiogiai ir netiesiogiai, pervedant
 
-4.
+pinigus, pateikiant akredityvus arba perduodant kitus vertybinius popierius.
 
-Pagal šio straipsnio 3 dalį atliekant palyginimus, atsižvelgiama į deklaranto
+7. Pirkėjo veikla (įskaitant prekių
 
-nurodytus prekybos sąlygų ir parduodamų prekių kiekio skirtumus, šio kodekso 33
+paklausos tyrimą), kuri vykdoma savo sąskaita, nėra laikoma netiesioginiu
 
-straipsnyje išvardytas prekių vertės sudėtines dalis, taip pat į pardavėjo
+apmokėjimu pardavėjui, išskyrus šio kodekso 33 straipsnyje nurodytas išlaidas,
 
-išlaidas, kai prekės parduodamos su juo nesusijusiam pirkėjui, jeigu šių
+kurias įvertinant gali būti patikslinama prekių muitinė vertė. Nustatant
 
-išlaidų pardavėjas neturi parduodamas prekes su juo susijusiam pirkėjui.
+importuotų prekių muitinę vertę, nurodytos pirkėjo veiklos išlaidos nėra
 
-5.
+pridedamos prie sumokėtos arba priklausančios sumokėti pinigų sumos, net jeigu
 
-Šio straipsnio 3 dalyje nurodyti įvertinimai atliekami deklaranto pageidavimu
+šią veiklą galima laikyti vykdoma pardavėjo naudai arba jeigu ji vykdoma pagal
 
-ir tik prekių vertės palyginimo tikslais. Remiantis nurodytos dalies
+sutartį su pardavėju.
 
-nuostatomis, negali būti nustatyta prekių vertė, naudojama muitiniam
+8. Nustatant prekių muitinę vertę,
 
-įvertinimui vietoj sandorio vertės.
+pirkėjas ir pardavėjas laikomi tarpusavyje susijusiais tik tais atvejais, jei:
 
-6.
+1) vienas iš jų yra kito asmens verslo
 
-Sumokėta arba priklausančia sumokėti pinigų suma laikomi visi pirkėjo įvykdyti
+vadovas arba darbuotojas;
 
-ar priklausantys įvykdyti mokėjimai pardavėjui arba pardavėjo naudai už
+2) jie yra juridiškai pripažįstami verslo
 
-importuotas prekes. Į šią sumą įskaitomi visi įvykdyti ar priklausantys
+partneriais;
 
-įvykdyti pirkėjo mokėjimai pardavėjui arba pardavėjo nurodymu kitiems asmenims,
+3) jie yra darbdavys ir darbuotojas;
 
-esantys importuotų prekių pardavimo pirkėjui sąlyga. Mokama gali būti
+4) bet kuris asmuo yra tiesioginis arba
 
-tiesiogiai ir netiesiogiai, pervedant pinigus, pateikiant akredityvus arba
+netiesioginis abiejų šių asmenų 5 procentų įstatinio kapitalo arba akcijų su
 
-perduodant kitus vertybinius popierius.
+balso teise savininkas, valdytojas arba disponuotojas;
 
-7.
+5) vienas iš jų tiesiogiai arba
 
-Pirkėjo veikla (įskaitant prekių paklausos tyrimą), kuri vykdoma savo sąskaita,
+netiesiogiai valdo kitą;
 
-nėra laikoma netiesioginiu apmokėjimu pardavėjui, išskyrus šio kodekso 33
+6) abu šie asmenys yra tiesiogiai arba
 
-straipsnyje nurodytas išlaidas, kurias įvertinant gali būti patikslinama prekių
+netiesiogiai valdomi trečiojo asmens;
 
-muitinė vertė. Nustatant importuotų prekių muitinę vertę, nurodytos pirkėjo
+7) abu šie asmenys tiesiogiai arba
 
-veiklos išlaidos nėra pridedamos prie sumokėtos arba priklausančios sumokėti
+netiesiogiai valdo trečiąjį asmenį;
 
-pinigų sumos, net jeigu šią veiklą galima laikyti vykdoma pardavėjo naudai arba
+8) jie yra vienos šeimos nariai arba
 
-jeigu ji vykdoma pagal sutartį su pardavėju.
+giminės (iki antrosios eilės).
 
-8.
+[8 dalies 8 punkto redakcija nuo 2002 m. birželio 1
 
-Nustatant prekių muitinę vertę, pirkėjas ir pardavėjas laikomi tarpusavyje
+d.:
 
-susijusiais tik tais atvejais, jei:
+8) jie yra vienos šeimos nariai arba
 
-1)
+giminės, kuriais laikomi: vyras ir žmona, tėvai ir vaikai, broliai ir seserys,
 
-vienas iš jų yra kito asmens verslo vadovas arba darbuotojas;
+pusbroliai ir pusseserės, seneliai ir vaikaičiai, dėdės arba tetos ir sūnėnai
 
-2)
+arba dukterėčios, įtėviai ir įvaikiai, įbroliai ir įseserės.]
 
-jie yra juridiškai pripažįstami verslo partneriais;
+Straipsnio pakeitimai:
 
-3)
+Nr. IX-624,
 
-jie yra darbdavys ir darbuotojas;
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-4)
+31 straipsnis. Kitų prekių muitinio
 
-bet kuris asmuo yra tiesioginis arba netiesioginis abiejų šių asmenų 5 procentų
+įvertinimo metodų taikymas
 
-įstatinio kapitalo arba akcijų su balso teise savininkas, valdytojas arba
+1. Jeigu prekių muitinės vertės neįmanoma
 
-disponuotojas;
+nustatyti vadovaujantis šio kodekso 30 straipsnio nuostatomis, ji turi būti
 
-5)
+nustatoma nuosekliai taikant šio straipsnio 2 dalies 1, 2, 3 ir 4 punktus iki
 
-vienas iš jų tiesiogiai arba netiesiogiai valdo kitą;
+punkto, pagal kurį ši vertė gali būti nustatyta. Kito punkto nuostatos gali
 
-6)
+būti taikomos tiktai tuo atveju, jeigu pagal ankstesnįjį punktą, laikantis šio
 
-abu šie asmenys yra tiesiogiai arba netiesiogiai valdomi trečiojo asmens;
+straipsnio 2 dalyje nustatytos eilės tvarkos, prekių muitinės vertės nustatyti
 
-7)
+neįmanoma. Deklaranto prašymu šio straipsnio 2 dalies 3 ir 4 punktai gali būti
 
-abu šie asmenys tiesiogiai arba netiesiogiai valdo trečiąjį asmenį;
+taikomi atvirkščia tvarka.
 
-8)
+2. Prekių muitine verte, nustatyta
 
-jie yra vienos šeimos nariai arba giminės (iki antrosios eilės).
+vadovaujantis šio straipsnio nuostatomis, laikoma:
 
-31 straipsnis. Kitų prekių muitinio įvertinimo metodų
+1) tapačių prekių pardavimo eksportui į
 
-taikymas
+Lietuvos Respublikos muitų teritoriją sandorio vertė. Tapačiomis pripažįstamos
 
-1.
+prekės turi būti parduotos ir eksportuotos tuo pačiu arba maždaug tuo pačiu
 
-Jeigu prekių muitinės vertės neįmanoma nustatyti vadovaujantis šio kodekso 30
+metu (bet ne daugiau kaip 90 dienų anksčiau arba vėliau) kaip ir prekės, kurių
 
-straipsnio nuostatomis, ji turi būti nustatoma nuosekliai taikant šio
+muitinė vertė turi būti nustatyta;
 
-straipsnio 2 dalies 1, 2, 3 ir 4 punktus iki punkto, pagal kurį ši vertė gali
+2) panašių prekių pardavimo eksportui į
 
-būti nustatyta. Kito punkto nuostatos gali būti taikomos tiktai tuo atveju,
+Lietuvos Respublikos muitų teritoriją sandorio vertė. Panašiomis pripažįstamos
 
-jeigu pagal ankstesnįjį punktą, laikantis šio straipsnio 2 dalyje nustatytos
+prekės turi būti parduotos ir eksportuotos tuo pačiu arba maždaug tuo pačiu
 
-eilės tvarkos, prekių muitinės vertės nustatyti neįmanoma. Deklaranto prašymu
+metu (bet ne daugiau kaip 90 dienų anksčiau arba vėliau) kaip ir prekės, kurių
 
-šio straipsnio 2 dalies 3 ir 4 punktai gali būti taikomi atvirkščia tvarka.
+muitinė vertė turi būti nustatyta;
 
-2.
+3) vertė, nustatyta remiantis prekės
 
-Prekių muitine verte, nustatyta vadovaujantis šio straipsnio nuostatomis,
+vieneto kaina, t.y. pinigų suma, sumokėta arba priklausančia sumokėti už
 
-laikoma:
+importuotas prekes, kurių muitinė vertė turi būti nustatyta, tapačias arba
 
-1)
+panašias importuotas prekes, parduodant Lietuvos Respublikos muitų teritorijoje
 
-tapačių prekių pardavimo eksportui į Lietuvos Respublikos muitų teritoriją
+didžiausią jų kiekį asmenims, nesusijusiems su pardavėjais, tuo pačiu arba
 
-sandorio vertė. Tapačiomis pripažįstamos prekės turi būti parduotos ir
+maždaug tuo pačiu metu, kai buvo importuotos prekės, kurių muitinė vertė turi
 
-eksportuotos tuo pačiu arba maždaug tuo pačiu metu (bet ne daugiau kaip 90
+būti nustatyta, bet ne daugiau kaip 90 dienų anksčiau arba vėliau;
 
-dienų anksčiau arba vėliau) kaip ir prekės, kurių muitinė vertė turi būti
+[2 dalies 1, 2 ir 3 punktų redakcija nuo 2002 m.
 
-nustatyta;
+birželio 1 d.:
 
-2)
+1) tapačių prekių pardavimo eksportui į
 
-panašių prekių pardavimo eksportui į Lietuvos Respublikos muitų teritoriją
+Lietuvos Respublikos muitų teritoriją sandorio vertė. Tapačiomis pripažįstamos
 
-sandorio vertė. Panašiomis pripažįstamos prekės turi būti parduotos ir
-
-eksportuotos tuo pačiu arba maždaug tuo pačiu metu (bet ne daugiau kaip 90
-
-dienų anksčiau arba vėliau) kaip ir prekės, kurių muitinė vertė turi būti
-
-nustatyta;
-
-3)
-
-vertė, nustatyta remiantis prekės vieneto kaina, t.y. pinigų suma, sumokėta
-
-arba priklausančia sumokėti už importuotas prekes, kurių muitinė vertė turi
-
-būti nustatyta, tapačias arba panašias importuotas prekes, parduodant Lietuvos
-
-Respublikos muitų teritorijoje didžiausią jų kiekį asmenims, nesusijusiems su
-
-pardavėjais, tuo pačiu arba maždaug tuo pačiu metu, kai buvo importuotos
-
-prekės, kurių muitinė vertė turi būti nustatyta, bet ne daugiau kaip 90 dienų
-
-anksčiau arba vėliau;
-
-4)
-
-apskaičiuotoji vertė - suma, kurios dėmenys yra šie dydžiai:
-
-a)
-
-žaliavų, medžiagų ir gamybos arba kitokio importuotų prekių apdorojimo išlaidų
-
-vertė;
-
-b)
-
-pelnas ir bendrosios išlaidos, kurių dydis lygus pelnui ir bendrosioms
-
-išlaidoms, paprastai gamintojų nurodomoms parduodant eksportui į Lietuvos
-
-Respublikos muitų teritoriją prekes, kurios yra tos pačios klasės arba rūšies
+prekės turi būti parduotos ir eksportuotos tuo pačiu arba maždaug tuo pačiu metu
 
 kaip ir prekės, kurių muitinė vertė turi būti nustatyta;
 
-c)
+2) panašių prekių pardavimo eksportui į
 
-šio kodekso 33 straipsnio 1 dalies 5 punkte nurodytų išlaidų vertė.
+Lietuvos Respublikos muitų teritoriją sandorio vertė. Panašiomis pripažįstamos
 
-3.
+prekės turi būti parduotos ir eksportuotos tuo pačiu arba maždaug tuo pačiu metu
 
-Šio straipsnio 2 dalies nuostatų taikymo sąlygos ir taisyklės detaliau
+kaip ir prekės, kurių muitinė vertė turi būti nustatyta;
 
-nustatytos šio kodekso taikymą reglamentuojančiuose teisės aktuose.
+3) vertė, nustatyta remiantis prekės
 
-32 straipsnis. Prekių muitinis įvertinimas, kai
+vieneto kaina, t. y. pinigų suma, sumokėta arba priklausančia sumokėti už
 
-neįmanoma pritaikyti konkretaus
+importuotas prekes, kurių muitinė vertė turi būti nustatyta, tapačias arba
+
+panašias importuotas prekes, parduodant Lietuvos Respublikos muitų teritorijoje
+
+didžiausią jų kiekį asmenims, nesusijusiems su pardavėjais, tuo pačiu arba
+
+maždaug tuo pačiu metu, kai buvo importuotos prekės, kurių muitinė vertė turi
+
+būti nustatyta;]
+
+4) apskaičiuotoji vertė - suma, kurios
+
+dėmenys yra šie dydžiai:
+
+a) žaliavų, medžiagų ir gamybos arba
+
+kitokio importuotų prekių apdorojimo išlaidų vertė;
+
+b) pelnas ir bendrosios išlaidos, kurių
+
+dydis lygus pelnui ir bendrosioms išlaidoms, paprastai gamintojų nurodomoms
+
+parduodant eksportui į Lietuvos Respublikos muitų teritoriją prekes, kurios yra
+
+tos pačios klasės arba rūšies kaip ir prekės, kurių muitinė vertė turi būti
+
+nustatyta;
+
+c) šio kodekso 33 straipsnio 1 dalies 5
+
+punkte nurodytų išlaidų vertė.
+
+3. Šio straipsnio 2 dalies nuostatų
+
+taikymo sąlygos ir taisyklės detaliau nustatytos šio kodekso taikymą
+
+reglamentuojančiuose teisės aktuose.
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+32 straipsnis. Prekių muitinis
+
+įvertinimas, kai neįmanoma pritaikyti konkretaus
 
 muitinio įvertinimo metodo
 
-1.
+1. Jeigu prekių muitinės vertės neįmanoma
 
-Jeigu prekių muitinės vertės neįmanoma nustatyti vadovaujantis šio kodekso 30
+nustatyti vadovaujantis šio kodekso 30 ir 31 straipsnių nuostatomis, ši vertė
 
-ir 31 straipsnių nuostatomis, ši vertė nustatoma remiantis Lietuvos
+nustatoma remiantis Lietuvos Respublikoje surinktais duomenimis ir naudojant
 
-Respublikoje surinktais duomenimis ir naudojant priemones, kurios atitinka
+priemones, kurios atitinka Susitarimo dėl Bendrojo susitarimo dėl muitų tarifų
 
-Susitarimo dėl Bendrojo susitarimo dėl muitų tarifų ir prekybos (GATT, 1994 m.)
+ir prekybos (GATT, 1994 m.) VII straipsnio taikymo, Bendrojo susitarimo dėl muitų
 
-VII straipsnio taikymo, Bendrojo susitarimo dėl muitų tarifų ir prekybos (GATT,
+tarifų ir prekybos (GATT, 1994 m.) VII straipsnio ir šio skyriaus nuostatų
 
-1994 m.) VII straipsnio ir šio skyriaus nuostatų bendruosius principus.
+bendruosius principus.
 
-2.
+2. Nustatant prekių muitinę vertę pagal
 
-Nustatant prekių muitinę vertę pagal šio straipsnio 1 dalį, negalima remtis:
+šio straipsnio 1 dalį, negalima remtis:
 
-1)
+1) Lietuvos Respublikoje pagamintų prekių
 
-Lietuvos Respublikoje pagamintų prekių pardavimo Lietuvos Respublikos muitų
+pardavimo Lietuvos Respublikos muitų teritorijoje kainomis;
 
-teritorijoje kainomis;
+2) sistema, pagal kurią nustatant prekių
 
-2)
+muitinę vertę pasirenkama didesnioji iš dviejų alternatyvių prekių verčių;
 
-sistema, pagal kurią nustatant prekių muitinę vertę pasirenkama didesnioji iš
+3) prekių kainomis šalies, iš kurios
 
-dviejų alternatyvių prekių verčių;
+prekės eksportuotos, vidaus rinkoje;
 
-3)
+4) gamybos išlaidomis, išskyrus tapačių ir
 
-prekių kainomis šalies, iš kurios prekės eksportuotos, vidaus rinkoje;
+panašių prekių apskaičiuotąją vertę, nustatytą vadovaujantis šio kodekso 31
 
-4)
+straipsnio 2 dalies 4 punktu;
 
-gamybos išlaidomis, išskyrus tapačių ir panašių prekių apskaičiuotąją vertę,
+5) prekių, parduodamų eksportui į kitas
 
-nustatytą vadovaujantis šio kodekso 31 straipsnio 2 dalies 4 punktu;
+šalis, kainomis;
 
-5)
+6) minimaliomis muitinėmis vertėmis;
 
-prekių, parduodamų eksportui į kitas šalis, kainomis;
+7)sutartinėmis arba fiktyviomis
 
-6)
+(kontrolinėmis) vertėmis.
 
-minimaliomis muitinėmis vertėmis;
+33 straipsnis. Išlaidos, kurios
 
-7)sutartinėmis
+taikant sandorio vertės metodą pridedamos prie pinigų
 
-arba fiktyviomis (kontrolinėmis) vertėmis.
+sumos, sumokėtos arba priklausančios
 
-33 straipsnis. Išlaidos, kurios taikant sandorio
+sumokėti už importuotas prekes
 
-vertės metodą pridedamos prie pinigų
+1. Nustatant prekių muitinę vertę pagal
 
-sumos, sumokėtos arba priklausančios sumokėti už
+šio kodekso 30 straipsnį, prie pinigų sumos, sumokėtos arba priklausančios
 
-importuotas prekes
+sumokėti už importuotas prekes, pridedama:
 
-1.
+1) šios pirkėjo išlaidos, jeigu jos nėra
 
-Nustatant prekių muitinę vertę pagal šio kodekso 30 straipsnį, prie pinigų
+įskaitytos į pinigų sumą, sumokėtą arba priklausančią sumokėti už prekes:
 
-sumos, sumokėtos arba priklausančios sumokėti už importuotas prekes, pridedama:
+a) komisiniai ir apmokėjimas tarpininkams
 
-1)
+(brokeriams), išskyrus pirkimo komisinius;
 
-šios pirkėjo išlaidos, jeigu jos nėra įskaitytos į pinigų sumą, sumokėtą arba
+b) talpų, kuriose tiekiamos prekės, vertė,
 
-priklausančią sumokėti už prekes:
+jeigu šias talpas muitinė laiko importuotų prekių neatskiriama dalimi;
 
-a)
+c) įpakavimo vertė, įskaitant išlaidas
 
-komisiniai ir apmokėjimas tarpininkams (brokeriams), išskyrus pirkimo
+įpakavimo medžiagoms ir apmokėjimą už darbą;
 
-komisinius;
+2) atitinkamu būdu proporcingai paskirstyta
 
-b)
+pirkėjo tiesiogiai arba netiesiogiai, nemokamai arba sumažintomis kainomis
 
-talpų, kuriose tiekiamos prekės, vertė, jeigu šias talpas muitinė laiko
+tiekiamų prekių arba teikiamų paslaugų, susijusių su importuotų prekių gamyba
 
-importuotų prekių neatskiriama dalimi;
+ir pardavimu eksportui, vertė. Šioms prekėms ir paslaugoms priskiriamos (tokiu
 
-c)
+mastu, kokiu jų vertė neįskaityta į sumokėtą ar priklausančią sumokėti pinigų
 
-įpakavimo vertė, įskaitant išlaidas įpakavimo medžiagoms ir apmokėjimą už
+sumą):
 
-darbą;
+a) žaliavos, medžiagos, detalės,
 
-2)
+komponentai ir panašūs daiktai - sudėtinės importuotų prekių dalys
 
-atitinkamu būdu proporcingai paskirstyta pirkėjo tiesiogiai arba netiesiogiai,
+(priklausiniai);
 
-nemokamai arba sumažintomis kainomis tiekiamų prekių arba teikiamų paslaugų,
+b) įrankiai, štampai, formos ir panašūs
 
-susijusių su importuotų prekių gamyba ir pardavimu eksportui, vertė. Šioms
+daiktai, naudoti importuotoms prekėms gaminti;
 
-prekėms ir paslaugoms priskiriamos (tokiu mastu, kokiu jų vertė neįskaityta į
+c) pagalbinės žaliavos, medžiagos ir kiti
 
-sumokėtą ar priklausančią sumokėti pinigų sumą):
+daiktai, sunaudoti gaminant importuotas prekes,
 
-a)
+d) inžineriniai, projektavimo, meninio
 
-žaliavos, medžiagos, detalės, komponentai ir panašūs daiktai - sudėtinės
+apipavidalinimo, dizaino darbai, įskaitant eskizų ir brėžinių paruošimą,
 
-importuotų prekių dalys (priklausiniai);
+atlikti ne Lietuvos Respublikos muitų teritorijoje ir būtini importuotų prekių
 
-b)
+gamybai;
 
-įrankiai, štampai, formos ir panašūs daiktai, naudoti importuotoms prekėms
+3) mokesčiai už patentus ir licencijas,
 
-gaminti;
+susiję su prekėmis, kurių muitinė vertė nustatoma. Juos pirkėjas privalo
 
-c)
+tiesiogiai arba netiesiogiai sumokėti vykdydamas šių prekių pardavimo jam
 
-pagalbinės žaliavos, medžiagos ir kiti daiktai, sunaudoti gaminant importuotas
+sąlygas (tokiu mastu, kokiu mokesčiai už patentus ir licencijas neįskaityti į
 
-prekes,
+sumokėtą ar priklausančią sumokėti pinigų sumą), išskyrus:
 
-d)
+a) apmokėjimą už teisę tiražuoti
 
-inžineriniai, projektavimo, meninio apipavidalinimo, dizaino darbai, įskaitant
+importuotas prekes Lietuvos Respublikoje;
 
-eskizų ir brėžinių paruošimą, atlikti ne Lietuvos Respublikos muitų
+b) pirkėjo apmokėjimą už teisę perparduoti
 
-teritorijoje ir būtini importuotų prekių gamybai;
+arba paskirstyti importuotas prekes, jeigu šis apmokėjimas nėra prekių
 
-3)
+pardavimo eksportui į Lietuvos Respublikos muitų teritoriją sąlyga;
 
-mokesčiai už patentus ir licencijas, susiję su prekėmis, kurių muitinė vertė
+4) tiesiogiai arba netiesiogiai pardavėjui
 
-nustatoma. Juos pirkėjas privalo tiesiogiai arba netiesiogiai sumokėti
+tenkanti pajamų dalis, gauta toliau perparduodant, naudojant importuotas prekes
 
-vykdydamas šių prekių pardavimo jam sąlygas (tokiu mastu, kokiu mokesčiai už
+ar kitaip jomis disponuojant;
 
-patentus ir licencijas neįskaityti į sumokėtą ar priklausančią sumokėti pinigų sumą),
+5) importuotų prekių gabenimo ir draudimo
 
-išskyrus:
+išlaidos (įskaitant su jų gabenimu susijusias importuotų prekių krovimo ir
 
-a)
+tvarkymo išlaidas), atsiradusios iki jų atgabenimo į Lietuvos Respublikos muitų
 
-apmokėjimą už teisę tiražuoti importuotas prekes Lietuvos Respublikoje;
+teritoriją.
 
-b)
+2. Šiame straipsnyje nurodyti dydžiai
 
-pirkėjo apmokėjimą už teisę perparduoti arba paskirstyti importuotas prekes,
+pridedami prie sumokėtos arba priklausančios sumokėti pinigų sumos tiktai
 
-jeigu šis apmokėjimas nėra prekių pardavimo eksportui į Lietuvos Respublikos
+remiantis objektyviais ir kiekybiškai įvertinamais duomenimis.
 
-muitų teritoriją sąlyga;
+3. Nustatant prekių muitinę vertę, prie
 
-4)
+sumokėtos arba priklausančios sumokėti pinigų sumos nepridedami jokie kiti
 
-tiesiogiai arba netiesiogiai pardavėjui tenkanti pajamų dalis, gauta toliau
+dydžiai, išskyrus nurodytus šiame straipsnyje.
 
-perparduodant, naudojant importuotas prekes ar kitaip jomis disponuojant;
+4. Šiame skyriuje terminu pirkimo
 
-5)
+komisiniai vadinamas importuotojo atlygis savo agentui už atstovavimą perkant
 
-importuotų prekių gabenimo ir draudimo išlaidos (įskaitant su jų gabenimu susijusias
-
-importuotų prekių krovimo ir tvarkymo išlaidas), atsiradusios iki jų atgabenimo
-
-į Lietuvos Respublikos muitų teritoriją.
-
-2.
-
-Šiame straipsnyje nurodyti dydžiai pridedami prie sumokėtos arba priklausančios
-
-sumokėti pinigų sumos tiktai remiantis objektyviais ir kiekybiškai įvertinamais
-
-duomenimis.
-
-3.
-
-Nustatant prekių muitinę vertę, prie sumokėtos arba priklausančios sumokėti
-
-pinigų sumos nepridedami jokie kiti dydžiai, išskyrus nurodytus šiame
-
-straipsnyje.
-
-4.
-
-Šiame skyriuje terminu pirkimo komisiniai vadinamas importuotojo atlygis savo
-
-agentui už atstovavimą perkant prekes, kurių muitinė vertė nustatoma.
+prekes, kurių muitinė vertė nustatoma.
 
 34
 
@@ -1970,117 +2152,125 @@ straipsnis. Išlaidos,
 
 neįskaitomos į prekių muitinę vertę
 
-Jeigu
+Jeigu nėra įskaitytos į pinigų sumą,
 
-nėra įskaitytos į pinigų sumą, sumokėtą arba priklausančią sumokėti už
+sumokėtą arba priklausančią sumokėti už importuotas prekes, į prekių muitinę
 
-importuotas prekes, į prekių muitinę vertę neįskaitomos šios atskirai nurodytos
+vertę neįskaitomos šios atskirai nurodytos išlaidos:
 
-išlaidos:
+1) prekių gabenimo išlaidos, atsiradusios
 
-1)
+po prekių atgabenimo į Lietuvos Respublikos muitų teritoriją;
 
-prekių gabenimo išlaidos, atsiradusios po prekių atgabenimo į Lietuvos
+2) statybos, montažo, surinkimo,
 
-Respublikos muitų teritoriją;
+priežiūros ar techninės pagalbos išlaidos, atsiradusios po gamyklų įrangos,
 
-2)
+mašinų, įrengimų ar panašių prekių importavimo;
 
-statybos, montažo, surinkimo, priežiūros ar techninės pagalbos išlaidos,
+3) palūkanos, sumokėtos pirkėjo pagal
 
-atsiradusios po gamyklų įrangos, mašinų, įrengimų ar panašių prekių
+atitinkamą finansinį susitarimą ir susijusios su importuotų prekių pirkimu
 
-importavimo;
+neatsižvelgiant į tai, ar kreditorius yra pardavėjas, ar kitas asmuo.
 
-3)
+Finansinis susitarimas turi būti sudarytas raštu ir pirkėjas pareikalautas turi
 
-palūkanos, sumokėtos pirkėjo pagal atitinkamą finansinį susitarimą ir
+sugebėti įrodyti, kad:
 
-susijusios su importuotų prekių pirkimu neatsižvelgiant į tai, ar kreditorius
+a) prekės iš tikrųjų yra parduotos už
 
-yra pardavėjas, ar kitas asmuo. Finansinis susitarimas turi būti sudarytas
+pinigų sumą, kuri deklaruojama kaip sumokėta ar priklausanti sumokėti;
 
-raštu ir pirkėjas pareikalautas turi sugebėti įrodyti, kad:
+b) nurodyta palūkanų norma neviršija
 
-a)
+įprastinės tokiems sandoriams toje šalyje tuo metu, kai buvo suteiktas
 
-prekės iš tikrųjų yra parduotos už pinigų sumą, kuri deklaruojama kaip sumokėta
+kreditas;
 
-ar priklausanti sumokėti;
+4) apmokėjimas už teisę tiražuoti
 
-b)
+importuotas prekes Lietuvos Respublikoje;
 
-nurodyta palūkanų norma neviršija įprastinės tokiems sandoriams toje šalyje tuo
+5) pirkimo komisiniai;
 
-metu, kai buvo suteiktas kreditas;
+6) importo muitai ir mokesčiai, mokami
 
-4)
+Lietuvos Respublikoje importuojant arba parduodant tam tikras prekes.
 
-apmokėjimas už teisę tiražuoti importuotas prekes Lietuvos Respublikoje;
+35 straipsnis. Automatinio duomenų
 
-5)
-
-pirkimo komisiniai;
-
-6)
-
-importo muitai ir mokesčiai, mokami Lietuvos Respublikoje importuojant arba
-
-parduodant tam tikras prekes.
-
-35 straipsnis. Automatinio duomenų apdorojimo įrangai
-
-skirtų laikmenų ir jose esančių
+apdorojimo įrangai skirtų laikmenų ir jose esančių
 
 duomenų bei programinės įrangos
 
 muitinės vertės nustatymas
 
-Automatinio
+Automatinio duomenų apdorojimo įrangai
 
-duomenų apdorojimo įrangai skirtų laikmenų ir jose esančių duomenų bei
+skirtų laikmenų ir jose esančių duomenų bei programinės įrangos muitinė vertė
 
-programinės įrangos muitinė vertė nustatoma remiantis šio kodekso taikymą
+nustatoma remiantis šio kodekso taikymą reglamentuojančių teisės aktų
 
-reglamentuojančių teisės aktų nustatytomis taisyklėmis.
+nustatytomis taisyklėmis.
 
-36 straipsnis. Išlaidų, išreikštų užsienio valiuta,
+36 straipsnis. Išlaidų, išreikštų
 
-perskaičiavimas
+užsienio valiuta, perskaičiavimas
 
-Jeigu
+Jeigu išlaidos, į kurias atsižvelgiama
 
-išlaidos, į kurias atsižvelgiama nustatant prekių muitinę vertę, išreikštos
+nustatant prekių muitinę vertę, išreikštos užsienio valiuta, jos
 
-užsienio valiuta, jos perskaičiuojamos litais pagal Lietuvos banko nustatytą
+perskaičiuojamos litais pagal Lietuvos banko nustatytą oficialų kursą. Jeigu tam
 
-oficialų kursą. Jeigu tam tikros užsienio valiutos oficialus kursas
+tikros užsienio valiutos oficialus kursas nenustatytas, išlaidos
 
-nenustatytas, išlaidos perskaičiuojamos litais šio kodekso taikymą
+perskaičiuojamos litais šio kodekso taikymą reglamentuojančių teisės aktų
 
-reglamentuojančių teisės aktų nustatyta tvarka.
+nustatyta tvarka.
 
-37 straipsnis. Kitų nuostatų, reglamentuojančių prekių
+[36 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-muitinį įvertinimą, taikymas
+37 straipsnis. Kitų nuostatų, reglamentuojančių
 
-1.
+prekių muitinį įvertinimą, taikymas
 
-Nustatant muitinę vertę prekių, išleistų laisvai cirkuliuoti po to, kai su
+1. Nustatant muitinę vertę prekių,
 
-jomis buvo atliekami kiti muitinės sankcionuoti veiksmai, šio skyriaus
+išleistų laisvai cirkuliuoti po to, kai su jomis buvo atliekami kiti muitinės
 
-nuostatos taikomos atsižvelgiantį nurodytų prekių muitinį įvertinimą
+sankcionuoti veiksmai, šio skyriaus nuostatos taikomos atsižvelgiantį nurodytų
 
-reglamentuojančias šio kodekso ir kitų teisės aktų nuostatas.
+prekių muitinį įvertinimą reglamentuojančias šio kodekso ir kitų teisės aktų
 
-2.
+nuostatas.
 
-Nustatant pagal konsignacijos sutartis tiekiamų greitai gendančių prekių
+2. Nustatant pagal konsignacijos sutartis
 
-muitinę vertę, deklaranto prašymu gali būti taikoma paprastesnė, šio kodekso
+tiekiamų greitai gendančių prekių muitinę vertę, deklaranto prašymu gali būti
 
-taikymą reglamentuojančių teisės aktų nustatyta tvarka.
+taikoma paprastesnė, šio kodekso taikymą reglamentuojančių teisės aktų
+
+nustatyta tvarka.
+
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+2. Nustatant greitai gendančių prekių,
+
+kurios paprastai tiekiamos pagal konsignacijos sutartis, muitinę vertę,
+
+deklaranto prašymu netaikant šio kodekso 30, 31 ir 32 straipsnių gali būti
+
+taikoma paprastesnė, šio kodekso taikymą reglamentuojančių teisės aktų
+
+nustatyta tvarka.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 IV DALIS
 
@@ -2096,33 +2286,31 @@ PREKIŲ ĮVEŽIMAS Į LIETUVOS RESPUBLIKOS MUITŲ
 
 TERITORIJĄ
 
-38
+38 straipsnis. Įvežtų į Lietuvos
 
-straipsnis. Įvežtų į Lietuvos Respublikos muitų teritoriją prekių muitinės
+Respublikos muitų teritoriją prekių muitinės priežiūra
 
-priežiūra
+1. Į Lietuvos Respublikos muitų teritoriją
 
-1.
+įvežtos prekės nuo jų įvežimo momento laikomos muitinės prižiūrimomis. Jos gali
 
-Į Lietuvos Respublikos muitų teritoriją įvežtos prekės nuo jų įvežimo momento
+būti muitinės tikrinamos vadovaujantis šio kodekso ir jo taikymą reglamentuojančių
 
-laikomos muitinės prižiūrimomis. Jos gali būti muitinės tikrinamos
+teisės aktų nuostatomis.
 
-vadovaujantis šio kodekso ir jo taikymą reglamentuojančių teisės aktų
+2. Lietuvos prekės lieka muitinės
+
+prižiūrimos tol, kol joms pripažįstamas Lietuvos prekių statusas. Ne Lietuvos
+
+prekės lieka muitinės prižiūrimos tol, kol pakeičiamas jų statusas į Lietuvos
+
+prekių statusą, išskyrus prekes, nurodytas šio kodekso 80 straipsnio 1 dalyje,
+
+kol jos įvežamos į laisvąją zoną, padedamos į laisvąjį sandėlį,
+
+reeksportuojamos arba sunaikinamos vadovaujantis šio kodekso 178 straipsnio
 
 nuostatomis.
-
-2. Lietuvos prekės lieka muitinės prižiūrimos tol, kol
-
-joms pripažįstamas Lietuvos prekių statusas. Ne Lietuvos prekės lieka muitinės
-
-prižiūrimos tol, kol pakeičiamas jų statusas į Lietuvos prekių statusą,
-
-išskyrus prekes, nurodytas šio kodekso 80 straipsnio 1 dalyje, kol jos įvežamos
-
-į laisvąją zoną, padedamos į laisvąjį sandėlį, reeksportuojamos arba
-
-sunaikinamos vadovaujantis šio kodekso 178 straipsnio nuostatomis.
 
 Straipsnio pakeitimai:
 
@@ -2140,63 +2328,75 @@ straipsnis. Įvežtų į
 
 Lietuvos Respublikos muitų teritoriją prekių gabenimas
 
-1.
+1. Į Lietuvos Respublikos muitų teritoriją
 
-Į Lietuvos Respublikos muitų teritoriją prekes įvežęs asmuo,laikydamasis
+prekes įvežęs asmuo,laikydamasis muitinės nustatyto maršruto ir vadovaudamasis
 
-muitinės nustatyto maršruto ir vadovaudamasis muitinės nurodymais, privalo jas
+muitinės nurodymais, privalo jas nedelsiant pristatyti:
 
-nedelsiant pristatyti:
+1) į nurodytą muitinės įstaigą arba kitą
 
-1)
+muitinės nustatytą vietą;
 
-į nurodytą muitinės įstaigą arba kitą muitinės nustatytą vietą;
+[1 dalies 1 punkto redakcija nuo 2002 m. birželio 1
 
-2) į laisvąją zoną, jeigu prekės tiesiogiai į ją
+d.:
 
-gabenamos jūra arba oru, taip pat sausuma, nevykstant per kitą Lietuvos
+1) į nurodytą muitinės įstaigą arba kitą
 
-Respublikos muitų teritorijos dalį, ir jeigu laisvoji zona ribojasi su Lietuvos
+muitinės nustatytą ar muitinei priimtiną vietą;]
 
-Respublikos valstybės siena sausumoje.
+2) į laisvąją zoną, jeigu prekės
 
-2.
+tiesiogiai į ją gabenamos jūra arba oru, taip pat sausuma, nevykstant per kitą
 
-Asmuo, prisiėmęs atsakomybę už įvežtų į Lietuvos Respublikos muitų teritoriją
+Lietuvos Respublikos muitų teritorijos dalį, ir jeigu laisvoji zona ribojasi su
 
-prekių gabenimą, taip pat atsako už šio straipsnio 1 dalies, 41 straipsnio ir
+Lietuvos Respublikos valstybės siena sausumoje.
 
-45 straipsnio 2 dalies nuostatų laikymąsi.
+2. Asmuo, prisiėmęs atsakomybę už įvežtų į
 
-3.
+Lietuvos Respublikos muitų teritoriją prekių gabenimą, taip pat atsako už šio
 
-Prekės, kurios už Lietuvos Respublikos muitų teritorijos ribų gali būti
+straipsnio 1 dalies, 41 straipsnio ir 45 straipsnio 2 dalies nuostatų
 
-tikrinamos muitinės pagal atitinkamas Lietuvos Respublikos tarptautines
+laikymąsi.
 
-sutartis, traktuojamos taip pat kaip ir prekės, įvežtos į Lietuvos Respublikos
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-muitų teritoriją.
+2. Asmuo, prisiėmęs atsakomybę už įvežtų
 
-4.
+į Lietuvos Respublikos muitų teritoriją prekių gabenimą, atsako už šio
 
-Šio straipsnio 1 dalies 1 punkto nuostatos gali būti netaikomos, jeigu yra
+straipsnio 1 dalies, 41 straipsnio ir 45 straipsnio 2 dalies nuostatų
 
-įstatymų ir kitų teisės aktų nustatytų turizmo, pasienio susisiekimo, pašto
+laikymąsi.]
 
-siuntų arba mažaverčių siuntų gabenimo lengvatų ir jeigu sudaromos galimybės
+3. Prekės, kurios už Lietuvos Respublikos
 
-įgyvendinti būtinas muitinės priežiūros priemones.
+muitų teritorijos ribų gali būti tikrinamos muitinės pagal atitinkamas Lietuvos
 
-5.
+Respublikos tarptautines sutartis, traktuojamos taip pat kaip ir prekės,
 
-Šio straipsnio 1 dalies nuostatos taip pat netaikomos prekėms, kurios laivais
+įvežtos į Lietuvos Respublikos muitų teritoriją.
 
-arba orlaiviais gabenamos per Lietuvos Respublikos teritorinius vandenis arba
+4. Šio straipsnio 1 dalies 1 punkto
 
-oro erdvę, jeigu prekių paskirties jūrų, upių arba oro uostas yra ne Lietuvos
+nuostatos gali būti netaikomos, jeigu yra įstatymų ir kitų teisės aktų
 
-Respublikos muitų teritorijoje.
+nustatytų turizmo, pasienio susisiekimo, pašto siuntų arba mažaverčių siuntų
+
+gabenimo lengvatų ir jeigu sudaromos galimybės įgyvendinti būtinas muitinės
+
+priežiūros priemones.
+
+5. Šio straipsnio 1 dalies nuostatos taip
+
+pat netaikomos prekėms, kurios laivais arba orlaiviais gabenamos per Lietuvos
+
+Respublikos teritorinius vandenis arba oro erdvę, jeigu prekių paskirties jūrų,
+
+upių arba oro uostas yra ne Lietuvos Respublikos muitų teritorijoje.
 
 Straipsnio pakeitimai:
 
@@ -2208,207 +2408,155 @@ Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
 
-38   straipsnis.  Įvežtų  į  Lietuvos
+Nr. IX-624,
 
-Respublikos  muitų teritoriją prekių muitinės priežiūra
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-1. Į Lietuvos Respublikos muitų
+40 straipsnis. Prekių įvežimas į
 
-teritoriją įvežtos prekės nuo  jų  įvežimo momento laikomos muitinės
-
-prižiūrimomis.  Jos gali būti muitinės tikrinamos vadovaujantis šio kodekso ir
-
-jo taikymą reglamentuojančių teisės aktų nuostatomis.
-
-2.  Lietuvos prekės lieka muitinės
-
-prižiūrimos  tol,  kol joms  pripažįstamas  Lietuvos  prekių  statusas.  Ne
-
-Lietuvos prekės  lieka  muitinės prižiūrimos tol,  kol  pakeičiamas  jų
-
-statusas į Lietuvos prekių statusą, išskyrus prekes, nurodytas šio  kodekso
-
-80  straipsnio  1 dalyje,  kol  jos  įvežamos  į laisvąją   ekonominę  zoną,
-
-padedamos  į  laisvąjį   sandėlį, reeksportuojamos arba sunaikinamos
-
-vadovaujantis  šio  kodekso 178 straipsnio nuostatomis.
-
-39
-
-straipsnis.  Įvežtų  į  Lietuvos
-
-Respublikos  muitų teritoriją prekių gabenimas
-
-1.  Į Lietuvos Respublikos muitų
-
-teritoriją prekes įvežęs asmuo,laikydamasis   muitinės   nustatyto   maršruto
-
-ir vadovaudamasis  muitinės nurodymais,  privalo  jas  nedelsiant pristatyti:
-
-1)   į  nurodytą  muitinės  įstaigą
-
-arba  kitą  muitinės nustatytą vietą;
-
-2)  į laisvąją ekonominę zoną, jeigu
-
-prekės tiesiogiai  į ją  gabenamos jūra arba oru, taip pat sausuma, nevykstant
-
-per kitą  Lietuvos  Respublikos muitų teritorijos dalį,  ir  jeigu laisvoji
-
-ekonominė  zona  ribojasi  su  Lietuvos  Respublikos valstybės siena sausumoje.
-
-2.  Asmuo,  prisiėmęs  atsakomybę už
-
-įvežtų  į  Lietuvos Respublikos muitų teritoriją prekių gabenimą, taip pat
-
-atsako už  šio straipsnio 1 dalies, 41 straipsnio ir 45 straipsnio  2 dalies
-
-nuostatų laikymąsi.
-
-3.   Prekės,   kurios   už  Lietuvos
-
-Respublikos   muitų teritorijos   ribų   gali  būti  tikrinamos   muitinės
-
-pagal atitinkamas   Lietuvos   Respublikos  tarptautines   sutartis,
-
-traktuojamos  taip  pat  kaip ir prekės,  įvežtos  į  Lietuvos Respublikos
-
-muitų teritoriją.
-
-4.  Šio straipsnio 1 dalies 1 punkto
-
-nuostatos gali  būti netaikomos,  jeigu yra įstatymų ir kitų teisės aktų
-
-nustatytų turizmo,  pasienio susisiekimo, pašto siuntų  arba  mažaverčių
-
-siuntų   gabenimo   lengvatų  ir  jeigu  sudaromos   galimybės įgyvendinti
-
-būtinas muitinės priežiūros priemones.
-
-5.  Šio straipsnio 1 dalies nuostatos
-
-taip pat netaikomos prekėms, kurios laivais arba orlaiviais gabenamos per
-
-Lietuvos Respublikos teritorinius vandenis arba oro erdvę, jeigu prekių
-
-paskirties  jūrų,  upių  arba  oro  uostas  yra  ne   Lietuvos Respublikos
-
-muitų teritorijoje.
-
-40 straipsnis. Prekių įvežimas į Lietuvos Respublikos
-
-muitų teritoriją susidarius
+Lietuvos Respublikos muitų teritoriją susidarius
 
 ypatingoms aplinkybėms
 
-1.
+1. Kai dėl nenumatytų aplinkybių arba
 
-Kai dėl nenumatytų aplinkybių arba nenugalimos jėgos negali būti laikomasi šio
+nenugalimos jėgos negali būti laikomasi šio kodekso 39 straipsnio 1 dalies
 
-kodekso 39 straipsnio 1 dalies nuostatų, asmuo, atsakingas už prekių gabenimą,
+nuostatų, asmuo, atsakingas už prekių gabenimą, pats arba per kitą asmenį
 
-pats arba per kitą asmenį privalo nedelsdamas informuoti muitinę apie
+privalo nedelsdamas informuoti muitinę apie susidariusią situaciją. Jeigu dėl
 
-susidariusią situaciją. Jeigu dėl nenumatytų aplinkybių arba nenugalimos jėgos
+nenumatytų aplinkybių arba nenugalimos jėgos prekės nėra visiškai prarastos,
 
-prekės nėra visiškai prarastos, muitinei privalo būti pateikta informacija apie
+muitinei privalo būti pateikta informacija apie tikslią jų buvimo vietą.
 
-tikslią jų buvimo vietą.
+2. Kai dėl nenumatytų aplinkybių arba
 
-2.
+nenugalimos jėgos laivas arba orlaivis, nurodytas šio kodekso 39 straipsnio 5
 
-Kai dėl nenumatytų aplinkybių arba nenugalimos jėgos laivas arba orlaivis,
+dalyje, priverstas įplaukti į Lietuvos Respublikos muitų teritorijoje esantį
 
-nurodytas šio kodekso 39 straipsnio 5 dalyje, priverstas įplaukti į Lietuvos
+uostą arba nusileisti šioje teritorijoje ir negali būti laikomasi šio kodekso
 
-Respublikos muitų teritorijoje esantį uostą arba nusileisti šioje teritorijoje
+39 straipsnio 1 dalies nuostatų, asmuo, atsakingas už laivo arba orlaivio atvykimą
 
-ir negali būti laikomasi šio kodekso 39 straipsnio 1 dalies nuostatų, asmuo,
+į Lietuvos Respublikos muitų teritoriją, pats arba per kitą asmenį privalo
 
-atsakingas už laivo arba orlaivio atvykimą į Lietuvos Respublikos muitų
+nedelsdamas informuoti muitinę apie susidariusią situaciją.
 
-teritoriją, pats arba per kitą asmenį privalo nedelsdamas informuoti muitinę
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-apie susidariusią situaciją.
+2. Kai dėl nenumatytų aplinkybių arba
 
-3.
+nenugalimos jėgos laivas arba orlaivis, nurodytas šio kodekso 39 straipsnio 5
 
-Muitinė nustato priemones, kurių būtina imtis norint užtikrinti šio straipsnio
+dalyje, priverstas įplaukti į Lietuvos Respublikos muitų teritorijoje esantį
 
-1 dalyje nurodytų prekių arba šio straipsnio 2 dalyje nurodytų laivais ar
+uostą arba nusileisti šioje teritorijoje ir negali būti laikomasi šio kodekso
 
-orlaiviais gabenamų prekių muitinės priežiūrą. Muitinės nurodymu šios prekės
+39 straipsnio 1 dalies nuostatų, asmuo, įplukdęs laivą į Lietuvos Respublikos
 
-privalo būti nugabentos į muitinės įstaigą arba kitą muitinės nustatytą vietą.
+muitų teritoriją arba nutupdęs šioje teritorijoje orlaivį, pats arba per kitą
+
+asmenį privalo nedelsdamas informuoti muitinę apie susidariusią situaciją.]
+
+3. Muitinė nustato priemones, kurių būtina
+
+imtis norint užtikrinti šio straipsnio 1 dalyje nurodytų prekių arba šio
+
+straipsnio 2 dalyje nurodytų laivais ar orlaiviais gabenamų prekių muitinės
+
+priežiūrą. Muitinės nurodymu šios prekės privalo būti nugabentos į muitinės
+
+įstaigą arba kitą muitinės nustatytą vietą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 VIII SKYRIUS
 
 PREKIŲ PATEIKIMAS MUITINEI
 
-41 straipsnis. Prievolė pateikti muitinei į Lietuvos
+41 straipsnis. Prievolė pateikti
 
-Respublikos muitų teritoriją įvežtas
+muitinei į Lietuvos Respublikos muitų teritoriją įvežtas
 
 prekes
 
-Prekės,
+Prekės, kurios vadovaujantis šio kodekso
 
-kurios vadovaujantis šio kodekso 39 straipsnio 1 dalies 1 punkto nuostatomis
+39 straipsnio 1 dalies 1 punkto nuostatomis atgabenamos į muitinės įstaigą arba
 
-atgabenamos į muitinės įstaigą arba kitą muitinės nustatytą vietą, privalo būti
+kitą muitinės nustatytą vietą, privalo būti pateiktos muitinei. Prekes muitinei
 
-pateiktos muitinei. Prekes muitinei privalo pateikti asmuo, įvežęs jas į
+privalo pateikti asmuo, įvežęs jas į Lietuvos Respublikos muitų teritoriją.
 
-Lietuvos Respublikos muitų teritoriją.
+[41 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-42 straipsnis. Prekės, kurių neprivaloma pateikti
+42 straipsnis. Prekės, kurių
 
-muitinei
+neprivaloma pateikti muitinei
 
-Prekių,
+Prekių, įvežtų į Lietuvos Respublikos
 
-įvežtų į Lietuvos Respublikos muitų teritoriją, neprivaloma pateikti muitinei
+muitų teritoriją, neprivaloma pateikti muitinei tik įstatymų ir kitų teisės
 
-tik įstatymų ir kitų teisės aktų nustatytais atvejais.
+aktų nustatytais atvejais.
 
-43 straipsnis. Pateiktų muitinei prekių apžiūra
+43 straipsnis. Pateiktų muitinei
 
-Jei
+prekių apžiūra
 
-muitinė sutinka, pateiktos muitinei prekės gali būti apžiūrimos, taip pat imami
+Jei muitinė sutinka, pateiktos muitinei
 
-jų pavyzdžiai arba mėginiai, jei tai reikalinga įforminti muitinės
+prekės gali būti apžiūrimos, taip pat imami jų pavyzdžiai arba mėginiai, jei
 
-sankcionuotiems veiksmams, kuriuos leidžiama atlikti su šiomis prekėmis.
+tai reikalinga įforminti muitinės sankcionuotiems veiksmams, kuriuos leidžiama
 
-Apžiūrėti prekes, imti jų pavyzdžių arba mėginių leidžiama teisę disponuoti
+atlikti su šiomis prekėmis. Apžiūrėti prekes, imti jų pavyzdžių arba mėginių
 
-prekėmis turinčiam ir pateikusiam prašymą asmeniui arba jo atstovui.
+leidžiama teisę disponuoti prekėmis turinčiam ir pateikusiam prašymą asmeniui
 
-IX SKYRIUS
+arba jo atstovui.
 
-BENDROSIOS DEKLARACIJOS PATEIKIMAS, PATEIKTŲ MUITINEI
+[43 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-PREKIŲ
+44 straipsnis. Bendrosios deklaracijos
 
-IŠKROVIMAS IR LAIKINASIS SAUGOJIMAS
+pateikimas
 
-44 straipsnis. Bendrosios deklaracijos pateikimas
+1.Kartu su prekėmis, pateikiamomis
 
-1.Kartu
+muitinei vadovaujantis šio kodekso 41 straipsnio nuostatomis, turi būti
 
-su prekėmis, pateikiamomis muitinei vadovaujantis šio kodekso 41 straipsnio
+pateikta bendroji deklaracija, išskyrus šio kodekso 46 straipsnyje nustatytus
 
-nuostatomis, turi būti pateikta bendroji deklaracija, išskyrus šio kodekso 46
+atvejus.
 
-straipsnyje nustatytus atvejus.
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-2.
+1. Kartu su prekėmis, pateikiamomis
 
-Jei muitinė sutinka, bendroji deklaracija gali būti pateikta ne vėliau kaip per
+muitinei vadovaujantis šio kodekso 41 straipsnio nuostatomis, turi būti
 
-1 darbo dieną skaičiuojant nuo dienos, kada prekės pateiktos muitinei.
+pateikta bendroji deklaracija, kurioje šios prekės nurodytos, išskyrus šio
+
+kodekso 46 straipsnyje nustatytus atvejus.]
+
+2. Jei muitinė sutinka, bendroji
+
+deklaracija gali būti pateikta ne vėliau kaip per 1 darbo dieną skaičiuojant
+
+nuo dienos, kada prekės pateiktos muitinei.
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 45
 
@@ -2416,27 +2564,39 @@ straipsnis. Bendrosios
 
 deklaracijos forma ir asmenys, privalantys ją pateikti
 
-1.
+1. Bendroji deklaracija turi būti muitinės
 
-Bendroji deklaracija turi būti muitinės nustatyto pavyzdžio (formos). Muitinės
+nustatyto pavyzdžio (formos). Muitinės nustatyta tvarka vietoj bendrosios
 
-nustatyta tvarka vietoj bendrosios deklaracijos gali būti naudojami prekybos,
+deklaracijos gali būti naudojami prekybos, transporto ar kiti dokumentai,
 
-transporto ar kiti dokumentai, kuriuose pateikti duomenys, reikalingi prekėms
+kuriuose pateikti duomenys, reikalingi prekėms identifikuoti.
 
-identifikuoti.
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-2.
+1. Bendroji deklaracija turi būti
 
-Bendrąją deklaraciją privalo pateikti:
+muitinės nustatyto pavyzdžio (formos). Muitinės nustatyta tvarka kaip bendroji
 
-1)
+deklaracija gali būti naudojami muitinės, prekybos, transporto ar kiti
 
-asmuo, įvežęs prekes į Lietuvos Respublikos muitų teritoriją;
+dokumentai, kuriuose pateikti duomenys, reikalingi prekėms identifikuoti.]
 
-2)
+2. Bendrąją deklaraciją privalo pateikti:
 
-asmuo, kurio įgaliotas veikė šios straipsnio dalies 1 punkte nurodytas asmuo.
+1) asmuo, įvežęs prekes į Lietuvos
+
+Respublikos muitų teritoriją;
+
+2) asmuo, kurio įgaliotas veikė šios
+
+straipsnio dalies 1 punkte nurodytas asmuo.
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 46
 
@@ -2444,17 +2604,17 @@ straipsnis. Atvejai, kada
 
 muitinė gali nereikalauti pateikti bendrąją deklaraciją
 
-Atsižvelgdama
+Atsižvelgdama į įstatymų ir kitų teisės
 
-į įstatymų ir kitų teisės aktų nuostatas, reglamentuojančias keleivių gabenamų
+aktų nuostatas, reglamentuojančias keleivių gabenamų daiktų ir pašto siuntų
 
-daiktų ir pašto siuntų įvežimą, muitinė gali nereikalauti pateikti bendrąją
+įvežimą, muitinė gali nereikalauti pateikti bendrąją deklaraciją, jeigu tai
 
-deklaraciją, jeigu tai netrukdo taikyti muitinės priežiūros priemones ir jeigu
+netrukdo taikyti muitinės priežiūros priemones ir jeigu nesibaigus šio kodekso
 
-nesibaigus šio kodekso 44 straipsnio 2 dalyje nurodytam laikotarpiui prekės
+44 straipsnio 2 dalyje nurodytam laikotarpiui prekės pateikiamos muitinės
 
-pateikiamos muitinės sankcionuotiems veiksmams įforminti.
+sankcionuotiems veiksmams įforminti.
 
 47
 
@@ -2462,187 +2622,247 @@ straipsnis. Prekių
 
 iškrovimas
 
-1.
+1. Prekės gali būti iškrautos iš jas
 
-Prekės gali būti iškrautos iš jas gabenančių transporto priemonių, įskaitant jų
+gabenančių transporto priemonių, įskaitant jų perkrovimą į kitas transporto
 
-perkrovimą į kitas transporto priemones, tik su muitinės sutikimu ir tik
+priemones, tik su muitinės sutikimu ir tik muitinės nustatytose vietose.
 
-muitinės nustatytose vietose. Muitinės sutikimas nebūtinas, jeigu visos prekės
+Muitinės sutikimas nebūtinas, jeigu visos prekės arba jų dalis turi būti
 
-arba jų dalis turi būti nedelsiant iškrauta dėl prekėms kilusio pavojaus. Tokiu
+nedelsiant iškrauta dėl prekėms kilusio pavojaus. Tokiu atveju apie prekių
 
-atveju apie prekių iškrovimą būtina nedelsiant informuoti muitinę.
+iškrovimą būtina nedelsiant informuoti muitinę.
 
-2.
+2. Tikrindama prekes ir jas gabenančias
 
-Tikrindama prekes ir jas gabenančias transporto priemones, muitinė turi teisę
+transporto priemones, muitinė turi teisę bet kuriuo metu pareikalauti iškrauti
 
-bet kuriuo metu pareikalauti iškrauti ir išpakuoti prekes. Prekės iškraunamos
+ir išpakuoti prekes. Prekės iškraunamos ir išpakuojamos joms iškrauti,
 
-ir išpakuojamos joms iškrauti, išpakuoti ir patikrinti tinkamose muitinės
+išpakuoti ir patikrinti tinkamose muitinės nustatytose vietose.
 
-nustatytose vietose.
+[47 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-48
+49 straipsnis. Muitinės sankcionuotų
 
-straipsnis. Draudimas
+veiksmų įforminimas
 
-išgabenti prekes
+Jeigu muitinei pateiktos ne
 
-Be
+Lietuvos prekės, turi būti įforminti muitinės sankcionuoti veiksmai, kuriuos
 
-muitinės leidimo muitinei pateiktos prekės negali būti išgabentos iš jų buvimo
+galima atlikti su šiomis prekėmis.
 
-vietos.
+50 straipsnis. Muitinės sankcionuotų
 
-49 straipsnis. Muitinės sankcionuotų veiksmų
+veiksmų įforminimo terminai
 
-įforminimas
+1. Jeigu pateikta bendroji
 
-Jeigu muitinei pateiktos ne Lietuvos
+deklaracija, muitinės sankcionuoti veiksmai, kuriuos leidžiama atlikti su
 
-prekės, turi būti įforminti muitinės sankcionuoti veiksmai, kuriuos galima
+prekėmis, turi būti įforminti:
 
-atlikti su šiomis prekėmis.
+1) per 45 dienas nuo bendrosios
 
-50 straipsnis. Muitinės sankcionuotų veiksmų
+deklaracijos pateikimo, jeigu prekės atgabentos jūra;
 
-įforminimo terminai
+2) per 20 dienų nuo bendrosios
 
-1. Jeigu pateikta bendroji deklaracija,
+deklaracijos pateikimo, jeigu prekės atgabentos ne jūra.
 
-muitinės sankcionuoti veiksmai, kuriuos leidžiama atlikti su prekėmis, turi
+2. Atsižvelgdama į prekių gabenimo
 
-būti įforminti:
+aplinkybes, muitinė turi teisę sutrumpinti arba pratęsti šio straipsnio 1
 
-1)
+dalyje nustatytus terminus. Nurodyti terminai gali būti pratęsti iki 90 dienų
 
-per 45 dienas nuo bendrosios deklaracijos pateikimo, jeigu prekės atgabentos jūra;
+nuo bendrosios deklaracijos pateikimo, bet ne daugiau, negu būtina
 
-2)
+atsižvelgiant į susidariusias aplinkybes.
 
-per 20 dienų nuo bendrosios deklaracijos pateikimo, jeigu prekės atgabentos ne
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-jūra.
+2. Atsižvelgdama į prekių gabenimo
 
-2.
+aplinkybes, muitinė turi teisę sutrumpinti arba pratęsti šio straipsnio 1
 
-Atsižvelgdama į prekių gabenimo aplinkybes, muitinė turi teisę sutrumpinti arba
+dalyje nustatytus terminus. Nurodyti terminai gali būti pratęsti iki 180 dienų
 
-pratęsti šio straipsnio 1 dalyje nustatytus terminus. Nurodyti terminai gali būti
+nuo bendrosios deklaracijos pateikimo, bet ne daugiau, negu būtina,
 
-pratęsti iki 90 dienų nuo bendrosios deklaracijos pateikimo, bet ne daugiau,
+atsižvelgiant į susidariusias aplinkybes.]
 
-negu būtina atsižvelgiant į susidariusias aplinkybes.
+Straipsnio pakeitimai:
 
-51 straipsnis. Laikinai saugomos prekės
+Nr. IX-624,
 
-Kol nėra įforminti muitinės sankcionuoti
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-veiksmai su muitinei pateiktomis prekėmis, jos laikomos laikinai saugomomis
+51 straipsnis. Laikinai saugomos
 
-prekėmis.
+prekės
 
-52 straipsnis. Laikinai saugomų prekių laikymas
+Kol nėra įforminti muitinės
+
+sankcionuoti veiksmai su muitinei pateiktomis prekėmis, jos laikomos laikinai
+
+saugomomis prekėmis.
+
+52 straipsnis. Laikinai saugomų
+
+prekių laikymas
+
+1. Laikinai saugomos prekės
+
+gali būti laikomos tiktai muitinės nustatytose vietose, laikantis muitinės
+
+nustatytų sąlygų.
+
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
 
 1. Laikinai saugomos prekės gali būti
 
-laikomos tiktai muitinės nustatytose vietose, laikantis muitinės nustatytų
+laikomos tiktai muitinės nustatytose arba muitinei priimtinose vietose,
 
-sąlygų.
+laikantis muitinės nustatytų sąlygų.
 
-2.
+2. Muitinė turi teisę reikalauti, kad
 
-Muitinė turi teisę reikalauti, kad asmuo, laikantis laikinai saugomas prekes,
+asmuo, laikantis laikinai saugomas prekes, pateiktų garantiją, reikalingą
 
-pateiktų garantiją, reikalingą užtikrinti remiantis šio kodekso 187 arba 188
+užtikrinti remiantis šio kodekso 187 arba 188 straipsnių nuostatomis galinčios
 
-straipsnių nuostatomis galinčios atsirasti skolos muitinei atlyginimą.
+atsirasti skolos muitinei atlyginimą.
 
-53 straipsnis. Veiksmai, kuriuos galima atlikti su
+[Straipsnis papildomas 3 dalimi nuo 2002 m. birželio 1
 
-laikinai saugomomis prekėmis
+d.:
 
-Atsižvelgiant į šio kodekso 43 straipsnio
+3. Importo ir eksporto terminalai
 
-nuostatas, su laikinai saugomomis prekėmis galima atlikti tiktai tokius
+(laikinojo prekių saugojimo sandėliai), kuriuose Lietuvos Respublikos ir
 
-veiksmus, kurie reikalingi jų nepakitusiai būklei išsaugoti ir nepakeičia
+užsienio asmenims teikiamos laikinojo saugojimo ir su tuo susijusios paslaugos,
 
-prekių išvaizdos bei techninių charakteristikų.
+steigiami šio kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka.]
 
-54
+Straipsnio pakeitimai:
 
-straipsnis. Priemonės,
+Nr. IX-624,
 
-taikomos per nustatytą laiką neįforminus
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-muitinės sankcionuotų veiksmų su
+53 straipsnis. Veiksmai, kuriuos
 
-laikinai saugomomis prekėmis
+galima atlikti su laikinai saugomomis prekėmis
 
-1.
+Atsižvelgiant į šio kodekso
 
-Muitinė imasi visų būtinų priemonių, įskaitant prekių sulaikymą, konfiskavimą
+43 straipsnio nuostatas, su laikinai saugomomis prekėmis galima atlikti tiktai
 
-ir realizavimą, jeigu per šio kodekso 50 straipsnyje nustatytą laiką nebuvo
+tokius veiksmus, kurie reikalingi jų nepakitusiai būklei išsaugoti ir
 
-įforminti muitinės sankcionuoti veiksmai su laikinai saugomomis prekėmis.
+nepakeičia prekių išvaizdos bei techninių charakteristikų.
 
-2.
+55 straipsnis. Laikinai saugomų
 
-Muitinė turi teisę nugabenti šio straipsnio 1 dalyje nurodytas laikinai
+prekių sunaikinimas
 
-saugomas prekes į muitinės prižiūrimą vietą ir laikyti joje, kol bus įforminti
+Šio kodekso taikymą reglamentuojančių
 
-muitinės sankcionuoti veiksmai su šiomis prekėmis arba kol jos bus
+teisės aktų nustatytais atvejais, kai dėl šio kodekso 57 straipsnio 2 dalyje
 
-konfiskuotos. Prekės gabenamos ir saugomos jomis disponuojančio asmens
+nurodytų priežasčių su muitinei pateiktomis prekėmis negali būti atliekami
 
-sąskaita.
+muitinės sankcionuoti veiksmai, muitinė turi teisę šias prekes sunaikinti. Apie
 
-55 straipsnis. Laikinai saugomų prekių sunaikinimas
-
-Šio kodekso taikymą reglamentuojančių teisės aktų
-
-nustatytais atvejais, kai dėl šio kodekso 57 straipsnio 2 dalyje nurodytų
-
-priežasčių su muitinei pateiktomis prekėmis negali būti atliekami muitinės
-
-sankcionuoti veiksmai, muitinė turi teisę šias prekes sunaikinti. Apie tokį
-
-prekių sunaikinimą informuojamas jomis disponuojantis asmuo, kuris privalo
+tokį prekių sunaikinimą informuojamas jomis disponuojantis asmuo, kuris privalo
 
 apmokėti prekių sunaikinimo išlaidas.
 
-56 straipsnis. Neteisėtai įvežtos arba norint išvengti
+56 straipsnis. Neteisėtai įvežtos
 
-muitinės priežiūros nuslėptos prekės
+arba norint išvengti muitinės priežiūros nuslėptos prekės
 
-1.
+1. Nustačiusi, kad prekės buvo neteisėtai
 
-Nustačiusi, kad prekės buvo neteisėtai įvežtos į Lietuvos Respublikos muitų
+įvežtos į Lietuvos Respublikos muitų teritoriją arba nuslėptos norint išvengti
 
-teritoriją arba nuslėptos norint išvengti muitinės priežiūros, muitinė imasi
+muitinės priežiūros, muitinė imasi visų įstatymų nustatytų priemonių, įskaitant
 
-visų įstatymų nustatytų priemonių, įskaitant prekių sulaikymą, konfiskavimą ir
+prekių sulaikymą, konfiskavimą ir realizavimą, kad būtų sureguliuota su tomis
 
-realizavimą, kad būtų sureguliuota su tomis prekėmis susijusi situacija.
+prekėmis susijusi situacija.
 
-2.
+2. Prekės, neteisėtai įvežtos į Lietuvos
 
-Prekės, neteisėtai įvežtos į Lietuvos Respublikos muitų teritoriją arba
+Respublikos muitų teritoriją arba nuslėptos norint išvengti muitinės priežiūros
 
-nuslėptos norint išvengti muitinės priežiūros ir neturinčios savininko arba
+ir neturinčios savininko arba kurių savininkas muitinio tikrinimo metu
 
-kurių savininkas muitinio tikrinimo metu nežinomas, teismo sprendimu pereina
+nežinomas, teismo sprendimu pereina valstybės nuosavybėn pagal muitinės
 
-valstybės nuosavybėn pagal muitinės pareiškimą. Pareiškimas paduodamas suėjus 2
+pareiškimą. Pareiškimas paduodamas suėjus 2 mėnesiams nuo tos dienos, kai
 
-mėnesiams nuo tos dienos, kai nurodytos prekės buvo paimtos į muitinės
+nurodytos prekės buvo paimtos į muitinės apskaitą.
 
-apskaitą.
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+2. Prekės, neteisėtai įvežtos į Lietuvos
+
+Respublikos muitų teritoriją arba nuslėptos norint išvengti muitinės priežiūros
+
+ir neturinčios savininko arba kurių savininkas muitinio tikrinimo metu
+
+nežinomas, teismo sprendimu pereina valstybės nuosavybėn pagal muitinės pareiškimą.
+
+Pareiškimas paduodamas ne anksčiau kaip suėjus 2 mėnesiams nuo tos dienos, kai
+
+nurodytos prekės buvo paimtos į muitinės apskaitą. Pareiškimas dėl greitai
+
+gendančių prekių, kurių sąrašas sudaromas šio kodekso taikymą reglamentuojančių
+
+teisės aktų nustatyta tvarka, paduodamas ne anksčiau kaip kitą darbo dieną po
+
+tos dienos, kai šios prekės buvo paimtos į muitinės apskaitą.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+[Kodeksas papildomas 56(1) straipsniu nuo
+
+2002 m. birželio 1 d.:
+
+56(1) straipsnis. Prekių
+
+realizavimas, kai panaikinus sprendimą dėl jų sulaikymo arba
+
+konfiskavimo prekės neatsiimamos
+
+Jeigu įstatymų nustatyta tvarka
+
+panaikinus sprendimą dėl prekių sulaikymo arba konfiskavimo jų savininkas per
+
+30 darbo dienų nuo jo informavimo apie atitinkamą muitinės sprendimą ar
+
+atitinkamo teismo sprendimo įsiteisėjimo dienos prekių neatsiima, prekės
+
+realizuojamos įstatymų ir kitų teisės aktų nustatyta tvarka. Už realizuotas
+
+prekes gautos lėšos, atskaičius saugojimo ir realizavimo išlaidas, grąžinamos
+
+prekių savininkui.]
+
+Kodeksas papildytas straipsniu:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 V DALIS
 
@@ -2652,687 +2872,737 @@ X SKYRIUS
 
 BENDROSIOS NUOSTATOS
 
-57
+58 straipsnis. Prekių deklaravimas
 
-straipsnis. Teisė atlikti
+pateikiant jas muitinės procedūrai įforminti
 
-muitinės sankcionuotus veiksmus ir jos apribojimai
+1. Visos prekės,
 
-1.
+pateikiamos kuriai nors muitinės procedūrai įforminti, turi būti deklaruojamos
 
-Su prekėmis, neatsižvelgiant į jų pobūdį ar kiekį, kilmės šalį, išsiuntimo ar
+konkrečiai nurodytai muitinės procedūrai.
 
-paskirties vietą, bet kuriuo metu, laikantis nustatytų sąlygų, gali būti
+2. Lietuvos prekės,
 
-atliekami bet kokie muitinės sankcionuoti veiksmai, jeigu šis kodeksas ar kiti
+deklaruotos negrąžinamojo eksporto, laikinojo išvežimo, laikinojo išvežimo
 
-įstatymai nenustato ko kita.
+perdirbti ar muitinio tranzito procedūroms, yra muitinės prižiūrimos nuo
 
-2.
-
-Šio straipsnio 1 dalies nuostatų taikymą gali riboti įstatymų ir kitų teisės
-
-aktų nustatyti draudimai ar apribojimai, pagrįsti valstybės suvereniteto,
-
-valstybės saugumo, viešosios tvarkos, visuomenės moralės, žmonių gyvybės ir
-
-sveikatos, gyvūnų, augalų ar aplinkos apsaugos, kultūros paveldo vertybių,
-
-privačios ar valstybinės nuosavybės apsaugos reikalavimais.
-
-XI SKYRIUS
-
-MUITINĖS PROCEDŪROS
-
-Pirmasis skirsnis
-
-PREKIŲ PATEIKIMAS MUITINĖS PROCEDŪRAI ĮFORMINTI
-
-58 straipsnis. Prekių deklaravimas pateikiant jas
-
-muitinės procedūrai įforminti
-
-1. Visos prekės, pateikiamos kuriai nors
-
-muitinės procedūrai įforminti, turi būti deklaruojamos konkrečiai nurodytai
-
-muitinės procedūrai.
-
-2. Lietuvos prekės, deklaruotos
-
-negrąžinamojo eksporto, laikinojo išvežimo, laikinojo išvežimo perdirbti ar
-
-muitinio tranzito procedūroms, yra muitinės prižiūrimos nuo muitinės
-
-deklaracijos priėmimo momento iki tol, kol jos išgabenamos iš Lietuvos
+muitinės deklaracijos priėmimo momento iki tol, kol jos išgabenamos iš Lietuvos
 
 Respublikos muitų teritorijos arba sunaikinamos, arba kol muitinės deklaracija
 
 pripažįstama negaliojančia.
 
-59 straipsnis. Muitinės įstaigų kompetencija
+59 straipsnis. Muitinės įstaigų
 
-Muitinės įstaigų kompetenciją pagal prekių ir
+kompetencija
 
-transporto priemonių rūšis, muitinės procedūras, deklarantų ar muitinės
+Muitinės įstaigų kompetenciją pagal
 
-procedūros vykdytojų buveinių adresus nustato Muitinės departamentas.
+prekių ir transporto priemonių rūšis, muitinės procedūras, deklarantų ar
 
-60 straipsnis. Muitinės deklaracijos pateikimo formos
+muitinės procedūros vykdytojų buveinių adresus nustato Muitinės departamentas.
 
-Muitinės deklaracija gali būti pateikiama:
+60 straipsnis. Muitinės deklaracijos
 
-1)
+pateikimo formos
 
-raštu;
+Muitinės deklaracija gali
 
-2)
+būti pateikiama:
 
-žodžiu arba veiksmu, kuriuo asmuo, turintis disponavimo prekėmis teisę,
+1) raštu;
 
-pareiškia savo norą pateikti jas muitinės procedūrai įforminti, jeigu toks
+2) žodžiu arba veiksmu, kuriuo asmuo,
 
-muitinės deklaracijos pateikimo būdas gali būti naudojamas vadovaujantis šio
+turintis disponavimo prekėmis teisę, pareiškia savo norą pateikti jas muitinės
 
-kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka;
+procedūrai įforminti, jeigu toks muitinės deklaracijos pateikimo būdas gali
 
-3)
+būti naudojamas vadovaujantis šio kodekso taikymą reglamentuojančių teisės aktų
 
-naudojantis automatinio duomenų apdorojimo techninėmis priemonėmis, jeigu toks
+nustatyta tvarka;
 
-muitinės deklaracijos pateikimo būdas gali būti naudojamas vadovaujantis šio
+3) naudojantis automatinio duomenų
 
-kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka ir šis būtas
+apdorojimo techninėmis priemonėmis, jeigu toks muitinės deklaracijos pateikimo
 
-muitinei yra priimtinas.
+būdas gali būti naudojamas vadovaujantis šio kodekso taikymą reglamentuojančių
+
+teisės aktų nustatyta tvarka ir šis būtas muitinei yra priimtinas.
 
 Antrasis skirsnis
 
 MUITINĖS DEKLARACIJŲ PATEIKIMAS
 
-61 straipsnis. Įprastinė (nesupaprastinta) muitinės
+61 straipsnis. Įprastinė
 
-deklaracijų pateikimo raštu
+(nesupaprastinta) muitinės deklaracijų pateikimo raštu
 
 procedūra
 
-1.
+1. Raštu pateikiamos muitinės deklaracijos
 
-Raštu pateikiamos muitinės deklaracijos turi būti muitinės nustatyto pavyzdžio
+turi būti muitinės nustatyto pavyzdžio (formos). Muitinės deklaracijose būtina
 
-(formos). Muitinės deklaracijose būtina nurodyti muitinės procedūrą, kuriai
+nurodyti muitinės procedūrą, kuriai deklaruojamos prekės, ir pateikti šiai
 
-deklaruojamos prekės, ir pateikti šiai muitinės procedūrai įforminti ir atlikti
+muitinės procedūrai įforminti ir atlikti reikalingą informaciją. Muitinės
 
-reikalingą informaciją. Muitinės deklaracijos turi būti pasirašytos ir
+deklaracijos turi būti pasirašytos ir nustatytais atvejais patvirtintos
 
-nustatytais atvejais patvirtintos deklaranto antspaudu arba suderinto su
+deklaranto antspaudu arba suderinto su muitine pavyzdžio spaudu. Muitinės
 
-muitine pavyzdžio spaudu. Muitinės deklaracijos pildomos ir įforminamos šio kodekso
+deklaracijos pildomos ir įforminamos šio kodekso taikymą reglamentuojančių
 
-taikymą reglamentuojančių teisės aktų nustatyta tvarka.
+teisės aktų nustatyta tvarka.
 
-2.
+2. Kartu su muitinės deklaracijomis turi
 
-Kartu su muitinės deklaracijomis turi būti pateikti visi dokumentai, reikalingi
+būti pateikti visi dokumentai, reikalingi įforminti ir atlikti muitinės procedūrai,
 
-įforminti ir atlikti muitinės procedūrai, kuriai deklaruojamos prekės.
+kuriai deklaruojamos prekės.
 
-62 straipsnis. Muitinės deklaracijų priėmimas
+62 straipsnis. Muitinės deklaracijų
 
-muitiniam tikrinimui
+priėmimas muitiniam tikrinimui
 
-Muitinės deklaracijos priimamos muitiniam
+Muitinės deklaracijos
 
-tikrinimui, jeigu jos atitinka šio kodekso 61 straipsnyje nustatytus
+priimamos muitiniam tikrinimui, jeigu jos atitinka šio kodekso
 
-reikalavimus ir jeigu jose nurodytos prekės pateiktos muitinei.
+61 straipsnyje nustatytus reikalavimus ir jeigu jose nurodytos prekės pateiktos
 
-63 straipsnis. Teisė pateikti muitinės deklaraciją
+muitinei.
 
-1. Atsižvelgiant į šio kodekso 3
+63 straipsnis. Teisė pateikti
 
-straipsnio reikalavimus, muitinės deklaraciją turi teisę pateikti bet kuris šio
+muitinės deklaraciją
 
-straipsnio 2 dalyje nurodytus reikalavimus atitinkantis asmuo, galintis
+1. Atsižvelgiant į šio
+
+kodekso 3 straipsnio reikalavimus, muitinės deklaraciją turi teisę pateikti bet
+
+kuris šio straipsnio 2 dalyje nurodytus reikalavimus atitinkantis asmuo, galintis
 
 pateikti arba pateikęs muitinės įstaigai prekes ir dokumentus, reikalingus
 
 įforminti ir atlikti muitinės procedūrai, kuriai deklaruojamos prekės.
 
+2. Deklarantas turi būti
+
+Lietuvos Respublikos ūkio subjekto statusą turintis asmuo, išskyrus šio straipsnio
+
+4 dalyje nurodytus atvejus.
+
+[2 dalies redakcija nuo 2003 m. sausio 1 d.:
+
 2. Deklarantas turi būti Lietuvos
 
-Respublikos ūkio subjekto statusą turintis asmuo, išskyrus šio straipsnio 4
+Respublikos ūkio subjekto statusą turintis asmuo, įtrauktas į importuotojų ir
 
-dalyje nurodytus atvejus.
+eksportuotojų registrą, kurį vadovaudamasis šio kodekso taikymą
 
-3. Jeigu muitinės deklaracijos priėmimas
+reglamentuojančiais teisės aktais tvarko Muitinės departamentas, išskyrus šio
 
-suteikia asmeniui tam tikrų įpareigojimų, asmuo muitinės deklaraciją turi
+straipsnio 4 dalyje nurodytus atvejus.]
 
-pateikti pats arba ji turi būti pateikta jo vardu.
+3. Jeigu muitinės
 
-4. Šio straipsnio 2 dalis netaikoma
+deklaracijos priėmimas suteikia asmeniui tam tikrų įpareigojimų, asmuo muitinės
 
-asmenims, deklaruojantiems prekes muitinio tranzito procedūrai, taip pat šio
+deklaraciją turi pateikti pats arba ji turi būti pateikta jo vardu.
 
-kodekso taikymą reglamentuojančių teisės aktų nustatytais atvejais
+4. Šio straipsnio 2 dalis
+
+netaikoma asmenims, deklaruojantiems prekes muitinio tranzito procedūrai, taip
+
+pat šio kodekso taikymą reglamentuojančių teisės aktų nustatytais atvejais
 
 deklaruojantiems prekes laikinojo įvežimo procedūrai bei asmenims (keleiviams
 
 ir pan.), ne nuolat deklaruojantiems prekes.
 
-64 straipsnis. Muitinės deklaracijos taisymas
+Straipsnio pakeitimai:
 
-1. Jeigu deklarantas pateikia atitinkamą prašymą,
+Nr. IX-624,
 
-muitinė gali suteikti jam teisę pataisyti muitiniam tikrinimui priimtą muitinės
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-deklaraciją. Pataisos muitinės deklaracijoje negali pakeisti joje pateiktos
+64 straipsnis. Muitinės deklaracijos
 
-informacijos tiek, kad muitinės deklaracija galėtų būti taikoma tokios rūšies
+taisymas
 
-prekėms, kurios joje nebuvo nurodytos.
+1. Jeigu deklarantas pateikia
 
-2.
+atitinkamą prašymą, muitinė gali suteikti jam teisę pataisyti muitiniam
 
-Muitinės deklaracijos iki jos įforminimo negalima taisyti, jeigu deklarantas
+tikrinimui priimtą muitinės deklaraciją. Pataisos muitinės deklaracijoje negali
 
-pateikė prašymą ją taisyti po to, kai muitinė:
+pakeisti joje pateiktos informacijos tiek, kad muitinės deklaracija galėtų būti
 
-1)
+taikoma tokios rūšies prekėms, kurios joje nebuvo nurodytos.
 
-informavo deklarantą, kad bus atliekama prekių apžiūra;
+2. Muitinės deklaracijos iki jos
 
-2)
+įforminimo negalima taisyti, jeigu deklarantas pateikė prašymą ją taisyti po
 
-nustatė, kad tam tikri muitinės deklaracijoje pateikti duomenys yra neteisingi;
+to, kai muitinė:
 
-3)
+1) informavo deklarantą, kad bus atliekama
 
-išleido prekes.
+prekių apžiūra;
 
-65 straipsnis. Muitinės deklaracijos pripažinimas
+2) nustatė, kad tam tikri muitinės
 
-negaliojančia
+deklaracijoje pateikti duomenys yra neteisingi;
 
-1. Deklaranto prašymu muitinė pripažįsta
+3) išleido prekes.
 
-negaliojančia muitiniam tikrinimui priimtą muitinės deklaraciją, jeigu deklarantas
+65 straipsnis. Muitinės deklaracijos
 
-pateikia įrodymų, kad prekės buvo deklaruotos muitinės deklaracijoje nurodytai
+pripažinimas negaliojančia
 
-muitinės procedūrai per klaidą arba kad dėl tam tikrų aplinkybių atlikti
+1. Deklaranto prašymu
 
-muitinės procedūrą, kuriai prekės buvo deklaruotos, nėra tikslinga. Jeigu
+muitinė pripažįsta negaliojančia muitiniam tikrinimui priimtą muitinės
 
-deklarantas pateikia prašymą pripažinti negaliojančia muitiniam tikrinimui
+deklaraciją, jeigu deklarantas pateikia įrodymų, kad prekės buvo deklaruotos
 
-priimtą muitinės deklaraciją po to, kai muitinė pareiškė norą apžiūrėti prekes,
+muitinės deklaracijoje nurodytai muitinės procedūrai per klaidą arba kad dėl
 
-prašymas gali būti patenkintas tiktai atlikus prekių apžiūrą.
+tam tikrų aplinkybių atlikti muitinės procedūrą, kuriai prekės buvo
 
-2.Muitinės deklaracija negali būti
+deklaruotos, nėra tikslinga. Jeigu deklarantas pateikia prašymą pripažinti
 
-pripažinta negaliojančia, jeigu prekės yra išleistos, išskyrus šio kodekso
+negaliojančia muitiniam tikrinimui priimtą muitinės deklaraciją po to, kai
 
-taikymą reglamentuojančių teisės aktų nustatytus atvejus.
+muitinė pareiškė norą apžiūrėti prekes, prašymas gali būti patenkintas tiktai
 
-3. Muitinės deklaracijos pripažinimas
+atlikus prekių apžiūrą.
 
-negaliojančia neatima muitinės teisės taikyti deklarantui sankcijas už
+2.Muitinės deklaracija
 
-padarytus pažeidimus.
+negali būti pripažinta negaliojančia, jeigu prekės yra išleistos, išskyrus šio
 
-66 straipsnis. Muitinės deklaracijos priėmimo
+kodekso taikymą reglamentuojančių teisės aktų nustatytus atvejus.
 
-muitiniam tikrinimui datos taikymas
+3. Muitinės deklaracijos
 
-Muitinės deklaracijos priėmimo muitiniam tikrinimui
+pripažinimas negaliojančia neatima muitinės teisės taikyti deklarantui
 
-data remiamasi nustatant muitinės procedūros, kuriai deklaruotos prekės,
+sankcijas už padarytus pažeidimus.
 
-atlikimo terminus ir taikant kitas jos vykdymo tvarką reglamentuojančias
+66 straipsnis. Muitinės deklaracijos
 
-įstatymų ir kitų teisės aktų nuostatas, jeigu šis kodeksas ar jo taikymą
+priėmimo muitiniam tikrinimui datos taikymas
 
-reglamentuojantys teisės aktai nenustato ko kita.
+Muitinės deklaracijos priėmimo
 
-67 straipsnis. Muitinės deklaracijos tikrinimas
+muitiniam tikrinimui data remiamasi nustatant muitinės procedūros, kuriai
 
-Muitinė, tikrindama muitiniam tikrinimui priimtą
+deklaruotos prekės, atlikimo terminus ir taikant kitas jos vykdymo tvarką
 
-muitinės deklaraciją, turi teisę:
+reglamentuojančias įstatymų ir kitų teisės aktų nuostatas, jeigu šis kodeksas
 
-1) patikrinti muitinės deklaraciją sudarančius ir
+ar jo taikymą reglamentuojantys teisės aktai nenustato ko kita.
 
-kartu su ja pateikus dokumentus, reikalauti iš deklaranto pateikti kitus
+[66 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-dokumentus, būtinus muitinės deklaracijoje pateiktos informacijos teisingumui
+67 straipsnis. Muitinės deklaracijos
 
-patikrinti;
+tikrinimas
 
-2) patikrinti prekes, paimti jų pavyzdžių ar mėginių
+Muitinė, tikrindama muitiniam
 
-analizei arba detaliam patikrinimui.
+tikrinimui priimtą muitinės deklaraciją, turi teisę:
+
+1) patikrinti muitinės deklaraciją
+
+sudarančius ir kartu su ja pateikus dokumentus, reikalauti iš deklaranto
+
+pateikti kitus dokumentus, būtinus muitinės deklaracijoje pateiktos
+
+informacijos teisingumui patikrinti;
+
+2) patikrinti prekes, paimti jų
+
+pavyzdžių ar mėginių analizei arba detaliam patikrinimui.
 
 68 straipsnis. Prekių tikrinimas
 
-1. Deklarantas atsako už prekių nugabenimą į vietas,
+1. Deklarantas atsako už prekių
 
-kuriose jos turi būti patikrinamos ir paimama jų pavyzdžių arba mėginių, taip
+nugabenimą į vietas, kuriose jos turi būti patikrinamos ir paimama jų pavyzdžių
 
-pat už jų iškrovimą ir kitus patarnavimus, reikalingus prekėms patikrinti ir jų
+arba mėginių, taip pat už jų iškrovimą ir kitus patarnavimus, reikalingus
 
-pavyzdžiams arba mėginiams paimti. Visas su tuo susijusias išlaidas padengia
+prekėms patikrinti ir jų pavyzdžiams arba mėginiams paimti. Visas su tuo
 
-deklarantas.
+susijusias išlaidas padengia deklarantas.
 
-2.
+2. Deklarantas turi teisę dalyvauti arba
 
-Deklarantas turi teisę dalyvauti arba būti atstovaujamas tikrinant prekes ir
+būti atstovaujamas tikrinant prekes ir imant jų pavyzdžius arba mėginius.
 
-imant jų pavyzdžius arba mėginius. Muitinė prireikus turi teisę reikalauti, kad
+Muitinė prireikus turi teisę reikalauti, kad deklarantas arba jo atstovas
 
-deklarantas arba jo atstovas dalyvautų tikrinant prekes, imant jų pavyzdžius
+dalyvautų tikrinant prekes, imant jų pavyzdžius arba mėginius ir suteiktų tokio
 
-arba mėginius ir suteiktų tokio tikrinimo, pavyzdžių arba mėginių ėmimo metu
+tikrinimo, pavyzdžių arba mėginių ėmimo metu būtiną pagalbą.
 
-būtiną pagalbą.
+3. Prekių pavyzdžių arba mėginių ėmimo,
 
-3.
+tyrimo ir tyrimo išlaidų padengimo tvarką nustato Muitinės departamentas.
 
-Prekių pavyzdžių arba mėginių ėmimo, tyrimo ir tyrimo išlaidų padengimo tvarką
+Deklarantui už paimtus prekių pavyzdžius arba mėginius nemokama ir kitaip
 
-nustato Muitinės departamentas. Deklarantui už paimtus prekių pavyzdžius arba
+nekompensuojama.
 
-mėginius nemokama ir kitaip nekompensuojama.
+[Straipsnis papildomas 4 dalimi nuo 2002 m. birželio 1
 
-69 straipsnis. Prekių tikrinimo rezultatų taikymas
+d.:
 
-1. Jei patikrinama tiktai dalis muitinės
+4. Prekių tikrinimas, pavyzdžių arba
 
-deklaracijoje nurodytų prekių, patikrinimo rezultatai taikomi visoms toje
+mėginių paėmimas atliekamas šio kodekso 47 straipsnio ir jo taikymą
 
-muitinės deklaracijoje nurodytoms prekėms. Deklarantas turi teisę reikalauti,
+reglamentuojančių teisės aktų nustatyta tvarka, apsiribojant priemonėmis,
 
-kad prekių tikrinimas būtų tęsiamas, jeigu jis mano, kad dalies prekių
+būtinomis muitinės kompetencijai priskirtų teisės aktų įgyvendinimui
 
-patikrinimo rezultatai negali būti taikomi likusiai muitinės deklaracijoje
+užtikrinti. Tikrintinas prekes bei jų tikrinimo detalumą muitinė pasirenka
 
-nurodytų prekių daliai.
+įvertinusi atitinkamo prekių gabenimo keliamą teisės aktų pažeidimo riziką.]
 
-2. Taikant šio straipsnio 1 dalį, kai
+Straipsnio pakeitimai:
 
-muitinės deklaracijoje nurodytos dviejų arba daugiau pavadinimų prekės,
+Nr. IX-624,
 
-informacija apie kiekvieną iš jų laikoma atskira muitinės deklaracija.
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-70 straipsnis. Muitinės deklaracijos tikrinimo
+69 straipsnis. Prekių tikrinimo
 
 rezultatų taikymas
 
-1. Muitinės deklaracijos tikrinimo
+1. Jei patikrinama tiktai
 
-rezultatais remiamasi taikant šio kodekso ir kitų teisės aktų nuostatas,
+dalis muitinės deklaracijoje nurodytų prekių, patikrinimo rezultatai taikomi
 
-reglamentuojančias muitinės procedūros, kuriai įforminti pateiktos prekės,
+visoms toje muitinės deklaracijoje nurodytoms prekėms. Deklarantas turi teisę
+
+reikalauti, kad prekių tikrinimas būtų tęsiamas, jeigu jis mano, kad dalies
+
+prekių patikrinimo rezultatai negali būti taikomi likusiai muitinės
+
+deklaracijoje nurodytų prekių daliai.
+
+2. Taikant šio straipsnio 1
+
+dalį, kai muitinės deklaracijoje nurodytos dviejų arba daugiau pavadinimų
+
+prekės, informacija apie kiekvieną iš jų laikoma atskira muitinės deklaracija.
+
+70 straipsnis. Muitinės deklaracijos
+
+tikrinimo rezultatų taikymas
+
+1. Muitinės deklaracijos
+
+tikrinimo rezultatais remiamasi taikant šio kodekso ir kitų teisės aktų
+
+nuostatas, reglamentuojančias muitinės procedūros, kuriai įforminti pateiktos prekės,
 
 atlikimo tvarką.
 
-2. Jeigu muitinės deklaracija nebuvo
+2. Jeigu muitinės
 
-patikrinta, šio straipsnio 1 dalies nuostatos taikomos remiantis muitinės
+deklaracija nebuvo patikrinta, šio straipsnio 1 dalies nuostatos taikomos
 
-deklaracijoje pateikta informacija.
+remiantis muitinės deklaracijoje pateikta informacija.
 
-71 straipsnis. Prekių identifikavimo priemonių
+71 straipsnis. Prekių identifikavimo
 
-taikymas
+priemonių taikymas
 
-1.
+1. Muitinė imasi būtinų priemonių prekėms
 
-Muitinė imasi būtinų priemonių prekėms identifikuoti, jeigu identifikavimo
+identifikuoti, jeigu identifikavimo reikia muitinės procedūros, kuriai prekės
 
-reikia muitinės procedūros, kuriai prekės buvo deklaruotos, atlikimo tvarką
+buvo deklaruotos, atlikimo tvarką reglamentuojančių šio kodekso ir kitų teisės
 
-reglamentuojančių šio kodekso ir kitų teisės aktų nuostatų taikymui užtikrinti.
+aktų nuostatų taikymui užtikrinti.
 
-2.
+2. Ant prekių arba transporto priemonių
 
-Ant prekių arba transporto priemonių uždėtus identifikavimo ženklus turi teisę
+uždėtus identifikavimo ženklus turi teisę nuimti ar suardyti tiktai muitinė
 
-nuimti ar suardyti tiktai muitinė arba tai gali būti atlikta tiktai su muitinės
+arba tai gali būti atlikta tiktai su muitinės leidimu, išskyrus atvejus, kai
 
-leidimu, išskyrus atvejus, kai juos nuimti arba suardyti būtina dėl nenumatytų
+juos nuimti arba suardyti būtina dėl nenumatytų aplinkybių arba nenugalimos
 
-aplinkybių arba nenugalimos jėgos, norint išsaugoti prekes arba transporto
-
-priemones.
+jėgos, norint išsaugoti prekes arba transporto priemones.
 
 72 straipsnis. Prekių išleidimas
 
-1. Muitinė nedelsdama išleidžia prekes,
+1. Muitinė nedelsdama
 
-kai patikrinami arba be patikrinimo priimami muitinės deklaracijoje pateikti
+išleidžia prekes, kai patikrinami arba be patikrinimo priimami muitinės
 
-duomenys (išskyrus šio kodekso 73 straipsnyje nurodytus atvejus), jeigu
+deklaracijoje pateikti duomenys (išskyrus šio kodekso 73 straipsnyje nurodytus
 
-laikomasi prekių pateikimo atitinkamai muitinės procedūrai įforminti sąlygų ir
+atvejus), jeigu laikomasi prekių pateikimo atitinkamai muitinės procedūrai
 
-jeigu prekėms nėra taikomi draudimai arba apribojimai. Muitinė išleidžia prekes
+įforminti sąlygų ir jeigu prekėms nėra taikomi draudimai arba apribojimai.
 
-ir tais atvejais, kai muitinės deklaracijoje pateiktų duomenų neįmanoma
+Muitinė išleidžia prekes ir tais atvejais, kai muitinės deklaracijoje pateiktų
 
-patikrinti per pagrįstai tam reikalingą laiką ir kai toliau tikrinti prekių
+duomenų neįmanoma patikrinti per pagrįstai tam reikalingą laiką ir kai toliau
 
-nereikia.
+tikrinti prekių nereikia.
 
-2. Visos vienoje muitinės deklaracijoje nurodytos
+2. Visos vienoje muitinės deklaracijoje
 
-prekės išleidžiamos tuo pačiu metu.
+nurodytos prekės išleidžiamos tuo pačiu metu.
 
-73 straipsnis. Prekių išleidimas pateikus garantiją
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-1. Jeigu priėmus muitinės deklaraciją atsiranda skola
+2. Visos vienoje muitinės deklaracijoje
 
-muitinei, muitinės deklaracijoje nurodytos prekės išleidžiamos tiktai tada, kai
+nurodytos prekės išleidžiamos vienu metu. Taikant šią straipsnio dalį, kai
 
-skola atlyginta arba pateikta reikalinga garantija.
+viena muitinės deklaracija deklaruojamos dviejų arba daugiau rūšių prekės,
 
-2. Jeigu šio kodekso arba jo taikymą reglamentuojančių
+duomenys, susiję su kiekvienos rūšies prekėmis, laikomi sudarančiais atskirą
 
-teisės aktų nustatytais atvejais atliekant muitinės procedūrą, kuriai
+deklaraciją.]
 
-deklaruotos prekės, muitinė reikalauja pateikti garantiją, prekės
+Straipsnio pakeitimai:
 
-neišleidžiamos, kol tokia garantija nepateikiama.
+Nr. IX-624,
 
-74 straipsnis. Priemonės, taikomos, kai prekės negali
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-būti išleidžiamos
+73 straipsnis. Prekių išleidimas
 
-1. Muitinė imasi visų būtinų priemonių, įskaitant
+pateikus garantiją
 
-prekių sulaikymą, konfiskavimą ir realizavimą, jeigu prekės dėl šio straipsnio
+1. Jeigu priėmus muitinės deklaraciją
 
-2 dalyje nurodytų priežasčių negali būti išleidžiamos arba jeigu išleistos
+atsiranda skola muitinei, muitinės deklaracijoje nurodytos prekės išleidžiamos
 
-prekės neišgabenamos per pagrįstai tam reikalingą laiką.
+tiktai tada, kai skola atlyginta arba pateikta reikalinga garantija.
 
-2.
+2. Jeigu šio kodekso arba jo taikymą
 
-Prekės negali būti išleidžiamos, jeigu:
+reglamentuojančių teisės aktų nustatytais atvejais atliekant muitinės
 
-1)
+procedūrą, kuriai deklaruotos prekės, muitinė reikalauja pateikti garantiją,
 
-dėl deklaranto kaltės per nustatytą laiką neįmanoma atlikti jų muitinio
+prekės neišleidžiamos, kol tokia garantija nepateikiama.
 
-tikrinimo;
+74 straipsnis. Priemonės, taikomos,
 
-2)
+kai prekės negali būti išleidžiamos
 
-nepateikti muitinės procedūros, kuriai deklaruotos prekės, taikymui būtini
+1. Muitinė imasi visų būtinų priemonių,
 
-dokumentai;
+įskaitant prekių sulaikymą, konfiskavimą ir realizavimą, jeigu prekės dėl šio
 
-3)
+straipsnio 2 dalyje nurodytų priežasčių negali būti išleidžiamos arba jeigu
 
-per nustatytą laiką nesumokėti už jas nustatyti importo arba eksporto muitai ar
+išleistos prekės neišgabenamos per pagrįstai tam reikalingą laiką.
 
-mokesčiai arba nepateikta garantija;
+2. Prekės negali būti išleidžiamos, jeigu:
 
-4)
+1) dėl deklaranto kaltės per nustatytą
 
-joms taikomos draudimo arba apribojimo priemonės ir kitais įstatymų bei kitų
+laiką neįmanoma atlikti jų muitinio tikrinimo;
 
-teisės aktų nustatytais atvejais.
+2) nepateikti muitinės procedūros, kuriai
 
-3.
+deklaruotos prekės, taikymui būtini dokumentai;
 
-Prekės sulaikomos, konfiskuojamos ir realizuojamos įstatymų ir kitų teisės aktų
+3) per nustatytą laiką nesumokėti už jas
 
-nustatyta tvarka.
+nustatyti importo arba eksporto muitai ar mokesčiai arba nepateikta garantija;
 
-75 straipsnis. Supaprastintos procedūros
+4) joms taikomos draudimo arba apribojimo
 
-1. Šio kodekso taikymą reglamentuojančių teisės aktų
+priemonės ir kitais įstatymų bei kitų teisės aktų nustatytais atvejais.
 
-nustatytais atvejais muitinė, norėdama supaprastinti muitinės procedūrų
+3. Prekės sulaikomos, konfiskuojamos ir
 
-įforminimą ir galėdama užtikrinti tinkamą jų atlikimo priežiūrą, turi teisę:
+realizuojamos įstatymų ir kitų teisės aktų nustatyta tvarka.
 
-1)
+75 straipsnis. Supaprastintos
 
-leisti nepateikti muitinės deklaracijoje tam tikros informacijos, nurodytos šio
+procedūros
 
-kodekso 61 straipsnio 1 dalyje, arba nepateikti kartu su muitinės deklaracija
+1. Šio kodekso taikymą
 
-tam tikrų to paties straipsnio 2 dalyje nurodytų dokumentų;
+reglamentuojančių teisės aktų nustatytais atvejais muitinė, norėdama
 
-2)
+supaprastinti muitinės procedūrų įforminimą ir galėdama užtikrinti tinkamą jų
 
-vietoj muitinės deklaracijos, nurodytos šio kodekso 61 straipsnyje, priimti
+atlikimo priežiūrą, turi teisę:
 
-prekybos, transporto arba kitus dokumentus, kurie kartu su prekėmis pateikiami
+1) leisti nepateikti muitinės deklaracijoje
 
-įforminant atitinkamą muitinės procedūrą;
+tam tikros informacijos, nurodytos šio kodekso 61 straipsnio 1 dalyje, arba
 
-3)
+nepateikti kartu su muitinės deklaracija tam tikrų to paties straipsnio 2
 
-laikyti prekes pateiktomis atitinkamai muitinės procedūrai įforminti, jei
+dalyje nurodytų dokumentų;
 
-informacija apie jas įrašyta į apskaitos dokumentus.
+2) vietoj muitinės deklaracijos, nurodytos
 
-2.
+šio kodekso 61 straipsnyje, priimti prekybos, transporto arba kitus dokumentus,
 
-Supaprastintoje muitinės deklaracijoje, prekybos arba kituose dokumentuose,
+kurie kartu su prekėmis pateikiami įforminant atitinkamą muitinės procedūrą;
 
-pateikiamuose vietoj muitinės deklaracijos, taip pat apskaitos dokumentų
+3) laikyti prekes pateiktomis atitinkamai
 
-įrašuose turi būti nurodyta informacija, kurios pakaktų prekėms identifikuoti.
+muitinės procedūrai įforminti, jei informacija apie jas įrašyta į apskaitos
 
-Įrašant prekes į apskaitos dokumentus, turi būti nurodoma įrašymo data.
+dokumentus.
 
-3.
+2. Supaprastintoje muitinės deklaracijoje,
 
-Šio straipsnio 1 ir 2 dalyse nustatyta tvarka taikant supaprastintas muitinės
+prekybos arba kituose dokumentuose, pateikiamuose vietoj muitinės deklaracijos,
 
-procedūras, išskyrus šio kodekso taikymą reglamentuojančių teisės aktų
+taip pat apskaitos dokumentų įrašuose turi būti nurodyta informacija, kurios
 
-nustatytus atvejus, deklarantas privalo pateikti papildomą muitinės
+pakaktų prekėms identifikuoti. Įrašant prekes į apskaitos dokumentus, turi būti
 
-deklaraciją, kuri gali būti periodinės arba suvestinės muitinės deklaracijos
+nurodoma įrašymo data.
 
-pobūdžio.
+3. Šio straipsnio 1 ir 2 dalyse nustatyta
 
-4.
+tvarka taikant supaprastintas muitinės procedūras, išskyrus šio kodekso taikymą
 
-Papildomos ir supaprastintos muitinės deklaracijos, nurodytos šio straipsnio 1
+reglamentuojančių teisės aktų nustatytus atvejus, deklarantas privalo pateikti
 
-ir 3 dalyse, laikomos vientisu dokumentu, įsigaliojančiu nuo supaprastintos
+papildomą muitinės deklaraciją, kuri gali būti periodinės arba suvestinės
 
-muitinės deklaracijos priėmimo dienos; šio straipsnio 1 dalies 3 punkte
+muitinės deklaracijos pobūdžio.
 
-nustatytais atvejais įrašymas į apskaitos dokumentus turi tą pačią juridinę
+4. Papildomos ir supaprastintos muitinės
 
-galią kaip ir šio kodekso 61 straipsnyje nurodytos muitinės deklaracijos
+deklaracijos, nurodytos šio straipsnio 1 ir 3 dalyse, laikomos vientisu
 
-priėmimas.
+dokumentu, įsigaliojančiu nuo supaprastintos muitinės deklaracijos priėmimo
 
-76 straipsnis. Kitos muitinės deklaracijos
+dienos; šio straipsnio 1 dalies 3 punkte nustatytais atvejais įrašymas į
 
-Jeigu
+apskaitos dokumentus turi tą pačią juridinę galią kaip ir šio kodekso 61
 
-muitinės deklaracija pateikiama žodžiu ar veiksmu, kaip nurodyta šio kodekso 60
+straipsnyje nurodytos muitinės deklaracijos priėmimas.
 
-straipsnio 2 punkte, arba naudojantis automatinio duomenų apdorojimo
+76 straipsnis. Kitos muitinės
 
-techninėmis priemonėmis, kaip nurodyta to paties straipsnio 3 punkte, šio
+deklaracijos
 
-kodekso 61-75 straipsniai taikomi laikantis pagrindinių juose išdėstytų
+Jeigu muitinės deklaracija pateikiama
 
-principų šio kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka.
+žodžiu ar veiksmu, kaip nurodyta šio kodekso 60 straipsnio 2 punkte, arba
 
-77 straipsnis. Muitinės deklaracijų tikrinimas po jų
+naudojantis automatinio duomenų apdorojimo techninėmis priemonėmis, kaip
 
-įforminimo
+nurodyta to paties straipsnio 3 punkte, šio kodekso 61-75 straipsniai taikomi
 
-1.
+laikantis pagrindinių juose išdėstytų principų šio kodekso taikymą
 
-Muitinė turi teisę savo iniciatyva arba deklaranto prašymu patikrinti muitinės
+reglamentuojančių teisės aktų nustatyta tvarka.
 
-deklaracijas po prekių išleidimo.
+[76 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-2.
+77 straipsnis. Muitinės deklaracijų
 
-Muitinė, norėdama po prekių išleidimo įsitikinti muitinės deklaracijoje
+tikrinimas po jų įforminimo
 
-pateiktos informacijos teisingumu, turi teisę patikrinti prekybos ir apskaitos
+1. Muitinė turi teisę savo iniciatyva arba
 
-dokumentus, susijusius su atitinkamų prekių importu arba eksportu, taip pat su
+deklaranto prašymu patikrinti muitinės deklaracijas po prekių išleidimo.
 
-paskesnėmis prekybos šiomis prekėmis operacijomis. Tokie patikrinimai gali
+2. Muitinė, norėdama po prekių išleidimo
 
-vykti deklaranto ar bet kurio kito asmens, tiesiogiai ar netiesiogiai susijusio
+įsitikinti muitinės deklaracijoje pateiktos informacijos teisingumu, turi teisę
 
-su minėtomis operacijomis arba turinčio minėtus dokumentus, patalpose. Muitinė
+patikrinti prekybos ir apskaitos dokumentus, susijusius su atitinkamų prekių
 
-taip pat turi teisę tikrinti prekes, kol jas įmanoma pateikti tikrinimui.
+importu arba eksportu, taip pat su paskesnėmis prekybos šiomis prekėmis
 
-3.
+operacijomis. Tokie patikrinimai gali vykti deklaranto ar bet kurio kito
 
-Jeigu pakartotinai patikrinus muitinės deklaraciją ar atlikus šio straipsnio 2
+asmens, tiesiogiai ar netiesiogiai susijusio su minėtomis operacijomis arba
 
-dalyje nurodytą tikrinimą paaiškėja, kad muitinės procedūros atlikimo tvarką reglamentuojančios
+turinčio minėtus dokumentus, patalpose. Muitinė taip pat turi teisę tikrinti
 
-šio kodekso arba kitų teisės aktų nuostatos buvo taikomos remiantis neteisinga
+prekes, kol jas įmanoma pateikti tikrinimui.
 
-arba neišsamia informacija, muitinė, remdamasi naujai surinkta informacija,
+3. Jeigu pakartotinai patikrinus muitinės
 
-imasi šio kodekso ar kitų teisės aktų nustatytų priemonių pataisyti muitinės
+deklaraciją ar atlikus šio straipsnio 2 dalyje nurodytą tikrinimą paaiškėja,
 
-deklaraciją, išieškoti papildomai apskaičiuotus ir grąžinti nepagrįstai
+kad muitinės procedūros atlikimo tvarką reglamentuojančios šio kodekso arba
 
-sumokėtus arba išieškotus muitus ir mokesčius, taip pat kitų priemonių, būtinų
+kitų teisės aktų nuostatos buvo taikomos remiantis neteisinga arba neišsamia
 
-susidariusiai padėčiai sureguliuoti.
+informacija, muitinė, remdamasi naujai surinkta informacija, imasi šio kodekso
+
+ar kitų teisės aktų nustatytų priemonių pataisyti muitinės deklaraciją,
+
+išieškoti papildomai apskaičiuotus ir grąžinti nepagrįstai sumokėtus arba
+
+išieškotus muitus ir mokesčius, taip pat kitų priemonių, būtinų susidariusiai
+
+padėčiai sureguliuoti.
+
+[2 ir 3 dalių redakcija nuo 2002 m. birželio 1 d.:
+
+2. Muitinė, norėdama po prekių išleidimo
+
+įsitikinti muitinės deklaracijoje pateiktos informacijos teisingumu, turi teisę
+
+patikrinti prekybos ir apskaitos dokumentus bei duomenis, susijusius su
+
+atitinkamų prekių importu arba eksportu arba su paskesnėmis prekybos šiomis
+
+prekėmis operacijomis, neatsižvelgiant į naudojamas jų laikmenas (įskaitant kompiuterinę
+
+informaciją). Tokie patikrinimai gali vykti deklaranto ar bet kurio kito
+
+asmens, per jo vykdomą komercinę ir ūkinę veiklą tiesiogiai arba netiesiogiai
+
+susijusio su minėtomis operacijomis arba dėl jo vykdomos komercinės ir ūkinės
+
+veiklos turinčio minėtus dokumentus arba duomenis, patalpose. Muitinė taip pat
+
+turi teisę tikrinti prekes, kol jas įmanoma pateikti tikrinimui.
+
+3. Jeigu pakartotinai patikrinus
+
+muitinės deklaraciją ar atlikus šio straipsnio 2 dalyje nurodytą tikrinimą
+
+paaiškėja, kad muitinės procedūros atlikimo tvarką reglamentuojančios šio
+
+kodekso arba kitų teisės aktų nuostatos buvo taikomos neteisingai ar remiantis
+
+neteisinga arba neišsamia informacija, muitinė, remdamasi naujai surinkta
+
+informacija, imasi šio kodekso ar kitų teisės aktų nustatytų priemonių
+
+pataisyti muitinės deklaraciją, išieškoti papildomai apskaičiuotus arba
+
+grąžinti nepagrįstai sumokėtus arba išieškotus muitus ir mokesčius, taip pat
+
+kitų priemonių, būtinų susidariusiai padėčiai sureguliuoti.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 Trečiasis skirsnis
 
 PREKIŲ IŠLEIDIMAS LAISVAI CIRKULIUOTI
 
-78 straipsnis. Prekių išleidimo laisvai cirkuliuoti
+78 straipsnis. Prekių išleidimo
 
-reikšmė
+laisvai cirkuliuoti reikšmė
 
-Ne Lietuvos prekių
+Ne Lietuvos prekių išleidimas laisvai cirkuliuoti
 
-išleidimas laisvai cirkuliuoti suteikia joms Lietuvos prekių statusą.
+suteikia joms Lietuvos prekių statusą. Išleidžiant prekes laisvai cirkuliuoti,
 
-Išleidžiant prekes laisvai cirkuliuoti, pripažįstama, kad joms neturi būti
+pripažįstama, kad joms neturi būti taikomos importo draudimo arba ribojimo
 
-taikomos importo draudimo arba ribojimo priemonės, kad atlikti jų importui
+priemonės, kad atlikti jų importui taikomi formalumai ir sumokėti visi importo
 
-taikomi formalumai ir sumokėti visi importo muitai ir mokesčiai.
+muitai ir mokesčiai.
 
-79
+80 straipsnis. Išleistų laisvai
 
-straipsnis. Muitų ir
+cirkuliuoti prekių muitinės priežiūra
 
-mokesčių apskaičiavimas laikant visą prekių siuntą vienos
+1. Jeigu išleidžiamos
 
-rūšies prekėmis
+laisvai cirkuliuoti prekės dėl jų ypatingos paskirties visai ar iš dalies
 
-Jeigu vieną prekių siuntą sudarančios
+neapmokestinamos importo muitais ir mokesčiais, jos lieka muitinės prižiūrimos.
 
-prekės pagal muitų tarifą klasifikuojamos skirtingai ir jeigu muitinės
+Muitinės priežiūra prekėms nebetaikoma, kai nebesilaikoma nustatytų
 
-deklaracijai užpildyti bei įforminti kiekvieną iš šių prekių klasifikuojant
+neapmokestinimo importo muitais ir mokesčiais sąlygų ir prekės eksportuojamos,
 
-atskirai reikėtų neproporcingai daug darbo bei išlaidų, palyginti su
+sunaikinamos arba sumokėjus nustatytus importo muitus ir mokesčius leidžiama
 
-nustatytais už prekes muitais ir mokesčiais, muitinė turi teisę deklaranto
+jas naudoti pagal kitą paskirtį, negu buvo numatyta visai ar iš dalies
 
-prašymu duoti sutikimą, kad muitai ir mokesčiai visai siuntai būtų
+neapmokestinant šiais importo muitais ir mokesčiais.
 
-apskaičiuojami laikant ją prekėmis, už kurias bendra nustatytų muitų ir
+2. Šio straipsnio 1 dalyje
 
-mokesčių norma yra didžiausia.
+nurodytoms prekėms taikomos šio kodekso 86 ir 88 straipsnių nuostatos.
 
-80 straipsnis. Išleistų laisvai cirkuliuoti prekių
+81 straipsnis. Lietuvos prekių
 
-muitinės priežiūra
+statuso praradimas išleidus jas laisvai cirkuliuoti
 
-1. Jeigu išleidžiamos laisvai cirkuliuoti
+Išleistos laisvai
 
-prekės dėl jų ypatingos paskirties visai ar iš dalies neapmokestinamos importo
+cirkuliuoti prekės praranda muitinės pripažintą Lietuvos prekių statusą, jeigu:
 
-muitais ir mokesčiais, jos lieka muitinės prižiūrimos. Muitinės priežiūra
+1) jų išleidimui laisvai cirkuliuoti
 
-prekėms nebetaikoma, kai nebesilaikoma nustatytų neapmokestinimo importo
+pateikta muitinės deklaracija vadovaujantis šio kodekso
 
-muitais ir mokesčiais sąlygų ir prekės eksportuojamos, sunaikinamos arba
+65 straipsniu pripažinta negaliojančia išleidus prekes;
 
-sumokėjus nustatytus importo muitus ir mokesčius leidžiama jas naudoti pagal
+[1 punkto redakcija nuo 2002 m. birželio 1 d.:
 
-kitą paskirtį, negu buvo numatyta visai ar iš dalies neapmokestinant šiais
+1) jų išleidimui laisvai cirkuliuoti
 
-importo muitais ir mokesčiais.
+įforminta muitinės deklaracija pripažinta negaliojančia išleidus prekes;]
 
-2. Šio straipsnio 1 dalyje nurodytoms
+2) už šias prekes sumokėti importo muitai
 
-prekėms taikomos šio kodekso 86 ir 88 straipsnių nuostatos.
+ir mokesčiai sugrąžinti arba atsisakyta juos išieškoti, kai:
 
-81 straipsnis. Lietuvos prekių statuso praradimas
+a) taikoma laikinojo įvežimo perdirbti
 
-išleidus jas laisvai cirkuliuoti
+procedūra (pagal drobeko sistemą);
 
-Išleistos laisvai cirkuliuoti prekės
+b) vadovaujantis šio kodekso 221
 
-praranda muitinės pripažintą Lietuvos prekių statusą, jeigu:
+straipsniu nustatoma, kad prekės turi defektų arba neatitinka sutartyje
 
-1)
+(kontrakte) nustatytų sąlygų;
 
-jų išleidimui laisvai cirkuliuoti pateikta muitinės deklaracija vadovaujantis
+c) šio kodekso 222 straipsnyje nurodytais
 
-šio kodekso 65 straipsniu pripažinta negaliojančia išleidus prekes;
+atvejais už prekes sumokėti importo muitai ir mokesčiai sugrąžinti arba
 
-2)
+atsisakyta juos išieškoti prekes eksportavus, reeksportavus ar su jomis atlikus
 
-už šias prekes sumokėti importo muitai ir mokesčiai sugrąžinti arba atsisakyta
+kitus muitinės sankcionuotus veiksmus.
 
-juos išieškoti, kai:
+Straipsnio pakeitimai:
 
-a)
+Nr. IX-624,
 
-taikoma laikinojo įvežimo perdirbti procedūra (pagal drobeko sistemą);
-
-b)
-
-vadovaujantis šio kodekso 221 straipsniu nustatoma, kad prekės turi defektų
-
-arba neatitinka sutartyje (kontrakte) nustatytų sąlygų;
-
-c)
-
-šio kodekso 222 straipsnyje nurodytais atvejais už prekes sumokėti importo
-
-muitai ir mokesčiai sugrąžinti arba atsisakyta juos išieškoti prekes
-
-eksportavus, reeksportavus ar su jomis atlikus kitus muitinės sankcionuotus
-
-veiksmus.
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 Ketvirtasis skirsnis
 
-MUITINĖS PROCEDŪROS, KURIAS
+MUITINĖS PROCEDŪROS, KURIAS ATLIEKANT PREKĖS SĄLYGIŠKAI
 
-ATLIEKANT PREKĖS SĄLYGIŠKAI
+NEAPMOKESTINAMOS IMPORTO MUITAIS BEI MOKESČIAIS, IR
 
-NEAPMOKESTINAMOS IMPORTO MUITAIS
-
-BEI MOKESČIAIS, IR EKONOMINIO
+EKONOMINIO
 
 POVEIKIO TURINČIOS MUITINĖS PROCEDŪROS (BENDROSIOS
 
@@ -3342,223 +3612,253 @@ TAIKOMOS KELIOMS MUITINĖS PROCEDŪROMS)
 
 82 straipsnis. Bendrosios nuostatos
 
-1.
+1. Ne Lietuvos prekės sąlygiškai
 
-Ne Lietuvos prekės sąlygiškai neapmokestinamos importo muitais ir mokesčiais,
+neapmokestinamos importo muitais ir mokesčiais, kai atliekamos šios muitinės
 
-kai atliekamos šios muitinės procedūros:
+procedūros:
 
-1)
+1) muitinis tranzitas;
 
-muitinis tranzitas;
+2) muitinis sandėliavimas;
 
-2)
+3) laikinasis įvežimas
 
-muitinis sandėliavimas;
+perdirbti,sąlygiškai neapmokestinant importo muitais ir mokesčiais;
 
-3)
+4) muitinės prižiūrimas perdirbimas;
 
-laikinasis įvežimas perdirbti,sąlygiškai neapmokestinant importo muitais ir
+5) laikinasis įvežimas.
 
-mokesčiais;
+2. Ekonominio poveikio turinčiomis
 
-4)
+vadinamos šios muitinės procedūros:
 
-muitinės prižiūrimas perdirbimas;
+1) muitinis sandėliavimas;
 
-5)
+2) laikinasis įvežimas perdirbti;
 
-laikinasis įvežimas.
+3) muitinės prižiūrimas perdirbimas;
 
-2.
+4) laikinasis įvežimas;
 
-Ekonominio poveikio turinčiomis vadinamos šios muitinės procedūros:
+5) laikinasis išvežimas;
 
-1)
+6) laikinasis išvežimas perdirbti.
 
-muitinis sandėliavimas;
+3. Įvežtomis prekėmis vadinamos prekės,
 
-2)
+pateiktos įforminti muitinės procedūrai, kurią atliekant sąlygiškai
 
-laikinasis įvežimas perdirbti;
+neapmokestinama importo muitais ir mokesčiais, taip pat prekės, pateiktos
 
-3)
+įforminti laikinojo įvežimo perdirbti procedūrai (taikant drobeko sistemą),
 
-muitinės prižiūrimas perdirbimas;
+atlikus išleidimo laisvai cirkuliuoti ir šio kodekso 122 straipsnyje nurodytus
 
-4)
+formalumus.
 
-laikinasis įvežimas;
+4. Nepakeisto pavidalo prekėmis vadinamos
 
-5)
+įvežtos prekės, kurioms įforminta laikinojo įvežimo perdirbti ar muitinės
 
-laikinasis išvežimas;
+prižiūrimo perdirbimo procedūra, bet neatlikta jokia jų perdirbimo operacija.
 
-6)
+83 straipsnis. Ekonominio poveikio
 
-laikinasis išvežimas perdirbti.
+turinčių muitinės procedūrų reguliavimas
 
-3.
+Bet kuri ekonominio
 
-Įvežtomis prekėmis vadinamos prekės, pateiktos įforminti muitinės procedūrai,
+poveikio turinti muitinės procedūra gali būti atliekama tiktai šio kodekso ir
 
-kurią atliekant sąlygiškai neapmokestinama importo muitais ir mokesčiais, taip
+jo taikymą reglamentuojančių teisės aktų nustatyta tvarka, gavus muitinės
 
-pat prekės, pateiktos įforminti laikinojo įvežimo perdirbti procedūrai (taikant
+leidimą.
 
-drobeko sistemą), atlikus išleidimo laisvai cirkuliuoti ir šio kodekso 122
+84 straipsnis. Muitinės leidimų
 
-straipsnyje nurodytus formalumus.
+išdavimo sąlygos
 
-4.
+Atsižvelgiant į papildomus specialius
 
-Nepakeisto pavidalo prekėmis vadinamos įvežtos prekės, kurioms įforminta
+tam tikrų muitinės procedūrų atlikimo tvarkos reikalavimus, šio kodekso 83
 
-laikinojo įvežimo perdirbti ar muitinės prižiūrimo perdirbimo procedūra, bet
+straipsnyje ir 98 straipsnio 1 dalyje nurodyti leidimai išduodami tiktai tada,
 
-neatlikta jokia jų perdirbimo operacija.
+kai:
 
-83 straipsnis. Ekonominio poveikio turinčių muitinės
+1)leidimo prašantis asmuo
 
-procedūrų reguliavimas
+pateikia garantiją, užtikrinančią, kad bus įvykdyti įsipareigojimai, susiję su
 
-Bet kuri ekonominio poveikio turinti
+prašyme nurodyta muitinės procedūra;
 
-muitinės procedūra gali būti atliekama tiktai šio kodekso ir jo taikymą
+2) muitinė gali užtikrinti
 
-reglamentuojančių teisės aktų nustatyta tvarka, gavus muitinės leidimą.
+atitinkamos muitinės procedūros priežiūrą bei kontrolę, ir tam reikalingų
 
-84 straipsnis. Muitinės leidimų išdavimo sąlygos
+administracijos priemonių išlaidos nėra neproporcingai didelės, palyginti su
 
-Atsižvelgiant į papildomus specialius tam tikrų
+šios muitinės procedūros vykdymo ekonominiu tikslingumu.
 
-muitinės procedūrų atlikimo tvarkos reikalavimus, šio kodekso 83 straipsnyje ir
+85 straipsnis. Muitinės procedūrų
 
-98 straipsnio 1 dalyje nurodyti leidimai išduodami tiktai tada, kai:
+atlikimo sąlygos
 
-1)leidimo prašantis asmuo pateikia
+1. Kiekvienos muitinės procedūros
 
-garantiją, užtikrinančią, kad bus įvykdyti įsipareigojimai, susiję su prašyme
+atlikimo sąlygos nustatomos šiam tikslui išduotame leidime.
 
-nurodyta muitinės procedūra;
+2. Asmuo, kuriam išduotas leidimas,
 
-2) muitinė gali užtikrinti atitinkamos
+privalo informuoti muitinę apie visas po leidimo gavimo susidariusias
 
-muitinės procedūros priežiūrą bei kontrolę, ir tam reikalingų administracijos
+aplinkybes, galinčias turėti įtakos šio leidimo pratęsimui arba turiniui.
 
-priemonių išlaidos nėra neproporcingai didelės, palyginti su šios muitinės
+[Kodeksas papildomas 85(1) straipsniu nuo
 
-procedūros vykdymo ekonominiu tikslingumu.
+2002 m. birželio 1 d.:
 
-85 straipsnis. Muitinės procedūrų atlikimo sąlygos
+85(1) straipsnis.
 
-1. Kiekvienos muitinės procedūros atlikimo sąlygos
+Tolesnis muitinės procedūros, kurią taikant sąlygiškai neapmokestinama
 
-nustatomos šiam tikslui išduotame leidime.
+importo muitais ir mokesčiais,
 
-2.
+taikymas prekėms, išgautoms,
 
-Asmuo, kuriam išduotas leidimas, privalo informuoti muitinę apie visas po
+pagamintoms arba išgautoms ir
 
-leidimo gavimo susidariusias aplinkybes, galinčias turėti įtakos šio leidimo
+pagamintoms iš prekių, kurioms ši
 
-pratęsimui arba turiniui.
+muitinės procedūra įforminta
 
-86 straipsnis. Garantijų pateikimas atliekant muitinės
+Šio kodekso 2 straipsnio 12 punkto a
 
-procedūras
+papunktyje nurodytos prekės, išgautos, pagamintos arba išgautos ir pagamintos
 
-Kai prekės pateikiamos įforminti muitinės
+iš kitų prekių įforminus muitinės procedūrą, kurią taikant sąlygiškai
 
-procedūrai, kurią atliekant sąlygiškai neapmokestinama importo muitais ir
+neapmokestinama importo muitais ir mokesčiais, ir toliau laikomos prekėmis,
 
-mokesčiais, muitinė turi teisę reikalauti garantijos, užtikrinančios, kad bus
+kurioms taikoma ta pati muitinės procedūra, kol joms neįforminami kiti muitinės
 
-atlyginta bet kokia skola muitinei, galinti atsirasti dėl šių prekių.
+sankcionuoti veiksmai.]
+
+Kodeksas papildytas straipsniu:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+86 straipsnis. Garantijų pateikimas
+
+atliekant muitinės procedūras
+
+Kai prekės pateikiamos
+
+įforminti muitinės procedūrai, kurią atliekant sąlygiškai neapmokestinama
+
+importo muitais ir mokesčiais, muitinė turi teisę reikalauti garantijos,
+
+užtikrinančios, kad bus atlyginta bet kokia skola muitinei, galinti atsirasti
+
+dėl šių prekių.
 
 87 straipsnis. Muitinės procedūros baigimas
 
-1. Ekonominio poveikio turinti muitinės
+1. Ekonominio poveikio
 
-procedūra, kurią atliekant prekės sąlygiškai neapmokestinamos importo muitais
+turinti muitinės procedūra, kurią atliekant prekės sąlygiškai neapmokestinamos
 
-ir mokesčiais, baigiama pateikus prekes, kurioms ji buvo taikoma, arba šią
+importo muitais ir mokesčiais, baigiama pateikus prekes, kurioms ji buvo
 
-muitinės procedūrą atliekant gautus kompensacinius ar perdirbtuosius produktus
+taikoma, arba šią muitinės procedūrą atliekant gautus kompensacinius ar
 
-kitiems muitinės sankcionuotiems veiksmams įforminti.
+perdirbtuosius produktus kitiems muitinės sankcionuotiems veiksmams įforminti.
 
-2. Muitinė imasi visų šio kodekso ar kitų
+2. Muitinė imasi visų šio
 
-teisės aktų nustatytų priemonių, būtinų sureguliuoti padėčiai, susijusiai su
+kodekso ar kitų teisės aktų nustatytų priemonių, būtinų sureguliuoti padėčiai,
 
-prekėmis, kurioms įforminta muitinės procedūra nebuvo nustatyta tvarka baigta.
+susijusiai su prekėmis, kurioms įforminta muitinės procedūra nebuvo nustatyta
 
-88 straipsnis. Muitinės procedūros vykdytojo teisių ir
+tvarka baigta.
 
-pareigų perdavimas
+88 straipsnis. Muitinės procedūros
 
-Ekonominio poveikio turinčios muitinės
+vykdytojo teisių ir pareigų perdavimas
 
-procedūros vykdytojo teisės ir pareigos muitinės nustatytomis sąlygomis gali
+Ekonominio poveikio
 
-būti perduotos kitiems asmenims, prisiimantiems su šia muitinės procedūra
+turinčios muitinės procedūros vykdytojo teisės ir pareigos muitinės
 
-susijusius įsipareigojimus ir užtikrinantiems, kad bus laikomasi visų jos
+nustatytomis sąlygomis gali būti perduotos kitiems asmenims, prisiimantiems su
 
-vykdymo sąlygų.
+šia muitinės procedūra susijusius įsipareigojimus ir užtikrinantiems, kad bus
+
+laikomasi visų jos vykdymo sąlygų.
 
 Penktasis skirsnis
 
 MUITINIS TRANZITAS
 
-89 straipsnis. Muitinio tranzito procedūros taikymas
+89 straipsnis. Muitinio tranzito
 
-1. Muitinio tranzito procedūra taikoma,
+procedūros taikymas
 
-kai iš vienos Lietuvos Respublikos muitų teritorijos vietos į kitą Lietuvos
+1. Muitinio tranzito
 
-Respublikos muitų teritorijos vietą gabenamos:
+procedūra taikoma, kai iš vienos Lietuvos Respublikos muitų teritorijos vietos
 
-1) ne Lietuvos prekės, neapmokestintos
+į kitą Lietuvos Respublikos muitų teritorijos vietą gabenamos:
 
-importo muitais ir mokesčiais, netaikant joms ekonominių draudimų ir
+1) ne Lietuvos prekės,
 
-apribojimų;
+neapmokestintos importo muitais ir mokesčiais, netaikant joms ekonominių
 
-2) Lietuvos prekės, gabenamos per užsienio
+draudimų ir apribojimų;
 
-valstybės teritoriją ir neapmokestintos eksporto muitais ir mokesčiais,
+2) Lietuvos prekės,
 
-netaikant joms ekonominių draudimų ir apribojimų.
+gabenamos per užsienio valstybės teritoriją ir neapmokestintos eksporto muitais
 
-2. Pagal šio straipsnio 1 dalies nuostatas
+ir mokesčiais, netaikant joms ekonominių draudimų ir apribojimų.
 
-prekės gabenamos:
+2. Pagal šio straipsnio 1
 
-1) taikant muitinio tranzito procedūrą šio
+dalies nuostatas prekės gabenamos:
 
-kodekso ir jo taikymą reglamentuojančių teisės aktų nustatyta tvarka;
+1) taikant muitinio
 
-2) su TIR knygele, vadovaujantis Muitinės
+tranzito procedūrą šio kodekso ir jo taikymą reglamentuojančių teisės aktų
 
-konvencijos dėl tarptautinio krovinių transportavimo su TIR knygele (Ženeva,
+nustatyta tvarka;
 
-1975 m. lapkričio 14 d.) nuostatomis;
+2) su TIR knygele,
 
-3) su ATA knygele, vadovaujantis Laikinojo
+vadovaujantis Muitinės konvencijos dėl tarptautinio krovinių transportavimo su
 
-įvežimo konvencijos (Stambulas, 1990 m. birželio 26 d.) nuostatomis;
+TIR knygele (Ženeva, 1975 m. lapkričio 14 d.) nuostatomis;
 
-4) paštu (įskaitant siuntinių gabenimą).
+3) su ATA knygele,
 
-3. Taikant muitinio tranzito procedūrą
+vadovaujantis Laikinojo įvežimo konvencijos (Stambulas, 1990 m. birželio 26 d.)
 
-prekėms, kurioms buvo įforminta ekonominio poveikio turinti muitinės procedūra,
+nuostatomis;
 
-vadovaujamasi tokių prekių gabenimo tvarką reglamentuojančiomis šio kodekso ir
+4) paštu (įskaitant
 
-kitų teisės aktų nuostatomis.
+siuntinių gabenimą).
+
+3. Taikant muitinio
+
+tranzito procedūrą prekėms, kurioms buvo įforminta ekonominio poveikio turinti
+
+muitinės procedūra, vadovaujamasi tokių prekių gabenimo tvarką
+
+reglamentuojančiomis šio kodekso ir kitų teisės aktų nuostatomis.
 
 90
 
@@ -3566,177 +3866,199 @@ straipsnis. Muitinio
 
 tranzito procedūros pradžia ir pabaiga
 
-Muitinio
+Muitinio tranzito procedūra pradedama
 
-tranzito procedūra pradedama išvykimo muitinės įstaigoje ir baigiama paskirties
+išvykimo muitinės įstaigoje ir baigiama paskirties muitinės įstaigoje,
 
-muitinės įstaigoje, nustatyta tvarka pateikus šioms įstaigoms prekes kartu su
+nustatyta tvarka pateikus šioms įstaigoms prekes kartu su atitinkamais
 
-atitinkamais dokumentais.
+dokumentais.
 
-91 straipsnis. Muitinio tranzito procedūros taikymas
+[90 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-prekėms, gabenamoms per kitos
+91 straipsnis. Muitinio tranzito
+
+procedūros taikymas prekėms, gabenamoms per kitos
 
 valstybės teritoriją
 
-Muitinio
+Muitinio tranzito procedūra gali būti taikoma prekėms,
 
-tranzito procedūra gali būti taikoma prekėms, gabenamoms per kitos valstybės
+gabenamoms per kitos valstybės teritoriją, tik tais atvejais, jeigu:
 
-teritoriją, tik tais atvejais, jeigu:
+1) tai yra numatyta
 
-1) tai yra numatyta Lietuvos Respublikos
+Lietuvos Respublikos tarptautinėse sutartyse;
 
-tarptautinėse sutartyse;
+2) šioms prekėms
 
-2)
+Lietuvos Respublikos muitų teritorijoje įforminti muitinės ir (arba) transporto
 
-šioms prekėms Lietuvos Respublikos muitų teritorijoje įforminti muitinės ir
+dokumentai; tokiu atveju muitinio tranzito procedūros vykdymas sustabdomas, kol
 
-(arba) transporto dokumentai; tokiu atveju muitinio tranzito procedūros
+prekės gabenamoms per kitos valstybės teritoriją.
 
-vykdymas sustabdomas, kol prekės gabenamoms per kitos valstybės teritoriją.
+92 straipsnis. Garantijų taikymas
 
-92 straipsnis. Garantijų taikymas atliekant muitinio
+atliekant muitinio tranzito procedūrą
 
-tranzito procedūrą
+1. Muitinio tranzito procedūros vykdytojas
 
-1.
+privalo nustatyta tvarka pateikti garantiją, užtikrinančią, kad bet kokia skola
 
-Muitinio tranzito procedūros vykdytojas privalo nustatyta tvarka pateikti
+muitinei, galinti atsirasti dėl prekių, kurioms taikoma ši muitinės procedūra,
 
-garantiją, užtikrinančią, kad bet kokia skola muitinei, galinti atsirasti dėl
+bus atlyginta, išskyrus šio kodekso 93 straipsnyje nurodytus atvejus.
 
-prekių, kurioms taikoma ši muitinės procedūra, bus atlyginta, išskyrus šio
+2. Šio kodekso taikymą reglamentuojančių
 
-kodekso 93 straipsnyje nurodytus atvejus.
+teisės aktų nustatytais atvejais garantijos gali būti nepateikiamos arba
 
-2.
+taikomos bendrosios garantijos, jeigu prekės gabenamos:
 
-Šio kodekso taikymą reglamentuojančių teisės aktų nustatytais atvejais
+1) jūrų transportu;
 
-garantijos gali būti nepateikiamos arba taikomos bendrosios garantijos, jeigu
+2) oro transportu;
 
-prekės gabenamos:
+3) vamzdynų arba kitu stacionariuoju
 
-1)
+transportu;
 
-jūrų transportu;
+4) geležinkelio transportu.
 
-2)
+[92 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-oro transportu;
+93 straipsnis. Muitinio tranzito
 
-3)
-
-vamzdynų arba kitu stacionariuoju transportu;
-
-4)
-
-geležinkelio transportu.
-
-93 straipsnis. Muitinio tranzito procedūros vykdytojų
-
-atleidimas nuo garantijų
+procedūros vykdytojų atleidimas nuo garantijų
 
 pateikimo
 
-1. Muitinė, neviršydama šio straipsnio 3
+1. Muitinė, neviršydama šio
 
-dalyje nustatytų apribojimų, turi teisę atleisti nuo garantijų pateikimo
+straipsnio 3 dalyje nustatytų apribojimų, turi teisę atleisti nuo garantijų
 
-muitinio tranzito procedūros vykdytojus, kurie atitinka šio straipsnio 2 dalyje
+pateikimo muitinio tranzito procedūros vykdytojus, kurie atitinka šio
 
-nustatytus reikalavimus.
+straipsnio 2 dalyje nustatytus reikalavimus.
 
-2. Pagal šio straipsnio 1 dalį atleisti
+2. Pagal šio straipsnio 1
 
-nuo garantijų pateikimo galima tiktai muitinio tranzito procedūros vykdytojus:
+dalį atleisti nuo garantijų pateikimo galima tiktai muitinio tranzito
 
-1) turinčius Lietuvos Respublikos ūkio
+procedūros vykdytojus:
 
-subjekto statusą;
+1) turinčius Lietuvos
 
-2) reguliariai atliekančius muitinio
+Respublikos ūkio subjekto statusą;
 
-tranzito procedūrą;
+2) reguliariai atliekančius
 
-3) finansiniu požiūriu galinčius
+muitinio tranzito procedūrą;
 
-užtikrinti įsipareigojimų muitinei įvykdymą;
+3) finansiniu požiūriu
 
-4) nepadariusius šio kodekso taikymą
+galinčius užtikrinti įsipareigojimų muitinei įvykdymą;
 
-reglamentuojančių teisės aktų nustatytų šio kodekso, mokesčių įstatymų ir kitų
+4) nepadariusius šio kodekso
 
-teisės aktų pažeidimų;
+taikymą reglamentuojančių teisės aktų nustatytų šio kodekso, mokesčių įstatymų
 
-5) kurie šio kodekso taikymą
+ir kitų teisės aktų pažeidimų;
 
-reglamentuojančių teisės aktų nustatyta tvarka raštu įsipareigojo, kad gavę
+5) kurie šio kodekso
 
-pirmą raštišką muitinės teikimą, susijusį su šių asmenų atlikta arba atliekama
+taikymą reglamentuojančių teisės aktų nustatyta tvarka raštu įsipareigojo, kad
 
-muitinio tranzito procedūra, sumokės teikime nurodytą pinigų sumą.
+gavę pirmą raštišką muitinės teikimą, susijusį su šių asmenų atlikta arba
 
-3. Nuo šio straipsnio 1 ir 2 dalyse
+atliekama muitinio tranzito procedūra, sumokės teikime nurodytą pinigų sumą.
 
-nurodytų garantijų pateikimo neatleidžiama, jei muitinio tranzito procedūrai įforminti
+3. Nuo šio straipsnio 1 ir
 
-pateikiamos prekės:
+2 dalyse nurodytų garantijų pateikimo neatleidžiama, jei muitinio tranzito
 
-1)kurių vertė viršija šio kodekso taikymą
+procedūrai įforminti pateikiamos prekės:
 
-reglamentuojančių teisės aktų nustatytas ribas;
+1)kurių vertė viršija šio
 
-2) už kurias nustatyti importo muitai ir
+kodekso taikymą reglamentuojančių teisės aktų nustatytas ribas;
 
-mokesčiai arba tam tikrais atvejais eksporto muitai ir mokesčiai viršija šio
+2) už kurias nustatyti
 
-kodekso taikymą reglamentuojančių teisės aktų nustatytą dydį.
+importo muitai ir mokesčiai arba tam tikrais atvejais eksporto muitai ir
 
-4. Atleisdama nuo garantijų pateikimo,
+mokesčiai viršija šio kodekso taikymą reglamentuojančių teisės aktų nustatytą
 
-muitinė išduoda muitinio tranzito procedūros vykdytojui nustatyto pavyzdžio
+dydį.
 
-liudijimą.
+4. Atleisdama nuo garantijų
 
-94 straipsnis. Muitinio tranzito procedūros vykdytojo
+pateikimo, muitinė išduoda muitinio tranzito procedūros vykdytojui nustatyto
 
-atsakomybė
+pavyzdžio liudijimą.
+
+[93 straipsnio redakcija nuo 2002 m. birželio 1 d.:
+
+94 straipsnis. Muitinio tranzito
+
+procedūros vykdytojo atsakomybė
 
 1. Muitinio tranzito procedūros vykdytojas
 
 atsako:
 
-1)
+1) už visų prekių pristatymą per nustatytą
 
-už visų prekių pristatymą per nustatytą terminą (tuo metu jos negali būti
+terminą (tuo metu jos negali būti keičiamos, naudojamos ar apdorojamos) į
 
-keičiamos, naudojamos ar apdorojamos) į paskirties muitinės įstaigą su
+paskirties muitinės įstaigą su nepažeistomis muitinės plombomis ir (arba)
 
-nepažeistomis muitinės plombomis ir (arba) identifikavimo ženklais;
+identifikavimo ženklais;
 
-2)
+[1 punkto redakcija nuo 2002 m. birželio 1 d.:
 
-už šio kodekso ir kitų muitinio tranzito procedūros atlikimo tvarką
+1) už visų prekių pristatymą per
 
-reglamentuojančių teisės aktų nuostatų laikymąsi.
+nustatytą terminą (tuo metu jos negali būti keičiamos, naudojamos ar
 
-2.
+apdorojamos) į paskirties muitinės įstaigą su nepažeistomis muitinės plombomis
 
-Be muitinio tranzito procedūros vykdytojo atsakomybės, nustatytos šio
+ir (arba) identifikavimo ženklais bei nepažeistais užplombuotų transporto
 
-straipsnio 1 dalyje, prekių vežėjas arba gavėjas, priėmęs prekes ir žinantis,
+priemonių krovinių sekcijų išoriniais paviršiais. Prekes privalo lydėti ir
 
-kad jos gabenamos taikant muitinio tranzito procedūrą, taip pat yra atsakingas
+kartu su jomis į paskirties muitinės įstaigą turi būti pristatyta išvykimo
 
-už visų prekių pristatymą per nustatytą terminą (tuo metu jos negali būti
+muitinės įstaigoje įforminta muitinės deklaracija bei kartu su ja privalomi
 
-keičiamos, naudojamos ar apdorojamos) į paskirties muitinės įstaigą su
+pateikti paskirties įstaigai dokumentai;]
 
-nepažeistomis muitinės plombomis ir (arba) identifikavimo ženklais.
+2) už šio kodekso ir kitų muitinio
+
+tranzito procedūros atlikimo tvarką reglamentuojančių teisės aktų nuostatų
+
+laikymąsi.
+
+2. Be muitinio tranzito procedūros
+
+vykdytojo atsakomybės, nustatytos šio straipsnio 1 dalyje, prekių vežėjas arba
+
+gavėjas, priėmęs prekes ir žinantis, kad jos gabenamos taikant muitinio
+
+tranzito procedūrą, taip pat yra atsakingas už visų prekių pristatymą per
+
+nustatytą terminą (tuo metu jos negali būti keičiamos, naudojamos ar
+
+apdorojamos) į paskirties muitinės įstaigą su nepažeistomis muitinės plombomis
+
+ir (arba) identifikavimo ženklais.
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 95
 
@@ -3746,341 +4068,261 @@ tranzito procedūros atlikimo ir įforminimo tvarkos bei išimčių
 
 nustatymas
 
-1.
+1. Muitinio tranzito procedūros atlikimo
 
-Muitinio tranzito procedūros atlikimo ir įforminimo tvarką bei sąlygas detaliau
+ir įforminimo tvarką bei sąlygas detaliau nustato Lietuvos Respublikos
 
-nustato Lietuvos Respublikos tarptautinės sutartys ir šio kodekso taikymą
+tarptautinės sutartys ir šio kodekso taikymą reglamentuojantys teisės aktai.
 
-reglamentuojantys teisės aktai.
+2. Šio kodekso taikymą reglamentuojančių
 
-2.
+teisės aktų nustatytais atvejais ir tvarka Lietuvos prekės gali būti gabenamos
 
-Šio kodekso taikymą reglamentuojančių teisės aktų nustatytais atvejais ir
+iš vienos Lietuvos Respublikos muitų teritorijos vietos į kitą ir laikinai
 
-tvarka Lietuvos prekės gali būti gabenamos iš vienos Lietuvos Respublikos muitų
+išvežamos iš nurodytos teritorijos išlaikant jų statusą ir netaikant joms
 
-teritorijos vietos į kitą ir laikinai išvežamos iš nurodytos teritorijos
-
-išlaikant jų statusą ir netaikant joms muitinio tranzito procedūros.
+muitinio tranzito procedūros.
 
 Šeštasis skirsnis
 
 MUITINIS SANDĖLIAVIMAS
 
-96
-
-straipsnis. Muitinio sandėliavimo procedūros taikymas
-
-1.
-
-Muitinio sandėliavimo procedūra įforminama, kai muitinės sandėliuose leidžiama
-
-laikyti ne Lietuvos prekes neapmokestinant jų importo muitais bei mokesčiais ir
-
-netaikant joms ekonominių draudimų bei apribojimų.
-
-2.
-
-Muitinės sandėlis - tai muitinės nustatyta ir prižiūrima Lietuvos Respublikos
-
-muitų teritorijos dalis, kurioje šio kodekso ir jo taikymą reglamentuojančių
-
-teisės aktų nustatyta tvarka ir sąlygomis gali būti saugomos prekės.
-
-3.
-
-Šio kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka muitinio
-
-sandėliavimo procedūra prekėms gali būti taikoma ir nepadedant jų į muitinės
-
-sandėlį.
-
 96 straipsnis. Muitinio sandėliavimo
 
 procedūros taikymas
 
-1.   Muitinio  sandėliavimo  procedūra
+1. Muitinio sandėliavimo procedūra
 
-įforminama,   kai muitinės  sandėliuose  leidžiama laikyti  ne  Lietuvos
+įforminama, kai muitinės sandėliuose leidžiama laikyti ne Lietuvos prekes
 
-prekes neapmokestinant jų importo muitais bei mokesčiais ir netaikant joms
+neapmokestinant jų importo muitais bei mokesčiais ir netaikant joms ekonominių
 
-ekonominių draudimų bei apribojimų.
+draudimų bei apribojimų.
 
-2.   Muitinės  sandėlis  -  tai
+2. Muitinės sandėlis - tai muitinės
 
-muitinės  nustatyta   ir prižiūrima  Lietuvos  Respublikos  muitų
+nustatyta ir prižiūrima Lietuvos Respublikos muitų teritorijos dalis, kurioje
 
-teritorijos   dalis, kurioje  šio  kodekso  ir jo taikymą reglamentuojančių
+šio kodekso ir jo taikymą reglamentuojančių teisės aktų nustatyta tvarka ir
 
-teisės aktų nustatyta tvarka ir sąlygomis gali būti saugomos prekės.
+sąlygomis gali būti saugomos prekės.
 
-3.  Šio  kodekso  taikymą
+3. Šio kodekso taikymą reglamentuojančių
 
-reglamentuojančių  teisės  aktų nustatyta tvarka muitinio sandėliavimo
+teisės aktų nustatyta tvarka muitinio sandėliavimo procedūra prekėms gali būti
 
-procedūra prekėms  gali būti taikoma ir nepadedant jų į muitinės sandėlį.
+taikoma ir nepadedant jų į muitinės sandėlį.
 
-97 straipsnis. Muitinės sandėlių tipai ir asmenys,
+97 straipsnis. Muitinės sandėlių
 
-atsakingi už muitinio sandėliavimo
+tipai ir asmenys, atsakingi už muitinio sandėliavimo
 
 procedūros atlikimą
 
-1.
+1. Muitinės sandėliai gali būti atvirieji
 
-Muitinės sandėliai gali būti atvirieji arba uždarieji. Atvirajame muitinės sandėlyje
+arba uždarieji. Atvirajame muitinės sandėlyje prekes gali laikyti visi asmenys,
 
-prekes gali laikyti visi asmenys, uždarajame - tiktai muitinės sandėlio
+uždarajame - tiktai muitinės sandėlio savininkas.
 
-savininkas.
+2. Muitinės sandėlio savininkas yra asmuo,
 
-2.
+kuriam šio kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka
 
-Muitinės sandėlio savininkas yra asmuo, kuriam šio kodekso taikymą
+suteikta teisė steigti muitinės sandėlį.
+
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+2. Muitinės sandėlio savininkas yra
+
+Lietuvos Respublikos ūkio subjektas, kuriam šio kodekso taikymą
 
 reglamentuojančių teisės aktų nustatyta tvarka suteikta teisė steigti muitinės
 
-sandėlį.
+sandėlį.]
 
-3.
+3. Muitinio sandėliavimo procedūros
 
-Muitinio sandėliavimo procedūros vykdytojas yra asmuo, kuris padėjo prekes į
+vykdytojas yra asmuo, kuris padėjo prekes į muitinės sandėlį ir, pateikdamas
 
-muitinės sandėlį ir, pateikdamas muitinės deklaraciją muitinio sandėliavimo
+muitinės deklaraciją muitinio sandėliavimo procedūrai įforminti, įsipareigojo
 
-procedūrai įforminti, įsipareigojo muitinei įvykdyti su šia muitinės procedūra
+muitinei įvykdyti su šia muitinės procedūra susijusius reikalavimus, arba
 
-susijusius reikalavimus, arba asmuo, kuriam perduotos šio asmens teisės ir
+asmuo, kuriam perduotos šio asmens teisės ir pareigos.
 
-pareigos.
+Straipsnio pakeitimai:
 
-98 straipsnis. Muitinės sandėlio steigimas
+Nr. IX-624,
 
-1.
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-Turėti muitinės sandėlį asmuo gali tiktai gavęs muitinės leidimą. Pačiai
+98 straipsnis. Muitinės sandėlio
 
-muitinei turėti sandėlį tokio leidimo nereikia.
+steigimas
 
-2.
+1. Turėti muitinės sandėlį asmuo gali
 
-Jeigu asmuo pageidauja steigti muitinės sandėlį, jis turi kreiptis į muitinę su
+tiktai gavęs muitinės leidimą. Pačiai muitinei turėti sandėlį tokio leidimo
 
-raštišku prašymu, kuriame nurodomas sandėlio steigimo ekonominis tikslingumas,
+nereikia.
 
-ir pateikti šio kodekso taikymą reglamentuojančių teisės aktų nustatytus
+2. Jeigu asmuo pageidauja steigti muitinės
 
-leidimui gauti reikalingus dokumentus. Leidime steigti muitinės sandėlį
+sandėlį, jis turi kreiptis į muitinę su raštišku prašymu, kuriame nurodomas
 
-įrašomos nustatytos jo veiklos sąlygos ir šio kodekso 107 straipsnyje nurodytos
+sandėlio steigimo ekonominis tikslingumas, ir pateikti šio kodekso taikymą
 
-įprastinės prekių tvarkymo operacijos, kurias leidžiama jame atlikti.
+reglamentuojančių teisės aktų nustatytus leidimui gauti reikalingus dokumentus.
 
-3.
+Leidime steigti muitinės sandėlį įrašomos nustatytos jo veiklos sąlygos ir šio
 
-Leidimai steigti muitinės sandėlį išduodami tik asmenims, turintiems Lietuvos
+kodekso 107 straipsnyje nurodytos įprastinės prekių tvarkymo operacijos, kurias
 
-Respublikos ūkio subjekto statusą.
+leidžiama jame atlikti.
 
-99
+3. Leidimai steigti muitinės sandėlį
 
-straipsnis. Muitinės sandėlio savininko pareigos
+išduodami tik asmenims, turintiems Lietuvos Respublikos ūkio subjekto statusą.
 
-Muitinės
+99 straipsnis. Muitinės sandėlio
 
-sandėlio savininkas, išskyrus šio kodekso 100 straipsnyje nustatytus atvejus,
+savininko pareigos
 
-privalo:
+Muitinės sandėlio savininkas, išskyrus šio
 
-1)
+kodekso 100 straipsnyje nustatytus atvejus, privalo:
 
-užtikrinti, kad muitinės sandėlyje saugomos prekės be muitinės leidimo nebūtų
-
-iš jo išgabentos;
-
-2)
-
-vykdyti visus įsipareigojimus, susijusius su prekių, kurioms taikoma muitinio
-
-sandėliavimo procedūra, saugojimu sandėlyje;
-
-3)
-
-laikytis leidime steigti muitinės sandėlį nurodytų veiklos sąlygų;
-
-4)
-
-vykdyti kitas šio kodekso 102 ir 103 straipsniuose bei jo taikymą
-
-reglamentuojančiuose teisės aktuose nurodytas pareigas.
-
-100
-
-straipsnis. Muitinio sandėliavimo procedūros vykdytojo atsakomybė
-
-1.
-
-Leidime steigti atvirąjį muitinės sandėlį gali būti nurodyta, kad už šio kodekso
-
-99 straipsnio 1 ir (arba) 2 punktuose nurodytų sąlygų laikymąsi atsako tik
-
-muitinio sandėliavimo procedūros vykdytojas.
-
-2.
-
-Muitinio sandėliavimo procedūros vykdytojas atsako už įsipareigojimų, susijusių
-
-su šios muitinės procedūros taikymu prekėms, įvykdymą.
-
-99 straipsnis. Muitinės sandėlio savininko
-
-pareigos
-
-Muitinės  sandėlio savininkas, išskyrus
-
-šio  kodekso  100 straipsnyje nustatytus atvejus, privalo:
-
-1)  užtikrinti, kad muitinės sandėlyje
+1) užtikrinti, kad muitinės sandėlyje
 
 saugomos prekės be muitinės leidimo nebūtų iš jo išgabentos;
 
-2)  vykdyti visus įsipareigojimus,
+2) vykdyti visus įsipareigojimus,
 
-susijusius su  prekių, kurioms  taikoma  muitinio sandėliavimo  procedūra,
+susijusius su prekių, kurioms taikoma muitinio sandėliavimo procedūra, saugojimu
 
-saugojimu sandėlyje;
+sandėlyje;
 
-3)  laikytis  leidime steigti muitinės
+3) laikytis leidime steigti muitinės
 
-sandėlį  nurodytų veiklos sąlygų;
+sandėlį nurodytų veiklos sąlygų;
 
 4) vykdyti kitas šio kodekso 102 ir 103
 
-straipsniuose bei jo   taikymą  reglamentuojančiuose  teisės  aktuose
+straipsniuose bei jo taikymą reglamentuojančiuose teisės aktuose nurodytas
 
-nurodytas pareigas.
+pareigas.
 
-100 straipsnis.   Muitinio
+100 straipsnis. Muitinio sandėliavimo
 
-sandėliavimo   procedūros vykdytojo atsakomybė
+procedūros vykdytojo atsakomybė
 
-1.  Leidime steigti atvirąjį muitinės
+1. Leidime steigti atvirąjį muitinės
 
-sandėlį  gali  būti nurodyta,  kad  už šio kodekso 99 straipsnio  1  ir
+sandėlį gali būti nurodyta, kad už šio kodekso 99 straipsnio 1 ir (arba) 2
 
-(arba)  2 punktuose  nurodytų  sąlygų  laikymąsi  atsako  tik   muitinio
+punktuose nurodytų sąlygų laikymąsi atsako tik muitinio sandėliavimo procedūros
 
-sandėliavimo procedūros vykdytojas.
+vykdytojas.
 
-2.  Muitinio sandėliavimo procedūros
+2. Muitinio sandėliavimo procedūros
 
 vykdytojas atsako už įsipareigojimų, susijusių su šios muitinės procedūros
 
 taikymu prekėms, įvykdymą.
 
-101 straipsnis. Muitinės sandėlio savininko teisių ir
+101 straipsnis. Muitinės sandėlio
 
-pareigų perdavimas
+savininko teisių ir pareigų perdavimas
 
-Jei Muitinės departamentas sutinka,
+Jei Muitinės departamentas
 
-muitinės sandėlio savininko teisės ir pareigos gali būti perduotos kitam
+sutinka, muitinės sandėlio savininko teisės ir pareigos gali būti perduotos
 
-asmeniui, išskyrus atvejus, kai muitinės sandėlį turi pati muitinė.
+kitam asmeniui, išskyrus atvejus, kai muitinės sandėlį turi pati muitinė.
 
-102 straipsnis. Muitinės sandėlio savininko garantijos
+102 straipsnis. Muitinės sandėlio
 
-pateikimas
+savininko garantijos pateikimas
 
-Remiantis šio kodekso 86 straipsniu, jo taikymą
+Remiantis šio kodekso 86 straipsniu, jo
 
-reglamentuojančių teisės aktų nustatyta tvarka gali būti reikalaujama, kad
+taikymą reglamentuojančių teisės aktų nustatyta tvarka gali būti reikalaujama,
 
-muitinės sandėlio savininkas pateiktų šio kodekso 99 straipsnyje nustatytų
+kad muitinės sandėlio savininkas pateiktų šio kodekso 99 straipsnyje nustatytų
 
 sąlygų įvykdymą užtikrinančią garantiją.
 
-103 straipsnis. Muitinės sandėlyje laikomų prekių
+103 straipsnis. Muitinės sandėlyje
 
-apskaita
+laikomų prekių apskaita
 
-1. Muitinės sandėlio savininkas privalo
+1. Muitinės sandėlio savininkas
 
-užtikrinti, kad muitinės sandėlyje būtų tvarkoma visų prekių, kurioms įforminta
+privalo užtikrinti, kad muitinės sandėlyje būtų tvarkoma visų prekių, kurioms
 
-muitinio sandėliavimo procedūra, apskaita. Apskaitos tvarką muitinės sandėlio
+įforminta muitinio sandėliavimo procedūra, apskaita. Apskaitos tvarką muitinės
 
-savininkas derina su muitine. Tipinę muitinės sandėlio apskaitos tvarką nustato
+sandėlio savininkas derina su muitine. Tipinę muitinės sandėlio apskaitos
 
-Muitinės departamentas.
+tvarką nustato Muitinės departamentas.
 
-2.
+2. Taikydama šio kodekso 84 straipsnį,
 
-Taikydama šio kodekso 84 straipsnį, muitinė neprivalo reikalauti, kad muitinės
+muitinė neprivalo reikalauti, kad muitinės sandėlio savininkas tvarkytų
 
-sandėlio savininkas tvarkytų apskaitą, jeigu šio kodekso 99 straipsnio 1 ir
+apskaitą, jeigu šio kodekso 99 straipsnio 1 ir (arba) 2 punktuose nustatyta
 
-(arba) 2 punktuose nustatyta atsakomybė tenka tik muitinio sandėliavimo
+atsakomybė tenka tik muitinio sandėliavimo procedūros vykdytojui ir prekės
 
-procedūros vykdytojui ir prekės pateikiamos šiai muitinės procedūrai įforminti
+pateikiamos šiai muitinės procedūrai įforminti deklaruojant raštu ir netaikant
 
-deklaruojant raštu ir netaikant supaprastintos procedūros.
+supaprastintos procedūros.
 
-104
+104 straipsnis. Muitinės sandėlio
 
-straipsnis. Muitinės sandėlio naudojimas laikyti prekėms, kurioms netaikoma
+naudojimas laikyti prekėms, kurioms netaikoma
 
 muitinio sandėliavimo procedūra
 
-1.
+1. Jeigu yra ekonominis poreikis ir jeigu
 
-Jeigu yra ekonominis poreikis ir jeigu tai netrukdo taikyti muitinės priežiūros
+tai netrukdo taikyti muitinės priežiūros priemones, muitinė turi teisę leisti:
 
-priemones, muitinė turi teisę leisti:
+1) laikyti muitinės sandėlyje Lietuvos
 
-1)
+prekes;
 
-laikyti muitinės sandėlyje Lietuvos prekes;
+2) perdirbti muitinės sandėlyje ne
 
-2)
+Lietuvos prekes taikant laikinojo įvežimo perdirbti procedūrą ir laikantis šiai
 
-perdirbti muitinės sandėlyje ne Lietuvos prekes taikant laikinojo įvežimo
+muitinės procedūrai nustatytų reikalavimų. Kaip supaprastinami muitinės
 
-perdirbti procedūrą ir laikantis šiai muitinės procedūrai nustatytų
+formalumai laikinojo įvežimo perdirbti procedūrą atliekant muitinės sandėlyje,
 
-reikalavimų. Kaip supaprastinami muitinės formalumai laikinojo įvežimo
+nustato šio kodekso taikymą reglamentuojantys teisės aktai;
 
-perdirbti procedūrą atliekant muitinės sandėlyje, nustato šio kodekso taikymą
+3) perdirbti muitinės sandėlyje ne
 
-reglamentuojantys teisės aktai;
+Lietuvos prekes taikant muitinės prižiūrimo perdirbimo procedūrą ir laikantis
 
-3)
+šiai muitinės procedūrai nustatytų reikalavimų. Kaip supaprastinami muitinės
 
-perdirbti muitinės sandėlyje ne Lietuvos prekes taikant muitinės prižiūrimo
+formalumai atliekant muitinės prižiūrimo perdirbimo procedūrą muitinės
 
-perdirbimo procedūrą ir laikantis šiai muitinės procedūrai nustatytų
+sandėlyje, nustato šio kodekso taikymą reglamentuojantys teisės aktai.
 
-reikalavimų. Kaip supaprastinami muitinės formalumai atliekant muitinės
+2. Šio straipsnio 1 dalyje nurodytais
 
-prižiūrimo perdirbimo procedūrą muitinės sandėlyje, nustato šio kodekso taikymą
+atvejais muitinio sandėliavimo procedūra prekėms netaikoma.
 
-reglamentuojantys teisės aktai.
+3. Muitinė turi teisę reikalauti, kad šio
 
-2.
+straipsnio 1 dalyje nurodytos prekės būtų įtraukiamos į apskaitą šio kodekso
 
-Šio straipsnio 1 dalyje nurodytais atvejais muitinio sandėliavimo procedūra
-
-prekėms netaikoma.
-
-3.
-
-Muitinė turi teisę reikalauti, kad šio straipsnio 1 dalyje nurodytos prekės
-
-būtų įtraukiamos į apskaitą šio kodekso 103 straipsnio 1 dalyje nustatyta
-
-tvarka.
+103 straipsnio 1 dalyje nustatyta tvarka.
 
 105
 
@@ -4088,193 +4330,209 @@ straipsnis. Prekių
 
 įtraukimas į muitinės sandėlio apskaitą
 
-Prekes, kurioms įforminta muitinio
+Prekes, kurioms įforminta
 
-sandėliavimo procedūra, padėjus į muitinės sandėlį, būtina tuoj pat įtraukti į
+muitinio sandėliavimo procedūra, padėjus į muitinės sandėlį, būtina tuoj pat
 
-šio kodekso 103 straipsnio 1 dalyje nurodytą apskaitą.
+įtraukti į šio kodekso 103 straipsnio 1 dalyje nurodytą apskaitą.
 
-104  straipsnis.  Muitinės  sandėlio
+106 straipsnis. Prekių laikymo
 
-naudojimas  laikyti prekėms, kurioms     netaikoma muitinio
-
-sandėliavimo procedūra
-
-1.  Jeigu  yra ekonominis poreikis ir
-
-jeigu tai  netrukdo taikyti  muitinės  priežiūros priemones,  muitinė  turi
-
-teisę leisti:
-
-1) laikyti muitinės sandėlyje Lietuvos
-
-prekes;
-
-2)   perdirbti  muitinės  sandėlyje  ne
-
-Lietuvos  prekes taikant  laikinojo  įvežimo perdirbti procedūrą  ir  laikantis
-
-šiai   muitinės   procedūrai   nustatytų   reikalavimų.   Kaip supaprastinami
-
-muitinės formalumai laikinojo įvežimo perdirbti procedūrą  atliekant muitinės
-
-sandėlyje, nustato  šio  kodekso taikymą reglamentuojantys teisės aktai;
-
-3)   perdirbti  muitinės  sandėlyje  ne
-
-Lietuvos  prekes taikant  muitinės prižiūrimo perdirbimo procedūrą ir laikantis
-
-šiai   muitinės   procedūrai   nustatytų   reikalavimų.   Kaip supaprastinami
-
-muitinės   formalumai   atliekant muitinės prižiūrimo perdirbimo procedūrą
-
-muitinės sandėlyje, nustato šio kodekso taikymą reglamentuojantys teisės aktai.
-
-2.  Šio  straipsnio 1 dalyje nurodytais
-
-atvejais muitinio sandėliavimo procedūra prekėms netaikoma.
-
-3.  Muitinė  turi teisę reikalauti, kad
-
-šio straipsnio  1 dalyje  nurodytos  prekės  būtų  įtraukiamos  į  apskaitą
-
-šio kodekso 103 straipsnio 1 dalyje nustatyta tvarka.
-
-105
-
-straipsnis.  Prekių įtraukimas į
-
-muitinės  sandėlio apskaitą
-
-Prekes, kurioms
-
-įforminta   muitinio sandėliavimo procedūra,  padėjus  į  muitinės  sandėlį,
-
-būtina  tuoj   pat įtraukti  į  šio  kodekso  103 straipsnio  1  dalyje
-
-nurodytą apskaitą.
-
-106 straipsnis. Prekių laikymo muitinės sandėlyje
-
-laikas ir uždraudimas sandėliuoti
+muitinės sandėlyje laikas ir uždraudimas sandėliuoti
 
 prekes
 
-1.
+1. Prekių laikymo muitinės sandėlyje
 
-Prekių laikymo muitinės sandėlyje laikas neribojamas. Susidarius ypatingoms
+laikas neribojamas. Susidarius ypatingoms aplinkybėms, muitinė turi teisę
 
-aplinkybėms, muitinė turi teisę nustatyti muitinio sandėliavimo terminą, iki
+nustatyti muitinio sandėliavimo terminą, iki kurio pabaigos muitinio
 
-kurio pabaigos muitinio sandėliavimo procedūros vykdytojas privalo pateikti prekes
+sandėliavimo procedūros vykdytojas privalo pateikti prekes kitiems muitinės
 
-kitiems muitinės sankcionuotiems veiksmams įforminti.
+sankcionuotiems veiksmams įforminti.
 
-2.
+2. Šio kodekso taikymą reglamentuojantys
 
-Šio kodekso taikymą reglamentuojantys teisės aktai gali nustatyti, kurias
+teisės aktai gali nustatyti, kurias prekes laikyti muitinės sandėlyje
 
-prekes laikyti muitinės sandėlyje draudžiama, taip pat tam tikroms prekėms
+draudžiama, taip pat tam tikroms prekėms taikomus muitinio sandėliavimo
 
-taikomus muitinio sandėliavimo terminus.
+terminus.
 
-107 straipsnis. Prekių tvarkymo operacijos muitinės
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-sandėlyje
+2. Šio kodekso taikymą reglamentuojantys
 
-Muitinės sandėlyje leidžiama atlikti
+teisės aktai gali nustatyti, kurias prekes laikyti muitinės sandėlyje
 
-įprastines, šio kodekso taikymą reglamentuojančių teisės aktų nustatytas jame
+draudžiama, tam tikroms prekėms taikomus muitinio sandėliavimo terminus ir šio
 
-laikomų prekių tvarkymo operacijas: jas prižiūrėti, pagerinti prekių išvaizdą,
+straipsnio 1 dalyje paminėtas ypatingas aplinkybes.]
 
-paruošti jas transportavimui, paskirstymui arba pardavimui. Šios prekių
+Straipsnio pakeitimai:
 
-tvarkymo operacijos ir jų atlikimo sąlygos nurodomos leidime steigti muitinės
+Nr. IX-624,
 
-sandėlį.
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-108 straipsnis. Laikinas prekių išgabenimas iš
+107 straipsnis. Prekių tvarkymo
 
-muitinės sandėlio
+operacijos muitinės sandėlyje
 
-1. Susidarius tam tikroms aplinkybėms,
+Muitinės sandėlyje
 
-muitinio sandėliavimo procedūros vykdytojui leidžiama laikinai išgabenti iš
+leidžiama atlikti įprastines, šio kodekso taikymą reglamentuojančių teisės aktų
 
-muitinės sandėlio prekes, kurioms taikoma muitinio sandėliavimo procedūra.
+nustatytas jame laikomų prekių tvarkymo operacijas: jas prižiūrėti, pagerinti
 
-Prekės iš muitinės sandėlio gali būti laikinai išgabenamos tik su muitinės
+prekių išvaizdą, paruošti jas transportavimui, paskirstymui arba pardavimui.
 
-sutikimu ir nustačius tokio išgabenimo sąlygas.
+Šios prekių tvarkymo operacijos ir jų atlikimo sąlygos nurodomos leidime
 
-2. Su laikinai išgabentomis iš muitinės
+steigti muitinės sandėlį.
 
-sandėlio prekėmis, laikantis nustatytų sąlygų, gali būti atliekamos šio kodekso
+108 straipsnis. Laikinas prekių
 
-107 straipsnyje nurodytos prekių tvarkymo operacijos.
+išgabenimas iš muitinės sandėlio
 
-109 straipsnis. Prekių perkėlimas iš vieno muitinės sandėlio
+1. Susidarius tam tikroms
 
-į kitą
+aplinkybėms, muitinio sandėliavimo procedūros vykdytojui leidžiama laikinai
 
-Jeigu muitinė sutinka, prekės, kurioms taikoma
+išgabenti iš muitinės sandėlio prekes, kurioms taikoma muitinio sandėliavimo
 
-muitinio sandėliavimo procedūra, gali būti perkeltos iš vieno muitinės sandėlio
+procedūra. Prekės iš muitinės sandėlio gali būti laikinai išgabenamos tik su
 
-į kitą.
+muitinės sutikimu ir nustačius tokio išgabenimo sąlygas.
 
-110 straipsnis. Muitų ir mokesčių už muitinės
+2. Su laikinai išgabentomis
 
-sandėlyje laikomas prekes apskaičiavimas
+iš muitinės sandėlio prekėmis, laikantis nustatytų sąlygų, gali būti atliekamos
 
-1. Jeigu importuojant muitinės sandėlyje
+šio kodekso 107 straipsnyje nurodytos prekių tvarkymo operacijos.
 
-laikytas prekes atsiranda skola muitinei ir jeigu tokių prekių muitinė vertė
+109 straipsnis. Prekių perkėlimas iš
 
-nustatoma remiantis sumokėta ar priklausančia sumokėti pinigų suma, į kurią
+vieno muitinės sandėlio į kitą
 
-įtrauktos prekių sandėliavimo ir (arba) priežiūros muitinės sandėlyje išlaidos,
+Jeigu muitinė sutinka, prekės, kurioms
 
-šios išlaidos neturi būti įtraukiamos į prekių muitinę vertę, jeigu jos
+taikoma muitinio sandėliavimo procedūra, gali būti perkeltos iš vieno muitinės
 
-nurodytos atskirai nuo pinigų sumos, sumokėtos ar priklausančios sumokėti už
+sandėlio į kitą.
 
-prekes.
+110 straipsnis. Muitų ir mokesčių už
 
-2.
+muitinės sandėlyje laikomas prekes apskaičiavimas
 
-Jeigu buvo atliktos muitinės sandėlyje laikomų prekių tvarkymo operacijos,
+1. Jeigu importuojant muitinės
 
-nurodytos šio kodekso 107 straipsnyje, deklaranto prašymu turi būti laikoma,
+sandėlyje laikytas prekes atsiranda skola muitinei ir jeigu tokių prekių
 
-kad prekių rūšis, muitinė vertė ir kiekis, pagal kuriuos nustatoma importo
+muitinė vertė nustatoma remiantis sumokėta ar priklausančia sumokėti pinigų
 
-muitų ir mokesčių suma, šio kodekso 197 straipsnyje nurodytu laiku atitiko
+suma, į kurią įtrauktos prekių sandėliavimo ir (arba) priežiūros muitinės
 
-nurodytąsias prekes, kurių tvarkymo operacijos nebuvo atliktos. Šio kodekso
+sandėlyje išlaidos, šios išlaidos neturi būti įtraukiamos į prekių muitinę
 
-taikymą reglamentuojančių teisės aktų nustatytais atvejais šios dalies nuostatų
+vertę, jeigu jos nurodytos atskirai nuo pinigų sumos, sumokėtos ar
 
-taikymo tvarka gali būti pakeista.
+priklausančios sumokėti už prekes.
 
-3.
+2. Jeigu buvo atliktos muitinės sandėlyje
 
-Jeigu prieš pateikiant atitinkamą muitinės deklaraciją šio kodekso 75
+laikomų prekių tvarkymo operacijos, nurodytos šio kodekso 107 straipsnyje,
 
-straipsnyje nustatyta tvarka prekės išleidžiamos laisvai cirkuliuoti
+deklaranto prašymu turi būti laikoma, kad prekių rūšis, muitinė vertė ir
 
-nepateikiant jų muitinei, importo muitai ir mokesčiai už šias prekes
+kiekis, pagal kuriuos nustatoma importo muitų ir mokesčių suma, šio kodekso 197
 
-apskaičiuojami remiantis muitų ir mokesčių normomis, taikytomis prekių
+straipsnyje nurodytu laiku atitiko nurodytąsias prekes, kurių tvarkymo
 
-pateikimo muitinio sandėliavimo procedūrai įforminti dieną. Tokia tvarka
+operacijos nebuvo atliktos. Šio kodekso taikymą reglamentuojančių teisės aktų
 
-taikoma pagal šio kodekso 197 straipsnį nustatant skolos muitinei dydį,
+nustatytais atvejais šios dalies nuostatų taikymo tvarka gali būti pakeista.
 
-išskyrus atvejus, kai vadovaujantis šio kodekso 77 straipsniu remiamasi
+3. Jeigu prieš pateikiant atitinkamą
+
+muitinės deklaraciją šio kodekso 75 straipsnyje nustatyta tvarka prekės
+
+išleidžiamos laisvai cirkuliuoti nepateikiant jų muitinei, importo muitai ir
+
+mokesčiai už šias prekes apskaičiuojami remiantis muitų ir mokesčių normomis,
+
+taikytomis prekių pateikimo muitinio sandėliavimo procedūrai įforminti dieną.
+
+Tokia tvarka taikoma pagal šio kodekso 197 straipsnį nustatant skolos muitinei
+
+dydį, išskyrus atvejus, kai vadovaujantis šio kodekso 77 straipsniu remiamasi
 
 anksčiau įformintų muitinės deklaracijų tikrinimo rezultatais.
+
+[2 ir 3 dalių redakcija nuo 2002 m. birželio 1 d.:
+
+2. Jeigu buvo atliktos muitinės
+
+sandėlyje laikomų prekių tvarkymo operacijos, nurodytos šio kodekso 107
+
+straipsnyje, deklaranto prašymu turi būti laikoma, kad prekių rūšis, muitinė
+
+vertė ir kiekis, pagal kuriuos nustatoma importo muitų ir mokesčių suma, šio
+
+kodekso 197 straipsnyje nurodytu laiku atitiko nurodytąsias prekes, kurių
+
+tvarkymo operacijos nebuvo atliktos. Šio kodekso taikymą reglamentuojančių
+
+teisės aktų nustatytais atvejais šios dalies nuostatų taikymo tvarka gali būti
+
+pakeista nustatant, kada importo muitų ir mokesčių suma apskaičiuojama
+
+remiantis prekių, kurių tvarkymo operacijos atliktos, rūšimi, muitine verte ir
+
+kiekiu.
+
+3. Jeigu importuotos prekės išleidžiamos
+
+laisvai cirkuliuoti šio kodekso 75 straipsnio 1 dalies 3 punkto nustatyta
+
+tvarka, laikoma, kad prekių rūšis, muitinė vertė ir kiekis, kuriais remiamasi
+
+pagal šio kodekso 197 straipsnį nustatant skolos muitinei dydį, yra tokie,
+
+kokie buvo tada, kai atitinkamoms prekėms buvo įforminta muitinio sandėliavimo
+
+procedūra. Tokiais atvejais skolos muitinei dydis apskaičiuojamas vadovaujantis
+
+importo muitų ir mokesčių normomis bei apskaičiavimo taisyklėmis, taikytomis tą
+
+dieną, kai buvo priimta importo muitinės deklaracija atitinkamų prekių muitinio
+
+sandėliavimo procedūrai, ir muitinės nustatytomis arba priimtomis prekių
+
+charakteristikomis, kurios reikalingos šioms normoms bei taisyklėms taikyti ir
+
+kurias prekės turėjo minėtos deklaracijos priėmimo momentu, išskyrus atvejus,
+
+kai deklarantas prašo apskaičiuoti skolos muitinei dydį remiantis importo muitų
+
+ir mokesčių normomis bei apskaičiavimo taisyklėmis, taikytomis jos atsiradimo
+
+dieną, ir muitinės nustatytomis arba priimtomis prekių charakteristikomis,
+
+kurios reikalingos šioms normoms bei taisyklėms taikyti ir kurias prekės turėjo
+
+skolos muitinei atsiradimo momentu, arba kai vadovaujantis šio kodekso 77
+
+straipsniu remiamasi anksčiau įformintų muitinės deklaracijų tikrinimo
+
+rezultatais.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 Septintasis skirsnis
 
@@ -4282,163 +4540,163 @@ LAIKINASIS ĮVEŽIMAS PERDIRBTI
 
 111 straipsnis. Bendrosios nuostatos
 
-1.
+1. Atsižvelgiant į šio kodekso 112
 
-Atsižvelgiant į šio kodekso 112 straipsnio nuostatas, laikinojo įvežimo
+straipsnio nuostatas, laikinojo įvežimo perdirbti procedūra taikoma Lietuvos
 
-perdirbti procedūra taikoma Lietuvos Respublikos muitų teritorijoje atliekant
+Respublikos muitų teritorijoje atliekant vieną arba kelias perdirbimo
 
-vieną arba kelias perdirbimo operacijas su:
+operacijas su:
 
-1)
+1) ne Lietuvos prekėmis, skirtomis
 
-ne Lietuvos prekėmis, skirtomis reeksportuoti suteikus joms kompensacinių
+reeksportuoti suteikus joms kompensacinių produktų pavidalą, neapmokestinant
 
-produktų pavidalą, neapmokestinant šių prekių importo muitais bei mokesčiais ir
+šių prekių importo muitais bei mokesčiais ir netaikant ekonominių draudimų bei
 
-netaikant ekonominių draudimų bei apribojimų;
+apribojimų;
 
-2)
+2) išleistomis laisvai cirkuliuoti
 
-išleistomis laisvai cirkuliuoti prekėmis, už kurias nustatyti importo muitai ir
+prekėmis, už kurias nustatyti importo muitai ir mokesčiai sugrąžinami arba
 
-mokesčiai sugrąžinami arba atsisakoma juos išieškoti, jeigu šios prekės
+atsisakoma juos išieškoti, jeigu šios prekės eksportuojamos suteikus joms
 
-eksportuojamos suteikus joms kompensacinių produktų pavidalą;
+kompensacinių produktų pavidalą;
 
-2.
+2. Nustatant laikinojo įvežimo perdirbti
 
-Nustatant laikinojo įvežimo perdirbti procedūros atlikimo tvarką, vartojamos
+procedūros atlikimo tvarką, vartojamos šios sąvokos:
 
-šios sąvokos:
+1) sąlyginio neapmokestinimo sistema -
 
-1)
+laikinojo įvežimo perdirbti procedūra, kurią atliekant neapmokestinimas importo
 
-sąlyginio neapmokestinimo sistema - laikinojo įvežimo perdirbti procedūra,
+muitais ir mokesčiais taikomas šio straipsnio 1 dalies 1 punkte nurodytu būdu;
 
-kurią atliekant neapmokestinimas importo muitais ir mokesčiais taikomas šio
+2) drobeko sistema - laikinojo įvežimo
 
-straipsnio 1 dalies 1 punkte nurodytu būdu;
+perdirbti procedūra, kurią atliekant neapmokestinimas importo muitais ir
 
-2)
+mokesčiais taikomas šio straipsnio 1 dalies 2 punkte nurodytu būdu;
 
-drobeko sistema - laikinojo įvežimo perdirbti procedūra, kurią atliekant neapmokestinimas
+3) perdirbimo operacijos:
 
-importo muitais ir mokesčiais taikomas šio straipsnio 1 dalies 2 punkte
+a) prekių apdorojimas, įskaitant jų
 
-nurodytu būdu;
+surinkimą, montažą arba sujungimą su kitomis prekėmis;
 
-3)
+b) prekių perdirbimas;
 
-perdirbimo operacijos:
+c) prekių remontas, įskaitant jų
 
-a)
+restauraciją ir taisymą;
 
-prekių apdorojimas, įskaitant jų surinkimą, montažą arba sujungimą su kitomis
+d) naudojimas šio kodekso taikymą
 
-prekėmis;
+reglamentuojančių teisės aktų nustatytų prekių, kurių neįmanoma identifikuoti
 
-b)
+kompensaciniuose produktuose. Jas naudojant palengvinama kompensacinių produktų
 
-prekių perdirbimas;
+gamyba, net jeigu šios prekės visai ar iš dalies sunaudojamos;
 
-c)
+4) kompensaciniai produktai - produktai,
 
-prekių remontas, įskaitant jų restauraciją ir taisymą;
+gauti atlikus perdirbimo operacijas;
 
-d)
+5) ekvivalentiškos prekės - Lietuvos
 
-naudojimas šio kodekso taikymą reglamentuojančių teisės aktų nustatytų prekių,
+prekės, kurios gali būti naudojamos gaminant kompensacinius produktus vietoj
 
-kurių neįmanoma identifikuoti kompensaciniuose produktuose. Jas naudojant
+laikinai įvežtų perdirbti prekių;
 
-palengvinama kompensacinių produktų gamyba, net jeigu šios prekės visai ar iš
+6) išeiga - kompensacinių produktų kiekis
 
-dalies sunaudojamos;
+(norma), gautas perdirbus tam tikrą kiekį laikinai įvežtų perdirbti prekių.
 
-4)
+112 straipsnis. Ekvivalentiškų
 
-kompensaciniai produktai - produktai, gauti atlikus perdirbimo operacijas;
+prekių naudojimas
 
-5)
+1. Jeigu laikomasi šio straipsnio 2 dalyje
 
-ekvivalentiškos prekės - Lietuvos prekės, kurios gali būti naudojamos gaminant
+nustatytų sąlygų ir muitinė sutinka, taip pat atsižvelgus į šio straipsnio 4
 
-kompensacinius produktus vietoj laikinai įvežtų perdirbti prekių;
+dalies nuostatas:
 
-6)
+1) kompensaciniai produktai gali būti
 
-išeiga - kompensacinių produktų kiekis (norma), gautas perdirbus tam tikrą
+gauti iš ekvivalentiškų prekių;
 
-kiekį laikinai įvežtų perdirbti prekių.
+2) kompensaciniai produktai, gauti iš
 
-112 straipsnis. Ekvivalentiškų prekių naudojimas
+ekvivalentiškų prekių, gali būti išvežti iš Lietuvos Respublikos muitų
 
-1.
+teritorijos prieš laikinai įvežant prekes perdirbti.
 
-Jeigu laikomasi šio straipsnio 2 dalyje nustatytų sąlygų ir muitinė sutinka,
+2. Ekvivalentiškos prekės savo kokybe ir
 
-taip pat atsižvelgus į šio straipsnio 4 dalies nuostatas:
+charakteristikomis turi atitikti laikinai įvežtas perdirbti prekes. Tam tikrais
 
-1)
+atvejais, nustatytais šio kodekso taikymą reglamentuojančių teisės aktų,
 
-kompensaciniai produktai gali būti gauti iš ekvivalentiškų prekių;
+ekvivalentiškų prekių gamybos arba perdirbimo stadija gali būti aukštesnė už
 
-2)
+laikinai įvežtų perdirbti prekių.
 
-kompensaciniai produktai, gauti iš ekvivalentiškų prekių, gali būti išvežti iš
+3. Taikydama šio straipsnio 1 dalį,
 
-Lietuvos Respublikos muitų teritorijos prieš laikinai įvežant prekes perdirbti.
+laikinai įvežtas perdirbti prekes muitinė laiko ekvivalentiškomis prekėmis, o
 
-2.
+šias - laikinai įvežtomis perdirbti prekėmis.
 
-Ekvivalentiškos prekės savo kokybe ir charakteristikomis turi atitikti laikinai
+4. Šio kodekso taikymą
 
-įvežtas perdirbti prekes. Tam tikrais atvejais, nustatytais šio kodekso taikymą
+reglamentuojančiuose teisės aktuose gali būti nustatyta atvejų, kai draudžiama
 
-reglamentuojančių teisės aktų, ekvivalentiškų prekių gamybos arba perdirbimo
+taikyti šio straipsnio 1 dalį arba jos taikymas apribojamas.
 
-stadija gali būti aukštesnė už laikinai įvežtų perdirbti prekių.
+[4 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-3.
+4. Šio kodekso taikymą
 
-Taikydama šio straipsnio 1 dalį, laikinai įvežtas perdirbti prekes muitinė
+reglamentuojančiuose teisės aktuose gali būti nustatyta atvejų, kai draudžiama
 
-laiko ekvivalentiškomis prekėmis, o šias - laikinai įvežtomis perdirbti prekėmis.
+taikyti šio straipsnio 1 dalį, jos taikymas apribojamas arba nustatomos
 
-4.
+lengvesnės šios straipsnio dalies taikymo sąlygos.]
 
-Šio kodekso taikymą reglamentuojančiuose teisės aktuose gali būti nustatyta
+5. Jeigu taikomas šio straipsnio 1 dalies
 
-atvejų, kai draudžiama taikyti šio straipsnio 1 dalį arba jos taikymas
+2 punktas ir už kompensacinius produktus, jeigu jie nebūtų eksportuojami arba
 
-apribojamas.
+reeksportuojami įforminus laikinojo įvežimo perdirbti procedūrą, turėtų būti
 
-5.
+mokami eksporto muitai ir (arba) mokesčiai, laikinojo įvežimo perdirbti
 
-Jeigu taikomas šio straipsnio 1 dalies 2 punktas ir už kompensacinius
+procedūros vykdytojas turi pateikti garantiją, užtikrinančią, kad muitai ir
 
-produktus, jeigu jie nebūtų eksportuojami arba reeksportuojami įforminus
+(arba) mokesčiai bus sumokėti, jeigu laikinai įvežamos perdirbti
 
-laikinojo įvežimo perdirbti procedūrą, turėtų būti mokami eksporto muitai ir
+(ekvivalentiškos) prekės per nustatytą laikotarpį nebus įvežtos.
 
-(arba) mokesčiai, laikinojo įvežimo perdirbti procedūros vykdytojas turi
+Straipsnio pakeitimai:
 
-pateikti garantiją, užtikrinančią, kad muitai ir (arba) mokesčiai bus sumokėti,
+Nr. IX-624,
 
-jeigu laikinai įvežamos perdirbti (ekvivalentiškos) prekės per nustatytą
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-laikotarpį nebus įvežtos.
+113 straipsnis. Leidimo perdirbti
 
-113 straipsnis. Leidimo perdirbti laikinai įvežtas
+laikinai įvežtas prekes išdavimas
 
-prekes išdavimas
+Leidimas perdirbti laikinai įvežtas
 
-Leidimas perdirbti laikinai įvežtas prekes išduodamas
+prekes išduodamas muitinei prašymą pateikusiam asmeniui, atliekančiam visas
 
-muitinei prašymą pateikusiam asmeniui, atliekančiam visas perdirbimo operacijas
+perdirbimo operacijas arba jų dalį, ar asmeniui, organizuojančiam prekių perdirbimo
 
-arba jų dalį, ar asmeniui, organizuojančiam prekių perdirbimo procesą.
+procesą.
 
 Straipsnio pakeitimai:
 
@@ -4450,329 +4708,407 @@ Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
 
-114 straipsnis. Leidimo perdirbti laikinai įvežtas
+114 straipsnis. Leidimo perdirbti
 
-prekes išdavimo sąlygos
+laikinai įvežtas prekes išdavimo sąlygos
 
-Leidimas perdirbti laikinai įvežtas prekes
+Leidimas perdirbti laikinai
 
-išduodamas tik tuo atveju, jeigu:
+įvežtas prekes išduodamas tik tuo atveju, jeigu:
 
-1) prašymą pateikęs asmuo turi Lietuvos
+1) prašymą pateikęs asmuo
 
-Respublikos ūkio subjekto statusą. Asmenims, neturintiems šio ūkio subjekto
+turi Lietuvos Respublikos ūkio subjekto statusą. Asmenims, neturintiems šio
 
-statuso, leidimai gali būti išduodami tik laikinai įvežtoms prekėms perdirbti
+ūkio subjekto statuso, leidimai gali būti išduodami tik laikinai įvežtoms
 
-nekomerciniais tikslais;
+prekėms perdirbti nekomerciniais tikslais;
 
-2) laikinai įvežtos perdirbti prekės,
+2) laikinai įvežtos
 
-išskyrus nurodytas šio kodekso 111 straipsnio 2 dalies 3 punkto d papunktyje,
+perdirbti prekės, išskyrus nurodytas šio kodekso 111 straipsnio 2 dalies 3
 
-gali būti identifikuotos kompensaciniuose produktuose arba šio kodekso 112
+punkto d papunktyje, gali būti identifikuotos kompensaciniuose produktuose arba
 
-straipsnyje nurodytais atvejais gali būti patikrinta, kaip vykdomos
+šio kodekso 112 straipsnyje nurodytais atvejais gali būti patikrinta, kaip
 
-ekvivalentiškų prekių naudojimo sąlygos;
+vykdomos ekvivalentiškų prekių naudojimo sąlygos;
 
-3) laikinojo įvežimo procedūros taikymas
+3) laikinojo įvežimo
 
-sudaro palankias sąlygas kompensaciniams produktams eksportuoti arba reeksportuoti
+procedūros taikymas sudaro palankias sąlygas kompensaciniams produktams
 
-ir nėra pažeidžiami esminiai Lietuvos Respublikos gamintojų interesai, t.y.
+eksportuoti arba reeksportuoti ir nėra pažeidžiami esminiai Lietuvos
 
-laikomasi laikinojo įvežimo perdirbti tikslingumo sąlygų, kurias nustato šio
+Respublikos gamintojų interesai, t.y. laikomasi laikinojo įvežimo perdirbti
 
-kodekso taikymą reglamentuojantys teisės aktai.
+tikslingumo sąlygų, kurias nustato šio kodekso taikymą reglamentuojantys teisės
 
-115 straipsnis. Laikinojo įvežimo perdirbti procedūros
+aktai.
 
-laikotarpis
+115 straipsnis. Laikinojo įvežimo
 
-1.
+perdirbti procedūros laikotarpis
 
-Muitinė nustato laikotarpį, per kurį kompensaciniai produktai turi būti
+1. Muitinė nustato laikotarpį, per kurį
 
-eksportuoti, reeksportuoti arba pateikti kitiems muitinės sankcionuotiems
+kompensaciniai produktai turi būti eksportuoti, reeksportuoti arba pateikti
 
-veiksmams įforminti. Laikotarpis nustatomas atsižvelgiant į numatomą perdirbimo
+kitiems muitinės sankcionuotiems veiksmams įforminti. Laikotarpis nustatomas
 
-operacijų ir kompensacinių produktų išvežimo arba kitų veiksmų su produktais
+atsižvelgiant į numatomą perdirbimo operacijų ir kompensacinių produktų
 
-atlikimo trukmę.
+išvežimo arba kitų veiksmų su produktais atlikimo trukmę.
 
-2.
+2. Nurodytas laikotarpis skaičiuojamas nuo
 
-Nurodytas laikotarpis skaičiuojamas nuo ne Lietuvos prekių laikinojo įvežimo
+ne Lietuvos prekių laikinojo įvežimo perdirbti procedūros įforminimo dienos.
 
-perdirbti procedūros įforminimo dienos. Muitinė išimties tvarka dėl
+Muitinė išimties tvarka dėl susidariusių ypatingų aplinkybių, kai laikinojo
 
-susidariusių ypatingų aplinkybių, kai laikinojo įvežimo perdirbti procedūros
+įvežimo perdirbti procedūros vykdytojas pateikia motyvuotą prašymą, gali
 
-vykdytojas pateikia motyvuotą prašymą, gali pratęsti šį laikotarpį. Kad būtų
+pratęsti šį laikotarpį. Kad būtų paprasčiau, šio kodekso taikymą
 
-paprasčiau, šio kodekso taikymą reglamentuojančių teisės aktų nurodytais
+reglamentuojančių teisės aktų nurodytais atvejais ir tvarka gali būti
 
-atvejais ir tvarka gali būti nustatyta, kad, skaičiuojant einamąjį kalendorinį
+nustatyta, kad, skaičiuojant einamąjį kalendorinį mėnesį arba ketvirtį
 
-mėnesį arba ketvirtį prasidedančio laikotarpio trukmę, jo pabaiga bus
+prasidedančio laikotarpio trukmę, jo pabaiga bus ateinančio kalendorinio
 
-ateinančio kalendorinio mėnesio arba ketvirčio paskutinė diena.
+mėnesio arba ketvirčio paskutinė diena.
 
-3.
+3. Jeigu taikomas šio kodekso 112
 
-Jeigu taikomas šio kodekso 112 straipsnio 1 dalies 2 punktas, muitinė nustato
+straipsnio 1 dalies 2 punktas, muitinė nustato laikotarpį, per kurį ne Lietuvos
 
-laikotarpį, per kurį ne Lietuvos prekės turi būti pateiktos laikinojo įvežimo
+prekės turi būti pateiktos laikinojo įvežimo perdirbti procedūrai įforminti.
 
-perdirbti procedūrai įforminti. Šis laikotarpis skaičiuojamas nuo tos dienos,
+Šis laikotarpis skaičiuojamas nuo tos dienos, kai priimta eksporto muitinės
 
-kai priimta eksporto muitinės deklaracija, pateikta išvežti kompensaciniams
+deklaracija, pateikta išvežti kompensaciniams produktams, gautiems iš
 
-produktams, gautiems iš atitinkamų ekvivalentiškų prekių.
+atitinkamų ekvivalentiškų prekių.
 
-4.
+4. Šio kodekso taikymą reglamentuojantys
 
-Šio kodekso taikymą reglamentuojantys teisės aktai gali apriboti laikinojo
+teisės aktai gali apriboti laikinojo įvežimo perdirbti laikotarpio trukmę. Šie
 
-įvežimo perdirbti laikotarpio trukmę. Šie apribojimai taikomi atliekant tam
+apribojimai taikomi atliekant tam tikras perdirbimo operacijas ar perdirbant
 
-tikras perdirbimo operacijas ar perdirbant tam tikras prekes.
+tam tikras prekes.
 
-116 straipsnis. Kompensacinių produktų išeiga
+116 straipsnis. Kompensacinių
 
-1. Muitinė nustato kompensacinių produktų
+produktų išeiga
 
-išeigą arba tam tikrais atvejais jos apskaičiavimo metodą. Išeiga nustatoma
+1. Muitinė nustato
 
-remiantis informacija apie aplinkybes, kuriomis atliekamos arba turi būti
+kompensacinių produktų išeigą arba tam tikrais atvejais jos apskaičiavimo
 
-atliekamos perdirbimo operacijos.
+metodą. Išeiga nustatoma remiantis informacija apie aplinkybes, kuriomis
 
-2.Tam tikrais atvejais šio kodekso taikymą
+atliekamos arba turi būti atliekamos perdirbimo operacijos.
 
-reglamentuojantys teisės aktai gali nustatyti standartinę tam tikrų
+2.Tam tikrais atvejais šio
 
-kompensacinių produktų išeigą, ypač tada, kai atliekant perdirbimo operacijas
+kodekso taikymą reglamentuojantys teisės aktai gali nustatyti standartinę tam
 
-įprastiniu būdu ir laikantis tiksliai nustatytų techninių sąlygų naudojamos tas
+tikrų kompensacinių produktų išeigą, ypač tada, kai atliekant perdirbimo
 
-pačias charakteristikas turinčios prekės ir pagaminami tokios pačios kokybės
+operacijas įprastiniu būdu ir laikantis tiksliai nustatytų techninių sąlygų
 
-kompensaciniai produktai.
+naudojamos tas pačias charakteristikas turinčios prekės ir pagaminami tokios
 
-117 straipsnis. Kompensacinių produktų išleidimas
+pačios kokybės kompensaciniai produktai.
 
-laisvai cirkuliuoti
+117 straipsnis. Kompensacinių
 
-Šio kodekso taikymą reglamentuojantys
+produktų išleidimas laisvai cirkuliuoti
 
-teisės aktai nustato atvejus ir sąlygas, kuriomis laikinai įvežtos perdirbti
+Šio kodekso taikymą
 
-prekės arba kompensaciniai produktai gali būti išleisti arba laikomi išleistais
+reglamentuojantys teisės aktai nustato atvejus ir sąlygas, kuriomis laikinai
 
-laisvai cirkuliuoti.
+įvežtos perdirbti prekės arba kompensaciniai produktai gali būti išleisti arba
 
-118 straipsnis. Muitų ir mokesčių už laikinai įvežtas
+laikomi išleistais laisvai cirkuliuoti.
 
-perdirbti prekes apskaičiavimas
+118 straipsnis. Muitų ir mokesčių už
+
+laikinai įvežtas perdirbti prekes apskaičiavimas
+
+1. Jeigu atsiranda skola
+
+muitinei, šios skolos dydis importuojant prekes nustatomas remiantis muitų ir
+
+mokesčių normomis, taikytomis tą dieną, kai buvo priimta importo muitinės
+
+deklaracija laikinojo įvežimo perdirbti procedūrai, išskyrus šio kodekso 119
+
+straipsnyje nurodytus atvejus.
+
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
 
 1. Jeigu atsiranda skola muitinei, šios
 
 skolos dydis importuojant prekes nustatomas remiantis muitų ir mokesčių
 
-normomis, taikytomis tą dieną, kai buvo priimta importo muitinės deklaracija
+normomis bei apskaičiavimo taisyklėmis, taikytomis tą dieną, kai buvo priimta
 
-laikinojo įvežimo perdirbti procedūrai, išskyrus šio kodekso 119 straipsnyje nurodytus
+importo muitinės deklaracija laikinojo įvežimo perdirbti procedūrai, ir
 
-atvejus.
+muitinės nustatytomis arba priimtomis prekių charakteristikomis, kurios
 
-2.
+reikalingos šioms normoms bei taisyklėms taikyti ir kurias prekės turėjo
 
-Jeigu šio straipsnio 1 dalyje nurodytu laiku laikinai įvežtos perdirbti prekės
+minėtos deklaracijos priėmimo momentu, išskyrus šio kodekso 119 straipsnyje
 
-atitinka nustatytus lengvatinių muitų (preferencijų) taikymo reikalavimus,
+nurodytus atvejus.]
 
-šioms prekėms gali būti taikomi lengvatiniai muitai (preferencijos), taikytini
+2. Jeigu šio straipsnio 1 dalyje nurodytu
 
-tapačioms prekėms, jeigu jas išleidžiant laisvai cirkuliuoti pateikta importo
+laiku laikinai įvežtos perdirbti prekės atitinka nustatytus lengvatinių muitų
 
-muitinės deklaracija būtų priimta tą pačią dieną.
+(preferencijų) taikymo reikalavimus, šioms prekėms gali būti taikomi
 
-119 straipsnis. Kompensacinių produktų apmokestinimas
+lengvatiniai muitai (preferencijos), taikytini tapačioms prekėms, jeigu jas
 
-muitais ir mokesčiais,
+išleidžiant laisvai cirkuliuoti pateikta importo muitinės deklaracija būtų priimta
 
-taikomais importuojant tam tikras prekes
+tą pačią dieną.
 
-Išleidžiant laisvai cirkuliuoti arba pateikiant
+Straipsnio pakeitimai:
 
-kitiems muitinės sankcionuotiems veiksmams įforminti kompensacinius produktus,
+Nr. IX-624,
 
-nustatytus, atsižvelgiant į jų pobūdį ir santykinį kiekį, pagal šio kodekso
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-taikymą reglamentuojančius teisės aktus, kitaip, negu nustatyta šio kodekso 118
+119 straipsnis. Kompensacinių
 
-straipsnyje, laikinojo įvežimo perdirbti procedūros vykdytojo pageidavimu
+produktų apmokestinimas muitais ir mokesčiais,
 
-kompensaciniai produktai gali būti apmokestinami muitais ir mokesčiais,
+taikomais importuojant tam tikras
 
-taikomais importuojant tapačias prekes.
+prekes
 
-120 straipsnis. Perdirbimas ne Lietuvos Respublikos
+Išleidžiant
 
-muitų teritorijoje
+laisvai cirkuliuoti arba pateikiant kitiems muitinės sankcionuotiems veiksmams
 
-1. Jei muitinė sutinka, visus
+įforminti kompensacinius produktus, nustatytus, atsižvelgiant į jų pobūdį ir
 
-kompensacinius produktus arba jų dalį, taip pat nepakeisto pavidalo laikinai
+santykinį kiekį, pagal šio kodekso taikymą reglamentuojančius teisės aktus,
 
-įvežtas perdirbti prekes galima laikinai išvežti iš Lietuvos Respublikos muitų
+kitaip, negu nustatyta šio kodekso 118 straipsnyje, laikinojo įvežimo perdirbti
 
-teritorijos toliau perdirbti taikant laikinojo išvežimo perdirbti procedūrą.
+procedūros vykdytojo pageidavimu kompensaciniai produktai gali būti
 
-2. Jeigu reimportuojant prekes atsiranda
+apmokestinami muitais ir mokesčiais, taikomais importuojant tapačias prekes.
 
-skola muitinei, taikomi:
+[119 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-1) nustatyti už laikinai išvežtus
+120 straipsnis. Perdirbimas ne
 
-perdirbti kompensacinius produktus arba už šio straipsnio 1 dalyje nurodytas
+Lietuvos Respublikos muitų teritorijoje
 
-nepakeisto pavidalo prekes importo muitai ir mokesčiai. Jie apskaičiuojami
+1. Jei muitinė sutinka,
 
-vadovaujantis šio kodekso 118 ir 119 straipsnių nuostatomis;
+visus kompensacinius produktus arba jų dalį, taip pat nepakeisto pavidalo
 
-2) nustatyti už reimportuojamus ne
+laikinai įvežtas perdirbti prekes galima laikinai išvežti iš Lietuvos
 
-Lietuvos Respublikos muitų teritorijoje perdirbtus produktus importo muitai ir
+Respublikos muitų teritorijos toliau perdirbti taikant laikinojo išvežimo
 
-mokesčiai. Jie apskaičiuojami vadovaujantis šio kodekso nuostatomis,
+perdirbti procedūrą.
 
-reglamentuojančiomis laikinojo išvežimo perdirbti procedūros atlikimo tvarką,
+2. Jeigu reimportuojant
 
-tokia pačia tvarka kaip ir apmokestinant laikinai išvežtas perdirbti prekes,
+prekes atsiranda skola muitinei, taikomi:
 
-kurios prieš jų išvežimą buvo išleistos laisvai cirkuliuoti.
+1) nustatyti už laikinai
 
-121 straipsnis. Drobeko sistemos taikymas
+išvežtus perdirbti kompensacinius produktus arba už šio straipsnio 1 dalyje
 
-Drobeko sistema gali būti taikoma visoms
+nurodytas nepakeisto pavidalo prekes importo muitai ir mokesčiai. Jie
 
-prekėms, išskyrus prekes, kurioms tą dieną, kai priimta importo muitinės
+apskaičiuojami vadovaujantis šio kodekso 118 ir 119 straipsnių nuostatomis;
 
-deklaracija išleidimui laisvai cirkuliuoti, taikomi ekonominiai draudimai ir
+2) nustatyti už
 
-apribojimai.
+reimportuojamus ne Lietuvos Respublikos muitų teritorijoje perdirbtus produktus
 
-122 straipsnis. Drobeko sistemos taikymas ir
+importo muitai ir mokesčiai. Jie apskaičiuojami vadovaujantis šio kodekso
 
-informacijos apie leidimą perdirbti
+nuostatomis, reglamentuojančiomis laikinojo išvežimo perdirbti procedūros
+
+atlikimo tvarką, tokia pačia tvarka kaip ir apmokestinant laikinai išvežtas
+
+perdirbti prekes, kurios prieš jų išvežimą buvo išleistos laisvai cirkuliuoti.
+
+121 straipsnis. Drobeko sistemos
+
+taikymas
+
+Drobeko sistema gali būti
+
+taikoma visoms prekėms, išskyrus prekes, kurioms tą dieną, kai priimta importo
+
+muitinės deklaracija išleidimui laisvai cirkuliuoti, taikomi ekonominiai
+
+draudimai ir apribojimai.
+
+122 straipsnis. Drobeko sistemos
+
+taikymas ir informacijos apie leidimą perdirbti
 
 laikinai įvežtas prekes pateikimas
 
-Tai, kad taikoma drobeko sistema, ir informacija apie
+Tai,
 
-leidimą atlikti laikinai įvežtų prekių perdirbimo operacijas turi būti nurodyta
+kad taikoma drobeko sistema, ir informacija apie leidimą atlikti laikinai
 
-išleidimui laisvai cirkuliuoti pateiktoje importo muitinės deklaracijoje.
+įvežtų prekių perdirbimo operacijas turi būti nurodyta išleidimui laisvai
 
-Muitinės reikalavimu nurodytas leidimas turi būti pateiktas kartu su šia
+cirkuliuoti pateiktoje importo muitinės deklaracijoje. Muitinės reikalavimu
 
-muitinės deklaracija.
+nurodytas leidimas turi būti pateiktas kartu su šia muitinės deklaracija.
 
-123 straipsnis. Nuostatos, netaikomos naudojant
+123 straipsnis. Nuostatos,
 
-drobeko sistemą
+netaikomos naudojant drobeko sistemą
 
-Jeigu naudojama drobeko sistema, netaikomi
+Jeigu naudojama drobeko
 
-šio kodekso 112 straipsnio 1 dalies 2 punktas, 3 ir 5 dalys, 115 straipsnio 3
+sistema, netaikomi šio kodekso 112 straipsnio 1 dalies 2 punktas, 3 ir 5 dalys,
 
-dalis, 117, 118 ir 126 straipsniai.
+115 straipsnio 3 dalis, 117, 118 ir 126 straipsniai.
 
-124 straipsnis. Kompensacinių produktų laikinasis
+124 straipsnis. Kompensacinių
 
-išvežimas perdirbti, taikant drobeko
+produktų laikinasis išvežimas perdirbti, taikant drobeko
 
 sistemą
 
-Kompensacinių produktų laikinasis
+Kompensacinių produktų
 
-išvežimas perdirbti vadovaujantis šio kodekso 120 straipsnio 1 dalimi
+laikinasis išvežimas perdirbti vadovaujantis šio kodekso 120 straipsnio 1
 
-nelaikomas jų eksportu pagal šio kodekso 125 straipsnio nuostatas, išskyrus
+dalimi nelaikomas jų eksportu pagal šio kodekso 125 straipsnio nuostatas,
 
-atvejus, kai nurodyti produktai per nustatytą laikotarpį nėra reimportuojami į
+išskyrus atvejus, kai nurodyti produktai per nustatytą laikotarpį nėra
 
-Lietuvos Respublikos muitų teritoriją.
+reimportuojami į Lietuvos Respublikos muitų teritoriją.
 
-125 straipsnis. Importo muitų ir mokesčių sugrąžinimas
+125 straipsnis. Importo muitų ir
 
-arba atsisakymas juos išieškoti
+mokesčių sugrąžinimas arba atsisakymas juos išieškoti
 
 taikant drobeko sistemą
 
-1. Laikinojo įvežimo perdirbti procedūros vykdytojas
+1. Laikinojo įvežimo perdirbti
 
-turi teisę pateikti prašymą sugrąžinti importo muitus ir mokesčius arba prašymą
+procedūros vykdytojas turi teisę pateikti prašymą sugrąžinti importo muitus ir
 
-atsisakyti juos išieškoti, jeigu jis muitinei priimtinu būdu įrodo, kad
+mokesčius arba prašymą atsisakyti juos išieškoti, jeigu jis muitinei priimtinu
 
-kompensaciniai produktai, gauti iš laikinai įvežtų perdirbti prekių, išleistų
+būdu įrodo, kad kompensaciniai produktai, gauti iš laikinai įvežtų perdirbti
 
-laisvai cirkuliuoti taikant drobeko sistemą, buvo:
+prekių, išleistų laisvai cirkuliuoti taikant drobeko sistemą, buvo:
 
-1)
+1) negrąžinamai eksportuoti; arba
 
-negrąžinamai eksportuoti; arba
+2) pateikti muitinio tranzito, muitinio
 
-2) pateikti muitinio tranzito, muitinio sandėliavimo,
+sandėliavimo, laikinojo įvežimo arba laikinojo įvežimo perdirbti procedūrai
 
-laikinojo įvežimo arba laikinojo įvežimo perdirbti procedūrai (taikant
-
-sąlyginio neapmokestinimo sistemą) įforminti ir numatoma vėliau juos
+(taikant sąlyginio neapmokestinimo sistemą) įforminti ir numatoma vėliau juos
 
 reeksportuoti, padėti į laisvąjį sandėlį arba išgabenti į laisvąją zoną.
 
-2. Taikant šio straipsnio 1 dalies 1 ir 2 punktuose
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-nurodytas muitinės procedūras, turi būti laikomasi jų atlikimo sąlygų.
+1. Laikinojo įvežimo perdirbti procedūros
 
-3.
+vykdytojas turi teisę pateikti prašymą sugrąžinti importo muitus ir mokesčius
 
-Atliekant muitinės sankcionuotus veiksmus, nurodytus šio straipsnio 1 dalies 2
+arba prašymą atsisakyti juos išieškoti, jeigu jis muitinei priimtinu būdu
 
-punkte, kompensaciniai produktai turi būti laikomi ne Lietuvos prekėmis.
+įrodo, kad nepakeisto pavidalo laikinai įvežtos perdirbti prekės, išleistos
 
-4.
+laisvai cirkuliuoti taikant drobeko sistemą, arba iš jų gauti kompensaciniai
 
-Laiką, per kurį turi būti pateiktas prašymas sugrąžinti importo muitus ir
+produktai buvo:
 
-mokesčius arba prašymas atsisakyti juos išieškoti, nustato šio kodekso taikymą
+1) negrąžinamai eksportuoti; arba
 
-reglamentuojantys teisės aktai.
+2) pateikti muitinio tranzito, muitinio
 
-5. Kompensaciniai produktai, pateikti atitinkamai
+sandėliavimo, laikinojo įvežimo arba laikinojo įvežimo perdirbti procedūrai
 
-muitinės procedūrai įforminti, padėti į laisvąjį sandėlį arba išgabenti į
+(taikant sąlyginio neapmokestinimo sistemą) įforminti ir numatoma vėliau juos
 
-laisvąją zoną vadovaujantis šio straipsnio 1 ir 2 dalių nuostatomis, gali būti
+reeksportuoti, padėti į laisvąjį sandėlį arba išgabenti į laisvąją zoną.]
 
-išleisti laisvai cirkuliuoti tik su muitinės sutikimu. Sutikimas duodamas
+2. Taikant šio straipsnio 1 dalies 1 ir
 
-pateikus motyvuotą prašymą, kuriame turi būti pagrįstas prekių išleidimo
+2 punktuose nurodytas muitinės procedūras, turi būti laikomasi jų atlikimo
 
-laisvai cirkuliuoti būtinumas. Šiuo atveju importo muitai ir mokesčiai, kurie
+sąlygų.
 
-buvo sugrąžinti arba kurių atsisakyta išieškoti, laikomi skola muitinei.
+3. Atliekant muitinės sankcionuotus
 
-6.
+veiksmus, nurodytus šio straipsnio 1 dalies 2 punkte, kompensaciniai produktai
 
-Nustatant sugrąžinamų arba atsisakomų išieškoti muitų dydį, vadovaujamasi šio
+turi būti laikomi ne Lietuvos prekėmis.
 
-kodekso 119 straipsnio nuostatomis.
+[3 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+3. Atliekant muitinės sankcionuotus
+
+veiksmus, nurodytus šio straipsnio 1 dalies 2 punkte, nepakeisto pavidalo
+
+prekės ir kompensaciniai produktai turi būti laikomi ne Lietuvos prekėmis.]
+
+4. Laiką, per kurį turi būti pateiktas
+
+prašymas sugrąžinti importo muitus ir mokesčius arba prašymas atsisakyti juos
+
+išieškoti, nustato šio kodekso taikymą reglamentuojantys teisės aktai.
+
+5. Kompensaciniai produktai, pateikti
+
+atitinkamai muitinės procedūrai įforminti, padėti į laisvąjį sandėlį arba
+
+išgabenti į laisvąją zoną vadovaujantis šio straipsnio 1 ir 2 dalių
+
+nuostatomis, gali būti išleisti laisvai cirkuliuoti tik su muitinės sutikimu.
+
+Sutikimas duodamas pateikus motyvuotą prašymą, kuriame turi būti pagrįstas
+
+prekių išleidimo laisvai cirkuliuoti būtinumas. Šiuo atveju importo muitai ir
+
+mokesčiai, kurie buvo sugrąžinti arba kurių atsisakyta išieškoti, laikomi skola
+
+muitinei.
+
+[5 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+5. Jeigu nepakeisto pavidalo prekės arba
+
+kompensaciniai produktai, kuriems vadovaujantis šio straipsnio 1 ir 2 dalių
+
+nuostatomis buvo įforminta atitinkama muitinės procedūra arba kurie buvo padėti
+
+į laisvąjį sandėlį ar išgabenti į laisvąją zoną, išleidžiami laisvai
+
+cirkuliuoti, importo muitai ir mokesčiai, kurie buvo sugrąžinti arba kurių
+
+atsisakyta išieškoti, laikomi skola muitinei.]
+
+6. Nustatant sugrąžinamų arba atsisakomų
+
+išieškoti muitų dydį, vadovaujamasi šio kodekso 119 straipsnio nuostatomis.
 
 Straipsnio pakeitimai:
 
@@ -4783,6 +5119,10 @@ Nr.75-2269 (00.09.07), įsigalioja nuo 2000.10.01
 Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 126
 
@@ -4792,221 +5132,241 @@ produktų neapmokestinimas eksporto muitais ir
 
 mokesčiais
 
-Taikant
+Taikant laikinojo įvežimo perdirbti
 
-laikinojo įvežimo perdirbti procedūrą, kai naudojama sąlyginio neapmokestinimo
+procedūrą, kai naudojama sąlyginio neapmokestinimo sistema, kompensaciniai produktai
 
-sistema, kompensaciniai produktai neapmokestinami eksporto muitais ir
+neapmokestinami eksporto muitais ir mokesčiais, kurie būtų taikomi atitinkamoms
 
-mokesčiais, kurie būtų taikomi atitinkamoms Lietuvos prekėms.
+Lietuvos prekėms.
 
 Aštuntasis skirsnis
 
 MUITINĖS PRIŽIŪRIMAS PERDIRBIMAS
 
-127 straipsnis. Muitinės prižiūrimo perdirbimo
+127 straipsnis. Muitinės prižiūrimo
 
-procedūros taikymas
+perdirbimo procedūros taikymas
 
-Muitinės prižiūrimo perdirbimo procedūra
+Muitinės prižiūrimo perdirbimo
 
-taikoma, kai Lietuvos Respublikos muitų teritorijoje leidžiama atlikti ne
+procedūra taikoma, kai Lietuvos Respublikos muitų teritorijoje leidžiama
 
-Lietuvos prekių, kurios neapmokestinamos importo muitais bei mokesčiais ir
+atlikti ne Lietuvos prekių, kurios neapmokestinamos importo muitais bei
 
-kurioms netaikomi ekonominiai draudimai bei apribojimai, perdirbimo operacijas,
+mokesčiais ir kurioms netaikomi ekonominiai draudimai bei apribojimai,
 
-pakeičiančias prekių pobūdį arba pavidalą. Atlikus šias operacijas, gauti
+perdirbimo operacijas, pakeičiančias prekių pobūdį arba pavidalą. Atlikus šias
 
-produktai išleidžiami laisvai cirkuliuoti taikant už šiuos produktus nustatytus
+operacijas, gauti produktai išleidžiami laisvai cirkuliuoti taikant už šiuos
 
-importo muitus ir mokesčius. Nurodyti produktai, gauti atlikus perdirbimo
+produktus nustatytus importo muitus ir mokesčius. Nurodyti produktai, gauti
 
-operacijas, vadinami perdirbtaisiais produktais.
+atlikus perdirbimo operacijas, vadinami perdirbtaisiais produktais.
 
-128 straipsnis. Muitinės prižiūrimo perdirbimo
+128 straipsnis. Muitinės prižiūrimo
 
-procedūros taikymo atvejai
+perdirbimo procedūros taikymo atvejai
 
-Muitinės prižiūrimo perdirbimo procedūros
+Muitinės prižiūrimo
 
-taikymo atvejus nustato šio kodekso taikymą reglamentuojantys teisės aktai.
+perdirbimo procedūros taikymo atvejus nustato šio kodekso taikymą
 
-129 straipsnis. Leidimo perdirbti prekes muitinei
+reglamentuojantys teisės aktai.
 
-prižiūrint išdavimas
+[128 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-Leidimas perdirbti prekes muitinei
+129 straipsnis. Leidimo perdirbti
 
-prižiūrint išduodamas prašymą muitinei pateikusiam asmeniui, atliekančiam visas
+prekes muitinei prižiūrint išdavimas
 
-muitinės prižiūrimo perdirbimo operacijas arba jų dalį.
+Leidimas perdirbti prekes
 
-130 straipsnis. Leidimo perdirbti prekes muitinei
+muitinei prižiūrint išduodamas prašymą muitinei pateikusiam asmeniui,
 
-prižiūrint išdavimo sąlygos
+atliekančiam visas muitinės prižiūrimo perdirbimo operacijas arba jų dalį.
 
-Leidimas perdirbti prekes muitinei
+130 straipsnis. Leidimo perdirbti
 
-prižiūrint išduodamas tik tuo atveju, jeigu:
+prekes muitinei prižiūrint išdavimo sąlygos
 
-1)
+Leidimas perdirbti prekes
 
-prašymą pateikęs asmuo turi Lietuvos Respublikos ūkio subjekto statusą;
+muitinei prižiūrint išduodamas tik tuo atveju, jeigu:
 
-2)įvežtos
+1) prašymą pateikęs asmuo turi Lietuvos
 
-prekės gali būti identifikuotos perdirbtuosiuose produktuose;
+Respublikos ūkio subjekto statusą;
 
-3)
+2)įvežtos prekės gali būti identifikuotos
 
-perdirbus prekes, neįmanoma ekonomiškai pagrįstu būdu sugrąžinti joms pavidalo,
+perdirbtuosiuose produktuose;
 
-kokį prekės turėjo pateikimo muitinės prižiūrimo perdirbimo procedūrai
+3) perdirbus prekes, neįmanoma ekonomiškai
 
-įforminti metu;
+pagrįstu būdu sugrąžinti joms pavidalo, kokį prekės turėjo pateikimo muitinės
 
-4)
+prižiūrimo perdirbimo procedūrai įforminti metu;
 
-muitinės prižiūrimo perdirbimo procedūros taikymas nesukuria prielaidų
+4) muitinės prižiūrimo perdirbimo
 
-palankiau taikyti prekių kilmės taisykles arba kiekybinius apribojimus;
+procedūros taikymas nesukuria prielaidų palankiau taikyti prekių kilmės
 
-5)
+taisykles arba kiekybinius apribojimus;
 
-taikant nurodytą muitinės procedūrą, laikomasi gamybinės veiklos skatinimo
+5) taikant nurodytą muitinės procedūrą,
 
-sąlygų ir nėra pažeidžiami esminiai Lietuvos Respublikos gamintojų interesai,
+laikomasi gamybinės veiklos skatinimo sąlygų ir nėra pažeidžiami esminiai
 
-t.y. laikomasi šio kodekso taikymą reglamentuojančių teisės aktų nustatytų
+Lietuvos Respublikos gamintojų interesai, t.y. laikomasi šio kodekso taikymą
 
-muitinės prižiūrimo perdirbimo tikslingumo sąlygų.
+reglamentuojančių teisės aktų nustatytų muitinės prižiūrimo perdirbimo tikslingumo
 
-131 straipsnis. Nuostatos, taikomos atliekant muitinės
+sąlygų.
 
-prižiūrimo perdirbimo procedūrą
+131 straipsnis. Nuostatos, taikomos
 
-Atliekant muitinės prižiūrimo perdirbimo procedūrą,
+atliekant muitinės prižiūrimo perdirbimo procedūrą
 
-taikomos šio kodekso 115 straipsnio 1, 2 ir 4 dalių bei 116 straipsnio
+Atliekant muitinės prižiūrimo
 
-nuostatos.
+perdirbimo procedūrą, taikomos šio kodekso 115 straipsnio 1, 2 ir 4 dalių bei
 
-132 straipsnis. Muitų ir mokesčių už prekes,
+116 straipsnio nuostatos.
 
-perdirbamas muitinei prižiūrint,
+132 straipsnis. Muitų ir mokesčių už
+
+prekes, perdirbamas muitinei prižiūrint,
 
 apskaičiavimas
 
-Jeigu atsiranda skola muitinei, susijusi su nepakeisto
+Jeigu atsiranda skola muitinei,
 
-pavidalo arba nebaigtomis perdirbti prekėmis, palyginti su leidime atlikti
+susijusi su nepakeisto pavidalo arba nebaigtomis perdirbti prekėmis, palyginti
 
-muitinės prižiūrimo perdirbimo procedūrą nurodytais produktais, šios skolos
+su leidime atlikti muitinės prižiūrimo perdirbimo procedūrą nurodytais
 
-dydis nustatomas remiantis muitų ir mokesčių normomis, taikytomis tapačioms
+produktais, šios skolos dydis nustatomas remiantis muitų ir mokesčių normomis,
 
-importuojamoms prekėms tą dieną, kai buvo priimta importo muitinės deklaracija
+taikytomis tapačioms importuojamoms prekėms tą dieną, kai buvo priimta importo
 
-muitinės prižiūrimo perdirbimo procedūrai.
+muitinės deklaracija muitinės prižiūrimo perdirbimo procedūrai.
 
-133 straipsnis. Lengvatinių importo muitų
+[132 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-(preferencijų) taikymas perdirbtiesiems
+133 straipsnis. Lengvatinių importo
+
+muitų (preferencijų) taikymas perdirbtiesiems
 
 produktams
 
-Jeigu prekės jų pateikimo muitinės prižiūrimo
+Jeigu
 
-perdirbimo procedūrai įforminti metu atitiko nustatytus lengvatinių muitų
+prekės jų pateikimo muitinės prižiūrimo perdirbimo procedūrai įforminti metu
 
-(preferencijų) taikymo reikalavimus ir jeigu tokie muitai gali būti taikomi
+atitiko nustatytus lengvatinių muitų (preferencijų) taikymo reikalavimus ir
 
-prekėms, tapačioms išleidžiamiems laisvai cirkuliuoti perdirbtiesiems
+jeigu tokie muitai gali būti taikomi prekėms, tapačioms išleidžiamiems laisvai
 
-produktams, šiems produktams taikomi lengvatiniai importo muitai
+cirkuliuoti perdirbtiesiems produktams, šiems produktams taikomi lengvatiniai
 
-(preferencijos).
+importo muitai (preferencijos).
 
 Devintasis skirsnis
 
 LAIKINASIS ĮVEŽIMAS
 
-134 straipsnis. Laikinojo įvežimo procedūros taikymas
+134 straipsnis. Laikinojo įvežimo
 
-Laikinojo
+procedūros taikymas
 
-įvežimo procedūra taikoma, kai Lietuvos Respublikos muitų teritorijoje laikomos
+Laikinojo įvežimo procedūra taikoma, kai
 
-ir naudojamos ne Lietuvos prekės, kurias numatyta reeksportuoti neperdirbtas ir
+Lietuvos Respublikos muitų teritorijoje laikomos ir naudojamos ne Lietuvos
 
-nepakeistas (išskyrus normalų prekių nusidėvėjimą dėl įprastinio jų naudojimo).
+prekės, kurias numatyta reeksportuoti neperdirbtas ir nepakeistas (išskyrus
 
-Šios prekės sąlygiškai, visai ar iš dalies, neapmokestinamos importo muitais
+normalų prekių nusidėvėjimą dėl įprastinio jų naudojimo). Šios prekės
 
-bei mokesčiais ir joms netaikomi ekonominiai draudimai bei apribojimai.
+sąlygiškai, visai ar iš dalies, neapmokestinamos importo muitais bei mokesčiais
 
-135 straipsnis. Leidimo laikinai įvežti prekes
+ir joms netaikomi ekonominiai draudimai bei apribojimai.
 
-išdavimas
+135 straipsnis. Leidimo laikinai
 
-Leidimas laikinai įvežti prekes išduodamas
+įvežti prekes išdavimas
 
-jas laikančiam ar naudojančiam asmeniui arba asmeniui, atsakingam už jų laikymą
+Leidimas laikinai įvežti
 
-ar naudojimą.
+prekes išduodamas jas laikančiam ar naudojančiam asmeniui arba asmeniui,
 
-136 straipsnis. Leidimo laikinai įvežti prekes išdavimo
+atsakingam už jų laikymą ar naudojimą.
 
-sąlygos
+136 straipsnis. Leidimo laikinai
 
-Leidimas taikyti laikinojo įvežimo
+įvežti prekes išdavimo sąlygos
 
-procedūrą išduodamas tik tuo atveju, kai įmanoma užtikrinti laikomų arba
+Leidimas taikyti laikinojo
 
-naudojamų Lietuvos Respublikos muitų teritorijoje ir reeksportuojamų laikinai
+įvežimo procedūrą išduodamas tik tuo atveju, kai įmanoma užtikrinti laikomų
 
-įvežtų prekių identifikavimą. Muitinė taip pat gali leisti taikyti laikinojo
+arba naudojamų Lietuvos Respublikos muitų teritorijoje ir reeksportuojamų
 
-įvežimo procedūrą ir tuo atveju, kai laikinai įvežtų prekių identifikuoti
+laikinai įvežtų prekių identifikavimą. Muitinė taip pat gali leisti taikyti
 
-neįmanoma, jei netaikant identifikavimo priemonių nesusidarys sąlygų pažeisti
+laikinojo įvežimo procedūrą ir tuo atveju, kai laikinai įvežtų prekių
 
-šios muitinės procedūros atlikimo tvarką.
+identifikuoti neįmanoma, jei netaikant identifikavimo priemonių nesusidarys
 
-137 straipsnis. Laikinojo įvežimo laikotarpis
+sąlygų pažeisti šios muitinės procedūros atlikimo tvarką.
 
-1. Muitinė nustato laikotarpį, per kurį
+137 straipsnis. Laikinojo įvežimo
 
-laikinai įvežtos prekės turi būti reeksportuotos arba pateiktos kitiems
+laikotarpis
 
-muitinės sankcionuotiems veiksmams įforminti. Laikotarpis nustatomas
+1. Muitinė nustato
 
-atsižvelgiant į prekių laikymui arba naudojimui reikalingą laiko trukmę, kuri
+laikotarpį, per kurį laikinai įvežtos prekės turi būti reeksportuotos arba
 
-nurodyta leidime laikinai įvežti prekes.
+pateiktos kitiems muitinės sankcionuotiems veiksmams įforminti. Laikotarpis
 
-2.
+nustatomas atsižvelgiant į prekių laikymui arba naudojimui reikalingą laiko
 
-Maksimalus prekių laikinojo įvežimo laikotarpis negali viršyti 24 mėnesių,
+trukmę, kuri nurodyta leidime laikinai įvežti prekes.
 
-išskyrus šio kodekso 138 straipsnyje nurodytus atvejus. Muitinė, atsižvelgdama
+2. Maksimalus prekių laikinojo įvežimo
 
-į numatyto prekių laikymo arba naudojimo aplinkybes, gali nustatyti ir
+laikotarpis negali viršyti 24 mėnesių, išskyrus šio kodekso 138 straipsnyje
 
-trumpesnį laikinojo įvežimo laikotarpį.
+nurodytus atvejus. Muitinė, atsižvelgdama į numatyto prekių laikymo arba
 
-3.
+naudojimo aplinkybes, gali nustatyti ir trumpesnį laikinojo įvežimo laikotarpį.
 
-Susidarius ypatingoms aplinkybėms, muitinė turi teisę laikinojo įvežimo
+3. Susidarius ypatingoms aplinkybėms,
 
-procedūros vykdytojo prašymu pratęsti šio straipsnio 1 ir 2 dalyse nurodytus
+muitinė turi teisę laikinojo įvežimo procedūros vykdytojo prašymu pratęsti šio
 
-laikotarpius iki leidime nurodytam prekių laikymui arba naudojimui reikalingo
+straipsnio 1 ir 2 dalyse nurodytus laikotarpius iki leidime nurodytam prekių
 
-termino, bet ne daugiau kaip 12 mėnesių nuo nustatyto laikinojo įvežimo
+laikymui arba naudojimui reikalingo termino, bet ne daugiau kaip 12 mėnesių nuo
 
-laikotarpio pabaigos.
+nustatyto laikinojo įvežimo laikotarpio pabaigos.
+
+[3 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+3. Susidarius ypatingoms aplinkybėms,
+
+muitinė turi teisę laikinojo įvežimo procedūros vykdytojo prašymu pratęsti šio
+
+straipsnio 1 ir 2 dalyse nurodytus laikotarpius iki leidime nurodytam prekių
+
+laikymui arba naudojimui reikalingo termino.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 138
 
@@ -5018,13 +5378,11 @@ muitais bei mokesčiais atvejai ir
 
 sąlygos
 
-Šio
+Šio kodekso taikymą reglamentuojantys teisės aktai
 
-kodekso taikymą reglamentuojantys teisės aktai nustato laikinojo įvežimo
+nustato laikinojo įvežimo procedūros taikymo visai neapmokestinant importo
 
-procedūros taikymo visai neapmokestinant importo muitais bei mokesčiais atvejus
-
-ir sąlygas.
+muitais bei mokesčiais atvejus ir sąlygas.
 
 139
 
@@ -5032,247 +5390,183 @@ straipsnis. Laikinojo
 
 įvežimo procedūros taikymas iš dalies neapmokestinant
 
-importo muitais bei mokesčiais ir draudimas ją taikyti
+importo muitais bei mokesčiais ir
 
-1. Laikinai įvežtos prekės, liekančios ne
+draudimas ją taikyti
 
-Lietuvos Respublikoje registruoto asmens nuosavybėje, iš dalies
+1. Laikinai įvežtos prekės,
 
-neapmokestinamos importo muitais ir mokesčiais, jeigu jų įvežimas neatitinka
+liekančios ne Lietuvos Respublikoje registruoto asmens nuosavybėje, iš dalies
 
-laikinojo įvežimo visai neapmokestinant importo muitais bei mokesčiais atvejų
+neapmokestinamos importo muitais ir mokesčiais, jeigu jų įvežimas neatitinka laikinojo
 
-ir sąlygų, nustatytų vadovaujantis šio kodekso 138 straipsniu.
+įvežimo visai neapmokestinant importo muitais bei mokesčiais atvejų ir sąlygų,
 
-2. Šio kodekso taikymą reglamentuojantys
+nustatytų vadovaujantis šio kodekso 138 straipsniu.
 
-teisės aktai nustato, kurias prekes draudžiama laikinai įvežti iš dalies
+2. Šio kodekso taikymą
 
-neapmokestinant importo muitais ir mokesčiais.
+reglamentuojantys teisės aktai nustato, kurias prekes draudžiama laikinai
 
-140 straipsnis. Muitų ir mokesčių mokėjimas už prekes,
+įvežti iš dalies neapmokestinant importo muitais ir mokesčiais.
 
-laikinai įvežtas iš dalies
+[139 straipsnio redakcija nuo 2002 m. birželio 1 d.:
+
+140 straipsnis. Muitų ir mokesčių
+
+mokėjimas už prekes, laikinai įvežtas iš dalies
 
 neapmokestinant importo muitais ir
 
 mokesčiais
 
-1.
+1. Už prekes, kurioms taikoma laikinojo
 
-Už prekes, kurioms taikoma laikinojo įvežimo procedūra iš dalies
+įvežimo procedūra iš dalies neapmokestinant importo muitais ir mokesčiais,
 
-neapmokestinant importo muitais ir mokesčiais, kiekvieną mėnesį ar mėnesio
+kiekvieną mėnesį ar mėnesio dalį, kai joms taikoma ši muitinės procedūra, turi
 
-dalį, kai joms taikoma ši muitinės procedūra, turi būti mokami 3 procentai
+būti mokami 3 procentai prekėms nustatytų importo muitų ir mokesčių, kurie
 
-prekėms nustatytų importo muitų ir mokesčių, kurie turėtų būti sumokėti
+turėtų būti sumokėti išleidus šias prekes laisvai cirkuliuoti jų pateikimo
+
+laikinojo įvežimo procedūrai įforminti dieną.
+
+2. Už laikinai įvežtas prekes sumokėtų
+
+importo muitų ir mokesčių suma negali viršyti sumos, kuri būtų sumokėta
 
 išleidus šias prekes laisvai cirkuliuoti jų pateikimo laikinojo įvežimo
 
-procedūrai įforminti dieną.
+procedūrai įforminti dieną, neįskaitant palūkanų, kurios gali būti nustatytos
 
-2.
+vadovaujantis šio kodekso taikymą reglamentuojančiais teisės aktais.
 
-Už laikinai įvežtas prekes sumokėtų importo muitų ir mokesčių suma negali
+3. Laikinojo įvežimo procedūros vykdytojo
 
-viršyti sumos, kuri būtų sumokėta išleidus šias prekes laisvai cirkuliuoti jų
+teisių ir pareigų perdavimas vadovaujantis šio kodekso 88 straipsniu nelaikomas
 
-pateikimo laikinojo įvežimo procedūrai įforminti dieną, neįskaitant palūkanų,
+šios muitinės procedūros pratęsimu kitiems prekių laikinojo įvežimo laikotarpiams
 
-kurios gali būti nustatytos vadovaujantis šio kodekso taikymą
+tomis pačiomis neapmokestinimo importo muitais ir mokesčiais sąlygomis.
 
-reglamentuojančiais teisės aktais.
+4. Jeigu šio straipsnio 3 dalyje nurodytu
 
-3.
+atveju laikinojo įvežimo procedūros vykdytojo teisių ir pareigų perdavėjas bei
 
-Laikinojo įvežimo procedūros vykdytojo teisių ir pareigų perdavimas
+perėmėjas turi perdavimo mėnesį galiojančius laikinojo įvežimo iš dalies
 
-vadovaujantis šio kodekso 88 straipsniu nelaikomas šios muitinės procedūros
+neapmokestinant importo muitais ir mokesčiais leidimus, perdavėjas privalo
 
-pratęsimu kitiems prekių laikinojo įvežimo laikotarpiams tomis pačiomis
+sumokėti muitus ir mokesčius už visą nurodytą mėnesį.
 
-neapmokestinimo importo muitais ir mokesčiais sąlygomis.
+141 straipsnis. Muitų ir mokesčių už
 
-4.
+laikinai įvežtas prekes apskaičiavimas
 
-Jeigu šio straipsnio 3 dalyje nurodytu atveju laikinojo įvežimo procedūros
+1. Jeigu atsiranda skola muitinei,
 
-vykdytojo teisių ir pareigų perdavėjas bei perėmėjas turi perdavimo mėnesį
+susijusi su laikinai įvežtomis prekėmis, šios skolos dydis nustatomas remiantis
 
-galiojančius laikinojo įvežimo iš dalies neapmokestinant importo muitais ir
+muitų ir mokesčių normomis, taikytomis tą dieną, kai buvo priimta importo
 
-mokesčiais leidimus, perdavėjas privalo sumokėti muitus ir mokesčius už visą
+muitinės deklaracija laikinojo įvežimo procedūrai. Šio kodekso 138 straipsnyje
 
-nurodytą mėnesį.
+nurodytu atveju skolos muitinei dydis nustatomas remiantis muitų ir mokesčių
 
-141 straipsnis. Muitų ir mokesčių už laikinai įvežtas
+normomis, taikomomis atitinkamoms prekėms šio kodekso 197 straipsnyje nurodytu
 
-prekes apskaičiavimas
+momentu.
 
-1.
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-Jeigu atsiranda skola muitinei, susijusi su laikinai įvežtomis prekėmis, šios
+1. Jeigu atsiranda skola muitinei,
 
-skolos dydis nustatomas remiantis muitų ir mokesčių normomis, taikytomis tą
+susijusi su laikinai įvežtomis prekėmis, šios skolos dydis nustatomas remiantis
 
-dieną, kai buvo priimta importo muitinės deklaracija laikinojo įvežimo procedūrai.
+muitų ir mokesčių normomis bei apskaičiavimo taisyklėmis, taikytomis tą dieną,
 
-Šio kodekso 138 straipsnyje nurodytu atveju skolos muitinei dydis nustatomas
+kai buvo priimta importo muitinės deklaracija laikinojo įvežimo procedūrai, ir
 
-remiantis muitų ir mokesčių normomis, taikomomis atitinkamoms prekėms šio
+muitinės nustatytomis arba priimtomis prekių charakteristikomis, kurios
 
-kodekso 197 straipsnyje nurodytu momentu.
+reikalingos šioms normoms bei taisyklėms taikyti ir kurias prekės turėjo
 
-2.
+minėtos deklaracijos priėmimo momentu. Šio kodekso 138 straipsnyje nurodytu
 
-Jeigu skola muitinei, susijusi su prekėmis, laikinai įvežtomis iš dalies
+atveju skolos muitinei dydis nustatomas remiantis muitų ir mokesčių normomis bei
 
-neapmokestinant importo muitais ir mokesčiais, atsiranda dėl kitos priežasties
+apskaičiavimo taisyklėmis, taikomomis atitinkamoms prekėms šio kodekso 197
 
-nei prekių pateikimas nurodytai muitinės procedūrai įforminti, ši skola bus
+straipsnyje nurodytu momentu, ir muitinės nustatytomis arba priimtomis prekių
 
-lygi muitų bei mokesčių sumos, apskaičiuotos pagal šio straipsnio 1 dalį, ir muitų
+charakteristikomis, kurios reikalingos šioms normoms bei taisyklėms taikyti ir
 
-bei mokesčių sumos, sumokėtos arba mokėtinos remiantis šio kodekso 140
+kurias prekės turėjo tuo momentu.]
 
-straipsniu, skirtumui.
+2. Jeigu skola muitinei, susijusi su
+
+prekėmis, laikinai įvežtomis iš dalies neapmokestinant importo muitais ir
+
+mokesčiais, atsiranda dėl kitos priežasties nei prekių pateikimas nurodytai
+
+muitinės procedūrai įforminti, ši skola bus lygi muitų bei mokesčių sumos,
+
+apskaičiuotos pagal šio straipsnio
+
+1 dalį, ir muitų bei mokesčių sumos, sumokėtos arba mokėtinos remiantis šio
+
+kodekso 140 straipsniu, skirtumui.
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 Dešimtasis skirsnis
 
 LAIKINASIS IŠVEŽIMAS PERDIRBTI
 
-142
-
-straipsnis. Bendrosios nuostatos
-
-1.
-
-Atsižvelgiant į šio kodekso 151-156 straipsnių nuostatas, reglamentuojančias
-
-standartinio prekių pakeitimo sistemos taikymą, ir į 120 straipsnio nuostatas,
-
-laikinojo išvežimo perdirbti procedūra taikoma, kai iš Lietuvos Respublikos
-
-muitų teritorijos laikinai išvežamos numatytos perdirbti Lietuvos prekės ir
-
-išleidžiami laisvai cirkuliuoti, visai ar iš dalies neapmokestinant importo
-
-muitais ir mokesčiais, produktai, gauti perdirbus šias prekes.
-
-2.
-
-Laikinai išvežamos perdirbti Lietuvos prekės apmokestinamos už jas nustatytais
-
-eksporto muitais ir mokesčiais,joms taikomi ekonominiai draudimai bei
-
-apribojimai, taip pat kiti formalumai, susiję su Lietuvos prekių išvežimu iš
-
-Lietuvos Respublikos muitų teritorijos.
-
-3.
-
-Nustatant laikinojo išvežimo perdirbti procedūros atlikimo tvarką, vartojamos
-
-šios sąvokos:
-
-1)
-
-laikinai išvežamos perdirbti prekės - prekės, kurioms įforminta laikinojo
-
-išvežimo perdirbti procedūra;
-
-2)
-
-perdirbimo operacijos - operacijos, nurodytos šio kodekso 111 straipsnio 2
-
-dalies 3 punkto a, b ir c papunkčiuose;
-
-3)
-
-kompensaciniai produktai - visi produktai, gauti atlikus perdirbimo operacijas;
-
-4)
-
-išeiga - kompensacinių produktų kiekis (norma), gautas perdirbus tam tikrą
-
-kiekį laikinai išvežtų perdirbti prekių.
-
-143
-
-straipsnis. Laikinojo
-
-išvežimo perdirbti procedūros netaikymas
-
-1.
-
-Laikinojo išvežimo perdirbti procedūra netaikoma Lietuvos prekėms:
-
-1)
-
-kurių išvežimas sąlygoja importo muitų ir mokesčių sugrąžinimą arba atsisakymą
-
-juos išieškoti;
-
-2)
-
-kurios prieš jų išvežimą buvo išleistos laisvai cirkuliuoti, visai
-
-neapmokestinant importo muitais ar mokesčiais dėl jų ypatingos paskirties, kol
-
-taikomos tokio neapmokestinimo muitais ir mokesčiais sąlygos.
-
-2.
-
-Šio kodekso taikymą reglamentuojantys teisės aktai gali nustatyti atvejus, kai
-
-laikinojo išvežimo perdirbti procedūra gali būti taikoma šio straipsnio 1 dalies
-
-2 punkte nurodytoms prekėms.
-
 142 straipsnis. Bendrosios nuostatos
 
-1.   Atsižvelgiant  į  šio  kodekso
+1. Atsižvelgiant į šio kodekso 151-156
 
-151-156   straipsnių nuostatas,  reglamentuojančias standartinio  prekių
+straipsnių nuostatas, reglamentuojančias standartinio prekių pakeitimo sistemos
 
-pakeitimo sistemos  taikymą,  ir  į 120 straipsnio nuostatas,  laikinojo
+taikymą, ir į 120 straipsnio nuostatas, laikinojo išvežimo perdirbti procedūra
 
-išvežimo   perdirbti  procedūra  taikoma,  kai   iš   Lietuvos Respublikos
+taikoma, kai iš Lietuvos Respublikos muitų teritorijos laikinai išvežamos
 
-muitų  teritorijos laikinai  išvežamos  numatytos perdirbti  Lietuvos prekės ir
+numatytos perdirbti Lietuvos prekės ir išleidžiami laisvai cirkuliuoti, visai
 
-išleidžiami laisvai cirkuliuoti, visai   ar  iš  dalies  neapmokestinant
+ar iš dalies neapmokestinant importo muitais ir mokesčiais, produktai, gauti
 
-importo  muitais   ir mokesčiais, produktai, gauti perdirbus šias prekes.
+perdirbus šias prekes.
 
-2.   Laikinai   išvežamos   perdirbti
+2. Laikinai išvežamos perdirbti Lietuvos
 
-Lietuvos   prekės apmokestinamos   už  jas  nustatytais  eksporto   muitais
+prekės apmokestinamos už jas nustatytais eksporto muitais ir mokesčiais,joms
 
-ir mokesčiais,joms   taikomi   ekonominiai   draudimai bei apribojimai,  taip
+taikomi ekonominiai draudimai bei apribojimai, taip pat kiti formalumai, susiję
 
-pat kiti formalumai,  susiję  su  Lietuvos prekių išvežimu iš Lietuvos
+su Lietuvos prekių išvežimu iš Lietuvos Respublikos muitų teritorijos.
 
-Respublikos muitų teritorijos.
+3. Nustatant laikinojo išvežimo perdirbti
 
-3.  Nustatant  laikinojo  išvežimo
+procedūros atlikimo tvarką, vartojamos šios sąvokos:
 
-perdirbti  procedūros atlikimo tvarką, vartojamos šios sąvokos:
-
-1)  laikinai išvežamos perdirbti prekės -
+1) laikinai išvežamos perdirbti prekės -
 
 prekės, kurioms įforminta laikinojo išvežimo perdirbti procedūra;
 
-2)  perdirbimo  operacijos  -
+2) perdirbimo operacijos - operacijos,
 
-operacijos,  nurodytos  šio kodekso  111  straipsnio  2  dalies  3  punkto  a,
+nurodytos šio kodekso 111 straipsnio 2 dalies 3 punkto a, b ir c papunkčiuose;
 
-b   ir   c papunkčiuose;
+3) kompensaciniai produktai - visi
 
-3)  kompensaciniai  produktai  -  visi
-
-produktai,  gauti atlikus perdirbimo operacijas;
+produktai, gauti atlikus perdirbimo operacijas;
 
 4) išeiga - kompensacinių produktų kiekis
 
@@ -5280,73 +5574,69 @@ produktai,  gauti atlikus perdirbimo operacijas;
 
 143
 
-straipsnis. Laikinojo išvežimo
+straipsnis. Laikinojo
 
-perdirbti  procedūros netaikymas
+išvežimo perdirbti procedūros netaikymas
 
-1.   Laikinojo  išvežimo  perdirbti
+1. Laikinojo išvežimo perdirbti procedūra
 
-procedūra  netaikoma Lietuvos prekėms:
+netaikoma Lietuvos prekėms:
 
-1)  kurių  išvežimas sąlygoja importo
+1) kurių išvežimas sąlygoja importo muitų
 
-muitų  ir  mokesčių sugrąžinimą arba atsisakymą juos išieškoti;
+ir mokesčių sugrąžinimą arba atsisakymą juos išieškoti;
 
-2)  kurios  prieš  jų  išvežimą  buvo
+2) kurios prieš jų išvežimą buvo išleistos
 
-išleistos  laisvai cirkuliuoti,   visai   neapmokestinant  importo   muitais
+laisvai cirkuliuoti, visai neapmokestinant importo muitais ar mokesčiais dėl jų
 
-ar mokesčiais  dėl  jų ypatingos paskirties, kol  taikomos  tokio
+ypatingos paskirties, kol taikomos tokio neapmokestinimo muitais ir mokesčiais
 
-neapmokestinimo muitais ir mokesčiais sąlygos.
+sąlygos.
 
-2.  Šio  kodekso taikymą
+2. Šio kodekso taikymą reglamentuojantys
 
-reglamentuojantys  teisės  aktai gali  nustatyti  atvejus,  kai  laikinojo
+teisės aktai gali nustatyti atvejus, kai laikinojo išvežimo perdirbti procedūra
 
-išvežimo  perdirbti procedūra gali būti taikoma šio straipsnio 1 dalies  2
+gali būti taikoma šio straipsnio 1 dalies 2 punkte nurodytoms prekėms.
 
-punkte nurodytoms prekėms.
+144 straipsnis. Leidimo perdirbti
 
-144 straipsnis. Leidimo perdirbti laikinai išvežtas
+laikinai išvežtas prekes išdavimas
 
-prekes išdavimas
+Leidimas taikyti laikinojo
 
-Leidimas taikyti laikinojo išvežimo
-
-perdirbti procedūrą išduodamas prašymą muitinei pateikusiam asmeniui,
+išvežimo perdirbti procedūrą išduodamas prašymą muitinei pateikusiam asmeniui,
 
 sudariusiam sutartį dėl perdirbimo operacijų atlikimo.
 
-145 straipsnis. Leidimo perdirbti laikinai išvežtas
+145 straipsnis. Leidimo perdirbti
 
-prekes išdavimo sąlygos
+laikinai išvežtas prekes išdavimo sąlygos
 
-Leidimas perdirbti laikinai išvežtas
+Leidimas perdirbti laikinai
 
-prekes išduodamas tik tuo atveju, jeigu:
+išvežtas prekes išduodamas tik tuo atveju, jeigu:
 
-1)
+1) prašymą pateikęs asmuo turi Lietuvos
 
-prašymą pateikęs asmuo turi Lietuvos Respublikos ūkio subjekto statusą;
+Respublikos ūkio subjekto statusą;
 
-2)
+2) įmanoma nustatyti, kad kompensaciniai
 
-įmanoma nustatyti, kad kompensaciniai produktai gauti perdirbus laikinai
+produktai gauti perdirbus laikinai išvežtas prekes. Šio kodekso taikymą
 
-išvežtas prekes. Šio kodekso taikymą reglamentuojantys teisės aktai gali
+reglamentuojantys teisės aktai gali nustatyti atvejus, kai šio reikalavimo
 
-nustatyti atvejus, kai šio reikalavimo taikyti nebūtina;
+taikyti nebūtina;
 
-3)
+3) leidimas taikyti laikinojo išvežimo
 
-leidimas taikyti laikinojo išvežimo perdirbti procedūrą nepažeidžia Lietuvos
+perdirbti procedūrą nepažeidžia Lietuvos Respublikos gamintojų esminių
 
-Respublikos gamintojų esminių interesų, t.y. laikomasi šio kodekso taikymą
+interesų, t.y. laikomasi šio kodekso taikymą reglamentuojančių teisės aktų
 
-reglamentuojančių teisės aktų nustatytų laikinojo išvežimo perdirbti
-
-tikslingumo sąlygų.
+nustatytų laikinojo išvežimo perdirbti tikslingumo sąlygų.
 
 146
 
@@ -5356,43 +5646,41 @@ išvežimo perdirbti laikotarpio ir kompensacinių produktų
 
 išeigos nustatymas
 
-1. Muitinė nustato laikotarpį, per kurį
+1. Muitinė nustato
 
-kompensaciniai produktai turi būti reimportuoti į Lietuvos Respublikos muitų
+laikotarpį, per kurį kompensaciniai produktai turi būti reimportuoti į Lietuvos
 
-teritoriją. Susidarius ypatingoms aplinkybėms ir kai laikinojo išvežimo
+Respublikos muitų teritoriją. Susidarius ypatingoms aplinkybėms ir kai
 
-perdirbti procedūros vykdytojas pateikia motyvuotą prašymą, muitinė išimties
+laikinojo išvežimo perdirbti procedūros vykdytojas pateikia motyvuotą prašymą,
 
-tvarka gali šį laikotarpį pratęsti.
+muitinė išimties tvarka gali šį laikotarpį pratęsti.
 
-2. Muitinė nustato kompensacinių produktų
+2. Muitinė nustato
 
-išeigą arba tam tikrais atvejais jos apskaičiavimo metodą. Išeiga nustatoma
+kompensacinių produktų išeigą arba tam tikrais atvejais jos apskaičiavimo
 
-remiantis informacija apie aplinkybes, kuriomis atliekamos arba turi būti
+metodą. Išeiga nustatoma remiantis informacija apie aplinkybes, kuriomis
 
-atliekamos perdirbimo operacijos.
+atliekamos arba turi būti atliekamos perdirbimo operacijos.
 
-147 straipsnis. Kompensacinių produktų neapmokestinimo
+147 straipsnis. Kompensacinių
 
-importo muitais ir
+produktų neapmokestinimo importo muitais ir
 
 mokesčiais sąlygos
 
-1.
+1. Kompensaciniai produktai visai ar iš dalies
 
-Kompensaciniai produktai visai ar iš dalies neapmokestinami importo muitais ir
+neapmokestinami importo muitais ir mokesčiais šio kodekso 148 straipsnyje nustatytu
 
-mokesčiais šio kodekso 148 straipsnyje nustatytu būdu tiktai tuo atveju, jeigu
+būdu tiktai tuo atveju, jeigu importo muitinės deklaraciją išleidimui laisvai
 
-importo muitinės deklaraciją išleidimui laisvai cirkuliuoti savo vardu arba per
+cirkuliuoti savo vardu arba per įgaliotą atstovą pateikia:
 
-įgaliotą atstovą pateikia:
+1) asmuo, kuriam išduotas
 
-1) asmuo, kuriam išduotas leidimas taikyti
-
-laikinojo išvežimo perdirbti procedūrą;
+leidimas taikyti laikinojo išvežimo perdirbti procedūrą;
 
 2) kitas asmuo, turintis Lietuvos
 
@@ -5402,181 +5690,205 @@ laikinojo išvežimo perdirbti procedūrą, sutikimą, jeigu laikomasi leidime
 
 nustatytų nurodytos muitinės procedūros atlikimo sąlygų.
 
-2. Šio kodekso 148 straipsnyje nustatytas
+2. Šio kodekso 148
 
-visiškas arba dalinis neapmokestinimas importo muitais ir mokesčiais
+straipsnyje nustatytas visiškas arba dalinis neapmokestinimas importo muitais
 
-netaikomas, jeigu nesilaikoma bent vienos iš sąlygų, susijusių su laikinojo
+ir mokesčiais netaikomas, jeigu nesilaikoma bent vienos iš sąlygų, susijusių su
 
-išvežimo perdirbti procedūros taikymu, išskyrus atvejus, kai muitinei priimtinu
+laikinojo išvežimo perdirbti procedūros taikymu, išskyrus atvejus, kai muitinei
 
-būdu įrodoma, kad pažeidimai neturėjo didesnės įtakos tinkamai taikyti nurodytą
+priimtinu būdu įrodoma, kad pažeidimai neturėjo didesnės įtakos tinkamai
 
-muitinės procedūrą.
+taikyti nurodytą muitinės procedūrą.
 
-148 straipsnis. Muitų ir mokesčių už kompensacinius
+148 straipsnis. Muitų ir mokesčių už
 
-produktus, gautus iš laikinai
+kompensacinius produktus, gautus iš laikinai
 
-išvežtų perdirbti prekių, apskaičiavimas
-
-1.
-
-Visiškas arba dalinis neapmokestinimas importo muitais ir mokesčiais,
-
-nustatytas šio kodekso 142 straipsnyje, taikomas atimant iš importo muitų ir
-
-mokesčių sumos, priklausančios sumokėti už išleidžiamus laisvai cirkuliuoti
-
-kompensacinius produktus, importo muitų ir mokesčių sumą, kurią priklausytų
-
-sumokėti pagal tą pačią dieną galiojančias muitų ir mokesčių normas už laikinai
-
-išvežtas perdirbti prekes, jeigu jos būtų importuojamos į Lietuvos Respublikos
-
-muitų teritoriją iš šalies, kurioje buvo atliktos visos perdirbimo operacijos
-
-arba paskutinioji perdirbimo operacija.
-
-2.
-
-Importo muitų ir mokesčių suma, kuri atimama šio straipsnio 1 dalyje nurodytu
-
-būdu, apskaičiuojama remiantis atitinkamų prekių kiekiu ir kitomis jų
-
-charakteristikomis, buvusiomis eksporto muitinės deklaracijos laikinojo
-
-išvežimo perdirbti procedūrai priėmimo dieną, bei muitų ir mokesčių normomis,
-
-taikomomis kompensacinių produktų išleidimui laisvai cirkuliuoti pateiktos
-
-importo muitinės deklaracijos priėmimo dieną.
-
-3.
-
-Laikinai išvežtų perdirbti prekių vertė turi atitikti įskaitytąją į kompensacinių
-
-produktų muitinę vertę remiantis šio kodekso 33 straipsnio 1 dalies 2 punkto a
-
-papunkčiu arba, jeigu laikinai išvežtų perdirbti prekių muitinės vertės
-
-neįmanoma nustatyti nurodytu būdu, kompensacinių produktų muitinės vertės ir
-
-muitinei priimtinu būdu apskaičiuotų laikinai išvežtų perdirbti prekių
-
-perdirbimo išlaidų skirtumą.
-
-4.
-
-Šio kodekso taikymą reglamentuojantys teisės aktai gali nustatyti tam tikras
-
-išlaidas, į kurias neturi būti atsižvelgiama nustatant importo muitų ir
-
-mokesčių sumą, atimamą šio straipsnio 1 dalyje nurodytu būdu. Jeigu prieš
-
-pateikiant prekes laikinojo išvežimo perdirbti procedūrai įforminti jos buvo
-
-išleistos laisvai cirkuliuoti taikant sumažintus importo muitus ar mokesčius
-
-dėl ypatingos prekių paskirties, kol taikomos tokio muitų ir mokesčių
-
-sumažinimo sąlygos, atimama importo muitų ir mokesčių suma yra lygi sumai,
-
-kuria prekės buvo apmokestintos jas išleidžiant laisvai cirkuliuoti.
-
-5.
-
-Jeigu laikinai išvežtos perdirbti prekės jas išleidžiant laisvai cirkuliuoti
-
-galėjo būti neapmokestintos importo muitais ir mokesčiais dėl ypatingos prekių
-
-paskirties arba šie mokesčiai dėl nurodytos priežasties galėjo būti sumažinti,
-
-į šį atleidimą arba sumažinimą atsižvelgiama, jeigu su prekėmis atliktos
-
-operacijos atitiko jų ypatingą paskirtį šalyje, kurioje buvo atliktos visos
-
-perdirbimo operacijos arba paskutinioji perdirbimo operacija.
-
-6.
-
-Jeigu vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis, kuriose
-
-numatytas lengvatinių muitų (preferencijų) taikymas, kompensaciniams produktams
-
-gali būti taikomi lengvatiniai muitai (preferencijos) ir jeigu jie gali būti
-
-taikomi prekėms, pagal savo klasifikaciją atitinkančioms laikinai išvežtas
-
-perdirbti prekes, tai apskaičiuojant importo muitų ir mokesčių sumą, kuri
-
-atimama šio straipsnio 1 dalyje nurodytu būdu, remiamasi importo muitų ir
-
-mokesčių normomis, kurios būtų taikomos laikinai išvežtoms perdirbti prekėms,
-
-atitinkančioms lengvatinių muitų (preferencijų) taikymo reikalavimus.
-
-7.
-
-Taikant šį straipsnį atsižvelgiama į Lietuvos Respublikos tarptautinių sutarčių
-
-nuostatas, pagal kurias Lietuvos ir atitinkamų šalių tarpusavio prekyboje tam
-
-tikri kompensaciniai produktai neapmokestinami arba gali būti neapmokestinami
-
-importo muitais ir mokesčiais.
-
-149 straipsnis. Laikinai išvežtų nemokamai remontuoti
-
-prekių neapmokestinimas
-
-importo muitais ir mokesčiais
-
-1.
-
-Kai laikinai išvežtų prekių perdirbimo tikslas buvo jų remontas, prekės
-
-išleidžiamos laisvai cirkuliuoti visai neapmokestintos importo muitais ir
-
-mokesčiais, jeigu muitinei priimtinu būdu įrodoma, kad jos buvo remontuojamos
-
-nemokamai, taip pat remiantis įstatymų ar sutarties numatyta asmens pareiga
-
-atlikti remontą pagal garantiją arba dėl gamybos defekto.
-
-2.
-
-Šio straipsnio 1 dalis netaikoma, jeigu defektas buvo užfiksuotas anksčiau,
-
-t.y. iki prekių išleidimo laisvai cirkuliuoti.
-
-150 straipsnis. Muitų ir mokesčių už laikinai išvežtas
-
-mokamai remontuoti prekes
+išvežtų perdirbti prekių,
 
 apskaičiavimas
 
-Jei
+1. Visiškas arba dalinis neapmokestinimas
 
-laikinai išvežtų prekių perdirbimo tikslas buvo jų remontas ir už šį remontą
+importo muitais ir mokesčiais, nustatytas šio kodekso 142 straipsnyje, taikomas
 
-mokama sugrąžinus prekes, taikomas šio kodekso142straipsnyjenustatytasdalinis
+atimant iš importo muitų ir mokesčių sumos, priklausančios sumokėti už
 
-neapmokestinimas importo muitais ir mokesčiais. Importo muitų ir mokesčių suma
+išleidžiamus laisvai cirkuliuoti kompensacinius produktus, importo muitų ir
 
-apskaičiuojama pagal normas, taikomas kompensaciniams produktams jų išleidimui
+mokesčių sumą, kurią priklausytų sumokėti pagal tą pačią dieną galiojančias
 
-laisvai cirkuliuoti pateiktos importo muitinės deklaracijos priėmimo dieną. Šių
+muitų ir mokesčių normas už laikinai išvežtas perdirbti prekes, jeigu jos būtų
 
-prekių muitine verte laikoma suma, lygi jų remonto išlaidoms, jeigu šios
+importuojamos į Lietuvos Respublikos muitų teritoriją iš šalies, kurioje buvo
 
-išlaidos yra vienintelis asmens, kuriam išduotas leidimas taikyti laikinojo
+atliktos visos perdirbimo operacijos arba paskutinioji perdirbimo operacija.
 
-išvežimo perdirbti procedūrą, atlygis už atliktą remontą ir jeigu šio atlygio
+2. Importo muitų ir mokesčių suma, kuri
 
-dydžiui neturėjo įtakos jokie nurodyto asmens ir remonto operacijas atlikusio
+atimama šio straipsnio 1 dalyje nurodytu būdu, apskaičiuojama remiantis
 
-asmens tarpusavio ryšiai.
+atitinkamų prekių kiekiu ir kitomis jų charakteristikomis, buvusiomis eksporto
+
+muitinės deklaracijos laikinojo išvežimo perdirbti procedūrai priėmimo dieną,
+
+bei muitų ir mokesčių normomis, taikomomis kompensacinių produktų išleidimui
+
+laisvai cirkuliuoti pateiktos importo muitinės deklaracijos priėmimo dieną.
+
+3. Laikinai išvežtų perdirbti prekių vertė
+
+turi atitikti įskaitytąją į kompensacinių produktų muitinę vertę remiantis šio
+
+kodekso 33 straipsnio 1 dalies 2 punkto a papunkčiu arba, jeigu laikinai
+
+išvežtų perdirbti prekių muitinės vertės neįmanoma nustatyti nurodytu būdu,
+
+kompensacinių produktų muitinės vertės ir muitinei priimtinu būdu apskaičiuotų
+
+laikinai išvežtų perdirbti prekių perdirbimo išlaidų skirtumą.
+
+4. Šio kodekso taikymą reglamentuojantys
+
+teisės aktai gali nustatyti tam tikras išlaidas, į kurias neturi būti
+
+atsižvelgiama nustatant importo muitų ir mokesčių sumą, atimamą šio straipsnio
+
+1 dalyje nurodytu būdu. Jeigu prieš pateikiant prekes laikinojo išvežimo
+
+perdirbti procedūrai įforminti jos buvo išleistos laisvai cirkuliuoti taikant
+
+sumažintus importo muitus ar mokesčius dėl ypatingos prekių paskirties, kol
+
+taikomos tokio muitų ir mokesčių sumažinimo sąlygos, atimama importo muitų ir
+
+mokesčių suma yra lygi sumai, kuria prekės buvo apmokestintos jas išleidžiant
+
+laisvai cirkuliuoti.
+
+5. Jeigu laikinai išvežtos perdirbti
+
+prekės jas išleidžiant laisvai cirkuliuoti galėjo būti neapmokestintos importo
+
+muitais ir mokesčiais dėl ypatingos prekių paskirties arba šie mokesčiai dėl
+
+nurodytos priežasties galėjo būti sumažinti, į šį atleidimą arba sumažinimą
+
+atsižvelgiama, jeigu su prekėmis atliktos operacijos atitiko jų ypatingą
+
+paskirtį šalyje, kurioje buvo atliktos visos perdirbimo operacijos arba
+
+paskutinioji perdirbimo operacija.
+
+6. Jeigu vadovaujantis Lietuvos
+
+Respublikos tarptautinėmis sutartimis, kuriose numatytas lengvatinių muitų
+
+(preferencijų) taikymas, kompensaciniams produktams gali būti taikomi
+
+lengvatiniai muitai (preferencijos) ir jeigu jie gali būti taikomi prekėms,
+
+pagal savo klasifikaciją atitinkančioms laikinai išvežtas perdirbti prekes, tai
+
+apskaičiuojant importo muitų ir mokesčių sumą, kuri atimama šio straipsnio 1
+
+dalyje nurodytu būdu, remiamasi importo muitų ir mokesčių normomis, kurios būtų
+
+taikomos laikinai išvežtoms perdirbti prekėms, atitinkančioms lengvatinių muitų
+
+(preferencijų) taikymo reikalavimus.
+
+7. Taikant šį straipsnį atsižvelgiama į
+
+Lietuvos Respublikos tarptautinių sutarčių nuostatas, pagal kurias Lietuvos ir
+
+atitinkamų šalių tarpusavio prekyboje tam tikri kompensaciniai produktai
+
+neapmokestinami arba gali būti neapmokestinami importo muitais ir mokesčiais.
+
+149 straipsnis. Laikinai išvežtų
+
+nemokamai remontuoti prekių neapmokestinimas
+
+importo muitais ir mokesčiais
+
+1. Kai laikinai išvežtų prekių perdirbimo
+
+tikslas buvo jų remontas, prekės išleidžiamos laisvai cirkuliuoti visai
+
+neapmokestintos importo muitais ir mokesčiais, jeigu muitinei priimtinu būdu įrodoma,
+
+kad jos buvo remontuojamos nemokamai, taip pat remiantis įstatymų ar sutarties
+
+numatyta asmens pareiga atlikti remontą pagal garantiją arba dėl gamybos
+
+defekto.
+
+2. Šio straipsnio 1 dalis netaikoma, jeigu
+
+defektas buvo užfiksuotas anksčiau, t.y. iki prekių išleidimo laisvai
+
+cirkuliuoti.
+
+150 straipsnis. Muitų ir mokesčių už
+
+laikinai išvežtas mokamai remontuoti prekes
+
+apskaičiavimas
+
+Jei laikinai išvežtų prekių perdirbimo
+
+tikslas buvo jų remontas ir už šį remontą mokama sugrąžinus prekes, taikomas šio
+
+kodekso142straipsnyjenustatytasdalinis neapmokestinimas importo muitais ir
+
+mokesčiais. Importo muitų ir mokesčių suma apskaičiuojama pagal normas,
+
+taikomas kompensaciniams produktams jų išleidimui laisvai cirkuliuoti pateiktos
+
+importo muitinės deklaracijos priėmimo dieną. Šių prekių muitine verte laikoma
+
+suma, lygi jų remonto išlaidoms, jeigu šios išlaidos yra vienintelis asmens,
+
+kuriam išduotas leidimas taikyti laikinojo išvežimo perdirbti procedūrą,
+
+atlygis už atliktą remontą ir jeigu šio atlygio dydžiui neturėjo įtakos jokie
+
+nurodyto asmens ir remonto operacijas atlikusio asmens tarpusavio ryšiai.
+
+[Kodeksas papildomas
+
+150(1) straipsniu
+
+nuo 2002 m. birželio 1 d.:
+
+150(1) straipsnis. Muitų
+
+ir mokesčių už laikinai išvežtas perdirbti prekes apskaičiavimas
+
+remiantis su šiomis prekėmis atliktų
+
+perdirbimo operacijų išlaidomis
+
+Skirtingai, negu nustatyta šio kodekso
+
+148 straipsnyje, šio kodekso taikymą reglamentuojantys teisės aktai gali
+
+nustatyti atvejus ir sąlygas, kai išleidžiant laisvai cirkuliuoti laikinai
+
+išvežtas perdirbti prekes už jas nustatyti importo muitai ir mokesčiai
+
+apskaičiuojami remiantis su šiomis prekėmis atliktų perdirbimo operacijų
+
+išlaidomis.]
+
+Kodeksas papildytas straipsniu:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 Vienuoliktasis skirsnis
 
@@ -5586,323 +5898,377 @@ PREKIŲ
 
 PAKEITIMO SISTEMĄ
 
-151 straipsnis. Standartinio prekių pakeitimo sistemos
+151 straipsnis. Standartinio prekių
 
-taikymas
+pakeitimo sistemos taikymas
 
-1. Laikantis šiame skirsnyje nustatytų papildomų
+1. Laikantis šiame skirsnyje nustatytų
 
-sąlygų, reglamentuojančių laikinojo išvežimo perdirbti procedūros atlikimo
+papildomų sąlygų, reglamentuojančių laikinojo išvežimo perdirbti procedūros
 
-tvarką, kai taikoma standartinio prekių pakeitimo sistema, kompensaciniai
+atlikimo tvarką, kai taikoma standartinio prekių pakeitimo sistema,
 
-produktai gali būti pakeisti kitais produktais, kurie toliau vadinami pakaitos
+kompensaciniai produktai gali būti pakeisti kitais produktais, kurie toliau
 
-produktais.
+vadinami pakaitos produktais.
 
-2.
+2. Jei muitinė sutinka, standartinio
 
-Jei muitinė sutinka, standartinio prekių pakeitimo sistema gali būti taikoma
+prekių pakeitimo sistema gali būti taikoma laikinai išvežtoms perdirbti
 
-laikinai išvežtoms perdirbti prekėms, kurių perdirbimo operacijos pagal savo
+prekėms, kurių perdirbimo operacijos pagal savo pobūdį atitinka Lietuvos prekių
 
-pobūdį atitinka Lietuvos prekių remontą, išskyrus prekes, kurioms remiantis šio
+remontą, išskyrus prekes, kurioms remiantis šio kodekso taikymą
 
-kodekso taikymą reglamentuojančiais teisės aktais standartinio prekių pakeitimo
+reglamentuojančiais teisės aktais standartinio prekių pakeitimo sistema
 
-sistema netaikoma.
+netaikoma.
 
-3.
+3. Nuostatos, taikomos kompensaciniams
 
-Nuostatos, taikomos kompensaciniams produktams, taip pat taikomos ir pakaitos
+produktams, taip pat taikomos ir pakaitos produktams, išskyrus šio kodekso 156
 
-produktams, išskyrus šio kodekso 156 straipsnyje nurodytą atvejį.
+straipsnyje nurodytą atvejį.
 
-4.
+4. Jei muitinė sutinka ir laikomasi jos
 
-Jei muitinė sutinka ir laikomasi jos nustatytų sąlygų, pakaitos produktai gali
+nustatytų sąlygų, pakaitos produktai gali būti importuojami anksčiau, negu
 
-būti importuojami anksčiau, negu prekės laikinai išvežamos perdirbti. Tokiu
+prekės laikinai išvežamos perdirbti. Tokiu atveju turi būti pateikta garantija,
 
-atveju turi būti pateikta garantija, užtikrinanti, kad bus sumokėti už pakaitos
+užtikrinanti, kad bus sumokėti už pakaitos produktus nustatyti importo muitai
 
-produktus nustatyti importo muitai ir mokesčiai.
+ir mokesčiai.
 
-5.
+5. Jei muitinė sutinka ir laikomasi jos
 
-Jei muitinė sutinka ir laikomasi jos nustatytų sąlygų, standartinio prekių
+nustatytų sąlygų, standartinio prekių pakeitimo sistema gali būti taikoma
 
-pakeitimo sistema gali būti taikoma importuojant pakaitos produktus ir šio
+importuojant pakaitos produktus ir šio kodekso 178 straipsnyje nustatyta tvarka
 
-kodekso 178 straipsnyje nustatyta tvarka sunaikinant prekes, kurios turi būti
+sunaikinant prekes, kurios turi būti laikinai išvežtos perdirbti.
 
-laikinai išvežtos perdirbti.
+152 straipsnis. Pakaitos produktų
 
-152 straipsnis. Pakaitos produktų charakteristikos
+charakteristikos
 
-1. Pakaitos produktai turi būti taip pat
+1. Pakaitos produktai turi
 
-klasifikuojami ir turėti tas pačias kokybines bei technines charakteristikas
+būti taip pat klasifikuojami ir turėti tas pačias kokybines bei technines
 
-kaip ir laikinai išvežtos perdirbti prekės, jeigu su pastarosiomis būtų
+charakteristikas kaip ir laikinai išvežtos perdirbti prekės, jeigu su
 
-atliktos tos pačios remonto operacijos.
+pastarosiomis būtų atliktos tos pačios remonto operacijos.
 
-2. Jeigu prieš laikinai išvežant perdirbti
+2. Jeigu prieš laikinai
 
-prekės buvo naudotos, pakaitos produktai taip pat turi būti naudotos, o ne
+išvežant perdirbti prekės buvo naudotos, pakaitos produktai taip pat turi būti
 
-naujos prekės. Turint muitinės sutikimą, ši taisyklė gali būti netaikoma, jeigu
+naudotos, o ne naujos prekės. Turint muitinės sutikimą, ši taisyklė gali būti
 
-pakaitos produktai pateikiami nemokamai, taip pat remiantis įstatymų ar
+netaikoma, jeigu pakaitos produktai pateikiami nemokamai, taip pat remiantis
 
-sutarties numatyta asmens pareiga atlikti remontą pagal garantiją arba dėl
+įstatymų ar sutarties numatyta asmens pareiga atlikti remontą pagal garantiją
 
-gamybos defekto.
+arba dėl gamybos defekto.
 
-153 straipsnis. Leidimo taikyti standartinio pakeitimo
+153 straipsnis. Leidimo taikyti
 
-sistemą išdavimo sąlygos
+standartinio pakeitimo sistemą išdavimo sąlygos
 
-Leidimas taikyti standartinio pakeitimo
+Leidimas taikyti
 
-sistemą išduodamas, jeigu įmanoma patikrinti, ar laikomasi šio kodekso 152
+standartinio pakeitimo sistemą išduodamas, jeigu įmanoma patikrinti, ar
 
-straipsnyje nustatytų sąlygų.
+laikomasi šio kodekso 152 straipsnyje nustatytų sąlygų.
 
-154 straipsnis. Pakaitos produktų importavimas
+154 straipsnis. Pakaitos produktų
 
-anksčiau už laikinąjį prekių išvežimą
+importavimas anksčiau už laikinąjį prekių išvežimą
 
 perdirbti
 
-1. Jei pakaitos produktai importuojami
+1. Jei pakaitos produktai
 
-anksčiau, negu prekės laikinai išvežamos perdirbti, pastarosios prekės turi
+importuojami anksčiau, negu prekės laikinai išvežamos perdirbti, pastarosios
 
-būti išvežamos per 2 mėnesius nuo importo muitinės deklaracijos, pateiktos
+prekės turi būti išvežamos per 2 mėnesius nuo importo muitinės deklaracijos,
 
-pakaitos produktų išleidimui laisvai cirkuliuoti, priėmimo dienos.
+pateiktos pakaitos produktų išleidimui laisvai cirkuliuoti, priėmimo dienos.
 
-2.
+2. Jei susidaro ypatingos aplinkybės ir
 
-Jei susidaro ypatingos aplinkybės ir laikinojo išvežimo perdirbti procedūros
+laikinojo išvežimo perdirbti procedūros vykdytojas pateikia motyvuotą prašymą,
 
-vykdytojas pateikia motyvuotą prašymą, muitinė išimties tvarka gali pratęsti
+muitinė išimties tvarka gali pratęsti šio straipsnio 1 dalyje nurodytą
 
-šio straipsnio 1 dalyje nurodytą laikotarpį, bet ne daugiau kaip iki 6 mėnesių
+laikotarpį, bet ne daugiau kaip iki 6 mėnesių nuo importo muitinės deklaracijos,
 
-nuo importo muitinės deklaracijos, pateiktos pakaitos produktų išleidimui
+pateiktos pakaitos produktų išleidimui laisvai cirkuliuoti, priėmimo dienos.
 
-laisvai cirkuliuoti, priėmimo dienos.
+155 straipsnis. Muitų ir mokesčių už
 
-155 straipsnis. Muitų ir mokesčių už pakaitos
+pakaitos produktus apskaičiavimas
 
-produktus apskaičiavimas
+Jei pakaitos produktai importuojami
 
-Jei
+anksčiau, negu prekės laikinai išvežamos perdirbti, ir jei taikomos šio kodekso
 
-pakaitos produktai importuojami anksčiau, negu prekės laikinai išvežamos
+148 straipsnio nuostatos, tai apskaičiuojant atimamą importo muitų ir mokesčių
 
-perdirbti, ir jei taikomos šio kodekso 148 straipsnio nuostatos, tai
+sumą remiamasi importo muitų ir mokesčių normomis, kurios taikomos laikinai
 
-apskaičiuojant atimamą importo muitų ir mokesčių sumą remiamasi importo muitų
+išvežamoms perdirbti prekėms, jų eksporto muitinės deklaracijos nurodytai muitinės
 
-ir mokesčių normomis, kurios taikomos laikinai išvežamoms perdirbti prekėms, jų
+procedūrai priėmimo dieną.
 
-eksporto muitinės deklaracijos nurodytai muitinės procedūrai priėmimo dieną.
+156 straipsnis. Nuostatos,
 
-156 straipsnis. Nuostatos, netaikomos standartinio
+netaikomos standartinio prekių pakeitimo sistemai
 
-prekių pakeitimo sistemai
+Šio kodekso 145 straipsnio 2 punkto
 
-Šio
-
-kodekso 145 straipsnio 2 punkto nuostatos standartinio prekių pakeitimo
-
-sistemai netaikomos.
+nuostatos standartinio prekių pakeitimo sistemai netaikomos.
 
 Dvyliktasis skirsnis
 
 LAIKINASIS IŠVEŽIMAS
 
-157 straipsnis. Laikinojo išvežimo procedūros taikymas
+157 straipsnis. Laikinojo išvežimo
 
-1.
+procedūros taikymas
 
-Laikinojo išvežimo procedūra taikoma, kai ne Lietuvos Respublikos muitų
+1. Laikinojo išvežimo procedūra taikoma,
 
-teritorijoje laikomos arba naudojamos Lietuvos prekės, kurias numatyta
+kai ne Lietuvos Respublikos muitų teritorijoje laikomos arba naudojamos
 
-reimportuoti neperdirbtas ir nepakeistas (išskyrus normalų prekių nusidėvėjimą
+Lietuvos prekės, kurias numatyta reimportuoti neperdirbtas ir nepakeistas
 
-dėl įprastinio jų naudojimo). Reimportuotos prekės išleidžiamos laisvai
+(išskyrus normalų prekių nusidėvėjimą dėl įprastinio jų naudojimo).
 
-cirkuliuoti neapmokestinant importo muitais bei mokesčiais ir netaikant
+Reimportuotos prekės išleidžiamos laisvai cirkuliuoti neapmokestinant importo
 
-ekonominių draudimų bei apribojimų. Laikinojo išvežimo procedūros taikymas ir
+muitais bei mokesčiais ir netaikant ekonominių draudimų bei apribojimų.
 
-informacija apie leidimą ją atlikti turi būti nurodyti išleidimui laisvai
+Laikinojo išvežimo procedūros taikymas ir informacija apie leidimą ją atlikti
 
-cirkuliuoti pateiktoje importo deklaracijoje. Muitinės reikalavimu nurodytas
+turi būti nurodyti išleidimui laisvai cirkuliuoti pateiktoje importo
 
-leidimas turi būti pateiktas kartu su šia deklaracija.
+deklaracijoje. Muitinės reikalavimu nurodytas leidimas turi būti pateiktas
 
-2.
+kartu su šia deklaracija.
 
-Laikinai išvežant Lietuvos prekes, taikomi už jas nustatyti eksporto muitai ir
+2. Laikinai išvežant Lietuvos prekes,
 
-mokesčiai bei ekonominiai draudimai ir apribojimai, taip pat kiti formalumai,
+taikomi už jas nustatyti eksporto muitai ir mokesčiai bei ekonominiai draudimai
 
-susiję su Lietuvos prekių išvežimu iš Lietuvos Respublikos muitų teritorijos.
+ir apribojimai, taip pat kiti formalumai, susiję su Lietuvos prekių išvežimu iš
 
-Jeigu išleidžiant laisvai cirkuliuoti laikinai išvežtas prekes laikomasi šio
+Lietuvos Respublikos muitų teritorijos. Jeigu išleidžiant laisvai cirkuliuoti
 
-straipsnio 1 dalyje nustatytų sąlygų, už jas sumokėti eksporto muitai ir
+laikinai išvežtas prekes laikomasi šio straipsnio 1 dalyje nustatytų sąlygų, už
 
-mokesčiai grąžinami arba atsisakoma juos išieškoti.
+jas sumokėti eksporto muitai ir mokesčiai grąžinami arba atsisakoma juos
 
-3.
+išieškoti.
 
-Jeigu iki prekių laikinojo išvežimo iš Lietuvos Respublikos muitų teritorijos
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-jos buvo išleistos laisvai cirkuliuoti neapmokestinant importo muitais ir
+2. Laikinai išvežant Lietuvos prekes,
 
-mokesčiais arba sumažinus šiuos mokesčius dėl ypatingos prekių paskirties,
+taikomi už jas nustatyti eksporto muitai ir mokesčiai bei ekonominiai draudimai
 
-pagal šio straipsnio 1 dalį jos neapmokestinamos importo muitais ir mokesčiais
+ir apribojimai, taip pat kiti formalumai, susiję su Lietuvos prekių išvežimu iš
 
-tik tuo atveju, jeigu prekių paskirtis išlieka ta pati. Jeigu reimportuojamų
+Lietuvos Respublikos muitų teritorijos. Jeigu išleidžiant laisvai cirkuliuoti
 
-prekių paskirtis pakinta, iš prekėms taikomų importo muitų ir mokesčių sumos
+laikinai išvežtas prekes laikomasi šio straipsnio 1 dalyje nustatytų sąlygų, už
 
-atimami muitai ir mokesčiai, sumokėti už prekes pirmą kartą išleidžiant laisvai
+jas sumokėti eksporto muitai ir mokesčiai grąžinami arba atsisakoma išieškoti
 
-cirkuliuoti. Jeigu pastaroji muitų ir mokesčių suma viršija sumą, mokėtiną išleidžiant
+mokėtinus eksporto muitus ir mokesčius.]
 
-laisvai cirkuliuoti reimportuotas prekes, sumokėti muitai ir mokesčiai
+3. Jeigu iki prekių laikinojo išvežimo iš
 
-negrąžinami.
+Lietuvos Respublikos muitų teritorijos jos buvo išleistos laisvai cirkuliuoti neapmokestinant
 
-158 straipsnis. Leidimo laikinai išvežti prekes
+importo muitais ir mokesčiais arba sumažinus šiuos mokesčius dėl ypatingos
 
-išdavimas
+prekių paskirties, pagal šio straipsnio 1 dalį jos neapmokestinamos importo
 
-Leidimas
+muitais ir mokesčiais tik tuo atveju, jeigu prekių paskirtis išlieka ta pati.
 
-laikinai išvežti prekes išduodamas asmeniui, sudariusiam sutartį dėl jų laikymo
+Jeigu reimportuojamų prekių paskirtis pakinta, iš prekėms taikomų importo muitų
 
-arba naudojimo.
+ir mokesčių sumos atimami muitai ir mokesčiai, sumokėti už prekes pirmą kartą
 
-159 straipsnis. Leidimo laikinai išvežti prekes
+išleidžiant laisvai cirkuliuoti. Jeigu pastaroji muitų ir mokesčių suma viršija
 
-išdavimo sąlygos
+sumą, mokėtiną išleidžiant laisvai cirkuliuoti reimportuotas prekes, sumokėti
 
-Leidimas
+muitai ir mokesčiai negrąžinami.
 
-laikinai išvežti prekes išduodamas tik tuo atveju, jei įmanoma užtikrinti
+Straipsnio pakeitimai:
 
-laikinai išvežtų prekių identifikavimą jas reimportuojant. Muitinė gali leisti
+Nr. IX-624,
 
-taikyti laikinojo išvežimo procedūrą ir tuo atveju, kai laikinai išvežtų prekių
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-identifikuoti neįmanoma, jei netaikant identifikavimo priemonių nesusidarys
+158 straipsnis. Leidimo laikinai
 
-sąlygų pažeisti šios muitinės procedūros atlikimo tvarką.
+išvežti prekes išdavimas
 
-160 straipsnis. Laikinojo išvežimo laikotarpis
+Leidimas laikinai išvežti prekes
 
-1.
+išduodamas asmeniui, sudariusiam sutartį dėl jų laikymo arba naudojimo.
 
-Muitinė nustato laikotarpį, per kurį laikinai išvežtos prekės turi būti
+159 straipsnis. Leidimo laikinai
 
-reimportuotos ir pateiktos muitinės sankcionuotiems veiksmams įforminti.
+išvežti prekes išdavimo sąlygos
 
-Laikotarpis nustatomas atsižvelgiant į leidime laikinai išvežti prekes
+Leidimas laikinai išvežti prekes
 
-nurodytam prekių laikymui arba naudojimui reikalingą laiko trukmę, tačiau
+išduodamas tik tuo atveju, jei įmanoma užtikrinti laikinai išvežtų prekių
 
-negali viršyti 24 mėnesių.
+identifikavimą jas reimportuojant. Muitinė gali leisti taikyti laikinojo
 
-2.
+išvežimo procedūrą ir tuo atveju, kai laikinai išvežtų prekių identifikuoti
 
-Muitinė turi teisę, atsižvelgdama į laikinai išvežtų prekių laikymo arba
+neįmanoma, jei netaikant identifikavimo priemonių nesusidarys sąlygų pažeisti
 
-naudojimo aplinkybes, laikinojo išvežimo procedūros vykdytojo prašymu pratęsti
+šios muitinės procedūros atlikimo tvarką.
 
-šio straipsnio 1 dalyje nurodytą laikotarpį iki leidime nurodytam prekių
+160 straipsnis. Laikinojo išvežimo
 
-laikymui arba naudojimui reikalingo termino, bet ne daugiau kaip 12 mėnesių nuo
+laikotarpis
 
-nustatyto laikinojo išvežimo laikotarpio pabaigos.
+1. Muitinė nustato laikotarpį, per kurį
+
+laikinai išvežtos prekės turi būti reimportuotos ir pateiktos muitinės
+
+sankcionuotiems veiksmams įforminti. Laikotarpis nustatomas atsižvelgiant į
+
+leidime laikinai išvežti prekes nurodytam prekių laikymui arba naudojimui
+
+reikalingą laiko trukmę, tačiau negali viršyti 24 mėnesių.
+
+2. Muitinė turi teisę, atsižvelgdama į
+
+laikinai išvežtų prekių laikymo arba naudojimo aplinkybes, laikinojo išvežimo
+
+procedūros vykdytojo prašymu pratęsti šio straipsnio 1 dalyje nurodytą
+
+laikotarpį iki leidime nurodytam prekių laikymui arba naudojimui reikalingo
+
+termino, bet ne daugiau kaip 12 mėnesių nuo nustatyto laikinojo išvežimo
+
+laikotarpio pabaigos.
+
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+2. Muitinė turi teisę, atsižvelgdama į
+
+laikinai išvežtų prekių laikymo arba naudojimo aplinkybes, laikinojo išvežimo
+
+procedūros vykdytojo prašymu pratęsti šio straipsnio 1 dalyje nurodytą
+
+laikotarpį iki leidime nurodytam prekių laikymui arba naudojimui reikalingo
+
+termino.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 Tryliktasis skirsnis
 
 NEGRĄŽINAMASIS EKSPORTAS
 
-161 straipsnis. Negrąžinamojo eksporto procedūros
+161 straipsnis. Negrąžinamojo
 
-taikymas
+eksporto procedūros taikymas
 
-1.
+1. Negrąžinamojo eksporto procedūra
 
-Negrąžinamojo eksporto procedūra taikoma, kai Lietuvos prekės išvežamos iš
+taikoma, kai Lietuvos prekės išvežamos iš Lietuvos Respublikos muitų
 
-Lietuvos Respublikos muitų teritorijos. Negrąžinamai eksportuojant prekes,
+teritorijos. Negrąžinamai eksportuojant prekes, taikomi už jas nustatyti
 
-taikomi už jas nustatyti eksporto muitai bei mokesčiai ir ekonominiai draudimai
+eksporto muitai bei mokesčiai ir ekonominiai draudimai bei apribojimai, taip
 
-bei apribojimai, taip pat prekių išvežimo iš Lietuvos Respublikos muitų
+pat prekių išvežimo iš Lietuvos Respublikos muitų teritorijos muitinės
 
-teritorijos muitinės priežiūros priemonės.
+priežiūros priemonės.
 
-2.
+2. Visos iš Lietuvos Respublikos muitų
 
-Visos iš Lietuvos Respublikos muitų teritorijos išvežamos prekės turi būti
+teritorijos išvežamos prekės turi būti pateikiamos negrąžinamojo eksporto
 
-pateikiamos negrąžinamojo eksporto procedūrai įforminti, išskyrus prekes,
+procedūrai įforminti, išskyrus prekes, kurioms įforminta laikinojo išvežimo
 
-kurioms įforminta laikinojo išvežimo perdirbti, laikinojo išvežimo arba
+perdirbti, laikinojo išvežimo arba muitinio tranzito procedūra, jei muitinio
 
-muitinio tranzito procedūra, jei muitinio tranzito procedūra taikoma šio
+tranzito procedūra taikoma šio kodekso 91 straipsnyje nurodytoms prekėms.
 
-kodekso 91 straipsnyje nurodytoms prekėms.
+3. Šio kodekso taikymą reglamentuojantys
 
-3.
+teisės aktai gali nustatyti atvejus, kada išvežant prekes iš Lietuvos
 
-Šio kodekso taikymą reglamentuojantys teisės aktai gali nustatyti atvejus, kada
+Respublikos muitų teritorijos nereikia pateikti eksporto muitinės deklaracijos.
 
-išvežant prekes iš Lietuvos Respublikos muitų teritorijos nereikia pateikti
+162 straipsnis. Eksportuojamų prekių
 
-eksporto muitinės deklaracijos.
+išleidimas ir jų eksporto kontrolė
 
-162 straipsnis. Eksportuojamų prekių išleidimas ir jų
+1. Eksportuojamos prekės išleidžiamos,
 
-eksporto kontrolė
+jeigu jos išvežamos iš Lietuvos Respublikos muitų teritorijos tokio pat
 
-1.
+pavidalo, kokio buvo eksporto muitinės deklaracijos priėmimo metu.
 
-Eksportuojamos prekės išleidžiamos, jeigu jos išvežamos iš Lietuvos Respublikos
+2. Muitinė paprastai nereikalauja, kad
 
-muitų teritorijos tokio pat pavidalo, kokio buvo eksporto muitinės deklaracijos
+deklarantas pateiktų dokumentus, patvirtinančius, jog prekės pristatytos
 
-priėmimo metu.
+gavėjui. Pateikti šiuos dokumentus gali būti reikalaujama, jei kitaip neįmanoma
 
-2.
+įrodyti, kad negrąžinamojo eksporto procedūra atlikta, taip pat kai šie
 
-Muitinė paprastai nereikalauja, kad deklarantas pateiktų dokumentus,
+dokumentai reikalingi, kad būtų grąžinti muitai ar mokesčiai, ir eksportuojant
 
-patvirtinančius, jog prekės pristatytos gavėjui. Pateikti šiuos dokumentus gali
+prekes, kurioms strateginių prekių ir technologijų importo, tranzito ir
 
-būti reikalaujama, jei kitaip neįmanoma įrodyti, kad negrąžinamojo eksporto
+eksporto kontrolės įstatymo bei kitų teisės aktų nustatyta tvarka taikomos
 
-procedūra atlikta, taip pat kai šie dokumentai reikalingi, kad būtų grąžinti
+specialiosios eksporto kontrolės priemonės.
 
-muitai ar mokesčiai, ir eksportuojant prekes, kurioms strateginių prekių ir
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-technologijų importo, tranzito ir eksporto kontrolės įstatymo bei kitų teisės
+2. Muitinė paprastai nereikalauja, kad
 
-aktų nustatyta tvarka taikomos specialiosios eksporto kontrolės priemonės.
+deklarantas pateiktų dokumentus, patvirtinančius, kad prekės pristatytos
+
+gavėjui, įvežtos į užsienio valstybę arba išvežtos iš Lietuvos Respublikos
+
+muitų teritorijos. Pateikti šiuos dokumentus gali būti reikalaujama, jei kitaip
+
+neįmanoma įrodyti, kad negrąžinamojo eksporto procedūra atlikta, taip pat kai
+
+šie dokumentai reikalingi, kad būtų grąžinti muitai ir (arba) mokesčiai, ir
+
+eksportuojant prekes, kurioms Strateginių prekių ir technologijų importo,
+
+tranzito ir eksporto kontrolės įstatymo bei kitų teisės aktų nustatyta tvarka
+
+taikomos specialiosios eksporto kontrolės priemonės.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 XII SKYRIUS
 
@@ -5920,35 +6286,63 @@ Nr.75-2269 (00.09.07), įsigalioja nuo 2000.10.01
 
 163 straipsnis. Bendrosios nuostatos
 
-1. Laisvosios zonos ir laisvieji sandėliai yra
+1. Laisvosios zonos ir laisvieji
 
-Lietuvos Respublikos muitų teritorijos dalys arba šioje teritorijoje esančios
+sandėliai yra Lietuvos Respublikos muitų teritorijos dalys arba šioje
 
-patalpos, atskirtos nuo likusios nurodytos teritorijos dalies, kuriose ne
+teritorijoje esančios patalpos, atskirtos nuo likusios nurodytos teritorijos
 
-Lietuvos prekės importo muitų bei mokesčių ir ekonominių draudimų bei
+dalies, kuriose ne Lietuvos prekės importo muitų bei mokesčių ir ekonominių
 
-apribojimų požiūriu laikomos esančiomis ne Lietuvos Respublikos muitų
+draudimų bei apribojimų požiūriu laikomos esančiomis ne Lietuvos Respublikos
 
-teritorijoje, išskyrus atvejus, kai šios prekės išleidžiamos laisvai
+muitų teritorijoje, išskyrus atvejus, kai šios prekės išleidžiamos laisvai
 
 cirkuliuoti, pateikiamos kitai muitinės procedūrai įforminti arba laikomos ar
 
-naudojamos kitomis sąlygomis, negu nustatyta šio kodekso, Laisvųjų ekonominių
+naudojamos kitomis sąlygomis, negu nustatyta šio kodekso, Laisvųjų ekonominių zonų
 
-zonų pagrindų įstatymo, laisvosios ekonominės zonos steigimo įstatymo, Klaipėdos
+pagrindų įstatymo, laisvosios ekonominės zonos steigimo įstatymo, Klaipėdos
 
 valstybinio jūrų uosto įstatymo ir kitų teisės aktų.
 
-2. Išvežant Lietuvos prekes į laisvąją zoną arba
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-padedant jas į laisvąjį sandėlį, taikomos priemonės ir formalumai, susiję su
+1. Laisvosios zonos ir laisvieji
 
-atitinkamų prekių negrąžinamuoju eksportu, jeigu įstatymai ir kiti teisės aktai
+sandėliai yra Lietuvos Respublikos muitų teritorijos dalys arba šioje
 
-nenustato ko kita.
+teritorijoje esančios patalpos, atskirtos nuo likusios nurodytos teritorijos
 
-Straipsnio pakeitimai:
+dalies (išskyrus laisvąsias zonas, nurodytas šio kodekso 165(1) straipsnyje),
+
+kuriose ne Lietuvos prekės importo muitų bei mokesčių ir ekonominių draudimų
+
+bei apribojimų požiūriu laikomos esančiomis ne Lietuvos Respublikos muitų
+
+teritorijoje, išskyrus atvejus, kai šios prekės išleidžiamos laisvai
+
+cirkuliuoti, pateikiamos kitai muitinės procedūrai ar kitam muitinės
+
+sankcionuotam veiksmui įforminti arba laikomos ar naudojamos kitomis sąlygomis,
+
+negu nustatyta šio kodekso, Laisvųjų ekonominių zonų pagrindų įstatymo,
+
+laisvosios ekonominės zonos steigimo įstatymo, Klaipėdos valstybinio jūrų uosto
+
+įstatymo ir kitų teisės aktų.]
+
+2. Išvežant Lietuvos prekes į laisvąją
+
+zoną arba padedant jas į laisvąjį sandėlį, taikomos priemonės ir formalumai,
+
+susiję su atitinkamų prekių negrąžinamuoju eksportu, jeigu įstatymai ir kiti
+
+teisės aktai nenustato ko kita.
+
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -5958,31 +6352,101 @@ Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
 
-164 straipsnis. Laisvųjų zonų bei laisvųjų sandėlių steigimas
+Nr. IX-624,
 
-ir veikla
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-1. Tam tikros Lietuvos Respublikos muitų teritorijos
+164 straipsnis. Laisvųjų zonų bei
 
-dalys gali būti paskelbtos laisvosiomis zonomis. Laisvųjų zonų steigimo, jų
+laisvųjų sandėlių steigimas ir veikla
 
-teritorijos išskyrimo, įvažiavimo ir išvažiavimo vietų nustatymo, atvykimo ir
+1. Tam tikros Lietuvos Respublikos muitų
 
-išvykimo, pastatų ir kitos infrastruktūros statybos bei naudojimo tvarką
+teritorijos dalys gali būti paskelbtos laisvosiomis zonomis. Laisvųjų zonų
+
+steigimo, jų teritorijos išskyrimo, įvažiavimo ir išvažiavimo vietų nustatymo,
+
+atvykimo ir išvykimo, pastatų ir kitos infrastruktūros statybos bei naudojimo tvarką
 
 reglamentuoja Laisvųjų ekonominių zonų pagrindų įstatymas ir laisvosios
 
 ekonominės zonos steigimo įstatymas.
 
-2. Laisvųjų sandėlių steigimo ir veiklos tvarką
+2. Laisvųjų sandėlių steigimo ir
 
-nustato laisvųjų sandėlių įstatymas.
+veiklos tvarką nustato laisvųjų sandėlių įstatymas.
 
-3. Laisvojo uosto steigimo ir veiklos tvarką nustato
+3. Laisvojo uosto steigimo ir veiklos
 
-Klaipėdos valstybinio jūrų uosto įstatymas.
+tvarką nustato Klaipėdos valstybinio jūrų uosto įstatymas.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-1902, 00.08.29, Žin., 2000,
+
+Nr.75-2269 (00.09.07), įsigalioja nuo 2000.10.01
+
+Nr. VIII-1966, 00.09.26, Žin., 2000,
+
+Nr.85-2587 (00.10.11)
+
+165 straipsnis. Laisvųjų zonų ir
+
+laisvųjų sandėlių muitinės priežiūra
+
+1. Muitinė prižiūri laisvųjų zonų ir
+
+laisvųjų sandėlių ribas, taip pat įvažiavimo bei išvažiavimo vietas. Už
+
+laisvųjų ekonominių zonų ribų apsaugą ir muitinės darbo sąlygų įvažiavimo bei
+
+išvažiavimo vietose sudarymą atsako laisvosios ekonominės zonos valdymo
+
+bendrovė.
+
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+1. Muitinė prižiūri laisvųjų zonų
+
+(išskyrus laisvąsias zonas, nurodytas šio kodekso
+
+165(1) straipsnyje) ir laisvųjų sandėlių ribas, taip pat įvažiavimo
+
+ir išvažiavimo vietas.]
+
+2. Muitinė tikrina į laisvąsias zonas
+
+arba laisvuosius sandėlius atvykstančius asmenis ir transporto priemones.
+
+3. Asmenims, nesilaikantiems teisės aktų
+
+nustatytų reikalavimų, susijusių su jų veikla laisvosiose zonose ar
+
+laisvuosiuose sandėliuose, arba nepateikusiems nustatytos garantijos,
+
+reikalingos šių reikalavimų įvykdymui užtikrinti, vykdyti veiklos laisvosiose
+
+zonose ar laisvuosiuose sandėliuose neleidžiama.
+
+4. Muitinė tikrina į laisvąsias zonas
+
+arba laisvuosius sandėlius įvežamas (padedamas), iš jų išvežamas (išduodamas)
+
+ir juose esančias prekes. Šiam tikrinimui atlikti muitinei turi būti pateikiami
+
+transporto ir kiti dokumentai, su kuriais prekės įvežamos (padedamos) į
+
+laisvąsias zonas ar laisvuosius sandėlius arba iš jų išvežamos (išduodamos).
+
+Muitinei turi būti sudaryta galimybė patikrinti laisvosiose zonose ir
+
+laisvuosiuose sandėliuose esančias prekes.
+
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -5992,73 +6456,61 @@ Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
 
-165 straipsnis. Laisvųjų zonų ir laisvųjų sandėlių
+Nr. IX-624,
 
-muitinės priežiūra
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-1. Muitinė prižiūri laisvųjų zonų ir laisvųjų sandėlių
+[Kodeksas papildomas 165(1) straipsniu nuo 2002 m. birželio 1 d.:
 
-ribas, taip pat įvažiavimo bei išvažiavimo vietas. Už laisvųjų ekonominių zonų
+165(1) straipsnis.
 
-ribų apsaugą ir muitinės darbo sąlygų įvažiavimo bei išvažiavimo vietose
+Laisvosios zonos, kuriose taikomi muitinio sandėliavimo formalumai
 
-sudarymą atsako laisvosios ekonominės zonos valdymo bendrovė.
+1.
 
-2. Muitinė tikrina į laisvąsias zonas arba laisvuosius
+Įstatymų nustatyta tvarka gali būti nustatyta, kad tam tikroje laisvojoje
 
-sandėlius atvykstančius asmenis ir transporto priemones.
+zonoje muitinis tikrinimas ir muitinės formalumai atliekami ir teisės aktų
 
-3. Asmenims, nesilaikantiems teisės aktų nustatytų
+nuostatos, susijusios su skola muitinei, taikomos tokia pačia tvarka kaip
 
-reikalavimų, susijusių su jų veikla laisvosiose zonose ar laisvuosiuose
+muitinio sandėliavimo procedūros taikymo atvejais.
 
-sandėliuose, arba nepateikusiems nustatytos garantijos, reikalingos šių
+2. Šio straipsnio 1 dalyje nurodytoms
 
-reikalavimų įvykdymui užtikrinti, vykdyti veiklos laisvosiose zonose ar
+laisvosioms zonoms netaikomos šio kodekso 167, 173 ir 175 straipsnių nuostatos.
 
-laisvuosiuose sandėliuose neleidžiama.
+3. Šio kodekso 38, 39 ir 189
 
-4. Muitinė tikrina į laisvąsias zonas arba laisvuosius
+straipsniuose pateiktos nuorodos į laisvąsias zonas netaikomos šio straipsnio 1
 
-sandėlius įvežamas (padedamas), iš jų išvežamas (išduodamas) ir juose esančias
+dalyje nurodytoms laisvosioms zonoms.]
 
-prekes. Šiam tikrinimui atlikti muitinei turi būti pateikiami transporto ir
+Kodeksas papildytas straipsniu:
 
-kiti dokumentai, su kuriais prekės įvežamos (padedamos) į laisvąsias zonas ar
+Nr. IX-624,
 
-laisvuosius sandėlius arba iš jų išvežamos (išduodamos). Muitinei turi būti sudaryta
-
-galimybė patikrinti laisvosiose zonose ir laisvuosiuose sandėliuose esančias
-
-prekes.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1902, 00.08.29, Žin., 2000,
-
-Nr.75-2269 (00.09.07), įsigalioja nuo 2000.10.01
-
-Nr. VIII-1966, 00.09.26, Žin., 2000,
-
-Nr.85-2587 (00.10.11)
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 166 straipsnis. Prekių įvežimas į
 
 laisvąsias zonas ar padėjimas į laisvuosius sandėlius
 
-1. Į laisvąsias zonas galima įvežti arba į laisvuosius
+1. Į laisvąsias zonas galima įvežti arba
 
-sandėlius padėti ir Lietuvos, ir ne Lietuvos prekes.
+į laisvuosius sandėlius padėti ir Lietuvos, ir ne Lietuvos prekes.
 
-2. Pavojingos prekės, prekės, galinčios paveikti kitas
+2. Pavojingos prekės, prekės, galinčios
 
-prekes, taip pat prekės, kurioms dėl kitų priežasčių saugoti reikalingi
+paveikti kitas prekes, taip pat prekės, kurioms dėl kitų priežasčių saugoti
 
-specialūs įrenginiai, gali būti laikomos tik specialiai šioms reikmėms
+reikalingi specialūs įrenginiai, gali būti laikomos tik specialiai šioms
 
-pritaikytose laisvųjų zonų arba laisvųjų sandėlių patalpose.
+reikmėms pritaikytose laisvųjų zonų arba laisvųjų sandėlių patalpose.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6074,43 +6526,47 @@ laisvąsias zonas arba padedamų į laisvuosius sandėlius,
 
 pateikimas muitinei ir deklaravimas
 
-1. Į laisvąsias zonas įvežamų arba į laisvuosius
+1. Į laisvąsias zonas įvežamų arba į
 
-sandėlius padedamų prekių nereikia pateikti muitinei ir deklaruoti, išskyrus
+laisvuosius sandėlius padedamų prekių nereikia pateikti muitinei ir deklaruoti,
 
-šio kodekso 165 straipsnio 4 dalyje numatytą tikrinimą ir prekes, pateikiamas
+išskyrus šio kodekso 165 straipsnio 4 dalyje numatytą tikrinimą ir prekes,
 
-muitinei vadovaujantis šio straipsnio 2 dalimi.
+pateikiamas muitinei vadovaujantis šio straipsnio 2 dalimi.
 
-2. Prekės turi būti pateikiamos muitinei nustatytiems
+2. Prekės turi būti pateikiamos muitinei
 
-muitinės formalumams atlikti, jeigu:
+nustatytiems muitinės formalumams atlikti, jeigu:
 
-1) joms buvo įforminta muitinės procedūra, kuri
+1) joms buvo įforminta muitinės
 
-užbaigiama įvežant prekes į laisvąją zoną arba padedant į laisvąjį sandėlį;
+procedūra, kuri užbaigiama įvežant prekes į laisvąją zoną arba padedant į
 
-jeigu pagal tam tikros muitinės procedūros atlikimo tvarką numatyta atleisti
+laisvąjį sandėlį; jeigu pagal tam tikros muitinės procedūros atlikimo tvarką
 
-nuo įsipareigojimo pateikti prekes muitinei, jų pateikti nereikalaujama;
+numatyta atleisti nuo įsipareigojimo pateikti prekes muitinei, jų pateikti
 
-2) jos buvo įvežtos į laisvąją zoną arba padėtos į
+nereikalaujama;
 
-laisvąjį sandėlį tam, kad būtų priimtas sprendimas sugrąžinti importo muitus ir
+2) jos buvo įvežtos į laisvąją zoną arba
 
-mokesčius arba atsisakyti juos išieškoti;
+padėtos į laisvąjį sandėlį tam, kad būtų priimtas sprendimas sugrąžinti importo
 
-3) šioms prekėms taikomos šio kodekso 163 straipsnio 2
+muitus ir mokesčius arba atsisakyti juos išieškoti;
 
-dalyje nurodytos priemonės.
+3) šioms prekėms taikomos šio kodekso
 
-3. Suinteresuoto asmens prašymu muitinė įformina
+163 straipsnio 2 dalyje nurodytos priemonės.
 
-dokumentą, liudijantį, kad prekės, įvežtos į laisvąją zoną arba padėtos į
+3. Suinteresuoto asmens prašymu muitinė
 
-laisvąjį sandėlį, yra Lietuvos prekės arba ne Lietuvos prekės.
+įformina dokumentą, liudijantį, kad prekės, įvežtos į laisvąją zoną arba
 
-Straipsnio pakeitimai:
+padėtos į laisvąjį sandėlį, yra Lietuvos prekės arba ne Lietuvos prekės.
+
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6136,7 +6592,9 @@ laisvuosiuose sandėliuose. Tam tikroms prekėms gali būti nustatomi laikymo
 
 laisvosiose zonose ir laisvuosiuose sandėliuose terminai.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6154,51 +6612,73 @@ laisvojoje zonoje arba laisvajame
 
 sandėlyje
 
-1. Ne Lietuvos prekės, laikomos laisvojoje zonoje arba
+1. Ne Lietuvos prekės, laikomos
 
-laisvajame sandėlyje, gali būti:
+laisvojoje zonoje arba laisvajame sandėlyje, gali būti:
 
-1) išleistos laisvai cirkuliuoti laikantis nustatytos
+1) išleistos laisvai cirkuliuoti
 
-šios muitinės procedūros atlikimo tvarkos ir vadovaujantis šio kodekso 174
+laikantis nustatytos šios muitinės procedūros atlikimo tvarkos ir vadovaujantis
 
-straipsnio nuostatomis;
+šio kodekso 174 straipsnio nuostatomis;
 
-2) tvarkomos, be atskiro leidimo atliekant šio kodekso
+2) tvarkomos, be atskiro leidimo
 
-107 straipsnio 1 dalyje nurodytas įprastines prekių tvarkymo operacijas;
+atliekant šio kodekso 107 straipsnio 1 dalyje nurodytas įprastines prekių
 
-3) pateiktos laikinojo įvežimo perdirbti procedūrai
+tvarkymo operacijas;
 
-įforminti laikantis nustatytos šios muitinės procedūros atlikimo tvarkos;
+[1 dalies 2 punkto redakcija nuo 2002 m. birželio 1
 
-4) pateiktos muitinės prižiūrimo perdirbimo procedūrai
+d.:
 
-įforminti laikantis nustatytos šios muitinės procedūros atlikimo tvarkos;
+2) tvarkomos be atskiro leidimo
 
-5) pateiktos laikinojo įvežimo procedūrai įforminti
+atliekant šio kodekso 107 straipsnyje nurodytas įprastines prekių tvarkymo
 
-laikantis nustatytos šios muitinės procedūros atlikimo tvarkos;
+operacijas;]
 
-6) jei prekių savininkas jų atsisako, įstatymų ir kitų
+3) pateiktos laikinojo įvežimo perdirbti
 
-teisės aktų nustatyta tvarka perduotos valstybei;
+procedūrai įforminti laikantis nustatytos šios muitinės procedūros atlikimo
 
-7) sunaikintos, jei prekių savininkas arba kitas
+tvarkos;
 
-suinteresuotas asmuo pateikia muitinei informaciją, rodančią, kad prekes reikia
+4) pateiktos muitinės prižiūrimo
 
-sunaikinti.
+perdirbimo procedūrai įforminti laikantis nustatytos šios muitinės procedūros
 
-2. Pateikus prekes šio straipsnio 1 dalies 3, 4 arba 5
+atlikimo tvarkos;
 
-punktuose nurodytoms muitinės procedūroms įforminti, atsižvelgus į laisvosios
+5) pateiktos laikinojo įvežimo
 
-zonos arba laisvojo sandėlio muitinės priežiūros sąlygas, naudojamos šio
+procedūrai įforminti laikantis nustatytos šios muitinės procedūros atlikimo
 
-kodekso taikymą reglamentuojančių teisės aktų nustatytos kontrolės priemonės.
+tvarkos;
 
-Straipsnio pakeitimai:
+6) jei prekių savininkas jų atsisako,
+
+įstatymų ir kitų teisės aktų nustatyta tvarka perduotos valstybei;
+
+7) sunaikintos, jei prekių savininkas
+
+arba kitas suinteresuotas asmuo pateikia muitinei informaciją, rodančią, kad
+
+prekes reikia sunaikinti.
+
+2. Pateikus prekes šio straipsnio 1
+
+dalies 3, 4 arba 5 punktuose nurodytoms muitinės procedūroms įforminti,
+
+atsižvelgus į laisvosios zonos arba laisvojo sandėlio muitinės priežiūros
+
+sąlygas, naudojamos šio kodekso taikymą reglamentuojančių teisės aktų
+
+nustatytos kontrolės priemonės.
+
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6208,21 +6688,27 @@ Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
 
-171 straipsnis. Prekių laikymas ir
+Nr. IX-624,
 
-naudojimas laisvosiose zonose bei laisvuosiuose
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+171 straipsnis. Prekių laikymas ir naudojimas
+
+laisvosiose zonose bei laisvuosiuose
 
 sandėliuose
 
-Jeigu netaikomos šio kodekso 170 straipsnio nuostatos,
+Jeigu netaikomos šio kodekso 170
 
-ne Lietuvos prekės ir Lietuvos prekės, nurodytos šio kodekso 163 straipsnio 2
+straipsnio nuostatos, ne Lietuvos prekės ir Lietuvos prekės, nurodytos šio
 
-dalyje, negali būti laikomos ar naudojamos laisvosiose zonose arba laisvuosiuose
+kodekso 163 straipsnio 2 dalyje, negali būti laikomos ar naudojamos laisvosiose
 
-sandėliuose.
+zonose arba laisvuosiuose sandėliuose.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6236,25 +6722,39 @@ Nr.85-2587 (00.10.11)
 
 laisvosiose zonose ir laisvuosiuose sandėliuose
 
-1. Asmenys, besiverčiantys veikla, susijusia su prekių
+1. Asmenys, besiverčiantys veikla,
 
-laikymu, apdorojimu arba perdirbimu, pardavimu arba pirkimu laisvojoje zonoje
+susijusia su prekių laikymu, apdorojimu arba perdirbimu, pardavimu arba pirkimu
 
-arba laisvajame sandėlyje, privalo tvarkyti prekių apskaitą Lietuvos
+laisvojoje zonoje arba laisvajame sandėlyje, privalo tvarkyti prekių apskaitą
 
-Respublikos įstatymų nustatyta tvarka. Patekusios į asmeniui priklausančias
+Lietuvos Respublikos įstatymų nustatyta tvarka. Patekusios į asmeniui
 
-patalpas arba teritoriją, prekės tuoj pat turi būti įtraukiamos į apskaitą.
+priklausančias patalpas arba teritoriją, prekės tuoj pat turi būti įtraukiamos
 
-2.
+į apskaitą.
 
-Jeigu prekės perkraunamos laisvojoje ekonominėje zonoje, dokumentai, susiję su
+2. Jeigu prekės perkraunamos laisvojoje
 
-šia operacija, turi būti pateikti muitinei ir laikomi jos žinioje. Trumpas
+ekonominėje zonoje, dokumentai, susiję su šia operacija, turi būti pateikti
 
-prekių saugojimas jas perkraunant laikomas sudėtine šios operacijos dalimi.
+muitinei ir laikomi jos žinioje. Trumpas prekių saugojimas jas perkraunant
 
-Straipsnio pakeitimai:
+laikomas sudėtine šios operacijos dalimi.
+
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+2. Jeigu prekės perkraunamos laisvojoje
+
+zonoje, dokumentai, susiję su šia operacija, turi būti pateikti muitinei ir
+
+laikomi jos žinioje. Trumpas prekių saugojimas jas perkraunant laikomas
+
+sudėtine šios operacijos dalimi.]
+
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6264,33 +6764,39 @@ Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
 
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
 173 straipsnis. Prekių išvežimas
 
 (išdavimas) iš laisvųjų zonų ar laisvųjų sandėlių
 
-1. Prekės, išvežamos (išduodamos) iš laisvosios zonos
+1. Prekės, išvežamos (išduodamos) iš
 
-arba laisvojo sandėlio, gali būti:
+laisvosios zonos arba laisvojo sandėlio, gali būti:
 
-1) eksportuojamos arba reeksportuojamos iš Lietuvos
+1) eksportuojamos arba reeksportuojamos
 
-Respublikos muitų teritorijos;
+iš Lietuvos Respublikos muitų teritorijos;
 
-2) gabenamos į kitą Lietuvos Respublikos muitų
+2) gabenamos į kitą Lietuvos Respublikos
 
-teritorijos dalį.
+muitų teritorijos dalį.
 
-2. Šio kodekso IV dalies nuostatos, išskyrus Lietuvos
+2. Šio kodekso IV dalies nuostatos,
 
-prekėms taikomas 49–54 straipsnių nuostatas, taikomos prekėms, gabenamoms į
+išskyrus Lietuvos prekėms taikomas 49–54 straipsnių nuostatas, taikomos
 
-kitas Lietuvos Respublikos muitų teritorijos dalis, išskyrus prekes,
+prekėms, gabenamoms į kitas Lietuvos Respublikos muitų teritorijos dalis,
 
-išgabenamas iš laisvosios zonos ar laisvojo sandėlio jūra arba oru, nepateikus
+išskyrus prekes, išgabenamas iš laisvosios zonos ar laisvojo sandėlio jūra arba
 
-jų muitinio tranzito ar kitai muitinės procedūrai įforminti.
+oru, nepateikus jų muitinio tranzito ar kitai muitinės procedūrai įforminti.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6306,39 +6812,41 @@ laisvosiose zonose ir laisvuosiuose sandėliuose
 
 laikomas prekes apskaičiavimas
 
-1. Jeigu atsiranda skola muitinei, susijusi su ne
+1. Jeigu atsiranda skola muitinei,
 
-Lietuvos prekėmis, ir jeigu tokių prekių muitinė vertė nustatoma remiantis
+susijusi su ne Lietuvos prekėmis, ir jeigu tokių prekių muitinė vertė nustatoma
 
-sumokėta ar priklausančia sumokėti pinigų suma, į kurią įtrauktos prekių
+remiantis sumokėta ar priklausančia sumokėti pinigų suma, į kurią įtrauktos
 
-sandėliavimo ir (arba) priežiūros laisvojoje zonoje arba laisvajame sandėlyje
+prekių sandėliavimo ir (arba) priežiūros laisvojoje zonoje arba laisvajame
 
-išlaidos, šios išlaidos neturi būti įtraukiamos į prekių muitinę vertę, jeigu
+sandėlyje išlaidos, šios išlaidos neturi būti įtraukiamos į prekių muitinę
 
-jos nurodytos atskirai nuo pinigų sumos, sumokėtos ar priklausančios sumokėti
+vertę, jeigu jos nurodytos atskirai nuo pinigų sumos, sumokėtos ar
 
-už prekes.
+priklausančios sumokėti už prekes.
 
-2. Jeigu su šiomis prekėmis laisvojoje zonoje arba
+2. Jeigu su šiomis prekėmis laisvojoje
 
-laisvajame sandėlyje atlikta kuri nors iš šio kodekso 107 straipsnio 1 dalyje
+zonoje arba laisvajame sandėlyje atlikta kuri nors iš šio kodekso 107
 
-nurodytų įprastinių prekių tvarkymo operacijų ir jeigu tokiam tvarkymui buvo
+straipsnio 1 dalyje nurodytų įprastinių prekių tvarkymo operacijų ir jeigu
 
-duotas šio straipsnio 2 dalyje nurodytas muitinės sutikimas, prekių rūšis,
+tokiam tvarkymui buvo duotas šio straipsnio 2 dalyje nurodytas muitinės
 
-muitinė vertė ir kiekis, pagal kuriuos nustatoma importo muitų ir mokesčių
+sutikimas, prekių rūšis, muitinė vertė ir kiekis, pagal kuriuos nustatoma
 
-suma, deklaranto prašymu laikomi šio kodekso 197 straipsnyje nurodytu metu
+importo muitų ir mokesčių suma, deklaranto prašymu laikomi šio kodekso 197
 
-atitinkančiais prekes, su kuriomis nebuvo atliktos tvarkymo operacijos. Šio
+straipsnyje nurodytu metu atitinkančiais prekes, su kuriomis nebuvo atliktos
 
-kodekso taikymą reglamentuojančių teisės aktų nustatytais atvejais šios dalies
+tvarkymo operacijos. Šio kodekso taikymą reglamentuojančių teisės aktų
 
-nuostatų taikymo tvarka gali būti pakeista.
+nustatytais atvejais šios dalies nuostatų taikymo tvarka gali būti pakeista.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6354,29 +6862,35 @@ arba laisvuosiuose sandėliuose laikomų prekių
 
 statusas
 
-1. Jeigu prekės yra gabenamos arba grąžinamos į kitą
+1. Jeigu prekės yra gabenamos arba
 
-Lietuvos Respublikos muitų teritorijos dalį ar pateikiamos kitai muitinės
+grąžinamos į kitą Lietuvos Respublikos muitų teritorijos dalį ar pateikiamos
 
-procedūrai įforminti, gali būti naudojamas šio kodekso 167 straipsnio 3 dalyje
+kitai muitinės procedūrai įforminti, gali būti naudojamas šio kodekso 167
 
-nurodytas dokumentas, liudijantis, kad jos yra Lietuvos arba ne Lietuvos
+straipsnio 3 dalyje nurodytas dokumentas, liudijantis, kad jos yra Lietuvos
 
-prekės.
+arba ne Lietuvos prekės.
 
-2. Jeigu dokumentu arba kitu būdu nėra paliudijama,
+2. Jeigu dokumentu arba kitu būdu nėra
 
-kad prekės turi Lietuvos prekių statusą arba šio statuso neturi, jos laikomos:
+paliudijama, kad prekės turi Lietuvos prekių statusą arba šio statuso neturi,
 
-1) Lietuvos prekėmis, jeigu tapačioms Lietuvos prekėms
+jos laikomos:
 
-turėtų būti taikomi eksporto muitai ir (arba) mokesčiai arba ekonominiai
+1) Lietuvos prekėmis, jeigu tapačioms
 
-eksporto draudimai ir (arba) apribojimai;
+Lietuvos prekėms turėtų būti taikomi eksporto muitai ir (arba) mokesčiai arba
 
-2) ne Lietuvos prekėmis - visais kitais atvejais.
+ekonominiai eksporto draudimai ir (arba) apribojimai;
 
-Straipsnio pakeitimai:
+2) ne Lietuvos prekėmis - visais kitais
+
+atvejais.
+
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6392,13 +6906,15 @@ reeksporto iš laisvųjų zonų ir laisvųjų sandėlių
 
 kontrolė
 
-Muitinė kontroliuoja, ar laikomasi taisyklių,
+Muitinė kontroliuoja, ar laikomasi
 
-reglamentuojančių prekių eksportą ir reeksportą iš laisvųjų zonų ir laisvųjų
+taisyklių, reglamentuojančių prekių eksportą ir reeksportą iš laisvųjų zonų ir
 
-sandėlių.
+laisvųjų sandėlių.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6412,109 +6928,121 @@ Antrasis skirsnis
 
 NEAPMUITINAMOS PARDUOTUVĖS
 
-177 straipsnis. Neapmuitinamų parduotuvių steigimas ir
+177 straipsnis. Neapmuitinamų
 
-veikla
+parduotuvių steigimas ir veikla
 
-Tarptautiniuose
+Tarptautiniuose oro uostuose,
 
-oro uostuose, tarptautiniuose jūrų uostuose ir Lietuvos Respublikos valstybės
+tarptautiniuose jūrų uostuose ir Lietuvos Respublikos valstybės sienos perėjimo
 
-sienos perėjimo punktuose gali būti įsteigtos neapmuitinamos parduotuvės. Tai
+punktuose gali būti įsteigtos neapmuitinamos parduotuvės. Tai yra muitinės
 
-yra muitinės prižiūrimos parduotuvės, kuriose vykstantys iš Lietuvos
+prižiūrimos parduotuvės, kuriose vykstantys iš Lietuvos Respublikos į užsienį
 
-Respublikos į užsienį keleiviai gali įsigyti neapmokestintų importo ir eksporto
+keleiviai gali įsigyti neapmokestintų importo ir eksporto muitais bei
 
-muitais bei mokesčiais prekių. Į neapmuitinamas parduotuves pristatytomis
+mokesčiais prekių. Į neapmuitinamas parduotuves pristatytomis importo ir
 
-importo ir eksporto muitais bei mokesčiais neapmokestintomis prekėmis taip pat
+eksporto muitais bei mokesčiais neapmokestintomis prekėmis taip pat gali būti
 
-gali būti prekiaujama Lietuvos Respublikoje įregistruotuose laivuose ir
+prekiaujama Lietuvos Respublikoje įregistruotuose laivuose ir orlaiviuose,
 
-orlaiviuose, vežiojančiuose keleivius tarptautiniais maršrutais. Neapmuitinamų
+vežiojančiuose keleivius tarptautiniais maršrutais. Neapmuitinamų parduotuvių
 
-parduotuvių steigimo ir veiklos tvarką reglamentuoja neapmuitinamų parduotuvių
-
-įstatymas.
+steigimo ir veiklos tvarką reglamentuoja neapmuitinamų parduotuvių įstatymas.
 
 Trečiasis skirsnis
 
 REEKSPORTAS, SUNAIKINIMAS IR PERDAVIMAS VALSTYBEI
 
-178 straipsnis. Ne Lietuvos prekių reeksportas,
+178 straipsnis. Ne Lietuvos prekių
 
-sunaikinimas ir perdavimas valstybei
+reeksportas, sunaikinimas ir perdavimas valstybei
 
-1.
+1. Ne Lietuvos prekės gali būti:
 
-Ne Lietuvos prekės gali būti:
+1) reeksportuotos;
 
-1)
+2) sunaikintos;
 
-reeksportuotos;
+3) perduotos valstybei.
 
-2)
+2. Reeksportuojant prekes, tam tikrais
 
-sunaikintos;
+atvejais taikomi prekių eksportui nustatyti formalumai, įskaitant ekonominius
 
-3)
+draudimus ir apribojimus. Šio kodekso taikymą reglamentuojantys teisės aktai
 
-perduotos valstybei.
+nustato, kokiais atvejais reeksportuojamoms ne Lietuvos prekėms, sąlygiškai
 
-2.
+neapmokestintoms importo muitais ir mokesčiais, netaikomi ekonominiai eksporto
 
-Reeksportuojant prekes, tam tikrais atvejais taikomi prekių eksportui nustatyti
+draudimai ir apribojimai.
 
-formalumai, įskaitant ekonominius draudimus ir apribojimus. Šio kodekso taikymą
+3. Apie reeksportuojamas arba naikinamas
 
-reglamentuojantys teisės aktai nustato, kokiais atvejais reeksportuojamoms ne
+prekes turi būti iš anksto pranešama muitinei. Muitinė neleidžia reeksportuoti
 
-Lietuvos prekėms, sąlygiškai neapmokestintoms importo muitais ir mokesčiais,
+prekių, jeigu neatliekami šio straipsnio 2 dalyje nurodyti formalumai arba
 
-netaikomi ekonominiai eksporto draudimai ir apribojimai.
+taikomos draudimo bei ribojimo priemonės. Jeigu prekės pateiktos ekonominio
 
-3. Apie reeksportuojamas arba naikinamas prekes turi
+poveikio turinčiai muitinės procedūrai įforminti ir skirtos reeksportuoti iš
 
-būti iš anksto pranešama muitinei. Muitinė neleidžia reeksportuoti prekių,
+Lietuvos Respublikos muitų teritorijos, vadovaujantis šio kodekso 58–77
 
-jeigu neatliekami šio straipsnio 2 dalyje nurodyti formalumai arba taikomos
+straipsnių nuostatomis turi būti pateikta muitinės deklaracija. Šiais atvejais
 
-draudimo bei ribojimo priemonės. Jeigu prekės pateiktos ekonominio poveikio
+taip pat taikoma šio kodekso 161 straipsnio 3 dalis.
 
-turinčiai muitinės procedūrai įforminti ir skirtos reeksportuoti iš Lietuvos
+[3 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-Respublikos muitų teritorijos, vadovaujantis šio kodekso 58–77 straipsnių
+3. Išskyrus šio kodekso taikymą
 
-nuostatomis turi būti pateikta muitinės deklaracija. Šiais atvejais taip pat
+reglamentuojančių teisės aktų nustatytus atvejus, apie reeksportuojamas arba
 
-taikoma šio kodekso 161 straipsnio 3 dalis.
+naikinamas prekes turi būti iš anksto pranešama muitinei. Muitinė neleidžia
 
-4.
+reeksportuoti prekių, jeigu neatliekami šio straipsnio 2 dalyje nurodyti
 
-Prekės perduodamos valstybei įstatymų ir kitų teisės aktų nustatyta tvarka.
+formalumai arba taikomos draudimo bei ribojimo priemonės. Jeigu prekės
 
-Valstybė nekompensuoja prekių perdavimo valstybei išlaidų.
+pateiktos ekonominio poveikio turinčiai muitinės procedūrai įforminti ir
 
-5.
+skirtos reeksportuoti iš Lietuvos Respublikos muitų teritorijos, vadovaujantis
 
-Prekės sunaikinamos jomis disponuojančio asmens arba kito suinteresuoto asmens
+šio kodekso 58–77 straipsnių nuostatomis turi būti pateikta muitinės
 
-lėšomis šio kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka.
+deklaracija. Šiais atvejais taip pat taikoma šio kodekso 161 straipsnio 3
 
-Valstybė nekompensuoja prekių sunaikinimo išlaidų.
+dalis.]
 
-6.
+4. Prekės perduodamos valstybei įstatymų
 
-Bet kokios atliekos ar laužas, likę sunaikinus prekes, turi būti pateikti
+ir kitų teisės aktų nustatyta tvarka. Valstybė nekompensuoja prekių perdavimo
 
-muitinės sankcionuotiems veiksmams įforminti kaip ne Lietuvos prekės. Šios
+valstybei išlaidų.
 
-atliekos ar laužas lieka muitinės prižiūrimi iki šio kodekso 38 straipsnio 2
+5. Prekės sunaikinamos jomis
 
-dalyje nurodyto laiko.
+disponuojančio asmens arba kito suinteresuoto asmens lėšomis šio kodekso
 
-Straipsnio pakeitimai:
+taikymą reglamentuojančių teisės aktų nustatyta tvarka. Valstybė nekompensuoja
+
+prekių sunaikinimo išlaidų.
+
+6. Bet kokios atliekos ar laužas, likę
+
+sunaikinus prekes, turi būti pateikti muitinės sankcionuotiems veiksmams
+
+įforminti kaip ne Lietuvos prekės. Šios atliekos ar laužas lieka muitinės
+
+prižiūrimi iki šio kodekso 38 straipsnio 2 dalyje nurodyto laiko.
+
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6523,6 +7051,10 @@ Nr.75-2269 (00.09.07), įsigalioja nuo 2000.10.01
 Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 VI DALIS
 
@@ -6536,21 +7068,21 @@ PREKIŲ IŠVEŽIMAS IŠ LIETUVOS RESPUBLIKOS MUITŲ
 
 TERITORIJOS
 
-179 straipsnis. Prekių išvežimas iš Lietuvos
+179 straipsnis. Prekių išvežimas iš
 
-Respublikos muitų teritorijos
+Lietuvos Respublikos muitų teritorijos
 
-Išvežamoms
+Išvežamoms iš Lietuvos Respublikos muitų
 
-iš Lietuvos Respublikos muitų teritorijos prekėms taikomos muitinės priežiūros
+teritorijos prekėms taikomos muitinės priežiūros priemonės. Muitinė gali jas
 
-priemonės. Muitinė gali jas tikrinti remdamasi šiuo kodeksu ir kitais teisės
+tikrinti remdamasi šiuo kodeksu ir kitais teisės aktais. Šios prekės turi būti
 
-aktais. Šios prekės turi būti išvežamos iš Lietuvos Respublikos muitų
+išvežamos iš Lietuvos Respublikos muitų teritorijos muitinės nustatytu
 
-teritorijos muitinės nustatytu maršrutu, jeigu jis nustatytas, ir laikantis
+maršrutu, jeigu jis nustatytas, ir laikantis joms taikomos muitinės procedūros
 
-joms taikomos muitinės procedūros atlikimo tvarkos.
+atlikimo tvarkos.
 
 VII DALIS
 
@@ -6560,149 +7092,147 @@ XIV SKYRIUS
 
 NEAPMOKESTINIMAS MUITAIS IR MOKESČIAI
 
-180 straipsnis. Išleidžiamų laisvai cirkuliuoti arba
+180 straipsnis. Išleidžiamų laisvai
 
-eksportuojamų prekių
-
-neapmokestinimas muitais ir mokesčiais
-
-Lietuvos
-
-Respublikos tarptautinių sutarčių, šio kodekso, Muitų tarifų, mokesčių ir kitų
-
-įstatymų nustatytais atvejais išleidžiamos laisvai cirkuliuoti arba
-
-eksportuojamos prekės neapmokestinamos importo arba eksporto muitais ir (arba)
-
-mokesčiais.
-
-XV SKYRIUS
-
-GRĄŽINTOS PREKĖS
-
-181 straipsnis. Eksportuotų iš Lietuvos Respublikos
-
-muitų teritorijos ir į ją sugrąžintų
-
-prekių neapmokestinimas muitais ir mokesčiais
-
-1.
-
-Lietuvos prekės, negrąžinamai eksportuotos iš Lietuvos Respublikos muitų
-
-teritorijos ir per 1 metus grąžintos bei išleistos laisvai cirkuliuoti,
-
-suinteresuoto asmens prašymu neapmokestinamos importo muitais ir mokesčiais,
-
-jeigu įstatymai nenustato ko kita. Išleidus laisvai cirkuliuoti sugrąžintas
-
-prekes, už jas sumokėti eksporto muitai ir mokesčiai grąžinami. Atsižvelgiant į
-
-ypatingas aplinkybes, nurodytas 1 metų laikotarpis muitinės sprendimu gali būti
-
-pratęstas 6 mėnesiais.
-
-2.
-
-Jeigu prieš eksportuojant sugrąžintas prekes iš Lietuvos Respublikos muitų
-
-teritorijos jos buvo išleistos laisvai cirkuliuoti neapmokestinant importo
-
-muitais bei mokesčiais arba juos sumažinus dėl ypatingos prekių paskirties,
-
-pagal šio straipsnio 1 dalį neapmokestinama importo muitais ir mokesčiais tik
-
-tuo atveju, jeigu reimportuojamos prekės yra tos pačios paskirties. Jei
-
-reimportuojamų prekių paskirtis pakinta, iš prekėms taikomų importo muitų ir
-
-mokesčių sumos atimami muitai ir mokesčiai, sumokėti už prekes pirmą kartą
-
-išleidžiant jas laisvai cirkuliuoti. Jeigu pastaroji muitų ir mokesčių suma
-
-viršija sumą, mokėtiną išleidžiant laisvai cirkuliuoti sugrąžintas prekes,
-
-sumokėti muitai ir mokesčiai arba jų dalis negrąžinami.
-
-3.
-
-Pagal šio straipsnio 1 ir 2 dalis neapmokestinimo importo muitais ir mokesčiais
-
-lengvatos netaikomos, taip pat negrąžinami sumokėti eksporto muitai ir
-
-mokesčiai, jei grąžinamos prekės, eksportuotos iš Lietuvos Respublikos muitų
-
-teritorijos taikant laikinojo išvežimo perdirbti procedūrą, išskyrus atvejus,
-
-kai šios prekės grąžinamos tokio paties pavidalo, kokio buvo eksportuotos.
-
-182 straipsnis. Eksportuotų iš Lietuvos Respublikos
-
-muitų teritorijos ir į ją sugrąžintų
-
-prekių neapmokestinimo muitais ir
-
-mokesčiais sąlygos
-
-Pagal
-
-šio kodekso 181 straipsnį neapmokestinama importo muitais ir mokesčiais, taip
-
-pat grąžinami sumokėti eksporto muitai ir mokesčiai tik tuo atveju, jeigu
-
-prekės reimportuojamos tokio paties pavidalo, kokio jos buvo eksportuotos. Šio
-
-kodekso taikymą reglamentuojantys teisės aktai nustato aplinkybes ir sąlygas,
-
-kada šis reikalavimas gali būti netaikomas.
-
-183 straipsnis. Reeksportuotų kompensacinių produktų
+cirkuliuoti arba eksportuojamų prekių
 
 neapmokestinimas muitais ir
 
 mokesčiais
 
-Šio
+Lietuvos Respublikos tarptautinių
 
-kodekso 181 ir 182 straipsnių nuostatos taip pat taikomos kompensaciniams
+sutarčių, šio kodekso, Muitų tarifų, mokesčių ir kitų įstatymų nustatytais
 
-produktams, reeksportuotiems baigiant laikinojo įvežimo perdirbti procedūrą.
+atvejais išleidžiamos laisvai cirkuliuoti arba eksportuojamos prekės
 
-Mokėtina importo muitų ir mokesčių suma nustatoma remiantis laikinojo įvežimo
+neapmokestinamos importo arba eksporto muitais ir (arba) mokesčiais.
 
-perdirbti procedūros atlikimo tvarka ir laikant kompensacinių produktų
+XV SKYRIUS
 
-reeksporto datą jų išleidimo laisvai cirkuliuoti data.
+GRĄŽINTOS PREKĖS
+
+181 straipsnis. Eksportuotų iš
+
+Lietuvos Respublikos muitų teritorijos ir į ją sugrąžintų
+
+prekių neapmokestinimas muitais ir
+
+mokesčiais
+
+1. Lietuvos prekės, negrąžinamai
+
+eksportuotos iš Lietuvos Respublikos muitų teritorijos ir per 1 metus grąžintos
+
+bei išleistos laisvai cirkuliuoti, suinteresuoto asmens prašymu
+
+neapmokestinamos importo muitais ir mokesčiais, jeigu įstatymai nenustato ko
+
+kita. Išleidus laisvai cirkuliuoti sugrąžintas prekes, už jas sumokėti eksporto
+
+muitai ir mokesčiai grąžinami. Atsižvelgiant į ypatingas aplinkybes, nurodytas
+
+1 metų laikotarpis muitinės sprendimu gali būti pratęstas 6 mėnesiais.
+
+2. Jeigu prieš eksportuojant sugrąžintas
+
+prekes iš Lietuvos Respublikos muitų teritorijos jos buvo išleistos laisvai
+
+cirkuliuoti neapmokestinant importo muitais bei mokesčiais arba juos sumažinus
+
+dėl ypatingos prekių paskirties, pagal šio straipsnio 1 dalį neapmokestinama
+
+importo muitais ir mokesčiais tik tuo atveju, jeigu reimportuojamos prekės yra
+
+tos pačios paskirties. Jei reimportuojamų prekių paskirtis pakinta, iš prekėms
+
+taikomų importo muitų ir mokesčių sumos atimami muitai ir mokesčiai, sumokėti
+
+už prekes pirmą kartą išleidžiant jas laisvai cirkuliuoti. Jeigu pastaroji
+
+muitų ir mokesčių suma viršija sumą, mokėtiną išleidžiant laisvai cirkuliuoti
+
+sugrąžintas prekes, sumokėti muitai ir mokesčiai arba jų dalis negrąžinami.
+
+3. Pagal šio straipsnio 1 ir 2 dalis
+
+neapmokestinimo importo muitais ir mokesčiais lengvatos netaikomos, taip pat
+
+negrąžinami sumokėti eksporto muitai ir mokesčiai, jei grąžinamos prekės,
+
+eksportuotos iš Lietuvos Respublikos muitų teritorijos taikant laikinojo
+
+išvežimo perdirbti procedūrą, išskyrus atvejus, kai šios prekės grąžinamos
+
+tokio paties pavidalo, kokio buvo eksportuotos.
+
+182 straipsnis. Eksportuotų iš
+
+Lietuvos Respublikos muitų teritorijos ir į ją sugrąžintų
+
+prekių neapmokestinimo muitais ir
+
+mokesčiais sąlygos
+
+Pagal šio kodekso 181 straipsnį
+
+neapmokestinama importo muitais ir mokesčiais, taip pat grąžinami sumokėti
+
+eksporto muitai ir mokesčiai tik tuo atveju, jeigu prekės reimportuojamos tokio
+
+paties pavidalo, kokio jos buvo eksportuotos. Šio kodekso taikymą
+
+reglamentuojantys teisės aktai nustato aplinkybes ir sąlygas, kada šis
+
+reikalavimas gali būti netaikomas.
+
+183 straipsnis. Reeksportuotų
+
+kompensacinių produktų neapmokestinimas muitais ir
+
+mokesčiais
+
+Šio kodekso 181 ir 182 straipsnių
+
+nuostatos taip pat taikomos kompensaciniams produktams, reeksportuotiems
+
+baigiant laikinojo įvežimo perdirbti procedūrą. Mokėtina importo muitų ir
+
+mokesčių suma nustatoma remiantis laikinojo įvežimo perdirbti procedūros
+
+atlikimo tvarka ir laikant kompensacinių produktų reeksporto datą jų išleidimo
+
+laisvai cirkuliuoti data.
 
 XVI SKYRIUS
 
 ŽVEJYBOS IR KITŲ JŪROS VERSLŲ PRODUKTAI
 
-184 straipsnis. Žvejybos ir kitų jūros verslų produktų
+184 straipsnis. Žvejybos ir kitų
 
-neapmokestinimas importo
+jūros verslų produktų neapmokestinimas importo
 
 muitais ir mokesčiais
 
-Išleidžiant
+Išleidžiant laisvai cirkuliuoti, importo
 
-laisvai cirkuliuoti, importo muitais ir mokesčiais neapmokestinami, išskyrus
+muitais ir mokesčiais neapmokestinami, išskyrus šio kodekso 25 straipsnio 2
 
-šio kodekso 25 straipsnio 2 dalies 6 punkte nustatytus atvejus:
+dalies 6 punkte nustatytus atvejus:
 
-1)
+1) žvejybos ir kiti jūros verslų
 
-žvejybos ir kiti jūros verslų produktai, kuriuos Lietuvos Respublikoje
+produktai, kuriuos Lietuvos Respublikoje registruoti laivai, plaukiojantys su
 
-registruoti laivai, plaukiojantys su Lietuvos Respublikos vėliava, pagauna arba
+Lietuvos Respublikos vėliava, pagauna arba išgauna užsienio valstybės
 
-išgauna užsienio valstybės teritoriniuose vandenyse;
+teritoriniuose vandenyse;
 
-2)
+2) produktai, pagaminti iš šio straipsnio
 
-produktai, pagaminti iš šio straipsnio 1 punkte nurodytų produktų plaukiojančiose
+1 punkte nurodytų produktų plaukiojančiose įmonėse, atitinkančiose tame punkte
 
-įmonėse, atitinkančiose tame punkte nustatytus reikalavimus.
+nustatytus reikalavimus.
 
 VIII DALIS
 
@@ -6712,33 +7242,43 @@ XVII SKYRIUS
 
 SKOLOS MUITINEI ATSIRADIMAS
 
-185 straipsnis. Importo skolos muitinei atsiradimas
+185 straipsnis. Importo skolos
 
-išleidžiant prekes laisvai cirkuliuoti
+muitinei atsiradimas išleidžiant prekes laisvai cirkuliuoti
 
 arba pateikiant jas laikinojo
 
 įvežimo muitinės procedūrai įforminti
 
-1. Importo skola muitinei atsiranda:
+1. Importo skola muitinei
 
-1) išleidžiant laisvai cirkuliuoti prekes,
+atsiranda:
 
-už kurias nustatyti importo muitai ir mokesčiai;
+1) išleidžiant laisvai
 
-2) pateikiant laikinojo įvežimo muitinės
+cirkuliuoti prekes, už kurias nustatyti importo muitai ir mokesčiai;
 
-procedūrai įforminti prekes, kurios iš dalies neapmokestinamos importo muitais
+[1 dalies 1 punkto redakcija nuo 2002 m. birželio 1
 
-ir mokesčiais.
+d.:
+
+1) išleidžiant laisvai cirkuliuoti
+
+prekes, už kurias nustatyti importo muitai ir (arba) mokesčiai;]
+
+2) pateikiant laikinojo
+
+įvežimo muitinės procedūrai įforminti prekes, kurios iš dalies neapmokestinamos
+
+importo muitais ir mokesčiais.
 
 2. Importo skola muitinei atsiranda
 
 priėmus muitinės deklaraciją.
 
-3. Skolininku laikomas deklarantas, taip
+3. Skolininku laikomas deklarantas,
 
-pat asmuo, kurio vardu muitinės deklaraciją pateikia jo atstovas. Tais
+taip pat asmuo, kurio vardu muitinės deklaraciją pateikia jo atstovas. Tais
 
 atvejais, kai muitinės deklaracija, pateikta vienai iš šio straipsnio 1 dalyje
 
@@ -6752,57 +7292,95 @@ dydį, asmuo, pateikęs tokią informaciją, arba asmuo, kuris žinojo arba tur�
 
 skolininku.
 
-186 straipsnis. Importo skolos muitinei atsiradimas
+[3 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-dėl neteisėto prekių įvežimo į
+3. Skolininku laikomas deklarantas,
 
-Lietuvos Respublikos muitų teritoriją
+taip pat asmuo, kurio vardu deklaraciją pateikia jo atstovas. Tais atvejais,
 
-1.
+kai muitinės deklaracija pateikta vienai iš šio straipsnio 1 dalyje nurodytų
 
-Importo skola muitinei dėl neteisėto prekių įvežimo į Lietuvos Respublikos
+muitinės procedūrų įforminti, užpildyta remiantis klaidinga informacija ir jos
 
-muitų teritoriją, t.y. nesilaikant šio kodekso 39-42 straipsniuose bei 173
+pateikimas sąlygojo skolos muitinei atsiradimą arba jos dydį, asmenys, pateikę
 
-straipsnio 2 dalyje nustatytos tvarkos, atsiranda, kai:
+tokią informaciją ir žinoję arba turėję žinoti, kad pateikiama klaidinga
 
-1)
+informacija, taip pat gali būti laikomi skolininkais.]
 
-prekės, už kurias nustatyti importo muitai ir mokesčiai, neteisėtai įvežamos į
+Straipsnio pakeitimai:
 
-Lietuvos Respublikos muitų teritoriją;
+Nr. IX-624,
 
-2) prekės, buvusios laisvojoje zonoje arba laisvajame
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-sandėlyje, neteisėtai įvežamos į kitą Lietuvos Respublikos muitų teritorijos
+186 straipsnis. Importo skolos
 
-dalį.
+muitinei atsiradimas dėl neteisėto prekių įvežimo į
 
-2.
+Lietuvos Respublikos muitų
 
-Skola muitinei atsiranda neteisėto prekių įvežimo momentu.
+teritoriją
 
-3.
+1. Importo skola muitinei dėl neteisėto
 
-Skolininku laikomas:
+prekių įvežimo į Lietuvos Respublikos muitų teritoriją, t.y. nesilaikant šio
 
-1)
+kodekso 39-42 straipsniuose bei 173 straipsnio 2 dalyje nustatytos tvarkos,
 
-asmuo, neteisėtai įvežęs prekes;
+atsiranda, kai:
+
+1) prekės, už kurias nustatyti importo
+
+muitai ir mokesčiai, neteisėtai įvežamos į Lietuvos Respublikos muitų
+
+teritoriją;
+
+2) prekės, buvusios laisvojoje zonoje
+
+arba laisvajame sandėlyje, neteisėtai įvežamos į kitą Lietuvos Respublikos
+
+muitų teritorijos dalį.
+
+2. Skola muitinei atsiranda neteisėto
+
+prekių įvežimo momentu.
+
+3. Skolininku laikomas:
+
+1) asmuo, neteisėtai įvežęs prekes;
+
+2) asmuo, dalyvavęs neteisėtai įvežant
+
+prekes ir žinojęs arba turėjęs žinoti, kad prekės įvežtos neteisėtai;
+
+3) asmuo, įsigijęs arba gavęs neteisėtai
+
+įvežtų prekių ir jų įsigijimo arba gavimo momentu žinojęs arba turėjęs žinoti,
+
+kad prekės įvežtos neteisėtai.
+
+[3 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+3. Skolininkais laikomi:
+
+1) asmenys, neteisėtai įvežę prekes;
 
 2)
 
-asmuo, dalyvavęs neteisėtai įvežant prekes ir žinojęs arba turėjęs žinoti, kad
+asmenys, dalyvavę neteisėtai įvežant prekes ir žinoję arba turėję žinoti, kad
 
 prekės įvežtos neteisėtai;
 
 3)
 
-asmuo, įsigijęs arba gavęs neteisėtai įvežtų prekių ir jų įsigijimo arba gavimo
+asmenys, įsigiję arba gavę neteisėtai įvežtų prekių ir jų įsigijimo arba gavimo
 
-momentu žinojęs arba turėjęs žinoti, kad prekės įvežtos neteisėtai.
+momentu žinoję arba turėję žinoti, kad prekės įvežtos neteisėtai.]
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6812,121 +7390,191 @@ Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
 
-187 straipsnis. Importo skolos muitinei atsiradimas
+Nr. IX-624,
 
-neteisėtai paėmus arba atidavus
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+187 straipsnis. Importo skolos
+
+muitinei atsiradimas neteisėtai paėmus arba atidavus
 
 muitinės prižiūrimas prekes
 
-1.
+1. Importo skola muitinei atsiranda dėl
 
-Importo skola muitinei atsiranda dėl muitinės prižiūrimų prekių, už kurias
+muitinės prižiūrimų prekių, už kurias nustatyti importo muitai ir mokesčiai,
 
-nustatyti importo muitai ir mokesčiai, neteisėto paėmimo arba atidavimo.
+neteisėto paėmimo arba atidavimo.
 
-2.
+2. Skola atsiranda muitinės prižiūrimų
 
-Skola atsiranda muitinės prižiūrimų prekių paėmimo arba atidavimo momentu.
+prekių paėmimo arba atidavimo momentu.
 
-3.
+3. Skolininku laikomas:
 
-Skolininku laikomas:
+1) asmuo, paėmęs arba atidavęs muitinės
 
-1)
+prižiūrimas prekes;
 
-asmuo, paėmęs arba atidavęs muitinės prižiūrimas prekes;
+2) asmuo, dalyvavęs paimant arba
+
+atiduodant prekes ir žinojęs arba turėjęs žinoti, kad prekės paimamos arba
+
+atiduodamos neteisėtai;
+
+3) asmuo, įsigijęs arba gavęs prekių ir
+
+įsigijimo arba gavimo momentu žinojęs arba turėjęs žinoti, kad prekės paimtos
+
+arba atiduotos neteisėtai;
+
+4) asmuo, kuris turėjo įvykdyti prekių
+
+laikinojo saugojimo arba muitinės procedūros taikymo įsipareigojimus.
+
+[3 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+3. Skolininkais laikomi:
+
+1) asmenys, paėmę arba atidavę muitinės
+
+prižiūrimas prekes;
 
 2)
 
-asmuo, dalyvavęs paimant arba atiduodant prekes ir žinojęs arba turėjęs žinoti,
+asmenys, dalyvavę paimant arba atiduodant prekes ir žinoję arba turėję žinoti,
 
 kad prekės paimamos arba atiduodamos neteisėtai;
 
 3)
 
-asmuo, įsigijęs arba gavęs prekių ir įsigijimo arba gavimo momentu žinojęs arba
+asmenys, įsigiję arba gavę prekių ir jų įsigijimo arba gavimo momentu žinoję
 
-turėjęs žinoti, kad prekės paimtos arba atiduotos neteisėtai;
+arba turėję žinoti, kad prekės paimtos arba atiduotos neteisėtai;
 
-4)
+4) asmenys, kurie turėjo įvykdyti
 
-asmuo, kuris turėjo įvykdyti prekių laikinojo saugojimo arba muitinės
+prekių laikinojo saugojimo arba muitinės procedūros taikymo įsipareigojimus.]
 
-procedūros taikymo įsipareigojimus.
+Straipsnio pakeitimai:
 
-188 straipsnis. Importo skolos muitinei atsiradimas
+Nr. IX-624,
 
-neįvykdžius prekių laikinojo
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-saugojimo arba muitinės procedūros taikymo
+188 straipsnis. Importo skolos
 
-įsipareigojimų
+muitinei atsiradimas neįvykdžius prekių laikinojo
 
-1.
+saugojimo arba muitinės procedūros
 
-Importo skola muitinei atsiranda:
+taikymo įsipareigojimų
 
-1)
+1. Importo skola muitinei atsiranda:
 
-neįvykdžius bent vieno iš įsipareigojimų, susijusių su prekių, už kurias
+1) neįvykdžius bent vieno iš
 
-nustatyti importo muitai ir mokesčiai, laikinuoju saugojimu arba su joms
+įsipareigojimų, susijusių su prekių, už kurias nustatyti importo muitai ir
 
-taikoma muitinės procedūra;
+mokesčiai, laikinuoju saugojimu arba su joms taikoma muitinės procedūra;
 
-2)
+2) nesilaikant prekių pateikimo tam tikrai
 
-nesilaikant prekių pateikimo tam tikrai muitinės procedūrai įforminti sąlygų
+muitinės procedūrai įforminti sąlygų arba jų visiško ar dalinio neapmokestinimo
 
-arba jų visiško ar dalinio neapmokestinimo importo muitais ar mokesčiais dėl
+importo muitais ar mokesčiais dėl ypatingos prekių paskirties sąlygų;
 
-ypatingos prekių paskirties sąlygų;
+3) kitais atvejais, nenurodytais 186
 
-3)
+straipsnyje, išskyrus, kai nustatyti pažeidimai iš esmės nesutrukdė teisingai
 
-kitais atvejais, nenurodytais 186 straipsnyje, išskyrus, kai nustatyti
+vykdyti prekių laikinojo saugojimo arba muitinės procedūros taikymo
 
-pažeidimai iš esmės nesutrukdė teisingai vykdyti prekių laikinojo saugojimo
+įsipareigojimus.
 
-arba muitinės procedūros taikymo įsipareigojimus.
+2. Skola muitinei atsiranda:
 
-2.
+1) tuo momentu, kai nustojama vykdyti
 
-Skola muitinei atsiranda:
+įsipareigojimą, kurio nevykdymas sąlygoja skolos muitinei atsiradimą; arba
 
-1)
+2) nuo prekių pateikimo muitinės
 
-tuo momentu, kai nustojama vykdyti įsipareigojimą, kurio nevykdymas sąlygoja
+procedūrai įforminti momento, jeigu nustatyta, kad nesilaikyta prekių pateikimo
 
-skolos muitinei atsiradimą; arba
+šiai muitinės procedūrai sąlygų arba jų visiško ar dalinio neapmokestinimo importo
 
-2)
+muitais ar mokesčiais dėl ypatingos prekių paskirties sąlygų.
 
-nuo prekių pateikimo muitinės procedūrai įforminti momento, jeigu nustatyta,
+3. Skolininku laikomas asmuo:
 
-kad nesilaikyta prekių pateikimo šiai muitinės procedūrai sąlygų arba jų
+1) esamomis aplinkybėmis privalantis
 
-visiško ar dalinio neapmokestinimo importo muitais ar mokesčiais dėl ypatingos
+vykdyti įsipareigojimus, susijusius su prekių, už kurias nustatyti importo
 
-prekių paskirties sąlygų.
+muitai ir mokesčiai, laikinuoju saugojimu arba joms taikoma muitinės procedūra;
 
-3.
+arba
 
-Skolininku laikomas asmuo:
+2) privalantis laikytis prekių pateikimo
 
-1)
+tam tikrai muitinės procedūrai įforminti sąlygų.
 
-esamomis aplinkybėmis privalantis vykdyti įsipareigojimus, susijusius su
+[Straipsnis papildomas 4 dalimi nuo 2002 m. birželio 1
 
-prekių, už kurias nustatyti importo muitai ir mokesčiai, laikinuoju saugojimu
+d.:
 
-arba joms taikoma muitinės procedūra; arba
+4. Taikant šio straipsnio 1 dalies 3
 
-2)
+punktą, laikoma, kad nustatyti pažeidimai, jeigu jie nebuvo padaryti dėl
 
-privalantis laikytis prekių pateikimo tam tikrai muitinės procedūrai įforminti
+akivaizdaus aplaidumo (asmeniui nesiėmus priemonių, būtinų prisiimtiems
 
-sąlygų.
+įsipareigojimams įvykdyti), iš esmės nesutrukdė teisingai vykdyti prekių
+
+laikinojo saugojimo arba muitinės procedūros taikymo įsipareigojimus, kai:
+
+1) pažeidžiamas laikinojo saugojimo arba
+
+muitinės procedūros atlikimo terminas, kurį muitinė būtų pratęsusi, jeigu asmuo
+
+būtų laiku kreipęsis į muitinės įstaigą;
+
+2) su prekėmis, laikomomis importo ir
+
+eksporto terminale (laikinojo prekių saugojimo sandėlyje) arba muitinės
+
+sandėlyje, be muitinės leidimo atliekamos operacijos, kurioms tokio leidimo
+
+reikia ir kuris būtų duotas, jeigu asmuo būtų kreipęsis į muitinės įstaigą;
+
+3) prekės, kurioms taikoma laikinojo
+
+įvežimo arba laikinojo įvežimo perdirbti procedūra, naudojamos leidime laikinai
+
+įvežti prekes arba leidime perdirbti laikinai įvežtas prekes nenumatytiems
+
+tikslams, tačiau taip jas naudoti būtų leista, jeigu asmuo dėl to būtų
+
+kreipęsis į muitinės įstaigą;
+
+4) prekės, kurioms atsižvelgus į jų
+
+paskirtį taikomos muitų ir (arba) mokesčių lengvatos, neįvykdžius bent vieno iš
+
+įsipareigojimų, susijusių su jų laikinuoju saugojimu arba joms taikoma muitinės
+
+procedūra, be muitinės leidimo perduodamos kitiems asmenims, tačiau prekių
+
+perdavimas yra įformintas atitinkamais dokumentais, o asmuo, kuriam perduotos
+
+prekės, turi teisę jas gauti.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 189 straipsnis. Importo skolos
 
@@ -6936,13 +7584,13 @@ naudojimo laisvojoje zonoje arba
 
 laisvajame sandėlyje
 
-1. Importo skola muitinei atsiranda, kai nesilaikant
+1. Importo skola muitinei atsiranda, kai
 
-šio kodekso, Laisvųjų ekonominių zonų pagrindų įstatymo arba Klaipėdos
+nesilaikant šio kodekso, Laisvųjų ekonominių zonų pagrindų įstatymo arba
 
-valstybinio jūrų uosto įstatymo nustatytų sąlygų laisvojoje zonoje arba
+Klaipėdos valstybinio jūrų uosto įstatymo nustatytų sąlygų laisvojoje zonoje
 
-laisvajame sandėlyje laikomos arba naudojamos prekės, už kurias nustatyti
+arba laisvajame sandėlyje laikomos arba naudojamos prekės, už kurias nustatyti
 
 importo muitai ir mokesčiai. Prekės laikomos sunaudotomis laisvojoje zonoje
 
@@ -6950,29 +7598,41 @@ arba laisvajame sandėlyje, jeigu jos yra dingusios ir muitinei nepateikti
 
 įrodymai, paaiškinantys jų dingimą.
 
-2.
+2. Skola muitinei atsiranda tuo momentu,
 
-Skola muitinei atsiranda tuo momentu, kai prekės yra sunaudojamos, pradedamos
+kai prekės yra sunaudojamos, pradedamos laikyti ar pirmą kartą panaudojamos
 
-laikyti ar pirmą kartą panaudojamos nesilaikant šio kodekso arba Laisvųjų
+nesilaikant šio kodekso arba Laisvųjų ekonominių zonų pagrindų įstatymo
 
-ekonominių zonų pagrindų įstatymo nustatytų sąlygų.
+nustatytų sąlygų.
 
-3.
+3. Skolininku laikomas asmuo:
 
-Skolininku laikomas asmuo:
+1) laikęs arba naudojęs prekes; arba
 
-1)
+2) dalyvavęs laikant arba naudojant prekes
 
-laikęs arba naudojęs prekes; arba
+ir žinojęs arba turėjęs žinoti, kad prekės laikomos arba naudojamos nesilaikant
 
-2)
+nustatytų sąlygų.
 
-dalyvavęs laikant arba naudojant prekes ir žinojęs arba turėjęs žinoti, kad
+[3 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-prekės laikomos arba naudojamos nesilaikant nustatytų sąlygų.
+3. Skolininkais laikomi:
 
-Straipsnio pakeitimai:
+1) asmenys, laikę arba naudoję prekes;
+
+arba
+
+2) asmenys, dalyvavę laikant arba
+
+naudojant prekes ir žinoję arba turėję žinoti, kad prekės laikomos arba
+
+naudojamos nesilaikant nustatytų sąlygų.]
+
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -6982,135 +7642,75 @@ Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
 
-190 straipsnis. Atvejai, kai importo skola muitinei
+Nr. IX-624,
 
-neatsiranda
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-1.
+190 straipsnis. Atvejai, kai importo
 
-Šio kodekso 186 straipsnio 1 dalyje ir 188 straipsnio 1 dalies 1 punkte
+skola muitinei neatsiranda
 
-nurodytais atvejais importo skola muitinei neatsiranda, jeigu suinteresuotas
+1. Šio kodekso 186 straipsnio 1 dalyje ir
 
-asmuo įrodo,kad įsipareigojimai, susiję su šio kodekso 39-42 straipsnių bei 173
+188 straipsnio 1 dalies 1 punkte nurodytais atvejais importo skola muitinei
 
-straipsnio 2 dalies taikymu, prekių laikinuoju saugojimu arba prekėms taikoma
+neatsiranda, jeigu suinteresuotas asmuo įrodo,kad įsipareigojimai, susiję su
 
-muitinės procedūra, nevykdomi dėl visiško prekių sunaikinimo arba praradimo,
+šio kodekso 39-42 straipsnių bei 173 straipsnio 2 dalies taikymu, prekių
 
-kurių priežastis buvo jų medžiagos savybės (prekių prigimtis), nelaimingas
+laikinuoju saugojimu arba prekėms taikoma muitinės procedūra, nevykdomi dėl
 
-atsitikimas, nenugalima jėga arba veiksmai, įvykdyti turint muitinės leidimą.
+visiško prekių sunaikinimo arba praradimo, kurių priežastis buvo jų medžiagos
 
-Prekės laikomos prarastomis, kai jos visiškai nebetinka naudoti. Atliekos arba
+savybės (prekių prigimtis), nelaimingas atsitikimas, nenugalima jėga arba
 
-laužas, atsiradę sunaikinus išleistas laisvai cirkuliuoti prekes, kurios dėl
+veiksmai, įvykdyti turint muitinės leidimą. Prekės laikomos prarastomis, kai
+
+jos visiškai nebetinka naudoti. Atliekos arba laužas, atsiradę sunaikinus
+
+išleistas laisvai cirkuliuoti prekes, kurios dėl ypatingos paskirties visai arba
+
+iš dalies neapmokestinamos importo muitais ir mokesčiais, laikomi ne Lietuvos
+
+prekėmis.
+
+2. Importo skola muitinei taip pat
+
+neatsiranda, kai su muitinės leidimu eksportuojamos arba reeksportuojamos
+
+laisvai cirkuliuoti išleistos prekės, kurios dėl ypatingos paskirties visai
+
+arba iš dalies neapmokestinamos importo muitais ir mokesčiais.
+
+191 straipsnis. Importo skolos
+
+sumažinimas dėl ypatingos prekių paskirties
+
+Importo skola muitinei, atsiradusi taikant
+
+šio kodekso 187 ir 188 straipsnius ir susijusi su prekėmis, kurios dėl
 
 ypatingos paskirties visai arba iš dalies neapmokestinamos importo muitais ir
 
-mokesčiais, laikomi ne Lietuvos prekėmis.
+mokesčiais, mažinama suma, sumokėta išleidžiant šias prekes laisvai
 
-2.
+cirkuliuoti. Ši nuostata taip pat taikoma nustatant importo skolą muitinei dėl
 
-Importo skola muitinei taip pat neatsiranda, kai su muitinės leidimu
+atliekų ir laužo, atsiradusių sunaikinus tokias prekes.
 
-eksportuojamos arba reeksportuojamos laisvai cirkuliuoti išleistos prekės,
+192 straipsnis. Eksporto skolos
 
-kurios dėl ypatingos paskirties visai arba iš dalies neapmokestinamos importo
+muitinei atsiradimas
 
-muitais ir mokesčiais.
+1. Eksporto skola muitinei atsiranda iš
 
-191 straipsnis. Importo skolos sumažinimas dėl
+Lietuvos Respublikos muitų teritorijos eksportuojant prekes, už kurias
 
-ypatingos prekių paskirties
+nustatyti eksporto muitai ir mokesčiai.
 
-Importo
+2. Eksporto skola muitinei atsiranda
 
-skola muitinei, atsiradusi taikant šio kodekso 187 ir 188 straipsnius ir
-
-susijusi su prekėmis, kurios dėl ypatingos paskirties visai arba iš dalies
-
-neapmokestinamos importo muitais ir mokesčiais, mažinama suma, sumokėta
-
-išleidžiant šias prekes laisvai cirkuliuoti. Ši nuostata taip pat taikoma
-
-nustatant importo skolą muitinei dėl atliekų ir laužo, atsiradusių sunaikinus
-
-tokias prekes.
-
-192
-
-straipsnis. Eksporto skolos muitinei atsiradimas
-
-1.
-
-Eksporto skola muitinei atsiranda iš Lietuvos Respublikos muitų teritorijos
-
-eksportuojant prekes, už kurias nustatyti eksporto muitai ir mokesčiai.
-
-2.
-
-Eksporto skola muitinei atsiranda priėmus muitinės deklaraciją.
-
-3.
-
-Skolininku laikomas deklarantas, taip pat asmuo, kurio vardu muitinės
-
-deklaraciją pateikia jo atstovas.
-
-193
-
-straipsnis. Eksporto skolos muitinei atsiradimas, kai prekės išvežamos iš
-
-Lietuvos
-
-Respublikos muitų teritorijos
-
-nepateikus muitinės deklaracijos
-
-1.
-
-Eksporto skola muitinei atsiranda, kai nepateikus muitinės deklaracijos iš
-
-Lietuvos Respublikos muitų teritorijos išvežamos prekės, už kurias nustatyti
-
-eksporto muitai ir mokesčiai.
-
-2.
-
-Eksporto skola muitinei atsiranda faktinio prekių, už kurias nustatyti eksporto
-
-muitai ir mokesčiai, išvežimo iš Lietuvos Respublikos muitų teritorijos
-
-momentu.
-
-3.
-
-Skolininku laikomas:
-
-1)
-
-asmuo, išvežęs prekes iš Lietuvos Respublikos muitų teritorijos;
-
-2)
-
-asmuo, dalyvavęs išvežant prekes ir žinojęs arba turėjęs žinoti, kad prekės
-
-išvežamos nepateikus muitinės deklaracijos.
-
-192 straipsnis. Eksporto skolos muitinei
-
-atsiradimas
-
-1.   Eksporto   skola  muitinei
-
-atsiranda  iš   Lietuvos Respublikos muitų teritorijos eksportuojant prekes,
-
-už  kurias nustatyti eksporto muitai ir mokesčiai.
-
-2.  Eksporto  skola muitinei atsiranda
-
-priėmus  muitinės deklaraciją.
+priėmus muitinės deklaraciją.
 
 3. Skolininku laikomas deklarantas, taip
 
@@ -7120,443 +7720,535 @@ pat asmuo, kurio vardu muitinės deklaraciją pateikia jo atstovas.
 
 atsiradimas, kai prekės išvežamos iš Lietuvos
 
-Respublikos   muitų   teritorijos
+Respublikos muitų teritorijos
 
-nepateikus muitinės  deklaracijos
+nepateikus muitinės deklaracijos
 
-1.  Eksporto  skola  muitinei atsiranda,
+1. Eksporto skola muitinei atsiranda, kai
 
-kai  nepateikus muitinės   deklaracijos   iš   Lietuvos   Respublikos muitų
+nepateikus muitinės deklaracijos iš Lietuvos Respublikos muitų teritorijos
 
-teritorijos  išvežamos  prekės, už kurias  nustatyti  eksporto muitai ir
+išvežamos prekės, už kurias nustatyti eksporto muitai ir mokesčiai.
 
-mokesčiai.
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-2.  Eksporto skola muitinei atsiranda
+1. Eksporto skola muitinei atsiranda,
 
-faktinio prekių, už kurias  nustatyti  eksporto muitai ir mokesčiai,  išvežimo
+kai neįforminus muitinės deklaracijos iš Lietuvos Respublikos muitų teritorijos
 
-iš Lietuvos Respublikos muitų teritorijos momentu.
+išvežamos prekės, už kurias nustatyti eksporto muitai ir mokesčiai.]
+
+2. Eksporto skola muitinei atsiranda
+
+faktinio prekių, už kurias nustatyti eksporto muitai ir mokesčiai, išvežimo iš
+
+Lietuvos Respublikos muitų teritorijos momentu.
 
 3. Skolininku laikomas:
 
-1)  asmuo,  išvežęs prekes iš Lietuvos
+1) asmuo, išvežęs prekes iš Lietuvos
 
-Respublikos  muitų teritorijos;
+Respublikos muitų teritorijos;
 
-2)  asmuo,  dalyvavęs  išvežant prekes
+2) asmuo, dalyvavęs išvežant prekes ir
 
-ir  žinojęs  arba turėjęs  žinoti,  kad  prekės  išvežamos  nepateikus
+žinojęs arba turėjęs žinoti, kad prekės išvežamos nepateikus muitinės
 
-muitinės deklaracijos.
+deklaracijos.
 
-194 straipsnis. Eksporto skolos muitinei atsiradimas
+[3 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-nesilaikant prekių išvežimo iš
+3. Skolininkais laikomi:
 
-Lietuvos Respublikos muitų teritorijos sąlygų
+1) asmenys, išvežę prekes iš Lietuvos
 
-1.
+Respublikos muitų teritorijos;
 
-Eksporto skola muitinei atsiranda nesilaikant prekių išvežimo iš Lietuvos
+2) asmenys, dalyvavę išvežant prekes ir
 
-Respublikos muitų teritorijos sąlygų, kurių turi būti laikomasi, kai prekės
+žinoję arba turėję žinoti, kad prekės išvežamos neįforminus muitinės
 
-visai arba iš dalies neapmokestinamos eksporto muitais ir mokesčiais.
+deklaracijos.]
 
-2.
+Straipsnio pakeitimai:
 
-Skola atsiranda tuo momentu, kai prekės pristatomos į kitą paskirties vietą,
+Nr. IX-624,
 
-negu buvo nurodyta jas išvežant iš Lietuvos Respublikos muitų teritorijos,
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-jeigu dėl gabenimo į nurodytą paskirties vietą prekės buvo visai arba iš dalies
+194 straipsnis. Eksporto skolos
 
-neapmokestintos eksporto muitais bei mokesčiais, arba kai pasibaigia nustatytas
+muitinei atsiradimas nesilaikant prekių išvežimo iš
 
-terminas, per kurį suinteresuotas asmuo turėjo pateikti įrodymus, kad laikytasi
+Lietuvos Respublikos muitų
 
-visiško arba dalinio prekių neapmokestinimo eksporto muitais ir mokesčiais
+teritorijos sąlygų
 
-sąlygų.
+1. Eksporto skola muitinei atsiranda
 
-3.
+nesilaikant prekių išvežimo iš Lietuvos Respublikos muitų teritorijos sąlygų,
 
-Skolininku laikomas deklarantas, taip pat asmuo, kurio vardu muitinės
+kurių turi būti laikomasi, kai prekės visai arba iš dalies neapmokestinamos
 
-deklaraciją pateikia jo atstovas.
+eksporto muitais ir mokesčiais.
 
-195 straipsnis. Skolos muitinei dėl draudžiamų arba
+2. Skola atsiranda tuo momentu, kai prekės
 
-ribojamų įvežti (išvežti) prekių
+pristatomos į kitą paskirties vietą, negu buvo nurodyta jas išvežant iš Lietuvos
+
+Respublikos muitų teritorijos, jeigu dėl gabenimo į nurodytą paskirties vietą
+
+prekės buvo visai arba iš dalies neapmokestintos eksporto muitais bei
+
+mokesčiais, arba kai pasibaigia nustatytas terminas, per kurį suinteresuotas
+
+asmuo turėjo pateikti įrodymus, kad laikytasi visiško arba dalinio prekių
+
+neapmokestinimo eksporto muitais ir mokesčiais sąlygų.
+
+3. Skolininku laikomas deklarantas, taip
+
+pat asmuo, kurio vardu muitinės deklaraciją pateikia jo atstovas.
+
+195 straipsnis. Skolos muitinei dėl
+
+draudžiamų arba ribojamų įvežti (išvežti) prekių
 
 atsiradimas
 
-Šio
+Šio kodekso 185-189 ir 192-194
 
-kodekso 185-189 ir 192-194 straipsniuose nustatytais atvejais skola muitinei
+straipsniuose nustatytais atvejais skola muitinei atsiranda neatsižvelgiant į
 
-atsiranda neatsižvelgiant į prekių įvežimui arba išvežimui taikomus draudimus
+prekių įvežimui arba išvežimui taikomus draudimus arba apribojimus. Skola
 
-arba apribojimus. Skola muitinei neatsiranda dėl neteisėto padirbtų pinigų,
+muitinei neatsiranda dėl neteisėto padirbtų pinigų, narkotinių arba
 
-narkotinių arba psichotropinių medžiagų įvežimo į Lietuvos Respublikos muitų
+psichotropinių medžiagų įvežimo į Lietuvos Respublikos muitų teritoriją.
 
-teritoriją.
+[Kodeksas papildomas 195(1) straipsniu nuo
 
-196 straipsnis. Solidari skolininkų atsakomybė
+2002 m. birželio 1 d.:
 
-Kai už vieną skolą muitinei solidariai
+195(1) straipsnis.
 
-atsako keli skolininkai, muitinė turi teisę reikalauti, kad skolininko pareigą
+Dalinis arba visiškas prekių neapmokestinimas muitais ir (arba)
 
-arba jos dalį įstatymų nustatyta tvarka vykdytų visi arba keli skolininkai
-
-bendrai arba bet kuris iš jų skyrium.
-
-197 straipsnis. Skolos muitinei dydžio nustatymas
-
-1. Skolos muitinei dydis nustatomas
-
-remiantis jos atsiradimo momentu galiojančiais importo arba eksporto muitų ir
-
-mokesčių tarifais, jeigu šis kodeksas nenustato ko kita.
-
-2. Jeigu tikslaus skolos muitinei
-
-atsiradimo momento nustatyti neįmanoma, skolos muitinei dydis nustatomas
-
-remiantis importo arba eksporto muitų ir mokesčių tarifais, galiojančiais tuo
-
-momentu, kai muitinė pripažįsta, jog atsirado skola muitinei.
-
-198 straipsnis. Skolos muitinei atsiradimo vieta
-
-1. Skola muitinei atsiranda toje vietoje,
-
-kurioje įvykdomi jos atsiradimą sąlygojantys veiksmai, o jeigu šios vietos
-
-nustatyti neįmanoma, - skolos muitinei atsiradimą sąlygojusių prekių buvimo
-
-vietoje.
-
-2. Jei prekėms taikoma muitinės procedūra
-
-yra nebaigta, skola muitinei laikoma atsiradusia toje vietoje, kurioje prekės
-
-buvo pateiktos šiai muitinės procedūrai įforminti arba įvežtos į Lietuvos
-
-Respublikos muitų teritoriją taikant šią procedūrą.
-
-XVIII SKYRIUS
-
-SKOLININKO ĮSIPAREIGOJIMŲ MUITINEI ĮVYKDYMO
-
-UŽTIKRINIMAS
-
-199 straipsnis. Atvejai, kai reikalinga garantija,
-
-užtikrinanti, kad skolininkas įvykdys
-
-įsipareigojimus muitinei
-
-1.
-
-Šio kodekso ir jo taikymą reglamentuojančių teisės aktų nustatytais atvejais
-
-reikalaujama pateikti garantiją, užtikrinančią, kad skolininkas įvykdys įsipareigojimus
-
-muitinei.
-
-2.
-
-Šio kodekso taikymą reglamentuojantys teisės aktai nustato, kada privaloma
-
-pateikti garantiją ir kada muitinė gali nereikalauti, kad ji būtų pateikta.
-
-3.
-
-Muitinės pareikalavimu asmuo, esantis arba galintis tapti skolininku, taip pat
-
-(jei muitinė sutinka) už šiuos asmenis kitas asmuo privalo pateikti piniginį
-
-užstatą arba raštišką garanto įsipareigojimą atsakyti muitinei, jeigu
-
-skolininkas nesumokės skolos muitinei arba šią prievolę įvykdys netinkamai.
-
-4.
-
-Už vieną skolą muitinei reikalaujama pateikti tik vieną garantiją.
-
-200 straipsnis. Reikalavimo pateikti garantiją
-
-taikymas muitinės nuožiūra
-
-1.
-
-Kai garantijos pateikti neprivaloma, muitinė gali jos reikalauti savo nuožiūra,
-
-atsižvelgdama į atsiradusios arba galinčios atsirasti skolos muitinei dydį ir
-
-jos atsiradimo aplinkybes.
-
-2.
-
-Šio straipsnio 1 dalyje nurodytą garantiją reikalaujama pateikti:
-
-1)
-
-taikant teisės aktus, kuriuose numatytas garantijos pateikimas; arba
-
-2)
-
-bet kuriuo metu vėliau, jei muitinė pripažįsta, kad skolininko įsipareigojimai
-
-gali būti neįvykdyti.
-
-201 straipsnis. Garantijos taikymas kelioms
-
-operacijoms
-
-Šio
-
-kodekso 199 straipsnio 3 dalyje nurodyto asmens prašymu garantija gali būti
-
-taikoma kelioms operacijoms, kurias atliekant atsiranda arba gali atsirasti
-
-skola muitinei.
-
-202 straipsnis. Garantijos dydis
-
-1.
-
-Garantijos dydį nustato muitinė. Privalomos garantijos dydis turi būti lygus
-
-skolos muitinei dydžiui, jeigu jį galima tiksliai nustatyti garantijos
-
-pateikimo metu, arba muitinės nustatytam didžiausiam atsiradusios arba
-
-galinčios atsirasti skolos muitinei dydžiui.
-
-2.
-
-Jeigu garantijos pateikti neprivaloma ir muitinė jos reikalauja savo nuožiūra,
-
-garantijos dydis negali viršyti šio straipsnio 1 dalyje nurodyto dydžio.
-
-3.
-
-Aplinkybes, kurioms esant gali būti pateikiama fiksuoto dydžio garantija, ir
-
-jos pateikimo sąlygas nustato šio kodekso taikymą reglamentuojantys teisės
-
-aktai.
-
-203 straipsnis. Priemonės, užtikrinančios, kad
-
-skolininkas įvykdys įsipareigojimus
+mokesčiais, kai atsiranda skola
 
 muitinei
 
-Kad
+Jeigu teisės aktų nustatyta, kad prekės
 
-skolininkas įvykdys įsipareigojimus muitinei, užtikrinama:
+iš dalies arba visiškai neapmokestinamos muitais ir (arba) mokesčiais dėl jų
 
-1)
+prigimties ar ypatingos paskirties arba vadovaujantis šio kodekso 80,
 
-sumokant užstatą;
+111 arba 180–183 straipsniais, toks dalinis arba visiškas neapmokestinimas
 
-2)
+muitais ir (arba) mokesčiais taikomas ir tada, kai vadovaujantis šio kodekso
 
-pateikiant laidavimo dokumentą.
+186–189, 193 arba 194 straipsniais atsiranda skola muitinei, jeigu nėra
 
-204 straipsnis. Užstato sumokėjimas ir grąžinimas
+pagrindo laikyti suinteresuoto asmens veiksmų, dėl kurių ši skola atsirado,
 
-Užstatas
+pažeidimu ar akivaizdžiu aplaidumu (asmeniui nesiėmus priemonių, būtinų
 
-sumokamas ir grąžinamas šio kodekso taikymą reglamentuojančių teisės aktų
+prisiimtiems įsipareigojimams įvykdyti) ir jeigu įvykdytos kitos dalinio arba
+
+visiško neapmokestinimo muitais ir (arba) mokesčiais sąlygos.]
+
+Kodeksas papildytas straipsniu:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+196 straipsnis. Solidari skolininkų
+
+atsakomybė
+
+Kai už vieną skolą muitinei
+
+solidariai atsako keli skolininkai, muitinė turi teisę reikalauti, kad
+
+skolininko pareigą arba jos dalį įstatymų nustatyta tvarka vykdytų visi arba
+
+keli skolininkai bendrai arba bet kuris iš jų skyrium.
+
+197 straipsnis. Skolos muitinei
+
+dydžio nustatymas
+
+1. Skolos muitinei dydis
+
+nustatomas remiantis jos atsiradimo momentu galiojančiais importo arba eksporto
+
+muitų ir mokesčių tarifais, jeigu šis kodeksas nenustato ko kita.
+
+2. Jeigu tikslaus skolos
+
+muitinei atsiradimo momento nustatyti neįmanoma, skolos muitinei dydis
+
+nustatomas remiantis importo arba eksporto muitų ir mokesčių tarifais,
+
+galiojančiais tuo momentu, kai muitinė pripažįsta, jog atsirado skola muitinei.
+
+[197 straipsnio redakcija nuo 2002 m. birželio 1 d.:
+
+198 straipsnis. Skolos muitinei
+
+atsiradimo vieta
+
+1. Skola muitinei atsiranda
+
+toje vietoje, kurioje įvykdomi jos atsiradimą sąlygojantys veiksmai, o jeigu
+
+šios vietos nustatyti neįmanoma, - skolos muitinei atsiradimą sąlygojusių
+
+prekių buvimo vietoje.
+
+2. Jei prekėms taikoma
+
+muitinės procedūra yra nebaigta, skola muitinei laikoma atsiradusia toje
+
+vietoje, kurioje prekės buvo pateiktos šiai muitinės procedūrai įforminti arba
+
+įvežtos į Lietuvos Respublikos muitų teritoriją taikant šią procedūrą.
+
+[198 straipsnio redakcija nuo 2002 m. birželio 1 d.:
+
+199 straipsnis. Atvejai, kai
+
+reikalinga garantija, užtikrinanti, kad skolininkas įvykdys
+
+įsipareigojimus muitinei
+
+1. Šio kodekso ir jo taikymą
+
+reglamentuojančių teisės aktų nustatytais atvejais reikalaujama pateikti
+
+garantiją, užtikrinančią, kad skolininkas įvykdys įsipareigojimus muitinei.
+
+2. Šio kodekso taikymą reglamentuojantys
+
+teisės aktai nustato, kada privaloma pateikti garantiją ir kada muitinė gali
+
+nereikalauti, kad ji būtų pateikta.
+
+3. Muitinės pareikalavimu asmuo, esantis
+
+arba galintis tapti skolininku, taip pat (jei muitinė sutinka) už šiuos asmenis
+
+kitas asmuo privalo pateikti piniginį užstatą arba raštišką garanto
+
+įsipareigojimą atsakyti muitinei, jeigu skolininkas nesumokės skolos muitinei
+
+arba šią prievolę įvykdys netinkamai.
+
+4. Už vieną skolą muitinei reikalaujama
+
+pateikti tik vieną garantiją.
+
+200 straipsnis. Reikalavimo pateikti
+
+garantiją taikymas muitinės nuožiūra
+
+1. Kai garantijos pateikti neprivaloma,
+
+muitinė gali jos reikalauti savo nuožiūra, atsižvelgdama į atsiradusios arba
+
+galinčios atsirasti skolos muitinei dydį ir jos atsiradimo aplinkybes.
+
+2. Šio straipsnio 1 dalyje nurodytą
+
+garantiją reikalaujama pateikti:
+
+1) taikant teisės aktus, kuriuose
+
+numatytas garantijos pateikimas; arba
+
+2) bet kuriuo metu vėliau, jei muitinė
+
+pripažįsta, kad skolininko įsipareigojimai gali būti neįvykdyti.
+
+201 straipsnis. Garantijos taikymas
+
+kelioms operacijoms
+
+Šio kodekso 199 straipsnio 3 dalyje
+
+nurodyto asmens prašymu garantija gali būti taikoma kelioms operacijoms, kurias
+
+atliekant atsiranda arba gali atsirasti skola muitinei.
+
+202 straipsnis. Garantijos dydis
+
+1. Garantijos dydį nustato muitinė.
+
+Privalomos garantijos dydis turi būti lygus skolos muitinei dydžiui, jeigu jį
+
+galima tiksliai nustatyti garantijos pateikimo metu, arba muitinės nustatytam
+
+didžiausiam atsiradusios arba galinčios atsirasti skolos muitinei dydžiui.
+
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+1. Garantijos dydį nustato muitinė.
+
+Išskyrus teisės aktų, reglamentuojančių muitinio tranzito procedūros atlikimo
+
+tvarką, nustatytus atvejus, privalomos garantijos dydis turi būti lygus skolos
+
+muitinei dydžiui, jeigu jį galima tiksliai nustatyti garantijos pateikimo metu,
+
+arba muitinės nustatytam didžiausiam atsiradusios arba galinčios atsirasti
+
+skolos muitinei dydžiui.]
+
+2. Jeigu garantijos pateikti neprivaloma
+
+ir muitinė jos reikalauja savo nuožiūra, garantijos dydis negali viršyti šio
+
+straipsnio 1 dalyje nurodyto dydžio.
+
+3. Aplinkybes, kurioms esant gali būti
+
+pateikiama fiksuoto dydžio garantija, ir jos pateikimo sąlygas nustato šio
+
+kodekso taikymą reglamentuojantys teisės aktai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+203 straipsnis. Priemonės,
+
+užtikrinančios, kad skolininkas įvykdys įsipareigojimus
+
+muitinei
+
+Kad skolininkas įvykdys įsipareigojimus
+
+muitinei, užtikrinama:
+
+1) sumokant užstatą;
+
+2) pateikiant laidavimo dokumentą.
+
+[2 punkto redakcija nuo 2002 m. birželio 1 d.:
+
+2) pateikiant garantijos dokumentą.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+204 straipsnis. Užstato sumokėjimas
+
+ir grąžinimas
+
+Užstatas sumokamas ir grąžinamas šio
+
+kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka.
+
+205 straipsnis. Laiduotojai ir
+
+laidavimo dokumentai
+
+1. Laiduotojas privalo
+
+raštu įsipareigoti bendrai su skolininku arba skyrium sumokėti muitinei
+
+laidavimo dokumente nurodyto dydžio skolą muitinei.
+
+2. Laiduotoju gali būti
+
+trečiasis asmuo, turintis Lietuvos Respublikos ūkio subjekto statusą ir
+
+užregistruotas muitinėje šio kodekso taikymą reglamentuojančių teisės aktų
 
 nustatyta tvarka.
 
-205 straipsnis. Laiduotojai ir laidavimo dokumentai
+3. Muitinė turi teisę
 
-1. Laiduotojas privalo raštu įsipareigoti
+neregistruoti laiduotojo arba nepripažinti jo pateiktos garantijos, jeigu jos
 
-bendrai su skolininku arba skyrium sumokėti muitinei laidavimo dokumente
+nepakanka užtikrinti, kad skola muitinei būtų sumokėta per nustatytą
 
-nurodyto dydžio skolą muitinei.
+laikotarpį.
 
-2. Laiduotoju gali būti trečiasis asmuo,
+[205 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-turintis Lietuvos Respublikos ūkio subjekto statusą ir užregistruotas muitinėje
+206 straipsnis. Būdo, užtikrinančio,
 
-šio kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka.
-
-3. Muitinė turi teisę neregistruoti
-
-laiduotojo arba nepripažinti jo pateiktos garantijos, jeigu jos nepakanka
-
-užtikrinti, kad skola muitinei būtų sumokėta per nustatytą laikotarpį.
-
-206 straipsnis. Būdo, užtikrinančio, kad skolininkas
-
-įvykdys įsipareigojimus muitinei,
+kad skolininkas įvykdys įsipareigojimus muitinei,
 
 pasirinkimas
 
-Šio kodekso 203 straipsnyje nurodytą būdą,
+Šio kodekso 203 straipsnyje
 
-užtikrinantį skolininko įsipareigojimų muitinei įvykdymą (garantijos rūšį),
+nurodytą būdą, užtikrinantį skolininko įsipareigojimų muitinei įvykdymą
 
-pasirenka asmuo, turintis pateikti garantiją. Muitinė turi teisę šio kodekso
+(garantijos rūšį), pasirenka asmuo, turintis pateikti garantiją. Muitinė turi
 
-taikymą reglamentuojančių teisės aktų nustatytais atvejais nepriimti asmens
+teisę šio kodekso taikymą reglamentuojančių teisės aktų nustatytais atvejais
 
-pasirinkto būdo (garantijos rūšies).
+nepriimti asmens pasirinkto būdo (garantijos rūšies).
 
-207 straipsnis. Muitinės teisė reikalauti papildomos
+[206 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-arba kitos garantijos
+207 straipsnis. Muitinės teisė
 
-Nustačiusi, kad pateikta garantija
+reikalauti papildomos arba kitos garantijos
 
-neužtikrina skolininko įsipareigojimų muitinei įvykdymo, muitinė reikalauja iš
+Nustačiusi, kad pateikta
 
-šio kodekso 199 straipsnio 3 dalyje nurodyto asmens pateikti papildomą
+garantija neužtikrina skolininko įsipareigojimų muitinei įvykdymo, muitinė
 
-garantiją arba pakeisti pateiktą garantiją kita.
+reikalauja iš šio kodekso 199 straipsnio 3 dalyje nurodyto asmens pateikti
 
-208 straipsnis. Garantijos galiojimas, jos dydžio
+papildomą garantiją arba pakeisti pateiktą garantiją kita.
 
-sumažinimas, pateiktos garantijos
+208 straipsnis. Garantijos
+
+galiojimas, jos dydžio sumažinimas, pateiktos garantijos
 
 pakeitimas kita
 
-1.
+1. Garantija galioja, kol išnyksta skola
 
-Garantija galioja, kol išnyksta skola muitinei, dėl kurios ji buvo pateikta.
+muitinei, dėl kurios ji buvo pateikta. Jeigu nurodyta skola muitinei yra
 
-Jeigu nurodyta skola muitinei yra išnykusi ir negali atsirasti vėliau, šio
+išnykusi ir negali atsirasti vėliau, šio kodekso taikymą reglamentuojančių
 
-kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka garantijos
+teisės aktų nustatyta tvarka garantijos atsisakoma.
 
-atsisakoma.
+[1 dalies redakcija nuo 2002 m. birželio 1 d.:
 
-2.Jeigu
+1. Garantija galioja tol, kol skola muitinei, dėl kurios ji buvo
 
-dalis skolos muitinei yra išnykusi, suinteresuoto asmens prašymu muitinė šio
+pateikta, išnyksta arba, jeigu skola muitinei nebuvo atsiradusi, pripažįstama, kad ji nebegali atsirasti. Jeigu nurodyta skola
 
-kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka leidžia sumažinti
+muitinei yra išnykusi arba pripažinta, kad ji nebegali atsirasti, šio kodekso
 
-garantijos dydį arba pakeisti pateiktą garantiją kita.
+taikymą reglamentuojančių teisės aktų nustatyta tvarka garantijos atsisakoma.]
 
-209 straipsnis. Garantijų taikymas pagal Lietuvos
+2.Jeigu dalis skolos muitinei yra
 
-Respublikos tarptautines sutartis
+išnykusi, suinteresuoto asmens prašymu muitinė šio kodekso taikymą
 
-1.
+reglamentuojančių teisės aktų nustatyta tvarka leidžia sumažinti garantijos
 
-Jeigu Lietuvos Respublikos tarptautinėse sutartyse nustatyta kitokia negu šiame
+dydį arba pakeisti pateiktą garantiją kita.
 
-kodekse garantijų taikymo tvarka, taikomos tarptautinių sutarčių normos.
+Straipsnio pakeitimai:
 
-2.
+Nr. IX-624,
 
-Garantijų taikymo tvarka, nustatyta Lietuvos Respublikos tarptautinėse
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
-sutartyse, prireikus gali būti tiksliau išdėstyta šio kodekso taikymą
+209 straipsnis. Garantijų taikymas
 
-reglamentuojančiuose teisės aktuose.
+pagal Lietuvos Respublikos tarptautines sutartis
+
+1. Jeigu Lietuvos Respublikos
+
+tarptautinėse sutartyse nustatyta kitokia negu šiame kodekse garantijų taikymo
+
+tvarka, taikomos tarptautinių sutarčių normos.
+
+2. Garantijų taikymo tvarka, nustatyta
+
+Lietuvos Respublikos tarptautinėse sutartyse, prireikus gali būti tiksliau
+
+išdėstyta šio kodekso taikymą reglamentuojančiuose teisės aktuose.
 
 XIX SKYRIUS
 
 SKOLININKO ĮSIPAREIGOJIMŲ VYKDYMAS
 
-210 straipsnis. Muitų ir mokesčių sumos apskaičiavimas
+210 straipsnis. Muitų ir mokesčių
 
-ir įregistravimas muitinėje
+sumos apskaičiavimas ir įregistravimas muitinėje
 
-Visos
+Visos importo ir eksporto muitų ir
 
-importo ir eksporto muitų ir mokesčių sumos, sudarančios skolas muitinei
+mokesčių sumos, sudarančios skolas muitinei (toliau - mokesčių sumos),
 
-(toliau - mokesčių sumos), apskaičiuojamos ir įregistruojamos muitinėje
+apskaičiuojamos ir įregistruojamos muitinėje mokesčių įstatymų ir kitų teisės
 
-mokesčių įstatymų ir kitų teisės aktų nustatyta tvarka.
+aktų nustatyta tvarka.
 
-211 straipsnis. Mokesčių sumos įregistravimo laikas
+211 straipsnis. Mokesčių sumos
 
-1.
+įregistravimo laikas
 
-Mokesčių suma muitinėje įregistruojama tuoj pat, kai tik ji apskaičiuojama, bet
+1. Mokesčių suma muitinėje įregistruojama
 
-ne vėliau kaip per 2 kalendorines dienas nuo prekių išleidimo, jeigu skola
+tuoj pat, kai tik ji apskaičiuojama, bet ne vėliau kaip per 2 kalendorines
 
-muitinei atsiranda:
+dienas nuo prekių išleidimo, jeigu skola muitinei atsiranda:
 
-1)
+1) priėmus muitinės deklaraciją, pateiktą
 
-priėmus muitinės deklaraciją, pateiktą įforminti bet kuriai muitinės
+įforminti bet kuriai muitinės procedūrai, išskyrus laikinąjį įvežimą iš dalies
 
-procedūrai, išskyrus laikinąjį įvežimą iš dalies neapmokestinant importo
+neapmokestinant importo muitais ir mokesčiais; arba
 
-muitais ir mokesčiais; arba
+2) atlikus bet kurį kitą veiksmą, turintį
 
-2)
+tokių pačių pasekmių kaip ir muitinės deklaracijos priėmimas.
 
-atlikus bet kurį kitą veiksmą, turintį tokių pačių pasekmių kaip ir muitinės
+2. Kai asmuo pateikia garantiją,
 
-deklaracijos priėmimas.
+užtikrinančią, kad jis įvykdys skolininko įsipareigojimus, šio kodekso taikymą
 
-2.
+reglamentuojančių teisės aktų nustatyta tvarka visa mokesčių suma, susijusi su
 
-Kai asmuo pateikia garantiją, užtikrinančią, kad jis įvykdys skolininko
+šiam asmeniui skirtomis ir per muitinės nustatytą laikotarpį, neviršijantį 31
 
-įsipareigojimus, šio kodekso taikymą reglamentuojančių teisės aktų nustatyta
+kalendorinės dienos, išleistomis prekėmis, gali būti įregistruojama vieną
 
-tvarka visa mokesčių suma, susijusi su šiam asmeniui skirtomis ir per muitinės
+kartą, bet ne vėliau kaip po 5 kalendorinių dienų nuo nustatyto laikotarpio pabaigos.
 
-nustatytą laikotarpį, neviršijantį 31 kalendorinės dienos, išleistomis
+3. Jeigu skolos muitinei atsiradimo
 
-prekėmis, gali būti įregistruojama vieną kartą, bet ne vėliau kaip po 5
+sąlygos skiriasi nuo nurodytų šio straipsnio 1 dalyje, mokesčių suma
 
-kalendorinių dienų nuo nustatyto laikotarpio pabaigos.
+įregistruojama muitinėje ne vėliau kaip per 2 kalendorines dienas nuo to
 
-3.
+momento, kai muitinė gali:
 
-Jeigu skolos muitinei atsiradimo sąlygos skiriasi nuo nurodytų šio straipsnio 1
+1) apskaičiuoti mokesčių sumą;
 
-dalyje, mokesčių suma įregistruojama muitinėje ne vėliau kaip per 2
+2) nustatyti skolininką.
 
-kalendorines dienas nuo to momento, kai muitinė gali:
+212 straipsnis. Mokesčių sumos
 
-1)
+įregistravimo termino pratęsimas
 
-apskaičiuoti mokesčių sumą;
+1. Šio kodekso taikymą
 
-2)
+reglamentuojančių teisės aktų nustatyta tvarka mokesčių sumos įregistravimo
 
-nustatyti skolininką.
+terminas gali būti pratęstas susidarius aplinkybėms, dėl kurių muitinė negali
 
-212 straipsnis. Mokesčių sumos įregistravimo termino
+įregistruoti mokesčių sumos laikydamasi nustatytų terminų. Mokesčių sumos
 
-pratęsimas
+įregistravimo terminas negali būti pratęstas daugiau kaip 14 kalendorinių
 
-1. Šio kodekso taikymą reglamentuojančių
+dienų.
 
-teisės aktų nustatyta tvarka mokesčių sumos įregistravimo terminas gali būti
+2. Nustatytas mokesčių
 
-pratęstas susidarius aplinkybėms, dėl kurių muitinė negali įregistruoti
+sumos įregistravimo terminas gali būti netaikomas susidarius ypatingoms aplinkybėms
 
-mokesčių sumos laikydamasi nustatytų terminų. Mokesčių sumos įregistravimo
-
-terminas negali būti pratęstas daugiau kaip 14 kalendorinių dienų.
-
-2. Nustatytas mokesčių sumos įregistravimo
-
-terminas gali būti netaikomas susidarius ypatingoms aplinkybėms arba dėl
-
-nenugalimos jėgos.
+arba dėl nenugalimos jėgos.
 
 213
 
@@ -7566,193 +8258,311 @@ neįregistravimas arba per mažos mokesčių sumos
 
 įregistravimas
 
-1. Jeigu tam tikra mokesčių suma
+1. Jeigu tam tikra mokesčių
 
-neįregistruota arba įregistruota per maža mokesčių suma, papildoma mokesčių
+suma neįregistruota arba įregistruota per maža mokesčių suma, papildoma
 
-suma įregistruojama per 2 kalendorines dienas nuo to momento, kai muitinė
+mokesčių suma įregistruojama per 2 kalendorines dienas nuo to momento, kai
 
-apskaičiavo teisingą mokesčių sumą ir nustatė skolininką. Šis terminas gali
+muitinė apskaičiavo teisingą mokesčių sumą ir nustatė skolininką. Šis terminas
 
-būti pratęstas šio kodekso 212 straipsnyje nustatyta tvarka.
+gali būti pratęstas šio kodekso 212 straipsnyje nustatyta tvarka.
 
-2.
+2. Papildoma mokesčių suma
 
-Papildoma mokesčių suma neįregistruojama, jeigu:
+neįregistruojama, jeigu:
 
-1)
+1) muitinės sprendimas neįregistruoti
 
-muitinės sprendimas neįregistruoti mokesčių sumos arba įregistruoti per mažą
+mokesčių sumos arba įregistruoti per mažą mokesčių sumą teismo arba kitos
 
-mokesčių sumą teismo arba kitos kompetentingos valstybės institucijos sprendimu
+kompetentingos valstybės institucijos sprendimu pripažintas negaliojančiu;
 
-pripažintas negaliojančiu;
+2) mokesčių suma neįregistruota arba per
 
-2)
+maža mokesčių suma įregistruota dėl muitinės pareigūno klaidos, kurios asmuo,
 
-mokesčių suma neįregistruota arba per maža mokesčių suma įregistruota dėl
+atsakingas už skolininko įsipareigojimų muitinei įvykdymą, negalėjo nustatyti,
 
-muitinės pareigūno klaidos, kurios asmuo, atsakingas už skolininko
+išskyrus atvejus, kai asmuo sutinka sumokėti papildomą mokesčių sumą.
 
-įsipareigojimų muitinei įvykdymą, negalėjo nustatyti, išskyrus atvejus, kai
+[2 dalies 2 punkto redakcija nuo 2002 m. birželio 1
 
-asmuo sutinka sumokėti papildomą mokesčių sumą.
+d.:
 
-214 straipsnis. Skolininko informavimas apie
+2) mokesčių suma neįregistruota arba per
 
-įregistruotą mokesčių sumą
+maža mokesčių suma įregistruota dėl muitinės pareigūno klaidos, kurios asmuo,
 
-1. Įregistravusi mokesčių sumą, muitinė šio kodekso
+atsakingas už skolininko įsipareigojimų muitinei įvykdymą, veikdamas sąžiningai
 
-taikymą reglamentuojančių teisės aktų nustatyta tvarka informuoja skolininką.
+ir laikydamasis visų teisės aktų reikalavimų, susijusių su muitinės
 
-2. Jei mokesčių suma yra nurodyta muitinės
+deklaracijos pateikimu, negalėjo nustatyti.]
 
-deklaracijoje (išskyrus atvejus, kai muitinės deklaracijoje nurodyta mokesčių
+[Straipsnis papildomas 3, 4 ir 5 dalimis nuo 2002 m.
 
-suma neatitinka įregistruotosios), asmuo papildomai neinformuojamas, laikant
-
-prekių išleidimą informavimu apie mokesčių sumos įregistravimą.
-
-3. Skolininkas
-
-gali būti informuojamas apie mokesčių sumos įregistravimą ne vėliau kaip po 3
-
-metų nuo skolos muitinei atsiradimo dienos, jeigu mokesčių įstatymai nenustato
-
-ko kita.
-
-215 straipsnis. Mokesčių sumokėjimas
-
-1. Mokesčiai, apie kuriuos skolininkas informuojamas
-
-šio kodekso 214 straipsnyje nustatyta tvarka, turi būti sumokėti mokesčių
-
-įstatymų ir kitų teisės aktų nustatyta tvarka.
-
-2. Už skolininką mokesčius gali sumokėti
-
-ir kitas asmuo.
-
-216 straipsnis. Mokesčių išieškojimas
-
-1. Jeigu mokesčiai per nustatytą laikotarpį
-
-nesumokami, muitinė įgyja teisę priimti sprendimą išieškoti šiuos mokesčius ne
-
-ginčo tvarka.
-
-2. Jeigu šio straipsnio 1 dalyje nurodyti mokesčiai
-
-neišieškomi per 10 darbo dienų nuo muitinės sprendimo priėmimo, muitinė
-
-areštuoja skolininko turtą priimdama sprendimą dėl turto arešto Lietuvos
-
-Respublikos mokesčių administravimo įstatymo nustatyta tvarka. Sprendimas areštuoti
-
-turtą registruojamas Turto arešto aktų registro įstatymo nustatyta
-
-tvarka ir kartu su muitinės sprendimu išieškoti mokesčius ne ginčo tvarka,
-
-vadovaujantis įstatymais ir kitais teisės aktais, perduodamas teismo
-
-antstoliams vykdyti.
-
-3. Mokesčių įstatymų nustatyti delspinigiai ir (arba)
-
-baudos išieškomi šio straipsnio 1 ir 2 dalyse nustatyta tvarka.
-
-[216
-
-straipsnis papildomas 4 dalimi nuo 2001 m. rugsėjo 1 d.:
-
-4. Muitų ir mokesčių, taip
-
-pat baudų ir delspinigių išieškojimas finansų ministro nustatyta tvarka gali
-
-būti perduotas akcinei bendrovei Turto bankui.]
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1377, 99.11.04, Žin., 1999,
-
-Nr.101-2899 (99.11.26)
-
-Nr. IX-401, 2001-06-26, Žin., 2001, Nr.
-
-62-2218 (2001-07-18), įsigalioja nuo 2001-09-01
-
-XX SKYRIUS
-
-SKOLOS MUITINEI IŠNYKIMAS
-
-217 straipsnis. Skolos muitinei išnykimas
-
-1.
-
-Skola muitinei išnyksta:
-
-1)
-
-sumokėjus arba išieškojus nustatytas mokesčių sumas;
-
-2)
-
-šio kodekso ir jo taikymą reglamentuojančių teisės aktų nustatytomis sąlygomis
-
-ir tvarka atsisakius išieškoti nustatytus mokesčius;
-
-3)
-
-jeigu deklaravus prekes muitinės procedūrai, kurią taikant atsiranda skola
-
-muitinei:
-
-a)atitinkama
-
-muitinės deklaracija pripažįstama negaliojančia vadovaujantis šio kodekso 65
-
-straipsnio nuostatomis;
-
-b)
-
-prekės iki jų išleidimo sulaikomos ir konfiskuojamos, turint muitinės sutikimą
-
-sunaikinamos arba perduodamos valstybei vadovaujantis šio kodekso 178straipsnio
-
-nuostatomis, arba sunaikinamos ar negrįžtamai prarandamos dėl jų savybių,
-
-ypatingų aplinkybių ar nenugalimos jėgos;
-
-4)
-
-jeigu sulaikomos ir konfiskuojamos prekės, dėl kurių neteisėto įvežimo į
-
-Lietuvos Respublikos muitų teritoriją pagal šio kodekso 186 straipsnį yra
-
-atsiradusi skola muitinei;
-
-5)
-
-jeigu muitinė atsisako išieškoti importo arba eksporto muitus ir (arba)
-
-mokesčius, kurie buvo įregistruoti nepagrįstai arba nesilaikant šio kodekso 213
-
-straipsnio 2 dalies reikalavimų.
-
-2.
-
-Šio straipsnio 1 dalies 1 punkte nurodytas skolos išnykimas nepanaikina
-
-skolininko prievolės sumokėti ir muitinės teisės išieškoti delspinigius ir
-
-(arba) baudas už nurodytą skolą muitinei.
+birželio 1 d.:
 
 3.
 
-Įstatymų nustatytais atvejais skola muitinei nelaikoma išnykusia, kai remiantis
+Jeigu lengvatinė (preferencinė) prekių kilmė nustatoma taikant Lietuvos
 
-nurodyta skola nustatomas baudos dydis arba taikoma baudžiamoji atsakomybė.
+Respublikos tarptautinės sutarties nustatytą administracinio bendradarbiavimo
+
+su kitos šalies valstybės institucija sistemą, laikoma, kad klaida, padaryta
+
+kitos šalies valstybės institucijos išduodant lengvatinę (preferencinę) prekių
+
+kilmę įrodantį dokumentą (sertifikatą), yra tokia, kurios asmuo, atsakingas už
+
+skolininko įsipareigojimų muitinei įvykdymą, negalėjo nustatyti.
+
+4. Neteisingas lengvatinę (preferencinę)
+
+prekių kilmę įrodančio dokumento (sertifikato) išdavimas nelaikomas klaida,
+
+jeigu jis buvo išduotas remiantis neteisinga informacija, pateikta eksportuotojo,
+
+išskyrus atvejus, kai dokumentą išdavusi valstybės institucija žinojo arba
+
+turėjo žinoti, kad prekės neatitinka reikalavimų, kuriuos įvykdžius joms gali
+
+būti taikomi lengvatiniai muitai.
+
+5. Asmuo, atsakingas už skolininko
+
+įsipareigojimų muitinei įvykdymą, laikomas veikusiu sąžiningai, jeigu jis gali
+
+pagrįsti, kad per atitinkamų prekybos operacijų vykdymo laikotarpį jis deramai
+
+siekė užtikrinti, kad būtų laikomasi visų lengvatinių muitų taikymo sąlygų.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+214 straipsnis. Skolininko
+
+informavimas apie įregistruotą mokesčių sumą
+
+1. Įregistravusi mokesčių sumą, muitinė
+
+šio kodekso taikymą reglamentuojančių teisės aktų nustatyta tvarka informuoja
+
+skolininką.
+
+2. Jei mokesčių suma yra
+
+nurodyta muitinės deklaracijoje (išskyrus atvejus, kai muitinės deklaracijoje
+
+nurodyta mokesčių suma neatitinka įregistruotosios), asmuo papildomai
+
+neinformuojamas, laikant prekių išleidimą informavimu apie mokesčių sumos
+
+įregistravimą.
+
+3. Skolininkas gali būti informuojamas
+
+apie mokesčių sumos įregistravimą ne vėliau kaip po
+
+3 metų nuo skolos muitinei atsiradimo dienos, jeigu mokesčių įstatymai
+
+nenustato ko kita.
+
+[3 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+3. Skolininkas gali būti informuojamas
+
+apie mokesčių sumos įregistravimą ne vėliau kaip po
+
+3 metų nuo skolos muitinei atsiradimo dienos, jeigu mokesčių įstatymai
+
+nenustato ko kita. Šio laikotarpio trukmės skaičiavimas sustabdomas, kai,
+
+vadovaujantis šio kodekso 226 straipsniu, pateikiamas skundas, visam skundo
+
+nagrinėjimo laikotarpiui.]
+
+[Straipsnis papildomas 4 dalimi nuo 2002 m. birželio 1
+
+d.:
+
+4. Jeigu skola
+
+muitinei atsiranda dėl veiksmų, už kuriuos tuo metu, kai jie buvo įvykdyti,
+
+buvo taikoma baudžiamoji atsakomybė, skolininkas gali būti informuojamas apie
+
+mokesčių sumos įregistravimą ir pasibaigus šio straipsnio 3 dalyje nurodytam 3
+
+metų laikotarpiui.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+215 straipsnis. Mokesčių sumokėjimas
+
+1. Mokesčiai, apie kuriuos skolininkas
+
+informuojamas šio kodekso 214 straipsnyje nustatyta tvarka, turi būti sumokėti
+
+mokesčių įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+2. Už skolininką mokesčius
+
+gali sumokėti ir kitas asmuo.
+
+[Straipsnis papildomas 3 dalimi nuo 2002 m. birželio 1
+
+d.:
+
+3. Šio kodekso taikymą reglamentuojančių
+
+teisės aktų nustatytais atvejais ir sąlygomis skolininko prievolės sumokėti
+
+mokesčius vykdymas gali būti atidėtas, jeigu:
+
+1) vadovaujantis šio kodekso 219, 221
+
+arba 222 straipsniais muitinei pateikiamas prašymas atsisakyti išieškoti muitus
+
+ir (arba) mokesčius; arba
+
+2) vadovaujantis šio kodekso 217
+
+straipsnio 1 dalies 3 punkto b papunkčiu arba 4 punktu prekės sulaikomos ir
+
+numatoma jas konfiskuoti;
+
+3) skola muitinei atsiranda
+
+vadovaujantis šio kodekso 187 straipsniu ir yra daugiau kaip vienas
+
+skolininkas.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+216 straipsnis. Mokesčių
+
+išieškojimas
+
+1. Jeigu mokesčiai per nustatytą
+
+laikotarpį nesumokami, muitinė įgyja teisę priimti sprendimą išieškoti šiuos
+
+mokesčius ne ginčo tvarka.
+
+2. Jeigu šio straipsnio 1 dalyje
+
+nurodyti mokesčiai neišieškomi per 10 darbo dienų nuo muitinės sprendimo
+
+priėmimo, muitinė areštuoja skolininko turtą priimdama sprendimą dėl turto
+
+arešto Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+
+Sprendimas areštuoti turtą registruojamas Turto arešto aktų registro įstatymo
+
+nustatyta tvarka ir kartu su muitinės sprendimu išieškoti mokesčius ne
+
+ginčo tvarka, vadovaujantis įstatymais ir kitais teisės aktais, perduodamas
+
+teismo antstoliams vykdyti.
+
+3. Mokesčių įstatymų nustatyti
+
+delspinigiai ir (arba) baudos išieškomi šio straipsnio 1 ir 2 dalyse nustatyta
+
+tvarka.
+
+4. Muitų ir mokesčių, taip pat baudų ir delspinigių
+
+išieškojimas finansų ministro nustatyta tvarka gali būti perduotas akcinei
+
+bendrovei Turto bankui.
+
+[216 straipsnio redakcija nuo 2002 m. birželio 1 d.:
+
+217 straipsnis. Skolos muitinei
+
+išnykimas
+
+1. Skola muitinei išnyksta:
+
+1) sumokėjus arba išieškojus nustatytas
+
+mokesčių sumas;
+
+2) šio kodekso ir jo taikymą
+
+reglamentuojančių teisės aktų nustatytomis sąlygomis ir tvarka atsisakius
+
+išieškoti nustatytus mokesčius;
+
+3) jeigu deklaravus prekes muitinės
+
+procedūrai, kurią taikant atsiranda skola muitinei:
+
+a)atitinkama muitinės deklaracija
+
+pripažįstama negaliojančia vadovaujantis šio kodekso 65 straipsnio nuostatomis;
+
+[1 dalies 3 punkto a papunkčio redakcija nuo 2002 m. birželio 1 d.:
+
+a) atitinkama muitinės deklaracija
+
+pripažįstama negaliojančia;]
+
+b) prekės iki jų išleidimo sulaikomos ir
+
+konfiskuojamos, turint muitinės sutikimą sunaikinamos arba perduodamos
+
+valstybei vadovaujantis šio kodekso 178straipsnio nuostatomis, arba
+
+sunaikinamos ar negrįžtamai prarandamos dėl jų savybių, ypatingų aplinkybių ar
+
+nenugalimos jėgos;
+
+4) jeigu sulaikomos ir konfiskuojamos
+
+prekės, dėl kurių neteisėto įvežimo į Lietuvos Respublikos muitų teritoriją
+
+pagal šio kodekso 186 straipsnį yra atsiradusi skola muitinei;
+
+5) jeigu muitinė atsisako išieškoti
+
+importo arba eksporto muitus ir (arba) mokesčius, kurie buvo įregistruoti
+
+nepagrįstai arba nesilaikant šio kodekso 213 straipsnio 2 dalies reikalavimų.
+
+2. Šio straipsnio 1 dalies 1 punkte
+
+nurodytas skolos išnykimas nepanaikina skolininko prievolės sumokėti ir
+
+muitinės teisės išieškoti delspinigius ir (arba) baudas už nurodytą skolą
+
+muitinei.
+
+3. Įstatymų nustatytais atvejais skola
+
+muitinei nelaikoma išnykusia, kai remiantis nurodyta skola nustatomas baudos
+
+dydis arba taikoma baudžiamoji atsakomybė.
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
 XXI SKYRIUS
 
@@ -7760,157 +8570,179 @@ MOKESČIŲ GRĄŽINIMAS ARBA ATSISAKYMAS JUOS IŠIEŠKOTI
 
 218 straipsnis. Bendrosios nuostatos
 
-Šiame skyriuje vartojamos sąvokos:
+Šiame skyriuje vartojamos
 
-1) mokesčių grąžinimas - visiškas arba
+sąvokos:
 
-dalinis sumokėtų (išieškotų) eksporto arba importo muitų ir (arba) mokesčių
+1) mokesčių grąžinimas -
 
-grąžinimas;
+visiškas arba dalinis sumokėtų (išieškotų) eksporto arba importo muitų ir
 
-2) atsisakymas išieškoti - sprendimas
+(arba) mokesčių grąžinimas;
 
-atsisakyti visos skolos muitinei arba jos dalies arba sprendimas pripažinti
+2) atsisakymas išieškoti -
 
-negaliojančiu visų nesumokėtų eksporto arba importo muitų ir (arba) mokesčių
+sprendimas atsisakyti visos skolos muitinei arba jos dalies arba sprendimas
 
-arba jų dalies įregistravimą.
+pripažinti negaliojančiu visų nesumokėtų eksporto arba importo muitų ir (arba)
 
-219 straipsnis. Muitų ir (arba) mokesčių grąžinimas
+mokesčių arba jų dalies įregistravimą.
 
-arba atsisakymas juos išieškoti, kai
+219 straipsnis. Muitų ir (arba)
 
-jie sumokėti ir (arba) įregistruoti nesilaikant
+mokesčių grąžinimas arba atsisakymas juos išieškoti, kai
 
-nustatytų reikalavimų
+jie sumokėti ir (arba) įregistruoti
 
-1.
+nesilaikant nustatytų reikalavimų
 
-Grąžinama importo arba eksporto muitų ir (arba) mokesčių dalis, kuri buvo
+1. Grąžinama importo arba eksporto muitų
 
-sumokėta (išieškota) nepagrįstai arba įregistruota nesilaikant šio kodekso 213
+ir (arba) mokesčių dalis, kuri buvo sumokėta (išieškota) nepagrįstai arba
 
-straipsnio 2 dalies reikalavimų.
+įregistruota nesilaikant šio kodekso 213 straipsnio 2 dalies reikalavimų.
 
-2.
+2. Atsisakoma išieškoti importo arba
 
-Atsisakoma išieškoti importo arba eksporto muitų ir (arba) mokesčių dalį, kuri
+eksporto muitų ir (arba) mokesčių dalį, kuri buvo įregistruota nepagrįstai arba
 
-buvo įregistruota nepagrįstai arba nesilaikant šio kodekso 213 straipsnio 2
+nesilaikant šio kodekso 213 straipsnio 2 dalies reikalavimų.
 
-dalies reikalavimų.
+3. Muitai ir (arba) mokesčiai negrąžinami
 
-3.
+ir neatsisakoma jų išieškoti, jeigu nustatyta, kad mokesčiai nepagrįstai
 
-Muitai ir (arba) mokesčiai negrąžinami ir neatsisakoma jų išieškoti, jeigu
+sumokėti arba įregistruoti dėl tyčinių suinteresuoto asmens veiksmų.
 
-nustatyta, kad mokesčiai nepagrįstai sumokėti arba įregistruoti dėl tyčinių
+4. Importo arba eksporto muitai ir (arba)
 
-suinteresuoto asmens veiksmų.
+mokesčiai gali būti grąžinti arba atsisakyta juos išieškoti, jeigu asmens
 
-4.
+raštiškas prašymas muitinei pateikiamas ne vėliau kaip per 3 metus nuo
 
-Importo arba eksporto muitai ir (arba) mokesčiai gali būti grąžinti arba
+skolininko informavimo apie atitinkamą mokesčių sumą dienos, išskyrus atvejus,
 
-atsisakyta juos išieškoti, jeigu asmens raštiškas prašymas muitinei pateikiamas
+kai mokesčių įstatymai nustato ką kita. Muitinė turi teisę priimti asmens
 
-ne vėliau kaip per 3 metus nuo skolininko informavimo apie atitinkamą mokesčių
+prašymą ir pasibaigus nurodytam 3 metų laikotarpiui, jeigu asmuo įrodo, kad
 
-sumą dienos, išskyrus atvejus, kai mokesčių įstatymai nustato ką kita. Muitinė
+negalėjo nustatytu laiku pateikti prašymo dėl ypatingų aplinkybių arba
 
-turi teisę priimti asmens prašymą ir pasibaigus nurodytam 3 metų laikotarpiui,
+nenugalimos jėgos.
 
-jeigu asmuo įrodo, kad negalėjo nustatytu laiku pateikti prašymo dėl ypatingų
+5. Muitinė, nustačiusi, kad importo arba
 
-aplinkybių arba nenugalimos jėgos.
+eksporto muitai ir (arba) mokesčiai sumokėti arba įregistruoti nepagrįstai,
 
-5.
+grąžina arba atsisako išieškoti šiuos muitus ir (arba) mokesčius savo
 
-Muitinė, nustačiusi, kad importo arba eksporto muitai ir (arba) mokesčiai
+iniciatyva.
 
-sumokėti arba įregistruoti nepagrįstai, grąžina arba atsisako išieškoti šiuos
+[5 dalies redakcija
 
-muitus ir (arba) mokesčius savo iniciatyva.
+nuo 2002 m. birželio 1 d.:
 
-220 straipsnis. Muitų ir (arba) mokesčių grąžinimas
+5. Muitinė, per šio straipsnio 4 dalyje
 
-muitinės deklaraciją pripažinus
+nurodytą laikotarpį nustačiusi, kad importo arba eksporto muitai ir (arba)
+
+mokesčiai sumokėti arba įregistruoti nepagrįstai, grąžina arba atsisako išieškoti
+
+šiuos muitus ir (arba) mokesčius savo iniciatyva informuodama juos sumokėjusį
+
+arba privalantį sumokėti asmenį apie muitų ir (arba) mokesčių sumokėjimo arba
+
+įregistravimo nepagrįstumą ir asmens teisę pateikti prašymą dėl jų grąžinimo
+
+arba atsisakymą juos išieškoti (šiuo atveju prašymo muitinei pateikti
+
+nereikia), jeigu mokesčių įstatymai nenustato ko kita.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+220 straipsnis. Muitų ir (arba)
+
+mokesčių grąžinimas muitinės deklaraciją pripažinus
 
 negaliojančia
 
-1.
+1. Sumokėti importo arba eksporto muitai ir (arba)
 
-Sumokėti importo arba eksporto muitai ir (arba) mokesčiai grąžinami, jeigu
+mokesčiai grąžinami, jeigu atitinkama muitinės deklaracija pripažįstama negaliojančia.
 
-atitinkama muitinės deklaracija pripažįstama negaliojančia.
+2. Suinteresuoto asmens
 
-2. Suinteresuoto asmens prašymas
+prašymas pripažinti muitinės deklaraciją negaliojančia turi būti pateiktas per
 
-pripažinti muitinės deklaraciją negaliojančia turi būti pateiktas per šio
-
-kodekso taikymą reglamentuojančių teisės aktų nustatytą tokiam prašymui
+šio kodekso taikymą reglamentuojančių teisės aktų nustatytą tokiam prašymui
 
 pateikti laikotarpį.
 
-221 straipsnis. Importo muitų ir (arba) mokesčių už
+221 straipsnis. Importo muitų ir
 
-importuotojo atsisakytas prekes
+(arba) mokesčių už importuotojo atsisakytas prekes
 
-grąžinimas arba atsisakymas juos išieškoti
+grąžinimas arba atsisakymas juos
 
-1. Importo muitai ir (arba) mokesčiai grąžinami arba
+išieškoti
 
-atsisakoma juos išieškoti, jeigu jie susiję su importuotojo atsisakytomis
+1.
 
-prekėmis, kurioms buvo įforminta atitinkama muitinės procedūra ir kurios šio
+Importo muitai ir (arba) mokesčiai grąžinami arba atsisakoma juos išieškoti,
 
-kodekso 66 straipsnyje nurodytu metu turėjo defektų arba neatitiko sutartyje
+jeigu jie susiję su importuotojo atsisakytomis prekėmis, kurioms buvo įforminta
 
-(kontrakte), pagal kurią jos importuotos, nustatytų sąlygų.
+atitinkama muitinės procedūra ir kurios šio kodekso 66 straipsnyje nurodytu
 
-2. Importo muitai ir (arba) mokesčiai gali būti
+metu turėjo defektų arba neatitiko sutartyje (kontrakte), pagal kurią jos
 
-grąžinti arba atsisakyta juos išieškoti, jeigu prekės nebuvo naudojamos
+importuotos, nustatytų sąlygų.
 
-(išskyrus jų išbandymą, reikalingą defektams arba neatitikimui sutartyje
+2. Importo muitai ir (arba) mokesčiai
 
-(kontrakte) nustatytoms sąlygoms nustatyti) ir yra eksportuotos iš Lietuvos
+gali būti grąžinti arba atsisakyta juos išieškoti, jeigu prekės nebuvo
 
-Respublikos muitų teritorijos. Suinteresuoto asmens prašymu muitinė gali leisti
+naudojamos (išskyrus jų išbandymą, reikalingą defektams arba neatitikimui
 
-šio straipsnio 1 dalyje nurodytas prekes sunaikinti, įforminti jų muitinio
+sutartyje (kontrakte) nustatytoms sąlygoms nustatyti) ir yra eksportuotos iš
 
-sandėliavimo procedūrą, taip pat jas išgabenti į laisvąją zoną arba padėti į
+Lietuvos Respublikos muitų teritorijos. Suinteresuoto asmens prašymu muitinė gali
 
-laisvąjį sandėlį. Įforminus kuriuos nors iš nurodytų muitinės sankcionuotų
+leisti šio straipsnio 1 dalyje nurodytas prekes sunaikinti, įforminti jų
 
-veiksmų, prekės laikomos ne Lietuvos prekėmis.
+muitinio sandėliavimo procedūrą, taip pat jas išgabenti į laisvąją zoną arba
 
-3.
+padėti į laisvąjį sandėlį. Įforminus kuriuos nors iš nurodytų muitinės
 
-Importo muitai ir (arba) mokesčiai negrąžinami ir neatsisakoma jų išieškoti,
+sankcionuotų veiksmų, prekės laikomos ne Lietuvos prekėmis.
 
-jeigu šio straipsnio 1 dalyje nurodytos prekės prieš tai buvo laikinai įvežtos
+3. Importo muitai ir (arba) mokesčiai
 
-išbandyti, išskyrus atvejus, kai prekių defektai arba neatitikimas sutartyje
+negrąžinami ir neatsisakoma jų išieškoti, jeigu šio straipsnio 1 dalyje
 
-(kontrakte) nustatytoms sąlygoms negalėjo būti nustatyti įprastiniu būdu jas
+nurodytos prekės prieš tai buvo laikinai įvežtos išbandyti, išskyrus atvejus,
 
-išbandant.
+kai prekių defektai arba neatitikimas sutartyje (kontrakte) nustatytoms
 
-4.
+sąlygoms negalėjo būti nustatyti įprastiniu būdu jas išbandant.
 
-Importo muitai ir (arba) mokesčiai grąžinami arba atsisakoma juos išieškoti dėl
+4. Importo muitai ir (arba) mokesčiai
 
-šio straipsnio 1 dalyje nurodytų priežasčių, jeigu raštiškas prašymas muitinei
+grąžinami arba atsisakoma juos išieškoti dėl šio straipsnio 1 dalyje nurodytų
 
-pateikiamas ne vėliau kaip po 12 mėnesių nuo skolininko informavimo apie
+priežasčių, jeigu raštiškas prašymas muitinei pateikiamas ne vėliau kaip po 12
 
-mokesčių įregistravimą, išskyrus atvejus, kai mokesčių įstatymai nustato ką
+mėnesių nuo skolininko informavimo apie mokesčių įregistravimą, išskyrus
 
-kita.
+atvejus, kai mokesčių įstatymai nustato ką kita.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
@@ -7920,265 +8752,137 @@ Nr. VIII-1966, 00.09.26, Žin., 2000,
 
 Nr.85-2587 (00.10.11)
 
-222
+222 straipsnis. Muitų ir (arba) mokesčių
 
-straipsnis. Muitų ir (arba) mokesčių grąžinimas arba atsisakymas juos išieškoti
+grąžinimas arba atsisakymas juos išieškoti
 
 kitais atvejais
 
-1.
+1. Importo arba eksporto muitai ir (arba)
 
-Importo arba eksporto muitai ir (arba) mokesčiai gali būti grąžinami arba
+mokesčiai gali būti grąžinami arba atsisakoma juos išieškoti ir kitais šio
 
-atsisakoma juos išieškoti ir kitais šio kodekso taikymą reglamentuojančių
+kodekso taikymą reglamentuojančių teisės aktų nustatytais atvejais.
 
-teisės aktų nustatytais atvejais.
+2. Importo arba eksporto muitai ir (arba)
 
-2.
+mokesčiai gali būti grąžinami arba atsisakoma juos išieškoti šio straipsnio 1
 
-Importo arba eksporto muitai ir (arba) mokesčiai gali būti grąžinami arba
+dalyje nurodytais atvejais, jeigu raštiškas prašymas muitinei pateikiamas ne
 
-atsisakoma juos išieškoti šio straipsnio 1 dalyje nurodytais atvejais, jeigu
+vėliau kaip po 12 mėnesių nuo skolininko informavimo apie mokesčių
 
-raštiškas prašymas muitinei pateikiamas ne vėliau kaip po 12 mėnesių nuo
+įregistravimą.
 
-skolininko informavimo apie mokesčių įregistravimą.
+223 straipsnis. Sprendimo grąžinti
 
-222  straipsnis. Muitų ir (arba) mokesčių
-
-grąžinimas arba atsisakymas juos išieškoti kitais
-
-atvejais
-
-1.  Importo arba eksporto muitai ir
-
-(arba) mokesčiai gali būti  grąžinami arba atsisakoma juos išieškoti ir
-
-kitais  šio kodekso  taikymą  reglamentuojančių  teisės  aktų  nustatytais
-
-atvejais.
-
-2.  Importo arba eksporto muitai ir
-
-(arba) mokesčiai gali būti grąžinami arba atsisakoma juos išieškoti šio
-
-straipsnio 1 dalyje  nurodytais atvejais, jeigu raštiškas prašymas muitinei
-
-pateikiamas  ne  vėliau  kaip po  12  mėnesių  nuo  skolininko informavimo apie
-
-mokesčių įregistravimą.
-
-223 straipsnis. Sprendimo grąžinti muitus ir (arba)
-
-mokesčius arba atsisakyti juos
+muitus ir (arba) mokesčius arba atsisakyti juos
 
 išieškoti taikymas delspinigiams ir
 
 (arba) baudoms
 
-Sprendimas
+Sprendimas grąžinti importo arba eksporto
 
-grąžinti importo arba eksporto muitus ir (arba) mokesčius arba atsisakyti juos
+muitus ir (arba) mokesčius arba atsisakyti juos išieškoti taip pat taikomas ir
 
-išieškoti taip pat taikomas ir privalomiems sumokėti bei sumokėtiems
+privalomiems sumokėti bei sumokėtiems delspinigiams ir (arba) baudoms.
 
-delspinigiams ir (arba) baudoms.
+[223 straipsnio
 
-224 straipsnis. Delspinigiai, mokami asmeniui
+redakcija nuo 2002 m. birželio 1 d.:
 
-grąžinant nepagrįstai išieškotus muitus ir
+224 straipsnis. Delspinigiai, mokami
+
+asmeniui grąžinant nepagrįstai išieškotus muitus ir
 
 (arba) mokesčius
 
-Grąžinant
+Grąžinant nepagrįstai sumokėtus
 
-nepagrįstai sumokėtus (išieškotus) importo arba eksporto muitus ir (arba)
+(išieškotus) importo arba eksporto muitus ir (arba) mokesčius, asmeniui gali
 
-mokesčius, asmeniui gali būti mokami mokesčių įstatymų nustatyti delspinigiai.
+būti mokami mokesčių įstatymų nustatyti delspinigiai.
 
-225
-
-straipsnis. Muitai ir (arba) mokesčiai, grąžinti per klaidą
-
-Jeigu
-
-importo arba eksporto muitai ir (arba) mokesčiai buvo grąžinti per klaidą, t.y.
-
-paaiškėjus naujoms aplinkybėms nustatytas muitų ir mokesčių grąžinimo
-
-nepagrįstumas, skola muitinei laikoma neišnykusia ir turi būti sumokėta.
-
-Delspinigiai, sumokėti asmeniui pagal šio kodekso 224 straipsnį, turi būti
-
-grąžinti.
-
-IX DALIS
-
-APSKUNDIMAS
-
-XXII SKYRIUS
-
-APSKUNDIMAS
-
-225  straipsnis. Muitai ir (arba)
+225 straipsnis. Muitai ir (arba)
 
 mokesčiai, grąžinti per klaidą
 
-Jeigu  importo  arba eksporto muitai ir
+Jeigu importo arba eksporto muitai ir
 
-(arba)  mokesčiai buvo  grąžinti per klaidą, t.y. paaiškėjus naujoms aplinkybėms
+(arba) mokesčiai buvo grąžinti per klaidą, t.y. paaiškėjus naujoms aplinkybėms
 
-nustatytas  muitų  ir mokesčių grąžinimo nepagrįstumas,  skola muitinei
+nustatytas muitų ir mokesčių grąžinimo nepagrįstumas, skola muitinei laikoma
 
-laikoma   neišnykusia  ir   turi   būti   sumokėta. Delspinigiai,   sumokėti
+neišnykusia ir turi būti sumokėta. Delspinigiai, sumokėti asmeniui pagal šio
 
-asmeniui  pagal  šio   kodekso   224 straipsnį, turi būti grąžinti.
+kodekso 224 straipsnį, turi būti grąžinti.
 
-IX DALIS
+[225 straipsnio redakcija nuo 2002 m. birželio 1 d.:
 
-APSKUNDIMAS
+226 straipsnis. Teisė apskųsti
 
-XXII SKYRIUS
+muitinės sprendimus
 
-APSKUNDIMAS
+Bet kuris asmuo turi teisę apskųsti
 
-226 straipsnis. Teisė apskųsti muitinės sprendimus
+muitinės sprendimus, susijusius su šio kodekso, taip pat kitų muitinės
 
-Bet
+kompetencijai priskirtų įstatymų ir kitų teisės aktų taikymu, tiesiogiai
 
-kuris asmuo turi teisę apskųsti muitinės sprendimus, susijusius su šio kodekso,
+taikomus šiam asmeniui. Skundas gali būti pateiktas ne vėliau kaip po 3 mėnesių
 
-taip pat kitų muitinės kompetencijai priskirtų įstatymų ir kitų teisės aktų
+nuo asmens informavimo apie atitinkamą muitinės sprendimą. Skundų dėl
 
-taikymu, tiesiogiai taikomus šiam asmeniui. Skundas gali būti pateiktas ne
+nepagrįstai sumokėtų arba išieškotų importo ir eksporto muitų bei mokesčių
 
-vėliau kaip po 3 mėnesių nuo asmens informavimo apie atitinkamą muitinės
+pateikimo terminus nustato Muitų tarifų įstatymas ir kiti mokesčių įstatymai.
 
-sprendimą. Skundų dėl nepagrįstai sumokėtų arba išieškotų importo ir eksporto
+[226 straipsnio
 
-muitų bei mokesčių pateikimo terminus nustato Muitų tarifų įstatymas ir kiti
+redakcija nuo 2002 m. birželio 1 d.:
 
-mokesčių įstatymai.
+227 straipsnis. Teisė pateikti
 
-227 straipsnis. Teisė pateikti skundą dėl muitinės
+skundą dėl muitinės sprendimo nepriėmimo
 
-sprendimo nepriėmimo
+Bet kuris asmuo, pateikęs prašymą muitinei
 
-Bet
+priimti sprendimą, susijusį su šio kodekso, taip pat kitų muitinės
 
-kuris asmuo, pateikęs prašymą muitinei priimti sprendimą, susijusį su šio
+kompetencijai priskirtų įstatymų ir kitų teisės aktų taikymu, ir per šio
 
-kodekso, taip pat kitų muitinės kompetencijai priskirtų įstatymų ir kitų teisės
+kodekso 4 straipsnio 2 dalyje nustatytą laikotarpį negavęs atsakymo, turi teisę
 
-aktų taikymu, ir per šio kodekso 4 straipsnio 2 dalyje nustatytą laikotarpį
+pateikti skundą. Skundas gali būti pateiktas ne vėliau kaip po 30 dienų nuo
 
-negavęs atsakymo, turi teisę pateikti skundą. Skundas gali būti pateiktas ne
+nurodyto laikotarpio pabaigos.
 
-vėliau kaip po 30 dienų nuo nurodyto laikotarpio pabaigos.
+[227 straipsnio
 
-228
+redakcija nuo 2002 m. birželio 1 d.:
 
-straipsnis. Muitinės įstaiga, kuriai pateikiamas skundas
+228 straipsnis. Muitinės įstaiga, kuriai
 
-Šio
+pateikiamas skundas
 
-kodekso 226 ir 227 straipsniuose nurodyti skundai turi būti pateikiami
+Šio kodekso 226 ir 227 straipsniuose
 
-teritorinei muitinei, priėmusiai (arba nepriėmusiai) atitinkamą sprendimą,
+nurodyti skundai turi būti pateikiami teritorinei muitinei, priėmusiai (arba
 
-susijusį su šio kodekso, taip pat kitų muitinės kompetencijai priskirtų
+nepriėmusiai) atitinkamą sprendimą, susijusį su šio kodekso, taip pat kitų
 
-įstatymų ir kitų teisės aktų taikymu. Dėl Muitinės departamento priimtų (arba
+muitinės kompetencijai priskirtų įstatymų ir kitų teisės aktų taikymu. Dėl
 
-nepriimtų) sprendimų skundai turi būti pateikiami Muitinės departamentui.
+Muitinės departamento priimtų (arba nepriimtų) sprendimų skundai turi būti
 
-229
+pateikiami Muitinės departamentui.
 
-straipsnis. Skundo pateikimas Muitinės departamentui arba teismui
+[228 straipsnio
 
-Asmuo,
+redakcija nuo 2002 m. birželio 1 d.:
 
-pateikęs teritorinei muitinei šio kodekso 226 arba 227 straipsnyje nurodytą
-
-skundą, kuris per šio kodekso taikymą reglamentuojančių teisės aktų nustatytą
-
-laikotarpį nebuvo išnagrinėtas arba buvo nepatenkintas, turi teisę ne vėliau
-
-kaip po 1 mėnesio nuo nurodyto laikotarpio pabaigos apskųsti teritorinės muitinės
-
-priimtą sprendimą arba sprendimo nepriėmimą Muitinės departamentui arba
-
-teismui. Jei Muitinės departamentas skundo neišnagrinėja arba palieka galioti
-
-teritorinės muitinės sprendimą, šis sprendimas arba sprendimo nepriėmimas gali
-
-būti apskųstas teismui. Muitinės departamento sprendimas arba sprendimo
-
-nepriėmimas taip pat gali būti apskųstas teismui.
-
-230
-
-straipsnis. Muitinės sprendimo, dėl kurio pateiktas skundas, galiojimas
-
-1. Skundo pateikimas savaime nesustabdo ir nepanaikina
-
-muitinės priimto sprendimo.
-
-2.
-
-Muitinė turi teisę visai arba iš dalies sustabdyti priimto sprendimo vykdymą,
-
-jeigu yra pagrindo manyti, kad šis sprendimas nesuderinamas su šio kodekso,
-
-taip pat kitų muitinės kompetencijai priskirtų įstatymų ir kitų teisės aktų
-
-nuostatomis arba kad dėl šio sprendimo suinteresuotam asmeniui gali būti
-
-padaryta esminė žala.
-
-231
-
-straipsnis. Muitinės
-
-sprendimo, pagal kurį privaloma sumokėti importo arba
-
-eksporto muitus ir (arba) mokesčius, vykdymo
-
-sustabdymas
-
-Jeigu
-
-skundas pateiktas dėl muitinės sprendimo, pagal kurį privaloma sumokėti importo
-
-arba eksporto muitus ir (arba) mokesčius, šio sprendimo vykdymas gali būti
-
-sustabdytas, kai skolininkas pateikia garantiją. Garantijos pateikti
-
-nereikalaujama, jeigu šio kodekso taikymą reglamentuojančių teisės aktų
-
-nustatyta tvarka muitinė pripažįsta, kad toks reikalavimas atsižvelgiant į
-
-skolininko nurodytas aplinkybes gali sukelti jam rimtų ekonominių arba
-
-socialinių sunkumų.
-
-228  straipsnis.  Muitinės  įstaiga,
-
-kuriai  pateikiamas skundas
-
-Šio  kodekso  226  ir 227 straipsniuose
-
-nurodyti  skundai turi  būti  pateikiami teritorinei muitinei, priėmusiai
-
-(arba nepriėmusiai) atitinkamą sprendimą, susijusį su  šio  kodekso, taip  pat
-
-kitų muitinės kompetencijai priskirtų  įstatymų  ir kitų  teisės  aktų taikymu.
-
-Dėl Muitinės departamento  priimtų (arba   nepriimtų)  sprendimų  skundai
-
-turi  būti  pateikiami Muitinės departamentui.
-
-229  straipsnis. Skundo pateikimas
+229 straipsnis. Skundo pateikimas
 
 Muitinės departamentui arba teismui
 
@@ -8186,87 +8890,89 @@ Asmuo, pateikęs teritorinei muitinei šio
 
 kodekso 226 arba 227 straipsnyje nurodytą skundą, kuris per šio kodekso taikymą
 
-reglamentuojančių  teisės  aktų  nustatytą  laikotarpį  nebuvo išnagrinėtas
+reglamentuojančių teisės aktų nustatytą laikotarpį nebuvo išnagrinėtas arba
 
-arba buvo nepatenkintas, turi  teisę  ne  vėliau kaip  po  1 mėnesio nuo
+buvo nepatenkintas, turi teisę ne vėliau kaip po 1 mėnesio nuo nurodyto
 
-nurodyto laikotarpio pabaigos apskųsti teritorinės   muitinės   priimtą
+laikotarpio pabaigos apskųsti teritorinės muitinės priimtą sprendimą arba
 
-sprendimą   arba   sprendimo nepriėmimą  Muitinės departamentui arba teismui.
+sprendimo nepriėmimą Muitinės departamentui arba teismui. Jei Muitinės
 
-Jei  Muitinės departamentas   skundo  neišnagrinėja  arba  palieka   galioti
+departamentas skundo neišnagrinėja arba palieka galioti teritorinės muitinės
 
-teritorinės muitinės sprendimą, šis sprendimas arba  sprendimo nepriėmimas gali
+sprendimą, šis sprendimas arba sprendimo nepriėmimas gali būti apskųstas
 
-būti apskųstas teismui. Muitinės departamento sprendimas  arba  sprendimo
+teismui. Muitinės departamento sprendimas arba sprendimo nepriėmimas taip pat
 
-nepriėmimas  taip  pat  gali  būti apskųstas teismui.
+gali būti apskųstas teismui.
 
-230  straipsnis. Muitinės sprendimo, dėl
+[229 straipsnio
 
-kurio  pateiktas skundas, galiojimas
+redakcija nuo 2002 m. birželio 1 d.:
 
-1.  Skundo  pateikimas savaime
+230 straipsnis. Muitinės sprendimo, dėl
 
-nesustabdo ir  nepanaikina muitinės priimto sprendimo.
+kurio pateiktas skundas, galiojimas
 
-2.  Muitinė  turi  teisę visai arba iš
+1. Skundo pateikimas savaime nesustabdo
 
-dalies  sustabdyti priimto sprendimo vykdymą, jeigu yra pagrindo manyti, kad
+ir nepanaikina muitinės priimto sprendimo.
 
-šis sprendimas  nesuderinamas  su  šio  kodekso,  taip  pat   kitų muitinės
+2. Muitinė turi teisę visai arba iš dalies
 
-kompetencijai priskirtų įstatymų ir kitų teisės  aktų nuostatomis arba kad dėl
+sustabdyti priimto sprendimo vykdymą, jeigu yra pagrindo manyti, kad šis sprendimas
 
-šio sprendimo suinteresuotam asmeniui gali būti padaryta esminė žala.
+nesuderinamas su šio kodekso, taip pat kitų muitinės kompetencijai priskirtų
+
+įstatymų ir kitų teisės aktų nuostatomis arba kad dėl šio sprendimo
+
+suinteresuotam asmeniui gali būti padaryta esminė žala.
 
 231
 
-straipsnis. Muitinės sprendimo,
+straipsnis. Muitinės
 
-pagal kurį privaloma sumokėti importo arba  eksporto
+sprendimo, pagal kurį privaloma sumokėti importo arba
 
-muitus ir  (arba)  mokesčius, vykdymo
+eksporto muitus ir (arba)
 
-sustabdymas
+mokesčius, vykdymo sustabdymas
 
-Jeigu  skundas  pateiktas dėl muitinės
+Jeigu skundas pateiktas dėl muitinės
 
-sprendimo,  pagal kurį privaloma sumokėti importo arba eksporto muitus ir
+sprendimo, pagal kurį privaloma sumokėti importo arba eksporto muitus ir (arba)
 
-(arba) mokesčius,  šio sprendimo vykdymas gali būti sustabdytas,  kai
+mokesčius, šio sprendimo vykdymas gali būti sustabdytas, kai skolininkas
 
-skolininkas pateikia   garantiją. Garantijos pateikti nereikalaujama,  jeigu
+pateikia garantiją. Garantijos pateikti nereikalaujama, jeigu šio kodekso
 
-šio kodekso taikymą  reglamentuojančių teisės  aktų  nustatyta tvarka muitinė
+taikymą reglamentuojančių teisės aktų nustatyta tvarka muitinė pripažįsta, kad
 
-pripažįsta,  kad  toks reikalavimas  atsižvelgiant į skolininko nurodytas
+toks reikalavimas atsižvelgiant į skolininko nurodytas aplinkybes gali sukelti
 
-aplinkybes gali sukelti jam rimtų ekonominių arba socialinių sunkumų.
+jam rimtų ekonominių arba socialinių sunkumų.
 
-232 straipsnis. Atvejai, kai asmuo neturi teisės
+232 straipsnis. Atvejai, kai asmuo
 
-pateikti skundo
+neturi teisės pateikti skundo
 
-Asmuo
+Asmuo neturi teisės pateikti skundo, jeigu
 
-neturi teisės pateikti skundo, jeigu muitinė, vadovaudamasi įstatymais ir
+muitinė, vadovaudamasi įstatymais ir priimdama sprendimą, asmens veiksmuose
 
-priimdama sprendimą, asmens veiksmuose inkriminuoja baudžiamąją veiką ir šio
+inkriminuoja baudžiamąją veiką ir šio klausimo nagrinėjimą perduoda kitoms
 
-klausimo nagrinėjimą perduoda kitoms valstybės institucijoms. Jeigu nurodytos
+valstybės institucijoms. Jeigu nurodytos valstybės institucijos asmens
 
-valstybės institucijos asmens veiksmuose baudžiamosios veikos nenustato, jis
+veiksmuose baudžiamosios veikos nenustato, jis turi teisę pateikti skundą šio
 
-turi teisę pateikti skundą šio kodekso nustatyta tvarka.
+kodekso nustatyta tvarka.
 
 233 straipsnis. Skundų nagrinėjimas
 
-Muitinė
+Muitinė skundus nagrinėja šio kodekso
 
-skundus nagrinėja šio kodekso taikymą reglamentuojančių teisės aktų nustatyta
-
-tvarka.
+taikymą reglamentuojančių teisės aktų nustatyta tvarka.
 
 X DALIS
 
@@ -8276,35 +8982,41 @@ XXIII SKYRIUS
 
 BAIGIAMOSIOS NUOSTATOS
 
-234 straipsnis. Muitinės kodekso taikymą
+234 straipsnis. Muitinės kodekso
 
-reglamentuojantys teisės aktai
+taikymą reglamentuojantys teisės aktai
 
-Šio kodekso taikymą reglamentuojančius
+Šio kodekso taikymą
 
-teisės aktus tvirtina Vyriausybė arba jos įgaliota valstybės institucija.
+reglamentuojančius teisės aktus tvirtina Vyriausybė arba jos įgaliota valstybės
+
+institucija.
 
 235 straipsnis. Atsakomybė
 
-Asmenys už šio kodekso pažeidimus
+Asmenys už šio kodekso
 
-traukiami administracinėn arba baudžiamojon atsakomybėn įstatymų nustatyta
+pažeidimus traukiami administracinėn arba baudžiamojon atsakomybėn įstatymų
 
-tvarka.
+nustatyta tvarka.
 
-236 straipsnis. Kodekso įsigaliojimas ir įgyvendinimas
+236 straipsnis. Kodekso
 
-Šio kodekso įsigaliojimo ir įgyvendinimo terminus bei
+įsigaliojimas ir įgyvendinimas
 
-tvarką nustato Muitinės kodekso įgyvendinimo įstatymas.
+Šio kodekso įsigaliojimo ir
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą
+įgyvendinimo terminus bei tvarką nustato Muitinės kodekso įgyvendinimo
 
-įstatymą.
+įstatymas.
 
-RESPUBLIKOS
+Skelbiu šį Lietuvos Respublikos Seimo
 
-PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
+priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
+
+BRAZAUSKAS
 
 ____________
 
@@ -8318,7 +9030,9 @@ Nr. VIII-1377, 99.11.04, Žin., 1999,
 
 Nr.101-2899 (99.11.26)
 
-LIETUVOS RESPUBLIKOS MUITINĖS KODEKSO 216 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS MUITINĖS KODEKSO 216
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 2.
 
@@ -8328,21 +9042,25 @@ Nr. VIII-1902, 00.08.29, Žin., 2000,
 
 Nr.75-2269 (00.09.07)
 
-MUITINĖS KODEKSO 2, 38, 39, 113, 125, 163, 164, 165, 166, 167, 168, 169,
+MUITINĖS KODEKSO 2, 38, 39, 113, 125, 163, 164,
 
-170, 171, 172, 173, 174, 175, 176, 178, 186, 189, 221 STRAIPSNIŲ PAKEITIMO IR
+165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 178, 186, 189, 221
 
-PAPILDYMO IR XII SKYRIAUS PIRMOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR XII SKYRIAUS PIRMOJO SKIRSNIO PAVADINIMO
+
+PAKEITIMO ĮSTATYMAS
 
 Pakeistas įstatymo įsigaliojimas:
 
-Šis įstatymas įsigalioja nuo 2000
+Šis
 
-m. spalio 1 d.
+įstatymas įsigalioja nuo 2000 m. spalio 1 d.
 
 Pakeitimai:
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. VIII-1966, 00.09.26, Žin., 2000,
 
@@ -8358,29 +9076,67 @@ SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMO 25 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 3.
 
-Lietuvos Respublikos
-
-Seimas, Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. IX-401, 2001-06-26, Žin., 2001, Nr.
 
 62-2218 (2001-07-18)
 
-MUITINĖS KODEKSO 216
+MUITINĖS KODEKSO 216 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
-STRAIPSNIO PAPILDYMO ĮSTATYMAS
+Šis
 
-Šis įstatymas įsigalioja nuo 2001
+įstatymas įsigalioja nuo 2001 m. rugsėjo 1 d.
 
-m. rugsėjo 1 d.
+4.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28)
+
+MUITINĖS KODEKSO 2, 3, 4, 5, 7,
+
+8, 9, 25, 26, 27, 30, 31, 36, 37, 39, 40, 41, 43, 44, 45, 47, 50, 52, 56, 57,
+
+63, 66, 68, 72, 76, 77, 79, 81, 90, 92, 93, 94, 97, 106, 110, 112, 118, 119,
+
+125, 128, 132, 137, 139, 141, 157, 160, 162, 163, 165, 170, 172, 178, 185, 186,
+
+187, 188, 189, 193, 197, 198, 202, 203, 205, 206, 208, 213, 214, 215, 216, 217,
+
+219, 223, 225, 226, 227, 228, 229 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO
+
+5(1), 54(1), 54(2), 56(1), 85(1), 150(1), 165(1), 195(1), 198(1), 216(1),
+
+216(2), 216(3), 216(4), 216(5), 216(6) STRAIPSNIAIS ĮSTATYMAS
+
+Šis
+
+Įstatymas, išskyrus 100 straipsnį ir 30 straipsnyje nustatytą reikalavimą, kad
+
+deklarantas turi būti įtrauktas į importuotojų ir eksportuotojų registrą,
+
+įsigalioja nuo 2002 m. birželio 1 d.
+
+Šio
+
+Įstatymo 30 straipsnyje nustatytas reikalavimas, kad deklarantas turi būti
+
+įtrauktas į importuotojų ir eksportuotojų registrą, taikomas nuo 2003 m. sausio
+
+1 d.
 
 *** Pabaiga ***
 
-Redagavo: Aušra
+Redagavo: Aušrinė Trapinskienė
 
-Petraitienė (2001-07-18)
+(2002-01-28)
 
-aupetr@lrs.lt
+autrap@lrs.lt
 
 169 straipsnis. Gamybos, prekybos ar
 
@@ -8388,33 +9144,333 @@ paslaugų teikimo veikla laisvosiose zonose arba
 
 laisvuosiuose sandėliuose
 
-1. Gamybos, prekybos ar paslaugų teikimo veikla
+1. Gamybos, prekybos ar paslaugų teikimo
 
-laisvosiose zonose arba laisvuosiuose sandėliuose galima tik laikantis šio
+veikla laisvosiose zonose arba laisvuosiuose sandėliuose galima tik laikantis
 
-kodekso, Laisvųjų ekonominių zonų pagrindų įstatymo, laisvosios ekonominės
+šio kodekso, Laisvųjų ekonominių zonų pagrindų įstatymo, laisvosios ekonominės
 
 zonos steigimo įstatymo ir Klaipėdos valstybinio jūrų uosto įstatymo nustatytos
 
 tvarkos. Apie tokią veiklą turi būti iš anksto pranešta muitinei.
 
-2. Asmenims, nesilaikantiems šio
+2. Asmenims,
 
-kodekso, Laisvųjų ekonominių zonų pagrindų įstatymo, laisvosios ekonominės
+nesilaikantiems šio kodekso, Laisvųjų ekonominių zonų pagrindų įstatymo,
 
-zonos steigimo įstatymo ir Klaipėdos valstybinio jūrų uosto įstatymo nustatytos
+laisvosios ekonominės zonos steigimo įstatymo ir Klaipėdos valstybinio jūrų
 
-tvarkos, muitinė turi teisę uždrausti verstis gamybos, prekybos ar paslaugų
+uosto įstatymo nustatytos tvarkos, muitinė turi teisę uždrausti verstis
 
-teikimo veikla laisvosiose zonose arba laisvuosiuose sandėliuose.
+gamybos, prekybos ar paslaugų teikimo veikla laisvosiose zonose arba
 
-Straipsnio pakeitimai:
+laisvuosiuose sandėliuose.
+
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-1902, 00.08.29, Žin., 2000,
 
 Nr.75-2269 (00.09.07), įsigalioja nuo 2000.10.01
 
-Nr. VIII-1966, 00.09.26, Žin., 2000, Nr.85-2587
+Nr. VIII-1966, 00.09.26, Žin., 2000,
 
-(00.10.11)
+Nr.85-2587 (00.10.11)
+
+47 straipsnis. Prekių iškrovimas
+
+1. Prekės gali būti iškrautos iš jas
+
+gabenančių transporto priemonių, įskaitant jų perkrovimą į kitas transporto
+
+priemones, tik su muitinės sutikimu ir tik muitinės nustatytose arba muitinei
+
+priimtinose vietose. Muitinės sutikimas nebūtinas, jeigu visos prekės arba jų
+
+dalis turi būti nedelsiant iškrauta dėl prekėms kilusio pavojaus. Tokiu atveju
+
+apie prekių iškrovimą būtina nedelsiant informuoti muitinę.
+
+2. Tikrindama prekes ir (arba) jas
+
+gabenančias transporto priemones, muitinė turi teisę bet kuriuo metu
+
+pareikalauti iškrauti ir išpakuoti prekes. Prekės iškraunamos ir išpakuojamos
+
+joms iškrauti, išpakuoti ir patikrinti tinkamose muitinės nustatytose arba
+
+muitinei priimtinose vietose.
+
+3. Prekių ir (arba) jas gabenančių
+
+transporto priemonių tikrinimas atliekamas šio kodekso taikymą
+
+reglamentuojančių teisės aktų nustatyta tvarka, apsiribojant priemonėmis,
+
+būtinomis muitinės kompetencijai priskirtų teisės aktų įgyvendinimui
+
+užtikrinti. Tikrintinas prekes ir (arba) jas gabenančias transporto priemones
+
+bei jų tikrinimo detalumą muitinė pasirenka įvertinusi atitinkamo prekių
+
+gabenimo keliamą teisės aktų pažeidimo riziką.
+
+4. Jeigu
+
+tranzitu gabenamų prekių ir (arba) jas gabenančių transporto priemonių
+
+tikrinimas susijęs su didelio masto krovimo darbais arba plombų, kuriomis
+
+užplombuotos transporto priemonės, nuėmimu, motyvuotą sprendimą dėl tokio
+
+tikrinimo priima muitinės pareigūnas, einantis ne žemesnes už muitinės posto,
+
+kuriam pateiktos prekės, viršininko, o kai šio nėra, – pamainos viršininko
+
+pareigas.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+48
+
+straipsnis. Draudimas
+
+išgabenti prekes
+
+Be muitinės leidimo muitinei pateiktos
+
+prekės negali būti išgabentos iš jų buvimo vietos.
+
+54 straipsnis.
+
+Priemonės, taikomos per nustatytą laiką neįforminus muitinės
+
+sankcionuotų veiksmų su laikinai
+
+saugomomis prekėmis
+
+1. Muitinė imasi visų būtinų priemonių,
+
+įskaitant prekių sulaikymą, konfiskavimą ir realizavimą, jeigu per šio kodekso
+
+50 straipsnyje nustatytą laiką nebuvo įforminti muitinės sankcionuoti veiksmai
+
+su laikinai saugomomis prekėmis.
+
+2. Muitinė turi teisę nugabenti šio
+
+straipsnio 1 dalyje nurodytas laikinai saugomas prekes į muitinės prižiūrimą
+
+vietą ir laikyti joje, kol bus įforminti muitinės sankcionuoti veiksmai su
+
+šiomis prekėmis arba kol jos bus konfiskuotos. Prekės gabenamos ir saugomos
+
+jomis disponuojančio asmens sąskaita.
+
+[Kodeksas papildomas 54(1) straipsniu nuo
+
+2002 m. birželio 1 d.:
+
+54(1) straipsnis. Prekių,
+
+įvežtų į Lietuvos Respublikos muitų teritoriją taikant muitinio
+
+tranzito procedūrą, priežiūra
+
+Šio kodekso 39–54 straipsniai, išskyrus
+
+39 straipsnio 1 dalies 1 punktą, netaikomi, jeigu įvežtoms į Lietuvos
+
+Respublikos muitų teritoriją prekėms taikoma muitinio tranzito procedūra,
+
+kurios atlikimo tvarką reglamentuoja Lietuvos Respublikos tarptautinė
+
+sutartis.]
+
+Kodeksas papildytas straipsniu:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+[Kodeksas papildomas 54(2) straipsniu nuo
+
+2002 m. birželio 1 d.:
+
+54(2) straipsnis. Prekių,
+
+atgabentų į paskirties muitinės įstaigą taikant muitinio tranzito
+
+procedūrą, priežiūra
+
+Atgabenus prekes, kurioms taikoma
+
+muitinio tranzito procedūra, į Lietuvos Respublikos muitų teritorijos viduje
+
+esančią paskirties muitinės įstaigą (įskaitant veikiančias tarptautiniuose
+
+jūrų, upių ir oro uostuose) ir pateikus jas muitinei vadovaujantis muitinio
+
+tranzito procedūros atlikimo tvarką reglamentuojančiomis šio kodekso ir jo
+
+taikymą reglamentuojančių teisės aktų nuostatomis, taikomos šio kodekso 43–54
+
+straipsnių nuostatos.]
+
+Kodeksas papildytas straipsniu:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+57 straipsnis. Teisė atlikti
+
+muitinės sankcionuotus veiksmus ir jos apribojimai
+
+1. Su prekėmis, neatsižvelgiant į jų
+
+pobūdį ar kiekį, kilmės šalį, išsiuntimo ar paskirties vietą, bet kuriuo metu,
+
+laikantis nustatytų sąlygų, gali būti atliekami bet kokie muitinės sankcionuoti
+
+veiksmai, jeigu šis kodeksas ar kiti įstatymai nenustato ko kita.
+
+2. Šio straipsnio 1 dalies nuostatų
+
+taikymą gali riboti įstatymų ir kitų teisės aktų nustatyti draudimai ar
+
+apribojimai, pagrįsti valstybės suvereniteto, valstybės saugumo, viešosios
+
+tvarkos, visuomenės moralės, žmonių gyvybės ir sveikatos, gyvūnų, augalų ar
+
+aplinkos apsaugos, kultūros paveldo vertybių, privačios ar valstybinės
+
+nuosavybės apsaugos reikalavimais.
+
+[2 dalies redakcija nuo 2002 m. birželio 1 d.:
+
+2. Šio straipsnio 1 dalies nuostatų
+
+taikymą gali riboti įstatymų ir kitų teisės aktų nustatyti draudimai ar apribojimai,
+
+pagrįsti valstybės suvereniteto, valstybės saugumo, valstybės politikos,
+
+viešosios tvarkos, visuomenės moralės, žmonių gyvybės ir sveikatos, gyvūnų,
+
+augalų ar aplinkos apsaugos, kultūros paveldo vertybių arba nuosavybės
+
+(įskaitant intelektinę) apsaugos reikalavimais.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+XI SKYRIUS
+
+MUITINĖS PROCEDŪROS
+
+Pirmasis skirsnis
+
+PREKIŲ PATEIKIMAS MUITINĖS PROCEDŪRAI ĮFORMINTI
+
+79 straipsnis. Muitų ir mokesčių apskaičiavimas
+
+laikant visą prekių siuntą vienos
+
+rūšies prekėmis
+
+Jeigu vieną prekių siuntą sudarančios
+
+prekės pagal muitų tarifą klasifikuojamos skirtingai ir jeigu muitinės
+
+deklaracijai užpildyti bei įforminti kiekvieną iš šių prekių klasifikuojant
+
+atskirai reikėtų neproporcingai daug darbo bei išlaidų, palyginti su
+
+nustatytais už prekes muitais ir mokesčiais, muitinė turi teisę deklaranto
+
+prašymu duoti sutikimą, kad muitai ir mokesčiai visai siuntai būtų
+
+apskaičiuojami laikant ją prekėmis, už kurias bendra nustatytų muitų ir
+
+mokesčių norma yra didžiausia.
+
+[79 straipsnio redakcija nuo 2002 m. birželio 1 d.:
+
+90 straipsnis. Muitinio tranzito
+
+procedūros pradžia ir pabaiga
+
+1.
+
+Muitinio tranzito procedūra pradedama išvykimo muitinės įstaigoje ir baigiama
+
+pateikus prekes, kurioms ši procedūra įforminta, kartu su atitinkamais
+
+dokumentais paskirties muitinės įstaigai. Įvykdžius muitinio tranzito
+
+procedūros užbaigimo reikalavimus, šios muitinės procedūros vykdytojo
+
+įsipareigojimai taip pat laikomi įvykdytais. Prekių, kurioms įforminta muitinio
+
+tranzito procedūra, pateikimo paskirties įstaigai tvarką ir šios procedūros
+
+užbaigimo reikalavimus nustato šio kodekso taikymą reglamentuojantys teisės
+
+aktai.
+
+2. Muitinė pripažįsta muitinio tranzito
+
+procedūrą įvykdyta, kai sugretinusi išvykimo muitinės įstaigos ir paskirties
+
+muitinės įstaigos turimus duomenis gali nustatyti, kad įvykdyti šios procedūros
+
+užbaigimo reikalavimai.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
+
+139 straipsnis. Laikinojo įvežimo
+
+procedūros taikymas iš dalies neapmokestinant
+
+importo muitais bei mokesčiais ir
+
+draudimas ją taikyti
+
+1.
+
+Laikinai įvežtos prekės, liekančios ne Lietuvos Respublikos asmens nuosavybėje,
+
+iš dalies neapmokestinamos importo muitais ir mokesčiais, jeigu jų įvežimas
+
+neatitinka laikinojo įvežimo visai neapmokestinant importo muitais ir
+
+mokesčiais atvejų ir (arba) visų sąlygų, nustatytų vadovaujantis šio kodekso
+
+138 straipsniu.
+
+2. Šio kodekso taikymą reglamentuojantys
+
+teisės aktai nustato, kurias prekes draudžiama laikinai įvežti iš dalies
+
+neapmokestinant importo muitais ir mokesčiais ir laikinojo įvežimo procedūros
+
+taikymo iš dalies neapmokestinant importo muitais ir mokesčiais sąlygas.]
+
+Straipsnio pakeitimai:
+
+Nr. IX-624,
+
+2001-12-04, Žin., 2001, Nr. 108-3901 (2001-12-28), įsigalioja nuo 2002-06-01
 
