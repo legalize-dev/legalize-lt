@@ -4,7 +4,7 @@ identifier: "TAR.A5A607AA8E29"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-02-28"
-last_updated: "1991-03-20"
+last_updated: "1991-04-11"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -14,6 +14,10 @@ published_in_tar: "1991-02-28"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
+
+Suvestinė redakcija nuo 1991-04-11 iki 1991-08-02
+
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
 
 LIETUVOS RESPUBLIKOS
 
@@ -161,7 +165,11 @@ PRIVATIZAVIMO OBJEKTAI IR SUBJEKTAI
 
 9 straipsnis. Asmenys, turintys teisę įsigyti privatizuojamą turtą
 
-1. Privatizavimo objektus (akcijas) gali įsigyti Lietuvos Respublikos piliečiai, taip pat asmenys, kurie šio įstatymo įsigaliojimo dieną turėjo teisę gauti Lietuvos pilietybę pagal Lietuvos Respublikos pilietybės įstatymą.
+1. Privatizavimo objektus (akcijas) gali įsigyti Lietuvos Respublikos piliečiai. Ši nuostata netaikoma valstybinio ir visuomeninio butų fondo butams įsigyti
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1146, 1991-03-14, Žin., 1991, Nr. 10-262 (1991-04-10), i. k. 0911010ISTA00I-1146
 
 2. Juridiniai asmenys negali už rublius įsigyti privatizavimo objektų (akcijų).
 
@@ -193,25 +201,31 @@ ATSISKAITYMAI UŽ PERKAMĄ PRIVATIZAVIMO OBJEKTĄ
 
 12 straipsnis. Valstybės vienkartinių išmokų ir tikslinių žemės ūkio kompensacijų skyrimo sąlygos ir tvarka
 
-1. Valstybės vienkartinės išmokos skiriamos visiems Lietuvos Respublikos piliečiams:
+1. Valstybės vienkartinės išmokos sudaro 2/3 privatizuojamo turto vertės, o privatizavimui skiriama 2/3 viso valstybinio turto (išskyrus žemę) vertės. Valstybės vienkartinės išmokos skiriamos visiems Lietuvos Respublikos piliečiams tokiomis proporcijomis:
 
-1) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 35 metai, skiriama 10 tūkst. rub. išmoka;
+1) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 35 metai – 5 dalys;
 
-2) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 30 metų, skiriama 8 tūkst. rub. išmoka;
+2) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 30 metų – 4 dalys;
 
-3) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 25 metai, skiriama 6 tūkst. rub. išmoka;
+3) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 25 metai – 3 dalys;
 
-4) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 18 metų, skiriama 4 tūkst. rub. išmoka;
+4) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 18 metų – 2 dalys;
 
-5) asmenims, kuriems iki 1990 m. gruodžio 31 d. nesukako 18 metų, skiriama 2 tūkst. rub. išmoka. Jeigu tokio asmens vienas iš tėvų yra miręs iki 1990 m. gruodžio 31 d., tai šiam asmeniui skiriamos išmokos suma didinama iki 6 tūkst. rub., o jeigu mirę abu tėvai - skiriamos išmokos suma didinama iki 10 tūkst. rub.;
+5) asmenims, kuriems iki 1990 m. gruodžio 31 d. nesukako 18 metų – 1 dalis. Jeigu asmens vienas iš tėvų miręs iki 1990 m. gruodžio 31 d., tai šiam asmeniui skiriama šios dalies 3 punkte nurodyta išmoka, o jeigu mirę abu tėvai – skiriama išmoka, nurodyta šios dalies 1 punkte;
 
-6) pirmos ir antros grupės invalidams, nepriklausomai nuo jų amžiaus, skiriama 10 tūkst. rub. išmoka.
+6) pirmos ir antros grupės invalidams, nepriklausomai nuo jų amžiaus, skiriama šios dalies 1 punkte nurodyta išmoka.
 
 Valstybės vienkartinė išmoka neskiriama:
 
 1) asmenims, pripažintiems itin pavojingais recidyvistais;
 
 2) valstybės išlaikomiems asmenims, jei jie pripažinti neveiksniais ir neturi globėjų.
+
+Valstybės vienkartinės išmokos vienos dalies piniginė išraiška apskaičiuojama ir Lietuvos Respublikos Vyriausybės tvirtinama remiantis šio straipsnio nuostatomis
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1146, 1991-03-14, Žin., 1991, Nr. 10-262 (1991-04-10), i. k. 0911010ISTA00I-1146
 
 2. Atsižvelgiant į vidutinio darbo užmokesčio Lietuvos ūkyje ir vidutinio darbo užmokesčio žemės ūkyje skirtumą, asmenims, po 1944 metų dirbusiems, taip pat dabar dirbantiems žemės ūkio įmonėse, pagal atskirus Lietuvos Respublikos įstatymus papildomai skiriamos tikslinės žemės ūkio kompensacijos (agrariniai čekiai).
 
@@ -393,40 +407,6 @@ Vilnius, 1991 m. vasario 28 d.
 
 Nr. I-1115
 
-20 straipsnis. Kiti privatizavimo būdai
-
-1. Uždari aukcionai gali būti rengiami privatizuojant nedideles (iki 10 darbuotojų) farmacijos, medicinos aptarnavimo, veterinarijos įstaigas, kurių pagrindinių priemonių vertė neviršija 1 mln. rublių. Didesnės farmacijos, medicinos aptarnavimo, veterinarijos įstaigos gali būti privatizuojamos skelbiant uždarą akcijų pasirašymą.
-
-Teisę dalyvauti uždaruose aukcionuose turi atitinkamos srities specialistai, turintys kvalifikaciją patvirtinantį dokumentą. Uždarame akcijų pasirašyme kartu su specialistais gali dalyvauti ir kiti privatizuojamos įstaigos darbuotojai.
-
-Uždaruose aukcionuose ir uždaru akcijų pasirašymo būdu privatizuojamų įstaigų pastatų ir patalpų vertę nustato Centrinės privatizavimo komisijos paskirta ekspertų komisija.
-
-Farmacijos, medicinos aptarnavimo, veterinarijos įstaigos, privatizuojamos uždaruose aukcionuose ar uždaru akcijų pasirašymo būdu, po trejų veiklos metų veiklos profilį gali keisti tik gavusios Sveikatos apsaugos ministerijos ar Valstybinės veterinarijos tarnybos leidimą.
-
-2. Aukcionuose už laisvai konvertuojamą valiutą gali būti parduodami paklausą turinčių objektų akcijų paketai. Nenupirkti aukcione šie akcijų paketai parduodami viešai pasirašant akcijas.
-
-3. Skelbiant konkursus įsigyjami objektai, kurių nepavyko privatizuoti už nominalią akcijų vertę viešo akcijų pasirašymo būdu. Šie objektai gali būti parduodami išsimokėtinai Lietuvos Respublikos Vyriausybės nustatyta tvarka. Konkurse gali dalyvauti Lietuvos Respublikos bei užsienio valstybių fiziniai ir juridiniai asmenys.
-
-Nustatant konkurso laimėtoją pirmenybė teikiama geriausią biznio planą pateikusiems asmenims. Konkurso rezultatus tvirtina Centrinė privatizavimo komisija.
-
-4. Sprendimą, kokį konkretų privatizavimo būdą taikyti, priima Centrinė privatizavimo komisija.
-
-5. Siūlymus, kokį konkretų privatizavimo būdą taikyti, Centrinei arba miesto (rajono) privatizavimo komisijai pateikia steigėjai (ministerijos, valstybinės tarnybos, miestų, rajonų valdybos), kurių reguliavimo sričiai priskirtas privatizuojamas objektas.
-
-Papildyta straipsniu:
-
-Nr. I-2893, 1992-09-17, Lietuvos aidas, 1992, Nr. 187-0 (1992-09-24); Žin., 1992, Nr. 28-812 (1992-10-10), i. k. 0921010ISTA00I-2893
-
-LIETUVOS RESPUBLIKOS
-
-AUKŠČIAUSIOSIOS TARYBOS
-
-PIRMININKAS                                                                                                    V. LANDSBERGIS
-
-Vilnius, 1991 m. vasario 28 d.
-
-Nr. I-1115
-
 Pakeitimai:
 
 1.
@@ -436,210 +416,4 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-1146, 1991-03-14, Žin., 1991, Nr. 10-262 (1991-04-10), i. k. 0911010ISTA00I-1146
 
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo atskirų straipsnių pakeitimo
-
-2.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-1614, 1991-07-25, Lietuvos aidas, 1991, Nr. 151-0 (1991-08-02); Žin., 1991, Nr. 22-575 (1991-08-10), i. k. 0911010ISTA00I-1614
-
-Dėl Lietuvos Respublikos Valstybinio turto pirminio privatizavimo įstatymo 12 straipsnio papildymo
-
-3.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-1635, 1991-07-30, Lietuvos aidas, 1991, Nr. 154-0 (1991-08-07); Žin., 1991, Nr. 23-604 (1991-08-20), i. k. 0911010ISTA00I-1635
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 11 straipsnio pakeitimo
-
-4.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo kai kurių straipsnių pakeitimo
-
-5.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-2385, 1992-03-17, Lietuvos aidas, 1992, Nr. 57-0 (1992-03-24); Žin., 1992, Nr. 10-247 (1992-04-10), i. k. 0921010ISTA00I-2385
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 7 straipsnio ketvirtosios dalies papildymo
-
-6.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-2658, 1992-06-23, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 20-590 (1992-07-20), i. k. 0921010ISTA00I-2658
-
-Dėl kai kurių Lietuvos Respublikos įstatymų atskirų straipsnių pakeitimo
-
-7.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-2893, 1992-09-17, Lietuvos aidas, 1992, Nr. 187-0 (1992-09-24); Žin., 1992, Nr. 28-812 (1992-10-10), i. k. 0921010ISTA00I-2893
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo ir pakeitimo
-
-21 straipsnis. Politinių partijų užimamų patalpų privatizavimas
-
-1. Nuomojamas (ar kitaip teisėtu pagrindu naudojamas) valstybinio reguliavimo sričiai priklausančias patalpas (pastatus), išskyrus esančias neprivatizuotinuose administraciniuose pastatuose, gali išsipirkti politinės partijos ir politinės organizacijos balansine verte už Lietuvos Respublikos pinigus (litus) Lietuvos Respublikos Vyriausybės nustatyta tvarka.
-
-2. Teisę įsigyti užimamas patalpas (pastatus) turi politinės partijos ir politinės organizacijos, užsiregistravusios Lietuvos Respublikos teisingumo ministerijoje pagal Politinių partijų įstatymą iki 1995 m. birželio 1 dienos.
-
-Papildyta straipsniu:
-
-Nr. I-914, 1995-06-01, Žin., 1995, Nr. 48-1164 (1995-06-09), i. k. 0951010ISTA000I-914
-
-LIETUVOS RESPUBLIKOS
-
-AUKŠČIAUSIOSIOS TARYBOS
-
-PIRMININKAS                                                                                                    V. LANDSBERGIS
-
-Vilnius, 1991 m. vasario 28 d.
-
-Nr. I-1115
-
-Pakeitimai:
-
-1.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-1146, 1991-03-14, Žin., 1991, Nr. 10-262 (1991-04-10), i. k. 0911010ISTA00I-1146
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo atskirų straipsnių pakeitimo
-
-2.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-1614, 1991-07-25, Lietuvos aidas, 1991, Nr. 151-0 (1991-08-02); Žin., 1991, Nr. 22-575 (1991-08-10), i. k. 0911010ISTA00I-1614
-
-Dėl Lietuvos Respublikos Valstybinio turto pirminio privatizavimo įstatymo 12 straipsnio papildymo
-
-3.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-1635, 1991-07-30, Lietuvos aidas, 1991, Nr. 154-0 (1991-08-07); Žin., 1991, Nr. 23-604 (1991-08-20), i. k. 0911010ISTA00I-1635
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 11 straipsnio pakeitimo
-
-4.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo kai kurių straipsnių pakeitimo
-
-5.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-2385, 1992-03-17, Lietuvos aidas, 1992, Nr. 57-0 (1992-03-24); Žin., 1992, Nr. 10-247 (1992-04-10), i. k. 0921010ISTA00I-2385
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 7 straipsnio ketvirtosios dalies papildymo
-
-6.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-2658, 1992-06-23, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 20-590 (1992-07-20), i. k. 0921010ISTA00I-2658
-
-Dėl kai kurių Lietuvos Respublikos įstatymų atskirų straipsnių pakeitimo
-
-7.
-
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
-
-Nr. I-2893, 1992-09-17, Lietuvos aidas, 1992, Nr. 187-0 (1992-09-24); Žin., 1992, Nr. 28-812 (1992-10-10), i. k. 0921010ISTA00I-2893
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo ir pakeitimo
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-18, 1992-12-10, Lietuvos aidas, 1992, Nr. 244-0 (1992-12-12); Žin., 1992, Nr. 36-1098 (1992-12-31), i. k. 0921010ISTA0000I-18
-
-Dėl valstybinio turto privatizavimo aukcionų ir viešo akcijų pasirašymo atidėjimo
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, Nr. 6-116 (1993-02-28), i. k. 0931010ISTA0000I-64
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo ir pakeitimo
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-217, 1993-07-14, Žin., 1993, Nr. 30-686 (1993-07-21), i. k. 0931010ISTA000I-217
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 20 straipsnio dalinio pakeitimo
-
-11.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-307, 1993-11-17, Žin., 1993, Nr. 63-1190 (1993-11-24), i. k. 0931010ISTA000I-307
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo ir pakeitimo
-
-12.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-569, 1994-07-20, Žin., 1994, Nr. 59-1159 (1994-08-03); Žin., 1994, Nr. 61-0 (1994-08-10), i. k. 0941010ISTA000I-569
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo pakeitimo ir papildymo
-
-13.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-570, 1994-07-20, Žin., 1994, Nr. 58-1137 (1994-07-29), i. k. 0941010ISTA000I-570
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 2 straipsnio pakeitimo
-
-14.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-610, 1994-10-20, Žin., 1994, Nr. 84-1585 (1994-10-28), i. k. 0941010ISTA000I-610
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 11 straipsnio pakeitimo
-
-15.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-861, 1995-04-20, Žin., 1995, Nr. 35-861 (1995-04-28); Žin., 1995, Nr. 38-0 (1995-05-10), i. k. 0951010ISTA000I-861
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo
-
-16.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-897, 1995-05-18, Žin., 1995, Nr. 44-1080 (1995-05-26), i. k. 0951010ISTA000I-897
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 12 straipsnio papildymo
-
-17.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-914, 1995-06-01, Žin., 1995, Nr. 48-1164 (1995-06-09), i. k. 0951010ISTA000I-914
-
-Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo
 
