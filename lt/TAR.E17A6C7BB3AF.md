@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "2001-11-27"
+last_updated: "2001-12-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -113,6 +113,14 @@ viršininkas atsiskaito Vyriausybei ir nustatyta tvarka jos įgaliotai
 
 institucijai.
 
+[4
+
+dalies redakcija nuo 2002 m. balandžio 1 d.:
+
+Apskrities viršininkas
+
+atskaitingas Vyriausybei ir jos nustatyta tvarka jos įgaliotoms institucijoms.]
+
 Apskrities viršininkas turi
 
 pavaduotoją. Jeigu apskrityje yra daugiau kaip 500 tūkst. gyventojų, apskrities
@@ -133,6 +141,10 @@ Nr. IX-619,
 
 2001-11-27, Žin., 2001, Nr. 104-3702 (2001-12-12)
 
+Nr. IX-681,
+
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
+
 5
 
 straipsnis. Apskrities viršininko uždaviniai
@@ -150,6 +162,18 @@ teritorijos planavimo, paminklotvarkos, žemės naudojimo ir apsaugos bei žemė
 ūkio, aplinkos apsaugos ir kitose srityse, vykdyti apskrityje valstybines ir
 
 tarpregionines programas;
+
+[1
+
+punkto redakcija nuo 2002 m. balandžio 1 d.:
+
+1) įgyvendinti valstybės politiką regioninės plėtros,
+
+socialinio aprūpinimo, švietimo, kultūros, sveikatos priežiūros, teritorijos
+
+planavimo, paminklotvarkos, žemės naudojimo ir apsaugos, aplinkos apsaugos ir
+
+kitose srityse, vykdyti apskrityje valstybines ir tarpregionines programas;]
 
 2) koordinuoti apskrityje esančių ministerijų ir kitų
 
@@ -178,6 +202,10 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 Nr. IX-619,
 
 2001-11-27, Žin., 2001, Nr. 104-3702 (2001-12-12)
+
+Nr. IX-681,
+
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
 
 6
 
@@ -433,13 +461,13 @@ gyventojų sveikatos išsaugojimo, atgavimo ir stiprinimo;
 
 3)
 
-suderinęs su Sveikatos apsaugos ministerija, steigia, reorganizuoja ir
+suderinęs su Sveikatos apsaugos ministerija, steigia, reorganizuoja ir likviduoja
 
-likviduoja apskričių ligonines, taip pat nustatytas ir įrašytas į Sveikatos
+apskričių ligonines, taip pat nustatytas ir įrašytas į Sveikatos apsaugos
 
-apsaugos ministerijos patvirtintą sąrašą antrinės sveikatos priežiūros
+ministerijos patvirtintą sąrašą antrinės sveikatos priežiūros specializuotas
 
-specializuotas stacionarines asmens sveikatos priežiūros įstaigas;
+stacionarines asmens sveikatos priežiūros įstaigas;
 
 4)
 
@@ -491,9 +519,9 @@ viršininkas:
 
 1) organizuoja
 
-apskrities lygmens teritorijos planavimo dokumentų rengimą, dalyvauja jų derinimo
+apskrities lygmens teritorijos planavimo dokumentų rengimą, dalyvauja jų
 
-procedūroje;
+derinimo procedūroje;
 
 2) kaupia ir
 
@@ -629,6 +657,22 @@ valstybinę melioracijos ir hidrotechnikos įrenginių priežiūrą, organizuoja
 
 valstybei priklausančių melioracijos ir hidrotechnikos įrenginių eksploataciją;
 
+[4,
+
+5 ir 6 punktų redakcija nuo 2002 m. balandžio 1 d.:
+
+4) koordinuoja,
+
+organizuoja ir įgyvendina regionines kaimo plėtros programas;
+
+5)
+
+(neteko galios);
+
+6)
+
+atlieka valstybinę melioracijos ir hidrotechnikos įrenginių priežiūrą;]
+
 7) prižiūri, kaip vykdomi Žemės ūkio bendrovių
 
 įstatymo reikalavimai.
@@ -674,6 +718,10 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 Nr. IX-619,
 
 2001-11-27, Žin., 2001, Nr. 104-3702 (2001-12-12)
+
+Nr. IX-681,
+
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
 
 8 straipsnis. Apskrities viršininko
 
@@ -1085,9 +1133,9 @@ telkinių apsaugos zonų ir pakrantės apsaugos juostų tvarkymą bei vandens
 
 telkinių valdymą;
 
-5) pagal savo kompetenciją atlieka valstybinę miškų būklės,
+5) pagal savo kompetenciją atlieka valstybinę miškų
 
-naudojimo, atkūrimo ir apsaugos kontrolę;
+būklės, naudojimo, atkūrimo ir apsaugos kontrolę;
 
 6) organizuoja ekologinį švietimą.
 
@@ -1147,6 +1195,10 @@ traktorius, savaeiges važiuokles, traktorines priekabas ir kelių tiesimo
 
 mašinas;
 
+[5
+
+punktas netenka galios nuo 2002 m. balandžio 1 d.]
+
 6) organizuoja
 
 stichinių nelaimių, avarijų padarinių likvidavimą, paieškos ir gelbėjimo
@@ -1161,11 +1213,11 @@ perduotų įmonių valstybei priklausančias akcijas;
 
 8) Vyriausybės
 
-įgaliotos institucijos nustatyta tvarka atstovauja valstybei akcinėse
+įgaliotos institucijos nustatyta tvarka atstovauja valstybei akcinėse bendrovėse
 
-bendrovėse ar uždarosiose akcinėse bendrovėse, kuriose valstybei priklausančių
+ar uždarosiose akcinėse bendrovėse, kuriose valstybei priklausančių akcijų
 
-akcijų valdytojas yra Valstybės turto fondas ar kita valstybės institucija;
+valdytojas yra Valstybės turto fondas ar kita valstybės institucija;
 
 9) teikia Vyriausybei Apskrities administracinių ginčų
 
@@ -1207,6 +1259,10 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 
 92-2886 (2000 10 31)
 
+Nr. IX-681,
+
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
+
 13
 
 straipsnis. Apskrities viršininko teisės
@@ -1245,9 +1301,9 @@ institucijų struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkaut
 
 5) gauti iš kitų
 
-valstybės valdymo ir apskrities savivaldybių institucijų, įmonių, įstaigų ir organizacijų
+valstybės valdymo ir apskrities savivaldybių institucijų, įmonių, įstaigų ir
 
-informaciją savo kompetencijos klausimais;
+organizacijų informaciją savo kompetencijos klausimais;
 
 6)
 
@@ -1285,7 +1341,9 @@ ryšius su atitinkamomis užsienio valstybių regionų institucijomis ir
 
 tarptautinėmis organizacijomis.
 
-Straipsnio žymėjimas pakeistas:
+Straipsnio žymėjimas
+
+pakeistas:
 
 Nr. VIII-33,
 
@@ -1699,19 +1757,15 @@ viršininkas praneša atitinkamai Lietuvos Respublikos Seimui ar Vyriausybei api
 
 valstybės valdymo institucijų padalinių apskrityje veiklą ir sprendimus, jei
 
-jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba
+jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba pažeidžia
 
-pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina
+piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina ar
 
-ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar
+nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar aukštesnioji
 
-aukštesnioji valstybės valdymo institucija, galutinį sprendimą priima
+valstybės valdymo institucija, galutinį sprendimą priima Vyriausybė.
 
-Vyriausybė.
-
-Straipsnio žymėjimas
-
-pakeistas:
+Straipsnio žymėjimas pakeistas:
 
 Nr. VIII-33,
 
@@ -2189,13 +2243,39 @@ VALDYMO ĮSTATYMO 4, 5, 10, 13, 16, 18, 19 STRAIPSNIŲ IR IV SKYRIAUS PAVADINIMO
 
 PAKEITIMO ĮSTATYMAS
 
+16.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-681,
+
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30)
+
+APSKRITIES
+
+VALDYMO ĮSTATYMO 4, 5, 10 IR 12 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo 2002
+
+m. balandžio 1 d.
+
+Iki
+
+šio Įstatymo įsigaliojimo apskričių viršininkai negali pertvarkyti rajonų žemės
+
+ūkio skyrių ir mažinti šiems skyriams asignavimus.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2001-12-13)
+Aušrinė Trapinskienė (2002-01-22)
 
 autrap@lrs.lt
 
