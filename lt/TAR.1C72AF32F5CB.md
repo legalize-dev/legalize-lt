@@ -4,7 +4,7 @@ identifier: "TAR.1C72AF32F5CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-10-07"
-last_updated: "1997-07-01"
+last_updated: "1997-12-09"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1C72AF32F5CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,11 +17,11 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.07.17)
+Ramunė Lūžaitė (1997.12.29)
 
 Įstatymas
 
@@ -80,6 +80,20 @@ RESPUBLIKOS ŽMONIŲ SAUGOS DARBE ĮSTATYMO 79 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 
 įstatymas įsigalioja nuo 1997 m. rugsėjo 1 d.
+
+4.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-561,
+
+97.12.09, Žin., 1997, Nr.117-3001 (97.12.24)
+
+LIETUVOS
+
+RESPUBLIKOS ŽMONIŲ SAUGOS DARBE ĮSTATYMO 73 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 ***
 
@@ -183,9 +197,9 @@ vadovaudamasis Lietuvos Respublikos Konstitucijos 48 ir 49  straipsniais,
 
 atsižvelgdamas  į  Lietuvos  Respublikos ekonomines  sąlygas,  jų
 
-perspektyvą,  Tarptautinės  darbo organizacijos konvencijas  ir rekomendacijas
+perspektyvą,  Tarptautinės  darbo organizacijos konvencijas  ir rekomendacijas bei
 
-bei kitų šalių patirtį,
+kitų šalių patirtį,
 
 priima
 
@@ -461,15 +475,15 @@ Saugos
 
 darbe  politiką  formuoja  Lietuvos Respublikos Vyriausybė. Saugos darbe
 
-valstybinio valdymo funkciją vykdo socialinės  apsaugos  ministras,
+valstybinio valdymo funkciją vykdo socialinės  apsaugos  ministras,  vadovaudamasis
 
-vadovaudamasis  Lietuvos Respublikos įstatymais ir šiuo įstatymu, Lietuvos
+Lietuvos Respublikos įstatymais ir šiuo įstatymu, Lietuvos Respublikos
 
-Respublikos Vyriausybės nutarimais ir kitais saugos darbe norminiais aktais.
+Vyriausybės nutarimais ir kitais saugos darbe norminiais aktais. Socialinės
 
-Socialinės apsaugos ministras atstovauja Lietuvos Respublikos interesams
+apsaugos ministras atstovauja Lietuvos Respublikos interesams  saugos  darbe
 
-saugos  darbe  klausimais  kitose  šalyse  ir tarptautinėse organizacijose.
+klausimais  kitose  šalyse  ir tarptautinėse organizacijose.
 
 Straipsnio
 
@@ -593,7 +607,7 @@ darbe priemones įmonėse finansuoja darbdaviai.
 
 Saugos
 
-darbe  mokslinius tyrimus  koordinuoja  Lietuvos Respublikos Vyriausybė.
+darbe  mokslinius tyrimus  koordinuoja  Lietuvos Respublikos Vyriausybė.
 
 Saugos
 
@@ -985,9 +999,9 @@ instrukcijas.
 
 Saugaus
 
-darbo organizavimo ir vykdymo taisyklių, instrukcijų reikalavimai tolygūs darbuotojų
+darbo organizavimo ir vykdymo taisyklių, instrukcijų reikalavimai tolygūs
 
-pareiginiams nuostatams.
+darbuotojų pareiginiams nuostatams.
 
 24
 
@@ -1045,13 +1059,13 @@ darbdaviui ir darbuotojui.
 
 Profesijų,
 
-darbų ir gamybų, kuriose dirbantys darbuotojai, tarp jų asmenys iki 18 metų
+darbų ir gamybų, kuriose dirbantys darbuotojai, tarp jų asmenys iki 18 metų (kai
 
-(kai kurių profesijų - iki 21 metų), stodami į darbą ir vėliau privalo
+kurių profesijų - iki 21 metų), stodami į darbą ir vėliau privalo periodiškai
 
-periodiškai tikrintis sveikatą, sąrašą bei pasitikrinimų tvarką nustato
+tikrintis sveikatą, sąrašą bei pasitikrinimų tvarką nustato Lietuvos
 
-Lietuvos Respublikos Vyriausybė.
+Respublikos Vyriausybė.
 
 25
 
@@ -1191,9 +1205,9 @@ kontroliuoti, kaip darbuotojai laikosi saugos darbe reikalavimų, laikinai
 
 nušalinti darbuotoją nuo darbo už tą dieną (pamainą) nemokant jam darbo
 
-užmokesčio, jeigu jis darbo metu darbe neblaivus, apsvaigęs nuo sąmoningai panaudotų
+užmokesčio, jeigu jis darbo metu darbe neblaivus, apsvaigęs nuo sąmoningai
 
-narkotinių ar toksinių medžiagų;
+panaudotų narkotinių ar toksinių medžiagų;
 
 5)
 
@@ -1351,9 +1365,9 @@ išlaikiusiems saugos darbe egzaminą.  Įmonės įgyja  teisę atestuoti
 
 darbuotojus, dirbančius su potencialiai pavojingais techniniais įrenginiais,
 
-technologijomis, pavojingose gamybose bei vykdančius potencialiai pavojingus darbus,
+technologijomis, pavojingose gamybose bei vykdančius potencialiai pavojingus
 
-tik gavusios Valstybinės darbo inspekcijos leidimą.
+darbus, tik gavusios Valstybinės darbo inspekcijos leidimą.
 
 Darbuotojų
 
@@ -2095,9 +2109,9 @@ sveikatos būklės negali dirbti sutarto darbo (eiti pareigų), nes tai pavojing
 
 jo sveikatai arba jo darbas gali būti pavojingas kitiems, turi būti perkeltas,
 
-jam sutikus, į darbą, atitinkantį jo sveikatą ir esant galimybei - kvalifikaciją
+jam sutikus, į darbą, atitinkantį jo sveikatą ir esant galimybei -
 
-(specialybę), ar į kitą darbą.
+kvalifikaciją (specialybę), ar į kitą darbą.
 
 Jeigu
 
@@ -2239,25 +2253,23 @@ numatomas darbdavio tvirtinamuose įgaliojamo asmens pareiginiuose nuostatuose.
 
 Darbdavio
 
-įgaliotas asmuo privalo vykdyti jam suteiktus įgaliojimus ir atsako už
+įgaliotas asmuo privalo vykdyti jam suteiktus įgaliojimus ir atsako už darbuotojų
 
-darbuotojų saugų darbą jam priskirtame įmonės padalinyje ir darbo vietose,
+saugų darbą jam priskirtame įmonės padalinyje ir darbo vietose, išskyrus
 
-išskyrus atvejus, kai apie pavojų darbuotojų sveikatai ar gyvybei (kurio pats
+atvejus, kai apie pavojų darbuotojų sveikatai ar gyvybei (kurio pats pašalinti
 
-pašalinti negali)  jis pranešė darbdaviui raštu, o darbdavys nesiėmė priemonių
+negali)  jis pranešė darbdaviui raštu, o darbdavys nesiėmė priemonių  arba
 
-arba  nesudarė  įgaliotam  asmeniui sąlygų imtis reikalingų  priemonių,  kad
+nesudarė  įgaliotam  asmeniui sąlygų imtis reikalingų  priemonių,  kad būtų
 
-būtų užtikrintas saugus darbas. Perduodamas dalį savo teisių ir pareigų saugos
+užtikrintas saugus darbas. Perduodamas dalį savo teisių ir pareigų saugos darbe
 
-darbe klausimais atskiro  struktūrinio  padalinio, esančio kitoje negu įmonė
+klausimais atskiro  struktūrinio  padalinio, esančio kitoje negu įmonė vietoje
 
-vietoje (teritorijoje), vadovui, darbdavys jį įpareigoja ir suteikia teises
+(teritorijoje), vadovui, darbdavys jį įpareigoja ir suteikia teises imtis visų
 
-imtis visų reikalingų priemonių iškilus pavojui darbuotojų sveikatai ar
-
-gyvybei.
+reikalingų priemonių iškilus pavojui darbuotojų sveikatai ar gyvybei.
 
 Darbdavio
 
@@ -2293,11 +2305,11 @@ saugoti savo ir nekenkti kitų darbuotojų sveikatai, mokėti saugiai dirbti,
 
 2)
 
-laikytis mašinų ir mechanizmų eksploatavimo taisyklių, saugos darbe
+laikytis mašinų ir mechanizmų eksploatavimo taisyklių, saugos darbe instrukcijų;
 
-instrukcijų; nedirbti su techniškai netvarkingomis darbo priemonėmis ir apie
+nedirbti su techniškai netvarkingomis darbo priemonėmis ir apie tai pranešti
 
-tai pranešti darbdaviui (jo įgaliotam asmeniui);
+darbdaviui (jo įgaliotam asmeniui);
 
 3)
 
@@ -2817,21 +2829,21 @@ darbdavio lėšų.
 
 73
 
-straipsnis. Nelaimingų atsitikimų, profesinių ligų
+straipsnis. Nelaimingų atsitikimų, profesinių ligų tyrimo aktų
 
-tyrimo aktų saugojimas
+saugojimas
 
 Nelaimingų
 
-atsitikimų,  profesinių ligų  tyrimo  aktai įteikiami:  nukentėjusiam  darbuotojui
+atsitikimų,  profesinių ligų  tyrimo  aktai įteikiami:  nukentėjusiam
 
-arba  jo  interesams atstovaujančiam  asmeniui,  darbdaviui,  Valstybinei
+darbuotojui  arba  jo  interesams atstovaujančiam  asmeniui,  darbdaviui,
 
-darbo inspekcijai. Sunkių ir mirtinų nelaimingų atsitikimų atvejais arba kai
+Valstybinei  darbo inspekcijai. Sunkių ir mirtinų nelaimingų atsitikimų
 
-yra baudžiamosios atsakomybės požymių, Valstybinė darbo inspekcija  medžiagą
+atvejais arba kai yra baudžiamosios atsakomybės požymių, Valstybinė darbo
 
-apie  nelaimingą  atsitikimą  perduoda prokuratūrai.
+inspekcija  medžiagą  apie  nelaimingą  atsitikimą  perduoda prokuratūrai.
 
 Nelaimingų
 
@@ -2849,9 +2861,7 @@ Sunkių
 
 ir mirtinų nelaimingų atsitikimų, profesinių ligų tyrimo aktai Valstybinėje
 
-darbo inspekcijoje saugomi 5 metus, vėliau perduodami Lietuvos valstybiniam
-
-archyvui.
+darbo inspekcijoje saugomi 15 metų, vėliau perduodami valstybiniam saugojimui.
 
 Straipsnio
 
@@ -2860,6 +2870,10 @@ pakeitimai:
 Nr.
 
 I-628, 94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
+
+Nr. VIII-561,
+
+97.12.09, Žin., 1997, Nr.117-3001 (97.12.24)
 
 74
 
@@ -3007,57 +3021,11 @@ nukentėjęs  darbuotojas  nebuvo  apdraustas  nuo nelaimingų atsitikimų d
 
 gydymu, taip pat išlaidas, susijusias  su nukentėjusiojo socialine, profesine
 
-reabilitacija, atlygina darbdavys. Minėtų išlaidų apmokėjimo ir žalos atlyginimo
+reabilitacija, atlygina darbdavys. Minėtų išlaidų apmokėjimo ir žalos
 
-sumos turi būti ne mažesnės negu numatyta Lietuvos Respublikos draudimo nuo
+atlyginimo sumos turi būti ne mažesnės negu numatyta Lietuvos Respublikos
 
-nelaimingų atsitikimų darbe įstatyme.
-
-[79 straipsnio redakcija iki 1997 m. rugsėjo 1 d.]
-
-79
-
-straipsnis. Pašalpa žuvus nuo nelaimingo atsitikimo darbe
-
-Įmonė,
-
-kurioje dėl saugos darbe norminių aktų pažeidimo įvyko mirtinas nelaimingas
-
-atsitikimas darbe, išmoka mirusiojo šeimai vienkartinę  pašalpą, ne  mažesnę
-
-kaip 500 Lietuvos Respublikos Vyriausybės nustatytų minimalių mėnesinių algų,
-
-bet ne mažiau kaip 100 minimalių mėnesinių algų kiekvienam šeimos nariui.
-
-Mirusiojo  šeimos  nariais  laikomi  sutuoktinis (sutuoktinė), vaikai
-
-(įvaikiai), tėvai (įtėviai), mirusiojo vaikai, gimę po jo mirties.
-
-Tuo
-
-atveju, kai mirtinas nelaimingas atsitikimas įmonėje įvyko po to, kai
-
-Valstybinė darbo inspekcija nustatė saugos darbe norminių aktų  pažeidimą,  o
-
-darbdavys  valstybinio  darbo inspektoriaus nustatytu laiku jų nepašalino ir
-
-dėl to įvyko mirtinas nelaimingas atsitikimas, įmonė išmoka mirusiojo šeimos
-
-nariams šio straipsnio pirmojoje dalyje nustatytą vienkartinę pašalpą ir, be
-
-to, į Saugos darbe fondo sąskaitą perveda 250 minimalių mėnesinių algų sumą.
-
-Saugos
-
-darbe norminių aktų pažeidimą, dėl kurio įvyko mirtinas nelaimingas
-
-atsitikimas  darbe,  Valstybinė  darbo inspekcija nustato tirdama nelaimingą
-
-atsitikimą darbe. Ginčus, kilusius dėl šio straipsnio taikymo, sprendžia
-
-teismas.
-
-[79 straipsnio redakcija nuo 1997 m. rugsėjo 1 d.]
+draudimo nuo nelaimingų atsitikimų darbe įstatyme.
 
 22 straipsnis.
 
@@ -3423,11 +3391,11 @@ Kai
 
 dirbama nakties metu, nustatytoji darbo (pamainos) trukmė sumažinama  viena
 
-valanda.  Ši  nuostata  netaikoma darbininkams ir tarnautojams, kuriems jau numatytas
+valanda.  Ši  nuostata  netaikoma darbininkams ir tarnautojams, kuriems jau
 
-sutrumpintas darbo laikas (41 straipsnio pirmosios dalies 3 punktas, 41
+numatytas sutrumpintas darbo laikas (41 straipsnio pirmosios dalies 3 punktas,
 
-straipsnio antroji dalis). Naktinio darbo trukmė gali būti netrumpinama
+41 straipsnio antroji dalis). Naktinio darbo trukmė gali būti netrumpinama
 
 nepertraukiamoje gamyboje, taip pat kai dirbama pamainomis šešių darbo dienų
 
@@ -3453,9 +3421,9 @@ darbo savaitė.
 
 Darbdavys
 
-privalo nustatyti ne visos darbo dienos arba ne visos darbo savaitės darbo
+privalo nustatyti ne visos darbo dienos arba ne visos darbo savaitės darbo grafiką,
 
-grafiką, jeigu to prašo:
+jeigu to prašo:
 
 nėščia
 
@@ -3507,9 +3475,9 @@ dalyje nustatytos darbo dienos (pamainos) trukmės, o budėjimo trukmė poilsio 
 
 švenčių dienomis, taip pat namuose negali viršyti 8 valandų per parą. Budėjimas
 
-įmonėje prilyginamas darbo laikui, o budėjimas namuose - ne mažiau kaip trečdaliui
+įmonėje prilyginamas darbo laikui, o budėjimas namuose - ne mažiau kaip
 
-darbo laiko.
+trečdaliui darbo laiko.
 
 Už
 
@@ -4521,13 +4489,13 @@ atsisakymas  dirbti laikomas darbo drausmės pažeidimu.
 
 Už
 
-laiką,  kurį darbuotojas pagrįstai atsisakė dirbti, darbuotojui mokamas
+laiką,  kurį darbuotojas pagrįstai atsisakė dirbti, darbuotojui mokamas  vidutinis
 
-vidutinis darbo užmokestis. Darbuotojui atsisakius dirbti nepagrįstai , už
+darbo užmokestis. Darbuotojui atsisakius dirbti nepagrįstai , už nedirbtą laiką
 
-nedirbtą laiką neapmokama ir dėl to padaryta žala darbdaviui kompensuojama iš
+neapmokama ir dėl to padaryta žala darbdaviui kompensuojama iš darbuotojo
 
-darbuotojo sąskaitos įstatymų nustatyta tvarka.
+sąskaitos įstatymų nustatyta tvarka.
 
 Straipsnio
 
@@ -4607,7 +4575,7 @@ iki 16 metų - 24 valandos per savaitę;
 
 2)
 
-moksleiviams,  dirbantiems mokslo metais laisvu nuo mokymosi metu, darbo laiko
+moksleiviams,  dirbantiems mokslo metais laisvu nuo mokymosi metu, darbo laiko
 
 trukmė per savaitę negali viršyti pusės maksimalios darbo laiko trukmės,
 
@@ -6747,9 +6715,7 @@ Respublikos  draudimo nuo  nelaimingų  atsitikimų  darbe
 
 įstatyme.
 
-79 straipsnis. Saugos darbe norminių aktų
-
-reikalavimų pažeidimo
+79 straipsnis. Saugos darbe norminių aktų reikalavimų pažeidimo
 
 pasekmės
 
@@ -6789,13 +6755,13 @@ atsitikimas darbe įmonėje įvyko po to, kai Valstybinė darbo inspekcija nusta
 
 saugos darbe norminių aktų reikalavimų pažeidimą, o darbdavys valstybinio darbo
 
-inspektoriaus nustatytu laiku jo nepašalino ir dėl to įvyko mirtinas nelaimingas
+inspektoriaus nustatytu laiku jo nepašalino ir dėl to įvyko mirtinas
 
-atsitikimas darbe, įmonė į Saugos darbe fondo sąskaitą perveda sumą, lygią 50
+nelaimingas atsitikimas darbe, įmonė į Saugos darbe fondo sąskaitą perveda
 
-respublikos ūkio vidutinių darbo užmokesčių. Apskaičiuojant šią sumą,
+sumą, lygią 50 respublikos ūkio vidutinių darbo užmokesčių. Apskaičiuojant šią
 
-respublikos ūkio vidutinis darbo užmokestis imamas tokio dydžio, kokį
+sumą, respublikos ūkio vidutinis darbo užmokestis imamas tokio dydžio, kokį
 
 Statistikos departamentas prie Lietuvos Respublikos Vyriausybės paskelbė
 
@@ -6821,9 +6787,9 @@ VIII-368, 97.07.01, Žin., 1997, Nr.67-1658 (97.07.16)
 
 80
 
-straipsnis. Administracinės baudos už saugos darbe
+straipsnis. Administracinės baudos už saugos darbe norminių aktų
 
-norminių aktų pažeidimus
+pažeidimus
 
 Valstybinė
 
@@ -6893,7 +6859,7 @@ registruojami nelaimingi atsitikimai, profesinės ligos, darbo vietos, kuriose
 
 kenksmingi darbo aplinkos veiksniai neatitinka higienos  normų, taip pat darbo
 
-vietos, kuriose naudojami potencialiai  pavojingi techniniai  įrenginiai (18
+vietos, kuriose naudojami potencialiai  pavojingi techniniai  įrenginiai (18
 
 straipsnis),  neatitinkančios  saugos  darbe  norminių  aktų reikalavimų darbo
 
