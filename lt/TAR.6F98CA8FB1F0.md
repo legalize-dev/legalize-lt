@@ -4,7 +4,7 @@ identifier: "TAR.6F98CA8FB1F0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-23"
-last_updated: "2001-06-26"
+last_updated: "2001-07-10"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6F98CA8FB1F0"
 department: "Lietuvos Respublikos Seimas"
@@ -47,19 +47,25 @@ Konkrečios prekyvietės mokesčio objektą
 
 ir dydį nustato miestų ir rajonų valdybos.
 
-3 straipsnis. Įmonės, eksploatuojančios
+3 straipsnis. Juridiniai asmenys, eksploatuojantys prekyvietes
 
-prekyvietes miesto, rajono valdybos nustatyta tvarka, ima rinkliavas ir iš jų
+savivaldybės valdybos nustatyta tvarka, ima rinkliavas ir iš jų moka
 
-moka prekyviečių mokestį.
+prekyviečių mokestį.
+
+Straipsnio pakeitimai:
+
+Nr. IX-436, 2001-07-10, Žin., 2001, Nr.
+
+62-2234 (2001-07-18)
 
 II. MOKESČIO TARIFAI IR LENGVATOS
 
-4 straipsnis. Prekyviečių mokesčio tarifai
+4 straipsnis. Prekyviečių mokesčio
 
-mėnesiui:
+tarifai mėnesiui:
 
-_________________________________________________________________________________
+________________________________________________________________________________
 
 1 kv.m
 
@@ -71,19 +77,19 @@ ploto,                 vietų, skirtų prekiauti žemės
 
 be
 
-ploto,                      ūkio produkcija ir maisto produktais
+ploto,                      ūkio produkcija ir maisto pro-
 
-skirto prekiauti
+Prekyvietės vieta                      skirto
 
-Prekyvietės vieta                      prekėmis                      ____________________________________
+prekiauti ---_______________________________________
 
-vienai
+prekėmis                      vienai
 
 įrengtai              įrengto kiosko
 
-prekystalio
+prekystalio                   ir
 
-ir automobilio
+automobilio
 
 vietai                            stovėjimo
 
@@ -139,43 +145,63 @@ Respublikos Vyriausybės nustatyta tvarka.
 
 III. MOKESČIO APSKAIČIAVIMAS IR MOKĖJIMAS
 
-5 straipsnis. Įmonės, eksploatuojančios
+5 straipsnis. Juridiniai asmenys,
 
-prekyvietes, kurioms nustatyti prekyviečių mokesčio tarifai, privalo kiekvieno mėnesio
+eksploatuojantys prekyvietes, kurioms nustatyti prekyviečių mokesčio tarifai,
 
-mokesčio apyskaitą pateikti valstybinei mokesčių inspekcijai iki kito mėnesio
+privalo kiekvieno mėnesio mokesčio apyskaitą pateikti valstybinei mokesčių
 
-10 dienos ir sumokėti šį mokestį ne vėliau kaip per 20 dienų mėnesiui
+inspekcijai iki kito mėnesio 10 dienos ir sumokėti šį mokestį ne vėliau kaip
 
-pasibaigus.
+per 20 dienų mėnesiui pasibaigus.
+
+Straipsnio pakeitimai:
+
+Nr. IX-436, 2001-07-10, Žin., 2001, Nr.
+
+62-2234 (2001-07-18)
 
 6 straipsnis. Mokestis įskaitomas į
 
 savivaldybės, kurios teritorijoje yra prekyvietė, biudžetą.
 
-9 straipsnis. Įmonės, eksploatuojančios
+9 straipsnis. Juridiniai asmenys,
 
-prekyvietes, mažina apmokestinamąjį pelną (pajamas) sumokėto į biudžetą
+eksploatuojantys prekyvietes, mažina apmokestinamąjį pelną (pajamas) sumokėto į
 
-prekyviečių mokesčio suma.
+biudžetą prekyviečių mokesčio suma.
 
-11 straipsnis. Jeigu įmonė nesumoka
+Straipsnio pakeitimai:
 
-mokesčio per 3 mėnesius po nustatytų terminų ir nėra galimybės išieškoti
+Nr. IX-436, 2001-07-10, Žin., 2001, Nr.
 
-mokestį neginčo tvarka, miesto (rajono) valdyba sprendžia klausimą dėl įmonės
+62-2234 (2001-07-18)
 
-registravimo panaikinimo ir sąskaitos banke uždarymo.
+11 straipsnis. Jeigu juridinis
 
-12 straipsnis. Įstatymas įsigalioja nuo
+asmuo nesumoka mokesčio per 3 mėnesius po nustatytų terminų ir nėra galimybės
 
-1994 m. sausio 1 dienos.
+išieškoti mokestį ne ginčo tvarka, savivaldybės valdyba sprendžia klausimą dėl
+
+juridinio asmens registravimo panaikinimo ir sąskaitos banke uždarymo.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-436, 2001-07-10, Žin., 2001, Nr. 62-2234
+
+(2001-07-18)
+
+12 straipsnis. Įstatymas įsigalioja
+
+nuo 1994 m. sausio 1 dienos.
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
 priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                     ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                 ALGIRDAS
 
 BRAZAUSKAS
 
@@ -197,7 +223,9 @@ RESPUBLIKOS PREKYVIEČIŲ MOKESČIO ĮSTATYMO 7 IR 10  STRAIPSNIŲ PAKEITIMO
 
 ĮSTATYMAS
 
-Šis įstatymas įsigalioja nuo 1996.07.01
+Šis įstatymas
+
+įsigalioja nuo 1996.07.01
 
 2.
 
@@ -211,35 +239,59 @@ PREKYVIEČIŲ MOKESČIO ĮSTATYMO 10 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
-Šis įstatymas įsigalioja nuo 2001 m. rugsėjo 1 d.
+Šis
+
+įstatymas  įsigalioja nuo 2001 m. rugsėjo 1 d.
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-436, 2001-07-10, Žin., 2001, Nr.
+
+62-2234 (2001-07-18)
+
+PREKYVIEČIŲ MOKESČIO ĮSTATYMO 1, 3, 5, 9, 10 IR
+
+11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
-Redagavo: Aušra Petraitienė (2001-07-18)
+Redagavo: Aušra Petraitienė (2001-07-19)
 
 aupetr@lrs.lt
 
-1 straipsnis. Šis įstatymas reglamentuoja
+1 straipsnis. Šis įstatymas
 
-prekyviečių mokesčio ėmimą. Prekyvietė - specialiai įrengta vieta, kurioje
+reglamentuoja prekyviečių mokesčio ėmimą. Prekyvietė - specialiai įrengta
 
-reguliariai arba tam tikromis savaitės dienomis už nustatytą mokestį prekiauja
+vieta, kurioje reguliariai arba tam tikromis savaitės dienomis už nustatytą
 
-prekių gamintojai ar kiti asmenys. Prekyvietėse turi būti paskirtas plotas ar
+mokestį prekiauja prekių gamintojai ar kiti asmenys. Prekyvietėse turi būti
 
-prekybos vietos prekiauti tik žemės ūkio produkcija ir maisto prekėmis.
+paskirtas plotas ar prekybos vietos prekiauti tik žemės ūkio produkcija ir
 
-Prekyviečių mokestį moka įmonės, miesto,
+maisto prekėmis.
 
-rajono valdybos sprendimu eksploatuojančios prekyvietes, kuriose yra paskirta
+Prekyviečių
 
-vietų prekiauti ne žemės ūkio produkcija ir ne maisto prekėmis.
+mokestį moka juridiniai asmenys, miesto, rajono valdybos sprendimu
 
-7 straipsnis. Mokesčio laiku nesumokėjus,
+eksploatuojantys prekyvietes, kuriose yra paskirta vietų prekiauti ne žemės
 
-imami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo
+ūkio produkcija ir ne maisto prekėmis.
 
-nustatyta tvarka.
+Straipsnio pakeitimai:
+
+Nr. IX-436, 2001-07-10, Žin., 2001, Nr.
+
+62-2234 (2001-07-18)
+
+7 straipsnis. Mokesčio laiku
+
+nesumokėjus, imami delspinigiai Lietuvos Respublikos mokesčių administravimo
+
+įstatymo nustatyta tvarka.
 
 Straipsnio
 
@@ -255,11 +307,11 @@ apskaičiavimą bei mokėjimą kontroliuoja valstybinės mokesčių inspekcijos.
 
 10 straipsnis.
 
-Nustačius, kad mokesčio apyskaitoje prekyviečių mokesčio suma sumažinta, į
+Nustačius, kad mokesčio apyskaitoje prekyviečių mokesčio suma sumažinta, į biudžetą
 
-biudžetą trūkstama šio mokesčio suma ir bauda išieškoma Lietuvos Respublikos
+trūkstama šio mokesčio suma ir bauda išieškoma Lietuvos Respublikos mokesčių
 
-mokesčių administravimo įstatymo nustatyta tvarka.
+administravimo įstatymo nustatyta tvarka.
 
 [1 dalies redakcija nuo 2001
 
@@ -271,27 +323,31 @@ pažeidusiems šio įstatymo nuostatas, baudos skiriamos Lietuvos Respublikos
 
 mokesčių administravimo įstatymo nustatyta tvarka.]
 
-Jeigu prekyvietėje ne žemės ūkio
+Jeigu prekyvietėje
 
-produkcija ir ne maisto prekėmis prekiaujama tose vietose, kurios yra skirtos
+ne žemės ūkio produkcija ir ne maisto prekėmis prekiaujama tose vietose, kurios
 
-prekiauti žemės ūkio produkcija ir maisto prekėmis, įmonei, eksploatuojančiai
+yra skirtos prekiauti žemės ūkio produkcija ir maisto prekėmis, juridiniam
 
-prekyvietę, skiriama 50 procentų jos mėnesinių pajamų už prekyvietės
+asmeniui, eksploatuojančiam prekyvietę, skiriama 50 procentų jo mėnesinių
 
-eksploatavimą dydžio bauda. Baudą skiria ir neginčo tvarka iš įmonės išieško
+pajamų už prekyvietės eksploatavimą dydžio bauda. Baudą skiria ir ne ginčo
 
-valstybinė mokesčių inspekcija.
+tvarka iš juridinio asmens išieško valstybinė mokesčių inspekcija.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. I-1318, 96.04.30, Žin., 1996, Nr. 46-1113 (96.05.17),
+Nr. I-1318, 96.04.30,
 
-įsigalioja nuo 1996.07.01
+Žin., 1996, Nr. 46-1113 (96.05.17), įsigalioja nuo 1996.07.01
 
 Nr. IX-397,
 
 2001-06-26, Žin., 2001, Nr. 62-2214 (2001-07-18), įsigalioja nuo 2001-09-01
+
+Nr. IX-436, 2001-07-10, Žin., 2001, Nr.
+
+62-2234 (2001-07-18)
 
