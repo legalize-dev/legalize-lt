@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2000-11-28"
+last_updated: "2001-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -1218,9 +1218,21 @@ Nr. VIII-1043,
 
 99.02.09, Žin., 1999, Nr.19-507 (99.02.24)
 
+Straipsnio
+
+pavadinimas pakeistas:
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+
+64-2328 (2001-07-25)
+
 22(2)
 
-straipsnis. Kandidato stipendija ir kitos veiklos apribojimai
+straipsnis. Kandidato stipendija, valstybinis socialinis draudimas ir kitos
+
+veiklos
+
+apribojimai
 
 Kandidatui
 
@@ -1232,15 +1244,21 @@ teisme.
 
 Jeigu kandidato
 
-į apylinkės teismo teisėjus sutartis nutraukiama dėl kandidato kaltės, kandidatas
+į apylinkės teismo teisėjus sutartis nutraukiama dėl kandidato kaltės,
 
-privalo Teismų departamentui grąžinti visas šio departamento jam sumokėtas
+kandidatas privalo Teismų departamentui grąžinti visas šio departamento jam
 
-sumas (jeigu sutartyje nenustatyta kitaip).
+sumokėtas sumas (jeigu sutartyje nenustatyta kitaip).
 
 Kandidatui
 
 taikomi tokie pat reikalavimai kaip ir teisėjui.
+
+Kandidatai
+
+draudžiami valstybiniu socialiniu draudimu Lietuvos Respublikos valstybinio
+
+socialinio draudimo įstatyme nustatyta tvarka.
 
 Straipsnio
 
@@ -1251,6 +1269,10 @@ Nr.
 VIII-696,
 
 98.04.08, Žin., 1998, Nr.38-1001 (98.04.22)
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+
+64-2328 (2001-07-25)
 
 22(3)
 
@@ -1586,9 +1608,9 @@ VIII-696,
 
 Teisėjų egzaminai
 
-Teisėjų egzaminus
+Teisėjų
 
-asmenys raštu ir žodžiu laiko tik prieš jų skyrimą teisėjais.
+egzaminus asmenys raštu ir žodžiu laiko tik prieš jų skyrimą teisėjais.
 
 Teisėjų egzaminų
 
@@ -1750,9 +1772,9 @@ posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip pusė Teisėjų tar
 
 narių. Teisėjų tarybos nutarimai priimami atviru balsavimu. Nutarimas laikomas
 
-priimtu, jeigu už jį balsavo dauguma dalyvavusių posėdyje Teisėjų tarybos
+priimtu, jeigu už jį balsavo dauguma dalyvavusių posėdyje Teisėjų tarybos narių.
 
-narių. Balsams pasiskirsčius po lygiai, lemia pirmininko balsas.
+Balsams pasiskirsčius po lygiai, lemia pirmininko balsas.
 
 Teisėjų tarybos
 
@@ -2154,9 +2176,9 @@ VIII-253,
 
 IX skirsnis
 
-TEISMŲ
+TEISMŲ PIRMININKAI,
 
-PIRMININKAI, JŲ PAVADUOTOJAI IR SKYRIŲ PIRMININKAI
+JŲ PAVADUOTOJAI IR SKYRIŲ PIRMININKAI
 
 39 straipsnis.
 
@@ -2172,15 +2194,17 @@ nustatyta tvarka kontroliuoja teisėjų administracinę veiklą ir kaip laikomas
 
 teisėjo etikos, vadovauja teismo raštinės darbui, priima ir atleidžia iš darbo
 
-teismo raštinės tarnautojus bei kitus darbuotojus, taip pat vykdo kitas
+teismo raštinės tarnautojus bei kitus darbuotojus, taip pat vykdo kitas įstatymų
 
-įstatymų jiems nustatytas funkcijas.
+jiems nustatytas funkcijas.
 
 Teismų
 
 pirmininkų pavaduotojai bei skyrių pirmininkai vykdo teisingumą ir atsako už tą
 
-teismų organizacinio darbo sritį, kurią jiems paveda atitinkamų teismų pirmininkai.
+teismų organizacinio darbo sritį, kurią jiems paveda atitinkamų teismų
+
+pirmininkai.
 
 Teismų
 
@@ -2262,11 +2286,11 @@ ir Apeliacinio teismo pirmininkai paskirsto teisėjus į šių teismų skyrius.
 
 Apygardų teismų
 
-pirmininkai asmeniškai ar per jų paskirtus teisėjus kontroliuoja atitinkamo
+pirmininkai asmeniškai ar per jų paskirtus teisėjus kontroliuoja atitinkamo apygardos
 
-apygardos teismo bei jo teritorijoje esančių apylinkės teismų administracinę
+teismo bei jo teritorijoje esančių apylinkės teismų administracinę veiklą ir
 
-veiklą ir kaip laikomasi teisėjo etikos.
+kaip laikomasi teisėjo etikos.
 
 Apeliacinio
 
@@ -2352,9 +2376,9 @@ VIII-696,
 
 X skirsnis
 
-TEISĖJŲ
+TEISĖJŲ SKIRIAMIEJI
 
-SKIRIAMIEJI ŽENKLAI IR PRIESAIKA
+ŽENKLAI IR PRIESAIKA
 
 44 straipsnis.
 
@@ -2700,6 +2724,24 @@ TEISĖJŲ
 
 SOCIALINĖS GARANTIJOS
 
+52
+
+straipsnis. Teisėjų pensijos
+
+Teisėjų pensinį
+
+aprūpinimą reguliuoja Lietuvos Respublikos valstybinių socialinio draudimo
+
+pensijų įstatymas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+
+64-2328 (2001-07-25)
+
 52 straipsnis.
 
 Teisėjų pensijos
@@ -2760,17 +2802,41 @@ VIII-696,
 
 98.04.08, Žin., 1998, Nr.38-1001 (98.04.22)
 
+Straipsnio
+
+pavadinimas pakeistas:
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+
+64-2328 (2001-07-25)
+
 55 straipsnis.
 
-Teisėjų atlyginimai ir kitos socialinės garantijos
+Teisėjų atlyginimai, valstybinis socialinis draudimas ir kitos socialinės
 
-Teisėjų atlyginimus
+garantijos
 
-nustato Lietuvos Respublikos įstatymai.
+Teisėjų
+
+atlyginimus nustato Lietuvos Respublikos įstatymai.
+
+Teisėjai
+
+draudžiami valstybiniu socialiniu draudimu Lietuvos Respublikos valstybinio
+
+socialinio draudimo įstatyme nustatyta tvarka.
 
 Kitas teisėjų
 
 socialines garantijas nustato Lietuvos Respublikos įstatymai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+
+64-2328 (2001-07-25)
 
 XIII skirsnis
 
@@ -2836,9 +2902,9 @@ teismo pirmininką ir kitus teisėjus teisingumo ministro teikimu ir patarus
 
 Teisėjų tarybai, atleidžia iš pareigų Respublikos Prezidentas Seimui pritarus.
 
-**Apeliacinio teismo
+**Apeliacinio
 
-skyrių pirmininkus atleidžia iš pareigų teisingumo ministras Teismų
+teismo skyrių pirmininkus atleidžia iš pareigų teisingumo ministras Teismų
 
 departamento direktoriaus teikimu arba savo iniciatyva.
 
@@ -3068,11 +3134,11 @@ pirmininkams ir kitiems teisėjams drausminę bylą gali iškelti Lietuvos
 
 Aukščiausiojo Teismo pirmininkas, teisingumo ministras Teismų departamento
 
-direktoriaus teikimu ar savo iniciatyva. Respublikos Prezidentas teisingumo ministro
+direktoriaus teikimu ar savo iniciatyva. Respublikos Prezidentas teisingumo
 
-teikimu gali nušalinti teisėją, kuriam iškelta drausmės byla, nuo teisėjo
+ministro teikimu gali nušalinti teisėją, kuriam iškelta drausmės byla, nuo
 
-pareigų, iki paaiškės bylos baigtis.
+teisėjo pareigų, iki paaiškės bylos baigtis.
 
 Aukščiausiojo
 
@@ -3150,9 +3216,9 @@ išteisinti;
 
 drausminės bylos svarstymu;
 
-3) nutraukti
+3) nutraukti drausminę
 
-drausminę bylą, jei praleistas šios bylos iškėlimo terminas;
+bylą, jei praleistas šios bylos iškėlimo terminas;
 
 4) pareikšti jam
 
@@ -4394,9 +4460,9 @@ Teisingumo ministerijos teisės aktais.
 
 Hipotekos
 
-skyrius turi antspaudą su savo pavadinimu bei Lietuvos valstybės herbu ir sąskaitą
+skyrius turi antspaudą su savo pavadinimu bei Lietuvos valstybės herbu ir
 
-banke.
+sąskaitą banke.
 
 Straipsnio
 
@@ -4454,9 +4520,9 @@ hipotekos skyriui pateikiamuose dokumentuose bei dokumentų nuorašų ir jų iš
 
 tikrumą, taip pat atlikti su hipotekos registravimu bei hipotekos registro
 
-tvarkymu, turto arešto aktų registravimu bei turto arešto aktų registro
+tvarkymu, turto arešto aktų registravimu bei turto arešto aktų registro tvarkymu
 
-tvarkymu susijusius veiksmus.
+susijusius veiksmus.
 
 Hipotekos
 
@@ -4510,11 +4576,11 @@ departamentas nustato hipotekos skyrių darbuotojų skaičių, jų darbo užmoke
 
 organizuoja hipotekos skyrių darbuotojų kvalifikacijos kėlimą.
 
-Teismų
+Teismų departamentas
 
-departamentas tikrina hipotekos skyrių ūkinę ir finansinę veiklą teisingumo
+tikrina hipotekos skyrių ūkinę ir finansinę veiklą teisingumo ministro
 
-ministro nustatyta tvarka.
+nustatyta tvarka.
 
 Straipsnio
 
@@ -4902,9 +4968,9 @@ nagrinėjimą;
 
 užtikrinančias efektyvų teismų sprendimų vykdymą;
 
-3) kitas priemones,
+3) kitas
 
-padedančias užtikrinti efektyvią ir geros kokybės teismų (teisėjų)
+priemones, padedančias užtikrinti efektyvią ir geros kokybės teismų (teisėjų)
 
 administracinę veiklą.
 
@@ -4962,9 +5028,9 @@ Nr. VIII-1994, 00.10.10, Žin., 2000,
 
 Nr.92-2847 (00.10.31)
 
-Skelbiu šį
+Skelbiu šį Lietuvos
 
-Lietuvos Respublikos Seimo priimtą įstatymą.
+Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 
@@ -5328,6 +5394,24 @@ Nr. IX-44, 2000 11 28, Žin., 2000, Nr.
 
 TEISMŲ ĮSTATYMO 66 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+
+64-2328 (2001-07-25)
+
+VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO,
+
+KONSTITUCINIO TEISMO ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO
+
+SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE
+
+STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS
+
+KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***Pabaiga***
 
 KONSTITUCINIO TEISMO NUTARIMAI:
@@ -5348,9 +5432,9 @@ KONSTITUCIJAI
 
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000 12 01)
+Redagavo: Angonita Rupšytė (2001-07-25)
 
-autrap@lrs.lt
+anrups@lrs.lt
 
 74 straipsnis.
 
