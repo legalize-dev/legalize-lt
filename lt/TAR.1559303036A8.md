@@ -4,7 +4,7 @@ identifier: "TAR.1559303036A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-08"
-last_updated: "2000-06-29"
+last_updated: "2000-08-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1559303036A8"
 department: "Lietuvos Respublikos Seimas"
@@ -428,6 +428,8 @@ reglamentą.
 
 administracinės išlaidos) iš LRT lėšų.
 
+[9 straipsnio redakcija nuo 2000 m. spalio 1 d.:
+
 10 straipsnis. Tarybos funkcijos, teisės ir
 
 atskaitomybė
@@ -546,9 +548,9 @@ funkcijos, teisės ir atskaitomybė
 
 1. Administracinė komisija sudaroma iš 5 narių.
 
-Administracinės komisijos narius 4 metams skiria Taryba. Administracinės komisijos
+Administracinės komisijos narius 4 metams skiria Taryba. Administracinės
 
-nariais negali būti Seimo, Vyriausybės nariai, politinio (asmeninio)
+komisijos nariais negali būti Seimo, Vyriausybės nariai, politinio (asmeninio)
 
 pasitikėjimo valstybės tarnautojai, asmenys, dirbantys pagal darbo sutartis
 
@@ -656,9 +658,9 @@ transliuojamas programas, taip pat už Tarybos nutarimų įgyvendinimą.
 
 Generalinį direktorių viešo konkurso būdu 5 metams skiria Taryba daugiau kaip
 
-pusės visų Tarybos narių balsų dauguma. Negavus tokio balsų skaičiaus,
+pusės visų Tarybos narių balsų dauguma. Negavus tokio balsų skaičiaus, rengiamas
 
-rengiamas naujas konkursas.
+naujas konkursas.
 
 3. Jeigu asmuo, patvirtintas generaliniu direktoriumi,
 
@@ -802,15 +804,15 @@ eilutėje.
 
 likvidavimas
 
-LRT reorganizuojama ar likviduojama Lietuvos Respublikos
+LRT reorganizuojama ar likviduojama Lietuvos
 
-įstatymu.
+Respublikos įstatymu.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
 įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 
 BRAZAUSKAS
 
@@ -896,9 +898,25 @@ vėliau kaip 2001 m. sausio 31 d.
 
 įsigalioja nuo 2002 m. sausio 1 d.
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1911, 00.08.31, Žin., 2000,
+
+Nr.78-2362 (00.09.15)
+
+LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 9 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja nuo 2000 m. spalio 1 d.
+
 *** Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2000.08.02)
+Aušrinė Trapinskienė (2000.09.15)
 
