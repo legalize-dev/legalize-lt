@@ -4,7 +4,7 @@ identifier: "TAR.DE0B1FF26D01"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2000-05-18"
+last_updated: "2001-02-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01"
 department: "Lietuvos Respublikos Seimas"
@@ -18,11 +18,13 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Įstatymas paskelbtas: Žin., 1995, Nr.26-578
+Įstatymas skelbtas: Žin., 1995,
 
-Nauja
+Nr. 26-578
 
-įstatymo redakcija paskelbta: Žin., 2000, Nr.45-1289
+Nauja įstatymo redakcija skelbta:
+
+Žin., 2000, Nr. 45-1289
 
 Neoficialus įstatymo tekstas
 
@@ -36,889 +38,789 @@ KREDITO UNIJŲ
 
 Vilnius
 
-Nauja
+Nauja įstatymo redakcija:
 
-įstatymo redakcija:
+Nr. VIII-1683, 2000 05 18, Žin., 2000, Nr.
 
-Nr. VIII-1683, 00.05.18, Žin., 2000, Nr.45-1289 (00.06.02)
+45-1289 (2000 06 02)
 
 PIRMASIS
 
 skirsnis
 
-BENDROJI
+BENDROJI DALIS
 
-DALIS
+11 straipsnis. Kredito unijos steigimas ir steigėjai
 
-11 straipsnis. Kredito
+1. Kredito unija steigiama kaupiant jos steigimo
 
-unijos steigimas ir steigėjai
+išlaidų padengimo lėšas iš vienkartinio stojamojo mokesčio įmokų ir pajinį
 
-1. Kredito unija
+kapitalą - iš pajinių įmokų.
 
-steigiama kaupiant jos steigimo išlaidų padengimo lėšas iš vienkartinio
+2. Kredito unijos steigėjai yra fiziniai ar fiziniai
 
-stojamojo mokesčio įmokų ir pajinį kapitalą - iš pajinių įmokų.
+ir juridiniai asmenys, šio įstatymo nustatyta tvarka steigiantys kredito uniją.
 
-2. Kredito unijos
+Kredito unijos steigėjais gali būti ne mažiau kaip 5 Lietuvos Respublikos
 
-steigėjai yra fiziniai ar fiziniai ir juridiniai asmenys, šio įstatymo
+fiziniai asmenys. Kiekvienas kredito unijos steigėjas kartu turi būti ir
 
-nustatyta tvarka steigiantys kredito uniją. Kredito unijos steigėjais gali būti
+besisteigiančios kredito unijos narys.
 
-ne mažiau kaip 5 Lietuvos Respublikos fiziniai asmenys. Kiekvienas kredito
+3. Kartu su fiziniais asmenimis kredito uniją
 
-unijos steigėjas kartu turi būti ir besisteigiančios kredito unijos narys.
+steigiančių juridinių asmenų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, skaičius turi būti mažesnis už steigėjais
 
-3. Kartu su fiziniais
+esančių fizinių asmenų skaičių.
 
-asmenimis kredito uniją steigiančių juridinių asmenų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, skaičius turi būti
+4. Steigėjai sudaro kredito unijos steigimo sutartį,
 
-mažesnis už steigėjais esančių fizinių asmenų skaičių.
+kurioje turi būti nurodyta:
 
-4. Steigėjai sudaro
+1) steigėjai (fizinių asmenų - vardai, pavardės, o
 
-kredito unijos steigimo sutartį, kurioje turi būti nurodyta:
+juridinių asmenų - pavadinimai) ir jų adresai;
 
-1) steigėjai (fizinių
+2) kredito unijos pavadinimas;
 
-asmenų - vardai, pavardės, o juridinių asmenų - pavadinimai) ir jų adresai;
+3) kredito unijos buveinė, kuri turi būti Lietuvos
 
-2) kredito unijos
+Respublikoje;
 
-pavadinimas;
+4) steigėjų teisės ir pareigos steigiant kredito uniją
 
-3) kredito unijos
+bei atsakomybė už įsipareigojimų nevykdymą;
 
-buveinė, kuri turi būti Lietuvos Respublikoje;
+5) minimalaus piniginio pajaus dydis ir šio pajaus
 
-4) steigėjų teisės ir
+įmokėjimo terminai bei laikino naudojimo tvarka kredito unijos steigimo
 
-pareigos steigiant kredito uniją bei atsakomybė už įsipareigojimų nevykdymą;
+laikotarpiu;
 
-5) minimalaus piniginio
+6) stojamasis mokestis, jo įmokėjimo ir naudojimo
 
-pajaus dydis ir šio pajaus įmokėjimo terminai bei laikino naudojimo tvarka
+tvarka;
 
-kredito unijos steigimo laikotarpiu;
+7) ginčų tarp steigėjų sprendimo tvarka.
 
-6) stojamasis mokestis,
+5. Steigimo sutartį pasirašo visi steigėjai. Sutartis
 
-jo įmokėjimo ir naudojimo tvarka;
+turi būti patvirtinta notaro.
 
-7) ginčų tarp steigėjų
+6. Steigimo sutartis, sudaryta šio įstatymo nustatyta
 
-sprendimo tvarka.
+tvarka, yra viešas dokumentas ir suteikia teisę atidaryti lėšų kaupimo sąskaitą
 
-5. Steigimo sutartį
+Lietuvos Respublikoje įregistruotame banke.
 
-pasirašo visi steigėjai. Sutartis turi būti patvirtinta notaro.
+7. Kredito unijos steigėjai parengia kredito unijos
 
-6. Steigimo sutartis,
+įstatus ir pateikia juos tvirtinti steigiamajam susirinkimui. Iki steigiamojo
 
-sudaryta šio įstatymo nustatyta tvarka, yra viešas dokumentas ir suteikia teisę
+susirinkimo steigėjai turi užregistruoti asmenis, įmokėjusius steigiamos
 
-atidaryti lėšų kaupimo sąskaitą Lietuvos Respublikoje įregistruotame banke.
+kredito unijos pajų, pajininkų registre.
 
-7. Kredito unijos
+8. Iki steigiamojo susirinkimo turi būti sukauptas
 
-steigėjai parengia kredito unijos įstatus ir pateikia juos tvirtinti
+minimalus pajinis kapitalas ir apmokėti ne mažiau kaip 50 asmenų pajai.
 
-steigiamajam susirinkimui. Iki steigiamojo susirinkimo steigėjai turi
+9. Iki steigiamojo susirinkimo bet kuris iš
 
-užregistruoti asmenis, įmokėjusius steigiamos kredito unijos pajų, pajininkų
+steigėjų turi teisę sudarinėti sandorius dėl steigiamos kredito unijos. Šie
 
-registre.
+sandoriai kredito unijai sukuria prievoles po to, kai steigiamasis susirinkimas
 
-8. Iki steigiamojo
+juos patvirtina. Jeigu susirinkimas tokių
 
-susirinkimo turi būti sukauptas minimalus pajinis kapitalas ir apmokėti ne
+sandorių nepatvirtina, tai už prievoles, pagrįstas šiais sandoriais, atsako
 
-mažiau kaip 50 asmenų pajai.
+juos sudarę steigėjai. Steigėjo siūlymu kredito unijos steigiamasis
 
-9. Iki steigiamojo
+susirinkimas gali perkelti kredito unijai prievoles, sukurtas sandoriais,
 
-susirinkimo bet kuris iš steigėjų turi teisę sudarinėti sandorius dėl
+kuriuos steigėjas sudarė savo vardu, ir
 
-steigiamos kredito unijos. Šie sandoriai kredito unijai sukuria prievoles po
+atlyginti steigėjams kredito unijos steigimo išlaidas.
 
-to, kai steigiamasis susirinkimas juos
+1 straipsnis. Įstatymo paskirtis
 
-patvirtina. Jeigu susirinkimas tokių sandorių nepatvirtina, tai už prievoles,
+Šis įstatymas nustato kredito unijų veiklos pagrindus,
 
-pagrįstas šiais sandoriais, atsako juos sudarę steigėjai. Steigėjo siūlymu
+narystės kredito unijoje sąlygas bei savivaldos principus, kredito unijų
 
-kredito unijos steigiamasis susirinkimas gali perkelti kredito unijai
+steigimą, veiklą, reorganizavimą ir likvidavimą, valdymą bei veiklos priežiūrą,
 
-prievoles, sukurtas sandoriais, kuriuos
+jos narių teises ir pareigas. Šiuo įstatymu atkuriama kooperatinio kredito
 
-steigėjas sudarė savo vardu, ir atlyginti steigėjams kredito unijos steigimo
+sistema bei siekiama paspartinti jos plėtrą Lietuvoje.
 
-išlaidas.
+2 straipsnis.
 
-1 straipsnis. Įstatymo
+Pagrindinės šio įstatymo sąvokos
 
-paskirtis
+1. Kredito unija - kooperatiniais pagrindais
 
-Šis įstatymas nustato
+suorganizuota, fizinių asmenų ar fizinių asmenų kartu su Lietuvos Respublikoje
 
-kredito unijų veiklos pagrindus, narystės kredito unijoje sąlygas bei
+įregistruotomis visuomeninėmis organizacijomis, profesinių sąjungų
 
-savivaldos principus, kredito unijų steigimą, veiklą, reorganizavimą ir
+organizacijomis, religinėmis bendruomenėmis ir bendrijomis, žemės ūkio
 
-likvidavimą, valdymą bei veiklos priežiūrą, jos narių teises ir pareigas. Šiuo
+kooperatyvais savanoriškai įsteigta ir šio įstatymo nustatyta tvarka
 
-įstatymu atkuriama kooperatinio kredito sistema bei siekiama paspartinti jos
+įregistruota kredito įstaiga, telkianti savo narių ir savo asocijuotų narių
 
-plėtrą Lietuvoje.
+(toliau - narių) ir klientų pinigus narių ūkiniams bei socialiniams poreikiams,
 
-2 straipsnis. Pagrindinės šio įstatymo
+numatytiems kredito unijos įstatuose, tenkinti savitarpio paskolų teikimo būdu
 
-sąvokos
+ir prisiimanti su tuo susijusią riziką bei atsakomybę.
 
-1. Kredito unija -
+2. Kredito unijos nario pajus (toliau - pajus)
 
-kooperatiniais pagrindais suorganizuota, fizinių asmenų ar fizinių asmenų kartu
+- vieno kredito unijos nario piniginė įmoka į kredito unijos pajinį kapitalą.
 
-su Lietuvos Respublikoje įregistruotomis visuomeninėmis organizacijomis,
+3. Savitarpio paskolos - iš kredito unijoje
 
-profesinių sąjungų organizacijomis, religinėmis bendruomenėmis ir bendrijomis,
+sukauptų pinigų savo nariams duodamos ilgalaikės ir trumpalaikės paskolos, už
 
-žemės ūkio kooperatyvais savanoriškai įsteigta ir šio įstatymo nustatyta
+kurias imamos kredito unijos valdybos nutarimu nustatyto dydžio palūkanos.
 
-tvarka įregistruota kredito įstaiga, telkianti savo narių ir savo asocijuotų
+4. Centrinė kredito unija - kooperatiniais
 
-narių (toliau - narių) ir klientų pinigus narių ūkiniams bei socialiniams
+pagrindais suorganizuota, juridinių asmenų kredito unijų ir Lietuvos
 
-poreikiams, numatytiems kredito unijos įstatuose, tenkinti savitarpio paskolų
+Respublikos Vyriausybės ar jos įgaliotos institucijos įsteigta ir Centrinės
 
-teikimo būdu ir prisiimanti su tuo susijusią riziką bei atsakomybę.
+kredito unijos įstatymo nustatyta tvarka įregistruota kredito įstaiga,
 
-2. Kredito unijos
+veikianti kaip kooperatinė bendrovė. Centrinė kredito unija atlieka kredito
 
-nario pajus (toliau - pajus) - vieno kredito unijos nario piniginė
+unijų likvidumo palaikymo ir mokumo atkūrimo funkcijas, priima indėlius bei
 
-įmoka į kredito unijos pajinį kapitalą.
+kitas grąžintinas lėšas ir teikia paskolas bei prisiima su tuo susijusią riziką
 
-3. Savitarpio paskolos
+ir atsakomybę, taip pat, atlikdama Centrinės kredito unijos įstatymo jai
 
-- iš kredito unijoje sukauptų pinigų savo nariams duodamos ilgalaikės ir
+nustatytas funkcijas bei operacijas, verčiasi kita įstatymo nustatyta veikla.
 
-trumpalaikės paskolos, už kurias imamos kredito unijos valdybos nutarimu
+5.
 
-nustatyto dydžio palūkanos.
+Sutrikęs kredito unijos likvidumas - būklė, kai kredito unijos
 
-4. Centrinė kredito
+likvidumas pasidaro mažesnis už nustatytą likvidumo normatyvą ir kai kredito
 
-unija - kooperatiniais pagrindais suorganizuota, juridinių asmenų kredito
+unijos turto ir įsipareigojimų sudėtis pagal terminus artimiausiems mėnesiams
 
-unijų ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
+iš dalies yra nesubalansuota ir gali sutrikdyti įvykdyti įsipareigojimus.
 
-įsteigta ir Centrinės kredito unijos įstatymo nustatyta tvarka įregistruota
+6. Sutrikęs kredito unijos mokumas -
 
-kredito įstaiga, veikianti kaip kooperatinė bendrovė. Centrinė kredito unija
+būklė, kai kredito unija nevykdo kapitalo pakankamumo normatyvo, taip pat kai
 
-atlieka kredito unijų likvidumo palaikymo ir mokumo atkūrimo funkcijas, priima
+yra požymių, kad kredito unijos turtas (grynąja verte) gali tapti mažesnis už
 
-indėlius bei kitas grąžintinas lėšas ir teikia paskolas bei prisiima su tuo
+jos balansinius ir nebalansinius įsipareigojimus.
 
-susijusią riziką ir atsakomybę, taip pat, atlikdama Centrinės kredito unijos
+7. Stabilizacijos fondas - Centrinės kredito
 
-įstatymo jai nustatytas funkcijas bei operacijas, verčiasi kita įstatymo
+unijos įstatymo nustatytu būdu sudarytas fondas, skirtas kredito unijų veiklos
 
-nustatyta veikla.
+stabilumui bei tęstinumui užtikrinti ir veikiantis kaip paskutinis skolinimosi
 
-5. Sutrikęs kredito unijos likvidumas
+šaltinis kredito unijos sutrikusiam mokumui atkurti.
 
-- būklė, kai kredito unijos likvidumas pasidaro mažesnis už nustatytą
+3 straipsnis. Kredito unijos statusas
 
-likvidumo normatyvą ir kai kredito unijos turto ir įsipareigojimų sudėtis pagal
+1. Kredito unija yra juridinis asmuo nuo jos
 
-terminus artimiausiems mėnesiams iš dalies yra nesubalansuota ir gali
+įregistravimo šio įstatymo nustatyta tvarka
 
-sutrikdyti įvykdyti įsipareigojimus.
+ir veikia pagal šį įstatymą, kitus Lietuvos Respublikos įstatymus bei teisės
 
-6. Sutrikęs kredito
+aktus ir savo įstatus.
 
-unijos mokumas - būklė, kai kredito unija nevykdo kapitalo
+2. Kredito unija turi savo turtą, gali savo vardu
 
-pakankamumo normatyvo, taip pat kai yra požymių, kad kredito unijos turtas
+įgyti turtines bei neturtines teises ir turėti pareigas, būti ieškovė ir atsakovė
 
-(grynąja verte) gali tapti mažesnis už jos balansinius ir nebalansinius
+teisme arba trečiųjų teisme (arbitraže).
 
-įsipareigojimus.
+3. Kredito unija gali būti steigiama tik neribotam
 
-7. Stabilizacijos
+laikui.
 
-fondas - Centrinės kredito unijos įstatymo nustatytu būdu sudarytas fondas,
+4. Kredito unija pagal savo prievoles atsako tik savo
 
-skirtas kredito unijų veiklos stabilumui bei tęstinumui užtikrinti ir
+turimu turtu ir neatsako už savo narių prievoles, nesusijusias su kredito
 
-veikiantis kaip paskutinis skolinimosi šaltinis kredito unijos sutrikusiam
+unijos veikla. Kredito unijos nariai pagal kredito unijos prievoles atsako tik
 
-mokumui atkurti.
+savo pajumi arba ta suma, kurią privalo įmokėti už savo pajų.
 
-3 straipsnis. Kredito
+5. Kredito unija neatsako už valstybės prievoles, o
 
-unijos statusas
+valstybė neatsako už kredito unijos prievoles, išskyrus atvejus, kai valstybė
 
-1. Kredito unija yra
+pati prisiima tokius įsipareigojimus.
 
-juridinis asmuo nuo jos įregistravimo šio įstatymo nustatyta tvarka ir veikia
+4 straipsnis. Kredito unijos nuosavybė
 
-pagal šį įstatymą, kitus Lietuvos Respublikos įstatymus bei teisės aktus ir savo įstatus.
+Kredito unijos turtas, sukauptas iš jos narių pajų,
 
-2. Kredito unija turi
+stojamųjų mokesčių bei savo veiklos, nuosavybės teise priklauso kredito unijai.
 
-savo turtą, gali savo vardu įgyti turtines bei neturtines teises ir turėti
+5 straipsnis. Kredito unijos pavadinimas
 
-pareigas, būti ieškovė ir atsakovė teisme arba trečiųjų teisme (arbitraže).
+1. Kredito unija privalo įregistruoti savo pavadinimą
 
-3. Kredito unija gali
+Lietuvos Respublikos teisės aktų nustatyta tvarka.
 
-būti steigiama tik neribotam laikui.
+2. Kredito unijos pavadinime turi būti žodžiai
 
-4. Kredito unija pagal
+„kredito unija“. Pavadinimo registravimo ir dėl to kilusių ginčų sprendimo
 
-savo prievoles atsako tik savo turimu turtu ir neatsako už savo narių
+tvarką nustato Lietuvos Respublikos teisės aktai.
 
-prievoles, nesusijusias su kredito unijos veikla. Kredito unijos nariai pagal
+3. Kredito unija negali pasirinkti tokio pavadinimo,
 
-kredito unijos prievoles atsako tik savo pajumi arba ta suma, kurią privalo
+kuris tiksliai sutaptų su kitos kredito unijos ar komercinio banko,
 
-įmokėti už savo pajų.
+įregistruotų Lietuvos Respublikoje, pavadinimu arba būtų toks panašus, kad
 
-5. Kredito unija neatsako
+sukeltų painiavą.
 
-už valstybės prievoles, o valstybė neatsako už kredito unijos prievoles,
+6 straipsnis. Kitų įstatymų ir teisės aktų taikymas
 
-išskyrus atvejus, kai valstybė pati prisiima tokius įsipareigojimus.
+kredito unijų veiklai
 
-4 straipsnis. Kredito
+1. Kredito unijų stojimą į Centrinę kredito uniją
 
-unijos nuosavybė
-
-Kredito unijos turtas,
-
-sukauptas iš jos narių pajų, stojamųjų mokesčių bei savo veiklos, nuosavybės
-
-teise priklauso kredito unijai.
-
-5 straipsnis. Kredito
-
-unijos pavadinimas
-
-1. Kredito unija privalo
-
-įregistruoti savo pavadinimą Lietuvos Respublikos teisės aktų nustatyta tvarka.
-
-2. Kredito unijos
-
-pavadinime turi būti žodžiai „kredito unija“. Pavadinimo registravimo ir dėl to
-
-kilusių ginčų sprendimo tvarką nustato Lietuvos Respublikos teisės aktai.
-
-3. Kredito unija negali
-
-pasirinkti tokio pavadinimo, kuris tiksliai sutaptų su kitos kredito unijos ar
-
-komercinio banko, įregistruotų Lietuvos Respublikoje, pavadinimu arba būtų toks
-
-panašus, kad sukeltų painiavą.
-
-6 straipsnis. Kitų
-
-įstatymų ir teisės aktų taikymas kredito unijų veiklai
-
-1. Kredito unijų
-
-stojimą į Centrinę kredito uniją bei
-
-dalyvavimą jos veikloje nustato Centrinės kredito unijos įstatymas, šis
+bei dalyvavimą jos veikloje nustato Centrinės kredito unijos įstatymas, šis
 
 įstatymas, kiti įstatymai ir teisės aktai, taip pat Centrinės kredito unijos
 
 įstatai.
 
-2. Įstatymų ir kitų
+2. Įstatymų ir kitų teisės aktų nuostatos, kurios
 
-teisės aktų nuostatos, kurios reglamentuoja bankų paskolas, kredito unijos
+reglamentuoja bankų paskolas, kredito unijos nariams duodamų savitarpio paskolų
 
-nariams duodamų savitarpio paskolų santykiams taikomos tik tiek, kiek
-
-neprieštarauja šio įstatymo nuostatoms.
+santykiams taikomos tik tiek, kiek neprieštarauja šio įstatymo nuostatoms.
 
 ANTRASIS
 
 skirsnis
 
-KREDITO
+KREDITO UNIJŲ VEIKLA, KREDITO
 
-UNIJŲ VEIKLA, KREDITO UNIJOS TEISĖS IR PAREIGOS
+UNIJOS TEISĖS IR PAREIGOS
 
-7 straipsnis. Kredito
-
-unijų veikla
+7 straipsnis. Kredito unijų veikla
 
 1. Kredito unijos:
 
-1) priima iš savo narių,
+1) priima iš savo narių, kredito unijų asociacijų,
 
-kredito unijų asociacijų, Lietuvos Respublikoje įregistruotų visuomeninių
+Lietuvos Respublikoje įregistruotų visuomeninių organizacijų, religinių
 
-organizacijų, religinių bendruomenių, profesinių sąjungų organizacijų, labdaros
+bendruomenių, profesinių sąjungų organizacijų, labdaros ir paramos fondų,
 
-ir paramos fondų, Lietuvos Respublikos Vyriausybės ir (ar) savivaldybių įgaliotų
+Lietuvos Respublikos Vyriausybės ir (ar) savivaldybių įgaliotų institucijų,
 
-institucijų, tarptautinių ir (ar) užsienio valstybių labdaros (paramos) fondų,
+tarptautinių ir (ar) užsienio valstybių labdaros (paramos) fondų, taip pat, iki
 
-taip pat, iki kredito unija įstos į Centrinę kredito uniją, ir iš kitų kredito
+kredito unija įstos į Centrinę kredito uniją, ir iš kitų kredito unijų, nesančių
 
-unijų, nesančių Centrinės kredito unijos narėmis, terminuotus ir neterminuotus
+Centrinės kredito unijos narėmis, terminuotus ir neterminuotus indėlius;
 
-indėlius;
+2) duoda savo nariams tik kredito unijos įstatuose numatytai paskirčiai
 
-2) duoda savo nariams tik kredito
-
-unijos įstatuose numatytai paskirčiai ilgalaikes ir trumpalaikes savitarpio
-
-paskolas;
+ilgalaikes ir trumpalaikes savitarpio paskolas;
 
 3) diskontuoja, inkasuoja vekselius;
 
-4) iki kredito unija įstos į Centrinę
+4) iki kredito unija įstos į Centrinę kredito uniją, skolina pinigus
 
-kredito uniją, skolina pinigus kitoms kredito unijoms, nesančioms Centrinės
+kitoms kredito unijoms, nesančioms Centrinės kredito unijos narėmis, ar kredito
 
-kredito unijos narėmis, ar kredito unijų asociacijai arba skolinasi pinigų iš
+unijų asociacijai arba skolinasi pinigų iš kitų kredito unijų, nesančių
 
-kitų kredito unijų, nesančių Centrinės kredito unijos narėmis, ar kredito unijų
+Centrinės kredito unijos narėmis, ar kredito unijų asociacijos šio įstatymo 9
 
-asociacijos šio įstatymo 9 straipsnio 4 dalyje numatytomis sąlygomis;
+straipsnio 4 dalyje numatytomis sąlygomis;
 
-5) investuoja laisvas kredito unijos
+5) investuoja laisvas kredito unijos lėšas į valstybės bei Lietuvos
 
-lėšas į valstybės bei Lietuvos banko išleidžiamus vertybinius popierius, jei
+banko išleidžiamus vertybinius popierius, jei tokia veikla numatyta kredito
 
-tokia veikla numatyta kredito unijos įstatuose;
+unijos įstatuose;
 
-6) užsiima kita kredito
+6) užsiima kita kredito įstaigoms būdinga veikla.
 
-įstaigoms būdinga veikla.
+2. Šiame straipsnyje nustatytas operacijas bei veiklą,
 
-2. Šiame straipsnyje
+jei joms kredito unija yra gavusi priežiūros institucijos licenciją, gali
 
-nustatytas operacijas bei veiklą, jei joms kredito unija yra gavusi priežiūros
+atlikti tik šio įstatymo nustatyta tvarka įregistruota kredito unija.
 
-institucijos licenciją, gali atlikti tik šio įstatymo nustatyta tvarka
+8 straipsnis. Kredito unijos teisės ir pareigos
 
-įregistruota kredito unija.
+1. Kredito unija
 
-8 straipsnis. Kredito
+gali:
 
-unijos teisės ir pareigos
+1) verstis šio
 
-1.
+įstatymo 7 straipsnyje nustatyta veikla;
 
-Kredito unija gali:
+2) turėti
 
-1)
+atsiskaitomųjų ir valiutinių sąskaitų Centrinėje kredito unijoje ir bankuose
 
-verstis šio įstatymo 7 straipsnyje nustatyta veikla;
+nacionaline bei užsienio valiuta;
 
-2)
+3) turėti savo
 
-turėti atsiskaitomųjų ir valiutinių sąskaitų Centrinėje kredito unijoje ir
+antspaudą ir jį keisti bei naudoti savo nuožiūra;
 
-bankuose nacionaline bei užsienio valiuta;
+4) pirkti ar
 
-3)
+kitais būdais įgyti savo veiklai turtą, taip pat jį parduoti, išnuomoti,
 
-turėti savo antspaudą ir jį keisti bei naudoti savo nuožiūra;
+įkeisti ar kitaip juo disponuoti;
 
-4)
+5) sudaryti
 
-pirkti ar kitais būdais įgyti savo veiklai turtą, taip pat jį parduoti,
+sandorius ir prisiimti įsipareigojimus;
 
-išnuomoti, įkeisti ar kitaip juo disponuoti;
+6) mokėti
 
-5)
+tantjemas kredito unijos valdymo organų nariams bei vadovams;
 
-sudaryti sandorius ir prisiimti įsipareigojimus;
+7) nustatyti
 
-6)
+atlyginimo už teikiamas paslaugas dydžius ir teikiamų paslaugų savo nariams bei
 
-mokėti tantjemas kredito unijos valdymo organų nariams bei vadovams;
+asocijuotiems nariams lengvatines sąlygas (privilegijas);
 
-7)
+8) nustatyti
 
-nustatyti atlyginimo už teikiamas paslaugas dydžius ir teikiamų paslaugų savo
+savo organizacinę struktūrą;
 
-nariams bei asocijuotiems nariams lengvatines sąlygas (privilegijas);
+9) būti
 
-8)
-
-nustatyti savo organizacinę struktūrą;
-
-9)
-
-būti Centrinės kredito unijos steigėja bei nare;
+Centrinės kredito unijos steigėja bei nare;
 
 10)
 
 reorganizuotis ar likviduotis šio įstatymo nustatyta tvarka.
 
-2.
+2. Kredito unija
 
-Kredito unija gali turėti ir kitų šio įstatymo nenustatytų civilinių teisių,
+gali turėti ir kitų šio įstatymo nenustatytų civilinių teisių, jeigu jos
 
-jeigu jos neprieštarauja šio įstatymo nuostatoms ir kitiems Lietuvos
+neprieštarauja šio įstatymo nuostatoms ir kitiems Lietuvos Respublikos
 
-Respublikos įstatymams.
+įstatymams.
 
-3.
+3. Kredito
 
-Kredito unijai tapus Centrinės kredito unijos nare, jos teises bei pareigas
+unijai tapus Centrinės kredito unijos nare, jos teises bei pareigas taip pat
 
-taip pat reglamentuoja Centrinės kredito unijos įstatymas.
+reglamentuoja Centrinės kredito unijos įstatymas.
 
-4.
+4. Kredito unija
 
-Kredito unija privalo laikytis šio įstatymo nuostatų ir savo įstatų, Lietuvos
+privalo laikytis šio įstatymo nuostatų ir savo įstatų, Lietuvos Respublikos
 
-Respublikos įstatymų, sudaryti sąlygas savo nariams naudotis jiems
+įstatymų, sudaryti sąlygas savo nariams naudotis jiems priklausančiomis
 
-priklausančiomis teisėmis, laiku ir tinkamai vykdyti įsipareigojimus kredito
+teisėmis, laiku ir tinkamai vykdyti įsipareigojimus kredito unijos nariams ir
 
-unijos nariams ir tretiesiems asmenims.
+tretiesiems asmenims.
 
-5.
+5. Kredito unija
 
-Kredito unija privalo nustatyti savo paslapčių saugojimo tvarką.
+privalo nustatyti savo paslapčių saugojimo tvarką.
 
-9 straipsnis.
+9 straipsnis. Savitarpio paskolos paskirtis, dydis ir
 
-Savitarpio paskolos paskirtis, dydis ir grąžinimo užtikrinimas
+grąžinimo užtikrinimas
 
-1. Kredito unija duoda
+1. Kredito unija duoda savo nariui ilgalaikę ar
 
-savo nariui ilgalaikę ar trumpalaikę paskolą kilnojamajam ar
+trumpalaikę paskolą kilnojamajam ar nekilnojamajam turtui, buičiai
 
-nekilnojamajam turtui, buičiai reikalingiems daiktams įsigyti, buities
+reikalingiems daiktams įsigyti, buities paslaugoms apmokėti, narių ūkinei,
 
-paslaugoms apmokėti, narių ūkinei, profesinei veiklai ar smulkiam ir vidutiniam
+profesinei veiklai ar smulkiam ir vidutiniam verslui pradėti ir plėtoti bei
 
-verslui pradėti ir plėtoti bei kitai tikslinei paskirčiai, kuri yra numatyta
+kitai tikslinei paskirčiai, kuri yra numatyta kredito unijos įstatuose.
 
-kredito unijos įstatuose.
+2. Vienam kredito unijos nariui leidžiamų duoti
 
-2. Vienam kredito
+savitarpio paskolų suma negali viršyti dešimteriopo to nario pajaus dydžio bei
 
-unijos nariui leidžiamų duoti savitarpio paskolų suma negali viršyti
+10 procentų kredito unijoje sukauptų indėlių
 
-dešimteriopo to nario pajaus dydžio bei 10 procentų kredito unijoje sukauptų
+ir kredito unijos paimtų paskolų sumos, nustatytos paskutinio kredito unijos
 
-indėlių ir kredito unijos paimtų paskolų sumos, nustatytos paskutinio kredito unijos buhalterinio balanso pagrindu.
+buhalterinio balanso pagrindu.
 
-3. Šio straipsnio 2 dalyje nurodytas apribojimas, kad
+3. Šio
 
-savitarpio paskolos suma negali viršyti dešimteriopos to nario pajinės įmokos
+straipsnio 2 dalyje nurodytas apribojimas, kad savitarpio paskolos suma negali
 
-sumos, netaikomas kredito unijos nariui, kai paskolos išduodamos jo lavinimuisi
+viršyti dešimteriopos to nario pajinės įmokos sumos, netaikomas kredito unijos
 
-apmokėti (išlaidoms už mokymąsi aukštosiose, specializuotose mokyklose,
+nariui, kai paskolos išduodamos jo lavinimuisi apmokėti (išlaidoms už mokymąsi
 
-kursuose ir pan.) ir kai paskola yra garantuota įkeičiant kredito unijoje
+aukštosiose, specializuotose mokyklose, kursuose ir pan.) ir kai paskola yra
 
-esantį terminuotą indėlį.
+garantuota įkeičiant kredito unijoje esantį terminuotą indėlį.
 
-4. Paskola turi būti
+4. Paskola turi būti garantuota bent viena Lietuvos
 
-garantuota bent viena Lietuvos Respublikos civilinio kodekso numatyta prievolių
+Respublikos civilinio kodekso numatyta prievolių užtikrinimo priemone:
 
-užtikrinimo priemone: įkeitimu, hipoteka, laidavimu ar garantija.
+įkeitimu, hipoteka, laidavimu ar garantija.
 
-5. Kredito unija gali
+5. Kredito unija gali suteikti savo nariui
 
-suteikti savo nariui trumpalaikes paskolas, nereikalaudama jų grąžinimo
+trumpalaikes paskolas, nereikalaudama jų grąžinimo garantuoti šio straipsnio 4
 
-garantuoti šio straipsnio 4 dalyje numatytomis priemonėmis, jei nario prašoma
+dalyje numatytomis priemonėmis, jei nario prašoma paskola (paskolos) ir
 
-paskola (paskolos) ir palūkanos neviršija jo pajaus kredito unijoje dydžio.
+palūkanos neviršija jo pajaus kredito unijoje dydžio. Nariui draudžiama
 
-Nariui draudžiama disponuoti pajumi ar jo dalimi, ne mažesne už minėtą paskolą
+disponuoti pajumi ar jo dalimi, ne mažesne už minėtą paskolą ir palūkanas tol,
 
-ir palūkanas tol, kol tokia paskola ir palūkanos bus grąžintos.
+kol tokia paskola ir palūkanos bus grąžintos.
 
-10 straipsnis. Indėlių
+10 straipsnis. Indėlių draudimas ir kitos indėlių
 
-draudimas ir kitos indėlių saugumo garantijos
+saugumo garantijos
 
-1. Gyventojų indėliai
+1. Indėliai kredito unijose yra privalomai draudžiami
 
-kredito unijose yra privalomai draudžiami Lietuvos Respublikos gyventojų
+Lietuvos Respublikos indėlių draudimo įstatymo nustatyta tvarka.
 
-indėlių draudimo įstatymo nustatyta tvarka.
+2. Indėlių saugumo garantija taip pat yra kredito unijų narystė Centrinėje kredito unijoje,
 
-2. Indėlių saugumo
+kuri atlieka savo narių kredito unijų likvidumo palaikymo ir sutrikusio mokumo
 
-garantija taip pat yra kredito unijų narystė Centrinėje kredito unijoje, kuri atlieka savo narių kredito unijų
+atkūrimo funkcijas.
 
-likvidumo palaikymo ir sutrikusio mokumo atkūrimo funkcijas.
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-194, 2001 02 27, Žin., 2001, Nr.
+
+23-762 (2001 03 16)
 
 TREČIASIS
 
 skirsnis
 
-KREDITO
+KREDITO UNIJOS STEIGIMAS
 
-UNIJOS STEIGIMAS
+12 straipsnis. Kredito unijos steigiamasis
 
-12 straipsnis. Kredito
+susirinkimas
 
-unijos steigiamasis susirinkimas
+1. Kredito unijos steigėjai privalo sušaukti
 
-1. Kredito unijos
+steigiamąjį susirinkimą ne vėliau kaip per 60 dienų nuo steigimo sutarties
 
-steigėjai privalo sušaukti steigiamąjį susirinkimą ne vėliau kaip per 60 dienų
+notarinio patvirtinimo.
 
-nuo steigimo sutarties notarinio patvirtinimo.
+2. Steigiamasis susirinkimas:
 
-2. Steigiamasis
+1) svarsto ir tvirtina kredito unijos įstatus;
 
-susirinkimas:
+2) renka pirmajai kadencijai kredito unijos valdymo
 
-1) svarsto ir tvirtina
+organų narius ir revizorių, bet ne ilgiau kaip dvejiems finansiniams-ūkiniams
 
-kredito unijos įstatus;
+metams;
 
-2) renka pirmajai
+3) tvirtina steigimo ataskaitą;
 
-kadencijai kredito unijos valdymo organų narius ir revizorių, bet ne ilgiau
+4) tvirtina kredito unijos steigėjų sudarytus
 
-kaip dvejiems finansiniams-ūkiniams metams;
+sandorius;
 
-3) tvirtina steigimo
+5) sprendžia kitus visuotinio susirinkimo
 
-ataskaitą;
+kompetencijos klausimus.
 
-4) tvirtina kredito
+3. Steigiamajame susirinkime turi dalyvauti ne mažiau
 
-unijos steigėjų sudarytus sandorius;
+kaip 2/3 pajininkų registre įregistruotų asmenų. Steigėjų dalyvavimas yra
 
-5) sprendžia kitus
+būtinas.
 
-visuotinio susirinkimo kompetencijos klausimus.
+4. Steigiamajam susirinkimui pirmininkauja kuris nors
 
-3. Steigiamajame
+steigėjas arba steigiamojo susirinkimo išrinktas pirmininkas.
 
-susirinkime turi dalyvauti ne mažiau kaip 2/3 pajininkų registre įregistruotų
+5. Steigiamajame susirinkime turi būti rašomas
 
-asmenų. Steigėjų dalyvavimas yra būtinas.
+protokolas, kuriame turi būti nurodyta: susirinkime dalyvavusių asmenų skaičius,
 
-4. Steigiamajam
+visi svarstyti klausimai ir priimti nutarimai. Protokolą pasirašo pirmininkas,
 
-susirinkimui pirmininkauja kuris nors steigėjas arba steigiamojo susirinkimo
+sekretorius ir vienas susirinkimo įgaliotas pajininkas. Prie susirinkimo
 
-išrinktas pirmininkas.
+protokolo turi būti pridedamas visų steigiamos kredito unijos pajininkų
 
-5. Steigiamajame
+sąrašas.
 
-susirinkime turi būti rašomas protokolas, kuriame turi būti nurodyta: susirinkime
+6. Steigėjai ne vėliau kaip per 7 dienas nuo
 
-dalyvavusių asmenų skaičius, visi svarstyti klausimai ir priimti nutarimai.
+steigiamojo susirinkimo dienos privalo perduoti išrinktai valdybai kredito
 
-Protokolą pasirašo pirmininkas, sekretorius ir vienas susirinkimo įgaliotas
+unijos steigimo dokumentus ir įgytą turtą.
 
-pajininkas. Prie susirinkimo protokolo turi būti pridedamas visų steigiamos
+7. Jeigu kredito unijos steigėjai per 60 dienų nuo
 
-kredito unijos pajininkų sąrašas.
+steigimo sutarties notarinio patvirtinimo nesušaukia kredito unijos steigiamojo
 
-6. Steigėjai ne vėliau
+susirinkimo, tai visi pajininkai atleidžiami nuo įsipareigojimų kredito unijai
 
-kaip per 7 dienas nuo steigiamojo susirinkimo dienos privalo perduoti išrinktai
+ir turi teisę reikalauti, kad steigėjai grąžintų visas jų įmokas be jokių
 
-valdybai kredito unijos steigimo dokumentus ir įgytą turtą.
+atskaitymų.
 
-7. Jeigu kredito unijos
+13 straipsnis. Steigimo ataskaita
 
-steigėjai per 60 dienų nuo steigimo sutarties notarinio patvirtinimo nesušaukia
+Kredito unijos steigėjai privalo parengti steigimo
 
-kredito unijos steigiamojo susirinkimo, tai visi pajininkai atleidžiami nuo
+ataskaitą ir pateikti ją tvirtinti steigiamajam susirinkimui. Ataskaitoje turi
 
-įsipareigojimų kredito unijai ir turi teisę reikalauti, kad steigėjai grąžintų
-
-visas jų įmokas be jokių atskaitymų.
-
-13 straipsnis.
-
-Steigimo ataskaita
-
-Kredito unijos steigėjai
-
-privalo parengti steigimo ataskaitą ir pateikti ją tvirtinti steigiamajam
-
-susirinkimui. Ataskaitoje turi būti nurodyta:
+būti nurodyta:
 
 1) steigimo išlaidos;
 
-2) išplatintų pajų
+2) išplatintų pajų skaičius ir už juos gauta pinigų
 
-skaičius ir už juos gauta pinigų suma;
+suma;
 
-3) pajų, kuriuos įmokėjo
+3) pajų, kuriuos įmokėjo kiekvienas steigėjas, dydis;
 
-kiekvienas steigėjas, dydis;
+4) sandoriai, kuriais pagrįstas prievoles steigėjai
 
-4) sandoriai, kuriais
+perduoda kredito unijai;
 
-pagrįstas prievoles steigėjai perduoda kredito unijai;
+5) steigimo išlaidoms padengti išmokėto atlyginimo
 
-5) steigimo išlaidoms
+dydis.
 
-padengti išmokėto atlyginimo dydis.
+14 straipsnis. Kredito unijos įstatai
 
-14 straipsnis. Kredito
+1. Įstatai yra teisinis dokumentas, kuriuo vadovaujasi
 
-unijos įstatai
+kredito unija savo veikloje.
 
-1. Įstatai yra teisinis
+2. Įstatuose turi būti nurodyta:
 
-dokumentas, kuriuo vadovaujasi kredito unija savo veikloje.
-
-2. Įstatuose turi būti
-
-nurodyta:
-
-1) kredito unijos
-
-pavadinimas;
+1) kredito unijos pavadinimas;
 
 2) buveinės adresas;
 
-3) susijungimo į kredito uniją
+3)
 
-kriterijus;
+susijungimo į kredito uniją kriterijus;
 
-4) veiklos pobūdis
+4) veiklos pobūdis (atliekamos operacijos, teikiamų
 
-(atliekamos operacijos, teikiamų paslaugų rūšys);
+paslaugų rūšys);
 
-5) narių teisės, pareigos
+5) narių teisės, pareigos ir atsakomybė;
 
-ir atsakomybė;
+6) priėmimo į kredito uniją, išstojimo ir pašalinimo
 
-6) priėmimo į kredito
+iš jos pagrindai ir tvarka;
 
-uniją, išstojimo ir pašalinimo iš jos pagrindai ir tvarka;
+7) minimalus pajus, kurį turi įmokėti narys,
 
-7) minimalus pajus,
+pajaus įmokėjimo ir jo perdavimo kitų asmenų nuosavybėn tvarka. Kredito unijos
 
-kurį turi įmokėti narys, pajaus įmokėjimo ir jo perdavimo kitų asmenų
+įstatuose gali būti nustatytas ir maksimalus pajus, kurį leidžiama įmokėti vienam nariui;
 
-nuosavybėn tvarka. Kredito unijos įstatuose gali būti nustatytas ir maksimalus
+8) kredito unijos lėšų panaudojimas Centrinės kredito
 
-pajus, kurį leidžiama įmokėti vienam nariui;
+unijos pajams įsigyti;
 
-8) kredito unijos lėšų
+9) narių visuotinių susirinkimų kompetencija, jų
 
-panaudojimas Centrinės kredito unijos pajams įsigyti;
+šaukimo bei balsavimo juose tvarka;
 
-9) narių visuotinių
+10) stebėtojų tarybos, valdybos, paskolų komiteto ir
 
-susirinkimų kompetencija, jų šaukimo bei balsavimo juose tvarka;
+revizoriaus rinkimo tvarka ir jų kompetencija;
 
-10) stebėtojų tarybos,
+11) kapitalų sudėtis, priklausomybė ir formavimas
 
-valdybos, paskolų komiteto ir revizoriaus rinkimo tvarka ir jų kompetencija;
+(pajinio kapitalo dydis nenurodomas);
 
-11) kapitalų sudėtis,
+12) pelno ir nuostolių patvirtinimo tvarka, pelno
 
-priklausomybė ir formavimas (pajinio kapitalo dydis nenurodomas);
+paskirstymo ir nuostolių atlyginimo tvarka;
 
-12) pelno ir nuostolių
+13) finansinės atskaitomybės sudarymo, tikrinimo ir priėmimo
 
-patvirtinimo tvarka, pelno paskirstymo ir nuostolių atlyginimo tvarka;
+tvarka;
 
-13) finansinės atskaitomybės
+14) kredito unijos reorganizavimo ir likvidavimo
 
-sudarymo, tikrinimo ir priėmimo tvarka;
+tvarka;
 
-14) kredito unijos
+15) kredito unijos pranešimų skelbimo tvarka;
 
-reorganizavimo ir likvidavimo tvarka;
+16) žinios, kurios yra laikomos kredito unijos
 
-15) kredito unijos
+paslaptimi.
 
-pranešimų skelbimo tvarka;
+3. Įstatuose gali būti ir kitų šiam įstatymui ir
 
-16) žinios, kurios yra
+kitiems Lietuvos Respublikos įstatymams neprieštaraujančių nuostatų,
 
-laikomos kredito unijos paslaptimi.
+reglamentuojančių kredito unijos veiklą ir nustatančių narių turtinius ir kitus
 
-3. Įstatuose gali būti ir
+santykius bei kredito unijos santykius su trečiaisiais asmenimis.
 
-kitų šiam įstatymui ir kitiems Lietuvos Respublikos įstatymams
+4. Kredito unijos įstatus tvirtina steigiamasis narių
 
-neprieštaraujančių nuostatų, reglamentuojančių kredito unijos veiklą ir
+susirinkimas, juos keičia ar papildo tik visuotinis susirinkimas.
 
-nustatančių narių turtinius ir kitus santykius bei kredito unijos santykius su
+15 straipsnis. Kredito unijos registravimas
 
-trečiaisiais asmenimis.
+1. Per 4 mėnesius nuo steigiamojo susirinkimo dienos
 
-4. Kredito unijos įstatus
+kredito unija, gavusi šio įstatymo 16 straipsnyje numatytą licenciją, turi būti
 
-tvirtina steigiamasis narių susirinkimas, juos keičia ar papildo tik visuotinis
+įregistruota Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta
 
-susirinkimas.
+komercinių bankų registravimo tvarka.
 
-15 straipsnis. Kredito
+2. Jei per šio straipsnio 1 dalyje nurodytą laiką
 
-unijos registravimas
+kredito unija nebuvo įregistruota, tai ji laikoma neįsteigta ir pajininkų
 
-1. Per 4 mėnesius nuo
+įmokos į kredito unijos pajinį kapitalą be jokių atskaitymų turi būti
 
-steigiamojo susirinkimo dienos kredito unija, gavusi šio įstatymo 16
+sugrąžintos per 15 dienų nuo registravimui skirto laiko pasibaigimo dienos.
 
-straipsnyje numatytą licenciją, turi būti įregistruota Lietuvos Respublikos
+3. Jei kredito unija nebuvo įregistruota dėl
 
-įstatymų ir kitų teisės aktų nustatyta komercinių bankų registravimo tvarka.
+priežasčių, nesusijusių su kredito unijos steigėjų ar asmenų, sumokėjusių
 
-2. Jei per šio straipsnio
+pajines įmokas, veikla, atsisakymas įregistruoti kredito uniją gali būti
 
-1 dalyje nurodytą laiką kredito unija nebuvo įregistruota, tai ji laikoma
+kredito unijos steigėjų apskųstas teismui.
 
-neįsteigta ir pajininkų įmokos į kredito unijos pajinį kapitalą be jokių
+4. Nuo įregistravimo dienos kredito unija gali verstis
 
-atskaitymų turi būti sugrąžintos per 15 dienų nuo registravimui skirto laiko
+taupymo bei savitarpio paskolų savo nariams davimo veikla.
 
-pasibaigimo dienos.
+16 straipsnis. Licencija
 
-3. Jei kredito unija
+1. Licenciją verstis taupymo ir savitarpio paskolų
 
-nebuvo įregistruota dėl priežasčių, nesusijusių su kredito unijos steigėjų ar
+davimo operacijomis bei kita kredito įstaigoms būdinga veikla kredito unijai
 
-asmenų, sumokėjusių pajines įmokas, veikla, atsisakymas įregistruoti kredito
+išduoda priežiūros institucija jos nustatyta tvarka.
 
-uniją gali būti kredito unijos steigėjų apskųstas teismui.
+2. Licencijai gauti kredito unija privalo pateikti
 
-4. Nuo įregistravimo
-
-dienos kredito unija gali verstis taupymo bei savitarpio paskolų savo nariams
-
-davimo veikla.
-
-16 straipsnis.
-
-Licencija
-
-1. Licenciją verstis
-
-taupymo ir savitarpio paskolų davimo operacijomis bei kita kredito įstaigoms
-
-būdinga veikla kredito unijai išduoda priežiūros institucija jos nustatyta
-
-tvarka.
-
-2. Licencijai gauti
-
-kredito unija privalo pateikti priežiūros institucijai šiuos dokumentus:
+priežiūros institucijai šiuos dokumentus:
 
 1) pareiškimą;
 
-2) notariškai
+2) notariškai patvirtintas steigimo dokumentų kopijas;
 
-patvirtintas steigimo dokumentų kopijas;
+3) dokumentus, patvirtinančius, kad kredito unijos
 
-3) dokumentus,
+narių pradinės įmokos sumokėtos;
 
-patvirtinančius, kad kredito unijos narių pradinės įmokos sumokėtos;
+4) priežiūros institucijos reikalaujamus duomenis apie
 
-4) priežiūros
-
-institucijos reikalaujamus duomenis apie kredito unijų steigėjus, stebėtojų
-
-tarybos ir valdybos narius;
+kredito unijų steigėjus, stebėtojų tarybos ir valdybos narius;
 
 5) įstatus;
 
-6) kitus priežiūros
+6) kitus priežiūros institucijos reikalaujamus
 
-institucijos reikalaujamus dokumentus.
+dokumentus.
 
-3. Atsisakymas išduoti
+3. Atsisakymas išduoti licenciją turi būti motyvuotas.
 
-licenciją turi būti motyvuotas. Lietuvos Respublikos įstatymų nustatyta tvarka
+Lietuvos Respublikos įstatymų nustatyta tvarka šis atsisakymas gali būti
 
-šis atsisakymas gali būti apskųstas teismui.
+apskųstas teismui.
 
-KETVIRTASIS
+KETVIRTASIS skirsnis
 
-skirsnis
+NARYSTĖ KREDITO UNIJOJE,
 
-NARYSTĖ
-
-KREDITO UNIJOJE, NARIŲ TEISĖS IR PAREIGOS
+NARIŲ TEISĖS IR PAREIGOS
 
 17 straipsnis. Nariai
 
-1. Kredito unijos nariais
+1. Kredito unijos nariais gali būti šie fiziniai
 
-gali būti šie fiziniai asmenys: Lietuvos Respublikos piliečiai, asmenys be
+asmenys: Lietuvos Respublikos piliečiai, asmenys be pilietybės, nuolat
 
-pilietybės, nuolat gyvenantys Lietuvos Respublikoje, kitų valstybių piliečiai,
+gyvenantys Lietuvos Respublikoje, kitų valstybių piliečiai, nuolat gyvenantys
 
-nuolat gyvenantys Lietuvos Respublikoje. Kredito unijos nariais gali būti
+Lietuvos Respublikoje. Kredito unijos nariais gali būti asmenys, sukakę 18
 
-asmenys, sukakę 18 metų. Įstatuose gali būti numatyta galimybė priimti nariais
+metų. Įstatuose gali būti numatyta galimybė priimti nariais asmenis nuo 16
 
-asmenis nuo 16 metų, jei jie turi savarankišką pragyvenimo šaltinį.
+metų, jei jie turi savarankišką pragyvenimo šaltinį.
 
-2. Kartu su šio
+2. Kartu su šio straipsnio 1 dalyje nurodytais
 
-straipsnio 1 dalyje nurodytais fiziniais asmenimis kredito unijos nariais taip
+fiziniais asmenimis kredito unijos nariais taip pat gali būti šie juridiniai
 
-pat gali būti šie juridiniai asmenys: Lietuvos Respublikoje įregistruotos
+asmenys: Lietuvos Respublikoje įregistruotos visuomeninės organizacijos,
 
-visuomeninės organizacijos, profesinių sąjungų organizacijos, religinės
+profesinių sąjungų organizacijos, religinės bendruomenės ir bendrijos, žemės
 
-bendruomenės ir bendrijos, žemės ūkio kooperatyvai. Šių narių kredito unijoje
+ūkio kooperatyvai. Šių narių kredito unijoje negali būti daugiau ar tiek pat
 
-negali būti daugiau ar tiek pat kaip šio straipsnio 1 dalyje nustatytus
+kaip šio straipsnio 1 dalyje nustatytus kriterijus atitinkančių narių.
 
-kriterijus atitinkančių narių.
+3. Asocijuotais kredito unijos nariais gali būti:
 
-3. Asocijuotais kredito
+1) unijos narių fizinių asmenų Lietuvos Respublikoje
 
-unijos nariais gali būti:
+įregistruotos individualios (personalinės) įmonės, ūkinės bendrijos, žemės ūkio
 
-1) unijos narių fizinių
+kooperatyvai, uždarosios akcinės bendrovės, kurių kontrolinis akcijų paketas
 
-asmenų Lietuvos Respublikoje įregistruotos individualios (personalinės) įmonės,
+priklauso unijos nariui ar nariams;
 
-ūkinės bendrijos, žemės ūkio kooperatyvai, uždarosios akcinės bendrovės, kurių
+2) įmonė, nurodyta šios dalies 1 punkte, jei jos
 
-kontrolinis akcijų paketas priklauso unijos nariui ar nariams;
+darbuotojų skaičiaus metinis vidurkis
 
-2) įmonė, nurodyta šios
+neviršija 49;
 
-dalies 1 punkte, jei jos darbuotojų skaičiaus metinis vidurkis neviršija 49;
+3) fiziniai asmenys, gyvenantys, dirbantys arba
 
-3) fiziniai asmenys,
+besimokantys toje seniūnijos teritorijoje, kurioje yra kredito unijos būstinė;
 
-gyvenantys, dirbantys arba besimokantys toje seniūnijos teritorijoje, kurioje
+4) kredito unijos nariai, neatitinkantys kredito
 
-yra kredito unijos būstinė;
+unijos narystės kriterijų ir jos įstatuose numatytų sąlygų.
 
-4) kredito unijos nariai,
-
-neatitinkantys kredito unijos narystės kriterijų ir jos įstatuose numatytų
-
-sąlygų.
-
-4. Asocijuotas narys
-
-privalo vykdyti visas kredito unijos nario pareigas bei prievoles ir gali
+4. Asocijuotas narys privalo vykdyti visas kredito unijos nario pareigas bei prievoles ir gali
 
 naudotis visomis kredito unijos teikiamomis paslaugomis bei nario teisėmis,
 
@@ -930,167 +832,149 @@ numatyta ir kitų asocijuoto nario teisių apribojimų: nustatytas maksimalus
 
 indėlis, kurį leidžiama priimti iš vieno asocijuoto nario, apribotas pajaus ir
 
-(ar) paskolos dydis, reglamentuota indėlio ir (ar) pajaus sugrąžinimo tvarka ir kita.
+(ar) paskolos dydis, reglamentuota indėlio ir (ar) pajaus sugrąžinimo tvarka ir
 
-5. Asocijuotų narių
+kita.
 
-skaičius kredito unijoje negali viršyti narių, atitinkančių šio straipsnio 1 ir
+5. Asocijuotų narių skaičius kredito unijoje negali
 
-2 dalyse nustatytus narystės kriterijus, skaičiaus.
+viršyti narių, atitinkančių šio straipsnio 1 ir 2 dalyse nustatytus narystės
 
-6. Minimalus kredito
+kriterijus, skaičiaus.
 
-unijos narių skaičius, neįskaitant asocijuotų narių, yra 50 narių, įskaitant
+6. Minimalus kredito unijos narių skaičius,
 
-steigėjus. Sumažėjus minimaliam kredito unijos narių skaičiui bent vienu,
+neįskaitant asocijuotų narių, yra 50 narių, įskaitant steigėjus. Sumažėjus
 
-kredito unija tolesnei savo veiklai, kol vėl bus minimalus narių skaičius, turi
+minimaliam kredito unijos narių skaičiui bent vienu, kredito unija tolesnei
 
-gauti kredito unijos veiklos priežiūros institucijos leidimą. Priežiūros
+savo veiklai, kol vėl bus minimalus narių skaičius, turi gauti kredito unijos
 
-institucija, atsižvelgdama į tokios kredito unijos likvidumą, gali leisti jai
+veiklos priežiūros institucijos leidimą. Priežiūros institucija, atsižvelgdama
 
-veikti ne ilgiau kaip 3 mėnesius arba uždrausti tokios kredito unijos veiklą.
+į tokios kredito unijos likvidumą, gali leisti jai veikti ne ilgiau kaip 3
 
-7. Priimti naujus
+mėnesius arba uždrausti tokios kredito unijos veiklą.
 
-narius galima tik po to, kai šio įstatymo nustatyta tvarka kredito unija yra
+7. Priimti naujus narius galima tik po to, kai šio
 
-įregistruota.
+įstatymo nustatyta tvarka kredito unija yra įregistruota.
 
-8. Narystė kredito
+8. Narystė kredito unijoje gali būti grindžiama šiais
 
-unijoje gali būti grindžiama šiais kriterijais:
+kriterijais:
 
-1) darbas toje pačioje
+1)
 
-įmonėje, įstaigoje;
+darbas toje pačioje įmonėje, įstaigoje;
 
 2) profesinis bendrumas;
 
-3) priklausymas tam
+3) priklausymas tam tikram formaliam asmenų junginiui:
 
-tikram formaliam asmenų junginiui: organizacijai, įskaitant visuomenines ir
+organizacijai, įskaitant visuomenines ir profesines, bet išskyrus politines
 
-profesines, bet išskyrus politines partijas; mokymosi, etninei, kultūros,
+partijas; mokymosi, etninei, kultūros, socialinei ar religinei draugijai ar
 
-socialinei ar religinei draugijai ar bendruomenei ir pan.;
+bendruomenei ir pan.;
 
-4) gyvenimas toje pačioje
+4) gyvenimas toje pačioje gyvenamojoje vietovėje -
 
-gyvenamojoje vietovėje - miestelyje, seniūnijos teritorijoje ar kitame
+miestelyje, seniūnijos teritorijoje ar kitame savivaldybės tarybos nustatytame
 
-savivaldybės tarybos nustatytame teritoriniame darinyje, jeigu seniūnijos
+teritoriniame darinyje, jeigu seniūnijos teritorija nėra apibrėžta.
 
-teritorija nėra apibrėžta.
+9. Narystės kriterijai (vienas ar keli) turi būti nurodyti kredito
 
-9. Narystės kriterijai (vienas ar
+unijos įstatuose. Kredito unijos nariu gali tapti asmuo, atitinkantis nors
 
-keli) turi būti nurodyti kredito unijos įstatuose. Kredito unijos nariu gali
+vieną įstatuose numatytą kriterijų.
 
-tapti asmuo, atitinkantis nors vieną įstatuose numatytą kriterijų.
+10. Kredito unijos nario šeimos nariai ar kartu su juo
 
-10. Kredito unijos nario
+gyvenantys arba tvarkantys bendrą ūkį asmenys gali būti priimti kredito unijos
 
-šeimos nariai ar kartu su juo gyvenantys arba tvarkantys bendrą ūkį asmenys
+nariais neatsižvelgiant į šiame straipsnyje nurodytus kriterijus, jei ko kita
 
-gali būti priimti kredito unijos nariais neatsižvelgiant į šiame straipsnyje
+nenumato kredito unijos įstatai.
 
-nurodytus kriterijus, jei ko kita nenumato kredito unijos įstatai.
+11. Kredito unijos nariais norintys tapti asmenys
 
-11. Kredito unijos
+turi pateikti raštišką prašymą kredito
 
-nariais norintys tapti asmenys turi pateikti
+unijos valdybai. Prašyme nurodoma, kad jis (ji) pasižada laikytis kredito
 
-raštišką prašymą kredito unijos valdybai. Prašyme nurodoma, kad jis (ji)
+unijos įstatų, sumokėti stojamąjį mokestį, įmokėti pajų bei vykdyti ir tas
 
-pasižada laikytis kredito unijos įstatų, sumokėti stojamąjį mokestį, įmokėti
+kredito unijos prievoles, kurias kredito unija prisiėmė iki jam įstojant.
 
-pajų bei vykdyti ir tas kredito unijos prievoles, kurias kredito unija prisiėmė
+12. Kredito unijos nariu (asocijuotu nariu) tampama po
 
-iki jam įstojant.
+to, kai valdyba priima sprendimą patenkinti prašymą.
 
-12. Kredito unijos nariu
+18 straipsnis. Narių registravimas
 
-(asocijuotu nariu) tampama po to, kai valdyba priima sprendimą patenkinti
+1. Nariai turi būti registruojami atskiruose
 
-prašymą.
+kredito unijos narių ir kredito unijos asocijuotų narių registruose, kuriuos
 
-18 straipsnis. Narių
+tvarko valdyba. Registruose nurodoma: nario
 
-registravimas
+vardas ir pavardė ar įmonės pavadinimas, asmens ar įmonės kodas, gyvenamoji
 
-1. Nariai turi būti
+vieta ir adresas ar įmonės registracijos vieta, įstojimo data, stojamojo
 
-registruojami atskiruose kredito unijos narių ir kredito unijos asocijuotų narių registruose, kuriuos tvarko valdyba.
+mokesčio, pajaus sumokėjimas.
 
-Registruose nurodoma: nario vardas ir pavardė ar įmonės pavadinimas, asmens ar
+2. Kredito unijos veiklos priežiūros institucijos
 
-įmonės kodas, gyvenamoji vieta ir adresas ar įmonės registracijos vieta,
+reikalavimu valdyba privalo pateikti kredito unijos narių sąrašą. Jei kredito
 
-įstojimo data, stojamojo mokesčio, pajaus sumokėjimas.
+unijos narių skaičius, neįskaitant asocijuotų narių, tampa mažesnis nei šio
 
-2. Kredito unijos veiklos
+įstatymo 17 straipsnio 6 dalyje nustatytas minimalus, valdyba apie tai turi
 
-priežiūros institucijos reikalavimu valdyba privalo pateikti kredito unijos
+pranešti priežiūros institucijai ne vėliau kaip per 10 dienų.
 
-narių sąrašą. Jei kredito unijos narių skaičius, neįskaitant asocijuotų narių,
+3. Jei kredito unijos narys prašo, jam gali būti
 
-tampa mažesnis nei šio įstatymo 17 straipsnio 6 dalyje nustatytas minimalus,
+išduodamas pažymėjimas, patvirtinantis narystę kredito unijoje ir pajaus dydį.
 
-valdyba apie tai turi pranešti priežiūros institucijai ne vėliau kaip per 10
+19 straipsnis. Kredito unijos nario teisės ir pareigos
 
-dienų.
+1. Kredito unijos narys turi šias teises:
 
-3. Jei kredito unijos
+1) dalyvauti kredito unijos susirinkimuose ir
 
-narys prašo, jam gali būti išduodamas pažymėjimas, patvirtinantis narystę
+balsuojant turėti tik vieną balsą. Ši teisė negalioja asocijuotiems nariams;
 
-kredito unijoje ir pajaus dydį.
+2) rinkti kredito unijos valdymo ir kontrolės
 
-19 straipsnis. Kredito
+organus ir būti į juos išrinktas. Ši teisė negalioja asocijuotiems nariams;
 
-unijos nario teisės ir pareigos
+3) gauti informaciją apie kredito unijos veiklą, jos
 
-1. Kredito unijos narys
+finansinę-ūkinę būklę ir turtą ar pareikalauti, kad kredito unija pateiktų jam
 
-turi šias teises:
+susipažinti ar kopijuoti metinę bei tarpinę finansinę atskaitomybę, valdybos
 
-1) dalyvauti kredito
+ataskaitas apie kredito unijos veiklą, susirinkimų protokolus, narių registrą.
 
-unijos susirinkimuose ir balsuojant turėti tik vieną balsą. Ši teisė negalioja
+Kiti dokumentai gali būti nariui pateikiami, jeigu juose nėra paslapčių, kurių
 
-asocijuotiems nariams;
+atskleidimas padarytų kredito unijai turtinę žalą. Atsisakyti suteikti
 
-2) rinkti kredito
+informaciją dėl kitų priežasčių draudžiama. Atsisakymas pateikti prašomus
 
-unijos valdymo ir kontrolės organus ir būti į juos išrinktas. Ši teisė negalioja asocijuotiems nariams;
+dokumentus turi būti įforminamas raštu, jeigu to reikalauja narys. Ginčus dėl
 
-3) gauti informaciją apie
+nario teisės gauti informaciją sprendžia teismas;
 
-kredito unijos veiklą, jos finansinę-ūkinę būklę ir turtą ar pareikalauti, kad
+4) apskųsti teismui visuotinio narių susirinkimo ir
 
-kredito unija pateiktų jam susipažinti ar kopijuoti metinę bei tarpinę
+valdybos nutarimus;
 
-finansinę atskaitomybę, valdybos ataskaitas apie kredito unijos veiklą,
-
-susirinkimų protokolus, narių registrą. Kiti dokumentai gali būti nariui
-
-pateikiami, jeigu juose nėra paslapčių, kurių atskleidimas padarytų kredito
-
-unijai turtinę žalą. Atsisakyti suteikti informaciją dėl kitų priežasčių draudžiama.
-
-Atsisakymas pateikti prašomus dokumentus turi būti įforminamas raštu, jeigu to
-
-reikalauja narys. Ginčus dėl nario teisės gauti informaciją sprendžia teismas;
-
-4) apskųsti teismui
-
-visuotinio narių susirinkimo ir valdybos nutarimus;
-
-5) išstoti iš kredito
-
-unijos;
+5) išstoti iš kredito unijos;
 
 6) gauti nariams
 
@@ -1100,107 +984,95 @@ bei gautų paskolų dydį (apyvartą), kuri išmokama premijomis ar kitomis kred
 
 unijos įstatuose nustatytomis išmokomis;
 
-7) gauti likviduojamos
+7) gauti likviduojamos kredito unijos turto dalį,
 
-kredito unijos turto dalį, proporcingą jo pajaus dydžiui;
+proporcingą jo pajaus dydžiui;
 
-8) palikti testamentu
+8) palikti testamentu savo pajų vienam ar keliems
 
-savo pajų vienam ar keliems asmenims;
+asmenims;
 
-9) valdybos sutikimu
+9) valdybos sutikimu perleisti savo pajų kitų asmenų
 
-perleisti savo pajų kitų asmenų nuosavybėn šio įstatymo 35 straipsnio 2 dalies
+nuosavybėn šio įstatymo 35 straipsnio
 
-11 punkte nustatyta tvarka;
+2 dalies 11 punkte nustatyta tvarka;
 
-10) reikalauti, kad
+10) reikalauti, kad kredito unija grąžintų jo pajų ar
 
-kredito unija grąžintų jo pajų ar pajaus dalį, laikydamasi 9 straipsnio 5
+pajaus dalį, laikydamasi 9 straipsnio
 
-dalyje nustatytų apribojimų;
+5 dalyje nustatytų apribojimų;
 
-11) naudotis kredito
+11) naudotis kredito unijos teikiamomis paslaugomis
 
-unijos teikiamomis paslaugomis įstatuose nustatytomis lengvatinėmis sąlygomis.
+įstatuose nustatytomis lengvatinėmis sąlygomis.
 
-2. Kredito unijos
+2. Kredito unijos įstatuose gali būti numatytos ir
 
-įstatuose gali būti numatytos ir kitos nario teisės, neprieštaraujančios
+kitos nario teisės, neprieštaraujančios Lietuvos Respublikos įstatymams.
 
-Lietuvos Respublikos įstatymams.
+3. Kredito unijos narys neturi teisės balsuoti, kai
 
-3. Kredito unijos narys
+visuotinis narių susirinkimas sprendžia jo narystės kredito unijoje klausimą,
 
-neturi teisės balsuoti, kai visuotinis narių susirinkimas sprendžia jo narystės
+kitais įstatų numatytais atvejais, kai jis yra tiesiogiai suinteresuotas.
 
-kredito unijoje klausimą, kitais įstatų numatytais atvejais, kai jis yra tiesiogiai
+4. Kredito unijos narys privalo:
 
-suinteresuotas.
+1) turėti kredito unijoje ne mažesnio negu šio
 
-4. Kredito unijos narys
+įstatymo ir įstatų reikalaujamo dydžio pajų;
 
-privalo:
+2) laiku pranešti apie savo narystės kredito unijoje
 
-1) turėti kredito unijoje
+pagrindo išnykimą;
 
-ne mažesnio negu šio įstatymo ir įstatų reikalaujamo dydžio pajų;
+3) įstatuose nurodytu laiku ir tvarka mokėti stojamąjį
 
-2) laiku pranešti apie
+mokestį, pajines ir kitas tikslines įmokas;
 
-savo narystės kredito unijoje pagrindo išnykimą;
+4) laikytis įstatų, vykdyti įsipareigojimus kredito
 
-3) įstatuose nurodytu
+unijai, jos valdymo ir kontrolės organų nutarimus, dalyvauti kredito
 
-laiku ir tvarka mokėti stojamąjį mokestį, pajines ir kitas tikslines įmokas;
+unijos veikloje;
 
-4) laikytis įstatų,
+5) tinkamai ir
 
-vykdyti įsipareigojimus kredito unijai, jos valdymo ir kontrolės organų
+laiku vykdyti su juo sudarytas paskolų, indėlių laikymo kredito unijoje ir
 
-nutarimus, dalyvauti kredito unijos veikloje;
+kitas sutartis.
 
-5)
+5. Kredito unijos narys negali būti tuo pačiu metu
 
-tinkamai ir laiku vykdyti su juo sudarytas paskolų, indėlių laikymo kredito
+kitos kredito unijos nariu, jei įstatai tai draudžia.
 
-unijoje ir kitas sutartis.
+6. Kredito unijos valdymo ar kontrolės organų
 
-5. Kredito unijos narys
+narys, išstojęs ar pašalintas iš kredito unijos, negali toliau atlikti savo
 
-negali būti tuo pačiu metu kitos kredito unijos nariu, jei įstatai tai
+funkcijų minėtuose organuose. Išstojantys
 
-draudžia.
+nariai, kurie dirba kredito unijoje pagal darbo sutartis, gali nenutraukti
 
-6. Kredito unijos
+darbo sutarties, jei įstatuose nenumatyta kitaip.
 
-valdymo ar kontrolės organų narys, išstojęs ar pašalintas iš kredito unijos,
+20 straipsnis. Narystės nutraukimas ir narystės
 
-negali toliau atlikti savo funkcijų
+pasibaigimas
 
-minėtuose organuose. Išstojantys nariai, kurie dirba kredito unijoje pagal
+1. Narystė kredito unijoje nutraukiama:
 
-darbo sutartis, gali nenutraukti darbo sutarties, jei įstatuose nenumatyta
+1) valdybai patenkinus nario prašymą išstoti iš
 
-kitaip.
+kredito unijos;
 
-20 straipsnis.
+2) nariui fiziniam asmeniui mirus arba juridinį
 
-Narystės nutraukimas ir narystės pasibaigimas
+asmenį, kuris kredito unijoje buvo nario ar asocijuoto nario teisėmis,
 
-1. Narystė kredito
-
-unijoje nutraukiama:
-
-1) valdybai patenkinus
-
-nario prašymą išstoti iš kredito unijos;
-
-2) nariui fiziniam
-
-asmeniui mirus arba juridinį asmenį, kuris kredito unijoje buvo nario ar
-
-asocijuoto nario teisėmis, reorganizavus ar likvidavus;
+reorganizavus ar likvidavus;
 
 3) pripažinus narį neveiksniu
 
@@ -1208,651 +1080,543 @@ Lietuvos Respublikos įstatymų nustatyta tvarka;
 
 4) narį pašalinus;
 
-5) tapus kitos kredito
+5) tapus kitos kredito unijos nariu, jeigu kredito
 
-unijos nariu, jeigu kredito unijos įstatai draudžia būti nariu daugiau nei
+unijos įstatai draudžia būti nariu daugiau nei vienoje kredito unijoje.
 
-vienoje kredito unijoje.
+2. Narystė kredito unijoje pasibaigia likvidavus
 
-2. Narystė kredito
+kredito uniją.
 
-unijoje pasibaigia likvidavus kredito uniją.
+21 straipsnis. Išstojimas iš kredito unijos
 
-21 straipsnis.
+1. Kiekvienas kredito unijos narys turi teisę savo
 
-Išstojimas iš kredito unijos
+noru išstoti iš kredito unijos, pranešęs apie tai raštu valdybai ne vėliau kaip
 
-1. Kiekvienas kredito
+prieš 3 mėnesius. Sprendimą dėl išstojimo ir atsiskaitymo su išstojančiuoju
 
-unijos narys turi teisę savo noru išstoti iš kredito unijos, pranešęs apie tai
+priima valdyba.
 
-raštu valdybai ne vėliau kaip prieš 3 mėnesius. Sprendimą dėl išstojimo ir
+2. Išstoti galima tik pasibaigus ūkiniams metams.
 
-atsiskaitymo su išstojančiuoju priima valdyba.
+Valdyba gali leisti nariui išstoti ir iki ūkinių metų pabaigos, jei galima
 
-2. Išstoti galima tik
+atsiskaityti su išstojančiuoju nesukeliant žalos kredito unijos interesams.
 
-pasibaigus ūkiniams metams. Valdyba gali leisti nariui išstoti ir iki ūkinių
+3. Jei įstatai kaip narystės sąlygą nustato narių gyvenimą toje pačioje gyvenamojoje
 
-metų pabaigos, jei galima atsiskaityti su išstojančiuoju nesukeliant žalos
+vietovėje - miestelyje, kaime, seniūnijos
 
-kredito unijos interesams.
+teritorijoje ar, jeigu seniūnijos teritorija nėra apibrėžta, kitame
 
-3. Jei įstatai kaip
+savivaldybės tarybos nustatytame teritoriniame darinyje, - kredito unijos
 
-narystės sąlygą nustato narių gyvenimą toje
+narys, išsikeliantis iš tos vietovės, apie
 
-pačioje gyvenamojoje vietovėje - miestelyje, kaime, seniūnijos teritorijoje ar,
+išstojimą turi raštu pranešti valdybai.
 
-jeigu seniūnijos teritorija nėra apibrėžta, kitame savivaldybės tarybos
+22 straipsnis. Pašalinimas iš kredito unijos
 
-nustatytame teritoriniame darinyje, - kredito unijos narys, išsikeliantis iš tos vietovės, apie išstojimą turi
+1. Jei kredito unijos narys nevykdo savo pareigų,
 
-raštu pranešti valdybai.
+pažeidžia šį įstatymą ir įstatus, jis gali būti pašalintas iš kredito unijos
 
-22 straipsnis.
+tik visuotinio narių susirinkimo sprendimu. Iki visuotinio narių susirinkimo,
 
-Pašalinimas iš kredito unijos
+kuriame bus svarstomas kredito unijos nario pašalinimo klausimas, valdyba gali
 
-1. Jei kredito unijos
+sustabdyti nario teises.
 
-narys nevykdo savo pareigų, pažeidžia šį įstatymą ir įstatus, jis gali būti
+2. Narys gali būti pašalintas, jeigu jam buvo suteikta
 
-pašalintas iš kredito unijos tik visuotinio narių susirinkimo sprendimu. Iki
+galimybė kalbėti visuotiniame narių susirinkime ir jei už jo pašalinimą balsavo
 
-visuotinio narių susirinkimo, kuriame bus svarstomas kredito unijos nario
+2/3 susirinkime dalyvavusių kredito unijos narių.
 
-pašalinimo klausimas, valdyba gali sustabdyti nario teises.
+3. Jei pašalintasis narys nesutinka su visuotinio
 
-2. Narys gali būti
+narių susirinkimo sprendimu jį pašalinti, jis turi teisę per 3 mėnesius nuo
 
-pašalintas, jeigu jam buvo suteikta galimybė kalbėti visuotiniame narių
+nutarimo priėmimo dienos kreiptis į teismą dėl tokio sprendimo panaikinimo.
 
-susirinkime ir jei už jo pašalinimą balsavo 2/3 susirinkime dalyvavusių kredito
+23 straipsnis. Atsiskaitymai su buvusiais kredito
 
-unijos narių.
+unijos nariais
 
-3. Jei pašalintasis narys
+1. Laikas, per kurį turi būti atsiskaitoma su
 
-nesutinka su visuotinio narių susirinkimo sprendimu jį pašalinti, jis turi
+išstojusiu arba pašalintu kredito unijos nariu, nustatomas įvertinus kredito
 
-teisę per 3 mėnesius nuo nutarimo priėmimo dienos kreiptis į teismą dėl tokio
+unijos finansinę ir turtinę būklę (likvidumą) bei atskaičius kredito unijai
 
-sprendimo panaikinimo.
+priklausančias sumas. Atsiskaityti būtina ne vėliau kaip per 12 mėnesių nuo
 
-23 straipsnis.
+kredito unijos nario faktiško išstojimo ar pašalinimo dienos.
 
-Atsiskaitymai su buvusiais kredito unijos nariais
+2. Pašalintas arba išstojęs iš kredito unijos asmuo
 
-1. Laikas, per kurį turi
+nuo pašalinimo ar išstojimo momento praranda teisę naudotis kredito unijos
 
-būti atsiskaitoma su išstojusiu arba pašalintu kredito unijos nariu, nustatomas
+teikiamomis paslaugomis lengvatinėmis sąlygomis.
 
-įvertinus kredito unijos finansinę ir turtinę būklę (likvidumą) bei atskaičius
+3. Kredito unijos valdyba, saugodama kredito unijos ir
 
-kredito unijai priklausančias sumas. Atsiskaityti būtina ne vėliau kaip per 12
+jos narių interesus, per 10 dienų nuo nario išstojimo ar pašalinimo dienos turi
 
-mėnesių nuo kredito unijos nario faktiško išstojimo ar pašalinimo dienos.
+peržiūrėti visas su juo sudarytas kredito unijos teikiamų paslaugų sutartis ir,
 
-2. Pašalintas arba
+jeigu reikia, jas nutraukti arba, jeigu kita šalis sutinka, pakeisti sutarčių
 
-išstojęs iš kredito unijos asmuo nuo pašalinimo ar išstojimo momento praranda
+sąlygas.
 
-teisę naudotis kredito unijos teikiamomis paslaugomis lengvatinėmis sąlygomis.
+4. Ginčus dėl tarpusavio atsiskaitymų sprendžia
 
-3. Kredito unijos
+teismas.
 
-valdyba, saugodama kredito unijos ir jos narių interesus, per 10 dienų nuo
+5. Mirusiam nariui priklausančios lėšos išmokamos jo
 
-nario išstojimo ar pašalinimo dienos turi peržiūrėti visas su juo sudarytas
+įpėdiniams tokia pat tvarka kaip ir išstojimo ar pašalinimo atvejais, jeigu
 
-kredito unijos teikiamų paslaugų sutartis ir, jeigu reikia, jas nutraukti arba,
+mirusiojo įpėdiniai nėra tos kredito unijos nariai ir neįstoja į ją šio
 
-jeigu kita šalis sutinka, pakeisti sutarčių sąlygas.
+įstatymo ir įstatų nustatyta tvarka.
 
-4. Ginčus dėl tarpusavio
+6. Pripažintam neveiksniu nariui priklausančios lėšos
 
-atsiskaitymų sprendžia teismas.
+išmokamos jo teisėtam atstovui, kai šis pateikia reikiamus dokumentus.
 
-5. Mirusiam nariui
+24 straipsnis. Įgaliotiniai
 
-priklausančios lėšos išmokamos jo įpėdiniams tokia pat tvarka kaip ir išstojimo
+Narys, išskyrus asocijuotą narį, turi teisę
 
-ar pašalinimo atvejais, jeigu mirusiojo įpėdiniai nėra tos kredito unijos
+įgalioti kitą asmenį balsuoti už jį narių susirinkime ar atlikti kitus
 
-nariai ir neįstoja į ją šio įstatymo ir įstatų nustatyta tvarka.
+veiksmus. Įgaliotinis kredito unijos narių susirinkime gali atstovauti tik vienam kredito unijos nariui. Nario
 
-6. Pripažintam neveiksniu
+įgaliojimas turi būti patvirtintas notariškai. Nario įgaliotiniu negali būti
 
-nariui priklausančios lėšos išmokamos jo teisėtam atstovui, kai šis pateikia
+kredito unijos valdymo ar kontrolės organų narys.
 
-reikiamus dokumentus.
+26 straipsnis. Valdymo organai
 
-24 straipsnis.
+1. Kredito unijos valdymo organai yra visuotinis narių
 
-Įgaliotiniai
+susirinkimas, stebėtojų taryba, valdyba ir paskolų komitetas. Valdymo organų
 
-Narys, išskyrus
+nariais gali būti tik pilnamečiai kredito unijos nariai bei 17 straipsnio 2
 
-asocijuotą narį, turi teisę įgalioti kitą asmenį balsuoti už jį narių
+dalyje nurodytų juridinių asmenų įgalioti atstovai. Visų šių teisių neturi
 
-susirinkime ar atlikti kitus veiksmus. Įgaliotinis kredito unijos narių susirinkime gali atstovauti tik vienam kredito
+asocijuoti nariai.
 
-unijos nariui. Nario įgaliojimas turi būti patvirtintas notariškai. Nario
+2. Paskolų komitetas yra privalomas kredito unijos
 
-įgaliotiniu negali būti kredito unijos valdymo ar kontrolės organų narys.
+valdymo organas, kuris turi būti sudaromas neatsižvelgiant į kredito unijos
 
-25
+narių skaičių.
 
-straipsnis. Nario atsakomybė už kredito unijai padarytą žalą
+3. Kredito unijos visuotiniam susirinkimui nutarus,
 
-1. Kredito unijos narys
+kredito unijoje gali būti sudaryta kredito unijos administracija iš samdomų
 
-už kredito unijai padarytą žalą atsako Lietuvos Respublikos civilinio kodekso
+darbuotojų. Jei administracija nesudaroma, jos funkcijas atlieka kredito unijos
 
-nustatyta tvarka. Narystės kredito unijoje nutraukimas neatleidžia nuo
+valdyba.
 
-atsakomybės už kredito unijai padarytą žalą.
+27 straipsnis. Visuotinis narių susirinkimas
 
-2. Kredito unijos narys
+1. Visuotinis narių susirinkimas yra aukščiausias
 
-atsako įdėto pajaus (priklausančio turto) dydžiu. Kredito unijos įstatuose gali
+kredito unijos valdymo organas.
 
-būti nustatyta iki penkeriopo įdėto pajaus (priklausančio turto) dydžio nario
+2. Tik visuotinis narių susirinkimas gali:
 
-atsakomybė.
+1) keisti ir pildyti kredito unijos įstatus;
 
-PENKTASIS
+2) tvirtinti kredito unijos steigimo ataskaitą;
 
-skirsnis
+3) rinkti ir atšaukti stebėtojų tarybos, valdybos,
 
-KREDITO
+paskolų komiteto narius ir revizorių, o iš jų atitinkamai - stebėtojų tarybos,
 
-UNIJOS VALDYMAS IR VEIKLOS KONTROLĖ
+valdybos ir paskolų komiteto pirmininkus;
 
-26 straipsnis. Valdymo
+4) priimti nutarimą pašalinti narį iš kredito unijos;
 
-organai
+5) nagrinėti kredito unijos narių skundus ir
 
-1. Kredito unijos valdymo
+pasiūlymus dėl stebėtojų tarybos, valdybos ir paskolų komiteto darbo;
 
-organai yra visuotinis narių susirinkimas, stebėtojų taryba, valdyba ir paskolų
+6) nustatyti minimalaus ir maksimalaus pajaus, kurį
 
-komitetas. Valdymo organų nariais gali būti tik pilnamečiai kredito unijos
+turi įmokėti narys, dydį bei pajaus mokėjimo tvarką, tvirtinti ir keisti
 
-nariai bei 17 straipsnio 2 dalyje nurodytų juridinių asmenų įgalioti atstovai.
+stojamojo mokesčio dydį;
 
-Visų šių teisių neturi asocijuoti nariai.
+7) nustatyti nariams duodamų paskolų tikslinę
 
-2. Paskolų komitetas
+paskirtį;
 
-yra privalomas kredito unijos valdymo organas, kuris turi būti sudaromas
+8) nustatyti revizoriaus atlyginimą ir metines išmokas
 
-neatsižvelgiant į kredito unijos narių skaičių.
+(premijas) iš pelno valdymo organų nariams;
 
-3. Kredito unijos
+9) nustatyti lėšų, kurias galima skirti finansinės
 
-visuotiniam susirinkimui nutarus, kredito unijoje gali būti sudaryta kredito
+atskaitomybės eksperto ar nepriklausomo auditoriaus darbui apmokėti, limitą;
 
-unijos administracija iš samdomų darbuotojų. Jei administracija nesudaroma, jos
+10) nustatyti
 
-funkcijas atlieka kredito unijos valdyba.
+darbo apmokėjimo dydį ir tvarką samdos pagrindais dirbantiems kredito unijoje
 
-27 straipsnis.
+darbuotojams;
 
-Visuotinis narių susirinkimas
+11) tvirtinti metinę kredito unijos išlaidų sąmatą,
 
-1. Visuotinis narių
+pagrįstą numatomų pajamų skaičiavimais;
 
-susirinkimas yra aukščiausias kredito unijos valdymo organas.
+12) tvirtinti metinę finansinę atskaitomybę, priimti
 
-2. Tik visuotinis narių
+nutarimą dėl pelno paskirstymo ir nuostolių atlyginimo tvarkos;
 
-susirinkimas gali:
+13) nustatyti pajinio, rezervinio ir kitų reikalingų kapitalų
 
-1) keisti ir pildyti
+dydžius, nutarti atlyginti konkrečius su abejotinais kredito unijos aktyvais
 
-kredito unijos įstatus;
+susijusius nuostolius iš rezervinio kapitalo lėšų;
 
-2) tvirtinti kredito
+14) pritarti Centrinės kredito unijos steigimo
 
-unijos steigimo ataskaitą;
+sutarties pasirašymui ar stojimui į veikiančią Centrinę kredito uniją;
 
-3) rinkti ir atšaukti
-
-stebėtojų tarybos, valdybos, paskolų komiteto narius ir revizorių, o iš jų
-
-atitinkamai - stebėtojų tarybos, valdybos ir paskolų komiteto pirmininkus;
-
-4) priimti nutarimą
-
-pašalinti narį iš kredito unijos;
-
-5) nagrinėti kredito
-
-unijos narių skundus ir pasiūlymus dėl stebėtojų tarybos, valdybos ir paskolų
-
-komiteto darbo;
-
-6) nustatyti minimalaus
-
-ir maksimalaus pajaus, kurį turi įmokėti narys, dydį bei pajaus mokėjimo
-
-tvarką, tvirtinti ir keisti stojamojo mokesčio dydį;
-
-7) nustatyti nariams
-
-duodamų paskolų tikslinę paskirtį;
-
-8) nustatyti revizoriaus
-
-atlyginimą ir metines išmokas (premijas) iš pelno valdymo organų nariams;
-
-9) nustatyti lėšų, kurias
-
-galima skirti finansinės atskaitomybės eksperto ar nepriklausomo auditoriaus
-
-darbui apmokėti, limitą;
-
-10) nustatyti darbo apmokėjimo dydį ir tvarką samdos
-
-pagrindais dirbantiems kredito unijoje darbuotojams;
-
-11) tvirtinti metinę
-
-kredito unijos išlaidų sąmatą, pagrįstą numatomų pajamų skaičiavimais;
-
-12) tvirtinti metinę
-
-finansinę atskaitomybę, priimti nutarimą dėl pelno paskirstymo ir nuostolių
-
-atlyginimo tvarkos;
-
-13) nustatyti pajinio,
-
-rezervinio ir kitų reikalingų kapitalų dydžius, nutarti atlyginti konkrečius su
-
-abejotinais kredito unijos aktyvais susijusius nuostolius iš rezervinio
-
-kapitalo lėšų;
-
-14) pritarti Centrinės
-
-kredito unijos steigimo sutarties pasirašymui ar stojimui į veikiančią Centrinę
+15) priimti nutarimą reorganizuoti ar likviduoti
 
 kredito uniją;
 
-15) priimti nutarimą
+16) spręsti klausimą dėl kredito unijos įstojimo į
 
-reorganizuoti ar likviduoti kredito uniją;
+kredito unijų asociaciją ir išstojimo iš jos;
 
-16) spręsti klausimą dėl
+17) įvertinti kredito unijos valdymo ir kontrolės
 
-kredito unijos įstojimo į kredito unijų asociaciją ir išstojimo iš jos;
+organų ataskaitas;
 
-17) įvertinti kredito
+18) susirinkimo metu spręsti stebėtojų tarybai
 
-unijos valdymo ir kontrolės organų ataskaitas;
+pavestus klausimus, jei to prašo stebėtojų taryba;
 
-18) susirinkimo metu
+19) spręsti kitus jo kompetencijai įstatų priskirtus
 
-spręsti stebėtojų tarybai pavestus klausimus, jei to prašo stebėtojų taryba;
+klausimus.
 
-19) spręsti kitus jo
+28 straipsnis. Visuotinio narių susirinkimo šaukimo
 
-kompetencijai įstatų priskirtus klausimus.
+pagrindai
 
-28 straipsnis.
+1. Visuotinius narių susirinkimus šaukia kredito
 
-Visuotinio narių susirinkimo šaukimo pagrindai
+unijos valdyba.
 
-1. Visuotinius narių
+2. Neeilinio visuotinio narių susirinkimo šaukimo
 
-susirinkimus šaukia kredito unijos valdyba.
+iniciatyvos teisę turi stebėtojų taryba, valdyba, paskolų komitetas ir ne
 
-2. Neeilinio visuotinio
+mažiau kaip 1/4 kredito unijos narių, neskaitant asocijuotų narių. Neeilinis
 
-narių susirinkimo šaukimo iniciatyvos teisę turi stebėtojų taryba, valdyba,
+visuotinis narių susirinkimas turi būti sušauktas, jeigu:
 
-paskolų komitetas ir ne mažiau kaip 1/4 kredito unijos narių, neskaitant
+1) kredito uniją numatoma reorganizuoti ar likviduoti;
 
-asocijuotų narių. Neeilinis visuotinis narių susirinkimas turi būti sušauktas,
+2) kredito unija negali įvykdyti finansinių
 
-jeigu:
+įsipareigojimų arba yra skelbiama nemokia;
 
-1) kredito uniją numatoma
+3) to reikalauja iniciatyvos teisę turintys kredito
 
-reorganizuoti ar likviduoti;
+unijos nariai, stebėtojų taryba, valdyba ar paskolų komitetas;
 
-2) kredito unija negali
+4) yra šio įstatymo 34 straipsnio 3 dalyje numatytas
 
-įvykdyti finansinių įsipareigojimų arba yra skelbiama nemokia;
+atvejis;
 
-3) to reikalauja
+5) įsiteisėja teismo sprendimas sušaukti narių
 
-iniciatyvos teisę turintys kredito unijos nariai, stebėtojų taryba, valdyba ar
+susirinkimą.
 
-paskolų komitetas;
+3. Kredito unijos visuotinis narių susirinkimas gali
 
-4) yra šio įstatymo 34
+būti sušaukiamas teismo sprendimu, jeigu:
 
-straipsnio 3 dalyje numatytas atvejis;
+1) per 3 mėnesius nuo ūkinių metų pabaigos nebuvo
 
-5) įsiteisėja teismo
+sušauktas eilinis visuotinis narių susirinkimas ir dėl to į teismą kreipėsi
 
-sprendimas sušaukti narių susirinkimą.
+kredito unijos narys (nariai);
 
-3. Kredito unijos
+2) į teismą kreipėsi neeilinio visuotinio narių
 
-visuotinis narių susirinkimas gali būti sušaukiamas teismo sprendimu, jeigu:
+susirinkimo iniciatoriai, valdybai nesušaukus tokio susirinkimo per šio įstatymo
 
-1) per 3 mėnesius nuo
+30 straipsnio 1 dalyje nustatytą laiką;
 
-ūkinių metų pabaigos nebuvo sušauktas eilinis visuotinis narių susirinkimas ir
+3) į teismą kreipėsi kreditoriai dėl to, kad neeilinis
 
-dėl to į teismą kreipėsi kredito unijos narys (nariai);
+visuotinis narių susirinkimas nebuvo sušauktas šio straipsnio 2 dalies 2 punkte
 
-2) į teismą kreipėsi
+numatytais atvejais.
 
-neeilinio visuotinio narių susirinkimo iniciatoriai, valdybai nesušaukus tokio
+29 straipsnis. Visuotinio narių susirinkimo kvorumas
 
-susirinkimo per šio įstatymo 30 straipsnio 1 dalyje nustatytą laiką;
+ir nutarimų priėmimas
 
-3) į teismą kreipėsi
+1.Visuotinis narių susirinkimas gali priimti
 
-kreditoriai dėl to, kad neeilinis visuotinis narių susirinkimas nebuvo
+nutarimus, jeigu jame dalyvauja daugiau kaip 1/2 visų kredito unijos narių. Jei
 
-sušauktas šio straipsnio 2 dalies 2 punkte numatytais atvejais.
+kvorumo nėra, sušaukiamas pakartotinis susirinkimas, kuris turi teisę priimti
 
-29 straipsnis.
+nutarimus pagal darbotvarkę ir be kvorumo.
 
-Visuotinio narių susirinkimo kvorumas ir nutarimų priėmimas
+2. Visuotiniame narių susirinkime dalyvaujantys
 
-1.Visuotinis narių
+kredito unijos nariai (jų įgaliotiniai) registruojami pasirašytinai
 
-susirinkimas gali priimti nutarimus, jeigu jame dalyvauja daugiau kaip 1/2 visų
+registravimo sąraše, kurį pasirašo susirinkimo pirmininkas ir sekretorius.
 
-kredito unijos narių. Jei kvorumo nėra, sušaukiamas pakartotinis susirinkimas,
+Dalyvauti visuotiniame narių susirinkime patariamojo balso teise gali ir
 
-kuris turi teisę priimti nutarimus pagal darbotvarkę ir be kvorumo.
+administracijos vadovas, kuris nėra kredito unijos narys. Kredito unijos narys,
 
-2. Visuotiniame narių
+nedalyvaujantis visuotiniame narių susirinkime, bet susipažinęs su darbotvarke
 
-susirinkime dalyvaujantys kredito unijos nariai (jų įgaliotiniai) registruojami
+bei nutarimo projektu, gali raštu pranešti visuotiniam narių susirinkimui, ar jis
 
-pasirašytinai registravimo sąraše, kurį pasirašo susirinkimo pirmininkas ir
+yra už ar prieš. Šis pranešimas įskaitomas į susirinkimo kvorumą, taip pat į
 
-sekretorius. Dalyvauti visuotiniame narių susirinkime patariamojo balso teise
+balsavimo rezultatus, bet tik to klausimo, už kurį narys balsavo raštu.
 
-gali ir administracijos vadovas, kuris nėra kredito unijos narys. Kredito
+3. Balsavimas visuotiniame narių susirinkime yra
 
-unijos narys, nedalyvaujantis visuotiniame narių susirinkime, bet susipažinęs
+atviras. Slaptai balsuojama, jei to reikalauja ne mažiau kaip 1/4 dalyvaujančių
 
-su darbotvarke bei nutarimo projektu, gali raštu pranešti visuotiniam narių
+susirinkime kredito unijos narių.
 
-susirinkimui, ar jis yra už ar prieš. Šis pranešimas įskaitomas į susirinkimo
+4. Visuotinio narių susirinkimo nutarimai priimami
 
-kvorumą, taip pat į balsavimo rezultatus, bet tik to klausimo, už kurį narys
+paprasta balsų dauguma. Balsams pasiskirsčius po lygiai, lemiamą balsą turi
 
-balsavo raštu.
+susirinkimo pirmininkas. Šio įstatymo 27 straipsnio 2 dalies 1, 4, 6, 7, 14, 15
 
-3. Balsavimas
+punktuose numatytais atvejais nutarimams priimti reikia 2/3 dalyvaujančiųjų
 
-visuotiniame narių susirinkime yra atviras. Slaptai balsuojama, jei to
+visuotiniame narių susirinkime balsų.
 
-reikalauja ne mažiau kaip 1/4 dalyvaujančių susirinkime kredito unijos narių.
+5. Visuotinio narių susirinkimo protokolą pasirašo
 
-4. Visuotinio narių
+susirinkimo pirmininkas, sekretorius ir nors vienas susirinkimo įgaliotas
 
-susirinkimo nutarimai priimami paprasta balsų dauguma. Balsams pasiskirsčius po
+kredito unijos narys. Prie protokolo turi būti pridedamas susirinkimo dalyvių
 
-lygiai, lemiamą balsą turi susirinkimo pirmininkas. Šio įstatymo 27 straipsnio
+sąrašas ir, jeigu buvo balsuojama raštu, balsavimo biuleteniai, kurie turi būti
 
-2 dalies 1, 4, 6, 7, 14, 15 punktuose numatytais atvejais nutarimams priimti
+saugomi iki kito visuotinio narių susirinkimo pabaigos.
 
-reikia 2/3 dalyvaujančiųjų visuotiniame narių susirinkime balsų.
+30 straipsnis. Visuotinių narių susirinkimų šaukimo
 
-5. Visuotinio narių
+terminai ir tvarka
 
-susirinkimo protokolą pasirašo susirinkimo pirmininkas, sekretorius ir nors
+1. Eilinį visuotinį narių susirinkimą šaukia kredito
 
-vienas susirinkimo įgaliotas kredito unijos narys. Prie protokolo turi būti
+unijos valdyba kasmet, bet ne vėliau kaip per 3 mėnesius nuo ūkinių metų
 
-pridedamas susirinkimo dalyvių sąrašas ir, jeigu buvo balsuojama raštu,
+pabaigos. Apie šaukiamą eilinį visuotinį narių susirinkimą valdyba privalo
 
-balsavimo biuleteniai, kurie turi būti saugomi iki kito visuotinio narių
+paskelbti kredito unijos įstatų nustatyta tvarka ir ne vėliau kaip prieš 20
 
-susirinkimo pabaigos.
+dienų iki susirinkimo.
 
-30 straipsnis.
+2. Neeilinio visuotinio narių susirinkimo šaukimo
 
-Visuotinių narių susirinkimų šaukimo terminai ir tvarka
+iniciatoriai pateikia valdybai paraišką, kurioje nurodoma: susirinkimo šaukimo
 
-1. Eilinį visuotinį narių
+pagrindas, tikslas ir darbotvarkės projektas. Valdyba, gavusi paraišką, privalo
 
-susirinkimą šaukia kredito unijos valdyba kasmet, bet ne vėliau kaip per 3
+per 10 dienų nuo paraiškos pateikimo jai dienos paskelbti kredito unijos
 
-mėnesius nuo ūkinių metų pabaigos. Apie šaukiamą eilinį visuotinį narių
+nariams apie neeilinio visuotinio narių susirinkimo sušaukimą ir ne vėliau kaip
 
-susirinkimą valdyba privalo paskelbti kredito unijos įstatų nustatyta tvarka ir
+per 20 dienų nuo paskelbimo apie tai sušaukti neeilinį visuotinį narių
 
-ne vėliau kaip prieš 20 dienų iki susirinkimo.
+susirinkimą.
 
-2. Neeilinio visuotinio
+3. Pakartotinis kredito unijos visuotinis narių
 
-narių susirinkimo šaukimo iniciatoriai pateikia valdybai paraišką, kurioje
+susirinkimas turi būti sušauktas per 10 dienų nuo neįvykusio susirinkimo
 
-nurodoma: susirinkimo šaukimo pagrindas, tikslas ir darbotvarkės projektas.
+dienos, o kredito unijos nariai informuojami ne vėliau kaip likus 5 dienoms iki
 
-Valdyba, gavusi paraišką, privalo per 10 dienų nuo paraiškos pateikimo jai
+pakartotinio susirinkimo.
 
-dienos paskelbti kredito unijos nariams apie neeilinio visuotinio narių
+4. Visuotinis susirinkimas gali būti šaukiamas
 
-susirinkimo sušaukimą ir ne vėliau kaip per 20 dienų nuo paskelbimo apie tai
+nesilaikant šių terminų, jeigu visi kredito unijos nariai su tuo sutinka.
 
-sušaukti neeilinį visuotinį narių susirinkimą.
+5. Pranešime apie visuotinį narių susirinkimą turi
 
-3. Pakartotinis kredito
+būti nurodyta:
 
-unijos visuotinis narių susirinkimas turi būti sušauktas per 10 dienų nuo
+1) kredito unijos pavadinimas ir adresas;
 
-neįvykusio susirinkimo dienos, o kredito unijos nariai informuojami ne vėliau
+2) susirinkimo data, laikas ir vieta;
 
-kaip likus 5 dienoms iki pakartotinio susirinkimo.
+3) susirinkimo darbotvarkė ir nutarimų projektai.
 
-4. Visuotinis
+6. Ne vėliau kaip likus 5 dienoms iki susirinkimo
 
-susirinkimas gali būti šaukiamas nesilaikant šių terminų, jeigu visi kredito
+kredito unijos nariams turi būti suteikta galimybė susipažinti su dokumentais,
 
-unijos nariai su tuo sutinka.
+susijusiais su susirinkimo darbotvarke.
 
-5. Pranešime apie
+7. Visuotinio narių susirinkimo pirmininkas kiekvieną
 
-visuotinį narių susirinkimą turi būti nurodyta:
+kartą renkamas iš kredito unijos narių, o iki jo išrinkimo pirmininkauja
 
-1) kredito unijos
+stebėtojų tarybos pirmininkas, jeigu kitaip nenumato kredito unijos įstatai.
 
-pavadinimas ir adresas;
+8. Visuotinis narių susirinkimas neturi teisės priimti
 
-2) susirinkimo data,
+nutarimų darbotvarkėje nepaskelbtais klausimais, jeigu jame dalyvauja ne visi
 
-laikas ir vieta;
+kredito unijos nariai. Pakartotiniame susirinkime galioja tik neįvykusio
 
-3) susirinkimo
+susirinkimo darbotvarkė.
 
-darbotvarkė ir nutarimų projektai.
+31 straipsnis. Visuotinio narių susirinkimo nutarimų
 
-6. Ne vėliau kaip likus 5
+negaliojimas
 
-dienoms iki susirinkimo kredito unijos nariams turi būti suteikta galimybė
+1. Kredito unijos narių ar administracijos vadovo
 
-susipažinti su dokumentais, susijusiais su susirinkimo darbotvarke.
+pareiškimu visuotinio narių susirinkimo nutarimai gali būti teismine tvarka
 
-7. Visuotinio narių
+pripažinti negaliojančiais, jei jie prieštarauja šiam įstatymui, kredito unijos
 
-susirinkimo pirmininkas kiekvieną kartą renkamas iš kredito unijos narių, o iki
+įstatams ir kitiems Lietuvos Respublikos įstatymams.
 
-jo išrinkimo pirmininkauja stebėtojų tarybos pirmininkas, jeigu kitaip nenumato
+2. Visuotinio narių susirinkimo nutarimas gali būti
 
-kredito unijos įstatai.
+apskųstas teismui ne vėliau kaip per 30 dienų nuo nutarimo priėmimo dienos ar
 
-8. Visuotinis narių
+nuo tos dienos, kai asmuo sužinojo arba turėjo sužinoti apie nutarimo priėmimą.
 
-susirinkimas neturi teisės priimti nutarimų darbotvarkėje nepaskelbtais
+32 straipsnis. Stebėtojų taryba
 
-klausimais, jeigu jame dalyvauja ne visi kredito unijos nariai. Pakartotiniame
+1.Stebėtojų taryba yra kredito unijos veiklos
 
-susirinkime galioja tik neįvykusio susirinkimo darbotvarkė.
+teisėtumą ir tikslingumą prižiūrintis kontrolės organas.
 
-31 straipsnis.
+2. Stebėtojų tarybos narių skaičių - ne mažiau
 
-Visuotinio narių susirinkimo nutarimų negaliojimas
+kaip 3 ir ne daugiau kaip 9 - nustato kredito unijos įstatai. Stebėtojų tarybą
 
-1. Kredito unijos narių
+ir jos pirmininką renka kredito unijos visuotinis narių susirinkimas ne daugiau
 
-ar administracijos vadovo pareiškimu visuotinio narių susirinkimo nutarimai
+kaip trejiems metams.
 
-gali būti teismine tvarka pripažinti negaliojančiais, jei jie prieštarauja šiam
+3. Stebėtojų tarybos nariu negali būti kredito unijos
 
-įstatymui, kredito unijos įstatams ir kitiems Lietuvos Respublikos įstatymams.
+valdybos, paskolų komiteto narys ar revizorius. Stebėtojų tarybos narys negali
 
-2. Visuotinio narių
+pavesti ar perduoti savo funkcijų kitiems asmenims.
 
-susirinkimo nutarimas gali būti apskųstas teismui ne vėliau kaip per 30 dienų
-
-nuo nutarimo priėmimo dienos ar nuo tos dienos, kai asmuo sužinojo arba turėjo
-
-sužinoti apie nutarimo priėmimą.
-
-32 straipsnis.
-
-Stebėtojų taryba
-
-1.Stebėtojų taryba yra
-
-kredito unijos veiklos teisėtumą ir tikslingumą prižiūrintis kontrolės organas.
-
-2. Stebėtojų tarybos
-
-narių skaičių - ne mažiau kaip 3 ir ne daugiau kaip 9 - nustato kredito unijos
-
-įstatai. Stebėtojų tarybą ir jos pirmininką renka kredito unijos visuotinis
-
-narių susirinkimas ne daugiau kaip trejiems
-
-metams.
-
-3. Stebėtojų tarybos
-
-nariu negali būti kredito unijos valdybos, paskolų komiteto narys ar
-
-revizorius. Stebėtojų tarybos narys negali pavesti ar perduoti savo funkcijų
-
-kitiems asmenims.
-
-33 straipsnis.
-
-Stebėtojų tarybos kompetencija
+33 straipsnis. Stebėtojų tarybos kompetencija
 
 1. Stebėtojų taryba:
 
-1) kontroliuoja, kaip paskolų
+1) kontroliuoja, kaip paskolų komitetas,
 
-komitetas, valdyba ir (ar) administracija vykdo visuotinio narių susirinkimo
+valdyba ir (ar) administracija vykdo visuotinio narių susirinkimo nutarimus;
+
+2) analizuoja kredito unijos, jos valdybos ir
+
+paskolų komiteto veiklą, finansinių išteklių kaupimą ir naudojimą, darbo
+
+apmokėjimą, finansinę būklę;
+
+3) pateikia visuotiniam kredito unijos narių
+
+susirinkimui valdymo organų darbo ataskaitą su savo išvadomis ir pasiūlymais;
+
+4) įspėja kredito unijos valdybą, paskolų komitetą ir
+
+(ar) administraciją, kad nedelsiant pašalintų veiklos kredito unijoje
+
+pažeidimus, arba praneša apie tai visuotiniam narių susirinkimui, taip pat gali
+
+siūlyti visuotiniam narių susirinkimui atšaukti valdybos ir paskolų komiteto
+
+narius, kurie, stebėtojų tarybos įsitikinimu, pažeidė šį įstatymą, kitus teisės
+
+aktus, kredito unijos įstatus ar kitas jos taisykles;
+
+5) pateikia visuotiniam narių susirinkimui savo
+
+išvadas ir pasiūlymus apie kredito unijos metinį buhalterinį balansą, pelno
+
+paskirstymo ir nuostolių atlyginimo projektus;
+
+6) atstovauja kredito unijai teisme nagrinėjant ginčus
+
+tarp kredito unijos ir jos valdybos, tarp kredito unijos narių ir valdybos;
+
+7) siūlo valdybai atšaukti jos priimtus neteisėtus
+
+nutarimus arba prašo visuotinį narių susirinkimą atšaukti neteisėtus valdybos
 
 nutarimus;
 
-2) analizuoja kredito
+8) gali perduoti jos kompetencijai priskirtus
 
-unijos, jos valdybos ir paskolų komiteto veiklą, finansinių išteklių kaupimą ir
+klausimus spręsti visuotiniam narių susirinkimui;
 
-naudojimą, darbo apmokėjimą, finansinę
+9) sprendžia kitus įstatuose numatytus klausimus.
 
-būklę;
+2. Stebėtojų taryba turi teisę pasikviesti ekspertą
 
-3) pateikia visuotiniam
+arba nepriklausomą auditorių patikrinti ir įvertinti kredito unijos buhalterinį
 
-kredito unijos narių susirinkimui valdymo organų darbo ataskaitą su savo
+balansą bei kitą finansinę atskaitomybę.
 
-išvadomis ir pasiūlymais;
+3. Stebėtojų tarybos reikalavimu kredito unijos
 
-4) įspėja kredito unijos
+valdyba ir (ar) administracija privalo pateikti jai dokumentus, susijusius su
 
-valdybą, paskolų komitetą ir (ar) administraciją, kad nedelsiant
+kredito unijos veikla.
 
-pašalintų veiklos kredito unijoje pažeidimus, arba praneša apie tai visuotiniam
+4. Stebėtojų tarybos posėdis yra teisėtas, kai jame
 
-narių susirinkimui, taip pat gali siūlyti visuotiniam narių susirinkimui
+dalyvauja daugiau kaip pusė jos narių. Nutarimai priimami paprasta
 
-atšaukti valdybos ir paskolų komiteto narius, kurie, stebėtojų tarybos
+dalyvaujančiųjų posėdyje balsų dauguma. Stebėtojų tarybos nariai turi lygias
 
-įsitikinimu, pažeidė šį įstatymą, kitus teisės aktus, kredito unijos įstatus ar
+teises. Balsavimo metu kiekvienas narys turi vieną balsą. Balsams pasiskirsčius
 
-kitas jos taisykles;
+po lygiai, lemia pirmininko balsas.
 
-5) pateikia visuotiniam
+5. Stebėtojų tarybos nariai privalo saugoti kredito
 
-narių susirinkimui savo išvadas ir pasiūlymus apie kredito unijos metinį
+unijos paslaptis.
 
-buhalterinį balansą, pelno paskirstymo ir nuostolių atlyginimo projektus;
+6. Stebėtojų tarybos darbo tvarką nustato jos priimtas
 
-6) atstovauja kredito unijai
+darbo reglamentas.
 
-teisme nagrinėjant ginčus tarp kredito unijos ir jos valdybos, tarp kredito
+34 straipsnis. Kredito unijos valdyba
 
-unijos narių ir valdybos;
+1. Valdyba yra kolegialus vykdomasis
 
-7) siūlo valdybai
-
-atšaukti jos priimtus neteisėtus nutarimus arba prašo visuotinį narių
-
-susirinkimą atšaukti neteisėtus valdybos nutarimus;
-
-8) gali perduoti jos
-
-kompetencijai priskirtus klausimus spręsti visuotiniam narių susirinkimui;
-
-9) sprendžia kitus
-
-įstatuose numatytus klausimus.
-
-2. Stebėtojų taryba turi
-
-teisę pasikviesti ekspertą arba nepriklausomą auditorių patikrinti ir įvertinti
-
-kredito unijos buhalterinį balansą bei kitą finansinę atskaitomybę.
-
-3. Stebėtojų tarybos
-
-reikalavimu kredito unijos valdyba ir (ar) administracija privalo pateikti jai
-
-dokumentus, susijusius su kredito unijos veikla.
-
-4. Stebėtojų tarybos
-
-posėdis yra teisėtas, kai jame dalyvauja daugiau kaip pusė jos narių. Nutarimai
-
-priimami paprasta dalyvaujančiųjų posėdyje balsų dauguma. Stebėtojų tarybos
-
-nariai turi lygias teises. Balsavimo metu kiekvienas narys turi vieną balsą.
-
-Balsams pasiskirsčius po lygiai, lemia pirmininko balsas.
-
-5. Stebėtojų tarybos
-
-nariai privalo saugoti kredito unijos paslaptis.
-
-6. Stebėtojų tarybos
-
-darbo tvarką nustato jos priimtas darbo reglamentas.
-
-34 straipsnis. Kredito
-
-unijos valdyba
-
-1. Valdyba yra kolegialus
-
-vykdomasis (administruojantis) kredito unijos organas, kurio veiklai vadovauja
+(administruojantis) kredito unijos organas, kurio veiklai vadovauja
 
 pirmininkas. Valdybos narių skaičių, kuris turi būti nelyginis ir ne mažesnis
 
@@ -1864,575 +1628,477 @@ Valdybos nariu ar jos pirmininku negali būti kredito unijos stebėtojų tarybos
 
 paskolų komiteto narys ar revizorius.
 
-2. Be pagrindinių
+2. Be pagrindinių valdybos narių, tam pačiam laikui
 
-valdybos narių, tam pačiam laikui gali būti renkami ne daugiau kaip 3
+gali būti renkami ne daugiau kaip 3 kandidatai į valdybos narius, kurie,
 
-kandidatai į valdybos narius, kurie, sumažėjus valdybos narių skaičiui,
+sumažėjus valdybos narių skaičiui, pakeičia nebegalinčius eiti savo pareigų
 
-pakeičia nebegalinčius eiti savo pareigų valdybos narius. Šie kandidatai turi
+valdybos narius. Šie kandidatai turi teisę dalyvauti valdybos posėdžiuose
 
-teisę dalyvauti valdybos posėdžiuose patariamojo balso teise.
+patariamojo balso teise.
 
-3. Jeigu kredito unijos
+3. Jeigu kredito unijos valdybos narių skaičius tapo
 
-valdybos narių skaičius tapo mažesnis, negu numatyta kredito unijos įstatuose,
+mažesnis, negu numatyta kredito unijos įstatuose, ir nėra galimybės trūkstamus
 
-ir nėra galimybės trūkstamus valdybos narius pakeisti išrinktais kandidatais,
+valdybos narius pakeisti išrinktais kandidatais, likusieji valdybos nariai
 
-likusieji valdybos nariai privalo sušaukti neeilinį kredito unijos narių
+privalo sušaukti neeilinį kredito unijos narių susirinkimą.
 
-susirinkimą.
+35 straipsnis. Valdybos kompetencija
 
-35 straipsnis.
+1. Valdybos ir jos narių kompetenciją nustato kredito
 
-Valdybos kompetencija
-
-1. Valdybos ir jos narių
-
-kompetenciją nustato kredito unijos įstatai, o darbo tvarką - jos priimtas
-
-darbo reglamentas.
+unijos įstatai, o darbo tvarką - jos priimtas darbo reglamentas.
 
 2. Valdyba:
 
-1) priima naujus narius į
+1) priima naujus narius į kredito uniją, sustabdo jų
 
-kredito uniją, sustabdo jų narystę kredito unijoje šio įstatymo 22 straipsnio 1
+narystę kredito unijoje šio įstatymo 22 straipsnio 1 dalyje numatytais
 
-dalyje numatytais atvejais;
+atvejais;
 
-2) atstovauja kredito unijai
+2) atstovauja kredito unijai teisme, arbitraže bei
 
-teisme, arbitraže bei kitose institucijose;
+kitose institucijose;
 
-3) organizuoja ir šaukia
+3) organizuoja ir šaukia kredito unijos visuotinius
 
-kredito unijos visuotinius narių susirinkimus;
+narių susirinkimus;
 
-4) rengia ir teikia visuotiniam susirinkimui tvirtinti
+4) rengia ir
 
-metinę išlaidų sąmatą, pagrįstą numatomų pajamų skaičiavimais;
+teikia visuotiniam susirinkimui tvirtinti metinę išlaidų sąmatą, pagrįstą
 
-5) nustato palūkanas už
+numatomų pajamų skaičiavimais;
 
-indėlius ir paskolų procentus;
+5) nustato palūkanas už indėlius ir paskolų procentus;
 
-6) kredito unijos vardu
+6) kredito unijos vardu sudaro darbo sutartis su
 
-sudaro darbo sutartis su samdomais darbuotojais;
+samdomais darbuotojais;
 
-7) kredito unijos
+7) kredito unijos vardu sudaro civilinius
 
-vardu sudaro civilinius sandorius su kredito unijos nariais ir trečiaisiais
+sandorius su kredito unijos nariais ir trečiaisiais asmenimis;
 
-asmenimis;
+8) tvarko kredito unijos narių registrus;
 
-8) tvarko kredito unijos
+9) svarsto revizoriaus pateiktą medžiagą,
 
-narių registrus;
+administracijos (jei ji yra) veiklą ir pateikia išvadas stebėtojų tarybai arba
 
-9) svarsto revizoriaus
+visuotiniam narių susirinkimui;
 
-pateiktą medžiagą, administracijos (jei ji yra) veiklą ir pateikia išvadas
+10) parengia kredito unijos buhalterinio balanso,
 
-stebėtojų tarybai arba visuotiniam narių susirinkimui;
+pelno paskirstymo bei nuostolių atlyginimo tvarkos ir kitos finansinės atskaitomybės
 
-10) parengia kredito
+projektus;
 
-unijos buhalterinio balanso, pelno paskirstymo bei nuostolių atlyginimo tvarkos
+11) svarsto kredito unijos narių prašymus dėl jų pajų
 
-ir kitos finansinės atskaitomybės projektus;
+perleidimo ir ne vėliau kaip per 1 mėnesį nuo prašymo gavimo dienos praneša
 
-11) svarsto kredito
+suinteresuotam nariui apie sutikimą ar draudimą nariui perleisti jo pajų kitam
 
-unijos narių prašymus dėl jų pajų perleidimo ir ne vėliau kaip per 1 mėnesį nuo
+asmeniui;
 
-prašymo gavimo dienos praneša suinteresuotam nariui apie sutikimą ar draudimą
+12) investuoja laisvas kredito unijos lėšas į
 
-nariui perleisti jo pajų kitam asmeniui;
+valstybės išleidžiamus vertybinius popierius, jei tai numatyta įstatuose;
 
-12) investuoja laisvas
+13) iki kredito unija įstos į Centrinę kredito
 
-kredito unijos lėšas į valstybės išleidžiamus vertybinius popierius, jei tai
+uniją, skolina laisvas kredito unijos lėšas kitoms kredito unijoms, nesančioms
 
-numatyta įstatuose;
+Centrinės kredito unijos narėmis, ar kredito
 
-13) iki kredito unija
+unijų asociacijai bei skolinasi iš jų pinigus, jei tai numatyta įstatuose;
 
-įstos į Centrinę kredito uniją, skolina laisvas kredito unijos lėšas kitoms
+14) priima sprendimus dėl skolinimo kitoms kredito
 
-kredito unijoms, nesančioms Centrinės
+unijoms ar paskolų iš kitų kredito unijų ėmimo Centrinės kredito unijos
 
-kredito unijos narėmis, ar kredito unijų asociacijai bei skolinasi iš jų
+nustatyta tvarka ir sąlygomis;
 
-pinigus, jei tai numatyta įstatuose;
+15) atsiskaito su buvusiais kredito unijos nariais šio
 
-14) priima sprendimus dėl
+įstatymo 23 straipsnyje nustatyta tvarka ir terminais;
 
-skolinimo kitoms kredito unijoms ar paskolų iš kitų kredito unijų ėmimo
+16) laiku informuoja kredito unijų veiklos priežiūros
 
-Centrinės kredito unijos nustatyta tvarka ir sąlygomis;
+instituciją apie minimalaus narių skaičiaus ar pajinio kapitalo sumažėjimą bei
 
-15) atsiskaito su
+teikia kitus reikalingus šiai institucijai duomenis pagal priežiūros
 
-buvusiais kredito unijos nariais šio įstatymo 23 straipsnyje nustatyta tvarka
+institucijos patvirtintas kredito unijų veiklos priežiūros taisykles;
 
-ir terminais;
+17) svarsto kitus kredito unijos veiklos ir valdymo
 
-16) laiku informuoja
+klausimus, nepriklausančius išimtinei visuotinio narių susirinkimo, stebėtojų
 
-kredito unijų veiklos priežiūros instituciją apie minimalaus narių skaičiaus ar
+tarybos ar paskolų komiteto kompetencijai.
 
-pajinio kapitalo sumažėjimą bei teikia kitus reikalingus šiai institucijai
+3. Valdyba priima nutarimus jos kompetencijai šio
 
-duomenis pagal priežiūros institucijos patvirtintas kredito unijų veiklos
+įstatymo ar įstatų priskirtais klausimais. Valdybos posėdis yra teisėtas, kai
 
-priežiūros taisykles;
+jame dalyvauja daugiau kaip pusė jos narių. Valdybos nariai turi lygias
 
-17) svarsto kitus kredito
+balsavimo teises. Nutarimai priimami paprasta dalyvaujančiųjų posėdyje balsų
 
-unijos veiklos ir valdymo klausimus, nepriklausančius išimtinei visuotinio
+dauguma. Balsams pasiskirsčius po lygiai, lemia valdybos pirmininko balsas.
 
-narių susirinkimo, stebėtojų tarybos ar paskolų komiteto kompetencijai.
+4. Valdybos nariai ir kandidatai į valdybos narius
 
-3. Valdyba priima
+privalo saugoti kredito unijos paslaptis.
 
-nutarimus jos kompetencijai šio įstatymo ar įstatų priskirtais klausimais.
+5. Už savo veiklą valdyba atsiskaito visuotiniam narių
 
-Valdybos posėdis yra teisėtas, kai jame dalyvauja daugiau kaip pusė jos narių.
+susirinkimui kredito unijos įstatuose nustatyta tvarka, bet ne rečiau kaip
 
-Valdybos nariai turi lygias balsavimo teises. Nutarimai priimami paprasta
+kartą per metus. Valdyba taip pat atsiskaito stebėtojų tarybai, kuri pateikia
 
-dalyvaujančiųjų posėdyje balsų dauguma. Balsams pasiskirsčius po lygiai, lemia
+visuotiniam narių susirinkimui savo išvadas ir pasiūlymus.
 
-valdybos pirmininko balsas.
+36 straipsnis. Paskolų komitetas
 
-4. Valdybos nariai ir
+1. Paskolų komitetą iš ne mažiau kaip 3 kredito unijos
 
-kandidatai į valdybos narius privalo saugoti kredito unijos paslaptis.
+narių renka visuotinis narių susirinkimas trejiems metams. Paskolų komiteto
 
-5. Už savo veiklą valdyba
+nariu negali būti kredito unijos stebėtojų tarybos, valdybos narys ar
 
-atsiskaito visuotiniam narių susirinkimui kredito unijos įstatuose nustatyta
+revizorius.
 
-tvarka, bet ne rečiau kaip kartą per metus. Valdyba taip pat atsiskaito
+2. Paskolų komitetas nagrinėja kredito unijos narių
 
-stebėtojų tarybai, kuri pateikia visuotiniam narių susirinkimui savo išvadas ir
+paraiškas dėl savitarpio paskolų. Jis sprendžia, ar nario prašoma paskola
 
-pasiūlymus.
+atitinka įstatuose nustatytą paskirtį, numato išmokėjimo ir grąžinimo sąlygas
 
-36 straipsnis. Paskolų
+bei tvarką ir teikia pasiūlymus šiais klausimais kredito unijos valdybai. Valdyba
 
-komitetas
+negali sudaryti savitarpio paskolos sutarties su kredito unijos nariu, jei tam
 
-1. Paskolų komitetą iš ne
+nepritarė paskolų komitetas.
 
-mažiau kaip 3 kredito unijos narių renka visuotinis narių susirinkimas trejiems
+3. Už savo veiklą paskolų komitetas atsiskaito
 
-metams. Paskolų komiteto nariu negali būti kredito unijos stebėtojų tarybos,
+visuotiniam narių susirinkimui kredito unijos įstatuose nustatyta tvarka, bet
 
-valdybos narys ar revizorius.
+ne rečiau kaip kartą per metus.
 
-2. Paskolų komitetas
+4. Paskolų komiteto nariai privalo saugoti kredito
 
-nagrinėja kredito unijos narių paraiškas dėl savitarpio paskolų. Jis sprendžia,
+unijos paslaptis.
 
-ar nario prašoma paskola atitinka įstatuose nustatytą paskirtį, numato
+38 straipsnis. Kredito unijos revizorius
 
-išmokėjimo ir grąžinimo sąlygas bei tvarką ir teikia pasiūlymus šiais
+1. Kredito unijoje turi būti bent vienas revizorius,
 
-klausimais kredito unijos valdybai. Valdyba negali sudaryti savitarpio paskolos
+kurį renka visuotinis narių susirinkimas kredito unijos įstatuose nustatytam,
 
-sutarties su kredito unijos nariu, jei tam nepritarė paskolų komitetas.
+bet ne ilgesniam kaip trejų metų laikotarpiui. Juo gali būti kredito unijos
 
-3. Už savo veiklą paskolų
+narys, turintis kvalifikacijos diplomą. Revizoriumi negali būti kredito unijos
 
-komitetas atsiskaito visuotiniam narių susirinkimui kredito unijos įstatuose
+valdybos, stebėtojų tarybos ar paskolų komiteto narys ar toje kredito unijoje
 
-nustatyta tvarka, bet ne rečiau kaip kartą per metus.
+dirbantis vyriausiasis finansininkas (buhalteris).
 
-4. Paskolų komiteto
+2. Jeigu nėra galimybės išrinkti revizorių iš kredito
 
-nariai privalo saugoti kredito unijos paslaptis.
+unijos narių, visuotinis narių susirinkimas tvirtina nepriklausomą auditorių,
 
-37
+stebėtojų tarybos siūlomą samdyti pagal sutartį.
 
-straipsnis. Stebėtojų tarybos, valdybos ir paskolų komiteto narių atsakomybė
+3. Revizorius (nepriklausomas auditorius) kontroliuoja
 
-1. Stebėtojų tarybos,
+kredito unijos finansinę-ūkinę veiklą, visuotinio narių susirinkimo priimtų
 
-valdybos ir paskolų komiteto nariai už kredito unijai jų padarytą žalą atsako
+nutarimų vykdymą. Atlikdamas šias funkcijas, revizorius turi teisę reikalauti
 
-Lietuvos Respublikos įstatymų nustatyta tvarka.
+pateikti jam reikalingus kredito unijos buhalterinius bei finansinius
 
-2. Nuo pareigos atlyginti
+dokumentus.
 
-nuostolius atleidžiami tik tie stebėtojų tarybos, valdybos ar paskolų komiteto
+4. Kredito unijos revizorius (nepriklausomas
 
-nariai, kurie balsavo prieš nutarimus, pažeidžiančius šį įstatymą, kredito unijos
+auditorius) pateikia visuotiniam narių susirinkimui finansinės-ūkinės veiklos
 
-įstatus ar kitus Lietuvos Respublikos įstatymus, ar nedalyvavo tokius nutarimus
+patikrinimo metinę ataskaitą. Jis privalo nedelsdamas informuoti valdybą ir
 
-priimant. Šiais atvejais jie privalo per 7 dienas po to, kai sužinojo ar turėjo
+stebėtojų tarybą apie kredito unijos finansinės-ūkinės veiklos pažeidimus, taip
 
-sužinoti apie tokį nutarimą, įteikti posėdžio pirmininkui rašytinį protestą.
+pat saugoti kredito unijos paslaptis.
 
-38 straipsnis. Kredito
+5. Renkamam revizoriui gali būti mokamas atlyginimas.
 
-unijos revizorius
+6. Kredito unijos revizorius (nepriklausomas
 
-1. Kredito unijoje turi
+auditorius) atsako Lietuvos Respublikos įstatymų nustatyta tvarka už
 
-būti bent vienas revizorius, kurį renka visuotinis narių susirinkimas kredito
+nepatenkinamą kredito unijos veiklos kontrolę ir veiklos trūkumų nuslėpimą.
 
-unijos įstatuose nustatytam, bet ne ilgesniam kaip trejų metų laikotarpiui. Juo
+39 straipsnis. Administracija
 
-gali būti kredito unijos narys, turintis kvalifikacijos diplomą. Revizoriumi
+1. Kredito unijos valdyba, jeigu būtina, sudaro kredito
 
-negali būti kredito unijos valdybos, stebėtojų tarybos ar paskolų komiteto
+unijos administraciją, į kurią įeina kredito unijos administracijos vadovas ir
 
-narys ar toje kredito unijoje dirbantis vyriausiasis finansininkas
+vyriausiasis finansininkas (buhalteris) bei kiti valdymo funkcijas atliekantys
 
-(buhalteris).
+darbuotojai.
 
-2. Jeigu nėra galimybės
+2. Kredito unijos administracija vykdo visuotinio
 
-išrinkti revizorių iš kredito unijos narių, visuotinis narių susirinkimas
+susirinkimo ir valdybos nutarimus.
 
-tvirtina nepriklausomą auditorių, stebėtojų tarybos siūlomą samdyti pagal
+3. Kredito unijos administracijos pareigas nustato
 
-sutartį.
+kredito unijos įstatai ir valdybos patvirtintas darbo reglamentas.
 
-3. Revizorius
+4. Asmenis į kredito unijos administracijos vadovo
 
-(nepriklausomas auditorius) kontroliuoja kredito unijos finansinę-ūkinę veiklą,
+ir vyriausiojo finansininko (buhalterio) pareigas priima kredito unijos
 
-visuotinio narių susirinkimo priimtų nutarimų vykdymą. Atlikdamas šias
+valdyba.
 
-funkcijas, revizorius turi teisę reikalauti pateikti jam reikalingus kredito
+5. Kredito unijos administracijos vadovas negali eiti
 
-unijos buhalterinius bei finansinius dokumentus.
+vyriausiojo finansininko (buhalterio) pareigų, dirbti kitos kredito unijos ar
 
-4. Kredito unijos
+banko administracijoje.
 
-revizorius (nepriklausomas auditorius) pateikia visuotiniam narių susirinkimui
+6. Kredito unijos administracijos vadovas sudaro darbo
 
-finansinės-ūkinės veiklos patikrinimo metinę ataskaitą. Jis privalo nedelsdamas
+sutartis su kitais kredito unijos darbuotojais.
 
-informuoti valdybą ir stebėtojų tarybą apie kredito unijos finansinės-ūkinės
+7. Kredito unijos administracijos vadovo pareigas gali
 
-veiklos pažeidimus, taip pat saugoti kredito unijos paslaptis.
-
-5. Renkamam revizoriui
-
-gali būti mokamas atlyginimas.
-
-6. Kredito unijos
-
-revizorius (nepriklausomas auditorius) atsako Lietuvos Respublikos įstatymų
-
-nustatyta tvarka už nepatenkinamą kredito unijos veiklos kontrolę ir veiklos
-
-trūkumų nuslėpimą.
-
-39 straipsnis.
-
-Administracija
-
-1. Kredito unijos valdyba,
-
-jeigu būtina, sudaro kredito unijos administraciją, į kurią įeina kredito
-
-unijos administracijos vadovas ir vyriausiasis finansininkas (buhalteris) bei
-
-kiti valdymo funkcijas atliekantys darbuotojai.
-
-2. Kredito unijos
-
-administracija vykdo visuotinio susirinkimo ir valdybos nutarimus.
-
-3. Kredito unijos
-
-administracijos pareigas nustato kredito unijos įstatai ir valdybos
-
-patvirtintas darbo reglamentas.
-
-4. Asmenis į kredito
-
-unijos administracijos vadovo ir vyriausiojo finansininko (buhalterio) pareigas
-
-priima kredito unijos valdyba.
-
-5. Kredito unijos
-
-administracijos vadovas negali eiti vyriausiojo finansininko (buhalterio)
-
-pareigų, dirbti kitos kredito unijos ar banko administracijoje.
-
-6. Kredito unijos
-
-administracijos vadovas sudaro darbo sutartis su kitais kredito unijos
-
-darbuotojais.
-
-7. Kredito unijos
-
-administracijos vadovo pareigas gali eiti kredito unijos valdybos pirmininkas
-
-ar kitas valdybos narys.
+eiti kredito unijos valdybos pirmininkas ar kitas valdybos narys.
 
 ŠEŠTASIS
 
 skirsnis
 
-KREDITO
+KREDITO UNIJOS KAPITALAS,
 
-UNIJOS KAPITALAS, NARIO PAJUS,
+NARIO PAJUS,
 
-PAJAMOS IR
+PAJAMOS IR IŠLAIDOS,
 
-IŠLAIDOS, FINANSINĖ APSKAITA IR KONTROLĖ
+FINANSINĖ APSKAITA IR KONTROLĖ
 
-40 straipsnis. Kredito
+40 straipsnis. Kredito unijos kapitalas
 
-unijos kapitalas
+Kredito unijos nuosavas kapitalas susideda iš pajinio,
 
-Kredito unijos nuosavas
+rezervinio bei papildomo kapitalo.
 
-kapitalas susideda iš pajinio, rezervinio bei papildomo kapitalo.
+41 straipsnis. Kredito unijos pajinis kapitalas
 
-41 straipsnis. Kredito
+1. Kredito unijos minimalus pajinis kapitalas negali
 
-unijos pajinis kapitalas
+būti mažesnis kaip 15 000 litų. Jeigu pajinis kapitalas mažesnis, kredito
 
-1. Kredito unijos
+unijos priežiūros institucija gali panaikinti kredito unijai išduotą veiklos
 
-minimalus pajinis kapitalas negali būti mažesnis kaip 15 000 litų. Jeigu
+licenciją.
 
-pajinis kapitalas mažesnis, kredito unijos priežiūros institucija gali
+2. Kredito unijos pajinis kapitalas sudaromas iš
 
-panaikinti kredito unijai išduotą veiklos licenciją.
+kredito unijos steigėjų bei jos narių pajinių piniginių įmokų už kredito unijos
 
-2. Kredito unijos pajinis
+narių pajus.
 
-kapitalas sudaromas iš kredito unijos steigėjų bei jos narių pajinių piniginių
+3. Pajinis kapitalas kaupiamas atsižvelgiant į poreikį
 
-įmokų už kredito unijos narių pajus.
+lėšų, kurias kredito unija nusprendžia investuoti į kredito unijos nuosavą
 
-3. Pajinis kapitalas
+turtą - patalpas, įrangą ir inventorių kredito unijos veiklai pradėti ir
 
-kaupiamas atsižvelgiant į poreikį lėšų, kurias kredito unija nusprendžia
+plėtoti, taip pat Centrinės kredito unijos pajams įsigyti.
 
-investuoti į kredito unijos nuosavą turtą - patalpas, įrangą ir inventorių
+4. Kredito unijos pajiniam kapitalui kaupti draudžiama
 
-kredito unijos veiklai pradėti ir plėtoti, taip pat Centrinės kredito unijos
+naudoti kredito unijos pasiskolintas lėšas ir jai įkeistą turtą.
 
-pajams įsigyti.
+42 straipsnis. Kredito unijos rezervinis kapitalas
 
-4. Kredito unijos
+1. Kredito unija sudaro rezervinį kapitalą, kuris
 
-pajiniam kapitalui kaupti draudžiama naudoti kredito unijos pasiskolintas lėšas
+naudojamas kredito unijos veiklos nuostoliams padengti.
 
-ir jai įkeistą turtą.
+2. Rezervinis kapitalas sudaromas iš kredito unijos
 
-42 straipsnis. Kredito
+pelno, likusio atskaičius mokesčius, kasmet atskaitant ne mažiau kaip po 20
 
-unijos rezervinis kapitalas
+procentų iš šio pelno, kol rezervinis kapitalas sudarys 10 procentų ilgalaikių
 
-1. Kredito unija sudaro
+investicijų ir išduotų paskolų sumos, nustatytos metinio buhalterinio balanso
 
-rezervinį kapitalą, kuris naudojamas kredito unijos veiklos nuostoliams
+pagrindu.
 
-padengti.
+3. Panaudojus dalį rezervinio kapitalo kredito unijos
 
-2. Rezervinis kapitalas
+nuostoliams padengti, iš pelno vėl atskaitoma į kapitalą tiek, kad jis taptų
 
-sudaromas iš kredito unijos pelno, likusio atskaičius mokesčius, kasmet
+nustatyto dydžio.
 
-atskaitant ne mažiau kaip po 20 procentų iš šio pelno, kol rezervinis kapitalas
+4. Nuostoliams, kurie gali būti padengti iš rezervinio kapitalo, priskiriami
 
-sudarys 10 procentų ilgalaikių investicijų ir išduotų paskolų sumos, nustatytos
+nuostoliai, susiję su abejotinais aktyvais - paskolomis ir ilgalaikėmis
 
-metinio buhalterinio balanso pagrindu.
+investicijomis. Kitiems nuostoliams atlyginti rezervinio kapitalo lėšos gali
 
-3. Panaudojus dalį
+būti panaudotos tik kredito unijos visuotinio narių susirinkimo nutarimu.
 
-rezervinio kapitalo kredito unijos nuostoliams padengti, iš pelno vėl
+43 straipsnis. Kredito unijos nario pajus
 
-atskaitoma į kapitalą tiek, kad jis taptų nustatyto dydžio.
+1. Kredito unijos nario pajus gali būti tik piniginė
 
-4. Nuostoliams, kurie gali būti padengti iš rezervinio
+įmoka.
 
-kapitalo, priskiriami nuostoliai, susiję su abejotinais aktyvais - paskolomis
+2. Pajaus mokėjimo tvarka ir atsakomybė už šios
 
-ir ilgalaikėmis investicijomis. Kitiems nuostoliams atlyginti rezervinio
+tvarkos pažeidimus nustatomos kredito unijos įstatuose.
 
-kapitalo lėšos gali būti panaudotos tik kredito unijos visuotinio narių susirinkimo nutarimu.
+3. Minimalus kredito unijos nario fizinio asmens pajaus dydis yra 100 litų, o minimalus
 
-43 straipsnis. Kredito
+nario juridinio asmens pajaus dydis yra 1000 litų. Kredito unijos įstatuose
 
-unijos nario pajus
+gali būti numatytas didesnis minimalaus pajaus dydis. Jei kredito unijos nario
 
-1. Kredito unijos nario
+pajus tapo mažesnis už nustatytą minimalų dydį, valdyba privalo apie tai įspėti narį ir nustatyti terminą pajų padidinti iki
 
-pajus gali būti tik piniginė įmoka.
+nustatyto minimalaus dydžio. Jeigu narys šio reikalavimo neįvykdo, valdyba
 
-2. Pajaus mokėjimo tvarka
+siūlo visuotiniam narių susirinkimui jį šalinti iš kredito unijos.
 
-ir atsakomybė už šios tvarkos pažeidimus nustatomos kredito unijos įstatuose.
+4. Norėdamas atsiimti dalį pajaus, disponavimo kuriuo
 
-3. Minimalus kredito unijos nario fizinio asmens pajaus dydis
+neriboja šis įstatymas ir kredito unijos įstatai, kredito unijos narys pateikia
 
-yra 100 litų, o minimalus nario juridinio asmens pajaus dydis yra 1000 litų.
+prašymą valdybai. Įvertinusi kredito unijos finansinę ir turtinę būklę
 
-Kredito unijos įstatuose gali būti numatytas didesnis minimalaus pajaus dydis.
+(likvidumą), valdyba nustato terminą, per kurį toks prašymas turi būti
 
-Jei kredito unijos nario pajus tapo mažesnis už nustatytą minimalų dydį, valdyba privalo apie tai įspėti narį ir nustatyti
+patenkintas. Šis terminas negali būti ilgesnis kaip 12 mėnesių nuo atitinkamo
 
-terminą pajų padidinti iki nustatyto minimalaus dydžio. Jeigu narys šio
-
-reikalavimo neįvykdo, valdyba siūlo visuotiniam narių susirinkimui jį šalinti
-
-iš kredito unijos.
-
-4. Norėdamas atsiimti
-
-dalį pajaus, disponavimo kuriuo neriboja šis įstatymas ir kredito unijos
-
-įstatai, kredito unijos narys pateikia prašymą valdybai. Įvertinusi kredito
-
-unijos finansinę ir turtinę būklę (likvidumą), valdyba nustato terminą, per
-
-kurį toks prašymas turi būti patenkintas. Šis terminas negali būti ilgesnis
-
-kaip 12 mėnesių nuo atitinkamo valdybos sprendimo priėmimo dienos.
+valdybos sprendimo priėmimo dienos.
 
 5. Išieškoti
 
-iš kredito unijos nario
+iš kredito
 
-pajaus, kuris yra kredito unijos nuosavybė, draudžiama, išskyrus atvejus, kai
+unijos nario pajaus, kuris yra kredito unijos nuosavybė,
 
-skolininkas pasitraukia iš kredito unijos narių.
+draudžiama, išskyrus atvejus, kai skolininkas pasitraukia iš kredito unijos
 
-44 straipsnis. Pelno
+narių.
 
-paskirstymas
+44 straipsnis. Pelno paskirstymas
 
-1. Kredito unijos pelnas
+1. Kredito unijos pelnas yra lėšos, kurios lieka
 
-yra lėšos, kurios lieka atskaičius iš kredito unijos finansinių metų pajamų tų
+atskaičius iš kredito unijos finansinių metų pajamų tų metų kredito unijos
 
-metų kredito unijos išlaidas ir nuostolius.
+išlaidas ir nuostolius.
 
-2. Pelnas turi būti
+2. Pelnas turi būti paskirstytas ne vėliau kaip per 3
 
-paskirstytas ne vėliau kaip per 3 mėnesius po finansinių metų pabaigos, prieš
+mėnesius po finansinių metų pabaigos, prieš tai patvirtinus metinį balansą šio
 
-tai patvirtinus metinį balansą šio ir kitų Lietuvos Respublikos įstatymų
+ir kitų Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-nustatyta tvarka.
-
-3. Nutarime dėl pelno
-
-paskirstymo turi būti nurodyta:
+3. Nutarime dėl pelno paskirstymo turi būti nurodyta:
 
 1) pelno suma;
 
 2) mokesčiai;
 
-3) atskaitymai į
+3) atskaitymai į rezervinį kapitalą;
 
-rezervinį kapitalą;
+4) atskaitymai į kitą kredito unijos kapitalą, skirtą
 
-4) atskaitymai į kitą
+Vyriausybės ar jos įgaliotos institucijos Centrinėje kredito unijoje turimiems
 
-kredito unijos kapitalą, skirtą Vyriausybės ar jos įgaliotos institucijos
+papildomiems pajams išpirkti bei kitoms kredito unijos ilgalaikėms programoms
 
-Centrinėje kredito unijoje turimiems papildomiems pajams išpirkti bei kitoms
+įgyvendinti;
 
-kredito unijos ilgalaikėms programoms įgyvendinti;
+5) pelno dalis (procentais), skiriama kredito unijos
 
-5) pelno dalis
+nariams (pajininkams) pagal kredito unijoje nario laikomų indėlių bei gautų
 
-(procentais), skiriama kredito unijos nariams (pajininkams) pagal kredito
+paskolų mastą (apyvartą). Ši pelno dalis išmokama premijomis ar kita kredito
 
-unijoje nario laikomų indėlių bei gautų paskolų mastą (apyvartą). Ši pelno
+unijos įstatuose nustatyta išmokų forma;
 
-dalis išmokama premijomis ar kita kredito unijos įstatuose nustatyta išmokų
+6) tantjemos kredito unijos valdymo organų nariams ir
 
-forma;
+vadovams;
 
-6) tantjemos kredito
+7) nepaskirstytasis pelnas.
 
-unijos valdymo organų nariams ir vadovams;
+4. Kredito unijos nariams premijos mokamos iš
 
-7) nepaskirstytasis
+pelno, likusio sumokėjus mokesčius bei atskaičius lėšas į rezervinį kapitalą ir
 
-pelnas.
+kitus įstatuose numatytus kredito unijos kapitalus.
 
-4. Kredito unijos
+5. Pelnas, likęs po atskaitymų į kredito unijos
 
-nariams premijos mokamos iš pelno, likusio sumokėjus mokesčius bei atskaičius
+kapitalą, negali būti išmokėtas premijomis ar tantjemomis arba kitaip perduotas
 
-lėšas į rezervinį kapitalą ir kitus įstatuose numatytus kredito unijos
+kredito unijos nariams, steigėjams ar valdymo organų nariams, jeigu kredito
 
-kapitalus.
+unijos pajinis kapitalas dėl to taptų mažesnis už šio įstatymo nustatytą
 
-5. Pelnas, likęs po atskaitymų
+minimumą.
 
-į kredito unijos kapitalą, negali būti išmokėtas premijomis ar tantjemomis arba
+45 straipsnis. Kredito unijos apskaita, atskaitomybė
 
-kitaip perduotas kredito unijos nariams, steigėjams ar valdymo organų nariams,
+ir kontrolė
 
-jeigu kredito unijos pajinis kapitalas dėl to taptų mažesnis už šio įstatymo
+1. Kredito unijos finansiniai metai sutampa su
 
-nustatytą minimumą.
+kalendoriniais metais. Jei kredito unija buvo įregistruota ūkiniams metams
 
-45 straipsnis. Kredito
+prasidėjus, tai pirmųjų ūkinių metų pabaiga laikoma kalendorinių metų paskutinė
 
-unijos apskaita, atskaitomybė ir kontrolė
+diena. Jei kredito unija išregistruojama
 
-1. Kredito unijos
+nepasibaigus ūkiniams metams, tai paskutiniai ūkiniai metai baigiasi kredito
 
-finansiniai metai sutampa su kalendoriniais metais. Jei kredito unija buvo
+unijos išregistravimo dieną.
 
-įregistruota ūkiniams metams prasidėjus, tai pirmųjų ūkinių metų pabaiga
+2. Kredito unijų buhalterinę apskaitą, atskaitomybės
 
-laikoma kalendorinių metų paskutinė diena.
+ir finansinės kontrolės tvarką nustato Lietuvos Respublikos įstatymai ir
 
-Jei kredito unija išregistruojama nepasibaigus ūkiniams metams, tai paskutiniai
+priežiūros institucijos nutarimais patvirtinti teisės aktai.
 
-ūkiniai metai baigiasi kredito unijos išregistravimo dieną.
+3. Per 3 mėnesius nuo finansinių metų pabaigos kredito
 
-2. Kredito unijų
+unija parengia ir pateikia priežiūros institucijai metinę finansinę ataskaitą.
 
-buhalterinę apskaitą, atskaitomybės ir finansinės kontrolės tvarką nustato
+46 straipsnis. Kredito unijos veiklos riziką
 
-Lietuvos Respublikos įstatymai ir priežiūros institucijos nutarimais
+ribojantys normatyvai
 
-patvirtinti teisės aktai.
+Priežiūros institucija gali nustatyti kredito unijoms
 
-3. Per 3 mėnesius nuo
-
-finansinių metų pabaigos kredito unija parengia ir pateikia priežiūros
-
-institucijai metinę finansinę ataskaitą.
-
-46 straipsnis. Kredito
-
-unijos veiklos riziką ribojantys normatyvai
-
-Priežiūros institucija
-
-gali nustatyti kredito unijoms šiuos veiklos riziką ribojančius normatyvus:
+šiuos veiklos riziką ribojančius normatyvus:
 
 1) likvidumo;
 
-2) maksimalios atviros
-
-pozicijos užsienio valiuta;
+2) maksimalios atviros pozicijos užsienio valiuta;
 
 3) kapitalo pakankamumo.
 
@@ -2440,523 +2106,511 @@ SEPTINTASIS
 
 skirsnis
 
-KREDITO
+KREDITO UNIJŲ VEIKLOS
 
-UNIJŲ VEIKLOS PRIEŽIŪRA
+PRIEŽIŪRA
 
-47 straipsnis. Kredito
+47 straipsnis. Kredito unijų veiklos kontrolė ir
 
-unijų veiklos kontrolė ir poveikio priemonių taikymas
+poveikio priemonių taikymas
 
-1. Kredito unijų veiklos
+1. Kredito unijų veiklos priežiūros institucija už šio
 
-priežiūros institucija už šio ir kitų įstatymų bei teisės aktų,
+ir kitų įstatymų bei teisės aktų, reglamentuojančių kredito unijų veiklą,
 
-reglamentuojančių kredito unijų veiklą, pažeidimus turi teisę taikyti kredito
+pažeidimus turi teisę taikyti kredito unijai, jos vadovams šias sankcijas:
 
-unijai, jos vadovams šias sankcijas:
+1) įspėti kredito uniją dėl jos veiklos trūkumų bei
 
-1) įspėti kredito uniją
+pažeidimų ir nustatyti terminus jiems pašalinti;
 
-dėl jos veiklos trūkumų bei pažeidimų ir nustatyti terminus jiems pašalinti;
+2) įstatymų nustatyta tvarka skirti kredito unijos
 
-2) įstatymų nustatyta
+vadovams administracines nuobaudas už šio įstatymo pažeidimus;
 
-tvarka skirti kredito unijos vadovams administracines nuobaudas už šio įstatymo
+3) reikalauti nušalinti kredito unijos valdybos
 
-pažeidimus;
+pirmininką, jos narį (narius) ar administracijos vadovą ir išrinkti naują
 
-3) reikalauti nušalinti
+valdybos pirmininką, jos narį (narius) arba paskirti naują administracijos
 
-kredito unijos valdybos pirmininką, jos narį (narius) ar administracijos vadovą
+vadovą;
 
-ir išrinkti naują valdybos pirmininką, jos narį (narius) arba paskirti naują
+4) sustabdyti kredito unijos stebėtojų tarybos įgaliojimus,
 
-administracijos vadovą;
+nušalinti kredito unijos valdybą, administracijos vadovą ir paskirti kredito
 
-4) sustabdyti kredito
+unijos laikinąjį administratorių;
 
-unijos stebėtojų tarybos įgaliojimus, nušalinti kredito unijos valdybą,
+5) laikinai arba visam laikui atšaukti leidimą atlikti
 
-administracijos vadovą ir paskirti kredito unijos laikinąjį administratorių;
+vieną ar kelias kredito unijos veiklos operacijas;
 
-5) laikinai arba visam
+6) laikinai arba visam laikui atšaukti kredito unijai
 
-laikui atšaukti leidimą atlikti vieną ar kelias kredito unijos veiklos
+išduotą licenciją verstis 7 straipsnyje nustatyta veikla.
 
-operacijas;
+2. Taikytinos sankcijos rūšį ir terminus parenka
 
-6) laikinai arba visam
+priežiūros institucija, atsižvelgdama į pažeidimo pobūdį, galimas jo pasekmes
 
-laikui atšaukti kredito unijai išduotą licenciją verstis 7 straipsnyje
+kredito unijai, taip pat į numatomos taikyti poveikio priemonės pasekmes
 
-nustatyta veikla.
+kredito unijos patikimumui ir stabilumui.
 
-2. Taikytinos sankcijos
+3. Nutarimas dėl poveikio priemonės taikymo,
 
-rūšį ir terminus parenka priežiūros institucija, atsižvelgdama į pažeidimo
+išskyrus nurodytą šio straipsnio 1 dalies 2 punkte, privalo būti priimtas per 3
 
-pobūdį, galimas jo pasekmes kredito unijai, taip pat į numatomos taikyti
+mėnesius nuo pažeidimo nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip vieneri
 
-poveikio priemonės pasekmes kredito unijos patikimumui ir stabilumui.
+metai, poveikio priemonės negali būti taikomos.
 
-3. Nutarimas dėl
+4. Priežiūros institucijos nutarimas dėl sankcijos
 
-poveikio priemonės taikymo, išskyrus nurodytą šio straipsnio 1 dalies 2 punkte,
+taikymo kredito unijai ar jos vadovams gali būti apskųstas teismui Lietuvos
 
-privalo būti priimtas per 3 mėnesius nuo pažeidimo nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo
+Respublikos įstatymų nustatyta tvarka per
 
-daugiau kaip vieneri metai, poveikio priemonės negali būti taikomos.
+mėnesį nuo šio nutarimo priėmimo dienos.
 
-4. Priežiūros
+5. Centrinė kredito unija papildomai kontroliuoja
 
-institucijos nutarimas dėl sankcijos taikymo kredito unijai ar jos vadovams
+nuolatinę kredito unijų Centrinės kredito unijos narių veiklą, o jeigu reikia,
 
-gali būti apskųstas teismui Lietuvos Respublikos įstatymų nustatyta tvarka per mėnesį nuo šio nutarimo priėmimo dienos.
+ją tikrina, vertina veiklos riziką ir teikia priežiūros institucijai
 
-5. Centrinė kredito unija
+rekomendacijas dėl poveikio priemonių taikymo šioms kredito unijoms.
 
-papildomai kontroliuoja nuolatinę kredito unijų Centrinės kredito unijos narių
+6. Priežiūros institucija šio straipsnio 1 dalyje
 
-veiklą, o jeigu reikia, ją tikrina, vertina veiklos riziką ir teikia
+nurodytas sankcijas taiko priežiūros institucijos kolegialiu nutarimu, jei yra
 
-priežiūros institucijai rekomendacijas dėl poveikio priemonių taikymo šioms
+bent vienas iš šių pagrindų:
 
-kredito unijoms.
+1) priežiūros institucijai suteikta neteisinga
 
-6. Priežiūros institucija
+informacija;
 
-šio straipsnio 1 dalyje nurodytas sankcijas taiko priežiūros institucijos
+2) priežiūros institucijai nepateikta būtina kredito
 
-kolegialiu nutarimu, jei yra bent vienas iš šių pagrindų:
+unijos priežiūrai vykdyti informacija ar dokumentai;
 
-1) priežiūros institucijai
+3) nesilaikyta nustatytų normatyvų;
 
-suteikta neteisinga informacija;
+4) pažeisti Lietuvos Respublikos įstatymai ar kiti
 
-2) priežiūros
+teisės aktai.
 
-institucijai nepateikta būtina kredito unijos priežiūrai vykdyti informacija ar
+7. Priežiūros institucija nutarimą taikyti šio
 
-dokumentai;
+straipsnio 1 dalyje nurodytas sankcijas priima vadovaudamasi:
 
-3) nesilaikyta nustatytų
+1) dokumentais ir informacija, patvirtinančia
 
-normatyvų;
+įstatymų, kitų teisės aktų ar normatyvų pažeidimą;
 
-4) pažeisti Lietuvos
+2) kredito unijos ekonominės būklės analize;
 
-Respublikos įstatymai ar kiti teisės aktai.
+3) medžiaga apie anksčiau nustatytus pažeidimus ir
 
-7. Priežiūros institucija
+priežiūros institucijos bei kitų institucijų kredito unijai taikytas sankcijas;
 
-nutarimą taikyti šio straipsnio 1 dalyje nurodytas sankcijas priima
+4) kredito unijos valdybos ar administracijos vadovo
 
-vadovaudamasi:
-
-1) dokumentais ir
-
-informacija, patvirtinančia įstatymų, kitų teisės aktų ar normatyvų pažeidimą;
-
-2) kredito unijos
-
-ekonominės būklės analize;
-
-3) medžiaga apie anksčiau
-
-nustatytus pažeidimus ir priežiūros institucijos bei kitų institucijų kredito
-
-unijai taikytas sankcijas;
-
-4) kredito unijos
-
-valdybos ar administracijos vadovo paaiškinimais.
+paaiškinimais.
 
 AŠTUNTASIS
 
 skirsnis
 
-KREDITO
+KREDITO UNIJOS
 
-UNIJOS REORGANIZAVIMAS IR LIKVIDAVIMAS
+REORGANIZAVIMAS IR LIKVIDAVIMAS
 
-48 straipsnis. Kredito
+48 straipsnis. Kredito unijos reorganizavimas
 
-unijos reorganizavimas
+1. Reorganizavimas - tai kredito unijos, kaip
 
-1. Reorganizavimas - tai
+juridinio asmens, pertvarkymas be likvidavimo procedūros. Reorganizuotos
 
-kredito unijos, kaip juridinio asmens, pertvarkymas be likvidavimo procedūros.
+kredito unijos visų teisių ir prievolių perėmėjai yra reorganizuojant įsteigta
 
-Reorganizuotos kredito unijos visų teisių ir prievolių perėmėjai yra
+nauja ir po reorganizavimo tęsianti veiklą kredito unija (ar kredito unijos).
 
-reorganizuojant įsteigta nauja ir po reorganizavimo tęsianti veiklą kredito
+2. Kredito unijos gali būti reorganizuojamos šiais
 
-unija (ar kredito unijos).
-
-2. Kredito unijos gali
-
-būti reorganizuojamos šiais būdais:
+būdais:
 
 1) jungimosi;
 
 2) padalijimo.
 
-3. Kredito unijų
+3. Kredito unijų reorganizavimas jungimosi būdu
 
-reorganizavimas jungimosi būdu galimas:
+galimas:
 
-1) kai prie kredito
+1) kai prie kredito unijos, kuri tęsia veiklą,
 
-unijos, kuri tęsia veiklą, prisijungia kitos kredito unijos, kurios kaip
+prisijungia kitos kredito unijos, kurios kaip juridiniai asmenys baigia veiklą;
 
-juridiniai asmenys baigia veiklą;
+2) kai iš kelių kredito unijų, kurios kaip juridiniai
 
-2) kai iš kelių kredito
+asmenys baigia veiklą, įsisteigia nauja kredito unija.
 
-unijų, kurios kaip juridiniai asmenys baigia veiklą, įsisteigia nauja kredito
+4. Kredito unijos jungiasi Lietuvos Respublikos
 
-unija.
+konkurencijos įstatymo nustatyta tvarka.
 
-4. Kredito unijos
+5. Kredito unijų reorganizavimas padalijimo būdu
 
-jungiasi Lietuvos Respublikos konkurencijos įstatymo nustatyta tvarka.
+galimas:
 
-5. Kredito unijų
+1) kai kredito unija, kuri baigia veiklą, perduoda
 
-reorganizavimas padalijimo būdu galimas:
+savo teises ir pareigas kitoms kredito unijoms, kurios tęsia veiklą;
 
-1) kai kredito unija,
+2) kai iš kredito unijos, kuri baigia veiklą,
 
-kuri baigia veiklą, perduoda savo teises ir pareigas kitoms kredito unijoms,
+steigiamos naujos kredito unijos;
 
-kurios tęsia veiklą;
+3) kai iš kredito unijos, kuri tęsia veiklą,
 
-2) kai iš kredito unijos,
+atskiriama dalis, kuri jungiasi su kita kredito unija arba iš kurios steigiama
 
-kuri baigia veiklą, steigiamos naujos kredito unijos;
+nauja kredito unija.
 
-3) kai iš kredito unijos,
+6. Reorganizuojamos kredito unijos turi parengti
 
-kuri tęsia veiklą, atskiriama dalis, kuri jungiasi su kita kredito unija arba
+reorganizavimo projektą, kuriame turi būti nurodyta kiekvienos reorganizuojamos
 
-iš kurios steigiama nauja kredito unija.
+kredito unijos:
 
-6. Reorganizuojamos
-
-kredito unijos turi parengti reorganizavimo projektą, kuriame turi būti
-
-nurodyta kiekvienos reorganizuojamos kredito unijos:
-
-1) pavadinimas ir
-
-buveinė;
+1) pavadinimas ir buveinė;
 
 2) narių skaičius;
 
 3) pajinis kapitalas;
 
-4) indėlių ir išduotų
+4) indėlių ir išduotų paskolų bei turto įvertinimas;
 
-paskolų bei turto įvertinimas;
+5) prievolių perėmimo sąlygos ir terminai;
 
-5) prievolių perėmimo
+6) narių pajų tvarkymo po reorganizavimo veiksiančiose
 
-sąlygos ir terminai;
+kredito unijose kriterijai ir taisyklės;
 
-6) narių pajų tvarkymo po
+7) narių indėlių ir nariams išduotų savitarpio paskolų
 
-reorganizavimo veiksiančiose kredito unijose kriterijai ir taisyklės;
+tvarkymo kriterijai prieš reorganizavimą ir po jo;
 
-7) narių indėlių ir
+8) kitos turtinės ir neturtinės narių teisės ir
 
-nariams išduotų savitarpio paskolų tvarkymo kriterijai prieš reorganizavimą ir
+pareigos po kredito unijos reorganizavimo, šių teisių ir pareigų įgijimo
 
-po jo;
+terminai;
 
-8) kitos turtinės ir
+9) teisės, reorganizavimo laikotarpiu suteikiamos
 
-neturtinės narių teisės ir pareigos po kredito unijos reorganizavimo, šių
+kredito unijų valdymo organams, revizoriams (ekspertams).
 
-teisių ir pareigų įgijimo terminai;
+7. Kartu su reorganizavimo projektu turi būti parengti
 
-9) teisės, reorganizavimo
+kiekvienos po reorganizavimo veiksiančios kredito unijos įstatai.
 
-laikotarpiu suteikiamos kredito unijų valdymo organams, revizoriams
+8. Kiekvienos reorganizuojamos kredito unijos valdyba
 
-(ekspertams).
+parengia reorganizavimo projektą, kuriam įvertinti gali būti kviečiamas
 
-7. Kartu su
+nepriklausomas auditorius (ekspertas). Jis privalo pateikti raštu visuotiniam
 
-reorganizavimo projektu turi būti parengti kiekvienos po reorganizavimo
+narių susirinkimui reorganizavimo projekto įvertinimą ir išvadas.
 
-veiksiančios kredito unijos įstatai.
+9. Apie numatomą reorganizavimą kiekviena kredito
 
-8. Kiekvienos
+unija privalo viešai paskelbti ne vėliau kaip prieš 20 dienų iki visuotinio
 
-reorganizuojamos kredito unijos valdyba parengia reorganizavimo projektą,
+narių susirinkimo, kurio darbotvarkėje numatyta svarstyti kredito unijos
 
-kuriam įvertinti gali būti kviečiamas nepriklausomas auditorius (ekspertas).
+reorganizavimą. Kiekvienas kredito unijos narys turi teisę per tą laikotarpį
 
-Jis privalo pateikti raštu visuotiniam narių susirinkimui reorganizavimo
+susipažinti su reorganizavimo projektu ir jo įvertinimu.
 
-projekto įvertinimą ir išvadas.
+10. Priimti nutarimą reorganizuoti kredito uniją ir
 
-9. Apie numatomą
+kartu patvirtinti reorganizavimo projektą bei parengtus įstatus kredito unijos
 
-reorganizavimą kiekviena kredito unija privalo viešai paskelbti ne vėliau kaip
+nariai gali ne mažiau kaip 2/3 visų reorganizuojamos kredito unijos narių
 
-prieš 20 dienų iki visuotinio narių susirinkimo, kurio darbotvarkėje numatyta
+balsų. Visuotinio narių susirinkimo nutarimą dėl atsisakymo reorganizuoti
 
-svarstyti kredito unijos reorganizavimą. Kiekvienas kredito unijos narys turi
+kredito uniją ne mažiau kaip 1/5 narių turi teisę apskųsti teismui.
 
-teisę per tą laikotarpį susipažinti su reorganizavimo projektu ir jo
+11. Reorganizavimas kredito unijos bankroto atveju yra
 
-įvertinimu.
+kredito unijos struktūros pertvarkymas, kai paskirtas administratorius kredito
 
-10. Priimti nutarimą
+uniją skaido arba dalį jos turto parduoda kitoms kredito unijoms, kad būtų
 
-reorganizuoti kredito uniją ir kartu patvirtinti reorganizavimo projektą bei
+laiduojamas kredito unijos mokumas ir patenkinami kreditorių reikalavimai.
 
-parengtus įstatus kredito unijos nariai gali ne mažiau kaip 2/3 visų
+Kredito unija bankroto atveju turi būti reorganizuojama pagal Lietuvos
 
-reorganizuojamos kredito unijos narių balsų. Visuotinio narių susirinkimo
+Respublikos įmonių bankroto bei kitus įstatymus ir teisės aktus,
 
-nutarimą dėl atsisakymo reorganizuoti kredito uniją ne mažiau kaip 1/5 narių
+reglamentuojančius bankų bankroto procedūrą.
 
-turi teisę apskųsti teismui.
+12. Apie kredito unijos reorganizavimą pranešama raštu
 
-11. Reorganizavimas
+kiekvienam jos nariui ir kredito unijos kreditoriui.
 
-kredito unijos bankroto atveju yra kredito unijos struktūros pertvarkymas, kai
+13. Po reorganizavimo veiksiančių kredito unijų
 
-paskirtas administratorius kredito uniją skaido arba dalį jos turto parduoda
+įstatai registruojami po pirmo visuotinio narių susirinkimo. Reorganizuojamos
 
-kitoms kredito unijoms, kad būtų laiduojamas kredito unijos mokumas ir
+kredito unijos įteisinamos, licencijuojamos ir registruojamos pagal šio
 
-patenkinami kreditorių reikalavimai. Kredito unija bankroto atveju turi būti
+įstatymo 14, 15 ir 16 straipsnius.
 
-reorganizuojama pagal Lietuvos Respublikos įmonių bankroto bei kitus įstatymus
+14. Reorganizavus kredito uniją, jos turtas pereina:
 
-ir teisės aktus, reglamentuojančius bankų bankroto procedūrą.
+1) jungimosi ir padalijimo atveju - naujai
 
-12. Apie kredito unijos
+atsiradusiai kredito unijai;
 
-reorganizavimą pranešama raštu kiekvienam jos nariui ir kredito unijos kreditoriui.
+2) prijungimo prie kitos kredito unijos atveju -
 
-13. Po reorganizavimo
+pastarajai.
 
-veiksiančių kredito unijų įstatai registruojami po pirmo visuotinio narių
+15. Turtas pereina perdavimo dokumento pasirašymo
 
-susirinkimo. Reorganizuojamos kredito unijos įteisinamos, licencijuojamos ir
+dieną, jei ko kita nenumato dėl reorganizavimo priimtas dokumentas.
 
-registruojamos pagal šio įstatymo 14, 15 ir 16 straipsnius.
+49 straipsnis. Kredito unijos likvidavimas
 
-14. Reorganizavus kredito
+1. Kredito unijos likvidavimo pagrindas gali būti:
 
-uniją, jos turtas pereina:
+1) kredito unijos veiklos termino, nurodyto jos
 
-1) jungimosi ir
+įstatuose, pasibaigimas;
 
-padalijimo atveju - naujai atsiradusiai kredito unijai;
+2) kredito unijos narių minimalaus skaičiaus, nurodyto
 
-2) prijungimo prie kitos
+šio įstatymo 17 straipsnio 6 dalyje, sumažėjimas ir priežiūros institucijos
 
-kredito unijos atveju - pastarajai.
+draudimas tęsti kredito unijos veiklą esant tokiam narių sumažėjimui;
 
-15. Turtas pereina
+3) 41 straipsnio 1 dalyje nustatyto kredito unijos
 
-perdavimo dokumento pasirašymo dieną, jei ko kita nenumato dėl reorganizavimo
+pajinio kapitalo minimumo sumažėjimas, jeigu per priežiūros institucijos
 
-priimtas dokumentas.
+nurodytą laiką šis minimumas neatkuriamas;
 
-49 straipsnis. Kredito
+4) įmonių rejestro tvarkytojo priimtas sprendimas
 
-unijos likvidavimas
+atšaukti kredito unijos registravimą;
 
-1. Kredito unijos
+5) įsiteisėjęs teismo sprendimas likviduoti
 
-likvidavimo pagrindas gali būti:
+bankrutavusią kredito uniją;
 
-1) kredito unijos veiklos
+6) įsiteisėjęs teismo sprendimas likviduoti kredito
 
-termino, nurodyto jos įstatuose, pasibaigimas;
+uniją už Lietuvos Respublikos įstatymų pažeidimus;
 
-2) kredito unijos narių
+7) visuotinio narių susirinkimo nutarimas likviduoti
 
-minimalaus skaičiaus, nurodyto šio įstatymo 17 straipsnio 6 dalyje, sumažėjimas
+kredito uniją, jeigu jai nekeliama bankroto byla.
 
-ir priežiūros institucijos draudimas tęsti kredito unijos veiklą esant tokiam
+2. Nutarus likviduoti kredito uniją, priežiūros
 
-narių sumažėjimui;
+institucijos teikimu skiriamas likvidatorius. Nuo likvidatoriaus paskyrimo
 
-3) 41 straipsnio 1 dalyje
+dienos kredito unijos valdymo organai netenka įgaliojimų valdyti kredito uniją,
 
-nustatyto kredito unijos pajinio kapitalo minimumo sumažėjimas, jeigu per
+o jų funkcijas atlieka likvidatorius.
 
-priežiūros institucijos nurodytą laiką šis minimumas neatkuriamas;
+3. Likvidatorius praneša kredito uniją įregistravusiai
 
-4) įmonių rejestro
+institucijai ir įmonių rejestro tvarkytojui apie kredito unijos statuso
 
-tvarkytojo priimtas sprendimas atšaukti kredito unijos registravimą;
+pasikeitimą ir duomenis apie likvidatorių. Kredito unijai įgijus likviduojamos
 
-5) įsiteisėjęs teismo
+kredito unijos statusą, prieš jos pavadinimą rašomas žodis „likviduojama“.
 
-sprendimas likviduoti bankrutavusią kredito uniją;
+4. Likviduojama kredito unija gali sudaryti tik tokius
 
-6) įsiteisėjęs teismo
+sandorius, kurie susiję su jos likvidavimu, taip pat numatytus nutarime dėl
 
-sprendimas likviduoti kredito uniją už Lietuvos Respublikos įstatymų
+likvidavimo.
 
-pažeidimus;
+5. Apie kredito unijos likvidavimą viešai skelbiama
 
-7) visuotinio narių
+tris kartus su ne mažesniais kaip 2 mėnesių intervalais arba kiekvienam nariui
 
-susirinkimo nutarimas likviduoti kredito uniją, jeigu jai nekeliama bankroto
+ir kreditoriui pranešama raštu.
 
-byla.
+6. Kredito unijos likvidavimo procedūra atliekama
 
-2. Nutarus likviduoti
+pagal Lietuvos Respublikos įstatymus bei kitus teisės aktus, reglamentuojančius
 
-kredito uniją, priežiūros institucijos teikimu skiriamas likvidatorius. Nuo
+bankų likvidavimą.
 
-likvidatoriaus paskyrimo dienos kredito unijos valdymo organai netenka
+50 straipsnis. Kredito unijos bankroto procedūra
 
-įgaliojimų valdyti kredito uniją, o jų funkcijas atlieka likvidatorius.
+Kredito unijos bankroto bylos iškėlimo, teisminio
 
-3. Likvidatorius praneša
-
-kredito uniją įregistravusiai institucijai ir įmonių rejestro tvarkytojui apie
-
-kredito unijos statuso pasikeitimą ir duomenis apie likvidatorių. Kredito
-
-unijai įgijus likviduojamos kredito unijos statusą, prieš jos pavadinimą
-
-rašomas žodis „likviduojama“.
-
-4. Likviduojama kredito
-
-unija gali sudaryti tik tokius sandorius, kurie susiję su jos likvidavimu, taip
-
-pat numatytus nutarime dėl likvidavimo.
-
-5. Apie kredito unijos
-
-likvidavimą viešai skelbiama tris kartus su ne mažesniais kaip 2 mėnesių
-
-intervalais arba kiekvienam nariui ir kreditoriui pranešama raštu.
-
-6. Kredito unijos likvidavimo
-
-procedūra atliekama pagal Lietuvos Respublikos įstatymus bei kitus teisės
-
-aktus, reglamentuojančius bankų likvidavimą.
-
-50 straipsnis. Kredito
-
-unijos bankroto procedūra
-
-Kredito unijos
-
-bankroto bylos iškėlimo, teisminio nagrinėjimo ir likvidavimo dėl bankroto procedūra atliekama remiantis Lietuvos
-
-Respublikos komercinių bankų įstatymu.
+nagrinėjimo ir likvidavimo dėl bankroto procedūra atliekama remiantis Lietuvos Respublikos komercinių bankų įstatymu.
 
 DEVINTASIS
 
 skirsnis
 
-BAIGIAMOSIOS
+BAIGIAMOSIOS NUOSTATOS
 
-NUOSTATOS
+51 straipsnis. Mokesčių lengvatos
 
-51 straipsnis.
+Mokesčių lengvatos kredito unijoms taikomos
 
-Mokesčių lengvatos
+vadovaujantis mokesčius reglamentuojančiais Lietuvos Respublikos įstatymais
 
-Mokesčių lengvatos
+bei kitais teisės aktais.
 
-kredito unijoms taikomos vadovaujantis mokesčius reglamentuojančiais
+52 straipsnis. Kredito unijų veiklos priežiūra
 
-Lietuvos Respublikos įstatymais bei kitais teisės aktais.
+Kol bus sukurta speciali kredito įstaigų veiklos
 
-52 straipsnis. Kredito
+priežiūros institucija ir patvirtinti jos nuostatai, visų Lietuvos Respublikoje
 
-unijų veiklos priežiūra
+įregistruotų kredito unijų veiklą prižiūri bei licencijas suteikia Lietuvos
 
-Kol bus sukurta speciali
+bankas.
 
-kredito įstaigų veiklos priežiūros institucija ir patvirtinti jos nuostatai,
+53 straipsnis. Kredito unijų įstatų pakeitimas ir
 
-visų Lietuvos Respublikoje įregistruotų kredito unijų veiklą prižiūri bei
+veiklos pertvarkymas
 
-licencijas suteikia Lietuvos bankas.
+1. Kredito unijos turi suderinti savo įstatus su šio
 
-53 straipsnis. Kredito
+įstatymo nuostatomis ne vėliau kaip per vienerius metus nuo šio įstatymo
 
-unijų įstatų pakeitimas ir veiklos pertvarkymas
+įsigaliojimo dienos.
 
-1. Kredito unijos turi
+2. Iki šio įstatymo įsigaliojimo įregistruotų kredito
 
-suderinti savo įstatus su šio įstatymo nuostatomis ne vėliau kaip per vienerius
+unijų įstatų nuostatos galioja tiek, kiek neprieštarauja šiam įstatymui.
 
-metus nuo šio įstatymo įsigaliojimo dienos.
+Kredito unijos savo įstatus taiko kartu su šio įstatymo nuostatomis.
 
-2. Iki šio įstatymo
+3. Kredito unijos turi įvykdyti visus kredito unijų
 
-įsigaliojimo įregistruotų kredito unijų įstatų nuostatos galioja tiek, kiek
+tarpusavio įsipareigojimus per pusę metų nuo įstojimo į Centrinę kredito uniją
 
-neprieštarauja šiam įstatymui. Kredito unijos savo įstatus taiko kartu su šio
+dienos.
 
-įstatymo nuostatomis.
+Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
-3. Kredito unijos turi
-
-įvykdyti visus kredito unijų tarpusavio įsipareigojimus per pusę metų nuo
-
-įstojimo į Centrinę kredito uniją dienos.
-
-Skelbiu šį Lietuvos
-
-Respublikos Seimo priimtą įstatymą.
+įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                 ALGIRDAS
 
 BRAZAUSKAS
 
-___________________
+__________
 
 Pakeitimai:
 
 1.
 
-Lietuvos
+Lietuvos Respublikos Seimas,
 
-Respublikos Seimas, Įstatymas
+Įstatymas
 
-Nr.
+Nr. VIII-551,
 
-VIII-551, 97.12.02, Žin., 1997, Nr.114-2870 (97.12.12)
+1997 12 02, Žin., 1997, Nr. 114-2870 (1997 12 12)
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS KREDITO
 
-RESPUBLIKOS KREDITO UNIJŲ ĮSTATYMO 9, 17 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-
-ĮSTATYMAS
+UNIJŲ ĮSTATYMO 9, 17 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 2.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1683, 00.05.18, Žin., 2000, Nr.45-1289 (00.06.02)
+Nr. VIII-1683, 2000 05 18, Žin., 2000, Nr.
+
+45-1289 (2000 06 02)
 
 KREDITO UNIJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Nauja įstatymo redakcija
 
+3.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. IX-194, 2001 02 27, Žin., 2001, Nr.
+
+23-762 (2001 03 16)
+
+KREDITO UNIJŲ ĮSTATYMO
+
+10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo: Aušrinė
 
-Trapinskienė (2000.06.05)
+Trapinskienė (2001 03 16)
+
+autrap@lrs.lt
+
+25 straipsnis. Nario atsakomybė už
+
+kredito unijai padarytą žalą
+
+1. Kredito unijos narys už kredito unijai padarytą
+
+žalą atsako Lietuvos Respublikos civilinio kodekso nustatyta tvarka. Narystės
+
+kredito unijoje nutraukimas neatleidžia nuo atsakomybės už kredito unijai
+
+padarytą žalą.
+
+2. Kredito unijos narys atsako įdėto pajaus
+
+(priklausančio turto) dydžiu. Kredito unijos įstatuose gali būti nustatyta iki
+
+penkeriopo įdėto pajaus (priklausančio turto) dydžio nario atsakomybė.
+
+PENKTASIS skirsnis
+
+KREDITO UNIJOS VALDYMAS IR
+
+VEIKLOS KONTROLĖ
+
+37 straipsnis. Stebėtojų tarybos,
+
+valdybos ir paskolų komiteto narių atsakomybė
+
+1. Stebėtojų tarybos, valdybos ir paskolų komiteto
+
+nariai už kredito unijai jų padarytą žalą atsako Lietuvos Respublikos įstatymų
+
+nustatyta tvarka.
+
+2. Nuo pareigos atlyginti nuostolius atleidžiami tik
+
+tie stebėtojų tarybos, valdybos ar paskolų komiteto nariai, kurie balsavo prieš
+
+nutarimus, pažeidžiančius šį įstatymą, kredito unijos įstatus ar kitus Lietuvos
+
+Respublikos įstatymus, ar nedalyvavo tokius nutarimus priimant. Šiais atvejais
+
+jie privalo per 7 dienas po to, kai sužinojo ar turėjo sužinoti apie tokį
+
+nutarimą, įteikti posėdžio pirmininkui rašytinį protestą.
 
