@@ -1,0 +1,41 @@
+---
+title: "Lietuvos Respublikos Prezidento įstatymo 6 straipsnio pakeitimo įstatymas"
+identifier: "TAR.63B73F7BBA60"
+country: "lt"
+rank: "istatymas"
+publication_date: "1998-02-24"
+last_updated: "1998-02-25"
+status: "in_force"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.63B73F7BBA60"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "0981010ISTAVIII-642"
+document_number: "VIII-642"
+published_in_tar: "1998-02-24"
+document_status: "registruotas TA registre"
+---
+# Lietuvos Respublikos Prezidento įstatymo 6 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+PREZIDENTO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO
+
+Į S T A T Y M A S
+
+1998 m. vasario 24 d. Nr. VIII-642
+
+Vilnius
+
+(Žin., 1993, Nr. 5-89)
+
+1 straipsnis. 6 straipsnio pakeitimas
+
+6 straipsnyje vietoj žodžių „Kitą dieną po to, kai Respublikos Prezidentas prisiekė“ įrašyti žodžius „Tą dieną, kai naujasis Respublikos Prezidentas pradeda eiti pareigas“ ir šį straipsnį išdėstyti taip:
+
+„6 straipsnis
+
+Tą dieną, kai naujasis Respublikos Prezidentas pradeda eiti pareigas, Lietuvos Respublikos Vyriausybė grąžina jam savo įgaliojimus.“
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
