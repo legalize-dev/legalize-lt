@@ -4,7 +4,7 @@ identifier: "TAR.0B3E8942C5C4"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-12-13"
-last_updated: "2003-06-24"
+last_updated: "2003-11-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0B3E8942C5C4"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -537,11 +537,31 @@ Bedarbiams, nurodytiems šio įstatymo 15 straipsnio 2,
 
 3 ir 4 dalyse, mokama valstybės remiamų pajamų dydžio bedarbio pašalpa.
 
+5 dalies redakcija iki 2004 m.
+
+liepos 1 d.:
+
 Bedarbiams, gaunantiems iš valstybės ar socialinio
 
 draudimo biudžetų pensiją, mažesnę už priklausančią bedarbio (mokymo) pašalpą,
 
 mokamas priklausančios bedarbio pašalpos ir gaunamos pensijos skirtumas.
+
+5 dalies redakcija nuo 2004 m.
+
+liepos 1 d.:
+
+Bedarbiams, gaunantiems iš valstybės ar valstybinio
+
+socialinio draudimo fondo biudžetų pensiją, mažesnę už priklausančią bedarbio
+
+(mokymo) pašalpą, mokamas priklausančios bedarbio pašalpos ir gaunamos pensijos
+
+skirtumas, išskyrus asmenis, gaunančius valstybinę socialinio draudimo senatvės
+
+pensiją pagal Valstybinių socialinio draudimo senatvės pensijų išankstinio
+
+mokėjimo įstatymą.
 
 Įstatymas papildytas straipsniu:
 
@@ -558,6 +578,12 @@ Nr. IX-687,
 Nr. IX-1366,
 
 2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+
+Nr.
+
+IX-1830,
+
+2003-11-18, Žin., 2003, Nr. 114-5118 (2003-12-05)
 
 susitarimu (Darbo sutarties įstatymo 27 straipsnis), atleistiems iš darbo
 
@@ -885,9 +911,9 @@ Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 
-Nr. IX-1366,
+Nr. IX-1366, 2003-03-13,
 
-2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 23
 
@@ -911,11 +937,9 @@ pasiūlymus gyventojų užimtumo programų, nedarbo ribojimo priemonių, papildo
 
 darbo vietų steigimo ar įdarbinimo kvotų negalintiems lygiomis sąlygomis su
 
-kitais konkuruoti darbo rinkoje piliečiams nustatymo, viešųjų darbų
+kitais konkuruoti darbo rinkoje piliečiams nustatymo, viešųjų darbų organizavimo,
 
-organizavimo, bedarbių profesinio konsultavimo, mokymo ir permokymo tvarkos
-
-klausimais;
+bedarbių profesinio konsultavimo, mokymo ir permokymo tvarkos klausimais;
 
 reguliariai
 
@@ -1089,13 +1113,31 @@ BEDARBIŲ
 
 RĖMIMO ĮSTATYMO 14 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1830,
+
+2003-11-18, Žin., 2003, Nr. 114-5118 (2003-12-05)
+
+BEDARBIŲ
+
+RĖMIMO ĮSTATYMO 16(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. liepos 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-07-09)
+Aušrinė Trapinskienė (2003-12-05)
 
 autrap@lrs.lt
 
@@ -1191,9 +1233,9 @@ Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 
-20(2) straipsnis. Vietinių užimtumo iniciatyvų
+20(2) straipsnis. Vietinių užimtumo
 
-projektų įgyvendinimas
+iniciatyvų projektų įgyvendinimas
 
 Vietinių užimtumo iniciatyvų projektai – tai naujų
 
@@ -1235,9 +1277,9 @@ apsaugos ir darbo ministras.
 
 straipsniu:
 
-Nr. IX-1366,
+Nr. IX-1366, 2003-03-13,
 
-2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 V skyrius. LIETUVOS DARBO BIRŽA
 
@@ -1695,21 +1737,17 @@ teritorinės darbo biržos yra išlaikomos iš Užimtumo fondo lėšų ir paslau
 
 teikia nemokamai.
 
-Darbo rinkos
+Darbo rinkos būklės bei darbo rinkos politikos
 
-būklės bei darbo rinkos politikos priemonių ir paslaugų įgyvendinimo klausimams
+priemonių ir paslaugų įgyvendinimo klausimams nagrinėti prie Lietuvos darbo
 
-nagrinėti prie Lietuvos darbo biržos bei teritorinių darbo biržų steigiamos
+biržos bei teritorinių darbo biržų steigiamos visuomeniniais pagrindais veikiančios trišalės komisijos. Jos
 
-visuomeniniais pagrindais veikiančios trišalės komisijos. Jos sudaromos iš
+sudaromos iš vienodo skaičiaus lygiateisių narių: darbuotojų (profesinių
 
-vienodo skaičiaus lygiateisių narių:
+sąjungų, susivienijimų, asociacijų ir kt.), darbdavių (asociacijų,
 
-darbuotojų (profesinių sąjungų, susivienijimų, asociacijų ir kt.), darbdavių
-
-(asociacijų, konfederacijų ir kt.) ir valstybės bei savivaldybių institucijų
-
-atstovų.
+konfederacijų ir kt.) ir valstybės bei savivaldybių institucijų atstovų.
 
 Trišalės komisijos prie Lietuvos darbo biržos
 
@@ -1723,9 +1761,9 @@ Nr. I-1191, 1996
 
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
-Nr. IX-1366,
+Nr. IX-1366, 2003-03-13,
 
-2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Žin., 2003, Nr. 32-1313 (2003-04-02)
 
 24 straipsnis. Bedarbių rėmimo įstatymo laikymosi
 
@@ -1737,7 +1775,7 @@ Valstybinė darbo inspekcija.
 
 Straipsnio pakeitimai:
 
-Nr. IX-1366, 2003-03-13,
+Nr. IX-1366,
 
-Žin., 2003, Nr. 32-1313 (2003-04-02)
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
