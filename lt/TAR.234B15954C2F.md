@@ -4,7 +4,7 @@ identifier: "TAR.234B15954C2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-11"
-last_updated: "2001-01-01"
+last_updated: "2004-04-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2000-05-11"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
+
+Suvestinė redakcija nuo 2004-04-29 iki 2004-07-23
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
 
 LIETUVOS RESPUBLIKOS
 
@@ -41,11 +45,19 @@ BENDROSIOS NUOSTATOS
 
 2. Biomedicininių tyrimų etika – šiame įstatyme numatytų etikos reikalavimų ir principų laikymasis atliekant biomedicininius tyrimus.
 
-3. Pagrindinis tyrėjas – mokslininkas, turintis sutartinius santykius su biomedicininio tyrimo užsakovu ir sveikatos priežiūros įstaigomis, kuriose atliekami biomedicininiai tyrimai. Jeigu biomedicininį tyrimą atlieka grupė, tai jos nariai vadinami tyrėjais, kuriems reikalavimus nustato pagrindinis tyrėjas – grupės vadovas. Tyrimų su medicinos dokumentais atveju pagrindiniu tyrėju laikomas mokslininkas arba turintis medicinos praktikos licenciją gydytojas, turintis sutartinius santykius su biomedicininio tyrimo užsakovu ir sveikatos priežiūros įstaigomis, kuriose atliekami biomedicininiai tyrimai.
+3. Tyrėjas – gydytojas ar asmuo, kuris gali atlikti biomedicininį tyrimą, nes turi atitinkamą išsilavinimą ir pacientų priežiūros patirties. Tyrėjas atsako už biomedicininį tyrimą, atliekamą tyrimo vietoje. Jei biomedicininį tyrimą tyrėjas atlieka vienas arba tyrimo atlikimo vietoje vadovauja tyrimą atliekančių asmenų grupei ir yra atsakingas už šios grupės veiklą, tyrėjas vadinamas pagrindiniu tyrėju. Kvalifikacinius reikalavimus pagrindiniam tyrėjui nustato Sveikatos apsaugos ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
 
 4. Biomedicininio tyrimo užsakovas – fizinis, juridinis asmuo ar įmonė, neturinti juridinio asmens teisių, inicijuojantis, finansuojantis, kontroliuojantis ir atsakingas už biomedicininio tyrimo vykdymą, jo pasekmes ir duomenų paskelbimą.
 
-5. Tiriamasis – asmuo, kuriam atliekamas biomedicininis tyrimas.
+5. Tiriamasis – asmuo, dalyvaujantis biomedicininiame tyrime.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
 
 6. Tiriamojo atstovas – įstatyminis atstovas ar atstovas pagal pavedimą. Atstovo pagal pavedimą įgaliojimų įforminimas turi būti atliktas Lietuvos Respublikos įstatymų nustatyta tvarka.
 
@@ -60,6 +72,12 @@ BENDROSIOS NUOSTATOS
 11. Informacijos konfidencialumas – informacijos apie tiriamojo sveikatos būklę, diagnozę, prognozę, gydymą ir kitus su tiriamojo sveikata susijusius asmeninio pobūdžio faktus išsaugojimas.
 
 12. Moralinė žala – žala, atsiradusi dėl medicinos etikos reikalavimų neatitinkančios pagrindinio tyrėjo ir kitų biomedicininį tyrimą atliekančių asmenų veikos. Šiuos medicinos etikos reikalavimus nustato Lietuvos bioetikos komitetas.
+
+13. Klinikinis vaistinio preparato tyrimas – visi su žmonėmis susiję biomedicininiai tyrimai, skiriami nustatyti, patikrinti ir patvirtinti vieno arba kelių tiriamųjų vaistinių preparatų klinikinį, farmakologinį ir (arba) kitokį farmakodinaminį poveikį, ir (arba) nustatyti nepageidaujamas reakcijas į vieną ar kelis tiriamuosius vaistinius preparatus, ir (arba) ištirti vieno ar kelių tiriamųjų preparatų absorbciją, pasiskirstymą, metabolizmą ir išsiskyrimą, siekiant nustatyti tiriamojo vaistinio preparato saugą ir (arba) veiksmingumą.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
 
 3 straipsnis. Biomedicininių tyrimų tikslai, objektai ir atlikimo ypatumai
 
@@ -181,11 +199,15 @@ BIOMEDICININIŲ TYRIMŲ ATLIKIMO KONTROLĖS TVARKA
 
 12 straipsnis. Leidimus išduodančios institucijos
 
-1. Biomedicininiai tyrimai Lietuvoje gali būti atliekami tik gavus Lietuvos bioetikos komiteto ar Regioninio biomedicininių tyrimų etikos komiteto leidimą. Biomedicininių tyrimų atlikimas neturint leidimo yra neteisėtas.
+1. Biomedicininiai tyrimai Lietuvoje gali būti atliekami tik gavus šio straipsnio 2 dalyje nurodytų institucijų leidimą. Biomedicininių tyrimų atlikimas neturint leidimo yra neteisėtas.
 
-2. Leidimus išduoda Lietuvos bioetikos komitetas, kuris turi teisę šias funkcijas perduoti Regioniniam biomedicininių tyrimų etikos komitetui. Jei Regioninis biomedicininių tyrimų etikos komitetas netinkamai atlieka šias funkcijas, teisė išduoti leidimus gali būti panaikinta motyvuotu Lietuvos bioetikos komiteto sprendimu.
+2. Leidimus atlikti biomedicininį tyrimą, išskyrus klinikinį vaistinio preparato tyrimą, išduoda Lietuvos bioetikos komitetas, kuris turi teisę šias funkcijas perduoti Regioniniam biomedicininių tyrimų etikos komitetui. Jei Regioninis biomedicininių tyrimų etikos komitetas šias funkcijas atlieka netinkamai, teisė išduoti leidimus gali būti panaikinta motyvuotu Lietuvos bioetikos komiteto pritarimu.
 
-3. Leidimai vaistų klinikiniams tyrimams išduodami Valstybinės vaistų kontrolės tarnybos teikimu.
+3. Leidimus atlikti klinikinį vaistinio preparato tyrimą išduoda Valstybinė vaistų kontrolės tarnyba prie Sveikatos apsaugos ministerijos Lietuvos bioetikos komiteto ar Regioninio biomedicininių tyrimų etikos komiteto pritarimu. Leidimų atlikti klinikinį vaistinio preparato tyrimą išdavimo tvarką nustato Sveikatos apsaugos ministerija.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
 
 13 straipsnis. Lietuvos bioetikos komiteto steigimas ir kompetencija
 
@@ -285,167 +307,21 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-21 straipsnis. Lietuvos bioetikos komitetas
-
-1. Lietuvos bioetikos komitetas yra biudžetinė įstaiga, išlaikoma iš valstybės biudžeto ir kitų valstybės pinigų fondų. Lietuvos bioetikos komiteto savininko teises ir pareigas įgyvendina Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija).
-
-2. Lietuvos bioetikos komitetas:
-
-1) analizuoja bioetikos problemas ir konsultuoja valstybės ir savivaldybių institucijas, įstaigas, organizacijas bioetikos klausimais, teikia išvadas ir pasiūlymus dėl šiuos klausimus reglamentuojančių įstatymų ir kitų teisės aktų projektų;
-
-2) išduoda leidimus atlikti biomedicininius tyrimus, išskyrus klinikinius vaistinių preparatų tyrimus, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose daugiau kaip vieno regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje, ir atlieka šių tyrimų etinę priežiūrą;
-
-3) išduoda pritarimo atlikti klinikinius vaistinio preparato tyrimus liudijimus ir atlieka šių biomedicininių tyrimų etinę priežiūrą;
-
-4) išduoda leidimus teikti biobankuose tvarkomus žmogaus biologinius ėminius ir (ar) sveikatos informaciją šio įstatymo 17 straipsnio 2 dalyje nurodytiems asmenims;
-
-5) sveikatos apsaugos ministro nustatyta tvarka atlieka biomedicininių tyrimų apskaitą, kaupia, saugo ir teikia informaciją apie juos, užtikrindamas konfidencialios informacijos apsaugą;
-
-6) rengia ir tvirtina pavyzdines Lietuvos bioetikos komiteto, regioninių biomedicininių tyrimų etikos komitetų išduodamų ir Lietuvos bioetikos komitetui, regioniniams biomedicininių tyrimų etikos komitetams pateikiamų dokumentų formas;
-
-7) prižiūri regioninių biomedicininių tyrimų etikos komitetų veiklą;
-
-8) kiekvienais metais atsiskaito Sveikatos apsaugos ministerijai už savo veiklą ir teikia pasiūlymus dėl bioetikos problemų sprendimo;
-
-9) prižiūri, kaip sveikatos priežiūros specialistai ir įstaigos, teikiančios asmens ir visuomenės sveikatos priežiūros paslaugas, laikosi bioetikos reikalavimų;
-
-10) teikia metodinę paramą ir konsultuoja sveikatos priežiūros įstaigų medicinos etikos komisijas ir kitas institucijas bioetikos klausimais;
-
-11) pagal kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose;
-
-12) atlieka kitas šiame įstatyme, kituose įstatymuose ir Lietuvos bioetikos komiteto nuostatuose nustatytas funkcijas.
-
-3. Leidimus atlikti biomedicininius tyrimus ir pritarimo atlikti klinikinius vaistinio preparato tyrimus liudijimus Lietuvos bioetikos komitetas išduoda, kai yra teigiama Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės išvada.
-
-4. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę sudaro 9 nariai, iš jų 5 yra biomedicinos mokslų, 4 – mokslo laipsnį turintys socialinių ar humanitarinių mokslų srities specialistai. Per sveikatos apsaugos ministro nustatytą terminą ir jo nustatyta tvarka biomedicinos mokslų srities specialistus į Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę siūlo asmens sveikatos priežiūros specialistų asociacijos, o socialinių ar humanitarinių mokslų srities specialistus siūlo universitetai, kuriuose yra dėstomi bioetikos arba sveikatos teisės dalykai. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės personalinę sudėtį tvirtina sveikatos apsaugos ministras, vadovaudamasis nešališkumo ir skaidrumo principais, atsižvelgdamas į kandidatų profesinę kvalifikaciją ir kompetenciją bei patirtį biomedicininių tyrimų etikos srityje. Šios grupės veiklos ir ekspertų darbo apmokėjimo tvarką nustato sveikatos apsaugos ministras.
-
-5. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės kadencija – 4 metai. Tas pats asmuo Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nariu gali būti ne daugiau kaip dvi kadencijas iš eilės.
-
-6. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario įgaliojimai nutrūksta, kai pasibaigia jo kadencija, jis atsistatydina, jį atšaukia sveikatos apsaugos ministras jo kandidatūrą pasiūliusios asociacijos ar institucijos teikimu arba jis nebegali eiti Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario pareigų dėl ligos, taip pat kai jis miršta. Tokiais atvejais, jeigu Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės kadencija nepasibaigusi, iki jos pabaigos siūloma nauja Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario kandidatūra ir naujas šios grupės narys tvirtinamas šio įstatymo nustatyta tvarka.
-
-22 straipsnis. Regioninių biomedicininių tyrimų etikos komitetų sudarymas ir jų kompetencija
-
-1. Regioniniai biomedicininių tyrimų etikos komitetai sudaromi prie universitetų, kuriuose vykdomos trijų pakopų medicinos studijos. Lėšos regioninių biomedicininių tyrimų etikos komitetų veiklai numatomos iš Sveikatos apsaugos ministerijai skiriamų valstybės biudžeto asignavimų.
-
-2. Regioninių biomedicininių tyrimų etikos komitetų sudarymo, veiklos, jų kompetencijai priskirtų klausimų sprendimo tvarką reglamentuoja regioninių biomedicininių tyrimų etikos komitetų nuostatai, kuriuos, suderinęs su sveikatos apsaugos ministru, tvirtina universiteto rektorius. Regioninių biomedicininių tyrimų etikos komitetų veiklos teritorines ribas nustato sveikatos apsaugos ministras.
-
-3. Regioniniai biomedicininių tyrimų etikos komitetai sudaromi regioninių biomedicininių tyrimų etikos komitetų nuostatuose nustatyta tvarka iš 9 narių:
-
-1) du mokslo laipsnį turinčius biomedicinos mokslų srities specialistus ir du mokslo laipsnį turinčius socialinių ar humanitarinių mokslų srities specialistus skiria universitetas, prie kurio sudarytas regioninis biomedicininių tyrimų etikos komitetas;
-
-2) tris sveikatos priežiūros specialistus iš tame regione veikiančių sveikatos priežiūros įstaigų ir vieną socialinių ar humanitarinių mokslų srities specialistą skiria sveikatos apsaugos ministras;
-
-3) vieną narį skiria pacientų organizacijos.
-
-4. Regioninio biomedicininių tyrimų etikos komiteto personalinę sudėtį, suderinęs su sveikatos apsaugos ministru, tvirtina universiteto rektorius. Regioninio biomedicininių tyrimų etikos komiteto nario kadencija – 4 metai. Regioninio biomedicininių tyrimų etikos komiteto nariu galima būti ne daugiau kaip dvi kadencijas iš eilės.
-
-5. Regioninis biomedicininių tyrimų etikos komitetas:
-
-1) išduoda leidimus atlikti biomedicininius tyrimus, išskyrus klinikinius vaistinių preparatų tyrimus, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose tik atitinkamo regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje;
-
-2) teikia išvadas Lietuvos bioetikos komitetui, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose daugiau kaip vieno regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje;
-
-3) teikia išvadas Lietuvos bioetikos komitetui, kai klinikinius vaistinio preparato tyrimus planuojama atlikti jų veiklai priskirtoje teritorijoje;
-
-4) atlieka biomedicininių tyrimų, kuriuos atlikti jis išdavė leidimą, ir klinikinių vaistinių preparatų tyrimų, dėl kurių atlikimo pateikė išvadas, etinę priežiūrą;
-
-5) atlieka išduotų leidimų apskaitą;
-
-6) teikia veiklos ataskaitas Lietuvos bioetikos komitetui jo nustatyta tvarka.
-
-23 straipsnis. Dokumentų priėmimas, jų svarstymas ir leidimų išdavimas
-
-1. Biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas, norėdami gauti leidimą atlikti biomedicininį tyrimą, Lietuvos bioetikos komitetui ar regioniniam biomedicininių tyrimų etikos komitetui pateikia dokumentus, kurių sąrašą tvirtina sveikatos apsaugos ministras. Dokumentai turi būti išnagrinėti ir leidimas atlikti biomedicininį tyrimą išduotas arba jį išduoti motyvuotai atsisakyta ne vėliau kaip per 45 kalendorines dienas nuo visų tinkamai įformintų dokumentų gavimo dienos. Dokumentai turi būti išnagrinėti ir leidimas atlikti biomedicininį tyrimą su medicinos priemone išduotas arba jį išduoti motyvuotai atsisakyta ne vėliau kaip per 60 kalendorinių dienų nuo visų tinkamai įformintų dokumentų gavimo dienos.
-
-2. Leidimų atlikti biomedicininį tyrimą išdavimo tvarką nustato sveikatos apsaugos ministras.
-
-3. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas priima sprendimą neišduoti leidimo atlikti biomedicininį tyrimą, kai iš pateiktų dokumentų nustatoma, kad biomedicininis tyrimas prieštarauja šio įstatymo II skyriuje nustatytiems biomedicininių tyrimų etikos reikalavimams, pateikti ne visi ir (ar) klaidingi dokumentai ir (ar) informacija ir neįvykdytas reikalavimas ištaisyti šiuos trūkumus, o sprendimą neišduoti leidimo atlikti biomedicininį tyrimą su medicinos priemone – dar ir tuo atveju, kai Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos pateikia išvadą, kad medicinos priemonė neatitinka sveikatos apsaugos ministro nustatytų reikalavimų medicinos priemonėms, skirtoms klinikiniams tyrimams.
-
-4. Už dokumentų, kurie pateikiami norint gauti leidimą atlikti biomedicininį tyrimą, ekspertizę ir leidimų išdavimą mokama nustatyto dydžio valstybės rinkliava.
-
-24 straipsnis. Leidimo atlikti biomedicininį tyrimą galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir leidimo atlikti biomedicininį tyrimą panaikinimas
-
-1. Leidimo atlikti biomedicininį tyrimą galiojimas sustabdomas šiais atvejais:
-
-1) nustatyta šio įstatymo II skyriuje nurodytų biomedicininių tyrimų etikos reikalavimų pažeidimų, dėl ko gali būti reikšmingai pakenkta tiriamųjų teisėms, saugumui, sveikatai ir (ar) biomedicininio tyrimo duomenų kokybei ir (ar) vientisumui, arba turima informacijos apie galimus tokius pažeidimus;
-
-2) to prašo biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas;
-
-3) nustatyta sveikatos apsaugos ministro patvirtintų reikalavimų medicinos priemonėms, skirtoms klinikiniams tyrimams, pažeidimų, dėl kurių reikšmingai gali būti pakenkta tiriamųjų teisėms, saugumui, sveikatai ir (ar) biomedicininio tyrimo duomenų kokybei ir (ar) vientisumui.
-
-2. Priėmus sprendimą sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą šio straipsnio 1 dalies 1 punkto pagrindu, ne vėliau kaip per 3 kalendorines dienas nuo sprendimo priėmimo dienos raštu apie tai informuojamas biomedicininio tyrimo užsakovas, pagrindinis tyrėjas, tyrimo centro vadovas ir nurodomas terminas, per kurį būtina pašalinti nurodytus pažeidimus. Šis terminas negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimams pašalinti reikia ilgesnio laikotarpio arba kai leidimo atlikti biomedicininį tyrimą galiojimas sustabdomas biomedicininio tyrimo užsakovo ar pagrindinio tyrėjo prašymu dėl kitų negu pažeidimai priežasčių. Biomedicininio tyrimo užsakovas, pagrindinis tyrėjas ir tyrimo centro vadovas privalo užtikrinti, kad biomedicininis tyrimas būtų nedelsiant sustabdytas.
-
-3. Sprendimas panaikinti leidimo galiojimo sustabdymą yra priimamas, kai nenustatoma pažeidimų arba pažeidimai pašalinti, o kai leidimo atlikti biomedicininį tyrimą galiojimas sustabdomas biomedicininio tyrimo užsakovo, jo įgalioto atstovo ar pagrindinio tyrėjo prašymu dėl kitų negu pažeidimai priežasčių – kai biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas pateikia prašymą panaikinti sprendimą sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą.
-
-4. Leidimo atlikti biomedicininį tyrimą galiojimas panaikinamas šiais atvejais:
-
-1) nustatoma šio įstatymo II skyriuje nustatytų biomedicininių tyrimų etikos reikalavimų pažeidimų, kurie gali reikšmingai pakenkti tiriamųjų teisėms, saugumui, sveikatai ir (ar) biomedicininio tyrimo duomenų kokybei bei vientisumui ir kurių negalima pašalinti sustabdžius biomedicininį tyrimą;
-
-2) nustatyti šio įstatymo II skyriuje nustatytų biomedicininių tyrimų etikos reikalavimų pažeidimai, kurie gali reikšmingai pakenkti tiriamųjų teisėms, saugumui, sveikatai ir (ar) biomedicininio tyrimo duomenų kokybei bei vientisumui, dėl kurių buvo sustabdytas leidimas atlikti biomedicininį tyrimą ir kurie per nustatytą terminą nebuvo pašalinti;
-
-3) kai to prašo biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas;
-
-4) kai biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas per dvejus metus nuo sprendimo sustabdyti leidimą atlikti biomedicininį tyrimą šio straipsnio 1 dalies 2 punkto pagrindu priėmimo dienos nepateikia prašymo panaikinti leidimo galiojimo sustabdymą;
-
-5) nustatyti sveikatos apsaugos ministro patvirtintų reikalavimų medicinos priemonėms, skirtoms klinikiniams tyrimams, pažeidimai, dėl kurių gali būti reikšmingai pakenkta tiriamųjų teisėms, saugumui, sveikatai ir (ar) biomedicininio tyrimo duomenų kokybei ir (ar) vientisumui ir kurių negalima pašalinti sustabdžius biomedicininį tyrimą arba dėl kurių buvo sustabdytas leidimas atlikti biomedicininį tyrimą ir kurie per nustatytą terminą nebuvo pašalinti.
-
-5. Priėmus sprendimą panaikinti leidimo atlikti biomedicininį tyrimą galiojimą, ne vėliau kaip per 3 kalendorines dienas nuo sprendimo priėmimo dienos raštu apie tai informuojamas biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas, tyrimo centro vadovas, kurie privalo užtikrinti, kad biomedicininis tyrimas būtų nedelsiant nutrauktas.
-
-6. Įgaliojimus sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą, panaikinti leidimo galiojimo sustabdymą, panaikinti leidimo atlikti biomedicininį tyrimą galiojimą turi ta institucija, kuri tokį leidimą išdavė.
-
-25 straipsnis. Skundų nagrinėjimo tvarka
-
-1. Regioninio biomedicininių tyrimų etikos komiteto sprendimą atsisakyti išduoti leidimą atlikti biomedicininį tyrimą, panaikinti ar sustabdyti leidimo galiojimą biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas turi teisę per 15 kalendorinių dienų nuo tokio sprendimo gavimo dienos apskųsti Lietuvos bioetikos komitetui. Lietuvos bioetikos komitetas šį skundą turi išnagrinėti ir priimti sprendimą per 30 kalendorinių dienų nuo jo gavimo dienos.
-
-2. Skundo padavimas nesustabdo sprendimo panaikinti ar sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą vykdymo.
-
-3. Išnagrinėjęs biomedicininio tyrimo užsakovo, jo įgalioto atstovo ar pagrindinio tyrėjo skundą dėl regioninio biomedicininių tyrimų etikos komiteto sprendimo atsisakyti išduoti leidimą atlikti biomedicininį tyrimą, panaikinti ar sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą, Lietuvos bioetikos komitetas priima sprendimą:
-
-1) biomedicininio tyrimo užsakovo, jo įgalioto atstovo ar pagrindinio tyrėjo skundą atmesti ir regioninio biomedicininių tyrimų etikos komiteto sprendimą palikti nepakeistą arba
-
-2) biomedicininio tyrimo užsakovo, jo įgalioto atstovo ar pagrindinio tyrėjo skundą patenkinti ir išduoti leidimą atlikti biomedicininį tyrimą ar priimti sprendimą dėl sprendimo panaikinti ar sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą panaikinimo.
-
-4. Lietuvos bioetikos komiteto priimtas sprendimas ne vėliau kaip per 5 darbo dienas nuo jo priėmimo dienos išsiunčiamas asmeniui, padavusiam skundą, ir skundžiamą sprendimą priėmusiam regioniniam biomedicininių tyrimų etikos komitetui.
-
-5. Lietuvos bioetikos komiteto sprendimą atsisakyti išduoti leidimą atlikti biomedicininį tyrimą, panaikinti ar sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą, taip pat Lietuvos bioetikos komiteto sprendimą atmesti biomedicininio tyrimo užsakovo, jo įgalioto atstovo ar pagrindinio tyrėjo skundą ir regioninio biomedicininių tyrimų etikos komiteto sprendimą palikti nepakeistą biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas turi teisę apskųsti teismui įstatymų nustatyta tvarka.
-
-6. Tiriamieji ar šio įstatymo nustatytais atvejais kiti asmens sutikimą dalyvauti tyrime turintys teisę duoti asmenys turi teisę apskųsti biomedicininio tyrimo užsakovo, jo įgalioto atstovo, pagrindinio tyrėjo ir kitų biomedicininį tyrimą atliekančių asmenų veiksmus leidimą išdavusiai institucijai, teismui įstatymų ir kitų teisės aktų nustatyta tvarka.
-
-7. Asmenys, kurių biologinis ėminys ir (ar) sveikatos informacija tvarkomi biobanke, turi teisę apskųsti biobanko veiksmus įstatymų ir kitų teisės aktų nustatyta tvarka.
-
-V SKYRIUS
-
-BAIGIAMOSIOS NUOSTATOS
-
-26 straipsnis. Atsakomybė už biomedicininių tyrimų etikos reikalavimų pažeidimus
-
-1. Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
-
-2. Biomedicininio tyrimo atlikimas be leidimo arba nesilaikant šio įstatymo ir kitų teisės aktų nustatytų reikalavimų, nesukėlęs turtinės ir neturtinės žalos tiriamojo sveikatai, prilyginamas netinkamam profesinių pareigų atlikimui.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
 Lietuvos Respublikos
 
-biomedicininių tyrimų
+2000 m. gegužės 11 d.
 
-etikos įstatymo
+įstatymo Nr. VIII-1679
 
 priedas
 
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
 
-1. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių narių įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 26 tomas, p. 299).
+2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių narių įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo.
 
 Papildyta priedu:
 
 Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
-
-Priedo pakeitimai:
-
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
 
 Pakeitimai:
 
@@ -456,90 +332,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
 
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 2, 12 straipsnių pakeitimo bei papildymo ir įstatymo papildymo priedu įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
-
-Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 2 ir 11 straipsnių pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1074, 2007-04-03, Žin., 2007, Nr. 43-1634 (2007-04-19), i. k. 1071010ISTA00X-1074
-
-Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
-
-Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 1, 2, 4, 12, 13, 14, 15, 16, 17 straipsnių ir priedo pakeitimo ir papildymo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1692, 2011-11-17, Žin., 2011, Nr. 146-6838 (2011-12-01), i. k. 1111010ISTA0XI-1692
-
-Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 11 straipsnio pakeitimo ir 20 straipsnio pripažinimo netekusiu galios įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
-
-Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 4, 6, 11 ir 13 straipsnių pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1938, 2015-09-17, paskelbta TAR 2015-09-25, i. k. 2015-14272
-
-Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 pakeitimo įstatymas
-
-2. Klinikiniams tyrimams su medicinos priemone taikomi šio įstatymo 2 straipsnio 4, 6, 7, 9, 10, 13–16 ir 26 dalys, 4 straipsnio 3 ir 4 punktas, 6 straipsnio 1 dalies 1, 2, 4, 5, 7 punktai, 3 ir 4 dalys, 7 straipsnio 3 ir 4 dalys, 11 straipsnio 5 dalis, 12 straipsnio 31 ir 4 dalys, 21 straipsnio 1 dalis, 2 dalies 13 punktas ir 3–7 dalys, 22 straipsnio 1–4 dalys, 5 dalies 3 punktas, 241 straipsnis, 25 straipsnio 6 dalis ir 26 straipsnis ir Reglamento (ES) 2017/745 reikalavimai.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
-
-3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
-
-3. Klinikiniams vaistinių preparatų tyrimams taikomi šio įstatymo 2 straipsnio 4, 6, 7, 9, 10, 111, 13–16 ir 26 dalys, 3 straipsnio 8 dalis, 6 straipsnio 1 dalies 1, 2, 4, 5, 7 punktai ir 3 dalis, 7 straipsnio 3 ir 4 dalys, 11 straipsnio 4 dalis, 111 straipsnis, 12 straipsnio 1, 2, 32, 33 ir 4 dalys, 21 straipsnio 1 dalis, 2 dalies 3 punktas ir 3–7 dalys, 22 straipsnio 1–4 dalys, 5 dalies 3 punktas, 242 straipsnis, 25 straipsnio 6 dalis, 26 straipsnis ir Reglamento (ES) Nr. 536/2014 reikalavimai.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
-
-4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
-
-242 straipsnis. Institucijos, suteikiančios teisę atlikti klinikinius vaistinių preparatų tyrimus ir atliekančios klinikinių vaistinių preparatų tyrimų priežiūrą
-
-1. Valstybinė vaistų kontrolės tarnyba atlieka klinikinio vaistinio preparato tyrimo paraiškos Reglamento (ES) Nr. 536/2014 6 ir (ar) 7 straipsniuose nurodytais aspektais mokslinį vertinimą ir išduoda leidimą atlikti klinikinį vaistinio preparato tyrimą, jeigu pagal šį vertinimą ir Lietuvos bioetikos komiteto klinikinio vaistinio preparato tyrimo paraiškos etinio vertinimo išvadą klinikinis vaistinio preparato tyrimas atitinka Reglamente (ES) Nr. 536/2014 nustatytus reikalavimus.
-
-2. Valstybinė vaistų kontrolės tarnyba atlieka esminio klinikinio vaistinio preparato tyrimo pakeitimo paraiškos Reglamento (ES) Nr. 536/2014 6 ir (ar) 7 straipsniuose nurodytais aspektais mokslinį vertinimą ir išduoda leidimą atlikti esminį vaistinio preparato tyrimo pakeitimą, jeigu pagal šį vertinimą ir Lietuvos bioetikos komiteto esminio klinikinio vaistinio preparato tyrimo pakeitimo paraiškos etinio vertinimo išvadą klinikinio vaistinio preparato tyrimo pakeitimas atitinka Reglamente (ES) Nr. 536/2014 nustatytus reikalavimus.
-
-3. Lietuvos bioetikos komitetas šio straipsnio 1 ir 2 dalyse nurodytas išvadas Valstybinei vaistų kontrolės tarnybai pateikia ne vėliau kaip likus 2 darbo dienoms iki Reglamento (ES) Nr. 536/2014 8 straipsnio 1 dalyje, 14 straipsnio 3 dalyje, 19 straipsnio 1 dalyje, 20 straipsnio 5 dalyje ar 23 straipsnio 1 dalyje nustatyto atitinkamos paraiškos vertinimo termino pabaigos.
-
-4. Valstybinė vaistų kontrolės tarnyba atlieka Reglamento (ES) Nr. 536/2014 II, III ir XIII skyriuose nurodytas ataskaitą rengiančios valstybės narės, o kai Lietuvos Respublika pagal Reglamentą (ES) Nr. 536/2014 yra ataskaitą rengianti valstybė narė, – susijusios valstybės narės ir sveikatos apsaugos ministro nustatyta tvarka nacionalinio kontaktinio centro, nurodyto Reglamento (ES) Nr. 536/2014 83 straipsnyje, funkcijas ir užtikrina Lietuvos bioetikos komitetui ir regioniniams biomedicininių tyrimų etikos komitetams prieigą prie Reglamento (ES) Nr. 536/2014 80 straipsnyje nurodyto Europos Sąjungos portalo.
-
-5. Lietuvos bioetikos komitetas Reglamento (ES) Nr. 536/2014 44 straipsnyje nustatyta tvarka dalyvauja vertinant Reglamento (ES) Nr. 536/2014 42 ir 43 straipsniuose nurodytą informaciją.
-
-6. Lietuvos bioetikos komitetas kreipiasi į Valstybinę vaistų kontrolės tarnybą, prašydamas imtis Reglamento (ES) Nr. 536/2014 77 straipsnyje numatytų priemonių, kai turi duomenų, kad nesilaikoma Reglamente (ES) Nr. 536/2014 nustatytų reikalavimų.
-
-Papildyta straipsniu:
-
-Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 
