@@ -4,7 +4,7 @@ identifier: "TAR.594F129CE9AD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "1999-05-01"
+last_updated: "2000-10-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
+
+Suvestinė redakcija nuo 2000-10-11 iki 2000-12-31
+
+Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
 
 LIETUVOS RESPUBLIKOS
 
@@ -47,19 +51,33 @@ Vilnius
 
 1. Savivaldybės visuomeninė administracinių ginčų komisija sudaroma 3 metams savivaldybės tarybos sprendimu iš 5 narių, iš kurių bent pirmininkas ir sekretorius turi turėti aukštąjį teisinį išsilavinimą. Komisijos narių kandidatūras, iš jų ir pirmininko kandidatūrą, savivaldybės tarybai teikia savivaldybės meras.
 
-2. Apskrities administracinių ginčų komisija sudaroma 4 metams Vyriausybės sprendimu iš 5 narių, turinčių aukštąjį teisinį išsilavinimą. Komisijos narių kandidatūras, iš jų ir pirmininko kandidatūrą, Vyriausybei teikia apskrities viršininkas.
+2. Apskrities administracinių ginčų komisija sudaroma 4 metams iš 5 narių, turinčių aukštąjį teisinį išsilavinimą. Komisijos narius, iš jų komisijos pirmininką ir pirmininko pavaduotoją, skiria Vyriausybė. Komisijos narių, komisijos pirmininko ir pirmininko pavaduotojo kandidatūras Vyriausybei teikia apskrities taryba.
 
-3. Komisijos pirmininkas ir nariai turi teisę atsistatydinti. Apskrities viršininkas ir savivaldybės meras motyvuotu teikimu gali siūlyti Vyriausybei ar savivaldybės tarybai atleisti komisijos pirmininką ar narį prieš laiką, o vietoj jų teikti naujas kandidatūras.
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
+
+3. Komisijos pirmininkas, pirmininko pavaduotojas ir nariai turi teisę atsistatydinti. Motyvuotu teikimu apskrities taryba gali siūlyti Vyriausybei, o savivaldybės meras – savivaldybės tarybai atleisti atitinkamos komisijos pirmininką, pirmininko pavaduotoją ar narį prieš laiką ir vietoj jų teikti naujas kandidatūras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
 
 4. Siūlyti Vyriausybei ar savivaldybės tarybai pirma laiko atleisti konkrečios apskrities administracinių ginčų komisijos pirmininką ar narį iš pareigų turi teisę ir Vyriausioji administracinių ginčų komisija.
 
-4 straipsnis. Apskrities administracinių ginčų komisijos statusas
+4 straipsnis. Apskrities administracinių ginčų komisijų statusas
 
-1. Apskrities administracinių ginčų komisija yra juridinis asmuo, išlaikomas iš valstybės biudžeto asignavimų, skirtų apskričiai.
+1. Apskrities administracinių ginčų komisijos nariais jų sutikimu gali būti valstybės ar savivaldybių tarnautojai, taip pat šio statuso neturintys asmenys.
 
-2. Komisijos pirmininkas (ar narys) ir sekretorius yra valstybės tarnautojai ir jų darbas komisijoje laikytinas darbu pagrindinėje darbovietėje; kitiems komisijos nariams darbas komisijoje laikytinas darbu nepagrindinėje darbovietėje.
+2. Apskrities administracinių ginčų komisiją aptarnauja apskrities viršininko administracija.
 
-3. Komisijos pirmininko, narių ir sekretoriaus atlyginimus nustato Vyriausybė.
+3. Komisijos technines funkcijas (skundų registravimas, raštvedyba, susirašinėjimas ir kt.) atlieka apskrities viršininko paskirtas administracijos tarnautojas. Jis kartu yra ir atsakingasis komisijos sekretorius.
+
+4. Valstybės ir savivaldybių tarnautojams už darbą komisijoje nemokama, o kitiems komisijos nariams atlyginama Vyriausybės nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
 
 5 straipsnis. Savivaldybės ir apskrities administracinių ginčų komisijos kompetencija
 
@@ -79,7 +97,11 @@ Vilnius
 
 2. Už savo darbą savivaldybės visuomeninė administracinių ginčų komisija kartą per metus atsiskaito savivaldybės tarybai, taip pat yra atsakinga savivaldybės merui.
 
-3. Už savo darbą apskrities administracinių ginčų komisija kartą per metus atsiskaito apskrities viršininkui, taip pat yra atsakinga Vyriausiajai administracinių ginčų komisijai.
+3. Už savo darbą apskrities administracinių ginčų komisija kartą per metus atsiskaito apskrities tarybai, taip pat yra atsakinga Vyriausiajai administracinių ginčų komisijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
 
 7 straipsnis. Vyriausiosios administracinių ginčų komisijos sudarymas
 
@@ -169,26 +191,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-21 straipsnis. Administracinių ginčų komisijos sprendimo apskundimas
-
-Pareiškėjas ar atsakovas, nesutinkantys su administracinių ginčų komisijos sprendimu, nurodytu šio įstatymo 12 straipsnio 2 dalyje, 20 straipsnio 1 ar 2 dalyje, turi teisę tą sprendimą per vieną mėnesį nuo jo gavimo apskųsti apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-22 straipsnis. Administracinių ginčų komisijos sprendimo vykdymas
-
-1. Administracinių ginčų komisijos sprendimas, kuriuo išspręstas ginčas, taip pat administracinių ginčų komisijos sprendimas patvirtinti šalių taikos sutartį turi būti vykdomi nuo jo gavimo dienos.
-
-2. Neįvykdytas Vyriausiosios administracinių ginčų komisijos sprendimas, kuriuo išspręstas ginčas, taip pat neįvykdytas Vyriausiosios administracinių ginčų komisijos sprendimas patvirtinti šalių taikos sutartį, kurie nebuvo apskųsti per šio įstatymo 21 straipsnyje nustatytą terminą, vykdomi Civilinio proceso kodekso nustatyta tvarka. Apskundus šioje dalyje nurodytą Vyriausiosios administracinių ginčų komisijos sprendimą, jis vykdomas po to, kai skundas (prašymas) lieka nepatenkintas.
-
-3. Pareiškėjas turi teisę kreiptis į apygardos administracinį teismą su prašymu užtikrinti neįvykdyto savivaldybės visuomeninės administracinių ginčų komisijos sprendimo, kuriuo išspręstas ginčas, taip pat neįvykdyto savivaldybės visuomeninės administracinių ginčų komisijos sprendimo patvirtinti šalių taikos sutartį, vykdymą, jeigu nurodyti sprendimai nebuvo apskųsti per šio įstatymo 21 straipsnyje nustatytą terminą. Apskundus šioje dalyje nurodytą savivaldybės visuomeninės administracinių ginčų komisijos sprendimą, kreiptis dėl sprendimo ar sprendimu patvirtintos taikos sutarties įvykdymo užtikrinimo galima po to, kai skundas lieka nepatenkintas.
-
-23 straipsnis. Žalos atlyginimo klausimų sprendimas
-
-Administracinių ginčų komisija, nagrinėdama skundus (prašymus), nei žalos, nei bylos šalių turėtų išlaidų atlyginimo klausimų nesprendžia.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
 Pakeitimai:
 
 1.
@@ -206,86 +208,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
 
 Lietuvos Respublikos administracinių ginčų komisijų įstatymo 3, 4, 6 straipsnių pakeitimo ir papildymo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-664, 2001-12-17, Žin., 2001, Nr. 112-4083 (2001-12-30); Žin., 2002, Nr. 5-0 (2002-01-18), i. k. 1011010ISTA00IX-664
-
-Lietuvos Respublikos administracinių ginčų komisijų įstatymo 9 straipsnio pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
-
-Lietuvos Respublikos administracinių ginčų komisijų įstatymo 3, 6, 8 straipsnių pakeitimo ir papildymo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1389, 2003-03-25, Žin., 2003, Nr. 35-1463 (2003-04-11), i. k. 1031010ISTA0IX-1389
-
-Lietuvos Respublikos administracinių ginčų komisijų įstatymo 8 straipsnio pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
-
-Lietuvos Respublikos administracinių ginčų komisijų įstatymo 1, 2, 3, 4, 5, 12 ir 14 straipsnių pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1782, 2008-11-06, Žin., 2008, Nr. 131-5032 (2008-11-15), i. k. 1081010ISTA00X-1782
-
-Lietuvos Respublikos administracinių ginčų komisijų įstatymo 8 straipsnio pakeitimo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
-
-Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2, 3, 5, 6, 18 straipsnių pakeitimo ir 4 straipsnio pripažinimo netekusiu galios įstatymas
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1534, 2011-06-23, Žin., 2011, Nr. 86-4173 (2011-07-13), i. k. 1111010ISTA0XI-1534
-
-Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2 straipsnio pakeitimo įstatymas
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2400, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16850
-
-Lietuvos Respublikos administracinių ginčų komisijų įstatymo Nr. VIII-1031 pakeitimo įstatymas
-
-2. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojų teritoriniuose padaliniuose ir kitų komisijos ir komisijos teritorinių padalinių narių darbas Lietuvos administracinių ginčų komisijoje laikytinas darbu pagrindinėje darbovietėje ir už jį mokama Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba komisijos teritorinio padalinio narys pareigas gali eiti tik Lietuvos administracinių ginčų komisijoje, taip pat dirbti mokslinį, pedagoginį ar kūrybinį darbą. Lietuvos administracinių ginčų komisijos pirmininkui, komisijos pirmininko pavaduotojui, komisijos pirmininko pavaduotojui teritoriniame padalinyje ir kitiems komisijos arba komisijos teritorinio padalinio nariams taikomas Lietuvos Respublikos valstybės tarnybos įstatymo 42 straipsnis, jiems, vadovaujantis Darbo kodekso nuostatomis, gali būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės, mokymosi, nemokamos, ir taikomos Darbo kodekse nustatytos lengvatos asmenims, auginantiems vaikus. Lietuvos administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, jų darbo užmokesčio mokėjimo tvarką ir sąlygas nustato Valstybės tarnybos įstatymas, kiti įstatymai ir teisės aktai.
-
-3. Lietuvos administracinių ginčų komisijos teritoriniai padaliniai, nagrinėdami skundus (prašymus), sprendimus priima savarankiškai ir nepriklausomai.
-
-4. Lietuvos administracinių ginčų komisija materialiai aprūpina savo teritorinius padalinius ir metodiškai jiems vadovauja organizuojant darbą.
-
-5. Lietuvos administracinių ginčų komisijos teritoriniai padaliniai kartą per metus teikia savo veiklos ataskaitas Lietuvos administracinių ginčų komisijai. Lietuvos administracinių ginčų komisija kartą per metus teikia informaciją apie savo veiklą Vyriausybei.
-
-61 straipsnis. Informacinių ir elektroninių ryšių technologijų naudojimas
-
-1. Lietuvos administracinių ginčų komisija ir jos teritoriniai padaliniai rengia oficialius elektroninius dokumentus, juos siunčia ir iš kitų asmenų gauna per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą (toliau – E. pristatymo sistema). Jeigu E. pristatymo sistemos elektroninio pristatymo dėžutė yra neaktyvi, dokumentas siunčiamas per E. pristatymo sistemą, bet įteikiamas kaip pašto siunta. Lietuvos administracinių ginčų komisija ir jos teritoriniai padaliniai gali keistis parengtais oficialiais elektroniniais dokumentais ir informacija su kitais viešojo administravimo subjektais kitais būdais, jeigu keitimosi oficialiais elektroniniais dokumentais ir informacija tarp valstybės informacinių sistemų ir (ar) registrų funkciją užtikrina jų sąveika.
-
-2. Elektroninio pristatymo paslaugos fiziniams asmenims, kai jie elektronines siuntas per E. pristatymo sistemą siunčia Lietuvos administracinių ginčų komisijai ir jos teritoriniams padaliniams, teikiamos neatlygintinai.
-
-Papildyta straipsniu:
-
-Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
