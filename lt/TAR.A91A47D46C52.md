@@ -4,7 +4,7 @@ identifier: "TAR.A91A47D46C52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-10-25"
-last_updated: "1997-06-25"
+last_updated: "1998-07-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A91A47D46C52"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymas
 
-Suvestinė redakcija nuo 1997-06-25 iki 1998-07-21
+Įstatymas netenka galios 2000-03-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1443, 1999-11-25, Žin., 1999, Nr. 105-3019 (1999-12-09), i. k. 0991010ISTAIII-1443
+
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
+
+Suvestinė redakcija nuo 1998-07-22 iki 2000-02-29
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 96-2146, i. k. 0951010ISTA00I-1074
 
@@ -125,7 +133,13 @@ Valstybės paslaptį sudarančių žinių apsaugą reglamentuoja šis įstatymas
 
 26) Lietuvos Respublikos topografiniai žemėlapiai (M 1:50 000 ir stambesnių mastelių), kuriuose nurodytos valstybinės reikšmės ir rizikos objektų charakteristikos bei paskirtis, taip pat kita kartografinė medžiaga, kurioje pateikiama šiame sąraše esanti informacija;
 
-27) valstybės sienos tarp Lietuvos Respublikos ir kitų valstybių bei 5 km pasienio zonos topografiniai žemėlapiai (1:10 000 ir stambesnių mastelių).
+27) valstybės sienos tarp Lietuvos Respublikos ir kitų valstybių bei 5 km pasienio zonos topografiniai žemėlapiai (1:10 000 ir stambesnių mastelių);
+
+28) žinios, kurias buvę VSK kadriniai darbuotojai suteikė Valstybės saugumo departamentui pagal Lietuvos Respublikos įstatymo „Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos“ 3 straipsnio 2 dalį.
+
+Papildyta straipsnio punktu:
+
+Nr. VIII-825, 1998-06-30, Žin., 1998, Nr. 65-1872 (1998-07-22), i. k. 0981010ISTAVIII-825
 
 2. Valstybės paslapčių sąrašą keičia Lietuvos Respublikos Seimas savo iniciatyva arba Lietuvos Respublikos Vyriausybės teikimu. Pasiūlymus dėl valstybės paslapčių sąrašo keitimo Vyriausybei gali teikti Valstybės saugumo departamentas arba valstybės paslapčių subjektai, suderinę šiuos siūlymus su Valstybės saugumo departamentu.
 
@@ -284,6 +298,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-255, 1997-06-10, Žin., 1997, Nr. 59-1369 (1997-06-25), i. k. 0971010ISTAVIII-255
 
 Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-825, 1998-06-30, Žin., 1998, Nr. 65-1872 (1998-07-22), i. k. 0981010ISTAVIII-825
+
+Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo 6 straipsnio papildymo įstatymas
 
 19 straipsnis. Įstatymo įgyvendinimo tvarka
 
