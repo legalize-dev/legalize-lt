@@ -4,7 +4,7 @@ identifier: "TAR.8949DB1FAC6E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1989-11-03"
-last_updated: "1995-01-01"
+last_updated: "1995-01-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8949DB1FAC6E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 1995-01-01 iki 1995-01-19
+Suvestinė redakcija nuo 1995-01-20 iki 1996-09-12
 
 Įstatymas paskelbtas: Žin. 1989, Nr. 33-445, i. k. 0891010ISTA0XI-3335
 
@@ -264,6 +264,12 @@ Vyriausioji rinkimų komisija:
 9) perduoda valstybės archyvui saugoti piliečių, turinčių teisę dalyvauti referendume, sąrašus, balsų skaičiavimo ir kitus referendumo komisijų protokolus;
 
 10) vykdo kitus šiame įstatyme numatytus įgaliojimus.
+
+Jeigu tą pačią dieną kartu vyksta arba Seimo, arba savivaldybės tarybos rinkimai, arba referendumas, apylinkių rinkimų ar referendumo komisijos sudaromos tos pačios. Vyriausioji rinkimų komisija atskiroje rinkimų, referendumo teritorijoje sudaro vieną – miesto, rajono, apygardos rinkimų arba referendumo – komisiją ir nustato jos funkcijas organizuojant ir vykdant kitus rinkimus arba referendumą.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-758, 1995-01-12, Žin., 1995, Nr. 7-144 (1995-01-20), i. k. 0951010ISTA000I-758
 
 Vyriausioji rinkimų komisija negali aiškinti šio įstatymo nuostatų. Prireikus tai padaryti, Vyriausioji rinkimų komisija kreipiasi į Seimą dėl šio įstatymo pakeitimo. Vyriausiosios rinkimų komisijos pateiktus klausimus dėl referendumo Seimas svarsto skubos arba ypatingos skubos tvarka.
 
@@ -564,6 +570,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-643, 1994-11-08, Žin., 1994, Nr. 89-1716 (1994-11-18), i. k. 0941010ISTA000I-643
 
 Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-758, 1995-01-12, Žin., 1995, Nr. 7-144 (1995-01-20), i. k. 0951010ISTA000I-758
+
+Dėl Lietuvos Respublikos referendumo įstatymo 16 straipsnio pakeitimo
 
 231 straipsnis. Skundai dėl referendumo komisijų sprendimų, kurie buvo priimti iki balsavimo pabaigos
 
