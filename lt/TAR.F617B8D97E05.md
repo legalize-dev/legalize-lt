@@ -4,7 +4,7 @@ identifier: "TAR.F617B8D97E05"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-09"
-last_updated: "1997-12-19"
+last_updated: "2001-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 1997-12-19 iki 2001-06-30
+Suvestinė redakcija nuo 2001-07-01 iki 2003-04-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
 
@@ -379,7 +379,13 @@ Konsulinis pareigūnas atlieka šiuos notarinius veiksmus:
 
 14) protestuoja vekselius ir čekius;
 
-15) atlieka kitus įstatymų numatytus notarinius veiksmus.
+15) priima saugoti asmeninius testamentus;
+
+16) atlieka kitus įstatymų numatytus notarinius veiksmus.
+
+Straipsnio pakeitimai:
+
+Nr. IX-355, 2001-06-05, Žin., 2001, Nr. 52-1814 (2001-06-20), i. k. 1011010ISTA00IX-355
 
 52 straipsnis
 
@@ -498,4 +504,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-554, 1997-12-09, Žin., 1997, Nr. 116-2955 (1997-12-19), i. k. 0971010ISTAVIII-554
 
 Lietuvos Respublikos konsulinio statuto 27 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-355, 2001-06-05, Žin., 2001, Nr. 52-1814 (2001-06-20), i. k. 1011010ISTA00IX-355
+
+Lietuvos Respublikos konsulinio statuto 51 straipsnio papildymo ir pakeitimo įstatymas
 
