@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2004-07-13"
+last_updated: "2004-10-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -3347,7 +3347,15 @@ Draudimo išlaidas apmoka valstybės tarnautoją į užsienio komandiruotę siun
 
 valstybės ar savivaldybės institucija ar įstaiga iš savo biudžeto lėšų.
 
-11. Kiti įstatymai gali nustatyti ir kitų garantijų.
+11.
+
+Įstaigos vadovas atsižvelgiant į jo tarnybinės veiklos vertinimo rezultatus
+
+arba jo prašymu gali būti perkeltas į kitas tos pačios arba žemesnės
+
+kategorijos karjeros valstybės tarnautojo pareigas.
+
+12. Kiti įstatymai gali nustatyti ir kitų garantijų.
 
 Straipsnio pakeitimai:
 
@@ -3358,6 +3366,10 @@ Nr. IX-1747,
 Nr. IX-2351,
 
 2004-07-13, Žin., 2004, Nr. 116-4323 (2004-07-27)
+
+Nr. IX-2502,
+
+2004-10-26, Žin., 2004, Nr. 163-5940 (2004-11-09)
 
 IX SKYRIUS
 
@@ -3443,13 +3455,13 @@ neįmanoma pašalinti;
 
 13) nedirba dėl laikino nedarbingumo ilgiau kaip 120 kalendorinių
 
-dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jei
+dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jei įstatymų
 
-įstatymų nenustatyta, kad tam tikros ligos atveju pareigos paliekamos ilgesnį
+nenustatyta, kad tam tikros ligos atveju pareigos paliekamos ilgesnį laiką,
 
-laiką, arba kai valstybės tarnautojas pagal medicininės ar invalidumą
+arba kai valstybės tarnautojas pagal medicininės ar invalidumą nustatančios
 
-nustatančios komisijos išvadą negali eiti savo pareigų;
+komisijos išvadą negali eiti savo pareigų;
 
 14) valstybės tarnautojui įstatymų nustatyta tvarka atimtos
 
@@ -3605,13 +3617,13 @@ lėšos. Jos turi sudaryti ne mažiau kaip 1 procentą ir ne daugiau kaip 5
 
 procentus valstybės tarnautojų darbo užmokesčiui nustatytų asignavimų.
 
-2. Jei mokymas trunka ilgiau kaip 3 mėnesius ir finansuojamas
+2. Jei mokymas trunka ilgiau kaip 3 mėnesius ir
 
-iš valstybės ar savivaldybės biudžeto, su valstybės tarnautoju turi būti
+finansuojamas iš valstybės ar savivaldybės biudžeto, su valstybės tarnautoju
 
-sudaroma sutartis dėl mokymui skirtų lėšų grąžinimo. Šioje sutartyje turi būti
+turi būti sudaroma sutartis dėl mokymui skirtų lėšų grąžinimo. Šioje sutartyje
 
-numatyta, kad lėšas valstybės tarnautojas grąžina, jeigu jis:
+turi būti numatyta, kad lėšas valstybės tarnautojas grąžina, jeigu jis:
 
 1) savo noru atsistatydina iš valstybės tarnautojo pareigų
 
@@ -3619,9 +3631,9 @@ anksčiau negu po vienerių metų nuo mokymo pabaigos;
 
 2) dėl tarnybinės nuobaudos atleidžiamas iš pareigų.
 
-3. Iš valstybės tarnautojo pareigų atleistas asmuo, su
+3. Iš valstybės tarnautojo pareigų atleistas asmuo, su kuriuo
 
-kuriuo buvo sudaryta sutartis dėl mokymui skirtų lėšų grąžinimo, privalo per 6
+buvo sudaryta sutartis dėl mokymui skirtų lėšų grąžinimo, privalo per 6
 
 mėnesius nuo atleidimo dienos grąžinti valstybės ar savivaldybės institucijai
 
@@ -3709,7 +3721,9 @@ nustatytas valstybės tarnybos bendrojo valdymo funkcijas.
 
 įstaiga:
 
-1) kontroliuoja šio Įstatymo ir su juo susijusių teisės aktų įgyvendinimą;
+1) kontroliuoja šio Įstatymo ir su juo susijusių teisės aktų
+
+įgyvendinimą;
 
 2) tvarko valstybės tarnautojų registrą;
 
@@ -3787,11 +3801,11 @@ asmenis, kuriems teismas yra atėmęs teisę eiti valstybės tarnautojo pareigas
 
 3.
 
-Valstybės ir savivaldybių institucijos ir įstaigos, aukštosios mokyklos duomenis
+Valstybės ir savivaldybių institucijos ir įstaigos, aukštosios mokyklos
 
-apie viešojo administravimo srities aukštąjį išsilavinimą įgijusius asmenis teikia
+duomenis apie viešojo administravimo srities aukštąjį išsilavinimą įgijusius
 
-valstybės tarnautojų registrui.
+asmenis teikia valstybės tarnautojų registrui.
 
 51
 
@@ -4249,9 +4263,9 @@ TARNYBOS ĮSTATYMO 9 IR 44 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
 
-Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo 2003
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
 
-m.
+2003 m.
 
 gegužės 1 d.
 
@@ -4385,13 +4399,29 @@ TARNYBOS ĮSTATYMO 4, 8, 15, 16, 17, 22, 25, 30, 43 STRAIPSNIŲ PAKEITIMO IR
 
 PAPILDYMO ĮSTATYMAS
 
+31.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2502,
+
+2004-10-26, Žin., 2004, Nr. 163-5940 (2004-11-09)
+
+VALSTYBĖS
+
+TARNYBOS ĮSTATYMO 43 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-07-27)
+Aušrinė Trapinskienė (2004-11-09)
 
 autrap@lrs.lt
 
