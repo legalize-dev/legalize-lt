@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "1995-01-01"
+last_updated: "1995-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1995-01-01 iki 1995-06-27
+Suvestinė redakcija nuo 1995-06-28 iki 1996-01-04
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -339,7 +339,7 @@ BENDROVĖS NARIŲ TEISĖS IR PAREIGOS
 
 2. Bendrovės narys savo pajų ar jo dalį pirkimo-pardavimo, dovanojimo, paveldėjimo ir kitais būdais gali perleisti kitam bendrovės nariui arba bet kuriam kitam fiziniam asmeniui šio įstatymo ir bendrovės įstatuose nustatyta tvarka.
 
-Pajaus ar jo dalies (pinigais) perleidimo kitam bendrovės nariui arba bet kuriam kitam fiziniam asmeniui sutartis leidžiama tvirtinti apylinkės (valsčiaus) viršaičiui. Mokestis už tokių sutarčių tvirtinimą – 0,5 procento perleidžiamo pajaus vertės.
+Pajaus ar jo dalies (pinigais) perleidimo kitam bendrovės nariui arba bet kuriam kitam fiziniam asmeniui sutartis leidžiama tvirtinti savivaldybės seniūnijos kaimo vietovėje seniūnui. Mokestis už tokių sutarčių tvirtinimą – 0,5 procento perleidžiamo pajaus vertės.
 
 Įsteigus bendrovę, asmuo, paveldėjęs, pirkęs, dovanojimo ar kitokiu būdu įsigijęs bendrovės nario pajų ar jo dalį, bendrovės nariu tampa tik tada, kai šį asmenį į bendrovę priima bendrovės narių susirinkimas. Jei susirinkimas pajų įsigijusio asmens į bendrovę nepriima, su šiuo asmeniu atsiskaitoma kaip su išstojusiu iš bendrovės nariu šiame įstatyme ir bendrovės įstatuose nustatyta tvarka ir terminais.
 
@@ -350,6 +350,8 @@ Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000
 Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
 
 Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
+
+Nr. I-942, 1995-06-13, Žin., 1995, Nr. 53-1297 (1995-06-28), i. k. 0951010ISTA000I-942
 
 3. Bendrovės narys turi pirmumo teisę dirbti bendrovėje.
 
@@ -720,4 +722,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-942, 1995-06-13, Žin., 1995, Nr. 53-1297 (1995-06-28), i. k. 0951010ISTA000I-942
+
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo
 
