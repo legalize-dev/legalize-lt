@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2001-07-05"
+last_updated: "2002-10-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -93,11 +93,11 @@ darbuotojas mirė dėl ligos, nesusijusios su darbu, nepriskiriamas prie
 
 nelaimingo atsitikimo darbe.
 
-2. Nelaimingas atsitikimas pakeliui į
+2.
 
-darbą ar iš darbo – įvykis, įvykęs darbuotojo darbo dienomis kelyje tarp
+Nelaimingas atsitikimas pakeliui į darbą ar iš darbo – įvykis, įvykęs
 
-darbuotojo darbovietės ir:
+darbuotojo darbo dienomis kelyje tarp darbuotojo darbovietės ir:
 
 1) gyvenamosios
 
@@ -1387,13 +1387,19 @@ Nelaimingų
 
 atsitikimų darbe socialinio draudimo įmokų tarifai priklauso nuo įmonės
 
-ekonominės veiklos rizikos laipsnio. Iki 2003 m. sausio 1 d. įmokų tarifai
+ekonominės veiklos rizikos laipsnio. Iki 2004 m. sausio 1 d. įmokų tarifai
 
 visiems draudėjams (visoms ekonominės veiklos sritims) vienodi, o vėliau
 
 diferencijuojami atsižvelgiant į įmonių ekonominės veiklos rizikos laipsnį bei
 
 traumatizmo ir profesinio sergamumo lygį.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1133,
+
+2002-10-15, Žin., 2002, Nr. 102-4548 (2002-10-25)
 
 34
 
@@ -1467,23 +1473,21 @@ Vyriausybė tvirtina Nelaimingų atsitikimų darbe ir profesinių ligų socialin
 
 draudimo išmokų nuostatus.
 
-6.
+6. Valstybinio
 
-Po šio įstatymo įsigaliojimo praėjus dvejiems metams, Valstybinio socialinio
+socialinio draudimo fondo valdyba pagal praėjusių metų ir einamųjų metų pirmojo
 
-draudimo fondo valdyba pagal praėjusių metų ir einamųjų metų pirmojo pusmečio
+pusmečio nelaimingų atsitikimų ir susirgimų profesinėmis ligomis atskirose
 
-nelaimingų atsitikimų ir susirgimų profesinėmis ligomis atskirose ekonominės
+ekonominės veiklos srityse duomenis parengia ir pateikia Vyriausybei pasiūlymus
 
-veiklos srityse duomenis parengia ir pateikia Vyriausybei pasiūlymus dėl kitų
+dėl kitų metų nelaimingų atsitikimų darbe socialinio draudimo įmokų tarifų
 
-metų nelaimingų atsitikimų darbe socialinio draudimo įmokų tarifų atskiroms
+atskiroms ekonominės veiklos sritims. Vyriausybė teikia pasiūlymus Seimui dėl
 
-ekonominės veiklos sritims. Vyriausybė teikia pasiūlymus Seimui dėl nelaimingų
+nelaimingų atsitikimų darbe socialinio draudimo įmokų tarifų atskiroms
 
-atsitikimų darbe socialinio draudimo įmokų tarifų atskiroms ekonominės veiklos
-
-sritims patvirtinimo.
+ekonominės veiklos sritims patvirtinimo.
 
 7.
 
@@ -1493,6 +1497,12 @@ persikėlusiems nuolat gyventi į kitą valstybę, šios išmokos mokamos
 
 tarpvalstybinėse sutartyse nustatyta tvarka.
 
+Straipsnio pakeitimai:
+
+Nr. IX-1133,
+
+2002-10-15, Žin., 2002, Nr. 102-4548 (2002-10-25)
+
 Skelbiu
 
 šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -1501,7 +1511,7 @@ RESPUBLIKOS PREZIDENTAS                             
 
 ADAMKUS
 
-_________
+_______________
 
 Pakeitimai:
 
@@ -1569,11 +1579,31 @@ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 4, 8, 29, 3
 
 31 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-*** Pabaiga ***
+5.
 
-Redagavo: Angonita
+Lietuvos
 
-Rupšytė (2001-07-25)
+Respublikos Seimas, Įstatymas
 
-anrups@lrs.lt
+Nr.
+
+IX-1133,
+
+2002-10-15, Žin., 2002, Nr. 102-4548 (2002-10-25)
+
+NELAIMINGŲ
+
+ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 33 IR 36 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2002-10-25)
+
+autrap@lrs.lt
 
