@@ -4,7 +4,7 @@ identifier: "TAR.38E82AA2664C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2001-07-01"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 2001-07-01 iki 2003-06-12
+Suvestinė redakcija nuo 2003-06-13 iki 2007-07-20
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
 
@@ -395,9 +395,17 @@ Nekilnojamojo turto registrą sudaro atskirų nekilnojamųjų daiktų registro �
 
 36 straipsnis. Nekilnojamojo turto registro duomenų turinys
 
-1. Nekilnojamojo turto registro pirmojoje dalyje įrašomi kadastro duomenys apie nekilnojamąjį daiktą.
+1. Nekilnojamojo turto registro pirmojoje dalyje Nekilnojamojo turto kadastro įstatymo nustatyta tvarka įrašomi tekstiniai nekilnojamojo daikto kadastro duomenys.
 
-2. Nekilnojamojo turto registro antrojoje dalyje įrašomi grafiniai duomenys apie įregistruoto nekilnojamojo daikto buvimo vietą bei padėtį valstybinėje geodezinių koordinačių sistemoje – nekilnojamojo turto registro žemėlapis.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1583, 2003-05-27, Žin., 2003, Nr. 57-2531 (2003-06-13), i. k. 1031010ISTA0IX-1583
+
+2. Nekilnojamojo turto registro antrojoje dalyje Nekilnojamojo turto kadastro įstatymo nustatyta tvarka įrašomi grafiniai nekilnojamojo daikto kadastro duomenys apie nekilnojamojo daikto padėtį valstybinėje koordinačių sistemoje – nekilnojamojo turto kadastro žemėlapis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1583, 2003-05-27, Žin., 2003, Nr. 57-2531 (2003-06-13), i. k. 1031010ISTA0IX-1583
 
 3. Nekilnojamojo turto registro trečiojoje dalyje įrašomos daiktinės teisės į nekilnojamąjį daiktą ir duomenys apie šių teisių turėtojus.
 
@@ -471,7 +479,11 @@ Nekilnojamojo turto registras tvarkomas lėšomis, gautomis už nekilnojamojo da
 
 45 straipsnis. Nekilnojamojo turto registro reorganizavimas ir likvidavimas
 
-Nekilnojamojo turto registras reorganizuojamas ir likviduojamas įstatymu. Likvidavus nekilnojamojo turto registrą, dokumentai, pagal kuriuos buvo įregistruotas nekilnojamasis daiktas, daiktinės teisės į jį, šių teisių suvaržymai, juridiniai faktai, bei nekilnojamojo turto registro žemėlapiai Archyvų įstatymo nustatyta tvarka perduodami Valstybės archyvui, o reorganizavus nekilnojamojo turto registrą, – naujajam registrui.
+Nekilnojamojo turto registras reorganizuojamas ir likviduojamas įstatymu. Likvidavus nekilnojamojo turto registrą, dokumentai, pagal kuriuos buvo įregistruotas nekilnojamasis daiktas, daiktinės teisės į jį, šių teisių suvaržymai, juridiniai faktai, Archyvų įstatymo nustatyta tvarka perduodami Valstybės archyvui, o reorganizavus nekilnojamojo turto registrą – naujajam registrui.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1583, 2003-05-27, Žin., 2003, Nr. 57-2531 (2003-06-13), i. k. 1031010ISTA0IX-1583
 
 46 straipsnis. Nekilnojamojo turto registro integravimas į Lietuvos Respublikos kadastrų ir registrų informacinę sistemą
 
@@ -522,6 +534,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-391, 2001-06-21, Žin., 2001, Nr. 55-1948 (2001-06-27), i. k. 1011010ISTA00IX-391
 
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1583, 2003-05-27, Žin., 2003, Nr. 57-2531 (2003-06-13), i. k. 1031010ISTA0IX-1583
+
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo 36 ir 45 straipsnių pakeitimo įstatymas
 
 47 straipsnis. Nekilnojamojo turto registro integravimas į Lietuvos Respublikos kadastrų ir registrų informacinę infrastruktūrą
 
