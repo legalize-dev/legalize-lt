@@ -4,7 +4,7 @@ identifier: "TAR.A5A607AA8E29"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-02-28"
-last_updated: "1991-04-11"
+last_updated: "1991-08-03"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1991-04-11 iki 1991-08-02
+Suvestinė redakcija nuo 1991-08-03 iki 1991-08-07
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
 
@@ -213,7 +213,7 @@ ATSISKAITYMAI UŽ PERKAMĄ PRIVATIZAVIMO OBJEKTĄ
 
 5) asmenims, kuriems iki 1990 m. gruodžio 31 d. nesukako 18 metų – 1 dalis. Jeigu asmens vienas iš tėvų miręs iki 1990 m. gruodžio 31 d., tai šiam asmeniui skiriama šios dalies 3 punkte nurodyta išmoka, o jeigu mirę abu tėvai – skiriama išmoka, nurodyta šios dalies 1 punkte;
 
-6) pirmos ir antros grupės invalidams, nepriklausomai nuo jų amžiaus, skiriama šios dalies 1 punkte nurodyta išmoka.
+6) pirmos ir antros grupės invalidams, nepriklausomai nuo jų amžiaus, taip pat vaikams invalidams iki 16 metų skiriama šios dalies 1 punkte nurodyta išmoka.
 
 Valstybės vienkartinė išmoka neskiriama:
 
@@ -226,6 +226,8 @@ Valstybės vienkartinės išmokos vienos dalies piniginė išraiška apskaičiuo
 Straipsnio dalies pakeitimai:
 
 Nr. I-1146, 1991-03-14, Žin., 1991, Nr. 10-262 (1991-04-10), i. k. 0911010ISTA00I-1146
+
+Nr. I-1614, 1991-07-25, Lietuvos aidas, 1991, Nr. 151-0 (1991-08-02); Žin., 1991, Nr. 22-575 (1991-08-10), i. k. 0911010ISTA00I-1614
 
 2. Atsižvelgiant į vidutinio darbo užmokesčio Lietuvos ūkyje ir vidutinio darbo užmokesčio žemės ūkyje skirtumą, asmenims, po 1944 metų dirbusiems, taip pat dabar dirbantiems žemės ūkio įmonėse, pagal atskirus Lietuvos Respublikos įstatymus papildomai skiriamos tikslinės žemės ūkio kompensacijos (agrariniai čekiai).
 
@@ -416,4 +418,12 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-1146, 1991-03-14, Žin., 1991, Nr. 10-262 (1991-04-10), i. k. 0911010ISTA00I-1146
 
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo atskirų straipsnių pakeitimo
+
+2.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-1614, 1991-07-25, Lietuvos aidas, 1991, Nr. 151-0 (1991-08-02); Žin., 1991, Nr. 22-575 (1991-08-10), i. k. 0911010ISTA00I-1614
+
+Dėl Lietuvos Respublikos Valstybinio turto pirminio privatizavimo įstatymo 12 straipsnio papildymo
 
