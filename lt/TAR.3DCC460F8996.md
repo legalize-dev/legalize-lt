@@ -4,7 +4,7 @@ identifier: "TAR.3DCC460F8996"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-09"
-last_updated: "2004-05-01"
+last_updated: "2004-07-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3DCC460F8996"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokėjimų, atliekamų pagal komercines sutartis, vėlavimo prevencijos įstatymas
+
+Suvestinė redakcija nuo 2004-07-27 iki 2013-02-28
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 123-5571, i. k. 1031010ISTA0IX-1873
 
 LIETUVOS RESPUBLIKOS MOKĖJIMŲ, ATLIEKAMŲ PAGAL KOMERCINIUS SANDORIUS, VĖLAVIMO PREVENCIJOS ĮSTATYMAS
 
@@ -39,7 +43,13 @@ Vilnius
 
 4) mokėjimų, kai skolininkui iškelta bankroto ar restruktūrizavimo byla;
 
-5) reikalavimų dėl mažesnių kaip 20 litų palūkanų.
+5) reikalavimų dėl mažesnių kaip 20 litų palūkanų;
+
+6) žemės ūkio produkcijos pirkimo–pardavimo sandorių, kurių vykdymą reglamentuoja Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas.
+
+Papildyta straipsnio punktu:
+
+Nr. IX-2403, 2004-07-15, Žin., 2004, Nr. 116-4335 (2004-07-27), i. k. 1041010ISTA0IX-2403
 
 4. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.
 
@@ -123,48 +133,6 @@ Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius, vėlavi
 
 ______________
 
-8 straipsnis. Mokėjimas dalimis
-
-Jeigu komercinėje sutartyje yra nustatytas mokėjimas dalimis ir komercinėje sutartyje nustatytą mokėjimo dieną mokėtina suma nesumokama, kreditorius turi teisę į šiame įstatyme ar komercinėje sutartyje nustatytas palūkanas, skaičiuojamas nuo laiku nesumokėtų sumų, ir kompensaciją už patirtas išieškojimo išlaidas, kaip nurodyta šio įstatymo 7 straipsnyje.
-
-9 straipsnis. Kreditoriaus atžvilgiu nesąžiningos komercinių sutarčių sąlygos ir nesąžininga komercinė praktika
-
-1. Jeigu kreditorius mano, kad komercinės sutarties sąlyga ar komercinė praktika, susijusi su mokėjimo diena ar laikotarpiu, komercinėje sutartyje ar šiame įstatyme nustatytų palūkanų dydžiu ar išieškojimo išlaidų kompensavimu, yra nesąžininga jo atžvilgiu, kilus ginčui, jis turi teisę įstatymų nustatyta tvarka kreiptis į teismą ar neteisminę ginčų nagrinėjimo instituciją dėl tokios komercinės sutarties sąlygos ar komercinės praktikos pripažinimo nesąžininga ir reikalauti atlyginti nuostolius.
-
-2. Nustatant, ar komercinės sutarties sąlyga ar komercinė praktika yra nesąžininga kreditoriaus atžvilgiu, atsižvelgiama į visas konkretaus atvejo aplinkybes, įskaitant:
-
-1) nukrypimą nuo gerosios komercinės praktikos, pažeidžiant sąžiningumo ir sąžiningo elgesio principus;
-
-2) prekės, paslaugos ar darbų pobūdį;
-
-3) aplinkybę, ar skolininkas nukrypo nuo šiame įstatyme nustatytų palūkanų dydžio, šio įstatymo 4 straipsnyje, 5 straipsnio 1, 3 ar 4 dalyje nustatyto mokėjimo laikotarpio arba nuo šio įstatymo 7 straipsnio 1 dalyje nustatytos išieškojimo išlaidų sumos dėl objektyvių priežasčių.
-
-3. Komercinės sutarties sąlyga ar komercinė praktika, dėl kurios negalima nustatyti palūkanų, yra nesąžininga kreditoriaus atžvilgiu.
-
-4. Taikant šio straipsnio 2 dalį, preziumuojama, kad komercinės sutarties sąlyga ar komercinė praktika, dėl kurios negalima kompensuoti išieškojimo išlaidų, yra nesąžininga kreditoriaus atžvilgiu.
-
-10 straipsnis. Ginčus nagrinėjanti institucija
-
-1. Ginčus dėl šio įstatymo nuostatų pažeidimų, komercinių sutarčių sąlygų ar komercinės praktikos pripažinimo nesąžiningomis kreditoriaus atžvilgiu ir nuostolių atlyginimo nagrinėja teismas ar neteisminė ginčų nagrinėjimo institucija.
-
-2. Be kreditoriaus, teisę pareikšti ieškinį gali ir jo interesams atstovaujantys asmenys.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
-
-Lietuvos Respublikos
-
-mokėjimų, atliekamų pagal komercines
-
-sutartis, vėlavimo prevencijos įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 2011/7/ES dėl kovos su pavėluotu mokėjimu, atliekamu pagal komercinius sandorius (OL 2011 L 48, p. 1).
-
 Pakeitimai:
 
 1.
@@ -174,12 +142,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2403, 2004-07-15, Žin., 2004, Nr. 116-4335 (2004-07-27), i. k. 1041010ISTA0IX-2403
 
 Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius, vėlavimo prevencijos įstatymo 1 straipsnio papildymo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2287, 2012-10-17, Žin., 2012, Nr. 127-6389 (2012-11-03), i. k. 1121010ISTA0XI-2287
-
-Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius, vėlavimo prevencijos įstatymo pakeitimo įstatymas
 
