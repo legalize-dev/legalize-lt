@@ -4,7 +4,7 @@ identifier: "TAR.FA02D1C47E3D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-03-22"
-last_updated: "1991-10-21"
+last_updated: "1992-09-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Suvestinė redakcija nuo 1991-10-21 iki 1992-08-31
+Suvestinė redakcija nuo 1992-09-01 iki 1992-11-26
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
 
@@ -345,7 +345,7 @@ IV. LIETUVOS RESPUBLIKOS MINISTERIJŲ SĄRAŠAS
 
 Respublikoje yra šios ministerijos:
 
-Ekonomikos ministerija; Energetikos ministerija; Finansų ministerija; Krašto apsaugos ministerija; Kultūros ir švietimo ministerija; Miškų ūkio ministerija; Prekybos ir materialinių išteklių ministerija; Ryšių ir informatikos ministerija; Statybos ir urbanistikos ministerija; Susisiekimo ministerija; Socialinės apsaugos ministerija; Sveikatos apsaugos ministerija; Tarptautinių ekonominių santykių ministerija; Teisingumo ministerija; Užsienio reikalų ministerija; Vidaus reikalų ministerija; Žemės ūkio ministerija.
+Ekonomikos ministerija; Energetikos ministerija; Finansų ministerija; Krašto apsaugos ministerija; Kultūros ir švietimo ministerija; Miškų ūkio ministerija; Pramonės ir prekybos ministerija; Ryšių ir informatikos ministerija; Statybos ir urbanistikos ministerija; Susisiekimo ministerija; Socialinės apsaugos ministerija; Sveikatos apsaugos ministerija; Tarptautinių ekonominių santykių ministerija; Teisingumo ministerija; Užsienio reikalų ministerija; Vidaus reikalų ministerija; Žemės ūkio ministerija.
 
 Straipsnio pakeitimai:
 
@@ -354,6 +354,8 @@ Nr. I-108, 1990-04-03, Lietuvos aidas, 1990, Nr. 16-0 (1990-04-06); Žin., 1990,
 Nr. I-1112, 1991-02-28, Lietuvos aidas, 1991, Nr. 45-0 (1991-03-05); Žin., 1991, Nr. 8-226 (1991-03-20), i. k. 0911010ISTA00I-1112
 
 Nr. I-1858, 1991-10-03, Žin., 1991, Nr. 29-792 (1991-10-20), i. k. 0911010ISTA00I-1858
+
+Nr. I-2814, 1992-07-30, Žin., 1992, Nr. 24-700 (1992-08-31), i. k. 0921010ISTA00I-2814
 
 V. LIETUVOS RESPUBLIKOS VYRIAUSYBĖS
 
@@ -522,6 +524,14 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-1858, 1991-10-03, Žin., 1991, Nr. 29-792 (1991-10-20), i. k. 0911010ISTA00I-1858
 
 Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo
+
+11.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-2814, 1992-07-30, Žin., 1992, Nr. 24-700 (1992-08-31), i. k. 0921010ISTA00I-2814
+
+Dėl Lietuvos Respublikos prekybos ir materialinių išteklių ministerijos pertvarkymo į Lietuvos Respublikos pramonės ir prekybos ministeriją
 
 61 straipsnis. Lietuvos Respublikos vyriausybės prisaikdinimas
 
