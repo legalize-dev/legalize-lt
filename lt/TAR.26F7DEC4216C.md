@@ -4,7 +4,7 @@ identifier: "TAR.26F7DEC4216C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-10-19"
-last_updated: "1997-07-02"
+last_updated: "1997-10-23"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26F7DEC4216C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,19 +15,19 @@ document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos pilietybės įstatymo įgyvendinimo tvarkos
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
-Redagavo:
+Redagavo: Ramunė
 
-Ramunė Lūžaitė (1997.07.17)
+Lūžaitė (1997.11.03)
 
 Įstatymas
 
 paskelbtas: Žin., 1995, Nr.90-2014
 
-Neoficialus
+Neoficialus įstatymo
 
-įstatymo tekstas
+tekstas
 
 Pakeitimai:
 
@@ -46,6 +46,22 @@ LIETUVOS
 RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMO ĮGYVENDINIMO
 
 TVARKOS” 1 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-477,
+
+97.10.23, Žin., 1997, Nr.99-2505 (97.10.31)
+
+LIETUVOS RESPUBLIKOS
+
+ĮSTATYMO “DĖL LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMO ĮGYVENDINIMO TVARKOS” 5
+
+STRAIPSNIO PAKEITIMO
 
 ***
 
@@ -107,15 +123,15 @@ VIII-392, 97.07.02, Žin., 1997, Nr.67-1669 (97.07.16)
 
 straipsnis.  Kitos valstybės pilietis arba asmuo be pilietybės, kuris kreipėsi
 
-dėl Lietuvos Respublikos pilietybės suteikimo pagal Lietuvos Respublikos
+dėl Lietuvos Respublikos pilietybės suteikimo pagal Lietuvos Respublikos pilietybės
 
-pilietybės įstatymo 12 straipsnį ar 14 straipsnio pirmąją dalį, pateikia
+įstatymo 12 straipsnį ar 14 straipsnio pirmąją dalį, pateikia dokumentus,
 
-dokumentus, patvirtinančius, kad  jis teisėtai atvyko ir nuolat gyvena
+patvirtinančius, kad  jis teisėtai atvyko ir nuolat gyvena Pilietybės įstatyme
 
-Pilietybės įstatyme nurodytą laikotarpį, bei kitus dokumentus,
+nurodytą laikotarpį, bei kitus dokumentus, patvirtinančius,  jog  yra
 
-patvirtinančius,  jog  yra  įvykdyti  Pilietybės  įstatymo reikalavimai.
+įvykdyti  Pilietybės  įstatymo reikalavimai.
 
 3
 
@@ -123,9 +139,9 @@ straipsnis.  Asmeniui, kuriam  buvo  nepagrįstai  ar neteisėtai išduoti
 
 Lietuvos Respublikos pilietybės dokumentai, Lietuvos Respublikos piliečio pasas
 
-negali būti išduotas, kol jo pilietybės klausimas nebus išspręstas pagal
+negali būti išduotas, kol jo pilietybės klausimas nebus išspręstas pagal Lietuvos
 
-Lietuvos Respublikos pilietybės įstatymą.
+Respublikos pilietybės įstatymą.
 
 Lietuvos
 
@@ -159,11 +175,11 @@ straipsnis. Nustačius, kad asmeniui Lietuvos Respublikos piliečio pasas
 
 išduotas iki 1993 m. gruodžio 31 d. neteisėtai ar nepagrįstai ne dėl jo kaltės,
 
-šis asmuo yra Lietuvos Respublikos pilietis, jeigu  jis šio  įstatymo
+šis asmuo yra Lietuvos Respublikos pilietis, jeigu  jis šio  įstatymo įsigaliojimo
 
-įsigaliojimo  dieną yra nuolatinis Lietuvos  Respublikos gyventojas  ir jo
+dieną yra nuolatinis Lietuvos  Respublikos gyventojas  ir jo Lietuvos
 
-Lietuvos Respublikos piliečio pasas iki šio įstatymo įsigaliojimo dienos nėra
+Respublikos piliečio pasas iki šio įstatymo įsigaliojimo dienos nėra
 
 pripažintas  negaliojančiu. Klausimą dėl to, ar šiame straipsnyje nurodytiems
 
@@ -183,25 +199,35 @@ straipsnis  netaikomas  asmenims,  kurie  Lietuvos Respublikos pasą gavo
 
 apgaulės būdu.
 
-5 straipsnis. Asmenims,
+5 straipsnis. Asmenims, nurodytiems Lietuvos
 
-nurodytiems Lietuvos Respublikos pilietybės įstatymo 1 straipsnio pirmosios
+Respublikos pilietybės įstatymo  1 straipsnio pirmosios dalies 1, 2 ir 3
 
-dalies 1, 2 ir 3 punktuose, kurie nepasirašė pasižadėjimo, reikalingo Lietuvos
+punktuose, kurie nepasirašė pasižadėjimo, reikalingo Lietuvos Respublikos
 
-Respublikos piliečio pažymėjimui ar pažymėjimui apie apsisprendimą dėl Lietuvos
+piliečio pažymėjimui ar pažymėjimui apie apsisprendimą dėl Lietuvos Respublikos
 
-Respublikos pilietybės gauti, Lietuvos Respublikos piliečio pasas ar kitoks
+pilietybės gauti, Lietuvos Respublikos piliečio pasas išduodamas tik tada, kai
 
-pilietybės dokumentas išduodamas tik tada, kai jie tokį pasižadėjimą pasirašo.
+jie pasirašo tokį pasižadėjimą:
 
-Vidaus reikalų ministerijos pasų tarnybos, išduodamos pilietybės dokumentus šio
+“Aš (vardas, pavardė), įgydamas Lietuvos
 
-straipsnio pirmojoje dalyje nurodytiems asmenims, privalo pareikalauti ir
+Respublikos piliečio pasą, pasižadu laikytis Lietuvos Respublikos Konstitucijos
 
-patikrinti dokumentus, įrodančius, jog asmenys atitinka Lietuvos Respublikos
+ir įstatymų, gerbti Lietuvos valstybės nepriklausomybę ir jos teritorinį
 
-pilietybės įstatymo 1 straipsnio pirmosios dalies 1, 2 ir 3 punktų sąlygas.
+vientisumą.”
+
+Vidaus reikalų ministerijos pasų tarnybos,
+
+išduodamos pilietybės dokumentus šio straipsnio pirmojoje dalyje nurodytiems
+
+asmenims, privalo pareikalauti ir patikrinti dokumentus, įrodančius, jog
+
+asmenys atitinka Lietuvos Respublikos pilietybės įstatymo 1 straipsnio
+
+pirmosios dalies 1, 2 ir 3 punktų sąlygas.
 
 Straipsnio
 
@@ -210,6 +236,10 @@ pakeitimai:
 Nr.
 
 VIII-392, 97.07.02, Žin., 1997, Nr.67-1669 (97.07.16)
+
+Nr. VIII-477,
+
+97.10.23, Žin., 1997, Nr.99-2505 (97.10.31)
 
 6
 
