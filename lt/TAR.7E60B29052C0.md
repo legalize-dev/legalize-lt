@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2002-07-05"
+last_updated: "2002-12-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -124,62 +124,6 @@ tarnybos įstatymas (toliau – valstybės pareigūnai):
 
 1) prokuratūros pareigūnams;
 
-2) Valstybės
-
-saugumo departamento generaliniam direktoriui ir jo pavaduotojams;
-
-3) Specialiųjų
-
-tyrimų tarnybos direktoriui ir jo pavaduotojams;
-
-4) valstybės
-
-kontrolieriui ir jo pavaduotojams;
-
-5) Seimo
-
-kontrolieriams;
-
-6) Nacionalinės teismų administracijos
-
-direktoriui;
-
-7) moterų ir
-
-vyrų lygių galimybių kontrolieriui;
-
-8) vaiko teisių apsaugos kontrolieriui;
-
-9) žurnalistų etikos inspektoriui;
-
-10) Seimo, Seimo
-
-Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems
-
-institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams bei
-
-pareigūnams;
-
-11) Seimo,
-
-Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
-
-(nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
-
-[3 dalies redakcija nuo 2002 m.
-
-rugpjūčio 1 d.:
-
-3. Šio įstatymo
-
-nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems
-
-valstybės pareigūnams, kuriems netaikomas Lietuvos Respublikos valstybės
-
-tarnybos įstatymas (toliau – valstybės pareigūnai):
-
-1) prokuratūros pareigūnams;
-
 2) valstybės
 
 kontrolieriui ir jo pavaduotojams;
@@ -218,7 +162,7 @@ Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams;
 
 Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių)
 
-komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.]
+komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
 
 Straipsnio
 
@@ -236,9 +180,9 @@ Nr. IX-349, 2001 05 24, Žin., 2001, Nr.
 
 48-1661 (2001 06 06) (atitaisymas skelbtas: Žin., 2001, Nr. 49)
 
-Nr. IX-841, 2002-04-09,
+Nr. IX-841,
 
-Žin., 2002, Nr. 43-1606 (2002-04-26)
+2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
 
 Nr. IX-1012,
 
@@ -251,30 +195,6 @@ Nr. IX-1045,
 3 straipsnis. Valstybės politikų,
 
 teisėjų ir valstybės pareigūnų darbo užmokestis
-
-1. Valstybės
-
-politikų darbo užmokestis susideda iš:
-
-1) pareiginės algos;
-
-2) priedo už
-
-ištarnautus Lietuvos valstybei metus.
-
-2. Teisėjų ir valstybės pareigūnų darbo užmokestis
-
-susideda iš:
-
-1) pareiginės algos;
-
-2) priedo už ištarnautus Lietuvos valstybei metus;
-
-3) vienkartinės priemokos.
-
-[1 ir 2 dalių redakcija nuo 2002 m.
-
-rugpjūčio 1 d.:
 
 1. Valstybės politikų ir teisėjų darbo užmokestis susideda iš:
 
@@ -290,7 +210,7 @@ rugpjūčio 1 d.:
 
 3) vienkartinės
 
-priemokos.]
+priemokos.
 
 3. Duomenys apie valstybės politikų, teisėjų ir
 
@@ -300,9 +220,9 @@ valstybės pareigūnų darbo užmokestį yra vieši. Šių duomenų pateikimo tv
 
 Straipsnio pakeitimai:
 
-Nr. IX-811, 2002-03-26,
+Nr. IX-811,
 
-Žin., 2002, Nr. 38-1358 (2002-04-10)
+2002-03-26, Žin., 2002, Nr. 38-1358 (2002-04-10)
 
 Nr. IX-1045,
 
@@ -358,11 +278,11 @@ bei A ir B lygio paslaugų valstybės tarnautojų, taip pat Valstybės tarnybos
 
 2. Tarnybos
 
-laikas einant ne tuo pačiu metu šio straipsnio 1 dalyje nurodytas pareigas susumuojamas.
+laikas einant ne tuo pačiu metu šio straipsnio 1 dalyje nurodytas pareigas
 
-Į tarnybos stažą įskaitomas stažuotės ar bandomasis laikotarpis, taip pat
+susumuojamas. Į tarnybos stažą įskaitomas stažuotės ar bandomasis laikotarpis,
 
-mokamų atostogų laikas.
+taip pat mokamų atostogų laikas.
 
 3. Priedą už
 
@@ -372,9 +292,7 @@ valstybės pareigūno pareiginės algos už kiekvienus trejus metus, tačiau
 
 priedo dydis neturi viršyti 30 procentų pareiginės algos.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. VIII-2057,
 
@@ -384,35 +302,35 @@ Nr. VIII-2057,
 
 Vienkartinė priemoka
 
-1. Teisėjams ir
+1. Valstybės pareigūnams metų pabaigoje už viršvalandinį
 
-valstybės pareigūnams metų pabaigoje už viršvalandinį darbą, darbą poilsio ir
+darbą, darbą poilsio ir švenčių dienomis išmokama ne didesnė kaip pareiginės
 
-švenčių dienomis išmokama ne didesnė kaip pareiginės algos dydžio vienkartinė
+algos dydžio vienkartinė priemoka. Ji mokama neviršijant valstybės pareigūnų
 
-priemoka. Ji mokama neviršijant teisėjų ar valstybės pareigūnų darbo
+darbo užmokesčiui teisės aktų nustatyta tvarka skirtų lėšų. Jeigu šių lėšų
 
-užmokesčiui teisės aktų nustatyta tvarka skirtų lėšų. Jeigu šių lėšų nepakanka,
-
-taip pat jei teisėjas ar valstybės pareigūnas institucijoje nėra išdirbęs visų
+nepakanka, taip pat jei valstybės pareigūnas institucijoje nėra išdirbęs visų
 
 metų, priemokos dydis perskaičiuojamas proporcingai esamoms darbo užmokesčio
 
-lėšoms arba dirbtam laikui tais metais.
+lėšoms ir dirbtam laikui tais metais.
 
 2. Institucijų
 
-teisės aktuose (statutuose, nuostatuose), reglamentuojančiuose teisėjų ir
+teisės aktuose (statutuose, nuostatuose), reglamentuojančiuose valstybės
 
-valstybės pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas
+pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas sukonkretinamos šio
 
-konkretizuojamos šio straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir
+straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir išmokėjimo sąlygos
 
-išmokėjimo sąlygos bei tvarka.
+bei tvarka.
 
-[6 straipsnio redakcija nuo 2002 m.
+Straipsnio pakeitimai:
 
-rugpjūčio 1 d.:
+Nr. IX-1045,
+
+2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
 
 7 straipsnis.
 
@@ -474,11 +392,11 @@ B – valstybės politiko, teisėjo ar valstybės pareigūno
 
 darbo užmokestis, nustatytas šiuo įstatymu;
 
-M – darbo
+M – darbo užmokesčio
 
-užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo
+perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo užmokestį.
 
-užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
+Nustatomi šie pereinamojo laikotarpio koeficientai:
 
 Metai
 
@@ -584,15 +502,15 @@ nurodytas formules, kuriose dydis C reiškia naujai išrinkto ar paskirto
 
 valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokesčio,
 
-apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo apmokėjimo sąlygas,
+apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo apmokėjimo
 
-dydį. Steigiant naują instituciją ar įstaigą, steigėjas steigimo akte arba
+sąlygas, dydį. Steigiant naują instituciją ar įstaigą, steigėjas steigimo akte
 
-steigiamos institucijos ar įstaigos nuostatuose turi nurodyti, kokios darbo
+arba steigiamos institucijos ar įstaigos nuostatuose turi nurodyti, kokios
 
-apmokėjimo sąlygos, galiojusios panašioms institucijoms ar įstaigoms iki šio
+darbo apmokėjimo sąlygos, galiojusios panašioms institucijoms ar įstaigoms iki
 
-įstatymo įsigaliojimo datos, taikomos pereinamuoju laikotarpiu.
+šio įstatymo įsigaliojimo datos, taikomos pereinamuoju laikotarpiu.
 
 *5. Pasibaigus
 
@@ -617,6 +535,12 @@ pareigūnams, kurių darbo užmokestis remiantis šio straipsnio 3 dalies
 1 punkto nuostatomis buvo mažinamas, nuo 2002 m. liepos 1 d. šis punktas
 
 netaikomas ir darbo užmokesčio mažinimas nutraukiamas.
+
+8. Lietuvos
+
+Respublikos valstybės kontrolieriui ir jo pavaduotojams nuo 2003 m.
+
+sausio 1 d. šio įstatymo 7 straipsnio 3 dalies 1 punktas netaikomas.
 
 *Pastaba.
 
@@ -664,7 +588,9 @@ straipsniui, 114 straipsnio 1 daliai ir Lietuvos Respublikos Konstitucijoje
 
 įtvirtintam teisinės valstybės principui.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. VIII-2057,
 
@@ -693,6 +619,10 @@ Nr. IX-841,
 Nr. IX-1012,
 
 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
+
+Nr. IX-1240, 2002-12-10, Žin., 2002, Nr. 123-5532
+
+(2002-12-24)
 
 8 straipsnis. Neteko galios.
 
@@ -938,9 +868,9 @@ Nr. VIII-2057,
 
 (MMA dydžiais)
 
-Pareiginės algos
+Pareiginės
 
-koeficientas
+algos koeficientas
 
 Eil. Nr.
 
@@ -1122,7 +1052,9 @@ algos koeficientas
 
 1.
 
-Generalinė prokuratūra prie Lietuvos
+Generalinė prokuratūra prie
+
+Lietuvos
 
 Aukščiausiojo Teismo
 
@@ -1190,7 +1122,9 @@ pavaduotojas
 
 1.10.
 
-Grupės vyriausiojo prokuroro pavaduotojas
+Grupės vyriausiojo prokuroro
+
+pavaduotojas
 
 14,0
 
@@ -1408,198 +1342,6 @@ tardytojas
 
 8,0
 
-IV.
-
-Valstybės pareigūnų pareiginės algos
-
-(MMA dydžiais)
-
-Eil. Nr.
-
-Pareigų
-
-pavadinimas
-
-Pareiginės
-
-algos koeficientas
-
-1.
-
-Valstybės saugumo departamentas:
-
-1.1.
-
-generalinis direktorius
-
-14,5
-
-1.2.
-
-generalinio direktoriaus pavaduotojai
-
-12,9
-
-2.
-
-Specialiųjų tyrimų tarnyba:
-
-2.1.
-
-direktorius
-
-14,5
-
-2.2.
-
-direktoriaus pavaduotojai
-
-12,9
-
-3.
-
-Valstybės kontrolė:
-
-3.1.
-
-valstybės kontrolierius
-
-14,5
-
-3.2.
-
-valstybės kontrolieriaus pavaduotojai
-
-12,9
-
-4.
-
-Seimo kontrolieriai:
-
-4.1.
-
-įstaigos vadovas
-
-13
-
-4.2.
-
-Seimo kontrolieriai
-
-12
-
-5.
-
-Nacionalinės teismų administracijos
-
-direktorius
-
-12
-
-6.
-
-moterų ir vyrų lygių galimybių
-
-kontrolierius
-
-12
-
-7.
-
-vaiko teisių apsaugos kontrolierius
-
-12
-
-8.
-
-žurnalistų etikos inspektorius
-
-12
-
-9.
-
-Seimo, Seimo Pirmininko, Respublikos
-
-Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-
-tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
-
-lošimų priežiūros komisijos, Vertybinių popierių komisijos, Vyriausiosios
-
-rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
-
-9.1.
-
-pirmininkai
-
-12
-
-9.2.
-
-pavaduotojai
-
-11
-
-9.3.
-
-nariai
-
-9,5
-
-10.
-
-Seimo,
-
-Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
-
-(nuolatinių) komisijų ir tarybų:
-
-10.1.
-
-pirmininkai
-
-9
-
-10.2.
-
-pavaduotojai
-
-7,3
-
-10.3.
-
-Nariai
-
-7
-
-11.
-
-Kiti Seimo ar Respublikos Prezidento
-
-paskirti institucijų ir įstaigų:
-
-11.1.
-
-Vadovai
-
-8
-
-11.2.
-
-Pareigūnai
-
-7
-
-Pastaba. Komisijų ir tarybų, kurių
-
-posėdžiai vyksta periodiškai, nariams pareiginės algos dydis apskaičiuojamas
-
-proporcingai dirbtam laikui.
-
-[IV skirsnio redakcija nuo 2002 m.
-
-rugpjūčio 1 d.:
-
 IV. VALSTYBĖS PAREIGŪNŲ
 
 PAREIGINĖS ALGOS
@@ -1772,7 +1514,7 @@ Pastaba.
 
 Komisijų ir tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės
 
-algos dydis apskaičiuojamas proporcingai dirbtam laikui.]
+algos dydis apskaičiuojamas proporcingai dirbtam laikui.
 
 Skirsnio
 
@@ -1896,9 +1638,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-811, 2002-03-26,
+IX-811,
 
-Žin., 2002, Nr. 38-1358 (2002-04-10)
+2002-03-26, Žin., 2002, Nr. 38-1358 (2002-04-10)
 
 VALSTYBĖS
 
@@ -1964,6 +1706,22 @@ STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
 
 Įstatymas įsigalioja nuo 2002 m. rugpjūčio 1 d.
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1240, 2002-12-10, Žin., 2002, Nr. 123-5532 (2002-12-24)
+
+VALSTYBĖS
+
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 7 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 LIETUVOS
@@ -2024,7 +1782,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-07-23)
+Aušrinė Trapinskienė (2002-12-24)
 
 autrap@lrs.lt
 
