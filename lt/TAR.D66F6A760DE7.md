@@ -4,7 +4,7 @@ identifier: "TAR.D66F6A760DE7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2002-12-05"
+last_updated: "2004-10-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 department: "Lietuvos Respublikos Seimas"
@@ -202,7 +202,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -250,7 +250,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 4 straipsnis. Uosto paskirtis
 
@@ -290,7 +290,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. IX-1226,
 
@@ -340,7 +340,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 7 straipsnis. Uosto
 
@@ -406,15 +406,15 @@ naudojančios ar transportuojančios žmonių sveikatai kenksmingas, pavojingas
 
 medžiagas, privalo užtikrinti darbo aplinkos saugumą.
 
-3. Už saugų darbą uoste esančiose įmonėse
+3. Už saugų darbą uoste esančiose įmonėse atsako
 
-atsako tų įmonių administracija. Transporto eismas uoste esančių įmonių
+tų įmonių administracija. Transporto eismas uoste esančių įmonių teritorijose
 
-teritorijose organizuojamas pagal atitinkamos transporto rūšies taisykles.
+organizuojamas pagal atitinkamos transporto rūšies taisykles. Specialiojo
 
-Specialiojo (techninio) transporto eismo taisykles pagal saugos darbe teisės
+(techninio) transporto eismo taisykles pagal saugos darbe teisės aktų
 
-aktų reikalavimus nustato tų įmonių administracija.
+reikalavimus nustato tų įmonių administracija.
 
 4. Uoste veikiančios įmonės įstatymų ir kitų teisės
 
@@ -466,7 +466,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 10 straipsnis.
 
@@ -578,13 +578,13 @@ socialinį-buitinį jūrininkų aptarnavimą.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1344, 99.10.05, Žin., 1999,
+Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561
 
-Nr.86-2561 (99.10.15)
+(99.10.15)
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -670,7 +670,7 @@ užtikrintas Lietuvos Respublikos įstatymų nustatytais būdais.
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 TREČIASIS SKIRSNIS
 
@@ -682,7 +682,7 @@ keistas:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 13 straipsnis.
 
@@ -700,7 +700,7 @@ pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -748,7 +748,7 @@ Nr.86-2561 (99.10.15)
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -774,7 +774,7 @@ pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -800,7 +800,7 @@ pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 17 straipsnis. Leidimas veiklai laisvajame uoste
 
@@ -820,9 +820,9 @@ institucija.
 
 verstis tik leidime nurodyta veikla.
 
-4. Leidimus veiklai laisvajame uoste išduoda susisiekimo
+4. Leidimus veiklai laisvajame uoste išduoda
 
-ministras.
+susisiekimo ministras.
 
 Straipsnio
 
@@ -830,7 +830,7 @@ pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -858,7 +858,7 @@ Nr.86-2561 (99.10.15)
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 19 straipsnis. Patekimas į laisvąjį uostą
 
@@ -886,11 +886,11 @@ Nr.86-2561 (99.10.15)
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-2017, 00.10.10, Žin., 2000,
 
-Nr.92-2869 (00.10.31), įsigalioja nuo 2000.11.01
+Nr.92-2869 (00.10.31)
 
 20
 
@@ -916,7 +916,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -966,7 +966,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -1112,7 +1112,7 @@ Nr.86-2561 (99.10.15)
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -1180,7 +1180,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -1190,9 +1190,9 @@ Nr. IX-1226,
 
 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
 
-24 straipsnis. Uosto žemės
+24 straipsnis. Uosto
 
-nuomos sutarties forma ir terminas
+žemės nuomos sutarties forma ir terminas
 
 1. Uosto žemės
 
@@ -1210,7 +1210,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -1242,11 +1242,7 @@ minimalūs mastai;
 
 2) uosto žemės
 
-nuomos mokesčio dydžio apskaičiavimo, keitimo sąlygos bei tvarka;
-
-3) uosto žemės
-
-subnuomos sąlygos bei reikalavimai.
+nuomos mokesčio dydžio apskaičiavimo, keitimo sąlygos bei tvarka.
 
 3. Nuomotojas
 
@@ -1276,9 +1272,9 @@ tvarka.
 
 4.
 
-Nuomininkas turi teisę nustatyta tvarka nutraukti uosto žemės nuomos sutartį prieš
+Nuomininkas turi teisę nustatyta tvarka nutraukti uosto žemės nuomos sutartį
 
-terminą.
+prieš terminą.
 
 5. Uosto žemės
 
@@ -1286,17 +1282,17 @@ nuomos sutartyje turi būti numatyta, kad tais atvejais, kai uosto žemės nuomo
 
 sutartis nutraukiama dėl to, kad nuomininkas nevykdo uosto žemės nuomos
 
-sutarties, kompensacijos už žalą, patirtą nutraukus sutartį, nuomininkui nemokamos.
+sutarties, kompensacijos už žalą, patirtą nutraukus sutartį, nuomininkui
 
-6. Uosto žemės nuomos ir subnuomos sąlygas bei
+nemokamos.
 
-reikalavimus nustato Lietuvos Respublikos Vyriausybė.
+6. Uosto žemę subnuomoti draudžiama.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265
+Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-(00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 
@@ -1305,6 +1301,10 @@ Nr.82-2479 (00.09.29)
 Nr. IX-1226,
 
 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+
+Nr. IX-2489,
+
+2004-10-12, Žin., 2004, Nr. 156-5694 (2004-10-26)
 
 25 straipsnis.
 
@@ -1376,9 +1376,9 @@ Nr. VIII-1962, 00.09.26, Žin., 2000,
 
 Nr.82-2479 (00.09.29)
 
-26 straipsnis.
+26 straipsnis. Uosto
 
-Uosto infrastruktūros pagerinimas ar jos sukūrimas
+infrastruktūros pagerinimas ar jos sukūrimas
 
 1. Uosto
 
@@ -1458,7 +1458,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 29 straipsnis. Laikinas
 
@@ -1498,7 +1498,7 @@ Nr. VIII-682,
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 31 straipsnis. Privačios
 
@@ -1646,7 +1646,7 @@ Nr.18-429 (00.02.29)
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. IX-1226,
 
@@ -1676,7 +1676,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. IX-1226,
 
@@ -1756,15 +1756,15 @@ paliktam be priežiūros arba apleistam turtui iškelti ar pašalinti, Uosto
 
 direkcija paskelbia visuomenės informavimo priemonėse. Nustatytam terminui
 
-pasibaigus, Uosto direkcija turi teisę imtis reikiamų priemonių turtui iškelti
+pasibaigus, Uosto direkcija turi teisę imtis reikiamų priemonių turtui iškelti ar
 
-ar kitu būdu jį pašalinti.
+kitu būdu jį pašalinti.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. IX-1226,
 
@@ -1794,11 +1794,11 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
-38 straipsnis.
+38 straipsnis. Uosto
 
-Uosto direkcijos iškelto uosto akvatorijoje paskendusio turto
+direkcijos iškelto uosto akvatorijoje paskendusio turto
 
 išreikalavimas
 
@@ -1832,7 +1832,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 Nr. IX-1226,
 
@@ -1868,7 +1868,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 PENKTASIS SKIRSNIS
 
@@ -1880,7 +1880,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 41 straipsnis. Neteko galios nuo 2000 m. spalio 1 d.
 
@@ -1888,7 +1888,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 42 straipsnis. Nuostolių,
 
@@ -1910,13 +1910,13 @@ nustatyta tvarka privalo atlyginti nuostolius, atsiradusius dėl taršos.
 
 3. Nuostolius dėl taršos,
 
-atsiradusius išmetant kenksmingas medžiagas, naftą, naftos produktus,
+atsiradusius išmetant kenksmingas medžiagas, naftą, naftos produktus, nutekamuosius
 
-nutekamuosius vandenis ar šiukšles iš dviejų ar daugiau laivų, šių laivų
+vandenis ar šiukšles iš dviejų ar daugiau laivų, šių laivų savininkai arba
 
-savininkai arba valdytojai, jeigu negalima nustatyti kiekvieno jų kaltės,
+valdytojai, jeigu negalima nustatyti kiekvieno jų kaltės, privalo atlyginti
 
-privalo atlyginti solidariai.
+solidariai.
 
 43 straipsnis. Neteko galios nuo 2000 m. spalio 1 d.
 
@@ -1924,7 +1924,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 
-Nr.75-2265 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2265 (00.09.07)
 
 IV SKYRIUS
 
@@ -2090,9 +2090,29 @@ KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO
 
 31, 33, 34, 36, 38 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-*** Pabaiga ***
+8.
 
-Redagavo: Aušrinė Trapinskienė (2003-01-28)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2489,
+
+2004-10-12, Žin., 2004, Nr. 156-5694 (2004-10-26)
+
+KLAIPĖDOS
+
+VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 25 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2004-10-28)
 
 autrap@lrs.lt
 
