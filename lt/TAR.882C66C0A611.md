@@ -4,7 +4,7 @@ identifier: "TAR.882C66C0A611"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-05-29"
-last_updated: "1990-06-02"
+last_updated: "1991-03-14"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.882C66C0A611"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vietos savivaldybės Tarybos deputato statuso įstatymas
+
+Suvestinė redakcija nuo 1991-03-14 iki 1991-11-04
+
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 8-0; Žin. 1990, Nr.17-441, i. k. 0901010ISTA000I-242
 
 LIETUVOS RESPUBLIKOS
 
@@ -160,6 +164,12 @@ Savivaldybės Tarybos deputatas jos teritorijoje negali būti patrauktas baudži
 
 Tarybos sprendimą neleisti patraukti deputato baudžiamojon atsakomybėn gali panaikinti atitinkama aukštesnioji Taryba, perduodama Tarybai klausimą apsvarstyti pakartotinai. Jeigu Taryba vėl patvirtins pradinį sprendimą, klausimą iš esmės gali spręsti Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas Respublikos prokuroro teikimu.
 
+Jeigu Taryba per vieną mėnesį nesprendė klausimo dėl leidimo patraukti deputatą baudžiamojon atsakomybėn, jį gali spręsti Lietuvos Respublikos Aukščiausioji Taryba.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-1144, 1991-03-14, Lietuvos aidas, 1991, Nr. 96-0 (1991-03-20); Žin., 1991, Nr. 9-250 (1991-03-31), i. k. 0911010ISTA00I-1144
+
 23 straipsnis. Savivaldybės Tarybos deputato pažymėjimas ir deputato ženklas
 
 Deputatas turi deputato pažymėjimą ir deputato ženklą, kurie jam įteikiami Tarybai patvirtinus deputato įgaliojimus. Deputato pažymėjimu ir deputato ženklu deputatas naudojasi savo įgaliojimų laikotarpiu.
@@ -175,4 +185,14 @@ PIRMININKAS                                  �
 Vilnius, 1990 m. gegužės 29 d.
 
 Nr. I-242
+
+Pakeitimai:
+
+1.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-1144, 1991-03-14, Lietuvos aidas, 1991, Nr. 96-0 (1991-03-20); Žin., 1991, Nr. 9-250 (1991-03-31), i. k. 0911010ISTA00I-1144
+
+Dėl Lietuvos Respublikos vietos savivaldybės Tarybos deputato statuso įstatymo 22 straipsnio papildymo
 
