@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2000-12-21"
+last_updated: "2000-12-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -33,9 +33,7 @@ VALSTYBĖS TARNYBOS
 
 Vilnius
 
-PIRMASIS
-
-SKIRSNIS
+PIRMASIS SKIRSNIS
 
 BENDROSIOS
 
@@ -1423,9 +1421,9 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 
 75-2270 (2000 09 07)
 
-15 straipsnis.
+15 straipsnis. Politinio (asmeninio)
 
-Politinio (asmeninio) pasitikėjimo valstybės tarnautojų priėmimas
+pasitikėjimo valstybės tarnautojų priėmimas
 
 1. Į politinio
 
@@ -4071,64 +4069,6 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 
 75-2270 (2000 09 07)
 
-53
-
-straipsnis. Valstybinis socialinis draudimas, sveikatos draudimas ir pensijos
-
-1. Valstybės tarnautojai privalomai
-
-draudžiami valstybiniu socialiniu draudimu ir sveikatos draudimu Valstybinio
-
-socialinio draudimo ir Sveikatos draudimo įstatymų nustatyta tvarka bei
-
-sąlygomis.
-
-2. Valstybės
-
-tarnautojams skiriama ir mokama valstybinė socialinio draudimo pensija pagal
-
-Valstybinio socialinio draudimo pensijų įstatymą ir valstybės tarnautojų
-
-valstybinė pensija pagal Valstybės tarnautojų pensijų įstatymą.
-
-3. Teisę gauti
-
-valstybės tarnautojų valstybinę pensiją, šios pensijos dydžio ir tarnybos stažo
-
-apskaičiavimo tvarką, šių pensijų skyrimo ir mokėjimo sąlygas nustato Valstybės
-
-tarnautojų pensijų įstatymas, Valstybinių pensijų įstatymas ir kiti teisės
-
-aktai.
-
-4. Privalomos
-
-valstybinio socialinio draudimo pensijų įmokos už Lietuvos Respublikos
-
-diplomatinėse atstovybėse ir konsulinėse įstaigose užsienyje dirbančio
-
-valstybės tarnautojo sutuoktinį tuo laikotarpiu, kurį jis gyveno užsienyje
-
-kartu su valstybės tarnautoju, dirbančiu Lietuvos Respublikos diplomatinėje
-
-atstovybėje ar konsulinėje įstaigoje, mokamos nuo valstybės tarnautojo 0,5
-
-pareiginės algos. Ši norma netaikoma valstybės tarnautojo sutuoktiniui
-
-įsidarbinus.
-
-5. Laikotarpis, kurį
-
-sutuoktinis gyveno užsienyje kartu su valstybės tarnautoju, dirbančiu Lietuvos
-
-Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, įskaitomas į
-
-valstybės tarnautojo sutuoktinio valstybinio socialinio draudimo stažą, jeigu
-
-už šį laikotarpį buvo mokėtos nustatytos Lietuvos valstybinio socialinio
-
-draudimo įmokos.
-
 55 straipsnis. Kitos garantijos
 
 1. Panaikinus
@@ -4627,230 +4567,6 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 
 75-2270 (2000 09 07)
 
-58
-
-straipsnis. Vyriausybei neatskaitingų institucijų ir įstaigų personalo valdymas
-
-1. Vyriausybei
-
-neatskaitingose institucijose ir įstaigose už šio įstatymo ir su juo
-
-susijusių teisės aktų vykdymą bei personalo valdymą yra atsakingi:
-
-1) Seimo
-
-kanceliarijoje ir Prezidentūroje - kanceliarijų (įstaigų) vadovai;
-
-2)
-
-Konstituciniame Teisme ir Lietuvos Aukščiausiajame Teisme - šių teismų
-
-kancleriai;
-
-3) kituose
-
-teismuose, prokuratūroje, Valstybės saugumo departamente, Specialiųjų tyrimų
-
-tarnyboje, Valstybės kontrolėje, Seimo kontrolierių įstaigoje, Moterų ir vyrų
-
-lygių galimybių kontrolieriaus tarnyboje, Vaiko teisių apsaugos kontrolieriaus
-
-tarnyboje, kitose Vyriausybei neatskaitingose institucijose ir įstaigose - šių
-
-institucijų ir įstaigų vadovai.
-
-2. Šio
-
-straipsnio 1 dalyje nurodyti asmenys personalo valdymą organizuoja per
-
-personalo tarnybas, kurių veiklą reglamentuoja atitinkamų institucijų ar
-
-įstaigų personalo tarnybų nuostatai.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
-
-75-2270 (2000 09 07)
-
-59
-
-straipsnis. Ministerijų, Vyriausybei atskaitingų institucijų ir įstaigų personalo
-
-valdymas
-
-1. Ministerijų, Vyriausybei atskaitingų institucijų ir
-
-įstaigų personalą valdo:
-
-1) Vyriausybė;
-
-2) už valstybės
-
-tarnybą atsakingas ministras;
-
-3) valstybės
-
-tarnybos tvarkymo funkcijas atliekančios įstaigos vadovas;
-
-4) Vyriausybės
-
-kancleris;
-
-5) Vyriausybės
-
-sekretorius ir ministerijų sekretoriai.
-
-2. Vyriausybė,
-
-atlikdama ministerijų, jai atskaitingų
-
-institucijų ir įstaigų personalo valdymo funkcijas:
-
-1) nustato
-
-planuojamiems biudžetiniams metams ministerijų, Vyriausybei atskaitingų institucijų ir įstaigų valstybės
-
-tarnautojų skaičių pagal valstybės tarnautojų grupes, lygius ir kategorijas;
-
-2) atlieka kitas
-
-įstatymų nustatytas personalo valdymo funkcijas.
-
-3. Už valstybės
-
-tarnybą atsakingas ministras, atlikdamas ministerijų, Vyriausybei atskaitingų institucijų ir
-
-įstaigų personalo valdymo
-
-funkcijas:
-
-1) tvirtina
-
-pretendentų į valstybės tarnybą atrankos komisijų pavyzdinius nuostatus;
-
-2) tvirtina
-
-Personalo valdymo tarybos nuostatus;
-
-3) atlieka kitas
-
-šio įstatymo ir kitų teisės aktų nustatytas funkcijas, susijusias su ministerijų, Vyriausybei atskaitingų
-
-institucijų ir įstaigų personalo valdymą
-
-reglamentuojančiais teisės aktais.
-
-4. Valstybės
-
-tarnybos tvarkymo funkcijas atliekančios įstaigos vadovas atlieka šias ministerijų, Vyriausybei atskaitingų institucijų ir įstaigų personalo valdymo funkcijas:
-
-1) organizuoja
-
-pretendentų į valstybės tarnybą atranką;
-
-2) tvirtina
-
-atrankos į valstybės tarnybą egzaminų programas;
-
-3) tvirtina
-
-pretendentų į valstybės tarnybą atrankos komisijų sudėtis;
-
-4) pretendentų į valstybės
-
-tarnybą atrankos komisijos teikimu skiria pretendentą į valstybės tarnybą
-
-stažuotoju eiti pareigas konkrečioje institucijoje ar įstaigoje;
-
-5) organizuoja
-
-valstybės tarnautojų įvadinį mokymą;
-
-6) koordinuoja
-
-valstybės tarnautojų tęstinį kvalifikacijos kėlimą;
-
-7) priima
-
-sprendimus skirti nuobaudas už sunkius valstybės tarnautojų nusižengimus ar
-
-panaikinti tarnybinę nuobaudą
-
-pagal šio įstatymo 44 straipsnio 4 dalį;
-
-8) atlieka kitas
-
-šio įstatymo ir kitų teisės aktų nustatytas personalo valdymo funkcijas.
-
-5. Vyriausybės
-
-kancleris:
-
-1) yra atsakingas
-
-už šio įstatymo ir su juo susijusių teisės aktų vykdymą bei Ministro Pirmininko
-
-aparato personalo valdymą;
-
-2) atlieka kitas
-
-Vyriausybės įstatymo nustatytas personalo valdymo funkcijas;
-
-3) personalo
-
-valdymą organizuoja per Vyriausybės kanceliarijos personalo tarnybą, o šios
-
-veiklą reglamentuoja personalo tarnybos nuostatai.
-
-6. Vyriausybės
-
-sekretorius atlieka šias ministerijų, Vyriausybei atskaitingų institucijų ir įstaigų personalo valdymo funkcijas:
-
-1) yra atsakingas
-
-už šio įstatymo, su juo susijusių teisės aktų vykdymą, taip pat Vyriausybės
-
-kanceliarijos, Vyriausybės įstaigų, apskričių administracijų ir joms
-
-atskaitingų institucijų bei įstaigų
-
-personalo valdymą, organizuoja jų personalo valdymą;
-
-2) personalo valdymą
-
-organizuoja per atitinkamų įstaigų vadovus, ministerijų sekretorius ir
-
-personalo tarnybas, o šių tarnybų veiklą reglamentuoja personalo tarnybų
-
-nuostatai.
-
-7. Ministerijos
-
-sekretorius atlieka šias ministerijos ir jai atskaitingų įstaigų personalo valdymo
-
-funkcijas:
-
-1) yra atsakingas
-
-už šio įstatymo ir kitų su juo susijusių teisės aktų vykdymą bei atitinkamos
-
-ministerijos, įstaigų prie ministerijos personalo valdymą, organizuoja jų
-
-personalo valdymą;
-
-2) personalo
-
-valdymą organizuoja per atitinkamų įstaigų vadovus ir personalo tarnybas, o šių
-
-tarnybų veiklą reglamentuoja personalo tarnybų nuostatai.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
-
-75-2270 (2000 09 07)
-
 60 straipsnis. Personalo valdymas
 
 savivaldybėse
@@ -5217,7 +4933,9 @@ institucijos ar įstaigos vadovui).
 
 10. Valstybės tarnautojams
 
-ankstesnės darbo apmokėjimo sąlygos lieka galioti iki  2001 m. sausio 1 d.
+ankstesnės darbo apmokėjimo sąlygos lieka galioti iki
+
+2001 m. liepos 1 d.
 
 11. Su valstybės
 
@@ -5281,6 +4999,10 @@ Nr. IX-37, 2000 11 21, Žin., 2000, Nr.
 
 102-3213 (2000 11 29)
 
+Nr. IX-133, 2000 12 23, Žin., 2000, Nr.
+
+111-3586 (2000 12 29), įsigalioja nuo 2001 01 01
+
 63 straipsnis.
 
 Pareigybių priskyrimas grupėms, lygiams ir kategorijoms
@@ -5307,9 +5029,9 @@ Nr. IX-129, 2000 12 21, Žin., 2000, Nr.
 
 111-3585 (2000 12 29), įsigalioja nuo 2001 01 01
 
-64 straipsnis. Valstybės tarnautojų
+64 straipsnis. Valstybės tarnautojų priskyrimas
 
-priskyrimas grupėms, lygiams ir kategorijoms
+grupėms, lygiams ir kategorijoms
 
 1. Suklasifikavus pareigybes pagal grupes, lygius
 
@@ -5355,15 +5077,17 @@ pagal šio įstatymo 68 straipsnio 5 dalį.
 
 65 straipsnis. Profesionalumo vertinimas
 
-1. Nustačius valstybės tarnautojų pareigybių kategorijas,
+1. Nustačius valstybės tarnautojų pareigybių
 
-iki bus priimti teisės aktai, reglamentuojantys valstybės tarnautojų vertinimo
+kategorijas, iki bus priimti teisės aktai, reglamentuojantys valstybės
 
-tvarką, bet ne ilgiau kaip 2 metus nuo šio įstatymo įsigaliojimo, valstybės
+tarnautojų vertinimo tvarką, bet ne ilgiau kaip 2 metus nuo šio įstatymo
 
-tarnautojų profesionalumas vertinamas Vyriausybės ar jos įgaliotos institucijos
+įsigaliojimo, valstybės tarnautojų profesionalumas vertinamas Vyriausybės ar
 
-nustatyta tvarka, vadovaujantis šio straipsnio 2 ir 3 dalių nuostatomis.
+jos įgaliotos institucijos nustatyta tvarka, vadovaujantis šio
+
+straipsnio 2 ir 3 dalių nuostatomis.
 
 2. Valstybės
 
@@ -5399,9 +5123,9 @@ kategorijos pareigoms. Šiuo laikotarpiu jis gali dirbti bet kurį kitą darbą 
 
 valstybės tarnyboje. Per 1 metus konkurso būdu nepaskirtas pareigoms, jis
 
-netenka valstybės tarnautojo statuso ir yra išbraukiamas iš Valstybės
+netenka valstybės tarnautojo statuso ir yra išbraukiamas iš Valstybės tarnautojų
 
-tarnautojų registro.
+registro.
 
 66 straipsnis.
 
@@ -5513,11 +5237,11 @@ programos ir pagal jas suteikta kvalifikacija, leidžianti asmenims pretenduoti
 
 nuo šio įstatymo įsigaliojimo, pretendentams į šias pareigybes reikalavimas
 
-būti išėjus Lietuvos viešojo administravimo instituto atitinkamą mokymo
+būti išėjus Lietuvos viešojo administravimo instituto atitinkamą mokymo programą
 
-programą (ar jai prilygintą) nekeliamas. Dokumentas, liudijantis, kad ši mokymo
+(ar jai prilygintą) nekeliamas. Dokumentas, liudijantis, kad ši mokymo programa
 
-programa išeita, ir atitinkamų žinių turėjimas yra pretendento privalumas.
+išeita, ir atitinkamų žinių turėjimas yra pretendento privalumas.
 
 5. Po šio
 
@@ -5547,25 +5271,25 @@ Valstybės tarnautojo statuso praradimas
 
 ir 6 mėnesius ir vyresnio amžiaus karjeros bei viešųjų paslaugų valstybės
 
-tarnautojai baigia tarnybą ir atsistatydina iš pareigų ne vėliau kaip per 2
+tarnautojai baigia tarnybą ir atsistatydina iš pareigų ne vėliau kaip per 2 metus
 
-metus nuo Valstybės tarnybos įstatymo įsigaliojimo. Jie turi teisę tęsti
+nuo Valstybės tarnybos įstatymo įsigaliojimo. Jie turi teisę tęsti valstybės
 
-valstybės tarnybą, eidami pakaitinių, politinio (asmeninio) pasitikėjimo
+tarnybą, eidami pakaitinių, politinio (asmeninio) pasitikėjimo valstybės
 
-valstybės tarnautojų arba ūkines ar technines funkcijas atliekančių paslaugų
+tarnautojų arba ūkines ar technines funkcijas atliekančių paslaugų valstybės
 
-valstybės tarnautojų pareigas. Valstybės institucijos ar įstaigos vadovas
+tarnautojų pareigas. Valstybės institucijos ar įstaigos vadovas (savivaldybėse
 
-(savivaldybėse - administratorius ar savivaldybės kontrolierius) prireikus gali
+- administratorius ar savivaldybės kontrolierius) prireikus gali pratęsti 62
 
-pratęsti 62 metus ir 6 mėnesius sukakusio valstybės tarnautojo tarnybą, bet ne
+metus ir 6 mėnesius sukakusio valstybės tarnautojo tarnybą, bet ne ilgiau, nei
 
-ilgiau, nei jis sukaks 65 metus. Apie būsimą tarnybos pratęsimą ne vėliau kaip
+jis sukaks 65 metus. Apie būsimą tarnybos pratęsimą ne vėliau kaip prieš 6
 
-prieš 6 mėnesius, kol valstybės tarnautojas sukaks 62 metus ir 6 mėnesius,
+mėnesius, kol valstybės tarnautojas sukaks 62 metus ir 6 mėnesius, vadovas
 
-vadovas privalo raštu informuoti valstybės tarnybos tvarkymo funkciją atliekančią
+privalo raštu informuoti valstybės tarnybos tvarkymo funkciją atliekančią
 
 įstaigą.
 
@@ -5577,9 +5301,9 @@ nustatytą terminą neatsistatydinę iš pareigų, taip pat valstybės tarnautoj
 
 kurių tarnybos pratęsimo laikas, kaip nurodyta šio straipsnio 1 dalyje,
 
-pasibaigė, praranda valstybės tarnautojo statusą ir yra atleidžiami iš
+pasibaigė, praranda valstybės tarnautojo statusą ir yra atleidžiami iš valstybės
 
-valstybės tarnybos.
+tarnybos.
 
 3. Viešojo
 
@@ -5587,27 +5311,27 @@ administravimo valstybės tarnautojai bei viešųjų paslaugų valstybės tarnau
 
 (švietimo įstaigų pedagogai, auklėtojai ir šių įstaigų vadovai), kurie buvo
 
-SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB - toliau VSK) kadriniai
+SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB - toliau VSK) kadriniai darbuotojai
 
-darbuotojai (išskyrus tuos VSK kadrinius darbuotojus, kurie,
+(išskyrus tuos VSK kadrinius darbuotojus, kurie, dirbdami VSK,
 
-dirbdami VSK, tyrė tik kriminalines bylas ir ne vėliau kaip kitą dieną po 1990
+tyrė tik kriminalines bylas ir ne vėliau kaip kitą dieną po 1990 m. kovo 11 d.
 
-m. kovo 11 d. nutraukė savo darbą VSK, taip pat kiti asmenys, kuriems pagal
+nutraukė savo darbą VSK, taip pat kiti asmenys, kuriems pagal įstatymą „Dėl
 
-įstatymą „Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo
+SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios
 
-ir šios organizacijos darbuotojų dabartinės veiklos“ tarnybinės veiklos
+organizacijos darbuotojų dabartinės veiklos“ tarnybinės veiklos apribojimai
 
-apribojimai netaikomi), ir kurie iki Valstybės tarnybos įstatymo
+netaikomi), ir kurie iki Valstybės tarnybos įstatymo įsigaliojimo
 
-įsigaliojimo neatsistatydino iš pareigų, praranda valstybės tarnautojo statusą
+neatsistatydino iš pareigų, praranda valstybės tarnautojo statusą ir yra
 
-ir yra atleidžiami iš valstybės tarnybos nuo tos dienos, kai paaiškėja, kad
+atleidžiami iš valstybės tarnybos nuo tos dienos, kai paaiškėja, kad jiems yra
 
-jiems yra taikytinas įstatymas „Dėl SSRS valstybės saugumo komiteto (NKVD,
+taikytinas įstatymas „Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB,
 
-NKGB, MGB, KGB) vertinimo ir šios organizacijos darbuotojų dabartinės veiklos“.
+KGB) vertinimo ir šios organizacijos darbuotojų dabartinės veiklos“.
 
 4. Valstybės tarnautojas taip pat praranda valstybės
 
@@ -5661,13 +5385,13 @@ mėnesius;
 
 įskaitant tarnybos pratęsimo laiką tiems vadovams, kurių tarnyba buvo pratęsta.
 
-5. Viešojo
+5. Viešojo administravimo
 
-administravimo karjeros valstybės tarnautojai, kurių pareigybių aprašymuose
+karjeros valstybės tarnautojai, kurių pareigybių aprašymuose viešojo
 
-viešojo administravimo veikla nenumatyta, praranda viešojo administravimo
+administravimo veikla nenumatyta, praranda viešojo administravimo karjeros
 
-karjeros valstybės tarnautojo statusą ir tampa paslaugų valstybės tarnautojais.
+valstybės tarnautojo statusą ir tampa paslaugų valstybės tarnautojais.
 
 Straipsnio pakeitimai:
 
@@ -5739,7 +5463,9 @@ Nr. IX-37, 2000 11 21, Žin., 2000, Nr.
 
 1. Kasmetinių
 
-atostogų trukmės didinimas įgyvendinamas per 5 metus Vyriausybės nustatyta tvarka.
+atostogų trukmės didinimas įgyvendinamas per 5 metus Vyriausybės nustatyta
+
+tvarka.
 
 2. Valstybės
 
@@ -5797,9 +5523,9 @@ Nr. IX-129, 2000 12 21, Žin., 2000, Nr.
 
 111-3585 (2000 12 29), įsigalioja nuo 2001 01 01
 
-76 straipsnis. Šio įstatymo 55
+76 straipsnis. Šio įstatymo 55 straipsnio
 
-straipsnio 1 dalies įgyvendinimas
+1 dalies įgyvendinimas
 
 1. Kol Vyriausybė
 
@@ -5831,11 +5557,11 @@ valstybės tarnautojams gali būti pasiūlomos pareigos šiose įmonėse ar
 
 įstaigose. Valstybės tarnautojas turi teisę rinktis siūlomas pareigas 6
 
-mėnesius po valstybės institucijos ar įstaigos, savivaldybės administracijos
+mėnesius po valstybės institucijos ar įstaigos, savivaldybės administracijos padalinio
 
-padalinio ar savivaldybės įstaigos likvidavimo, reorganizavimo ar privatizavimo
+ar savivaldybės įstaigos likvidavimo, reorganizavimo ar privatizavimo arba
 
-arba pareigybės panaikinimo;
+pareigybės panaikinimo;
 
 2) laikotarpiu,
 
@@ -5857,9 +5583,9 @@ valstybės tarnautojas atsisako jas eiti, jis praranda valstybės tarnautojo
 
 statusą ir atleidžiamas iš valstybės tarnybos pagal šio įstatymo 68 straipsnio
 
-4 dalies 3 punktą. Atsižvelgiant į tarnybos stažą, apskaičiuotą pagal šio
+4 dalies 3 punktą. Atsižvelgiant į tarnybos stažą, apskaičiuotą pagal šio įstatymo
 
-įstatymo 33 straipsnio 3 dalį, jam išmokama kompensacija:
+33 straipsnio 3 dalį, jam išmokama kompensacija:
 
 1) iki 1 metų,
 
@@ -5991,13 +5717,13 @@ statutinių valstybės tarnautojų tarnybos ypatumais, ekspertizę ir pateikia
 
 Seimui jų pakeitimų ir papildymų projektus;
 
-4) per 2 metus
+4) per 2 metus priima
 
-priima visus kitus Valstybės tarnybos įstatymui įgyvendinti būtinus teisės
+visus kitus Valstybės tarnybos įstatymui įgyvendinti būtinus teisės aktus,
 
-aktus, išskyrus tuos, kurie pagal šio įstatymo nustatytą kompetenciją priimami
+išskyrus tuos, kurie pagal šio įstatymo nustatytą kompetenciją priimami už
 
-už valstybės tarnybą atsakingo ministro arba kuriems šiame įstatyme numatytas
+valstybės tarnybą atsakingo ministro arba kuriems šiame įstatyme numatytas
 
 kitoks terminas;
 
@@ -6035,11 +5761,11 @@ Kitų teisės aktų galiojimas
 
 sutarties įstatymo 26 straipsnio 1 dalies 16, 17, 18, 19, 20 punktai ir
 
-29 straipsnio 1 dalies 13 punktas (Žin., 1991, Nr.36-973; 1993, Nr.30-684;
+29 straipsnio
 
-1995, Nr.46-1119; 1996, Nr.41-983, Nr.43-1043; 1997, Nr.6-88, Nr.66-1593,
+1 dalies 13 punktas (Žin., 1991, Nr.36-973; 1993, Nr.30-684; 1995, Nr.46-1119;
 
-Nr.91-2273);
+1996, Nr.41-983, Nr.43-1043; 1997, Nr.6-88, Nr.66-1593, Nr.91-2273);
 
 2) Valdininkų
 
@@ -6059,7 +5785,9 @@ Vyriausybės vadovų, Seimo narių, valstybės ir savivaldybių įstaigų bei
 
 organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo įsigaliojimo
 
-atidėjimo įstatymas (Žin., 1998, Nr.61-1732).
+atidėjimo įstatymas
+
+(Žin., 1998, Nr.61-1732).
 
 2. Iki šio
 
@@ -6081,7 +5809,7 @@ priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS                                                           VALDAS ADAMKUS
+PREZIDENTAS         VALDAS ADAMKUS
 
 Lietuvos
 
@@ -6141,9 +5869,9 @@ A
 
 26
 
-Seimo
+Seimo Pirmininko
 
-Pirmininko patarėjas
+patarėjas
 
 A
 
@@ -6459,9 +6187,11 @@ tarnybos įstatymo
 
 priedėlis
 
-VIEŠOJO ADMINISTRAVIMO
+VIEŠOJO
 
-- ĮSTAIGŲ VADOVŲ IR KARJEROS - VALSTYBĖS TARNAUTOJŲ TIPINIŲ PAREIGYBIŲ
+ADMINISTRAVIMO - ĮSTAIGŲ VADOVŲ IR KARJEROS - VALSTYBĖS TARNAUTOJŲ TIPINIŲ
+
+PAREIGYBIŲ
 
 KATEGORIJOS
 
@@ -8095,9 +7825,309 @@ PAKEITIMO ĮSTATYMAS
 
 sausio 1 d.
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-133, 2000 12 23, Žin., 2000, Nr.
+
+111-3586 (2000 12 29)
+
+VALSTYBĖS TARNYBOS
+
+ĮSTATYMO 62 IR 69 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2001 m.
+
+sausio 1 d.
+
 *** Pabaiga ***
 
 Redagavo: Aušrinė Trapinskienė (2001 01 08)
 
 autrap@lrs.lt
+
+53 straipsnis.
+
+Valstybinis socialinis draudimas, sveikatos draudimas ir pensijos
+
+1. Valstybės tarnautojai privalomai
+
+draudžiami valstybiniu socialiniu draudimu ir sveikatos draudimu Valstybinio
+
+socialinio draudimo ir Sveikatos draudimo įstatymų nustatyta tvarka bei
+
+sąlygomis.
+
+2. Valstybės
+
+tarnautojams skiriama ir mokama valstybinė socialinio draudimo pensija pagal
+
+Valstybinio socialinio draudimo pensijų įstatymą ir valstybės tarnautojų
+
+valstybinė pensija pagal Valstybės tarnautojų pensijų įstatymą.
+
+3. Teisę gauti
+
+valstybės tarnautojų valstybinę pensiją, šios pensijos dydžio ir tarnybos stažo
+
+apskaičiavimo tvarką, šių pensijų skyrimo ir mokėjimo sąlygas nustato Valstybės
+
+tarnautojų pensijų įstatymas, Valstybinių pensijų įstatymas ir kiti teisės
+
+aktai.
+
+4. Privalomos
+
+valstybinio socialinio draudimo pensijų įmokos už Lietuvos Respublikos
+
+diplomatinėse atstovybėse ir konsulinėse įstaigose užsienyje dirbančio
+
+valstybės tarnautojo sutuoktinį tuo laikotarpiu, kurį jis gyveno užsienyje
+
+kartu su valstybės tarnautoju, dirbančiu Lietuvos Respublikos diplomatinėje
+
+atstovybėje ar konsulinėje įstaigoje, mokamos nuo valstybės tarnautojo 0,5
+
+pareiginės algos. Ši norma netaikoma valstybės tarnautojo sutuoktiniui
+
+įsidarbinus.
+
+5. Laikotarpis, kurį
+
+sutuoktinis gyveno užsienyje kartu su valstybės tarnautoju, dirbančiu Lietuvos
+
+Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, įskaitomas į
+
+valstybės tarnautojo sutuoktinio valstybinio socialinio draudimo stažą, jeigu
+
+už šį laikotarpį buvo mokėtos nustatytos Lietuvos valstybinio socialinio
+
+draudimo įmokos.
+
+58 straipsnis.
+
+Vyriausybei neatskaitingų institucijų ir įstaigų personalo valdymas
+
+1. Vyriausybei
+
+neatskaitingose institucijose ir įstaigose už šio įstatymo ir su juo
+
+susijusių teisės aktų vykdymą bei personalo valdymą yra atsakingi:
+
+1) Seimo
+
+kanceliarijoje ir Prezidentūroje - kanceliarijų (įstaigų) vadovai;
+
+2)
+
+Konstituciniame Teisme ir Lietuvos Aukščiausiajame Teisme - šių teismų
+
+kancleriai;
+
+3) kituose
+
+teismuose, prokuratūroje, Valstybės saugumo departamente, Specialiųjų tyrimų
+
+tarnyboje, Valstybės kontrolėje, Seimo kontrolierių įstaigoje, Moterų ir vyrų
+
+lygių galimybių kontrolieriaus tarnyboje, Vaiko teisių apsaugos kontrolieriaus
+
+tarnyboje, kitose Vyriausybei neatskaitingose institucijose ir įstaigose - šių
+
+institucijų ir įstaigų vadovai.
+
+2. Šio
+
+straipsnio 1 dalyje nurodyti asmenys personalo valdymą organizuoja per
+
+personalo tarnybas, kurių veiklą reglamentuoja atitinkamų institucijų ar
+
+įstaigų personalo tarnybų nuostatai.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
+
+75-2270 (2000 09 07)
+
+59
+
+straipsnis. Ministerijų, Vyriausybei atskaitingų institucijų ir įstaigų personalo
+
+valdymas
+
+1. Ministerijų, Vyriausybei atskaitingų institucijų ir
+
+įstaigų personalą valdo:
+
+1) Vyriausybė;
+
+2) už valstybės
+
+tarnybą atsakingas ministras;
+
+3) valstybės
+
+tarnybos tvarkymo funkcijas atliekančios įstaigos vadovas;
+
+4) Vyriausybės
+
+kancleris;
+
+5) Vyriausybės
+
+sekretorius ir ministerijų sekretoriai.
+
+2. Vyriausybė,
+
+atlikdama ministerijų, jai atskaitingų
+
+institucijų ir įstaigų personalo valdymo funkcijas:
+
+1) nustato
+
+planuojamiems biudžetiniams metams ministerijų, Vyriausybei atskaitingų institucijų ir įstaigų valstybės
+
+tarnautojų skaičių pagal valstybės tarnautojų grupes, lygius ir kategorijas;
+
+2) atlieka kitas
+
+įstatymų nustatytas personalo valdymo funkcijas.
+
+3. Už valstybės
+
+tarnybą atsakingas ministras, atlikdamas ministerijų, Vyriausybei atskaitingų institucijų ir
+
+įstaigų personalo valdymo
+
+funkcijas:
+
+1) tvirtina
+
+pretendentų į valstybės tarnybą atrankos komisijų pavyzdinius nuostatus;
+
+2) tvirtina
+
+Personalo valdymo tarybos nuostatus;
+
+3) atlieka kitas
+
+šio įstatymo ir kitų teisės aktų nustatytas funkcijas, susijusias su ministerijų, Vyriausybei atskaitingų
+
+institucijų ir įstaigų personalo valdymą
+
+reglamentuojančiais teisės aktais.
+
+4. Valstybės
+
+tarnybos tvarkymo funkcijas atliekančios įstaigos vadovas atlieka šias ministerijų, Vyriausybei atskaitingų institucijų ir įstaigų personalo valdymo funkcijas:
+
+1) organizuoja
+
+pretendentų į valstybės tarnybą atranką;
+
+2) tvirtina
+
+atrankos į valstybės tarnybą egzaminų programas;
+
+3) tvirtina
+
+pretendentų į valstybės tarnybą atrankos komisijų sudėtis;
+
+4) pretendentų į valstybės
+
+tarnybą atrankos komisijos teikimu skiria pretendentą į valstybės tarnybą
+
+stažuotoju eiti pareigas konkrečioje institucijoje ar įstaigoje;
+
+5) organizuoja
+
+valstybės tarnautojų įvadinį mokymą;
+
+6) koordinuoja
+
+valstybės tarnautojų tęstinį kvalifikacijos kėlimą;
+
+7) priima
+
+sprendimus skirti nuobaudas už sunkius valstybės tarnautojų nusižengimus ar
+
+panaikinti tarnybinę nuobaudą
+
+pagal šio įstatymo 44 straipsnio 4 dalį;
+
+8) atlieka kitas
+
+šio įstatymo ir kitų teisės aktų nustatytas personalo valdymo funkcijas.
+
+5. Vyriausybės
+
+kancleris:
+
+1) yra atsakingas
+
+už šio įstatymo ir su juo susijusių teisės aktų vykdymą bei Ministro Pirmininko
+
+aparato personalo valdymą;
+
+2) atlieka kitas
+
+Vyriausybės įstatymo nustatytas personalo valdymo funkcijas;
+
+3) personalo
+
+valdymą organizuoja per Vyriausybės kanceliarijos personalo tarnybą, o šios
+
+veiklą reglamentuoja personalo tarnybos nuostatai.
+
+6. Vyriausybės
+
+sekretorius atlieka šias ministerijų, Vyriausybei atskaitingų institucijų ir įstaigų personalo valdymo funkcijas:
+
+1) yra atsakingas
+
+už šio įstatymo, su juo susijusių teisės aktų vykdymą, taip pat Vyriausybės
+
+kanceliarijos, Vyriausybės įstaigų, apskričių administracijų ir joms
+
+atskaitingų institucijų bei įstaigų
+
+personalo valdymą, organizuoja jų personalo valdymą;
+
+2) personalo valdymą
+
+organizuoja per atitinkamų įstaigų vadovus, ministerijų sekretorius ir
+
+personalo tarnybas, o šių tarnybų veiklą reglamentuoja personalo tarnybų
+
+nuostatai.
+
+7. Ministerijos
+
+sekretorius atlieka šias ministerijos ir jai atskaitingų įstaigų personalo valdymo
+
+funkcijas:
+
+1) yra atsakingas
+
+už šio įstatymo ir kitų su juo susijusių teisės aktų vykdymą bei atitinkamos
+
+ministerijos, įstaigų prie ministerijos personalo valdymą, organizuoja jų
+
+personalo valdymą;
+
+2) personalo
+
+valdymą organizuoja per atitinkamų įstaigų vadovus ir personalo tarnybas, o šių
+
+tarnybų veiklą reglamentuoja personalo tarnybų nuostatai.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
+
+75-2270 (2000 09 07)
 
