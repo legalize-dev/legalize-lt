@@ -4,7 +4,7 @@ identifier: "TAR.B3CC2C0B9BD2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-21"
-last_updated: "2000-07-26"
+last_updated: "2003-04-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,13 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2000-07-26 iki 2003-04-15
+Suvestinė redakcija nuo 2003-04-16 iki 2004-01-06
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
+
+Nauja redakcija nuo 2003-04-16:
+
+Nr. IX-1388, 2003-03-25, Žin. 2003, Nr. 36-1544 (2003-04-16), i. k. 1031010ISTA0IX-1388
 
 LIETUVOS RESPUBLIKOS VANDENS ĮSTATYMAS
 
@@ -26,401 +30,411 @@ LIETUVOS RESPUBLIKOS VANDENS ĮSTATYMAS
 
 Vilnius
 
-I skyrius
+PIRMASIS SKIRSNIS
 
 BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis įstatymas reguliuoja Lietuvos Respublikos vidaus vandens telkinių nuosavybės formas, juose esančių vandens išteklių valdymą, naudojimą, apsaugą, vandens telkinių savininkų ir vandens naudotojų santykius, juridinių bei fizinių asmenų, naudojančių vandens išteklius bei telkinius, teises ir pareigas.
+1. Šis Įstatymas reglamentuoja santykius, atsirandančius naudojant, valdant ir saugant gamtinėje aplinkoje esantį vandenį.
 
-2. Vandens išteklių naudojimo santykiai reguliuojami atsižvelgiant į tai, kad būtų sudarytos sąlygos gyventojų ir ūkio poreikiams tenkinti, paviršinio ir požeminio vandens ištekliams racionaliai naudoti ir jų būklei gerinti, apsaugoti vandens išteklius nuo teršimo, taip pat apsaugoti vandens telkinių savininkų ir vandens išteklių naudotojų teises.
+2. Įstatymo tikslas:
+
+1) neleisti prastėti vandens ekosistemų ir ekosistemų, tiesiogiai priklausomų nuo vandens, būklei, ją apsaugoti ir (arba) pagerinti;
+
+2) gerinti vandens kokybę įgyvendinant priemones, skirtas laipsniškai mažinti pavojingų medžiagų ir nutraukti prioritetinių pavojingų medžiagų patekimą į vandenį;
+
+3) racionaliai ir subalansuotai naudoti vandenį;
+
+4) mažinti žalingą vandens poveikį.
+
+3. Šiuo Įstatymu siekiama vandens apsaugos valdymą suderinti su Europos Sąjungos teisės akto, nurodyto Įstatymo priede, nuostatomis.
 
 2 straipsnis. Įstatymo taikymas
 
-1. Įstatymas taikomas visiems Lietuvos Respublikos vidaus vandens telkiniams bei ištekliams, neatsižvelgiant į jų paskirtį ir nuosavybės formas.
+Šis Įstatymas taikomas fiziniams ir juridiniams asmenims, kurie valdo, naudoja ar saugo Lietuvos Respublikoje esančius vandens telkinius ir juose esantį vandenį nepaisant jų paskirties bei nuosavybės formų.
 
-2. Juridinių ir fizinių asmenų, besiverčiančių veikla, tiesiogiai ar netiesiogiai veikiančia jūros aplinką ir jos gamtos išteklius, teises ir pareigas nustato Jūros aplinkos apsaugos įstatymas.
+3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-3. Geoterminio, sūrymų ir mineralizuoto vandens naudojimą nustato Žemės gelmių įstatymas.
+1. Dirbtinis vandens telkinys – techninėmis priemonėmis sukurtas paviršinis vandens telkinys (kanalas, tvenkinys, rekultivuotame karjere įrengtas vandens telkinys, kūdra), išskyrus vandens talpyklas, kuriose esantis vanduo nelaidžiomis medžiagomis atskirtas nuo aplinkos grunto (baseinai, rezervuarai ir pan.).
 
-3 straipsnis. Pagrindinės šio įstatymo sąvokos
+2. Ekologinė būklė – ekosistemų, susijusių su paviršiniais vandens telkiniais, funkcionavimo ir struktūros kokybės išraiška, vertinama pagal vandens telkinio biologinius, hidromorfologinius, fizinius ir cheminius kokybės elementus.
 
-1. Gamtosauginis vandens debitas – skaičiuojamasis minimalus upės vandens debitas, kuris reikalingas, kad būtų užtikrinamos minimalios ekosistemos gyvavimo sąlygos.
+3. Ekosistema – funkcinė gyvųjų ir negyvųjų elementų sistema, kurios sudedamąsias dalis jungia tarpusavio ryšiai, medžiagų apykaitos bei energijos pasikeitimo procesai.
 
-2. Geriamasis vanduo – gėlas vanduo, kuris, išgautas iš gamtinių (natūralių) šaltinių arba paruoštas, atitinka Lietuvos Respublikos geriamojo vandens standartą.
+4. Gamtosauginis debitas – minimalus vandentakio vandens debitas, reikalingas, kad būtų užtikrinamos minimalios ekosistemų gyvavimo sąlygos.
 
-3. Hidrografinis tinklas – natūralių bei sureguliuotų upių, kanalų, ežerų, tvenkinių, kūdrų ir kitų paviršinio vandens telkinių visuma.
+5. Gera ekologinė būklė – tokia paviršinio vandens telkinio būklė, kai jame esančias ekosistemas apibrėžiančių parametrų vertės atitinka vertes, būdingas žmogaus ūkinės veiklos nepaveiktiems tokio tipo paviršiniams vandens telkiniams.
 
-4. Hidrotechnikos statiniai – statiniai ir įrenginiai vandens ištekliams naudoti ir aplinkai nuo žalingo vandens poveikio saugoti. Tai užtvankos, krantinės, pralaidos, hidroelektrinės, laivybos statiniai ir pan.
+6. Gera paviršinio vandens telkinio būklė – tokia paviršinio vandens telkinio būklė, kai telkinys yra geros ekologinės būklės ir kai teršalų koncentracija vandenyje neviršija nustatytų normų.
 
-5. Kanalizacija – nuotekų surinkimo, išleidimo inžinerinių įrenginių sistema.
+7. Gera požeminio vandens būklė – požeminio vandens telkinio būklė, kai jame esančio vandens kiekis ir kokybė nekliudo pasiekti vandensaugos tikslų ir nekenkia ekosistemoms, tiesiogiai priklausančioms nuo požeminio vandens telkinio.
 
-6. Mineralinis vanduo – vanduo, turintis įvairesnių mineralinių medžiagų negu įprastas geriamasis vanduo ir(arba) pasižymintis tam tikru fiziologiniu poveikiu.
+8. Geras ekologinis potencialas – nustatyti labai pakeisto ar dirbtinio vandens telkinio būklės biologiniai, hidromorfologiniai, fiziniai ir cheminiai kokybės parametrai, atitinkantys tokio tipo vandens telkiniams keliamus vandensaugos tikslus.
 
-7. Nuotekos – žmogaus buityje, ūkinėje ir gamybinėje veikloje susidariusios skystos atliekos, taip pat kanalizacijos tinklų surenkamas paviršinis (lietaus) vanduo.
+9. Hidromorfologinės sąlygos – hidrologinės ir morfologinės – geometrinės vandens telkinio charakteristikos.
 
-8. Nuotekų užterštumo normos – valstybės institucijos patvirtintos leistinos teršalų, išleidžiamų su nuotekomis į gamtinę aplinką, koncentracijos.
+10. Hidrotechnikos statiniai – statiniai ir įrenginiai vandeniui naudoti ir aplinkai nuo žalingo vandens poveikio saugoti (užtvankos, krantinės, pralaidos, siurblinės, hidroelektrinės, molai, laivybos statiniai ir pan.).
 
-9. Nuotekų valymo įrenginiai – inžinerinių įrenginių kompleksas nuotekoms valyti.
+11. Institucija, atsakinga už upių baseinų administravimą – institucija, atsakinga už upių baseinų rajono aplinkosaugos administracinių priemonių koordinavimą ir aplinkosaugos valdymo planų rengimą.
 
-10. Pasienio vandens telkiniai – paviršinio ir požeminio vandens telkiniai, kurie ribojasi su valstybės siena, kerta ją arba yra dviejų ir daugiau valstybių teritorijoje.
+12. Išleidžiamų teršalų kontrolė – teršalų išleidimo į aplinką ribojimas nustatant išleidžiamų teršalų ribines vertes ir (arba) nustatant reikalavimus išleidžiamų teršalų poveikiui, pobūdžiui ar kitoms jų charakteristikoms arba veiklos sąlygoms, kurios turi įtakos teršalų išleidimui.
 
-11. Paviršinio vandens ištekliai – paviršinio vandens telkiniuose esantis vanduo, apibrėžtas kiekybės rodikliais.
+13. Išleidžiamų teršalų ribinė vertė – didžiausia leidžiama išleisti teršalų koncentracija ir (arba) didžiausias leidžiamas išleisti teršalų kiekis. Išleidžiamų teršalų ribinės vertės gali būti nustatomos atskiroms medžiagoms arba tam tikroms medžiagų grupėms, šeimoms ar kategorijoms.
 
-12. Paviršinio vandens telkinys – reljefo įdauba, nuolat arba laikinai užpildyta tekančiu arba stovinčiu vandeniu. Tai – upės, ežerai, tvenkiniai, kanalai ir kt.
+14. Labai pakeistas vandens telkinys – paviršinis vandens telkinys, kurio hidromorfologinė, fizinė ir cheminė būklė dėl žmogaus veiklos yra pakitusi taip, kad nėra galimybių pasiekti gerą ekologinę būklę.
 
-13. Paviršinis vanduo – žemės paviršiumi tekantis arba žemės paviršiuje stovintis vanduo.
+15. Nuotekos – žmogaus buityje, ūkinėje ar gamybinėje veikloje naudotas ir papildomai užterštas, taip pat į teritorijas patenkantis kritulių vanduo, kurį naudotojas arba teritorijų savininkas, naudotojas ar valdytojas tam skirtais inžineriniais įrenginiais išleidžia į gamtinę aplinką arba kitiems asmenims priklausančią nuotekų surinkimo sistemą.
 
-14. Požeminio vandens ištekliai – žemės gelmėse esantis vanduo, apibrėžtas kiekybės rodikliais.
+16. Nuotekų valymo įrenginiai – inžinerinių įrenginių kompleksas, skirtas nuotekoms valyti.
 
-15. Požeminio vandens telkinys – sutartinėse žemės gelmių ribose esančios tuštumos, užpildytos vandeniu, kurio kiekis ir kokybė yra ištirti.
+17. Pabaseinis – upės baseino dalis, iš kurio paviršinis vanduo viena upe nuteka į kitą upę arba ežerą.
 
-16. Požeminis vanduo – žemės plutos tuštumas užpildęs vanduo, kurį galima paimti.
+18. Paviršinis vandens telkinys – identifikuota reikšminga vandens aplinkos dalis, esanti žemės paviršiuje, tai yra: upė ar jos dalis, kanalas, ežeras, tvenkinys, kūdra, rekultivuotas į vandens telkinį karjeras. Prie paviršinių vandens telkinių taip pat priskiriami tarpinių ir priekrantės vandenų plotai.
 
-17. Tvenkinys – upės vagoje arba žemės paviršiaus įdauboje, iškasoje, pylimų apsuptame plote įrengtas naudojant hidrotechnikos statinius vandens telkinys.
+19. Paviršinis vanduo – paviršiniuose vandens telkiniuose esantis vanduo.
 
-18. Valstybinis vidaus vandenų fondas – Lietuvos Respublikos teritorijoje esantys požeminio ir valstybei priklausantys paviršinio vandens telkiniai.
+20. Pavojingos medžiagos – medžiagos arba medžiagų grupės, kurios yra toksiškos, patvarios ir linkusios biologiškai kauptis, taip pat kitos medžiagos, kurios vadovaujantis Cheminių medžiagų ir preparatų įstatymu priskirtos prie vandens aplinkai kenksmingų medžiagų.
 
-19. Vandens ištekliai – konkrečioje teritorijoje (valstybėje, apskrityje, upės baseine ir kt.) paviršinio ir požeminio vandens telkiniuose (gelmėse) esantis vanduo, apibrėžtas kiekybės rodikliais.
+21. Plaukiojimo priemonės – laivai ir kiti plaukiojimui naudojami įrenginiai.
 
-20. Vandens išteklių kadastras – vandens telkinių oficialūs sąrašai su duomenimis apie šių telkinių ir juose esančių vandens išteklių savybes.
+22. Požeminis vandens telkinys – požeminis vandeningasis sluoksnis ar keli sluoksniai, apibrėžti sąlyginėmis ribomis.
 
-21. Vandens išteklių monitoringas – sistemingas paviršinio ir požeminio vandens kiekybės ir kokybės stebėjimas, savaiminių pokyčių ir antropogeninio poveikio įvertinimas ir prognozė.
+23. Požeminis vanduo – požeminiuose vandens telkiniuose esantis vanduo.
 
-22. Vandens kokybė – vandens savybių ir sudėties charakteristika, rodanti jo tinkamumą konkrečioms vandens naudojimo rūšims.
+24. Priekrantės vandenys – Baltijos jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus ir teritorinius vandenis skiriančios linijos.
 
-23. Vandens kokybės normos – valstybės institucijų patvirtintos leistinos ribinės telkinių vandens savybių ir sudėties charakteristikos atsižvelgiant į naudojimo paskirtį.
+25. Prioritetinės pavojingos medžiagos – pavojingos medžiagos, kurių kontrolei veiksmų būtina imtis pirmiausia ir kurių išleidimas ar kitoks patekimas į vandens telkinius turi būti laipsniškai nutrauktas. Prioritetinių pavojingų medžiagų sąrašą tvirtina aplinkos ministras.
 
-24. Vandens naudotojai – juridiniai ir fiziniai asmenys, imantys iš vandens telkinio vandenį arba išleidžiantys į gamtinę aplinką nuotekas, taip pat naudojantys vandens telkinį įvairioms reikmėms (hidroenergetikai, laivybai, žuvininkystei ir kt.).
+26. Tarpiniai vandenys – prie upių žiočių esanti jūros dalis, kurioje vanduo yra iš dalies sūrus ir kuriam didelę įtaką turi įtekantis gėlas vanduo. Prie tarpinių vandenų priskiriama Lietuvos Respublikos teritorijoje esanti Kuršių marių dalis.
 
-25. Vandens naudotojai abonentai – juridiniai ir fiziniai asmenys, imantys vandenį iš komunalinio ar kitų vandens naudotojų vandentiekio arba išleidžiantys nuotekas į komunalinius ar kitų vandens naudotojų kanalizacijos tinklus.
+27. Tarpvalstybiniai vandens telkiniai – paviršiniai ir požeminiai vandens telkiniai, išsidėstę daugiau nei vienos valstybės teritorijoje.
 
-26. Vandens nuotėkis – per tam tikrą laikotarpį upe ar kanalu nutekančio vandens kiekis.
+28. Tarša – dėl žmogaus veiklos tiesioginis ar netiesioginis medžiagų ar energijos išleidimas į vandenį ar žemę, galintis turėti žalingą poveikį žmonių sveikatai ar ekosistemoms, dėl ko gali būti padaryta žala materialiam turtui ir aplinkai.
 
-27. Vandens telkinio savininkas – fizinis asmuo, kurio nuosavybė yra paviršinio vandens telkinys.
+29. Tvenkinys – dirbtinis vandens telkinys, kuris įrengiamas užtvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote.
 
-28. Vandens telkiniai – paviršinio arba požeminio vandens telkiniai (vidaus vandenys).
+30. Upės baseinas – žemės plotas, iš kurio paviršinis vanduo upėmis ir pratekamais ežerais nuteka į jūrą vienos upės žiotimis.
 
-29. Vandentiekis – inžinerinių įrenginių kompleksas vandeniui išgauti, gerinti ir naudotojams tiekti.
+31. Upių baseinų rajonas – šio Įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vieno ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais bei tarpiniais ir priekrančių vandenimis.
 
-30. Vandenvietė – teritorija, kurioje vandens tiekimo reikalams išgaunamas vanduo.
+32. Vandens kokybė – vandens savybių ir sudėties charakteristika, rodanti, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms vandens naudojimo sritims.
 
-31. Vandenvietės sanitarinė apsaugos zona – saugoma apie vandenvietę teritorija, kuriai nustatytos žemės naudotojų veiklą ribojančios sąlygos.
+33. Vandens kokybės norma – nustatyta žmogui ir aplinkai nekenksminga tam tikro teršalo ar teršalų grupės vandenyje, nuosėdose ar biotoje koncentracija, kurios negalima viršyti.
 
-32. Vidaus vandenys – visi Lietuvos Respublikos sausumos teritorijoje esantys paviršinio ir požeminio vandens telkiniai.
+34. Vandens naudojimas – bet kokia veikla, daranti poveikį vandens telkinio ir jame esančio vandens būklei, pavyzdžiui, vandens telkinio naudojimas vandeniui išgauti, nuotekoms išleisti, rekreacijai, laivybai, žuvininkystei, žvejybai bei kitiems tikslams. Vandens naudojimu taip pat laikoma hidrotechnikos statinių statyba ir naudojimas.
 
-II skyrius
+35. Vandens paslaugos – paslaugos, susijusios su paviršinio arba požeminio vandens išgavimu, saugojimu, užtvenkimu, kokybės gerinimu, tiekimu, nuotekų surinkimu, valymu ir šalinimu.
 
-VANDENS IŠTEKLIŲ NUOSAVYBĖ, NAUDOTOJŲ TEISĖS IR PAREIGOS
+36. Vandens stebėsena (monitoringas) – sistemingas paviršinių ir požeminių vandens telkinių būklės, savaiminių pokyčių ir antropogeninio poveikio stebėjimas, vertinimas ir prognozė.
 
-4 straipsnis. Vandens ištekliai ir jų priklausomybė
+37. Vandensaugos tikslai – vandens telkinių ir juose esančio vandens būklei, taip pat upių baseinų rajone esantiems saugomiems plotams šiuo ir kitais įstatymais bei kitais teisės aktais nustatyti reikalavimai, kuriuos reikia pasiekti per tam tikrą laikotarpį.
 
-1. Vandens ištekliai yra Lietuvos Respublikos gamtos išteklių sudėtinė dalis. Juos naudojant turi būti laikomasi Lietuvos Respublikos Konstitucijoje, Aplinkos apsaugos, Žemės gelmių, šiame ir kituose įstatymuose bei teisės aktuose nustatytos tvarkos.
+38. Vandenvietė – teritorija, kurioje įrengti kaptažo ir kiti inžineriniai įrenginiai, kuriais išgaunamas vanduo tiekiamas į vandentiekio sistemą.
 
-2. Lietuvos Respublikos vandens išteklius sudaro valstybinio vidaus vandenų fondo ir privačiuose telkiniuose esantys vandens ištekliai.
+39. Vandenvietės apsaugos zona – vandenvietės apsaugai skirta teritorija, kuriai nustatytos ūkinę veiklą ribojančios sąlygos.
 
-5 straipsnis. Vandens telkiniai ir jų priklausomybė
+40. Vanduo – aplinkos dalis, apimanti Lietuvos Respublikos paviršiniuose ir požeminiuose vandens telkiniuose esantį vandenį.
 
-1. Visi paviršinio vandens telkiniai, esantys Lietuvos Respublikoje, nuosavybės teise gali priklausyti tik Lietuvos Respublikos piliečiams ir valstybei.
+ANTRASIS SKIRSNIS
 
-2. Visi požeminio vandens telkiniai priklauso valstybiniam vidaus vandens fondui ir yra išimtinė valstybės nuosavybė.
+VANDENS TELKINIŲ NUOSAVYBĖ. VANDENS NAUDOTOJŲ TEISĖS IR PAREIGOS
 
-3. Valstybinio vidaus vandenų fondo paviršinio vandens telkiniams priskiriama:
+4 straipsnis. Nuosavybės teisė į vandens telkinius
 
-1) Kuršių marios;
+1. Valstybei išimtine nuosavybės teise priklauso požeminiai vandens telkiniai ir valstybinės reikšmės paviršiniai vandens telkiniai, kurių sąrašą nustato Vyriausybė.
 
-2) upės su nuolatiniu vandens nuotėkiu, kurių baseino plotas ne mažesnis kaip 25 kv. km arba kurios jungia valstybiniam vidaus vandenų fondui priskirtus ežerus;
+2. Šio straipsnio 1 dalyje nenurodyti vandens telkiniai įstatymų nustatyta tvarka gali būti privačios nuosavybės teisės objektai. Tačiau upės, kurių baseino plotas ne mažesnis kaip 25 km(2), taip pat ežerai, iš kurių tokios upės išteka arba pro kuriuos prateka, gali tapti privačios nuosavybės teisės objektais ne kitaip, kaip įstatymų nustatyta tvarka atkuriant nuosavybės teises į vandens telkinius.
 
-3) ežerai, kuriuos jungia valstybiniam vidaus vandenų fondui priskirtos upės, taip pat ežerai, Vyriausybės arba jos įgaliotos institucijos priskirti valstybiniam vidaus vandenų fondui;
+5 straipsnis. Vandens telkinio savininko teisės ir pareigos
 
-4) potencialiai pavojingi tvenkiniai, kurių plotas didesnis kaip 5 ha arba patvankos aukštis didesnis kaip 3 m;
+1. Vandens telkinio savininkas turi teisę valdyti, naudoti vandens telkinį ir juo disponuoti Žemės įstatymo, šio ir kitų įstatymų nustatyta tvarka.
 
-5) visi kiti neprivatūs vandens telkiniai;
+2. Vandens telkinio savininkas pagal galimybes privalo saugoti ir gerinti vandens telkinio būklę, nedaryti žalos aplinkai, nepažeisti kitų asmenų teisių bei teisėtų interesų ir siekti įgyvendinti šio Įstatymo nustatytus vandensaugos tikslus.
 
-6) 1-5 punktuose nenurodyti išimtine nuosavybės teise valstybei priklausantys valstybinės reikšmės vidaus vandens telkiniai. Valstybinės reikšmės vidaus vandens telkinių sąrašą tvirtina Vyriausybė.
+6 straipsnis. Vandens naudotojai
 
-4. Šio straipsnio 3 dalies 2–4 punktuose nurodytų vandens telkinių nuosavybės forma gali būti keičiama tik šių telkinių grąžinimo privačion nuosavybėn atveju.
+Vandens naudotojai yra fiziniai ir juridiniai asmenys, kurie naudoja vandens telkinį vandeniui išgauti, nuotekoms išleisti, rekreacijai, laivybai, žuvininkystei, žvejybai bei kitoms reikmėms arba kitokiu būdu daro poveikį vandens telkinio būklei.
 
-5. Vandens telkinių grąžinimo privačion nuosavybėn tvarką nustato kiti Lietuvos Respublikos įstatymai.
+7 straipsnis. Vandens telkinių naudojimo teisinis pagrindas
 
-6. Ežerai ir tvenkiniai privatizuojami arba grąžinami keliems savininkams tik bendrosios nuosavybės teise Lietuvos Respublikos įstatymų nustatyta tvarka.
+Pagrindas naudoti vandens telkinį yra nuosavybės teisė, nuomos ar kita sutartis, taip pat šiuo Įstatymu ir kitais teisės aktais suteikta teisė.
 
-6 straipsnis. Vandens išteklių valdymo teisė
+8 straipsnis. Vandens naudotojų teisės ir pareigos
 
-Vandens išteklius valdo Vyriausybė arba jos įgaliotos institucijos šio ir kitų Lietuvos Respublikos įstatymų nustatyta tvarka.
+1. Vandens naudotojai turi teisę:
 
-7 straipsnis. Vandens išteklių naudotojai
+1) naudoti vandens telkinį ir jame esantį vandenį įstatymų, kitų teisės aktų ir sutarčių nustatytomis sąlygomis;
 
-1. Vandens išteklių naudotojai yra juridiniai ir fiziniai asmenys, kurie:
+2) leisti kitiems asmenims naudoti vandens telkinį ir jame esantį vandenį, jeigu tai neprieštarauja įstatymų ar kitų teisės aktų reikalavimams;
 
-1) Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka yra išsinuomoję paviršinio vandens telkinius konkrečiai naudojimo sričiai sutartyse nustatytomis sąlygomis;
+3) gauti informaciją apie vandens telkiniams nustatytus vandensaugos tikslus, jiems pasiekti numatytas priemones ir rengiamus bei parengtus valdymo planus;
 
-2) ima iš vandens telkinių vandenį arba išleidžia į gamtinę aplinką nuotekas;
+4) teikti pastabas ir pasiūlymus dėl upių baseinų valdymo planų.
 
-3) naudoja vandens telkinius bei išteklius hidroenergetikos, laivybos, žuvininkystės tvenkinių reikmėms.
+2. Vandens naudotojai privalo:
 
-2. Vandens išteklių naudotojai taip pat yra juridiniai ir fiziniai asmenys, laisvai (be leidimo) naudojantys vandenį šio įstatymo 26 straipsnyje nurodytoms reikmėms.
+1) naudoti vandenį mažiausią poveikį vandens telkiniui darančiomis priemonėmis ir būdais;
 
-8 straipsnis. Vandens išteklių naudotojų teisės
+2) taupiai naudoti vandenį, neviršyti nustatytų vandens naudojimo limitų bei į gamtinę aplinką išleidžiamų teršalų ribinių verčių, neleistinai nebloginti vandens telkinių būklės;
 
-Juridiniai ir fiziniai asmenys, naudojantys vandens išteklius, turi teisę:
+3) kiek įmanoma veiksmingiau naudoti įrenginius ir priemones, skirtas mažinti poveikį vandens būklei, bei didinti tokių įrenginių efektyvumą;
 
-1) naudoti vandens išteklius įstatymų reglamentuotai veiklai;
+4) teisės aktų nustatyta tvarka tvarkyti vandens naudojimo apskaitą ir vykdyti veiklos poveikio aplinkai stebėseną (monitoringą);
 
-2) disponuoti pajamomis, gautomis naudojant vandens išteklius;
+5) diegti teisės aktuose numatytas vandens telkinių apsaugos priemones;
 
-3) įstatymų nustatytais atvejais ir sąlygomis arba suderinus su Vyriausybės įgaliotomis institucijomis leisti sutarties pagrindu naudoti vandens išteklius kitiems juridiniams ir fiziniams asmenims.
+6) užtikrinti ypač saugomų vandens augalų ir gyvūnų rūšių, jų buveinių, radaviečių, augaviečių apsaugą, neprastinti ekosistemų gyvavimo sąlygų, vandens telkiniuose introdukuojant, reintrodukuojant ar perkeliant laukinius gyvūnus ir augalus laikytis įstatymų ir kitų teisės aktų reikalavimų;
 
-9 straipsnis. Vandens telkinių savininkų teisės
+7) nepažeisti kitų vandens naudotojų teisių ir teisėtų interesų;
 
-1. Paviršinio vandens telkinių savininkas turi Lietuvos Respublikos civiliniame kodekse nustatytas savininko teises.
+8) laikytis kitų teisės aktais nustatytų vandens naudojimo reikalavimų.
 
-2. Savininkas turi teisę naudoti vandens išteklius įstatymų nustatyta tvarka ir nustatytomis vandens naudojimo sąlygomis.
+TREČIASIS SKIRSNIS
 
-10 straipsnis. Vandens išteklių ir telkinių naudotojų pareigos
+VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS
 
-1. Valstybiniam vidaus vandenų fondui priskirtų vandens telkinių naudotojai bei privačių vandens telkinių savininkai privalo:
+9 straipsnis. Principinės vandens naudojimo sąlygos
 
-1) laikytis tvenkinių ir jų hidrotechnikos statinių priežiūros, remonto bei rekonstrukcijos reikalavimų, užtikrinti paviršinio vandens telkinių krantų stabilumą. Potencialiai pavojingų tvenkinių, jų hidrotechnikos statinių priežiūrą ir naudojimą nustato Potencialiai pavojingų įrenginių priežiūros įstatymas ir kiti teisės aktai;
+1. Vanduo gali būti naudojamas, jeigu:
 
-2) pagal norminius reikalavimus įrengti vandenvietės griežto režimo sanitarinę apsaugos zoną ir atlikti jos priežiūrą;
+1) naudojimas netrukdo pasiekti šio Įstatymo pagrindu nustatytų vandensaugos tikslų;
 
-3) pagal norminius reikalavimus įrengti paviršinio vandens telkinių pakrantės apsaugos juostas ir atlikti šių juostų bei apsaugos zonų priežiūrą;
+2) yra numatytos priemonės, užtikrinančios, kad vanduo bus naudojamas racionaliai, vandens telkiniai bus tinkamai apsaugoti nuo užteršimo ir nebus pablogintos vandens ekosistemų gyvavimo sąlygos.
 
-4) be Aplinkos apsaugos ministerijos įgaliotos institucijos leidimo nekeisti ežerų bei tvenkinių vandens lygio, nedirbti upių gilinimo bei reguliavimo darbų, nevalyti dugno ir nekeisti krantų, nestatyti užtvankų ir kitų hidrotechnikos statinių;
+2. Neatlikus poveikio aplinkai vertinimo, negali būti keičiami natūralūs vandens telkiniai ir pelkės bei jų vandens lygis. Kriterijus, kuriuos viršijus reikia atlikti poveikio aplinkai vertinimą, nustato aplinkos ministras.
 
-5) taupiai naudoti vandenį, neviršyti nustatytų vandens naudojimo limitų bei į gamtinę aplinką išleidžiamų nuotekų ir teršalų normų;
+3. Planuojant, projektuojant, statant ir eksploatuojant ūkinės ar kitos veiklos objektus, galinčius neigiamai veikti vandens telkinių būklę, turi būti numatytos priemonės, užtikrinančios racionalų vandens naudojimą, vandens apsaugą nuo teršimo, vandens telkinio hidromorfologinės ir biologinės būklės apsaugą bei vandens naudojimo apskaitą, turi būti laikomasi pažangaus ūkininkavimo praktikos ir diegiamos švaresnės gamybos bei taršos mažinimo technologijos.
 
-6) nepažeisti vandens išteklių kitų naudotojų teisių, taip pat nedaryti žalos kraštovaizdžiui ir jo elementams (reljefui, dirvožemiui, augmenijai, gyvūnijai), žemės gelmėms, ūkiniams ir rekreaciniams bei kitiems objektams;
+4. Jeigu dėl sausros vandens lygis telkiniuose yra žemesnis, negu būtina vandensaugos tikslams pasiekti, arba dėl pasikeitusių aplinkos sąlygų negalima pasiekti vandensaugos tikslų, arba kai fizinių ar juridinių asmenų veikla daro aplinkai neigiamą poveikį, viršijantį teisės aktų nustatytus aplinkos apsaugos normatyvus ar standartus, aplinkos ministro nustatyta tvarka gali būti sugriežtintos vandens telkinio naudojimo sąlygos arba apribotas vandens naudojimas.
 
-7) užtikrinti gyventojų teisę maudytis, girdyti gyvulius ar kitaip naudotis privačiais vandens telkiniais servitutų nustatyta tvarka;
+10 straipsnis. Vandens naudojimo leidimai
 
-8) tinkamai naudoti nuotekų valymo ir kitus turinčius poveikio vandenų būklei vandens ūkio inžinerinius įrenginius, gerinti jų naudojimo savybes;
+Kad vandens telkinius būtų galima naudoti vandeniui išgauti, nuotekoms išleisti, juose plaukioti plaukiojimo priemonėmis, žvejoti, reikalingas leidimas. Leidimo nereikalaujama, jeigu vandens naudojimas daro nereikšmingą poveikį vandens telkinio fizinėms, cheminėms ir biologinėms savybėms. Vandens naudojimo ir (arba) poveikio ribas, kurias pasiekus reikalingas leidimas, nustato institucija, kuriai įstatymas suteikia teisę reglamentuoti leidimų išdavimą.
 
-9) nenaikinti vandens augalijos ir gyvūnijos;
+11 straipsnis. Vandens telkinių naudojimas vandeniui išgauti
 
-10) neveisti ir neintrodukuoti be leidimo Lietuvos Respublikoje vandens gyvūnų ir augalų naujų rūšių;
+1. Leidimų naudoti vandens telkinius vandeniui išgauti ir vandens išgavimo normavimo tvarką nustato aplinkos ministras, išskyrus Žemės gelmių įstatyme nurodytus atvejus.
 
-11) nustatyta tvarka tvarkyti vandens naudojimo apskaitą, vykdyti monitoringą pagal Aplinkos monitoringo įstatymą;
+2. Gyventojų aprūpinimas geriamuoju vandeniu yra vandens telkinių naudojimo prioritetinė sritis. Gyventojų geriamojo vandens poreikiams tenkinti naudojamas požeminis vanduo, atitinkantis Geriamojo vandens įstatymo reikalavimus ir geriamajam vandeniui sveikatos apsaugos ministro nustatytus visuomenės sveikatos saugos reglamentus (higienos normas) arba tinkantis tokiam vandeniui paruošti.
 
-12) laivybai priskirtuose vidaus vandens telkiniuose (keliuose) nevykdyti veiklos, galinčios sukelti pavojų laivybos saugumui arba vandens kelių būklei.
+3. Jeigu požeminio vandens nepakanka geriamojo vandens poreikiams tenkinti, gali būti naudojamas paviršinis vanduo, kuris atitinka šio straipsnio 2 dalyje nurodytus reikalavimus. Paviršiniuose vandens telkiniuose esantis vanduo Geriamojo vandens įstatymo nustatyta tvarka gali būti naudojamas požeminiams vandens ištekliams papildyti.
 
-2. Paviršinių vandens telkinių savininkų pareigos visiškai arba iš dalies gali būti perduotos telkinio nuomininkui pagal sutarties sąlygas.
+12 straipsnis. Vandens telkinių naudojimas rekreacijai
 
-11 straipsnis. Servitutai
+1. Paviršinio vandens telkiniai rekreacijai ir sportui gali būti naudojami vadovaujantis šio Įstatymo, Teritorijų planavimo įstatymo, Turizmo įstatymo bei Saugomų teritorijų įstatymo nustatytais reikalavimais.
 
-Juridiniai ir fiziniai asmenys gali verstis veikla, susijusia su vandens išteklių naudojimu ir apsauga, besiribojančioje su vandens telkiniu valstybinėje ar kitiems asmenims nuosavybės teise priklausančioje žemėje pagal žemės servitutus Žemės įstatymo ir kitų teisės aktų nustatyta tvarka.
+2. Paviršiniai vandens telkiniai priskiriami rekreaciniams ištekliams Lietuvos Respublikos teritorijos bendrajame plane, apskričių ir savivaldybių teritorijų planavimo dokumentuose.
 
-III skyrius
+3. Maudyklų naudojimas ir maudyklų vandens kokybės rodikliai turi atitikti sveikatos apsaugos ministro nustatytų visuomenės sveikatos saugos reglamentų (higienos normų) reikalavimus.
 
-VANDENS IŠTEKLIŲ IR TELKINIŲ NAUDOJIMO SRITYS
+13 straipsnis. Plaukiojimo priemonių naudojimas vandens telkiniuose
 
-12 straipsnis. Vandens išteklių ir telkinių naudojimo sritys
+1. Fiziniai ir juridiniai asmenys, vandens telkiniuose naudojantys plaukiojimo priemones, privalo užtikrinti, kad šios priemonės neleistinai neterštų vandens, neardytų krantų, negadintų hidrotechnikos statinių bei komunikacijų, nekeltų pavojaus žmonėms ir aplinkai. Aplinkosaugos sąlygas plaukioti vandens telkiniuose plaukiojimo priemonėmis nustato ir leidimų išdavimą reglamentuoja aplinkos ministras.
 
-1. Vandens ištekliai ir telkiniai gali būti naudojami gyventojams aprūpinti geriamuoju vandeniu, žmonėms gydyti, poilsiui, sportui, žemės ūkio, pramonės bei kitos ūkinės veiklos reikmėms, laivybai, hidroenergetikai, žuvininkystei, medžioklei, gaisrams gesinti, nuotekoms išleisti ir kitiems tikslams, jeigu to nedraudžia Lietuvos Respublikos įstatymai ir kiti teisės aktai.
+2. Aplinkosaugos sąlygas vandens telkinių dugno valymo ir gilinimo darbams laivybos reikmėms nustato aplinkos ministras.
 
-2. Vandens išteklių ir telkinių naudojimo prioritetinė sritis – aprūpinti gyventojus geriamuoju vandeniu.
+3. Laivybą vidaus vandenų keliuose reglamentuoja Vidaus vandenų transporto kodeksas. Laivybai vidaus vandenų keliuose vandens naudojimo leidimo nereikia.
 
-13 straipsnis. Vandens išteklių ir telkinių naudojimas saugomose teritorijose
+14 straipsnis. Hidrotechnikos statinių statyba ir naudojimas
 
-Vandens ištekliai ir telkiniai, esantys saugomose teritorijose, naudojami pagal šio įstatymo, Saugomų teritorijų įstatymo, saugomų teritorijų nuostatų, teritorinio planavimo dokumentų, kitų teisės aktų nustatytą apsaugos ir naudojimo režimą.
+1. Vandens telkiniuose gali būti statomi hidrotechnikos statiniai, reikalingi vandens apsaugai, jo naudojimui ir aplinkai nuo žalingo vandens poveikio saugoti, hidroenergetikai bei kitoms reikmėms. Tvenkiniai įrengiami ir kiti hidrotechnikos statiniai statomi vadovaujantis šiuo Įstatymu, Statybos įstatymu, Teritorijų planavimo įstatymu, Saugomų teritorijų įstatymu ir Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu. Hidrotechnikos statiniams statyti ir naudoti atskiro vandens naudojimo leidimo nereikia. Tvenkinių naudojimo ir priežiūros tvarką nustato aplinkos ministras.
 
-14 straipsnis. Vandens išteklių ir telkinių naudojimas gyventojams aprūpinti geriamuoju vandeniu
+2. Fiziniai ir juridiniai asmenys, statantys ir naudojantys hidrotechnikos statinius, privalo:
 
-1. Gyventojų geriamojo vandens poreikiams tenkinti naudojami požeminio vandens ištekliai ir telkiniai, kurių vanduo atitinka Lietuvos Respublikos geriamojo vandens standartą arba tinka tokiam vandeniui paruošti.
+1) nepažeisti aplinkos ministro patvirtinta tvarka nustatyto vandens lygio svyravimo režimo;
 
-2. Jeigu arti nėra požeminio vandens išteklių ir telkinių arba jų ištekliai riboti, geriamojo vandens poreikiams tenkinti gali būti naudojami atitinkamai paruošti paviršiniai vandenys.
+2) užtikrinti, kad hidrotechnikos statiniai praleistų vandens ne mažiau už aplinkos ministro nustatyta tvarka apskaičiuotą gamtosauginį debitą;
 
-3. Paviršiniai vandenys, jeigu jie atitinka higienos normas, gali būti naudojami požeminio vandens ištekliams papildyti.
+3) aplinkos ministro nustatyta tvarka tvarkyti tekančio vandens apskaitą ir teikti apskaitos duomenis;
 
-4. Geriamąjį požeminį vandenį naudoti ne buities ar ne maisto pramonės reikmėms galima tik kai:
+4) imtis priemonių erozijos procesams tvenkinių krantuose mažinti;
 
-1) arti vandens naudotojo pakankamai nėra tinkamos kokybės paviršinio vandens, bet pakankamai yra geriamojo požeminio vandens;
+5) aplinkos ministro nustatyta tvarka įrengti ir naudoti veiksmingas žuvisaugos priemones bei užtikrinti galimybę žuvims migruoti.
 
-2) vandens naudotojas suvartoja mažai vandens, o statyti paviršinių vandens telkinių vandentiekio tinklus ir įrenginius yra labai neekonomiška;
+3. Draudžiama statyti užtvankas saugomų žuvų rūšių apsaugai svarbiose upėse ar jų ruožuose. Saugomų žuvų rūšių apsaugai svarbių upių ir jų ruožų sąrašą tvirtina aplinkos ministras.
 
-3) reikia gesinti gaisrus ar likviduoti kitas stichinių nelaimių pasekmes.
+15 straipsnis. Vandens telkinių naudojimas žuvininkystei ir žvejybai
 
-5. Organizacines ir teisines prielaidas, garantuojančias gyventojų teisę vartoti geros kokybės geriamąjį vandenį, juridinių ir fizinių asmenų santykius, susijusius su geriamojo vandens gamybos, kokybės gerinimu, tiekimu, tiekimo sąlygų bei geriamojo vandens kokybės kontrole, nustato Geriamojo vandens įstatymas.
+1. Vandens telkinių naudojimo bei leidimų išdavimo žuvininkystei ir žvejybai tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
-15 straipsnis. Vandens išteklių ir telkinių naudojimas žmonių gydymui ir profilaktikai
+2. Fiziniai ir juridiniai asmenys, naudojantys žvejybai vandens telkinius, privalo laikytis įstatymuose, kituose teisės aktuose ir nuomos sutartyse nustatytų žuvų išteklių apsaugos ir atkūrimo sąlygų.
 
-Žmonių gydymui ir profilaktikai vandens išteklių ir telkinių mineralinio vandens naudojimą nustato Geriamojo vandens ir Žemės gelmių įstatymai.
+3. Vidaus vandenų kelių farvaterių ribose žvejoti draudžiama.
 
-16 straipsnis. Vandens telkinių naudojimas poilsiui ir sportui
+16 straipsnis. Vandens telkinių naudojimas nuotekoms išleisti
 
-1. Valstybinėje žemėje esančius arba su ja besiribojančius paviršinio vandens telkinius gyventojų poilsiui, sportui priskiria apskričių viršininkai pagal teritorijų planavimo dokumentus.
+1. Nuotekos turi būti renkamos ir valomos naudojant geriausias prieinamas technologijas, o šalinamos taip, kad būtų daroma mažiausia įtaka aplinkai. Nuotekų išleidimo sąlygų nustatymo ir leidimų išdavimo tvarką nustato aplinkos ministras.
 
-2. Vandens telkiniuose plaukioti priemonėmis su vidaus degimo ir elektros varikliais leidžiama Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
+2. Išleidžiamose į paviršinius vandens telkinius nuotekose negali būti viršytos aplinkos ministro patvirtinta tvarka nustatytos teršalų ribinės vertės.
 
-3. Privačių vandens telkinių savininkai savo telkinius gali naudoti organizuotam poilsiui ir sportui be atskiro leidimo, jei tai neprieštarauja teritorijų planavimo dokumentams.
+3. Leidžiama išleisti į paviršinius vandens telkinius nuotekas, jei tai netrukdo pasiekti šio Įstatymo nustatytų vandensaugos tikslų.
 
-17 straipsnis. Vandens išteklių ir telkinių naudojimas žemės ūkio reikmėms
+4. Draudžiama nuotekas išleisti tiesiogiai į požeminius vandens telkinius, požemines ertmes, karstines smegduobes. Nuotekos gali būti išleidžiamos į gruntą aplinkos ministro nustatyta tvarka.
 
-1. Vandens ištekliai ir telkiniai gali būti naudojami žemės ūkio reikmėms norint sudaryti optimalias sąlygas žemės ūkiui – sausinti ar drėkinti žemes.
+17 straipsnis. Vandens naudojimas avarijoms ar stichinėms nelaimėms likviduoti
 
-2. Sausinant žemę, natūralios upių vagos bei ežerų vandens lygis nekeičiami. Reguliuoti požeminio (gruntinio) vandens lygį, tvenkti upes, atstatyti buvusias užtvankas bei kitus hidrotechnikos statinius, valyti upių vagas, tvirtinti krantus ir dirbti kitus darbus galima tik Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo, kitų teisės aktų nustatyta tvarka, Aplinkos apsaugos ministerijos įgaliotai institucijai priėmus teigiamą sprendimą.
+Avarijoms ar stichinėms nelaimėms likviduoti, gaisrams gesinti leidžiama naudoti visų vandens telkinių vandenį be leidimo.
 
-3. Vandens telkiniai žemės ūkio paskirties žemėje naudojami atsižvelgiant į teritorinio planavimo dokumentuose nustatytą žemės naudojimo tvarką.
+KETVIRTASIS SKIRSNIS
 
-4. Naudojant žemės ūkio reikmėms tvenkinių vandenį, turi būti laikomasi šio įstatymo 20 straipsnio reikalavimų.
+VANDENS APSAUGA IR VALDYMAS
 
-5. Žemių sausinimą ir drėkinimą nustato Melioracijos įstatymas.
+18 straipsnis. Vandens apsaugos ir valdymo principinės nuostatos
 
-18 straipsnis. Vandens išteklių ir telkinių naudojimas pramonės bei kitos ūkinės veiklos reikmėms
+Vandens apsauga ir valdymas organizuojami upių baseinų rajonų pagrindu. Šiuo tikslu:
 
-Juridiniai ir fiziniai asmenys, kurie tiesiogiai naudoja vandens išteklius ir telkinius pramonės bei kitos ūkinės veiklos reikmėms, privalo laikytis nustatytų vandens naudojimo limitų, technologinių normų ir taisyklių, nuotekų užterštumo normų, įgyvendinti priemones naudojamo vandens kiekiui ir išleidžiamų nuotekų užterštumui mažinti – tobulinti gamybos technologiją, vandens tiekimo ir nuotekų valymo sistemas, diegti apytakines vandens tiekimo sistemas.
+1) visa Lietuvos Respublikos teritorija suskirstoma upių baseinų rajonais;
 
-19 straipsnis. Vandens telkinių naudojimas laivybai
+2) kiekviename upių baseinų rajone organizuojamas vandens telkinių ir vandens valdymo, naudojimo bei apsaugos administravimas;
 
-1. Juridiniai ir fiziniai asmenys, vandens telkiniuose naudojantys vandens transporto priemones, privalo garantuoti, kad vandens transporto priemonės neterš vandens, neardys ir negriaus krantų, negadins hidrotechnikos statinių bei komunikacijų, nepadarys neigiamos įtakos vandens telkinio ekosistemai, nepažeis vandens telkinių kitų naudotojų teisių.
+3) įvertinama kiekvieno upių baseinų rajono būklė ir žmogaus veiklos poveikis jai, atliekama vandens apsaugos, naudojimo ir valdymo ekonominė analizė;
 
-2. Vandens telkinių dugno valymo ir gilinimo darbai laivybos reikmėms atliekami pagal Aplinkos apsaugos ministerijos patvirtintas taisykles.
+4) kiekvienam upės baseinui nustatomi vandensaugos tikslai;
 
-3. Laivybai tinkamų valstybinės reikšmės vidaus vandenų kelių sąrašą tvirtina Vyriausybė, o vietinės reikšmės ir perspektyvinių vidaus vandenų kelių sąrašus – Susisiekimo ministerija, suderinusi su Aplinkos apsaugos ministerija.
+5) kiekvienam upių baseinų rajonui parengiama priemonių programa vandensaugos tikslams pasiekti;
 
-4. Vandens telkinių naudojimą laivybai nustato Vidaus vandenų transporto kodeksas.
+6) kiekvienam upių baseinų rajonui parengiamas upių baseinų rajono valdymo planas priemonių programai įgyvendinti.
 
-20 straipsnis. Vandens telkinių naudojimas hidroenergetikai ir kitoms reikmėms, įrengus tvenkinius
+19 straipsnis. Upių baseinų rajonų sudarymas
 
-1. Juridiniai ir fiziniai asmenys, naudojantys vandens telkinius hidroenergetikai ir kitoms reikmėms, įrengus tvenkinius, privalo laikytis tvenkinių naudojimo ir priežiūros taisyklių, vandens lygio svyravimo režimo, perleisti per hidrotechnikos statinius gamtosauginį debitą, tvarkyti per juos tekančio vandens apskaitą, prižiūrėti hidrotechnikos statinius, užtikrinti jų saugumą, imtis reikiamų priemonių erozijos procesams tvenkinių krantuose likviduoti, įrengti ir naudoti efektyvias žuvisaugos priemones.
+1. Vyriausybė arba jos įgaliota institucija visus Lietuvos Respublikos teritorijoje esančius upių baseinus priskiria upių baseinų rajonams.
 
-2. Įrengiant hidroenergetikos ir kitoms reikmėms naujus tvenkinius bei rekonstruojant esamų tvenkinių hidrotechnikos statinių kompleksą, reikia garantuoti žuvų laisvą migraciją – Aplinkos apsaugos ministerijos nustatyta tvarka įrengti žuvų migracijos įrenginius.
+2. Vandens apsaugos ir valdymo optimizavimui upių baseino rajonas gali būti sudarytas iš kelių gretimų upių baseinų.
 
-3. Juridiniai ir fiziniai asmenys, įrengiantys hidroenergetikos ir kitoms reikmėms naujus tvenkinius, turi įstatymų ir kitų teisės aktų nustatyta tvarka atlyginti žemei, gamtai, melioracijos įrengimams, hidrotechnikos statiniams ir kitiems objektams padarytus nuostolius.
+3. Jeigu požeminio vandens telkinio ribos nesutampa su tam tikro upės baseino ribomis, toks telkinys identifikuojamas ir priskiriamas prie artimiausio ir valdymo požiūriu tinkamesnio upių baseinų rajono.
 
-21 straipsnis. Vandens telkinių naudojimas žuvininkystei ir medžioklei
+4. Priekrančių vandenys identifikuojami ir priskiriami artimiausiam arba valdymo požiūriu tinkamiausiam upių baseinų rajonui ar rajonams.
 
-1. Žuvininkystei priskirti paviršinio vandens telkiniai skirstomi į kategorijas.
+5. Jeigu dalis upės baseino ploto yra Lietuvos Respublikos teritorijoje, o kita jo dalis yra už jos ribų, tai upės baseinas priskiriamas prie tarpvalstybinio upių baseinų rajono. Tarpvalstybiniai upių baseinų rajonai sudaromi tarpvalstybinių susitarimų pagrindu.
 
-2. Paviršinio vandens telkinius žuvininkystės kategorijoms priskiria Aplinkos apsaugos ministerija.
+20 straipsnis. Upių baseinų rajonų administravimas
 
-3. Dirbtinių paviršinio vandens telkinių (melioracijos kanalų, žuvininkystės tvenkinių, kūdrų ir kt.) vandens kokybė turi būti tokia, kad nepakeistų telkinių, į kuriuos įteka, kategorijos.
+1. Vyriausybė arba jos įgaliota institucija paskiria instituciją (-as), atsakingą (-as) už upių baseinų rajonų arba jų dalių, esančių Lietuvos Respublikos teritorijoje, administravimą vandensaugos tikslams pasiekti.
 
-4. Valstybinio vidaus vandenų fondo paviršinio vandens telkinių naudojimo žuvininkystei tvarką nustato bei nenuomotinų vandens telkinių sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
+2. Siekiant koordinuoti upių baseinų rajonų valdymo planų ir priemonių programų rengimą ir jų įgyvendinimą, kiekvienam upių baseinų rajonui sudaroma koordinavimo taryba. Į jos sudėtį įtraukiami suinteresuotų valstybės ir savivaldybių institucijų bei nevyriausybinių organizacijų atstovai. Upių baseinų rajono koordinavimo tarybos sprendimai yra patariamojo pobūdžio. Upių baseinų rajonų koordinavimo tarybos sudėtį ir nuostatus aplinkos ministro teikimu tvirtina Vyriausybė. Koordinavimo tarybos darbą organizuoja institucija, atsakinga už upių baseinų rajono administravimą.
 
-Straipsnio dalies pakeitimai:
+21 straipsnis. Upių baseinų rajono būklės vertinimas
 
-Nr. VIII-1807, 2000-07-05, Žin., 2000, Nr. 61-1816 (2000-07-26), i. k. 1001010ISTAIII-1807
+Upių baseinų rajono gamtinės būklės vertinimo, žmogaus veiklos poveikio vandens telkinių būklei nustatymo ir vandens apsaugos, naudojimo bei valdymo ekonominės analizės atlikimo tvarką nustato aplinkos ministras, vadovaudamasis šiuo Įstatymu ir atsižvelgdamas į Įstatymo priede nurodytos Europos Sąjungos direktyvos nuostatas.
 
-5. Išnuomojant valstybinio vidaus vandenų fondo paviršinius vandens telkinius žuvininkystei, žemė po vandeniu neišnuomojama.
+22 straipsnis. Vandensaugos tikslai
 
-6. Juridiniai ir fiziniai asmenys, naudojantys žuvininkystei valstybinio vidaus vandenų fondo vandens telkinius, privalo įgyvendinti nuomos sutartyse arba leidimuose nustatytas žuvų išteklių apsaugos ir atkūrimo priemones žuvų išteklių naudotojų lėšomis.
+1. Bendras vandensaugos tikslas paviršiniams vandens telkiniams yra pasiekti gerą paviršinio vandens būklę, dirbtiniams ir labai pakeistiems vandens telkiniams – pasiekti gerą cheminę vandens būklę ir gerą ekologinį potencialą, požeminiams vandens telkiniams – pasiekti gerą požeminio vandens būklę.
 
-7. Vandens telkinius galima naudoti medžioklei Lietuvos Respublikos įstatymų ir Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
+2. Vandensaugos tikslų nustatymo tvarką nustato aplinkos ministras, vadovaudamasis šiuo ir kitais įstatymais bei kitais teisės aktais ir atsižvelgdamas į šio Įstatymo priede nurodytos Europos Sąjungos direktyvos nuostatas. Vandensaugos tikslai konkretiems vandens telkiniams nustatomi priemonių programose.
 
-22 straipsnis. Vandens telkinių naudojimas nuotekoms išleisti
+3. Nustatant vandensaugos tikslus, paviršinį vandens telkinį leidžiama paskelbti dirbtiniu ar labai pakeistu, jei:
 
-Naudoti vandens telkinius buities, pramonės bei kitos ūkinės veiklos, kanalizacijos tinklų surenkamoms paviršinėms (lietaus) ir kitoms nuotekoms išleisti galima gavus Aplinkos apsaugos ministerijos įgaliotos institucijos sutikimą (leidimą) ir neviršijant išleidžiamų nuotekų, taip pat telkinių vandens kokybės normų, kurias tvirtina Aplinkos apsaugos ministerija suderinusi su Sveikatos apsaugos ministerija.
+1) telkinio hidromorfologinių charakteristikų atkūrimas, kuris būtinas norint pasiekti gerą ekologinę būklę, sukeltų neigiamą poveikį aplinkai ir vandens naudojimui arba visuomenės saugumui;
 
-23 straipsnis. Vandens išteklių ir telkinių naudojimas priešgaisrinėms ir kitoms reikmėms
+2) dėl techninių galimybių ar per didelių sąnaudų kitomis aplinkosauginiu požiūriu pranašesnėmis priemonėmis negalima gauti naudos, kurią duoda pakeistos vandens telkinio savybės.
 
-1. Gaisrams gesinti leidžiama naudoti visų vandens telkinių vandenį be atskiro leidimo, bet tik tiek, kiek reikia gaisrui užgesinti.
+4. Kai vandens telkiniai yra taip paveikti žmogaus veiklos arba jų gamtinės sąlygos yra tokios, kad šio straipsnio 1 dalyje numatytų vandensaugos tikslų pasiekti neįmanoma arba per brangu, aplinkos ministro nustatyta tvarka leidžiama nustatyti švelnesnius vandensaugos tikslus esant abiem šioms sąlygoms:
 
-2. Priešgaisrinėms reikmėms skirti vandens telkiniai gali būti naudojami kitoms reikmėms, jeigu tai nepablogins gaisrų gesinimo sąlygų.
+1) vanduo negali būti naudojamas kitomis, pranašesnėmis bei ekonomiškai prieinamomis, vandensaugos priemonėmis;
 
-3. Vandens išteklių ir telkinių naudojimo kitoms šiame įstatyme nenumatytoms valstybinėms bei visuomeninėms reikmėms tvarką nustato Lietuvos Respublikos įstatymai ir kiti teisės aktai.
+2) užtikrinama, kad švelnesni vandensaugos tikslai labiau nepablogins vandens telkinio būklės.
 
-IV skyrius
+5. Švelnesni vandensaugos tikslai peržiūrimi kas šešeri metai.
 
-VANDENS IŠTEKLIŲ NAUDOJIMO VALSTYBINIS REGULIAVIMAS
+6. Laikinas požeminių ir paviršinių vandens telkinių būklės suprastėjimas nelaikomas vandensaugos tikslų neįgyvendinimu, jeigu šių telkinių būklė suprastėjo dėl gamtinių priežasčių ar neįveikiamų aplinkybių, kurių nebuvo galima numatyti (avarijų ir stichinių nelaimių padariniai).
 
-24 straipsnis. Vandens išteklių naudojimo valstybinio reguliavimo sistema
+23 straipsnis. Upių baseinų rajone esantiems saugomiems plotams keliami tikslai
 
-1. Lietuvos Respublikos vandens išteklių naudojimą valstybės vardu reguliuoja Seimas, Vyriausybė, Aplinkos apsaugos ministerija, kitos valstybės, savivaldos institucijos pagal Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytą kompetenciją.
+1. Aplinkos ministro nustatyta tvarka pagal upių baseinų rajonus registruojami vandens ir sausumos plotai, kuriems vadovaujantis Lietuvos Respublikos įstatymais ir kitais teisės aktais nustatytos specialios naudojimo sąlygos dėl paviršinio ir požeminio vandens apsaugos ar dėl buveinių ir gyvūnų bei augalų rūšių, tiesiogiai priklausomų nuo vandens, apsaugos bei išsaugojimo.
 
-2. Valstybinę vandenų naudojimo ir apsaugos kontrolę vykdo Aplinkos apsaugos ministerija. Kitos valstybės institucijos vandenų naudojimą ir apsaugą kontroliuoja tiek, kiek tai susiję su Lietuvos Respublikos įstatymų ir Vyriausybės nutarimų joms priskirtomis funkcijomis.
+2. Upių baseinų rajonų valdymo planuose šio straipsnio 1 dalyje nurodytiems saugomiems plotams nustatomas tikslas – įgyvendinti šio Įstatymo, Saugomų teritorijų įstatymo, kitų įstatymų ir kitų teisės aktų bei teritorijų planavimo dokumentų nustatytus paviršinio ir požeminio vandens ar gamtinių buveinių ir gyvūnų bei augalų rūšių, tiesiogiai priklausomų nuo vandens, apsaugos arba išsaugojimo reikalavimus.
 
-25 straipsnis. Vandens išteklių naudojimo sąlygos ir leidimai
+24 straipsnis. Priemonių programos vandensaugos tikslams pasiekti
 
-1. Vandens ištekliai gali būti naudojami laisvai (be leidimų) ir su leidimais.
+1. Kiekvienam upių baseinų rajonui arba jo daliai, esančiai Lietuvos Respublikos teritorijoje, turi būti parengta priemonių programa vandensaugos tikslams pasiekti. Programų rengimo tvarką nustato Vyriausybė arba jos įgaliota institucija, vadovaudamasi šiuo Įstatymu ir atsižvelgdama į Įstatymo priede nurodytos Europos Sąjungos direktyvos nuostatas. Priemonių programas tvirtina Vyriausybė.
 
-2. Vandens išteklių laisvo naudojimo tvarką nustato šio įstatymo 26 straipsnis.
+2. Tarpvalstybinių upių baseinų rajonų priemonių programos derinamos su užsienio valstybėmis pagal tarptautinius susitarimus. Priemonių programų derinimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
 
-3. Leidimai naudoti vandens išteklius juridiniams ir fiziniams asmenims išduodami Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
+3. Priemonių programose tarp kitų vandensaugos tikslams pasiekti reikalingų priemonių turi būti numatytos šios kompleksinės priemonės:
 
-4. Leidimai naudoti vandens išteklius neišduodami, jeigu nenumatomos priemonės, garantuojančios, kad vanduo bus naudojamas racionaliai, vandens telkiniai bus tinkamai apsaugoti nuo teršimo, bus tinkamos sąlygos vandens augalijai ir gyvūnijai, ir jeigu pažeidžiami kitų vandens naudotojų interesai.
+1) geriausių prieinamų gamybos būdų taikymas;
 
-5. Vandens naudotojas, pateikdamas duomenis leidimui naudoti vandens išteklius gauti, turi įvertinti ir nurodyti reikalingą naudotojams abonentams vandens kiekį, taip pat naudotojų abonentų išleidžiamų nuotekų kiekį ir užterštumą.
+2) išmetamų į aplinką teršalų ribinių verčių nustatymas;
 
-27 straipsnis. Vandens išteklių naudojimas su leidimais
+3) geriausios aplinkos apsaugos praktikos taikymas.
 
-1. Pagal gamtos išteklių naudojimo leidimų išdavimo tvarkos nustatytus kriterijus leidimą naudoti vandens išteklius privalo gauti juridiniai ir fiziniai asmenys, imantys iš paviršinio bei požeminio vandens telkinių vandenį arba išleidžiantys į gamtinę aplinką buities, pramonės, kitos ūkinės veiklos bei paviršines (lietaus) nuotekas, taip pat naudojantys vandens telkinius laivybai, hidrotechnikos statinių (tvenkinių, hidroelektrinių ir kt.) reikmėms.
+25 straipsnis. Upių baseinų rajonų valdymo planai
 
-2. Leidimas imti paviršinį bei požeminį vandenį ir išleisti į gamtinę aplinką nuotekas išduodamas laikotarpiui iki 5 metų, o naudoti vandens telkinius laivybai, hidrotechnikos statinių reikmėms – ilgalaikis leidimas.
+1. Upių baseinų rajono priemonių programai įgyvendinti turi būti parengtas upių baseinų rajono valdymo planas. Upių baseinų rajono valdymo plano rengimo tvarką nustato Vyriausybė arba jos įgaliota institucija, vadovaudamasis šiuo Įstatymu ir atsižvelgdama į Įstatymo priede nurodytos Europos Sąjungos direktyvos nuostatas.
 
-28 straipsnis. Leidimo naudoti vandens išteklius atnaujinimas, perleidimas ir panaikinimas
+2. Lietuvos Respublikos teritorijoje esančiai tarpvalstybinio upių baseinų rajono daliai skirtas planas turi būti derinamas su atitinkamu upių baseinų rajono valdymo planu, rengiamu kitoje Europos Sąjungos valstybėje ar (ir) kandidatėje į Europos Sąjungos nares. Šiuo atveju sudaromas vienas tarpvalstybinio upių baseinų rajono valdymo planas. Jeigu upės baseinas driekiasi už Europos Sąjungos valstybės ar kandidatės į Europos Sąjungos nares ribų, tarpvalstybinio susitarimo būdu turi būti siekiama sudaryti vieną upių baseinų rajono valdymo planą.
 
-1. Leidimas naudoti vandens išteklius atnaujinamas jo savininko prašymu. Prašymas nustatyta tvarka pateikiamas Aplinkos apsaugos ministerijos įgaliotai institucijai.
+3. Apie upių baseinų rajono valdymo plano rengimą turi būti informuojama visuomenė. Institucija, atsakinga už upių baseinų rajono administravimą, turi skirti ne mažiau kaip šešis mėnesius tam, kad dėl rengiamo upių baseinų rajono valdymo plano visuomenė galėtų pareikšti pastabų ir pasiūlymų.
 
-2. Leidimo naudoti vandens išteklius savininkas gali perleisti leidimą kitam juridiniam ar fiziniam asmeniui. Perleidimą turi patvirtinti leidimą išdavusi institucija.
+4. Upių baseinų rajonų valdymo planus tvirtina Vyriausybė.
 
-3. Leidimas naudoti vandens išteklius panaikinamas, jeigu nevykdomos leidime nurodytos sąlygos, viršijami nustatyti vandens naudojimo limitai, išleidžiamų į vandens telkinius nuotekų kiekiai ir kokybės rodikliai, jeigu leidimui gauti buvo pateikti neteisingi duomenys, taip pat jeigu prašo leidimo savininkas.
+PENKTASIS SKIRSNIS
 
-4. Leidimas naudoti vandens išteklius panaikinamas, jeigu tai būtina susidarius ypatingai ekologinei situacijai. Tuo atveju leidimo savininkui dėl leidimo panaikinimo padaryta žala atlyginama Lietuvos Respublikos įstatymų nustatyta tvarka.
+STEBĖSENA (MONITORINGAS) IR INFORMACIJOS VALDYMAS
 
-5. Leidimas naudoti vandens išteklius netenka galios likvidavus juridinį asmenį arba nelikus leidimo savininko.
+26 straipsnis. Stebėsena (monitoringas)
 
-29 straipsnis. Vandens išteklių naudojimo ir apsaugos programos bei schemos
+Vandens telkinių būklei bei pokyčiams stebėti visuose upių baseinų rajonuose ar jų dalyse, esančiose Lietuvos Respublikos teritorijoje, turi būti vykdoma stebėsena (monitoringas). Stebėsenos (monitoringo) programos sudaromos vadovaujantis Aplinkos monitoringo įstatymu, šiuo Įstatymu, kitais teisės aktais bei atsižvelgiant į Įstatymo priede nurodytos Europos Sąjungos direktyvos nuostatas.
 
-1. Vandens išteklių naudojimo ir apsaugos programos numato racionaliam vandens naudojimui ir apsaugai reikalingas priemones ir tam tikslui reikalingas lėšas. Vandens išteklių naudojimo ir apsaugos programos gali būti rengiamos Lietuvos Respublikos teritorijai, apskričių bei savivaldybių teritorijoms, paviršinio vandens telkinių baseinams, taip pat atskiriems požeminio vandens horizontams.
+27 straipsnis. Vandens naudojimo apskaita
 
-2. Upių baseinams rengiamos vandens išteklių perspektyvinio naudojimo ir apsaugos schemos.
+Vandens naudotojai aplinkos ministro nustatyta tvarka privalo vykdyti naudojamo vandens, išleidžiamų nuotekų ir teršalų bei praleidžiamo per hidrotechnikos įrenginius vandens apskaitą ir teikti duomenis.
 
-3. Valstybines vandens išteklių naudojimo ir apsaugos programas bei schemas tvirtina Vyriausybė Aplinkos apsaugos ministerijos teikimu.
+28 straipsnis. Informacijos valdymas
 
-30 straipsnis. Požeminio vandens išteklių paieškos, žvalgymo ir gavybos licencijavimas
+1. Duomenys apie upių baseinų rajonus renkami, tvarkomi, registruojami ir saugomi vadovaujantis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-Požeminio vandens išteklių paieškos, žvalgymo ir gavybos licencijavimo tvarką nustato Žemės gelmių ir Įmonių įstatymai.
+2. Aplinkos ministerija tvarko duomenų, reikalingų upių baseinų rajonų administravimui, informacinę sistemą.
 
-V skyrius
+29 straipsnis. Informacijos teikimas visuomenei
 
-VANDENŲ APSAUGA
+Institucija, atsakinga už upių baseinų rajono ar jo dalies, esančios Lietuvos Respublikos teritorijoje, administravimą, ir kitos institucijos, turinčios informacijos apie upių baseinų rajonus, Vyriausybės nustatyta tvarka teikia informaciją apie upių baseinų rajonus visuomenei, vandens naudotojams ir kitiems suinteresuotiems asmenims.
 
-31 straipsnis. Vandens išteklių ir telkinių apsauga nuo teršimo nuotekomis ir atliekomis
+30 straipsnis. Ataskaitų teikimas Europos Bendrijų Komisijai
 
-1. Išleisti nuotekas į gamtinę aplinką leidžiama tik tais atvejais, kai jų užterštumas neviršija Aplinkos apsaugos ministerijos patvirtintų užterštumo normų.
+1. Ataskaitų apie šio Įstatymo priede nurodytos Europos Sąjungos direktyvos ir kitų Europos Sąjungos vandens sektoriaus teisės aktų įgyvendinimą teikimo Europos Bendrijų Komisijai tvarką aplinkos ministro teikimu tvirtina Lietuvos Respublikos Vyriausybė.
 
-2. Draudžiama teršti vandens telkinių baseinus, ledo dangą buities, gamybos ir kitomis atliekomis, taip pat naftos produktais, nuodingaisiais chemikalais, trąšomis, radioaktyviosiomis ir kitomis kenksmingomis medžiagomis.
+2. Lietuvos Respublikos valstybės ir savivaldybių institucijos, kiti viešieji juridiniai asmenys, susiję su vandens telkinių ir vandens naudojimu, apsauga bei valdymu, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo teikti informaciją, reikalingą ataskaitoms rengti.
 
-3. Draudžiama išleisti nuotekas į požeminius vandenis, požemines ertmes, karstines smegduobes.
+ŠEŠTASIS SKIRSNIS
 
-4. Ledą galima naudoti, jei dėl to nesumažės to telkinio vandens išteklių atsargos ir nepablogės jo kokybė.
+SĄNAUDŲ SUSIGRĄŽINIMAS IR VALSTYBĖS PARAMA
 
-32 straipsnis. Gręžtinių šulinių tvarkymas
+31 straipsnis. Sąnaudų susigrąžinimas
 
-Gręžtiniai šuliniai turi būti sandarūs, o trykštantieji – su reguliuojamais įtaisais. Netinkami naudoti gręžtiniai šuliniai turi būti konservuojami arba likviduojami Aplinkos apsaugos ministerijos ir Lietuvos geologijos tarnybos nustatyta tvarka.
+1. Sąnaudas, patirtas siekiant įgyvendinti vandensaugos tikslus ir teikiant vandens paslaugas, turi padengti vandens naudotojai.
 
-33 straipsnis. Vandens telkinių ir vandenviečių apsaugos zonos
+2. Įgyvendinant sąnaudų susigrąžinimo principą, iki 2009 m. gruodžio 31 d. turi būti užtikrinta, kad:
 
-1. Prie paviršinio vandens telkinių nustatomos pakrantės apsaugos juostos, o jeigu jie didesni, – ir apsaugos zonos. Apsaugos juosta zonoje yra apsaugos zonos sudėtinė dalis.
+1) vandens kainų politika skatintų vandens naudotojus naudoti vandenį racionaliai ir taip padėtų siekti pagal šį Įstatymą nustatytų vandensaugos tikslų;
 
-2. Geriamojo vandens vandenvietėms, pavieniams gręžtiniams ir šachtiniams šuliniams nustatomos sanitarinės apsaugos zonos ir juostos.
+2) būtų padengiamos sąnaudos, patirtos teikiant vandens paslaugas.
 
-3. Apsaugos juostų ir zonų nustatymo ir priežiūros tvarką nustato Saugomų teritorijų įstatymas ir Vyriausybės arba jos įgaliotų institucijų patvirtinti teisės aktai.
+3. Atsižvelgiant į socialinį, ekologinį ir ekonominį poveikį, taip pat į regiono ar regionų gamtines sąlygas, sąnaudų susigrąžinimo principas gali būti taikomas iš dalies. Jeigu pagal nusistovėjusią praktiką kokiai nors vandens naudojimo veiklai išimtiniais atvejais netaikomas sąnaudų susigrąžinimo principas, upių baseinų rajono valdymo plane turi būti nurodyta priežastis ir užtikrinama, kad tai netrukdys pasiekti vandensaugos tikslų. Šiuo atveju vandens apsaugos ir valdymo programoms bei kitoms priemonėms įgyvendinti įstatymų nustatyta tvarka gali būti teikiama valstybės parama.
 
-4. Paviršinio vandens telkinių pakrantės apsaugos juostose draudžiama įrengti dirbtines kliūtis, trukdančias atlikti hidrografinio tinklo priežiūrą.
+SEPTINTASIS SKIRSNIS
 
-34 straipsnis. Ūkinės veiklos reguliavimas
+BAIGIAMOSIOS NUOSTATOS
 
-1. Laivyba, elektros energijos gavyba, žuvininkystė ir kita ūkinė veikla bei naudingųjų iškasenų gavyba, dugno gilinimo, krantų sutvirtinimo ir kiti hidrotechninės statybos darbai vandens telkiniuose turi būti organizuojami ir atliekami taip, kad darytų mažesnį poveikį vandens kokybei, augalijai, gyvūnijai, krantų ir hidrotechnikos statinių pastovumui.
+32 straipsnis. Atsakomybė už Įstatymo pažeidimus
 
-2. Ūkinės ar kitos veiklos objektų, galinčių turėti poveikio vandenų būklei, planavimo, projektavimo, statybos, rekonstravimo bei naudojimo metu turi būti numatomos ir įgyvendinamos priemonės, užtikrinančios racionalų vandens naudojimą, vandenų apsaugą, naudojamo vandens apskaitą, kitų vandens naudotojų teises.
+Pažeidus šio Įstatymo reikalavimus, atsakomybė taikoma įstatymų nustatyta tvarka.
 
-3. Galinčių daryti poveikį vandens telkiniams ūkinės veiklos objektų projektavimo, statybos, rekonstravimo bei plėtimo, priėmimo naudoti ir naudojimo tvarką nustato Aplinkos apsaugos, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo, kiti įstatymai ir teisės aktai.
+33 straipsnis. Įstatymo įgyvendinimas
 
-4. Ūkinę veiklą vandens telkinių pakrantės apsaugos juostose ir apsaugos zonose bei vandens telkiniuose nustato Saugomų teritorijų įstatymas ir Vyriausybės patvirtinti teisės aktai.
+1. Šio Įstatymo 21 straipsnyje nurodyta upių baseinų rajono būklės analizė ir įvertinimai kiekviename upių baseinų rajone arba tarpvalstybinio upių baseinų rajono dalyje, esančioje Lietuvos Respublikos teritorijoje, turi būti atlikta ne vėliau kaip iki 2004 m. gruodžio 31 d. Atlikta analizė ir įvertinimai peržiūrimi ir prireikus atnaujinami po 13 metų, o vėliau – kas šešeri metai.
 
-5. Juridiniai ir fiziniai asmenys bet kokia ūkine veikla, galinčia neigiamai veikti vandens telkinių būklę ar jų vandens kokybę, gali verstis tik Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo, kitų teisės aktų nustatyta tvarka, kai Aplinkos apsaugos ministerijos įgaliota institucija dėl to yra priėmusi teigiamą sprendimą, o minėti asmenys yra gavę leidimą naudoti vandens išteklius.
+2. Šio Įstatymo 22 straipsnyje nurodyti vandensaugos tikslai turi būti pasiekti iki 2014 m. gruodžio 31 d. Jeigu vandens telkinio būklės pagerėjimo negalima pasiekti dėl to, kad techninės priemonės gali būti taikomos tik etapais, kurie yra ilgesni už nustatytą terminą, arba kai užbaigti vandens telkinio būklės pagerinimą per nustatytą laiką per daug brangu, arba kai pagerinti vandens telkinio būklės laiku negalima dėl gamtinių sąlygų, leidžiama pratęsti šį terminą ir siekti vandensaugos tikslų etapais su sąlyga, kad vandens telkinio būklė toliau neprastėtų. Termino pratęsimas ir jo priežastys nurodomi ir paaiškinami upių baseinų rajono valdymo plane, kuriame nustatomas naujas terminas vandensaugos tikslams pasiekti. Terminas pratęsiamas ilgiausiai iki 2020 m. gruodžio 31 d., išskyrus atvejus, kai per tokį laiką keliamų tikslų pasiekti negalima dėl gamtinių sąlygų.
 
-6. Požeminio gėlo ir mineralinio vandens vandenvietės turi būti naudojamos laikantis nustatyto režimo, užtikrinančio vandeningųjų sluoksnių apsaugą, kad vanduo neišsektų, nebūtų užterštas ir nepablogėtų jo kokybė.
+3. Šio Įstatymo 24 straipsnyje nurodytos priemonių programos kiekvienam upių baseinų rajonui arba jo daliai, esančiai Lietuvos Respublikos teritorijoje, turi būti parengtos ne vėliau kaip iki 2009 m. gruodžio 31 d., o visos programose numatytos priemonės pradedamos taikyti ne vėliau kaip iki 2012 m. gruodžio 31 d. Priemonių programos pirmą kartą peržiūrimos ir prireikus atnaujinamos iki 2014 m. gruodžio 31 d., o vėliau – kas šešeri metai.
 
-7. Tvenkiniai, užtvenkti ežerai turi būti naudojami ir prižiūrimi pagal Aplinkos apsaugos ministerijos įgaliotos institucijos patvirtintas taisykles.
+4. Šio Įstatymo 25 straipsnyje nurodyti upių baseinų rajonų valdymo planai kiekvienam upių baseinų rajonui arba jo daliai, esančiai Lietuvos Respublikos teritorijoje, turi būti parengti ir paskelbti visuomenei ne vėliau kaip iki 2009 m. gruodžio 31 d.
 
-8. Ypač sausais metais, kai upių nuotėkis yra mažesnis, o ežerų ir tvenkinių vandens lygis žemesnis negu skaičiuotinos tikimybės metais, tvenkinių bei užtvenktų ežerų vandens išteklių naudojimas gali būti apribotas pagal tvenkinių ir užtvenktų ežerų naudojimo ir priežiūros taisykles.
+5. Šio Įstatymo 26 straipsnyje nurodyta stebėsena (monitoringas) turi būti pradėta ne vėliau kaip iki 2006 m. gruodžio 31 d.
 
-9. Juridiniai ir fiziniai asmenys, kurių ūkinė veikla daro neigiamą poveikį vandens telkinių augalijai ir gyvūnijai, privalo Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka atlyginti padarytus nuostolius.
+34 straipsnis. Įstatymo įsigaliojimas
 
 35 straipsnis. Veiklos, darančios poveikį vandenų būklei, ribojimas ir sustabdymas
 
