@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2004-11-11"
+last_updated: "2004-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -3992,13 +3992,13 @@ technikos įrengimas ar panaudojimas informacijai rinkti
 
 Tas,
 
-kas neteisėtai įrengė ar panaudojo specialią techniką žmogui sekti, informacijai
+kas neteisėtai įrengė ar panaudojo specialią techniką žmogui sekti,
 
-apie valstybės, savivaldybės instituciją, įstaigą ar jų tarnautoją, politinę
+informacijai apie valstybės, savivaldybės instituciją, įstaigą ar jų
 
-partiją, visuomeninę organizaciją ar jų narį, kitą juridinį ar fizinį asmenį
+tarnautoją, politinę partiją, visuomeninę organizaciją ar jų narį, kitą
 
-rinkti,
+juridinį ar fizinį asmenį rinkti,
 
 baudžiamas
 
@@ -4196,9 +4196,9 @@ baudžiamas bauda
 
 arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2. Už šiame
+2. Už šiame straipsnyje
 
-straipsnyje numatytą veiką atsako ir juridinis asmuo.
+numatytą veiką atsako ir juridinis asmuo.
 
 Kodeksas papildytas
 
@@ -5114,9 +5114,7 @@ jo padarytą veiką;
 
 veika pagal šį kodeksą nelaikoma nusikaltimu ar baudžiamuoju nusižengimu,
 
-išskyrus atvejus, kai Europos arešto orderis išduotas dėl 2002 m. birželio 13
-
-d. Tarybos pagrindų sprendimo 2002/584/TVR dėl Europos arešto orderio ir
+išskyrus atvejus, kai Europos arešto orderis išduotas dėl 2002 m. birželio 13 d. Tarybos pagrindų sprendimo 2002/584/TVR dėl Europos arešto orderio ir
 
 valstybių narių tarpusavio perdavimo procedūrų 2 straipsnio 2 dalyje numatytos
 
@@ -11312,6 +11310,72 @@ Nr. IX-1495,
 
 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 
+292
+
+straipsnis. Neteisėtas žmonių gabenimas per valstybės sieną
+
+1. Tas, kas neteisėtai per Lietuvos Respublikos
+
+valstybės sieną gabeno nuolatinės gyvenamosios vietos Lietuvos Respublikoje
+
+neturintį užsienietį arba neteisėtai valstybės sieną perėjusį tokį užsienietį
+
+gabeno ar slėpė Lietuvos Respublikos teritorijoje,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu
+
+iki šešerių metų.
+
+2. Tas, kas padarė šio straipsnio
+
+1 dalyje numatytas veikas dėl savanaudiškų paskatų, arba jeigu tai sukėlė
+
+pavojų asmens gyvybei,
+
+baudžiamas laisvės atėmimu iki
+
+aštuonerių metų.
+
+3.Tas, kas
+
+organizavo šio straipsnio 1 dalyje numatytas veikas,
+
+baudžiamas
+
+laisvės atėmimu nuo ketverių iki dešimties metų.
+
+4. Už šiame
+
+straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+Straipsnio pakeitimai:
+
+Nr. X-61, 2004-12-22,
+
+Žin., 2004, Nr. 188-6995 (2004-12-31)
+
+293
+
+straipsnis. Lietuvos Respublikos piliečių kelionių į užsienį nelegaliai ten
+
+jiems pasilikti arba palikti be pagalbos organizavimas
+
+1. Tas, kas organizavo Lietuvos Respublikos piliečius ar
+
+nuolatinius gyventojus keliauti į užsienį prašytis prieglobsčio ar ten
+
+nelegaliai dirbti, ar dėl kitų priežasčių nelegaliai pasilikti užsienyje arba
+
+apgaulingai žadėdamas legalų statusą užsienyje,
+
+baudžiamas
+
+areštu arba laisvės atėmimu iki septynerių metų.
+
+2.
+
+Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
 292 straipsnis. Neteisėtas žmonių gabenimas per valstybės sieną
 
 1.
@@ -11460,13 +11524,13 @@ PRIEMONIŲ KLASTOJIMU
 
 301 straipsnis. Antspaudo, spaudo ar blanko suklastojimas
 
-1.
+1. Tas,
 
-Tas, kas suklastojo tikrą ar pagamino netikrą fizinio ar juridinio asmens
+kas suklastojo tikrą ar pagamino netikrą fizinio ar juridinio asmens antspaudą,
 
-antspaudą, spaudą ar griežtos atskaitomybės blanką arba pasinaudojo žinomai
+spaudą ar griežtos atskaitomybės blanką arba pasinaudojo žinomai suklastotu
 
-suklastotu antspaudu, spaudu ar blanku, arba jį realizavo,
+antspaudu, spaudu ar blanku, arba jį realizavo,
 
 baudžiamas
 
@@ -11636,9 +11700,9 @@ viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 Tas, kas viešai paskleidė apie mirusįjį melagingus prasimanymus, galinčius
 
-nulemti žmonių panieką ar pakirsti pagarbą jo atminimui, padarė baudžiamąjį nusižengimą
+nulemti žmonių panieką ar pakirsti pagarbą jo atminimui, padarė baudžiamąjį
 
-ir
+nusižengimą ir
 
 baudžiamas
 
@@ -11918,9 +11982,9 @@ pažeidimas
 
 1.
 
-Karys, karo padėties metu atlikdamas Lietuvos Respublikos valstybės sienos
+Karys, karo padėties metu atlikdamas Lietuvos Respublikos valstybės sienos apsaugos
 
-apsaugos tarnybą pažeidęs šios tarnybos taisykles, jeigu dėl to atsirado sunkių
+tarnybą pažeidęs šios tarnybos taisykles, jeigu dėl to atsirado sunkių
 
 padarinių,
 
@@ -11990,9 +12054,7 @@ būdais iki nustatyto amžiaus neatlikęs privalomosios pradinės ar
 
 alternatyviosios tarnybos ir nuo jos neatleistas.
 
-Lietuvos
-
-Respublikos
+Lietuvos Respublikos
 
 baudžiamojo
 
@@ -12002,11 +12064,19 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-2002 m. birželio
+1. 2002 m. birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio ir
 
-13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio ir valstybių narių
+valstybių narių tarpusavio perdavimo procedūrų.
 
-tarpusavio perdavimo procedūrų.
+2. 2002 m. lapkričio 28 d. Tarybos direktyva 2002/90/EB, apibrėžianti padėjimą neteisėtai atvykti, vykti
+
+tranzitu ir apsigyventi.
+
+3. 2002 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2002/946/TVR dėl bausmių sistemos stiprinimo
+
+siekiant užkirsti kelią padėjimui neteisėtai atvykti, vykti tranzitu ir
+
+apsigyventi.
 
 Kodeksas papildytas priedu:
 
@@ -12014,7 +12084,13 @@ Nr. IX-2169,
 
 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
 
-_________________
+Priedo pakeitimai:
+
+Nr. X-61, 2004-12-22,
+
+Žin., 2004, Nr. 188-6995 (2004-12-31)
+
+_______________
 
 Pakeitimai:
 
@@ -12222,13 +12298,29 @@ BAUDŽIAMOJO
 
 KODEKSO PAPILDYMO 250(1) STRAIPSNIU ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-61,
+
+2004-12-22, Žin., 2004, Nr. 188-6995 (2004-12-31)
+
+BAUDŽIAMOJO
+
+KODEKSO 292 STRAIPSNIO PAKEITIMO IR PRIEDO PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-12-01)
+Aušrinė Trapinskienė (2004-12-31)
 
 autrap@lrs.lt
 
