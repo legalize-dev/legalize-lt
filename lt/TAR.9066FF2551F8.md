@@ -4,7 +4,7 @@ identifier: "TAR.9066FF2551F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2000-06-02"
+last_updated: "2003-07-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9066FF2551F8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,18 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės įstatymas
+
+Įstatymas netenka galios 2004-05-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+
+Lietuvos Respublikos konkurencijos įstatymo pakeitimo ir papildymo, Valstybės pagalbos ūkio subjektams kontrolės įstatymo pripažinimo netekusiu galios ir Civilinio proceso kodekso 1 straipsnio pakeitimo įstatymas
+
+Suvestinė redakcija nuo 2003-07-25 iki 2004-04-30
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 45-1292; Žin. 2000, Nr.46-0, i. k. 1001010ISTAIII-1689
 
 LIETUVOS RESPUBLIKOS
 
@@ -72,7 +84,11 @@ BENDROSIOS NUOSTATOS
 
 3) vidutinė įmonė – įmonė, kurioje dirba iki 250 darbuotojų, metinės pajamos neviršija 160 000 000 litų arba bendra įmonės turto vertė ne didesnė kaip 108 000 000 litų.
 
-15. Savarankiška maža ar vidutinė įmonė – maža ar vidutinė įmonė, kurios ne daugiau kaip 25 procentai kapitalo ar balsavimo teisių nuosavybės teise priklauso kitoms, ne mažoms ar vidutinėms, įmonėms (išskyrus investicines bendroves).
+15. Savarankiška maža ar vidutinė įmonė – maža ar vidutinė įmonė, kurios ne daugiau kaip 25 procentai kapitalo ar balsavimo teisių nuosavybės teise priklauso kitoms, ne mažoms ar vidutinėms, įmonėms (išskyrus kolektyvinio investavimo subjektus ar juos valdančias valdymo įmones).
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1718, 2003-07-04, Žin., 2003, Nr. 74-3433 (2003-07-25), i. k. 1031010ISTA0IX-1718
 
 16. Regionas – Lietuvos Respublikos valstybės teritorijos dalis, kurios ūkio subjektams gali būti teikiama pagalba, atitinkanti regioninės politikos tikslus.
 
@@ -369,4 +385,14 @@ Konkurencijos taryba ne vėliau kaip per 3 mėnesius nuo šio įstatymo įsigali
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1718, 2003-07-04, Žin., 2003, Nr. 74-3433 (2003-07-25), i. k. 1031010ISTA0IX-1718
+
+Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės įstatymo 2 straipsnio pakeitimo įstatymas
 
