@@ -4,7 +4,7 @@ identifier: "TAR.2BD05C3A63E1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-14"
-last_updated: "1998-12-31"
+last_updated: "1999-04-23"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2BD05C3A63E1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo  2 straipsnis  įsigalioja per 10 d
 ---
 # Laikinosios atsiskaitymų tvarkos ir sąlygų įstatymas
 
-Suvestinė redakcija nuo 1998-12-31 iki 1999-04-22
+Suvestinė redakcija nuo 1999-04-23 iki 1999-07-08
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 31-711, i. k. 0931010ISTA000I-218
 
@@ -60,6 +60,12 @@ Vilnius
 2. Lietuvos Respublikos Vyriausybė užtikrina, kad jos nutarimuose nustatomi delspinigiai neviršytų 0,2 procento.
 
 3. Žemės ūkio produkcijos gamintojai, žemės ūkio produkciją superkančios, perdirbančios bei prekybos ir kitos įmonės, parduodančios žemės ūkio produkciją ir maisto produktus, sudarydamos tarpusavio sutartis, atsiskaitymo sąlygas numato ne blogesnes, negu nustatytos šio įstatymo.
+
+4. Žemės ūkio produkcijos supirkimo, perdirbimo, prekybos ir kitos įmonės privalo sudaryti su žemės ūkio produkcijos gamintojais žemės ūkio produkcijos pirkimo sutartis pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintą tipinę žemės ūkio produkcijos pirkimo sutarties formą. Pažeidus įstatymo reikalavimus, šių įmonių vadovai atsako įstatymų ir sutartyje nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-1133, 1999-04-08, Žin., 1999, Nr. 36-1063 (1999-04-23), i. k. 0991010ISTAIII-1133
 
 4 straipsnis. Pirkėjų atsakomybė
 
@@ -138,6 +144,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-992, 1998-12-21, Žin., 1998, Nr. 115-3244 (1998-12-31), i. k. 0981010ISTAVIII-992
 
 Lietuvos Respublikos laikinosios atsiskaitymų tvarkos ir sąlygų įstatymo 5 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1133, 1999-04-08, Žin., 1999, Nr. 36-1063 (1999-04-23), i. k. 0991010ISTAIII-1133
+
+Lietuvos Respublikos laikinosios atsiskaitymų tvarkos ir sąlygų įstatymo 3 straipsnio papildymo įstatymas
 
 6 straipsnis. Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos banko statuto ir pagrindinio kapitalo“ 4 dalį (Žin., 1990, Nr. 27-636), pagal kurią Lietuvos bankas buvo atleistas nuo mokesčių į valstybės biudžetą, pripažinti netekusia galios.
 
