@@ -4,7 +4,7 @@ identifier: "TAR.DF841CFAEF29"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-11-12"
-last_updated: "2003-04-29"
+last_updated: "2005-03-24"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DF841CFAEF29"
 department: "Lietuvos Respublikos Seimas"
@@ -19,11 +19,21 @@ document_status: "registruotas TA registre"
 
 Neoficialus įstatymo tekstas
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO ĮGYVENDINIMO
+RESPUBLIKOS
 
-ĮSTATYMAS
+valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams
+
+namams modernizuoti įstatymo įgyvendinimo
+
+įstatymas
+
+Įstatymo pavadinimas keistas:
+
+Nr. X-145, 2005-03-24,
+
+Žin., 2005, Nr. 47-1556 (2005-04-12)
 
 2002 m. lapkričio 12 d. Nr. IX-1189
 
@@ -31,47 +41,67 @@ Vilnius
 
 1 straipsnis. Valstybės paramos būstui įsigyti ar
 
-išsinuomoti įstatymo taikymas asmenims, įrašytiems į eiles valstybės paramai
+išsinuomoti bei daugiabučiams namams modernizuoti įstatymo taikymas asmenims,
 
-gauti pagal Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą
+įrašytiems į eiles valstybės paramai gauti pagal Gyventojų apsirūpinimo
 
-Asmenys
+gyvenamosiomis patalpomis įstatymą
 
-(šeimos), įrašyti į eiles valstybės paramai gauti pagal Gyventojų apsirūpinimo
+Asmenys (šeimos), įrašyti į eiles
 
-gyvenamosiomis patalpomis įstatymą ir turintys teisę į savivaldybės socialinio
+valstybės paramai gauti pagal Gyventojų apsirūpinimo gyvenamosiomis patalpomis
 
-būsto nuomą pagal Valstybės paramos būstui įsigyti ar išsinuomoti įstatymą,
+įstatymą ir turintys teisę į savivaldybės socialinio būsto nuomą pagal
 
-jeigu pageidauja, vadovaujantis Gyventojų apsirūpinimo gyvenamosiomis
+Valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams
 
-patalpomis įstatyme nustatytais eilių sudarymo kriterijais įrašomi į
+modernizuoti įstatymą, jeigu pageidauja, vadovaujantis Gyventojų apsirūpinimo
 
-atitinkamus asmenų, turinčių teisę į socialinį būstą, sąrašus, kurie yra
+gyvenamosiomis patalpomis įstatyme nustatytais eilių sudarymo kriterijais
 
-nurodyti Valstybės paramos būstui įsigyti ar išsinuomoti įstatyme. Šių asmenų
+įrašomi į atitinkamus asmenų, turinčių teisę į socialinį būstą, sąrašus, kurie
 
-įrašymo į nurodytus sąrašus tvarką nustato Vyriausybė ar jos įgaliota
+yra nurodyti Valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams
 
-institucija.
+namams modernizuoti įstatyme. Šių asmenų įrašymo į nurodytus sąrašus tvarką
 
-2 straipsnis. Valstybės paramos būstui įsigyti ar
+nustato Vyriausybė ar jos įgaliota institucija.
 
-išsinuomoti įstatymo taikymas asmenims, kurie yra išsinuomoję savivaldybės
+Straipsnio pakeitimai:
+
+Nr. X-145, 2005-03-24,
+
+Žin., 2005, Nr. 47-1556 (2005-04-12)
+
+2 straipsnis.
+
+Valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams
+
+modernizuoti įstatymo taikymas asmenims, kurie yra išsinuomoję savivaldybės
 
 gyvenamąsias patalpas pagal Gyventojų apsirūpinimo gyvenamosiomis patalpomis
 
 įstatymą
 
-Asmenims (šeimoms), kurie yra išsinuomoję savivaldybės gyvenamąsias
+Asmenims
 
-patalpas pagal Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą,
+(šeimoms), kurie yra išsinuomoję savivaldybės gyvenamąsias patalpas pagal
 
-Valstybės paramos būstui įsigyti ar išsinuomoti įstatyme nustatytas socialinio
+Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą, Valstybės paramos
 
-būsto naudingojo ploto normatyvas ir šio būsto nuomos sąlygos netaikomi ir dėl
+būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatyme
 
-to nuomos sutartis nekeičiama, išskyrus Civiliniame kodekse numatytus atvejus.
+nustatytas socialinio būsto naudingojo ploto normatyvas ir šio būsto nuomos
+
+sąlygos netaikomi ir dėl to nuomos sutartis nekeičiama, išskyrus Civiliniame
+
+kodekse numatytus atvejus.
+
+Straipsnio pakeitimai:
+
+Nr. X-145, 2005-03-24,
+
+Žin., 2005, Nr. 47-1556 (2005-04-12)
 
 2(1)
 
@@ -115,9 +145,9 @@ vaikų, padengiama 10 procentų kredito likučio sumos.
 
 Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą,
 
-Valstybės paramos būstui įsigyti ar išsinuomoti įstatymo 6 straipsnio 1 dalyje
+Valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams
 
-numatytos subsidijos neteikiamos.
+modernizuoti įstatymo 6 straipsnio 1 dalyje numatytos subsidijos neteikiamos.
 
 Įstatymas papildytas straipsniu:
 
@@ -125,15 +155,33 @@ Nr. IX-1550,
 
 2003-04-29, Žin., 2003, Nr. 47-2066 (2003-05-14)
 
-3 straipsnis. Valstybės paramos būstui įsigyti ar
+Straipsnio pakeitimai:
 
-išsinuomoti įstatymo įgyvendinimo finansavimas
+Nr. X-145, 2005-03-24,
 
-Valstybės paramos būstui įsigyti ar išsinuomoti įstatymui įgyvendinti
+Žin., 2005, Nr. 47-1556 (2005-04-12)
 
-valstybės biudžete yra numatomi asignavimai Specialiajai valstybės paramos
+3 straipsnis.
 
-gyvenamiesiems namams, butams įsigyti finansavimo programai.
+Valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams
+
+modernizuoti įstatymo įgyvendinimo finansavimas
+
+Valstybės
+
+paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti
+
+įstatymui įgyvendinti valstybės biudžete yra numatomi asignavimai Specialiajai
+
+valstybės paramos gyvenamiesiems namams, butams įsigyti finansavimo programai
+
+ir Daugiabučių namų modernizavimo programai.
+
+Straipsnio pakeitimai:
+
+Nr. X-145, 2005-03-24,
+
+Žin., 2005, Nr. 47-1556 (2005-04-12)
 
 4 straipsnis.
 
@@ -173,147 +221,35 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO PAPIL
 
 ĮSTATYMAS
 
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-145,
+
+2005-03-24, Žin., 2005, Nr. 47-1556 (2005-04-12)
+
+VALSTYBĖS
+
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO PAVADINIMO
+
+IR 1, 2, 2(1), 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Keistas
+
+įstatymo pavadinimas
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-05-22)
+Aušrinė Trapinskienė (2005-04-13)
 
 autrap@lrs.lt
-
-21 straipsnis. Subsidijų būsto kredito ar
-
-kredito likučio daliai apmokėti teikimas šeimoms ar asmenims, iki 2002 m. gruodžio 31 d.
-
-lengvatinėmis sąlygomis gavusiems kreditus pagal Gyventojų apsirūpinimo
-
-gyvenamosiomis patalpomis įstatymą
-
-1. Šeimoms ir
-
-asmenims, iki 2002 m. gruodžio 31 d. lengvatinėmis sąlygomis gavusiems kreditus
-
-pagal Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą, apmokama 20
-
-procentų kredito likučio sumos, jeigu asmeniui ar šeimos nariui po 2003 m. sausio 1 d. yra nustatyta I ar II invalidumo grupė arba Neįgaliųjų socialinės integracijos
-
-įstatymo nustatyta tvarka jis yra pripažintas nedarbingu (netekusiu 75–100 procentų
-
-darbingumo) ar iš dalies darbingu (netekusiu 60–70 procentų darbingumo), arba jis
-
-sukako senatvės pensijos amžių ir jam nustatyta specialiųjų poreikių tenkinimo
-
-reikmė, arba šeimos narys yra pripažintas vaiku invalidu, arba Neįgaliųjų
-
-socialinės integracijos įstatymo nustatyta tvarka jam yra nustatytas neįgalumo
-
-lygis.
-
-2. Šeimoms ir
-
-asmenims, iki 2002 m. gruodžio 31 d. lengvatinėmis sąlygomis gavusiems kreditus
-
-pagal Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą ir jeigu po 2003 m. sausio 1 d. asmuo ar šeimos narys susirgo lėtinės ligos, įrašytos į Vyriausybės ar jos
-
-įgaliotos institucijos patvirtintą sąrašą, sunkia forma, bei šeimoms, kuriose
-
-po 2003 m. sausio 1 d. gimė arba buvo įvaikintas ketvirtas ir daugiau vaikų,
-
-apmokama 10 procentų kredito likučio sumos.
-
-3. Šeimoms ir
-
-asmenims, iki 2002 m. gruodžio 31 d. lengvatinėmis sąlygomis gavusiems kreditus
-
-pagal Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą, jeigu jame nustatyta tvarka
-
-nustatytos papildomos lengvatos nebuvo suteiktos, apmokama 20 procentų kredito
-
-likučio sumos, jeigu asmeniui ar šeimos nariui iki 2002 m. gruodžio 31 d. yra nustatyta I ar II invalidumo grupė arba šeimos narys yra pripažintas vaiku
-
-invalidu.
-
-4. Šeimoms ir
-
-asmenims, iki 2002 m. gruodžio 31 d. lengvatinėmis sąlygomis gavusiems kreditus
-
-pagal Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą, jeigu jame nustatyta tvarka
-
-nustatytos papildomos lengvatos nebuvo suteiktos, apmokama 10 procentų kredito
-
-likučio sumos, jeigu asmuo ar šeimos narys iki 2002 m. gruodžio 31 d. susirgo lėtinės ligos, įrašytos į Vyriausybės ar jos įgaliotos institucijos
-
-patvirtintą sąrašą, sunkia forma arba jeigu šeimai iki 2002 m. gruodžio 31 d. gimė (arba jos buvo įvaikintas) ketvirtas ar daugiau vaikų.
-
-5. Kitoms šeimoms ir asmenims,
-
-iki 2002 m. gruodžio 31 d. lengvatinėmis sąlygomis gavusiems kreditus pagal
-
-Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą, Valstybės paramos
-
-būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo 6
-
-straipsnio 1 dalyje numatytos subsidijos
-
-neteikiamos.
-
-Įstatymas papildytas straipsniu:
-
-Nr. IX-1550,
-
-2003-04-29, Žin., 2003, Nr. 47-2066 (2003-05-14)
-
-Straipsnio pakeitimai:
-
-Nr. X-145, 2005-03-24,
-
-Žin., 2005, Nr. 47-1556 (2005-04-12)
-
-Nr. X-320, 2005-07-05,
-
-Žin., 2005, Nr. 88-3288 (2005-07-21)
-
-Nr. X-1733,
-
-2008-09-29, Žin., 2008, Nr. 120-4545 (2008-10-18)
-
-22 straipsnis. Valstybės paramos teikimas
-
-daugiabučių namų butų savininkams, įgyvendinantiems daugiabučių namų
-
-modernizavimo projektus, kuriems Vyriausybės nustatyta tvarka buvo pritarta iki
-
-Valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams
-
-modernizuoti įstatymo pavadinimo, 1, 2 straipsnių ir penktojo skirsnio
-
-pakeitimo ir papildymo įstatymo įsigaliojimo dienos
-
-Valstybės parama daugiabučių namų
-
-butų savininkams, įgyvendinantiems daugiabučių namų modernizavimo
-
-projektus, kuriems Vyriausybės nustatyta tvarka buvo pritarta iki Valstybės
-
-paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti
-
-įstatymo pavadinimo, 1, 2 straipsnių ir penktojo skirsnio pakeitimo ir
-
-papildymo įstatymo įsigaliojimo dienos, teikiama pagal iki nurodyto įstatymo
-
-įsigaliojimo dienos galiojusias Valstybės paramos daugiabučiams namams
-
-modernizuoti teikimo ir investicijų projektų energinio efektyvumo nustatymo
-
-taisykles.
-
-Įstatymas papildytas straipsniu:
-
-Nr.
-
-XI-356,
-
-2009-07-17, Žin., 2009, Nr. 93-3962 (2009-08-04)
 
