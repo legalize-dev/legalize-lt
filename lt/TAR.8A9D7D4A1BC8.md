@@ -4,7 +4,7 @@ identifier: "TAR.8A9D7D4A1BC8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "1997-06-05"
+last_updated: "1998-04-07"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A9D7D4A1BC8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,11 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vietinių rinkliavų įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.06.19)
+Ramunė Lūžaitė (1998.05.06)
 
 Įstatymas
 
@@ -40,6 +40,20 @@ Respublikos Seimas, Įstatymas
 Nr.
 
 VIII-237, 97.06.05, Žin., 1997, Nr.58-1329 (97.06.20)
+
+LIETUVOS
+
+RESPUBLIKOS VIETINIŲ RINKLIAVŲ ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-689,
+
+98.04.07, Žin., 1998, Nr.38-998 (98.04.22)
 
 LIETUVOS
 
@@ -123,13 +137,15 @@ vizualinę  komercinę  reklamą  ant  savivaldybei nuosavybės teise prikla
 
 ir jos valdomų patikėjimo teise objektų;
 
-4)
+4) automobilių stovėjimo laiką savivaldybės tarybos nustatytose miestų gatvių
 
-automobilių stovėjimo laiką savivaldybės tarybos nustatytose miestų gatvių bei
+bei aikščių vietose, taip pat mechaninių transporto priemonių įvažiavimą į
 
-aikščių vietose, taip pat mechaninių transporto priemonių įvažiavimą į
+valstybės ir savivaldybių saugomas teritorijas, išskyrus važiavimą per šias
 
-valstybės ir savivaldybių saugomas teritorijas.
+teritorijas magistraliniais ir krašto keliais, naudojimąsi jų statiniais,
+
+stovėjimo ir poilsio aikštelėmis, terminalais bei pasienio kontrolės punktais.
 
 Straipsnio
 
@@ -138,6 +154,12 @@ pakeitimai:
 Nr.
 
 VIII-237, 97.06.05, Žin., 1997, Nr.58-1329 (97.06.20)
+
+Nr.
+
+VIII-689, 98.04.07, Žin., 1998, Nr.38-998
+
+(98.04.22)
 
 4
 
@@ -213,11 +235,11 @@ kontrolė
 
 Vietinių
 
-rinkliavų rinkimą ir iš jų gautų pajamų apskaitą savivaldybių   biudžetuose
+rinkliavų rinkimą ir iš jų gautų pajamų apskaitą savivaldybių   biudžetuose   kontroliuoja
 
-kontroliuoja   savivaldybės kontrolieriai bei Valstybės kontrolės ir
+savivaldybės kontrolieriai bei Valstybės kontrolės ir Valstybinės mokesčių
 
-Valstybinės mokesčių inspekcijos prie Finansų ministerijos institucijos.
+inspekcijos prie Finansų ministerijos institucijos.
 
 9
 
@@ -247,11 +269,9 @@ straipsnis. Vietinių rinkliavų įstatymo įgyvendinimas
 
 Savivaldybių tarybos per mėnesį nuo šio įstatymo įsigaliojimo dienos turi
 
-priimti sprendimus dėl vietinių rinkliavų, nustatyti jas pagal šio įstatymo
+priimti sprendimus dėl vietinių rinkliavų, nustatyti jas pagal šio įstatymo nuostatas,
 
-nuostatas, o vietines rinkliavas, kurios prieštarauja šiam įstatymui, -
-
-panaikinti.
+o vietines rinkliavas, kurios prieštarauja šiam įstatymui, - panaikinti.
 
 2.
 
@@ -273,5 +293,5 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS           ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                               ALGIRDAS BRAZAUSKAS
 
