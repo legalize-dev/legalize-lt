@@ -4,7 +4,7 @@ identifier: "TAR.CDC433E7BED2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-07"
-last_updated: "1999-03-30"
+last_updated: "1999-04-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1996
 
 Redagavo:
 
-Ramunė Lūžaitė (1999.04.14)
+Ramunė Lūžaitė (1999.05.10)
 
 Įstatymas
 
@@ -105,9 +105,25 @@ Nr. VIII-1115,
 
 LIETUVOS RESPUBLIKOS
 
-UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 4 IR 7 STRAIPSNIŲ PAKEITIMO
+UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 4 IR 7 STRAIPSNIØ PAKEITIMO
 
 ĮSTATYMAS
+
+6.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr.
+
+VIII-1154, 99.04.22, Ţin., 1999, Nr.39-1201 (99.05.05)
+
+LIETUVOS
+
+RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO
+
+PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -177,15 +193,15 @@ VIII-552, 97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
 
 straipsnis. Užsienio valiutos naudojimas
 
-Užsienio
+Užsienio valiuta gali būti naudojama
 
-valiuta  gali  būti  naudojama mokėjimams bei atsiskaitymams su užsienio
+mokėjimams bei atsiskaitymams su užsienio valstybių juridiniais ir fiziniais
 
-valstybių juridiniais ir fiziniais asmenimis,  esančiais  ne  Lietuvos
+asmenimis, esančiais ne Lietuvos Respublikoje. Užsienio valiuta taip pat gali
 
-Respublikoje.  Užsienio valiuta taip pat gali  būti  naudojama  atsiskaitymams
+būti naudojama atsiskaitymams ir mokėjimams laisvosiose ekonominėse zonose tarp
 
-ir mokėjimams laisvosiose ekonominėse zonose bei neapmuitinamose parduotuvėse.
+zonos įmonių bei neapmuitinamose parduotuvėse.
 
 Lietuvos Respublikos ir užsienio valstybių
 
@@ -231,6 +247,10 @@ Nr.
 
 VIII-552, 97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
 
+Nr.
+
+VIII-1154, 99.04.22, Ţin., 1999, Nr.39-1201 (99.05.05)
+
 4
 
 straipsnis. Užsienio paskolos
@@ -275,7 +295,7 @@ kapitalo,  investuojamo Lietuvos Respublikoje, įvežimą,  taip pat šio kapi
 
 gauto pelno ir dividendų išvežimą  nustato  užsienio  kapitalo  investicijų
 
-Lietuvos Respublikoje  įstatymas  ir  Lietuvos  Respublikos  laisvųjų
+Lietuvos Respublikoje  įstatymas  ir  Lietuvos  Respublikos  laisvųjų
 
 ekonominių zonų pagrindų įstatymas.
 
@@ -345,9 +365,9 @@ taip pat akcijas, dividendus, tantjemas, draudimo atlyginimą, draudimo sumas ir
 
 kitas išmokas 1993 m. rugpjūčio 1 dienos duomenimis pagal Lietuvos banko
 
-nustatytą oficialų  kursą arba  kita  Lietuvos  Respublikos Vyriausybės nustatyta
+nustatytą oficialų  kursą arba  kita  Lietuvos  Respublikos Vyriausybės
 
-tvarka.
+nustatyta tvarka.
 
 Piniginiai
 
@@ -355,11 +375,11 @@ Piniginiai
 
 terminas baigiasi po 1993 m. rugpjūčio 1 dienos, išskyrus bankų įsipareigojimus
 
-išmokėti iš valiutinių sąskaitų indėlius, taip pat palūkanas už juos ir įsipareigojimus
+išmokėti iš valiutinių sąskaitų indėlius, taip pat palūkanas už juos ir
 
-bankams dėl užsienio valiuta išduotų paskolų grąžinimo, įvykdomi litais pagal
+įsipareigojimus bankams dėl užsienio valiuta išduotų paskolų grąžinimo,
 
-Lietuvos banko nustatytą oficialų kursą.
+įvykdomi litais pagal Lietuvos banko nustatytą oficialų kursą.
 
 9
 
