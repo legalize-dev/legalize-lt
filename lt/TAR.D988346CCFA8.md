@@ -4,7 +4,7 @@ identifier: "TAR.D988346CCFA8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-10-03"
-last_updated: "1991-10-21"
+last_updated: "1994-06-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D988346CCFA8"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -14,6 +14,10 @@ published_in_tar: "1991-10-03"
 document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo
+
+Suvestinė redakcija nuo 1994-06-08
+
+Įstatymas paskelbtas: Žin. 1991, Nr. 29-792, i. k. 0911010ISTA00I-1858
 
 LIETUVOS RESPUBLIKOS
 
@@ -29,15 +33,11 @@ Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 3. Lietuvos Respublikos materialinių išteklių ministeriją pavadinti Lietuvos Respublikos prekybos ir materialinių išteklių ministerija.
 
-4. Padaryti Lietuvos Respublikos Vyriausybės įstatymo 25 straipsnyje (Žin., 1990, Nr. 11-330, 11-347; 1991, Nr. 8-226) šiuos pakeitimus:
+4. Neteko galios nuo 1994-06-08
 
-l) papildyti šį straipsnį žodžiais:
+Punkto naikinimas:
 
-„Krašto apsaugos ministerija; Ryšių ir informatikos ministerija; Prekybos ir materialinių išteklių ministerija; Tarptautinių ekonominių santykių ministerija.“;
-
-2) išbraukti iš šio straipsnio žodžius:
-
-„Materialinių išteklių ministerija; Prekybos ministerija; Ryšių ministerija;“.
+Nr. I-486, 1994-05-31, Žin. 1994, Nr. 43-773 (1994-06-08), i. k. 0941010ISTA000I-486
 
 LIETUVOS RESPUBLIKOS
 
@@ -48,4 +48,14 @@ PIRMININKAS                                  �
 Vilnius, 1991 m. spalio 3 d.
 
 Nr. I-1858
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-486, 1994-05-31, Žin., 1994, Nr. 43-773 (1994-06-08), i. k. 0941010ISTA000I-486
+
+Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo
 
