@@ -4,7 +4,7 @@ identifier: "TAR.863886C4199F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-08"
-last_updated: "1997-07-09"
+last_updated: "1999-03-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.863886C4199F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos muziejų įstatymas
 
-Suvestinė redakcija nuo 1997-07-09 iki 1999-03-18
+Suvestinė redakcija nuo 1999-03-19 iki 2003-06-19
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1292, i. k. 0951010ISTA000I-930
 
@@ -33,7 +33,7 @@ Vilnius
 
 I. BENDROSIOS NUOSTATOS
 
-1 straipsnis. Muziejus,muziejinė vertybė ir rinkinys
+1 straipsnis. Muziejus, muziejinė vertybė ir rinkinys
 
 Muziejus – tai visuomenei tarnaujanti ir jos bei gamtos raidą atspindinti vieša, pastovi, šio įstatymo nustatyta tvarka įregistruota kultūros įstaiga, kurios svarbiausia veikla yra kaupti, saugoti, restauruoti, tirti, eksponuoti bei populiarinti materialines ir dvasines kultūros vertybes bei gamtos objektus.
 
@@ -96,6 +96,12 @@ Muziejus, turintis juridinio asmens teises, gali:
 Lietuvos Respublikos muziejų fondą sudaro Lietuvoje esančių muziejų rinkiniai, taip pat Lietuvai priklausančios muziejinės vertybės, esančios kitose valstybėse.
 
 Valstybinių muziejų fondas yra valstybinė nuosavybė. Šio fondo muziejinės vertybės ankstesniems savininkams negrąžinamos.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos muziejų įstatymo 5 straipsnio 2 dalis ta apimtimi, kuria paneigiama teisė išreikalauti kultūros vertybes iš svetimo neteisėto valdymo, kai jos valstybinių muziejų fondui yra atitekusios po 1990 m. kovo 11 d., prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsniui.
+
+Straipsnio dalies pakeitimai:
+
+1999-03-16, Žin., 1999, Nr. 26-740 (1999-03-19), i. k. 0991000NUTARG990487
 
 Muziejų fondo rinkiniai skirstomi į pagrindinį ir pagalbinį fondus.
 
@@ -308,4 +314,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-319, 1997-06-26, Žin., 1997, Nr. 65-1546 (1997-07-09), i. k. 0971010ISTAVIII-319
 
 Lietuvos Respublikos muziejų įstatymo 9 ir 21 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+1999-03-16, Žin., 1999, Nr. 26-740 (1999-03-19), i. k. 0991000NUTARG990487
+
+Dėl Lietuvos Respublikos muziejų įstatymo 5 straipsnio 2 dalies atitikimo Lietuvos Respublikos Konstitucijai
 
