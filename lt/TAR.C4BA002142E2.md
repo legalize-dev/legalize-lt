@@ -4,7 +4,7 @@ identifier: "TAR.C4BA002142E2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-27"
-last_updated: "1995-05-17"
+last_updated: "1999-07-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C4BA002142E2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,11 +16,19 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos cukraus įstatymas
 
+Suvestinė redakcija nuo 1999-07-28 iki 2000-06-01
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 41-990, i. k. 0951010ISTA000I-867
+
+Nauja redakcija nuo 1999-07-28:
+
+Nr. VIII-1323, 1999-07-08, Žin. 1999, Nr. 65-2089 (1999-07-28), i. k. 0991010ISTAIII-1323
+
 LIETUVOS RESPUBLIKOS
 
 CUKRAUS
 
-Į S T A T Y M A S
+ĮSTATYMAS
 
 1995 m. balandžio 27 d. Nr. I-867
 
@@ -28,71 +36,89 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šio įstatymo tikslas – sunorminti cukrinių runkelių augintojų, perdirbėjų, cukraus rinkos dalyvių bei valstybės institucijų santykius, kurių nereguliuoja kiti Lietuvos Respublikos įstatymai, ir sudaryti prielaidas valstybės cukraus politikai įgyvendinti.
+Šio įstatymo tikslas – nustatyti cukraus rinkos dalyvių bei valstybės institucijų santykius.
 
-2 straipsnis. Pagrindinės sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-Šiame įstatyme:
+1. Cukrus – saldus kristalinis arba skystas cukraus žaliavos perdirbimo produktas.
 
-cukrus – saldus kristalinis arba skystas cukrinių runkelių ar cukraus pusgaminio perdirbimo produktas;
+2. Cukraus žaliava – cukriniai runkeliai, pusgaminis (nebaigtos cukraus gamybos produktas, gautas perdirbus cukringus augalus), melasa.
 
-cukraus pusgaminis – nebaigtos cukraus gamybos produktas, gautas perdirbus cukringus augalus;
+3. Cukraus režimas – Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintų cukrinių runkelių auginimo, cukraus žaliavos įvežimo, perdirbimo, cukraus rinkos reguliavimo priemonių visuma.
 
-cukraus rinka – mainų sritis, apimanti didmeninę ir mažmeninę prekybą cukrumi bei jo pusgaminiais;
+4. Produktai, kuriems taikomas cukraus režimas – Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintas produktų, kurių gamyba, importas ir eksportas gali turėti įtakos bendram cukraus gamybos balansui Lietuvoje, sąrašas.
 
-cukraus rinkos dalyviai – cukraus gamintojai, vartotojai ir prekiautojai cukrumi bei jo pusgaminiais;
+5. Cukraus rinka – mainų sritis, apimanti cukraus, jo žaliavos ir produktų, kuriems taikomas cukraus režimas, pirkimą ir pardavimą, importą ir eksportą.
 
-cukraus gamintojų susivienijimas – cukrinių runkelių perdirbėjų, cukrinių runkelių augintojų ir perdirbėjų susivienijimas, sudaromas savanoriškumo ir ūkinio savarankiškumo pagrindais.
+6. Cukraus rinkos dalyviai – cukrinių runkelių augintojai, cukraus, cukraus žaliavos ir cukraus produktų, kuriems taikomas cukraus režimas, gamintojai, importuotojai, prekiautojai, vartotojai.
+
+7. Cukrinių runkelių auginimo, supirkimo ir perdirbimo kvota – cukraus pramonei privalomas supirkti ir perdirbti cukrinių runkelių kiekis.
+
+8. Automatinis importo licencijavimas – leidimo (licencijos) išdavimas visais importo atvejais, kai ūkio subjektas įvykdo nustatytus reikalavimus, kad gautų leidimą (licenciją).
 
 3 straipsnis. Valstybės cukraus politika
 
-Valstybė remia vietinės cukraus žaliavos auginimo ir perdirbimo pramonės plėtrą.
+Valstybė sudaro būtinas sąlygas vietinei cukraus žaliavai – cukriniams runkeliams – auginti ir perdirbti, skatina šios srities plėtrą, užtikrina, kad bus išsaugotas cukrinių runkelių auginimas dabar esančių auginimo zonų (Kėdainių, Marijampolės, Panevėžio ir Pavenčių) rajonuose.
 
-Valstybė garantuoja ir gina nepriklausomą nuo užsienio rinkos šalies aprūpinimą cukrumi.
+4 straipsnis. Valstybinio reglamentavimo priemonės
 
-4 straipsnis. Cukraus vidaus rinkos gynimo priemonės
+1. Lietuvos Respublikoje cukrinių runkelių auginimas ir perdirbimas, vietinės gamybos cukraus pirkimas ir pardavimas, cukraus, cukraus žaliavos, produktų, kuriems taikomas cukraus režimas, importas ir eksportas yra valstybės reglamentuojamas ir atliekamas pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintą cukraus režimą. Režime turi būti nustatyta:
 
-Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos, gindamos cukraus gamintojus:
+1) cukraus balanso sudarymo tvarka;
 
-1) tiria cukraus rinkos konjunktūrą ir kainas, viešai skelbia šią informaciją;
+2) rinkai reikalingo cukraus kasmetinio kiekio nustatymo tvarka;
 
-2) rengia šalies cukraus gamybos, importo ir eksporto balanso projektus, jų ekonominį pagrindimą;
+3) privalomo supirkti cukrinių runkelių kiekio, minimalių ribinių supirkimo kainų nustatymo taisyklės;
 
-3) vykdo valstybės cukraus ir jo pusgaminių muitų politiką;
+4) cukraus, cukraus žaliavos ir produktų, kuriems taikomas cukraus režimas, sąrašas, jų importo reguliavimas ir kontrolė;
 
-4) tvirtina cukraus slenkstines kainas, atsižvelgdamos į cukraus mažmeninių kainų kitimą;
+5) cukraus gamybos ir realizavimo kontrolė bei cukraus, cukraus žaliavos importo ir eksporto automatinis licencijavimas.
 
-5) taiko kvotas cukraus ir jo pusgaminių importui.
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija gali taikyti ir kitas cukraus rinkos reguliavimo priemones, saugančias cukrinių runkelių augintojų, cukraus gamintojų ir vartotojų interesus.
 
-Draudžiama perdirbimo pramonei įvežti į šalį cukraus pusgaminį, kol ji nesupirko cukrinių runkelių pagal Lietuvos Respublikos Vyriausybės nustatytas kvotas. Stichinių nelaimių ir nederliaus metais cukraus pusgaminių įvežimą reguliuoja Lietuvos Respublikos Vyriausybė.
+3. Jeigu dėl stichinių nelaimių ar nederliaus šalies rinkoje trūksta iš cukrinių runkelių pagaminto cukraus, cukraus žaliavos ar cukraus įvežimą reglamentuoja Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
-5 straipsnis. Cukraus vidaus rinkos reguliavimo priemonės
+5 straipsnis. Cukraus realizavimo, laikymo ir gabenimo reikalavimai
 
-Lietuvos Respublikoje taikomos šios cukraus rinkos reguliavimo priemonės:
+Lietuvos Respublikoje ūkio subjektams draudžiama realizuoti, laikyti ir įvežti į šalį cukrų be juridinę galią turinčių apskaitos dokumentų.
 
-1) vietinės cukraus žaliavos supirkimo kvotos ir kainos;
+6 straipsnis. Cukrinių runkelių auginimas, supirkimas ir perdirbimas
 
-2) minimali kaina produkcijos, kuri pagaminta iš žaliavos, supirktos pagal kvotas;
+1. Cukrui iš cukrinių runkelių gaminti ir cukrinių runkelių augintojų santykiams nustatyti taikomos cukrinių runkelių auginimo, supirkimo ir perdirbimo kvotos.
 
-3) didmeninė prekyba cukrumi – tik fabrikuose ir prekių biržose;
+2. Valstybė garantuoja cukrinių runkelių auginimo, supirkimo ir perdirbimo kvotų ekonominę apsaugą.
 
-4) valstybinė cukraus kokybės kontrolė ir sertifikavimas;
+3. Cukrinių runkelių auginimo, supirkimo ir perdirbimo kvota turi būti suderinta su metiniu cukraus gaminimo kiekiu ir negali būti mažesnė už šalyje suvartojamą smulkaus cukraus kiekį.
 
-5) žalos, padarytos dėl neteisėtos prekybos cukrumi, išieškojimas šalies cukraus gamintojų naudai.
+4. Cukrinių runkelių auginimo metinę valstybinę kvotą nustato Vyriausybė arba jos įgaliota institucija, kvotas rajonams patikslina Žemės ūkio rūmai.
 
-Lietuvos Respublikos Vyriausybė nustato šių priemonių taikymo tvarką ir sąlygas. Ji gali taikyti ir kitas kontrolės priemones.
+5. Tarp augintojų kylančius ginčus dėl kvotų sprendžia Žemės ūkio rūmai.
 
-6 straipsnis. Cukraus gamybos centralizavimas
+6. Augintojų kvotos gali būti perleidžiamos kitiems to rajono augintojams cukrinių runkelių augintojų kooperatyvų nustatyta tvarka.
 
-Steigiant cukraus gamintojų susivienijimą, netaikomos Lietuvos Respublikos konkurencijos įstatymo sankcijos, nustatytos dominuojantiems rinkos subjektams.
+7. Keičiant bendras cukrinių runkelių auginimo, supirkimo ir perdirbimo kvotas, jos proporcingai didinamos arba mažinamos visiems kvotų turėtojams.
 
-Lietuvos cukraus gamintojų susivienijimo steigimą ir jo veiklą koordinuoja Lietuvos Respublikos Vyriausybės įgaliota valstybės institucija.
+8. Padidėjus augintojų kvotai, 5 procentai padidėjusios kvotos dalies skiriama naujiems tos zonos cukrinių runkelių augintojams.
 
-7 straipsnis. Lėšų centralizavimas ir naudojimas
+9. Pagal kvotas superkamų cukrinių runkelių pristatymo iš augintojų laikino sandėliavimo aikštelių į cukraus fabrikus faktinės išlaidos dengiamos iš cukraus gamintojų lėšų.
 
-Cukraus žaliavos auginimo ir perdirbimo techniniam pertvarkymui bei cukraus rinkos infrastruktūrai sukurti steigiamas Cukraus fondas. Cukraus fondas steigiamas kaip pelno nesiekianti institucija.
+7 straipsnis. Baigiamosios nuostatos
 
-Cukraus fondo kapitalą sudaro cukraus fabrikų įnašai; lėšos, gautos pardavus licencijas cukraus importui; muito mokestis už cukraus pusgaminio įvežimą; valstybės, Lietuvos ir užsienio juridinių bei fizinių asmenų lėšos; taip pat paskolos ir kitos lėšos, skirtos cukraus tikslinėms programoms įgyvendinti.
+Pasiūlyti Vyriausybei spręsti pagal kvotas superkamų cukrinių runkelių pristatymo į cukraus fabrikus faktinių išlaidų padengimo klausimą.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1323, 1999-07-08, Žin., 1999, Nr. 65-2089 (1999-07-28), i. k. 0991010ISTAIII-1323
+
+Lietuvos Respublikos cukraus įstatymo pakeitimo įstatymas
 
 8 straipsnis. Cukrinių runkelių supirkimo kreditavimas
 
