@@ -4,7 +4,7 @@ identifier: "TAR.90F8B1B91FDB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-26"
-last_updated: "1995-07-05"
+last_updated: "1997-06-17"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.90F8B1B91FDB"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,41 +15,63 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kainų įstatymas
 
-Redaguota: 1995 07 19
+Redagavo: Ramunė Lūžaitė (1997
 
-Redaguota: 1995
+Redagavo:
 
-07 19
-
-Pakeitimai:
-
-1. 1-261;
-
-1993.10.05.
-
-Žin.,1993,
-
-Nr.52-1000;
-
-2. Lietuvos
-
-Respublikos 1995 07 05
+Ramunė Lūžaitė (1997.07.03)
 
 Įstatymas
 
-Nr. 1-1020
+paskelbtas: Žin., 1990, Nr.22-542
 
-žin., 1995,
+Neoficialus
 
-Nr.59-1480
+įstatymo tekstas
 
-DĖL LIETUVOS
+Pakeitimai:
 
-RESPUBLIKOS KAINŲ
+1.
 
-ĮSTATYMO 12
+Lietuvos
 
-STRAIPSNIO PAKEITIMO
+Respublikos Seimas, Įstatymas
+
+1-261;
+
+1993.10.05. Žin.,1993, Nr.52-1000
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+1-1020, 95.07.05, žin., 1995, Nr.59-1480
+
+DĖL
+
+LIETUVOS RESPUBLIKOS KAINŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-262, 97.06.17, Žin., 1997, Nr.63-1472 (97.07.02)
+
+LIETUVOS
+
+RESPUBLIKOS KAINŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
@@ -59,295 +81,167 @@ K A I N Ų
 
 1 straipsnis.
 
-Šis įstatymas
+Šis įstatymas nusako kainų
 
-nusako  kainų  sistemos,  jų  reguliavimo  ir
+sistemos, jų reguliavimo ir kontrolės pagrindus Lietuvos Respublikoje.
 
-kontrolės pagrindus
+Įstatymo 6, 7, 12 ir 13 straipsnių nuostatos netaikomos elektros energijos,
 
-Lietuvos Respublikoje.
+centralizuotos šilumos ir karšto vandens bei gamtinių dujų kainoms.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-262, 97.06.17, Žin., 1997, Nr.63-1472 (97.07.02)
 
 2 straipsnis.
 
-Lietuvos
+Lietuvos Respublikoje veikia:
 
-Respublikoje veikia:
+1) valstybinių valdymo organų reguliuojamos kainos;
 
-1) valstybinių
-
-valdymo organų reguliuojamos kainos;
-
-2) rinkos
-
-kainos.
+2) rinkos kainos.
 
 3 straipsnis.
 
-Vyriausybė
+Vyriausybė vykdo  valstybinį kainų  reguliavimą  šiomis priemonėmis:
 
-vykdo   valstybinį  kainų   reguliavimą   šiomis
-
-priemonėmis:
-
-1) nustatydama
-
-kai kurių  prekių ar paslaugų aukščiausią ar
-
-žemiausią kainų lygį
+1) nustatydama kai kurių prekių ar paslaugų aukščiausią ar žemiausią kainų lygį
 
 ar dydį;
 
-2)
-
-deklaruodama  prekių  ir  paslaugų,  įtrauktų  į  atskirą
-
-Vyriausybės parengtą
+2) deklaruodama prekių ir paslaugų, įtrauktų į atskirą Vyriausybės parengtą
 
 sąrašą, kainas.
 
 4 straipsnis.
 
-Valstybė nustato
+Valstybė nustato kainas produkcijos ir paslaugų, gaminamų ir teikiamų pagal
 
-kainas produkcijos ir paslaugų, gaminamų ir
-
-teikiamų pagal
-
-valstybinį kontraktą  arba valstybinių  supirkimų
-
-tvarka.
+valstybinį kontraktą arba valstybinių supirkimų tvarka.
 
 5 straipsnis.
 
-Lietuvos
-
-Respublikos  Vyriausybė  nustato  akcizo  dydį  bei
-
-prekių, kurioms jis
+Lietuvos Respublikos Vyriausybė nustato akcizo dydį bei prekių, kurioms jis
 
 taikomas, sąrašus.
 
 6 straipsnis.
 
-Vietos
+Vietos  savivaldos   organai  įstatymo nustatyta tvarkareguliuoja
 
-savivaldos     organai   įstatymo  nustatyta
+savivaldybės  vietinio  ūkio  įmonėse gaminamosprodukcijos kainas ir teikiamų
 
-tvarkareguliuoja
+paslaugų tarifus, jeigu jų reguliavimo tvarka nenumatyta šio įstatymo 3
 
-savivaldybės   vietinio    ūkio    įmonėse
-
-gaminamosprodukcijos
-
-kainas  ir teikiamų  paslaugų tarifus, jeigu
-
-jų reguliavimo
-
-tvarka nenumatyta šio įstatymo 3 straipsnyje.
+straipsnyje.
 
 7 straipsnis.
 
-Produkcijai ir
+Produkcijai ir paslaugoms, kurioms netaikoma valstybinio reguliavimo tvarka
 
-paslaugoms,  kurioms  netaikoma  valstybinio
-
-reguliavimo tvarka
-
-pagal šio įstatymo 3 ir 6 straipsnius, veikia
-
-rinkos kainos ir
-
-tarifai.
+pagal šio įstatymo 3 ir 6 straipsnius, veikia rinkos kainos ir tarifai.
 
 8 straipsnis.
 
-Jeigu rinkos
+Jeigu rinkos  kainų ir  tarifų  dinamika  sukelia arba gali sukelti
 
-kainų  ir   tarifų   dinamika   sukelia  arba
+ekonomikos  funkcionavimo  sutrikimus,  kurie pažeidžiaRespublikos ūkio  ir
 
-galisukelti
+gyventojų  interesus, Lietuvos RespublikosVyriausybė gali sustabdyti arba apriboti
 
-ekonomikos    funkcionavimo    sutrikimus,    kurie
-
-pažeidžiaRespublikos
-
-ūkio   ir  gyventojų   interesus,  Lietuvos
-
-RespublikosVyriausybė
-
-gali  sustabdyti arba apriboti rinkos kainų
-
-ir tarifų didėjimą
-
-ne ilgesniam kaip 6 mėnesių laikotarpiui.
+rinkos kainų ir tarifų didėjimą ne ilgesniam kaip 6 mėnesių laikotarpiui.
 
 9 straipsnis.
 
-Valstybinė
+Valstybinė kainų kontrolė apima kainų sistemos priežasčių ir veiksnių, kurie
 
-kainų kontrolė apima kainų sistemos priežasčių ir
+turi įtakos kainų lygiui ir jo pasikeitimams, tyrimą, šio įstatymo ir kitų norminių
 
-veiksnių, kurie
-
-turi įtakos  kainų lygiui  ir jo  pasikeitimams,
-
-tyrimą, šio įstatymo
-
-ir kitų norminių kainodaros aktųįgyvendinimą
-
-ūkinėje veikloje.
+kainodaros aktųįgyvendinimą ūkinėje veikloje.
 
 10 straipsnis.
 
-Ūkiniai
+Ūkiniai subjektai privalo įstatymų nustatytais atvejais pateikti reikalingą
 
-subjektai  privalo  įstatymų  nustatytais  atvejais
+informaciją valstybės  kainų  kontrolei vykdyti.
 
-pateikti
-
-reikalingą   informaciją  valstybės   kainų   kontrolei
-
-vykdyti.
-
-Kainos ir
-
-tarifai nustatyta tvarka skelbiami viešai.
+Kainos ir tarifai nustatyta tvarka skelbiami viešai.
 
 11 straipsnis.
 
-Už   šio   ir
+Už  šio  ir kitų  Lietuvos Respublikos  įstatymų  bei Vyriausybės norminių aktų
 
-kitų   Lietuvos  Respublikos   įstatymų   bei
+kainų formavimo ir kontrolės klausimais pažeidimus įstatymų nustatyta tvarka
 
-Vyriausybės norminių
+kaltieji asmenys traukiami administracinėn  ar  baudžiamojon  atsakomybėn,  o
 
-aktų kainų formavimo ir kontrolės klausimais
+ūkiniams subjektams taikomos ekonominės sankcijos.
 
-pažeidimus įstatymų
+Baudos, skiriamos vietiniam ūkiui priklausantiems ūkiniams subjektams, mokamos
 
-nustatyta tvarka  kaltieji asmenys traukiami
-
-administracinėn
-
-ar   baudžiamojon   atsakomybėn,   o   ūkiniams
-
-subjektams taikomos
-
-ekonominės sankcijos.
-
-Baudos,
-
-skiriamos  vietiniam ūkiui  priklausantiems ūkiniams
-
-subjektams,
-
-mokamos  į  savivaldybių  biudžetus.  Visais  kitais
-
-atvejais - į
-
-valstybės biudžetą.
+į savivaldybių biudžetus. Visais kitais atvejais - į valstybės biudžetą.
 
 Straipsnio
 
 pakeitimai:
 
-1. 1-261,
+1-261;
 
-1993.10.05,
-
-Žin.,
-
-1993, Nr.52-1000;
+1993.10.05. Žin.,1993, Nr.52-1000
 
 12 straipsnis.
 
-Šio įstatymo
+Šio įstatymo ir Lietuvos Respublikos Vyriausybės priimtų kainodaros norminių
 
-ir Lietuvos  Respublikos  Vyriausybės  priimtų
+dokumentų taikymą bei galiojimą kontroliuoja Valstybinė konkurencijos ir
 
-kainodaros norminių
-
-dokumentų taikymą bei galiojimą kontroliuoja
-
-Valstybinė
-
-konkurencijos ir vartotojų teisių gynimo  tarnyba prie
-
-Lietuvos Respublikos
-
-Vyriausybės
+vartotojų teisių gynimo tarnyba prie Lietuvos Respublikos Vyriausybės
 
 Straipsnio
 
 pakeitimai:
 
-1.1-261,
+1-261;
 
-1993.10.05,
+1993.10.05. Žin.,1993, Nr.52-1000
 
-Žin.,
+Nr.
 
-1993, Nr.52-1000;
-
-2. Lietuvos
-
-Respublikos 1995 07 05
-
-Įstatymas
-
-Nr. 1-1020
-
-žin., 1995,
-
-Nr.59-1480
+1-1020, 95.07.05, žin., 1995, Nr.59-1480
 
 13 straipsnis
 
-Valstybiniai
+Valstybiniai valdymo organai, nustatydami prekių ir paslaugų kainas bei
 
-valdymo organai, nustatydami prekių ir paslaugų
+tarifus, privalo juos suderinti su Valstybine kainų ir konkurencijos tarnyba
 
-kainas bei tarifus,
+prie Lietuvos Respublikos Vyriausybės, išskyrus kainas ir tarifus, kuriuos
 
-privalo juos suderinti su Valstybine kainų ir
-
-konkurencijos
-
-tarnyba  prie  Lietuvos  Respublikos  Vyriausybės,
-
-išskyrus kainas  ir
-
-tarifus,  kuriuos  nustato  miestų  (rajonų)
-
-valdybos.
+nustato miestų (rajonų) valdybos.
 
 Straipsnio
 
 pakeitimai:
 
-1. 1-261,
+1-261;
 
-1993.10.05,
+1993.10.05. Žin.,1993, Nr.52-1000
 
-Žin.,
+LIETUVOS
 
-1993, Nr.52-1000;
-
-LIETUVOS RESPUBLIKOS
+RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS
 
-TARYBOS
+TARYBOS PIRMININKAS                         V. LANDSBERGIS
 
-PIRMININKAS
+Vilnius,
 
-V. LANDSBERGIS
-
-Vilnius, 1990 m.
-
-liepos 20 d.
+1990 m. liepos 20 d.
 
 Nr. I-413
-
-_
 
