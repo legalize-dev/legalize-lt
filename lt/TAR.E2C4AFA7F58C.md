@@ -4,7 +4,7 @@ identifier: "TAR.E2C4AFA7F58C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-23"
-last_updated: "1994-12-20"
+last_updated: "1994-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2C4AFA7F58C"
 department: "Lietuvos Respublikos Seimas"
@@ -133,6 +133,28 @@ BIUDŽETUS
 
 NORMATYVŲ BEI DOTACIJŲ" PAKEITIMO
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-728, 94.12.22, Žin., 1994, Nr.100-2003 (94.12.28)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS RESPUBLIKOS
+
+1994
+
+METŲ VALSTYBĖS BIUDŽETO IR ATSKAITYMŲ Į SAVIVALDYBIŲ
+
+BIUDŽETUS
+
+NORMATYVŲ BEI DOTACIJŲ" PAKEITIMO
+
 ***
 
 Pabaiga ***
@@ -151,7 +173,9 @@ IR ATSKAITYMŲ Į SAVIVALDYBIŲ BIUDŽETUS
 
 NORMATYVŲ BEI DOTACIJŲ
 
-1 straipsnis.  Patvirtinti Lietuvos  Respublikos  1994  metų
+1 straipsnis.  Patvirtinti Lietuvos  Respublikos  1994
+
+metų
 
 valstybės
 
@@ -165,7 +189,9 @@ išlaidų  (išlaidos viršija  pajamas 163533  tūkst. litų)  ir
 
 tūkst. litų kasos apyvartos lėšų (1 priedėlis).
 
-2 straipsnis.  Nustatyti 1994  metams fizinių  asmenų pajamų
+2 straipsnis.  Nustatyti 1994  metams fizinių  asmenų
+
+pajamų
 
 mokesčio
 
@@ -175,13 +201,17 @@ savivaldybių
 
 biudžetus normatyvus bei dotacijas (2 priedėlis).
 
-3 straipsnis. Nustatyti asignavimus iš savivaldybių biudžetų
+3 straipsnis. Nustatyti asignavimus iš savivaldybių
+
+biudžetų
 
 melioracijai
 
 ir gamtosaugos objektams finansuoti (3 priedėlis).
 
-4 straipsnis.  Lietuvos  Respublikos  Vyriausybė,  vykdydama
+4 straipsnis.  Lietuvos  Respublikos  Vyriausybė,
+
+vykdydama
 
 1994
 
@@ -221,7 +251,9 @@ tikslinti
 
 asignavimus.
 
-6 straipsnis.  Suteikti rajonų  taryboms teisę  perskirstyti
+6 straipsnis.  Suteikti rajonų  taryboms teisę
+
+perskirstyti
 
 pagal
 
@@ -389,7 +421,7 @@ Teismas              1957      1846      738  111
 
 Aplinkos
 
-apsaugos departamentas    11778     11223     3256 555
+apsaugos departamentas    11778     11223     3256 555
 
 Valstybės
 
@@ -423,7 +455,7 @@ ministerija                43857     43307     25457 550
 
 Krašto
 
-apsaugos ministerija        130242    103678   47572 26564
+apsaugos ministerija        130242    103678   47572 26564
 
 Kultūros
 
@@ -487,7 +519,7 @@ reikalų ministerija         243660    225350  122739 18310
 
 Žemės
 
-ūkio ministerija             292396    274969   17482 17427
+ūkio ministerija             292396    274969   17482 17427
 
 II. Departamentai, tarnybos ir inspekcijos
 
@@ -509,7 +541,7 @@ prie Vidaus
 
 reikalų
 
-ministerijos               38807     28612   19515  10195
+ministerijos               38807     28612   19515  10195
 
 Lietuvos
 
@@ -533,7 +565,7 @@ Vidaus reikalų ministerijos   4526      4077      2578 449
 
 Statistikos
 
-departamentas          5441      5422      2288 19
+departamentas          5441      5422      2288 19
 
 Tautybių
 
@@ -553,7 +585,7 @@ technikos priežiūros
 
 tarnyba
 
-641       616       328  25
+641       616       328  25
 
 Valstybinė
 
@@ -673,7 +705,7 @@ reguliavimo sritis
 
 Miško
 
-sėklų kontrolės stotis       23        22        13   1
+sėklų kontrolės stotis       23        22        13   1
 
 Finansų ministerijos
 
@@ -713,7 +745,7 @@ Valstybinė
 
 "Vilniaus
 
-aerouostas"              7740                     7740
+aerouostas"              7740                     7740
 
 Valstybinė
 
@@ -737,7 +769,7 @@ valstybinė tiltų
 
 kelių
 
-inspekcija                   47        47        27
+inspekcija                   47        47        27
 
 Vandens
 
@@ -785,7 +817,7 @@ direkcija                    98359     82059     273�
 
 Lietuvos
 
-jūrų uostų direkcija      220                      220
+jūrų uostų direkcija      220                      220
 
 Valstybinė
 
@@ -809,7 +841,7 @@ civilinės
 
 aviacijos
 
-inspekcija               110       110       53
+inspekcija               110       110       53
 
 Vilniaus
 
@@ -831,9 +863,7 @@ geležinkelio
 
 direkcija             114       64        44   50
 
-Žemės
-
-ūkio ministerijos
+Žemės ūkio ministerijos
 
 reguliavimo sritis
 
@@ -939,7 +969,7 @@ kongresų rūmų
 
 statybos
 
-direkcija                 4500                     4500
+direkcija                 4500                     4500
 
 Valstybinė
 
@@ -959,9 +989,7 @@ valstybinė gamykla
 
 Valstybinės veterinarijos tarnybos
 
-reguliavimo
-
-sritis
+reguliavimo sritis
 
 Ukmergės
 
@@ -1043,7 +1071,7 @@ rezistencijos
 
 tyrimo
 
-centras                     439       406       221  33
+centras                     439       406       221  33
 
 iš jų -   Rezistencijos
 
@@ -1061,7 +1089,7 @@ profesinių sąjungų
 
 bendrijos
 
-kultūros rūmai           347       347       267
+kultūros rūmai           347       347       267
 
 Valstybinis
 
@@ -1137,7 +1165,7 @@ krikščioniškosios
 
 kultūros
 
-centras                   213       213       152
+centras                   213       213       152
 
 Lietuvos
 
@@ -1209,7 +1237,7 @@ ir visuomeninio
 
 maitinimo
 
-susivienijimas           50        50
+susivienijimas           50        50
 
 VI. Vyriausybės rezervo       24798     24798
 
@@ -1225,7 +1253,7 @@ VIII. Asignavimai
 
 savivaldybių biudžetams
 
-paramai mirties atveju        3000      3000
+paramai mirties atveju        3000      3000
 
 IX. Paramos visuomeninėms
 
@@ -1237,7 +1265,7 @@ programos                     15        15
 
 Iš viso                     2793311  2362604  565753  430707
 
-Perduota dotacija             152544    152544
+Perduota dotacija            401116   401116
 
 Iš viso                     2945855  2515148  565753  430707
 
@@ -1271,6 +1299,10 @@ Nr.
 
 I-717, 94.12.20, Žin., 1994, Nr.99-1963 (94.12.23)
 
+Nr.
+
+I-728, 94.12.22, Žin., 1994, Nr.100-2003 (94.12.28)
+
 Lietuvos Respublikos
 
 1993 m. gruodžio 23 d.
@@ -1285,7 +1317,7 @@ NORMATYVAI IR DOTACIJOS
 
 _________________________________________________________________
 
-Iš fizinių     Iš pridėtosios      Dotacija
+Iš fizinių     Iš pridėtosios      Dotacija
 
 asmenų pa-     vertės mokesčio     (tūkst.Lt)
 
@@ -1299,11 +1331,11 @@ Miestai
 
 Vilnius
 
-9,2            6
+9,2            6                   63998
 
 Alytus
 
-20             11,8
+20             11,8                12827
 
 Birštonas
 
@@ -1315,19 +1347,19 @@ Druskininkai
 
 Kaunas
 
-80             18
+80             18                  12194
 
 Klaipėda
 
-20             11,9
+20             11,9                5668
 
 Marijampolė
 
-60             10
+60             10                  437
 
 Neringa
 
-100            70
+100            70                  777
 
 Palanga
 
@@ -1335,25 +1367,25 @@ Palanga
 
 Panevėžys
 
-50             28,2
+50             28,2                4627
 
 Šiauliai
 
-55             22,3
+55             22,3                4438
 
 Rajonai
 
 Akmenės
 
-100            42,5
+100            42,5                4494
 
 Alytaus
 
-100            100                 10203
+100            100                 12638
 
 Anykščių
 
-100            100                 4489
+100            100                 7131
 
 Biržų
 
@@ -1365,7 +1397,7 @@ Ignalinos
 
 Jonavos
 
-50             25,9
+50             25,9                11513
 
 Joniškio
 
@@ -1373,23 +1405,23 @@ Joniškio
 
 Jurbarko
 
-100            100                 5258
+100            100                 6250
 
 Kaišiadorių
 
-100            67,8
+100            67,8                1572
 
 Kauno
 
-100            100                 3633
+100            100                 10354
 
 Kėdainių
 
-90             32,4
+90             32,4                7799
 
 Kelmės
 
-100            100                 6963
+100            100                 9231
 
 Klaipėdos
 
@@ -1397,19 +1429,19 @@ Klaipėdos
 
 Kretingos
 
-100            100                 2032
+100            100                 3244
 
 Kupiškio
 
-100            100                 1822
+100            100                 5328
 
 Lazdijų
 
-100            100                 3487
+100            100                 4716
 
 Marijampolės
 
-100            100                 15503
+100            100                 18127
 
 Mažeikių
 
@@ -1417,59 +1449,59 @@ Mažeikių
 
 Molėtų
 
-100            100                 1882
+100            100                 3268
 
 Pakruojo
 
-100            100                 6022
+100            100                 8127
 
 Panevėžio
 
-100            100                 2115
+100            100                 6900
 
 Pasvalio
 
-100            100                 2300
+100            100                 6688
 
 Plungės
 
-100            100                 145
+100            100                 5062
 
 Prienų
 
-100            100                 6597
+100            100                 9887
 
 Radviliškio
 
-100            100                 4008
+100            100                 7354
 
 Raseinių
 
-100            100                 1268
+100            100                 6006
 
 Rokiškio
 
-100            50,7
+100            50,7                5423
 
 Skuodo
 
-100            100                 5013
+100            100                 5756
 
 Šakių
 
-100            100                 7936
+100            100                 9089
 
 Šalčininkų
 
-100            100                 7781
+100            100                 11841
 
 Šiaulių
 
-100            67,7
+100            67,7                4424
 
 Šilalės
 
-100            100                 6536
+100            100                 8754
 
 Šilutės
 
@@ -1477,11 +1509,11 @@ Skuodo
 
 Širvintų
 
-100            100                 2662
+100            100                 4525
 
 Švenčionių
 
-100            45,3
+100            45,3                4073
 
 Tauragės
 
@@ -1489,23 +1521,23 @@ Tauragės
 
 Telšių
 
-90             55,5
+90             55,5                6193
 
 Trakų
 
-90             34,9
+90             34,9                9919
 
 Ukmerėgės
 
-100            75,2
+100            75,2                3672
 
 Utenos
 
-70             16,5
+70             16,5                4226
 
 Varėnos
 
-70             27,7
+70             27,7                7041
 
 Vilkaviškio
 
@@ -1513,7 +1545,7 @@ Vilkaviškio
 
 Vilniaus
 
-100            100                 8053
+100            100                 12925
 
 Zarasų
 
@@ -1521,7 +1553,15 @@ Zarasų
 
 _____________________________________________
 
-Iš viso                            152544
+Iš viso                            401116
+
+Priedėlio
+
+pakeitimai:
+
+Nr.
+
+I-728, 94.12.22, Žin., 1994, Nr.100-2003 (94.12.28)
 
 Lietuvos Respublikos
 
