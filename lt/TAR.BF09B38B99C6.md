@@ -4,7 +4,7 @@ identifier: "TAR.BF09B38B99C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-20"
-last_updated: "1996-04-30"
+last_updated: "1996-07-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF09B38B99C6"
 department: "Lietuvos Respublikos Seimas"
@@ -19,9 +19,9 @@ straipsnio paskutinę  dalį, kuri įsigalioja nuo 1994 m. rugpjūčio
 ---
 # Lietuvos Respublikos įmonių ir organizacijų nekilnojamojo turto mokesčio įstatymas
 
-@D1=19940720;D2=19960430;D3=19960603
+@D1=19940720;D2=19960704;D3=19960918
 
-@D1=19940720;D2=19960430;D3=19960603
+@D1=19940720;D2=19960704;D3=19960918
 
 Pakeitimai:
 
@@ -31,9 +31,9 @@ Parlamentas,
 
 Įstatymas
 
-{#96B[AA1253 ;} Nr.
+{#19960328AA1253 ;}
 
-1-1253, 96.03.28, Žin., 1996, Nr. 35-860 (96.04.19)
+Nr. 1-1253, 96.03.28, Žin., 1996, Nr. 35-860 (96.04.19)
 
 LIETUVOS
 
@@ -49,9 +49,9 @@ Parlamentas,
 
 Įstatymas
 
-{#96C]AA1311 ;} Nr.
+{#19960430AA1311 ;}
 
-1-1311, 96.04.30, Žin., 1996, Nr. 46-1106 (96.05.17)
+Nr. 1-1311, 96.04.30, Žin., 1996, Nr. 46-1106 (96.05.17)
 
 LIETUVOS
 
@@ -61,13 +61,31 @@ MOKESČIO ĮSTATYMO 7
 
 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-Pastaba: Šis
+3.
 
-įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.
+Parlamentas,
+
+Įstatymas
+
+{#19960704AA1436 ;}
+
+Nr. 1-1436, 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19)
+
+LIETUVOS
+
+RESPUBLIKOS ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO
+
+MOKESČIO ĮSTATYMO
+
+1, 2, 3, 4, 5 IR 11 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
 
 *** Pabaiga ***
 
-ĮMONIŲ IR ORGANIZACIJŲ
+ĮMONIŲ
+
+IR ORGANIZACIJŲ
 
 NEKILNOJAMOJO TURTO MOKESČIO
 
@@ -81,17 +99,33 @@ Vilnius
 
 Įstatymo paskirtis
 
-Šis įstatymas
+Šis
 
-reglamentuoja juridinių  asmenų ir  juridinio
+įstatymas   reglamentuoja   juridiniams   asmenims  ir
 
-asmens  teisių
+juridinio  asmens
 
-neturinčių  įmonių  nekilnojamojo  turto,  kuriam
+teisių  neturinčioms įmonėms ir organizacijoms
 
-nustatyta teisinė
+nuosavybės   teise
+
+priklausančio  nekilnojamojo  turto,  kuriam
+
+Lietuvos
+
+Respublikos  Vyriausybės  nustatyta  tvarka  privaloma
+
+teisinė
 
 registracija, apmokestinimą.
+
+Straipsnio
+
+pakeitimai:
+
+{#19960704AA1436 ;}
+
+Nr. 1-1436, 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19)
 
 2 straipsnis.
 
@@ -103,99 +137,41 @@ objektas  yra  Lietuvos  Respublikos  teritorijoje
 
 juridiniams
 
-asmenims  ir  juridinio  asmens  teisių  neturinčioms
+asmenims  ir  juridinio  asmens  teisių neturinčioms
 
-įmonėms nuosavybės
+įmonėms   ir
 
-teise priklausantis   nekilnojamasis  turtas,
+organizacijoms   nuosavybės   teise  priklausantis
 
-kuriam nustatyta
+nekilnojamasis
 
-teisinė registracija, išskyrus žemę.
+turtas,  kuriam  privaloma  teisinė registracija,
+
+išskyrus žemę.
+
+Straipsnio
+
+pakeitimai:
+
+{#19960704AA1436 ;}
+
+Nr. 1-1436, 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19)
 
 3 straipsnis.
 
 Mokesčio mokėtojai
 
-Mokestį moka
+Mokestį  moka
 
-juridiniai asmenys  ir juridinio asmens teisių
+juridiniai asmenys ir juridinio asmens teisių
 
-neturinčios įmonės.
+neturinčios
 
-Nuo mokesčio
+įmonės  ir  organizacijos,  įregistruotos  Lietuvos
 
-atleidžiama:
+Respublikoje
 
-1)
-
-užsienio    valstybių   diplomatinės   ir   konsulinės
-
-atstovybės,
-
-jei    jų   atstovaujamose   valstybėse   Lietuvos
-
-Respublikos
-
-diplomatinė  ar  konsulinė  atstovybės yra atleistos
-
-nuo tokių pat ar
-
-analogiškų mokesčių;
-
-2)
-
-sveikatos   apsaugos,   mokslo  ir  studijų,  švietimo,
-
-kultūros,
-
-sporto,   socialinės  globos  ir  rūpybos  bei  vaikų
-
-ikimokyklinės
-
-įstaigos, įmonės ir organizacijos;
-
-3)  gyvenamųjų
-
-namų  eksploatavimo, garažų eksploatavimo ir
-
-sodininkų bendrijos,
-
-aptarnaujančios tik savo narius;
-
-4) žemės ūkio
-
-įmonės;
-
-5)  aklųjų,
-
-kurčiųjų  ir  kitų  invalidų  draugijos  ir  jų
-
-įmonės;
-
-6) labdaros
-
-fondai bei labdaros organizacijos;
-
-7) valstybinės
-
-įmonės;
-
-8) laisvųjų
-
-ekonominių zonų įmonės.
-
-Bendros įmonės
-
-ir užsienio  kapitalo įmonės šį mokestį moka
-
-ta pačia  tvarka
-
-kaip  ir  Lietuvos  Respublikos  įmonės,  jeigu
-
-dvišalėse
-
-tarpvalstybinėse sutartyse nenumatyta kitaip.
+įstatymų nustatyta tvarka.
 
 Straipsnio
 
@@ -205,87 +181,75 @@ pakeitimai:
 
 1-1253, 96.03.28, Žin., 1996, Nr. 35-860 (96.04.19)
 
+{#19960704AA1436 ;}
+
+Nr. 1-1436, 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19)
+
 4 straipsnis.
 
 Mokesčio tarifas
 
-Metinis mokesčio
+Metinis
 
-tarifas:
+mokesčio  tarifas - 1 procentas nekilnojamojo turto
 
-1)
+mokestinės vertės.
 
-nekilnojamajam   turtui,   kuris   naudojamas   mokėtojo
+Straipsnio
 
-įstatuose numatytai
+pakeitimai:
 
-veiklai, -  1 procentas  nekilnojamojo turto
+{#19960704AA1436 ;}
 
-mokestinės vertės;
-
-2)
-
-nekilnojamajam  turtui, kuris  nėra  naudojamas  mokėtojo
-
-įstatuose numatytai
-
-veiklai daugiau  kaip vienerius  metus, -  5
-
-procentai
-
-nekilnojamojo turto mokestinės vertės.
-
-Savivaldybių
-
-tarybos, į kurių biudžetus įskaitomas mokestis,
-
-turi teisę  mokesčio
-
-tarifą  sumažinti, bet  ne daugiau  kaip  50
-
-procentų.
+Nr. 1-1436, 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19)
 
 5 straipsnis.
 
 Mokesčio lengvatos
 
-Neapmokestinama:
+1.
 
-1)
+Nekilnojamojo turto mokesčiu neapmokestinama:
 
-nekilnojamasis  turtas  ar  jo  dalis,  naudojama  gamtos
+1)  užsienio
 
-apsaugai bei
+valstybių  diplomatinių  ir konsulinių įstaigų
 
-priešgaisrinei apsaugai;
+nekilnojamasis
 
-2)
+turtas (pariteto pagrindu);
 
-nekilnojamasis  turtas, neatlygintinai perduotas naudotis
+2)   valstybės
 
-labdaros
+ir  savivaldybės  įmonių,  veikiančių  pagal
 
-organizacijoms  ir fondams,  kultūros, sporto, švietimo,
+Valstybės   ir
 
-sveikatos,
+savivaldybės   įmonių  įstatymą,  nekilnojamasis
 
-socialinės  globos ir  rūpybos įstaigoms,  įmonėms  ir
+turtas;
 
-organizacijoms;
+3)
 
-3) religinių
+biudžetinių   įstaigų,   veikiančių  pagal  Biudžetinių
 
-bendruomenių patalpos,  pastatai ir statiniai,
+įstaigų įstatymą,
 
-naudojami tik  kulto
+nekilnojamasis turtas;
 
-veiklai  bei socialinei  globai ir  rūpybai,
+4)  religinių
 
-kulto reikmenų
+bendruomenių,  bendrijų  ir  centrų patalpos,
 
-gamybai;
+pastatai  ir
 
-4)  kapinių
+statiniai,  naudojami tik kulto veiklai, socialinei
+
+globai bei rūpybai
+
+ir kulto reikmenų gamybai;
+
+5)  kapinių
 
 ir  laidojimo  paslaugoms  naudojami  pastatai,
 
@@ -293,11 +257,109 @@ statiniai ar jų
 
 dalys;
 
-5)  namų
+6)  invalidų
 
-savininkų  bendrijų  turtas  nenaudojamas  pelnui
+draugijų ir jų įmonių naudojamas nekilnojamasis
 
-(pajamoms) gauti.
+turtas;
+
+7) žemės ūkio
+
+įmonėms priklausantis nekilnojamasis turtas;
+
+8)  daugiabučių
+
+namų  savininkų  bendrijų,  gyvenamųjų namų
+
+eksploatavimo,
+
+garažų   eksploatavimo  ir  sodininkų  bendrijų,
+
+aptarnaujančių tik
+
+savo narius, nekilnojamasis turtas;
+
+9)   labdaros
+
+organizacijų   ir  fondų,  veikiančių  pagal
+
+Labdaros ir paramos
+
+fondų įstatymą, nekilnojamasis turtas;
+
+10)  mokslo
+
+ir  studijų  institucijų,  išvardytų  Mokslo ir
+
+studijų įstatyme,
+
+nekilnojamasis turtas;
+
+11)
+
+švietimo   įstaigų,   išvardytų   Švietimo   įstatyme,
+
+nekilnojamasis
+
+turtas;
+
+12)
+
+socialinės   globos   ir  rūpybos  įstaigų,  vykdančių
+
+Lietuvos
+
+Respublikos  Vyriausybės  nustatyta tvarka patvirtintas
+
+funkcijas,
+
+nekilnojamasis turtas;
+
+13)
+
+visuomeninių    organizacijų,    veikiančių    pagal
+
+Visuomeninių
+
+organizacijų įstatymą, nekilnojamasis turtas;
+
+14)  aplinkos
+
+apsaugai ir priešgaisrinei apsaugai naudojamas
+
+nekilnojamasis
+
+turtas  bei  bendros paskirties objektai, kuriems
+
+privaloma
+
+teisinė   registracija,  pagal  Lietuvos  Respublikos
+
+Vyriausybės
+
+patvirtintą sąrašą;
+
+15) laisvųjų
+
+ekonominių zonų įmonių nekilnojamasis turtas.
+
+2.
+
+Savivaldybių  tarybos  savo biudžeto sąskaita turi teisę
+
+sumažinti
+
+nekilnojamojo   turto   mokestį  arba  visai  nuo  jo
+
+atleisti.
+
+Straipsnio
+
+pakeitimai:
+
+{#19960704AA1436 ;}
+
+Nr. 1-1436, 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19)
 
 6 straipsnis.
 
@@ -331,9 +393,9 @@ metus, jeigu vartojimo kainų indeksas neviršija
 
 kalendorinius metus.
 
-7 straipsnis.
+7 straipsnis. Mokesčio
 
-Mokesčio apskaičiavimas
+apskaičiavimas
 
 Mokėtojai
 
@@ -367,9 +429,9 @@ Mokestis už
 
 naujai  įsigytą  ar  pastatytą  apmokestinamąjį
 
-nekilnojamąjį
+nekilnojamąjį turtą
 
-turtą   skaičiuojamas  po  1/12  metinės  sumos  už
+skaičiuojamas  po  1/12  metinės  sumos  už
 
 kiekvieną mėnesį,
 
@@ -399,17 +461,17 @@ asmeniui arba
 
 netekus to turto, mokestis neskaičiuojamas nuo kito
 
-mėnesio po turto
+mėnesio po turto teisinės
 
-teisinės registracijos pakeitimo.
+registracijos pakeitimo.
 
 Laiku
 
 neapmokestinti  mokėtojai  apmokestinami,  mokestis
 
-išieškomas,  grąžinamas
+išieškomas,
 
-bei  patikslinamas  Lietuvos Respublikos
+grąžinamas  bei  patikslinamas  Lietuvos Respublikos
 
 mokesčių
 
@@ -427,9 +489,9 @@ pakeitimai:
 
 Mokesčio mokėjimo tvarka
 
-Mokestis mokamas
+Mokestis
 
-po 1/4 metinės sumos pasibaigus ketvirčiui,
+mokamas po 1/4 metinės sumos pasibaigus ketvirčiui,
 
 per 25 dienas.
 
@@ -485,19 +547,13 @@ tvarka.
 
 Baigiamosios nuostatos
 
-Šis įstatymas
+Šis  įstatymas
 
-įsigalioja nuo 1995 m. sausio 1 d., išskyrus 6
+įsigalioja nuo 1995 m. sausio 1 d., išskyrus  6
 
 straipsnį, kuris
 
-įsigalioja nuo   1996  m. sausio  1 d.,  ir šio
-
-straipsnio
-
-paskutinę  dalį, kuri įsigalioja nuo 1994 m. rugpjūčio
-
-1 dienos.
+įsigalioja nuo 1997 m. sausio 1 d.
 
 Iki 6
 
@@ -535,85 +591,13 @@ valstybinėje
 
 institucijoje.
 
-Įmonei ar
+Straipsnio
 
-organizacijai draudžiama  užsiimti veikla,  jeigu
+pakeitimai:
 
-nėra užregistruotas
+{#19960704AA1436 ;}
 
-jai priklausantis nekilnojamasis turtas.
-
-Iki
-
-valstybinės   teisinės  turto   registracijos  įstatymo
-
-įsigaliojimo
-
-nekilnojamasis   turtas   registruojamas   Lietuvos
-
-Respublikos
-
-Vyriausybės  nustatyta tvarka.  Šią tvarką Vyriausybė
-
-nustato iki 1994 m.
-
-lapkričio 1 d. kartu nustatydama ir privalomo
-
-registruoti
-
-nekilnojamojo turto sąrašą.
-
-Vartojimo
-
-kainų   indeksui  per   metus   viršijant   1,25,
-
-nekilnojamojo turto
-
-vertė  privalo  būti  indeksuojama  Lietuvos
-
-Respublikos
-
-Vyriausybės nustatyta tvarka.
-
-Iki   6
-
-straipsnio   įsigaliojimo   Lietuvos   Respublikos
-
-Vyriausybė:
-
-1)
-
-įsteigia    naujas,   įgalioja   esančias   valstybines
-
-institucijas
-
-įvertinti  nekilnojamąjį turtą  iki 1995 m. sausio 1
-
-dienos;
-
-2) iki  1995
-
-m.  birželio 1  dienos nustato  metodiką,  kaip
-
-įvertinti
-
-nekilnojamąjį  turtą pagal rinkos kainas bei mokestinės
-
-vertės nustatymo
-
-tvarką.
-
-Akcinės
-
-bendrovės  (buvusios valstybinės akcinės įmonės) nuo
-
-1994 m.  rugpjūčio 1
-
-d. iki 1994 m. gruodžio 31 d. moka palūkanas
-
-už valstybinio
-
-kapitalo naudojimą galiojančia tvarka.
+Nr. 1-1436, 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19)
 
 Skelbiu šį
 
@@ -622,6 +606,8 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS
 
 PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
+
+----
 
 _
 
