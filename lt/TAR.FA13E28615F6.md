@@ -4,7 +4,7 @@ identifier: "TAR.FA13E28615F6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-11"
-last_updated: "2000-06-01"
+last_updated: "2000-06-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
+
+Suvestinė redakcija nuo 2000-06-09 iki 2003-12-11
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
 
 LIETUVOS RESPUBLIKOS
 
@@ -49,7 +53,11 @@ Valstybės ir savivaldybių įstaigos privalo teikti informaciją apie savo veik
 
 4. Pareiškėjo atstovas - asmuo, turintis teisę civilinių įstatymų nustatyta tvarka atstovauti pareiškėjui.
 
-5. Valstybės ar savivaldybės įstaiga (toliau - įstaiga) - ši sąvoka vartojama pagal Valstybės tarnybos įstatymą.
+5. Valstybės ar savivaldybės įstaiga (toliau – įstaiga) – valstybės ar savivaldybių įstaigos ir institucijos, apibrėžtos Valstybės tarnybos įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1700, 2000-05-23, Žin., 2000, Nr. 47-1344 (2000-06-09), i. k. 1001010ISTAIII-1700
 
 6. Informacijos atstovas - valstybės ar savivaldybės įstaigos vadovas arba jo paskirtas įstaigos darbuotojas (darbuotojai) ar šios įstaigos padalinys, padedantys asmenims įgyvendinti teisę į informaciją pagal šio įstatymo nuostatas.
 
@@ -163,46 +171,6 @@ LIETUVOS RESPUBLIKOS
 
 SEIMO PIRMININKAS                                                                     VYTAUTAS LANDSBERGIS
 
-18 straipsnis. Informacijos parengimas
-
-1. Dokumentų, informacijos rinkmenų ar jų dalių teikimas internetu ar kitokiomis elektroninėmis priemonėmis turi būti patogus pareiškėjams informaciją priimti bei naudoti ir neturi reikalauti iš pareiškėjo įsigyti specialią (licencijuojamą) programinę įrangą.
-
-2. Įstaigos, vadovaudamosi Lietuvos Respublikos ir Europos Sąjungos teisės aktais, informacijos teikimo informacinę aplinką pritaiko neįgaliųjų specialiesiems poreikiams.
-
-3. Įstaigos teikia informaciją tokia forma ir būdais, kokie naudojami įstaigoje.
-
-4. Įstaigos neprivalo kurti dokumentų ar informacijos rinkmenų pagal pareiškėjų prašymus, jeigu tai susiję su neproporcingai didelėmis darbo ir laiko sąnaudomis.
-
-PENKTASIS SKIRSNIS
-
-APSKUNDIMO TVARKA
-
-19 straipsnis. Pareiškėjo teisė apskųsti įstaigos veiksmus
-
-Pareiškėjas turi teisę apskųsti įstaigos veiksmus įstatymų nustatyta tvarka.
-
-Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi, skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-LIETUVOS RESPUBLIKOS
-
-SEIMO PIRMININKAS                                                                     VYTAUTAS LANDSBERGIS
-
-Lietuvos Respublikos
-
-teisės gauti informaciją
-
-iš valstybės ir savivaldybių
-
-įstaigų įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-2003 m. lapkričio 17 d. Europos Parlamento ir Tarybos direktyva 2003/98/EB dėl viešojo sektoriaus informacijos pakartotinio naudojimo.
-
-______________
-
 Pakeitimai:
 
 1.
@@ -212,168 +180,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1700, 2000-05-23, Žin., 2000, Nr. 47-1344 (2000-06-09), i. k. 1001010ISTAIII-1700
 
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1844, 2003-11-25, Žin., 2003, Nr. 116-5250 (2003-12-12), i. k. 1031010ISTA0IX-1844
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 13 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-383, 2005-11-10, Žin., 2005, Nr. 139-5008 (2005-11-26), i. k. 1051010ISTA000X-383
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo pakeitimo įstatymas
-
-TAR pastaba. Šio įstatymo 20 straipsnio 5 dalis ir 21 straipsnis įsigalioja 2018 m. sausio 1 d.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2666, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25262
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 pakeitimo įstatymas
-
-Nauja redakcija nuo 2017-04-01:
-
-Nr. XII-2666, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25262
-
-LIETUVOS RESPUBLIKOS
-
-TEISĖS GAUTI INFORMACIJĄ IŠ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ
-
-ĮSTATYMAS
-
-2000 m. sausio 11 d. Nr. VIII-1524
-
-Vilnius
-
-I SKYRIUS
-
-BENDROSIOS NUOSTATOS
-
-20 straipsnis. Portalas
-
-1. Portalas yra valstybės informacinė sistema, skirta dokumentų rinkiniams ir jų metaduomenims sisteminti ir skelbti naudojant vienodą metaduomenų aprašymo formatą, taip pat vieno langelio principu institucijų sudarytiems dokumentų rinkiniams ir jų metaduomenims ieškoti, gauti ir su jais susijusioms paslaugoms teikti.
-
-2. Prieiga prie institucijų, įskaitant registrų ir valstybės informacinių sistemų tvarkytojus, sudarytų dokumentų rinkinių ir jų metaduomenų pareiškėjams per portalą yra vieša. Dokumentai, išskyrus registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas, per šio portalo prieigą yra teikiami neatlygintinai.
-
-3. Portalą valdo Susisiekimo ministerija.
-
-4. Portalas yra sudedamoji Europos Sąjungos atvirų duomenų portalo dalis.
-
-5. Jeigu institucijos yra sudariusios dokumentų rinkinius, jos privalo užtikrinti sudarytų dokumentų rinkinių prieinamumą per portalą jo tvarkytojo nustatyta tvarka ir priemonėmis.
-
-22 straipsnis. Pareiškėjo teisė apskųsti institucijos veiksmus
-
-Pareiškėjas turi teisę apskųsti institucijos veiksmą ar neveikimą, susijusį su šiame įstatyme nustatytos informacijos teikimu ir dokumentų teikimu pakartotiniam naudojimui, Vyriausiajai administracinių ginčų komisijai arba administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-VII SKYRIUS
-
-BAIGIAMOSIOS NUOSTATOS
-
-23 straipsnis. Susitarimų dėl išimtinių teisių suteikimo pakartotinai naudoti dokumentus galiojimas
-
-1. Susitarimai dėl išimtinių teisių suteikimo pakartotinai naudoti dokumentus, kurie galiojo 2005 m. liepos 1 d. ir kuriems nėra taikoma šio įstatymo 9 straipsnio 3 dalyje nurodyta išimtis, nebegalioja.
-
-2. Susitarimai dėl išimtinių teisių suteikimo pakartotinai naudoti dokumentus, kurie galiojo 2013 m. liepos 17 d. ir kuriems nėra taikomos šio įstatymo 9 straipsnio 3 ir 4 dalyse nurodytos išimtys, galioja iki susitarimo termino pabaigos, bet ne ilgiau kaip iki 2043 m. liepos 18 d.
-
-3. Asmenys, pažeidę šiame straipsnyje nustatytus susitarimus dėl išimtinių teisių suteikimo pakartotinai naudoti dokumentus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi, skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-LIETUVOS RESPUBLIKOS
-
-SEIMO PIRMININKAS                                                                     VYTAUTAS LANDSBERGIS
-
-Lietuvos Respublikos
-
-teisės gauti informaciją iš valstybės
-
-ir savivaldybių institucijų ir įstaigų
-
-įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2003 m. lapkričio 17 d. Europos Parlamento ir Tarybos direktyva 2003/98/EB dėl viešojo sektoriaus informacijos pakartotinio naudojimo (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 701) su paskutiniais pakeitimais, padarytais 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/37/ES (OL 2013 L 175, p. 1).
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1700, 2000-05-23, Žin., 2000, Nr. 47-1344 (2000-06-09), i. k. 1001010ISTAIII-1700
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1844, 2003-11-25, Žin., 2003, Nr. 116-5250 (2003-12-12), i. k. 1031010ISTA0IX-1844
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 13 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-383, 2005-11-10, Žin., 2005, Nr. 139-5008 (2005-11-26), i. k. 1051010ISTA000X-383
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1716, 2008-07-15, Žin., 2008, Nr. 87-3473 (2008-07-31), i. k. 1081010ISTA00X-1716
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-285, 2009-06-11, Žin., 2009, Nr. 75-3064 (2009-06-25), i. k. 1091010ISTA00XI-285
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2 straipsnio pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-809, 2010-05-13, Žin., 2010, Nr. 63-3088 (2010-05-31), i. k. 1101010ISTA00XI-809
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 6 straipsnio papildymo ir pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1980, 2012-04-19, Žin., 2012, Nr. 51-2529 (2012-05-03), i. k. 1121010ISTA0XI-1980
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2, 4, 6, 12 straipsnių pakeitimo ir papildymo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-871, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05357
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 6 straipsnio pakeitimo įstatymas
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2666, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25262
-
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 pakeitimo įstatymas
 
