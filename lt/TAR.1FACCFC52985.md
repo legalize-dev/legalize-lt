@@ -4,7 +4,7 @@ identifier: "TAR.1FACCFC52985"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "1995-07-19"
+last_updated: "1999-04-02"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FACCFC52985"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,9 +15,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 1995-07-19 iki 1999-04-01
+Suvestinė redakcija nuo 1999-04-02 iki 1999-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 190-0; Žin. 1992, Nr.29-841, i. k. 0921010ISTA00I-2878
+
+TAR pastaba. Nuo 1999-04-02 Lietuvos Respublikos konkurencijos įstatymas netenka galios, išskyrus jo 4 straipsnį, kuris netenka galios nuo 2000-01-01, ir 7 straipsnio 1 dalies 2 punktą, kuris netenka galios nuo Lietuvos Respublikos įstatymo, reglamentuojančio klaidinančios reklamos naudojimą, įsigaliojimo (2001-01-01)
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1100, 1999-03-23, Žin., 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
+
+Lietuvos Respublikos konkurencijos įstatymo įsigaliojimo įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -25,9 +33,15 @@ KONKURENCIJOS
 
 Į S T A T Y M A S
 
-I SKIRSNIS
+1 skirsnis. Neteko galios nuo 1999-04-02
 
-BENDRIEJI NUOSTATAI
+Skirsnio naikinimas:
+
+Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
+
+II SKIRSNIS
+
+KONKURENCIJĄ RIBOJANČIOS VEIKOS
 
 1 straipsnis. Įstatymo paskirtis
 
@@ -59,25 +73,11 @@ II SKIRSNIS
 
 KONKURENCIJĄ RIBOJANČIOS VEIKOS
 
-3 straipsnis. Piktnaudžiavimo dominuojančia padėtimi draudimas
+3 straipsnis. Neteko galios nuo 1999-04-02
 
-Draudžiami ūkinių subjektų, užimančių dominuojančią padėtį rinkoje, veiksmai, kurie, pažeisdami ūkio interesus, riboja arba gali riboti konkurenciją.
+Straipsnio naikinimas:
 
-Ūkiniams subjektams neleistini konkurenciją ribojantys veiksmai:
-
-1) kliūčių sudarymas konkuruojantiems ūkiniams subjektams įeiti į rinką arba jau esantiems rinkoje plėtoti veiklą;
-
-2) konkuruojančių ūkinių subjektų išstūmimas iš rinkos piktnaudžiaujant dominuojančia padėtimi;
-
-3) gamybos ribojimas, parduodamų ir įsigyjamų prekių kiekio mažinimas, prekybos sulaikymas turint tikslą sudaryti nepriteklių rinkoje bei kainų didinimas, darant žalą vartotojams;
-
-Straipsnio punkto pakeitimai:
-
-Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
-
-4) tapataus pobūdžio sutartyse su skirtingais partneriais diskriminacinių ekonominių sąlygų numatymas;
-
-5) sutartyse su tiekėjais arba pirkėjais fiksuotų pardavimo kainų tretiesiems asmenims nustatymas.
+Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
 
 4 straipsnis. Ribojančių ar trukdančių konkurencijai susitarimų (suderintų veiksmų) tarp ūkinių subjektų draudimas
 
@@ -93,23 +93,17 @@ Susitarimai ar suderinti veiksmai tarp konkuruojančių ūkinių subjektų (ar p
 
 5) atsisakymo sudaryti sutartį su tam tikrais prekių pardavėjais ar pirkėjais.
 
-5 straipsnis. Draudžiamų veiksmų išimtys
+5 straipsnis. Neteko galios nuo 1999-04-02
 
-Šio įstatymo 3 ir 4 straipsniuose išvardinti veiksmai gali būti pripažįstami neprieštaraujančiais įstatymui, jeigu yra įrodoma, kad dėl to:
+Straipsnio naikinimas:
 
-1) pastoviai mažinamos kainos vartotojams;
+Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
 
-2) gerinama prekių kokybė.
+6 straipsnis. Neteko galios nuo 1999-04-02
 
-6 straipsnis. Draudimas valstybės valdymo organams ir savivaldybėms riboti konkurenciją
+Straipsnio naikinimas:
 
-Valstybės valdymo organams ir savivaldybėms draudžiama priimti norminius aktus arba atlikti veiksmus, kurie riboja ūkinių subjektų savarankiškumą, ūkinių sutarčių sudarymą, trukdo steigti naujus ar pertvarkyti esamus ūkinius subjektus ir pakeisti jų veiklos pobūdį, suteikia privilegijas ar diskriminuoja atskirus ūkinius subjektus, ar kaip kitaip riboja konkurenciją.
-
-2. Neteko galios nuo 1995-07-19
-
-Straipsnio dalies naikinimas:
-
-Nr. I-1019, 1995-07-05, Žin. 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
+Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
 
 Straipsnio pakeitimai:
 
@@ -123,19 +117,79 @@ NESĄŽININGA KONKURENCIJA
 
 Ūkiniams subjektams draudžiama atlikti nesąžiningos konkurencijos veikas:
 
-1) skleisti melagingus, netikslius ir iškraipytus duomenis (taip pat ir reklamoje), dėl kurių kitas ūkinis subjektas gali patirti nuostolių arba gali nukentėti jo reputacija;
+1) Neteko galios nuo 1999-04-02
+
+Straipsnio punkto naikinimas:
+
+Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
 
 2) klaidinti vartotojus, nurodant neteisingas žinias apie prekės kokybę, vartojimo savybes, pagaminimo vietą ir būdą, parduodamą kiekį ir kainą;
 
-3) savavališkai naudoti kito ūkinio subjekto pavadinimą, prekės pavadinimą, ženklą ar markiruotę, prekės įpakavimo ar išvaizdos formą;
+3) Neteko galios nuo 1999-04-02
 
-4) be ūkinio subjekto sutikimo gauti, naudoti ir skelbti informaciją apie jo gamybinę ar komercinę veiklą, mokslinius-techninius tyrimus ir jų rezultatus.
+Straipsnio punkto naikinimas:
 
-IV SKIRSNIS
+Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
 
-NESĄŽININGOS IR KONKURENCIJĄ RIBOJANČIOS
+4) Neteko galios nuo 1999-04-02
 
-VEIKLOS KONTROLĖ
+Straipsnio punkto naikinimas:
+
+Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
+
+4 skirsnis. Neteko galios nuo 1999-04-02
+
+Skirsnio naikinimas:
+
+Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
+
+5 skirsnis. Neteko galios nuo 1999-04-02
+
+Skirsnio naikinimas:
+
+Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
+
+6 skirsnis. Neteko galios nuo 1999-04-02
+
+Skirsnio naikinimas:
+
+Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
+
+LIETUVOS RESPUBLIKOS
+
+AUKŠČIAUSIOSIOS TARYBOS
+
+PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
+
+Vilnius, 1992 m. rugsėjo 15 d.
+
+Nr. I-2878
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
+
+Dėl Lietuvos Respublikos konkurencijos įstatymo pakeitimo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1019, 1995-07-05, Žin., 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
+
+Dėl Lietuvos Respublikos konkurencijos įstatymo pakeitimo
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1100, 1999-03-23, Žin., 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
+
+Lietuvos Respublikos konkurencijos įstatymo įsigaliojimo įstatymas
 
 8 straipsnis. Kainų ir konkurencijos kontrolės institucija
 
