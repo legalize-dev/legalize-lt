@@ -4,7 +4,7 @@ identifier: "TAR.CCA48EFA01D1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-15"
-last_updated: "1994-12-14"
+last_updated: "1994-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CCA48EFA01D1"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo
 
-Suvestinė redakcija nuo 1994-12-14 iki 1994-12-29
+Suvestinė redakcija nuo 1994-12-30 iki 1995-04-06
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 50-932, i. k. 0941010ISTA000I-497
 
@@ -37,6 +37,12 @@ Lietuvos Respublikos Konstitucijoje numatyti teismai pradeda veikti nuo 1995 m. 
 2 straipsnis
 
 Dabar veikiantis Lietuvos Aukščiausiasis Teismas likviduojamas ir jo veikla bei šio teismo teisėjų įgaliojimai nutraukiami 1994 m. gruodžio 31 dieną.
+
+TAR pastaba. 2 straipsnio pirmosios dalies nuostata „šio teismo teisėjų įgaliojimai nutraukiami“ prieštarauja Lietuvos Respublikos Konstitucijos 115 straipsnio 2 punktui.
+
+Straipsnio dalies pakeitimai:
+
+1994-12-22, Žin., 1994, Nr. 101-2045 (1994-12-30), i. k. 0941000NUTARG940424
 
 Lietuvos Aukščiausiasis Teismas įsteigiamas nuo 1995 m. sausio 1 d. kitokioms įstatymų numatytoms funkcijoms vykdyti.
 
@@ -177,4 +183,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-688, 1994-12-08, Žin., 1994, Nr. 96-1881 (1994-12-14), i. k. 0941010ISTA000I-688
 
 Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" pakeitimo
+
+3.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+1994-12-22, Žin., 1994, Nr. 101-2045 (1994-12-30), i. k. 0941000NUTARG940424
+
+Dėl Lietuvos Respublikos 1994 m. birželio 15 d. įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 2 straipsnio ir šio įstatymo priėmimo tvarkos atitikimo Lietuvos Respublikos Konstitucijai
 
