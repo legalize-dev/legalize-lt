@@ -4,7 +4,7 @@ identifier: "TAR.62AC77FBC51D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-13"
-last_updated: "1998-10-14"
+last_updated: "1998-11-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.62AC77FBC51D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas
 
-Suvestinė redakcija nuo 1998-10-14 iki 1998-11-12
+Įstatymas netenka galios 1999-07-30:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1312, 1999-07-07, Žin., 1999, Nr. 66-2127 (1999-07-30), i. k. 0991010ISTAIII-1312
+
+Lietuvos Respublikos investicijų įstatymas
+
+Suvestinė redakcija nuo 1998-11-13 iki 1999-07-29
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 55-1351, i. k. 0951010ISTA000I-938
 
@@ -167,7 +175,11 @@ IV SKIRSNIS
 
 10 straipsnis. Įmonių teisė naudotis žemės sklypu bei kitu nekilnojamuoju turtu
 
-Įmonės turi teisę turėti nuosavybe, išsinuomoti arba kitaip naudoti savo veiklai nekilnojamąjį turtą, taip pat išsinuomoti žemės sklypus pagal Lietuvos Respublikos įstatymus.
+Įmonės turi teisę pagal Lietuvos Respublikos įstatymus išsinuomoti žemės sklypus arba įsigyti nuosavybėn ne žemės ūkio paskirties žemės sklypus, taip pat turėti nuosavybe, išsinuomoti arba kitaip naudoti savo veiklai kitą nekilnojamąjį turtą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-916, 1998-11-05, Žin., 1998, Nr. 99-2738 (1998-11-13), i. k. 0981010ISTAVIII-916
 
 Valstybės nuosavybe esantys žemės sklypai įmonei gali būti išnuomoti iki devyniasdešimt devynerių metų. Žemės sklypo nuomos pratęsimo pirmumo teise sąlygas ir tvarką nustato Lietuvos Respublikos žemės nuomos įstatymas.
 
@@ -304,4 +316,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-868, 1998-09-29, Žin., 1998, Nr. 90-2484 (1998-10-14), i. k. 0981010ISTAVIII-868
 
 Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 12 straipsnio papildymo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-916, 1998-11-05, Žin., 1998, Nr. 99-2738 (1998-11-13), i. k. 0981010ISTAVIII-916
+
+Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 10 straipsnio pakeitimo įstatymas
 
