@@ -4,7 +4,7 @@ identifier: "TAR.1559303036A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-08"
-last_updated: "2000-10-17"
+last_updated: "2000-12-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1559303036A8"
 department: "Lietuvos Respublikos Seimas"
@@ -44,9 +44,9 @@ Nauja įstatymo
 
 redakcija:
 
-Nr. VIII-1780, 00.06.29, Žin., 2000,
+Nr. VIII-1780, 2000 06 29, Žin., 2000, Nr.
 
-Nr.58-1712 (00.07.19)
+58-1712 (2000 07 19)
 
 I SKYRIUS
 
@@ -56,9 +56,9 @@ BENDROSIOS NUOSTATOS
 
 programose
 
-1. Reklama LRT programose transliuojama įstatymų nustatyta
+1. Reklama LRT programose transliuojama įstatymų
 
-tvarka.
+nustatyta tvarka.
 
 2. Reklama LRT programose draudžiama:
 
@@ -88,25 +88,25 @@ netransliuojama.
 
 kaip vaidybiniai ar televizijos filmai (išskyrus serialus, kelių serijų filmus,
 
-pramogines programas ir dokumentinius filmus), trukmė yra ilgesnė negu 45
+pramogines programas ir dokumentinius filmus), trukmė yra ilgesnė negu 45 minutės,
 
-minutės, juos reklama galima pertraukti vieną kartą per 45 minutes; papildomai
+juos reklama galima pertraukti vieną kartą per 45 minutes; papildomai šių
 
-šių kūrinių transliaciją pertraukti reklamos intarpu galima tik tais atvejais,
+kūrinių transliaciją pertraukti reklamos intarpu galima tik tais atvejais, kai
 
-kai šių kūrinių trukmė ne mažiau kaip 20 minučių ilgesnė negu du ar daugiau
+šių kūrinių trukmė ne mažiau kaip 20 minučių ilgesnė negu du ar daugiau ištisi
 
-ištisi 45 minučių tarpai.
+45 minučių tarpai.
 
-7. LRT netransliuojami
+7. LRT
 
-teleparduotuvės skelbimai.
+netransliuojami teleparduotuvės skelbimai.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-2070, 00.10.17, Žin., 2000,
+Nr. VIII-2070, 2000 10 17, Žin., 2000, Nr.
 
-Nr.94-2919 (00.11.03)
+94-2919 (2000 11 03)
 
 1 straipsnis. Įstatymo paskirtis
 
@@ -174,15 +174,15 @@ reikalavimai
 
 įvairovė, laidos turi būti orientuotos įvairiems visuomenės sluoksniams,
 
-įvairaus amžiaus, įvairių tautybių ir įvairių įsitikinimų žmonėms. Programose
+įvairaus amžiaus, įvairių tautybių ir įvairių įsitikinimų žmonėms. Programose neleidžiama
 
-neleidžiama įsivyrauti vienašališkoms politinėms pažiūroms; LRT informacinėse
+įsivyrauti vienašališkoms politinėms pažiūroms; LRT informacinėse laidose,
 
-laidose, komentaruose pateikiama informacija turi būti subalansuota,
+komentaruose pateikiama informacija turi būti subalansuota, atspindinti
 
-atspindinti įvairias politines pažiūras, o nuomonės ir faktinės žinios turi
+įvairias politines pažiūras, o nuomonės ir faktinės žinios turi būti
 
-būti autorizuotos, patikrintos ir išsamios.
+autorizuotos, patikrintos ir išsamios.
 
 2. LRT programose pirmenybė teikiama nacionalinei
 
@@ -216,9 +216,9 @@ parą, trečiosios - 12 valandų per parą.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-2070, 00.10.17, Žin., 2000,
+Nr. VIII-2070, 2000 10 17, Žin., 2000, Nr.
 
-Nr.94-2919 (00.11.03)
+94-2919 (2000 11 03)
 
 5 straipsnis. LRT teisės ir
 
@@ -256,15 +256,15 @@ renginius, apie kuriuos pateikti informaciją visuomenei kiti transliuotojai yra
 
 turi teisę rengti konkursus, festivalius, konferencijas, seminarus, įkurti meno
 
-kolektyvus, nustatyti tiesioginius ryšius su užsienio organizacijomis ir
+kolektyvus, nustatyti tiesioginius ryšius su užsienio organizacijomis ir kompanijomis,
 
-kompanijomis, dalyvauti tarptautinių organizacijų veikloje, organizuoti radijo
+dalyvauti tarptautinių organizacijų veikloje, organizuoti radijo ir televizijos
 
-ir televizijos laidas užsieniui, susitarimų pagrindu retransliuoti užsienio
+laidas užsieniui, susitarimų pagrindu retransliuoti užsienio radijo ir
 
-radijo ir televizijos programas, steigti filialus, korespondentų punktus,
+televizijos programas, steigti filialus, korespondentų punktus, leisti
 
-leisti informacinius leidinius apie savo veiklą.
+informacinius leidinius apie savo veiklą.
 
 5. LRT turi
 
@@ -272,9 +272,9 @@ pirmumo teisę į naujai sukoordinuotus elektroninio ryšio kanalus (radijo
 
 dažnius), valstybinius radijo ir televizijos transliavimo įrenginius su
 
-naujausiomis radijo ir televizijos technologijomis. LRT turi teisę turėti 2
+naujausiomis radijo ir televizijos technologijomis. LRT turi teisę turėti 2 televizijos
 
-televizijos ir 4 radijo programas.
+ir 4 radijo programas.
 
 6. LRT
 
@@ -310,9 +310,7 @@ sudaro sąlygas darbuotojams kelti kvalifikaciją.
 
 kitoms radijo ir televizijos stotims be Tarybos leidimo.
 
-7 straipsnis. LRT programų
-
-rėmimas
+7 straipsnis. LRT programų rėmimas
 
 LRT
 
@@ -332,9 +330,7 @@ informacijos minimumą.
 
 karo padėties atveju LRT privalo skelbti Respublikos Prezidento, Seimo,
 
-Vyriausybės, Konstitucinio Teismo, Generalinės prokuratūros oficialius
-
-pranešimus.
+Vyriausybės, Konstitucinio Teismo, Generalinės prokuratūros oficialius pranešimus.
 
 II SKYRIUS
 
@@ -378,11 +374,11 @@ pirmininką.
 
 Radijo ir televizijos komisijos nariai, politinio (asmeninio) pasitikėjimo
 
-valstybės tarnautojai, asmenys, dirbantys pagal darbo sutartis radijo ir
+valstybės tarnautojai, asmenys, dirbantys pagal darbo sutartis radijo ir televizijos
 
-televizijos stotyse, įskaitant LRT, taip pat radijo ir televizijos stočių
+stotyse, įskaitant LRT, taip pat radijo ir televizijos stočių savininkai ir
 
-savininkai ir bendraturčiai.
+bendraturčiai.
 
 5. Tarybos narys negali būti atšauktas iš pareigų, kol
 
@@ -476,9 +472,9 @@ administracinės išlaidos) iš LRT lėšų.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1911, 00.08.31, Žin., 2000,
+Nr. VIII-1911, 2000 08 31, Žin., 2000, Nr.
 
-Nr.78-2362 (00.09.15), įsigalioja nuo 2000.10.01
+78-2362 (2000 09 15), įsigalioja nuo 2000 10 01
 
 10 straipsnis. Tarybos funkcijos, teisės ir
 
@@ -522,9 +518,11 @@ taip pat darbuotojų, priimamų viešo konkurso tvarka, pareigybes;
 
 10) tvirtina konkursų LRT laidoms rengti rezultatus;
 
-11) steigia
+11)
 
-LRT ūkinės ir finansinės veiklos klausimams svarstyti Administracinę komisiją;
+steigia LRT ūkinės ir finansinės veiklos klausimams svarstyti Administracinę
+
+komisiją;
 
 12) tvirtina Administracinės komisijos nuostatus;
 
@@ -532,9 +530,9 @@ LRT ūkinės ir finansinės veiklos klausimams svarstyti Administracinę komisij
 
 14)
 
-nustato konkurso LRT generalinio direktoriaus (toliau - generalinis direktorius)
+nustato konkurso LRT generalinio direktoriaus (toliau - generalinis
 
-pareigoms tvarką;
+direktorius) pareigoms tvarką;
 
 15) ne vėliau kaip per 15 dienų po Tarybos pirmininko
 
@@ -556,17 +554,17 @@ pavaduotojus.
 
 3. Tarybos nutarimai LRT yra privalomi.
 
-4. Jei generalinis direktorius nesutinka su Tarybos nutarimu,
+4. Jei generalinis direktorius nesutinka su Tarybos
 
-jis gali kreiptis į Tarybą su motyvuotu prašymu persvarstyti nutarimą, išskyrus
+nutarimu, jis gali kreiptis į Tarybą su motyvuotu prašymu persvarstyti
 
-Tarybos nutarimą dėl Tarybos atsistatydinimo. Taryba privalo ne vėliau kaip per
+nutarimą, išskyrus Tarybos nutarimą dėl Tarybos atsistatydinimo. Taryba privalo
 
-10 dienų svarstyti generalinio direktoriaus prašymą. Pakartotinai balsavus už
+ne vėliau kaip per 10 dienų svarstyti generalinio direktoriaus prašymą.
 
-tą patį nutarimą daugiau kaip pusei visų Tarybos narių, generalinis direktorius
+Pakartotinai balsavus už tą patį nutarimą daugiau kaip pusei visų Tarybos
 
-nutarimą privalo vykdyti.
+narių, generalinis direktorius nutarimą privalo vykdyti.
 
 5.
 
@@ -636,9 +634,9 @@ pirmininką, kuris ne rečiau kaip kartą per 2 mėnesius šaukia Administracin�
 
 komisijos posėdžius. Posėdis teisėtas, jei jame dalyvauja daugiau kaip pusė
 
-Administracinės komisijos narių. Administracinė komisija išvadas priima paprasta
+Administracinės komisijos narių. Administracinė komisija išvadas priima
 
-Administracinės komisijos narių balsų dauguma.
+paprasta Administracinės komisijos narių balsų dauguma.
 
 6. Administracinė komisija atlieka šias funkcijas:
 
@@ -666,9 +664,11 @@ projektų finansinio pagrįstumo;
 
 kurios nėra numatytos patvirtintoje LRT sąmatoje, panaudojimo;
 
-7) teikia išvadas generaliniam direktoriui dėl sutarties
+7) teikia išvadas generaliniam direktoriui dėl
 
-su LRT darbuotojų profesinėmis sąjungomis projekto ekonominio pagrįstumo;
+sutarties su LRT darbuotojų profesinėmis sąjungomis projekto ekonominio
+
+pagrįstumo;
 
 8) konsultuoja Tarybą ir generalinį direktorių finansų klausimais;
 
@@ -694,11 +694,11 @@ metus už savo veiklą atsiskaito Tarybai LRT įstatų nustatyta tvarka.
 
 12 straipsnis. Generalinis direktorius
 
-1. LRT vadovauja ir atstovauja generalinis
+1. LRT vadovauja ir atstovauja generalinis direktorius.
 
-direktorius. Generalinis direktorius atsako už LRT veiklą, LRT parengtas ir
+Generalinis direktorius atsako už LRT veiklą, LRT parengtas ir transliuojamas
 
-transliuojamas programas, taip pat už Tarybos nutarimų įgyvendinimą.
+programas, taip pat už Tarybos nutarimų įgyvendinimą.
 
 2.
 
@@ -740,9 +740,9 @@ generalinio direktoriaus pareigas iki naujo generalinio direktoriaus paskyrimo.
 
 funkcijos, teisės ir atskaitomybė
 
-1. Generalinis
+1.
 
-direktorius:
+Generalinis direktorius:
 
 1) vadovauja LRT veiklai, atstovauja LRT šalyje,
 
@@ -774,9 +774,9 @@ tvirtinti metinę LRT veiklos ataskaitą.
 
 III SKYRIUS
 
-LIETUVOS
+LIETUVOS NACIONALINIO
 
-NACIONALINIO RADIJO IR TELEVIZIJOS TURTAS,
+RADIJO IR TELEVIZIJOS TURTAS,
 
 FINANSINĖ IR
 
@@ -876,11 +876,11 @@ Nr. VIII-23,
 
 96.12.05, Žin., 1996, Nr.121-2849 (96.12.14)
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4, 8, 10 STRAIPSNIŲ
+RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4, 8, 10
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 2.
 
@@ -916,41 +916,49 @@ STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO
 
 4.
 
-Lietuvos
+Lietuvos Respublikos Seimas, Įstatymas
 
-Respublikos Seimas, Įstatymas
+Nr. VIII-1780, 2000 06 29, Žin., 2000, Nr.
 
-Nr. VIII-1780, 00.06.29, Žin., 2000,
+58-1712 (2000 07 19)
 
-Nr.58-1712 (00.07.19)
+LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-LIETUVOS
+Nauja įstatymo redakcija
 
-NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+LRT finansavimo
 
-Nauja
+tvarka pagal šį įstatymą įsigalioja nuo 2002 m. sausio 1 d.
 
-įstatymo redakcija
+LRT administracinė
 
-LRT finansavimo tvarka pagal šį įstatymą
+komisija įsteigiama ne vėliau kaip per 1 mėnesį po šio įstatymo nustatytos
 
-įsigalioja nuo 2001 m. sausio 1 d.
+finansavimo tvarkos įsigaliojimo.
 
-LRT administracinė komisija įsteigiama ne
+Šio įstatymo 6
 
-vėliau kaip 2001 m. sausio 31 d.
+straipsnio 6 dalies nuostata įsigalioja nuo 2002 m. sausio 1 d.
 
-Šio įstatymo 6 straipsnio 6 dalies nuostata
+Pakeitimas:
 
-įsigalioja nuo 2002 m. sausio 1 d.
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-137, 2000 12 23, Žin., 2000, Nr.
+
+111-3587 (2000 12 29)
+
+LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS
+
+ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 5.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1911, 00.08.31, Žin., 2000,
+Nr. VIII-1911, 2000 08 31, Žin., 2000, Nr.
 
-Nr.78-2362 (00.09.15)
+78-2362 (2000 09 15)
 
 LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 9 STRAIPSNIO
 
@@ -964,9 +972,9 @@ PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-2070, 00.10.17, Žin., 2000,
+Nr. VIII-2070, 2000 10 17, Žin., 2000, Nr.
 
-Nr.94-2919 (00.11.03)
+94-2919 (2000 11 03)
 
 LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4 IR 6 STRAIPSNIŲ
 
@@ -976,5 +984,7 @@ PAKEITIMO ĮSTATYMAS
 
 Redagavo:
 
-Aušrinė Trapinskienė (2000.11.06)
+Aušrinė Trapinskienė (2001 01 09)
+
+autrap@lrs.lt
 
