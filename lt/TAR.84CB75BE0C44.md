@@ -4,7 +4,7 @@ identifier: "TAR.84CB75BE0C44"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-31"
-last_updated: "2000-04-20"
+last_updated: "2000-05-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.84CB75BE0C44"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -904,17 +904,23 @@ juridiniams asmenims, kurie teikia viešojo maitinimo paslaugas ir pardavinėja
 
 alkoholinius gėrimus, įskaitant alų bei tabako gaminius.
 
-Kredito unijos iki 1997 m. gruodžio 31 d.
+Kredito unijos iki 1997 m.
 
-atleidžiamos nuo juridinių asmenų pelno mokesčio pirmuosius 2 veiklos metus,
+gruodžio 31 d. atleidžiamos nuo juridinių asmenų pelno mokesčio pirmuosius 2
 
-skaičiuojant nuo įregistravimo šio įstatymo nustatyta tvarka dienos. Nuo 1998
+veiklos metus, skaičiuojant nuo įregistravimo šio įstatymo nustatyta tvarka
 
-m. sausio 1 d. arba jeigu iki to laiko suėjo 2 metai nuo kredito unijos
+dienos. Nuo 1998 m. sausio 1 d. arba jeigu iki to laiko suėjo 2 metai nuo
 
-įregistravimo dienos, kredito unijos pelnas apmokestinamas 70 procentų mažesniu
+kredito unijos įregistravimo dienos, kredito unijos pelnas apmokestinamas 70
 
-juridinių asmenų pelno mokesčiu.
+procentų mažesniu juridinių asmenų pelno mokesčiu. Nuo 2000 m. sausio 1 d. iki
+
+2003 m. sausio 1 d. kredito unijos visiškai atleidžiamos nuo juridinių asmenų
+
+pelno mokesčio. Nuo 2003 m. sausio 1 d. kredito unijos pelnas apmokestinamas 70
+
+procentų mažesniu juridinių asmenų pelno mokesčiu.
 
 Organizacijų (įmonių), kurios
 
@@ -988,19 +994,23 @@ Nr.
 
 VIII-1295, 99.07.07, Žin., 1999, Nr.64-2072 (99.07.23)
 
-Nr. VIII-1389, 99.11.04, Žin., 1999, Nr.98-2812 (99.11.19)
+Nr. VIII-1389, 99.11.04, Žin., 1999, Nr.98-2812
+
+(99.11.19)
+
+Nr. VIII-1685, 00.05.18, Žin., 2000, Nr.45-1291
+
+(00.06.02)
 
 9 straipsnis. Įmonės, kurių realizavimo pajamos už
 
 pačių pagamintą produkciją sudaro daugiau kaip 50% visų gautų pajamų ir kuriose
 
-dirba riboto darbingumo dirbantieji, mažina apskaičiuotą pelno mokestį tokia
-
-tvarka:
+dirba riboto darbingumo dirbantieji, mažina apskaičiuotą pelno mokestį tokia tvarka:
 
 Riboto
 
-darbingumo dirbančiųjų                          Apskaičiuoto pelno mokesčio
+darbingumo dirbančiųjų                          Apskaičiuoto pelno mokesčio
 
 sumažinimas
 
@@ -1138,9 +1148,9 @@ dvyliktojo mėnesių pelno avansinis mokestis apskaičiuojamas pagal praėjusį
 
 mokestinį laikotarpį faktiškai apskaičiuotą pelno mokesčio sumą. Kiekvieno
 
-mėnesio pelno avansinis mokestis sudarys 1/12 faktiškai per minėtą laikotarpį apskaičiuoto
+mėnesio pelno avansinis mokestis sudarys 1/12 faktiškai per minėtą laikotarpį
 
-pelno mokesčio sumos.
+apskaičiuoto pelno mokesčio sumos.
 
 Įregistruotos
 
@@ -1154,9 +1164,9 @@ mokestinis laikotarpis buvo trumpesnis negu dvylika mėnesių, apskaičiuojant
 
 pelno avansinius mokesčius faktiškai apskaičiuota mokesčio suma laikoma už tą
 
-mokestinį laikotarpį apskaičiuotoji mokesčio suma, padalyta iš to laikotarpio mėnesių
+mokestinį laikotarpį apskaičiuotoji mokesčio suma, padalyta iš to laikotarpio
 
-skaičiaus ir padauginta iš dvylikos.
+mėnesių skaičiaus ir padauginta iš dvylikos.
 
 Jeigu
 
@@ -1308,9 +1318,9 @@ už teisingą pelno mokesčio apskaičiavimą ir sumokėjimą
 
 16 straipsnis. Mokėtojai atsako, kad pelno mokestis
 
-būtų sumokėtas laiku. Mokesčio laiku nesumokėjus, imami delspinigiai Lietuvos Respublikos
+būtų sumokėtas laiku. Mokesčio laiku nesumokėjus, imami delspinigiai Lietuvos
 
-mokesčių administravimo įstatymo nustatyta tvarka.
+Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 
 Lietuvos
 
@@ -1380,19 +1390,19 @@ Mokėtojas atsako už tai, kad pelno avansinis mokestis ir pelno mokestis už
 
 mokestinį laikotarpį būtų teisingai apskaičiuotas ir sumokėtas.
 
-Jeigu mokesčio mokėtojas ar mokestį
+Jeigu mokesčio mokėtojas ar mokestį išskaičiuojantis
 
-išskaičiuojantis asmuo ne laiku sumoka arba perveda pelno avansinį mokestį (jo
+asmuo ne laiku sumoka arba perveda pelno avansinį mokestį (jo dalį) ar
 
-dalį) ar apskaičiuotą pelno mokestį, Mokesčių administravimo įstatymo nustatyta
+apskaičiuotą pelno mokestį, Mokesčių administravimo įstatymo nustatyta tvarka
 
-tvarka skaičiuojami delspinigiai. Jei mokesčio mokėtojas pelno mokesčio
+skaičiuojami delspinigiai. Jei mokesčio mokėtojas pelno mokesčio apyskaitoje
 
-apyskaitoje sumažina pelno mokesčio sumą arba per mažai sumoka į biudžetą,
+sumažina pelno mokesčio sumą arba per mažai sumoka į biudžetą, Mokesčių
 
-Mokesčių administravimo įstatymo nustatyta tvarka skiriamos ekonominės
+administravimo įstatymo nustatyta tvarka skiriamos ekonominės sankcijos (baudos
 
-sankcijos (baudos ir delspinigiai).
+ir delspinigiai).
 
 Straipsnio
 
@@ -1446,35 +1456,33 @@ pradžioje, įsigijimo savikaina ir atimama per mokestinį laikotarpį ilgalaiki
 
 materialiajam turtui įsigyti panaudota ir negrąžinta skolintų lėšų likučio
 
-suma, taip pat per mokestinį laikotarpį atsiradusio įsigyjant ilgalaikį
+suma, taip pat per mokestinį laikotarpį atsiradusio įsigyjant ilgalaikį materialųjį
 
-materialųjį turtą kreditorinio įsiskolinimo suma, per mokestinį laikotarpį
+turtą kreditorinio įsiskolinimo suma, per mokestinį laikotarpį įmonės nemokamai
 
-įmonės nemokamai gauto ilgalaikio materialiojo turto vertė bei apskaičiuota per
+gauto ilgalaikio materialiojo turto vertė bei apskaičiuota per mokestinį
 
-mokestinį laikotarpį įsigyto ilgalaikio materialiojo turto nusidėvėjimo suma.
+laikotarpį įsigyto ilgalaikio materialiojo turto nusidėvėjimo suma. Parduodant
 
-Parduodant šį ilgalaikį materialųjį turtą, apmokestinamos visos gautos
+šį ilgalaikį materialųjį turtą, apmokestinamos visos gautos realizavimo pajamos
 
-realizavimo pajamos neatimant šio turto likutinės vertės. Kai šis ilgalaikis
+neatimant šio turto likutinės vertės. Kai šis ilgalaikis materialusis turtas
 
-materialusis turtas perduodamas panaudos būdu arba investuojamas į kitą įmonę,
+perduodamas panaudos būdu arba investuojamas į kitą įmonę, nerealizacinės
 
-nerealizacinės apmokestinamosios pajamos didinamos šio turto įsigijimo verte.
+apmokestinamosios pajamos didinamos šio turto įsigijimo verte. Apskaičiuojant
 
-Apskaičiuojant šiame straipsnyje nustatyta tvarka apmokestinamąjį pelną,
+šiame straipsnyje nustatyta tvarka apmokestinamąjį pelną, panaudotą
 
-panaudotą investicijoms, bankų ir kitų kredito įstaigų skolintomis lėšomis
+investicijoms, bankų ir kitų kredito įstaigų skolintomis lėšomis laikomi
 
-laikomi įsiskolinimai kitiems bankams ir kitoms kredito įstaigoms bei
+įsiskolinimai kitiems bankams ir kitoms kredito įstaigoms bei terminuoti indėliai.
 
-terminuoti indėliai. Jeigu įmonė, apskaičiuodama pelno mokestį, investicijas
+Jeigu įmonė, apskaičiuodama pelno mokestį, investicijas apskaičiuoja šiuo būdu,
 
-apskaičiuoja šiuo būdu, pasibaigus mokestiniam laikotarpiui ir skirstant įmonės
+pasibaigus mokestiniam laikotarpiui ir skirstant įmonės pelną investicijai
 
-pelną investicijai panaudota pelno dalis paskiriama į nepaskirstytinuosius
-
-rezervus;
+panaudota pelno dalis paskiriama į nepaskirstytinuosius rezervus;
 
 2) investicija į
 
@@ -1484,33 +1492,33 @@ nebaigta statyba) iš įmonės nuosavų arba skolintų lėšų. Investicija nela
 
 lengvųjų automobilių įsigijimas, išskyrus įmones, kurių pagrindinė veikla -
 
-transporto paslaugos. Apskaičiuojant bendrąjį apmokestinamąjį pelną, investicijai
+transporto paslaugos. Apskaičiuojant bendrąjį apmokestinamąjį pelną,
 
-panaudotos lėšos atimamos iš bendrųjų pajamų tik vienu iš šių būdų: įsigijus
+investicijai panaudotos lėšos atimamos iš bendrųjų pajamų tik vienu iš šių
 
-(pasistačius) ilgalaikį materialųjį turtą, iš bendrųjų pajamų atskaitoma visa
+būdų: įsigijus (pasistačius) ilgalaikį materialųjį turtą, iš bendrųjų pajamų
 
-šio turto įsigijimo vertė (gauto išperkamosios nuomos būdu - faktiškai apmokėta
+atskaitoma visa šio turto įsigijimo vertė (gauto išperkamosios nuomos būdu -
 
-šio turto dalis) arba ilgalaikio materialiojo turto įsigijimo vertė į sąnaudas
+faktiškai apmokėta šio turto dalis) arba ilgalaikio materialiojo turto
 
-perkeliama dalimis per jo eksploatavimo laikotarpį 5 straipsnio pirmosios
+įsigijimo vertė į sąnaudas perkeliama dalimis per jo eksploatavimo laikotarpį 5
 
-dalies 2 punkte nustatyta tvarka. Parduodant ilgalaikį materialųjį turtą, jei
+straipsnio pirmosios dalies 2 punkte nustatyta tvarka. Parduodant ilgalaikį
 
-šio turto įsigijimo vertė buvo iš karto atskaityta iš bendrųjų pajamų,
+materialųjį turtą, jei šio turto įsigijimo vertė buvo iš karto atskaityta iš
 
-apmokestinamos visos gautos realizavimo pajamos neatimant šio turto likutinės
+bendrųjų pajamų, apmokestinamos visos gautos realizavimo pajamos neatimant šio
 
-vertės. Jeigu šis ilgalaikis materialusis turtas perduodamas panaudos būdu arba
+turto likutinės vertės. Jeigu šis ilgalaikis materialusis turtas perduodamas
 
-investuojamas į kitą įmonę, nerealizacinės apmokestinamosios pajamos didinamos
+panaudos būdu arba investuojamas į kitą įmonę, nerealizacinės apmokestinamosios
 
-šio turto įsigijimo verte. Kai ilgalaikiam materialiajam turtui įsigyti
+pajamos didinamos šio turto įsigijimo verte. Kai ilgalaikiam materialiajam
 
-panaudotos lėšos iš karto atimamos iš bendrųjų pajamų, šio turto nusidėvėjimas
+turtui įsigyti panaudotos lėšos iš karto atimamos iš bendrųjų pajamų, šio turto
 
-neskaičiuojamas tik apskaičiuojant pelno mokestį.
+nusidėvėjimas neskaičiuojamas tik apskaičiuojant pelno mokestį.
 
 Įmonės
 
@@ -1562,11 +1570,11 @@ neturinčioms individualioms (personalinėms) įmonėms bei užsienio valstybių
 
 pateikiama per 10 kalendorinių dienų po dividendų išmokėjimo dienos tam vietos
 
-mokesčio administratoriui, kurio veiklos teritorijoje įregistruota pelno
+mokesčio administratoriui, kurio veiklos teritorijoje įregistruota pelno mokestį
 
-mokestį apskaičiuojanti ir išskaitanti įmonė. Apyskaitos formą ir jos užpildymo
+apskaičiuojanti ir išskaitanti įmonė. Apyskaitos formą ir jos užpildymo tvarką
 
-tvarką nustato centrinis mokesčio administratorius.
+nustato centrinis mokesčio administratorius.
 
 Nuo dividendų išskaityto ir sumokėto į biudžetą
 
@@ -1642,9 +1650,7 @@ I-642, 90.10.05, Žin., 1990, Nr. 30-715
 
 DĖL
 
-LIETUVOS RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
-
-PAPILDYMO
+LIETUVOS RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO PAPILDYMO
 
 2.
 
@@ -1838,9 +1844,9 @@ I-1255, 96.03.28, Žin., 1996, Nr. 35-862 (96.04.19)
 
 LIETUVOS
 
-RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 6 IR 8 STRAIPSNIŲ
+RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 6 IR 8 STRAIPSNIŲ PAPILDYMO
 
-PAPILDYMO ĮSTATYMAS
+ĮSTATYMAS
 
 14.
 
@@ -1994,9 +2000,9 @@ VIII-387, 97.07.02, Žin., 1997, Nr.69-1745 (97.07.23)
 
 LIETUVOS
 
-RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 10 IR 11 STRAIPSNIŲ PAKEITIMO
+RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 10 IR 11 STRAIPSNIŲ
 
-ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 Šis
 
@@ -2108,9 +2114,9 @@ Nr. VIII-1496, 99.12.23, Žin., 1999, Nr.113-3291
 
 LIETUVOS
 
-RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 7 IR 22 STRAIPSNIŲ
+RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 7 IR 22
 
-PAKEITIMO ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 30.
 
@@ -2124,13 +2130,21 @@ JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 5 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
-***
+31.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas, Įstatymas
 
-Redagavo:
+Nr. VIII-1685, 00.05.18, Žin., 2000, Nr.45-1291
 
-Aušrinė Trapinskienė (2000.05.03)
+(00.06.02)
+
+JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 8 STRAIPSNIO
+
+PAPILDYMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2000.06.05)
 
 6 straipsnis. Labdaros organizacijų ir fondų,
 
@@ -2236,13 +2250,13 @@ III. Mokesčio
 
 tarifai
 
-18 straipsnis. Kai Lietuvos Respublikos
+18 straipsnis. Kai Lietuvos Respublikos tarpvalstybinės
 
-tarpvalstybinės sutarties nuostatos neatitinka Lietuvos Respublikos juridinių
+sutarties nuostatos neatitinka Lietuvos Respublikos juridinių asmenų pelno
 
-asmenų pelno mokesčio įstatymo, apmokestinant pelną taikomos tarpvalstybinės
+mokesčio įstatymo, apmokestinant pelną taikomos tarpvalstybinės sutarties
 
-sutarties nuostatos.
+nuostatos.
 
 Įstatymas
 
