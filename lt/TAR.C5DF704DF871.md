@@ -4,7 +4,7 @@ identifier: "TAR.C5DF704DF871"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-22"
-last_updated: "1996-01-23"
+last_updated: "1996-03-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C5DF704DF871"
 department: "Lietuvos Respublikos Seimas"
@@ -175,6 +175,26 @@ IR PAPILDYMO
 
 ĮSTATYMAS
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+1-1259, 96.03.28, Žin., 1996, Nr. 35-866 (96.04.19)
+
+LIETUVOS
+
+RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO
+
+6
+
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+*** Pabaiga ***
+
 LIETUVOS RESPUBLIKOS
 
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMAS
@@ -183,7 +203,9 @@ PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMAS
 
 Vilnius
 
-I. MOKESČIO OBJEKTAS
+I.
+
+MOKESČIO OBJEKTAS
 
 1 straipsnis.
 
@@ -259,9 +281,9 @@ užsienio valstybių
 
 ūkio subjektų padaliniai, veikiantys Lietuvos
 
-Respublikoje, ir
+Respublikoje, ir  fiziniai
 
-fiziniai asmenys.          Ūkininkai,   kuriems
+asmenys.          Ūkininkai,   kuriems
 
 taikomas   PVM
 
@@ -275,9 +297,9 @@ sumokėtas   PVM už
 
 pirktas  prekes   ir   gautas  paslaugas  iš
 
-biudžeto
+biudžeto negrąžinamas.
 
-negrąžinamas.  Kompensacinis tarifas  gali būti taikomas
+Kompensacinis tarifas  gali būti taikomas
 
 ūkininkams, kurių
 
@@ -353,6 +375,14 @@ viršijo, PVM  turi skaičiuoti ir mokėti į biudžetą
 
 bendra tvarka.
 
+Laisvosiose
+
+ekonominėse zonose zonų įmonės PVM neskaičiuoja
+
+ir į biudžetą
+
+nemoka.
+
 Pakeitimai:
 
 1.Nr.1-423;
@@ -363,7 +393,7 @@ Pakeitimai:
 
 Nr. 28-489
 
-3.Lietuvos
+2.Lietuvos
 
 Respublikos 1996 01 23
 
@@ -374,6 +404,10 @@ Nr.1-1185
 Žin., 1996,
 
 Nr.13-343
+
+Nr.
+
+1-1259, 96.03.28, Žin., 1996, Nr. 35-866 (96.04.19)
 
 6 straipsnis.
 
@@ -449,7 +483,7 @@ Asmenys, kurie  pagal 6 straipsnio nuostatas
 
 yra PVM   mokėtojai,
 
-privalo  registruotis valstybinėje  mokesčių
+privalo  registruotis valstybinėje  mokesčių
 
 inspekcijoje kaip
 
@@ -581,9 +615,9 @@ apmokestinamoji
 
 kaina  nustatoma ta   pačia tvarka kaip ir muitui
 
-skaičiuoti
+skaičiuoti (įskaitant
 
-(įskaitant į ją akcizus ir muitą).
+į ją akcizus ir muitą).
 
 Pakeitimai:
 
@@ -753,9 +787,9 @@ valstybės valdymo
 
 institucijų;
 
-3)  jeigu
+3)  jeigu   sąskaitoje-faktūroje
 
-sąskaitoje-faktūroje  už  apmokestinamas  prekes
+už  apmokestinamas  prekes
 
 (paslaugas) PVM
 
@@ -781,9 +815,9 @@ Pakeitimai:
 
 Nr. 58-1136
 
-2.Lietuvos Respublikos
+2.Lietuvos
 
-1996 01 23
+Respublikos 1996 01 23
 
 Įstatymas
 
@@ -823,9 +857,9 @@ sumą, mokėtojas
 
 gali pateikti  teritorinei valstybinei  mokesčių
 
-inspekcijai  nustatytos
+inspekcijai
 
-formos   prašymą   skirtumą   grąžinti.
+nustatytos   formos   prašymą   skirtumą   grąžinti.
 
 Skirtumas
 
@@ -859,7 +893,7 @@ I sekcijose;
 
 3)   žemės
 
-ūkio   sezoninių    žaliavų    bei    medžiagų
+ūkio   sezoninių    žaliavų    bei    medžiagų
 
 apmokestinamosioms
 
@@ -1011,9 +1045,9 @@ apskaičiavimą ir
 
 šis mokestis importuotojo sumokėtas į biudžetą.
 
-Už importuojamą  ilgalaikį
+Už importuojamą
 
-gamybinės  paskirties turtą  PVM  gali
+ilgalaikį gamybinės  paskirties turtą  PVM  gali
 
 būti  užskaitomas
 
@@ -1079,9 +1113,9 @@ prekes ir paslaugas,
 
 panaudotas:
 
-1)  PVM  neapmokestinamoms
+1)  PVM
 
-prekėms  gaminti  ir  paslaugoms
+neapmokestinamoms  prekėms  gaminti  ir  paslaugoms
 
 teikti (nurodytoms
 
@@ -1123,7 +1157,7 @@ ne  daugiau  kaip  10  žmonių  (neskaičiuojant
 
 vairuotojo),
 
-eksploatuoti,  jeigu  eksploatavimas  nesusijęs  su
+eksploatuoti,  jeigu  eksploatavimas  nesusijęs  su
 
 apmokamu ir PVM
 
@@ -1187,9 +1221,9 @@ neapmokestinamų   prekių   (suteiktų  paslaugų)
 
 vertei.
 
-Šiame straipsnyje
+Šiame
 
-išvardintiems    atvejams        Lietuvos
+straipsnyje  išvardintiems    atvejams        Lietuvos
 
 Respublikos
 
@@ -1205,9 +1239,9 @@ Sumokėtas PVM grąžinamas:
 
 paritetiniais  pagrindais užsienio šalių diplomatinėms ir
 
-konsulinėms atstovybėms
+konsulinėms
 
-už Lietuvos Respublikoje įsigytas prekes
+atstovybėms  už Lietuvos Respublikoje įsigytas prekes
 
 ir gautas paslaugas,
 
@@ -1247,9 +1281,9 @@ tapačių mokesčių
 
 arba numatyta  juos  grąžinti,  pagal  Lietuvos
 
-Respublikos
+Respublikos Vyriausybės
 
-Vyriausybės sudarytą sąrašą;
+sudarytą sąrašą;
 
 3) Lietuvos
 
@@ -1353,9 +1387,9 @@ IMPORTO IR EKSPORTO APMOKESTINIMAS
 
 Nuo  importuojamų  prekių vertės  imamas šio
 
-įstatymo 13 straipsnio
+įstatymo 13
 
-pirmosios dalies 2 punkte nustatyto dydžio
+straipsnio pirmosios dalies 2 punkte nustatyto dydžio
 
 PVM, kuris
 
@@ -1407,21 +1441,35 @@ faktūra,
 
 patikslinanti anksčiau išrašytąją.
 
-28 straipsnis.
+28  straipsnis.
 
-Jeigu išrašytos sąskaitos-faktūros neatitinka
+Jeigu  išrašytos  PVM  sąskaitos - faktūros
 
-šio įstatymo  26
+neatitinka šio
 
-ir  27  straipsnių  reikalavimų,  pagal    šias
+įstatymo 26  ir 27  straipsnių reikalavimų, pagal
 
-sąskaitas-faktūras
+šias
 
-mokėtinos  tiekėjams PVM sumos, skaičiuojant į
+sąskaitas-faktūras    mokėtinos   tiekėjams   PVM   sumos,
 
-biudžetą mokėtiną
+skaičiuojant į
 
-PVM sumą, neatskaitomos.
+biudžetą mokėtiną PVM sumą, neatskaitomos.
+
+Pakeitimai:
+
+1.Lietuvos
+
+Respublikos 1996 01 23
+
+Įstatymas
+
+Nr.1-1185
+
+Žin., 1996,
+
+Nr.13-343
 
 31 straipsnis.
 
@@ -1439,9 +1487,9 @@ apskaičiavimo  ir
 
 mokėjimo  tvarką   už  Lietuvos  Respublikoje
 
-pagamintus ir
+pagamintus ir  įvežamus
 
-įvežamus alkoholinius gėrimus, tabako gaminius bei
+alkoholinius gėrimus, tabako gaminius bei
 
 naftos produktus.
 
@@ -1485,9 +1533,9 @@ atskaitomą PVM sumą.
 
 Pakeitimai:
 
-1.Lietuvos
+1.Lietuvos Respublikos
 
-Respublikos 1996 01 23
+1996 01 23
 
 Įstatymas
 
@@ -1573,9 +1621,9 @@ Nr. 58-1136
 
 Nr.12-261
 
-3.Lietuvos
+3.Lietuvos Respublikos
 
-Respublikos 1996 01 23
+1996 01 23
 
 Įstatymas
 
@@ -1675,9 +1723,9 @@ dienos. Jeigu
 
 nesilaikoma nustatytos muitinės procedūrų atlikimo
 
-tvarkos  ir
+tvarkos  ir  importo
 
-importo  muitinės  deklaracija  laiku  nepateikiama,
+muitinės  deklaracija  laiku  nepateikiama,
 
 delspinigiai
 
@@ -1763,9 +1811,9 @@ pažeidimo nustatymo
 
 dienos sumokėti į biudžetą.
 
-Laiku
+Laiku  nesumokėtas
 
-nesumokėtas   mokesčių   ir   baudų   sumas   išieško
+mokesčių   ir   baudų   sumas   išieško
 
 valstybinės mokesčių
 
@@ -1887,9 +1935,9 @@ neviršija 50 tūkst.
 
 litų. Ši tvarka pradedama taikyti realizuotai
 
-produkcijai  ir  suteiktoms
+produkcijai  ir
 
-paslaugoms  nuo  1995  m.  liepos  1
+suteiktoms  paslaugoms  nuo  1995  m.  liepos  1
 
 dienos.
 
@@ -1915,7 +1963,9 @@ Nr.12-261
 
 Respublikos 1996 01 23
 
-Įstatymas Nr.1-1185
+Įstatymas
+
+Nr.1-1185
 
 Žin., 1996,
 
@@ -1953,7 +2003,7 @@ tiekėjų  pateiktas prekes,  suteiktas paslaugas  bei
 
 importuotas
 
-prekes,  skirtas  apmokestinamoms  prekėms  gaminti,
+prekes,  skirtas  apmokestinamoms  prekėms  gaminti,
 
 parduoti ir
 
@@ -1991,7 +2041,9 @@ Nr. 28-489
 
 Respublikos 1996 01 23
 
-Įstatymas Nr.1-1185
+Įstatymas
+
+Nr.1-1185
 
 Žin., 1996,
 
@@ -2059,7 +2111,7 @@ straipsnis.   Importuojamų   prekių   vertė   nustatoma
 
 atsižvelgiant  į
 
-šio  įstatymo   10  straipsnio   ir   Lietuvos
+šio  įstatymo   10  straipsnio   ir   Lietuvos
 
 Respublikos muitų
 
@@ -2067,7 +2119,9 @@ tarifų įstatymo nuostatas.
 
 Pakeitimai:
 
-1.Nr.1-423; 1994.04.07.;
+1.Nr.1-423;
+
+1994.04.07.;
 
 Žin., 1994,
 
@@ -2125,7 +2179,7 @@ Respublikos muitų teritorijoje;
 
 5) mokėtojų  -
 
-įmonių,  įstaigų  ir  organizacijų  atliktos
+įmonių,  įstaigų  ir  organizacijų  atliktos
 
 paslaugos už
 
@@ -2169,9 +2223,9 @@ PRIDĖTINĖS VERTĖS MOKESČIO APSKAITA
 
 straipsnis.   Pirkėjams,  įsiregistravusiems   nustatyta
 
-tvarka PVM  mokėtojais,
+tvarka PVM
 
-turi  būti išrašytos Lietuvos Respublikos
+mokėtojais, turi  būti išrašytos Lietuvos Respublikos
 
 Vyriausybės
 
@@ -2197,9 +2251,9 @@ gautoms iš
 
 ūkininkų, kuriems taikomas PVM kompensacinis tarifas,
 
-išrašo prekių ir
+išrašo prekių ir paslaugų
 
-paslaugų gavėjas.
+gavėjas.
 
 Pakeitimai:
 
@@ -2234,36 +2288,6 @@ kainos ar  jų kiekis,  turi būti išrašoma nauja
 PVM
 
 sąskaita-faktūra, patikslinanti anksčiau išrašytąją.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1996 01 23
-
-Įstatymas
-
-Nr.1-1185
-
-Žin., 1996,
-
-Nr.13-343
-
-28
-
-straipsnis.  Jeigu  išrašytos  PVM  sąskaitos - faktūros
-
-neatitinka šio
-
-įstatymo 26  ir 27  straipsnių reikalavimų, pagal
-
-šias
-
-sąskaitas-faktūras    mokėtinos   tiekėjams   PVM   sumos,
-
-skaičiuojant į
-
-biudžetą mokėtiną PVM sumą, neatskaitomos.
 
 Pakeitimai:
 
@@ -2645,6 +2669,248 @@ Pakeitimai:
 
 Nr.25-399
 
+38
+
+straipsnis.   Iki 1997  m. sausio 1 d. laikinu 9 procentų
+
+(o įstatymo  14
+
+straipsnio antrojoje dalyje numatytais atvejais -
+
+8,26 procento)  PVM
+
+tarifu  apmokestinama   Lietuvos  Respublikos
+
+gamintojų pagaminti
+
+kombinuotieji pašarai,  žuvis ir  žemės ūkio
+
+produkcija,
+
+išskyrus     mėsėdžius   švelniaplaukius   žvėrelius,
+
+nutrijas ir  jų
+
+kailiukus,  iš šios produkcijos pagamintos maisto
+
+prekės, kurios  iki
+
+įvedant  PVM nebuvo  apmokestinamos bendruoju
+
+akcizu.  Šių
+
+prekių   sąrašą   nustato   Lietuvos   Respublikos
+
+Vyriausybė.
+
+Iki 1997 m.
+
+sausio 1 d. neapmokestinama:
+
+1) akmens
+
+anglis, suskystintos  ir gamtinės  dujos, nafta,
+
+krosnims kuras,
+
+mazutas, malkos, branduolinis kuras;
+
+2)
+
+gyvenamiesiems  namams ir  butų ūkiui  tiekiamas  vanduo,
+
+elektros ir
+
+šiluminė energija  bei jų išleidžiamas kanalizacinis
+
+vanduo;
+
+3) žemės  ūkio
+
+bendrovių ir žemės ūkio kooperatyvų paslaugos
+
+jų nariams;
+
+4) medicinos
+
+paslaugos, kurias  teikia privačios  sveikatos
+
+priežiūros ir
+
+veterinarinio aptarnavimo įstaigos.
+
+Pakeitimai:
+
+1.Nr. 1-567;
+
+1994.07.20.;
+
+Žin., 1994,
+
+Nr. 58-1136
+
+2.Nr.1-774;
+
+1995.01.26.;
+
+Žin., 1995,
+
+Nr.12-261
+
+3.Lietuvos
+
+Respublikos 1995 10 31
+
+Įstatymas
+
+Nr.1-1083
+
+Žin., 1995,
+
+Nr.92-2057
+
+38-1
+
+straipsnis. Gamybinės įmonės,   kuriose  dirba  riboto
+
+darbingumo asmenų,
+
+aukštųjų ir  aukštesniųjų mokyklų studentų ir
+
+profesinių mokyklų
+
+mokinių, atliekančių  gamybinę praktiką  arba
+
+gamybinį mokymą,
+
+1996 metais  apskaičiuotą į  biudžetą  mokėtiną
+
+skirtumą  tarp  PVM
+
+sumos  už  parduotas  prekes  bei  suteiktas
+
+paslaugas ir
+
+atskaitomos sumos sumažina taip:
+
+nurodytų asmenų
+
+dalis                        PVM suma
+
+tarp visų
+
+dirbančiųjų                        sumažinama
+
+daugiau kaip 50
+
+proc.                        100 proc.
+
+daugiau kaip 45
+
+proc., bet mažiau
+
+kaip 50
+
+proc.                                90 proc.
+
+nuo 40 iki 45
+
+proc.                          70 proc.
+
+Invalidų
+
+visuomeninių   organizacijų   akcinės   bendrovės,
+
+uždarosios  akcinės
+
+bendrovės,  kurių  visos  akcijos  priklauso
+
+invalidų
+
+visuomeninėms  organizacijoms,  apskaičiuotą  mokėti  į
+
+biudžetą PVM
+
+skirtumą mažina  100 procentų.  Invalidų  draugijos
+
+akcinė bendrovė
+
+"Puntukas" apskaičiuotą  mokėti į  biudžetą  PVM
+
+skirtumą   mažina
+
+proporcingai   draugijos   turimo   kapitalo
+
+procentui.
+
+Teikiant šią
+
+lengvatą, riboto darbingumo asmenimis laikomi:
+
+I, II ir III
+
+grupių invalidai;
+
+II ir III
+
+kurtumo laipsnio asmenys (pagal Neimaną);
+
+pataisos
+
+įstaigose dirbantys nuteistieji;
+
+gydymo
+
+įstaigų   darbo   terapijos  dirbtuvėse  dirbantys
+
+ligoniai.
+
+Įmonių
+
+priskyrimo   prie   gamybinių įmonių tvarką nustato
+
+Lietuvos Respublikos
+
+Vyriausybė.
+
+Pakeitimai:
+
+1.Nr.1-423;
+
+1994.04.07.;
+
+Žin., 1994,
+
+Nr. 28-489
+
+2.Nr.1-774;
+
+1995.01.26.;
+
+Žin., 1995,
+
+Nr.12-261
+
+3.Nr.1-904;
+
+1995 05 30
+
+Žin., 1995,
+
+Nr. 49-1178
+
+4.Lietuvos
+
+Respublikos 1996 01 23
+
+Įstatymas
+
+Nr.1-1185
+
+Žin., 1996,
+
+Nr.13-343
+
 29 straipsnis.
 
 Jeigu  mokėtojas  apskaičiavo ir įrašė į PVM
@@ -2695,9 +2961,9 @@ tvarko   parduotos
 
 produkcijos  ir   suteiktų  paslaugų  su PVM
 
-apskaitos
+apskaitos    žurnalą
 
-žurnalą  ir  saugo  sąskaitas-faktūras  Buhalterinės
+ir  saugo  sąskaitas-faktūras  Buhalterinės
 
 apskaitos pagrindų
 
@@ -2819,9 +3085,9 @@ platinimą;
 
 ir  veiksmus,   už  kuriuos  imamas  žyminis
 
-mokestis,  taip
+mokestis,  taip  pat
 
-pat  mokesčius,  kurie  įskaitomi  į  specialias
+mokesčius,  kurie  įskaitomi  į  specialias
 
 valstybės ižde
 
@@ -2963,7 +3229,7 @@ Nr.1-1185
 
 Nr.13-343
 
-II.
+II. PRIDĖTOSIOS
 
-PRIDĖTOSIOS VERTĖS MOKESČIO MOKĖTOJAI
+VERTĖS MOKESČIO MOKĖTOJAI
 
