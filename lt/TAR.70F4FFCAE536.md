@@ -4,7 +4,7 @@ identifier: "TAR.70F4FFCAE536"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-25"
-last_updated: "2000-09-01"
+last_updated: "2001-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2000-05-25"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
+
+Suvestinė redakcija nuo 2001-01-01 iki 2001-05-08
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
 
 LIETUVOS RESPUBLIKOS VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS Į S T A T Y M A S
 
@@ -87,7 +91,11 @@ Vaiko teisių apsaugos kontrolierius, eidamas tarnybines pareigas, yra nepriklau
 
 2. Vaiko teisių apsaugos kontrolieriui, atleistam iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, išmokama jo vidutinio mėnesinio darbo užmokesčio dydžio išeitinė pašalpa; pagal 6 straipsnio 1 dalies 3 ir 5 punktus – dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio išeitinė pašalpa, o jam mirus – jo šeimai išmokama dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio kompensacija.
 
-3. Vaiko teisių apsaugos kontrolieriui, atleistam iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, turi būti suteiktos iki tol eitos pareigos valstybės tarnyboje, išskyrus renkamas pareigas. Jei buvusios pareigos panaikintos arba buvusi darbovietė likviduota, jam turi būti pasiūlytos kitos pareigos valstybės tarnyboje, atitinkančios jo profesiją ir kvalifikaciją. Prašymą grąžinti į ankstesnes pareigas vaiko teisių apsaugos kontrolierius pateikia buvusios darbovietės vadovui, o darbovietę likvidavus - jos steigėjui dėl kitų jo profesiją ir kvalifikaciją atitinkančių pareigų valstybės tarnyboje suteikimo. Prašymas pateikiamas ne vėliau kaip per 10 darbo dienų nuo atleidimo iš vaiko teisių apsaugos kontrolieriaus pareigų dienos. Tais atvejais, kai likvidavus darbovietę nebeegzistuoja ir jos steigėjas, buvęs vaiko teisių apsaugos kontrolierius turi teisę kreiptis į Valdymo reformų ir savivaldybių reikalų ministeriją, o ši turi teikti jam informaciją apie laisvas darbo vietas valstybės tarnyboje, esančioje jo nuolatinėje gyvenamojoje vietoje.
+3. Vaiko teisių apsaugos kontrolierius, atleistas iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, Valstybės tarnybos įstatymo nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-122, 2000-12-21, Žin., 2000, Nr. 111-3581 (2000-12-29), i. k. 1001010ISTA00IX-122
 
 11 straipsnis. Vaiko teisių apsaugos kontrolieriaus pavaduotojas
 
@@ -343,23 +351,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-51 straipsnis. Vaiko teisių apsaugos kontrolieriaus priesaika
+Pakeitimai:
 
-1. Asmuo, paskirtas vaiko teisių apsaugos kontrolieriumi, prieš pradėdamas eiti pareigas, prisiekia Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
+1.
 
-1) „Aš, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.
+Lietuvos Respublikos Seimas, Įstatymas
 
-Tepadeda man Dievas.“;
+Nr. IX-122, 2000-12-21, Žin., 2000, Nr. 111-3581 (2000-12-29), i. k. 1001010ISTA00IX-122
 
-2) „Aš, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.“
-
-2. Priesaiką priima Seimo Pirmininkas Seimo posėdyje.
-
-3. Vaiko teisių apsaugos kontrolierius priesaikos tekstą pasirašo. Priesaikos tekstas saugomas Seime.
-
-TAR pastaba. Iki įstatymo Nr. X-443 įsigaliojimo (2005-12-22) paskirtas vaiko teisių apsaugos kontrolierius Seimo posėdyje prisiekia per du mėnesius nuo įstatymo Nr. X-443 įsigaliojimo dienos (2005-12-22).
-
-Papildyta straipsniu:
-
-Nr. X-443, 2005-12-13, Žin., 2005, Nr. 149-5420 (2005-12-22), i. k. 1051010ISTA000X-443
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 10 straipsnio pakeitimo įstatymas
 
