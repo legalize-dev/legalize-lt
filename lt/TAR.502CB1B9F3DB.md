@@ -4,7 +4,7 @@ identifier: "TAR.502CB1B9F3DB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-02"
-last_updated: "1997-11-18"
+last_updated: "1998-01-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.502CB1B9F3DB"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ document_status: "registruotas TA registre"
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.12.04)
+Ramunė Lūžaitė (1998.01.19)
 
 Įstatymas
 
@@ -64,6 +64,22 @@ LIETUVOS
 RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 11
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-600, 98.01.08, Žin., 1998, Nr.6-114 (98.01.16)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 4
+
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -177,6 +193,12 @@ kriminogeninei situacijai, jį priimti įgaliota institucija skiria kriminologin
 
 ekspertizę.
 
+7. Komisijų ir darbo grupių, kurias sudaro
+
+Seimas, Respublikos Prezidentas ar Vyriausybė, darbo apmokėjimo už teisės aktų
+
+rengimą ir ekspertizę tvarką tvirtina Vyriausybė.
+
 Straipsnio
 
 pakeitimai:
@@ -184,6 +206,10 @@ pakeitimai:
 Nr.
 
 I-1421, 96.07.02, Žin., 1996, Nr. 68-1632 (96.07.19)
+
+Nr.
+
+VIII-600, 98.01.08, Žin., 1998, Nr.6-114 (98.01.16)
 
 5
 
@@ -303,9 +329,9 @@ eilutės kairėje, o vardas, pavardė - eilutės dešinėje.
 
 7.
 
-Kartu su įstatymo projektu pateikiamas aiškinamasis raštas pagal Lietuvos Respublikos
+Kartu su įstatymo projektu pateikiamas aiškinamasis raštas pagal Lietuvos
 
-Seimo statuto 140 straipsnio nuostatas.
+Respublikos Seimo statuto 140 straipsnio nuostatas.
 
 Straipsnio
 
@@ -351,13 +377,15 @@ pavadinimai  rašomi mažosiomis raidėmis.
 
 3.
 
-Įstatymo  dalys  ir  skyriai  žymimi  romėniškais skaitmenimis iš eilės.
+Įstatymo  dalys  ir  skyriai  žymimi  romėniškais skaitmenimis iš eilės.
 
 Skirsniai žymimi žodžiais išreikštais skaitmenimis.  Straipsniai žymimi
 
-arabiškais skaitmenimis ir numeruojami iš eilės. Po žodžio "straipsnis"
+arabiškais skaitmenimis ir numeruojami iš eilės. Po žodžio
 
-dedamas taškas ir straipsnio pavadinimas rašomas toje pačioje eilutėje.
+"straipsnis" dedamas taškas ir straipsnio pavadinimas rašomas toje pačioje
+
+eilutėje.
 
 4.
 
@@ -429,9 +457,9 @@ dedamas taškas, straipsnio tekstas rašomas iš naujos eilutės. Straipsnių da
 
 }ymimos arabiškais skaitmenimis iš eilės. Straipsnio dalių punktai žymimi
 
-arabiškais skaitmenimis su skliausteliu. Seimo nutarimais ir Prezidento
+arabiškais skaitmenimis su skliausteliu. Seimo nutarimais ir Prezidento dekretais
 
-dekretais tvirtinami teisės aktai turi punktus ir papunkčius. Jų punktai žymimi
+tvirtinami teisės aktai turi punktus ir papunkčius. Jų punktai žymimi
 
 arabiškais skaitmenimis su  tašku,  o  papunkčiai  žymimi  arabišku  skaitmeniu
 
@@ -439,19 +467,19 @@ su skliausteliu.
 
 3.
 
-Vyriausybės ir kitų institucijų teisės aktus sudaro punktai, jų pastraipos ir
+Vyriausybės ir kitų institucijų teisės aktus sudaro punktai, jų pastraipos ir punktų
 
-punktų papunkčiai. Punktai žymimi arabiškais skaitmenimis ir numeruojami iš
+papunkčiai. Punktai žymimi arabiškais skaitmenimis ir numeruojami iš eilės. Po
 
-eilės. Po skaitmens dedamas  taškas.  Punktų  pastraipos  nenumeruojamos.
+skaitmens dedamas  taškas.  Punktų  pastraipos  nenumeruojamos. Punktų
 
-Punktų papunkčiai žymimi arabiškais skaitmenimis ir turi pradinį punkto ir savo
+papunkčiai žymimi arabiškais skaitmenimis ir turi pradinį punkto ir savo eilės
 
-eilės skaitmenį. Tarp punkto ir papunkčio skaitmens ir po  papunkčio
+skaitmenį. Tarp punkto ir papunkčio skaitmens ir po  papunkčio  skaitmens
 
-skaitmens  dedami taškai. Atskirai numeruoti papunkčiai gali būti vadinami
+dedami taškai. Atskirai numeruoti papunkčiai gali būti vadinami punktais. Viso
 
-punktais. Viso teisės akto punktų numeracija yra ištisinė.
+teisės akto punktų numeracija yra ištisinė.
 
 4.
 
@@ -565,9 +593,9 @@ paskelbimo šaltiniai nurodomi po keičiančiojo įstatymo skirsnio pavadinimo.
 
 Keičiant ar pildant įstatymus, paskelbtus iki Lietuvos Respublikos  įstatymų ir
 
-kitų teisės norminių aktų rengimo tvarkos įstatymo (Žin., 1995, Nr.41-991) įsigaliojimo,
+kitų teisės norminių aktų rengimo tvarkos įstatymo (Žin., 1995, Nr.41-991)
 
-jų forma ir struktūra nekeičiama.
+įsigaliojimo, jų forma ir struktūra nekeičiama.
 
 Straipsnio
 
