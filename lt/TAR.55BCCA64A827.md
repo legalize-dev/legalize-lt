@@ -4,7 +4,7 @@ identifier: "TAR.55BCCA64A827"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "1999-06-03"
+last_updated: "1999-10-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55BCCA64A827"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo:
 
-Ramunė Lūžaitė (1999.06.16)
+Ramunė Lūžaitė (1999.10.19)
 
 Įstatymas
 
@@ -31,55 +31,67 @@ Pakeitimai:
 
 1.
 
-Lietuvos Respublikos Seimas,
+Lietuvos
 
-Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-722, 98.04.28,
+Nr. VIII-722,
 
-Žin., 1998, Nr.44-1202 (98.05.13)
+98.04.28, Žin., 1998, Nr.44-1202 (98.05.13)
 
-LIETUVOS RESPUBLIKOS PASKOLŲ
+LIETUVOS
 
-IŠ UŽSIENIO BANKŲ BŪTINGĖS NAFTOS TERMINALO PROJEKTUI FINANSUOTI ĮSTATYMO
+RESPUBLIKOS PASKOLŲ IŠ UŽSIENIO BANKŲ BŪTINGĖS NAFTOS TERMINALO PROJEKTUI
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+FINANSUOTI ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 2.
 
-Lietuvos Respublikos Seimas,
+Lietuvos
 
-Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-1209, 99.06.03,
+Nr. VIII-1209,
 
-Žin., 1999, Nr.52-1674 (99.06.16)
+99.06.03, Žin., 1999, Nr.52-1674 (99.06.16)
 
-LIETUVOS RESPUBLIKOS PASKOLŲ
+LIETUVOS RESPUBLIKOS PASKOLŲ IŠ UŽSIENIO BANKŲ BŪTINGĖS
 
-IŠ UŽSIENIO BANKŲ BŪTINGĖS NAFTOS TERMINALO PROJEKTUI FINANSUOTI ĮSTATYMO
+NAFTOS TERMINALO PROJEKTUI FINANSUOTI ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-PAKEITIMO ĮSTATYMAS
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1347, 99.10.05, Žin., 1999, Nr.86-2564 (99.10.15)
+
+LIETUVOS RESPUBLIKOS PASKOLŲ IŠ UŽSIENIO BANKŲ AKCINĖS BENDROVĖS
+
+„MAŽEIKIŲ NAFTA“ MAŽEIKIŲ NAFTOS PERDIRBIMO GAMYKLOS REKONSTRUKCIJOS BEI
+
+BŪTINGĖS NAFTOS TERMINALO STATYBOS PROJEKTUI FINANSUOTI IR BENDROVĖS „MAŽEIKIŲ
+
+NAFTA“ APYVARTINĖMS LĖŠOMS PAPILDYTI ĮSTATYMO 1 IR 2 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
 
 *** Pabaiga***
 
 Įstatymo pavadinimas pakeistas:
 
-Nr. VIII-1209, 99.06.03,
+Nr. VIII-1209,
 
-Žin., 1999, Nr.52-1674 (99.06.16)
+99.06.03, Žin., 1999, Nr.52-1674 (99.06.16)
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS
 
-RESPUBLIKOS
+PASKOLŲ IŠ UŽSIENIO BANKŲ AKCINĖS BENDROVĖS „MAŽEIKIŲ NAFTA“ MAŽEIKIŲ
 
-PASKOLŲ
+NAFTOS PERDIRBIMO GAMYKLOS REKONSTRUKCIJOS BEI BŪTINGĖS NAFTOS TERMINALO
 
-IŠ UŽSIENIO BANKŲ AKCINĖS BENDROVĖS „MAŽEIKIŲ NAFTA“ MAŽEIKIŲ NAFTOS PERDIRBIMO
+STATYBOS PROJEKTUI FINANSUOTI IR BENDROVĖS „MAŽEIKIŲ NAFTA“ APYVARTINĖMS LĖŠOMS
 
-GAMYKLOS REKONSTRUKCIJOS BEI BŪTINGĖS NAFTOS TERMINALO STATYBOS PROJEKTUI
-
-FINANSUOTI IR BENDROVĖS „MAŽEIKIŲ NAFTA“ APYVARTINĖMS LĖŠOMS PAPILDYTI
+PAPILDYTI
 
 ĮSTATYMAS
 
@@ -87,9 +99,7 @@ FINANSUOTI IR BENDROVĖS „MAŽEIKIŲ NAFTA“ APYVARTINĖMS LĖŠOMS PAPILDYTI
 
 Vilnius
 
-1 straipsnis. Sprendimas
-
-imti paskolas
+1 straipsnis. Sprendimas imti paskolas
 
 Lietuvos Respublikos Seimas,
 
@@ -105,21 +115,51 @@ Mažeikių naftos perdirbimo gamyklos rekonstrukcijos bei Būtingės naftos
 
 terminalo statybos projektui finansuoti ir bendrovės „Mažeikių nafta“
 
-apyvartinėms lėšoms papildyti. Valstybės vardu imamų paskolų ir (ar) paskolų su
+apyvartinėms lėšoms papildyti. Šiame įstatyme nurodytiems tikslams valstybės
+
+vardu imamų paskolų, iš valstybės lėšų teikiamų paskolų ir (ar) paskolų su
 
 valstybės garantija bendra suma (gautos paskolos, atėmus grąžintas) neturi
 
-viršyti 400 mln. JAV dolerių (1600 mln. litų).
+viršyti 650 mln. JAV dolerių (2 600 mln. litų).
 
-Straipsnio pakeitimai:
+Straipsnio
 
-Nr. VIII-722, 98.04.28,
+pakeitimai:
 
-Žin., 1998, Nr.44-1202 (98.05.13)
+Nr. VIII-722,
 
-Nr. VIII-1209, 99.06.03,
+98.04.28, Žin., 1998, Nr.44-1202 (98.05.13)
 
-Žin., 1999, Nr.52-1674 (99.06.16)
+Nr. VIII-1209,
+
+99.06.03, Žin., 1999, Nr.52-1674 (99.06.16)
+
+Nr. VIII-1347, 99.10.05, Žin., 1999, Nr.86-2564 (99.10.15)
+
+2
+
+straipsnis. Įgaliojimai Lietuvos Respublikos Vyriausybei nustatyti konkrečias
+
+paskolų sąlygas
+
+Įgalioti Lietuvos Respublikos Vyriausybę
+
+derėtis su užsienio kreditoriais dėl kiekvienos konkrečios iš jų valstybės
+
+vardu imamos paskolos sumos bei sąlygų ir nustatyti tai Lietuvos Respublikos
+
+Vyriausybės nutarimuose.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-722,
+
+98.04.28, Žin., 1998, Nr.44-1202 (98.05.13)
+
+Nr. VIII-1347, 99.10.05, Žin., 1999, Nr.86-2564 (99.10.15)
 
 2 straipsnis.
 
@@ -141,35 +181,37 @@ Nr. VIII-722, 98.04.28,
 
 Žin., 1998, Nr.44-1202 (98.05.13)
 
-3 straipsnis. Sprendimas imti trumpalaikę tarpinę
+3 straipsnis. Sprendimas imti
 
-paskolą
+trumpalaikę tarpinę paskolą
 
-Akcinės bendrovės “Būtingės nafta” Būtingės naftos
+Akcinės bendrovės “Būtingės nafta”
 
-terminalo statybos nenutrūkstamam finansavimui užtikrinti Lietuvos Respublikos
+Būtingės naftos terminalo statybos nenutrūkstamam finansavimui užtikrinti
 
-Seimas nusprendžia suteikti teisę Lietuvos Respublikos Vyriausybei imti iki 75
+Lietuvos Respublikos Seimas nusprendžia suteikti teisę Lietuvos Respublikos
 
-mln. JAV dolerių trumpalaikę tarpinę paskolą ir (ar) suteikti valstybės
+Vyriausybei imti iki 75 mln. JAV dolerių trumpalaikę tarpinę paskolą ir (ar)
 
-garantiją ją teikiančiam kreditoriui, kuris paskolos sąlygas turi suderinti su
+suteikti valstybės garantiją ją teikiančiam kreditoriui, kuris paskolos sąlygas
 
-Finansų ministerija, ir (arba) suteikti trumpalaikę tarpinę paskolą akcinei
+turi suderinti su Finansų ministerija, ir (arba) suteikti trumpalaikę tarpinę
 
-bendrovei “Būtingės nafta” iš valstybės lėšų.
+paskolą akcinei bendrovei “Būtingės nafta” iš valstybės lėšų.
 
-Straipsnio pakeitimai:
+Straipsnio
 
-Nr. VIII-722, 98.04.28,
+pakeitimai:
 
-Žin., 1998, Nr.44-1202 (98.05.13)
+Nr. VIII-722,
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą
+98.04.28, Žin., 1998, Nr.44-1202 (98.05.13)
 
-įstatymą.
+Skelbiu šį Lietuvos Respublikos Seimo
 
-RESPUBLIKOS PREZIDENTAS                                  ALGIRDAS
+priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS
 
 BRAZAUSKAS
 
