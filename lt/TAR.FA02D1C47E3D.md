@@ -4,7 +4,7 @@ identifier: "TAR.FA02D1C47E3D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-03-22"
-last_updated: "1990-10-27"
+last_updated: "1991-01-12"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Suvestinė redakcija nuo 1990-10-27 iki 1991-01-11
+Suvestinė redakcija nuo 1991-01-12 iki 1991-01-23
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
 
@@ -149,15 +149,15 @@ Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990
 
 9 straipsnis. Nepasitikėjimas Lietuvos Respublikos Vyriausybe
 
-Lietuvos Respublikos Aukščiausioji Taryba gali pareikšti nepasitikėjimą Lietuvos Respublikos Vyriausybe arba Lietuvos Respublikos ministru.
+Lietuvos Respublikos Aukščiausioji Taryba gali pareikšti nepasitikėjimą Lietuvos Respublikos Vyriausybe arba jos nariu.
 
-Sprendimas dėl nepasitikėjimo Lietuvos Respublikos Vyriausybe arba Lietuvos Respublikos ministru priimamas , jeigu už tokį sprendimą slaptu balsavimu balsavo du trečdaliai bendro deputatų skaičiaus.
+Sprendimas dėl nepasitikėjimo Vyriausybe ar paskiru jos nariu priimamas slaptu balsavimu daugiau kaip pusės bendro Aukščiausiosios Tarybos deputatų skaičiaus balsų dauguma.
 
-Pareiškus nepasitikėjimą Lietuvos Respublikos Vyriausybe arba Lietuvos Respublikos ministru, visa Vyriausybė arba tas ministras privalo atsistatydinti. Lietuvos Respublikos Vyriausybė arba Lietuvos Respublikos ministras Aukščiausiosios Tarybos pavedimu vykdo savo pareigas, kol bus sudaryta nauja Vyriausybė arba paskirtas naujas ministras.
+Pareiškus nepasitikėjimą Lietuvos Respublikos Vyriausybe arba jos nariu, visa Vyriausybė ar tas Vyriausybės narys privalo atsistatydinti. Lietuvos Respublikos Vyriausybė arba jos narys Aukščiausiosios Tarybos pavedimu vykdo savo pareigas, kol bus sudaryta nauja Vyriausybė arba paskirtas naujas jos narys.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-753 (1990-11-10), i. k. 0901010ISTA000I-693
+Nr. I-922, 1991-01-09, Lietuvos aidas, 1991, Nr. 7-0 (1991-01-11); Žin., 1991, Nr. 2-45 (1991-01-20), i. k. 0911010ISTA000I-922
 
 10 straipsnis. Lietuvos Respublikos Vyriausybės dalyvavimas Lietuvos Respublikos Aukščiausiosios Tarybos darbe
 
@@ -450,6 +450,14 @@ LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-753 (1990-11-10), i. k. 0901010ISTA000I-693
 
 Dėl Lietuvos Respublikos Vyriausybės įstatymo kai kurių straipsnių pakeitimo
+
+5.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-922, 1991-01-09, Lietuvos aidas, 1991, Nr. 7-0 (1991-01-11); Žin., 1991, Nr. 2-45 (1991-01-20), i. k. 0911010ISTA000I-922
+
+Dėl Lietuvos Respublikos Vyriausybės įstatymo 9 straipsnio pakeitimo
 
 61 straipsnis. Lietuvos Respublikos vyriausybės prisaikdinimas
 
