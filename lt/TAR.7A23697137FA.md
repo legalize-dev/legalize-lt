@@ -4,7 +4,7 @@ identifier: "TAR.7A23697137FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-05-02"
-last_updated: "1995-10-18"
+last_updated: "1995-11-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7A23697137FA"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymas
 
-Suvestinė redakcija nuo 1995-10-18 iki 1995-11-16
+Suvestinė redakcija nuo 1995-11-17 iki 1996-07-16
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 1-0; Žin. 1990, Nr.14-386, i. k. 0901010ISTA000I-180
 
@@ -33,9 +33,13 @@ pažymėdama, kad represijas šiems asmenims vykdė TSRS teismai ir neteisminiai
 
 siekdama pašalinti represijų pasekmes ir atstatyti teisingumą, nutaria:
 
-1. Paskelbti, kad Lietuvos gyventojai, kurie tiek Lietuvoje, tiek už jos ribų buvo represinių organų nuteisti arba įkalinti neteismine tvarka, arba kitaip apribota jų laisvė pagal RTFSR baudžiamąjį kodeksą (1926 m.), kitų TSRS respublikų baudžiamuosius įstatymus, hitlerinės Vokietijos baudžiamuosius nuostatus arba vietos įstatymus (1941-1944 m.) už pasipriešinimą agresijai ir okupaciniams režimams, taip pat ištremti iš Lietuvos 1940-1953 metais bei nuteisti pagal buvusios Lietuvos TSR baudžiamojo kodekso 62, 63, 66-68, 70, 73, 79-82, 88, 89, 199-1, 210, 211 straipsnius, yra nekalti Lietuvos Respublikai ir atstatomos visos jų pilietinės teisės.
+1. Paskelbti, kad Lietuvos gyventojai, kurie tiek Lietuvoje, tiek už jos ribų buvo represinių organų nuteisti arba įkalinti neteismine tvarka, arba kitaip apribota jų laisvė pagal RTFSR baudžiamąjį kodeksą (1926 m.), kitų TSRS respublikų baudžiamuosius įstatymus, hitlerinės Vokietijos baudžiamuosius nuostatus arba vietos įstatymus (1941-1944 m.) už pasipriešinimą agresijai ir okupaciniams režimams, taip pat ištremti iš Lietuvos 1940-1953 metais bei nuteisti pagal buvusios Lietuvos TSR baudžiamojo kodekso 62, 63, 66-68, 70, 73, 79-82, 88, 89, 199-1, 210, 211, o po 1990 m. kovo 11 d. nuteisti pagal 259, 260, 261, 263 ir atitinkamus buvusių TSRS respublikų baudžiamųjų kodeksų straipsnius, yra nekalti Lietuvos Respublikai ir atstatomos visos jų pilietinės teisės.
 
 Lietuvos Respublikos Aukščiausioji Taryba pasipriešinimo dalyvių kovą vertina kaip tautos teisės į savigyną pasireiškimą.
+
+Straipsnio pakeitimai:
+
+Nr. I-1082, 1995-10-31, Žin., 1995, Nr. 94-2086 (1995-11-17), i. k. 0951010ISTA00I-1082
 
 2. Šio įstatymo pirmojo straipsnio nuostata netaikoma asmenims, dalyvavusiems darant genocido nusikaltimus, taip pat beginklių civilių žmonių žudynėse ir kankinimuose.
 
@@ -118,4 +122,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1051, 1995-09-28, Žin., 1995, Nr. 85-1915 (1995-10-18), i. k. 0951010ISTA00I-1051
 
 Dėl Lietuvos Respublikos įstatymo "Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo" pakeitimo ir papildymo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1082, 1995-10-31, Žin., 1995, Nr. 94-2086 (1995-11-17), i. k. 0951010ISTA00I-1082
+
+Dėl Lietuvos Respublikos įstatymo "Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo" papildymo
 
