@@ -4,7 +4,7 @@ identifier: "TAR.5A608482B781"
 country: "lt"
 rank: "istatymas"
 publication_date: "1961-06-26"
-last_updated: "1998-06-09"
+last_updated: "1998-06-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5A608482B781"
 department: "LIETUVOS TSR AUKŠČIAUSIOSIOS TARYBOS PREZIDIUMAS"
@@ -15,21 +15,19 @@ eu_legal_act: "true"
 ---
 # Dėl Lietuvos tarybų socialistinės Respublikos baudžiamojo kodekso patvirtinimo
 
-Redagavo: Ramunė
+Redagavo:
 
-Lūžaitė (1998.09.02)
+Ramunė Lūžaitė (1998.09.02)
 
-Pakeitimų eilė nuo
+Pakeitimų
 
-1997 m. spalio 16 d.
+eilė nuo 1997 m. spalio 16 d.
 
 Pakeitimai:
 
 1.
 
-Lietuvos
-
-Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. VIII-460, 97.10.16, Žin., 1997,
 
@@ -41,9 +39,9 @@ PAPILDYMO 85(1), 199(4), 306(1) STRAIPSNIAIS ĮSTATYMAS
 
 2.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
 Nr. VIII-527, 97.11.20, Žin., 1997,
 
@@ -57,13 +55,13 @@ LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO 134,
 
 3.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-540,
+Nr.
 
-97.11.25, Žin., 1997, Nr.112-2826 (97.12.10)
+VIII-540, 97.11.25, Žin., 1997, Nr.112-2826 (97.12.10)
 
 LIETUVOS
 
@@ -89,13 +87,13 @@ LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO
 
 5.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-708,
+Nr.
 
-98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
+VIII-708, 98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
 
 LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO
 
@@ -105,13 +103,13 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 6.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-725,
+Nr.
 
-98.05.05, Žin., 1998, Nr.49-1327 (98.05.27)
+VIII-725, 98.05.05, Žin., 1998, Nr.49-1327 (98.05.27)
 
 LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO 270
 
@@ -119,13 +117,13 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 7.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-744,
+Nr.
 
-98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
+VIII-744, 98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
 
 LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO
 
@@ -148,6 +146,20 @@ PAPILDYMO AŠTUONIOLIKTUOJU SKIRSNIU "KARO NUSIKALTIMAI" (333-344
 STRAIPSNIAI), 8(1), 24, 25, 26, 35, 49, 295 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO,
 
 219 IR 261 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-820, 98.06.30, Žin., 1998,
+
+Nr.61-1734 (98.07.08)
+
+LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO
+
+199(2) STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -177,11 +189,11 @@ padaro esminę žalą asmens, valstybės ar visuomenės interesams arba kelia gr
 
 tokiai žalai atsirasti;
 
-2) tiksliai apibrėžti, kokios veikos
+2) tiksliai apibrėžti, kokios
 
-pripažįstamos nusikaltimais;
+veikos pripažįstamos nusikaltimais;
 
-3) nustatyti nusikalstamųI veikų
+3) nustatyti nusikalstamų veikų
 
 pavojingumo pobūdį bei laipsnį ir jas atitinkančias bausmes;
 
@@ -207,7 +219,7 @@ tuo atveju, jeigu jo padarytos veikos baudžiamumas buvo nustatytas įstatymo,
 
 Pagal baudžiamuosius įstatymus
 
-atsako ir baudžiamas tik toks frzinis asmuo, kuris kaltas nusikaltimo padarymu,
+atsako ir baudžiamas tik toks fizinis asmuo, kuris kaltas nusikaltimo padarymu,
 
 tai yra tyčia ar dėl neatsargumo padarė baudžiamojo įstatymo numatytą veiką.
 
@@ -263,7 +275,7 @@ Lietuvos teritorijoje, jeigu Lietuvos teritorijoje nusikaltimas buvo pradėtas
 
 ar baigtas arba jam užkirstas kelias.
 
-Pagal Lietuvos baudžiamuosius jstatymus
+Pagal Lietuvos baudžiamuosius įstatymus
 
 atsako taip pat asmenys, padarę nusikaltimus orlaiviuose, jūrų ar upių
 
@@ -299,7 +311,7 @@ Kiti asmenys, padarę užsienyje
 
 nusikaltimus, gali būti traukiami baudžiamojon atsakomybėn pagal Lietuvos
 
-Respublikos jstatymus tik tuo atveju, jei padaryta veika pripažįstama
+Respublikos įstatymus tik tuo atveju, jei padaryta veika pripažįstama
 
 nusikaltimu ir yra baudžiama pagal nusikaltimo padarymo vietos ir Lietuvos
 
@@ -309,7 +321,9 @@ užsienyje, traukiamas baudžiamojon atsakomybėn pagal Lietuvos Respublikos
 
 baudžiamuosius įstatymus, tačiau abiejose šalyse šis nusikaltimas baudžiamas
 
-skirtingai, nusikaltusiam asmeniui skiriama bausmė, numatyta švelnesnio įstatymo.
+skirtingai, nusikaltusiam asmeniui skiriama bausmė, numatyta švelnesnio
+
+įstatymo.
 
 Padaręs nusikaltimą užsienyje,
 
@@ -323,9 +337,9 @@ teismo paskirtą bausmę;
 
 įsiteisėjusiu teismo nuosprendžiu buvo išteisintas, atleistas nuo baudžiamosios
 
-atsakomybės arba bausmė nebuvo paskirta dėl senaties ar kitais toje šalyje
+atsakomybės arba bausmė nebuvo paskirta dėl senaties ar kitais toje šalyje numatytais
 
-numatytais teisiniais pagrindais.
+teisiniais pagrindais.
 
 7 straipsnis. Baudžiamųjų
 
@@ -401,13 +415,13 @@ Nusikaltimu laikoma baudžiamojo
 
 įstatymo numatyta pavojinga veika (veikimas arba neveikimas), kuria kėsinamasi
 
-į Lietuvos Respublikos visuomeninę santvarką, jos politinę ir ekonominę sistemas,
+į Lietuvos Respublikos visuomeninę santvarką, jos politinę ir ekonominę
 
-nuosavybę, į piliečių asmenybę, politines, darbines, turtines ir kitas jų
+sistemas, nuosavybę, į piliečių asmenybę, politines, darbines, turtines ir
 
-teises ir laisves, taip pat kitokia baudžiamojo įstatymo numatyta pavojinga
+kitas jų teises ir laisves, taip pat kitokia baudžiamojo įstatymo numatyta
 
-veika, kuria kėsinamasi į Lietuvoje nustatytą teisėtvarką.
+pavojinga veika, kuria kėsinamasi į Lietuvoje nustatytą teisėtvarką.
 
 Nėra nusikaltimas toks veikimas
 
@@ -549,9 +563,9 @@ ir bauda arba be jos.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-744,
+Nr.
 
-98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
+VIII-744, 98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
 
 227(3) straipsnis.
 
@@ -589,15 +603,13 @@ valdymo instituciją ar strateginę reikšmę nacionaliniam saugumui turinčią 
 
 ar įrenginį, -
 
-baudžiamas
-
-laisvės atėmimu nuo dešimties iki dvidešimties metų.
+baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-744,
+Nr.
 
-98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
+VIII-744, 98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
 
 priemonėms vartoti organizavimas ar laikymas (2324 straipsnis),
 
@@ -675,39 +687,15 @@ antstolio veiklą sunkinančiomis aplinkybėmis (298 straipsnio 3 dalis), laisv�
 
 atėmimo įstaigų darbo dezorganizavimas sunkinančiomis aplinkybėmis (303
 
-(275 straipsnio 3 dalis), kyšio priėmimas (282 straipsnis), neteisėto
+kyšio priėmimą (282 straipsnis), netikrų pinigų ar vertybinių popierių
 
-326 straipsnis. Pinigų
+straipsnio 3 dalis), pinigų plovimas (326 straipsnis), netikrų pinigų ar
 
-plovimas
+vertybinių popierių pagaminimas, laikymas arba paleidimas apyvarton (327
 
-Operacijų nusikalstamu būdu
+straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žudymas (333
 
-įgytais pinigais atlikimas arba nusikalstamu būdu įgytų pinigų naudojimas
-
-komercinei, ūkinei veiklai, jei taip naudojant siekiama nuslėpti arba įteisinti
-
-tokius pinigus (pinigų plovimas), -
-
-baudžiamas laisvės atėmimu nuo
-
-trejų iki septynerių metų su atėmimu teisės eiti tam tikras pareigas ar dirbti
-
-tam tikrą darbą arba užsiimti tam tikra veikla nuo trejų iki penkerių metų.
-
-Pinigų plovimas, padarytas
-
-pakartotinai arba grupės iš anksto susitarusių asmenų, -
-
-baudžiamas laisvės atėmimu nuo
-
-penkerių iki aštuonerių metų su atėmimu teisės eiti tam tikras pareigas ar
-
-dirbti tam tikrą darbą arba užsiimti tam tikra veikla nuo trejų iki penkerių
-
-metų.
-
-paleidimas apyvarton (327 straipsnis), tarptautinės humanitarinės teisės
+pagaminimą, laikymą arba paleidimą apyvarton (327 straipsnis), operacijų su
 
 9 straipsnis. Nusikaltimo
 
@@ -715,13 +703,13 @@ padarymas tyčia
 
 Nusikaltimas laikomas padarytu
 
-tyčia, jeigu jį padariusis asmuo suprato pavojingą visuomenei savo veikimo arba
+tyčia, jeigu jį padaręs asmuo suprato pavojingą visuomenei savo veikimo arba
 
 neveikimo pobūdį, numatė pavojingas visuomenei jo pasekmes ir jų norėjo.
 
 Nusikaltimas laikomas padarytu tyčia ir tuo
 
-atveju, kai jį padariusis asmuo suprato pavojingą visuomenei savo veikimo arba
+atveju, kai jį padaręs asmuo suprato pavojingą visuomenei savo veikimo arba
 
 neveikimo pobūdį, numatė pavojingas visuomenei jo pasekmes ir, nors nenorėjo
 
@@ -733,15 +721,15 @@ padarymas dėl neatsargumo
 
 Nusikaltimas laikomas padarytu
 
-dėl neatsargumo, jeigu jį padariusis asmuo numatė, kad jo veikimas arba
+dėl neatsargumo, jeigu jį padaręs asmuo numatė, kad jo veikimas arba neveikimas
 
-neveikimas gali sukelti pavojingas visuomenei pasekmes, bet lengvabūdiškai
+gali sukelti pavojingas visuomenei pasekmes, bet lengvabūdiškai tikėjosi, kad
 
-tikėjosi, kad jų bus išvengta.
+jų bus išvengta.
 
 Nusikaltimas laikomas padarytu dėl
 
-neatsargumo ir tuo atveju, kai jį padariusis asmuo nenumatė, kad gali kilti tokios
+neatsargumo ir tuo atveju, kai jį padaręs asmuo nenumatė, kad gali kilti tokios
 
 pasekmės, nors turėjo ir galėjo jas numatyti.
 
@@ -783,9 +771,9 @@ ketverių metų arba pataisos darbais, arba bauda.
 
 Vagystė, padaryta
 
-pakartotinai, arba grupės iš anksto susitarusių asmenų, arba įsibraunant į
+pakartotinai, arba grupės iš anksto susitarusių asmenų, arba įsibraunant į negyvenamąją
 
-negyvenamąją patalpą, -
+patalpą, -
 
 baudžiamas laisvės atėmimu nuo
 
@@ -809,19 +797,19 @@ baudžiama laisvės atėmimu nuo
 
 12 straipsnis. Nepakaltinamumas
 
-Neatsako pagal baudžiamuosius
+Neatsako pagal baudžiamuosius įstatymus
 
-įstatymus toks asmuo, kuris, darydamas pavojingą visuomenei veiką, buvo
+toks asmuo, kuris, darydamas pavojingą visuomenei veiką, buvo nepakaltinamumo
 
-nepakaltinamumo būsenoje, tai yra nebegalėjo suprasti savo veiksmų esmės arba
+būsenoje, tai yra nebegalėjo suprasti savo veiksmų esmės arba jų valdyti dėl
 
-jų valdyti dėl chroninės psichinės ligos, laikino psichinės veiklos sutrikimo,
+chroninės psichinės ligos, laikino psichinės veiklos sutrikimo, silpnaprotystės
 
-silpnaprotystės ar kitokios patologinės būsenos. Tokiam asmeniui, teismo
+ar kitokios patologinės būsenos. Tokiam asmeniui, teismo paskyrimu, gali būti
 
-paskyrimu, gali būti taikomos priverčiamosios medicininio pobūdžio priemonės,
+taikomos priverčiamosios medicininio pobūdžio priemonės, numatytos šio kodekso
 
-numatytos šio kodekso 59 straipsnyje.
+59 straipsnyje.
 
 Nebaustinas taip pat toks asmuo,
 
@@ -919,7 +907,7 @@ ginties ribų peržengimas užtraukia baudžiamąją atsakomybę, gali būti ski
 
 142 straipsnis.
 
-Asmens, padariusio nasikaltimą, sulaikymas
+Asmens, padariusio nusikaltimą, sulaikymas
 
 Neužtraukia baudžiamosios
 
@@ -1211,25 +1199,25 @@ laisvės atėmimu už nusikaltimus, padarytus dėl neatsargumo, -
 
 kolonijose-gyvenvietėse asmenims, padariusiems nusikaltimus dėl neatsargumo;
 
-pirmą kartą nuteisiamiems
+pirmą kartą nuteisiamiems laisvės
 
-laisvės atėmimu ne daugiau kaip penkeriems metams už nesunkius tyčinius
+atėmimu ne daugiau kaip penkeriems metams už nesunkius tyčinius nusikaltimus,
 
-nusikaltimus, būtent: neteisėtą aborto padarymą (124 straipsnio 2 ir 3 dalys),
+būtent: neteisėtą aborto padarymą (124 straipsnio 2 ir 3 dalys), vengimą
 
-vengimą išlaikyti vaikus (125 straipsnis), palikimą pavojingoje gyvybei
+išlaikyti vaikus (125 straipsnis), palikimą pavojingoje gyvybei padėtyje (128
 
-padėtyje (128 straipsnio 2 dalis), šmeižimą (132 straipsnis), įžeidimą (133
+straipsnio 2 dalis), šmeižimą (132 straipsnis), įžeidimą (133 straipsnio 2
 
-straipsnio 2 dalis), statybos taisyklių pažeidimą (215 straipsnis), neteisėtą
+dalis), statybos taisyklių pažeidimą (215 straipsnis), neteisėtą statybinių
 
-statybinių medžiagų įgijimą (216 straipsnis), įvaikinimo paslapties pagarsinimą
+medžiagų įgijimą (216 straipsnis), įvaikinimo paslapties pagarsinimą (217(1)
 
-(217(1) straipsnio 2 dalis), melagingą paliudijimą (218 straipsnis),
+straipsnio 2 dalis), melagingą paliudijimą (218 straipsnis), įtraukimą
 
-įtraukimą nepilnamečio į nusikalstamą veiklą arba girtavimą (241 straipsnio 2
+nepilnamečio į nusikalstamą veiklą arba girtavimą (241 straipsnio 2 dalis),
 
-dalis), sukčiavimą be sunkinančių aplinkybių (274 straipsnio 1 dalis), turto
+sukčiavimą be sunkinančių aplinkybių (274 straipsnio 1 dalis), turto
 
 pasisavinimą arba iššvaistymą be sunkinančių aplinkybių (275 straipsnio 1
 
@@ -1283,11 +1271,11 @@ nusikaltimus, padarytus dėl neatsargumo, - kolonijose-gyvenvietėse asmenims,
 
 padariusiems nusikaltimus dėl neatsargumo; pirmą kartą nuteisiamoms už tyčinius
 
-nusikaltimus, nurodytus šio straipsnio ketvirtosios dalies trečiojoje pastraipoje,
+nusikaltimus, nurodytus šio straipsnio ketvirtosios dalies trečiojoje
 
-- kolonijose-gyvenvietėse asmenims, padariusiems tyčinius nusikaltimus; kitoms
+pastraipoje, - kolonijose-gyvenvietėse asmenims, padariusiems tyčinius nusikaltimus;
 
-nuteisiamoms laisvės atėmimu moterims - bendrojo režimo kolonijose.
+kitoms nuteisiamoms laisvės atėmimu moterims - bendrojo režimo kolonijose.
 
 Atlikti bausmę auklėjimo darbų kolonijose
 
@@ -1351,9 +1339,9 @@ pagrindais ir tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-708,
+Nr.
 
-98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
+VIII-708, 98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
 
 Nr. VIII-776, 98.06.09, Žin., 1998,
 
@@ -1393,11 +1381,13 @@ baudžiamas laisvės atėmimu nuo
 
 trejų iki dešimties metų.
 
-popieriais taisyklių pažeidimą (329 straipsnis), karo nusikaltimą, numatytą
+pinigais ar vertybiniais popieriais taisyklių pažeidimą (329 straipsnis), karo
 
-333-340 straipsniuose, ir vėl padarė kurį nors iš šių nusikaltimų, už kurį jis
+nusikaltimą, numatytą 333-340 straipsniuose, ir vėl padarė kurį nors iš šių
 
-nuteisiamas laisvės atėmimu daugiau kaip trejiems metams;
+nusikaltimų, už kurį jis nuteisiamas laisvės atėmimu daugiau kaip trejiems
+
+metams;
 
 3) asmuo, kuris pirmiau buvo bet
 
@@ -1423,9 +1413,9 @@ Spręsdamas asmens pripažinimo
 
 itin pavojingu recidyvistu klausimą, teismas atsižvelgia į kaltininko asmenybę,
 
-padarytų nusikaltimų pavojingumo laipsnj, jų motyvus, nusikalstamų ketinimų
+padarytų nusikaltimų pavojingumo laipsnį, jų motyvus, nusikalstamų ketinimų
 
-jvykdymo laipsnį, į dalyvavimo padarant nusikaltimus laipsnį bei pobūdį ir
+įvykdymo laipsnį, į dalyvavimo padarant nusikaltimus laipsnį bei pobūdį ir
 
 kitas bylos aplinkybes. Teismo sprendimas turi būti motyvuotas nuosprendyje.
 
@@ -1455,9 +1445,9 @@ Nr. VIII-617, 98.02.03, Žin., 1998, Nr.17-397
 
 (98.02.19)
 
-Nr. VIII-708,
+Nr.
 
-98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
+VIII-708, 98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
 
 Nr. VIII-776, 98.06.09, Žin., 1998,
 
@@ -1523,7 +1513,7 @@ atėmimo atlikimo tvarką nustato Lietuvos Respublikos įstatymai.
 
 30 straipsnis. Atėmimas teisės
 
-eili tam likras pareigas, dirbti tam tikrą darbą arba užsiimti tam tikra veikla
+eiti tam tikras pareigas, dirbti tam tikrą darbą arba užsiimti tam tikra veikla
 
 Atėmimas teisės eiti tam tikras
 
@@ -1615,7 +1605,7 @@ papildoma bausmė, teismo privalomai skiriama už šiuos nusikaltimus: genocidas
 
 821 straipsnis.
 
-Nelegalus asmentų gabenimas į Lietuvos Respublikos teritoriją, joje arba iš jos
+Nelegalus asmenų gabenimas į Lietuvos Respublikos teritoriją, joje arba iš jos
 
 ar jų slėpimas
 
@@ -1671,9 +1661,9 @@ bankroto (315 straipsnio 2 ir 3 dalys), skolininko nesąžiningumas ar apgaulė
 
 (316 straipsnis), pramoninis šnipinėjimas (317 straipsnis), nepagrįsto
 
-atlyginimo priėmimas (320 straipsnis), piktnaudžiavimas pasitikėjimu ūkinėje veikloje
+atlyginimo priėmimas (320 straipsnis), piktnaudžiavimas pasitikėjimu ūkinėje
 
-(321 straipsnis), apgaulingas apskaitos tvarkymas (323 straipsnis), žinomai
+veikloje (321 straipsnis), apgaulingas apskaitos tvarkymas (323 straipsnis), žinomai
 
 mokesčių vengimas (325 straipsnis), pinigų plovimas (326 straipsnis),
 
@@ -1683,11 +1673,9 @@ netikrų pinigų ar vertybinių popierių pagaminimas, laikymas arba paleidimas
 
 3281 straipsnis.
 
-Netikrų banderolių prekėms ar kitų specialių ženklų
+Netikrų banderolių prekėms ar kitų specialių ženklų gaminimas, realizavimas,
 
-gaminimas,
-
-realizavimas, laikymas ar naudojimas
+laikymas ar naudojimas
 
 Netikrų banderolių ar kitų
 
@@ -1745,9 +1733,9 @@ tiksliai laikydamasis šio kodekso Bendrosios dalies nuostatų. Skirdamas bausm�
 
 teismas, vadovaudamasis teisine sąmone, atsižvelgia į padarytojo nusikaltimo
 
-pobūdį ir jo pavojingumo laipsnį, į kaltininko asmenybę ir į bylos aplinkybes,
+pobūdį ir jo pavojingumo laipsnį, į kaltininko asmenybę ir į bylos aplinkybes, lengvinančias
 
-lengvinančias ir sunkinančias atsakomybę.
+ir sunkinančias atsakomybę.
 
 40 straipsnis. Atsakomybę
 
@@ -1809,7 +1797,7 @@ Skiriant bausmę, sunkinančiomis
 
 atsakomybę aplinkybėmis laikoma tai:
 
-1) kad nusikalfimą padarė asmuo,
+1) kad nusikaltimą padarė asmuo,
 
 kuris pirmiau buvo padaręs kokį nors nusikaltimą.
 
@@ -1829,9 +1817,9 @@ sunkias pasekmes;
 
 5) kad nusikaltimas padarytas prieš mažametį,
 
-nusenusį, bejėgiškumo būklėje esantį arba materialiai, tamybiškai ar kitaip priklausomą
+nusenusį, bejėgiškumo būklėje esantį arba materialiai, tarnybiškai ar kitaip
 
-nuo kaltininko asmenį;
+priklausomą nuo kaltininko asmenį;
 
 6) kad nepilnamečiai buvo kurstomi padaryti
 
@@ -1913,21 +1901,21 @@ bausmės rūšiai.
 
 Pagal šio straipsnio taisykles
 
-skiriama bausmė ir tais atvejais, kai priėmus nuosprendį nustatoma, kad
+skiriama bausmė ir tais atvejais, kai priėmus nuosprendį nustatoma, kad nuteistasis
 
-nuteistasis kaltas dar ir kitu to paties straipsnio toje pačioje ar kitoje
+kaltas dar ir kitu to paties straipsnio toje pačioje ar kitoje dalyje arba
 
-dalyje arba kitame straipsnyje numatytu nusikaltimu, kurį jis yra padaręs prieš
+kitame straipsnyje numatytu nusikaltimu, kurį jis yra padaręs prieš priimant
 
-priimant nuosprendį pirmojoje byloje. Šiuo atveju į bausmės laiką įskaitoma
+nuosprendį pirmojoje byloje. Šiuo atveju į bausmės laiką įskaitoma bausmė,
 
-bausmė, visiškai ar iš dalies atlikta pagal pirmąjį nuosprendį.
+visiškai ar iš dalies atlikta pagal pirmąjį nuosprendį.
 
 atidėjimo laikotarpiu (471 straipsnis), arba naują nusikaltimą
 
-padaro asmuo, lygtinai atleistas nuo bausmės prieš terminą ar lygtinai paleistas
+padaro asmuo, lygtinai atleistas nuo bausmės prieš terminą ar lygtinai
 
-iš laisvės atėmimo vietų neatliktosios bausmės laikotarpiu (54, 542,
+paleistas iš laisvės atėmimo vietų neatliktosios bausmės laikotarpiu (54, 542,
 
 55 straipsniai), teismas skiria bausmę už naują nusikaltimą, po to nustato
 
@@ -1951,7 +1939,7 @@ Skiriant bausmę pagal kelis nuosprendžius,
 
 subendrinta bausmė negali viršyti dvidešimt penkerių metų, jei paskirta laisvės
 
-atėmimo bausmė, arba maksimalaus dydžio, nustatyto afitinkamai bausmės rūšiai,
+atėmimo bausmė, arba maksimalaus dydžio, nustatyto atitinkamai bausmės rūšiai,
 
 jei paskirta kita bausmė.
 
@@ -2067,9 +2055,9 @@ bausmę arba visiškai atleisti kaltininką nuo bausmės atlikimo.
 
 Neteko galios.
 
-49 straipsnis. Patraukimo
+49 straipsnis. Patraukimo baudžiamojon
 
-baudžiamojon atsakomybėn senatis
+atsakomybėn senatis
 
 Asmuo negali būti traukiamas baudžiamojon
 
@@ -2139,9 +2127,9 @@ taikyti senatį, mirties bausmė negali būti skiriama, ir ji pakeičiama laisv�
 
 atėmimu.
 
-Nėra senaties genocido nusikaltimui
+Nėra senaties genocido
 
-ir karo nusikaltimams, numatytiems 333-339 straipsniuose.
+nusikaltimui ir karo nusikaltimams, numatytiems 333-339 straipsniuose.
 
 Straipsnio pakeitimai:
 
@@ -2149,9 +2137,9 @@ Nr. VIII-617, 98.02.03, Žin., 1998, Nr.17-397
 
 (98.02.19)
 
-Nr. VIII-708,
+Nr.
 
-98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
+VIII-708, 98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
 
 Nr. VIII-776, 98.06.09, Žin., 1998,
 
@@ -2163,7 +2151,7 @@ nuosprendžio vykdymo senatis
 
 Apkaltinamasis nuosprendis
 
-nevykdomas, jeigu jis nebuvo įykdytas per šiuos terminus, skaičiuojant nuo
+nevykdomas, jeigu jis nebuvo įvykdytas per šiuos terminus, skaičiuojant nuo
 
 nuosprendžio įsiteisėjimo dienos:
 
@@ -2195,9 +2183,9 @@ slapstęsis nuteistasis pats atvyko bausmės atlikti, arba nuo to momento, kai
 
 jis buvo sulaikytas. Tačiau apkaltinamasis nuosprendis negali būti vykdomas,
 
-jeigu nuo to laiko, kai jis buvo priimtas, praėjo penkiolika metų ir senatis
+jeigu nuo to laiko, kai jis buvo priimtas, praėjo penkiolika metų ir senatis nenutrūko
 
-nenutrūko dėl naujo nusikaltimo padarymo.
+dėl naujo nusikaltimo padarymo.
 
 Klausimą dėl senaties taikymo asmeniui,
 
@@ -2245,7 +2233,7 @@ su nukentėjusiuoju dėl žalos atlyginimo, jei ji buvo padaryta, ir
 
 4) yra pagrindo manyti, jog
 
-,ateityje jis laikysis įstatymųą, nedarys naujų nusikaltimų.
+,ateityje jis laikysis įstatymų, nedarys naujų nusikaltimų.
 
 Tokiam nepilnamečiui teismas
 
@@ -2255,11 +2243,9 @@ paskiria priverčiamąsias auklėjamojo pobūdžio priemones, numatytas šio kod
 
 53 straipsnis. Neteko galios.
 
-531 straipsnis.
+531 straipsnis. Atleidimas
 
-Atleidimas nuo baudžiamosios atsakomybės kaltininkui ir nukentėjusiajam
-
-susitaikius
+nuo baudžiamosios atsakomybės kaltininkui ir nukentėjusiajam susitaikius
 
 Asmuo, padaręs vieną iš veikų,
 
@@ -2425,7 +2411,7 @@ taikomas jiems faktiškai atbuvus keturis penktadalius paskirtojo bausmės laiko
 
 Lygtinai atleidus nuo bausmės prieš terminą
 
-arba pakeitus bausmę šveinesne bausme, nuteistasis gali būti taip pat atleistas
+arba pakeitus bausmę švelnesne bausme, nuteistasis gali būti taip pat atleistas
 
 nuo bausmės - atėmimo teisės eiti tam tikras pareigas arba dirbti tam tikrą
 
@@ -2451,17 +2437,17 @@ Nr. VIII-617, 98.02.03, Žin., 1998, Nr.17-397
 
 (98.02.19)
 
-Nr. VIII-744,
+Nr.
 
-98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
+VIII-744, 98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
 
 541 straipsnis.
 
-Lygtinio atleidimo nuo bausmės pri terminą ir bausmės
+Lygtinio atleidimo nuo bausmės prieš terminą ir bausmės
 
 pakeitimo
 
-švelnesi bausme netaikymas
+švelnesne bausme netaikymas
 
 Lygtinis atleidimas nuo bausmės
 
@@ -2509,13 +2495,13 @@ nusikaltimą neatliktosios bausmės dalies metu;
 
 Straipsnio pakeitimai:
 
-Nr. VIII-708,
+Nr.
 
-98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
+VIII-708, 98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
 
-Nr. VIII-744,
+Nr.
 
-98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
+VIII-744, 98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
 
 Nr. VIII-776, 98.06.09, Žin., 1998,
 
@@ -2533,13 +2519,15 @@ visuomenės, bet prižiūrimus, gali būti taikomas lygtinis paleidimas iš lais
 
 atėmimo vietų.
 
-Lygtinį paleidimą iš laisvės atėmimo
+Lygtinį paleidimą iš laisvės
 
-vietų taiko teismas tos vietos, kur nuteistasis atlieka bausmę, pagal organo.
+atėmimo vietų taiko teismas tos vietos, kur nuteistasis atlieka bausmę, pagal
 
-kurio žinioje yra bausmės vykdymas, teikimą, esant nuteistojo įsipareigojimui
+organo. kurio žinioje yra bausmės vykdymas, teikimą, esant nuteistojo
 
-pavyzdingu elgesiu ir sąžiningu darbu įrodyti, kad jis pasitaisys.
+įsipareigojimui pavyzdingu elgesiu ir sąžiningu darbu įrodyti, kad jis
+
+pasitaisys.
 
 Lygtinis paleidimas iš laisvės
 
@@ -2547,7 +2535,7 @@ atėmimo vietų gali būti taikomas:
 
 1) asmenims, nuteistiems laisvės
 
-atėmimu iki penkerią metą įskaitytinai už nusikaltimus, padarytuų dėl
+atėmimu iki penkerių metą įskaitytinai už nusikaltimus, padarytų dėl
 
 neatsargumo, nepilnamečiams, nėščioms moterims, taip pat moterims, turinčioms
 
@@ -2589,13 +2577,13 @@ atėmimo vietų netaikomas asmenims, paminėtiems šio kodekso 541
 
 straipsnio 2-5 punktuose.
 
-Darbingi asmenys, lygtinai paleisti
+Darbingi asmenys, lygtinai
 
-iš laisvės atėmimo vietų, per penkiolika dieną nuo paleidimo momento privalo
+paleisti iš laisvės atėmimo vietų, per penkiolika dieną nuo paleidimo momento
 
-įsidarbinti arba užsiregistruoti darbo biržoje ir pranešti apie tai bausmę
+privalo įsidarbinti arba užsiregistruoti darbo biržoje ir pranešti apie tai
 
-vykdančiam organui.
+bausmę vykdančiam organui.
 
 Teismas, lygtinai paleisdamas
 
@@ -2709,7 +2697,7 @@ vietos už tyčinį nusikaltimą ir iki teistumo išnykimo arba panaikinimo vėl
 
 padariusiems prieš sueinant aštuoniolikai metų amžius tyčinį nusikaltimą, už
 
-kurį jie nuteisti laisvės atėmim
+kurį jie nuteisti laisvės atėmimo
 
 3) padariusiems prieš sueinant aštuoniolikai
 
@@ -2775,7 +2763,7 @@ būti atleidžiamas nuo bausmės, jeigu iki teismo nuosprendžio priėmimo jis
 
 suserga sunkia nepagydoma liga, dėl kurios jis negali atlikti bausmės. Šiuo
 
-atveju teismas priima apkaltinamąji nuosprendį, paskiria tokiam asmeniui bausmę
+atveju teismas priima apkaltinamąjį nuosprendį, paskiria tokiam asmeniui bausmę
 
 ir atleidžia jį nuo bausmės atlikimo.
 
@@ -2793,7 +2781,7 @@ Asmuo, kuris po nuosprendžio
 
 priėmimo suserga psichine liga, dėl kurios jis negali suprasti savo veiksmų
 
-esmės valdyti, atleidžiamas nuo tolesnio bausmės atIikimo. Atleisdamas tokį
+esmės valdyti, atleidžiamas nuo tolesnio bausmės atlikimo. Atleisdamas tokį
 
 asmenį nuo bausmės, teismas išsprendžia klausimą dėl priverčiamųjų medicininio
 
@@ -2801,7 +2789,7 @@ pobūdžio priemonių skyrimo. Tokiam asmeniui pasveikus, jis gali būti siunči
 
 atlikti bausmę. Tokiu atveju laikas, per kurį buvo taikomos priverčiamosios
 
-medicininio pobūdžio priemonės, įskatomas į laisvės atėmimo laiką diena už
+medicininio pobūdžio priemonės, įskaitomas į laisvės atėmimo laiką diena už
 
 dieną.
 
@@ -2815,9 +2803,9 @@ Neturinčiais teistumo laikomi:
 
 11) (neteko galios),
 
-2) (neteko gallos),
+2) (neteko galios),
 
-21) (nefeko galios),
+21) (neteko galios),
 
 22) asmenys, nuteisti
 
@@ -2825,7 +2813,7 @@ laisvės atėmimu, taikant šio kodekso 471 straipsnį, jeigu jie per
 
 laiką, kuriam atidėtas bausmės vykdymas, nepadaro naujo nusikaltimo ir jų
 
-atžvilgiu bausmė nustatyta tvarka nejvykdyta;
+atžvilgiu bausmė nustatyta tvarka neįvykdyta;
 
 3) asmenys, nuteisti bauda,
 
@@ -2873,7 +2861,7 @@ Jeigu asmuo įstatymo nustatyta
 
 tvarka buvo atleistas nuo bausmės prieš terminą, tai teistumo išnykimo laikas
 
-skaičiuojamas rėmiantis faktiškai atlikta bausme nuo to Iaiko, kai atleidžiama
+skaičiuojamas remiantis faktiškai atlikta bausme nuo to laiko, kai atleidžiama
 
 nuo bausmės (pagrindinės ir papildomosios). Jeigu bausmė buvo pakeista
 
@@ -2911,11 +2899,7 @@ POBŪDŽIO PRIEMONĖS
 
 59 straipsnis. Priverčiamosios
 
-medicininio pobūdžio priemonės, taikomos
-
-psichiniams
-
-ligoniams
+medicininio pobūdžio priemonės, taikomos psichiniams ligoniams
 
 Priverčiamosios medicininio
 
@@ -2955,13 +2939,13 @@ reikia laikyti ligoninėje ir gydyti sustiprintojo stebėjimo sąlygomis.
 
 Atidavimą į psichiatrinę ligoninę griežtojo
 
-stebėjimo sąlygomis teismas gali taikyti psichiniam ligoniui, kuris dėl psichinės
+stebėjimo sąlygomis teismas gali taikyti psichiniam ligoniui, kuris dėl
 
-būklės ir padarytos pavojingos visuomenei veikos pobūdžio yra itin pavojingas
+psichinės būklės ir padarytos pavojingos visuomenei veikos pobūdžio yra itin
 
-visuomenei ir kurį reikia laikyti ligoninėje ir gydyti griežtojo stebėjimo
+pavojingas visuomenei ir kurį reikia laikyti ligoninėje ir gydyti griežtojo
 
-sąlygomis.
+stebėjimo sąlygomis.
 
 Asmenys, atiduoti į psichiatrines ligonines
 
@@ -3057,7 +3041,7 @@ Teismo paskirtos priverčiamosios auklėjamojo
 
 pobūdžio priemonės, numatytos šio straipsnio pirmosios dalies 1-5 punktuose,
 
-vykdymą kontraliuoja vidaus reikalų organai ir nepilnamečių reikalų tarnybos.
+vykdymą kontroliuoja vidaus reikalų organai ir nepilnamečių reikalų tarnybos.
 
 Jeigu nepilnametis nevykdo arba netinkamai
 
@@ -3121,9 +3105,9 @@ penkerių iki dešimties metų.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-708,
+Nr.
 
-98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
+VIII-708, 98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
 
 63 straipsnis. Šnipinėjimas
 
@@ -3271,7 +3255,7 @@ organizacijų kūrimas ir aktyvus dalyvavimas jų veikloje
 
 Organizacijų, kurios siekia
 
-sutrikdyti Lietuvos Respublikos Kanstitucija paremtą valstybinę ar visuomeninę
+sutrikdyti Lietuvos Respublikos Konstitucija paremtą valstybinę ar visuomeninę
 
 tvarką, apriboti suverenias Lietuvos valstybės teises (galias), jėga atskirti
 
@@ -3377,7 +3361,7 @@ eilinio šaukimo į tikrąją krašto apsaugos tarnybą
 
 Vengimas eilinio šaukimo į
 
-tikrąįą Lietuvos Respublikos krašto apsaugos arba jai alternatyvią (darbo)
+tikrąją Lietuvos Respublikos krašto apsaugos arba jai alternatyvią (darbo)
 
 tarnybą -
 
@@ -3397,15 +3381,15 @@ vienerių iki penkerių metų.
 
 80 straipsnis. Vengimas mobilizacinio šaukimo
 
-Vengimas mobilizacinio šaukimo į Lietuvos
+Vengimas mobilizacinio šaukimo į Lietuvos Respublikos
 
-Respublikos krašto apsaugos tarnybą -
+krašto apsaugos tarnybą -
 
 baudžiamas laisvės atėmimu nuo
 
 dvejų iki penkerių metų.
 
-82 straipsnis. Neleisėtas
+82 straipsnis. Neteisėtas
 
 valstybės sienos perėjimas
 
@@ -3439,9 +3423,9 @@ skridimų taisyklių pažeidimas
 
 ar išskridimas iš Lietuvos Respublikos be nustatyto leidimo, nesilaikymas
 
-leidime nurodytų maršrutų, nutūpimo vietų, oro vartų, skridimo aukščio, taip pat
+leidime nurodytų maršrutų, nutūpimo vietų, oro vartų, skridimo aukščio, taip
 
-kitoks tarptautinių skridimo taisyklių pažeidimas -
+pat kitoks tarptautinių skridimo taisyklių pažeidimas -
 
 baudžiami laisvės atėmimu iki
 
@@ -3449,13 +3433,11 @@ penkerių metų.
 
 84 straipsnis. Transporto
 
-eismo saugumo ir eksplotacijos taisyklių
-
-pažeidimas
+eismo saugumo ir eksploatacijos taisyklių pažeidimas
 
 Geležinkelių, vandens arba oro transporto
 
-darbuotojų pažeidimas transporto eismo saugumo ir eksplptacijos taisyklių,
+darbuotojų pažeidimas transporto eismo saugumo ir eksploatacijos taisyklių,
 
 sukėlęs nelaimingų atsitikimų žmonėms, katastrofą, avariją ar kitokias sunkias
 
@@ -3472,38 +3454,6 @@ dvejų iki dešimties metų.
 87 straipsnis. Neteko galios.
 
 88 straipsnis. Neteko galios.
-
-89 skraipsnis. Valstybinių
-
-nusikaltimų slėpimas
-
-Iš anksto nepažadėtas
-
-valstybinių nusikaltimų, numatytų šio kodekso 62-67, 70, 71 ir 75
-
-straipsniuose, slėpimas -
-
-baudžiamas laisvės atėmimu nuo
-
-vienerių iki penkerių metų.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-708,
-
-98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
-
-Antrasis skirsnis
-
-90-103 straipsniai. Neteko
-
-galios.
-
-Trečiasis skirsnis
-
-NUSIKALTIMAI
-
-ASMENS GYVYBEI, SVEIKATAI, LAISVEI IR ORUMUI
 
 89 straipsnis. Valstybinių
 
@@ -3623,9 +3573,9 @@ baudžiamas laisvės atėmimu iki
 
 penkerių metų.
 
-112 straipsnis.
+112 straipsnis. Tyčinis apysunkis kūno sužalojimas, užkrėtimas
 
-Tyčinis apysunkis kūno sužalojimas, užkrėtimas liga ar kitoks susargdinimas
+liga ar kitoks susargdinimas
 
 Tyčinis žmogaus kūno sužalojimas, užkrėtimas
 
@@ -3643,7 +3593,7 @@ ketverių metų arba pataisos darbais iki dviejų metų.
 
 Ta pati veika, padaryta ryšium
 
-su. nukentėjusiojo vykdymu tamybinės ar visuomeninės pareigos arba itin
+su. nukentėjusiojo vykdymu tarnybinės ar visuomeninės pareigos arba itin
 
 pavojingo recidyvisto ar žiauriai kankinant, taip pat apysunkio kūno sužalojimo
 
@@ -3651,7 +3601,7 @@ padarymas mažamečiam asmeniui ar bejėgiškos būklės asmeniui-
 
 baudžiama laisvės atėmimu iki
 
-penkerią metų.
+penkerių metų.
 
 113 straipsnis. Tyčinis sunkus
 
@@ -3685,9 +3635,9 @@ dvejų metų arba pataisos darbais tam pačiam laikui.
 
 116 straipsnis. Tyčinis
 
-lengvas kūno sužalojimas, užkrėtimas liga ar
+lengvas kūno sužalojimas, užkrėtimas liga ar kitoks
 
-kitoks susargdinimas
+susargdinimas
 
 Tyčinis žmogaus kūno sužalojimas, užkrėtimas
 
@@ -3801,13 +3751,13 @@ Gydytojo neteisėtas padarymas
 
 aborto -
 
-baudžiamas pataisos darbais iki
+baudžiamas pataisos darbais
 
-dvejų metų arba bauda.
+iki dvejų metų arba bauda.
 
-Aborto padarymas
+Aborto padarymas antisanitarinėmis
 
-antisanitarinėmis sąlygomis arba neturint aukštojo medicinos mokslo -
+sąlygomis arba neturint aukštojo medicinos mokslo -
 
 baudžiamas laisvės atėmimu iki
 
@@ -3867,7 +3817,7 @@ baudžiami pataisos darbais iki
 
 šešių mėnesių arba užtraukia visuomeninio poveikio priemonių taikymą.
 
-Žinotinis palikimas be
+Žinotinas palikimas be
 
 pagalbos asmens, esančio pavojingoje gyvybei padėtyje ir negalinčio imtis savisaugos
 
@@ -3991,9 +3941,7 @@ POLITINĖMS IR DARBINĖMS PILIEČIŲ TEISĖMS
 
 134 straipsnis. Kliudymas
 
-rinkėjui pasinaudoti rinkimų ar referendumo
-
-teise
+rinkėjui pasinaudoti rinkimų ar referendumo teise
 
 Kliudymas Lietuvos Respublikos
 
@@ -4095,9 +4043,7 @@ Nr.108-2737 (97.11.28)
 
 135(2) straipsnis.
 
-Tyčinis poveikis kompiuterinei informacijai ar jos
-
-apdorojimui
+Tyčinis poveikis kompiuterinei informacijai ar jos apdorojimui
 
 Žinomai neteisingos
 
@@ -4203,9 +4149,9 @@ pranešimų, siunčiamų paštu ar techninėmis priemonėmis, slaptumo pažeidim
 
 baudžiamas pataisos darbais arba bauda.
 
-138 straipsnis. Profesinių sąjungų
+138 straipsnis. Profesinių sąjungų įstatyminių
 
-įstatyminių teisių pažeidimas
+teisių pažeidimas
 
 Kliudymas teisėtai profesinių sąjungų ir ją
 
@@ -4281,9 +4227,9 @@ atlikinėjimu, yra susijusi su darymu žalos piliečių sveikatai ar su kitokiu
 
 kėsinimusi į piliečių asmenybę ar teises arba su skatinimu piliečių atsisakyti
 
-nuo visuomeninės veiklos ar pilietinių pareigų vykdymo, taip pat vadovavimas tokiai
+nuo visuomeninės veiklos ar pilietinių pareigų vykdymo, taip pat vadovavimas
 
-grupei -
+tokiai grupei -
 
 baudžiami laisvės atėmimu iki
 
@@ -4351,11 +4297,61 @@ Devintasis
 
 skirsnis
 
-NUSIKALTIMAI VALDYMO
+NUSIKALTIMAI
 
-TVARKAI
+VALDYMO TVARKAI
 
 1991 straipsnis. Neteko galios.
+
+199(2) straipsnis.
+
+Valstybės simbolių išniekinimas
+
+Lietuvos Respublikos valstybės
+
+herbo ar valstybės vėliavos nuplėšimas, sudraskymas, sulaužymas, sunaikinimas,
+
+subjaurojimas ar kitoks išniekinimas, taip pat viešas pasityčiojimas iš
+
+Lietuvos Respublikos valstybės himno -
+
+baudžiamas laisvės atėmimu iki
+
+dvejų metų arba pataisos darbais tam pačiam laikui, arba bauda.
+
+Lietuvos valstybės istorinių
+
+simbolių - Gedimino (Gediminaičių) stulpų, Vyčio Kryžiaus nuplėšimas,
+
+sudraskymas, sulaužymas, sunaikinimas, subjaurojimas ar kitoks išniekinimas,
+
+taip pat viešas pasityčiojimas iš jų -
+
+baudžiamas laisvės atėmimu iki
+
+dvejų metų arba pataisos darbais tam pačiam laikui, arba bauda.
+
+Užsienio valstybės oficialiai
+
+iškabintų valstybės herbo ar valstybės vėliavos, taip pat universalios
+
+tarptautinės organizacijos bei regioninės tarptautinės organizacijos vėliavos
+
+nuplėšimas, sudraskymas, sulaužymas, sunaikinimas, subjaurojimas ir kitoks
+
+išniekinimas -
+
+baudžiamas laisvės atėmimu iki dvejų metų
+
+arba bauda.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-820, 98.06.30, Žin., 1998,
+
+Nr.61-1734 (98.07.08)
 
 1992 straipsnis.
 
@@ -4385,11 +4381,9 @@ bauda.
 
 1993 straipsnis.
 
-Grupinių veiksmų, kuriais pažeidžiama viešoji tvarka,
+Grupinių veiksmų, kuriais pažeidžiama viešoji tvarka, organizavimas arba
 
-organizavimas
-
-arba aktyvus dalyvavimas juose
+aktyvus dalyvavimas juose
 
 Grupinių veiksmų, kuriais
 
@@ -4397,7 +4391,7 @@ Grupinių veiksmų, kuriais
 
 neklausymu valdžios atstovų teisėtų reikalavimų, arba kurie sukėlė transporto,
 
-valsųtybinių ar visuomeninių įmonių, įstaigų, organizacijų darbo pažeidimą,
+valstybinių ar visuomeninių įmonių, įstaigų, organizacijų darbo pažeidimą,
 
 organizavimas, taip pat aktyvus dalyvavimas juose -
 
@@ -4427,11 +4421,7 @@ VIII-460, 97.10.16, Žin., 1997, Nr.97-2445 (97.10.29)
 
 200 straipsnis. Privertimas
 
-valdžios ar visuomenės atstovo atlikti
-
-neteisėtus
-
-veiksmus
+valdžios ar visuomenės atstovo atlikti neteisėtus veiksmus
 
 Privertimas valdžios atstovo ar visuomenės
 
@@ -4517,13 +4507,9 @@ iki šešių mėnesių, arba pataisos darbais iki vienerių metų, arba bauda.
 
 203 straipsnis. Grasinimas ar
 
-smurtas prieš pareigūną, visuomenės
+smurtas prieš pareigūną, visuomenės darbuotoją arba pilietį, atliekantį
 
-darbuotoją arba
-
-pilietį, atliekantį visuomeninę
-
-pareigą
+visuomeninę pareigą
 
 Grasinimas nužudyti, padaryti
 
@@ -4617,11 +4603,11 @@ panaudojimas
 
 žinomai melagingų žinių arba surašymas suklastoto dokumento, žinomai suklastoto
 
-dokumento patvirtinimas antspaudu (spaudu) ir (ar) parašu, arba kitoks
+dokumento patvirtinimas antspaudu (spaudu) ir (ar) parašu, arba kitoks oficialaus
 
-oficialaus dokumento suklastojimas, taip pat žinomai suklastoto oficialaus
+dokumento suklastojimas, taip pat žinomai suklastoto oficialaus dokumento
 
-dokumento realizavimas ar panaudojimas -
+realizavimas ar panaudojimas -
 
 baudžiami laisvės atėmimu iki
 
@@ -4671,11 +4657,11 @@ pataisos darbais iki dvejų metų.
 
 2081
 
-Sraipsnis.Lietuvos valstybinio kontrolinio prabavimo ženklo įspaudo padirbimas,
+Straipsnis.Lietuvos valstybinio kontrolinio prabavimo ženklo įspaudo
 
-neteisėtas gaminimas, realizavimas, padirbto įspaudo panaudojimas, taip pat
+padirbimas, neteisėtas gaminimas, realizavimas, padirbto įspaudo panaudojimas,
 
-Lietuvos valstybinio kontrolinio prabavimo ženklo įspaudo pagrobimas,
+taip pat Lietuvos valstybinio kontrolinio prabavimo ženklo įspaudo pagrobimas,
 
 neteisėtas panaudojimas ir netinkamas saugojimas
 
@@ -4701,25 +4687,7 @@ nėra valstybinė paslaptis, pareišlamas arba perdavimas į užsienį, pažeid�
 
 nustatytą tvarką, -
 
-baužiamas laisvės atėmimu iki trejų metų.
-
-210 straipsuis. Krašto apsaugos tarnybos
-
-prievolininko vengimas
-
-karinės įskaitos
-
-Krašto apsaugos tarnybos prievolininko
-
-vengimas karinės įskaitos, jeigu už tokią pat veiką kaltininkui anksčiau buvo
-
-pritaikytos administracinės nuobaudos, -
-
-baudžiamas laisvės atėmimu iki vienerių metų.
-
-Ta pati veika, padaryta karo metu, -
-
-baudžiama laisvės atėmimu iki penkerių metų.
+baudžiamas laisvės atėmimu iki trejų metų.
 
 210 straipsnis. Krašto apsaugos tarnybos
 
@@ -4775,7 +4743,7 @@ taisyklių pažeidimas, jeigu šis pažeidimas pasireiškė gyvenimu be paso arb
 
 neįsiregistravus ir jeigu pirmiau asmeniui už tai jau buvo du kartus paskirta
 
-administracinė nuobauoda, -
+administracinė nuobauda, -
 
 baudžiamas laisvės atėmimu iki
 
@@ -4795,7 +4763,7 @@ Teismo įpareigojimų nevykdymas
 
 Teismo įpareigojimų ar
 
-įpareigojimų, skirų pagal Organizuoto nusikalstamumo užkardymo įstatymą,
+įpareigojimų, skirtų pagal Organizuoto nusikalstamumo užkardymo įstatymą,
 
 nevykdymas, jei už tai anksčiau buvo pritaikyta administracinė nuobauda, -
 
@@ -4819,7 +4787,7 @@ kai buvo paskirta administracinė nuobauda už tokią pat pažaidą, -
 
 baudžiamas laisvės atėmimu iki
 
-dvejtl meų, arba pataisos darbais iki vienerių meų, arba bauda.
+dvejų metų, arba pataisos darbais iki vienerių metų, arba bauda.
 
 2131 straipsnis.
 
@@ -4831,7 +4799,7 @@ Užsieniečių atvykimo, buvimo
 
 Lietuvos Respublikoje ir vykimo per ją tranzitu taisyklių piktybinis
 
-pažeidimas, jeigu anksčiau šiems asmenims už nurodyų taisyklių pažeidimą per
+pažeidimas, jeigu anksčiau šiems asmenims už nurodymų taisyklių pažeidimą per
 
 vienerius metus buvo paskirta administracinė nuobauda ir netaikomas išsiuntimas
 
@@ -4857,7 +4825,7 @@ artimuosius arba sunaikinti ar sugadinti jų turtą (savavaldžiavimas), -
 
 baudžiamas laisvės atėmimu iki
 
-trejų meų ir bauda arba tik bauda.
+trejų metų ir bauda arba tik bauda.
 
 Savavaldžiavimas, padarytas
 
@@ -4943,9 +4911,7 @@ vienerių metų.
 
 221 straipsnis. Naudojimosi
 
-radijo įrenginiais laivuose taisyklių
-
-pažeidimas
+radijo įrenginiais laivuose taisyklių pažeidimas
 
 Pažeidimas taisyklių,
 
@@ -4985,9 +4951,7 @@ penkerių metų.
 
 223 straipsnis. Laivo kapitono
 
-nepranešimas savo laivo pavadinimo ir
-
-kitų žinių
+nepranešimas savo laivo pavadinimo ir kitų žinių
 
 Laivo kapitono nepranešimas
 
@@ -5045,9 +5009,9 @@ baudžiamas laisvės atėmimu iki
 
 vienerių metų arba bauda.
 
-Šio straipsnio pirmojoje dalyje
+Šio straipsnio pirmojoje
 
-nurodytu būdu surinktos informacijos apie asmenį, įmonę, įstaigą ar
+dalyje nurodytu būdu surinktos informacijos apie asmenį, įmonę, įstaigą ar
 
 organizaciją viešas paskelbimas, panaudojimas savanaudiškais tikslais arba
 
@@ -5059,9 +5023,9 @@ Dešimtasis
 
 skirsnis
 
-NUSIKALTIMAI VI.SUOMENĖS
+NUSIKALTIMAI
 
-SAUGUMUI IR VIEŠAJAI TVARKAI
+VI.SUOMENĖS SAUGUMUI IR VIEŠAJAI TVARKAI
 
 225 straipsnis. Chuliganizmas
 
@@ -5107,11 +5071,7 @@ trejų iki septynerių metų.
 
 2261 straipsnis.
 
-Melagingas pranešimas apie visuomenei gresiantį ar
-
-ištikusį
-
-pavojų
+Melagingas pranešimas apie visuomenei gresiantį ar ištikusį pavojų
 
 Melagingas pranešimas
 
@@ -5161,9 +5121,7 @@ metų ir bauda arba be jos.
 
 229 straipsnis. Statybos ar
 
-kalnakasybos darbų saugumo taisyklių
-
-pažeidimas
+kalnakasybos darbų saugumo taisyklių pažeidimas
 
 Statybos ar kalnakasybos darbų saugumo
 
@@ -5183,11 +5141,7 @@ vienerių iki penkerių arba pataisos darbais nuo vienerių iki dvejų metų.
 
 230 straipsnis. Saugumo
 
-taisyklių pažeidimas įmonėse arsenaluose, kur
-
-gresia
-
-sprogimo pavojus
+taisyklių pažeidimas įmonėse arsenaluose, kur gresia sprogimo pavojus
 
 Gamybinės-techninės drausmės ar užtikrinančių
 
@@ -5221,7 +5175,7 @@ administracinės nuobaudos už šių taisyklių pažeidimą, -
 
 baudžiamas laisvės atėmimu iki vienerių metų,
 
-arba pataisos darbais iki dveju metų, arba bauda.
+arba pataisos darbais iki dvejų metų, arba bauda.
 
 Priešgaisrinio saugumo taisyklių pažeidimas,
 
@@ -5229,7 +5183,9 @@ sukėlęs gaisrą, -
 
 baudžiamas laisvės atėmimu nuo vienerių
 
-iki penkerių metų,  arba pataisos darbais iki dvejų metų, arba bauda.
+iki penkerių metų, arba
+
+pataisos darbais iki dvejų metų, arba bauda.
 
 231 straipsnis. Sprogmenų,
 
@@ -5261,9 +5217,9 @@ Nr. VIII-617, 98.02.03, Žin., 1998, Nr.17-397
 
 (98.02.19)
 
-231(1) straipsnis. Neteisėtas
+231(1) straipsnis.
 
-sprogmenų, sprogstamųjų ir lengvai
+Neteisėtas sprogmenų, sprogstamųjų ir lengvai
 
 užsidegančių
 
@@ -5317,7 +5273,7 @@ trejų iki dešimties metų.
 
 2312 straipsnis.
 
-Neteisėtas radioaktyviųjų medžiagų įsigyjimas,
+Neteisėtas radioaktyviųjų medžiagų įsigijimas,
 
 laikymas,
 
@@ -5327,9 +5283,11 @@ Neteisėtas radioaktyviųjų
 
 medžiagų (jonizuoto spinduliavimo šaltinių, radioaktyviųjų ir branduolinių
 
-medžiagų bet kurioje fizinėje būsenoje ar kokiu kitu pavidalu esančių įenginyje
+medžiagų bet kurioje fizinėje būsenoje ar kokiu kitu pavidalu esančių
 
-arba gaminyje) įgijimas, laikymas, panaudojimas, perdavimas arba suardymas -
+įrenginyje arba gaminyje) įgijimas, laikymas, panaudojimas, perdavimas arba
+
+suardymas -
 
 baudžiamas laisvės atėmimu iki
 
@@ -5367,17 +5325,13 @@ iki dešimties metų.
 
 232 straipsnis. Neteisėtas
 
-stipriai veikiančių ar nuodingųjų medžiagų
-
-gaminimas arba
-
-realizavimas
+stipriai veikiančių ar nuodingųjų medžiagų gaminimas arba realizavimas
 
 Neteisėtas stipriai veikiančių
 
-ar nuogųįų medžiagų gaminimas, įgijimas, laikymas arba realizavimas, taip pat
+ar nuodingųjų medžiagų gaminimas, įgijimas, laikymas arba realizavimas, taip
 
-nustatytų joms gaminti, laikyti, išduoti, apskaityti ar gabenti taisyklių
+pat nustatytų joms gaminti, laikyti, išduoti, apskaityti ar gabenti taisyklių
 
 pažeidimas -
 
@@ -5417,9 +5371,9 @@ Neteisėtas psichotropinių ar
 
 narkotinių medžiagų gaminimas, įgijimas, laikymas, gabenimas arba siuntimas,
 
-turint tikslą jas parduoti ar kitaip platinti, taip pat neteisėtas jų pardavimas
+turint tikslą jas parduoti ar kitaip platinti, taip pat neteisėtas jų
 
-ar kitoks platinimas -
+pardavimas ar kitoks platinimas -
 
 baudžiamas laisvės atėmimu nuo
 
@@ -5499,15 +5453,15 @@ baudžiamas laisvės atėmimu iki
 
 penkerių metų.
 
-Ta pati veika, padaryta pakartotinai
+Ta pati veika, padaryta
 
-arba grupės iš anksto susitarusių asmenų, arba pavartojant smurtą, nepavojingą
+pakartotinai arba grupės iš anksto susitarusių asmenų, arba pavartojant smurtą,
 
-gyvybei ir sveikatai, arba asmens, kuriam minėtos priemonės buvo patikėtos
+nepavojingą gyvybei ir sveikatai, arba asmens, kuriam minėtos priemonės buvo
 
-ryšium su jo tarnybine padėtimi arba patikėtos saugoti, taip pat asmens,
+patikėtos ryšium su jo tarnybine padėtimi arba patikėtos saugoti, taip pat
 
-pirmiau padariusio vieną iš nusikaltimų, numatytų šio kodekso 232(1)
+asmens, pirmiau padariusio vieną iš nusikaltimų, numatytų šio kodekso 232(1)
 
 straipsnio trečiojoje ir ketvirtojoje dalyse, 232(3), 232(4),
 
@@ -5539,9 +5493,7 @@ Nr. VIII-617, 98.02.03, Žin., 1998, Nr.17-397
 
 2323
 
-straipsnis.Draudžiamų auginti opijaus aguonų ir kanapių sėjimas
-
-arba auginimas
+straipsnis.Draudžiamų auginti opijaus aguonų ir kanapių sėjimas arba auginimas
 
 Draudžiamų auginti opijaus
 
@@ -5591,9 +5543,9 @@ Lenkimas vartoti psichotropines ar narkotines
 
 medžiagas
 
-Lenkimas vartoti
+Lenkimas vartoti psichotropines
 
-psichotropines ar narkotines medžiagas -
+ar narkotines medžiagas -
 
 baudžiamas laisvės atėmimu iki
 
@@ -5789,17 +5741,17 @@ be atėmimo šios teisės.
 
 2328
 
-straipsnis. Neteisėtas aliejinių aguonų ir kanapių sėjimas arba
+straipsnis. Neteisėtas aliejinių aguonų ir kanapių sėjimas arba auginimas
 
-auginimas
+Neteisėtas aliejinių aguonų,
 
-Neteisėtas aliejinių aguonų, taip
+taip pat kanapių, išskyrus šio kodekso 2323 straipsnio pirmojoje
 
-pat kanapių, išskyus šio kodekso 2323 straipsnio pirmojoje dalyje
+dalyje nurodytas rūšis, sėjimas arba auginimas, padarytas pakartotinai per
 
-nurodytas rūšis, sėjimas arba auginimas, padarytas pakartotinai per vienerius
+vienerius metus po administracinės nuobaudos paskyrimo už tokius pat
 
-metus po administracinės nuobaudos paskyrimo už tokius pat pažeidimus, -
+pažeidimus, -
 
 baudžiamas laisvės atėmimu iki
 
@@ -5835,9 +5787,9 @@ arba užsiimti tam tikra veikla ar be šios teisės atėmimo.
 
 Neteisėta farmacinė veikla, padaryta asmens,
 
-turinčio teistumą už tokį pat usikaltimą, arba padaryta stambiu mastu -
+turinčio teistumą už tokį pat nusikaltimą, arba padaryta stambiu mastu -
 
-baudžiama laisvės atėmimu iki trejų meų arba
+baudžiama laisvės atėmimu iki trejų metų arba
 
 pataisos darbais nuo vienerių iki dvejų metų su atėmimu teisės eiti tam tikras
 
@@ -5861,7 +5813,7 @@ nuodingųjų, sprogstamųjų, gailiųjų ar  lengvai  užsidegančių medžiag
 
 Neteisėtas siuntimas paštu ar
 
-bagažu nuodingųįų medžiagų, taip pat sprogstamųjų, gailiųjų arba lengvai
+bagažu nuodingųjų medžiagų, taip pat sprogstamųjų, gailiųjų arba lengvai
 
 užsidegančių medžiagų ar daiktų -
 
@@ -5879,9 +5831,9 @@ radioaktyviąsias medžiagas turint tikslą priversti valstybę, tarptautinę
 
 organizaciją, fizinį arba juridinį asmenį atlikti kokį nors veiksmą arba
 
-atsisakyti nuo jo, jeigu buvo pagrindo baimintis dėl šio grasinimo
+atsisakyti nuo jo, jeigu buvo pagrindo baimintis dėl šio grasinimo įgyvendinimo,
 
-įgyvendinimo, -
+-
 
 baudžiamas laisvės atėmimu iki trejų metų.
 
@@ -5929,9 +5881,9 @@ Neteisėtas nešaunamųjų ginklų (kardų,
 
 durtuvų, durklų, medžioklinių peilių, arbaletų) arba kitokių įtaisų bei daiktų,
 
-specialiai pagaminų ar pritaikyų gyvybei atimti, kūno sužalojimams padaryti,
+specialiai pagamintų ar pritaikytų gyvybei atimti, kūno sužalojimams padaryti,
 
-gaminimas turint fikslą juos realizuoti, jų realizavimas, taip pat nešiojimas -
+gaminimas turint tikslą juos realizuoti, jų realizavimas, taip pat nešiojimas -
 
 baudžiamas laisvės atėmimu iki
 
@@ -5973,7 +5925,7 @@ Nustatytų karatė sporto
 
 sekcijų steigimo arba piliečių į jas priėmimo taisyklių pažeidimas arba mokymas
 
-sekcijose sporto taisyklėse uždrausų veiksmų, taip pat karatė veiksmų
+sekcijose sporto taisyklėse uždraustų veiksmų, taip pat karatė veiksmų
 
 savavališkas mokymas be atitinkamų organų leidimo, jeigu tai padaryta po to,
 
@@ -5997,9 +5949,9 @@ penkerių metų.
 
 vertimasis gydymu
 
-Vertimasis gydymu kaip
+Vertimasis gydymu kaip profesija,
 
-profesija, neturint reikiamo medicininio išsilavinimo, -
+neturint reikiamo medicininio išsilavinimo, -
 
 baudžiamas laisvės atėmimu iki vienerių metų,
 
@@ -6037,7 +5989,7 @@ užsikrėsti pavojinga infekcine liga sukėlimas, padarytas asmens, kurį sveika
 
 apsaugos įstaigos informavo apie jo ligą ir įspėjo dėl apsaugos priemonių,
 
-kurių jis turi laikytis bendraudarnas su kitais žmonėmis, -
+kurių jis turi laikytis bendraudamas su kitais žmonėmis, -
 
 baudžiamas laisvės atėmimu iki
 
@@ -6085,9 +6037,7 @@ baudžiami bauda.
 
 241 straipsnis. Įtraukimas
 
-nepilnamečio į nusikalstamą veiklą arba
-
-girtavimą
+nepilnamečio į nusikalstamą veiklą arba girtavimą
 
 Įtraukimas nepilnamečio į
 
@@ -6117,11 +6067,9 @@ penkerių metų.
 
 2411 straipsnis.
 
-Įtraukimas nepilnamečių į ne medicininį vaistų ir
+Įtraukimas nepilnamečių į ne medicininį vaistų ir kitų priemonių, sukeliančių
 
-kitų
-
-priemonių, sukeliančių apkvaišinimą, vartojimą
+apkvaišinimą, vartojimą
 
 Įtraukimas nepilnamečių į
 
@@ -6139,9 +6087,9 @@ daiktų gaminimas ir platinimas
 
 Pornografinių raštų,
 
-spausdintų leidinių, atvaizdų ar kitokių pornografinio pobūdžio daikų gaminimas
+spausdintų leidinių, atvaizdų ar kitokių pornografinio pobūdžio daiktų
 
-arba laikymas, turint tikslą juos platinti, taip pat jų platinimas -
+gaminimas arba laikymas, turint tikslą juos platinti, taip pat jų platinimas -
 
 baudžiami laisvės atėmimu iki
 
@@ -6203,7 +6151,7 @@ penkerių metų, arba pataisos darbais iki dvejų metų, arba bauda.
 
 245 straipsnis. Gamtos
 
-apsaugos įslatymų pažeidimas
+apsaugos įstatymų pažeidimas
 
 Gamtos apsaugos įstatymų
 
@@ -6247,31 +6195,33 @@ penkerių metų.
 
 2452 straipsnis.
 
-Medžiagų, kenksmingų žmonių sveikatai ar jūros gyvūnijai, arba kitų alliekų ir
+Medžiagų, kenksmingų žmonių sveikatai ar jūros gyvūnijai, arba kitų atliekų ir
 
 medžiagų neteisėtas išvertimas siekiant palaidoti jūroje
 
 Medžiagų, kenksmingų žmonių
 
-sveikatai ar jūros gyvūnijai, arba kių atliekų ir medžiagų, kurios gali
+sveikatai ar jūros gyvūnijai, arba kitų atliekų ir medžiagų, kurios gali
 
 padaryti žalos poilsio zonoms arba kliudyti kitoms teisėtoms jūros naudojimo
 
 rūšims, neteisėtas išvertimas iš laivų ir kitokių plaukiojimo priemonių,
 
-orlaivių, platformų ar kių dirbtinai pastatyų jūroje konstukcijų, siekiant palaidoti
+orlaivių, platformų ar kitų dirbtinai pastatytų jūroje konstrukcijų, siekiant
 
-jūroje Lietuvos Respublikos vidaus jūrųl ir teritorinių vandenų ribose, taip
+palaidoti jūroje Lietuvos Respublikos vidaus jūrųl ir teritorinių vandenų
 
-pat nurodyų medžiagų bei atliekų neteisėtas išvertimas iš Lietuvos Respublikos
+ribose, taip pat nurodytų medžiagų bei atliekų neteisėtas išvertimas iš
 
-laivų ir kitokių plaukiojimo priemonių, orlaivių, platformų ar kitų dirbtinai
+Lietuvos Respublikos laivų ir kitokių plaukiojimo priemonių, orlaivių,
 
-pastatytų jūroje konstukcijų, siekiant palaidoti atviroje jūroje, -
+platformų ar kitų dirbtinai pastatytų jūroje konstrukcijų, siekiant palaidoti
+
+atviroje jūroje, -
 
 baudžiami laisvės atėmimu iki
 
-vienerių meų, arba pataisos darbais tam pačiam laikui, arba bauda.
+vienerių metų, arba pataisos darbais tam pačiam laikui, arba bauda.
 
 2453 straipsnis.
 
@@ -6285,7 +6235,7 @@ jūrų ir teritorinių vandenų teršimas neteisėtai išverčiant į tuos vande
 
 laivų bei kitokių plaukiojimo priemonių, orlaivių, platformų ar kitų dirbtinai
 
-pastatytų jūroje konstukcijų medžiagas, kenksmingas žmonių sveikatai ar jūros
+pastatytų jūroje konstrukcijų medžiagas, kenksmingas žmonių sveikatai ar jūros
 
 gyvūnijai, arba mišinius, kuriuose tokių medžiagų yra daugiau už nustatytas
 
@@ -6311,7 +6261,7 @@ baudžiami laisvės atėmimu iki
 
 dvejų metų, arba pataisos darbais tam pačiam laikui, arba bauda.
 
-Tie patys veiksma, jeigu jie
+Tie patys veiksmai, jeigu jie
 
 padarė esminę žalą žmonių sveikatai ar jūros gyvūnijai, poilsio zonoms arba
 
@@ -6343,7 +6293,7 @@ reikalo ruošiamasi arba jau išversta, arba jie neišvengiamai praras Lietuvos
 
 Respublikos vidaus jūrų ir teritorinių vandenų ribose medžiagų, kenksmingų
 
-žmonią sveikatai ar jūros gyvūnijai, arba mišinių, kuriuose tokių medžiagų yra
+žmonių sveikatai ar jūros gyvūnijai, arba mišinių, kuriuose tokių medžiagų yra
 
 daugiau už nustatytas normas, ar kitų atliekų ir medžiagų, kurios gali padaryti
 
@@ -6391,25 +6341,25 @@ veikla.
 
 Transporto priemonę vairuojančio asmens
 
-pažeidimas eismo saugumo ar transporto priemonią eksploatavimo taisyklių, jeigu
+pažeidimas eismo saugumo ar transporto priemonių eksploatavimo taisyklių, jeigu
 
 tai sukėlė nukentėjusiajam apysunkį ar sunkų kūno sužalojimą, -
 
-baudžiamas laisvės atėmimu iki ketverių metų
+baudžiamas laisvės atėmimu iki ketverių metų arba
 
-arba pataisos darbais iki dvejų metų su atėmimu teisės eiti tam tikras
+pataisos darbais iki dvejų metų su atėmimu teisės eiti tam tikras pareigas,
 
-pareigas, dirbti tam tikrą darbą ar užsiimti tam tikra veikla.
+dirbti tam tikrą darbą ar užsiimti tam tikra veikla.
 
 Šio straipsnio antrojoje
 
 dalyje numatyta veika, padaryta esant neblaiviam, -
 
-baudžiama laisvės atėmimu nuo dvejų iki
+baudžiama laisvės atėmimu nuo dvejų iki septynerių
 
-septynerių metų su atėmimu teisės eiti tam tikras pareigas, dirbti tam tikrą
+metų su atėmimu teisės eiti tam tikras pareigas, dirbti tam tikrą darbą ar
 
-darbą ar užsiimti tam tikra veikla.
+užsiimti tam tikra veikla.
 
 Transporto priemonę vairuojančio asmens
 
@@ -6435,11 +6385,11 @@ darbą ar užsiimti tam tikra veikla.
 
 Šio kodekso 246, 248, 2481, 2482
 
-straipsniuose minimomis transporto priemonėmis reikia laikyti visų rūšių
+straipsniuose minimomis transporto priemonėmis reikia laikyti visų rūšių automobilius,
 
-automobilius, traktorius ir kitokias savaeiges mašinas, troleibusus, taip pat
+traktorius ir kitokias savaeiges mašinas, troleibusus, taip pat motociklus ir
 
-motociklus ir kitas mechanines transporto priemones.
+kitas mechanines transporto priemones.
 
 2461 straipsnis.
 
@@ -6449,13 +6399,13 @@ Neteko galios.
 
 savaeigėmis mašinomis taisyklių pažeidimas
 
-Traktoriaus ar kitokios
+Traktoriaus ar kitokios savaeigės
 
-savaeigės mašinos vairuotojo pažeidimas nustatytųjų darbo saugumo taisyklių,
+mašinos vairuotojo pažeidimas nustatytųjų darbo saugumo taisyklių, jeigu tai
 
-jeigu tai sukėlė nukentėjusiajam lengvą, apysunkį ar sunkų kūno sužalojimą arba
+sukėlė nukentėjusiajam lengvą, apysunkį ar sunkų kūno sužalojimą arba padarė
 
-padarė žymią materialinę žalą, -
+žymią materialinę žalą, -
 
 baudžiamas laisvės atėmimu iki
 
@@ -6501,15 +6451,13 @@ penkerių metų, arba pataisos darbais iki dvejų metų, arba bauda su atėmimu
 
 teisės eiti pareigas, susijusias su atsakomybe už transporto priemonių
 
-techninę būklę arba
+techninę būklę arba eksploatavimą,
 
-eksploatavimą, iki penkerių metų arba be atėmimo šios teisės.
+iki penkerių metų arba be atėmimo šios teisės.
 
 2481 straipsnis. Leidimas vairuoti
 
-transporto priemones neblaiviems
-
-vairuotojams
+transporto priemones neblaiviems vairuotojams
 
 Leidimas vairuoti transporto
 
@@ -6529,9 +6477,7 @@ eksploatavimą, iki penkerių metų.
 
 2482 straipsnis.
 
-Perdavimas vairuoti transporto priemonę neblaiviam
-
-asmeniui
+Perdavimas vairuoti transporto priemonę neblaiviam asmeniui
 
 Perdavimas vairuoti transporto
 
@@ -6541,7 +6487,7 @@ baudžiamas laisvės atėmimu iki
 
 vienerių metų, arba pataisos darbais tam pačiam laikui, arba bauda, su atėmimu
 
-teisės vairuoti transporto priemones nuo trejųl iki penkerių metų.
+teisės vairuoti transporto priemones nuo trejų iki penkerių metų.
 
 Ta pati veika, padaryta
 
@@ -6641,7 +6587,7 @@ Sistemingas garbės arba orumo
 
 žeminimas žodžiu, raštu arba veiksmu. padarytas pavaldinio ar jaunesniojo
 
-vyresniajam, arba viršininko prieš pavaldinį ar vyresniojo prieš jaunesnjjį,
+vyresniajam, arba viršininko prieš pavaldinį ar vyresniojo prieš jaunesnįjį,
 
 bent vienam iš jų einant krašto apsaugos tarnybos pareigas, -
 
@@ -6649,9 +6595,9 @@ baudžiamas laisvės atėmimu iki
 
 vienerių metų.
 
-256 straipsnis. Krašto
+256 straipsnis. Krašto apsaugos
 
-apsaugos tarnybos stalutų taisyklių pažeidimas
+tarnybos statutų taisyklių pažeidimas
 
 Krašto apsaugos tarnybos
 
@@ -6715,11 +6661,11 @@ pasitraukimas iš dalinio kautynių
 
 aplinkybėmis
 
-Savavališkas kario
+Savavališkas kario pasitraukimas
 
-pasitraukimas iš dalinio arba tarnybos vietos, taip pat neatvykimas į tarnybą
+iš dalinio arba tarnybos vietos, taip pat neatvykimas į tarnybą kautynių
 
-kautynių aplinkybėmis be pateisinamų priežasčių, nesvarbu, kokia jų trukmė, -
+aplinkybėmis be pateisinamų priežasčių, nesvarbu, kokia jų trukmė, -
 
 baudžiamas laisvės atėmimu nuo
 
@@ -6775,21 +6721,19 @@ sienos apsaugos tarnybos taisyklių
 
 pažeidimas
 
-Asmens, atliekančio Lietuvos
+Asmens, atliekančio Lietuvos Respub1ikos
 
-Respub1ikos valstybės sienos apsaugos tarnybą, pažeidimas šios tarnybos
+valstybės sienos apsaugos tarnybą, pažeidimas šios tarnybos taisyklių, dėl ko
 
-taisyklių, dėl ko buvo padarytas nusikaltimas arba didelė materialinė žala
-
-valstybei, -
+buvo padarytas nusikaltimas arba didelė materialinė žala valstybei, -
 
 baudžiamas laisvės atėmimu iki
 
 penkerių metų.
 
-267 straipsnis. Vidaus tarnybos
+267 straipsnis. Vidaus
 
-statuto taisyklių pažeidimas
+tarnybos statuto taisyklių pažeidimas
 
 Asmens, atliekančio pavestą tarnybą dalinyje
 
@@ -6855,9 +6799,9 @@ atitinkamus šio skirsnio straipsnius.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-725,
+Nr.
 
-98.05.05, Žin., 1998, Nr.49-1327 (98.05.27)
+VIII-725, 98.05.05, Žin., 1998, Nr.49-1327 (98.05.27)
 
 Dvyliktasis
 
@@ -6901,9 +6845,9 @@ trejų iki aštuonerių metų su bauda ar be baudos.
 
 pasisavinimas arba iššvaistymas
 
-Kaltininkui patikėto ar esančio
+Kaltininkui patikėto ar
 
-jo žinioje svetimo turto pasisavinimas arba iššvaistymas -
+esančio jo žinioje svetimo turto pasisavinimas arba iššvaistymas -
 
 baudžiamas laisvės atėmimu iki trejų metų su
 
@@ -6951,9 +6895,9 @@ Turtinės žalos padarymas kitam
 
 asmeniui vengiant atsiskaitymų už atliktus darbus ar suteiktas paslaugas, taip
 
-pat vengiant kitų mokėjimą, jeigu tai padaryta apgaule ar piktnaudžiaujant pasitikėjimu,
+pat vengiant kitų mokėjimą, jeigu tai padaryta apgaule ar piktnaudžiaujant
 
--
+pasitikėjimu, -
 
 baudžiamas pataisos darbais
 
@@ -7039,9 +6983,9 @@ realizavimas
 
 Turto, gauto šio kodekso 105
 
-straipsnio 8 punkte, 2322. 2341, 271-277, 312
+straipsnio 8 punkte, 2322. 2341, 271-277, 312 straipsniuose
 
-straipsniuose numatytu būdu, įgijimas arba realizavimas -
+numatytu būdu, įgijimas arba realizavimas -
 
 baudžiamas laisvės atėmimu iki
 
@@ -7067,11 +7011,11 @@ NUSIKALTIMAI
 
 VALSTYBĖS TARNYBAI
 
-atlyginimo priėmimas (283 straipsnis), papirkimas (284 straipsnio 2 dalis), piktnaudžiavimas
+atlyginimo priėmimas (283 straipsnis), papirkimas (284 straipsnio 2 dalis),
 
-tarnyba (285 straipsnio 2 dalis), tarnybos įgaliojimų viršijimas (287
+piktnaudžiavimas tarnyba (285 straipsnio 2 dalis), tarnybos įgaliojimų viršijimas
 
-straipsnio 2 dalis), tarnybinis suklastojimas (289 straipsnio 2 dalis),
+(287 straipsnio 2 dalis), tarnybinis suklastojimas (289 straipsnio 2 dalis),
 
 vertimasis uždrausta komercine, ūkine, finansine ar profesine veikla ar veikla,
 
@@ -7107,9 +7051,9 @@ buvo pavartotas prievartavimas.
 
 286 straipsnis. Valstybės
 
-pareigūno neteisėtas dalyvavimas įmonės
+pareigūno neteisėtas dalyvavimas įmonės komercinėje,ūkinėje ar finansinėje
 
-komercinėje,ūkinėje ar finansinėje veikloje
+veikloje
 
 Valstybės pareigūno neteisėtas
 
@@ -7171,9 +7115,9 @@ Valstybės pareigūno ar
 
 valstybės tarnautojo neatlikimas savo pareigų arba jų atlikimas netinkamai dėl
 
-nerūpestingumo, jeigu dėl to padaryta didelė žala valstybės interesams ar kitiems
+nerūpestingumo, jeigu dėl to padaryta didelė žala valstybės interesams ar
 
-asmenims, -
+kitiems asmenims, -
 
 baudžiamas laisvės atėmimu iki
 
@@ -7303,9 +7247,9 @@ Nepranešimas kvotos, tardymo,
 
 prokuratūros įstaigoms arba teismui be svarbios priežasties per kiek galima
 
-trumpesnį laiką apie žinomai rengiamą, daromą ar padarytą nelegalų asmenų gabenimą
+trumpesnį laiką apie žinomai rengiamą, daromą ar padarytą nelegalų asmenų
 
-į Lietuvos Respublikos teritoriją, joje arba iš jos ar jų slėpimą (82(1)
+gabenimą į Lietuvos Respublikos teritoriją, joje arba iš jos ar jų slėpimą (82(1)
 
 straipsnis), tyčinį nužudymą (104 ir 105 straipsniai), nusikalstamo
 
@@ -7339,9 +7283,9 @@ Nr. VIII-617, 98.02.03, Žin., 1998, Nr.17-397
 
 (98.02.19)
 
-Nr. VIII-744,
+Nr.
 
-98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
+VIII-744, 98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
 
 295 straipsnis. Nusikaltimo
 
@@ -7363,9 +7307,9 @@ laikymo, gabenimo, siuntimo arba realizavimo sunkinančiomis aplinkybėmis (232(
 
 straipsnio 3 ir 4 dalys), šaunamojo ginklo, šaudmenų, sprogmenų ar sprogstamųjų
 
-medžiagų grobimo (234(1) straipsnis), radioaktyviųjų medžiagų
+medžiagų grobimo (234(1) straipsnis), radioaktyviųjų medžiagų grobimo
 
-grobimo (234(2) straipsnis), nusikalstamų grupių ginklavimo (234(4)
+(234(2) straipsnis), nusikalstamų grupių ginklavimo (234(4)
 
 straipsnis), orlaivio nuvarymo (249(2) straipsnis) vagystės
 
@@ -7387,15 +7331,13 @@ vienerių iki penkerių metų su bauda ar be jos.
 
 Asmuo neatsako už šiame
 
-straipsnyje numatytą veiką, jeigu jis slėpė savo šeimos narį arba artimą giminaitį.
+straipsnyje numatytą veiką, jeigu jis slėpė savo šeimos narį arba artimą
 
-297 straipsnis. Poveikis
+giminaitį.
 
-liudytojui, nukentėjusiajam, ekspertui,
+297 straipsnis. Poveikis liudytojui,
 
-specialistui,
-
-revizoriui ar vertėjui
+nukentėjusiajam, ekspertui, specialistui, revizoriui ar vertėjui
 
 Siekimas paveikti liudytoją, nukentėjusįjį,
 
@@ -7411,7 +7353,7 @@ jeigu tai padaryta paperkant ar panaudojant prieš šiuos asmenis, jų šeimos
 
 narius arba artimuosius giminaičius fizinį smurtą, sunaikinant ar sužalojant jų
 
-turtą, taip pat grasinant panaudoti tizinį smurtą, sunaikinti ar sužaloti
+turtą, taip pat grasinant panaudoti fizinį smurtą, sunaikinti ar sužaloti
 
 turtą, -
 
@@ -7441,11 +7383,7 @@ ketverių metų su bauda ar be jos arba bauda.
 
 298 straipsnis. Kišimasis į
 
-kvotėjo, tardytojo, prokuroro, teisėjo ar
-
-teismo
-
-antstolio veiklą
+kvotėjo, tardytojo, prokuroro, teisėjo ar teismo antstolio veiklą
 
 Mėginimas bet. kokia forma
 
@@ -7473,13 +7411,13 @@ baudžiami laisvės atėmimu iki
 
 trejų metų su bauda ar be jos.
 
-Kišimasis į kvotėjo,
+Kišimasis į kvotėjo, tardytojo.
 
-tardytojo. prokuroro, teisėjo ar teismo antstolio veiklą, padarytas panaudojant
+prokuroro, teisėjo ar teismo antstolio veiklą, padarytas panaudojant fizinį
 
-fizinį smurtą prieš šiuos pareigūnus, jų šeimos narius arba artimuosius
+smurtą prieš šiuos pareigūnus, jų šeimos narius arba artimuosius giminaičius,
 
-giminaičius, taip pat sunaikinant ar sužalojant jų turtą, -
+taip pat sunaikinant ar sužalojant jų turtą, -
 
 baudžiamas laisvės atėmimu nuo
 
@@ -7609,19 +7547,15 @@ NUSIKALTlMAI
 
 falsifikuotų prekių gaminimas, realizavimas ar laikymas (309 straipsnis),
 
-naminės degtinės, brogos, kitų namų gamybos stiprių alkoholinių gėrimų
+naminės degtinės, progos, kitų namų gamybos stiprių alkoholinių gėrimų
 
 gaminimas, laikymas, gabenimas, realizavimas, nedenatūruoto etilo alkoholio,
 
 denatūruoto etilo alkoholio, techninio etilo alkoholio ir jų skiedinių, aparatų
 
-straipsnio 2 dalis), kontrabanda (312 straipsnis), neteisėtas prekių ar
+straipsnio 2 dalis), kontrabanda (312 straipsnis), neteisėtas prekių ar produkcijos
 
-produkcijos neišvežimas iš Lietuvos Respublikos sunkinančiomis
-
-aplinkybėmis (312(1) straipsnio 3 dalis), pinigų plovimas (326
-
-straipsnis), netikrų pinigų ar vertybinių popierių pagaminimas, laikymas arba
+neišvežimas iš Lietuvos Respublikos sunkinančiomis aplinkybėmis (312(1)
 
 315 straipsnis. Privedimas
 
@@ -7673,7 +7607,7 @@ veiklą, laikomos pramonine, komercine ar banko paslaptimi, suteikimas kitam
 
 asmeniui norint gauti turtinę ar asmeninę naudą, jei informaciją asmuo sužinojo
 
-ryšium su tarnyba šioje jmonėje arba tokia veikla padarė didelę turtinę žalą
+ryšium su tarnyba šioje įmonėje arba tokia veikla padarė didelę turtinę žalą
 
 nukentėjusiajam, -
 
@@ -7707,9 +7641,9 @@ atsakomybės asmuo, davęs nepagrįstą atlyginimą, jei pats savo noru pareišk
 
 apie tokio atlyginimo davimą.
 
-322 straipsnis. Aplaidus apskaitos
+322 straipsnis. Aplaidus
 
-tvarkymas
+apskaitos tvarkymas
 
 Aplaidus įmonės buhalterinės
 
@@ -7917,21 +7851,89 @@ baudžiami laisvės atėmimu iki
 
 aštuonerių metų.
 
-saugomų asmenų žudymas (333 straipsnis), okupuotos valstybės civilių trėmimas
+(333 straipsnis), okupuotos valstybės civilių trėmimą (334 straipsnis),
 
-(334 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žalojimas,
+draudžiamą karo ataką sunkinančiomis aplinkybės (337 straipsnio 2 dalis).
 
-kankinimas ar kitoks nežmoniškas elgesys su jais (335 straipsnis), tarptautinės
+Mirties bausmė gali būti pakeista laisvės atėmimu iki gyvos galvos amnestijos
 
-humanitarinės teisės normų dėl civilių ir jų teisių apsaugos karo metu
+aktu arba malonės tvarka.
 
-pažeidimas (336 straipsnis), draudžiama karo ataka (337 straipsnis), civilių ar
+Asmenys, kuriems paskirtas laisvės atėmimas
 
-karo belaisvių prievartinis panaudojimas priešo ginkluotosiose pajėgose (338
+iki gyvos galvos arba mirties bausmė pakeista laisvės atėmimu iki gyvos galvos,
 
-straipsnis), saugomų objektų naikinimas ar nacionalinių vertybių grobstymas
+laikomi kalėjime.
 
-(339 straipsnis), uždraustų karo priemonių naudojimas (340 straipsnis).
+Straipsnio pakeitimai:
+
+Nr.
+
+VIII-708, 98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
+
+Nr. VIII-776, 98.06.09, Žin., 1998,
+
+Nr.57-1580 (98.06.24)
+
+straipsnis), okupuotos valstybės civilių trėmimas (334 straipsnis),
+
+tarptautinės humanitarinės teisės saugomų asmenų žalojimas, kankinimas ar
+
+kitoks nežmoniškas elgesys su jais (335 straipsnis), tarptautinės humanitarinės
+
+teisės normų dėl civilių ir jų teisių apsaugos karo metu pažeidimas (336
+
+pažeidimas (336 straipsnis), saugomų objektų naikinimas ar nacionalinių
+
+vertybių grobstymas (339 straipsnis).
+
+Turto konfiskavimas yra priverstinis
+
+neatlygintinas paėmimas valstybės nuosavybėn viso ar dalies turto, kuris yra
+
+asmeninė nuteistojo nuosavybė, arba turto. kuris yra perduotas valdyti kitiems
+
+asmenims, tačiau gautas nusikalstamu būdu.
+
+Kitiems fiziniams ar juridiniams asmenims
+
+padovanotas ar kitaip perduotas turtas konfiskuojamas, jeigu šie asmenys žinojo
+
+ar turėjo ir galėjo numatyti, jog jiems bet kuria forma perduotas turtas yra
+
+gautas nusikalstamu būdu.
+
+Taikant turto konfiskavimą asmeniui,
+
+nuteistam už nusikaltimą, numatytą šio straipsnio pirmojoje dalyje, laikoma,
+
+kad visas per nusikalstamos veiklos laikotarpį įgytas ir pas kaltininką esantis
+
+ar kitiems asmenims perduotas turtas yra gautas nusikalstamu būdu.
+
+Konfiskuodamas nuteistajam
+
+priklausantį turtą, teismas turi nurodyti, kuri turto dalis konfiskuojama arba
+
+konfiskuojamo turto vertę pinigine išraiška arba išvardyti konfiskuojamus
+
+daiktus. Konfiskuodamas kitiems asmenims priklausantį turtą, teismas turi
+
+išvardyti konfiskuojamus daiktus arba nurodyti konfiskuojamo turto vertę
+
+pinigine išraiška.
+
+Konfiskuojant turtą, pirmiausia
+
+tenkinami nukentėjusiojo turtiniai reikalavimai.
+
+Nusikaltimo įrankiai ir
+
+priemonės, taip pat pinigai ir kitos vertybės, gautos nusikalstamos veiklos
+
+būdu, konfiskuojamos Lietuvos Respublikos baudžiamojo proceso kodekso 93
+
+straipsnyje nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -7939,93 +7941,43 @@ Nr. VIII-617, 98.02.03, Žin., 1998, Nr.17-397
 
 (98.02.19)
 
-Nr. VIII-708,
+Nr.
 
-98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
+VIII-708, 98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
 
-Nr. VIII-744,
+Nr.
 
-98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
+VIII-744, 98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
+
+Nr. VIII-776, 98.06.09, Žin., 1998, Nr.57-1580
+
+(98.06.24)
+
+straipsnis), draudžiama karo ataka (337 straipsnis), civilių ar karo belaisvių
+
+prievartinis panaudojimas priešo ginkluotosiose pajėgose (338 straipsnis),
+
+saugomų objektų naikinimas ar nacionalinių vertybių grobstymas (339
+
+straipsnis), uždraustų karo priemonių naudojimas (340 straipsnis).
+
+Straipsnio pakeitimai:
+
+Nr. VIII-617, 98.02.03, Žin., 1998, Nr.17-397
+
+(98.02.19)
+
+Nr.
+
+VIII-708, 98.04.21, Žin., 1998, Nr.42-1140 (98.05.06)
+
+Nr.
+
+VIII-744, 98.05.14, Žin., 1998, Nr.51-1396 (98.06.03)
 
 Nr. VIII-776, 98.06.09, Žin., 1998,
 
 Nr.57-1580 (98.06.24)
-
-337 straipsnis. Draudžiama
-
-karo ataka
-
-Tarptautinės humanitarinės
-
-teisės normų draudžiama karo ataka prieš civilius, medicinos ar civilinės
-
-gynybos personalą, karo ar civilinę ligoninę, medicinos punktą, transporto
-
-priemonę, pervežančią sužeistuosius ar ligonius, Tarptautinio Raudonojo
-
-Kryžiaus Komiteto ar nacionalinės Raudonojo Kryžiaus ar Raudonojo Pusmėnulio
-
-draugijos personalą, jeigu šis personalas, ši ligoninė, medicinos punktas ar
-
-transporto priemonė turi specialius tarptautinius skiriamuosius ženklus, arba
-
-karo ataka prieš neginamą gyvenvietę ar demilitarizuotą zoną, arba karo ataka
-
-nepasirenkant konkretaus taikinio ir žinant, kad ji gali sukelti civilių žūtį
-
-arba civilinio objekto sunaikinimą, arba prieš kombatantus, aiškiai
-
-pasitraukusius iš mūšio ir nesipriešinusius, -
-
-baudžiama laisvės atėmimu nuo
-
-penkerių iki penkiolikos metų.
-
-Karo ataka prieš didelį pavojų
-
-aplinkai ir žmonėms keliantį objektą - atominę elektrinę, užtvanką, nuodingų
-
-medžiagų saugyklą ar kitą panašų objektą žinant, kad ji gali sukelti itin
-
-sunkių pasekmių, -
-
-baudžiama laisvės atėmimu nuo
-
-dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
-
-338 straipsnis. Civilių ar
-
-karo belaisvių prievartinis panaudojimas priešo ginkluotosiose pajėgose
-
-Tarptautinės humanitarinės
-
-teisės normų pažeidimas karo, tarptautinio ginkluoto konflikto metu arba
-
-okupacijos ar aneksijos sąlygomis verčiant civilius arba karo belaisvius
-
-tarnauti priešo ar okupanto ginkluotosiose pajėgose, arba civilių ar karo
-
-belaisvių kaip gyvojo skydo panaudojimas karo operacijoje -
-
-baudžiamas laisvės atėmimu nuo
-
-trejų iki dešimties metų.
-
-340 straipsnis. Uždraustų karo
-
-priemonių naudojimas
-
-Įsakymas karo veiksmuose
-
-panaudoti uždraustas karo priemones ar karo vedimo būdus, jų panaudojimas
-
-pažeidžiant tarptautinių sutarčių ar visuotinai pripažintų tarptautinių
-
-papročių dėl karo vedimo priemonių ar būdų nuostatas -
-
-baudžiamas laisvės atėmimu nuo
-
-trejų iki dešimties metų.
 
 342 straipsnis. Vilkinimas
 
@@ -8045,9 +7997,9 @@ trejų metų.
 
 paleisti internuotus civilius arba neleidimas repatrijuoti kitiems civiliams
 
-Nepateisinamas vilkinimas paleisti
+Nepateisinamas vilkinimas
 
-internuotus užsieniečius civilius ar neleidimas kitiems civiliams jų
+paleisti internuotus užsieniečius civilius ar neleidimas kitiems civiliams jų
 
 pageidavimu repatrijuoti į tėvynę iš ginkluoto konflikto šalies teritorijos,
 
