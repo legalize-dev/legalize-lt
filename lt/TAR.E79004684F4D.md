@@ -4,7 +4,7 @@ identifier: "TAR.E79004684F4D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-28"
-last_updated: "1997-07-09"
+last_updated: "1999-05-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.07.10)
+Ramunė Lūžaitė (1999.05.10)
 
 Įstatymas
 
@@ -60,6 +60,22 @@ VIII-320, 97.06.26, Žin., 1997, Nr.65-1547 (97.07.09)
 LIETUVOS
 
 RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 9 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1155,
+
+99.04.22, Žin., 1999, Nr.39-1202 (99.05.05)
+
+LIETUVOS
+
+RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
 
 ĮSTATYMAS
 
@@ -119,11 +135,11 @@ neturi būti nuolatinių gyventojų.
 
 2.
 
-Zonoje prekės importo ir eksporto muitų bei mokesčių ir kitų ekonominio pobūdžio
+Zonoje prekės importo ir eksporto muitų bei mokesčių ir kitų ekonominio
 
-draudimų ir apribojimų požiūriu yra laikomos esančiomis už Lietuvos Respublikos
+pobūdžio draudimų ir apribojimų požiūriu yra laikomos esančiomis už Lietuvos
 
-muitų teritorijos ribų.
+Respublikos muitų teritorijos ribų.
 
 3
 
@@ -429,11 +445,11 @@ straipsnis. Zonos steigimo tvarka
 
 1.
 
-Zonos steigimo iniciatoriais gali būti Respublikos miestų ir rajonų
+Zonos steigimo iniciatoriais gali būti Respublikos miestų ir rajonų savivaldybės
 
-savivaldybės ir apskritys, kurios Lietuvos Respublikos Vyriausybei pateikia
+ir apskritys, kurios Lietuvos Respublikos Vyriausybei pateikia pasiūlymą
 
-pasiūlymą įsteigti zoną. Šiame siūlyme turi būti:
+įsteigti zoną. Šiame siūlyme turi būti:
 
 nurodyta
 
@@ -883,21 +899,23 @@ Muitinė privalo tikrinti į zoną atvykstančius ar iš jos išvykstančius asm
 
 transporto priemones, įvežamas, išvežamas ar zonoje esančias prekes. Prekės
 
-įvežamos į zoną ir išvežamos iš jos tiktai per įvažiavimo (išvažiavimo)
+įvežamos į zoną ir išvežamos iš jos tiktai per įvažiavimo (išvažiavimo) punktus;
 
-punktus; jų įvežimo (išvežimo) tvarką reglamentuoja Lietuvos Respublikos
+jų įvežimo (išvežimo) tvarką reglamentuoja Lietuvos Respublikos muitinės
 
-muitinės kodeksas ir Lietuvos Respublikos Vyriausybės nutarimai.
+kodeksas ir Lietuvos Respublikos Vyriausybės nutarimai.
 
 3.
 
-Zonos išskyrimui reikalinga muitinės infrastruktūra ir statomų muitinių  pastatų
+Zonos išskyrimui reikalinga muitinės infrastruktūra ir statomų muitinių
 
-projektai,  taip pat  visų zonos išskyrimui reikalingų infrastruktūrų ir visų
+pastatų projektai,  taip pat  visų zonos išskyrimui reikalingų infrastruktūrų
 
-statomų pastatų projektai Lietuvos Respublikos Vyriausybės nustatyta tvarka
+ir visų statomų pastatų projektai Lietuvos Respublikos Vyriausybės nustatyta
 
-turi būti  suderinti  su  Muitinės  departamentu  prie  Finansų ministerijos.
+tvarka turi būti  suderinti  su  Muitinės  departamentu  prie  Finansų
+
+ministerijos.
 
 Straipsnio
 
@@ -921,17 +939,25 @@ Bankų ir draudimo įstaigų veiklą zonoje reguliuoja Lietuvos Respublikos
 
 komercinių bankų ir draudimo įstatymai.
 
-2.
+2. Mokėjimams bei atsiskaitymams laisvojoje
 
-Atsiskaitymui zonoje gali būti naudojamas litas ir konvertuojama užsienio šalių
+ekonominėje zonoje naudojamas litas. Mokėjimams bei atsiskaitymams tarp zonos
 
-valiuta.
+įmonių gali būti naudojama užsienio valiuta.
 
 3.
 
 Į zoną įvežamiems ar išvežamiems pinigams taikoma tokia pat tvarka kaip
 
 įvežamiems pinigams iš užsienio ar išvežamiems į užsienį.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-1155,
+
+99.04.22, Žin., 1999, Nr.39-1202 (99.05.05)
 
 18
 
@@ -1209,9 +1235,11 @@ bendrovės ir Lietuvos Respublikos Vyriausybės  įgaliotos valstybinės
 
 institucijos, atliekančios laisvųjų  ekonominių zonų valstybinę priežiūrą,
 
-ginčai dėl kompensacijos už zonos įmonių veiklos sąlygų pakeitimą ir kiti ginčai
+ginčai dėl kompensacijos už zonos įmonių veiklos sąlygų pakeitimą ir kiti
 
-sprendžiami Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+ginčai sprendžiami Lietuvos Respublikos civilinio proceso kodekso nustatyta
+
+tvarka.
 
 X SKYRIUS. LAISVOSIOS EKONOMINĖS ZONOS IR ZONOS ĮMONĖS LIKVIDAVIMAS
 
