@@ -4,7 +4,7 @@ identifier: "TAR.13BA31BA9E61"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-11-07"
-last_updated: "2003-01-01"
+last_updated: "2004-04-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.13BA31BA9E61"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos dizaino įstatymas
+
+Suvestinė redakcija nuo 2004-04-30 iki 2006-06-27
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 112-4980, i. k. 1021010ISTA0IX-1181
 
 LIETUVOS RESPUBLIKOS DIZAINO ĮSTATYMAS
 
@@ -30,7 +34,11 @@ BENDROSIOS NUOSTATOS
 
 1. Šis Įstatymas nustato pramoninio dizaino (toliau – dizainas) teisinę apsaugą, registraciją ir naudojimą Lietuvos Respublikoje, Lietuvos Respublikos dizaino registro tvarkymą.
 
-2. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu Įstatymo priede.
+2. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
@@ -66,6 +74,18 @@ BENDROSIOS NUOSTATOS
 
 16. Taisyklės – Valstybinio patentų biuro direktoriaus patvirtintos Dizaino registracijos taisyklės.
 
+17. Bendrijos dizainas – dizainas, pareikštas registruoti arba įregistruotas pagal Reglamentą dėl Bendrijos dizainų.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+
+18. Reglamentas dėl Bendrijos dizainų – 2001 m. gruodžio 12 d. Tarybos reglamentas (EB) Nr. 6/2002 dėl Bendrijos dizainų.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+
 3 straipsnis. Įstatymo taikymo sritis
 
 1. Šis Įstatymas taikomas kiekvienam dizainui, kuris yra arba Valstybiniam patentų biurui paduotos paraiškos dizainui registruoti objektas arba yra įregistruotas šio Įstatymo nustatyta tvarka.
@@ -86,7 +106,11 @@ DIZAINO APSAUGA
 
 5 straipsnis. Dizaino naujumas
 
-1. Dizainas yra naujas, jeigu Lietuvos Respublikoje joks kitas tapatus dizainas iki paraiškos padavimo datos, o kai prašoma prioriteto, – iki prioriteto datos nebuvo prieinamas visuomenei.
+1. Dizainas yra naujas, jeigu joks kitas tapatus dizainas iki paraiškos padavimo datos, o kai prašoma prioriteto, – iki prioriteto datos nebuvo prieinamas visuomenei.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 2. Dizainas laikomas tapačiu kitam dizainui, jeigu jų savybės skiriasi tik neesminėmis detalėmis.
 
@@ -108,41 +132,43 @@ DIZAINO APSAUGA
 
 8 straipsnis. Dizaino prieinamumas visuomenei
 
-1. Dizainas laikomas prieinamu visuomenei Lietuvos Respublikoje, jeigu jis:
+1. Dizainas laikomas prieinamu visuomenei, jeigu jis:
 
 1) po registracijos buvo paskelbtas Valstybinio patentų biuro oficialiame biuletenyje ar kitame leidinyje arba eksponuotas parodoje;
 
 2) pateiktas į rinką ar visuomenei atskleistas kitu būdu.
 
-2. Dizainas, kurio apsaugos prašoma, nelaikomas prieinamu visuomenei Lietuvos Respublikoje, jeigu jis:
+2. Dizainas, kurio apsaugos prašoma, nelaikomas prieinamu visuomenei, jeigu jis:
 
-1) šio straipsnio 1 dalyje nurodytomis aplinkybėmis iki paraiškos padavimo datos, o kai prašoma prioriteto, – iki prioriteto datos netapo žinomas Lietuvos Respublikoje atitinkamos srities specialistui įprastu būdu naudojant dizainą;
+1) šio straipsnio 1 dalyje nurodytomis aplinkybėmis iki paraiškos padavimo datos, o kai prašoma prioriteto, – iki prioriteto datos netapo žinomas Europos Bendrijoje atitinkamos srities specialistui įprastu būdu naudojant dizainą;
 
 2) buvo atskleistas trečiajam asmeniui aiškiai išreikštomis arba pagrįstai suprantamomis konfidencialumo sąlygomis.
 
-3. Dizainas, kurio apsaugos prašoma, taip pat nelaikomas prieinamu visuomenei Lietuvos Respublikoje, jeigu informacija apie jį buvo paskelbta visuomenei per 12 mėnesių iki paraiškos padavimo datos, o kai prašoma prioriteto, – iki prioriteto datos ir jeigu informacija paskelbta dėl:
+3. Dizainas, kurio apsaugos prašoma, taip pat nelaikomas prieinamu visuomenei, jeigu informacija apie jį buvo paskelbta visuomenei per 12 mėnesių iki paraiškos padavimo datos, o kai prašoma prioriteto, – iki prioriteto datos ir jeigu informacija paskelbta:
 
-1) paties dizainerio arba jo teisių perėmėjo ar kito asmens pateiktos informacijos arba kitokių veiksmų;
+1) paties dizainerio, jo teisių perėmėjo ar kito asmens dėl dizainerio ar jo teisių perėmėjo pateiktos informacijos arba atliktų veiksmų;
 
-2) kito asmens veiksmų, kuriais piktnaudžiaujama dizainerio ar jo teisių perėmėjo teisėmis.
+2) dėl kito asmens veiksmų, kuriais piktnaudžiaujama dizainerio ar jo teisių perėmėjo teisėmis.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 9 straipsnis. Atsisakymo įregistruoti dizainą arba jo registracijos pripažinimo negaliojančia pagrindai
 
-1. Dizainas neregistruojamas arba įregistruoto dizaino registracija pripažįstama negaliojančia, kai:
+Dizainas neregistruojamas arba įregistruoto dizaino registracija pripažįstama negaliojančia, kai:
 
 1) gaminio vaizdas negali būti laikomas dizainu pagal šio Įstatymo 2 straipsnio 1 dalį;
 
-2) gaminio vaizdo savybes lemia tik jo techninė funkcija;
+2) dizainas, jo naudojimas ar viešas paskelbimas prieštarauja viešajai tvarkai arba geros moralės principams;
 
-3) gaminio vaizdo savybes lemia tik tai, kad gaminys turi būti atkurtas būtinai tikslios formos ir tikslių matmenų tik dėl to, kad gaminys, kuriam dizainas pritaikytas ar panaudotas, galėtų būti mechaniškai sujungtas su kitu gaminiu arba prie jo, aplink jį ar į jį įdėtas taip, kad taip gautas gaminys galėtų atlikti savo funkciją;
+3) dizainui panaudoti Lietuvos Respublikos oficialusis ar tradicinis (trumpasis) valstybės pavadinimas, herbas, vėliava ar kiti valstybės heraldikos objektai ar juos mėgdžiojantis žymuo, taip pat garantiniai ir prabos ženklai, antspaudai, pasižymėjimo ar apdovanojimo ženklai, jeigu nėra Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka išduoto leidimo naudoti juos dizainui;
 
-4) dizainas, jo naudojimas ar viešas paskelbimas prieštarauja viešajai tvarkai arba geros moralės principams;
+4) dizainui panaudoti kitų valstybių ar tarptautinių organizacijų herbai, vėliavos ar kiti oficialūs simboliai, dėl kurių naudojimo nėra gautas kompetentingų tų valstybių ar tarptautinių organizacijų institucijų sutikimas pagal Paryžiaus konvencijos 6ter straipsnį.
 
-5) dizainui panaudoti Lietuvos Respublikos oficialusis ar tradicinis (trumpasis) valstybės pavadinimas, herbas, vėliava ar kiti valstybės heraldikos objektai ar juos mėgdžiojantis žymuo, taip pat garantiniai ir prabos ženklai, antspaudai, pasižymėjimo ar apdovanojimo ženklai, jeigu nėra Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka išduoto leidimo naudoti juos dizainui;
+Straipsnio pakeitimai:
 
-6) dizainui panaudoti kitų valstybių ar tarptautinių organizacijų herbai, vėliavos ar kiti oficialūs simboliai, dėl kurių naudojimo nėra gautas kompetentingų tų valstybių ar tarptautinių organizacijų institucijų sutikimas pagal Paryžiaus konvencijos 6ter straipsnį.
-
-2. Šio straipsnio 1 dalies 3 punkto nuostatos netaikomos, jeigu dizainas yra skirtas tam, kad į sudėtinę sistemą būtų galima daug kartų sumontuoti ar sujungti vienas kitą pakeičiančius gaminius.
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 10 straipsnis. Kiti dizaino registracijos pripažinimo negaliojančia pagrindai
 
@@ -158,13 +184,37 @@ DIZAINO APSAUGA
 
 5) dizainui panaudotas kitam asmeniui priklausantis prekių ženklas, juridinio asmens pavadinimas, jeigu nėra gautas to asmens sutikimas;
 
-6) dizainui panaudotas autorių teisių saugomas kūrinys, jeigu autorius ar jo teisių perėmėjas nėra davęs sutikimo.
+6) dizainui panaudotas autorių teisių saugomas kūrinys, jeigu autorius ar jo teisių perėmėjas nėra davęs sutikimo;
+
+7) gaminio vaizdo savybes lemia tik jo techninė funkcija;
+
+Papildyta straipsnio punktu:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+
+8) gaminio vaizdo savybes lemia tik tai, kad gaminys turi būti atkurtas būtinai tikslios formos ir tikslių matmenų tik dėl to, kad gaminys, kuriam dizainas pritaikytas ar panaudotas, galėtų būti mechaniškai sujungtas su kitu gaminiu arba prie jo, aplink jį ar į jį įdėtas taip, kad taip gautas gaminys galėtų atlikti savo funkciją.
+
+Papildyta straipsnio punktu:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 2. Šio straipsnio 1 dalies 3 ir 4 punktuose nurodytas ankstesnis dizainas yra:
 
 1) dizainas, kurio paraiškos padavimo Lietuvos Respublikoje data yra ankstesnė už šio straipsnio 1 dalyje nurodyto dizaino paraiškos padavimo datą; prireikus atsižvelgiama į prašomą suteikti ar suteiktą prioritetą;
 
-2) dizainas, kurio įregistravimo data įsigaliojus Hagos sutarčiai Lietuvos Respublikos atžvilgiu yra ankstesnė už šio straipsnio 1 dalyje nurodyto dizaino paraiškos padavimo datą, o kai prašoma prioriteto, – už suteikto prioriteto datą.
+2) dizainas, kurio įregistravimo data įsigaliojus Hagos sutarčiai Lietuvos Respublikos atžvilgiu yra ankstesnė už šio straipsnio 1 dalyje nurodyto dizaino paraiškos padavimo datą, o kai prašoma prioriteto, – už suteikto prioriteto datą;
+
+3) Bendrijos dizainas, kurio paraiškos padavimo data pagal Reglamentą dėl Bendrijos dizainų yra ankstesnė už šio straipsnio 1 dalyje nurodyto dizaino paraiškos padavimo datą, o kai prašoma prioriteto, – už prioriteto datą.
+
+Papildyta straipsnio punktu:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+
+3. Šio straipsnio 1 dalies 8 punkto nuostatos netaikomos, jeigu dizainas yra skirtas tam, kad į sudėtinę sistemą būtų galima daug kartų sumontuoti ar sujungti vienas kitą pakeičiančius gaminius.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 11 straipsnis. Prioritetas
 
@@ -240,7 +290,11 @@ DIZAINO REGISTRAVIMAS
 
 1. Pareiškėjas, norintis įregistruoti dizainą, turi paduoti paraišką Valstybiniam patentų biurui. Paraiška dėl tarnybinio dizaino registravimo Valstybiniam patentų biurui paduodama darbdavio arba užsakovo vardu.
 
-2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje, ir užsienio juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su dizaino registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Apeliaciniame skyriuje, atlieka per Lietuvos Respublikos patentinį patikėtinį.
+2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su dizaino registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant ir atstovavimą Apeliaciniame skyriuje, atlieka per patentinį patikėtinį, įrašytą į Lietuvos Respublikos patentinių patikėtinių registrą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 3. Vienam dizainui įregistruoti paduodama viena paraiška. Paraiškoje gali būti nurodoma ne daugiau kaip dešimt to paties gaminio, kuris priskiriamas tai pačiai Lokarno klasifikacijos klasei, dizaino pavyzdžių.
 
@@ -287,6 +341,18 @@ DIZAINO REGISTRAVIMAS
 1. Paraiškos padavimo data laikoma ta diena, kurią Valstybinis patentų biuras gavo visus šio Įstatymo 16 straipsnio 4 dalies 1–3 punktuose išvardytus dokumentus.
 
 2. Jeigu nepateikiamas nors vienas iš šio Įstatymo 16 straipsnio 4 dalies 1–3 punktuose nurodytų dokumentų, padavimo data paraiškai nesuteikiama, paraiškos dokumentai grąžinami pareiškėjui ir nurodomi motyvai, dėl kurių paraiška nepriimta.
+
+3. Nuo paraiškos padavimo datos, o kai prašoma prioriteto, – nuo prioriteto datos pareiškėjas įgyja pirmumo teisę į dizainą. Nuo šios datos iki dizaino registracijos liudijimo išdavimo datos dizainui suteikiama laikina teisinė apsauga, kurios metu gali būti reiškiamos pretenzijos kitam asmeniui įspėjant dėl teisių, numatytų šio Įstatymo 36 straipsnyje, galimo pažeidimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+
+4. Jeigu pareiškėjas atšaukė savo paraišką arba dizainas neįregistruojamas, arba išregistruojamas dizaino savininko prašymu, arba jo registraciją nuginčija kitas asmuo, laikoma, kad dizainui nebuvo suteikta šio straipsnio 3 dalyje numatyta laikina teisinė apsauga.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 18 straipsnis. Paraiškos ekspertizė
 
@@ -340,11 +406,23 @@ DIZAINO REGISTRAVIMAS
 
 3. Dizainas įregistruojamas ir skelbiamas ne anksčiau kaip po 6 mėnesių nuo paraiškos padavimo datos. Pareiškėjo ar jo atstovo prašymu dizainas gali būti įregistruotas ir paskelbtas dar nepraėjus šiam terminui.
 
-4. Nuo dizaino paskelbimo iki dizaino registracijos liudijimo išdavimo dienos dizaino savininkui suteikiama laikina teisinė apsauga.
+4. Neteko galios nuo 2004-04-30
 
-5. Jeigu pats savininkas iki dizaino registracijos liudijimo išdavimo paprašo išregistruoti dizainą arba dizaino registracija buvo pripažinta negaliojančia šio Įstatymo 23 straipsnyje nustatyta tvarka, laikoma, kad laikina teisinė apsauga nebuvo suteikta.
+Straipsnio dalies naikinimas:
 
-6. Šio straipsnio 4 dalyje nurodyta laikina teisinė apsauga suteikia dizaino savininkui teisę kreiptis į teismą dėl savininko teisių, nustatytų šio Įstatymo 36 straipsnyje, gynimo ir nuostolių ar žalos atlyginimo.
+Nr. IX-2205, 2004-04-29, Žin. 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+
+5. Neteko galios nuo 2004-04-30
+
+Straipsnio dalies naikinimas:
+
+Nr. IX-2205, 2004-04-29, Žin. 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+
+6. Neteko galios nuo 2004-04-30
+
+Straipsnio dalies naikinimas:
+
+Nr. IX-2205, 2004-04-29, Žin. 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 22 straipsnis. Paraiškos atšaukimas ir išskyrimas
 
@@ -574,7 +652,13 @@ DIZAINO REGISTRACIJOS SUTEIKIAMOS TEISĖS
 
 36 straipsnis. Dizaino savininko teisės
 
-Įregistruoto dizaino savininkas turi išimtinę teisę dizainą naudoti, leisti arba drausti kitiems asmenims be jo leidimo gaminti, siūlyti parduoti, parduoti, pateikti į rinką, importuoti, eksportuoti, kaupti ir naudoti gaminius ar jų dalis, kurie yra įregistruoto dizaino kopija ar iš esmės yra kopija, kai tai daroma komerciniais tikslais.
+1. Įregistruoto dizaino savininkas turi išimtinę teisę dizainą naudoti, leisti arba drausti kitiems asmenims be jo leidimo gaminti, siūlyti parduoti, parduoti, pateikti į rinką, importuoti, eksportuoti, kaupti ir naudoti bet kokius gaminius ar jų dalis, kurių dizainas informuotam vartotojui nesudaro bendro įspūdžio, kuris yra skirtingas nuo įregistruoto dizaino.
+
+2. Nustatant dizaino registracijos suteikiamas teises, atsižvelgiama į dizainerio laisvę kuriant dizainą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 37 straipsnis. Dizaino savininko teisių apribojimas
 
@@ -584,7 +668,11 @@ DIZAINO REGISTRACIJOS SUTEIKIAMOS TEISĖS
 
 2) eksperimentiniais tikslais;
 
-3) atgaminant dizainą mokymo tikslais ar jį pateikiant visuomenei su sąlyga, kad tokie veiksmai atitinka sąžiningos ūkinės ar komercinės veiklos praktiką, netrukdo tinkamai naudotis dizainu ir nurodomas šaltinis, iš kurio paimtas dizainas.
+3) atgaminant dizainą dėl nuorodos pateikimo arba mokymo tikslais, kai tokie veiksmai atitinka sąžiningos prekybos praktiką, netrukdo tinkamai naudotis dizainu ir nurodomas šaltinis, iš kurio paimtas dizainas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 2. Šio straipsnio 1 dalies nuostatos gali būti taikomos tik tada, kai tokie naudojimo atvejai neprieštarauja sąžiningos ūkinės ar komercinės veiklos praktikai ir nepagrįstai nepažeidžia teisėtų dizaino savininko interesų.
 
@@ -600,17 +688,31 @@ DIZAINO REGISTRACIJOS SUTEIKIAMOS TEISĖS
 
 38 straipsnis. Pirmalaikio naudojimo teisė
 
-1. Asmenys, kurie nepriklausomai nuo kito asmens įregistruoto dizaino, neprieinamo visuomenei Lietuvoje, sąžiningais ketinimais jį naudojo arba yra visiškai pasirengę naudoti iki paraiškos padavimo datos, o kai prašoma prioriteto, – iki prioriteto datos, nepaisydami dizaino savininko valios, savo įmonėje ir jos veiklos tikslais, gali dizainą naudoti taip, kaip naudojo ar numatė naudoti pasirengimo metu.
+1. Asmenys, kurie sąžiningais ketinimais naudojo arba buvo visiškai pasirengę naudoti dizainą, nenukopijuotą ir sukurtą nepriklausomai nuo kito asmens įregistruoto dizaino, iki šio dizaino paraiškos padavimo datos, o kai prašoma prioriteto, – iki prioriteto datos turi teisę savo įmonėje ir jos veiklos tikslais dizainą naudoti taip, kaip naudojo ar numatė naudoti pasirengimo metu.
 
-2. Pirmalaikio naudojimo teisė gali būti perduodama tiktai kartu su įmone, kurioje dizainas jau buvo naudojamas ar rengiamasi jį naudoti.
+2. Asmuo, kuris turi pirmalaikio naudojimo teisę, negali suteikti kitam asmeniui licencijos naudoti dizainą.
+
+3. Pirmalaikio naudojimo teisė negali būti perduodama, išskyrus atvejus, kai perduodama dalis veiklos, kurioje dizainas jau buvo naudojamas ar buvo rengiamasi jį naudoti.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 39 straipsnis. Dizaino savininko teisių pasibaigimas
 
-Dizaino registracijos suteiktos teisės pasibaigia, kai gaminiai, kurių dizainas yra saugomas šio Įstatymo nustatyta tvarka, paties dizaino savininko arba jo sutikimu yra pateikti į Lietuvos Respublikos ar bet kurios kitos valstybės, su kuria Lietuvos Respublika yra sudariusi dvišales ar daugiašales bendros rinkos, muitų sąjungos ar panašias tarptautines sutartis, rinką.
+Dizaino registracijos suteiktos teisės pasibaigia, kai gaminiai, kurių dizainas yra saugomas šio Įstatymo nustatyta tvarka, paties dizaino savininko arba jo sutikimu yra pateikti į Europos Bendrijos rinką.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 ŠEŠTASIS SKIRSNIS
 
-TEISĖS Į DIZAINĄ PERDAVIMAS, LICENCIJAVIMAS IR ĮKEITIMAS
+TEISĖS Į DIZAINĄ PERDAVIMAS, LICENCIJAVIMAS, ĮKEITIMAS IR AREŠTAS
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 40 straipsnis. Teisės į pareikštą registruoti ar įregistruotą dizainą perdavimas
 
@@ -666,11 +768,15 @@ TEISĖS Į DIZAINĄ PERDAVIMAS, LICENCIJAVIMAS IR ĮKEITIMAS
 
 7. Šio straipsnio 1–6 dalies nuostatos mutatis mutandis taikomos ir sublicencinei sutarčiai.
 
-42 straipsnis. Teisės į dizainą įkeitimas
+42 straipsnis. Teisės į dizainą įkeitimas ar areštas
 
-1. Teisė į dizainą gali būti įkeista Lietuvos Respublikos įstatymų nustatyta tvarka.
+1. Teisė į dizainą gali būti įkeista ar areštuota (laikinai apribota teisė valdyti, naudoti dizainą arba juo disponuoti) Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-2. Gavęs hipotekos registro tvarkytojo pranešimą apie įkeistą teisę į dizainą, Valstybinis patentų biuras duomenis apie teisės į dizainą įkeitimą įrašo į Lietuvos Respublikos dizaino registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+2. Gavęs hipotekos ar Turto arešto aktų registro tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į dizainą, Valstybinis patentų biuras teisės į dizainą įkeitimo ar arešto duomenis įrašo į Lietuvos Respublikos dizaino registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 SEPTINTASIS SKIRSNIS
 
@@ -720,7 +826,13 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 
 2) dizaino registracijos pripažinimo negaliojančia;
 
-3) dizaino savininko teisių gynimo.
+3) dizaino savininko teisių gynimo;
+
+4) Bendrijos dizaino pagal Reglamento dėl Bendrijos dizainų 79–92 straipsnių nuostatas.
+
+Papildyta straipsnio punktu:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 47 straipsnis. Teisių gynimas
 
@@ -747,6 +859,12 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 5. Teismas dizaino savininko prašymu gali įpareigoti atsakovą pateikti informaciją apie gaminių, pažeidžiančių dizaino savininko teises, kilmę bei jų platinimo būdus.
 
 6. Nagrinėjant dizaino savininko teisių pažeidimo bylą, atsakovas turi teisę pareikšti priešieškinį dėl dizaino registracijos pripažinimo negaliojančia.
+
+7. Dizaino savininkas turi teisę kreiptis į teismą dėl uždraudimo naudoti Lietuvos Respublikos teritorijoje Bendrijos dizainą pagal 2003 m. balandžio 16 d. Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutarties dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą akto dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo sąlygų ir sutarčių, kuriomis yra grindžiama Europos Sąjunga, pritaikomųjų pataisų II priedo „Stojimo akto 20 straipsnyje nurodytas sąrašas. 4. Bendrovių teisė. C. Pramoninės nuosavybės teisės“ nuostatas dėl Bendrijos dizaino.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
 48 straipsnis. Nuostolių ir žalos atlyginimas. Kompensacija
 
@@ -794,15 +912,29 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 Lietuvos Respublikos
 
-2002 m. lapkričio 7 d.
-
-įstatymo Nr. IX-1181
+dizaino įstatymo
 
 priedas
 
-Lietuvos Respublikos dizaino įstatymas suderintas su Europos Parlamento ir Tarybos 1998 m. spalio 13 d. direktyva Nr. 98/71/EB dėl teisinės dizaino apsaugos.
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-______________
+1. 1998 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva dėl teisinės dizaino apsaugos 98/71/EB.
+
+2. 2001 m. gruodžio 12 d. Tarybos reglamentas dėl Bendrijos dizainų (EB) Nr. 6/2002.
+
+Priedo pakeitimai:
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+
+Lietuvos Respublikos dizaino įstatymo 1, 2, 5, 8, 9, 10, 16, 17, 21, 36, 37, 38, 39, 42, 46, 47 straipsnių ir įstatymo priedo pakeitimo bei papildymo ir įstatymo papildymo 51(1) straipsniu įstatymas
 
 511 straipsnis. Reglamento dėl Bendrijos dizainų taikymas
 
@@ -815,116 +947,4 @@ ______________
 Papildyta straipsniu:
 
 Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
-
-471 straipsnis. Teisė gauti informaciją
-
-1. Nagrinėdamas ginčą dėl šio Įstatymo nustatytų teisių pažeidimo, teismas, remdamasis ieškovo pagrįstu prašymu, teismo proceso metu gali įpareigoti asmenis nedelsiant pateikti informaciją apie šio Įstatymo nustatytas teises pažeidžiančių gaminių (prekių) kilmę ir platinimo būdus, ypač:
-
-1) šio Įstatymo nustatytas teises pažeidžiančių gaminių (prekių) gamintojų, platintojų, tiekėjų ir kitų ankstesnių valdytojų, taip pat didmenine bei mažmenine prekyba užsiimančių asmenų, kuriems buvo skirti nurodyti gaminiai (prekės), vardus (pavadinimus) ir adresus;
-
-2) duomenis apie pagamintų, patiektų, gautų ar užsakytų šio Įstatymo nustatytas teises pažeidžiančių gaminių (prekių) kiekį ir kainą, kuri buvo sumokėta ar turėjo būti sumokėta už tuos gaminius (prekes).
-
-2. Pateikti šio straipsnio 1 dalyje nurodytą informaciją gali būti įpareigoti šio Įstatymo nustatytų teisių pažeidėjai, kiti asmenys, kurie turi komerciniais tikslais savo žinioje šio Įstatymo nustatytas teises pažeidžiančius gaminius (prekes), kurie komerciniais tikslais naudojasi šio Įstatymo nustatytas teises pažeidžiančiomis paslaugomis arba kurie komerciniais tikslais teikia paslaugas, kurias tretieji asmenys naudoja darydami šio Įstatymo nustatytų teisių pažeidimą, taip pat tie, kurie nurodytų asmenų nurodymu dalyvauja gaminant ar platinant šio Įstatymo nustatytas teises pažeidžiančius gaminius (prekes) arba teikiant šio įstatymo nustatytas teises pažeidžiančias paslaugas.
-
-472 straipsnis. Įrodymai
-
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių ar prekių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas.
-
-2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra šio straipsnio 1 dalyje nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais.
-
-473 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės
-
-1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja Civilinio proceso kodeksas ir šis Įstatymas.
-
-2. Kai yra pakankamas pagrindas įtarti, kad buvo šio Įstatymo nustatytų teisių pažeidimas, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra:
-
-1) uždrausti asmenims daryti gresiantį šio Įstatymo nustatytų teisių pažeidimą;
-
-2) įpareigoti asmenis laikinai nutraukti šio Įstatymo nustatytų teisių pažeidimą;
-
-3) uždrausti tarpininkui teikti paslaugas tretiesiems asmenims, kurie šiomis paslaugomis naudojasi pažeisdami šio Įstatymo nustatytas teises;
-
-4) areštuoti, uždrausti, kad patektų į apyvartą, arba išimti iš apyvartos gaminius (prekes), jeigu įtariama, kad jie gali pažeisti ar pažeidžia šio Įstatymo nustatytas teises;
-
-5) areštuoti šio Įstatymo nustatytų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant banko ir kitų kredito įstaigų sąskaitas; taip pat reikalauti pateikti banko, finansinius ar komercinius dokumentus ar sudaryti galimybę susipažinti su šiais dokumentais, jeigu pažeidimas padarytas komerciniu tikslu;
-
-6) taikyti kitas Civilinio proceso kodekso nustatytas priemones.
-
-3. Jeigu pritaikytos šio straipsnio 2 dalies 1 ir 2 punktuose nurodytos laikinosios apsaugos priemonės yra pažeidžiamos ir šis pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo darymu įtariamus asmenis pateikti tinkamą galimos žalos kompensavimo užtikrinimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones.
-
-4. Teismas turi teisę įpareigoti asmenį, kuris prašo taikyti laikinąsias apsaugos priemones, pateikti visus pagrįstai turimus įrodymus, galinčius pakankamai įtikinti, kad jis ar asmuo, kurio interesais prašoma taikyti laikinąsias apsaugos priemones, yra šio Įstatymo nustatytų teisių turėtojas ar naudotojas ir kad pareiškėjo teisės pažeidžiamos arba kad gresia toks pažeidimas.
-
-5. Teismas asmens, pateikusio visus pagrįstai turimus ir jo reikalavimus pagrindžiančius įrodymus, kad buvo pažeistos arba gresia, kad bus pažeistos šio Įstatymo nustatytos teisės, prašymu gali taikyti laikinąsias priemones, jeigu garantuojama konfidencialios informacijos apsauga, ir taip užtikrinti su įtariamu pažeidimu susijusius įrodymus, tai yra:
-
-1) išsamiai aprašyti šio įstatymo nustatytas teises pažeidžiančias prekes ir jas sulaikyti arba tik aprašyti;
-
-2) areštuoti šio įstatymo nustatytas teises pažeidžiančius gaminius, prireikus – medžiagas bei priemones, kurios yra naudojamos jų gamybai ir (arba) platinimui, bei su jomis susijusius dokumentus ir juos paimti;
-
-3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas Civilinio proceso kodekse.
-
-6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kad laikinosios priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, t. y. iš karto tas priemones pritaikius. Šalių prašymu, įskaitant teisę būti išklausytam, laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti peržiūrėtos siekiant per protingą terminą po pranešimo apie priemonių pritaikymą nuspręsti, ar šios priemonės turi būti pakeistos, panaikintos ar patvirtintos.
-
-7. Jeigu teismas taikytas laikinąsias apsaugos ar įrodymų užtikrinimo priemones panaikina arba jos tampa nepagrįstomis dėl asmens, kuris kreipėsi dėl tų priemonių taikymo, veikimo ar neveikimo, arba įsiteisėja teismo sprendimas, nustatantis, kad šio įstatymo nustatytų teisių pažeidimo ar pažeidimo grėsmės nebuvo, arba asmuo, kuris kreipėsi dėl laikinųjų apsaugos ar įrodymų užtikrinimo priemonių taikymo, per teismo nustatytą terminą nepareiškia ieškinio, atsakovas turi teisę reikalauti atlyginti žalą, atsiradusią dėl tokių priemonių taikymo.
-
-474 straipsnis. Atkuriamosios priemonės
-
-1. Šio Įstatymo 47 straipsnio 1 dalyje nurodyti asmenys turi teisę kreiptis į teismą ir reikalauti atšaukti, išimti iš apyvartos gaminius (prekes) taip, kad jiems nebūtų padaryta žala ir būtų užtikrinta jų teisių apsauga (pvz., perdirbti į kitas prekes ar taikyti panašias priemones), ar sunaikinti gaminius (prekes), kuriuos teismas nustatė kaip pažeidžiančius šio Įstatymo nustatytas teises, o prireikus – ir medžiagas bei priemones, daugiausia naudojamas nurodytiems objektams sukurti ar gaminti.
-
-2. Šio straipsnio 1 dalyje nurodytos priemonės taikomos nepaisant kitų asmens, prašančio taikyti šias priemones, žalos, atsiradusios dėl jo teisių pažeidimo, atlyginimo reikalavimų. Be to, šios priemonės taikomos neatlygintinai, pažeidėjo lėšomis, atsižvelgiant į padaryto pažeidimo sunkumo ir taikomos priemonės santykį bei trečiųjų asmenų teisėtus interesus.
-
-481 straipsnis. Teismo sprendimo paskelbimas
-
-Sprendimą dėl šio Įstatymo nustatytų teisių pažeidimo priimantis teismas šio Įstatymo 47 straipsnio 1 dalyje nurodytų asmenų prašymu gali įpareigoti pažeidėją savo lėšomis paskelbti informaciją apie priimtą sprendimą, įskaitant viso ar dalies sprendimo paskelbimą visuomenės informavimo priemonėse ar kitokiu būdu. Teismo sprendimas arba informacija apie priimtą teismo sprendimą gali būti paskelbta po teismo sprendimo įsiteisėjimo, jeigu teismas nenustato kitaip. Teismo sprendimo paskelbimo būdas ir kiek skelbti nustatoma pačiame sprendime. Šio Įstatymo 47 straipsnio 1 dalyje nurodyti asmenys gali reikalauti, kad pažeidėjas iš anksto sumokėtų į teismo nurodytą sąskaitą pinigų sumą, reikalingą informacijai apie priimtą teismo sprendimą ar teismo sprendimui paskelbti.
-
-331 straipsnis. Tarptautinės dizaino registracijos galiojimas
-
-1. Tarptautinė dizaino registracija, kurioje nurodoma Lietuvos Respublika, nuo registracijos pagal Ženevos akto 10 straipsnio 2 dalį datos turi tokią pačią teisinę apsaugą kaip ir šio Įstatymo nustatyta tvarka pareikštas registruoti dizainas.
-
-2. Jeigu vadovaujantis šio Įstatymo 332 straipsnio 1 dalies nuostatomis nebuvo atsisakyta pripažinti tarptautinės dizaino registracijos galiojimą Lietuvos Respublikoje arba jeigu toks atsisakymas vėliau buvo atšauktas, nuo šio straipsnio 1 dalyje nurodytos datos tarptautinės registracijos dizainas turi tokią pačią teisinę apsaugą kaip ir dizainas, kuris būtų įregistruotas vadovaujantis šio Įstatymo nuostatomis.
-
-3. Tarptautinės dizaino registracijos duomenys skelbiami Tarptautinio biuro Tarptautinių dizainų biuletenyje.
-
-4. Valstybinis patentų biuras duomenis apie tarptautinę dizaino registraciją, kai nurodoma Lietuvos Respublika, įrašo į Lietuvos Respublikos dizaino registrą.
-
-332 straipsnis. Tarptautinės dizaino registracijos negaliojimas
-
-1. Jeigu tarptautinės dizaino registracijos visi arba dalis dizaino pavyzdžių neatitinka šio Įstatymo 9 straipsnio reikalavimų arba jeigu šio Įstatymo nustatyta tvarka yra paduotas protestas dėl tarptautinės dizaino registracijos, Valstybinis patentų biuras Hagos susitarimo taisyklių nustatytais terminais ir tvarka informuoja Tarptautinį biurą apie atsisakymą pripažinti tarptautinės dizaino registracijos galiojimą Lietuvos Respublikoje, nurodydamas atsisakymo priežastis. Valstybinis patentų biuras gali bet kuriuo metu visiškai ar iš dalies atšaukti tokį atsisakymą.
-
-2. Jeigu tarptautinė dizaino registracija dėl visų arba dalies dizaino pavyzdžių Lietuvos Respublikoje buvo pripažinta negaliojančia, Valstybinis patentų biuras apie tai praneša Tarptautiniam biurui.
-
-3. Tarptautinė dizaino registracija Lietuvos Respublikoje negalioja nuo jos pripažinimo negaliojančia Lietuvos Respublikoje dienos.
-
-333 straipsnis. Tarptautinės paraiškos padavimas
-
-1. Pareiškėjas, atitinkantis Ženevos akto 3 straipsnio reikalavimus, turi teisę paduoti tarptautinę paraišką per Valstybinį patentų biurą arba tiesiogiai Tarptautiniam biurui. Tarp tarptautinėje paraiškoje nurodomų valstybių, kuriose prašoma apsaugos, gali būti nurodyta ir Lietuvos Respublika.
-
-2. Tarptautinė paraiška paduodama pagal Ženevos akto ir Hagos susitarimo taisyklių reikalavimus ir jų nustatyta tvarka.
-
-3. Kai tarptautinė paraiška paduodama per Valstybinį patentų biurą, jis įrašo tarptautinės paraiškos gavimo datą ir per 14 dienų tarptautinę paraišką persiunčia Tarptautiniam biurui. Tarptautinės paraiškos ekspertizės Valstybinis patentų biuras neatlieka.
-
-4. Tarptautinės paraiškos padavimo per Valstybinį patentų biurą tvarką nustato Taisyklės.
-
-334 straipsnis. Specialiosios nuostatos, taikomos tarptautinei dizaino registracijai
-
-1. Jeigu tarptautinės dizaino registracijos savininkas nesutinka su Valstybinio patentų biuro sprendimu atsisakyti pripažinti tarptautinės dizaino registracijos galiojimą Lietuvos Respublikoje, nes visi arba dalis dizaino pavyzdžių neatitinka šio Įstatymo 9 straipsnio reikalavimų, jis turi teisę per 5 mėnesius nuo to sprendimo priėmimo dienos paprašyti atlikti pakartotinę dizaino ekspertizę. Nepateikus prašymo per nustatytą terminą, Valstybinio patentų biuro sprendimas laikomas galutiniu.
-
-2. Jeigu tarptautinės dizaino registracijos savininkas nesutinka su pakartotinės dizaino ekspertizės metu Valstybinio patentų biuro priimtu sprendimu, jis turi teisę per 3 mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Apeliaciniam skyriui apeliaciją. Ši apeliacija priimama, nagrinėjama ir skundžiama šio Įstatymo 20 straipsnio nustatyta tvarka.
-
-3. Suinteresuotieji asmenys arba jų atstovai protestą dėl tarptautinės dizaino registracijos turi paduoti per 3 mėnesius nuo duomenų apie tarptautinę dizaino registraciją paskelbimo Tarptautinio biuro tarptautinių dizainų biuletenyje dienos. Protestas turi atitikti šio Įstatymo 23 straipsnio 1 ir 2 dalių reikalavimus.
-
-4. Užprotestuotos tarptautinės dizaino registracijos savininkas ar šio Įstatymo 16 straipsnio 2 dalies nustatyta tvarka paskirtas jo atstovas per 5 mėnesius nuo pranešime Tarptautiniam biurui apie atsisakymą pripažinti tarptautinės dizaino registracijos galiojimą Lietuvos Respublikoje nurodytos datos pateikia motyvuotą atsakymą į protestą. Motyvuoto atsakymo į protestą nepateikimas laikomas atsisakymu dalyvauti protesto nagrinėjime ir neužkerta kelio Apeliaciniam skyriui nagrinėti protestą užprotestuotos tarptautinės dizaino registracijos savininkui ar jo atstovui nedalyvaujant. Jeigu užprotestuotos tarptautinės dizaino registracijos savininkas nepaskyrė atstovo, Apeliacinio skyriaus priimtas sprendimas tarptautinės dizaino registracijos savininkui nesiunčiamas.
-
-5. Tarptautinės dizaino registracijos savininko suteikta licencija negalioja Lietuvos Respublikoje tretiesiems asmenims, jeigu duomenys apie licencinę sutartį neįrašyti į Lietuvos Respublikos dizaino registrą šio Įstatymo 41 straipsnio nustatyta tvarka.
-
-6. Tarptautinės dizaino registracijos pakeitimų, galiojimo pratęsimo, teisių perdavimo ir kitų su tarptautine dizaino registracija susijusių duomenų registravimą atlieka Tarptautinis biuras Ženevos akto nustatyta tvarka. Prašymai pateikiami tiesiogiai Tarptautiniam biurui.
-
-7. Visi Ženevos akte ir Hagos susitarimo taisyklėse nustatyti mokesčiai mokami tiesiogiai Tarptautiniam biurui.
-
-Papildyta skirsniu:
-
-Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
-
-KETVIRTASIS SKIRSNIS
-
-DIZAINO REGISTRACIJOS GALIOJIMAS
 
