@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "2001-01-26"
+last_updated: "2001-05-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Įstatymas paskelbtas: Žin., 1994,
+Įstatymas skelbtas: Žin., 1994,
 
 Nr. 30-530
 
@@ -56,24 +56,6 @@ apmokestinimą akcizais.
 
 1. Akcizus į biudžetą moka šio įstatymo 3 straipsnyje
 
-išvardytų prekių gamintojai ir importuotojai - juridiniai ir fiziniai asmenys
-
-bei juridinio asmens teisių neturinčios įmonės. Laisvosiose ekonominėse zonose
-
-zonų įmonės akcizų nemoka.
-
-2. Už naftos produktus, pagamintus akcinėje bendrovėje
-
-“Mažeikių nafta”, nesvarbu, iš kieno naftos šie produktai pagaminti, akcizus
-
-apskaičiuoja, surenka ir moka akcinė bendrovė “Mažeikių nafta”.
-
-[1
-
-ir 2 dalių redakcija nuo 2001 m. kovo 1d.:
-
-1. Akcizus į biudžetą moka šio įstatymo 3 straipsnyje
-
 išvardytų prekių, išskyrus nurodytas 3 straipsnio 1 dalies 12 punkte,
 
 gamintojai ir importuotojai – juridiniai ir fiziniai asmenys bei juridinio
@@ -96,7 +78,7 @@ akcizas nesumokėtas. Laisvųjų ekonominių zonų įmonės akcizų nemoka.
 
 produktus, nesvarbu, iš kieno naftos šie produktai pagaminti, akcizus
 
-apskaičiuoja, surenka ir moka akcinė bendrovė „Mažeikių nafta“.]
+apskaičiuoja, surenka ir moka akcinė bendrovė „Mažeikių nafta“.
 
 3. Šio įstatymo 5 straipsnio 2 dalyje nurodytu atveju
 
@@ -164,15 +146,11 @@ sąrašą ir jos nustatytą kainų ribą), tačiau tik tie, kuriuose esanti etil
 
 alkoholio koncentracija viršija Vyriausybės nustatytus minimalius etilo
 
-alkoholio koncentracijos dydžius.
-
-[1
-
-dalis papildoma 12 punktu nuo 2001 m. kovo 1d.:
+alkoholio koncentracijos dydžius;
 
 12) suskystintos dujos, skirtos automobilių
 
-transportui.]
+transportui.
 
 2. Importuojamos prekės, kaip akcizų objektas, yra šio
 
@@ -222,9 +200,9 @@ nustatyta tvarka.
 
 5 straipsnis. Apmokestinamoji apyvarta
 
-1. Akcizai apskaičiuojami už šio įstatymo 3
+1. Akcizai apskaičiuojami už šio įstatymo 3 straipsnyje
 
-straipsnyje išvardytas prekes:
+išvardytas prekes:
 
 1) iš gatavos produkcijos sandėlio perduotas kitam
 
@@ -235,14 +213,6 @@ juridiniam ar fiziniam asmeniui arba juridinio asmens teisių neturinčiai
 tomis prekėmis disponuoti. Šiuose dokumentuose turi būti Buhalterinės apskaitos
 
 pagrindų įstatymo 10 straipsnyje nurodyti privalomi rekvizitai;
-
-2) importuojamas - Muitinės kodekso nustatytais
-
-atvejais, kai atsiranda skola muitinei.
-
-[1
-
-dalies 2 ir 3 punktų redakcija nuo 2001 m. kovo 1d.:
 
 2) įmonės, turinčios
 
@@ -256,27 +226,31 @@ arba įmonei, neturinčiai juridinio asmens teisių, kuriems pagal išrašytus
 
 prekių perdavimo dokumentus (šiuose dokumentuose turi būti Buhalterinės
 
-apskaitos pagrindų įstatymo 10 straipsnyje nurodyti privalomi rekvizitai) perleidžiama
+apskaitos pagrindų įstatymo 10 straipsnyje nurodyti privalomi rekvizitai)
 
-teisė tomis prekėmis disponuoti, kitos įmonės – už savo reikmėms panaudotas 3
+perleidžiama teisė tomis prekėmis disponuoti, kitos įmonės – už savo reikmėms
 
-straipsnio 1 dalies 12 punkte nurodytas prekes, už kurias akcizas nesumokėtas;
+panaudotas 3 straipsnio 1 dalies 12 punkte nurodytas prekes, už kurias akcizas
+
+nesumokėtas;
 
 3) importuojamas – Muitinės kodekso nustatytais
 
 atvejais, kai atsiranda skola muitinei, išskyrus 3 straipsnio 1 dalies 12
 
-punkte nurodytas prekes.]
+punkte nurodytas prekes.
 
 2. Šio įstatymo 6 straipsnio 1 dalies 9 ir 11 punktuose
 
 nurodytos įmonės Lietuvos Respublikos Vyriausybės nustatyta tvarka privalo
 
-apskaičiuoti ir sumokėti šio įstatymo 5(1) straipsnyje nustatyto dydžio
+apskaičiuoti ir sumokėti šio įstatymo 5(1) straipsnyje nustatyto
 
-akcizą už perduotą (parduotą ar kitaip perleistą nuosavybėn) arba panaudotą be
+dydžio akcizą už perduotą (parduotą ar kitaip perleistą nuosavybėn) arba
 
-akcizo įsigytą ar importuotą orlaivių variklių ar laivų kurą, išskyrus, kai:
+panaudotą be akcizo įsigytą ar importuotą orlaivių variklių ar laivų kurą,
+
+išskyrus, kai:
 
 1) orlaivių variklių kuras perduotas ar panaudotas
 
@@ -286,9 +260,9 @@ krovinius tarptautiniais ar vietiniais maršrutais arba teikiančius kitokias
 
 paslaugas už atlyginimą, orlaivius, dalyvaujančius tarptautinėse karinėse
 
-pratybose, ar orlaivius, naudojamus valstybės ar savivaldos institucijų funkcijoms
+pratybose, ar orlaivius, naudojamus valstybės ar savivaldos institucijų
 
-vykdyti;
+funkcijoms vykdyti;
 
 2) laivų kuras perduotas ar panaudotas pripildyti
 
@@ -319,6 +293,10 @@ Nr. VIII-1553,
 Nr. IX-170, 2001 01 26, Žin., 2001, Nr.
 
 14-425 (2001 02 14), įsigalioja nuo 2001 03 01
+
+Nr. IX-309, 2001 05 08, Žin., 2001, Nr.
+
+43-1489 (2001 05 23), įsigalioja nuo 2001 06 01
 
 5(1 )straipsnis. Akcizų tarifai
 
@@ -390,6 +368,14 @@ alui - 0,40 lito už litrą;
 
 cigarečių;
 
+[1
+
+dalies 8 punkto redakcija nuo 2001 m. birželio 1 d.:
+
+8) cigaretėms su filtru ir be filtro – 32 litai už
+
+1000 cigarečių;]
+
 9) fasuotam rūkomajam tabakui ir kitiems tabako
 
 gaminiams - 50 procentų apmokestinamosios vertės;
@@ -454,15 +440,11 @@ dėl nedidelės kainos gali būti vartojami kaip alkoholinių gėrimų pakaitala
 
 litrą preparato;
 
-21) mazutui ir orimulsijai - 20 litų už toną.
-
-[1
-
-dalis papildoma 22 punktu nuo 2001 m. kovo 1d.:
+21) mazutui ir orimulsijai - 20 litų už toną;
 
 22) suskystintoms dujoms, skirtoms automobilių
 
-transportui, – 170 litų už vieną tūkstantį litrų.]
+transportui, – 170 litų už vieną tūkstantį litrų.
 
 2. (Neteko galios).
 
@@ -509,6 +491,10 @@ Nr. VIII-1494,
 Nr. IX-170, 2001 01 26, Žin., 2001, Nr.
 
 14-425 (2001 02 14), įsigalioja nuo 2001 03 01
+
+Nr. IX-309, 2001 05 08, Žin., 2001, Nr.
+
+43-1489 (2001 05 23), įsigalioja nuo 2001 06 01
 
 6 straipsnis. Akcizų netaikymo atvejai
 
@@ -592,9 +578,9 @@ skirtas naudoti kaip žaliava biokuro gamybai;
 
 pagamintas iš rapsų aliejaus ir pagal technologiją reikalingų sudedamųjų dalių.
 
-[6
+[1
 
-straipsnio 1 dalis papildoma 14 punktu nuo 2002 m. sausio 1 d.:
+dalis papildoma 14 punktu nuo 2002 m. sausio 1 d.:
 
 14) gazolis (dyzeliniai
 
@@ -654,11 +640,11 @@ kaip 30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri
 
 atitinka Vyriausybės nustatytus technologinius bei kokybės reikalavimus,
 
-taikomas mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio koncentracijos
+taikomas mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio
 
-litre gėrimo. Ši lengvata pradedama taikyti Vyriausybei priėmus atitinkamą
+koncentracijos litre gėrimo. Ši lengvata pradedama taikyti Vyriausybei priėmus
 
-nutarimą.
+atitinkamą nutarimą.
 
 Straipsnio
 
@@ -868,13 +854,21 @@ DĖL LIETUVOS RESPUBLIKOS AKCIZŲ
 
 ĮSTATYMO PAPILDYMO
 
-Pakeitimai: 01. Lietuvos
+Pakeitimai:
+
+1)
+
+Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. I-993,
+Nr. I-993, 95.07.03, Žin., 1995, Nr. 59-1469 (95.07.19)
 
-95.07.03, Žin., 1995, Nr. 59-1469 (95.07.19)
+DĖL LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO
+
+PAPILDYMO" PAKEITIMO
 
 2.
 
@@ -984,9 +978,9 @@ Lietuvos Respublikos
 
 Seimas, Įstatymas
 
-Nr. VIII-626, 98.02.17, Žin., 1998,
+Nr. VIII-626, 98.02.17, Žin., 1998, Nr.25-629
 
-Nr.25-629 (98.03.13)
+(98.03.13)
 
 AKCIZŲ ĮSTATYMO 6
 
@@ -1012,9 +1006,9 @@ Nr. VIII-982, 98.12.21, Žin., 1998,
 
 Nr.114-3194 (98.12.30)
 
-AKCIZŲ ĮSTATYMO 3, 6, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 5(1)
+AKCIZŲ ĮSTATYMO 3, 6, 13
 
-STRAIPSNIU ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 5(1) STRAIPSNIU ĮSTATYMAS
 
 Šis
 
@@ -1062,7 +1056,9 @@ AKCIZŲ ĮSTATYMO 3, 5(1),
 
 m. sausio 1 d., o 2 straipsnio 1 dalyje išdėstytas 5(1) straipsnio 1
 
-dalies 8 punktas - nuo 2000 m. kovo 1 d.
+dalies
+
+8 punktas - nuo 2000 m. kovo 1 d.
 
 15.
 
@@ -1084,17 +1080,17 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 straipsnio 1 dalies nuostatas, susijusias su laivų pripildymu (aprūpinimu
 
-atsargomis), taip pat šio įstatymo 3 straipsnyje išdėstytą 6 straipsnio 1
+atsargomis), taip pat šio įstatymo 3 straipsnyje išdėstytą 6 straipsnio
 
-dalies 11 punktą.
+1 dalies 11 punktą.
 
-Šio įstatymo 2 straipsnio 1
+Šio įstatymo 2 straipsnio 1 dalies nuostatos, susijusios su laivų
 
-dalies nuostatos, susijusios su laivų pripildymu (aprūpinimu atsargomis), taip
+pripildymu (aprūpinimu atsargomis), taip pat šio įstatymo 3 straipsnyje
 
-pat šio įstatymo 3 straipsnyje išdėstytas 6 straipsnio 1 dalies 11 punktas
+išdėstytas 6 straipsnio 1 dalies 11 punktas įsigalioja nuo 2000 m. gegužės 15
 
-įsigalioja nuo 2000 m. gegužės 15 d.
+d.
 
 16.
 
@@ -1148,11 +1144,27 @@ AKCIZŲ ĮSTATYMO 2, 3, 5, 5(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 m. kovo 1 d.
 
+20.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. IX-309, 2001 05 08, Žin., 2001, Nr.
+
+43-1489 (2001 05 23)
+
+AKCIZŲ ĮSTATYMO 5(1)
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2001 m. birželio 1 d.
+
 *** Pabaiga ***
 
 Redagavo: Aušrinė
 
-Trapinskienė (2001 02 23)
+Trapinskienė (2001 05 23)
 
 autrap@lrs.lt
 
