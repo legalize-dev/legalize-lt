@@ -4,7 +4,7 @@ identifier: "TAR.D66F6A760DE7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "1997-09-25"
+last_updated: "1998-03-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė
 
-Lūžaitė (1997.10.24)
+Lūžaitė (1998.04.23)
 
 Įstatymas
 
@@ -45,6 +45,22 @@ VIII-424, 97.09.25, Žin., 1997, Nr.96-2422 (97.10.24)
 LIETUVOS
 
 RESPUBLIKOS KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 30 STRAIPSNIO PAKEITIMO
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-682, 98.03.26, Žin., 1998, Nr.32-856 (98.04.03)
+
+LIETUVOS
+
+RESPUBLIKOS KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 30 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
 
 ***
 
@@ -162,9 +178,9 @@ teritorijų ribas Susisiekimo ministerijos teikimu nustato Vyriausybė.
 
 1. Uostas - Lietuvos Respublikos
 
-transporto sistemos dalis, skirta  laivams  aptarnauti bei kitai  su  laivyba  susijusiai
+transporto sistemos dalis, skirta  laivams  aptarnauti bei kitai  su  laivyba
 
-komercinei ir ūkinei veiklai vykdyti.
+susijusiai komercinei ir ūkinei veiklai vykdyti.
 
 2. Fiziniai ir juridiniai asmenys uosto
 
@@ -222,9 +238,7 @@ sektoriuje
 
 sektoriuje draudžiama statyti nuolatinius arba laikinus pastatus, sodinti
 
-medžius,  įrengti  didelio galingumo  elektros  arba  kitokius šviesos
-
-šaltinius.
+medžius,  įrengti  didelio galingumo  elektros  arba  kitokius šviesos šaltinius.
 
 2. Kiekviena statyba uosto navigacinių
 
@@ -284,11 +298,11 @@ organizacijos veikia savarankiškai  pagal  jų veiklą reglamentuojančius
 
 įstatymo bei Uosto naudojimo taisyklių reikalavimų.
 
-2. Uoste     esančios    įmonės,    naudojančios
+2. Uoste     esančios    įmonės,
 
-ar transportuojančios  žmonių sveikatai  kenksmingas,  pavojingas medžiagas,
+naudojančios     ar transportuojančios  žmonių sveikatai  kenksmingas,
 
-privalo užtikrinti darbo aplinkos saugumą.
+pavojingas medžiagas, privalo užtikrinti darbo aplinkos saugumą.
 
 3. Už saugų darbą uoste esančiose įmonėse
 
@@ -450,9 +464,9 @@ teikimu skiria ir atleidžia Susisiekimo ministerija.
 
 nuostatus, kuriuos  Uosto direkcijos teikimu tvirtina Susisiekimo ministerija.
 
-5. Uosto  kapitonas  turi antspaudą su Lietuvos
+5. Uosto  kapitonas  turi antspaudą su
 
-valstybės herbu.
+Lietuvos  valstybės herbu.
 
 14 straipsnis. Pagrindinės uosto kapitono
 
@@ -468,7 +482,7 @@ teisės aktų laivybos saugumo klausimais;
 
 2) kontroliuoja  laivų  pasirengimą
 
-išplaukti  į   jūrą, registruoja įplaukimą ir išplaukimą iš uosto;
+išplaukti  į   jūrą, registruoja įplaukimą ir išplaukimą iš uosto;
 
 3) tikrina  laivų dokumentus ir laivų
 
@@ -476,7 +490,7 @@ išplaukti  į   jūrą, registruoja įplaukimą ir išplaukimą iš uosto;
 
 4) registruoja laivus, plaukiojančius su
 
-Lietuvos Respublikos   valstybės  vėliava,  ir išduoda registravimo dokumentus;
+Lietuvos Respublikos   valstybės  vėliava,  ir išduoda registravimo dokumentus;
 
 5) išduoda jūrininkų knygeles  ir  kitus
 
@@ -594,9 +608,9 @@ laivo  ar  krovinio sužalojimo, taip pat dėl uosto  įrenginių, navigacijo
 
 ženklų ar uoste esančio turto kitokio sužalojimo, sunaikinimo ar kitos žalos
 
-padarymo, kol laivo savininkas arba valdytojas    nustatyta    tvarka
+padarymo, kol laivo savininkas arba valdytojas    nustatyta    tvarka   neužtikrins
 
-neužtikrins    reikalavimo patenkinimo.
+reikalavimo patenkinimo.
 
 3. Laivas  uoste gali būti sulaikytas ne
 
@@ -744,9 +758,9 @@ Uosto  direkcija  uosto  žemę gali
 
 išnuomoti  tik  konkurso tvarka.  Nuomos  konkurso sąlygas, tipinę uosto
 
-žemės  nuomos sutarties  formą  ir nuomos mokesčio apskaičiavimo tvarką
+žemės  nuomos sutarties  formą  ir nuomos mokesčio apskaičiavimo tvarką tvirtina
 
-tvirtina Susisiekimo ministerija.
+Susisiekimo ministerija.
 
 24 straipsnis. Nuomos sutarties forma ir
 
@@ -838,7 +852,7 @@ tarptautinės sutartys, kurių dalyvė yra Lietuvos Respublika.
 
 1. Uoste  keleiviai  gali  būti
 
-aptarnaujami,  kroviniai, paštas   perkraunami,  laivai  aptarnaujami,
+aptarnaujami,  kroviniai, paštas   perkraunami,  laivai  aptarnaujami,
 
 transportavimo, ekspedicijos  bei sandėliavimo operacijos atliekamos  tik  tam
 
@@ -848,13 +862,11 @@ specialiai skirtose vietose.
 
 pirmumo tvarka.
 
-29 straipsnis.  Laikinas  ūkinės  ir  komercinės
+29 straipsnis.  Laikinas  ūkinės  ir
 
-veiklos
+komercinės  veiklos
 
-nutraukimas ar
-
-apribojimas
+nutraukimas ar apribojimas
 
 Uosto direkcija turi teisę laikinai
 
@@ -866,11 +878,13 @@ embargo  ir  kitų  panašių  aplinkybių. Šis Uosto direkcijos sprendimas
 
 skelbiamas viešai.
 
-30 straipsnis. Licencijuojama veikla
+30 straipsnis. Atestuojama veikla
 
-Teikti laivų agentavimo paslaugas gali tik įmonės, gavusios licenciją  Lietuvos
+Teikti laivų agentavimo paslaugas, verstis laivų vilkimu (buksyravimu), žmonių
 
-Respublikos Vyriausybės nustatyta tvarka.
+ir laivų gelbėjimo, povandeniniais techniniais darbais gali tik Susisiekimo
+
+ministerijos nustatyta tvarka atestuotos įmonės.
 
 Straipsnio
 
@@ -879,6 +893,10 @@ pakeitimai:
 Nr.
 
 VIII-424, 97.09.25, Žin., 1997, Nr.96-2422 (97.10.24)
+
+Nr.
+
+VIII-682, 98.03.26, Žin., 1998, Nr.32-856 (98.04.03)
 
 31 straipsnis. Privačios nuosavybės
 
@@ -926,9 +944,9 @@ direkcijos   teikiamus patarnavimus;
 
 6) kitos teisėtai gautos lėšos.
 
-2. Uosto  rinkliavos ir uosto žemės nuomos
+2. Uosto  rinkliavos ir uosto žemės
 
-mokestis  yra nerealizacinės ir neapmokestinamosios pajamos.
+nuomos  mokestis  yra nerealizacinės ir neapmokestinamosios pajamos.
 
 33 straipsnis. Uosto lėšų naudojimas
 
@@ -984,9 +1002,9 @@ privalo mokėti uosto rinkliavas.
 
 rinkliavų  taikymo principus nustato Lietuvos Respublikos Vyriausybė.
 
-3. Uosto rinkliavų taikymo taisykles,
+3. Uosto rinkliavų taikymo taisykles, rinkliavų
 
-rinkliavų nuolaidų ir priedų  dydžius  bei  jų  taikymo tvarką  nustato  Susisiekimo
+nuolaidų ir priedų  dydžius  bei  jų  taikymo tvarką  nustato  Susisiekimo
 
 ministerija.
 
@@ -1086,9 +1104,7 @@ darbams,  jo  savininkas   gali išreikalauti  per  šešis mėnesius nuo 
 
 iškėlimo  dienos. Šiuo   atveju   turto  savininkas  Uosto  direkcijai
 
-privalo atlyginti turto iškėlimo, jo saugojimo ir kitas dėl to turėtas
-
-išlaidas.
+privalo atlyginti turto iškėlimo, jo saugojimo ir kitas dėl to turėtas išlaidas.
 
 2. Turto  savininkas,  net jeigu atsisako
 
@@ -1100,19 +1116,19 @@ turėtas išlaidas.
 
 paskendęs turtas
 
-1. Atsitiktinai  iškeltas  paskendęs
+1. Atsitiktinai  iškeltas  paskendęs  turtas
 
-turtas  turi   būti perduotas  Uosto direkcijai, kuri apie turto  iškėlimą  ir
+turi   būti perduotas  Uosto direkcijai, kuri apie turto  iškėlimą  ir  jo
 
-jo saugojimo  vietą  informuoja turto  savininką.  Jeigu  iškelto turto
+saugojimo  vietą  informuoja turto  savininką.  Jeigu  iškelto turto savininkas
 
-savininkas nežinomas, Uosto direkcija apie tai paskelbia viešai.
+nežinomas, Uosto direkcija apie tai paskelbia viešai.
 
 2. Turto  savininkas  privalo atlyginti
 
-Uosto direkcijai tokio   turto saugojimo išlaidas  ir sumokėti atlyginimą asmeniui,
+Uosto direkcijai tokio   turto saugojimo išlaidas  ir sumokėti atlyginimą
 
-iškėlusiam ir perdavusiam Uosto direkcijai turtą.
+asmeniui, iškėlusiam ir perdavusiam Uosto direkcijai turtą.
 
 PENKTASIS SKIRSNIS
 
@@ -1162,9 +1178,9 @@ reikalavimu laivas buvo nepagrįstai sulaikytas.
 
 dėl taršos, atlyginimas
 
-1. Nuostoliai dėl taršos - pinigais
+1. Nuostoliai dėl taršos - pinigais įvertinta
 
-įvertinta žala  žmonių sveikatai  ir  gyvybei,  kitų asmenų  turtui  bei  interesams,
+žala  žmonių sveikatai  ir  gyvybei,  kitų asmenų  turtui  bei  interesams,
 
 atsiradusi  dėl uosto teritorijos teršimo, taip pat  išlaidos, atsiradusios
 
@@ -1221,76 +1237,4 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS
 
 PREZIDENTAS                           ALGIRDAS BRAZAUSKAS
-
-311 straipsnis. Uosto ir uosto infrastruktūros ir suprastruktūros įrenginio (terminalo) apsaugos vertinimas
-
-1. Uosto ir uosto infrastruktūros ir suprastruktūros įrenginių (terminalų) apsaugos vertinimo tikslas – patvirtinti, kad uosto ir uosto infrastruktūros ir suprastruktūros įrenginių (terminalų) apsaugos sistema atitinka Tarptautinio laivų ir uosto įrenginių (terminalų) apsaugos kodekso ir Europos Sąjungos teisės aktų reikalavimus.
-
-2. Uosto ir uosto infrastruktūros ir suprastruktūros įrenginių (terminalų) apsaugos reikalavimus įgyvendina ir tikrina atsakingos institucijos pagal Lietuvos Respublikos Vyriausybės nustatytas funkcijas ir tvarką.
-
-Papildyta straipsniu:
-
-Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
-
-TREČIASIS SKIRSNIS
-
-UOSTO LĖŠOS
-
-251 straipsnis. Turto naudojimo, valdymo ir disponavimo juo sąlygos
-
-1. Vykdydamas žemės nuomos sutartyje nustatytą įsipareigojimą, nuomininkas, nelaimėjęs uosto žemės nuomos viešosios procedūros, privalo perleisti nuosavybės teisę į jam priklausantį nekilnojamąjį turtą, esantį šios uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype, viešosios procedūros laimėtojui. Nuomininkas turi teisę nuspręsti, kokį kitą turtą, reikalingą su uostu susijusiai veiklai vykdyti uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype, jis perleis kartu su nekilnojamuoju turtu. Informacija apie perleidžiamą turtą, jo vertę, atsiskaitymo už jį ir kitas esmines sąlygas yra viešai skelbiama informaciniame skelbime apie viešąją procedūrą.
-
-2. Sudaromų sutarčių, kuriomis nustatomi suvaržymai nekilnojamajam turtui, esančiam uosto žemės nuomos sutarties pagrindu naudojamame žemės sklype, terminas negali būti ilgesnis už uosto žemės nuomos sutarties terminą. Viešosios procedūros laimėtojui perleidžiamas turtas negali būti įkeistas, išnuomotas, suteiktas panaudai, taip pat negali būti sudaromi sandoriai, kurie apsunkintų galimybę valdyti, naudoti turtą ar juo disponuoti.
-
-3. Viešosios procedūros laimėtojui turtas perleidžiamas turto rinkos verte, kurią nustato nepriklausomas turto vertintojas teisės aktų nustatyta tvarka.
-
-4. Nuomininkas iki uosto žemės nuomos termino pabaigos turi teisę uosto žemės nuomos sutartyje nustatyta tvarka ir sąlygomis uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype statyti statinius, valdyti, naudoti uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype esantį turtą ar juo disponuoti. Kai nuomos sutarties galiojimo metu yra perleidžiamas nuomininkui priklausantis nekilnojamasis turtas, esantis šios uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype (išskyrus nekilnojamojo turto perleidimą viešosios procedūros laimėtojui), nekilnojamojo turto įgijėjas (perėmėjas) įgyja teisę ir pareigą naudotis uosto žeme tokiomis pačiomis sąlygomis kaip nuomininkas, perleidžiantis jam priklausantį nekilnojamąjį turtą, esantį šios uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype.
-
-Papildyta straipsniu:
-
-Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
-
-312 straipsnis. Uosto ir uosto infrastruktūros ir suprastruktūros įrenginio (terminalo) apsaugą patvirtinančių dokumentų išdavimas, galiojimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
-
-1. Šio straipsnio nuostatomis įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede. Pažymos dėl uosto infrastruktūros ir suprastruktūros įrenginio (terminalo) (toliau – uosto įrenginys (terminalas) atitikties reikalavimams (toliau – uosto įrenginio (terminalo) atitikties aktai) išduodamos vadovaujantis 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 725/2004 dėl laivų ir uostų įrenginių apsaugos stiprinimo.
-
-2. Uosto įrenginio (terminalo) atitikties aktas išduodamas tam pačiam 5 metų laikotarpiui ir tuo pačiu susisiekimo ministro sprendimu, kuriuo patvirtinamas uosto įrenginio (terminalo) apsaugos planas ar jo pakeitimas. Uosto įrenginio (terminalo) atitikties akto galiojimas turi būti patvirtinamas kiekvienais metais.
-
-3. Uosto įrenginio (terminalo) atitikties akto išdavimo, galiojimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką nustato susisiekimo ministras.
-
-4. Uosto įrenginio (terminalo) atitikties aktas išduodamas, jeigu uosto įrenginys (terminalas) atitinka 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje  XI-2 skyriaus ir Tarptautinio laivų ir uosto įrenginių apsaugos kodekso A dalies nuostatas ir šis uosto įrenginys (terminalas) yra eksploatuojamas pagal susisiekimo ministro patvirtintą uosto įrenginio (terminalo) apsaugos planą ir kitus uosto įrenginio (terminalo) veiklą kontroliuojančių institucijų patvirtintų norminių teisės aktų reikalavimus.
-
-5. Šio straipsnio 4 dalyje nurodytų reikalavimų laikymosi priežiūrą atlieka Uosto direkcija.
-
-6. Uosto direkcija kiekvienais metais atlieka uosto įrenginio (terminalo) apsaugos patikrinimą. Atlikusi patikrinimą, Uosto direkcija pateikia Susisiekimo ministerijai patikrinimo aktą. Jeigu šio patikrinimo akto išvada yra teigiama, susisiekimo ministras ar jo įgaliotas asmuo patvirtina uosto įrenginio (terminalo) atitikties akto galiojimą.
-
-7. Uosto direkcija, patikrinimo metu nustačiusi, kad uosto įrenginio (terminalo) apsauga neatitinka šio uosto įrenginio (terminalo) apsaugos plane nustatytų arba teisės aktų, nurodytų šio straipsnio 5 dalyje, reikalavimų, nedelsdama, bet ne vėliau kaip per 2 darbo dienas (nuo šioje dalyje nurodyto uosto įrenginio (terminalo) apsaugos neatitikties nustatymo momento) įspėja paskirtąjį uosto įrenginio (terminalo) vadovą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir nuo šioje dalyje nurodyto įspėjimo pateikimo nustato ne ilgesnį kaip 12 mėnesių, bet ne trumpesnį kaip 10 darbo dienų terminą, per kurį nustatyti trūkumai turi būti pašalinti. Pasibaigus nustatytam terminui, Uosto direkcija be atskiro pranešimo atlieka pakartotinį patikrinimą. Jeigu pakartotinio patikrinimo metu Uosto direkcija nustato, kad visi uosto įrenginio (terminalo) apsaugos trūkumai pašalinti, ji panaikina įspėjimą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir patikrinimo aktą su teigiama išvada pateikia Susisiekimo ministerijai. Tais atvejais, kai nurodyti trūkumai yra pašalinti, suderinus su paskirtuoju uosto įrenginio (terminalo) vadovu, pakartotinis patikrinimas gali būti atliekamas ir nepasibaigus nustatytam terminui.
-
-8. Uosto direkcija, pakartotinio patikrinimo metu nustačiusi, kad nustatyti trūkumai nepašalinti, kreipiasi į Susisiekimo ministeriją su prašymu sustabdyti išduoto uosto įrenginio (terminalo) atitikties akto galiojimą ir pateikia patikrinimo aktą su neigiama išvada. Susisiekimo ministras per 10 darbo dienų nuo minimo kreipimosi gavimo sustabdo uosto įrenginio (terminalo) atitikties akto galiojimą ir nustato terminą nustatytiems trūkumams pašalinti. Sprendimo kopija per 2 darbo dienas nuo tokio sprendimo priėmimo perduodama Uosto direkcijai, kuri su sprendimu per 2 darbo dienas nuo jo gavimo supažindina paskirtąjį uosto įrenginio (terminalo) vadovą.
-
-9. Uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymas panaikinamas, kai paskirtasis uosto įrenginio (terminalo) vadovas, pašalinęs trūkumus, kreipiasi į Uosto direkciją, kuri ne vėliau kaip per 5 darbo dienas nuo šio kreipimosi gavimo dienos nustato, ar trūkumai pašalinti, apie tai informuoja Susisiekimo ministeriją ir pateikia jai patikrinimo aktą su teigiama išvada, o susisiekimo ministras, gavęs patikrinimo aktą su teigiama išvada, per 3 darbo dienas panaikina uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir per vieną darbo dieną nuo šio akto galiojimo sustabdymo panaikinimo dienos perduoda sprendimo kopiją Uosto direkcijai. Uosto direkcija per 2 darbo dienas supažindina su sprendimu paskirtąjį uosto įrenginio (terminalo) vadovą.
-
-10. Uosto įrenginio (terminalo) atitikties akto galiojimas panaikinamas, jeigu:
-
-1) per šio straipsnio 8 dalyje nurodytą terminą nepašalinami trūkumai, dėl kurių uosto įrenginio (terminalo) atitikties akto galiojimas buvo sustabdytas;
-
-2) uosto žemės nuomos sutartis, sudaryta su Uosto direkcija, nutraukiama arba ši sutartis pasibaigė;
-
-3) nustatoma, kad uosto žemės naudotojas, eksploatuojantis uosto įrenginį (terminalą), yra likviduotas;
-
-4) sustabdžius uosto įrenginio (terminalo) atitikties akto galiojimą ir apie tai informavus paskirtąjį uosto įrenginio (terminalo) vadovą (ir jeigu paskirtasis uosto įrenginio (terminalo) vadovas yra gavęs šią informaciją), uosto įrenginys (terminalas) yra toliau eksploatuojamas;
-
-5) Susisiekimo ministerija gavo uosto įrenginį (terminalą) eksploatuojančio subjekto rašytinį prašymą panaikinti šio uosto įrenginio (terminalo) atitikties akto galiojimą.
-
-11. Susisiekimo ministerija, Uosto direkcija ir paskirtasis uosto įrenginio (terminalo) vadovas šiame straipsnyje nurodytus dokumentus ir pranešimus teikia per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai.
-
-12. Informacija apie uosto įrenginio (terminalo) apsaugą patvirtinančių dokumentų išdavimą, galiojimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą skelbiama Uosto direkcijos interneto svetainėje.
-
-Papildyta straipsniu:
-
-Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
-
-TREČIASIS SKIRSNIS
-
-UOSTO LĖŠOS
 
