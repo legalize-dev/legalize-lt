@@ -4,7 +4,7 @@ identifier: "TAR.1E52802BE548"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-03"
-last_updated: "2000-05-18"
+last_updated: "2000-09-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 Įstatymas
 
-paskelbtas: Žin., 1996, Nr.68-1633
+paskelbtas: Žin., 1996, Nr. 68-1633
 
 Neoficialus
 
@@ -183,17 +183,27 @@ vienas iš viešosios įstaigos steigėjų yra valstybės ar vietos savivaldos
 
 institucija.
 
-3. Viešosios įstaigos
+3. Viešosios
 
-steigimo teisinis pagrindas yra juridinių ar (ir) fizinių asmenų šio įstatymo
+įstaigos steigimo teisinis pagrindas yra juridinių ar (ir) fizinių asmenų šio
 
-nustatyta tvarka sudaryta įstaigos steigimo sutartis. Steigėjų skaičius
+įstatymo nustatyta tvarka sudaryta įstaigos steigimo sutartis, taip pat
 
-neribojamas. Jei viešąją įstaigą steigia vienas asmuo, vietoj steigimo
+biudžetinės įstaigos steigėjo ar savivaldybės tarybos priimtas sprendimas
 
-sutarties sudaromas steigimo aktas, kuriam taikomi steigimo sutarties
+reorganizuoti biudžetinę įstaigą į viešąją įstaigą, jei viešoji įstaiga
 
-reikalavimai.
+steigiama dalyvaujant reorganizavime biudžetinei įstaigai. Tais atvejais, kai
+
+priimamas sprendimas reorganizuoti biudžetinę įstaigą į viešąją įstaigą,
+
+viešosios įstaigos steigėju yra buvusios biudžetinės įstaigos steigėjas
+
+ar savivaldybės taryba. Steigėjų skaičius neribojamas. Jei viešąją
+
+įstaigą steigia vienas asmuo, vietoj steigimo sutarties sudaromas steigimo
+
+aktas, kuriam taikomi steigimo sutarties reikalavimai.
 
 4. Viešosios įstaigos
 
@@ -281,9 +291,13 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1687, 00.05.18, Žin., 2000, Nr.47-1341
+Nr. VIII-1687, 00.05.18, Žin., 2000,
 
-(00.06.09), įsigalioja nuo 2000.07.01
+Nr.47-1341 (00.06.09), įsigalioja nuo 2000.07.01
+
+Nr. VIII-1921, 00.09.12, Žin., 2000,
+
+Nr.83-2513 (00.10.04)
 
 6 straipsnis. Viešosios
 
@@ -335,9 +349,9 @@ viešosios įstaigos turto dalį šio įstatymo 16 straipsnio nustatyta tvarka;
 
 2) palikti testamentu,
 
-parduoti ar kitaip perduoti savo turto dalį kitiems asmenims įstatuose nustatyta
+parduoti ar kitaip perduoti savo turto dalį kitiems asmenims įstatuose
 
-tvarka.
+nustatyta tvarka.
 
 7 straipsnis. Viešosios
 
@@ -393,9 +407,9 @@ turtu tvarka;
 
 panaudojimo tvarka;
 
-11) finansinės veiklos
+11) finansinės veiklos kontrolės
 
-kontrolės tvarka;
+tvarka;
 
 12) įstatų keitimo ir
 
@@ -433,9 +447,9 @@ juridinio asmens antspaudu.
 
 įstaigos kolegialus valdymo organas ir viešosios įstaigos visuotinis
 
-susirinkimas. Pakeistus ar papildytus įstatus tvirtina viešosios įstaigos
+susirinkimas. Pakeistus ar papildytus įstatus tvirtina viešosios įstaigos visuotinis
 
-visuotinis susirinkimas.
+susirinkimas.
 
 6. Įstatų pakeitimai ir
 
@@ -479,11 +493,11 @@ viešosios įstaigos įstatuose, įstatymų nustatyta tvarka reikalinga licencij
 
 juridinis asmuo ir veikia viešosios įstaigos, kaip juridinio asmens, vardu
 
-pagal viešosios įstaigos įstatus ir jos administracijos vadovo suteiktus
+pagal viešosios įstaigos įstatus ir jos administracijos vadovo suteiktus įgaliojimus,
 
-įgaliojimus, kurie turi būti nurodyti įstaigos įstatuose ir filialo
+kurie turi būti nurodyti įstaigos įstatuose ir filialo nuostatuose. Viešosios
 
-nuostatuose. Viešosios įstaigos filialų skaičius neribojamas.
+įstaigos filialų skaičius neribojamas.
 
 2. Filialui leidžiama turėti
 
@@ -547,9 +561,9 @@ veiklos užduotis;
 
 3) nustatyti paslaugų, darbų
 
-bei produkcijos kainas ir tarifus bei jų apskaičiavimo taisykles, jeigu to
+bei produkcijos kainas ir tarifus bei jų apskaičiavimo taisykles, jeigu to nenustato
 
-nenustato Vyriausybė;
+Vyriausybė;
 
 4) skirti ir atleisti iš
 
@@ -637,13 +651,13 @@ kontrolės institucijos turi teisę įstatymų nustatyta tvarka tikrinti viešos
 
 įstaigos veiklą.
 
-3. Viešosios įstaigos
+3. Viešosios įstaigos administracija
 
-administracija privalo pateikti valstybės (savivaldybės) kontrolės
+privalo pateikti valstybės (savivaldybės) kontrolės institucijoms bei įstaigos
 
-institucijoms bei įstaigos įstatuose nustatytiems finansinės veiklos kontrolės
+įstatuose nustatytiems finansinės veiklos kontrolės subjektams jų reikalaujamus
 
-subjektams jų reikalaujamus viešosios įstaigos dokumentus.
+viešosios įstaigos dokumentus.
 
 13 straipsnis. Viešosios
 
@@ -725,19 +739,21 @@ perduotas viešajai įstaigai panaudos pagrindais turtas naudojamas ir valdomas
 
 parduoti, perleisti, išnuomoti, įkeisti ilgalaikį turtą, taip pat laiduoti ar
 
-garantuoti juo kitų subjektų prievolių įvykdymą tik viešosios įstaigos visuotinio
+garantuoti juo kitų subjektų prievolių įvykdymą tik viešosios įstaigos
 
-susirinkimo nutarimu. Detali tokių nutarimų priėmimo tvarka, nurodant balsavimo
+visuotinio susirinkimo nutarimu. Detali tokių nutarimų priėmimo tvarka,
 
-taisykles ir steigėjų balso teises, turi būti nustatyta įstatuose.
+nurodant balsavimo taisykles ir steigėjų balso teises, turi būti nustatyta
+
+įstatuose.
 
 4. Dalininkų įnašai sudaro
 
-viešosios įstaigos dalininkų kapitalą. Jie yra apskaitomi viešosios įstaigos dokumentuose,
+viešosios įstaigos dalininkų kapitalą. Jie yra apskaitomi viešosios įstaigos
 
-o dalininkui (savininkui) išduodamas jo kapitalo dalį patvirtinantis
+dokumentuose, o dalininkui (savininkui) išduodamas jo kapitalo dalį
 
-dokumentas.
+patvirtinantis dokumentas.
 
 5. Dalininkų kapitalas gali
 
@@ -793,9 +809,11 @@ kuri tęsia savo veiklą, prijungiant kitas (vieną ar kelias) viešąsias įsta
 
 kurios, kaip juridiniai asmenys, baigia veiklą;
 
-2) iš viešųjų įstaigų, kurios,
+2) iš viešųjų įstaigų,
 
-kaip juridiniai asmenys, baigia veiklą, įsteigiant naują viešąją įstaigą.
+kurios, kaip juridiniai asmenys, baigia veiklą, įsteigiant naują viešąją
+
+įstaigą.
 
 4. Reorganizuoti viešąją
 
@@ -815,11 +833,11 @@ kuri tęsia veiklą, atskiriant dalis, kurios jungiamos prie kitų viešųjų į
 
 arba iš kurių steigiamos naujos viešosios įstaigos.
 
-5. Viešajai įstaigai reorganizuoti,
+5. Viešajai įstaigai
 
-ją jungiant arba skaidant, rengiamas projektas. Jame nurodoma kiekvienos
+reorganizuoti, ją jungiant arba skaidant, rengiamas projektas. Jame nurodoma
 
-reorganizuojamos viešosios įstaigos pavadinimas, adresas, reorganizavimo
+kiekvienos reorganizuojamos viešosios įstaigos pavadinimas, adresas, reorganizavimo
 
 iniciatorius, reorganizavimo būdas, reorganizavimo pagrindimas,
 
@@ -885,13 +903,13 @@ administracija netenka įgaliojimų, jų funkcijas atlieka likvidatorius.
 
 viešoji įstaiga sumoka skolas, iš likusio jos turto ir lėšų dalininkams
 
-(savininkui) gali būti grąžinta tik jų dalininkų kapitalo dalis. Likus
+(savininkui) gali būti grąžinta tik jų dalininkų kapitalo dalis. Likus nepaskirstyto
 
-nepaskirstyto turto ar lėšų, jis perduodamas kitai ar kitoms ne pelno
+turto ar lėšų, jis perduodamas kitai ar kitoms ne pelno organizacijoms,
 
-organizacijoms, įregistruotoms Lietuvos Respublikoje, kurias nustato
+įregistruotoms Lietuvos Respublikoje, kurias nustato institucija, nutarusi
 
-institucija, nutarusi likviduoti viešąją įstaigą.
+likviduoti viešąją įstaigą.
 
 4. Likviduotos viešosios
 
@@ -905,9 +923,9 @@ institucija, nutarusi likviduoti viešąją įstaigą.
 
 6. Apie viešosios įstaigos
 
-likvidavimą viešai skelbiama du kartus ne rečiau kaip kas mėnesį arba
+likvidavimą viešai skelbiama du kartus ne rečiau kaip kas mėnesį arba kiekvienam
 
-kiekvienam kreditoriui pranešama raštu.
+kreditoriui pranešama raštu.
 
 Straipsnio
 
@@ -915,7 +933,9 @@ pakeitimai:
 
 Nr.
 
-VIII-268, 97.06.17, Žin., 1997, Nr.64-1498 (97.07.04)
+VIII-268,
+
+97.06.17, Žin., 1997, Nr.64-1498 (97.07.04)
 
 17 straipsnis.
 
@@ -963,11 +983,11 @@ likvidavimo aktą;
 
 įstaigą išregistruoja įstatymų nustatyta tvarka.
 
-3. Likvidatorius yra atsakingas
+3. Likvidatorius yra
 
-viešajai įstaigai ir tretiesiems asmenims už nuostolius, kurie susidarė dėl jo
+atsakingas viešajai įstaigai ir tretiesiems asmenims už nuostolius, kurie
 
-kaltės.
+susidarė dėl jo kaltės.
 
 18 straipsnis. Baigiamosios
 
@@ -1023,7 +1043,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-268, 97.06.17, Žin., 1997, Nr.64-1498 (97.07.04)
+VIII-268,
+
+97.06.17, Žin., 1997, Nr.64-1498 (97.07.04)
 
 LIETUVOS
 
@@ -1033,9 +1055,9 @@ RESPUBLIKOS VIEŠŲJŲ ĮSTAIGŲ ĮSTATYMO 16 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1687, 00.05.18, Žin., 2000, Nr.47-1341
+Nr. VIII-1687, 00.05.18, Žin., 2000,
 
-(00.06.09)
+Nr.47-1341 (00.06.09)
 
 VIEŠŲJŲ ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAPILDYMO
 
@@ -1045,7 +1067,19 @@ VIEŠŲJŲ ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAPILDYMO
 
 įstatymas įsigalioja nuo 2000 m. liepos 1 d.
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1921, 00.09.12, Žin., 2000,
+
+Nr.83-2513 (00.10.04)
+
+VIEŠŲJŲ ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.06.09)
+Redagavo: Aušrinė Trapinskienė (2000.10.04)
 
