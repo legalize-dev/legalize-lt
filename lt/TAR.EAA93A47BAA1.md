@@ -4,7 +4,7 @@ identifier: "TAR.EAA93A47BAA1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-28"
-last_updated: "2003-05-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 department: "Lietuvos Respublikos Seimas"
@@ -235,15 +235,15 @@ Asmenų, nurodytų šio įstatymo 4 straipsnyje, teisę gauti valstybės garantu
 
 teisinę pagalbą įrodantys dokumentai yra:
 
-1)
+1) gyventojo
 
-turto ir pajamų deklaracijos, užpildytos prieš kreipiantis valstybės
+turto deklaracija, užpildyta prieš kreipiantis valstybės garantuojamos teisinės
 
-garantuojamos teisinės pagalbos. Tais atvejais, kai valstybės garantuojamos
+pagalbos. Tais atvejais, kai valstybės garantuojamos teisinės pagalbos teikimas
 
-teisinės pagalbos teikimas trunka ilgiau kaip vienerius metus, turto ir pajamų
+trunka ilgiau kaip vienerius metus, gyventojo turto deklaracija pateikiama
 
-deklaracijos pateikiamos kiekvienais metais;
+kiekvienais metais;
 
 2)
 
@@ -263,15 +263,21 @@ Nr. IX-1477,
 
 2003-04-03, Žin., 2003, Nr. 38-1722 (2003-04-24)
 
+Nr.
+
+IX-1912,
+
+2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
+
 6
 
 straipsnis. Valstybės garantuojamos teisinės pagalbos išlaidos
 
 1.
 
-Valstybės garantuojamos teisinės pagalbos išlaidos, atsižvelgiant į asmenų
+Valstybės garantuojamos teisinės pagalbos išlaidos, atsižvelgiant į asmenų turto
 
-turto ir pajamų lygį, apmokamos:
+ir pajamų lygį, apmokamos:
 
 1)
 
@@ -431,9 +437,9 @@ TEISINĖ PAGALBA
 
 teikiantys pirminę teisinę pagalbą
 
-Pirminę teisinę pagalbą teikia
+Pirminę teisinę pagalbą
 
-advokatai ir advokatų padėjėjai.
+teikia advokatai ir advokatų padėjėjai.
 
 9
 
@@ -451,11 +457,11 @@ straipsnis. Siuntimas pirminei teisinei pagalbai gauti
 
 1.
 
-Vietos savivaldos vykdomoji institucija jos teritorijoje gyvenantiems asmenims
+Vietos savivaldos vykdomoji institucija jos teritorijoje gyvenantiems asmenims teikia
 
-teikia informaciją ir išduoda siuntimus pirminei teisinei pagalbai gauti iš
+informaciją ir išduoda siuntimus pirminei teisinei pagalbai gauti iš advokato
 
-advokato ar advokato padėjėjo.
+ar advokato padėjėjo.
 
 2.
 
@@ -467,15 +473,15 @@ trukmės pirminei teisinei pagalbai gauti.
 
 Vietos savivaldos vykdomųjų institucijų siuntimai pirminei teisinei
 
-pagalbai gauti išduodami ir įtraukiami į apskaitą Lietuvos Respublikos Vyriausybės
+pagalbai gauti išduodami ir įtraukiami į apskaitą Lietuvos Respublikos
 
-ar jos įgaliotos institucijos nustatyta tvarka.
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 4.
 
-Vietos savivaldos vykdomosios institucijos atsisakymas išduoti siuntimą
+Vietos savivaldos vykdomosios institucijos atsisakymas išduoti siuntimą pirminei
 
-pirminei teisinei pagalbai gauti skundžiamas įstatymų nustatyta tvarka.
+teisinei pagalbai gauti skundžiamas įstatymų nustatyta tvarka.
 
 11
 
@@ -613,9 +619,9 @@ Valstybinę teisinę pagalbą teikiantys subjektai
 
 2.
 
-Asmens prašymu valstybinei teisinei pagalbai teikti skiriamas jo nurodytas
+Asmens prašymu valstybinei teisinei pagalbai teikti skiriamas jo nurodytas advokatas
 
-advokatas arba advokato padėjėjas, jei yra šio sutikimas.
+arba advokato padėjėjas, jei yra šio sutikimas.
 
 Straipsnio pakeitimai:
 
@@ -673,19 +679,19 @@ institucija, kurių žinioje yra byla.
 
 2.
 
-Sprendime dėl valstybinės teisinės pagalbos suteikimo turi būti nurodyta: sprendimo
+Sprendime dėl valstybinės teisinės pagalbos suteikimo turi būti nurodyta:
 
-priėmimo laikas ir vieta, priėmusio sprendimą pareigūno vardas, pavardė,
+sprendimo priėmimo laikas ir vieta, priėmusio sprendimą pareigūno vardas,
 
-institucijos pavadinimas, asmuo, pateikęs prašymą dėl teisinės pagalbos
+pavardė, institucijos pavadinimas, asmuo, pateikęs prašymą dėl teisinės
 
-suteikimo, kokios teisinės pagalbos prašoma, teisinės pagalbos suteikimo arba
+pagalbos suteikimo, kokios teisinės pagalbos prašoma, teisinės pagalbos
 
-atsisakymo suteikti pagrindai, valstybės apmokama teisinės pagalbos išlaidų
+suteikimo arba atsisakymo suteikti pagrindai, valstybės apmokama teisinės
 
-dalis, advokatas ar advokato padėjėjas, skiriamas teikti teisinę pagalbą,
+pagalbos išlaidų dalis, advokatas ar advokato padėjėjas, skiriamas teikti
 
-sprendimo apskundimo tvarka ir terminas.
+teisinę pagalbą, sprendimo apskundimo tvarka ir terminas.
 
 3.
 
@@ -1163,13 +1169,39 @@ baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y. nuo 2003 m.
 
 gegužės 1 d.
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1912,
+
+2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
+
+PROKURATŪROS
+
+ĮSTATYMO, VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE
+
+ĮSTATYMO, SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO, PREZIDENTO RINKIMŲ ĮSTATYMO,
+
+SEIMO RINKIMŲ ĮSTATYMO, PINIGINĖS SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS
+
+ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS) ĮSTATYMO, VALSTYBĖS GARANTUOJAMOS
+
+TEISINĖS PAGALBOS ĮSTATYMO IR VALSTYBĖS KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2004-01-01.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-05-14)
+Aušra Bodin (2003-12-31)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
