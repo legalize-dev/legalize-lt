@@ -4,7 +4,7 @@ identifier: "TAR.572EAF9D809E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-08-27"
-last_updated: "1998-07-08"
+last_updated: "2002-11-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.572EAF9D809E"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,15 @@ document_status: "registruotas TA registre"
 ---
 # Dėl Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamento nuostatų patvirtinimo
 
-Suvestinė redakcija nuo 1998-07-08 iki 2002-11-21
+Įstatymas netenka galios 2020-07-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2902, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10899
+
+Lietuvos Respublikos įstatymo „Dėl Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamento nuostatų patvirtinimo“ Nr. I-1706 pripažinimo netekusiu galios įstatymas
+
+Suvestinė redakcija nuo 2002-11-22 iki 2020-06-30
 
 Įstatymas paskelbtas: , i. k. 0911010ISTA00I-1706
 
@@ -68,7 +76,47 @@ Pakeistas priedo pavadinimas:
 
 Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA000I-153
 
-I skirsnis. Bendrieji nuostatai
+1 skirsnis. Neteko galios nuo 2002-11-22
+
+Skirsnio naikinimas:
+
+Nr. IX-1183, 2002-11-07, Žin. 2002, Nr. 112-4982 (2002-11-22) ; Žin. 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1183
+
+2 skirsnis. Neteko galios nuo 2002-11-22
+
+Skirsnio naikinimas:
+
+Nr. IX-1183, 2002-11-07, Žin. 2002, Nr. 112-4982 (2002-11-22) ; Žin. 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1183
+
+3 skirsnis. Neteko galios nuo 2002-11-22
+
+Skirsnio naikinimas:
+
+Nr. IX-1183, 2002-11-07, Žin. 2002, Nr. 112-4982 (2002-11-22) ; Žin. 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1183
+
+4 skirsnis. Neteko galios nuo 2002-11-22
+
+Skirsnio naikinimas:
+
+Nr. IX-1183, 2002-11-07, Žin. 2002, Nr. 112-4982 (2002-11-22) ; Žin. 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1183
+
+5 skirsnis. Neteko galios nuo 2002-11-22
+
+Skirsnio naikinimas:
+
+Nr. IX-1183, 2002-11-07, Žin. 2002, Nr. 112-4982 (2002-11-22) ; Žin. 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1183
+
+6 skirsnis. Neteko galios nuo 2002-11-22
+
+Skirsnio naikinimas:
+
+Nr. IX-1183, 2002-11-07, Žin. 2002, Nr. 112-4982 (2002-11-22) ; Žin. 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1183
+
+VII skirsnis. Vadovybės apsaugos departamento pareigūnų socialinės garantijos
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA000I-153
 
 1 straipsnis
 
@@ -663,4 +711,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-790, 1998-06-16, Žin., 1998, Nr. 61-1727 (1998-07-08), i. k. 0981010ISTAVIII-790
 
 Lietuvos Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamento nuostatų 3, 4, 22, 25, 26, 32 straipsnių pakeitimo ir 33 straipsnio pripažinimo netekusiu galios įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1183, 2002-11-07, Žin., 2002, Nr. 112-4982 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1183
+
+Lietuvos Respublikos vadovybės apsaugos įstatymas
 
