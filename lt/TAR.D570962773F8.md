@@ -4,7 +4,7 @@ identifier: "TAR.D570962773F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-03"
-last_updated: "2000-05-16"
+last_updated: "2000-06-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 department: "Lietuvos Respublikos Seimas"
@@ -51,9 +51,9 @@ diena;
 
 knygos diena;
 
-7) gegužės trečiasis sekmadienis - Partizanų
+7) gegužės trečiasis sekmadienis -
 
-pagerbimo, kariuomenės ir visuomenės vienybės diena;
+Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
 
 8) birželio 1-oji - Tarptautinė vaikų gynimo diena;
 
@@ -71,43 +71,39 @@ pagerbimo, kariuomenės ir visuomenės vienybės diena;
 
 15) liepos paskutinysis sekmadienis - Jūros diena;
 
-16) rugpjūčio 15-oji - Žolinė (Švč. Mergelės Marijos
+16) rugpjūčio 23-ioji - Juodojo kaspino diena;
 
-ėmimo į dangų diena);
+17) rugsėjo 1-oji - Laisvės diena;
 
-17) rugpjūčio 23-ioji - Juodojo kaspino diena;
-
-18) rugsėjo 1-oji - Laisvės diena;
-
-19) rugsėjo 8-oji -
+18) rugsėjo 8-oji -
 
 Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir
 
 Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
 
-20) rugsėjo 22-oji -
+19) rugsėjo 22-oji -
 
 Baltų vienybės diena;
 
-21) rugsėjo 23-ioji - Lietuvos žydų genocido diena;
+20) rugsėjo 23-ioji - Lietuvos žydų genocido diena;
 
-22) spalio 5-oji - Tarptautinė mokytojų diena;
+21) spalio 5-oji - Tarptautinė mokytojų diena;
 
-23) spalio 25-oji - Konstitucijos diena;
+22) spalio 25-oji - Konstitucijos diena;
 
-24) lapkričio 2-oji - Mirusiųjų atminimo (Vėlinių)
+23) lapkričio 2-oji - Mirusiųjų atminimo (Vėlinių)
 
 diena;
 
-25) lapkričio 23-ioji - Lietuvos karių diena;
+24) lapkričio 23-ioji - Lietuvos karių diena;
 
-26) lapkričio 30-oji -
+25) lapkričio 30-oji -
 
 Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
 
-27) gruodžio 10-oji - Tarptautinė
+26) gruodžio 10-oji - Tarptautinė žmogaus teisių
 
-žmogaus teisių diena.
+diena.
 
 Straipsnio
 
@@ -120,6 +116,10 @@ Nr. VIII-815,
 Nr. VIII-1680, 00.05.16, Žin., 2000,
 
 Nr.42-1197 (00.05.24)
+
+Nr. VIII-1763, 00.06.27, Žin., 2000,
+
+Nr.57-1679 (00.07.14)
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -157,9 +157,17 @@ Nr.42-1197 (00.05.24)
 
 ATMINTINŲ DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1763, 00.06.27, Žin., 2000,
+
+Nr.57-1679 (00.07.14)
+
+ATMINTINŲ DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė
-
-(2000.05.25)
+Redagavo: Aušrinė Trapinskienė (2000.08.01)
 
