@@ -4,7 +4,7 @@ identifier: "TAR.4E9EEE15278B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-10-06"
-last_updated: "1997-07-02"
+last_updated: "1998-04-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos hipotekos įstatymas
 
-Suvestinė redakcija nuo 1997-07-02 iki 1998-03-31
+Suvestinė redakcija nuo 1998-04-01 iki 1999-11-25
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 200-0; Žin. 1992, Nr.31-951, i. k. 0921010ISTA00I-2936
 
@@ -96,7 +96,11 @@ HIPOTEKOS OBJEKTAS
 
 2. Hipoteka neapima turto, kurį prie pagrindinio daikto po jo įkeitimo prijungė nuomininkas ar asmuo, naudojantis turtą pagal panaudos sutartį.
 
-3. Įkeičiant pastatus, kartu turi būti įkeistas ir žemės sklypas, ant kurio stovi pastatai, arba šio žemės sklypo nuomos (panaudos) teisė.
+3. Jeigu įkeičiant pastatą kartu nėra įkeičiamas žemės sklypas, ant kurio stovi pastatas, pastato įkeitimas apima žemės sklypo, ant kurio stovi įkeistasis pastatas, nuomos (panaudos) teisę, atsiradusią nekilnojamojo turto registre įregistruotos žemės nuomos (panaudos) sutarties pagrindu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-670, 1998-03-19, Žin., 1998, Nr. 31-822 (1998-04-01), i. k. 0981010ISTAVIII-670
 
 4. Įkeičiant žemę, ant jos stovintys pastatai neįkeičiami, jei hipotekos sutartyje nenustatyta kitaip. Šiuo atveju, pardavus įkeistą žemę varžytynėse, pastato savininkas įgyja teisę į žemės servitutą. Jei varžytynėse parduodamas įkeistas žemės sklypas, ant kurio stovi kitam asmeniui (ne žemės savininkui) nuosavybės teise priklausantys pastatai, įsigijusiam varžytynėse žemę asmeniui pereina buvusio žemės savininko teisės ir pareigos,  turėtos pastato savininkui.
 
@@ -539,6 +543,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-251, 1997-06-10, Žin., 1997, Nr. 63-1468 (1997-07-02), i. k. 0971010ISTAVIII-251
 
 Lietuvos Respublikos hipotekos įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-670, 1998-03-19, Žin., 1998, Nr. 31-822 (1998-04-01), i. k. 0981010ISTAVIII-670
+
+Lietuvos Respublikos hipotekos įstatymo 9 straipsnio pakeitimo įstatymas
 
 63 straipsnis. Hipoteka netenka galios nuo to momento, kai panaikinamas įrašas hipotekos knygoje.
 
