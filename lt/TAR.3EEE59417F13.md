@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2004-11-04"
+last_updated: "2005-03-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -276,56 +276,6 @@ ne mažesnis už minimalią mėnesinę algą arba minimalų valandinį atlygį
 
 proporcingai dirbtam laikui arba atliktam darbui;
 
-1
-
-dalies 4 punkto redakcija iki 2005 m. sausio 1 d.:
-
-4) vyresni kaip 18 metų šeimos nariai (vienas gyvenantis
-
-asmuo): mokosi dieninėse
-
-bendrojo lavinimo mokyklose ir kitų formaliojo švietimo įstaigų dieniniuose skyriuose, kol
-
-jiems sukaks 24 metai; laikotarpiu nuo dieninių bendrojo lavinimo mokyklų
-
-baigimo dienos iki tų pačių metų rugsėjo 1 d., bet ne ilgiau, iki jiems sukaks
-
-24 metai; yra įstatymo nustatyto senatvės pensijos amžiaus arba gaunantys pensijas
-
-(išskyrus III grupės invalidui paskirtą valstybinę socialinio draudimo
-
-invalidumo pensiją), pensijų išmokas ar šalpos išmokas; yra I, II grupės
-
-invalidai (invalidas) arba neįgalieji (neįgalusis) įstatymo nustatyta tvarka;
-
-yra bedarbiai (bedarbis), gaunantys bedarbio pašalpą, mokymosi laikotarpiu –
-
-mokymosi pašalpą arba dirbantys viešuosius ar Užimtumo fondo remiamus darbus,
-
-bei pasibaigus nurodytiems laikotarpiams; yra asmenys (asmuo), ne mažiau kaip 6
-
-mėnesius įsiregistravę valstybinėje teritorinėje darbo biržoje; yra asmenys
-
-(asmuo), kuriems iki senatvės pensijos amžiaus yra likę ne ilgiau kaip 2 metai,
-
-įsiregistravę valstybinėje teritorinėje darbo biržoje ir gaunantys bedarbio
-
-pašalpą; vienas iš šeimos narių slaugo šeimos narį, vaiką, kurį įstatymo nustatyta
-
-tvarka globoja šeima, arba artimąjį savo ar sutuoktinio giminaitį, kuriems
-
-nuolatinės slaugos (pagalbos, priežiūros) būtinumas nustatytas teisės aktų
-
-nustatyta tvarka; ne trumpiau kaip vieną mėnesį gydosi sveikatos priežiūros
-
-įstaigos stacionare; moteris yra nėščia ir iki gimdymo yra likę ne daugiau kaip
-
-70 kalendorinių dienų (suėjus 28 nėštumo savaitėms ir daugiau);
-
-1
-
-dalies 4 punkto redakcija nuo 2005 m. sausio 1 d.:
-
 4) vyresni kaip 18 metų šeimos nariai (vienas gyvenantis
 
 asmuo): mokosi dieninėse bendrojo lavinimo mokyklose ir kitų formaliojo
@@ -340,25 +290,25 @@ pensijos amžiaus arba gaunantys pensijas (išskyrus III grupės invalidui
 
 paskirtą valstybinę socialinio draudimo invalidumo pensiją), pensijų išmokas ar
 
-šalpos išmokas; yra I, II grupės invalidai (invalidas) arba neįgalieji (neįgalusis)
+šalpos išmokas; yra I, II grupės invalidai (invalidas) arba neįgalieji
 
-įstatymo nustatyta tvarka; yra bedarbiai (bedarbis), gaunantys nedarbo
+(neįgalusis) įstatymo nustatyta tvarka; yra bedarbiai (bedarbis), gaunantys
 
-socialinio draudimo išmoką, mokymosi laikotarpiu – mokymosi pašalpą arba
+nedarbo socialinio draudimo išmoką, mokymosi laikotarpiu – mokymosi pašalpą
 
-dirbantys viešuosius ar Užimtumo fondo remiamus darbus, bei pasibaigus
+arba dirbantys viešuosius ar Užimtumo fondo remiamus darbus, bei pasibaigus
 
 nurodytiems laikotarpiams; yra asmenys (asmuo), ne mažiau kaip 6 mėnesius
 
-įsiregistravę valstybinėje teritorinėje darbo biržoje; yra asmenys (asmuo),
+įsiregistravę valstybinėje teritorinėje darbo biržoje; yra asmenys (asmuo), kuriems
 
-kuriems iki senatvės pensijos amžiaus yra likę ne ilgiau kaip 2 metai,
+iki senatvės pensijos amžiaus yra likę ne ilgiau kaip 2 metai, įsiregistravę
 
-įsiregistravę valstybinėje teritorinėje darbo biržoje ir gaunantys nedarbo
+valstybinėje teritorinėje darbo biržoje ir gaunantys nedarbo socialinio
 
-socialinio draudimo išmoką; vienas iš šeimos narių slaugo šeimos narį, vaiką,
+draudimo išmoką; vienas iš šeimos narių slaugo šeimos narį, vaiką, kurį
 
-kurį įstatymo nustatyta tvarka globoja šeima, arba artimąjį savo ar sutuoktinio
+įstatymo nustatyta tvarka globoja šeima, arba artimąjį savo ar sutuoktinio
 
 giminaitį, kuriems nuolatinės slaugos (pagalbos, priežiūros) būtinumas
 
@@ -480,9 +430,9 @@ socialinė pašalpa sudaro 90 procentų skirtumo tarp valstybės remiamų pajam�
 
 asmens) pajamų per mėnesį.
 
-2. Šio Įstatymo
+2. Šio Įstatymo 4
 
-4 straipsnio 4 dalyje nustatyta socialinė pašalpa kiekvienam vaikui sudaro 90
+straipsnio 4 dalyje nustatyta socialinė pašalpa kiekvienam vaikui sudaro 90
 
 procentų skirtumo tarp valstybės remiamų pajamų vienam šeimos nariui ir
 
@@ -534,9 +484,9 @@ dirbiniai, taurieji metalai, kurių vieneto vertė viršija 2000 litų;
 
 8) piniginės lėšos, turimos bankuose bei kitose
 
-kredito įstaigose ir ne bankuose bei ne kitose kredito įstaigose, jeigu jų
+kredito įstaigose ir ne bankuose bei ne kitose kredito įstaigose, jeigu jų bendra
 
-bendra suma viršija 2000 litų;
+suma viršija 2000 litų;
 
 9) gautos (negrąžintos) paskolos, jeigu jų bendra suma
 
@@ -756,9 +706,9 @@ pajamas įskaitomas paskutinį kartą paskirtos socialinės pašalpos dydis.
 
 būste gyvena daugiau kaip viena šeima ir šios šeimos už komunalines paslaugas
 
-atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), bendros būste gyvenamąją
+atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), bendros būste
 
-vietą deklaravusių šeimos narių (vienų gyvenančių asmenų) pajamos
+gyvenamąją vietą deklaravusių šeimos narių (vienų gyvenančių asmenų) pajamos
 
 apskaičiuojamos sudedant kiekvienos šeimos būste gyvenamąją vietą
 
@@ -852,17 +802,15 @@ jos įgaliotos institucijos patvirtintomis žemės ūkio produkcijos sąlyginėm
 
 vertėmis – šio Įstatymo 9 straipsnio 1 dalies 5 punkte nurodyto turto vertę.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. IX-2450,
 
 2004-09-21, Žin., 2004, Nr. 146-5303 (2004-10-01)
 
-18 straipsnis. Piniginės
+18 straipsnis.
 
-socialinės paramos teikimas
+Piniginės socialinės paramos teikimas
 
 1. Socialinė pašalpa teikiama vienu iš šių būdų:
 
@@ -902,9 +850,9 @@ gyvena), buvo pakeista.
 
 3. Paskirta, bet laiku neatsiimta socialinė pašalpa išmokama, jeigu dėl
 
-jos buvo kreiptasi ne vėliau kaip per 3 mėnesius nuo paskutinio mėnesio, už
+jos buvo kreiptasi ne vėliau kaip per 3 mėnesius nuo paskutinio mėnesio, už kurį
 
-kurį pašalpa priklausė.
+pašalpa priklausė.
 
 4. Kompensacijos
 
@@ -978,9 +926,9 @@ Nr. IX-2450,
 
 socialinę paramą gaunančios šeimos (vieno gyvenančio asmens) pareigos
 
-1. Piniginę socialinę paramą gaunanti šeima (vienas
+1. Piniginę socialinę paramą gaunanti šeima (vienas gyvenantis
 
-gyvenantis asmuo) privalo:
+asmuo) privalo:
 
 1) pagal Vyriausybės ar jos įgaliotos institucijos
 
@@ -1106,9 +1054,9 @@ darbams tvarką.
 
 2. Valstybinė kainų ir energetikos kontrolės komisija iki
 
-2004 m. sausio 1 d. patvirtina atskirų energijos ir kuro rūšių sąnaudų
+2004 m. sausio 1 d. patvirtina atskirų energijos ir kuro rūšių sąnaudų normatyvus
 
-normatyvus būstui šildyti ir šaltam vandeniui pašildyti.
+būstui šildyti ir šaltam vandeniui pašildyti.
 
 3. Komisija
 
@@ -1150,7 +1098,7 @@ Nr. IX-2450,
 
 1) Lietuvos Respublikos gyventojų pajamų garantijų įstatymo
 
-(Žin., 1990, Nr. 30-74; 1994, Nr. 88-1667) 1 straipsnio 6 pastraipa, 10
+(Žin., 1990, Nr. 30-74; 1994, Nr. 88-1667) 1 straipsnio 6 pastraipa, 10 straipsnio
 
 6 straipsnis. Šeimos (vieno gyvenančio asmens) teisė į kompensacijas
 
@@ -1180,11 +1128,11 @@ būsto naudingojo ploto, bet ne didesnio už šio Įstatymo 7 straipsnyje nustat
 
 normatyvą, šildymą, atsižvelgiant į energijos ar kuro sąnaudas, bet ne didesnes
 
-už normatyvą, viršija 25 procentus skirtumo tarp šeimos (vieno gyvenančio
+už normatyvą, viršija 25 procentus skirtumo tarp šeimos (vieno gyvenančio asmens)
 
-asmens) pajamų ir 90 procentų valstybės remiamų pajamų šeimai (vienam
+pajamų ir 90 procentų valstybės remiamų pajamų šeimai (vienam gyvenančiam
 
-gyvenančiam asmeniui) dydžio;
+asmeniui) dydžio;
 
 3) išlaidos už
 
@@ -1228,56 +1176,6 @@ ne mažesnis už minimalią mėnesinę algą arba minimalų valandinį atlygį
 
 proporcingai dirbtam laikui arba atliktam darbui;
 
-1
-
-dalies 6 punkto redakcija iki 2005 m. sausio 1 d.:
-
-6) vyresni kaip 18 metų šeimos nariai (vienas gyvenantis
-
-asmuo): mokosi dieninėse bendrojo lavinimo mokyklose ir kitų formaliojo
-
-švietimo įstaigų dieniniuose skyriuose, kol jiems sukaks 24 metai; laikotarpiu
-
-nuo dieninių bendrojo lavinimo mokyklų baigimo dienos iki tų pačių metų rugsėjo
-
-1 d., bet ne ilgiau, iki jiems sukaks 24 metai; yra įstatymo nustatyto senatvės
-
-pensijos amžiaus arba gaunantys pensijas (išskyrus III grupės invalidui
-
-paskirtą valstybinę socialinio draudimo invalidumo pensiją), pensijų išmokas ar
-
-šalpos išmokas; yra I, II grupės invalidai (invalidas) arba neįgalieji
-
-(neįgalusis) įstatymo nustatyta tvarka; yra bedarbiai (bedarbis), gaunantys
-
-bedarbio pašalpą, mokymosi laikotarpiu – mokymosi pašalpą arba dirbantys
-
-viešuosius ar Užimtumo fondo remiamus darbus, bei pasibaigus nurodytiems
-
-laikotarpiams; yra asmenys (asmuo), ne mažiau kaip 6 mėnesius įsiregistravę
-
-valstybinėje teritorinėje darbo biržoje; yra asmenys (asmuo), kuriems iki
-
-senatvės pensijos amžiaus yra likę ne ilgiau kaip 2 metai, įsiregistravę
-
-valstybinėje teritorinėje darbo biržoje ir gaunantys bedarbio pašalpą; vienas
-
-iš šeimos narių slaugo šeimos narį, vaiką, kurį įstatymo nustatyta tvarka
-
-globoja šeima, arba artimąjį savo ar sutuoktinio giminaitį, kuriems nuolatinės
-
-slaugos (pagalbos, priežiūros) būtinumas nustatytas teisės aktų nustatyta
-
-tvarka; ne trumpiau kaip vieną mėnesį gydosi sveikatos priežiūros įstaigos
-
-stacionare; moteris yra nėščia ir iki gimdymo yra likę ne daugiau kaip 70
-
-kalendorinių dienų (suėjus 28 nėštumo savaitėms ir daugiau);
-
-1
-
-dalies 6 punkto redakcija nuo 2005 m. sausio 1 d.:
-
 6) vyresni kaip 18 metų šeimos nariai (vienas gyvenantis
 
 asmuo): mokosi dieninėse bendrojo lavinimo mokyklose ir kitų formaliojo
@@ -1312,15 +1210,13 @@ socialinio draudimo išmoką; vienas iš šeimos narių slaugo šeimos narį, va
 
 kurį įstatymo nustatyta tvarka globoja šeima, arba artimąjį savo ar sutuoktinio
 
-giminaitį, kuriems nuolatinės slaugos (pagalbos, priežiūros) būtinumas
+giminaitį, kuriems nuolatinės slaugos (pagalbos, priežiūros) būtinumas nustatytas
 
-nustatytas teisės aktų nustatyta tvarka; ne trumpiau kaip vieną mėnesį gydosi
+teisės aktų nustatyta tvarka; ne trumpiau kaip vieną mėnesį gydosi sveikatos
 
-sveikatos priežiūros įstaigos stacionare; moteris yra nėščia ir iki gimdymo yra
+priežiūros įstaigos stacionare; moteris yra nėščia ir iki gimdymo yra likę ne
 
-likę ne daugiau kaip 70 kalendorinių dienų (suėjus 28 nėštumo savaitėms ir
-
-daugiau);
+daugiau kaip 70 kalendorinių dienų (suėjus 28 nėštumo savaitėms ir daugiau);
 
 7) motina arba tėvas (globėja ar rūpintoja arba globėjas ar
 
@@ -1334,9 +1230,7 @@ tinkamai prižiūrimi; ikimokyklinio amžiaus vaiką, bet ne vyresnį kaip 8 met
 
 nelankantį ikimokyklinės ugdymo įstaigos pagal gydytojų rekomendaciją arba dėl
 
-to, kad gyvenamojoje vietovėje nėra ikimokyklinės ugdymo įstaigos ar vietų
-
-joje;
+to, kad gyvenamojoje vietovėje nėra ikimokyklinės ugdymo įstaigos ar vietų joje;
 
 8) vaikai nuo 16 iki 18 metų: dirba (šios dalies 3 punkte
 
@@ -1352,11 +1246,11 @@ rugsėjo 1 d.; yra invalidai ar neįgalūs įstatymo nustatyta tvarka; yra
 
 santuoką arba gyvenančių skyrium sutuoktinių, auginančių vaikus iki 18 metų,
 
-šeimoms, atitinkančioms šio straipsnio 1 dalyje nurodytas sąlygas, kompensacijos
+šeimoms, atitinkančioms šio straipsnio 1 dalyje nurodytas sąlygas,
 
-skiriamos, jeigu jie yra sudarę teismo patvirtintą vaiko (vaikų) išlaikymo
+kompensacijos skiriamos, jeigu jie yra sudarę teismo patvirtintą vaiko (vaikų)
 
-sutartį arba jei vaiko (vaikų) išlaikymą yra priteisęs teismas.
+išlaikymo sutartį arba jei vaiko (vaikų) išlaikymą yra priteisęs teismas.
 
 3. Nesusituokusių asmenų, kurie vieni augina vaikus
 
@@ -1390,9 +1284,9 @@ besimokantis ir gyvenantis moksleivis ar
 
 studentas iki 24 metų;
 
-2) yra sulaikytas ar suimtas arba yra paskelbta jo paieška, arba atlieka
+2) yra sulaikytas ar suimtas arba yra paskelbta jo paieška, arba
 
-privalomąją pradinę karo tarnybą.
+atlieka privalomąją pradinę karo tarnybą.
 
 5.
 
@@ -1504,19 +1398,29 @@ karšto vandens temperatūrai palaikyti (cirkuliacijai). Kai karštas vanduo
 
 ruošiamas naudojant centralizuotai tiekiamą šilumą, į išlaidas karštam
 
-vandeniui paruošti įskaičiuojamos ir išlaidos už karštam vandeniui paruošti sunaudotą
+vandeniui paruošti įskaičiuojamos ir išlaidos už karštam vandeniui paruošti
 
-šaltą vandenį (įskaitant išlaidas nuotekoms).
+sunaudotą šaltą vandenį (įskaitant išlaidas nuotekoms).
 
-2. Jeigu daugiabučio namo savininkų bendrija yra
+2. Jeigu daugiabučio namo savininkai ar savininkų bendrija
 
-pasinaudojusi valstybės teikiamais tiksliniais kreditais šilumos taupymo
+yra pasinaudojusi valstybės teikiamais tiksliniais kreditais šilumos taupymo
 
-priemonėms įgyvendinti, būsto šildymo išlaidų kompensacija skaičiuojama taikant
+priemonėms įgyvendinti arba pagal Lietuvos Respublikos Vyriausybės patvirtintą
 
-energijos ar kuro sąnaudų normatyvą, iki bus visiškai išmokėtas tikslinis
+daugiabučių namų modernizavimo programą ar ją atitinkančias savivaldybių
 
-kreditas.
+patvirtintas programas įgyvendina daugiabučio namo modernizavimo investicijų
+
+projektą, būsto šildymo išlaidų kompensacija skaičiuojama taikant energijos ar
+
+kuro sąnaudų normatyvą, iki bus visiškai išmokėtas tikslinis kreditas.
+
+Kompensacijos, apskaičiuotos taikant energijos ar kuro sąnaudų normatyvą, ir
+
+kompensacijos, apskaičiuotos pagal faktiškai sunaudotą energiją ar kurą,
+
+skirtumas panaudojamas kreditui grąžinti ir palūkanoms apmokėti.
 
 3. Kai šeimos (vieno gyvenančio asmens) pajamos sudaro ne
 
@@ -1554,9 +1458,9 @@ vandeniui paruošti sunaudoto energijos ar kuro kiekis yra mažesnis už nustaty
 
 normatyvą, kiekvienos šeimos sunaudoto energijos ar kuro kiekis karštam
 
-vandeniui paruošti apskaičiuojamas proporcingai kiekvienos šeimos narių,
+vandeniui paruošti apskaičiuojamas proporcingai kiekvienos šeimos narių, deklaravusių
 
-deklaravusių šiame name gyvenamąją vietą, skaičiui.
+šiame name gyvenamąją vietą, skaičiui.
 
 Straipsnio
 
@@ -1565,6 +1469,10 @@ pakeitimai:
 Nr. IX-2450,
 
 2004-09-21, Žin., 2004, Nr. 146-5303 (2004-10-01)
+
+Nr. X-144, 2005-03-24,
+
+Žin., 2005, Nr. 47-1555 (2005-04-12)
 
 KETVIRTASIS
 
@@ -1634,9 +1542,9 @@ sutartis nutraukiama;
 
 išmoka arba kompensacija atleidžiamam iš pareigų valstybės tarnautojui;
 
-15) ligos, motinystės ir motinystės
+15) ligos, motinystės ir
 
-(tėvystės) pašalpa;
+motinystės (tėvystės) pašalpa;
 
 16) turtinės ar
 
@@ -1664,9 +1572,9 @@ dydžius;
 
 laimėjimai, prizai;
 
-24) kitos faktiškai
+24) kitos
 
-gautos pajamos.
+faktiškai gautos pajamos.
 
 2. Šio
 
@@ -1750,11 +1658,11 @@ mėnesį apskaičiuojamos pagal to mėnesio pajamas.
 
 straipsnio 2 dalyje nustatyta tvarka netaikoma, jei per 3 mėnesius, praėjusius
 
-iki mėnesio, nuo kurio skiriama socialinė pašalpa, yra gauta vienkartinių
+iki mėnesio, nuo kurio skiriama socialinė pašalpa, yra gauta vienkartinių išmokų
 
-išmokų (premija, vienkartinė netekto darbingumo kompensacija, išeitinė išmoka
+(premija, vienkartinė netekto darbingumo kompensacija, išeitinė išmoka arba
 
-arba kompensacija, išmokėta nutraukus darbo sutartį, išeitinė išmoka arba
+kompensacija, išmokėta nutraukus darbo sutartį, išeitinė išmoka arba
 
 kompensacija atleidžiamam iš pareigų valstybės tarnautojui ir kitos faktiškai
 
@@ -1794,11 +1702,11 @@ teisę į kompensacijas, pirmos dienos, tačiau ne daugiau kaip už 2 praėjusiu
 
 mėnesius iki prašymo-paraiškos pateikimo mėnesio.
 
-3. Piniginei socialinei
+3. Piniginei
 
-paramai gauti reikalingi dokumentai pateikiami ne vėliau kaip iki piniginės
+socialinei paramai gauti reikalingi dokumentai pateikiami ne vėliau kaip iki
 
-socialinės paramos teikimo laikotarpio pabaigos.
+piniginės socialinės paramos teikimo laikotarpio pabaigos.
 
 4. Kai pasibaigus paskirtos piniginės socialinės paramos teikimo
 
@@ -1868,9 +1776,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. IX-2450,
+Nr. IX-2450, 2004-09-21,
 
-2004-09-21, Žin., 2004, Nr. 146-5303 (2004-10-01)
+Žin., 2004, Nr. 146-5303 (2004-10-01)
 
 19 straipsnis. Savivaldybės pareigos ir teisės
 
@@ -1894,15 +1802,13 @@ asmenims) skirti paslaugomis, kai šeima (vienas gyvenantis asmuo) nevykdo šio
 
 3) skirti kompensacijas šio Įstatymo 18 straipsnio 4
 
-dalies 2 punkte nustatytu būdu šeimai (vienam gyvenančiam asmeniui), įsiskolinusiai
+dalies 2 punkte nustatytu būdu šeimai (vienam gyvenančiam asmeniui),
 
-už būsto šildymą, šaltą bei karštą vandenį, jai
+įsiskolinusiai už būsto šildymą, šaltą bei karštą vandenį, jai (jam) sudarius sutartį su šių paslaugų tiekėjais
 
-(jam) sudarius sutartį su šių paslaugų tiekėjais dėl dalies įsiskolinimo, bet
+dėl dalies įsiskolinimo, bet ne daugiau kaip 20 procentų šeimos (vieno
 
-ne daugiau kaip 20 procentų šeimos (vieno gyvenančio asmens) pajamų, grąžinimo
-
-kas mėnesį;
+gyvenančio asmens) pajamų, grąžinimo kas mėnesį;
 
 4) neskirti kompensacijų, nutraukti jų teikimą įsiskolinusiai už būsto šildymą, šaltą bei karštą
 
@@ -1952,11 +1858,11 @@ teisės į piniginę socialinę paramą;
 
 kompensuoti Įstatyme nenurodytas būsto išlaikymo išlaidas; kompensuoti išlaidas
 
-už didesnį karšto ir šalto vandens kiekį, negu šiame Įstatyme nustatytas normatyvas,
+už didesnį karšto ir šalto vandens kiekį, negu šiame Įstatyme nustatytas
 
-bei didesnio būsto naudingojo ploto šildymo išlaidas; padengti įsiskolinimą už
+normatyvas, bei didesnio būsto naudingojo ploto šildymo išlaidas; padengti
 
-būstą ir kita);
+įsiskolinimą už būstą ir kita);
 
 5) atsiradus neaiškumų dėl prašyme-paraiškoje pateiktų
 
