@@ -4,7 +4,7 @@ identifier: "TAR.7DE59B8C46B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-05"
-last_updated: "2002-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7DE59B8C46B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas
 
-Suvestinė redakcija nuo 2002-01-01 iki 2003-12-31
+Suvestinė redakcija nuo 2004-01-01 iki 2004-04-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 52-1811, i. k. 1011010ISTA00IX-352
 
@@ -32,11 +32,19 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato mokesčių mokėjimą už pramoninės nuosavybės objektų registravimą ir su tuo susijusių dokumentų išdavimą, taip pat už išradimo patento, pramoninio dizaino, prekių ženklo galiojimo termino pratęsimą, patentinio patikėtinio registravimą Lietuvos Respublikos valstybiniame patentų biure (toliau – Valstybinis patentų biuras).
+Šis įstatymas nustato mokesčių mokėjimą už pramoninės nuosavybės objektų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, registravimą ir su tuo susijusių dokumentų išdavimą, taip pat už išradimo patento, pramoninio dizaino, prekių ženklo galiojimo termino pratęsimą, patentinio patikėtinio registravimą Lietuvos Respublikos valstybiniame patentų biure (toliau – Valstybinis patentų biuras).
+
+Straipsnio pakeitimai:
+
+Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010ISTA0IX-1847
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Pramoninės nuosavybės objektas – išradimo patentas, pramoninis dizainas, puslaidininkinio gaminio topografija, prekių ženklas, firmos vardas.
+1. Pramoninės nuosavybės objektas – išradimo patentas, pramoninis dizainas, puslaidininkinio gaminio topografija, prekių ženklas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010ISTA0IX-1847
 
 2. Patentinis patikėtinis – fizinis asmuo, Vyriausybės patvirtintų Patentinių patikėtinių nuostatų nustatyta tvarka įrašytas į Lietuvos Respublikos patentinių patikėtinių registrą.
 
@@ -56,7 +64,11 @@ Mokesčiai mokami už:
 
 4) prekių ženklo registravimą ir su tuo susijusių dokumentų išdavimą bei prekių ženklo galiojimo termino pratęsimą (4 priedėlis);
 
-5) firmos vardo registravimą ir su tuo susijusių dokumentų išdavimą (5 priedėlis);
+5) netenka galios 2004-01-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010ISTA0IX-1847
 
 6) patentinio patikėtinio registravimą (6 priedėlis).
 
@@ -66,7 +78,11 @@ Fiziniams asmenims, savo vardu patentuojantiems išradimus bei registruojantiems
 
 6 straipsnis. Mokesčių mokėjimas
 
-1. Mokesčiai už išradimo patentavimą, pramoninio dizaino, puslaidininkinio gaminio topografijos, prekių ženklo bei firmos vardo registravimą ir su tuo susijusių dokumentų išdavimą bei patentinio patikėtinio registravimą mokami mokėjimo dieną nustatytais dydžiais litais prieš registruojant pramoninės nuosavybės objektus ir išduodant su tuo susijusius dokumentus bei prieš registruojant patentinį patikėtinį Valstybiniame patentų biure.
+1. Mokesčiai už išradimo patentavimą, pramoninio dizaino, puslaidininkinio gaminio topografijos, prekių ženklo registravimą ir su tuo susijusių dokumentų išdavimą bei patentinio patikėtinio registravimą mokami mokėjimo dieną nustatytais dydžiais litais prieš registruojant pramoninės nuosavybės objektus ir išduodant su tuo susijusius dokumentus bei prieš registruojant patentinį patikėtinį Valstybiniame patentų biure.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010ISTA0IX-1847
 
 2. Mokesčiai už išradimo patento, pramoninio dizaino ir prekių ženklo galiojimo termino pratęsimą sumokami:
 
@@ -362,19 +378,11 @@ Lietuvos Respublikos Seimo
 
 5 PRIEDĖLIS
 
-MOKESČIŲ UŽ FIRMOS VARDO REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ DYDŽIAI (LITAIS)
+Netenka galios 2004-01-01
 
-1. Už paraiškos įregistruoti firmos vardą padavimą                                                           70
+Priedo pakeitimai:
 
-2. Už prašymą pakeisti duomenis Lietuvos Respublikos
-
-firmų vardų registre                                                                                                            20
-
-3. Už išrašo iš Lietuvos Respublikos firmų vardų registro išdavimą                                 10
-
-4. Už registracijos liudijimo dublikato išdavimą                                                                30
-
-______________
+Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010ISTA0IX-1847
 
 Lietuvos Respublikos Seimo
 
@@ -401,4 +409,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-688, 2001-12-21, Žin., 2001, Nr. 110-3996 (2001-12-29), i. k. 1011010ISTA00IX-688
 
 Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo 1 priedėlio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010ISTA0IX-1847
+
+Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo 1, 2, 4, 6 straipsnių pakeitimo ir 5 priedėlio pripažinimo netekusiu galios įstatymas
 
