@@ -4,7 +4,7 @@ identifier: "TAR.7055451E838B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-04"
-last_updated: "2000-04-05"
+last_updated: "2000-04-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2000-04-05 iki 2000-04-20
+Suvestinė redakcija nuo 2000-04-21 iki 2000-08-03
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
 
@@ -382,13 +382,19 @@ Nr. VIII-1360, 1999-10-14, Žin., 1999, Nr. 90-2640 (1999-10-27), i. k. 0991010I
 
 14 straipsnis. Viešas akcijų pardavimas
 
-1. Viešas akcijų pardavimas – valstybei ar savivaldybei nuosavybės teise priklausančių akcijų pardavimo būdas, kai akcijos parduodamos neribojant nei pirkėjų, nei jų perkamų akcijų skaičiaus, o akcijų pardavimo kaina nustatoma pagal paklausos ir pasiūlos santykį.
+1. Viešas akcijų pardavimas – valstybei ar savivaldybei nuosavybės teise priklausančių akcijų pardavimo būdas, kai akcijos parduodamos viešai jas platinant vidaus ir (ar) užsienio valstybių vertybinių popierių rinkose, o akcijų pardavimo kaina nustatoma įvertinus paklausos ir pasiūlos santykį
 
-2. Akcinių bendrovių akcijos parduodamos vertybinių popierių biržose pagal šių biržų nustatytas taisykles. Valstybės ar savivaldybės vertybiniams popieriams vertybinių popierių biržose parduoti Turto fondas ar tam tikra savivaldybės institucija turi teisę samdyti vertybinių popierių viešosios apyvartos tarpininką.
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1614, 2000-04-11, Žin., 2000, Nr. 33-923 (2000-04-21), i. k. 1001010ISTAIII-1614
+
+2. Jei akcinių bendrovių akcijos parduodamos vertybinių popierių biržose, tai vadovaujamasi tų biržų veiklą reglamentuojančių teisės aktų normomis. Valstybės ar savivaldybės vertybiniams popieriams vertybinių popierių biržose parduoti Turto fondas ar tam tikra savivaldybės institucija turi teisę samdyti vertybinių popierių viešosios apyvartos tarpininką.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+
+Nr. VIII-1614, 2000-04-11, Žin., 2000, Nr. 33-923 (2000-04-21), i. k. 1001010ISTAIII-1614
 
 3. Uždarųjų akcinių bendrovių akcijos viešo akcijų pardavimo būdu neparduodamos.
 
@@ -665,4 +671,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1575, 2000-03-16, Žin., 2000, Nr. 28-765 (2000-04-05), i. k. 1001010ISTAIII-1575
 
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10 straipsnio papildymo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1614, 2000-04-11, Žin., 2000, Nr. 33-923 (2000-04-21), i. k. 1001010ISTAIII-1614
+
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 14 straipsnio pakeitimo įstatymas
 
