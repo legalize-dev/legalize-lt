@@ -4,7 +4,7 @@ identifier: "TAR.F15B67B048EB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-06-18"
-last_updated: "2000-06-15"
+last_updated: "2001-09-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F15B67B048EB"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -230,6 +230,16 @@ apskaitos tarnyba arba pareigybė privaloma valstybės ir savivaldybės įmonės
 
 akcinėse ir uždarosiose akcinėse bendrovėse.
 
+[2 dalies redakcija nuo 2001 m.
+
+lapkričio 1 d.:
+
+Savarankiška
+
+buhalterinės apskaitos tarnyba arba pareigybė privaloma valstybės ir
+
+savivaldybės įmonėse.]
+
 Savarankiškų buhalterinės
 
 apskaitos tarnybų, buhalterinių, auditinių ir kitų konsultacinių įmonių
@@ -243,6 +253,12 @@ pakeitimai:
 Nr.
 
 I-1050, 95.09.28, Žin., 1995, Nr. 83-1882 (95.10.11)
+
+Nr.
+
+IX-520,
+
+2001-09-25, Žin., 2001, Nr. 85-2970 (2001-10-05), įsigalioja nuo 2001 11 01
 
 8 straipsnis. Vyriausiojo
 
@@ -278,9 +294,11 @@ Apskaitos dokumentai yra
 
 įrašų apie ūkines operacijas į apskaitos registrus pagrindas. Jie surašomi
 
-ranka ar techninėmis priemonėmis aiškiai ir įskaitomai. Įrašai į apskaitos registrus
+ranka ar techninėmis priemonėmis aiškiai ir įskaitomai. Įrašai į apskaitos
 
-taip pat daromi ranka arba techninėmis priemonėmis aiškiai ir įskaitomai.
+registrus taip pat daromi ranka arba techninėmis priemonėmis aiškiai ir
+
+įskaitomai.
 
 Duomenys apie
 
@@ -370,15 +388,15 @@ telekomunikacijų paslaugų teikimą masiniams vartotojams) privalomi rekvizitai
 
 apskaitos dokumento pavadinimas, jo surašymo data, ūkinės operacijos turinys,
 
-ūkinės operacijos matavimo rodikliai, ūkinės operacijos rezultato kiekinė ir
+ūkinės operacijos matavimo rodikliai, ūkinės operacijos rezultato kiekinė ir piniginė
 
-piniginė išraiška, asmenų, atlikusių ūkinę operaciją ir atsakingų už jos
+išraiška, asmenų, atlikusių ūkinę operaciją ir atsakingų už jos atlikimą bei
 
-atlikimą bei teisingą įforminimą, pareigos, vardai, pavardės, parašai. Fizinio
+teisingą įforminimą, pareigos, vardai, pavardės, parašai. Fizinio asmens
 
-asmens išrašomame apskaitos dokumente papildomai yra nurodoma fizinio asmens
+išrašomame apskaitos dokumente papildomai yra nurodoma fizinio asmens vardas,
 
-vardas, pavardė, asmens kodas, paso numeris ir gyvenamoji vieta.
+pavardė, asmens kodas, paso numeris ir gyvenamoji vieta.
 
 Kasos aparato išduodamame
 
@@ -410,21 +428,21 @@ nėra privalomų visų rekvizitų, išskyrus apskaitos dokumentus, išrašytus u
 
 telekomunikacijų paslaugų suteikimą masiniams vartotojams, ir specialus
 
-apskaitos dokumentas, kuriame nėra visų privalomų ir papildomų privalomų
+apskaitos dokumentas, kuriame nėra visų privalomų ir papildomų privalomų rekvizitų
 
-rekvizitų arba jei jis surašytas ne ant Lietuvos Respublikos Vyriausybės
+arba jei jis surašytas ne ant Lietuvos Respublikos Vyriausybės nustatyta tvarka
 
-nustatyta tvarka įsigyto blanko, juridinės galios neturi. Apskaitos dokumente,
+įsigyto blanko, juridinės galios neturi. Apskaitos dokumente, išrašytame už
 
-išrašytame už telekomunikacijų paslaugų suteikimą masiniams vartotojams, turi
+telekomunikacijų paslaugų suteikimą masiniams vartotojams, turi būti nurodyta:
 
-būti nurodyta: įmonės, suteikusios šias paslaugas, pavadinimas, kodas, o jei
+įmonės, suteikusios šias paslaugas, pavadinimas, kodas, o jei įmonė yra PVM
 
-įmonė yra PVM mokėtoja, - PVM mokėtojo kodas, adresas, įmonės, gavusios
+mokėtoja, - PVM mokėtojo kodas, adresas, įmonės, gavusios paslaugą,
 
-paslaugą, pavadinimas, paslaugos pavadinimas ir jos piniginė išraiška bei
+pavadinimas, paslaugos pavadinimas ir jos piniginė išraiška bei apskaitos
 
-apskaitos dokumento surašymo data.
+dokumento surašymo data.
 
 Straipsnio
 
@@ -460,17 +478,19 @@ Nr. VIII-842,
 
 pasirašymas ir atsakomybė
 
-Įmonės vadovas patvirtina
+Įmonės vadovas patvirtina asmenų,
 
-asmenų, turinčių teisę pasirašyti apskaitos dokumentus, sąrašą ir jų parašų
+turinčių teisę pasirašyti apskaitos dokumentus, sąrašą ir jų parašų pavyzdžius.
 
-pavyzdžius. Apskaitos dokumentai pasirašomi asmeniškai.
+Apskaitos dokumentai pasirašomi asmeniškai.
 
 Už apskaitos dokumentų
 
 išrašymą laiku ir teisingai, už juose esančių duomenų tikrumą ir ūkinės
 
-operacijos teisėtumą atsako asmenys, surašiusieji ir pasirašiusieji apskaitos dokumentus.
+operacijos teisėtumą atsako asmenys, surašiusieji ir pasirašiusieji apskaitos
+
+dokumentus.
 
 Straipsnio
 
@@ -534,9 +554,9 @@ dar įmonės steigimo ir likvidavimo dienos duomenimis.
 
 V SKIRSNIS
 
-TURTO ĮKAINOJIMAS
+TURTO
 
-IR INVENTORIZACIJA
+ĮKAINOJIMAS IR INVENTORIZACIJA
 
 16 straipsnis. Turto
 
@@ -582,9 +602,9 @@ Nr. VIII-842,
 
 98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
 
-18 straipsnis. Pajamų ir
+18 straipsnis. Pajamų ir sąnaudų
 
-sąnaudų apskaita bei įvertinimas
+apskaita bei įvertinimas
 
 Apskaitinės pajamos rodomos
 
@@ -900,9 +920,33 @@ BUHALTERINĖS APSKAITOS PAGRINDŲ ĮSTATYMO 2 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+10.
 
-Redagavo: Aušrinė Trapinskienė (2000.06.28)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-520,
+
+2001-09-25, Žin., 2001, Nr. 85-2970 (2001-10-05)
+
+BUHALTERINĖS
+
+APSKAITOS PAGRINDŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Įstatymas įsigalioja nuo 2001 m.
+
+lapkričio 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2001-10-08)
+
+autrap@lrs.lt
 
 12 straipsnis. Apskaitos
 
