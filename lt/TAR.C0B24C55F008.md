@@ -4,7 +4,7 @@ identifier: "TAR.C0B24C55F008"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-02-12"
-last_updated: "2002-06-11"
+last_updated: "2004-10-12"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0B24C55F008"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -606,13 +606,13 @@ institucijos (išskyrus viešąsias įstaigas) joms perduotu valstybės turtu
 
 naudojasi neatlygintinai patikėjimo teise.
 
-3. Turtą, kuris įsigytas iš nebiudžetinių lėšų, gautas
+3. Turtą,
 
-dovanų, priimtas kaip palikimas ar įgytas kitu teisėtu būdu, mokslo ir studijų
+kuris įsigytas iš nebiudžetinių lėšų, gautas dovanų, priimtas kaip palikimas ar
 
-institucijos valdo, naudoja ir juo disponuoja nuosavybės teise pagal Civilinio
+įgytas kitu teisėtu būdu, mokslo ir studijų institucijos valdo, naudoja ir juo
 
-kodekso normas.
+disponuoja nuosavybės teise pagal Civilinio kodekso normas.
 
 20 straipsnis. Mokslinių tyrimų
 
@@ -892,15 +892,15 @@ administravimas finansuojami iš studijų, mokslinių tyrimų ir eksperimentinė
 
 plėtros programoms skirtų asignavimų.
 
-4. Mokslinius
+4. Mokslinius tyrimus ir jų rezultatų
 
-tyrimus ir jų rezultatų pritaikymo ūkinėje veikloje darbus atliekantys ūkio
+pritaikymo ūkinėje veikloje darbus atliekantys ūkio subjektai gali gauti
 
-subjektai Valstybės pagalbos ūkio subjektams kontrolės įstatymo nustatytomis
+valstybės pagalbą, jei tai neprieštarauja valstybės pagalbą nustatančioms
 
-sąlygomis gali gauti valstybės pagalbą. Tokią pagalbą Vyriausybės nustatyta
+Europos Sąjungos teisės normoms. Tokią pagalbą Vyriausybės nustatyta tvarka
 
-tvarka teikia ministerijos arba Lietuvos valstybinis mokslo ir studijų fondas.
+teikia ministerijos ir Lietuvos valstybinis mokslo ir studijų fondas.
 
 5. Lietuvos ūkio, kultūros, socialinės,
 
@@ -909,6 +909,16 @@ sveikatos, krašto ir gamtos apsaugos bei kitų sričių programoms reikalingi
 moksliniai tyrimai, eksperimentinė plėtra ir specialistų rengimas finansuojami
 
 iš tvirtinant šias programas joms numatomų lėšų.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2487,
+
+2004-10-12, Žin., 2004, Nr. 158-5756 (2004-10-30)
 
 25
 
@@ -1018,9 +1028,9 @@ ataskaitą.
 
 apyskaitas įstatymų nustatyta tvarka pateikia institucijoms, iš kurių gavo
 
-finansavimą. Valstybės biudžeto lėšų panaudojimo tikslingumą kontroliuoja
+finansavimą. Valstybės biudžeto lėšų panaudojimo tikslingumą kontroliuoja Valstybės
 
-Valstybės kontrolė.
+kontrolė.
 
 4. Prireikus Švietimo ir mokslo
 
@@ -1038,9 +1048,9 @@ asmenims, įvykdžiusiems doktorantūros reikalavimus ir apgynusiems daktaro
 
 disertaciją. Doktorantūros nuostatus, reglamentuojančius ir mokslo laipsnio
 
-teikimo tvarką, tvirtina Vyriausybė. Mokslinių tyrimų įstaigų doktorantai turi
+teikimo tvarką, tvirtina Vyriausybė. Mokslinių tyrimų įstaigų doktorantai turi Aukštojo
 
-Aukštojo mokslo įstatymo ir kitų įstatymų nustatytas studentų teises.
+mokslo įstatymo ir kitų įstatymų nustatytas studentų teises.
 
 3. Habilitacijos tvarką nustato
 
@@ -1234,9 +1244,9 @@ netaikoma šiame Įstatyme nustatyta skyrimo į pareigas tvarka.
 
 2. Mokslinių tyrimų įstaiga gali
 
-pagal sutartis su ūkio subjektais sudaryti galimybes jų tarnautojams atlikti
+pagal sutartis su ūkio subjektais sudaryti galimybes jų tarnautojams atlikti įstaigoje
 
-įstaigoje mokslinius tyrimus ir (ar) eksperimentinės plėtros darbus.
+mokslinius tyrimus ir (ar) eksperimentinės plėtros darbus.
 
 38 straipsnis. Profesoriai emeritai
 
@@ -1276,9 +1286,9 @@ tyrėjų teisės ir pareigos
 
 lygias teises, neatsižvelgiant į jų lytį, rasę, politinius įsitikinimus,
 
-pažiūras, tikėjimą, kilmę, socialinę padėtį, tautybę ir kalbą, taip pat pilietybę,
+pažiūras, tikėjimą, kilmę, socialinę padėtį, tautybę ir kalbą, taip pat
 
-dalyvauti konkursuose į pareigas įstaigose.
+pilietybę, dalyvauti konkursuose į pareigas įstaigose.
 
 2. Mokslininkai ir kiti tyrėjai turi
 
@@ -1290,9 +1300,9 @@ programoms vykdyti bei mokslo ir studijų fondų paramai gauti, disponuoti
 
 skirtomis lėšomis;
 
-2) dalyvauti konkursuose stažuotėms Lietuvos
+2) dalyvauti konkursuose stažuotėms
 
-Respublikoje ir užsienyje;
+Lietuvos Respublikoje ir užsienyje;
 
 3) gauti iš valstybės institucijų
 
@@ -1304,9 +1314,9 @@ ar tarnybos paslaptis, ji teikiama ir naudojama teisės aktų nustatyta tvarka;
 
 savo įstaigos statuto (įstatų) turinio ir veiklos plano;
 
-5) dalyvauti įvairiose profesinėse
+5) dalyvauti įvairiose profesinėse sąjungose
 
-sąjungose bei visuomeninėse organizacijose, tarp jų ir esančiose užsienyje.
+bei visuomeninėse organizacijose, tarp jų ir esančiose užsienyje.
 
 3. Mokslininkai, be šio straipsnio 2
 
@@ -1362,7 +1372,9 @@ TARYBOS
 
 PIRMININKAS
 
-VYTAUTAS LANDSBERGIS
+VYTAUTAS
+
+LANDSBERGIS
 
 Vilnius,
 
@@ -1390,17 +1402,27 @@ MOKSLO IR STUDIJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Nauja įstatymo redakcija
 
-*** Pabaiga ***
+2.
 
-Redagavo: Aušrinė Trapinskienė (2002-07-04)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-2487,
+
+2004-10-12, Žin., 2004, Nr. 158-5756 (2004-10-30)
+
+MOKSLO
+
+IR STUDIJŲ ĮSTATYMO 24 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2004-11-02)
 
 autrap@lrs.lt
-
-25 straipsnis. Valstybės biudžeto lėšų
-
-skyrimas aukštosioms mokykloms
-
-Valstybės biudžeto lėšos aukštosioms
-
-mokykloms skiriamos vadovaujantis Aukštojo mokslo įstatymo nuostatomis.
 
