@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2001-10-18"
+last_updated: "2001-12-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -6739,33 +6739,43 @@ Specialistas
 
 18 -22
 
-4. VALSTYBĖS KONTROLĖ
+4. Valstybės kontrolė
 
-PareigybėS
+Pareigybės
 
-PAVADINIMAS
+pavadinimas
 
 Kategorija
 
+Departamento direktorius
+
+28-29
+
 Skyriaus viršininkas
 
-27
+27-28
 
-Vyriausiasis kontrolierius
+Vyriausiasis kontrolierius,
+
+vyriausiasis specialistas
 
 25-26
 
-Vyresnysis kontrolierius, vyresnysis kvotėjas
+Vyresnysis
+
+kontrolierius, vyresnysis specialistas
+
+24-25
+
+Kontrolierius, specialistas
 
 22-24
 
-Kontrolierius, kvotėjas
+Jaunesnysis kontrolierius, jaunesnysis
 
-20-21
+specialistas
 
-Jaunesnysis kontrolierius
-
-18-19
+19-21
 
 5. KONSTITUCINIS
 
@@ -7181,17 +7191,17 @@ Jaunesnysis agentas
 
 10-16
 
-14.
+14. SEIMO
 
-SEIMO KONTROLIERIŲ ĮstaigA
+KONTROLIERIŲ ĮSTAIGA, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ KONTROLIERIAUS TARNYBA,
 
-Pareigybės
+VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTAIGA
 
-pavadinimas
+Pareigybės pavadinimas
 
 Kategorija
 
-Kancleris
+Seimo kontrolierių įstaigos kancleris
 
 27
 
@@ -7699,9 +7709,9 @@ vyresnysis inspektorius
 
 17–21
 
-Specialistas,
+Specialistas, inspektorius,
 
-inspektorius, pamainos vadas
+pamainos vadas
 
 15–20
 
@@ -8055,6 +8065,12 @@ Nr. IX-247, 2001 04 12, Žin., 2001, Nr.
 
 37-1231 (2001 05 02)
 
+Nr.
+
+IX-648,
+
+2001-12-13, Žin., 2001, Nr. 111-4024 (2001-12-30)
+
 Lietuvos
 
 Respublikos
@@ -8253,9 +8269,9 @@ VALSTYBĖS TARNYBOS
 
 ĮSTATYMO 2 STRAIPSNIO IR PRIEDĖLIO PAKEITIMO BEI PAPILDYMO ĮSTATYMAS
 
-Šis įstatymas įsigalioja nuo 2000 m.
+Šis įstatymas įsigalioja nuo 2000 m. lapkričio
 
-lapkričio 1 d.
+1 d.
 
 4.
 
@@ -8291,9 +8307,9 @@ VALSTYBĖS TARNYBOS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-129, 2000 12 21, Žin., 2000, Nr.
+Nr. IX-129, 2000 12 21, Žin., 2000, Nr. 111-3585
 
-111-3585 (2000 12 29)
+(2000 12 29)
 
 VALSTYBĖS TARNYBOS ĮSTATYMO 63, 67, 75 IR 77 STRAIPSNIŲ
 
@@ -8305,9 +8321,9 @@ sausio 1 d.
 
 7.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
 Nr. IX-133, 2000 12 23, Žin., 2000, Nr.
 
@@ -8391,13 +8407,27 @@ TARNYBOS ĮSTATYMO 62 IR 69 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 nuostatos taikomos nuo 2001 m. spalio 1 d.
 
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-648,
+
+2001-12-13, Žin., 2001, Nr. 111-4024 (2001-12-30)
+
+VALSTYBĖS
+
+TARNYBOS ĮSTATYMO 2 PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2001-10-31)
+Aušrinė Trapinskienė (2002-01-03)
 
 autrap@lrs.lt
 
