@@ -4,7 +4,7 @@ identifier: "TAR.ED38F243563C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "1998-06-09"
+last_updated: "1998-10-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1998.06.19)
+Lūžaitė (1998.11.11)
 
 Įstatymas
 
@@ -165,6 +165,26 @@ RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO 4, 5, 9 STRAIPSNIŲ PAPILDYMO IR
 
 PAKEITIMO ĮSTATYMAS
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-907, 98.10.22, Žin., 1998, Nr.98-2709 (98.11.11)
+
+LIETUVOS
+
+RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO 2, 12, 13 STRAIPSNIŲ PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 1999 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
@@ -195,7 +215,7 @@ Respublikos Prezidento valstybinė pensija;
 
 2)
 
-Lietuvos  Respublikos pirmojo  ir antrojo  laipsnių valstybinės pensijos;
+Lietuvos  Respublikos pirmojo  ir antrojo  laipsnių valstybinės pensijos;
 
 3)
 
@@ -305,9 +325,13 @@ pakeitimai:
 
 šaltinis ir dydžio matas
 
-Visos valstybinės pensijos mokamos iš Lietuvos
+Visos valstybinės pensijos mokamos iš
 
-Respublikos valstybės biudžeto.
+Lietuvos Respublikos valstybės biudžeto.
+
+[2 straipsnio 2 dalies redakcija iki 1999 m.
+
+sausio 1 d.]
 
 Valstybinių pensijų dydžio matas yra
 
@@ -319,6 +343,22 @@ bazę tvirtina Lietuvos Respublikos Vyriausybė Socialinės apsaugos ir darbo
 
 ministerijos teikimu.
 
+[2 straipsnio 2 dalies redakcija nuo 1999 m.
+
+sausio 1 d.]
+
+Šio įstatymo 1 straipsnio 1 dalies 2, 3 ir 5
+
+punktuose nurodytų valstybinių pensijų dydžio matas yra valstybinių pensijų
+
+bazė, kuri 1998 m. sausio 1 d. yra lygi tuo metu taikomam valstybinės
+
+socialinio draudimo bazinės pensijos dydžiui. Valstybinių pensijų bazę tvirtina
+
+Lietuvos Respublikos Vyriausybė Socialinės apsaugos ir darbo ministerijos
+
+teikimu.
+
 Straipsnio
 
 pakeitimai:
@@ -327,17 +367,21 @@ Nr. VIII-493,
 
 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
 
+Nr.
+
+VIII-907, 98.10.22, Žin., 1998, Nr.98-2709 (98.11.11)
+
 3
 
 straipsnis. Teisė pasirinkti valstybinės pensijos rūšį
 
-Asmeniui, turinčiam teisę gauti kelias valstybines
+Asmeniui, turinčiam teisę gauti kelias
 
-pensijas, jo pasirinkimu mokama tik viena iš jų, išskyrus valstybinę našlių ir
+valstybines pensijas, jo pasirinkimu mokama tik viena iš jų, išskyrus
 
-našlaičių pensiją, kuri taip pat gali būti mokama tik viena su viena iš
+valstybinę našlių ir našlaičių pensiją, kuri taip pat gali būti mokama tik
 
-valstybinių pensijų.
+viena su viena iš valstybinių pensijų.
 
 Asmeniui, turinčiam teisę gauti valstybinę
 
@@ -463,9 +507,9 @@ pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo komisijos teikimą.
 
 Antrojo
 
-laipsnio  valstybinę  pensiją  skiria  Lietuvos Respublikos pirmojo ir antrojo
+laipsnio  valstybinę  pensiją  skiria  Lietuvos Respublikos pirmojo ir antrojo laipsnių
 
-laipsnių valstybinių pensijų skyrimo komisija.
+valstybinių pensijų skyrimo komisija.
 
 Per vienerius kalendorinius metus negali būti paskirta daugiau kaip 15 pirmojo
 
@@ -489,9 +533,9 @@ Nepriklausomybės Akto signatarams pirmojo laipsnio valstybinę pensiją Lietuvo
 
 Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo komisijos
 
-teikimu skiria Vyriausybė, neribodama pirmojo laipsnio valstybinių pensijų
+teikimu skiria Vyriausybė, neribodama pirmojo laipsnio valstybinių pensijų skyrimo
 
-skyrimo per kalendorinius metus skaičiaus.
+per kalendorinius metus skaičiaus.
 
 Asmenims, teismo  nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo
 
@@ -699,15 +743,15 @@ valstybinė našlių ir našlaičių pensija tiems asmenims, tokiomis pačiomis
 
 sąlygomis ir gavėjui priklausiusios pensijos dalimis, kaip nurodyta Valstybinių
 
-socialinio draudimo pensijų įstatymo straipsniuose, reguliuojančiuose valstybines
+socialinio draudimo pensijų įstatymo straipsniuose, reguliuojančiuose
 
-socialinio draudimo našlių ir našlaičių pensijas. Ši nuostata taip pat
+valstybines socialinio draudimo našlių ir našlaičių pensijas. Ši
 
-taikoma mirus asmeniui, kuris pagal šio įstatymo 4 straipsnio ketvirtąją dalį
+nuostata taip pat taikoma mirus asmeniui, kuris pagal šio įstatymo 4 straipsnio
 
-ir 7 straipsnį būtų turėjęs teisę gauti pirmojo laipsnio valstybinę pensiją
+ketvirtąją dalį ir 7 straipsnį būtų turėjęs teisę gauti pirmojo laipsnio
 
-kaip sukakęs senatvės pensijos amžių.
+valstybinę pensiją kaip sukakęs senatvės pensijos amžių.
 
 Straipsnio
 
@@ -821,11 +865,11 @@ Nukentėjusiųjų
 
 asmenų valstybines pensijas turi teisę gauti nuolat Lietuvos Respublikoje
 
-gyvenantys Lietuvos Respublikos piliečiai, negaunantys iš kitos valstybės panašaus
+gyvenantys Lietuvos Respublikos piliečiai, negaunantys iš kitos valstybės
 
-pobūdžio pensijos (išskyrus socialinio draudimo pensiją) ar kitokios nuolatinės
+panašaus pobūdžio pensijos (išskyrus socialinio draudimo pensiją) ar kitokios
 
-kompensacinės išmokos:
+nuolatinės kompensacinės išmokos:
 
 1)
 
@@ -955,6 +999,10 @@ sausio 11-13 dienomis vykdytos agresijos ir po to
 
 buvusių įvykių asmenims ir jų šeimos nariams
 
+[12 straipsnio 1 dalies redakcija iki 1999 m.
+
+sausio 1 d.]
+
 Nukentėjusiųjų asmenų valstybinė pensija
 
 skiriama asmenims, tapusiems invalidais dėl 1991 metų sausio 11-13 dienomis
@@ -973,17 +1021,41 @@ iš valstybinio socialinio draudimo fondo;
 
 valstybinių pensijų bazės dydžio.
 
+[12 straipsnio 1 dalies redakcija nuo 1999 m.
+
+sausio 1 d.]
+
+Nukentėjusiųjų asmenų valstybinė
+
+pensija skiriama asmenims, tapusiems invalidais dėl 1991 metų sausio 11-13
+
+dienomis vykdytos agresijos ir po to buvusių įvykių. Ši pensija mokama
+
+asmenims:
+
+1) pripažintiems I grupės
+
+invalidais - 2 valstybinių pensijų bazių dydžio;
+
+2) pripažintiems II grupės
+
+invalidais - 1,5 valstybinių pensijų bazės dydžio;
+
+3) pripažintiems III grupės invalidais -
+
+valstybinių pensijų bazės dydžio.
+
 Nukentėjusiųjų asmenų valstybinė pensija
 
 skiriama asmenų, žuvusių dėl 1991 metų sausio 11-13 dienomis vykdytos agresijos
 
 ir po to buvusių įvykių, motinoms, sukakusioms 50 metų arba pripažintoms
 
-invalidėmis, taip pat tėvams, sukakusiems senatvės pensijos amžių arba
+invalidėmis, taip pat tėvams, sukakusiems senatvės pensijos amžių arba pripažintiems
 
-pripažintiems invalidais. Šiems asmenims mokama dviejų valstybinių pensijų
+invalidais. Šiems asmenims mokama dviejų valstybinių pensijų bazių dydžio
 
-bazių dydžio nukentėjusiųjų asmenų valstybinė pensija.
+nukentėjusiųjų asmenų valstybinė pensija.
 
 Straipsnio
 
@@ -996,6 +1068,10 @@ I-1123, 95.12.12, Žin., 1995, Nr. 102-2282 (95.12.15)
 Nr.
 
 VIII-493, 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
+
+Nr.
+
+VIII-907, 98.10.22, Žin., 1998, Nr.98-2709 (98.11.11)
 
 13
 
@@ -1012,6 +1088,10 @@ sukakusiems senatvės pensijos amžių, skiriama ir mokama nukentėjusiųjų asm
 valstybinė pensija valstybinių pensijų bazės dydžio, išskyrus šio straipsnio
 
 antrojoje dalyje numatytus atvejus.
+
+[13 straipsnio 2 dalies redakcija iki 1999 m.
+
+sausio 1 d.]
 
 Šio įstatymo 11 straipsnio pirmosios dalies
 
@@ -1043,6 +1123,40 @@ valstybinio socialinio draudimo fondo;
 
 pensijų bazės dydžio.
 
+[13 straipsnio 2 dalies redakcija nuo 1999 m.
+
+sausio 1 d.]
+
+Šio įstatymo 11 straipsnio
+
+pirmosios dalies 2-7 punktuose išvardytiems asmenims, kurie tapo invalidais
+
+neteisėto kalinimo ir tremties, rezistencijos ir pasipriešinimo sovietinei
+
+okupacijai veiksmų metu, būdami išvežti priverstiniams darbams, būdami getuose
+
+ir koncentracijos stovyklose, taip pat dalyvaudami karo veiksmuose bei
+
+atlikdami būtinąją karinę tarnybą ar karinius mokymus sovietinėje armijoje,
+
+arba vėliau buvo pripažinti invalidais dėl ligų, susijusių su karine tarnyba,
+
+ar dėl Černobylio atominės elektrinės avarijos padarinių likvidavimo darbų
+
+poveikio, nukentėjusiųjų asmenų valstybinė pensija mokama:
+
+1) pripažintiems I grupės
+
+invalidais - 2 valstybinių pensijų bazių dydžio;
+
+2) pripažintiems II grupės
+
+invalidais - 1,5 valstybinių pensijų bazės dydžio;
+
+3) pripažintiems III grupės invalidais - 0,75
+
+valstybinių pensijų bazės dydžio.
+
 Nukentėjusiųjų asmenų valstybinės pensijos
 
 taip pat skiriamos bei mokamos šio įstatymo 11 straipsnio antrosios dalies 2 ir
@@ -1066,6 +1180,10 @@ VIII-189, 97.04.22, Žin., 1997, Nr.38-925 (97.05.02)
 Nr.
 
 VIII-493, 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
+
+Nr.
+
+VIII-907, 98.10.22, Žin., 1998, Nr.98-2709 (98.11.11)
 
 14
 
@@ -1107,11 +1225,11 @@ našlaičių pensija taip pat skiriama:
 
 straipsnio pirmoji dalis);
 
-2) asmeniui žuvus rezistencijos ir pasipriešinimo
+2) asmeniui žuvus rezistencijos ir
 
-sovietinei okupacijai veiksmų metu, taip pat žuvus ar mirus neteisėto kalinimo
+pasipriešinimo sovietinei okupacijai veiksmų metu, taip pat žuvus ar mirus
 
-ar tremties metu;
+neteisėto kalinimo ar tremties metu;
 
 3) asmeniui mirus dėl Černobylio atominės
 
@@ -1125,11 +1243,11 @@ arba vėliau mirus dėl ligų, susijusių su karine tarnyba;
 
 5) mirus šio įstatymo 11 straipsnio pirmosios
 
-dalies 2, 3 ir 5 punktuose nurodytiems asmenims ir 11 straipsnio pirmosios dalies
+dalies 2, 3 ir 5 punktuose nurodytiems asmenims ir 11 straipsnio pirmosios
 
-4 ir 7 punktuose nurodytiems asmenims, kurie nustatyta tvarka iki mirties buvo
+dalies 4 ir 7 punktuose nurodytiems asmenims, kurie nustatyta tvarka iki
 
-pripažinti invalidais.
+mirties buvo pripažinti invalidais.
 
 Šio straipsnio trečiojoje dalyje nurodytų
 
@@ -1273,11 +1391,11 @@ Valstybinės našlių ir našlaičių pensijos skiriamos tik už asmenis, mirusi
 
 Iki
 
-šio  įstatymo įsigaliojimo  nukentėjusiems asmenims paskirtos pensijos
+šio  įstatymo įsigaliojimo  nukentėjusiems asmenims paskirtos pensijos perskaičiuojamos
 
-perskaičiuojamos šio įstatymo ir Valstybinių socialinio draudimo  pensijų
+šio įstatymo ir Valstybinių socialinio draudimo  pensijų įstatymo  nustatyta
 
-įstatymo  nustatyta tvarka bei terminais.
+tvarka bei terminais.
 
 Straipsnio
 
@@ -1297,7 +1415,7 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS                                ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                ALGIRDAS BRAZAUSKAS
 
 3 straipsnis.
 
