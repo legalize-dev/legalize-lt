@@ -4,7 +4,7 @@ identifier: "TAR.F789235C18BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-12-10"
-last_updated: "2003-01-01"
+last_updated: "2003-10-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2002-12-10"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
+
+Suvestinė redakcija nuo 2003-10-31 iki 2006-12-27
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
 
 LIETUVOS RESPUBLIKOS
 
@@ -133,7 +137,11 @@ VIDAUS AUDITAS
 
 6 straipsnis. Vidaus audito tarnybos steigimas
 
-1. Vidaus audito tarnybos turi būti įsteigtos Respublikos Prezidento institucijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje, ministerijose, apskričių viršininkų ir savivaldybių administracijose.
+1. Vidaus audito tarnybos turi būti įsteigtos Respublikos Prezidento institucijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje, ministerijose ir apskričių viršininkų administracijose. Savivaldybėse turi būti įsteigtos centralizuotos vidaus audito tarnybos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010ISTA0IX-1766
 
 2. Viešuosiuose juridiniuose asmenyse, išskyrus šio straipsnio 1 dalyje nurodytus viešuosius juridinius asmenis, vidaus audito tarnyba turi būti įsteigta, jeigu juose patvirtinta ne mažiau kaip 200 pareigybių (etatų), įskaitant jiems pavaldžių arba jų valdymo sričiai priskirtų viešųjų juridinių asmenų patvirtintas pareigybes (etatus).
 
@@ -275,65 +283,15 @@ BAIGIAMOSIOS NUOSTATOS
 
 2) šio Įstatymo 8 straipsnio 1 dalies 2 punktas ir 10 straipsnio 8 punktas įsigalioja nuo 2004 m. sausio 1 d.;
 
-3) šio Įstatymo 6 straipsnio 1, 2 ir 4 dalių nuostatos dėl vidaus audito tarnybos įsteigimo savivaldybių administracijose, joms pavaldžiuose ir jų valdymo sričiai priskirtuose viešuosiuose juridiniuose asmenyse ir 10 straipsnio 7 punkto nuostata dėl savivaldybių administracijos vadovo atsakomybės už vidaus audito tarnybos įsteigimą viešajame juridiniame asmenyje ir jos veikimą taikomos nuo 2004 m. sausio 1 d.;
+3) šio Įstatymo 6 straipsnio 1 dalies nuostata dėl centralizuotų vidaus audito tarnybų įsteigimo savivaldybėse ir 10 straipsnio 7 punkto nuostata dėl savivaldybės administracijos direktoriaus atsakomybės už centralizuotos vidaus audito tarnybos įsteigimą savivaldybėje ir jos veikimą taikomos nuo 2004 m. sausio 1 d.;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010ISTA0IX-1766
 
 4) šis Įstatymas be išlygų taikomas visiems viešiesiems juridiniams asmenims, išskyrus Lietuvos banką.
 
 4. Pasiūlyti Vyriausybei iki 2003 m. liepos 1 d. parengti ir pateikti Seimui įstatymų, reikalingų šio Įstatymo 11 straipsnio 3 dalies 3 punkte nurodytoms nuostatoms įgyvendinti, pakeitimo ir (arba) papildymo įstatymų projektus, taip pat parengti šiam Įstatymui įgyvendinti reikalingus įstatymų lydimuosius teisės aktus.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
-
-12 straipsnis. Vidaus auditorių kompetencija
-
-1. Vidaus auditorius, atlikdamas jam pavestas funkcijas, turi vadovautis šiuo įstatymu, viešojo juridinio asmens vadovo patvirtinta vidaus audito metodika ir kitais vidaus audito tarnybos veiklą reglamentuojančiais teisės aktais, atsižvelgti į tarptautinius vidaus audito profesinės praktikos standartus ir laikytis finansų ministro nustatytų vidaus auditorių profesinės etikos principų.
-
-2. Vidaus auditorius, atlikdamas jam pavestas funkcijas, turi teisę:
-
-1) naudotis visa viešojo juridinio asmens sukaupta informacija;
-
-2) gauti iš visų audituojamų subjektų vidaus auditui atlikti reikalingų dokumentų kopijas;
-
-3) pasirinktinai lankytis visuose audituojamuose subjektuose;
-
-4) per 5 darbo dienas nuo rašytinio prašymo pateikimo dienos gauti audituojamų subjektų vadovų ir darbuotojų rašytinius ir žodinius paaiškinimus;
-
-5) reikalauti iš audituojamų subjektų vadovų sudaryti sąlygas atlikti vidaus auditą, vidaus auditoriui savarankiškai dirbti ir parengti objektyvias išvadas;
-
-6) tobulinti savo kvalifikaciją.
-
-3. Vidaus auditorius, atlikdamas vidaus auditą, privalo:
-
-1) būti objektyvus ir nešališkas, susilaikyti nuo išankstinės nuomonės apie vertinimą ir vengti viešųjų ir privačių interesų konflikto;
-
-2) aptarti parengtą vidaus audito ataskaitos projektą su audituojamo subjekto vadovu ir su atsakingais už tą veiklos sritį darbuotojais;
-
-3) užtikrinti vidaus audito metu paimtų audituoti dokumentų saugumą;
-
-4) tvarkyti asmens duomenis vadovaudamasis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu;
-
-5) užtikrinti, kad vidaus auditas būtų atliekamas vadovaujantis šiuo įstatymu, viešojo juridinio asmens vadovo patvirtinta vidaus audito metodika ir kitais vidaus audito atlikimą reglamentuojančiais teisės aktais, atsižvelgiant į tarptautinius vidaus audito profesinės praktikos standartus.
-
-4. Vidaus auditorius vidaus audito tarnybos vadovo pavedimu turi atlikti pažangos stebėjimą.
-
-13 straipsnis. Viešojo juridinio asmens vadovo kompetencija vidaus audito srityje
-
-Viešojo juridinio asmens vadovas, veikdamas vidaus audito srityje:
-
-1) įsteigia vidaus audito tarnybą viešajame juridiniame asmenyje, kai ji turi būti steigiama pagal šio įstatymo 9 straipsnį, ir užtikrina jos veikimą;
-
-2) praneša Finansų ministerijai apie priimtą sprendimą įsteigti arba panaikinti vidaus audito tarnybą viešajam juridiniam asmeniui pavaldžiuose ir (arba) atskaitinguose viešuosiuose juridiniuose asmenyse per 10 darbo dienų po šio sprendimo priėmimo dienos;
-
-3) tvirtina ilgalaikius ir metinius vidaus audito tarnybos veiklos planus;
-
-4) priima sprendimą dėl vidaus audito paslaugų įsigijimo, kai jos gali būti įsigyjamos pagal šio įstatymo 9 straipsnio 7 dalį, ir užtikrina įsigytų vidaus audito paslaugų priežiūrą;
-
-5) vidaus audito tarnybos vadovo siūlymu priima sprendimą dėl atitinkamų sričių specialistų (ekspertų) pasitelkimo, kai atliekamas specifinių sričių vidaus auditas;
-
-6) įpareigoja audituojamo subjekto vadovą, kad šis per 5 darbo dienas susipažintų su vidaus audito tarnybos pateiktu vidaus audito ataskaitos projektu ir pateiktų dėl jo nuomonę vidaus audito tarnybai;
-
-7) gavęs vidaus audito ataskaitą, ne vėliau kaip per 15 darbo dienų priima sprendimą įgyvendinti vidaus audito ataskaitoje pateiktas rekomendacijas arba jų neįgyvendinti, prisiimdamas su tuo susijusią riziką, arba įpareigoja audituojamo subjekto (viešajam juridiniam asmeniui pavaldaus ir (arba) atskaitingo viešojo juridinio asmens) vadovą, gavusį vidaus audito ataskaitą, ne vėliau kaip per 15 darbo dienų priimti sprendimą dėl vidaus audito rekomendacijų. Jeigu audituojamo subjekto (viešajam juridiniam asmeniui pavaldaus ir (arba) atskaitingo viešojo juridinio asmens) vadovas nesutinka su vidaus audito ataskaitoje pateiktomis rekomendacijomis ir pateikė viešojo juridinio asmens, kuriam audituojamas subjektas yra pavaldus ir (arba) atskaitingas, vadovui ir vidaus audito tarnybos vadovui pagrįstus motyvus dėl nesutikimo su vidaus audito ataskaitoje pateiktomis rekomendacijomis, viešojo juridinio asmens, kuriam audituojamas subjektas yra pavaldus ir (arba) atskaitingas, vadovas priima sprendimą įgyvendinti vidaus audito ataskaitoje pateiktas rekomendacijas arba jų neįgyvendinti, prisiimdamas su tuo susijusią riziką, ir įpareigoja audituojamo subjekto (viešajam juridiniam asmeniui pavaldaus ir (arba) atskaitingo viešojo juridinio asmens) vadovą įgyvendinti šį sprendimą.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -348,76 +306,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010ISTA0IX-1766
 
 Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 ir 11 straipsnių pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-806, 2006-09-14, Žin., 2006, Nr. 107-4044 (2006-10-06), i. k. 1061010ISTA000X-806
-
-Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 2, 6 straipsnių pakeitimo ir papildymo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-944, 2006-12-05, Žin., 2006, Nr. 141-5390 (2006-12-28), i. k. 1061010ISTA000X-944
-
-Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 8 ir 11 straipsnių pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1049, 2007-01-18, Žin., 2007, Nr. 17-632 (2007-02-08), i. k. 1071010ISTA00X-1049
-
-Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
-
-Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 2, 5, 6, 7, 8 ir 11 straipsnių pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-326, 2009-07-07, Žin., 2009, Nr. 85-3583 (2009-07-18), i. k. 1091010ISTA00XI-326
-
-Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-707, 2010-03-30, Žin., 2010, Nr. 41-1932 (2010-04-10), i. k. 1101010ISTA00XI-707
-
-Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-160, 2013-01-17, Žin., 2013, Nr. 11-504 (2013-01-30), i. k. 1131010ISTA0XII-160
-
-Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1157, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08263
-
-Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo Nr. IX-1253 2 ir 4 straipsnių pakeitimo įstatymas
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2312, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12392
-
-Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo Nr. IX-1253 pakeitimo įstatymas
 
