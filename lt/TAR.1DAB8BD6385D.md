@@ -4,7 +4,7 @@ identifier: "TAR.1DAB8BD6385D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2001-04-19"
+last_updated: "2003-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DAB8BD6385D"
 department: "Lietuvos Respublikos Seimas"
@@ -25,7 +25,7 @@ Neoficialus įstatymo tekstas
 
 LIETUVOS RESPUBLIKOS ĮSTATYMAS
 
-1995 m. balandžio 18 d. Nr.I-856
+1995 m. balandžio 18 d. Nr. I-856
 
 Vilnius
 
@@ -215,11 +215,9 @@ institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus;
 
 2)
 
-aprobuoja teismų sprendimus, į kurių išaiškinimus turi atsižvelgti teismai,
+aprobuoja teismų sprendimus, į kurių išaiškinimus turi atsižvelgti teismai, valstybinės,
 
-valstybinės, kitos institucijos, taip pat kiti subjektai taikydami tuos pačius
-
-įstatymus;
+kitos institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus;
 
 3)
 
@@ -305,13 +303,15 @@ Nr. I-1433, 96.07.04,
 
 7
 
-straipsnis. Aukščiausiojo Teismo senato
+straipsnis. Aukščiausiojo Teismo
 
-pirmininkas, gavęs skundų dėl teisėjų garbės teismų sprendimų, esant reikalui,
+senato pirmininkas, gavęs skundų dėl teisėjų garbės teismų sprendimų, esant
 
-gali pavesti Aukščiausiojo Teismo teisėjui atlikti papildomą patikrinimą. Jis
+reikalui, gali pavesti Aukščiausiojo Teismo teisėjui atlikti papildomą
 
-turi būti baigtas prieš dvi savaites iki Aukščiausiojo Teismo senato posėdžio.
+patikrinimą. Jis turi būti baigtas prieš dvi savaites iki Aukščiausiojo Teismo
+
+senato posėdžio.
 
 Aukščiausiojo
 
@@ -543,9 +543,9 @@ paskiria bylos pranešėją;
 
 teikia Aukščiausiojo Teismo senatui aprobuoti teismų sprendimus, į kuriuos turi
 
-atsižvelgti teismai, valstybinės ir kitos institucijos, taip pat kiti subjektai,
+atsižvelgti teismai, valstybinės ir kitos institucijos, taip pat kiti
 
-taikydami tuos pačius įstatymus;
+subjektai, taikydami tuos pačius įstatymus;
 
 10)
 
@@ -613,9 +613,9 @@ pasižadėjimo turinį ir formą;
 
 21)
 
-teikia teikimus Teisėjų tarybai dėl Teisėjų tarybos posėdžių sušaukimo, o
+teikia teikimus Teisėjų tarybai dėl Teisėjų tarybos posėdžių sušaukimo, o būdamas
 
-būdamas Teisėjų tarybos pirmininku, pats šaukia Teisėjų tarybos posėdžius;
+Teisėjų tarybos pirmininku, pats šaukia Teisėjų tarybos posėdžius;
 
 22)
 
@@ -781,9 +781,11 @@ Nr. I-1433, 96.07.04,
 
 V skyrius. AUKŠČIAUSIOJO TEISMO PIRMININKO, SKYRIŲ
 
-PIRMININKŲ IR TEISĖJŲ
+PIRMININKŲ IR
 
-SKYRIMO BEI ATLEIDIMO AR PAŠALINIMO IŠ PAREIGŲ TVARKA.
+TEISĖJŲ SKYRIMO BEI ATLEIDIMO AR PAŠALINIMO IŠ PAREIGŲ
+
+TVARKA.
 
 AUKŠČIAUSIOJO TEISMO TEISĖJŲ ĮGALIOJIMŲ SUSTABDYMAS
 
@@ -851,9 +853,9 @@ pirmininką atleidus iš pareigų, Aukščiausiojo Teismo pirmininkas kitą skyr
 
 pirmininko kandidatūrą pateikia svarstyti Aukščiausiojo Teismo senatui.
 
-Aukščiausiojo Teismo senatui pritarus, skyriaus pirmininko kandidatūra
+Aukščiausiojo Teismo senatui pritarus, skyriaus pirmininko kandidatūra pateikiama
 
-pateikiama Respublikos Prezidentui.
+Respublikos Prezidentui.
 
 Asmuo,
 
@@ -919,333 +921,9 @@ teisėjai, be to, dar ir pasibaigus įgaliojimų laikui.
 
 Aukščiausiojo Teismo
 
-teisėjai ir skyrių pirmininkai atleidžiami iš pareigų Seimo nutarimu pagal Respublikos
+teisėjai ir skyrių pirmininkai atleidžiami iš pareigų Seimo nutarimu pagal
 
-Prezidento teikimą, pasiūlius Aukščiausiojo Teismo pirmininkui.
-
-Straipsnio pakeitimai:
-
-Nr. I-1433, 96.07.04,
-
-Žin., 1996, Nr. 67-1601 (96.07.17)
-
-19
-
-straipsnis. Aukščiausiojo Teismo pirmininką, skyrių pirmininkus ir teisėjus
-
-už šiurkštų Lietuvos Respublikos Konstitucijos pažeidimą arba priesaikos
-
-sulaužymą, taip pat paaiškėjus, jog padarytas nusikaltimas, Seimas gali
-
-pašalinti iš pareigų apkaltos proceso tvarka.
-
-20
-
-straipsnis. Aukščiausiojo Teismo teisėjai ir skyrių pirmininkai atsako
-
-drausmine tvarka Teisėjų garbės teisme, kurio tikslai yra saugoti Teismo
-
-autoritetą ir teisėjo vardo garbę, užtikrinti darbo drausmę.
-
-Aukščiausiojo Teismo
-
-teisėjų garbės teismą iš trijų narių renka Aukščiausiojo Teismo senatas
-
-penkeriems metams. Aukščiausiojo Teismo teisėjų garbės teismas nagrinėja
-
-Aukščiausiojo Teismo teisėjų drausmines bylas vadovaudamasis Lietuvos
-
-Respublikos teismų įstatymu ir Aukščiausiojo Teismo senato patvirtintais
-
-Aukščiausiojo Teismo teisėjų garbės teismo nuostatais.
-
-Straipsnio pakeitimai:
-
-Nr. I-1433, 96.07.04,
-
-Žin., 1996, Nr. 67-1601 (96.07.17)
-
-VI skyrius. AUKŠČIAUSIOJO TEISMO TEISĖJŲ STATUSAS
-
-IR NEPRIKLAUSOMUMO GARANTIJOS
-
-21
-
-straipsnis. Teisėjas ir teismas,
-
-vykdydamas teisingumą, yra nepriklausomi. Teisėjai, nagrinėdami bylas, klauso
-
-tik įstatymo.
-
-Priimdamas
-
-sprendimą teismas vadovaujasi tais įstatymais, kurie neprieštarauja Lietuvos
-
-Respublikos Konstitucijai, įstatymams neprieštaraujančiais Vyriausybės
-
-nutarimais, įstatymams ir Vyriausybės nutarimams neprieštaraujančiais kitais
-
-norminiais aktais.
-
-Valstybinės
-
-valdžios ir valdymo institucijų, Seimo narių ir kitų pareigūnų, politinių
-
-partijų, politinių ir visuomeninių organizacijų ar piliečių kišimasis į teisėjo
-
-ar teismo veiklą draudžiamas ir užtraukia baudžiamąją atsakomybę.
-
-Mitingai,
-
-piketai bei kitokie grupių ar pavienių asmenų veiksmai arčiau negu 75 metrai
-
-iki Teismo pastato ir Teisme, jeigu jais siekiama paveikti teisėją arba teismą,
-
-yra baudžiami kaip kišimasis į teisėjų ar teismo veiklą.
-
-22
-
-straipsnis. Teisėjas negali būti
-
-patrauktas baudžiamojon atsakomybėn, suimtas, negali būti kitaip suvaržyta jo
-
-laisvė be Seimo, o tarp Seimo sesijų - be Respublikos Prezidento sutikimo.
-
-Baudžiamąją
-
-bylą teisėjui gali iškelti tik generalinis prokuroras.
-
-Jeigu teisėjui
-
-iškeliama baudžiamoji byla, jo įgaliojimus sustabdo Seimas, o tarp Seimo sesijų
-
-- Respublikos Prezidentas. Teisėjo įgaliojimai sustabdomi iki nuosprendžio
-
-baudžiamojoje byloje įsiteisėjimo.
-
-Teisėjas
-
-negali būti patrauktas administracinėn atsakomybėn. Jeigu teisėjas padaro
-
-administracinį teisės pažeidimą, Aukščiausiojo Teismo pirmininkas sprendžia
-
-drausminės bylos iškėlimo klausimą.
-
-23
-
-straipsnis. Aukščiausiojo Teismo
-
-pirmininkui skiriama pirmojo laipsnio valstybinė pensija, jei jis bent dvejus
-
-metus ėjo šias pareigas. Ši pensija yra skiriama asmeniui, sulaukusiam senatvės
-
-pensijos amžiaus arba pripažintam I ar II grupės invalidu. Pensija negali būti
-
-skiriama, o paskirtoji turi būti panaikinama, jeigu Aukščiausiojo Teismo
-
-pirmininkas atleistas iš pareigų apkaltos tvarka arba po atleidimo iš pareigų
-
-buvo teistas už tyčinio nusikaltimo padarymą.
-
-Aukščiausiojo
-
-Teismo teisėjų pensinį aprūpinimą reguliuoja Lietuvos Respublikos valstybinių
-
-pensijų įstatymas ir kiti įstatymai.
-
-Aukščiausiojo
-
-Teismo teisėjų invalidumo pensijos ir pensijos dėl sužeidimo (suluošinimo) ar
-
-profesinio susirgimo skiriamos pagal Lietuvos Respublikos prokuratūros prie
-
-Lietuvos Aukščiausiojo Teismo pensijų skyrimo ir mokėjimo nuostatas.
-
-24
-
-straipsnis. Aukščiausiojo Teismo
-
-teisėjui padaryta žala sunaikinant arba sužalojant jo arba jo šeimos nariams
-
-priklausantį turtą dėl priežasčių, susijusių su jo tarnybine veikla, atlyginama
-
-teisėjui arba jo šeimos nariams valstybės lėšomis Vyriausybės nustatyta tvarka.
-
-25
-
-straipsnis. Kai Aukščiausiojo Teismo
-
-teisėjas atleidžiamas iš pareigų pasibaigus įgaliojimams, sulaukus įstatymo
-
-nustatyto pensinio amžiaus ar dėl sveikatos būklės, jam išmokama 6 mėnesių jo
-
-vidutinio darbo užmokesčio dydžio išeitinė pašalpa. Aukščiausiojo Teismo
-
-teisėjui mirus, tokio pat dydžio pašalpa išmokama jo šeimai. Kai Aukščiausiojo
-
-Teismo teisėjas atleidžiamas iš pareigų savo noru, išrinkus į kitas pareigas ar
-
-jo sutikimu perkėlus į kitą darbą, jam išmokama 2 mėnesių jo vidutinio darbo
-
-užmokesčio dydžio išeitinė pašalpa. Teisėjui, pašalintam iš pareigų apkaltos
-
-proceso tvarka arba atleistam įsiteisėjus teisėją apkaltinusiam teismo
-
-nuosprendžiui arba pažeminus teisėjo vardą, išeitinė pašalpa nemokama.
-
-26
-
-straipsnis. Aukščiausiojo Teismo teisėjui žuvus dėl priežasčių, susijusių
-
-su tarnyba, jo šeimai išmokama 10 metų teisėjo mėnesinio darbo užmokesčio
-
-dydžio kompensacija. Žuvusysis laidojamas valstybės lėšomis.
-
-Teisėjui,
-
-sužeistam dėl priežasčių, susijusių su tarnyba, taip pat dėl profesinės ligos
-
-tapusiam invalidu, išmokama kompensacija:
-
-I
-
-grupės invalidui - 60 mėnesių teisėjo darbo užmokesčio dydžio;
-
-II
-
-grupės invalidui - 48 mėnesių teisėjo darbo užmokesčio dydžio;
-
-III
-
-grupės invalidui - 36 mėnesių teisėjo darbo užmokesčio dydžio;
-
-sunkaus ar apysunkio
-
-sužeidimo (suluošinimo) atveju - 24 mėnesių teisėjo darbo užmokesčio dydžio;
-
-lengvo
-
-sužeidimo (suluošinimo) atveju - 12 mėnesių teisėjo darbo užmokesčio dydžio.
-
-Teisėjo
-
-žuvimo ar sužeidimo (suluošinimo) dėl priežasčių, susijusių su tarnyba, taip
-
-pat profesinio susirgimo atvejais kompensacijos dydis apskaičiuojamas pagal
-
-įvykio ar profesinio susirgimo nustatymo metu gautą jo darbo užmokestį.
-
-Teisėjai
-
-valstybės lėšomis apdraudžiami nuo nelaimingų atsitikimų einant tarnybines
-
-pareigas.
-
-VII skyrius. AUKŠČIAUSIOJO TEISMO APARATAS
-
-27
-
-straipsnis. Aukščiausiojo Teismo
-
-aparatą sudaro Aukščiausiojo Teismo kancleris, Aukščiausiojo Teismo raštinė,
-
-Baudžiamųjų ir Civilinių bylų skyrių raštinės, Teismų praktikos baudžiamosiose
-
-ir civilinėse bylose apibendrinimo sektoriai, Normatyvinės informacijos centras
-
-bei kiti struktūriniai padaliniai.
-
-Aukščiausiojo
-
-Teismo pirmininkas ir Aukščiausiojo Teismo skyrių pirmininkai turi patarėjus ir
-
-padėjėjus, kurie jiems padeda atlikti pareigines funkcijas.
-
-Aukščiausiojo
-
-Teismo teisėjai turi padėjėjus, kurie padeda jiems parengti bylas, kasacinius
-
-teikimus ir kasacinius skundus nagrinėjimui teismo posėdžiuose, padeda vykdyti
-
-kitas teisėjų pareigas, išskyrus teisingumo vykdymą.
-
-28
-
-straipsnis. Aukščiausiojo Teismo
-
-vidaus veiklą organizuoja Aukščiausiojo Teismo kancleris, kurį skiria,
-
-atleidžia iš pareigų ir kurio kompetenciją nustato Aukščiausiojo Teismo
-
-pirmininkas.
-
-Aukščiausiojo Teismo
-
-kancleris yra atsakingas Aukščiausiojo Teismo pirmininkui.
-
-29
-
-straipsnis. Aukščiausiojo Teismo
-
-kancleris, organizuodamas ir kontroliuodamas Teismo aparato struktūrinių
-
-padalinių, išskyrus Aukščiausiojo Teismo pirmininko sekretoriatą, veiklą, turi
-
-šias teises ir pareigas:
-
-1)
-
-atsako už tai, kad Aukščiausiojo Teismo aparato struktūriniai padaliniai
-
-atliktų jiems pavestas funkcijas;
-
-2)
-
-užtikrina tinkamą teismo posėdžių organizavimą, rimtį ir tvarką teisme;
-
-3)
-
-atsako už Aukščiausiojo Teismo raštvedybą;
-
-4)
-
-sprendžia Aukščiausiojo Teismo ūkinius ir finansinius klausimus;
-
-5)
-
-Aukščiausiojo Teismo pirmininkui sutikus, priima į darbą Aukščiausiojo Teismo
-
-darbuotojus, atliekančius ūkines ir technines funkcijas;
-
-6)
-
-organizuoja lankytojų priėmimą Aukščiausiojo Teismo priimamajame;
-
-7)
-
-atsako už informacinės medžiagos apie Aukščiausiojo Teismo veiklą kaupimą;
-
-8)
-
-vykdo kitus Aukščiausiojo Teismo pirmininko pavedimus.
-
-Aukščiausiojo
-
-Teismo kancleris savo kompetencijos klausimais leidžia įsakymus.
-
-VIII skyrius. KITI KLAUSIMAI
-
-30
-
-straipsnis. Lietuvos Aukščiausiasis Teismas kas ketvirtį leidžia biuletenį,
-
-kuriame skelbia Aukščiausiojo Teismo senato sprendimus, Senato aprobuotus
-
-Aukščiausiojo Teismo kolegijų ir kitų teismų sprendimus, taip pat metodinę
-
-medžiagą apie įstatymų taikymo praktiką bei teismų praktikos apžvalgas, kurioms
-
-pritarė Aukščiausiojo Teismo senatas.
+Respublikos Prezidento teikimą, pasiūlius Aukščiausiojo Teismo pirmininkui.
 
 Straipsnio pakeitimai:
 
@@ -3325,7 +3003,7 @@ RESPUBLIKOS
 
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
 
-____________
+_________________
 
 Pakeitimai:
 
@@ -3407,11 +3085,35 @@ LIETUVOS AUKŠČIAUSIOJO
 
 TEISMO STATUTO 31 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
-*** Pabaiga ***
+4.
 
-Redagavo: Aušrinė
+Lietuvos
 
-Trapinskienė (2001 05 11)
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1445,
+
+2003-04-03, Žin., 2003, Nr. 38-1690 (2003-04-24)
+
+LIETUVOS
+
+AUKŠČIAUSIOJO TEISMO STATUTO 19 IR 23 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja kartu su
+
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+
+2003 m. gegužės 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2003-05-09)
 
 autrap@lrs.lt
 
@@ -3476,4 +3178,344 @@ RESPUBLIKOS
 PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
 
 _
+
+19 straipsnis.
+
+Aukščiausiojo Teismo pirmininką, skyrių pirmininkus ir teisėjus už šiurkštų
+
+Lietuvos Respublikos Konstitucijos pažeidimą arba priesaikos sulaužymą, taip
+
+pat paaiškėjus, jog padaryta nusikalstama veika, Seimas gali pašalinti iš
+
+pareigų apkaltos proceso tvarka.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-1445,
+
+2003-04-03, Žin., 2003, Nr. 38-1690 (2003-04-24)
+
+20
+
+straipsnis. Aukščiausiojo Teismo teisėjai ir skyrių pirmininkai atsako
+
+drausmine tvarka Teisėjų garbės teisme, kurio tikslai yra saugoti Teismo
+
+autoritetą ir teisėjo vardo garbę, užtikrinti darbo drausmę.
+
+Aukščiausiojo Teismo
+
+teisėjų garbės teismą iš trijų narių renka Aukščiausiojo Teismo senatas
+
+penkeriems metams. Aukščiausiojo Teismo teisėjų garbės teismas nagrinėja
+
+Aukščiausiojo Teismo teisėjų drausmines bylas vadovaudamasis Lietuvos
+
+Respublikos teismų įstatymu ir Aukščiausiojo Teismo senato patvirtintais
+
+Aukščiausiojo Teismo teisėjų garbės teismo nuostatais.
+
+Straipsnio pakeitimai:
+
+Nr. I-1433, 96.07.04,
+
+Žin., 1996, Nr. 67-1601 (96.07.17)
+
+VI skyrius. AUKŠČIAUSIOJO TEISMO TEISĖJŲ STATUSAS
+
+IR NEPRIKLAUSOMUMO GARANTIJOS
+
+21
+
+straipsnis. Teisėjas ir teismas,
+
+vykdydamas teisingumą, yra nepriklausomi. Teisėjai, nagrinėdami bylas, klauso tik
+
+įstatymo.
+
+Priimdamas
+
+sprendimą teismas vadovaujasi tais įstatymais, kurie neprieštarauja Lietuvos
+
+Respublikos Konstitucijai, įstatymams neprieštaraujančiais Vyriausybės
+
+nutarimais, įstatymams ir Vyriausybės nutarimams neprieštaraujančiais kitais
+
+norminiais aktais.
+
+Valstybinės
+
+valdžios ir valdymo institucijų, Seimo narių ir kitų pareigūnų, politinių
+
+partijų, politinių ir visuomeninių organizacijų ar piliečių kišimasis į teisėjo
+
+ar teismo veiklą draudžiamas ir užtraukia baudžiamąją atsakomybę.
+
+Mitingai,
+
+piketai bei kitokie grupių ar pavienių asmenų veiksmai arčiau negu 75 metrai
+
+iki Teismo pastato ir Teisme, jeigu jais siekiama paveikti teisėją arba teismą,
+
+yra baudžiami kaip kišimasis į teisėjų ar teismo veiklą.
+
+22
+
+straipsnis. Teisėjas negali būti patrauktas
+
+baudžiamojon atsakomybėn, suimtas, negali būti kitaip suvaržyta jo laisvė be
+
+Seimo, o tarp Seimo sesijų - be Respublikos Prezidento sutikimo.
+
+Baudžiamąją
+
+bylą teisėjui gali iškelti tik generalinis prokuroras.
+
+Jeigu teisėjui
+
+iškeliama baudžiamoji byla, jo įgaliojimus sustabdo Seimas, o tarp Seimo sesijų
+
+- Respublikos Prezidentas. Teisėjo įgaliojimai sustabdomi iki nuosprendžio
+
+baudžiamojoje byloje įsiteisėjimo.
+
+Teisėjas
+
+negali būti patrauktas administracinėn atsakomybėn. Jeigu teisėjas padaro administracinį
+
+teisės pažeidimą, Aukščiausiojo Teismo pirmininkas sprendžia drausminės bylos
+
+iškėlimo klausimą.
+
+23
+
+straipsnis. Aukščiausiojo Teismo
+
+pirmininkui skiriama pirmojo laipsnio valstybinė pensija, jei jis bent dvejus
+
+metus ėjo šias pareigas. Ši pensija yra skiriama asmeniui, sulaukusiam senatvės
+
+pensijos amžiaus arba pripažintam I ar II grupės invalidu. Pensija negali būti
+
+skiriama, o paskirtoji turi būti panaikinama, jeigu Aukščiausiojo Teismo
+
+pirmininkas atleistas iš pareigų apkaltos tvarka arba po atleidimo iš pareigų
+
+buvo teistas už tyčinės nusikalstamos veikos padarymą.
+
+Aukščiausiojo
+
+Teismo teisėjų pensinį aprūpinimą reguliuoja Lietuvos Respublikos valstybinių
+
+pensijų įstatymas ir kiti įstatymai.
+
+Aukščiausiojo
+
+Teismo teisėjų invalidumo pensijos ir pensijos dėl sužeidimo (suluošinimo) ar
+
+profesinio susirgimo skiriamos pagal Lietuvos Respublikos prokuratūros prie
+
+Lietuvos Aukščiausiojo Teismo pensijų skyrimo ir mokėjimo nuostatas.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-1445,
+
+2003-04-03, Žin., 2003, Nr. 38-1690 (2003-04-24)
+
+24
+
+straipsnis. Aukščiausiojo Teismo
+
+teisėjui padaryta žala sunaikinant arba sužalojant jo arba jo šeimos nariams
+
+priklausantį turtą dėl priežasčių, susijusių su jo tarnybine veikla, atlyginama
+
+teisėjui arba jo šeimos nariams valstybės lėšomis Vyriausybės nustatyta tvarka.
+
+25
+
+straipsnis. Kai Aukščiausiojo Teismo
+
+teisėjas atleidžiamas iš pareigų pasibaigus įgaliojimams, sulaukus įstatymo
+
+nustatyto pensinio amžiaus ar dėl sveikatos būklės, jam išmokama 6 mėnesių jo
+
+vidutinio darbo užmokesčio dydžio išeitinė pašalpa. Aukščiausiojo Teismo
+
+teisėjui mirus, tokio pat dydžio pašalpa išmokama jo šeimai. Kai Aukščiausiojo
+
+Teismo teisėjas atleidžiamas iš pareigų savo noru, išrinkus į kitas pareigas ar
+
+jo sutikimu perkėlus į kitą darbą, jam išmokama 2 mėnesių jo vidutinio darbo
+
+užmokesčio dydžio išeitinė pašalpa. Teisėjui, pašalintam iš pareigų apkaltos
+
+proceso tvarka arba atleistam įsiteisėjus teisėją apkaltinusiam teismo nuosprendžiui
+
+arba pažeminus teisėjo vardą, išeitinė pašalpa nemokama.
+
+26
+
+straipsnis. Aukščiausiojo Teismo teisėjui žuvus dėl priežasčių, susijusių
+
+su tarnyba, jo šeimai išmokama 10 metų teisėjo mėnesinio darbo užmokesčio
+
+dydžio kompensacija. Žuvusysis laidojamas valstybės lėšomis.
+
+Teisėjui,
+
+sužeistam dėl priežasčių, susijusių su tarnyba, taip pat dėl profesinės ligos
+
+tapusiam invalidu, išmokama kompensacija:
+
+I
+
+grupės invalidui - 60 mėnesių teisėjo darbo užmokesčio dydžio;
+
+II
+
+grupės invalidui - 48 mėnesių teisėjo darbo užmokesčio dydžio;
+
+III
+
+grupės invalidui - 36 mėnesių teisėjo darbo užmokesčio dydžio;
+
+sunkaus ar apysunkio
+
+sužeidimo (suluošinimo) atveju - 24 mėnesių teisėjo darbo užmokesčio dydžio;
+
+lengvo
+
+sužeidimo (suluošinimo) atveju - 12 mėnesių teisėjo darbo užmokesčio dydžio.
+
+Teisėjo
+
+žuvimo ar sužeidimo (suluošinimo) dėl priežasčių, susijusių su tarnyba, taip
+
+pat profesinio susirgimo atvejais kompensacijos dydis apskaičiuojamas pagal
+
+įvykio ar profesinio susirgimo nustatymo metu gautą jo darbo užmokestį.
+
+Teisėjai
+
+valstybės lėšomis apdraudžiami nuo nelaimingų atsitikimų einant tarnybines
+
+pareigas.
+
+VII skyrius. AUKŠČIAUSIOJO TEISMO APARATAS
+
+27
+
+straipsnis. Aukščiausiojo Teismo
+
+aparatą sudaro Aukščiausiojo Teismo kancleris, Aukščiausiojo Teismo raštinė,
+
+Baudžiamųjų ir Civilinių bylų skyrių raštinės, Teismų praktikos baudžiamosiose
+
+ir civilinėse bylose apibendrinimo sektoriai, Normatyvinės informacijos centras
+
+bei kiti struktūriniai padaliniai.
+
+Aukščiausiojo
+
+Teismo pirmininkas ir Aukščiausiojo Teismo skyrių pirmininkai turi patarėjus ir
+
+padėjėjus, kurie jiems padeda atlikti pareigines funkcijas.
+
+Aukščiausiojo
+
+Teismo teisėjai turi padėjėjus, kurie padeda jiems parengti bylas, kasacinius
+
+teikimus ir kasacinius skundus nagrinėjimui teismo posėdžiuose, padeda vykdyti
+
+kitas teisėjų pareigas, išskyrus teisingumo vykdymą.
+
+28
+
+straipsnis. Aukščiausiojo Teismo
+
+vidaus veiklą organizuoja Aukščiausiojo Teismo kancleris, kurį skiria,
+
+atleidžia iš pareigų ir kurio kompetenciją nustato Aukščiausiojo Teismo
+
+pirmininkas.
+
+Aukščiausiojo Teismo
+
+kancleris yra atsakingas Aukščiausiojo Teismo pirmininkui.
+
+29
+
+straipsnis. Aukščiausiojo Teismo
+
+kancleris, organizuodamas ir kontroliuodamas Teismo aparato struktūrinių
+
+padalinių, išskyrus Aukščiausiojo Teismo pirmininko sekretoriatą, veiklą, turi
+
+šias teises ir pareigas:
+
+1)
+
+atsako už tai, kad Aukščiausiojo Teismo aparato struktūriniai padaliniai
+
+atliktų jiems pavestas funkcijas;
+
+2)
+
+užtikrina tinkamą teismo posėdžių organizavimą, rimtį ir tvarką teisme;
+
+3)
+
+atsako už Aukščiausiojo Teismo raštvedybą;
+
+4)
+
+sprendžia Aukščiausiojo Teismo ūkinius ir finansinius klausimus;
+
+5)
+
+Aukščiausiojo Teismo pirmininkui sutikus, priima į darbą Aukščiausiojo Teismo
+
+darbuotojus, atliekančius ūkines ir technines funkcijas;
+
+6)
+
+organizuoja lankytojų priėmimą Aukščiausiojo Teismo priimamajame;
+
+7)
+
+atsako už informacinės medžiagos apie Aukščiausiojo Teismo veiklą kaupimą;
+
+8)
+
+vykdo kitus Aukščiausiojo Teismo pirmininko pavedimus.
+
+Aukščiausiojo
+
+Teismo kancleris savo kompetencijos klausimais leidžia įsakymus.
+
+VIII skyrius. KITI KLAUSIMAI
+
+30
+
+straipsnis. Lietuvos Aukščiausiasis Teismas kas ketvirtį leidžia biuletenį,
+
+kuriame skelbia Aukščiausiojo Teismo senato sprendimus, Senato aprobuotus
+
+Aukščiausiojo Teismo kolegijų ir kitų teismų sprendimus, taip pat metodinę
+
+medžiagą apie įstatymų taikymo praktiką bei teismų praktikos apžvalgas, kurioms
+
+pritarė Aukščiausiojo Teismo senatas.
+
+Straipsnio pakeitimai:
+
+Nr. I-1433, 96.07.04,
+
+Žin., 1996, Nr. 67-1601 (96.07.17)
 
