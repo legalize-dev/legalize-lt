@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2003-10-14"
+last_updated: "2003-11-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -10054,21 +10054,39 @@ straipsnis. Įstatymo įsigaliojimas
 
 2. Šio
 
-Įstatymo 19 straipsnio 3 dalies 2 punktas įsigalioja nuo 2003 m. sausio
+Įstatymo 19 straipsnio 3 dalies 2 punktas įsigalioja nuo 2003 m. sausio 1 d.
 
-1 d. Iki 2002 m. gruodžio 31 d. knygų, laikraščių ir žurnalų, išskyrus erotinio
+Iki 2002 m. gruodžio 31 d. knygų, laikraščių ir žurnalų, išskyrus erotinio ir
 
-ir smurtinio pobūdžio leidinius, kuriuos tokiais pripažino teisės aktų įgaliota
+smurtinio pobūdžio leidinius, kuriuos tokiais pripažino teisės aktų įgaliota
 
 institucija, spausdinimas, leidyba ir platinimas, taip pat laikraštinis
 
 popierius PVM neapmokestinami.
 
+3 dalies redakcija iki 2004 m. sausio 1 d.:
+
 3. Šio
 
-Įstatymo 19 straipsnio 3 dalies 3 punktas įsigalioja nuo 2004 m. sausio
+Įstatymo 19 straipsnio 3 dalies 3 punktas įsigalioja nuo 2004 m. sausio 1 d.
 
-1 d. Iki 2003 m. gruodžio 31 d. vaistai bei Lietuvos Respublikos Vyriausybės
+Iki 2003 m. gruodžio 31 d. vaistai bei Lietuvos Respublikos Vyriausybės
+
+patvirtintame sąraše nurodytos medicinos prekės PVM neapmokestinamos, tačiau
+
+Lietuvos Respublikos Vyriausybė turi teisę patvirtinti vaistų ir medicinos
+
+prekių, kurios apmokestinamos taikant lengvatinį 5 procentų PVM tarifą nuo šio
+
+Įstatymo įsigaliojimo dienos, sąrašą.
+
+3 dalies redakcija nuo 2004 m. sausio 1 d.:
+
+3. Šio
+
+Įstatymo 19 straipsnio 3 dalies 3 punktas įsigalioja nuo 2004 m. gegužės 1 d.
+
+Iki 2004 m. balandžio 30 d. vaistai bei Lietuvos Respublikos Vyriausybės
 
 patvirtintame sąraše nurodytos medicinos prekės PVM neapmokestinamos, tačiau
 
@@ -10125,6 +10143,14 @@ savivaldybių gyvenamiesiems namams ir butams statyti arba pirkti fondų,
 lėšomis, sumokamas į biudžetą laikantis šio Įstatymo 90 straipsnio 6 dalies
 
 nuostatų.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-1816,
+
+2003-11-11, Žin., 2003, Nr. 112-4994 (2003-11-28)
 
 125 straipsnis.
 
@@ -10374,11 +10400,11 @@ prekių ir (arba) paslaugų pirkimo ir (arba) importo PVM ar jo dalis buvo
 
 metai nuo mokestinio laikotarpio, kuriuo į PVM atskaitą buvo įtrauktas pirkimo
 
-PVM ar jo dalis už iki šio Įstatymo įsigaliojimo įsigytą arba importuotą šio
+PVM ar jo dalis už iki šio Įstatymo įsigaliojimo įsigytą arba importuotą šio Įstatymo
 
-Įstatymo 67 straipsnio 1 dalies 2 punkte nurodytą ilgalaikį materialųjį turtą,
+67 straipsnio 1 dalies 2 punkte nurodytą ilgalaikį materialųjį turtą, o jeigu
 
-o jeigu toks turtas pasigamintas ir jo pasigaminimui sunaudotų prekių ir (arba)
+toks turtas pasigamintas ir jo pasigaminimui sunaudotų prekių ir (arba)
 
 paslaugų pirkimo ir (arba) importo PVM ar jo dalis buvo įtraukta į PVM
 
@@ -10408,11 +10434,25 @@ pasikeitimo šio Įstatymo 67 straipsnio nustatyta tvarka tikslinama iki PVM
 
 atskaitos tikslinimo laikotarpio pabaigos.
 
+129 straipsnio pavadinimo redakcija iki 2004 m. sausio
+
+1 d.:
+
 129 straipsnis. Iki 2003 m. gruodžio 31 d. (imtinai)
 
 taikomos kitokios apmokestinimo
 
 PVM taisyklės
+
+129 straipsnio pavadinimo redakcija nuo 2004 m. sausio
+
+1 d.:
+
+129
+
+straipsnis. Laikinai taikomos kitokios apmokestinimo PVM taisyklės
+
+1 dalies redakcija iki 2004 m. sausio 1 d.:
 
 1.
 
@@ -10421,6 +10461,18 @@ Neatsižvelgiant į šio Įstatymo III skyriaus nuostatas, iki 2003 m. gruodžio
 d. lengvatinis 9 procentų PVM tarifas taip pat taikomas šilumos energijai, kuri
 
 tiekiama gyvenamosioms patalpoms šildyti.
+
+1 dalies redakcija nuo 2004 m. sausio 1 d.:
+
+1.
+
+Neatsižvelgiant į šio Įstatymo III skyriaus nuostatas, iki 2004 m. balandžio 30
+
+d. (imtinai) lengvatinis 9 procentų PVM tarifas taip pat taikomas šilumos
+
+energijai, kuri tiekiama gyvenamosioms patalpoms šildyti.
+
+2 dalies redakcija iki 2004 m. sausio 1 d.:
 
 2.
 
@@ -10440,6 +10492,28 @@ laikantis Lietuvos Respublikos biokuro įstatymo ir jo įgyvendinimą
 
 reglamentuojančių teisės aktų reikalavimų, taikomas 0 procentų PVM tarifas.
 
+2 dalies redakcija nuo 2004 m. sausio 1 d.:
+
+2.
+
+Neatsižvelgiant į šio Įstatymo III skyriaus nuostatas, iki 2002 m. gruodžio 31
+
+d. dehidratuotam ir denatūruotam etilo alkoholiui bei rapsų metilo (etilo)
+
+esteriui, pagamintiems laikantis Lietuvos Respublikos biokuro įstatymo ir jo
+
+įgyvendinimą reglamentuojančių teisės aktų reikalavimų, taikomas 9 procentų PVM
+
+tarifas. Nuo 2003 m. sausio 1 d. iki 2004 m. balandžio 30 d. (imtinai)
+
+dehidratuotam ir denatūruotam etilo alkoholiui bei rapsų metilo (etilo)
+
+esteriui, pagamintiems laikantis Lietuvos Respublikos biokuro įstatymo ir jo
+
+įgyvendinimą reglamentuojančių teisės aktų reikalavimų, taikomas 0 procentų PVM
+
+tarifas.
+
 3.
 
 Neatsižvelgiant į šio Įstatymo III skyriaus nuostatas, visa kelionių
@@ -10447,6 +10521,8 @@ Neatsižvelgiant į šio Įstatymo III skyriaus nuostatas, visa kelionių
 organizatorių marža, apskaičiuota šio Įstatymo 102 straipsnyje nustatyta
 
 tvarka, iki 2003 m. gruodžio 31 d. apmokestinama taikant 0 procentų PVM tarifą.
+
+4 dalies redakcija iki 2004 m. sausio 1 d.:
 
 4.
 
@@ -10465,6 +10541,26 @@ ribų, taip pat vežimas, kuris prasideda už Lietuvos Respublikos ribų ir
 baigiasi Lietuvos Respublikoje, taip pat vežimas, kuris prasideda ir baigiasi
 
 už Lietuvos Respublikos ribų.
+
+4 dalies redakcija nuo 2004 m. sausio 1 d.:
+
+4.
+
+Neatsižvelgiant į šio Įstatymo III skyriaus nuostatas, keleivių vežimas
+
+tarptautiniais maršrutais, taip pat šių keleivių bagažo vežimas, nesvarbu,
+
+kokios rūšies transporto priemonėmis, iki 2004 m. balandžio 30 d. (imtinai)
+
+apmokestinamas taikant 0 procentų PVM tarifą. Taikant šią nuostatą,
+
+tarptautiniu maršrutu laikomas vežimas, kuris prasideda Lietuvos Respublikoje
+
+ir baigiasi už jos ribų, taip pat vežimas, kuris prasideda už Lietuvos
+
+Respublikos ribų ir baigiasi Lietuvos Respublikoje, taip pat vežimas, kuris
+
+prasideda ir baigiasi už Lietuvos Respublikos ribų.
 
 5.
 
@@ -10532,49 +10628,99 @@ straipsnio 5 dalies 4 ir 5 punktuose nurodytos paslaugos iki 2003 m. gruodžio
 
 31 d. PVM neapmokestinamos.
 
-10. Neatsižvelgiant
+10 dalies redakcija iki 2004 m. sausio 1 d.:
 
-į šio Įstatymo IX skyriaus nuostatas, iki 2003 m. gruodžio 31 d. pataisos darbų
+10.
 
-įstaigos, kuriose dirba nuteistieji, ir sveikatos priežiūros įstaigų darbų
+Neatsižvelgiant į šio Įstatymo IX skyriaus nuostatas, iki 2003 m. gruodžio 31
 
-terapijos padaliniai, kuriuose dirba ligoniai, šio Įstatymo nustatyta tvarka
+d. pataisos darbų įstaigos, kuriose dirba nuteistieji, ir sveikatos priežiūros
 
-apskaičiuoto mokėtino į biudžetą PVM nemoka. Iki 2003 m. gruodžio 31 d.
+įstaigų darbų terapijos padaliniai, kuriuose dirba ligoniai, šio Įstatymo
 
-gamybinės įmonės, kuriose dirba aukštųjų ir aukštesniųjų mokyklų studentų ir
+nustatyta tvarka apskaičiuoto mokėtino į biudžetą PVM nemoka. Iki 2003 m.
 
-profesinio mokymo įstaigų mokinių, atliekančių gamybinę praktiką arba praktinį
+gruodžio 31 d. gamybinės įmonės, kuriose dirba aukštųjų ir aukštesniųjų mokyklų
 
-mokymą, III grupės invalidų, apskaičiuotą už mokestinį laikotarpį mokėtiną į
+studentų ir profesinio mokymo įstaigų mokinių, atliekančių gamybinę praktiką
 
-biudžetą PVM sumą sumažina per šį mokestinį laikotarpį nurodytiems asmenims
+arba praktinį mokymą, III grupės invalidų, apskaičiuotą už mokestinį laikotarpį
 
-apskaičiuota su darbo santykiais susijusių pajamų suma (tačiau neviršijant
+mokėtiną į biudžetą PVM sumą sumažina per šį mokestinį laikotarpį nurodytiems
 
-kiekvienam asmeniui vieno Lietuvos Respublikos ūkio vidutinio mėnesinio bruto
+asmenims apskaičiuota su darbo santykiais susijusių pajamų suma (tačiau
 
-darbo užmokesčio, kurį Lietuvos Respublikos statistikos departamentas skelbia
+neviršijant kiekvienam asmeniui vieno Lietuvos Respublikos ūkio vidutinio
 
-„Valstybės žiniose“), o gamybinės įmonės, kuriose dirba I ir II grupių
+mėnesinio bruto darbo užmokesčio, kurį Lietuvos Respublikos statistikos
 
-invalidų, apskaičiuotą už mokestinį laikotarpį mokėtiną į biudžetą PVM sumą
+departamentas skelbia „Valstybės žiniose“), o gamybinės įmonės, kuriose dirba I
 
-sumažina per šį mokestinį laikotarpį nurodytiems asmenims apskaičiuota su darbo
+ir II grupių invalidų, apskaičiuotą už mokestinį laikotarpį mokėtiną į biudžetą
 
-santykiais susijusių pajamų suma (tačiau neviršijant kiekvienam asmeniui 1,5
+PVM sumą sumažina per šį mokestinį laikotarpį nurodytiems asmenims apskaičiuota
 
-Lietuvos Respublikos ūkio vidutinio mėnesinio bruto darbo užmokesčio, kurį
+su darbo santykiais susijusių pajamų suma (tačiau neviršijant kiekvienam
 
-Lietuvos Respublikos statistikos departamentas skelbia „Valstybės žiniose“) ir
+asmeniui 1,5 Lietuvos Respublikos ūkio vidutinio mėnesinio bruto darbo
 
-nuo tos su darbo santykiais susijusių pajamų sumos draudėjo apskaičiuotų ir
+užmokesčio, kurį Lietuvos Respublikos statistikos departamentas skelbia
 
-sumokėtų privalomojo valstybinio socialinio draudimo įmokų suma. Įmonių
+„Valstybės žiniose“) ir nuo tos su darbo santykiais susijusių pajamų sumos
 
-priskyrimo prie gamybinių įmonių kriterijus ir tvarką nustato Lietuvos Respublikos
+draudėjo apskaičiuotų ir sumokėtų privalomojo valstybinio socialinio draudimo
 
-Vyriausybė ar jos įgaliota institucija.
+įmokų suma. Įmonių priskyrimo prie gamybinių įmonių kriterijus ir tvarką nustato
+
+Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+10 dalies redakcija nuo 2004 m. sausio 1 d.:
+
+10.
+
+Neatsižvelgiant į šio Įstatymo IX skyriaus nuostatas, iki 2004 m. balandžio  30
+
+d. (imtinai) pataisos darbų įstaigos, kuriose dirba nuteistieji, ir sveikatos
+
+priežiūros įstaigų darbų terapijos padaliniai, kuriuose dirba ligoniai, šio
+
+Įstatymo nustatyta tvarka apskaičiuoto mokėtino į biudžetą PVM nemoka. Iki 2004
+
+m. balandžio 30 d. (imtinai) gamybinės įmonės, kuriose dirba aukštųjų ir aukštesniųjų
+
+mokyklų studentų ir profesinio mokymo įstaigų mokinių, atliekančių gamybinę
+
+praktiką arba praktinį mokymą, III grupės invalidų, apskaičiuotą už mokestinį
+
+laikotarpį mokėtiną į biudžetą PVM sumą sumažina per šį mokestinį laikotarpį
+
+nurodytiems asmenims apskaičiuota su darbo santykiais susijusių pajamų suma
+
+(tačiau neviršijant kiekvienam asmeniui vieno Lietuvos Respublikos ūkio
+
+vidutinio mėnesinio bruto darbo užmokesčio, kurį Lietuvos Respublikos
+
+statistikos departamentas skelbia „Valstybės žiniose“), o gamybinės įmonės,
+
+kuriose dirba I ir II grupių invalidų, apskaičiuotą už mokestinį laikotarpį
+
+mokėtiną į biudžetą PVM sumą sumažina per šį mokestinį laikotarpį nurodytiems
+
+asmenims apskaičiuota su darbo santykiais susijusių pajamų suma (tačiau
+
+neviršijant kiekvienam asmeniui 1,5 Lietuvos Respublikos ūkio vidutinio
+
+mėnesinio bruto darbo užmokesčio, kurį Lietuvos Respublikos statistikos
+
+departamentas skelbia „Valstybės žiniose“) ir nuo tos su darbo santykiais
+
+susijusių pajamų sumos draudėjo apskaičiuotų ir sumokėtų privalomojo
+
+valstybinio socialinio draudimo įmokų suma. Įmonių priskyrimo prie gamybinių
+
+įmonių kriterijus ir tvarką nustato Lietuvos Respublikos Vyriausybė ar jos
+
+įgaliota institucija.
 
 11.
 
@@ -10670,6 +10816,12 @@ IX-1777,
 
 2003-10-14, Žin., 2003, Nr. 104-4647 (2003-11-05)
 
+Nr.
+
+IX-1816,
+
+2003-11-11, Žin., 2003, Nr. 112-4994 (2003-11-28)
+
 130
 
 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
@@ -10681,6 +10833,570 @@ Respublikos Vyriausybė iki 2002 m. gegužės 1 d. patvirtina šio Įstatymo
 įgyvendinimui reikalingus teisės aktus arba įgalioja kitas institucijas tai
 
 padaryti iki šios datos.
+
+131
+
+straipsnis. Įstatymų pripažinimas netekusiais galios
+
+Įsigaliojus
+
+šiam Įstatymui, netenka galios:
+
+1)
+
+Lietuvos Respublikos pridėtosios vertės mokesčio įstatymas (Žin., 1994, Nr.
+
+3-40);
+
+2)
+
+Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos pridėtosios vertės
+
+mokesčio įstatymo pakeitimo“ (Žin., 1994, Nr. 25-399);
+
+3) Lietuvos
+
+Respublikos įstatymas „Dėl
+
+Lietuvos Respublikos pridėtosios vertės mokesčio įstatymo pakeitimo ir
+
+papildymo“ (Žin., 1994, Nr. 28-489);
+
+4) Lietuvos
+
+Respublikos pridėtosios
+
+vertės mokesčio įstatymas (Žin., 1994, Nr. 28-490);
+
+5) Lietuvos
+
+Respublikos įstatymas „Dėl
+
+Lietuvos Respublikos pridėtosios vertės mokesčio įstatymo pakeitimo ir
+
+papildymo“ (Žin., 1994, Nr. 58-1136);
+
+6) Lietuvos
+
+Respublikos įstatymas „Dėl
+
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo pakeitimo ir
+
+papildymo“ (Žin., 1995, Nr. 12-261);
+
+7) Lietuvos
+
+Respublikos įstatymas „Dėl
+
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo pakeitimo ir
+
+papildymo“ (Žin., 1995, Nr. 49-1178);
+
+8) Lietuvos Respublikos
+
+įstatymas „Dėl
+
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 38 straipsnio
+
+pakeitimo“ (Žin., 1995, Nr. 92-2057);
+
+9) Lietuvos
+
+Respublikos įstatymo „Dėl Lietuvos Respublikos mokesčių įstatymų papildymo“ 3
+
+straipsnis (Žin., 1996, Nr. 1-3);
+
+10) Lietuvos
+
+Respublikos pridėtinės
+
+vertės mokesčio įstatymo pakeitimo ir papildymo įstatymas (Žin.,
+
+1996, Nr. 13-343);
+
+11) Lietuvos
+
+Respublikos pridėtinės vertės
+
+mokesčio įstatymo pakeitimo ir papildymo įstatymo 26 straipsnio pakeitimo
+
+įstatymas (Žin., 1996, Nr. 28-671);
+
+12) Lietuvos
+
+Respublikos pridėtinės
+
+vertės mokesčio įstatymo 6 straipsnio papildymo įstatymas (Žin., 1996,
+
+Nr. 35-866);
+
+13) Lietuvos
+
+Respublikos pridėtinės vertės mokesčio įstatymo 35 ir 36 straipsnių pakeitimo
+
+įstatymas (Žin., 1996, Nr. 46-1103);
+
+14) Lietuvos
+
+Respublikos pridėtinės vertės mokesčio įstatymo 38 straipsnio pakeitimo
+
+įstatymas (Žin., 1996, Nr. 49-1172);
+
+15) Lietuvos
+
+Respublikos pridėtinės vertės mokesčio įstatymo 38(1) straipsnio
+
+pakeitimo įstatymas (Žin., 1996, Nr. 50-1198);
+
+16) Lietuvos
+
+Respublikos pridėtinės vertės mokesčio įstatymo 23 straipsnio pakeitimo ir
+
+papildymo įstatymas (Žin., 1996, Nr. 62-1466);
+
+17) Lietuvos
+
+Respublikos pridėtinės vertės mokesčio įstatymo 25 ir 38 straipsnių papildymo
+
+įstatymas (Žin., 1996, Nr. 116-2690);
+
+18)
+
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 17, 18, 26, 27, 28 ir
+
+41 straipsnių pakeitimo ir papildymo įstatymas (Žin., 1997, Nr. 20-448);
+
+19)
+
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 4, 5, 6, 16, 17, 19,
+
+20, 23, 25, 29, 35 ir 36 straipsnių pakeitimo įstatymas (Žin., 1997, Nr. 98-2479);
+
+20) Lietuvos
+
+Respublikos pridėtinės vertės mokesčio įstatymo 2, 4, 9, 10, 11, 12, 13, 21,
+
+22, 23, 24, 25, 35, 36, 38 straipsnių pakeitimo ir papildymo įstatymas (Žin.,
+
+1997, Nr. 117-2997);
+
+21)
+
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 41 straipsnio
+
+pakeitimo įstatymas (Žin., 1998, Nr. 8-167);
+
+22)
+
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 38(1)
+
+straipsnio pakeitimo įstatymas (Žin., 1998, Nr. 41-1095);
+
+23)
+
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 5, 6, 8 straipsnių
+
+pakeitimo ir papildymo įstatymas (Žin., 1998, Nr. 56-1544);
+
+24) Lietuvos
+
+Respublikos pridėtinės vertės mokesčio įstatymo 18 straipsnio pakeitimo
+
+įstatymas (Žin., 1998, Nr. 68-1982);
+
+25) Lietuvos
+
+Respublikos pridėtinės vertės mokesčio įstatymo 17 straipsnio papildymo ir
+
+pakeitimo įstatymas (Žin., 1999, Nr. 36-1061);
+
+26) Lietuvos
+
+Respublikos pridėtinės vertės mokesčio įstatymo 4 straipsnio papildymo
+
+įstatymas (Žin., 1999, Nr. 57-1832);
+
+27)
+
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 17 straipsnio
+
+pakeitimo įstatymas (Žin., 1999, Nr. 62-2033);
+
+28)
+
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 4, 13, 14 straipsnių
+
+pakeitimo ir papildymo įstatymas (Žin., 2000, Nr.32-891);
+
+29) Lietuvos
+
+Respublikos pridėtinės vertės mokesčio įstatymo 23 straipsnio pakeitimo
+
+įstatymas (Žin., 2000, Nr. 61-1821);
+
+30) Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 6, 7, 17, 25, 32, 35, 36, 41 straipsnių
+
+pakeitimo ir papildymo įstatymas (Žin., 2000, Nr. 64-1918);
+
+31)
+
+Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 4 ir 23 straipsnių pakeitimo
+
+įstatymas (Žin., 2000, Nr. 64-1944);
+
+32) Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 4 straipsnio pakeitimo įstatymo panaikinimo
+
+ir Pridėtinės vertės mokesčio įstatymo 4 straipsnio pakeitimo įstatymas
+
+(Žin., 2000, Nr. 113-3608);
+
+33) Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 13 ir 25 straipsnių pakeitimo
+
+įstatymas (Žin., 2000, Nr. 90-2779);
+
+34) Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 13 ir 14 straipsnių pakeitimo įstatymas
+
+(Žin., 2000, Nr. 108-3428);
+
+35)
+
+Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 25 straipsnio pakeitimo
+
+įstatymas (Žin., 2001, Nr. 16-493);
+
+36) Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 4 straipsnio pakeitimo
+
+įstatymas (Žin., 2001, Nr. 39-1327);
+
+37) Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 25 straipsnio papildymo ir pakeitimo ir
+
+Įstatymo papildymo 38(2) straipsniu įstatymas (Žin., 2001,
+
+Nr. 43-1490);
+
+38) Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 13 straipsnio papildymo
+
+įstatymas (Žin., 2001, Nr. 43-1491);
+
+39) Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 17 ir 32 straipsnių pakeitimo
+
+įstatymas (Žin., 2001, Nr. 56-1982);
+
+40) Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 36 straipsnio pakeitimo
+
+įstatymas (Žin., 2001, Nr. 62-2213);
+
+41) Lietuvos
+
+Respublikos
+
+pridėtinės vertės mokesčio įstatymo 5 straipsnio pakeitimo
+
+įstatymas (Žin., 2001, Nr. 62-2238).
+
+Vadovaudamasis Lietuvos Respublikos
+
+Konstitucijos 71 straipsnio antrąja dalimi, skelbiu šį Lietuvos Respublikos
+
+Seimo priimtą įstatymą.
+
+LIETUVOS
+
+RESPUBLIKOS
+
+SEIMO
+
+PIRMININKAS
+
+ARTŪRAS
+
+PAULAUSKAS
+
+__________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-1066,
+
+2002-09-06, Žin., 2002, Nr. 91-3889 (2002-09-18)
+
+PRIDĖTINĖS VERTĖS MOKESČIO
+
+ĮSTATYMO 129 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1098,
+
+2002-09-24, Žin., 2002, Nr. 96-4173 (2002-10-04)
+
+PRIDĖTINĖS
+
+VERTĖS MOKESČIO ĮSTATYMO 84 IR 96 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-1209,
+
+2002-11-28, Žin., 2002, Nr. 117-5243 (2002-12-11)
+
+PRIDĖTINĖS VERTĖS MOKESČIO
+
+ĮSTATYMO 28, 129 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1300,
+
+2003-01-21, Žin., 2003, Nr. 13-476 (2003-02-05)
+
+PRIDĖTINĖS
+
+VERTĖS MOKESČIO ĮSTATYMO 40 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1362,
+
+2003-03-13, Žin., 2003, Nr. 32-1310 (2003-04-02)
+
+PRIDĖTINĖS
+
+VERTĖS MOKESČIO ĮSTATYMO 14, 64, 81, 91, 98, 106 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo 2003
+
+m. balandžio 1 d.
+
+Nuo 2002 m. spalio 4 d. iki šio
+
+Įstatymo įsigaliojimo už žemės ūkio produkcijos gamintojų tiekiamą žemės ūkio
+
+produkciją, kurios tiekimas Lietuvos Respublikos pridėtinės vertės mokesčio
+
+įstatymo (Žin., 2002, Nr. 35-1271) ir kitų teisės aktų nustatyta tvarka turi
+
+būti įforminamas žemės ūkio produkcijos pirkimo kvitu, apskaičiuotas ir
+
+nesumokėtas PVM gali būti sumokėtas į biudžetą per 10 dienų po to, kai pirkėjai
+
+sumoka PVM už patiektą žemės ūkio produkciją, bet ne vėliau kaip iki 2003 m.
+
+spalio 1 d.
+
+Jeigu PVM mokėtojai,
+
+pageidaujantys pasirinkti specialią apmokestinamojo momento nustatymo tvarką, į
+
+vietos mokesčio administratorių kreipėsi ne vėliau kaip iki 2003 m. balandžio
+
+30 d., šio straipsnio 2 dalies nuostatos taikomos ir PVM sumoms, apskaičiuotoms
+
+už žemės ūkio produkciją, tiekiamą iki mokestinio laikotarpio, nuo kurio
+
+pradėta taikyti speciali apmokestinamojo momento nustatymo tvarka, pradžios.
+
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1534,
+
+2003-04-22, Žin., 2003, Nr. 42-1924 (2003-05-01)
+
+PRIDĖTINĖS
+
+VERTĖS MOKESČIO ĮSTATYMO 97 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1648,
+
+2003-06-24, Žin., 2003, Nr. 69-3120 (2003-07-10)
+
+PRIDĖTINĖS VERTĖS MOKESČIO
+
+ĮSTATYMO 68 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Iki šio
+
+Įstatymo įsigaliojimo valstybės įmonės Ignalinos atominės elektrinės patikėjimo
+
+teise valdomą ir naudojamą valstybei nuosavybės teise priklausantį turtą
+
+Lietuvos Respublikos Vyriausybės nutarimais perdavus patikėjimo teise valdyti
+
+ir naudoti valstybės įmonėms „Visagino energija“, „Visagino poligrafija“,
+
+„Visagino statybininkai“ ir Visagino transporto centrui, PVM atskaita neturi
+
+būti tikslinama. Šiuo atveju laikoma, kad turto perėmėjas jo (o jeigu jis buvo
+
+pasigamintas, – jam pasigaminti sunaudotų prekių ir (arba) paslaugų) pirkimo ir
+
+(arba) importo PVM arba jo dalį įtraukė į savo PVM atskaitą, ir jam tenka
+
+prievolės tikslinti PVM atskaitą Pridėtinės vertės mokesčio įstatymo VIII
+
+skyriaus nustatyta tvarka.
+
+Šio Įstatymo 1 straipsnio
+
+nuostatos kitiems PVM mokėtojams taikomos perduodant turtą po Pridėtinės vertės
+
+mokesčio įstatymo įsigaliojimo dienos.
+
+8.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-1708,
+
+2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30)
+
+PENSIJŲ SISTEMOS REFORMOS
+
+ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, DRAUDIMO ĮSTATYMO,
+
+PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO, GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1777,
+
+2003-10-14, Žin., 2003, Nr. 104-4647 (2003-11-05)
+
+PRIDĖTINĖS
+
+VERTĖS MOKESČIO ĮSTATYMO 129 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1816, 2003-11-11,
+
+Žin., 2003, Nr. 112-4994 (2003-11-28)
+
+PRIDĖTINĖS
+
+VERTĖS MOKESČIO ĮSTATYMO 126 IR 129 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2003-12-02)
+
+autrap@lrs.lt
 
 130 straipsnis. Pasiūlymai Lietuvos Respublikos
 
