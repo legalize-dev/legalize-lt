@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2002-06-11"
+last_updated: "2003-01-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -271,9 +271,11 @@ auginti leidžiama juridiniams ir fiziniams asmenims, turintiems Lietuvos
 
 Respublikos Vyriausybės nustatyta tvarka išduotą leidimą, taip pat turintiems
 
-asmeniniam naudojimui iki 100 kvadratinių metrų žemės ploto - be leidimo. Maksimalų
+asmeniniam naudojimui iki 100 kvadratinių metrų žemės ploto - be leidimo.
 
-žemės ploto tabakui auginti dydį nustato Lietuvos Respublikos Vyriausybė.
+Maksimalų žemės ploto tabakui auginti dydį nustato Lietuvos Respublikos
+
+Vyriausybė.
 
 5
 
@@ -2749,7 +2751,13 @@ konkursus, kurie remtų tabako gaminių pardavimą;
 
 6) remti renginius, skirtus asmenims iki 18 metų,
 
-taip pat tabako gaminių rėmimo veiklai pasitelkti asmenis iki 18 metų.
+taip pat tabako gaminių rėmimo veiklai pasitelkti asmenis iki 18 metų;
+
+1 dalis papildoma 7 punktu nuo 2003 m. liepos 1 d.:
+
+7) realizuoti prekes, imituojančias tabako gaminius
+
+ar jų pakuotes (žaislus, maisto produktus ir kita).
 
 Lietuvos Respublikos Vyriausybė įmonėms, užsiimančioms vidaus prekyba
 
@@ -2781,11 +2789,11 @@ prekės ženklai pateikiami iškabose ant šių įmonių buveinės ar padalinio 
 
 bei įmonių specializuoto transporto.
 
-Tabako gaminių prekybos vietose Vyriausybės ar jos
+Tabako gaminių prekybos vietose Vyriausybės ar jos įgaliotos
 
-įgaliotos institucijos nustatyta tvarka apie tabako gaminius leidžiama pateikti
+institucijos nustatyta tvarka apie tabako gaminius leidžiama pateikti tik šią
 
-tik šią informaciją:
+informaciją:
 
 1) gamintojo, prekybos įmonės pavadinimas ir
 
@@ -2867,6 +2875,12 @@ Nr. IX-942,
 
 2002-06-11, Žin., 2002, Nr. 68-2757 (2002-07-03)
 
+Nr.
+
+IX-1336,
+
+2003-01-28, Žin., 2003, Nr. 17-710 (2003-02-19), įsigalioja nuo 2003-07-01
+
 12 straipsnis. Tabako gaminių
 
 pakuočių apipavidalinimo reikalavimai
@@ -2889,11 +2903,11 @@ Nr. IX-124, 2000 12 21, Žin., 2000, Nr.
 
 straipsnis. Tabako gaminių vartojimo mažinimo ekonominio reguliavimo priemonės
 
-Tabako gaminių
+Tabako
 
-apmokestinimo muito mokesčiu ir akcizais tvarką nustato įstatymai ir kiti
+gaminių apmokestinimo muito mokesčiu ir akcizais tvarką nustato įstatymai ir
 
-teisės aktai.
+kiti teisės aktai.
 
 Tabako
 
@@ -2953,9 +2967,9 @@ rūkymo vietas.
 
 įstaigose, organizacijose rūkyti leidžiama tik specialiai įrengtose patalpose
 
-(vietose), kurių įrengimo ir eksploatavimo reikalavimus nustato Lietuvos Respublikos
+(vietose), kurių įrengimo ir eksploatavimo reikalavimus nustato Lietuvos
 
-Vyriausybė.
+Respublikos Vyriausybė.
 
 Viešbučiuose,
 
@@ -3103,9 +3117,9 @@ konkurencijos taryba, savivaldybių vykdomosios institucijos ir valstybės
 
 įstaiga, atsakinga už kultūros vertybių apsaugą. Šių institucijų kompetenciją
 
-tabako gaminių reklamos kontrolės srityje nustato šis ir kiti Lietuvos
+tabako gaminių reklamos kontrolės srityje nustato šis ir kiti Lietuvos Respublikos
 
-Respublikos įstatymai bei teisės aktai.
+įstatymai bei teisės aktai.
 
 Straipsnio
 
@@ -3229,15 +3243,15 @@ kuris neatitinka nustatytų kokybės reikalavimų ir kuriame esantis sveikatai
 
 kenksmingų medžiagų kiekis viršija nustatytas normas, buvo pateiktas į rinką.
 
-Šiuo atveju Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos surašo
+Šiuo atveju Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos
 
-Nacionalinės vartotojų teisių apsaugos tarybos nustatytos formos protokolą, kad
+surašo Nacionalinės vartotojų teisių apsaugos tarybos nustatytos formos
 
-nesaugus gaminys buvo pateiktas į rinką, ir kartu su reikalingais įrodymais ne
+protokolą, kad nesaugus gaminys buvo pateiktas į rinką, ir kartu su
 
-vėliau kaip per 3 darbo dienas jį perduoda Nacionalinei vartotojų teisių
+reikalingais įrodymais ne vėliau kaip per 3 darbo dienas jį perduoda Nacionalinei
 
-apsaugos tarybai.
+vartotojų teisių apsaugos tarybai.
 
 Tabako gaminių importo reikalavimų, nustatytų šio
 
@@ -3363,9 +3377,9 @@ pinigines baudas skaičiavimas
 
 subjektų nesumokėtas pinigines baudas kartu su delspinigiais, kurie už
 
-kiekvieną dieną sudaro 0,2 procento piniginės baudos dydžio, išieško šio įstatymo
+kiekvieną dieną sudaro 0,2 procento piniginės baudos dydžio, išieško šio
 
-21 straipsnio pirmojoje dalyje nurodytos institucijos ne ginčo tvarka.
+įstatymo 21 straipsnio pirmojoje dalyje nurodytos institucijos ne ginčo tvarka.
 
 13 straipsnis. Tabako
 
@@ -4643,28 +4657,6 @@ kurias išieško šio įstatymo 21 straipsnyje nurodytos institucijos, naudojamo
 
 įstatymų nustatyta tvarka.
 
-28
-
-straipsnis. Ginčai dėl Tabako kontrolės įstatymo pažeidimų
-
-Ginčai,
-
-kilę tarp juridinių ir fizinių asmenų dėl šio įstatymo pažeidimų bei
-
-materialinės atsakomybės už juos, sprendžiami teismine tvarka.
-
-Ginčai tarp
-
-Lietuvos Respublikos ir kitų valstybių juridinių bei fizinių asmenų dėl šio
-
-įstatymo pažeidimų sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka,
-
-jeigu Lietuvos Respublikos tarptautinėse sutartyse nenumatyta kitaip.
-
-VI SKYRIUS.
-
-BAIGIAMOSIOS NUOSTATOS
-
 25 straipsnis.
 
 Nutarimų dėl ekonominių sankcijų taikymo apskundimas
@@ -4753,15 +4745,15 @@ Nr. IX-942,
 
 2002-06-11, Žin., 2002, Nr. 68-2757 (2002-07-03)
 
-Skelbiu šį Lietuvos
+Skelbiu šį Lietuvos Respublikos
 
-Respublikos Seimo priimtą įstatymą.
+Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 
 BRAZAUSKAS
 
-____________
+____________________
 
 Pakeitimai:
 
@@ -4851,11 +4843,29 @@ KONTROLĖS ĮSTATYMO 1, 6, 8, 9, 10, 11, 18, 21, 29 STRAIPSNIŲ PAKEITIMO IR
 
 PAPILDYMO ĮSTATYMAS
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1336,
+
+2003-01-28, Žin., 2003, Nr. 17-710 (2003-02-19)
+
+TABAKO
+
+KONTROLĖS ĮSTATYMO 11 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2003 m. liepos 1 d.
+
 *** Pabaiga ***
 
-LIETUVOS
+Konstitucinio
 
-RESPUBLIKOS KONSTITUCINIO TEISMO NUTARIMAI:
+Teismo nutarimai:
 
 1.
 
@@ -4883,33 +4893,35 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-07-04)
+Aušrinė Trapinskienė (2003-02-24)
 
 autrap@lrs.lt
 
-28 straipsnis. Ginčai
+28 straipsnis.
 
-dėl Tabako kontrolės įstatymo pažeidimų
+Ginčai dėl Tabako kontrolės įstatymo pažeidimų
 
-Ginčai, kilę tarp
+Ginčai,
 
-juridinių ir fizinių asmenų dėl šio įstatymo pažeidimų  bei materialinės
+kilę tarp juridinių ir fizinių asmenų dėl šio įstatymo pažeidimų bei
 
-atsakomybės už  juos, sprendžiami teismine tvarka.
+materialinės atsakomybės už juos, sprendžiami teismine tvarka.
 
-Ginčai tarp Lietuvos
+Ginčai tarp
 
-Respublikos ir kitų valstybių juridinių bei fizinių  asmenų dėl šio įstatymo
+Lietuvos Respublikos ir kitų valstybių juridinių bei fizinių asmenų dėl šio
 
-pažeidimų sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka, jeigu
+įstatymo pažeidimų sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka,
 
-Lietuvos Respublikos tarptautinėse sutartyse nenumatyta kitaip.
+jeigu Lietuvos Respublikos tarptautinėse sutartyse nenumatyta kitaip.
 
-VI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
+VI SKYRIUS.
 
-29 straipsnis. Lietuvos Respublikos
+BAIGIAMOSIOS NUOSTATOS
 
-tabako kontrolės įstatymo įsigaliojimas
+29 straipsnis. Lietuvos Respublikos tabako
+
+kontrolės įstatymo įsigaliojimas
 
 Lietuvos Respublikos tabako
 
