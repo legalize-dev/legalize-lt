@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "1998-05-01"
+last_updated: "1998-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1998.05.06)
+Ramunė Lūžaitė (1998.07.14)
 
 Įstatymas
 
@@ -96,6 +96,22 @@ RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 6, 10, 11 STRAIPSN
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+5.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr.
+
+VIII-819, 98.06.30, Žin., 1998, Nr.63-1802 (98.07.15)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2, 3, 6, 11
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -124,39 +140,41 @@ pagrįstą mokesčiais ir kitais privalomais mokėjimais valstybei.
 
 straipsnis. Deklaruojamas turtas
 
-1.
+1. Lietuvos Respublikos gyventojai, nurodyti
 
-Visi pilnamečiai Lietuvos Respublikos gyventojai privalo deklaruoti:
+šio įstatymo 11 straipsnyje, privalo deklaruoti:
 
-1)
+1) kalendorinių metų pradžioje turimą, per
 
-kalendorinių metų pradžioje turimą, per kalendorinius metus įsigytą ir
+kalendorinius metus įsigytą ir kalendorinių metų pabaigoje turimą šį turtą:
 
-kalendorinių metų pabaigoje turimą šį turtą:
+a) registruojamą turtą - kilnojamąjį ir
 
-a)
+nekilnojamąjį ilgalaikį turtą, kuriam nustatyta teisinė registracija;
 
-registruojamą turtą - kilnojamąjį ir nekilnojamąjį ilgalaikį turtą, kuriam
+b) neregistruojamą turtą - meno kūrinius,
 
-nustatyta teisinė registracija;
+brangiųjų metalų dirbinius, taip pat dirbinius su brangakmeniais ir iš jų, kai
 
-b)
+vieno dirbinio vertė didesnė kaip 2000 litų;
 
-neregistruojamą turtą - meno kūrinius, brangiųjų metalų dirbinius, taip pat
+c) indėlius, paskolintas lėšas, akcijas,
 
-dirbinius su brangakmeniais ir iš jų, kai jų vieneto vertė didesnė kaip 2000
+obligacijas, vekselius ir kitus vertybinius popierius, pagal kiekvieną atskirą
 
-litų;
+rūšį didesnės kaip 2000 litų vertės;
 
-c)
+d) turimus pinigus, tarp jų pasiskolintus;
 
-pinigines lėšas, akcijas, obligacijas, vekselius ir kitus vertybinius
+2) per kalendorinius metus gautas visų rūšių pajamas, išskyrus pajamas, gautas
 
-popierius, paskolintas ir negrąžintas lėšas, viršijančias 2000 litų;
+už parduotas akcijas, obligacijas, vekselius ir kitus vertybinius popierius,
 
-2)
+taip pat atsiimtų indėlių, sugrąžintų paskolintų lėšų bei gautų palūkanų ir
 
-per kalendorinius metus gautas pajamas ir sumokėtų mokesčių sumą.
+dividendų sumas, kurios pagal kiekvieną rūšį yra mažesnės kaip 2000 litų, ir
+
+sumokėtą pajamų mokestį.
 
 2.
 
@@ -164,25 +182,37 @@ per kalendorinius metus gautas pajamas ir sumokėtų mokesčių sumą.
 
 Respublikoje, ir užsienyje.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-819, 98.06.30, Žin., 1998, Nr.63-1802 (98.07.15)
+
 3
 
 straipsnis. Turtą ir pajamas deklaruojantys asmenys
 
-1.
+1. Lietuvos Respublikos gyventojai, nurodyti
 
-Lietuvos Respublikos gyventojai, gyvenę Lietuvos Respublikoje ataskaitiniais
+šio įstatymo 11 straipsnyje, gyvenę Lietuvos Respublikoje ataskaitiniais metais
 
-metais su pertraukomis arba ištisai ne mažiau kaip 183 dienas per metus,
+su pertraukomis arba ištisai 183 dienas ir ilgiau, išskyrus užsienio valstybių
 
-išskyrus užsienio valstybių diplomatus, diplomatinių atstovybių ir konsulinių
+diplomatus, diplomatinių atstovybių ir konsulinių įstaigų darbuotojus -
 
-įstaigų darbuotojus - užsienio valstybių piliečius, deklaruoja turtą ir
+užsienio valstybių piliečius, deklaruoja turtą ir pajamas, pateikdami
 
-pajamas, pateikdami pagal gyvenamąją vietą valstybinei mokesčių inspekcijai
+gyvenamosios vietos teritorinei valstybinei mokesčių inspekcijai du Vyriausybės
 
-Vyriausybės nustatytos formos turto ir pajamų deklaracijas. Nepilnamečių asmenų
+nustatytos formos turto ir pajamų deklaracijos egzempliorius. Nepilnamečių
 
-turtą ir pajamas deklaruoja vienas iš tėvų, įtėvių, globėjų ar rūpintojų.
+asmenų ir pilnamečių asmenų invalidų bei pensininkų, reikalaujančių globos,
+
+gyvenančių kartu su šeima, turtą ir pajamas deklaruoja vienas iš tėvų, įtėvių,
+
+globėjų ar rūpintojų.
 
 2. Deklaracija pateikiama kasmet iki gegužės 1 dienos už praėjusius
 
@@ -197,6 +227,10 @@ pakeitimai:
 Nr.
 
 VIII-623, 98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
+
+Nr.
+
+VIII-819, 98.06.30, Žin., 1998, Nr.63-1802 (98.07.15)
 
 4
 
@@ -260,37 +294,67 @@ atskaitomybėje atskiriami nuo nuolat dirbančiųjų.
 
 straipsnis. Pažymų pateikimo tvarka
 
-Lietuvos Respublikos juridiniai ir fiziniai
+1. Lietuvos Respublikos juridiniai ir
 
-asmenys, išmokėję gyventojams bet kokios rūšies pajamas, nemokamai išdavę turto
+fiziniai asmenys bei juridinio asmens teisių neturintys subjektai, išmokėję šio
 
-bei vertybių ar suteikę paslaugų ir išskaitę mokesčius, kasmet iki kovo 1
+įstatymo 11 straipsnyje nurodytiems gyventojams bet kurios rūšies išmokas,
 
-dienos privalo:
+nemokamai išdavę turto bei vertybių ar suteikę paslaugų ir tam tikrais atvejais
 
-1) parengti pažymą apie Lietuvos Respublikos
+išskaitę mokesčius, kasmet iki kovo 1 dienos privalo parengti Vyriausybės ar jos
 
-gyventojams per praėjusius metus išmokėtas pajamų sumas, išskaičiuotus
+įgaliotos institucijos patvirtintos formos pažymas apie Lietuvos Respublikos
 
-mokesčius ar kitus privalomus mokėjimus, nemokamai išduotą turtą ar suteiktas
+gyventojams per praėjusius metus išmokėtas sumas, išskaičiuotus mokesčius,
 
-paslaugas pagal Vyriausybės patvirtintą formą;
+nemokamai išduotą turtą ar suteiktas paslaugas. Vieną šios pažymos egzempliorių
 
-2) pateikti Lietuvos Respublikos gyventojams
+išdavėjai nemokamai išsiunčia ar išduoda šio įstatymo 11 straipsnyje
 
-ir jų gyvenamosios vietos valstybinei mokesčių inspekcijai šio straipsnio 1
+nurodytiems Lietuvos Respublikos gyventojams, o kitą - jų gyvenamosios vietos
 
-punkte nurodytą pažymą.
+teritorinei valstybinei mokesčių inspekcijai.
 
-2. Lietuvos Respublikos operatyvinės veiklos
+2. Šio įstatymo 11 straipsnyje nurodyti
+
+asmenys kasmet iki vasario 1 dienos juridiniams, fiziniams asmenims bei
+
+juridinio asmens teisių neturintiems subjektams (atitinkamais kalendoriniais
+
+metais išmokėjusiems bet kurios rūšies išmokas, nemokamai išdavusiems turto bei
+
+vertybių ar suteikusiems paslaugų) turi raštiškai pranešti, kad jų gyvenamosios
+
+vietos teritorinei valstybinei mokesčių inspekcijai ir jiems patiems pateiktų
+
+šio straipsnio 1 dalyje nurodytą pažymą. Pagal raštišką pranešimą pažymą
+
+pateikti yra privaloma.
+
+3. Lietuvos Respublikos juridiniai ir
+
+fiziniai asmenys bei juridinio asmens teisių neturintys subjektai, per
+
+atitinkamą kalendorinių metų laikotarpį išmokėję bet kurios rūšies išmokas,
+
+nemokamai išdavę turto bei vertybių ar suteikę paslaugų kandidatams į politikus
+
+ar pradedantiems eiti pareigas valstybės tarnautojams, jiems raštiškai
+
+paprašius, privalo pateikti šio straipsnio 1 dalyje nurodytą pažymą. Šios
+
+pažymos parengiamos ir išsiunčiamos nemokamai.
+
+4. Lietuvos Respublikos operatyvinės veiklos
 
 subjektų teises turinčių valstybės institucijų valdininkams ir pareigūnams,
 
-kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimų nariams
+kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimos
 
-pažymų pateikimo terminus ir tvarką nustato Vyriausybė arba jos įgaliota
+nariams pažymų pateikimo terminus ir tvarką nustato Vyriausybė arba jos
 
-institucija.
+įgaliota institucija.
 
 Straipsnio
 
@@ -303,6 +367,10 @@ VIII-623, 98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
 Nr. VIII-714,
 
 98.04.23, Žin., 1998, Nr.41-1096 (98.05.01)
+
+Nr.
+
+VIII-819, 98.06.30, Žin., 1998, Nr.63-1802 (98.07.15)
 
 7
 
@@ -362,11 +430,9 @@ Valstybinės mokesčių inspekcijos darbuotojai, gavę informaciją apie
 
 deklaruojamą turtą ir pajamas iš darbdavių ir mokesčių mokėtojų arba tikrindami
 
-turto ir pajamų deklaracijų duomenis, taip pat kiti asmenys, kurie šią
+turto ir pajamų deklaracijų duomenis, taip pat kiti asmenys, kurie šią informaciją
 
-informaciją sužinojo vykdydami tarnybinius įgaliojimus, privalo ją laikyti
-
-paslaptyje.
+sužinojo vykdydami tarnybinius įgaliojimus, privalo ją laikyti paslaptyje.
 
 2.
 
@@ -464,11 +530,11 @@ straipsnio 4 punkte nurodytus asmenis, taip pat teismo antstoliai ir jų šeimų
 
 nariai, kurie turtą ir pajamas pradeda deklaruoti už 1997 metus;
 
-3) šio įstatymo 2 priedėlyje išvardyti valstybės
+3) šio įstatymo 2 priedėlyje išvardyti
 
-tarnautojai, ūkinių subjektų vadovai ir jų šeimų nariai turtą ir pajamas
+valstybės tarnautojai, ūkinių subjektų vadovai ir jų šeimų nariai turtą ir
 
-pradeda deklaruoti nuo 1996 metų;
+pajamas pradeda deklaruoti nuo 1996 metų;
 
 4) Lietuvos Respublikos operatyvinės veiklos
 
@@ -478,11 +544,7 @@ veiklą reglamentuoja Operatyvinės veiklos įstatymas, bei jų šeimų nariai t
 
 ir pajamas deklaruoja atskirais Vyriausybės arba jos įgaliotos institucijos
 
-nustatytais terminais ir tvarka;
-
-5) kiti Lietuvos Respublikos gyventojai turtą
-
-ir pajamas pradeda deklaruoti nuo 1998 metų.
+nustatytais terminais ir tvarka.
 
 Straipsnio
 
@@ -496,15 +558,19 @@ Nr. VIII-714,
 
 98.04.23, Žin., 1998, Nr.41-1096 (98.05.01)
 
+Nr.
+
+VIII-819, 98.06.30, Žin., 1998, Nr.63-1802 (98.07.15)
+
 12
 
 straipsnis. Įstatymo įsigaliojimas
 
 Įsigaliojus
 
-šiam įstatymui, netenka galios 1994 m. gruodžio 22 d. Lietuvos Respublikos
+šiam įstatymui, netenka galios 1994 m. gruodžio 22 d. Lietuvos Respublikos gyventojų
 
-gyventojų turto ir pajamų deklaravimo įstatymas Nr.I- 729.
+turto ir pajamų deklaravimo įstatymas Nr.I- 729.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -512,7 +578,9 @@ RESPUBLIKOS
 
 PREZIDENTAS                                                ALGIRDAS BRAZAUSKAS
 
-Lietuvos Respublikos
+Lietuvos
+
+Respublikos
 
 1996 m. gegužės 16 d.
 
@@ -578,7 +646,9 @@ ministerijos ir teritorinių muitinių pareigūnai
 
 Finansų ministerijos ir teritorinių mokesčių inspekcijų pareigūnai
 
-12. Vidaus reikalų sistemos valdininkai ir pareigūnai
+12. Vidaus reikalų sistemos valdininkai ir
+
+pareigūnai
 
 13. Savivaldybių tarybų nariai
 
@@ -656,7 +726,9 @@ vyriausiųjų buhalterių (finansininkų) pavaduotojai
 
 Ministerijų struktūrinių padalinių (departamentų, valdybų, kanceliarijų,
 
-skyrių, poskyrių, sektorių, biurų, grupių) vadovai ir padalinių vadovų pavaduotojai
+skyrių, poskyrių, sektorių, biurų, grupių) vadovai ir padalinių vadovų
+
+pavaduotojai
 
 7.
 
@@ -670,9 +742,9 @@ Diplomatinį rangą turintys asmenys
 
 Apskričių viršininkų administracijų struktūrinių padalinių (departamentų,
 
-valdybų, inspekcijų, skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir
+valdybų, inspekcijų, skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir padalinių
 
-padalinių vadovų pavaduotojai
+vadovų pavaduotojai
 
 10.
 
