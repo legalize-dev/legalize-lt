@@ -4,7 +4,7 @@ identifier: "TAR.B3B6C127CCA6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-12-17"
-last_updated: "1997-06-17"
+last_updated: "1997-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B3B6C127CCA6"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,11 +16,11 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atostogų įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.07.03)
+Ramunė Lūžaitė (1997.07.17)
 
 Įstatymas
 
@@ -40,7 +40,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
+I-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
 
 LIETUVOS
 
@@ -56,7 +56,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1383, 96.06.13, Žin., 1996, Nr. 57-1348 (96.06.19)
+I-1383, 96.06.13, Žin., 1996, Nr. 57-1348 (96.06.19)
 
 LIETUVOS
 
@@ -79,6 +79,20 @@ VIII-271, 97.06.17, Žin., 1997, Nr.63-1475 (97.07.02)
 LIETUVOS
 
 RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-365,
+
+97.07.01, Žin., 1997, Nr.67-1655 (97.07.16)
+
+LIETUVOS
+
+RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 20, 25 IR 26 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -114,7 +128,7 @@ Lietuvos teritorijoje esančiose įmonėse, įstaigose, organizacijose (toliau
 
 tekste - įmonė), taip pat už jos ribų esančiose įmonėse, priklausančiose
 
-Lietuvos Respublikos jurisdikcijai  nepriklausomai nuo  jų nuosavybės formos,
+Lietuvos Respublikos jurisdikcijai  nepriklausomai nuo  jų nuosavybės formos,
 
 turi teisę į atostogas.
 
@@ -152,13 +166,13 @@ straipsnis. Kasmetinių atostogų sąvoka
 
 Kasmetinės
 
-atostogos - tai kalendorinės dienos, suteikiamos darbuotojams pailsėti  ir  atstatyti
+atostogos - tai kalendorinės dienos, suteikiamos darbuotojams pailsėti  ir
 
-darbingumą,  paliekant darbovietą (pareigas) ir mokant vidutinį darbo
+atstatyti  darbingumą,  paliekant darbovietą (pareigas) ir mokant vidutinį
 
-užmokestį. Švenčių dienos, paskelbtos  nedarbo  dienomis,  į  atostogų  trukmę
+darbo užmokestį. Švenčių dienos, paskelbtos  nedarbo  dienomis,  į  atostogų
 
-neįskaičiuojamos.
+trukmę neįskaičiuojamos.
 
 5
 
@@ -196,7 +210,7 @@ pakeitimai:
 
 Nr.
 
-1-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
+I-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
 
 7
 
@@ -242,9 +256,9 @@ atostogų laikotarpiu.
 
 Atostogos
 
-už antrus ir paskesnius darbo metus suteikiamos bet kuriuo darbo metų laiku
+už antrus ir paskesnius darbo metus suteikiamos bet kuriuo darbo metų laiku pagal
 
-pagal atostogų suteikimo eilę, kurios sudarymo tvarka nustatoma kolektyvinėje
+atostogų suteikimo eilę, kurios sudarymo tvarka nustatoma kolektyvinėje
 
 sutartyje, o ten, kur ši sutartis nesudaroma, - atostogų suteikimo eilė
 
@@ -390,9 +404,7 @@ laikas,
 
 kai pagal įstatymus darbuotojui išsaugoma darbo vieta (pareigos) ir visas darbo
 
-užmokestis arba jo dalis, taip pat, kai jam mokama stipendija arba kitokios
-
-išmokos;
+užmokestis arba jo dalis, taip pat, kai jam mokama stipendija arba kitokios išmokos;
 
 laikas,
 
@@ -470,9 +482,9 @@ Jei
 
 darbuotojui priklausantis darbo užmokestis nustatytu laiku nesumokamas ne dėl
 
-darbuotojo kaltės, atostogos pratęsiamos tiek dienų, kiek buvo delsiama
+darbuotojo kaltės, atostogos pratęsiamos tiek dienų, kiek buvo delsiama sumokėti
 
-sumokėti darbo užmokestį, už praleistą laiką mokant kaip už atostogas.
+darbo užmokestį, už praleistą laiką mokant kaip už atostogas.
 
 Straipsnio
 
@@ -516,7 +528,7 @@ pakeitimai:
 
 Nr.
 
-1-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
+I-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
 
 III skirsnis. TIKSLINĖS ATOSTOGOS
 
@@ -572,7 +584,7 @@ metai.
 
 Šeimos
 
-pasirinkimu, šios atostogos suteikiamos vaiko tėvui, senelei,  seneliui  arba
+pasirinkimu, šios atostogos suteikiamos vaiko tėvui, senelei,  seneliui  arba
 
 kitiems  giminaičiams,  faktiškai auginantiems vaiką. Atostogas galima imti
 
@@ -592,13 +604,27 @@ straipsnis. Papildomos nemokamos atostogos vaikui prižiūrėti
 
 Motinos,
 
-auginančios vaiką iki 14 metų, pageidavimu, šalių suderintu laiku kasmet suteikiamos
+auginančios vaiką iki 14 metų, pageidavimu, šalių suderintu laiku kasmet
 
-nemokamos iki 14 kalendorinių dienų trukmės atostogos. Motinoms, auginančioms
+suteikiamos nemokamos iki 14 kalendorinių dienų trukmės atostogos. Motinoms,
 
-vaiką invalidą iki 16 metų , šalių suderintu laiku kasmet suteikiamos iki 30
+auginančioms vaiką invalidą iki 16 metų , šalių suderintu laiku kasmet
 
-kalendorinių dienų trukmės nemokamos atostogos.
+suteikiamos iki 30 kalendorinių dienų trukmės nemokamos atostogos.
+
+Moters nėštumo ir gimdymo bei vaiko priežiūros iki jam sueis treji metai
+
+atostogų metu tėvui jo pageidavimu suteikiamos nemokamos atostogos, kurių
+
+bendra trukmė negali viršyti trijų mėnesių.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-365,
+
+97.07.01, Žin., 1997, Nr.67-1655 (97.07.16)
 
 21
 
@@ -610,11 +636,11 @@ Asmenims,
 
 suteikiamos atostogos už laiką nuo įvaikinimo ar paėmimo į globą dienos iki
 
-kūdikiui sueis 70 dienų, mokant už jas taip, kaip numatyta šio įstatymo 18 straipsnyje.
+kūdikiui sueis 70 dienų, mokant už jas taip, kaip numatyta šio įstatymo 18
 
-Jiems taip pat suteikiamos atostogos, numatytos šio įstatymo 19 ir 20
+straipsnyje. Jiems taip pat suteikiamos atostogos, numatytos šio įstatymo 19 ir
 
-straipsniuose.
+20 straipsniuose.
 
 22
 
@@ -712,9 +738,11 @@ ir kitų svarbių priežasčių
 
 Nemokamos
 
-atostogos  dėl šeimyninių aplinkybių ir kitų svarbių priežasčių suteikiamos
+atostogos dėl šeimyninių aplinkybių ir kitų svarbių priežasčių suteikiamos
 
-kolektyvinėje sutartyje nustatyta tvarka arba šalims susitarus.
+kolektyvinėje sutartyje nustatyta tvarka arba šalims susitarus esant darbuotojo
+
+raštiškam prašymui.
 
 Jeigu
 
@@ -726,65 +754,15 @@ būtinumas, pageidauja, jiems kasmet suteikiamos iki 30 kalendorinių dienų
 
 trukmės nemokamos atostogos šalių suderintu laiku.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-365,
+
+97.07.01, Žin., 1997, Nr.67-1655 (97.07.16)
+
 IV skirsnis. BAIGIAMOJI DALIS
-
-26
-
-straipsnis. Teisė nustatyti papildomų atostogų garantijas
-
-Kolektyvinėse
-
-arba darbo sutartyse gali būti nustatytos ilgesnės trukmės bei kitų rūšių
-
-atostogos, papildomos lengvatos pasirinkti atostogų  laiką, numatyti didesni
-
-apmokėjimai už atostogas negu garantuoja šis įstatymas.
-
-27
-
-straipsnis. Ginčų sprendimas
-
-Ginčai,
-
-kylantys taikant šį įstatymą, nagrinėjami darbo ginčams nagrinėti nustatyta
-
-tvarka.
-
-28
-
-straipsnis. Įstatymo laikymosi kontrolė
-
-Šio
-
-įstatymo  laikymąsi kontroliuoja  Valstybinė  darbo inspekcija.
-
-29
-
-straipsnis. Atsakomybė už šio įstatymo pažeidimą
-
-Nuostolius,
-
-atsiradusius  pažeidus šį įstatymą, privalo atlyginti kaltoji šalis.
-
-Lietuvos
-
-Respublikos įstatymų nustatytais atvejais už šio įstatymo pažeidimus  taikoma
-
-drausminė,  administracinė  ar baudžiamoji atsakomybė.
-
-LIETUVOS
-
-RESPUBLIKOS
-
-AUKŠČIAUSIOSIOS
-
-TARYBOS PIRMININKAS                 VYTAUTAS LANDSBERGIS
-
-Vilnius,
-
-1991 m. gruodžio 17 d.
-
-Nr.I-2113
 
 1 straipsnis.
 
@@ -1782,25 +1760,77 @@ IV
 
 skirsnis. BAIGIAMOJI DALIS
 
-26 straipsnis.
+26 straipsnis. Teisė nustatyti papildomas atostogų garantijas
 
-Teisė nustatyti papildomų atostogų garantijas
+Kolektyvinėse arba darbo sutartyse gali būti nustatytos ilgesnės trukmės bei
 
-Kolektyvinėse
+kitų rūšių atostogos, papildomos lengvatos pasirinkti atostogų laiką, numatyti
 
-arba  darbo  sutartyse  gali  būti  nustatytos
+didesni apmokėjimai už atostogas, negu garantuoja šis įstatymas. Šios
 
-ilgesnės trukmės
+garantijos, išskyrus papildomą lengvatą pasirinkti atostogų laiką, negali būti
 
-bei kitų  rūšių atostogos, papildomos lengvatos
+nustatytos kolektyvinėse ir darbo sutartyse, sudaromose įstaigose,
 
-pasirinkti
+organizacijose, kurios yra išlaikomos iš valstybės, savivaldybių ir valstybinio
 
-atostogų   laiką,  numatyti  didesni  apmokėjimai  už
+socialinio draudimo fondo biudžetų bei kitų valstybės įsteigtų fondų lėšų, taip
 
-atostogas negu
+pat sudaromose Lietuvos banke.
 
-garantuoja šis įstatymas.
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-365,
+
+97.07.01, Žin., 1997, Nr.67-1655 (97.07.16)
+
+27
+
+straipsnis. Ginčų sprendimas
+
+Ginčai,
+
+kylantys taikant šį įstatymą, nagrinėjami darbo ginčams nagrinėti nustatyta
+
+tvarka.
+
+28
+
+straipsnis. Įstatymo laikymosi kontrolė
+
+Šio
+
+įstatymo  laikymąsi kontroliuoja  Valstybinė  darbo inspekcija.
+
+29
+
+straipsnis. Atsakomybė už šio įstatymo pažeidimą
+
+Nuostolius,
+
+atsiradusius  pažeidus šį įstatymą, privalo atlyginti kaltoji šalis.
+
+Lietuvos
+
+Respublikos įstatymų nustatytais atvejais už šio įstatymo pažeidimus  taikoma
+
+drausminė,  administracinė  ar baudžiamoji atsakomybė.
+
+LIETUVOS
+
+RESPUBLIKOS
+
+AUKŠČIAUSIOSIOS
+
+TARYBOS PIRMININKAS                 VYTAUTAS LANDSBERGIS
+
+Vilnius,
+
+1991 m. gruodžio 17 d.
+
+Nr.I-2113
 
 27 straipsnis.
 
