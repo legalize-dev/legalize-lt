@@ -4,7 +4,7 @@ identifier: "TAR.E79004684F4D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-28"
-last_updated: "2001-05-09"
+last_updated: "2001-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D"
 department: "Lietuvos Respublikos Seimas"
@@ -81,13 +81,29 @@ teisinės funkcionavimo sąlygos. Šioje teritorijoje neturi būti nuolatinių
 
 gyventojų.
 
-2. Zonoje prekės importo ir
+2.
 
-eksporto muitų bei mokesčių ir kitų ekonominio pobūdžio draudimų ir apribojimų
+Zonoje,
 
-požiūriu yra laikomos esančiomis už Lietuvos Respublikos muitų teritorijos
+suderinus su Muitinės departamentu prie Finansų ministerijos, gali būti įrengiamos
 
-ribų.
+nuo likusios zonos teritorijos dalies ir jai nepriklausančios Lietuvos
+
+Respublikos muitų teritorijos dalies atskirtos zonos teritorijos dalys (toliau
+
+– laisvosios teritorijos), kuriose prekės importo ir eksporto muitų bei
+
+mokesčių ir kitų ekonominio pobūdžio draudimų ir apribojimų požiūriu yra
+
+laikomos esančiomis už Lietuvos Respublikos muitų teritorijos ribų.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-668,
+
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
 
 3 straipsnis. Laisvosios
 
@@ -149,11 +165,11 @@ mažesnė kaip suteikianti 51 procentą balsų. Ji veikia pagal Akcinių bendrov
 
 nustatyta tvarka.
 
-2. Zonos valdymo bendrovės
+2.
 
-įgaliojimus nustato šis įstatymas, taip pat zonos valdymo bendrovės įstatai,
+Zonos valdymo bendrovės įgaliojimus nustato šis įstatymas, taip pat zonos
 
-kuriuos tvirtina Lietuvos Respublikos Vyriausybė.
+valdymo bendrovės įstatai.
 
 Straipsnio
 
@@ -162,6 +178,10 @@ pakeitimai:
 Nr.I-1268,
 
 96.04.02, Žin., 1996, Nr.35-871
+
+Nr. IX-668,
+
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
 
 7 straipsnis. Zonos įmonė
 
@@ -175,11 +195,17 @@ reikalavimus bet kokios nuosavybės formos ir rūšies įmonė, kuriai taikomos
 
 zonoje.
 
-2. Zonos įmonės steigimo
+2. Zonos įmonės steigimo tvarką nustato įmonės
 
-tvarką nustato įmonės steigimo tvarką reglamentuojantys įstatymai ir zonos
+steigimo tvarką reglamentuojantys įstatymai ir zonos įstatymas. Zonoje esanti
 
-įstatymas.
+ir jau veikianti įmonė zonos įmonės statusą įgyja po to, kai zonos valdymo
+
+bendrovė išduoda leidimą veiklai zonoje ir įmonių rejestro tvarkytojas
+
+įregistruoja įmonės įstatų pakeitimus, susijusius su zonos įmonės statuso
+
+įgijimu.
 
 3. Zonos įmonė veikia
 
@@ -189,13 +215,15 @@ steigimo dokumentais bei sutartimi su zonos valdymo bendrove dėl veiklos zonoje
 
 sąlygų.
 
-4. Zonoje leidžiama įmonės
+4. Zonoje
 
-steigimo dokumentuose nustatyta ūkinė-komercinė veikla, nesuvaržyta Lietuvos
+leidžiama įmonės steigimo dokumentuose nustatyta ūkinė-komercinė veikla,
 
-Respublikos įmonių įstatymo bei atitinkamų įmonių rūšių įstatymų. Mažmeninė
+nesuvaržyta Lietuvos Respublikos įmonių įstatymo bei atitinkamų įmonių rūšių
 
-prekyba leidžiama tik zonos vidaus poreikiams tenkinti.
+įstatymų. Mažmeninė prekyba laisvosiose teritorijose leidžiama tik jų vidaus
+
+poreikiams tenkinti.
 
 5. Steigėjai, pageidaujantys
 
@@ -245,11 +273,11 @@ Atsisakymas išduoti leidimą gali būti apskųstas valstybės institucijai,
 
 7. Zonos įmonės veikla gali
 
-būti sustabdoma, jei įmonė pažeidė šiame įstatyme, zonos įstatyme, zonos statute,
+būti sustabdoma, jei įmonė pažeidė šiame įstatyme, zonos įstatyme, zonos
 
-zonos įmonės įstatuose arba sutartyje tarp zonos valdymo bendrovės ir ūkio
+statute, zonos įmonės įstatuose arba sutartyje tarp zonos valdymo bendrovės ir
 
-subjekto nustatytas veiklos sąlygas ar kitus zonoje galiojančius Lietuvos
+ūkio subjekto nustatytas veiklos sąlygas ar kitus zonoje galiojančius Lietuvos
 
 Respublikos įstatymus ir teisės aktus. Valstybės institucijos, įgaliotos
 
@@ -279,6 +307,10 @@ Nr.I-1268,
 
 96.04.02, Žin., 1996, Nr.35-871
 
+Nr. IX-668,
+
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
+
 8 straipsnis. Draudžiamos
 
 ir ribojamos zonoje kapitalo investavimo ir veiklos sritys
@@ -287,25 +319,25 @@ ir ribojamos zonoje kapitalo investavimo ir veiklos sritys
 
 įmonėms draudžiamos šios kapitalo investavimo ir veiklos sritys:
 
-ūkinė-komercinė veikla,
+ūkinė-komercinė
 
-susijusi su valstybės saugumo ir gynybos užtikrinimu, taip pat ginklų,
+veikla, susijusi su valstybės saugumo ir gynybos užtikrinimu, taip pat ginklų,
 
 šaudmenų, sprogmenų gamyba, laikymu ar pardavimu, kenksmingu poveikiu aplinkai;
 
-pavojingų ir
+pavojingų
 
-radioaktyvių medžiagų gamyba, perdirbimas, laikymas, nukenksminimas;
+ir radioaktyvių medžiagų gamyba, perdirbimas, laikymas, nukenksminimas;
 
-narkotikų, narkotinių,
+narkotikų, narkotinių, stipriai veikiančių ir
 
-stipriai veikiančių ir nuodingųjų medžiagų gamyba, pardavimas ir laikymas;
+nuodingųjų medžiagų gamyba, pardavimas ir laikymas;
 
-kultūrų, kuriose
+kultūrų,
 
-yra narkotinių, stipriai veikiančių ir nuodingųjų medžiagų, perdirbimas,
+kuriose yra narkotinių, stipriai veikiančių ir nuodingųjų medžiagų,
 
-pardavimas ir laikymas;
+perdirbimas, pardavimas ir laikymas;
 
 degtinės,
 
@@ -315,19 +347,19 @@ vertybinių
 
 popierių, piniginių ženklų ir monetų, pašto ženklų gamyba;
 
-azartinio lošimo
+lošimo namų
 
-namų steigimas ir laikymas;
+(kazino) steigimas ir laikymas;
 
 loterijų
 
 organizavimas;
 
-leidybinė
+radijo
 
-veikla, išskyrus savo poreikius, radijo ir televizijos laidų rengimas bei
+ir televizijos laidų rengimas bei transliavimas, išskyrus spaustuvių, radijo ir
 
-transliavimas, išskyrus spaustuvių, radijo ir televizijos techninį aptarnavimą;
+televizijos techninį aptarnavimą;
 
 ligonių,
 
@@ -367,6 +399,10 @@ Nr. VIII-1395, 99.11.09, Žin., 1999,
 
 Nr.98-2814 (99.11.19)
 
+Nr. IX-668,
+
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
+
 II SKYRIUS.
 
 LAISVOSIOS EKONOMINĖS ZONOS STEIGIMAS
@@ -397,11 +433,11 @@ pritarimas išnuomoti zonai skiriamą teritoriją, suderintas su vietos
 
 savivaldybe;
 
-žinios apie zonos funkcionavimui
+žinios apie zonos
 
-reikalingą infrastruktūrą, nurodant objektus, komunikacijas ir preliminarius jų
+funkcionavimui reikalingą infrastruktūrą, nurodant objektus, komunikacijas ir
 
-įrengimo kaštus;
+preliminarius jų įrengimo kaštus;
 
 zonos įstatymo projektas.
 
@@ -409,19 +445,19 @@ zonos įstatymo projektas.
 
 Respublikos įstatymu. Įstatyme turi būti nustatytos zonos teritorijos ribos,
 
-zonos veiklos rūšis (rūšys), zonos veiklos terminas, konkurso sąlygos ir
+zonos veiklos rūšis (rūšys), zonos veiklos terminas, konkurso sąlygos ir kriterijai
 
-kriterijai zonos steigimo konkurso laimėtojams parinkti, zonos valdymo
+zonos steigimo konkurso laimėtojams parinkti, zonos valdymo bendrovės
 
-bendrovės struktūra, jos valdymo organų funkcijos, įgaliojimai, atsakomybė,
+struktūra, jos valdymo organų funkcijos, įgaliojimai, atsakomybė, zonos valdymo
 
-zonos valdymo bendrovės likvidavimo, nelikviduojant zonos, bei naujos bendrovės
+bendrovės likvidavimo, nelikviduojant zonos, bei naujos bendrovės suformavimo
 
-suformavimo tvarka, svarbių valstybės (savivaldybių) objektų santykių su zonos
+tvarka, svarbių valstybės (savivaldybių) objektų santykių su zonos valdymo
 
-valdymo bendrove dėl šių objektų naudojimo zonai aptarnauti pagrindai,
+bendrove dėl šių objektų naudojimo zonai aptarnauti pagrindai, rinkliavų iš
 
-rinkliavų iš zonos įmonių bendriems zonos reikalams nustatymo tvarka.
+zonos įmonių bendriems zonos reikalams nustatymo tvarka.
 
 3. Lietuvos Respublikos
 
@@ -445,9 +481,9 @@ Vyriausybė priima nutarimus dėl:
 
 sprendimo zonos steigėjų grupei parinkti;
 
-2) zonos valdymo bendrovės
+2) zonos valdymo bendrovės valdybos nario,
 
-valdybos pirmininko ir jos narių sudėties tvirtinimo;
+atstovaujančio bendrovėje valstybės interesams, skyrimo;
 
 3) zonos statuto tvirtinimo;
 
@@ -469,6 +505,10 @@ VIII-320,
 
 97.06.26, Žin., 1997, Nr.65-1547 (97.07.09)
 
+Nr. IX-668,
+
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
+
 III SKYRIUS.
 
 LAISVOSIOS EKONOMINĖS ZONOS VALDYMAS
@@ -483,37 +523,33 @@ struktūrą, funkcijas, įgaliojimus, atsakomybę, nustato šis ir konkrečios z
 
 įstatymai.
 
-11 straipsnis. Zonos valdymo
+11 straipsnis.
 
-bendrovė
+Zonos valdymo bendrovė
 
-Zonos steigimo grupė,
+1.
 
-laimėjusi zonos verslo plano ir statuto rengimo bei steigėjų grupės parinkimo
+Zonos steigimo grupė, laimėjusi zonos verslo plano ir statuto rengimo bei
 
-konkursą, įsteigia zonos valdymo bendrovę. Po vieną zonos valdymo bendrovės
+steigėjų grupės parinkimo konkursą, įsteigia zonos valdymo bendrovę. Po vieną
 
-valdybos narį skiria Lietuvos Respublikos Vyriausybė ir vietos savivaldybės,
+zonos valdymo bendrovės valdybos narį skiria Lietuvos Respublikos Vyriausybė ir
 
-kurios teritorijoje kuriama zona, taryba. Zonos valdymo bendrovės valdybos
+savivaldybės, kurios teritorijoje kuriama zona, taryba. Zonos valdymo bendrovės
 
-pirmininką renka zonos valdymo bendrovės valdybos nariai atviru balsavimu.
+valdybos pirmininką renka zonos valdymo bendrovės valdybos nariai atviru
 
-Daugiau kaip 50 procentų zonos valdymo bendrovės narių turi būti Lietuvos
+balsavimu. Daugiau kaip 50 procentų zonos valdymo bendrovės narių turi būti
 
-Respublikos piliečiai. Zonos valdymo bendrovės valdybos narių pakeitimus
+Lietuvos Respublikos piliečiai. Zonos valdymo bendrovės valdybos pirmininką
 
-(išskyrus zonos valdymo bendrovės valdybos pirmininką, kurį tvirtina Lietuvos
-
-Respublikos Vyriausybė) zonos valdymo bendrovės valdybos ir savivaldybės
-
-teikimu tvirtina valstybės institucija, kuriai Lietuvos Respublikos Vyriausybė
+tvirtina valstybės institucija, kuriai Lietuvos Respublikos Vyriausybė
 
 nustatyta tvarka paveda atlikti valstybinę zonų priežiūrą.
 
-Zonos valdymo bendrovėje
+2. Zonos valdymo
 
-stebėtojų taryba nesudaroma.
+bendrovėje stebėtojų taryba nesudaroma.
 
 Straipsnio
 
@@ -523,51 +559,55 @@ Nr.I-1268,
 
 96.04.02, Žin., 1996, Nr.35-871
 
+Nr. IX-668,
+
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
+
 12 straipsnis. Zonos valdymo
 
 bendrovės teisės, pareigos ir atsakomybė
 
-1. Zonos valdymo bendrovė
+1. Zonos valdymo
 
-turi teisę:
+bendrovė turi teisę:
 
-laikydamasi zonos
+laikydamasi
 
-funkcionavimo tikslų, jos investicinio verslo projekto, statuto bei zonos
+zonos funkcionavimo tikslų, jos investicinio verslo projekto, statuto bei zonos
 
 valdymo bendrovės įstatų, priimti sprendimą išduoti leidimą ūkio subjekto
 
 veiklai zonoje;
 
-subnuomoti zonos valdymo
+subnuomoti
 
-bendrovei išnuomotą žemę ir nekilnojamąjį turtą zonos įmonėms, įregistruotoms
+zonos valdymo bendrovei išnuomotą žemę ir nekilnojamąjį turtą zonos įmonėms,
 
-šioje zonoje;
+įregistruotoms šioje zonoje;
 
-nustatyti zonos vidaus
+nustatyti zonos
 
-tvarką;
+vidaus tvarką;
 
-steigti zonoje aptarnavimo
+steigti zonoje
 
-įmones;
+aptarnavimo įmones;
 
-zonos įmonių ir zonos
+zonos įmonių ir zonos valdymo
 
-valdymo bendrovės sutartyse nustatyti žemės ir nekilnojamojo turto subnuomos ir
+bendrovės sutartyse nustatyti žemės ir nekilnojamojo turto subnuomos ir
 
 savitarpio paslaugų teikimo finansines sąlygas;
 
-gauti iš zonoje veikiančių
+gauti iš zonoje veikiančių ūkio
 
-ūkio subjektų Lietuvos Respublikos Vyriausybės nustatytus statistinius
+subjektų Lietuvos Respublikos Vyriausybės nustatytus statistinius ataskaitinius
 
-ataskaitinius duomenis apie jų veiklą;
+duomenis apie jų veiklą;
 
-kooperuoti lėšas bendriems
+kooperuoti lėšas bendriems zonos
 
-zonos infrastruktūros plėtojimo ir aplinkotvarkos reikalams;
+infrastruktūros plėtojimo ir aplinkotvarkos reikalams;
 
 teikti pasiūlymus Lietuvos
 
@@ -577,13 +617,19 @@ atliekančiai valstybės institucijai dėl zonos statuto ir teritorijos ribų
 
 pakeitimo;
 
-nustatyti rinkliavas zonos
+nustatyti
 
-įmonėms zonos įstatymo nustatyta tvarka.
+rinkliavas zonos įmonėms zonos įstatymo nustatyta tvarka;
 
-2. Zonos valdymo bendrovės
+suderinusi su Muitinės departamentu prie Finansų
 
-pareigos:
+ministerijos, skelbti zonos teritorijos dalis laisvosiomis teritorijomis ir
+
+nustatyti šių teritorijų ribas.
+
+2. Zonos valdymo
+
+bendrovės pareigos:
 
 laikytis šio ir kitų zonoje
 
@@ -591,9 +637,9 @@ galiojančių Lietuvos Respublikos įstatymų ir teisės aktų, zonos statuto, z
 
 valdymo bendrovės įstatų;
 
-organizuoti zonos ūkinę
+organizuoti
 
-veiklą;
+zonos ūkinę veiklą;
 
 užtikrinti, kad zonoje
 
@@ -605,13 +651,13 @@ sąlygas, laikytųsi Lietuvos Respublikos aplinkos apsaugos įstatymo bei kitų
 
 teisės aktų aplinkos apsaugos srityje reikalavimų;
 
-užtikrinti zonos ribų
+užtikrinti laisvųjų teritorijų ribų apsaugą
 
-apsaugą ir sudaryti sąlygas Lietuvos Respublikos muitinės darbui muitinės
+ir sudaryti sąlygas Lietuvos Respublikos muitinės darbui laisvųjų teritorijų muitinės
 
 kontrolės postuose;
 
-užtikrinti zonos teritorijos
+užtikrinti laisvųjų teritorijų
 
 fizinę apsaugą;
 
@@ -621,9 +667,9 @@ institucijoms ir tarptautinėms kontrolės organizacijoms atlikti zonoje savo
 
 funkcijas;
 
-sudaryti ginčų komisiją
+sudaryti ginčų
 
-ginčams tarp ūkio subjektų nagrinėti.
+komisiją ginčams tarp ūkio subjektų nagrinėti.
 
 3. Zonos valdymo bendrovė
 
@@ -644,6 +690,10 @@ pakeitimai:
 Nr.I-1268,
 
 96.04.02, Žin., 1996, Nr.35-871
+
+Nr. IX-668,
+
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
 
 13 straipsnis. Zonos įmonių
 
@@ -685,13 +735,11 @@ Nr. IX-285, 2001 04 19, Žin., 2001, Nr.
 
 Mokesčiai, valstybės rinkliava ir kitos įmokos zonoje
 
-1.
+1. Zonoje
 
-Zonoje įregistruotos įmonės ir jų darbuotojai Lietuvos
+įregistruotos įmonės ir jų darbuotojai Lietuvos Respublikos įstatymų nustatyta
 
-Respublikos įstatymų nustatyta tvarka moka valstybės rinkliavą ir tik
-
-šiuos mokesčius bei įmokas:
+tvarka moka valstybės rinkliavą ir tik šiuos mokesčius bei įmokas:
 
 1) juridinių
 
@@ -701,17 +749,35 @@ asmenų pelno mokestį;
 
 asmenų pajamų mokestį;
 
-3) žemės nuomos
-
-mokestį;
-
-4) mokestį už
+3) mokestį už
 
 aplinkos teršimą ir gamtos išteklius;
 
-5) valstybinio
+4) valstybinio
 
-privalomojo socialinio draudimo įmokas.
+privalomojo socialinio draudimo įmokas;
+
+5) importo
+
+muitus ir mokesčius už prekes, įvežamas į zoną iš užsienio bei iš zonos
+
+laisvųjų teritorijų, išskyrus prekes, kurios iš užsienio įvežamos į laisvąsias
+
+teritorijas;
+
+6) eksporto
+
+muitus ir mokesčius už prekes, išvežamas iš zonos į užsienį bei į zonos
+
+laisvąją teritoriją, išskyrus prekes, kurios į užsienį išvežamos iš laisvųjų
+
+teritorijų;
+
+7)
+
+pridėtinės vertės mokestį ir akcizą, išskyrus už prekes, esančias laisvosiose
+
+teritorijose veikiančiose įmonėse.
 
 2. Zonos valdymo
 
@@ -729,21 +795,19 @@ nuomos mokestį, neįskaičiuojamas.
 
 metus moka 50 procentų mažesnį pelno (pajamų) mokestį.
 
-4. Jeigu užsienio
+4.
 
-investuotojas (investuotojai) įsigijo ne mažiau kaip 30 procentų zonoje
+Jeigu užsienio investuotojas (investuotojai) įsteigė zonos įmonę ar įsigijo ne
 
-įregistruotos ir zonoje veikiančios įmonės įstatinio (nuosavo) kapitalo ir
+mažiau kaip 30 procentų zonoje įregistruotos ir zonoje veikiančios įmonės
 
-investavo ne mažiau kaip vieno milijono JAV dolerių vertės užsienio kilmės
+įstatinio (nuosavo) kapitalo ir investavo ne mažiau kaip vieno milijono JAV
 
-kapitalą, tai tokia įmonė 5 metus nuo įregistravimo dienos nemoka pelno
+dolerių vertės užsienio kilmės kapitalą, tai tokia įmonė 5 metus nuo
 
-(pajamų) mokesčio. Kitus 10 metų ši įmonė moka 50 procentų mažesnį pelno
+įregistravimo dienos nemoka pelno (pajamų) mokesčio. Kitus 10 metų ši įmonė
 
-(pajamų) mokestį.
-
-Įmonė, norinti įgyvendinti
+moka 50 procentų mažesnį pelno (pajamų) mokestį. Įmonė, norinti įgyvendinti
 
 teisę į šioje dalyje nustatytą mokesčio lengvatą, privalo pateikti mokesčių
 
@@ -769,11 +833,11 @@ laisvojoje ekonominėje zonoje gauti dividendai neapmokestinami.
 
 Lietuvos Respublikos įstatymais.
 
-8. Zonos valdymo bendrovė
+8.
 
-moka Lietuvos Respublikos įstatymų atitinkamoms įmonėms nustatytus mokesčius.
+Zonos valdymo bendrovė moka Lietuvos Respublikos įstatymų atitinkamoms įmonėms
 
-Žemės nuomos mokestį, surinktą iš zonos įmonių, moka zonos valdymo bendrovė.
+nustatytus mokesčius.
 
 9. Šio
 
@@ -798,6 +862,134 @@ Nr.83-2509 (00.10.04)
 Nr. IX-285, 2001 04 19, Žin., 2001, Nr.
 
 39-1355 (2001 05 09)
+
+Nr. IX-668,
+
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
+
+16
+
+straipsnis. Muitų lengvatos ir muitinės priežiūros ypatumai laisvosiose
+
+teritorijose
+
+1.
+
+Išvežant prekes iš Lietuvos Respublikos muitų teritorijos į laisvąsias
+
+teritorijas, taikomi Lietuvos Respublikos įstatymai bei kiti teisės aktai,
+
+reglamentuojantys prekių išvežimą į užsienį, taip pat už prekes nustatyti
+
+eksporto muitai ir mokesčiai bei kiti ekonominio pobūdžio draudimai ir
+
+apribojimai. Įvežant prekes iš laisvųjų teritorijų į Lietuvos Respublikos muitų
+
+teritoriją, taikomi Lietuvos Respublikos įstatymai bei kiti teisės aktai,
+
+reglamentuojantys prekių įvežimą iš užsienio, taip pat už prekes nustatyti
+
+importo muitai ir mokesčiai bei kiti ekonominio pobūdžio draudimai ir
+
+apribojimai. Zonos įmonės už laisvosiose teritorijose saugomas, laisvosiose
+
+teritorijose sunaikintas ar laisvųjų teritorijų funkcionavimui užtikrinti
+
+sunaudotas prekes importo ir eksporto muitų bei mokesčių nemoka. Už laisvosiose
+
+teritorijose susidariusias ir į Lietuvos Respublikos muitų teritoriją išvežamas
+
+atliekas, kurios ūkiniu komerciniu požiūriu yra bevertės, importo muitai ir
+
+mokesčiai nemokami. Prekės bei laisvosiose teritorijose susidariusios ir į
+
+Lietuvos Respublikos muitų teritoriją išvežamos atliekos į apskaitą įtraukiamos
+
+zonos statute nustatyta tvarka. Užsienio investuotojai turi teisę teisėtai
+
+gautas pajamas (pelną) pervesti į užsienį be apribojimų. Užsienio investuotojai
+
+savo pajamas (pelną) ar jų dalį gali išvežti vidaus rinkoje supirktomis
+
+prekėmis arba reinvestuoti į Lietuvos Respublikos ūkį.
+
+2.
+
+Muitinė privalo tikrinti į laisvąsias teritorijas atvykstančius ar iš jų
+
+išvykstančius asmenis, transporto priemones, įvežamas, išvežamas ar laisvosiose
+
+teritorijose esančias prekes. Prekės įvežamos į laisvąsias teritorijas ir
+
+išvežamos iš jų tiktai per įvažiavimo (išvažiavimo) punktus; prekių įvežimo
+
+(išvežimo) tvarką reglamentuoja Lietuvos Respublikos muitinės kodeksas ir
+
+Lietuvos Respublikos Vyriausybės nutarimai.
+
+3.
+
+Laisvosioms teritorijoms atskirti nuo likusios zonos teritorijos dalies ir jai
+
+nepriklausančios Lietuvos Respublikos muitų teritorijos dalies reikalinga
+
+infrastruktūra, statomų muitinės darbui reikalingų pastatų projektai, taip pat
+
+visų laisvosiose teritorijose statomų pastatų projektai Lietuvos Respublikos
+
+Vyriausybės nustatyta tvarka turi būti suderinti su Muitinės departamentu prie
+
+Finansų ministerijos.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.I-1268,
+
+96.04.02, Žin., 1996, Nr.35-871
+
+Nr. IX-668,
+
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
+
+17
+
+straipsnis. Bankų ir draudimo įmonių veikla zonoje. Valiutinės ir finansinės
+
+sąlygos
+
+1. Bankų ir draudimo
+
+įmonių veiklą zonoje nustato Lietuvos Respublikos komercinių bankų ir draudimo
+
+įstatymai. Valstybės pagalbą bankams ir draudimo įmonėms nustato Valstybės
+
+pagalbos ūkio subjektams kontrolės įstatymas.
+
+2. Mokėjimams bei
+
+atsiskaitymams laisvojoje ekonominėje zonoje naudojamas litas. Mokėjimams bei
+
+atsiskaitymams tarp zonos įmonių gali būti naudojama užsienio valiuta.
+
+3. Į zoną įvežamiems ar
+
+išvežamiems pinigams taikoma tokia pat tvarka kaip įvežamiems pinigams iš
+
+užsienio ar išvežamiems į užsienį.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-1155,
+
+99.04.22, Žin., 1999, Nr.39-1202 (99.05.05)
+
+Nr. VIII-1917, 00.09.12, Žin., 2000,
+
+Nr.83-2509 (00.10.04)
 
 16 straipsnis. Muitų
 
@@ -1037,9 +1229,9 @@ valstybės inspekcijų funkcijas vykdo Lietuvos Respublikos valstybinės
 
 priežiūros inspekcijos arba zonos valdymo bendrovės sudarytos vietinės
 
-inspekcijos, kurioms įgaliojimus išduoda atitinkama Lietuvos Respublikos valstybinė
+inspekcijos, kurioms įgaliojimus išduoda atitinkama Lietuvos Respublikos
 
-inspekcija.
+valstybinė inspekcija.
 
 25 straipsnis. Partijų ir
 
@@ -1115,9 +1307,9 @@ tvarka. Jeigu į zoną atvykęs asmuo per šį laiką neužsiregistruoja, jam ta
 
 Lietuvos Respublikos įstatymų numatytos sankcijos.
 
-7. Zonos įmonės ar zonos valdymo
+7. Zonos įmonės ar zonos
 
-bendrovė, zonoje įdarbinusios užsieniečius, per 3 dienas apie tai raštu
+valdymo bendrovė, zonoje įdarbinusios užsieniečius, per 3 dienas apie tai raštu
 
 informuoja miesto ar rajono policijos komisariato migracijos tarnybą.
 
@@ -1141,9 +1333,9 @@ nustatyta tvarka išduotus nustatyto pavyzdžio leidimus.
 
 Asmenys, patekę į zoną
 
-pažeisdami nustatytą tvarką, traukiami atsakomybėn Lietuvos Respublikos įstatymų
+pažeisdami nustatytą tvarką, traukiami atsakomybėn Lietuvos Respublikos
 
-nustatyta tvarka.
+įstatymų nustatyta tvarka.
 
 VIII SKYRIUS.
 
@@ -1199,19 +1391,19 @@ BENDROVĖS VEIKLA, SPRENDIMAS
 
 sprendimo tvarka
 
-Ginčai, kylantys tarp zonos
+Ginčai, kylantys tarp zonos įmonių, tarp zonos
 
-įmonių, tarp zonos įmonių ir zonos valdymo bendrovės, tarp zonos valdymo
+įmonių ir zonos valdymo bendrovės, tarp zonos valdymo bendrovės ir valstybinių
 
-bendrovės ir valstybinių institucijų, tarp zonos valdymo bendrovės ir Lietuvos
+institucijų, tarp zonos valdymo bendrovės ir Lietuvos Respublikos Vyriausybės
 
-Respublikos Vyriausybės įgaliotos valstybinės institucijos, atliekančios
+įgaliotos valstybinės institucijos, atliekančios laisvųjų ekonominių zonų
 
-laisvųjų ekonominių zonų valstybinę priežiūrą, ginčai dėl kompensacijos už
+valstybinę priežiūrą, ginčai dėl kompensacijos už zonos įmonių veiklos sąlygų
 
-zonos įmonių veiklos sąlygų pakeitimą ir kiti ginčai sprendžiami Lietuvos
+pakeitimą ir kiti ginčai sprendžiami Lietuvos Respublikos civilinio proceso
 
-Respublikos civilinio proceso kodekso nustatyta tvarka.
+kodekso nustatyta tvarka.
 
 X SKYRIUS.
 
@@ -1221,47 +1413,21 @@ ZONOS ĮMONĖS
 
 LIKVIDAVIMAS
 
-29 straipsnis. Zonos įmonės
+29 straipsnis.
 
-likvidavimo tvarka
+Zonos įmonės likvidavimo tvarka
 
-1. Zonos įmonės likvidavimo
+Zonos įmonė likviduojama Lietuvos Respublikos
 
-pagrindas gali būti:
+civilinio kodekso nustatytais pagrindais ir tvarka.
 
-įmonės savininko sprendimas
+Straipsnio
 
-nutraukti veiklą;
+pakeitimai:
 
-teismo arba kreditorių
+Nr. IX-668,
 
-susirinkimo sprendimas pripažinti įmonę bankrutavusia;
-
-valstybės institucijų
-
-priimtas sprendimas atšaukti įmonės registravimą už teisės pažeidimus,
-
-nustatytus šiame įstatyme ar kituose Lietuvos Respublikos įstatymuose, zonos
-
-statute, zonos įmonės įstatuose bei sutartyje su zonos valdymo bendrove;
-
-nevykdymas ūkinės-komercinės
-
-veiklos zonoje daugiau kaip metus;
-
-teisėsaugos institucijų
-
-nustatytas faktas, jog į zonos įmonę investuotas nelegaliu būdu įgytas
-
-kapitalas ar įmonės veikloje naudojami nelegaliai įgyti pinigai;
-
-kitas pagrindas, numatytas
-
-Lietuvos Respublikos įstatymų.
-
-2. Zonos įmonė likviduojama
-
-Lietuvos Respublikos įmonių įstatymo nustatyta tvarka.
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
 
 30 straipsnis. Zonos
 
@@ -1367,9 +1533,9 @@ Nr.98-2814 (99.11.19)
 
 LIETUVOS
 
-RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ
+RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 8 STRAIPSNIO
 
-PAGRINDŲ ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 5.
 
@@ -1397,9 +1563,31 @@ PAVADINIMO IR
 
 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+7.
 
-Redagavo: Aušrinė Trapinskienė (2001 05 15)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-668,
+
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
+
+LAISVŲJŲ
+
+EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 2, 6, 7, 8, 9, 11, 12, 15, 16, 29 STRAIPSNIŲ
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2002-01-08)
 
 autrap@lrs.lt
 
