@@ -4,7 +4,7 @@ identifier: "TAR.423D6799832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2004-01-01"
+last_updated: "2004-02-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ entry_into_force_conditions: "Įstatymo 17 straipsnis ir 27 straipsnio 2 dalis �
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
+
+Suvestinė redakcija nuo 2004-02-07 iki 2004-04-30
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 17-701, i. k. 1031010ISTA0IX-1315
 
 LIETUVOS RESPUBLIKOS
 
@@ -273,7 +277,11 @@ SU sprogmenIMIS SUSIJUSI ŪKINĖ KOMERCINĖ VEIKLA
 
 1. Licencijas verstis sprogmenų gamyba Vyriausybės nustatyta tvarka išduoda Vyriausybės įgaliota institucija. Licencijos išduodamos tik suderinus su Valstybės saugumo departamentu ir Vidaus reikalų ministerija.
 
-2. Licencijoje, suteikiančioje teisę verstis sprogmenų gamyba, turi būti nurodyta sprogmenų rūšis – inicijuojančiosios sprogstamosios medžiagos, brizantinės sprogstamosios medžiagos, svaidomosios medžiagos (parakai), sprogmenys, sprogdinimo priemonės, taip pat didžiausias per metus pagaminamas sprogstamųjų medžiagų kiekis.
+2. Licencijoje, suteikiančioje teisę verstis sprogmenų gamyba, turi būti nurodyta sprogmenų rūšis – inicijuojančiosios sprogstamosios medžiagos, brizantinės sprogstamosios medžiagos, svaidomosios medžiagos (parakai), sprogmenys, sprogdinimo priemonės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA0IX-1965
 
 3. Licencija verstis sprogmenų gamyba suteikia teisę prekiauti savo pagamintais sprogmenimis.
 
@@ -291,7 +299,11 @@ SU sprogmenIMIS SUSIJUSI ŪKINĖ KOMERCINĖ VEIKLA
 
 6) užtikrinti reikiamą produkcijos kokybę;
 
-7) neviršyti licencijoje nurodyto leistino pagaminti produkcijos kiekio.
+7) neteko galios 2004-02-07.
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA0IX-1965
 
 15 straipsnis. Teisė įsigyti sprogmenų sudėtines dalis
 
