@@ -4,7 +4,7 @@ identifier: "TAR.1559303036A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-08"
-last_updated: "2004-05-01"
+last_updated: "2004-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1559303036A8"
 department: "Lietuvos Respublikos Seimas"
@@ -46,7 +46,7 @@ Nr. VIII-1780,
 
 LRT
 
-finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2005 m. sausio 1 d.
+finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2006 m. sausio 1 d.
 
 I SKYRIUS
 
@@ -468,7 +468,7 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1911,
 
-2000 08 31, Žin., 2000, Nr. 78-2362 (2000 09 15), įsigalioja nuo 2000 10 01
+2000 08 31, Žin., 2000, Nr. 78-2362 (2000 09 15)
 
 10 straipsnis. Tarybos funkcijos, teisės ir
 
@@ -564,13 +564,13 @@ narių, generalinis direktorius nutarimą privalo vykdyti.
 
 5.
 
-Taryba turi teisę siųsti savo atstovus į LRT administracijos bei
+Taryba turi teisę siųsti savo atstovus į LRT administracijos bei Administracinės
 
-Administracinės komisijos posėdžius, taip pat gauti iš LRT administracijos,
+komisijos posėdžius, taip pat gauti iš LRT administracijos, Administracinės
 
-Administracinės komisijos, valstybės ir savivaldybių institucijų bei
+komisijos, valstybės ir savivaldybių institucijų bei įstaigų
 
-įstaigų informaciją, būtiną savo funkcijoms atlikti.
+informaciją, būtiną savo funkcijoms atlikti.
 
 6.
 
@@ -930,7 +930,7 @@ Nauja įstatymo redakcija
 
 LRT finansavimo
 
-tvarka pagal šį įstatymą įsigalioja nuo 2005 m. sausio 1 d.
+tvarka pagal šį įstatymą įsigalioja nuo 2006 m. sausio 1 d.
 
 LRT administracinė
 
@@ -987,6 +987,22 @@ LIETUVOS NACIONALINIO
 RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
 
 ĮSTATYMAS
+
+4)
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. X-63, 2004-12-22,
+
+Žin., 2004, Nr. 188-6996 (2004-12-31)
+
+LIETUVOS
+
+NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
 
 5.
 
@@ -1056,7 +1072,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-05-04)
+Aušrinė Trapinskienė (2005-01-04)
 
 autrap@lrs.lt
 
