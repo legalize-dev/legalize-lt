@@ -4,7 +4,7 @@ identifier: "TAR.CEA1026F3BBB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-04-08"
-last_updated: "1997-06-17"
+last_updated: "1998-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CEA1026F3BBB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.07.07)
+Ramunė Lūžaitė (1998.07.22)
 
 Įstatymas
 
@@ -39,13 +39,31 @@ Nr. VIII-263, 97.06.17,
 
 Žin., 1997, Nr.64-1495 (97.07.04)
 
+LIETUVOS RESPUBLIKOS SPECIALIOS
+
+PASKIRTIES AKCINĖS BENDROVĖS "LIETUVOS ENERGIJA" REORGANIZAVIMO BEI
+
+ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATYMO 5 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-835, 98.07.02,
+
+Žin., 1998, Nr.65-1874 (98.07.22)
+
 LIETUVOS RESPUBLIKOS
 
-SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS "LIETUVOS ENERGIJA"
+SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS “LIETUVOS ENERGIJA” REORGANIZAVIMO BEI
 
-REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS
+ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATYMO PAPILDYMO 4(1)
 
-ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+STRAIPSNIU ĮSTATYMAS
 
 *** Pabaiga ***
 
@@ -179,15 +197,15 @@ ne mažesnė negu 70% (netaikomi Akcinių bendrovių įstatymo 5 straipsnio 2 da
 
 reikalavimai).
 
-7. Nuostoliai, susidarę specialios paskirties akcinei
+7. Nuostoliai, susidarę specialios paskirties
 
-bendrovei “Lietuvos energija” realizuojant šilumos energiją nustatytomis
+akcinei bendrovei “Lietuvos energija” realizuojant šilumos energiją
 
-lengvatinėmis kainomis nuo 1996 m. spalio 1 d. iki šilumos ūkio ir jo valdymo
+nustatytomis lengvatinėmis kainomis nuo 1996 m. spalio 1 d. iki šilumos ūkio ir
 
-funkcijų perdavimo savivaldybėms, priskiriami specialios paskirties akcinei
+jo valdymo funkcijų perdavimo savivaldybėms, priskiriami specialios paskirties
 
-bendrovei “Lietuvos energija”.
+akcinei bendrovei “Lietuvos energija”.
 
 8. Įgalioti savivaldybių atstovai turi teisę
 
@@ -203,17 +221,71 @@ bendrovių įstatymo 10 straipsnio 10 dalies reikalavimai).
 
 šilumos tiekimo specialios paskirties akcinių bendrovių valstybei
 
-priklausančios akcijos, išskyrus jų kiekį, atitinkantį Vilniaus ir Kauno elektrinių
+priklausančios akcijos, išskyrus jų kiekį, atitinkantį Vilniaus ir Kauno
 
-ilgalaikį turtą, perduodamos nuosavybės teise savivaldybėms pasibaigus
+elektrinių ilgalaikį turtą, perduodamos nuosavybės teise savivaldybėms
 
-1996-1997 metų šildymo sezonui, bet ne vėliau kaip iki 1997 m. liepos 1 d.
+pasibaigus 1996-1997 metų šildymo sezonui, bet ne vėliau kaip iki 1997 m.
+
+liepos 1 d.
 
 2. Valstybei priklausančios akcijos, atitinkančios
 
 Vilniaus ir Kauno elektrinių ilgalaikį turtą, perduodamos nuosavybės teise
 
 savivaldybėms iki 1997 m. spalio 10 d.
+
+4(1) straipsnis. Tolesnis šilumos ūkio
+
+reorganizavimas
+
+1. Šilumos ūkis toliau (po 1997 m. liepos 1 d.)
+
+reorganizuojamas skaidant regionines specialios paskirties akcines bendroves ir
+
+steigiant naujas miestų ir(ar) rajonų specialios paskirties bendroves: iš
+
+regioninės specialios paskirties akcinės bendrovės, kuri tęs veiklą, atskiriama
+
+turto ir įsipareigojimų dalis, proporcinga atitinkamo miesto ir(ar) rajono
+
+savivaldybės, kurios teritorijoje steigiama nauja specialios paskirties
+
+bendrovė, turimoms akcijoms toje regioninėje akcinėje bendrovėje (netaikomi
+
+Akcinių bendrovių įstatymo 10 straipsnio 4 dalies reikalavimai). Iš atskirto
+
+turto formuojamas naujai steigiamos miesto ir(ar) rajono šilumos tiekimo
+
+bendrovės įstatinis kapitalas.
+
+2. Regioninės specialios paskirties šilumos tiekimo
+
+akcinės bendrovės reorganizuojamos Akcinių bendrovių įstatymo nustatyta tvarka
+
+(netaikomi Akcinių bendrovių įstatymo 10 straipsnio 10, 11, 13 dalių
+
+reikalavimai), atsižvelgiant į šio įstatymo 3 straipsnio 4 ir 5 dalių
+
+nuostatas.
+
+3. Nutarimas reorganizuoti bendrovę priimamas
+
+regioninės specialios paskirties šilumos tiekimo akcinės bendrovės akcininkų
+
+susirinkime paprasta balsų dauguma. Reorganizavimo projektą derina savivaldybių
+
+asociacija, o tvirtina valdymo reformų ir savivaldybių reikalų bei ūkio
+
+ministrai. Įsipareigojimų ir bendro naudojimo turto paskirstymas, jo naudojimo
+
+tvarka nustatomi tarpusavio susitarimu.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-835, 98.07.02,
+
+Žin., 1998, Nr.65-1874 (98.07.22)
 
 5 straipsnis. Šilumos ūkio politika
 
