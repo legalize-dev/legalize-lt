@@ -4,7 +4,7 @@ identifier: "TAR.9E708EB589EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-03-24"
-last_updated: "1994-04-01"
+last_updated: "1995-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E708EB589EE"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1994-03-24"
 document_status: "registruotas TA registre"
 ---
 # Dėl apylinkių teismų teisėjų etatų skaičiaus
+
+Suvestinė redakcija nuo 1995-01-01 iki 1998-08-31
+
+Įstatymas paskelbtas: Žin. 1994, Nr. 25-396, i. k. 0941010ISTA000I-408
 
 LIETUVOS RESPUBLIKOS
 
@@ -75,7 +79,7 @@ Panevėžio miesto apylinkės teisme
 
 –
 
-15 teisėjų etatų;
+21 teisėjų etatą;
 
 Druskininkų miesto apylinkės teisme
 
@@ -84,6 +88,12 @@ Druskininkų miesto apylinkės teisme
 3 teisėjų etatus;
 
 Palangos miesto apylinkės teisme
+
+–
+
+3 teisėjų etatus;
+
+Visagino miesto apylinkės teisme
 
 –
 
@@ -117,7 +127,7 @@ Ignalinos rajono apylinkės teisme
 
 –
 
-5 teisėjų etatus;
+3 teisėjų etatus;
 
 Jonavos rajono apylinkės teisme
 
@@ -208,12 +218,6 @@ Pakruojo rajono apylinkės teisme
 –
 
 3 teisėjų etatus;
-
-Panevėžio rajono apylinkės teisme
-
-–
-
-6 teisėjų etatus;
 
 Pasvalio rajono apylinkės teisme
 
@@ -353,6 +357,12 @@ Zarasų rajono apylinkės teisme
 
 3 teisėjų etatus.
 
+Straipsnio pakeitimai:
+
+Nr. I-682, 1994-12-06, Žin., 1994, Nr. 96-1877 (1994-12-14), i. k. 0941010ISTA000I-682
+
+Nr. I-695, 1994-12-13, Žin., 1994, Nr. 99-1960 (1994-12-23), i. k. 0941010ISTA000I-695
+
 2 straipsnis
 
 Pripažinti netekusiu galios Lietuvos Respublikos įstatymą „Dėl apylinkių teismų teisėjų etatų skaičiaus“ (Žin., 1993, Nr. 11-267).
@@ -360,4 +370,22 @@ Pripažinti netekusiu galios Lietuvos Respublikos įstatymą „Dėl apylinkių 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-682, 1994-12-06, Žin., 1994, Nr. 96-1877 (1994-12-14), i. k. 0941010ISTA000I-682
+
+Dėl Lietuvos Respublikos įstatymo "Dėl apylinkių teismų teisėjų etatų skaičiaus" 1 straipsnio pakeitimo ir papildymo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-695, 1994-12-13, Žin., 1994, Nr. 99-1960 (1994-12-23), i. k. 0941010ISTA000I-695
+
+Dėl Lietuvos Respublikos įstatymo "Dėl apylinkių teismų teisėjų etatų skaičiaus" 1 straipsnio pakeitimo
 
