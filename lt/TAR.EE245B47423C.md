@@ -4,7 +4,7 @@ identifier: "TAR.EE245B47423C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-25"
-last_updated: "2000-07-26"
+last_updated: "2000-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Šio įstatymo 3, 5, 10 straipsniai, 13 straipsnio
 ---
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2000-07-26 iki 2000-10-31
+Suvestinė redakcija nuo 2000-11-01 iki 2002-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
 
@@ -589,7 +589,11 @@ VALSTYBĖS IR SAVIVALDOS INSTITUCIJŲ PAREIGŪNŲ KOMPETENCIJA VALDANT UŽKREČI
 
 5) apžiūrėti pasienio kontrolės postuose, importo ir eksporto terminaluose kiekvieną transporto priemonę, įvažiavusią į Lietuvos Respubliką, bei pagal savo kompetenciją apklausti valstybės sieną kertančius asmenis, jeigu jie atvyksta (tiesiai ar tranzitu) iš pavojingų ir ypač pavojingų užkrečiamųjų ligų sukėlėjais užkrėstų teritorijų, reikalauti tarptautinės teisės aktų numatytų užkrečiamųjų ligų profilaktikos ir kontrolės dokumentų;
 
-6) tarptautinės teisės aktuose nustatytais pagrindais ir tvarka priimti sprendimą dėl keleivių ir transporto priemonių, atvykusių į Lietuvos Respubliką ar esančių jos teritorijoje, sulaikymo, keleivių privalomo sveikatos patikrinimo ir jų privalomo ištyrimo, ar neserga pavojingomis ir ypač pavojingomis užkrečiamosiomis ligomis, taip pat prekių, bagažo, konteinerių, esančių transporto priemonėje, privalomo laboratorinio ištyrimo, ar neturi šių ligų sukėlėjų. Šio sprendimo vykdymą turi pagal savo kompetenciją užtikrinti Pasienio policijos departamentas prie Vidaus reikalų ministerijos, policija ir kitos atsakingos valstybės institucijos;
+6) tarptautinės teisės aktuose nustatytais pagrindais ir tvarka priimti sprendimą dėl keleivių ir transporto priemonių, atvykusių į Lietuvos Respubliką ar esančių jos teritorijoje, sulaikymo, keleivių privalomo sveikatos patikrinimo ir jų privalomo ištyrimo, ar neserga pavojingomis ir ypač pavojingomis užkrečiamosiomis ligomis, taip pat prekių, bagažo, konteinerių, esančių transporto priemonėje, privalomo laboratorinio ištyrimo, ar neturi šių ligų sukėlėjų. Šio sprendimo vykdymą turi pagal savo kompetenciją užtikrinti Valstybės sienos apsaugos tarnyba, policija ir kitos atsakingos valstybės institucijos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-2012, 2000-10-10, Žin., 2000, Nr. 92-2864 (2000-10-31), i. k. 1001010ISTAIII-2012
 
 7) priimti sprendimą dėl geriamojo vandens, maisto produktų, kurių vartojimas galėjo lemti ar lėmė užkrečiamųjų ligų atsiradimą ir išplitimą, realizavimo sustabdymo ir jų išėmimo iš apyvartos, geriamojo vandens tiekimo sustabdymo, apkrėstų maisto produktų nustatyta tvarka sunaikinimo ar utilizavimo, geriamojo vandens tiekimo sistemų dezinfekcijos;
 
