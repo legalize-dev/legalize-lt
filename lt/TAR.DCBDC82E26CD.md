@@ -4,7 +4,7 @@ identifier: "TAR.DCBDC82E26CD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-23"
-last_updated: "1999-06-01"
+last_updated: "2004-05-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 1999-06-01 iki 2004-05-13
+Suvestinė redakcija nuo 2004-05-14 iki 2006-06-09
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
 
@@ -148,7 +148,11 @@ Registre tvarkomi šių asmenų duomenys:
 
 7) gimimo vieta;
 
-8) gyvenamoji vieta, atvykimo į gyvenamąją vietą data; jeigu išvyksta gyventi į užsienį, – išvykimo vieta (valstybė) ir išvykimo data;
+8) gyvenamoji vieta, atvykimo į gyvenamąją vietą data; jeigu išvyksta gyventi į užsienį, – išvykimo vieta (valstybė) ir išvykimo data; jeigu nuolat gyvena užsienyje, – valstybė; jeigu neturi gyvenamosios vietos, – savivaldybė, kurioje gyvena;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-2218, 2004-05-04, Žin., 2004, Nr. 80-2836 (2004-05-14), i. k. 1041010ISTA0IX-2218
 
 9) šeiminė padėtis ir jos pasikeitimo data;
 
@@ -261,4 +265,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1085, 1999-03-16, Žin., 1999, Nr. 28-793 (1999-03-26), i. k. 0991010ISTAIII-1085
 
 Lietuvos Respublikos gyventojų registro įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2218, 2004-05-04, Žin., 2004, Nr. 80-2836 (2004-05-14), i. k. 1041010ISTA0IX-2218
+
+Lietuvos Respublikos gyventojų registro įstatymo 9 straipsnio papildymo įstatymas
 
