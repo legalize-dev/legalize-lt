@@ -1,0 +1,83 @@
+---
+title: "Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas"
+identifier: "TAR.0475A2E41479"
+country: "lt"
+rank: "istatymas"
+publication_date: "2001-10-23"
+last_updated: "2002-03-01"
+status: "in_force"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.0475A2E41479"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "1011010ISTA00IX-565"
+document_number: "IX-565"
+published_in_tar: "2001-10-23"
+document_status: "registruotas TA registre"
+---
+# Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+
+SKIRTŲ REALIZUOTI NETAURIŲJŲ METALŲ LAUŽO IR ATLIEKŲ SUPIRKIMO
+
+Į S T A T Y M A S
+
+2001 m. spalio 23 d. Nr. IX-565
+
+Vilnius
+
+1 straipsnis. Įstatymo paskirtis
+
+Šis Įstatymas nustato ūkinės veiklos, susijusios su skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimu, teisinius pagrindus.
+
+2 straipsnis. Pagrindinės Įstatymo sąvokos
+
+1. Netaurieji metalai – ketus ir plienas (juodieji metalai), varis, nikelis, aliuminis, švinas, cinkas, alavas, volframas, molibdenas, tantalas, magnis, kobaltas, bismutas, kadmis, titanas, cirkonis, stibis, manganas, berilis, chromas, germanis, vanadis, galis, hafnis, indis, niobis, renis, talis ir jų lydiniai (spalvotieji metalai).
+
+2. Netauriųjų metalų laužas ir atliekos – netauriųjų metalų dirbiniai, netinkami naudoti pagal paskirtį dėl to, kad yra nusidėvėję, sulūžę ar kitaip sugadinti, taip pat atliekos, susidariusios netauriųjų metalų gamybos arba mechaninio apdorojimo metu.
+
+3. Supirkėjas - įstatymų nustatyta tvarka įsteigta įmonė, šio Įstatymo nustatyta tvarka superkanti skirtų realizuoti netauriųjų metalų laužą ir atliekas.
+
+4. Supirkimo vieta – pagal Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus specialiai įrengta patalpa ar aikštelė, kurios adresas nurodytas supirkėjo licencijoje ir kurioje superkamas ir (arba) saugomas netauriųjų metalų laužas ir atliekos.
+
+3 straipsnis. Veiklos, susijusios su skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimu, licencijavimas
+
+1. Skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimas yra licencijuojama veikla.
+
+2. Verstis veikla, susijusia su skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimu, gali tik supirkėjai, gavę licencijas Vyriausybės nustatyta tvarka.
+
+3. Licencijas išduoda, jų galiojimą sustabdo ir panaikina savivaldybės, kurios teritorijoje supirkėjas yra įsteigtas, meras.
+
+4. Kai supirkimo vietos steigiamos kitų, negu įsteigtas supirkėjas, savivaldybių teritorijose, supirkimo vietų adresas turi būti suderintas su atitinkamomis savivaldybėmis ir įrašomas į licencijas.
+
+5. Supirkimo vietos adresą iš licencijos Vyriausybės nustatyta tvarka išbraukia savivaldybės meras, vadovaudamasis supirkėjo prašymu arba jeigu supirkėjas per vienerius metus toje pačioje supirkimo vietoje 2 kartus pažeidė šio Įstatymo bei kitų teisės aktų, reglamentuojančių skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimą, reikalavimus.
+
+4 straipsnis. Reikalavimai supirkėjui
+
+1. Supirkėjas privalo:
+
+1) nustatyta tvarka netauriųjų metalų laužą ir atliekas supirkti, tvarkyti jų apskaitą ir juos saugoti tik supirkimo vietose;
+
+2) supirktą netauriųjų metalų laužą ir atliekas tvarkyti pagal Atliekų tvarkymo įstatymą bei kitus teisės aktus, reglamentuojančius atliekų tvarkymą;
+
+3) nustatyta tvarka teikti informaciją apie supirktą ir realizuotą netauriųjų metalų laužą ir atliekas.
+
+2. Draudžiamų supirkti netauriųjų metalų laužo ir atliekų sąrašą tvirtina Vyriausybė ar jos įgaliota institucija.
+
+5 straipsnis. Įstatymo įsigaliojimas
+
+Įstatymas įsigalioja nuo 2002 m. kovo 1 d.
+
+6 straipsnis. Pasiūlymai Vyriausybei
+
+1. Vyriausybė iki 2002 m. sausio 1 d. patvirtina skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo licencijavimo taisykles.
+
+2. Vyriausybė ar jos įgaliota institucija iki 2002 m. sausio 1 d. patvirtina:
+
+1) skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo, apskaitos ir saugojimo tvarką ir nustato supirkimo vietų įrengimo reikalavimus;
+
+2) draudžiamų supirkti netauriųjų metalų laužo ir atliekų sąrašą.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+
