@@ -4,7 +4,7 @@ identifier: "TAR.0EC89509170B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2000-12-28"
+last_updated: "2001-10-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2000-12-28 iki 2001-10-25
+Suvestinė redakcija nuo 2001-10-26 iki 2004-02-13
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
 
@@ -45,7 +45,11 @@ BENDROSIOS NUOSTATOS
 
 3. Butas – daugiabučio namo dalis iš vieno ar kelių gyvenamųjų kambarių ir kitų patalpų, atitvarų konstrukcijomis atskirta nuo bendrojo naudojimo patalpų, kitų butų ar negyvenamųjų patalpų.
 
-4. Patalpos – gyvenamosios patalpos (butai) ir negyvenamosios patalpos, esančios daugiabučiame name ir nustatyta tvarka įregistruotos žemės ir Nekilnojamojo turto registre.
+4. Patalpos – gyvenamosios patalpos (butai) ir negyvenamosios patalpos, esančios daugiabučiame name ir nustatyta tvarka įregistruotos Nekilnojamojo turto registre.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 5. Bendrojo naudojimo objektai – bendroji dalinė daugiabučio namo savininkų nuosavybė. Tai yra:
 
@@ -55,11 +59,21 @@ BENDROSIOS NUOSTATOS
 
 3) bendrojo naudojimo patalpos – daugiabučio namo laiptinės, holai, koridoriai, galerijos, palėpės, sandėliai, rūsiai, pusrūsiai ir kitos patalpos, jei jos nuosavybės teise nepriklauso atskiriems patalpų savininkams ar tretiesiems asmenims.
 
+6. Pastato bendrojo naudojimo objektų priežiūros ir naudojimo privalomieji reikalavimai – įstatymuose, valstybės ir savivaldybių institucijų teisės aktais patvirtintuose norminiuose dokumentuose (techniniuose reglamentuose, priežiūros bei naudojimo taisyklėse ir kituose) nustatyti privalomi pastato konstrukcijų mechaninio atsparumo ir stabilumo, priešgaisrinės saugos, higienos, aplinkosaugos ir kiti specialieji reikalavimai.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+
 3 straipsnis. Daugiabučio namo savininkų bendrija ir jos statusas
 
 1. Daugiabučio namo savininkų bendrija (toliau – bendrija) yra ne pelno organizacija, įgyvendinanti šio namo patalpų savininkų bendrąsias teises, pareigas ir interesus, susijusius su namo bendrojo naudojimo objektų ir įstatymų nustatyta tvarka namui priskirto žemės sklypo valdymu, naudojimu, priežiūra ir tvarkymu.
 
-2. Bendrija yra juridinis asmuo.
+2. Bendrija yra privatusis ribotos civilinės atsakomybės juridinis asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 3. Bendrijos veiklą nustato šis įstatymas, kiti teisės aktai ir bendrijos įstatai.
 
@@ -67,103 +81,63 @@ BENDROSIOS NUOSTATOS
 
 5. Bendrija veikia vadovaudamasi jos narių solidarumo, lygiateisiškumo ir tarpusavio pagalbos principais.
 
-4 straipsnis. Daugiabučio namo bendrojo naudojimo objektų nuosavybė, nuosavybės teisių įgyvendinimas bei naudojimosi jomis tvarka
+4 straipsnis. Daugiabučio namo bendrojo naudojimo objektų nuosavybė ir bendrosios nuosavybės teisės įgyvendinimas
 
-1. Daugiabučio namo bendrojo naudojimo objektai priklauso šio namo patalpų savininkams (bendrasavininkiams) bendrosios dalinės nuosavybės teise. Patalpų savininko dalis bendrojoje nuosavybėje lygi jam nuosavybės teise priklausančių patalpų naudingojo ploto ir gyvenamojo namo naudingojo ploto santykiui.
+1. Daugiabučio namo bendrojo naudojimo objektų nuosavybės teisę, butų ir kitų patalpų savininkų teises ir pareigas naudojantis bendrąja nuosavybe, taip pat bendrosios nuosavybės teisės įgyvendinimą nustato Civilinis kodeksas.
 
-2. Daugiabučio namo bendrojo naudojimo objektai valdomi, jais naudojamasi ir disponuojama daugiabučio namo patalpų savininkų (bendrasavininkių) sutarimu. Kai yra nesutarimų, valdymo, naudojimosi ir disponavimo tvarka nustatoma teismine tvarka pagal bet kurio iš daugiabučio namo savininkų (bendrasavininkių) ieškinį.
+2. Žemės sklypo priskyrimo daugiabučiam namui, taip pat šio sklypo valdymo, naudojimo bei disponavimo juo tvarką ir sąlygas nustato žemės santykius reglamentuojantys įstatymai.
 
-3. Jeigu daugiabučio namo bendrojo naudojimo objektą įgalioti daugiabučio namo savininkų valdo ir naudoja ne visi daugiabučio namo patalpų savininkai (bendrasavininkiai), tai įgaliojusieji daugiabučio namo patalpų savininkai (bendrasavininkiai) turi teisę kasmet gauti iš valdančiųjų ir naudojančiųjų ataskaitą. Ataskaita taip pat pateikiama iš karto po to, kai jie nustojo valdyti bei naudoti daugiabučio namo bendrojo naudojimo objektą.
+Straipsnio pakeitimai:
 
-4. Daugiabučio namo patalpų savininkai (bendrasavininkiai) privalo proporcingai savo daliai bendrojoje nuosavybėje dalyvauti darant išlaidas namui išlaikyti ir išsaugoti, mokesčiams ir rinkliavoms, taip pat nustatant reguliarius atskaitymus kaupti lėšoms namui atnaujinti, jeigu patalpų savininkai (bendrasavininkiai) nesusitaria kitaip.
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
-5. Daugiabučio namo patalpų savininkai (bendrasavininkiai), atsižvelgdami į savo dalį bendrojoje nuosavybėje, turimą bendrosios dalinės nuosavybės teisėmis, turi teisę tarpusavio susitarimu nustatyti naudojimosi atskiromis izoliuotomis šio namo patalpomis ar kito nekilnojamojo daikto konkrečiomis dalimis tvarką. Jeigu šis susitarimas patvirtintas ir įregistruotas Nekilnojamojo turto registre, jis lieka privalomas ir pasikeitus patalpų savininkams.
+5 straipsnis. Neteko galios nuo 2001-10-26
 
-6. Sprendimai dėl daugiabučio namo bendrojo naudojimo objektų valdymo ir naudojimo priimami daugiabučio namo savininkų (bendrasavininkių) balsų dauguma, jeigu daugiabučio namo savininkų jungtinės veiklos sutartyje nenumatyta kitaip. Kiekvieno buto ar kitų patalpų savininkas turi vieną balsą. Jeigu butas ar kitos patalpos nuosavybės teise priklauso keliems savininkams, jiems jų susitarimu atstovauja vienas asmuo, kuris turi vieną balsą.
+Straipsnio naikinimas:
 
-7. Daugiabučio namo savininkų (bendrasavininkių) sprendimai priimami susirinkime, prieš dvi savaites viešai paskelbus jo darbotvarkę. Susirinkimus šaukia daugiabučio namo savininkų bendrijos valdyba (bendrijos pirmininkas) arba daugiabučio namo savininkų (bendrasavininkių) jungtinės veiklos sutarties dalyvių įgaliotas asmuo, arba daugiabučio namo savininkų (bendrasavininkių) bendrosios nuosavybės administratorius.
+Nr. IX-532, 2001-10-09, Žin. 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
-8. Daugiabučio namo savininkų (bendrasavininkių) sprendimai skelbiami viešai ir galioja visiems butų ir kitų patalpų savininkams, taip pat tiems savininkams, kurie įgijo nuosavybės teises į butus ir kitas patalpas po šių sprendimų priėmimo. Sprendimai negali apriboti daugiabučio namo savininkų (bendrasavininkių) ir trečiųjų asmenų teisių bei teisėtų interesų, išskyrus įstatymų numatytus atvejus.
+6 straipsnis. Neteko galios nuo 2001-10-26
 
-5 straipsnis. Daugiabučio namo savininkų (bendrasavininkių) teisės ir pareigos naudojantis bendrojo naudojimo objektais bei juos išlaikant
+Straipsnio naikinimas:
 
-1. Kiekvienas iš daugiabučio namo savininkų (bendrasavininkių) proporcingai savo daliai bendrojoje nuosavybėje turi teisę į bendro naudojimo objektų duodamas pajamas, atsako tretiesiems asmenims pagal prievoles, susijusias su bendro naudojimo nuosavybe, taip pat privalo dalyvauti darant išlaidas jai išlaikyti ir išsaugoti, taip pat mokesčiams, rinkliavoms ir kitiems mokėjimams, susijusiems su daugiabučio namo privaloma priežiūra. Jeigu vienas iš daugiabučio namo savininkų (bendrasavininkių) nevykdo savo pareigos dalyvauti tvarkant ir išlaikant bendrą objektą, tai kiti daugiabučio namo savininkai (bendrasavininkiai) turi teisę į dėl to susidariusių nuostolių atlyginimą.
+Nr. IX-532, 2001-10-09, Žin. 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
-2. Daugiabučio namo savininkai (bendrasavininkiai) turi teisę naudotis daugiabučio namo bendrojo naudojimo objektais pagal jų funkcinę paskirtį, nepažeisdami kitų patalpų savininkų (naudotojų) teisių ir teisėtų interesų.
+7 straipsnis. Daugiabučio namo gyvenamųjų patalpų paskirties keitimas
 
-3. Daugiabučio namo savininkai (bendrasavininkiai) taip pat turi teisę:
+1. Daugiabučio namo gyvenamųjų patalpų paskirtis gali būti keičiama ir jos naudojamos teisėsaugos, ryšių, medicinos, spaudos platinimo, buitinių paslaugų teikimo bei kitoms negamybinėms reikmėms, jeigu tai neprieštarauja teritorijos planavimo dokumentų reikalavimams.
 
-1) be kitų savininkų sutikimo imtis būtinų priemonių, kad būtų išvengta žalos ar pašalinta grėsmė bendrojo naudojimo objektams, ir reikalauti iš kitų daugiabučio namo savininkų atlyginti išlaidas, proporcingas šių savininkų daliai bendrojoje dalinėje nuosavybėje;
+2. Kai keičiama gyvenamųjų patalpų paskirtis, jos turi būti pertvarkytos taip, kad būtų įrengtas atskiras įėjimas iš lauko ir kad šis pertvarkymas atitiktų gyvenamojo namo architektūros, higienos, priešgaisrinės saugos, aplinkosaugos ir statybos techninius reikalavimus.
 
-2) reikalauti iš kitų butų ir kitų patalpų savininkų, kad daugiabučio namo bendrojo naudojimo objektų valdymas ir naudojimas atitiktų bendrąsias buto ir kitų patalpų savininkų teises ir teisėtus interesus. Teisėtais buto ir kitų patalpų savininkų interesais laikoma gyvenamojo namo vidaus tvarkos taisyklių nustatymas, tinkama bendrojo naudojimo objektų priežiūra ir išlaikymas, gyvenamojo namo priežiūros ūkinio ir finansinio plano parengimas, lėšų kaupimas bendrojo naudojimo objektams atnaujinti.
+3. Gyvenamųjų patalpų paskirties keitimo projektas rengiamas ir statybos darbai atliekami laikantis Statybos įstatymo ir kitų teisės aktų nustatytos tvarkos bei reikalavimų.
 
-4. Daugiabučio namo savininkai (bendrasavininkiai) bendrojo naudojimo objektus privalo valdyti, tinkamai prižiūrėti, remontuoti ar kitaip tvarkyti. Daugiabučio namo bendrojo naudojimo objektams valdyti butų ir kitų patalpų savininkai steigia daugiabučių namų savininkų bendriją arba sudaro jungtinės veiklos sutartį.
+4. Pasiūlymas keisti gyvenamųjų patalpų paskirtį iki projektavimo sąlygų išdavimo turi būti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka viešai aptartas su bendrijos nariais ir kitais butų bei kitų patalpų savininkais. Ši nuostata netaikoma, kai negyvenamosios patalpos keičiamos į gyvenamąsias, taip pat kai kitos paskirties, negu buvo, negyvenamosioms patalpoms netaikomi griežtesni aplinkosaugos, higienos, priešgaisrinės saugos ir kiti privalomieji reikalavimai.
 
-5. Daugiabučio namo savininkas (bendrasavininkis) neprivalo apmokėti išlaidų, dėl kurių jis nėra davęs sutikimo ir kurios nesusijusios su įstatymų ir kitų teisės aktų nustatytais privalomaisiais statinių naudojimo ir priežiūros reikalavimais.
+5. Viešai aptarti turi būti pateikta gyvenamųjų patalpų pertvarkymo ir namo aplinkos pakeitimo schema. Viešo aptarimo išvados ir pasiūlymai, kurie neprieštarauja įstatymams bei kitiems teisės aktams, turi būti įrašyti į patalpų paskirties keitimo projektavimo sąlygas.
 
-6. Daugiabučio namo savininkas (bendrasavininkis) privalo leisti tam tikslui paskirtiems asmenims remontuoti ar kitaip tvarkyti jo bute ir kitose patalpose esančią bendrojo naudojimo mechaninę, elektrotechninę ir kitokią įrangą.
+6. Ginčus dėl gyvenamųjų patalpų paskirties keitimo sprendžia teismas.
 
-7. Daugiabučio namo savininkas (bendrasavininkis) turi teisę į bendrojo naudojimo objektų duodamas pajamas proporcingai jo daliai bendrojoje dalinėje nuosavybėje.
+Straipsnio pakeitimai:
 
-6 straipsnis. Daugiabučio namo savininkų (bendrasavininkių) teisė perleisti savo dalį bei pirmenybės teisė įsigyti dalį bendrosios nuosavybės
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
-1. Kiekvienas iš daugiabučio namo savininkų (bendrasavininkių) turi teisę perleisti kitam asmeniui nuosavybėn, išnuomoti, kitokiu būdu perduoti naudotis ar įkeisti visą savo dalį ar dalį dalies bendrojoje dalinėje nuosavybėje, išskyrus gyvenamojo namo bendrąsias konstrukcijas, bendrąją inžinerinę įrangą bei bendrojo naudojimo patalpas, kurios negali būti atidalytos iš bendrosios nuosavybės.
+8 straipsnis. Neteko galios nuo 2001-10-26
 
-2. Daugiabučio namo savininkai (bendrasavininkiai) turi pirmenybės teisę įsigyti perleidžiamos bendrosios nuosavybės dalį.
+Straipsnio naikinimas:
 
-3. Daugiabučio namo savininkas (bendrasavininkis), norintis perleisti savo dalį bendrojoje dalinėje nuosavybėje, privalo per notarą pranešti kitiems daugiabučio namo savininkams (bendrasavininkiams) apie ketinimą perleisti savąją dalį ir kartu nurodyti perleidimo sąlygas. Jeigu kiti daugiabučio namo savininkai (bendrasavininkiai) atsisako pasinaudoti pirmenybės teise arba šios teisės į perleidžiamą bendrąją dalinę nuosavybę neįgyvendina per vieną mėnesį ir jeigu daugiabučio namo savininkų (bendrasavininkių) susitarimu nenustatyta kitaip, tai bendrosios dalinės nuosavybės savininkas turi teisę perleisti ją bet kuriam asmeniui. Jeigu dalis perleista pažeidžiant pirmenybės teisę ją įsigyti, kitas bendrosios nuosavybės bendrasavininkis turi teisę per tris mėnesius teismine tvarka reikalauti, kad jam būtų perkeltos naujo ginčijamos dalies savininko teisės ir pareigos. Įsigytos bendrosios dalies savininkas yra atsakingas už prievoles, kurios atsirado iki šio sandorio, jeigu tai nurodyta perleidimo sutartyje.
+Nr. IX-532, 2001-10-09, Žin. 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
-4. Žemės sklypo priskyrimo daugiabučiui namui, šio sklypo valdymo, naudojimo ir disponavimo juo tvarką ir sąlygas nustato žemės santykius nustatantys įstatymai.
+9 straipsnis. Neteko galios nuo 2001-10-26
 
-7 straipsnis. Patalpų daugiabučiame name paskirties keitimas
+Straipsnio naikinimas:
 
-1. Patalpos daugiabučiame name gali būti remontuojamos, rekonstruojamos ir naudojamos prekybos, viešojo maitinimo, teisėsaugos, ryšių, medicinos, spaudos platinimo, buitinių paslaugų teikimo bei kitoms negamybinėms reikmėms, jeigu tai neprieštarauja teritorijos bendrojo plano reikalavimams.
+Nr. IX-532, 2001-10-09, Žin. 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
-2. Keičiant gyvenamųjų patalpų paskirtį, jos turi būti rekonstruotos taip, kad būtų įrengtas atskiras įėjimas iš lauko ir kad šis rekonstravimas atitiktų gyvenamojo namo architektūros, higienos, priešgaisrinės saugos, aplinkos apsaugos ir statybos techninius reikalavimus.
+10 straipsnis. Neteko galios nuo 2001-10-26
 
-3. Patalpų paskirties keitimo projektas rengiamas ir statybos darbai vykdomi laikantis Statybos įstatymo ir kitų teisės aktų nustatytos tvarkos ir reikalavimų.
+Straipsnio naikinimas:
 
-4. Pasiūlymas keisti patalpų paskirtį iki projektavimo sąlygų išdavimo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi būti viešai aptartas su daugiabučio namo patalpų savininkais. Viešam aptarimui turi būti pateikta patalpų rekonstravimo ir namo aplinkos pakeitimo schema. Viešo aptarimo rezultatai įvertinami išduodant patalpų paskirties keitimo projektavimo sąlygas. Ši norma netaikoma, kai negyvenamosios patalpos keičiamos į gyvenamąsias, taip pat kai naujai negyvenamųjų patalpų paskirčiai, palyginti su esama, netaikomi griežtesni aplinkos apsaugos, higienos, priešgaisrinės saugos ir kiti privalomi reikalavimai.
-
-5. Patalpų paskirties keitimo projektas turi būti suderintas su daugiabučio namo patalpų savininkų bendrijos valdyba (bendrijos pirmininku) arba su daugiabučio namo savininkų (bendrasavininkių) jungtinės veiklos sutarties dalyvių įgaliotu atstovu, arba su daugiabučio namo patalpų savininkų bendrosios nuosavybės administratoriumi, nurodytu šio įstatymo 10 straipsnyje.
-
-6. Priėmimo naudoti patalpas, rekonstruotas pagal šio straipsnio 1-5 dalių sąlygas, komisijos sudėtyje turi būti daugiabučio namo patalpų savininkų bendrijos valdybos įgaliotas asmuo (bendrijos pirmininkas) arba daugiabučio namo patalpų savininkų bendrosios nuosavybės administratorius. Patalpų priėmimo naudoti aktas nustatyta tvarka registruojamas Nekilnojamojo turto registre.
-
-7. Ginčai dėl daugiabučio namo patalpų rekonstravimo, keičiant jų paskirtį, sprendžiami teismine tvarka.
-
-8 straipsnis. Daugiabučio namo bendrojo naudojimo objektų rekonstravimas
-
-1. Sprendimą dėl daugiabučio namo bendrojo naudojimo objektų rekonstravimo (palėpių, rūsių ir kitų bendrojo naudojimo patalpų esminio pertvarkymo ir(ar) paskirties keitimo, papildomų aukštų statybos, sienų apšiltinimo, telekomunikacijų įrangos ir kitų darbų, nesusijusių su įstatymų ir kitų teisės aktų nustatytais privalomaisiais statinių naudojimo ir priežiūros reikalavimais) priima bendrijos narių susirinkimas ar bendrijos valdyba bendrijos įstatų nustatyta tvarka. Jei bendrija neįsteigta, sprendimą priima daugiabučio namo patalpų savininkų susirinkimas daugiau kaip pusės patalpų savininkų balsų dauguma. Susirinkimą šaukia daugiabučio namo savininkų (bendrasavininkių) jungtinės veiklos sutarties dalyvių įgaliotas asmuo arba daugiabučio namo bendrojo naudojimo objektų administratorius, vadovaudamasis šio įstatymo 21 straipsnyje nustatyta susirinkimų šaukimo ir organizavimo tvarka. Sprendimas taip pat gali būti priimtas patalpų savininkų apklausos būdu. Apklausa atliekama pagal šio įstatymo 10 straipsnio 4 dalyje nurodytus daugiabučio namo patalpų savininkų bendrosios nuosavybės administravimo nuostatus.
-
-2. Sprendimas rekonstruoti daugiabučio namo bendrojo naudojimo objektus šio namo patalpų savininkams, jeigu nėra jų sutikimo, negali nustatyti jokių su rekonstrukcija susijusių turtinių ar finansinių įpareigojimų.
-
-3. Teisė įsirengti arba įsigyti įrengtas patalpas daugiabučio namo palėpėje ar pristatytame papildomame aukšte suteikiama šio namo patalpų savininkams. Pirmenybė teikiama to paties namo viršutinio aukšto patalpų savininkams. Jeigu daugiabučio namo patalpų savininkai atsisako, ši teisė gali būti suteikiama tretiesiems asmenims, tarp jų ir vietos savivaldos institucijoms. Teisės į palėpės ar pristatyto aukšto patalpas suteikimo sąlygas nustato bendrijos narių susirinkimas, o jeigu bendrijos nėra, – daugiabučio namo savininkų (bendrasavininkių) susirinkimas. Sprendimas taip pat gali būti priimamas patalpų savininkų apklausos būdu šio straipsnio 1 dalyje nurodyta tvarka.
-
-4. Tais atvejais, kai daugiabutis namas susideda iš sublokuotų sekcijų ar korpusų ir jų palėpių įrengimas ar papildomo aukšto pastatymas nepadaro žalos bendrosios nuosavybės teisės dalyviams, sprendimą, nurodytą šio straipsnio 1 dalyje, gali priimti atskiros sekcijos ar korpuso patalpų savininkai. Šis sprendimas turi būti suderintas su šio įstatymo 7 straipsnio 5 dalyje nurodytomis institucijomis.
-
-5. Daugiabučio namo bendrojo naudojimo objektų rekonstravimo projektas turi būti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka viešai aptartas su šio namo patalpų savininkais. Projekto viešą aptarimą organizuoja šio projekto užsakovas.
-
-6. Rekonstravimo projektas turi būti suderintas su šio įstatymo 7 straipsnio 5 dalyje nurodytomis institucijomis. Šių institucijų įgalioti atstovai taip pat turi dalyvauti rekonstruoto objekto priėmimo naudoti komisijoje.
-
-7. Rekonstruotas objektas registruojamas Nekilnojamojo turto registre (jeigu šią registraciją numato Nekilnojamojo turto registro įstatymas).
-
-9 straipsnis. Daugiabučio namo gyvenamųjų patalpų naudojimas darbo ir verslo reikmėms, nekeičiant patalpų paskirties
-
-Gyvenamosios patalpos, nepakeitus jų paskirties (neįrengus atskiro įėjimo ir neperregistravus jų Nekilnojamojo turto registre), gali būti naudojamos darbo ir verslo reikmėms, jeigu tai nepažeidžia gyvenamosioms patalpoms nustatytų reikalavimų ir to namo gyventojų teisių bei teisėtų interesų. Tokio gyvenamųjų patalpų naudojimo apribojimus nustato Vyriausybė ar jos įgaliota institucija.
-
-10 straipsnis. Daugiabučio namo valdymas ir priežiūra nesant bendrijos
-
-1. Daugiabučio namo savininkai (bendrasavininkiai) valdyti ir prižiūrėti namo bendrojo naudojimo objektus gali ir neįsteigę bendrijos, tačiau šiuo atveju jie privalo sudaryti jungtinės veiklos sutartį. Jungtinės veiklos sutartis sudaroma vadovaujantis Lietuvos Respublikos civiliniu kodeksu.
-
-2. Jeigu bendrija neįsteigta arba jau likviduota, kol daugiabučio namo patalpų savininkai (bendrasavininkiai) nėra sudarę jungtinės veiklos sutarties, nurodytos šio straipsnio 1 dalyje, namo bendrojo naudojimo objektų priežiūrai skiriamas administratorius.
-
-3. Administratoriumi gali būti specialiai tam įsteigta savivaldybės įmonė ar vietos savivaldos vykdomosios institucijos sprendimu šias funkcijas vykdyti įgaliota kita Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atestuota ir turinti administravimo patirtį įmonė. Administratoriaus funkcijas vykdanti savivaldybės įmonė negali būti administruojamų namų priežiūros ir remonto paslaugų teikėja. Gyvenamųjų namų priežiūros ir remonto paslaugos perkamos konkurso tvarka, vadovaujantis paslaugų kainos ir kokybės kriterijais.
-
-4. Administratorius veikia pagal savivaldybės mero (valdybos) patvirtintus daugiabučių namų patalpų savininkų (bendrasavininkių) bendrosios nuosavybės administravimo nuostatus. Pavyzdinius šio administravimo nuostatus tvirtina Vyriausybė arba jos įgaliota institucija. Administravimo nuostatuose turi būti numatyta sprendimų, nurodytų šio įstatymo 8 straipsnyje, priėmimo procedūros ir tvarka, taip pat daugiabučio namo patalpų savininkų (bendrasavininkių) jungtinės veiklos sutarties sudarymo iniciatyva.
-
-5. Administravimo išlaidas apmoka namo patalpų savininkai proporcingai jų daliai bendrojoje nuosavybėje. Administravimo išlaidų tarifus tvirtina vietos savivaldos vykdomoji institucija.
-
-6. Administravimas nutraukiamas įregistravus gyvenamojo namo patalpų savininkų bendriją ir jos įstatus arba sudarius daugiabučio namo savininkų (bendrasavininkių) jungtinės veiklos sutartį.
+Nr. IX-532, 2001-10-09, Žin. 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 ANTRASIS SKIRSNIS
 
@@ -197,13 +171,21 @@ BENDRIJOS STEIGIMAS
 
 2. Bendrijos įstatuose turi būti nurodyta:
 
-1) bendrijos pavadinimas, adresas;
+1) bendrijos pavadinimas, buveinė;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 2) bendrijos veiklos tikslai ir uždaviniai;
 
 3) bendrijos narių teisės, pareigos ir atsakomybė pagal bendrijos prievoles;
 
-4) bendrijos narių susirinkimų ir(ar) bendrijos narių įgaliotinių delegavimo bei jų susirinkimų šaukimo, sprendimų priėmimo susirinkimuose tvarka, taip pat sprendimų priėmimo bendrijos narių apklausos būdu tvarka;
+4) bendrijos narių susirinkimų ir (ar) bendrijos narių įgaliotinių delegavimo bei jų susirinkimų šaukimo, sprendimų priėmimo susirinkimuose tvarka, įstatų keitimo tvarka, taip pat sprendimų priėmimo balsuojant raštu tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 5) bendrijos valdymo ir kontrolės organai, jų rinkimo tvarka, teisės ir pareigos bei atsakomybė;
 
@@ -218,6 +200,12 @@ BENDRIJOS STEIGIMAS
 3. Įstatuose gali būti nustatytos ir kitos įstatymams neprieštaraujančios nuostatos.
 
 4. Pavyzdinius bendrijos įstatus tvirtina Vyriausybė ar jos įgaliota institucija.
+
+5. Bendrijos įstatus turi pasirašyti jos steigėjai – butų ir kitų patalpų savininkai ar jų įgalioti asmenys.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 14 straipsnis. Įstatų ir bendrijos registravimas
 
@@ -261,29 +249,17 @@ BENDRIJOS REORGANIZAVIMAS IR LIKVIDAVIMAS
 
 16 straipsnis. Bendrijos likvidavimas
 
-Bendrija likviduojama, jeigu joje lieka mažiau kaip trys nariai. Apie tai raštu vietos savivaldos vykdomajai institucijai per 10 dienų privalo pranešti bendrijos valdyba (bendrijos pirmininkas). Bendrija taip pat gali būti likviduojama teismo sprendimu, jeigu pažeidžia šį įstatymą ir kitus įstatymus arba jeigu teismo sprendimu yra pripažinta nemokia. Bendrijos narių susirinkimo sprendimu bendrija gali būti likviduojama, kai už tai balsuoja ne mažiau kaip 2/3 bendrijos narių.
+Bendrija likviduojama Civilinio kodekso nustatyta tvarka.
 
-17 straipsnis. Bendrijos likvidavimo procedūra
+Straipsnio pakeitimai:
 
-1. Bendrijai likviduoti skiriamas likvidatorius. Jį skiria bendrijos narių susirinkimas ar teismas. Teismui bendrijos likvidatorių siūlo bendrijos valdyba (bendrijos pirmininkas).
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
-2. Likvidatoriumi gali būti paskirtas ir ne bendrijos narys. Darbo sutartį su likvidatoriumi sudaro bendrijos valdyba (bendrijos pirmininkas).
+17 straipsnis. Neteko galios nuo 2001-10-26
 
-3. Nuo likvidatoriaus paskyrimo dienos savo įgaliojimų netenka bendrijos valdymo organai.
+Straipsnio naikinimas:
 
-4. Priimtas sprendimas likviduoti bendriją turi būti skelbiamas viešai spaudoje ir registruojamas vietos savivaldos vykdomojoje institucijoje. Apie priimtą sprendimą likviduoti bendriją per dvi savaites nuo sprendimo priėmimo dienos raštu pranešama visiems bendrijos kreditoriams, debitoriams bei visiems namo patalpų savininkams.
-
-5. Likviduojama bendrija turi teisę sudaryti tik tuos sandorius, kurie susiję su bendrijos likvidavimu. Sandorius likviduojamos bendrijos vardu sudaro likvidatorius.
-
-6. Likviduojamos bendrijos turtas parduodamas ir kreditorių reikalavimai tenkinami Įmonių bankroto įstatymo nustatyta tvarka.
-
-7. Jei kyla ginčų dėl bendrijos skolų mokėjimo, bendrijos turtas negali būti dalijamas bendrijos nariams, kol teismas neišspręs šio ginčo ir nebus atsiskaityta su kreditoriais.
-
-8. Patenkinus visų kreditorių reikalavimus, likęs bendrijos turtas padalijamas namo patalpų savininkams proporcingai jų įnašams šiam turtui įsigyti.
-
-9. Likvidatorius yra atsakingas bendrijai ir tretiesiems asmenims už nuostolius, atsiradusius dėl jo kaltės.
-
-10. Bendriją likvidavus, daugiabučio namo bendrojo naudojimo objektų ir jam priskirto žemės sklypo valdymą, priežiūrą ir kitokį tvarkymą perima vietos savivaldos vykdomoji institucija.
+Nr. IX-532, 2001-10-09, Žin. 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 18 straipsnis. Likviduotų bendrijų išregistravimas
 
@@ -313,7 +289,11 @@ BENDRIJOS VALDYMAS
 
 1. Bendrijos valdymo organai yra bendrijos narių susirinkimas, bendrijos valdyba (bendrijos pirmininkas).
 
-2. Bendrijos narių susirinkimas gali nustatyti atstovavimo kvotas, išrinkti įgaliotinius ir perduoti bendrijos įgaliotinių susirinkimui dalį savo teisių bei pareigų. Bendrijos narių įgaliotinių teises nustato bendrijos nuostatai.
+2. Bendrijos narių susirinkimas gali nustatyti atstovavimo kvotas, išrinkti įgaliotinius ir perduoti bendrijos įgaliotinių susirinkimui dalį savo teisių bei pareigų. Bendrijos narių įgaliotinių teises nustato bendrijos įstatai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 20 straipsnis. Bendrijos narių susirinkimas
 
@@ -325,11 +305,19 @@ Aukščiausias bendrijos valdymo organas yra bendrijos narių susirinkimas. Susi
 
 3) nustatyti bendrijos ūkinės veiklos organizavimo ir valdymo tvarką ir su tuo susijusius įgaliojimus valdybos nariams (bendrijos pirmininkui), taip pat jų darbo apmokėjimo sąlygas, samdomų darbuotojų skaičių ir jų darbo apmokėjimo tvarką arba sutarčių su gyvenamųjų namų priežiūros ir administravimo paslaugas teikiančiomis įmonėmis sudarymo sąlygas;
 
-4) tvirtinti bendrijos metinę pajamų ir išlaidų sąmatą, bendrojo naudojimo objektų atnaujinimo (remonto ar rekonstrukcijos) ar modernizavimo metinį bei ilgalaikį planą, lėšų įstatymuose nurodytiems privalomiems statinių naudojimo ir priežiūros reikalavimams įgyvendinti kaupimo tvarką.
+4) tvirtinti bendrijos metinę pajamų ir išlaidų sąmatą, bendrojo naudojimo objektų atnaujinimo (remonto ar rekonstrukcijos) ar modernizavimo metinį bei ilgalaikį planą, lėšų įstatymuose ir kituose teisės aktuose nurodytiems privalomiems statinių naudojimo ir priežiūros reikalavimams įgyvendinti kaupimo tvarką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 5) vertinti bendrijos valdybos (bendrijos pirmininko) veiklą, tvirtinti metinę bendrijos ūkinės ir finansinės veiklos ataskaitą ir revizijos komisijos (revizoriaus) išvadas apie bendrijos finansinę veiklą;
 
-6) nustatyti patalpų savininkų atsiskaitymo už bendrojo naudojimo objektų eksploatavimą, vandenį, energiją ir komunalines paslaugas sąlygas ir tvarką, nepažeisdamas norminių aktų ir jais nustatytos atsiskaitymo tvarkos;
+6) spręsti naujų narių priėmimo į bendriją klausimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 7) nustatyti disponavimo bendrijos turtu ir lėšomis tvarką, spręsti lėšų skolinimosi bei pajamų paskirstymo klausimus;
 
@@ -377,9 +365,17 @@ Aukščiausias bendrijos valdymo organas yra bendrijos narių susirinkimas. Susi
 
 1) rengia bendrijos metinę pajamų ir išlaidų sąmatą, bendrojo naudojimo objektų atnaujinimo (remonto, rekonstrukcijos) ar modernizavimo metinį bei ilgalaikį planą, taip pat metinę bendrijos ūkinės ir finansinės veiklos ataskaitą ir teikia ją bendrijos susirinkimui;
 
-2) tvarko ir saugo bendrijos narių (patalpų savininkų) registravimo knygą, namo ir jam priskirto žemės sklypo techninę ir juridinę dokumentaciją, tvarko bendrijos raštvedybą;
+2) tvarko ir saugo bendrijos narių ir butų bei kitų patalpų savininkų registravimo knygą, namo ir jam priskirto žemės sklypo techninę ir juridinę dokumentaciją, tvarko bendrijos raštvedybą;
 
-3) bendrijos įstatų ir bendrijos susirinkimo nustatyta tvarka organizuoja ir vadovauja bendrijos ūkinei veiklai, susijusiai su namo bendrojo naudojimo objektų, taip pat namui priskirto žemės sklypo naudojimu, priežiūra ir kitokiu tvarkymu, arba šias funkcijas sutarties pagrindu paveda paskirtam administratoriui ar įmonei, teikiančiai gyvenamųjų namų valdymo administravimo ir priežiūros paslaugas;
+Straipsnio punkto pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+
+3) bendrijos narių susirinkimo nustatyta tvarka organizuoja bendrijos ūkinę veiklą, susijusią su bendrojo naudojimo objektų, taip pat namui priskirto žemės sklypo naudojimu ir priežiūra;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 4) priima ir atleidžia iš darbo bendrijos samdomus darbuotojus;
 
@@ -397,13 +393,39 @@ Aukščiausias bendrijos valdymo organas yra bendrijos narių susirinkimas. Susi
 
 5. Bendrijos valdyba (bendrijos pirmininkas) privalo solidariai atlyginti bendrijai nuostolius, padarytus dėl valdybos (bendrijos pirmininko) nutarimų, priimtų pažeidžiant bendrijos įstatus, šį ir kitus Lietuvos Respublikos įstatymus. Nuo pareigos atlyginti nuostolius atleidžiami tie bendrijos valdybos nariai, kurie balsavo prieš tokį nutarimą arba nedalyvavo posėdyje jį priimant ir per 7 dienas po to, kai sužinojo ar turėjo sužinoti apie tokį nutarimą, įteikė valdybos pirmininkui rašytinį protestą. Bendrijos valdyba (bendrijos pirmininkas) gali būti atleidžiama nuo atlyginimo nuostolių, kuriuos ji padarė atlikdama pareigas, jeigu ji rėmėsi bendrijos dokumentais ir kita informacija, kurios tikrumu nebuvo pagrindo abejoti, arba veikė neviršydama normalios ūkinės rizikos laipsnio. Ginčus dėl nuostolių atlyginimo sprendžia teismas.
 
-24 straipsnis. Bendrijos veiklos kontrolė
+6. Bendrijos valdyba (bendrijos pirmininkas) privalo sudaryti bendrojo naudojimo objektų aprašą ir prireikus jį papildyti arba pakeisti. Šiame apraše turi būti nurodyta bendrojo naudojimo objektų techninė būklė.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+
+7. Bendrijos valdyba (bendrijos pirmininkas) bendrojo naudojimo objektų aprašą viešai paskelbia patalpų savininkams namo skelbimų lentoje ir pateikia jį kitiems jai (jam) žinomiems su bendrojo naudojimo objektų valdymu susijusiems suinteresuotiems asmenims. Kiekvienas suinteresuotas asmuo turi teisę ginčyti bendrojo naudojimo objektų aprašą ir reikalauti atlikti turto inventorizaciją iš naujo.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+
+24 straipsnis. Bendrijos veiklos tyrimas ir kontrolė
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 1. Bendrijos valdybos (bendrijos pirmininko) veiklą kontroliuoja revizijos komisija (revizorius). Jei nustatoma pažeidimų, medžiaga perduodama svarstyti bendrijos narių (įgaliotinių) susirinkimui. Komisijos narių skaičių nustato ir ne daugiau kaip 2 metams ją renka bendrijos narių susirinkimas. Revizijos komisijos nariais (revizoriumi) negali būti bendrijos valdybos nariai (bendrijos pirmininkas) ir asmenys, kuriuos su valdybos nariais (bendrijos pirmininku) sieja artimi giminystės ar svainystės ryšiai (tėvai (įtėviai), vaikai (įvaikiai), sutuoktiniai, broliai, seserys, taip pat sutuoktinių broliai, seserys, tėvai ir vaikai).
 
 2. Pasibaigus ūkiniams metams, revizijos komisija (revizorius) atlieka nuodugnų veiklos patikrinimą, vertina ir teikia išvadą apie bendrijos finansinę veiklą. Bendrijos valdyba (bendrijos pirmininkas) privalo pateikti revizijos komisijai (revizoriui) paaiškinimus ir reikalingus dokumentus.
 
-3. Revizorius privalo atlikti neeilinį finansinės veiklos patikrinimą, jei to reikalauja ne mažiau kaip 1/4 bendrijos narių, ir revizijos ataskaitą pateikti bendrijos narių susirinkimui.
+3. Revizijos komisija (revizorius) privalo atlikti neeilinį finansinės veiklos patikrinimą, jei to reikalauja ne mažiau kaip 1/4 bendrijos narių, ir revizijos ataskaitą pateikti bendrijos narių susirinkimui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+
+4. Ne mažiau kaip 1/5 bendrijos narių turi teisę prašyti teismo paskirti ekspertus, kad šie ištirtų, ar bendrija, bendrijos valdyba (bendrijos pirmininkas) veikė tinkamai. Pareiškimo teismui padavimą, ekspertų paskyrimą, jų darbo apmokėjimą ir teismo taikomas priemones dėl netinkamų bendrijos ar bendrijos valdybos (bendrijos pirmininko) veiksmų nustato Civilinis kodeksas.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 PENKTASIS SKIRSNIS
 
@@ -435,7 +457,11 @@ BENDRIJOS IR JOS NARIŲ TEISĖS IR PAREIGOS
 
 2) laikytis įstatymų nustatytų statinių naudojimo ir priežiūros reikalavimų, darbų saugos, higienos, aplinkosaugos, priešgaisrinių ir kitų specialiųjų reikalavimų;
 
-3) laiku mokėti įstatymų nustatytus mokesčius, įmokas ir rinkliavas;
+3) laiku mokėti įstatymų ir kitų teisės aktų nustatytus mokesčius, įmokas ir rinkliavas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 4) saugoti ir ginti bendrijos ir jos narių teises bei ekonominius ir kitus teisėtus interesus, susijusius su namo bendrojo naudojimo objektų valdymu, priežiūra ir kitokiu tvarkymu;
 
@@ -447,33 +473,25 @@ BENDRIJOS IR JOS NARIŲ TEISĖS IR PAREIGOS
 
 27 straipsnis. Bendrijos nariai
 
-1. Bendrijos nariu gali būti tik jos patalpų savininkas.
+1. Bendrijos nariu gali būti tik namo, kuriame įsteigta bendrija, patalpų savininkas.
 
-2. Į bendriją įstojama bendrijos įstatų nustatyta tvarka.
+2. Į bendriją įstojama ir iš jos išstojama buto ar kitų patalpų savininko prašymu bendrijos įstatų nustatyta tvarka.
 
-3. Patalpų savininkams juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių, bei valstybei ir savivaldybėms bendrijos veikloje atstovauja jų įgalioti asmenys. Bendrijos narys fizinis asmuo gali raštu įgalioti vietoj savęs dalyvauti bendrijos veikloje kitą asmenį (atstovą), nurodydamas įgaliojimo terminą, bet ne ilgesnį kaip 3 metai.
+3. Patalpų savininkams – juridiniams asmenims bei valstybei ir savivaldybėms bendrijos veikloje atstovauja jų įgalioti asmenys. Bendrijos narys – fizinis asmuo gali raštu įgalioti vietoj savęs dalyvauti bendrijos veikloje kitą asmenį (atstovą), nurodydamas įgaliojimo terminą, bet ne ilgesnį kaip 3 metai.
 
-4. Bendrijos nario teises ir pareigas patalpų savininkai įgyja nuo bendrijos ir jos įstatų įregistravimo dienos arba nuo nuosavybės teisės į patalpas bendrijos name atsiradimo dienos.
-
-Straipsnio dalies pakeitimai:
-
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo (1995 m. vasario 21 d. redakcija) 16 straipsnio 1 dalies nuostatos, kad bendrijos nariai yra namų patalpų savininkai ir kad bendrijos nario teises ir pareigas namo patalpų savininkai įgyja nuo bendrijos įstatų įregistravimo dienos arba nuo nuosavybės teisės į patalpas bendrijos name atsiradimo dienos, taip pat 17 straipsnio 2 dalis ir šio įstatymo (2000 m. birželio 20 d. redakcija) 27 straipsnio 4 dalis ta apimtimi, kuria jose narystės daugiabučių namų savininkų bendrijoje atsiradimas nesiejamas su savininko laisva valia, prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 1 ir 2 dalims.
-
-2000-12-21, Žin., 2000, Nr. 110-3536 (2000-12-28), i. k. 1001000NUTARG003446
+4. Bendrijos nario teises ir pareigas patalpų savininkai įgyja nuo įstojimo į bendriją dienos.
 
 5. Patalpų bendrasavininkiams atstovauja vienas asmuo jų tarpusavio susitarimu.
 
 6. Bendrijos nariai registruojami registravimo knygoje. Joje nurodomas patalpos savininko vardas ir pavardė, gyvenamoji vieta (juridinių asmenų – pavadinimas ir adresas), nuosavybės teisės į patalpas įgijimo pagrindas ir data bei patalpų plotas.
 
-7. Narystė bendrijoje pasibaigia nariui mirus, nariui netekus nuosavybės teisės į visas bendrijos name turėtas patalpas bei likvidavus bendriją.
-
-Straipsnio dalies pakeitimai:
-
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo (1995 m. vasario 21 d. redakcija) 17 straipsnio 1 dalis ir šio įstatymo (2000 m. birželio 20 d. redakcija) 27 straipsnio 7 dalis ta apimtimi, kuria jose paneigiama savininko teisė laisva valia išstoti iš daugiabučių namų savininkų bendrijos, prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 1 ir 2 dalims.
-
-2000-12-21, Žin., 2000, Nr. 110-3536 (2000-12-28), i. k. 1001000NUTARG003446
+7. Narystė bendrijoje pasibaigia nariui mirus, nariui netekus nuosavybės teisės į visas bendrijos name turėtas patalpas, nariui išstojus iš bendrijos bei likvidavus bendriją.
 
 8. Fizinis ar juridinis asmuo, pirkęs, paveldėjęs ar kitaip įsigijęs patalpas bendrijos valdomame name, per 10 darbo dienų nuo nuosavybės teisės įgijimo apie tai raštu praneša bendrijos valdybai (bendrijos pirmininkui).
+
+Straipsnio pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 28 straipsnis. Bendrijos nario teisės
 
@@ -489,7 +507,13 @@ TAR pastaba. Pripažinti, kad Lietuvos Respublikos daugiabučių namų savinink�
 
 5) gauti informaciją apie bendrijos veiklą, jos finansinę būklę, turtą, pajamas ir išlaidas bei privalomus mokesčius;
 
-6) įgyvendinti kitas įstatymų nustatytas teises.
+6) įgyvendinti kitas įstatymų nustatytas teises;
+
+7) išstoti iš bendrijos.
+
+Papildyta straipsnio punktu:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 2. Bendrijos narys, jo šeimos nariai, laikinieji gyventojai ir asmenys, kurie naudojasi savininko patalpomis sutarties pagrindu, turi teisę naudotis gyvenamojo namo bendrojo naudojimo objektais pagal jų funkcinę paskirtį, nepažeisdami kitų patalpų savininkų, jų šeimos narių, laikinųjų gyventojų ir asmenų, kurie naudojasi savininko patalpomis sutarties pagrindu, teisių bei teisėtų interesų.
 
@@ -507,7 +531,11 @@ TAR pastaba. Pripažinti, kad Lietuvos Respublikos daugiabučių namų savinink�
 
 5) atsiskaityti nustatyta tvarka už teikiamas paslaugas, mokėti bendrijos nustatytas įmokas;
 
-6) apmokėti bendrijos nustatytas išlaidas, susijusias su namo bendrojo naudojimo objektų valdymu, priežiūra, remontu ar tvarkymu pagal įstatymų ir kitų teisės aktų nustatytus privalomus statinių naudojimo ir priežiūros reikalavimus, taip pat žemės sklypo naudojimu ir priežiūra proporcingai jo daliai bendrojoje nuosavybėje, jei bendrija neišsprendžia kitaip;
+6) apmokėti bendrijos nustatytas išlaidas, susijusias su namo bendrojo naudojimo objektų valdymu, priežiūra, remontu ar tvarkymu pagal įstatymų ir kitų teisės aktų nustatytus privalomus statinių naudojimo ir priežiūros reikalavimus, taip pat žemės sklypo naudojimu ir priežiūra, proporcingai jo daliai bendrojoje nuosavybėje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 7) savavališkai, be bendrijos valdybos (bendrijos pirmininko) ar jų įgalioto asmens leidimo nereguliuoti, nekeisti, neremontuoti namo bendrosios inžinerinės įrangos, bendrųjų konstrukcijų ir bendrojo naudojimo patalpų;
 
@@ -515,7 +543,11 @@ TAR pastaba. Pripažinti, kad Lietuvos Respublikos daugiabučių namų savinink�
 
 9) atsakyti pagal savo prievoles.
 
-2. Bendrijos narys neprivalo apmokėti išlaidų, dėl kurių jis nėra davęs sutikimo ir kurios nesusiję su įstatymų ir kitų teisės aktų nustatytais privalomais statinių naudojimo ir priežiūros reikalavimais bei valstybės įgyvendinamomis energijos taupymo programomis.
+2. Bendrijos narys neprivalo apmokėti išlaidų, dėl kurių jis nėra davęs sutikimo ir kurios nesusijusios su įstatymų ir kitų teisės aktų nustatytais privalomais statinių naudojimo ir priežiūros reikalavimais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 ŠEŠTASIS SKIRSNIS
 
@@ -537,7 +569,11 @@ BENDRIJOS TURTAS IR LĖŠOS
 
 2) pajamos, gautos disponuojant bendrijos turtu arba naudojant bendrojo naudojimo patalpas ir kitus objektus;
 
-3) valstybės, savivaldybės, fizinių ar juridinių asmenų bei įmonių, neturinčių juridinio asmens teisių, parama.
+3) valstybės, savivaldybės, fizinių ar juridinių asmenų dovanos (aukos ).
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 2. Pajamos, gautos disponuojant bendrijos turtu arba naudojant bendrojo naudojimo objektus, paskirstomos bendrijos nariams proporcingai jų daliai bendrojoje nuosavybėje bendrijos susirinkimo nustatytu būdu.
 
@@ -549,9 +585,17 @@ BAIGIAMOSIOS NUOSTATOS
 
 32 straipsnis. Valstybės ir savivaldybių santykiai su daugiabučių namų savininkais ir jų bendrijomis
 
-1. Valstybė ir savivaldybės, turėdamos tikslą išsaugoti nacionalinį turtą – šalies būsto fondą, remia būsto savininkus bei jų bendrijas, siekiančias tinkamai prižiūrėti, atnaujinti ar apšiltinti savo būstus ir bendrojo naudojimo objektus. Valstybės rėmimo būdus ir sąlygas nustato įstatymai bei Vyriausybės patvirtintos specialios programos.
+1. Valstybė ir savivaldybės, turėdamos tikslą išsaugoti nacionalinį turtą – šalies būsto fondą, remia būsto savininkus bei jų bendrijas, siekiančias tinkamai prižiūrėti, atnaujinti ar apšiltinti savo būstus ir bendrojo naudojimo objektus. Valstybės rėmimo būdus ir sąlygas nustato įstatymai, kiti teisės aktai bei Vyriausybės patvirtintos specialiosios programos.
 
-2. Valstybė ir savivaldybės įstatymų nustatyta tvarka remia mažai pajamų gaunančias šeimas (asmenis) visiškai ar iš dalies padengdamos išlaidas būsto ir bendrojo naudojimo objektų priežiūrai.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+
+2. Valstybė ir savivaldybės įstatymų bei kitų teisės aktų nustatyta tvarka remia mažai pajamų gaunančias šeimas (asmenis) visiškai ar iš dalies padengdamos išlaidas būsto ir bendrojo naudojimo objektų priežiūrai ir atnaujinimui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 3. Savivaldybių rėmimo būdus ir sąlygas nustato vietos savivaldos institucijos atitinkamose rėmimo programose.
 
@@ -559,13 +603,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 5. Bendrijoms remti savivaldybėse sudaromas specialus bendrijų rėmimo fondas. Jo sudarymo ir lėšų naudojimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
-33 straipsnis. Energijos, dujų ir vandens tiekimo organizavimas
+33 straipsnis. Neteko galios nuo 2001-10-26
 
-1. Šilumos ir elektros energijos, dujų ir vandens tiekėjai pagal teisės aktų reikalavimus privalo sudaryti tiekimo vartojimo sutartis su kiekvienu daugiabučio namo patalpų savininku. Šilumos ir elektros energijos bei vandens tiekėjais daugiabučio namo patalpų savininkams gali būti ir bendrija.
+Straipsnio naikinimas:
 
-2. Atsiskaitymo už elektros energijos, dujų ir vandens sąnaudas bendroms namo reikmėms tvarka nustatoma pagal atskiras tiekėjų ir bendrijų sutartis, sudarytas laikantis teisės aktų reikalavimų.
-
-3. Šilumos ir elektros energijos, dujų ir vandens tiekimas daugiabučiams namams negali būti nutrauktas dėl atskirų patalpų savininkų įsiskolinimo tiekėjams. Įsiskolinimai turi būti išieškomi įstatymų nustatyta tvarka.
+Nr. IX-532, 2001-10-09, Žin. 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 
 34 straipsnis. Individualių gyvenamųjų namų ir dalimis (patalpomis) privatizuotų garažų, poilsio namų ir kitų negamybinių pastatų savininkų bendrijų steigimas
 
@@ -604,4 +646,12 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2000-12-21, Žin., 2000, Nr. 110-3536 (2000-12-28), i. k. 1001000NUTARG003446
 
 Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo (1995 m. vasario 21 d. redakcija) 16 straipsnio 1 dalies, 17 straipsnio 1 ir 2 dalių, 19 straipsnio ir šio įstatymo (2000 m. birželio 20 d. redakcija) 27 straipsnio 4 ir 7 dalių, taip pat Lietuvos Respublikos Vyriausybės 1995 m. birželio 15 d. nutarimu Nr. 852 "Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo įgyvendinimo tvarkos" patvirtintų Tipinių daugiabučių namų savininkų bendrijų įstatų 8 punkto 1, 3 ir 4 pastraipų, 10 punkto 1 pastraipos atitikties Lietuvos Respublikos Konstitucijai
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+
+Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo ir Daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymo 2 straipsnio pripažinimo netekusiu galios įstatymas
 
