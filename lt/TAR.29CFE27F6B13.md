@@ -4,7 +4,7 @@ identifier: "TAR.29CFE27F6B13"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "1999-06-11"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
+
+Suvestinė redakcija nuo 2003-05-01 iki 2006-02-10
+
+Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
 
 LIETUVOS RESPUBLIKOS KARIUOMENĖS DRAUSMĖS STATUTO PATVIRTINIMO Į S T A T Y M A S
 
@@ -200,7 +204,11 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 
 2. Karys sulaikomas esant šiems pagrindams:
 
-1) užkluptas darant arba įtariamas padaręs nusikaltimą;
+1) užkluptas darant arba įtariamas padaręs nusikalstamą veiką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
 
 2) atsisakęs vykdyti teisėtą vado (viršininko) reikalavimą nutraukti drausmės pažeidimą;
 
@@ -290,7 +298,11 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 
 4) apginti kitiems asmenims nuo užpuolimo, kai gresia pavojus jų sveikatai ar gyvybei;
 
-5) sulaikant karį, darantį Baudžiamojo kodekso numatytą nusikaltimą, jeigu kitaip kario sulaikyti neįmanoma;
+5) sulaikant karį, darantį Baudžiamojo kodekso numatytą nusikalstamą veiką, jeigu kitaip kario sulaikyti neįmanoma;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
 
 6) masinių riaušių ar grupinių veiksmų, šiurkščiai pažeidžiančių tvarką karinėse teritorijose, atvejais.
 
@@ -338,7 +350,11 @@ Drausmės pažeidimų tyrimo paskirtis:
 
 1. Vadas (viršininkas), sužinojęs apie padarytą drausmės pažeidimą, nedelsdamas privalo pradėti jo tyrimą ir asmeniškai už jį atsako.
 
-2. Drausmės pažeidimo tyrimo metu nustačius nusikaltimo požymius, vadas (viršininkas) nedelsdamas privalo imtis Baudžiamojo proceso kodekso numatytų priemonių nusikalstamos veikos įvykiui ir jį padariusiems asmenims nustatyti bei apie įvykį ir priemones, kurių imtasi įvykiui tirti, informuoti karo policiją, suteikiant jai visą kvotai atlikti reikalingą medžiagą, arba kvotą atlikti pats kariuomenės vado nustatytais atvejais.
+2. Drausmės pažeidimo tyrimo metu nustačius nusikalstamos veikos požymius, vadas (viršininkas) nedelsdamas privalo imtis Baudžiamojo proceso kodekso numatytų priemonių nusikalstamos veikos įvykiui ir jį padariusiems asmenims nustatyti bei apie įvykį ir priemones, kurių imtasi įvykiui tirti, informuoti karo policiją, suteikiant jai visą ikiteisminiam tyrimui atlikti reikalingą medžiagą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
 
 3. Vadas (viršininkas), pažeidęs drausmės pažeidimų tyrimo tvarką, atsako šio statuto nustatyta tvarka.
 
@@ -380,7 +396,11 @@ Drausmės pažeidimų tyrimo paskirtis:
 
 2) tikrinamo drausmės pažeidimo įvykio dalyviams išaiškinti jų teises ir pareigas;
 
-3) nedelsdamas informuoti vadą (viršininką), paskyrusį tarnybinį patikrinimą, apie patikrinimo metu nustatytą veiką, turinčią nusikaltimo ar administracinės teisės pažeidimo požymių;
+3) nedelsdamas informuoti vadą (viršininką), paskyrusį tarnybinį patikrinimą, apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos ar administracinės teisės pažeidimo požymių;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
 
 4) saugoti valstybės ir tarnybines paslaptis, taip pat konfidencialias žinias apie asmenis, kurias sužinojo patikrinimo metu.
 
@@ -974,13 +994,21 @@ Jei privalomosios karo tarnybos karys tarnybos metu yra neblaivus arba apsvaigę
 
 86 straipsnis. Krašto apsaugos sistemos turto praradimas
 
-1. Už ginklų, šaudmenų, sprogmenų, transporto priemonių, karinės technikos ar kitokio krašto apsaugos sistemos turto, patikėto tarnybos reikalams, praradimą dėl neatsargumo, nesant nusikaltimo požymių, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamas pataisos areštas iki 10 parų, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis, arba karys atleidžiamas iš pareigų.
+1. Už ginklų, šaudmenų, sprogmenų, transporto priemonių, karinės technikos ar kitokio krašto apsaugos sistemos turto, patikėto tarnybos reikalams, praradimą dėl neatsargumo, nesant nusikalstamos veikos požymių, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamas pataisos areštas iki 10 parų, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis, arba karys atleidžiamas iš pareigų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
 
 2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos.
 
 87 straipsnis. Krašto apsaugos sistemos turto sugadinimas ar sunaikinimas
 
-1. Už ginklų, šaudmenų, sprogmenų, transporto priemonių, karinės technikos ar kitokio krašto apsaugos turto sugadinimą ar sunaikinimą, nesant nusikaltimo požymių, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamas pataisos areštas iki 10 parų, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis, arba karys atleidžiamas iš pareigų.
+1. Už ginklų, šaudmenų, sprogmenų, transporto priemonių, karinės technikos ar kitokio krašto apsaugos turto sugadinimą ar sunaikinimą, nesant nusikalstamos veikos požymių, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamas pataisos areštas iki 10 parų, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis, arba karys atleidžiamas iš pareigų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
 
 2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos.
 
@@ -1068,123 +1096,13 @@ Už šiame statute numatytą drausmės pažeidimą, padarytą atsargos arba dimi
 
 ______________
 
-561 straipsnis. Drausminės atsakomybės taikymas
+Pakeitimai:
 
-1. Karo padėties metu į ginkluotųjų pajėgų narių sąrašą įrašyti asmenys drausminėn atsakomybėn traukiami vadovaujantis šio skyriaus ir kitomis šio statuto nuostatomis šiame skyriuje nurodytais atvejais.
+1.
 
-2. Užtikrinant ginkluotųjų pajėgų narių drausmę, taikant drausminę atsakomybę, nagrinėjant skundus dėl drausminės nuobaudos, mutatis mutandis taikomos šio statuto I dalies I, II ir III skyrių, 12, 13, 15 straipsnių, 18 straipsnio 3 dalies ir I dalies VIII skyriaus nuostatos.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Ginkluotųjų pajėgų nariams už raštu ar žodžiu viešai reiškiamą nesutikimą su demokratiškai išrinktos, sudarytos valstybės valdžios (Lietuvos Respublikos Seimo, Respublikos Prezidento, Lietuvos Respublikos Vyriausybės) paskelbta ir vykdoma politika ar už viešai keliamus politinius reikalavimus valstybės valdžiai, taip pat už veikas, nustatytas šio statuto II dalyje, taikomos šio statuto 563 straipsnio 1 dalyje numatytos drausminės nuobaudos.
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
 
-4. Šio statuto 563 straipsnio 1 dalyje numatytos drausminės nuobaudos skiriamos ir šio statuto 563 straipsnio 2 ir 15 dalyse numatyti veiksmai įforminami raštu. Jeigu dėl vykdomų valstybės ginkluotos gynybos veiksmų šio statuto 563 straipsnio 1 dalyje numatytų drausminių nuobaudų skirti ir šio statuto 563 straipsnio 2 ir 15 dalyse numatytų veiksmų įforminti raštu nėra galimybės, jie vykdomi žodžiu, o pasikeitus aplinkybėms ir atsiradus galimybei įforminami raštu kariuomenės vado nustatyta tvarka.
-
-562 straipsnis. Ginkluotųjų pajėgų nario sulaikymas
-
-1. Ginkluotųjų pajėgų narys gali būti sulaikomas, kai:
-
-1) yra šio statuto 14 straipsnio 2 dalies 1, 2, 5, 6 punktuose numatyti pagrindai;
-
-2) jis neturi dokumentų, įrodančių jo tapatybę ir priklausomybę ginkluotosioms pajėgoms.
-
-2. Sulaikytas ginkluotųjų pajėgų narys laikomas specialiai tam pritaikytoje patalpoje, jeigu tokių patalpų nėra, kitoje vietoje, nekeliančioje grėsmės sulaikytojo gyvybei ir sveikatai.
-
-3. Ginkluotųjų pajėgų narys sulaikomas, iki išnyks sulaikymo pagrindas ir bus galima nekeliant grėsmės jo sveikatai ir gyvybei ir nepakenkiant ginkluotųjų pajėgų vieneto veiklai jį paleisti, bet ne ilgiau kaip dviem paroms. Jeigu pasibaigus sulaikymo terminui dėl vykdomos ginkluotųjų pajėgų vieneto karinės operacijos ginkluotųjų pajėgų nario paleidimas gali sukelti neproporcingą grėsmę jo sveikatai ar gyvybei arba pakenkti ginkluotųjų pajėgų vieneto vykdomai karinei operacijai, ginkluotųjų pajėgų vado ar jo įgalioto asmens sprendimu sulaikymo terminas gali būti pratęstas iki penkių parų, neviršijant maksimalaus septynių parų sulaikymo termino, bet ne ilgiau, negu išnyks atitinkamos aplinkybės.
-
-4. Kariuomenės vadas nustato ginkluotųjų pajėgų narių sulaikymo tvarką, laikymo sąlygas ir tvarką, sulaikytojo paleidimo tvarką.
-
-563 straipsnis. Drausminės nuobaudos ir jų skyrimas
-
-1. Paaiškėjus drausmės pažeidimui, ginkluotųjų pajėgų nariui skiriama viena iš šių drausminių nuobaudų:
-
-1) papeikimas;
-
-2) tarnybinio atlyginimo sumažinimas;
-
-3) papildomos tarnybos užduotys (ši drausminė nuobauda neskiriama ginkluotųjų pajėgų vadui);
-
-4) pareigų pažeminimas;
-
-5) kario laipsnio pažeminimas;
-
-6) puskarininkio, jaunesniojo, vyresniojo karininko ar generolo (admirolo) laipsnio atėmimas (toliau – laipsnio atėmimas).
-
-2. Ginkluotųjų pajėgų vadas ar jo įgaliotas asmuo, gavęs informaciją apie galimai padarytą drausmės pažeidimą, nedelsdamas, bet ne vėliau kaip kitą kalendorinę dieną, privalo pareikalauti ginkluotųjų pajėgų nario paaiškinimo. Ginkluotųjų pajėgų narys per tris kalendorines dienas nuo pareikalavimo dienos gali pateikti paaiškinimą.
-
-3. Nedelsiant, bet ne vėliau kaip per vieną mėnesį nuo ginkluotųjų pajėgų nario paaiškinimo pateikimo dienos, o jeigu paaiškinimas nebuvo pateiktas, nuo dienos, iki kurios ginkluotųjų pajėgų narys galėjo pateikti paaiškinimą, skiriamos drausminės nuobaudos, nustatytos šio straipsnio 1 dalyje, nustatomas šio  straipsnio 1 dalies 2 punkte nurodytos drausminės nuobaudos dydis, taip pat terminas, nustatytas šio straipsnio 6, 11 ir 12 dalyse, įvertinus:
-
-1) padaryto drausmės pažeidimo pobūdį;
-
-2) kaltės formą;
-
-3) pažeidėjo asmenybę;
-
-4) drausminę atsakomybę lengvinančias aplinkybes, nustatytas šio statuto 41 straipsnyje, ir sunkinančias aplinkybes, nustatytas šio statuto 42 straipsnio 1 dalies 4–7 punktuose.
-
-4. Kai paaiškėja, kad drausmės pažeidimas turi nusikalstamos veikos požymių, drausminės atsakomybės taikymo procesas sustabdomas ir ginkluotųjų pajėgų vadas ar jo įgaliotas asmuo, turintis teisę skirti drausminę nuobaudą, turimą informaciją perduoda tirti kompetentingai institucijai. Drausminės atsakomybės taikymo procesas sustabdomas ir tuo atveju, kai paaiškėja, kad dėl šios ginkluotųjų pajėgų nario veikos yra pradėtas ikiteisminis tyrimas. Jeigu atsisakoma pradėti ikiteisminį tyrimą arba pasibaigia baudžiamasis procesas, ginkluotųjų pajėgų vado ar jo įgalioto asmens, turinčio teisę skirti drausminę nuobaudą, sprendimu drausminės atsakomybės taikymo procesas atnaujinamas, nustatant šio straipsnio 3 dalyje nurodytą terminą, arba nutraukiamas, jeigu paaiškėja, kad ginkluotųjų pajėgų narys nepadarė drausmės pažeidimo ar atsirado kitos aplinkybės, dėl kurių negalima ar netikslinga skirti jam drausminę nuobaudą.
-
-5. Papeikimas yra švelniausia drausminė nuobauda, o laipsnio atėmimas – griežčiausia drausminė nuobauda, kuriomis neigiamai įvertinamas ginkluotųjų pajėgų nario padarytas drausmės pažeidimas.
-
-6. Tarnybinis atlyginimas gali būti sumažintas ne daugiau kaip trečdaliu ir ne ilgiau kaip trims mėnesiams. Sumažinus tarnybinį atlyginimą, likusi jo dalis turi būti ne mažesnė kaip viena minimalioji mėnesinė alga.
-
-7. Skyrus drausminę nuobaudą – pareigų pažeminimą, ginkluotųjų pajėgų narys drausminės nuobaudos galiojimo terminui paskiriamas į žemesnes pareigas.
-
-8. Kario laipsnis žeminamas tik vienu laipsniu.
-
-9. Skyrus drausminę nuobaudą – laipsnio atėmimą, ginkluotųjų pajėgų nariui suteikiamas pirmasis kareivio ar jūreivio laipsnis.
-
-10. Pažeminus kario laipsnį ar atėmus laipsnį ginkluotųjų pajėgų narys perkeliamas į pareigas, atitinkančias kario laipsnį.
-
-11. Papildomos tarnybos užduotys skiriamos ne ilgesniam kaip trisdešimties parų laikotarpiui.
-
-12. Šio straipsnio 1 dalies 1, 4, 5 ir 6 punktuose nurodytos drausminės nuobaudos gali būti skiriamos ne trumpesniam kaip vieno mėnesio ir ne ilgesniam kaip vienų metų laikotarpiui.
-
-13. Drausminė nuobauda neskiriama, jeigu nuo drausmės pažeidimo padarymo praėjo vieni metai. Jeigu šio straipsnio 4 dalyje nustatyta tvarka drausminės atsakomybės taikymo procesas sustabdytas ir pradėtas baudžiamasis procesas, vienų metų senaties terminas sustabdomas iki to laiko, kol bus baigtas baudžiamasis procesas ir prokuroras ar teismas priims atitinkamą sprendimą, o nuo atitinkamų sprendimų priėmimo dienos senaties terminas atnaujinamas.
-
-14. Drausmines nuobaudas skiria, jų vykdymą sustabdo ir atnaujina, drausminės atsakomybės taikymo procesą sustabdo, jį atnaujina ginkluotųjų pajėgų vadas ar jo įgaliotas asmuo kariuomenės vado nustatyta tvarka. Pulkininkams (jūrų kapitonams), generolams (admirolams) drausminę nuobaudą – laipsnio atėmimą, laipsnio pažeminimą skiria Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas. Ginkluotųjų pajėgų vadui papeikimą, tarnybinio atlyginimo sumažinimą ar kario laipsnio pažeminimą skiria Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas, pareigų pažeminimą ar laipsnio atėmimą – Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas Seimo pritarimu.
-
-15. Su skirta drausmine nuobauda ginkluotųjų pajėgų narys supažindinamas nedelsiant, bet ne vėliau kaip kitą kalendorinę dieną nuo jos skyrimo dienos. Jeigu dėl vykdomų valstybės ginkluotos gynybos veiksmų šioje dalyje numatytais terminais nėra galimybės supažindinti ginkluotųjų pajėgų narį su jam skirta drausmine nuobauda, jis supažindinamas ne vėliau kaip kitą dieną nuo šios galimybės atsiradimo dienos.
-
-16. Jeigu ginkluotųjų pajėgų narys nesutinka su šio statuto nustatyta tvarka ginkluotųjų pajėgų vado įgalioto asmens paskirta drausmine nuobauda, jis turi teisę per penkias kalendorines dienas nuo  dienos, kai buvo supažindintas su paskirta ir raštu įforminta drausmine nuobauda, pateikti skundą drausminę nuobaudą skyrusio ginkluotųjų pajėgų vado įgalioto asmens tiesioginiam vadui per drausminę nuobaudą skyrusį ginkluotųjų pajėgų vado įgaliotą asmenį. Ginkluotųjų pajėgų vado įgaliotas asmuo, priėmęs sprendimą skirti drausminę nuobaudą, ne vėliau kaip per tris kalendorines dienas nuo skundo gavimo dienos skundą ir visą turimą informaciją pateikia savo tiesioginiam vadui. Drausminę nuobaudą skyrusio ginkluotųjų pajėgų vado įgalioto asmens tiesioginis vadas įvertina skunde pateiktas aplinkybes ir priima vieną iš šių sprendimų:
-
-1) patenkina skundą;
-
-2) patenkina skundą iš dalies;
-
-3) atmeta skundą.
-
-17. Ginkluotųjų pajėgų vado ar Respublikos Prezidento – vyriausiojo ginkluotųjų pajėgų vado priimtas sprendimas skirti drausminę nuobaudą, taip pat tiesioginio vado priimtas sprendimas, nurodytas šio straipsnio 16 dalies 2 ar 3 punkte, gali būti skundžiamas administraciniam teismui.
-
-564 straipsnis. Drausminių nuobaudų vykdymas
-
-1. Drausminė nuobauda pradedama vykdyti nuo jos skyrimo dienos, jeigu ją skiriant nėra nurodyta kita drausminės nuobaudos vykdymo pradžios data. Jeigu dėl objektyvių priežasčių šio statuto 563 straipsnio 1 dalies 3, 4 ir 5 punktuose nurodyta drausminė nuobauda negali būti vykdoma, jos vykdymas sustabdomas ir drausminė nuobauda baigiama vykdyti šioms priežastims išnykus.
-
-2. Jeigu dėl karo padėties metu susiklosčiusių finansinių aplinkybių ginkluotųjų pajėgų nariui tarnybinis atlyginimas nemokamas, ginkluotųjų pajėgų nariui paskirta drausminė nuobauda – tarnybinio atlyginimo sumažinimas – vykdoma, jam priskaičiuotas tarnybinis atlyginimas sumažinamas atitinkamai jam paskirtos tarnybinio atlyginimo sumažinimo dalies dydžiu kariuomenės vado nustatyta tvarka.
-
-565 straipsnis. Drausminių nuobaudų galiojimas
-
-1. Asmuo, turintis teisę skirti drausminę nuobaudą, skirdamas drausminę nuobaudą nustato nuobaudos galiojimo terminą, atitinkantį šio statuto 563 straipsnio 6, 11 ir 12 dalių nuostatas.
-
-2. Drausminės nuobaudos galiojimo terminas pradedamas skaičiuoti nuo drausminės nuobaudos skyrimo dienos. Drausminė nuobauda laikoma galiojančia iki drausminės nuobaudos galiojimo termino pabaigos, bet ne ilgiau, iki bus atšaukta karo padėtis.
-
-3. Drausminės nuobaudos galiojimas baigiasi anksčiau, negu nustatyta šio straipsnio 1 dalyje, jeigu panaikinama atsakomybė už veiką, už kurią drausminė nuobauda skirta.
-
-4. Pasibaigus drausminės nuobaudos – kario laipsnio pažeminimo – galiojimo terminui, asmuo, turintis teisę suteikti atitinkamą laipsnį, grąžina ginkluotųjų pajėgų nariui turėtą laipsnį, taip pat ginkluotųjų pajėgų narys grąžinamas į prieš drausminės nuobaudos skyrimą eitas pareigas. Jeigu galimybės skirti į šias pareigas nėra, ginkluotųjų pajėgų narys skiriamas į lygiavertes pareigas, išskyrus atvejus, kai drausminė nuobauda skiriama ginkluotųjų pajėgų vadui šio statuto 563 straipsnio 14 dalyje nustatytu atveju.
-
-5. Pasibaigus drausminės nuobaudos – laipsnio atėmimo – galiojimo terminui, atimtas laipsnis negrąžinamas, išskyrus šio straipsnio 6 dalyje numatytą atvejį.
-
-6. Ypatingai pasižymėjusiam tarnyboje ginkluotųjų pajėgų nariui atimtas puskarininkio, jaunesniojo, vyresniojo karininko, išskyrus pulkininko (jūrų kapitono), laipsnis grąžinamas ginkluotųjų pajėgų vado sprendimu, o pulkininko (jūrų kapitono), generolo (admirolo) – Respublikos Prezidento – vyriausiojo ginkluotųjų pajėgų vado sprendimu. Grąžinus atimtą laipsnį, ginkluotųjų pajėgų narys grąžinamas į prieš drausminės nuobaudos skyrimą eitas pareigas, išskyrus atvejus, kai drausminė nuobauda skiriama ginkluotųjų pajėgų vadui šio statuto 563 straipsnio 14 dalyje nustatytu atveju. Jeigu galimybės skirti į šias pareigas nėra, ginkluotųjų pajėgų narys skiriamas į lygiavertes pareigas.
-
-7. Pasibaigus drausminės nuobaudos – pareigų pažeminimo – galiojimo terminui, ginkluotųjų pajėgų narys grąžinamas į prieš drausminės nuobaudos skyrimą eitas pareigas, išskyrus atvejus, kai drausminė nuobauda skiriama ginkluotųjų pajėgų vadui šio statuto 563 straipsnio 14 dalyje nustatytu atveju. Jeigu galimybės skirti į šias pareigas nėra, ginkluotųjų pajėgų narys skiriamas į lygiavertes pareigas.
-
-8. Drausminės nuobaudos galiojimo terminą gali sutrumpinti ją skyręs asmuo arba ją skyrusio asmens aukštesnysis vadas (viršininkas), jeigu ginkluotųjų pajėgų narys pasitaiso ir ilgiau taikyti drausminę nuobaudą netikslinga, išskyrus atvejus, kai drausminę nuobaudą skiria ginkluotųjų pajėgų vadas, Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas ar Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas Seimo pritarimu. Jeigu drausminę nuobaudą skiria ginkluotųjų pajėgų vadas, Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas ar Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas Seimo pritarimu, drausminės nuobaudos galiojimo terminas gali būti sutrumpinamas atitinkamai ginkluotųjų pajėgų vado, Respublikos Prezidento – vyriausiojo ginkluotųjų pajėgų vado sprendimu, Respublikos Prezidento – vyriausiojo ginkluotųjų pajėgų vado sprendimu Seimo pritarimu.
-
-9. Drausminės nuobaudos galiojimo laikotarpiu ginkluotųjų pajėgų narys neskatinamas ir neapdovanojamas, jam negali būti suteikiamas aukštesnis kario laipsnis.
-
-Papildyta skyriumi:
-
-Nr. XIV-438, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15431
-
-VIII SKYRIUS
-
-IŠANKSTINĖ KARO TARNYBOS GINČŲ NAGRINĖJIMO NE TEISME TVARKA KRAŠTO APSAUGOS SISTEMOJE TVARKA
+Lietuvos Respublikos kariuomenės drausmės statuto 16, 22, 25, 28, 86 ir 87 straipsnių pakeitimo įstatymas
 
