@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2002-06-27"
+last_updated: "2002-12-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -1619,11 +1619,11 @@ išreikšta tūrio procentais, neviršija 1,2 procento tūrio, gamybai.
 
 mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį, nurodytą
 
-šio straipsnio 1 dalies 1 arba 3 punktuose, akcizai neskaičiuojami. Panaikinus
+šio straipsnio 1 dalies 1, 3, 4 punktuose, akcizai neskaičiuojami. Panaikinus
 
 akcizų mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį ir
 
-(arba) alkoholinius gėrimus, skirtus šio straipsnio 1 dalies 4–8 punktuose
+(arba) alkoholinius gėrimus, skirtus šio straipsnio 1 dalies 5–8 punktuose
 
 nurodytiems tikslams, akcizai turi būti apskaičiuoti ir sumokėti šio Įstatymo
 
@@ -1638,32 +1638,6 @@ mokėtojo) arba importuodamas šį etilo alkoholį ir (arba) alkoholinius gėrim
 Šio straipsnio 1 dalies 3–8 punktuose nurodytų lengvatų taikymo tvarką nustato
 
 Vyriausybė ar jos įgaliota institucija.
-
-[2 dalies redakcija nuo 2002 m. liepos 1 d.:
-
-2. Panaikinus akcizų
-
-mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį, nurodytą
-
-šio straipsnio 1 dalies 1, 3, 4 punktuose, akcizai neskaičiuojami. Panaikinus
-
-akcizų mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį ir
-
-(arba) alkoholinius gėrimus, skirtus šio straipsnio 1 dalies 5–8 punktuose
-
-nurodytiems tikslams, akcizai turi būti apskaičiuoti ir sumokėti šio Įstatymo
-
-nustatyta tvarka, o nurodytos lengvatos taikomos grąžinant šiuose punktuose nurodyto
-
-etilo alkoholio ir (arba) alkoholinių gėrimų pirkėjui arba importuotojui
-
-akcizus, kuriuos šis asmuo sumokėjo įsigydamas iš tiekėjo (akcizų mokėtojo)
-
-arba importuodamas šį etilo alkoholį ir (arba) alkoholinius gėrimus. Šio
-
-straipsnio 1 dalies 3–8 punktuose nurodytų lengvatų taikymo tvarką nustato
-
-Vyriausybė ar jos įgaliota institucija.]
 
 Straipsnio
 
@@ -1727,6 +1701,12 @@ taikomas toks akcizo tarifas:
 
 elementas – 30,2 lito ir
 
+[1 punkto redakcija nuo 2003 m. kovo 1d.:
+
+1) specifinis
+
+elementas – 42,6 lito ir]
+
 2) vertybinis
 
 elementas – 10 procentų.
@@ -1740,6 +1720,16 @@ filtro ar kandiklio) yra ilgesnis kaip 9 cm, bet ne ilgesnis kaip 18 cm, šiame
 Įstatyme laikomas dviem cigaretėmis; ritinėlis, kuris ilgesnis kaip 18 cm, bet
 
 ne ilgesnis kaip 27 cm, atitinkamai laikomas trimis cigaretėmis ir taip toliau.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1228,
+
+2002-12-10, Žin., 2002, Nr. 123-5520 (2002-12-24)
 
 26 straipsnis.
 
@@ -1821,11 +1811,21 @@ pakaitalams ir priedams taikomas 720 litų už toną produkto akcizo tarifas,
 
 jeigu šiame straipsnyje nenustatyta kitaip.
 
+[1 punkto redakcija nuo 2003 m. sausio 1d.:
+
+1. Gazoliams, jų
+
+pakaitalams ir priedams taikomas 860 litų už toną produkto akcizo tarifas,
+
+jeigu šiame straipsnyje nenustatyta kitaip.]
+
 2. Šildymui skirtiems
 
-gazoliams (buitiniam krosnių kurui), pažymėtiems šio Įstatymo 37 straipsnyje
+gazoliams (buitiniam krosnių kurui), pažymėtiems šio Įstatymo
 
-nustatyta tvarka, taikomas 80 litų už toną produkto akcizo tarifas.
+37 straipsnyje nustatyta tvarka, taikomas 80 litų už toną produkto akcizo
+
+tarifas.
 
 3. Gazolių ir
 
@@ -1838,6 +1838,16 @@ straipsnyje tiems gazoliams nustatytas akcizo tarifas, sumažintas dalimi,
 proporcingai atitinkančia biologinės kilmės priemaišų dalį (procentais) tonoje
 
 produkto.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1228,
+
+2002-12-10, Žin., 2002, Nr. 123-5520 (2002-12-24)
 
 32 straipsnis. Skystajam kurui (mazutams), jo
 
@@ -1863,9 +1873,9 @@ taikomas šio Įstatymo 31 straipsnio 1 dalyje nustatytas akcizo tarifas, o jeig
 
 tvarka, – šio Įstatymo 31 straipsnio 2 dalyje nustatytas tarifas.
 
-33 straipsnis. Skirtiems naudoti kaip degalai
+33 straipsnis. Skirtiems naudoti kaip degalai (variklių
 
-(variklių kuras) naftos dujoms ir
+kuras) naftos dujoms ir
 
 dujiniams angliavandeniliams, jų pakaitalams bei
 
@@ -1933,11 +1943,11 @@ KPN nustato Vyriausybė;
 
 (variklių kuras), kurie tiekiami kaip kuro atsargos laivams, gabenantiems
 
-keleivius ir (arba) krovinius vietiniais maršrutais, taip pat teikiantiems
+keleivius ir (arba) krovinius vietiniais maršrutais, taip pat teikiantiems kitokias
 
-kitokias paslaugas už atlyginimą; laivams, kurie naudojami atliekant valstybės
+paslaugas už atlyginimą; laivams, kurie naudojami atliekant valstybės ar
 
-ar savivaldos institucijų funkcijas; laivams, dalyvaujantiems karinėse
+savivaldos institucijų funkcijas; laivams, dalyvaujantiems karinėse
 
 tarptautinėse pratybose; žvejybos laivams. Kuro, kuriam taikoma ši lengvata,
 
@@ -1949,13 +1959,15 @@ straipsniuose nurodyti produktai, kai jie naudojami kitiems tikslams negu kaip
 
 degalai (variklių kuras), kuras šildymui arba degalų (variklių kuro) priedai;
 
-4) kuras, sunaudojamas
+4) kuras,
 
-akcizais apmokestinamų prekių sandėlio, kuriame šis kuras gaminamas,
+sunaudojamas akcizais apmokestinamų prekių sandėlio, kuriame šis kuras
 
-teritorijoje šio kuro gamybos procese, išskyrus kurą, sunaudojamą gamintojo
+gaminamas, teritorijoje šio kuro gamybos procese, išskyrus kurą, sunaudojamą
 
-reikmėms kaip degalai (variklių kuras), kuriam akcizai taikomi bendra tvarka;
+gamintojo reikmėms kaip degalai (variklių kuras), kuriam akcizai taikomi bendra
+
+tvarka;
 
 5) mineralinio kuro
 
@@ -1981,9 +1993,9 @@ degalų) kiekis Vyriausybės nustatyta tvarka registruotiems žemės ūkio
 
 subjektams per vienus kalendorinius metus negali viršyti 120 litrų vienam
 
-Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio
 
-ūkio naudmenų hektarui bei 275 litrų vienai tonai sugautų ir realizuotų žuvų.
+naudmenų hektarui bei 275 litrų vienai tonai sugautų ir realizuotų žuvų.
 
 Lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
@@ -2049,9 +2061,9 @@ III SKYRIUS
 
 BAIGIAMOSIOS NUOSTATOS
 
-38 straipsnis. Įskaitymas
+38 straipsnis.
 
-į biudžetą
+Įskaitymas į biudžetą
 
 Akcizai įskaitomi į
 
@@ -2089,9 +2101,9 @@ deklaruotam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, ir
 
 vandenyse sugautų ir realizuotų žuvų.
 
-2. Akcizo grąžinimo
+2. Akcizo grąžinimo tvarką
 
-tvarką nustato Vyriausybė ar jos įgaliota institucija.
+nustato Vyriausybė ar jos įgaliota institucija.
 
 40 straipsnis.
 
@@ -2111,23 +2123,23 @@ dienos cigaretėms taikomas 36 litų už 1000 cigarečių akcizo tarifas.
 
 3. Įstatymo 36
 
-straipsnio 1 dalies 6 punktas įsigalioja nuo 2003 m. sausio 1 d.
+straipsnio 1 dalies 6 punktas įsigalioja nuo 2004 m. sausio 1 d.
 
 4. Įstatymo 39
 
-straipsnis galioja iki 2002 m. gruodžio 31 d. imtinai.
+straipsnis galioja iki 2003 m. gruodžio 31 d. imtinai.
 
 5. Asmenims, kurie
 
 iki šio Įstatymo įsigaliojimo pradėjo verstis veikla, pagal šio Įstatymo 4
 
-straipsnio 1 dalies nuostatas leidžiama tik akcizais apmokestinamų prekių sandėlyje,
+straipsnio 1 dalies nuostatas leidžiama tik akcizais apmokestinamų prekių
 
-leidimai steigti akcizais apmokestinamų prekių sandėlį (sandėlius) išduodami
+sandėlyje, leidimai steigti akcizais apmokestinamų prekių sandėlį (sandėlius)
 
-laikantis Vyriausybės ar jos įgaliotos institucijos nustatytos specialios
+išduodami laikantis Vyriausybės ar jos įgaliotos institucijos nustatytos
 
-tvarkos.
+specialios tvarkos.
 
 6. Pasiūlyti
 
@@ -2173,9 +2185,9 @@ Respublikos įstatymas „Dėl Lietuvos Respublikos akcizų įstatymo papildymo�
 
 6) Lietuvos
 
-Respublikos akcizų įstatymo 2 straipsnio papildymo įstatymas (Žin., 1996, Nr.
+Respublikos akcizų įstatymo 2 straipsnio papildymo įstatymas (Žin., 1996,
 
-35-857);
+Nr. 35-857);
 
 7) Lietuvos
 
@@ -2191,9 +2203,9 @@ Respublikos akcizų įstatymo 10 straipsnio pakeitimo įstatymas (Žin., 1996, N
 
 9) Lietuvos
 
-Respublikos akcizų įstatymo 2 straipsnio pakeitimo įstatymas (Žin., 1997, Nr.
+Respublikos akcizų įstatymo 2 straipsnio pakeitimo įstatymas (Žin., 1997,
 
-20-447);
+Nr. 20-447);
 
 10) Lietuvos
 
@@ -2243,9 +2255,11 @@ Respublikos akcizų įstatymo 2, 5, 6 straipsnių pakeitimo ir papildymo įstaty
 
 (Žin., 2000, Nr. 22-554);
 
-18) Lietuvos Respublikos
+18) Lietuvos
 
-akcizų įstatymo 6 straipsnio pakeitimo įstatymas (Žin., 2000, Nr. 61-1820);
+Respublikos akcizų įstatymo 6 straipsnio pakeitimo įstatymas (Žin., 2000, Nr.
+
+61-1820);
 
 19) Lietuvos
 
@@ -2282,6 +2296,16 @@ straipsniu įstatymas (Žin., 2001, Nr. 45-1575);
 24) Lietuvos Respublikos akcizų įstatymo
 
 2 ir 5 straipsnių pakeitimo įstatymas (Žin., 2001, Nr. 62-2239).
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1228,
+
+2002-12-10, Žin., 2002, Nr. 123-5520 (2002-12-24)
 
 Skelbiu šį
 
@@ -2331,13 +2355,23 @@ AKCIZŲ
 
 ĮSTATYMO 8, 10, 12, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-***
+3.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo:
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2002-07-01)
+Nr. IX-1228,
 
-autrap@lrs.lt
+2002-12-10, Žin., 2002, Nr. 123-5520 (2002-12-24)
+
+AKCIZŲ
+
+ĮSTATYMO 25, 31 IR 40 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas, išskyrus 1 ir 3 straipsnius, įsigalioja nuo 2003 m. sausio 1 d.
+
+Šio
 
