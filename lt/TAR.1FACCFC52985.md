@@ -4,7 +4,7 @@ identifier: "TAR.1FACCFC52985"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "1992-11-01"
+last_updated: "1993-10-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FACCFC52985"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -14,6 +14,10 @@ published_in_tar: "1992-09-15"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
+
+Suvestinė redakcija nuo 1993-10-13 iki 1995-07-18
+
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 190-0; Žin. 1992, Nr.29-841, i. k. 0921010ISTA00I-2878
 
 LIETUVOS RESPUBLIKOS
 
@@ -27,7 +31,11 @@ BENDRIEJI NUOSTATAI
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas reguliuoja santykius, atsirandančius ūkiniams subjektams ar jiems atstovaujantiems pareigūnams bei valstybinės valdžios ir valdymo organams atliekant veikas, ribojančias konkurenciją, arba nesąžiningai konkuruojant Lietuvos Respublikos prekių rinkose, taip pat nustato atsakomybę už šias veikas, jei jos pažeidžia vartotojų arba ūkio interesus.
+Šis įstatymas reguliuoja santykius, atsirandančius dėl ūkinių subjektų, valstybės valdymo organų, savivaldybių ar jiems atstovaujančių pareigūnų atliekamų veikų, kuriomis ribojama arba siekiama riboti konkurenciją, arba nesąžiningai konkuruojama Lietuvos Respublikos prekių rinkose, ir nustato atsakomybę už šias veikas, jei jos pažeidžia ar gali pažeisti vartotojų arba ūkio interesus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
 
 Įstatymas taikomas santykiams, atsirandantiems atliekant veikas, ribojančias konkurenciją, arba nesąžiningai konkuruojant, reguliuoti visoje Lietuvos Respublikos teritorijoje, išskyrus santykius, kuriuos reguliuoja kiti įstatymai.
 
@@ -61,7 +69,11 @@ Draudžiami ūkinių subjektų, užimančių dominuojančią padėtį rinkoje, v
 
 2) konkuruojančių ūkinių subjektų išstūmimas iš rinkos piktnaudžiaujant dominuojančia padėtimi;
 
-3) gamybos ribojimas, parduodamų ir įsigyjamų prekių kiekio mažinimas, prekybos sulaikymas turint tikslą sudaryti nepriteklių rinkoje arba paveikti kainas, darant žalą vartotojams;
+3) gamybos ribojimas, parduodamų ir įsigyjamų prekių kiekio mažinimas, prekybos sulaikymas turint tikslą sudaryti nepriteklių rinkoje bei kainų didinimas, darant žalą vartotojams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
 
 4) tapataus pobūdžio sutartyse su skirtingais partneriais diskriminacinių ekonominių sąlygų numatymas;
 
@@ -89,11 +101,15 @@ Susitarimai ar suderinti veiksmai tarp konkuruojančių ūkinių subjektų (ar p
 
 2) gerinama prekių kokybė.
 
-6 straipsnis. Draudimas valstybinės valdžios ir valdymo organams riboti konkurenciją
+6 straipsnis. Draudimas valstybės valdymo organams ir savivaldybėms riboti konkurenciją
 
-Valstybinės valdžios ir valdymo organams draudžiama priimti norminius aktus arba atlikti veiksmus, kurie riboja ūkinių subjektų savarankiškumą, ūkinių sutarčių sudarymą, trukdo steigti naujus ar pertvarkyti esamus ūkinius subjektus ir pakeisti jų veiklos pobūdį, suteikia privilegijas ar diskriminuoja atskirus ūkinius subjektus, ar kaip kitaip riboja konkurenciją.
+Valstybės valdymo organams ir savivaldybėms draudžiama priimti norminius aktus arba atlikti veiksmus, kurie riboja ūkinių subjektų savarankiškumą, ūkinių sutarčių sudarymą, trukdo steigti naujus ar pertvarkyti esamus ūkinius subjektus ir pakeisti jų veiklos pobūdį, suteikia privilegijas ar diskriminuoja atskirus ūkinius subjektus, ar kaip kitaip riboja konkurenciją.
 
-Valstybinės valdžios ir valdymo organų vadovams draudžiama užsiimti komercine-ūkine veikla, būti personalinių įmonių savininkais, užimti pareigas ūkinių subjektų valdymo organuose.
+Valstybinės valdžios ir valdymo organų, savivaldybių bei jų struktūrinių padalinių vadovai ir pavaduotojai, taip pat skyrių vedėjai ir pavaduotojai negali būti personalinių įmonių savininkais, užimti jokių skiriamų ar renkamų pareigų, dirbti verslo, komercijos ar kitokiose privačiose įmonėse ar įstaigose, taip pat negali gauti kito atlyginimo, išskyrus pagal jų užimamas pareigas.
+
+Straipsnio pakeitimai:
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
 
 III SKIRSNIS
 
@@ -125,11 +141,19 @@ Sprendimams priimti dėl šiame įstatyme reglamentuojamų kainų ir konkurencij
 
 Turėdama tikslą ginti ūkio ir vartotojų interesus, kainų ir konkurencijos institucija stebi rinkos konjunktūrą, rinkos kainų svyravimus, kaupia informaciją apie vartotojų poreikių patenkinimo galimybes, periodiškai teikia pasiūlymus Vyriausybei dėl kainų politikos formavimo ir vykdo kitas nuostatuose numatytas funkcijas.
 
-Kainų ir konkurencijos institucija turi teisę gauti iš ūkinių subjektų bei valdymo organų informaciją ar žodinius bei raštiškus paaiškinimus, reikalingus šiame įstatyme ir institucijos nuostatuose numatytoms funkcijoms vykdyti.
+Kainų ir konkurencijos institucija turi teisę gauti iš ūkinių subjektų, valstybės valdymo organų ir savivaldybių reikalingą informaciją, visus dokumentus, rodančius ūkinę ir finansinę veiklą, vadovų ir kitų darbuotojų žodinius bei raštiškus paaiškinimus, reikalingus šiame įstatyme ir institucijos nuostatuose numatytoms funkcijoms vykdyti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
 
 9 straipsnis. Kainų ir konkurencijos institucijos įgaliojimai
 
-Kainų ir konkurencijos institucija, nustačiusi ūkinių subjektų ir valdymo organų padarytus šio įstatymo pažeidimus, parengia šiuo klausimu medžiagą ir pateikia ją Konkurencijos tarybai sprendimams priimti. Remdamasi Konkurencijos tarybos sprendimu, kainų ir konkurencijos institucija gali derybomis su ūkiniu subjektu siekti nutraukti neteisėtą veiką, jei ji sukėlė nedidelius neigiamus pakitimus (sumažėjo prekių gamybos ir paskirstymo efektyvumas, apribota laisva prekyba), o aplinkybės neprieštarauja tokioms deryboms. Pasiekus susitarimą, jo rezultatai ir neteisėtos veikos nutraukimo sąlygos įforminamos raštu.
+Kainų ir konkurencijos institucija, nustačiusi ūkinių subjektų ir valstybės valdymo organų ir savivaldybių padarytus šio įstatymo pažeidimus, parengia šiuo klausimu medžiagą ir pateikia ją Konkurencijos tarybai sprendimams priimti. Remdamasi Konkurencijos tarybos sprendimu, kainų ir konkurencijos institucija gali derybomis su ūkiniu subjektu siekti nutraukti neteisėtą veiką, jei ji sukėlė nedidelius neigiamus pakitimus (sumažėjo prekių gamybos ir paskirstymo efektyvumas, apribota laisva prekyba), o aplinkybės neprieštarauja tokioms deryboms. Pasiekus susitarimą, jo rezultatai ir neteisėtos veikos nutraukimo sąlygos įforminamos raštu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
 
 Kitais atvejais arba nepasiekus derybomis susitarimo, kainų ir konkurencijos institucija turi teisę:
 
@@ -139,7 +163,11 @@ Kitais atvejais arba nepasiekus derybomis susitarimo, kainų ir konkurencijos in
 
 3) įpareigoti nutraukti neteisėtą firmos vardo, prekių ženklo ar markiruotės naudojimą bei neteisingą prekių kilmės vietos nurodymą, taip pat dėl šių pažeidimų sulaikyti prekes;
 
-4) kreiptis į Lietuvos Respublikos Vyriausybę arba teismą dėl valdymo organų neteisėtų veiksmų nutraukimo ar priimtų sprendimų panaikinimo.
+4) kreiptis į Lietuvos Respublikos Vyriausybę arba teismą dėl valstybės valdymo organų ir savivaldybių neteisėtų veiksmų nutraukimo ar priimtų sprendimų panaikinimo.
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
 
 V SKIRSNIS
 
@@ -169,7 +197,11 @@ ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
 
 12 straipsnis. Įstatymo pažeidimo pasekmės
 
-Valstybės valdymo organų sprendimai dėl šio įstatymo pažeidimo gali būti apskundžiami teismui.
+Valstybės valdymo organų ir savivaldybių sprendimai dėl šio įstatymo pažeidimo gali būti apskundžiami teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
 
 Ūkiniai subjektai, pažeidusieji šį įstatymą, privalo:
 
@@ -185,7 +217,11 @@ Konkurencijos taryba turi teisę:
 
 2) už melagingos informacijos teikimą skirti ūkiniams subjektams piniginę baudą iki 3 procentų metinių bendrųjų įplaukų;
 
-3) už kitų kainų ir konkurencijos institucijos duotų pagal šį įstatymą nurodymų nevykdymą arba vykdymą nelaiku, melagingos informacijos teikimą valstybės valdymo organų ir ūkinių subjektų pareigūnams skirti pinigines baudas iki 3 mėnesių jų vidutinio mėnesinio atlyginimo dydžio.
+3) už kitų kainų ir konkurencijos institucijos duotų pagal šį įstatymą nurodymų nevykdymą arba vykdymą nelaiku, melagingos informacijos teikimą valstybės valdymo organų ir savivaldybių ir ūkinių subjektų pareigūnams skirti pinigines baudas iki 3 mėnesių jų vidutinio mėnesinio atlyginimo dydžio.
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
 
 13 straipsnis. Piniginių baudų išieškojimas
 
@@ -195,7 +231,11 @@ Piniginė bauda iš ūkinio subjekto įplaukų išieškoma ne ginčo tvarka.
 
 14 straipsnis. Kainų ir konkurencijos institucijos sprendimų apskundimas
 
-Ūkiniai subjektai, valdymo organai ir pareigūnai per vieną mėnesį, skaičiuojant nuo kainų ir konkurencijos institucijos sprendimo gavimo dienos, gali kreiptis į teismą dėl minėto sprendimo atšaukimo arba jo pakeitimo bei nuostolių atlyginimo.
+Ūkiniai subjektai, valdymo organai ir savivaldybės per vieną mėnesį, skaičiuojant nuo kainų ir konkurencijos institucijos sprendimo gavimo dienos, gali kreiptis į teismą pagal atsakovo buvimo vietą dėl minėto sprendimo atšaukimo arba jo pakeitimo bei nuostolių atlyginimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
 
 Kreipimasis į teismą nesustabdo kainų ir konkurencijos institucijos nurodymų ir sprendimų vykdymo, jei teismas nenurodo kitaip.
 
@@ -205,7 +245,11 @@ Konkurencijos tarybos sprendimai ir jų motyvai skelbiami viešai.
 
 Nuostoliai, padaryti ūkiniams subjektams ar vartotojams pažeidus šį įstatymą, turi būti atlyginami įstatymų nustatyta tvarka.
 
-Ūkinių subjektų patirti nuostoliai dėl valstybinės valdžios ir valdymo organų bei kainų ir konkurencijos institucijos sprendimų, pažeidžiančių šio įstatymo reikalavimus, atlyginami iš atitinkamų valdymo organų arba valstybės biudžeto lėšų, vėliau išieškant jas iš kaltųjų asmenų.
+Ūkinių subjektų patirti nuostoliai dėl valstybės valdymo organų ir savivaldybių bei kainų ir konkurencijos institucijos sprendimų, pažeidžiančių šio įstatymo reikalavimus, atlyginami iš atitinkamų valdymo organų arba valstybės biudžeto lėšų, vėliau išieškant jas iš kaltųjų asmenų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
 
 Nuostoliai išieškomi teismine tvarka.
 
@@ -218,4 +262,14 @@ PIRMININKAS                                  �
 Vilnius, 1992 m. rugsėjo 15 d.
 
 Nr. I-2878
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
+
+Dėl Lietuvos Respublikos konkurencijos įstatymo pakeitimo
 
