@@ -4,7 +4,7 @@ identifier: "TAR.DC1DC18DF88B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-07-16"
-last_updated: "1999-03-04"
+last_updated: "1999-04-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DC1DC18DF88B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,43 +15,13 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įstatymas dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos
 
-Redagavo: Ramunė Lūžaitė
+Įstatymas
 
-(1999.03.17)
+paskelbtas: Žin., 1998, Nr. 65-1877
 
-Neoficialus įstatymo tekstas
+Neoficialus
 
-LIETUVOS RESPUBLIKOS
-
-KONSTITUCINIS TEISMAS
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos
-
-Konstitucinis Teismas, Nutarimas
-
-99.03.04, Žin., 1999,
-
-Nr.23-666 (99.03.10)
-
-DĖL LIETUVOS RESPUBLIKOS
-
-ĮSTATYMO “DĖL SSSR VALSTYBĖS SAUGUMO KOMITETO (NKVD, NKGB, MGB, KGB) VERTINIMO
-
-IR ŠIOS ORGANIZACIJOS KADRINIŲ DARBUOTOJŲ DABARTINĖS VEIKLOS” 1 IR 2
-
-STRAIPSNIŲ, 3 STRAIPSNIO 2 DALIES, TAIP PAT LIETUVOS RESPUBLIKOS ĮSTATYMO “DĖL
-
-SSSR VALSTYBĖS SAUGUMO KOMITETO (NKVD, NKGB, MGB, KGB) VERTINIMO IR ŠIOS
-
-ORGANIZACIJOS KADRINIŲ DARBUOTOJŲ DABARTINĖS VEIKLOS” ĮGYVENDINIMO ĮSTATYMO 1
-
-STRAIPSNIO 1 IR 2 DALIŲ ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
-
-*** Pabaiga ***
+įstatymo tekstas
 
 LIETUVOS
 
@@ -59,15 +29,27 @@ RESPUBLIKOS
 
 ĮSTATYMAS
 
-DĖL SSRS
+DĖL SSRS VALSTYBĖS SAUGUMO KOMITETO (NKVD, NKGB, MGB, KGB) VERTINIMO IR
 
-VALSTYBĖS SAUGUMO KOMITETO (NKVD, NKGB, MGB, KGB) VERTINIMO IR ŠIOS
-
-ORGANIZACIJOS KADRINIŲ DARBUOTOJŲ DABARTINĖS VEIKLOS
+ŠIOS ORGANIZACIJOS KADRINIŲ DARBUOTOJŲ DABARTINĖS VEIKLOS
 
 1998 m. liepos 16 d. Nr. VIII-858
 
 Vilnius
+
+1
+
+straipsnis. SSRS valstybės saugumo komiteto pripažinimas nusikalstama
+
+organizacija
+
+SSRS valstybės saugumo komitetas  (NKVD,
+
+NKGB, MGB, KGB - toliau VSK) pripažįstamas nusikalstama organizacija,
+
+vykdžiusia karo nusikaltimus, genocidą, represijas, terorą ir politinį
+
+persekiojimą SSRS okupuotoje Lietuvos Respublikoje.
 
 1 straipsnis.
 
@@ -81,117 +63,171 @@ nusikaltimus, genocidą, represijas, terorą ir politinį persekiojimą SSRS
 
 okupuotoje Lietuvos Respublikoje.
 
-2 straipsnis. VSK kadrinių darbuotojų dabartinės
+2 straipsnis.
 
-veiklos apribojimai
+VSK kadrinių darbuotojų dabartinės veiklos apribojimai
 
-Buvę VSK kadriniai darbuotojai nuo šio įstatymo
+Buvę VSK kadriniai darbuotojai nuo šio
 
-įsigaliojimo 10 metų negali dirbti Lietuvos Respublikoje valstybės pareigūnais
+įstatymo įsigaliojimo 10 metų negali dirbti Lietuvos Respublikoje valstybės
 
-arba tarnautojais valstybės  valdžios ir valdymo, savivaldos, krašto apsaugos
+pareigūnais arba tarnautojais valstybės  valdžios ir valdymo, savivaldos, krašto
 
-institucijose, Valstybės saugumo departamente, policijoje, prokuratūroje,
+apsaugos institucijose, Valstybės saugumo departamente, policijoje,
 
-teismuose, diplomatinėje tarnyboje, muitinėje, Valstybės kontrolėje ir kitose
+prokuratūroje, teismuose, diplomatinėje tarnyboje, muitinėje, Valstybės
 
-kontrolę bei priežiūrą vykdančiose valstybės institucijose, advokatais ir
+kontrolėje ir kitose kontrolę bei priežiūrą vykdančiose valstybės
 
-notarais, bankuose ir kitose kredito įstaigose, strateginiuose ūkio objektuose,
+institucijose, advokatais ir notarais, bankuose ir kitose kredito įstaigose,
 
-saugos tarnybose (struktūrose), kitose tarnybose (struktūrose), teikiančiose
+strateginiuose ūkio objektuose, saugos tarnybose (struktūrose), kitose
 
-detektyvų paslaugas, ryšių sistemoje, švietimo įstaigose pedagogais,
+tarnybose (struktūrose), teikiančiose detektyvų paslaugas, ryšių sistemoje,
 
-auklėtojais ir šių įstaigų vadovais, taip pat negali dirbti darbo (eiti
+švietimo įstaigose pedagogais, auklėtojais ir šių įstaigų vadovais, taip pat
 
-pareigų), susijusio su ginklo turėjimu.
+negali dirbti darbo (eiti pareigų), susijusio su ginklo turėjimu.
 
-3 straipsnis. Apribojimų netaikymo atvejai
+3 straipsnis.
 
-1. Šio įstatymo 2 straipsnyje nustatyti apribojimai
+Apribojimų netaikymo atvejai
 
-netaikomi tiems buvusiems VSK kadriniams darbuotojams, kurie, dirbdami VSK,
+1. Šio įstatymo 2 straipsnyje nustatyti
 
-tyrė tik kriminalines bylas ir ne vėliau kaip kitą dieną po 1990 m. kovo 11 d.
+apribojimai netaikomi tiems buvusiems VSK kadriniams darbuotojams, kurie,
 
-nutraukė savo darbą VSK.
+dirbdami VSK, tyrė tik kriminalines bylas ir ne vėliau kaip kitą dieną po 1990
 
-* 2. Lietuvos gyventojų genocido ir rezistencijos
+m. kovo 11 d. nutraukė savo darbą VSK.
 
-tyrimo centras ir Valstybės saugumo departamentas gali priimti bendrą motyvuotą
+2. Šio įstatymo 2 straipsnyje numatyti
 
-teikimą, rekomenduojantį, kad buvusiems VSK kadriniams darbuotojams, kurie per
+apribojimai netaikomi ir tiems buvusiems VSK kadriniams darbuotojams, kurie ir
 
-3 mėnesius nuo šio įstatymo įsigaliojimo dienos užsiregistravo Valstybės
+po 1990 m. kovo 11 d. dirbo VSK jau Lietuvos Respublikos valdžios institucijų
 
-saugumo departamente ir atskleidė Valstybės saugumo departamentui visas žinias
+pavedimu, šioms institucijoms suteikė visą turimą vertingą informaciją apie VSK
 
-apie savo buvusį darbą VSK ir dabartinius ryšius su buvusiais VSK darbuotojais
+veiklą ir kitokiu jų patvirtintu būdu veikė Lietuvos Respublikos labui. Tai,
 
-bei agentais, nebūtų taikomi šio įstatymo nustatyti apribojimai. Sprendimą tuo
+kad asmuo po 1990 m. kovo 11 d. dirbo VSK Lietuvos Respublikos valdžios
 
-klausimu priima Respublikos Prezidento sudaroma trijų asmenų komisija. Į
+institucijų pavedimu, šioms institucijoms suteikė visą turimą vertingą
 
-komisiją negali būti skiriami Lietuvos gyventojų genocido ir rezistencijos
+informaciją apie VSK veiklą ir kitokiu jų patvirtintu būdu veikė Lietuvos
 
-tyrimo centro bei Valstybės saugumo departamento darbuotojai. Šios komisijos
+Respublikos labui, yra nustatoma administracinio teismo sprendimu pagal
 
-veiklos nuostatus tvirtina Respublikos Prezidentas.
+Lietuvos gyventojų genocido ir rezistencijos tyrimo centro bei Valstybės
 
-* Pastaba. 3
+saugumo departamento bendrą teikimą. Atsisakymą teikti Lietuvos gyventojų
 
-straipsnio 2 dalies nuostatos, kad sprendimą dėl apribojimų netaikymo buvusiems
+genocido ir rezistencijos tyrimo centro bei Valstybės saugumo departamento
 
-VSK kadriniams darbuotojams priima Respublikos Prezidento sudaroma trijų asmenų
+bendrą teikimą administraciniam teismui asmuo gali apskųsti administraciniam
 
-komisija ir kad tos komisijos veiklos nuostatus tvirtina Respublikos
+teismui. Kol įsigalios Administracinių bylų teisenos įstatymas, šias bylas
 
-Prezidentas, prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2
+sprendžia Vilniaus apygardos teismas.
 
-daliai, 77 ir 84 straipsniams.
+Straipsnio
 
-* Pastaba. 3
+pakeitimai:
 
-straipsnio 2 dalyje esamas teisinis sureguliavimas, kuris realiai neužtikrina
+Lietuvos
 
-galimybės asmeniui kreiptis į teismą dėl jo atžvilgiu priimamų Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
 
-gyventojų genocido ir rezistencijos tyrimo centro ir Valstybės saugumo
+1999.03.04,
 
-departamento, taip pat Respublikos Prezidento sudaromos komisijos sprendimų,
+Žin., 1999, Nr. 23-666 (1999.03.10)
 
-prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai.
+Nr. VIII-1152, 1999.04.22,
 
-Straipsnio pakeitimai:
+Žin., 1999, Nr. 39-1199 (1999.05.05)
 
-*Lietuvos Respublikos
+4 straipsnis.
 
-Konstitucinis Teismas, Nutarimas
+Įstatymo įgyvendinimo tvarka
 
-99.03.04, Žin., 1999,
+Šio įstatymo įgyvendinimo tvarką nustato
 
-Nr.23-666 (99.03.10)
+Lietuvos Respublikos įstatymo “Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB,
 
-4 straipsnis.  Įstatymo įgyvendinimo tvarka
+MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės
 
-Šio įstatymo įgyvendinimo tvarką nustato Lietuvos
+veiklos” įgyvendinimo įstatymas.
 
-Respublikos įstatymo “Dėl                          SSRS valstybės saugumo
+5 straipsnis.
 
-komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų
+Įstatymo įsigaliojimas
 
-dabartinės veiklos” įgyvendinimo įstatymas.
+Šis įstatymas įsigalioja nuo 1999 m.
 
-5 straipsnis. Įstatymo įsigaliojimas
+sausio 1 d.
 
-Šis įstatymas įsigalioja nuo 1999 m. sausio 1 d.
+Skelbiu šį Lietuvos Respublikos Seimo
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą
+priimtą įstatymą.
 
-įstatymą.
+RESPUBLIKOS PREZIDENTAS                                                                 VALDAS ADAMKUS
 
-RESPUBLIKOS PREZIDENTAS                                       VALDAS
+______________
 
-ADAMKUS
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1152, 1999.04.22,
+
+Žin., 1999, Nr. 39-1199 (1999.05.05)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO “DĖL SSRS VALSTYBĖS SAUGUMO KOMITETO (NKVD, NKGB, MGB,
+
+KGB) VERTINIMO IR ŠIOS ORGANIZACIJOS KADRINIŲ DARBUOTOJŲ DABARTINĖS VEIKLOS” 3
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+LIETUVOS
+
+RESPUBLIKOS KONSTITUCINIS TEISMAS
+
+1.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+1999.03.04,
+
+Žin., 1999, Nr. 23-666 (1999.03.10)
+
+DĖL LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO “DĖL SSSR VALSTYBĖS SAUGUMO KOMITETO (NKVD, NKGB, MGB,
+
+KGB) VERTINIMO IR ŠIOS ORGANIZACIJOS KADRINIŲ DARBUOTOJŲ DABARTINĖS VEIKLOS” 1
+
+IR 2 STRAIPSNIŲ, 3 STRAIPSNIO 2 DALIES, TAIP PAT LIETUVOS RESPUBLIKOS ĮSTATYMO
+
+“DĖL SSSR VALSTYBĖS SAUGUMO KOMITETO (NKVD, NKGB, MGB, KGB) VERTINIMO IR ŠIOS
+
+ORGANIZACIJOS KADRINIŲ DARBUOTOJŲ DABARTINĖS VEIKLOS” ĮGYVENDINIMO ĮSTATYMO 1
+
+STRAIPSNIO 1 IR 2 DALIŲ ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+
+*** Pabaiga ***
+
+Redagavo:
+
+Ramunė Lūžaitė (1999.05.10)
 
