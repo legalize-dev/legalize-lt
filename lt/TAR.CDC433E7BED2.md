@@ -4,7 +4,7 @@ identifier: "TAR.CDC433E7BED2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-07"
-last_updated: "2002-10-22"
+last_updated: "2004-06-15"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2"
 department: "Lietuvos Respublikos Seimas"
@@ -117,6 +117,16 @@ negrynaisiais pinigais, o Europos Sąjungos valiuta euras – ir grynaisiais
 
 pinigais.
 
+Užsienio valiuta
+
+šalių susitarimu taip pat gali būti naudojama mokėjimams ir atsiskaitymams
+
+grynaisiais pinigais orlaiviuose ir jūrų laivuose su Lietuvos valstybės vėliava
+
+ar skiriamaisiais ženklais, vežančiuose krovinius ir keleivius tarptautiniais
+
+maršrutais.
+
 Straipsnio
 
 pakeitimai:
@@ -154,6 +164,12 @@ VIII-1154,
 Nr. IX-1140,
 
 2002-10-22, Žin., 2002, Nr. 105-4687 (2002-11-06)
+
+Nr.
+
+IX-2273,
+
+2004-06-15, Žin., 2004, Nr. 98-3629 (2004-06-24)
 
 4
 
@@ -337,9 +353,11 @@ Nr. VIII-1115,
 
 5 straipsnis. Kapitalo įvežimas ir išvežimas
 
-Užsienio kapitalo, investuojamo Lietuvos Respublikoje, įvežimą, taip pat
+Užsienio kapitalo, investuojamo
 
-šio kapitalo, gauto pelno ir dividendų išvežimą nustato Lietuvos Respublikos investicijų įstatymas ir Lietuvos
+Lietuvos Respublikoje, įvežimą, taip pat šio kapitalo, gauto pelno ir dividendų
+
+išvežimą nustato Lietuvos Respublikos investicijų įstatymas ir Lietuvos
 
 Respublikos laisvųjų ekonominių zonų pagrindų įstatymas.
 
@@ -365,9 +383,11 @@ straipsnis. Lito kursas tvarkant apskaitą
 
 Visos įmonės, įstaigos,
 
-organizacijos, bankai ir kredito unijos privalo tvarkyti apskaitą pagal oficialų
+organizacijos, bankai ir kredito unijos privalo tvarkyti apskaitą pagal
 
-lito kursą ir Lietuvos banko skelbiamą lito ir užsienio valiutos santykį.
+oficialų lito kursą ir Lietuvos banko skelbiamą lito ir užsienio valiutos
+
+santykį.
 
 Straipsnio
 
@@ -407,15 +427,17 @@ Nr. VIII-1115,
 
 straipsnis. Baigiamieji nuostatai
 
-Visų nuosavybės formų įmonės,
+Visų nuosavybės formų
 
-įstaigos, organizacijos, bankai, draudimo organizacijos perrašo į litus
+įmonės, įstaigos, organizacijos, bankai, draudimo organizacijos perrašo į litus
 
 įstatinio kapitalo dalį, turimą užsienio valiuta, taip pat akcijas, dividendus,
 
-tantjemas, draudimo atlyginimą, draudimo sumas ir kitas išmokas 1993 m. rugpjūčio 1 dienos duomenimis pagal Lietuvos banko nustatytą oficialų kursą arba kita
+tantjemas, draudimo atlyginimą, draudimo sumas ir kitas išmokas 1993 m.
 
-Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+rugpjūčio 1 dienos duomenimis pagal Lietuvos banko nustatytą oficialų kursą
+
+arba kita Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -427,7 +449,9 @@ Nr. IX-1140,
 
 straipsnis. Įstatymo įsigaliojimas
 
-Įstatymas įsigalioja 1993 m. rugpjūčio 1 dieną.
+Įstatymas įsigalioja 1993 m.
+
+rugpjūčio 1 dieną.
 
 Skelbiu šį Lietuvos
 
@@ -501,9 +525,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-552,
+VIII-552, 97.12.02,
 
-97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
+Žin., 1997, Nr.114-2871 (97.12.12)
 
 LIETUVOS
 
@@ -581,15 +605,29 @@ VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO IR 8
 
 STRAIPSNIO 2 DALIES PRIPAŽINIMO NETEKUSIA GALIOS ĮSTATYMAS
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-2273,
+
+2004-06-15, Žin., 2004, Nr. 98-3629 (2004-06-24)
+
+UŽSIENIO
+
+VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-11-06)
+Aušra Bodin (2004-06-25)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
 6 straipsnis.
 
