@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "1998-05-14"
+last_updated: "1998-11-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1998.06.03)
+Lūžaitė (1998.12.02)
 
 Įstatymas
 
@@ -213,6 +213,22 @@ RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 7, 15, 28 STRAIPSNIŲ PAPILDYMO IR
 
 PAKEITIMO ĮSTATYMAS
 
+13.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-929,
+
+98.11.17, Žin., 1998, Nr.105-2900 (98.12.02)
+
+LIETUVOS
+
+RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 15 IR 18 STRAIPSNIŲ PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -295,7 +311,7 @@ savivaldybės ir valstybės interesų derinimo;
 
 2)
 
-tiesioginio  toje savivaldybėje  gyvenančių Lietuvos Respublikos piliečių
+tiesioginio  toje savivaldybėje  gyvenančių Lietuvos Respublikos piliečių
 
 dalyvavimo savivaldybės tarybos rinkimuose, apklausose, gyventojų sueigose ir
 
@@ -427,7 +443,9 @@ Taryba
 
 Taryba
 
-sudaro komitetus, komisijas ir kitus Lietuvos Respublikos įstatymų numatytus organus.
+sudaro komitetus, komisijas ir kitus Lietuvos Respublikos įstatymų numatytus
+
+organus.
 
 Tarybos
 
@@ -515,15 +533,17 @@ kitą dieną pasibaigus dviejų savaičių terminui.
 
 Kitus
 
-tarybos posėdžius šaukia meras, o jei jo nėra - mero pavaduotojas savo iniciatyva
+tarybos posėdžius šaukia meras, o jei jo nėra - mero pavaduotojas savo
 
-arba komiteto, valdybos siūlymu, taip pat kai to raštu reikalauja ne mažiau
+iniciatyva arba komiteto, valdybos siūlymu, taip pat kai to raštu reikalauja ne
 
-kaip 1/3 nustatyto skaičiaus  tarybos narių, nurodydami svarstytinus klausimus.
+mažiau kaip 1/3 nustatyto skaičiaus  tarybos narių, nurodydami svarstytinus
 
-Meras, mero pavaduotojas privalo sušaukti posėdį ir teikti svarstyti pasiūlytus
+klausimus. Meras, mero pavaduotojas privalo sušaukti posėdį ir teikti svarstyti
 
-klausimus ne vėliau kaip per dvi savaites nuo tarybos narių reikalavimo gavimo.
+pasiūlytus klausimus ne vėliau kaip per dvi savaites nuo tarybos narių reikalavimo
+
+gavimo.
 
 Jeigu
 
@@ -531,11 +551,9 @@ per nustatytą laiką posėdis nesušaukiamas, jį gali šaukti ne mažiau kaip 
 
 visų tarybos narių, apie tai raštu pranešę kitiems tarybos nariams ir
 
-gyventojams. Jei meras ir jo pavaduotojas  posėdyje  nedalyvauja,
+gyventojams. Jei meras ir jo pavaduotojas  posėdyje  nedalyvauja,  pirmininkauja
 
-pirmininkauja ir visus posėdyje priimtus dokumentus pasirašo vienas iš tarybos
-
-narių.
+ir visus posėdyje priimtus dokumentus pasirašo vienas iš tarybos narių.
 
 Apie
 
@@ -585,13 +603,13 @@ posėdžiai šaukiami ne rečiau kaip vieną kartą per ketvirtį.
 
 Tarybos posėdžiai yra vieši. Juose turi teisę dalyvauti ir tarybai leidus
 
-pasisakyti savivaldybės kontrolierius, savivaldybės administratorius,
+pasisakyti savivaldybės kontrolierius, savivaldybės administratorius, apskrities
 
-apskrities viršininkas, Vyriausybės atstovas, Lietuvos Respublikos Seimo
+viršininkas, Vyriausybės atstovas, Lietuvos Respublikos Seimo nariai.
 
-nariai. Valstybės institucijų, įmonių, įstaigų, organizacijų atstovų ir
+Valstybės institucijų, įmonių, įstaigų, organizacijų atstovų ir gyventojų
 
-gyventojų dalyvavimo tarybos posėdžiuose tvarką nustato tarybos statutas.
+dalyvavimo tarybos posėdžiuose tvarką nustato tarybos statutas.
 
 Tarybos
 
@@ -729,9 +747,9 @@ Prieš
 
 terminą  motyvuotu tarybos sprendimu meras, mero pavaduotojas gali būti
 
-atleisti iš pareigų 1/3 tarybos narių iniciatyva, jeigu už tai balsuoja
+atleisti iš pareigų 1/3 tarybos narių iniciatyva, jeigu už tai balsuoja nustatyto
 
-nustatyto viso tarybos narių skaičiaus dauguma.
+viso tarybos narių skaičiaus dauguma.
 
 Meras,
 
@@ -783,13 +801,11 @@ mero asmeniu susiję klausimai.
 
 Merui,
 
-mero pavaduotojui įgaliojimai pratęsiami ir po naujų rinkimų iki reikalų
+mero pavaduotojui įgaliojimai pratęsiami ir po naujų rinkimų iki reikalų perdavimo
 
-perdavimo naujai išrinktam merui, mero pavaduotojui arba Vyriausybės
+naujai išrinktam merui, mero pavaduotojui arba Vyriausybės įgaliotiniui, kai
 
-įgaliotiniui, kai savivaldybės teritorijoje laikinai įvedamas tiesioginis
-
-valdymas.
+savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas.
 
 Savo įgaliojimų laikui meras gali turėti sekretorių ir patarėjus.
 
@@ -1363,19 +1379,19 @@ Valdybos sprendimai įsigalioja po jų pasirašymo. Valdybos sprendimai, kuriuos
 
 nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos,
 
-įsigalioja kitą dieną po jų paskelbimo spaudoje, jeigu pačiuose sprendimuose nenustatyta
+įsigalioja kitą dieną po jų paskelbimo spaudoje, jeigu pačiuose sprendimuose
 
-vėlesnė jų įsigaliojimo data. Valdybos sprendimus pasirašo meras. Valdybos
+nenustatyta vėlesnė jų įsigaliojimo data. Valdybos sprendimus pasirašo meras.
 
-sprendimus tarybos savarankiškosios kompetencijos klausimais privalo pasirašyti
+Valdybos sprendimus tarybos savarankiškosios kompetencijos klausimais privalo
 
-meras. Meras turi teisę nepasirašyti valdybos sprendimų, susijusių su valstybės
+pasirašyti meras. Meras turi teisę nepasirašyti valdybos sprendimų, susijusių
 
-deleguotomis funkcijomis, jeigu jie prieštarauja įstatymams. Piliečių ir
+su valstybės deleguotomis funkcijomis, jeigu jie prieštarauja įstatymams. Piliečių
 
-organizacijų teises pažeidžiantys mero veiksmai dėl sprendimo nepasirašymo gali
+ir organizacijų teises pažeidžiantys mero veiksmai dėl sprendimo nepasirašymo
 
-būti skundžiami teisme.
+gali būti skundžiami teisme.
 
 Taryba
 
@@ -1875,13 +1891,19 @@ nuostatus;
 
 papildomas savivaldybės biudžeto lėšas;
 
-13) tvirtina kainas ir tarifus už savivaldybės įmonių teikiamas gyventojams
+13) tvirtina kainas ir tarifus už
 
-paslaugas;
+savivaldybės įmonių teikiamas paslaugas, taip pat tiekėjo teisėmis nustato
 
-14) tvirtina iš savivaldybės biudžeto išlaikomų įstaigų ir organizacijų bendrą
+elektros energijos, centralizuotos šilumos, šalto ir karšto vandens bei
 
-asignavimų sumą ir darbo užmokesčio fondą;
+gamtinių dujų tiekimo paslaugų kainas;
+
+14) tvirtina iš savivaldybės biudžeto
+
+išlaikomų įstaigų ir organizacijų bendrą asignavimų sumą ir darbo užmokesčio
+
+fondą;
 
 15) įstatymų numatyta tvarka nustato vietines rinkliavas;
 
@@ -1889,17 +1911,17 @@ asignavimų sumą ir darbo užmokesčio fondą;
 
 Įmonių įstatymą savivaldybės įmones ir organizacijas;
 
-17) priima sprendimus
+17) priima
 
-dėl iš savivaldybės biudžeto lėšų išlaikomų įstaigų, įmonių, organizacijų
+sprendimus dėl iš savivaldybės biudžeto lėšų išlaikomų įstaigų, įmonių,
 
-steigimo, reorganizavimo bei likvidavimo, taip pat dėl steigėjo atskirų
+organizacijų steigimo, reorganizavimo bei likvidavimo, taip pat dėl steigėjo
 
-funkcijų vykdymo delegavimo;
+atskirų funkcijų vykdymo delegavimo;
 
-18) nustato mokėjimų arba kompensacijų už išperkamus žemės sklypus, naudojimąsi
+18) nustato mokėjimų arba kompensacijų už išperkamus žemės sklypus,
 
-savivaldybės įrengimais, objektais bei gamtos ištekliais dydį;
+naudojimąsi savivaldybės įrengimais, objektais bei gamtos ištekliais dydį;
 
 19) tvirtina savivaldybės teritorijos ir jos dalių bendruosius planus, taip pat
 
@@ -1979,6 +2001,10 @@ Nr.
 
 VIII-731, 98.05.14, Žin., 1998, Nr.51-1393 (98.06.03)
 
+Nr. VIII-929,
+
+98.11.17, Žin., 1998, Nr.105-2900 (98.12.02)
+
 16
 
 straipsnis. Valstybės deleguotoji kompetencija
@@ -1995,9 +2021,9 @@ savivaldybių policiją, civilinę ir priešgaisrinę saugą, įgyvendinti kitas
 
 įstatymų deleguotas funkcijas.
 
-Savivaldos institucijos, įgyvendindamos deleguotas valstybės funkcijas, vadovaujasi
+Savivaldos institucijos, įgyvendindamos deleguotas valstybės funkcijas,
 
-įstatymais, vykdo Vyriausybės nutarimus.
+vadovaujasi įstatymais, vykdo Vyriausybės nutarimus.
 
 Straipsnio
 
@@ -2079,21 +2105,23 @@ valdymo bendrove;
 
 organizuoja vaikų ir jaunimo bendrąjį lavinimą ir papildomą  ugdymą,
 
-suaugusiųjų  bendrąjį  ugdymą,  rūpinasi gyventojų  kultūros  ugdymu,
+suaugusiųjų  bendrąjį  ugdymą,  rūpinasi gyventojų  kultūros  ugdymu,  bendrosios
 
-bendrosios  ir  etnokultūros puoselėjimu, organizuoja gyventojų pirminę
+ir  etnokultūros puoselėjimu, organizuoja gyventojų pirminę sveikatos apsaugą
 
-sveikatos apsaugą ir sergamumo  prevenciją, ligonių, invalidų ir senelių
+ir sergamumo  prevenciją, ligonių, invalidų ir senelių slaugą, rūpinasi
 
-slaugą, rūpinasi teritorijos sanitarija ir kad būtų laikomasi higienos bei
+teritorijos sanitarija ir kad būtų laikomasi higienos bei gamtos apsaugos
 
-gamtos apsaugos reikalavimų, plėtoja gyventojų poilsio ir turizmo industriją;
+reikalavimų, plėtoja gyventojų poilsio ir turizmo industriją;
 
 6)
 
-organizuoja invalidų, vienišų nusenusių asmenų rūpybą, priežiūrą ir aptarnavimą,
+organizuoja invalidų, vienišų nusenusių asmenų rūpybą, priežiūrą ir
 
-labdaros renginius, tarybos nustatyta tvarka skirsto surinktas lėšas ir aukas.
+aptarnavimą, labdaros renginius, tarybos nustatyta tvarka skirsto surinktas
+
+lėšas ir aukas.
 
 Vykdydamas
 
@@ -2119,11 +2147,13 @@ Jeigu
 
 taryba  sudaro valdybą,  tai ši, vykdydama savo įgaliojimus:
 
-1)
+1) tarybai pavedus nustato kainas ir tarifus
 
-tarybai pavedus nustato kainas ir tarifus už savivaldybės įmonių teikiamas
+už savivaldybės įmonių teikiamas paslaugas, taip pat tiekėjo teisėmis nustato
 
-gyventojams paslaugas;
+elektros energijos, centralizuotos šilumos, šalto ir karšto vandens bei
+
+gamtinių dujų tiekimo paslaugų kainas;
 
 2)
 
@@ -2179,9 +2209,9 @@ apyskaitą;
 
 9) pagal
 
-tarybos patvirtintus nuostatus sudaro specializuotus (tikslinius,
+tarybos patvirtintus nuostatus sudaro specializuotus (tikslinius, nebiudžetinius)
 
-nebiudžetinius) fondus, kontroliuoja, kaip jie naudojami;
+fondus, kontroliuoja, kaip jie naudojami;
 
 10) nustato
 
@@ -2191,7 +2221,7 @@ sudarymo ir naudojimo taisykles, tvirtina jų naudojimo apyskaitą;
 
 11)
 
-kontroliuoja,  kaip  laikomasi  tarybos  nustatytų taisyklių, už kurių
+kontroliuoja,  kaip  laikomasi  tarybos  nustatytų taisyklių, už kurių
 
 pažeidimą numatyta administracinė atsakomybė;
 
@@ -2260,6 +2290,10 @@ VIII-123, 97.02.25, Žin., 1997, Nr.20-446 (97.03.07)
 Nr.
 
 VIII-497, 97.11.06, Žin., 1997, Nr.106-2669 (97.11.21)
+
+Nr. VIII-929,
+
+98.11.17, Žin., 1998, Nr.105-2900 (98.12.02)
 
 19
 
@@ -2463,11 +2497,11 @@ Likviduojant
 
 savivaldybę ar keičiant Lietuvos Respublikos teritorijos administracinio
 
-vieneto ribas, kitai savivaldybei priskiriama ta savivaldybės nekilnojamojo turto
+vieneto ribas, kitai savivaldybei priskiriama ta savivaldybės nekilnojamojo
 
-dalis, kuri yra priskiriamojoje teritorijoje;  kitas jos  turtas ir  skolos
+turto dalis, kuri yra priskiriamojoje teritorijoje;  kitas jos  turtas ir
 
-paskirstomos  savivaldybėms  proporcingai  iš  priskiriamos teritorijos
+skolos paskirstomos  savivaldybėms  proporcingai  iš  priskiriamos teritorijos
 
 juridinių ir fizinių asmenų surenkamiems mokesčiams į savivaldybės biudžetą.
 
@@ -2631,11 +2665,11 @@ nuostatos
 
 Savivaldybės
 
-tarybos, valdybos sprendimai ir mero potvarkiai, neviršijantys jų
+tarybos, valdybos sprendimai ir mero potvarkiai, neviršijantys jų kompetencijos,
 
-kompetencijos, yra privalomi visoms savivaldybės teritorijoje esančioms
+yra privalomi visoms savivaldybės teritorijoje esančioms įmonėms, įstaigoms ir
 
-įmonėms, įstaigoms ir organizacijoms, taip pat pareigūnams ir gyventojams.
+organizacijoms, taip pat pareigūnams ir gyventojams.
 
 Šio
 
@@ -2691,9 +2725,9 @@ kontrolieriai, kurių įgaliojimus nustato Seimo kontrolierių įstatymas.
 
 Tarybų,
 
-jų vykdomųjų institucijų bei pareigūnų aktai ar veiksmai,  pažeidžiantys
+jų vykdomųjų institucijų bei pareigūnų aktai ar veiksmai,  pažeidžiantys piliečių
 
-piliečių ir organizacijų teises, gali būti skundžiami teisme.
+ir organizacijų teises, gali būti skundžiami teisme.
 
 Straipsnio
 
