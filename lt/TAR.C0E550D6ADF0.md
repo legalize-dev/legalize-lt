@@ -4,7 +4,7 @@ identifier: "TAR.C0E550D6ADF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "1998-03-03"
+last_updated: "1998-04-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,11 +16,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1998.03.25)
+Redagavo: Ramunė Lūžaitė (1998.05.15)
 
-Įstatymas paskelbtas: Žin.,
-
-1997, Nr.67-1659
+Įstatymas paskelbtas: Žin., 1997, Nr.67-1659
 
 Neoficialus įstatymo tekstas
 
@@ -39,6 +37,22 @@ VIII-650, 98.03.03, Žin., 1998, Nr.28-728 (98.03.25)
 LIETUVOS RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO
 
 VALSTYBINĖJE TARNYBOJE ĮSTATYMO 23 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-719,
+
+98.04.28, Žin., 1998, Nr.44-1199 (98.05.13)
+
+LIETUVOS
+
+RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE
+
+ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 *** pABAIGA ***
 
@@ -66,13 +80,13 @@ NUOSTATOS
 
 Šiuo įstatymu siekiama suderinti valstybinėje
 
-tarnyboje dirbančių asmenų privačius ir visuomenės viešuosius interesus,
+tarnyboje dirbančių asmenų privačius ir visuomenės viešuosius interesus, užtikrinti,
 
-užtikrinti, kad priimant sprendimus pirmenybė būtų teikiama viešiesiems
+kad priimant sprendimus pirmenybė būtų teikiama viešiesiems interesams,
 
-interesams, įtvirtinti priimamų sprendimų nešališkumą ir užkirsti kelią rastis
+įtvirtinti priimamų sprendimų nešališkumą ir užkirsti kelią rastis ir plisti
 
-ir plisti korupcijai valstybinėje tarnyboje.
+korupcijai valstybinėje tarnyboje.
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -82,11 +96,11 @@ tarnyboje, - politikai, visų lygių valdininkai pagal Valdininkų įstatymą be
 
 kiti asmenys, kurie dirbdami valstybės valdžios, valdymo, savivaldos,
 
-teisminėse, teisėsaugos, valstybės kontrolės bei priežiūros ir joms
+teisminėse, teisėsaugos, valstybės kontrolės bei priežiūros ir joms prilygintose
 
-prilygintose institucijose vykdo valdžios atstovo funkcijas arba turi
+institucijose vykdo valdžios atstovo funkcijas arba turi administracinius
 
-administracinius įgalinimus.
+įgalinimus.
 
 2. Kandidatas - asmuo, siekiantis būti išrinktas,
 
@@ -216,9 +230,9 @@ likus ne mažiau kaip 15 dienų iki rinkimo, skyrimo į atitinkamas pareigas
 
 valstybės ar savivaldybės tarnyboje ar tvirtinimo joms dienos.
 
-3. Deklaracija paaiškėjus naujoms aplinkybėms
+3. Deklaracija paaiškėjus naujoms aplinkybėms pateikiama
 
-pateikiama nedelsiant po šių aplinkybių paaiškėjimo.
+nedelsiant po šių aplinkybių paaiškėjimo.
 
 4. Šio straipsnio 1-3 dalyse nurodytos deklaracijos
 
@@ -260,9 +274,9 @@ deklaracijos detalizuoti duomenys:
 
 a) lėšos, esančios bankuose, kitose kredito
 
-įstaigose bei pas kitus asmenis, nurodant bankų, kredito įstaigų, juridinių asmenų
+įstaigose bei pas kitus asmenis, nurodant bankų, kredito įstaigų, juridinių
 
-pavadinimą, buveinės adresą, taip pat fizinių asmenų vardus, pavardes ir
+asmenų pavadinimą, buveinės adresą, taip pat fizinių asmenų vardus, pavardes ir
 
 gyvenamąją vietą;
 
@@ -408,29 +422,29 @@ Finansų ministerijos ir teritorinių muitinių vadovaujančių pareigūnų,
 
 Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir teritorinių
 
-mokesčių inspekcijų vadovaujančių pareigūnų, Vidaus reikalų ministerijos Ekonominių
+mokesčių inspekcijų vadovaujančių pareigūnų, Vidaus reikalų ministerijos
 
-nusikaltimų tyrimo valdybos ir miestų bei rajonų komisariatų ekonominių
+Ekonominių nusikaltimų tyrimo valdybos ir miestų bei rajonų komisariatų
 
-nusikaltimų tyrimo skyrių (poskyrių) vadovaujančių pareigūnų, policijos
+ekonominių nusikaltimų tyrimo skyrių (poskyrių) vadovaujančių pareigūnų,
 
-generalinio komisaro, vyriausiųjų komisarų, vyresniųjų komisarų, savivaldybių
+policijos generalinio komisaro, vyriausiųjų komisarų, vyresniųjų komisarų,
 
-merų, vicemerų, administratorių, savivaldybių tarybų komitetų pirmininkų, Seimo
+savivaldybių merų, vicemerų, administratorių, savivaldybių tarybų komitetų
 
-kontrolierių metinės privačių interesų deklaracijos kiekvienais metais ne
+pirmininkų, Seimo kontrolierių metinės privačių interesų deklaracijos
 
-vėliau kaip gegužės 1 d. valstybės lėšomis yra skelbiamos “Valstybės žiniose”.
+kiekvienais metais ne vėliau kaip gegužės 1 d. valstybės lėšomis yra skelbiamos
 
-Šių deklaracijų patvirtintus nuorašus “Valstybės žinių” redakcijai kasmet iki
+“Valstybės žiniose”. Šių deklaracijų patvirtintus nuorašus “Valstybės žinių”
 
-kovo 31 d. perduoda institucijų vadovai, jų įgalioti atstovai ar kiti asmenys,
+redakcijai kasmet iki kovo 31 d. perduoda institucijų vadovai, jų įgalioti
 
-kuriems šio įstatymo nustatyta tvarka deklaracijos buvo pateiktos. Vardinį
+atstovai ar kiti asmenys, kuriems šio įstatymo nustatyta tvarka deklaracijos
 
-šioje dalyje išvardytų pareigų sąrašą kiekvienais metais iki sausio 31 d.
+buvo pateiktos. Vardinį šioje dalyje išvardytų pareigų sąrašą kiekvienais
 
-nustato Vyriausioji tarnybinės etikos komisija.
+metais iki sausio 31 d. nustato Vyriausioji tarnybinės etikos komisija.
 
 2. Vyriausiosios tarnybinės etikos komisijos
 
@@ -510,7 +524,9 @@ gali nušalinti valstybės ar savivaldybės tarnyboje dirbantį asmenį nuo
 
 konkretaus sprendimo rengimo, svarstymo ar priėmimo procedūros, jeigu yra
 
-pakankamas pagrindas manyti, kad šio asmens dalyvavimas sukels interesų konfliktą.
+pakankamas pagrindas manyti, kad šio asmens dalyvavimas sukels interesų
+
+konfliktą.
 
 6. Šio straipsnio nuostatos netaikomos Respublikos
 
@@ -768,15 +784,13 @@ savivaldybės tarnyboje, laiku ir tinkamai pateikia privačių interesų
 
 deklaracijas;
 
-2) remdamiesi metinėmis privačių interesų
+2) remdamiesi metinėmis privačių interesų deklaracijomis
 
-deklaracijomis arba asmens, dirbančio valstybės ar savivaldybės tarnyboje,
+arba asmens, dirbančio valstybės ar savivaldybės tarnyboje, prašymu parengia
 
-prašymu parengia asmeniui rašytines rekomendacijas, nurodančias, kokių
+asmeniui rašytines rekomendacijas, nurodančias, kokių priemonių asmuo turi
 
-priemonių asmuo turi imtis, kad savo tarnybinę veiklą suderintų su šio įstatymo
-
-reikalavimais;
+imtis, kad savo tarnybinę veiklą suderintų su šio įstatymo reikalavimais;
 
 3) savo iniciatyva, Vyriausiosios tarnybinės etikos
 
@@ -810,11 +824,11 @@ komisija yra sudaroma iš 3 asmenų.
 
 mažiau kaip 10 metų profesinio darbo stažą turintį Vyriausiosios tarnybinės
 
-etikos komisijos narį 4 metams skiria Respublikos Prezidentas, Seimo Pirmininkas
+etikos komisijos narį 4 metams skiria Respublikos Prezidentas, Seimo
 
-ir Ministras Pirmininkas. Šie asmenys Vyriausiosios tarnybinės etikos komisijos
+Pirmininkas ir Ministras Pirmininkas. Šie asmenys Vyriausiosios tarnybinės
 
-nariais gali būti ne ilgiau kaip dvi kadencijas iš eilės.
+etikos komisijos nariais gali būti ne ilgiau kaip dvi kadencijas iš eilės.
 
 3. Seimas iš Vyriausiosios tarnybinės etikos
 
@@ -824,13 +838,17 @@ komisijos narių paskiria komisijos pirmininką.
 
 organizavimo tvarką nustato jos patvirtintas darbo reglamentas.
 
-5. Vyriausioji tarnybinės etikos komisija veikia
+5. Vyriausioji tarnybinės etikos komisija yra
 
-visuomeniniais pagrindais ir yra atskaitinga Seimui. Komisijos sprendimus
+juridinis asmuo. Komisija veikia visuomeniniais pagrindais ir yra atskaitinga
 
-įgyvendina ir ją techniškai aptarnauja Valdymo reformų ir savivaldybių reikalų
+Seimui. Komisiją techniškai aptarnauja Komisijos sekretoriatas, kurio nuostatus
 
-ministerija.
+tvirtina Komisija. Šio sekretoriato struktūrą, etatų sąrašus ir atlyginimus,
+
+neviršydama Vyriausybės nustatytų atlyginimų dydžių, nustato Komisija savo
+
+sprendimu.
 
 6. Vyriausioji tarnybinės etikos komisija:
 
@@ -871,6 +889,10 @@ Straipsnio pakeitimai:
 Nr.
 
 VIII-650, 98.03.03, Žin., 1998, Nr.28-728 (98.03.25)
+
+Nr.
+
+VIII-719, 98.04.28, Žin., 1998, Nr.44-1199 (98.05.13)
 
 24 straipsnis. Atsakomybė
 
