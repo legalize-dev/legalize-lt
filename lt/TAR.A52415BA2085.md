@@ -4,7 +4,7 @@ identifier: "TAR.A52415BA2085"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2001-06-26"
+last_updated: "2002-01-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085"
 department: "Lietuvos Respublikos Seimas"
@@ -828,19 +828,17 @@ ketvirtosios dalies nustatyta tvarka Lietuvos bankas pareikalavo papildomų
 
 dokumentų, šešių mėnesių terminas skaičiuojamas nuo tos dienos, kai gauti visi
 
-sprendimui priimti reikalingi dokumentai ir informacija. Valstybės ir
+sprendimui priimti reikalingi dokumentai ir informacija. Valstybės ir savivaldybės
 
-savivaldybės institucijos, taip pat įmonės, įstaigos ir organizacijos privalo
+institucijos, taip pat įmonės, įstaigos ir organizacijos privalo Lietuvos banko
 
-Lietuvos banko prašymu pateikti visą jų turimą informaciją apie banko steigėjus
+prašymu pateikti visą jų turimą informaciją apie banko steigėjus ir akcininkus,
 
-ir akcininkus, jų finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės
+jų finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus,
 
-aktų pažeidimus, atliktų patikrinimų ir revizijų išvadas bei kitą informaciją,
+atliktų patikrinimų ir revizijų išvadas bei kitą informaciją, kuri Lietuvos
 
-kuri Lietuvos bankui reikalinga priimant sprendimą dėl banko licencijos
-
-išdavimo.
+bankui reikalinga priimant sprendimą dėl banko licencijos išdavimo.
 
 Lietuvos banko sprendimu
 
@@ -1094,9 +1092,9 @@ pasirašytos ir apmokėtos;
 
 apmokėtos nepažeidžiant įstatymų ir kitų teisės aktų, taip pat akcininkų
 
-susirinkimo sprendime, banko statute, akcijų emisijos prospekte (memorandume) bei
+susirinkimo sprendime, banko statute, akcijų emisijos prospekte (memorandume)
 
-akcijų pasirašymo sutartyse nurodytų sąlygų ir terminų;
+bei akcijų pasirašymo sutartyse nurodytų sąlygų ir terminų;
 
 3) lėšų už nupirktas akcijas
 
@@ -1430,9 +1428,9 @@ skirti ekspertą (ekspertų grupę) banko finansinei apskaitai patikrinti ir
 
 Banko tarybos reikalavimu
 
-banko valdyba ir administracija privalo pateikti dokumentus, susijusius su banko
+banko valdyba ir administracija privalo pateikti dokumentus, susijusius su
 
-veikla.
+banko veikla.
 
 Straipsnio
 
@@ -1452,11 +1450,13 @@ lygias teises. Balsavime kiekvienas narys turi vieną balsą. Balsams
 
 pasiskirsčius po lygiai, lemia pirmininko balsas.
 
-Jeigu banko tarybos narys negali
+Jeigu banko tarybos narys
 
-atvykti į posėdį, savo valią - "už" ar "prieš" balsuojamą
+negali atvykti į posėdį, savo valią - "už" ar "prieš"
 
-nutarimą, su kurio projektu jis yra susipažinęs, gali pranešti raštu.
+balsuojamą nutarimą, su kurio projektu jis yra susipažinęs, gali pranešti
+
+raštu.
 
 Banko tarybos posėdis yra
 
@@ -2258,11 +2258,11 @@ Apie šaukiamą visuotinį
 
 akcininkų susirinkimą ir jo darbotvarkę ne vėliau kaip prieš 30 dienų pranešama
 
-visiems akcininkams. Dėl akcinio kapitalo sumažinimo bankų statutų pakeitimai
+visiems akcininkams. Dėl akcinio kapitalo sumažinimo bankų statutų pakeitimai registruojami
 
-registruojami Lietuvos Respublikos įstatymų nustatyta tvarka. Akcinis kapitalas
+Lietuvos Respublikos įstatymų nustatyta tvarka. Akcinis kapitalas laikomas
 
-laikomas sumažintu tik įregistravus statutų pakeitimus.
+sumažintu tik įregistravus statutų pakeitimus.
 
 Jeigu bankas yra nemokus,
 
@@ -2700,9 +2700,9 @@ paskirtas banko valdytojas.
 
 Laikinasis
 
-administratorius ir jo padėjėjai yra Lietuvos banko darbuotojai. Jų teisės,
+administratorius ir jo padėjėjai yra Lietuvos banko darbuotojai. Jų teisės, pareigos
 
-pareigos ir atsakomybė nustatomos su Lietuvos banku sudarytoje darbo sutartyje.
+ir atsakomybė nustatomos su Lietuvos banku sudarytoje darbo sutartyje.
 
 Laikinasis
 
@@ -2964,9 +2964,9 @@ bylą žinomiems kreditoriams, šio banko bankams korespondentams, rejestro
 
 tvarkytojui bei viešai paskelbti nurodydamas:
 
-teismą, kuriame bus
+teismą, kuriame bus nagrinėjama
 
-nagrinėjama bankroto byla, ir bylos numerį,
+bankroto byla, ir bylos numerį,
 
 bankrutuojančio banko
 
@@ -3390,11 +3390,11 @@ Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 
 Įkeitimu ir
 
-(arba) hipoteka užtikrinti kreditoriaus reikalavimai tenkinami pirmiausia iš lėšų,
+(arba) hipoteka užtikrinti kreditoriaus reikalavimai tenkinami pirmiausia iš
 
-gautų pardavus įkeistą banko turtą, arba perduodant įkeistą turtą. Jei įkeistas
+lėšų, gautų pardavus įkeistą banko turtą, arba perduodant įkeistą turtą. Jei
 
-turtas parduodamas už didesnę kainą, negu įkeitimu ir (arba) hipoteka
+įkeistas turtas parduodamas už didesnę kainą, negu įkeitimu ir (arba) hipoteka
 
 užtikrintų reikalavimų suma, šių lėšų skirtumas skiriamas kitų kreditorių
 
@@ -3442,6 +3442,10 @@ ministerijos reikalavimai dėl išlaidų, neviršijančių banko indėlininkams
 
 išmokėtų indėlių dalinių kompensacijų.
 
+[3 dalies redakcija nuo 2002 m. liepos 1 d.:
+
+Antrąja eile tenkinami valstybės įmonės Indėlių draudimo fondo reikalavimai dėl išlaidų, susijusių su draudimo išmokų banko indėlininkams ar investuotojams, apibrėžtiems Lietuvos Respublikos komercinių bankų ir finansų maklerio įmonių įsipareigojimų investuotojams draudimo įstatyme, išmokėjimu, bei Finansų ministerijos reikalavimai dėl išlaidų, neviršijančių banko indėlininkams išmokėtų indėlių dalinių kompensacijų.]
+
 Trečiąja eile
 
 tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei privalomojo
@@ -3464,11 +3468,11 @@ tenkinamas tik 5000 litų ir išmokėtos kompensacijos sumos skirtumas.
 
 Penktąja
 
-eile tenkinami kiti banko kreditorių, išskyrus nurodytus šio straipsnio antrojoje,
+eile tenkinami kiti banko kreditorių, išskyrus nurodytus šio straipsnio
 
-trečiojoje, ketvirtojoje, penktojoje, septintojoje, aštuntojoje ir devintojoje
+antrojoje, trečiojoje, ketvirtojoje, penktojoje, septintojoje, aštuntojoje ir
 
-dalyse, reikalavimai.
+devintojoje dalyse, reikalavimai.
 
 Šeštąja
 
@@ -3517,6 +3521,10 @@ Nr.
 VIII-1301,
 
 99.07.07, Žin., 1999, Nr.66-2119 (99.07.30)
+
+Nr. IX-722,
+
+2002-01-22, Žin., 2002, Nr. 13-476 (2002-02-06), įsigalioja nuo 2002-07-01
 
 XI skyrius
 
@@ -3594,13 +3602,15 @@ Aukščiausiosios Tarybos nutarimą "Dėl Lietuvos Respublikos komercinių
 
 Lietuvos Respublikos
 
-Aukščiausiosios Tarybos 1992 m. spalio 6 d. nutarimo Nr.I-2928 "Dėl pavedimo
+Aukščiausiosios Tarybos 1992 m. spalio 6 d. nutarimo Nr.I-2928 "Dėl
 
-Lietuvos Respublikos Vyriausybei spręsti kai kuriuos klausimus" 2 punktą.
+pavedimo Lietuvos Respublikos Vyriausybei spręsti kai kuriuos klausimus" 2
 
-Skelbiu šį Lietuvos
+punktą.
 
-Respublikos Seimo priimtą įstatymą.
+Skelbiu šį Lietuvos Respublikos
+
+Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 
