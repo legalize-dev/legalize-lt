@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "1995-06-20"
+last_updated: "1996-07-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,135 +15,57 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos notariato įstatymas
 
-Redaguota: 1994 06 28
+@D1=19920915;D2=19960711;D3=19960812
 
-Redaguota: 1994 06
-
-28
-
-g
-
-***Redagavusio
-
-šį įstatymą pastaba:  1994 m. kovo 24 d.
-
-įstatymu Nr. 1-409
-
-pratęstas 1974 m. birželio 26 d. Lietuvos
-
-Respublikos
-
-valstybinio notariato įstatymo 3 straipsnio
-
-ketvirtosios ir
-
-penktosios dalies, 14 ir 16-1 straipsnių
-
-galiojimas iki
-
-vietos savivaldybių reformos pabaigos.
-
-Už
-
-savivaldybėse atliekamus  notarinius  veiksmus  imama
-
-rinkliava į
-
-savivaldybės biudžetą  pagal 1992  m. rugsėjo  15 d.
-
-priimto Lietuvos
-
-Respublikos  notariato  įstatymo  19  straipsnį
-
-(Žin., 1992,
-
-Nr.28-810).
+@D1=19920915;D2=19960711;D3=19960812
 
 Pakeitimai:
 
-1. Lietuvos
+1.
 
-Respublikos 1991 07 29
+Parlamentas,
 
-įstatymas
+Įstatymas
 
-Nr.1-1620;
+{#19940922AA0597 ;}
 
-Žin., 1991, Nr.
-
-23-595.
-
-Dėl Lietuvos
-
-Respublikos valstybinio
-
-notariato
-
-įstatymo papildymo
-
-***2. Lietuvos
-
-Respublikos1994 03 24
-
-įstatymas Nr. 1-409
-
-Žin., 1994, Nr.
-
-25-397
+Nr. 1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 DĖL LIETUVOS
 
-RESPUBLIKOS 1974 M.
+RESPUBLIKOS NOTARIATO ĮSTATYMO PAKEITIMO IR PAPILDYMO
 
-VALSTYBINIO
+2.
 
-NOTARIATO
+Parlamentas,
 
-ĮSTATYMO KAI KURIŲ
+Įstatymas
 
-STRAIPSNIŲ
+{#19950620AA0960 ;}
 
-GALIOJIMO PRATĘSIMO
-
-3. Lietuvos
-
-Respublikos 1994 09 22
-
-įstatymas
-
-Nr.1-597;
-
-Žin., 1994, Nr.
-
-78-1463.
+Nr. 1-960, 95.06.20, Žin., 1995, Nr. 53-1304 (95.06.28)
 
 DĖL LIETUVOS
 
-RESPUBLIKOS NOTARIATO
+RESPUBLIKOS NOTARIATO ĮSTATYMO PAKEITIMO
 
-ĮSTATYMO
+3.
 
-PAKEITIMO IR PAPILDYMO
+Parlamentas,
 
-4. Lietuvos
+Įstatymas
 
-Respublikos 1995 06 20
+{#19960711AA1470 ;}
 
-įstatymas
+Nr. 1-1470, 96.07.11, Žin., 1996, Nr. 68-1645 (96.07.19)
 
-Nr.1-960;
+LIETUVOS
 
-Žin., 1995, Nr.
+RESPUBLIKOS NOTARIATO ĮSTATYMO 14 STRAIPSNIO PAPILDYMO
 
-53-1304.
+ĮSTATYMAS
 
-DĖL LIETUVOS
-
-RESPUBLIKOS NOTARIATO
-
-ĮSTATYMO
-
-PAKEITIMO
+*** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
@@ -179,9 +101,9 @@ asmenų ir valstybės teisėtų interesų apsaugą.
 
 Notaras
 
-Notaras yra  valstybės
+Notaras yra
 
-įgaliotas  asmuo,  atliekantis  šiame
+valstybės įgaliotas  asmuo,  atliekantis  šiame
 
 įstatyme numatytas
 
@@ -209,19 +131,13 @@ ir atleidžia Lietuvos Respublikos teisingumo
 
 ministras.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 3 straipsnis.
 
@@ -231,9 +147,9 @@ Notaro pareigos
 
 užimamos konkurso būdu.
 
-Notaru gali
+Notaru gali  būti
 
-būti Lietuvos  Respublikos  pilietis,  turintis
+Lietuvos  Respublikos  pilietis,  turintis
 
 aukštąjį teisinį
 
@@ -281,31 +197,13 @@ Respublikos  teisingumo ministras Notarų rūmų prezidiumo
 
 teikimu.
 
-***Pakeitimai:
+Straipsnio
 
-1.Lietuvos
+pakeitimai:
 
-Respublikos1994 03 24
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr. 1-409
-
-Žin.,
-
-1994, Nr. 25-397
-
-2.Lietuvos
-
-Respublikos 1994 09 22
-
-įstatymas
-
-Nr.1-597;
-
-Žin., 1994, Nr.
-
-78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 4 straipsnis.
 
@@ -331,19 +229,13 @@ sąlygas  ir  apmokėjimą  nustato  Notarų  rūmų
 
 prezidiumas.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 5 straipsnis.
 
@@ -365,19 +257,21 @@ Prisiekiama
 
 notaras   (ė)   ..................,   prisiekiu   būti
 
-(vardas, pavardė)
-
 ištikimas (a)
 
-Lietuvos Respublikai, laikytis jos  Konstitucijos
+Lietuvos Respublikai,
 
-ir įstatymų, visada
+(vardas, pavardė)
 
-būti sąžiningas (a) ir dorai vykdyti notaro
+laikytis jos
 
-(ės)  pareigas.
+Konstitucijos ir  įstatymų, visada  būti sąžiningas
 
-Tepadeda  man Dievas."
+(a) ir  dorai
+
+vykdyti        notaro (ės)  pareigas. Tepadeda  man
+
+Dievas."
 
 Prisiekti
 
@@ -443,7 +337,7 @@ paslapties
 
 išsaugojimą.
 
-Notaras turi
+Notaras  turi
 
 per tris  mėnesius  nuo  priesaikos  priėmimo
 
@@ -461,19 +355,13 @@ veiksmais  fiziniams  ar  juridiniams  asmenims  būtų
 
 padaryta žala.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 7 straipsnis.
 
@@ -501,9 +389,7 @@ suvienodinti, analizuoja notarinių veiksmų statistiką.
 
 8 straipsnis.
 
-Notarų rūmai ir jų statuto priėmimo
-
-tvarka
+Notarų rūmai ir jų statuto priėmimo tvarka
 
 Lietuvos
 
@@ -559,7 +445,7 @@ Respublikos teisingumo ministerijai;
 
 5)
 
-įgyvendinti   kitus  Notarų   rūmų   statute   numatytus
+įgyvendinti   kitus  Notarų   rūmų   statute   numatytus
 
 uždavinius.
 
@@ -729,6 +615,18 @@ jiems priklausančių
 
 baudžiamųjų ir civilinių bylų.
 
+Seimo
+
+sudarytų  komisijų reikalavimu pažymos apie atliktus
+
+notarinius
+
+veiksmus   ir   dokumentai  išduodami  tik  įstatymų
+
+nustatytais
+
+atvejais.
+
 Pažymos apie
 
 testamentus išduodamos tik testatoriui mirus.
@@ -759,61 +657,17 @@ Jei viena šalis yra mirusi, tai nuo paslapties
 
 saugojimo   gali
 
-atleisti   Lietuvos   Respublikos   teisingumo
+atleisti   Lietuvos   Respublikos   teisingumo
 
 ministerija.
 
-***Pastaba:
+Straipsnio
 
-Nustatyti,   kad  iki  savivaldybių reformos
+pakeitimai:
 
-merai  ir viršaičiai
+{#19960711AA1470 ;}
 
-atlieka  šiuos  1974 m. Valstybinio
-
-notariato įstatymo
-
-14 straipsnyje nurodytus notarinius veiksmus:
-
-1) tvirtina
-
-testamentus;
-
-2) tvirtina  kitokius
-
-sandorius  (sutartis,  įgaliojimus  ir
-
-kt.), išskyrus
-
-sutartis dėl nekilnojamojo turto;
-
-3) imasi
-
-priemonių paveldimam turtui apsaugoti;
-
-4) liudija
-
-dokumentų nuorašų ir jų išrašų tikrumą;
-
-5) liudija
-
-parašo dokumentuose tikrumą;
-
-6) perduoda
-
-pareiškimus.
-
-***Pakeitimas:
-
-Lietuvos
-
-Respublikos1994 03 24
-
-įstatymas Nr. 1-409
-
-Žin., 1994, Nr.
-
-25-397
+Nr. 1-1470, 96.07.11, Žin., 1996, Nr. 68-1645 (96.07.19)
 
 15 straipsnis.
 
@@ -831,19 +685,13 @@ valstybine ir kita
 
 abiems šalims priimtina kalba.
 
-Pakeitimai:
+Straipsnio
 
-1. Lietuvos
+pakeitimai:
 
-Respublikos 1995 06 20
+{#95ESAA0960 ;} Nr.
 
-įstatymas
-
-Nr.1-960;
-
-Žin., 1995, Nr.
-
-53-1304.
+1-960, 95.06.20, Žin., 1995, Nr. 53-1304 (95.06.28)
 
 16 straipsnis.
 
@@ -851,11 +699,11 @@ Notaro atsakomybė
 
 Notaras,
 
-atlikdamas šiame įstatyme numatytas funkcijas
+atlikdamas   šiame  įstatyme  numatytas  funkcijas
 
 pažeidęs įstatymų
 
-bei kitų norminių aktų reikalavimus, atsako
+bei kitų  norminių aktų  reikalavimus,  atsako
 
 įstatymų nustatyta
 
@@ -873,127 +721,19 @@ nagrinėti Garbės
 
 teismui prie  Lietuvos Respublikos notarų rūmų,
 
-kuris vadovaujasi
+kuris
 
-Notarų rūmų susirinkimo patvirtintais
+vadovaujasi   Notarų   rūmų   susirinkimo   patvirtintais
 
 nuostatais.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
-
-16-1
-
-straipsnis. Valstybės vienkartinių išmokų, tiks-
-
-linių
-
-kompensacijų ir piniginių lėšų,
-
-esančių investicinėse sąskaitose,
-
-perleidimo bei šeimos narių susi-
-
-tarimu
-
-dėl gyvenamojo namo (buto)
-
-pirkimo ir valstybinio turto pirminio
-
-privatizavimo dalyvių grupės steigimo
-
-sutarčių supaprastintas tvirtinimas
-
-Valstybės
-
-vienkartinių  išmokų,  tikslinių  kompensacijų  ir
-
-piniginių lėšų,
-
-esančių investicinėse sąskaitose, perleidimą gali
-
-patvirtinti taip
-
-pat valstybinė  įstaiga,  įmonė,  organizacija,
-
-kurioje perleidėjas
-
-dirba, mokymo  įstaiga, kurioje  jis mokosi,
-
-perleidėjo
-
-gyvenamosios  vietos butų  ūkio  tarnyba  (seniūnija),
-
-stacionarinė
-
-gydymo   įstaiga,  kurioje   perleidėjas   gydomas,
-
-atitinkamo karinio
-
-dalinio vadovybė, jeigu perleidėjas yra karys,
-
-arba  jūrų  laivo,
-
-esančio  tolimajame  plaukiojime,  kapitonas.
-
-Kalinamo  asmens
-
-valstybės   vienkartinių   išmokų,   tikslinių
-
-kompensacijų ir
-
-piniginių lėšų, esančių investicinėje sąskaitoje,
-
-perleidimą
-
-patvirtinta     atitinkamos     kalinimo     vietos
-
-administracija.
-
-Šio straipsnio
-
-pirmojoje dalyje išvardintos įmonės, įstaigos
-
-ir  organizacijos,
-
-ir  laivo,  esančio  tolimajame  plaukiojime,
-
-kapitonas gali
-
-patvirtinti ir buto nuomininko bei jo šeimos narių
-
-susitarimus dėl
-
-gyvenamojo namo  (buto) pirkimo  bei valstybinio
-
-turto pirminio
-
-privatizavimo dalyvių grupės steigimo sutartį.
-
-Pakeitimai:
-
-1.Lietuvos
-
-Respublikos 1991 07 29
-
-įstatymas
-
-Nr.1-1620;
-
-Žin.,
-
-1991, Nr. 23-595.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 17 straipsnis.
 
@@ -1047,37 +787,23 @@ patvirtintame
 
 dokumente.
 
-Notaro gaunamos
+Notaro
 
-pajamos apmokestinamos  įstatymų  nustatyta
+gaunamos  pajamos apmokestinamos  įstatymų  nustatyta
 
 tvarka.
 
-Pakeitimas:
+Straipsnio
 
-1.Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
-Nr.1-597;
+{#95ESAA0960 ;} Nr.
 
-Žin.,
-
-1994, Nr. 78-1463.
-
-2.Lietuvos
-
-Respublikos 1995 06 20
-
-įstatymas
-
-Nr.1-960;
-
-Žin.,
-
-1995, Nr. 53-1304.
+1-960, 95.06.20, Žin., 1995, Nr. 53-1304 (95.06.28)
 
 20 straipsnis.
 
@@ -1133,17 +859,17 @@ Jeigu notaras
 
 negali eiti  savo pareigų (atostogos, liga ar
 
-kitos  priežastys),
+kitos
 
-apie  tai   jis  turi   pranešti   Lietuvos
+priežastys),   apie  tai   jis  turi   pranešti   Lietuvos
 
 Respublikos
 
 teisingumo ministerijai, kuri paskiria notaro atstovą
 
-arba paveda
+arba paveda pavaduoti
 
-pavaduoti kitam notarui.
+kitam notarui.
 
 Notaro atstovu
 
@@ -1159,19 +885,13 @@ atstovui  atstovaujamasis  notaras  pagal  susitarimą
 
 moka atlyginimą.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 23 straipsnis.
 
@@ -1235,19 +955,13 @@ Notaro
 
 Respublikos teisingumo ministro įsakymu.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 24 straipsnis.
 
@@ -1261,25 +975,19 @@ teisingumo
 
 ministerija   priima  sprendimą  dėl  tolesnės  biuro
 
-veiklos,  neatliktų
+veiklos,
 
-notarinių  veiksmų   tęsimo  ir   dokumentų
+neatliktų   notarinių  veiksmų   tęsimo  ir   dokumentų
 
 perdavimo.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 25 straipsnis.
 
@@ -1363,7 +1071,7 @@ dokumentų pateikimo laiką;
 
 11) perduoda
 
-vienų juridinių  ir fizinių asmenų pareiškimus
+vienų juridinių  ir fizinių asmenų pareiškimus
 
 kitiems juridiniams
 
@@ -1381,7 +1089,7 @@ skolos dokumentus;
 
 14) priima
 
-jūrinius protestus.
+jūrinius protestus;
 
 15) protestuoja
 
@@ -1391,19 +1099,13 @@ vekselius ir čekius;
 
 kitus įstatymų numatytus notarinius veiksmus.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 27 straipsnis.
 
@@ -1421,9 +1123,9 @@ notarinius veiksmus:
 
 sandorius (sutartis, testamentus, įgaliojimus ir
 
-kt.), išskyrus sutartis
+kt.), išskyrus
 
-dėl nekilnojamojo turto, esančio Lietuvos
+sutartis dėl nekilnojamojo turto, esančio Lietuvos
 
 Respublikoje,
 
@@ -1449,7 +1151,7 @@ dokumentų nuorašų ir jų išrašų tikrumą;
 
 6) liudija
 
-parašo dokumentuose tikrumą;
+parašo dokumentuose tikrumą
 
 7) liudija
 
@@ -1485,7 +1187,7 @@ dokumentus;
 
 13) priima
 
-jūrinius protestus.
+jūrinius protestus;
 
 14) protestuoja
 
@@ -1495,19 +1197,13 @@ vekselius ir čekius;
 
 kitus įstatymų numatytus notarinius veiksmus.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 III SKYRIUS
 
@@ -1577,19 +1273,13 @@ informacija,  tačiau  ne  ilgiau  dešimt  kalendorinių
 
 dienų.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 30 straipsnis.
 
@@ -1607,7 +1297,7 @@ asmenims, kurie nori juos atlikti.
 
 Jei  sandoris
 
-sudėtingas,  gali   būti  rašomas  sandorio
+sudėtingas,  gali   būti   rašomas  sandorio
 
 sudarymo (derybų)
 
@@ -1615,19 +1305,13 @@ protokolas, kurį pasirašo sandorio dalyviai ir
 
 notaras.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 31 straipsnis.
 
@@ -1635,17 +1319,15 @@ Asmenų, kurie prašo atlikti notarinius
 
 veiksmus, asmenybės nustatymas, veiksnumo
 
-ir jų
+ir jų parašų tikrumo patikrinimas
 
-parašų tikrumo patikrinimas
+Atlikdamas
 
-Atlikdamas  notarinius
+notarinius  veiksmus,  notaras  nustato  fizinių
 
-veiksmus,  notaras  nustato  fizinių
+asmenų, jų atstovų arba
 
-asmenų, jų atstovų
-
-arba juridinių asmenų atstovų asmenybę.
+juridinių asmenų atstovų asmenybę.
 
 Tvirtinant
 
@@ -1655,13 +1337,13 @@ ir  patikrinamas
 
 juridinių  asmenų,  dalyvaujančių  sandoriuose,
 
-teisnumas.  Tvirtindamas
+teisnumas.
 
-testamentą,   notaras   privalo   jame
+Tvirtindamas   testamentą,   notaras   privalo   jame
 
-nurodyti, kad jis
+nurodyti, kad jis įsitikino
 
-įsitikino testatoriaus veiksnumu. Jeigu sandorį
+testatoriaus veiksnumu. Jeigu sandorį
 
 sudaro atstovas,
 
@@ -1791,7 +1473,7 @@ kartą  parašyti  nesutrumpinti  ir  nurodyti  jų
 
 adresai.
 
-Notaras turi
+Notaras  turi
 
 teisę  išreikalauti  iš  įstaigų,  įmonių  ir
 
@@ -1807,19 +1489,13 @@ pateikti notaro
 
 nurodytu terminu.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 35 straipsnis.
 
@@ -1903,19 +1579,13 @@ registre  yra įrodymas,  kad notarinis  veiksmas buvo
 
 atliktas.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 38 straipsnis.
 
@@ -1949,7 +1619,7 @@ dalyvių pareiškimą.
 
 Testamento
 
-dublikatas   gali   būti   išduotas   testamente
+dublikatas   gali   būti   išduotas   testamente
 
 nurodytiems
 
@@ -2001,7 +1671,9 @@ atsisakymo tvarką.
 
 Notarinių veiksmų arba atsisakymo juos
 
-atlikti apskundimas
+atlikti
+
+apskundimas
 
 Suinteresuotas
 
@@ -2009,7 +1681,7 @@ asmuo,  kuris mano,  kad  atliktas  notarinis
 
 veiksmas  arba
 
-atsisakymas   atlikti   notarinį   veiksmą   yra
+atsisakymas   atlikti   notarinį   veiksmą   yra
 
 neteisingas, turi
 
@@ -2017,17 +1689,17 @@ teisę jį  apskųsti teismui  pagal notaro biuro
 
 buvimo vietą.
 
-Skundai  dėl
+Skundai  dėl   konsulinės
 
-konsulinės  įstaigos   pareigūno  neteisingai
+įstaigos   pareigūno  neteisingai
 
 atlikto notarinio
 
 veiksmo arba atsisakymo jį atlikti nagrinėjami
 
-teisės  aktų,   reguliuojančių
+teisės  aktų,
 
-Lietuvos  Respublikos  konsulinių
+reguliuojančių  Lietuvos  Respublikos  konsulinių
 
 įstaigų veiklą,
 
@@ -2035,9 +1707,9 @@ nustatyta tvarka.
 
 42 straipsnis.
 
-Skundai dėl notaro veiksmų, nesusijusių
+Skundai dėl notaro veiksmų, nesusijusių su
 
-su notarinių veiksmų atlikimu
+notarinių veiksmų atlikimu
 
 Skundus  dėl
 
@@ -2059,7 +1731,7 @@ taisyklės
 
 Notarinių
 
-veiksmų  atlikimo  metodines  taisykles  tvirtina
+veiksmų  atlikimo  metodines  taisykles  tvirtina
 
 Lietuvos Respublikos
 
@@ -2089,9 +1761,9 @@ ministerija.
 
 IV SKYRIUS
 
-SANDORIŲ TVIRTINIMO IR NUOSAVYBĖS LIUDIJIMŲ
+SANDORIŲ
 
-IŠDAVIMO YPATUMAI
+TVIRTINIMO IR NUOSAVYBĖS LIUDIJIMŲ IŠDAVIMO YPATUMAI
 
 45 straipsnis.
 
@@ -2101,13 +1773,13 @@ Notaras
 
 tvirtina   sandorius,   kuriems   pagal   įstatymus
 
-privaloma
+privaloma   notarinė
 
-notarinė   sudarymo   forma.   Šalims   pageidaujant,
+sudarymo   forma.   Šalims   pageidaujant,
 
 tvirtinami ir  kiti
 
-sandoriai,  kurie pagal  įstatymus  neprivalo
+sandoriai,  kurie pagal  įstatymus  neprivalo
 
 būti notaro
 
@@ -2123,33 +1795,33 @@ kainą, yra negaliojantys.
 
 46 straipsnis.
 
-Sandorių dėl nekilnojamojo ir kitokio
+Sandorių dėl nekilnojamojo ir kitokio turto,
 
-turto, kuriam būtina valstybinė
+kuriam būtina valstybinė registracija,
 
-registracija, perleidimo arba įkeitimo
+perleidimo arba įkeitimo sutarčių
 
-sutarčių tvirtinimas
+tvirtinimas
 
 Tvirtindami
 
-sandorius dėl nekilnojamojo ir kitokio turto,
+sandorius dėl  nekilnojamojo ir kitokio  turto,
 
-kuriam būtina
+kuriam   būtina
 
-valstybinė  registracija,   perleidimo  arba
+valstybinė   registracija,   perleidimo   arba
 
-įkeitimo,  notarai
+įkeitimo,
 
-patikrina,  ar   turtas   priklauso   jį
+notarai   patikrina,   ar   turtas   priklauso    jį
 
 perleidžiančiam
 
-arba įkeičiančiam asmeniui,  taip pat  ar  yra
+arba  įkeičiančiam  asmeniui,  taip  pat ar yra
 
 sutuoktinio
 
-rašytinis sutikimas, jeigu turtas yra bendra
+rašytinis  sutikimas,   jeigu  turtas  yra   bendra
 
 sutuoktinių
 
@@ -2159,25 +1831,19 @@ nuosavybė.
 
 sandoriuose  nurodoma jų  registracijos atitinkamose
 
-institucijose  terminas
+institucijose
 
-ir  teisinės  sandorių  neįregistravimo
+terminas   ir  teisinės  sandorių  neįregistravimo
 
 pasekmės.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 47 straipsnis.
 
@@ -2261,15 +1927,15 @@ notaro biuro bylose.
 
 51 straipsnis.
 
-Liudijimų išdavimas pagal bendrą
+Liudijimų išdavimas pagal bendrą sutuoktinių
 
-sutuoktinių pareiškimą
+pareiškimą
 
 Notaras pagal
 
 bendrą rašytinį sutuoktinių pareiškimą vienam
 
-iš jų  arba abiems
+iš jų  arba abiems
 
 sutuoktiniams išduoda nuosavybės teisės į dalį
 
@@ -2295,13 +1961,13 @@ sutuoktiniui dėl
 
 pusės bendro turto, įgyto santuokos metu.
 
-Jeigu
+Jeigu  turtas,
 
-turtas,   kuris  yra  bendroji  jungtinė  sutuoktinių
+kuris  yra  bendroji  jungtinė  sutuoktinių
 
 nuosavybė,
 
-įregistruotas  likusio gyvo  sutuoktinio  vardu,  šiam
+įregistruotas  likusio gyvo  sutuoktinio  vardu,  šiam
 
 sutinkant  gali
 
@@ -2313,7 +1979,7 @@ liudijimas.
 
 Nuosavybės
 
-teisės  liudijimą,  mirus  vienam  sutuoktiniui,
+teisės  liudijimą,  mirus  vienam  sutuoktiniui,
 
 išduoda palikimo
 
@@ -2329,9 +1995,9 @@ TARPTAUTINĖS SUTARTYS
 
 53 straipsnis.
 
-Notariniai veiksmai užsieniečiams,
+Notariniai veiksmai užsieniečiams, užsienio
 
-užsienio įmonėms ir organizacijoms
+įmonėms ir organizacijoms
 
 Užsieniečiai
 
@@ -2347,35 +2013,31 @@ Lietuvos Respublikos piliečiai.
 
 Užsienio
 
-įmonės  ir  organizacijos  turi  teisę  kreiptis  į
+įmonės  ir  organizacijos  turi  teisę  kreiptis  į
 
 notarą ir Lietuvos
 
 Respublikos konsulines įstaigas.
 
-Pakeitimas:
+Straipsnio
 
-Lietuvos
+pakeitimai:
 
-Respublikos 1994 09 22
+{#94HUAA0597 ;} Nr.
 
-įstatymas
-
-Nr.1-597;
-
-Žin.,
-
-1994, Nr. 78-1463.
+1-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 54 straipsnis.
 
 Dokumentų, sudarytų užsienyje, priėmimas
 
-Lietuvos  Respublikos notarų biuruose
+Lietuvos
 
-Dokumentus, sudarytus
+Respublikos notarų biuruose
 
-užsienyje dalyvaujant užsienio
+Dokumentus,
+
+sudarytus   užsienyje   dalyvaujant   užsienio
 
 valstybės valdžiai,
 
@@ -2391,7 +2053,7 @@ Nelegalizuotus
 
 dokumentus   Lietuvos  Respublikos   notarai
 
-priima,  jei   tai
+priima,  jei   tai
 
 nustatyta   Lietuvos  Respublikos   įstatymų,
 
@@ -2439,5 +2101,7 @@ Vilnius, 1992 m.
 
 rugsėjo 15 d.
 
-Nr.I-2882_
+Nr.I-2882
+
+_
 
