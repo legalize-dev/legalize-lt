@@ -4,7 +4,7 @@ identifier: "TAR.B27DC7AC0F29"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-01-12"
-last_updated: "1995-01-20"
+last_updated: "1996-06-12"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B27DC7AC0F29"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,18 @@ published_in_tar: "1995-01-12"
 document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos muitinės įstatymo ir Civilinio kodekso pakeitimo ir papildymo
+
+Įstatymas netenka galios 2001-07-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1864, 2000-07-18, Žin., 2000, Nr. 74-2262 (2000-09-06); Žin., 2000, Nr. 77-0 (2000-09-13); Žin., 2000, Nr. 80-0 (2000-09-22); Žin., 2000, Nr. 82-0 (2000-09-29), i. k. 1001010ISTAIII-1864
+
+Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
+
+Suvestinė redakcija nuo 1996-06-12 iki 2001-06-30
+
+Įstatymas paskelbtas: Žin. 1995, Nr. 7-141, i. k. 0951010ISTA000I-752
 
 LIETUVOS RESPUBLIKOS
 
@@ -25,7 +37,13 @@ Vilnius
 
 DĖL LIETUVOS RESPUBLIKOS MUITINĖS ĮSTATYMO IR CIVILINIO KODEKSO PAKEITIMO IR PAPILDYMO
 
-I. Papildyti Lietuvos Respublikos muitinės įstatymą (Žin., 1993, Nr. 15-376) 101 straipsniu:
+1 skyrius. Neteko galios nuo 1996-06-12
+
+Skyriaus naikinimas:
+
+Nr. I-1360, 1996-06-04, Žin. 1996, Nr. 55-1295 (1996-06-12), i. k. 0961010ISTA00I-1360
+
+II. Pakeisti Lietuvos Respublikos civilinio kodekso (Žin., 1964, Nr. 19-138; 1983, Nr. 34-363; 1994, Nr. 44-805) 156 straipsnį ir jį išdėstyti taip:
 
 „101 straipsnis. Prekės bei kitos vertybės, neteisėtai gabenamos per Lietuvos Respublikos muitų sieną ir neturinčios savininko arba kurių savininkas muitinio tikrinimo metu nežinomas, teismo sprendimu pereina valstybės nuosavybėn pagal muitinės pareiškimą.
 
@@ -42,4 +60,14 @@ Bešeimininkio turto išaiškinimo, apskaitos ir perdavimo valstybės arba saviv
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1360, 1996-06-04, Žin., 1996, Nr. 55-1295 (1996-06-12), i. k. 0961010ISTA00I-1360
+
+Lietuvos Respublikos muitinės kodekso įgyvendinimo įstatymas
 
