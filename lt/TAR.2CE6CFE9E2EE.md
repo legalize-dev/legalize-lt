@@ -4,7 +4,7 @@ identifier: "TAR.2CE6CFE9E2EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-29"
-last_updated: "2004-05-14"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2004-05-14 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2005-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
 
@@ -236,7 +236,11 @@ SEPTINTASIS SKIRSNIS
 
 2. Asmenims, kurie turi teisę gauti šio Įstatymo 2 straipsnio 5 dalyje nurodytą pensiją ir (ar) pensijų išmoką, kurios dydis (bendra visų paskirtų pensijų ir (ar) pensijų išmokų suma) lygus arba mažesnis už šalpos pensiją, šalpos našlaičių pensiją ar šalpos kompensaciją, pastarosios šalpos išmokos neskiriamos ir nemokamos tol, kol asmuo gauna pensiją ir (ar) pensijų išmoką.
 
-3. Šalpos išmokos skiriamos ir mokamos nepaisant to, ar jų gavėjai yra asmenys, išvardyti Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–8 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja Ūkininko ūkio įstatymas.
+3. Šalpos išmokos skiriamos ir mokamos nepaisant to, ar jų gavėjai yra asmenys, išvardyti Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–9 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja Ūkininko ūkio įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2375, 2004-07-15, Žin., 2004, Nr. 117-4373 (2004-07-29), i. k. 1041010ISTA0IX-2375
 
 4. Šalpos pensijos šio Įstatymo 5 straipsnio 4 punkte nurodytiems asmenims ir šalpos kompensacijos šio Įstatymo 15 straipsnio 2 punkte nurodytiems asmenims skiriamos ir mokamos tik tuo atveju, jeigu jų pagimdyti ir iki 8 metų išauginti vaikai nebuvo globojami (rūpinami) kūdikių namuose ar kitose globos, auklėjimo ar slaugos įstaigose ir jeigu įstatymų nustatyta tvarka motinai nebuvo apribota tėvų valdžia (atimtos motinystės ar vaikų auklėjimo teisės arba motinai tėvystės teisės nebuvo apribotos).
 
@@ -374,7 +378,11 @@ Sukakusiems 18 metų asmenims, kurie iki šio Įstatymo įsigaliojimo buvo pripa
 
 3. Jeigu įsigaliojus šiam Įstatymui vaikai invalidai iki 16 metų pripažįstami turinčiais lengvą negalią arba dėl invalidumo lygio nustatymo nesikreipta, šalpos pensija už invalidų slaugą namuose mokama tol, kol 16 metų neturinčiam vaikui invalidui bus nustatyta sunki ar vidutinė negalia ir jis įgis teisę gauti tikslinę kompensaciją slaugos išlaidoms arba kol jam sukaks 16 metų.
 
-4. Šiame straipsnyje nurodytos šalpos pensijos mokamos nepaisant šių pensijų gavėjų gaunamų jiems patiems priklausančių šalpos pensijų arba šalpos kompensacijų, taip pat nepaisant jų gaunamų pensijų ir (ar) pensijų išmokų (2 straipsnio 5 dalis) bei nepaisant to, ar jų gavėjai yra asmenys, nurodyti Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–8 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja Ūkininko ūkio įstatymas.
+4. Šiame straipsnyje nurodytos šalpos pensijos mokamos nepaisant šių pensijų gavėjų gaunamų jiems patiems priklausančių šalpos pensijų arba šalpos kompensacijų, taip pat nepaisant jų gaunamų pensijų ir (ar) pensijų išmokų (2 straipsnio 5 dalis) bei nepaisant to, ar jų gavėjai yra asmenys, nurodyti Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1-9 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja Ūkininko ūkio įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2375, 2004-07-15, Žin., 2004, Nr. 117-4373 (2004-07-29), i. k. 1041010ISTA0IX-2375
 
 5. Šalpos pensijos už invalidų slaugą namuose vienam iš tėvų (įtėvių), globėjui ar rūpintojui mokamos 2004 m. kovo mėnesio dydžio ir patvirtinus naują bazinės pensijos dydį nedidinamos.
 
@@ -382,7 +390,11 @@ Sukakusiems 18 metų asmenims, kurie iki šio Įstatymo įsigaliojimo buvo pripa
 
 1. Socialinės pensijos, paskirtos iki 1995 m. sausio 1 d. ir mokėtos iki šio Įstatymo įsigaliojimo, toliau mokamos tol, kol pasibaigia šių pensijų skyrimo ir mokėjimo terminas.
 
-2. Socialinės pensijos toliau mokamos nepaisant to, ar jų gavėjai gauna valstybines socialinio draudimo našlių pensijas ir (ar) šalpos pensijas už invalidų slaugą, taip pat nepaisant to, ar jie yra asmenys, nurodyti Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–8 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja Ūkininko ūkio įstatymas.
+2. Socialinės pensijos toliau mokamos nepaisant to, ar jų gavėjai gauna valstybines socialinio draudimo našlių pensijas ir (ar) šalpos pensijas už invalidų slaugą, taip pat nepaisant to, ar jie yra asmenys, nurodyti Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–9 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja Ūkininko ūkio įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2375, 2004-07-15, Žin., 2004, Nr. 117-4373 (2004-07-29), i. k. 1041010ISTA0IX-2375
 
 3. Socialinės pensijos indeksuojamos pagal naujai patvirtintos ir iki patvirtinimo buvusios bazinės pensijos dydžių santykį. Ši nuostata pradedama taikyti pirmą kartą po šio Įstatymo įsigaliojimo patvirtinus naują bazinės pensijos dydį.
 
@@ -449,4 +461,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2217, 2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14), i. k. 1041010ISTA0IX-2217
 
 Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo, Valstybinių šalpos išmokų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Valstybės paramos būstui įsigyti ar išsinuomoti įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2375, 2004-07-15, Žin., 2004, Nr. 117-4373 (2004-07-29), i. k. 1041010ISTA0IX-2375
+
+Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Valstybinių šalpos išmokų įstatymo pakeitimo įstatymas
 
