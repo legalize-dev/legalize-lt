@@ -4,7 +4,7 @@ identifier: "TAR.2CCC6F1CC7CE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "1994-12-31"
+last_updated: "1995-07-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CCC6F1CC7CE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
 
-Suvestinė redakcija nuo 1994-12-31 iki 1995-07-25
+Suvestinė redakcija nuo 1995-07-26 iki 2003-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 62-1169, i. k. 0931010ISTA000I-300
 
@@ -65,15 +65,11 @@ Nr. I-528, 1994-07-05, Žin. 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA00
 
 2) penktąją dalį laikyti šeštąja dalimi.
 
-7. Papildyti Lietuvos Respublikos valstybinės mokesčių inspekcijos įstatymą (Žin., 1990, Nr. 19-493):
+7. Neteko galios nuo 1995-07-26
 
-1) 3 straipsnį papildyti 6 punktu:
+Straipsnio dalies naikinimas:
 
-„6) tikrina, ar ūkiniai subjektai nepažeidžia paskolų sutartis reguliuojančių įstatymų.“;
-
-2) 5 straipsnį papildyti 4 punktu:
-
-„4) teikia pasiūlymus įmonių rejestro tvarkytojams už Lietuvos Respublikos įstatymų numatytus pažeidimus atšaukti įmonės įregistravimą įstatymų nustatyta tvarka.“
+Nr. I-975, 1995-06-28, Žin. 1995, Nr. 61-1526 (1995-07-26) ; Žin. 1996, Nr. 78-0 (1996-08-16), i. k. 0951010ISTA000I-975
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -96,4 +92,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-722, 1994-12-21, Žin., 1994, Nr. 102-2049 (1994-12-31), i. k. 0941010ISTA000I-722
 
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-975, 1995-06-28, Žin., 1995, Nr. 61-1526 (1995-07-26); Žin., 1996, Nr. 78-0 (1996-08-16), i. k. 0951010ISTA000I-975
+
+Dėl Lietuvos Respublikos mokesčių administravimo įstatymo įsigaliojimo
 
