@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2004-04-20"
+last_updated: "2004-04-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -4762,15 +4762,15 @@ papildomo mokesčio. Jei pacientai, turintys teisę į nemokamas asmens sveikato
 
 priežiūros paslaugas, savo iniciatyva pasirenka brangiau kainuojančias
 
-paslaugas, medžiagas, procedūras, tai šių paslaugų, medžiagų, procedūrų faktinių
+paslaugas, medžiagas, procedūras, tai šių paslaugų, medžiagų, procedūrų
 
-kainų ir nemokamų paslaugų, medžiagų, procedūrų bazinių kainų skirtumą jie
+faktinių kainų ir nemokamų paslaugų, medžiagų, procedūrų bazinių kainų skirtumą
 
-apmoka patys Sveikatos apsaugos ministerijos nustatyta tvarka. Jei pacientai,
+jie apmoka patys Sveikatos apsaugos ministerijos nustatyta tvarka. Jei
 
-turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas, savo
+pacientai, turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas,
 
-iniciatyva pasirenka papildomas paslaugas ar procedūras, šių paslaugų ar
+savo iniciatyva pasirenka papildomas paslaugas ar procedūras, šių paslaugų ar
 
 procedūrų kainą jie apmoka patys.
 
@@ -5344,11 +5344,11 @@ apmokėti reikalingų išlaidų padengimo;
 
 veiklos sutarties pakeitimo, papildymo ir nutraukimo tvarkos;
 
-4) paslaugų tinkamumo
+4) paslaugų
 
-ir organizacinio bei teritorinio prieinamumo reikalavimų, jeigu teisės aktuose
+tinkamumo ir organizacinio bei teritorinio prieinamumo reikalavimų, jeigu
 
-šie reikalavimai nėra nustatyti;
+teisės aktuose šie reikalavimai nėra nustatyti;
 
 5) netesybų dėl
 
@@ -7122,9 +7122,21 @@ farmacinės veiklos monitoringą (informacijos apie vaistus, jų gamybą, import
 
 prekybą, eksportą rinkimas, kaupimas, apdorojimas ir platinimas);
 
-5) vykdo
+5) išduoda leidimus klinikiniams vaistinio preparato
+
+tyrimams Lietuvos bioetikos komiteto pritarimu;
+
+6) vykdo
 
 įstatymų, tarnybos nuostatų nustatytas kitas funkcijas.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-2165,
+
+2004-04-22, Žin., 2004, Nr. 68-2372 (2004-04-29)
 
 73
 
@@ -7140,9 +7152,9 @@ valstybės biudžeto. Instituto nuostatus tvirtina Vyriausybė.
 
 medicinos institutas :
 
-1) atlieka teismo
+1) atlieka
 
-medicinos ekspertizes teismams;
+teismo medicinos ekspertizes teismams;
 
 2) diegia naujas
 
@@ -7558,13 +7570,13 @@ inspekcija prie Sveikatos apsaugos
 
 ministerijos
 
-1. Valstybinę medicininio
+1. Valstybinę
 
-audito inspekciją prie Sveikatos apsaugos ministerijos steigia ir jos veiklos
+medicininio audito inspekciją prie Sveikatos apsaugos ministerijos steigia ir
 
-nuostatus tvirtina Sveikatos apsaugos ministerija. Ši inspekcija yra juridinis
+jos veiklos nuostatus tvirtina Sveikatos apsaugos ministerija. Ši inspekcija
 
-asmuo. Jos veikla yra finansuojama iš valstybės biudžeto.
+yra juridinis asmuo. Jos veikla yra finansuojama iš valstybės biudžeto.
 
 2. Valstybinė
 
@@ -7604,15 +7616,19 @@ bioetikos komitetas :
 
 1) analizuoja
 
-bioetikos problemas ir konsultuoja valstybės bei vietos savivaldos institucijas,
+bioetikos problemas ir konsultuoja valstybės bei vietos savivaldos
 
-įstaigas, organizacijas šiais klausimais, teikia išvadas bei pasiūlymus dėl
+institucijas, įstaigas, organizacijas šiais klausimais, teikia išvadas bei
 
-bioetikos klausimus reglamentuojančių įstatymų ir kitų teisės aktų projektų;
+pasiūlymus dėl bioetikos klausimus reglamentuojančių įstatymų ir kitų teisės
 
-2) išduoda
+aktų projektų;
 
-leidimus biomedicininiams tyrimams ir atlieka etinę šių tyrimų priežiūrą;
+2) išduoda leidimus biomedicininiams tyrimams,
+
+išskyrus leidimus klinikiniams vaistinio preparato tyrimams, ir atlieka etinę
+
+biomedicininių tyrimų, kuriems išdavė leidimus, priežiūrą;
 
 3) kasmet
 
@@ -7647,6 +7663,12 @@ Straipsnio pakeitimai:
 Nr. VIII-1672, 00.05.11, Žin., 2000,
 
 Nr.44-1245 (00.05.31)
+
+Nr.
+
+IX-2165,
+
+2004-04-22, Žin., 2004, Nr. 68-2372 (2004-04-29)
 
 81
 
@@ -7838,11 +7860,11 @@ tvarka pasirinkti sveikatos priežiūros specialistą, sveikatos priežiūros
 
 numatytus atvejus;
 
-7) gauti valstybės
+7) gauti
 
-laiduojamą (nemokamą) ir savivaldybių remiamą sveikatos priežiūrą šio ir kitų
+valstybės laiduojamą (nemokamą) ir savivaldybių remiamą sveikatos priežiūrą šio
 
-įstatymų nustatyta tvarka.
+ir kitų įstatymų nustatyta tvarka.
 
 85
 
@@ -7874,7 +7896,9 @@ aplinkai;
 
 6) mokėti
 
-privalomojo sveikatos draudimo įmokas, kurias nustato Sveikatos draudimo įstatymas.
+privalomojo sveikatos draudimo įmokas, kurias nustato Sveikatos draudimo
+
+įstatymas.
 
 84 straipsnis.
 
@@ -8226,13 +8250,13 @@ atsakomybę dėl žalos, padarytos pacientų sveikatai vykdant asmens sveikatos
 
 priežiūrą.
 
-2. Asmens sveikatos
+2. Asmens
 
-priežiūros įmonių ir įstaigų civilinės atsakomybės dėl žalos, padarytos
+sveikatos priežiūros įmonių ir įstaigų civilinės atsakomybės dėl žalos,
 
-pacientų sveikatai, vykdant asmens sveikatos priežiūrą, draudimo tvarką
+padarytos pacientų sveikatai, vykdant asmens sveikatos priežiūrą, draudimo
 
-reglamentuoja Pacientų teisių ir žalos sveikatai atlyginimo, Draudimo
+tvarką reglamentuoja Pacientų teisių ir žalos sveikatai atlyginimo, Draudimo
 
 įstatymas, kiti įstatymai bei teisės aktai.
 
@@ -8424,11 +8448,11 @@ nelaimių neigiamas pasekmes visuomenės sveikatai.
 
 straipsnis. Sveikatos sistemos įstatymas ir tarptautinės sutartys
 
-Jeigu Lietuvos Respublikos
+Jeigu Lietuvos
 
-tarptautinėje sutartyje nustatyti kitokie reikalavimai nei nustato šis
+Respublikos tarptautinėje sutartyje nustatyti kitokie reikalavimai nei nustato
 
-įstatymas, taikomos tarptautinės sutarties nuostatos.
+šis įstatymas, taikomos tarptautinės sutarties nuostatos.
 
 Skelbiu šį
 
@@ -8437,6 +8461,32 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                        VALDAS
 
 ADAMKUS
+
+Lietuvos
+
+Respublikos
+
+1994
+
+m. liepos 19 d.
+
+įstatymo
+
+Nr. I-552
+
+priedas
+
+ĮGYVENDINAMAS
+
+EUROPOS SĄJUNGOS TEISĖS AKTAS
+
+2001 m.
+
+balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių
+
+narių įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos
+
+įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo.
 
 ________________
 
@@ -8512,9 +8562,9 @@ Nauja
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1462, 99.12.02, Žin., 1999, Nr.108-3128
+Nr. VIII-1462, 99.12.02, Žin., 1999,
 
-(99.12.22)
+Nr.108-3128 (99.12.22)
 
 SVEIKATOS SISTEMOS ĮSTATYMO PAPILDYMO 67(1) STRAIPSNIU
 
@@ -8687,6 +8737,24 @@ SISTEMOS ĮSTATYMO 50 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+
+18.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2165,
+
+2004-04-22, Žin., 2004, Nr. 68-2372 (2004-04-29)
+
+SVEIKATOS
+
+SISTEMOS ĮSTATYMO 72, 80 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO PRIEDU
+
+ĮSTATYMAS
 
 ***
 
