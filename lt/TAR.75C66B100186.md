@@ -4,7 +4,7 @@ identifier: "TAR.75C66B100186"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "1996-05-10"
+last_updated: "1996-12-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.75C66B100186"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 1996-05-10 iki 1996-12-03
+Suvestinė redakcija nuo 1996-12-04 iki 1997-09-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 191-0; Žin. 1992, Nr.29-843, i. k. 0921010ISTA00I-2880
 
@@ -171,6 +171,12 @@ Teismui iškėlus įmonės bankroto bylą:
 
 uždraudžiamas visų finansinių prievolių, įskaitant palūkanas ir mokesčius, mokėjimas, išieškojimas teismine ar ne ginčo tvarka, taip pat be atskiro teismo leidimo uždraudžiama dalinti ar kitaip skirstyti įmonės turtą, išskyrus einamuosius mokėjimus, reikalingus įmonės veiklos procesui bylos nagrinėjimo metu palaikyti.
 
+Jeigu įmonės, kuriai iškelta bankroto byla, turtas buvo areštuotas baudžiamojoje byloje, visi su šio turto areštu susiję dokumentai gali būti perduoti bankroto bylą nagrinėjančiam teismui ir apie tai pranešta areštuoto turto saugotojui. Klausimus, susijusius su šio turto areštu, sprendžia bankroto bylą nagrinėjantis teismas. Baudžiamojoje byloje paskirtam turto saugotojui išlieka visos su areštuoto turto apsauga susijusios teisės ir pareigos, iki bus panaikintas to turto areštas.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-1632, 1996-11-19, Žin., 1996, Nr. 116-2700 (1996-12-04), i. k. 0961010ISTA00I-1632
+
 7 straipsnis. Įmonės administratorius
 
 Administratorius – tai įmonės bankroto bylos nagrinėjimo laikotarpiui skiriamas įmonės valdytojas.
@@ -208,6 +214,12 @@ Straipsnio dalies pakeitimai:
 Nr. I-1325, 1996-05-02, Žin., 1996, Nr. 43-1045 (1996-05-10), i. k. 0961010ISTA00I-1325
 
 Teismas turi teisę iki bylos nagrinėjimo pabaigos priimti kreditorių ieškinius, kurie buvo pateikti pažeidus dėl svarbių priežasčių šio straipsnio pirmojoje dalyje nustatytą terminą.
+
+Tais atvejais, kai bankroto bylą nagrinėjančiam teismui perduodami kreditoriaus civiliniai ieškiniai Baudžiamojo proceso kodekso nustatyta tvarka, laikoma, kad šio straipsnio pirmojoje dalyje nustatyti terminai perduotiems ieškiniams nepraleisti. Šie kreditorių ieškiniai bankroto bylą nagrinėjančiam teismui gali būti perduodami tik iki bankroto bylos nagrinėjimo pabaigos.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-1632, 1996-11-19, Žin., 1996, Nr. 116-2700 (1996-12-04), i. k. 0961010ISTA00I-1632
 
 III SKIRSNIS
 
@@ -530,4 +542,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1325, 1996-05-02, Žin., 1996, Nr. 43-1045 (1996-05-10), i. k. 0961010ISTA00I-1325
 
 Lietuvos Respublikos įmonių bankroto įstatymo 9 ir 10 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1632, 1996-11-19, Žin., 1996, Nr. 116-2700 (1996-12-04), i. k. 0961010ISTA00I-1632
+
+Lietuvos Respublikos įmonių bankroto įstatymo 6 ir 9 straipsnių papildymo įstatymas
 
