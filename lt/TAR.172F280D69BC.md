@@ -4,7 +4,7 @@ identifier: "TAR.172F280D69BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-21"
-last_updated: "2000-03-21"
+last_updated: "2000-05-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.172F280D69BC"
 department: "Lietuvos Respublikos Seimas"
@@ -17,101 +17,21 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Redagavo:
-
-Aušrinė Trapinskienė (2000.04.13)
-
 Įstatymas
 
-paskelbtas: Žin., 1996, Nr.1-1
+skelbtas: Žin., 1996, Nr. 1-1
+
+Nauja
+
+įstatymo redakcija skelbta: Žin., 1999, Nr. 65-2087
+
+Nauja
+
+įstatymo redakcija skelbta: Žin., 2000, Nr. 45-1290
 
 Neoficialus
 
 įstatymo tekstas
-
-Pakeitimai:
-
-1.
-
-Nr.
-
-I-1189, 96.02.01, Žin., 1996, Nr.14-354
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 3, 5  IR 6 STRAIPSNIŲ PAKEITIMO
-
-IR PAPILDYMO ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-296, 97.06.24, Žin., 1997, Nr.66-1596 (97.07.11)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 3, 4 IR 6 STRAIPSNIŲ PAKEITIMO
-
-IR PAPILDYMO ĮSTATYMAS
-
-Įstatymas
-
-įsigalioja nuo 1998 m. sausio 1 d.
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-1004, 98.12.22, Žin., 1998, Nr.115-3247 (98.12.31)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-1300, 99.07.07, Žin., 1999, Nr.65-2087 (99.07.28)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Nauja
-
-įstatymo redakcija
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1582, 00.03.21, Žin., 2000, Nr.29-802
-
-(00.04.07)
-
-GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 2, 6, 14 STRAIPSNIŲ
-
-PAKEITIMO ĮSTATYMAS
-
-***
-
-Pabaiga ***
 
 LIETUVOS
 
@@ -131,15 +51,15 @@ Vilnius
 
 Nauja
 
-įstatymo redakcija:
+įstatymo redakcija nuo
 
-Nr.
+Centrinės kredito unijos įsteigimo:
 
-VIII-1300, 99.07.07, Žin., 1999, Nr.65-2087 (99.07.28)
+Nr. VIII-1684, 00.05.18, Žin., 2000,
 
-PIRMASIS
+Nr.45-1290 (00.06.02)
 
-SKIRSNIS
+PIRMASIS SKIRSNIS
 
 BENDROSIOS NUOSTATOS
 
@@ -151,41 +71,43 @@ BENDROSIOS NUOSTATOS
 
 paskirtis - nustatyti gyventojų indėlių, laikomų Lietuvos Respublikos įstatymų
 
-nustatyta tvarka įsteigtuose bankuose, veikiančiuose Lietuvos Respublikos
+nustatyta tvarka įsteigtuose bankuose ir kredito unijose, veikiančiuose
 
-teritorijoje, ir Lietuvos Respublikoje įsteigtuose užsienio bankų filialuose
+Lietuvos Respublikos teritorijoje, ir Lietuvos Respublikoje įsteigtuose
 
-(skyriuose), draudimo tvarką ir šių indėlių kompensavimą valstybės įmonės
+užsienio bankų filialuose (skyriuose), draudimo tvarką bei šių indėlių
 
-Indėlių draudimo fondo (toliau - Fondas) lėšomis.
+kompensavimą valstybės įmonės Indėlių draudimo fondo (toliau - Fondas) lėšomis.
 
 2 straipsnis.
 
 Pagrindinės šio įstatymo sąvokos
 
-1. Gyventojai -
+1. Gyventojai
 
-Lietuvos Respublikos piliečiai, kitų valstybių piliečiai ir asmenys be
+- Lietuvos Respublikos piliečiai, kitų valstybių piliečiai ir asmenys be
 
 pilietybės, laikantys indėlius Lietuvos Respublikos įstatymų nustatyta tvarka
 
-įsteigtuose bankuose, veikiančiuose Lietuvos Respublikos teritorijoje, ir
+įsteigtuose bankuose bei kredito unijose, veikiančiuose Lietuvos Respublikos
 
-Lietuvos Respublikoje įsteigtuose užsienio bankų filialuose (skyriuose).
+teritorijoje, ir Lietuvos Respublikoje įsteigtuose užsienio bankų filialuose
 
-2. Draudėjas -
+(skyriuose).
 
-Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtas bankas, veikiantis
+2. Draudėjas
 
-Lietuvos Respublikos teritorijoje, arba Lietuvos Respublikoje įsteigęs filialą
+- Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtas bankas ar kredito
 
-(skyrių) užsienio bankas, šio įstatymo nustatyta tvarka mokantis draudimo
+unija, veikiantys Lietuvos Respublikos teritorijoje, arba Lietuvos
 
-įmokas.
+Respublikoje įsteigęs filialą (skyrių) užsienio bankas, šio įstatymo nustatyta
 
-3. Draudimo išmoka - šiame įstatyme nustatyta draudiminio užtikrinimo
+tvarka mokantys draudimo įmokas.
 
-suma, į kurią gyventojas turi teisę draudiminio įvykio atveju.
+3. Draudimo išmoka - šiame įstatyme nustatyta draudiminio
+
+užtikrinimo suma, į kurią gyventojas turi teisę draudiminio įvykio atveju.
 
 4. Draudimo įmoka - draudėjo įmoka į Fondą, mokama šio įstatymo
 
@@ -195,39 +117,37 @@ nustatyta tvarka.
 
 įvykis - bankroto bylos iškėlimas draudėjui arba sprendimo dėl draudėjo
 
-bankinės veiklos nutraukimo priėmimas pagal užsienio valstybių įstatymus, kai
+bankinės ar kitos kreditinės veiklos nutraukimo priėmimas pagal užsienio
 
-draudėjas negali atsiskaityti su kreditoriais.
+valstybių įstatymus, kai draudėjas negali atsiskaityti su kreditoriais.
 
-6. Indėlis - gyventojui priklausanti pagal indėlio ir (arba) banko
+6. Indėlis
 
-sąskaitos sutartis draudėjo atidarytų sąskaitų teigiamų likučių ir (arba) kitų
+- gyventojui priklausanti pagal indėlio ir (arba) banko sąskaitos sutartis
 
-piniginių lėšų, į kurias gyventojas turi reikalavimo teises (išskyrus
+draudėjo atidarytų sąskaitų teigiamų likučių ir (arba) kitų piniginių lėšų, į
 
-reikalavimo teises pagal indėlio pasaugos sutartis), kylančias iš Lietuvos
+kurias gyventojas turi reikalavimo teises (išskyrus reikalavimo teises pagal
 
-Respublikos įstatymų nustatyta tvarka įsteigto banko, veikiančio Lietuvos
+indėlio pasaugos sutartis), kylančias iš Kredito unijų įstatymo nustatyta
 
-Respublikos teritorijoje, ir Lietuvos Respublikoje įsteigto užsienio banko
+tvarka įsteigtos kredito unijos, Lietuvos Respublikos įstatymų nustatyta tvarka
 
-filialo (skyriaus) atliekamų banko operacijų, suma. Tuo atveju, kai reikalavimo
+įsteigto banko, veikiančio Lietuvos Respublikos teritorijoje, ir Lietuvos
 
-teises į indėlį turi gyventojų grupė, indėlis padalijamas kiekvienam iš jų
+Respublikoje įsteigto užsienio banko filialo (skyriaus) atliekamų banko
 
-lygiomis dalimis, jeigu sutartyse, iš kurių kyla jų reikalavimo teisės,
+operacijų, suma. Tuo atveju, kai reikalavimo teises į indėlį turi gyventojų
 
-ar teismų sprendimuose nenustatyta ko kita.
+grupė, indėlis padalijamas kiekvienam iš jų lygiomis dalimis, jeigu sutartyse,
 
-7. Draudimo suma - draudžiamo indėlio
+iš kurių kyla jų reikalavimo teisės, ar teismų sprendimuose nenustatyta ko
 
-suma.
+kita.
 
-Straipsnio pakeitimai:
+7. Draudimo suma - draudžiamo
 
-Nr. VIII-1582, 00.03.21, Žin., 2000, Nr.29-802
-
-(00.04.07)
+indėlio suma.
 
 ANTRASIS SKIRSNIS
 
@@ -247,9 +167,9 @@ Valstijų doleriais, eurais ir Europos Sąjungos šalių nacionalinėmis valiuto
 
 1)
 
-Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtuose bankuose,
+Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtuose bankuose ir kredito
 
-veikiančiuose Lietuvos Respublikos teritorijoje;
+unijose, veikiančiuose Lietuvos Respublikos teritorijoje;
 
 2)
 
@@ -285,6 +205,26 @@ nuo 1999 m. sausio 1 d.;
 
 nuo 2001 m. sausio 1 d.
 
+4. Draudimo suma
+
+yra lygi indėlio likučiui litais ir (arba) užsienio valiuta, buvusiam kredito
+
+unijoje, nesančioje Centrinės kredito unijos nare draudiminio įvykio dieną,
+
+tačiau ji negali būti didesnė kaip 32 500 litų nuo Centrinės kredito unijos
+
+įsteigimo.
+
+5. Draudimo suma
+
+yra lygi indėlio likučiui litais ir (arba) užsienio valiuta, buvusiam kredito
+
+unijoje, esančioje Centrinės kredito unijos nare draudiminio įvykio dieną,
+
+tačiau ji negali būti didesnė kaip 45 500 litų nuo Centrinės kredito unijos
+
+įsteigimo.
+
 4 straipsnis.
 
 Draudimo išmoka
@@ -315,9 +255,9 @@ d) 90 procentų
 
 indėlio užsienio valiuta iki 5 000 litų draudimo sumos;
 
-e) 80 procentų indėlio užsienio valiuta nuo 5 000 iki 10 000 litų draudimo
+e) 80 procentų indėlio užsienio valiuta nuo 5 000 iki 10 000 litų
 
-sumos;
+draudimo sumos;
 
 f) 60 procentų
 
@@ -421,33 +361,35 @@ kurie teismo sprendimu pripažinti įgytais neteisėtu būdu;
 
 kuriuos reikalavimų teisės yra perleistos po draudiminio įvykio dienos;
 
-3) banko
+3) banko ir
 
-administracijos ir jo filialų (skyrių) vadovų, bankų tarybos ir valdybos narių
+kredito unijos administracijos ir jų filialų (skyrių) vadovų, bankų tarybos ir
 
-indėlius; asmenų, turinčių ne mažesnę kaip 5 procentų banko akcinio kapitalo
+valdybos narių, kredito unijų stebėtojų tarybos ir valdybos narių indėlius;
 
-dalį, indėlius; banko revizijų tarybos narių (revizorių) ir asmenų, atliekančių
+asmenų, turinčių ne mažesnę kaip 5 procentų banko akcinio kapitalo dalį,
 
-nepriklausomą banko auditą, indėlius; asmenų, kurie ne mažiau kaip 5 procentus
+indėlius; banko revizijų tarybos narių (revizorių), kredito unijos revizorių ir
 
-banko akcinio kapitalo turinčiose įmonėse turi daugiau kaip 50 procentų
+asmenų, atliekančių nepriklausomą banko ar kredito unijos auditą, indėlius;
 
-kapitalo dalį, indėlius; šiame punkte nurodytų asmenų vaikų (įvaikių),
+asmenų, kurie ne mažiau kaip 5 procentus banko akcinio kapitalo turinčiose
 
-sutuoktinių ir tėvų (įtėvių) indėlius;
+įmonėse turi daugiau kaip 50 procentų kapitalo dalį, indėlius; šiame punkte
 
-4) banko
+nurodytų asmenų vaikų (įvaikių), sutuoktinių ir tėvų (įtėvių) indėlius;
 
-paskolos gavėjo indėlius, jeigu jų dydis neviršija jo negrąžintų paskolų su
+4) banko ar
 
-palūkanomis dydžio. Jeigu banko paskolos gavėjo indėlis yra didesnis už šio
+kredito unijos paskolos gavėjo indėlius, jeigu jų dydis neviršija kiekvieno iš
 
-gavėjo negrąžintas paskolas kartu su palūkanomis, kompensuojamas indėlio ir
+jų negrąžintų paskolų su palūkanomis dydžio. Jeigu banko ar kredito unijos
 
-paskolų su palūkanomis skirtumas, bet ne didesnis negu nurodytas šio įstatymo 4
+paskolos gavėjo indėlis yra didesnis už kiekvieno iš šių gavėjų negrąžintas
 
-straipsnio 1 dalyje;
+paskolas kartu su palūkanomis, kompensuojamas indėlio ir paskolų su palūkanomis
+
+skirtumas, bet ne didesnis, negu nurodytas šio įstatymo 4 straipsnio 1 dalyje;
 
 5) anoniminėse
 
@@ -467,113 +409,137 @@ išmokų išmokėjimą.
 
 6 straipsnis. Draudimo įmoka
 
-1. Draudimo įmoka yra apskaičiuojama taikant 1 procento metinę draudimo
+1. Draudimo įmoka yra
 
-įmokos normą nuo gyventojų sąskaitose, atidarytose pagal banko sąskaitos ir
+apskaičiuojama:
 
-(arba) indėlio sutartis, esančių lėšų litais ir užsienio valiuta sumos, laikomos
+1) taikant 1 procento metinę
 
-Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtame banke, veikiančiame
+draudimo įmokos normą nuo gyventojų sąskaitose, atidarytose pagal banko
 
-Lietuvos Respublikos teritorijoje, ar Lietuvos Respub1ikoje įsteigtame užsienio
+sąskaitos ir (arba) indėlio sutartis, esančių lėšų litais ir užsienio valiuta
 
-banko filiale (skyriuje), kuriame laikomi indėliai nėra apdrausti arba kitaip
+sumos, laikomos Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtame banke,
 
-nėra užtikrintas jų saugumas pagal užsienio valstybės, kurios jurisdikcijai
+veikiančiame Lietuvos Respublikos teritorijoje, ar Lietuvos Respublikoje
 
-priklauso filialą (skyrių) įsteigęs bankas, teisės aktus. Draudimo įmoka turi
+įsteigtame užsienio banko filiale (skyriuje), kuriame laikomi indėliai nėra
 
-būti mokama į Fondo sąskaitą kiekvieną mėnesį. Draudimo įmokos apskaičiavimo,
+apdrausti arba kitaip nėra užtikrintas jų saugumas pagal užsienio valstybės,
 
-mokėjimo tvarką ir terminus nustato Fondo taryba. Įsteigti nauji Lietuvos
+kurios jurisdikcijai priklauso filialą (skyrių) įsteigęs bankas, teisės aktus;
 
-Respublikoje įregistruoti bankai ir šio straipsnio 3 ir 4 dalyse nustatytais
+2) taikant 0,5 procento metinę
 
-atvejais užsienio bankų filialai (skyriai), pradėję veiklą, pirmą (avansinę)
+draudimo įmokos normą nuo gyventojų sąskaitose, atidarytose pagal banko
 
-įmoką, kurios dydį ir mokėjimo tvarką nustato Fondo taryba, moka neatsižvelgdami
+sąskaitos ir (arba) indėlio sutartis, esančių lėšų litais ir užsienio valiuta
 
-į gyventojų sąskaitose, atidarytose pagal banko sąskaitos ir (arba) indėlio
+sumos, laikomos Kredito unijų įstatymo nustatyta tvarka įsteigtoje kredito
 
-sutartis, esančių lėšų litais ir užsienio valiuta sumą.
+unijoje, nesančioje Centrinės kredito unijos nare;
 
-2. Lietuvos Respublikos įstatymų nustatyta tvarka įsteigti bankai,
+3) taikant 0,1 procento metinę
 
-veikiantys Lietuvos Respublikos teritorijoje, išskyrus šio įstatymo 3
+draudimo įmokos normą nuo gyventojų sąskaitose, atidarytose pagal banko
 
-straipsnio 2 dalyje bei 24 straipsnyje nurodytus atvejus, privalo apdrausti
+sąskaitos ir (arba) indėlio sutartis, esančių lėšų litais ir užsienio valiuta
 
-Fonde gyventojų indėlius ir mokėti šio straipsnio 1 dalyje nurodytas draudimo
+sumos, laikomos Kredito unijų įstatymo nustatyta tvarka įsteigtoje kredito
 
-įmokas.
+unijoje, esančioje Centrinės kredito unijos nare.
 
-3. Užsienio bankas privalo Fonde apdrausti Lietuvos Respublikoje įsteigtame
+2. Draudimo įmoka turi būti
 
-šio užsienio banko filiale (skyriuje) laikomus gyventojų indėlius ir mokėti šio
+mokama į Fondo sąskaitą kiekvieną mėnesį. Draudimo įmokos apskaičiavimo, mokėjimo
 
-straipsnio 1 dalyje nurodytas draudimo įmokas, jeigu šiame filiale (skyriuje)
+tvarką ir terminus nustato Fondo taryba. Įsteigti nauji Lietuvos Respublikoje
 
-laikomi indėliai nėra apdrausti arba kitaip nėra užtikrintas jų saugumas pagal
+įregistruoti bankai, šio straipsnio 3 ir 4 dalyse nustatytais atvejais užsienio
 
-užsienio valstybės, kurios jurisdikcijai priklauso filialą (skyrių) įsteigęs
+bankų filialai (skyriai) ir kredito unijos, pradėję veiklą, pirmą (avansinę)
 
-bankas, teisės aktus.
+įmoką, kurios dydį ir mokėjimo tvarką nustato Fondo taryba, moka
 
-4. Jeigu Lietuvos Respublikoje įsteigtame
+neatsižvelgdami į gyventojų sąskaitose, atidarytose pagal banko sąskaitos ir
 
-užsienio banko filiale (skyriuje) laikomi indėliai yra apdrausti arba kitaip
+(arba) indėlio sutartis, esančių lėšų litais ir užsienio valiuta sumą.
 
-užtikrintas jų saugumas pagal užsienio valstybės teisės aktus, tačiau Fondo
+3. Lietuvos Respublikos įstatymų
 
-taryba nustato, kad šios indėlių draudimo (saugumo užtikrinimo) sąlygos yra
+nustatyta tvarka įsteigti bankai bei kredito unijos, veikiantys Lietuvos
 
-blogesnės, negu nustatyta šiame įstatyme, tai užsienio bankas privalo Fondo
+Respublikos teritorijoje, išskyrus šio įstatymo 3 straipsnio 2 dalyje bei 24
 
-tarybos nustatyta tvarka papildomai apdrausti Lietuvos Respublikoje įsteigtame
+straipsnyje nurodytus atvejus, privalo apdrausti Fonde gyventojų indėlius ir
 
-užsienio banko filiale (skyriuje) laikomus gyventojų indėlius. Šiuo atveju nuo
+mokėti šio straipsnio 1 dalyje nurodytas draudimo įmokas.
 
-papildomai draudžiamos sumos draudimo įmoka apskaičiuojama taikant 1 procento
+4. Užsienio bankas privalo Fonde
 
-metinę draudimo įmokos normą ir mokama į Fondo sąskaitą kiekvieną mėnesį.
+apdrausti Lietuvos Respublikoje įsteigtame šio užsienio banko filiale
 
-5. Jeigu draudėjas per Fondo tarybos nustatytą laiką nesumokėjo
+(skyriuje) laikomus gyventojų indėlius ir mokėti šio straipsnio 1 dalyje
 
-draudimo įmokos ar jos dalies į Fondo sąskaitą, už kiekvieną pavėluotą dieną
+nurodytas draudimo įmokas, jeigu šiame filiale (skyriuje) laikomi indėliai nėra
 
-skaičiuojami  delspinigiai nuo nustatytu laiku nesumokėtos draudimo įmokos
+apdrausti arba kitaip nėra užtikrintas jų saugumas pagal užsienio valstybės,
 
-sumos. Delspinigių dydis apskaičiuojamas vadovaujantis Lietuvos Respublikos
+kurios jurisdikcijai priklauso filialą (skyrių) įsteigęs bankas, teisės aktus.
 
-mokesčių administravimo įstatymo 39 straipsnio 3 dalies nuostatomis.
+5. Jeigu Lietuvos Respublikoje
 
-Straipsnio pakeitimai:
+įsteigtame užsienio banko filiale (skyriuje) laikomi indėliai yra apdrausti
 
-Nr. VIII-1582, 00.03.21, Žin., 2000, Nr.29-802
+arba kitaip užtikrintas jų saugumas pagal užsienio valstybės teisės aktus,
 
-(00.04.07)
+tačiau Fondo taryba nustato, kad šios indėlių draudimo (saugumo užtikrinimo)
+
+sąlygos yra blogesnės, negu nustatyta šiame įstatyme, tai užsienio bankas
+
+privalo Fondo tarybos nustatyta tvarka papildomai apdrausti Lietuvos
+
+Respublikoje įsteigtame užsienio banko filiale (skyriuje) laikomus gyventojų
+
+indėlius. Šiuo atveju nuo papildomai draudžiamos sumos draudimo įmoka
+
+apskaičiuojama taikant 1 procento metinę draudimo įmokos normą ir mokama į
+
+Fondo sąskaitą kiekvieną mėnesį.
+
+6. Jeigu draudėjas per Fondo
+
+tarybos nustatytą laiką nesumokėjo draudimo įmokos ar jos dalies į Fondo
+
+sąskaitą, už kiekvieną pavėluotą dieną skaičiuojami delspinigiai nuo nustatytu
+
+laiku nesumokėtos draudimo įmokos sumos. Delspinigių dydis apskaičiuojamas
+
+vadovaujantis Lietuvos Respublikos mokesčių administravimo įstatymo 39
+
+straipsnio 3 dalies nuostatomis.
 
 7 straipsnis. Draudimo nutraukimas
 
-1. Jeigu
+1. Jeigu Lietuvos bankas laikinai ar visam laikui atšaukia draudėjui
 
-Lietuvos bankas laikinai ar visam laikui atšaukia draudėjui leidimą atlikti
+leidimą atlikti vieną ar visas operacijas, sustabdo banko tarybos ar kredito
 
-vieną ar visas operacijas, sustabdo banko tarybos įgaliojimus, nušalina banko
+unijos stebėtojų tarybos įgaliojimus, nušalina banko ar kredito unijos valdybą,
 
-valdybą, administracijos vadovą ir paskiria banko laikinąjį administratorių,
+administracijos vadovą ir paskiria banko ar kredito unijos laikinąjį
 
-apriboja disponavimą draudėjo sąskaitomis, esančiomis Lietuvos banke, arba
+administratorių, apriboja disponavimą draudėjo sąskaitomis, esančiomis Lietuvos
 
-atitinkamas priemones užsienio bankui pritaiko užsienio valstybės, kurios
+banke, arba atitinkamas priemones užsienio bankui pritaiko užsienio valstybės,
 
-jurisdikcijai priklauso filialą (skyrių) Lietuvos Respublikoje įsteigęs bankas,
+kurios jurisdikcijai priklauso filialą (skyrių) Lietuvos Respublikoje įsteigęs
 
-bankų priežiūros institucija, ir kai draudėjo rizikinga veikla kelia pavojų
+bankas, bankų priežiūros institucija, ir jei draudėjo rizikinga veikla kelia
 
-Fondo likvidumui, Fondo taryba turi teisę nutraukti draudėjo naujai priimamų
+pavojų Fondo likvidumui, Fondo taryba turi teisę nutraukti draudėjo naujai
 
-indėlių draudimą.
+priimamų indėlių draudimą.
 
 2. Fondas
 
@@ -583,13 +549,15 @@ mėnesių. Jei per šį laikotarpį draudėjas nepašalina pažeidimų, Fondo ta
 
 sprendimu nutraukiamas draudėjo priimamų indėlių draudimas. Apie indėlių
 
-draudimo nutraukimą Fondas paskelbia „Valstybės žinių“ priede. Jeigu draudėjas,
+draudimo nutraukimą Fondas paskelbia „Valstybės žinių“ priede „Informaciniai
 
-kuriam nutraukiamas indėlių draudimas, bankrutuoja, Fondas išmoka draudimo
+pranešimai“. Jeigu draudėjas, kuriam nutraukiamas indėlių draudimas, bankrutuoja,
 
-išmokas tiems gyventojams, kurių indėliai buvo laikomi pas draudėją iki
+Fondas išmoka draudimo išmokas tiems gyventojams, kurių indėliai buvo laikomi
 
-sprendimo apie draudimo nutraukimą paskelbimo „Valstybės žinių“ priede.
+pas draudėją iki sprendimo apie draudimo nutraukimą paskelbimo „Valstybės
+
+žinių“ priede „Informaciniai pranešimai“.
 
 TREČIASIS SKIRSNIS
 
@@ -605,7 +573,7 @@ Lietuvos Respublikoje įregistruota valstybės įmonė, turinti juridinio asmens
 
 teises, savarankišką balansą ir sąskaitą Lietuvos banke, antspaudą su Lietuvos
 
-valstybės herbu ir pavadinimu Valstybės įmonė Indėlių draudimo fondas.
+valstybės herbu ir pavadinimu „Valstybės įmonė Indėlių draudimo fondas“.
 
 2. Fondą steigia
 
@@ -619,15 +587,15 @@ steigėjo funkcijas. Fondas registruojamas Lietuvos Respublikos įmonių rejestr
 
 veikloje vadovaujasi šiuo įstatymu, Lietuvos Respublikos valstybės ir
 
-savivaldybės įmonių įstatymu ir kitais teisės aktais, jei šis įstatymas nenustato
+savivaldybės įmonių įstatymu ir kitais teisės aktais, jei šis įstatymas
 
-ko kita, taip pat savo įstatais.
+nenustato ko kita, taip pat savo įstatais.
 
 4. Fondas
 
-neatsako už valstybės prievoles. Valstybė atsako tik už šiame įstatyme
+neatsako už valstybės prievoles. Valstybė atsako tik už šio įstatymo nustatytas
 
-nustatytas draudimines Fondo prievoles.
+draudimines Fondo prievoles.
 
 9 straipsnis.
 
@@ -713,23 +681,23 @@ draudimo įmokų apskaičiavimo ir mokėjimo teisingumą;
 
 6) gauti iš
 
-draudėjo ir Lietuvos banko informaciją, reikalingą Fondo funkcijoms atlikti;
+draudėjo, Lietuvos banko ir Centrinės kredito unijos informaciją, reikalingą
+
+Fondo funkcijoms atlikti;
 
 7) Fondo
 
 įsipareigojimams vykdyti imti paskolas su valstybės garantija;
 
-8) gauti
+8) gauti likviduojamo banko ar kredito unijos, kuriuose gyventojų
 
-likviduojamo banko, kuriame gyventojų indėliai buvo apdrausti pagal šį
-
-įstatymą, turto dalį;
+indėliai buvo apdrausti pagal šį įstatymą, turto dalį;
 
 9) ne ginčo
 
 tvarka išieškoti iš draudėjo laiku nesumokėtas įmokas;
 
-10) užsiimti kita
+10) verstis kita
 
 Fondo įstatuose numatyta veikla.
 
@@ -747,17 +715,15 @@ Fondo taryba
 
 sudaroma iš 6 narių, kuriuos skiria Lietuvos Respublikos Vyriausybė. Finansų
 
-ministerija ir Lietuvos bankas teikia po du kandidatus, o Seimo Biudžeto ir
+ministerija teikia du kandidatus, o Lietuvos bankas, Seimo Biudžeto ir finansų
 
-finansų komitetas bei Lietuvos bankų asociacija - po vieną kandidatą. Taryba
+komitetas, Lietuvos bankų asociacija bei Centrinė kredito unija - po
 
-sudaroma ne ilgesniam kaip 4 metų laikotarpiui. Tarybos sudėtis atnaujinama kas
+vieną kandidatą. Taryba sudaroma ne ilgesniam kaip 4 metų laikotarpiui. Tarybos
 
-2 metai pakeičiant ne mažiau kaip 2 narius.
+sudėtis atnaujinama kas 2 metai pakeičiant ne mažiau kaip 2 narius.
 
-2. Tarybos
-
-nariais gali būti tik Lietuvos Respublikos piliečiai.
+2. Tarybos nariais gali būti tik Lietuvos Respublikos piliečiai.
 
 3. Fondo tarybai
 
@@ -767,9 +733,9 @@ Fondo tarybos narių.
 
 4. Fondo taryba:
 
-1) skiria pareigoms ir atleidžia iš jų Fondo administracijos vadovą ir
+1) skiria ir atleidžia Fondo administracijos vadovą ir vyriausiąjį
 
-vyriausiąjį finansininką;
+finansininką;
 
 2) teikia pasiūlymus Lietuvos Respublikos Vyriausybei dėl Fondo įstatų
 
@@ -797,11 +763,11 @@ metinę Fondo ataskaitą;
 
 8) tvirtina
 
-išlaidų, nesusijusių su draudimo išmokų išmokėjimu, sąmatą;
+išlaidų, nesusijusių su draudimo išmokų mokėjimu, sąmatą;
 
 9) nustato
 
-gyventojų pretenzijų dėl draudimo išmokos išmokėjimo patenkinimo tvarką;
+gyventojų pretenzijų dėl draudimo išmokos mokėjimo patenkinimo tvarką;
 
 10) nustato, kas
 
@@ -809,7 +775,7 @@ yra Fondo komercinė paslaptis;
 
 11) nagrinėja
 
-gyventojų pareiškimus dėl administracijos veiksmų;
+gyventojų ir draudėjo pareiškimus dėl Fondo administracijos veiksmų;
 
 12)
 
@@ -817,39 +783,35 @@ nustato užsienio banko Lietuvos Respublikoje įsteigtame filiale (skyriuje)
 
 laikomų indėlių papildomo draudimo tvarką;
 
-13) tvirtina
+13) tvirtina Fondo administracijos ir darbuotojų darbo apmokėjimo bei
 
-Fondo administracijos ir darbuotojų darbo apmokėjimo bei skatinimo tvarką;
+skatinimo tvarką;
 
 14) nustato
 
 Fondo administracijos vadovo, jo pavaduotojo ir vyriausiojo finansininko
 
-atlyginimus;
+atlyginimus, vadovaudamasis Valstybės tarnybos įstatyme apibrėžtais
+
+atlyginimų nustatymo principais bei dydžiais;
 
 15) paskirsto
 
 Fondo pelną;
 
-16) atlieka
+16) atlieka kitas
 
-kitas funkcijas, nustatytas šiame ir kituose Lietuvos Respublikos įstatymuose,
+funkcijas, nustatytas šiame ir kituose Lietuvos Respublikos įstatymuose, taip
 
-taip pat kituose teisės aktuose bei Fondo įstatuose.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1582, 00.03.21, Žin., 2000, Nr.29-802
-
-(00.04.07)
+pat kituose teisės aktuose bei Fondo įstatuose.
 
 15 straipsnis.
 
 Fondo administracija
 
-1. Administracija
+1.
 
-valdo Fondą jo įstatuose nustatyta tvarka.
+Administracija valdo Fondą jo įstatuose nustatyta tvarka.
 
 2.
 
@@ -883,11 +845,11 @@ Fondo komercinių paslapčių saugojimas
 
 laikoma Fondo komercine paslaptimi, gali būti teikiama tik įstatymų nustatytoms
 
-institucijoms ir įstatymų nustatyta tvarka. Kitų valstybių atitinkamoms
+institucijoms ir įstatymų nustatyta tvarka. Kitų valstybių atitinkamoms institucijoms
 
-institucijoms Fondo komercinė paslaptis gali būti atskleista tik tada, jei
+Fondo komercinė paslaptis gali būti atskleista tik tada, jei tokios
 
-tokios informacijos slaptumą garantuoja tų valstybių įstatymai.
+informacijos slaptumą garantuoja tų valstybių įstatymai.
 
 2. Už
 
@@ -917,9 +879,9 @@ kapitalą sudaro įstatinis ir atsargos kapitalas.
 
 5. Jeigu Fondo
 
-turtas tampa mažesnis už jo įsipareigojimus, lėšos jam padidinti iki Fondo
+turtas pasidaro mažesnis už jo įsipareigojimus, lėšų jam padidinti iki Fondo
 
-įstatinio kapitalo dydžio numatomos valstybės biudžete.
+įstatinio kapitalo dydžio numatoma valstybės biudžete.
 
 6. Atsargos
 
@@ -945,7 +907,7 @@ Fondo lėšų investavimo;
 
 4) lėšos,
 
-įstatymų nustatyta tvarka išieškotos iš likviduojamo banko;
+įstatymų nustatyta tvarka išieškotos iš likviduojamo banko ar kredito unijos;
 
 5) lėšos, gautos
 
@@ -1005,7 +967,7 @@ nuostoliams ir įsiskolinimams padengti;
 
 3. Finansiniai
 
-metai prasideda sausio 1 d. ir baigiasi gruodžio 31 d.
+metai prasideda sausio 1 dieną ir baigiasi gruodžio 31 dieną.
 
 21 straipsnis.
 
@@ -1013,9 +975,13 @@ Fondo lėšų investavimas
 
 Fondo lėšos gali
 
-būti investuojamos tik į Lietuvos Respublikos Vyriausybės bei kitų valstybių
+būti investuojamos tik į Lietuvos Respublikos Vyriausybės vertybinius
 
-vyriausybių vertybinius popierius.
+popierius, Lietuvos banko vertybinius popierius bei užsienio valstybių,
+
+turinčių aukščiausio lygio reitingą (A grupės šalys), vyriausybių vertybinius
+
+popierius.
 
 22 straipsnis.
 
@@ -1029,29 +995,25 @@ vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos.
 
 23 straipsnis.
 
-Fondo atleidimas nuo mokesčių
+Fondo atleidimas nuo palūkanų už kapitalo naudojimą
 
-Fondas
+Fondas atleidžiamas nuo palūkanų už kapitalo naudojimą mokėjimo į
 
-atleidžiamas nuo juridinių asmenų pelno mokesčio bei palūkanų už kapitalo
+valstybės biudžetą.
 
-naudojimą mokėjimo į valstybės biudžetą.
-
-KETVIRTASIS
-
-SKIRSNIS
+KETVIRTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
 
-24
+24 straipsnis.
 
-straipsnis. Veikiančių bankų dalyvavimas šiame įstatyme reglamentuojamoje
+Veikiančių bankų bei kredito unijų dalyvavimas šio įstatymo nustatytoje
 
 draudimo sistemoje
 
-1. Šiame
+1. Šio įstatymo
 
-įstatyme reglamentuojamoje indėlių draudimo sistemoje nedalyvauja:
+nustatytoje indėlių draudimo sistemoje nedalyvauja:
 
 1) bankai, kurie
 
@@ -1063,71 +1025,151 @@ kuriems šio įstatymo įsigaliojimo metu buvo pritaikyta viena iš Lietuvos
 
 Respublikos komercinių bankų įstatymo 37 straipsnio 1 dalies 3, 7, 8 ir 9
 
-punktuose numatytų poveikio priemonių arba iškelta bankroto byla.
+punktuose numatytų poveikio priemonių arba iškelta bankroto byla;
 
-2. Fondo taryba
+3)
 
-gali leisti dalyvauti indėlių draudimo sistemoje bankui, kuriam pritaikyta
+kredito unijos, kurioms šio įstatymo įsigaliojimo metu buvo pritaikyta viena iš
 
-Lietuvos Respublikos komercinių bankų įstatymo 37 straipsnio 1 dalies 3 punkte
+Lietuvos Respublikos kredito unijų įstatymo 47 straipsnio 1 dalies 4, 5 ir 6
 
-nurodyta poveikio priemonė, atsižvelgdama į banko finansinę būklę ar jo veiklos
+punktuose numatytų sankcijų arba iškelta bankroto byla.
 
-pažeidimo pobūdį.
+2. Fondo taryba gali leisti dalyvauti indėlių draudimo sistemoje
+
+bankui, kuriam pritaikyta Lietuvos Respublikos komercinių bankų įstatymo 37
+
+straipsnio 1 dalies 3 punkte nurodyta poveikio priemonė, arba kredito unijai,
+
+kuriai pritaikyta Lietuvos Respublikos kredito unijų įstatymo 47 straipsnio 1
+
+dalies 3 punkte nurodyta sankcija, atsižvelgdama į banko ar kredito unijos
+
+finansinę būklę bei jų veiklos pažeidimo pobūdį.
 
 3. Lietuvos bankui atšaukus šiame straipsnyje nustatytų poveikio
 
-priemonių taikymą, bankai privalo šio įstatymo nustatyta tvarka drausti
-
-gyventojų indėlius.
-
-Skelbiu šį Lietuvos Respublikos Seimo
-
-priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                                                           VALDAS ADAMKUS
-
-24 straipsnis. Veikiančių
-
-bankų dalyvavimas šiame įstatyme reglamentuojamoje draudimo sistemoje
-
-1. Šiame įstatyme reglamentuojamoje indėlių
-
-draudimo sistemoje nedalyvauja:
-
-1) bankai, kurie nepriima indėlių iš
-
-gyventojų;
-
-2) bankai, kuriems šio įstatymo įsigaliojimo
-
-metu buvo pritaikyta viena iš Lietuvos Respublikos komercinių bankų įstatymo 37
-
-straipsnio 1 dalies 3, 7, 8 ir 9 punktuose numatytų poveikio priemonių arba
-
-iškelta bankroto byla.
-
-2. Fondo taryba gali leisti dalyvauti indėlių
-
-draudimo sistemoje bankui, kuriam pritaikyta Lietuvos Respublikos komercinių
-
-bankų įstatymo 37 straipsnio 1 dalies 3 punkte nurodyta poveikio priemonė, atsižvelgdama
-
-į banko finansinę būklę ar jo veiklos pažeidimo pobūdį.
-
-3. Lietuvos bankui atšaukus šiame straipsnyje
-
-nustatytų poveikio priemonių taikymą, bankai privalo šio įstatymo nustatyta
+priemonių taikymą, bankai ir kredito unijos privalo šio įstatymo nustatyta
 
 tvarka drausti gyventojų indėlius.
 
-Skelbiu
+Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
+įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                    VALDAS ADAMKUS
+RESPUBLIKOS
+
+PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+
+____________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+I-1189,
+
+96.02.01, Žin., 1996, Nr.14-354
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 3, 5  IR 6 STRAIPSNIŲ PAKEITIMO
+
+IR PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-296,
+
+97.06.24, Žin., 1997, Nr.66-1596 (97.07.11)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 3, 4 IR 6 STRAIPSNIŲ PAKEITIMO
+
+IR PAPILDYMO ĮSTATYMAS
+
+Įstatymas
+
+įsigalioja nuo 1998 m. sausio 1 d.
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1004,
+
+98.12.22, Žin., 1998, Nr.115-3247 (98.12.31)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1300,
+
+99.07.07, Žin., 1999, Nr.65-2087 (99.07.28)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja
+
+įstatymo redakcija
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1582, 00.03.21, Žin., 2000,
+
+Nr.29-802 (00.04.07)
+
+GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 2, 6, 14 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1684, 00.05.18, Žin., 2000,
+
+Nr.45-1290 (00.06.02)
+
+GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija
+
+Šis
+
+įstatymas įsigalioja nuo Centrinės kredito unijos įsteigimo.
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2000.06.05)
 
 25 straipsnis.
 
