@@ -4,7 +4,7 @@ identifier: "TAR.07CAE5E6C2B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-26"
-last_updated: "2003-07-25"
+last_updated: "2003-12-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2003-07-25 iki 2003-12-11
+Suvestinė redakcija nuo 2003-12-12 iki 2004-08-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
 
@@ -54,7 +54,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. IX-1704, 2003-07-04, Žin., 2003, Nr. 74-3422 (2003-07-25), i. k. 1031010ISTA0IX-1704
 
-2) prie valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų pastatų, gyvenamųjų namų – Vasario 16-ąją, o prie valstybės ir savivaldybių institucijų bei įstaigų – ir kitomis dienomis Lietuvos Respublikos Vyriausybės nutarimu;
+2) prie valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų pastatų, gyvenamųjų namų – vasario 16-ąją ir kovo 11-ąją, o prie valstybės ir savivaldybių institucijų bei įstaigų – ir kitomis dienomis Lietuvos Respublikos Vyriausybės nutarimu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1845, 2003-11-25, Žin., 2003, Nr. 116-5251 (2003-12-12), i. k. 1031010ISTA0IX-1845
 
 3) prie Lietuvos Respublikos diplomatinių, prekybinių atstovybių, konsulinių įstaigų pastatų – pagal diplomatinio protokolo reikalavimus;
 
@@ -88,11 +92,15 @@ Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA
 
 Miestų arba apskričių istorinių ar naujo pavyzdžio vėliavų tvirtinimo ir naudojimo tvarką nustato įstatymai.
 
-Vasario 16-ąją – Lietuvos valstybės atkūrimo dieną, taip pat vasario 24-ąją – Estijos Nepriklausomybės dieną ir lapkričio 18-ąją – Latvijos Nepriklausomybės paskelbimo dieną prie Lietuvos Respublikos Seimo kartu su Lietuvos valstybės vėliava iškeliamos Latvijos ir Estijos valstybių vėliavos.
+Vasario 16-ąją – Lietuvos valstybės atkūrimo dieną, kovo 11-ąją – Lietuvos nepriklausomybės atkūrimo dieną, taip pat vasario 24-ąją – Estijos Nepriklausomybės dieną ir lapkričio 18-ąją – Latvijos Nepriklausomybės paskelbimo dieną prie Lietuvos Respublikos Seimo kartu su Lietuvos valstybės vėliava iškeliamos Latvijos ir Estijos valstybių vėliavos.
 
 Papildyta straipsnio dalimi:
 
 Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1845, 2003-11-25, Žin., 2003, Nr. 116-5251 (2003-12-12), i. k. 1031010ISTA0IX-1845
 
 Kitais atvejais užsienio valstybių vėliavos prie Lietuvos Respublikos valstybės ir savivaldybių institucijų bei įstaigų, taip pat kitų pastatų gali būti iškeliamos tik oficialių vizitų, oficialių ceremonijų ir tarptautinių renginių metu diplomatinio protokolo bei tarptautinių dokumentų nustatyta tvarka.
 
@@ -243,4 +251,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1704, 2003-07-04, Žin., 2003, Nr. 74-3422 (2003-07-25), i. k. 1031010ISTA0IX-1704
 
 Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 straipsnio papildymo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1845, 2003-11-25, Žin., 2003, Nr. 116-5251 (2003-12-12), i. k. 1031010ISTA0IX-1845
+
+Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 ir 5 straipsnių pakeitimo įstatymas
 
