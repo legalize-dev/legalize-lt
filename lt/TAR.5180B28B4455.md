@@ -4,7 +4,7 @@ identifier: "TAR.5180B28B4455"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-15"
-last_updated: "2000-07-13"
+last_updated: "2001-05-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455"
 department: "Lietuvos Respublikos Seimas"
@@ -215,13 +215,21 @@ RESPUBLIKOS
 
 PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS
 
-Lietuvos Respublikos
+Lietuvos
 
-1995 m. vasario 15 d.
+Respublikos
 
-įstatymo Nr.I-794
+1995
 
-1 priedėlis
+m. vasario 15 d.
+
+įstatymo
+
+Nr.I-794
+
+1
+
+priedėlis
 
 Veiklos sričių, kuriose gali būti specialios
 
@@ -669,9 +677,9 @@ Gydymas gyvulių, sergančių ypač pavojingomis ligomis
 
 Socialinės paslaugos
 
-Kanalizacija ir atliekų pašalinimas, sanitarinis apdorojimas
+Kanalizacija ir atliekų pašalinimas, sanitarinis
 
-ir kitos paslaugos
+apdorojimas ir kitos paslaugos
 
 900001
 
@@ -753,17 +761,27 @@ Nr. I-1091,
 
 95.11.09, Žin., 1995, Nr.94-2088 (95.11.17)
 
-Lietuvos Respublikos
+Lietuvos
 
-1995 m. vasario 15 d.
+Respublikos
 
-įstatymo Nr.I-794
+1995
 
-2 priedėlis
+m. vasario 15 d.
 
-Valstybinių įmonių, kurios iki 2000 metų
+įstatymo
 
-turi būti specialios paskirties bendrovės,
+Nr.I-794
+
+2
+
+priedėlis
+
+Valstybinių įmonių,
+
+kurios iki 2000 metų turi būti specialios paskirties
+
+bendrovės,
 
 s ą r a š a s
 
@@ -771,13 +789,9 @@ _______________________________________________________________________________
 
 Įmonės
 
-kodas                                       Pavadinimas
+kodas                                                   Pavadinimas
 
 _______________________________________________________________________________
-
-1005384
-
-Valstybinė įmonė "Lietuvos geležinkeliai"
 
 2005728
 
@@ -969,6 +983,10 @@ Nr. VIII-1365, 99.10.19, Žin., 1999,
 
 Nr.90-2641 (99.10.27)
 
+Nr. IX-313, 2001 05 08, Žin., 2001, Nr.
+
+43-1493 (2001 05 23)
+
 ______________
 
 Pakeitimai:
@@ -1089,7 +1107,23 @@ Nr.64-1916 (00.07.31)
 
 PAKEITIMO ĮSTATYMAS
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-313, 2001 05 08, Žin., 2001, Nr.
+
+43-1493 (2001 05 23)
+
+ĮSTATYMO „DĖL SPECIALIOS
+
+PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“ PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.08.22)
+Redagavo: Aušrinė
+
+Trapinskienė (2001 05 23)
+
+autrap@lrs.lt
 
