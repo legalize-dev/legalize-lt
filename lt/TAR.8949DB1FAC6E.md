@@ -4,7 +4,7 @@ identifier: "TAR.8949DB1FAC6E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1989-11-03"
-last_updated: "1994-06-22"
+last_updated: "1994-07-27"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8949DB1FAC6E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 1994-06-22 iki 1994-07-26
+Suvestinė redakcija nuo 1994-07-27 iki 1994-08-02
 
 Įstatymas paskelbtas: Žin. 1989, Nr. 33-445, i. k. 0891010ISTA0XI-3335
 
@@ -30,6 +30,12 @@ I. BENDRIEJI NUOSTATAI
 1 straipsnis. Referendumo pagrindai
 
 Pagal Lietuvos Respublikos Konstituciją svarbiausi Valstybės bei Tautos gyvenimo klausimai sprendžiami, taip pat Lietuvos Respublikos įstatymų nuostatos gali būti priimamos referendumu. Įstatymų nuostatos ekonominiais klausimais gali būti priimamos referendumu tik atlikus ekonominę ekspertizę dėl būsimų pasekmių.
+
+TAR pastaba. 1 punkto norma, kad „įstatymų nuostatos ekonominiais klausimais gali būti priimamos referendumu tik atlikus ekonominę ekspertizę dėl būsimų pasekmių“, prieštarauja Lietuvos Respublikos Konstitucijos 3, 4, 9 ir 33 straipsniams.
+
+Straipsnio dalies pakeitimai:
+
+1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214
 
 Tik referendumu gali būti keičiamos Lietuvos Respublikos Konstitucijos I skirsnio „Lietuvos valstybė“ bei XIV skirsnio „Konstitucijos keitimas“ nuostatos.
 
@@ -145,6 +151,12 @@ Lapo pabaigoje nurodomas asmens, rinkusio parašus, vardas, pavardė, Lietuvos R
 
 Visus duomenis parašų rinkimo lape pasirašantis pilietis užpildo pats.
 
+TAR pastaba. Referendumo įstatymo 9 straipsnio trečioji dalis pakeista nustatant, „kad visus duomenis parašų rinkimo lape pasirašantis pilietis užpildo pats“, prieštarauja Lietuvos Respublikos Konstitucijos 4, 9 ir 33 straipsniams.
+
+Straipsnio dalies pakeitimai:
+
+1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214
+
 Piliečių parašų rinkimo lapus išduoda Vyriausioji rinkimų komisija.
 
 Lietuvos Respublikos Seimo narių, teikiančių pasiūlymą dėl referendumo paskelbimo, parašų autentiškumą patvirtina Lietuvos Respublikos Seimo valdyba. Lietuvos Respublikos Seimo narių pasiūlymas įteikiamas Lietuvos Respublikos Seimui.
@@ -188,14 +200,6 @@ Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48
 Lietuvos Respublikos Seimas, gavęs tinkamai įformintą piliečių iniciatyvinės grupės baigiamąjį aktą kartu su piliečių reikalavimais – pareiškimais ir Vyriausiosios rinkimų komisijos išvadą, kad šie dokumentai atitinka šį įstatymą, sesijos metu svarsto referendumo paskelbimo klausimą artimiausiame Seimo posėdyje, kuriame kviečiami dalyvauti referendumo iniciatorių atstovai. Seimo nutarimas dėl referendumo paskelbimo priimamas Seimo statute nustatyta tvarka.
 
 Jeigu Seimas konstatuoja, kad referendumui teikiamas įstatymo nuostatų projektas neatitinka Lietuvos Respublikos Konstitucijos, pirmiausia turi būti nagrinėjamas Konstitucijos keitimo klausimas.
-
-Jeigu Seimas nutaria apsvarstyti ir priimti teikiamas įstatymo nuostatas, referendumo paskelbimas gali būti atidėtas, tačiau referendumas turi būti paskelbtas tame pačiame posėdyje, kuriame Seimas nepriima teikiamų įstatymo nuostatų.
-
-Šiame straipsnyje numatytų terminų eiga sustabdoma laikotarpiu tarp Lietuvos Respublikos Seimo sesijų.
-
-Straipsnio pakeitimai:
-
-Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
 
 13 straipsnis. Lietuvos Respublikos Seimo nutarimo paskelbti referendumą turinys
 
@@ -526,6 +530,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
 
 Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo ir papildymo
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-575, 1994-07-20, Žin., 1994, Nr. 59-1161 (1994-08-03), i. k. 0941010ISTA000I-575
+
+Dėl Lietuvos Respublikos referendumo įstatymo 3 straipsnio papildymo
+
+5.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214
+
+Dėl 1994 m. birželio 15 d. įstatymo "Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo ir papildymo" 1, 9, 12 ir 39 punktų nuostatų, kuriomis buvo pakeisti ar papildyti Referendumo įstatymo 1, 9, 12 ir 32 straipsniai, atitikimo Lietuvos Respublikos Konstitucijai
 
 231 straipsnis. Skundai dėl referendumo komisijų sprendimų, kurie buvo priimti iki balsavimo pabaigos
 
