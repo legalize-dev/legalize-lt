@@ -4,7 +4,7 @@ identifier: "TAR.4DB025875E14"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-31"
-last_updated: "2001-03-13"
+last_updated: "2001-11-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -108,13 +108,13 @@ tvarkytojas – Statistikos departamentas prie Lietuvos Respublikos Vyriausybės
 
 institucijos.
 
-2. Ūkio
+2. Ūkio ministerija
 
-ministerija registruoja iš valstybės lėšų steigiamas įmones, taip pat įmones, į
+registruoja iš valstybės lėšų steigiamas įmones, taip pat įmones, į kurias
 
-kurias investuotas užsienio kilmės kapitalas, draudimo veiklą vykdančias
+investuotas užsienio kilmės kapitalas, draudimo veiklą vykdančias įmones,
 
-įmones, Prekybos, pramonės ir amatų rūmus bei jų asociaciją, užsienio įmonių
+Prekybos, pramonės ir amatų rūmus bei jų asociaciją, užsienio įmonių
 
 atstovybes, komercinius bankus ir jų padalinius (filialus, skyrius), kitas
 
@@ -278,11 +278,11 @@ pirmininko ir jo pavaduotojo vardai, pavardės ir adresai;
 
 vardas, pavardė ir adresas;
 
-8) likviduojamos įmonės
+8) likviduojamos įmonės statuso
 
-statuso įgijimo data ir jos likvidatorių vardai, pavardės (juridinių asmenų
+įgijimo data ir jos likvidatorių vardai, pavardės (juridinių asmenų pavadinimai
 
-pavadinimai ir buveinės).
+ir buveinės).
 
 4. Jeigu registruojamos
 
@@ -392,7 +392,9 @@ filialų nuostatai;
 
 8) savivaldybės leidimas
 
-užsiimti komercine-ūkine veikla, jei įmonė registruojama Ekonomikos ministerijoje;
+užsiimti komercine-ūkine veikla, jei įmonė registruojama Ekonomikos
+
+ministerijoje;
 
 9) negyvenamųjų patalpų
 
@@ -474,9 +476,9 @@ I-1440,
 
 standartas
 
-Rejestre naudojamos dokumentų klasifikacijos
+Rejestre naudojamos dokumentų
 
-ir duomenų kodai turi atitikti Lietuvos Respublikos standartus.
+klasifikacijos ir duomenų kodai turi atitikti Lietuvos Respublikos standartus.
 
 7 straipsnis.Rejestro
 
@@ -488,17 +490,17 @@ dokumentais turi teisę atlygintinai naudotis visi juridiniai ir fiziniai
 
 asmenys.
 
-2. Apie naujai įsteigtų
+2. Apie naujai įsteigtų įmonių
 
-įmonių įregistravimą arba įmonių išregistravimą vietos savivaldybių spaudoje
+įregistravimą arba įmonių išregistravimą vietos savivaldybių spaudoje kartą per
 
-kartą per mėnesį paskelbia vietos savivaldos vykdomosios institucijos, o
+mėnesį paskelbia vietos savivaldos vykdomosios institucijos, o respublikinėje
 
-respublikinėje spaudoje apie tai (išskyrus individualias (personalines) įmones
+spaudoje apie tai (išskyrus individualias (personalines) įmones ir ūkines
 
-ir ūkines bendrijas) paskelbia Statistikos departamentas. Tokiame skelbime turi
+bendrijas) paskelbia Statistikos departamentas. Tokiame skelbime turi būti
 
-būti nurodyta: įmonės pavadinimas, jos veiklos pobūdis, steigėjai ir įstatinis
+nurodyta: įmonės pavadinimas, jos veiklos pobūdis, steigėjai ir įstatinis
 
 kapitalas. Skelbimo išlaidas apmoka rejestro tvarkytojas.
 
@@ -592,11 +594,13 @@ jų pateikėjo, jei įmonės įstatai ar steigimo sutartis (aktas) neprieštarau
 
 teisę Valstybinės mokesčių inspekcijos, Valstybės kontrolės departamento,
 
-Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ar Valstybinio
+Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ar
 
-socialinio draudimo valdybos teikimu atšaukti už Lietuvos Respublikos įstatymų
+Valstybinio socialinio draudimo valdybos teikimu atšaukti už Lietuvos
 
-numatytus pažeidimus įmonių registravimą įstatymų nustatyta tvarka.
+Respublikos įstatymų numatytus pažeidimus įmonių registravimą įstatymų
+
+nustatyta tvarka.
 
 6. Ginčai dėl įregistravimo
 
@@ -688,33 +692,21 @@ Pasekmės įmonėms, nesilaikančioms įstatymų
 
 kapitalo per įstatymo nustatytą laiką ir nepateikusioms mokesčių ataskaitų
 
-valstybinėms mokesčių inspekcijoms, socialinio draudimo įstaigoms bei
+valstybinėms mokesčių inspekcijoms, socialinio draudimo įstaigoms bei statistikos
 
-statistikos ataskaitų - Statistikos departamentui, taip pat nesumokėjusioms
+ataskaitų - Statistikos departamentui, taip pat nesumokėjusioms mokesčių
 
-mokesčių muitinėms, valstybinėms mokesčių inspekcijoms ir socialinio draudimo
+muitinėms, valstybinėms mokesčių inspekcijoms ir socialinio draudimo įstaigoms,
 
-įstaigoms, prevencine tvarka taikomi šie komercinės-ūkinės veiklos apribojimai:
+prevencine tvarka taikomi šie komercinės-ūkinės veiklos apribojimai:
 
 sustabdomos muitinės procedūros, naujų įmonių, filialų steigimas, ūkinių
 
 sandorių sudarymas, įsigytų transporto priemonių valstybinė registracija.
 
-2. Šio
+2. (Neteko
 
-straipsnio pirmojoje dalyje nurodyti komercinės-ūkinės veiklos apribojimai taip
-
-pat taikomi įmonėms, kurioms draudžiama verstis prekybine veikla pagal Lietuvos
-
-Respublikos prekybos įstatymo 7(1) straipsnio pirmąją dalį ir
-
-nepateikusioms įmonių rejestro tvarkytojui registruoti pakeistų registravimo
-
-dokumentų (įstatų, ūkinės bendrijos jungtinės veiklos sutarties ir pan.), kaip
-
-numatyta Lietuvos Respublikos prekybos įstatymo 7(1) straipsnio
-
-antrojoje dalyje.
+galios)
 
 3. Valstybinės mokesčių
 
@@ -736,7 +728,9 @@ departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos
 
 Respublikos vidaus reikalų ministerijos Policijos departamento Kelių policijos
 
-valdyba ir valstybinės institucijos, kurios atlieka teisinę įmonių registraciją.
+valdyba ir valstybinės institucijos, kurios atlieka teisinę įmonių
+
+registraciją.
 
 5. Šio straipsnio pirmojoje
 
@@ -767,6 +761,12 @@ I-1017,
 Nr. VIII-952,
 
 98.12.03, Žin., 1998, Nr.112-3102 (98.12.23)
+
+Nr.
+
+IX-601,
+
+2001-11-13, Žin., 2001, Nr. 99-3532 (2001-11-28)
 
 11 straipsnis. Rejestro
 
@@ -970,9 +970,27 @@ Nr. IX-206, 2001 03 13, Žin., 2001, Nr.
 
 ĮSTATYMAS
 
-*** Pabaiga ***
+11.
 
-Redagavo: Aušrinė Trapinskienė (2001 03 30)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-601,
+
+2001-11-13, Žin., 2001, Nr. 99-3532 (2001-11-28)
+
+ĮMONIŲ
+
+REJESTRO ĮSTATYMO 10(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2001-11-28)
 
 autrap@lrs.lt
 
