@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2002-04-16"
+last_updated: "2002-09-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -79,13 +79,13 @@ galias apibrėžia Lietuvos Respublikos Konstitucija ir įstatymai.
 
 Vyriausybės veiklos teisiniai pagrindai
 
-Vyriausybė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija,
+Vyriausybė savo veikloje vadovaujasi Lietuvos
 
-Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Vyriausybės
+Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis,
 
-programa, kitais teisės aktais ir savo veiklą derina su Valstybės ilgalaikės
+įstatymais, Vyriausybės programa, kitais teisės aktais ir savo veiklą derina su
 
-raidos strategija.
+Valstybės ilgalaikės raidos strategija.
 
 Straipsnio
 
@@ -679,9 +679,9 @@ skiriamų pareigų (išskyrus galimybę Seimo nariams eiti Ministro Pirmininko a
 
 ministro pareigas), negali dirbti verslo, komercijos ar kitose privačiose
 
-įstaigose ar įmonėse, taip pat gauti kito atlyginimo, išskyrus jiems nustatytą darbo
+įstaigose ar įmonėse, taip pat gauti kito atlyginimo, išskyrus jiems nustatytą
 
-užmokestį pagal pareigas Vyriausybėje bei užmokestį už kūrybinę veiklą.
+darbo užmokestį pagal pareigas Vyriausybėje bei užmokestį už kūrybinę veiklą.
 
 Užmokesčiu už kūrybinę veiklą laikomas autorinis atlyginimas už
 
@@ -731,9 +731,9 @@ atvejais Seimas negali per 10 dienų susirinkti ir paskelbti Respublikos
 
 Prezidento rinkimų, rinkimus skelbia Vyriausybė, priimdama nutarimą.
 
-2. Šį Vyriausybės
+2. Šį
 
-nutarimą pavedama vykdyti Vyriausiajai rinkimų komisijai.
+Vyriausybės nutarimą pavedama vykdyti Vyriausiajai rinkimų komisijai.
 
 17 straipsnis.
 
@@ -789,11 +789,11 @@ Prezidento
 
 dekretus
 
-Ministras
+Ministras Pirmininkas arba atitinkamas ministras
 
-Pirmininkas arba atitinkamas ministras Lietuvos Respublikos Konstitucijos 85
+Lietuvos Respublikos Konstitucijos
 
-straipsnyje nurodytais klausimais ne vėliau kaip per 3 dienas pasirašo
+85 straipsnyje nurodytais klausimais ne vėliau kaip per 3 dienas pasirašo
 
 Respublikos Prezidento dekretus. Atsakomybė už tokį dekretą tenka jį
 
@@ -825,11 +825,15 @@ Vyriausybės įstatymų leidybos iniciatyvos teisė
 
 turi įstatymų leidybos iniciatyvos teisę Seime.
 
-2. Vyriausybė dėl Seimui teikiamų įstatymų ar Seimo
+2. Vyriausybė
 
-nutarimų projektų priima nutarimą. Svarstant šiuos projektus Seime, Vyriausybei
+dėl Seimui teikiamų įstatymų ar Seimo nutarimų projektų priima nutarimą.
 
-atstovauja Ministras Pirmininkas arba jo įgaliotas ministras.
+Svarstant šiuos projektus Seime, Vyriausybei atstovauja Ministras Pirmininkas,
+
+Vyriausybės įgaliotas ministras, o šiam negalint – Vyriausybės įgaliotas
+
+viceministras.
 
 Straipsnio
 
@@ -838,6 +842,10 @@ pakeitimai:
 Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
 
 66-2407 (2001-08-01)
+
+Nr. IX-1065,
+
+2002-09-05, Žin., 2002, Nr. 91-3888 (2002-09-18)
 
 21 straipsnis.
 
@@ -903,9 +911,9 @@ vykdymo ataskaitas;
 
 įstatymais disponuoja valstybės turtu, nustato jo valdymo ir naudojimo tvarką;
 
-6) rengia ir teikia
+6) rengia ir
 
-Seimui svarstyti įstatymų ir kitų teisės aktų projektus;
+teikia Seimui svarstyti įstatymų ir kitų teisės aktų projektus;
 
 7) teikia Seimui
 
@@ -925,21 +933,21 @@ vykdyti dalį Vyriausybės įstaigos steigėjo funkcijų;
 
 ministerijų, Vyriausybės įstaigų ir įstaigų prie ministerijų nuostatus.
 
-Tvirtinti įstaigų prie ministerijų nuostatus Vyriausybė gali pavesti
+Tvirtinti įstaigų prie ministerijų nuostatus Vyriausybė gali pavesti atitinkamam
 
-atitinkamam ministrui;
+ministrui;
 
 10) kartu su
 
 Respublikos Prezidentu vykdo užsienio politiką; užmezga diplomatinius santykius
 
-ir palaiko ryšius su užsienio valstybėmis bei tarptautinėmis organizacijomis; atsižvelgdama
+ir palaiko ryšius su užsienio valstybėmis bei tarptautinėmis organizacijomis;
 
-į Seimo Užsienio reikalų komiteto rekomendacijas, teikia Respublikos
+atsižvelgdama į Seimo Užsienio reikalų komiteto rekomendacijas, teikia
 
-Prezidentui siūlymus dėl Lietuvos Respublikos diplomatinių atstovų užsienio
+Respublikos Prezidentui siūlymus dėl Lietuvos Respublikos diplomatinių atstovų
 
-valstybėse ir prie tarptautinių organizacijų skyrimo bei atšaukimo;
+užsienio valstybėse ir prie tarptautinių organizacijų skyrimo bei atšaukimo;
 
 11) įstatymo
 
@@ -985,9 +993,9 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-Nr. IX-842, 2002-04-16,
+Nr. IX-842,
 
-Žin., 2002, Nr. 41-1527 (2002-04-19)
+2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 
 23 straipsnis.
 
@@ -1019,9 +1027,9 @@ PIRMININKO IR MINISTRŲ KOMPETENCIJA
 
 Ministras Pirmininkas
 
-1. Ministras
+1. Ministras Pirmininkas
 
-Pirmininkas atstovauja Vyriausybei ir vadovauja jos veiklai.
+atstovauja Vyriausybei ir vadovauja jos veiklai.
 
 2. Ministras
 
@@ -1035,11 +1043,11 @@ Vyriausybę ir teikia jos sudėtį tvirtinti Respublikos Prezidentui;
 
 siūlymus Respublikos Prezidentui dėl ministrų skyrimo ir atleidimo;
 
-3) Valstybės
+3) Valstybės tarnybos
 
-tarnybos įstatymo nustatyta tvarka skiria į pareigas ir atleidžia iš jų
+įstatymo nustatyta tvarka skiria į pareigas ir atleidžia iš jų Ministro
 
-Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus,
+Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus,
 
 Vyriausybės kanclerį, Vyriausybės įstaigų (departamentų, kontrolės ar apskaitos
 
@@ -1231,9 +1239,9 @@ projektus;
 
 Vyriausybės ir Ministro Pirmininko pavedimų vykdymą;
 
-5) leidžia įsakymus
+5) leidžia
 
-ir įsakymais patvirtintus kitus teisės aktus, tikrina, kaip jie vykdomi.
+įsakymus ir įsakymais patvirtintus kitus teisės aktus, tikrina, kaip jie vykdomi.
 
 Ministro leidžiami įsakymai ir kiti teisės aktai registruojami Vyriausybės
 
@@ -1411,9 +1419,9 @@ ministerija;
 
 ministerija;
 
-11) Užsienio reikalų
+11) Užsienio
 
-ministerija;
+reikalų ministerija;
 
 12) Vidaus
 
@@ -1429,9 +1437,9 @@ Vyriausybės siūlymu steigia ir panaikina Seimas, priimdamas įstatymą.
 
 3. Ministerija
 
-vykdo įstatymų ir kitų teisės aktų jai pavestos srities valstybės valdymo funkcijas
+vykdo įstatymų ir kitų teisės aktų jai pavestos srities valstybės valdymo
 
-ir įgyvendina šioje srityje valstybės politiką.
+funkcijas ir įgyvendina šioje srityje valstybės politiką.
 
 4. Ministerijai
 
@@ -1477,21 +1485,23 @@ strategija.
 
 veikla organizuojama vadovaujantis Vyriausybės aprobuotais viešai paskelbtais
 
-strateginiais veiklos planais, kuriuose apibūdinami pagrindiniai ministerijos uždaviniai
+strateginiais veiklos planais, kuriuose apibūdinami pagrindiniai ministerijos
 
-ir būdai juos įgyvendinti. Ministerijos strateginiai veiklos planai rengiami
+uždaviniai ir būdai juos įgyvendinti. Ministerijos strateginiai veiklos planai
 
-vieneriems, trejiems, penkeriems ir dešimčiai metų atsižvelgiant į Vyriausybės
+rengiami vieneriems, trejiems, penkeriems ir dešimčiai metų atsižvelgiant į
 
-ilgalaikį strateginį veiklos planą. Seimui pritarus naujos Vyriausybės
+Vyriausybės ilgalaikį strateginį veiklos planą. Seimui pritarus naujos
 
-programai, ministerijos savo parengtus arba atnaujintus strateginius veiklos
+Vyriausybės programai, ministerijos savo parengtus arba atnaujintus
 
-planus per tris mėnesius pateikia Vyriausybei aprobuoti. Jeigu įsteigta nauja
+strateginius veiklos planus per tris mėnesius pateikia Vyriausybei aprobuoti.
 
-ministerija, ji ilgalaikius ministerijos strateginius veiklos planus pateikia
+Jeigu įsteigta nauja ministerija, ji ilgalaikius ministerijos strateginius
 
-Vyriausybei aprobuoti per tris mėnesius nuo įsteigimo dienos.
+veiklos planus pateikia Vyriausybei aprobuoti per tris mėnesius nuo įsteigimo
+
+dienos.
 
 Straipsnio pakeitimai:
 
@@ -1593,9 +1603,9 @@ straipsnis. Ministerijos valstybės sekretorius ir ministerijos sekretoriai
 
 valstybės sekretorius yra karjeros valstybės tarnautojas, pavaldus ministrui.
 
-2. Ministerijos valstybės
+2. Ministerijos
 
-sekretorius:
+valstybės sekretorius:
 
 1) koordinuoja
 
@@ -1617,9 +1627,9 @@ ir koordinuoja ministerijos strateginių veiklos planų rengimą ir jų
 
 4) koordinuoja
 
-Ministro Pirmininko ir Vyriausybės pavedimų vykdymą, vadovaudamasis ministerijos
+Ministro Pirmininko ir Vyriausybės pavedimų vykdymą, vadovaudamasis
 
-strateginiais veiklos planais ir Vyriausybės programos įgyvendinimo
+ministerijos strateginiais veiklos planais ir Vyriausybės programos įgyvendinimo
 
 priemonėmis, užtikrina ministerijos rengiamų sprendimų suderinamumą;
 
@@ -2429,9 +2439,7 @@ kanceliarijos struktūrą ir nuostatus tvirtina Vyriausybė.
 
 3. Vyriausybės
 
-kanceliarijos karjeros valstybės tarnautojai yra pavaldūs Vyriausybės
-
-kancleriui.
+kanceliarijos karjeros valstybės tarnautojai yra pavaldūs Vyriausybės kancleriui.
 
 Įstatymas
 
@@ -2617,7 +2625,7 @@ BRAZAUSKAS
 
 ___________
 
-Pakeitimai:
+PAKEITIMAI:
 
 1.
 
@@ -2785,9 +2793,9 @@ Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
 
 66-2407 (2001-08-01)
 
-VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ PAKEITIMO
+VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ
 
-ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 12.
 
@@ -2809,6 +2817,22 @@ DEŠIMTOJO SKIRSNIO PAVADINIMO PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO
 
 31(1), 44(1) STRAIPSNIAIS ĮSTATYMAS
 
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1065,
+
+2002-09-05, Žin., 2002, Nr. 91-3888 (2002-09-18)
+
+VYRIAUSYBĖS
+
+ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 KONSTITUCINIO
@@ -2825,7 +2849,9 @@ DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 8
 
 STRAIPSNIO 2 IR 4 DALIŲ,
 
-9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22 STRAIPSNIO 1 PUNKTO, 24 STRAIPSNIO
+9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22 STRAIPSNIO 1 PUNKTO, 24
+
+STRAIPSNIO
 
 2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3 DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4
 
@@ -2841,7 +2867,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-04-22)
+Aušrinė Trapinskienė (2002-09-19)
 
 autrap@lrs.lt
 
