@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2003-01-28"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -919,9 +919,9 @@ Nr. IX-1247,
 
 kad apdraustasis asmuo:
 
-1) tapo laikinai nedarbingas dėl traumos, kurią gavo darydamas
+1)
 
-nusikaltimą;
+tapo laikinai nedarbingas dėl traumos, kurią gavo darydamas nusikalstamą veiką;
 
 2) sužalojo savo sveikatą arba apsimetė sergančiu;
 
@@ -940,6 +940,16 @@ būti neskiriama arba jos mokėjimas nutraukiamas nuo pažeidimo padarymo dienos
 Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų
 
 nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1419,
+
+2003-04-03, Žin., 2003, Nr. 38-1664 (2003-04-24), įsigalioja nuo 2003-05-01
 
 TREČIASIS SKIRSNIS
 
@@ -963,21 +973,39 @@ gimdymo atostogos, jeigu jie iki pirmosios nėštumo ir gimdymo atostogų dienos
 
 turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį
 
-kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio
+kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo
 
-draudimo stažą.
+stažą.
 
-2 dalies redakcija iki 2003 m. vasario 1 d.:
+2. Moteriai, atleistai iš darbo nėštumo metu arba
 
-2. Pagrindas skirti motinystės pašalpą nėštumo ir
+nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos
 
-gimdymo atostogų laikotarpiu yra nėštumo ir gimdymo atostogų pažymėjimas, išduotas
+likvidavimo ar bankroto ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir
 
-pagal Sveikatos apsaugos ir Socialinės apsaugos ir darbo ministerijų
+motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17
+
+straipsnyje nustatyta tvarka.
+
+3. Pagrindas skirti motinystės pašalpą nėštumo ir
+
+gimdymo atostogų laikotarpiu yra nėštumo ir gimdymo atostogų pažymėjimas,
+
+išduotas pagal Sveikatos apsaugos ir Socialinės apsaugos ir darbo ministerijų
 
 patvirtintas Nedarbingumo pažymėjimų bei nėštumo ir gimdymo atostogų pažymėjimų
 
 davimo taisykles.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1248,
+
+2002-12-10, Žin., 2002, Nr. 124-5622 (2002-12-27), įsigalioja nuo 2003-01-01
+
+Nr. IX-1333,
+
+2003-01-28, Žin., 2003, Nr. 12-441 (2003-01-31), įsigalioja nuo 2003-02-01
 
 19 straipsnis. Teisė gauti motinystės (tėvystės) pašalpą
 
@@ -1010,6 +1038,34 @@ pašalpų arba pagal pasirinkimą.
 pašalpos iš Valstybinio socialinio draudimo fondo lėšų, mokama pašalpa pagal
 
 Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą.
+
+4. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka
+
+išleistam vaiko iki vienerių metų priežiūros atostogų bei gaunančiam motinystės
+
+(tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos
+
+likvidavimo ar bankroto, motinystės (tėvystės) pašalpa mokama šio įstatymo 20
+
+straipsnyje nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.
+
+5. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam šio
+
+straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą,
+
+atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto
+
+ir dėl to negavusiam vaiko iki vienerių metų priežiūros atostogų, motinystės
+
+(tėvystės) pašalpa mokama šio įstatymo 20 straipsnyje nustatyta tvarka, bet ne
+
+ilgiau kaip iki įsidarbinimo.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1333,
+
+2003-01-28, Žin., 2003, Nr. 12-441 (2003-01-31), įsigalioja nuo 2003-02-01
 
 20 straipsnis. Motinystės (tėvystės) pašalpos mokėjimo trukmė
 
@@ -1081,13 +1137,15 @@ SOCIALINIO DRAUDIMO FONDO LĖŠOS LIGOS IR MOTINYSTĖS SOCIALINIAM DRAUDIMUI
 
 tvarka
 
-Ligos ir motinystės socialiniam draudimui skirtos valstybinio socialinio
+Ligos ir motinystės socialiniam draudimui skirtos valstybinio
 
-draudimo įmokos už kiekvieną apdraustąjį asmenį, nurodytą šio įstatymo 4
+socialinio draudimo įmokos už kiekvieną apdraustąjį asmenį, nurodytą šio
 
-straipsnio 1 dalyje, skaičiuojamos ir mokamos įstatymų nustatyta tvarka kartu
+įstatymo 4 straipsnio 1 dalyje, skaičiuojamos ir mokamos įstatymų nustatyta
 
-su kitomis privalomosiomis valstybinio socialinio draudimo įmokomis.
+tvarka kartu su kitomis privalomosiomis valstybinio socialinio draudimo
+
+įmokomis.
 
 PENKTASIS SKIRSNIS
 
@@ -1119,11 +1177,11 @@ nuostatus.
 
 2. Šio įstatymo nuostatos taikomos asmenims, nuo šio įstatymo
 
-įsigaliojimo tapusiems laikinai nedarbingais dėl motinystės, motinystės (tėvystės),
+įsigaliojimo tapusiems laikinai nedarbingais dėl motinystės, motinystės
 
-taip pat dėl ligos arba traumos, išskyrus atvejus, kuriuos numato Nelaimingų
+(tėvystės), taip pat dėl ligos arba traumos, išskyrus atvejus, kuriuos numato
 
-atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas.
+Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas.
 
 3. Ligos, motinystės ir motinystės (tėvystės) pašalpos, paskirtos
 
@@ -1241,15 +1299,35 @@ atleistiems iš darbo dėl įmonės, įstaigos ar organizacijos likvidavimo ar
 
 bankroto iki šio Įstatymo įsigaliojimo.
 
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1419,
+
+2003-04-03, Žin., 2003, Nr. 38-1664 (2003-04-24)
+
+LIGOS
+
+IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2003 m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-02-04)
+Aušra Bodin (2003-04-25)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
 16 straipsnis papildomas nauja 2 dalimi, 2 dalis
 
