@@ -4,7 +4,7 @@ identifier: "TAR.4FB9F4D3ED6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-05-08"
-last_updated: "2000-08-31"
+last_updated: "2001-04-17"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -238,13 +238,13 @@ Licencija yra dokumentas, suteikiantis teisę verstis
 
 Licencijuojamos tos komercinės-ūkinės veiklos
 
-sritys, kurios yra susijusios su padidėjusiu pavojumi žmogaus gyvybei, sveikatai,
+sritys, kurios yra susijusios su padidėjusiu pavojumi žmogaus gyvybei,
 
-aplinkai, ginkluotės gamyba ir įsigijimu, taip pat prekėmis ir paslaugomis,
+sveikatai, aplinkai, ginkluotės gamyba ir įsigijimu, taip pat prekėmis ir
 
-kurioms įstatymai gali nustatyti specialią prekių pardavimo ar paslaugų teikimo
+paslaugomis, kurioms įstatymai gali nustatyti specialią prekių pardavimo ar
 
-tvarką.
+paslaugų teikimo tvarką.
 
 Kiekvienai įstatymo nustatytai licencijuojamai
 
@@ -258,7 +258,9 @@ Licencijavimo taisyklėse nurodoma:
 
 2) licencijų rūšys;
 
-3) licenciją išduodanti institucija ir jos įgaliojimai;
+3) licenciją išduodanti institucija ir jos
+
+įgaliojimai;
 
 4) dokumentai, reikalingi licencijai gauti;
 
@@ -590,11 +592,11 @@ buhalterinės-finansinės apskaitos reikmėms. Įmonė turi teisę laikyti pasla
 
 dokumentus apie savo komercinę veiklą.
 
-Įmonių
+Įmonių veiklos
 
-veiklos tikrinimas ir revizija leidžiama tik Lietuvos Respublikos įstatymų
+tikrinimas ir revizija leidžiama tik Lietuvos Respublikos įstatymų numatytais
 
-numatytais atvejais.
+atvejais.
 
 Valstybės institucija, išdavusi įmonei
 
@@ -606,9 +608,9 @@ informaciją, reikalingą jos veiklos priežiūrai ir kontrolei vykdyti. Įmonė
 
 negali trukdyti priežiūrą ir kontrolę vykdančioms valstybės institucijoms (jų
 
-įgaliotiems pareigūnams) atlikti jų kompetencijai priskirtas priežiūros ir
+įgaliotiems pareigūnams) atlikti jų kompetencijai priskirtas priežiūros ir kontrolės
 
-kontrolės funkcijas.
+funkcijas.
 
 Straipsnio
 
@@ -1518,9 +1520,9 @@ Savivaldybės
 
 organas privalo per 15 dienų po įmonės steigimo dokumentų įteikimo išnagrinėti
 
-leidimo užsiimti ūkine veikla klausimą ir apie savo sprendimą per 3 dienas
+leidimo užsiimti ūkine veikla klausimą ir apie savo sprendimą per 3 dienas raštu
 
-raštu pranešti įmonės steigėjui.
+pranešti įmonės steigėjui.
 
 Savivaldybės
 
@@ -1860,9 +1862,9 @@ veiklos trukmė, jei numatoma terminuota jo veikla;
 
 veiklos tikslai ir ūkinės veiklos rūšys;
 
-5) filialo vadovo
+5) filialo
 
-įgaliojimai.
+vadovo įgaliojimai.
 
 Filialo
 
@@ -1908,9 +1910,9 @@ filialą įsteigusi įmonė.
 
 organas, kuriam įstatai ar kiti steigimo dokumentai suteikė teisę priimti
 
-sprendimus nutraukti filialo ar atstovybės veiklą, priėmęs tokį sprendimą, paskiria
+sprendimus nutraukti filialo ar atstovybės veiklą, priėmęs tokį sprendimą,
 
-atsakingą asmenį veiklos nutraukimo procedūrai atlikti. Apie sprendimą
+paskiria atsakingą asmenį veiklos nutraukimo procedūrai atlikti. Apie sprendimą
 
 nutraukti filialo ar atstovybės veiklą įmonė viešai skelbia vietos ir šalies
 
@@ -3656,9 +3658,15 @@ Respublikoje draudžiama steigti ir laikyti lošimo namus, organizuoti azartiniu
 
 lošimus.
 
-Įmonių įstatymo 6
+***[12 straipsnio 2 dalis netenka galios
 
-straipsnyje nurodytoms įmonėms ir jų junginiams draudžiama verstis kredito
+nuo Azartinių lošimų įstatymo įsigaliojimo
+
+dienos, tai yra nuo 2001 m. liepos 1 d.]***
+
+Įmonių įstatymo
+
+6 straipsnyje nurodytoms įmonėms ir jų junginiams draudžiama verstis kredito
 
 įstaigų veikla, taip pat draudžiama skolintis pinigų iš fizinių asmenų,
 
@@ -3763,6 +3771,10 @@ Nr. VIII-1305,
 Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.
 
 108-3129 (99.12.22)
+
+Nr. IX-253,
+
+2001 04 17, Žin., 2001, Nr. 39-1325 (2001 05 09), įsigalioja nuo 2001 07 01
 
 25 straipsnis.
 
@@ -3892,9 +3904,9 @@ valstybės įmonės filialas ir atstovybė registruojami Lietuvos Respublikos
 
 valstybės įmonės filialas komercinę-ūkinę veiklą gali pradėti tik
 
-jį įregistravus. Dokumentus, kuriuos reikia pateikti norint įregistruoti filialą
+jį įregistravus. Dokumentus, kuriuos reikia pateikti norint įregistruoti
 
-ar atstovybę, nustato Lietuvos Respublikos Vyriausybė.
+filialą ar atstovybę, nustato Lietuvos Respublikos Vyriausybė.
 
 Užsienio valstybės įmonės filialas
 
@@ -3902,13 +3914,13 @@ ir atstovybė raštvedybą, apskaitą, atskaitomybę, finansinius bei techninius
 
 dokumentus tvarko lietuvių kalba, o jeigu reikia, - ir užsienio kalba.
 
-Užsienio valstybės
+Užsienio
 
-įmonės filialas ir atstovybė privalo tvarkyti apskaitą bei teikti valstybės
+valstybės įmonės filialas ir atstovybė privalo tvarkyti apskaitą bei teikti
 
-institucijoms informaciją Lietuvos Respublikos įstatymų ir kitų teisės aktų
+valstybės institucijoms informaciją Lietuvos Respublikos įstatymų ir kitų
 
-nustatyta tvarka.
+teisės aktų nustatyta tvarka.
 
 Užsienio
 
@@ -4632,9 +4644,9 @@ Nr.108-3129 (99.12.22)
 
 LIETUVOS
 
-RESPUBLIKOS ĮMONIŲ ĮSTATYMO 1, 2, 12, 24 STRAIPSNIŲ PAKEITIMO IR
+RESPUBLIKOS ĮMONIŲ ĮSTATYMO 1, 2, 12, 24
 
-PAPILDYMO BEI PAPILDYMO 25 STRAIPSNIU ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI PAPILDYMO 25 STRAIPSNIU ĮSTATYMAS
 
 40.
 
@@ -4670,9 +4682,27 @@ Nr.78-2361 (00.09.15)
 
 įstatymas pradedamas įgyvendinti nuo 2001 m. liepos 1 d.
 
+43.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-253, 2001 04 17, Žin., 2001, Nr.
+
+39-1325 (2001 05 09)
+
+ĮMONIŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo Azartinių lošimų įstatymo įsigaliojimo dienos, tai yra
+
+nuo 2001 m. liepos 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.09.15)
+Redagavo: Aušrinė Trapinskienė (2001 05 09)
+
+autrap@lrs.lt
 
 6 straipsnis.Įmonių rūšys ir
 
@@ -4952,9 +4982,9 @@ I-1015,
 
 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
-18 straipsnis.Įmonės steigimo
+18 straipsnis.Įmonės
 
-tvarka
+steigimo tvarka
 
 Įmonės steigimo tvarką
 
