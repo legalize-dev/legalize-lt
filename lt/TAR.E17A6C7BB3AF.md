@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "2001-12-21"
+last_updated: "2003-04-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -1107,9 +1107,7 @@ Nr. VIII-1195,
 
 11 straipsnis. Apskrities viršininko
 
-įgaliojimai gamtos išteklių naudojimo ir aplinkos
-
-apsaugos klausimais
+įgaliojimai gamtos išteklių naudojimo ir aplinkos apsaugos klausimais
 
 Apskrities viršininkas:
 
@@ -1213,11 +1211,11 @@ perduotų įmonių valstybei priklausančias akcijas;
 
 8) Vyriausybės
 
-įgaliotos institucijos nustatyta tvarka atstovauja valstybei akcinėse bendrovėse
+įgaliotos institucijos nustatyta tvarka atstovauja valstybei akcinėse
 
-ar uždarosiose akcinėse bendrovėse, kuriose valstybei priklausančių akcijų
+bendrovėse ar uždarosiose akcinėse bendrovėse, kuriose valstybei priklausančių
 
-valdytojas yra Valstybės turto fondas ar kita valstybės institucija;
+akcijų valdytojas yra Valstybės turto fondas ar kita valstybės institucija;
 
 9) teikia Vyriausybei Apskrities administracinių ginčų
 
@@ -1225,7 +1223,15 @@ komisijos narių kandidatūras, tarp jų - ir pirmininko kandidatūrą;
 
 10) Regioninės
 
-plėtros įstatymo nustatyta tvarka vykdo regionų plėtros institucijos funkcijas.
+plėtros įstatymo nustatyta tvarka vykdo regionų plėtros institucijos funkcijas;
+
+11) kartu su
+
+savivaldybėmis organizuoja apskrities informacinės visuomenės plėtros
+
+programos, kurią tvirtina regiono plėtros taryba, rengimą ir koordinuoja jos
+
+įgyvendinimą.
 
 Apskrities
 
@@ -1263,6 +1269,12 @@ Nr. IX-681,
 
 2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
 
+Nr.
+
+IX-1413,
+
+2003-04-01, Žin., 2003, Nr. 38-1659 (2003-04-24), įsigalioja nuo 2003-07-01
+
 13
 
 straipsnis. Apskrities viršininko teisės
@@ -1295,9 +1307,9 @@ savivaldybių institucijų posėdžiuose;
 
 4)
 
-prireikus kviesti apskrityje esančių ministerijų ir kitų Vyriausybės
+prireikus kviesti apskrityje esančių ministerijų ir kitų Vyriausybės institucijų
 
-institucijų struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkauti;
+struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkauti;
 
 5) gauti iš kitų
 
@@ -1757,15 +1769,19 @@ viršininkas praneša atitinkamai Lietuvos Respublikos Seimui ar Vyriausybei api
 
 valstybės valdymo institucijų padalinių apskrityje veiklą ir sprendimus, jei
 
-jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba pažeidžia
+jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba
 
-piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina ar
+pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina
 
-nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar aukštesnioji
+ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar
 
-valstybės valdymo institucija, galutinį sprendimą priima Vyriausybė.
+aukštesnioji valstybės valdymo institucija, galutinį sprendimą priima
 
-Straipsnio žymėjimas pakeistas:
+Vyriausybė.
+
+Straipsnio žymėjimas
+
+pakeistas:
 
 Nr. VIII-33,
 
@@ -2269,15 +2285,33 @@ Iki
 
 ūkio skyrių ir mažinti šiems skyriams asignavimus.
 
+17.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1413,
+
+2003-04-01, Žin., 2003, Nr. 38-1659 (2003-04-24)
+
+APSKRITIES
+
+VALDYMO ĮSTATYMO 12 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Įsigalioja
+
+nuo 2003-07-01.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-01-22)
+Aušra Bodin (2003-04-24)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
 18 straipsnis.
 
