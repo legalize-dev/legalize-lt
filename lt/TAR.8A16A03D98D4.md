@@ -4,7 +4,7 @@ identifier: "TAR.8A16A03D98D4"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-01"
-last_updated: "2002-01-15"
+last_updated: "2002-03-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A16A03D98D4"
 department: "Lietuvos Respublikos Seimas"
@@ -487,39 +487,33 @@ pastatų ir statinių (statomų ar pastatytų) eksploatacijai ir kuri pagal šio
 
 nuomos sutartį pereina žemės savininkui, jeigu šalys nesusitaria kitaip.
 
-12.
+12. Žemė, kurioje įrengti tvenkiniai, neprivatizuoti
 
-Žemė, pertvarkyta į tvenkinius, grąžinama natūra piliečiams ribotam tiksliniam
+pagal Lietuvos Respublikos valstybinio turto pirminio privatizavimo bei
 
-naudojimui (išskyrus tvenkinio užtvankos įrenginius, jeigu jie priskirti
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymus,
 
-pavojingiems įrenginiams). Žemė, kurioje įrengti pramoniniai žuvininkystės
+grąžinama natūra piliečiams (išskyrus tvenkinio užtvankos įrenginius, jeigu jie
 
-tvenkiniai, grąžinama natūra piliečiams ribotam tiksliniam naudojimui, jeigu
+priskirti pavojingiems įrenginiams) ribotam tiksliniam naudojimui. Žemė, kurioje
 
-šios žemės savininkai sutinka sudaryti žemės nuomos sutartį su žuvininkystės
+įrengti tvenkiniai (įskaitant su jais susijusių užtvankos įrenginių užimtą
 
-tvenkinių naudotojais ne mažiau kaip 5 metams. Žuvininkystės tvenkinių
+žemę), privatizuoti pagal Lietuvos Respublikos valstybinio turto pirminio
 
-naudotojai šiuos tvenkinius nuomoja ir už juos savininkui moka Žemės nuomos
+privatizavimo bei Valstybės ir savivaldybių turto privatizavimo įstatymus ir
 
-įstatymo nustatyta tvarka valstybinės žemės nuomos dydžio žemės nuomos mokestį.
+naudojami pagal paskirtį, išperkama valstybės ir už ją atlyginama pagal šio
 
-Jeigu pilietis atsisako imti pertvarkytą į tvenkinį žemės sklypą arba nesutinka
-
-sudaryti šios žemės nuomos sutarties su žuvininkystės tvenkinių naudotojais, ši
-
-žemė valstybės išperkama ir už ją atlyginama pagal šio įstatymo 16 straipsnį.
-
-Pramoninių žuvininkystės tvenkinių sąrašą ir plotus tvirtina Vyriausybė.
+įstatymo 16 straipsnį.
 
 13. Laisvos žemės fondo žemė, kurią iki šio įstatymo
 
 įsigaliojimo ne mažiau kaip dvejus metus iš eilės naudojo nustatyta tvarka savo
 
-ūkius įregistravę ūkininkai ar žemės ūkio bendrovės, gali būti perduodama nuosavybėn
+ūkius įregistravę ūkininkai ar žemės ūkio bendrovės, gali būti perduodama
 
-neatlygintinai lygiaverčio ploto turėtam žemės plotui tik šią žemę
+nuosavybėn neatlygintinai lygiaverčio ploto turėtam žemės plotui tik šią žemę
 
 naudojantiems ūkininkams ar šią žemę naudojančių žemės ūkio bendrovių nariams.
 
@@ -543,6 +537,10 @@ IX-489,
 
 2001-08-03, Žin., 2001, Nr. 71-2518 (2001-08-17)
 
+Nr. IX-822,
+
+2002-03-28, Žin., 2002, Nr. 40-1464 (2002-04-17)
+
 5
 
 straipsnis. Nuosavybės teisių į miesto žemę atkūrimo sąlygos ir tvarka
@@ -565,41 +563,41 @@ neatlygintinai nuosavybėn piliečiams, turintiems nuosavybės teise gyvenamuosi
 
 namus ar kitus pastatus, jų naudojamą teritorijų planavimo dokumentuose
 
-nustatytų ribų žemės sklypą prie šių statinių arba teritorijų planavimo dokumentuose
+nustatytų ribų žemės sklypą prie šių statinių arba teritorijų planavimo
 
-numatytą jų naudojamą žemės sklypą kitai paskirčiai (daržui, sodui ir kt.),
+dokumentuose numatytą jų naudojamą žemės sklypą kitai paskirčiai (daržui, sodui
 
-išskyrus Kuršių nerijos nacionalinio parko teritorijoje, bet ne didesnį kaip
+ir kt.), išskyrus Kuršių nerijos nacionalinio parko teritorijoje, bet ne
 
-0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje,
+didesnį kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje,
 
-Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesnį kaip 0,3 ha
+Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesnį kaip
 
-kituose miestuose. Kai prie statinių esantis naudojamas žemės sklypas yra
+0,3 ha kituose miestuose. Kai prie statinių esantis naudojamas žemės sklypas
 
-nuosavybės teise turėtoje žemėje ir yra didesnis kaip atitinkamai 0,2 ha arba
+yra nuosavybės teise turėtoje žemėje ir yra didesnis kaip atitinkamai 0,2 ha
 
-0,3 ha, piliečiui pageidaujant, neatlygintinai nuosavybėn perduodamas
+arba 0,3 ha, piliečiui pageidaujant, neatlygintinai nuosavybėn
 
-šis didesnis prie statinių naudojamo žemės sklypo plotas, taip pat ir prie šio
+perduodamas šis didesnis prie statinių naudojamo žemės sklypo plotas, taip pat
 
-naudojamo žemės sklypo išlikęs savininko turėtas laisvas (neužstatytas)
+ir prie šio naudojamo žemės sklypo išlikęs savininko turėtas laisvas
 
-žemės sklypo plotas (kai yra keli piliečiai, turintys teisę atkurti nuosavybės
+(neužstatytas) žemės sklypo plotas (kai yra keli piliečiai, turintys teisę
 
-teises į šią žemę, - jiems pageidaujant, neatlygintinai bendron arba šių
+atkurti nuosavybės teises į šią žemę, - jiems pageidaujant, neatlygintinai
 
-statinių savininko nuosavybėn perduodamas šis didesnis prie statinių naudojamas
+bendron arba šių statinių savininko nuosavybėn perduodamas šis didesnis prie
 
-ir išlikęs laisvos (neužstatytos) žemės sklypo plotas), nepaisant
+statinių naudojamas ir išlikęs laisvos (neužstatytos) žemės sklypo plotas), nepaisant
 
 parengtų tos vietovės teritorijų planavimo dokumentų, bet ne daugiau kaip 1 ha
 
-bendro ploto Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje,
+bendro ploto Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje,
 
-Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne daugiau kaip 1,5 ha
+Druskininkuose, Palangoje, Birštone ir ne daugiau kaip 1,5 ha bendro ploto
 
-bendro ploto kituose miestuose;
+kituose miestuose;
 
 2) perduodant
 
@@ -821,9 +819,9 @@ atkūrimo tvarka
 
 paskirties pastatus ir jų priklausinius atkuriamos grąžinant juos natūra
 
-Vyriausybės nustatyta tvarka, išskyrus pagal šio įstatymo 14 straipsnį valstybės
+Vyriausybės nustatyta tvarka, išskyrus pagal šio įstatymo 14 straipsnį
 
-išperkamus ūkinės-komercinės paskirties pastatus.
+valstybės išperkamus ūkinės-komercinės paskirties pastatus.
 
 2.
 
@@ -935,17 +933,17 @@ tvarka
 
 1.
 
-Nuosavybės teisės atkuriamos piliečiams, kurių prašymai atkurti nuosavybės teises
+Nuosavybės teisės atkuriamos piliečiams, kurių prašymai atkurti nuosavybės
 
-į nekilnojamąjį turtą pateikti Lietuvos Respublikos įstatymo „Dėl piliečių
+teises į nekilnojamąjį turtą pateikti Lietuvos Respublikos įstatymo „Dėl
 
-nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“
+piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir
 
-nustatytais terminais ir šio įstatymo nustatyta tvarka iki 2001 m. gruodžio 31
+sąlygų“ nustatytais terminais ir šio įstatymo nustatyta tvarka iki 2001 m.
 
-d. Piliečiai, praleidę nustatytus terminus prašymams paduoti, netenka teisės į
+gruodžio 31 d. Piliečiai, praleidę nustatytus terminus prašymams paduoti,
 
-nuosavybės teisių atkūrimą pagal šį įstatymą.
+netenka teisės į nuosavybės teisių atkūrimą pagal šį įstatymą.
 
 2.
 
@@ -967,9 +965,9 @@ straipsnyje nurodytiems piliečiams.
 
 pagal šio įstatymo 5 straipsnio 2 dalies 2 punktą atsisako jiems perduodamo
 
-naujo žemės sklypo individualiai statybai bei kitai paskirčiai, už šį žemės sklypą
+naujo žemės sklypo individualiai statybai bei kitai paskirčiai, už šį žemės
 
-kompensuojama pinigais nepaisant prašymo atkurti nuosavybės teises į
+sklypą kompensuojama pinigais nepaisant prašymo atkurti nuosavybės teises į
 
 nekilnojamąjį turtą pateikimo dienos, jeigu šis prašymas pateiktas šio įstatymo
 
@@ -1023,9 +1021,9 @@ dabartinis turto valdytojas, nuosavybės teisių netekimo laikas ir būdas.
 
 2.
 
-Piliečiai, kuriems pagal šį įstatymą neatkuriamos nuosavybės teisės į visą
+Piliečiai, kuriems pagal šį įstatymą neatkuriamos nuosavybės teisės į visą anksčiau
 
-anksčiau turėtą žemę, mišką ar vandens telkinį (jei šis plotas yra laisvas ir
+turėtą žemę, mišką ar vandens telkinį (jei šis plotas yra laisvas ir
 
 grąžintinas natūra), vadovaudamiesi šio įstatymo 4 ir 6 straipsniais, savo
 
@@ -1121,23 +1119,19 @@ veislininkystės ūkiams, specialiosios paskirties veislininkystės bendrovėms.
 
 Vyriausybė;
 
-9) yra su
+9) yra su įrengtais tvenkiniais, pramoninės
 
-įrengtais tvenkiniais, pramoninės žuvininkystės tvenkiniais (įskaitant
-
-užtvankos įrenginių užimtą žemę) ir jeigu ją susigrąžinti pagal šio įstatymo 4
-
-straipsnio 12 dalį atsisako savininkai;
+žuvininkystės tvenkiniais (įskaitant užtvankos įrenginių užimtą žemę);
 
 10) atitinka šio įstatymo 16 straipsnio 6 dalies
 
 pirmajame sakinyje nurodytas sąlygas;
 
-11) pagal įstatymus
+11) pagal
 
-suteikta ir naudojama valstiečių ūkiui, jeigu šią žemę jos naudotojui buvo
+įstatymus suteikta ir naudojama valstiečių ūkiui, jeigu šią žemę jos naudotojui
 
-leista pirkti ir už ją sumokėti pinigai ar valstybės vienkartinės išmokos;
+buvo leista pirkti ir už ją sumokėti pinigai ar valstybės vienkartinės išmokos;
 
 12) yra valstybinių parkų ir valstybinių draustinių
 
@@ -1200,6 +1194,10 @@ Nr. IX-639,
 Nr. IX-708,
 
 2002-01-15, Žin., 2002, Nr. 5-161 (2002-01-18)
+
+Nr. IX-822,
+
+2002-03-28, Žin., 2002, Nr. 40-1464 (2002-04-17)
 
 1 straipsnis. Įstatymo
 
@@ -2177,9 +2175,9 @@ Nr. IX-242, 2001 04 10, Žin., 2001, Nr.
 
 35-1163 (2001 04 25)
 
-Nr. IX-639, 2001-12-11,
+Nr. IX-639,
 
-Žin., 2001, Nr. 108-3904 (2001-12-28)
+2001-12-11, Žin., 2001, Nr. 108-3904 (2001-12-28)
 
 14
 
@@ -2259,13 +2257,13 @@ pagal Butų privatizavimo įstatymą;
 
 3)
 
-juose gyvena nuomininkai, negalėję įgyvendinti savo teisės juos privatizuoti,
+juose gyvena nuomininkai, negalėję įgyvendinti savo teisės juos privatizuoti, kai
 
-kai piliečiams yra grąžintos natūra gyvenamųjų namų dalys, kuriose jie gyvena,
+piliečiams yra grąžintos natūra gyvenamųjų namų dalys, kuriose jie gyvena, arba
 
-arba jie yra įgiję nuosavybės teise privatizuojamų patalpų pagal Butų
+jie yra įgiję nuosavybės teise privatizuojamų patalpų pagal Butų privatizavimo
 
-privatizavimo įstatymą.
+įstatymą.
 
 Straipsnio pakeitimai:
 
@@ -2329,15 +2327,17 @@ nuostatos, kad po neteisėto žemės nacionalizavimo miestams priskirta žemė
 
 vertinama priemiestinėse teritorijose esančios žemės ūkio paskirties žemės
 
-vidutine rinkos kaina, o kitai miestų teritorijose esančiai žemei taikoma tam
+vidutine rinkos kaina, o kitai miestų teritorijose esančiai žemei taikoma tam miestui
 
-miestui Vyriausybės nustatyta vidutinė atlyginimo kaina.
+Vyriausybės nustatyta vidutinė atlyginimo kaina.
 
 4. Kai atlyginama už pagal šį įstatymą negrąžinamą
 
-žemę, mišką, vandens telkinį, vietoj jų perduodamos nuosavybėn žemės, miško, vandens
+žemę, mišką, vandens telkinį, vietoj jų perduodamos nuosavybėn žemės, miško,
 
-telkinio lygiavertiškumas nustatomas pagal Vyriausybės patvirtintą metodiką.
+vandens telkinio lygiavertiškumas nustatomas pagal Vyriausybės patvirtintą
+
+metodiką.
 
 5. Už žemę, taip pat vandens telkinius saugomose
 
@@ -2511,13 +2511,15 @@ nepageidaujantiems susigrąžinti žemės, miško ir vandens telkinių kaimo
 
 vietovėse natūra;
 
-8) pinigais - piliečiams,
+8) pinigais -
 
-atsisakiusiems jiems perduodamo neatlygintinai nuosavybėn naujo žemės sklypo
+piliečiams, atsisakiusiems jiems perduodamo neatlygintinai nuosavybėn naujo
 
-individualiai statybai miestuose, kompensuojant Vyriausybės nustatyto dydžio
+žemės sklypo individualiai statybai miestuose, kompensuojant Vyriausybės
 
-žemės sklypo tame mieste vidutinės vertės sumą, kurią nustato Vyriausybė;
+nustatyto dydžio žemės sklypo tame mieste vidutinės vertės sumą, kurią nustato
+
+Vyriausybė;
 
 9)
 
@@ -2601,17 +2603,17 @@ Nr. VIII-1181, 99.05.13, Žin.,
 
 Nr.
 
-IX-489,
+IX-489, 2001-08-03,
 
-2001-08-03, Žin., 2001, Nr. 71-2518 (2001-08-17)
+Žin., 2001, Nr. 71-2518 (2001-08-17)
 
 Nr. IX-639,
 
 2001-12-11, Žin., 2001, Nr. 108-3904 (2001-12-28)
 
-Nr. IX-708,
+Nr. IX-708, 2002-01-15,
 
-2002-01-15, Žin., 2002, Nr. 5-161 (2002-01-18)
+Žin., 2002, Nr. 5-161 (2002-01-18)
 
 17
 
@@ -2681,9 +2683,9 @@ Nr. VIII-1181, 99.05.13, Žin.,
 
 1999, Nr.48-1522 (99.06.02)
 
-Nr. IX-708,
+Nr. IX-708, 2002-01-15,
 
-2002-01-15, Žin., 2002, Nr. 5-161 (2002-01-18)
+Žin., 2002, Nr. 5-161 (2002-01-18)
 
 19
 
@@ -3417,9 +3419,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-489,
+Nr. IX-489, 2001-08-03,
 
-2001-08-03, Žin., 2001, Nr. 71-2518 (2001-08-17)
+Žin., 2001, Nr. 71-2518 (2001-08-17)
 
 PILIEČIŲ
 
@@ -3441,9 +3443,9 @@ IX-639,
 
 PILIEČIŲ
 
-NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 12, 13, 16 STRAIPSNIŲ
+NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 12, 13, 16
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 8.
 
@@ -3463,9 +3465,27 @@ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 2, 
 
 15, 16, 18, 20, 21 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-Įstatymo
+Įstatymo atitaisymas skelbtas: Žin., 2002, Nr. 6
 
-atitaisymas skelbtas: Žin., 2002, Nr. 6 (2002-01-23)
+(2002-01-23)
+
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-822,
+
+2002-03-28, Žin., 2002, Nr. 40-1464 (2002-04-17)
+
+PILIEČIŲ
+
+NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 4 IR 12
+
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
@@ -3523,7 +3543,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-01-21)
+Aušrinė Trapinskienė (2002-04-17)
 
 autrap@lrs.lt
 
