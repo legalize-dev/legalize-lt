@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2002-06-21"
+last_updated: "2002-06-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -820,7 +820,11 @@ ir jų šeimų nariai, kurie turtą ir pajamas pradeda deklaruoti už 1997 metus
 
 2 priedėlyje išvardyti valstybės tarnautojai, ūkinių subjektų vadovai ir jų
 
-šeimų nariai turtą ir pajamas pradeda deklaruoti nuo 1996 metų;
+šeimų nariai turtą ir pajamas pradeda deklaruoti nuo 1996 metų, o aukštųjų
+
+mokyklų vadovai ir jų šeimų nariai turtą ir pajamas pradeda deklaruoti už 2002
+
+metus;
 
 4) Lietuvos
 
@@ -850,7 +854,9 @@ arba padovanojo dovanas;
 
 pageidaujantys gauti valstybės garantuojamą teisinę pagalbą, turtą ir pajamas
 
-deklaruoja prieš kreipdamiesi dėl valstybės garantuojamos teisinės pagalbos suteikimo.
+deklaruoja prieš kreipdamiesi dėl valstybės garantuojamos teisinės pagalbos
+
+suteikimo.
 
 Straipsnio
 
@@ -879,6 +885,10 @@ Nr.67-2017 (00.08.09)
 Nr. IX-96, 2000 12 20, Žin., 2000, Nr.
 
 113-3605 (2000 12 30), įsigalioja nuo 2001 01 01
+
+Nr. IX-944,
+
+2002-06-11, Žin., 2002, Nr. 64-2577 (2002-06-26)
 
 12 straipsnis. Įstatymo
 
@@ -922,9 +932,9 @@ s ą r a š a s
 
 Prezidentas.
 
-2. Lietuvos
+2. Lietuvos Respublikos
 
-Respublikos Seimo nariai.
+Seimo nariai.
 
 3. Lietuvos
 
@@ -1074,15 +1084,17 @@ prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstyb
 
 valdymo institucijų vyriausieji buhalteriai (finansininkai) ir vyriausiųjų
 
-buhalterių (finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos
+buhalterių (finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos institucijos
 
-institucijos šiame punkte išvardytų institucijų skelbiamą sąrašą).
+šiame punkte išvardytų institucijų skelbiamą sąrašą).
 
 6. Ministerijų
 
 struktūrinių padalinių (departamentų, valdybų, kanceliarijų, skyrių, poskyrių,
 
-sektorių, biurų, grupių, sekretoriatų) vadovai ir padalinių vadovų pavaduotojai.
+sektorių, biurų, grupių, sekretoriatų) vadovai ir padalinių vadovų
+
+pavaduotojai.
 
 7. Lietuvos kariuomenės
 
@@ -1096,9 +1108,7 @@ turintys asmenys.
 
 administracijų struktūrinių padalinių (departamentų, valdybų, inspekcijų,
 
-skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir padalinių vadovų
-
-pavaduotojai.
+skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir padalinių vadovų pavaduotojai.
 
 10. Apskričių viršininkų
 
@@ -1142,6 +1152,10 @@ pavaduotojai, tarybų ir valdybų nariai, vyriausieji buhalteriai
 
 vadovai bei jų pavaduotojai.
 
+17. Aukštųjų
+
+mokyklų vadovai.
+
 Priedėlio
 
 pakeitimai:
@@ -1155,6 +1169,10 @@ VIII-134,
 Nr. VIII-1887, 00.07.20, Žin., 2000,
 
 Nr.67-2017 (00.08.09)
+
+Nr. IX-944,
+
+2002-06-11, Žin., 2002, Nr. 64-2577 (2002-06-26)
 
 _____________
 
@@ -1308,13 +1326,31 @@ GYVENTOJŲ
 
 TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-944,
+
+2002-06-11, Žin., 2002, Nr. 64-2577 (2002-06-26)
+
+GYVENTOJŲ
+
+TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 11 STRAIPSNIO IR 2 PRIEDĖLIO PAPILDYMO
+
+ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-06-21)
+Aušrinė Trapinskienė (2002-06-26)
 
 autrap@lrs.lt
 
