@@ -4,7 +4,7 @@ identifier: "TAR.0D5EC80FC43B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-13"
-last_updated: "1998-12-31"
+last_updated: "1999-12-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0D5EC80FC43B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymas
 
-Suvestinė redakcija nuo 1998-12-31 iki 1999-12-16
+Suvestinė redakcija nuo 1999-12-17 iki 2000-12-28
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2729, i. k. 0971010ISTAVIII-510
 
@@ -34,13 +34,13 @@ Vilnius
 
 1 straipsnis. Įstatymų ir kitų teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimas netekusiais galios
 
-1. Nuo 1998 m. sausio 1 d. netenka galios Lietuvos Respublikos teritorijoje galiojantys įstatymai, priimti iki 1990 m. kovo 11 d., išskyrus tuos, kurių galiojimas iki 2000 m. sausio 1 d. bus laikinai pratęstas atskiru įstatymu.
+1. Nuo 1998 m. sausio 1 d. netenka galios Lietuvos Respublikos teritorijoje galiojantys įstatymai, priimti iki 1990 m. kovo 11 d., išskyrus tuos, kurių galiojimas iki 2001 m. sausio 1 d. bus laikinai pratęstas atskiru įstatymu.
 
-2. Nuo 1999 m. gruodžio 31 d. netenka galios Lietuvos Respublikos teritorijoje galiojantys poįstatyminiai norminiai teisės aktai, priimti iki 1990 m. kovo 11 d.
+2. Nuo 1999 m. gruodžio 31 d. netenka galios Lietuvos Respublikos teritorijoje galiojantys kiti norminiai teisės aktai, priimti iki 1990 m. kovo 11 d., išskyrus tuos, kurių galiojimas Vyriausybės gali būti pratęsiamas jos nustatyta tvarka ir terminais.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. VIII-998, 1998-12-22, Žin., 1998, Nr. 115-3245 (1998-12-31), i. k. 0981010ISTAVIII-998
+Nr. VIII-1469, 1999-12-07, Žin., 1999, Nr. 107-3100 (1999-12-17), i. k. 0991010ISTAIII-1469
 
 2 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas
 
@@ -73,4 +73,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-998, 1998-12-22, Žin., 1998, Nr. 115-3245 (1998-12-31), i. k. 0981010ISTAVIII-998
 
 Lietuvos Respublikos teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymo 1 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1469, 1999-12-07, Žin., 1999, Nr. 107-3100 (1999-12-17), i. k. 0991010ISTAIII-1469
+
+Lietuvos Respublikos teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymo 1 straipsnio pakeitimo ir papildymo įstatymas
 
