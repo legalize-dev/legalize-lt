@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2000-10-17"
+last_updated: "2001-03-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -170,9 +170,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-2057, 00.10.17, Žin., 2000,
+Nr. VIII-2057,
 
-Nr.92-2887 (00.10.31)
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 
 3 straipsnis. Valstybės politikų,
 
@@ -260,11 +260,13 @@ valstybės pareigūno pareiginės algos už kiekvienus trejus metus, tačiau
 
 priedo dydis neturi viršyti 30 procentų pareiginės algos.
 
-Straipsnio pakeitimai:
+Straipsnio
 
-Nr. VIII-2057, 00.10.17, Žin., 2000,
+pakeitimai:
 
-Nr.92-2887 (00.10.31)
+Nr. VIII-2057,
+
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 
 6 straipsnis.
 
@@ -290,11 +292,11 @@ lėšoms arba dirbtam laikui tais metais.
 
 teisės aktuose (statutuose, nuostatuose), reglamentuojančiuose teisėjų ir
 
-valstybės pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas
+valstybės pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas konkretizuojamos
 
-konkretizuojamos šio straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir
+šio straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir išmokėjimo
 
-išmokėjimo sąlygos bei tvarka.
+sąlygos bei tvarka.
 
 7 straipsnis.
 
@@ -314,9 +316,9 @@ sąlygos pradedamos taikyti nuo kito naujai išrinkto Seimo pirmojo posėdžio
 
 dienos.
 
-3. Valstybės
+3. Valstybės politikams,
 
-politikams, teisėjams ir valstybės pareigūnams:
+teisėjams ir valstybės pareigūnams:
 
 1) kurių
 
@@ -332,41 +334,43 @@ užmokestis), yra didesnis už šio įstatymo nustatytą darbo užmokestį,
 
 metais nedidinamas. Nustatytu pereinamuoju laikotarpiu (2001 m. sausio 1 d. –
 
-2003 m. sausio 1 d.) iki 2001 m. sausio 1 d. buvęs darbo užmokestis mažinamas
+2003 m. liepos 1 d.) iki 2001 m. sausio 1 d. buvęs darbo užmokestis
 
-kiekvieną mėnesį priklausantį darbo užmokestį apskaičiuojant
+mažinamas kiekvieną mėnesį priklausantį darbo užmokestį apskaičiuojant (kol
 
-(kol susilygins su šio įstatymo nustatytu darbo užmokesčiu) pagal formulę:
+susilygins su šio įstatymo nustatytu darbo užmokesčiu) pagal formulę:
 
-A =
+A = C – [(C–B) x
 
-C - [(C-B )
-
-x M].
+M].
 
 Čia:
 
-A –
+A – pereinamuoju
 
-pereinamuoju laikotarpiu priklausantis darbo užmokestis;
+laikotarpiu priklausantis darbo užmokestis;
 
-C – buvęs darbo užmokestis;
+C – buvęs darbo
+
+užmokestis;
 
 B – valstybės politiko, teisėjo ar valstybės pareigūno
 
 darbo užmokestis, nustatytas šiuo įstatymu;
 
-M –
+M – darbo
 
-darbo užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį
+užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo
 
-darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
+užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
 
 Metai
 
 2001
 
 2002
+
+2003
 
 Pusmečiai
 
@@ -378,13 +382,17 @@ I
 
 II
 
+I
+
 M
 
-0,2
+0
 
 0,4
 
-0,65
+0,6
+
+0,8
 
 0,9
 
@@ -398,9 +406,7 @@ laikotarpiu kiekvieną mėnesį valstybės politikui, teisėjui ar valstybės
 
 pareigūnui priklausantį darbo užmokestį apskaičiuojant pagal formulę:
 
-A=[ (B–C) x D]
-
-+C.
+A=[ (B–C) x D] +C.
 
 Čia:
 
@@ -452,15 +458,21 @@ D
 
 4. Pereinamuoju laikotarpiu į valstybės politiko, teisėjo ir valstybės
 
-pareigūno pareigas išrinktiems ar paskirtiems asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio
+pareigūno pareigas išrinktiems ar paskirtiems asmenims darbo užmokestis
 
-nuostatas ir nurodytas formules, kuriose dydis C reiškia naujai išrinkto ar
+nustatomas ir apskaičiuojamas pagal šio straipsnio nuostatas ir nurodytas
 
-paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokesčio,
+formules, kuriose dydis C reiškia naujai
 
-apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo apmokėjimo sąlygas, dydį.
+išrinkto ar paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo
 
-5. Nuo 2006 m. sausio 1 d. valstybės politikams, teisėjams ir valstybės
+užmokesčio, apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo
+
+apmokėjimo sąlygas, dydį.
+
+5. Pasibaigus
+
+pereinamajam laikotarpiui, valstybės politikams, teisėjams ir valstybės
 
 pareigūnams turi būti mokamas šio įstatymo nustatytas darbo užmokestis.
 
@@ -478,9 +490,13 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-2057, 00.10.17, Žin., 2000,
+Nr. VIII-2057,
 
-Nr.92-2887 (00.10.31)
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+
+Nr. IX-231, 2001 03 27, Žin., 2001, Nr.
+
+29-918 (2001 04 04)
 
 8 straipsnis. Neteko galios.
 
@@ -488,9 +504,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-2057, 00.10.17, Žin., 2000,
+Nr. VIII-2057,
 
-Nr.92-2887 (00.10.31)
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 
 9 straipsnis.
 
@@ -718,9 +734,9 @@ Skirsnio
 
 pakeitimai:
 
-Nr. VIII-2057, 00.10.17, Žin., 2000,
+Nr. VIII-2057,
 
-Nr.92-2887 (00.10.31)
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 
 II. Teisėjų pareiginės algos
 
@@ -1278,11 +1294,13 @@ Vaiko teisių apsaugos kontrolierius
 
 8.
 
-Seimo ar Respublikos Prezidento paskirtų
+Seimo ar Respublikos Prezidento
 
-rinkos priežiūros ir reguliavimo institucijų – Vertybinių popierių komisijos,
+paskirtų rinkos priežiūros ir reguliavimo institucijų – Vertybinių popierių
 
-Konkurencijos tarybos, Valstybinės kainų ir energetikos kontrolės komisijos:
+komisijos, Konkurencijos tarybos, Valstybinės kainų ir energetikos kontrolės
+
+komisijos:
 
 8.1.
 
@@ -1350,9 +1368,9 @@ Skirsnio
 
 pakeitimai:
 
-Nr. VIII-2057, 00.10.17, Žin., 2000,
+Nr. VIII-2057,
 
-Nr.92-2887 (00.10.31)
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 
 __________
 
@@ -1364,9 +1382,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-2057, 2000 10 17, Žin., 2000, Nr.
+Nr. VIII-2057,
 
-92-2887 (2000 10 31)
+2000 10 17, Žin., 2000, Nr. 92-2887 (2000 10 31)
 
 VALSTYBĖS
 
@@ -1374,15 +1392,25 @@ POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PAKEI
 
 ĮSTATYMAS
 
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-231,
+
+2001 03 27, Žin., 2001, Nr. 29-918 (2001 04 04)
+
+VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO
+
+APMOKĖJIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė
+Redagavo: Aušrinė
 
-(2000 11 03)
+Trapinskienė (2001 04 04)
 
-51 straipsnis. Neteko galios nuo 2018-07-01
-
-Straipsnio naikinimas:
-
-Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
+autrap@lrs.lt
 
