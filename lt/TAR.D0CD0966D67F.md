@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "1997-06-24"
+last_updated: "1997-11-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,9 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Redagavo:
+Redagavo: Ramunė
 
-Ramunė Lūžaitė (1997.07.03)
+Lūžaitė (1997.12.02)
 
 Įstatymas
 
@@ -39,7 +39,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-835, 95.04.04, Žin., 1995, Nr. 30-683 (95.04.07)
+I-835, 95.04.04, Žin., 1995, Nr. 30-683 (95.04.07)
 
 DĖL
 
@@ -53,7 +53,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1033, 95.07.05, Žin., 1995, Nr. 59-1486 (95.07.19)
+I-1033, 95.07.05, Žin., 1995, Nr. 59-1486 (95.07.19)
 
 DĖL
 
@@ -67,7 +67,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1041, 95.09.14, Žin., 1995, Nr. 79-1820 (95.09.27)
+I-1041, 95.09.14, Žin., 1995, Nr. 79-1820 (95.09.27)
 
 DĖL
 
@@ -81,7 +81,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1227, 96.03.14, Žin., 1996, Nr. 33-804 (96.04.12)
+I-1227, 96.03.14, Žin., 1996, Nr. 33-804 (96.04.12)
 
 LIETUVOS
 
@@ -95,7 +95,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1262, 96.03.28, Žin., 1996, Nr. 35-869 (96.04.19)
+I-1262, 96.03.28, Žin., 1996, Nr. 35-869 (96.04.19)
 
 LIETUVOS
 
@@ -183,6 +183,20 @@ LIETUVOS
 
 RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-497, 97.11.06, Žin., 1997, Nr.106-2669 (97.11.21)
+
+LIETUVOS
+
+RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 15 IR 18 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -219,9 +233,9 @@ tenkinti vietos gyventojų poreikius.
 
 Savivaldybė
 
-- tai valstybės teritorijos administracinis vienetas, kurio gyventojų
+- tai valstybės teritorijos administracinis vienetas, kurio gyventojų bendruomenė
 
-bendruomenė turi valstybės laiduotą savivaldos teisę.
+turi valstybės laiduotą savivaldos teisę.
 
 Savivaldybės
 
@@ -357,9 +371,9 @@ institucijų  įgaliojimai pasibaigia, kai į pirmąjį posėdį  susirenka na
 
 išrinkta taryba. Pirmajame tarybos posėdyje atsistatydina meras, valdyba ir
 
-kontrolierius, o taryba paveda jiems eiti pareigas tol, kol nustatyta tvarka
+kontrolierius, o taryba paveda jiems eiti pareigas tol, kol nustatyta tvarka bus
 
-bus išrinkti ar paskirti nauji pareigūnai.
+išrinkti ar paskirti nauji pareigūnai.
 
 Jeigu savivaldybių tarybų rinkimų rezultatai pripažinti negaliojančiais,
 
@@ -441,9 +455,9 @@ Taryba
 
 ne rečiau kaip vieną kartą per metus turi informuoti gyventojus apie savo ir
 
-jos suformuotų institucijų veiklą, šalinti nurodytus darbo trūkumus, įgyvendinti
+jos suformuotų institucijų veiklą, šalinti nurodytus darbo trūkumus,
 
-konstruktyvius pasiūlymus.
+įgyvendinti konstruktyvius pasiūlymus.
 
 Pagrindinėje
 
@@ -581,7 +595,7 @@ pakeitimai:
 
 Nr.
 
-1-835, 95.04.04, Žin., 1995, Nr. 30-683 (95.04.07)
+I-835, 95.04.04, Žin., 1995, Nr. 30-683 (95.04.07)
 
 Nr.
 
@@ -1307,9 +1321,9 @@ sudėtis reglamentuota.
 
 Jeigu
 
-valdyba sudaroma, į ją pagal pareigas įeina meras ir mero pavaduotojas.
+valdyba sudaroma, į ją pagal pareigas įeina meras ir mero pavaduotojas. Valdybos
 
-Valdybos narių kandidatūras tarybai tvirtinti teikia meras.
+narių kandidatūras tarybai tvirtinti teikia meras.
 
 Valdybos
 
@@ -1873,9 +1887,11 @@ atskirų funkcijų vykdymo delegavimo;
 
 savivaldybės įrengimais, objektais bei gamtos ištekliais dydį;
 
-19) tvirtina savivaldybės teritorijos plėtojimo generalinį planą ir jo
+19) tvirtina savivaldybės teritorijos ir jos dalių bendruosius planus, taip pat
 
-pakeitimus, miestų ir miestelių plėtimo ir kūrimo generalines schemas;
+pagal kompetenciją detaliuosius planus, jų pakeitimus ir papildymus, priima
+
+sprendimus dėl savivaldybės teritorijos dalių bendrųjų planų rengimo;
 
 20) įstatymų nustatyta tvarka steigia ir tvarko savivaldybės saugomas
 
@@ -1939,6 +1955,10 @@ Nr.
 
 I-1330, 96.05.07, Žin., 1996, Nr.50-1196 (96.05.29)
 
+Nr.
+
+VIII-497, 97.11.06, Žin., 1997, Nr.106-2669 (97.11.21)
+
 16
 
 straipsnis. Valstybės deleguotoji kompetencija
@@ -1965,7 +1985,7 @@ pakeitimai:
 
 Nr.
 
-1-1033, 95.07.05, Žin., 1995, Nr. 59-1486 (95.07.19)
+I-1033, 95.07.05, Žin., 1995, Nr. 59-1486 (95.07.19)
 
 Nr.
 
@@ -2067,7 +2087,7 @@ pakeitimai:
 
 Nr.
 
-1-1262, 96.03.28, Žin., 1996, Nr. 35-869 (96.04.19)
+I-1262, 96.03.28, Žin., 1996, Nr. 35-869 (96.04.19)
 
 Nr.
 
@@ -2089,7 +2109,9 @@ gyventojams paslaugas;
 
 2)
 
-tarybai  įgaliojus skirsto  papildomas  savivaldybės biudžeto lėšas bei kitus išteklius;
+tarybai  įgaliojus skirsto  papildomas  savivaldybės biudžeto lėšas bei kitus
+
+išteklius;
 
 3)
 
@@ -2107,17 +2129,19 @@ teritorijoje;
 
 5)
 
-organizuoja teritorijos generalinio plano, jo pakeitimų projektų bei detalių
+organizuoja savivaldybės teritorijos ar jos dalių bendrąjį, pagal kompetenciją
 
-planų rengimą;
+specialųjį ir detalųjį planavimą, teritorijų planavimo dokumentų pakeitimų ir
 
-6)
+papildymų rengimą;
 
-kontroliuoja, kaip laikomasi visų objektų statybos, plėtimo ir rekonstrukcijos,
+6) organizuoja teritorijų planavimo dokumentų reikalavimų vykdymo kontrolę,
 
-pastatų ir teritorijos statybų, kraštovaizdžio, architektūros bei kultūros
+nustato planavimo sąlygas ir reikalavimus bendrajam, specialiajam ir detaliajam
 
-paminklų apsaugos reikalavimų;
+planavimui, tvirtina kompleksinį statybos dokumentą su projektavimo sąlygomis
+
+ir reikalavimais, derina parengtą statytos projektą;
 
 7)
 
@@ -2125,9 +2149,7 @@ teikia tarybai spręsti arba pati sprendžia socialinės ir gamybinės
 
 infrastruktūros  objektų projektavimo  ir statybos klausimus, prižiūri, kad
 
-būtų nustatyta jų eksploatavimo tvarka, o prireikus - atliekamos užsakovo
-
-funkcijos;
+būtų nustatyta jų eksploatavimo tvarka, o prireikus - atliekamos užsakovo funkcijos;
 
 8)
 
@@ -2215,6 +2237,10 @@ Nr.
 
 VIII-123, 97.02.25, Žin., 1997, Nr.20-446 (97.03.07)
 
+Nr.
+
+VIII-497, 97.11.06, Žin., 1997, Nr.106-2669 (97.11.21)
+
 19
 
 straipsnis. Seniūno kompetencija
@@ -2295,7 +2321,7 @@ pakeitimai:
 
 Nr.
 
-1-1041, 95.09.14, Žin., 1995, Nr. 79-1820 (95.09.27)
+I-1041, 95.09.14, Žin., 1995, Nr. 79-1820 (95.09.27)
 
 Nr.
 
@@ -2309,11 +2335,11 @@ Kontrolierius,
 
 neviršydamas Lietuvos Respublikos įstatymų ir tarybos sprendimų   nustatytų
 
-įgaliojimų,  prižiūri,  kaip naudojamos savivaldybės biudžeto lėšos, ar teisėtai,
+įgaliojimų,  prižiūri,  kaip naudojamos savivaldybės biudžeto lėšos, ar
 
-tikslingai ir efektyviai eksploatuojama  savivaldybės nuosavybė, taip pat
+teisėtai, tikslingai ir efektyviai eksploatuojama  savivaldybės nuosavybė, taip
 
-savivaldybei patikėta valstybės nuosavybė.
+pat savivaldybei patikėta valstybės nuosavybė.
 
 Kontrolieriaus
 
@@ -2341,9 +2367,7 @@ tarybos, jos komitetų, mero (valdybos, jeigu ji sudaroma) siūlymu arba  savo
 
 iniciatyva  organizuoja patikrinimus bei revizijas  administracijoje,
 
-savivaldybės  valstybinėse  ir valstybinėse akcinėse įmonėse, įstaigose,
-
-organizacijose;
+savivaldybės  valstybinėse  ir valstybinėse akcinėse įmonėse, įstaigose, organizacijose;
 
 4)
 
@@ -2387,11 +2411,11 @@ nuosavybės teisė atsiranda:
 
 1)
 
-perduodant įstatymų nustatyta tvarka valstybės nuosavybės objektus savivaldybės
+perduodant įstatymų nustatyta tvarka valstybės nuosavybės objektus
 
-nuosavybėn. Šiuo  atveju  gali  būti įstatymuose nustatytos disponavimo tokiais
+savivaldybės  nuosavybėn. Šiuo  atveju  gali  būti įstatymuose nustatytos
 
-objektais apribojimo sąlygos;
+disponavimo tokiais objektais apribojimo sąlygos;
 
 2)
 
@@ -2419,9 +2443,9 @@ savivaldybę ar keičiant Lietuvos Respublikos teritorijos administracinio
 
 vieneto ribas, kitai savivaldybei priskiriama ta savivaldybės nekilnojamojo
 
-turto dalis, kuri yra priskiriamojoje teritorijoje;  kitas jos  turtas ir
+turto dalis, kuri yra priskiriamojoje teritorijoje;  kitas jos  turtas ir  skolos
 
-skolos paskirstomos  savivaldybėms  proporcingai  iš  priskiriamos teritorijos
+paskirstomos  savivaldybėms  proporcingai  iš  priskiriamos teritorijos
 
 juridinių ir fizinių asmenų surenkamiems mokesčiams į savivaldybės biudžetą.
 
@@ -2453,7 +2477,7 @@ tvarka, kokia jis sudaromas ir tvirtinamas.
 
 Lietuvos
 
-valstybės  biudžeto ir  savivaldybių  biudžetų santykius reguliuoja Lietuvos
+valstybės  biudžeto ir  savivaldybių  biudžetų santykius reguliuoja Lietuvos
 
 Respublikos biudžetinės sandaros ir Lietuvos Respublikos mokesčių įstatymai.
 
@@ -2511,7 +2535,9 @@ I-1330, 96.05.07, Žin., 1996, Nr.50-1196 (96.05.29)
 
 V skyrius
 
-SAVIVALDYBIŲ SANTYKIAI SU VALSTYBĖS INSTITUCIJOMIS IR
+SAVIVALDYBIŲ SANTYKIAI SU VALSTYBĖS
+
+INSTITUCIJOMIS IR
 
 TARPTAUTINĖMIS ORGANIZACIJOMIS
 
@@ -2531,13 +2557,13 @@ institucijos  nėra  pavaldžios  valstybės institucijoms.
 
 Tais
 
-atvejais, kai su savivaldybės interesais susijusius reikalus svarsto
+atvejais, kai su savivaldybės interesais susijusius reikalus svarsto aukštesniosios
 
-aukštesniosios valstybės institucijos, jos apie tai privalo pranešti
+valstybės institucijos, jos apie tai privalo pranešti savivaldybei. Taryba
 
-savivaldybei. Taryba teikia pasiūlymus, kuriuos  privalo   išnagrinėti
+teikia pasiūlymus, kuriuos  privalo   išnagrinėti  aukštesniosios  valstybės
 
-aukštesniosios  valstybės institucijos.
+institucijos.
 
 Vyriausybė
 
@@ -2549,7 +2575,9 @@ savivaldybių pasiūlymus.
 
 Vyriausybė
 
-remia  savivaldybes rengiant,  tobulinant ir perkvalifikuojant savivaldybių tarnautojus.
+remia  savivaldybes rengiant,  tobulinant ir perkvalifikuojant savivaldybių
+
+tarnautojus.
 
 Savivaldybės
 
@@ -2681,7 +2709,7 @@ pakeitimai:
 
 Nr.
 
-1-1227, 96.03.14, Žin., 1996, Nr. 33-804 (96.04.12)
+I-1227, 96.03.14, Žin., 1996, Nr. 33-804 (96.04.12)
 
 30
 
@@ -2713,7 +2741,7 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS            ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                               ALGIRDAS BRAZAUSKAS
 
 16 straipsnis.
 
