@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2004-01-01"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2004-01-01 iki 2004-03-31
+Suvestinė redakcija nuo 2004-04-01 iki 2004-04-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -448,13 +448,11 @@ Nr. VIII-1309, 1999-07-07, Žin. 1999, Nr. 65-2088 (1999-07-28) ; Žin. 1999, Nr
 
 2) užtikrina branduolinių ir radioaktyviųjų medžiagų krovinių transportavimo per šalies teritoriją apsaugą.
 
-2. Krašto apsaugos ministerijos Civilinės saugos departamentas:
+2. Neteko galios nuo 2004-04-01
 
-1) sudaro Valstybinį gyventojų radiacinės apsaugos planą branduolinės avarijos atveju, pagal kurį savus branduolinės avarijos prevencijos ir avarijų likvidavimo bei pasekmių šalinimo planus rengia kitos nustatyta tvarka įpareigotos institucijos;
+Straipsnio dalies naikinimas:
 
-2) pagal savo kompetenciją įgyvendina avarijos ir jos pasekmių likvidavimo priemones;
-
-3) kartu su kitomis valstybės institucijomis organizuoja gyventojų apsaugos branduolinių avarijų atveju pratybas.
+Nr. IX-2003, 2004-02-05, Žin. 2004, Nr. 28-874 (2004-02-21), i. k. 1041010ISTA0IX-2003
 
 21 straipsnis. Vidaus reikalų ministerijos kompetencija
 
@@ -475,6 +473,18 @@ Vidaus reikalų ministerija:
 7) tiria branduolinių, radioaktyviųjų medžiagų, kitų dvigubos paskirties prekių grobimo bei neteisėto disponavimo atvejus;
 
 8) teikia paramą užtikrinant branduolinių ar radioaktyviųjų medžiagų krovinių transportavimo per šalies teritoriją apsaugą.
+
+2. Civilinės saugos departamentas prie Vidaus reikalų ministerijos:
+
+1) sudaro valstybinį gyventojų radiacinės apsaugos planą branduolinės avarijos atveju, pagal kurį savus branduolinės avarijos prevencijos ir avarijų likvidavimo bei pasekmių šalinimo planus rengia kitos nustatyta tvarka įpareigotos institucijos;
+
+2) pagal savo kompetenciją įgyvendina avarijos ir jos pasekmių likvidavimo priemones;
+
+3) kartu su kitomis valstybės institucijomis organizuoja gyventojų apsaugos branduolinių avarijų atveju pratybas.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2003, 2004-02-05, Žin., 2004, Nr. 28-874 (2004-02-21), i. k. 1041010ISTA0IX-2003
 
 22 straipsnis. Valstybės saugumo departamento kompetencija
 
@@ -1257,4 +1267,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
 
 Lietuvos Respublikos branduolinės energijos įstatymo 14, 17, 25, 28, 31 ir 32 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2003, 2004-02-05, Žin., 2004, Nr. 28-874 (2004-02-21), i. k. 1041010ISTA0IX-2003
+
+Lietuvos Respublikos branduolinės energijos įstatymo 20, 21 straipsnių pakeitimo ir papildymo įstatymas
 
