@@ -4,7 +4,7 @@ identifier: "TAR.70F4FFCAE536"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-25"
-last_updated: "2001-07-25"
+last_updated: "2003-11-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
 
-Suvestinė redakcija nuo 2001-07-25 iki 2003-11-04
+Suvestinė redakcija nuo 2003-11-05 iki 2005-12-21
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
 
@@ -189,7 +189,11 @@ Vaiko teisių apsaugos kontrolierius, atlikdamas savo pareigas, turi teisę:
 
 1. Vaiko teisių apsaugos kontrolierius kasmet ne vėliau kaip iki balandžio 1 d. privalo raštu pateikti Seimui savo įstaigos praėjusių kalendorinių metų veiklos ataskaitą.
 
-2. Vaiko teisių apsaugos kontrolierius įstaigos veiklos ataskaitą skelbia viešai.
+2. Visa ataskaita turi būti paskelbta Vaiko teisių apsaugos kontrolieriaus įstaigos interneto tinklalapyje, o esant galimybei, – ir per kitas visuomenės informavimo priemones.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1772, 2003-10-14, Žin., 2003, Nr. 104-4642 (2003-11-05), i. k. 1031010ISTA0IX-1772
 
 KETVIRTASIS SKIRSNIS
 
@@ -398,4 +402,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
 
 Lietuvos Respublikos valstybės kontrolės įstatymo, Teismų įstatymo, Konstitucinio Teismo įstatymo, Seimo kontrolierių įstatymo, Seimo narių darbo sąlygų įstatymo, Prokuratūros įstatymo, Tarnybos Lietuvos Respublikos prokuratūroje statuto, Moterų ir vyrų lygių galimybių įstatymo, Vaiko teisių apsaugos kontrolieriaus įstatymo pakeitimo ir papildymo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1772, 2003-10-14, Žin., 2003, Nr. 104-4642 (2003-11-05), i. k. 1031010ISTA0IX-1772
+
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 15 straipsnio pakeitimo įstatymas
 
