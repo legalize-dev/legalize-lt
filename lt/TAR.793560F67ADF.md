@@ -4,7 +4,7 @@ identifier: "TAR.793560F67ADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-03-21"
-last_updated: "2001-01-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2002-12-31
+Suvestinė redakcija nuo 2003-01-01 iki 2003-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
 
@@ -38,23 +38,37 @@ I. Mokesčių objektas ir mokėtojai
 
 II. Mokesčių tarifai ir jų nustatymo tvarka
 
-3 straipsnis. Juridiniai ir fiziniai asmenys moka nustatyto dydžio mokesčius pagal paimtų gamtos išteklių kiekį ir kokybę.
+3 straipsnis. Juridiniai ir fiziniai asmenys moka nustatyto dydžio mokesčius pagal paimtų arba potencialiai galimų išgauti (sunaudoti) gamtos išteklių kiekį ir kokybę.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1093, 2002-09-19, Žin., 2002, Nr. 96-4170 (2002-10-04), i. k. 1021010ISTA0IX-1093
 
 III. Mokesčių lengvatos
 
-4 straipsnis. Žemės naudotojai, ūkiniams reikalams (ne pardavimui) naudojantys statybinių medžiagų žaliavas ir vandenį, esančius jiems suteiktame sklype, nuo mokesčio atleidžiami.
+4 straipsnis. Žemės naudotojai, ūkiniams reikalams (ne pardavimui) naudojantys statybinių medžiagų žaliavas ir vandenį, esančius jiems suteiktame sklype, ir biologinio profilio mokslo ir mokymo įstaigos, vykdančios laukinės gyvūnijos, jos gyvenamosios aplinkos ir medžioklės mokslinius tyrimus bei studentų mokymą ir naudojančios medžiojamųjų gyvūnų išteklius, nuo mokesčio atleidžiami.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1093, 2002-09-19, Žin., 2002, Nr. 96-4170 (2002-10-04), i. k. 1021010ISTA0IX-1093
 
 IV. Mokesčio mokėjimo tvarka ir kontrolė
 
 5 straipsnis. Mokesčius pagal nustatytą formą apskaičiuoja ir moka gamtos išteklių naudotojas.
 
-6 straipsnis. Mokesčiai mokami avansu lygiomis metinių mokesčių sumos, kuri apskaičiuojama pagal numatomų sunaudoti išteklių kiekį, dalimis kas ketvirtį iki kito ketvirčio pirmo mėnesio 15 dienos. Metų gale mokesčių suma perskaičiuojama pagal faktiškai išgautų išteklių kiekį, ir iki vasario 1 dienos metiniai apskaičiavimai pateikiami valstybinei mokesčių inspekcijai.
+6 straipsnis. Mokesčiai už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, mokami avansu lygiomis metinių mokesčių sumos, kuri apskaičiuojama pagal numatomų sunaudoti išteklių kiekį, dalimis kas ketvirtį iki kito ketvirčio pirmo mėnesio 15 dienos. Metų gale mokesčių suma perskaičiuojama pagal faktiškai išgautų išteklių kiekį ir iki vasario 1 dienos metiniai apskaičiavimai pateikiami valstybinei mokesčių inspekcijai. Mokestis už medžiojamųjų gyvūnų išteklių naudojimą mokamas kas pusmetį lygiomis metinės mokesčio sumos dalimis.
 
-7 straipsnis. Aplinkos apsaugos ministerija kontroliuoja mokesčių apskaičiavimo teisingumą. Už nuslėptą išteklių kiekį mokamas mokestis ir taikoma dešimteriopo tarifo dydžio bauda.
+Straipsnio pakeitimai:
+
+Nr. IX-1093, 2002-09-19, Žin., 2002, Nr. 96-4170 (2002-10-04), i. k. 1021010ISTA0IX-1093
+
+7 straipsnis. Lietuvos Respublikos aplinkos ministerija ir jos regionų aplinkos apsaugos departamentai kartu su Valstybine mokesčių inspekcija prie Finansų ministerijos kontroliuoja mokesčių apskaičiavimo ir mokėjimo teisingumą. Už nuslėptą išteklių kiekį mokamas mokestis ir taikoma dešimteriopo tarifo dydžio bauda.
 
 Straipsnio pakeitimai:
 
 Nr. I-1313, 1996-04-30, Žin., 1996, Nr. 46-1108 (1996-05-17), i. k. 0961010ISTA00I-1313
+
+Nr. IX-1093, 2002-09-19, Žin., 2002, Nr. 96-4170 (2002-10-04), i. k. 1021010ISTA0IX-1093
 
 8 straipsnis. Juridiniams ir fiziniams asmenims, nustatyta tvarka nevykdantiems valstybinių gamtos išteklių apskaitos, naudojamų valstybinių gamtos išteklių kiekiai nustatomi pagal valstybinės aplinkos apsaugos kontrolės duomenis.
 
@@ -70,13 +84,17 @@ Straipsnio pakeitimai:
 
 Nr. I-1313, 1996-04-30, Žin., 1996, Nr. 46-1108 (1996-05-17), i. k. 0961010ISTA00I-1313
 
-11 straipsnis. Mokestis už valstybinius gamtos išteklius įskaitomas į gamybos kaštus ir mokamas į valstybės biudžetą.
+11 straipsnis. Mokestis už valstybinius gamtos išteklius mokamas į valstybės biudžetą, išskyrus mokestį už medžiojamųjų gyvūnų išteklių naudojimą. 70 procentų apskaičiuotos mokesčio už medžiojamųjų gyvūnų išteklių naudojimą mokėtinos sumos mokama į savivaldybės, kurios teritorijoje naudojami medžiojamųjų gyvūnų ištekliai, gamtos apsaugos fondą, o likę 30 procentų – į Valstybės iždo sąskaitą, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos.
 
-Lėšos už ekonomines sankcijas išieškomos iš mokėtojui liekančio pelno į Valstybės iždo sąskaitą, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos. Išieškotos lėšos naudojamos Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatyme numatytiems tikslams.
+Lėšos už ekonomines sankcijas išieškomos iš mokėtojui liekančio pelno į Valstybės iždo sąskaitą, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos.
+
+Valstybės iždo sąskaitos, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos, ir savivaldybių gamtos apsaugos fondų lėšos naudojamos Savivaldybės gamtos apsaugos fondo nuostatuose ir Aplinkos apsaugos rėmimo programos įstatyme numatytiems tikslams.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-2028, 2000-10-12, Žin., 2000, Nr. 90-2775 (2000-10-27), i. k. 1001010ISTAIII-2028
+
+Nr. IX-1093, 2002-09-19, Žin., 2002, Nr. 96-4170 (2002-10-04), i. k. 1021010ISTA0IX-1093
 
 LIETUVOS RESPUBLIKOS
 
@@ -105,4 +123,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2028, 2000-10-12, Žin., 2000, Nr. 90-2775 (2000-10-27), i. k. 1001010ISTAIII-2028
 
 Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 11 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1093, 2002-09-19, Žin., 2002, Nr. 96-4170 (2002-10-04), i. k. 1021010ISTA0IX-1093
+
+Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 3, 4, 6, 7, 11 straipsnių papildymo ir pakeitimo įstatymas
 
