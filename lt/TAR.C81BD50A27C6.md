@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "1998-11-24"
+last_updated: "1999-12-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 Įstatymas
 
-skelbtas: Žin., 1996, Nr. 66-1572
+skelbtas: Žin., 1996, Nr.66-1572
 
 Neoficialus
 
@@ -983,9 +983,9 @@ Sveikatos
 
 apsaugos ministerija:
 
-1) šio įstatymo nustatyta
+1) šio įstatymo nustatyta tvarka
 
-tvarka steigia, reorganizuoja ar likviduoja jai pavaldžias LNSS įstaigas;
+steigia, reorganizuoja ar likviduoja jai pavaldžias LNSS įstaigas;
 
 2)
 
@@ -1021,9 +1021,9 @@ biudžeto asignavimų LNSS įstaigoms;
 
 8)
 
-prognozuoja sveikatos priežiūros specialistų poreikį ir formuoja valstybės užsakymą
+prognozuoja sveikatos priežiūros specialistų poreikį ir formuoja valstybės
 
-rengti šiuos specialistus;
+užsakymą rengti šiuos specialistus;
 
 9)
 
@@ -1951,11 +1951,11 @@ reorganizavimą ir likvidavimą
 
 Biudžetinių
 
-įstaigų steigimo, veiklos, valdymo, reorganizavimo ir likvidavimo klausimus
+įstaigų steigimo, veiklos, valdymo, reorganizavimo ir likvidavimo klausimus reguliuoja
 
-reguliuoja Biudžetinių įstaigų įstatymas, Sveikatos sistemos įstatymas, šis ir
+Biudžetinių įstaigų įstatymas, Sveikatos sistemos įstatymas, šis ir kiti
 
-kiti įstatymai bei teisės aktai.
+įstatymai bei teisės aktai.
 
 22
 
@@ -2009,11 +2009,9 @@ audinių ir organų transplantacijos biuras, kurio steigėja yra Sveikatos
 
 apsaugos ministerija;
 
-4)
+4) teismo
 
-teismo psichiatrijos ir narkologijos bei teismo medicinos asmens ekspertizės
-
-įstaigos;
+psichiatrijos ir narkologijos bei teismo medicinos asmens ekspertizės įstaigos;
 
 5)
 
@@ -2737,9 +2735,9 @@ likviduotą įstaigą išregistruoja įstatymų nustatyta tvarka.
 
 3.
 
-Likvidatorius yra atsakingas įstaigai ir steigėjui (steigėjams) už nuostolius, kurie
+Likvidatorius yra atsakingas įstaigai ir steigėjui (steigėjams) už nuostolius,
 
-susidarė dėl jo kaltės.
+kurie susidarė dėl jo kaltės.
 
 39
 
@@ -3005,9 +3003,9 @@ prieinamumo, jų teikimo, socialinio teisingumo plėtojimo aktualioms problemoms
 
 spręsti.
 
-2. Iš
+2.
 
-savivaldybės biudžeto asignavimų, skirtų sveikatos priežiūrai:
+Iš savivaldybės biudžeto asignavimų, skirtų sveikatos priežiūrai:
 
 1)
 
@@ -3172,890 +3170,6 @@ protrūkius, kitus žalos pacientų sveikatai padarymo atvejus;
 teikti nemokamas planinės sveikatos priežiūros paslaugas, įsitikinus, kad
 
 pacientas turi teisę tokias paslaugas gauti.
-
-46
-
-straipsnis. Asmens sveikatos priežiūros įstaigų vidaus tvarkos taisyklės
-
-1. Asmens
-
-sveikatos priežiūros įstaigos privalo turėti vidaus tvarkos taisykles ir
-
-užtikrinti, kad jos būtų prieinamos pacientams susipažinti.
-
-2.
-
-Vidaus tvarkos taisyklėse turi būti nurodyta:
-
-1)
-
-pacientų kreipimosi į įstaigą tvarka;
-
-2)
-
-nemokamų paslaugų nomenklatūra ir asortimentas, jų teikimo tvarka;
-
-3)
-
-pacientų teisės ir pareigos įstaigoje;
-
-4)
-
-pacientų lankymo, išrašymo ir perkėlimo į kitas asmens sveikatos priežiūros
-
-įstaigas tvarka;
-
-5)
-
-ginčų ir konfliktų tarp įstaigos ir pacientų sprendimo tvarka;
-
-6)
-
-informacijos pacientui ir jo artimiesiems apie jo sveikatos būklę teikimo
-
-tvarka;
-
-7)
-
-ligos istorijų, ambulatorinių kortelių, kitų dokumentų nuorašų darymo, išdavimo
-
-pacientui ar kitiems fiziniams ir juridiniams asmenims tvarka;
-
-8)
-
-įstaigos administracijos, kitų pagalbinių tarnybų darbo laikas;
-
-9)
-
-darbų saugą reglamentuojančių įstatymų, kitų teisės aktų ir norminių dokumentų
-
-nuostatos;
-
-10)
-
-paciento turimų dirbinių iš brangiųjų metalų, brangių protezų ir pinigų
-
-registravimo bei saugojimo tvarka.
-
-3.
-
-Įstaigos darbuotojai privalo turėti pareigines instrukcijas.
-
-47
-
-straipsnis. Paciento guldymo į stacionarinę įstaigą tvarka
-
-1. Draudžiama
-
-paguldyti į stacionarinę įstaigą asmenį be jo sutikimo.
-
-2.
-
-Draudžiama paguldyti į stacionarinę įstaigą nepilnametį ar neveiksnų asmenį be
-
-jo įstatyminių atstovų sutikimo.
-
-3.
-
-Paciento ar jo įstatyminių atstovų sutikimo nereikia:
-
-1)
-
-kai yra grėsmė asmens gyvybei ir jis pats dėl to negali tokio sutikimo duoti;
-
-2)
-
-kai yra grėsmė nepilnamečio ar neveiksnaus asmens gyvybei, o jo įstatyminių
-
-atstovų negalima greitai surasti;
-
-3)
-
-kitais įstatymų numatytais atvejais.
-
-4.
-
-Asmens skubaus paguldymo į įstaigą tvarką nustato Sveikatos apsaugos
-
-ministerija.
-
-48
-
-straipsnis. Pacientų registravimas asmens sveikatos priežiūros įstaigose
-
-1. Įstaigos
-
-privalo tvarkyti pacientų apskaitą bei Sveikatos apsaugos ministerijai ar jos
-
-įgaliotai institucijai teikti pacientų sveikatos priežiūros patvirtintos formos
-
-ataskaitas. Turi būti tvarkoma kiekvieno paciento ligos ar slaugos istorija,
-
-ambulatorinė kortelė ar apie jo kreipimąsi turi būti pažymima registracijos
-
-žurnale. Šių dokumentų originalai saugomi įstaigoje.
-
-2.
-
-Pacientų apskaitos ir pacientų sveikatos priežiūros ataskaitų pateikimo tvarką
-
-nustato Sveikatos apsaugos ministerija.
-
-49
-
-straipsnis. Asmens sveikatos priežiūros įstaigos pareigos pacientui mirus
-
-1. Pacientui
-
-mirus, įstaiga privalo ne vėliau kaip per dvylika valandų pranešti apie tai jo
-
-šeimos nariams, jo įstatyminiams atstovams arba paciento prieš mirtį
-
-nurodytiems asmenims.
-
-2.
-
-Paciento mirties įstaigoje patvirtinimo tvarką nustato Sveikatos apsaugos
-
-ministerija.
-
-3.
-
-Pacientui mirus įstaigoje, patologoanatominis jo lavono tyrimas daromas, jei:
-
-1)
-
-reikalauja mirusiojo šeimos nariai ar jo įstatyminiai atstovai;
-
-2)
-
-mirtis staigi ar netikėta;
-
-3)
-
-neaiški mirties priežastis;
-
-4)
-
-mirštama po chirurginių intervencijų, diagnostikos ir gydymo procedūrų;
-
-5)
-
-mirštama nuo profesinių ar infekcinių ligų arba įtariama, jo g mirties
-
-priežastis profesinė ar infekcinė liga;
-
-6)
-
-miršta naujagimis ar vaikas;
-
-7)
-
-miršta nėščioji ar gimdyvė;
-
-8)
-
-miršta asmuo, neišbuvęs stacionare dvidešimt keturių valandų;
-
-9)
-
-kitais įstatymų numatytais atvejais.
-
-4.
-
-Pacientui mirus, jo lavono teisės medicinos ekspertizė daroma, jei:
-
-1)
-
-mirtis įvyksta nuo sužalojimo, apsinuodijimo ar kriminalinio aborto;
-
-2)
-
-nežinoma mirusiojo asmenybė;
-
-3)
-
-įtariama, jog staigios mirties priežastis yra smurtas;
-
-4)
-
-kitais būdais negalima nustatyti mirties priežasties;
-
-5)
-
-kitais įstatymų numatytais atvejais, gavus teisėsaugos institucijų reikalavimą.
-
-5.
-
-Įstaiga garantuoja mirusiojo kūno nemokamą apsaugą iki tol, kol jį atsiims
-
-mirusiojo šeimos nariai, jo įstatyminiai atstovai arba paciento prieš mirtį nurodyti
-
-asmenys, bet ne ilgiau kaip keturias paras po patologoanatominio tyrimo ar
-
-teisės medicinos ekspertizės.
-
-6.
-
-Pasibaigus šio straipsnio 5 dalyje nurodytam terminui, įstaiga mirusiojo kūną
-
-perduoda teritorinei lavoninei.
-
-50
-
-straipsnis. Visuomenės sveikatos priežiūros įstaigos pareigos
-
-1. Visuomenės
-
-sveikatos priežiūros įstaigoms privaloma:
-
-1)
-
-įgyvendinti būtinąsias visuomenės sveikatos priežiūros priemones;
-
-2)
-
-teikti tik tas paslaugas, kurios nurodytos įstaigai išduotoje licencijoje;
-
-3)
-
-naudoti tik tuos tyrimo metodus ir tik tas sveikatos priežiūros technologijas,
-
-kurios yra aprobuotos Lietuvos Respublikoje;
-
-4)
-
-išsaugoti fizinių ir juridinių asmenų komercinę paslaptį.
-
-2.
-
-Įstatymai ir kiti teisės aktai visuomenės sveikatos priežiūros įstaigoms gali
-
-nustatyti ir kitų pareigų.
-
-51
-
-straipsnis. Visuomenės sveikatos priežiūros įstaigų vidaus tvarkos taisyklės
-
-1. Visuomenės
-
-sveikatos priežiūros įstaigos privalo turėti įstaigos įstatų nustatyta tvarka
-
-patvirtintas vidaus tvarkos taisykles.
-
-2.
-
-Vidaus tvarkos taisyklėse turi būti nurodyta:
-
-1)
-
-juridinių ir fizinių asmenų kreipimosi į įstaigą tvarka;
-
-2)
-
-su įstaiga susijusių juridinių ir fizinių asmenų teisės ir pareigos;
-
-3)
-
-ginčų ir konfliktų tarp įstaigos ir juridinių ar fizinių asmenų sprendimo tvarka;
-
-4)
-
-informacijos suinteresuotiems juridiniams ir fiziniams asmenims apie įstaigos
-
-veiklą suteikimo tvarka;
-
-5)
-
-įstaigos darbo laikas ir jo paskirstymas.
-
-3.
-
-Šių įstaigų darbuotojai privalo turėti pareigines instrukcijas.
-
-III dalis
-
-Įstaigų veiklos kontrolė
-
-52
-
-straipsnis. Įstaigų teikiamų paslaugų valstybinė kontrolė
-
-1. Įstaigų,
-
-neatsižvelgiant į jų nuosavybės formą, teikiamų paslaugų valstybinę kontrolę
-
-atlieka:
-
-1)
-
-sveikatos apsaugos ministro paskirti pareigūnai;
-
-2)
-
-Valstybinė medicininio audito inspekcija - asmens sveikatos priežiūros paslaugų
-
-prieinamumo, kokybės (tinkamumo) ir ekonominio efektyvumo valstybinę kontrolę;
-
-3)
-
-Valstybinė ir teritorinė ligonių kasos - asmens sveikatos priežiūros paslaugų,
-
-apmokamų iš privalomojo sveikatos draudimo fondo biudžeto, kiekio ir kokybės
-
-kontrolę ir privalomojo sveikatos draudimo fondo lėšų naudojimo finansinę bei
-
-ekonominę analizę įstaigose, kurios sudariusios sutartis su teritorinėmis
-
-ligonių kasomis dėl paslaugų teikimo ir kompensavimo;
-
-4)
-
-Lietuvos medicinos etikos komitetas - asmens sveikatos priežiūros įstaigos
-
-teikiamų paslaugų atitikimo medicinos etikos reikalavimams valstybinę kontrolę;
-
-5)
-
-Valstybinė visuomenės sveikatos priežiūros tarnyba - paslaugų, teikiamų
-
-visuomenės sveikatos priežiūros įstaigose, prieinamumo, tinkamumo ir efektyvumo
-
-valstybinę kontrolę;
-
-6)
-
-Valstybinė higienos inspekcija prie Valstybinės visuomenės sveikatos priežiūros
-
-tarnybos - valstybinę higienos kontrolę.
-
-2.
-
-Valstybinė paslaugų kontrolė sveikatos priežiūros įstaigose, kurių steigėjai
-
-yra Krašto apsaugos ar Vidaus reikalų ministerijos, atliekama Vyriausybės ar
-
-jos įgaliotų institucijų nustatyta tvarka.
-
-53
-
-straipsnis. Valstybės institucijų, kontroliuojančių paslaugų teikimą, teisės ir
-
-pareigos
-
-1. Valstybės
-
-institucijų, nurodytų šio įstatymo 53 straipsnyje, vadovai ar jų paskirti
-
-pareigūnai (toliau - pareigūnai) turi teisę:
-
-1)
-
-bet kuriuo laiku, pateikę paskyrimo dokumentą įstaigos vadovui ar jį
-
-pavaduojančiam asmeniui, netrukdomi patekti į įstaigą ir tikrinti, ar nėra
-
-pažeidžiami teisės aktų ir normatyvinių dokumentų reikalavimai;
-
-2)
-
-reikalauti ir gauti visą reikalingą informaciją, dokumentus, medžiagą,
-
-laboratorinius mėginius, ligonių medicininių apžiūrų ir tyrimų duomenis,
-
-įstaigos vadovų ir kitų darbuotojų žodinius ir raštiškus paaiškinimus, kurie
-
-reikalingi patikrinimui atlikti;
-
-3)
-
-reikalauti, kad pacientams būtų atlikti papildomi tyrimai;
-
-4)
-
-teikti motyvuotą pasiūlymą sveikatos apsaugos ministrui ar jo įgaliotam
-
-asmeniui sustabdyti ar panaikinti gydytojo medicinos praktikos ar įstatymų
-
-nustatytų kitų licencijų verstis sveikatos priežiūra galiojimą;
-
-5)
-
-reikalauti iš įstaigos administracijos vadovo laikotarpiui iki vieno mėnesio
-
-nušalinti sveikatos priežiūros specialistus ir patikrinti jų profesinę
-
-kompetenciją, jei buvo nustatyti šių specialistų profesinės veiklos trūkumai,
-
-galėję lemti ar lėmę žalą ar pavojų pacientų sveikatai, arba jei sveikatos
-
-priežiūros specialistų kvalifikacija neatitinka nustatytų reikalavimų, arba šie
-
-specialistai dėl sveikatos būklės negali atlikti savo pareigų. Sveikatos
-
-priežiūros specialistų profesinės kompetencijos patikrinimo tvarką nustato
-
-Sveikatos apsaugos ministerija. Nušalinimo nuo darbo laikotarpiu sveikatos
-
-priežiūros specialistui darbo užmokesčio mokėjimas sustabdomas;
-
-6)
-
-įstatymų nustatyta tvarka patraukti įstaigos darbuotojus atsakomybėn už
-
-sveikatinimo įstatymų ir kitų teisės aktų pažeidimus.
-
-2.
-
-Įstaigos administracijos vadovui yra privalomas pareigūno reikalavimas
-
-nušalinti sveikatos priežiūros specialistą. Sveikatos priežiūros specialistas
-
-turi teisę tokį pareigūno sprendimą apskųsti Sveikatos apsaugos ministerijai, o
-
-ši privalo išnagrinėti skundą per septynias dienas nuo jo gavimo dienos.
-
-3.
-
-Pareigūnas per nustatytą terminą privalo pateikti tikrinimo aktą, išvadas ir
-
-rekomendacijas patikrinimą paskyrusios įstaigos vadovui ir tikrintos įstaigos
-
-vadovui.
-
-4.
-
-Trukdymas pareigūnui atlikti pareigas užtraukia įstaigos vadovui įstatymų
-
-nustatytą atsakomybę.
-
-5.
-
-Už tarnybinių įgaliojimų viršijimą pareigūnai atsako įstatymų nustatyta tvarka.
-
-54
-
-straipsnis. Paslaugų teikimo įstaigoje sustabdymas
-
-1. Akreditavimo
-
-tarnyba, Valstybinė medicininio audito inspekcija, Valstybinė visuomenės
-
-sveikatos priežiūros tarnyba bei Valstybinė higienos inspekcija pagal
-
-kompetenciją priimtais sprendimais turi teisę sustabdyti įstaigoje visų ar tam
-
-tikrų paslaugų teikimą, jeigu:
-
-1)
-
-įstaiga arba jos padalinys (filialas) verčiasi veikla, kuriai neturi licencijos
-
-ar akreditavimo pažymėjimo;
-
-2)
-
-įstaigos arba jos padalinio (filialo) atliekama sveikatos priežiūra neatitinka
-
-teisės aktų ar normatyvinių dokumentų reikalavimų ir dėl to yra realus pavojus
-
-pacientų sveikatai arba daroma žala žmonių sveikatai, nuostoliai juridiniams ir
-
-fiziniams asmenims;
-
-3)
-
-įstaiga nėra įregistruota Įstaigų registre arba įregistruota pažeidžiant šio
-
-įstatymo reikalavimus ir daugiau kaip tris mėnesius nevykdo Įstaigų registro
-
-tvarkytojo reikalavimų;
-
-4)
-
-įstaigoje sveikatos priežiūrą atlieka asmenys, neturintys tam teisės;
-
-5)
-
-įstaigos ar jos padalinio patalpos, jų eksploatavimas, sveikatos priežiūros
-
-technologijos neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų.
-
-2.
-
-Įstaigos paslaugų teikimas gali būti sustabdomas ne ilgiau kaip trims
-
-mėnesiams. Šio straipsnio 1 dalyje nurodytos valstybinės institucijos,
-
-priėmusios tokį sprendimą, privalo raštu informuoti įstaigos vadovą apie
-
-konkrečius sprendimo motyvus bei terminą pažeidimams ar trūkumams pašalinti.
-
-3.
-
-Įstaigos vadovai, nevykdantys priimtų pagal šį įstatymą sprendimų sustabdyti
-
-visų ar dalies paslaugų teikimą, atsako įstatymų nustatyta tvarka.
-
-4.
-
-Sustabdžius asmens sveikatos priežiūros įstaigoje paslaugų teikimą, įstaigos
-
-pacientai Sveikatos apsaugos ministerijos nustatyta tvarka perkeliami
-
-(perregistruojami) į kitas įstaigas.
-
-5.
-
-Įstaiga per šio straipsnio 1 dalyje nurodytų valstybės institucijų nustatytą
-
-terminą privalo pašalinti trūkumus. Pašalinus trūkumus, įstaigos veikla šio
-
-straipsnio 1 dalyje nurodytų valstybės institucijų įsakymu gali būti
-
-atnaujinta.
-
-6.
-
-Jei per nustatytą terminą įstaiga trūkumų nepašalina, paslaugų teikimą
-
-sustabdžiusi institucija kreipiasi į Akreditavimo tarnybą dėl įstaigos
-
-licencijos galiojimo panaikinimo ir į Sveikatos apsaugos ministeriją dėl
-
-įstaigos valdymo organų nušalinimo ir laikinojo administratoriaus paskyrimo.
-
-55
-
-straipsnis. Įstaigos valdymo organų nušalinimo ir laikinojo administratoriaus
-
-skyrimo
-
-tvarka
-
-1. Įstaigos
-
-valdymo organai nušalinami ir laikinasis administratorius skiriamas, jeigu:
-
-1)
-
-įstaiga nepašalina nustatytų pažeidimų ar trūkumų ir dėl to iškyla grėsmė, kad
-
-jos teikiamos paslaugos bus netinkamos bei kenks pacientų sveikatai, tačiau dar
-
-yra reali galimybė pataisyti padėtį;
-
-2)
-
-įstaigoje tais pačiais metais pasikartoja hospitalinės infekcijos protrūkis dėl
-
-įstaigos administracijos organizacinės veiklos trūkumų;
-
-3) įstaigoje
-
-tais pačiais kalendoriniais metais yra daugiau kaip vienas mirties atvejis dėl
-
-įstaigos specialisto ar specialistų kaltės.
-
-2. Laikinasis
-
-administratorius skiriamas laikotarpiui iki šešių mėnesių. Laikinojo
-
-administratoriaus prašymu sveikatos apsaugos ministras gali pratęsti šį terminą
-
-iki vienerių metų.
-
-56
-
-straipsnis. Įstaigos laikinasis administratorius
-
-1. Įstaigos
-
-laikinasis administratorius - tai įstaigos valdymo organų nušalinimo
-
-laikotarpiui sveikatos apsaugos ministro skiriamas sveikatos priežiūros
-
-įstaigos vadovas. Įstaigų laikinųjų administratorių kvalifikacinius
-
-reikalavimus nustato Sveikatos apsaugos ministerija. Laikinuoju
-
-administratoriumi negali būti įstaigos, kurios valdymo organai nušalinti,
-
-darbuotojas. Darbo sutartį su įstaigos laikinuoju administratoriumi
-
-sudaro ir ją nutraukia sveikatos apsaugos ministras ar jo įgaliotas atstovas.
-
-2.
-
-Nuo laikinojo administratoriaus paskyrimo dienos visi įstaigos valdymo organų
-
-įgaliojimai pereina laikinajam administratoriui.
-
-3.
-
-Laikinasis administratorius turi teisę nutraukti ar sudaryti darbo sutartis su
-
-įstaigos valdymo organų nariais ir kitais darbuotojais.
-
-4.
-
-Laikinajam administratoriui neprivalomi įstaigos steigėjo ar savininko
-
-sprendimai, išskyrus šio straipsnio 5 dalyje nurodytus atvejus.
-
-5.
-
-Laikinasis administratorius be įstaigos steigėjo ar savininko įgaliojimų ar
-
-sutikimo negali parduoti ar kitaip perleisti, įkeisti turto, reorganizuoti ar
-
-likviduoti įstaigos, spręsti kitų įstaigos steigėjo ar savininko išimtinei
-
-kompetencijai priklausančių klausimų.
-
-6.
-
-Apie administravimo eigą ir rezultatus laikinasis administratorius privalo
-
-informuoti sveikatos apsaugos ministrą, Akreditavimo tarnybą ir įstaigos
-
-steigėją ar savininką jų nustatytais terminais ir tvarka.
-
-7.
-
-Laikinasis administratorius privalo paskirti įstaigos reviziją ir atlikti
-
-higienos, epidemiologinę, darbų saugos ir medicininio audito ekspertizę.
-
-Ekspertizės turi būti atliktos per 3 mėnesius nuo laikinojo administratoriaus
-
-paskyrimo dienos.
-
-8.
-
-Revizijos metu nustačius įstatymų, kitų teisės aktų ar normatyvinių dokumentų
-
-pažeidimus, laikinasis administratorius kreipiasi į Akreditavimo tarnybą dėl
-
-licencijos galiojimo panaikinimo ir informuoja apie tai Sveikatos apsaugos
-
-ministeriją.
-
-9.
-
-Laikinasis administratorius už žalą įstaigai, atsiradusią dėl jo kaltės, atsako
-
-įstatymų nustatyta tvarka.
-
-57
-
-straipsnis. Įstaigos laikinojo administratoriaus atšaukimas
-
-Įstaigos
-
-laikinasis administratorius sveikatos apsaugos ministro įsakymu atšaukiamas
-
-prieš terminą, jeigu;
-
-1)
-
-Akreditavimo tarnyba nustato, kad įstaiga gali patikimai ir stabiliai veikti;
-
-2)
-
-panaikintas įstaigos licencijos galiojimas.
-
-58
-
-straipsnis. Įstaigų veiklą kontroliuojančių valstybės institucijų teisės
-
-1. Šiame
-
-įstatyme nurodytos įstaigų veiklą kontroliuojančios valstybės institucijos
-
-pagal kompetenciją turi teisę:
-
-1)
-
-įspėti įstaigą dėl jos veiklos trūkumų ir pažeidimų bei nustatyti jų pašalinimo
-
-terminus;
-
-2)
-
-įstatymų nustatyta tvarka skirti įstaigos vadovams ir darbuotojams
-
-administracines nuobaudas;
-
-3)
-
-reikalauti, kad būtų patikrinta įstaigos sveikatos priežiūros specialistų
-
-profesinė kvalifikacija;
-
-4)
-
-sustabdyti visų ar dalies paslaugų teikimą;
-
-5)
-
-turėti kitas šiame ir kituose įstatymuose nustatytas teises.
-
-2.
-
-Šiame įstatyme nurodytos įstaigų veiklą kontroliuojančios valstybės
-
-institucijos taiko įstaigoms kontrolės priemones ir sankcijas, atsižvelgdamos į
-
-pažeidimo, kurio pagrindu taikoma kontrolės priemonė, turinį.
-
-3.
-
-Šiame įstatyme nurodytų įstaigų veiklą kontroliuojančių valstybės institucijų
-
-sprendimai dėl kontrolės priemonių ar sankcijų taikymo gali būti per trisdešimt
-
-dienų skundžiami įstatymo nustatyta tvarka. Apskundimas nesustabdo įstaigų
-
-veiklą kontroliuojančių valstybės institucijų, nurodytų šiame įstatyme,
-
-nutarimų vykdymo.
-
-59
-
-straipsnis. Įstaigų veiklos kontrolės priemonių taikymo pagrindai ir tvarka
-
-1. Šiame
-
-įstatyme nurodytos įstaigų veiklą kontroliuojančios valstybės institucijos
-
-priima sprendimą dėl šiame įstatyme numatytų įstaigų kontrolės priemonių ir
-
-sankcijų taikymo, jeigu yra bent vienas iš šių pagrindų:
-
-1)
-
-šiame įstatyme nurodytoms įstaigų veiklą kontroliuojančioms valstybės
-
-institucijoms nepateikta įstaigų veiklos kontrolei atlikti būtina informacija
-
-ar dokumentai arba ši informacija ir dokumentai neatitinka tikrovės;
-
-2)
-
-pažeisti įstatymai ir kitų teisės aktų ar normatyvinių dokumentų,
-
-reguliuojančių įstaigų veiklą, reikalavimai.
-
-2.
-
-Klausimas dėl kontrolės priemonės taikymo įstaigai svarstomas dalyvaujant jos
-
-atstovams. Jeigu įstaigos atstovai neatvyksta į klausimo svarstymą, sprendimas
-
-taikyti kontrolės priemonę priimamas be jų.
-
-3.
-
-Sprendimas dėl įstaigų kontrolės priemonių taikymo, išskyrus pagal nurodytą šio
-
-įstatymo 58 straipsnio 1 dalies 2 punktą, privalo būti priimtas per tris
-
-mėnesius nuo pažeidimo nustatymo dienos. Už pažeidimus, nuo kurių padarymo
-
-dienos praėjo daugiau kaip vieneri metai, kontrolės priemonės negali būti
-
-taikomos.
-
-60
-
-straipsnis. Uždarosios biudžetinės įstaigos veiklos kontrolė
-
-Uždarosios
-
-biudžetinės įstaigos veiklos kontrolė atliekama Vyriausybės ar jos įgaliotų
-
-institucijų nustatyta tvarka.
-
-61
-
-straipsnis. Baigiamosios nuostatos
-
-1. Veikiančios
-
-asmens sveikatos priežiūros įstaigos vykdomai sveikatos priežiūrai turi gauti
-
-licencijas iki 1999 metų gruodžio 31 dienos. Šių įstaigų atliekama sveikatos priežiūra
-
-be licencijos nuo 2000 metų sausio 1 dienos yra neteisėta.
-
-2.
-
-Veikiančios visuomenės sveikatos priežiūros įstaigos vykdomai visuomenės
-
-sveikatos priežiūrai turi gauti licencijas iki 2000 metų gruodžio 31 dienos.
-
-Šių įstaigų atliekama visuomenės sveikatos priežiūra be licencijos nuo 2001
-
-metų sausio 1 dienos yra neteisėta.
-
-3. LNSS
-
-viešųjų ir biudžetinių įstaigų vadovai turi būti atestuojami per trejus metus
-
-nuo šio įstatymo įsigaliojimo.
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                ALGIRDAS
-
-BRAZAUSKAS
-
-_____________
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-288,
-
-97.06.24, Žin., 1997, Nr.62-1462 (97.07.01)
-
-LIETUVOS
-
-RESPUBLIKOS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Nauja
-
-įstatymo redakcija
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-940, 98.11.24, Žin., 1998,
-
-Nr.109-2995 (98.12.11)
-
-SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAKEITIMO
-
-ĮSTATYMAS
-
-Nauja
-
-įstatymo redakcija
-
-*** Pabaiga ***
-
-Redagavo: Aušrinė Trapinskienė (2000.08.16)
 
 21 straipsnis. LNSS biudžetinės įstaigos
 
@@ -5093,103 +4207,809 @@ LNSS įstaigų
 
 finansavimo ir materialinio aprūpinimo ypatumai
 
-46 straipsnis. LNSS įstaigų finansavimas iš
+46 straipsnis.
 
-valstybės ir savivaldybių
+Asmens sveikatos priežiūros įstaigų vidaus tvarkos taisyklės
 
-biudžetų
+1. Asmens
 
-1. Iš valstybės biudžeto asignavimų, skirtų
+sveikatos priežiūros įstaigos privalo turėti vidaus tvarkos taisykles ir
 
-sveikatos priežiūrai:
+užtikrinti, kad jos būtų prieinamos pacientams susipažinti.
 
-1) išlaikomos šio ir kitų įstatymų numatytos
+2.
 
-uždarosios biudžetinės įstaigos;
+Vidaus tvarkos taisyklėse turi būti nurodyta:
 
-2) išlaikomos šio įstatymo 24 straipsnio 1
+1)
 
-dalies 1-8 punktuose ir 25 straipsnio 2 dalies 1-4 punktuose numatytos
+pacientų kreipimosi į įstaigą tvarka;
 
-valstybės biudžetinės įstaigos;
+2)
 
-3) finansuojama pabėgėlių, nelegalių
+nemokamų paslaugų nomenklatūra ir asortimentas, jų teikimo tvarka;
 
-imigrantų asmens ir visuomenės sveikatos priežiūra;
+3)
 
-4) finansuojamos Sveikatos apsaugos
+pacientų teisės ir pareigos įstaigoje;
 
-ministerijos kartu su Vidaus reikalų ministerija ar Krašto apsaugos ministerija
+4)
 
-nustatytos visuomenės sveikatos priežiūros priemonės Krašto apsaugos
+pacientų lankymo, išrašymo ir perkėlimo į kitas asmens sveikatos priežiūros
 
-ministerijai ir Vidaus reikalų ministerijai pavaldžiuose daliniuose ir
+įstaigas tvarka;
 
-įstaigose;
+5)
 
-5) finansuojamos visuomenės sveikatos
+ginčų ir konfliktų tarp įstaigos ir pacientų sprendimo tvarka;
 
-priežiūros priemonės, skirtos užkirsti kelią pavojingoms ir ypač pavojingoms
+6)
 
-užkrečiamosioms ligoms atsirasti ir paplisti, užkrečiamųjų ligų protrūkiams ir
+informacijos pacientui ir jo artimiesiems apie jo sveikatos būklę teikimo
 
-epidemijoms likviduoti, taip pat užkirsti kelią radiacinių avarijų ir
+tvarka;
 
-ekologinių nelaimių medicininėms pasekmėms atsirasti, ir priemonės jas
+7)
 
-likviduoti;
+ligos istorijų, ambulatorinių kortelių, kitų dokumentų nuorašų darymo, išdavimo
 
-6) finansuojamos privalomosios valstybinės
+pacientui ar kitiems fiziniams ir juridiniams asmenims tvarka;
 
-sveikatos programos;
+8)
 
-7) finansuojami medicinos mokslo taikomieji
+įstaigos administracijos, kitų pagalbinių tarnybų darbo laikas;
 
-tyrimai pagal Sveikatos apsaugos ministerijos patvirtintas prioritetines
+9)
 
-programas, jei šie tyrimai skirti spręsti LNSS valdymo ir gyventojų sveikatos
+darbų saugą reglamentuojančių įstatymų, kitų teisės aktų ir norminių dokumentų
 
-saugos, grąžinimo ir stiprinimo, paslaugų tinkamumo, prieinamumo, jų teikimo,
+nuostatos;
 
-socialinio teisingumo plėtojimo aktualias problemas.
+10)
 
-2. Iš savivaldybės biudžetų asignavimų,
+paciento turimų dirbinių iš brangiųjų metalų, brangių protezų ir pinigų
 
-skirtų sveikatos priežiūrai:
+registravimo bei saugojimo tvarka.
 
-1) išlaikomos šio įstatymo 24 straipsnio 1-2
+3.
 
-punktuose ir 25 straipsnio 1 dalyje numatytos savivaldybių biudžetinės
+Įstaigos darbuotojai privalo turėti pareigines instrukcijas.
 
-įstaigos;
+47
 
-2) teikiama papildoma parama savivaldybių
+straipsnis. Paciento guldymo į stacionarinę įstaigą tvarka
 
-tarybų nustatytų kategorijų socialiai remtinų asmenų sveikatos priežiūrai;
+1. Draudžiama
 
-3) finansuojamos privalomosios savivaldybių
+paguldyti į stacionarinę įstaigą asmenį be jo sutikimo.
 
-sveikatos programos;
+2.
 
-4) finansuojamos Sveikatos apsaugos
+Draudžiama paguldyti į stacionarinę įstaigą nepilnametį ar neveiksnų asmenį be
 
-ministerijos nustatytos pirminės visuomenės sveikatos priežiūros priemonės.
+jo įstatyminių atstovų sutikimo.
 
-Šios priemonės turi būti suderintos su Lietuvos savivaldybių asociacija.
+3.
 
-3. Viešosios įstaigos turi teisę gauti
+Paciento ar jo įstatyminių atstovų sutikimo nereikia:
 
-valstybės ir savivaldybių biudžetų lėšų paslaugoms teikti pagal sveikatos
+1)
 
-priežiūros sutartis su Sveikatos apsaugos ministerija, apskrities viršininku,
+kai yra grėsmė asmens gyvybei ir jis pats dėl to negali tokio sutikimo duoti;
 
-savivaldybės meru.
+2)
 
-4. LNSS įstaigų nepaprastosios išlaidos gali
+kai yra grėsmė nepilnamečio ar neveiksnaus asmens gyvybei, o jo įstatyminių
 
-būti finansuojamos iš valstybės ar savivaldybių biudžetų ir per valstybės
+atstovų negalima greitai surasti;
 
-investicijų programas.
+3)
+
+kitais įstatymų numatytais atvejais.
+
+4.
+
+Asmens skubaus paguldymo į įstaigą tvarką nustato Sveikatos apsaugos
+
+ministerija.
+
+48
+
+straipsnis. Pacientų registravimas asmens sveikatos priežiūros įstaigose
+
+1. Įstaigos
+
+privalo tvarkyti pacientų apskaitą bei Sveikatos apsaugos ministerijai ar jos
+
+įgaliotai institucijai teikti pacientų sveikatos priežiūros patvirtintos formos
+
+ataskaitas. Turi būti tvarkoma kiekvieno paciento ligos ar slaugos istorija,
+
+ambulatorinė kortelė ar apie jo kreipimąsi turi būti pažymima registracijos
+
+žurnale. Šių dokumentų originalai saugomi įstaigoje.
+
+2.
+
+Pacientų apskaitos ir pacientų sveikatos priežiūros ataskaitų pateikimo tvarką
+
+nustato Sveikatos apsaugos ministerija.
+
+49
+
+straipsnis. Asmens sveikatos priežiūros įstaigos pareigos pacientui mirus
+
+1. Pacientui
+
+mirus, įstaiga privalo ne vėliau kaip per dvylika valandų pranešti apie tai jo
+
+šeimos nariams, jo įstatyminiams atstovams arba paciento prieš mirtį
+
+nurodytiems asmenims.
+
+2.
+
+Paciento mirties įstaigoje patvirtinimo tvarką nustato Sveikatos apsaugos
+
+ministerija.
+
+3.
+
+Pacientui mirus įstaigoje, patologoanatominis jo lavono tyrimas daromas, jei:
+
+1)
+
+reikalauja mirusiojo šeimos nariai ar jo įstatyminiai atstovai;
+
+2)
+
+mirtis staigi ar netikėta;
+
+3)
+
+neaiški mirties priežastis;
+
+4)
+
+mirštama po chirurginių intervencijų, diagnostikos ir gydymo procedūrų;
+
+5)
+
+mirštama nuo profesinių ar infekcinių ligų arba įtariama, jo g mirties
+
+priežastis profesinė ar infekcinė liga;
+
+6)
+
+miršta naujagimis ar vaikas;
+
+7)
+
+miršta nėščioji ar gimdyvė;
+
+8)
+
+miršta asmuo, neišbuvęs stacionare dvidešimt keturių valandų;
+
+9)
+
+kitais įstatymų numatytais atvejais.
+
+4.
+
+Pacientui mirus, jo lavono teisės medicinos ekspertizė daroma, jei:
+
+1)
+
+mirtis įvyksta nuo sužalojimo, apsinuodijimo ar kriminalinio aborto;
+
+2)
+
+nežinoma mirusiojo asmenybė;
+
+3)
+
+įtariama, jog staigios mirties priežastis yra smurtas;
+
+4)
+
+kitais būdais negalima nustatyti mirties priežasties;
+
+5)
+
+kitais įstatymų numatytais atvejais, gavus teisėsaugos institucijų reikalavimą.
+
+5.
+
+Įstaiga garantuoja mirusiojo kūno nemokamą apsaugą iki tol, kol jį atsiims
+
+mirusiojo šeimos nariai, jo įstatyminiai atstovai arba paciento prieš mirtį
+
+nurodyti asmenys, bet ne ilgiau kaip keturias paras po patologoanatominio
+
+tyrimo ar teisės medicinos ekspertizės.
+
+6.
+
+Pasibaigus šio straipsnio 5 dalyje nurodytam terminui, įstaiga mirusiojo kūną
+
+perduoda teritorinei lavoninei.
+
+50
+
+straipsnis. Visuomenės sveikatos priežiūros įstaigos pareigos
+
+1. Visuomenės
+
+sveikatos priežiūros įstaigoms privaloma:
+
+1)
+
+įgyvendinti būtinąsias visuomenės sveikatos priežiūros priemones;
+
+2)
+
+teikti tik tas paslaugas, kurios nurodytos įstaigai išduotoje licencijoje;
+
+3)
+
+naudoti tik tuos tyrimo metodus ir tik tas sveikatos priežiūros technologijas,
+
+kurios yra aprobuotos Lietuvos Respublikoje;
+
+4)
+
+išsaugoti fizinių ir juridinių asmenų komercinę paslaptį.
+
+2.
+
+Įstatymai ir kiti teisės aktai visuomenės sveikatos priežiūros įstaigoms gali
+
+nustatyti ir kitų pareigų.
+
+51
+
+straipsnis. Visuomenės sveikatos priežiūros įstaigų vidaus tvarkos taisyklės
+
+1. Visuomenės
+
+sveikatos priežiūros įstaigos privalo turėti įstaigos įstatų nustatyta tvarka
+
+patvirtintas vidaus tvarkos taisykles.
+
+2.
+
+Vidaus tvarkos taisyklėse turi būti nurodyta:
+
+1)
+
+juridinių ir fizinių asmenų kreipimosi į įstaigą tvarka;
+
+2)
+
+su įstaiga susijusių juridinių ir fizinių asmenų teisės ir pareigos;
+
+3)
+
+ginčų ir konfliktų tarp įstaigos ir juridinių ar fizinių asmenų sprendimo tvarka;
+
+4)
+
+informacijos suinteresuotiems juridiniams ir fiziniams asmenims apie įstaigos
+
+veiklą suteikimo tvarka;
+
+5)
+
+įstaigos darbo laikas ir jo paskirstymas.
+
+3.
+
+Šių įstaigų darbuotojai privalo turėti pareigines instrukcijas.
+
+III dalis
+
+Įstaigų veiklos kontrolė
+
+52
+
+straipsnis. Įstaigų teikiamų paslaugų valstybinė kontrolė
+
+1. Įstaigų,
+
+neatsižvelgiant į jų nuosavybės formą, teikiamų paslaugų valstybinę kontrolę
+
+atlieka:
+
+1)
+
+sveikatos apsaugos ministro paskirti pareigūnai;
+
+2)
+
+Valstybinė medicininio audito inspekcija - asmens sveikatos priežiūros paslaugų
+
+prieinamumo, kokybės (tinkamumo) ir ekonominio efektyvumo valstybinę kontrolę;
+
+3)
+
+Valstybinė ir teritorinė ligonių kasos - asmens sveikatos priežiūros paslaugų,
+
+apmokamų iš privalomojo sveikatos draudimo fondo biudžeto, kiekio ir kokybės
+
+kontrolę ir privalomojo sveikatos draudimo fondo lėšų naudojimo finansinę bei
+
+ekonominę analizę įstaigose, kurios sudariusios sutartis su teritorinėmis
+
+ligonių kasomis dėl paslaugų teikimo ir kompensavimo;
+
+4)
+
+Lietuvos medicinos etikos komitetas - asmens sveikatos priežiūros įstaigos
+
+teikiamų paslaugų atitikimo medicinos etikos reikalavimams valstybinę kontrolę;
+
+5)
+
+Valstybinė visuomenės sveikatos priežiūros tarnyba - paslaugų, teikiamų
+
+visuomenės sveikatos priežiūros įstaigose, prieinamumo, tinkamumo ir efektyvumo
+
+valstybinę kontrolę;
+
+6)
+
+Valstybinė higienos inspekcija prie Valstybinės visuomenės sveikatos priežiūros
+
+tarnybos - valstybinę higienos kontrolę.
+
+2.
+
+Valstybinė paslaugų kontrolė sveikatos priežiūros įstaigose, kurių steigėjai
+
+yra Krašto apsaugos ar Vidaus reikalų ministerijos, atliekama Vyriausybės ar
+
+jos įgaliotų institucijų nustatyta tvarka.
+
+53
+
+straipsnis. Valstybės institucijų, kontroliuojančių paslaugų teikimą, teisės ir
+
+pareigos
+
+1. Valstybės
+
+institucijų, nurodytų šio įstatymo 53 straipsnyje, vadovai ar jų paskirti
+
+pareigūnai (toliau - pareigūnai) turi teisę:
+
+1)
+
+bet kuriuo laiku, pateikę paskyrimo dokumentą įstaigos vadovui ar jį
+
+pavaduojančiam asmeniui, netrukdomi patekti į įstaigą ir tikrinti, ar nėra
+
+pažeidžiami teisės aktų ir normatyvinių dokumentų reikalavimai;
+
+2)
+
+reikalauti ir gauti visą reikalingą informaciją, dokumentus, medžiagą,
+
+laboratorinius mėginius, ligonių medicininių apžiūrų ir tyrimų duomenis,
+
+įstaigos vadovų ir kitų darbuotojų žodinius ir raštiškus paaiškinimus, kurie
+
+reikalingi patikrinimui atlikti;
+
+3)
+
+reikalauti, kad pacientams būtų atlikti papildomi tyrimai;
+
+4)
+
+teikti motyvuotą pasiūlymą sveikatos apsaugos ministrui ar jo įgaliotam
+
+asmeniui sustabdyti ar panaikinti gydytojo medicinos praktikos ar įstatymų
+
+nustatytų kitų licencijų verstis sveikatos priežiūra galiojimą;
+
+5)
+
+reikalauti iš įstaigos administracijos vadovo laikotarpiui iki vieno mėnesio
+
+nušalinti sveikatos priežiūros specialistus ir patikrinti jų profesinę
+
+kompetenciją, jei buvo nustatyti šių specialistų profesinės veiklos trūkumai,
+
+galėję lemti ar lėmę žalą ar pavojų pacientų sveikatai, arba jei sveikatos
+
+priežiūros specialistų kvalifikacija neatitinka nustatytų reikalavimų, arba šie
+
+specialistai dėl sveikatos būklės negali atlikti savo pareigų. Sveikatos
+
+priežiūros specialistų profesinės kompetencijos patikrinimo tvarką nustato
+
+Sveikatos apsaugos ministerija. Nušalinimo nuo darbo laikotarpiu sveikatos
+
+priežiūros specialistui darbo užmokesčio mokėjimas sustabdomas;
+
+6)
+
+įstatymų nustatyta tvarka patraukti įstaigos darbuotojus atsakomybėn už
+
+sveikatinimo įstatymų ir kitų teisės aktų pažeidimus.
+
+2.
+
+Įstaigos administracijos vadovui yra privalomas pareigūno reikalavimas
+
+nušalinti sveikatos priežiūros specialistą. Sveikatos priežiūros specialistas
+
+turi teisę tokį pareigūno sprendimą apskųsti Sveikatos apsaugos ministerijai, o
+
+ši privalo išnagrinėti skundą per septynias dienas nuo jo gavimo dienos.
+
+3.
+
+Pareigūnas per nustatytą terminą privalo pateikti tikrinimo aktą, išvadas ir
+
+rekomendacijas patikrinimą paskyrusios įstaigos vadovui ir tikrintos įstaigos
+
+vadovui.
+
+4.
+
+Trukdymas pareigūnui atlikti pareigas užtraukia įstaigos vadovui įstatymų
+
+nustatytą atsakomybę.
+
+5.
+
+Už tarnybinių įgaliojimų viršijimą pareigūnai atsako įstatymų nustatyta tvarka.
+
+54
+
+straipsnis. Paslaugų teikimo įstaigoje sustabdymas
+
+1. Akreditavimo
+
+tarnyba, Valstybinė medicininio audito inspekcija, Valstybinė visuomenės
+
+sveikatos priežiūros tarnyba bei Valstybinė higienos inspekcija pagal
+
+kompetenciją priimtais sprendimais turi teisę sustabdyti įstaigoje visų ar tam
+
+tikrų paslaugų teikimą, jeigu:
+
+1)
+
+įstaiga arba jos padalinys (filialas) verčiasi veikla, kuriai neturi licencijos
+
+ar akreditavimo pažymėjimo;
+
+2)
+
+įstaigos arba jos padalinio (filialo) atliekama sveikatos priežiūra neatitinka
+
+teisės aktų ar normatyvinių dokumentų reikalavimų ir dėl to yra realus pavojus
+
+pacientų sveikatai arba daroma žala žmonių sveikatai, nuostoliai juridiniams ir
+
+fiziniams asmenims;
+
+3)
+
+įstaiga nėra įregistruota Įstaigų registre arba įregistruota pažeidžiant šio
+
+įstatymo reikalavimus ir daugiau kaip tris mėnesius nevykdo Įstaigų registro
+
+tvarkytojo reikalavimų;
+
+4)
+
+įstaigoje sveikatos priežiūrą atlieka asmenys, neturintys tam teisės;
+
+5)
+
+įstaigos ar jos padalinio patalpos, jų eksploatavimas, sveikatos priežiūros
+
+technologijos neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų.
+
+2.
+
+Įstaigos paslaugų teikimas gali būti sustabdomas ne ilgiau kaip trims
+
+mėnesiams. Šio straipsnio 1 dalyje nurodytos valstybinės institucijos,
+
+priėmusios tokį sprendimą, privalo raštu informuoti įstaigos vadovą apie
+
+konkrečius sprendimo motyvus bei terminą pažeidimams ar trūkumams pašalinti.
+
+3.
+
+Įstaigos vadovai, nevykdantys priimtų pagal šį įstatymą sprendimų sustabdyti
+
+visų ar dalies paslaugų teikimą, atsako įstatymų nustatyta tvarka.
+
+4.
+
+Sustabdžius asmens sveikatos priežiūros įstaigoje paslaugų teikimą, įstaigos
+
+pacientai Sveikatos apsaugos ministerijos nustatyta tvarka perkeliami
+
+(perregistruojami) į kitas įstaigas.
+
+5.
+
+Įstaiga per šio straipsnio 1 dalyje nurodytų valstybės institucijų nustatytą
+
+terminą privalo pašalinti trūkumus. Pašalinus trūkumus, įstaigos veikla šio
+
+straipsnio 1 dalyje nurodytų valstybės institucijų įsakymu gali būti
+
+atnaujinta.
+
+6.
+
+Jei per nustatytą terminą įstaiga trūkumų nepašalina, paslaugų teikimą
+
+sustabdžiusi institucija kreipiasi į Akreditavimo tarnybą dėl įstaigos
+
+licencijos galiojimo panaikinimo ir į Sveikatos apsaugos ministeriją dėl
+
+įstaigos valdymo organų nušalinimo ir laikinojo administratoriaus paskyrimo.
+
+55
+
+straipsnis. Įstaigos valdymo organų nušalinimo ir laikinojo administratoriaus
+
+skyrimo
+
+tvarka
+
+1. Įstaigos
+
+valdymo organai nušalinami ir laikinasis administratorius skiriamas, jeigu:
+
+1)
+
+įstaiga nepašalina nustatytų pažeidimų ar trūkumų ir dėl to iškyla grėsmė, kad
+
+jos teikiamos paslaugos bus netinkamos bei kenks pacientų sveikatai, tačiau dar
+
+yra reali galimybė pataisyti padėtį;
+
+2)
+
+įstaigoje tais pačiais metais pasikartoja hospitalinės infekcijos protrūkis dėl
+
+įstaigos administracijos organizacinės veiklos trūkumų;
+
+3) įstaigoje
+
+tais pačiais kalendoriniais metais yra daugiau kaip vienas mirties atvejis dėl
+
+įstaigos specialisto ar specialistų kaltės.
+
+2. Laikinasis
+
+administratorius skiriamas laikotarpiui iki šešių mėnesių. Laikinojo
+
+administratoriaus prašymu sveikatos apsaugos ministras gali pratęsti šį terminą
+
+iki vienerių metų.
+
+56
+
+straipsnis. Įstaigos laikinasis administratorius
+
+1. Įstaigos
+
+laikinasis administratorius - tai įstaigos valdymo organų nušalinimo
+
+laikotarpiui sveikatos apsaugos ministro skiriamas sveikatos priežiūros
+
+įstaigos vadovas. Įstaigų laikinųjų administratorių kvalifikacinius
+
+reikalavimus nustato Sveikatos apsaugos ministerija. Laikinuoju
+
+administratoriumi negali būti įstaigos, kurios valdymo organai nušalinti,
+
+darbuotojas. Darbo sutartį su įstaigos laikinuoju administratoriumi
+
+sudaro ir ją nutraukia sveikatos apsaugos ministras ar jo įgaliotas atstovas.
+
+2.
+
+Nuo laikinojo administratoriaus paskyrimo dienos visi įstaigos valdymo organų
+
+įgaliojimai pereina laikinajam administratoriui.
+
+3.
+
+Laikinasis administratorius turi teisę nutraukti ar sudaryti darbo sutartis su
+
+įstaigos valdymo organų nariais ir kitais darbuotojais.
+
+4.
+
+Laikinajam administratoriui neprivalomi įstaigos steigėjo ar savininko
+
+sprendimai, išskyrus šio straipsnio 5 dalyje nurodytus atvejus.
+
+5.
+
+Laikinasis administratorius be įstaigos steigėjo ar savininko įgaliojimų ar
+
+sutikimo negali parduoti ar kitaip perleisti, įkeisti turto, reorganizuoti ar
+
+likviduoti įstaigos, spręsti kitų įstaigos steigėjo ar savininko išimtinei
+
+kompetencijai priklausančių klausimų.
+
+6.
+
+Apie administravimo eigą ir rezultatus laikinasis administratorius privalo
+
+informuoti sveikatos apsaugos ministrą, Akreditavimo tarnybą ir įstaigos
+
+steigėją ar savininką jų nustatytais terminais ir tvarka.
+
+7.
+
+Laikinasis administratorius privalo paskirti įstaigos reviziją ir atlikti
+
+higienos, epidemiologinę, darbų saugos ir medicininio audito ekspertizę.
+
+Ekspertizės turi būti atliktos per 3 mėnesius nuo laikinojo administratoriaus
+
+paskyrimo dienos.
+
+8.
+
+Revizijos metu nustačius įstatymų, kitų teisės aktų ar normatyvinių dokumentų
+
+pažeidimus, laikinasis administratorius kreipiasi į Akreditavimo tarnybą dėl
+
+licencijos galiojimo panaikinimo ir informuoja apie tai Sveikatos apsaugos
+
+ministeriją.
+
+9.
+
+Laikinasis administratorius už žalą įstaigai, atsiradusią dėl jo kaltės, atsako
+
+įstatymų nustatyta tvarka.
+
+57
+
+straipsnis. Įstaigos laikinojo administratoriaus atšaukimas
+
+Įstaigos
+
+laikinasis administratorius sveikatos apsaugos ministro įsakymu atšaukiamas
+
+prieš terminą, jeigu;
+
+1)
+
+Akreditavimo tarnyba nustato, kad įstaiga gali patikimai ir stabiliai veikti;
+
+2)
+
+panaikintas įstaigos licencijos galiojimas.
+
+58
+
+straipsnis. Įstaigų veiklą kontroliuojančių valstybės institucijų teisės
+
+1. Šiame
+
+įstatyme nurodytos įstaigų veiklą kontroliuojančios valstybės institucijos
+
+pagal kompetenciją turi teisę:
+
+1)
+
+įspėti įstaigą dėl jos veiklos trūkumų ir pažeidimų bei nustatyti jų pašalinimo
+
+terminus;
+
+2)
+
+įstatymų nustatyta tvarka skirti įstaigos vadovams ir darbuotojams
+
+administracines nuobaudas;
+
+3)
+
+reikalauti, kad būtų patikrinta įstaigos sveikatos priežiūros specialistų
+
+profesinė kvalifikacija;
+
+4)
+
+sustabdyti visų ar dalies paslaugų teikimą;
+
+5)
+
+turėti kitas šiame ir kituose įstatymuose nustatytas teises.
+
+2.
+
+Šiame įstatyme nurodytos įstaigų veiklą kontroliuojančios valstybės
+
+institucijos taiko įstaigoms kontrolės priemones ir sankcijas, atsižvelgdamos į
+
+pažeidimo, kurio pagrindu taikoma kontrolės priemonė, turinį.
+
+3.
+
+Šiame įstatyme nurodytų įstaigų veiklą kontroliuojančių valstybės institucijų
+
+sprendimai dėl kontrolės priemonių ar sankcijų taikymo gali būti per trisdešimt
+
+dienų skundžiami įstatymo nustatyta tvarka. Apskundimas nesustabdo įstaigų
+
+veiklą kontroliuojančių valstybės institucijų, nurodytų šiame įstatyme,
+
+nutarimų vykdymo.
+
+59
+
+straipsnis. Įstaigų veiklos kontrolės priemonių taikymo pagrindai ir tvarka
+
+1. Šiame
+
+įstatyme nurodytos įstaigų veiklą kontroliuojančios valstybės institucijos
+
+priima sprendimą dėl šiame įstatyme numatytų įstaigų kontrolės priemonių ir
+
+sankcijų taikymo, jeigu yra bent vienas iš šių pagrindų:
+
+1)
+
+šiame įstatyme nurodytoms įstaigų veiklą kontroliuojančioms valstybės
+
+institucijoms nepateikta įstaigų veiklos kontrolei atlikti būtina informacija
+
+ar dokumentai arba ši informacija ir dokumentai neatitinka tikrovės;
+
+2)
+
+pažeisti įstatymai ir kitų teisės aktų ar normatyvinių dokumentų,
+
+reguliuojančių įstaigų veiklą, reikalavimai.
+
+2.
+
+Klausimas dėl kontrolės priemonės taikymo įstaigai svarstomas dalyvaujant jos
+
+atstovams. Jeigu įstaigos atstovai neatvyksta į klausimo svarstymą, sprendimas
+
+taikyti kontrolės priemonę priimamas be jų.
+
+3.
+
+Sprendimas dėl įstaigų kontrolės priemonių taikymo, išskyrus pagal nurodytą šio
+
+įstatymo 58 straipsnio 1 dalies 2 punktą, privalo būti priimtas per tris
+
+mėnesius nuo pažeidimo nustatymo dienos. Už pažeidimus, nuo kurių padarymo
+
+dienos praėjo daugiau kaip vieneri metai, kontrolės priemonės negali būti
+
+taikomos.
+
+60
+
+straipsnis. Uždarosios biudžetinės įstaigos veiklos kontrolė
+
+Uždarosios
+
+biudžetinės įstaigos veiklos kontrolė atliekama Vyriausybės ar jos įgaliotų
+
+institucijų nustatyta tvarka.
 
 47 straipsnis. Nemedicininės veiklos išlaidų
 
@@ -5839,79 +5659,97 @@ laikotarpiui iki 6 mėnesių. Laikinojo administratoriaus prašymu sveikatos
 
 apsaugos ministras gali pratęsti šį terminą iki vienerių metų.
 
-61 straipsnis. Įstaigos laikinasis
+61 straipsnis.
 
-administratorius
+Baigiamosios nuostatos
 
-1. Įstaigos laikinasis administratorius - tai
+1.Veikiančios
 
-įstaigos valdymo organų nušalinimo laikotarpiui sveikatos apsaugos ministro
+asmens ir visuomenės sveikatos priežiūros įstaigos vykdomai sveikatos
 
-skiriamas sveikatos priežiūros įstaigos vadovas. Įstaigų laikinųjų
+priežiūros veiklai turi gauti licencijas iki 2002 metų gruodžio 31 dienos pagal
 
-administratorių kvalifikacinius reikalavimus nustato Sveikatos apsaugos ministerija.
+Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintą planą -
 
-Laikinuoju administratoriumi negali būti įstaigos, kurios valdymo organai
+grafiką. Šių įstaigų atliekama sveikatos priežiūra be licencijos nuo 2003 metų
 
-nušalinami, darbuotojas. Darbo sutartį su įstaigos laikinuoju
+sausio 1 dienos yra neteisėta.
 
-administratoriumi sudaro ir ją nutraukia sveikatos apsaugos ministras ar jo
+2.
 
-įgaliotas atstovas.
+LNSS viešųjų ir biudžetinių įstaigų vadovai turi būti atestuojami per trejus metus
 
-2. Nuo laikinojo administratoriaus paskyrimo
+nuo šio įstatymo įsigaliojimo.
 
-dienos visi įstaigos valdymo organų įgaliojimai pereina laikinajam
+Straipsnio pakeitimai:
 
-administratoriui.
+Nr. VIII-1512, 99.12.23, Žin., 2000,
 
-3. Laikinasis administratorius turi teisę
+Nr.1-6 (00.01.05)
 
-nutraukti ar sudaryti darbo sutartis su įstaigos valdymo organų nariais ir
+Skelbiu šį
 
-kitais darbuotojais.
+Lietuvos Respublikos Seimo priimtą įstatymą.
 
-4. Laikinajam administratoriui neprivalomi
+RESPUBLIKOS PREZIDENTAS                                                ALGIRDAS
 
-įstaigos steigėjo ar savininko sprendimai išskyrus šio straipsnio 5 dalyje
+BRAZAUSKAS
 
-nurodytus atvejus.
+_____________
 
-5. Laikinasis administratorius be įstaigos
+Pakeitimai:
 
-steigėjo ar savininko įgaliojimų ar sutikimo negali parduoti ar kitaip
+1.
 
-perleisti, įkeisti turto, reorganizuoti ar likviduoti įstaigos, spręsti kitų
+Lietuvos
 
-įstaigos steigėjo ar savininko išimtinei kompetencijai priklausančių klausimų.
+Respublikos Seimas, Įstatymas
 
-6. Apie administravimo eigą ir rezultatus
+Nr.
 
-laikinasis administratorius privalo informuoti sveikatos apsaugos ministrą,
+VIII-288,
 
-Akreditavimo tarnybą ir įstaigos steigėją ar savininką jų nustatytais terminais
+97.06.24, Žin., 1997, Nr.62-1462 (97.07.01)
 
-ir tvarka.
+LIETUVOS
 
-7. Laikinasis administratorius privalo
+RESPUBLIKOS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-paskirti įstaigos reviziją ir atlikti higienos, epidemiologinę, darbų saugos ir
+Nauja
 
-medicininio audito ekspertizę. Ekspertizės turi būti atliktos per 3 mėnesius
+įstatymo redakcija
 
-nuo laikinojo administratoriaus paskyrimo dienos.
+2.
 
-8. Revizijos metu nustačius įstatymų, kitų
+Lietuvos Respublikos Seimas, Įstatymas
 
-teisės aktų ir (ar) normatyvinių dokumentų pažeidimus, laikinasis
+Nr. VIII-940, 98.11.24, Žin., 1998,
 
-administratorius kreipiasi į Akreditavimo tarnybą dėl akreditavimo panaikinimo
+Nr.109-2995 (98.12.11)
 
-ir informuoja apie tai Sveikatos apsaugos ministeriją.
+SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAKEITIMO
 
-9. Laikinasis administratorius už žalą
+ĮSTATYMAS
 
-įstaigai, atsiradusią dėl jo kaltės, atsako įstatymų nustatyta tvarka.
+Nauja
+
+įstatymo redakcija
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1512, 99.12.23, Žin., 2000,
+
+Nr.1-6 (00.01.05)
+
+SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 61 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė (2000.08.17)
 
 62 straipsnis. Įstaigos laikinojo
 
