@@ -4,7 +4,7 @@ identifier: "TAR.11A8B08A7405"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-01-18"
-last_updated: "1999-12-01"
+last_updated: "2000-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 1999-12-01 iki 2000-08-31
+Suvestinė redakcija nuo 2000-09-01 iki 2001-07-17
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
 
@@ -50,7 +50,11 @@ Kardomojo kalinimo (suėmimo) pagrindus nustato Baudžiamojo proceso kodeksas.
 
 5 straipsnis. Kardomojo kalinimo vietos
 
-1. Kardomojo kalinimo vietos laikyti asmenims, kuriems kardomąja priemone parinktas suėmimas, yra Lietuvos Respublikos vidaus reikalų ministerijos tardymo izoliatoriai (sulaikymo namai). Tardymo izoliatorius steigia ir likviduoja Lietuvos Respublikos Vyriausybė Vidaus reikalų ministerijos teikimu.
+1. Kardomojo kalinimo vietos laikyti asmenims, kuriems kardomąja priemone parinktas suėmimas, yra tardymo izoliatoriai (sulaikymo namai). Tardymo izoliatorius steigia ir likviduoja Lietuvos Respublikos Vyriausybė Teisingumo ministerijos teikimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
 
 2. Tardymo izoliatoriuje vienu metu leidžiama laikyti ne daugiau kaip vieną tūkstantį kalinamųjų.
 
@@ -214,9 +218,17 @@ Nuo to momento, kai gynėjui leidžiama dalyvauti byloje, kalinamasis turi teis�
 
 1. Kalinamieji turi teisę susirašinėti su artimais giminaičiais ir kitais asmenimis. Kardomojo kalinimo vietos administracija gautus kalinamojo vardu laiškus jam įteikia, taip pat kalinamųjų įteiktus laiškus išsiunčia adresatams ne vėliau kaip per tris paras nuo jų gavimo arba įteikimo. Kalinamojo siunčiami laiškai, išskyrus šio straipsnio antrojoje dalyje numatytus atvejus, taip pat jo vardu gauti laiškai gali būti cenzūruojami.
 
-2. Bylą tiriančiam pareigūnui, teismui, kurio žinioje yra byla, Lietuvos Respublikos Seimo kontrolieriui, prokurorui, vidaus reikalų ministrui ir Europos žmogaus teisių komisijai adresuoti pasiūlymai, prašymai (pareiškimai) bei skundai išsiunčiami per vieną parą nuo jų įteikimo.
+2. Bylą tiriančiam pareigūnui, teismui, kurio žinioje yra byla, Lietuvos Respublikos Seimo kontrolieriui, prokurorui, valstybės institucijoms, teisingumo ministrui ir Europos žmogaus teisių teismui adresuoti pasiūlymai, pareiškimai ir skundai necenzūruojami ir išsiunčiami per vieną parą nuo jų gavimo momento.
 
-3. Kalinamieji turi teisę tiesiogiai kreiptis į Respublikos Prezidentą, Seimo ar Vyriausybės narį, Seimo kontrolierių, prokurorą arba vidaus reikalų ministerijos atstovą jų lankymosi kardomojo kalinimo vietose metu.
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
+
+3. Kalinamieji turi teisę tiesiogiai kreiptis į Respublikos Prezidentą, Seimo ar Vyriausybės narį, Seimo kontrolierių, prokurorą arba Teisingumo ministerijos atstovą jų lankymosi kardomojo kalinimo vietose metu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
 
 4. Kalinamiesiems draudžiama siųsti anoniminius ar kolektyvinius prašymus (pareiškimus) ir skundus. Jiems taip pat draudžiama kreiptis į valstybės institucijas, visuomenines organizacijas bei pareigūnus su pasiūlymais, prašymais (pareiškimais) ir skundais už kitus kalinamuosius arba ne per kardomojo kalinimo vietos administraciją.
 
@@ -260,11 +272,19 @@ Kalinamiesiems pasimatyti su giminaičiais arba kitais asmenimis leidžia kardom
 
 1. Asmenų, laikomų kardomojo kalinimo vietose, sveikatos priežiūra organizuojama ir atliekama remiantis sveikatos apsaugos įstatymais. Kalinamiesiems turi būti užtikrintas tokios pat kokybės ir lygio gydymas, koks užtikrinamas nekalinamiems asmenims.
 
-2. Kardomojo kalinimo vietose organizuojamos sveikatos priežiūros tarnybos, kurių struktūrą, etatų skaičių ir veiklos tvarką nustato Sveikatos apsaugos ir Vidaus reikalų ministerijos.
+2. Kardomojo kalinimo vietose organizuojamos sveikatos priežiūros tarnybos, kurių struktūrą, etatų skaičių ir veiklos tvarką nustato Sveikatos apsaugos ir Teisingumo ministerijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
 
 3. Privaloma nuodugniai patikrinti naujai priimtų į kardomojo kalinimo vietas asmenų sveikatą ir psichiką.
 
-4. Jei kalinamajam reikalinga specializuota neatidėliotina medicinos pagalba, kurią suteikti kardomojo kalinimo vietos sveikatos priežiūros tarnyboje arba laisvės atėmimo vietos gydymo įstaigose nėra galimybių, ji gali būti suteikta Sveikatos apsaugos ministerijos reguliavimo sričiai priklausančiose specializuotose sveikatos priežiūros įstaigose užtikrinus kalinamųjų apsaugą. Tokios medicinos pagalbos suteikimo tvarką nustato Sveikatos apsaugos ir Vidaus reikalų ministerijos.
+4. Jei kalinamajam reikalinga specializuota neatidėliotina medicinos pagalba, kurią suteikti kardomojo kalinimo vietos sveikatos priežiūros tarnyboje arba laisvės atėmimo vietos gydymo įstaigose nėra galimybių, ji gali būti suteikta Sveikatos apsaugos ministerijos reguliavimo sričiai priklausančiose specializuotose sveikatos priežiūros įstaigose užtikrinus kalinamųjų apsaugą. Tokios medicinos pagalbos suteikimo tvarką nustato Sveikatos apsaugos ir Teisingumo ministerijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
 
 5. Asmenų, laikomų kardomojo kalinimo vietose, sveikatos priežiūrą organizuoja Sveikatos apsaugos ministerija.
 
@@ -442,11 +462,13 @@ Kalinamųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių kar
 
 32 straipsnis. Vandensvaidžių, specialios paskirties dujų, šarvuočių bei kitos technikos panaudojimo pagrindai
 
-1. Masinių riaušių arba masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, šiurkščiai pažeidžiantys kardomojo kalinimo vietos vidaus tvarką, Pataisos reikalų departamento prie Vidaus reikalų ministerijos direktoriaus įsakymu prieš kalinamuosius gali būti panaudojami vandensvaidžiai, specialios paskirties dujos, šarvuočiai bei kita technika.
+1. Masinių riaušių arba masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, šiurkščiai pažeidžiantys kardomojo kalinimo vietos vidaus tvarką, Kalėjimų departamento prie Teisingumo ministerijos direktoriaus įsakymu prieš kalinamuosius gali būti panaudojami vandensvaidžiai, specialios paskirties dujos, šarvuočiai bei kita technika.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. 0971010ISTAVIII-151
+
+Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
 
 2. Vandensvaidžiai gali būti panaudoti ir kardomojo kalinimo vietos direktoriaus įsakymu.
 
@@ -478,11 +500,13 @@ Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. 0971010IST
 
 3) kai kalinamasis bando pabėgti iš kardomojo kalinimo vietos arba persekiojant bėgantį kalinamąjį.
 
-4. Šaunamieji ginklai taip pat gali būti panaudojami Pataisos reikalų departamento prie Vidaus reikalų ministerijos direktoriaus  įsakymu masinių riaušių ar masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, kurie šiurkščiai pažeidžia kardomojo kalinimo vietos vidaus tvarką, jeigu kitomis priemonėmis nutraukti minėtų veiksmų nėra galimybių.
+4. Šaunamieji ginklai taip pat gali būti panaudojami Kalėjimų departamento prie Teisingumo ministerijos direktoriaus įsakymu masinių riaušių ar masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, kurie šiurkščiai pažeidžia kardomojo kalinimo vietos vidaus tvarką, jeigu kitomis priemonėmis nutraukti minėtų veiksmų nėra galimybių.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. 0971010ISTAVIII-151
+
+Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
 
 5. Šaunamuosius ginklus draudžiama naudoti tais atvejais, kai gali nukentėti pašaliniai asmenys ir jei netoliese yra lengvai užsidegančių ar sprogstančių medžiagų saugyklos.
 
@@ -637,4 +661,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
 
 Lietuvos Respublikos kardomojo kalinimo įstatymo 5 straipsnio ir 1 priedėlio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
+
+Lietuvos Respublikos kardomojo kalinimo įstatymo 5, 15, 19, 32 ir 33 straipsnių pakeitimo įstatymas
 
