@@ -4,7 +4,7 @@ identifier: "TAR.A92572CC7F9E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-01-28"
-last_updated: "2002-11-22"
+last_updated: "2003-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A92572CC7F9E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,15 @@ document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos baudžiamojo, Baudžiamojo proceso ir Administracinių teisės pažeidimų kodeksų pakeitimo ir papildymo
 
-Suvestinė redakcija nuo 2002-11-22 iki 2003-04-30
+Įstatymas netenka galios 2017-01-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1869, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11216
+
+Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
+
+Suvestinė redakcija nuo 2003-05-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 22-0; Žin. 1993, Nr.5-90, i. k. 0931010ISTA0000I-57
 
@@ -32,9 +40,21 @@ DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO, BAUDŽIAMOJO PROCESO IR ADMINISTRACINIŲ
 
 Lietuvos Respublikos Seimas nutaria:
 
-I. Padaryti Lietuvos Respublikos 1961 m. birželio 26 d. įstatymo patvirtintame Lietuvos Respublikos baudžiamajame kodekse (Žin., 1961, Nr. 18-147; 1969, Nr. 36-343; 1972, Nr. 21-159; 1973, Nr. 15-132; 1975, Nr. 30-300; 1980, Nr. 21-298; 1982, Nr. 36-400; 1984, Nr. 6-66; 1987, Nr. 21-263; 1988, Nr. 11-76; 1989, Nr. 13-116; 1990, Nr. 19-495, Nr. 31-740; 1991, Nr. 36-975) šiuos pakeitimus ir papildymus:
+1 skyrius. Neteko galios nuo 2003-05-01
 
-1. Papildyti Kodeksą 742 straipsniu:
+Skyriaus naikinimas:
+
+Nr. IX-1162, 2002-10-29, Žin. 2002, Nr. 112-4970 (2002-11-22), i. k. 1021010ISTA0IX-1162
+
+2 skyrius. Neteko galios nuo 2003-05-01
+
+Skyriaus naikinimas:
+
+Nr. IX-1162, 2002-10-29, Žin. 2002, Nr. 112-4970 (2002-11-22), i. k. 1021010ISTA0IX-1162
+
+III. Padaryti pakeitimus Lietuvos Respublikos administracinių teisės pažeidimų kodekse (Žin., 1985, Nr. 1-1; 1992, Nr. 21-610):
+
+1. 164 straipsnį išdėstyti taip:
 
 „742 straipsnis. Piktnaudžiavimas oficialiais įgaliojimais
 
