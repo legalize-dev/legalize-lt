@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "1994-01-05"
+last_updated: "1995-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1994-01-05 iki 1994-12-31
+Suvestinė redakcija nuo 1995-01-01 iki 1995-06-27
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -36,6 +36,12 @@ BENDROJI DALIS
 2. Bendrovėje turi būti ne mažiau kaip 2 nariai. Maksimalus narių skaičius neribojamas.
 
 3. Bendrovė yra juridinis asmuo, ribotos turtinės atsakomybės įmonė. Jos turtas atskirtas nuo narių turto. Bendrovės prievolės vykdomos iš jos kapitalo. Bendrovė neatsako už savo narių prievoles, nesusijusias su bendrovės veikla.
+
+4. Bendrovė yra tokia įmonė, kurioje įplaukų už žemės ūkio produkciją ir paslaugas žemės ūkio gamybai dalis visose įmonės realizavimo įplaukose sudaro daugiau kaip 50 procentų.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 3 straipsnis. Bendrovės pavadinimas
 
@@ -225,11 +231,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
 
-5. Metams pasibaigus ir patvirtinus bendrovės metinę apyskaitą, pagrindinio kapitalo padidėjimas (sumažėjimas) paskirstomas nariams proporcingai pajų vertei. Proporcingai pajų vertei paskirstomas turto padidėjimas (sumažėjimas), atsiradęs dėl turto perkainojimo.
+5. Metams pasibaigus ir patvirtinus bendrovės metinę apyskaitą, pagrindinio kapitalo padidėjimas (sumažėjimas) paskirstomas nariams (ir paveldėtojams, iki jiems bus grąžinti pajai) proporcingai pajų vertei. Proporcingai pajų vertei paskirstomas ir turto padidėjimas (sumažėjimas), atsiradęs dėl turto perkainojimo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 6. Pajai ir jų kasmetinis padidėjimas (sumažėjimas) registruojamas pajininkų turto apskaitos dokumentuose. Pajininkas turi teisę bet kada susipažinti su turto apskaitos dokumentais ir gauti jų išrašus.
 
@@ -329,9 +337,9 @@ BENDROVĖS NARIŲ TEISĖS IR PAREIGOS
 
 1. Nariai turi turtines ir asmenines neturtines teises ir pareigas, numatytas šiame bei kituose Lietuvos Respublikos įstatymuose, bendrovės įstatuose.
 
-2. Bendrovės narys savo pajų ar jo dalį pirkimo-pardavimo, dovanojimo, paveldėjimo ir kitais būdais gali perleisti kitam bendrovės nariui arba trečiajam asmeniui šio įstatymo ir bendrovės įstatuose nustatyta tvarka.
+2. Bendrovės narys savo pajų ar jo dalį pirkimo-pardavimo, dovanojimo, paveldėjimo ir kitais būdais gali perleisti kitam bendrovės nariui arba bet kuriam kitam fiziniam asmeniui šio įstatymo ir bendrovės įstatuose nustatyta tvarka.
 
-Pajaus ar jo dalies (pinigais) perleidimo kitam bendrovės nariui arba trečiajam asmeniui sutartis leidžiama tvirtinti apylinkės (valsčiaus) viršaičiui. Mokestis už tokių sutarčių tvirtinimą – 0,5 procento perleidžiamo pajaus vertės.
+Pajaus ar jo dalies (pinigais) perleidimo kitam bendrovės nariui arba bet kuriam kitam fiziniam asmeniui sutartis leidžiama tvirtinti apylinkės (valsčiaus) viršaičiui. Mokestis už tokių sutarčių tvirtinimą – 0,5 procento perleidžiamo pajaus vertės.
 
 Įsteigus bendrovę, asmuo, paveldėjęs, pirkęs, dovanojimo ar kitokiu būdu įsigijęs bendrovės nario pajų ar jo dalį, bendrovės nariu tampa tik tada, kai šį asmenį į bendrovę priima bendrovės narių susirinkimas. Jei susirinkimas pajų įsigijusio asmens į bendrovę nepriima, su šiuo asmeniu atsiskaitoma kaip su išstojusiu iš bendrovės nariu šiame įstatyme ir bendrovės įstatuose nustatyta tvarka ir terminais.
 
@@ -340,6 +348,8 @@ Straipsnio dalies pakeitimai:
 Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
 
 Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 3. Bendrovės narys turi pirmumo teisę dirbti bendrovėje.
 
@@ -369,7 +379,9 @@ Nutarimai priimami paprasta balsų dauguma, jeigu šiame įstatyme ar bendrovės
 
 3. Narys visais atvejais turi teisę gauti, o bendrovė privalo išmokėti pinigais ar natūra jam priklausantį pajų. Išstodamas iš bendrovės, narys turi teisę susigrąžinti nekilnojamąjį turtą, įskaitant ir žemę. Nariui, pareiškusiam norą išstoti iš bendrovės ir steigiančiam ūkininko ūkį, jo pageidavimu, pajus (pirmiausia nario materialinis įnašas) Lietuvos Respublikos Vyriausybės nustatyta tvarka grąžinamas natūra. Kitas nario išstojimo iš bendrovės ir atsiskaitymo sąlygas bei terminus nustato bendrovės įstatai.
 
-Išstojantis iš bendrovės ir steigiantis ūkininko ūkį narys arba narių grupė, steigianti kitą žemės ūkio įmonę, turi teisę gauti iš bendrovės turto natūra (technikos, gyvulių, apyvartinio ir kito turto proporcingai jų pajaus dydžiui ir bendrovės turto elementų vertės struktūrai) arba pinigais bendrovės įstatuose nustatyta tvarka ir terminais.
+Išstojantis iš bendrovės narys arba narių grupė turi teisę gauti iš bendrovės turto natūra (pastatų, technikos, gyvulių, apyvartinio ir kito turto proporcingai jų pajaus dydžiui ir šio turto struktūros elementų vertei) arba pinigais.
+
+Su išstojusiu arba pašalintu iš bendrovės nariu atsiskaitoma bendrovės įstatuose nustatyta tvarka, sąlygomis ir terminais.
 
 Straipsnio dalies pakeitimai:
 
@@ -379,11 +391,17 @@ Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000
 
 Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
 
-4. Tais atvejais, kai bendrovės narys arba jo šeimos narys susigrąžina jam nuosavybės teise priklausančią žemę (daugiau kaip 3 ha) arba kai bendrovės narys išsinuomoja žemę ir steigia ūkininko ūkį, arba šią žemę parduoda, padovanoja, išnuomoja arba kitokiu būdu perleidžia savo šeimos nariams ar kitiems asmenims, atsisakydamas ją išnuomoti bendrovei, sprendimą dėl tokio bendrovės nario tolesnės narystės bendrovėje priima artimiausias bendrovės narių susirinkimas.
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
+
+4. Kai bendrovės narys susigrąžina ūkininkavimui nuosavybės teise jam priklausančią žemę (daugiau kaip 5 ha), atsisakydamas ją išnuomoti bendrovei, arba šią žemę perleidžia kitiems asmenims, taip pat kai bendrovės narys išsinuomoja žemę (daugiau kaip 5 ha) ir steigia ūkininko ūkį, bendrovės narių susirinkimas gali spręsti klausimą dėl šio bendrovės nario tolesnės narystės bendrovėje.
 
 Papildyta straipsnio dalimi:
 
 Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 5. Narys, pažeidžiantis šiame įstatyme ir bendrovės įstatuose nustatytas pareigas, susirinkimo nutarimu gali būti iš bendrovės pašalintas. Nutarimas dėl pašalinimo gali būti skundžiamas teismui.
 
@@ -455,7 +473,11 @@ Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-
 
 23 straipsnis. Narių dalyvavimas susirinkime
 
-1. Bendrovės nariai gali dalyvauti susirinkime asmeniškai arper savo įgaliotinius bendrovės įstatuose numatyta tvarka.
+1. Bendrovės nariai gali dalyvauti susirinkime asmeniškai ar per savo įgaliotinius iš bendrovės narių įstatuose numatyta tvarka. Vienas įgaliotinis gali atstovauti ne daugiau kaip 1/20 bendrovės narių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 2. Su patariamojo balso teise susirinkime gali dalyvauti samdomi administracijos nariai.
 
@@ -537,7 +559,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
 
-4) valstybės valdymo organams priėmus sprendimą atšaukti bendrovės registravimą už teisės pažeidimus įstatymo numatytais atvejais;
+4) valstybės valdymo organams priėmus sprendimą atšaukti bendrovės registravimą už teisės pažeidimus įstatymo numatytais atvejais taip pat kai bendrovė daugiau kaip 7 mėnesius nevykdo gamybinės-komercinės veiklos arba per tris mėnesius neišrenka valdybos arba jos pirmininko (administratoriaus);
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 5) teismui patenkinus savivaldybės organų ieškinį dėl bendrovės veiklos nutraukimo, kai ji, nepaisydama įspėjimo, toliau šiurkščiai pažeidžia Lietuvos Respublikos įstatymus;
 
@@ -549,23 +575,39 @@ Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA00
 
 1. Bendrovės likvidavimo tvarką reglamentuoja šis ir kiti Lietuvos Respublikos įstatymai bei bendrovės įstatai.
 
-2. Bendrovę likviduoja valdyba (administracija), kuri tampa bendrovės likvidatoriumi. Narių susirinkimas turi teisę savo nuožiūra, kreditorių ar valstybės valdymo organų reikalavimu išrinkti kitus likvidatorius, bet kuriuo laiku juos atšaukti ir rinkti naujus. Išrinkus likvidatorius, valdyba (administracija) savo įgaliojimus nutraukia, jos funkcijas perima likvidatoriai.
+2. Bendrovės likvidatoriaus funkcijas atlieka:
 
-Bendrovę likviduoja valdyba (administratorius), kuri tampa bendrovės likvidatoriumi, jeigu narių susirinkimas neišrenka likvidatoriaus. Nutraukiant bendrovės veiklą šio įstatymo 29 straipsnio 3 ir 5 punktuose numatytais pagrindais, bendrovės likvidatorių skiria organas, priėmęs sprendimą nutraukti bendrovės veiklą. Išrinkus (paskyrus) likvidatorių, valdyba (administratorius) savo įgaliojimus nutraukia, jos funkcijas perima likvidatorius.
+1) jos valdyba (administracija), jeigu bendrovė likviduojama pasibaigus nustatytam bendrovės veiklos terminui arba bendrovės narių susirinkimo nutarimu. Narių susirinkimas turi teisę savo nuožiūra, kreditorių ir valstybės valdymo organų reikalavimu išrinkti iš bendrovės narių kitus likvidatorius, samdyti iš šalies arba prašyti valstybės organų paskirti valstybinius likvidatorius;
+
+2) valstybinis likvidatorius, jeigu sprendimą dėl likvidavimo priima valstybės valdymo organai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
 
-3. Paskyrus likvidatorius, bendrovė įgyja likviduojamosios įmonės statusą.
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
+
+3. Paskyrus likvidatorius, valdyba (administracija) savo įgaliojimus nutraukia, jos funkcijas perima likvidatoriai, bendrovė įgyja likviduojamos įmonės statusą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 4. Likvidavimo metu išaiškėjus ginčytinoms prievolėms, joms vykdyti iš bendrovės turto išskiriama atitinkama suma ir įnešama į notariato depozitinę sąskaitą.
 
 31 straipsnis. Likvidatorių teisės ir pareigos
 
-1. Likvidatoriai, pradėdami ir baigdami likvidavimo darbą, sudaro bendrovės buhalterinius balansus.
+1. Likvidatoriai organizuoja bendrovės turto apsaugą, jį inventorizuoja, jeigu reikia, perkainoja, sudaro likvidavimo pradžios ir pabaigos buhalterinius balansus.
 
-2. Likvidatoriai užbaigia bendrovės einamąją komercinę-ūkinę veiklą, išaiškina jos kreditorius ir debitorius, reikalui esant, parduoda iš varžytynių likusį po prievolių vykdymo turtą ir patenkina kreditorių reikalavimus.
+Straipsnio dalies pakeitimai:
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
+
+2. Likvidatoriai užbaigia bendrovės einamąją ūkinę-komercinę veiklą, išaiškina jos kreditorius ir debitorius, jeigu reikia, parduoda iš varžytinių turtą ar jo dalį ir patenkina kreditorių reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 32 straipsnis. Bendrovės likvidavimo tvarka
 
@@ -587,19 +629,37 @@ Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA00
 
 5. Patenkinus kreditorių reikalavimus, kilus narių ginčui dėl likusio turto padalijimo, likvidatoriai sustabdo turto dalijimą. Likviduojamosios bendrovės narių tarpusavio ginčai ir ginčai su likvidatoriais nagrinėjami teismine tvarka.
 
-6. Likvidatoriai užbaigia visus bendrovės einamuosius reikalus: narių susirinkimo nustatyta tvarka ir sąlygomis parduoda bendrovės turtą, įneša į kasą bendrovei priklausančias debitorių sumas, sumoka skolas, patenkina kitas pretenzijas ir paskirsto likutį buvusiems pajininkams.
+6. Likvidatoriai užbaigia visus bendrovės einamuosius reikalus: parduoda bendrovės turtą, įmoka į kasą bendrovei priklausančias debitorių sumas, sumoka skolas, patenkina kitas pretenzijas, organizuoja neparduoto nepaklausaus turto likvidavimą (sunaikinimą), teritorijos pirminį ekologinį sutvarkymą, paskirsto lėšų likutį buvusiems pajininkams. Turto pardavimo tvarką ir sąlygas nustato organas, priėmęs sprendimą dėl bendrovės likvidavimo.
 
-7. Likvidatoriai turi teikti narių susirinkimui jo nustatytais terminais ataskaitą apie savo veiklą, o baigus likvidavimą - ataskaitą apie visą likvidavimo laikotarpį.
+Straipsnio dalies pakeitimai:
 
-8. Narių susirinkimas, priėmęs nutarimą dėl bendrovės veiklos nutraukimo, gali įpareigoti vieną iš likvidatorių kontroliuoti visas bendrovės įplaukas ir kitą turtą.
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
+
+7. Likvidatoriai turi teikti organui, priėmusiam sprendimą likviduoti bendrovę jo nustatytais terminais ataskaitą apie savo veiklą, o baigus likvidavimą - ataskaitą apie visą likvidavimo laikotarpį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
+
+8. Organas, priėmęs nutarimą dėl bendrovės veiklos nutraukimo, gali įpareigoti vieną iš likvidatorių kontroliuoti visas bendrovės įplaukas ir kitą turtą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 9. Nutraukus bendrovės veiklą, likvidatoriai arba patikėtinis įteikia įmonių rejestro pareigūnui gautų įplaukų ir jų naudojimo apyskaitą ir bendrovės likvidavimo aktą.
 
 10. Likviduotos bendrovės dokumentai perduodami savivaldybei saugoti dešimtį metų. Buvę bendrovės nariai ir jų įpėdiniai turi teisę susipažinti su saugomais dokumentais ir gauti jų nuorašus.
 
-33 straipsnis. Likvidatorių atsakomybė
+33 straipsnis. Likvidatorių materialinis skatinimas ir atsakomybė
 
-Bendrovės likvidatoriai, dėl savo kaltės neįvykdę pagal įstatymus, įstatus ir narių susirinkimo nutarimus pavestų pareigų, atsako už susidariusius nuostolius.
+1. Likvidatoriaus darbas apmokamas iš lėšų, gautų už parduotą bendrovės turtą. Valstybės valdymo organams priėmus sprendimą likviduoti bendrovę, turto dalį, skiriamą likvidatorių darbo apmokėjimui, nustato Lietuvos Respublikos Vyriausybė pagal bendrovės kapitalo dydį.
+
+2. Bendrovės likvidatoriai, išeikvoję turtą, dėl savo kaltės neįvykdę pagal įstatymus, įstatus ir organo, priėmusio sprendimą likviduoti bendrovę, nutarimus pavestų pareigų, atsako už susidariusius nuostolius Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 LIETUVOS RESPUBLIKOS
 
@@ -650,6 +710,14 @@ Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių ve
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-704, 1994-12-15, Žin., 1994, Nr. 100-1998 (1994-12-28), i. k. 0941010ISTA000I-704
 
 Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
 
