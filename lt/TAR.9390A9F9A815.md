@@ -4,7 +4,7 @@ identifier: "TAR.9390A9F9A815"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-28"
-last_updated: "2002-04-01"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9390A9F9A815"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2002-03-28"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
+
+Suvestinė redakcija nuo 2003-05-01 iki 2003-10-28
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 33-1250, i. k. 1021010ISTA00IX-816
 
 LIETUVOS RESPUBLIKOS FINANSINIŲ NUSIKALTIMŲ TYRIMO TARNYBOS ĮSTATYMAS
 
@@ -77,9 +81,17 @@ Tarnybos funkcijos:
 
 1) įstatymų nustatyta tvarka ir pagrindais atskleisti ir tirti veikas, susijusias su mokesčių mokėtojų apgaulingu ar aplaidžiu apskaitos tvarkymu, žinomai neteisingų duomenų apie mokesčius, valstybės (savivaldybės) rinkliavas ir kitas įmokas teikimu atsakingoms institucijoms ir įstaigoms, mokesčių, valstybės (savivaldybės) rinkliavų, valstybinio socialinio draudimo ir kitų įmokų vengimu, nustatyta tvarka patvirtintų ataskaitų nepateikimu, ir kitus teisės pažeidimus, susijusius su mokesčiais, valstybės (savivaldybės) rinkliavomis, valstybinio socialinio draudimo ir kitomis įmokomis;
 
-2) įstatymų nustatyta tvarka ir pagrindais atskleisti ir tirti veikas, susijusias su nusikalstamu būdu įgytų pinigų ar turto legalizavimu, vertybinių popierių neteisėta apyvarta, netikrais pinigais, kitas neteisėtas veikas, susijusias su finansų sistema;
+2) įstatymų nustatyta tvarka ir pagrindais atskleisti ir tirti veikas, susijusias su nusikalstamu būdu įgytų pinigų ar turto legalizavimu, vertybinių popierių neteisėta apyvarta, kitas neteisėtas veikas, susijusias su finansų sistema, išskyrus veikas, susijusias su netikrais pinigais;
 
-3) įstatymų nustatyta tvarka vykdyti operatyvinę veiklą, atlikti kvotą, parengtinį tardymą, ūkinės finansinės veiklos patikrinimus, revizijas;
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1536, 2003-04-29, Žin., 2003, Nr. 42-1926 (2003-05-01), i. k. 1031010ISTA0IX-1536
+
+3) įstatymų nustatyta tvarka vykdyti operatyvinę veiklą, atlikti ikiteisminį tyrimą, ūkinės finansinės veiklos tyrimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1460, 2003-04-03, Žin., 2003, Nr. 38-1705 (2003-04-24), i. k. 1031010ISTA0IX-1460
 
 4) bendradarbiauti su Lietuvos Respublikos ir užsienio valstybių teisėsaugos bei kitomis institucijomis ir įstaigomis, tarptautinėmis organizacijomis Tarnybos kompetencijos klausimais;
 
@@ -281,7 +293,11 @@ TARNYBOS FINANSAVIMAS, MATERIALINIS APRŪPINIMAS IR VEIKLOS KONTROLĖ
 
 1. Tarnybos veiklą kontroliuoja vidaus reikalų ministras, kitos įgaliotos valstybės institucijos ir įstaigos įstatymų ir kitų teisės aktų nustatyta tvarka.
 
-2. Tarnybos atliekamą kvotą ir parengtinį tardymą įstatymų nustatyta tvarka kontroliuoja prokuroras.
+2. Tarnybos atliekamą ikiteisminį tyrimą įstatymų nustatyta tvarka organizuoja ir jam vadovauja prokuroras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1460, 2003-04-03, Žin., 2003, Nr. 38-1705 (2003-04-24), i. k. 1031010ISTA0IX-1460
 
 3. Tarnybos vidaus darbo tvarką nustato tarnybos direktorius.
 
@@ -309,9 +325,17 @@ Vyriausybė per 6 mėnesius nuo šio Įstatymo įsigaliojimo:
 
 3) peržiūri galiojančius įstatymus ir kitus teisės aktus, susijusius su Finansinių nusikaltimų tyrimo tarnybos įstatymo nuostatomis, ir prireikus parengia atitinkamus jų pakeitimo ar naujų teisės aktų projektus;
 
-4) iki 2003 m. sausio 1 d. parengia teisės aktus, numatančius Tarnybos funkcijų išplėtimą sukuriant vieną finansinių ir ekonominių nusikaltimų ikiteisminio tyrimo instituciją;
+4) Neteko galios nuo 2003-05-01
 
-5) rengdama 2003 m. valstybės biudžetą, numato lėšas paskirstyti taip, kad būtų atsižvelgta į finansinių ir ekonominių nusikaltimų ikiteisminio tyrimo institucinės sistemos tobulinimą.
+Straipsnio punkto naikinimas:
+
+Nr. IX-1536, 2003-04-29, Žin. 2003, Nr. 42-1926 (2003-05-01), i. k. 1031010ISTA0IX-1536
+
+5) Neteko galios nuo 2003-05-01
+
+Straipsnio punkto naikinimas:
+
+Nr. IX-1536, 2003-04-29, Žin. 2003, Nr. 42-1926 (2003-05-01), i. k. 1031010ISTA0IX-1536
 
 23 straipsnis. Netekęs galios teisės aktas
 
@@ -324,4 +348,22 @@ Vyriausybė per 6 mėnesius nuo šio Įstatymo įsigaliojimo:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1460, 2003-04-03, Žin., 2003, Nr. 38-1705 (2003-04-24), i. k. 1031010ISTA0IX-1460
+
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 20 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1536, 2003-04-29, Žin., 2003, Nr. 42-1926 (2003-05-01), i. k. 1031010ISTA0IX-1536
+
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 22 straipsnių pakeitimo įstatymas
 
