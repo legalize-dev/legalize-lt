@@ -4,7 +4,7 @@ identifier: "TAR.4F9515A6EB3D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-12-23"
-last_updated: "2000-12-29"
+last_updated: "2001-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 2000-12-29 iki 2001-06-29
+Suvestinė redakcija nuo 2001-06-30 iki 2001-06-30
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
 
@@ -47,7 +47,11 @@ Patvirtinti Lietuvos Respublikos teritorijoje galiojančių įstatymų, kurie bu
 
 9) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d., (Žin., 1989, Nr. 33-445) su vėlesniais pakeitimais ir papildymais – iki 2002 m. sausio 1 d.;
 
-10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117) – iki 2001 m. liepos 1 d.
+10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117) – iki 2002 m. liepos 1 d.
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-416, 2001-06-28, Žin., 2001, Nr. 56-1985 (2001-06-30), i. k. 1011010ISTA00IX-416
 
 Straipsnio pakeitimai:
 
@@ -90,6 +94,14 @@ Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m.
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. IX-91, 2000-12-20, Žin., 2000, Nr. 111-3569 (2000-12-29), i. k. 1001010ISTA000IX-91
+
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-416, 2001-06-28, Žin., 2001, Nr. 56-1985 (2001-06-30), i. k. 1011010ISTA00IX-416
 
 Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
