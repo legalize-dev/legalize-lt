@@ -4,7 +4,7 @@ identifier: "TAR.CDC433E7BED2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-07"
-last_updated: "1997-12-02"
+last_updated: "1999-03-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1996
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.12.12)
+Ramunė Lūžaitė (1999.04.14)
 
 Įstatymas
 
@@ -92,6 +92,22 @@ LIETUVOS
 RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 2, 3, 6 STRAIPSNIŲ
 
 PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-1115,
+
+99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
+
+LIETUVOS RESPUBLIKOS
+
+UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 4 IR 7 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
 
 ***
 
@@ -219,25 +235,23 @@ VIII-552, 97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
 
 straipsnis. Užsienio paskolos
 
-Tarpvalstybinės,
+Valstybės
 
-tarpbankinės  sutartys bei sutartys su tarptautinėmis kredito įstaigomis ir
+vardu ir su valstybės garantija gaunamos užsienio paskolos turi būti
 
-organizacijomis dėl užsienio paskolų gavimo arba paskolų suteikimo į užsienį
+įregistruojamos Lietuvos Respublikos finansų ministerijoje Lietuvos Respublikos
 
-turi būti įregistruotos Lietuvos Respublikos finansų ministerijoje.
+Vyriausybės nustatyta tvarka.
 
-Tokia
+Lietuvos
 
-pat tvarka taikoma sutartims dėl paskolų užsienio valiuta, kurių  grąžinimą
+Respublikos juridinių asmenų ir įmonių, neturinčių juridinio asmens teisių,
 
-garantuoja  Lietuvos  Respublikos Vyriausybė.
+gaunamos užsienio paskolos be valstybės garantijos ir užsienio ūkio subjektams
 
-Užsienio
+suteikiamos paskolos turi būti įregistruojamos Lietuvos banke Lietuvos banko
 
-paskolų sutarčių registravimo, paskolų paskirstymo ir grąžinimo tvarką nustato
-
-Lietuvos Respublikos Vyriausybė ir Lietuvos bankas.
+nustatyta tvarka.
 
 Straipsnio
 
@@ -247,19 +261,23 @@ Nr.
 
 I-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
 
+Nr. VIII-1115,
+
+99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
+
 5
 
-straipsnis. Kapitalo ŌveŲimas ir iÕveŲimas
+straipsnis. Kapitalo įvežimas ir išvežimas
 
-UŲsienio
+Užsienio
 
-kapitalo,  investuojamo Lietuvos Respublikoje, ŌveŲimŠ,  taip pat Õio kapitalo,
+kapitalo,  investuojamo Lietuvos Respublikoje, įvežimą,  taip pat šio kapitalo,
 
-gauto pelno ir dividendÖ iÕveŲimŠ  nustato  UŲsienio  kapitalo  investicijÖ
+gauto pelno ir dividendų išvežimą  nustato  užsienio  kapitalo  investicijų
 
-Lietuvos Respublikoje  Ōstatymas  ir  Lietuvos  Respublikos  laisvÖjÖ
+Lietuvos Respublikoje  įstatymas  ir  Lietuvos  Respublikos  laisvųjų
 
-ekonominiÖ zonÖ pagrindÖ Ōstatymas.
+ekonominių zonų pagrindų įstatymas.
 
 Straipsnio
 
@@ -299,9 +317,19 @@ straipsnis. Atsakomybė už įstatymo pažeidimą
 
 Asmenys
 
-už užsienio valiutos naudojimo, operacijų, įvežimo ir išvežimo tvarkos
+už užsienio valiutos naudojimo, operacijų, įvežimo ir išvežimo, taip pat už
 
-pažeidimus atsako pagal Lietuvos Respublikos įstatymus.
+užsienio paskolų registravimo tvarkos pažeidimus atsako pagal Lietuvos
+
+Respublikos įstatymus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-1115,
+
+99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
 
 8
 
@@ -317,9 +345,9 @@ taip pat akcijas, dividendus, tantjemas, draudimo atlyginimą, draudimo sumas ir
 
 kitas išmokas 1993 m. rugpjūčio 1 dienos duomenimis pagal Lietuvos banko
 
-nustatytą oficialų  kursą arba  kita  Lietuvos  Respublikos Vyriausybės
+nustatytą oficialų  kursą arba  kita  Lietuvos  Respublikos Vyriausybės nustatyta
 
-nustatyta tvarka.
+tvarka.
 
 Piniginiai
 
@@ -327,11 +355,11 @@ Piniginiai
 
 terminas baigiasi po 1993 m. rugpjūčio 1 dienos, išskyrus bankų įsipareigojimus
 
-išmokėti iš valiutinių sąskaitų indėlius, taip pat palūkanas už juos ir
+išmokėti iš valiutinių sąskaitų indėlius, taip pat palūkanas už juos ir įsipareigojimus
 
-įsipareigojimus bankams dėl užsienio valiuta išduotų paskolų grąžinimo,
+bankams dėl užsienio valiuta išduotų paskolų grąžinimo, įvykdomi litais pagal
 
-įvykdomi litais pagal Lietuvos banko nustatytą oficialų kursą.
+Lietuvos banko nustatytą oficialų kursą.
 
 9
 
