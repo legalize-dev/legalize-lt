@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "1995-05-03"
+last_updated: "1996-07-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 1995-05-03 iki 1996-07-04
+Suvestinė redakcija nuo 1996-07-05 iki 1997-07-22
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -44,7 +44,11 @@ BENDROJI DALIS
 
 3 straipsnis. Įmonės statusas
 
-1. Įmonė nuo įregistravimo dienos yra juridinis asmuo. Įmonė pagal savo prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas išieškojimas. Įmonės teises valdyti, naudotis ir disponuoti jai patikėtu valstybės ar savivaldybės turtu nustato šis įstatymas ir įmonės įstatai. Įmonė neatsako už valstybės ar savivaldybės prievoles.
+1. Įmonė nuo įregistravimo dienos yra juridinis asmuo. Įmonė pagal savo prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas išieškojimas. Įmonės teises valdyti, naudotis ir disponuoti jai patikėtu valstybės ar savivaldybės turtu nustato šis įstatymas, įmonės įstatai ir kiti Lietuvos Respublikos įstatymai. Įmonė neatsako už valstybės ar savivaldybės prievoles.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA00I-1403
 
 2. Įmonei steigėjas turi teisę nustatyti:
 
@@ -72,7 +76,7 @@ BENDROJI DALIS
 
 3) sudaryti sutartis, prisiimti įsipareigojimus, skolintis piniginių lėšų;
 
-4) disponuoti bet kokiu įmonės trumpalaikiu turtu ir visiškai susidėvėjusiu ilgalaikiu turtu;
+4) disponuoti bet kokiu įmonės trumpalaikiu turtu ir visiškai susidėvėjusiu ilgalaikiu turtu, o jeigu tai nustato kiti Lietuvos Respublikos įstatymai, – ir kitu įmonės turtu;
 
 5) steigėjo leidimu įkeisti ilgalaikį turtą;
 
@@ -87,6 +91,10 @@ BENDROJI DALIS
 10) steigėjo leidimu steigti filialus, jungtis į asociacijas ar konsorciumus tik komanditoriaus teisėmis, jeigu tai neprieštarauja Lietuvos Respublikos konkurencijos įstatymui;
 
 11) turėti kitokių, šio įstatymo nenustatytų, civilinių teisių ir pareigų, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams.
+
+Straipsnio pakeitimai:
+
+Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA00I-1403
 
 II SKIRSNIS
 
@@ -220,7 +228,11 @@ IV SKIRSNIS
 
 6. Įmonė privalo apdrausti turimą valstybės (savivaldybės) kapitalą Lietuvos Respublikoje įregistruotoje draudimo įstaigoje ar įmonėje įstatymų nustatyta tvarka.
 
-7. Įmonei draudžiama investuoti kapitalą kitose įmonėse.
+7. Įmonei draudžiama investuoti kapitalą kitose įmonėse, jeigu kiti įstatymai ypatingais atvejais nesuteikia įmonei tokių investicijų teisės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA00I-1403
 
 8. Įmonės lėšos kaupiamos ir saugomos Lietuvoje įregistruotose banko įstaigose.
 
@@ -453,4 +465,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-866, 1995-04-27, Žin., 1995, Nr. 36-888 (1995-05-03), i. k. 0951010ISTA000I-866
 
 Dėl Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA00I-1403
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas
 
