@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "1995-11-07"
+last_updated: "1996-03-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -16,11 +16,11 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Redaguota: 1995 11 17
+Redaguota: 1996 04 19
 
 Redaguota:
 
-1995 11 17
+1996 04 19
 
 Pakeitimai:
 
@@ -44,9 +44,7 @@ RESPUBLIKOS AKCIZŲ ĮSTATYMO PAPILDYMO
 
 Respublikos 1995 05 30
 
-Įstatymas
-
-Nr.1-905
+Įstatymas Nr.1-905
 
 Žin., 1995
 
@@ -78,9 +76,31 @@ RESPUBLIKOS AKCIZŲ ĮSTATYMO
 
 PAPILDYMO
 
+4.Lietuvos
+
+Respublikos 1996 03 28
+
+Įstatymas
+
+Nr.1-1250
+
+Žin., 1996
+
+Nr.35-857
+
+LIETUVOS
+
+RESPUBLIKOS AKCIZŲ ĮSTATYMO
+
+2 STRAIPSNIO
+
+PAPILDYMO ĮSTATYMAS
+
 LIETUVOS RESPUBLIKOS
 
-A K C I Z Ų
+A
+
+K C I Z Ų
 
 ĮSTATYMAS
 
@@ -104,19 +124,23 @@ akcizais.
 
 Akcizų mokėtojai
 
-Akcizus į
+Akcizus  į
 
-biudžetą  moka  3  straipsnyje  išvardytų  prekių
+biudžetą moka  3  straipsnyje  išvardytų  prekių
 
 gamintojai ir
 
 importuotojai - juridiniai ir fiziniai asmenys bei
 
-juridinio asmens
+juridinio   asmens
 
-teisių neturinčios įmonės.
+teisių   neturinčios   įmonės.   Laisvosiose
 
-Už  naftos
+ekonominėse zonose
+
+zonų įmonės akcizų nemoka.
+
+Už   naftos
 
 produktus,  pagamintus   akcinėje   bendrovėje
 
@@ -174,6 +198,18 @@ Nr.1-1082
 
 Nr.94-1084
 
+3.Lietuvos
+
+Respublikos 1996 03 28
+
+Įstatymas
+
+Nr.1-1250
+
+Žin., 1996
+
+Nr.35-857
+
 3 straipsnis.
 
 Akcizų objektas
@@ -182,9 +218,9 @@ Akcizų objektas
 
 yra šios prekės:
 
-1) nedenatūruotas
+1)
 
-etilo alkoholis  ir alkoholiniai gėrimai,
+nedenatūruotas  etilo alkoholis  ir alkoholiniai gėrimai,
 
 įskaitant alų;
 
@@ -200,7 +236,9 @@ tabakas ir tabako gaminiai;
 
 aukso ir sidabro dirbiniai, išskyrus dirbtinę
 
-bižuteriją ir monetas;
+bižuteriją ir
+
+monetas;
 
 5) variklių
 
@@ -316,7 +354,7 @@ neturinčiai
 
 perdavimo
 
-dokumentais,   perleidžiama  teisė  jomis  disponuoti.
+dokumentais,   perleidžiama  teisė  jomis  disponuoti.
 
 Šiuose dokumentuose
 
@@ -338,9 +376,9 @@ Akcizai yra
 
 prekių kainos elementas ir sąskaitose- faktūrose
 
-bei mokėjimo
+bei mokėjimo dokumentuose
 
-dokumentuose nenurodomi.
+nenurodomi.
 
 Pakeitimai:
 
@@ -404,7 +442,7 @@ parduodamas:
 
 1)  Lietuvos
 
-Respublikos   įmonėms   degtinei,   likeriui,
+Respublikos   įmonėms   degtinei,   likeriui,
 
 trauktinėms, vynui,
 
@@ -418,9 +456,9 @@ medicinos ir
 
 farmacijos reikmėms;  veterinarinių vaistų  gamybos
 
-įmonėms -  veterinarinių
+įmonėms -
 
-vaistų  gamybai ir veterinarijos tiekimo
+veterinarinių vaistų  gamybai ir veterinarijos tiekimo
 
 įmonėms -
 
@@ -444,9 +482,9 @@ Nr.49-1179
 
 Mokestinis laikotarpis
 
-Akcizų (išskyrus
+Akcizų
 
-importuojamų  prekių  akcizus)  mokestinis
+(išskyrus  importuojamų  prekių  akcizus)  mokestinis
 
 laikotarpis yra
 
