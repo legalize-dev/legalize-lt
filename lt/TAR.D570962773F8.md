@@ -4,7 +4,7 @@ identifier: "TAR.D570962773F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-03"
-last_updated: "2003-06-19"
+last_updated: "2003-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 department: "Lietuvos Respublikos Seimas"
@@ -59,9 +59,9 @@ kalbos ir knygos diena;
 
 pasipriešinimo diena;
 
-8) gegužės trečiasis sekmadienis – Partizanų
+8) gegužės trečiasis sekmadienis –
 
-pagerbimo, kariuomenės ir visuomenės vienybės diena;
+Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
 
 9) birželio 1-oji – Tarptautinė vaikų
 
@@ -85,63 +85,61 @@ genocido diena;
 
 diena;
 
-15) birželio 24-oji – Rasos (Joninių)
+15) liepos 15-oji – Žalgirio mūšio
 
 diena;
 
-16) liepos 15-oji – Žalgirio mūšio
-
-diena;
-
-17) liepos paskutinysis sekmadienis –
+16) liepos paskutinis sekmadienis –
 
 Jūros diena;
 
-18) rugpjūčio 23-ioji – Juodojo kaspino
+17) rugpjūčio 23-ioji – Juodojo kaspino
 
 diena;
 
-19) rugpjūčio 31-oji – Laisvės diena;
+18) rugpjūčio 31-oji – Laisvės diena;
 
-20) rugsėjo 1-oji – Mokslo ir žinių
+19) rugsėjo 1-oji – Mokslo ir žinių
 
 diena;
 
-21) rugsėjo 8-oji – Šilinė (Švč.
+20) rugsėjo 8-oji – Šilinė (Švč.
 
 Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už
 
 Lietuvos nepriklausomybės ir laisvės apgynimą diena;
 
-22) rugsėjo 22-oji – Baltų vienybės
+21) rugsėjo 22-oji – Baltų vienybės
 
 diena;
 
-23) rugsėjo 23-ioji – Lietuvos žydų
+22) rugsėjo 23-ioji – Lietuvos žydų
 
 genocido diena;
 
-24) spalio 5-oji – Tarptautinė mokytojų
+23) spalio 5-oji – Tarptautinė mokytojų
 
 diena;
 
-25) spalio antrasis šeštadienis –
+24) spalio antrasis šeštadienis –
 
 Derliaus diena;
 
-26) spalio 25-oji – Konstitucijos diena;
+25) spalio 25-oji – Konstitucijos diena;
 
-27) lapkričio 2-oji – Mirusiųjų atminimo
+26) lapkričio 2-oji – Mirusiųjų atminimo
 
 (Vėlinių) diena;
 
-28) lapkričio 23-ioji – Lietuvos karių diena;
+27) lapkričio 23-ioji – Lietuvos karių
 
-29) lapkričio 30-oji – Mažosios Lietuvos
+diena;
+
+28) lapkričio 30-oji – Mažosios Lietuvos
 
 prisijungimo prie Didžiosios Lietuvos akto diena;
 
-30) gruodžio 10-oji – Tarptautinė
+29) gruodžio 10-oji – Tarptautinė
 
 žmogaus teisių diena.
 
@@ -188,6 +186,10 @@ Nr.
 IX-1633,
 
 2003-06-19, Žin., 2003, Nr. 69-3116 (2003-07-10)
+
+Nr. IX-1699,
+
+2003-07-04, Žin., 2003, Nr. 74-3420 (2003-07-25)
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -315,13 +317,29 @@ ATMINTINŲ
 
 DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1699,
+
+2003-07-04, Žin., 2003, Nr. 74-3420 (2003-07-25)
+
+ATMINTINŲ
+
+DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-07-11)
+Angonita Rupšytė (2003-07-25)
 
-autrap@lrs.lt
+anrups@lrs.lt
 
