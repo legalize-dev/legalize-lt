@@ -4,7 +4,7 @@ identifier: "TAR.A7991130B5FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-07-04"
-last_updated: "1997-07-04"
+last_updated: "1997-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7991130B5FA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,17 @@ entry_into_force_conditions: "Po 1997 m. gruodžio 1 d. lieka galioti objektų p
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1997-07-04 iki 1997-11-30
+Suvestinė redakcija nuo 1997-12-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1530, i. k. 0951010ISTA00I-1001
+
+TAR pastaba. Įstatymas Nr. I-1001 1997-12-01 netenka galios, išskyrus objektų privatizavimą, kurių privatizavimo programos nustatyta tvarka patvirtintos iki 1997-12-01.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-480, 1997-11-04, Žin., 1997, Nr. 107-2688 (1997-11-26), i. k. 0971010ISTAVIII-480
+
+Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -499,4 +507,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-269, 1997-06-17, Žin., 1997, Nr. 64-1499 (1997-07-04), i. k. 0971010ISTAVIII-269
 
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10 straipsnio papildymo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-480, 1997-11-04, Žin., 1997, Nr. 107-2688 (1997-11-26), i. k. 0971010ISTAVIII-480
+
+Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
