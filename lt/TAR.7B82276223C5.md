@@ -4,7 +4,7 @@ identifier: "TAR.7B82276223C5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-12-11"
-last_updated: "2001-12-21"
+last_updated: "2002-03-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7B82276223C5"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -197,29 +197,9 @@ Policijos pareigūnams
 
 draudžiama streikuoti.
 
-8(1) straipsnis. Mokesčių policijos departamentas prie Vidaus reikalų ministerijos
+8(1) straipsnis. Neteko galios nuo
 
-Iki atskiro įstatymo, reglamentuojančio Mokesčių
-
-policijos departamento prie Vidaus reikalų ministerijos pertvarkymą, teisinį
-
-statusą bei veiklos pagrindus, įsigaliojimo, tačiau ne ilgiau kaip iki 2002 m.
-
-balandžio 1 d., Mokesčių policijos departamentui prie Vidaus reikalų
-
-ministerijos vadovauja šio departamento vyriausiasis komisaras. Mokesčių policijos
-
-departamento prie Vidaus reikalų ministerijos bei šio departamento padalinių
-
-pareigūnai iki atskiro įstatymo, reglamentuojančio Mokesčių policijos
-
-departamento prie Vidaus reikalų ministerijos pertvarkymą, teisinį statusą bei
-
-veiklos pagrindus, įsigaliojimo, tačiau ne ilgiau kaip iki 2002 m. balandžio 1
-
-d., turi visas policijos pareigūnų pareigas ir teises, nustatytas Lietuvos
-
-Respublikos policijos veiklos įstatyme.
+2002 m. balandžio 1 d.
 
 Įstatymas
 
@@ -240,6 +220,12 @@ Nr.
 IX-685,
 
 2001-12-21, Žin., 2001, Nr. 112-4091 (2001-12-30)
+
+Nr.
+
+IX-816,
+
+2002-03-28, Žin., 2002, Nr. 33-1250 (2002-03-30), įsigalioja nuo 2002-04-01
 
 9 straipsnis. Neteko galios.
 
@@ -497,9 +483,9 @@ nusikalstamų susivienijimų (organizuotų grupių) narių, asmenų, susijusių 
 
 nusikalstamo susivienijimo veikla, padarytus nusikaltimus, taip pat
 
-nusikaltimus valstybės tarnybai, atlieka kvotą ir parengtinį tardymą šiose
+nusikaltimus valstybės tarnybai, atlieka kvotą ir parengtinį tardymą šiose baudžiamosiose
 
-baudžiamosiose bylose, imasi priemonių tokių nusikaltimų prevencijai.
+bylose, imasi priemonių tokių nusikaltimų prevencijai.
 
 Įstatymas
 
@@ -661,21 +647,21 @@ tarnybon. Tarnybos policijoje teisinis reguliavimas
 
 savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų mokantys
 
-valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą,
+valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą, asmenines
 
-asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka
+savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka policijos
 
-policijos pareigūno pareigoms.
+pareigūno pareigoms.
 
-Į tarnybą policijoje
+Į tarnybą
 
-savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų mokantys
+policijoje savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų
 
-valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą,
+mokantys valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal
 
-asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka
+išsilavinimą, asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos
 
-policijos pareigūno pareigoms.
+būklę tinka policijos pareigūno pareigoms.
 
 Pirmą kartą priimtiems į
 
@@ -771,11 +757,11 @@ prisiekti, į policiją nepriimami.
 
 laipsniai
 
-Policijos
+Policijos pareigūnų
 
-pareigūnų tarnybos stažui, kvalifikacijai ir einamoms pareigoms pažymėti bei
+tarnybos stažui, kvalifikacijai ir einamoms pareigoms pažymėti bei santykiams
 
-santykiams reguliuoti yra šie pareiginiai laipsniai:
+reguliuoti yra šie pareiginiai laipsniai:
 
 policininkas
 
@@ -817,17 +803,17 @@ generalinis
 
 komisaras.
 
-Policijos pareiginiai
+Policijos
 
-laipsniai suteikiami pareigūnams skiriant juos į atitinkamas pareigas ir kai
+pareiginiai laipsniai suteikiami pareigūnams skiriant juos į atitinkamas
 
-jie yra išlaikę kvalifikacinį egzaminą, kurio reikalavimus ir tvarką nustato
+pareigas ir kai jie yra išlaikę kvalifikacinį egzaminą, kurio reikalavimus ir
 
-Lietuvos Respublikos vidaus reikalų ministras. Lietuvos teisės universiteto
+tvarką nustato Lietuvos Respublikos vidaus reikalų ministras. Lietuvos teisės
 
-Policijos fakulteto policijos pareigūnus į pareigas Universiteto statute
+universiteto Policijos fakulteto policijos pareigūnus į pareigas Universiteto
 
-nustatyta tvarka skiria Universiteto rektorius, o pareiginius laipsnius
+statute nustatyta tvarka skiria Universiteto rektorius, o pareiginius laipsnius
 
 Universiteto rektoriaus teikimu jiems suteikia vidaus reikalų ministras.
 
@@ -927,15 +913,15 @@ Nr.90-2777 (00.10.27)
 
 rezervas
 
-Lietuvos Respublikos
+Lietuvos Respublikos policijos
 
-policijos įstaigos turi policijos rezervą. Jį sudaro policijos pareigūnai, dėl
+įstaigos turi policijos rezervą. Jį sudaro policijos pareigūnai, dėl objektyvių
 
-objektyvių priežasčių atleisti iš tarnybos ir jų sutikimu perkelti į policijos
+priežasčių atleisti iš tarnybos ir jų sutikimu perkelti į policijos rezervą,
 
-rezervą, bei tinkantys tarnybai policijoje Lietuvos Respublikos piliečiai,
+bei tinkantys tarnybai policijoje Lietuvos Respublikos piliečiai, kurie
 
-kurie pasižada sąžiningai ir dorai vykdyti jiems patikėtas pareigas. Asmenys į
+pasižada sąžiningai ir dorai vykdyti jiems patikėtas pareigas. Asmenys į
 
 policijos rezervą atrenkami pagal šiame įstatyme numatytus bendruosius
 
@@ -1217,11 +1203,11 @@ pašalpos bei kitos išmokos.
 
 Pagrindinės algos, papildomo
 
-apmokėjimo, priedų, kompensacijų, pašalpų ir kitų išmokų dydį bei skyrimo
+apmokėjimo, priedų, kompensacijų, pašalpų ir kitų išmokų dydį bei skyrimo tvarką
 
-tvarką reguliuoja Lietuvos Respublikos įstatymai ir nustato Respublikos
+reguliuoja Lietuvos Respublikos įstatymai ir nustato Respublikos Vyriausybė
 
-Vyriausybė vidaus reikalų ministro teikimu.
+vidaus reikalų ministro teikimu.
 
 46 straipsnis. Policijos
 
@@ -1241,9 +1227,9 @@ nuo nelaimingų atsitikimų.
 
 Policijos pareigūnų pensijų
 
-ir socialinių garantijų dydį nustato Lietuvos Respublikos įstatymai, o jų
+ir socialinių garantijų dydį nustato Lietuvos Respublikos įstatymai, o jų taikymo
 
-taikymo tvarką Lietuvos Respublikos Vyriausybė.
+tvarką Lietuvos Respublikos Vyriausybė.
 
 47 straipsnis. Kitos
 
@@ -1263,9 +1249,9 @@ atostogų trukmė policijos pareigūnams, ištarnavusiems policijoje (vidaus
 
 reikalų sistemoje):
 
-iki 10 metų - 30
+iki 10 metų - 30 kalendorinių
 
-kalendorinių dienų;
+dienų;
 
 nuo 10 iki 15 metų - 35
 
@@ -1281,9 +1267,9 @@ kalendorinės dienos.
 
 Policijos pareigūnai
 
-įstatymų bei kitų norminių aktų nustatyta tvarka turi teisę į kompensaciją už
+įstatymų bei kitų norminių aktų nustatyta tvarka turi teisę į kompensaciją už išlaidas
 
-išlaidas medikamentams, kelialapiams bei sanatoriniam gydymui.
+medikamentams, kelialapiams bei sanatoriniam gydymui.
 
 Policijos darbuotojų
 
@@ -1411,9 +1397,9 @@ mokymo įstaigų dieniniuose skyriuose, iki jiems sukaks 24 metai, žuvusiojo
 
 vaikams, gimusiems po jo mirties, tėvui (motinai) bei nedarbingiems asmenims,
 
-kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo
+kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą.
 
-išlaikymą. Žuvusysis laidojamas valstybės lėšomis.
+Žuvusysis laidojamas valstybės lėšomis.
 
 Policijos
 
@@ -1585,11 +1571,11 @@ KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU
 
 LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU
 
-LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO
+LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ
 
-KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO IR
+VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO
 
-PAPILDYMO
+IR PAPILDYMO
 
 5.
 
@@ -1717,13 +1703,31 @@ POLICIJOS
 
 ĮSTATYMO 8(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-816,
+
+2002-03-28, Žin., 2002, Nr. 33-1250 (2002-03-30)
+
+FINANSINIŲ
+
+NUSIKALTIMŲ TYRIMO TARNYBOS ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2002 m. balandžio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-01-04)
+Aušrinė Trapinskienė (2002-04-02)
 
 autrap@lrs.lt
 
