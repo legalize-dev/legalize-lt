@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "1998-07-01"
+last_updated: "2000-07-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,13 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 1998-07-01 iki 2000-07-25
+Suvestinė redakcija nuo 2000-07-26 iki 2000-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
+
+Nauja redakcija nuo 2001-01-01:
+
+Nr. VIII-1811, 2000-07-11, Žin. 2000, Nr. 61-1818 (2000-07-26), i. k. 1001010ISTAIII-1811
 
 LIETUVOS RESPUBLIKOS
 
@@ -294,4 +298,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-627, 1998-02-17, Žin., 1998, Nr. 25-630 (1998-03-13), i. k. 0981010ISTAVIII-627
 
 Lietuvos Respublikos labdaros ir paramos įstatymo 10 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1811, 2000-07-11, Žin., 2000, Nr. 61-1818 (2000-07-26), i. k. 1001010ISTAIII-1811
+
+Lietuvos Respublikos labdaros ir paramos įstatymo pakeitimo įstatymas
 
