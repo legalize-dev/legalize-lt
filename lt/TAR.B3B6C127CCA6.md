@@ -4,7 +4,7 @@ identifier: "TAR.B3B6C127CCA6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-12-17"
-last_updated: "2000-05-23"
+last_updated: "2000-12-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B3B6C127CCA6"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -394,11 +394,11 @@ dienas iki prasidedant atostogoms. Darbo užmokestis už kasmetines pailgintas
 
 atostogas gali būti mokamas dalimis. Už pirmąją atostogų dalį (30 kalendorinių
 
-dienų) sumokama ne vėliau kaip prieš tris kalendorines dienas iki prasidedant atostogoms,
+dienų) sumokama ne vėliau kaip prieš tris kalendorines dienas iki prasidedant
 
-o už likusią atostogų dalį - ne vėliau kaip prieš tris kalendorines dienas iki
+atostogoms, o už likusią atostogų dalį - ne vėliau kaip prieš tris kalendorines
 
-jų tęsinio.
+dienas iki jų tęsinio.
 
 Jei darbuotojui
 
@@ -418,9 +418,9 @@ VIII-271,
 
 97.06.17, Žin., 1997, Nr.63-1475 (97.07.02)
 
-16 straipsnis. Piniginė
+16 straipsnis. Piniginė kompensacija
 
-kompensacija už nepanaudotas kasmetines atostogas
+už nepanaudotas kasmetines atostogas
 
 Darbuotojams pakeisti
 
@@ -470,27 +470,35 @@ mokymosi;
 
 nemokamos.
 
-18 straipsnis. Nėštumo ir
+18 straipsnis.
 
-gimdymo atostogos
+Nėštumo ir gimdymo atostogos
 
-Moterims suteikiamos nėštumo
+Moterims
 
-ir gimdymo atostogos - 70 kalendorinių dienų iki gimdymo ir 56 kalendorinės
+suteikiamos nėštumo ir gimdymo atostogos – 70 kalendorinių dienų iki gimdymo ir
 
-dienos po gimdymo (komplikuoto gimdymo atveju arba gimus dviems ar daugiau
+56 kalendorinės dienos po gimdymo (komplikuoto gimdymo atveju arba gimus dviem
 
-vaikų - 70 kalendorinių dienų). Šios atostogos apskaičiuojamos bendrai ir
+ir daugiau vaikų – 70 kalendorinių dienų). Šios atostogos apskaičiuojamos
 
-suteikiamos moteriai visos nepriklausomai nuo faktiškai iki gimdymo išnaudotų
+bendrai ir suteikiamos moteriai visos, neatsižvelgiant į faktiškai išnaudotų
 
-dienų skaičiaus. Už šių atostogų laiką mokama Lietuvos Respublikos valstybinio
+dienų skaičių. Už šių atostogų laiką mokama Lietuvos Respublikos ligos ir
 
-socialinio draudimo įstatymo nustatyta pašalpa.
+motinystės socialinio draudimo įstatymo nustatyta pašalpa.
 
-19 straipsnis. Atostogos vaikui
+Straipsnio
 
-prižiūrėti iki jam sueis treji metai
+pakeitimai:
+
+Nr. IX-111, 2000 12 21, Žin., 2000, Nr.
+
+111-3575 (2000 12 29), įsigalioja nuo 2001 01 01
+
+19 straipsnis. Atostogos
+
+vaikui prižiūrėti iki jam sueis treji metai
 
 Motinai, jos pageidavimu,
 
@@ -528,11 +536,11 @@ kalendorinių dienų trukmės nemokamos atostogos.
 
 Moters nėštumo ir gimdymo
 
-bei vaiko priežiūros iki jam sueis treji metai atostogų metu tėvui jo pageidavimu
+bei vaiko priežiūros iki jam sueis treji metai atostogų metu tėvui jo
 
-suteikiamos nemokamos atostogos, kurių bendra trukmė negali viršyti trijų
+pageidavimu suteikiamos nemokamos atostogos, kurių bendra trukmė negali viršyti
 
-mėnesių.
+trijų mėnesių.
 
 Straipsnio
 
@@ -546,15 +554,15 @@ Nr. VIII-365,
 
 įvaikinusiems asmenims
 
-Asmenims, įvaikinusiems
+Asmenims, įvaikinusiems naujagimius,
 
-naujagimius, ir globėjams, paėmusiems kūdikius į globą, suteikiamos atostogos
+ir globėjams, paėmusiems kūdikius į globą, suteikiamos atostogos už laiką nuo
 
-už laiką nuo įvaikinimo ar paėmimo į globą dienos iki kūdikiui sueis 70 dienų,
+įvaikinimo ar paėmimo į globą dienos iki kūdikiui sueis 70 dienų, mokant už jas
 
-mokant už jas taip, kaip numatyta šio įstatymo 18 straipsnyje. Jiems taip pat
+taip, kaip numatyta šio įstatymo 18 straipsnyje. Jiems taip pat suteikiamos
 
-suteikiamos atostogos, numatytos šio įstatymo 19 ir 20 straipsniuose.
+atostogos, numatytos šio įstatymo 19 ir 20 straipsniuose.
 
 22 straipsnis. Atostogos
 
@@ -632,13 +640,11 @@ aukštąsias ir aukštesniąsias mokyklas su įmonių siuntimais, už suteikiama
 
 atostogas šios įmonės moka ne mažesnį kaip vidutinį darbo užmokestį.
 
-Darbuotojams, laikantiems
+Darbuotojams, laikantiems stojamuosius
 
-stojamuosius egzaminus ir besimokantiems savo iniciatyva, mokymosi laiko
+egzaminus ir besimokantiems savo iniciatyva, mokymosi laiko apmokėjimo
 
-apmokėjimo klausimas sprendžiamas kolektyvinėje sutartyje arba šalims
-
-susitarus.
+klausimas sprendžiamas kolektyvinėje sutartyje arba šalims susitarus.
 
 25 straipsnis. Nemokamos
 
@@ -690,9 +696,9 @@ lengvatą pasirinkti atostogų laiką, negali būti nustatytos kolektyvinėse ir
 
 darbo sutartyse, sudaromose įstaigose, organizacijose, kurios yra išlaikomos iš
 
-valstybės, savivaldybių ir valstybinio socialinio draudimo fondo biudžetų bei kitų
+valstybės, savivaldybių ir valstybinio socialinio draudimo fondo biudžetų bei
 
-valstybės įsteigtų fondų lėšų, taip pat sudaromose Lietuvos banke.
+kitų valstybės įsteigtų fondų lėšų, taip pat sudaromose Lietuvos banke.
 
 Straipsnio
 
@@ -742,7 +748,7 @@ Vilnius, 1991 m. gruodžio 17 d.
 
 Nr.I-2113
 
-_______________
+__________
 
 Pakeitimai:
 
@@ -820,9 +826,9 @@ RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 20, 25 IR 26 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1702, 00.05.23, Žin., 2000,
+Nr. VIII-1702, 00.05.23, Žin., 2000, Nr.44-1248
 
-Nr.44-1248 (00.05.31)
+(00.05.31)
 
 ATOSTOGŲ ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
@@ -834,7 +840,23 @@ Respublikos teisingumo ministerijos ir jam pavaldžių įstaigų bei valstybės
 
 įmonių pareigūnams įsigalioja nuo 2000 m. rugsėjo 1 d.
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-111, 2000 12 21, Žin., 2000, Nr.
+
+111-3575 (2000 12 29)
+
+ATOSTOGŲ ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.05.31)
+Redagavo: Aušrinė Trapinskienė (2001 01 09)
+
+autrap@lrs.lt
 
