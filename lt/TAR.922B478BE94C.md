@@ -4,7 +4,7 @@ identifier: "TAR.922B478BE94C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "1998-04-01"
+last_updated: "2002-03-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.922B478BE94C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos hipotekos registro įstatymas
 
-Suvestinė redakcija nuo 1998-04-01 iki 2002-03-19
+Suvestinė redakcija nuo 2002-03-20 iki 2002-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2266, i. k. 0961010ISTA00I-1544
 
@@ -118,11 +118,23 @@ Nr. VIII-668, 1998-03-19, Žin., 1998, Nr. 31-820 (1998-04-01); Žin., 1998, Nr.
 
 2. Hipotekos registro duomenų originalai (turintys juridinę galią duomenys) kaupiami ir saugomi centriniame hipotekos registre, o šių duomenų kopijos – vietiniuose hipotekos registruose.
 
-3. Fizinių ir juridinių asmenų patirtą žalą dėl klaidų hipotekos registre, atsiradusių tvarkant centrinį hipotekos registrą, atlygina valstybė įstatymų nustatyta tvarka. Žala išieškoma teismine tvarka. Valstybei civilinėse bylose dėl žalos atlyginimo atstovauja Teisingumo ministerija.
+3. Fizinių ir juridinių asmenų patirtą žalą dėl klaidų hipotekos registre, atsiradusių  tvarkant  centrinį hipotekos registrą, atlygina valstybė įstatymų nustatyta tvarka. Žala išieškoma teismo tvarka.
 
-4. Priteistos atlygintinos žalos suma išieškoma iš centrinio hipotekos registro tvarkymo įstaigos lėšų, o jei ši įstaiga neturi pakankamai lėšų žalai atlyginti, – iš valstybės biudžeto.
+Straipsnio dalies pakeitimai:
 
-5. Valstybė, atlyginusi žalą, įgyja atgręžtinio reikalavimo teisę į centrinio hipotekos registro tvarkymo įstaigos darbuotojus, kurių neteisėtais veiksmais buvo padaryta žala. Atgręžtinio reikalavimo tvarka išieškotos sumos sumokamos į valstybės biudžetą.
+Nr. IX-745, 2002-02-28, Žin., 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
+
+4. Neteko galios nuo 2002-03-20
+
+Straipsnio dalies naikinimas:
+
+Nr. IX-745, 2002-02-28, Žin. 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
+
+5. Neteko galios nuo 2002-03-20
+
+Straipsnio dalies naikinimas:
+
+Nr. IX-745, 2002-02-28, Žin. 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
 
 7 straipsnis. Hipotekos registro likvidavimo (reorganizavimo) tvarka
 
@@ -157,6 +169,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-668, 1998-03-19, Žin., 1998, Nr. 31-820 (1998-04-01); Žin., 1998, Nr. 32-0 (1998-04-03), i. k. 0981010ISTAVIII-668
 
 Lietuvos Respublikos hipotekos registro steigimo įstatymo 2, 3, 4, 5 straipsnių pakeitimo ir papildymo 5-1 straipsniu įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-745, 2002-02-28, Žin., 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
+
+Lietuvos Respublikos hipotekos registro steigimo įstatymo 1, 5, 6 straipsnių papildymo ir pakeitimo įstatymas
 
 51 straipsnis. Hipotekos kreditorių pareiškimų dėl skolos išieškojimo tenkinimo termino atidėjimas
 
