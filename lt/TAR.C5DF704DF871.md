@@ -4,7 +4,7 @@ identifier: "TAR.C5DF704DF871"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-22"
-last_updated: "1996-03-28"
+last_updated: "1996-04-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C5DF704DF871"
 department: "Lietuvos Respublikos Seimas"
@@ -192,6 +192,28 @@ RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO
 6
 
 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+1-1308, 96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
+
+LIETUVOS
+
+RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO
+
+ĮSTATYMO
+
+35 IR 36 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.
 
 *** Pabaiga ***
 
@@ -1699,39 +1721,33 @@ biudžeto šio
 
 įstatymo 17 straipsnyje nustatyta tvarka ir terminais.
 
-Nustatytu
+Nustatytu laiku
 
-laiku  PVM  nesumokėjus  (negrąžinus),  imama  0,2
+PVM nesumokėjus (negrąžinus), imami delspinigiai
 
-procento
+Lietuvos
 
-delspinigių  už  kiekvieną  pradelstą  dieną  nuo  kitos
+Respublikos  mokesčių  administravimo įstatymo nustatyta
 
-dienos po to, kai
+tvarka. Delspinigiai
 
-mokestis turėjo būti sumokėtas arba pervestas į
+imami ir už mokėtojo prašymu nepagrįstai jam
 
-biudžetą
+grąžintas  PVM
 
-(grąžintas).  Delspinigiai imami  ir už mokėtojo prašymu
+sumas. Jeigu   nesilaikoma   nustatytos  muitinės
 
-nepagrįstai jam
+procedūrų  atlikimo
 
-grąžintas PVM  sumas nuo  grąžinimo iš  biudžeto
+tvarkos ir laiku  nepateikiama  importo arba
 
-dienos. Jeigu
+eksporto muitinės
 
-nesilaikoma nustatytos muitinės procedūrų atlikimo
+deklaracija, laikas, per kurį turi būti sumokėtas
 
-tvarkos  ir  importo
+PVM, skaičiuojamas
 
-muitinės  deklaracija  laiku  nepateikiama,
-
-delspinigiai
-
-pradedami  skaičiuoti tą  dieną, kai  ši deklaracija
-
-turėjo būti
+nuo tos dienos, kai ši deklaracija turėjo būti
 
 pateikta.
 
@@ -1779,57 +1795,67 @@ Nr.1-1185
 
 Nr.13-343
 
+Nr. 1-1308,
+
+96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
+
 IX.
 
 MOKESČIO KONTROLĖ IR EKONOMINĖS SANKCIJOS
 
 36
 
-straipsnis.   Jeigu   tikrinant  nustatoma,  kad asmenys,
+straipsnis.  Jeigu   tikrinant  nustatoma,  kad  asmenys,
 
-nurodyti   šio
+nurodyti
 
-įstatymo  6  straipsnio  trečiojoje dalyje  ir  8
+šio   įstatymo  6   straipsnio  trečiojoje  dalyje  ir 8
 
 straipsnyje,
 
-nesumokėjo  PVM, o  mokėtojai deklaracijoje sumažino
+nesumokėjo PVM, o  mokėtojai  deklaracijoje sumažino
 
-apskaičiuotą PVM
+apskaičiuotą
 
-sumą arba per daug šio mokesčio atskaitė ir dėl
+PVM sumą arba per daug šio  mokesčio atskaitė ir dėl
 
-to per   mažai  jo
+to
 
-sumokėjo  į biudžetą,  apskaičiuotą  papildomą
+per mažai jo  sumokėjo  į  biudžetą,  apskaičiuota   papildoma
 
-mokesčio sumą   ir
+mokesčio
 
-jos dydžio baudą privalo per penkias dienas po
+suma, bauda ir delspinigiai turi būti sumokėti į biudžetą
 
-pažeidimo nustatymo
+Lietuvos
 
-dienos sumokėti į biudžetą.
+Respublikos mokesčių administravimo  įstatymo  nustatyta
 
-Laiku  nesumokėtas
+tvarka.
 
-mokesčių   ir   baudų   sumas   išieško
+Laiku
 
-valstybinės mokesčių
+nesumokėtas mokesčių, baudų ir delspinigių sumas išieško
 
-inspekcijos, o laiku nesumokėtas importo PVM
+valstybinės
 
-sumas, baudas  ir
+mokesčių  inspekcijos  Lietuvos  Respublikos  mokesčių
 
-delspinigius - muitinės įstaigos. Šios sumos iš
+administravimo
 
-įmonių, įstaigų  ir
+įstatymo  nustatyta  tvarka,  o  laiku nesumokėtas
 
-organizacijų išieškomos ne ginčo tvarka, o iš
+importo
 
-fizinių asmenų - per
+PVM sumas, baudas ir delspinigius išieško muitinės įstaigos
 
-teismą.
+iš
+
+įmonių, įstaigų ir organizacijų ne  ginčo  tvarka,  iš  fizinių
+
+asmenų
+
+- per teismą.
 
 Lietuvos
 
@@ -1864,6 +1890,10 @@ Nr.1-1159
 Žin., 1996,
 
 Nr1-3
+
+Nr. 1-1308,
+
+96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
 
 X. BAIGIAMOSIOS NUOSTATOS
 
@@ -1937,7 +1967,7 @@ litų. Ši tvarka pradedama taikyti realizuotai
 
 produkcijai  ir
 
-suteiktoms  paslaugoms  nuo  1995  m.  liepos  1
+suteiktoms  paslaugoms  nuo  1995  m.  liepos  1
 
 dienos.
 
@@ -2771,7 +2801,7 @@ Nr.92-2057
 
 38-1
 
-straipsnis. Gamybinės įmonės,   kuriose  dirba  riboto
+straipsnis. Gamybinės įmonės,   kuriose  dirba  riboto
 
 darbingumo asmenų,
 
@@ -2815,7 +2845,7 @@ proc.                                90 proc.
 
 nuo 40 iki 45
 
-proc.                          70 proc.
+proc.                          70 proc.
 
 Invalidų
 
