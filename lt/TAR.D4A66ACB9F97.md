@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2000-12-30"
+last_updated: "2001-06-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -372,19 +372,29 @@ Nr. IX-96, 2000 12 20, Žin., 2000, Nr.
 
 113-3605 (2000 12 30), įsigalioja nuo 2001 01 01
 
-4 straipsnis. Turto ir
+4 straipsnis.
 
-pajamų deklaravimas
+Turto ir pajamų deklaravimas
 
-Turto ir pajamų deklaracijos
+Turto
 
-formą bei metodinius nurodymus, kaip ją pildyti, nustato Vyriausybė. Valstybinė
+ir pajamų deklaracijos formą bei metodinius nurodymus, kaip ją pildyti, nustato
 
-mokesčių inspekcija pagal šį įstatymą deklaruojančius turtą ir pajamas asmenis
+Vyriausybė arba jos įgaliota institucija. Valstybinė mokesčių inspekcija pagal
 
-nemokamai aprūpina turto ir pajamų deklaracijų blankais bei metodiniais
+šį įstatymą deklaruojančius turtą ir pajamas asmenis nemokamai aprūpina turto
 
-nurodymais. Užpildytos turto ir pajamų deklaracijos saugomos nuolatinai.
+ir pajamų deklaracijų blankais bei metodiniais nurodymais. Užpildytos turto ir
+
+pajamų deklaracijos saugomos 10 metų nuo gavimo datos.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-334, 2001 05 22, Žin., 2001, Nr.
+
+48-1658 (2001 06 06)
 
 5
 
@@ -408,13 +418,13 @@ ministrus ir savivaldybių tarybų narius bei jų šeimų nariai privalo deklaru
 
 turtą ir pajamas nuo kalendorinių metų pradžios iki kandidatavimo pradžios.
 
-Turtą ir pajamas deklaravusiems kandidatams į politikus valstybinė mokesčių
+Turtą ir pajamas deklaravusiems kandidatams į politikus valstybinė mokesčių inspekcija
 
-inspekcija per 15 darbo dienų išduoda patvirtintus pagrindinių deklaracijos
+per 15 darbo dienų išduoda patvirtintus pagrindinių deklaracijos duomenų
 
-duomenų išrašus, kuriuos šie asmenys privalo pateikti Vyriausiajai rinkimų
+išrašus, kuriuos šie asmenys privalo pateikti Vyriausiajai rinkimų komisijai ar
 
-komisijai ar apygardos rinkimų komisijai.
+apygardos rinkimų komisijai.
 
 2.
 
@@ -522,13 +532,13 @@ patvirtintos formos pažymas apie Lietuvos Respublikos gyventojams per
 
 praėjusius metus išmokėtas sumas, išskaičiuotus mokesčius, nemokamai išduotą
 
-turtą ar suteiktas paslaugas. Vieną šios pažymos egzempliorių išdavėjai
+turtą ar suteiktas paslaugas. Vieną šios pažymos egzempliorių išdavėjai nemokamai
 
-nemokamai išsiunčia ar išduoda šio įstatymo 11 straipsnio 1–5 punktuose
+išsiunčia ar išduoda šio įstatymo 11 straipsnio 1–5 punktuose nurodytiems
 
-nurodytiems Lietuvos Respublikos gyventojams, o kitą – jų gyvenamosios vietos
+Lietuvos Respublikos gyventojams, o kitą – jų gyvenamosios vietos valstybinei
 
-valstybinei mokesčių inspekcijai.
+mokesčių inspekcijai.
 
 2. Šio įstatymo 11
 
@@ -616,9 +626,9 @@ Nr. IX-96, 2000 12 20, Žin., 2000, Nr.
 
 113-3605 (2000 12 30), įsigalioja nuo 2001 01 01
 
-7 straipsnis. Duomenų
+7 straipsnis. Duomenų kaupimas
 
-kaupimas ir kontrolė
+ir kontrolė
 
 1. Valstybinė mokesčių
 
@@ -774,9 +784,9 @@ Nr. VIII-714,
 
 98.04.23, Žin., 1998, Nr.41-1096 (98.05.01)
 
-Nr. VIII-1887, 00.07.20, Žin., 2000, Nr.67-2017
+Nr. VIII-1887, 00.07.20, Žin., 2000,
 
-(00.08.09)
+Nr.67-2017 (00.08.09)
 
 11 straipsnis.
 
@@ -918,13 +928,13 @@ Respublikos Ministras Pirmininkas ir ministrai, viceministrai, ministerijų
 
 sekretoriai.
 
-4. Lietuvos Respublikos
+4. Lietuvos
 
-teismų pirmininkai, jų pavaduotojai, skyrių pirmininkai, teisėjai ir teismų
+Respublikos teismų pirmininkai, jų pavaduotojai, skyrių pirmininkai, teisėjai
 
-antstoliai, Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės
+ir teismų antstoliai, Mokestinių ginčų komisijos prie Lietuvos Respublikos
 
-nariai.
+Vyriausybės nariai.
 
 5. Generalinis
 
@@ -1052,17 +1062,17 @@ ir skyrių vedėjų (viršininkų) pavaduotojai, vyriausiasis buhalteris
 
 (finansininkas) ir vyriausiojo buhalterio (finansininko) pavaduotojai.
 
-5. Lietuvos
+5. Lietuvos Respublikos
 
-Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų),
+Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų), prie
 
-prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės
+ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo
 
-valdymo institucijų vyriausieji buhalteriai (finansininkai) ir vyriausiųjų
+institucijų vyriausieji buhalteriai (finansininkai) ir vyriausiųjų buhalterių
 
-buhalterių (finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos
+(finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos institucijos šiame
 
-institucijos šiame punkte išvardytų institucijų skelbiamą sąrašą).
+punkte išvardytų institucijų skelbiamą sąrašą).
 
 6. Ministerijų
 
@@ -1268,9 +1278,21 @@ STRAIPSNIU ĮSTATYMAS
 
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-334, 2001 05 22, Žin., 2001, Nr.
+
+48-1658 (2001 06 06)
+
+GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 4
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2001 01 11)
+Redagavo: Aušrinė Trapinskienė (2001 06 06)
 
 autrap@lrs.lt
 
