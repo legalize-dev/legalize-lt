@@ -4,7 +4,7 @@ identifier: "TAR.70F4FFCAE536"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-25"
-last_updated: "2001-05-09"
+last_updated: "2001-07-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
 
-Suvestinė redakcija nuo 2001-05-09 iki 2001-07-24
+Suvestinė redakcija nuo 2001-07-25 iki 2003-11-04
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
 
@@ -85,7 +85,11 @@ Vaiko teisių apsaugos kontrolierius negali eiti jokių kitų renkamų ar skiria
 
 Vaiko teisių apsaugos kontrolierius, eidamas tarnybines pareigas, yra nepriklausomas nuo valstybės ir savivaldybių institucijų ar įstaigų ir jų pareigūnų, nevalstybinių institucijų ar piliečių ir vadovaujasi tik įstatymais.
 
-10 straipsnis. Vaiko teisių apsaugos kontrolieriaus darbo apmokėjimas ir garantijos atleidus jį iš pareigų
+10 straipsnis. Vaiko teisių apsaugos kontrolieriaus darbo apmokėjimas, socialinės garantijos ir garantijos atleidus iš pareigų
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
 
 1. Vaiko teisių apsaugos kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių mėnesinis atlyginimas. Priedai ar premijos jam nemokami. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, vaiko teisių apsaugos kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
 
@@ -93,13 +97,27 @@ Straipsnio dalies pakeitimai:
 
 Nr. IX-273, 2001-04-19, Žin., 2001, Nr. 39-1344 (2001-05-09), i. k. 1011010ISTA00IX-273
 
-2. Vaiko teisių apsaugos kontrolieriui, atleistam iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, išmokama jo vidutinio mėnesinio darbo užmokesčio dydžio išeitinė pašalpa; pagal 6 straipsnio 1 dalies 3 ir 5 punktus – dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio išeitinė pašalpa, o jam mirus – jo šeimai išmokama dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio kompensacija.
+2. Vaiko teisių apsaugos kontrolierius valstybiniu socialiniu draudimu draudžiamas Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
 
-3. Vaiko teisių apsaugos kontrolierius, atleistas iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, Valstybės tarnybos įstatymo nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.
+Papildyta straipsnio dalimi:
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
+
+3. Vaiko teisių apsaugos kontrolieriui, atleistam iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, išmokama jo vidutinio mėnesinio darbo užmokesčio dydžio išeitinė pašalpa; pagal 6 straipsnio 1 dalies 3 ir 5 punktus – dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio išeitinė pašalpa, o jam mirus – jo šeimai išmokama dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio kompensacija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
+
+4. Vaiko teisių apsaugos kontrolierius, atleistas iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, Valstybės tarnybos įstatymo nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-122, 2000-12-21, Žin., 2000, Nr. 111-3581 (2000-12-29), i. k. 1001010ISTA00IX-122
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
 
 11 straipsnis. Vaiko teisių apsaugos kontrolieriaus pavaduotojas
 
@@ -372,4 +390,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-273, 2001-04-19, Žin., 2001, Nr. 39-1344 (2001-05-09), i. k. 1011010ISTA00IX-273
 
 Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 10 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
+
+Lietuvos Respublikos valstybės kontrolės įstatymo, Teismų įstatymo, Konstitucinio Teismo įstatymo, Seimo kontrolierių įstatymo, Seimo narių darbo sąlygų įstatymo, Prokuratūros įstatymo, Tarnybos Lietuvos Respublikos prokuratūroje statuto, Moterų ir vyrų lygių galimybių įstatymo, Vaiko teisių apsaugos kontrolieriaus įstatymo pakeitimo ir papildymo įstatymas
 
