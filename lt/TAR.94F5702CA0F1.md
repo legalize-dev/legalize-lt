@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2003-05-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2005-12-07
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -313,7 +313,11 @@ ANTSTOLIO VEIKLA
 
 22 straipsnis. Antstolio teisė gauti informaciją
 
-1. Atlikdamas šio Įstatymo 21 straipsnio 1 dalyje nurodytas funkcijas, antstolis turi teisę neatlygintinai gauti iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, Valstybinio socialinio draudimo fondo įstaigų, kadastrų ir registrų bei kitų fizinių ir juridinių asmenų, tarp jų iš bankų ir kitų kredito bei finansų įstaigų reikalingus duomenis, nepaisant jų pateikimo formos ir būdo, dokumentų nuorašus, kompiuterinių laikmenų duomenis ar jų kopijas apie skolininko turtą, lėšas, pajamas, išlaidas ir veiklą bei kitus duomenis, reikalingus antstolio funkcijoms atlikti.
+1. Atlikdamas šio Įstatymo 21 straipsnio 1 dalyje nurodytas funkcijas, antstolis turi teisę neatlygintinai gauti iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, Valstybinio socialinio draudimo fondo administravimo įstaigų, kadastrų ir registrų bei kitų fizinių ir juridinių asmenų, tarp jų iš bankų ir kitų kredito bei finansų įstaigų, reikalingus duomenis, nepaisant jų pateikimo formos ir būdo, dokumentų nuorašus, kompiuterinių laikmenų duomenis ar jų kopijas apie skolininko turtą, lėšas, pajamas, išlaidas ir veiklą bei kitus duomenis, reikalingus antstolio funkcijoms atlikti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2537, 2004-11-04, Žin., 2004, Nr. 171-6297 (2004-11-26), i. k. 1041010ISTA0IX-2537
 
 2. Antstolis neturi teisės reikalauti šio straipsnio 1 dalyje nurodytų duomenų, dokumentų ar kitos informacijos, jeigu jie nėra susiję su antstolio funkcijų atlikimu.
 
@@ -615,7 +619,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -626,4 +630,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1459, 2003-04-03, Žin., 2003, Nr. 38-1704 (2003-04-24), i. k. 1031010ISTA0IX-1459
 
 Lietuvos Respublikos antstolių įstatymo 11 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2537, 2004-11-04, Žin., 2004, Nr. 171-6297 (2004-11-26), i. k. 1041010ISTA0IX-2537
+
+Lietuvos Respublikos antstolių įstatymo, Notariato įstatymo, Bankų įstatymo, Centrinės kredito unijos įstatymo pakeitimo įstatymas
 
