@@ -4,7 +4,7 @@ identifier: "TAR.793560F67ADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-03-21"
-last_updated: "1996-07-01"
+last_updated: "2001-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 1996-07-01 iki 2000-12-31
+Suvestinė redakcija nuo 2001-01-01 iki 2002-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
 
@@ -72,7 +72,11 @@ Nr. I-1313, 1996-04-30, Žin., 1996, Nr. 46-1108 (1996-05-17), i. k. 0961010ISTA
 
 11 straipsnis. Mokestis už valstybinius gamtos išteklius įskaitomas į gamybos kaštus ir mokamas į valstybės biudžetą.
 
-Lėšos už ekonomines sankcijas išieškomos iš mokėtojui liekančio pelno į Valstybinį gamtos apsaugos fondą.
+Lėšos už ekonomines sankcijas išieškomos iš mokėtojui liekančio pelno į Valstybės iždo sąskaitą, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos. Išieškotos lėšos naudojamos Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatyme numatytiems tikslams.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-2028, 2000-10-12, Žin., 2000, Nr. 90-2775 (2000-10-27), i. k. 1001010ISTAIII-2028
 
 LIETUVOS RESPUBLIKOS
 
@@ -93,4 +97,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1313, 1996-04-30, Žin., 1996, Nr. 46-1108 (1996-05-17), i. k. 0961010ISTA00I-1313
 
 Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 7, 9, 10 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-2028, 2000-10-12, Žin., 2000, Nr. 90-2775 (2000-10-27), i. k. 1001010ISTAIII-2028
+
+Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 11 straipsnio pakeitimo įstatymas
 
