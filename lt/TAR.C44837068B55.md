@@ -4,7 +4,7 @@ identifier: "TAR.C44837068B55"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-19"
-last_updated: "1999-11-04"
+last_updated: "2001-05-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C44837068B55"
 department: "Lietuvos Respublikos Seimas"
@@ -109,6 +109,22 @@ finansų maklerių įmonės, investicijų valdymo bei konsultavimo įmonės. Lom
 
 ir pašto veikla šiame įstatyme prilyginama finansinės įstaigos veiklai.
 
+[5 dalies redakcija nuo 2001 m. liepos 1
+
+d.:
+
+5. Finansinės
+
+įstaigos – draudimo įmonės ir draudimo brokeriai, investicinės kintamojo
+
+kapitalo bendrovės, investicinių bendrovių valdymo įmonės ir depozitoriumai,
+
+finansų maklerių įmonės, investicijų valdymo bei konsultavimo įmonės. Lombardo,
+
+azartinius lošimus organizuojančios bendrovės ir pašto veikla šiame įstatyme
+
+prilyginama finansinės įstaigos veiklai.]
+
 6. Klientas
 
 - juridinis ar fizinis asmuo ar įmonė, neturinti juridinio asmens teisių,
@@ -145,6 +161,10 @@ Nr. VIII-1388,
 
 1999-11-04, Žin., 1999, Nr. 99-2845 (1999-11-24)
 
+Nr. IX-335,
+
+2001-05-22, Žin., 2001, Nr. 48-1659 (2001-06-06), įsigalioja nuo 2001-07-01
+
 ANTRASIS
 
 SKIRSNIS
@@ -155,7 +175,9 @@ INSTITUCIJOS, ATSAKINGOS UŽ PINIGŲ PLOVIMO PREVENCIJOS PRIEMONIŲ ĮGYVENDINIM
 
 3 straipsnis.
 
-Valstybės institucijos, atsakingos už pinigų plovimo prevencijos priemonių
+Valstybės institucijos, atsakingos už pinigų plovimo prevencijos
+
+priemonių
 
 įgyvendinimą
 
@@ -171,9 +193,7 @@ prevencijos priemonių įgyvendinimą.
 
 4 straipsnis.
 
-Metodinių rekomendacijų kredito įstaigoms pinigų plovimo prevencijos
-
-klausimais
+Metodinių rekomendacijų kredito įstaigoms pinigų plovimo prevencijos klausimais
 
 priėmimas
 
@@ -185,9 +205,7 @@ siekiama užkirsti kelią pinigų plovimui.
 
 5 straipsnis.
 
-Mokesčių policijos funkcijos įgyvendinant pinigų plovimo prevencijos
-
-priemones
+Mokesčių policijos funkcijos įgyvendinant pinigų plovimo prevencijos priemones
 
 Mokesčių policija pagal
 
@@ -199,11 +217,9 @@ registruoja šiame įstatyme nurodytą informaciją apie kliento operacijas
 
 pinigais ir klientą, atliekantį šias operacijas;
 
-2) renka ir
+2) renka ir analizuoja
 
-analizuoja informaciją, susijusią su pinigų plovimo prevencijos priemonių
-
-įgyvendinimu;
+informaciją, susijusią su pinigų plovimo prevencijos priemonių įgyvendinimu;
 
 3) teikia
 
@@ -265,9 +281,9 @@ prevencijos priemonių įgyvendinimu;
 
 valstybės institucijų, kredito ir finansinių įstaigų, kitų juridinių asmenų ir
 
-įmonių, neturinčių juridinio asmens teisių, informaciją, susijusią su pinigų
+įmonių, neturinčių juridinio asmens teisių, informaciją, susijusią su pinigų plovimo
 
-plovimo prevencijos priemonių įgyvendinimu;
+prevencijos priemonių įgyvendinimu;
 
 4) koordinuoti
 
@@ -299,15 +315,15 @@ Valstybės institucijų bendradarbiavimas
 
 1. Teisėsaugos
 
-ir kitos valstybės institucijos privalo pranešti mokesčių policijai apie pastebėtus
+ir kitos valstybės institucijos privalo pranešti mokesčių policijai apie
 
-galimo pinigų plovimo požymius, šio įstatymo pažeidimus ir priemones, kurių
+pastebėtus galimo pinigų plovimo požymius, šio įstatymo pažeidimus ir
 
-buvo imtasi prieš pažeidėjus. Duomenis, kuriuos valstybės institucijos turi
+priemones, kurių buvo imtasi prieš pažeidėjus. Duomenis, kuriuos valstybės
 
-pranešti mokesčių policijai, ir šios informacijos pateikimo tvarką nustato
+institucijos turi pranešti mokesčių policijai, ir šios informacijos pateikimo
 
-Vyriausybė.
+tvarką nustato Vyriausybė.
 
 2. Informacija,
 
@@ -341,11 +357,11 @@ ir finansinės įstaigos įtaria, kad jose atliekamos kliento operacijos pinigai
 
 gali būti susijusios su pinigų plovimu, jos privalo nustatyti kliento tapatybę
 
-ir 12 straipsnio 1 dalyje nurodytą informaciją apie atliktą operaciją pinigais nedelsdamos,
+ir 12 straipsnio 1 dalyje nurodytą informaciją apie atliktą operaciją pinigais
 
-bet ne vėliau kaip per 3 darbo dienas nuo operacijos atlikimo dienos, pateikti
+nedelsdamos, bet ne vėliau kaip per 3 darbo dienas nuo operacijos atlikimo
 
-mokesčių policijai nepaisant operacijos pinigais dydžio.
+dienos, pateikti mokesčių policijai nepaisant operacijos pinigais dydžio.
 
 2. Notarai ar
 
@@ -355,11 +371,11 @@ klientų sudaromi sandoriai gali būti susiję su pinigų plovimu, privalo klien
 
 tapatybę patvirtinančius duomenis ir 12 straipsnio 1 dalyje nurodytą
 
-informaciją apie sudarytą sandorį nedelsdami, bet ne vėliau kaip per 3 darbo
+informaciją apie sudarytą sandorį nedelsdami, bet ne vėliau kaip per 3 darbo dienas
 
-dienas nuo sandorio patvirtinimo dienos, pateikti mokesčių policijai nepaisant
+nuo sandorio patvirtinimo dienos, pateikti mokesčių policijai nepaisant pagal
 
-pagal sandorį kliento gaunamos ar mokamos pinigų sumos dydžio.
+sandorį kliento gaunamos ar mokamos pinigų sumos dydžio.
 
 3. Kriterijus,
 
@@ -537,6 +553,14 @@ paslaugų teikimu, advokato praktika, notaro veikla;
 
 bingo organizavimu ir vykdymu;
 
+[7 dalies 2 punkto redakcija nuo 2001 m.
+
+liepos 1 d.:
+
+2) loterijų
+
+organizavimu ir vykdymu;]
+
 3) veikla,
 
 susijusia su juodaisiais, spalvotaisiais arba tauriaisiais (retaisiais)
@@ -579,6 +603,12 @@ naftos produktais;
 
 medikamentais.
 
+Straipsnio pakeitimai:
+
+Nr. IX-335,
+
+2001-05-22, Žin., 2001, Nr. 48-1659 (2001-06-06), įsigalioja nuo 2001-07-01
+
 13 straipsnis.
 
 Muitinės įstaigų veikla
@@ -593,11 +623,9 @@ pinigų sumų kontrolę Vyriausybės nustatyta tvarka.
 
 įstaigos privalo registruoti kiekvieną grynųjų pinigų įvežimo į Lietuvos
 
-Respubliką ir išvežimo iš jos atvejį, jeigu įvežamų arba išvežamų grynųjų
+Respubliką ir išvežimo iš jos atvejį, jeigu įvežamų arba išvežamų grynųjų pinigų
 
-pinigų vienkartinė suma viršija 10 000 litų ar ją atitinkančią sumą užsienio
-
-valiuta.
+vienkartinė suma viršija 10 000 litų ar ją atitinkančią sumą užsienio valiuta.
 
 3. Muitinės
 
@@ -625,11 +653,11 @@ tarptautinių sutarčių numatytus atvejus.
 
 14 straipsnis.
 
-Asmenys, kredito ir finansinėse įstaigose atsakingi už pinigų plovimo
+Asmenys, kredito ir finansinėse įstaigose atsakingi už pinigų
 
-prevencijos
+plovimo
 
-priemonių įgyvendinimą
+prevencijos priemonių įgyvendinimą
 
 1. Kredito ir finansinių
 
@@ -758,6 +786,26 @@ VIII-1388, 1999-11-04, Žin., 1999, Nr. 99-2845 (1999-11-24)
 PINIGŲ
 
 PLOVIMO PREVENCIJOS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-335,
+
+2001-05-22, Žin., 2001, Nr. 48-1659 (2001-06-06)
+
+PINIGŲ
+
+PLOVIMO PREVENCIJOS ĮSTATYMO 2, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2001 m. liepos 1 d.
 
 ***
 
