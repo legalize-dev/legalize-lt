@@ -4,7 +4,7 @@ identifier: "TAR.10B21BA16674"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-17"
-last_updated: "2000-01-04"
+last_updated: "2000-10-10"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.10B21BA16674"
 department: "Lietuvos Respublikos Seimas"
@@ -19,41 +19,11 @@ eu_legal_act: "true"
 
 Projektas priėmimui Nr.
 
-Redagavo: Ramunė
+Įstatymas paskelbtas: Žin., 1998, Nr.
 
-Lūžaitė (2000.01.20)
-
-Įstatymas paskelbtas: Žin., 1998, Nr.115-3236
+115-3236
 
 Neoficialus įstatymo tekstas
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1352, 99.10.07, Žin., 1999, Nr.89-2618
-
-(99.10.22)
-
-LIETUVOS RESPUBLIKOS ĮSTATYMO ,,DĖL UŽSIENIEČIŲ TEISINĖS
-
-PADĖTIES” 5, 7, 10, 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1518, 00.01.04, Žin., 2000, Nr.5-125 (00.01.19)
-
-LIETUVOS RESPUBLIKOS ĮSTATYMO DĖL
-
-UŽSIENIEČIŲ TEISINĖS PADĖTIES 19 IR 26 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO
-
-ĮSTATYMAS
-
-*** Pabaiga ***
 
 LIETUVOS
 
@@ -181,13 +151,13 @@ tarptautinės sutartys.
 
 2. Užsieniečiai
 
-Lietuvos Respublikoje yra lygūs pagal įstatymus, neatsižvelgiant į jų rasę,
+Lietuvos Respublikoje yra lygūs pagal įstatymus, neatsižvelgiant į jų rasę, lytį,
 
-lytį, odos spalvą, kalbą, religiją, politinius ar kitokius įsitikinimus,
+odos spalvą, kalbą, religiją, politinius ar kitokius įsitikinimus, nacionalinę
 
-nacionalinę ir socialinę kilmę, priklausymą tautinei mažumai, nuosavybę, gimimo
+ir socialinę kilmę, priklausymą tautinei mažumai, nuosavybę, gimimo vietą ar
 
-vietą ar kokią nors kitokią padėtį.
+kokią nors kitokią padėtį.
 
 3. Užsieniečiai,
 
@@ -251,9 +221,9 @@ Vyriausybė.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1352, 99.10.07, Žin., 1999, Nr.89-2618
+Nr. VIII-1352, 1999 10 07, Žin., 1999, Nr.
 
-(99.10.22)
+89-2618 (1999 10 22)
 
 6 straipsnis.
 
@@ -281,15 +251,15 @@ neįleidžiamas į Lietuvos Respubliką, jeigu:
 
 galiojančio kelionės dokumento, vizos, kai būtina ją turėti;
 
-2) (Neteko
+2) (neteko
 
 galios)
 
-3) atsisako
+3) atsisako pateikti Valstybės
 
-pateikti pasienio policijai būtinus duomenis, patvirtinančius asmens tapatybę
+sienos apsaugos tarnybai būtinus duomenis, patvirtinančius asmens tapatybę ir
 
-ir kelionės tikslą;
+kelionės tikslą;
 
 4) negali
 
@@ -329,9 +299,13 @@ institucija.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1352, 99.10.07, Žin., 1999, Nr.89-2618
+Nr. VIII-1352, 1999 10 07, Žin., 1999, Nr.
 
-(99.10.22)
+89-2618 (1999 10 22)
+
+Nr. VIII-2013, 2000 10 10, Žin., 2000, Nr.
+
+92-2865 (2000 10 31)
 
 8 straipsnis.
 
@@ -395,9 +369,9 @@ taip pat sveikatos draudimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1352, 99.10.07, Žin., 1999, Nr.89-2618
+Nr. VIII-1352, 1999 10 07, Žin., 1999, Nr.
 
-(99.10.22)
+89-2618 (1999 10 22)
 
 11 straipsnis.
 
@@ -449,7 +423,9 @@ prašymo pateikimo dienos.
 
 straipsnis. Sprendimo išduoti užsieniečiui leidimą gyventi Lietuvos
 
-Respublikoje galiojimas
+Respublikoje
+
+galiojimas
 
 1. Sprendimas
 
@@ -483,7 +459,9 @@ priežasčių.
 
 straipsnis. Atsisakymo išduoti užsieniečiui leidimą gyventi Lietuvos
 
-Respublikoje pagrindai
+Respublikoje
+
+pagrindai
 
 1. Leidimas
 
@@ -495,9 +473,9 @@ gyvenimas Lietuvos Respublikoje grėstų jos saugumui, viešajai tvarkai,
 
 gyventojų sveikatai ir dorovei;
 
-2) duomenys, kuriuos
+2) duomenys,
 
-apie save pateikė užsienietis, neatitinka tikrovės;
+kuriuos apie save pateikė užsienietis, neatitinka tikrovės;
 
 3) jam uždrausta
 
@@ -525,15 +503,17 @@ tokį leidimą.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1352, 99.10.07, Žin., 1999, Nr.89-2618
+Nr. VIII-1352, 1999 10 07, Žin., 1999, Nr.
 
-(99.10.22)
+89-2618 (1999 10 22)
 
 15
 
 straipsnis. Užsieniečio, turinčio leidimą gyventi Lietuvos Respublikoje,
 
-judėjimo laisvė
+judėjimo
+
+laisvė
 
 1. Leidimas
 
@@ -557,9 +537,9 @@ Duomenų pranešimas
 
 kuriam leista laikinai apsigyventi Lietuvos Respublikoje, ne vėliau kaip per 7
 
-dienas po atvykimo į Lietuvos Respubliką privalo apie atvykimą pranešti Vidaus
+dienas po atvykimo į Lietuvos Respubliką privalo apie atvykimą pranešti Vidaus reikalų
 
-reikalų ministerijai ar jos įgaliotai institucijai.
+ministerijai ar jos įgaliotai institucijai.
 
 2. Užsienietis,
 
@@ -615,9 +595,9 @@ tapatybę ar pilietybę patvirtinančius duomenis.
 
 4. Įstaiga arba
 
-darbdavys ne vėliau kaip per 7 dienas privalo informuoti Vidaus reikalų ministeriją
+darbdavys ne vėliau kaip per 7 dienas privalo informuoti Vidaus reikalų
 
-ar jos įgaliotą instituciją apie užsienietį šiais atvejais:
+ministeriją ar jos įgaliotą instituciją apie užsienietį šiais atvejais:
 
 1) darbdavys -
 
@@ -679,7 +659,9 @@ LAIKINAS
 
 UŽSIENIEČIŲ APSIGYVENIMAS
 
-LIETUVOS RESPUBLIKOJE
+LIETUVOS
+
+RESPUBLIKOJE
 
 18 straipsnis.
 
@@ -767,9 +749,9 @@ pedagoginio darbo;
 
 mokytis mokymo įstaigoje arba kelti kvalifikaciją Lietuvos Respublikoje;
 
-5) gavo leidimą dirbti
+5) gavo leidimą
 
-Lietuvos Respublikoje;
+dirbti Lietuvos Respublikoje;
 
 6) yra studentai, atvykstantys stažuoti ar dirbti į
 
@@ -797,13 +779,17 @@ Lietuvos Respublikoje.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1518, 00.01.04, Žin., 2000, Nr.5-125 (00.01.19)
+Nr. VIII-1518, 2000 01 04, Žin., 2000, Nr.
+
+5-125 (2000 01 19)
 
 20
 
 straipsnis. Leidimo laikinai apsigyventi Lietuvos Respublikoje išdavimas
 
-santuokos pagrindu
+santuokos
+
+pagrindu
 
 Užsieniečiui,
 
@@ -879,11 +865,7 @@ V SKYRIUS
 
 UŽSIENIEČIŲ
 
-NUOLATINIS GYVENIMAS
-
-LIETUVOS
-
-RESPUBLIKOJE
+NUOLATINIS GYVENIMAS LIETUVOS RESPUBLIKOJE
 
 22 straipsnis.
 
@@ -919,17 +901,21 @@ nariams, kai jie persikelia nuolat gyventi į Lietuvos Respubliką.
 
 3.
 
-Užsieniečiams, nurodytiems šio įstatymo 19 straipsnio 2 ir 3 dalyse ir atitinkantiems
+Užsieniečiams, nurodytiems šio įstatymo 19 straipsnio 2 ir 3 dalyse ir
 
-šio straipsnio 1 dalyje numatytas sąlygas, leidimai nuolat gyventi Lietuvos
+atitinkantiems šio straipsnio 1 dalyje numatytas sąlygas, leidimai nuolat
 
-Respublikoje išduodami atsižvelgiant į Lietuvos Respublikos interesus.
+gyventi Lietuvos Respublikoje išduodami atsižvelgiant į Lietuvos Respublikos
+
+interesus.
 
 23
 
 straipsnis. Leidimo nuolat gyventi Lietuvos Respublikoje išdavimo sąlygos šeimų
 
-susijungimo pagrindu
+susijungimo
+
+pagrindu
 
 Užsieniečiui,
 
@@ -983,13 +969,13 @@ kad užsienietis sudarė fiktyvią santuoką su Lietuvos Respublikos piliečiu a
 
 nuolat gyvenančiu Lietuvos Respublikoje užsieniečiu.
 
-2. Šio
+2. Šio straipsnio
 
-straipsnio 1 dalies 2, 3 punktuose numatytais atvejais leidimai nuolat gyventi
+1 dalies 2, 3 punktuose numatytais atvejais leidimai nuolat gyventi Lietuvos
 
-Lietuvos Respublikoje panaikinami teismo sprendimu, o kitais atvejais - Vidaus
+Respublikoje panaikinami teismo sprendimu, o kitais atvejais - Vidaus reikalų
 
-reikalų ministerijos ar jos įgaliotos institucijos sprendimu.
+ministerijos ar jos įgaliotos institucijos sprendimu.
 
 VI SKYRIUS
 
@@ -1011,7 +997,9 @@ kuris nori įsidarbinti Lietuvos Respublikoje pagal darbo sutartį, privalo
 
 straipsnis. Užsieniečiai, iš kurių nereikalaujama įsigyti leidimo dirbti
 
-Lietuvos Respublikoje
+Lietuvos
+
+Respublikoje
 
 Užsienietis
 
@@ -1071,7 +1059,9 @@ dar 6 mėnesius.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1518, 00.01.04, Žin., 2000, Nr.5-125 (00.01.19)
+Nr. VIII-1518, 2000 01 04, Žin., 2000, Nr.
+
+5-125 (2000 01 19)
 
 27 straipsnis.
 
@@ -1113,11 +1103,11 @@ dirbti užsieniečiui išduodamas ne ilgiau kaip vieneriems metams, nurodant dar
 
 2. Esant
 
-gamybiniam būtinumui, leidimą Socialinės apsaugos ir darbo ministerija gali
+gamybiniam būtinumui, leidimą Socialinės apsaugos ir darbo ministerija gali išduoti
 
-išduoti laikui, reikalingam užbaigti pradėtą darbą, bet ne ilgiau kaip dvejiems
+laikui, reikalingam užbaigti pradėtą darbą, bet ne ilgiau kaip dvejiems metams.
 
-metams. Jei darbo sutartis pratęsiama, tokie užsieniečiai įskaitomi į tų metų
+Jei darbo sutartis pratęsiama, tokie užsieniečiai įskaitomi į tų metų
 
 užsieniečių įdarbinimo kvotą.
 
@@ -1159,7 +1149,9 @@ darbo biržai, kuri per 2 savaites patikrina, ar užsienietis įsidarbina pagal
 
 5. Užsieniečio
 
-darbo santykius reglamentuoja Lietuvos Respublikos darbo įstatymai ir šis įstatymas.
+darbo santykius reglamentuoja Lietuvos Respublikos darbo įstatymai ir šis
+
+įstatymas.
 
 31 straipsnis.
 
@@ -1253,15 +1245,19 @@ išsiunčiamas iš Lietuvos Respublikos, jeigu jis:
 
 laiką neįvykdė įpareigojimo išvykti iš Lietuvos Respublikos;
 
-2) neteisėtai
+2) neteisėtai atvyko
 
-atvyko į Lietuvos Respubliką ar neteisėtai gyvena Lietuvos Respublikoje.
+į Lietuvos Respubliką ar neteisėtai gyvena Lietuvos Respublikoje.
 
 35
 
 straipsnis. Sprendimų dėl užsieniečio įpareigojimo išvykti arba jo išsiuntimo
 
-iš Lietuvos Respublikos priėmimas
+iš
+
+Lietuvos
+
+Respublikos priėmimas
 
 1. Sprendimus
 
@@ -1285,15 +1281,19 @@ vykdymo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 straipsnis. Aplinkybės, į kurias atsižvelgiama išsiunčiant užsienietį arba dėl
 
-kurių užsieniečio išsiuntimas iš Lietuvos Respublikos gali būti atidėtas
+kurių
+
+užsieniečio
+
+išsiuntimas iš Lietuvos Respublikos gali būti atidėtas
 
 1. Išsiunčiant
 
 užsienietį iš šalies gali būti atsižvelgiama į jo:
 
-1) teisėto buvimo
+1) teisėto
 
-šalyje laiką;
+buvimo šalyje laiką;
 
 2) socialinius,
 
@@ -1413,9 +1413,9 @@ Vidaus reikalų ministerija ar jos įgaliota institucija.
 
 VIII SKYRIUS
 
-UŽSIENIEČIŲ
+UŽSIENIEČIŲ TEISINĖ
 
-TEISINĖ ATSAKOMYBĖ
+ATSAKOMYBĖ
 
 42 straipsnis.
 
@@ -1433,7 +1433,9 @@ sutartys nenumato kitaip.
 
 straipsnis. Užsieniečio pareiga patvirtinti asmens tapatybę ir teisėtus buvimo
 
-Lietuvos Respublikoje pagrindus
+Lietuvos
+
+Respublikoje pagrindus
 
 Policijos
 
@@ -1606,4 +1608,64 @@ RESPUBLIKOS
 PREZIDENTAS                                                                 VALDAS
 
 ADAMKUS
+
+__________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1352, 1999 10 07, Žin., 1999, Nr.
+
+89-2618 (1999 10 22)
+
+LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO ,,DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES” 5, 7, 10, 14
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1518, 2000 01 04, Žin., 2000, Nr.
+
+5-125 (2000 01 19)
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES"
+
+19 IR 26 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-2013, 2000 10 10, Žin., 2000, Nr.
+
+92-2865 (2000 10 31)
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ 7
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2000 m.
+
+lapkričio 1 d.
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė
+
+Trapinskienė (2000 11 23)
+
+autrap@lrs.lt
 
