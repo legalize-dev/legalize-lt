@@ -4,7 +4,7 @@ identifier: "TAR.2C523B544966"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-04"
-last_updated: "2003-01-01"
+last_updated: "2003-02-27"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2C523B544966"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įstatymas negali būti taikomas nuo 2021-07-01 (Konstitucinio Teismo  2020-07-30 nutarimas Nr. KT135-N11/2020"
 ---
 # Lietuvos Respublikos referendumo įstatymas
+
+Suvestinė redakcija nuo 2003-02-27 iki 2007-06-30
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 64-2570, i. k. 1021010ISTA00IX-929
 
 LIETUVOS RESPUBLIKOS REFERENDUMO ĮSTATYMAS
 
@@ -107,6 +111,12 @@ Konsultaciniai (patariamieji) referendumai gali būti rengiami kitais svarbiausi
 
 4. Sprendimas dėl kitų klausimų, įstatymų ar jų nuostatų, kurie buvo svarstyti privalomajame referendume, yra laikomas priimtu, jeigu tam pritarė daugiau kaip pusė piliečių, dalyvavusių referendume, bet ne mažiau kaip 1/3 piliečių, turinčių rinkimų teisę ir įrašytų į rinkėjų sąrašus.
 
+5. Sprendimas šio Įstatymo 4 straipsnio 1 dalies 5 punkte numatytais klausimais yra laikomas priimtu, jeigu tam pritarė daugiau kaip pusė referendume dalyvavusių piliečių.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
+
 8 straipsnis. Konsultacinio (patariamojo) referendumo rezultatų nustatymas
 
 1. Konsultacinis (patariamasis) referendumas laikomas įvykusiu, jeigu referendume dalyvavo daugiau kaip pusė piliečių, turinčių rinkimų teisę ir įrašytų į rinkėjų sąrašus.
@@ -167,7 +177,11 @@ Data
 
 3. Grupė, remdamasi registracijos akto nuorašu, turi teisę daryti atitinkamus pranešimus visuomenės informavimo priemonėse ir organizuoti piliečių parašų rinkimą.
 
-4. Kiekvieną tokį reikalavimą gali pasirašyti rinkimų teisę turintis pilietis. Piliečių parašų skaičius neribojamas, tačiau jų turi būti ne mažiau kaip 300 tūkstančių. Pilietis savo duomenis įrašo pats. Jeigu pilietis dėl fizinių trūkumų pats šio reikalavimo pasirašyti negali, jo prašymu pasirašo kitas pilietis. Tokio pasirašymo faktas turi būti pažymimas atitinkamu įrašu piliečių parašų rinkimų lape bei patvirtinamas piliečių parašus rinkusio piliečio parašu.
+4. Kiekvieną tokį reikalavimą gali pasirašyti rinkimų teisę turintis pilietis. Piliečių parašų skaičius neribojamas, tačiau jų turi būti ne mažiau kaip 300 tūkstančių. Pilietis savo duomenis įrašo pats ir pasirašo. Jeigu pilietis dėl fizinio trūkumo negali pats įrašyti savo duomenų ir pasirašyti, jo prašymu tą padaro kitas pilietis. Šis faktas turi būti pažymimas atitinkamu įrašu piliečių parašų rinkimų lape bei patvirtinamas piliečių parašus rinkusio piliečio parašu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 
 5. Piliečių iniciatyvos teisei paskelbti referendumą įgyvendinti nustatomas 3 mėnesių terminas. Jis skaičiuojamas nuo piliečių parašų rinkimo lapų išdavimo Vyriausiojoje rinkimų komisijoje dienos.
 
@@ -176,6 +190,12 @@ Data
 7. Pilietis savo parašą dėl reikalavimo paskelbti referendumą turi teisę atšaukti. Apie šį sprendimą jis privalo pranešti Vyriausiajai rinkimų komisijai ne vėliau kaip iki piliečių reikalavimų perdavimo jai dienos.
 
 8. Jeigu per šio straipsnio 5 dalyje nustatytą terminą nesurenkamas reikiamas piliečių parašų skaičius, parašų rinkimas nutraukiamas.
+
+9. Piliečių parašai gali būti renkami viešose vietose ir gyvenamosiose patalpose. Už piliečių pasirašymą atlyginti draudžiama.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 
 12 straipsnis. Seimo narių grupės iniciatyvos teisės paskelbti referendumą įgyvendinimas
 
@@ -191,7 +211,11 @@ Data
 
 3. Jeigu yra pažeistas piliečių referendumo paskelbimo iniciatyvos teisės įgyvendinimo terminas, nesurinktas reikiamas skaičius piliečių parašų arba jeigu pateiktuose dokumentuose nustatyta šiurkščių įstatymo pažeidimų (suklastoti piliečių parašai ar pažeistas savanoriškumo principas renkant parašus), Vyriausioji rinkimų komisija motyvuotu sprendimu atmeta reikalavimą paskelbti referendumą ir praneša apie tai grupei bei Seimui. Šį sprendimą grupė turi teisę per vieną mėnesį apskųsti Lietuvos vyriausiajam administraciniam teismui.
 
-4. Jeigu nustatoma, kad pilietis už to paties referendumo paskelbimą pasirašė du kartus ar daugiau, jo visi parašai neįskaičiuojami. Parašai taip pat neįskaičiuojami, jeigu piliečių parašų rinkimo lape neįrašyti visi šiame Įstatyme nustatyti duomenys arba jie įrašyti neteisingai.
+4. Jeigu nustatoma, kad pilietis už to paties referendumo paskelbimą pasirašė du kartus ar daugiau, jo visi parašai neįskaičiuojami. Parašai taip pat neįskaičiuojami, jeigu pažeidžiant šio Įstatymo 11 straipsnio 4 dalį duomenis apie pilietį parašų rinkimo lape įrašo ne jis pats, taip pat jeigu įrašyti ne visi šiame Įstatyme nustatyti duomenys arba jie įrašyti neteisingai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 
 14 straipsnis. Seimo nutarimo dėl reikalavimo paskelbti referendumą priėmimo tvarka
 
@@ -495,7 +519,11 @@ RINKĖJŲ SĄRAŠAI IR REFERENDUMO DOKUMENTAI
 
 35 straipsnis. Miesto, rajono rinkėjų sąrašai
 
-Miesto, rajono rinkėjų sąrašą elektroninės informacijos laikmenose pagal Lietuvos Respublikos rinkėjų sąrašą ir jame nurodytą piliečio gyvenamąją vietą (paskutinę žinomą piliečio gyvenamąją vietą) sudaro Vyriausioji rinkimų komisija ir ne vėliau kaip likus 39 dienoms iki balsavimo referendume dienos perduoda miesto, rajono referendumo komisijai. Kartu sudaromi užsienyje gyvenančių rinkėjų sąrašai ir perduodami Lietuvos Respublikos diplomatinėms atstovybėms (konsulatams). Taip pat sudaromi piliečių, kurių gyvenamosios vietos tikslus adresas nežinomas, sąrašai.
+Miesto, rajono rinkėjų sąrašą elektroninės informacijos laikmenose pagal Lietuvos Respublikos rinkėjų sąrašą ir jame nurodytą piliečio gyvenamąją vietą (paskutinę žinomą piliečio gyvenamąją vietą) sudaro Vyriausioji rinkimų komisija ir ne vėliau kaip likus 29 dienoms iki balsavimo referendume dienos perduoda miesto, rajono referendumo komisijai. Kartu sudaromi užsienyje gyvenančių rinkėjų sąrašai ir perduodami Lietuvos Respublikos diplomatinėms atstovybėms (konsulatams). Taip pat sudaromi piliečių, kurių gyvenamosios vietos tikslus adresas nežinomas, sąrašai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 
 36 straipsnis. Referendumo apylinkės rinkėjų sąrašai
 
@@ -565,7 +593,11 @@ Likus ne mažiau kaip 25 dienoms iki balsavimo referendume dienos, apylinkės re
 
 43 straipsnis. Rinkėjų sąrašų tikslinimas sudarius galutinius rinkėjų sąrašus, taip pat balsavimo referendume dieną
 
-Jeigu į apylinkės referendumo komisiją po galutinio rinkėjų sąrašų patvirtinimo, bet ne vėliau kaip iki balsavimo referendume dienos 18 valandos, kreipiasi neįrašytas į šios referendumo apylinkės rinkėjų sąrašą pilietis ir pateikia piliečio pasą su jame įrašytu gyvenamosios vietos adresu arba pasą ar asmens tapatybės kortelę ir dokumentą apie deklaruotą gyvenamąją vietą (gyvenamoji vieta turi būti priskirta šios referendumo apylinkės teritorijai), apylinkės referendumo komisija įrašo pilietį į papildomą referendumo apylinkės rinkėjų sąrašą ir leidžia jam balsuoti Vyriausiosios rinkimų komisijos nustatyta tvarka, o šio piliečio vardą, pavardę, asmens kodą, jo paso arba asmens tapatybės kortelės numerį ir adresą tuoj pat praneša miesto, rajono referendumo komisijai. Miesto, rajono referendumo komisija patikrina, ar pilietis yra įrašytas į miesto, rajono rinkėjų sąrašą, ir imasi priemonių garantuoti, kad pilietis negalėtų du kartus balsuoti arba kad jo užpildyti biuleteniai būtų skaičiuojami tik vieną kartą. Jeigu pilietis yra balsavęs du kartus, skaičiuojamas tik tas balsas, kuris pateko į referendumo apylinkės balsadėžę. Kitas šio piliečio balsas, gautas paštu arba balsavus pagal papildomą apylinkės rinkėjų sąrašą, neskaičiuojamas.
+Jeigu į apylinkės referendumo komisiją po galutinio rinkėjų sąrašų patvirtinimo, bet ne vėliau kaip iki balsavimo referendume dienos 18 valandos (jeigu referendumas vyksta ne vieną dieną – iki balsavimo referendume paskutinės dienos 18 valandos), kreipiasi neįrašytas į šios referendumo apylinkės rinkėjų sąrašą pilietis, kuris raštu patvirtina, kad nėra balsavęs paštu ar kitoje referendumo apylinkėje, ir pateikia piliečio pasą su jame įrašytu gyvenamosios vietos adresu arba pasą ar asmens tapatybės kortelę ir dokumentą apie deklaruotą gyvenamąją vietą (gyvenamoji vieta turi būti priskirta šios referendumo apylinkės teritorijai arba pilietis turi pateikti kitus įrodymus, kad jis yra apsistojęs šiai referendumo apylinkei priskirtu adresu), apylinkės referendumo komisija įrašo pilietį į papildomą referendumo apylinkės rinkėjų sąrašą ir leidžia jam balsuoti Vyriausiosios rinkimų komisijos nustatyta tvarka, o šio piliečio vardą, pavardę, asmens kodą, jo paso arba asmens tapatybės kortelės numerį ir adresą tuoj pat praneša miesto, rajono referendumo komisijai. Miesto, rajono referendumo komisija patikrina, ar pilietis yra įrašytas į miesto, rajono rinkėjų sąrašą, ir imasi priemonių garantuoti, kad pilietis negalėtų du kartus balsuoti arba kad jo užpildyti biuleteniai būtų skaičiuojami tik vieną kartą. Jeigu pilietis yra balsavęs du kartus, skaičiuojamas tik tas balsas, kuris pateko į referendumo apylinkės balsadėžę. Kitas šio piliečio balsas, gautas paštu arba balsavus pagal papildomą apylinkės rinkėjų sąrašą, neskaičiuojamas.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 
 44 straipsnis. Skundai dėl rinkėjų sąrašų
 
@@ -623,7 +655,11 @@ BALSAVIMAS
 
 50 straipsnis. Balsavimo laikas ir vieta
 
-1. Balsavimas referendumo dieną vyksta nuo 7 iki 20 valandos referendumo komisijos nurodytoje patalpoje.
+1. Balsavimas referendumo dieną vyksta nuo 7 iki 20 valandos referendumo komisijos nurodytoje patalpoje. Seimo nutarime dėl referendumo paskelbimo gali būti nustatytas ir kitoks balsavimo laikas. Seimas atskiru nutarimu gali nustatyti, kad referendumas vyksta ne vieną dieną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 
 2. Pilietis balsuoja tik toje referendumo apylinkėje, į kurios rinkėjų sąrašus jis yra įrašytas, jei kitaip nenustato šis Įstatymas.
 
@@ -632,6 +668,12 @@ BALSAVIMAS
 51 straipsnis. Balsavimo pradžia
 
 Referendumo dieną balsavimo patalpa atidaroma, kai joje yra susirinkę ne mažiau kaip 3/5 apylinkės referendumo komisijos narių. Tada referendumo komisijos pirmininkas su komisijos nariais patikrina, ar balsadėžė yra tuščia, ir ją užantspauduoja. Įsitikinęs, kad balsavimo patalpa įrengta nepažeidus nustatytų reikalavimų, apylinkės referendumo komisijos pirmininkas įrašo visą apylinkės gautų biuletenių skaičių į balsų skaičiavimo protokolą, antspauduoja referendumo biuletenius, išdalija referendumo biuletenius ir sąrašus komisijos nariams, įrašo kiekvienam komisijos nariui išdalytų referendumo biuletenių skaičių į referendumo apylinkės balsų skaičiavimo protokolą ir atidaro balsavimo patalpą tuo skelbdamas referendumo pradžią.
+
+2. Tuo atveju, jei referendumas vyksta daugiau nei vieną dieną, kiekvienos referendumo dienos pabaigoje, išskyrus balsavimo referendume paskutinę dieną, balsadėžės plyšys užklijuojamas ir užantspauduojamas, taip pat Vyriausiosios rinkimų komisijos nustatyta tvarka surenkami ir užantspauduojami nepanaudoti ir sugadinti referendumo biuleteniai ir balsavimo patalpa perduodama saugoti policijai. Patalpą saugoti taip pat gali ir to norintys referendumo komisijos nariai ir stebėtojai. Antrąją ir paskesnėmis dienomis balsavimo patalpa atidaroma, kai joje yra susirinkę ne mažiau kaip 3/5 apylinkės referendumo komisijos narių ir referendumo komisijos pirmininkas su komisijos nariais patikrina apylinkės referendumo balsadėžę: ar nepažeisti antspaudai ir ar nėra kitų požymių, liudijančių, kad ji galėjo būti atidaryta ar kitaip būtų buvę įmanoma iš jos išimti referendumo biuletenius, taip pat patikrinami kiti antspaudai.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 
 52 straipsnis. Piliečio asmens tapatybės nustatymas
 
@@ -657,7 +699,11 @@ Referendumo dieną balsavimo patalpa atidaroma, kai joje yra susirinkę ne maži
 
 54 straipsnis. Balsavimas paštu
 
-1. Balsavimas paštu suteikia galimybę dalyvauti referendume piliečiams, kurie dėl sveikatos būklės arba dėl kitų priežasčių balsavimo referendume dieną negali atvykti balsuoti į rinkimų apylinkę. Balsuoti paštu galima pašto skyriuose jų darbo valandomis, pradedant 5 diena iki balsavimo referendume dienos ir baigiant likus vienai dienai iki šio balsavimo, jei pilietis yra įrašytas į miesto, rajono rinkėjų sąrašus, o jei pilietis neįrašytas į miesto, rajono, kurio pašte balsuoja, rinkėjų sąrašus, – baigiant likus 2 dienoms iki referendumo.
+1. Balsavimas paštu suteikia galimybę dalyvauti referendume piliečiams, kurie dėl sveikatos būklės arba dėl kitų priežasčių balsavimo referendume dieną negali atvykti balsuoti į rinkimų apylinkę. Balsuoti paštu galima pašto skyriuose jų darbo valandomis, pradedant 11 diena iki balsavimo referendume dienos ir baigiant likus vienai dienai iki šio balsavimo, jei pilietis yra įrašytas į miesto, rajono rinkėjų sąrašus, o jei pilietis neįrašytas į miesto, rajono, kurio pašte balsuoja, rinkėjų sąrašus, – baigiant likus 2 dienoms iki referendumo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 
 2. Už balsavimo organizavimą atsako pašto skyriaus viršininkas. Jis yra atsakingas už referendumo biuletenių ir balsavimo vokų apskaitą, išdavimą ir priėmimą balsavimo paštu metu. Už pašto skyriaus darbo balsuojant paštu priežiūros organizavimą atsako tos referendumo apylinkės, kurios teritorijoje yra pašto skyrius, komisijos pirmininkas. Prireikus jis kartu su kitų referendumo komisijų pirmininkais, kuriems tai pavedė miesto, rajono referendumo komisija, turi pasirūpinti organizuoti apylinkių referendumo komisijų narių budėjimą pašto skyriuose.
 
@@ -683,9 +729,17 @@ Referendumo dieną balsavimo patalpa atidaroma, kai joje yra susirinkę ne maži
 
 8. Balsavimo paštu vokus ir referendumo biuletenius piliečiams, kurie negali dėl sveikatos būklės atvykti balsuoti į paštą arba referendumo dieną į referendumo apylinkę, paštininkas pristato į namus likus ne mažiau kaip 2 dienoms iki balsavimo referendume dienos. Konkretus paštininkų atvykimo pas piliečius grafikas turi būti patvirtintas pašto (pašto skyriaus) viršininko ne vėliau kaip 12 valandą dienos. Grafiko kopija paskelbiama skelbimų lentoje. Grafikas gali būti vykdomas tik kitą dieną po patvirtinimo. Kartu su paštininku pas pilietį gali atvykti ne mažiau kaip du komisijos nariai, taip pat gali atvykti referendumo stebėtojai.
 
-9. Šių rinkėjų sąrašą prieš 10 dienų iki referendumo sudaro apylinkės referendumo komisijos pagal piliečių užpildytus Vyriausiosios rinkimų komisijos nustatytos formos prašymus užtikrinti galimybę balsuoti namuose. Miesto, rajono referendumo komisijos pirmininko ar jo įgalioto miesto, rajono referendumo komisijos nario sutikimu apylinkių referendumo komisijos sąrašą gali papildyti, jeigu gauna piliečių prašymus iki referendumo likus ne mažiau kaip 3 dienoms. Piliečių prašymai taip pat turi būti patvirtinti miesto, rajono globos ir rūpybos ar sveikatos priežiūros ir gydymo įstaigų vadovų arba jų tam įgaliotų pareigūnų. Šie prašymai pridedami prie apylinkės referendumo komisijos sudaryto rinkėjų, kurie dėl sveikatos būklės negali atvykti balsuoti į paštą arba rinkimų dieną į referendumo apylinkę, sąrašo.
+9. Šių rinkėjų sąrašą prieš 10 dienų iki referendumo sudaro apylinkės referendumo komisijos pagal piliečių užpildytus Vyriausiosios rinkimų komisijos nustatytos formos prašymus užtikrinti galimybę balsuoti namuose. Miesto, rajono referendumo komisijos pirmininko ar jo įgalioto miesto, rajono referendumo komisijos nario sutikimu apylinkių referendumo komisijos sąrašą gali papildyti, jeigu gauna piliečių prašymus iki referendumo likus ne mažiau kaip 3 dienoms. Piliečių prašymai taip pat turi būti patvirtinti miesto, rajono globos ir rūpybos ar sveikatos priežiūros ir gydymo įstaigų vadovų arba jų tam įgaliotų pareigūnų. Šie prašymai pridedami prie apylinkės referendumo komisijos sudaryto rinkėjų, kurie dėl sveikatos būklės negali atvykti balsuoti į paštą arba balsavimo referendume dieną į referendumo apylinkę, sąrašo.
 
-10. Pašto darbuotojai, referendumo komisijų nariai ar kiti asmenys negali atnešti balsavimo paštu vokų ir referendumo biuletenių į namus piliečiams, neįrašytiems į sąrašą rinkėjų, kurie dėl sveikatos būklės negali atvykti į paštą arba balsavimo referendume dieną į referendumo apylinkę. Į sąrašą rinkėjų, kurie dėl sveikatos būklės negali atvykti balsuoti į paštą arba balsavimo referendume dieną į referendumo apylinkę, gali būti įrašyti: I grupės invalidai, II grupės judėjimo invalidai ir laikinai nedarbingi asmenys, jei jie pateikė šioje dalyje numatytus prašymus užtikrinti galimybę balsuoti namuose. Pareigūnai, referendumo komisijai suteikę klaidingus duomenis apie piliečius, negalinčius dėl sveikatos būklės atvykti balsuoti į paštą arba balsavimo referendume dieną į referendumo apylinkę, atsako įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
+
+10. Pašto darbuotojai, referendumo komisijų nariai ar kiti asmenys negali atnešti balsavimo paštu vokų ir referendumo biuletenių į namus piliečiams, neįrašytiems į sąrašą rinkėjų, kurie dėl sveikatos būklės negali atvykti į paštą arba balsavimo referendume dieną į referendumo apylinkę. Į sąrašą rinkėjų, kurie dėl sveikatos būklės negali atvykti balsuoti į paštą arba balsavimo referendume dieną į referendumo apylinkę, gali būti įrašyti: I grupės invalidai, II grupės judėjimo invalidai ir laikinai nedarbingi asmenys, taip pat sukakę 70 metų asmenys, jei jie pateikė šiame straipsnyje numatytus prašymus užtikrinti galimybę balsuoti namuose. Pareigūnai, referendumo komisijai suteikę klaidingus duomenis apie piliečius, negalinčius dėl sveikatos būklės atvykti balsuoti į paštą arba balsavimo referendume dieną į referendumo apylinkę, atsako įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 
 11. Užklijuotą išorinį voką (su jame esančiu rinkėjo pažymėjimu, vidiniu balsavimo paštu voku ir ten esančiais biuleteniais) pilietis gali:
 
@@ -955,7 +1009,11 @@ Asmenys, pažeidę šį Įstatymą, atsako įstatymų nustatyta tvarka.
 
 78 straipsnis. Referendumu priimto Lietuvos Respublikos įstatymo, kito akto ar sprendimo įsigaliojimas
 
-1. Referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma balsavimo referendume diena.
+1. Referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma balsavimo referendume diena. Tuo atveju, jei referendumas vyksta ne vieną dieną, referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma balsavimo referendume paskutinė diena.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 
 2. Referendumu priimtą įstatymą, kitą aktą ar sprendimą ne vėliau kaip per 5 dienas nuo galutinių referendumo rezultatų oficialaus paskelbimo privalo pasirašyti ir oficialiai paskelbti Respublikos Prezidentas.
 
@@ -977,72 +1035,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-781 straipsnis. Terminų skaičiavimas
-
-1. Tuo atveju, jei referendumas vyksta ne vieną dieną, šiame Įstatyme nustatyti terminai iki balsavimo referendume dienos skaičiuojami iki balsavimo referendume pirmosios dienos.
-
-2. Tuo atveju, jei referendumas vyksta ne vieną dieną, šiame Įstatyme nustatyti terminai po balsavimo referendume dienos skaičiuojami po balsavimo referendume paskutinės dienos.
-
-Papildyta straipsniu:
-
-Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
-
-601 straipsnis. Balsavimas namuose ir balsavimas iš anksto
-
-1. Balsuoti namuose gali tik šie piliečiai: neįgalieji, dėl ligos laikinai nedarbingi piliečiai, sukakę 70 metų ir vyresni piliečiai, jeigu jie dėl sveikatos būklės patys negali atvykti balsuoti balsavimo referendume dieną į referendumo apylinkę ir jeigu jie pateikė Vyriausiosios rinkimų komisijos nustatytos formos piliečio prašymą balsuoti namuose. Namuose balsuojančių piliečių sąrašus sudarančios ir tikslinančios referendumo komisijos turi teisę duomenis apie neįgalius asmenis gauti iš Valstybinio socialinio draudimo fondo valdybos ar jos teritorinių skyrių, o duomenis apie laikinai nedarbingus asmenis – iš sveikatos priežiūros įstaigų. Šių duomenų referendumo komisijos negali skleisti ir juos naudoja tik namuose balsuojančių piliečių sąrašų sudarymo ir tikslinimo tikslais.
-
-2. Balsuoti iš anksto gali piliečiai, kurie balsavimo referendume dieną negali atvykti balsuoti į referendumo apylinkę. Piliečių balsavimą iš anksto organizuoja miesto, rajono referendumo komisija. Balsavimas iš anksto turi vykti nuo 12 iki 20 valandos paskutinį trečiadienį ir ketvirtadienį iki balsavimo referendume dienos iš anksto parengtose ir balsavimui tinkamose patalpose, esančiose pastate, kuriame yra to miesto, rajono savivaldybės mero (administracijos direktoriaus) darbo vieta. Referendumo biuleteniams ir balsavimo vokams išduoti ir priimti balsuojant iš anksto miesto, rajono referendumo komisijos pirmininkas paskiria ne mažiau kaip du miesto, rajono referendumo komisijos ar apylinkių referendumo komisijų narius, kurie negali būti pasiūlyti tos pačios politinės partijos. Balsavimą iš anksto prižiūri miesto, rajono referendumo komisijos pirmininkas ar jo pavedimu miesto, rajono referendumo komisijos narys.
-
-3. Piliečių prašymai balsuoti namuose pateikiami apylinkių referendumo komisijoms. Piliečių, gyvenančių konkrečios referendumo apylinkės teritorijoje, prašymai balsuoti namuose pradedami priimti įteikiant jiems rinkėjo pažymėjimus ir baigiami priimti paskutinį trečiadienį iki balsavimo referendume dienos. Piliečių, kurie laikinai apsistojo konkrečios referendumo apylinkės teritorijoje ir nėra įrašyti į šios referendumo apylinkės rinkėjų sąrašą, prašymai balsuoti namuose baigiami priimti paskutinį antradienį iki balsavimo referendume dienos. Pilietis, kuris dėl fizinių trūkumų pats negali užpildyti prašymo balsuoti namuose ar jo įteikti apylinkės referendumo komisijai, gali pavesti šiuos veiksmus už jį atlikti savo šeimos nariui, kaimynui ar asmeniui, kuris juo rūpinasi. Šie piliečio prašymą pasirašo ir nurodo savo vardą, pavardę ir asmens kodą.
-
-4. Į referendumo apylinkės rinkėjų sąrašą įrašytų namuose balsuojančių piliečių sąrašą paskutinį ketvirtadienį iki balsavimo referendume dienos sudaro ir tvirtina apylinkės referendumo komisija. Piliečių, kurie gyvena ar laikinai apsistojo konkrečios referendumo apylinkės teritorijoje, bet įrašyti į kitos referendumo apylinkės rinkėjų sąrašus ir juos tikslinant į šios referendumo apylinkės rinkėjų sąrašą nebuvo įrašyti, sąrašą paskutinį trečiadienį iki balsavimo referendume dienos sudaro ir tvirtina miesto, rajono referendumo komisija.
-
-5. Balsavimo paštu vokus ir referendumo biuletenį piliečiams, kurie įrašyti į namuose balsuojančių referendumo apylinkės rinkėjų sąrašą ir kurie yra šios referendumo apylinkės rinkėjai, paskutinį penktadienį ar šeštadienį iki balsavimo referendume dienos nuo 8 iki 20 valandos į namus pristato ne mažiau kaip du apylinkės referendumo komisijos nariai. Balsavimo paštu vokus ir referendumo biuletenius piliečiams, kurie įrašyti į namuose balsuojančių miesto, rajono rinkėjų sąrašą, bet neįrašyti į referendumo apylinkės, kurios teritorijoje jie laikinai apsistoję, rinkėjų sąrašą, paskutinį ketvirtadienį iki balsavimo referendume dienos į namus pristato ne mažiau kaip du miesto, rajono referendumo komisijos nariai ar jos pirmininko pavedimu ne mažiau kaip du apylinkės referendumo komisijos nariai. Balsavimą namuose ir balsavimą iš anksto gali stebėti referendumo stebėtojai, turintys pažymėjimą stebėti referendumą bet kurioje referendumo apylinkėje. Pasibaigus balsavimui, užklijuoti išoriniai balsavimo paštu vokai perduodami paštui, o šis juos perduoda referendumo apylinkėms kartu su paštu balsavusių piliečių referendumo dokumentais. Piliečių, balsavusių namuose ir iš anksto, sąrašus, nepanaudotus referendumo biuletenius įtraukia į apskaitą ir saugo balsavimą organizavusios referendumo komisijos, o pasibaigus balsavimui referendume, kartu su kitais referendumo dokumentais perduoda atitinkamai miesto, rajono referendumo komisijai ar Vyriausiajai rinkimų komisijai.
-
-6. Konkretų referendumo komisijos narių atvykimo į namus pas piliečius grafiką tvirtina apylinkės ar miesto, rajono referendumo komisijos pirmininkas ne vėliau kaip atitinkamai paskutinį ketvirtadienį ar trečiadienį iki balsavimo referendume dienos 12 valandos. Šis grafikas yra viešas, jo kopija iškabinama apylinkės (miesto, rajono) referendumo komisijos skelbimų lentoje grafiko patvirtinimo dieną. Vykti pas namuose balsuojančius piliečius kartu gali tik skirtingų politinių partijų pasiūlyti referendumo komisijos nariai ir referendumo stebėtojai.
-
-7. Balsavimui namuose ir balsavimui iš anksto taikomos šio Įstatymo 54 straipsnio 6 ir 7 dalių nuostatos.
-
-8. Užklijuotą išorinį balsavimo voką (su jame esančiais rinkėjo pažymėjimu, vidiniu balsavimo voku ir ten esančiu referendumo biuleteniu) pilietis įteikia apylinkės (miesto, rajono) referendumo komisijos nariui. Šis, gavęs piliečio įteiktą voką, išduoda piliečiui šio voko priėmimo kvitą.
-
-9. Daryti poveikį namuose balsuojančio piliečio apsisprendimui ar skubinti jį balsuoti draudžiama. Komisijos nariams ir referendumo stebėtojams draudžiama už pilietį atlikti šio Įstatymo 54 straipsnio 6 ir 7 dalyse nurodytus veiksmus, taip pat priimti iš piliečio neužklijuotą išorinį balsavimo voką. Piliečiams draudžiama išsinešti biuletenius ar juos perduoti kitiems asmenims.
-
-Papildyta straipsniu:
-
-Nr. X-1488, 2008-04-10, Žin., 2008, Nr. 50-1838 (2008-04-30), i. k. 1081010ISTA00X-1488
-
-151 straipsnis. Referendumo ir rinkimų vykdymas tą pačią dieną
-
-1. Tuo atveju, kai referendumas vykdomas tą pačią dieną su Seimo rinkimais arba su Respublikos Prezidento rinkimais, arba su savivaldybių tarybų rinkimais, arba su rinkimais į Europos Parlamentą, Vyriausioji rinkimų komisija sudaro šio įstatymo 20 straipsnio 2 dalyje nurodytas komisijas ir paveda vykdyti atitinkamo įstatymo nustatytas funkcijas.
-
-2. Referendumui ir rinkimams organizuoti ir vykdyti šio straipsnio 1 dalyje nurodytu atveju sudaromas rinkėjų sąrašas, turintis atskiras skiltis, kad būtų užtikrinta rinkėjų teisė dalyvauti ir balsuoti atskirai dėl referendumui pateikto sprendimo ir rinkimuose. Rinkėjui įteikiamas ir balsuojant naudojamas vienas rinkėjo pažymėjimas arba rinkėjo kortelė; rinkėjo kortelėje ar rinkėjo pažymėjime nurodoma informacija apie tą pačią dieną vykstančius referendumą ir rinkimus bei rinkėjų teisę juose dalyvauti.
-
-Papildyta straipsniu:
-
-Nr. XI-2216, 2012-09-12, Žin., 2012, Nr. 110-5563 (2012-09-22), i. k. 1121010ISTA0XI-2216
-
-81 straipsnis. Referendumu priimto Lietuvos Respublikos įstatymo, kito akto ar sprendimo įsigaliojimas
-
-1. Referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma balsavimo referendume diena. Tuo atveju, kai referendumas vyksta ne vieną dieną, referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma paskutinė balsavimo referendume diena.
-
-2. Referendumu priimtą įstatymą, kitą aktą ar sprendimą ne vėliau kaip per 5 dienas nuo galutinių referendumo rezultatų oficialaus paskelbimo privalo pasirašyti ir oficialiai paskelbti Respublikos Prezidentas.
-
-3. Jeigu šio straipsnio 2 dalyje nurodytu laiku Respublikos Prezidentas referendumu priimto įstatymo, kito akto ar sprendimo nepasirašo ir nepaskelbia, jis įsigalioja po to, kai jį pasirašo ir oficialiai paskelbia Seimo Pirmininkas.
-
-4. Referendumu priimtas įstatymas dėl Konstitucijos pakeitimo įsigalioja ne anksčiau kaip po vieno mėnesio nuo jo priėmimo referendume dienos.
-
-5. Referendumu priimtas įstatymas, išskyrus įstatymą dėl Konstitucijos pakeitimo, kitas aktas ar sprendimas įsigalioja kitą dieną po oficialaus paskelbimo Teisės aktų registre, jeigu įstatyme, kitame akte ar sprendime nenustatyta vėlesnė įsigaliojimo diena.
-
-82 straipsnis. Terminų skaičiavimas
-
-1. Kai referendumas vyksta ne vieną dieną, šiame įstatyme nustatyti terminai iki balsavimo referendume dienos skaičiuojami iki pirmosios balsavimo referendume dienos.
-
-2. Kai referendumas vyksta ne vieną dieną, šiame įstatyme nustatyti terminai po balsavimo referendume dienos skaičiuojami po paskutinės balsavimo referendume dienos.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
 Pakeitimai:
 
 1.
@@ -1053,83 +1045,13 @@ Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA
 
 Lietuvos Respublikos referendumo įstatymo 7, 11, 13, 35, 43, 50, 51, 54, 78 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 78(1) straipsniu įstatymas
 
-2.
+781 straipsnis. Terminų skaičiavimas
 
-Lietuvos Respublikos Seimas, Įstatymas
+1. Tuo atveju, jei referendumas vyksta ne vieną dieną, šiame Įstatyme nustatyti terminai iki balsavimo referendume dienos skaičiuojami iki balsavimo referendume pirmosios dienos.
 
-Nr. X-398, 2005-11-17, Žin., 2005, Nr. 143-5172 (2005-12-08), i. k. 1051010ISTA000X-398
+2. Tuo atveju, jei referendumas vyksta ne vieną dieną, šiame Įstatyme nustatyti terminai po balsavimo referendume dienos skaičiuojami po balsavimo referendume paskutinės dienos.
 
-Lietuvos Respublikos referendumo įstatymo 34 straipsnio pakeitimo įstatymas
+Papildyta straipsniu:
 
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1488, 2008-04-10, Žin., 2008, Nr. 50-1838 (2008-04-30), i. k. 1081010ISTA00X-1488
-
-Lietuvos Respublikos referendumo įstatymo 16,17, 20, 22, 25, 30, 31, 35, 37, 38, 39, 41, 42, 47, 49, 54, 55, 56, 57, 58, 59, 60, 61, 64, 65, 71 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 2(1), 60(1) straipsniais įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1229, 2010-12-14, Žin., 2010, Nr. 153-7796 (2010-12-28), i. k. 1101010ISTA0XI-1229
-
-Lietuvos Respublikos referendumo įstatymo 60-1 straipsnio pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2216, 2012-09-12, Žin., 2012, Nr. 110-5563 (2012-09-22), i. k. 1121010ISTA0XI-2216
-
-Lietuvos Respublikos referendumo įstatymo papildymo 15-1 straipsniu įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2336, 2012-11-06, Žin., 2012, Nr. 132-6664 (2012-11-15), i. k. 1121010ISTA0XI-2336
-
-Lietuvos Respublikos referendumo įstatymo 16, 18, 23, 73 ir 78 straipsnių pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-860, 2014-05-06, paskelbta TAR 2014-05-08, i. k. 2014-05198
-
-Lietuvos Respublikos referendumo įstatymo Nr. IX-929 15-1 straipsnio pakeitimo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2423, 2016-06-14, paskelbta TAR 2016-06-22, i. k. 2016-17408
-
-Lietuvos Respublikos referendumo įstatymo Nr. IX-929 10, 11 ir 13 straipsnių pakeitimo įstatymas
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1511, 2018-09-28, paskelbta TAR 2018-10-04, i. k. 2018-15809
-
-Lietuvos Respublikos referendumo įstatymo Nr. IX-929 15 straipsnio pakeitimo įstatymas
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1779, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21115
-
-Lietuvos Respublikos referendumo įstatymo Nr. IX-929 2, 11, 30, 31, 38, 53, 54, 57, 58, 60-1 ir 77 straipsnių pakeitimo įstatymas
-
-11.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1830, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21715
-
-Lietuvos Respublikos referendumo įstatymo Nr. IX-929 pakeitimo įstatymas
+Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 
