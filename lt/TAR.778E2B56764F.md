@@ -4,7 +4,7 @@ identifier: "TAR.778E2B56764F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-01-16"
-last_updated: "1999-05-27"
+last_updated: "1999-12-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.778E2B56764F"
 department: "Lietuvos Respublikos Seimas"
@@ -20,43 +20,47 @@ LIETUVOS RESPUBLIKOS
 
 Redagavo: Ramunė
 
-Lūžaitė (1999.06.10)
+Lūžaitė (2000.01.11)
 
-Įstatymas
+Įstatymas paskelbtas: Žin.,
 
-paskelbtas: Žin., 1996,
+1996, Nr.11-282
 
-Nr.11-282
-
-Neoficialus įstatymo
-
-tekstas
+Neoficialus įstatymo tekstas
 
 Pakeitimai:
 
 1.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. VIII-1204,
+Nr.
 
-99.05.27, Žin., 1999, Nr.50-1605 (99.06.09)
+VIII-1204, 99.05.27, Žin., 1999, Nr.50-1605 (99.06.09)
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-TABAKO KONTROLĖS ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO IR
+RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 1 STRAIPSNIO
 
-PAPILDYMO BEI ĮSTATYMO PAPILDYMO 2(1) STRAIPSNIU ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 2(1) STRAIPSNIU ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1489, 99.12.21, Žin., 2000, Nr.1-3 (00.01.05)
+
+LIETUVOS RESPUBLIKOS TABAKO KONTROLĖS
+
+ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 2(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
-TABAKO
-
-KONTROLĖS ĮSTATYMO ĮGYVENDINIMO
+TABAKO KONTROLĖS ĮSTATYMO ĮGYVENDINIMO
 
 ĮSTATYMAS
 
@@ -64,121 +68,99 @@ KONTROLĖS ĮSTATYMO ĮGYVENDINIMO
 
 Vilnius
 
-1 straipsnis. Pasiūlymai Lietuvos Respublikos
-
-Vyriausybei
+1 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 1. Vyriausybė:
 
-1) nustato tabako gaminių prekybos ir importo
+1) nustato tabako gaminių prekybos ir importo tvarką,
 
-tvarką, remdamasi Tabako kontrolės įstatymu;
+remdamasi Tabako kontrolės įstatymu;
 
-2) nustato leidimų tabako auginimui, tabako
+2) nustato leidimų tabako auginimui, tabako gaminių
 
-gaminių gamybai, importui ir prekybai išdavimo, atsisakymo juos išduoti ir jų
+gamybai, importui ir prekybai išdavimo, atsisakymo juos išduoti ir jų atšaukimo
 
-atšaukimo pagrindus ir sąlygas, remdamasi Tabako kontrolės įstatymu;
+pagrindus ir sąlygas, remdamasi Tabako kontrolės įstatymu;
 
 3) tvirtina Valstybinę tabako kontrolės programą.
 
-2. Vyriausybė ar jos įgaliota institucija
+2. Vyriausybė ar jos įgaliota institucija nustato
 
-nustato įspėjamųjų užrašų ant tabako gaminių pakuočių turinį, jų
+įspėjamųjų užrašų ant tabako gaminių pakuočių turinį, jų apipavidalinimo ir
 
-apipavidalinimo ir atnaujinimo tvarką.
+atnaujinimo tvarką.
 
-3. Vyriausybė nustato Lietuvoje parduodamuose
+3. Vyriausybė nustato Lietuvoje parduodamuose tabako
 
-tabako gaminiuose
+gaminiuose
 
 (1 cigaretėje) esančių tabako dervų leistino kiekio normas:
 
-1) nuo 1998 m. sausio 1 d. - ne daugiau kaip
+1) nuo 1998 m. sausio 1 d. - ne daugiau kaip 20 mg;
 
-20 mg;
+2) nuo 2000 m. sausio 1 d. - ne daugiau kaip 15 mg;
 
-2) nuo 2000 m. sausio 1 d. - ne daugiau kaip
+3) nuo 2007 m. sausio 1 d. - ne daugiau kaip 12 mg.
 
-15 mg;
+4. Vyriausybė iki 1999 m. liepos 1 d. patvirtina
 
-3) nuo 2007 m. sausio 1 d. - ne daugiau kaip
+informacijos (socialinės reklamos) apie kenksmingą tabako poveikį žmonių
 
-12 mg.
+sveikatai ant išorinių reklamos priemonių bei visuomenės informavimo priemonėse
 
-4. Vyriausybė iki 1999 m. liepos 1 d.
+teikimo tvarką, formą ir turinį.
 
-patvirtina informacijos (socialinės reklamos) apie kenksmingą tabako poveikį
-
-žmonių sveikatai ant išorinių reklamos priemonių bei visuomenės informavimo
-
-priemonėse teikimo tvarką, formą ir turinį.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. VIII-1204,
-
-99.05.27, Žin., 1999, Nr.50-1605 (99.06.09)
-
-2 straipsnis.
-
-Tabako kontrolės įstatymo reikalavimų dėl
-
-įspėjamųjų užrašų lietuvių kalba ant
-
-tabako gaminių pakuočių įsigaliojimas
-
-Tabako
-
-kontrolės įstatymo reikalavimai dėl įspėjamųjų užrašų
-
-lietuvių kalba ant
-
-tabako gaminių pakuočių įsigalioja nuo 1997 m.
-
-sausio 1 d.
-
-2(1) straipsnis. Tabako kontrolės
-
-įstatymo 11 straipsnio 4 dalies
-
-įsigaliojimas
-
-Tabako kontrolės įstatymo 11 straipsnio 4
-
-dalis įsigalioja nuo 2000 m. sausio 1 d.
-
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. VIII-1204, 99.05.27,
 
 Žin., 1999, Nr.50-1605 (99.06.09)
 
-3 straipsnis.
+2 straipsnis. Tabako
 
-Nacionalinės sveikatos tarybos funkcijų
+kontrolės įstatymo reikalavimų dėl įspėjamųjų užrašų lietuvių kalba ant
 
-tabako kontrolės srityje atlikimas
+tabako
+
+gaminių pakuočių įsigaliojimas
+
+Tabako kontrolės įstatymo reikalavimai dėl
+
+įspėjamųjų užrašų lietuvių kalba ant tabako gaminių pakuočių įsigalioja nuo
+
+1997 m. sausio 1 d.
+
+2(1) straipsnis. Tabako kontrolės įstatymo
+
+11 straipsnio 4 dalies įsigaliojimas
+
+Tabako kontrolės įstatymo 11 straipsnio 4 dalis
+
+įsigalioja nuo 2000 m. gegužės 1 d.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1204, 99.05.27,
+
+Žin., 1999, Nr.50-1605 (99.06.09)
+
+Nr. VIII-1489, 99.12.21, Žin., 2000, Nr.1-3 (00.01.05)
+
+3 straipsnis. Nacionalinės sveikatos tarybos
+
+funkcijų tabako kontrolės srityje atlikimas
 
 Nacionalinės
 
-sveikatos  tarybos funkcijas  tabako  kontrolės
+sveikatos  tarybos funkcijas  tabako  kontrolės srityje iki  šios  tarybos
 
-srityje iki  šios
+nuostatų  bei  sudėties  patvirtinimo atlieka Vyriausybė.
 
-tarybos  nuostatų  bei  sudėties  patvirtinimo
+Skelbiu šį Lietuvos
 
-atlieka Vyriausybė.
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
+Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
 
