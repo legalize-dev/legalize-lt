@@ -4,7 +4,7 @@ identifier: "TAR.D72EC8D26124"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-10-05"
-last_updated: "2001-04-17"
+last_updated: "2001-04-26"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D72EC8D26124"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -6670,11 +6670,13 @@ gaunami alimentai;
 
 žalai atlyginti gautos sumos netekus maitintojo bei darbingumo;
 
-5) teismų priteistos
+5) teismų priteistos sumos materialinei ir moralinei žalai atlyginti bei
 
-sumos materialinei ir moralinei žalai atlyginti bei įstatymų ir Vyriausybės
+įstatymų ir Vyriausybės nustatytų normų neviršijančios piniginės kompensacijos,
 
-nustatytų normų neviršijančios piniginės kompensacijos;
+taip pat kompensacijos, mokamos iš Austrijos Respublikos Susitaikymo, santarvės
+
+ir bendradarbiavimo fondo;
 
 6) palūkanos už Lietuvos
 
@@ -6690,9 +6692,9 @@ popierius;
 
 loterijų laimėjimai;
 
-[7 punkto
+[7 punkto redakcija
 
-redakcija nuo 2001 m. liepos 1 d.:
+nuo 2001 m. liepos 1 d.:
 
 7)
 
@@ -6730,9 +6732,9 @@ sporto ir kitų varžybų bei konkursų prizai ir dovanos;
 
 12)
 
-palūkanos, gautos už Lietuvos banko licencijas turinčiose banko ir kitose kredito
+palūkanos, gautos už Lietuvos banko licencijas turinčiose banko ir kitose
 
-įstaigose laikomus indėlius;
+kredito įstaigose laikomus indėlius;
 
 13)
 
@@ -6782,9 +6784,9 @@ produkciją, taip pat ūkininkų ir ūkio narių pajamos už ūkininkų ūkiuose
 
 įregistruotuose Ūkininko ūkio įstatymo nustatyta tvarka, vykdomą žemės ūkio
 
-veiklą ir gyventojų pajamos už parduodamas miško gėrybes (grybus, uogas, riešutus,
+veiklą ir gyventojų pajamos už parduodamas miško gėrybes (grybus, uogas,
 
-vaistažoles ir kt.);
+riešutus, vaistažoles ir kt.);
 
 20)
 
@@ -6909,6 +6911,10 @@ Nr. IX-83, 2000 12 19, Žin., 2000, Nr.
 Nr. IX-257, 2001 04 17, Žin., 2001, Nr.
 
 39-1329 (2001 05 09), įsigalioja nuo 2001 07 01
+
+Nr. IX-300, 2001 04 26, Žin., 2001, Nr.
+
+41-1421 (2001 05 16)
 
 36
 
@@ -7042,9 +7048,9 @@ pateikiama pasibaigus metams iki kitų metų vasario 1 dienos;
 
 6)
 
-einamaisiais metais gerokai pasikeitus (sumažėjus arba padidėjus) gaunamų pajamų
+einamaisiais metais gerokai pasikeitus (sumažėjus arba padidėjus) gaunamų
 
-dydžiui, fiziniai asmenys, anksčiau deklaravę numatomas gauti pajamas ir
+pajamų dydžiui, fiziniai asmenys, anksčiau deklaravę numatomas gauti pajamas ir
 
 mokantys avansinius mokesčius, gali pateikti naują pajamų deklaraciją, kuria
 
@@ -7118,13 +7124,13 @@ Nr. IX-83, 2000 12 19, Žin., 2000, Nr.
 
 38 straipsnis.
 
-Laiku
+Laiku neapmokestinti
 
-neapmokestinti mokėtojai apmokestinami, neteisingas apmokestinimas
+mokėtojai apmokestinami, neteisingas apmokestinimas patikslinamas ir mokestis
 
-patikslinamas ir mokestis grąžinamas arba išieškomas Lietuvos Respublikos
+grąžinamas arba išieškomas Lietuvos Respublikos mokesčių administravimo
 
-mokesčių administravimo įstatymo nustatyta tvarka.
+įstatymo nustatyta tvarka.
 
 Už praėjusį laikotarpį
 
@@ -7260,33 +7266,31 @@ Nr.I-430,
 
 41 straipsnis.
 
-Įmonės, įstaigos ir organizacijos
+Įmonės, įstaigos ir
 
-privalo valstybinėms mokesčių inspekcijoms pateikti žinias apie visas Lietuvos
+organizacijos privalo valstybinėms mokesčių inspekcijoms pateikti žinias apie
 
-Respublikos gyventojams, užsienio valstybių piliečiams ir asmenims be
+visas Lietuvos Respublikos gyventojams, užsienio valstybių piliečiams ir
 
-pilietybės išmokėtas sumas (pinigais ir natūra), išskyrus išmokas, nurodytas
+asmenims be pilietybės išmokėtas sumas (pinigais ir natūra), išskyrus išmokas,
 
-šio įstatymo II, III ir IV dalyse, 33 straipsnio ketvirtojoje dalyje ir 35
+nurodytas šio įstatymo II, III ir IV dalyse, 33 straipsnio ketvirtojoje dalyje
 
-straipsnyje (išskyrus šio straipsnio 11 punkto nuostatą dėl per metus parduoto
+ir 35 straipsnyje (išskyrus šio straipsnio 11 punkto nuostatą dėl per metus
 
-vieno bet kokios vertės vienos ar kitos rūšies daikto).
+parduoto vieno bet kokios vertės vienos ar kitos rūšies daikto).
 
 Žinios apie
 
-Lietuvos Respublikos gyventojams išmokėtas sumas pateikiamos valstybinei
+Lietuvos Respublikos gyventojams išmokėtas sumas pateikiamos valstybinei mokesčių
 
-mokesčių inspekcijai, kurios veiklos teritorijoje nuolat gyvena pajamas gavęs
+inspekcijai, kurios veiklos teritorijoje nuolat gyvena pajamas gavęs asmuo. Šia
 
-asmuo. Šia tvarka žinios pateikiamos ir tuo atveju, kai įmonės, įstaigos ir
+tvarka žinios pateikiamos ir tuo atveju, kai įmonės, įstaigos ir organizacijos
 
-organizacijos Lietuvos Respublikos gyventojams išmoka sumas už parduotą vieną
+Lietuvos Respublikos gyventojams išmoka sumas už parduotą vieną bet kokios
 
-bet kokios vertės vienos arba kitos rūšies daiktą ir neišskaito pajamų
-
-mokesčio.
+vertės vienos arba kitos rūšies daiktą ir neišskaito pajamų mokesčio.
 
 Žinios apie
 
@@ -8174,9 +8178,9 @@ nuo 2001 m. sausio 1 d.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1615, 00.04.11, Žin., 2000, Nr.34-955
+Nr. VIII-1615, 00.04.11, Žin., 2000,
 
-(00.04.26)
+Nr.34-955 (00.04.26)
 
 FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 4
 
@@ -8254,21 +8258,21 @@ turtą, kuris registruojamas Nekilnojamojo turto registre, dėl autorinio
 
 atlyginimo, atlyginimo už perduotas ar autorinėje licencinėje sutartyje
 
-suteiktas autorių teises ir gretutines teises, taip pat už perduotas ar licencinėje
+suteiktas autorių teises ir gretutines teises, taip pat už perduotas ar
 
-sutartyje suteiktas teises naudotis išradimo patentu, pramoniniu dizainu,
+licencinėje sutartyje suteiktas teises naudotis išradimo patentu, pramoniniu
 
-puslaidininkio gaminio topografija, paslaugų ženklu, slapta formule ar metodu,
+dizainu, puslaidininkio gaminio topografija, paslaugų ženklu, slapta formule ar
 
-frančize, nuostolių ir materialinės žalos atlyginimo už autorių ir gretutinių
+metodu, frančize, nuostolių ir materialinės žalos atlyginimo už autorių ir
 
-teisių pažeidimą arba kompensacijų už autorių ir gretutinių teisių pažeidimą
+gretutinių teisių pažeidimą arba kompensacijų už autorių ir gretutinių teisių
 
-bei dėl palūkanų, išskyrus palūkanas už paskolas, kurias suteikė tarptautinės
+pažeidimą bei dėl palūkanų, išskyrus palūkanas už paskolas, kurias suteikė
 
-finansinės institucijos (institucijos arba organizacijos, kurių visi nariai
+tarptautinės finansinės institucijos (institucijos arba organizacijos, kurių
 
-arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio valstybių
+visi nariai arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio valstybių
 
 fondai ir valstybinės finansinės institucijos, kurių daugiau kaip 50 procentų
 
@@ -8368,9 +8372,21 @@ FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 35
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+42.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-300, 2001 04
+
+26, Žin., 2001, Nr. 41-1421 (2001 05 16)
+
+FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 35
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2001 05 11)
+Redagavo: Aušrinė Trapinskienė (2001 05 16)
 
 autrap@lrs.lt
 
