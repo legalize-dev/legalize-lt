@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2003-10-08"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2003-10-08 iki 2004-04-30
+Suvestinė redakcija nuo 2004-05-01 iki 2004-08-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -606,7 +606,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. IX-1744, 2003-09-23, Žin., 2003, Nr. 94-4248 (2003-10-08), i. k. 1031010ISTA0IX-1744
 
-3. Jeigu Lietuvos Respublikos tarptautinė sutartis nenumato kitaip, šio straipsnio 1 dalyje nurodyta licencija gali būti išduodama Lietuvos Respublikoje įsteigtai įmonei, kuri turi vežėjo pažymėjimą, o jos kontrolės teisės priklauso Lietuvos Respublikos piliečiams, savivaldybėms, valstybei ar kitoms Lietuvos Respublikoje įregistruotoms įmonėms, kurių kontrolės teisės taip pat priklauso Lietuvos Respublikos piliečiams, savivaldybėms ar valstybei.
+3. Šio straipsnio 1 dalyje numatyta licencija vežėjui išduodama pagal Tarybos Reglamento (EEB) Nr. 2407/92 dėl oro vežėjų licencijavimo nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2197, 2004-04-29, Žin., 2004, Nr. 73-2531 (2004-04-30), i. k. 1041010ISTA0IX-2197
 
 57 straipsnis. Licencijos oro susisiekimui vykdyti išdavimas, sustabdymas ir panaikinimas
 
@@ -795,6 +799,14 @@ Lietuvos Respublikos aviacijos įstatymo 2, 8, 17, 21, 25, 45, 48, 52, 72 straip
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. IX-1744, 2003-09-23, Žin., 2003, Nr. 94-4248 (2003-10-08), i. k. 1031010ISTA0IX-1744
+
+Lietuvos Respublikos aviacijos įstatymo 56 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2197, 2004-04-29, Žin., 2004, Nr. 73-2531 (2004-04-30), i. k. 1041010ISTA0IX-2197
 
 Lietuvos Respublikos aviacijos įstatymo 56 straipsnio pakeitimo įstatymas
 
