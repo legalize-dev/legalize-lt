@@ -4,7 +4,7 @@ identifier: "TAR.62AC77FBC51D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-13"
-last_updated: "1998-07-01"
+last_updated: "1998-10-14"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.62AC77FBC51D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas
 
-Suvestinė redakcija nuo 1998-07-01 iki 1998-10-13
+Suvestinė redakcija nuo 1998-10-14 iki 1998-11-12
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 55-1351, i. k. 0951010ISTA000I-938
 
@@ -191,6 +191,12 @@ Jeigu įmonė buvo įsteigta (registruota) arba buvo investuotas užsienio kapit
 
 Jei įmonė buvo įsteigta (registruota) arba buvo investuotas užsienio kapitalas nuo 1994 m. sausio 1 d. iki šio įstatymo įsigaliojimo dienos, tai pelno (pajamų) dalis, tenkanti užsienio investicijai, šešerius metus apmokestinama 50 procentų mažesniu pelno (pajamų) mokesčiu.
 
+Jeigu investuotojas (investuotojai) po 1998 m. spalio 1 d. per 3 metus (36 kalendorinius mėnesius) investavo į Lietuvos Respublikoje įregistruotą įmonę ne mažiau kaip 200 mln. Lt, Vyriausybė investuotojo (investuotojų) pageidavimu turi sudaryti su investuotoju (investuotojais) investicijų sutartį, kurioje būtų numatyta, kad šiai įmonei 5 metus nuo investavimo momento nebus didinami įmonės mokamų tiesioginių mokesčių tarifai (Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio 1 dalyje išvardyti mokesčiai, išskyrus pridėtinės vertės mokestį ir akcizą), nustatyti investavimo momentu galiojusiuose atitinkamuose mokesčių įstatymuose. Vyriausybė turi teisę strateginiams investuotojams mokesčių nedidinimo terminą pratęsti iki 10 metų. Investavimo tvarką nustato Vyriausybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. VIII-868, 1998-09-29, Žin., 1998, Nr. 90-2484 (1998-10-14), i. k. 0981010ISTAVIII-868
+
 13 straipsnis. Įmonių mokesčių lengvatos
 
 Jeigu įmonėje užsienio investuotojo (investuotojų) užsienio kapitalo investicija yra pasiekusi du milijonus JAV dolerių, tai ši įmonė trejus metus nemoka pelno (pajamų) mokesčio. Kitus trejus metus ši įmonė moka 50 procentų mažesnį pelno (pajamų) mokestį.
@@ -290,4 +296,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-628, 1998-02-17, Žin., 1998, Nr. 25-631 (1998-03-13), i. k. 0981010ISTAVIII-628
 
 Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 14 straipsnio pripažinimo netekusiu galios įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-868, 1998-09-29, Žin., 1998, Nr. 90-2484 (1998-10-14), i. k. 0981010ISTAVIII-868
+
+Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 12 straipsnio papildymo įstatymas
 
