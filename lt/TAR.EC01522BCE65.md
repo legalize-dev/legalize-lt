@@ -4,7 +4,7 @@ identifier: "TAR.EC01522BCE65"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-03"
-last_updated: "2001-01-01"
+last_updated: "2001-05-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2001-05-08
+Suvestinė redakcija nuo 2001-05-09 iki 2001-07-24
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
 
@@ -391,7 +391,11 @@ Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010IST
 
 30 straipsnis. Seimo kontrolierių darbo apmokėjimas ir garantijos
 
-1. Seimo kontrolieriui mokamas Statistikos departamento prie Lietuvos Respublikos Vyriausybės skelbiamo praėjusio mėnesio Lietuvos Respublikos ūkio vidutinio darbo užmokesčio (VDU) 5 dydžių atlyginimas. Seimo kontrolierių įstaigos vadovas ar laikinai jį pavaduojantis kontrolierius gauna 10 procentų didesnį atlyginimą negu Seimo kontrolieriaus atlyginimas. Kiti priedai ar premijos Seimo kontrolieriams nemokami.
+1. Seimo kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Seimo kontrolierių įstaigos vadovas ar laikinai jį pavaduojantis kontrolierius gauna 10 procentų didesnį atlyginimą negu Seimo kontrolieriaus atlyginimas. Kiti priedai ar premijos Seimo kontrolieriams nemokami. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, Seimo kontrolieriams taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-271, 2001-04-19, Žin., 2001, Nr. 39-1342 (2001-05-09), i. k. 1011010ISTA00IX-271
 
 2. Seimo kontrolieriui, atleidžiamam iš pareigų pasibaigus įgaliojimų laikui, išmokama 1 mėnesio atlyginimo dydžio išeitinė pašalpa. Seimo kontrolieriui, atleidžiamam iš pareigų sukakus įstatymo nustatytam valstybinių socialinio draudimo pensijų senatvės amžiui ar kai jis negali eiti pareigų dėl sveikatos būklės, išmokama 2 mėnesių atlyginimų dydžio išeitinė pašalpa. Seimo kontrolieriui mirus, jo šeimai išmokama 2 mėnesių atlyginimų dydžio išeitinė pašalpa. Išeitinė pašalpa mokama iš Seimo kontrolierių įstaigai skirtų valstybės biudžeto lėšų. Atleidus Seimo kontrolierių paties prašymu ar kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis, ar kai daugiau kaip pusė Seimo narių pareiškia nepasitikėjimą juo, išeitinė pašalpa nemokama.
 
@@ -422,4 +426,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010ISTA00IX-123
 
 Lietuvos Respublikos Seimo kontrolierių įstatymo 28 ir 30 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-271, 2001-04-19, Žin., 2001, Nr. 39-1342 (2001-05-09), i. k. 1011010ISTA00IX-271
+
+Lietuvos Respublikos Seimo kontrolierių įstatymo 30 straipsnio pakeitimo įstatymas
 
