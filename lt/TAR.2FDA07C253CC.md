@@ -4,7 +4,7 @@ identifier: "TAR.2FDA07C253CC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-09-25"
-last_updated: "1990-09-30"
+last_updated: "1991-01-24"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2FDA07C253CC"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,6 +16,10 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybinių įmonių įstatymas
 
+Suvestinė redakcija nuo 1991-01-24 iki 1992-10-10
+
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 92-0; Žin. 1990, Nr.30-709, i. k. 0901010ISTA000I-604
+
 LIETUVOS RESPUBLIKOS VALSTYBINIŲ ĮMONIŲ ĮSTATYMAS
 
 I skirsnis
@@ -24,7 +28,11 @@ BENDROJI DALIS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis įstatymas nustato iš valstybės (vietos savivaldybės) lėšų įsteigtų (įgytų) valstybinių įmonių (VĮ) ir valstybinių akcinių įmonių (VAĮ) steigimą, reorganizavimą ir likvidavimą, valdymą, jų finansinės ir kitos komercinės-ūkinės veiklos pagrindus. Jis netaikomas toms specifinės paskirties valstybinėms įmonėms, kurios veikia tik pagal savo, t.y. pagal atskiros valstybinės įmonės, įstatus. Šių įmonių sąrašą, taip pat jų pavyzdinius įstatus Vyriausybės teikimu tvirtina Lietuvos Respublikos Aukščiausioji Taryba.
+1. Šis įstatymas nustato iš valstybės (vietos savivaldybės) lėšų įsteigtų (įgytų) valstybinių įmonių (VĮ) ir valstybinių akcinių įmonių (VAĮ) steigimą, reorganizavimą ir likvidavimą, valdymą, jų finansinės ir kitos komercinės-ūkinės veiklos pagrindus. Jis netaikomas toms specifinės paskirties valstybinėms įmonėms, kurios veikia tik pagal savo, t.y. pagal atskiros valstybinės įmonės, įstatus. Šių įmonių sąrašą, taip pat jų pavyzdinius įstatus tvirtina Lietuvos Respublikos Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-977, 1991-01-22, Lietuvos aidas, 1991, Nr. 16-0 (1991-01-23); Žin., 1991, Nr. 4-107 (1991-02-10), i. k. 0911010ISTA000I-977
 
 2. Kai šio įstatymo tekstas taikomas ir valstybinei įmonei,ir valstybinei akcinei įmonei, vartojamas žodis „įmonė“.
 
@@ -695,4 +703,14 @@ PIRMININKAS                                  �
 Vilnius, 1990 m. rugsėjo 25 d.
 
 Nr. I-604
+
+Pakeitimai:
+
+1.
+
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+
+Nr. I-977, 1991-01-22, Lietuvos aidas, 1991, Nr. 16-0 (1991-01-23); Žin., 1991, Nr. 4-107 (1991-02-10), i. k. 0911010ISTA000I-977
+
+Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
 
