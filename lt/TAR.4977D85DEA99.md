@@ -4,7 +4,7 @@ identifier: "TAR.4977D85DEA99"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-05"
-last_updated: "1999-11-25"
+last_updated: "1999-12-07"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99"
 department: "Lietuvos Respublikos Seimas"
@@ -15,79 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymas
 
-Redagavo:
-
-Ramunė Lūžaitė (1999.12.10)
-
 Įstatymas
 
-paskelbtas: Žin., 1997, Nr.58-1330
+paskelbtas: Žin., 1997, Nr. 58-1330
 
 Neoficialus įstatymo tekstas
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. VIII-575,
-
-97.12.09, Žin., 1997, Nr.118-3038 (97.12.27)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ SANTAUPŲ ATKŪRIMO ĮSTATYMO 3, 5, 7 STRAIPSNIŲ PAKEITIMO
-
-IR PAPILDYMO ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. VIII-872,
-
-98.10.06, Žin., 1998, Nr.91-2510 (98.10.16)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ SANTAUPŲ ATKŪRIMO ĮSTATYMO 1 IR 7 STRAIPSNIŲ PAPILDYMO
-
-ĮSTATYMAS
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. VIII-1116,
-
-99.03.30, Žin., 1999, Nr.33-951 (99.04.14)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ SANTAUPŲ ATKŪRIMO ĮSTATYMO 1, 2, 3, 5, 6, 8 STRAIPSNIŲ
-
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1453, 99.11.25, Žin., 1999, Nr.105-3029 (99.12.09)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ SANTAUPŲ ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO
-
-PAKEITIMO ĮSTATYMAS
-
-*** pabaiga ***
 
 LIETUVOS RESPUBLIKOS
 
@@ -125,9 +57,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-872,
+Nr. VIII-872, 98.10.06,
 
-98.10.06, Žin., 1998, Nr.91-2510 (98.10.16)
+Žin., 1998, Nr.91-2510 (98.10.16)
 
 Nr. VIII-1116,
 
@@ -289,9 +221,9 @@ litų vienam gyventojui.
 
 dalies 1-3 punktuose nurodytos pinigų sumos buvo pervestos į indėlių sąskaitas
 
-iki 1992 m. gegužės 1 d., tai šios lėšos atkuriamos santykiu 1 litas už 1
+iki 1992 m. gegužės 1 d., tai šios lėšos atkuriamos santykiu 1 litas už 1 turėtą
 
-turėtą rublį (taloną), o jei po 1992 m. gegužės 1 d., tai šios lėšos atkuriamos
+rublį (taloną), o jei po 1992 m. gegužės 1 d., tai šios lėšos atkuriamos
 
 atsižvelgiant į atliktą indeksaciją. Šių lėšų atkūrimo tvarką ir sąlygas
 
@@ -303,25 +235,25 @@ punkte nurodytos lėšos atkuriamos santykiu 1 litas už 20 turėtų rublių
 
 (talonų).
 
-4. Bendra gyventojams atkuriamų
+4. Bendra gyventojams
 
-santaupų ir kitų lėšų, išskyrus šio įstatymo 2 straipsnio 2 dalies 5 punkte
+atkuriamų santaupų ir kitų lėšų, išskyrus šio įstatymo 2 straipsnio 2 dalies 5
 
-nurodytas santaupas, padėtų į indėlių sąskaitas, suma yra lygi 2 straipsnio 1
+punkte nurodytas santaupas, padėtų į indėlių sąskaitas, suma yra lygi 2
 
-ir 2 dalyse išvardytų gyventojų santaupų ir kitų lėšų, padėtų į indėlių
+straipsnio 1 ir 2 dalyse išvardytų gyventojų santaupų ir kitų lėšų, padėtų į
 
-sąskaitas, sumai, atkurtai 3 straipsnio 1, 2 ir 3 dalyse nurodyta tvarka. Jei 2
+indėlių sąskaitas, sumai, atkurtai 3 straipsnio 1, 2 ir 3 dalyse nurodyta
 
-straipsnio 2 dalyje nurodytos lėšos buvo padėtos į gyventojų indėlių sąskaitas
+tvarka. Jei 2 straipsnio 2 dalyje nurodytos lėšos buvo padėtos į gyventojų
 
-iki 1991 m. vasario 26 d., tai santaupų likutis, buvęs 1991 m. vasario 26 d.,
+indėlių sąskaitas iki 1991 m. vasario 26 d., tai santaupų likutis, buvęs 1991
 
-nustatomas iš faktinio santaupų likučio, buvusio 1991 m. vasario 26 d., atimant
+m. vasario 26 d., nustatomas iš faktinio santaupų likučio, buvusio 1991 m.
 
-2 straipsnio 2 dalies 1-3 punktuose nurodytas pinigų sumas, pervestas į
+vasario 26 d., atimant 2 straipsnio 2 dalies 1-3 punktuose nurodytas pinigų
 
-gyventojų indėlių sąskaitas iki 1991 m. vasario 26 d.
+sumas, pervestas į gyventojų indėlių sąskaitas iki 1991 m. vasario 26 d.
 
 5. Šio įstatymo 2
 
@@ -357,17 +289,17 @@ atkurti, kaupiamos specialiojoje Finansų ministerijos Santaupų atkūrimo
 
 sąskaitoje, atidarytoje AB Lietuvos taupomasis bankas.
 
-8. Gyventojų santaupos (išskyrus
+8. Gyventojų santaupos
 
-šio įstatymo 2 straipsnio 2 dalies 5 punkte nurodytas santaupas) atkuriamos iki
+(išskyrus šio įstatymo 2 straipsnio 2 dalies 5 punkte nurodytas santaupas)
 
-1998 m. kovo 31 d., atidarant gyventojams atkuriamų santaupų sąskaitas (toliau
+atkuriamos iki 1998 m. kovo 31 d., atidarant gyventojams atkuriamų santaupų
 
-- atkuriamosios sąskaitos) AB Lietuvos taupomasis bankas. Iki šios datos iš šio
+sąskaitas (toliau - atkuriamosios sąskaitos) AB Lietuvos taupomasis bankas. Iki
 
-įstatymo 4 straipsnyje nurodytų šaltinių padengiamos AB Lietuvos taupomasis
+šios datos iš šio įstatymo 4 straipsnyje nurodytų šaltinių padengiamos AB
 
-bankas išlaidos atkuriamosioms sąskaitoms atidaryti.
+Lietuvos taupomasis bankas išlaidos atkuriamosioms sąskaitoms atidaryti.
 
 9. Atkuriamosiose
 
@@ -387,9 +319,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-575,
+Nr. VIII-575, 97.12.09,
 
-97.12.09, Žin., 1997, Nr.118-3038 (97.12.27)
+Žin., 1997, Nr.118-3038 (97.12.27)
 
 Nr. VIII-1116,
 
@@ -417,15 +349,13 @@ sudaryti. Privatizavimo fonde esančios lėšos gyventojų santaupoms atkurti ir
 
 tuo susijusioms išlaidoms padengti Lietuvos Respublikos Vyriausybės sprendimu
 
-laikinai, 1999-2001 metais, gali būti naudojamos įgyvendinant Lietuvos
+laikinai, 1999-2001 metais, gali būti naudojamos įgyvendinant Lietuvos Respublikos
 
-Respublikos valstybės skolos įstatymą atsirandantiems valstybės turtiniams
+valstybės skolos įstatymą atsirandantiems valstybės turtiniams įsipareigojimams
 
-įsipareigojimams vykdyti. Iki 1/3 lėšų, gautų pagal įstatymus pardavus
+vykdyti. Iki 1/3 lėšų, gautų pagal įstatymus pardavus valstybės turtą (įmonių
 
-valstybės turtą (įmonių akcijas), skiriama šalies ekonomikos programoms
-
-finansuoti.
+akcijas), skiriama šalies ekonomikos programoms finansuoti.
 
 2. Kad atkuriamosiose sąskaitose esančiomis
 
@@ -445,9 +375,9 @@ Lietuvos taupomasis bankas, kitais Lietuvos ir užsienio bankais ar finansinėmi
 
 institucijomis dėl konkrečios paskolos. Tokios paskolos suma negali būti
 
-mažesnė kaip 50 procentų įkeičiamos privatizuotinos įmonės (akcijų paketo) rinkos
+mažesnė kaip 50 procentų įkeičiamos privatizuotinos įmonės (akcijų paketo)
 
-vertės, nustatytos pagal turto vertintojo pažymą, ar kito turto pardavimo
+rinkos vertės, nustatytos pagal turto vertintojo pažymą, ar kito turto pardavimo
 
 kainos, o bendra įsipareigojimų suma pagal visas paskolų sutartis, išskyrus
 
@@ -485,19 +415,21 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1453, 99.11.25, Žin., 1999, Nr.105-3029 (99.12.09)
+Nr. VIII-1453, 99.11.25, Žin., 1999,
+
+Nr.105-3029 (99.12.09)
 
 5 straipsnis. Santaupų atkuriamosios
 
 sąskaitos
 
-1. Atkuriamoji sąskaita
+1. Atkuriamoji sąskaita atidaroma
 
-atidaroma kiekvienam gyventojui (toliau - indėlininkas), kuriam pagal šį
+kiekvienam gyventojui (toliau - indėlininkas), kuriam pagal šį įstatymą
 
-įstatymą atkuriamos santaupos (išskyrus šio įstatymo 2 straipsnio 2 dalies 5
+atkuriamos santaupos (išskyrus šio įstatymo 2 straipsnio 2 dalies 5 punkte
 
-punkte nurodytas santaupas) AB Lietuvos taupomasis bankas. Atkuriamoji sąskaita
+nurodytas santaupas) AB Lietuvos taupomasis bankas. Atkuriamoji sąskaita
 
 atidaroma indėlininko (indėlininkui mirus, jo turto paveldėtojo) raštišku
 
@@ -559,9 +491,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-575,
+Nr. VIII-575, 97.12.09,
 
-97.12.09, Žin., 1997, Nr.118-3038 (97.12.27)
+Žin., 1997, Nr.118-3038 (97.12.27)
 
 Nr. VIII-1116,
 
@@ -617,9 +549,9 @@ I grupės invalidą nuo vaikystės; asmenys, sulaukę 85 ir daugiau metų;
 
 reabilituoti politiniai kaliniai ir tremtiniai, geto kaliniai; asmenys,
 
-nukentėję nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių,
+nukentėję nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių
 
-bei kiti asmenys, nukentėję kovose už Lietuvos laisvę;
+įvykių, bei kiti asmenys, nukentėję kovose už Lietuvos laisvę;
 
 2) asmenys, sulaukę 70 ir daugiau metų,
 
@@ -633,7 +565,7 @@ Vyriausybės nustatyta tvarka;
 
 3) pensininkai, sulaukę 60 ir daugiau
 
-metų;
+metų, taip pat šeimos, auginančios tris vaikus;
 
 4) kiti indėlininkai.
 
@@ -689,6 +621,12 @@ Nr. VIII-1116,
 
 99.03.30, Žin., 1999, Nr.33-951 (99.04.14)
 
+Nr.
+
+VIII-1467,
+
+1999-12-07, Žin., 1999, Nr. 107-3099 (1999-12-17)
+
 7 straipsnis. Baigiamosios nuostatos
 
 1. Gyventojai, praleidę šio įstatymo 3
@@ -703,17 +641,17 @@ sudėtį ir jos nuostatus tvirtina Vyriausybė. Ši komisija nusprendžia, priim
 
 ar nepriimti gyventojo prašymą atidaryti atkuriamąją sąskaitą. Taip pat šiai
 
-komisijai suteikiama teisė nagrinėti prašymus ir priimti sprendimus dėl
+komisijai suteikiama teisė nagrinėti prašymus ir priimti sprendimus dėl santaupų,
 
-santaupų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, ir lėšų, nurodytų šio
+nurodytų šio įstatymo 2 straipsnio 1 dalyje, ir lėšų, nurodytų šio įstatymo 2
 
-įstatymo 2 straipsnio 2 dalyje, atkūrimo, jei šios lėšos buvo pervestos ir
+straipsnio 2 dalyje, atkūrimo, jei šios lėšos buvo pervestos ir laikomos
 
-laikomos Lietuvos valstybiniuose bankuose buvusių tremtinių ir politinių
+Lietuvos valstybiniuose bankuose buvusių tremtinių ir politinių kalinių, kurie
 
-kalinių, kurie negrįžo gyventi į Lietuvą, sąskaitose. Komisijos sprendimai
+negrįžo gyventi į Lietuvą, sąskaitose. Komisijos sprendimai perduodami vykdyti
 
-perduodami vykdyti AB Lietuvos taupomasis bankas.
+AB Lietuvos taupomasis bankas.
 
 2. Iki 1997 m. gruodžio 31 d. gyventojų
 
@@ -723,29 +661,31 @@ santaupų indeksavimo” ir atitinkamų Vyriausybės nutarimų nustatyta tvarka.
 
 3. Nuo 1998 m. sausio 1 d. Seimo
 
-nutarimą “Dėl gyventojų santaupų indeksavimo” (Žin., 1993, Nr.71-1329), taip
+nutarimą “Dėl gyventojų santaupų indeksavimo”
 
-pat Seimo nutarimą “Dėl santaupų atkūrimo ir kompensavimo fondo nuostatų
+(Žin., 1993, Nr.71-1329), taip pat Seimo nutarimą “Dėl santaupų atkūrimo ir
 
-patvirtinimo” (Žin., 1994, Nr.33-589) pripažinti netekusiais galios.
+kompensavimo fondo nuostatų patvirtinimo” (Žin., 1994, Nr.33-589) pripažinti
+
+netekusiais galios.
 
 4. Nuo šio įstatymo įsigaliojimo dienos
 
-Gyventojų santaupų kompensavimo įstatymą (Žin., 1996, Nr.104-2369) pripažinti
+Gyventojų santaupų kompensavimo įstatymą
 
-netekusiu galios.
+(Žin., 1996, Nr.104-2369) pripažinti netekusiu galios.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. VIII-575,
+Nr. VIII-575, 97.12.09,
 
-97.12.09, Žin., 1997, Nr.118-3038 (97.12.27)
+Žin., 1997, Nr.118-3038 (97.12.27)
 
-Nr. VIII-872,
+Nr. VIII-872, 98.10.06,
 
-98.10.06, Žin., 1998, Nr.91-2510 (98.10.16)
+Žin., 1998, Nr.91-2510 (98.10.16)
 
 8 straipsnis. Pasiūlymai Vyriausybei ir
 
@@ -781,7 +721,97 @@ Skelbiu šį Lietuvos Respublikos Seimo
 
 priimtą įstatymą
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS
 
 BRAZAUSKAS
+
+__________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-575, 97.12.09,
+
+Žin., 1997, Nr.118-3038 (97.12.27)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ SANTAUPŲ ATKŪRIMO ĮSTATYMO 3, 5, 7 STRAIPSNIŲ PAKEITIMO
+
+IR PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-872, 98.10.06,
+
+Žin., 1998, Nr.91-2510 (98.10.16)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ SANTAUPŲ ATKŪRIMO ĮSTATYMO 1 IR 7 STRAIPSNIŲ PAPILDYMO
+
+ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1116,
+
+99.03.30, Žin., 1999, Nr.33-951 (99.04.14)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ SANTAUPŲ ATKŪRIMO ĮSTATYMO 1, 2, 3, 5, 6, 8 STRAIPSNIŲ
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1453, 99.11.25, Žin., 1999,
+
+Nr.105-3029 (99.12.09)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ SANTAUPŲ ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-1467,
+
+1999-12-07, Žin., 1999, Nr. 107-3099 (1999-12-17)
+
+GYVENTOJŲ
+
+SANTAUPŲ ATKŪRIMO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2003-01-07)
+
+autrap@lrs.lt
 
