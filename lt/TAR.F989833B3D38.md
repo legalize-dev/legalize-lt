@@ -4,7 +4,7 @@ identifier: "TAR.F989833B3D38"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-28"
-last_updated: "1998-06-09"
+last_updated: "1998-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F989833B3D38"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1998.06.19)
+Lūžaitė (1998.07.22)
 
 Įstatymas
 
@@ -143,6 +143,22 @@ LIETUVOS RESPUBLIKOS
 
 AKCIONUOTI, NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
 
+8.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-827,
+
+98.07.01, Žin., 1998, Nr.65-1873 (98.07.22)
+
+LIETUVOS RESPUBLIKOS
+
+ĮSTATYMO “DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI
+
+AKCIONUOTI, NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
@@ -171,7 +187,9 @@ RESPUBLIKOS
 
 PREZIDENTAS                                ALGIRDAS BRAZAUSKAS
 
-Lietuvos Respublikos
+Lietuvos
+
+Respublikos
 
 1994 m. gruodžio 28 d.
 
@@ -213,7 +231,9 @@ Finansų ministerija
 
 brangiųjų metalų perdirbimo įmonė
 
-Ryšių ir informatikos ministerija
+Ryšių
+
+ir informatikos ministerija
 
 2121558   Valstybinė
 
@@ -417,7 +437,7 @@ institutas"
 
 Žemės ir miškų ūkio ministerija
 
-5551693   Ignalinos
+5551693   Ignalinos
 
 valstybinė žuvivaisos įmonė
 
@@ -515,39 +535,15 @@ valstybinis metrologijos centras
 
 Aplinkos apsaugos ministerija
 
-5885293   Laukystos
+5885293   Laukystos žuvų
 
-žuvų veislynas
+veislynas
 
 Lietuvos bankas
 
 1005293   Lietuvos
 
 monetų kalykla
-
-Alytaus apskrities viršininko administracija
-
-8453729
-
-Valstybinė  gyvulių  sėklinimo  įmonė  (Varėnos rajonas)
-
-Kauno
-
-apskrities viršininko administracija
-
-5657226
-
-Valstybinė   veislininkystės   įmonė   (Jonavos rajonas)
-
-6113181
-
-Valstybinė  įmonė  “Pagirių  sodai”   (Kėdainių rajonas)
-
-Panevėžio apskrities viršininko administracija
-
-6913115  Valstybinė
-
-gyvulių  sėklinimo  įmonė  (Pasvalio rajonas)
 
 Šiaulių apskrities viršininko administracija
 
@@ -562,30 +558,6 @@ rajonas)
 6243708 Valstybinė
 
 sėklinimo įmonė (Kelmės rajonas)
-
-Telšių
-
-apskrities viršininko administracija
-
-6981037
-
-Valstybinė  gyvulių  sėklinimo  įmonė  (Plungės rajonas)
-
-Utenos
-
-apskrities viršininko administracija
-
-8365663
-
-Valstybinė  gyvulių  sėklinimo  įmonė   (Utenos rajonas)
-
-Vilniaus
-
-apskrities viršininko administracija
-
-8276783  Valstybinė
-
-gyvulių  sėklinimo  įmonė  (Ukmergės rajonas)
 
 Vilniaus miesto valdyba
 
@@ -661,9 +633,7 @@ knygynas
 
 tinklai"
 
-Klaipėdos
-
-miesto valdyba
+Klaipėdos miesto valdyba
 
 4084288   Valstybinė
 
@@ -734,4 +704,8 @@ Nr. VIII-531,
 Nr. VIII-773,
 
 98.06.09, Žin., 1998, Nr.56-1547 (98.06.19)
+
+Nr. VIII-827,
+
+98.07.01, Žin., 1998, Nr.65-1873 (98.07.22)
 
