@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2000-04-26"
+last_updated: "2000-05-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2000-04-26 iki 2000-05-23
+Suvestinė redakcija nuo 2000-05-24 iki 2000-10-03
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -438,11 +438,13 @@ Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010IST
 
 Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
 
-5. Kai keičiama įmonės rūšis, įmonė gali būti reorganizuojama į akcinę bendrovę – akcionuojant įmonės turtą ir įregistruojant akcijas Vertybinių popierių komisijoje. Seimui atskaitingų bei pavaldžių valstybės institucijų įmonės šioje dalyje nustatyta tvarka gali būti reorganizuojamos tik po to, kai šių įmonių steigėjo funkcijos Seimo nutarimu bus perduotos Lietuvos Respublikos Vyriausybei.
+5. Kai keičiama įmonės rūšis, įmonė gali būti reorganizuojama į akcinę bendrovę arba uždarąją akcinę bendrovę – akcionuojant įmonės turtą. Akcinės bendrovės akcijos įregistruojamos Vertybinių popierių komisijoje. Seimui atskaitingų bei pavaldžių valstybės institucijų įmonės šioje dalyje nustatyta tvarka gali būti reorganizuojamos tik po to, kai šių įmonių steigėjo funkcijos Seimo nutarimu bus perduotos Lietuvos Respublikos Vyriausybei.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
+
+Nr. VIII-1658, 2000-05-02, Žin., 2000, Nr. 42-1186 (2000-05-24), i. k. 1001010ISTAIII-1658
 
 6. Kai keičiama įmonės priklausomybė, ji gali būti reorganizuojama:
 
@@ -659,6 +661,14 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 11 ir 18 
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 straipsnio pakeitimo ir papildymo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1658, 2000-05-02, Žin., 2000, Nr. 42-1186 (2000-05-24), i. k. 1001010ISTAIII-1658
 
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 straipsnio pakeitimo ir papildymo įstatymas
 
