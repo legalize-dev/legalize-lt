@@ -4,7 +4,7 @@ identifier: "TAR.BF09B38B99C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-20"
-last_updated: "2001-07-10"
+last_updated: "2003-10-14"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF09B38B99C6"
 department: "Lietuvos Respublikos Seimas"
@@ -175,9 +175,25 @@ paslaugoms naudojami pastatai, statiniai ar jų dalys;
 
 įmonių naudojamas nekilnojamasis turtas;
 
+1
+
+dalies 7 punkto redakcija iki 2004 m. sausio 1 d.:
+
 7) žemės ūkio įmonėms
 
 priklausantis nekilnojamasis turtas;
+
+1
+
+dalies 7 punkto redakcija nuo 2004 m. sausio 1 d.:
+
+7) žemės ūkio veiklos subjektų
+
+ir kooperatinių bendrovių (kooperatyvų), kurių apmokestinamasis pelnas pagal
+
+Lietuvos Respublikos pelno mokesčio įstatymo nuostatas apmokestinamas taikant 0
+
+procentų pelno mokesčio tarifą, nekilnojamasis turtas;
 
 8) daugiabučių namų
 
@@ -325,9 +341,9 @@ nuosavybės teisė į turtą buvo prarasta.
 
 Laiku neapmokestinti
 
-mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas
+mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas Lietuvos
 
-Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 
 Straipsnio
 
@@ -355,9 +371,9 @@ Nekilnojamojo turto mokestis
 
 įskaitomas į savivaldybės, kurios teritorijoje yra turtas, biudžetą.
 
-9 straipsnis. Atsakomybė už neteisingą
+9 straipsnis. Atsakomybė už
 
-mokesčio apskaičiavimą ir mokėjimą
+neteisingą mokesčio apskaičiavimą ir mokėjimą
 
 Atsakomybė už mokesčio
 
@@ -433,7 +449,7 @@ RESPUBLIKOS PREZIDENTAS
 
 ALGIRDAS BRAZAUSKAS
 
-__________
+_______________
 
 Pakeitimai:
 
@@ -513,13 +529,13 @@ STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-2059,
+Nr. VIII-2059, 00.10.17,
 
-00.10.17, Žin., 2000, Nr.92-2888 (00.10.31)
+Žin., 2000, Nr.92-2888 (00.10.31)
 
-ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO
+ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO
 
-5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 Šis
 
@@ -545,9 +561,35 @@ nuosavybės teise priklausantį nekilnojamąjį turtą mokestį pradeda mokėti 
 
 2002 m. sausio 1 d.
 
-*** Pabaiga ***
+7.
 
-Redagavo: Aušra Petraitienė (2001-07-19)
+Lietuvos
 
-aupetr@lrs.lt
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1778,
+
+2003-10-14, Žin., 2003, Nr. 104-4648 (2003-11-05)
+
+ĮMONIŲ
+
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2003-11-07)
+
+autrap@lrs.lt
 
