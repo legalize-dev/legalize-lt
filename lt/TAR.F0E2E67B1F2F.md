@@ -4,7 +4,7 @@ identifier: "TAR.F0E2E67B1F2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-03-19"
-last_updated: "1998-09-01"
+last_updated: "2001-04-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turizmo įstatymas
+
+Suvestinė redakcija nuo 2001-04-20 iki 2003-03-31
+
+Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
 
 LIETUVOS RESPUBLIKOS TURIZMO Į S T A T Y M A S
 
@@ -350,7 +354,11 @@ Turistų apgyvendinimo paslaugas teikia:
 
 4. Kaimo turizmo paslaugą kaimo vietovėse teikia ūkininkai ar individualių namų savininkai, papildomai sudarydami aktyvaus poilsio galimybes. Ūkininkas ar individualių namų savininkas turi turėti patentą apgyvendinimo paslaugoms teikti. Patentas išduodamas įstatymų nustatyta tvarka, paeiliui penkerius metus nuo patento išdavimo dienos netaikant patento mokesčio ir savininkui pateikus savivaldybės išduotą pažymėjimą (sertifikatą) dėl minimalių reikalavimų įvykdymo.
 
-5. Šio straipsnio 4 dalyje išvardyti asmenys kaimo turizmo paslaugai plėsti turi teisę gauti finansinę paramą iš Kaimo rėmimo ir Miškų fondų bei kitų fondų Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka bei kompensacijas dėl jų ūkinės veiklos apribojimų saugomose teritorijose.
+5. Kaimo turizmo paslaugų sukūrimas ir plėtojimas gali būti remiamas specialiųjų ir kitų programų vykdymui skirtomis lėšomis įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-239, 2001-04-05, Žin., 2001, Nr. 34-1128 (2001-04-20), i. k. 1011010ISTA00IX-239
 
 6. Patalpų individualiems turistams apgyvendinti įrengimo minimalius reikalavimus, pažymėjimo (sertifikato) išdavimo ir paslaugų registravimo tvarką nustato Valstybinis turizmo departamentas.
 
@@ -556,165 +564,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
-41 straipsnis. Kelionių pardavimo agentas
+Pakeitimai:
 
-Kelionių pardavimo agentams taikomi Lietuvos Respublikos civiliniame kodekse ir kituose įstatymuose prekybos agentui nustatyti reikalavimai.
+1.
 
-Papildyta straipsniu:
+Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
+Nr. IX-239, 2001-04-05, Žin., 2001, Nr. 34-1128 (2001-04-20), i. k. 1011010ISTA00IX-239
 
-36 straipsnis. Turizmo politikos formavimas ir turizmo valdymas
-
-1. Turizmo valdymo funkcijas Lietuvos Respublikoje atlieka Lietuvos Respublikos Seimas, Vyriausybė, Ūkio ministerija, Vyriausybės įgaliota institucija, savivaldybės.
-
-2. Turizmo plėtros politikos kryptis nustato Seimas, tvirtindamas Lietuvos turizmo plėtros ilgalaikę strategiją ir priimdamas įstatymus.
-
-3. Vyriausybė:
-
-1) parengia Lietuvos turizmo plėtros ilgalaikę strategiją;
-
-2) atlieka kitas įstatymų nustatytas funkcijas.
-
-37 straipsnis. Ūkio ministerija
-
-Ūkio ministerija:
-
-1) atlieka strateginį Lietuvos turizmo veiklos planavimą;
-
-2) formuoja valstybės politiką turizmo srityje ir organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
-
-3) rengia ir teikia pasiūlymus Vyriausybei dėl kurortų ir kurortinių teritorijų plėtros;
-
-4) dalyvauja Europos Sąjungos turizmo politiką formuojančių institucijų, tarptautinių organizacijų veikloje;
-
-5) atlieka kitas šiame įstatyme ir kituose turizmo veiklą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
-
-38 straipsnis. Vyriausybės įgaliota institucija
-
-Vyriausybės įgaliota institucija, įgyvendindama šio įstatymo nuostatas, atlieka šias funkcijas:
-
-1) įgyvendina strateginių Lietuvos turizmo veiklos planavimo dokumentų nuostatas;
-
-2) atlieka kelionių organizatorių, kelionių pardavimo agentų, turizmo paslaugų rinkinių pardavėjų, apgyvendinimo paslaugų teikėjų priežiūrą;
-
-3) atstovauja turistų interesams kelionių organizatoriaus nemokumo ar bankroto atvejais ir organizuoja turistų grąžinimą į pradinę išvykimo vietą ūkio ministro nustatyta tvarka;
-
-4) atlieka kitas šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta Vyriausybės įgaliotos institucijos kompetencijai, nustatytas funkcijas.
-
-39 straipsnis. Viešoji įstaiga „Keliauk Lietuvoje“
-
-1. Viešoji įstaiga „Keliauk Lietuvoje“ yra pelno nesiekiantis ribotos civilinės atsakomybės viešasis juridinis asmuo, kurio savininkė yra valstybė, o savininkės teises ir pareigas įgyvendina Ūkio ministerija.
-
-2. Viešoji įstaiga „Keliauk Lietuvoje“:
-
-1) įgyvendina strateginių Lietuvos turizmo veiklos planavimo dokumentų nuostatas turizmo rinkodaros srityje;
-
-2) teikia viešąsias paslaugas, rengdama ir įgyvendindama projektus, skirtus valstybės turizmo įvaizdžio kūrimo ir žinomumo didinimui bei atvykstamojo ir vietinio turizmo plėtrai;
-
-3) rengia ir įgyvendina valstybinės reikšmės viešosios turizmo infrastruktūros, rinkodaros projektus turizmo srityje;
-
-4) kuria Lietuvos turizmo maršrutus;
-
-5) atlieka Lietuvos turizmo paslaugų ir produktų tyrimus;
-
-6) dalyvauja inicijuojant ir įgyvendinant turizmo rinkodaros srities tarptautinio bendradarbiavimo priemones;
-
-7) atlieka kitas funkcijas, susijusias su Lietuvos Respublikos, kaip turistinės vietovės, žinomumo didinimu bei atvykstamojo ir vietinio turizmo plėtra.
-
-3. Viešosios įstaigos „Keliauk Lietuvoje“ lėšas sudaro valstybės biudžeto asignavimai, pajamos už suteiktas paslaugas, lėšos, gautos kaip parama, ir kitos teisėtai gautos lėšos.
-
-40 straipsnis. Savivaldybių kompetencija turizmo srityje
-
-Savivaldybės:
-
-1) skatina turizmo verslą kaip darbo vietų kūrimo ir gyventojų užimtumo priemonę;
-
-2) vadovaudamosi Lietuvos turizmo veiklos strateginių dokumentų nuostatomis, nustato savivaldybės turizmo plėtros priemones savivaldybės strateginio planavimo dokumentuose;
-
-3) rengia ir įgyvendina viešosios turizmo ir poilsio infrastruktūros projektus;
-
-4) steigia savivaldybių turizmo informacijos centrus;
-
-5) planuoja ir įgyvendina priemones, reikalingas rekreacinių teritorijų apsaugai, poilsio ir turizmo veiklai šiose teritorijose plėtoti, tvarko rekreacinių teritorijų apskaitą, tvirtina rekreacinių teritorijų naudojimo reglamentus;
-
-6) atlieka kituose turizmo veiklą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
-
-171 straipsnis. Kuponas
-
-1. Karo, nepaprastosios padėties, mobilizacijos, karantino, ekstremaliosios situacijos ar ekstremaliojo įvykio atveju arba kai Lietuvos Respublikos piliečiams uždraudžiama išvykti iš Lietuvos Respublikos arba kitų valstybių piliečiams atvykti į Lietuvos Respubliką (toliau – apribojimai) ir dėl to kelionių organizatoriaus įsipareigojimų pagal organizuotos turistinės kelionės sutartį vykdymas tampa neįmanomas, turisto ir kelionių organizatoriaus susitarimu už neįvykusią organizuotą turistinę kelionę gali būti kompensuojama turistui suteikiant kuponą, kurio vertė yra ne mažesnė kaip už organizuotą turistinę kelionę turisto sumokėtų pinigų suma.
-
-2. Kuponu turistas gali atsiskaityti už vieną ar kelias būsimas to paties kelionių organizatoriaus organizuojamas turistines keliones, kurios (kurių) vertė atitinka kupono vertę, pasibaigus apribojimams (toliau – būsima kelionė). Kuponu turistas gali atsiskaityti ir už būsimos kelionės dalį, jeigu būsimos kelionės kaina yra didesnė už kupono vertę, o likusią nesumokėtą būsimos kelionės kainą sumokėti pinigais.
-
-3. Būsimai kelionei taikomos tos pačios kelionių organizatoriaus prievolių įvykdymo užtikrinimo sąlygos, kokios būtų taikomos, jeigu už būsimą kelionę turistas būtų sumokėjęs pinigais.
-
-4. Kuponas turi atitikti šias sąlygas:
-
-1) gali būti išduotas tik dėl tų organizuotų turistinių kelionių sutarčių, pagal kurias organizuotų turistinių kelionių pradžioje ar jų metu galiojo apribojimai;
-
-2) gali būti išduotas tik dėl konkrečios neįvykdytos organizuotos turistinės kelionės sutarties ir gali būti perleidžiamas kitiems asmenims toje sutartyje nustatytomis organizuotos turistinės kelionės sutarties perleidimo kitam turistui sąlygomis ir tvarka;
-
-3) kuponas gali būti naudojamas sumokėti už būsimą kelionę ar šio straipsnio 2 dalyje nurodytu atveju – jos dalį, kurios pradžia yra ne vėlesnė kaip 12 mėnesių pasibaigus apribojimams;
-
-4) turistas iki kupono išdavimo neatgavo iš kelionių organizatoriaus ar kitų subjektų pinigų už organizuotą turistinę kelionę, kuri neįvyko dėl apribojimų.
-
-5. Jeigu turistas per šio straipsnio 4 dalies 3 punkte nurodytą laikotarpį neatsiskaito už būsimą kelionę kuponu, kelionių organizatorius ne vėliau kaip per 14 dienų nuo šio laikotarpio pabaigos grąžina turistui kupono vertę atitinkančią pinigų sumą.
-
-TAR pastaba. 171 straipsnio nuostatos taikomos ir iki įstatymo Nr. XIII-2862 įsigaliojimo dienos (2020-04-24) sudarytoms organizuotų turistinių kelionių sutartims, pagal kurias neįvyko organizuotos turistinės kelionės dėl apribojimų, taikytų iki šio įstatymo įsigaliojimo.
-
-Papildyta straipsniu:
-
-Nr. XIII-2862, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08529
-
-KETVIRTASIS SKIRSNIS
-
-KELIONIŲ PARDAVIMO AGENTAS
-
-42 straipsnis. Turizmo taryba
-
-1. Turizmo plėtros ir skatinimo klausimams nagrinėti ir pasiūlymams šio įstatymo 37 straipsnio 1 dalyje nurodytoms institucijoms teikti iš turizmo verslo asociacijų, kitų asociacijų ar organizacijų, Lietuvos savivaldybių asociacijos ir valstybės institucijų atstovų sudaroma nuolatinė Turizmo taryba. Ne mažiau kaip pusę Turizmo tarybos narių turi sudaryti šioje dalyje nurodytų asociacijų ar organizacijų deleguoti atstovai.
-
-2. Turizmo taryba sudaroma ir veikia vadovaudamasi ekonomikos ir inovacijų ministro patvirtintais Turizmo tarybos nuostatais.
-
-3. Turizmo tarybos sudėtį tvirtina ekonomikos ir inovacijų ministras.
-
-4. Turizmo tarybą techniškai aptarnauja Ekonomikos ir inovacijų ministerija.
-
-43 straipsnis. Nacionalinė turizmo informacinė sistema
-
-1. Nacionalinė turizmo informacinė sistema yra valstybės informacinė sistema, skirta rinkti, kaupti, saugoti, sisteminti, analizuoti, vertinti keliautojų ir turistų asmens duomenis ir turizmo išteklių duomenis, informaciją, dokumentus, taip pat teikti su jais susijusias viešąsias paslaugas.
-
-2. Asmens duomenų tvarkymo Nacionalinėje turizmo informacinėje sistemoje tikslas – keliautojų ir turistų apskaitos ir 1990 m. birželio 19 d. Konvencijos dėl Šengeno susitarimo, 1985 m. birželio 14 d. sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo 45 straipsnio 1 dalies b punkte nurodyti tikslai.
-
-3. Institucijos ir įstaigos, kiti juridiniai ir (ar) fiziniai asmenys ekonomikos ir inovacijų ministro patvirtintuose Nacionalinės turizmo informacinės sistemos nuostatuose nustatyta tvarka privalo teikti į Nacionalinę turizmo informacinę sistemą duomenis (įskaitant asmens duomenis), būtinus šio įstatymo nustatytiems tikslams pasiekti.
-
-301 straipsnis. Turizmo informacijos centrų vadovai
-
-1. Turizmo informacijos centrų vadovai į pareigas priimami konkurso būdu penkerių metų kadencijai, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, kai turizmo informacijos centro vadovas be konkurso skiriamas antrajai kadencijai. Konkursai į turizmo informacijos centrų vadovų pareigas organizuojami ir vykdomi Vyriausybės nustatyta tvarka.
-
-2. Turizmo informacijos centrų vadovų kadencijų skaičius neribojamas.
-
-3. Pasibaigus turizmo informacijos centro vadovo penkerių metų kadencijai, mero sprendimu jis gali būti be konkurso skiriamas antrajai penkerių metų kadencijai: turizmo informacijos centro – biudžetinės įstaigos – vadovu – vadovas, kurio eitos penkerių metų kadencijos kiekvienų metų veikla buvo įvertinta kaip viršijanti lūkesčius arba atitinkanti lūkesčius (iki 2023 m. gruodžio 31 d. – labai gerai arba gerai), o turizmo informacijos centro – viešosios įstaigos – vadovu – vadovas, kurio pirmosios kadencijos laikotarpiu turizmo informacijos centras pasiekė visus jam iškeltus veiklos tikslus. Sprendimas dėl turizmo informacijos centro vadovo skyrimo be konkurso antrajai penkerių metų kadencijai turi būti priimtas likus ne mažiau kaip 2 mėnesiams iki šio vadovo kadencijos pabaigos.
-
-4. Turizmo informacijos centro vadovas, kuris be konkurso nebuvo skirtas antrajai penkerių metų kadencijai šio straipsnio 3 dalyje nurodytu atveju, turi teisę dalyvauti konkurse šio turizmo informacijos centro vadovo pareigoms eiti.
-
-5. Likus ne mažiau kaip 2 mėnesiams iki turizmo informacijos centro vadovo kadencijos pabaigos, meras skelbia konkursą turizmo informacijos centro vadovo pareigoms eiti, išskyrus šio straipsnio 3 dalyje nustatytą atvejį, kai turizmo informacijos centro vadovas antrajai penkerių metų kadencijai paskiriamas be konkurso.
-
-6. Jeigu konkurso metu pretendentas eiti turizmo informacijos centro vadovo pareigas nebuvo atrinktas, meras gali paskirti laikinai eiti šias pareigas iki kadencijos pabaigos turizmo informacijos centro vadovo pareigas ėjusį ar kitą asmenį, iki konkurso būdu bus paskirtas naujas turizmo informacijos centro vadovas, bet ne ilgesniam negu vienų metų laikotarpiui. Asmuo, paskirtas laikinai eiti turizmo informacijos centro vadovo pareigas, turi būti nepriekaištingos reputacijos, kaip nustatyta šio straipsnio 8 dalyje.
-
-7. Jeigu turizmo informacijos centro vadovo pareigybė atsilaisvina nepasibaigus įstaigos vadovo kadencijai, konkursas į turizmo informacijos centro vadovo pareigas paskelbiamas ne vėliau kaip per vieną mėnesį nuo pareigybės atsilaisvinimo dienos. Konkursas turi būti baigtas ir jo rezultatai paskelbti ne vėliau kaip per 2 mėnesius nuo šio konkurso paskelbimo dienos.
-
-8. Turizmo informacijos centrų vadovai, taip pat pretenduojantys eiti šias pareigas asmenys turi būti nepriekaištingos reputacijos. Kandidatas į turizmo informacijos centro vadovus ir (ar) Turizmo informacijos centro vadovas yra laikomas nepriekaištingos reputacijos šio įstatymo tikslais, jeigu jis atitinka Lietuvos Respublikos valstybės tarnybos įstatyme įstaigų vadovų nepriekaištingai reputacijai nustatytus reikalavimus.
-
-9. Paaiškėjus, kad turizmo informacijos centro vadovas neatitinka nepriekaištingos reputacijos kriterijų, nurodytų šio straipsnio 8 dalyje, meras priima sprendimą nutraukti su turizmo informacijos centro vadovu sudarytą darbo sutartį.
-
-TAR pastaba. 301 straipsnio 8 dalies nuostata netaikoma turizmo informacijos centrų vadovams, priimtiems į pareigas iki įstatymo Nr .XIV-2572 įsigaliojimo dienos (2024-05-06), jeigu Lietuvos Respublikos valstybės tarnybos įstatyme numatytos sąlygos, dėl kurių turizmo informacijos centro vadovas nebūtų laikomas nepriekaištingos reputacijos, atsirado iki įstatymo Nr. XIV-2572 įsigaliojimo dienos (2024-05-06), išskyrus atvejus, kai įsiteisėja teismo nuosprendis, kuriuo turizmo informacijos centro vadovas pripažįstamas kaltu dėl nusikalstamos veikos padarymo. Šiuo atveju turizmo informacijos centro vadovas, priimtas į pareigas iki įstatymo Nr. XIV-2572  įsigaliojimo dienos (2024-05-06), iš pareigų atleidžiamas pagal Turizmo įstatymo 301 straipsnio 9 dalį.
-
-Papildyta straipsniu:
-
-Nr. XIV-2572, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08213
-
-ANTRASIS SKIRSNIS
-
-APGYVENDINIMO PASLAUGOS
+Lietuvos Respublikos turizmo įstatymo 18 straipsnio pakeitimo įstatymas
 
