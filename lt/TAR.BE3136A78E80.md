@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "1994-09-22"
+last_updated: "1995-06-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,11 +15,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos notariato įstatymas
 
-Redaguota: 1994 10 10
+Redaguota: 1994 06 28
 
-Redaguota: 1994 10
+Redaguota: 1994 06
 
-10
+28
 
 g
 
@@ -125,6 +125,26 @@ RESPUBLIKOS NOTARIATO
 
 PAKEITIMO IR PAPILDYMO
 
+4. Lietuvos
+
+Respublikos 1995 06 20
+
+įstatymas
+
+Nr.1-960;
+
+Žin., 1995, Nr.
+
+53-1304.
+
+DĖL LIETUVOS
+
+RESPUBLIKOS NOTARIATO
+
+ĮSTATYMO
+
+PAKEITIMO
+
 LIETUVOS RESPUBLIKOS
 
 NOTARIATO
@@ -159,9 +179,9 @@ asmenų ir valstybės teisėtų interesų apsaugą.
 
 Notaras
 
-Notaras yra
+Notaras yra  valstybės
 
-valstybės įgaliotas  asmuo,  atliekantis  šiame
+įgaliotas  asmuo,  atliekantis  šiame
 
 įstatyme numatytas
 
@@ -467,9 +487,9 @@ teisingumo
 
 ministerija.
 
-Lietuvos   Respublikos
+Lietuvos
 
-teisingumo   ministerija   tikrina
+Respublikos    teisingumo   ministerija   tikrina
 
 notarinių  veiksmų
 
@@ -481,7 +501,9 @@ suvienodinti, analizuoja notarinių veiksmų statistiką.
 
 8 straipsnis.
 
-Notarų rūmai ir jų statuto priėmimo tvarka
+Notarų rūmai ir jų statuto priėmimo
+
+tvarka
 
 Lietuvos
 
@@ -523,7 +545,9 @@ notarų kvalifikacijos kėlimu;
 
 atstovauti notarų interesus valstybinės valdžios
 
-ir valdymo institucijose;
+ir valdymo
+
+institucijose;
 
 4) rengti
 
@@ -581,9 +605,9 @@ fiziniams  ar juridiniams  asmenims  padarytą
 
 notarinius veiksmus;
 
-6) gali  reikalauti
+6) gali
 
-iš  notarų  informacijos  apie  atliktus
+reikalauti iš  notarų  informacijos  apie  atliktus
 
 notarinius veiksmus;
 
@@ -667,7 +691,7 @@ Lietuvos   Respublikos  Vyriausybės  nutarimais  bei
 
 potvarkiais,
 
-Lietuvos   Respublikos   teisingumo   ministerijos
+Lietuvos   Respublikos   teisingumo   ministerijos
 
 norminiais aktais ir
 
@@ -733,9 +757,9 @@ veiksmų paslaptį.
 
 Jei viena šalis yra mirusi, tai nuo paslapties
 
-saugojimo   gali   atleisti
+saugojimo   gali
 
-Lietuvos   Respublikos   teisingumo
+atleisti   Lietuvos   Respublikos   teisingumo
 
 ministerija.
 
@@ -755,9 +779,9 @@ notariato įstatymo
 
 testamentus;
 
-2) tvirtina
+2) tvirtina  kitokius
 
-kitokius sandorius  (sutartis,  įgaliojimus  ir
+sandorius  (sutartis,  įgaliojimus  ir
 
 kt.), išskyrus
 
@@ -797,27 +821,29 @@ Notaro raštvedybos kalba
 
 Notaro
 
-raštvedyba tvarkoma lietuvių kalba.
+raštvedyba  tvarkoma valstybine  kalba. Sandoriai  su
 
-Jeigu asmuo,
+užsienio valstybių
 
-kuris  kreipėsi  prašydamas  atlikti  notarinį
+fiziniais ir  juridiniais asmenimis  sudaromi
 
-veiksmą, nemoka
+valstybine ir kita
 
-valstybinės kalbos, įforminamų dokumentų tekstus
+abiems šalims priimtina kalba.
 
-turi išversti
+Pakeitimai:
 
-notaras arba vertėjas.
+1. Lietuvos
 
-Jeigu notaras
+Respublikos 1995 06 20
 
-moka  užsienio  kalbą,  piliečių  pageidavimu
+įstatymas
 
-notaro dokumentai
+Nr.1-960;
 
-gali būti surašyti ir užsienio kalba.
+Žin., 1995, Nr.
+
+53-1304.
 
 16 straipsnis.
 
@@ -835,9 +861,9 @@ bei kitų norminių aktų reikalavimus, atsako
 
 tvarka kaip valstybės pareigūnas.
 
-Lietuvos Respublikos
+Lietuvos
 
-teisingumo ministras  arba Notarų rūmų
+Respublikos  teisingumo ministras  arba Notarų rūmų
 
 prezidiumas gali
 
@@ -879,7 +905,9 @@ esančių investicinėse sąskaitose,
 
 perleidimo bei šeimos narių susi-
 
-tarimu dėl gyvenamojo namo (buto)
+tarimu
+
+dėl gyvenamojo namo (buto)
 
 pirkimo ir valstybinio turto pirminio
 
@@ -1009,11 +1037,7 @@ teisingumo   ministerija,  suderinusi   su  Lietuvos
 
 Respublikos
 
-finansų   ministerija  ir  su  Valstybine  kainų  ir
-
-konkurencijos
-
-tarnyba prie Lietuvos Respublikos Vyriausybės.
+finansų   ministerija.
 
 Atlyginimo
 
@@ -1023,15 +1047,15 @@ patvirtintame
 
 dokumente.
 
-Notaro
+Notaro gaunamos
 
-gaunamos  pajamos apmokestinamos  įstatymų  nustatyta
+pajamos apmokestinamos  įstatymų  nustatyta
 
 tvarka.
 
 Pakeitimas:
 
-Lietuvos
+1.Lietuvos
 
 Respublikos 1994 09 22
 
@@ -1042,6 +1066,18 @@ Nr.1-597;
 Žin.,
 
 1994, Nr. 78-1463.
+
+2.Lietuvos
+
+Respublikos 1995 06 20
+
+įstatymas
+
+Nr.1-960;
+
+Žin.,
+
+1995, Nr. 53-1304.
 
 20 straipsnis.
 
@@ -1097,9 +1133,9 @@ Jeigu notaras
 
 negali eiti  savo pareigų (atostogos, liga ar
 
-kitos
+kitos  priežastys),
 
-priežastys),   apie  tai   jis  turi   pranešti   Lietuvos
+apie  tai   jis  turi   pranešti   Lietuvos
 
 Respublikos
 
@@ -1179,9 +1215,9 @@ teismo  prie  Lietuvos  Respublikos  notarų  rūmų
 
 sprendimu;
 
-7) notarui sulaukus
+7) notarui
 
-65 metų;
+sulaukus 65 metų;
 
 8) neįvykdžius
 
@@ -1225,9 +1261,9 @@ teisingumo
 
 ministerija   priima  sprendimą  dėl  tolesnės  biuro
 
-veiklos,
+veiklos,  neatliktų
 
-neatliktų   notarinių  veiksmų   tęsimo  ir   dokumentų
+notarinių  veiksmų   tęsimo  ir   dokumentų
 
 perdavimo.
 
@@ -1327,7 +1363,7 @@ dokumentų pateikimo laiką;
 
 11) perduoda
 
-vienų juridinių  ir fizinių asmenų pareiškimus
+vienų juridinių  ir fizinių asmenų pareiškimus
 
 kitiems juridiniams
 
@@ -1385,9 +1421,9 @@ notarinius veiksmus:
 
 sandorius (sutartis, testamentus, įgaliojimus ir
 
-kt.), išskyrus
+kt.), išskyrus sutartis
 
-sutartis dėl nekilnojamojo turto, esančio Lietuvos
+dėl nekilnojamojo turto, esančio Lietuvos
 
 Respublikoje,
 
@@ -1603,9 +1639,9 @@ ir jų
 
 parašų tikrumo patikrinimas
 
-Atlikdamas
+Atlikdamas  notarinius
 
-notarinius  veiksmus,  notaras  nustato  fizinių
+veiksmus,  notaras  nustato  fizinių
 
 asmenų, jų atstovų
 
@@ -1619,9 +1655,9 @@ ir  patikrinamas
 
 juridinių  asmenų,  dalyvaujančių  sandoriuose,
 
-teisnumas.
+teisnumas.  Tvirtindamas
 
-Tvirtindamas   testamentą,   notaras   privalo   jame
+testamentą,   notaras   privalo   jame
 
 nurodyti, kad jis
 
@@ -1635,9 +1671,9 @@ Tvirtinant
 
 sandorius   ir  atliekant   kai  kuriuos   kitus
 
-notarinius veiksmus,
+notarinius
 
-Lietuvos Respublikos  įstatymų  nustatytais
+veiksmus,  Lietuvos Respublikos  įstatymų  nustatytais
 
 atvejais
 
@@ -1703,9 +1739,9 @@ Teisės atlikti notarinius veiksmus
 
 apribojimas
 
-Notaras neturi  teisės
+Notaras neturi
 
-atlikti notarinių veiksmų sau ir savo
+teisės atlikti notarinių veiksmų sau ir savo
 
 vardu, savo
 
@@ -1939,9 +1975,9 @@ Asmens, kuriam
 
 atsisakyta atlikti notarinį veiksmą, prašymu
 
-atsisakymo  priežastis
+atsisakymo
 
-išdėstoma  raštu   ir   išaiškinama   jo
+priežastis   išdėstoma  raštu   ir   išaiškinama   jo
 
 apskundimo tvarka.
 
@@ -1973,7 +2009,7 @@ asmuo,  kuris mano,  kad  atliktas  notarinis
 
 veiksmas  arba
 
-atsisakymas   atlikti   notarinį   veiksmą   yra
+atsisakymas   atlikti   notarinį   veiksmą   yra
 
 neteisingas, turi
 
@@ -1989,9 +2025,9 @@ atlikto notarinio
 
 veiksmo arba atsisakymo jį atlikti nagrinėjami
 
-teisės  aktų,
+teisės  aktų,   reguliuojančių
 
-reguliuojančių  Lietuvos  Respublikos  konsulinių
+Lietuvos  Respublikos  konsulinių
 
 įstaigų veiklą,
 
@@ -1999,9 +2035,9 @@ nustatyta tvarka.
 
 42 straipsnis.
 
-Skundai dėl notaro veiksmų, nesusijusių su
+Skundai dėl notaro veiksmų, nesusijusių
 
-notarinių veiksmų atlikimu
+su notarinių veiksmų atlikimu
 
 Skundus  dėl
 
@@ -2023,7 +2059,7 @@ taisyklės
 
 Notarinių
 
-veiksmų  atlikimo  metodines  taisykles  tvirtina
+veiksmų  atlikimo  metodines  taisykles  tvirtina
 
 Lietuvos Respublikos
 
@@ -2053,9 +2089,9 @@ ministerija.
 
 IV SKYRIUS
 
-SANDORIŲ
+SANDORIŲ TVIRTINIMO IR NUOSAVYBĖS LIUDIJIMŲ
 
-TVIRTINIMO IR NUOSAVYBĖS LIUDIJIMŲ IŠDAVIMO YPATUMAI
+IŠDAVIMO YPATUMAI
 
 45 straipsnis.
 
@@ -2071,15 +2107,15 @@ notarinė   sudarymo   forma.   Šalims   pageidaujant,
 
 tvirtinami ir  kiti
 
-sandoriai,  kurie pagal  įstatymus  neprivalo
+sandoriai,  kurie pagal  įstatymus  neprivalo
 
 būti notaro
 
 tvirtinami.
 
-Notaro   patvirtinti
+Notaro
 
-sandoriai,kuriuose   šalys    nurodė
+patvirtinti    sandoriai,kuriuose   šalys    nurodė
 
 neteisingą sandorio
 
@@ -2087,13 +2123,13 @@ kainą, yra negaliojantys.
 
 46 straipsnis.
 
-Sandorių dėl nekilnojamojo ir kitokio turto,
+Sandorių dėl nekilnojamojo ir kitokio
 
-kuriam būtina valstybinė registracija,
+turto, kuriam būtina valstybinė
 
-perleidimo arba įkeitimo sutarčių
+registracija, perleidimo arba įkeitimo
 
-tvirtinimas
+sutarčių tvirtinimas
 
 Tvirtindami
 
@@ -2105,7 +2141,7 @@ valstybinė  registracija,   perleidimo  arba
 
 įkeitimo,  notarai
 
-patikrina,  ar   turtas   priklauso   jį
+patikrina,  ar   turtas   priklauso   jį
 
 perleidžiančiam
 
@@ -2123,9 +2159,9 @@ nuosavybė.
 
 sandoriuose  nurodoma jų  registracijos atitinkamose
 
-institucijose
+institucijose  terminas
 
-terminas   ir  teisinės  sandorių  neįregistravimo
+ir  teisinės  sandorių  neįregistravimo
 
 pasekmės.
 
@@ -2225,15 +2261,15 @@ notaro biuro bylose.
 
 51 straipsnis.
 
-Liudijimų išdavimas pagal bendrą sutuoktinių
+Liudijimų išdavimas pagal bendrą
 
-pareiškimą
+sutuoktinių pareiškimą
 
 Notaras pagal
 
 bendrą rašytinį sutuoktinių pareiškimą vienam
 
-iš jų  arba abiems
+iš jų  arba abiems
 
 sutuoktiniams išduoda nuosavybės teisės į dalį
 
@@ -2265,7 +2301,7 @@ turtas,   kuris  yra  bendroji  jungtinė  sutuoktinių
 
 nuosavybė,
 
-įregistruotas  likusio gyvo  sutuoktinio  vardu,  šiam
+įregistruotas  likusio gyvo  sutuoktinio  vardu,  šiam
 
 sutinkant  gali
 
@@ -2293,9 +2329,9 @@ TARPTAUTINĖS SUTARTYS
 
 53 straipsnis.
 
-Notariniai veiksmai užsieniečiams, užsienio
+Notariniai veiksmai užsieniečiams,
 
-įmonėms ir organizacijoms
+užsienio įmonėms ir organizacijoms
 
 Užsieniečiai
 
@@ -2337,9 +2373,9 @@ Dokumentų, sudarytų užsienyje, priėmimas
 
 Lietuvos  Respublikos notarų biuruose
 
-Dokumentus,
+Dokumentus, sudarytus
 
-sudarytus užsienyje dalyvaujant užsienio
+užsienyje dalyvaujant užsienio
 
 valstybės valdžiai,
 
@@ -2355,7 +2391,7 @@ Nelegalizuotus
 
 dokumentus   Lietuvos  Respublikos   notarai
 
-priima,  jei   tai
+priima,  jei   tai
 
 nustatyta   Lietuvos  Respublikos   įstatymų,
 
@@ -2404,972 +2440,4 @@ Vilnius, 1992 m.
 rugsėjo 15 d.
 
 Nr.I-2882_
-
-71 straipsnis. Notarų veiklą
-
-prižiūrinčių institucijų teisės
-
-Tikrindami notarinių veiksmų atlikimo
-
-teisėtumą, 7 straipsnio antrojoje dalyje įvardyti asmenys turi teisę revizuoti
-
-atliktus notarinius veiksmus, tikrinti notaro turimus notarinius dokumentus,
-
-registrus. Šie asmenys turi teisę reikalauti iš notaro pasiaiškinti dėl
-
-pažeidimų ir trūkumų, susijusių su notarų profesine veikla, bei juos pašalinti.
-
-Lietuvos Respublikos teisingumo ministras bei
-
-Notarų rūmų prezidiumas turi teisę iškelti notarui drausmės bylą.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-8
-
-straipsnis. Notarų rūmai ir jų statuto priėmimo tvarka
-
-Lietuvos
-
-Respublikos notarai vienijasi į Notarų rūmus, kurie yra Lietuvos Respublikos
-
-sostinėje Vilniuje.
-
-[8 straipsnio 2 dalies redakcija nuo  1998 m. liepos 1 d.]
-
-Kiekvienas notaras yra Notarų rūmų narys.
-
-Notarų rūmai yra juridinis asmuo.
-
-Notarų
-
-rūmų statutą priima Notarų rūmų susirinkimas ir tvirtina Lietuvos Respublikos
-
-teisingumo ministras.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-9
-
-straipsnis. Notarų rūmų uždaviniai
-
-Svarbiausieji
-
-Notarų rūmų uždaviniai yra:
-
-1)
-
-koordinuoti notarų veiklą;
-
-2)
-
-rūpintis notarų kvalifikacijos kėlimu;
-
-3)
-
-ginti ir atstovauti notarų interesus valstybinės valdžios ir valdymo
-
-institucijose;
-
-4)
-
-rengti norminių aktų projektus notariato klausimais ir teikti juos Lietuvos
-
-Respublikos teisingumo ministerijai;
-
-5)
-
-įgyvendinti  kitus Notarų  rūmų  statute  numatytus uždavinius.
-
-10
-
-straipsnis. Notarų rūmų funkcijos
-
-Notarų
-
-rūmai, vykdydami savo uždavinius:
-
-1)
-
-kontroliuoja,  kad notarai  sąžiningai atliktų savo pareigas;
-
-2)
-
-organizuoja kursus ir seminarus notarų kvalifikacijai kelti;
-
-3)
-
-teikia pasiūlymus aukštesnėms instancijoms notarų veiklos klausimais;
-
-4)
-
-skiria lėšų notarų kvalifikacijos kėlimo reikmėms;
-
-5)
-
-nustatyta tvarka sudaro notarų draudimo sutartis dėl galimo ieškinio už
-
-fiziniams ar juridiniams asmenims padarytą žalą atliekant notarinius veiksmus;
-
-6)
-
-gali reikalauti iš notarų informacijos apie atliktus notarinius veiksmus;
-
-7)
-
-atlieka kitas Notarų rūmų statute numatytas funkcijas.
-
-Notarų
-
-rūmų funkcijoms atlikti iš notarų imamas mokestis, kurio dydį nustato Notarų
-
-rūmų susirinkimas.
-
-[10-1
-
-straipsnio redakcija nuo 1998 m. liepos 1 d.]
-
-101 straipsnis. Notarų garbės
-
-teismas
-
-Notarų garbės teismas, vadovaudamasis Notarų
-
-garbės teismo nuostatais, kuriuos tvirtina Lietuvos Respublikos teisingumo
-
-ministras, nagrinėja notarų profesinės etikos ir tarnybinių nusižengimų bylas.
-
-Notarų garbės teismą sudaro 5 notarai, iš
-
-kurių du renkami Notarų rūmų susirinkime, du skiria Lietuvos Respublikos
-
-teisingumo ministras, vieną - Lietuvos Aukščiausiojo Teismo pirmininkas.
-
-Notarų garbės teismo įgaliojimai trunka
-
-trejus metus.
-
-Notarų garbės teismas gali veikti, jeigu į jį
-
-yra išrinkta ar paskirta daugiau kaip pusė narių.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-[10-2 straipsnio redakcija nuo 1998 m. liepos 1 d.]
-
-102 straipsnis. Nuobaudos skyrimas
-
-notarui
-
-Notarų garbės teismas, išnagrinėjęs notaro
-
-drausmės bylą, gali:
-
-1) jį išteisinti;
-
-2) pasitenkinti drausmės bylos svarstymu;
-
-3) nutraukti drausmės bylą, jei praleistas
-
-šios bylos iškėlimo terminas;
-
-4) įpareigoti viešai atsiprašyti
-
-nukentėjusįjį arba notaro biuro kolektyvą;
-
-5) pareikšti jam pastabą;
-
-6) pareikšti jam papeikimą;
-
-7) pareikšti jam griežtą papeikimą;
-
-8) uždrausti profesinę veiklą iki trijų mėnesių;
-
-9) pasiūlyti Lietuvos Respublikos teisingumo
-
-ministrui atleisti jį iš pareigų.
-
-Notarų garbės teismo sprendimas per 14 dienų
-
-nuo įteikimo notarui gali būti skundžiamas apygardos teismui.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-[11
-
-straipsnio redakcija iki 1998 m. liepos 1 d.]
-
-11
-
-straipsnis. Notarų rūmų ir Lietuvos Respublikos teisingumo
-
-ministerijos santykiai
-
-Notarų
-
-rūmai,  vykdydami savo uždavinius ir funkcijas, bendradarbiauja su Lietuvos
-
-Respublikos teisingumo ministerija, kasmet pateikia jai savo veiklos ataskaitą.
-
-Lietuvos
-
-Respublikos teisingumo ministerija svarbiausiais notarų veiklos klausimais
-
-išklauso Notarų rūmų nuomonę, gali panaikinti Notarų rūmų nutarimus ar
-
-sprendimus, neatitinkančius Lietuvos Respublikos įstatymų.
-
-[11 straipsnio redakcija nuo 1998 m. liepos 1 d.]
-
-201 straipsnis. Reklamos draudimas
-
-Notarui draudžiama tiesiogiai ar netiesiogiai
-
-reklamuoti savo profesinę veiklą.
-
-Šio straipsnio pirmojoje dalyje nurodytas
-
-draudimas netaikomas, kai duomenys apie notarą, jo biurą nurodomi
-
-informaciniuose biuleteniuose (telefonų knygose, įmonių kataloguose),
-
-oficialiuose blankuose ir vizitinėse kortelėse.
-
-Lietuvos Respublikos teisingumo ministras
-
-nustato vienodą visiems notarų biurams iškabų formą.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-21
-
-straipsnis. Notaro biuro darbo organizavimas
-
-Notaras
-
-dirba  savarankiškai  ir  yra  ekonomiškai nepriklausomas.
-
-Notaras
-
-savo nuožiūra priima į darbą jam reikalingus biuro darbuotojus, moka jiems
-
-atlyginimą.
-
-Notaras
-
-įsigyja  biuro patalpas ar jas nuomoja, perka reikiamą inventorių ir kitus
-
-reikmenis.
-
-[22 straipsnio redakcija iki 1998 m. liepos 1 d.]
-
-22
-
-straipsnis. Notaro atstovavimas ir pavadavimas
-
-Jeigu
-
-notaras negali eiti savo pareigų (atostogos, liga ar kitos priežastys),  apie
-
-tai  jis turi  pranešti  Lietuvos Respublikos teisingumo ministerijai, kuri paskiria
-
-notaro atstovą arba paveda pavaduoti kitam notarui.
-
-Notaro
-
-atstovu gali būti paskirtas tik toks asmuo, kuris yra išlaikęs notaro
-
-kvalifikacinį egzaminą.
-
-Notaro
-
-atstovui atstovaujamasis notaras pagal susitarimą moka atlyginimą.
-
-[22 straipsnio redakcija nuo 1998 m. liepos 1 d.]
-
-56 straipsnis. Kandidatai į notarus
-
-(asesoriai)
-
-Kandidatas į notarus (asesorius) yra asmuo,
-
-kuris šio įstatymo 57 straipsnio nustatyta tvarka yra įrašytas į kandidatų į
-
-notarus (asesorių) sąrašą, sudarė šiame įstatyme numatytą kandidato į notarus
-
-(asesoriaus) sutartį ir rengiasi profesinei notaro veiklai.
-
-Kandidatais į notarus (asesoriais) gali būti
-
-Lietuvos Respublikos piliečiai, atitinkantys šio įstatymo 3 straipsnio
-
-antrosios dalies reikalavimus.
-
-57 straipsnis. Kandidatų į notarus (asesorių)
-
-priėmimo tvarka
-
-Lietuvos Respublikos teisingumo ministras kartu
-
-su Notarų rūmų prezidiumu kasmet nustato kandidatų į notarus (asesorių)
-
-skaičių.
-
-Asmenis į kandidatų į notarus (asesorių)
-
-sąrašą įrašo Lietuvos Respublikos teisingumo ministras Notarų rūmų prezidiumo
-
-teikimu. Notarų rūmų prezidiumas kandidatūras teikia remdamasis viešo konkurso
-
-rezultatais.
-
-58 straipsnis. Kandidato į notarus
-
-(asesoriaus) sutartis
-
-Asmuo, įrašytas į kandidatų į notarus
-
-(asesorių) sąrašą, sudaro sutartį su Notarų rūmų prezidiumu ir notaru, pas kurį
-
-kandidatas atlieka praktiką. Teorinį kandidatų į notarus (asesorių) mokymą
-
-organizuoja Lietuvos Respublikos teisingumo ministerija kartu su Notarų rūmais.
-
-59 straipsnis. Kandidato į notarus
-
-(asesoriaus) teisės ir pareigos
-
-Kandidatas į notarus (asesorius) susipažįsta
-
-su notariniais veiksmais dalyvaudamas rengiant šių veiksmų dokumentus, su
-
-organizacine notaro biuro veikla bei kitais klausimais pagal kandidatų į
-
-notarus (asesorių) rengimo programą, kurią tvirtina Notarų rūmų prezidiumas.
-
-Kandidatas į notarus (asesorius) neturi
-
-teisės savarankiškai atlikti notarinius veiksmus.
-
-Kandidatas į notarus (asesorius) privalo
-
-saugoti notaro paslaptį.
-
-Kandidatas į notarus (asesorius) privalo
-
-laikytis notaro biure nustatytos darbo tvarkos, nepriekaištingai vykdyti
-
-notaro, kuris vadovauja jo praktikai, pavedimus, elgtis taip, kad nepakenktų
-
-Lietuvos Respublikos notariato autoritetui.
-
-60 straipsnis. Kandidatų į notarus (asesorių)
-
-atsakomybė
-
-Kandidatai į notarus (asesoriai) už notarui,
-
-kuris vadovauja jų praktikai, padarytą žalą atsako pagal Lietuvos Respublikos
-
-civilinį kodeksą.
-
-Kandidatams į notarus (asesoriams),
-
-pažeidusiems jiems nustatytas taisykles, notaras, vadovaujantis praktikai, gali
-
-pareikšti pastabą bei pareikalauti nutraukti kandidato į notarus (asesoriaus)
-
-sutartį.
-
-61 straipsnis. Kandidatų į notarus (asesorių)
-
-socialinės garantijos
-
-Notarų rūmai kandidatams į notarus
-
-(asesoriams) moka minimalaus darbo užmokesčio dydžio stipendiją.
-
-Notarų rūmai kandidatus į notarus (asesorius)
-
-draudžia privalomuoju valstybiniu socialiniu draudimu Lietuvos Respublikos
-
-valstybinio socialinio draudimo įstatymo nustatyta tvarka.
-
-Kandidatams į notarus (asesoriams) kasmet
-
-suteikiamos 30 kalendorinių dienų atostogos. Už atostogų laiką mokama
-
-stipendija.
-
-62 straipsnis. Kandidatų į notarus (asesorių)
-
-veiklos apribojimai
-
-Kandidatui į notarus (asesoriui) neleidžiama
-
-dirbti jokio kito darbo arba verstis kokia nors kitokia mokama veikla (išskyrus
-
-mokslinį ar pedagoginį bei kūrybinį darbą). Kandidatas į notarus (asesorius)
-
-gali dirbti pagal darbo sutartį notaro biure, kuriame jis atlieka praktiką.
-
-63 straipsnis. Kandidato į notarus
-
-(asesoriaus) sutarties pasibaigimas
-
-Kandidato į notarus (asesoriaus) sutartis
-
-pasibaigia:
-
-1) suėjus sutarties terminui;
-
-2) kandidato į notarus (asesoriaus) prašymu;
-
-3) jei atsirado aplinkybių, kurios pagal šio
-
-įstatymo 23 straipsnį pašalina galimybę dirbti notaro darbą;
-
-4) jei kandidatas į notarus (asesorius)
-
-pakartotinai neišlaiko notaro kvalifikacinio egzamino;
-
-5) jei Notarų rūmų prezidiumo nutarimu
-
-patenkinamas šio įstatymo 60 straipsnio antrojoje dalyje nurodytas notaro
-
-reikalavimas.
-
-Kandidato į notarus (asesoriaus) sutartis
-
-nutraukiama Notarų rūmų prezidiumo nutarimu. Notarų rūmų prezidiumas savo
-
-nutarimą per 5 dienas pateikia Lietuvos Respublikos teisingumo ministrui, kuris
-
-asmenį išbraukia iš kandidatų į notarus (asesorių) sąrašo.
-
-64 straipsnis. Kandidatų į notarus (asesorių)
-
-nuostatai
-
-Kandidatų
-
-į notarus (asesorių) konkurso ir mokymosi sąlygas, kurios neaptartos šiame
-
-įstatyme, nustato Kandidatų į notarus (asesorių) nuostatai, kuriuos tvirtina
-
-Lietuvos Respublikos teisingumo ministras Notarų rūmų prezidiumo teikimu.
-
-LIETUVOS
-
-RESPUBLIKOS
-
-AUKŠČIAUSIOSIOS
-
-TARYBOS PIRMININKAS               VYTAUTAS LANDSBERGIS
-
-Vilnius,
-
-1992 m. rugsėjo 15 d.
-
-Nr.I-2882
-
-491 straipsnis. Vykdomųjų įrašų dėl
-
-priverstinio išieškojimo pagal hipotekos (įkeitimo) kreditoriaus prašymą
-
-atlikimo ir apskundimo tvarka
-
-Notaras, gavęs
-
-hipotekos (įkeitimo) kreditoriaus prašymą dėl vykdomojo įrašo atlikimo,
-
-patikrina, ar vykdomąjį įrašą dėl priverstinio išieškojimo pagal hipotekos
-
-(įkeitimo) kreditoriaus prašymą pateikia asmuo, kuris yra hipotekos (įkeitimo)
-
-kreditorius; ar hipotekos (įkeitimo) kreditoriaus prašyme dėl vykdomojo įrašo
-
-atlikimo nurodyti duomenys atitinka Hipotekos registre nurodytus duomenis; ar
-
-pasibaigęs hipoteka (įkeitimu) užtikrintos prievolės įvykdymo terminas, o tuo
-
-atveju, kai kreditorius reikalauja prieš terminą patenkinti hipoteka (įkeitimu)
-
-užtikrintą reikalavimą, ar kreditoriaus nurodyti pagrindai yra nustatyti
-
-įstatymuose. Patikrinęs šiuos duomenis, notaras, prieš atlikdamas vykdomąjį
-
-įrašą, išsiunčia skolininkui pranešimą, kuriame turi būti nurodyti hipotekos
-
-(įkeitimo) kreditoriaus pateikti duomenys ir siūlymas ne vėliau kaip per
-
-dvidešimt dienų nuo pranešimo skolininkui išsiuntimo dienos sumokėti
-
-kreditoriui skolą ir apie prievolės įvykdymą raštu pranešti notarui arba
-
-pateikti notarui duomenis dėl hipotekos (įkeitimo) kreditoriaus reikalavimo
-
-nepagrįstumo. Atsižvelgdamas į hipotekos (įkeitimo) kreditoriaus ir skolininko
-
-pateiktus duomenis, notaras atlieka vykdomąjį įrašą arba motyvuotai atsisako jį
-
-atlikti. Notaras turi teisę įstatymų numatytais atvejais panaikinti vykdomąjį
-
-įrašą.
-
-Notaras
-
-netikrina kitų, negu nurodyta šio straipsnio 1 dalyje, duomenų atitikties ir
-
-neatsako už juos.
-
-Notaro
-
-vykdomieji įrašai arba atsisakymas atlikti vykdomąjį įrašą dėl šio straipsnio 1
-
-dalyje numatytų duomenų atitikties skundžiami Civilinio proceso kodekso 511
-
-straipsnyje nustatyta tvarka. Kilus ginčui dėl priverstinio skolos išieškojimo
-
-kitais pagrindais, skolininkas, kreditorius ar įkaito davėjas turi teisę
-
-kreiptis į teismą ieškinio teisenos tvarka.
-
-Įstatymas
-
-papildytas straipsniu:
-
-Nr. XI-1848,
-
-2011-12-22, Žin., 2012, Nr. 6-184 (2012-01-10)
-
-191 straipsnis. Notarų atlyginimo už notarinių veiksmų atlikimą, sandorių projektų parengimą, konsultacijas ir technines paslaugas dydžių (įkainių) nustatymo kriterijai
-
-Notarų atlyginimo už notarinių veiksmų atlikimą, sandorių projektų parengimą, konsultacijas ir technines paslaugas dydžiai (įkainiai) nustatomi atsižvelgiant į šiuos kriterijus:
-
-1) tvirtinamo sandorio ar kito notarinio veiksmo vertę;
-
-2) atliekamo notarinio veiksmo ar teikiamos paslaugos pobūdį;
-
-3) notaro ekonominio nepriklausomumo užtikrinimą;
-
-4) notaro profesinės veiklos ir civilinės atsakomybės riziką;
-
-5) kryžminį subsidijavimą;
-
-6) sąnaudas.
-
-Įstatymas papildytas straipsniu:
-
-Nr. XI-1979, 2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
-
-202 straipsnis. Notarų teikiamos taikinamojo tarpininkavimo paslaugos
-
-Notarai teisės aktų nustatyta tvarka gali teikti taikinamojo tarpininkavimo paslaugas.
-
-Taikinamojo tarpininkavimo paslaugų teikimas neturi trukdyti notarui atlikti įstatymų nustatytas funkcijas. Notaras privalo teikti pirmenybę įstatymų nustatytų funkcijų atlikimui. Teikdamas taikinamojo tarpininkavimo paslaugas, notaras privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių jo objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas.
-
-Atlikdamas įstatymų nustatytas funkcijas ir teikdamas taikinamojo tarpininkavimo paslaugas, notaras turi atriboti savo funkcijų atlikimą nuo taikinamojo tarpininkavimo paslaugų teikimo. Notaras negali teikti taikinamojo tarpininkavimo paslaugų ginčuose, kylančiuose iš tų santykių, dėl kurių jis jau yra atlikęs įstatymų nustatytas funkcijas. Notaras taip pat negali atlikti įstatymų nustatytų funkcijų dėl tų santykių, iš kurių kilusiame ginče jis jau suteikė taikinamojo tarpininkavimo paslaugas.
-
-Papildyta straipsniu:
-
-Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
-
-103 straipsnis. Notarų garbės teismo sprendimai
-
-Notarų garbės teismas, išnagrinėjęs notaro drausmės bylą, sprendimu gali:
-
-1) nutraukti drausmės bylą, kai pažeidimo nenustato arba kai paaiškėja, kad praleistas šios bylos iškėlimo terminas;
-
-2) atleisti nuo drausminės atsakomybės dėl pažeidimo mažareikšmiškumo;
-
-3) paskirti drausminę nuobaudą;
-
-4) teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą iš pareigų.
-
-Notarų garbės teismas, priimdamas sprendimą, atsižvelgia į pažeidimo pobūdį, jo padarymo aplinkybes, pažeidimo padarinius ir kitas reikšmingas aplinkybes, taip pat į galiojančias notarui paskirtas drausmines nuobaudas.
-
-Paaiškėjus, kad pažeidimas turi nusikalstamos veikos požymių, su pažeidimu susijusi medžiaga perduodama atitinkamas bylas kompetentingoms tirti ir nagrinėti institucijoms, tačiau tai notaro drausmės bylos kėlimo ar nagrinėjimo procedūros nesustabdo.
-
-Notarų garbės teismo sprendimai, išskyrus sprendimą teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą iš pareigų, įsiteisėja jų priėmimo dieną.
-
-Notarų garbės teismo sprendimas teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą iš pareigų įsiteisėja pasibaigus jo apskundimo terminui, o šį sprendimą apskundus, – įsiteisėjus teismo sprendimui, kuriuo Notarų garbės teismo sprendimas paliktas galioti.
-
-Notarų garbės teismo sprendimas gali būti skundžiamas Vilniaus apygardos teismui per trisdešimt dienų nuo sprendimo priėmimo dienos. Notarų garbės teismo sprendimo apskundimas teismui nesustabdo sprendimo galiojimo, išskyrus atvejus, kai apskundžiamas Notarų garbės teismo sprendimas teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą iš pareigų.
-
-Įstatymas papildytas straipsniu:
-
-Nr. VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-Straipsnio pakeitimai:
-
-Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
-
-Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
-
-104 straipsnis. Drausminės nuobaudos ir jų galiojimo terminas
-
-Notarų garbės teismas gali skirti vieną iš šių drausminių nuobaudų:
-
-1) pareikšti pastabą;
-
-2) pareikšti papeikimą;
-
-3) sustabdyti notaro profesinę veiklą nuo vieno iki trijų mėnesių.
-
-Notarui papildomai gali būti skiriamas įpareigojimas atsiprašyti asmens Notarų garbės teismo nustatyta tvarka.
-
-Notarų garbės teismo paskirta drausminė nuobauda įsigalioja jos paskyrimo dieną ir galioja vienus metus.
-
-Notarų garbės teismas notaro prašymu gali panaikinti drausminę nuobaudą nesibaigus jos galiojimo terminui, bet ne anksčiau kaip po šešių mėnesių nuo drausminės nuobaudos paskyrimo. Sprendžiant dėl nuobaudos panaikinimo, atsižvelgiama į padaryto pažeidimo pobūdį, jo padarymo aplinkybes ir pažeidimo padarinius, kitas reikšmingas aplinkybes, taip pat į tai, ar notaras neturi daugiau galiojančių drausminių nuobaudų ir ar per drausminės nuobaudos galiojimo terminą notarui nebuvo paskirta nauja drausminė nuobauda.
-
-Papildyta straipsniu:
-
-Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
-
-203 straipsnis. Notarų teikiamos aukcionų organizavimo ir vykdymo paslaugos
-
-Notarai Civilinio kodekso, šio įstatymo, kitų teisės aktų nustatyta tvarka gali teikti aukcionų organizavimo ir vykdymo paslaugas, išskyrus turtą, kurio aukciono organizatoriumi ir vykdytoju pagal Lietuvos Respublikos teisės aktus notaras būti negali.
-
-Aukcionų organizavimo ir vykdymo paslaugų teikimas neturi trukdyti notarui atlikti notarinius veiksmus. Notaras privalo teikti pirmenybę notarinių veiksmų atlikimui.
-
-Aukcionai organizuojami ir vykdomi informacinių technologijų priemonėmis.
-
-Organizuojant ir vykdant aukcionus imamasi priemonių, kad būtų užtikrinama patikimas asmens tapatybės nustatymas, konfidencialumas, tvarkomos elektroninės informacijos sauga ir kibernetinis saugumas ir naudojamos tinkamos techninės ir organizacinės asmens duomenų tvarkymo priemonės. Šios priemonės užtikrinamos naudojantis bendra Notarų rūmų informacinių technologijų platforma.
-
-Aukciono dalyvio mokestis mokamas į notaro depozitinę sąskaitą.
-
-Aukcionų organizavimo ir vykdymo tvarka nustatyta Notarų organizuojamų ir vykdomų elektroninių aukcionų taisyklėse. Šiose taisyklėse nurodomos aukciono organizatoriaus teisės ir pareigos, aukciono objekto įsigijimo ir apmokėjimo tvarka, aukciono dalyvio mokesčio mokėjimo, jo grąžinimo sąlygos ir tvarka, aptariamos kitos organizuojant ir vykdant aukcioną reikšmingos aplinkybės. Notarų organizuojamų ir vykdomų elektroninių aukcionų taisykles tvirtina Lietuvos Respublikos teisingumo ministras Notarų rūmų prezidiumo teikimu.
-
-Papildyta straipsniu:
-
-Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
-
-281 straipsnis. Notarų nuotoliniu būdu atliekami notariniai veiksmai
-
-Notarai nuotoliniu būdu gali atlikti notarinius veiksmus, išskyrus testamentų tvirtinimą ir šio įstatymo 26 straipsnio 1 dalies 7 ir 8 punktuose nurodytus notarinius veiksmus.
-
-Notarai nuotoliniu būdu atlieka notarinius veiksmus vadovaudamiesi tomis pačiomis notarų veiklą reglamentuojančiomis nuostatomis, kaip ir juos atlikdami šio įstatymo 28 straipsnio 2 dalyje nustatyta tvarka.
-
-Asmeniui paprašius atlikti notarinį veiksmą nuotoliniu būdu, dėl notarinio veiksmo atlikimo būdo sprendžia notaras. Siekdamas užtikrinti asmens teisėtų interesų apsaugą ar notarinių veiksmų atlikimą reglamentuojančių nuostatų įgyvendinimą, notaras gali neatlikti notarinio veiksmo nuotoliniu būdu, nors ir turi galimybę užtikrinti šio straipsnio 4 ir 5 dalyse nurodytas sąlygas. Šiuo atveju notaras informuoja asmenį, kad jo prašomas notarinis veiksmas gali būti atliktas šio įstatymo 28 straipsnio 2 dalyje nustatyta tvarka. Atsisakymas atlikti notarinį veiksmą nuotoliniu būdu neskundžiamas.
-
-Notarai gali nuotoliniu būdu atlikti notarinius veiksmus, jeigu užtikrina, kad bus laikomasi teisės aktų, reglamentuojančių asmens tapatybės nustatymą, reikalavimų nustatant asmens tapatybę, gali nuotoliniu būdu išaiškinti notarinių veiksmų prasmę ir pasekmes ir įsitikinti asmens valia, kuri patvirtinama kvalifikuotu elektroniniu parašu.
-
-Notarai imasi priemonių, kad būtų užtikrinta notaro tvarkomos elektroninės informacijos sauga ir kibernetinis saugumas, naudojamos tinkamos techninės ir organizacinės asmens duomenų tvarkymo priemonės, sudarytos techninės galimybės tinkamai perduoti duomenis valstybės registrams ir informacinėms sistemoms. Šios priemonės užtikrinamos naudojantis bendra Notarų rūmų informacinių technologijų platforma.
-
-Papildyta straipsniu:
-
-Nr. XIV-204, 2021-03-23, paskelbta TAR 2021-03-31, i. k. 2021-06548
-
-282 straipsnis. Notarų mišriuoju būdu atliekami notariniai veiksmai
-
-Tais atvejais, kai vienas notarinio veiksmo dalyvis notarinį veiksmą atlieka šio įstatymo 28 straipsnio antrojoje dalyje nustatyta tvarka notaro biure, o kitas notarinio veiksmo dalyvis notarinį veiksmą atlieka šio įstatymo 281 straipsnyje nustatyta tvarka nuotoliniu būdu (toliau – mišrusis būdas), notaras privalo sudaryti sąlygas visiems notarinio veiksmo dalyviams netrukdomai bendrauti su notaru ir tarpusavyje ir sudaryti galimybes notarinio veiksmo dalyviams pasirašyti dokumentus per kuo trumpesnį laiką.
-
-Atliekant notarinius veiksmus mišriuoju būdu, notarinio veiksmo dalyvių fizinė buvimo vieta, notarinio veiksmo dalyvių, notaro dokumentų pasirašymo, tvirtinimo ir liudijimo vieta ir laikas, formatas ir laikmenos gali nesutapti.
-
-Tais atvejais, kai notarinis veiksmas atliekamas mišriuoju būdu, notaras kiekvieno sandorio dalyvio pasirašytus atskirus sandorio dokumentus saugo teisės aktų, reglamentuojančių dokumentų apskaitą, tvarkymą ir saugojimą, nustatyta tvarka, o sandorio šalims išduoda notaro patvirtintą sandorio dokumentą be notarinio veiksmo dalyvių parašų. Toks notaro patvirtintas sandorio dokumentas išduodamas elektroninės formos. Notaras taip pat gali išduoti notaro patvirtinto sandorio elektroninio dokumento popierinį nuorašą.
-
-Papildyta straipsniu:
-
-Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
-
-65 straipsnis. Notarų rūmai. Notarų rūmų statuto priėmimo tvarka
-
-Lietuvos Respublikos notarai vienijasi į Notarų rūmus. Notarų rūmai yra Lietuvos Respublikos sostinėje Vilniuje.
-
-Kiekvienas notaras yra Notarų rūmų narys.
-
-Notarų rūmai yra juridinis asmuo.
-
-Notarų rūmų statutą priima Notarų rūmų narių susirinkimas (toliau – Notarų rūmų susirinkimas) ir tvirtina Lietuvos Respublikos teisingumo ministras.
-
-66 straipsnis. Notarų rūmų uždaviniai
-
-Notarų rūmų uždaviniai yra:
-
-1) įgyvendinti notarų savivaldą ir atstovauti notarų interesams;
-
-2) koordinuoti ir prižiūrėti notarų veiklą;
-
-3) rūpintis notarų teisinės kultūros ir kvalifikacijos kėlimu;
-
-4) vienodinti notarinę praktiką;
-
-5) įgyvendinti kitus šiame įstatyme, Notarų rūmų statute ir kituose teisės aktuose nustatytus uždavinius.
-
-Šio straipsnio pirmosios dalies 2 punkte nurodytam uždaviniui įgyvendinti Notarų rūmai turi teisę gauti iš valstybės ir savivaldybių institucijų ir įstaigų, valstybės registrų ir informacinių sistemų informaciją, dokumentus ir duomenis (įskaitant asmens duomenis), taip pat gali reikalauti iš notarų informacijos apie atliktus notarinius veiksmus.
-
-67 straipsnis. Notarų rūmų funkcijos
-
-Notarų rūmai, įgyvendindami savo uždavinius, atlieka šias funkcijas:
-
-1) atstovauja notarų interesams ir juos gina Lietuvos Respublikos valstybinės valdžios ir valdymo, užsienio valstybių institucijose, tarptautinėse ir kitose organizacijose;
-
-2) bendradarbiauja su Lietuvos Respublikos, užsienio valstybių ir tarptautinėmis organizacijomis;
-
-3) rengia norminių teisės aktų, susijusių su notarų veikla, projektus ir teikia juos Lietuvos Respublikos teisingumo ministerijai, taip pat teikia valstybės institucijoms ir įstaigoms pasiūlymus dėl notarų veiklos teisinio reguliavimo tobulinimo;
-
-4) teikia Lietuvos Respublikos teisingumo ministerijai pasiūlymus dėl notarų ir kandidatų į notarus (asesorių) skaičiaus, notarų ir kandidatų į notarus (asesorių) skyrimo, atleidimo ir veiklos teritorijos;
-
-5) organizuoja notaro praktikos atlikimą;
-
-6) kontroliuoja, kaip notarai atlieka savo funkcijas, organizuoja notarų biurų darbą, laikosi profesinės etikos reikalavimų;
-
-7) organizuoja notarų, kandidatų į notarus (asesorių) kvalifikacijos kėlimą;
-
-8) vykdo notarų atestavimą;
-
-9) imasi notarinės praktikos vienodinimo priemonių;
-
-10) organizuoja ir kontroliuoja notaro profesinės veiklos metu rengiamų dokumentų valdymą, užtikrina jų saugojimą ir naudojimą pasibaigus notaro įgaliojimams;
-
-11) nustatyta tvarka draudžia notarus profesinės civilinės atsakomybės privalomuoju draudimu;
-
-12) įgyvendina bendros Notarų rūmų informacinių technologijų platformos savininko teises ir atlieka šios platformos savininko pareigas;
-
-13) išduoda notaro pažymėjimus;
-
-14) atlieka kitas šiame įstatyme, Notarų rūmų statute ir kituose teisės aktuose nustatytas funkcijas.
-
-Notarų rūmų funkcijoms atlikti iš notarų imamas mokestis, kurio dydį nustato Notarų rūmų susirinkimas.
-
-68 straipsnis. Notarų rūmų organai
-
-Pagrindiniai Notarų rūmų organai yra:
-
-1) Notarų rūmų susirinkimas;
-
-2) Notarų rūmų prezidiumas;
-
-3) Notarų rūmų prezidentas;
-
-4) Notarų garbės teismas;
-
-5) Notarų atestacijos komisija.
-
-Notarų rūmai gali turėti ir kitų organų, nurodytų Notarų rūmų statute.
-
-Notarų rūmų valdymo organai yra Notarų rūmų prezidiumas ir Notarų rūmų prezidentas.
-
-69 straipsnis. Notarų rūmų susirinkimas
-
-Notarų rūmų susirinkimas šaukiamas Notarų rūmų prezidiumo nutarimu ne rečiau kaip du kartus per metus. Neeilinis Notarų rūmų susirinkimas gali būti sušauktas bet kuriuo metu Notarų rūmų prezidiumo nutarimu arba kai to reikalauja ne mažiau kaip 1/5 visų Notarų rūmų narių.
-
-Notarų rūmų susirinkimas:
-
-1) priima Notarų rūmų statutą, jį keičia;
-
-2) nustato pagrindines Notarų rūmų veiklos perspektyvas ir kryptis;
-
-3) Notarų rūmų statute nustatyta tvarka skiria (renka) ir atšaukia Notarų rūmų organus;
-
-4) tvirtina ir keičia Lietuvos Respublikos notarų garbės (etikos) kodeksą;
-
-5) sprendžia kitus Notarų rūmų statute numatytus klausimus.
-
-Notarų rūmų susirinkimas laikomas teisėtu, jeigu jame dalyvauja daugiau kaip pusė visų Notarų rūmų narių.
-
-70 straipsnis. Notarų rūmų prezidiumas
-
-Notarų rūmų prezidiumas yra kolegialus Notarų rūmų valdymo organas. Notarų rūmų prezidiumą sudaro aštuoni nariai, kuriuos iš notarų ketveriems metams renka (skiria) Notarų rūmų susirinkimas.
-
-Notarų rūmų prezidiumo įgaliojimai ir darbo tvarka nustatyti šiame įstatyme, Notarų rūmų statute ir Notarų rūmų prezidiumo darbo reglamente.
-
-Notarų rūmų prezidiumo nariai tuo pačiu metu negali būti Notarų garbės teismo, Notarų atestacijos komisijos, o Notarų rūmų statute nustatytais atvejais – ir kitų Notarų rūmų organų nariais.
-
-Notarų rūmų prezidiumas, atlikdamas Notarų rūmams priskirtas funkcijas:
-
-1) užtikrina tinkamą Notarų rūmų funkcijų atlikimą;
-
-2) užtikrina Notarų rūmų susirinkimo nutarimų vykdymą;
-
-3) valdo, naudoja Notarų rūmų turtą ir disponuoja juo neviršydamas Notarų rūmų susirinkimo patvirtintos pajamų ir išlaidų sąmatos;
-
-4) tvirtina Notarų rūmų administracijos darbo reglamentą, struktūrą, darbuotojų skaičių, jų funkcijas ir atlyginimus;
-
-5) atlieka kitas Notarų rūmų statute ir Notarų rūmų prezidiumo darbo reglamente nustatytas funkcijas.
-
-Atlikdamas savo funkcijas, Notarų rūmų prezidiumas priima nutarimus.
-
-72 straipsnis. Notarų garbės teismas
-
-Notarų garbės teismo personalinę sudėtį tvirtina Lietuvos Respublikos teisingumo ministras.
-
-Notarų garbės teismas susideda iš septynių Notarų rūmų susirinkime išrinktų narių, iš kurių:
-
-1) penki nariai renkami iš notarų;
-
-2) du nariai renkami iš šešių Lietuvos Respublikos teisingumo ministro pasiūlytų visuomenės atstovų – kandidatų į Notarų garbės teismo narius.
-
-Notarų garbės teismo nariu renkamas notaras turi turėti ne mažesnį kaip dešimties metų notaro profesinės veiklos stažą ir neturėti galiojančių drausminių nuobaudų. Notarų garbės teismo nariu renkamas visuomenės atstovas turi turėti aukštąjį universitetinį išsilavinimą (bakalauro ir magistro kvalifikacinius laipsnius arba vienpakopį universitetinį išsilavinimą) ir atitikti šiame įstatyme nustatytus nepriekaištingos reputacijos reikalavimus. Veikdami kaip Notarų garbės teismo nariai, visuomenės atstovai turi tokias pačias teises ir pareigas kaip ir notarai. Notarų garbės teismo nariu asmuo gali būti renkamas ne daugiau kaip dviem kadencijoms iš eilės.
-
-Notarų garbės teismas iš narių notarų išsirenka Notarų garbės teismo pirmininką.
-
-Notarų garbės teismo įgaliojimai trunka ketverius metus.
-
-Notarų garbės teismas gali nagrinėti bylas, kai posėdyje dalyvauja ne mažiau kaip trys Notarų garbės teismo nariai – notarai ir bent vienas narys – visuomenės atstovas. Notarų garbės teismo sprendimai priimami paprasta posėdyje dalyvaujančių Notarų garbės teismo narių balsų dauguma. Tais atvejais, kai balsai pasiskirsto po lygiai, priimtu laikomas sprendimas, už kurį balsavo Notarų garbės teismo pirmininkas.
-
-Notarų garbės teismo nariai ir buvę nariai privalo laikyti paslaptyje su notaro profesine veikla ar asmens duomenimis susijusią informaciją, kurią sužinojo nagrinėdami drausmės bylas. Išrinktas Notarų garbės teismo narys ‒ visuomenės atstovas iki pirmo Notarų garbės teismo posėdžio turi pasirašyti konfidencialumo pasižadėjimą. Paaiškėjus, kad Notarų garbės teismo narys ‒ visuomenės atstovas nesilaikė konfidencialumo pasižadėjimo, Lietuvos Respublikos teisingumo ministras jį atšaukia iš Notarų garbės teismo narių kaip netekusį nepriekaištingos reputacijos ir šio įstatymo nustatyta tvarka pasiūlo tris naujas visuomenės atstovų kandidatūras.
-
-73 straipsnis. Notarų atestacijos komisija
-
-Notarų atestacijos komisija sudaroma Notarų rūmų prezidiumo nutarimu ketveriems metams iš penkių notarų. Notarų atestacijos komisijos nariais notarai gali būti ne ilgiau kaip dvi kadencijas paeiliui. Į Notarų atestacijos komisiją gali būti skiriami notarai, kurie notaro profesinę veiklą vykdė ne mažiau kaip penkerius metus ir neturi galiojančių drausminių nuobaudų. Notarų atestacijos komisijos pirmininką ir pirmininko pavaduotoją skiria Notarų rūmų prezidiumas. Notarų atestacijos komisijos nariu negali būti Notarų rūmų prezidiumo narys, Notarų garbės teismo narys. Notarų atestacijos komisijos posėdis laikomas teisėtu, kai jame dalyvauja ne mažiau kaip pusė komisijos narių, tarp jų Notarų atestacijos komisijos pirmininkas arba pirmininko pavaduotojas.
-
-Papildyta skyriumi:
-
-Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
-
-LIETUVOS RESPUBLIKOS
-
-AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                    VYTAUTAS LANDSBERGIS
-
-Vilnius, 1992 m. rugsėjo 15 d.
-
-Nr. I-2882
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
-
-DĖL LIETUVOS RESPUBLIKOS NOTARIATO ĮSTATYMO PAKEITIMO IR PAPILDYMO
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-960, 95.06.20, Žin., 1995, Nr. 53-1304 (95.06.28)
-
-DĖL LIETUVOS RESPUBLIKOS NOTARIATO ĮSTATYMO PAKEITIMO
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. I-1470, 96.07.11, Žin., 1996, Nr. 68-1645 (96.07.19)
-
-LIETUVOS RESPUBLIKOS NOTARIATO ĮSTATYMO 14 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-302, 97.06.26, Žin., 1997, Nr.65-1533 (97.07.09)
-
-LIETUVOS RESPUBLIKOS NOTARIATO ĮSTATYMO 14 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-LIETUVOS RESPUBLIKOS NOTARIATO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1045, 99.02.09, Žin., 1999, Nr.19-509 (99.02.24)
-
-LIETUVOS RESPUBLIKOS NOTARIATO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR NOTARIATO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO ĮSTATYMO 2 STRAIPSNIO IR 3 STRAIPSNIO 2 PUNKTO PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1097, 99.03.23, Žin., 1999, Nr.32-903 (99.04.09)
-
-LIETUVOS RESPUBLIKOS NOTARIATO ĮSTATYMO 26 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1108, 99.03.25, Žin., 1999, Nr.32-905 (99.04.09)
-
-LIETUVOS RESPUBLIKOS NOTARIATO ĮSTATYMO 46 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1225, 99.06.15, Žin., 1999, Nr.57-1831 (99.06.30)
-
-LIETUVOS RESPUBLIKOS NOTARIATO ĮSTATYMO 3 IR 23 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-371, 2001-06-12, Žin., 2001, Nr. 55-1943 (2001-06-27)
-
-NOTARIATO ĮSTATYMO 20, 26, 27, 31, 45, 46, 47, 48, 51 STRAIPSNIŲ IR IV SKYRIAUS PAVADINIMO PAKEITIMO ĮSTATYMAS
-
-Šis įstatymas, išskyrus Notariato įstatymo 26 straipsnio 1 dalies 15 ir 16 punktus, įsigalioja nuo Lietuvos Respublikos civilinio kodekso įsigaliojimo, t.y. nuo 2001 m. liepos 1 d.
-
-Notariato įstatymo 26 straipsnio 1 dalies 15 ir 16 punktai įsigalioja nuo Lietuvos Respublikos civilinio kodekso 2.64 straipsnio įsigaliojimo.
-
-11.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-778, 2002-03-12, Žin., 2002, Nr. 31-1126 (2002-03-27)
-
-NOTARIATO ĮSTATYMO 7 IR 7(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-12.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1311, 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
-
-NOTARIATO ĮSTATYMO 2, 3, 6, 7, 9, 10, 11, 13, 16, 17, 20, 22, 23, 25, 27, 28, 31, 32, 36, 37, 40, 41, 43, 44, 51, 53, 56, 57, 59, 60 STRAIPSNIŲ IR II SKYRIAUS PAVADINIMO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 6(1), 6(2), 15(1), 22(1), 27(1) STRAIPSNIAIS IR 58, 63, 64 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
-
-521 straipsnis. Paveldėjimo teisės liudijimo išdavimas pagal Europos paveldėjimo pažymėjimą
-
-Kai kitoje valstybėje išduotame Europos paveldėjimo pažymėjime nenurodyti turto identifikavimo duomenys, būtini įpėdinio turtinei teisei į Lietuvos Respublikoje esantį turtą įregistruoti valstybės registruose, notaras gali išduoti paveldėjimo teisės liudijimą ir (ar) nuosavybės teisės į dalį bendro sutuoktinių turto liudijimą, jei sutuoktinių turto teisiniam režimui taikoma Lietuvos teisė.
-
-Šiame straipsnyje nurodytu atveju išduotas paveldėjimo teisės liudijimas ir (ar) nuosavybės teisės į dalį bendro sutuoktinių turto liudijimas gali būti naudojami tik kartu su Europos paveldėjimo pažymėjimu.
-
-Paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės į dalį bendro sutuoktinių turto liudijimo išdavimas šiame straipsnyje nurodytu atveju nereiškia 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 650/2012 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų paveldėjimo klausimais pripažinimo ir vykdymo bei autentiškų dokumentų paveldėjimo klausimais priėmimo ir vykdymo bei dėl Europos paveldėjimo pažymėjimo sukūrimo 71 straipsnyje nurodyto Europos paveldėjimo pažymėjimo ištaisymo, pakeitimo ar panaikinimo.
-
-Šiame straipsnyje nurodytas Europos paveldėjimo pažymėjimas suprantamas taip, kaip apibrėžiamas Reglamente Nr. 650/2012.
-
-Papildyta straipsniu:
-
-Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
 
