@@ -4,7 +4,7 @@ identifier: "TAR.A14C258694ED"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2004-05-14"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A14C258694ED"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas
 
-Suvestinė redakcija nuo 2004-05-14 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2005-06-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 1-4, i. k. 0941010ISTA000I-732
 
@@ -53,7 +53,11 @@ Mokslininkų valstybinė pensija skiriama ir mokama šio įstatymo 1 straipsnyje
 
 2) turi ne mažesnį kaip 10 metų daktaro ar habilituoto daktaro darbo stažą.
 
-Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba jei jie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar bedarbio pašalpas. Apie draudžiamųjų pajamų turėjimą mokslininkų valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos dydis išieškomas iš pensijos gavėjo, neapribojant kokiu nors terminu, Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
+Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi  pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba jei jie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) pašalpas ar nedarbo socialinio draudimo išmokas. Apie draudžiamųjų pajamų turėjimą mokslininkų valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos dydis išieškomas iš pensijos gavėjo, neapribojant kokiu nors terminu, Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
 
 Mokslininkų valstybinė pensija neskiriama, o paskirtosios skyrimas ir mokėjimas panaikinamas asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo padarymą.
 
@@ -91,7 +95,11 @@ Valstybinių mokslo ir studijų institucijų, kuriose mokslininko darbas įskait
 
 Lietuvos Respublikos pilietybę turinčių politinių kalinių ir tremtinių, kuriems atkurtos visos pilietinės teisės, mokslinio darbo stažą buvusios Sovietų Sąjungos sąjunginio ir respublikinio pavaldumo valstybinėse mokslo ir studijų institucijose, taip pat kitų mokslininkų mokslinio darbo stažą, kai jie dirbo mokslinį darbą vykdydami iš valstybės biudžeto finansuojamas mokslo programas, nustato ir išduoda mokslinio darbo stažą patvirtinančius dokumentus pensijai skirti Lietuvos Respublikos mokslinio darbo stažo nustatymo komisija prie Švietimo ir mokslo ministerijos. Į šią komisiją įeina švietimo ir mokslo ministras, kuris yra komisijos pirmininkas, švietimo ir mokslo viceministras, vienas Socialinės apsaugos ir darbo ministerijos įgaliotas atstovas, po du Lietuvos mokslo tarybos ir Mokslininkų sąjungos atstovus. Komisija sudaroma švietimo ir mokslo ministro įsakymu ir vadovaujasi švietimo ir mokslo ministro patvirtintais Mokslinio darbo stažo nustatymo nuostatais, suderintais su Lietuvos mokslo taryba.
 
-Mokslininkų valstybinių pensijų skyrimo, mokėjimo ir pristatymo išlaidos valstybinio socialinio draudimo fondui apmokamos iš valstybės biudžeto.
+Mokslininkų valstybinių pensijų skyrimo, mokėjimo ir pristatymo išlaidos valstybiniam socialinio draudimo fondui apmokamos iš valstybės biudžeto.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
 
 Straipsnio pakeitimai:
 
@@ -142,4 +150,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2217, 2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14), i. k. 1041010ISTA0IX-2217
 
 Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo, Valstybinių šalpos išmokų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Valstybės paramos būstui įsigyti ar išsinuomoti įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
+
+Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Teisėjų valstybinių pensijų įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas
 
