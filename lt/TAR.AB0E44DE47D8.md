@@ -4,7 +4,7 @@ identifier: "TAR.AB0E44DE47D8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-01"
-last_updated: "2003-04-29"
+last_updated: "2003-05-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8"
 department: "Lietuvos Respublikos Seimas"
@@ -753,21 +753,21 @@ IX-1121,
 
 atlyginimo tvarka
 
-1. Dėl žalos atlyginimo nukentėjusieji kreipiasi
+1. Dėl žalos atlyginimo nukentėjusieji
 
-į įmonę, įstaigą, organizaciją ar ūkininką su pareiškimu pridėdami turimus
+kreipiasi į įmonę, įstaigą, organizaciją ar ūkininką su pareiškimu pridėdami
 
-dokumentus, būtinus žalos atlyginimui apskaičiuoti. Jeigu nukentėjusysis visų
+turimus dokumentus, būtinus žalos atlyginimui apskaičiuoti. Jeigu
 
-reikiamų dokumentų neturi, juos išreikalauja įmonė, įstaiga, organizacija ar
+nukentėjusysis visų reikiamų dokumentų neturi, juos išreikalauja įmonė,
 
-ūkininkas. Pareiškimas dėl žalos atlyginimo turi būti išnagrinėtas ne vėliau
+įstaiga, organizacija ar ūkininkas. Pareiškimas dėl žalos atlyginimo turi būti
 
-kaip per 10 kalendorinių dienų nuo gavimo dienos ir ne vėliau kaip per 5
+išnagrinėtas ne vėliau kaip per 10 kalendorinių dienų nuo gavimo dienos ir ne
 
-kalendorines dienas nuo jo išnagrinėjimo apie rezultatus turi būti pranešta
+vėliau kaip per 5 kalendorines dienas nuo jo išnagrinėjimo apie rezultatus turi
 
-nukentėjusiajam.
+būti pranešta nukentėjusiajam.
 
 2. Nukentėjusieji, kuriems iki šio
 
