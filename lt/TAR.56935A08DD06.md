@@ -4,7 +4,7 @@ identifier: "TAR.56935A08DD06"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-13"
-last_updated: "1997-11-28"
+last_updated: "2002-07-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.56935A08DD06"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
+
+Suvestinė redakcija nuo 2002-07-19 iki 2005-03-04
+
+Įstatymas paskelbtas: Žin. 1997, Nr. 108-2731, i. k. 0971010ISTAVIII-512
 
 LIETUVOS RESPUBLIKOS JŪROS APLINKOS APSAUGOS ĮSTATYMAS
 
@@ -346,13 +350,21 @@ JŪROS RAJONO PAKRANTĖS APSAUGA
 
 Jūros rajono pakrantės vertingiems arba būdingiems kompleksams bei rūšims, paukščių migracijos, žiemojimo, rinkimosi, žuvų neršto vietoms išsaugoti Saugomų teritorijų įstatymo nustatyta tvarka gali būti steigiamos saugomos teritorijos.
 
-53 straipsnis. Apsaugos juostų ir zonų nustatymas
+53 straipsnis. Pajūrio juostos ir jūros kranto zonos nustatymas
 
-Kad būtų išsaugota jūros rajono pakrantės aplinka, nustatoma apsaugos juosta ir zona. Apsaugos zona gali būti nustatoma ir pakrantės vandens akvatorijai.
+Kad būtų išsaugota jūros rajono pakrantės aplinka, nustatomos dvi skirtingo apsaugos režimo teritorijos – pajūrio juosta ir jūros kranto zona. Jūros kranto zona gali būti nustatoma ir pakrantės akvatorijoje.
 
-54 straipsnis. Apsaugos juostų ir zonų naudojimo režimas
+Straipsnio pakeitimai:
 
-Jūros rajono pakrantės apsaugos juostos ir zonos naudojimo ir apsaugos režimą nustato įstatymas „Dėl statybų Lietuvos Respublikos pajūrio juostoje ir Kuršių nerijoje“, kiti teisės aktai, pirmiausia atsižvelgiant į pakrantės gamtines ir rekreacines vertybes.
+Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
+
+54 straipsnis. Pajūrio juostos naudojimo režimas
+
+Jūros rajono pajūrio juostos naudojimo bei apsaugos režimą nustato Pajūrio juostos įstatymas, kiti teisės aktai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
 
 55 straipsnis. Įrenginių apsaugos juostos ir zonos
 
@@ -360,11 +372,19 @@ Gali būti formuojamos įrenginių, esančių jūros rajone ar jos pakrantėje, 
 
 56 straipsnis. Jūros kranto zonos tvarkymo reglamentavimas
 
-Jūros kranto zonos (paplūdimio, kopagūbrio, kranto, povandeninio šlaito) tvarkymą reglamentuoja Krantų apsaugos ir naudojimo nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+Jūros kranto zonos tvarkymą reglamentuoja Krantų apsaugos ir naudojimo nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
 
-57 straipsnis. Pakrantės juostų ir zonų žymėjimas
+Straipsnio pakeitimai:
 
-Jūros rajono pakrantės apsaugos juostų ir zonų ribos pažymimos bei jų naudojimo ir apsaugos, kranto tvarkymo priemonės nustatomos visų lygių ir visų rūšių teritorijų planavimo dokumentuose, patvirtintuose Teritorinio planavimo įstatymo nustatyta tvarka.
+Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
+
+57 straipsnis. Pajūrio juostos ir jūros kranto zonos žymėjimas
+
+Pajūrio juostos ir jūros kranto zonos ribos pažymimos bei jų naudojimo ir apsaugos, kranto tvarkymo priemonės nustatomos visų lygių ir visų rūšių teritorijų planavimo dokumentuose, patvirtintuose Teritorijų planavimo įstatymo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
 
 58 straipsnis. Kitos veiklos pakrantėje reglamentavimas
 
@@ -466,11 +486,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-151 straipsnis. Laivo teikiami pranešimai
+Pakeitimai:
 
-Prieš laivui atplaukiant į uostą, jo valdytojas, agentas ar kapitonas privalo pateikti išankstinį pranešimą apie laivo atliekas to uosto administracijai.
+1.
 
-Papildyta straipsniu:
+Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
+Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
+
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 53, 54, 56 ir 57 straipsnių pakeitimo įstatymas
 
