@@ -4,7 +4,7 @@ identifier: "TAR.E5509883EBB4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2002-12-10"
+last_updated: "2003-04-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 department: "Lietuvos Respublikos Seimas"
@@ -716,15 +716,27 @@ atliekamas operatyvinis tyrimas dėl neteisėto lošimo namų (kazino) laikymo a
 
 lošimų organizavimo arba priklausymo nusikalstamam susivienijimui, bei asmenys,
 
-kurie buvo teisti už sunkius tyčinius nusikaltimus ar nusikaltimus nuosavybei,
+turintys neišnykusį arba nepanaikintą teistumą už sunkius ir labai sunkius tyčinius
 
-ūkininkavimo tvarkai ar finansams.
+nusikaltimus ar nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams
+
+interesams, ekonomikai ir verslo tvarkai ar finansų sistemai.
 
 2.
 
 Už lošėjus aptarnaujančio personalo kompetenciją ir profesionalumą atsako
 
 lošimų organizatorius.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1418,
+
+2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24), įsigalioja nuo 2003-05-01
 
 12
 
@@ -878,9 +890,9 @@ straipsnio 6 dalyje nurodytai ūkinei komercinei veiklai.
 
 Straipsnio pakeitimai:
 
-Nr. IX-995,
+Nr. IX-995, 2002-06-27,
 
-2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
+Žin., 2002, Nr. 72-3010 (2002-07-17)
 
 15
 
@@ -910,9 +922,9 @@ vaizdo įrašymo sistema turi būti įrengta virš kiekvieno stalo). Lošimų
 
 organizatorius privalo įrašus saugoti 180 dienų ir juos pateikti tik Priežiūros
 
-komisijai, pretenzijas raštu pareiškusiems lošimo dalyviams ir kvotėjams,
+komisijai, pretenzijas raštu pareiškusiems lošimo dalyviams ir ikiteisminio
 
-tardytojams, prokurorams arba teismui įstatymų nustatyta tvarka;
+tyrimo pareigūnams, prokurorams arba teismui įstatymų nustatyta tvarka;
 
 3)
 
@@ -944,6 +956,12 @@ Nr. IX-995,
 
 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 
+Nr.
+
+IX-1418,
+
+2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24), įsigalioja nuo 2003-05-01
+
 16
 
 straipsnis. Reikalavimai lošimų įrenginiams
@@ -970,9 +988,9 @@ lošimo įrenginius, jeigu jie yra pagaminti atitinkamą licenciją (sertifikat�
 
 turinčio gamintojo ir jeigu jų tipai yra Vyriausybės įgaliotos priežiūrą
 
-atliekančios institucijos patvirtinti ir įrašyti į Lietuvos lošimo įrenginių registrą
+atliekančios institucijos patvirtinti ir įrašyti į Lietuvos lošimo įrenginių
 
-Vyriausybės nustatyta tvarka.]
+registrą Vyriausybės nustatyta tvarka.]
 
 2. A
 
@@ -1210,9 +1228,9 @@ Lošimų organizatorius dokumentus ir informaciją apie šio straipsnio 1 ir 2
 
 dalyse nurodytus asmenis privalo saugoti 10 metų ir privalo pateikti tik
 
-Priežiūros komisijai ir kvotėjams, tardytojams, prokurorams arba teismui
+Priežiūros komisijai ir ikiteisminio tyrimo pareigūnams, prokurorams arba
 
-įstatymų nustatyta tvarka.
+teismui įstatymų nustatyta tvarka.
 
 5.
 
@@ -1235,6 +1253,12 @@ pakeitimai:
 Nr. IX-412,
 
 2001-06-28, Žin., 2001, Nr. 56-1984 (2001-06-30), įsigalioja nuo 2001-07-01
+
+Nr.
+
+IX-1418,
+
+2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24), įsigalioja nuo 2003-05-01
 
 TREČIASIS
 
@@ -1386,11 +1410,11 @@ teritorinėms valstybinėms mokesčių inspekcijoms ir teritorinėms policijos
 
 įstaigoms, kurių teritorijoje bus organizuojami lošimai, bendrovės, kuriai
 
-išduota licencija (leidimas), pavadinimą, kodą, buveinės adresą, telefono ir fakso
+išduota licencija (leidimas), pavadinimą, kodą, buveinės adresą, telefono ir
 
-numerius, licencijos rūšį, numerį, leidimo numerį, lošimų organizavimo adresą,
+fakso numerius, licencijos rūšį, numerį, leidimo numerį, lošimų organizavimo
 
-organizuojamų lošimų rūšis, lošimo įrenginių skaičių.
+adresą, organizuojamų lošimų rūšis, lošimo įrenginių skaičių.
 
 9.
 
@@ -1544,15 +1568,15 @@ organizuojami lošimai, apie lošimo įrenginių skaičiaus pasikeitimą ir nuro
 
 bendrovės, kurios leidimas papildytas arba pakeistas, pavadinimą, kodą,
 
-buveinės adresą, telefono ir fakso numerius, leidimo numerį, lošimų organizavimo
+buveinės adresą, telefono ir fakso numerius, leidimo numerį, lošimų
 
-adresą, organizuojamų lošimų rūšis, lošimo įrenginių skaičių.
+organizavimo adresą, organizuojamų lošimų rūšis, lošimo įrenginių skaičių.
 
 Straipsnio pakeitimai:
 
-Nr. IX-1193,
+Nr. IX-1193, 2002-11-12,
 
-2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
+Žin., 2002, Nr. 116-5191 (2002-12-06)
 
 24 straipsnis. Leidimo atidaryti automatų ar
 
@@ -1644,17 +1668,19 @@ straipsnis. Priežiūros komisija
 
 1. Lošimus organizuojančių subjektų veiklą prižiūri ir
 
-kontroliuoja Priežiūros komisija. Priežiūros komisiją sudaro 6 asmenys, iš kurių
+kontroliuoja Priežiūros komisija. Priežiūros komisiją sudaro 6 asmenys, iš
 
-po 2 asmenis skiria Respublikos Prezidentas, Seimo Primininkas ir Ministras
+kurių po 2 asmenis skiria Respublikos Prezidentas, Seimo Primininkas ir
 
-Pirmininkas. Priežiūros komisijos pirmininką išsirenka komisijos nariai iš savo
+Ministras Pirmininkas. Priežiūros komisijos pirmininką išsirenka komisijos
 
-tarpo. Priežiūros komisijos funkcijoms atlikti sudaroma etatinių darbuotojų
+nariai iš savo tarpo. Priežiūros komisijos funkcijoms atlikti sudaroma etatinių
 
-administracija. Jos struktūrą ir etatus, neviršijant Vyriausybės nustatyto
+darbuotojų administracija. Jos struktūrą ir etatus, neviršijant Vyriausybės
 
-metinio darbo apmokėjimo fondo, tvirtina Priežiūros komisijos pirmininkas.
+nustatyto metinio darbo apmokėjimo fondo, tvirtina Priežiūros komisijos
+
+pirmininkas.
 
 2.
 
@@ -1700,9 +1726,9 @@ išduoda licencijas organizuoti lošimus ir panaikina jų galiojimą;
 
 4)
 
-išduoda leidimus atidaryti lošimo automatų ar bingo salonus arba lošimo namus (kazino),
+išduoda leidimus atidaryti lošimo automatų ar bingo salonus arba lošimo namus
 
-šiuos leidimus papildo, pakeičia ir panaikina jų galiojimą;
+(kazino), šiuos leidimus papildo, pakeičia ir panaikina jų galiojimą;
 
 5)
 
@@ -1966,7 +1992,7 @@ AZARTINIŲ LOŠIMŲ ĮSTATYMO 2, 28
 
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-Šio Įstatymo
+Šio
 
 28 straipsnis. Priežiūros
 
@@ -2238,17 +2264,35 @@ Aušrinė Trapinskienė (2002-12-06)
 
 autrap@lrs.lt
 
-1 straipsnis įsigalioja nuo 2003 m. sausio 1 d.
+Įstatymo 1 straipsnis įsigalioja nuo 2003 m. sausio 1 d.
 
 Šio
 
 Įstatymo 2 straipsnis įsigalioja nuo 2003 m. kovo 1 d.
 
-*** Pabaiga ***
+5.
 
-Redagavo: Aušrinė Trapinskienė
+Lietuvos
 
-(2003-01-14)
+Respublikos Seimas, Įstatymas
 
-autrap@lrs.lt
+Nr.
+
+IX-1418,
+
+2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24), įsigalioja nuo 2003-05-01
+
+AZARTINIŲ
+
+LOŠIMŲ ĮSTATYMO 11, 15 IR 20 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušra Bodin (2003-04-25)
+
+aubodi@lrs.lt
 
