@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "1993-10-13"
+last_updated: "1993-11-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1993-10-13 iki 1993-11-18
+Suvestinė redakcija nuo 1993-11-19 iki 1994-01-04
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -57,7 +57,11 @@ BENDROJI DALIS
 
 5) pirkti ir kitokiais būdais įsigyti turtą, jį parduoti, nuomoti, įkeisti ar kitaip disponuoti;
 
-6) sudaryti sutartis, skolinti ir skolintis pinigines lėšas ir kitą turtą;
+6) sudaryti sutartis, skolinti (tik nuosavo kapitalo lėšas) bei skolintis pinigines lėšas ir kitą turtą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
 
 7) nustatyti savo išteklių, produkcijos, teikiamų paslaugų kainas, įkainius ir tarifus, išskyrus tuos atvejus, kai kainas reguliuoja valstybė;
 
@@ -532,4 +536,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
 
 Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
+
+Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
 
