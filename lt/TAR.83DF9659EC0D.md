@@ -4,7 +4,7 @@ identifier: "TAR.83DF9659EC0D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-09"
-last_updated: "1998-04-21"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.83DF9659EC0D"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,93 +17,121 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Redagavo:
+Įstatymas skelbtas: Žin., 1992, Nr.
 
-Ramunė Lūžaitė (1998.09.02)
+13-342
 
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-708, 98.04.21, Žin., 1998, Nr.42-1140
-
-(98.05.06)
-
-LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO PAPILDYMO
-
-62(1), 71 STRAIPSNIAIS IR 8(1), 24, 25, 26, 35, 49, 54(1), 89 STRAIPSNIŲ
-
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-***
-
-Pabaiga ***
+Neoficialus įstatymo tekstas
 
 LIETUVOS RESPUBLIKOS
 
 ĮSTATYMAS
 
-DĖL ATSAKOMYBĖS UŽ LIETUVOS GYVENTOJŲ
+DĖL ATSAKOMYBĖS UŽ LIETUVOS
 
-GENOCIDĄ
+GYVENTOJŲ GENOCIDĄ
 
-Lietuvos Respublikos Aukščiausioji Taryba,
+Lietuvos Respublikos
 
-prisijungdama prie  1948 m.  gruodžio 9  d.
+Aukščiausioji Taryba,
 
-Konvencijos  dėl kelio užkirtimo genocido nusikaltimui ir nubaudimo už jį bei
+prisijungdama prie
 
-1968 m. lapkričio  26 d. Konvencijos dėl senaties termino netaikymo už karinius
+1948 m. gruodžio 9 d. Konvencijos dėl kelio užkirtimo genocido nusikaltimui ir
 
-nusikaltimus ir nusikaltimus žmonijai,
+nubaudimo už jį bei 1968 m. lapkričio 26 d. Konvencijos dėl senaties termino
 
-pripažindama  1945  m.  rugpjūčio  8  d.
+netaikymo už karinius nusikaltimus ir nusikaltimus žmonijai,
 
-Niurnbergo tarptautinio karinio tribunolo įstatus,
+pripažindama 1945 m.
 
-atsižvelgdama į tai, kad minėtosios
+rugpjūčio 8 d. Niurnbergo tarptautinio karinio tribunolo įstatus,
 
-tarptautinės sutartys įpareigoja   priimti    nacionalinius   įstatymus,
+atsižvelgdama į tai, kad minėtosios tarptautinės sutartys įpareigoja priimti nacionalinius įstatymus, numatančius atsakomybę už genocidą, nusikaltimus žmoniškumui, karo nusikaltimus,
 
-numatančius atsakomybę  už  genocidą,  nusikaltimus  žmoniškumui,  taikai  ir
+konstatuodama, kad
 
-karinius nusikaltimus,
+genocido, nusikaltimų žmoniškumui politika Lietuvos gyventojų atžvilgiu buvo
 
-konstatuodama, kad  genocido, nusikaltimų
+vykdoma nacistinės Vokietijos ar SSRS okupacijos ir aneksijos laikais,
 
-žmoniškumui politika Lietuvos  gyventojų atžvilgiu  buvo  vykdoma  nacistinės
+vadovaudamasi
 
-Vokietijos ar SSRS okupacijos ir aneksijos laikais,
+tarptautinės bendrijos visuotinai pripažinta nuostata, kad žmonių naikinimas
 
-vadovaudamasi  tarptautinės  bendrijos
+bet kuriuo tikslu suvokiamas kaip nusikaltimas, priima šį įstatymą.
 
-visuotinai pripažinta nuostata,  kad žmonių  naikinimas  bet  kuriuo  tikslu
+Preambulės pakeitimai:
 
-suvokiamas kaip nusikaltimas, priima šį įstatymą.
+Nr. IX-1455,
 
-1 straipsnis. (Neteko galios)
+2003-04-03, Žin., 2003, Nr. 38-1700 (2003-04-24)
+
+1 straipsnis. (Neteko
+
+galios)
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-708, 98.04.21,
+
+Žin., 1998, Nr.42-1140 (98.05.06)
 
 2 straipsnis.
 
-Lietuvos žmonių  žudymas ar kankinimas, jos
+Lietuvos žmonių žudymas ar kankinimas, jos
 
-gyventojų deportavimas, padaryti  nacistinės Vokietijos  ar SSRS okupacijos ir
+gyventojų deportavimas, padaryti nacistinės Vokietijos ar SSRS okupacijos ir
 
-aneksijos  Lietuvoje  metais,  atitinka  tarptautinės  teisės normose numatyto
+aneksijos Lietuvoje metais, atitinka tarptautinės teisės normose numatyto
 
 genocido nusikaltimo požymius.
 
-3 straipsnis. (Neteko galios)
+3 straipsnis. (Neteko
+
+galios)
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-708, 98.04.21,
+
+Žin., 1998, Nr.42-1140 (98.05.06)
+
+4
+
+straipsnis. (Neteko galios)
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-708, 98.04.21,
+
+Žin., 1998, Nr.42-1140 (98.05.06)
 
 4 straipsnis. (Neteko galios)
 
-5 straipsnis. (Neteko galios)
+5 straipsnis. (Neteko
+
+galios)
+
+Straipsnio
+
+pakeitimai:
+
+Nr. VIII-708, 98.04.21,
+
+Žin., 1998, Nr.42-1140 (98.05.06)
 
 6 straipsnis.
 
-Šis įstatymas įsigalioja nuo 1992 m. balandžio 15 dienos.
+Šis
+
+įstatymas įsigalioja nuo 1992 m. balandžio 15 dienos.
 
 LIETUVOS
 
@@ -121,5 +149,57 @@ Vilnius,
 
 1992 m. balandžio 9 d.
 
-Nr.I-2477
+Nr.
+
+I-2477
+
+________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-708, 98.04.21,
+
+Žin., 1998, Nr.42-1140 (98.05.06)
+
+LIETUVOS
+
+RESPUBLIKOS BAUDŽIAMOJO KODEKSO PAPILDYMO 62(1), 71 STRAIPSNIAIS IR 8(1), 24,
+
+25, 26, 35, 49, 54(1), 89 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-1455,
+
+2003-04-03, Žin., 2003, Nr. 38-1700 (2003-04-24)
+
+ĮSTATYMO „DĖL ATSAKOMYBĖS UŽ
+
+LIETUVOS GYVENTOJŲ GENOCIDĄ“ PREAMBULĖS PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja kartu su
+
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+
+2003 m. gegužės 1 d.
+
+*** Pabaiga ***
+
+Redagavo: Aušrinė Trapinskienė
+
+(2003-05-07)
+
+autrap@lrs.lt
 
