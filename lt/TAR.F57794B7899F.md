@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2027-01-01"
+last_updated: "2030-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2027-01-01 iki 2029-12-31
+Suvestinė redakcija nuo 2030-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -3010,11 +3010,25 @@ Nr. XIV-483, 2021-06-30, paskelbta TAR 2021-07-13, i. k. 2021-15833
 
 2. Garantinis elektros energijos tiekėjas garantinį tiekimą atlieka laikydamasis šių sąlygų:
 
+1) garantinis tiekimas vartotojui užtikrinamas, kai vartotojas, ne vėliau kaip prieš 3 savaites iki nepriklausomo tiekėjo nutraukiamos veiklos arba su vartotoju sudarytos elektros energijos pirkimo–pardavimo sutarties, arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties nutraukimo gavęs nepriklausomo tiekėjo rašytinį ar elektroninių ryšių priemonėmis pateiktą įspėjimą, per 2 savaites nuo šio pranešimo gavimo dienos nepasirenka kito nepriklausomo tiekėjo ar paaiškėja šio straipsnio 3 dalyje nurodytos aplinkybės, – tokiais atvejais vartotojų su nepriklausomu tiekėju sudaryta elektros energijos pirkimo–pardavimo arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartis laikoma nutraukta. Garantinis tiekimas vartotojams, išskyrus buitinius vartotojus, užtikrinamas persiuntimo paslaugos teikimo sutarties su skirstomųjų tinklų operatoriumi pagrindu. Buitiniams vartotojams garantinis elektros energijos tiekimas užtikrinamas pagal garantinio elektros energijos tiekėjo viešai skelbiamas garantinio elektros energijos tiekimo užtikrinimo ir persiuntimo paslaugos teikimo sąlygas, kurios rengiamos Elektros energijos tiekimo ir naudojimo taisyklėse nustatyta tvarka. Vartotojui, kuriam užtikrinamas garantinis tiekimas, nusprendusiam sudaryti elektros energijos pirkimo–pardavimo arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su nepriklausomu tiekėju, garantinis tiekimas nutraukiamas ne vėliau kaip per 3 savaites nuo nepriklausomo tiekėjo pranešimo garantiniam elektros energijos tiekėjui pateikimo dienos. Garantinio tiekimo trukmė – ne ilgiau kaip 6 mėnesiai, išskyrus pažeidžiamus vartotojus. Jeigu per 6 mėnesius vartotojas, išskyrus pažeidžiamus vartotojus, nepasirenka naujo nepriklausomo tiekėjo, garantinis elektros energijos tiekėjas įgyja teisę nutraukti elektros energijos tiekimą vartotojui. Apie garantinio tiekimo nutraukimą garantinis elektros energijos tiekėjas įspėja vartotoją ne vėliau kaip prieš 3 savaites iki elektros energijos tiekimo nutraukimo dienos;
+
+2) jeigu vartotojas, kuriam buvo suteiktas garantinis tiekimas, garantinio tiekimo laikotarpiu pasirenka nepriklausomą tiekėją, vartotojas privalo sumokėti garantiniam elektros energijos tiekėjui už suvartotą elektros energiją pagal garantinio elektros energijos tiekėjo pateiktą mokėjimo dokumentą;
+
+3) buitiniams vartotojams, kuriems užtikrinamas garantinis tiekimas, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinę einamojo ataskaitinio mėnesio elektros energijos biržos kainą, susiformavusią Lietuvos kainų zonoje kitos paros rinkoje, padauginus iš koeficiento 1,15. Vartotojams, išskyrus buitinius vartotojus, kuriems užtikrinamas garantinis tiekimas, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinę einamojo ataskaitinio mėnesio elektros energijos biržos kainą, susiformavusią Lietuvos kainų zonoje kitos paros rinkoje, padauginus iš koeficiento 1,25. Šią kainą apskaičiuoja garantinis elektros energijos tiekėjas ir paskelbia savo interneto svetainėje. Skirtumas tarp faktinių ataskaitinio laikotarpio pajamų ir garantinio elektros energijos tiekėjo patirtų garantinio elektros energijos tiekimo veiklos sąnaudų, įskaitant elektros energijos įsigijimo sąnaudas, priskiriamas garantinio elektros energijos tiekėjo sąnaudoms ar pajamoms pagal šio įstatymo 9 straipsnio 3 dalies 4 punkte nurodytą metodiką.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XV-167, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07427
+
 Straipsnio dalies pakeitimai:
 
 Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
 
+Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
+
 Nr. XIV-1668, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26106
+
+Nr. XV-169, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07431
 
 3. Šio straipsnio 2 dalies 1 punkte nurodytas 3 savaičių nepriklausomo tiekėjo pranešimo terminas netaikomas ir garantinis tiekimas užtikrinamas nedelsiant, ne vėliau kaip per 3 darbo dienas nuo bet kurios iš šių aplinkybių atsiradimo:
 
@@ -3029,6 +3043,18 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 3) nepriklausomam tiekėjui yra iškelta bankroto byla arba kreditorių susirinkime priimtas nutarimas vykdyti bankroto procedūras ne teismo tvarka;
 
 4) kitais tiesiogiai nuo nepriklausomo tiekėjo veiksmų nepriklausančiais atvejais, dėl kurių nepriklausomas tiekėjas nebegali vykdyti prisiimtų įsipareigojimų tiekti elektros energiją vartotojams (force majeure).
+
+31. Šio straipsnio 3 dalyje nurodytais atvejais vartotojams, išskyrus pažeidžiamus vartotojus, užtikrinant garantinį tiekimą 3 savaites taikoma kaina, apskaičiuojama kaip vidutinės einamojo ataskaitinio mėnesio elektros energijos biržos kainos, susiformavusios Lietuvos kainų zonoje kitos paros rinkoje, ir garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainos, kurią nustato Taryba, suma.
+
+Papildyta straipsnio dalimi:
+
+Nr. XV-169, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07431
+
+31. Šio straipsnio 3 dalyje nurodytais atvejais vartotojams, išskyrus pažeidžiamus vartotojus, užtikrinant garantinį tiekimą 3 savaites taikoma kaina, apskaičiuojama kaip vidutinės praėjusio ataskaitinio mėnesio elektros energijos biržos kainos, susiformavusios Lietuvos kainų zonoje kitos paros rinkoje, ir garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainos, kurią nustato Taryba, suma.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 4. Nepriklausomas tiekėjas privalo nedelsdamas, ne vėliau kaip per vieną darbo dieną nuo šio straipsnio 3 dalyje nustatytų aplinkybių atsiradimo, savo vartotojams ir atitinkamam tinklų operatoriui pranešti apie garantinio tiekimo pradžią ir pagrindą, o vartotojams – ir apie asmenį, vykdysiantį garantinio tiekimo funkciją, ir jo kontaktinius duomenis. Vartotojai, kurių suvartotos elektros energijos apskaitos prietaisų rodmenys nėra nuskaitomi nuotoliniu būdu, nedelsdami, ne vėliau kaip per 3 darbo dienas nuo garantinio tiekimo pradžios, jeigu apie tai jie buvo tinkamai informuoti, privalo užfiksuoti faktinius apskaitos prietaiso rodmenis ir juos pranešti tinklų operatoriui. Jeigu nepriklausomi tiekėjai ar vartotojai neįvykdo ar tinkamai neįvykdo šioje dalyje nustatytų pareigų, garantinio tiekimo metu tiekiamos elektros energijos kiekis nustatomas Elektros energijos tiekimo ir naudojimo taisyklėse nustatyta tvarka.
 
