@@ -4,7 +4,7 @@ identifier: "TAR.B7D7BAACDE6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2000-05-02"
+last_updated: "2000-07-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B7D7BAACDE6B"
 department: "Lietuvos Respublikos Seimas"
@@ -225,9 +225,9 @@ duslintuvai (slopintuvai).
 
 Šaunamųjų ginklų optinius ir lazerinius taikiklius gali įsigyti, turėti,
 
-nešioti ir naudoti asmenys, turintys leidimus nešioti šaunamuosius ginklus,
+nešioti ir naudoti asmenys, turintys leidimus nešioti šaunamuosius ginklus, išskyrus
 
-išskyrus šio įstatymo 13 straipsnio 3 dalies 5 punkte nustatytą atvejį.
+šio įstatymo 13 straipsnio 3 dalies 5 punkte nustatytą atvejį.
 
 ANTRASIS SKIRSNIS
 
@@ -239,9 +239,9 @@ straipsnis. Ginklų ir šaudmenų skirstymas
 
 1.
 
-Šis įstatymas skirsto ginklus pagal jų pagrindinę naudojimo sritį ir pagal patekimo
+Šis įstatymas skirsto ginklus pagal jų pagrindinę naudojimo sritį ir pagal
 
-į civilinę apyvartą tvarką.
+patekimo į civilinę apyvartą tvarką.
 
 2.
 
@@ -363,9 +363,9 @@ ginant Lietuvos Respublikos nepriklausomybę.
 
 Vardiniais ginklais gali būti ne didesnio kaip 9 mm kalibro pistoletai
 
-(revolveriai), taip pat nešaunamieji ginklai: kardai, kalavijai, durklai. Vardiniu
+(revolveriai), taip pat nešaunamieji ginklai: kardai, kalavijai, durklai.
 
-ginklu negali būti automatinis šaunamasis ginklas.
+Vardiniu ginklu negali būti automatinis šaunamasis ginklas.
 
 4.
 
@@ -517,7 +517,9 @@ civilinius ginklus įgyti, laikyti, nešioti, naudoti ir realizuoti:
 
 1)
 
-ginklus ir šaudmenis, uždraustus Lietuvos Respublikos tarptautinėmis sutartimis;
+ginklus ir šaudmenis, uždraustus Lietuvos Respublikos tarptautinėmis
+
+sutartimis;
 
 2)
 
@@ -711,9 +713,7 @@ civiliniai;
 
 2)
 
-tarnybiniams ginklams, jei jie gali būti naudojami kaip koviniai ar
-
-tarnybiniai;
+tarnybiniams ginklams, jei jie gali būti naudojami kaip koviniai ar tarnybiniai;
 
 3)
 
@@ -739,9 +739,11 @@ Respublikos piliečiai, kiti fiziniai asmenys ir Lietuvos Respublikoje
 
 18
 
-straipsnis. Teisė įsigyti, turėti ir valdyti neribotos
+straipsnis. Teisė įsigyti, turėti ir valdyti neribotos civilinės apyvartos
 
-civilinės apyvartos ginklus ir šaudmenis
+ginklus ir
+
+šaudmenis
 
 Neribotos
 
@@ -755,9 +757,9 @@ ne jaunesni kaip 18 metų Lietuvos Respublikos piliečiai;
 
 2)
 
-ne jaunesni kaip 18 metų teisėtai esantys Lietuvos Respublikoje užsienio
+ne jaunesni kaip 18 metų teisėtai esantys Lietuvos Respublikoje užsienio valstybių
 
-valstybių piliečiai ar asmenys be pilietybės (toliau - užsieniečiai);
+piliečiai ar asmenys be pilietybės (toliau - užsieniečiai);
 
 3)
 
@@ -765,9 +767,11 @@ Lietuvos Respublikoje įregistruoti juridiniai asmenys.
 
 19
 
-straipsnis. Lietuvos Respublikos piliečių teisė įsigyti
+straipsnis. Lietuvos Respublikos piliečių teisė įsigyti ribotos civilinės
 
-ribotos civilinės apyvartos ginklus
+apyvartos
+
+ginklus
 
 1.
 
@@ -951,15 +955,15 @@ užsieniečiai turi teisę įsigyti lygiavamzdžius šautuvus.
 
 2.
 
-Ne jaunesni kaip 18 metų ir teisėtai esantys Lietuvos Respublikoje,
+Ne jaunesni kaip 18 metų ir teisėtai esantys Lietuvos Respublikoje, tarpininkaujant
 
-tarpininkaujant valstybės, kurios piliečiai jie yra, atstovybei, užsieniečiai
+valstybės, kurios piliečiai jie yra, atstovybei, užsieniečiai gali įsigyti
 
-gali įsigyti lygiavamzdžius ir medžioklinius graižtvinius šautuvus, gavę Vidaus
+lygiavamzdžius ir medžioklinius graižtvinius šautuvus, gavę Vidaus reikalų
 
-reikalų ministerijos leidimą, ir esant būtinai sąlygai, kad jie išveš ginklus
+ministerijos leidimą, ir esant būtinai sąlygai, kad jie išveš ginklus iš
 
-iš Lietuvos Respublikos ne vėliau kaip per 5 dienas nuo įsigijimo.
+Lietuvos Respublikos ne vėliau kaip per 5 dienas nuo įsigijimo.
 
 3.
 
@@ -985,23 +989,21 @@ Lietuvos Respublikos Vyriausybė.
 
 21
 
-straipsnis. Lietuvos Respublikoje akredituotų ir reziduojančių
+straipsnis. Lietuvos Respublikoje akredituotų ir reziduojančių užsienio
 
-užsienio valstybių diplomatinių atstovybių, konsulinių
+valstybių
 
-įstaigų
+diplomatinių atstovybių, konsulinių įstaigų ir
 
-ir tarptautinių organizacijų atstovybių
+tarptautinių organizacijų
 
-diplomatinio,
+atstovybių diplomatinio, administracinio techninio ir
 
-administracinio techninio ir aptarnaujančiojo
+aptarnaujančiojo
 
-personalo teisė
+personalo teisė įsivežti, įsigyti, laikyti, išsivežti
 
-įsivežti, įsigyti, laikyti, išsivežti ir nešioti
-
-ginklą
+ir nešioti ginklą
 
 1.
 
@@ -1033,9 +1035,9 @@ Respublikos Vyriausybė.
 
 22
 
-straipsnis. Juridinių asmenų teisė įsigyti ir valdyti ribotos
+straipsnis. Juridinių asmenų teisė įsigyti ir valdyti ribotos civilinės
 
-civilinės apyvartos ginklus
+apyvartos ginklus
 
 1.
 
@@ -1999,11 +2001,9 @@ SUSIJUSI SU GINKLAIS IR ŠAUDMENIMIS
 
 23 straipsnis. Bendrieji ginklų ir
 
-šaudmenų gamybos, taisymo,
+šaudmenų gamybos, taisymo, pardavimo ir
 
-pardavimo ir licencijavimo reikalavimai
-
-[Straipsnio redakcija nuo 2000 m. birželio 1 d. :
+licencijavimo reikalavimai
 
 Gaminti, taisyti ir pardavinėti ginklus,
 
@@ -2013,29 +2013,11 @@ leidžiama tik turint Vyriausybės nustatyta tvarka išduotą licenciją. Krašt
 
 apsaugos ministerija, Vidaus reikalų ministerija, Specialiųjų tyrimų tarnyba,
 
-Valstybės saugumo departamentas, Generalinė prokuratūra, Šaulių sąjunga, Kalėjimų
+Valstybės saugumo departamentas, Generalinė prokuratūra, Šaulių sąjunga,
 
-departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos
+Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos
 
-Respublikos ginklų fondas turi teisę taisyti savo ginklus be licencijos.]
-
-[Straipsnio
-
-redakcija nuo 2000 m. rugsėjo 1 d. :
-
-Gaminti, taisyti ir pardavinėti ginklus, taip pat gaminti
-
-ir pardavinėti šaudmenis Lietuvos Respublikos teritorijoje leidžiama tik turint
-
-Vyriausybės nustatyta tvarka išduotą licenciją. Krašto apsaugos ministerija,
-
-Vidaus reikalų ministerija, Valstybės saugumo departamentas, Generalinė
-
-prokuratūra, Šaulių sąjunga, Kalėjimų departamentas prie Lietuvos Respublikos
-
-teisingumo ministerijos, Lietuvos Respublikos ginklų fondas turi teisę taisyti
-
-savo ginklus be licencijos.]
+Respublikos ginklų fondas turi teisę taisyti savo ginklus be licencijos.
 
 Straipsnio pakeitimai:
 
@@ -2050,6 +2032,10 @@ Nr.39-1089 (00.05.12),įsigalioja 2000.09.01
 Nr. VIII-1653, 00.05.02, Žin., 2000,
 
 Nr.41-1166 (00.05.19), įsigalioja 2000.06.01
+
+Nr. VIII-1850, 00.07.13, Žin., 2000,
+
+Nr.64-1922 (00.07.31)
 
 24
 
@@ -2193,11 +2179,11 @@ ginklą.
 
 27
 
-straipsnis. Ginklų ar šaudmenų eksportas, importas ir tranzitas,
+straipsnis. Ginklų ar šaudmenų eksportas, importas ir tranzitas, vienetinių
 
-vienetinių
+ginklų
 
-ginklų egzempliorių įvežimas ir išvežimas
+egzempliorių įvežimas ir išvežimas
 
 1.
 
@@ -2277,9 +2263,9 @@ reikalauti iš pirkėjo pateikti leidimą įsigyti perkamos rūšies ginklą ir
 
 3)
 
-užtikrinti įsigyjamų ir parduodamų ginklų bei šaudmenų apskaitą, saugoti apskaitos
+užtikrinti įsigyjamų ir parduodamų ginklų bei šaudmenų apskaitą, saugoti
 
-dokumentaciją;
+apskaitos dokumentaciją;
 
 4)
 
@@ -2347,15 +2333,13 @@ asmenims, turintiems licencijas gaminti, taisyti, pardavinėti ir importuoti
 
 ginklus arba leidimus jiems laikyti ir(ar) nešioti. Leidimas ginklui laikyti
 
-ir(ar) nešioti išduodamas Vyriausybės nustatyta tvarka asmeniui, turinčiam leidimą
+ir(ar) nešioti išduodamas Vyriausybės nustatyta tvarka asmeniui, turinčiam
 
-įsigyti ginklą.
+leidimą įsigyti ginklą.
 
 2.
 
 Šaunamųjų ginklų ir šaudmenų laikymo sąlygos privalo užtikrinti jų saugumą.
-
-[3 dalies redakcija nuo 2000 m. birželio 1 d. :
 
 3. Krašto apsaugos, vidaus reikalų,
 
@@ -2373,27 +2357,7 @@ ginklai bei šaudmenys saugomi ir laikomi Teisingumo ministerijos nustatyta
 
 tvarka. Kitais atvejais ginklų saugojimo ir laikymo tvarką nustato Vidaus
 
-reikalų ministerija.]
-
-[3
-
-dalies redakcija nuo 2000 m. rugsėjo 1 d. :
-
-3. Krašto apsaugos, vidaus reikalų, valstybės saugumo
-
-ir prokuratūros sistemoje, Lietuvos Respublikos ginklų fonde ginklai bei
-
-šaudmenys saugomi ir laikomi šių institucijų nustatyta tvarka. Šaulių sąjunga
-
-šaunamuosius ginklus ir šaudmenis saugo ir laiko Vyriausybės nustatyta tvarka.
-
-Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos ir jam
-
-pavaldžiose įstaigose ginklai bei šaudmenys saugomi ir laikomi Teisingumo
-
-ministerijos nustatyta tvarka. Kitais atvejais ginklų saugojimo ir laikymo
-
-tvarką nustato Vidaus reikalų ministerija.]
+reikalų ministerija.
 
 Straipsnio pakeitimai:
 
@@ -2408,6 +2372,10 @@ Nr.39-1089 (00.05.12), įsigalioja 2000.09.01
 Nr. VIII-1653, 00.05.02, Žin., 2000,
 
 Nr.41-1166 (00.05.19), įsigalioja 2000.06.01
+
+Nr. VIII-1850, 00.07.13, Žin., 2000,
+
+Nr.64-1922 (00.07.31)
 
 32
 
@@ -2547,9 +2515,9 @@ Ginklų kolekcijos turi būti registruojamos policijos komisariatuose.
 
 6.
 
-Pergabenti kolekcinius ginklus Lietuvos Respublikoje galima tik turint
+Pergabenti kolekcinius ginklus Lietuvos Respublikoje galima tik turint policijos
 
-policijos komisariato leidimą.
+komisariato leidimą.
 
 7.
 
@@ -2661,7 +2629,9 @@ pažeidus nustatytą ginklų ir šaudmenų apyvartos tvarką;
 
 4)
 
-mirus civilinio ginklo savininkui, kol bus išspręstas turto paveldėjimo klausimas;
+mirus civilinio ginklo savininkui, kol bus išspręstas turto paveldėjimo
+
+klausimas;
 
 5) kai asmuo įstatymų nustatyta tvarka kaltinamas
 
@@ -2765,9 +2735,7 @@ Pareigūnai, įgalioti kontroliuoti ginklų ir šaudmenų apyvartą, turi teisę
 
 1)
 
-apžiūrėti ginklus ir jų gamybos, taisymo, pardavinėjimo, laikymo bei saugojimo
-
-vietas;
+apžiūrėti ginklus ir jų gamybos, taisymo, pardavinėjimo, laikymo bei saugojimo vietas;
 
 2)
 
@@ -2831,7 +2799,7 @@ RESPUBLIKOS
 
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
 
-____________
+__________________
 
 Pakeitimai:
 
@@ -2865,6 +2833,12 @@ GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 23 IR 31 STRAIPSNIŲ PAPILDYMO
 
 m. rugsėjo 1 d.
 
+Pakeitimas neteko galios nuo 2000 m. rugsėjo 1 d.:
+
+Nr. VIII-1850, 00.07.13, Žin., 2000,
+
+Nr.64-1922 (00.07.31)
+
 3.
 
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2881,11 +2855,23 @@ GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 7, 9, 23, 31 STRAIPSNIŲ PAPILDYMO
 
 m.birželio 1 d.
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1850, 00.07.13, Žin., 2000,
+
+Nr.64-1922 (00.07.31)
+
+GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 23 IR 31 STRAIPSNIŲ PAPILDYMO
+
+ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo: Aušrinė
 
-Trapinskienė (2000.05.30)
+Trapinskienė (2000.08.18)
 
 24 straipsnis. Ginklų ir šaudmenų
 
