@@ -4,7 +4,7 @@ identifier: "TAR.897569AA8270"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-02"
-last_updated: "1994-04-22"
+last_updated: "1996-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.897569AA8270"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 1994-04-22 iki 1996-06-30
+Įstatymas netenka galios 2000-01-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1183, 1999-05-13, Žin., 1999, Nr. 47-1469 (1999-05-28), i. k. 0991010ISTAIII-1183
+
+Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
+
+Suvestinė redakcija nuo 1996-07-01 iki 1999-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 75-0; Žin. 1991, Nr.12-309, i. k. 0911010ISTA00I-1188
 
@@ -83,11 +91,23 @@ III. MOKĖJIMO TVARKA IR KONTROLĖ
 
 10 straipsnis. Mokesčiai mokami avansiniais mokėjimais lygiomis dalimis nuo metinių mokesčių sumos, apskaičiuotos pagal pagrindinį tarifą už normatyvinį teršalų kiekį kas ketvirtį iki kito ketvirčio pirmojo mėnesio 15 dienos. Metų pabaigoje mokesčių suma perskaičiuojama pagal faktinį išmestų teršalų kiekį ir iki vasario 1 dienos metiniai apskaičiavimai pateikiami Valstybinei mokesčių inspekcijai.
 
-11 straipsnis. Lietuvos Respublikos aplinkos apsaugos departamentas kartu su Lietuvos Respublikos finansų ministerija kontroliuoja mokesčių apskaičiavimo teisingumą. Už nuslėptų teršalų kiekį mokamas mokestis ir taikoma dešimteriopo tarifo dydžio ekonominė sankcija.
+11 straipsnis. Lietuvos Respublikos aplinkos apsaugos ministerija kartu su Valstybine mokesčių inspekcija prie Finansų ministerijos kontroliuoja mokesčių apskaičiavimo teisingumą. Už nuslėptų teršalų kiekį mokamas mokestis ir taikoma dešimteriopo tarifo dydžio bauda.
 
-12 straipsnis. Nustatytu laiku neapmokestinti mokėtojai apmokestinami ne daugiau kaip už praėjusius dvejus metus. Neteisingo apmokestinimo patikslinimas, mokesčių grąžinimas arba išieškojimas taip pat galimas ne daugiau kaip už dvejus metus.
+Straipsnio pakeitimai:
 
-13 straipsnis. Nesumokėjus laiku mokesčių, už kiekvieną pavėluotą dieną imami 0,5 procento delspinigiai.
+Nr. I-1315, 1996-04-30, Žin., 1996, Nr. 46-1110 (1996-05-17), i. k. 0961010ISTA00I-1315
+
+12 straipsnis. Laiku neapmokestinti mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. I-1315, 1996-04-30, Žin., 1996, Nr. 46-1110 (1996-05-17), i. k. 0961010ISTA00I-1315
+
+13 straipsnis. Laiku nesumokėjus mokesčių, imami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. I-1315, 1996-04-30, Žin., 1996, Nr. 46-1110 (1996-05-17), i. k. 0961010ISTA00I-1315
 
 LIETUVOS RESPUBLIKOS
 
@@ -1100,4 +1120,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-427, 1994-04-12, Žin., 1994, Nr. 30-528 (1994-04-22), i. k. 0941010ISTA000I-427
 
 Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo papildymo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1315, 1996-04-30, Žin., 1996, Nr. 46-1110 (1996-05-17), i. k. 0961010ISTA00I-1315
+
+Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo 11, 12, 13 straipsnių pakeitimo įstatymas
 
