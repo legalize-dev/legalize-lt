@@ -4,7 +4,7 @@ identifier: "TAR.0B3E8942C5C4"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-12-13"
-last_updated: "1999-07-07"
+last_updated: "2001-03-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0B3E8942C5C4"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -31,9 +31,9 @@ BEDARBIŲ RĖMIMO
 
 Įstatymo pavadinimas keistas:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 Lietuvos
 
@@ -127,9 +127,9 @@ ministerija.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 5 straipsnis. Bedarbiai
 
@@ -151,9 +151,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 II skyrius. PILIEČIŲ UŽIMTUMO TEISĖS IR GARANTIJOS
 
@@ -181,9 +181,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 7
 
@@ -217,9 +217,9 @@ išskyrus atvejus, kai darbo birža nesikreipė dėl piliečių, nurodytų šio
 
 Šios
 
-lėšos savivaldybių nuožiūra naudojamos šio straipsnio pirmojoje dalyje
+lėšos savivaldybių nuožiūra naudojamos šio straipsnio pirmojoje dalyje nurodytoms
 
-nurodytoms programoms finansuoti.
+programoms finansuoti.
 
 Jei šio straipsnio pirmojoje dalyje nurodyta tvarka
 
@@ -241,9 +241,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 8
 
@@ -283,19 +283,19 @@ straipsnis. Darbdavio pareiga įspėti darbuotoją apie samdos sutarties
 
 nutraukimą
 
-Darbdavys
+Darbdavys savo iniciatyva,
 
-savo iniciatyva, jei nėra darbuotojo kaltės, gali nutraukti neterminuotą samdos
+jei nėra darbuotojo kaltės, gali nutraukti neterminuotą darbo sutartį įstatymų
 
-sutartį įstatymų nustatyta tvarka tik prieš 2 mėnesius įspėjęs darbuotoją
+nustatyta tvarka tik prieš 2 mėnesius įspėjęs darbuotoją raštu. Darbuotojui,
 
-raštu. Darbuotojui, kuriam iki teisės gauti visą senatvės pensiją liko ne
+kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, nepilnamečiui
 
-daugiau kaip 5 metai, nepilnamečiui iki 18 metų, invalidui, moteriai, turinčiai
+iki 18 metų, invalidui, moteriai ir (ar) vyrui, auginantiems vaikus (vaiką) iki
 
-vaikų iki 14 metų, ir vyrui, vienam auginančiam vaikus iki tokio pat amžiaus,
+14 metų, apie numatomą atleidimą iš darbo turi būti pranešta raštu prieš 4
 
-apie numatomą atleidimą iš darbo turi būti pranešta raštu prieš 4 mėnesius.
+mėnesius.
 
 Samdos
 
@@ -335,6 +335,14 @@ dirbančiųjų yra mažesnis už savivaldybių nustatytą įdarbinimo ar papildo
 
 darbo vietų skaičiaus steigimo kvotą.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-225, 2001 03 22, Žin., 2001, Nr.
+
+28-900 (2001 03 30)
+
 12 straipsnis. Užimtumo fondas
 
 Gyventojų
@@ -349,9 +357,9 @@ fondo lėšas sudaro darbdaviams privalomos draudimo nuo nedarbo įmokos bei kit
 
 Privalomojo
 
-draudimo nuo nedarbo įmokos yra privalomojo valstybinio socialinio draudimo įmokų
+draudimo nuo nedarbo įmokos yra privalomojo valstybinio socialinio draudimo
 
-pagal tarifus dalis, kurios dydį kiekvienais metais nustato Lietuvos
+įmokų pagal tarifus dalis, kurios dydį kiekvienais metais nustato Lietuvos
 
 Respublikos Vyriausybė, tvirtindama Valstybinio socialinio draudimo biudžeto
 
@@ -399,9 +407,9 @@ institucijoms. Darbuotojų ir darbdavių atstovus deleguoja jų atstovaujamos
 
 organizacijos, o valstybės valdymo institucijų atstovus skiria Lietuvos
 
-Respublikos Vyriausybė. Užimtumo tarybos nuostatus tvirtina Lietuvos Respublikos
+Respublikos Vyriausybė. Užimtumo tarybos nuostatus tvirtina Lietuvos
 
-Vyriausybė.
+Respublikos Vyriausybė.
 
 Lietuvos
 
@@ -411,9 +419,9 @@ viešai skelbia, kaip jis naudojamas.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 13
 
@@ -497,21 +505,21 @@ rezerviniam
 
 fondui, kuris naudojamas centralizuotai vykdomoms priemonėms, finansuoti. Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr. 18-457
+Nr. I-1191, 1996
 
-(1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
-Nr. VIII-1291, 1999 07 07, Žin., 1999, Nr.
+Nr. VIII-1291,
 
-65-2086 (1999 07 28)
+1999 07 07, Žin., 1999, Nr. 65-2086 (1999 07 28)
 
 IV skyrius. SOCIALINĖS GARANTIJOS BEDARBIAMS
 
 Skyriaus pavadinimas keistas:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 15 straipsnis. Teisė gauti bedarbio pašalpą
 
@@ -547,7 +555,9 @@ profesinį mokymą ir šių darbų bei mokymosi bendra trukmė buvo ne mažesnė
 
 180 kalendorinių dienų arba tiek laiko, kiek trūksta iki reikiamo valstybinio
 
-socialinio draudimo stažo, jei tai sudaro ne daugiau kaip 180 kalendorinių dienų.
+socialinio draudimo stažo, jei tai sudaro ne daugiau kaip 180 kalendorinių
+
+dienų.
 
 Šio
 
@@ -559,9 +569,9 @@ buvo nutraukta, pasibaigė jos mokėjimo terminas.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 16 straipsnis. Bedarbio pašalpa
 
@@ -615,13 +625,13 @@ gauti tokią pensiją.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
-Nr. VIII-1291, 1999 07 07, Žin., 1999, Nr.
+Nr. VIII-1291,
 
-65-2086 (1999 07 28)
+1999 07 07, Žin., 1999, Nr. 65-2086 (1999 07 28)
 
 16(1) straipsnis. Bedarbio pašalpos dydis
 
@@ -745,21 +755,23 @@ darbui.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 18 straipsnis. Bedarbio pašalpos sumažinimas, jos
 
-mokėjimo sustabdymas arba nutraukimas
+mokėjimo sustabdymas arba
+
+nutraukimas
 
 Bedarbio
 
 pašalpa sumažinama 50 procentų, jeigu bedarbis vieną kartą atsisakė siūlomo
 
-darbo šio įstatymo 17 straipsnio pirmojoje dalyje nurodytomis sąlygomis ir vieną
+darbo šio įstatymo 17 straipsnio pirmojoje dalyje nurodytomis sąlygomis ir
 
-kartą atsisakė profesinio mokymo.
+vieną kartą atsisakė profesinio mokymo.
 
 Bedarbiui
 
@@ -793,13 +805,15 @@ pasiūlymo dirbti arba mokytis pagal profesinio mokymo programas.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 19 straipsnis. Bedarbių ir darbuotojų, įspėtų apie
 
-atleidimą iš darbo, profesinis mokymas
+atleidimą iš darbo, profesinis
+
+mokymas
 
 Bedarbiai,
 
@@ -857,9 +871,9 @@ socialinės apsaugos ir darbo ministerija.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 22 straipsnis. Darbo biržos funkcijos
 
@@ -925,13 +939,13 @@ bedarbio pašalpas.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
-Nr. VIII-1291, 1999 07 07, Žin., 1999, Nr.
+Nr. VIII-1291,
 
-65-2086 (1999 07 28)
+1999 07 07, Žin., 1999, Nr. 65-2086 (1999 07 28)
 
 23
 
@@ -969,9 +983,9 @@ pasiūlymus.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 VI skyrius. GYVENTOJŲ UŽIMTUMO ĮSTATYMO LAIKYMOSI
 
@@ -993,9 +1007,9 @@ teisme.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 26 straipsnis. Neteisėto pasinaudojimo Užimtumo fondo
 
@@ -1013,9 +1027,9 @@ Užimtumo fondą išieškomos teismine tvarka.
 
 Įstatymas papildytas straipsniu:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 LIETUVOS
 
@@ -1025,7 +1039,7 @@ AUKŠČIAUSIOSIOS
 
 TARYBOS
 
-PIRMININKAS                                                                                    V.
+PIRMININKAS                                                                                                            V.
 
 LANDSBERGIS
 
@@ -1073,9 +1087,27 @@ BEDARBIŲ RĖMIMO ĮSTATYMO 10, 14, 16, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 
 ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. IX-225, 2001 03 22, Žin., 2001, Nr.
+
+28-900 (2001 03 30)
+
+BEDARBIŲ RĖMIMO ĮSTATYMO
+
+9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000 11 17)
+Redagavo: Aušrinė
+
+Trapinskienė (2001 04 02)
+
+autrap@lrs.lt
 
 20 straipsnis. Viešieji darbai
 
@@ -1085,23 +1117,23 @@ užsiregistravusiems valstybinėje darbo biržoje, organizuojami laikini viešie
 
 darbai.
 
-Viešuosius darbus kartu su savivaldybėmis
+Viešuosius darbus kartu su savivaldybėmis organizuoja
 
-organizuoja valstybinės darbo biržos.
+valstybinės darbo biržos.
 
-Asmenims, dirbantiems viešuosius darbus, už darbo
+Asmenims, dirbantiems viešuosius darbus, už darbo laiką
 
-laiką mokamas darbo užmokestis, apskaičiuotas taikant ne mažesnį už valstybės
+mokamas darbo užmokestis, apskaičiuotas taikant ne mažesnį už valstybės
 
 nustatytą minimalų valandinį atlygį.
 
-Asmenys, dirbantys viešuosius darbus, negauna
+Asmenys, dirbantys viešuosius darbus, negauna bedarbio
 
-bedarbio pašalpos, jeigu darbo užmokestis yra didesnis už šią pašalpą. Jeigu
+pašalpos, jeigu darbo užmokestis yra didesnis už šią pašalpą. Jeigu darbo
 
-darbo užmokestis yra mažesnis už gaunamą pašalpą, valstybinė darbo birža moka
+užmokestis yra mažesnis už gaunamą pašalpą, valstybinė darbo birža moka darbo
 
-darbo užmokesčio ir bedarbio pašalpos skirtumą.
+užmokesčio ir bedarbio pašalpos skirtumą.
 
 Asmenys, dirbantys viešuosius darbus, toliau
 
@@ -1115,9 +1147,9 @@ Respublikos Vyriausybė ar jos įgaliota institucija.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-608, 1998 01 15, Žin., 1998, Nr.
+Nr. VIII-608,
 
-8-165 (1998 01 25)
+1998 01 15, Žin., 1998, Nr. 8-165 (1998 01 25)
 
 20(1) straipsnis. Iš Užimtumo fondo remiami
 
@@ -1163,9 +1195,9 @@ apsaugos ir darbo ministerija.
 
 Įstatymas papildytas straipsniu:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 V skyrius. LIETUVOS DARBO BIRŽA
 
@@ -1177,9 +1209,9 @@ Valstybines
 
 gyventojų užimtumo garantijas darbo rinkoje įgyvendina Lietuvos darbo birža
 
-prie Socialinės apsaugos ir darbo ministerijos. Ją sudaro Respublikinė bei teritorinės
+prie Socialinės apsaugos ir darbo ministerijos. Ją sudaro Respublikinė bei
 
-darbo biržos.
+teritorinės darbo biržos.
 
 Gyventojų
 
@@ -1205,9 +1237,9 @@ Vyriausybė.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 10 straipsnis. Darbdavio pareigos
 
@@ -1259,9 +1291,9 @@ terminai.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1291, 1999 07 07, Žin., 1999, Nr.
+Nr. VIII-1291,
 
-65-2086 (1999 07 28)
+1999 07 07, Žin., 1999, Nr. 65-2086 (1999 07 28)
 
 11
 
@@ -1285,9 +1317,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996
 
-18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 III skyrius. GYVENTOJŲ UŽIMTUMO EKONOMINĖS PRIELAIDOS
 
