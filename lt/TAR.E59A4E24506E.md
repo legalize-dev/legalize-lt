@@ -4,7 +4,7 @@ identifier: "TAR.E59A4E24506E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-02"
-last_updated: "1993-12-15"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E59A4E24506E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos susirinkimų įstatymas
+
+Suvestinė redakcija nuo 2003-05-01 iki 2008-07-02
+
+Įstatymas paskelbtas: Žin. 1993, Nr. 69-1291, i. k. 0931010ISTA000I-317
 
 LIETUVOS RESPUBLIKOS
 
@@ -192,7 +196,11 @@ Susirinkimą nutraukia policijos pareigūnai, stebintys, ar laikomasi įstatymų
 
 1) tyčia šiurkščiai pažeidžia šio įstatymo nustatytą susirinkimų organizavimo tvarką (suderintą susirinkimo formą, vietą ar laiką);
 
-2) pasinaudodami susirinkimo galimybėmis, kėsinasi įvykdyti ar įvykdo pavojingus valstybinius nusikaltimus ar įvairius kitus tyčinius nusikaltimus asmens gyvybei, sveikatai, laisvei ir orumui, valdymo tvarkai, visuomenės saugumui ir viešajai tvarkai;
+2) pasinaudodami susirinkimo galimybėmis, kėsinasi įvykdyti ar įvykdo nusikaltimus Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai ar kitas tyčines nusikalstamas veikas žmogaus gyvybei, sveikatai, laisvei, asmens garbei ir orumui, visuomenės saugumui, valdymo tvarkai ir viešajai tvarkai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1452, 2003-04-03, Žin., 2003, Nr. 38-1697 (2003-04-24), i. k. 1031010ISTA0IX-1452
 
 3) individualiai ar grupiniais veiksmais trikdo ar kelia realią grėsmę sutrukdyti transporto eismą, valstybinių įstaigų, organizacijų ar savivaldybių normalią veiklą, sudaryti avarines gamybos situacijas karinėse įmonėse ar kitokiose įmonėse ir gamyklose, gaminančiose sprogstamąją, nuodingą ar kitokią pavojingą produkciją.
 
@@ -243,4 +251,14 @@ Jeigu miesto, rajono policijos komisaras turi duomenų, kad susirinkimo dalyviai
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1452, 2003-04-03, Žin., 2003, Nr. 38-1697 (2003-04-24), i. k. 1031010ISTA0IX-1452
+
+Lietuvos Respublikos susirinkimų įstatymo 17 straipsnio pakeitimo įstatymas
 
