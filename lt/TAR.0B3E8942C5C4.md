@@ -4,7 +4,7 @@ identifier: "TAR.0B3E8942C5C4"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-12-13"
-last_updated: "1998-01-15"
+last_updated: "1999-07-07"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0B3E8942C5C4"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -335,70 +335,6 @@ dirbančiųjų yra mažesnis už savivaldybių nustatytą įdarbinimo ar papildo
 
 darbo vietų skaičiaus steigimo kvotą.
 
-10
-
-straipsnis. Darbdavio pareigos, atleidžiant grupę darbuotojų
-
-Darbdavys,
-
-įstatymų nustatyta tvarka mažindamas darbuotojų skaičių arba nutraukdamas
-
-įmonės, įstaigos ir organizacijos veiklą, kai dėl to per 30 dienų numatoma
-
-atleisti grupę darbuotojų (10 ir daugiau žmonių įmonėse, įstaigose ir organizacijose,
-
-kuriose dirba iki 100 darbuotojų, arba daugiau kaip 10 procentų žmonių -
-
-įmonėse, įstaigose ir organizacijose, kuriose dirba daugiau kaip 100
-
-darbuotojų), privalo apie tai prieš 3 mėnesius pranešti darbo biržai ir
-
-savivaldybėms.
-
-Savivaldybės
-
-darbo biržos teikimu gali laikinai - iki 6 savaičių - sustabdyti darbuotojų
-
-atleidimą. Dalis su tuo susijusių išlaidų gali būti kompensuota darbdaviams iš
-
-Užimtumo fondo arba savivaldybių biudžetų.
-
-Jeigu
-
-darbdavys atleido grupę darbuotojų, nesilaikydamas šio straipsnio pirmojoje
-
-dalyje nustatytos tvarkos, jų atleidimo terminai perkeliami iki to laiko, kada
-
-turėjo pasibaigti nurodyti pranešimo terminai.
-
-11
-
-straipsnis. Laisvų darbo vietų registravimas
-
-Darbdaviai privalo registruoti laisvas darbo vietas
-
-darbo biržoje, o ši - viešai jas skelbti. Darbdaviai, pažeidę laisvų darbo
-
-vietų registravimo tvarką, darbo biržos sprendimu moka į Užimtumo fondą
-
-oficialiai skelbiamo ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio
-
-dydžio baudą už kiekvieną neregistruotą laisvą darbo vietą.
-
-Registravimo
-
-tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministerija.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
-
-18-457 (1996 02 28)
-
-III skyrius. GYVENTOJŲ UŽIMTUMO EKONOMINĖS PRIELAIDOS
-
 12 straipsnis. Užimtumo fondas
 
 Gyventojų
@@ -413,9 +349,9 @@ fondo lėšas sudaro darbdaviams privalomos draudimo nuo nedarbo įmokos bei kit
 
 Privalomojo
 
-draudimo nuo nedarbo įmokos yra privalomojo valstybinio socialinio draudimo
+draudimo nuo nedarbo įmokos yra privalomojo valstybinio socialinio draudimo įmokų
 
-įmokų pagal tarifus dalis, kurios dydį kiekvienais metais nustato Lietuvos
+pagal tarifus dalis, kurios dydį kiekvienais metais nustato Lietuvos
 
 Respublikos Vyriausybė, tvirtindama Valstybinio socialinio draudimo biudžeto
 
@@ -433,9 +369,9 @@ socialinio draudimo biudžete. Pasibaigus ketvirčiui, nurodyti atskaitymai
 
 perskaičiuojami pagal faktiškai gautas draudėjų įmokas ir papildomai
 
-priskaičiuotos sumos pervedamos kartu su einamosiomis įmokomis, o permokėtos sumos
+priskaičiuotos sumos pervedamos kartu su einamosiomis įmokomis, o permokėtos
 
-atimamos iš einamųjų įmokų.
+sumos atimamos iš einamųjų įmokų.
 
 Užimtumo
 
@@ -463,9 +399,9 @@ institucijoms. Darbuotojų ir darbdavių atstovus deleguoja jų atstovaujamos
 
 organizacijos, o valstybės valdymo institucijų atstovus skiria Lietuvos
 
-Respublikos Vyriausybė. Užimtumo tarybos nuostatus tvirtina Lietuvos
+Respublikos Vyriausybė. Užimtumo tarybos nuostatus tvirtina Lietuvos Respublikos
 
-Respublikos Vyriausybė.
+Vyriausybė.
 
 Lietuvos
 
@@ -537,12 +473,6 @@ darbo vietoms steigti, kad būtų įdarbintos šio įstatymo 8 straipsnyje nurod
 
 gyventojų grupės;
 
-darbdavių
-
-išlaidoms, susijusioms su darbuotojų atleidimo iš darbo laikinu sustabdymu šio
-
-įstatymo 10 straipsnyje nustatyta tvarka, iš dalies kompensuoti;
-
 Užimtumo
 
 fondo remiamiems darbams finansuoti;
@@ -567,9 +497,13 @@ rezerviniam
 
 fondui, kuris naudojamas centralizuotai vykdomoms priemonėms, finansuoti. Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+Nr. I-1191, 1996 02 01, Žin., 1996, Nr. 18-457
 
-18-457 (1996 02 28)
+(1996 02 28)
+
+Nr. VIII-1291, 1999 07 07, Žin., 1999, Nr.
+
+65-2086 (1999 07 28)
 
 IV skyrius. SOCIALINĖS GARANTIJOS BEDARBIAMS
 
@@ -613,9 +547,7 @@ profesinį mokymą ir šių darbų bei mokymosi bendra trukmė buvo ne mažesnė
 
 180 kalendorinių dienų arba tiek laiko, kiek trūksta iki reikiamo valstybinio
 
-socialinio draudimo stažo, jei tai sudaro ne daugiau kaip 180 kalendorinių
-
-dienų.
+socialinio draudimo stažo, jei tai sudaro ne daugiau kaip 180 kalendorinių dienų.
 
 Šio
 
@@ -627,9 +559,9 @@ buvo nutraukta, pasibaigė jos mokėjimo terminas.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02 01, Žin., 1996, Nr. 18-457
+Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
 
-(1996 02 28)
+18-457 (1996 02 28)
 
 16 straipsnis. Bedarbio pašalpa
 
@@ -673,17 +605,23 @@ viešuosius darbus, Užimtumo fondo remiamus darbus arba mokėsi pagal profesini
 
 mokymo programas.
 
-Priešpensinio
+Priešpensinio amžiaus bedarbiams, iki
 
-amžiaus bedarbiams (likus ne daugiau kaip 5 metams iki teisės gauti visą
+teisės gauti visą senatvės pensiją likus ne daugiau kaip 5 metams, pašalpos
 
-senatvės pensiją) pašalpos mokėjimas pratęsiamas dar du mėnesius.
+mokėjimas pratęsiamas dar du mėnesius, o likus mažiau kaip metams - iki teisės
+
+gauti tokią pensiją.
 
 Straipsnio pakeitimai:
 
 Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
 
 18-457 (1996 02 28)
+
+Nr. VIII-1291, 1999 07 07, Žin., 1999, Nr.
+
+65-2086 (1999 07 28)
 
 16(1) straipsnis. Bedarbio pašalpos dydis
 
@@ -819,9 +757,9 @@ Bedarbio
 
 pašalpa sumažinama 50 procentų, jeigu bedarbis vieną kartą atsisakė siūlomo
 
-darbo šio įstatymo 17 straipsnio pirmojoje dalyje nurodytomis sąlygomis ir
+darbo šio įstatymo 17 straipsnio pirmojoje dalyje nurodytomis sąlygomis ir vieną
 
-vieną kartą atsisakė profesinio mokymo.
+kartą atsisakė profesinio mokymo.
 
 Bedarbiui
 
@@ -969,16 +907,6 @@ programas pirmiausia toms gyventojų grupėms, kurios negali lygiomis sąlygomis
 
 su kitais piliečiais konkuruoti darbo rinkoje;
 
-teikia
-
-pasiūlymus savivaldybėms laikinai sustabdyti dirbančiųjų atleidimą arba atidėti
-
-jų atleidimo terminus, jeigu nesudarytos sąlygos įdarbinti atleistuosius,
-
-profesiniam mokymui arba jeigu atleidžiant grupę darbuotojų darbdavys laiku
-
-apie tai nepranešė darbo biržai;
-
 skiria
 
 baudas darbdaviams, pažeidusiems laisvų darbo vietų registravimo tvarką;
@@ -1000,6 +928,10 @@ Straipsnio pakeitimai:
 Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
 
 18-457 (1996 02 28)
+
+Nr. VIII-1291, 1999 07 07, Žin., 1999, Nr.
+
+65-2086 (1999 07 28)
 
 23
 
@@ -1091,11 +1023,11 @@ RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS
 
-TARYBOS -
+TARYBOS
 
-ATKURIAMOJO
+PIRMININKAS                                                                                    V.
 
-SEIMO PIRMININKAS                                           V. LANDSBERGIS
+LANDSBERGIS
 
 Vilnius,
 
@@ -1129,6 +1061,18 @@ Nr. VIII-608, 1998 01 15, Žin., 1998, Nr.
 
 BEDARBIŲ RĖMIMO ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1291, 1999 07 07, Žin., 1999, Nr.
+
+65-2086 (1999 07 28)
+
+BEDARBIŲ RĖMIMO ĮSTATYMO 10, 14, 16, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo: Aušrinė Trapinskienė (2000 11 17)
@@ -1141,23 +1085,23 @@ užsiregistravusiems valstybinėje darbo biržoje, organizuojami laikini viešie
 
 darbai.
 
-Viešuosius darbus kartu su savivaldybėmis organizuoja
+Viešuosius darbus kartu su savivaldybėmis
 
-valstybinės darbo biržos.
+organizuoja valstybinės darbo biržos.
 
 Asmenims, dirbantiems viešuosius darbus, už darbo
 
-laiką mokamas darbo užmokestis, apskaičiuotas taikant ne mažesnį už valstybės nustatytą
+laiką mokamas darbo užmokestis, apskaičiuotas taikant ne mažesnį už valstybės
 
-minimalų valandinį atlygį.
+nustatytą minimalų valandinį atlygį.
 
-Asmenys, dirbantys viešuosius darbus, negauna bedarbio
+Asmenys, dirbantys viešuosius darbus, negauna
 
-pašalpos, jeigu darbo užmokestis yra didesnis už šią pašalpą. Jeigu darbo
+bedarbio pašalpos, jeigu darbo užmokestis yra didesnis už šią pašalpą. Jeigu
 
-užmokestis yra mažesnis už gaunamą pašalpą, valstybinė darbo birža moka darbo
+darbo užmokestis yra mažesnis už gaunamą pašalpą, valstybinė darbo birža moka
 
-užmokesčio ir bedarbio pašalpos skirtumą.
+darbo užmokesčio ir bedarbio pašalpos skirtumą.
 
 Asmenys, dirbantys viešuosius darbus, toliau
 
@@ -1185,9 +1129,9 @@ fondo remiami darbai organizuojami bedarbiams, nurodytiems šio įstatymo 15
 
 straipsnio trečiojoje ir ketvirtojoje dalyse, taip pat 19 straipsnyje nurodyta
 
-tvarka baigusiems profesinį mokymą, kuriems darbo birža negali pasiūlyti nuolatinio
+tvarka baigusiems profesinį mokymą, kuriems darbo birža negali pasiūlyti
 
-darbo.
+nuolatinio darbo.
 
 Užimtumo
 
@@ -1233,9 +1177,9 @@ Valstybines
 
 gyventojų užimtumo garantijas darbo rinkoje įgyvendina Lietuvos darbo birža
 
-prie Socialinės apsaugos ir darbo ministerijos. Ją sudaro Respublikinė bei
+prie Socialinės apsaugos ir darbo ministerijos. Ją sudaro Respublikinė bei teritorinės
 
-teritorinės darbo biržos.
+darbo biržos.
 
 Gyventojų
 
@@ -1264,4 +1208,86 @@ Straipsnio pakeitimai:
 Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
 
 18-457 (1996 02 28)
+
+10 straipsnis. Darbdavio pareigos
+
+atleidžiant grupę darbuotojų
+
+Darbdavys, įstatymų nustatyta tvarka
+
+mažindamas darbuotojų skaičių arba nutraukdamas įmonės veiklą, privalo raštu
+
+prieš du mėnesius pranešti darbo biržai, savivaldybei ir įmonės profesinėms
+
+sąjungoms, o jų nesant, įmonės darbuotojų kolektyviniame susirinkime
+
+(konferencijoje), kai per 30 kalendorinių dienų numatoma atleisti grupę
+
+darbuotojų:
+
+1) 10 ir daugiau darbuotojų, jei įmonėje
+
+dirba iki 99 darbuotojų;
+
+2) daugiau kaip 10 procentų darbuotojų,
+
+jei įmonėje dirba nuo 100 iki 299 darbuotojų;
+
+3) 30 ir daugiau darbuotojų, jei įmonėje
+
+dirba 300 ir daugiau darbuotojų.
+
+Grupės darbuotojų atleidimais nelaikomi
+
+atvejai, kai atleidžiama grupė darbuotojų, dirbančių pagal terminuotas darbo
+
+sutartis ir sezoninių darbų sutartis nepažeidžiant sutartyse nurodyto jų
+
+termino.
+
+Grupės darbuotojų atleidimo tvarką ir
+
+ypatumus nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+Jeigu darbdavys atleido grupę darbuotojų,
+
+nesilaikydamas šio straipsnio pirmojoje dalyje nustatytos tvarkos, jų atleidimo
+
+terminai perkeliami iki to laiko, kada turėjo pasibaigti nurodyti pranešimo
+
+terminai.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1291, 1999 07 07, Žin., 1999, Nr.
+
+65-2086 (1999 07 28)
+
+11
+
+straipsnis. Laisvų darbo vietų registravimas
+
+Darbdaviai privalo registruoti laisvas darbo vietas
+
+darbo biržoje, o ši - viešai jas skelbti. Darbdaviai, pažeidę laisvų darbo
+
+vietų registravimo tvarką, darbo biržos sprendimu moka į Užimtumo fondą
+
+oficialiai skelbiamo ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio
+
+dydžio baudą už kiekvieną neregistruotą laisvą darbo vietą.
+
+Registravimo
+
+tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministerija.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
+
+18-457 (1996 02 28)
+
+III skyrius. GYVENTOJŲ UŽIMTUMO EKONOMINĖS PRIELAIDOS
 
