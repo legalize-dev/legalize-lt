@@ -4,7 +4,7 @@ identifier: "TAR.77795057FC99"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-04-29"
-last_updated: "1995-10-18"
+last_updated: "1996-12-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.77795057FC99"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 1995-10-18 iki 1996-12-03
+Įstatymas netenka galios 1998-01-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1360, 1996-06-04, Žin., 1996, Nr. 55-1295 (1996-06-12), i. k. 0961010ISTA00I-1360
+
+Lietuvos Respublikos muitinės kodekso įgyvendinimo įstatymas
+
+Suvestinė redakcija nuo 1996-12-04 iki 1997-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 88-0; Žin. 1993, Nr.15-376, i. k. 0931010ISTA000I-140
 
@@ -179,13 +187,15 @@ Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA0
 
 Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
 
-22 straipsnis.
+22 straipsnis. Tarptautiniuose oro uostuose, tarptautiniame jūrų uoste gali būti įsteigtos neapmuitinamos parduotuvės – muitinės prižiūrimos parduotuvės, kuriose vykstantys iš Lietuvos Respublikos į užsienį keleiviai gali įsigyti neapmokestintų importo ir eksporto muitais ir mokesčiais prekių. Į neapmuitinamas parduotuves pristatytomis importo ir eksporto muitais ir mokesčiais neapmokestintomis prekėmis taip pat gali būti prekiaujama Lietuvos Respublikoje įregistruotuose laivuose ir orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais.
 
-Tarptautiniuose aerouostuose, tarptautiniame jūrų uoste ir Lietuvos Respublikos valstybės sienos perėjimo punktuose gali būti įsteigtos neapmuitinamos parduotuvės – muitinės prižiūrimos parduotuvės, kuriose vykstantys iš Lietuvos Respublikos į užsienį keleiviai gali įsigyti neapmokestintų importo muitais ir mokesčiais prekių. Neapmuitinamų parduotuvių steigimo ir veiklos tvarką reglamentuoja įstatymas.
+Neapmuitinamų parduotuvių steigimo, veiklos priežiūros ir kontrolės tvarką reglamentuoja Lietuvos Respublikos neapmuitinamų parduotuvių įstatymas.
 
 Straipsnio pakeitimai:
 
 Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
+
+Nr. I-1618, 1996-11-14, Žin., 1996, Nr. 116-2693 (1996-12-04), i. k. 0961010ISTA00I-1618
 
 23 straipsnis. Lietuvos Respublikos Vyriausybės nustatyta tvarka gali būti steigiami muitinės sandėliai bei importo ir eksporto terminalai (laikinieji prekių saugojimo sandėliai).
 
@@ -232,6 +242,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
 
 Dėl Lietuvos Respublikos muitinės įstatymo pakeitimo ir papildymo
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1618, 1996-11-14, Žin., 1996, Nr. 116-2693 (1996-12-04), i. k. 0961010ISTA00I-1618
+
+Lietuvos Respublikos muitinės įstatymo 22 straipsnio pakeitimo įstatymas
 
 24 straipsnis. Lietuvos Respublikos muitinės įstatymas galioja iki 1993 m. gegužės 30 dienos. Po 1993 m. gegužės 30 d. Lietuvos Respublikos muitinės įstatymas galioja, jei finansų ministras įstatymo nustatyta tvarka patvirtins tarnybos muitinėje statutą ir muitinės taisykles.
 
