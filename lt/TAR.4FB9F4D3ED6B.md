@@ -4,7 +4,7 @@ identifier: "TAR.4FB9F4D3ED6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-05-08"
-last_updated: "2003-04-22"
+last_updated: "2003-07-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -608,13 +608,13 @@ licenciją (leidimą), suteikiančią teisę užsiimti tam tikra komercine-ūkin
 
 veikla, ar kitokį įstatymų numatytą leidimą, turi teisę gauti iš tos įmonės
 
-informaciją, reikalingą jos veiklos priežiūrai ir kontrolei vykdyti. Įmonė
+informaciją, reikalingą jos veiklos priežiūrai ir kontrolei vykdyti. Įmonė negali
 
-negali trukdyti priežiūrą ir kontrolę vykdančioms valstybės institucijoms (jų įgaliotiems
+trukdyti priežiūrą ir kontrolę vykdančioms valstybės institucijoms (jų
 
-pareigūnams) atlikti jų kompetencijai priskirtas priežiūros ir kontrolės
+įgaliotiems pareigūnams) atlikti jų kompetencijai priskirtas priežiūros ir
 
-funkcijas.
+kontrolės funkcijas.
 
 Straipsnio
 
@@ -810,261 +810,43 @@ kuria steigiama
 
 komanditinė (pasitikėjimo) ūkinė bendrija.
 
-10 straipsnis.
-
-Akcinė bendrovė, uždaroji akcinė bendrovė
-
-ir investicinė bendrovė
-
-Akcinė
-
-bendrovė,  uždaroji  akcinė  bendrovė  ir  investicinė
-
-bendrovė  yra
-
-ribotos  turtinės  atsakomybės  įmonės,  turinčios
-
-juridinio asmens
-
-teises, kurių įstatinis (nuosavas) kapitalas yra
-
-padalytas į dalis -
-
-akcijas.
-
-Akcininkai yra
-
-akcinės bendrovės, uždarosios akcinės bendrovės
-
-ar  investicinės
-
-bendrovės  nariai,  kuriais  tampama  įstatymų
-
-nustatyta tvarka
-
-įsigijus šių bendrovių akcijų. Akcininkais gali
-
-būti fiziniai
-
-asmenys, juridiniai  asmenys ar  valstybė  (vietos
-
-savivaldybė), kuriai
-
-atstovauja atitinkama valstybės institucija.
+10 straipsnis. Akcinė bendrovė ir uždaroji akcinė bendrovė Akcinė bendrovė ir uždaroji akcinė bendrovė yra ribotos turtinės atsakomybės įmonės, turinčios juridinio asmens teises, kurių įstatinis (nuosavas) kapitalas yra padalytas į dalis – akcijas. Akcininkai yra akcinės bendrovės ir uždarosios akcinės bendrovės nariai, kuriais tampama įstatymų nustatyta tvarka įsigijus šių bendrovių akcijų. Akcininkais gali būti fiziniai asmenys, juridiniai asmenys ar valstybė (vietos savivaldybė), kuriai atstovauja atitinkama valstybės institucija.
 
 Akcinės
 
-bendrovės,    uždarosios   akcinės    bendrovės   ir
+bendrovės ir uždarosios akcinės bendrovės steigimą, likvidavimą,
 
-investicinės
+reorganizavimą ir veiklą, akcininkų teises ir pareigas, santykius su
 
-bendrovės  steigimą, likvidavimą,  reorganizavimą ir
+akcininkais, kreditoriais ir su bendrovės veikla susijusius santykius taip pat
 
-veiklą, akcininkų
+reglamentuoja Lietuvos Respublikos civilinis kodeksas, Akcinių bendrovių
 
-teises ir  pareigas, santykius su akcininkais,
+įstatymas ir kiti norminiai aktai bei nustatyta tvarka įregistruoti atskiros
 
-kreditoriais ir su
-
-bendrovės veikla susijusius santykius taip pat
-
-reglamentuoja
-
-Lietuvos  Respublikos civilinis  kodeksas,  Akcinių
-
-bendrovių
-
-įstatymas,  Investicinių bendrovių  įstatymas  ir  kiti
-
-norminiai  aktai
-
-bei  nustatyta  tvarka  įregistruoti  atskiros
-
-akcinės bendrovės,
-
-uždarosios akcinės  bendrovės ar investicinės
-
-bendrovės įstatai.
+akcinės bendrovės ar uždarosios akcinės bendrovės įstatai.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. 1-529, 94.07.05,
+Nr.
 
-Žin., 1994, Nr. 55-1047 (94.07.20)
+I-529,
 
-Nr. 1-1015,
+94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
+
+Nr.
+
+I-1015,
 
 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
-11
+Nr.
 
-straipsnis.Valstybinė įmonė
+IX-1714,
 
-Valstybinė
-
-įmonė  valstybinės  nuosavybės  teise priklauso
-
-Lietuvos  valstybei
-
-arba  vietos  savivaldybei,  turi juridinio
-
-asmens  teises,
-
-yra  ribotos  turtinės  atsakomybės.   Valstybė
-
-(vietos  savivaldybė)
-
-neatsako  pagal  įmonės  prievoles, įmonė
-
-neatsako pagal
-
-valstybės (vietos savivaldybės) prievoles.
-
-Valstybinių
-
-įmonių   steigimą,  veiklą,   likvidavimą   ir
-
-reorganizavimą taip
-
-pat reglamentuoja  ir Lietuvos  Respublikos
-
-civilinis  kodeksas,
-
-Lietuvos  Respublikos  valstybinių  įmonių
-
-įstatymas  bei
-
-įstatymų  nustatyta   tvarka  patvirtinti    ir
-
-įregistruoti
-
-atskiros valstybinės įmonės įstatai.
-
-III skirsnis
-
-ĮMONIŲ ŪKINĖS VEIKLOS PAGRINDAI
-
-12
-
-straipsnis.Įmonės veiklos sfera
-
-Įmonė  turi
-
-teisę  užsiimti  bet  kokia  komercine-ūkine ar
-
-kitokia  veikla,
-
-nesuvaržyta  šiuo  ar kitais įstatymais, įmonės
-
-įstatais,  jos
-
-steigimo  sutartimi  ar  kitais  įmonės  steigimo
-
-dokumentais arba kitaip
-
-neuždrausta įstatymo nustatyta tvarka.
-
-Lietuvos
-
-Respublikoje  draudžiama steigti ir laikyti lošimo
-
-namus, organizuoti
-
-azartinius lošimus.
-
-Šio
-
-įstatymo   6  straipsnyje  nurodytoms  įmonėms  ir  jų
-
-junginiams
-
-draudžiama  verstis  kredito įstaigų veikla, taip pat
-
-draudžiama
-
-skolintis pinigų iš fizinių asmenų, išskyrus atvejus,
-
-kai  šios  įmonės ir
-
-jų junginiai kaupia skolintas lėšas Lietuvos
-
-Respublikos
-
-įstatymų  nustatyta  tvarka išleisdami ir platindami
-
-kredito
-
-vertybinius  popierius  -  obligacijas. Šiuo būdu kaupti
-
-skolintas  lėšas
-
-neleidžiama  tais  atvejais, kai atskirų įmonių
-
-rūšių  įstatymai
-
-draudžia išleisti kredito vertybinius popierius
-
-- obligacijas.
-
-Komercinės-ūkinės   veiklos   sritis,   kuriose   draudžiama
-
-užsienio  kilmės
-
-kapitalo investicija, nustato Užsienio kapitalo
-
-investicijų Lietuvos
-
-Respublikoje įstatymas.
-
-Laisvųjų
-
-ekonominių  zonų  įmonių  veiklos sritis, kuriose
-
-draudžiamos
-
-kapitalo  investicijos, nustato Lietuvos Respublikos
-
-laisvųjų ekonominių
-
-zonų pagrindų įstatymas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. 1-367, 94.01.11,
-
-Žin., 1994, Nr. 8-119 (94.01.28)
-
-Nr. 1-579, 94.07.21,
-
-Žin., 1994, Nr. 59-1163 (94.08.03)
-
-Nr. 1-763, 95.01.17,
-
-Žin., 1995, Nr. 10-207 (95.02.01)
-
-Nr. 1-1015,
-
-95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
-
-Nr. 1-1146,
-
-95.12.20, Žin., 1995, Nr. 107-2395 (95.12.30)
-
-Nr. 1-1156,
-
-95.12.21, Žin., 1996, Nr. 8-195 (96.01.26)
-
-Nr. 1-1252,
-
-96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
-
-Nr. 1-1552,
-
-96.09.25, Žin., 1996, Nr. 100-2267 (96.10.16)
+2003-07-04, Žin., 2003, Nr. 74-3429 (2003-07-25)
 
 17 straipsnis. Įmonės
 
@@ -1534,9 +1316,9 @@ rejestrą, ir įstatymo nustatyti kiti įmonės registravimo dokumentai.
 
 Sprendimas
 
-įregistruoti arba atsisakyti įregistruoti įmonę turi būti priimtas ne vėliau
+įregistruoti arba atsisakyti įregistruoti įmonę turi būti priimtas ne vėliau kaip
 
-kaip per 15 dienų nuo visų dokumentų, nurodytų šio straipsnio trečiojoje dalyje,
+per 15 dienų nuo visų dokumentų, nurodytų šio straipsnio trečiojoje dalyje,
 
 įteikimo. Apie įmonės įregistravimą ar išregistravimą skelbiama Lietuvos
 
@@ -1610,9 +1392,9 @@ teismą gali išieškoti nuostolius, atsiradusius dėl neteisėto atsisakymo
 
 įregistruoti įmonę.
 
-Šiame
+Šiame straipsnyje
 
-straipsnyje išdėstytos taisyklės taikomos taip pat ir įmonių perregistravimui.
+išdėstytos taisyklės taikomos taip pat ir įmonių perregistravimui.
 
 Straipsnio
 
@@ -1648,9 +1430,9 @@ savininko sprendimas nutraukti įmonės veiklą;
 
 arba kreditorių susirinkimo sprendimas pripažinti įmonę bankrutavusia;
 
-3) valstybės organų priimtas sprendimas
+3) valstybės organų priimtas sprendimas atšaukti
 
-atšaukti įmonės registravimą už teisės pažeidimus, nustatytus Lietuvos Respublikos
+įmonės registravimą už teisės pažeidimus, nustatytus Lietuvos Respublikos
 
 įstatymų, o laisvųjų ekonominių zonų įmonėms - ir Lietuvos Respublikos laisvųjų
 
@@ -1672,9 +1454,9 @@ administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas s
 
 tarp jų baudas ir delspinigius, pervesdama jas į atitinkamus biudžetus iki
 
-likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka ir gali sudaryti tik
+likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka ir gali sudaryti
 
-tokius sandorius, kurie neprieštarauja likviduojamos įmonės veiklą
+tik tokius sandorius, kurie neprieštarauja likviduojamos įmonės veiklą
 
 reglamentuojantiems įstatymams. Likviduojama įmonė turi būti perregistruojama.
 
@@ -1778,13 +1560,13 @@ kuris negali užsiimti komercine-ūkine veikla, tačiau jį įsteigusios įmonė
 
 vardu gali sudaryti sandorius pagal suteiktus įgaliojimus. Už atstovybės
 
-prievoles įmonė atsako visu savo turtu. Atstovybė nėra juridinis asmuo. Atstovybės
+prievoles įmonė atsako visu savo turtu. Atstovybė nėra juridinis asmuo.
 
-veiklą organizuoja ir vykdo atstovybės vadovas, kuris įgyja teisę atstovauti
+Atstovybės veiklą organizuoja ir vykdo atstovybės vadovas, kuris įgyja teisę
 
-atstovybei palaikant santykius su trečiaisiais asmenimis tik atstovybę
+atstovauti atstovybei palaikant santykius su trečiaisiais asmenimis tik
 
-įregistravus.
+atstovybę įregistravus.
 
 Filialo ir atstovybės pavadinime
 
@@ -1870,15 +1652,15 @@ sprendimus nutraukti filialo ar atstovybės veiklą, priėmęs tokį sprendimą,
 
 paskiria atsakingą asmenį veiklos nutraukimo procedūrai atlikti. Apie sprendimą
 
-nutraukti filialo ar atstovybės veiklą įmonė viešai skelbia vietos ir šalies
+nutraukti filialo ar atstovybės veiklą įmonė viešai skelbia vietos ir šalies spaudoje.
 
-spaudoje. Veiklos nutraukimo procedūra gali būti užbaigta ne anksčiau kaip po
+Veiklos nutraukimo procedūra gali būti užbaigta ne anksčiau kaip po 15 dienų
 
-15 dienų nuo paskelbimo. Atsakingas asmuo, užbaigęs filialo ar atstovybės
+nuo paskelbimo. Atsakingas asmuo, užbaigęs filialo ar atstovybės veiklos
 
-veiklos nutraukimo procedūrą, surašo veiklos nutraukimo aktą ir pateikia
+nutraukimo procedūrą, surašo veiklos nutraukimo aktą ir pateikia dokumentus,
 
-dokumentus, reikalingus filialui ar atstovybei išregistruoti.
+reikalingus filialui ar atstovybei išregistruoti.
 
 Filialas ir atstovybė išregistruojami iš Lietuvos
 
@@ -3610,27 +3392,27 @@ tvarka. Užsienio banko filialai (skyriai) ir atstovybės steigiami ir veikia
 
 pagal šį įstatymą, jei Komercinių bankų įstatymas nenustato ko kita.
 
-Užsienio valstybės įmonės filialas yra buveinę
+Užsienio valstybės įmonės filialas yra buveinę Lietuvoje
 
-Lietuvoje turintis užsienio valstybės įmonės padalinys, kuris gali užsiimti komercine-ūkine
+turintis užsienio valstybės įmonės padalinys, kuris gali užsiimti
 
-veikla, sudaryti sandorius bei prisiimti įsipareigojimus tik pagal jį
+komercine-ūkine veikla, sudaryti sandorius bei prisiimti įsipareigojimus tik
 
-įsteigusios įmonės suteiktus įgaliojimus. Už filialo prievoles užsienio
+pagal jį įsteigusios įmonės suteiktus įgaliojimus. Už filialo prievoles
 
-valstybės įmonė atsako visu savo turtu. Užsienio valstybės įmonės filialas nėra
+užsienio valstybės įmonė atsako visu savo turtu. Užsienio valstybės įmonės
 
-juridinis asmuo. Užsienio valstybės įmonės filialo veiklą organizuoja ir vykdo
+filialas nėra juridinis asmuo. Užsienio valstybės įmonės filialo veiklą
 
-užsienio valstybės įmonės filialo vadovas, kuris įgyja teisę atstovauti
+organizuoja ir vykdo užsienio valstybės įmonės filialo vadovas, kuris įgyja
 
-filialui palaikant santykius su trečiaisiais asmenims tik filialą įregistravus.
+teisę atstovauti filialui palaikant santykius su trečiaisiais asmenims tik
 
-Jeigu užsienio valstybės įmonės filialo vadovas sudarydamas sandorius viršija
+filialą įregistravus. Jeigu užsienio valstybės įmonės filialo vadovas
 
-jam suteiktus įgaliojimus, tai nepanaikina užsienio valstybės įmonės
+sudarydamas sandorius viršija jam suteiktus įgaliojimus, tai nepanaikina
 
-atsakomybės už šiuos sandorius.
+užsienio valstybės įmonės atsakomybės už šiuos sandorius.
 
 Užsienio
 
@@ -3796,9 +3578,9 @@ sprendimu už Lietuvos Respublikos įstatymų pažeidimus. Jų veiklos nutraukim
 
 procedūrai taikoma šio įstatymo 23 straipsnyje nustatyta įmonių likvidavimo
 
-tvarka. Apie sprendimą nutraukti filialo ir atstovybės veiklą viešai skelbiama
+tvarka. Apie sprendimą nutraukti filialo ir atstovybės veiklą viešai skelbiama vietos
 
-vietos ir šalies spaudoje.
+ir šalies spaudoje.
 
 Užsienio
 
@@ -3826,7 +3608,7 @@ Vilnius, 1990 m. gegužės 8 d.
 
 Nr. I-196
 
-_________
+________________
 
 Pakeitimai:
 
@@ -4508,7 +4290,7 @@ Nr. IX-253, 2001 04 17, Žin., 2001, Nr.
 
 Šis
 
-įstatymas įsigalioja nuo Azartinių lošimų įstatymo įsigaliojimo dienos, tai yra
+įstatymas įsigalioja nuo Azartinių lošimų įstatymo įsigaliojimo dienos, t. y.
 
 nuo 2001 m. liepos 1 d.
 
@@ -4546,13 +4328,27 @@ IX-1532,
 
 ĮSTATYMAS
 
+46.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1714,
+
+2003-07-04, Žin., 2003, Nr. 74-3429 (2003-07-25)
+
+ĮMONIŲ
+
+ĮSTATYMO 6 IR 10 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-05-21)
+Aušrinė Trapinskienė (2003-08-05)
 
 autrap@lrs.lt
 
@@ -4576,9 +4372,7 @@ veikti šios įmonės:
 
 (pasitikėjimo) ūkinės bendrijos;
 
-4) akcinės
-
-bendrovės, uždarosios akcinės bendrovės ir investicinės bendrovės;
+4) akcinės bendrovės, uždarosios akcinės bendrovės;
 
 5) valstybės
 
@@ -4634,6 +4428,12 @@ Nr. VIII-422,
 
 97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
 
+Nr.
+
+IX-1714,
+
+2003-07-04, Žin., 2003, Nr. 74-3429 (2003-07-25)
+
 7
 
 straipsnis.Individuali (personalinė) įmonė
@@ -4646,11 +4446,11 @@ fiziniams asmenims bendrosios jungtinės nuosavybės teise. Individualią
 
 (personalinę) įmonę nuosavybės teise gali turėti taip pat ir negamybinės
 
-organizacijos, turinčios juridinio asmens teises. Individuali (personalinė) įmonė
+organizacijos, turinčios juridinio asmens teises. Individuali (personalinė)
 
-neturi juridinio asmens teisių, jos turtas neatskirtas nuo įmonininko turto.
+įmonė neturi juridinio asmens teisių, jos turtas neatskirtas nuo įmonininko
 
-Pagal įmonės prievoles įmonininkas atsako visu savo turtu, taip pat ir po
+turto. Pagal įmonės prievoles įmonininkas atsako visu savo turtu, taip pat ir po
 
 įmonės likvidavimo.
 
@@ -4740,11 +4540,11 @@ dalinės nuosavybės teise. Komanditinė (pasitikėjimo) ūkinė bendrija nėra
 
 juridinis asmuo, jos turtas neatskirtas nuo bendrijos tikrųjų narių turto.
 
-Pagal komanditinės (pasitikėjimo) ūkinės bendrijos prievoles jos tikrieji nariai
+Pagal komanditinės (pasitikėjimo) ūkinės bendrijos prievoles jos tikrieji
 
-solidariai atsako visu savo turtu, taip pat ir po įmonės likvidavimo, o nariai
+nariai solidariai atsako visu savo turtu, taip pat ir po įmonės likvidavimo, o
 
-komanditoriai - tik ta savo turto dalimi, kurią pagal sutartį yra perdavę
+nariai komanditoriai - tik ta savo turto dalimi, kurią pagal sutartį yra perdavę
 
 bendrai komanditinės (pasitikėjimo) ūkinės bendrijos veiklai. Komanditinė
 
@@ -4783,56 +4583,6 @@ pakeitimai:
 Nr. VIII-1843, 00.07.13, Žin., 2000, Nr.
 
 64-1920 (00.07.31)
-
-10
-
-straipsnis. Akcinė bendrovė, uždaroji akcinė bendrovė ir investicinė bendrovė
-
-Akcinė bendrovė, uždaroji
-
-akcinė bendrovė ir investicinė bendrovė yra ribotos turtinės atsakomybės
-
-įmonės, turinčios juridinio asmens teises, kurių įstatinis (nuosavas) kapitalas
-
-yra padalytas į dalis - akcijas. Akcininkai yra akcinės bendrovės, uždarosios
-
-akcinės bendrovės ar investicinės bendrovės nariai, kuriais tampama įstatymų
-
-nustatyta tvarka įsigijus šių bendrovių akcijų. Akcininkais gali būti fiziniai
-
-asmenys, juridiniai asmenys ar valstybė (vietos savivaldybė), kuriai atstovauja
-
-atitinkama valstybės institucija. Akcinės bendrovės, uždarosios akcinės
-
-bendrovės ir investicinės bendrovės steigimą, likvidavimą, reorganizavimą ir
-
-veiklą, akcininkų teises ir pareigas, santykius su akcininkais, kreditoriais ir
-
-su bendrovės veikla susijusius santykius taip pat reglamentuoja Lietuvos
-
-Respublikos civilinis kodeksas, Akcinių bendrovių įstatymas, Investicinių
-
-bendrovių įstatymas ir kiti norminiai aktai bei nustatyta tvarka įregistruoti
-
-atskiros akcinės bendrovės, uždarosios akcinės bendrovės ar investicinės
-
-bendrovės įstatai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-529,
-
-94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
-
-Nr.
-
-I-1015,
-
-95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 
 18 straipsnis.Įmonės
 
