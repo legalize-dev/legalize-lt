@@ -4,7 +4,7 @@ identifier: "TAR.33A63C3E9D4C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-03-25"
-last_updated: "1994-07-08"
+last_updated: "1995-01-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.33A63C3E9D4C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymas
 
-Suvestinė redakcija nuo 1994-07-08 iki 1995-01-26
+Suvestinė redakcija nuo 1995-01-27 iki 1995-10-24
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 58-0; Žin. 1993, Nr.11-265, i. k. 0931010ISTA000I-108
 
@@ -34,9 +34,23 @@ Straipsnio pakeitimai:
 
 Nr. I-516, 1994-06-28, Žin., 1994, Nr. 51-952 (1994-07-08), i. k. 0941010ISTA000I-516
 
-4 straipsnis. Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo etatų skaičių ir darbo užmokesčio dydį tvirtina Seimo Pirmininkas pagal Švietimo, mokslo ir kultūros bei Biudžeto ir finansų komitetų teikimą.
+4 straipsnis. Valstybinėje lietuvių kalbos komisijoje prie Lietuvos Respublikos Seimo veikia Kalbos inspekcija, kurios uždavinys – kontroliuoti Valstybinės kalbos įstatymo bei Valstybinės lietuvių kalbos komisijos nutarimų įgyvendinimą.
 
-5 straipsnis. Pripažinti netekusiu galios Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1990 m. birželio 20 d. nutarimą „Dėl Valstybinės lietuvių kalbos komisijos sudarymo“ (Žin., 1990, Nr. 19-496).
+Papildyta straipsniu:
+
+Nr. I-746, 1995-01-12, Žin., 1995, Nr. 9-183 (1995-01-27), i. k. 0951010ISTA000I-746
+
+5 straipsnis. Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo ir šios komisijos Kalbos inspekcijos etatų skaičių ir darbo užmokesčio dydį tvirtina Seimo Pirmininkas pagal Švietimo, mokslo ir kultūros bei Biudžeto ir finansų komitetų teikimą.
+
+Straipsnio pakeitimai:
+
+Nr. I-746, 1995-01-12, Žin., 1995, Nr. 9-183 (1995-01-27), i. k. 0951010ISTA000I-746
+
+6 straipsnis. Pripažinti netekusiu galios Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1990 m. birželio 20 d. nutarimą „Dėl Valstybinės lietuvių kalbos komisijos sudarymo“ (Žin., 1990, Nr. 19-496).
+
+Straipsnio numeracijos pakeitimas:
+
+Nr. I-746, 1995-01-12, Žin., 1995, Nr. 9-183 (1995-01-27), i. k. 0951010ISTA000I-746
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -55,4 +69,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-516, 1994-06-28, Žin., 1994, Nr. 51-952 (1994-07-08), i. k. 0941010ISTA000I-516
 
 Dėl Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo pakeitimo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-746, 1995-01-12, Žin., 1995, Nr. 9-183 (1995-01-27), i. k. 0951010ISTA000I-746
+
+Dėl Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo ir pakeitimo
 
