@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2004-11-04"
+last_updated: "2004-12-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -1853,7 +1853,7 @@ Nr. IX-2351,
 
 17 straipsnis. Su valstybės tarnautojo pareigomis nesuderinama veikla
 
-Valstybės tarnautojui neleidžiama:
+*Valstybės tarnautojui neleidžiama:
 
 1)
 
@@ -1921,7 +1921,7 @@ institucijose ar įstaigose pagal šio Įstatymo 19 straipsnio 2 dalį perkeltam
 
 valstybės tarnautojui;
 
-4) dirbti samdomu darbuotoju, patarėju, ekspertu ar konsultantu
+*4) dirbti samdomu darbuotoju, patarėju, ekspertu ar konsultantu
 
 privačiuosiuose juridiniuose asmenyse, valstybės ar savivaldybės įmonėse,
 
@@ -1963,19 +1963,57 @@ darbo sutartį dirbančio darbuotojo pareigas, bet ne daugiau negu pusę visos
 
 pareigybės darbo laiko.
 
+*Pastaba. Lietuvos Respublikos valstybės
+
+tarnybos įstatymo 17 straipsnio (2004 m. liepos 13 d. redakcija) nuostata
+
+„Valstybės tarnautojui neleidžiama: <...> 4) dirbti samdomu
+
+darbuotoju, patarėju, ekspertu ar konsultantu privačiuosiuose juridiniuose
+
+asmenyse, valstybės ar savivaldybės įmonėse, viešosiose įstaigose, taip pat
+
+gauti kitą negu šio Įstatymo nustatytą darbo užmokestį, išskyrus atlyginimą už
+
+darbą visų lygių rinkimų, referendumo komisijose bei už darbą pagal sutartis su
+
+rinkimų arba referendumo komisijomis, už mokslinį ir pedagoginį darbą
+
+aukštosiose mokyklose ar valstybės tarnautojų kvalifikacijos tobulinimo
+
+įstaigose, už neformalųjį suaugusiųjų švietimą, už teisės aktų projektų rengimą
+
+(jei ši funkcija nenurodyta valstybės tarnautojo pareigybės aprašyme), kai jis
+
+Seimo nutarimu ar Seimo valdybos sprendimu, Seimo Pirmininko potvarkiu,
+
+Respublikos Prezidento dekretu, Vyriausybės nutarimu ar Ministro Pirmininko
+
+potvarkiu paskiriamas rengti teisės aktų projektus, taip pat išskyrus autorinį
+
+atlyginimą už kūrinius, kurie yra intelektinės nuosavybės teisių objektai
+
+<...>“ prieštarauja Lietuvos Respublikos Konstitucijos 48 straipsnio 1
+
+daliai, konstituciniam teisinės valstybės principui.
+
 Straipsnio pakeitimai:
 
-Nr. IX-1197, 2002-11-12,
+Nr. IX-1197,
 
-Žin., 2002, Nr. 116-5192 (2002-12-06)
+2002-11-12, Žin., 2002, Nr. 116-5192 (2002-12-06)
 
 Nr. IX-1747,
 
 2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
 
-Nr. IX-2351, 2004-07-13,
+Nr. IX-2351,
 
-Žin., 2004, Nr. 116-4323 (2004-07-27)
+2004-07-13, Žin., 2004, Nr. 116-4323 (2004-07-27)
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2004-12-13, Žin., 2004, Nr. 181-6708 (2004-12-18)
 
 V SKYRIUS
 
@@ -2195,9 +2233,9 @@ karjeros valstybės tarnautojų pareigos, jeigu jie to prašo.
 
 atitinka pareigybės aprašyme nustatytus specialius reikalavimus.
 
-21 straipsnis. Valstybės
+21 straipsnis. Valstybės tarnautojų
 
-tarnautojų kvalifikacinės klasės
+kvalifikacinės klasės
 
 1. Valstybės tarnautojų kvalifikacinės klasės yra trys;
 
@@ -2289,7 +2327,7 @@ pareiginės algos, už pirmą kvalifikacinę klasę – 50 procentų
 
 pareiginės algos.
 
-4. (Neteko galios nuo 2004 m. liepos 27 d.)
+4. (Neteko galios)
 
 5. Šio straipsnio 1 dalies 2 punkte nurodytas priedas
 
@@ -2491,9 +2529,9 @@ ir įstaigos autoritetą;
 
 8)
 
-kiti nusižengimai, kuriais šiurkščiai nusižengiama valstybės tarnautojo pareigoms
+kiti nusižengimai, kuriais šiurkščiai nusižengiama valstybės tarnautojo
 
-ar valstybės tarnautojo etikos principams.
+pareigoms ar valstybės tarnautojo etikos principams.
 
 Straipsnio
 
@@ -2515,27 +2553,25 @@ komandiruotėje arba atostogavo, o iškėlus baudžiamąją bylą arba atliekant
 
 tarnybinį ar kitą kompetentingos institucijos patikrinimą – ne vėliau kaip per
 
-du mėnesius nuo baudžiamosios bylos nutraukimo arba teismo nuosprendžio
+du mėnesius nuo baudžiamosios bylos nutraukimo arba teismo nuosprendžio įsiteisėjimo
 
-įsiteisėjimo dienos, tarnybinio ar kito kompetentingos institucijos patikrinimo
+dienos, tarnybinio ar kito kompetentingos institucijos patikrinimo užbaigimo
 
-užbaigimo dienos. Tarnybinio nusižengimo tyrimas pradedamas valstybės
+dienos. Tarnybinio nusižengimo tyrimas pradedamas valstybės tarnautoją į
 
-tarnautoją į pareigas priėmusio asmens iniciatyva arba kai jis gauna
+pareigas priėmusio asmens iniciatyva arba kai jis gauna oficialią
 
-oficialią informaciją apie valstybės tarnautojo tarnybinį nusižengimą. Negalima
+informaciją apie valstybės tarnautojo tarnybinį nusižengimą. Negalima skirti
 
-skirti tarnybinės nuobaudos, jei praėjo 6 mėnesiai nuo nusižengimo padarymo
+tarnybinės nuobaudos, jei praėjo 6 mėnesiai nuo nusižengimo padarymo dienos,
 
-dienos, išskyrus atvejus, kai tarnybinis nusižengimas nustatomas atliekant
+išskyrus atvejus, kai tarnybinis nusižengimas nustatomas atliekant auditą,
 
-auditą, piniginių ar kitokių vertybių reviziją (inventorizaciją) arba tarnybinį
+piniginių ar kitokių vertybių reviziją (inventorizaciją) arba tarnybinį ar kitą
 
-ar kitą kompetentingos institucijos patikrinimą. Šiais atvejais drausminė
+kompetentingos institucijos patikrinimą. Šiais atvejais drausminė nuobauda turi
 
-nuobauda turi būti skiriama ne vėliau kaip per trejus metus nuo nusižengimo
-
-padarymo dienos.
+būti skiriama ne vėliau kaip per trejus metus nuo nusižengimo padarymo dienos.
 
 2. (Neteko galios)
 
@@ -2559,9 +2595,9 @@ tyrimas tęsiamas ir tarnybinė nuobauda turi būti paskirta šio straipsnio
 
 1 dalyje nustatyta tvarka ir terminais.
 
-5. Tarnybines nuobaudas skiria valstybės tarnautoją į pareigas
+5. Tarnybines nuobaudas skiria valstybės tarnautoją į
 
-priėmęs asmuo.
+pareigas priėmęs asmuo.
 
 6. Sprendimas dėl tarnybinės nuobaudos paskyrimo gali būti
 
@@ -2907,11 +2943,11 @@ moka valstybės ar savivaldybės institucija ar įstaiga, į kurią perkeltas
 
 valstybės tarnautojas. Persikėlimo išlaidas, susidariusias dėl šio Įstatymo 19
 
-straipsnio 1 dalyje nustatyto perkėlimo, moka valstybės ar savivaldybės
+straipsnio 1 dalyje nustatyto perkėlimo, moka valstybės ar savivaldybės institucija
 
-institucija ar įstaiga, iš kurios perkeliamas valstybės tarnautojas.
+ar įstaiga, iš kurios perkeliamas valstybės tarnautojas. Persikėlimo išlaidos
 
-Persikėlimo išlaidos mokamos Vyriausybės nustatyta tvarka.
+mokamos Vyriausybės nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -2961,9 +2997,9 @@ ir Sveikatos draudimo įstatymo nustatyta tvarka bei sąlygomis.
 
 2. Valstybės tarnautojams skiriama ir mokama valstybinė
 
-socialinio draudimo pensija pagal Valstybinių socialinio draudimo
+socialinio draudimo pensija pagal Valstybinių socialinio draudimo pensijų
 
-pensijų įstatymą.
+įstatymą.
 
 3 dalies redakcija iki 2005 m. sausio 1
 
@@ -2997,19 +3033,21 @@ Valstybinio socialinio pensijų draudimo įmokos už Lietuvos Respublikos
 
 diplomatinėje atstovybėje, konsulinėje įstaigoje ir Lietuvos Respublikos
 
-atstovybėje prie tarptautinės organizacijos užsienyje einančio pareigas valstybės
+atstovybėje prie tarptautinės organizacijos užsienyje einančio pareigas
 
-tarnautojo sutuoktinį tuo laikotarpiu, kurį jis gyveno užsienyje kartu su
+valstybės tarnautojo sutuoktinį tuo laikotarpiu, kurį jis gyveno užsienyje
 
-pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje
+kartu su pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje
 
-ar Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos einančiu
+įstaigoje ar Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos
 
-valstybės tarnautoju, mokamos Valstybinio socialinio draudimo bei kitų įstatymų
+einančiu valstybės tarnautoju, mokamos Valstybinio socialinio draudimo bei kitų
 
-ar teisės aktų nustatyta tvarka ir sąlygomis. Ši norma netaikoma valstybės
+įstatymų ar teisės aktų nustatyta tvarka ir sąlygomis. Ši norma netaikoma
 
-tarnautojo sutuoktiniui įsidarbinus arba sukakus senatvės pensijos amžių.
+valstybės tarnautojo sutuoktiniui įsidarbinus arba sukakus senatvės pensijos
+
+amžių.
 
 4.
 
@@ -3019,15 +3057,15 @@ Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje einančiu
 
 valstybės tarnautoju, įskaitomas į valstybės tarnautojo sutuoktinio valstybinio
 
-socialinio draudimo stažą, jeigu už tą laikotarpį buvo mokėtos nustatytos Lietuvos
+socialinio draudimo stažą, jeigu už tą laikotarpį buvo mokėtos nustatytos
 
-Respublikos valstybinio socialinio draudimo įmokos.
+Lietuvos Respublikos valstybinio socialinio draudimo įmokos.
 
 Straipsnio pakeitimai:
 
-Nr. IX-2536,
+Nr. IX-2536, 2004-11-04,
 
-2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
+Žin., 2004, Nr. 171-6296 (2004-11-26)
 
 41 straipsnis. Išeitinės išmokos ir kompensacijos
 
@@ -3051,17 +3089,19 @@ pareigų valstybės tarnautojui išmokama iki pareigybės panaikinimo jo gauto
 
 vidutinio darbo užmokesčio dydžio išeitinė išmoka, atsižvelgiant į
 
-valstybės tarnautojo tarnybos valstybės ar savivaldybės institucijoje ar įstaigoje
+valstybės tarnautojo tarnybos valstybės ar savivaldybės institucijoje ar
 
-stažą (į tarnybos stažą valstybės ar savivaldybės institucijoje ar
+įstaigoje stažą (į tarnybos stažą valstybės ar savivaldybės
 
-įstaigoje taip pat įskaitomas laikas, kurį valstybės tarnautojas šio
+institucijoje ar įstaigoje taip pat įskaitomas laikas, kurį valstybės
 
-Įstatymo 18, 19 ir 20 straipsniuose nustatytais atvejais buvo perkeltas į kitas
+tarnautojas šio Įstatymo 18, 19 ir 20 straipsniuose nustatytais atvejais buvo
 
-pareigas, taip pat 43 straipsnio 1 dalyje nustatytais atvejais, kai valstybės
+perkeltas į kitas pareigas, taip pat 43 straipsnio 1 dalyje nustatytais
 
-tarnautojas iki pareigybės panaikinimo buvo perkeltas į kitas pareigas):
+atvejais, kai valstybės tarnautojas iki pareigybės panaikinimo buvo perkeltas į
+
+kitas pareigas):
 
 1) iki penkerių metų – 2 mėnesių;
 
@@ -3125,21 +3165,21 @@ Nr. IX-1747,
 
 1. Pagal šį Įstatymą tarnybos stažą sudaro Lietuvos
 
-valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas,
+valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo
 
-įskaitant šio Įstatymo 4 straipsnio 3 ir 4 dalyse, 5 dalies 1–4 punktuose
+pareigas, įskaitant šio Įstatymo 4 straipsnio 3 ir 4 dalyse, 5 dalies 1–4
 
-nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo meru ir
+punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie
 
-mero pavaduotoju), metų skaičius. Tarnybos stažas skaičiuojamas nuo valstybės
+nebuvo meru ir mero pavaduotoju), metų skaičius. Tarnybos stažas skaičiuojamas
 
-tarnautojo tarnybos (darbo) valstybės ir savivaldybių institucijose ir
+nuo valstybės tarnautojo tarnybos (darbo) valstybės ir savivaldybių
 
-įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas valstybės
+institucijose ir įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas
 
-tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos (darbo) ne
+valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos
 
-vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir
+(darbo) ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir
 
 savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos stažą taip
 
@@ -3243,9 +3283,9 @@ valstybės tarnautojo šeimai, pilnamečiui vaikui (vaikams), įvaikiui
 
 (įvaikiams), tėvams (įtėviams) išmokama 1 mėnesio jo gauto vidutinio darbo
 
-užmokesčio dydžio pašalpa. Šios pašalpos mokamos neatsižvelgiant į kitų įstatymų
+užmokesčio dydžio pašalpa. Šios pašalpos mokamos neatsižvelgiant į kitų
 
-nustatytas ir išmokėtas laidojimo pašalpas.
+įstatymų nustatytas ir išmokėtas laidojimo pašalpas.
 
 4. Valstybės tarnautojams yra
 
@@ -3341,9 +3381,9 @@ išmokas už komandiruotės išlaidas.
 
 mėnesiai, valstybės tarnyba gali būti pratęsta. Šio amžiaus sukakusio valstybės
 
-tarnautojo tarnybą gali pratęsti jį į pareigas priėmęs asmuo. Apie būsimą tarnybos
+tarnautojo tarnybą gali pratęsti jį į pareigas priėmęs asmuo. Apie būsimą
 
-pratęsimą jis privalo pranešti valstybės tarnybos tvarkymo funkciją
+tarnybos pratęsimą jis privalo pranešti valstybės tarnybos tvarkymo funkciją
 
 atliekančiai įstaigai ne vėliau kaip prieš 10 kalendorinių dienų iki tarnybos
 
@@ -3377,11 +3417,9 @@ savivaldybių institucijos ar įstaigos siunčia į užsienio komandiruotę,
 
 apdraudžiami draudimu nuo nelaimingų atsitikimų ir draudimu ligos atvejui.
 
-Draudimo išlaidas apmoka valstybės tarnautoją į užsienio komandiruotę
+Draudimo išlaidas apmoka valstybės tarnautoją į užsienio komandiruotę siunčianti
 
-siunčianti valstybės ar savivaldybės institucija ar įstaiga iš savo
-
-biudžeto lėšų.
+valstybės ar savivaldybės institucija ar įstaiga iš savo biudžeto lėšų.
 
 11.
 
@@ -3529,17 +3567,17 @@ politiko įgaliojimų dieną ar naujai sudarytos kolegialios valstybės
 
 institucijos pirmajame posėdyje.
 
-3. Ketinantis atsistatydinti savo noru valstybės
+3. Ketinantis atsistatydinti savo noru valstybės tarnautojas
 
-tarnautojas privalo apie atsistatydinimą įspėti jį į pareigas priėmusį asmenį
+privalo apie atsistatydinimą įspėti jį į pareigas priėmusį asmenį ne vėliau
 
-ne vėliau kaip prieš 14 kalendorinių dienų.
+kaip prieš 14 kalendorinių dienų.
 
 4. Valstybės tarnautojas negali būti iš pareigų atleistas
 
-laikino nedarbingumo laikotarpiu ir atostogų metu, išskyrus šio straipsnio 1
+laikino nedarbingumo laikotarpiu ir atostogų metu, išskyrus šio straipsnio 1 dalies
 
-dalies 1, 6, 8, 13, 14 ir 16 punktuose ir 2 dalyje nurodytus atvejus.
+1, 6, 8, 13, 14 ir 16 punktuose ir 2 dalyje nurodytus atvejus.
 
 5. Nėščia valstybės tarnautoja, taip pat valstybės tarnautojas
 
@@ -3547,9 +3585,9 @@ vaiko (vaikų) iki trejų metų priežiūros atostogų metu negali būti
 
 atleisti iš pareigų šio straipsnio 1 dalies 4, 9 (išskyrus atvejus, kai
 
-valstybės ar savivaldybės institucija ar įstaiga likviduojama), 10, 12, 13 ir 15
+valstybės ar savivaldybės institucija ar įstaiga likviduojama), 10, 12, 13 ir
 
-punktuose nurodytais pagrindais.
+15 punktuose nurodytais pagrindais.
 
 6. Ginčai dėl valstybės tarnautojo atleidimo iš pareigų
 
@@ -3567,9 +3605,9 @@ IX-1426,
 
 2003-04-03, Žin., 2003, Nr. 38-1671 (2003-04-24)
 
-Nr. IX-1747, 2003-10-07,
+Nr. IX-1747,
 
-Žin., 2003, Nr. 101-4534 (2003-10-29)
+2003-10-07, Žin., 2003, Nr. 101-4534 (2003-10-29)
 
 Nr.
 
@@ -3579,9 +3617,9 @@ IX-1856,
 
 Nr.
 
-IX-1926, 2003-12-18,
+IX-1926,
 
-Žin., 2004, Nr. 4-32 (2004-01-07)
+2003-12-18, Žin., 2004, Nr. 4-32 (2004-01-07)
 
 Nr.
 
@@ -3735,7 +3773,9 @@ nustatytas valstybės tarnybos bendrojo valdymo funkcijas.
 
 3. Vidaus reikalų ministras:
 
-1) teikia Vyriausybei su valstybės tarnyba susijusių teisės aktų projektus;
+1) teikia Vyriausybei su valstybės tarnyba susijusių teisės aktų
+
+projektus;
 
 2) koordinuoja šio Įstatymo ir su juo susijusių teisės
 
@@ -3763,9 +3803,9 @@ nustatytas valstybės tarnybos bendrojo valdymo funkcijas.
 
 3) rengia su valstybės tarnyba susijusių teisės aktų projektus;
 
-4) užtikrina vientisą valstybės tarnybos personalo valdymo ir valstybės
+4) užtikrina vientisą valstybės tarnybos personalo valdymo ir valstybės tarnautojų
 
-tarnautojų karjeros planavimo sistemą;
+karjeros planavimo sistemą;
 
 5) tvirtina valstybės tarnautojų mokymo programas;
 
@@ -4025,9 +4065,9 @@ Nr. IX-37, 2000 11 21, Žin., 2000, Nr.
 
 102-3213 (2000 11 29)
 
-VALSTYBĖS TARNYBOS ĮSTATYMO 7, 17, 21, 33, 43, 50, 55, 56, 62, 66, 69,
+VALSTYBĖS TARNYBOS ĮSTATYMO 7, 17, 21, 33, 43, 50, 55, 56, 62, 66, 69, 71,
 
-71, 76, 78 STRAIPSNIŲ IR 1 BEI 2 PRIEDĖLIŲ PAKEITIMO ĮSTATYMAS
+76, 78 STRAIPSNIŲ IR 1 BEI 2 PRIEDĖLIŲ PAKEITIMO ĮSTATYMAS
 
 5.
 
@@ -4043,9 +4083,9 @@ PAKEITIMO ĮSTATYMAS
 
 6.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
 Nr. IX-129, 2000 12 21, Žin., 2000, Nr.
 
@@ -4083,11 +4123,9 @@ Nr. IX-247, 2001 04 12, Žin., 2001, Nr.
 
 VALSTYBĖS TARNYBOS ĮSTATYMO 4, 10, 11, 12, 13, 14, 16, 17, 18, 21, 26,
 
-29, 31, 43, 44, 50, 55, 56, 59, 65, 67, 68, 69, 77, 78, 79 STRAIPSNIŲ IR 2
+29, 31, 43, 44, 50, 55, 56, 59, 65, 67, 68, 69, 77, 78, 79 STRAIPSNIŲ IR 2 PRIEDĖLIO
 
-PRIEDĖLIO PAKEITIMO IR PAPILDYMO BEI 76 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
-
-ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO BEI 76 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
 9.
 
@@ -4373,9 +4411,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1926,
+Nr. IX-1926, 2003-12-18,
 
-2003-12-18, Žin., 2004, Nr. 4-32 (2004-01-07)
+Žin., 2004, Nr. 4-32 (2004-01-07)
 
 VALSTYBĖS
 
@@ -4477,9 +4515,33 @@ TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Pabaiga ***
 
+Konstitucinio
+
+Teismo nutarimai:
+
+1.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2004-12-13,
+
+Žin., 2004, Nr. 181-6708 (2004-12-18)
+
+DĖL
+
+KAI KURIŲ TEISĖS AKTŲ, KURIAIS REGULIUOJAMI VALSTYBĖS TARNYBOS IR SU JA SUSIJĘ
+
+SANTYKIAI, ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR ĮSTATYMAMS
+
+***
+
+Pabaiga ***
+
 Redagavo:
 
-Aušrinė Trapinskienė (2004-11-30)
+Aušrinė Trapinskienė (2004-12-22)
 
 autrap@lrs.lt
 
