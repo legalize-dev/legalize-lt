@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2004-11-04"
+last_updated: "2004-11-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -39,7 +39,7 @@ Nauja įstatymo redakcija nuo 2004 m.
 
 sausio 1 d. (29
 
-straipsnis įsigalioja nuo 2005 m. sausio 1 d.):
+straipsnis įsigalioja nuo 2006 m. sausio 1 d.):
 
 Nr.
 
@@ -2537,41 +2537,23 @@ nelaimingų atsitikimų darbe ir profesinių ligų prevencijai, panaudojimo tvar
 
 nustato Vyriausybė.
 
-29 straipsnis. Nelaimingų atsitikimų darbe socialinio draudimo įmokų
+*29 straipsnis. Nelaimingų atsitikimų darbe socialinio draudimo įmokų tarifai
 
-tarifai
+Nelaimingų
 
-1. Nelaimingų
+atsitikimų darbe socialinio draudimo įmokų tarifų grupių skaičius ir grupių
 
-atsitikimų darbe socialinio draudimo įmokų tarifai diferencijuojami
+tarifai tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių
 
-atsižvelgiant į draudėjo ekonominės veiklos rūšies profesinės rizikos laipsnio
+patvirtinimo įstatymu. Draudėjų priskyrimą nelaimingų atsitikimų darbe
 
-bei kiekvieno draudėjo traumatizmo ir profesinio sergamumo rodiklius.
+socialinio draudimo įmokų tarifų grupei, atsižvelgdama į traumatizmo ir
 
-Nelaimingų atsitikimų darbe socialinio draudimo įmokų dydžių taikymo kiekvienam
+profesinio sergamumo rodiklius ir vadovaudamasi Vyriausybės ar jos įgaliotos
 
-draudėjui tvarką tvirtina Vyriausybė. Nelaimingų atsitikimų darbe socialinio
+institucijos patvirtinta metodika, tvirtina Valstybinio socialinio draudimo
 
-draudimo įmokų tarifų grupių skaičius ir kiekvienos grupės tarifas tvirtinami
-
-Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
-
-2. Kiekvieno
-
-draudėjo priskyrimą konkrečiai grupei tvirtina Valstybinio socialinio draudimo
-
-fondo taryba, atsižvelgdama į kiekvienam draudėjui apskaičiuotus rizikingumo
-
-rodiklius ir vadovaudamasi Vyriausybės patvirtinta tvarka (šio straipsnio 3
-
-dalis).
-
-3. Nelaimingų
-
-atsitikimų darbe socialiniam draudimui nustatyto įmokų tarifo diferencijavimo ir
-
-įmokų tarifo dydžių taikymo draudėjams tvarką tvirtina Vyriausybė.
+fondo taryba.
 
 30 straipsnis. Valstybinio socialinio draudimo įmokų mokėjimo tvarka
 
@@ -2587,11 +2569,11 @@ tvarka kartu su kitomis valstybinio socialinio draudimo įmokomis.
 
 2. Valstybinio
 
-socialinio draudimo įmokos už apdraustuosius, nurodytus šio Įstatymo 4
+socialinio draudimo įmokos už apdraustuosius, nurodytus šio Įstatymo 4 straipsnio
 
-straipsnio 1 dalies 3–5 punktuose, mokamos už tuos laikotarpius, kai jiems už
+1 dalies 3–5 punktuose, mokamos už tuos laikotarpius, kai jiems už darbą mokamas
 
-darbą mokamas darbo užmokestis.
+darbo užmokestis.
 
 31 straipsnis.
 
@@ -3031,9 +3013,9 @@ NELAIMINGŲ
 
 ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO IR ŽALOS
 
-ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO
+ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
 
-ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+LAIKINOJO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 9.
 
