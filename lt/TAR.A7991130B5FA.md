@@ -4,7 +4,7 @@ identifier: "TAR.A7991130B5FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-07-04"
-last_updated: "1996-12-31"
+last_updated: "1997-04-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7991130B5FA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Po 1997 m. gruodžio 1 d. lieka galioti objektų p
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1996-12-31 iki 1997-04-08
+Suvestinė redakcija nuo 1997-04-09 iki 1997-07-03
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1530, i. k. 0951010ISTA00I-1001
 
@@ -108,7 +108,11 @@ II SKIRSNIS. PRIVATIZAVIMO INSTITUCIJOS
 
 1. Privatizavimo komisija yra laikina valstybės valdymo institucija, veikianti pagal šį įstatymą bei Lietuvos Respublikos Vyriausybės patvirtintus nuostatus, suformuota tik šio įstatymo uždaviniams įgyvendinti. Įgyvendinus šiuos uždavinius, privatizavimo komisijos veikla Lietuvos Respublikos Vyriausybės nutarimu gali būti nutraukta ar ši komisija pertvarkyta. Lietuvos Respublikos Vyriausybė gali priimti nutarimus, reglamentuojančius atskiras privatizavimo komisijos veiklos sritis tik šio ar kitų įstatymų numatytais atvejais. Privatizavimo komisija yra atskaitinga Lietuvos Respublikos Vyriausybei.
 
-2. Privatizavimo komisiją sudaro 13 narių – 11 narių teikia Ministras Pirmininkas ir 2 narius teikia Lietuvos savivaldybių asociacija. Į narių sąrašą įeina Finansų, Teisingumo ministerijų ir ministerijų, kurios vykdo įmonės steigėjo funkcijas, ministrai, ministerijų sekretoriai, Privatizavimo agentūros direktorius ar kiti įgalioti valstybės valdžios ir valdymo institucijų valdininkai. Privatizavimo komisijos pirmininką bei jos narius skiria ir atleidžia Lietuvos Respublikos Seimas Ministro Pirmininko teikimu.
+2. Privatizavimo komisiją sudaro 13 narių – 11 narių teikia Ministras Pirmininkas ir 2 narius teikia Lietuvos savivaldybių asociacija. Į narių sąrašą įeina Finansų, Teisingumo ministerijų ir ministerijų, kurios vykdo įmonės steigėjo funkcijas, atstovai, Privatizavimo agentūros direktorius ar kiti įgalioti valstybės valdžios ir valdymo institucijų valdininkai. Privatizavimo komisijos pirmininką bei jos narius skiria ir atleidžia Lietuvos Respublikos Seimas Ministro Pirmininko teikimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-154, 1997-03-25, Žin., 1997, Nr. 30-710 (1997-04-09), i. k. 0971010ISTAVIII-154
 
 3. Privatizavimo komisija turi teisę:
 
@@ -473,4 +477,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-58, 1996-12-23, Žin., 1996, Nr. 126-2945 (1996-12-31), i. k. 0961010ISTA0VIII-58
 
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 1 ir 2 straipsnių papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-154, 1997-03-25, Žin., 1997, Nr. 30-710 (1997-04-09), i. k. 0971010ISTAVIII-154
+
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 4 straipsnio pakeitimo įstatymas
 
