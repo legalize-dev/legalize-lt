@@ -4,7 +4,7 @@ identifier: "TAR.8DDDD8D87491"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "1998-01-01"
+last_updated: "2000-07-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
+
+Suvestinė redakcija nuo 2000-07-26 iki 2001-12-31
+
+Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
 
 LIETUVOS RESPUBLIKOS
 
@@ -115,7 +119,11 @@ Pavojingi gyvūnai gali būti laikomi ir auginami tik pagal taisykles, kurias nu
 
 7 straipsnis. Gyvūnų vežimas
 
-1. Gyvūnai turi būti vežami laikantis vežimo taisyklių, kurias tvirtina Žemės ir miškų ūkio ministerija kartu su Valstybine veterinarijos tarnyba.
+1. Gyvūnai turi būti vežami laikantis vežimo taisyklių, kurias tvirtina Žemės ūkio ministerija kartu su Valstybine maisto ir veterinarijos tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
 
 2. Gyvūnus galima vežti tik specialiai paruoštu transportu (laivais, lėktuvais, automobiliais), kad transportavimo metu gyvūnai nebūtų žalojami ir nepatirtų streso. Ilgesnio vežimo metu gyvūnai turi būti reguliariai maitinami ir girdomi.
 
@@ -135,19 +143,31 @@ Prekiauti naminiais ir dekoratyviniais gyvūnais leidžiama savivaldos instituci
 
 9 straipsnis. Gyvūnų skerdimas
 
-1. Skerdyklose gyvūnai turi būti apsvaiginami ir skerdžiami Valstybinės veterinarijos tarnybos patvirtintais būdais ir konkrečiai gyvūnų rūšiai pritaikytais instrumentais.
+1. Skerdyklose gyvūnai turi būti apsvaiginami ir skerdžiami Valstybinės maisto ir veterinarijos tarnybos patvirtintais būdais ir konkrečiai gyvūnų rūšiai pritaikytais instrumentais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
 
 2. Gyvūnus apsvaiginti ir skersti skerdyklose turi teisę tik veterinarijos specialistų apmokyti asmenys.
 
 3. Ūkinės paskirties gyvūnų laikymo, šėrimo ir girdymo iki skerdimo, skerdimo taisykles tvirtina Vyriausybės įgaliota institucija.
 
-4. Skersti gyvūnus pagal religinius ritualus be išankstinio apsvaiginimo leidžiama turint veterinarijos tarnybos išduotą leidimą.
+4. Skersti gyvūnus pagal religinius ritualus be išankstinio apsvaiginimo leidžiama tik turint Valstybinės maisto ir veterinarijos tarnybos leidimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
 
 10 straipsnis. Gyvūnų gydymas
 
 1. Operuoti ir gydyti gyvūnus turi teisę veterinarijos gydytojai ir specialiai apmokyti asmenys.
 
-2. Apmokyti ir išduoti leidimus operuoti gyvūnus turi teisę tik veterinarijos tarnyba. Operacijų, kurias leidžiama atlikti specialiai apmokytiems asmenims, sąrašus tvirtina Valstybinė veterinarijos tarnyba.
+2. Apmokyti ir išduoti leidimus operuoti gyvūnus turi teisę tik veterinarijos tarnyba. Operacijų, kurias leidžiama atlikti specialiai apmokytiems asmenims, sąrašus tvirtina Valstybinė maisto ir veterinarijos tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
 
 3. Visos skausmą sukeliančios operacijos atliekamos tik nuskausminus.
 
@@ -159,17 +179,29 @@ Prekiauti naminiais ir dekoratyviniais gyvūnais leidžiama savivaldos instituci
 
 12 straipsnis. Laukinių gyvūnų gaudymas, laikymas ir jaukinimas
 
-1. Juridiniai ir fiziniai asmenys gali gaudyti, laikyti ir jaukinti laukinius gyvūnus tik gavę Aplinkos apsaugos ministerijos leidimą ir laikydamiesi jos nustatytos tvarkos.
+1. Juridiniai ir fiziniai asmenys gali gaudyti, laikyti ir jaukinti laukinius gyvūnus tik gavę Aplinkos ministerijos leidimą ir laikydamiesi jos nustatytos tvarkos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
 
 2. Atsitiktinai patekę nelaisvėn laukiniai gyvūnai turi būti grąžinti į laisvę, o jeigu to padaryti negalima, – globojami pagal šio įstatymo reikalavimus.
 
 13 straipsnis. Gyvūnų naudojimas zoologinėms kolekcijoms
 
-1. Juridiniai ir fiziniai asmenys rinkti zoologines kolekcijas (zoologijos sodams, okeanariumams, terariumams, taip pat gyvūnų iškamšų ir kitas) gali tik gavę Aplinkos apsaugos ministerijos leidimą.
+1. Juridiniai ir fiziniai asmenys rinkti zoologines kolekcijas (zoologijos sodams, okeanariumams, terariumams, taip pat gyvūnų iškamšų ir kitas) gali tik gavę Aplinkos ministerijos leidimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
 
 2. Be atskiro leidimo pagal nustatytus reikalavimus galima rinkti medžioklės ir žūklės trofėjų kolekcijas.
 
-3. Laukinių gyvūnų paėmimo iš aplinkos zoologinėms kolekcijoms tvarką, taip pat gyvūnų laikymo nelaisvėje taisykles tvirtina Aplinkos apsaugos ministerija ir Valstybinė veterinarijos tarnyba.
+3. Laukinių gyvūnų paėmimo iš aplinkos zoologinėms kolekcijoms tvarką, taip pat gyvūnų laikymo nelaisvėje taisykles tvirtina Aplinkos ministerija ir Valstybinė maisto ir veterinarijos tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
 
 14 straipsnis. Gyvūnų naudojimas mokymui ir tyrimams
 
@@ -183,9 +215,17 @@ Prekiauti naminiais ir dekoratyviniais gyvūnais leidžiama savivaldos instituci
 
 2) nuskausminimo priemonių taikymas yra nesuderinamas su bandymo tikslais.
 
-4. Laboratorinių gyvūnų veisimą, auginimą, laikymą ir naudojimą bandymams reguliuoja Valstybinės veterinarijos tarnybos patvirtintos taisyklės.
+4. Laboratorinių gyvūnų veisimą, auginimą, laikymą ir naudojimą bandymams reguliuoja Valstybinės maisto ir veterinarijos tarnybos patvirtintos taisyklės.
 
-5. Gyvūnų naudojimą bandymams kontroliuoja Vyriausybės įgaliotų institucijų patvirtinta Lietuvos laboratorinių gyvūnų naudojimo etikos komisija prie Valstybinės veterinarijos tarnybos, sudaryta iš suinteresuotų institucijų ir organizacijų atstovų. Leidimus atlikti bandymus su stuburiniais gyvūnais išduoda Valstybinė veterinarijos tarnyba Lietuvos laboratorinių gyvūnų naudojimo etikos komisijos teikimu.
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
+
+5. Gyvūnų naudojimą bandymams kontroliuoja Vyriausybės įgaliotų institucijų patvirtinta Lietuvos laboratorinių gyvūnų naudojimo etikos komisija prie Valstybinės maisto ir veterinarijos tarnybos, sudaryta iš suinteresuotų institucijų ir organizacijų atstovų. Leidimus atlikti bandymus su stuburiniais gyvūnais išduoda Valstybinė maisto ir veterinarijos tarnyba Lietuvos laboratorinių gyvūnų naudojimo etikos komisijos teikimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
 
 15 straipsnis. Gyvūnų numarinimas (eutanazija)
 
@@ -261,37 +301,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-61 straipsnis. Agresyvių šunų įvežimas, įsigijimas, laikymas, registravimas, veisimas, dresavimas, prekyba jais bei jų paėmimas
+Pakeitimai:
 
-1. Agresyvius šunis įvežti į Lietuvos Respubliką, įsigyti, laikyti, veisti, dresuoti ir jais prekiauti gali tik asmenys, turintys savivaldybės ar Vyriausybė įgaliotos institucijos išduotus leidimus. Agresyvių šunų įvežimo į Lietuvos Respubliką, įsigijimo, laikymo, registravimo, veisimo, dresavimo ir prekybos jais taisykles, kuriose nustatoma taip pat ir leidimų įvežti, įsigyti, laikyti, veisti, dresuoti ir prekiauti išdavimo, sustabdymo ir panaikinimo tvarka, tvirtina Vyriausybė ar jos įgaliota institucija. Šias taisykles įgyvendina ir jų priežiūrą vykdo savivaldybės ir Vyriausybės įgaliotos institucijos.
+1.
 
-2. Leidimai, nurodyti šio straipsnio 1 dalyje, neišduodami asmenims:
+Lietuvos Respublikos Seimas, Įstatymas
 
-1) jaunesniems nei 18 metų;
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
 
-2) įrašytiems į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos ar psichinės ligos;
-
-3) teistiems už tyčinius smurtinius nusikaltimus, kuriems teistumas neišnykęs arba nepanaikintas;
-
-4) nepateikusiems pažymos apie atitinkamos mokymo programos, kurią tvirtina Vyriausybės įgaliota institucija, išklausymą;
-
-5) gyvenantiems kartu su asmenimis, nurodytais šio straipsnio 2 dalies 2 ir 3 punktuose.
-
-3. Savivaldybės ar Vyriausybės įgaliotos institucijos agresyvius šunis gali paimti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka:
-
-1) kai atsiranda šio straipsnio 2 dalies 2, 3 ir 5 punktuose numatyti pagrindai;
-
-2) panaikinus leidimą laikyti agresyvų šunį;
-
-3) sustabdžius leidimo laikyti agresyvų šunį galiojimą, kol išnyks leidimo sustabdymo pagrindai;
-
-4) mirus šuns savininkui, kol jo įpėdiniui bus išduotas leidimas laikyti agresyvų šunį;
-
-5) mirus šuns savininkui, jei įpėdinis nepriėmė palikimo ar įpėdiniui atsisakyta išduoti leidimą laikyti agresyvų šunį.
-
-4. Šio straipsnio 3 dalies 1, 2 ir 4 punktuose numatytais atvejais paimti agresyvūs šunys realizuojami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Realizavus šunį, gauti pinigai, atskaičius realizavimo išlaidas, grąžinami šuns savininkui ar įpėdiniui (išskyrus atvejį, jeigu įpėdinis nepriėmė palikimo).
-
-Papildyta straipsniu:
-
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 7, 9, 10, 12, 13, 14 straipsnių pakeitimo įstatymas
 
