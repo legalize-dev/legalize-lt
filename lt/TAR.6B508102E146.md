@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "2000-07-18"
+last_updated: "2001-01-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -426,15 +426,9 @@ Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
 
 1. Akcizais neapmokestinama:
 
-1) kaip labdara įvežamos prekės;
-
-[1
-
-dalies 1 punkto redakcija nuo 2001 m. sausio 1 d.:
-
 1) 3 straipsnio 1 dalies 3 ir 10 punktuose nurodytos
 
-prekės, įvežamos kaip parama;]
+prekės, įvežamos kaip parama;
 
 2) fizinių asmenų (keleivių) įvežamos prekės, jeigu jų
 
@@ -470,15 +464,15 @@ gaminti šiuos gėrimus;
 
 importo muitų pagal Lietuvos Respublikos muitų tarifų įstatymą.
 
-9) orlaivių variklių kuras (kodus pagal KPN nustato Vyriausybė),
+9) orlaivių variklių kuras (kodus pagal KPN nustato
 
-kurį importuoja ar įsigyja iš Lietuvos gamintojų įmonės, turinčios licenciją
+Vyriausybė), kurį importuoja ar įsigyja iš Lietuvos gamintojų įmonės, turinčios
 
-verstis naftos produktų importu, prekyba ar eksportu, jeigu šioje licencijoje
+licenciją verstis naftos produktų importu, prekyba ar eksportu, jeigu šioje
 
-nurodyta, kad įmonė verčiasi orlaivių (lėktuvų) pripildymu, taip pat nurodyti
+licencijoje nurodyta, kad įmonė verčiasi orlaivių (lėktuvų) pripildymu, taip
 
-šio kuro kodai pagal KPN;
+pat nurodyti šio kuro kodai pagal KPN;
 
 10) Lietuvos
 
@@ -506,9 +500,29 @@ pripildymu (bunkeravimu), taip pat nurodyti šio kuro kodai pagal KPN;
 
 skirtas naudoti kaip žaliava biokuro gamybai;
 
-13) rapsų metilo (etilo) esteris (RME) - biokuras,
+13) rapsų metilo (etilo) esteris (RME) - biokuras, pagamintas
 
-pagamintas iš rapsų aliejaus ir pagal technologiją reikalingų sudedamųjų dalių.
+iš rapsų aliejaus ir pagal technologiją reikalingų sudedamųjų dalių.
+
+[6
+
+straipsnio 1 dalis papildoma 14 punktu nuo 2002 m. sausio 1 d.:
+
+14) gazolis (dyzeliniai
+
+degalai), skirtas naudoti žemės ūkyje, taip pat tvenkinių ir kitų vidaus
+
+vandenų žuvininkystėje. Akcizu neapmokestinamo gazolio (dyzelinių degalų)
+
+kiekis Vyriausybės nustatyta tvarka registruotiems žemės ūkio subjektams per
+
+vienus kalendorinius metus negali viršyti 120 litrų už vieną Vyriausybės ar jos
+
+įgaliotos institucijos nustatyta tvarka deklaruotą žemės ūkio naudmenų hektarą
+
+bei 275 litrų už vieną toną sugautų ir realizuotų žuvų. Lengvatos taikymo
+
+tvarką nustato Vyriausybė ar jos įgaliota institucija.]
 
 2. Be to, akcizas netaikomas, kai etilo alkoholis bei
 
@@ -589,6 +603,10 @@ Nr.61-1820 (00.07.26), įsigalioja nuo 2001.01.01
 Nr. VIII-1876, 00.07.18, Žin., 2000,
 
 Nr.64-1941 (00.07.31)
+
+Nr. IX-167, 2001 01 25, Žin., 2001, Nr.
+
+16-494 (2001 02 21), įsigalioja nuo 2002 01 01
 
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
 
@@ -776,7 +794,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. I-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
+Nr. I-905,
+
+95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 
 DĖL LIETUVOS RESPUBLIKOS AKCIZŲ
 
@@ -820,9 +840,9 @@ Nr. I-1307,
 
 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
 
-LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO
+LIETUVOS RESPUBLIKOS AKCIZŲ
 
-8-1, 8-2, 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ĮSTATYMO 8-1, 8-2, 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja nuo 1996
 
@@ -976,9 +996,9 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 straipsnio 1 dalies nuostatas, susijusias su laivų pripildymu (aprūpinimu
 
-atsargomis), taip pat šio įstatymo 3 straipsnyje išdėstytą 6 straipsnio 1 dalies
+atsargomis), taip pat šio įstatymo 3 straipsnyje išdėstytą 6 straipsnio 1
 
-11 punktą.
+dalies 11 punktą.
 
 Šio įstatymo 2 straipsnio 1
 
@@ -1012,11 +1032,25 @@ Nr.64-1941 (00.07.31)
 
 AKCIZŲ ĮSTATYMO 3 IR 6 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-167, 2001 01 25, Žin., 2001, Nr.
+
+16-494 (2001 02 21)
+
+AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2002
+
+m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė
+Redagavo: Aušrinė Trapinskienė (2001 02 23)
 
-Trapinskienė (2000.08.17)
+autrap@lrs.lt
 
 13 straipsnis. Baigiamosios nuostatos
 
