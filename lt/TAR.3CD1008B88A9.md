@@ -4,7 +4,7 @@ identifier: "TAR.3CD1008B88A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "1996-12-04"
+last_updated: "1997-07-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
+
+Suvestinė redakcija nuo 1997-07-11 iki 1998-07-07
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
 
 LIETUVOS RESPUBLIKOS
 
@@ -118,7 +122,11 @@ IR FUNKCIJOS RENGIANT MOBILIZACINĮ REZERVĄ BEI VYKDANT MOBILIZACIJĄ
 
 3) tvirtina kariuomenės mobilizacinį planą;
 
-4) tvirtina ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių valdytojų sudarytus mobilizacinius planus;
+4) tvirtina ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių viršininkų sudarytus mobilizacinius planus
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
 
 5) skiria valstybines mobilizacines užduotis ministerijoms, Vyriausybės įstaigoms, apskričių valdytojams ir savivaldybėms;
 
@@ -158,7 +166,11 @@ IR FUNKCIJOS RENGIANT MOBILIZACINĮ REZERVĄ BEI VYKDANT MOBILIZACIJĄ
 
 8) tvarko transporto ir kitos technikos mobilizacinę apskaitą;
 
-9) dalyvauja ministerijoms, Vyriausybės įstaigoms, apskričių valdytojams ir savivaldybėms sudarant mobilizacinius planus;
+9) dalyvauja ministerijoms, Vyriausybės įstaigoms, apskričių viršininkams ir savivaldybėms sudarant mobilizacinius planus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
 
 10) dalyvauja organizuojant, atliekant ir kontroliuojant Vyriausybės patvirtintuose planuose numatytus mobilizacinius mokymus ministerijose, Vyriausybės įstaigose, apskrityse ir savivaldybėse.
 
@@ -186,11 +198,15 @@ IR FUNKCIJOS RENGIANT MOBILIZACINĮ REZERVĄ BEI VYKDANT MOBILIZACIJĄ
 
 3) teikia Krašto apsaugos ministerijai duomenis apie jų reguliavimo sričiai priskirtų valstybės įmonių ir specialios paskirties akcinių bendrovių turimus materialinius ir finansinius išteklius bei gamybos pajėgumus.
 
-8. Apskričių valdytojai:
+8. Apskričių viršininkai:
 
 1) pagal jiems pavestas valstybines mobilizacines užduotis sudaro mobilizacinį planą, suderina jį su vietine teritorine karine įstaiga ir teikia Vyriausybei tvirtinti;
 
 2) tvarko apskrities teritorijos mobilizacinių atsargų apskaitą ir teikia vietinei teritorinei karinei įstaigai duomenis, reikalingus mobilizaciniams planams sudaryti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
 
 9. Savivaldybės:
 
@@ -266,9 +282,17 @@ MOBILIZACINIS PLANAVIMAS
 
 1. Mobilizacijai organizuoti Vyriausybė arba jos įgaliota institucija sudaro valstybės mobilizacinį planą, kuris yra sudedamoji valstybės gynybos plano dalis.
 
-2. Vyriausybė mobilizacinėse užduotyse nustato ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių valdytojų kompetenciją sudarant mobilizacinius planus, šių planų sudarymo ir įgyvendinimo tvarką.
+2. Vyriausybė mobilizacinėse užduotyse nustato ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių viršininkų kompetenciją sudarant mobilizacinius planus, šių planų sudarymo ir įgyvendinimo tvarką
 
-3. Skirdama mobilizacinio planavimo užduotis ir tvirtindama mobilizacinius planus, Vyriausybė arba jos įgaliota institucija nustato ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių valdytojų veiklos ribas.
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
+
+3. Skirdama mobilizacinio planavimo užduotis ir tvirtindama mobilizacinius planus, Vyriausybė arba jos įgaliota institucija nustato ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių viršininkų veiklos ribas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
 
 13 straipsnis. Mobilizacinių planų turinys
 
@@ -292,7 +316,11 @@ Paskelbus mobilizaciją:
 
 2) atsargos karo prievolininkai per nustatytą laiką atvyksta į mobilizaciniuose šaukimuose arba vietinės teritorinės karinės įstaigos vadovo mobilizaciniame įsakyme nurodytus punktus;
 
-3) apskričių valdytojai, savivaldybių merai, įstaigų, įmonių ir organizacijų savininkai bei vadovai nedelsdami perduoda vietinei teritorinei karinei įstaigai laikinai naudoti patalpas, žemę bei inventorių, numatytus mobilizaciniuose planuose.
+3) apskričių viršininkai, savivaldybių merai, įstaigų, įmonių ir organizacijų savininkai bei vadovai nedelsdami perduoda vietinei teritorinei karinei įstaigai laikinai naudoti patalpas, žemę bei inventorių, numatytus mobilizaciniuose planuose.
+
+Straipsnio punkto pakeitimai:
+
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
 
 SEPTINTASIS SKIRSNIS
 
@@ -300,239 +328,15 @@ BAIGIAMOSIOS NUOSTATOS
 
 15 straipsnis. Asmenys, atsakingi už šio įstatymo vykdymą
 
-Šio įstatymo vykdymą užtikrina ministerijų, Vyriausybės įstaigų vadovai, apskričių valdytojai, savivaldybių merai, karinių dalinių vadai, visų rūšių bei nuosavybės formų įmonių, įstaigų ir organizacijų vadovai bei savininkai asmeniškai.
+Šio įstatymo vykdymą užtikrina ministerijų, Vyriausybės įstaigų vadovai, apskričių viršininkai, savivaldybių merai, karinių dalinių vadai, visų rūšių bei nuosavybės formų įmonių, įstaigų ir organizacijų vadovai bei savininkai asmeniškai.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
 
 16 straipsnis. Atsakomybė už šio įstatymo pažeidimą
 
 Asmenys, pažeidę šį įstatymą, atsako pagal Lietuvos Respublikos įstatymus.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
-
-17 straipsnis. Priimančiosios šalies paramos galimybių katalogas
-
-1. Priimančiosios šalies paramos galimybių katalogo sandara:
-
-1) duomenys apie Lietuvos Respublikos karinę infrastruktūrą ir karinių vienetų pajėgumus priimančiosios šalies paramai teikti;
-
-2) duomenys apie Lietuvos Respublikos civilinę infrastruktūrą, valstybės ir savivaldybių institucijų ar įstaigų ir ūkio subjektų galimybes teikti priimančiosios šalies paramą.
-
-2. Priimančiosios šalies paramos galimybių katalogo rengimo tvarką nustato krašto apsaugos ministras.
-
-3. Valstybės ir savivaldybių institucijos ar įstaigos ir ūkio subjektai teikia Mobilizacijos departamentui informaciją (taip pat valstybės, tarnybos ar komercinę (gamybinę) paslaptį sudarančią informaciją) ir duomenis, kurių reikia Priimančiosios šalies paramos galimybių katalogui parengti.
-
-4. Priimančiosios šalies paramos galimybių katalogas įslaptinamas, saugomas ir išslaptinamas teisės aktų nustatyta tvarka.
-
-18 straipsnis. Mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutarčių sudarymas ir administravimas
-
-1. Mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutartis teisės aktų nustatyta tvarka sudaro mobilizacijos sistemos institucijos vadovas arba jo įgaliotas asmuo.
-
-2. Mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutartyje, be Lietuvos Respublikos civiliniame kodekse nustatytų bendrųjų ir atitinkamos rūšies sutartims keliamų reikalavimų, ūkio subjekto sutartinių įsipareigojimų, turi būti nustatyti šios sąlygos ir įsipareigojimai:
-
-1) palaikyti minimalius ūkio subjekto pajėgumus visą sutarties galiojimo laiką;
-
-2) per 15 darbo dienų pranešti institucijai, su kuria sudaryta sutartis, apie aplinkybes, dėl kurių neįmanoma vykdyti sutarties;
-
-3) šio įstatymo ir Vyriausybės nustatyta tvarka sudaryti ir tvarkyti ūkio subjekto civilinio mobilizacinio personalo rezervą;
-
-4) dalyvauti ūkio subjekto darbuotojams, įrašytiems į civilinį mobilizacinio personalo rezervą, mobilizacijos ir (ar) priimančiosios šalies paramos mokyme;
-
-5) užtikrinti ūkio subjektui patikėtos valstybės ir (ar) tarnybos paslaptį sudarančios informacijos ir duomenų apsaugą;
-
-6) sudaryti sąlygas ir netrukdyti įgaliotiems mobilizacijos sistemos subjektų valstybės tarnautojams ar darbuotojams, dirbantiems pagal darbo sutartis, atlikti ūkio subjekto pajėgumų vertinimą;
-
-7) teikti informaciją, kurios reikia mobilizacijos subjektų funkcijoms, nustatytoms šiame įstatyme, atlikti.
-
-19 straipsnis. Mobilizacinis ir priimančiosios šalies paramos mokymas
-
-1. Mobilizacinio mokymo organizavimo, planavimo ir vykdymo tvarką nustato, mokymo programas ir valstybės mobilizacinio mokymo planą tvirtina Mobilizacijos departamento direktorius.
-
-2. Priimančiosios šalies paramos mokymo profesinės karo tarnybos, aktyviojo rezervo ir rezervo kariams tvarką nustato, mokymo programas ir mokymo planus tvirtina Lietuvos kariuomenės vadas, vadovaudamasis krašto apsaugos ministro patvirtintomis priimančiosios šalies paramos mokymo gairėmis.
-
-3. Į civilinį mobilizacinio personalo rezervą įrašytų asmenų priimančiosios šalies paramos mokymo organizavimo, planavimo ir vykdymo tvarką nustato, mokymo programas ir valstybės priimančiosios šalies paramos mokymo planą tvirtina Mobilizacijos departamento direktorius, vadovaudamasis krašto apsaugos ministro patvirtintomis priimančiosios šalies paramos mokymo gairėmis.
-
-4. Priimančiosios šalies paramos mokymo, kuriame dalyvauja profesinės karo tarnybos, aktyviojo rezervo ir rezervo kariai ir (ar) į civilinį mobilizacinio personalo rezervą įrašyti asmenys, tvarką nustato krašto apsaugos ministras.
-
-5. Mobilizacijos sistemos subjektų vadovai užtikrina, kad mobilizaciniuose ir priimančiosios šalies paramos mokymuose dalyvautų mokymo planuose numatyti profesinės karo tarnybos, aktyviojo rezervo ir rezervo kariai ir į civilinį mobilizacinio personalo rezervą įrašyti asmenys.
-
-IV SKYRIUS
-
-MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS IR VYKDYMAS
-
-20 straipsnis. Mobilizacijos ir demobilizacijos skelbimas
-
-1. Seimas Respublikos Prezidento siūlymu skelbia mobilizaciją, kai būtina ginti Tėvynę arba vykdyti Lietuvos Respublikos tarptautinius įsipareigojimus. Seimas skelbia mobilizaciją priimdamas nutarimus. Seimas gali skelbti visuotinę arba dalinę mobilizaciją.
-
-2. Respublikos Prezidentas dėl ginkluoto užpuolimo, gresiančio valstybės suverenumui ar teritorijos vientisumui, priima sprendimą dėl visuotinės ar dalinės mobilizacijos išleisdamas dekretą ir teikia jį tvirtinti artimiausiame Seimo posėdyje, o tarp Seimo sesijų – nedelsdamas šaukia neeilinę Seimo sesiją. Seimas patvirtina arba panaikina Respublikos Prezidento dekretą.
-
-3. Seimo nutarime arba Respublikos Prezidento dekrete dėl visuotinės mobilizacijos skelbimo turi būti nurodyta, kad skelbiama visuotinė mobilizacija ir jos skelbimo pagrindas.
-
-4. Seimui paskelbus dalinę mobilizaciją ar Respublikos Prezidentui priėmus sprendimą dėl dalinės mobilizacijos skelbimo, Seimo nutarime arba Respublikos Prezidento dekrete turi būti nurodoma: dalinės mobilizacijos skelbimo pagrindas, kurioje valstybės teritorijos dalyje mobilizacija skelbiama, kokie mobilizacijos sistemos subjektai dalyvauja ir kokios priemonės, nurodytos šio įstatymo 22–25 straipsniuose, turi būti vykdomos.
-
-5. Išnykus priežastims, dėl kurių buvo paskelbta mobilizacija, Respublikos Prezidento siūlymu Seimas skelbia demobilizaciją. Nutarime dėl demobilizacijos skelbimo nurodoma, kokie mobilizacijos sistemos subjektai turi vykdyti demobilizaciją ir kokios priemonės turi būti vykdomos.
-
-6. Seimo nutarimas arba Respublikos Prezidento dekretas dėl visuotinės, dalinės mobilizacijos arba Seimo nutarimas dėl demobilizacijos skelbimo nedelsiant skelbiami per visuomenės informavimo priemones ir įsigalioja Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-21 straipsnis. Mobilizacijos ir demobilizacijos vykdymas
-
-1. Mobilizacija pradedama vykdyti, įsigaliojus Seimo nutarimui arba Respublikos Prezidento dekretui dėl mobilizacijos skelbimo.
-
-2. Paskelbus visuotinę mobilizaciją, visos mobilizacijos sistemos institucijos pagal kompetenciją vykdo visas mobilizacijos planuose numatytas priemones ir veiksmus. Ūkio subjektai vykdo mobilizacinių užsakymų ir priimančiosios šalies paramos teikimo įsipareigojimus.
-
-3. Paskelbus dalinę mobilizaciją, vykdomos Seimo nutarime arba Respublikos Prezidento dekrete dėl dalinės mobilizacijos skelbimo nurodytos priemonės.
-
-4. Paskelbus demobilizaciją, vykdomos Seimo nutarime dėl demobilizacijos skelbimo nurodytos priemonės.
-
-22 straipsnis. Civilinio mobilizacinio personalo rezervo naudojimas ir darbo ar tarnybos santykių, paskelbus mobilizaciją, apribojimai
-
-1. Paskelbus visuotinę mobilizaciją, visi Lietuvos Respublikos piliečiai, įrašyti į civilinį mobilizacinio personalo rezervą, atlieka mobilizacijos planuose numatytas funkcijas.
-
-2. Paskelbus dalinę mobilizaciją, Seimo nutarime arba Respublikos Prezidento dekrete dėl dalinės mobilizacijos paskelbimo nurodytų mobilizacijos sistemos subjektų piliečiai, įrašyti į civilinį mobilizacinio personalo rezervą, atlieka šių subjektų mobilizacijos planuose numatytas funkcijas.
-
-3. Lietuvos Respublikos piliečiams, įrašytiems į civilinį mobilizacinio personalo rezervą ir turintiems atlikti jiems pavestas funkcijas šio straipsnio 1 ir 2 dalyse nurodytais atvejais, nustatomi šie darbo ar tarnybos santykių apribojimai:
-
-1) išėję visų rūšių atostogų, išskyrus nėštumo, gimdymo atostogas ar atostogas vaikui prižiūrėti, iki vaikui sueis treji metai, darbdavio sprendimu gali būti atšaukiami iš atostogų;
-
-2) teisės aktų nustatyta tvarka darbdavys gali nustatyti viršvalandinius darbus;
-
-3) draudžiama streikuoti;
-
-4) sustabdomas su jais sudarytų darbo sutarčių nutraukimas ir (ar) jų atleidimas iš pareigų, išskyrus Lietuvos Respublikos darbo kodekso 136 straipsnio 1 dalyje ir Valstybės tarnybos įstatymo 44 straipsnio 1 dalies 3, 13, 14, 15, 16 ir 18 punktuose nustatytus atvejus.
-
-4. Lietuvos Respublikos piliečių, įrašytų į civilinį mobilizacinio personalo rezervą ir turinčių atlikti jiems nustatytas funkcijas, paskelbus mobilizaciją, neatvykimo į darbą, nebuvimo tarnyboje ar kito atsisakymo dirbti pateisinamos priežastys:
-
-1) laikinas sveikatos sutrikimas – pristačius sveikatos priežiūros įstaigos išduotą pažymą;
-
-2) šeimos nario ar artimojo giminaičio mirtis – pateikus mirties liudijimą;
-
-3) ekstremalusis įvykis, ribojantis asmens judėjimo galimybes;
-
-4) jeigu atliekamos kitos Lietuvos Respublikos piliečio pareigos, nustatytos kituose įstatymuose, – pateikus kompetentingos institucijos šaukimą ir (ar) pažymą;
-
-5) kitos teisės aktų nustatytos valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, neatvykimo į darbą, nebuvimo tarnyboje ar kito atsisakymo dirbti pateisinamos priežastys, išskyrus pavojų darbuotojo saugumui ir sveikatai, jeigu šis pavojus atsirado dėl su mobilizacijos vykdymu atsiradusių pavojingų darbo sąlygų ir nebūtų atsiradęs vykdant tas pačias pareigas ne mobilizacijos metu;
-
-6) kitos teisės aktuose nustatytos aplinkybės, dėl kurių apribotos asmens judėjimo galimybės.
-
-5. Šio straipsnio 3 ir 4 dalyse nustatyti darbo ar tarnybos santykių apribojimai, paskelbus mobilizaciją, galioja iki demobilizacijos paskelbimo.
-
-23 straipsnis. Rekvizicijos ir (ar) laikinojo paėmimo vykdymas
-
-1. Paskelbus mobilizaciją ar kitais įstatymų nustatytais atvejais iš savininkų ar turto valdytojų gali būti laikinai paimami arba rekvizuojami: ginklai, šaudmenys, sprogmenys, sprogstamosios, nuodingosios, psichiką veikiančios (narkotinės, psichotropinės), radioaktyviosios medžiagos, transporto priemonės ir kitas mobilizacijos planuose numatytas kilnojamasis ir nekilnojamasis turtas.
-
-2. Laikinąjį ginklų, šaudmenų, sprogmenų, sprogstamųjų, nuodingųjų, psichiką veikiančių (narkotinių, psichotropinių) medžiagų paėmimą ar rekviziciją vykdo policija.
-
-3. Laikinąjį radioaktyviųjų medžiagų paėmimą ar rekviziciją vykdo Radiacinės saugos centras kartu su savivaldybių administracijų direktorių įgaliotais asmenimis.
-
-4. Transporto priemonių, kito kilnojamojo ar nekilnojamojo turto, nenurodyto šio straipsnio 2 ir 3 dalyse, rekviziciją ir (ar) laikinąjį paėmimą savivaldybės teritorijoje vykdo policija kartu su savivaldybės administracijos direktoriaus įgaliotais asmenimis.
-
-5. Paskelbus visuotinę mobilizaciją, visų savivaldybių teritorijose gali būti rekvizuojamas arba laikinai paimamas turtas, numatytas mobilizacijos planuose.
-
-6. Paskelbus dalinę mobilizaciją, Vyriausybė nurodo, kurių savivaldybių teritorijose turi būti vykdomi rekvizicija ir (ar) laikinasis paėmimas ir koks turtas, numatytas mobilizacijos planuose, gali būti paimamas.
-
-7. Rekvizicija ir (ar) laikinasis paėmimas vykdomas, už rekvizuotą ir (ar) laikinai paimtą turtą atlyginama, turtas grąžinamas Vyriausybės nustatyta tvarka.
-
-24 straipsnis. Privalomieji darbai
-
-1. Lietuvos Respublikos gyventojams, gyvenantiems teritorijoje, kurioje yra paskelbta mobilizacija, savivaldybės administracijos direktorius arba jo įgaliotas asmuo gali skirti privalomuosius darbus. Dalinės mobilizacijos metu privalomųjų darbų skyrimas numatomas Seimo nutarime ar Respublikos Prezidento dekrete dėl mobilizacijos skelbimo. Paskelbus demobilizaciją, už šiuos darbus gali būti atlyginama Vyriausybės nustatyta tvarka.
-
-2. Šio straipsnio 1 dalyje nustatyta privalomųjų darbų skyrimo tvarka netaikoma, jeigu vykdant mobilizaciją įvedama karo padėtis. Karo padėties metu privalomųjų darbų organizavimą ir skyrimą reglamentuoja Lietuvos Respublikos karo padėties įstatymas.
-
-25 straipsnis. Kitos priemonės, užtikrinančios mobilizacijos vykdymą
-
-Paskelbus visuotinę mobilizaciją, įstatymų nustatyta tvarka, be šio įstatymo 22, 23 ir 24 straipsniuose nurodytų priemonių vykdymo, taip pat taikomos, o paskelbus dalinę mobilizaciją, gali būti taikomos šios priemonės:
-
-1) karo prievolininkų šaukimas į karo tarnybą;
-
-2) naudojamas valstybės rezervas;
-
-3) naudojamos kariuomenės materialinių išteklių atsargos;
-
-4) sustabdomas atleidimas iš profesinės karo tarnybos, aktyviojo rezervo ir rezervo, išskyrus asmenis, kurie išleidžiami į dimisiją;
-
-5) teikiama priimančiosios šalies parama.
-
-V SKYRIUS
-
-PRIIMANČIOSIOS ŠALIES PARAMOS TEIKIMAS
-
-26 straipsnis. Priimančiosios šalies paramos teikimo Lietuvos Respublikoje sąlygos
-
-1. Priimančiosios šalies parama Lietuvos Respublikoje teikiama atvykstančioms pajėgoms arba joms vykstant tranzitu per Lietuvos Respublikos teritoriją.
-
-2. Kai yra paskelbta visuotinė mobilizacija, priimančiosios šalies parama teikiama mobilizacijos sistemos institucijoms vykdant mobilizacijos planuose numatytus veiksmus, priemones, o ūkio mobilizacijos subjektams – mobilizacinių užsakymų ir (ar) priimančiosios šalies paramos teikimo sutartyse nustatytus įsipareigojimus.
-
-3. Dalinės mobilizacijos metu priimančiosios šalies parama teikiama, jeigu Seimo nutarime ar Respublikos Prezidento dekrete nurodoma teikti priimančiosios šalies paramą. Vykdomi Seimo nutarime arba Respublikos Prezidento dekrete nurodyti ir mobilizacijos planuose numatyti priimančiosios šalies paramos teikimo veiksmai ir priemonės.
-
-4. Teikiant priimančiosios šalies paramą, neskelbiant mobilizacijos (jeigu šio įstatymo 27 straipsnio nustatyta tvarka yra priimtas sprendimas), civilinė mobilizacijos institucija ir ūkio mobilizacijos subjektas vykdo priimančiosios šalies paramos teikimo užduotis arba sutartinius įsipareigojimus.
-
-27 straipsnis. Sprendimų dėl priimančiosios šalies paramos teikimo užduočių ir sutarčių vykdymo priėmimas
-
-Sprendimą dėl priimančiosios šalies paramos teikimo užduočių ir sutarčių vykdymo gali priimti Vyriausybė krašto apsaugos ministro siūlymu. Vyriausybės nutarime turi būti nurodyta, kokios civilinės mobilizacijos institucijos, ūkio mobilizacijos subjektai turi vykdyti priimančiosios šalies paramos teikimo užduotis ar sutartinius įsipareigojimus, kurie priimančiosios šalies paramos teikimo užduotys ir sutartiniai įsipareigojimai turi būti vykdomi ir kokios kitos priemonės, nurodytos šio įstatymo 29 straipsnyje, turi būti taikomos.
-
-28 straipsnis. Priimančiosios šalies paramos teikimo valdymas
-
-1. Priimančiosios šalies paramos teikimui Lietuvos Respublikos teritorijoje užtikrinti Vyriausybė krašto apsaugos ministro siūlymu gali sudaryti Jungtinį priimančiosios šalies paramos koordinavimo komitetą (toliau – Komitetas).
-
-2. Komitetą sudaro krašto apsaugos ministras (Komiteto vadovas), Lietuvos kariuomenės atstovas (Komiteto vadovo pavaduotojas), Krašto apsaugos ministerijos, kitų ministerijų, Ministro Pirmininko tarnybos atstovai ir Mobilizacijos departamento direktorius.
-
-3. Komitetas teikia siūlymus Vyriausybei dėl priimančiosios šalies paramos teikimo.
-
-4. Priimančiosios šalies paramai organizuoti krašto apsaugos ministras savo iniciatyva gali sudaryti priimančiosios šalies paramos valdymo grupę (toliau – grupė) iš Lietuvos kariuomenės, Mobilizacijos departamento, kitų krašto apsaugos sistemos institucijų ar Krašto apsaugos ministerijos administracijos padalinių atstovų ir atvykstančių pajėgų ar jų vadų deleguotų ryšio karininkų. Į grupę taip pat gali būti skiriami kitų ministerijų ar Ministro Pirmininko tarnybos įgalioti atstovai.
-
-5. Grupė koordinuoja Lietuvos kariuomenės, civilinių mobilizacijos institucijų, ūkio mobilizacijos subjektų ir atvykstančių pajėgų veiksmus užtikrinant priimančiosios šalies paramos teikimą.
-
-29 straipsnis. Kitos priimančiosios šalies paramos teikimo priemonės
-
-Teikiant priimančiosios šalies paramą, gali būti taikomos šios priemonės:
-
-1) naudojamas valstybės rezervas;
-
-2) naudojamos Lietuvos kariuomenės materialinių išteklių atsargos;
-
-3) šio įstatymo 30 straipsnio nustatyta tvarka naudojamas civilinio mobilizacinio personalo rezervas.
-
-30 straipsnis. Civilinio mobilizacinio personalo rezervo naudojimas teikiant priimančiosios šalies paramą
-
-1. Civilinis mobilizacinis personalo rezervas gali būti naudojamas, kai Vyriausybė priima sprendimą dėl civilinio mobilizacinio personalo rezervo naudojimo.
-
-2. Civilinio mobilizacinio personalo rezervo naudojimo tvarką nustato Vyriausybė.
-
-3. Civilinio mobilizacinio personalo rezervo naudojimą užtikrina mobilizacijos sistemos subjekto vadovas.
-
-4. Kai teikiant priimančiosios šalies paramą yra naudojamas civilinis mobilizacinio personalo rezervas, šio įstatymo 22 straipsnio 3 dalyje nurodyti darbo ar tarnybos santykių apribojimai netaikomi.
-
-VI SKYRIUS
-
-MOBILIZACIJOS SISTEMOS FINANSAVIMAS IR VALSTYBĖS PARAMA
-
-31 straipsnis. Mobilizacijos sistemos finansavimas
-
-1. Krašto apsaugos ministerija, Mobilizacijos departamentas, Lietuvos kariuomenė ir civilinės mobilizacijos institucijos, vykdydami šiame įstatyme nustatytus mobilizacijos sistemos uždavinius, finansuojami iš valstybės biudžeto asignavimų.
-
-2. Šio straipsnio 1 dalyje nurodyti mobilizacijos sistemos subjektai taip pat gali būti finansuojami:
-
-1) savivaldybių biudžetuose numatytomis lėšomis;
-
-2) lėšomis, gautomis pagal Lietuvos Respublikos tarptautines sutartis arba susitarimus su užsienio valstybėmis;
-
-3) parama iš fizinių ar juridinių asmenų ir valstybių;
-
-4) kitomis teisėtai gautomis lėšomis.
-
-3. Mobilizacijos sistemos finansavimo šaltinių lėšų apskaita tvarkoma vadovaujantis Lietuvos Respublikos buhalterinės apskaitos, Biudžeto sandaros, Valstybės iždo įstatymais ir kitais teisės aktais.
-
-32 straipsnis. Valstybės parama ūkio mobilizacijos subjektams
-
-Ūkio mobilizacijos subjektai, kurie vykdo įsipareigojimus, teisės aktų nustatyta tvarka gali būti remiami valstybės.
-
-VII SKYRIUS
-
-BAIGIAMOSIOS NUOSTATOS
-
-33 straipsnis. Atsakomybė už šio įstatymo reikalavimų pažeidimus
-
-Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.“
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -547,68 +351,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
 
 Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 6, 12, 14, 15 straipsnių pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
-
-Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 2, 3, 5, 6, 11, 14 straipsnių pakeitimo ir papildymo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
-
-Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 6, 12, 14, 15 straipsnių pakeitimo ir papildymo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1119, 2010-11-12, Žin., 2010, Nr. 139-7103 (2010-11-27), i. k. 1101010ISTA0XI-1119
-
-Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 7 straipsnio pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1413, 2011-05-26, Žin., 2011, Nr. 72-3464 (2011-06-14), i. k. 1111010ISTA0XI-1413
-
-Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo pakeitimo įstatymas
-
-181 straipsnis. Neginkluoto pilietinio pasipriešinimo mokymai
-
-1. Siekdamos Lietuvos Respublikos piliečiams suteikti neginkluoto pilietinio pasipriešinimo žinių, mokyti įgytas žinias taikyti praktikoje ir užtikrinti asmenų pasirengimą neginkluotam pilietiniam pasipriešinimui, krašto apsaugos ministro įgaliotos institucijos organizuoja ir vykdo neginkluoto pilietinio pasipriešinimo mokymus Lietuvos Respublikos piliečiams.
-
-2. Neginkluoto pilietinio pasipriešinimo mokymų Lietuvos Respublikos piliečiams organizavimo ir vykdymo tvarką bei jų turinio gaires nustato krašto apsaugos ministras.
-
-3. Neginkluoto pilietinio pasipriešinimo mokymų programas tvirtina Institucijos, dalyvaujančios formuojant mobilizacijos politiką, vadovas.
-
-4. Neginkluoto pilietinio pasipriešinimo mokymus organizuojančios ir vykdančios institucijos turi teisę pasitelkti kitas krašto apsaugos sistemos ir valstybės ir (ar) savivaldybių institucijas ir (ar) įstaigas, bendradarbiauti su nevyriausybinėmis organizacijomis ir asociacijomis.
-
-Papildyta straipsniu:
-
-Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
-
-IV SKYRIUS
-
-MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS, VYKDYMAS IR MOBILIZACIJOS VALDYMAS
-
-171 straipsnis. Pagalbos sutarčių su nevyriausybinėmis organizacijomis sudarymas
-
-1.  Civilinė mobilizacijos institucija ar civilinei mobilizacijos institucijai pavaldus subjektas su nevyriausybinėmis organizacijomis gali sudaryti pagalbos sutartis, pagal kurias  nevyriausybinės organizacijos padeda civilinėms mobilizacijos institucijoms ar civilinėms mobilizacijos institucijoms pavaldiems subjektams užtikrinti gyvybiškai svarbių valstybės funkcijų ir valstybinių mobilizacinių užduočių atlikimą.
-
-2. Civilinė mobilizacijos institucija ar civilinei mobilizacijos institucijai pavaldus subjektas nevyriausybines organizacijas, su kuriomis sudaromos pagalbos sutartys, atrenka vadovaudamiesi Vyriausybės nustatytais kriterijais ir tvarka.
-
-3. Vykdant pagalbos sutartis patirtos veiklos išlaidos nevyriausybinėms organizacijoms kompensuojamos Vyriausybės nustatytomis sąlygomis ir tvarka.
-
-4. Pagalbos sutartį su civiline mobilizacijos institucija ar civilinei mobilizacijos institucijai pavaldžiu subjektu sudariusi nevyriausybinė organizacija turi teisę dalyvauti šiame įstatyme nurodytuose mobilizaciniuose ir (ar) priimančiosios šalies paramos mokymuose ir civilinės mobilizacijos institucijos organizuojamose pratybose.
-
-Papildyta straipsniu:
-
-Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
 
