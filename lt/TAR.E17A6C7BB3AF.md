@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "1996-12-12"
+last_updated: "1997-02-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -15,67 +15,79 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos apskrities valdymo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.01.03)
+Ramunė Lūžaitė (1997.03.12)
+
+Neoficialus
+
+įstatymo tekstas
 
 Pakeitimai:
 
 1.
 
-Lietuvos
+Lietuvos Respublikos Seimas, Įstatymas
 
-Respublikos Seimas, Įstatymas
+Nr. 1-1280, 96.04.04, Žin., 1996, Nr. 35-876
 
-Nr.
+(96.04.19)
 
-1-1280, 96.04.04, Žin., 1996, Nr. 35-876 (96.04.19)
+LIETUVOS RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO 11
 
-LIETUVOS
-
-RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO 11 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 2.
 
-Lietuvos
+Lietuvos Respublikos Seimas, Įstatymas
 
-Respublikos Seimas, Įstatymas
+Nr. 1-1355, 96.05.30, Žin., 1996, Nr. 55-1293
 
-Nr.
+(96.06.12)
 
-1-1355, 96.05.30, Žin., 1996, Nr. 55-1293 (96.06.12)
+LIETUVOS RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO 6
 
-LIETUVOS
-
-RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 3.
 
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
+
+(96.12.31)
+
+LIETUVOS RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO
+
+PAKEITIMO IR PAPILDYMO BEI VYRIAUSYBĖS ATSTOVO ĮSTATYMO PRIPAŽINIMO NETEKUSIU
+
+GALIOS ĮSTATYMAS
+
+4.
+
 Lietuvos
 
 Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
+VIII-129, 97.02.25, Žin., 1997, Nr.21-489 (97.03.12)
 
 LIETUVOS
 
-RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO PAKEITIMO IR PAPILDYMO BEI VYRIAUSYBĖS
+RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO 7 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
-ATSTOVO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-
-***
-
-Pabaiga ***
+*** Pabaiga ***
 
 APSKRITIES VALDYMO
 
 ĮSTATYMAS
 
-1994 m. gruodžio 15 d. Nr.I-707
+1994 m. gruodžio 15 d.
+
+Nr.I-707
 
 Vilnius
 
@@ -83,347 +95,161 @@ I skyrius
 
 BENDROSIOS NUOSTATOS
 
-1
-
-straipsnis. Apskrities valdymo organizavimas
-
-Apskritis
-
-yra Lietuvos Respublikos teritorijos aukštesnysis administracinis vienetas,
-
-kurio valdymą per apskrities viršininką, ministerijas bei  kitas Vyriausybės
-
-institucijas organizuoja Vyriausybė. Apskrities valdymas yra sudėtinė valstybės
-
-valdymo dalis.
-
-Apskrities
-
-ribas bei centrą nustato ir keičia, pavadinimą jam suteikia ir keičia Lietuvos
-
-Respublikos Seimas Vyriausybės teikimu.
-
-2
-
-straipsnis. Apskrities valdymo teisiniai pagrindai
-
-Apskrities
-
-valdymas organizuojamas, vadovaujantis Lietuvos Respublikos Konstitucija,
-
-šiuo  įstatymu,  kitais  Lietuvos Respublikos įstatymais, Lietuvos Respublikos
-
-Seimo nutarimais, Respublikos Prezidento dekretais, Vyriausybės nutarimais bei
-
-kitų valstybės valdymo institucijų teisės aktais.
-
-3
-
-straipsnis. Apskrities lėšos
-
-Apskrities
-
-valdymui organizuoti ir valdytojo funkcijoms įgyvendinti lėšos skiriamos iš
-
-valstybės biudžeto bei kitų finansavimo šaltinių.
-
-II skyrius
-
-APSKRITIES VIRŠININKAS IR JO KOMPETENCIJA
-
-4
-
-straipsnis. Apskrities viršininkas
-
-Apskrities
-
-viršininką skiria ir atleidžia Vyriausybė Ministro Pirmininko teikimu.
-
-Apskrities
-
-viršininku  gali  būti  Lietuvos  Respublikos pilietis, turintis aukštąjį
-
-išsilavinimą. Apskrities viršininkas negali eiti jokių kitų renkamų ar skiriamų
-
-pareigų, dirbti valstybinėse, visuomeninėse, privačiose verslo, komercijos ar
-
-kitokiose įstaigose  ar įmonėse,  taip pat  gauti  kitokio atlyginimo, išskyrus
-
-pagal pareigas nustatytąjį bei užmokestį už kūrybinę veiklą.
-
-Apskrities
-
-viršininko atlyginimą nustato Vyriausybė.
-
-Apskrities
-
-viršininkas atsiskaito Vyriausybei šios nustatyta tvarka.
-
-Apskrities
-
-viršininkas turi pavaduotoją, kurį skiria ir atleidžia Ministras Pirmininkas
-
-apskrities viršininko teikimu. Apskrities viršininko pavaduotojui taikomi tokie
-
-pat reikalavimai kaip ir apskrities viršininkui.
-
-5
-
-straipsnis. Apskrities viršininko uždaviniai
-
-Apskrities
-
-viršininko uždaviniai yra:
-
-1)
-
-įgyvendinti valstybės politiką socialinio aprūpinimo, švietimo, kultūros,
-
-sveikatos priežiūros, teritorijos planavimo, paminklotvarkos, žemės naudojimo
-
-ir apsaugos bei žemės ūkio, aplinkos apsaugos  ir kitose  srityse,  vykdyti
-
-apskrityje valstybines ir tarpregionines programas;
-
-2)
-
-koordinuoti  apskrityje esančių ministerijų ir kitų Vyriausybės institucijų
-
-struktūrinių padalinių veiklą, taip pat derinti savivaldos vykdomųjų
-
-institucijų veiklą, įgyvendinant regionines programas;
-
-3)
-
-numatyti prioritetines apskrities raidos kryptis ir rengti programas.
-
-4)
-
-prižiūrėti, ar savivaldybės laikosi Lietuvos Respublikos Konstitucijos ir
-
-įstatymų, ar vykdo Vyriausybės nutarimus, tikrinti, ar kolegialių ir
-
-nekolegialių savivaldos institucijų priimti sprendimai nepažeidžia piliečių ir
-
-organizacijų teisių.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
 1 straipsnis.
 
 Apskrities valdymo organizavimas
 
-Apskritis yra
+Apskritis yra Lietuvos
 
-Lietuvos Respublikos teritorijos aukštesnysis
+Respublikos teritorijos aukštesnysis administracinis vienetas, kurio valdymą
 
-administracinis
+per apskrities viršininką, ministerijas bei  kitas Vyriausybės institucijas
 
-vienetas, kurio valdymą per apskrities valdytoją,
-
-ministerijas  bei
-
-kitas  Vyriausybės  institucijas  organizuoja
-
-Vyriausybė.
-
-Apskrities  valdymas yra  sudėtinė valstybės  valdymo
+organizuoja Vyriausybė. Apskrities valdymas yra sudėtinė valstybės valdymo
 
 dalis.
 
-Apskrities
+Apskrities ribas bei
 
-ribas  bei centrą  nustato ir  keičia, pavadinimą
+centrą nustato ir keičia, pavadinimą jam suteikia ir keičia Lietuvos
 
-jam suteikia  ir
-
-keičia  Lietuvos Respublikos  Seimas Vyriausybės
-
-teikimu.
+Respublikos Seimas Vyriausybės teikimu.
 
 2 straipsnis.
 
 Apskrities valdymo teisiniai pagrindai
 
-Apskrities
+Apskrities valdymas
 
-valdymas  organizuojamas, vadovaujantis  Lietuvos
+organizuojamas, vadovaujantis Lietuvos Respublikos Konstitucija,  šiuo
 
-Respublikos
+įstatymu,  kitais  Lietuvos Respublikos įstatymais, Lietuvos Respublikos Seimo
 
-Konstitucija,   šiuo   įstatymu,   kitais   Lietuvos
+nutarimais, Respublikos Prezidento dekretais, Vyriausybės nutarimais bei kitų
 
-Respublikos
-
-įstatymais,  Lietuvos Respublikos  Seimo  nutarimais,
-
-Respublikos
-
-Prezidento dekretais, Vyriausybės nutarimais bei kitų
-
-valstybės valdymo
-
-institucijų teisės aktais.
+valstybės valdymo institucijų teisės aktais.
 
 3 straipsnis.
 
 Apskrities lėšos
 
-Apskrities
+Apskrities valdymui
 
-valdymui  organizuoti  ir  valdytojo  funkcijoms
+organizuoti ir valdytojo funkcijoms įgyvendinti lėšos skiriamos iš valstybės
 
-įgyvendinti  lėšos
-
-skiriamos  iš  valstybės  biudžeto  bei  kitų
-
-finansavimo
-
-šaltinių.
+biudžeto bei kitų finansavimo šaltinių.
 
 II skyrius
 
-APSKRITIES VALDYTOJAS IR JO KOMPETENCIJA
+APSKRITIES
+
+VIRŠININKAS IR JO KOMPETENCIJA
 
 4 straipsnis.
 
-Apskrities valdytojas
+Apskrities viršininkas
 
-Apskrities
+Apskrities viršininką
 
-valdytoją skiria ir atleidžia Vyriausybė Ministro
+skiria ir atleidžia Vyriausybė Ministro Pirmininko teikimu.
 
-Pirmininko teikimu.
+Apskrities viršininku
 
-Apskrities
+gali  būti  Lietuvos  Respublikos pilietis, turintis aukštąjį išsilavinimą.
 
-valdytoju   gali   būti   Lietuvos   Respublikos
+Apskrities viršininkas negali eiti jokių kitų renkamų ar skiriamų pareigų,
 
-pilietis, turintis
+dirbti valstybinėse, visuomeninėse, privačiose verslo, komercijos ar kitokiose
 
-aukštąjį išsilavinimą.  Apskrities valdytojas
+įstaigose  ar įmonėse,  taip pat  gauti  kitokio atlyginimo, išskyrus pagal
 
-negali eiti  jokių
+pareigas nustatytąjį bei užmokestį už kūrybinę veiklą.
 
-kitų  renkamų  ar  skiriamų  pareigų,  dirbti
+Apskrities viršininko
 
-valstybinėse,
+atlyginimą nustato Vyriausybė.
 
-visuomeninėse,  privačiose  verslo,  komercijos  ar
+Apskrities viršininkas
 
-kitokiose
+atsiskaito Vyriausybei šios nustatyta tvarka.
 
-įstaigose   ar  įmonėse,   taip  pat   gauti   kitokio
+Apskrities viršininkas
 
-atlyginimo,
+turi pavaduotoją, kurį skiria ir atleidžia Ministras Pirmininkas apskrities
 
-išskyrus  pagal pareigas nustatytąjį bei užmokestį už
+viršininko teikimu. Apskrities viršininko pavaduotojui taikomi tokie pat
 
-kūrybinę veiklą.
-
-Apskrities
-
-valdytojo atlyginimą nustato Vyriausybė.
-
-Apskrities
-
-valdytojas  atsiskaito Vyriausybei šios nustatyta
-
-tvarka.
-
-Apskrities
-
-valdytojas  turi  pavaduotoją,  kurį  skiria  ir
-
-atleidžia Ministras
-
-Pirmininkas  apskrities  valdytojo  teikimu.
-
-Apskrities
-
-valdytojo  pavaduotojui taikomi tokie pat reikalavimai
-
-kaip ir apskrities
-
-valdytojui.
+reikalavimai kaip ir apskrities viršininkui.
 
 5 straipsnis.
 
-Apskrities valdytojo uždaviniai
+Apskrities viršininko uždaviniai
 
-Apskrities
+Apskrities viršininko
 
-valdytojo uždaviniai yra:
+uždaviniai yra:
 
 1) įgyvendinti
 
-valstybės  politiką  socialinio  aprūpinimo,
+valstybės politiką socialinio aprūpinimo, švietimo, kultūros, sveikatos
 
-švietimo, kultūros,
+priežiūros, teritorijos planavimo, paminklotvarkos, žemės naudojimo ir apsaugos
 
-sveikatos priežiūros, teritorijos planavimo,
+bei žemės ūkio, aplinkos apsaugos  ir kitose  srityse,  vykdyti  apskrityje
 
-paminklotvarkos,
+valstybines ir tarpregionines programas;
 
-žemės  naudojimo ir  apsaugos  bei  žemės  ūkio,
+2) koordinuoti
 
-aplinkos  apsaugos
+apskrityje esančių ministerijų ir kitų Vyriausybės institucijų struktūrinių
 
-ir  kitose   srityse,   vykdyti   apskrityje
+padalinių veiklą, taip pat derinti savivaldos vykdomųjų institucijų veiklą,
 
-valstybines ir
+įgyvendinant regionines programas;
 
-tarpregionines programas;
+3) numatyti
 
-2)
+prioritetines apskrities raidos kryptis ir rengti programas.
 
-koordinuoti   apskrityje  esančių  ministerijų  ir  kitų
+4) prižiūrėti, ar
 
-Vyriausybės
+savivaldybės laikosi Lietuvos Respublikos Konstitucijos ir įstatymų, ar vykdo
 
-institucijų  struktūrinių padalinių  veiklą, taip pat
+Vyriausybės nutarimus, tikrinti, ar kolegialių ir nekolegialių savivaldos
 
-derinti savivaldos
+institucijų priimti sprendimai nepažeidžia piliečių ir organizacijų teisių.
 
-vykdomųjų  institucijų  veiklą,  įgyvendinant
+Straipsnio pakeitimai:
 
-regionines programas;
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-3)  numatyti
+(96.12.31)
 
-prioritetines  apskrities  raidos  kryptis  ir
+6 straipsnis.
 
-rengti programas.
-
-6 straipsnis. Apskrities viršininko teisės ir įgaliojimai
+Apskrities viršininko teisės ir įgaliojimai
 
 savivaldybių veiklos priežiūros klausimais
 
-Apskrities
+Apskrities viršininkas
 
-viršininkas turi teisę:
+turi teisę:
 
-1)
+1) tikrinimų metu
 
-tikrinimų metu gauti savivaldos institucijų sprendimų originalus, o prireikus -
+gauti savivaldos institucijų sprendimų originalus, o prireikus - ir šių
 
-ir šių institucijų vadovų paaiškinimus dėl sprendimo priėmimo tikslų bei
+institucijų vadovų paaiškinimus dėl sprendimo priėmimo tikslų bei aplinkybių,
 
-aplinkybių, sprendimų įgyvendinimo būdų ir priemonių; kitais atvejais -
+sprendimų įgyvendinimo būdų ir priemonių; kitais atvejais - savivaldos
 
-savivaldos institucijų sesijų ir posėdžių protokolų, priimtų dokumentų kopijas
+institucijų sesijų ir posėdžių protokolų, priimtų dokumentų kopijas ir kitą
 
-ir kitą aiškinamąją medžiagą;
+aiškinamąją medžiagą;
 
-2)
+2) dalyvauti
 
-dalyvauti savivaldybių tarybų bei valdybų posėdžiuose, savivaldybės tarybos sutikimu
+savivaldybių tarybų bei valdybų posėdžiuose, savivaldybės tarybos sutikimu
 
 išdėstyti savo požiūrį į svarstomą sprendimo projektą, įspėti apie jame
 
@@ -433,273 +259,253 @@ esančius piliečių ar organizacijų teisių pažeidimus arba prieštaravimą
 
 priėmimą;
 
-3)
+3) nagrinėti gautus
 
-nagrinėti gautus gyventojų pareiškimus bei skundus dėl savivaldos institucijų
+gyventojų pareiškimus bei skundus dėl savivaldos institucijų priimtų sprendimų,
 
-priimtų sprendimų, pažeidžiančių gyventojų teises bei teisėtus interesus, ir
+pažeidžiančių gyventojų teises bei teisėtus interesus, ir spręsti pagal savo
 
-spręsti pagal savo įgaliojimus. Kitus gyventojų pareiškimus perduoti nagrinėti
+įgaliojimus. Kitus gyventojų pareiškimus perduoti nagrinėti kitiems valstybės
 
-kitiems valstybės ar savivaldybės pareigūnams pagal šių kompetenciją;
+ar savivaldybės pareigūnams pagal šių kompetenciją;
 
-4)
+4) susipažinti su
 
-susipažinti su Lietuvos Respublikos Seimo ir Vyriausybės dokumentais, raštais,
+Lietuvos Respublikos Seimo ir Vyriausybės dokumentais, raštais, kuriuose
 
-kuriuose sprendžiami savivaldybių reikalai;
+sprendžiami savivaldybių reikalai;
 
-5)
+5) dalyvauti Lietuvos
 
-dalyvauti Lietuvos Respublikos Seimo ir Vyriausybės posėdžiuose, taip pat
+Respublikos Seimo ir Vyriausybės posėdžiuose, taip pat kituose valstybės
 
-kituose valstybės institucijų organizuojamuose renginiuose, kai svarstomi
+institucijų organizuojamuose renginiuose, kai svarstomi vietos savivaldos ar
 
-vietos savivaldos ar savivaldybių darbo klausimai.
+savivaldybių darbo klausimai.
 
-Įstatymas
+Įstatymas papildytas straipsniu:
 
-papildytas straipsniu:
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
+
+(96.12.31)
+
+7 straipsnis.  Apskrities viršininko įgaliojimai švietimo, kultūros ir
+
+socialiniais
+
+klausimais
+
+Apskrities viršininkas:
+
+1) įstatymų nustatyta tvarka steigia,
+
+reorganizuoja ir likviduoja apskrities valstybines švietimo, kultūros, kūno
+
+kultūros ir sporto, socialinės paramos ir globos įstaigas bei tarnybas, taip
+
+pat specialiųjų socialinių paslaugų institucijas, išskyrus aukštesniąsias ir
+
+profesines mokyklas;
+
+2) atsako už šio straipsnio 1 punkte nurodytų
+
+valstybinių įstaigų funkcionavimą ir jų išlaikymą;
+
+3) prižiūri bendrosios valstybinės švietimo,
+
+kultūros ir socialinės politikos vykdymą;
+
+4) rengia, koordinuoja ir vykdo apskrities
+
+socialines programas ir socialinius projektus;
+
+5) kontroliuoja socialinių paslaugų teikimą
+
+apskričiai priklausančiose socialinių paslaugų teikimo įstaigose;
+
+6) kartu su teritorinėmis darbo biržomis
+
+sprendžia gyventojų užimtumo problemas.
+
+Straipsnio pakeitimai:
+
+Nr. 1-1355, 96.05.30, Žin., 1996, Nr. 55-1293
+
+(96.06.12)
+
+Straipsnio žymėjimas pakeistas:
+
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 
 Nr.
 
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
+VIII-129, 97.02.25, Žin., 1997, Nr.21-489 (97.03.12)
 
-7
+8 straipsnis.
 
-straipsnis. Apskrities viršininko įgaliojimai švietimo,
-
-kultūros ir socialiniais klausimais
+Apskrities viršininko įgaliojimai sveikatinimo veiklos klausimais
 
 Apskrities
 
 viršininkas:
 
-1)
+1) dalyvauja
 
-įstatymų nustatyta tvarka steigia, reorganizuoja ir likviduoja  apskrities
+nustatant pirminės  sveikatinimo  veiklos prioritetines kryptis;
 
-valstybines švietimo, kultūros, kūno kultūros ir sporto, socialinės paramos ir
+2) nustatyta tvarka
 
-globos įstaigas bei tarnybas, išskyrus aukštesniąsias ir profesines mokyklas;
+steigia, išlaiko, reorganizuoja ir likviduoja apskrities valstybines sveikatos
 
-2)
+priežiūros įstaigas - ligonines, poliklinikas, dispanserius, higienos centrus
 
-atsako už šio straipsnio 1 punkte nurodytų valstybinių įstaigų funkcionavimą ir
+ir kitas;
 
-jų išlaikymą;
+3) organizuoja
 
-3)
+apskrities gyventojų sveikatinimo būklės statistinius stebėjimus  bei
 
-prižiūri bendrosios valstybinės švietimo, kultūros ir socialinės politikos
+analizuoja apskrities gyventojų sveikatinimo būklės pokyčius;
 
-vykdymą;
+4) organizuoja
 
-4)
+valstybinių tarpregioninių ir apskrities sveikatos programų įgyvendinimą;
 
-kartu  su  teritorinėmis  darbo biržomis sprendžia gyventojų užimtumo
+5) teikia siūlymus
 
-problemas.
+Vyriausybei skelbti apskrities teritoriją pavojaus ar žalos visuomenės
 
-Straipsnio
+sveikatai rajonu;
 
-pakeitimai:
+6) informuoja
 
-Nr.
+apskrities gyventojus apie jų sveikatingumo būklės tendencijas.
 
-1-1355, 96.05.30, Žin., 1996, Nr. 55-1293 (96.06.12)
+Straipsnio žymėjimas pakeistas:
 
-Straipsnio
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-žymėjimas pakeistas:
+(96.12.31)
 
-Nr.
+9 straipsnis.
 
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
+Apskrities viršininko įgaliojimai teritorijos
 
-8
+planavimo ir paminklotvarkos
 
-straipsnis. Apskrities viršininko įgaliojimai
-
-sveikatinimo veiklos klausimais
+klausimais
 
 Apskrities
 
 viršininkas:
 
-1)
+1) rengia apskrities
 
-dalyvauja  nustatant pirminės  sveikatinimo  veiklos prioritetines kryptis;
+bendrojo ir specialiojo planavimo dokumentus;
 
-2)
+2) kaupia ir tvarko
 
-nustatyta tvarka steigia, išlaiko, reorganizuoja ir likviduoja apskrities
+teritorijos planavimo duomenų banką bei teritorijos planavimo duomenų registrą,
 
-valstybines sveikatos priežiūros įstaigas - ligonines, poliklinikas,
+teikia informaciją kitų lygių duomenų bankams;
 
-dispanserius, higienos centrus ir kitas;
+3) teikia
 
-3)
+informaciją, išvadas ir pasiūlymus Lietuvos Respublikos teritorijos  bendrajam
 
-organizuoja apskrities gyventojų sveikatinimo būklės statistinius stebėjimus
+ir specialiesiems planams rengti;
 
-bei analizuoja apskrities gyventojų sveikatinimo būklės pokyčius;
+4) nustato  sąlygas
 
-4)
+apskrities teritorijos specialiajam planavimui ir derina planavimo projektus;
 
-organizuoja valstybinių tarpregioninių ir apskrities sveikatos programų
+5) nustato  sąlygas
 
-įgyvendinimą;
+savivaldybių  teritorijų  planavimo dokumentų rengimui ir juos derina;
 
-5)
+6) atlieka  valstybinę
 
-teikia siūlymus Vyriausybei skelbti apskrities teritoriją pavojaus ar žalos
+pastatų,  statinių ir įrenginių projektavimo, statybos ir eksploatavimo
 
-visuomenės sveikatai rajonu;
+valstybinę priežiūrą bei jų teisinį registravimą;
 
-6)
+7) nustatyta tvarka
 
-informuoja apskrities gyventojus apie jų sveikatingumo būklės tendencijas.
+prižiūri teritorijos planavimą;
 
-Straipsnio
+8) kaupia topografinę
 
-žymėjimas pakeistas:
+geodezinę ir kartografinę medžiagą;
 
-Nr.
+9) atlieka kultūros
 
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
+vertybių ir paminklų apsaugą, tvarko jų apskaitą ir prižiūri paminklotvarką;
 
-9
+10) atlieka apskričiai
 
-straipsnis. Apskrities viršininko įgaliojimai teritorijos
+priskirtų objektų statybos užsakovo funkcijas.
 
-planavimo ir paminklotvarkos klausimais
+Straipsnio žymėjimas pakeistas:
 
-Apskrities
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-viršininkas:
+(96.12.31)
 
-1)
+10 straipsnis.
 
-rengia apskrities bendrojo ir specialiojo planavimo dokumentus;
+Apskrities viršininko įgaliojimai žemėtvarkos,
 
-2)
+žemės kadastro ir žemės ūkio
 
-kaupia ir tvarko teritorijos planavimo duomenų banką bei teritorijos planavimo
-
-duomenų registrą, teikia informaciją kitų lygių duomenų bankams;
-
-3)
-
-teikia  informaciją, išvadas ir pasiūlymus Lietuvos Respublikos teritorijos
-
-bendrajam ir specialiesiems planams rengti;
-
-4)
-
-nustato  sąlygas apskrities teritorijos specialiajam planavimui ir derina
-
-planavimo projektus;
-
-5)
-
-nustato  sąlygas savivaldybių  teritorijų  planavimo dokumentų rengimui ir juos
-
-derina;
-
-6)
-
-atlieka  valstybinę pastatų,  statinių ir įrenginių projektavimo, statybos ir
-
-eksploatavimo valstybinę priežiūrą bei jų teisinį registravimą;
-
-7)
-
-nustatyta tvarka prižiūri teritorijos planavimą;
-
-8)
-
-kaupia topografinę geodezinę ir kartografinę medžiagą;
-
-9)
-
-atlieka kultūros vertybių ir paminklų apsaugą, tvarko jų apskaitą ir prižiūri
-
-paminklotvarką;
-
-10)
-
-atlieka apskričiai priskirtų objektų statybos užsakovo funkcijas.
-
-Straipsnio
-
-žymėjimas pakeistas:
-
-Nr.
-
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-10
-
-straipsnis. Apskrities viršininko įgaliojimai žemėtvarkos,
-
-žemės kadastro ir žemės ūkio klausimais
+klausimais
 
 Apskrities
 
 viršininkas:
 
-1)
+1) tvarko laisvos
 
-tvarko laisvos valstybinės žemės fondą, išskyrus žemę, perduotą valdyti
+valstybinės žemės fondą, išskyrus žemę, perduotą valdyti savivaldos
 
-savivaldos institucijoms;
+institucijoms;
 
-2)
+2) organizuoja
 
-organizuoja valstybinio žemės kadastro darbus, atlieka žemės teisinį
+valstybinio žemės kadastro darbus, atlieka žemės teisinį registravimą;
 
-registravimą;
+3) įgyvendina žemės
 
-3)
+reformą;
 
-įgyvendina žemės reformą;
+4) atlieka žemės
 
-4)
+servitutų (nuosavybės) ir žemės naudojimo valstybinį reguliavimą ir žemės
 
-atlieka žemės servitutų (nuosavybės) ir žemės naudojimo valstybinį reguliavimą
+naudojimo valstybinę kontrolę;
 
-ir žemės naudojimo valstybinę kontrolę;
+5) koordinuoja žemės
 
-5)
+ūkio klausimus, skirsto žemės ūkio produkcijos valstybinio supirkimo kvotas;
 
-koordinuoja žemės ūkio klausimus, skirsto žemės ūkio produkcijos valstybinio
+6) kontroliuoja augalų
 
-supirkimo kvotas;
+apsaugos priemonių naudojimą;
 
-6)
+7) atlieka  valstybinę
 
-kontroliuoja augalų apsaugos priemonių naudojimą;
+melioracijos  ir  hidrotechnikos įrenginių  priežiūrą,  organizuoja  valstybei
 
-7)
+priklausančių melioracijos ir hidrotechnikos įrenginių eksploataciją.
 
-atlieka  valstybinę melioracijos  ir  hidrotechnikos įrenginių  priežiūrą,
+Straipsnio žymėjimas pakeistas:
 
-organizuoja  valstybei  priklausančių melioracijos ir hidrotechnikos įrenginių
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-eksploataciją.
+(96.12.31)
 
-Straipsnio
+11 straipsnis.
 
-žymėjimas pakeistas:
-
-Nr.
-
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-11
-
-straipsnis. Apskrities viršininko įgaliojimai gamtos
+Apskrities viršininko įgaliojimai gamtos
 
 išteklių naudojimo ir aplinkos apsaugos klausimais
 
@@ -707,233 +513,215 @@ Apskrities
 
 viršininkas:
 
-1)
+1) pagal savo
 
-pagal savo kompetenciją nustato gamtos išteklių naudojimo limitus ir
+kompetenciją nustato gamtos išteklių naudojimo limitus ir kontroliuoja, kaip jų
 
-kontroliuoja, kaip jų laikomasi;
+laikomasi;
 
-2)
+2) organizuoja  veiklą
 
-organizuoja  veiklą apskričiai priskirtose saugomose teritorijose ir dalyvauja
+apskričiai priskirtose saugomose teritorijose ir dalyvauja valdant kitas
 
-valdant kitas saugomas teritorijas (išskyrus rezervatus);
+saugomas teritorijas (išskyrus rezervatus);
 
-3)
+3) nustatyta tvarka ir
 
-nustatyta tvarka ir neviršydamas savo įgaliojimų vertina ūkinės veiklos poveikį
+neviršydamas savo įgaliojimų vertina ūkinės veiklos poveikį aplinkai ir derina
 
-aplinkai ir derina projektus;
+projektus;
 
-4)
+4) pagal savo
 
-pagal savo kompetenciją atlieka valstybinę miškų būklės, naudojimo, atkūrimo ir
+kompetenciją atlieka valstybinę miškų būklės, naudojimo, atkūrimo ir apsaugos
 
-apsaugos kontrolę;
+kontrolę;
 
-5)
+5) neviršydamas  savo
 
-neviršydamas  savo įgaliojimų,  organizuoja  vandens telkinių valdymą  bei
+įgaliojimų,  organizuoja  vandens telkinių valdymą  bei apsaugos  juostų ir
 
-apsaugos  juostų ir  zonų  tvarkymą, kontroliuoja kitiems  subjektams
+zonų  tvarkymą, kontroliuoja kitiems  subjektams priskirtų  vandens telkinių
 
-priskirtų  vandens telkinių valdymą;
+valdymą;
 
-6)
+6) organizuoja
 
-organizuoja ekologinį švietimą.
+ekologinį švietimą.
 
-Straipsnio
+Straipsnio žymėjimas pakeistas:
 
-žymėjimas pakeistas:
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-Nr.
+(96.12.31)
 
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
+12 straipsnis.
 
-12
-
-straipsnis. Apskrities viršininko įgaliojimai kitais
-
-klausimais
+Apskrities viršininko įgaliojimai kitais klausimais
 
 Apskrities
 
 viršininkas, neviršydamas savo įgaliojimų:
 
-1)
+1) nagrinėja fizinių
 
-nagrinėja fizinių bei juridinių asmenų pareiškimus bei prašymus ir priima dėl
+bei juridinių asmenų pareiškimus bei prašymus ir priima dėl jų sprendimus.
 
-jų sprendimus. Valdytojo sprendimai gali būti apskųsti tik teismui;
+Valdytojo sprendimai gali būti apskųsti tik teismui;
 
-2)
+2) analizuoja
 
-analizuoja apskrities socialinę, ekonominę ir ekologinę būklę bei jos pokyčius
+apskrities socialinę, ekonominę ir ekologinę būklę bei jos pokyčius ir apie tai
 
-ir apie tai praneša gyventojams;
+praneša gyventojams;
 
-3)
+3)  prižiūri,  kaip
 
-prižiūri,  kaip  įgyvendinami  Lietuvos Respublikos konkurencijos įstatymo
+įgyvendinami  Lietuvos Respublikos konkurencijos įstatymo reikalavimai;
 
-reikalavimai;
+4)  registruoja
 
-4)
+visuomeninių organizacijų, kurių veikla apima daugiau kaip vienos savivaldybės
 
-registruoja visuomeninių organizacijų, kurių veikla apima daugiau kaip vienos
+teritoriją ir kurių buveinės yra apskrities centre ar kitoje apskrities
 
-savivaldybės teritoriją ir kurių buveinės yra apskrities centre ar kitoje
+teritorijoje esančioje miesto ar kaimo gyvenamojoje vietovėje, įstatus;
 
-apskrities teritorijoje esančioje miesto ar kaimo gyvenamojoje vietovėje,
+5) organizuoja
 
-įstatus;
+apskrities (rajoninių) kelių priežiūrą;
 
-5)
+6)  registruoja
 
-organizuoja apskrities (rajoninių) kelių priežiūrą;
+traktorius,  savaeiges  važiuokles, traktorines priekabas ir kelių tiesimo
 
-6)
+mašinas;
 
-registruoja  traktorius,  savaeiges  važiuokles, traktorines priekabas ir kelių
+7) atlieka pastatų,
 
-tiesimo mašinas;
+statinių ir butų teisinį registravimą;
 
-7)
+8)  organizuoja
 
-atlieka pastatų, statinių ir butų teisinį registravimą;
+stichinių  nelaimių, avarijų padarinių likvidavimą, paieškos ir gelbėjimo
 
-8)
+darbus;
 
-organizuoja  stichinių  nelaimių, avarijų padarinių likvidavimą, paieškos ir
+9) steigia,
 
-gelbėjimo darbus;
+reorganizuoja, likviduoja valstybės įmones, valdo  apskričių  viršininkams
 
-9)
+perduotų  įmonių  valstybei priklausančias akcijas.
 
-steigia, reorganizuoja, likviduoja valstybės įmones, valdo  apskričių
+Apskrities viršininkas
 
-viršininkams  perduotų  įmonių  valstybei priklausančias akcijas.
+atlieka ir kitus Lietuvos Respublikos įstatymuose ir Vyriausybės nutarimuose
 
-Apskrities
+numatytus įgaliojimus.
 
-viršininkas atlieka ir kitus Lietuvos Respublikos įstatymuose ir Vyriausybės
+Straipsnio pakeitimai:
 
-nutarimuose numatytus įgaliojimus.
+Nr. 1-1280, 96.04.04, Žin., 1996, Nr. 35-876
 
-Straipsnio
+(96.04.19)
 
-pakeitimai:
+Straipsnio žymėjimas pakeistas:
 
-Nr.
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-1-1280, 96.04.04, Žin., 1996, Nr. 35-876 (96.04.19)
+(96.12.31)
 
-Straipsnio
+13 straipsnis.
 
-žymėjimas pakeistas:
-
-Nr.
-
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-13
-
-straipsnis. Apskrities viršininko teisės
+Apskrities viršininko teisės
 
 Apskrities
 
 viršininkas,  vykdydamas  jam  priskirtus įgaliojimus, turi teisę:
 
-1)
+1) teikti pasiūlymus
 
-teikti pasiūlymus su apskrities teritorija susijusiais klausimais valstybinėms
+su apskrities teritorija susijusiais klausimais valstybinėms ir tarpregioninėms
 
-ir tarpregioninėms programoms rengti bei išvadas dėl parengtų valstybinių ir
+programoms rengti bei išvadas dėl parengtų valstybinių ir tarpregioninių
 
-tarpregioninių programų projektų;
+programų projektų;
 
-2)
+2) teikti pasiūlymus
 
-teikti pasiūlymus Vyriausybei ir kitoms valstybės valdymo institucijoms
+Vyriausybei ir kitoms valstybės valdymo institucijoms apskrities raidos
 
-apskrities raidos klausimais;
+klausimais;
 
-3)
+3) dalyvauti
 
-dalyvauti Vyriausybės posėdžiuose svarstant su apskrities valdytojo
+Vyriausybės posėdžiuose svarstant su apskrities valdytojo kompetencija
 
-kompetencija susijusius klausimus, taip pat apskrityje esančių ministerijų ir
+susijusius klausimus, taip pat apskrityje esančių ministerijų ir kitų
 
-kitų Vyriausybės institucijų struktūrinių padalinių bei savivaldos institucijų
+Vyriausybės institucijų struktūrinių padalinių bei savivaldos institucijų
 
 posėdžiuose;
 
-4)
+4) prireikus kviesti
 
-prireikus kviesti apskrityje esančių ministerijų ir kitų Vyriausybės
+apskrityje esančių ministerijų ir kitų Vyriausybės institucijų struktūrinių
 
-institucijų struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkauti;
+padalinių vadovų pasitarimus ir jiems pirmininkauti;
 
-5)
+5) sustabdyti ar
 
-sustabdyti ar panaikinti apskrityje esančių įmonių, įstaigų ir organizacijų
+panaikinti apskrityje esančių įmonių, įstaigų ir organizacijų priimtus teisės
 
-priimtus teisės aktus, neatitinkančius Lietuvos Respublikos įstatymų ir
+aktus, neatitinkančius Lietuvos Respublikos įstatymų ir Vyriausybės nutarimų;
 
-Vyriausybės nutarimų;
+6) gauti iš kitų
 
-6)
+valstybės valdymo ir apskrities savivaldos institucijų, įmonių, įstaigų ir
 
-gauti iš kitų valstybės valdymo ir apskrities savivaldos institucijų, įmonių,
+organizacijų informaciją savo kompetencijos klausimais;
 
-įstaigų ir organizacijų informaciją savo kompetencijos klausimais;
+7) įstatymų
 
-7)
+nustatytais atvejais imtis papildomų priemonių gyventojų bei jų turto saugumui
 
-įstatymų nustatytais atvejais imtis papildomų priemonių gyventojų bei jų turto
+užtikrinti, tvarkai apskrityje palaikyti;
 
-saugumui užtikrinti, tvarkai apskrityje palaikyti;
+8) sudaryti ekspertų
 
-8)
+komisijas jo kompetencijai priskirtiems klausimams analizuoti ir išvadoms
 
-sudaryti ekspertų komisijas jo kompetencijai priskirtiems klausimams analizuoti
+pateikti;
 
-ir išvadoms pateikti;
+9) kooperuoti
 
-9)
+savivaldybių lėšas numatomiems bendriems darbams apskrityje atlikti, kai yra
 
-kooperuoti  savivaldybių lėšas numatomiems bendriems darbams apskrityje
+susitarta;
 
-atlikti, kai yra susitarta;
+10) įstatymų
 
-10)
+nustatytais atvejais ir tvarka valdyti, naudoti ir disponuoti valstybės turtu;
 
-įstatymų nustatytais atvejais ir tvarka valdyti, naudoti ir disponuoti
+11)  nustatyta
 
-valstybės turtu;
+tvarka  rengti  konkursus,  organizuoti pasitarimus, konferencijas ir kitus
 
-11)
+renginius.
 
-nustatyta  tvarka  rengti  konkursus,  organizuoti pasitarimus, konferencijas
+Straipsnio žymėjimas pakeistas:
 
-ir kitus renginius.
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-Straipsnio
+(96.12.31)
 
-žymėjimas pakeistas:
+14 straipsnis.
 
-Nr.
+Apskrities viršininko teisių ir įgaliojimų savivaldybių veiklos
 
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
+priežiūros klausimais
 
-14
-
-straipsnis. Apskrities viršininko teisių ir įgaliojimų
-
-savivaldybių veiklos priežiūros
-
-klausimais įgyvendinimas
+įgyvendinimas
 
 Apskrities
 
@@ -945,127 +733,125 @@ organizacijų teises, arba kai nevykdomi Vyriausybės nutarimai, savo įgaliojim
 
 įgyvendina viena iš šių formų pasirinktinai:
 
-1)
+1) rašo motyvuotą
 
-rašo motyvuotą teikimą savivaldos institucijos, kuri priėmė sprendimą, potvarkį
+teikimą savivaldos institucijos, kuri priėmė sprendimą, potvarkį ar įsakymą
 
-ar įsakymą (toliau - sprendimas), vadovui, reikalaudamas tą sprendimą
+(toliau - sprendimas), vadovui, reikalaudamas tą sprendimą nedelsiant
 
-nedelsiant sustabdyti, svarstyti jo pakeitimo ar panaikinimo klausimą, ir apie
+sustabdyti, svarstyti jo pakeitimo ar panaikinimo klausimą, ir apie tai praneša
 
-tai praneša aukštesnei savivaldos institucijai (tarybai, valdybai).
+aukštesnei savivaldos institucijai (tarybai, valdybai).
 
-Apie
+Apie teikimo svarstymo
 
-teikimo svarstymo rezultatus savivaldos institucijos privalo pranešti
+rezultatus savivaldos institucijos privalo pranešti apskrities viršininkui: dėl
 
-apskrities viršininkui: dėl savivaldybės tarybos sprendimo - per savaitę po
+savivaldybės tarybos sprendimo - per savaitę po artimiausio tarybos posėdžio,
 
-artimiausio tarybos posėdžio, dėl savivaldybės valdybos ir nekolegialiai
+dėl savivaldybės valdybos ir nekolegialiai priimtų aktų - per 2 savaites po
 
-priimtų aktų - per 2 savaites po teikimo gavimo;
+teikimo gavimo;
 
-2)
+2) savo potvarkiu
 
-savo potvarkiu sustabdo įstatymams prieštaraujančio sprendimo vykdymą ir teikia
+sustabdo įstatymams prieštaraujančio sprendimo vykdymą ir teikia motyvuotą
 
-motyvuotą reikalavimą tą sprendimą priėmusiai institucijai, kuri privalo reikalavimą
+reikalavimą tą sprendimą priėmusiai institucijai, kuri privalo reikalavimą
 
 apsvarstyti artimiausiame posėdyje ir dėl jo priimti sprendimą;
 
-3)
+3) rašo savivaldybės
 
-rašo savivaldybės tarybai, valdybai ar merui reikalavimą, kad šie
+tarybai, valdybai ar merui reikalavimą, kad šie neatidėliodami vykdytų
 
-neatidėliodami vykdytų Vyriausybės nutarimą, ir prašo nurodytu laiku raštu
+Vyriausybės nutarimą, ir prašo nurodytu laiku raštu pranešti apie reikalavimo
 
-pranešti apie reikalavimo įvykdymą.
+įvykdymą.
 
-Sustabdytieji
+Sustabdytieji savivaldos
 
-savivaldos institucijų sprendimai negali būti vykdomi, kol ginčas nebus
+institucijų sprendimai negali būti vykdomi, kol ginčas nebus galutinai
 
-galutinai išspręstas per nustatytą terminą savivaldybėje arba teisme.
+išspręstas per nustatytą terminą savivaldybėje arba teisme.
 
-Visais
+Visais atvejais apie
 
-atvejais apie apskrities viršininko reikalavimų svarstymo laiką ir vietą turi
+apskrities viršininko reikalavimų svarstymo laiką ir vietą turi būti pranešta
 
-būti pranešta jam ir aukštesnei savivaldos institucijai.
+jam ir aukštesnei savivaldos institucijai.
 
-Jeigu
+Jeigu nekolegialiai
 
-nekolegialiai priimto akto panaikinimo klausimą imasi svarstyti kolegiali
+priimto akto panaikinimo klausimą imasi svarstyti kolegiali institucija,
 
-institucija, turinti teisę tą aktą naikinti, apskrities viršininkas šios
+turinti teisę tą aktą naikinti, apskrities viršininkas šios institucijos
 
-institucijos prašymu atideda sutartam laikui savo reikalavimo įvykdymo terminą.
+prašymu atideda sutartam laikui savo reikalavimo įvykdymo terminą.
 
-Jeigu
+Jeigu savivaldybės
 
-savivaldybės taryba ar valdyba (jei valdyba nesudaryta - meras) atsisako
+taryba ar valdyba (jei valdyba nesudaryta - meras) atsisako vykdyti apskrities
 
-vykdyti apskrities viršininko reikalavimą arba laiku nepraneša apie reikalavimo
+viršininko reikalavimą arba laiku nepraneša apie reikalavimo ar Vyriausybės
 
-ar Vyriausybės nutarimo įvykdymą, taip pat jeigu šios institucijos per savaitę
+nutarimo įvykdymą, taip pat jeigu šios institucijos per savaitę po artimiausio
 
-po artimiausio tarybos posėdžio nepanaikina savo ar joms pavaldžių institucijų
+tarybos posėdžio nepanaikina savo ar joms pavaldžių institucijų (valdybos,
 
-(valdybos, mero, administratoriaus, seniūno) neteisėtų aktų arba priima naują
+mero, administratoriaus, seniūno) neteisėtų aktų arba priima naują sprendimą,
 
-sprendimą, taip pat prieštaraujantį įstatymams, apskrities viršininkas per 10
+taip pat prieštaraujantį įstatymams, apskrities viršininkas per 10 dienų
 
-dienų apskundžia šiuos aktus ar pareigūnų veiksmus teismui, o apie Vyriausybės
+apskundžia šiuos aktus ar pareigūnų veiksmus teismui, o apie Vyriausybės
 
 nutarimo nevykdymą praneša Vyriausybei.
 
-Apskrities
+Apskrities viršininkas
 
-viršininkas kas pusmetį privalo pateikti Vyriausybei ir atitinkamoms
+kas pusmetį privalo pateikti Vyriausybei ir atitinkamoms savivaldybėms
 
-savivaldybėms informaciją apie tai, ar tikrintų savivaldos institucijų priimti
+informaciją apie tai, ar tikrintų savivaldos institucijų priimti dokumentai
 
-dokumentai teisėti, kaip jis reagavo į ginčytinus sprendimus, kokie pateiktų
+teisėti, kaip jis reagavo į ginčytinus sprendimus, kokie pateiktų reikalavimų
 
-reikalavimų svarstymo bei ginčų sprendimo teismuose rezultatai.
+svarstymo bei ginčų sprendimo teismuose rezultatai.
 
-Įstatymas
+Įstatymas papildytas straipsniu:
 
-papildytas straipsniu:
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-Nr.
+(96.12.31)
 
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
+III
 
-III skyrius
+skyrius
 
 VALSTYBĖS VALDYMO INSTITUCIJOS APSKRITYJE
 
-15
+15 straipsnis.
 
-straipsnis. Valstybės valdymo institucijos apskrityje
+Valstybės valdymo institucijos apskrityje
 
-Valstybės
+Valstybės valdymo
 
-valdymo institucijos pagal savo veiklos pobūdį Lietuvos Respublikos Seimui arba
+institucijos pagal savo veiklos pobūdį Lietuvos Respublikos Seimui arba
 
 Vyriausybei leidus gali steigti apskrityje sau pavaldžias valdymo įstaigas ir
 
 organizacijas.
 
-Valstybės
+Valstybės valdymo
 
-valdymo institucijoms pavaldžios valdymo įstaigos ir organizacijos  apskrityje
+institucijoms pavaldžios valdymo įstaigos ir organizacijos  apskrityje veikia
 
-veikia  pagal šių  institucijų patvirtintus nuostatus.
+pagal šių  institucijų patvirtintus nuostatus.
 
-Straipsnio
+Straipsnio žymėjimas pakeistas:
 
-žymėjimas pakeistas:
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-Nr.
-
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
+(96.12.31)
 
 IV skyrius
 
@@ -1073,33 +859,35 @@ APSKRITIES VIRŠININKO SANTYKIAI SU SAVIVALDOS
 
 IR VALSTYBĖS VALDYMO INSTITUCIJOMIS
 
-16
+16 straipsnis.
 
-straipsnis. Apskrities viršininkO santykiai su savivaldos
+Apskrities viršininkO santykiai su savivaldos
 
-ir valstybės valdymo institucijomis
+ir valstybės valdymo
 
-Apskrities
+institucijomis
 
-viršininkas ,  įgyvendindamas  jam  priskirtas funkcijas ir vykdydamas Lietuvos
+Apskrities viršininkas
 
-Respublikos įstatymus, kitus Lietuvos Respublikos Seimo priimtus teisės aktus,
+,  įgyvendindamas  jam  priskirtas funkcijas ir vykdydamas Lietuvos Respublikos
 
-Respublikos Prezidento dekretus ir Vyriausybės nutarimus, bendradarbiauja su
+įstatymus, kitus Lietuvos Respublikos Seimo priimtus teisės aktus, Respublikos
 
-savivaldos ir valstybės valdymo institucijomis, joms pavaldžiomis valdymo
+Prezidento dekretus ir Vyriausybės nutarimus, bendradarbiauja su savivaldos ir
 
-įstaigomis bei organizacijomis apskrityje ir Vyriausybės atstovu.
+valstybės valdymo institucijomis, joms pavaldžiomis valdymo įstaigomis bei
 
-Valstybės
+organizacijomis apskrityje ir Vyriausybės atstovu.
 
-valdymo institucijos, įsteigtos apskrityje pagal šio įstatymo 15 straipsnio
+Valstybės valdymo
 
-nuostatas, nėra pavaldžios apskrities viršininkui. Šios įstaigos ir
+institucijos, įsteigtos apskrityje pagal šio įstatymo 15 straipsnio nuostatas,
 
-organizacijos privalo pranešti apskrities viršininkui apie savo veiklą
+nėra pavaldžios apskrities viršininkui. Šios įstaigos ir organizacijos privalo
 
-apskrityje Vyriausybės nustatyta tvarka.
+pranešti apskrities viršininkui apie savo veiklą apskrityje Vyriausybės
+
+nustatyta tvarka.
 
 Vyriausybės
 
@@ -1123,1049 +911,175 @@ aukštesnioji  valstybės  valdymo institucija, galutinį sprendimą priima
 
 Vyriausybė.
 
-Straipsnio
+Straipsnio žymėjimas pakeistas:
 
-žymėjimas pakeistas:
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-Nr.
+(96.12.31)
 
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-17
-
-straipsnis. Apskrities taryba
-
-Prie
-
-apskrities viršininko sudaroma taryba.
-
-Į
-
-tarybą pagal pareigas įeina apskrities viršininkas (tarybos pirmininkas),
-
-apskrities viršininko  pavaduotojas,  apskrityje esančių savivaldybių merai.
-
-Taryba
-
-aprobuoja  apskrities  raidos  kryptis,  svarsto socialinės ekonominės raidos
-
-ir aplinkos apsaugos programų, teritorijos bendrojo planavimo dokumentų, sąlygų
-
-teritorijos specialiajam planavimui ir apskrities lėšų sąmatos projektus bei
-
-kitus klausimus.
-
-Straipsnio
-
-žymėjimas pakeistas: Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-V skyrius
-
-APSKRITIES VIRŠININKO VEIKLOS ORGANIZAVIMAS
-
-18
-
-straipsnis. Apskrities viršininko administracija
-
-Apskrities
-
-viršininkas jam priskirtoms funkcijoms įgyvendinti formuoja administraciją ir
-
-jai vadovauja.
-
-Apskrities
-
-viršininko administracija yra juridinis asmuo, turi antspaudą  su Lietuvos
-
-valstybės herbu ir apskrities pavadinimu.
-
-Apskrities
-
-viršininko  administracijos struktūrą  ir jos nuostatus tvirtina  bei  darbo
-
-apmokėjimo  tvarką  nustato Vyriausybė.
-
-Straipsnio
-
-žymėjimas pakeistas:
-
-Nr.
-
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-19
-
-straipsnis. Apskrities viršininko įgaliojimai
-
-administravimo srityje
-
-Apskrities
-
-viršininkas:
-
-1)
-
-organizuoja administracijos darbą ir atsako už jos veiklą;
-
-2)
-
-teikia Vyriausybei apskrities lėšų sąmatos projektą;
-
-3)
-
-skiria ir atleidžia iš pareigų jam pavaldžių įstaigų vadovus, gavęs atitinkamos
-
-Vyriausybės institucijos raštišką sutikimą, skiria ir atleidžia iš pareigų
-
-administracijos skyrių ir padalinių vedėjus;
-
-4)
-
-neviršydamas nustatyto metinio darbo apmokėjimo fondo, tvirtina administracijos
-
-etatų sąrašą;
-
-5)
-
-organizuoja apskrities tarybos  posėdžius ir jiems vadovauja;
-
-6)
-
-vykdo kitus Lietuvos Respublikos įstatymų, Vyriausybės ir Ministro Pirmininko
-
-jam suteiktus įgaliojimus.
-
-Kai
-
-apskrities viršininko nėra, jo pareigas eina apskrities viršininko
-
-pavaduotojas.
-
-Straipsnio
-
-žymėjimas pakeistas:
-
-Nr.
-
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-20
-
-straipsnis. Apskrities viršininko įsakymai ir kiti
-
-teisės aktai
-
-Apskrities
-
-viršininkas leidžia įsakymus ir kitus teisės aktus ir tikrina, kaip jie
-
-vykdomi.
-
-Apskrities
-
-viršininko  įsakymai ir  kiti teisės  aktai, neviršijantys jo kompetencijos,
-
-privalomi visiems juridiniams ir fiziniams asmenims.
-
-Vyriausybė
-
-turi  teisę panaikinti apskrities viršininko įsakymus ir kitus teisės aktus, jeigu
-
-jie neatitinka Lietuvos Respublikos Konstitucijos, įstatymų, kitų Lietuvos
-
-Respublikos Seimo priimtų teisės aktų, Respublikos Prezidento dekretų ir
-
-Vyriausybės nutarimų.
-
-Straipsnio
-
-žymėjimas pakeistas:
-
-Nr.
-
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-21
-
-straipsnis. Įstatymo įgyvendinimas
-
-Šio
-
-įstatymo  įgyvendinimo terminus  ir tvarką nustato įstatymas "Dėl Lietuvos
-
-Respublikos apskrities valdymo įstatymo įgyvendinimo".
-
-Straipsnio
-
-žymėjimas pakeistas:
-
-Nr.
-
-VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
-
-Skelbiu
-
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS            ALGIRDAS BRAZAUSKAS
-
-7 straipsnis.
-
-Apskrities valdytojo įgaliojimai
-
-sveikatinimo veiklos klausimais
-
-Apskrities
-
-valdytojas:
-
-1)  dalyvauja
-
-nustatant  pirminės   sveikatinimo   veiklos
-
-prioritetines
-
-kryptis;
-
-2)  nustatyta
-
-tvarka  steigia,  išlaiko,  reorganizuoja  ir
-
-likviduoja
-
-apskrities valstybines sveikatos priežiūros įstaigas -
-
-ligonines,
-
-poliklinikas, dispanserius, higienos centrus ir kitas;
-
-3)
-
-organizuoja  apskrities  gyventojų  sveikatinimo  būklės
-
-statistinius
-
-stebėjimus   bei  analizuoja  apskrities  gyventojų
-
-sveikatinimo būklės
-
-pokyčius;
-
-4)
-
-organizuoja  valstybinių  tarpregioninių  ir  apskrities
-
-sveikatos programų
-
-įgyvendinimą;
-
-5) teikia
-
-siūlymus Vyriausybei skelbti apskrities teritoriją
-
-pavojaus ar žalos
-
-visuomenės sveikatai rajonu;
-
-6) informuoja
-
-apskrities gyventojus  apie jų  sveikatingumo
-
-būklės tendencijas.
-
-8 straipsnis.
-
-Apskrities valdytojo įgaliojimai
-
-teritorijos planavimo ir paminklotvarkos
-
-klausimais
-
-Apskrities
-
-valdytojas:
-
-1)  rengia
-
-apskrities  bendrojo  ir  specialiojo  planavimo
-
-dokumentus;
-
-2) kaupia  ir
-
-tvarko teritorijos planavimo duomenų banką bei
-
-teritorijos
-
-planavimo  duomenų registrą,  teikia informaciją kitų
-
-lygių duomenų
-
-bankams;
-
-3)  teikia
-
-informaciją,  išvadas  ir  pasiūlymus  Lietuvos
-
-Respublikos
-
-teritorijos   bendrajam  ir  specialiesiems  planams
-
-rengti;
-
-4)  nustato
-
-sąlygas  apskrities  teritorijos  specialiajam
-
-planavimui ir derina
-
-planavimo projektus;
-
-5)  nustato
-
-sąlygas  savivaldybių   teritorijų   planavimo
-
-dokumentų rengimui
-
-ir juos derina;
-
-6)  atlieka
-
-valstybinę  pastatų,   statinių  ir  įrenginių
-
-projektavimo,
-
-statybos  ir eksploatavimo valstybinę priežiūrą bei
-
-jų teisinį
-
-registravimą;
-
-7) nustatyta
-
-tvarka prižiūri teritorijos planavimą;
-
-8) kaupia
-
-topografinę geodezinę ir kartografinę medžiagą;
-
-9) atlieka
-
-kultūros vertybių ir paminklų apsaugą, tvarko jų
-
-apskaitą ir prižiūri
-
-paminklotvarką;
-
-10) atlieka
-
-apskričiai priskirtų  objektų statybos užsakovo
-
-funkcijas.
-
-9 straipsnis.
-
-Apskrities valdytojo įgaliojimai
-
-žemėtvarkos, žemės kadastro ir žemės ūkio
-
-klausimais
-
-Apskrities
-
-valdytojas:
-
-1) tvarko
-
-laisvos valstybinės  žemės fondą,  išskyrus žemę,
-
-perduotą valdyti
-
-savivaldos institucijoms;
-
-2) organizuoja
-
-valstybinio žemės  kadastro darbus,  atlieka
-
-žemės teisinį
-
-registravimą;
-
-3) įgyvendina
-
-žemės reformą;
-
-4) atlieka
-
-žemės servitutų  (nuosavybės) ir žemės naudojimo
-
-valstybinį
-
-reguliavimą ir žemės naudojimo valstybinę kontrolę;
-
-5) koordinuoja
-
-žemės ūkio  klausimus,  skirsto  žemės  ūkio
-
-produkcijos
-
-valstybinio supirkimo kvotas;
-
-6) kontroliuoja
-
-augalų apsaugos priemonių naudojimą;
-
-7)  atlieka
-
-valstybinę  melioracijos   ir   hidrotechnikos
-
-įrenginių
-
-priežiūrą,    organizuoja   valstybei   priklausančių
-
-melioracijos ir hidrotechnikos
-
-įrenginių eksploataciją.
-
-10 straipsnis.
-
-Apskrities valdytojo įgaliojimai gamtos
-
-išteklių naudojimo ir aplinkos apsaugos
-
-klausimais
-
-Apskrities
-
-valdytojas:
-
-1) pagal savo
-
-kompetenciją nustato gamtos išteklių naudojimo
-
-limitus ir
-
-kontroliuoja, kaip jų laikomasi;
-
-2)
-
-organizuoja   veiklą  apskričiai  priskirtose  saugomose
-
-teritorijose ir
-
-dalyvauja  valdant  kitas  saugomas  teritorijas
-
-(išskyrus
-
-rezervatus);
-
-3) nustatyta
-
-tvarka ir neviršydamas savo įgaliojimų vertina
-
-ūkinės veiklos
-
-poveikį aplinkai ir derina projektus;
-
-4) pagal  savo
-
-kompetenciją atlieka valstybinę miškų būklės,
-
-naudojimo, atkūrimo
-
-ir apsaugos kontrolę;
-
-5)
-
-neviršydamas   savo  įgaliojimų,   organizuoja   vandens
-
-telkinių  valdymą
-
-bei  apsaugos   juostų  ir   zonų   tvarkymą,
-
-kontroliuoja
-
-kitiems   subjektams  priskirtų   vandens  telkinių
-
-valdymą;
-
-6) organizuoja
-
-ekologinį švietimą.
-
-11 straipsnis.
-
-Apskrities valdytojo įgaliojimai kitais
-
-klausimais
-
-Apskrities
-
-valdytojas, neviršydamas savo įgaliojimų:
-
-1)  nagrinėja
-
-fizinių  bei juridinių asmenų pareiškimus bei
-
-prašymus  ir  priima
-
-dėl jų sprendimus. Valdytojo sprendimai gali
-
-būti apskųsti tik
-
-teismui;
-
-2)  analizuoja
-
-apskrities socialinę, ekonominę ir ekologinę
-
-būklę bei jos
-
-pokyčius ir apie tai praneša gyventojams;
-
-3)
-
-prižiūri,   kaip   įgyvendinami   Lietuvos  Respublikos
-
-konkurencijos
-
-įstatymo reikalavimai;
-
-4)
-
-registruoja  visuomeninių  organizacijų,  kurių  veikla
-
-apima  daugiau
-
-kaip  vienos  savivaldybės  teritoriją  ir  kurių
-
-buveinės  yra
-
-apskrities centre ar kitoje apskrities teritorijoje
-
-esančioje miesto ar
-
-kaimo gyvenamojoje vietovėje, įstatus;
-
-5) organizuoja
-
-apskrities (rajoninių) kelių priežiūrą;
-
-6)
-
-registruoja    traktorius,    savaeiges    važiuokles,
-
-traktorines
-
-priekabas ir kelių tiesimo mašinas;
-
-7) atlieka
-
-pastatų, statinių ir butų teisinį registravimą;
-
-8)
-
-organizuoja   stichinių   nelaimių,  avarijų  padarinių
-
-likvidavimą,
-
-paieškos ir gelbėjimo darbus;
-
-9)  steigia,
-
-reorganizuoja,  likviduoja  valstybės  įmones,
-
-valdo
-
-apskričių    valdytojams   perduotų   įmonių   valstybei
-
-priklausančias
-
-akcijas.
-
-Apskrities
-
-valdytojas  atlieka ir kitus Lietuvos Respublikos
-
-įstatymuose ir
-
-Vyriausybės nutarimuose numatytus įgaliojimus.
-
-Straipsnio
-
-pakeitimai:
-
-{#96CCAA1280 ;} Nr.
-
-1-1280, 96.04.04, Žin., 1996, Nr. 35-876 (96.04.19)
-
-12 straipsnis.
-
-Apskrities valdytojo teisės
-
-Apskrities
-
-valdytojas,    vykdydamas    jam    priskirtus
-
-įgaliojimus, turi
-
-teisę:
-
-1) teikti
-
-pasiūlymus su  apskrities teritorija  susijusiais
-
-klausimais
-
-valstybinėms  ir tarpregioninėms programoms rengti bei
-
-išvadas  dėl
-
-parengtų  valstybinių  ir  tarpregioninių  programų
-
-projektų;
-
-2) teikti
-
-pasiūlymus Vyriausybei ir kitoms valstybės valdymo
-
-institucijoms
-
-apskrities raidos klausimais;
-
-3) dalyvauti
-
-Vyriausybės posėdžiuose svarstant su apskrities
-
-valdytojo
-
-kompetencija  susijusius klausimus, taip pat apskrityje
-
-esančių ministerijų
-
-ir kitų Vyriausybės institucijų struktūrinių
-
-padalinių bei
-
-savivaldos institucijų posėdžiuose;
-
-4) prireikus
-
-kviesti apskrityje esančių ministerijų ir kitų
-
-Vyriausybės
-
-institucijų struktūrinių padalinių vadovų pasitarimus
-
-ir jiems pirmininkauti;
-
-5)  sustabdyti
-
-ar  panaikinti  apskrityje  esančių  įmonių,
-
-įstaigų ir
-
-organizacijų priimtus  teisės aktus,  neatitinkančius
-
-Lietuvos Respublikos
-
-įstatymų ir Vyriausybės nutarimų;
-
-6) gauti  iš
-
-kitų valstybės valdymo ir apskrities savivaldos
-
-institucijų,
-
-įmonių,  įstaigų ir  organizacijų  informaciją  savo
-
-kompetencijos
-
-klausimais;
-
-7) įstatymų
-
-nustatytais atvejais  imtis papildomų priemonių
-
-gyventojų bei  jų
-
-turto  saugumui užtikrinti,  tvarkai apskrityje
-
-palaikyti;
-
-8) sudaryti ekspertų
-
-komisijas jo kompetencijai priskirtiems
-
-klausimams
-
-analizuoti ir išvadoms pateikti;
-
-9)
-
-kooperuoti   savivaldybių  lėšas  numatomiems  bendriems
-
-darbams apskrityje
-
-atlikti, kai yra susitarta;
-
-10) įstatymų
-
-nustatytais atvejais ir tvarka valdyti, naudoti
-
-ir disponuoti
-
-valstybės turtu;
-
-11)
-
-nustatyta   tvarka   rengti   konkursus,   organizuoti
-
-pasitarimus,
-
-konferencijas ir kitus renginius.
-
-III skyrius
-
-VALSTYBĖS VALDYMO INSTITUCIJOS APSKRITYJE
-
-13 straipsnis.
-
-Valstybės valdymo institucijos apskrityje
-
-Valstybės
-
-valdymo  institucijos pagal  savo  veiklos  pobūdį
-
-Lietuvos
-
-Respublikos  Seimui arba Vyriausybei leidus gali steigti
-
-apskrityje sau
-
-pavaldžias valdymo įstaigas ir organizacijas.
-
-Valstybės
-
-valdymo  institucijoms pavaldžios valdymo įstaigos
-
-ir  organizacijos
-
-apskrityje  veikia   pagal  šių   institucijų
-
-patvirtintus
-
-nuostatus.
-
-IV skyrius
-
-APSKRITIES
-
-VALDYTOJO SANTYKIAI SU SAVIVALDOS
-
-IR
-
-VALSTYBĖS VALDYMO INSTITUCIJOMIS
-
-14 straipsnis.
-
-Apskrities valdytojo santykiai su
-
-savivaldos ir valstybės valdymo
-
-institucijomis
-
-Apskrities
-
-valdytojas,   įgyvendindamas   jam   priskirtas
-
-funkcijas ir
-
-vykdydamas Lietuvos  Respublikos  įstatymus,  kitus
-
-Lietuvos
-
-Respublikos  Seimo priimtus  teisės  aktus,  Respublikos
-
-Prezidento dekretus
-
-ir Vyriausybės nutarimus, bendradarbiauja su
-
-savivaldos ir
-
-valstybės valdymo institucijomis, joms pavaldžiomis
-
-valdymo įstaigomis
-
-bei organizacijomis apskrityje ir Vyriausybės
-
-atstovu.
-
-Valstybės
-
-valdymo  institucijos, įsteigtos  apskrityje pagal
-
-šio įstatymo  13
-
-straipsnio nuostatas, nėra pavaldžios apskrities
-
-valdytojui.  Šios
-
-įstaigos  ir  organizacijos  privalo  pranešti
-
-apskrities
-
-valdytojui  apie savo  veiklą  apskrityje  Vyriausybės
-
-nustatyta tvarka.
-
-Vyriausybės
-
-institucijos,  skirdamos sau  pavaldžių  valdymo
-
-įstaigų ir
-
-organizacijų apskrityje  vadovus, išklauso apskrities
-
-valdytojo nuomonę.
-
-Apskrities
-
-valdytojas    praneša   atitinkamai    Lietuvos
-
-Respublikos
-
-Seimui   ar  Vyriausybei   apie  valstybės   valdymo
-
-institucijų
-
-padalinių  apskrityje veiklą  ir sprendimus,  jei jie
-
-neatitinka Lietuvos
-
-Respublikos įstatymų,  Vyriausybės  nutarimų
-
-arba pažeidžia
-
-piliečių ar  organizacijų teises.  Jei  ginčijamo
-
-sprendimo
-
-nepanaikina  ar nepakeičia jį priėmęs valstybės valdymo
-
-institucijos
-
-padalinys   ar   aukštesnioji   valstybės   valdymo
-
-institucija,
-
-galutinį sprendimą priima Vyriausybė.
-
-15 straipsnis.
+17 straipsnis.
 
 Apskrities taryba
 
 Prie apskrities
 
-valdytojo sudaroma taryba.
+viršininko sudaroma taryba.
 
 Į tarybą pagal
 
-pareigas įeina apskrities valdytojas (tarybos
+pareigas įeina apskrities viršininkas (tarybos pirmininkas), apskrities
 
-pirmininkas),
+viršininko  pavaduotojas,  apskrityje esančių savivaldybių merai.
 
-apskrities   valdytojo  pavaduotojas,   apskrityje
+Taryba aprobuoja
 
-esančių savivaldybių
+apskrities  raidos  kryptis,  svarsto socialinės ekonominės raidos ir aplinkos
 
-merai.
+apsaugos programų, teritorijos bendrojo planavimo dokumentų, sąlygų teritorijos
 
-Taryba
+specialiajam planavimui ir apskrities lėšų sąmatos projektus bei kitus
 
-aprobuoja   apskrities   raidos   kryptis,   svarsto
+klausimus.
 
-socialinės
+Straipsnio žymėjimas pakeistas:
 
-ekonominės  raidos  ir  aplinkos  apsaugos  programų,
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-teritorijos
-
-bendrojo  planavimo  dokumentų,  sąlygų  teritorijos
-
-specialiajam
-
-planavimui  ir apskrities lėšų sąmatos projektus bei
-
-kitus klausimus.
+(96.12.31)
 
 V skyrius
 
-APSKRITIES VALDYTOJO VEIKLOS ORGANIZAVIMAS
-
-16 straipsnis.
-
-Apskrities valdytojo administracija
-
-Apskrities
-
-valdytojas jam priskirtoms funkcijoms įgyvendinti
-
-formuoja
-
-administraciją ir jai vadovauja.
-
-Apskrities
-
-valdytojo  administracija  yra  juridinis  asmuo,
-
-turi  antspaudą
-
-su  Lietuvos   valstybės  herbu  ir  apskrities
-
-pavadinimu.
-
-Apskrities
-
-valdytojo   administracijos  struktūrą   ir  jos
-
-nuostatus
-
-tvirtina   bei   darbo   apmokėjimo   tvarką   nustato
-
-Vyriausybė.
-
-17 straipsnis.
-
-Apskrities valdytojo įgaliojimai
-
-administravimo srityje
-
-Apskrities
-
-valdytojas:
-
-1)
-
-organizuoja  administracijos  darbą  ir  atsako  už  jos
-
-veiklą;
-
-2) teikia
-
-Vyriausybei apskrities lėšų sąmatos projektą;
-
-3) skiria  ir
-
-atleidžia  iš pareigų  jam  pavaldžių  įstaigų
-
-vadovus,  gavęs
-
-atitinkamos  Vyriausybės  institucijos  raštišką
-
-sutikimą, skiria  ir
-
-atleidžia  iš pareigų administracijos skyrių
-
-ir padalinių
-
-vedėjus;
-
-4)
-
-neviršydamas  nustatyto metinio  darbo apmokėjimo  fondo,
-
-tvirtina
-
-administracijos etatų sąrašą;
-
-5)
-
-organizuoja  apskrities  tarybos    posėdžius  ir  jiems
-
-vadovauja;
-
-6) vykdo kitus
-
-Lietuvos Respublikos įstatymų, Vyriausybės ir
-
-Ministro Pirmininko
-
-jam suteiktus įgaliojimus.
-
-Kai apskrities
-
-valdytojo nėra,  jo pareigas eina apskrities
-
-valdytojo
-
-pavaduotojas.
+APSKRITIES VIRŠININKO VEIKLOS ORGANIZAVIMAS
 
 18 straipsnis.
 
-Apskrities valdytojo įsakymai ir kiti
+Apskrities viršininko administracija
 
-teisės aktai
+Apskrities viršininkas
 
-Apskrities
+jam priskirtoms funkcijoms įgyvendinti formuoja administraciją ir jai
 
-valdytojas leidžia įsakymus ir kitus teisės aktus
+vadovauja.
 
-ir tikrina, kaip jie
+Apskrities viršininko
 
-vykdomi.
+administracija yra juridinis asmuo, turi antspaudą  su Lietuvos  valstybės
 
-Apskrities
+herbu ir apskrities pavadinimu.
 
-valdytojo   įsakymai  ir   kiti  teisės   aktai,
+Apskrities viršininko
 
-neviršijantys jo
+administracijos struktūrą  ir jos nuostatus tvirtina  bei  darbo  apmokėjimo
 
-kompetencijos, privalomi visiems juridiniams ir
+tvarką  nustato Vyriausybė.
 
-fiziniams asmenims.
+Straipsnio žymėjimas pakeistas:
 
-Vyriausybė  turi
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-teisę  panaikinti   apskrities  valdytojo
-
-įsakymus ir  kitus
-
-teisės  aktus, jeigu  jie neatitinka  Lietuvos
-
-Respublikos
-
-Konstitucijos,  įstatymų, kitų  Lietuvos  Respublikos
-
-Seimo priimtų
-
-teisės aktų,  Respublikos  Prezidento  dekretų  ir
-
-Vyriausybės nutarimų.
+(96.12.31)
 
 19 straipsnis.
 
+Apskrities viršininko įgaliojimai administravimo srityje
+
+Apskrities
+
+viršininkas:
+
+1) organizuoja
+
+administracijos darbą ir atsako už jos veiklą;
+
+2) teikia Vyriausybei
+
+apskrities lėšų sąmatos projektą;
+
+3) skiria ir atleidžia
+
+iš pareigų jam pavaldžių įstaigų vadovus, gavęs atitinkamos Vyriausybės
+
+institucijos raštišką sutikimą, skiria ir atleidžia iš pareigų administracijos
+
+skyrių ir padalinių vedėjus;
+
+4) neviršydamas
+
+nustatyto metinio darbo apmokėjimo fondo, tvirtina administracijos etatų
+
+sąrašą;
+
+5) organizuoja
+
+apskrities tarybos  posėdžius ir jiems vadovauja;
+
+6) vykdo kitus
+
+Lietuvos Respublikos įstatymų, Vyriausybės ir Ministro Pirmininko jam suteiktus
+
+įgaliojimus.
+
+Kai apskrities
+
+viršininko nėra, jo pareigas eina apskrities viršininko pavaduotojas.
+
+Straipsnio žymėjimas pakeistas:
+
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
+
+(96.12.31)
+
+20 straipsnis.
+
+Apskrities viršininko įsakymai ir kiti teisės aktai
+
+Apskrities viršininkas
+
+leidžia įsakymus ir kitus teisės aktus ir tikrina, kaip jie vykdomi.
+
+Apskrities viršininko
+
+įsakymai ir  kiti teisės  aktai, neviršijantys jo kompetencijos, privalomi
+
+visiems juridiniams ir fiziniams asmenims.
+
+Vyriausybė turi  teisę
+
+panaikinti apskrities viršininko įsakymus ir kitus teisės aktus, jeigu jie
+
+neatitinka Lietuvos Respublikos Konstitucijos, įstatymų, kitų Lietuvos
+
+Respublikos Seimo priimtų teisės aktų, Respublikos Prezidento dekretų ir
+
+Vyriausybės nutarimų.
+
+Straipsnio žymėjimas pakeistas:
+
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
+
+(96.12.31)
+
+21 straipsnis.
+
 Įstatymo įgyvendinimas
 
-Šio  įstatymo
+Šio įstatymo
 
-įgyvendinimo  terminus   ir  tvarką  nustato
+įgyvendinimo terminus  ir tvarką nustato įstatymas "Dėl Lietuvos
 
-įstatymas "Dėl
+Respublikos apskrities valdymo įstatymo įgyvendinimo".
 
-Lietuvos Respublikos  apskrities valdymo įstatymo
+Straipsnio žymėjimas pakeistas:
 
-įgyvendinimo".
+Nr. VIII-33, 96.12.12, Žin., 1996, Nr.126-2938
 
-Skelbiu šį
+(96.12.31)
 
-Lietuvos Respublikos Seimo priimtą įstatymą.
+Skelbiu šį Lietuvos
 
-RESPUBLIKOS
+Respublikos Seimo priimtą įstatymą.
 
-PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS            ALGIRDAS
 
-_
+BRAZAUSKAS
 
