@@ -4,7 +4,7 @@ identifier: "TAR.F617B8D97E05"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-09"
-last_updated: "2001-07-01"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2001-07-01 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2006-09-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
 
@@ -229,7 +229,11 @@ Konsulinis pareigūnas gali atstovauti arba organizuoti tinkamą Lietuvos Respub
 
 29 straipsnis
 
-Konsulinis pareigūnas vykdo Lietuvos Respublikos tardymo institucijų arba teismų pavedimus, susijusius su Lietuvos Respublikos piliečiais, jeigu to nedraudžia valstybės, kurioje yra Lietuvos Respublikos konsulinė įstaiga, įstatymai. Nurodyti pavedimai vykdomi pagal Lietuvos Respublikos proceso įstatymus, jeigu kitaip nėra numatyta tarpvalstybinėse sutartyse dėl teisinių santykių ir teisinės pagalbos civilinėse, šeimos ir baudžiamosiose bylose.
+Konsulinis pareigūnas vykdo Lietuvos Respublikos ikiteisminio tyrimo įstaigų, prokuratūros arba teismų pavedimus, susijusius su Lietuvos Respublikos piliečiais, jeigu to nedraudžia valstybės, kurioje yra Lietuvos Respublikos konsulinė įstaiga, įstatymai. Nurodyti pavedimai vykdomi pagal Lietuvos Respublikos proceso įstatymus, jeigu kitaip nėra numatyta tarpvalstybinėse sutartyse dėl teisinių santykių ir teisinės pagalbos civilinėse, šeimos ir baudžiamosiose bylose.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1464, 2003-04-03, Žin., 2003, Nr. 38-1709 (2003-04-24), i. k. 1031010ISTA0IX-1464
 
 30 straipsnis
 
@@ -261,7 +265,11 @@ Atiduotam saugoti turtui, kuris priklausė mirusiam asmeniui, taikomos šio stat
 
 36 straipsnis
 
-Konsulinis pareigūnas turi prižiūrėti, kad kai yra suimti, sulaikyti įtariant padarius nusikaltimą arba atlieka laisvės atėmimo bausmę Lietuvos Respublikos piliečiai, taip pat kai jiems taikomos kitokios teisminio arba administracinio poveikio priemonės, būtų laikomasi valstybės, kurioje yra Lietuvos Respublikos konsulinė įstaiga, įstatymų ir Lietuvos Respublikos su ta valstybe pasirašytų sutarčių.
+Konsulinis pareigūnas turi prižiūrėti, kad kai yra suimti, sulaikyti įtariant padarius nusikalstamą veiką arba atlieka laisvės atėmimo bausmę Lietuvos Respublikos piliečiai, taip pat kai jiems taikomos kitokios teisminio arba administracinio poveikio priemonės, būtų laikomasi valstybės, kurioje yra Lietuvos Respublikos konsulinė įstaiga, įstatymų ir Lietuvos Respublikos su ta valstybe pasirašytų sutarčių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1464, 2003-04-03, Žin., 2003, Nr. 38-1709 (2003-04-24), i. k. 1031010ISTA0IX-1464
 
 Suinteresuotų asmenų prašymu konsulinis pareigūnas turi lankyti Lietuvos Respublikos piliečius, esančius įkalinimo vietose, ir išsiaiškinti jų laikymo sąlygas. Konsulinis pareigūnas privalo rūpintis, kad tokių piliečių buities sąlygos atitiktų higienos ir sanitarijos reikalavimus, kad su jais būtų elgiamasi nepažeidžiant žmogaus teisių.
 
@@ -512,4 +520,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-355, 2001-06-05, Žin., 2001, Nr. 52-1814 (2001-06-20), i. k. 1011010ISTA00IX-355
 
 Lietuvos Respublikos konsulinio statuto 51 straipsnio papildymo ir pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1464, 2003-04-03, Žin., 2003, Nr. 38-1709 (2003-04-24), i. k. 1031010ISTA0IX-1464
+
+Lietuvos Respublikos konsulinio statuto 29 ir 36 straipsnių pakeitimo įstatymas
 
