@@ -4,7 +4,7 @@ identifier: "TAR.75C66B100186"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "1995-12-30"
+last_updated: "1996-05-10"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.75C66B100186"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 1995-12-30 iki 1996-05-09
+Suvestinė redakcija nuo 1996-05-10 iki 1996-12-03
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 191-0; Žin. 1992, Nr.29-843, i. k. 0921010ISTA00I-2880
 
@@ -201,7 +201,11 @@ Administratorius atlygina nuostolius, kurie gauti vykdant nepatvirtintus, šio s
 
 9 straipsnis. Kreditorių teisės, teismui iškėlus įmonės bankroto bylą
 
-Teismui iškėlus įmonės bankroto bylą, kreditoriai turi teisę per teismo nustatytą laikotarpį, ne trumpesnį kaip 30 dienų ir ne ilgesnį kaip 3 mėnesiai nuo bylos iškėlimo dienos, pareikšti administratoriui savo finansinius reikalavimus ir nurodyti prievolės įvykdymo garantijas.
+Teismui iškėlus įmonės bankroto bylą, kreditoriai turi teisę per teismo nustatytą laikotarpį, ne trumpesnį kaip 15 dienų ir ne ilgesnį kaip 2 mėnesiai nuo bylos iškėlimo dienos, pareikšti administratoriui savo finansinius reikalavimus ir nurodyti prievolės įvykdymo garantijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1325, 1996-05-02, Žin., 1996, Nr. 43-1045 (1996-05-10), i. k. 0961010ISTA00I-1325
 
 Teismas turi teisę iki bylos nagrinėjimo pabaigos priimti kreditorių ieškinius, kurie buvo pateikti pažeidus dėl svarbių priežasčių šio straipsnio pirmojoje dalyje nustatytą terminą.
 
@@ -219,15 +223,15 @@ Kreditorių susirinkimo pirmininką skiria teismas.
 
 Kreditorių susirinkimo posėdžiuose turi teisę dalyvauti bankrutuojančios įmonės savininkas arba jo atstovas, teismo paskirtas įmonės administratorius ir valstybinių bei valstybinių akcinių įmonių steigėjo atstovas. Teisę balsuoti turi tik kreditoriai (jų atstovai).
 
-Teisę sušaukti pirmąjį kreditorių susirinkimą turi teismas arba pasiskelbusios apie nesugebėjimą įvykdyti finansinius įsipareigojimus įmonės savininkas (savininkai) ar valdymo organas, kurio kompetencijai priklauso sprendimo dėl įmonės reorganizavimo ar likvidavimo priėmimas. Pirmasis kreditorių susirinkimas šaukiamas ne vėliau kaip per 30 dienų nuo:
+Teisę sušaukti pirmąjį kreditorių susirinkimą turi teismas arba pasiskelbusios apie nesugebėjimą įvykdyti finansinius įsipareigojimus įmonės savininkas (savininkai) ar valdymo organas, kurio kompetencijai priklauso sprendimo dėl įmonės reorganizavimo ar likvidavimo priėmimas. Pirmasis kreditorių susirinkimas šaukiamas ne vėliau kaip per 15 dienų nuo:
 
 1) bylos iškėlimo dėl įmonės bankroto dienos, kai byla iškeliama teisme;
 
-2) viešo įmonės pasiskelbimo apie nesugebėjimą įvykdyti finansinius įsipareigojimus dienos.
+2) viešo įmonės paskelbimo apie nesugebėjimą įvykdyti finansinius įsipareigojimus dienos.
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+Nr. I-1325, 1996-05-02, Žin., 1996, Nr. 43-1045 (1996-05-10), i. k. 0961010ISTA00I-1325
 
 Kitus kreditorių susirinkimo posėdžius turi teisę sušaukti teismas, kreditorių susirinkimo pirmininkas. Prašyti sušaukti susirinkimą turi teisę grupė kreditorių, kurių reikalavimų suma vertine išraiška sudaro ne mažiau kaip 1/3 visų kreditorių pateiktų reikalavimų sumos.
 
@@ -518,4 +522,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1147, 1995-12-20, Žin., 1995, Nr. 107-2396 (1995-12-30), i. k. 0951010ISTA00I-1147
 
 Dėl Lietuvos Respublikos įmonių bankroto įstatymo 4 straipsnio papildymo
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1325, 1996-05-02, Žin., 1996, Nr. 43-1045 (1996-05-10), i. k. 0961010ISTA00I-1325
+
+Lietuvos Respublikos įmonių bankroto įstatymo 9 ir 10 straipsnių pakeitimo įstatymas
 
