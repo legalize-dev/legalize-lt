@@ -4,7 +4,7 @@ identifier: "TAR.10E8E285740C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-25"
-last_updated: "1998-06-05"
+last_updated: "2001-05-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 1998-06-05 iki 2001-05-08
+Suvestinė redakcija nuo 2001-05-09 iki 2004-04-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
 
@@ -139,9 +139,13 @@ Verstis medicinos praktika (pirmine ar specializuota) Lietuvos Respublikoje gali
 
 2. Laikinosios medicinos praktikos licencijos išduodamos ne ilgesniam kaip trijų mėnesių laikotarpiui.
 
-8 straipsnis. Licencijų išdavimo mokestis
+8 straipsnis. Valstybės rinkliava
 
-Asmuo, gaudamas ar perregistruodamas licenciją, taip pat gaudamas sertifikatą, privalo sumokėti nustatyto dydžio žyminį mokestį.
+Asmuo, gaudamas ar perregistruodamas licenciją, taip pat gaudamas sertifikatą, privalo sumokėti nustatyto dydžio valstybės rinkliavą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-282, 2001-04-19, Žin., 2001, Nr. 39-1352 (2001-05-09), i. k. 1011010ISTA00IX-282
 
 9 straipsnis. Licencijų registras
 
@@ -330,4 +334,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
 
 Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 1, 3, 9, 10, 12, 13, 14, 17 straipsnių pakeitimo ir papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-282, 2001-04-19, Žin., 2001, Nr. 39-1352 (2001-05-09), i. k. 1011010ISTA00IX-282
+
+Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 8 straipsnio pakeitimo įstatymas
 
