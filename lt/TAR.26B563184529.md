@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2000-10-12"
+last_updated: "2001-04-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -1130,22 +1130,6 @@ planavimo procesas
 
 procesą sudaro:
 
-1) planuojamos teritorijos
-
-esamos būklės, išteklių ir jų kokybės įvertinimas, esamos būklės plano
-
-parengimas (žemės kadastro žemėlapis, esamų statinių, želdynų, gamtos ir
-
-kultūros paveldo vertybių, inžinerinių tinklų planai), bendrojo plano
-
-sprendinių nagrinėjimas, prireikus tyrimai, higienos būklės ir gyventojų
-
-demografinių bei sergamumo rodiklių vertinimas;
-
-[1 dalies 1 punkto redakcija nuo 2001 m.
-
-sausio 1 d.:
-
 1) planuojamos
 
 teritorijos esamos būklės, išteklių ir jų kokybės įvertinimas, esamos būklės
@@ -1156,7 +1140,7 @@ plano parengimas (nekilnojamojo turto kadastro žemėlapis, esamų statinių,
 
 bendrojo plano sprendinių nagrinėjimas, prireikus tyrimai, higienos būklės ir
 
-gyventojų demografinių bei sergamumo rodiklių vertinimas;]
+gyventojų demografinių bei sergamumo rodiklių vertinimas;
 
 2) planuojamos teritorijos
 
@@ -1182,11 +1166,13 @@ ribos; teritorijos naudojimo pobūdis; įrenginių ir statinių išdėstymas arb
 
 išdėstymo pobūdis; urbanistiniai, gamtos ir kultūros paveldo, architektūriniai,
 
-inžineriniai teritorijos tvarkymo ir naudojimo parametrai; vandens išteklių naudojimo
+inžineriniai teritorijos tvarkymo ir naudojimo parametrai; vandens išteklių
 
-sąlygos; inžinerinės įrangos ir tinklų išdėstymas arba šiai įrangai ir tinklams
+naudojimo sąlygos; inžinerinės įrangos ir tinklų išdėstymas arba šiai įrangai
 
-rezervuojamos teritorijos; žemės servitutai), parengimas ir patvirtinimas.
+ir tinklams rezervuojamos teritorijos; žemės servitutai), parengimas ir
+
+patvirtinimas.
 
 2. Detalųjį planą sudaro
 
@@ -1218,9 +1204,9 @@ planų (išskyrus valstybės sienos, krašto apsaugos ir strateginės reikšmės
 
 objektų projektus, taip pat miško valdos miškotvarkos projektus) rengimo,
 
-derinimo, tvirtinimo tvarką nustato Statybos ir urbanistikos ministerijos patvirtintos
+derinimo, tvirtinimo tvarką nustato Statybos ir urbanistikos ministerijos
 
-detaliųjų planų taisyklės.
+patvirtintos detaliųjų planų taisyklės.
 
 2. Valstybės
 
@@ -1266,11 +1252,11 @@ savivaldybės taryba arba valdyba tarybai pavedus. Planas patvirtinamas per 20
 
 darbo dienų nuo prašymo pateikimo dienos. Detalieji planai įsigalioja
 
-patvirtinus juos nustatyta tvarka. Kokius detaliojo planavimo objektų planus
+patvirtinus juos nustatyta tvarka. Kokius detaliojo planavimo objektų planus tvirtina
 
-tvirtina savivaldybės taryba ar jos pavedimu valdyba, numatoma savivaldybės
+savivaldybės taryba ar jos pavedimu valdyba, numatoma savivaldybės tarybos
 
-tarybos sprendimu.
+sprendimu.
 
 6. Miško valdos miškotvarkos
 
@@ -1294,11 +1280,11 @@ organizatoriaus sudaroma sutartis dėl infrastruktūros plėtojimo.
 
 planas netvirtinamas, jeigu jis prieštarauja bendrajam planui arba yra pažeista
 
-nustatyta derinimo, viešo svarstymo, priežiūros procedūra, detaliojo plano
+nustatyta derinimo, viešo svarstymo, priežiūros procedūra, detaliojo plano sprendiniai
 
-sprendiniai neatitinka teritorijų planavimo ar statybos normų. Atsisakiusi
+neatitinka teritorijų planavimo ar statybos normų. Atsisakiusi tvirtinti
 
-tvirtinti detalųjį planą, savivaldybės taryba arba valdyba privalo planavimo
+detalųjį planą, savivaldybės taryba arba valdyba privalo planavimo
 
 organizatoriui pateikti motyvuotą atsakymą per 20 darbo dienų nuo projekto
 
@@ -1318,11 +1304,11 @@ apskųstas teismui.
 
 detalusis planas antrą kartą gali būti pateiktas tvirtinti ne vėliau kaip per
 
-šešis mėnesius nuo motyvuoto atsakymo pateikimo dienos. Tvirtinti
+šešis mėnesius nuo motyvuoto atsakymo pateikimo dienos. Tvirtinti teikiamas
 
-teikiamas detalusis planas turi būti pakartotinai patikrintas valstybinę
+detalusis planas turi būti pakartotinai patikrintas valstybinę teritorijų
 
-teritorijų planavimo priežiūrą atliekančios institucijos.
+planavimo priežiūrą atliekančios institucijos.
 
 10. Detaliųjų planų
 
@@ -1362,20 +1348,6 @@ plėtojimo pobūdžio ir ribojimų. Sprendimai, priimti po detaliojo plano
 
 įsigaliojimo dienos ir prieštaraujantys detaliajam planui, negalioja.
 
-12. Vadovaudamasis
-
-įsigaliojusiu detaliuoju planu ar jo pagrindu parengtu žemėtvarkos projektu,
-
-apskrities viršininkas ne vėliau kaip per vieną mėnesį nuo jų patvirtinimo
-
-dienos priima sprendimą dėl valstybinio žemės kadastro duomenų pakeitimo,
-
-papildymo, pripažinimo netekusiais galios.
-
-[12 dalies redakcija nuo 2001 m. sausio
-
-1 d.:
-
 12.
 
 Vadovaudamasis įsigaliojusiu detaliuoju planu ar jo pagrindu parengtu
@@ -1386,7 +1358,7 @@ nuo jų patvirtinimo dienos pateikia Nekilnojamojo turto kadastro tvarkytojui
 
 dokumentus ir duomenis žemės sklypų duomenims nekilnojamojo turto kadastre
 
-pakeisti, papildyti, pripažinti netekusiais galios.]
+pakeisti, papildyti, pripažinti netekusiais galios.
 
 Straipsnio
 
@@ -1428,22 +1400,6 @@ teritoriją, prognozuojant jos raidą, rengiant teritorijų planavimo dokumentus
 
 grindžiant jų sprendinius.
 
-2. Informacija, reikalinga
-
-teritorijų planavimo dokumentams rengti ir duomenų bankui formuoti, gaunama iš
-
-įvairios paskirties ir priklausomybės duomenų bankų, valstybinių programų,
-
-valstybės institucijų statistinių duomenų bazių, žemės kadastro tvarkytojo,
-
-galiojančių detaliųjų, bendrųjų ir specialiųjų teritorijų planavimo dokumentų,
-
-taip pat fizinių ir juridinių asmenų.
-
-[2 dalies redakcija nuo 2001 m. sausio 1
-
-d.:
-
 2. Informacija,
 
 reikalinga teritorijų planavimo dokumentams rengti ir duomenų bankui formuoti,
@@ -1454,7 +1410,7 @@ programų, valstybės institucijų statistinių duomenų bazių, Nekilnojamojo t
 
 kadastro ir registro tvarkytojo, galiojančių detaliųjų, bendrųjų ir specialiųjų
 
-teritorijų planavimo dokumentų, taip pat fizinių ir juridinių asmenų.]
+teritorijų planavimo dokumentų, taip pat fizinių ir juridinių asmenų.
 
 3. Teritorijų planavimo
 
@@ -1478,13 +1434,13 @@ ministerija, apskrities – apskrities valdytojas, savivaldybės – savivaldyb�
 
 valdyba (meras).
 
-6. Turimus duomenis
+6. Turimus
 
-teritorijų planavimo organizatoriams, jeigu jie yra valstybės ar savivaldos
+duomenis teritorijų planavimo organizatoriams, jeigu jie yra valstybės ar
 
-institucijos, jų įgaliotiems asmenims ir valstybinio teritorijų planavimo
+savivaldos institucijos, jų įgaliotiems asmenims ir valstybinio teritorijų
 
-duomenų banko tvarkytojui jų prašymu valstybės valdymo institucijos,
+planavimo duomenų banko tvarkytojui jų prašymu valstybės valdymo institucijos,
 
 valstybinių registrų, kadastrų, klasifikatorių, specializuotų duomenų bankų
 
@@ -1506,7 +1462,9 @@ valstybinių programų, bendrojo, detaliojo ir specialiojo planavimo
 
 organizatoriai, jei jie yra valstybės ar savivaldos institucijos, privatiems
 
-juridiniams ir fiziniams asmenims jų prašymu teikia už nustatytą žyminį mokestį.
+juridiniams ir fiziniams asmenims jų prašymu teikia už nustatytą valstybės
+
+rinkliavą.
 
 Straipsnio
 
@@ -1525,6 +1483,10 @@ Nr.58-1708 (00.07.19), įsigalioja nuo 2001.01.01
 Nr. VIII-2041, 2000 10 12, Žin., 2000, Nr.
 
 92-2881 (2000 10 31)
+
+Nr. IX-288, 2001 04 19, Žin., 2001, Nr.
+
+39-1358 (2001 05 09)
 
 22 straipsnis. Teritorijų
 
@@ -1710,20 +1672,6 @@ dokumentų registro tvarkymą reglamentuoja Vyriausybės patvirtinti teritorijų
 
 planavimo registro nuostatai.
 
-3. Visi patvirtinti
-
-teritorijų planavimo dokumentai privalomai pateikiami registruoti teritorijų
-
-planavimo dokumentų registro tvarkytojams ne vėliau kaip per 15 dienų nuo patvirtinimo.
-
-Teritorijų planavimo dokumentų registro tvarkytojai apie įregistruotą planavimo
-
-dokumentą per 15 dienų praneša žemės kadastro tvarkytojui.
-
-[3 dalies redakcija nuo 2001 m. sausio 1
-
-d.:
-
 3. Visi
 
 patvirtinti teritorijų planavimo dokumentai privalomai pateikiami registruoti
@@ -1734,7 +1682,7 @@ dienų nuo patvirtinimo. Teritorijų planavimo dokumentų registro tvarkytojai
 
 apie įregistruotą planavimo dokumentą per 15 dienų praneša Nekilnojamojo turto
 
-kadastro tvarkytojui.]
+kadastro tvarkytojui.
 
 4. Valstybinį
 
@@ -1742,13 +1690,13 @@ teritorijų planavimo dokumentų registrą tvarko Aplinkos ministerija, apskriti
 
 – jos viršininkas, savivaldybės – savivaldybės vyriausiasis architektas.
 
-5. Visi Lietuvos Respublikos
+5. Visi Lietuvos Respublikos fiziniai ir juridiniai
 
-fiziniai ir juridiniai asmenys turi teisę susipažinti su teritorijų planavimo
+asmenys turi teisę susipažinti su teritorijų planavimo dokumentų registro
 
-dokumentų registro duomenimis atitinkamą registrą tvarkančioje institucijoje ir
+duomenimis atitinkamą registrą tvarkančioje institucijoje ir už nustatytą
 
-už nustatytą žyminį mokestį gauti jų kopijas.
+valstybės rinkliavą gauti jų kopijas.
 
 Straipsnio
 
@@ -1768,6 +1716,10 @@ Nr. VIII-2041, 2000 10 12, Žin., 2000, Nr.
 
 92-2881 (2000 10 31)
 
+Nr. IX-288, 2001 04 19, Žin., 2001, Nr.
+
+39-1358 (2001 05 09)
+
 III DALIS.
 
 TERITORIJŲ PLANAVIMO VIEŠUMAS
@@ -1776,9 +1728,11 @@ TERITORIJŲ PLANAVIMO VIEŠUMAS
 
 dalyvavimas planavimo procese
 
-1. Bendrieji, detalieji planai
+1. Bendrieji, detalieji
 
-ir specialiojo teritorijų planavimo dokumentai turi būti svarstomi viešai.
+planai ir specialiojo teritorijų planavimo dokumentai turi būti svarstomi
+
+viešai.
 
 2. Teritorijų planavimo
 
@@ -1816,19 +1770,19 @@ kaip per 10 dienų nuo sprendimo rengti planą priėmimo. Skelbime nurodomi vie�
 
 svarstymo etapai ir tvarka.
 
-2. Visi Lietuvos Respublikos
+2. Visi Lietuvos Respublikos fiziniai ir juridiniai
 
-fiziniai ir juridiniai asmenys turi teisę susipažinti su rengiamais ir
+asmenys turi teisę susipažinti su rengiamais ir patvirtintais teritorijų
 
-patvirtintais teritorijų planavimo dokumentais planavimą organizavusioje
+planavimo dokumentais planavimą organizavusioje institucijoje ir gauti jų
 
-institucijoje ir gauti jų ištraukų bei brėžinių kopijas už nustatytą žyminį
+ištraukų bei brėžinių kopijas už nustatytą valstybės rinkliavą, jeigu planavimo
 
-mokestį, jeigu planavimo organizatorius yra valstybės ar savivaldybės
+organizatorius yra valstybės ar savivaldybės institucija. Kiti planavimo
 
-institucija. Kiti planavimo organizatoriai teikia kopijas už atlyginimą, kuris
+organizatoriai teikia kopijas už atlyginimą, kuris nustatomas tarpusavio
 
-nustatomas tarpusavio susitarimu.
+susitarimu.
 
 3. Visuomenę su parengtais
 
@@ -1864,9 +1818,15 @@ objektams ir infrastruktūrai plėtoti, numatomas paimti visuomenės poreikiams
 
 arba numatoma pakeisti jo būklę, naudojimo pobūdį ar paskirtį.
 
+Straipsnio pakeitimai:
+
 Nr. VIII-2041, 2000 10 12, Žin., 2000, Nr.
 
 92-2881 (2000 10 31)
+
+Nr. IX-288, 2001 04 19, Žin., 2001, Nr.
+
+39-1358 (2001 05 09)
 
 27 straipsnis. Planavimo
 
@@ -1898,17 +1858,17 @@ susirinkimas
 
 1. Viešam susirinkimui
 
-planavimo organizatoriai nustatyta tvarka gali pateikti detaliojo plano programą,
+planavimo organizatoriai nustatyta tvarka gali pateikti detaliojo plano
 
-bendrojo plano tikslus arba parengtą teritorijų planavimo dokumentą.
+programą, bendrojo plano tikslus arba parengtą teritorijų planavimo dokumentą.
 
 2. Viešo susirinkimo metu
 
 planavimo organizatorius ir planuotojas aptaria padarytas pataisas pagal
 
-ankstesnes pastabas ir pasiūlymus, taip pat paaiškina, kodėl kai kurie pasiūlymai
+ankstesnes pastabas ir pasiūlymus, taip pat paaiškina, kodėl kai kurie
 
-nepriimti.
+pasiūlymai nepriimti.
 
 3. Atmestų pastabų,
 
@@ -2192,9 +2152,9 @@ Asmenys, pažeidę šį
 
 civiline ir baudžiamąja tvarka.
 
-Skelbiu šį Lietuvos
+Skelbiu šį Lietuvos Respublikos
 
-Respublikos Seimo priimtą įstatymą.
+Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS
 
@@ -2288,9 +2248,21 @@ TERITORIJŲ PLANAVIMO ĮSTATYMO 2, 4, 9, 14, 17, 20, 21,
 
 22, 23, 24, 26, 32 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-288, 2001 04 19, Žin., 2001, Nr.
+
+39-1358 (2001 05 09)
+
+TERITORIJŲ PLANAVIMO ĮSTATYMO 21, 24 IR 26 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000 11 22)
+Redagavo: Aušrinė Trapinskienė (2001 05 17)
 
 autrap@lrs.lt
 
