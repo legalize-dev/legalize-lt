@@ -4,7 +4,7 @@ identifier: "TAR.6DF39F2BB769"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "1995-05-23"
+last_updated: "1996-02-15"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6DF39F2BB769"
 department: "Lietuvos Respublikos Seimas"
@@ -16,15 +16,17 @@ eu_legal_act: "true"
 ---
 # Žyminio mokesčio įstatymas
 
-Redaguota: 1995 06 07
+Redaguota: 1996 02 28
 
-Redaguota: 1995 06
+Redaguota: 1996 02
 
-07
+28
 
 Pkeitimai:
 
-1.Parlamentas, Įstatymas
+1.Parlamentas,
+
+Įstatymas
 
 Nr.1-637;
 
@@ -54,15 +56,33 @@ RESPUBLIKOS ŽYMINIO MOKESČIO
 
 PAKEITIMO
 
+3. Lietuvos
+
+Respublikos 1996 02 15
+
+Įstatymas
+
+Nr.1-1211
+
+Žin., 1996,
+
+Nr. 18-462
+
+LIETUVOS
+
+RESPUBLIKOS ŽYMINIO MOKESČIO
+
+ĮSTATYMO 3
+
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 LIETUVOS RESPUBLIKOS
 
 ŽYMINIO MOKESČIO
 
 ĮSTATYMAS
 
-1994
-
-m. birželio 23 d. Nr.I-508
+1994 m. birželio 23 d. Nr.I-508
 
 Vilnius
 
@@ -86,7 +106,11 @@ Pakeitimai:
 
 1.Nr.1-637;
 
-1994.11.08.; Žin., 1994, Nr.89-1712
+1994.11.08.;
+
+Žin.,
+
+1994, Nr.89-1712
 
 2 straipsnis.
 
@@ -98,7 +122,7 @@ mokestį  moka  juridiniai  ir  fiziniai  asmenys  už
 
 valstybės
 
-institucijų  atliekamus veiksmus ar išduodamus juridinę
+institucijų  atliekamus veiksmus ar išduodamus juridinę
 
 galią turinčius
 
@@ -120,9 +144,9 @@ būklės aktų registravimą civilinės metrikacijos
 
 civilinės būklės aktuose pakeitimą bei papildymą
 
-ir  dokumentų,
+ir  dokumentų,   patvirtinančių
 
-patvirtinančių  įrašą   civilinės  būklės  akte,
+įrašą   civilinės  būklės  akte,
 
 išdavimą;
 
@@ -152,7 +176,7 @@ policija, ir atitinkamų dokumentų išdavimą;
 
 medžioklinius,
 
-sportinius   šaunamuosius   ginklus,   arbaletus,
+sportinius   šaunamuosius   ginklus,   arbaletus,
 
 pneumatinius
 
@@ -218,13 +242,13 @@ pasigaminti antspaudus ir spaudus išdavimą;
 
 9) leidimo
 
-pagaminti  antspaudą  su  Lietuvos  Respublikos
+pagaminti antspaudą su Lietuvos Respublikos herbu
 
-herbu išdavimą;
+išdavimą;
 
-10)
+10)  medžioklinių
 
-medžioklinių  šautuvų,  šaunamųjų  ginklų  ir  arbaletų
+šautuvų,  šaunamųjų  ginklų  ir  arbaletų
 
 registravimą,
 
@@ -282,9 +306,9 @@ išdavimą, už  techninio paso  ar techninio talono
 
 išdavimą;
 
-14) įmonių  ir
+14)  įmonių ir
 
-organizacijų,  išskyrus politines  partijas,
+organizacijų,  išskyrus  politines  partijas,
 
 politines ir
 
@@ -292,27 +316,29 @@ visuomenines  organizacijas,  profesines  sąjungas,
 
 labdaros   bei
 
-paramos   organizacijas,    įregistravimą,   jų
+paramos    organizacijas,   įregistravimą,    jų
 
 perregistravimą
 
-ir   atitinkamų  dokumentų   išdavimą  (išskyrus
+ir  atitinkamų dokumentų   išdavimą   (išskyrus
 
-atvejus, kai tai
+atvejus,  kai  tai
 
-reikia atlikti dėl Lietuvos Respublikos įstatymų
+reikia  atlikti  dėl   Lietuvos   Respublikos
 
-ar Vyriausybės
+įstatymų ar
 
-nutarimų pasikeitimo),  už įmonių  ir  visų  tipų
+Vyriausybės  nutarimų  pasikeitimo),  už  įmonių  ir
 
-organizacijų
+visų   tipų  organizacijų
 
-registravimo duomenų ir dokumentų naudojimą;
+registravimo  duomenų   ir  dokumentų
+
+naudojimą;
 
 15)
 
-licencijos   (leidimo)  verstis  licencijuojama  veikla
+licencijos  (leidimo)  verstis  licencijuojama  veikla
 
 išdavimą;
 
@@ -320,7 +346,9 @@ išdavimą;
 
 importuoti  alkoholio   produktus,  taip  pat
 
-prekiauti jais išdavimą;
+prekiauti jais
+
+išdavimą;
 
 17) vaistų ir
 
@@ -368,7 +396,7 @@ dokumentų išdavimą;
 
 23)
 
-licencijos medžioti  laukinius  kanopinius  žvėris  ir
+licencijos  medžioti  laukinius  kanopinius  žvėris  ir
 
 švelniakailius
 
@@ -394,9 +422,9 @@ dokumentus;
 
 kitų  plaukiojimo priemonių, išskyrus irklines
 
-valtis, registravimą
+valtis,
 
-ar išregistravimą  ir atitinkamų  dokumentų
+registravimą  ar išregistravimą  ir atitinkamų  dokumentų
 
 išdavimą;
 
@@ -476,7 +504,15 @@ supirkti juodųjų  metalų laužą  ir jų  atliekas
 
 Lietuvos
 
-Respublikoje išdavimą.
+Respublikoje išdavimą;
+
+36)  leidimų
+
+išvežti  (išsiųsti)   kilnojamąsias  kultūros
+
+vertybes ir
+
+antikvarinius daiktus išdavimą.
 
 Žyminio
 
@@ -498,17 +534,35 @@ Pakeitimai:
 
 1.Nr.1-637;
 
-1994.11.08.; Žin., 1994, Nr.1-637.
+1994.11.08.;
+
+Žin., 1994,
+
+Nr.1-637.
 
 2.Lietuvos
 
 Respublikos 1995 05 23
 
-Įstatymas Nr.1-899
+Įstatymas
+
+Nr.1-899
 
 Žin., 1995, Nr.
 
 47-1135
+
+3. Lietuvos
+
+Respublikos 1996 02 15
+
+Įstatymas
+
+Nr.1-1211
+
+Žin., 1996, Nr.
+
+18-462
 
 4 straipsnis.
 
@@ -566,9 +620,9 @@ Užsienio
 
 reikalų   ministerija   -   už   jai   išduodamus
 
-metrikacijos
+metrikacijos liudijimų
 
-liudijimų dublikatus;
+dublikatus;
 
 2) už
 
@@ -612,7 +666,7 @@ pratęsimą, už vaiko kelionės dokumento išdavimą,
 
 asmenys iki  18
 
-metų  -  už  prašymą  imigruoti  į  Lietuvos
+metų  -  už  prašymą  imigruoti  į  Lietuvos
 
 Respubliką,
 
@@ -628,13 +682,13 @@ ministerijų  ir
 
 kitų   valstybės   institucijų   organizuotuose
 
-oficialiuose susitikimuose,
+oficialiuose
 
-labdaros bei  organizuotos  pagalbos
+susitikimuose,  labdaros bei  organizuotos  pagalbos
 
-Lietuvai tikslais
+Lietuvai tikslais  arba
 
-arba su  Raudonojo Kryžiaus  misija, taip  pat
+su  Raudonojo Kryžiaus  misija, taip  pat
 
 tarptautinių
 
@@ -666,9 +720,11 @@ valstybės biudžetą.
 
 Pakeitimai:
 
-1.Nr.1-637;
+1.Nr.1-637; 1994.11.08.;
 
-1994.11.08.; Žin., 1994, Nr.89-1712.
+Žin., 1994,
+
+Nr.89-1712.
 
 5 straipsnis.
 
@@ -702,11 +758,11 @@ Mokesčio įskaitymas į biudžetą
 
 Žyminis
 
-mokestis  įskaitomas į  biudžetą, iš kurio išlaikoma
+mokestis  įskaitomas į  biudžetą, iš kurio išlaikoma
 
-įstaiga,
+įstaiga,  atliekanti
 
-atliekanti   veiksmus  ar   išduodanti  juridinę  galią
+veiksmus  ar   išduodanti  juridinę  galią
 
 turinčius
 
@@ -756,7 +812,11 @@ Pakeitimai:
 
 1. Nr.1-637;
 
-1994.11.08.; Žin., 1994, Nr.89-1712
+1994.11.08.;
+
+Žin., 1994,
+
+Nr.89-1712
 
 8 straipsnis.
 
@@ -830,9 +890,9 @@ nuosavybės apsaugos
 
 įstatymai  (išradimų  (patentų),  pramoninių
 
-pavyzdžių), už
+pavyzdžių), už  Patentų
 
-Patentų  biuro  atliekamas  paslaugas  valstybinė
+biuro  atliekamas  paslaugas  valstybinė
 
 rinkliava imama
 
@@ -858,7 +918,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
 
 _
 
