@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2003-01-01"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2002-05-09"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
+
+Suvestinė redakcija nuo 2003-05-01 iki 2004-12-31
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
 LIETUVOS RESPUBLIKOS
 
@@ -129,7 +133,11 @@ Antstolis, vykdydamas šiame Įstatyme numatytą veiklą, negali eiti kitų apmo
 
 1. Antstolio įgaliojimai teisingumo ministro įsakymu gali būti sustabdomi, jei:
 
-1) antstolis patraukiamas kaltinamuoju. Antstolio įgaliojimai sustabdomi iki sprendimo baudžiamojoje byloje įsiteisėjimo. Jei baudžiamoji byla nutraukiama arba įsiteisėja išteisinamasis nuosprendis, teisingumo ministro įsakymu antstolio įgaliojimai atnaujinami;
+1) antstolis yra įtariamas arba kaltinamas padaręs nusikalstamą veiką. Antstolio įgaliojimai sustabdomi iki sprendimo baudžiamojoje byloje įsiteisėjimo. Jei baudžiamoji byla nutraukiama arba įsiteisėja išteisinamasis nuosprendis, teisingumo ministro įsakymu antstolio įgaliojimai atnaujinami;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1459, 2003-04-03, Žin., 2003, Nr. 38-1704 (2003-04-24), i. k. 1031010ISTA0IX-1459
 
 2) atlikus antstolio veiklos patikrinimą, buvo nustatyta šiurkščių pažeidimų tvarkant, saugant ir naudojant pinigines lėšas ar kitas materialines vertybes, kurios antstoliui buvo patikėtos ar buvo gautos jam atliekant šiame Įstatyme nustatytas funkcijas ir dėl to iškelta drausmės byla. Šiuo atveju antstolio įgaliojimai gali būti sustabdyti, kol bus išnagrinėta drausmės byla;
 
@@ -609,53 +617,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-431 straipsnis. Elektroninės vykdomosios bylos, informacinių ir elektroninių ryšių technologijų naudojimas antstolių veikloje
+Pakeitimai:
 
-1. Su vykdomosiomis bylomis susiję elektroniniai duomenys antstolio kontoroje yra tvarkomi, įtraukiami į apskaitą ir saugomi naudojant informacines ir elektroninių ryšių technologijas teisingumo ministro nustatyta tvarka, suderinta su Lietuvos vyriausiuoju archyvaru. Vykdomosios bylos ir su vykdymo procesu susijusi informacija gali būti tvarkomos vien elektronine forma. Kai vedama elektroninė vykdomoji byla, antstolio gaunama ir siunčiama rašytinės formos informacija yra skaitmeninama šio straipsnio 6 dalyje nustatyta tvarka, o rašytiniai dokumentai tvarkomi, saugomi ir sunaikinami teisingumo ministro nustatyta tvarka, suderinta su Lietuvos vyriausiuoju archyvaru.
+1.
 
-2. Vykdymo proceso šalys ir suinteresuoti asmenys teisingumo ministro nustatyta tvarka turi teisę susipažinti su elektronine vykdomąja byla ir gauti joje esančių dokumentų kopijas. Be to, įstatymų nustatyta tvarka asmenys turi teisę susipažinti su užbaigtomis vykdomosiomis bylomis. Antstolio kontoroje sudaromos reikiamos techninės sąlygos šioms teisėms įgyvendinti; be to, turi būti sudaromos sąlygos susipažinti su elektroninėmis vykdomosiomis bylomis ir gauti jų kopijas nuotoliniu būdu.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Vykdymo proceso šalys ir suinteresuoti asmenys turi teisę visus dokumentus ir informaciją, susijusią su vykdymo procesu, antstoliui teikti elektroninės formos, teisingumo ministro nustatyta tvarka naudodami elektroninių ryšių priemones. Asmenys, teikiantys dokumentus elektroninių ryšių priemonėmis, turi juos pasirašyti saugiu elektroniniu parašu arba savo asmens tapatybę patvirtinti kitais būdais (per elektroninės bankininkystės sistemas ir pan.), arba užsiregistruoti Antstolių informacinėje sistemoje. Asmens tapatybės patvirtinimo reikalavimus ir būdus nustato teisingumo ministras.
+Nr. IX-1459, 2003-04-03, Žin., 2003, Nr. 38-1704 (2003-04-24), i. k. 1031010ISTA0IX-1459
 
-4. Įstatymų nustatytais atvejais antstolis praneša vykdymo proceso dalyviams apie vykdymo veiksmus ar procesinius sprendimus, teisingumo ministro nustatyta tvarka naudodamas elektroninių ryšių priemones.
-
-5. Antstolio kontoroje sudaromos reikiamos techninės sąlygos su vykdymo procesu susijusius dokumentus ir jų kopijas tvirtinti saugiu elektroniniu parašu, sukurtu saugia parašo formavimo įranga ir patvirtintu kvalifikuotais sertifikatais. Elektroniniu parašu patvirtinti antstolio sudaryti procesiniai dokumentai ir jų kopijos turi tokią pat teisinę galią kaip ir rašytiniais parašais patvirtinti procesiniai dokumentai.
-
-6. Elektroninėje vykdomojoje byloje saugomos vykdymo proceso metu sudarytų ar gautų rašytinių dokumentų skaitmeninės kopijos, išskyrus dokumentus, kurių dėl teisės aktų nustatytų reikalavimų negalima skaitmeninti, ir sudaryti ar pateikti elektroniniai dokumentai. Rašytiniai dokumentai turi būti skaitmeninti ir jų skaitmeninės kopijos perkeltos į elektroninę vykdomąją bylą ne vėliau kaip per tris darbo dienas nuo jų gavimo antstolio kontoroje. Skaitmeninėje kopijoje turi būti nurodytas dokumento skaitmeninimo laikas ir dokumentą skaitmeninęs asmuo. Skaitmeninė kopija turi būti patvirtinta dokumentą skaitmeninusio asmens saugiu elektroniniu parašu. Kai dėl šioje dalyje nurodytų priežasčių rašytinių dokumentų negalima skaitmeninti, antstolis priima motyvuotą patvarkymą saugoti dokumentus tik rašytinės formos ir apie tai pažymi elektroninėje vykdomojoje byloje.
-
-Papildyta straipsniu:
-
-Nr. XI-1483, 2011-06-21, Žin., 2011, Nr. 85-4129 (2011-07-13), i. k. 1111010ISTA0XI-1483
-
-251 straipsnis. Kliento duomenų surinkimas
-
-1. Kliento duomenų surinkimu laikomas kliento asmens duomenų apie asmenį, turimą turtą, pajamas, įsipareigojimus, įsiskolinimus, nagrinėjamus turtinius ginčus ir kitų su klientu susijusių duomenų surinkimas iš registrų bei informacinių sistemų ir šių duomenų pateikimas klientui ar kitam asmeniui.
-
-2. Kliento duomenys renkami kliento ar kito asmens prašymu. Kito asmens prašymu kliento asmens duomenys gali būti renkami tik tuo atveju, kai antstoliui pateikiamas kliento rašytinis sutikimas rinkti jo asmens duomenis arba šis sutikimas suformuojamas tokiu būdu, kuriuo galima identifikuoti šį sutikimą pateikusį asmenį arba patikrinti sutikimo autentiškumą.
-
-3. Šio straipsnio 2 dalyje nurodytame prašyme ar sutikime klientas turi nurodyti, kokius ir kokios apimties kliento duomenis prašoma ar duodamas sutikimas rinkti.
-
-4. Klientas turi teisę bet kuriuo metu, kol jo duomenys dar nėra pateikti jam ar kitam asmeniui, pateikti antstoliui rašytinį prašymą nutraukti visų ar dalies duomenų, kuriuos rinkti buvo prašęs ar davęs sutikimą, rinkimą. Gavęs tokį prašymą antstolis privalo nedelsdamas nutraukti duomenų, dėl kurių rinkimo prieštarauja klientas, rinkimą. Nutraukus duomenų rinkimą, dokumentai ir informacija, susiję su kliento duomenų surinkimo paslaugos teikimu, saugomi ir sunaikinami teisės aktų nustatyta tvarka.
-
-Papildyta straipsniu:
-
-Nr. XIV-2318, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25071
-
-151 straipsnis. Pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimo priežiūra
-
-1. Lietuvos antstolių rūmai prižiūri, ar antstolis, antstolio atstovas laikosi Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimų.
-
-2. Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimus galimai pažeidusiam antstoliui, antstolio atstovui Lietuvos antstolių rūmų prezidiumo sprendimu gali būti keliama drausmės byla, kurią nagrinėja Antstolių garbės teismas.
-
-3. Antstolių garbės teismas antstoliui, antstolio atstovui už šio straipsnio 2 dalyje nurodytus pažeidimus gali paskirti Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 1, 2 ir 6 punktuose numatytas poveikio priemones.
-
-4. Šio įstatymo nuostatos dėl drausmės bylos iškėlimo, nagrinėjimo, Antstolių garbės teismo sprendimo priėmimo, įsiteisėjimo ir drausminės nuobaudos galiojimo, nagrinėjant šio straipsnio 2 dalyje nurodytus pažeidimus, taikomos tiek, kiek neprieštarauja Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nuostatoms.
-
-Papildyta straipsniu:
-
-Nr. XIV-2545, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07539
-
-IV SKYRIUS
-
-KITA ANTSTOLIO ATSAKOMYBĖ
+Lietuvos Respublikos antstolių įstatymo 11 straipsnio pakeitimo įstatymas
 
