@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2001-04-10"
+last_updated: "2002-03-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -21,10 +21,6 @@ Redagavo: Ramun? L??ait? (1996
 Įstatymas
 
 paskelbtas: Žin., 1994, Nr. 96-1872
-
-Nauja
-
-įstatymo redakcija skelbta: Žin., 2001, Nr. 35-1161
 
 Neoficialus
 
@@ -138,13 +134,11 @@ hektarų ploto miškai su atitinkama rekreacine įranga bei infrastruktūra.
 
 Miško ištekliai – nenukirstas miškas, sakai, kelmai ir dervuoliai,
 
-medžių žievė, karnos ir tošis, medžių sula, kalėdiniai medeliai, kitos
+medžių žievė, karnos ir tošis, medžių sula, kalėdiniai medeliai, kitos dekoratyvinės
 
-dekoratyvinės miško medžiagos, šakelės, vytelės, grybai, riešutai, uogos,
+miško medžiagos, šakelės, vytelės, grybai, riešutai, uogos, vaisiai,
 
-vaisiai, vaistažolės ir vaistinės žaliavos, miško paklotė ir lapai bei miško
-
-augalija.
+vaistažolės ir vaistinės žaliavos, miško paklotė ir lapai bei miško augalija.
 
 8.
 
@@ -910,19 +904,17 @@ saugomų objektų užpuolimą, jeigu kyla pavojus asmens gyvybei.
 
 panaudoti fizinę prievartą bei specialiąsias priemones ar šaunamąjį ginklą
 
-prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei
+prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu,
 
-akivaizdu, kad jie invalidai, prieš nepilnamečius, jeigu jų amžius žinomas
+kad jie invalidai, prieš nepilnamečius, jeigu jų amžius žinomas pareigūnui arba
 
-pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi
+išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu žmogaus
 
-pavojingu žmogaus gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė
+gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas
 
-ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai. Draudžiama panaudoti
+kelia grėsmę gyvybei ar sveikatai. Draudžiama panaudoti šaunamąjį ginklą žmonių
 
-šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti
-
-pašaliniai asmenys.
+susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys.
 
 4.
 
@@ -1094,9 +1086,7 @@ reglamentuoja Nenukirsto valstybinio miško skyrimo ir pardavimo taisyklės.
 
 taip pat privalomų vykdyti miškotvarkos projekto dalių –
 
-pagrindinių kirtimų dešimtmečio normos, miško atkūrimo bei aplinkosaugos
-
-reikalavimų.
+pagrindinių kirtimų dešimtmečio normos, miško atkūrimo bei aplinkosaugos reikalavimų.
 
 6. Draudžiama
 
@@ -1226,15 +1216,15 @@ inventorizacija, miškų apskaita ir miškų kadastras
 
 Valstybinės miškų inventorizacijos ir miškų apskaitos tikslas – nustatyti miško
 
-išteklius, jų kokybę, teikti informaciją apie miškų gamtinę ir ūkinę būklę.
+išteklius, jų kokybę, teikti informaciją apie miškų gamtinę ir ūkinę būklę. Valstybinė
 
-Valstybinė miškų inventorizacija atliekama visose miško valdose. Miškų
+miškų inventorizacija atliekama visose miško valdose. Miškų urėdijose,
 
-urėdijose, valstybiniuose rezervatuose ir valstybiniuose parkuose
+valstybiniuose rezervatuose ir valstybiniuose parkuose inventorizuojama ir
 
-inventorizuojama ir įtraukiama į apskaitą ne tik miško, bet ir valstybinė ne
+įtraukiama į apskaitą ne tik miško, bet ir valstybinė ne miško žemė (žemės ūkio
 
-miško žemė (žemės ūkio naudmenos, vandenys ir kt.).
+naudmenos, vandenys ir kt.).
 
 2.
 
@@ -1628,9 +1618,9 @@ kirtavietėse ir 20 metų neturinčiuose jaunuolynuose.
 
 Medžiojamų žvėrių skaičius miško žemėje turi būti palaikomas toks, kad būtų
 
-garantuotas ekosistemos stabilumas. Reguliuojant žvėrių skaičių miške,
+garantuotas ekosistemos stabilumas. Reguliuojant žvėrių skaičių miške, laikomasi
 
-laikomasi Aplinkos apsaugos įstatymo ir kitų teisės aktų reikalavimų.
+Aplinkos apsaugos įstatymo ir kitų teisės aktų reikalavimų.
 
 21 straipsnis.
 
@@ -1672,15 +1662,7 @@ atkurti iki pažeidimo buvusią būklę. Nuostolių apskaičiavimo tvarką nusta
 
 įstatymai ir kiti teisės aktai.
 
-2. Mediena, įgyta pažeidžiant šį įstatymą,
-
-konfiskuojama miško valdytojo arba savininko ir naudotojo naudai įstatymų ir
-
-kitų teisės aktų nustatyta tvarka. Nuostolių sumos išieškomos nukentėjusios
-
-šalies naudai.
-
-3. Pareikšti
+2. Pareikšti
 
 ieškinius dėl neteisėta veika padarytos žalos turi teisę:
 
@@ -1692,6 +1674,14 @@ miškui, turtui ar teisėtiems interesams padaryta žala;
 
 padaroma miškui, kaip aplinkos objektui.
 
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-771,
+
+2002-03-07, Žin., 2002, Nr. 31-1122 (2002-03-27)
+
 VII SKYRIUS
 
 LIETUVOS
@@ -1702,9 +1692,9 @@ MIŠKŲ
 
 ŪKIO SRITYJE
 
-24 straipsnis. Lietuvos Respublikos tarptautinis
+24 straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas
 
-bendradarbiavimas miškų ūkio
+miškų ūkio
 
 klausimais
 
@@ -1822,7 +1812,7 @@ MIŠKŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Nauja įstatymo redakcija
 
-Šis įstatymas įsigalioja 2001 m. liepos 1 d.:
+Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d.:
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -1832,9 +1822,29 @@ Nr. IX-241,
 
 MIŠKŲ ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS
 
-*** Pabaiga ***
+7.
 
-Redagavo: Aušrinė Trapinskienė (2001 04 26)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-771,
+
+2002-03-07, Žin., 2002, Nr. 31-1122 (2002-03-27)
+
+MIŠKŲ
+
+ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2002-03-27)
 
 autrap@lrs.lt
 
