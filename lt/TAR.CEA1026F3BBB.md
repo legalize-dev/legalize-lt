@@ -4,7 +4,7 @@ identifier: "TAR.CEA1026F3BBB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-04-08"
-last_updated: "2000-05-18"
+last_updated: "2000-12-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CEA1026F3BBB"
 department: "Lietuvos Respublikos Seimas"
@@ -35,7 +35,9 @@ REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS
 
 Vilnius
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis.
+
+Įstatymo paskirtis
 
 Šis įstatymas nustato specialios
 
@@ -47,15 +49,17 @@ decentralizavimą reorganizuojant šią bendrovę skaidymo būdu, atskiriant ši
 
 jose esantį turtą ir valstybei priklausančias akcijas savivaldybių nuosavybėn.
 
-2 straipsnis. Specialios paskirties
+2 straipsnis.
 
-akcinės bendrovės “Lietuvos energija” reorganizavimas
+Specialios paskirties akcinės bendrovės “Lietuvos energija”
 
-Specialios paskirties akcinės bendrovės
+reorganizavimas
 
-“Lietuvos energija” šilumos ūkio valdymas decentralizuojamas reorganizuojant
+Specialios paskirties akcinės bendrovės “Lietuvos
 
-šią bendrovę, atskiriant jai priklausančius Vilniaus (įtraukiant Vilniaus elektrinę),
+energija” šilumos ūkio valdymas decentralizuojamas reorganizuojant šią
+
+bendrovę, atskiriant jai priklausančius Vilniaus (įtraukiant Vilniaus elektrinę),
 
 Kauno (įtraukiant Kauno elektrinę), Klaipėdos, Šiaulių, Panevėžio ir Alytaus
 
@@ -77,9 +81,9 @@ savivaldybės teritorijoje esantis regioninio filialo padalinys ir jo pagrindu
 
 steigiama specialios paskirties akcinė bendrovė.
 
-3 straipsnis. Specialios paskirties
+3 straipsnis.
 
-akcinės bendrovės “Lietuvos energija” reorganizavimo
+Specialios paskirties akcinės bendrovės “Lietuvos energija” reorganizavimo
 
 papildomos
 
@@ -169,9 +173,9 @@ energija” reorganizavimo projektą, kurį tvirtina ūkio ministras (netaikomi
 
 Akcinių bendrovių įstatymo 10 straipsnio 10 dalies reikalavimai).
 
-4 straipsnis. Šilumos ūkio bei jo
+4 straipsnis.
 
-valdymo perdavimas
+Šilumos ūkio bei jo valdymo perdavimas
 
 1. Naujai įsteigtų pagal šio įstatymo 3
 
@@ -191,9 +195,9 @@ atitinkančios Vilniaus ir Kauno elektrinių ilgalaikį turtą, perduodamos
 
 nuosavybės teise savivaldybėms iki 1997 m. spalio 10 d.
 
-4(1) straipsnis. Tolesnis
+4(1)
 
-šilumos ūkio reorganizavimas
+straipsnis. Tolesnis šilumos ūkio reorganizavimas
 
 1. Šilumos ūkis toliau (po 1997 m.
 
@@ -231,11 +235,11 @@ priimamas regioninės specialios paskirties šilumos tiekimo akcinės bendrovės
 
 akcininkų susirinkime paprasta balsų dauguma. Reorganizavimo projektą derina
 
-savivaldybių asociacija, o tvirtina valdymo reformų ir savivaldybių reikalų bei
+savivaldybių asociacija, o tvirtina vidaus reikalų bei ūkio ministrai.
 
-ūkio ministrai. Įsipareigojimų ir bendro naudojimo turto paskirstymas, jo
+Įsipareigojimų ir bendro naudojimo turto paskirstymas, jo naudojimo tvarka
 
-naudojimo tvarka nustatomi tarpusavio susitarimu.
+nustatomi tarpusavio susitarimu.
 
 4. Regiono, miesto, rajono specialios paskirties
 
@@ -255,9 +259,17 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1366, 99.10.19, Žin., 1999, Nr.90-2642 (99.10.27)
+Nr. VIII-1366, 99.10.19, Žin., 1999, Nr.90-2642
 
-5 straipsnis. Šilumos ūkio politika
+(99.10.27)
+
+Nr. IX-128, 2000 12 21, Žin., 2000, Nr.
+
+111-3584 (2000 12 29), įsigalioja nuo 2001 01 01
+
+5 straipsnis.
+
+Šilumos ūkio politika
 
 1. Ūkio ministerija rengia nacionalinį šilumos ūkio
 
@@ -319,15 +331,17 @@ Nr. VIII-930,
 
 98.11.17, Žin., 1998, Nr.105-2901 (98.12.02)
 
-Nr. VIII-1691, 00.05.18, Žin., 2000, Nr.45-1294 (00.06.02)
+Nr. VIII-1691, 00.05.18, Žin., 2000,
+
+Nr.45-1294 (00.06.02)
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
 priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                              ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
 
-____________________
+___________
 
 Pakeitimai:
 
@@ -389,21 +403,25 @@ REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATY
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1366, 99.10.19, Žin., 1999, Nr.90-2642 (99.10.27)
+Nr. VIII-1366, 99.10.19, Žin., 1999,
+
+Nr.90-2642 (99.10.27)
 
 LIETUVOS
 
-RESPUBLIKOS SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS „LIETUVOS
+RESPUBLIKOS SPECIALIOS PASKIRTIES AKCINĖS
 
-ENERGIJA“ REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS
+BENDROVĖS „LIETUVOS ENERGIJA“ REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO
 
-ĮSTATYMO 4(1) STRAIPSNIO PAPILDYMO ĮSTATYMAS
+PERDAVIMO SAVIVALDYBĖMS ĮSTATYMO 4(1) STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 5.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1691, 00.05.18, Žin., 2000, Nr.45-1294 (00.06.02)
+Nr. VIII-1691, 00.05.18, Žin., 2000,
+
+Nr.45-1294 (00.06.02)
 
 SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS „LIETUVOS ENERGIJA“
 
@@ -411,7 +429,27 @@ REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATY
 
 5 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-128, 2000 12 21, Žin., 2000, Nr.
+
+111-3584 (2000 12 29)
+
+SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS „LIETUVOS ENERGIJA“
+
+REORGANIZAVIMO BEI ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATYMO
+
+4(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja nuo 2001 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.06.05)
+Redagavo: Aušrinė Trapinskienė (2001 01 12)
+
+autrap@lrs.lt
 
