@@ -4,7 +4,7 @@ identifier: "TAR.7B2A8006AB08"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-05-25"
-last_updated: "1998-12-31"
+last_updated: "1999-06-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7B2A8006AB08"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto
 
-Suvestinė redakcija nuo 1998-12-31 iki 1999-06-29
+Suvestinė redakcija nuo 1999-06-30 iki 1999-12-29
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-486, i. k. 0931010ISTA000I-160
 
@@ -61,7 +61,9 @@ Nr. I-969, 1995-06-27, Žin., 1995, Nr. 56-1389 (1995-07-08), i. k. 0951010ISTA0
 
 6 straipsnis. Specialiajam fondui veikiančioms ir besisteigiančioms profesinėms sąjungoms remti perduotas turtas negali būti privatizuojamas ar akcionuojamas, taip pat parduodamas ar kitaip perleidžiamas, išskyrus šio straipsnio antrojoje dalyje nurodytus atvejus.
 
-Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti taryba po 1999 m. liepos 1 d. Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti valdomą ir naudojamą turtą, o po 2006 m. sausio 1 d. – Fondo lėšas privalo perduoti Lietuvos profesinių sąjungų nuosavybėn.
+Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti taryba po 1999 m. gruodžio 31 d. privalo perduoti Lietuvos profesinių sąjungų nuosavybėn Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti valdomą ir naudojamą turtą, o po 2006 m. sausio 1 d. – perduoti joms ir Fondo lėšas.
+
+Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti taryba privalo iki 1999 m. spalio 1 d. perimti perduotą buvusių Lietuvos TSR valstybinių profesinių sąjungų turtą.
 
 Papildyta straipsniu:
 
@@ -72,6 +74,8 @@ Straipsnio pakeitimai:
 Nr. I-969, 1995-06-27, Žin., 1995, Nr. 56-1389 (1995-07-08), i. k. 0951010ISTA000I-969
 
 Nr. VIII-988, 1998-12-21, Žin., 1998, Nr. 115-3243 (1998-12-31), i. k. 0981010ISTAVIII-988
+
+Nr. VIII-1267, 1999-06-24, Žin., 1999, Nr. 57-1836 (1999-06-30), i. k. 0991010ISTAIII-1267
 
 7 straipsnis. Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti veiklą turi teisę kontroliuoti Valstybės kontrolės departamentas.
 
@@ -114,4 +118,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-988, 1998-12-21, Žin., 1998, Nr. 115-3243 (1998-12-31), i. k. 0981010ISTAVIII-988
 
 Lietuvos Respublikos įstatymo "Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto" 6 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1267, 1999-06-24, Žin., 1999, Nr. 57-1836 (1999-06-30), i. k. 0991010ISTAIII-1267
+
+Lietuvos Respublikos įstatymo "Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto" 6 straipsnio pakeitimo ir papildymo įstatymas
 
