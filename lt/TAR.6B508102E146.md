@@ -4,7 +4,7 @@ identifier: "TAR.6B508102E146"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-12"
-last_updated: "1997-02-25"
+last_updated: "1997-12-09"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,11 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.03.07)
+Ramunė Lūžaitė (1997.12.29)
+
+Įstatymas
+
+paskelbtas: Žin., 1994, Nr.30-530
 
 Neoficialus
 
@@ -36,7 +40,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-767, 95.01.24, Žin., 1995, Nr. 12-260 (95.02.08)
+I-767, 95.01.24, Žin., 1995, Nr. 12-260 (95.02.08)
 
 DĖL
 
@@ -46,7 +50,7 @@ Pakeitimai:
 
 01. Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. 1-993, 95.07.03, Žin., 1995, Nr. 59-1469 (95.07.19)
+Nr. I-993, 95.07.03, Žin., 1995, Nr. 59-1469 (95.07.19)
 
 2.
 
@@ -56,7 +60,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
+I-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 
 DĖL
 
@@ -70,7 +74,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1084, 95.11.07, Žin., 1995, Nr. 94-2087 (95.11.17)
+I-1084, 95.11.07, Žin., 1995, Nr. 94-2087 (95.11.17)
 
 DĖL
 
@@ -84,7 +88,7 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1250, 96.03.28, Žin., 1996, Nr. 35-857 (96.04.19)
+I-1250, 96.03.28, Žin., 1996, Nr. 35-857 (96.04.19)
 
 LIETUVOS
 
@@ -98,15 +102,15 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-1-1307, 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
+I-1307, 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
 
 LIETUVOS
 
 RESPUBLIKOS AKCIZŲ ĮSTATYMO 8-1, 8-2, 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-Pastaba:
+Šis
 
-Šis įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.
+įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.
 
 6.
 
@@ -136,6 +140,24 @@ LIETUVOS
 
 RESPUBLIKOS AKCIZŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+8.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-556,
+
+97.12.09, Žin., 1997, Nr.117-2996 (97.12.24)
+
+LIETUVOS RESPUBLIKOS
+
+AKCIZŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja
+
+įstatymo redakcija nuo 1998 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
@@ -150,441 +172,299 @@ A K C I Z Ų
 
 Vilnius
 
-(Žin., 1994, Nr.30-530)
+Nauja
 
-1
-
-straipsnis. Įstatymo paskirtis
-
-Šis
-
-įstatymas reglamentuoja kai kurių prekių apmokestinimą akcizais.
-
-2
-
-straipsnis. Akcizų mokėtojai
-
-Akcizus
-
-į biudžetą moka 3 straipsnyje išvardytų prekių gamintojai ir importuotojai -
-
-juridiniai ir fiziniai asmenys bei juridinio asmens teisių neturinčios įmonės.
-
-Laisvosiose ekonominėse zonose zonų įmonės akcizų nemoka.
-
-Už
-
-naftos produktus, pagamintus akcinėje bendrovėje "Mažeikių nafta",
-
-nesvarbu, iš kieno naftos šie produktai pagaminti, akcizus apskaičiuoja,
-
-surenka ir moka akcinė bendrovė "Mažeikių nafta".
-
-Straipsnio
-
-pakeitimai:
+įstatymo redakcija nuo 1998 m. sausio 1 d.:
 
 Nr.
 
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
+VIII-556, 97.12.09, Žin., 1997, Nr.117-2996 (97.12.24)
 
-Nr.
+1 straipsnis. Įstatymo paskirtis
 
-1-1084, 95.11.07, Žin., 1995, Nr. 94-2087 (95.11.17)
+Šis įstatymas reglamentuoja kai kurių prekių
 
-Nr.
+apmokestinimą akcizais.
 
-1-1250, 96.03.28, Žin., 1996, Nr. 35-857 (96.04.19)
+2 straipsnis. Akcizų mokėtojai
 
-Nr.
+1. Akcizus į biudžetą moka šio įstatymo 3
 
-VIII-125, 97.02.25, Žin., 1997, Nr.20-447 (97.03.07)
+straipsnyje išvardytų prekių gamintojai ir importuotojai - juridiniai ir
 
-3
+fiziniai asmenys bei juridinio asmens teisių neturinčios įmonės. Laisvosiose
 
-straipsnis. Akcizų objektas
+ekonominėse zonose zonų įmonės akcizų nemoka.
 
-Akcizų
+2. Už naftos produktus, pagamintus akcinėje
 
-objektas yra šios prekės:
+bendrovėje “Mažeikių nafta”, nesvarbu, iš kieno naftos šie produktai pagaminti,
 
-1)
+akcizus apskaičiuoja, surenka ir moka akcinė bendrovė “Mažeikių nafta”.
 
-nedenatūruotas etilo alkoholis ir alkoholiniai gėrimai, įskaitant alų;
+3 straipsnis. Akcizų objektas
 
-2)
+1. Akcizų objektas yra šios prekės:
 
-rūkomasis tabakas ir tabako gaminiai;
+1) nedenatūruotas etilo alkoholis ir
 
-3)
+alkoholiniai gėrimai, įskaitant alų;
 
-kava, šokoladas, maisto produktai su kakava;
+2) rūkomasis tabakas ir tabako gaminiai;
 
-4)
+3) kava, šokoladas, maisto produktai su
 
-bižuterija, aukso ir sidabro dirbiniai, išskyrus dirbtinę bižuteriją ir
+kakava;
 
-monetas;
+4) bižuterija, aukso ir sidabro dirbiniai,
 
-5)
+išskyrus dirbtinę bižuteriją ir monetas;
 
-variklių benzinas, žibalas, kuras reaktyviniams varikliams, gazolis (dyzelinis
+5) variklių benzinas, žibalas, kuras
 
-kuras), skystasis krosnių kuras;
+reaktyviniams varikliams, gazolis (dyzelinis kuras), skystasis krosnių kuras;
 
-6)
+6) prabangūs lengvieji automobiliai;
 
-prabangūs lengvieji automobiliai;
+7) elektros energija;
 
-7)
+8) erotinio ir smurtinio pobūdžio spaudiniai;
 
-elektros energija;
+9) visų rūšių tepalai.
 
-8)
+2. Importuojamos prekės, kaip akcizų
 
-erotinio ir smurtinio pobūdžio spaudiniai;
+objektas, yra šio straipsnio 1 dalyje nurodytos ne Lietuvos prekės, dėl kurių
 
-9)
+pagal Lietuvos Respublikos muitinės kodeksą (toliau - Muitinės kodeksas)
 
-visų rūšių tepalai.
+atsiranda importo skola muitinei.
 
-Straipsnio
+4 straipsnis. Apmokestinamoji vertė
 
-pakeitimai:
+Apmokestinamąją vertę sudaro:
 
-Nr.
+1) Lietuvos Respublikoje pagamintų prekių -
 
-1-767, 95.01.24, Žin., 1995, Nr. 12-260 (95.02.08)
+prekių pardavimo kaina be akcizo ir pridėtinės vertės mokesčio;
 
-Pastaba:
+2) importuojamų prekių - prekių muitinės
 
-Įstatymas įsigalioja nuo 1996 m. sausio 1 dienos.
+vertės ir muito suma. Importuojamų prekių muitinė vertė apskaičiuojama Muitinės
 
-Nr.
+kodekso nustatyta tvarka.
 
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
+5 straipsnis. Apmokestinamoji apyvarta
 
-4
+1. Akcizai apskaičiuojami už šio įstatymo 3
 
-straipsnis. Apmokestinamoji vertė
+straipsnyje išvardytas prekes:
 
-Prekių
+1) iš gatavos produkcijos sandėlio perduotas
 
-apmokestinamoji vertė yra:
+kitam juridiniam ar fiziniam asmeniui arba juridinio asmens teisių neturinčiai
 
-1)
+įmonei, kuriems pagal išrašytus prekių perdavimo dokumentus perleidžiama teisė
 
-Lietuvos Respublikoje pagamintų prekių - prekių pardavimo kaina be akcizo ir
-
-pridėtinės vertės mokesčio;
-
-2)
-
-importuojamų prekių - muitinė prekių vertė, įskaitant muitą.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
-
-5
-
-straipsnis. Apmokestinamoji apyvarta
-
-Akcizai
-
-apskaičiuojami už šio įstatymo 3 straipsnyje išvardytas prekes:
-
-1)
-
-iš gatavos produkcijos sandėlio perduotas kitam juridiniam ar fiziniam
-
-asmeniui, ar juridinio asmens teisių neturinčiai įmonei, kuriems, remiantis
-
-išrašytais prekių perdavimo dokumentais, perleidžiama teisė jomis disponuoti.
-
-Šiuose dokumentuose turi būti Lietuvos Respublikos buhalterinės apskaitos
+tomis prekėmis disponuoti. Šiuose dokumentuose turi būti Buhalterinės apskaitos
 
 pagrindų įstatymo 10 straipsnyje nurodyti privalomi rekvizitai;
 
-2)
+2) importuojamas - Muitinės kodekso
 
-importuojamas - importo muitams apskaičiuoti nustatyta tvarka.
+nustatytais atvejais, kai atsiranda skola muitinei.
 
-Akcizai
+2. Akcizai yra prekių kainos elementas ir
 
-yra prekių kainos elementas ir sąskaitose- faktūrose bei mokėjimo dokumentuose
+sąskaitose-faktūrose bei mokėjimo dokumentuose nenurodomi.
 
-nenurodomi.
+6 straipsnis. Akcizų netaikymo atvejai
 
-Straipsnio
+1. Akcizais neapmokestinama:
 
-pakeitimai:
+1) kaip labdara įvežamos prekės;
 
-Nr.
+2) fizinių asmenų (keleivių) įvežamos prekės,
 
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
+jeigu jų įvežama ne daugiau kaip Vyriausybės leista jiems įvežti be importo
 
-6
+mokesčių;
 
-straipsnis. Akcizų lengvatos
+3) prekės, įvežamos užsienio šalių
 
-Akcizais
+diplomatinių ir konsulinių atstovybių, taip pat tarptautinių organizacijų
 
-neapmokestinamos:
+oficialiai misijos veiklai, jeigu šių tarptautinių organizacijų sutartyse su
 
-1)
+Lietuvos Respublika numatyta neimti akcizų;
 
-importuojamos prekės, kurios Lietuvos Respublikos muitų tarifų įstatymo V
+4) į Lietuvos Respublikos muitų teritoriją
 
-skyriuje nustatyta tvarka atleidžiamos nuo muito;
+atsiunčiamos pašto siuntos, kurių svoris ne didesnis kaip 31,5 kilogramo, o
 
-2)
+vertė ne didesnė kaip 400 litų;
 
-neišpilstyti alkoholiniai gėrimai ir jų žaliava, jeigu juos importuoja
+5) importuojamos prekės, kurios pagal
 
-alkoholiniams gėrimams gaminti valstybinės įmonės, turinčios teisę gaminti
+Muitinės kodeksą neapmokestinamos importo mokesčiais;
 
-šiuos gėrimus;
+6) neišpilstyti alkoholiniai gėrimai ir jų
 
-3)
+žaliava, jeigu juos alkoholiniams gėrimams gaminti importuoja įmonės, turinčios
 
-eksportuotos prekės;
+teisę gaminti šiuos gėrimus;
 
-4)
+7) eksportuotos prekės.
 
-per Lietuvos Respublikos muitų teritoriją gabenamos tranzitu prekės.
+2. Be to, akcizas netaikomas, kai etilo
 
-Taip
+alkoholis parduodamas:
 
-pat akcizas netaikomas, kai etilo alkoholis parduodamas:
+1) Lietuvos Respublikos įmonėms degtinei,
 
-1)
+likeriui, trauktinėms, vynui, midui, actui gaminti;
 
-Lietuvos Respublikos įmonėms degtinei, likeriui, trauktinėms, vynui, midui,
+2) farmacijos įmonėms ir sveikatos priežiūros
 
-actui gaminti;
+įstaigoms medicinos ir farmacijos reikmėms; veterinarinių vaistų gamybos
 
-2)
+įmonėms veterinarinių vaistų gamybai ir veterinarijos tiekimo įmonėms
 
-farmacijos įmonėms ir medicinos pagalbos įstaigoms medicinos ir farmacijos
+veterinarijos reikmėms.
 
-reikmėms; veterinarinių vaistų gamybos įmonėms - veterinarinių vaistų gamybai
+7 straipsnis. Akcizų grąžinimas arba
 
-ir veterinarijos tiekimo įmonėms - veterinarijos reikmėms.
+atsisakymas juos išieškoti
 
-Straipsnio
+1. Už importuojamas prekes sumokėti akcizai
 
-pakeitimai:
+grąžinami Muitinės kodekso nustatytais atvejais.
 
-Nr.
+2. Atsisakoma išieškoti akcizus už
 
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
+importuojamas prekes Muitinės kodekso nustatytais atvejais.
 
-7
+8 straipsnis. Mokestinis laikotarpis
 
-straipsnis. Mokestinis laikotarpis
+Akcizų (išskyrus importuojamų prekių akcizus)
 
-Akcizų
+mokestinis laikotarpis yra kalendorinis mėnuo, kuriam pasibaigus mokėtojai iki
 
-(išskyrus importuojamų prekių akcizus) mokestinis laikotarpis yra kalendorinis
+kito mėnesio 15 dienos privalo teritorinei valstybinei mokesčių inspekcijai
 
-mėnuo, kuriam pasibaigus, mokėtojai iki kito mėnesio 15 dienos privalo vietos
+pateikti akcizų apyskaitą.
 
-valstybinei mokesčių inspekcijai pateikti akcizų apyskaitą.
+9 straipsnis. Akcizų mokėjimo tvarka
 
-8
+1. Už savos gamybos prekes akcizai turi būti
 
-straipsnis. Sumokėjimo tvarka
+sumokėti į biudžetą iki kito mėnesio 30 dienos.
 
-Už
+2. Mokėtojai, kurių praėjusio pusmečio
 
-savos gamybos prekes akcizai turi būti sumokėti į biudžetą iki kito mėnesio 30
+vidutinė mėnesinė akcizų suma buvo didesnė kaip 50 tūkst. litų, akcizus moka:
 
-dienos.
+1) iki mėnesio 30 dienos - už mėnesio pirmąjį
 
-Mokėtojai,
+dešimtadienį;
 
-kurių praėjusio pusmečio vidutinė mėnesinė akcizų suma buvo didesnė kaip 50
+2) iki kito mėnesio 10 dienos - už mėnesio
 
-tūkst. litų, akcizus moka:
+antrąjį dešimtadienį;
 
-iki
+3) iki kito mėnesio 20 dienos - už likusią
 
-mėnesio 30 dienos - už mėnesio pirmąjį dešimtadienį;
+mėnesio dalį.
 
-iki
+3. Už importuojamas prekes akcizai mokami į
 
-kito mėnesio 10 dienos - už mėnesio antrąjį dešimtadienį;
+biudžetą Vyriausybės nustatyta tvarka.
 
-iki
+4. Už Lietuvos Respublikoje pagamintus ir
 
-kito mėnesio 20 dienos - už likusią mėnesio dalį.
+įvežamus alkoholinius gėrimus, tabako gaminius bei naftos produktus Vyriausybė
 
-Už
+gali nustatyti kitokią akcizų apskaičiavimo ir mokėjimo į biudžetą tvarką bei
 
-importuojamas prekes akcizai sumokami į biudžetą Lietuvos Respublikos
+terminus.
 
-Vyriausybės nustatyta mokesčių mokėjimo muitinėje tvarka.
+10 straipsnis. Akcizų išieškojimas
 
-Už
+1. Akcizų už prekes (išskyrus importuojamas)
 
-Lietuvos Respublikoje pagamintus ir įvežamus alkoholinius gėrimus, tabako
+mokėjimą kontroliuoja teritorinės valstybinės mokesčių inspekcijos, kurios
 
-gaminius bei naftos produktus Lietuvos Respublikos Vyriausybė gali nustatyti
+akcizų nepriemokas, delspinigius ir Mokesčių administravimo įstatymo nustatytas
 
-kitokią akcizo apskaičiavimo ir mokėjimo į biudžetą tvarką bei terminus.
+baudas išieško Mokesčių administravimo įstatymo nustatyta tvarka.
 
-Straipsnio
+2. Akcizų už importuojamas prekes mokėjimą
 
-pakeitimai:
+kontroliuoja teritorinės muitinės, kurios akcizų nepriemokas ir delspinigius
 
-Nr.
+išieško Muitinės kodekso nustatyta tvarka už einamuosius ir penkerius
 
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
+praėjusius metus.
 
-8-1
+11 straipsnis. Nepagrįstai sumokėtų
 
-straipsnis. Akcizų išieškojimas
+(išieškotų) akcizų grąžinimas
 
-Laiku
+Prašymas grąžinti nepagrįstai sumokėtus
 
-nesumokėtas akcizų, baudų ir delspinigių sumas išieško valstybinės mokesčių
+(išieškotus) akcizus gali būti pateiktas per dvejus metus nuo akcizo sumokėjimo
 
-inspekcijos Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta
+(išieškojimo) dienos. Nepagrįstai sumokėtas (išieškotas) akcizų sumas
 
-tvarka,o laiku nesumokėtų importo akcizų ir delspinigių sumas išieško muitinės
+(įskaitant teritorinių muitinių teikimais pripažintas grąžintinomis importo
 
-įstaigos iš įmonių, įstaigų ir organizacijų - ne ginčo tvarka, iš fizinių
-
-asmenų - per teismą.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
-
-Nr.
-
-1-1307, 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
-
-8-2
-
-straipsnis. Nepagrįstai sumokėtų (išieškotų)
-
-akcizų grąžinimas
-
-Nepagrįstai
-
-sumokėtus (išieškotus) akcizus grąžina Lietuvos Respublikos Vyriausybės
-
-įgaliotos valstybės institucijos Lietuvos Respublikos mokesčių administravimo
-
-įstatymo nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
-
-Nr.
-
-1-1307, 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
-
-9
-
-straipsnis. Sankcijos už įstatymo pažeidimus
-
-Jei
-
-mokėtojas nepateikė akcizų apyskaitos arba pateiktose akcizų apyskaitose
-
-akcizai yra sumažinti, papildomai apskaičiuotas akcizas, baudos ir delspinigiai
-
-išieškomi Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta
-
-tvarka.
-
-Laiku
-
-nesumokėjus akcizų, imami delspinigiai Lietuvos Respublikos mokesčių
+akcizų sumas) grąžina teritorinės valstybinės mokesčių inspekcijos Mokesčių
 
 administravimo įstatymo nustatyta tvarka.
 
-Jeigu
+12 straipsnis. Sankcijos už įstatymų
 
-nesilaikoma nustatytos muitinės procedūrų atlikimo tvarkos ir laiku
+pažeidimus
 
-nepateikiama importo arba eksporto muitinės deklaracija, laikas, per kurį turi
+1. Jeigu nustatytu laiku nesumokami akcizai,
 
-būti sumokėti akcizai, skaičiuojamas nuo tos dienos, kai ši deklaracija turėjo
+imami delspinigiai, kurie skaičiuojami Mokesčių administravimo įstatymo
 
-būti pateikta.
+nustatyta tvarka. Jeigu mokėtojas nepateikė akcizų apyskaitos arba pateiktoje
 
-Straipsnio
+akcizų apyskaitoje akcizus sumažino, teritorinės valstybinės mokesčių
 
-pakeitimai:
+inspekcijos taiko baudas Mokesčių administravimo įstatymo nustatyta tvarka.
 
-Nr.
+2. Jeigu nesilaikoma Muitinės kodekso
 
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
+nustatytos muitinės sankcionuotų veiksmų atlikimo tvarkos ir dėl to atsiranda
 
-Nr.
+importo skola muitinei, delspinigiai pradedami skaičiuoti nuo importo skolos
 
-1-1307, 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
+muitinei atsiradimo dienos.
 
-10
+13 straipsnis. Baigiamosios nuostatos
 
-straipsnis. Baigiamosios nuostatos
+1. Vyriausybė nustato:
 
-Šis
+1) akcizų apskaičiavimo ir mokėjimo tvarką;
 
-įstatymas įsigalioja nuo 1994 m. gegužės 1 dienos.
+2) akcizais apmokestinamų prekių sąrašą pagal
 
-Lietuvos
+nustatytą prekių aprašymo ir kodavimo sistemą bei akcizų tarifus;
 
-Respublikos Vyriausybė nustato:
+3) automobilių priskyrimo prabangiems lengviesiems
 
-1)
+automobiliams tvarką.
 
-akcizų apskaičiavimo ir mokėjimo tvarką;
+2. Vadovaudamasi šio įstatymo 3 straipsniu,
 
-2)
+konkrečias akcizais apmokestinamas prekes ir tarifus iki 1999 m. sausio 1 d.
 
-akcizais apmokestinamų prekių sąrašą pagal nustatytą prekių aprašymo ir
+nustato Vyriausybė. Nuo 1999 metų konkrečias akcizais apmokestinamas prekes ir
 
-kodavimo sistemą bei akcizų tarifus;
-
-3)
-
-automobilių priskyrimo prabangiųjų automobilių kategorijai tvarką.
-
-Vadovaudamasi
-
-šio įstatymo 3 straipsniu, konkrečias akcizais apmokestinamas prekes ir tarifus
-
-iki 1998 m. sausio 1 d. nustato Lietuvos Respublikos Vyriausybė. Nuo 1998 metų
-
-konkrečias akcizais apmokestinamas prekes ir tarifus tvirtina Lietuvos
-
-Respublikos Seimas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-51, 96.12.23, Žin., 1996, Nr.126-2941 (96.12.31)
+tarifus tvirtina Seimas.
 
 Skelbiu
 
@@ -592,523 +472,5 @@ Skelbiu
 
 RESPUBLIKOS
 
-PREZIDENTAS      ALGIRDAS BRAZAUSKAS
-
-1 straipsnis.
-
-Įstatymo paskirtis
-
-Šis įstatymas
-
-reglamentuoja kai  kurių prekių apmokestinimą
-
-akcizais.
-
-2 straipsnis.
-
-Akcizų mokėtojai
-
-Akcizus  į
-
-biudžetą  moka  3  straipsnyje išvardytų prekių
-
-gamintojai  ir
-
-importuotojai - juridiniai ir fiziniai asmenys bei
-
-juridinio   asmens
-
-teisių   neturinčios   įmonės.   Laisvosiose
-
-ekonominėse zonose
-
-zonų įmonės akcizų nemoka.
-
-Už  naftos
-
-produktus,  pagamintus   akcinėje   bendrovėje
-
-"Mažeikių
-
-nafta",   nesvarbu,  iš  kieno  naftos  šie  produktai
-
-pagaminti, akcizus
-
-apskaičiuoja, surenka ir moka akcinė bendrovė
-
-"Mažeikių
-
-nafta".
-
-Pasikeitus
-
-akcizų   tarifams,  akcizų  skirtumą,  tenkantį
-
-prekių  likučiui,
-
-esančiam  mažmeninės  ir  didmeninės  prekybos
-
-įmonėse, sumoka
-
-šios  įmonės  Lietuvos  Respublikos  Vyriausybės
-
-nustatyta tvarka ir
-
-terminais.
-
-Straipsnio
-
-pakeitimai:
-
-{#95D]AA0905 ;} Nr.
-
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
-
-{#95JFAA1084 ;} Nr.
-
-1-1084, 95.11.07, Žin., 1995, Nr. 94-2087 (95.11.17)
-
-{#96B[AA1250 ;} Nr.
-
-1-1250, 96.03.28, Žin., 1996, Nr. 35-857 (96.04.19)
-
-3 straipsnis.
-
-Akcizų objektas
-
-Akcizų objektas
-
-yra šios prekės:
-
-1)
-
-nedenatūruotas  etilo alkoholis  ir alkoholiniai gėrimai,
-
-įskaitant alų;
-
-2) rūkomasis
-
-tabakas ir tabako gaminiai;
-
-3) kava,
-
-šokoladas, maisto produktai su kakava;
-
-4) bižuterija,
-
-aukso ir sidabro dirbiniai, išskyrus dirbtinę
-
-bižuteriją ir
-
-monetas;
-
-5)  variklių
-
-benzinas,   žibalas,   kuras   reaktyviniams
-
-varikliams, gazolis
-
-(dyzelinis kuras), skystasis krosnių kuras;
-
-6) prabangūs
-
-lengvieji automobiliai;
-
-7) elektros
-
-energija;
-
-8) erotinio ir
-
-smurtinio pobūdžio spaudiniai;
-
-9) visų rūšių
-
-tepalai.
-
-Straipsnio
-
-pakeitimai:
-
-{#95@WAA0767 ;} Nr.
-
-1-767, 95.01.24, Žin., 1995, Nr. 12-260 (95.02.08)
-
-Pastaba:
-
-Įstatymas įsigalioja nuo 1996 m. sausio 1 dienos.
-
-{#95D]AA0905 ;} Nr.
-
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
-
-4 straipsnis.
-
-Apmokestinamoji vertė
-
-Prekių
-
-apmokestinamoji vertė yra:
-
-1) Lietuvos
-
-Respublikoje pagamintų prekių - prekių pardavimo
-
-kaina be akcizo ir
-
-pridėtinės vertės mokesčio;
-
-2)
-
-importuojamų  prekių -  muitinė prekių  vertė,  įskaitant
-
-muitą.
-
-Straipsnio
-
-pakeitimai:
-
-{#95D]AA0905 ;} Nr.
-
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
-
-5 straipsnis.
-
-Apmokestinamoji apyvarta
-
-Akcizai
-
-apskaičiuojami   už  šio   įstatymo  3  straipsnyje
-
-išvardytas prekes:
-
-1)  iš
-
-gatavos  produkcijos   sandėlio   perduotas   kitam
-
-juridiniam ar
-
-fiziniam  asmeniui,  ar  juridinio  asmens  teisių
-
-neturinčiai
-
-įmonei,   kuriems,  remiantis     išrašytais  prekių
-
-perdavimo
-
-dokumentais,   perleidžiama  teisė  jomis  disponuoti.
-
-Šiuose dokumentuose
-
-turi būti  Lietuvos Respublikos buhalterinės
-
-apskaitos pagrindų
-
-įstatymo 10  straipsnyje  nurodyti  privalomi
-
-rekvizitai;
-
-2)
-
-importuojamas  - importo  muitams apskaičiuoti nustatyta
-
-tvarka.
-
-Akcizai yra
-
-prekių kainos elementas ir sąskaitose- faktūrose
-
-bei mokėjimo
-
-dokumentuose nenurodomi.
-
-Straipsnio
-
-pakeitimai:
-
-{#95D]AA0905 ;} Nr.
-
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
-
-6 straipsnis.
-
-Akcizų lengvatos
-
-Akcizais
-
-neapmokestinamos:
-
-1)
-
-importuojamos  prekės, kurios  Lietuvos Respublikos muitų
-
-tarifų įstatymo  V
-
-skyriuje  nustatyta  tvarka  atleidžiamos  nuo
-
-muito;
-
-2) neišpilstyti
-
-alkoholiniai gėrimai  ir jų  žaliava, jeigu
-
-juos  importuoja
-
-alkoholiniams  gėrimams   gaminti  valstybinės
-
-įmonės,  turinčios
-
-teisę gaminti šiuos gėrimus;
-
-3) eksportuotos
-
-prekės;
-
-4) per
-
-Lietuvos  Respublikos  muitų  teritoriją  gabenamos
-
-tranzitu prekės.
-
-Taip   pat
-
-akcizas   netaikomas,   kai   etilo   alkoholis
-
-parduodamas:
-
-1)  Lietuvos
-
-Respublikos   įmonėms   degtinei,   likeriui,
-
-trauktinėms, vynui,
-
-midui, actui gaminti;
-
-2)
-
-farmacijos   įmonėms  ir  medicinos  pagalbos  įstaigoms
-
-medicinos ir
-
-farmacijos reikmėms;  veterinarinių vaistų  gamybos
-
-įmonėms -
-
-veterinarinių vaistų  gamybai ir veterinarijos tiekimo
-
-įmonėms -
-
-veterinarijos reikmėms.
-
-Straipsnio
-
-pakeitimai:
-
-{#95D]AA0905 ;} Nr.
-
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
-
-7 straipsnis.
-
-Mokestinis laikotarpis
-
-Akcizų
-
-(išskyrus  importuojamų  prekių  akcizus)  mokestinis
-
-laikotarpis yra
-
-kalendorinis mėnuo, kuriam pasibaigus, mokėtojai
-
-iki kito  mėnesio
-
-15  dienos privalo  vietos valstybinei mokesčių
-
-inspekcijai pateikti
-
-akcizų apyskaitą.
-
-8 straipsnis.
-
-Sumokėjimo tvarka
-
-Už  savos
-
-gamybos  prekes  akcizai  turi  būti  sumokėti  į
-
-biudžetą iki kito
-
-mėnesio 30 dienos.
-
-Mokėtojai,
-
-kurių praėjusio pusmečio vidutinė mėnesinė akcizų
-
-suma buvo didesnė
-
-kaip 50 tūkst. litų, akcizus moka:
-
-iki mėnesio 30
-
-dienos - už mėnesio pirmąjį dešimtadienį;
-
-iki  kito
-
-mėnesio  10   dienos  -   už   mėnesio   antrąjį
-
-dešimtadienį;
-
-iki kito
-
-mėnesio 20 dienos - už likusią mėnesio dalį.
-
-Už
-
-importuojamas prekes akcizai sumokami į biudžetą Lietuvos
-
-Respublikos
-
-Vyriausybės  nustatyta  mokesčių  mokėjimo  muitinėje
-
-tvarka.
-
-Už Lietuvos
-
-Respublikoje pagamintus ir įvežamus alkoholinius
-
-gėrimus,  tabako
-
-gaminius   bei   naftos   produktus   Lietuvos
-
-Respublikos
-
-Vyriausybė    gali   nustatyti    kitokią    akcizo
-
-apskaičiavimo ir
-
-mokėjimo į biudžetą tvarką bei terminus.
-
-Straipsnio
-
-pakeitimai:
-
-{#95D]AA0905 ;} Nr.
-
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
-
-9 straipsnis.
-
-Sankcijos už įstatymo pažeidimus
-
-Jei  mokėtojas
-
-nepateikė  akcizų apyskaitos arba pateiktose
-
-akcizų
-
-apyskaitose    akcizai    yra   sumažinti,   papildomai
-
-apskaičiuotas
-
-akcizas, baudos ir delspinigiai išieškomi Lietuvos
-
-Respublikos mokesčių
-
-administravimo įstatymo nustatyta tvarka.
-
-Laiku
-
-nesumokėjus   akcizų,  imami  delspinigiai  Lietuvos
-
-Respublikos mokesčių
-
-administravimo įstatymo nustatyta tvarka.
-
-Jeigu
-
-nesilaikoma  nustatytos  muitinės  procedūrų atlikimo
-
-tvarkos  ir  laiku
-
-nepateikiama  importo  arba eksporto muitinės
-
-deklaracija,
-
-laikas,  per  kurį  turi  būti  sumokėti  akcizai,
-
-skaičiuojamas  nuo
-
-tos  dienos,  kai  ši deklaracija turėjo būti
-
-pateikta.
-
-Straipsnio
-
-pakeitimai:
-
-{#95D]AA0905 ;} Nr.
-
-1-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
-
-{#96C]AA1307 ;} Nr.
-
-1-1307, 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
-
-10 straipsnis.
-
-Baigiamosios nuostatos
-
-Šis įstatymas
-
-įsigalioja nuo 1994 m. gegužės 1 dienos.
-
-Lietuvos
-
-Respublikos Vyriausybė nustato:
-
-1) akcizų
-
-apskaičiavimo ir mokėjimo tvarką;
-
-2) akcizais
-
-apmokestinamų  prekių  sąrašą  pagal  nustatytą
-
-prekių aprašymo ir
-
-kodavimo sistemą bei akcizų tarifus;
-
-3)
-
-automobilių    priskyrimo    prabangiųjų    automobilių
-
-kategorijai tvarką.
-
-Vadovaudamasi
-
-šio įstatymo 3 straipsniu, konkrečias akcizais
-
-apmokestinamas
-
-prekes  ir tarifus iki 1997 m. sausio 1 d. nustato
-
-Lietuvos
-
-Respublikos   Vyriausybė.  Nuo   1997  metų  konkrečias
-
-akcizais
-
-apmokestinamas  prekes  ir  tarifus  tvirtina  Lietuvos
-
-Respublikos Seimas.
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
-
-_
+PREZIDENTAS                        ALGIRDAS BRAZAUSKAS
 
