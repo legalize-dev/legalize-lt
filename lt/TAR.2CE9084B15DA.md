@@ -4,7 +4,7 @@ identifier: "TAR.2CE9084B15DA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "2000-07-11"
+last_updated: "2001-03-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -287,9 +287,9 @@ straipsnis.Įstatymo galiojimas
 
 įstatymo nuostatos taikomos darbo santykiams, atsiradusiems šio įstatymo 1
 
-straipsnyje numatytais pagrindais, įmonėse, esančiose Lietuvos Respublikos teritorijoje,
+straipsnyje numatytais pagrindais, įmonėse, esančiose Lietuvos Respublikos
 
-taip pat už jos ribų, bet priklausančiose Lietuvos Respublikos jurisdikcijai.
+teritorijoje, taip pat už jos ribų, bet priklausančiose Lietuvos Respublikos jurisdikcijai.
 
 Darbo
 
@@ -297,9 +297,9 @@ santykius užsienio kapitalo įmonėse, įmonėse, kuriose įstatinio kapitalo d
 
 priklauso užsienio investitoriui (bendrose įmonėse), reguliuoja šis įstatymas,
 
-įmonių steigimo dokumentai, išskyrus atvejus, kai šių įmonių darbuotojų
+įmonių steigimo dokumentai, išskyrus atvejus, kai šių įmonių darbuotojų atžvilgiu
 
-atžvilgiu tarptautinės sutartys nustato kitokias taisykles.
+tarptautinės sutartys nustato kitokias taisykles.
 
 II skyrius. Darbo sutarties turinys ir jos sudarymas
 
@@ -351,11 +351,21 @@ darbo sutartį (susitarimas dėl sutarties termino, sezoninio darbo pobūdžio i
 
 kt.).
 
-Šalių
+Šalių susitarimu gali būti
 
-susitarimu gali būti sulygstama ir dėl kitų darbo sutarties sąlygų, jeigu darbo
+sulygstama ir dėl kitų darbo sutarties sąlygų, jeigu darbo įstatymai nedraudžia
 
-įstatymai nedraudžia jas nustatyti (išbandymas, nevisas darbo laikas ir kt.).
+jas nustatyti (išbandymas, ne visas darbo laikas, darbdavio lėšų darbuotojui
+
+apmokyti ir jo kvalifikacijai kelti panaudojimas, taip pat šių lėšų atlyginimo
+
+tvarka bei sąlygos ir kt.).
+
+Straipsnio pakeitimai:
+
+Nr. IX-222, 2001 03 22, Žin., 2001, Nr.
+
+28-897 (2001 03 30)
 
 9
 
@@ -385,19 +395,29 @@ sutartis sudaroma tų renkamųjų organų įgaliojimų (kadencijos) laikui.
 
 straipsnis.Darbo sutarties termino nustatymas
 
-Darbo
+Darbo sutarties terminas
 
-sutarties terminas gali būti nustatomas iki tam tikros kalendorinės datos arba
+gali būti nustatomas iki tam tikros kalendorinės datos arba iki tam tikrų
 
-iki tam tikrų aplinkybių atsiradimo, pasikeitimo arba pasibaigimo, išskyrus
+aplinkybių atsiradimo, pasikeitimo arba pasibaigimo (apibrėžiamas tam tikro
 
-atvejį, nurodytą 9 straipsnio trečiojoje dalyje.
+darbo užbaigimu, nustatytos užduoties įvykdymu, laikinai nesančio darbuotojo
+
+atvykimu į darbą ir kt.), išskyrus atvejį, nurodytą 9 straipsnio trečiojoje
+
+dalyje.
 
 Jeigu
 
 darbo sutartyje jos terminas nenurodytas arba netinkamai nustatytas, laikoma,
 
 jog sudaryta neterminuota darbo sutartis.
+
+Straipsnio pakeitimai:
+
+Nr. IX-222, 2001 03 22, Žin., 2001, Nr.
+
+28-897 (2001 03 30)
 
 11
 
@@ -467,9 +487,9 @@ straipsnis.Išbandymo terminas
 
 Išbandymo
 
-terminas negali būti ilgesnis kaip trys mėnesiai. Įstatymuose numatytais atvejais
+terminas negali būti ilgesnis kaip trys mėnesiai. Įstatymuose numatytais
 
-gali būti taikomi ilgesni išbandymo terminai.
+atvejais gali būti taikomi ilgesni išbandymo terminai.
 
 Į
 
@@ -525,9 +545,9 @@ patvirtinančius dokumentus, o priimdamas į darbą nepilnametį nuo 14 iki 16 m
 
 - jo gimimo liudijimą, mokyklos, kurioje jis mokosi, ir vieno iš tėvų ar kito
 
-jį faktiškai auginančio asmens raštišką sutikimą. Karo prievolininkai privalo
+jį faktiškai auginančio asmens raštišką sutikimą. Karo prievolininkai privalo pateikti
 
-pateikti dokumentus, kad jie yra įsirašę į karinę įskaitą vietinėse teritorinėse
+dokumentus, kad jie yra įsirašę į karinę įskaitą vietinėse teritorinėse
 
 karinėse įstaigose pagal jų gyvenamąją vietą. Darbdavys turi teisę pareikalauti
 
@@ -571,7 +591,7 @@ sutartis laikoma sudaryta, kai šalys susitarė dėl būtinųjų sąlygų, nurod
 
 ***Darbo sutartis turi būti sudaroma raštu pagal
 
-tipinę šios sutarties formą (pridedama). Darbdavys ar jo įgaliotas asmuo
+pavyzdinę šios sutarties formą (pridedama). Darbdavys ar jo įgaliotas asmuo
 
 darbuotojui leidžia pradėti dirbti tik tada, kai darbo sutartis yra įforminta,
 
@@ -579,39 +599,39 @@ t. y. sudaryta dviem egzemplioriais ir pasirašyta darbdavio bei darbuotojo.
 
 Vienas pasirašytas darbo sutarties egzempliorius įteikiamas darbuotojui, kitas
 
-lieka darbdaviui. Darbo sutartis tą pačią dieną įregistruojama darbo
+lieka darbdaviui. Darbo sutartis tą pačią dieną įregistruojama darbo sutarčių
 
-sutarčių registravimo žurnale, kurio formą ir darbo sutarčių
+registravimo žurnale, kurio formą ir darbo sutarčių registravimo taisykles
 
-registravimo taisykles Socialinės apsaugos ir darbo ministerijos teikimu
+Socialinės apsaugos ir darbo ministerijos teikimu tvirtina Lietuvos Respublikos
 
-tvirtina Lietuvos Respublikos Vyriausybė. Darbo sutarčių registravimas žurnale
+Vyriausybė. Darbo sutarčių registravimas žurnale neprivalomas, kai darbdavys
 
-neprivalomas, kai darbdavys yra fizinis asmuo, samdantis 3 ir mažiau
+yra fizinis asmuo, samdantis 3 ir mažiau darbuotojų. Darbuotojas privalo
 
-darbuotojų. Darbuotojas privalo pradėti dirbti kitą dieną po sutarties
+pradėti dirbti kitą dieną po sutarties sudarymo, jeigu vėlesnė darbo pradžia
 
-sudarymo, jeigu vėlesnė darbo pradžia nenustatyta šalių susitarimu. Ne vėliau
+nenustatyta šalių susitarimu. Ne vėliau kaip prieš darbo pradžią kartu su
 
-kaip prieš darbo pradžią kartu su antruoju darbo
+antruoju darbo sutarties egzemplioriumi darbdavys įteikia darbuotojui jį
 
-sutarties egzemplioriumi darbdavys įteikia darbuotojui jį identifikuojantį
+identifikuojantį dokumentą (darbo pažymėjimą su darbuotojo nuotrauka, vardu,
 
-dokumentą (darbo pažymėjimą su darbuotojo nuotrauka, vardu, pavarde bei asmens
+pavarde bei asmens kodu), kurį darbuotojas privalo nešiotis ar laikyti darbo
 
-kodu), kurį darbuotojas privalo nešiotis ar laikyti darbo metu darbdavio arba
+metu darbdavio ar jo įgalioto asmens (ar įmonės vidaus tvarkos taisyklėse)
 
-jo įgalioto asmens (ar įmonės vidaus tvarkos taisyklėse) nurodytoje vietoje. Už
+nurodytoje vietoje. Už darbo sutarties sudarymą, jos registravimą, darbuotoją
 
-darbo sutarties sudarymą, jos registravimą, darbuotoją identifikuojančio
+identifikuojančio dokumento išdavimą, jo laikymo tvarkos nustatymą bei
 
-dokumento išdavimą, jo laikymo tvarkos nustatymą bei pateikimo
+pateikimo kontroliuojančioms organizacijoms užtikrinimą yra atsakingas
 
-kontroliuojančioms organizacijoms užtikrinimą yra atsakingas darbdavys arba
+darbdavys arba jo įgaliotas asmuo. Jeigu darbdavys ar jo įgaliotas asmuo
 
-jo įgaliotas asmuo. Jeigu darbdavys arba jo įgaliotas asmuo pažeidžia šio
+pažeidžia šio straipsnio reikalavimus, jis traukiamas atsakomybėn įstatymų
 
-straipsnio reikalavimus, jis traukiamas atsakomybėn įstatymų nustatyta tvarka.
+nustatyta tvarka.
 
 Sudarydamas
 
@@ -639,19 +659,23 @@ Nr. VIII-1823,
 
 00.07.11, Žin., 2000, Nr.61-1828 (00.07.26)
 
+Nr. IX-222, 2001 03 22, Žin., 2001, Nr.
+
+28-897 (2001 03 30)
+
 17(1)
 
 straipsnis. Nelegalus darbas
 
 Nelegaliu laikomas dirbtas ar dirbamas darbas, kai,
 
-esant šio įstatymo 3 straipsnyje numatytiems darbo sutarties požymiams,
+esant šio įstatymo 3 straipsnyje numatytiems darbo sutarties požymiams, įstatymo
 
-įstatymo nustatyta tvarka darbo sutartis neįforminta, taip pat darbas,
+nustatyta tvarka darbo sutartis neįforminta, taip pat darbas, dirbamas
 
-dirbamas užsienio valstybių piliečių ir asmenų be pilietybės nesilaikant jiems
+užsienio valstybių piliečių ir asmenų be pilietybės nesilaikant jiems teisės
 
-teisės aktų nustatytos įsidarbinimo tvarkos.
+aktų nustatytos įsidarbinimo tvarkos.
 
 Nelegaliu darbu nelaikomi:
 
@@ -697,7 +721,9 @@ departamentas prie Vidaus reikalų ministerijos ir Policijos departamentas prie
 
 Vidaus reikalų ministerijos kontroliuoja, ar nedirbamas nelegalus darbas.
 
-Įstatymas papildytas straipsniu:
+Įstatymas papildytas
+
+straipsniu:
 
 Nr. VIII-363, 97.07.01, Žin., 1997,
 
@@ -717,17 +743,17 @@ Draudžiama
 
 eiti tarnautojų pareigas vienoje valstybės ir savivaldybės institucijoje bei
 
-valstybės (vietos savivaldybės) įmonėje asmenims, kuriuos sieja artimi
+valstybės (vietos savivaldybės) įmonėje asmenims, kuriuos sieja artimi giminystės
 
-giminystės ar svainystės ryšiai (tėvai, įtėviai, sutuoktiniai, broliai,
+ar svainystės ryšiai (tėvai, įtėviai, sutuoktiniai, broliai, seserys, vaikai,
 
-seserys, vaikai, įvaikiai, taip pat sutuoktinių broliai, seserys, tėvai ir
+įvaikiai, taip pat sutuoktinių broliai, seserys, tėvai ir vaikai), jeigu jų
 
-vaikai), jeigu jų tarnyba kartu yra susijusi su vieno iš jų tiesioginiu
+tarnyba kartu yra susijusi su vieno iš jų tiesioginiu pavaldumu kitam arba su
 
-pavaldumu kitam arba su vieno teise kontroliuoti kitą. Šios taisyklės išimtis
+vieno teise kontroliuoti kitą. Šios taisyklės išimtis gali nustatyti Lietuvos
 
-gali nustatyti Lietuvos Respublikos Vyriausybė.
+Respublikos Vyriausybė.
 
 Straipsnio pakeitimai:
 
@@ -931,9 +957,9 @@ Nr.I-215, 93.07.14, Žin., 1993, Nr.
 
 30-684 (93.07.21)
 
-Nr. I-900, 95.05.23, Žin., 1995, Nr. 46-1119
+Nr. I-900, 95.05.23, Žin., 1995, Nr.
 
-(95.06.02)
+46-1119 (95.06.02)
 
 Nr. I-1285, 96.04.17, Žin., 1996, Nr.
 
@@ -951,9 +977,7 @@ Nr. VIII-429, 97.09.25, Žin., 1997,
 
 Nr.91-2273 (97.10.07)
 
-Nr. VIII-1316,
-
-99.07.08, Žin., 1999, Nr.66-2130 (99.07.30)
+Nr. VIII-1316, 99.07.08, Žin., 1999, Nr.66-2130 (99.07.30)
 
 27
 
@@ -1175,13 +1199,13 @@ kai darbuotojai, turintys įgalinimus duoti privalomus vykdyti patvarkymus
 
 Darbdavys
 
-gali nutraukti darbo sutartį su darbuotojais, kurių darbas susijęs su
+gali nutraukti darbo sutartį su darbuotojais, kurių darbas susijęs su materialinių
 
-materialinių vertybių apskaita ar saugojimu, priėmimu, išdavimu ar
+vertybių apskaita ar saugojimu, priėmimu, išdavimu ar transportavimu, kai šie
 
-transportavimu, kai šie darbuotojai dėl savo kaltų veiksmų darbe netenka
+darbuotojai dėl savo kaltų veiksmų darbe netenka pasitikėjimo dirbti jiems
 
-pasitikėjimo dirbti jiems pavestą darbą.
+pavestą darbą.
 
 Valstybės
 
@@ -1247,43 +1271,53 @@ Nr. VIII-1316,
 
 straipsnis.Darbo sutarties nutraukimas darbdavio valia
 
-Darbdavys,
+Darbdavys ar jo įgaliotas asmuo, išskyrus valstybės
 
-išskyrus valstybinę (vietos savivaldybės) įmonę, įstaigą, organizaciją, turi
+(savivaldybės) įmones bei valstybės ir savivaldybių institucijas ir įstaigas,
 
-teisę nutraukti darbo sutartį ne šio įstatymo 26 ir 29 straipsniuose numatytais
+turi teisę nutraukti darbo sutartį ne šio įstatymo 26 ir 29 straipsniuose
 
-pagrindais, o remdamasis kitomis svarbiomis aplinkybėmis, sumokėdamas
+numatytais pagrindais, o remdamasis kitomis svarbiomis aplinkybėmis,
 
-atleidžiamajam darbuotojui kompensaciją, kai darbuotojo darbo stažas šioje
+sumokėdamas atleidžiamam darbuotojui kompensaciją, kai darbuotojo darbo stažas
 
-įmonėje:
+šioje įmonėje:
 
-1)
+1) iki 5 metų – 4 vidutinių mėnesinių darbo užmokesčių
 
-iki 1 metų - 6 vidutinių mėnesinių darbo užmokesčių dydžio;
+dydžio;
 
-2)
+2) nuo 5 iki 10 metų – 6 vidutinių mėnesinių
 
-nuo 1 iki 5 metų - 12 vidutinių mėnesinių darbo užmokesčių dydžio;
+darbo užmokesčių dydžio;
 
-3)
+3) nuo 10 iki 20 metų – 8 vidutinių mėnesinių darbo
 
-nuo 5 iki 10 metų - 18 vidutinių mėnesinių darbo užmokesčių dydžio;
+užmokesčių dydžio;
 
-4)
+4) per 20 metų – 12 vidutinių mėnesinių darbo
 
-nuo 10 iki 20 metų - 24 vidutinių mėnesinių darbo užmokesčių dydžio;
+užmokesčių dydžio.
 
-5)
+Kolektyvinėse ar darbo sutartyse gali būti nustatomos
 
-per 20 metų - 36 vidutinių mėnesinių darbo užmokesčių dydžio.
+palankesnės negu šio straipsnio
 
-Minėtais
+1 dalyje darbuotojams nustatytos sąlygos.
 
-atvejais netaikomos šio įstatymo 29 straipsnio ketvirtosios dalies, 34 ir 40
+Draudžiama nutraukti darbo sutartį darbdavio valia dėl
 
-straipsnių nuostatos.
+darbuotojo politinių įsitikinimų, religijos, pilietybės, tautybės, rasės,
+
+lyties, dalyvavimo politinėje ar visuomeninėje veikloje, jeigu tokios veiklos
+
+nedraudžia kiti įstatymai.
+
+Šio straipsnio pirmojoje dalyje minėtais atvejais
+
+netaikomos šio įstatymo 29 straipsnio ketvirtosios dalies, 34 ir 40 straipsnių
+
+nuostatos.
 
 Straipsnio pakeitimai:
 
@@ -1291,9 +1325,13 @@ Nr.I-215, 93.07.14, Žin., 1993, Nr.
 
 30-684 (93.07.21)
 
-Nr. I-1285, 96.04.17, Žin., 1996, Nr. 41-983
+Nr. I-1285, 96.04.17, Žin., 1996, Nr.
 
-(96.05.08)
+41-983 (96.05.08)
+
+Nr. IX-222, 2001 03 22, Žin., 2001, Nr.
+
+28-897 (2001 03 30)
 
 31
 
@@ -1356,182 +1394,6 @@ Straipsnio pakeitimai:
 Nr. I-1285, 96.04.17, Žin., 1996, Nr.
 
 41-983 (96.05.08)
-
-33
-
-straipsnis.Profesinės sąjungos organo sutikimas atleidžiant darbuotojus
-
-Darbdavys
-
-negali atleisti iš darbo savo iniciatyva (išskyrus pagal šio įstatymo 29
-
-straipsnio 1 ir 8 punktus) ir valia darbuotojo - įmonėje veikiančios profesinės
-
-sąjungos nario, negavęs tos profesinės sąjungos įmonėje renkamojo organo
-
-išankstinio sutikimo.
-
-Darbuotojai,
-
-išrinkti į renkamuosius profesinės sąjungos organus ir nenutraukę su darbdaviu
-
-sudarytos darbo sutarties, negali būti atleisti iš darbo darbdavio iniciatyva
-
-(išskyrus pagal šio įstatymo 29 straipsnio 1 ir 8 punktus) ir valia ar perkelti
-
-į kitą darbą (išskyrus šio įstatymo 24 straipsnio pirmąją dalį) be išankstinio
-
-to profesinės sąjungos renkamojo organo sutikimo.
-
-Darbdavio
-
-pareiškimą duoti sutikimą atleisti darbuotoją profesinės sąjungos organas
-
-privalo išnagrinėti ne vėliau kaip per keturiolika kalendorinių dienų nuo jo
-
-gavimo dienos.
-
-Darbdavys
-
-turi teisę ginčyti profesinės sąjungos organo atsisakymą duoti sutikimą
-
-atleisti darbuotoją teismine tvarka. Teismas panaikina profesinės sąjungos
-
-organo sprendimą, jei darbdavys įrodo, kad šis sprendimas iš esmės pažeidžia jo
-
-interesus.
-
-Įstatymų
-
-numatytais atvejais darbuotojai negali būti atleisti iš darbo darbdavio
-
-iniciatyva (išskyrus pagal šio įstatymo 29 straipsnio 1 punktą), negavus ir
-
-kitų organų sutikimo.
-
-Darbuotojas,
-
-atleistas iš darbo pažeidus šiame straipsnyje nustatytus reikalavimus, taip pat
-
-atleistas praėjus daugiau kaip vienam mėnesiui nuo sutikimo gavimo, teismo
-
-sprendimu turi būti grąžintas į pirmesnįjį darbą.
-
-Straipsnio pakeitimai:
-
-Nr.I-215, 93.07.14, Žin., 1993, Nr.
-
-30-684 (93.07.21)
-
-Nr.I-475, 94.05.24, Žin., 1994, Nr.
-
-42-759 (94.06.03)
-
-34
-
-straipsnis.Reikalavimai nutraukiant darbo sutartį, kai nėra darbuotojo kaltės
-
-Darbdavys
-
-savo iniciatyva, jei nėra darbuotojo kaltės, gali nutraukti darbo sutartį
-
-įstatymų nustatyta tvarka tik prieš du mėnesius įspėjęs darbuotoją raštu.
-
-Darbuotojui, kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip
-
-penkeri metai, nepilnamečiui iki 18 metų, invalidui, moteriai, turinčiai vaikų
-
-iki 14 metų, ir vyrui, vienam auginančiam vaikus iki tokio pat amžiaus, apie
-
-numatomą atleidimą iš darbo turi būti pranešta raštu prieš keturis mėnesius.
-
-Darbo
-
-arba kolektyvinėje sutartyje gali būti nustatomi ilgesni įspėjimo terminai.
-
-Įspėjimas
-
-netenka galios, jei po jo termino pasibaigimo praeina daugiau kaip vienas
-
-mėnuo, neįskaitant darbuotojo laikinojo nedarbingumo ir atostogų laiko.
-
-Tais
-
-atvejais, kai iki terminuotos darbo sutarties pabaigos liko mažiau laiko negu
-
-šiame straipsnyje numatyti įspėjimo terminai, darbdavys negali atleisti
-
-darbuotojo iš darbo savo iniciatyva, jei nėra darbuotojo kaltės.
-
-Jeigu
-
-darbuotojas atleidžiamas iš darbo, nepasibaigus įspėjimo terminui, jo atleidimo
-
-iš darbo data perkeliama iki to laiko, kada turėjo pasibaigti įspėjimo
-
-terminas.
-
-Šiame
-
-straipsnyje nurodyti įspėjimo terminai netaikomi, kai darbuotojas atleidžiamas
-
-iš darbo pagal šio įstatymo 30 straipsnį.
-
-Atleisti
-
-darbuotoją iš darbo darbdavio iniciatyva, kai nėra darbuotojo kaltės, taip pat
-
-šio įstatymo 26 straipsnio 9, 10 ir 11 punktuose nurodytais pagrindais ir kai
-
-darbuotojas atsisako persikelti į kitą vietovę, perkeliant tik įmonės padalinį,
-
-kuriame jis dirba (26 straipsnio 8 punktas), bei kai darbuotojas neišrenkamas
-
-naujam terminui į ankstesnes pareigas arba atšaukiamas iš jų nesant jo kaltės
-
-(26 straipsnio 12 punktas), leidžiama, jei negalima darbuotojo perkelti jo sutikimu
-
-į kitą darbą.
-
-Straipsnio pakeitimai:
-
-Nr.I-215, 93.07.14, Žin., 1993, Nr.
-
-30-684 (93.07.21)
-
-35
-
-straipsnis.Apribojimai nutraukiant darbo sutartį su nėščia moterimi ir motina,
-
-auginančia vaiką iki 3 metų
-
-Darbo
-
-sutartis darbdavio iniciatyva ir darbdavio valia negali būti nutraukta su
-
-nėščia moterimi.
-
-Darbo
-
-sutartis darbdavio valia negali būti nutraukta su motina, auginančia vaiką iki
-
-3 metų (jei nėra motinos - su tėvu arba globėju, auginančiu vaiką iki to pat
-
-amžiaus), taip pat negali būti nutraukta darbdavio iniciatyva, kai nėra
-
-darbuotojo kaltės.
-
-Garantijos,
-
-išvardintos šio straipsnio pirmojoje ir antrojoje dalyse, netaikomos, kai darbo
-
-sutartis nutraukiama pagal šio įstatymo 29 straipsnio 1 punktą.
-
-Straipsnio pakeitimai:
-
-Nr.I-2076, 91.12.10, Žin., 1991, Nr.
-
-36-979
 
 32 straipsnis. Apribojimai nutraukti darbo sutartį
 
@@ -1779,9 +1641,9 @@ Darbuotojui
 
 nesutikus dirbti pakeistomis darbo sąlygomis, jis, laikantis įstatymų
 
-nustatytos tvarkos, gali būti atleistas iš darbo pagal šio įstatymo 26
+nustatytos tvarkos, gali būti atleistas iš darbo pagal šio įstatymo 26 straipsnio
 
-straipsnio 9 punktą.
+9 punktą.
 
 Tais
 
@@ -1837,85 +1699,101 @@ darbo užmokestis.
 
 straipsnis. Prastova, jos įforminimas ir darbuotojo teisinė padėtis
 
-Prastova
+Prastova ne dėl darbuotojo kaltės yra tokia padėtis
 
-ne dėl darbuotojo kaltės yra padėtis įmonėje, kai darbdavys neduoda darbuotojui
+darbovietėje, kai darbdavys neduoda darbuotojui darbo sutartyje sulygto darbo
 
-darbo sutartyje sulygto darbo dėl tam tikrų objektyvių priežasčių (gamybinių ir
+dėl tam tikrų objektyvių priežasčių (gamybinių, gamtinių ir kitų,
 
-kt.).
+nenurodytų šio įstatymo 24 straipsnyje), už kiekvieną prastovos valandą
 
-Prastova,
+mokėdamas ne mažesnį kaip Lietuvos Respublikos Vyriausybės nustatytą minimalų
 
-trunkanti ne ilgiau kaip darbo dieną, žymima darbo laiko apskaitos
+valandinį atlygį, išskyrus atvejus, nurodytus šiame straipsnyje.
 
-žiniaraštyje, o viršijanti darbo dienos trukmę - įforminama dar ir darbdavio
+Prastova, trunkanti ne ilgiau kaip darbo diena, žymima
 
-įsakymu (potvarkiu), su kuriuo supažindinami dėl prastovos nedirbantys
+darbo laiko apskaitos žiniaraštyje, o viršijanti darbo dienos trukmę –
 
-darbuotojai.
+įforminama dar ir darbdavio įsakymu (potvarkiu). Su šiuo įsakymu supažindinami
 
-Prastovos
+dėl prastovos nedirbantys darbuotojai.
 
-laikui darbuotojai, atsižvelgiant į jų profesiją, specialybę, kvalifikaciją ir
+Prastovos laikui darbuotojai, atsižvelgiant į jų profesiją,
 
-sveikatos būklę, jų raštišku sutikimu perkeliami į kitą darbą toje įmonėje.
+specialybę, kvalifikaciją ir sveikatos būklę, jų raštišku sutikimu perkeliami į
 
-Jeigu darbuotojas sutinka, jis gali būti perkeliamas į kitą darbą
+kitą darbą toje įmonėje. Jeigu darbuotojas sutinka, jis gali būti perkeliamas į
 
-neatsižvelgiant į profesiją, specialybę, kvalifikaciją.
+kitą jo sveikatai nekenkiantį darbą neatsižvelgiant į profesiją, specialybę,
 
-Jei
+kvalifikaciją.
 
-dėl prastovos perkeltojo darbuotojo darbo užmokestis sumažėja ne dėl nuo jo
+Jei dėl prastovos perkelto darbuotojo darbo užmokestis
 
-priklausančių aplinkybių, jam mokamas iki perkėlimo buvęs vidutinis darbo
+sumažėja dėl nuo jo nepriklausančių aplinkybių, jam mokamas iki perkėlimo buvęs
 
-užmokestis.
+vidutinis darbo užmokestis.
 
-Jeigu
+Jeigu darbuotojui prastovos atveju nepasiūloma įmonėje
 
-darbuotojui prastovos atveju nepasiūloma įmonėje esančio kito darbo, kurį jis
+esančio kito darbo pagal jo profesiją, specialybę, kvalifikaciją arba
 
-galėtų dirbti nepakenkdamas savo profesijai, specialybei, kvalifikacijai,
+specialaus profesinio pasirengimo nereikalaujančio darbo, kurį jis galėtų
 
-sveikatos būklei, jam už kiekvieną prastovos valandą mokamas jo dviejų
+dirbti nepakenkdamas savo sveikatai, jam už kiekvieną prastovos valandą mokamas
 
-trečdalių vidutinio valandinio darbo užmokesčio dydžio, buvusio iki prastovos,
+jo dviejų trečdalių vidutinio valandinio darbo užmokesčio dydžio, buvusio iki
 
-atlygis, bet ne mažesnis nei valstybės patvirtintas minimalus valandinis
+prastovos, atlygis, bet ne mažesnis nei Lietuvos Respublikos Vyriausybės
 
-atlygis už kiekvieną prastovos valandą.
+patvirtintas minimalus valandinis atlygis už kiekvieną prastovos valandą.
 
-Jeigu
+Jeigu darbuotojas raštiškai atsisako pasiūlyto darbo
 
-darbuotojas atsisako pasiūlyto darbo, kurį jis galėtų dirbti nepakenkdamas savo
+pagal savo profesiją, specialybę, kvalifikaciją arba specialaus profesinio
 
-profesijai, specialybei, kvalifikacijai ir sveikatos būklei, jam mokamas ne
+pasirengimo nereikalaujančio darbo, kurį jis galėtų dirbti nepakenkdamas savo
 
-mažesnis nei valstybės nustatytas minimalus valandinis atlygis už kiekvieną
+sveikatai, jam mokama ne mažiau nei 0,3 Lietuvos Respublikos Vyriausybės
 
-prastovos valandą.
+nustatyto minimalaus valandinio atlygio už kiekvieną prastovos
 
-Darbdavys
+valandą.
 
-neturi teisės reikalauti, kad darbuotojas, nedirbantis dėl prastovos, būtų
+Darbdavys neturi teisės reikalauti, kad darbuotojas,
 
-darbovietėje ilgiau kaip vieną valandą per darbo dieną (pamainą). Už buvimą
+nedirbantis dėl prastovos, būtų darbovietėje ilgiau kaip vieną valandą per
 
-įmonėje šioje nuostatoje nurodytą laiką mokamas šio straipsnio penktojoje
+darbo dieną (pamainą). Už buvimą įmonėje šioje nuostatoje nurodytą laiką
 
-dalyje nustatyto dydžio darbo užmokestis. Kolektyvinėje, darbo sutartyje arba
+mokamas šio straipsnio penktojoje dalyje nustatyto dydžio darbo užmokestis.
 
-šalių susitarimu gali būti numatyti visiško neatvykimo į darbą prastovos metu
+Kolektyvinėje, darbo sutartyje arba šalių susitarimu gali būti numatyti visiško
 
-atvejai.
+neatvykimo į darbą prastovos metu atvejai.
+
+Esant prastovai dėl gamybinių, gamtinių ir kitų šio
+
+įstatymo 24 straipsnyje nenurodytų sąlygų, kai teisės aktų nustatyta tvarka
+
+neįmanoma saugiai atlikti darbų, kolektyvinėje ar darbo sutartyje gali būti
+
+nustatytos kitos darbuotojų laikino perkėlimo į kitą darbą bei apmokėjimo
+
+sąlygos. Nesant kito darbo, kurį darbuotojai gali saugiai dirbti, įforminama
+
+prastova ir taikomos šio straipsnio nustatytos garantijos.
 
 Straipsnio pakeitimai:
 
 Nr. I-1285, 96.04.17, Žin., 1996, Nr.
 
 41-983 (96.05.08)
+
+Nr. IX-222, 2001 03 22, Žin., 2001, Nr.
+
+28-897 (2001 03 30)
 
 25
 
@@ -2861,117 +2739,169 @@ tik esant raštiškam darbuotojo sutikimui, išskyrus šio
 
 24 straipsnyje numatytus atvejus.
 
-33 straipsnis.Profesinės sąjungos organo sutikimas
+33 straipsnis. Profesinės sąjungos organo sutikimas
 
 atleidžiant darbuotojus
 
-Darbdavys   negali   atleisti   iš   darbo  savo  iniciatyva
+Darbdavys negali atleisti iš darbo pagal šio įstatymo
 
-(išskyrus
+29 straipsnio pirmosios dalies 2 punktą ir savo valia darbuotojo – įmonėje
 
-pagal  šio  įstatymo  29 straipsnio 1 ir 8 punktus) ir
+veikiančios profesinės sąjungos renkamojo organo nario, negavęs tos
 
-valia
+profesinės sąjungos įmonėje renkamojo organo išankstinio sutikimo.
 
-darbuotojo  -  įmonėje  veikiančios  profesinės  sąjungos
+Darbdavio pareiškimą duoti sutikimą atleisti
 
-nario,
+darbuotoją profesinės sąjungos organas privalo išnagrinėti ne vėliau kaip per
 
-negavęs  tos profesinės sąjungos įmonėje renkamojo organo
+14 kalendorinių dienų nuo jo gavimo dienos.
 
-išankstinio
+Darbdavys turi teisę ginčyti profesinės sąjungos
 
-sutikimo.
+organo atsisakymą duoti sutikimą atleisti darbuotoją teismo tvarka. Teismas
 
-Darbuotojai,  išrinkti  į  renkamuosius  profesinės sąjungos
+panaikina profesinės sąjungos organo sprendimą, jei darbdavys įrodo, kad šis
 
-organus
+sprendimas iš esmės pažeidžia jo interesus.
 
-ir  nenutraukę  su  darbdaviu sudarytos darbo sutarties,
+Įstatymų numatytais atvejais darbuotojai negali būti
 
-negali
+atleisti iš darbo darbdavio iniciatyva (išskyrus pagal šio įstatymo 29
 
-būti  atleisti  iš  darbo  darbdavio iniciatyva (išskyrus
+straipsnio 1 punktą), negavus ir kitų organų sutikimo.
 
-pagal
+Darbuotojas, atleistas iš darbo pažeidus šiame
 
-šio  įstatymo  29  straipsnio  1 ir 8 punktus) ir valia ar
+straipsnyje nustatytus reikalavimus, taip pat atleistas praėjus daugiau kaip
 
-perkelti
+vienam mėnesiui nuo sutikimo gavimo, teismo sprendimu turi būti grąžintas į
 
-į  kitą  darbą  (išskyrus  šio  įstatymo  24 straipsnio
+pirmesnįjį darbą.
 
-pirmąją
+Straipsnio pakeitimai:
 
-dalį)  be  išankstinio  to profesinės sąjungos renkamojo
+Nr.I-215, 93.07.14, Žin., 1993, Nr.
 
-organo
+30-684 (93.07.21)
 
-sutikimo.
+Nr.I-475, 94.05.24, Žin., 1994, Nr.
 
-Darbdavio  pareiškimą  duoti  sutikimą  atleisti  darbuotoją
+42-759 (94.06.03)
 
-profesinės
+Nr. IX-222, 2001 03 22, Žin., 2001, Nr.
 
-sąjungos  organas  privalo išnagrinėti ne vėliau kaip
+28-897 (2001 03 30)
 
-per
+34
 
-keturiolika kalendorinių dienų nuo jo gavimo dienos.
+straipsnis.Reikalavimai nutraukiant darbo sutartį, kai nėra darbuotojo kaltės
 
-Darbdavys  turi  teisę  ginčyti  profesinės  sąjungos organo
+Darbdavys savo iniciatyva,
 
-atsisakymą
+jei nėra darbuotojo kaltės, gali nutraukti darbo sutartį įstatymų nustatyta
 
-duoti  sutikimą  atleisti darbuotoją teismine tvarka.
+tvarka tik prieš 2 mėnesius įspėjęs darbuotoją raštu. Darbuotojui, kuriam iki
 
-Teismas
+teisės gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, nepilnamečiui
 
-panaikina  profesinės  sąjungos  organo  sprendimą,  jei
+iki 18 metų, invalidui, moteriai ir (ar) vyrui, auginantiems vaikus (vaiką) iki
 
-darbdavys
+14 metų, apie numatomą atleidimą iš darbo turi būti pranešta raštu prieš 4
 
-įrodo,  kad  šis  sprendimas  iš  esmės  pažeidžia  jo
+mėnesius.
 
-interesus.
+Darbo
 
-Įstatymų   numatytais   atvejais   darbuotojai  negali  būti
+arba kolektyvinėje sutartyje gali būti nustatomi ilgesni įspėjimo terminai.
 
-atleisti
+Įspėjimas
 
-iš  darbo  darbdavio  iniciatyva  (išskyrus  pagal  šio
+netenka galios, jei po jo termino pasibaigimo praeina daugiau kaip vienas
 
-įstatymo
+mėnuo, neįskaitant darbuotojo laikinojo nedarbingumo ir atostogų laiko.
 
-29  straipsnio  1  punktą),  negavus  ir  kitų  organų
+Tais
 
-sutikimo.
+atvejais, kai iki terminuotos darbo sutarties pabaigos liko mažiau laiko negu
 
-Darbuotojas,  atleistas  iš darbo pažeidus šiame straipsnyje
+šiame straipsnyje numatyti įspėjimo terminai, darbdavys negali atleisti
 
-nustatytus
+darbuotojo iš darbo savo iniciatyva, jei nėra darbuotojo kaltės.
 
-reikalavimus, taip pat atleistas praėjus daugiau kaip
+Jeigu
 
-vienam
+darbuotojas atleidžiamas iš darbo, nepasibaigus įspėjimo terminui, jo atleidimo
 
-mėnesiui  nuo sutikimo gavimo, teismo sprendimu turi būti
+iš darbo data perkeliama iki to laiko, kada turėjo pasibaigti įspėjimo
 
-grąžintas
+terminas.
 
-į pirmesnįjį darbą.
+Šiame
 
-Straipsnio
+straipsnyje nurodyti įspėjimo terminai netaikomi, kai darbuotojas atleidžiamas
 
-pakeitimai:
+iš darbo pagal šio įstatymo 30 straipsnį.
 
-Nr.
+Atleisti
 
-1-215, 93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
+darbuotoją iš darbo darbdavio iniciatyva, kai nėra darbuotojo kaltės, taip pat
 
-Nr.
+šio įstatymo 26 straipsnio 9, 10 ir 11 punktuose nurodytais pagrindais ir kai
 
-1-475, 94.05.24, Žin., 1994, Nr. 42-759 (94.06.03)
+darbuotojas atsisako persikelti į kitą vietovę, perkeliant tik įmonės padalinį,
+
+kuriame jis dirba (26 straipsnio 8 punktas), bei kai darbuotojas neišrenkamas
+
+naujam terminui į ankstesnes pareigas arba atšaukiamas iš jų nesant jo kaltės
+
+(26 straipsnio 12 punktas), leidžiama, jei negalima darbuotojo perkelti jo
+
+sutikimu į kitą darbą.
+
+Straipsnio pakeitimai:
+
+Nr.I-215, 93.07.14, Žin., 1993, Nr.
+
+30-684 (93.07.21)
+
+Nr. IX-222, 2001 03 22, Žin., 2001, Nr.
+
+28-897 (2001 03 30)
+
+35
+
+straipsnis.Apribojimai nutraukiant darbo sutartį su nėščia moterimi ir motina,
+
+auginančia vaiką iki 3 metų
+
+Darbo
+
+sutartis darbdavio iniciatyva ir darbdavio valia negali būti nutraukta su
+
+nėščia moterimi.
+
+Darbo
+
+sutartis darbdavio valia negali būti nutraukta su motina, auginančia vaiką iki
+
+3 metų (jei nėra motinos - su tėvu arba globėju, auginančiu vaiką iki to pat
+
+amžiaus), taip pat negali būti nutraukta darbdavio iniciatyva, kai nėra
+
+darbuotojo kaltės.
+
+Garantijos,
+
+išvardintos šio straipsnio pirmojoje ir antrojoje dalyse, netaikomos, kai darbo
+
+sutartis nutraukiama pagal šio įstatymo 29 straipsnio 1 punktą.
+
+Straipsnio pakeitimai:
+
+Nr.I-2076, 91.12.10, Žin., 1991, Nr.
+
+36-979
 
 34 straipsnis.Reikalavimai nutraukiant darbo sutartį,
 
@@ -3339,11 +3269,13 @@ dieną, išskyrus išeitinės pašalpos išmokėjimą, kai darbo sutartis nutrau
 
 pašalpa išmokama šio įstatymo 40 straipsnio trečiojoje dalyje nurodyta tvarka.
 
-Kai
+Kai uždelsiama atsiskaityti
 
-uždelsiama atsiskaityti dėl darbdavio kaltės, darbuotojui sumokamas vidutinis
+dėl darbdavio kaltės, be darbuotojui šio straipsnio 1 dalyje nurodytų išmokų,
 
-darbo užmokestis už uždelsimo laiką. Vidutinio darbo užmokesčio mokėjimas už
+sumokamas ir vidutinis darbo užmokestis už uždelsimo laiką, bet ne daugiau kaip
+
+už 3 mėnesius nuo atleidimo dienos. Vidutinio darbo užmokesčio mokėjimas už
 
 uždelsimo laiką nutraukiamas nuo teismo nutarties iškelti įmonei bankroto bylą
 
@@ -3357,13 +3289,17 @@ Nr. I-900, 95.05.23, Žin., 1995, Nr.
 
 46-1119 (95.06.02)
 
-Nr. I-1285, 96.04.17, Žin., 1996, Nr.
+Nr. I-1285, 96.04.17, Žin., 1996, Nr. 41-983
 
-41-983 (96.05.08)
+(96.05.08)
 
 Nr. VIII-1166, 99.05.06, Žin., 1999,
 
 Nr.45-1432 (99.05.26)
+
+Nr. IX-222, 2001 03 22, Žin., 2001, Nr.
+
+28-897 (2001 03 30)
 
 42
 
@@ -3427,9 +3363,7 @@ D A R B O  S U T A R T I S Nr._______
 
 Įmonė,
 
-įstaiga, organizacija (toliau -
-
-įmonė)_______________________________________________
+įstaiga, organizacija (toliau - įmonė)_______________________________________________
 
 (pavadinimas)
 
@@ -3527,7 +3461,9 @@ ________________________________________________________________________________
 
 2.
 
-Nustatomas išbandymo laikotarpis ____________________________________________________
+Nustatomas išbandymo laikotarpis
+
+____________________________________________________
 
 (nurodyti terminą)
 
@@ -3639,7 +3575,9 @@ ir pavardė)                  (Parašas)            
 
 A.V.
 
-Darbo sutartis
+Darbo
+
+sutartis
 
 pakeista_______________________________________________________________
 
@@ -3661,7 +3599,9 @@ Darbdavys                                   �
 
 (Vardas
 
-ir pavardė)                  (Parašas)          (Vardas ir pavardė)                  (Parašas)
+ir pavardė)                  (Parašas)                      (Vardas ir pavardė)
+
+(Parašas)
 
 A.V.
 
@@ -3683,49 +3623,55 @@ Darbdavys                                   �
 
 (Vardas
 
-ir pavardė)                  (Parašas)          (Vardas ir pavardė)                  (Parašas)
+ir pavardė)                  (Parašas)                      (Vardas ir pavardė)                  (Parašas)
 
 A.V.
 
 Pastaba.
 
-Šioje tipinėje darbo sutarties formoje nustatomos bendrosios darbo sutarties sąlygos.
+Šioje pavyzdinėje darbo sutarties formoje nustatomos bendrosios
 
-Specifinės paskirties įmonių (atominės energetikos, jūrų, upių, oro,
+darbo sutarties sąlygos. Specifinės paskirties įmonių (atominės energetikos,
 
-geležinkelio transporto ir kt.) darbo sutartyse gali būti šalių nustatytos
+jūrų, upių, oro, geležinkelio transporto ir kt.) darbo sutartyse gali būti
 
-kitokios teisės aktams neprieštaraujančios sąlygos.
+šalių nustatytos kitokios teisės aktams neprieštaraujančios sąlygos.
 
-Šios darbo sutarties būtinosios sąlygos - darbuotojo darbo
+Šios darbo sutarties
 
-vieta (įmonė, jos padalinys ir pan.), darbo funkcijos (profesija,
+būtinosios sąlygos – darbuotojo darbo vieta (įmonė, jos padalinys ir pan.),
 
-kvalifikacija, specialybė, darbas, pareigos), darbo apmokėjimo sąlygos - gali
+darbo funkcijos (profesija, kvalifikacija, specialybė, darbas, pareigos), darbo
 
-būti keičiamos tiktai šalių susitarimu. Kitų šios sutarties sąlygų keitimas
+apmokėjimo sąlygos – gali būti keičiamos tiktai šalių susitarimu. Kitų šios
 
-negali prieštarauti įstatymams, kitiems teisės aktams, reglamentuojantiems
+sutarties sąlygų keitimas negali prieštarauti įstatymams, kitiems teisės
 
-darbo sutarties sudarymą, pakeitimą ir nutraukimą. Kai toje įmonėje, įstaigoje,
+aktams, reglamentuojantiems darbo sutarties sudarymą, pakeitimą ir nutraukimą.
 
-organizacijoje darbuotojo sutikimu jam pavedamas kitas darbas, nesulygtas darbo
+Kai toje įmonėje, įstaigoje, organizacijoje darbuotojo sutikimu jam pavedamas
 
-sutartimi, sudaroma kita darbo sutartis laikantis šios darbo sutarties formos
+kitas darbas, nesulygtas darbo sutartimi, sudaroma kita darbo sutartis laikantis
 
-reikalavimų.
+šios darbo sutarties formos reikalavimų.
 
 Įstatymas papildytas
 
 priedėliu:
 
-Nr. I-1285, 96.04.17, Žin., 1996, Nr.
+Nr. I-1285,
 
-41-983 (96.05.08)
+96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
 
-Priedėlio patikslinimas:
+Priedėlio patikslinimas: Žin.,
 
-Žin., 1996, Nr. 54 (96.06.07)
+1996, Nr. 54 (96.06.07)
+
+Priedėlio pakeitimai:
+
+Nr. IX-222, 2001 03 22, Žin., 2001, Nr.
+
+28-897 (2001 03 30)
 
 _________
 
@@ -3747,7 +3693,9 @@ SUTARTIES ĮSTATYMO 35 STRAIPSNIO DALINIO PAKEITIMO
 
 2.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr.I-215,
 
@@ -3871,9 +3819,7 @@ SUTARTIES ĮSTATYMO 29 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 12.
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. VIII-286,
 
@@ -3933,9 +3879,7 @@ SUTARTIES ĮSTATYMO 1 IR 36 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 16.
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. VIII-1014,
 
@@ -3999,9 +3943,25 @@ DARBO SUTARTIES ĮSTATYMO 1, 5, 17, 17(1), 17(2) STRAIPSNIŲ PAKEITIMO IR
 
 PAPILDYMO ĮSTATYMAS
 
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-222, 2001 03 22, Žin., 2001, Nr.
+
+28-897 (2001 03 30)
+
+DARBO SUTARTIES ĮSTATYMO 8, 10,
+
+17, 24(1), 30, 33, 34, 41 STRAIPSNIŲ BEI PRIEDĖLIO PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.08.11)
+Redagavo: Aušrinė Trapinskienė (2001 04 03)
+
+autrap@lrs.lt
 
 38 straipsnis.Darbuotojo teisė reikalauti, kad jam
 
