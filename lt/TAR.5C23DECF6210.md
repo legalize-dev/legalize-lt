@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2001-04-17"
+last_updated: "2003-12-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -23,6 +23,10 @@ Redagavo: Ramunė Lūžaitė (1997
 Nauja įstatymo redakcija skelbta: Žin., 1999, Nr.
 
 66-2117
+
+Nauja įstatymo redakcija skelbta: Žin., 2004, Nr.
+
+4-31
 
 Neoficialus įstatymo tekstas
 
@@ -48,19 +52,23 @@ VIII-1298, 1999
 
 07 07, Žin., 1999, Nr. 66-2117 (1999 07 30)
 
+Nr.
+
+IX-1917, 2003-12-18,
+
+Žin., 2004, Nr. 4-31 (2004-01-07)
+
 1
 
 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas reglamentuoja santykius, susijusius su valstybės skola ir
+Šis Įstatymas reglamentuoja Lietuvos Respublikos Vyriausybės
 
-valstybės reikalavimo teise į skolininkus ir skolininkus, už kurių
+skolinimąsi valstybės vardu, santykius, susijusius su valstybės
 
-įsipareigojimų įvykdymą garantuoja valstybė, pagal paskolos sutartis ir
+reikalavimo teise į skolininkus ir skolininkus, už kurių įsipareigojimų
 
-sutartis su valstybės garantija arba kitus įsipareigojamuosius skolos
-
-dokumentus.
+įvykdymą garantuoja valstybė.
 
 1 straipsnis. Įstatymo paskirtis
 
@@ -74,263 +82,217 @@ paskolos sutartis ir sutartis su valstybės garantija arba kitus
 
 įsipareigojamuosius skolos dokumentus.
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-1. Valstybės skola - Lietuvos Respublikos vidaus ir užsienio
+1. Valdžios sektorius – sektorius, kuris apima centrinės
 
-skolos suma.
+valdžios (Vyriausybė ir kiti šiam sektoriui priskiriami subjektai), vietos
 
-2. Vidaus skola – Lietuvos Respublikos turtinių įsipareigojimų
+valdžios (savivaldybės ir kiti šiam sektoriui priskiriami subjektai) ir
 
-vidaus valiuta pagal paskolos sutartis, sutartis su valstybės garantija arba
+valstybės socialinės apsaugos fondų (Valstybinio socialinio draudimo fondas,
 
-kitus įsipareigojamuosius skolos dokumentus, pagal kuriuos lėšos gautos, bet
+Privalomojo sveikatos draudimo fondas ir kiti šiam sektoriui priskiriami
 
-dar negrąžintos, materialinės vertybės arba paslaugos yra gautos, bet dar
+subjektai) sektorius. Subjektų priskyrimą ir jų klasifikavimą pagal sektorius
 
-neapmokėtos, taip pat pagal šį įstatymą įsteigtos garantijų institucijos
+nustato Vyriausybė arba jos įgaliota institucija.
 
-arba draudimo įmonės neįvykdytų įsipareigojimų bankams pagal garantijas ar
+2. Valstybės skola – konsoliduota valdžios sektoriui
 
-draudimo sutartis ir Lietuvos Respublikos įstatymų nustatytų, bet dar
+priskiriamų subjektų, turinčių teisę prisiimti skolinius įsipareigojimus,
 
-neįvykdytų turtinių įsipareigojimų suma.
+prisiimtų, bet dar neįvykdytų turtinių įsipareigojimų pagal paskolų sutartis,
 
-3. Užsienio skola – Lietuvos Respublikos turtinių įsipareigojimų
+lizingo (finansinės nuomos) sutartis ir kitus įsipareigojamuosius skolos
 
-užsienio valiuta pagal paskolos sutartis, sutartis su valstybės garantija arba
+dokumentus suma.
 
-kitus įsipareigojamuosius skolos dokumentus, pagal kuriuos lėšos gautos,
+3. Vidaus skola – valdžios sektoriui priskiriamų subjektų,
 
-bet dar negrąžintos, materialinės vertybės arba paslaugos yra gautos,
+turinčių teisę prisiimti skolinius įsipareigojimus, prisiimtų, bet dar
 
-bet dar neapmokėtos, taip pat pagal šį įstatymą įsteigtos garantijų
+neįvykdytų vidaus kreditoriams turtinių įsipareigojimų pagal paskolų
 
-institucijos arba draudimo įmonės neįvykdytų įsipareigojimų bankams pagal
+sutartis, lizingo (finansinės nuomos) sutartis ir kitus
 
-garantijas ar draudimo sutartis ir Lietuvos Respublikos įstatymų nustatytų, bet
+įsipareigojamuosius skolos dokumentus suma.
 
-dar neįvykdytų turtinių įsipareigojimų suma.
+4. Užsienio skola – valdžios sektoriui priskiriamų subjektų,
 
-4. Vidaus kreditoriai - Lietuvos Respublikos juridiniai ar
+turinčių teisę prisiimti skolinius įsipareigojimus, prisiimtų, bet dar
 
-fiziniai asmenys arba įmonės, neturinčios juridinio asmens teisių, paskolinę
+neįvykdytų užsienio kreditoriams turtinių įsipareigojimų pagal
 
-lėšų pagal paskolų sutartis arba kitus įsipareigojamuosius skolos dokumentus.
+paskolų sutartis, lizingo (finansinės nuomos) sutartis ir kitus
 
-5. Užsienio
+įsipareigojamuosius skolos dokumentus suma.
 
-kreditoriai - užsienio valstybės, tarptautinės finansinės organizacijos,
+5. Vidaus kreditoriai – Lietuvos komerciniai bankai, finansų
 
-užsienio bankai, kiti juridiniai arba fiziniai asmenys, paskolinę lėšų pagal
+įstaigos ir kiti rezidentai, suteikę paskolas pagal paskolų sutartis arba kitus
 
-paskolų sutartis arba kitus įsipareigojamuosius skolos dokumentus.
+įsipareigojamuosius skolos dokumentus.
 
 6. Užsienio
 
-paskola - piniginės lėšos, materialinės vertybės arba paslaugos, valstybės
+kreditoriai – užsienio valstybės, tarptautinės finansinės organizacijos,
 
-vardu gautos iš vidaus arba užsienio kreditorių pagal paskolos sutartis arba
+užsienio komerciniai bankai ir kiti nerezidentai, suteikę
 
-kitus įsipareigojamuosius skolos dokumentus ir grąžinamos užsienio valiuta.
+paskolas pagal paskolų sutartis arba kitus įsipareigojamuosius skolos
+
+dokumentus.
 
 7. Vidaus
 
-paskola - piniginės lėšos, materialinės vertybės arba paslaugos, valstybės
+paskola – piniginės lėšos, materialinės vertybės arba paslaugos, gautos iš
 
-vardu gautos iš vidaus arba užsienio kreditorių pagal paskolos sutartis arba
+vidaus kreditorių pagal paskolos sutartis, lizingo (finansinės nuomos) sutartis
 
-kitus įsipareigojamuosius skolos dokumentus ir grąžinamos vidaus valiuta.
+arba kitus įsipareigojamuosius skolos dokumentus.
 
-8. Paskola su
+8. Užsienio
 
-valstybės garantija - piniginės lėšos, materialinės vertybės arba
+paskola – piniginės lėšos, materialinės vertybės arba paslaugos, gautos iš
 
-paslaugos, gautos Lietuvos Respublikos juridinio ar fizinio asmens arba įmonės,
+užsienio kreditorių pagal paskolos sutartis, lizingo (finansinės nuomos) sutartis
 
-neturinčios juridinio asmens teisių, iš vidaus arba užsienio kreditorių pagal
-
-paskolos sutartis arba kitus įsipareigojamuosius skolos dokumentus, kurių
-
-sąlygų įvykdymą garantuoja valstybė.
+arba kitus įsipareigojamuosius skolos dokumentus.
 
 9. Valstybės
 
-garantija - Lietuvos Respublikos turtinis įsipareigojimas grąžinti visą
+garantija – valstybės turtinis įsipareigojimas grąžinti visą skolą arba jos
 
-skolą arba jos dalį ir apmokėti kitas su skola susijusias išlaidas vidaus arba
+dalį ir apmokėti kitas su skola susijusias išlaidas vidaus arba užsienio
 
-užsienio kreditoriui už skolininką, už kurio įsipareigojimų įvykdymą garantuoja
+kreditoriui už skolininką, už kurio įsipareigojimų įvykdymą garantuoja
 
 valstybė, jeigu šis neįvykdo arba įvykdo ne visus paskolos sutartyje arba
 
 kituose įsipareigojamuosiuose skolos dokumentuose numatytus įsipareigojimus.
 
-10. Valstybės garantija už garantijų institucijos arba draudimo
+10. Valstybės garantija už garantijų instituciją – valstybės
 
-įmonės įsipareigojimus pagal garantijas ar draudimo sutartis – Lietuvos
+turtinis įsipareigojimas įvykdyti garantijų institucijos, už kurios
 
-Respublikos turtinis įsipareigojimas įvykdyti garantijų institucijos arba
+įsipareigojimų pagal garantijas įvykdymą garantuoja valstybė, įsipareigojimus
 
-draudimo įmonės, už kurios įsipareigojimų pagal garantijas ar draudimo sutartis
+bankams, jeigu garantijų institucija neįvykdo arba įvykdo ne visus garantijose
 
-įvykdymą garantuoja valstybė, įsipareigojimus bankams, jeigu garantijos
+numatytus įsipareigojimus.
 
-institucija arba draudimo įmonė neįvykdo arba įvykdo ne visus garantijose ar
+11. Vyriausybės vertybiniai popieriai – valstybės vardu Vyriausybės
 
-draudimo sutartyse numatytus įsipareigojimus.
+išleidžiami skoliniai įsipareigojimai, galintys būti antrinės vertybinių
 
-11. Lietuvos
-
-Respublikos Vyriausybės vertybiniai popieriai - Lietuvos Respublikos vardu
-
-Lietuvos Respublikos Vyriausybės išleidžiami skoliniai įsipareigojimai,
-
-galintys būti antrinės vertybinių popierių apyvartos objektu, jeigu emisijos
-
-sąlygos nenustato ko kita.
+popierių apyvartos objektu, jeigu emisijos sąlygos nenustato ko kita.
 
 12. Skolininkas
 
-- Lietuvos Respublikos juridinis ar fizinis asmuo arba įmonė, neturinti
+– Lietuvos Respublikos juridinis ar fizinis asmuo, pagal sutartį,
 
-juridinio asmens teisių, pagal pasirašytą sutartį su valstybe arba pagal kitus
+sudarytą su valstybe, arba pagal kitus įsipareigojamuosius skolos
 
-įsipareigojamuosius skolos dokumentus gavę paskolą ir įsipareigoję valstybei
+dokumentus gavęs paskolą iš valstybės vardu gautos paskolos lėšų ir
 
-dėl jos naudojimo ir grąžinimo.
+įsipareigojęs valstybei dėl jos naudojimo ir grąžinimo.
 
 13. Skolininkas,
 
-už kurio įsipareigojimų įvykdymą garantuoja valstybė, - Lietuvos
+už kurio įsipareigojimų įvykdymą garantuoja valstybė – Lietuvos Respublikos
 
-Respublikos juridinis ar fizinis asmuo arba įmonė, neturinti juridinio asmens
+juridinis ar fizinis asmuo, gavęs paskolą pagal sutartį, sudarytą su vidaus
 
-teisių, gavę paskolą pagal pasirašytą sutartį su vidaus arba užsienio
+arba užsienio kreditoriumi, arba pagal kitus įsipareigojamuosius skolos
 
-kreditoriumi arba pagal kitus įsipareigojamuosius skolos dokumentus, kurių
-
-sąlygų įvykdymą garantuoja valstybė.
+dokumentus, kurių sąlygų įvykdymą garantuoja valstybė.
 
 14. Garantijų
 
-institucija arba draudimo įmonė, už kurios įsipareigojimų įvykdymą garantuoja
+institucija, už kurios įsipareigojimų įvykdymą garantuoja valstybė – Vyriausybės
 
-valstybė, - Lietuvos Respublikos Vyriausybės įsteigtas juridinis asmuo,
+įsteigtas juridinis asmuo, kuris užtikrina bankams pagal garantijas juridiniams
 
-kuris užtikrina bankams pagal garantijos ar draudimo sutartis juridiniams
+ir fiziniams asmenims teikiamų paskolų
 
-asmenims, įmonėms, neturinčioms juridinio asmens teisių, fiziniams asmenims
+grąžinimą ir už kurio įsipareigojimų įvykdymą garantuoja valstybė.
 
-teikiamų paskolų grąžinimą ir už kurio įsipareigojimų įvykdymą garantuoja
+15. Rezidentas – juridinis arba fizinis asmuo, kuris turi
 
-valstybė.
+ekonominių interesų Lietuvoje, verčiasi ūkine ar kuria kita įstatymų
 
-15. Vidaus
+nedraudžiama ekonomine veikla ir nuolat arba laikinai, bet ilgiau nei vienus
 
-valiuta - litas, Lietuvos Respublikos piniginis vienetas.
+metus veikia ar gyvena Lietuvoje.
 
-16. Užsienio
+16. Nerezidentas – juridinis arba fizinis
 
-valiuta - bet kurios užsienio valstybės arba dviejų ir daugiau užsienio
+asmuo, turintis ekonominių interesų Lietuvoje, tačiau nuolat veikiantis arba
 
-valstybių bendrai naudojama valiuta, įskaitant eurą (Ekonominės ir pinigų
+gyvenantis užsienio valstybėse, arba veikiantis ar gyvenantis Lietuvoje
 
-sąjungos bendra valiuta) ir SST (Tarptautinis valiutos fondas, speciali
+trumpiau nei vienus metus.
 
-skolinimo teisė).
+3 straipsnis. Vyriausybės skolinimosi
 
-17. Paskolos valiuta - užsienio
+valstybės vardu ir valstybės garantijų teikimo pagrindinės nuostatos
 
-ar vidaus valiuta, kuria skolininkas turi grąžinti paskolą, mokėti palūkanas ir
+1. Sprendimą dėl valstybės skolos limitų
 
-kitas įmokas, numatytas paskolos sutartyje.
+Vyriausybės siūlymu priima Seimas, tvirtindamas atitinkamų metų valstybės
 
-Straipsnio pakeitimai:
-
-Nr. IX-258, 2001 04 17, Žin., 2001, Nr.
-
-39-1330 (2001 05 09)
-
-3 straipsnis. Valstybės skolinimosi ir
-
-garantijų teikimo pagrindinės nuostatos
-
-1. Sprendimą dėl:
-
-1) valstybės
-
-skolos limitų Lietuvos Respublikos Vyriausybės siūlymu priima Seimas,
-
-tvirtindamas metinį valstybės biudžetą arba priimdamas kitus įstatymus;
-
-2) valstybės turtinių įsipareigojimų
-
-pripažinimo valstybės vidaus ar užsienio skola Lietuvos Respublikos Vyriausybės
-
-siūlymu priima Seimas. Įstatyme turi būti nurodoma skolos dydis, skolos
-
-padengimo terminas ir kitos esminės sąlygos.
+biudžetą arba priimdamas kitus įstatymus.
 
 2. Vidaus ir užsienio paskolas
 
-Lietuvos Respublikos vardu ima bei valstybės garantijas vidaus ir užsienio
+valstybės vardu ima bei valstybės garantijas paskoloms teikia Vyriausybė,
 
-paskoloms teikia Lietuvos Respublikos Vyriausybė, laikydamasi Lietuvos
-
-Respublikos įstatymuose nustatytų limitų, šio įstatymo 5, 6 ir 7
+laikydamasi įstatymuose nustatytų limitų, šio Įstatymo 5 ir 6
 
 straipsniuose nustatyta tvarka.
 
-3. Valdant
+3. Valdant centrinės valdžios sektoriaus skolą,
 
-valstybės skolą, Lietuvos Respublikos Vyriausybei atstovauja Finansų
+Vyriausybei atstovauja Finansų ministerija. Ši ministerija Vyriausybės
 
-ministerija. Ši ministerija Lietuvos Respublikos Vyriausybės sprendimu ir jos
-
-nustatyta tvarka:
+sprendimu ir jos nustatyta tvarka:
 
 1) skolinasi finansinius išteklius
 
-vidaus ir užsienio rinkose imdama paskolas, išleisdama Lietuvos Respublikos
+vidaus ir užsienio rinkose imdama paskolas, išleisdama Vyriausybės vertybinius
 
-Vyriausybės vertybinius popierius bei kitus įsipareigojamuosius skolos
+popierius bei kitus įsipareigojamuosius skolos dokumentus;
 
-dokumentus;
+2) nustato Vyriausybės vertybinių
 
-2) nustato Lietuvos Respublikos
+popierių parametrus bei išleidimo į apyvartą sąlygas;
 
-Vyriausybės vertybinių popierių parametrus bei išleidimo į apyvartą sąlygas;
+3) atlieka operacijas su Vyriausybės
 
-3) atlieka operacijas su Lietuvos
+vertybiniais popieriais vidaus ir užsienio rinkose;
 
-Respublikos Vyriausybės vertybiniais popieriais vidaus ir užsienio rinkose;
+4) sudaro
 
-4) iš skolintų lėšų finansuoja valstybės
+su akcine bendrove Turto banku pavedimo sutartis dėl Finansų ministerijos
 
-programas ir atlieka jų finansinę priežiūrą;
+perduodamų administruoti paskolų ir kitų turtinių įsipareigojimų. Paskolas ir
 
-5) sudaro su akcine bendrove Turto
+kitus turtinius įsipareigojimus, perduodamus akcinei bendrovei Turto bankui,
 
-banku pavedimo sutartis dėl Finansų ministerijos perduodamų administruoti
+bei jų administravimo tvarką nustato Vyriausybė;
 
-paskolų ir kitų turtinių įsipareigojimų. Paskolas ir kitus turtinius
+5) nurašo šio Įstatymo 10 straipsnyje
 
-įsipareigojimus, perduodamus akcinei bendrovei Turto bankui, bei jų
+nurodytas beviltiškomis pripažintas paskolas arba skolas;
 
-administravimo tvarką nustato Lietuvos Respublikos Vyriausybė;
-
-6) nurašo šio įstatymo 10(1)
-
-straipsnyje nurodytas beviltiškomis pripažintas paskolas arba skolas;
-
-7) atlygintinai perleidžia reikalavimą
+6) atlygintinai perleidžia reikalavimą
 
 grąžinti paskolas arba skolas ir įvykdyti su jomis susijusius kitus turtinius
 
 įsipareigojimus;
 
-8) kai skolininkas arba skolininkas,
+7) kai skolininkas arba skolininkas,
 
 už kurio įsipareigojimų įvykdymą garantuoja valstybė, didina įstatinį kapitalą
 
@@ -342,27 +304,31 @@ valstybės garantija ir kitus įsipareigojamuosius skolos dokumentus.
 
 4. Finansų ministerija:
 
-1) tvarko
+1)
 
-valstybės skolos apskaitą ir atskaitomybę;
+tvarko valstybės skolos apskaitą ir atskaitomybę;
 
-2) registruoja
+2) sistemina,
 
-visas vidaus ir užsienio paskolas, paskolas su valstybės garantija ir
+kaupia, saugo ir tvarko duomenis apie visas valstybės vardu gautas
 
-kitus skolinius įsipareigojimus;
+paskolas, paskolas su valstybės garantija ir kitus skolinius
 
-3) saugo visų paskolų sutarčių ir visų
+įsipareigojimus;
 
-valstybės garantijų dokumentų originalus;
+3) saugo visų valstybės vardu gautų
 
-4) apibendrina ir planuoja paskolų poreikį, rengia
+paskolų sutarčių ir visų valstybės garantijų dokumentų originalus;
 
-skolinimosi programų projektus;
+4) apibendrina ir planuoja skolinimosi poreikį;
 
 5) pasibaigus biudžetiniams metams, skolų likučius derina su
 
-kreditoriais.
+kreditoriais;
+
+6) naudoja išvestines finansines priemones centrinės valdžios skolai
+
+valdyti.
 
 5. Finansų ministerija arba akcinė bendrovė Turto bankas,
 
@@ -372,9 +338,9 @@ turtinius įsipareigojimus:
 
 1) kontroliuoja
 
-paskolų išdavimą, grąžinimą, naudojimą ir kitų finansinių įsipareigojimų,
+paskolų teikimą, paskirstymą, grąžinimą, naudojimą ir kitų finansinių
 
-susijusių su paskolomis, vykdymą;
+įsipareigojimų, susijusių su paskolomis, vykdymą;
 
 2) analizuoja skolininkų arba
 
@@ -386,97 +352,71 @@ būklę;
 
 specialiųjų atidėjinių poreikį galimiems suteiktų paskolų ir paskolų su
 
-valstybės garantija nuostoliams dengti pagal Lietuvos Respublikos Vyriausybės
+valstybės garantija nuostoliams dengti pagal Vyriausybės nustatytas specialiųjų
 
-nustatytas specialiųjų atidėjinių abejotinoms paskoloms normas ir Finansų
+atidėjinių abejotinoms paskoloms normas ir Finansų ministerijos patvirtintas iš
 
-ministerijos patvirtintas iš vidaus ir užsienio paskolų lėšų suteiktų paskolų
+vidaus ir užsienio paskolų lėšų suteiktų paskolų ir paskolų su valstybės
 
-ir paskolų su valstybės garantija grupavimo taisykles;
+garantija grupavimo taisykles;
 
-4) turi teisę Lietuvos Respublikos Vyriausybės nustatytomis sąlygomis
+4) turi teisę Vyriausybės nustatytomis sąlygomis ir tvarka peržiūrėti paskolos
 
-ir tvarka peržiūrėti paskolos arba skolos grąžinimo sąlygas ir pasirašyti su
+arba skolos grąžinimo sąlygas ir pasirašyti su skolininku arba skolininku, už
 
-skolininku arba skolininku, už kurio įsipareigojimų įvykdymą garantuoja
+kurio įsipareigojimų įvykdymą garantuoja valstybė, paskolos sąlygų pakeitimo
 
-valstybė, paskolos sąlygų pakeitimo sutartį arba skolos grąžinimo sutartį,
+sutartį arba skolos grąžinimo sutartį, jeigu ekonominiu požiūriu išieškoti
 
-jeigu ekonominiu požiūriu išieškoti negrąžintas sumas iš skolininkų sąskaitų
+negrąžintas sumas iš skolininkų sąskaitų bankų įstaigose ar turto yra
 
-bankų įstaigose ar turto yra netikslinga.
+netikslinga.
 
-6. Su užsienio ir vidaus paskolų tvarkymu
+6. Visiems iš šio Įstatymo
 
-susijusios išlaidos bei pajamos, gautos iš skolininkų pagal sutartinius
+reglamentuojamų santykių atsirandantiems Vyriausybės prisiimtiems turtiniams
 
-įsipareigojimus, sankcijas, taip pat gautos atlygintinai perleidus reikalavimą
+įsipareigojimams vykdyti naudojami visi galimi valstybės finansiniai ištekliai,
 
-grąžinti paskolas arba skolas bei kitus turtinius įsipareigojimus, turi būti
+tarp jų ir nauji valstybės turtiniai įsipareigojimai.
 
-įtraukiamos į valstybės biudžetą.
+7. Esamas ir būsimas valstybės turtas
 
-7. Visiems iš šio įstatymo
+negali būti įkeistas kaip valstybės turtinių įsipareigojimų įvykdymo
 
-reguliuojamų santykių kylantiems valstybės turtiniams įsipareigojimams vykdyti
+užtikrinimo priemonė.
 
-naudojami visi galimi valstybės pajamų šaltiniai, tarp jų ir nauji valstybės
-
-turtiniai įsipareigojimai.
-
-8. Valstybės
-
-skola gali būti išreikšta paskolų sutartimis, valstybės garantijomis,
-
-vertybiniais popieriais ir kitais įsipareigojamaisiais skolos dokumentais.
-
-9. Esamas ir būsimas valstybės turtas
-
-negali būti įkeistas kaip valstybės turtinių įsipareigojimų įvykdymo užtikrinimo
-
-priemonė.
-
-10. Lietuvos banko aukso ir
+8. Lietuvos banko aukso ir
 
 užsienio valiutos rezervai negali būti įkeisti kaip valstybės turtinių
 
 įsipareigojimų įvykdymo užtikrinimo priemonė.
 
-11. Lietuvos Respublikos
+9. Vyriausybė valstybės vardu gautų paskolų lėšas gali
 
-Vyriausybė paskolų lėšas gali naudoti tik šiame įstatyme nurodytiems tikslams.
+naudoti tik šiame Įstatyme nurodytiems tikslams.
 
-12. Lietuvos
+10.
 
-Respublikos Vyriausybė turi teisę iš užsienio arba vidaus paskolų lėšų teikti
+Vyriausybė turi teisę iš valstybės vardu gautų paskolų lėšų teikti
 
-paskolas Lietuvos Respublikos juridiniams ar fiziniams asmenims arba įmonėms,
+paskolas Lietuvos Respublikos juridiniams asmenims, jeigu paskolų sutartyse
 
-neturinčioms juridinio asmens teisių, jeigu nėra kitaip numatyta paskolų
+nėra numatyta kitaip. Paskolos sutartis su skolininkais pasirašo finansų
 
-sutartyse. Paskolos sutartis su skolininkais pasirašo finansų ministras arba jo
+ministras arba jo įgaliotas asmuo.
 
-įgaliotas finansų viceministras.
+11. Paskolų iš valstybės vardu gautų paskolų
 
-13. Paskolų iš vidaus ir užsienio paskolų lėšų ir valstybės
+lėšų ir valstybės garantijų teikimo bei suteiktų paskolų grąžinimo tvarką
 
-garantijų teikimo bei suteiktų paskolų grąžinimo tvarką nustato Lietuvos
+nustato Vyriausybė.
 
-Respublikos Vyriausybė.
+12. Skolininkai
 
-14. Visi skolininkai arba skolininkai,
+arba skolininkai, už kurių įsipareigojimų įvykdymą garantuoja valstybė, išskyrus
 
-už kurių įsipareigojimų įvykdymą garantuoja valstybė, privalo laiku grąžinti
-
-paskolą arba skolą, mokėti palūkanas ir vykdyti kitus sutartyje numatytus
-
-įsipareigojimus paskolos valiuta.
-
-15. Skolininkai
-
-arba skolininkai, už kurių įsipareigojimų įvykdymą garantuoja valstybė,
-
-išskyrus komercinius bankus ir savivaldybes, iki visiško turtinių įsipareigojimų
+komercinius bankus ir savivaldybes, iki visiško turtinių įsipareigojimų
 
 įvykdymo be Finansų ministerijos arba akcinės bendrovės Turto banko, kai ši
 
@@ -510,25 +450,23 @@ turto;
 
 dokumentus.
 
-Straipsnio pakeitimai:
-
-Nr. IX-258, 2001 04 17, Žin., 2001, Nr.
-
-39-1330 (2001 05 09)
-
 4
 
-straipsnis. Valstybės skolinimosi ir valstybės garantijų suteikimo tikslai
+straipsnis. Vyriausybės skolinimosi valstybės vardu ir valstybės garantijų
+
+suteikimo tikslai
 
 Vyriausybė
 
-Lietuvos Respublikos vardu gali imti paskolas ir teikti valstybės garantijas
+valstybės vardu gali imti paskolas ir teikti valstybės garantijas dėl paskolų,
 
-dėl paskolų, naudojamų šiems tikslams:
+naudojamų šiems tikslams:
 
 1) valstybės
 
-biudžeto deficitui finansuoti bei Valstybės iždo pinigų srautams subalansuoti;
+biudžeto deficitui finansuoti bei valstybės piniginių išteklių srautams
+
+subalansuoti;
 
 2) valstybės
 
@@ -546,169 +484,191 @@ subalansuoti;
 
 5) kitiems
 
-tikslams, kai yra atskiras Lietuvos Respublikos įstatymas.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1500, 1999 12 23, Žin., 1999, Nr. 113-3293 (1999 12 30)
-
-Nr. IX-258, 2001 04 17, Žin., 2001, Nr.
-
-39-1330 (2001 05 09)
+tikslams, kai dėl to yra priimtas atskiras įstatymas.
 
 5
 
-straipsnis. Užsienio paskola
+straipsnis. Valstybės vardu gaunamos paskolos
 
-1. Sprendimą imti didesnę kaip 40 mln.
+1. Sprendimą valstybės vardu imti
 
-litų užsienio paskolą, išskyrus paskolą valstybės biudžeto deficitui
+didesnę kaip 40 mln. litų paskolą neviršijant įstatymų nustatytų limitų
 
-finansuoti, Valstybės iždo pinigų srautams subalansuoti ir kitiems tikslams,
+Vyriausybės siūlymu priima Seimas atskiru įstatymu.
 
-numatytiems atitinkamų metų valstybės biudžeto įstatyme, neviršijant Lietuvos
+2. Sprendimą valstybės
 
-Respublikos įstatymų nustatytų limitų, Lietuvos Respublikos Vyriausybės siūlymu
+vardu imti ne didesnę kaip 40 mln. litų paskolą neviršijant Lietuvos
 
-priima Seimas atskiru įstatymu.
+Respublikos įstatymų nustatytų limitų priima Vyriausybė arba jos įgaliota
 
-2. Sprendimą imti
+institucija.
 
-40 mln. litų ar mažesnę užsienio paskolą bei užsienio paskolą
+3. Sprendimą
 
-valstybės biudžeto deficitui finansuoti, Valstybės iždo pinigų srautams
+valstybės vardu imti paskolą biudžeto deficitui finansuoti, valstybės piniginių
 
-subalansuoti ir kitiems tikslams, numatytiems atitinkamų metų valstybės
+išteklių srautams subalansuoti, valstybės skolai dengti ir kitiems tikslams,
 
-biudžeto įstatyme, neviršijant Lietuvos Respublikos įstatymų nustatytų limitų,
+numatytiems atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų
 
-priima Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+finansinių rodiklių patvirtinimo įstatyme, neviršijant įstatymų
 
-3. Užsienio paskolų sutartys ir kiti
+nustatytų limitų neatsižvelgdama į paskolos dydį priima Vyriausybė arba jos
 
-įsipareigojamieji skolos dokumentai yra komerciniai susitarimai. Užsienio
+įgaliota institucija.
 
-paskolos sutartį arba kitus įsipareigojamuosius skolos dokumentus pasirašo
+4. Valstybės vardu gaunamų paskolų
 
-finansų ministras. Finansų ministro siūlymu užsienio paskolų sutartis ir
+sutartys ir kiti įsipareigojamieji skolos dokumentai yra komerciniai
 
-kitus įsipareigojamuosius skolos dokumentus gali pasirašyti kiti valstybės
+susitarimai. Valstybės vardu gaunamos paskolos sutartį arba kitus
 
-tarnautojai, kuriems Lietuvos Respublikos Vyriausybės nutarimu suteikti
+įsipareigojamuosius skolos dokumentus pasirašo finansų ministras. Finansų
 
-įgaliojimai.
+ministro siūlymu valstybės vardu gaunamų paskolų sutartis ir kitus
 
-4. Teisinę išvadą
+įsipareigojamuosius skolos dokumentus gali pasirašyti valstybės tarnautojai,
 
-dėl užsienio paskolos arba kitų įsipareigojamųjų skolos dokumentų, taip pat dėl
+kuriems Vyriausybės nutarimu suteikti įgaliojimai.
 
-kitų teisinių dokumentų, susijusių su valstybės skolinimusi, pasirašo
+5. Teisinę išvadą
 
-teisingumo ministras arba jo įgaliotas teisingumo viceministras.
+dėl valstybės vardu gaunamos paskolos arba kitų įsipareigojamųjų skolos
 
-5. Užsienio
+dokumentų, taip pat dėl kitų teisinių dokumentų, susijusių su valstybės
 
-paskola paimama, išmokama bei grąžinama per valstybės fiskalinį agentą -
+skolinimusi, kreditoriaus pageidavimu pasirašo teisingumo ministras arba
 
-Lietuvos banką arba per kitą banką.
+jo įgaliotas asmuo.
 
-Straipsnio pakeitimai:
+6. Valstybės vardu
 
-Nr. VIII-1500, 1999 12 23, Žin., 1999, Nr. 113-3293 (1999 12 30)
+gaunama paskola paimama, išmokama bei grąžinama per valstybės fiskalinį agentą
 
-Nr. IX-258, 2001 04 17, Žin., 2001, Nr.
+– Lietuvos banką arba per kitą banką.
 
-39-1330 (2001 05 09)
+7. Finansų
+
+ministerija teisės aktų nustatyta tvarka turi teisę pasirinkti fiskalinį agentą
+
+Vyriausybės vertybinių popierių išleidimo į apyvartą operacijoms atlikti.
+
+Finansų ministerijai sutikus, fiskalinis agentas gali nustatyti šių operacijų
+
+vykdymo tvarką.
 
 6
 
-straipsnis. Vidaus paskola
-
-1. Vidaus paskolos sutartį arba
-
-kitus įsipareigojamuosius skolos dokumentus pasirašo finansų ministras. Finansų
-
-ministro siūlymu vidaus paskolų sutartis ir kitus įsipareigojamuosius skolos
-
-dokumentus gali pasirašyti kiti valstybės tarnautojai, kuriems Lietuvos
-
-Respublikos Vyriausybės nutarimu suteikti įgaliojimai.
-
-2. Lietuvos
-
-Respublikos Vyriausybės vertybiniai popieriai, išleidžiami vidaus valiuta, yra
-
-įtraukiami į vertybinių popierių apskaitą. Vertybinių popierių apskaita
-
-tvarkoma Lietuvos Respublikos įstatymų, kitų teisės aktų ir akcinės bendrovės
-
-Lietuvos centrinio vertybinių popierių depozitoriumo nustatyta tvarka
-
-arba pagal reikalavimus, nustatytus atsiskaitymams už vertybinius popierius per
-
-tarptautines atsiskaitymų sistemas.
-
-3. Finansų
-
-ministerija turi teisę įstatymų nustatyta tvarka pasirinkti fiskalinį agentą
-
-Lietuvos Respublikos Vyriausybės vertybinių popierių išleidimo į apyvartą
-
-operacijoms vykdyti. Finansų ministerijai sutikus, fiskalinis agentas gali
-
-nustatyti šių operacijų vykdymo tvarką.
-
-4. Vidaus paskolos
-
-teikimo ir grąžinimo tvarką bei institucijų, dalyvaujančių šiame procese,
-
-funkcijas ir pareigas nustato Lietuvos Respublikos Vyriausybė.
-
-5. Vidaus paskolų, išreikštų Lietuvos Respublikos Vyriausybės
-
-vertybiniais popieriais, išleidimo ir apyvartos tvarką nustato Lietuvos
-
-Respublikos Vyriausybė.
-
-Straipsnio pakeitimai:
-
-Nr. IX-258, 2001 04 17, Žin., 2001, Nr.
-
-39-1330 (2001 05 09)
-
-7
-
 straipsnis. Paskola su valstybės garantija
 
-1. Sprendimus
+1. Sprendimą
 
-suteikti valstybės garantiją dėl vidaus ar užsienio kreditoriaus pagal sutartį
+suteikti valstybės garantiją dėl didesnės kaip 40 mln. litų paskolos
 
-teikiamos paskolos, kuri yra didesnė kaip 40 mln. litų, priima Lietuvos Respublikos
+Vyriausybės siūlymu priima Seimas.
 
-Seimas Lietuvos Respublikos Vyriausybės siūlymu.
+2. Sprendimą suteikti valstybės garantiją dėl ne didesnės kaip 40
 
-2. Sprendimus suteikti valstybės garantiją dėl vidaus ar užsienio
+mln. litų paskolos priima Vyriausybė, vadovaudamasi atitinkamų metų Valstybės
 
-kreditoriaus pagal sutartį teikiamos paskolos, kuri yra 40 mln. litų ar
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu
 
-mažesnė, priima Lietuvos Respublikos Vyriausybė, vadovaudamasi atitinkamų metų
-
-Lietuvos Respublikos valstybės biudžeto įstatymu arba kitais įstatymais.
+arba kitais įstatymais.
 
 3. Valstybės
 
 garantiją pasirašo finansų ministras, o teisinę išvadą dėl suteiktos garantijos
 
-kreditoriaus pageidavimu pasirašo teisingumo ministras arba jo įgaliotas teisingumo
+kreditoriaus pageidavimu pasirašo teisingumo ministras arba jo įgaliotas asmuo.
 
-viceministras.
+4. Už suteiktą
 
-Straipsnio pakeitimai:
+valstybės garantiją iš skolininko, už kurio įsipareigojimų įvykdymą garantuoja
 
-Nr. IX-258, 2001 04 17, Žin., 2001, Nr.
+valstybė, gali būti imama garantinė įmoka. Garantinės įmokos dydį, jos mokėjimo
 
-39-1330 (2001 05 09)
+atvejus ir taisykles nustato Vyriausybė.
+
+5. Valstybės turtiniai įsipareigojimai pagal valstybės garantijas tampa
+
+valstybės skola, kai skolininkui, už kurio įsipareigojimų įvykdymą garantuoja
+
+valstybė, iškelta bankroto arba restruktūrizavimo byla, jis yra likviduojamas
+
+arba likviduotas, kai su šiuo skolininku yra sudaroma Įmonių bankroto įstatyme
+
+nurodyta taikos sutartis ir kitais atvejais, kai valstybė už skolininką nuolat
+
+(sistemingai) vykdo savo įsipareigojimus pagal garantijas.
+
+7
+
+straipsnis. Garantijų institucijų steigimas ir valstybės garantija už garantijų
+
+instituciją
+
+1. Vyriausybė
+
+turi teisę steigti garantijų institucijas, kurios užtikrintų bankams pagal
+
+garantijas juridiniams ir fiziniams asmenims teikiamų paskolų grąžinimą, jei
+
+tam tikroms programoms įgyvendinti yra numatytos lėšos tų metų valstybės
+
+biudžete ar valstybės fonduose.
+
+2. Už garantijų institucijos
+
+įsipareigojimų bankams pagal garantijas įvykdymą garantuoja valstybė.
+
+Vyriausybė kasmet kiekvienai garantijų institucijai nustato įsipareigojimų
+
+pagal garantijas limitus, kurie negali viršyti atitinkamų metų Valstybės
+
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme
+
+nustatyto limito.
+
+3. Garantijų
+
+institucijos garantijas Vyriausybės nustatyta tvarka pasirašo garantijų
+
+institucijos vadovas. Vyriausybės įsteigtų garantijų institucijų
+
+įsipareigojimai bankams pagal garantijas prilyginami valstybės garantijai.
+
+4. Garantijų
+
+institucija, įgyvendindama valstybės vykdomas programas, Vyriausybės nustatyta
+
+tvarka nagrinėja juridinių ir fizinių asmenų prašymus užtikrinti bankams, kurie
+
+teikia jiems paskolas, paskolų grąžinimą, tvarko suteiktų garantijų apskaitą,
+
+kontroliuoja, kaip yra įgyvendinami pateikti verslo planai, ir taiko poveikio
+
+priemones garantijų sąlygų nevykdantiems skolininkams.
+
+5. Garantijų
+
+institucijos veiklos priežiūrą atlieka ir šios institucijos atskaitomybę
+
+nustato Vyriausybės įgaliota institucija.
+
+6. Garantijų
+
+institucija ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos
+
+privalo pateikti Vyriausybei metinę finansinę atskaitomybę kartu su audito
+
+išvada.
+
+7. Jeigu garantijų
+
+institucijos nuostoliai pasiekia ketvirtį įstatinio kapitalo dydžio, Vyriausybė
+
+turi sustabdyti naujų garantijų teikimą.
 
 4 straipsnis. Valstybės skolinimosi ir
 
@@ -1070,113 +1030,9 @@ reikalaujamus dokumentus šių institucijų nustatytais terminais, išskyrus
 
 dokumentus, kurių pateikimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
-8 straipsnis.
+8 straipsnis. Skolininkų ir skolininkų, už
 
-Garantijų institucijų arba draudimo įmonių steigimas ir valstybės garantija
-
-už
-
-garantijų institucijų arba draudimo įmonių įsipareigojimus pagal
-
-garantijos
-
-arba draudimo sutartis
-
-1. Lietuvos
-
-Respublikos Vyriausybė turi teisę steigti garantijų institucijas arba draudimo
-
-įmones, kurios užtikrintų bankams pagal garantijos ir draudimo sutartis
-
-juridiniams asmenims, įmonėms, neturinčioms juridinio asmens teisių, fiziniams
-
-asmenims teikiamų paskolų grąžinimą, jei tam tikroms programoms įgyvendinti yra
-
-numatytos lėšos tų metų valstybės biudžete ar kituose valstybės fonduose. Draudimo
-
-įmonės steigiamos bei jų įstatai tvirtinami vadovaujantis Lietuvos Respublikos
-
-draudimo įstatymu.
-
-2. Sprendimą suteikti valstybės
-
-garantiją už garantijų institucijos arba draudimo įmonės įsipareigojimus
-
-bankams pagal garantijas ar draudimo sutartis priima Lietuvos Respublikos
-
-Vyriausybė. Lietuvos Respublikos Vyriausybės suteiktų valstybės garantijų už
-
-šiuos garantijų institucijų ar draudimo įmonių įsipareigojimus suma negali
-
-viršyti atitinkamų metų valstybės biudžete nustatyto limito.
-
-3. Garantijų institucijos
-
-arba draudimo įmonės garantijas ar draudimo sutartis Lietuvos Respublikos
-
-Vyriausybės nustatyta tvarka pasirašo garantijų institucijos arba draudimo
-
-įmonės vadovas. Lietuvos Respublikos Vyriausybės įsteigtų garantijų institucijų
-
-ar draudimo įmonių įsipareigojimai bankams pagal garantijas ar draudimo
-
-sutartis prilyginami valstybės garantijai.
-
-4. Garantijų
-
-institucija arba draudimo įmonė, įgyvendindama valstybės vykdomas programas,
-
-Lietuvos Respublikos Vyriausybės nustatyta tvarka nagrinėja juridinių asmenų,
-
-įmonių, neturinčių juridinio asmens teisių, ir fizinių asmenų prašymus
-
-užtikrinti bankams, kurie teikia jiems paskolas, paskolų grąžinimą, tvarko
-
-suteiktų garantijų ir sudarytų draudimo sutarčių apskaitą, kontroliuoja, kaip
-
-yra įgyvendinami pateikti verslo planai, ir taiko poveikio priemones garantijų
-
-ar draudimo sąlygų nevykdantiems skolininkams.
-
-5. Garantijų
-
-institucijos veiklos priežiūrą atlieka ir šios institucijos atskaitomybę
-
-nustato Lietuvos Respublikos Vyriausybės įgaliota institucija.
-
-6. Draudimo
-
-įmonės veiklos priežiūra atliekama Lietuvos Respublikos draudimo įstatymo
-
-nustatyta tvarka.
-
-7. Garantijų
-
-institucija arba draudimo įmonė privalo ne vėliau kaip per 3 mėnesius po
-
-finansinių metų pabaigos taip pat pateikti Lietuvos Respublikos Vyriausybei
-
-metinę finansinę atskaitomybę kartu su audito išvada.
-
-8. Jeigu garantijų
-
-institucijos arba draudimo įmonės nuostoliai pasiekia ketvirtį įstatinio
-
-kapitalo dydžio, Lietuvos Respublikos Vyriausybė turi sustabdyti naujų
-
-garantijų teikimą ir draudimo sutarčių sudarymą.
-
-Straipsnio pakeitimai:
-
-Nr. IX-258, 2001 04 17, Žin., 2001, Nr.
-
-39-1330 (2001 05 09)
-
-9 straipsnis. Skolininkų ir skolininkų, už
-
-kurių įsipareigojimų įvykdymą garantuoja
-
-valstybė, finansinės veiklos kontrolė
+kurių įsipareigojimų įvykdymą garantuoja valstybė, finansinės veiklos kontrolė
 
 1. Skolininkai ir skolininkai, už kurių įsipareigojimų įvykdymą
 
@@ -1190,7 +1046,7 @@ nustatytus dokumentus prieš gaudami paskolą;
 
 2) Finansų ministerijai arba akcinei bendrovei Turto bankui, kai ši bendrovė administruoja Finansų ministerijos perduotas
 
-paskolas ir kitus turtinius įsipareigojimus, – metinės
+paskolas ir kitus turtinius įsipareigojimus - metinės
 
 ūkinės ir finansinės veiklos ataskaitą, metinės
 
@@ -1234,13 +1090,397 @@ turtinius įsipareigojimus, audito įmonėms, kontrolės institucijoms ir įstai
 
 jų reikalaujamus dokumentus jų nustatytais terminais, išskyrus dokumentus,
 
-kurių pateikimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+kurių pateikimo tvarką nustato Vyriausybė.
 
-Straipsnio pakeitimai:
+5. Valdžios
+
+sektoriui priskiriami subjektai, turintys teisę prisiimti skolinius
+
+įsipareigojimus, privalo pagal Finansų ministerijos nustatytas taisykles
+
+pateikti jai įsipareigojimų, prisiimtų pagal paskolų sutartis, lizingo
+
+(finansinės nuomos) sutartis ir kitus įsipareigojamuosius skolos dokumentus,
+
+ataskaitas.
+
+9 straipsnis. Sankcijos
+
+1. Už pavėluotą
+
+paskolos ar skolos grąžinimo sutartyse nustatytų turtinių įsipareigojimų
+
+vykdymą šiose sutartyse nustatomi delspinigiai už kiekvieną pradelstą
+
+dieną. Delspinigių dydis skaičiuojamas vidutinę praėjusio kalendorinio
+
+ketvirčio metinę palūkanų normą, mokamą už ne ilgiau kaip vieniems metams
+
+aukciono būdu išleistus Vyriausybės vertybinius popierius litais, padalijus iš
+
+365. Taip pat sutartyse gali būti numatoma, kad delspinigiai gali būti
+
+padidinti šioje dalyje nurodytą vidutinę metinę palūkanų normą padidinus iki 10
+
+procentinių punktų ir gautą skaičių padalijus iš 365. Kai Finansų ministerijos
+
+perduotas paskolas ir kitus turtinius įsipareigojimus administruoja akcinė
+
+bendrovė Turto bankas, Vyriausybė turi teisę atleisti skolininką nuo
+
+apskaičiuotų, bet nesumokėtų delspinigių už laiku negrąžintas paskolas arba
+
+skolas ir nesumokėtas palūkanas mokėjimo arba sustabdyti delspinigių
+
+skaičiavimą skolininkams.
+
+2. Finansų ministerija turi teisę
+
+išieškoti iš skolininko laiku negrąžintą paskolą arba skolą ar jos dalį,
+
+nesumokėtas palūkanas, delspinigius arba kitas sutartyse numatytas įmokas bei
+
+valstybės išlaidas, patirtas dėl skolininko turtinių įsipareigojimų neįvykdymo.
+
+Jeigu skolininkas, už kurio įsipareigojimų įvykdymą garantuoja valstybė,
+
+nevykdo sutartinių įsipareigojimų ir dėl to valstybei, kaip garantui, tenka
+
+juos įvykdyti, Finansų ministerija įgyja atgręžtinio reikalavimo teisę
+
+išieškoti iš skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė,
+
+visas tiesiogines ir netiesiogines išlaidas, susijusias su minėtų įsipareigojimų
+
+įvykdymu. Finansų ministerijos sprendimai dėl skolos išieškojimo iš skolininko
+
+arba skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė,
+
+perduodami teismo antstoliams vykdyti Civilinio proceso kodekso nustatyta
+
+tvarka.
+
+3. Kai akcinė bendrovė Turto bankas
+
+administruoja Finansų ministerijos perduotas paskolas ir kitus turtinius
+
+įsipareigojimus, ji turi teisę perimti savo nuosavybėn skolininko arba
+
+skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė, arba trečiųjų
+
+asmenų turtą, jeigu nepavyko jo realizuoti Civilinio proceso kodekso ir (ar)
+
+Įmonių bankroto įstatymo nustatyta tvarka, ir jį realizuoti, kad būtų įvykdyti
+
+visi skolininkų turtiniai įsipareigojimai, taip pat atlygintos valstybės
+
+išlaidos, patirtos dėl skolininkų turtinių įsipareigojimų neįvykdymo.
+
+4. Jeigu skolininkas arba skolininkas,
+
+už kurio įsipareigojimų įvykdymą garantuoja valstybė, laiku nevykdo turtinių
+
+įsipareigojimų pagal sutartis arba sumažėja prievolės įvykdymo užtikrinimo
+
+priemonės vertė, Finansų ministerija arba akcinė bendrovė Turto bankas, kai ši
+
+bendrovė administruoja Finansų ministerijos perduotas paskolas ir kitus
+
+turtinius įsipareigojimus, gali pareikalauti iš skolininko pateikti papildomą
+
+prievolės įvykdymo užtikrinimo priemonę.
+
+5. Jeigu skolininko arba skolininko,
+
+už kurio įsipareigojimų įvykdymą garantuoja valstybė, turto nepakanka šio
+
+straipsnio 2 dalyje numatytiems sprendimams įvykdyti, o įsipareigojimai ir
+
+toliau nevykdomi, Finansų ministerija arba jos pavedimu akcinė bendrovė Turto
+
+bankas turi teisę kreiptis į teismą su pareiškimu dėl bankroto bylos iškėlimo
+
+skolininkui arba skolininkui, už kurio įsipareigojimų įvykdymą
+
+garantuoja valstybė. Apie savo ketinimus kreiptis į teismą dėl įmonės bankroto
+
+bylos iškėlimo Finansų ministerija arba akcinė bendrovė Turto bankas raštu
+
+praneša skolininkui arba skolininkui, už kurio įsipareigojimų įvykdymą
+
+garantuoja valstybė. Pranešime nurodomi skolininko arba skolininko, už
+
+kurio įsipareigojimų įvykdymą garantuoja valstybė, neįvykdyti įsipareigojimai
+
+ir perspėjama, kad jeigu jie nebus įvykdyti per šiame pranešime nurodytą
+
+laikotarpį, Finansų ministerija arba akcinė bendrovė Turto bankas kreipsis į
+
+teismą dėl bankroto bylos iškėlimo.
+
+10
+
+straipsnis. Paskolų arba skolų pripažinimas beviltiškomis
+
+1. Beviltiška paskola arba skola gali būti pripažinta ta skolininko
+
+arba skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė,
+
+negrąžinta paskola arba skola, jos dalis, taip pat nesumokėtos palūkanos,
+
+delspinigiai ir kiti turtiniai įsipareigojimai, kurių neįmanoma arba
+
+netikslinga išieškoti dėl šių priežasčių:
+
+1) mirus
+
+skolininkui nėra įpėdinių, galinčių atsakyti už jo turtinius įsipareigojimus
+
+valstybei; skolininkas arba skolininkas, už kurio įsipareigojimų įvykdymą
+
+garantuoja valstybė, yra likviduotas;
+
+2) su skolininku arba skolininku, už
+
+kurio įsipareigojimų įvykdymą garantuoja valstybė, sudaroma Įmonių bankroto
+
+įstatyme nurodyta taikos sutartis arba Įmonių restruktūrizavimo įstatymo
+
+nustatyta tvarka yra baigta šių skolininkų restruktūrizavimo byla;
+
+3) jeigu, atlygintinai perleidus
+
+reikalavimą grąžinti paskolas arba skolas ir įvykdyti su jomis susijusius kitus
+
+turtinius įsipareigojimus, gauta suma yra mažesnė už paskolą arba skolą,
+
+beviltiška pripažįstama likusi negauta paskolos arba skolos dalis;
+
+4) praėjus
+
+daugiau kaip vieniems metams nuo tos dienos, kai buvo pradėti išieškojimo
+
+veiksmai, nerasta skolininko arba skolininko, už kurio įsipareigojimų įvykdymą
+
+garantuoja valstybė, turto arba rastas turtas yra nelikvidus (neįmanoma jo
+
+realizuoti), arba jei rasto turto pakanka tik daliai skolos padengti,
+
+beviltiška pripažįstama likusi skolos dalis;
+
+5) išieškojimo
+
+išlaidos yra didesnės už paskolą arba skolą;
+
+6) skolininko
+
+arba skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė – fizinio
+
+asmens, taip pat ūkininko, individualios įmonės savininko arba ūkinės bendrijos
+
+nario – yra sunki ekonominė (socialinė) padėtis. Sunkią ekonominę (socialinę)
+
+padėtį liudijančios aplinkybės turi būti patvirtintos kompetentingų institucijų
+
+išduotais dokumentais.
+
+2. Sprendimą dėl paskolos arba skolos
+
+pripažinimo beviltiška Finansų ministerijos siūlymu priima Vyriausybė.
+
+3. Paskola arba
+
+skola, pripažinta beviltiška šio straipsnio 1 dalies 1, 2 ir 3 punktuose
+
+nurodytais pagrindais, pasibaigia ir yra nurašoma iš valstybės skolinių
+
+įsipareigojimų apskaitos dokumentų.
+
+4. Paskola arba
+
+skola, pripažinta beviltiška šio straipsnio 1 dalies 4, 5 ir 6 punktuose
+
+nurodytais pagrindais, Vyriausybės arba jos įgaliotos institucijos nustatyta
+
+tvarka yra revizuojama, tai yra peržiūrimos išieškojimo galimybės, analizuojama
+
+skolininkų finansinė būklė, atliekama turto paieška. Nustačius paskolos arba
+
+skolos (ar jos dalies) išieškojimo galimybes, išieškoma įstatymų nustatyta
+
+tvarka.
+
+5. Paskolų arba
+
+skolų, pripažintų beviltiškomis, nurašymo, apskaitos, taip pat revizavimo
+
+tvarką ir išieškojimo išlaidų apskaičiavimo metodiką nustato Vyriausybė arba
+
+jos įgaliota institucija.
+
+11
+
+straipsnis. Atskaitomybė
+
+1. Vyriausybė, pasibaigus biudžetiniams metams, kartu su valstybės
+
+biudžeto įvykdymo apyskaita privalo pateikti Seimui valstybės skolos ataskaitą.
+
+Ataskaitos formą, atitinkančią šio Įstatymo ir Valstybės biudžeto ir
+
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo nuostatas,
+
+nustato finansų ministras.
+
+2. Valstybės kontrolė įvertina Vyriausybės
+
+parengtą ataskaitą apie valstybės skolą ir kartu su išvada dėl metinės
+
+valstybės biudžeto įvykdymo apyskaitos teikia Seimui išvadą dėl valstybės
+
+skolos.
+
+Skelbiu šį Lietuvos Respublikos
+
+Seimo priimtą įstatymą.
+
+RESPUBLIKOS
+
+PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+___________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-257, 97.06.12,
+
+Žin., 1997, Nr.60-1401 (97.06.27)
+
+LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO 2
+
+STRAIPSNIO PAKEITIMO IR PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-501,
+
+97.11.11, Žin., 1997, Nr.107-2689 (97.11.26)
+
+LIETUVOS
+
+RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO 2, 3, 7(1), 9, 10 STRAIPSNIŲ PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-751, 98.05.19,
+
+Žin., 1998, Nr.51-1398 (98.06.03)
+
+LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO 2 IR
+
+7(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-1078,
+
+99.02.11, Žin., 1999, Nr.21-582 (99.03.03)
+
+LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO 4 IR
+
+5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-1298, 1999
+
+07 07, Žin., 1999, Nr. 66-2117 (1999 07 30)
+
+LIETUVOS
+
+RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1500, 1999 12 23, Žin., 1999, Nr. 113-3293 (1999 12 30)
+
+VALSTYBĖS SKOLOS ĮSTATYMO 4, 5 STRAIPSNIŲ PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. IX-258, 2001 04 17, Žin., 2001, Nr.
 
 39-1330 (2001 05 09)
+
+VALSTYBĖS SKOLOS ĮSTATYMO PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1917,
+
+2003-12-18, Žin., 2004, Nr. 4-31 (2004-01-07)
+
+VALSTYBĖS
+
+SKOLOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja
+
+dokumento redakcija.
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušra Bodin (2004-01-07)
+
+aubodi@lrs.lt
 
 10 straipsnis. Sankcijos
 
