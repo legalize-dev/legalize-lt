@@ -4,7 +4,7 @@ identifier: "TAR.1559303036A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-08"
-last_updated: "2001-12-21"
+last_updated: "2003-12-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1559303036A8"
 department: "Lietuvos Respublikos Seimas"
@@ -22,10 +22,6 @@ Redagavo: Ramun? L??ait? (1996
 
 Žin., 1996, Nr. 102-2319
 
-Nauja įstatymo
-
-redakcija skelbta: Žin., 2000, Nr. 58-1712
-
 Neoficialus
 
 įstatymo tekstas
@@ -40,13 +36,17 @@ LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS
 
 Vilnius
 
-Nauja įstatymo
+Nauja
 
-redakcija:
+įstatymo redakcija:
 
 Nr. VIII-1780,
 
 2000 06 29, Žin., 2000, Nr. 58-1712 (2000 07 19)
+
+LRT
+
+finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2005 m. sausio 1 d.
 
 I SKYRIUS
 
@@ -92,11 +92,11 @@ pramogines programas ir dokumentinius filmus), trukmė yra ilgesnė negu 45
 
 minutės, juos reklama galima pertraukti vieną kartą per 45 minutes; papildomai
 
-šių kūrinių transliaciją pertraukti reklamos intarpu galima tik tais atvejais,
+šių kūrinių transliaciją pertraukti reklamos intarpu galima tik tais atvejais, kai
 
-kai šių kūrinių trukmė ne mažiau kaip 20 minučių ilgesnė negu du ar daugiau
+šių kūrinių trukmė ne mažiau kaip 20 minučių ilgesnė negu du ar daugiau ištisi
 
-ištisi 45 minučių tarpai.
+45 minučių tarpai.
 
 7. LRT
 
@@ -142,23 +142,23 @@ Lietuvą ir pasaulį, supažindinti visuomenę su Europos ir pasaulio kultūros
 
 įvairove bei šiuolaikinės civilizacijos pagrindais, stiprinti Lietuvos
 
-Respublikos nepriklausomybę ir demokratiją, kurti, puoselėti ir saugoti nacionalinės
+Respublikos nepriklausomybę ir demokratiją, kurti, puoselėti ir saugoti
 
-kultūros vertybes, ugdyti toleranciją ir humanizmą, bendradarbiavimo, mąstymo
+nacionalinės kultūros vertybes, ugdyti toleranciją ir humanizmą,
 
-ir kalbos kultūrą, stiprinti visuomenės moralę ir pilietiškumą, ugdyti šalies
+bendradarbiavimo, mąstymo ir kalbos kultūrą, stiprinti visuomenės moralę ir
 
-ekologinę kultūrą. Rengdamas ir skelbdamas laidas, LRT turi vadovautis
+pilietiškumą, ugdyti šalies ekologinę kultūrą. Rengdamas ir skelbdamas laidas,
 
-objektyvumo, demokratijos, nešališkumo principais, užtikrinti žodžio ir kūrybos
+LRT turi vadovautis objektyvumo, demokratijos, nešališkumo principais,
 
-laisvę, laidose turi atsispindėti įvairios pažiūros ir įsitikinimai, dalyvauti
+užtikrinti žodžio ir kūrybos laisvę, laidose turi atsispindėti įvairios
 
-jose ir reikšti savo pažiūras turi teisę įvairių įsitikinimų žmonės. Laidose
+pažiūros ir įsitikinimai, dalyvauti jose ir reikšti savo pažiūras turi teisę
 
-turi būti gerbiamas žmogaus orumas ir jo teisės, nenusižengiama moralės ir
+įvairių įsitikinimų žmonės. Laidose turi būti gerbiamas žmogaus orumas ir jo
 
-etikos principams.
+teisės, nenusižengiama moralės ir etikos principams.
 
 2. LRT
 
@@ -176,13 +176,13 @@ reikalavimai
 
 įvairaus amžiaus, įvairių tautybių ir įvairių įsitikinimų žmonėms. Programose
 
-neleidžiama įsivyrauti vienašališkoms politinėms pažiūroms; LRT informacinėse
+neleidžiama įsivyrauti vienašališkoms politinėms pažiūroms; LRT informacinėse laidose,
 
-laidose, komentaruose pateikiama informacija turi būti subalansuota,
+komentaruose pateikiama informacija turi būti subalansuota, atspindinti
 
-atspindinti įvairias politines pažiūras, o nuomonės ir faktinės žinios turi
+įvairias politines pažiūras, o nuomonės ir faktinės žinios turi būti
 
-būti autorizuotos, patikrintos ir išsamios.
+autorizuotos, patikrintos ir išsamios.
 
 2. LRT programose pirmenybė teikiama nacionalinei
 
@@ -274,11 +274,11 @@ Vyriausybės pranešimams. LRT gali leisti kalbėti opozicijos atstovui.
 
 7. LRT
 
-suteikia Lietuvos tradicinėms ir valstybės pripažintoms religinėms
+suteikia Lietuvos tradicinėms ir valstybės pripažintoms religinėms bendruomenėms
 
-bendruomenėms laiką transliuoti religines apeigas dvišaliuose susitarimuose
+laiką transliuoti religines apeigas dvišaliuose susitarimuose numatytomis
 
-numatytomis sąlygomis ir tvarka.
+sąlygomis ir tvarka.
 
 8. LRT suteikia laiką rinkimų metu kandidatams į
 
@@ -296,9 +296,7 @@ sudaro sąlygas darbuotojams kelti kvalifikaciją.
 
 kitoms radijo ir televizijos stotims be Tarybos leidimo.
 
-7 straipsnis. LRT programų
-
-rėmimas
+7 straipsnis. LRT programų rėmimas
 
 LRT
 
@@ -318,9 +316,7 @@ informacijos minimumą.
 
 karo padėties atveju LRT privalo skelbti Respublikos Prezidento, Seimo,
 
-Vyriausybės, Konstitucinio Teismo, Generalinės prokuratūros oficialius
-
-pranešimus.
+Vyriausybės, Konstitucinio Teismo, Generalinės prokuratūros oficialius pranešimus.
 
 II SKYRIUS
 
@@ -364,11 +360,11 @@ pirmininką.
 
 Radijo ir televizijos komisijos nariai, politinio (asmeninio) pasitikėjimo
 
-valstybės tarnautojai, asmenys, dirbantys pagal darbo sutartis radijo ir
+valstybės tarnautojai, asmenys, dirbantys pagal darbo sutartis radijo ir televizijos
 
-televizijos stotyse, įskaitant LRT, taip pat radijo ir televizijos stočių
+stotyse, įskaitant LRT, taip pat radijo ir televizijos stočių savininkai ir
 
-savininkai ir bendraturčiai.
+bendraturčiai.
 
 5. Tarybos narys negali būti atšauktas iš pareigų, kol
 
@@ -400,13 +396,13 @@ pakartotinai skiriamas į Tarybą su sąlyga, jeigu dėl tokio paskyrimo nesusid
 
 daugiau kaip dvi kadencijos iš eilės.
 
-7. Kai Taryboje atsiranda laisva vieta, Tarybos pirmininkas
+7. Kai Taryboje atsiranda laisva vieta, Tarybos
 
-kreipiasi į instituciją, paskyrusią ar delegavusią trūkstamą Tarybos narį,
+pirmininkas kreipiasi į instituciją, paskyrusią ar delegavusią trūkstamą
 
-prašydamas paskirti naują Tarybos narį iki kadencijos, kuriai buvo paskirtas
+Tarybos narį, prašydamas paskirti naują Tarybos narį iki kadencijos, kuriai
 
-atsistatydinęs ar atšauktas Tarybos narys, pabaigos.
+buvo paskirtas atsistatydinęs ar atšauktas Tarybos narys, pabaigos.
 
 8. Taryba turi teisę atsistatydinti nepasibaigus
 
@@ -654,9 +650,9 @@ garantijų suteikimo bei įsipareigojimų vykdymo;
 
 sandorio suma yra ne mažesnė kaip 100 000 litų;
 
-5) teikia išvadas dėl konkursui pateiktų LRT laidų
+5) teikia išvadas dėl konkursui pateiktų LRT laidų projektų
 
-projektų finansinio pagrįstumo;
+finansinio pagrįstumo;
 
 6) teikia išvadas generaliniam direktoriui dėl lėšų,
 
@@ -926,7 +922,7 @@ Nauja įstatymo redakcija
 
 LRT finansavimo
 
-tvarka pagal šį įstatymą įsigalioja nuo 2003 m. sausio 1 d.
+tvarka pagal šį įstatymą įsigalioja nuo 2005 m. sausio 1 d.
 
 LRT administracinė
 
@@ -950,9 +946,7 @@ Nr. IX-137, 2000 12 23, Žin., 2000, Nr.
 
 LIETUVOS NACIONALINIO RADIJO IR
 
-TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO
-
-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 2)
 
@@ -966,9 +960,25 @@ Nr. IX-695,
 
 LIETUVOS NACIONALINIO
 
-RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO
+RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
 
-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ĮSTATYMAS
+
+3)
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-1893,
+
+2003-12-11, Žin., 2003, Nr. 123-5578 (2003-12-30)
+
+LIETUVOS NACIONALINIO
+
+RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
 
 5.
 
@@ -982,9 +992,9 @@ LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 9 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
-Šis įstatymas
+Šis įstatymas įsigalioja
 
-įsigalioja nuo 2000 m. spalio 1 d.
+nuo 2000 m. spalio 1 d.
 
 6.
 
@@ -1016,7 +1026,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2002-01-09)
+Aušrinė Trapinskienė (2004-02-13)
 
 autrap@lrs.lt
 
