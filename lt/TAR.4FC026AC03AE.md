@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2004-11-02"
+last_updated: "2004-11-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -3094,6 +3094,8 @@ institucijos. Apie nedarbingumo pažymėjimo išdavimą pareigūnas turi raštu 
 
 pranešti savo tiesioginiam vadovui.
 
+2 dalies redakcija iki 2005 m. sausio 1 d.:
+
 2. Pareigūnų
 
 laikinojo nedarbingumo dėl ligos, nelaimingo atsitikimo ar slaugos trukmę,
@@ -3103,6 +3105,20 @@ pareigūnių nėštumo ir gimdymo atostogų trukmę, apmokėjimo sąlygas (išsk
 išimtis, nustatytas šio straipsnio 3 dalyje), taip pat laikinojo nedarbingumo
 
 pažymėjimo išdavimo tvarką reglamentuoja privalomojo valstybinio socialinio
+
+draudimo santykius reglamentuojantys teisės aktai.
+
+2 dalies redakcija nuo 2005 m. sausio 1 d.:
+
+2.
+
+Pareigūnų laikinojo nedarbingumo dėl ligos, nelaimingo atsitikimo ar slaugos
+
+trukmę, pareigūnių nėštumo ir gimdymo atostogų trukmę, apmokėjimo sąlygas
+
+(išskyrus išimtis, nustatytas šio straipsnio 3 dalyje), taip pat laikinojo
+
+nedarbingumo pažymėjimo išdavimo tvarką reglamentuoja valstybinio socialinio
 
 draudimo santykius reglamentuojantys teisės aktai.
 
@@ -3138,9 +3154,13 @@ medicinos ekspertizės komisijoje.
 
 Straipsnio pakeitimai:
 
-Nr. IX-2526,
+Nr. IX-2526, 2004-11-02,
 
-2004-11-02, Žin., 2004, Nr. 167-6105 (2004-11-17)
+Žin., 2004, Nr. 167-6105 (2004-11-17)
+
+Nr. IX-2536,
+
+2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
 
 42 straipsnis. Pareigūnų medicininės reabilitacijos,
 
@@ -3172,11 +3192,11 @@ priežiūros įstaigose, kurių steigėja yra Vidaus reikalų ministerija.
 
 medicininės reabilitacijos, prevencinės medicininės ir psichologinės
 
-reabilitacijos, sveikatos grąžinamojo, antirecidyvinio gydymo, kai jis
+reabilitacijos, sveikatos grąžinamojo, antirecidyvinio gydymo, kai jis apmokamas
 
-apmokamas iš dalies arba neapmokamas iš Privalomojo sveikatos draudimo fondo
+iš dalies arba neapmokamas iš Privalomojo sveikatos draudimo fondo biudžeto,
 
-biudžeto, tvarką nustato Vyriausybė ar jos įgaliota institucija.
+tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 DEVINTASIS SKIRSNIS
 
@@ -3234,11 +3254,11 @@ profesinė sąjunga sudaro darbo sutartį.
 
 6. Profesinių
 
-sąjungų nariai, atleisti iš vidaus tarnybos dėl išrinkimo į renkamąsias pareigas
+sąjungų nariai, atleisti iš vidaus tarnybos dėl išrinkimo į renkamąsias
 
-profesinių sąjungų organizacijose, pasibaigus renkamųjų pareigų įgaliojimams,
+pareigas profesinių sąjungų organizacijose, pasibaigus renkamųjų pareigų
 
-grąžinami į vidaus tarnybą šio Statuto nustatyta tvarka.
+įgaliojimams, grąžinami į vidaus tarnybą šio Statuto nustatyta tvarka.
 
 44
 
@@ -3374,19 +3394,23 @@ negali būti iškeldinamas iš anksčiau suteikto tarnybinio buto.
 
 3.
 
-Pareigūnas gali naudotis tarnybiniu butu (tarnybine gyvenamąja patalpa) tol,
+Pareigūnas gali naudotis tarnybiniu butu (tarnybine gyvenamąja patalpa) tol, kol
 
-kol turi pareigūno statusą. Atleistas iš vidaus tarnybos pareigūnas privalo tarnybinį butą
+turi pareigūno statusą. Atleistas iš vidaus tarnybos pareigūnas
 
-(tarnybinę gyvenamąją patalpą) atlaisvinti ne vėliau kaip per 30 dienų nuo
+privalo tarnybinį butą (tarnybinę gyvenamąją patalpą) atlaisvinti ne vėliau
 
-atleidimo iš vidaus tarnybos dienos. Vyriausybės nustatytais atvejais,
+kaip per 30 dienų nuo atleidimo iš vidaus tarnybos dienos. Vyriausybės
 
-sąlygomis ir tvarka šį terminą vidaus reikalų ministras gali pratęsti. Atsisakęs atlaisvinti tarnybinį butą pareigūnas kartu su
+nustatytais atvejais, sąlygomis ir tvarka šį terminą vidaus reikalų ministras
 
-tame bute gyvenančiais asmenimis teisės aktų nustatyta tvarka iš jo
+gali pratęsti.
 
-iškeldinamas.
+Atsisakęs atlaisvinti tarnybinį butą
+
+pareigūnas kartu su tame bute gyvenančiais asmenimis teisės aktų nustatyta
+
+tvarka iš jo iškeldinamas.
 
 4. Pareigūnui,
 
@@ -3666,9 +3690,9 @@ Pareigūnų vidaus tarnybos trukmė
 
 gali tarnauti:
 
-1) pirminės
+1) pirminės grandies
 
-grandies pareigūnai – kol sukaks 50 metų;
+pareigūnai – kol sukaks 50 metų;
 
 2) vidurinės
 
@@ -3694,9 +3718,9 @@ kol pareigūnas sukaks 65 metus.
 
 Atleidimas iš vidaus tarnybos pareigūno prašymu
 
-1. Pareigūnas
+1. Pareigūnas turi
 
-turi teisę nutraukti vidaus tarnybą paties prašymu (šio Statuto 53 straipsnio 1
+teisę nutraukti vidaus tarnybą paties prašymu (šio Statuto 53 straipsnio 1
 
 dalies 1 ir 12 punktai). Prašymas pateikiamas vadovui, turinčiam teisę skirti į
 
@@ -3746,11 +3770,13 @@ moteris ar vyras, vieni auginantys vaikus (vaiką) iki 14 metų, asmuo,
 
 kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, apie galimą jų atleidimą turi būti įspėti raštu ne
 
-vėliau kaip prieš 4 mėnesius iki atleidimo dienos. Įspėjimas apie galimą atleidimą
+vėliau kaip prieš 4 mėnesius iki atleidimo dienos. Įspėjimas apie galimą
 
-netenka galios, jei nuo jo termino pabaigos praeina daugiau kaip vienas
+atleidimą netenka galios, jei nuo jo termino pabaigos praeina daugiau
 
-mėnuo, neįskaitant pareigūno laikinojo nedarbingumo ir atostogų laiko.
+kaip vienas mėnuo, neįskaitant pareigūno laikinojo nedarbingumo ir atostogų
+
+laiko.
 
 3. Pareigūnas
 
@@ -3962,13 +3988,37 @@ TARNYBOS STATUTO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2536,
+
+2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
+
+VALSTYBĖS
+
+TARNYBOS ĮSTATYMO, VIDAUS TARNYBOS STATUTO, BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO,
+
+DIPLOMATINĖS TARNYBOS ĮSTATYMO, KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO
+
+TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-11-19)
+Aušrinė Trapinskienė (2004-12-06)
 
 autrap@lrs.lt
 
