@@ -4,7 +4,7 @@ identifier: "TAR.0120FD7BCFFC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "1994-08-05"
+last_updated: "1995-09-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1994-07-19"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
+
+Suvestinė redakcija nuo 1995-09-27 iki 1997-07-08
+
+Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
 
 LIETUVOS RESPUBLIKOS
 
@@ -127,9 +131,25 @@ Savivaldybėms pavadinimus Lietuvos Respublikos Vyriausybės teikimu suteikia ir
 
 Gyvenamosioms vietovėms pavadinimus savivaldybės tarybos teikimu suteikia ir keičia Lietuvos Respublikos Vyriausybė, atsižvelgdama į vietos gyventojų siūlymus.
 
-Gatvėms, pastatams, statiniams ir kitiems savivaldybių teritorijoje esantiems jų nuosavybės objektams pavadinimai suteikiami atitinkamų savivaldybių tarybų sprendimais, pritarus Valstybinei lietuvių kalbos komisijai.
+Gatvėms, pastatams, statiniams ir kitiems savivaldybių teritorijoje esantiems jų nuosavybės objektams pavadinimai suteikiami ir keičiami atitinkamų savivaldybių tarybų sprendimais, pritarus Valstybinei lietuvių kalbos komisijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
 
 Valstybinės nuosavybės objektams pavadinimus suteikia ir juos keičia Lietuvos Respublikos Vyriausybė.
+
+Gyvenamųjų vietovių gatvėms priskirtų pastatų bei gyvenamųjų namų butų numerius suteikia ir keičia vietos savivaldos vykdomosios institucijos. Numerių suteikimo, keitimo ir apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė
+
+Papildyta straipsnio dalimi:
+
+Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
+
+Gatvių, pastatų, statinių ir kitų objektų pavadinimai įtraukiami į apskaitą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
 
 10 straipsnis. Gyvenamųjų vietovių panaikinimas ir jų ribų keitimas
 
@@ -167,18 +187,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
-15 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
-
-Pasiūlyti Lietuvos Respublikos Vyriausybei iki 1999 m. birželio 30 d. patvirtinti vietos gyventojų apklausos tvarką.
-
-Papildyta straipsniu:
-
-Nr. VIII-1163, 1999-05-04, Žin., 1999, Nr. 43-1362 (1999-05-19), i. k. 0991010ISTAIII-1163
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
-
 Pakeitimai:
 
 1.
@@ -188,76 +196,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
 
 Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio papildymo
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-316, 1997-06-26, Žin., 1997, Nr. 65-1544 (1997-07-09), i. k. 0971010ISTAVIII-316
-
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 13 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1163, 1999-05-04, Žin., 1999, Nr. 43-1362 (1999-05-19), i. k. 0991010ISTAIII-1163
-
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 7, 10, 13 straipsnių pakeitimo ir papildymo bei papildymo 15 straipsniu įstatymas
-
-71 straipsnis. Seniūnijų aptarnaujamų teritorijų ribų nustatymas ir keitimas
-
-Seniūnijų aptarnaujamų teritorijų ribas nustato ir keičia savivaldybės taryba.
-
-Seniūnijų aptarnaujamų teritorijų ribų nustatymo ir keitimo, dokumentų pateikimo Lietuvos Respublikos adresų registro tvarkymo įstaigai tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė.
-
-Papildyta straipsniu:
-
-Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
-
-IV SKYRIUS
-
-PAVADINIMŲ SUTEIKIMAS LIETUVOS RESPUBLIKOS
-
-TERITORIJOS ADMINISTRACINIAMS VIENETAMS IR GYVENAMOSIOMS
-
-VIETOVĖMS BEI JŲ KEITIMAS
-
-31 straipsnis. Lietuvos Respublikos adresų registro tvarkymas
-
-Lietuvos Respublikos adresų registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Teisingumo ministerija ir registro tvarkymo įstaiga – valstybės įmonė Registrų centras (toliau – Lietuvos Respublikos adresų registro tvarkymo įstaiga).
-
-Papildyta straipsniu:
-
-Nr. X-1240, 2007-06-28, Žin., 2007, Nr. 81-3315 (2007-07-21), i. k. 1071010ISTA00X-1240
-
-II SKYRIUS
-
-LIETUVOS RESPUBLIKOS TERITORIJOS
-
-ADMINISTRACINIS SKIRSTYMAS
-
-72 straipsnis. Sodininkų bendrijų teritorijų ribų kadastro duomenų nustatymas ir keitimas
-
-Sodininkų bendrijų teritorijų ribų kadastro duomenys nustatomi ir keičiami Lietuvos Respublikos Vyriausybės nustatyta tvarka.
-
-Papildyta straipsniu:
-
-Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
-
-IV SKYRIUS
-
-PAVADINIMŲ SUTEIKIMAS LIETUVOS RESPUBLIKOS
-
-TERITORIJOS ADMINISTRACINIAMS VIENETAMS IR GYVENAMOSIOMS
-
-VIETOVĖMS BEI JŲ KEITIMAS
-
-121 straipsnis. Sodininkų bendrijų ir jų teritorijų ribų registravimas
-
-Sodininkų bendrijos registruojamos Juridinių asmenų registre, o sodininkų bendrijų teritorijų ribos bei jų pakeitimai įrašomi į Nekilnojamojo turto kadastrą šio kadastro nuostatuose nustatyta tvarka.
-
-Papildyta straipsniu:
-
-Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
 
