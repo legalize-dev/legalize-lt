@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2002-12-10"
+last_updated: "2003-06-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -1213,8 +1213,6 @@ išgabentas taikant akcizų mokėjimo laikino atidėjimo režimą, sumokami šia
 
 Įstatyme nustatyto dydžio akcizai.
 
-9. (Neteko galios)
-
 Straipsnio pakeitimai:
 
 Nr. IX-993,
@@ -1319,17 +1317,19 @@ atskiros akcizais apmokestinamos prekės atleidžiamos nuo akcizų, nustatyti š
 
 Įstatymo specialiosiose nuostatose.
 
-4. Jeigu už šio straipsnio
+4. Jeigu už šio
 
-1 dalyje nurodytas akcizais apmokestinamas prekes akcizai buvo sumokėti, jie
+straipsnio 1 dalyje nurodytas akcizais apmokestinamas prekes akcizai buvo
 
-grąžinami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+sumokėti, jie grąžinami Vyriausybės ar jos įgaliotos institucijos nustatyta
+
+tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. IX-993, 2002-06-27,
+Nr. IX-993,
 
-Žin., 2002, Nr. 66-2706 (2002-06-29)
+2002-06-27, Žin., 2002, Nr. 66-2706 (2002-06-29)
 
 14 straipsnis.
 
@@ -1369,9 +1369,9 @@ dalyje nustatyta tvarka nugabenamos į akcizais apmokestinamų prekių sandėlį
 
 importuojamas prekes, nenurodytas šio straipsnio 1 dalyje, sumokėjimą
 
-kontroliuoja teritorinės muitinės. Jos išieško akcizų nepriemokas ir
+kontroliuoja teritorinės muitinės. Jos išieško akcizų nepriemokas ir delspinigius
 
-delspinigius įstatymų nustatyta tvarka.
+įstatymų nustatyta tvarka.
 
 16 straipsnis.
 
@@ -1383,9 +1383,9 @@ apmokestinamų prekių sandėlio savininkas už šio Įstatymo pažeidimus atsak
 
 Mokesčių administravimo įstatymo ir kitų įstatymų nustatyta tvarka.
 
-2. Kiti asmenys už šio
+2. Kiti asmenys už
 
-Įstatymo pažeidimus atsako įstatymų nustatyta tvarka. Už reikalavimo šio
+šio Įstatymo pažeidimus atsako įstatymų nustatyta tvarka. Už reikalavimo šio
 
 Įstatymo 4 straipsnio 1 dalyje nurodyta veikla verstis tik akcizais
 
@@ -1409,9 +1409,9 @@ skola muitinei, akcizų delspinigiai pradedami skaičiuoti nuo importo skolos
 
 muitinei atsiradimo dienos, kitais atvejais – pasibaigus laikui, per kurį
 
-importo akcizai turėjo būti sumokėti. Delspinigiai skaičiuojami Mokesčių
+importo akcizai turėjo būti sumokėti. Delspinigiai skaičiuojami Mokesčių administravimo
 
-administravimo įstatymo nustatyta tvarka.
+įstatymo nustatyta tvarka.
 
 II SKYRIUS
 
@@ -1549,9 +1549,9 @@ mokėtiną akcizų sumą už šiame straipsnyje nurodytus produktus, gryno etilo
 
 alkoholio hektolitru laikoma 100 litrų etilo alkoholio, kurio faktinė alkoholio
 
-koncentracija, išreikšta tūrio procentais, yra 100 procentų tūrio, o temperatūra
+koncentracija, išreikšta tūrio procentais, yra 100 procentų tūrio, o
 
-20°C. Visas gryno etilo alkoholio kiekis hektolitrais
+temperatūra 20°C. Visas gryno etilo alkoholio kiekis hektolitrais
 
 apvalinamas iki sveikojo skaičiaus tūkstantosios dalies.
 
@@ -1617,9 +1617,9 @@ išreikšta tūrio procentais, neviršija 1,2 procento tūrio, gamybai.
 
 2. Panaikinus akcizų
 
-mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį, nurodytą
+mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį, nurodytą šio
 
-šio straipsnio 1 dalies 1, 3, 4 punktuose, akcizai neskaičiuojami. Panaikinus
+straipsnio 1 dalies 1, 3, 4 punktuose, akcizai neskaičiuojami. Panaikinus
 
 akcizų mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį ir
 
@@ -1658,6 +1658,34 @@ Etilo alkoholio
 pripažinimo denatūruotu etilo alkoholiu, kuriam netaikomas akcizas, tvarką
 
 nustato Vyriausybė ar jos įgaliota institucija.
+
+24
+
+straipsnis. Etilo alkoholio ir alkoholinių gėrimų ženklinimas banderolėmis
+
+Lietuvos
+
+Respublikoje pagaminti etilo alkoholis ir alkoholiniai gėrimai, kuriems panaikintas
+
+akcizų mokėjimo laikino atidėjimo režimas, taip pat išleidžiami laisvai
+
+cirkuliuoti importuojami etilo alkoholis ir alkoholiniai gėrimai turi būti
+
+paženklinti etilo alkoholio ir alkoholinių gėrimų banderolėmis. Ženklinimo
+
+tvarką, taip pat atvejus, kai ženklinimo nereikalaujama, nustato Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-1602,
+
+2003-06-05, Žin., 2003, Nr. 59-2640 (2003-06-20)
+
+ANTRASIS SKIRSNIS
+
+APDOROTAS TABAKAS
 
 24 straipsnis.
 
@@ -1699,13 +1727,7 @@ taikomas toks akcizo tarifas:
 
 1) specifinis
 
-elementas – 30,2 lito ir
-
-[1 punkto redakcija nuo 2003 m. kovo 1d.:
-
-1) specifinis
-
-elementas – 42,6 lito ir]
+elementas – 42,6 lito ir
 
 2) vertybinis
 
@@ -1753,11 +1775,19 @@ pagamintas apdorotas tabakas, kuriam panaikintas akcizų mokėjimo laikino
 
 atidėjimo režimas, taip pat išleidžiamas laisvai cirkuliuoti importuojamas
 
-apdorotas tabakas turi būti paženklinti specialiais ženklais – banderolėmis.
+apdorotas tabakas turi būti paženklinti apdoroto tabako banderolėmis.
 
 Ženklinimo tvarką ir atvejus, kai ženklinimo nereikalaujama, nustato
 
 Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-1602,
+
+2003-06-05, Žin., 2003, Nr. 59-2640 (2003-06-20)
 
 28 straipsnis.
 
@@ -1807,17 +1837,9 @@ taikomi akcizo tarifai
 
 1. Gazoliams, jų
 
-pakaitalams ir priedams taikomas 720 litų už toną produkto akcizo tarifas,
-
-jeigu šiame straipsnyje nenustatyta kitaip.
-
-[1 punkto redakcija nuo 2003 m. sausio 1d.:
-
-1. Gazoliams, jų
-
 pakaitalams ir priedams taikomas 860 litų už toną produkto akcizo tarifas,
 
-jeigu šiame straipsnyje nenustatyta kitaip.]
+jeigu šiame straipsnyje nenustatyta kitaip.
 
 2. Šildymui skirtiems
 
@@ -1873,9 +1895,9 @@ taikomas šio Įstatymo 31 straipsnio 1 dalyje nustatytas akcizo tarifas, o jeig
 
 tvarka, – šio Įstatymo 31 straipsnio 2 dalyje nustatytas tarifas.
 
-33 straipsnis. Skirtiems naudoti kaip degalai (variklių
+33 straipsnis. Skirtiems naudoti kaip degalai
 
-kuras) naftos dujoms ir
+(variklių kuras) naftos dujoms ir
 
 dujiniams angliavandeniliams, jų pakaitalams bei
 
@@ -1933,21 +1955,21 @@ keleivius ir (arba) krovinius vietiniais maršrutais, taip pat teikiantiems
 
 kitokias paslaugas už atlyginimą; orlaiviams, kurie naudojami atliekant
 
-valstybės ar savivaldybių institucijų funkcijas; orlaiviams, dalyvaujantiems
+valstybės ar savivaldybių institucijų funkcijas; orlaiviams, dalyvaujantiems karinėse
 
-karinėse tarptautinėse pratybose. Kuro, kuriam taikoma ši lengvata, kodus pagal
+tarptautinėse pratybose. Kuro, kuriam taikoma ši lengvata, kodus pagal KPN
 
-KPN nustato Vyriausybė;
+nustato Vyriausybė;
 
 2) laivų degalai
 
 (variklių kuras), kurie tiekiami kaip kuro atsargos laivams, gabenantiems
 
-keleivius ir (arba) krovinius vietiniais maršrutais, taip pat teikiantiems kitokias
+keleivius ir (arba) krovinius vietiniais maršrutais, taip pat teikiantiems
 
-paslaugas už atlyginimą; laivams, kurie naudojami atliekant valstybės ar
+kitokias paslaugas už atlyginimą; laivams, kurie naudojami atliekant valstybės
 
-savivaldos institucijų funkcijas; laivams, dalyvaujantiems karinėse
+ar savivaldos institucijų funkcijas; laivams, dalyvaujantiems karinėse
 
 tarptautinėse pratybose; žvejybos laivams. Kuro, kuriam taikoma ši lengvata,
 
@@ -1993,25 +2015,25 @@ degalų) kiekis Vyriausybės nustatyta tvarka registruotiems žemės ūkio
 
 subjektams per vienus kalendorinius metus negali viršyti 120 litrų vienam
 
-Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės
 
-naudmenų hektarui bei 275 litrų vienai tonai sugautų ir realizuotų žuvų.
+ūkio naudmenų hektarui bei 275 litrų vienai tonai sugautų ir realizuotų žuvų.
 
 Lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 2. Panaikinus akcizų
 
-mokėjimo laikino atidėjimo režimą arba importuojant kurą, nurodytą šio
+mokėjimo laikino atidėjimo režimą arba importuojant kurą, nurodytą šio straipsnio
 
-straipsnio 1 dalies 1 arba 2 punkte, akcizai neskaičiuojami. Panaikinus akcizų
+1 dalies 1 arba 2 punkte, akcizai neskaičiuojami. Panaikinus akcizų mokėjimo
 
-mokėjimo laikino atidėjimo režimą arba importuojant kurą, skirtą šio straipsnio
+laikino atidėjimo režimą arba importuojant kurą, skirtą šio straipsnio 1 dalies
 
-1 dalies 3 punkte nurodytiems tikslams, akcizai turi būti apskaičiuoti ir
+3 punkte nurodytiems tikslams, akcizai turi būti apskaičiuoti ir sumokėti šio
 
-sumokėti šio Įstatymo nustatyta tvarka, o nurodyta lengvata taikoma įsigijusiam
+Įstatymo nustatyta tvarka, o nurodyta lengvata taikoma įsigijusiam ar
 
-ar importavusiam kurą asmeniui grąžinant akcizus, kuriuos jis sumokėjo šį kurą
+importavusiam kurą asmeniui grąžinant akcizus, kuriuos jis sumokėjo šį kurą
 
 įsigydamas iš tiekėjo (akcizų mokėtojo) arba importuodamas. Šio straipsnio 1
 
@@ -2065,9 +2087,9 @@ BAIGIAMOSIOS NUOSTATOS
 
 Įskaitymas į biudžetą
 
-Akcizai įskaitomi į
+Akcizai įskaitomi į valstybės
 
-valstybės biudžetą.
+biudžetą.
 
 39 straipsnis. Akcizo už kurą, naudojamą žemės ūkyje
 
@@ -2101,9 +2123,9 @@ deklaruotam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, ir
 
 vandenyse sugautų ir realizuotų žuvų.
 
-2. Akcizo grąžinimo tvarką
+2. Akcizo grąžinimo
 
-nustato Vyriausybė ar jos įgaliota institucija.
+tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 40 straipsnis.
 
