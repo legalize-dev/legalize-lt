@@ -4,7 +4,7 @@ identifier: "TAR.EC01522BCE65"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-03"
-last_updated: "2001-07-25"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2001-07-25 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2003-11-04
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
 
@@ -55,7 +55,11 @@ SEIMO KONTROLIERIUS
 
 1. Seimo kontrolieriai tiria piliečių skundus dėl valdžios, valdymo, savivaldos, karinių bei joms prilygintų institucijų pareigūnų piktnaudžiavimo ir biurokratizmo. Karinėms institucijoms prilyginamos Krašto apsaugos ministerija, Vidaus reikalų ministerija, Valstybės saugumo departamentas ir jiems pavaldžios institucijos.
 
-2. Seimo kontrolieriai netiria Respublikos Prezidento, Seimo narių, Ministro Pirmininko, Vyriausybės (kaip kolegialios institucijos), valstybės kontrolieriaus ir Konstitucinio Teismo ir kitų teismų teisėjų veiklos, vietos savivaldybių tarybų (kaip kolegialių institucijų) veiklos, taip pat prokurorų, tardytojų ir kvotėjų procesinių sprendimų teisėtumo ir pagrįstumo.
+2. Seimo kontrolieriai netiria Respublikos Prezidento, Seimo narių, Ministro Pirmininko, Vyriausybės (kaip kolegialios institucijos), valstybės kontrolieriaus ir Konstitucinio Teismo ir kitų teismų teisėjų veiklos, vietos savivaldybių tarybų (kaip kolegialių institucijų) veiklos, taip pat prokurorų, ikiteisminio tyrimo pareigūnų procesinių sprendimų teisėtumo ir pagrįstumo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1432, 2003-04-03, Žin., 2003, Nr. 38-1677 (2003-04-24), i. k. 1031010ISTA0IX-1432
 
 3. Seimo kontrolieriai netiria skundų, kylančių iš darbo teisinių santykių, skundų, kuriuos turi nagrinėti teismas, taip pat netikrina teismų priimtų sprendimų, nuosprendžių ir nutarčių pagrįstumo ir teisėtumo.
 
@@ -259,7 +263,11 @@ Anoniminiai skundai nenagrinėjami, jeigu Seimo kontrolierius nenusprendžia kit
 
 4) skundas tuo pačiu klausimu buvo išnagrinėtas, yra nagrinėjamas teisme arba pagal įstatymus turi būti nagrinėjamas teisme;
 
-5) dėl skundo dalyko yra priimtas procesinis sprendimas iškelti baudžiamąją bylą, atsisakyti iškelti baudžiamąją bylą arba nutraukti baudžiamąją bylą.
+5) dėl skundo dalyko yra priimtas procesinis sprendimas pradėti ikiteisminį tyrimą, atsisakyti pradėti ikiteisminį tyrimą arba nutraukti baudžiamąją bylą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1432, 2003-04-03, Žin., 2003, Nr. 38-1677 (2003-04-24), i. k. 1031010ISTA0IX-1432
 
 2. Jeigu pareiškėjui skundas grąžinamas, turi būti nurodyti atsisakymo jį nagrinėti pagrindai. Tais atvejais, kai skundas nepriskirtas Seimo kontrolierių kompetencijai, atsisakyme nagrinėti nurodoma, į kokią instituciją tuo klausimu galėtų kreiptis pareiškėjas.
 
@@ -297,7 +305,11 @@ Skundas turi būti ištirtas ir pareiškėjui atsakyta per 3 mėnesius nuo skund
 
 1. Seimo kontrolierius, atlikęs tyrimą, gali priimti sprendimą:
 
-1) perduoti medžiagą tardymo organams, kai aptinkami nusikaltimo požymiai;
+1) perduoti medžiagą ikiteisminio tyrimo įstaigai ar prokurorui, kai aptinkami nusikalstamos veikos požymiai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1432, 2003-04-03, Žin., 2003, Nr. 38-1677 (2003-04-24), i. k. 1031010ISTA0IX-1432
 
 2) pareikšti ieškinį teisme dėl kaltų piktnaudžiavimu ar biurokratizmu pareigūnų atleidimo iš užimamų pareigų;
 
@@ -456,4 +468,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
 
 Lietuvos Respublikos valstybės kontrolės įstatymo, Teismų įstatymo, Konstitucinio Teismo įstatymo, Seimo kontrolierių įstatymo, Seimo narių darbo sąlygų įstatymo, Prokuratūros įstatymo, Tarnybos Lietuvos Respublikos prokuratūroje statuto, Moterų ir vyrų lygių galimybių įstatymo, Vaiko teisių apsaugos kontrolieriaus įstatymo pakeitimo ir papildymo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1432, 2003-04-03, Žin., 2003, Nr. 38-1677 (2003-04-24), i. k. 1031010ISTA0IX-1432
+
+Lietuvos Respublikos Seimo kontrolierių įstatymo 4, 19 ir 22 straipsnių pakeitimo įstatymas
 
