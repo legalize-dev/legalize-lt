@@ -4,7 +4,7 @@ identifier: "TAR.77795057FC99"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-04-29"
-last_updated: "1995-01-20"
+last_updated: "1995-10-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.77795057FC99"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 1995-01-20 iki 1995-10-17
+Suvestinė redakcija nuo 1995-10-18 iki 1996-12-03
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 88-0; Žin. 1993, Nr.15-376, i. k. 0931010ISTA000I-140
 
@@ -35,17 +35,29 @@ Straipsnio pakeitimai:
 
 Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA000I-536
 
-3 straipsnis. Muitinė yra juridinis asmuo, turintis savo sąskaitą Lietuvos banke, antspaudą, simboliką ir atributiką.
+3 straipsnis. Muitinė turi savo simboliką ir atributiką.
+
+Straipsnio pakeitimai:
+
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
 
 4 straipsnis. Lietuvos Respublikos muitų teritoriją riboja Lietuvos Respublikos muitų siena, kuri sutampa su Lietuvos Respublikos valstybės siena.
 
-5 straipsnis. Muitinis tikrinimas privalomas visiems juridiniams ir fiziniams asmenims nepaisant jų pilietybės, jeigu kitaip nenustatyta Lietuvos Respublikos įstatymuose ir tarptautiniuose susitarimuose.
+5 straipsnis. Per Lietuvos Respublikos valstybės sieną prekės ir kitos vertybės gabenamos, visų rūšių transporto priemonės bei asmenys (keleiviai) vyksta per muitinės postus.
+
+Visos eksportuojamos, importuojamos ir tranzitu per Lietuvos Respublikos muitų teritoriją gabenamos prekės deklaruojamos ir pateikiamos muitiniam tikrinimui.
 
 Straipsnio pakeitimai:
 
 Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA000I-536
 
-6 straipsnis. Juridinių asmenų ir fizinių asmenų pretenzijas dėl muitinių ir muitinių postų darbuotojų veiksmų sprendžia Muitinės departamento direktorius arba jo pavaduotojai, o dėl šių pareigūnų veiksmų – Lietuvos Respublikos finansų ministerija. Pareiškėjas, nesutinkantis su Finansų ministerijos sprendimu, turi teisę jį apskųsti Lietuvos Respublikos įstatymų nustatyta tvarka.
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
+
+6 straipsnis. Juridinių ir fizinių asmenų pretenzijas dėl teritorinių muitinių ir jų postų pareigūnų bei darbuotojų veiksmų sprendžia teritorinės muitinės viršininkas ar Muitinės departamento direktorius (jo pavaduotojai), kurių sprendimai gali būti apskųsti teismui.
+
+Straipsnio pakeitimai:
+
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
 
 II. MUITINĖS UŽDAVINIAI IR FUNKCIJOS
 
@@ -69,7 +81,7 @@ Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA0
 
 9 straipsnis. Muitinė atlieka tiriamąjį darbą muitinės veiklai gerinti.
 
-10 straipsnis. Muitinė vykdo per Lietuvos Respublikos valstybės sienas ir Lietuvos Respublikos teritoriją gabenamų prekių, kitų vertybių, dokumentų, visų rūšių transporto priemonių ir keleivių muitinį tikrinimą.
+10 straipsnis. Muitinė Vyriausybės nustatyta tvarka prižiūri per Lietuvos Respublikos valstybės sieną ir teritoriją gabenamas prekes, kitas vertybes, jų laikymo vietas ir atlieka muitinės prižiūrimų prekių, kitų vertybių, jas gabenančių transporto priemonių, dokumentų ir keleivių muitinį tikrinimą.
 
 Muitinė konfiskuoja juridinių ir fizinių asmenų neteisėtai gabenamas prekes bei kitas vertybes ir nustatyta tvarka perduoda jas realizuoti.
 
@@ -77,35 +89,43 @@ Muitinė taiko ir kitas muitinės veiklą reglamentuojančiuose įstatymuose bei
 
 Muitinė atlieka ūkio subjektų komercinės ūkinės veiklos, jos apskaitos, finansinės atskaitomybės patikrinimus, susijusius su tų subjektų atliekamomis muitinės procedūromis.
 
-Muitinės procedūras ir jų atlikimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės institucija.
+Muitinės procedūras ir jų atlikimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės institucija. Įsipareigojimų, susijusių su prekėms taikoma muitinės procedūra, vykdymui užtikrinti muitinė gali reikalauti garantijos (užstato), kurios taikymo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 Straipsnio pakeitimai:
 
 Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA000I-536
+
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
 
 11 straipsnis. Muitinė laikosi jos veiklą reglamentuojančių tarptautinių susitarimų.
 
 III. MUITINĖS STRUKTŪRA
 
-12 straipsnis. Muitinės struktūra tokia:
+12 straipsnis. Muitinės struktūra:
 
-Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos,
+Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos;
 
-muitinės ir jų postai.
+teritorinės muitinės, kurios yra juridiniai asmenys, su muitinių postais;
 
-Prie Muitinės departamento yra Muitinės mokykla, kuri rengia Lietuvos Respublikos muitinei darbuotojus, kelia jų kvalifikaciją.
+Muitinės mokykla, laboratorija ir kitos muitinės įstaigos, turinčios juridinio asmens teises, kurias steigia Muitinės departamentas savo uždaviniams bei funkcijoms vykdyti.
 
 Straipsnio pakeitimai:
 
 Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA000I-536
 
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
+
 13 straipsnis. Lietuvos Respublikos muitinės vadovą – Muitinės departamento direktorių skiria ir atleidžia iš pareigų Lietuvos Respublikos Ministras Pirmininkas finansų ministro teikimu. Muitinės departamento direktoriaus pavaduotojus skiria ir atleidžia iš pareigų finansų ministras Muitinės departamento direktoriaus teikimu.
 
-14 straipsnis. Muitinės departamento, muitinių bei muitinių postų pareigūnų ir tarnautojų teises ir pareigas nustato tarnybos muitinėje statutas, kurį tvirtina finansų ministras Muitinės departamento direktoriaus teikimu.
+14 straipsnis. Muitinės pareigūnų priėmimo į tarnybą, atleidimo iš jos, tarnybos sąlygas bei tvarką nustato įstatymo patvirtintas Tarnybos Lietuvos Respublikos muitinėje statutas.
 
-Muitinės pareigūnas, atlikdamas tarnybines pareigas, yra valdžios atstovas. Jam taikomos karinę tarnybą atliekančio asmens valstybinio draudimo sąlygos, jo neliečiamybę, garbę ir orumą gina įstatymai.
+Muitinės pareigūnai, atlikdami tarnybines pareigas, yra valdžios atstovai. Jų gyvybę, sveikatą, garbę ir orumą bei teises gina Lietuvos Respublikos įstatymai.
 
-Muitinės tarnautojai, neturintys valdinių įgaliojimų, nėra valdžios atstovai.
+Muitinės pareigūnams nustatomas šešių mėnesių bandomasis laikotarpis.
+
+Straipsnio pakeitimai:
+
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
 
 15 straipsnis. Vykdydami muitų priežiūros ir kontrolės funkcijas, muitinės pareigūnai dėvi Lietuvos Respublikos Vyriausybės patvirtinto pavyzdžio uniformą.
 
@@ -115,11 +135,17 @@ Straipsnio pakeitimai:
 
 Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA000I-536
 
-16 straipsnis. Muitinės darbuotojo tarnybinio pažymėjimo pavyzdį nustato Lietuvos Respublikos finansų ministerija.
+16 straipsnis. Muitinės pareigūnų teisėti reikalavimai yra privalomi visiems asmenims, įmonėms, įstaigoms ir organizacijoms.
 
-17 straipsnis. Muitinės pareigūnų ir tarnautojų priėmimą į darbą ir atleidimą iš jo nustato tarnybos muitinėje statutas.
+Straipsnio pakeitimai:
 
-Muitinės pareigūnams ir tarnautojams nustatomas šešių mėnesių bandomasis laikotarpis.
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
+
+17 straipsnis. Muitinės pareigūnas, padaręs šiurkštų tarnybinį pažeidimą ar nusikaltimą, Tarnybos Lietuvos Respublikos muitinėje statuto nustatytais atvejais ir tvarka Muitinės departamento direktoriaus įsakymu gali būti nušalintas nuo pareigų iki bus priimtas atitinkamas sprendimas.
+
+Straipsnio pakeitimai:
+
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
 
 18 straipsnis. Dirbti muitinėje savanoriškumo ir atrankos pagrindu priimami 20 metų sukakę Lietuvos Respublikos piliečiai, mokantys valstybinę kalbą, sustabdę narystę politinėse organizacijose visam tarnybos ar darbo laikui ir pagal pasiruošimą tinkantys šiai tarnybai.
 
@@ -131,29 +157,81 @@ IV. BENDRADARBIAVIMAS SU VALSTYBINĖMIS IR VISUOMENINĖMIS
 
 ORGANIZACIJOMIS, ŽINYBOMIS, PILIEČIAIS
 
-19 straipsnis. Vykdydama savo funkcijas, Lietuvos Respublikos muitinė bendradarbiauja su policija, vidaus reikalų ir saugumo institucijomis, Lietuvos Respublikos krašto apsaugos ministerijos Valstybės sienos apsaugos tarnyba, Lietuvos Respublikos prokuratūra ir kitų valstybių muitinės institucijomis.
+19 straipsnis. Vykdydama savo funkcijas, Lietuvos Respublikos muitinė bendradarbiauja su policija, vidaus reikalų ir saugumo institucijomis, Pasienio policijos departamentu prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos prokuratūra ir kitų valstybių muitinės institucijomis.
 
-20 straipsnis. Lietuvos Respublikos Vyriausybės nustatyta tvarka muitinės darbuotojai skatinami už sėkmingą kovą prieš kontrabandą ir kitus muitų taisyklių pažeidimus, taip pat už vertybių – valstybės nacionalinio turto – grąžinimą Lietuvos Respublikai.
+Straipsnio pakeitimai:
+
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
+
+20 straipsnis. Lietuvos Respublikos Vyriausybės nustatyta tvarka muitinės pareigūnai ir kiti darbuotojai skatinami už sėkmingą kovą prieš kontrabandą ir kitus muitų taisyklių pažeidimus, taip pat už vertybių – valstybės nacionalinio turto – grąžinimą Lietuvos Respublikai.
 
 Straipsnio pakeitimai:
 
 Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA000I-536
 
-21 straipsnis. Muitinė turi teisę atkreipti valstybinių, visuomeninių, kooperatinių, privačių įmonių, įstaigų, organizacijų vadovų ar kitų pareigūnų dėmesį į aplinkybes ir sąlygas, sudarančias galimybę pažeisti muitinės veiklą reglamentuojančius įstatymus ir kitus norminius aktus. Muitinės reikalavimus privalo vykdyti įmonių, įstaigų, organizacijų vadovai ir pareigūnai. Apie muitinės reikalavimų įvykdymą valstybinės, visuomeninės, kooperatinės, privačios įmonės, įstaigos, organizacijos per vieną mėnesį praneša muitinei.
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
+
+21 straipsnis. Muitinė turi teisę reikalauti informacijos ir atkreipti valstybinių, visuomeninių, kooperatinių, privačių įmonių, įstaigų, organizacijų vadovų ar kitų pareigūnų dėmesį į aplinkybes ir sąlygas, sudarančias galimybę pažeisti muitinės veiklą reglamentuojančius įstatymus ir kitus norminius aktus. Muitinės reikalavimus privalo vykdyti įmonių, įstaigų, organizacijų vadovai ir pareigūnai. Apie muitinės reikalavimų įvykdymą valstybinės, visuomeninės, kooperatinės, privačios įmonės, įstaigos, organizacijos per vieną mėnesį praneša muitinei.
 
 Straipsnio pakeitimai:
 
 Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA000I-536
 
-22 straipsnis. Neapmuitinama parduotuvė – muitinės kontroliuojama parduotuvė, esanti tarptautiniame aerouoste, tarptautiniame jūrų uoste arba Lietuvos Respublikos pasienio muitinės veiklos zonoje, kurioje išvykstantys į užsienį keleiviai gali įsigyti neapmokestintų muitais prekių.
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
 
-Neapmuitinamas parduotuves steigia ir likviduoja Lietuvos Respublikos Vyriausybė atskiru nutarimu.
+22 straipsnis.
 
-23 straipsnis. Muitinės sandėlis – išskirta Lietuvos Respublikos teritorijos dalis, kurioje muitinei kontroliuojant saugomos prekės, už kurias nesumokėti importo mokesčiai.
+Tarptautiniuose aerouostuose, tarptautiniame jūrų uoste ir Lietuvos Respublikos valstybės sienos perėjimo punktuose gali būti įsteigtos neapmuitinamos parduotuvės – muitinės prižiūrimos parduotuvės, kuriose vykstantys iš Lietuvos Respublikos į užsienį keleiviai gali įsigyti neapmokestintų importo muitais ir mokesčiais prekių. Neapmuitinamų parduotuvių steigimo ir veiklos tvarką reglamentuoja įstatymas.
 
-Muitinės sandėlius gali steigti visi juridiniai ir fiziniai asmenys Lietuvos Respublikos Vyriausybės ar jos įgaliotos valstybinės institucijos nustatyta tvarka.
+Straipsnio pakeitimai:
 
-VI. BAIGIAMOSIOS NUOSTATOS
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
+
+23 straipsnis. Lietuvos Respublikos Vyriausybės nustatyta tvarka gali būti steigiami muitinės sandėliai bei importo ir eksporto terminalai (laikinieji prekių saugojimo sandėliai).
+
+Straipsnio pakeitimai:
+
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
+
+6 skyrius. Neteko galios nuo 1995-10-18
+
+Skyriaus naikinimas:
+
+Nr. I-1058, 1995-10-04, Žin. 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+Vilnius, 1993 m. balandžio 29 d.
+
+Nr. I-140
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-536, 1994-07-12, Žin., 1994, Nr. 58-1129 (1994-07-29), i. k. 0941010ISTA000I-536
+
+Dėl Lietuvos Respublikos muitinės įstatymo pakeitimo ir papildymo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-752, 1995-01-12, Žin., 1995, Nr. 7-141 (1995-01-20), i. k. 0951010ISTA000I-752
+
+Dėl Lietuvos Respublikos muitinės įstatymo ir Civilinio kodekso pakeitimo ir papildymo
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1058, 1995-10-04, Žin., 1995, Nr. 85-1917 (1995-10-18), i. k. 0951010ISTA00I-1058
+
+Dėl Lietuvos Respublikos muitinės įstatymo pakeitimo ir papildymo
 
 24 straipsnis. Lietuvos Respublikos muitinės įstatymas galioja iki 1993 m. gegužės 30 dienos. Po 1993 m. gegužės 30 d. Lietuvos Respublikos muitinės įstatymas galioja, jei finansų ministras įstatymo nustatyta tvarka patvirtins tarnybos muitinėje statutą ir muitinės taisykles.
 
