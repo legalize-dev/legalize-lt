@@ -4,7 +4,7 @@ identifier: "TAR.33EF5237F20D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2000-10-01"
+last_updated: "2000-10-11"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.33EF5237F20D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,18 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įsigaliojimo data pakeista 2000-09-26 Įstatymu Nr. VIII-1966"
 ---
 # Lietuvos Respublikos muitinės kodekso 2, 38, 39, 113, 125, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 178, 186, 189, 221 straipsnių pakeitimo ir papildymo ir XII skyriaus pirmojo skirsnio pavadinimo pakeitimo įstatymas
+
+Įstatymas netenka galios 2004-05-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2184, 2004-04-27, Žin., 2004, Nr. 73-2518 (2004-04-30), i. k. 1041010ISTA0IX-2184
+
+Lietuvos Respublikos muitinės kodekso ir jį keitusių įstatymų pripažinimo netekusiais galios įstatymas
+
+Suvestinė redakcija nuo 2000-10-11 iki 2004-04-30
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 75-2269, i. k. 1001010ISTAIII-1902
 
 LIETUVOS RESPUBLIKOS
 
@@ -258,9 +270,23 @@ Muitinė kontroliuoja, ar laikomasi taisyklių, reglamentuojančių prekių eksp
 
 25 straipsnis. Įstatymo įsigaliojimas
 
-Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d.
+Šis įstatymas įsigalioja nuo 2000 m. spalio 1 d.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1966, 2000-09-26, Žin., 2000, Nr. 85-2587 (2000-10-11), i. k. 1001010ISTAIII-1966
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1966, 2000-09-26, Žin., 2000, Nr. 85-2587 (2000-10-11), i. k. 1001010ISTAIII-1966
+
+Lietuvos Respublikos muitinės kodekso 2, 38, 39, 113, 125, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 178, 186, 189, 221 straipsnių pakeitimo ir papildymo ir XII skyriaus pirmojo skirsnio pavadinimo pakeitimo įstatymo 25 straipsnio pakeitimo įstatymas
 
