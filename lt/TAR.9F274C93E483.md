@@ -4,7 +4,7 @@ identifier: "TAR.9F274C93E483"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-06-10"
-last_updated: "2004-01-01"
+last_updated: "2004-02-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F274C93E483"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2003-06-10"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas
+
+Suvestinė redakcija nuo 2004-02-14 iki 2007-12-31
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 61-2760, i. k. 1031010ISTA0IX-1607
 
 LIETUVOS RESPUBLIKOS
 
@@ -55,7 +59,11 @@ Specialiosios programos finansavimo šaltiniai:
 
 1) priemonėms, kuriomis kompensuojama aplinkai padaryta žala, gamtosaugos objektams projektuoti, statyti, rekonstruoti, remontuoti, eksploatuoti, aplinkos teršimo šaltiniams pašalinti (ne mažiau kaip 70 procentų Specialiosios programos lėšų, neįskaitant įplaukų pagal 3 straipsnio 2 punktą);
 
-2) gyventojų sveikatos apsaugai (20 procentų Specialiosios programos lėšų, neįskaitant įplaukų pagal 3 straipsnio 2 punktą);
+2) savivaldybės visuomenės sveikatos rėmimo specialiajai programai (20 procentų Specialiosios programos lėšų, neįskaitant įplaukų pagal 3 straipsnio 2 punktą);
+
+Straipsnio punkto pakeitimai:
+
+Nr. IX-1981, 2004-01-27, Žin., 2004, Nr. 25-754 (2004-02-14), i. k. 1041010ISTA0IX-1981
 
 3) finansiškai remti miško sklypų, kuriuose medžioklė nėra uždrausta, savininkus, valdytojus ir naudotojus, įgyvendinančius žalos prevencijos priemones, kuriomis jie siekia išvengti medžiojamųjų gyvūnų daromos žalos miškui (želdinių apdorojimas repelentais, aptvėrimas tvoromis ar apsauginėmis juostomis, želdinių, gerinančių laukinių gyvūnų natūralias mitybos sąlygas, veisimas ir kitos priemonės), įsigyti kartografinę ir kitą medžiagą, reikalingą pagal Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti – įplaukos pagal 3 straipsnio 2 punktą;
 
@@ -84,4 +92,14 @@ Specialiosios programos finansavimo šaltiniai:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1981, 2004-01-27, Žin., 2004, Nr. 25-754 (2004-02-14), i. k. 1041010ISTA0IX-1981
+
+Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo Specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas
 
