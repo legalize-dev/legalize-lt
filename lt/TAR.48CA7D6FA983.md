@@ -4,7 +4,7 @@ identifier: "TAR.48CA7D6FA983"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-20"
-last_updated: "2000-09-19"
+last_updated: "2001-04-19"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.48CA7D6FA983"
 department: "Lietuvos Respublikos Seimas"
@@ -882,9 +882,27 @@ skyrimo tvarką nustato Lietuvos Respublikos įstatymai, Vyriausybės nutarimai
 
 bei Saugumo departamento statutas.
 
-28 straipsnis. Saugumo departamento
+[27 straipsnio 2 dalies redakcija nuo
 
-pareigūnų ištarnautas laikas
+2001 m. liepos 1 d:
+
+Tarnybinio atlyginimo, papildomo apmokėjimo, priedų,
+
+kompensacijų, pašalpų ir kitų išmokų dydį bei skyrimo tvarką nustato Lietuvos
+
+Respublikos įstatymai.]
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-267, 2001 04 19, Žin., 2001, Nr.
+
+39-1338 (2001 05 09), įsigalioja nuo 2001 07 01
+
+28 straipsnis. Saugumo
+
+departamento pareigūnų ištarnautas laikas
 
 Į Saugumo departamento
 
@@ -922,9 +940,9 @@ reikalų, krašto apsaugos ir kitose statutiniais pagrindais veikiančiose mokym
 
 numatytas pareigas ir jas ėjo;
 
-5) darbo teisėjais, prokurorais,
+5) darbo teisėjais,
 
-jų pavaduotojais ir tardytojais laikas;
+prokurorais, jų pavaduotojais ir tardytojais laikas;
 
 6) tarnyba Lietuvos
 
@@ -944,19 +962,19 @@ Straipsnio
 
 pakeitimai:
 
-Nr.1-694,
+Nr.I-694, 94.12.13,
 
-94.12.13, Žin., 1994, Nr.99-1959
+Žin., 1994, Nr.99-1959
 
 29 straipsnis. Saugumo
 
 departamento pareigūnų pensijos
 
-Saugumo departamento pareigūnų
+Saugumo departamento
 
-aprūpinimo pensijomis tvarką reguliuoja atskiras atitinkamų tarnybų pareigūnų
+pareigūnų aprūpinimo pensijomis tvarką reguliuoja atskiras atitinkamų tarnybų
 
-pensinio aprūpinimo įstatymas.
+pareigūnų pensinio aprūpinimo įstatymas.
 
 30 straipsnis. Saugumo
 
@@ -996,17 +1014,17 @@ Saugumo departamento
 
 pareigūno, žuvusio ryšium su tarnyba, šeimai išmokama vienkartinė dešimties
 
-metų (120 mėnesių) darbo užmokesčio dydžio kompensacija. Jis laidojamas
+metų (120 mėnesių) darbo užmokesčio dydžio kompensacija. Jis laidojamas valstybės
 
-valstybės lėšomis.
+lėšomis.
 
 Saugumo departamento
 
 pareigūnui, sužeistam ryšium su tarnyba, išmokama iki penkerių metų (iki 60
 
-mėnesių) darbo užmokesčio dydžio kompensacija, atsižvelgiant į kūno sužalojimų sunkumo
+mėnesių) darbo užmokesčio dydžio kompensacija, atsižvelgiant į kūno sužalojimų
 
-laipsnį.
+sunkumo laipsnį.
 
 Saugumo departamento
 
@@ -1032,11 +1050,11 @@ Saugumo departamento
 
 pareigūnai aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-Lietuvos Respublikos Vyriausybės
+Lietuvos Respublikos
 
-nustatyta tvarka atskirų Saugumo departamento padalinių pareigūnams gali būti
+Vyriausybės nustatyta tvarka atskirų Saugumo departamento padalinių pareigūnams
 
-suteikti tarnybiniai butai.
+gali būti suteikti tarnybiniai butai.
 
 34 straipsnis. Kitos Saugumo
 
@@ -1184,9 +1202,27 @@ VALSTYBĖS SAUGUMO DEPARTAMENTO ĮSTATYMO 7, 8 IR 19
 
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-267, 2001 04 19, Žin., 2001, Nr.
+
+39-1338 (2001 05 09)
+
+VALSTYBĖS SAUGUMO DEPARTAMENTO ĮSTATYMO 27 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2001 m. liepos 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.10.04)
+Redagavo: Aušrinė Trapinskienė (2001 05 16)
+
+autrap@lrs.lt
 
 16 straipsnis. Nušalinimas
 
