@@ -4,7 +4,7 @@ identifier: "TAR.39D96F1C8B69"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-03-25"
-last_updated: "1997-07-01"
+last_updated: "2003-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.39D96F1C8B69"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos narkologinės priežiūros įstatymas
+
+Suvestinė redakcija nuo 2003-05-01 iki 2004-04-28
+
+Įstatymas paskelbtas: Žin. 1997, Nr. 30-711, i. k. 0971010ISTAVIII-156
 
 LIETUVOS RESPUBLIKOS
 
@@ -88,7 +92,11 @@ NARKOLOGINĖS PRIEŽIŪROS PAGRINDAI
 
 6 straipsnis. Informacijos apie narkologinius ligonius teikimas
 
-Informaciją apie narkologinių ligonių, asmenų, piktnaudžiaujančių psichiką veikiančiomis medžiagomis, sveikatos būklę, jos prognozes, suteiktas asmens sveikatos priežiūros paslaugas teikia asmens sveikatos priežiūros įstaigos. Ši informacija Sveikatos apsaugos ministerijos nustatyta tvarka teikiama pagal raštiškas užklausas sveikatos priežiūros įstaigoms, parengtinio tyrimo įstaigoms, prokuratūrai, teismui, perspėjant apie atsakomybę už informacijos apie paciento asmens sveikatą konfidencialumo pažeidimą.
+Informaciją apie narkologinių ligonių, asmenų, piktnaudžiaujančių psichiką veikiančiomis medžiagomis, sveikatos būklę, jos prognozes, suteiktas asmens sveikatos priežiūros paslaugas teikia asmens sveikatos priežiūros įstaigos. Ši informacija Sveikatos apsaugos ministerijos nustatyta tvarka teikiama pagal raštiškas užklausas sveikatos priežiūros įstaigoms, ikiteisminio tyrimo įstaigoms, prokuratūrai, teismui, perspėjant apie atsakomybę už informacijos apie paciento asmens sveikatą konfidencialumo pažeidimą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1467, 2003-04-03, Žin., 2003, Nr. 38-1712 (2003-04-24), i. k. 1031010ISTA0IX-1467
 
 7 straipsnis. Narkologinių ligonių priverstinis hospitalizavimas
 
@@ -208,7 +216,11 @@ Sveikatos priežiūros įstaigos narkologinės priežiūros srityje:
 
 3. Medicininės apžiūros neblaivumui (girtumui) ar apsvaigimui nuo psichiką veikiančių medžiagų nustatyti atlikimo metodiką tvirtina Sveikatos apsaugos ministerija.
 
-4. Medicininė apžiūra neblaivumui (girtumui) ar apsvaigimui nuo psichiką veikiančių medžiagų nustatyti atliekama esant policijos, kvotos, tardymo organų, prokuratūros, teismo, darbdavio sprendimui ar paties paciento iniciatyva.
+4. Medicininė apžiūra neblaivumui (girtumui) ar apsvaigimui nuo psichiką veikiančių medžiagų nustatyti atliekama esant policijos, ikiteisminio tyrimo įstaigų, prokuratūros, teismo, darbdavio sprendimui ar paties paciento iniciatyva.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-1467, 2003-04-03, Žin., 2003, Nr. 38-1712 (2003-04-24), i. k. 1031010ISTA0IX-1467
 
 5. Įstatymų nustatytais atvejais asmenis dėl neblaivumo (girtumo) gali tikrinti policija.
 
@@ -347,4 +359,14 @@ Vyriausybė ir Sveikatos apsaugos ministerija iki 1997 m. liepos 1 d. priima tei
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1467, 2003-04-03, Žin., 2003, Nr. 38-1712 (2003-04-24), i. k. 1031010ISTA0IX-1467
+
+Lietuvos Respublikos narkologinės priežiūros įstatymo 6 ir 14 straipsnių pakeitimo įstatymas
 
