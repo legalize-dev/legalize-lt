@@ -4,7 +4,7 @@ identifier: "TAR.2FDA07C253CC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-09-25"
-last_updated: "1993-07-23"
+last_updated: "1993-07-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2FDA07C253CC"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybinių įmonių įstatymas
 
-Suvestinė redakcija nuo 1993-07-23 iki 1993-07-27
+Suvestinė redakcija nuo 1993-07-28 iki 1993-09-28
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 92-0; Žin. 1990, Nr.30-709, i. k. 0901010ISTA000I-604
 
@@ -110,9 +110,15 @@ Nr. I-219, 1993-07-14, Žin., 1993, Nr. 31-710 (1993-07-23), i. k. 0931010ISTA00
 
 14) sudaryti gamybos, realizavimo, mokslinių tyrimų, konstravimo ir eksperimentinių darbų bei kitas ūkines sutartis;
 
-15) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus, darbo apmokėjimo sistemas, išskyrus tuos atvejus, kai pagal Lietuvos Respublikos įstatymus kainas ir kitus normatyvus reguliuoja valstybė (vietos savivaldybė).
+15) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus, darbo apmokėjimo sistemas, išskyrus tuos atvejus, kai pagal Lietuvos Respublikos įstatymus kainas ir kitus normatyvus reguliuoja valstybė (vietos savivaldybė);
+
+16) Steigti konsorciumus tais atvejais, kai jie steigiami kaip tikrosios ar ūkinės bendrijos.
 
 Įmonė taip pat gali turėti kitokias, šio įstatymo nenumatytas, civilines teises ir pareigas, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams bei įmonės įstatams.
+
+Papildyta straipsnio punktu:
+
+Nr. I-232, 1993-07-15, Žin., 1993, Nr. 32-730 (1993-07-28), i. k. 0931010ISTA000I-232
 
 2. Įmonės komercinę-ūkinę veiklą valstybė gali reguliuoti tik ekonominėmis priemonėmis: subsidijomis, palūkanų normomis už įmonės turimo valstybinio kapitalo naudojimą, valstybės finansuojamais užsakymais (kontraktais) ir kitomis ekonominėmis priemonėmis. VĮ, veikiančių transporto ir ryšių šakose, kuro ir energetikos sistemoje, komunaliniame ūkyje, steigėjas turi teisę nustatyti joms privalomus darbus, taip pat reikalavimus jų kokybei. Tai gali būti taikoma ir VAĮ, jei su ja sudaryta sutartis ir jai išduotas atitinkamas leidimas ūkinei veiklai.
 
@@ -205,6 +211,12 @@ II skirsnis
 7. Jeigu įmonė likviduojama ar reorganizuojama akcininkams pareikalavus išpirkti (sugrąžinti) iš VĮ ar VAĮ akcinį kapitalą, taikomos šio įstatymo nustatytos taisyklės, reglamentuojančios akcinio kapitalo sumažinimą.
 
 8. Jeigu VĮ likviduojama ar reorganizuojama Lietuvos Respublikos Vyriausybės (vietos savivaldybės tarybos) sprendimu, valstybė (vietos savivaldybė) privalo per 6 mėnesius nuo įmonės likvidavimo dienos atlyginti akcininkams, darbuotojams bei kitiems fiziniams ar juridiniams asmenims už jų turtą, kurį šie buvo investavę į įmonę.
+
+9. Lietuvos Respublikos Vyriausybės (vietos savivaldybės) sprendimu valstybinės ir valstybinės akcinės įmonės gali būti reorganizuojamos į valstybines akcines bendroves.
+
+Papildyta straipsnio dalimi:
+
+Nr. I-232, 1993-07-15, Žin., 1993, Nr. 32-730 (1993-07-28), i. k. 0931010ISTA000I-232
 
 III skirsnis
 
@@ -759,4 +771,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-219, 1993-07-14, Žin., 1993, Nr. 31-710 (1993-07-23), i. k. 0931010ISTA000I-219
 
 Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-232, 1993-07-15, Žin., 1993, Nr. 32-730 (1993-07-28), i. k. 0931010ISTA000I-232
+
+Dėl Lietuvos Respublikos valstybinių įmonių įstatymo papildymo
 
