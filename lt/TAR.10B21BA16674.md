@@ -4,7 +4,7 @@ identifier: "TAR.10B21BA16674"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-17"
-last_updated: "1999-10-07"
+last_updated: "2000-01-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.10B21BA16674"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ Projektas priėmimui Nr.
 
 Redagavo: Ramunė
 
-Lūžaitė (1999.10.22)
+Lūžaitė (2000.01.20)
 
 Įstatymas paskelbtas: Žin., 1998, Nr.115-3236
 
@@ -40,6 +40,18 @@ Nr. VIII-1352, 99.10.07, Žin., 1999, Nr.89-2618
 LIETUVOS RESPUBLIKOS ĮSTATYMO ,,DĖL UŽSIENIEČIŲ TEISINĖS
 
 PADĖTIES” 5, 7, 10, 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1518, 00.01.04, Žin., 2000, Nr.5-125 (00.01.19)
+
+LIETUVOS RESPUBLIKOS ĮSTATYMO DĖL
+
+UŽSIENIEČIŲ TEISINĖS PADĖTIES 19 IR 26 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO
+
+ĮSTATYMAS
 
 *** Pabaiga ***
 
@@ -205,9 +217,11 @@ kontrolės punkte užsienietis privalo pateikti galiojantį kelionės dokumentą
 
 3. Užsieniečių
 
-kelionės dokumentų kontrolę turi teisę atlikti oro laivų bei jūros laivų kapitonai
+kelionės dokumentų kontrolę turi teisę atlikti oro laivų bei jūros laivų
 
-arba jų įgalioti asmenys iki užsieniečių atvykimo į Lietuvos Respubliką.
+kapitonai arba jų įgalioti asmenys iki užsieniečių atvykimo į Lietuvos
+
+Respubliką.
 
 5 straipsnis.
 
@@ -241,9 +255,9 @@ Nr. VIII-1352, 99.10.07, Žin., 1999, Nr.89-2618
 
 (99.10.22)
 
-6 straipsnis. Nepilnamečių
+6 straipsnis.
 
-vaikų atvykimas
+Nepilnamečių vaikų atvykimas
 
 Vaikai iki 18
 
@@ -297,9 +311,9 @@ gyventojų sveikatai bei dorovei;
 
 7) paaiškėja,
 
-kad pateikdamas prašymą atvykti užsienietis pateikė apie save tikrovės neatitinkančius
+kad pateikdamas prašymą atvykti užsienietis pateikė apie save tikrovės
 
-duomenis;
+neatitinkančius duomenis;
 
 8) jis yra
 
@@ -421,9 +435,9 @@ prašymas išduoti leidimą gyventi Lietuvos Respublikoje turi būti išnagrinė
 
 1) dėl leidimo
 
-laikinai apsigyventi Lietuvos Respublikoje - ne vėliau kaip per 3 mėnesius nuo prašymo
+laikinai apsigyventi Lietuvos Respublikoje - ne vėliau kaip per 3 mėnesius nuo
 
-pateikimo dienos;
+prašymo pateikimo dienos;
 
 2) dėl leidimo
 
@@ -477,13 +491,13 @@ gyventi Lietuvos Respublikoje užsieniečiui neišduodamas, jeigu:
 
 1) užsieniečio
 
-gyvenimas Lietuvos Respublikoje grėstų jos saugumui, viešajai tvarkai, gyventojų
+gyvenimas Lietuvos Respublikoje grėstų jos saugumui, viešajai tvarkai,
 
-sveikatai ir dorovei;
+gyventojų sveikatai ir dorovei;
 
-2) duomenys,
+2) duomenys, kuriuos
 
-kuriuos apie save pateikė užsienietis, neatitinka tikrovės;
+apie save pateikė užsienietis, neatitinka tikrovės;
 
 3) jam uždrausta
 
@@ -503,11 +517,11 @@ leidimo laikinai apsigyventi išdavimo atveju).
 
 kuriam atsisakyta išduoti leidimą gyventi Lietuvos Respublikoje, gali
 
-pakartotinai pateikti prašymą praėjus ne mažiau kaip vieneriems metams nuo sprendimo
+pakartotinai pateikti prašymą praėjus ne mažiau kaip vieneriems metams nuo
 
-priėmimo arba išnykus priežastims, dėl kurių buvo atsisakyta išduoti tokį
+sprendimo priėmimo arba išnykus priežastims, dėl kurių buvo atsisakyta išduoti
 
-leidimą.
+tokį leidimą.
 
 Straipsnio pakeitimai:
 
@@ -517,9 +531,9 @@ Nr. VIII-1352, 99.10.07, Žin., 1999, Nr.89-2618
 
 15
 
-straipsnis. Užsieniečio, turinčio leidimą gyventi Lietuvos Respublikoje,  judėjimo
+straipsnis. Užsieniečio, turinčio leidimą gyventi Lietuvos Respublikoje,
 
-laisvė
+judėjimo laisvė
 
 1. Leidimas
 
@@ -601,9 +615,9 @@ tapatybę ar pilietybę patvirtinančius duomenis.
 
 4. Įstaiga arba
 
-darbdavys ne vėliau kaip per 7 dienas privalo informuoti Vidaus reikalų
+darbdavys ne vėliau kaip per 7 dienas privalo informuoti Vidaus reikalų ministeriją
 
-ministeriją ar jos įgaliotą instituciją apie užsienietį šiais atvejais:
+ar jos įgaliotą instituciją apie užsienietį šiais atvejais:
 
 1) darbdavys -
 
@@ -661,13 +675,11 @@ registrą tvarko Vidaus reikalų ministerija ar jos įgaliota institucija.
 
 IV SKYRIUS
 
-LAIKINAS UŽSIENIEČIŲ
+LAIKINAS
 
-APSIGYVENIMAS
+UŽSIENIEČIŲ APSIGYVENIMAS
 
-LIETUVOS
-
-RESPUBLIKOJE
+LIETUVOS RESPUBLIKOJE
 
 18 straipsnis.
 
@@ -745,19 +757,27 @@ tvarka įregistruoja užsienio kapitalo įmonę, kurios įstatinis kapitalas ar
 
 turimų akcijų vertė yra ne mažesnė kaip 250 000 litų;
 
-3) atvyksta į
+3) atvyksta į Lietuvos Respubliką
 
-Lietuvos Respubliką vykdyti mokslinių tyrimų ar dirbti pedagoginio darbo mokslo
+dirbti aukštosiose mokyklose, mokslo ar mokymo įstaigose mokslinio arba
 
-ar mokymo įstaigose;
+pedagoginio darbo;
 
 4) priimti
 
 mokytis mokymo įstaigoje arba kelti kvalifikaciją Lietuvos Respublikoje;
 
-5) gavo leidimą
+5) gavo leidimą dirbti
 
-dirbti Lietuvos Respublikoje.
+Lietuvos Respublikoje;
+
+6) yra studentai, atvykstantys stažuoti ar dirbti į
+
+Lietuvos Respubliką pagal visuomeninių (nevyriausybinių) organizacijų vykdomas
+
+tarptautines mainų stažuotėmis programas vienerių metų laikotarpiui. Šį
+
+laikotarpį galima pratęsti dar 6 mėnesius.
 
 3. Leidimas
 
@@ -774,6 +794,10 @@ nariai ir jų visiškai išlaikomi asmenys (vaikai iki 18 metų ir asmenys,
 nedarbingi dėl amžiaus arba invalidumo) turi teisę kartu laikinai apsigyventi
 
 Lietuvos Respublikoje.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1518, 00.01.04, Žin., 2000, Nr.5-125 (00.01.19)
 
 20
 
@@ -857,7 +881,9 @@ UŽSIENIEČIŲ
 
 NUOLATINIS GYVENIMAS
 
-LIETUVOS RESPUBLIKOJE
+LIETUVOS
+
+RESPUBLIKOJE
 
 22 straipsnis.
 
@@ -893,13 +919,11 @@ nariams, kai jie persikelia nuolat gyventi į Lietuvos Respubliką.
 
 3.
 
-Užsieniečiams, nurodytiems šio įstatymo 19 straipsnio 2 ir 3 dalyse ir
+Užsieniečiams, nurodytiems šio įstatymo 19 straipsnio 2 ir 3 dalyse ir atitinkantiems
 
-atitinkantiems šio straipsnio 1 dalyje numatytas sąlygas, leidimai nuolat
+šio straipsnio 1 dalyje numatytas sąlygas, leidimai nuolat gyventi Lietuvos
 
-gyventi Lietuvos Respublikoje išduodami atsižvelgiant į Lietuvos Respublikos
-
-interesus.
+Respublikoje išduodami atsižvelgiant į Lietuvos Respublikos interesus.
 
 23
 
@@ -1001,7 +1025,7 @@ nuolat gyventi Lietuvos Respublikoje;
 
 laikinai apsigyventi Lietuvos Respublikoje, išduotą pagal šio įstatymo 19
 
-straipsnio 1 dalies 1-4 punktus;
+straipsnio 1 dalies 1-4 punktus bei 19 straipsnio 2 dalies 1-3 punktus;
 
 3) nori
 
@@ -1025,7 +1049,29 @@ užsienio kapitalu vadovas arba jo įgaliotas atstovas, specialistas, kuris
 
 atvyksta paleisti, derinti užsienyje įgytų įrengimų ar mokyti jais dirbti
 
-darbuotojus, konsultantas, kuris atvyksta dirbti ne ilgiau kaip 3 mėnesius.
+darbuotojus, konsultantas, kuris atvyksta dirbti ne ilgiau kaip 3 mėnesius;
+
+7) atvyksta
+
+į Lietuvos Respubliką dirbti mokslo įstaigose ar aukštosiose mokyklose
+
+mokslinių tyrimų arba pedagoginio darbo ne ilgesniam kaip 90 dienų
+
+laikotarpiui;
+
+8) yra
+
+studentas, atvykstantis stažuoti ar dirbti į Lietuvos Respubliką pagal
+
+visuomeninių (nevyriausybinių) organizacijų vykdomas tarptautines mainų
+
+stažuotėmis programas vienerių metų laikotarpiui. Šį laikotarpį galima pratęsti
+
+dar 6 mėnesius.
+
+Straipsnio pakeitimai:
+
+Nr. VIII-1518, 00.01.04, Žin., 2000, Nr.5-125 (00.01.19)
 
 27 straipsnis.
 
@@ -1113,9 +1159,7 @@ darbo biržai, kuri per 2 savaites patikrina, ar užsienietis įsidarbina pagal
 
 5. Užsieniečio
 
-darbo santykius reglamentuoja Lietuvos Respublikos darbo įstatymai ir šis
-
-įstatymas.
+darbo santykius reglamentuoja Lietuvos Respublikos darbo įstatymai ir šis įstatymas.
 
 31 straipsnis.
 
@@ -1247,9 +1291,9 @@ kurių užsieniečio išsiuntimas iš Lietuvos Respublikos gali būti atidėtas
 
 užsienietį iš šalies gali būti atsižvelgiama į jo:
 
-1) teisėto
+1) teisėto buvimo
 
-buvimo šalyje laiką;
+šalyje laiką;
 
 2) socialinius,
 
