@@ -4,7 +4,7 @@ identifier: "TAR.D72EC8D26124"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-10-05"
-last_updated: "2000-09-26"
+last_updated: "2000-10-10"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D72EC8D26124"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -6666,6 +6666,20 @@ savivaldybių ir tarptautinių finansinių organizacijų, kurių narė yra Lietu
 
 Respublika, vertybinius popierius antrinėje rinkoje.
 
+[Straipsnis
+
+papildomas2 dalimi nuo2001 m. sausio 1 d.:
+
+Kaimo
+
+turizmo paslaugą kaimo vietovėse teikiantys ūkininkai ar individualių namų
+
+savininkai, kuriems pirmą kartą išduodami patentai apgyvendinimo paslaugoms
+
+teikti, penkerius metus paeiliui nuo patento išdavimo dienos patento mokesčio
+
+nemoka.]
+
 * Pastaba.
 
 Pajamų mokestis, apskaičiuotas nuo savininkams (pajininkams) grąžintų įnašų
@@ -6757,6 +6771,10 @@ Nr.109-3174 (99.12.24)
 Nr. VIII-1813, 00.07.11, Žin., 2000,
 
 Nr.64-1911 (00.07.31)
+
+Nr. VIII-1983, 00.10.10, Žin., 2000, Nr.89-2747
+
+(00.10.25), įsigalioja nuo 2001.01.01
 
 36
 
@@ -7066,11 +7084,11 @@ Jei valstybinė
 
 mokesčių inspekcija nustato, kad gyventojo pajamos už parduotą turtą viršija 1
 
-PNM per mėnesį arba gyventojas pardavė per metus ne vieną tos pačios rūšies daiktą
+PNM per mėnesį arba gyventojas pardavė per metus ne vieną tos pačios rūšies
 
-skirtingoms arba toms pačioms įmonėms, įstaigoms ar organizacijoms (arba per
+daiktą skirtingoms arba toms pačioms įmonėms, įstaigoms ar organizacijoms (arba
 
-jas), bet nepranešė joms apie tai ir dėl to nesumokėjo pajamų mokesčio, iš
+per jas), bet nepranešė joms apie tai ir dėl to nesumokėjo pajamų mokesčio, iš
 
 mokėtojo išieškoma nuo jam išmokėtos sumos apskaičiuota pajamų mokesčio suma ir
 
@@ -7222,9 +7240,9 @@ straipsnis.
 
 Savivaldybių
 
-tarybos turi teisę savo biudžeto sąskaita mažinti pajamų mokestį arba iš viso nuo
+tarybos turi teisę savo biudžeto sąskaita mažinti pajamų mokestį arba iš viso
 
-jo atleisti paskirus asmenis, gavusius kitų pajamų.
+nuo jo atleisti paskirus asmenis, gavusius kitų pajamų.
 
 Straipsnio
 
@@ -7372,7 +7390,9 @@ tvarką.
 
 LIETUVOS RESPUBLIKOS
 
-AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                                           V.
+AUKŠČIAUSIOSIOS TARYBOS -
+
+ATKURIAMOJO SEIMO PIRMININKAS                                                       V.
 
 LANDSBERGIS
 
@@ -8166,7 +8186,23 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 
+38.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1983, 00.10.10, Žin., 2000,
+
+Nr.89-2747 (00.10.25)
+
+FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 35
+
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2000.10.06)
+Redagavo: Aušrinė Trapinskienė (2000.10.27)
 
