@@ -4,7 +4,7 @@ identifier: "TAR.28635AB7F3EB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-05"
-last_updated: "1997-11-13"
+last_updated: "1998-01-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.28635AB7F3EB"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo:
 
-Ramunė Lūžaitė (1997.12.03)
+Ramunė Lūžaitė (1998.01.28)
 
 Įstatymas
 
@@ -46,6 +46,22 @@ RESPUBLIKOS LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYM
 
 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-613,
+
+98.01.15, Žin., 1998, Nr.9-199 (98.01.28)
+
+LIETUVOS
+
+RESPUBLIKOS LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO
+
+6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -68,9 +84,9 @@ vadovaudamasis tarptautinės bendrijos visuotinai
 
 pripažinta nuostata, kad žmonių naikinimas bet kuriuo tikslu yra nusikaltimas,
 
-atsižvelgdamas į tai, kad Lietuvos Respublika
+atsižvelgdamas į tai, kad Lietuvos Respublika prisijungė
 
-prisijungė prie 1948 m. gruodžio
+prie 1948 m. gruodžio
 
 9 d. Konvencijos dėl kelio užkirtimo genocido nusikaltimui ir baudimo už jį bei
 
@@ -96,9 +112,9 @@ okupacijų laikotarpiu,
 
 konstatuodamas, kad 1940-1990 m. Lietuvoje
 
-įvairiomis formomis (karinėmis ir politinėmis) vyko pasipriešinimas (rezistencija)
+įvairiomis formomis (karinėmis ir politinėmis) vyko pasipriešinimas
 
-SSRS ir Vokietijos okupacinėms valdžioms,
+(rezistencija) SSRS ir Vokietijos okupacinėms valdžioms,
 
 pripažindamas, kad didelė Lietuvos gyventojų dalis
 
@@ -148,9 +164,9 @@ Lietuvos gyventojų persekiojimą okupacijų metais, taip pat ginkluoto ir
 
 neginkluoto pasipriešinimo okupacijoms procesus, inicijuojanti genocido
 
-organizatorių ir vykdytojų teisinį įvertinimą. Centras koordinuoja kitų institucijų
+organizatorių ir vykdytojų teisinį įvertinimą. Centras koordinuoja kitų
 
-vykdomus šiuo įstatymu apibrėžtos srities tyrimo darbus.
+institucijų vykdomus šiuo įstatymu apibrėžtos srities tyrimo darbus.
 
 2. Centras turi teisę programų vykdymui sudaryti
 
@@ -190,11 +206,11 @@ atkūrimas, okupacinių režimų 1939-1990 metais vykdyto Lietuvos gyventojų
 
 fizinio bei dvasinio genocido ir pasipriešinimo šiems režimams tyrimas, laisvės
 
-kovotojų ir genocido aukų atminimo įamžinimas, okupacijos padarinių teisinio
+kovotojų ir genocido aukų atminimo įamžinimas, okupacijos padarinių teisinio įvertinimo
 
-įvertinimo inicijavimas. Centras taip pat tiria 1920-1939 m. Vilniaus krašte
+inicijavimas. Centras taip pat tiria 1920-1939 m. Vilniaus krašte okupacinio
 
-okupacinio režimo vykdytą politiką bei pasipriešinimo jai procesus.
+režimo vykdytą politiką bei pasipriešinimo jai procesus.
 
 5 straipsnis. Centro funkcijos
 
@@ -222,9 +238,9 @@ pateikia medžiagą apie juos; inicijuoja baudžiamųjų bylų iškėlimą;
 
 3) renka, analizuoja ir apibendrina medžiagą apie
 
-pasipriešinimą okupaciniams režimams, pogrindinių organizacijų veiklą, partizanų
+pasipriešinimą okupaciniams režimams, pogrindinių organizacijų veiklą,
 
-judėjimą ir laisvės kovų dalyvius;
+partizanų judėjimą ir laisvės kovų dalyvius;
 
 4) skelbia mokslinę, informacinę, analitinę
 
@@ -264,13 +280,13 @@ saugojimo, tvarkymo ir naudojimo klausimus Vyriausybės patvirtinto reglamento
 
 tvarka; sukuria bendras darbo grupes informacinės paieškos sistemai kurti;
 
-9) tiria archyvinę medžiagą ir teikia informaciją juridiniams
+9) tiria archyvinę medžiagą ir teikia informaciją
 
-bei fiziniams asmenims apie okupacijų laikotarpiu žuvusius, dingusius be
+juridiniams bei fiziniams asmenims apie okupacijų laikotarpiu žuvusius,
 
-žinios, represuotus, persekiotus, nukentėjusius Lietuvos gyventojus ir karius
+dingusius be žinios, represuotus, persekiotus, nukentėjusius Lietuvos
 
-savanorius;
+gyventojus ir karius savanorius;
 
 10) inicijuoja, skatina ir remia memorialinių
 
@@ -330,11 +346,11 @@ kopijų įsigijimu, kaupia rašytinę, foto-, fono-, filmuotą medžiagą apie
 
 genocidą ir rezistenciją;
 
-17) inicijuoja visapusišką genocido ir okupacijos
+17) inicijuoja visapusišką genocido ir okupacijos padarinių
 
-padarinių teisinį įvertinimą, taip pat genocidą ir Lietuvos gyventojų
+teisinį įvertinimą, taip pat genocidą ir Lietuvos gyventojų persekiojimą
 
-persekiojimą vykdžiusių organizacijų bei žinybų pripažinimą nusikalstamomis;
+vykdžiusių organizacijų bei žinybų pripažinimą nusikalstamomis;
 
 18) fiksuoja genocido ir Lietuvos gyventojų
 
@@ -440,7 +456,13 @@ visuomeninių organizacijų atstovų.
 
 rezistencijos tyrimo, aukų rėmimo ir įamžinimo fondas, šį steigia ir nuostatus
 
-tvirtina Vyriausybė.
+tvirtina Vyriausybė. Lėšos šiam fondui skiriamos iš valstybės biudžeto.
+
+Genocido ir rezistencijos aukoms remti išmokama ne mažiau  kaip 80 procentų iš
+
+valstybės biudžeto šiam fondui skirtų lėšų.  Nuostatuose nustatyta tvarka lėšos
+
+fondui gali būti kaupiamos ir iš kitų  šaltinių.
 
 7. Už savo veiklą Centras atsiskaito Seimui ir
 
@@ -461,6 +483,10 @@ Straipsnio pakeitimai:
 Nr.
 
 VIII-514, 97.11.13, Žin., 1997, Nr.108-2732 (97.11.28)
+
+Nr. VIII-613,
+
+98.01.15, Žin., 1998, Nr.9-199 (98.01.28)
 
 KETVIRTASIS
 
@@ -549,152 +575,4 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą
 RESPUBLIKOS PREZIDENTAS                                  ALGIRDAS
 
 BRAZAUSKAS
-
-10 straipsnis. Papildomi reikalavimai Centro valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartį
-
-1. Centro valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartį, privalo pateikti duomenis ir atskleisti informaciją apie savo ryšius, susijusius su dalyvavimu okupacinių režimų represinėse struktūrose, ir (ar) mokymąsi tų struktūrų mokyklose; apie bendradarbiavimą su tomis struktūromis; duomenis apie savo dalyvavimą komunistų partijoje einant vadovaujančiųjų darbuotojų pareigas.
-
-2. Prie komunistų partijos vadovaujančiųjų darbuotojų yra priskiriami Lietuvos komunistų partijos centro komiteto (LKP CK) sekretoriai, padalinių vadovai (iki skyrių instruktorių imtinai), rajonų komitetų sekretoriai, padalinių vadovai ir instruktoriai, įmonių ir organizacijų etatiniai partijos sekretoriai.
-
-3. Duomenų pateikimo, jų patikrinimo tvarką ir atsakomybę už jų teisingumą nustato Centro generalinis direktorius
-
-11 straipsnis. Vyriausybės įgaliota įstaiga
-
-1. Totalitarinių režimų Lietuvoje okupacijų, ginkluoto ir neginkluoto pasipriešinimo (rezistencijos) šioms okupacijoms procesų Lietuvoje ir memorializacijos (įamžinimo) funkcijas atlieka Vyriausybės įgaliota įstaiga, kurios teisinė forma yra viešoji įstaiga.
-
-2. Vyriausybės įgaliota įstaiga atlieka šias funkcijas:
-
-1) vykdo viešuosius konkursus, skirtus totalitarinių režimų Lietuvoje okupacijų, ginkluoto ir neginkluoto pasipriešinimo (rezistencijos) šioms okupacijoms procesų Lietuvoje tyrimų, jų leidybos ir memorializacijos (įamžinimo) projektams atrinkti;
-
-2) skiria valstybės paramą viešojo konkurso būdu atrinktiems totalitarinių režimų Lietuvoje okupacijų, ginkluoto ir neginkluoto pasipriešinimo (rezistencijos) šioms okupacijoms procesų Lietuvoje tyrimų, jų leidybos ir memorializacijos (įamžinimo) projektams;
-
-3) vykdo totalitarinių režimų Lietuvoje okupacijų, ginkluoto ir neginkluoto pasipriešinimo (rezistencijos) šioms okupacijoms procesų Lietuvoje tyrimų, jų leidybos ir memorializacijos (įamžinimo) projektų, kuriems skyrė valstybės paramą, įgyvendinimo priežiūrą;
-
-4) organizuoja XX a. totalitarinių režimų Lietuvoje okupacijų laikotarpio mokslinius tyrimus ir jų leidybą, ginkluoto ir neginkluoto pasipriešinimo (rezistencijos) šioms okupacijoms procesų Lietuvoje laikotarpio mokslinius tyrimus ir memorializacijos (įamžinimo) projektus ir programas;
-
-5) kiekvienais metais rengia ir kartu su savo veiklos ataskaita viešai skelbia praėjusiais metais įgyvendintų projektų, kuriems skyrė valstybės paramą, eigos ir pasiektų rezultatų apžvalgą;
-
-6) atlieka kitas funkcijas, susijusias su totalitarinių režimų Lietuvoje okupacijų, ginkluoto ir neginkluoto pasipriešinimo (rezistencijos) šioms okupacijoms procesais Lietuvoje ir memorializacija (įamžinimu).
-
-3. Šio straipsnio 2 dalyje nurodytos Vyriausybės įgaliotos įstaigos funkcijos yra finansuojamos iš Centrui skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
-
-4. Centras teikia Vyriausybės įgaliotai įstaigai šio straipsnio 2 dalyje nurodytoms funkcijoms atlikti reikalingą informaciją, bendradarbiauja su Vyriausybės įgaliota įstaiga atliekamų tyrimų, jų leidybos ir memorializacijos (įamžinimo) srityse, keičiasi aktualia informacija ir duomenimis, reikalingais Vyriausybės įgaliotos įstaigos projektams vykdyti ir organizuoti.
-
-KETVIRTASIS SKIRSNIS
-
-CENTRO FINANSAVIMAS
-
-12 straipsnis. Centro lėšų šaltiniai:
-
-1. Centro lėšas sudaro:
-
-1) valstybės biudžeto lėšos;
-
-2) nacionalinių, tarptautinių ir užsienio fondų bei organizacijų skiriamos lėšos;
-
-3) lėšos, gaunamos kaip parama pagal Lietuvos Respublikos labdaros ir paramos įstatymą;
-
-4) lėšos, gaunamos už dalyvavimą tarptautinėse mokslinėse programose;
-
-5) kitos teisėtai įgyjamos lėšos.
-
-2. Tam tikroms valstybės programoms finansuoti Seimo ar Vyriausybės sprendimu gali būti skiriama papildomų valstybės biudžeto lėšų.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-514, 97.11.13, Žin., 1997, Nr.108-2732 (97.11.28)
-
-LIETUVOS RESPUBLIKOS LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-613, 98.01.15, Žin., 1998, Nr.9-199 (98.01.28)
-
-LIETUVOS RESPUBLIKOS LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1461, 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
-
-LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO PREAMBULĖS, 2 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės 1 d.
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1166, 2007-06-05, Žin., 2007, Nr. 68-2653 (2007-06-21)
-
-LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-189, 2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
-
-LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 2, 5, 6 STRAIPSNIŲ IR TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-962, 2010-06-30, Žin., 2010, Nr. 86-4520 (2010-07-20)
-
-LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1485, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21228
-
-Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 preambulės ir 5 straipsnio pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1108, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06745
-
-Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2322, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12366
-
-Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 preambulės, 2, 4, 5, 6 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-728, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25846
-
-Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 5 straipsnio pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-2960, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13621
-
-Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 pakeitimo įstatymas
 
