@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "1997-07-09"
+last_updated: "1998-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 1997-07-09 iki 1998-06-30
+Suvestinė redakcija nuo 1998-07-01 iki 2000-07-25
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -217,7 +217,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
 
-Labdarai ar paramai skirtos materialinės vertybės, įvežamos į Lietuvos Respubliką arba išvežamos iš jos, neapmokestinamos muito mokesčiu. Iš Lietuvos Respublikos išvežamų labdarai skirtų materialinių vertybių išvežimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Labdarai ar paramai skirtos materialinės vertybės, įvežamos į Lietuvos Respubliką arba išvežamos iš jos, atleidžiamos nuo muitų Muitų tarifų įstatymo nustatyta tvarka. Iš Lietuvos Respublikos išvežamų labdarai skirtų materialinių vertybių išvežimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. VIII-627, 1998-02-17, Žin., 1998, Nr. 25-630 (1998-03-13), i. k. 0981010ISTAVIII-627
 
 Asmenys, dovanojantys ar kitaip perduodantys turtą labdaros ar paramos gavėjams, yra atleidžiami nuo žyminio mokesčio.
 
@@ -282,4 +286,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-311, 1997-06-26, Žin., 1997, Nr. 65-1541 (1997-07-09), i. k. 0971010ISTAVIII-311
 
 Lietuvos Respublikos labdaros ir paramos įstatymo 2 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-627, 1998-02-17, Žin., 1998, Nr. 25-630 (1998-03-13), i. k. 0981010ISTAVIII-627
+
+Lietuvos Respublikos labdaros ir paramos įstatymo 10 straipsnio pakeitimo įstatymas
 
