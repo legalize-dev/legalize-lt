@@ -4,7 +4,7 @@ identifier: "TAR.C591F564CC49"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-12-18"
-last_updated: "1996-01-01"
+last_updated: "2003-05-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C591F564CC49"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos laikinasis vidaus tarnybos įstatymas
 
-Suvestinė redakcija nuo 1996-01-01 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2013-12-29
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 2-0; Žin. 1992, Nr.3-34, i. k. 0911010ISTA00I-2120
 
@@ -25,9 +25,27 @@ LAIKINASIS VIDAUS TARNYBOS
 
 ĮSTATYMAS
 
-I SKIRSNIS.
+1 skirsnis. Neteko galios nuo 2003-05-01
 
-BENDRIEJI NUOSTATAI
+Skirsnio naikinimas:
+
+Nr. IX-1538, 2003-04-29, Žin. 2003, Nr. 42-1927 (2003-05-01), i. k. 1031010ISTA0IX-1538
+
+2 skirsnis. Neteko galios nuo 2003-05-01
+
+Skirsnio naikinimas:
+
+Nr. IX-1538, 2003-04-29, Žin. 2003, Nr. 42-1927 (2003-05-01), i. k. 1031010ISTA0IX-1538
+
+3 skirsnis. Neteko galios nuo 2003-05-01
+
+Skirsnio naikinimas:
+
+Nr. IX-1538, 2003-04-29, Žin. 2003, Nr. 42-1927 (2003-05-01), i. k. 1031010ISTA0IX-1538
+
+IV SKIRSNIS.
+
+VIDAUS TARNYBOS GINKLAI IR SPECIALIOSIOS PRIEMONĖS
 
 1 straipsnis. Lietuvos Respublikos vidaus reikalų sistemos vidaus tarnyba ir jos struktūra
 
@@ -359,9 +377,45 @@ Draudžiama naudoti specialiąsias priemones, išskyrus numatytas šio straipsni
 
 Atskirų vidaus tarnybos padalinių pareigūnams Lietuvos Respublikos įstatymai gali numatyti ir kitas specialiąsias priemones bei jų panaudojimo pagrindus ir tvarką.
 
-V SKIRSNIS.
+5 skirsnis. Neteko galios nuo 2003-05-01
 
-VIDAUS TARNYBOS DARBUOTOJŲ SOCIALINĖS GARANTIJOS
+Skirsnio naikinimas:
+
+Nr. IX-1538, 2003-04-29, Žin. 2003, Nr. 42-1927 (2003-05-01), i. k. 1031010ISTA0IX-1538
+
+6 skirsnis. Neteko galios nuo 2003-05-01
+
+Skirsnio naikinimas:
+
+Nr. IX-1538, 2003-04-29, Žin. 2003, Nr. 42-1927 (2003-05-01), i. k. 1031010ISTA0IX-1538
+
+LIETUVOS RESPUBLIKOS
+
+AUKŠČIAUSIOSIOS TARYBOS
+
+PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
+
+Vilnius, 1991 m. gruodžio 18 d.
+
+Nr. I-2120
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1080, 1995-10-31, Žin., 1995, Nr. 92-2056 (1995-11-10), i. k. 0951010ISTA00I-1080
+
+Dėl kai kurių Lietuvos Respublikos įstatymų ir kitų teisės aktų, susijusių su Lietuvos Respublikos įstatymu "Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos", pakeitimo ir papildymo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1538, 2003-04-29, Žin., 2003, Nr. 42-1927 (2003-05-01), i. k. 1031010ISTA0IX-1538
+
+Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
 24 straipsnis. Aprūpinimas butais
 
