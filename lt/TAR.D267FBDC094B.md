@@ -4,7 +4,7 @@ identifier: "TAR.D267FBDC094B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-06-25"
-last_updated: "1995-04-12"
+last_updated: "1995-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 1995-04-12 iki 1995-06-27
+Suvestinė redakcija nuo 1995-06-28 iki 1995-07-18
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
 
@@ -53,13 +53,25 @@ III. MOKESČIO LENGVATOS
 
 5 straipsnis.
 
-Mokesčio lengvatas už apsauginių miškų, gamtosauginės paskirties bei gamtos paminklų žemę nustato Lietuvos Respublikos Vyriausybė, suderinusi su Aplinkos apsaugos departamentu.
+Mokesčio lengvatas už apsauginių miškų, gamtosauginės paskirties bei gamtos paminklų žemę nustato Lietuvos Respublikos Vyriausybė.
 
-Mokesčio lengvatas už istorijos ir kultūros paminklų žemę nustato Lietuvos Respublikos Vyriausybė, suderinusi su Kultūros paveldo inspekcija.
+Straipsnio dalies pakeitimai:
+
+Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA000I-944
+
+Mokesčio lengvatas už istorijos ir kultūros paminklų žemę nustato Lietuvos Respublikos Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA000I-944
 
 6 straipsnis.
 
-Nuo žemės mokesčio atleidžiami žemės savininkai - pirmos ir antros grupės invalidai, senatvės pensininkai ir nepilnamečiai vaikai, kai minėtų savininkų šeimose apmokestinamojo laikotarpio pradžioje nėra darbingų asmenų ir jiems priklausančio žemės sklypo dydis neviršija miestų ir rajonų savivaldybių tarybų nustatytų neapmokestinamųjų dydžių.
+Nuo žemės mokesčio atleidžiami žemės savininkai - pirmos ir antros grupės invalidai, senatvės pensininkai ir nepilnamečiai vaikai, kai minėtų savininkų šeimose apmokestinamojo laikotarpio pradžioje nėra darbingų asmenų ir jiems priklausančio žemės sklypo dydis neviršija savivaldybių tarybų nustatytų neapmokestinamųjų dydžių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA000I-944
 
 Teikiant lengvatą, prie darbingų asmenų nepriskiriami mokymo įstaigų dieninių skyrių moksleiviai bei studentai.
 
@@ -91,7 +103,11 @@ Nauji žemės savininkai mokestį moka:
 
 11 straipsnis.
 
-Žemės mokesčio apskaičiavimo ir sumokėjimo terminą nustato miestų ir rajonų valdybos.
+Žemės mokesčio apskaičiavimo ir sumokėjimo terminą nustato vietos savivaldos vykdomosios institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA000I-944
 
 12 straipsnis.
 
@@ -122,4 +138,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-843, 1995-04-06, Žin., 1995, Nr. 31-703 (1995-04-12), i. k. 0951010ISTA000I-843
 
 Dėl Lietuvos Respublikos žemės mokesčio įstatymo 13 straipsnio pakeitimo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA000I-944
+
+Dėl Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo
 
