@@ -4,7 +4,7 @@ identifier: "TAR.75C66B100186"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "1996-12-04"
+last_updated: "1997-10-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.75C66B100186"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,9 +15,25 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 1996-12-04 iki 1997-09-30
+Įstatymas netenka galios 2020-01-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2221, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10324
+
+Lietuvos Respublikos juridinių asmenų nemokumo įstatymas
+
+Suvestinė redakcija nuo 1997-10-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 191-0; Žin. 1992, Nr.29-843, i. k. 0921010ISTA00I-2880
+
+TAR pastaba. Lietuvos Respublikos įmonių bankroto įstatymas (Žin., 1992, Nr. 29-843; 1993, Nr. 52-999; 1994, Nr. 43-774, Nr. 101-2020; 1995, Nr. 106-2352, Nr. 107-2396; 1996, Nr. 43-1045, Nr. 116-2700) galioja ir reglamentuoja bankroto procedūrų vykdymą tik toms įmonėms, kurių bankroto bylos iškeltos arba neteisminis bankroto procesas pradėtas iki šio įstatymo (Nr. VIII-270) įsigaliojimo dienos(1997-10-01).
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-270, 1997-06-17, Žin., 1997, Nr. 64-1500 (1997-07-04); Žin., 1997, Nr. 87-0 (1997-09-24), i. k. 0971010ISTAVIII-270
+
+Lietuvos Respublikos įmonių bankroto įstatymas
 
 LIETUVOS RESPUBLIKOS ĮMONIŲ BANKROTO ĮSTATYMAS
 
@@ -550,4 +566,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1632, 1996-11-19, Žin., 1996, Nr. 116-2700 (1996-12-04), i. k. 0961010ISTA00I-1632
 
 Lietuvos Respublikos įmonių bankroto įstatymo 6 ir 9 straipsnių papildymo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-270, 1997-06-17, Žin., 1997, Nr. 64-1500 (1997-07-04); Žin., 1997, Nr. 87-0 (1997-09-24), i. k. 0971010ISTAVIII-270
+
+Lietuvos Respublikos įmonių bankroto įstatymas
 
