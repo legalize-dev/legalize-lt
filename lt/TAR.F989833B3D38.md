@@ -4,7 +4,7 @@ identifier: "TAR.F989833B3D38"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-28"
-last_updated: "1997-04-03"
+last_updated: "1997-06-12"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F989833B3D38"
 department: "Lietuvos Respublikos Seimas"
@@ -19,11 +19,15 @@ Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
 
-Lūžaitė (1997.04.16)
+Lūžaitė (1997.06.30)
 
-Neoficialus
+Įstatymas
 
-įstatymo tekstas
+paskelbtas: Žin., 1994, Nr.102-2051
+
+Neoficialus įstatymo
+
+tekstas
 
 Pakeitimai:
 
@@ -75,6 +79,22 @@ LIETUVOS RESPUBLIKOS
 
 AKCIONUOTI, NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. VIII-259,
+
+97.06.12, Žin., 1997, Nr.60-1402 (97.06.27)
+
+LIETUVOS RESPUBLIKOS
+
+ĮSTATYMO “DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI
+
+AKCIONUOTI, NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 LIETUVOS RESPUBLIKOS
@@ -85,21 +105,13 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-DĖL
+DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ
 
-VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ
+METŲ
 
 NENUMATOMA NEI AKCIONUOTI, NEI PRIVATIZUOTI
 
-(Žin., 1994,
-
-Nr.102-2051)
-
-Patvirtinti
-
-valstybinių  įmonių,  kurių  iki  2000-ųjų  metų
-
-nenumatoma nei
+Patvirtinti valstybinių  įmonių,  kurių  iki  2000-ųjų  metų nenumatoma nei
 
 akcionuoti, nei privatizuoti, sąrašą (priedėlis).
 
@@ -109,7 +121,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -185,7 +197,7 @@ Respublikinis valstybinis inventorizavimo,
 
 projektavimo ir paslaugų biuras
 
-2008215   Valstybinė
+2008215   Valstybinė
 
 projektų ekspertizės valdyba
 
@@ -204,10 +216,6 @@ ministerija
 8453346   Valstybinė
 
 specifinė firma "Dzūkija"
-
-1005145   Valstybinė
-
-gamybinė eksperimentinė įmonė "Vytis"
 
 2225111   Valstybinė
 
@@ -283,7 +291,7 @@ siuvimo įmonė "Apdaras"
 
 Sveikatos apsaugos ministerija
 
-2013426   Vilniaus
+2013426   Vilniaus
 
 valstybinė Gedimino vaistinė
 
@@ -345,9 +353,9 @@ valstybinė jūrų uosto direkcija
 
 valstybinė vandens kelių valdyba
 
-2086335   Valstybinis
+2086335
 
-geležinkelio projektavimo institutas
+Valstybinis geležinkelio projektavimo institutas
 
 1006046   Lietuvos
 
@@ -383,9 +391,9 @@ valstybinė žuvų selekcinės veislininkystės
 
 įmonė
 
-2123254   Valstybinis
+2123254
 
-gyvulių veislininkystės informacijos
+Valstybinis gyvulių veislininkystės informacijos
 
 centras
 
@@ -403,9 +411,9 @@ Valstybinis žemėtvarkos institutas
 
 žemės kadastro įmonė
 
-5881943   Kaišiadorių
+5881943
 
-valstybinė utilizacijos įmonė
+Kaišiadorių valstybinė utilizacijos įmonė
 
 6970416   Rietavo
 
@@ -461,9 +469,9 @@ valstybinis metrologijos centras
 
 valstybinis metrologijos centras
 
-4413211   Šiaulių valstybinis
+4413211   Šiaulių
 
-metrologijos centras
+valstybinis metrologijos centras
 
 4714667   Panevėžio
 
@@ -501,7 +509,9 @@ Lietuvos bankas
 
 monetų kalykla
 
-Alytaus apskrities valdytojo administracija
+Alytaus
+
+apskrities valdytojo administracija
 
 8453729
 
@@ -515,9 +525,9 @@ apskrities valdytojo administracija
 
 Valstybinė   veislininkystės   įmonė   (Jonavos rajonas)
 
-6113181
+6113181   Valstybinė
 
-Valstybinė  įmonė  “Pagirių  sodai”   (Kėdainių rajonas)
+įmonė  “Pagirių  sodai”   (Kėdainių rajonas)
 
 Panevėžio apskrities valdytojo administracija
 
@@ -551,9 +561,9 @@ Utenos
 
 apskrities valdytojo administracija
 
-8365663   Valstybinė
+8365663
 
-gyvulių  sėklinimo  įmonė   (Utenos rajonas)
+Valstybinė  gyvulių  sėklinimo  įmonė   (Utenos rajonas)
 
 Vilniaus
 
@@ -692,4 +702,8 @@ Nr. I-1279,
 Nr. VIII-175,
 
 97.04.03, Žin., 1997, Nr.32-785 (97.04.16)
+
+Nr. VIII-259,
+
+97.06.12, Žin., 1997, Nr.60-1402 (97.06.27)
 
