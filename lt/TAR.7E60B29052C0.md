@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2004-01-01"
+last_updated: "2005-02-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -312,9 +312,7 @@ alga apskaičiuojama atitinkamą pareiginės algos koeficientą, nustatytą šio
 
 apvalinama vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad
 
-paskutinis skaitmuo būtų 0
-
-arba 5.
+paskutinis skaitmuo būtų 0 arba 5.
 
 3. Savivaldybių
 
@@ -644,17 +642,17 @@ dydis.
 
 7. Prokuratūros
 
-pareigūnams, kurių darbo užmokestis remiantis šio straipsnio 3 dalies
+pareigūnams, kurių darbo užmokestis remiantis šio straipsnio 3 dalies 1 punkto
 
-1 punkto nuostatomis buvo mažinamas, nuo 2002 m. liepos 1 d. šis punktas
+nuostatomis buvo mažinamas, nuo 2002 m. liepos 1 d. šis punktas netaikomas ir
 
-netaikomas ir darbo užmokesčio mažinimas nutraukiamas.
+darbo užmokesčio mažinimas nutraukiamas.
 
 8. Lietuvos
 
-Respublikos valstybės kontrolieriui ir jo pavaduotojams nuo 2003 m.
+Respublikos valstybės kontrolieriui ir jo pavaduotojams nuo 2003 m. sausio 1 d.
 
-sausio 1 d. šio įstatymo 7 straipsnio 3 dalies 1 punktas netaikomas.
+šio įstatymo 7 straipsnio 3 dalies 1 punktas netaikomas.
 
 *Pastaba.
 
@@ -818,7 +816,9 @@ Pirmininko pirmasis pavaduotojas
 
 2.2.
 
-Pirmininko pavaduotojai
+Pirmininko pavaduotojai, Seimo
+
+opozicijos lyderis
 
 13
 
@@ -960,9 +960,9 @@ Nr. VIII-2057,
 
 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 
-Nr. IX-1326, 2003-01-28,
+Nr. IX-1326,
 
-Žin., 2003, Nr. 17-703 (2003-02-19)
+2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
 
 Nr. IX-1594,
 
@@ -973,6 +973,10 @@ Nr.
 IX-1918,
 
 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
+
+Nr. X-128, 2005-02-15,
+
+Žin., 2005, Nr. 28-877 (2005-02-26)
 
 *II. Teisėjų pareiginės algos
 
@@ -1126,13 +1130,11 @@ priedėlio II skirsnis “Teisėjų pareiginės algos” ta apimtimi, kuria juos
 
 nustatomas teisėjų, kurių darbo užmokestis yra didesnis už šio įstatymo
 
-nustatytą darbo užmokestį, darbo užmokesčio mažinimas, prieštarauja Lietuvos
+nustatytą darbo užmokestį, darbo užmokesčio mažinimas, prieštarauja Lietuvos Respublikos
 
-Respublikos Konstitucijos 5 straipsniui, 109 straipsniui, 114 straipsnio 1
+Konstitucijos 5 straipsniui, 109 straipsniui, 114 straipsnio 1 daliai ir
 
-daliai ir Lietuvos Respublikos Konstitucijoje įtvirtintam teisinės valstybės
-
-principui.
+Lietuvos Respublikos Konstitucijoje įtvirtintam teisinės valstybės principui.
 
 Skirsnio
 
@@ -1152,7 +1154,9 @@ Nr. IX-1390,
 
 III. Prokurorų pareiginės algos
 
-(MMA dydžiais)
+(MMA
+
+dydžiais)
 
 Eil. Nr.
 
@@ -1466,11 +1470,11 @@ Seimo, Seimo Pirmininko, Respublikos
 
 Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
 
-tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės lošimų
+tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
 
-priežiūros komisijos,  Vertybinių popierių komisijos, Vyriausiosios rinkimų
+lošimų priežiūros komisijos,  Vertybinių popierių komisijos, Vyriausiosios
 
-komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+rinkimų  komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 7.1.
 
@@ -1554,13 +1558,23 @@ nariai
 
 9,5
 
-11.     Lietuvos
+11.
 
-Respublikos draudimo priežiūros komisija:
+Lietuvos Respublikos draudimo
 
-11.1.     pirmininkas                                                                                                  12
+priežiūros komisija:
 
-11.2.     pavaduotojai                                                                                                11
+11.1.
+
+pirmininkas
+
+12
+
+11.2.
+
+pavaduotojai
+
+11
 
 11.3.
 
@@ -1604,9 +1618,9 @@ Nr. IX-1390,
 
 2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
 
-Nr. IX-1738,
+Nr. IX-1738, 2003-09-18,
 
-2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
+Žin., 2003, Nr. 94-4247 (2003-10-08)
 
 Nr.
 
@@ -1864,9 +1878,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1594,
+IX-1594, 2003-06-03,
 
-2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
+Žin., 2003, Nr. 59-2639 (2003-06-20)
 
 VALSTYBĖS
 
@@ -1898,7 +1912,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1918,
+Nr.
+
+IX-1918,
 
 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
 
@@ -1910,7 +1926,27 @@ IR PRIEDĖLIO I BEI IV SKIRSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis
 
-įstatymas įsigalioja nuo 2004-01-01.
+įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
+17.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-128,
+
+2005-02-15, Žin., 2005, Nr. 28-877 (2005-02-26)
+
+VALSTYBĖS
+
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO I
+
+SKIRSNIO PAPILDYMO ĮSTATYMAS
+
+***Pabaiga***
 
 Konstitucinio
 
@@ -1930,39 +1966,39 @@ DĖL LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ, TEISĖJŲ IR
 
 VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 4 STRAIPSNIO 1 IR 2 DALIŲ, 5
 
-STRAIPSNIO 1 IR 3 DALIŲ,
+STRAIPSNIO 1 IR 3 DALIŲ, 7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO
 
-7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO ĮSTATYMO PRIEDĖLIO II
+ĮSTATYMO PRIEDĖLIO II SKIRSNIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS
 
-SKIRSNIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ
+BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6
 
-BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6 PRIEDĖLIO, LIETUVOS
+PRIEDĖLIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ
 
-RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ
+BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9
 
-RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9 STRAIPSNIO, LIETUVOS
+STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO
 
-RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL
+NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ
 
-VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ
+VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS",
 
-PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS", LIETUVOS
+LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666
 
-RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL
+"DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR
 
-LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR LIETUVOS
+LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ
 
-RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ DARBUOTOJŲ DARBO
+DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M.
 
-APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D.
+GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS
 
-NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO
+1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR
 
-30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS
+KONTROLĖS INSTITUCIJŲ VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO
 
-INSTITUCIJŲ VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO"
+APMOKĖJIMO" DALINIO PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS
 
-DALINIO PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+KONSTITUCIJAI
 
 ***
 
@@ -1970,7 +2006,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2003-12-31)
+Aušrinė Trapinskienė (2005-02-28)
 
-aubodi@lrs.lt
+autrap@lrs.lt
 
