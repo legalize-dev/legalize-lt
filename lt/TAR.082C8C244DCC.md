@@ -4,7 +4,7 @@ identifier: "TAR.082C8C244DCC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-19"
-last_updated: "2001-12-11"
+last_updated: "2002-01-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.082C8C244DCC"
 department: "Lietuvos Respublikos Seimas"
@@ -35,9 +35,55 @@ FINANSINIŲ RODIKLIŲ PATVIRTINIMO
 
 Vilnius
 
-1 straipsnis. 2001 metų valstybės
+Pastaba.
 
-biudžeto pajamų ir asignavimų patvirtinimas
+1. Pripažinti,
+
+kad Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų
+
+finansinių rodiklių patvirtinimo įstatymas (2000 m. gruodžio 19 d.
+
+redakcija) ta apimtimi, kuria nėra nurodyti asignavimai atskirai kiekvienai
+
+valstybinei aukštajai mokyklai, prieštarauja Lietuvos Respublikos
+
+Konstitucijos 40 straipsnio 3 daliai ir Lietuvos Respublikos Konstitucijoje
+
+įtvirtintam valdžių padalijimo principui.
+
+2.
+
+Pripažinti, kad Lietuvos Respublikos 2001 metų valstybės biudžeto ir
+
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas (2000
+
+m. gruodžio 19 d. redakcija) ta apimtimi, kuria nėra pagal tikslinę paskirtį
+
+nurodyti asignavimai melioracijos darbams, prieštarauja Lietuvos Respublikos
+
+Konstitucijoje įtvirtintam teisinės valstybės principui.
+
+3.
+
+Pripažinti, kad Lietuvos Respublikos 2001 metų valstybės biudžeto ir
+
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas (2000
+
+m. gruodžio 19 d. redakcija) ta apimtimi, kuria asignavimai savivaldybėms
+
+perduotoms valstybinėms funkcijoms vykdyti nėra atskirai nurodyti, prieštarauja
+
+Lietuvos Respublikos Konstitucijos 120 straipsnio 2 daliai.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2002-01-14, Žin., 2002, Nr. 5-186 (2002-01-18), nutarimo atitaisymas
+
+skelbtas: Žin., 2011, Nr. 33
+
+1 straipsnis.
+
+2001 metų valstybės biudžeto pajamų ir asignavimų patvirtinimas
 
 Patvirtinti
 
@@ -57,9 +103,9 @@ Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 
 66-2406 (2001-08-01)
 
-2 straipsnis. Savivaldybių
+2 straipsnis.
 
-biudžetų finansinių rodiklių patvirtinimas
+Savivaldybių biudžetų finansinių rodiklių patvirtinimas
 
 1. Patvirtinti savivaldybių
 
@@ -95,13 +141,13 @@ Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 
 66-2406 (2001-08-01)
 
-Nr. IX-641, 2001-12-11,
+Nr. IX-641,
 
-Žin., 2001, Nr. 105-3739 (2001-12-14)
+2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
 
-3 straipsnis. Atskaitymų iš fizinių asmenų pajamų mokesčio į
+3 straipsnis. Atskaitymų iš fizinių asmenų pajamų
 
-Privalomojo sveikatos
+mokesčio į Privalomojo sveikatos
 
 draudimo fondo biudžetą dydis
 
@@ -111,9 +157,9 @@ mokesčio įmokos į Privalomojo sveikatos draudimo fondo biudžetą sudaro 30
 
 procentų apskaičiuotos šio mokesčio sumos.
 
-4 straipsnis. Įmokų dydis už valstybės lėšomis
+4 straipsnis. Įmokų dydis už
 
-draudžiamus asmenis
+valstybės lėšomis draudžiamus asmenis
 
 Nustatyti, kad 2001 metais valstybės biudžeto įmokos į
 
@@ -127,9 +173,9 @@ Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 
 66-2406 (2001-08-01)
 
-5 straipsnis. Įmokų į valstybės
+5 straipsnis.
 
-biudžetą, skiriamų pagal įstatymus specialiosioms
+Įmokų į valstybės biudžetą, skiriamų pagal įstatymus specialiosioms
 
 programoms
 
@@ -171,11 +217,33 @@ valstybės
 
 garantija limitas
 
-Nustatyti, kad garantijų
+Nustatyti, kad garantijų institucijų
 
-institucijų ir draudimo įmonių prisiimamų įsipareigojimų, dėl kurių teikiama
+ir draudimo įmonių prisiimamų įsipareigojimų, dėl kurių teikiama valstybės
 
-valstybės garantija, suma negali viršyti 250000 tūkst. litų.
+garantija, suma negali viršyti 250000 tūkst. litų.
+
+7
+
+straipsnis. Valstybės skolos limitai
+
+1. Nustatyti 2001 metų valstybės
+
+grynojo skolinimosi limitą – 1400000 tūkst. litų.
+
+2. Nustatyti
+
+2001 metų naujai pasirašomų valstybės garantijų limitą – 390000 tūkst. litų
+
+(neįskaitant šio įstatymo 6 straipsnyje nurodytų prisiimamų įsipareigojimų, dėl
+
+kurių teikiama valstybės garantija, sumos).
+
+Straipsnio pakeitimai:
+
+Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
+
+66-2406 (2001-08-01)
 
 7 straipsnis.
 
@@ -199,9 +267,9 @@ Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 
 66-2406 (2001-08-01)
 
-8 straipsnis. Savivaldybių skolinimosi
+8 straipsnis.
 
-limitai
+Savivaldybių skolinimosi limitai
 
 1. Nustatyti šiuos savivaldybės skolinimosi limitus:
 
@@ -248,6 +316,96 @@ Straipsnio pakeitimai:
 Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 
 66-2406 (2001-08-01)
+
+9
+
+straipsnis.
+
+Vyriausybės teisės vykdant biudžetą
+
+Suteikti Vyriausybei arba jos
+
+įgaliotai institucijai teisę:
+
+1) valstybės biudžete tradicinių
+
+religinių bendrijų maldos namams atstatyti ir kitoms reikmėms numatytus
+
+asignavimus paskirstyti tradicinių Lietuvoje religinių bendrijų vadovybėms;
+
+2) Valstybės investicijų
+
+2001–2003 metų programoje numatytas kapitalo investicijas paskirstyti pagal
+
+asignavimų valdytojus ir investicijų projektus;
+
+3) valstybės biudžete
+
+perskaičiuotoms kompensacijoms už konfiskuotą turtą buvusiems politiniams kaliniams,
+
+tremtiniams ir jiems prilygintiems asmenims arba jų įpėdiniams išmokėti bei
+
+atlyginti piliečiams už valstybės išperkamus gyvenamuosius namus, jų dalis,
+
+butus numatytus asignavimus paskirstyti savivaldybėms;
+
+4) laikantis valstybės grynojo
+
+skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės
+
+vardu valstybės biudžeto deficitui dengti – iki 906000 tūkst. litų, valstybės
+
+investicijoms finansuoti – iki 410000 tūkst. litų, Valstybinio socialinio
+
+draudimo fondo biudžeto deficitui finansuoti – iki 117000 tūkst. litų;
+
+5) laikantis valstybės grynojo
+
+skolinimosi limito, finansuoti valstybės investicijų programą iš jau pasirašytų
+
+arba numatomų pasirašyti paskolų su valstybės garantija – iki 330000 tūkst.
+
+litų;
+
+6) laikantis valstybės grynojo
+
+skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės
+
+vardu bei teikti valstybės garantijas dėl paskolų išlaidoms, susijusioms su
+
+valstybės skola, apmokėti ir valstybės skolai dengti bei kitiems tikslams, kai
+
+yra atskiras Lietuvos Respublikos įstatymas;
+
+7) pirminei teisinei pagalbai finansuoti valstybės biudžete
+
+numatytus asignavimus paskirstyti savivaldybėms;
+
+8) 2001 metais prognozuojamoms
+
+savivaldybių biudžetų negautoms pajamoms kompensuoti numatytus asignavimus –
+
+25643 tūkst. litų paskirstyti savivaldybėms;
+
+9) valstybės biudžeto pajamos,
+
+gautos už išnuomotą valstybės ilgalaikį materialųjį turtą, kurį valdo
+
+patikėjimo teise ir išnuomoja valstybės institucijos, įstaigos ir valstybinės
+
+mokslo ir studijų institucijos, paskirstomos šioms institucijoms ir įstaigoms
+
+valstybės turto eksploatavimo išlaidoms dengti.
+
+Straipsnio pakeitimai:
+
+Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
+
+66-2406 (2001-08-01)
+
+Nr. IX-641,
+
+2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
 
 9 straipsnis. Vyriausybės
 
@@ -343,17 +501,17 @@ Biudžetinių įstaigų skolų padengimas
 
 1. Pavesti valstybės biudžeto
 
-asignavimų valdytojams, savivaldybėms ir biudžetinių įstaigų vadovams sudarant
+asignavimų valdytojams, savivaldybėms ir biudžetinių įstaigų vadovams sudarant 2001
 
-2001 metų išlaidų sąmatas numatyti reikiamus asignavimus 2001 m. sausio 1 d.
+metų išlaidų sąmatas numatyti reikiamus asignavimus 2001 m. sausio 1 d.
 
 esamiems įsiskolinimams už suteiktas paslaugas ir įsigytas prekes padengti.
 
 2. Pavesti valstybės ir
 
-savivaldybių kontrolės institucijoms tikrinti, ar teisingai sudaromos ir
+savivaldybių kontrolės institucijoms tikrinti, ar teisingai sudaromos ir vykdomos
 
-vykdomos išlaidų sąmatos, ar laikomasi šio straipsnio 1 dalies nuostatos.
+išlaidų sąmatos, ar laikomasi šio straipsnio 1 dalies nuostatos.
 
 11 straipsnis.
 
@@ -371,9 +529,9 @@ Patvirtinti Valstybės investicijų
 
 2001–2003 metų programą (10 priedėlis).
 
-13
+13 straipsnis. Krašto apsaugos sistemos
 
-straipsnis. Krašto apsaugos sistemos finansavimo strategijos įstatymo
+finansavimo strategijos įstatymo
 
 įgyvendinimas
 
@@ -389,11 +547,9 @@ asignavimų ne tik iš valstybės biudžeto, bet ir iš Privatizavimo fondo bei
 
 skolintų lėšų.
 
-14
+14 straipsnis. Švietimo ir mokslo
 
-straipsnis. Švietimo ir mokslo ministerijos Švietimo aprūpinimo centro
-
-debitorinio
+ministerijos Švietimo aprūpinimo centro debitorinio
 
 įsiskolinimo
 
@@ -411,9 +567,9 @@ Nr. IX-641,
 
 2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
 
-15
+15 straipsnis. Kreditorinio įsiskolinimo
 
-straipsnis. Kreditorinio įsiskolinimo dengimas
+dengimas
 
 Suteikti teisę
 
@@ -707,9 +863,9 @@ Vaiko teisių apsaugos kontrolieriaus
 
 50
 
-Moterų ir vyrų lygių galimybių
+Moterų ir vyrų lygių galimybių kontrolieriaus
 
-kontrolieriaus tarnyba
+tarnyba
 
 394
 
@@ -1077,7 +1233,9 @@ Iš jų: žemės reformai vykdyti
 
 4201
 
-Vilniaus apskrities viršininko administracija
+Vilniaus apskrities viršininko
+
+administracija
 
 65226
 
@@ -1809,9 +1967,9 @@ Vidaus reikalų ministerijos
 
 6693
 
-Policijos departamentas prie Vidaus
+Policijos departamentas prie Vidaus reikalų
 
-reikalų ministerijos
+ministerijos
 
 389393
 
@@ -2249,9 +2407,9 @@ Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 
 66-2406 (2001-08-01)
 
-Nr. IX-641, 2001-12-11,
+Nr. IX-641,
 
-Žin., 2001, Nr. 105-3739 (2001-12-14)
+2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
 
 Lietuvos Respublikos
 
@@ -2415,9 +2573,9 @@ veterinarija
 
 72084
 
-Mineralinių išteklių gavyba (išskyrus
+Mineralinių išteklių gavyba (išskyrus kurą),
 
-kurą), pramonė ir statyba
+pramonė ir statyba
 
 151722
 
@@ -3371,13 +3529,11 @@ Prognozuojamos mokestinės pajamos
 
 mokestinės pajamos savivaldybės teritorijoje
 
-pajamos iš Valstybės iždo mokestinėms pajamoms
+pajamos iš Valstybės iždo mokestinėms pajamoms išlyginti
 
-išlyginti
+pajamos iš Valstybės iždo išlaidų struktūros
 
-pajamos iš Valstybės iždo išlaidų struktūros skirtumams
-
-išlyginti
+skirtumams išlyginti
 
 Vilniaus miesto
 
@@ -4895,9 +5051,9 @@ Klaipėdos miesto savivaldybės biudžetui Narkotikų kontrolės
 
 ir narkomanijos prevencijos programai vykdyti – 400 tūkst. litų;
 
-Neringos
+Neringos savivaldybės
 
-savivaldybės biudžetui Nidos oro uostui rekonstruoti – 674 tūkst. litų;
+biudžetui Nidos oro uostui rekonstruoti – 674 tūkst. litų;
 
 Palangos miesto
 
@@ -5253,7 +5409,9 @@ Energetika
 
 71188
 
-Transpor-tas ir ryšiai
+Transpor-tas ir
+
+ryšiai
 
 192294
 
@@ -5399,7 +5557,7 @@ Nr. IX-641,
 
 2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
 
-______________
+__________________
 
 Pakeitimai:
 
@@ -5441,9 +5599,45 @@ PATVIRTINIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Pabaiga ***
 
+Lietuvos
+
+Respublikos Konstitucinio Teismo nutarimai:
+
+1.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2002-01-14,
+
+Žin., 2002, Nr. 5-186 (2002-01-18)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS 2001 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ
+
+FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO (2000 M. GRUODŽIO 19 D. REDAKCIJA),
+
+LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ DYDĮ IR IŠLYGINIMĄ LEMIANČIŲ
+
+RODIKLIŲ TVIRTINIMO 2001, 2002 IR 2003 METAMS ĮSTATYMO IR LIETUVOS RESPUBLIKOS
+
+ŽEMĖS ŪKIO EKONOMINIŲ SANTYKIŲ VALSTYBINIO REGULIAVIMO ĮSTATYMO 16 STRAIPSNIO
+
+ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+
+Šio nutarimo atitaisymas
+
+skelbtas: Žin., 2011, Nr. 33 (2011-03-19)
+
+***
+
+Pabaiga ***
+
 Redagavo:
 
-Aušrinė Trapinskienė (2001-12-14)
+Aušrinė Trapinskienė (2007-09-27)
 
 autrap@lrs.lt
 
