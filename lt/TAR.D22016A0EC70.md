@@ -4,7 +4,7 @@ identifier: "TAR.D22016A0EC70"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2004-05-01"
+last_updated: "2004-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2004-11-30
+Suvestinė redakcija nuo 2004-12-01 iki 2006-07-13
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
 
@@ -172,7 +172,11 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 8 straipsnis. Mėgėjiška žvejyba
 
-Mėgėjiška žvejyba leidžiama visuose žuvininkystės vandens telkiniuose Aplinkos ministerijos nustatyta tvarka.
+Mėgėjiška žvejyba leidžiama visuose žuvininkystės vandens telkiniuose Mėgėjiškos žūklės įstatymo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2390, 2004-07-15, Žin., 2004, Nr. 118-4396 (2004-07-31), i. k. 1041010ISTA0IX-2390
 
 9 straipsnis. Specialioji žvejyba
 
@@ -220,19 +224,19 @@ Mėgėjiška žvejyba leidžiama visuose žuvininkystės vandens telkiniuose Apl
 
 6. Leidimus užsiimti specialiąja žvejyba privačiuose žuvininkystės vandens telkiniuose išduoda Aplinkos ministerija.
 
-7. Leidimai užsiimti mėgėjiška žvejyba valstybiniuose žvejybai neišnuomotuose žuvininkystės vandens telkiniuose išduodami Aplinkos ministerijos nustatyta tvarka.
+7. Valstybinių žuvininkystės vandens telkinių nuomos taisykles nustato Vyriausybė, o privačių – šių telkinių savininkai.
 
-8. Privačiuose arba išnuomotuose žuvininkystės vandens telkiniuose leidimus užsiimti mėgėjiška žvejyba įstatymų ir kitų teisės aktų nustatyta tvarka išduoda šių telkinių savininkai arba nuomininkai.
+8. Leidimai užsiimti specialiąja žvejyba žuvininkystės vandens telkiniuose išduodami Žemės ūkio ministerijos ir Aplinkos ministerijos nustatyta tvarka.
 
-9. Valstybinių žuvininkystės vandens telkinių nuomos taisykles nustato Vyriausybė, o privačių – šių telkinių savininkai.
+9. Leidimai užsiimti specialiąja žvejyba privačiuose arba išnuomotuose žuvininkystės vandens telkiniuose išduodami tik savininko ar nuomininko sutikimu. Be savininko ar nuomininko sutikimo leidimai užsiimti specialiąja žvejyba gali būti išduodami tik esant ypatingai ekologinei situacijai (epizootijos židinys, ypač vertingų mokslui objektų tyrimai, nepageidaujamų Lietuvai gyvūnų rūšių atsiradimas ir kt.).
 
-10. Leidimai užsiimti specialiąja žvejyba žuvininkystės vandens telkiniuose išduodami Žemės ūkio ministerijos ir Aplinkos ministerijos nustatyta tvarka.
+10. Vadovaujantis leidimų išdavimo tvarka, leidimuose nurodomas žuvų išteklių naudotojas, žvejybos vietos, įrankiai ir laikas bei kitos sąlygos.
 
-11. Leidimai užsiimti specialiąja žvejyba privačiuose arba išnuomotuose žuvininkystės vandens telkiniuose išduodami tik savininko ar nuomininko sutikimu. Be savininko ar nuomininko sutikimo leidimai užsiimti specialiąja žvejyba gali būti išduodami tik esant ypatingai ekologinei situacijai (epizootijos židinys, ypač vertingų mokslui objektų tyrimai, nepageidaujamų Lietuvai gyvūnų rūšių atsiradimas ir kt.).
+11. Leidimuose užsiimti versline žvejyba žvejybai neišnuomotuose žuvininkystės vandens telkiniuose nurodomos ir žuvų išteklių atkūrimo bei išsaugojimo sąlygos.
 
-12. Vadovaujantis leidimų išdavimo tvarka, leidimuose nurodomas žuvų išteklių naudotojas, žvejybos vietos, įrankiai ir laikas bei kitos sąlygos.
+Straipsnio pakeitimai:
 
-13. Leidimuose užsiimti versline žvejyba žvejybai neišnuomotuose žuvininkystės vandens telkiniuose nurodomos ir žuvų išteklių atkūrimo bei išsaugojimo sąlygos.
+Nr. IX-2390, 2004-07-15, Žin., 2004, Nr. 118-4396 (2004-07-31), i. k. 1041010ISTA0IX-2390
 
 12 straipsnis. Teisės žvejoti pasibaigimo pagrindai
 
@@ -427,6 +431,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2193, 2004-04-29, Žin., 2004, Nr. 73-2527 (2004-04-30), i. k. 1041010ISTA0IX-2193
 
 Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2390, 2004-07-15, Žin., 2004, Nr. 118-4396 (2004-07-31), i. k. 1041010ISTA0IX-2390
+
+Lietuvos Respublikos žuvininkystės įstatymo 8 ir 11 straipsnių pakeitimo įstatymas
 
 30 straipsnis. Ginčai dėl Žuvininkystės įstatymo pažeidimų
 
