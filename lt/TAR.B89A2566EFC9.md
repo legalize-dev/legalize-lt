@@ -4,7 +4,7 @@ identifier: "TAR.B89A2566EFC9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-01-17"
-last_updated: "1996-02-14"
+last_updated: "2004-11-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B89A2566EFC9"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo
 
-Suvestinė redakcija nuo 1996-02-14 iki 2004-11-25
+Suvestinė redakcija nuo 2004-11-26
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 9-184, i. k. 0951010ISTA000I-761
 
@@ -31,11 +31,19 @@ DĖL LIETUVOS RESPUBLIKOS NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO
 
 1 straipsnis.
 
-Nuo 1995 m. vasario 1 d. steigiama Valstybinė paminklosaugos komisija.
+Nuo 1995 m. vasario 1 d. steigiama Valstybinė kultūros paveldo komisija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2567, 2004-11-11, Žin., 2004, Nr. 171-6315 (2004-11-26), i. k. 1041010ISTA0IX-2567
 
 Ši komisija pradeda veikti, paskyrus į ją ne mažiau kaip 10 narių.
 
-Valstybinės paminklosaugos komisijos narių iš visuomeninių organizacijų pirmuosius rinkimus organizuoja Lietuvos Respublikos Seimo Švietimo, mokslo ir kultūros komitetas.
+Valstybinės kultūros paveldo komisijos narių iš visuomeninių organizacijų pirmuosius rinkimus organizuoja Lietuvos Respublikos Seimo Švietimo, mokslo ir kultūros komitetas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. IX-2567, 2004-11-11, Žin., 2004, Nr. 171-6315 (2004-11-26), i. k. 1041010ISTA0IX-2567
 
 Iki 1995 m. kovo 1 d. Lietuvos Respublikos Seimo Švietimo, mokslo ir kultūros komitetas turi parengti komisijos narių iš visuomeninių organizacijų rinkimų tvarkos nuostatus ir pateikti Lietuvos Respublikos Seimui tvirtinti.
 
@@ -55,15 +63,11 @@ Lietuvos Respublikos Vyriausybei nuo 1995 m. vasario 1 d. siūloma reorganizuoti
 
 Lietuvos Respublikos Vyriausybei siūloma iki 1995 m. vasario 10 d. Paminklotvarkos departamentui prie Lietuvos Respublikos statybos ir urbanistikos ministerijos priklausiusius materialinius išteklius, taip pat etatus perduoti Lietuvos Respublikos kultūros ministerijos Kultūros vertybių apsaugos departamentui.
 
-6 straipsnis.
+6 straipsnis. Neteko galios nuo 2004-11-26
 
-Lietuvos Respublikos Vyriausybei iki 1995 m. sausio 27 d. siūloma sudaryti komisiją Lietuvos Respublikos kultūros paveldo inspekcijai priklausiusiems materialiniams ištekliams, taip pat etatams perduoti Valstybinei paminklosaugos komisijai, Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo Kalbos inspekcijai ir Lietuvos Respublikos kultūros ministerijos Kultūros vertybių apsaugos departamentui.
+Straipsnio naikinimas:
 
-Lietuvos Respublikos Seimo atstovus į šią komisiją Švietimo, mokslo ir kultūros komiteto teikimu skiria Seimo Pirmininkas.
-
-Komisija darbą turi baigti iki 1995 m. vasario 27 dienos.
-
-Sprendimus komisijos siūlomais klausimais, suderinus su Lietuvos Respublikos Seimo Švietimo, mokslo ir kultūros komitetu, priima Lietuvos Respublikos Vyriausybė.
+Nr. IX-2567, 2004-11-11, Žin. 2004, Nr. 171-6315 (2004-11-26), i. k. 1041010ISTA0IX-2567
 
 7 straipsnis.
 
@@ -116,4 +120,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1198, 1996-02-06, Žin., 1996, Nr. 14-355 (1996-02-14), i. k. 0961010ISTA00I-1198
 
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo" 9 straipsnio papildymo Įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2567, 2004-11-11, Žin., 2004, Nr. 171-6315 (2004-11-26), i. k. 1041010ISTA0IX-2567
+
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo" 1 straipsnio pakeitimo ir 6 straipsnio pripažinimo netekusiu galios įstatymas
 
