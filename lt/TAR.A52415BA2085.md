@@ -4,7 +4,7 @@ identifier: "TAR.A52415BA2085"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "1996-07-02"
+last_updated: "1996-10-23"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,11 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos komercinių bankų įstatymas
 
-@D1=19941221;D2=19960702;D3=19960903
+Redagavo: Ramunė Lūžaitė (1996
 
-@D1=19941221;D2=19960702;D3=19960903
+Redagavo: Ramunė
+
+Lūžaitė (1996.11.14)
 
 Pakeitimai:
 
@@ -28,9 +30,9 @@ Parlamentas,
 
 Įstatymas
 
-{#19951229AA1165 ;}
+Nr. 1-1165,
 
-Nr. 1-1165, 95.12.29, Žin., 1995, Nr. 107-2411 (95.12.30)
+95.12.29, Žin., 1995, Nr. 107-2411 (95.12.30)
 
 DĖL LIETUVOS
 
@@ -42,9 +44,9 @@ Parlamentas,
 
 Įstatymas
 
-{#19960221AA1218 ;}
+Nr. 1-1218,
 
-Nr. 1-1218, 96.02.21, Žin., 1996, Nr. 19-495 (96.03.01)
+96.02.21, Žin., 1996, Nr. 19-495 (96.03.01)
 
 LIETUVOS
 
@@ -60,9 +62,9 @@ Parlamentas,
 
 Įstatymas
 
-{#19960418AA1295 ;}
+Nr. 1-1295,
 
-Nr. 1-1295, 96.04.18, Žin., 1996, Nr. 41-989 (96.05.08)
+96.04.18, Žin., 1996, Nr. 41-989 (96.05.08)
 
 LIETUVOS
 
@@ -76,9 +78,9 @@ Parlamentas,
 
 Įstatymas
 
-{#19960604AA1358 ;}
+Nr. 1-1358,
 
-Nr. 1-1358, 96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
+96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
 
 LIETUVOS
 
@@ -94,17 +96,33 @@ Parlamentas,
 
 Įstatymas
 
-{#19960702AA1417 ;}
+Nr. 1-1417,
 
-Nr. 1-1417, 96.07.02, Žin., 1996, Nr. 65-1535 (96.07.10)
+96.07.02, Žin., 1996, Nr. 65-1535 (96.07.10)
 
 LIETUVOS
 
 RESPUBLIKOS KOMERCINIŲ BANKŲ ĮSTATYMO 34 IR 40 STRAIPSNIŲ
 
-PAKEITIMO IR PAPILDYMO
+PAKEITIMO IR
 
-ĮSTATYMAS
+PAPILDYMO ĮSTATYMAS
+
+6.
+
+Parlamentas,
+
+Įstatymas
+
+Nr. I-1601,
+
+96.10.23, Žin., 1996, Nr.105-2397 (96.11.02)
+
+LIETUVOS
+
+RESPUBLIKOS KOMERCINIŲ BANKŲ ĮSTATYMO 37 STRAIPSNIO
+
+PAPILDYMO ĮSTATYMAS
 
 *** Pabaiga ***
 
@@ -114,13 +132,13 @@ KOMERCINIŲ BANKŲ
 
 Į S T A T Y M A S
 
-1994 m. gruodžio 21 d. Nr.I-720
+1994
+
+m. gruodžio 21 d. Nr.I-720
 
 Vilnius
 
-I
-
-skyrius
+I skyrius
 
 BENDROJI DALIS
 
@@ -352,13 +370,13 @@ Atsargos
 
 kapitalas  - banko  akcininkų (steigėjų) papildomi
 
-įnašai ar (ir)
+įnašai ar (ir) atskaitymai
 
-atskaitymai iš banko pelno.
+iš banko pelno.
 
 Papildomi
 
-kapitalai  - banko  statute  (įstatuose)  numatyti
+kapitalai  - banko  statute  (įstatuose)  numatyti
 
 kiti banko kapitalai
 
@@ -368,9 +386,9 @@ Straipsnio
 
 pakeitimai:
 
-{#19960604AA1358 ;}
+Nr. 1-1358,
 
-Nr. 1-1358, 96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
+96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
 
 3 straipsnis.
 
@@ -528,7 +546,7 @@ straipsnio nustatyta tvarka.
 
 Leidimai
 
-steigti  užsienio  bankų  filialus  (skyrius)  bei
+steigti  užsienio  bankų  filialus  (skyrius)  bei
 
 atstovybes išduodami
 
@@ -678,7 +696,7 @@ pateikiama:
 
 (skyriaus) steigimo dokumentai;
 
-3)   banko
+3)   banko
 
 (steigėjo)   statutas   (įstatai),   licencija,
 
@@ -756,9 +774,9 @@ užsienio   valstybėse  esančių   filialų   (skyrių)
 
 indėlininkams;
 
-3)  indėlių   kompensavimo
+3)  indėlių
 
-sąlygos   yra  blogesnės,   negu
+kompensavimo  sąlygos   yra  blogesnės,   negu
 
 nustatyta Lietuvos
 
@@ -800,9 +818,9 @@ Straipsnio
 
 pakeitimai:
 
-{#19960604AA1358 ;}
+Nr. 1-1358,
 
-Nr. 1-1358, 96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
+96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
 
 II skyrius
 
@@ -856,17 +874,17 @@ skaičiaus netaikoma
 
 užsienio banko dukterinio banko steigėjams ar
 
-tuo atveju, kai
+tuo atveju, kai banką
 
-banką steigia Lietuvos Respublikos Vyriausybė.
+steigia Lietuvos Respublikos Vyriausybė.
 
 Straipsnio
 
 pakeitimai:
 
-{#19960604AA1358 ;}
+Nr. 1-1358,
 
-Nr. 1-1358, 96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
+96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
 
 8 straipsnis.
 
@@ -894,7 +912,7 @@ paraiška banko licencijai gauti.
 
 Banko steigimo
 
-metu banko  išleistos  akcijos  negali  būti
+metu banko  išleistos  akcijos  negali  būti
 
 platinamos viešai,
 
@@ -926,7 +944,7 @@ banką banko licencijai gauti.
 
 Gavęs Lietuvos
 
-banko licenciją  ir įsiregistravęs  Lietuvos
+banko licenciją  ir įsiregistravęs  Lietuvos
 
 Respublikos įmonių
 
@@ -958,7 +976,7 @@ steigiami  gavus   Lietuvos  banko   leidimą   ir
 
 registruojami
 
-Lietuvos  Respublikos  įstatymų  nustatyta  tvarka.
+Lietuvos  Respublikos  įstatymų  nustatyta  tvarka.
 
 Kiti  banko
 
@@ -1070,7 +1088,7 @@ bankų  priežiūros   institucijos  dokumentas,
 
 patvirtinantis, jog
 
-ši institucija  neprieštarauja, kad Lietuvos
+ši institucija  neprieštarauja, kad Lietuvos
 
 Respublikoje būtų
 
@@ -1088,9 +1106,9 @@ patvirtinantys, jog yra apmokėtas pagrindinis
 
 kapitalas;
 
-8)  dokumentai
+8)
 
-ir  informacija   apie  banko  steigėjų  ir
+dokumentai   ir  informacija   apie  banko  steigėjų  ir
 
 akcininkų statusą,
 
@@ -1120,7 +1138,9 @@ atitinka Lietuvos banko nustatytus reikalavimus;
 
 dokumentas,  patvirtinantis žyminio  mokesčio  už  banko
 
-licenciją sumokėjimą.
+licenciją
+
+sumokėjimą.
 
 Veikianti
 
@@ -1188,9 +1208,9 @@ Straipsnio
 
 pakeitimai:
 
-{#19960604AA1358 ;}
+Nr. 1-1358,
 
-Nr. 1-1358, 96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
+96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
 
 11 straipsnis.
 
@@ -1384,13 +1404,13 @@ Straipsnio
 
 pakeitimai:
 
-{#19960604AA1358 ;}
+Nr. 1-1358,
 
-Nr. 1-1358, 96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
+96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
 
-12 straipsnis. Banko
+12 straipsnis.
 
-licencijos atšaukimas
+Banko licencijos atšaukimas
 
 Banko
 
@@ -1412,9 +1432,7 @@ reorganizavimo;
 
 per  6 mėnesius  nuo banko  įregistravimo dienos
 
-bankas nepradėjo
-
-veikti.
+bankas nepradėjo veikti.
 
 13 straipsnis.
 
@@ -1464,7 +1482,7 @@ akcininkas yra fizinis ar juridinis asmuo arba įmonė,
 
 neturinti juridinio
 
-asmens  teisių,  įstatymų  nustatyta  tvarka
+asmens  teisių,  įstatymų  nustatyta  tvarka
 
 įsigiję bent  vieną
 
@@ -1534,7 +1552,7 @@ akcininkais negali būti:
 
 1) valstybės
 
-valdžios  ir  valdymo  institucijos,  išskyrus
+valdžios  ir  valdymo  institucijos,  išskyrus
 
 Lietuvos Respublikos
 
@@ -1578,9 +1596,9 @@ turintys finansinių  įsipareigojimų (prievolių)
 
 bankui;
 
-8) ūkio
+8) ūkio  subjektai,
 
-subjektai, kurie  atsisako pateikti Lietuvos bankui
+kurie  atsisako pateikti Lietuvos bankui
 
 informaciją apie
 
@@ -1610,7 +1628,7 @@ pasirašytos ir visiškai apmokėtos per akcijų pasirašymo
 
 sutartyje
 
-nurodytą   laiką,  ne  ilgesnį  kaip  12  mėnesių  nuo
+nurodytą   laiką,  ne  ilgesnį  kaip  12  mėnesių  nuo
 
 akcininkų
 
@@ -1626,9 +1644,9 @@ nutarimą padidinti
 
 banko akcinį kapitalą, banko statuto (įstatų)
 
-pakeitimai,  susiję
+pakeitimai,
 
-su  akcinio   kapitalo  padidėjimu,  nebuvo
+susiję   su  akcinio   kapitalo  padidėjimu,  nebuvo
 
 įregistruoti
 
@@ -1728,17 +1746,15 @@ skelbiami įstatymų
 
 nustatyta tvarka.
 
-Straipsnio
+Straipsnio pakeitimai:
 
-pakeitimai:
+Nr. 1-1165,
 
-{#95K\AA1165 ;} Nr.
+95.12.29, Žin., 1995, Nr. 107-2411 (95.12.30)
 
-1-1165, 95.12.29, Žin., 1995, Nr. 107-2411 (95.12.30)
+Nr. 1-1358,
 
-{#19960604AA1358 ;}
-
-Nr. 1-1358, 96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
+96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
 
 15 straipsnis.
 
@@ -2206,7 +2222,7 @@ jos narių. Nutarimai priimami paprasta posėdžio
 
 dalyvių balsų
 
-dauguma, išskyrus  nutarimus  dėl  banko  valdybos
+dauguma, išskyrus  nutarimus  dėl  banko  valdybos
 
 narių atšaukimo,
 
@@ -2258,11 +2274,11 @@ valdybos  narių  skaičių,  kuris  negali  būti
 
 mažesnis  kaip   3,
 
-taip  pat  valdybos  ir  jos  narių  veiklą,
+taip  pat  valdybos  ir  jos  narių  veiklą,
 
-įgalinimus ir
+įgalinimus ir  teises,
 
-teises, nutarimų  priėmimo  tvarką  nustato  banko
+nutarimų  priėmimo  tvarką  nustato  banko
 
 statutas (įstatai)
 
@@ -2276,9 +2292,7 @@ nariai skiriami  ne
 
 ilgiau  kaip 4  metams. Banko  valdybos nario
 
-kadencijų skaičius
-
-neribojamas.
+kadencijų skaičius neribojamas.
 
 Banko
 
@@ -2364,9 +2378,9 @@ tarybos nariui,  kol
 
 jis  eina  banko  valdybos  nario  pareigas,
 
-sustabdomi
+sustabdomi įgaliojimai
 
-įgaliojimai banko taryboje.
+banko taryboje.
 
 21 straipsnis.
 
@@ -2398,9 +2412,9 @@ statutas (įstatai)
 
 ir banko valdybos patvirtintos taisyklės.
 
-Banko administraciją
+Banko
 
-ir jos  vadovą į  darbą  priima  banko
+administraciją  ir jos  vadovą į  darbą  priima  banko
 
 valdyba. Banko
 
@@ -2418,9 +2432,7 @@ Bankos
 
 administracijos  vadovas  sudaro  darbo  sutartis  su
 
-kitais banko
-
-darbuotojais.
+kitais banko darbuotojais.
 
 Banko
 
@@ -2504,9 +2516,9 @@ Banko revizijų
 
 tarnyba  (revizorius)  atlieka  patikrinimus
 
-visuotinio  akcininkų
+visuotinio
 
-susirinkimo,  banko  tarybos  ar  valdybos
+akcininkų  susirinkimo,  banko  tarybos  ar  valdybos
 
 pavedimu.
 
@@ -2522,9 +2534,9 @@ vidaus audito
 
 tarnybą. Gali būti sudaromi ir kiti banko komitetai
 
-bei tarnybos.  Jų funkcijas,
+bei tarnybos.  Jų
 
-sudarymo ir  veiklos tvarką nustato
+funkcijas,  sudarymo ir  veiklos tvarką nustato
 
 Lietuvos banko
 
@@ -2612,7 +2624,7 @@ paskirstymo tvarka;
 
 14) banko
 
-pranešimų  skelbimo tvarka;
+pranešimų  skelbimo tvarka;
 
 15) banko
 
@@ -2714,9 +2726,7 @@ Bankui
 
 nustatomi  šie normatyvai:
 
-1) kapitalo
-
-pakankamumo;
+1) kapitalo pakankamumo;
 
 2) likvidumo;
 
@@ -2894,7 +2904,7 @@ sutuoktiniai, tėvai ir vaikai arba įmonės, kuriose minėti
 
 asmenys  tiesiogiai
 
-ar  (ir)  netiesiogiai  įsigijo  arba  valdo
+ar  (ir)  netiesiogiai  įsigijo  arba  valdo
 
 daugiau kaip 20
 
@@ -2976,9 +2986,9 @@ pareikalauti
 
 papildomos garantijos.
 
-Bankams draudžiama
+Bankams
 
-banko prievolių  pagal paskolų  sutartis
+draudžiama  banko prievolių  pagal paskolų  sutartis
 
 įvykdymui
 
@@ -2994,9 +3004,9 @@ sutartis.
 
 Paslapties saugojimas
 
-Esantys   ir    buvę
+Esantys   ir
 
-banko   tarybos,   valdybos   nariai,
+buvę   banko   tarybos,   valdybos   nariai,
 
 administracija
 
@@ -3146,9 +3156,9 @@ nustatytą  dydį,
 
 banko  valdyba privalo per tris dienas apie tai
 
-informuoti  banko
+informuoti  banko  tarybą
 
-tarybą  bei  Lietuvos  banką  ir per 45 dienas
+bei  Lietuvos  banką  ir per 45 dienas
 
 sušaukti
 
@@ -3258,9 +3268,9 @@ nustato  Lietuvos  bankas ir apie tai praneša
 
 banko valdybai.
 
-Apie   šaukiamą
+Apie
 
-visuotinį   akcininkų  susirinkimą  ir  jo
+šaukiamą   visuotinį   akcininkų  susirinkimą  ir  jo
 
 darbotvarkę  ne
 
@@ -3310,7 +3320,7 @@ mažina akcinį kapitalą šio straipsnio nustatyta
 
 tvarka,
 
-netaikomos   Lietuvos   Respublikos  akcinių  bendrovių
+netaikomos   Lietuvos   Respublikos  akcinių  bendrovių
 
 įstatymo   45
 
@@ -3322,17 +3332,17 @@ Straipsnio
 
 pakeitimai:
 
-{#95K\AA1165 ;} Nr.
+Nr. 1-1165,
 
-1-1165, 95.12.29, Žin., 1995, Nr. 107-2411 (95.12.30)
+95.12.29, Žin., 1995, Nr. 107-2411 (95.12.30)
 
-{#96ATAA1218 ;} Nr.
+Nr. 1-1218,
 
-1-1218, 96.02.21, Žin., 1996, Nr. 19-495 (96.03.01)
+96.02.21, Žin., 1996, Nr. 19-495 (96.03.01)
 
-{#19960702AA1417 ;}
+Nr. 1-1417,
 
-Nr. 1-1417, 96.07.02, Žin., 1996, Nr. 65-1535 (96.07.10)
+96.07.02, Žin., 1996, Nr. 65-1535 (96.07.10)
 
 35 straipsnis.
 
@@ -3346,9 +3356,9 @@ metų pajamų
 
 atskaičius tų metų banko išlaidas ir nuostolių sumas.
 
-Banko
+Banko finansiniai
 
-finansiniai metai sutampa su kalendoriniais metais.
+metai sutampa su kalendoriniais metais.
 
 Sprendime dėl
 
@@ -3500,7 +3510,7 @@ teisę taikyti bankams šias poveikio priemones:
 
 1) įspėti
 
-banką dėl  jo veiklos  trūkumų ir  pažeidimų  bei
+banką dėl  jo veiklos  trūkumų ir  pažeidimų  bei
 
 nustatyti jų
 
@@ -3532,15 +3542,17 @@ visam  laikui atšaukti leidimą banko filialo
 
 5) reikalauti
 
-nušalinti banko  valdybos  narį  (narius)  ar
+nušalinti  ar  nušalinti  banko  valdybos narį
 
-administracijos
+(narius) ar
 
-vadovą;
+administracijos vadovą;
 
-6)
+6)  reikalauti
 
-reikalauti   sustabdyti  banko   tarybos  nario  (narių)
+sustabdyti  ar  sustabdyti   banko   tarybos
+
+nario (narių)
 
 įgaliojimus;
 
@@ -3607,6 +3619,14 @@ spręsti klausimo
 dėl poveikio  priemonės rūšies parinkimo ir jos
 
 taikymo tikslingumo.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. I-1601,
+
+96.10.23, Žin., 1996, Nr.105-2397 (96.11.02)
 
 38 straipsnis.
 
@@ -3708,9 +3728,9 @@ Banko
 
 atstovams  neatvykus į  klausimo  svarstymą  ar  jiems
 
-nepateikus
+nepateikus  paaiškinimų,
 
-paaiškinimų,  sprendimas  taikyti  poveikio  priemonę
+sprendimas  taikyti  poveikio  priemonę
 
 priimamas be jų.
 
@@ -3740,9 +3760,7 @@ Banko tarybos įgaliojimų sustabdymo ir banko
 
 valdybos bei administracijos vadovo
 
-nušalinimo
-
-tvarka
+nušalinimo tvarka
 
 Banko tarybos
 
@@ -3756,9 +3774,9 @@ administratorius,
 
 jeigu  iškyla  grėsmė  patikimai  ir  stabiliai
 
-banko  veiklai,
+banko  veiklai,   bet
 
-bet  yra   reali  galimybė   pataisyti  padėtį,
+yra   reali  galimybė   pataisyti  padėtį,
 
 sustabdžius banko
 
@@ -3920,9 +3938,9 @@ Laikinajam
 
 administratoriui    neprivalomi    visuotinio
 
-akcininkų
+akcininkų   susirinkimo
 
-susirinkimo   nutarimai,   jeigu   jie   prieštarauja
+nutarimai,   jeigu   jie   prieštarauja
 
 laikinojo
 
@@ -4006,7 +4024,7 @@ Laikinajam
 
 administratoriui  atsistatydinus iš šių pareigų,
 
-Lietuvos   bankas
+Lietuvos   bankas
 
 sprendžia   klausimą   dėl   kito   laikinojo
 
@@ -4040,9 +4058,9 @@ sustabdomi
 
 išieškojimai teisme ar ne ginčo tvarka ir be Lietuvos
 
-banko  leidimo  draudžiami
+banko  leidimo
 
-visų  šio banko finansinių prievolių,
+draudžiami  visų  šio banko finansinių prievolių,
 
 įskaitant  palūkanas
 
@@ -4056,9 +4074,9 @@ draudžiama  dalyti
 
 ar  kitaip  skirstyti  banko  turtą, išskyrus
 
-išlaidas,   reikalingas
+išlaidas,
 
-laikinojo   administratoriaus   veiklai
+reikalingas   laikinojo   administratoriaus   veiklai
 
 užtikrinti, pagal
 
@@ -4068,17 +4086,17 @@ Straipsnio
 
 pakeitimai:
 
-{#95K\AA1165 ;} Nr.
+Nr. 1-1165,
 
-1-1165, 95.12.29, Žin., 1995, Nr. 107-2411 (95.12.30)
+95.12.29, Žin., 1995, Nr. 107-2411 (95.12.30)
 
-{#96CQAA1295 ;} Nr.
+Nr. 1-1295,
 
-1-1295, 96.04.18, Žin., 1996, Nr. 41-989 (96.05.08)
+96.04.18, Žin., 1996, Nr. 41-989 (96.05.08)
 
-{#19960702AA1417 ;}
+Nr. 1-1417,
 
-Nr. 1-1417, 96.07.02, Žin., 1996, Nr. 65-1535 (96.07.10)
+96.07.02, Žin., 1996, Nr. 65-1535 (96.07.10)
 
 41 straipsnis.
 
@@ -4228,9 +4246,9 @@ bylą ir privalo:
 
 apie iškeltą  bylą žinomiems  kreditoriams, šio
 
-banko bankams  korespondentams,
+banko bankams
 
-rejestro  tvarkytojui bei  viešai
+korespondentams, rejestro  tvarkytojui bei  viešai
 
 paskelbti
 
@@ -4270,9 +4288,9 @@ Teismo
 
 nutartis  iškelti  banko  bankroto  bylą  gali  būti
 
-apskųsta
+apskųsta   Lietuvos
 
-Lietuvos   Respublikos   civilinio   proceso   kodekso
+Respublikos   civilinio   proceso   kodekso
 
 nustatyta  tvarka.
 
@@ -4284,7 +4302,7 @@ Nutraukus
 
 banko   bankroto  bylą   dėl  reorganizavimo   ar
 
-sanavimo, apie  tai
+sanavimo, apie  tai
 
 pranešama   rejestro  tvarkytojui bei  viešai
 
@@ -4306,9 +4324,9 @@ teisę toliau atlikti
 
 savo funkcijas;
 
-2)
+2)  uždraudžiamas
 
-uždraudžiamas   visų  finansinių   prievolių,  įskaitant
+visų  finansinių   prievolių,  įskaitant
 
 palūkanas ir
 
@@ -4322,9 +4340,9 @@ dalyti  ar  kitaip
 
 skirstyti  banko  turtą,  išskyrus  išlaidas,
 
-reikalingas
+reikalingas  administratoriaus
 
-administratoriaus   veiklai  banko   bankroto  bylos
+veiklai  banko   bankroto  bylos
 
 nagrinėjimo metu
 
@@ -4342,9 +4360,9 @@ Banko
 
 administratorius   -   tai   banko   bankroto   bylos
 
-nagrinėjimo
+nagrinėjimo laikotarpiui
 
-laikotarpiui skiriamas banko valdytojas.
+skiriamas banko valdytojas.
 
 Bankos
 
@@ -4428,7 +4446,7 @@ administracijos  vadovu  ir  padalinių vadovais.
 
 Visiems   šiems
 
-atleistiesiems  nemokama  išeitinė  pašalpa  ir
+atleistiesiems  nemokama  išeitinė  pašalpa  ir
 
 kompensacija,
 
@@ -4442,9 +4460,9 @@ darbo  užmokestį
 
 darbuotojams  be  jų  sutikimo  iki biudžetinių
 
-įstaigų,   organizacijų
+įstaigų,
 
-darbuotojų  vidutinio  mėnesinio  darbo
+organizacijų   darbuotojų  vidutinio  mėnesinio  darbo
 
 užmokesčio
 
@@ -4458,7 +4476,7 @@ kitas  darbo
 
 sutarties  sąlygas  (lengvatas, darbo režimą, darbo
 
-vietą,  perkelti į
+vietą,  perkelti į
 
 kitą mažiau apmokamą darbą, jeigu tai nekenkia
 
@@ -4494,9 +4512,9 @@ kreditorių  pinigų
 
 išieškojimo,  kreditoriams   (ieškovams)  iš
 
-valstybės
+valstybės  biudžeto
 
-biudžeto   lėšų  grąžinamas   jų  sumokėtas    žyminis
+lėšų  grąžinamas   jų  sumokėtas    žyminis
 
 mokestis.
 
@@ -4504,9 +4522,9 @@ Straipsnio
 
 pakeitimai:
 
-{#96CQAA1295 ;} Nr.
+Nr. 1-1295,
 
-1-1295, 96.04.18, Žin., 1996, Nr. 41-989 (96.05.08)
+96.04.18, Žin., 1996, Nr. 41-989 (96.05.08)
 
 48 straipsnis.
 
@@ -4648,7 +4666,7 @@ suderinus su  Lietuvos banku, jei pritaikius
 
 sanavimo priemones
 
-bankas  gali  atsiskaityti  pagal  prisiimtus
+bankas  gali  atsiskaityti  pagal  prisiimtus
 
 įsipareigojimus.
 
@@ -4732,13 +4750,13 @@ Pirmąja eile
 
 tenkinama:
 
-1) įkaitu garantuoti
+1) įkaitu
 
-kreditorių reikalavimai;
+garantuoti kreditorių reikalavimai;
 
-2) teismo
+2) teismo  paskirto
 
-paskirto likvidatoriaus darbo užmokesčio ir kitos
+likvidatoriaus darbo užmokesčio ir kitos
 
 išlaidos, susijusios
 
@@ -4866,9 +4884,9 @@ valstybei
 
 priklausančios   privilegijuotos  akcijos  pakeičiamos
 
-paprastomis  vardinėmis.
+paprastomis
 
-Su  tuo  susijusios  statuto  (įstatų)
+vardinėmis.   Su  tuo  susijusios  statuto  (įstatų)
 
 pataisos Lietuvos
 
@@ -4906,7 +4924,7 @@ Respublikos  laikinąjį  įstatymą  "Dėl  komercinių
 
 bankų bankroto  bylų
 
-iškėlimo  ir teisminio  nagrinėjimo  tvarkos
+iškėlimo  ir teisminio  nagrinėjimo  tvarkos
 
 ypatumų" (Žin.,
 
@@ -4924,9 +4942,9 @@ Respublikos   komercinių   (akcinių)   bankų   įstatymo
 
 tvarkos" (Žin., 1992, Nr.24-697);
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Aukščiausiosios Tarybos 1992 m.  spalio
+Aukščiausiosios Tarybos 1992 m.  spalio
 
 6  d.   nutarimo
 
@@ -4942,7 +4960,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTAS                ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                ALGIRDAS BRAZAUSKAS
 
 _
 
