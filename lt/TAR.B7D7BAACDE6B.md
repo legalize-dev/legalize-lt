@@ -4,7 +4,7 @@ identifier: "TAR.B7D7BAACDE6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2000-07-13"
+last_updated: "2001-11-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B7D7BAACDE6B"
 department: "Lietuvos Respublikos Seimas"
@@ -737,358 +737,6 @@ Respublikos piliečiai, kiti fiziniai asmenys ir Lietuvos Respublikoje
 
 įregistruoti juridiniai asmenys.
 
-18
-
-straipsnis. Teisė įsigyti, turėti ir valdyti neribotos civilinės apyvartos
-
-ginklus ir
-
-šaudmenis
-
-Neribotos
-
-civilinės apyvartos ginklus ir jų šaudmenis gali laisvai įsigyti, valdyti,
-
-naudoti ir jais disponuoti:
-
-1)
-
-ne jaunesni kaip 18 metų Lietuvos Respublikos piliečiai;
-
-2)
-
-ne jaunesni kaip 18 metų teisėtai esantys Lietuvos Respublikoje užsienio valstybių
-
-piliečiai ar asmenys be pilietybės (toliau - užsieniečiai);
-
-3)
-
-Lietuvos Respublikoje įregistruoti juridiniai asmenys.
-
-19
-
-straipsnis. Lietuvos Respublikos piliečių teisė įsigyti ribotos civilinės
-
-apyvartos
-
-ginklus
-
-1.
-
-Lietuvos Respublikos piliečiai gali įsigyti, laikyti ir nešioti ribotos
-
-civilinės apyvartos civilinius ginklus, turėdami Vyriausybės nustatyta tvarka
-
-išduotą leidimą įsigyti, laikyti bei nešioti ribotos civilinės apyvartos
-
-ginklą:
-
-1)
-
-medžioklei;
-
-2)
-
-sportui;
-
-3)
-
-saugumui užtikrinti (savigynai ir turto apsaugai);
-
-4)
-
-profesinei veiklai;
-
-5)
-
-tinkamų naudoti ginklų kolekcijai sudaryti, saugoti ir pildyti;
-
-6)
-
-kitiems tikslams, jei tai neprieštarauja įstatymams.
-
-2.
-
-Medžioklinius lygiavamzdžius ir nešaunamuosius svaidomuosius (arbaletus)
-
-ginklus turi teisę įsigyti Lietuvos Respublikos piliečiai, ne jaunesni kaip 18
-
-metų, turintys teisę medžioti, gavę teritorinio policijos komisariato leidimą.
-
-3.
-
-Šaunamuosius graižtvinius medžioklinius ginklus turi teisę įsigyti Lietuvos
-
-Respublikos piliečiai, besiverčiantys profesionalia veikla, susijusia su
-
-medžiokle, arba turintys ne mažesnį kaip 3 metų medžiotojo stažą, nepadarę
-
-teisėtvarkos pažeidimų, susijusių su ginklų ir šaudmenų apyvartos tvarkos
-
-pažeidimais, ir gavę Vidaus reikalų ministerijos leidimą.
-
-4.
-
-Nešaunamuosius medžioklinius ginklus (peilius ar pan.) gali įsigyti asmenys,
-
-turintys teisę medžioti.
-
-5.
-
-Lygiavamzdžius šautuvus savigynai turi teisę įsigyti Lietuvos Respublikos
-
-piliečiai, ne jaunesni kaip 18 metų ir gavę teritorinio policijos komisariato
-
-leidimą.
-
-6.
-
-Vieną ne didesnio kaip 9 mm kalibro pusiau automatinį pistoletą (revolverį)
-
-savigynai gali įsigyti Lietuvos Respublikos piliečiai, ne jaunesni kaip 25 metų
-
-ir gavę Vidaus reikalų ministerijos leidimą.
-
-7.
-
-Ginklus sportui gali įsigyti Lietuvos Respublikos piliečiai šaudymo klubų
-
-nariai, turintys šaudymo klubo rekomendaciją ir gavę Vidaus reikalų
-
-ministerijos leidimą. Kalibrą sportiniams ginklams reglamentuoja tarptautinių
-
-šaudymo federacijų taisyklės.
-
-8.
-
-Leidimas įsigyti civilinį ginklą neišduodamas asmenims:
-
-1)
-
-jaunesniems nei nustatyto amžiaus;
-
-2)
-
-esantiems sveikatos priežiūros įstaigos įskaitoje dėl alkoholizmo, narkomanijos
-
-ar psichinės ligos;
-
-3)
-
-sergantiems kai kuriomis ligomis ar turintiems fizinių trūkumų, trukdančių
-
-teisingai elgtis su ginklu. Ligų ir fizinių trūkumų, trukdančių teisingai
-
-elgtis su ginklu, sąrašą tvirtina Sveikatos apsaugos ministerija;
-
-4)
-
-teistiems už tyčinius nusikaltimus, kuriems teistumas neišnykęs arba
-
-nepanaikintas;
-
-5)
-
-atliekantiems bausmę;
-
-6)
-
-padariusiems pakartotinai per metus administracinį teisės pažeidimą -
-
-nusižengimą viešajai ar valdymo tvarkai;
-
-7)
-
-neturintiems nuolatinės gyvenamosios vietos;
-
-8)
-
-nepateikusiems leidimui įsigyti ginklą reikalingų dokumentų;
-
-9)
-
-esantiems profilaktinėje ar operatyvinėje policijos įskaitoje;
-
-10)
-
-neišlaikiusiems atitinkamo egzamino (įskaitos);
-
-11)
-
-neturintiems tinkamų sąlygų laikyti ginklą;
-
-12)
-
-gyvenantiems kartu su kitais asmenimis, kuriems leidimas pagal šio straipsnio 8
-
-dalies 2, 4, 5, 6, 9 punktų nuostatas neišduodamas.
-
-9.
-
-Asmuo, galintis gauti leidimą įsigyti civilinį ginklą, motyvuotą prašymą
-
-pateikia teritoriniam policijos komisariatui. Šio leidimo išdavimo tvarką
-
-nustato Vyriausybė.
-
-10.
-
-Leidimas įsigyti civilinius ginklus neišduodamas nepaprastosios padėties metu,
-
-kitais įstatymų numatytais atvejais.
-
-11.
-
-Lietuvos Respublikos piliečių, norinčių gauti leidimą įsigyti civilinį ginklą,
-
-medicininio patikrinimo tvarką nustato Sveikatos apsaugos ministerija.
-
-20
-
-straipsnis. Užsieniečių teisė įsigyti, įvežti ir išvežti civilinius ginklus
-
-1.
-
-Ne jaunesni kaip 18 metų, turintys leidimą nuolat gyventi Lietuvos Respublikoje
-
-užsieniečiai turi teisę įsigyti lygiavamzdžius šautuvus.
-
-2.
-
-Ne jaunesni kaip 18 metų ir teisėtai esantys Lietuvos Respublikoje, tarpininkaujant
-
-valstybės, kurios piliečiai jie yra, atstovybei, užsieniečiai gali įsigyti
-
-lygiavamzdžius ir medžioklinius graižtvinius šautuvus, gavę Vidaus reikalų
-
-ministerijos leidimą, ir esant būtinai sąlygai, kad jie išveš ginklus iš
-
-Lietuvos Respublikos ne vėliau kaip per 5 dienas nuo įsigijimo.
-
-3.
-
-Medžioklinius ir sportinius ginklus užsieniečiai gali įvežti į Lietuvos
-
-Respublikos teritoriją turėdami Vidaus reikalų ministerijos leidimą. Šie
-
-ginklai privalo būti išvežti iš Lietuvos Respublikos per leidime nurodytą
-
-laiką. Leidimas išduodamas Vidaus reikalų ministerijos nustatyta tvarka.
-
-4.
-
-Užsieniečiai, be pateisinamų priežasčių laiku neišvežę iš Lietuvos Respublikos
-
-ginklų, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-5.
-
-Civilinių ginklų įsigijimo, įvežimo ir išvežimo tvarką užsieniečiams nustato
-
-Lietuvos Respublikos Vyriausybė.
-
-21
-
-straipsnis. Lietuvos Respublikoje akredituotų ir reziduojančių užsienio
-
-valstybių
-
-diplomatinių atstovybių, konsulinių įstaigų ir
-
-tarptautinių organizacijų
-
-atstovybių diplomatinio, administracinio techninio ir
-
-aptarnaujančiojo
-
-personalo teisė įsivežti, įsigyti, laikyti, išsivežti
-
-ir nešioti ginklą
-
-1.
-
-Lietuvos Respublikoje akredituotas ir reziduojantis užsienio valstybių
-
-diplomatinių atstovybių, konsulinių įstaigų ir           tarptautinių
-
-organizacijų atstovybių diplomatinis, administracinis techninis ir
-
-aptarnaujantysis personalas (toliau - diplomatinės atstovybės darbuotojai) turi
-
-teisę įsivežti, įsigyti, laikyti, nešioti ir išsivežti vieną ne didesnio kaip 9
-
-milimetrų kalibro pusiau automatinį šaunamąjį ginklą savigynai ir ne daugiau
-
-kaip 50 šovinių šiam ginklui, jeigu Lietuvos Respublikos diplomatinės
-
-atstovybės darbuotojams valstybės, kurioje yra ši atstovybė, įstatymai taip pat
-
-suteikia teisę laikyti ir nešioti šaunamąjį ginklą savigynai.
-
-2.
-
-Diplomatinių atstovybių darbuotojams pistoletų (revolverių) savigynai
-
-įsivežimo, įsigijimo, laikymo, nešiojimo ir išsivežimo tvarką nustato Lietuvos
-
-Respublikos Vyriausybė.
-
-22
-
-straipsnis. Juridinių asmenų teisė įsigyti ir valdyti ribotos civilinės
-
-apyvartos ginklus
-
-1.
-
-Juridiniai asmenys turi teisę įsigyti ir valdyti ribotos civilinės apyvartos
-
-ginklus šiems tikslams:
-
-1)
-
-apsaugai;
-
-2)
-
-sportui ar medžioklei;
-
-3)
-
-mokymui;
-
-4)
-
-tarnybinių funkcijų vykdymui užtikrinti;
-
-5)
-
-ginklų nuomai organizuojant pratybas, treniruotes ar varžybas šaudyklose;
-
-6)
-
-kolekcijoms sudaryti, saugoti ir papildyti;
-
-7)
-
-kitai veiklai, susijusiai su ginklais ir šaudmenimis, jei ji neprieštarauja
-
-įstatymams.
-
-2.
-
-Ribotos civilinės apyvartos ginklų rūšis ir jų kiekį pagal rūšis, kurį įsigyti
-
-ir valdyti gali juridiniai asmenys, nustato Vyriausybė.
-
-PENKTASIS SKIRSNIS
-
-GINKLŲ IR ŠAUDMENŲ GAMYBA, TAISYMAS, PERDIRBIMAS,
-
-PARDAVINĖJIMAS, EKSPORTAS, IMPORTAS IR KITA VEIKLA,
-
-SUSIJUSI SU GINKLAIS IR ŠAUDMENIMIS
-
 1 straipsnis. Įstatymo paskirtis
 
 Šis įstatymas reglamentuoja ginklų ir
@@ -1685,181 +1333,349 @@ fiziniai  asmenys  ir Lietuvos Respublikoje  įregistruoti juridiniai asmenys
 
 18 straipsnis. Teisė įsigyti, turėti ir
 
-valdyti neribotos
+valdyti neribotos civilinės apyvartos
 
-civilinės apyvartos
+ginklus ir šaudmenis
 
-ginklus  ir šaudmenis
+Neribotos
 
-Neribotos civilinės apyvartos ginklus
+civilinės apyvartos ginklus ir jų šaudmenis gali laisvai įsigyti, valdyti,
 
-ir jų šaudmenis gali laisvai įsigyti, valdyti, naudoti ir jais disponuoti:
+naudoti ir jais disponuoti:
 
-1)  ne  jaunesni kaip 18 metų Lietuvos
+1)
 
-Respublikos piliečiai;
+ne jaunesni kaip 18 metų Lietuvos Respublikos piliečiai;
 
-2) ne jaunesni kaip 18 metų teisėtai
+2)
 
-esantys Lietuvos Respublikoje užsienio valstybių piliečiai ar asmenys  be
+ne jaunesni kaip 18 metų teisėtai esantys Lietuvos Respublikoje užsienio
 
-pilietybės (toliau - užsieniečiai);
+valstybių piliečiai ar asmenys be pilietybės (toliau - užsieniečiai);
 
-3) Lietuvos Respublikoje įregistruoti
+3)
 
-juridiniai asmenys.
+Lietuvos Respublikoje įregistruoti juridiniai asmenys.
 
-19  straipsnis. Lietuvos Respublikos
+19 straipsnis. Lietuvos Respublikos
 
-piliečių  teisė įsigyti
-
-ribotos civilinės
+piliečių teisė įsigyti ribotos civilinės
 
 apyvartos ginklus
 
-1. Lietuvos Respublikos piliečiai gali
+1.
 
-įsigyti, laikyti ir nešioti ribotos civilinės apyvartos civilinius ginklus,
+Lietuvos Respublikos piliečiai gali įsigyti, laikyti ir nešioti ribotos
 
-turėdami Vyriausybės nustatyta tvarka išduotą leidimą įsigyti, laikyti bei
+civilinės apyvartos civilinius ginklus, turėdami Vyriausybės nustatyta tvarka
 
-nešioti ribotos civilinės apyvartos ginklą:
+išduotą leidimą įsigyti, laikyti bei nešioti ribotos civilinės apyvartos
 
-1) medžioklei;
+ginklą:
 
-2) sportui;
+1)
 
-3) saugumui užtikrinti (savigynai ir
+medžioklei;
 
-turto apsaugai);
+2)
 
-4) profesinei veiklai;
+sportui;
 
-5) tinkamų naudoti ginklų kolekcijai
+3)
 
-sudaryti, saugoti ir pildyti;
+saugumui užtikrinti (savigynai ir turto apsaugai);
 
-6) kitiems tikslams, jei tai neprieštarauja
+4)
+
+profesinei veiklai;
+
+5)
+
+tinkamų naudoti ginklų kolekcijai sudaryti, saugoti ir pildyti;
+
+6)
+
+kitiems tikslams, jei tai neprieštarauja įstatymams.
+
+2.
+
+Medžioklinius lygiavamzdžius ir nešaunamuosius svaidomuosius (arbaletus) ginklus
+
+turi teisę įsigyti Lietuvos Respublikos piliečiai, ne jaunesni kaip 18 metų,
+
+turintys teisę medžioti, gavę teritorinio policijos komisariato leidimą.
+
+3.
+
+Šaunamuosius graižtvinius medžioklinius ginklus turi teisę įsigyti Lietuvos
+
+Respublikos piliečiai, besiverčiantys profesionalia veikla, susijusia su
+
+medžiokle, arba turintys ne mažesnį kaip 3 metų medžiotojo stažą, nepadarę
+
+teisėtvarkos pažeidimų, susijusių su ginklų ir šaudmenų apyvartos tvarkos
+
+pažeidimais, ir gavę Vidaus reikalų ministerijos leidimą.
+
+4.
+
+Nešaunamuosius medžioklinius ginklus (peilius ar pan.) gali įsigyti asmenys,
+
+turintys teisę medžioti.
+
+5.
+
+Lygiavamzdžius šautuvus savigynai turi teisę įsigyti Lietuvos Respublikos
+
+piliečiai, ne jaunesni kaip 18 metų ir gavę teritorinio policijos komisariato
+
+leidimą.
+
+6.
+
+Vieną ne didesnio kaip 9 mm kalibro pusiau automatinį pistoletą (revolverį)
+
+savigynai gali įsigyti Lietuvos Respublikos piliečiai, ne jaunesni kaip 25 metų
+
+ir gavę Vidaus reikalų ministerijos leidimą.
+
+7.
+
+Ginklus sportui gali įsigyti Lietuvos Respublikos piliečiai šaudymo klubų
+
+nariai, turintys šaudymo klubo rekomendaciją ir gavę Vidaus reikalų
+
+ministerijos leidimą. Kalibrą sportiniams ginklams reglamentuoja tarptautinių
+
+šaudymo federacijų taisyklės.
+
+8.
+
+Leidimas įsigyti civilinį ginklą neišduodamas asmenims:
+
+1)
+
+jaunesniems nei nustatyto amžiaus;
+
+2)
+
+esantiems sveikatos priežiūros įstaigos įskaitoje dėl alkoholizmo, narkomanijos
+
+ar psichinės ligos;
+
+3)
+
+sergantiems kai kuriomis ligomis ar turintiems fizinių trūkumų, trukdančių
+
+teisingai elgtis su ginklu. Ligų ir fizinių trūkumų, trukdančių teisingai
+
+elgtis su ginklu, sąrašą tvirtina Sveikatos apsaugos ministerija;
+
+4)
+
+teistiems už tyčinius nusikaltimus, kuriems teistumas neišnykęs arba
+
+nepanaikintas;
+
+5)
+
+atliekantiems bausmę;
+
+6)
+
+padariusiems pakartotinai per metus administracinį teisės pažeidimą -
+
+nusižengimą viešajai ar valdymo tvarkai;
+
+7)
+
+neturintiems nuolatinės gyvenamosios vietos;
+
+8)
+
+nepateikusiems leidimui įsigyti ginklą reikalingų dokumentų;
+
+9)
+
+esantiems profilaktinėje ar operatyvinėje policijos įskaitoje;
+
+10)
+
+neišlaikiusiems atitinkamo egzamino (įskaitos);
+
+11)
+
+neturintiems tinkamų sąlygų laikyti ginklą;
+
+12)
+
+gyvenantiems kartu su kitais asmenimis, kuriems leidimas pagal šio straipsnio 8
+
+dalies
+
+2, 4, 5, 6, 9 punktų nuostatas neišduodamas.
+
+9.
+
+Asmuo, galintis gauti leidimą įsigyti civilinį ginklą, motyvuotą prašymą
+
+pateikia teritoriniam policijos komisariatui. Šio leidimo išdavimo tvarką
+
+nustato Vyriausybė.
+
+10.
+
+Leidimas įsigyti civilinius ginklus neišduodamas nepaprastosios padėties metu,
+
+kitais įstatymų numatytais atvejais.
+
+11.
+
+Lietuvos Respublikos piliečių, norinčių gauti leidimą įsigyti civilinį ginklą,
+
+medicininio patikrinimo tvarką nustato Sveikatos apsaugos ministerija.
+
+20
+
+straipsnis. Užsieniečių teisė įsigyti, įvežti ir išvežti civilinius ginklus
+
+1.
+
+Ne jaunesni kaip 18 metų, turintys leidimą nuolat gyventi Lietuvos Respublikoje
+
+užsieniečiai turi teisę įsigyti lygiavamzdžius šautuvus.
+
+2.
+
+Ne jaunesni kaip 18 metų ir teisėtai esantys Lietuvos Respublikoje,
+
+tarpininkaujant valstybės, kurios piliečiai jie yra, atstovybei, užsieniečiai
+
+gali įsigyti lygiavamzdžius ir medžioklinius graižtvinius šautuvus, gavę Vidaus
+
+reikalų ministerijos leidimą, ir esant būtinai sąlygai, kad jie išveš ginklus
+
+iš Lietuvos Respublikos ne vėliau kaip per 5 dienas nuo įsigijimo.
+
+3.
+
+Medžioklinius ir sportinius ginklus užsieniečiai gali įvežti į Lietuvos
+
+Respublikos teritoriją turėdami Vidaus reikalų ministerijos leidimą. Šie
+
+ginklai privalo būti išvežti iš Lietuvos Respublikos per leidime nurodytą laiką.
+
+Leidimas išduodamas Vidaus reikalų ministerijos nustatyta tvarka.
+
+4.
+
+Užsieniečiai, be pateisinamų priežasčių laiku neišvežę iš Lietuvos Respublikos
+
+ginklų, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+5.
+
+Civilinių ginklų įsigijimo, įvežimo ir išvežimo tvarką užsieniečiams nustato
+
+Lietuvos Respublikos Vyriausybė.
+
+21
+
+straipsnis. Lietuvos Respublikoje akredituotų ir reziduojančių užsienio
+
+valstybių diplomatinių atstovybių, konsulinių įstaigų ir tarptautinių
+
+organizacijų
+
+atstovybių
+
+diplomatinio, administracinio techninio ir aptarnaujančiojo personalo teisė
+
+įsivežti, įsigyti, laikyti, išsivežti ir nešioti ginklą
+
+1.
+
+Lietuvos Respublikoje akredituotas ir reziduojantis užsienio valstybių
+
+diplomatinių atstovybių, konsulinių įstaigų ir           tarptautinių
+
+organizacijų atstovybių diplomatinis, administracinis techninis ir
+
+aptarnaujantysis personalas (toliau - diplomatinės atstovybės darbuotojai) turi
+
+teisę įsivežti, įsigyti, laikyti, nešioti ir išsivežti vieną ne didesnio kaip 9
+
+milimetrų kalibro pusiau automatinį šaunamąjį ginklą savigynai ir ne daugiau
+
+kaip 50 šovinių šiam ginklui, jeigu Lietuvos Respublikos diplomatinės
+
+atstovybės darbuotojams valstybės, kurioje yra ši atstovybė, įstatymai taip pat
+
+suteikia teisę laikyti ir nešioti šaunamąjį ginklą savigynai.
+
+2.
+
+Diplomatinių atstovybių darbuotojams pistoletų (revolverių) savigynai
+
+įsivežimo, įsigijimo, laikymo, nešiojimo ir išsivežimo tvarką nustato Lietuvos
+
+Respublikos Vyriausybė.
+
+22
+
+straipsnis. Juridinių asmenų teisė įsigyti ir valdyti ribotos civilinės
+
+apyvartos ginklus
+
+1.
+
+Juridiniai asmenys turi teisę įsigyti ir valdyti ribotos civilinės apyvartos
+
+ginklus šiems tikslams:
+
+1)
+
+apsaugai;
+
+2)
+
+sportui ar medžioklei;
+
+3)
+
+mokymui;
+
+4)
+
+tarnybinių funkcijų vykdymui užtikrinti;
+
+5)
+
+ginklų nuomai organizuojant pratybas, treniruotes ar varžybas šaudyklose;
+
+6)
+
+kolekcijoms sudaryti, saugoti ir papildyti;
+
+7)
+
+kitai veiklai, susijusiai su ginklais ir šaudmenimis, jei ji neprieštarauja
 
 įstatymams.
 
-2.  Medžioklinius  lygiavamzdžius  ir
+2.
 
-nešaunamuosius svaidomuosius (arbaletus) ginklus turi teisę įsigyti Lietuvos
+Ribotos civilinės apyvartos ginklų rūšis ir jų kiekį pagal rūšis, kurį įsigyti
 
-Respublikos piliečiai, ne jaunesni kaip 18 metų, turintys teisę  medžioti,
+ir valdyti gali juridiniai asmenys, nustato Vyriausybė.
 
-gavę teritorinio policijos  komisariato leidimą.
+PENKTASIS SKIRSNIS
 
-3. Šaunamuosius graižtvinius
+GINKLŲ IR ŠAUDMENŲ GAMYBA, TAISYMAS, PERDIRBIMAS,
 
-medžioklinius ginklus turi teisę įsigyti Lietuvos Respublikos piliečiai,
+PARDAVINĖJIMAS, EKSPORTAS, IMPORTAS IR KITA VEIKLA,
 
-besiverčiantys profesionalia veikla, susijusia su medžiokle, arba turintys ne
-
-mažesnį kaip 3 metų medžiotojo stažą, nepadarę teisėtvarkos pažeidimų,
-
-susijusių su ginklų ir šaudmenų apyvartos tvarkos pažeidimais, ir gavę Vidaus
-
-reikalų ministerijos leidimą.
-
-4. Nešaunamuosius medžioklinius ginklus
-
-(peilius ar pan.) gali įsigyti asmenys, turintys teisę medžioti.
-
-5. Lygiavamzdžius šautuvus savigynai turi
-
-teisę įsigyti Lietuvos Respublikos piliečiai, ne jaunesni kaip 18 metų ir gavę
-
-teritorinio policijos komisariato leidimą.
-
-6. Vieną ne didesnio kaip 9 mm kalibro
-
-pusiau automatinį pistoletą  (revolverį)  savigynai gali  įsigyti  Lietuvos
-
-Respublikos piliečiai, ne jaunesni kaip 25 metų ir gavę Vidaus reikalų
-
-ministerijos leidimą.
-
-7. Ginklus sportui gali įsigyti
-
-Lietuvos Respublikos piliečiai  šaudymo klubų nariai, turintys šaudymo  klubo
-
-rekomendaciją ir gavę Vidaus reikalų ministerijos leidimą. Kalibrą
-
-sportiniams  ginklams reglamentuoja  tarptautinių šaudymo federacijų taisyklės.
-
-8.  Leidimas  įsigyti  civilinį ginklą
-
-neišduodamas asmenims:
-
-1) jaunesniems nei nustatyto amžiaus;
-
-2) esantiems sveikatos priežiūros
-
-įstaigos įskaitoje dėl alkoholizmo, narkomanijos ar psichinės ligos;
-
-3) sergantiems kai kuriomis ligomis ar
-
-turintiems fizinių trūkumų, trukdančių teisingai elgtis su ginklu. Ligų ir
-
-fizinių trūkumų, trukdančių teisingai elgtis su ginklu, sąrašą tvirtina
-
-Sveikatos apsaugos ministerija;
-
-4) teistiems už tyčinius nusikaltimus,
-
-kuriems teistumas neišnykęs arba nepanaikintas;
-
-5) atliekantiems bausmę;
-
-6) padariusiems pakartotinai per metus
-
-administracinį teisės pažeidimą - nusižengimą viešajai ar valdymo tvarkai;
-
-7) neturintiems nuolatinės gyvenamosios
-
-vietos;
-
-8) nepateikusiems leidimui įsigyti
-
-ginklą reikalingų dokumentų;
-
-9) esantiems profilaktinėje ar
-
-operatyvinėje policijos įskaitoje;
-
-10) neišlaikiusiems atitinkamo egzamino
-
-(įskaitos);
-
-11) neturintiems tinkamų sąlygų laikyti
-
-ginklą;
-
-12) gyvenantiems kartu su kitais
-
-asmenimis, kuriems leidimas pagal šio straipsnio 8 dalies 2, 4, 5, 6, 9 punktų
-
-nuostatas neišduodamas.
-
-9. Asmuo, galintis gauti leidimą
-
-įsigyti civilinį ginklą, motyvuotą      prašymą      pateikia    teritoriniam      policijos
-
-komisariatui. Šio leidimo išdavimo tvarką nustato Vyriausybė.
-
-10. Leidimas įsigyti civilinius ginklus
-
-neišduodamas nepaprastosios padėties metu, kitais įstatymų  numatytais
-
-atvejais.
-
-11. Lietuvos Respublikos piliečių,
-
-norinčių gauti leidimą įsigyti  civilinį ginklą, medicininio patikrinimo
-
-tvarką nustato Sveikatos apsaugos ministerija.
+SUSIJUSI SU GINKLAIS IR ŠAUDMENIMIS
 
 20 straipsnis. Užsieniečių teisė
 
@@ -2005,19 +1821,23 @@ SUSIJUSI SU GINKLAIS IR ŠAUDMENIMIS
 
 licencijavimo reikalavimai
 
-Gaminti, taisyti ir pardavinėti ginklus,
+Gaminti, taisyti ir
 
-taip pat gaminti ir pardavinėti šaudmenis Lietuvos Respublikos teritorijoje
+pardavinėti ginklus, taip pat gaminti ir pardavinėti šaudmenis Lietuvos
 
-leidžiama tik turint Vyriausybės nustatyta tvarka išduotą licenciją. Krašto
+Respublikos teritorijoje leidžiama tik turint Vyriausybės nustatyta tvarka
 
-apsaugos ministerija, Vidaus reikalų ministerija, Specialiųjų tyrimų tarnyba,
+išduotą licenciją. Krašto apsaugos ministerija, Vidaus reikalų ministerija,
 
-Valstybės saugumo departamentas, Generalinė prokuratūra, Šaulių sąjunga,
+Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas, Generalinė
 
-Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos
+prokuratūra, Šaulių sąjunga, Kalėjimų departamentas prie Lietuvos Respublikos
 
-Respublikos ginklų fondas turi teisę taisyti savo ginklus be licencijos.
+teisingumo ministerijos, Lietuvos Respublikos ginklų fondas, Lietuvos muitinės
+
+įstaiga, vykdanti operatyvinę veiklą, turi teisę taisyti savo ginklus be
+
+licencijos.
 
 Straipsnio pakeitimai:
 
@@ -2027,15 +1847,19 @@ Nr. VIII-1215,
 
 Nr. VIII-1633, 00.04.18, Žin., 2000,
 
-Nr.39-1089 (00.05.12),įsigalioja 2000.09.01
+Nr.39-1089 (00.05.12), įsigalioja nuo 2000.09.01
 
 Nr. VIII-1653, 00.05.02, Žin., 2000,
 
-Nr.41-1166 (00.05.19), įsigalioja 2000.06.01
+Nr.41-1166 (00.05.19), įsigalioja nuo 2000.06.01
 
 Nr. VIII-1850, 00.07.13, Žin., 2000,
 
 Nr.64-1922 (00.07.31)
+
+Nr. IX-612,
+
+2001-11-20, Žin., 2001, Nr. 103-3655 (2001-12-07)
 
 24
 
@@ -2181,9 +2005,7 @@ ginklą.
 
 straipsnis. Ginklų ar šaudmenų eksportas, importas ir tranzitas, vienetinių
 
-ginklų
-
-egzempliorių įvežimas ir išvežimas
+ginklų egzempliorių įvežimas ir išvežimas
 
 1.
 
@@ -2341,19 +2163,23 @@ leidimą įsigyti ginklą.
 
 Šaunamųjų ginklų ir šaudmenų laikymo sąlygos privalo užtikrinti jų saugumą.
 
-3. Krašto apsaugos, vidaus reikalų,
+3. Krašto apsaugos, vidaus reikalų, Specialiųjų tyrimų
 
-Specialiųjų tyrimų tarnybos, valstybės saugumo ir prokuratūros sistemoje,
+tarnybos, valstybės saugumo ir prokuratūros sistemoje, Lietuvos Respublikos
 
-Lietuvos Respublikos ginklų fonde ginklai bei šaudmenys saugomi ir laikomi šių
+ginklų fonde ginklai bei šaudmenys saugomi ir laikomi šių institucijų nustatyta
 
-institucijų nustatyta tvarka. Šaulių sąjunga šaunamuosius ginklus ir šaudmenis
+tvarka. Šaulių sąjunga šaunamuosius ginklus ir šaudmenis saugo ir laiko
 
-saugo ir laiko Vyriausybės nustatyta tvarka. Kalėjimų departamente prie
+Vyriausybės nustatyta tvarka. Kalėjimų departamente prie Lietuvos Respublikos
 
-Lietuvos Respublikos teisingumo ministerijos ir jam pavaldžiose įstaigose
+teisingumo ministerijos ir jam pavaldžiose įstaigose ginklai bei šaudmenys
 
-ginklai bei šaudmenys saugomi ir laikomi Teisingumo ministerijos nustatyta
+saugomi ir laikomi Teisingumo ministerijos nustatyta tvarka. Lietuvos muitinės
+
+įstaigoje, vykdančioje operatyvinę veiklą, ginklai bei šaudmenys laikomi
+
+Muitinės departamento prie Lietuvos Respublikos finansų ministerijos nustatyta
 
 tvarka. Kitais atvejais ginklų saugojimo ir laikymo tvarką nustato Vidaus
 
@@ -2367,15 +2193,19 @@ Nr. VIII-1215,
 
 Nr. VIII-1633, 00.04.18, Žin., 2000,
 
-Nr.39-1089 (00.05.12), įsigalioja 2000.09.01
+Nr.39-1089 (00.05.12), įsigalioja nuo 2000.09.01
 
 Nr. VIII-1653, 00.05.02, Žin., 2000,
 
-Nr.41-1166 (00.05.19), įsigalioja 2000.06.01
+Nr.41-1166 (00.05.19), įsigalioja nuo 2000.06.01
 
 Nr. VIII-1850, 00.07.13, Žin., 2000,
 
 Nr.64-1922 (00.07.31)
+
+Nr. IX-612,
+
+2001-11-20, Žin., 2001, Nr. 103-3655 (2001-12-07)
 
 32
 
@@ -2515,9 +2345,9 @@ Ginklų kolekcijos turi būti registruojamos policijos komisariatuose.
 
 6.
 
-Pergabenti kolekcinius ginklus Lietuvos Respublikoje galima tik turint policijos
+Pergabenti kolekcinius ginklus Lietuvos Respublikoje galima tik turint
 
-komisariato leidimą.
+policijos komisariato leidimą.
 
 7.
 
@@ -2703,15 +2533,15 @@ ginklą.
 
 3.
 
-Jei paveldėtojui neišduodamas leidimas įsigyti ginklą, teritorinis policijos
+Jei paveldėtojui neišduodamas leidimas įsigyti ginklą, teritorinis policijos komisariatas
 
-komisariatas perduoda ginklą realizuoti per vieną mėnesį nuo sprendimo
+perduoda ginklą realizuoti per vieną mėnesį nuo sprendimo neišduoti leidimo
 
-neišduoti leidimo įsigyti ginklą priėmimo dienos. Per 14 dienų nuo paveldėto
+įsigyti ginklą priėmimo dienos. Per 14 dienų nuo paveldėto ginklo realizavimo
 
-ginklo realizavimo paveldėtojui turi būti išmokėta ginklo vertė. Perduoto
+paveldėtojui turi būti išmokėta ginklo vertė. Perduoto realizuoti ginklo vertė
 
-realizuoti ginklo vertė nustatoma Vyriausybės nustatyta tvarka.
+nustatoma Vyriausybės nustatyta tvarka.
 
 AŠTUNTASIS SKIRSNIS
 
@@ -2735,7 +2565,9 @@ Pareigūnai, įgalioti kontroliuoti ginklų ir šaudmenų apyvartą, turi teisę
 
 1)
 
-apžiūrėti ginklus ir jų gamybos, taisymo, pardavinėjimo, laikymo bei saugojimo vietas;
+apžiūrėti ginklus ir jų gamybos, taisymo, pardavinėjimo, laikymo bei saugojimo
+
+vietas;
 
 2)
 
@@ -2799,7 +2631,7 @@ RESPUBLIKOS
 
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
 
-__________________
+________________
 
 Pakeitimai:
 
@@ -2835,9 +2667,11 @@ m. rugsėjo 1 d.
 
 Pakeitimas neteko galios nuo 2000 m. rugsėjo 1 d.:
 
-Nr. VIII-1850, 00.07.13, Žin., 2000,
+Nr. VIII-1850, 00.07.13, Žin., 2000, Nr.64-1922 (00.07.31)
 
-Nr.64-1922 (00.07.31)
+GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 23 IR 31
+
+STRAIPSNIŲ PAPILDYMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
 3.
 
@@ -2853,25 +2687,33 @@ GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 7, 9, 23, 31 STRAIPSNIŲ PAPILDYMO
 
 Šis įstatymas įsigalioja nuo 2000
 
-m.birželio 1 d.
+m. birželio 1 d.
 
 4.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos
 
-Nr. VIII-1850, 00.07.13, Žin., 2000,
+Respublikos Seimas, Įstatymas
 
-Nr.64-1922 (00.07.31)
+Nr.
 
-GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 23 IR 31 STRAIPSNIŲ PAPILDYMO
+IX-612,
 
-ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+2001-11-20, Žin., 2001, Nr. 103-3655 (2001-12-07)
 
-*** Pabaiga ***
+GINKLŲ
 
-Redagavo: Aušrinė
+IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 23 IR 31 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
-Trapinskienė (2000.08.18)
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2001-12-10)
+
+autrap@lrs.lt
 
 24 straipsnis. Ginklų ir šaudmenų
 
