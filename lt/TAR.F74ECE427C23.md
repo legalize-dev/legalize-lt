@@ -4,7 +4,7 @@ identifier: "TAR.F74ECE427C23"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-07-02"
-last_updated: "2003-01-01"
+last_updated: "2004-05-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
-Suvestinė redakcija nuo 2003-01-01 iki 2004-05-13
+Suvestinė redakcija nuo 2004-05-14 iki 2004-11-25
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
 
@@ -53,6 +53,12 @@ Deklaravimo tikslai yra rinkti ir kaupti duomenis apie asmenų gyvenamąją viet
 
 7. Gyvenamosios vietos deklaravimo duomenų naudotojas – fizinis ar juridinis asmuo, kuriam teikiami deklaravimo duomenys.
 
+8. Neturintys gyvenamosios vietos asmenys – asmenys, kurie neturi gyvenamosios patalpos arba kurie dėl objektyvių priežasčių šio įstatymo nustatyta tvarka negali deklaruoti gyvenamosios vietos.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
+
 Straipsnio pakeitimai:
 
 Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
@@ -80,6 +86,18 @@ Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA
 4. Nepilnamečiai, kuriems sukako 16 metų, deklaruoja gyvenamąją vietą, jei negyvena kartu su tėvais, įtėviais, globėjais arba kitais teisėtais atstovais ir pastarieji jų gyvenamosios vietos nedeklaravo.
 
 5. Asmenų, kuriems yra įsteigta globa ar rūpyba, gyvenamąją vietą deklaruoja globėjai, rūpintojai, socialinės globos, sveikatos priežiūros įstaigų, kurioms pavesta eiti globėjų, rūpintojų pareigas, administracija.
+
+6. Užsienio valstybėse gyvenantys asmenys, kurie iš Lietuvos Respublikos išvyko trumpesniam kaip šešių mėnesių laikotarpiui, tačiau liko užsienio valstybėje ilgiau negu šešis mėnesius, apie gyvenamosios vietos pakeitimą deklaruoja per Lietuvos Respublikos diplomatines atstovybes ir konsulines įstaigas užsienio valstybėse. Šių asmenų pateikta gyvenamosios vietos deklaracija persiunčiama deklaravimo įstaigai.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
+
+7. Gyvenamosios vietos neturintys asmenys Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka į apskaitą įtraukiami pagal savivaldybę, kurioje jie gyvena. Gyvenamosios vietos neturintys asmenys deklaravimo įstaigai pateikia šio įstatymo 6 straipsnio 2 dalies 1–6 punktuose nustatytus duomenis ir nurodo,  kurioje savivaldybėje jie gyvena ir iš kur atvyko.
+
+Papildyta straipsnio dalimi:
+
+Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
 
 5 straipsnis. Atleidimas nuo deklaravimo
 
@@ -201,11 +219,13 @@ Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA
 
 11 straipsnis. Deklaravimo įstaiga
 
-Deklaravimo įstaiga yra gyvenamosios vietos deklaravimo duomenų valdytojo įgaliota ir jo pavedimu deklaravimo duomenis tvarkanti institucija. Deklaravimo įstaiga asmens prašymu išduoda jo gyvenamąją vietą patvirtinantį dokumentą, taip pat išsiunčia gyvenamosios patalpos savininkui (bendraturčiams) pranešimą apie jam priklausančioje gyvenamojoje patalpoje savo gyvenamąją vietą deklaravusius asmenis.
+Deklaravimo įstaiga yra gyvenamosios vietos deklaravimo duomenų valdytojo įgaliota ir jo pavedimu deklaravimo duomenis bei gyvenamosios vietos neturinčių asmenų apskaitą tvarkanti institucija. Deklaravimo įstaiga asmens prašymu išduoda jo gyvenamąją vietą patvirtinantį dokumentą, taip pat išsiunčia gyvenamosios patalpos savininkui (bendraturčiams) pranešimą apie jam (jiems) priklausančioje gyvenamojoje patalpoje savo gyvenamąją vietą deklaravusius asmenis. Gyvenamosios vietos neturinčio asmens, į apskaitą įtraukto Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka, prašymu deklaravimo įstaiga išduoda pažymą, patvirtinančią, kad šis asmuo yra įtrauktas į apskaitą. Pažymoje nurodoma savivaldybė, kurioje tas asmuo gyvena.
 
 Straipsnio pakeitimai:
 
 Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
+
+Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
 
 III SKYRIUS
 
@@ -278,4 +298,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
 
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 4, 6, 7, 8, 9, 10 ir 11 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
+
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 4 ir 11 straipsnių papildymo įstatymas
 
