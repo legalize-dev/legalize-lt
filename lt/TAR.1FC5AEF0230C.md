@@ -4,7 +4,7 @@ identifier: "TAR.1FC5AEF0230C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-10-29"
-last_updated: "1991-11-01"
+last_updated: "2002-11-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FC5AEF0230C"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -14,6 +14,10 @@ published_in_tar: "1991-10-29"
 document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso 177(2) straipsnio ir baudžiamojo kodekso 163 ir 239 straipsnių pakeitimo
+
+Suvestinė redakcija nuo 2002-11-22 iki 2003-04-30
+
+Įstatymas paskelbtas: Žin. 1991, Nr. 32-858, i. k. 0911010ISTA00I-1926
 
 LIETUVOS RESPUBLIKOS
 
@@ -60,4 +64,14 @@ PIRMININKAS                                  �
 Vilnius, 1991 m. spalio 29 d.
 
 Nr. I-1926
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1162, 2002-10-29, Žin., 2002, Nr. 112-4970 (2002-11-22), i. k. 1021010ISTA0IX-1162
+
+Lietuvos Respublikos baudžiamojo kodekso, patvirtinto 2000 m. rugsėjo 26 d. įstatymu Nr. VIII-1968, Baudžiamojo proceso kodekso, patvirtinto 2002 m. kovo 14 d. įstatymu Nr. IX-785, ir Bausmių vykdymo kodekso, patvirtinto 2002 m. birželio 27 d. įstatymu Nr. IX-994, įsigaliojimo ir įgyvendinimo tvarkos įstatymas
 
