@@ -4,7 +4,7 @@ identifier: "TAR.C543D39A1A6E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-11"
-last_updated: "2003-07-01"
+last_updated: "2005-04-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C543D39A1A6E"
 department: "Lietuvos Respublikos Seimas"
@@ -121,11 +121,7 @@ nario darbo laikas yra nenormuotas.
 
 1.
 
-Seimo nariui įvykdžius Lietuvos Respublikos Seimo statuto 2 straipsnio
-
-reikalavimus, jo socialinio draudimo pažymėjime įrašoma: “Lietuvos Respublikos
-
-Seimo narys”.
+(Neteko galios nuo 2005 m. gegužės 7 d.)
 
 2. Seimo nariai
 
@@ -144,6 +140,10 @@ Straipsnio pakeitimai:
 Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 
 64-2328 (2001-07-25)
+
+Nr. X-163, 2005-04-21,
+
+Žin., 2005, Nr. 58-2001 (2005-05-07)
 
 ANTRASIS SKIRSNIS
 
@@ -241,11 +241,11 @@ Nr. VIII-1421,
 
 Nr. VIII-1976,
 
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 
 Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
 
-64-2322 (2001-07-25), įsigalioja nuo 2002-01-01
+64-2322 (2001-07-25)
 
 TREČIASIS SKIRSNIS
 
@@ -279,13 +279,13 @@ Seimo posėdyje iš anksto numatytų balsavimų metu, taip pat nedalyvavimo
 
 komiteto, komisijos ar pakomitečio posėdyje svarbiomis priežastimis laikoma:
 
-Seimo nario laikinasis nedarbingumas, išvyka Seimo valdybai komandiravus ar
+Seimo nario laikinasis nedarbingumas, išvyka Seimo valdybai komandiravus ar pritarus,
 
-pritarus, nelaimingi atsitikimai ar kitos aplinkybės, apie kurių pateisinamumą
+nelaimingi atsitikimai ar kitos aplinkybės, apie kurių pateisinamumą sprendžia
 
-sprendžia Seimo Etikos ir procedūrų komisija (toliau - Etikos ir procedūrų
+Seimo Etikos ir procedūrų komisija (toliau - Etikos ir procedūrų komisija),
 
-komisija), atitinkamų komitetų, komisijų bei pakomitečių pirmininkai.
+atitinkamų komitetų, komisijų bei pakomitečių pirmininkai.
 
 10
 
@@ -405,11 +405,11 @@ ketvirtadalyje Seimo komiteto, komisijos ar pakomitečio, kurių darbe turi
 
 dalyvauti, posėdžių, to mėnesio atlyginimas sumažinamas vienu trečdaliu.
 
-Remiantis Seimo Etikos ir procedūrų komisijos išvadomis, atlyginimas sumažinamas
+Remiantis Seimo Etikos ir procedūrų komisijos išvadomis, atlyginimas
 
-Seimo valdybos sprendimu. Suma, kuria sumažinamas Seimo nario atlyginimas,
+sumažinamas Seimo valdybos sprendimu. Suma, kuria sumažinamas Seimo nario
 
-išskaitoma iš kito, artimiausio mėnesio atlyginimo.
+atlyginimas, išskaitoma iš kito, artimiausio mėnesio atlyginimo.
 
 3. Jeigu Seimo
 
@@ -449,7 +449,7 @@ Nr. 34-900 (1998 04 10)
 
 Nr. VIII-1976,
 
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 
 Nr.
 
@@ -467,7 +467,7 @@ pakeitimai:
 
 Nr. VIII-1976,
 
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 
 15
 
@@ -545,7 +545,7 @@ Nr. VIII-1483,
 
 Nr. VIII-1976,
 
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 
 Nr. IX-182, 2001 02 20, Žin., 2001, Nr.
 
@@ -553,7 +553,7 @@ Nr. IX-182, 2001 02 20, Žin., 2001, Nr.
 
 Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
 
-64-2322 (2001-07-25), įsigalioja nuo 2002-01-01
+64-2322 (2001-07-25)
 
 13 straipsnis. Atlyginimo dydis ir
 
@@ -775,7 +775,7 @@ Straipsnio pakeitimai:
 
 Nr. IX-121, 2000
 
-12 21, Žin., 2000, Nr. 111-3580 (2000 12 29), įsigalioja nuo 2001 01 01
+12 21, Žin., 2000, Nr. 111-3580 (2000 12 29)
 
 Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
 
@@ -809,7 +809,7 @@ pakeitimai:
 
 Nr. VIII-1976,
 
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 
 19
 
@@ -835,7 +835,7 @@ pakeitimai:
 
 Nr. VIII-1976,
 
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 
 ŠEŠTASIS SKIRSNIS
 
@@ -903,11 +903,11 @@ Nr. VIII-1421,
 
 Nr. VIII-1976,
 
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 
 Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
 
-64-2322 (2001-07-25), įsigalioja nuo 2002-01-01
+64-2322 (2001-07-25)
 
 SEPTINTASIS SKIRSNIS
 
@@ -919,9 +919,9 @@ straipsnis. Seimo narių darbo sąlygų įstatymo įgyvendinimas
 
 1.
 
-Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo
+Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo įstatymu,
 
-įstatymu, sudaro Seimo kanceliarija, savivaldybės.
+sudaro Seimo kanceliarija, savivaldybės.
 
 2.
 
@@ -971,7 +971,7 @@ Nr. VIII-1421,
 
 Nr. VIII-1976,
 
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
@@ -1143,13 +1143,33 @@ SEIMO
 
 NARIŲ DARBO SĄLYGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-163,
+
+2005-04-21, Žin., 2005, Nr. 58-2001 (2005-05-07)
+
+DARBO
+
+KODEKSO, ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO, BAUSMIŲ VYKDYMO KODEKSO,
+
+SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, VIDAUS TARNYBOS STATUTO, SVEIKATOS DRAUDIMO
+
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Angonita Rupšytė (2003-07-23)
+Aušrinė Trapinskienė (2005-05-09)
 
-anrups@lrs.lt
+autrap@lrs.lt
 
