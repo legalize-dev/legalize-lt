@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2004-11-09"
+last_updated: "2005-04-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -4238,11 +4238,15 @@ per programas remiama policijos ir kitų vidaus reikalų pareigūnų asmens
 
 sveikatos priežiūra;
 
-4) asmenų,
+4) teismo ar
 
-sulaikytų policijos, esančių kardomojo kalinimo vietose, nuteistųjų bei
+teisėsaugos institucijų sulaikytų asmenų, kardomojo kalinimo vietose esančių
 
-pabėgėlių ir nelegalių migrantų asmens sveikatos priežiūra;
+asmenų, nuteistųjų bei užsieniečių, pateikusių prašymą suteikti jiems
+
+prieglobstį Lietuvos Respublikoje, užsieniečių, gavusių laikinąją ar papildomą
+
+apsaugą Lietuvos Respublikoje, asmens sveikatos priežiūra;
 
 5) apdraustųjų
 
@@ -4260,13 +4264,13 @@ galūnių, sąnarių, kitų organų protezavimas;
 
 sergančių tuberkulioze, lytiniu keliu plintančiomis ligomis, ŽIV (AIDS),
 
-užkrečiamosiomis, endokrininėmis, psichikos, onkologinėmis ligomis,
+užkrečiamosiomis, endokrininėmis, psichikos, onkologinėmis ligomis, priklausomybės
 
-priklausomybės nuo alkoholio sindromu, narkomanijomis, toksikomanijomis ir
+nuo alkoholio sindromu, narkomanijomis, toksikomanijomis ir kitomis Sveikatos
 
-kitomis Sveikatos apsaugos ministerijos nustatyto sąrašo ligomis, bei nėščiųjų
+apsaugos ministerijos nustatyto sąrašo ligomis, bei nėščiųjų asmens sveikatos
 
-asmens sveikatos priežiūra;
+priežiūra;
 
 8) Sveikatos
 
@@ -4303,6 +4307,12 @@ Nr. VIII-2036, 2000 10 12, Žin., 2000, Nr.
 Nr. IX-2555,
 
 2004-11-09, Žin., 2004, Nr. 171-6309 (2004-11-26)
+
+Nr.
+
+X-179,
+
+2005-04-28, Žin., 2005, Nr. 61-2160 (2005-05-14)
 
 48
 
@@ -4738,13 +4748,13 @@ kreipimasis dėl nemokamų paslaugų gavimo į pirminės sveikatos priežiūros
 
 gydytojus, kurių specialybių sąrašą nustato Sveikatos apsaugos ministerija;
 
-2) paciento kreipimasis
+2) paciento
 
-dėl nemokamų asmens sveikatos priežiūros paslaugų gavimo į antrinės ar tretinės
+kreipimasis dėl nemokamų asmens sveikatos priežiūros paslaugų gavimo į antrinės
 
-sveikatos priežiūros įstaigas. Šiais atvejais pacientas privalo pateikti 1
+ar tretinės sveikatos priežiūros įstaigas. Šiais atvejais pacientas privalo
 
-punkte nurodytų gydytojų siuntimą.
+pateikti 1 punkte nurodytų gydytojų siuntimą.
 
 3. Pacientas
 
@@ -4772,25 +4782,25 @@ nemokamai, už šios priežiūros paslaugas iš paciento negali būti reikalauja
 
 papildomo mokesčio. Jei pacientai, turintys teisę į nemokamas asmens sveikatos
 
-priežiūros paslaugas, savo iniciatyva pasirenka brangiau kainuojančias paslaugas,
+priežiūros paslaugas, savo iniciatyva pasirenka brangiau kainuojančias
 
-medžiagas, procedūras, tai šių paslaugų, medžiagų, procedūrų faktinių kainų ir
+paslaugas, medžiagas, procedūras, tai šių paslaugų, medžiagų, procedūrų
 
-nemokamų paslaugų, medžiagų, procedūrų bazinių kainų skirtumą jie apmoka patys
+faktinių kainų ir nemokamų paslaugų, medžiagų, procedūrų bazinių kainų skirtumą
 
-Sveikatos apsaugos ministerijos nustatyta tvarka. Jei pacientai, turintys teisę
+jie apmoka patys Sveikatos apsaugos ministerijos nustatyta tvarka. Jei
 
-į nemokamas asmens sveikatos priežiūros paslaugas, savo iniciatyva pasirenka
+pacientai, turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas,
 
-papildomas paslaugas ar procedūras, šių paslaugų ar procedūrų kainą jie apmoka
+savo iniciatyva pasirenka papildomas paslaugas ar procedūras, šių paslaugų ar
 
-patys.
+procedūrų kainą jie apmoka patys.
 
 6. LNSS įstaigos
 
-privalo teikti informaciją gyventojams apie nemokamų asmens sveikatos
+privalo teikti informaciją gyventojams apie nemokamų asmens sveikatos priežiūros
 
-priežiūros paslaugų rūšis, jų teikimo mastą ir kainas.
+paslaugų rūšis, jų teikimo mastą ir kainas.
 
 III SKYRIUS
 
@@ -5264,13 +5274,13 @@ Gyventojų
 
 grupių, kurių sveikatai daro didelę įtaką sveikatos rizikos faktoriai, išskyrus
 
-sveikatos rizikos faktorius, kuriuos lemia žalingi įpročiai, asmens ar visuomenės
+sveikatos rizikos faktorius, kuriuos lemia žalingi įpročiai, asmens ar
 
-sveikatos priežiūros išlaidos Sveikatos apsaugos ministerijos nustatyta tvarka
+visuomenės sveikatos priežiūros išlaidos Sveikatos apsaugos ministerijos
 
-gali būti padengiamos iš valstybinių, savivaldybių sveikatos programoms skirtų
+nustatyta tvarka gali būti padengiamos iš valstybinių, savivaldybių sveikatos
 
-lėšų.
+programoms skirtų lėšų.
 
 57 straipsnis. Prekių, gaminių ir paslaugų, galinčių
 
@@ -5978,11 +5988,11 @@ pavedimu kartu su savivaldybėmis nustato pirminės sveikatos priežiūros
 
 plėtojimo pagrindines kryptis;
 
-5) organizuoja
+5) organizuoja akreditavimą
 
-akreditavimą sveikatos priežiūrai ir jos licencijavimą bei prižiūri visų
+sveikatos priežiūrai ir jos licencijavimą bei prižiūri visų nuosavybės rūšių
 
-nuosavybės rūšių asmens ir visuomenės sveikatos priežiūros subjektų veiklą;
+asmens ir visuomenės sveikatos priežiūros subjektų veiklą;
 
 6) vykdo
 
@@ -6086,25 +6096,23 @@ farmacijos įmonių tinklą;
 
 kontroliuoja, kaip juridiniai ir fiziniai asmenys laikosi Sveikatos priežiūros
 
-įstatymų, vykdo sveikatos priežiūros standartizacijos norminių dokumentų
+įstatymų, vykdo sveikatos priežiūros standartizacijos norminių dokumentų reikalavimus;
 
-reikalavimus;
+14) teikia
 
-14) teikia pasiūlymus
+pasiūlymus Vyriausybei, kaip įstatymais nustatyti fizinių ir juridinių asmenų
 
-Vyriausybei, kaip įstatymais nustatyti fizinių ir juridinių asmenų atsakomybę
+atsakomybę už sveikatinimo veiklos teisės aktų pažeidimus, už padarytą žalą
 
-už sveikatinimo veiklos teisės aktų pažeidimus, už padarytą žalą sveikatai ir
-
-aplinkai;
+sveikatai ir aplinkai;
 
 15) plėtoja
 
 sveikatinimo veiklos mokslinius tyrimus ir studijas;
 
-16) plėtoja tarptautinį
+16) plėtoja
 
-bendradarbiavimą sveikatinimo veiklos srityje.
+tarptautinį bendradarbiavimą sveikatinimo veiklos srityje.
 
 2. Ministerijų
 
@@ -6112,9 +6120,9 @@ ir kitų Vyriausybės įstaigų specialiąją kompetenciją sveikatinimo veiklos
 
 valdymo klausimais nustato Vyriausybė.
 
-63 straipsnis. Savivaldybės tarybos kompetencija
+63 straipsnis. Savivaldybės tarybos kompetencija sveikatinimo
 
-sveikatinimo veiklos valdymo
+veiklos valdymo
 
 klausimais
 
@@ -6186,9 +6194,9 @@ klausimais;
 
 Straipsnio pakeitimai:
 
-Nr. IX-2555,
+Nr. IX-2555, 2004-11-09,
 
-2004-11-09, Žin., 2004, Nr. 171-6309 (2004-11-26)
+Žin., 2004, Nr. 171-6309 (2004-11-26)
 
 64 straipsnis. Savivaldybės mero ar savivaldybės
 
@@ -6392,15 +6400,15 @@ sveikatos taryba - tai Seimui atskaitinga sveikatos politikos koordinavimo
 
 institucija. Nacionalinė sveikatos taryba sudaroma ir veikia pagal Seimo
 
-patvirtintus nuostatus. Nacionalinę sveikatos tarybą sudaro: 1/3 Lietuvos savivaldybių
+patvirtintus nuostatus. Nacionalinę sveikatos tarybą sudaro: 1/3 Lietuvos
 
-asociacijos deleguotų savivaldybių bendruomenių sveikatos tarybų atstovų, 1/3
+savivaldybių asociacijos deleguotų savivaldybių bendruomenių sveikatos tarybų
 
-visuomeninių organizacijų, ginančių visuomenės sveikatos interesus, atstovų,
+atstovų, 1/3 visuomeninių organizacijų, ginančių visuomenės sveikatos
 
-1/3 visuomenės sveikatos priežiūros specialistų. Nacionalinės sveikatos tarybos
+interesus, atstovų, 1/3 visuomenės sveikatos priežiūros specialistų.
 
-veikla yra finansuojama iš valstybės biudžeto.
+Nacionalinės sveikatos tarybos veikla yra finansuojama iš valstybės biudžeto.
 
 2. Nacionalinė
 
@@ -6440,9 +6448,9 @@ valstybinių sveikatos programų, pagal kompetenciją koordinuoja Lietuvos
 
 sveikatos programos įgyvendinimą, rengia ir kasmet teikia Seimui pranešimą apie
 
-gyventojų sveikatos ir sveikatos politikos formavimo ir įgyvendinimo būklę,
+gyventojų sveikatos ir sveikatos politikos formavimo ir įgyvendinimo būklę, vykdo
 
-vykdo šio ir kitų įstatymų bei tarybos nuostatų jai priskirtas kitas funkcijas.
+šio ir kitų įstatymų bei tarybos nuostatų jai priskirtas kitas funkcijas.
 
 4. Nacionalinė
 
@@ -6462,7 +6470,9 @@ funkcijoms vykdyti;
 
 kompetenciją atlikti įstatymų, kitų teisės aktų, socialinio ir ekonominio
 
-plėtojimo programų projektų ekspertizę ir teikti šių programų rengėjams savo išvadas;
+plėtojimo programų projektų ekspertizę ir teikti šių programų rengėjams savo
+
+išvadas;
 
 3) pagal
 
@@ -6698,13 +6708,13 @@ Vyriausybės
 
 1. Valstybinė
 
-sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės yra institucija,
+sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės yra
 
-koordinuojanti sveikatos politikos priemonių planavimą ir įgyvendinimą
+institucija, koordinuojanti sveikatos politikos priemonių planavimą ir
 
-ministerijose, kitose Vyriausybės įstaigose, sveikatinimo veiklos įstatymų ir
+įgyvendinimą ministerijose, kitose Vyriausybės įstaigose, sveikatinimo veiklos
 
-kitų teisės aktų įgyvendinimą.
+įstatymų ir kitų teisės aktų įgyvendinimą.
 
 2. Valstybinę
 
@@ -6760,9 +6770,9 @@ ekspertizės išvadas;
 
 3) pagal
 
-kompetenciją teikti siūlymus ministerijoms, kitoms Vyriausybės įstaigoms,
+kompetenciją teikti siūlymus ministerijoms, kitoms Vyriausybės įstaigoms, apskričių
 
-apskričių viršininkams, savivaldos vykdomosioms institucijoms;
+viršininkams, savivaldos vykdomosioms institucijoms;
 
 4) dalyvauti
 
@@ -6784,21 +6794,21 @@ straipsnis. Savivaldybės bendruomenės sveikatos taryba
 
 1. Savivaldybės
 
-bendruomenės sveikatos taryba - tai savarankiška sveikatinimo veiklos
+bendruomenės sveikatos taryba - tai savarankiška sveikatinimo veiklos koordinavimo
 
-koordinavimo institucija prie savivaldybės tarybos. Savivaldybės bendruomenės
+institucija prie savivaldybės tarybos. Savivaldybės bendruomenės sveikatos
 
-sveikatos tarybą sudaro ir jos nuostatus tvirtina savivaldybės taryba.
+tarybą sudaro ir jos nuostatus tvirtina savivaldybės taryba. Savivaldybės
 
-Savivaldybės bendruomenės sveikatos tarybą sudaro: 1/3 savivaldybės paskirtų
+bendruomenės sveikatos tarybą sudaro: 1/3 savivaldybės paskirtų asmenų, 1/3
 
-asmenų, 1/3 savivaldybės įmonių, įstaigų, organizacijų atstovų, 1/3
+savivaldybės įmonių, įstaigų, organizacijų atstovų, 1/3 visuomeninių
 
-visuomeninių organizacijų, ginančių visuomenės sveikatos interesus, atstovų.
+organizacijų, ginančių visuomenės sveikatos interesus, atstovų. Savivaldybės
 
-Savivaldybės bendruomenės sveikatos tarybos veiklos programa yra finansuojama
+bendruomenės sveikatos tarybos veiklos programa yra finansuojama iš
 
-iš savivaldybės biudžeto.
+savivaldybės biudžeto.
 
 2. Savivaldybės
 
@@ -7032,9 +7042,9 @@ kaip ūkiniai subjektai laikosi Tabako kontrolės ir Alkoholio kontrolės
 
 Straipsnio pakeitimai:
 
-Nr. IX-1841,
+Nr. IX-1841, 2003-11-20,
 
-2003-11-20, Žin., 2003, Nr. 115-5195 (2003-12-10)
+Žin., 2003, Nr. 115-5195 (2003-12-10)
 
 71 straipsnis. Valstybinė visuomenės sveikatos
 
@@ -7060,13 +7070,11 @@ monitoringą, valstybinę visuomenės sveikatos ekspertizę, visuomenės sveikat
 
 saugos ekspertizę, atlieka visuomenės sveikatos priežiūros paslaugų
 
-prieinamumo, kokybės (tinkamumo) ir efektyvumo kontrolę, vykdo sveikatos
+prieinamumo, kokybės (tinkamumo) ir efektyvumo kontrolę, vykdo sveikatos priežiūros,
 
-priežiūros, švietimo, socialinės globos ir rūpybos įstaigų valstybinę
+švietimo, socialinės globos ir rūpybos įstaigų valstybinę visuomenės sveikatos
 
-visuomenės sveikatos saugos kontrolę ir kitas funkcijas,
-
-nustatytas jos nuostatuose.
+saugos kontrolę ir kitas funkcijas, nustatytas jos nuostatuose.
 
 Straipsnio pakeitimai:
 
@@ -7154,9 +7162,9 @@ rengiant ir tobulinant teismo medicinos ekspertus;
 
 4) vykdo kitas
 
-šiame ir kituose įstatymuose, teisės aktuose bei instituto nuostatuose numatytas
+šiame ir kituose įstatymuose, teisės aktuose bei instituto nuostatuose
 
-funkcijas.
+numatytas funkcijas.
 
 Straipsnio pakeitimai:
 
@@ -7166,9 +7174,9 @@ Nr.85-2580 (00.10.11)
 
 Nr.
 
-IX-1472, 2003-04-03,
+IX-1472,
 
-Žin., 2003, Nr. 38-1717 (2003-04-24)
+2003-04-03, Žin., 2003, Nr. 38-1717 (2003-04-24)
 
 74
 
@@ -7370,9 +7378,9 @@ pakeitimai:
 
 Nr.
 
-IX-1365, 2003-03-13,
+IX-1365,
 
-Žin., 2003, Nr. 32-1312 (2003-04-02)
+2003-03-13, Žin., 2003, Nr. 32-1312 (2003-04-02)
 
 76
 
@@ -7478,9 +7486,11 @@ medicinos tarnyba prie Krašto apsaugos ministerijos :
 
 1) įgyvendina
 
-šio bei kitų įstatymų Vidaus reikalų ministerijos bei Krašto apsaugos ministerijos
+šio bei kitų įstatymų Vidaus reikalų ministerijos bei Krašto apsaugos
 
-specialiajai kompetencijai priskiriamą sveikatos priežiūros veiklą;
+ministerijos specialiajai kompetencijai priskiriamą sveikatos priežiūros
+
+veiklą;
 
 2) vykdo
 
@@ -7678,9 +7688,9 @@ straipsnis. Savivaldybių sanitarijos inspekcija
 
 sanitarijos inspekcija yra specializuotas savivaldybės administracijos
 
-padalinys, kontroliuojantis, kaip laikomasi sanitarijos reikalavimų savivaldybės
+padalinys, kontroliuojantis, kaip laikomasi sanitarijos reikalavimų
 
-teritorijoje.
+savivaldybės teritorijoje.
 
 2. Savivaldybių
 
@@ -8404,9 +8414,9 @@ kad Lietuvos Respublikos įmonės ir įstaigos savo ūkine komercine veikla
 
 nepadarytų žalos kitų valstybių teritorijoje gyvenantiems asmenims;
 
-2) teikti
+2) teikti suinteresuotoms
 
-suinteresuotoms šalims objektyvią ir patikimą sveikatos informaciją;
+šalims objektyvią ir patikimą sveikatos informaciją;
 
 3) aktyviai
 
@@ -8574,9 +8584,9 @@ SVEIKATOS SISTEMOS ĮSTATYMO 71 STRAIPSNIO PAKEITIMO IR
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1944, 00.09.19, Žin., 2000, Nr.85-2580
+Nr. VIII-1944, 00.09.19, Žin., 2000,
 
-(00.10.11)
+Nr.85-2580 (00.10.11)
 
 SVEIKATOS SISTEMOS ĮSTATYMO 73 STRAIPSNIO PAKEITIMO
 
@@ -8598,9 +8608,9 @@ PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-414, 2001-06-28, Žin., 2001, Nr.
+Nr. IX-414, 2001-06-28, Žin., 2001, Nr. 62-2225
 
-62-2225 (2001-07-18)
+(2001-07-18)
 
 SVEIKATOS SISTEMOS ĮSTATYMO 3 IR 24 STRAIPSNIŲ PAKEITIMO
 
@@ -8766,9 +8776,23 @@ SVEIKATOS
 
 SISTEMOS ĮSTATYMO 2, 11, 41, 47, 63, 69 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga
+21.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-179, 2005-04-28,
+
+Žin., 2005, Nr. 61-2160 (2005-05-14)
+
+SVEIKATOS
+
+SISTEMOS ĮSTATYMO 47 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 ***
+
+Pabaiga ***
 
 Konstitucinio Teismo nutarimai:
 
@@ -8800,7 +8824,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-12-02)
+Aušrinė Trapinskienė (2005-05-16)
 
 autrap@lrs.lt
 
