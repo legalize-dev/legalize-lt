@@ -4,7 +4,7 @@ identifier: "TAR.08F2F39FF20B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "2004-01-01"
+last_updated: "2005-05-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.08F2F39FF20B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos laukinės gyvūnijos įstatymas
 
-Suvestinė redakcija nuo 2004-01-01 iki 2005-05-04
+Suvestinė redakcija nuo 2005-05-05 iki 2010-07-09
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2726, i. k. 0971010ISTAVIII-498
 
@@ -60,7 +60,11 @@ BENDROSIOS NUOSTATOS
 
 6. Laukinės gyvūnijos ištekliai – gyvi ir negyvi laukiniai gyvūnai, jų dalys, taip pat kiaušiniai ir paukščių lizdai.
 
-7. Laukinės gyvūnijos išteklių naudojimas – laukinių gyvūnų paėmimas iš jų buveinių (medžiojimas, žvejojimas, gaudymas ir rinkimas, laukinių gyvūnų gausos reguliavimas, paėmimas iš buveinių mokslo, kultūros, švietimo, auklėjimo, estetikos, zoologinių kolekcijų sudarymo, globos ir gydymo tikslais), stebėjimas, žymėjimas, veisimas, filmavimas, paimtų iš buveinių laukinių gyvūnų laikymas nelaisvėje ar negyvų gyvūnų ir jų dalių perdirbimas.
+7. Laukinės gyvūnijos išteklių naudojimas – laukinių gyvūnų paėmimas iš jų buveinių (medžiojimas, žvejojimas, gaudymas ir rinkimas, laukinių gyvūnų gausos reguliavimas,  paėmimas iš buveinių mokslo, kultūros, švietimo, auklėjimo, estetikos, zoologinių kolekcijų sudarymo, globos ir gydymo tikslais), stebėjimas, žymėjimas, veisimas, filmavimas, paimtų iš buveinių laukinių gyvūnų laikymas nelaisvėje ar negyvų gyvūnų ir jų dalių perdirbimas, prekyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-159, 2005-04-14, Žin., 2005, Nr. 57-1940 (2005-05-05), i. k. 1051010ISTA000X-159
 
 8. Laukinės gyvūnijos išteklių naudojimo limitavimas – laukinės gyvūnijos išteklių naudojimo normų nustatymas atsižvelgiant į turimus duomenis apie laukinės gyvūnijos išteklių kiekį, jų atsinaujinimo galimybes ir būtinybę išsaugoti ateičiai.
 
@@ -206,15 +210,27 @@ LAUKINĖS GYVŪNIJOS IŠTEKLIŲ NAUDOJIMAS
 
 1. Laukinės gyvūnijos išteklių naudotojais gali būti Lietuvos Respublikos piliečiai, Lietuvos Respublikos juridiniai asmenys, užsienio piliečiai bei asmenys be pilietybės. Užsienio juridiniai asmenys laukinės gyvūnijos išteklių naudotojais gali būti, jei Lietuvos Respublikos tarptautinės sutartys nustato šį reikalavimą.
 
-2. Teisė naudoti laisvėje gyvenančios laukinės gyvūnijos išteklius priklauso valstybei. Be Lietuvos Respublikos Vyriausybės įgaliotos institucijos išduoto leidimo draudžiama naudoti laisvėje gyvenančios laukinės gyvūnijos išteklius šio Įstatymo 11 straipsnio 1 dalies 1 ir 2 punktuose nurodytomis naudojimo rūšimis. Naudoti laisvėje gyvenančios laukinės gyvūnijos išteklius kitomis šio Įstatymo 11 straipsnio 1 dalyje nurodytomis naudojimo rūšimis galima laisvai, laikantis šio Įstatymo ir šio Įstatymo 10 straipsnio 1 dalies 1 punkte nurodytų teisės aktų reikalavimų.
+2. Teisė naudoti laisvėje gyvenančios laukinės gyvūnijos išteklius priklauso valstybei. Naudoti laisvėje gyvenančios laukinės gyvūnijos išteklius galima laikantis šio Įstatymo 10 straipsnio 1 dalies 1 punkte nurodytų teisės aktų reikalavimų.
 
-3. Teisė naudoti nelaisvėje laikomus laukinius gyvūnus, įskaitant privačiuose vandens telkiniuose laikomus vandens gyvūnus, priklauso šių gyvūnų (vandens telkinių) savininkams. Naudoti nelaisvėje laikomų laukinių gyvūnų išteklius be jų savininko sutikimo draudžiama.
+Straipsnio dalies pakeitimai:
+
+Nr. X-159, 2005-04-14, Žin., 2005, Nr. 57-1940 (2005-05-05), i. k. 1051010ISTA000X-159
+
+3. Teisė naudoti nelaisvėje laikomus laukinius gyvūnus, įskaitant privačiuose tvenkiniuose laikomus vandens gyvūnus, priklauso šių gyvūnų (tvenkinių) savininkams. Naudoti nelaisvėje laikomų laukinių gyvūnų išteklius be jų savininko sutikimo draudžiama.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-159, 2005-04-14, Žin., 2005, Nr. 57-1940 (2005-05-05), i. k. 1051010ISTA000X-159
 
 10 straipsnis. Laukinės gyvūnijos išteklių naudotojų teisės ir pareigos
 
 1. Laukinės gyvūnijos išteklių naudotojai turi teisę:
 
-1) naudoti laukinės gyvūnijos išteklius pagal Aplinkos apsaugos įstatymo, Saugomų gyvūnų, augalų, grybų rūšių ir bendrijų įstatymo, Saugomų teritorijų įstatymo, Žuvininkystės įstatymo, šio Įstatymo ir kitų teisės aktų nustatytus laukinės gyvūnijos apsaugos ir jos išteklių naudojimo reikalavimus;
+1) naudoti laukinės gyvūnijos išteklius pagal Aplinkos apsaugos įstatymo, Saugomų gyvūnų, augalų, grybų rūšių ir bendrijų įstatymo, Saugomų teritorijų įstatymo, Žuvininkystės įstatymo, Mėgėjiškos žūklės įstatymo, Medžioklės įstatymo, šio Įstatymo ir kitų teisės aktų nustatytus laukinės gyvūnijos apsaugos ir jos išteklių naudojimo reikalavimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-159, 2005-04-14, Žin., 2005, Nr. 57-1940 (2005-05-05), i. k. 1051010ISTA000X-159
 
 2) Aplinkos apsaugos rėmimo programos įstatymo, Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo ir kitų teisės aktų nustatytais atvejais ir tvarka gauti finansinę pagalbą laisvėje gyvenančios laukinės gyvūnijos ištekliams apsaugoti ir atkurti;
 
@@ -254,7 +270,13 @@ Nr. IX-1091, 2002-09-19, Žin., 2002, Nr. 96-4168 (2002-10-04), i. k. 1021010IST
 
 6) laukinių gyvūnų paėmimas iš buveinių globos ir gydymo tikslais;
 
-7) laukinių gyvūnų gausos reguliavimas atliekant saugomų teritorijų priežiūrą arba siekiant apsaugoti žmonių sveikatą ir gyvūnus, išvengti žalos žemės, miško ar žuvininkystės ūkiuose, transporto bei kitose žmogaus ūkinės veiklos srityse.
+7) laukinių gyvūnų gausos reguliavimas atliekant saugomų teritorijų priežiūrą arba siekiant apsaugoti žmonių sveikatą ir gyvūnus, išvengti žalos žemės, miško ar žuvininkystės ūkiuose, transporto bei kitose žmogaus ūkinės veiklos srityse;
+
+8) prekyba laukiniais gyvūnais.
+
+Papildyta straipsnio punktu:
+
+Nr. X-159, 2005-04-14, Žin., 2005, Nr. 57-1940 (2005-05-05), i. k. 1051010ISTA000X-159
 
 2. Kai kurių laukinių gyvūnų rūšių išteklių naudojimas, atsižvelgiant į jų ekologinę būklę, populiacijų dinamiką, buveinių būklę, reprodukcijos galimybes arba jų svarbą tarptautiniu mastu, gali būti ribojamas nustatant iš buveinių paimamų gyvūnų skaičių ir kitas naudojimo sąlygas.
 
@@ -280,9 +302,11 @@ Nr. IX-1091, 2002-09-19, Žin., 2002, Nr. 96-4168 (2002-10-04), i. k. 1021010IST
 
 14 straipsnis. Žvejojimas
 
-1. Žvejojimas yra žuvų gaudymas, jų laikymas ar perdirbimas laivuose bei sugautų žuvų gabenimas laivais.
+Žvejojimą reglamentuoja Žuvininkystės įstatymas ir Mėgėjiškos žūklės įstatymas.
 
-2. Žvejojimą reglamentuoja Žuvininkystės įstatymas, Vyriausybės arba jos įgaliotos institucijos tvirtinamos Žvejybos ir žuvų išteklių apsaugos Lietuvos vandenyse taisyklės, Mėgėjiškos žūklės ir žuvų apsaugos taisyklės, Žvejybos ir žuvų išteklių apsaugos Lietuvos Respublikos ekonominėje zonoje Baltijos jūroje taisyklės, Laikinieji žvejybos ir žuvų išteklių apsaugos privačiuose vandens telkiniuose nuostatai bei kiti teisės aktai.
+Straipsnio pakeitimai:
+
+Nr. X-159, 2005-04-14, Žin., 2005, Nr. 57-1940 (2005-05-05), i. k. 1051010ISTA000X-159
 
 15 straipsnis. Medžiojimo ir žvejojimo objektams nepriklausančių laukinių gyvūnų gaudymas ar rinkimas
 
@@ -332,7 +356,11 @@ Nr. IX-1091, 2002-09-19, Žin., 2002, Nr. 96-4168 (2002-10-04), i. k. 1021010IST
 
 2. Aplinkos ministerija kartu su Muitinės departamentu prie Finansų ministerijos ir Valstybine maisto ir veterinarijos tarnyba nustato Prekybos laukiniais gyvūnais taisykles. Atsižvelgiant į laukinių gyvūnų rūšių apsaugos būklę taip pat Lietuvos Respublikos tarptautinių sutarčių reikalavimus ir siekiant mažiau laukinių gyvūnų paimti iš jų buveinių, prekyba tam tikrų rūšių laukiniais gyvūnais ribojama arba draudžiama.
 
-3. Prekybos laukiniais gyvūnais objektais gali būti tik laukiniai gyvūnai, paimti iš buveinių pagal šio Įstatymo 13, 14, 15, 16, 17 ir 19 straipsnių reikalavimus, taip pat laukiniai gyvūnai, paimti iš buveinių pagal šio Įstatymo 18 straipsnio reikalavimus, jeigu grąžinti laukinius gyvūnus į buveines, iš kurių jie buvo paimti, nėra privaloma. Reikalavimus, susijusius su laukinių gyvūnų laikymu nelaisvėje, jų gabenimo ir priežiūros sąlygomis, nustato Gyvūnų globos, laikymo ir naudojimo įstatymas.
+3. Prekybos laukiniais gyvūnais objektais gali būti tik laukiniai gyvūnai, paimti iš buveinių pagal šio Įstatymo 13, 14, 15, 16, 17 ir 19 straipsnių reikalavimus, taip pat laukiniai gyvūnai, paimti iš buveinių pagal šio Įstatymo 18 straipsnio reikalavimus, jeigu grąžinti laukinius gyvūnus į buveines, iš kurių jie buvo paimti, nėra privaloma, taip pat nelaisvėje išveisti laukiniai gyvūnai. Reikalavimus, susijusius su laukinių gyvūnų laikymu nelaisvėje, jų gabenimo ir priežiūros sąlygomis, nustato Gyvūnų globos, laikymo ir naudojimo įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-159, 2005-04-14, Žin., 2005, Nr. 57-1940 (2005-05-05), i. k. 1051010ISTA000X-159
 
 KETVIRTASIS SKIRSNIS
 
@@ -423,6 +451,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1614, 2003-06-10, Žin., 2003, Nr. 61-2767 (2003-06-27), i. k. 1031010ISTA0IX-1614
 
 Lietuvos Respublikos laukinės gyvūnijos įstatymo 4, 8, 10 ir 24 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-159, 2005-04-14, Žin., 2005, Nr. 57-1940 (2005-05-05), i. k. 1051010ISTA000X-159
+
+Lietuvos Respublikos laukinės gyvūnijos įstatymo 2, 9, 10, 11, 14 ir 20 straipsnių pakeitimo ir papildymo įstatymas
 
 25 straipsnis. Laukinių gyvūnų ir jų naudojimo valstybinė apskaita ir valstybinis gyvūnijos kadastras
 
