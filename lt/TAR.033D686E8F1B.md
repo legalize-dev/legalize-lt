@@ -4,7 +4,7 @@ identifier: "TAR.033D686E8F1B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2004-11-11"
+last_updated: "2005-05-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 department: "Lietuvos Respublikos Seimas"
@@ -257,6 +257,10 @@ pareigūnams Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 važiavimo bilietą su nuolaida
 
+1 dalies redakcija iki 2005 m.
+
+liepos 1 d.:
+
 1. Teisę įsigyti vienkartinį važiavimo
 
 tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais bei
@@ -265,21 +269,65 @@ vienkartinį arba terminuotą vardinį važiavimo vietinio (miesto ir
 
 priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, reguliaraus
 
-susisiekimo laivais ir keltais bilietą su 80 procentų nuolaida turi vaikai
+susisiekimo laivais ir keltais bilietą su 80 procentų nuolaida turi vaikai invalidai,
 
-invalidai, I grupės invalidai, į Sveikatos apsaugos ministerijos nustatytą
+I grupės invalidai, į Sveikatos apsaugos ministerijos nustatytą sąrašą
 
-sąrašą įrašytomis ligomis sergantys asmenys, kuriems gydyti nuolat reikalinga
+įrašytomis ligomis sergantys asmenys, kuriems gydyti nuolat reikalinga
 
 hemodializė, bei juos lydintys asmenys (vienam asmeniui – vienas lydintysis);
 
-taip pat sukakę 85 metus ir vyresni asmenys; Lietuvos Respublikos nepriklausomybės
+taip pat sukakę 85 metus ir vyresni asmenys; Lietuvos Respublikos
 
-gynėjai, tapę II ar III grupės invalidais dėl 1991 m. sausio 11 13 d. ir
+nepriklausomybės gynėjai, tapę II ar III grupės invalidais dėl 1991 m. sausio
 
-po to vykdytos SSRS agresijos; pasipriešinimo 1940–1990 metų okupacijoms
+11 13 d. ir po to vykdytos SSRS agresijos; pasipriešinimo 1940–1990 metų
 
-dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
+okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
+
+1 dalies redakcija nuo 2005 m.
+
+liepos 1 d.:
+
+1.
+
+Teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo
+
+autobusais, keleiviniais traukiniais bei vienkartinį arba terminuotą vardinį
+
+važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais
+
+ir troleibusais, reguliaraus susisiekimo laivais ir keltais bilietą su 80
+
+procentų nuolaida turi asmenys, kuriems nustatytas neįgalumo lygis, ar asmenys,
+
+pripažinti nedarbingais, ar asmenys, sukakę senatvės pensijos amžių, kuriems
+
+teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis,
+
+į Sveikatos apsaugos ministerijos nustatytą sąrašą įrašytomis ligomis sergantys
+
+asmenys, kuriems gydyti nuolat reikalinga hemodializė, bei juos lydintys
+
+asmenys (vienam asmeniui – vienas lydintysis); taip pat sukakę 85 metus ir
+
+vyresni asmenys; Lietuvos Respublikos nepriklausomybės gynėjai, pripažinti iš
+
+dalies darbingais ar sukakę senatvės pensijos amžių, kuriems teisės aktų
+
+nustatyta tvarka yra nustatytas vidutinių specialiųjų poreikių lygis dėl 1991
+
+m. sausio 11–13 d. ir po to vykdytos SSRS agresijos; žuvusių Lietuvos
+
+Respublikos nepriklausomybės gynėjų šeimų nariai, nukentėję nuo 1991 m. sausio
+
+11–13 d. ir po to vykdytos SSRS agresijos; pasipriešinimo 1940–1990
+
+metų okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
+
+2 dalies redakcija iki 2005 m.
+
+liepos 1 d.:
 
 2.
 
@@ -325,23 +373,49 @@ vykdytos SSRS agresijos;
 
 6) asmenys nuo 70 iki 85 metų.
 
-3 dalies redakcija iki 2005 m.
+2 dalies redakcija nuo 2005 m.
 
-sausio 1 d.:
+liepos 1 d.:
 
-3. Teisę įsigyti
+2.
 
-vienkartinį arba terminuotą važiavimo keleiviniais traukiniais bilietą su 50
+Teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo
 
-procentų nuolaida turi aukštųjų ir aukštesniųjų mokyklų dieninių skyrių
+autobusais, keleiviniais traukiniais bei vienkartinį arba terminuotą vardinį
 
-studentai bei profesinio mokymo įstaigų dieninių skyrių moksleiviai,
+važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais
 
-važiuojantys nuo rugsėjo 1 d. iki liepos 1 d.
+ir troleibusais, reguliaraus susisiekimo laivais ir keltais bilietą su 50
 
-3 dalies redakcija nuo 2005 m.
+procentų nuolaida turi:
 
-sausio 1 d.:
+1) asmenys, pripažinti iš dalies
+
+darbingais, ar asmenys, sukakę senatvės pensijos amžių, kuriems teisės aktų
+
+nustatyta tvarka yra nustatytas vidutinių specialiųjų poreikių lygis;
+
+2)
+
+pasipriešinimo 1940-1990 metų okupacijoms dalyviai – kariai savanoriai,
+
+jaunesni nei 70 metų, ir laisvės kovų dalyviai;
+
+3)
+
+nuo 1939-1990 metų okupacijų nukentėję asmenys – politiniai kaliniai
+
+ir tremtiniai bei buvę getų, koncentracijos ar kitokio tipo prievartinių
+
+stovyklų kaliniai;
+
+4) Lietuvos Respublikos nepriklausomybės
+
+gynėjai, nukentėję nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSSR
+
+agresijos;
+
+5) asmenys nuo 70 iki 85 metų.
 
 3.
 
@@ -435,6 +509,12 @@ IX-2581,
 
 2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
 
+Nr.
+
+X-189,
+
+2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
+
 6
 
 straipsnis. Važiavimo išlaidų kompensavimas moksleiviams, vaikų globos įstaigų
@@ -455,13 +535,15 @@ mokyklų, profesinio mokymo įstaigų ir papildomo ugdymo įstaigų moksleiviams
 
 šių mokyklų ar įstaigų darbo dienomis važiavusiems į mokyklą ar įstaigą iki 30
 
-km ir atgal moksleivio pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus
+km ir atgal moksleivio pažymėjime nurodytu maršrutu vietinio (priemiestinio)
 
-susisiekimo autobusais, tolimojo reguliaraus susisiekimo autobusais,
+reguliaraus susisiekimo autobusais, tolimojo reguliaraus susisiekimo
 
-keleiviniais traukiniais bei reguliaraus susisiekimo laivais ir keltais;
+autobusais, keleiviniais traukiniais bei reguliaraus susisiekimo laivais ir
 
-papildomo ugdymo įstaigų moksleiviams ši lengvata taikoma ir ne darbo dienomis;
+keltais; papildomo ugdymo įstaigų moksleiviams ši lengvata taikoma ir ne darbo
+
+dienomis;
 
 2)
 
@@ -471,31 +553,15 @@ vaikų globos ir auklėjimo namuose gyvenantiems našlaičiams ir likusiems be t
 
 globos vaikams, internatinių bei kitų bendrojo lavinimo mokyklų ir profesinio
 
-mokymo įstaigų bendrabučiuose gyvenantiems moksleiviams, važiavusiems moksleivio
+mokymo įstaigų bendrabučiuose gyvenantiems moksleiviams, važiavusiems
 
-pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
+moksleivio pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus
 
-autobusais, tolimojo reguliaraus susisiekimo
+susisiekimo autobusais, tolimojo reguliaraus
 
-autobusais, keleiviniais traukiniais bei reguliaraus susisiekimo laivais
+susisiekimo autobusais, keleiviniais traukiniais bei reguliaraus
 
-ir keltais.
-
-2. Aukštųjų ir
-
-aukštesniųjų mokyklų dieninių skyrių
-
-studentams bei profesinių mokymo įstaigų dieninių skyrių moksleiviams važiavimo
-
-tolimojo reguliaraus susisiekimo autobusais nuo rugsėjo 1 d. iki liepos 1 d.
-
-išlaidas iki 50 procentų šios mokyklos ir mokymo įstaigos gali kompensuoti
-
-pagal steigėjų nustatytą tvarką.
-
-2 dalis netenka galios nuo 2005
-
-m. sausio 1 d.
+susisiekimo laivais ir keltais.
 
 Straipsnio pakeitimai:
 
@@ -508,6 +574,10 @@ IX-2581,
 7 straipsnis. Teisė į
 
 transporto išlaidų kompensaciją
+
+1 dalies redakcija iki 2005 m.
+
+liepos 1 d.:
 
 1. Invalidai, turintys
 
@@ -525,6 +595,30 @@ vieną kartą per 6 metus gauti iki 32 MGL dydžio specialių lengvųjų automob
 
 gali patys vairuoti šiuos lengvuosius automobilius.
 
+1 dalies redakcija nuo 2005 m.
+
+liepos 1 d.:
+
+1. Neįgalieji,
+
+turintys sutrikusią judėjimo funkciją, turi teisę:
+
+1) kiekvieną mėnesį gauti 0,25 minimalaus gyvenimo lygio
+
+(MGL) dydžio transporto išlaidų kompensaciją;
+
+2)
+
+vieną kartą per 6 metus gauti iki 32 MGL dydžio specialių lengvųjų automobilių
+
+įsigijimo ir jų techninio pritaikymo išlaidų kompensaciją, jeigu šie asmenys
+
+gali patys vairuoti šiuos lengvuosius automobilius.
+
+2 dalies redakcija iki 2005 m.
+
+liepos 1 d.:
+
 2.
 
 Laikotarpiu, kai invalidas, turintis teisę gauti transporto išlaidų
@@ -534,6 +628,20 @@ kompensaciją, atlieka bausmę laisvės atėmimo vietoje, ši kompensacija nemok
 Šis laikotarpis taip pat neįskaitomas specialių lengvųjų automobilių įsigijimo
 
 ir jų techninio pritaikymo išlaidų kompensacijai gauti.
+
+2 dalies redakcija nuo 2005 m.
+
+liepos 1 d.:
+
+2.
+
+Laikotarpiu, kai neįgalusis, turintis teisę gauti transporto išlaidų
+
+kompensaciją, atlieka bausmę laisvės atėmimo vietoje, ši kompensacija nemokama.
+
+Šis laikotarpis taip pat neįskaitomas specialiųjų lengvųjų automobilių
+
+įsigijimo ir jų techninio pritaikymo išlaidų kompensacijai gauti.
 
 3.
 
@@ -551,7 +659,13 @@ Straipsnio pakeitimai:
 
 Nr. IX-919,
 
-2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21), įsigalioja nuo 2002-07-01
+2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21)
+
+Nr.
+
+X-189,
+
+2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
 
 TREČIASIS
 
@@ -598,24 +712,6 @@ reguliaraus susisiekimo laivais ir keltais lengvatų, nustatytų šio įstatymo 
 straipsnio 1, 2, 4, 5 ir 7 dalyse, – iš savivaldybių, kuriose
 
 įregistruotos šių vežėjų įmonės, biudžetų;
-
-3 punkto redakcija iki 2005 m.
-
-sausio 1 d.:
-
-3) dėl važiavimo
-
-tolimojo reguliaraus susisiekimo autobusais lengvatų, nustatytų šio įstatymo 5 straipsnio
-
-1, 2, 4, 5 ir 7 dalyse, iki 2000 m. gruodžio 31 d. – iš savivaldybių,
-
-kuriose įregistruotos šių vežėjų įmonės, biudžetų, nuo 2001 m. sausio 1 d. – iš
-
-valstybės biudžeto;
-
-3 punkto redakcija nuo 2005 m.
-
-sausio 1 d.:
 
 3) dėl važiavimo
 
@@ -671,7 +767,9 @@ BAIGIAMOSIOS
 
 NUOSTATOS
 
-9 straipsnis. Įstatymo įsigaliojimas
+9 straipsnis. Įstatymo
+
+įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 2000
 
@@ -745,9 +843,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-919, 2002-05-30,
+IX-919,
 
-Žin., 2002, Nr. 62-2494 (2002-06-21)
+2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21)
 
 TRANSPORTO
 
@@ -813,13 +911,31 @@ LENGVATŲ ĮSTATYMO 5, 6 IR 8 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
-*** Pabaiga
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-189, 2005-05-12,
+
+Žin., 2005, Nr. 67-2401 (2005-05-28)
+
+TRANSPORTO
+
+LENGVATŲ ĮSTATYMO 5 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2005 m. liepos 1 d.
 
 ***
 
+Pabaiga ***
+
 Redagavo:
 
-Aušrinė Trapinskienė (2004-12-03)
+Aušrinė Trapinskienė (2005-06-01)
 
 autrap@lrs.lt
 
