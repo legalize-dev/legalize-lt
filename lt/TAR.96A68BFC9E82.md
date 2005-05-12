@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2004-11-11"
+last_updated: "2005-05-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -975,11 +975,11 @@ vykdyti dalį Vyriausybės įstaigos steigėjo funkcijų;
 
 9) tvirtina
 
-ministerijų, Vyriausybės įstaigų ir įstaigų prie ministerijų nuostatus.
+ministerijų, Vyriausybės įstaigų, įstaigų prie ministerijų nuostatus ir
 
-Tvirtinti įstaigų prie ministerijų nuostatus Vyriausybė gali pavesti
+Vyriausybės atstovo tarnybos veiklos nuostatus. Tvirtinti įstaigų prie
 
-atitinkamam ministrui;
+ministerijų nuostatus Vyriausybė gali pavesti atitinkamam ministrui;
 
 10) kartu su
 
@@ -987,11 +987,11 @@ Respublikos Prezidentu vykdo užsienio politiką; užmezga diplomatinius santyki
 
 ir palaiko ryšius su užsienio valstybėmis bei tarptautinėmis organizacijomis;
 
-atsižvelgdama į Seimo Užsienio reikalų komiteto rekomendacijas, teikia
+atsižvelgdama į Seimo Užsienio reikalų komiteto rekomendacijas, teikia Respublikos
 
-Respublikos Prezidentui siūlymus dėl Lietuvos Respublikos diplomatinių atstovų
+Prezidentui siūlymus dėl Lietuvos Respublikos diplomatinių atstovų užsienio
 
-užsienio valstybėse ir prie tarptautinių organizacijų skyrimo bei atšaukimo;
+valstybėse ir prie tarptautinių organizacijų skyrimo bei atšaukimo;
 
 11) įstatymo
 
@@ -1009,9 +1009,9 @@ teritorijoje;
 
 kreiptis į Konstitucinį Teismą su prašymu ištirti, ar Lietuvos Respublikos
 
-įstatymai ar kiti Seimo priimti teisės aktai neprieštarauja Lietuvos
+įstatymai ar kiti Seimo priimti teisės aktai neprieštarauja Lietuvos Respublikos
 
-Respublikos Konstitucijai;
+Konstitucijai;
 
 14) skiria ir
 
@@ -1040,6 +1040,12 @@ Nr. VIII-1980,
 Nr. IX-842,
 
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+
+Nr.
+
+X-198,
+
+2005-05-12, Žin., 2005, Nr. 67-2405 (2005-05-28)
 
 23 straipsnis.
 
@@ -1127,11 +1133,11 @@ Vyriausybei siūlymus dėl apskričių viršininkų, jų pavaduotojų skyrimo ir
 
 atleidimo iš pareigų;
 
-9) kviečia
+9) kviečia Vyriausybės
 
-Vyriausybės posėdžius ir jiems vadovauja (pirmininkauja), tvirtina Vyriausybės
+posėdžius ir jiems vadovauja (pirmininkauja), tvirtina Vyriausybės posėdžio
 
-posėdžio darbotvarkę;
+darbotvarkę;
 
 10) suteikia
 
@@ -1173,9 +1179,9 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-Nr. IX-842,
+Nr. IX-842, 2002-04-16,
 
-2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+Žin., 2002, Nr. 41-1527 (2002-04-19)
 
 25
 
@@ -1187,9 +1193,9 @@ Pirmininką, įgaliojimai
 
 1. Ministras,
 
-einantis Ministro Pirmininko pareigas, turi tuos pačius įgaliojimus kaip ir
+einantis Ministro Pirmininko pareigas, turi tuos pačius įgaliojimus kaip ir Ministras
 
-Ministras Pirmininkas.
+Pirmininkas.
 
 2. Ministras,
 
@@ -1257,13 +1263,13 @@ Pavaduojantis ministras nevykdo funkcijų, numatytų šio straipsnio 3 dalies 8,
 
 3. Ministras:
 
-1) vadovauja
+1) vadovauja ministerijai,
 
-ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus ir
+sprendžia ministerijos kompetencijai priklausančius klausimus ir yra tiesiogiai
 
-yra tiesiogiai atsakingas už Vyriausybės programos įgyvendinimą ministerijos
+atsakingas už Vyriausybės programos įgyvendinimą ministerijos kompetencijai
 
-kompetencijai priklausančiais klausimais;
+priklausančiais klausimais;
 
 2) užtikrina
 
@@ -1459,7 +1465,9 @@ apsaugos ministerija;
 
 mokslo ministerija;
 
-9) Teisingumo ministerija;
+9) Teisingumo
+
+ministerija;
 
 10) Ūkio
 
@@ -1469,9 +1477,9 @@ ministerija;
 
 reikalų ministerija;
 
-12) Vidaus
+12) Vidaus reikalų
 
-reikalų ministerija;
+ministerija;
 
 13) Žemės ūkio
 
@@ -1679,7 +1687,9 @@ Ministro Pirmininko ir Vyriausybės pavedimų vykdymą, vadovaudamasis
 
 ministerijos strateginiais veiklos planais ir Vyriausybės programos
 
-įgyvendinimo priemonėmis, užtikrina ministerijos rengiamų sprendimų suderinamumą;
+įgyvendinimo priemonėmis, užtikrina ministerijos rengiamų sprendimų
+
+suderinamumą;
 
 5) koordinuoja
 
@@ -1893,11 +1903,11 @@ Vyriausybės įstaigos vadovas yra pavaldus Ministrui Pirmininkui.
 
 įstaigos vadovas sprendžia įstaigos kompetencijai priskirtus klausimus, taip
 
-pat vykdo kitas įstatymų ir Vyriausybės nutarimų nustatytas funkcijas.
+pat vykdo kitas įstatymų ir Vyriausybės nutarimų nustatytas funkcijas. Vyriausybės
 
-Vyriausybės įstaigos vadovas yra asmeniškai atsakingas, kad įstaiga spręstų jai
+įstaigos vadovas yra asmeniškai atsakingas, kad įstaiga spręstų jai pavestus
 
-pavestus uždavinius.
+uždavinius.
 
 5. Vyriausybės
 
@@ -1913,13 +1923,13 @@ tikrina, kaip jie vykdomi.
 
 7. Vyriausybės
 
-įstaigos veikla organizuojama vadovaujantis Vyriausybės aprobuotais viešai paskelbtais
+įstaigos veikla organizuojama vadovaujantis Vyriausybės aprobuotais viešai
 
-strateginiais veiklos planais, rengiamais vadovaujantis Vyriausybės
+paskelbtais strateginiais veiklos planais, rengiamais vadovaujantis
 
-programa, kuriai Seimas pritaria, ir derinamais su Valstybės ilgalaikės raidos
+Vyriausybės programa, kuriai Seimas pritaria, ir derinamais su Valstybės
 
-strategija.
+ilgalaikės raidos strategija.
 
 Straipsnio pakeitimai:
 
@@ -2165,9 +2175,9 @@ tvarka
 
 1. Teisės
 
-aktų projektų, apimančių kelių ministrų valdymo sritis, derinimo metu iškilę nesutarimai
+aktų projektų, apimančių kelių ministrų valdymo sritis, derinimo metu iškilę
 
-paprastai svarstomi Vyriausybės komitete.
+nesutarimai paprastai svarstomi Vyriausybės komitete.
 
 2. Komitetams
 
@@ -2229,9 +2239,9 @@ turi teisę ir ministras Vyriausybės darbo reglamento nustatyta tvarka.
 
 Balsuojama, ar klausimą įtraukti į darbotvarkę. Jei šiuo klausimu teigiamas
 
-sprendimas nepriimamas, klausimas turi būti teikiamas svarstyti Vyriausybės darbo
+sprendimas nepriimamas, klausimas turi būti teikiamas svarstyti Vyriausybės
 
-reglamento nustatyta tvarka.
+darbo reglamento nustatyta tvarka.
 
 4. Vyriausybės
 
@@ -2455,7 +2465,9 @@ SKIRSNIS
 
 MINISTRO PIRMININKO
 
-POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI IR VYRIAUSYBĖS KANCELIARIJA
+POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI IR VYRIAUSYBĖS
+
+KANCELIARIJA
 
 Skirsnio pavadinimas keistas:
 
@@ -3217,6 +3229,20 @@ VYRIAUSYBĖS
 
 STRAIPSNIU BEI VIENUOLIKTUOJU SKIRSNIU ĮSTATYMAS
 
+20.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-198, 2005-05-12,
+
+Žin., 2005, Nr. 67-2405 (2005-05-28)
+
+VYRIAUSYBĖS
+
+ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -3247,7 +3273,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-11-29)
+Aušrinė Trapinskienė (2005-05-30)
 
 autrap@lrs.lt
 
