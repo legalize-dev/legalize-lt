@@ -4,7 +4,7 @@ identifier: "TAR.8A16A03D98D4"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-01"
-last_updated: "2004-10-12"
+last_updated: "2005-05-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A16A03D98D4"
 department: "Lietuvos Respublikos Seimas"
@@ -2963,23 +2963,21 @@ nekilnojamąjį turtą, atkūrimo būdą parenka šio įstatymo 17 straipsnyje
 
 nurodytos institucijos.
 
-4.
+4. Pilietis iki 2005 m. gruodžio 31 d. gali
 
-Pilietis iki 2004 m. liepos 1 d. gali pakeisti pareikštą valią, kad jam už
+pakeisti pareikštą valią, kad jam už valstybės išperkamą turtą būtų atlyginta
 
-valstybės išperkamą turtą būtų atlyginta pinigais, ir prašyti už išperkamą
+pinigais, ir prašyti už išperkamą turtą atlyginti vertybiniais popieriais. Jeigu
 
-turtą atlyginti vertybiniais popieriais. Jeigu sprendimas priimtas, bet
+sprendimas priimtas, bet nepradėtas vykdyti, piliečio prašymu šio įstatymo 17
 
-nepradėtas vykdyti, piliečio prašymu šio įstatymo 17 straipsnyje nurodytos
+straipsnyje nurodytos institucijos jį pakeičia administracine tvarka, o jei
 
-institucijos jį pakeičia administracine tvarka, o jei sprendimas pradėtas
+sprendimas pradėtas vykdyti, jis gali būti panaikinamas Vyriausybės nustatyta
 
-vykdyti, jis gali būti panaikinamas Vyriausybės nustatyta tvarka. Prašymus dėl
+tvarka. Prašymus dėl priimtų sprendimų pakeitimo ir panaikinimo piliečiai turi
 
-priimtų sprendimų pakeitimo ir panaikinimo piliečiai turi pateikti iki 2004 m.
-
-liepos 1 d.
+pateikti iki 2005 m. gruodžio 31 d.
 
 5. Piliečiams, kuriems gali būti taikomos šio
 
@@ -3051,9 +3049,9 @@ Nr. VIII-1181, 99.05.13, Žin.,
 
 Nr.
 
-IX-489,
+IX-489, 2001-08-03,
 
-2001-08-03, Žin., 2001, Nr. 71-2518 (2001-08-17)
+Žin., 2001, Nr. 71-2518 (2001-08-17)
 
 Nr. IX-708,
 
@@ -3071,6 +3069,10 @@ Nr. IX-1759,
 
 2003-10-14, Žin., 2003, Nr. 101-4542 (2003-10-29)
 
+Nr. X-223, 2005-05-26,
+
+Žin., 2005, Nr. 72-2588 (2005-06-09)
+
 22
 
 straipsnis. Netekę galios teisės aktai
@@ -3081,17 +3083,15 @@ straipsnis. Netekę galios teisės aktai
 
 1)
 
-Lietuvos Respublikos įstatymas “Dėl piliečių nuosavybės teisių į išlikusį
+Lietuvos Respublikos įstatymas “Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį
 
-nekilnojamąjį turtą atstatymo tvarkos ir sąlygų” (Žin.1991, Nr.21-545; 1992,
+turtą atstatymo tvarkos ir sąlygų” (Žin.1991, Nr.21-545; 1992, Nr.3-40,
 
-Nr.3-40, Nr.7-155, Nr.11-278,
+Nr.7-155, Nr.11-278, Nr.15-405; 1993, Nr.5-83, Nr.32-725; 1994, Nr.7-100,
 
-Nr.15-405; 1993, Nr.5-83, Nr.32-725; 1994, Nr.7-100, Nr.14-229, Nr.43-778;
+Nr.14-229, Nr.43-778; 1995, Nr.39-965, Nr.50-1226, Nr.59-1465, Nr.85-1916,
 
-1995, Nr.39-965,
-
-Nr.50-1226, Nr.59-1465, Nr.85-1916, Nr.103-2299; 1996, Nr.37-929);
+Nr.103-2299; 1996, Nr.37-929);
 
 2)
 
@@ -3165,9 +3165,7 @@ Nr.64-1934 (00.07.31)
 
 PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ
 
-TURTĄ ATKŪRIMO ĮSTATYMO
-
-4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+TURTĄ ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 4.
 
@@ -3179,9 +3177,7 @@ Nr.89-2753 (00.10.25)
 
 PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ
 
-TURTĄ ATKŪRIMO ĮSTATYMO
-
-2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+TURTĄ ATKŪRIMO ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 5.
 
@@ -3263,9 +3259,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-822, 2002-03-28,
+IX-822,
 
-Žin., 2002, Nr. 40-1464 (2002-04-17)
+2002-03-28, Žin., 2002, Nr. 40-1464 (2002-04-17)
 
 PILIEČIŲ
 
@@ -3357,9 +3353,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1759, 2003-10-14,
+IX-1759,
 
-Žin., 2003, Nr. 101-4542 (2003-10-29)
+2003-10-14, Žin., 2003, Nr. 101-4542 (2003-10-29)
 
 PILIEČIŲ
 
@@ -3403,6 +3399,24 @@ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 10
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+17.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-223,
+
+2005-05-26, Žin., 2005, Nr. 72-2588 (2005-06-09)
+
+PILIEČIŲ
+
+NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 21
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Konstitucinio
@@ -3423,9 +3437,9 @@ DĖL
 
 LIETUVOS RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ
 
-ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO 1, 4, 9 IR 11 DALIŲ, 8 STRAIPSNIO 1 DALIES,
+ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO 1, 4, 9 IR 11 DALIŲ, 8 STRAIPSNIO 1 DALIES, 15
 
-15 STRAIPSNIO 2 PUNKTO IR 20 STRAIPSNIO 1, 2, 3 BEI 4 DALIŲ ATITIKIMO LIETUVOS
+STRAIPSNIO 2 PUNKTO IR 20 STRAIPSNIO 1, 2, 3 BEI 4 DALIŲ ATITIKIMO LIETUVOS
 
 RESPUBLIKOS KONSTITUCIJAI
 
@@ -3439,19 +3453,17 @@ DĖL LIETUVOS RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į
 
 IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 5 STRAIPSNIO 2, 3, 4 IR 5 DALIŲ,
 
-12 STRAIPSNIO 3 PUNKTO,
+12 STRAIPSNIO 3 PUNKTO, 16 STRAIPSNIO 3 DALIES IR ŠIO STRAIPSNIO 9 DALIES 5
 
-16 STRAIPSNIO 3 DALIES IR ŠIO STRAIPSNIO 9 DALIES 5 PUNKTO ATITIKTIES LIETUVOS
+PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR DĖL ŠIO ĮSTATYMO 5
 
-RESPUBLIKOS KONSTITUCIJAI IR DĖL ŠIO ĮSTATYMO 5 STRAIPSNIO 2, 3, 4 BEI 5 DALIŲ
+STRAIPSNIO 2, 3, 4 BEI 5 DALIŲ IR 12 STRAIPSNIO 3 PUNKTO ATITIKTIES LIETUVOS
 
-IR
+RESPUBLIKOS KONSTITUCIJOS 47 STRAIPSNIO ANTROJOJE DALYJE NUMATYTO ŽEMĖS SKLYPŲ
 
-12 STRAIPSNIO 3 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJOS 47
+ĮSIGIJIMO NUOSAVYBĖN SUBJEKTŲ, TVARKOS, SĄLYGŲ IR APRIBOJIMŲ KONSTITUCINIO
 
-STRAIPSNIO ANTROJOJE DALYJE NUMATYTO ŽEMĖS SKLYPŲ ĮSIGIJIMO NUOSAVYBĖN
-
-SUBJEKTŲ, TVARKOS, SĄLYGŲ IR APRIBOJIMŲ KONSTITUCINIO ĮSTATYMO 8 STRAIPSNIUI
+ĮSTATYMO 8 STRAIPSNIUI
 
 3.
 
@@ -3487,11 +3499,11 @@ RESPUBLIKOS VYRIAUSYBĖS 1994 M. SAUSIO 17 D. NUTARIMO NR. 27 „DĖL GYVENAMŲJ
 
 NAMŲ, BŪTINŲ VALSTYBĖS REIKMĖMS, IŠPIRKIMO" ATITIKTIES LIETUVOS
 
-RESPUBLIKOS KONSTITUCIJAI BEI LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL PILIEČIŲ NUOSAVYBĖS
+RESPUBLIKOS KONSTITUCIJAI BEI LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL PILIEČIŲ
 
-TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 14
+NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR
 
-STRAIPSNIUI (1993 M. SAUSIO 12 D. REDAKCIJA)
+SĄLYGŲ" 14 STRAIPSNIUI (1993 M. SAUSIO 12 D. REDAKCIJA)
 
 ***
 
@@ -3499,7 +3511,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-10-26)
+Aušrinė Trapinskienė (2005-06-10)
 
 autrap@lrs.lt
 
