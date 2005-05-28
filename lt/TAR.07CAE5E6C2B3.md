@@ -4,7 +4,7 @@ identifier: "TAR.07CAE5E6C2B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-26"
-last_updated: "2004-09-01"
+last_updated: "2005-05-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,17 +16,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2004-09-01 iki 2005-05-27
+Suvestinė redakcija nuo 2005-05-28 iki 2006-05-26
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
-
-TAR pastaba. Vėliavos, pagamintos ir įsigytos iki šio įstatymo įsigaliojimo, gali būti naudojamos, kol jos tinkamos naudoti.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-2331, 2004-07-08, Žin., 2004, Nr. 115-4274 (2004-07-24), i. k. 1041010ISTA0IX-2331
-
-Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" pakeitimo įstatymas
 
 Nauja redakcija nuo 2004-09-01:
 
@@ -262,11 +254,17 @@ LIETUVOS VALSTYBĖS ISTORINĖ VĖLIAVA
 
 2) kovo 11 d. – Lietuvos nepriklausomybės atkūrimo dieną – prie Lietuvos Respublikos Seimo rūmų;
 
-3) liepos 6 d. – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) dieną – prie Respublikos Prezidento rezidencijos;
+3) gegužės 15 d. – Steigiamojo Seimo susirinkimo dieną – prie Lietuvos Respublikos Seimo rūmų;
 
-4) liepos 15 d. – Žalgirio mūšio dieną – prie Lietuvos Respublikos krašto apsaugos ministerijos;
+4) liepos 6 d. – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) dieną – prie Respublikos Prezidento rezidencijos;
 
-5) spalio 25 d. – Konstitucijos dieną – prie Lietuvos Respublikos Seimo rūmų, Respublikos Prezidento rezidencijos ir Lietuvos Respublikos Vyriausybės.
+5) liepos 15 d. – Žalgirio mūšio dieną – prie Lietuvos Respublikos krašto apsaugos ministerijos;
+
+6) spalio 25 d. – Konstitucijos dieną – prie Lietuvos Respublikos Seimo rūmų, Respublikos Prezidento rezidencijos ir Lietuvos Respublikos Vyriausybės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-197, 2005-05-12, Žin., 2005, Nr. 67-2404 (2005-05-28), i. k. 1051010ISTA000X-197
 
 KETVIRTASIS SKIRSNIS
 
@@ -459,4 +457,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2331, 2004-07-08, Žin., 2004, Nr. 115-4274 (2004-07-24), i. k. 1041010ISTA0IX-2331
 
 Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-197, 2005-05-12, Žin., 2005, Nr. 67-2404 (2005-05-28), i. k. 1051010ISTA000X-197
+
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 10 straipsnio papildymo ir pakeitimo įstatymas
 
