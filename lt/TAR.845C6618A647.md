@@ -4,7 +4,7 @@ identifier: "TAR.845C6618A647"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-06"
-last_updated: "2003-05-01"
+last_updated: "2005-05-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2005-05-27
+Suvestinė redakcija nuo 2005-05-28 iki 2006-06-27
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
 
@@ -295,7 +295,11 @@ Nepaprastosios padėties metu gali būti taikomos šios nepaprastosios priemonė
 
 3) valstybės sienos apsaugos sustiprinimas arba valstybės sienos priedanga;
 
-4) draudimas išduoti leidimus ribotos civilinės apyvartos ginklams įsigyti bei jais prekiauti, taip pat laikyti šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas ar priemones, sprogmenis, laikinas jų paėmimas iš Lietuvos gyventojų, įstaigų ir organizacijų (išskyrus krašto apsaugos sistemos institucijų karius ir tarnautojus, prokuratūros, Specialiųjų tyrimų tarnybos, Valstybės saugumo departamento, vidaus reikalų sistemos pareigūnus, Ginklų fondą prie Lietuvos Respublikos Vyriausybės, Kalėjimų departamentą prie Teisingumo ministerijos ir Muitinės departamentą prie Finansų ministerijos bei Lietuvos banką);
+4) draudimas išduoti leidimus ribotos civilinės apyvartos ginklams įsigyti bei jais prekiauti, taip pat laikyti šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas ar priemones, sprogmenis, laikinas jų paėmimas iš Lietuvos gyventojų, įstaigų ir organizacijų (išskyrus krašto apsaugos sistemos institucijų karius ir tarnautojus, prokuratūros, Specialiųjų tyrimų tarnybos, Valstybės saugumo departamento, vidaus reikalų sistemos pareigūnus, Lietuvos Respublikos ginklų fondą prie Lietuvos Respublikos Vyriausybės, Kalėjimų departamentą prie Teisingumo ministerijos ir Muitinės departamentą prie Finansų ministerijos bei Lietuvos banką);
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-187, 2005-05-12, Žin., 2005, Nr. 67-2399 (2005-05-28), i. k. 1051010ISTA000X-187
 
 5) transporto priemonių (išskyrus specialios paskirties transporto priemones, šalinančias neigiamus padarinius teritorijoje, kurioje įvesta nepaprastoji padėtis, ir turinčias specialius leidimus) judėjimo apribojimas;
 
@@ -386,4 +390,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1468, 2003-04-03, Žin., 2003, Nr. 38-1713 (2003-04-24), i. k. 1031010ISTA0IX-1468
 
 Lietuvos Respublikos nepaprastosios padėties įstatymo 19 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-187, 2005-05-12, Žin., 2005, Nr. 67-2399 (2005-05-28), i. k. 1051010ISTA000X-187
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo 28 straipsnio pakeitimo įstatymas
 
