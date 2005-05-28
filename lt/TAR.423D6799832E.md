@@ -4,7 +4,7 @@ identifier: "TAR.423D6799832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2004-05-01"
+last_updated: "2005-05-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2005-05-27
+Suvestinė redakcija nuo 2005-05-28 iki 2009-06-29
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 17-701, i. k. 1031010ISTA0IX-1315
 
@@ -257,7 +257,11 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 3) kas ketvirtį, ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 5 dienos, pateikti licenciją išdavusiai institucijai ar jos įgaliotai įstaigai ūkinės komercinės veiklos, susijusios su sprogmenimis, nustatytos formos ataskaitą;
 
-4) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikti Lietuvos Respublikos ginklų fondui duomenis apie pagamintus, importuotus, eksportuotus, parduotus, laikomus ir sunaudotus sprogmenis;
+4) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikti Lietuvos Respublikos ginklų fondui prie Lietuvos Respublikos Vyriausybės (toliau – Lietuvos Respublikos ginklų fondas) duomenis apie pagamintus, importuotus, eksportuotus, parduotus, laikomus ir sunaudotus sprogmenis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-186, 2005-05-12, Žin., 2005, Nr. 67-2398 (2005-05-28), i. k. 1051010ISTA000X-186
 
 5) pasikeitus įmonės veiklos pobūdžiui ar kitoms sąlygoms, kurios buvo nurodytos dokumentuose, pateiktuose licencijai gauti, apie tai ne vėliau kaip per 10 darbo dienų pranešti licenciją išdavusiai institucijai;
 
