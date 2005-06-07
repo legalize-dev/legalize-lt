@@ -4,7 +4,7 @@ identifier: "TAR.00FD7CCA5785"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-02"
-last_updated: "2000-06-30"
+last_updated: "2005-06-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.00FD7CCA5785"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Ignalinos atominės elektrinės eksploatavimo nutraukimo įstatymas
 
-Suvestinė redakcija nuo 2000-06-30 iki 2005-06-06
+Suvestinė redakcija nuo 2005-06-07 iki 2014-06-16
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1189, i. k. 1001010ISTAIII-1661
 
@@ -74,7 +74,11 @@ EKSPLOATAVIMO NUTRAUKIMO TVARKA
 
 2. Programa turi numatyti teisines, organizacines, finansines ir technines pirmojo bloko galutinio sustabdymo, įrenginių eksploatavimo nutraukimo, demontavimo, konservavimo, radioaktyviųjų atliekų sutvarkymo, laidojimo, eksploatavimo saugos užtikrinimo dirbant vienam blokui priemones, taip pat priemones neigiamoms ekonominėms, socialinėms ir galimoms sveikatos pasekmėms, susijusioms su Ignalinos AE pirmojo bloko ankstyvu uždarymu ir darbuotojų atleidimu, sumažinti.
 
-3. Vadovaudamasi eksploatavimo nutraukimo programa, eksploatuojanti organizacija – Ignalinos AE parengia galutinį eksploatavimo nutraukimo planą, parengiamųjų darbų planus, etapų ir objektų eksploatavimo nutraukimo projektus. Projektai rengiami vadovaujantis Lietuvos Respublikos statybos įstatymu, Lietuvos Respublikos branduolinės energijos įstatymu ir kitais teisės aktais.
+3. Vadovaudamasi Eksploatavimo nutraukimo programa, eksploatuojanti organizacija – Ignalinos AE parengia galutinį eksploatavimo nutraukimo planą, parengiamųjų darbų planus, etapų ir objektų eksploatavimo nutraukimo projektus. Projektai rengiami vadovaujantis Lietuvos Respublikos statybos įstatymu, Lietuvos Respublikos branduolinės energijos įstatymu ir kitais teisės aktais. Galutinį eksploatavimo nutraukimo planą Ignalinos AE suderina su Lietuvos Respublikos sveikatos apsaugos ministerija, Lietuvos Respublikos aplinkos ministerija bei Valstybine atominės energetikos saugos inspekcija ir pateikia šį planą tvirtinti Lietuvos Respublikos ūkio ministerijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-202, 2005-05-17, Žin., 2005, Nr. 71-2553 (2005-06-07), i. k. 1051010ISTA000X-202
 
 5 straipsnis. Eksploatavimo nutraukimo programos finansavimas
 
@@ -112,7 +116,11 @@ Už tinkamą ir saugų Ignalinos AE pirmojo bloko eksploatavimą, jo priežiūr�
 
 1. Lietuvos Respublikos Vyriausybė per mėnesį nuo šio įstatymo įsigaliojimo parengia ir pateikia Seimui įstatymo projektą dėl Ignalinos AE pirmojo bloko eksploatavimo nutraukimo fondo.
 
-2. Lietuvos Respublikos Vyriausybė, vadovaudamasi Ignalinos AE pirmojo bloko eksploatavimo nutraukimo programa, iki 2002 m. kovo 31 d. patvirtina galutinį Ignalinos AE pirmojo bloko eksploatavimo nutraukimo planą, parengia jo ekonominį-finansinį pagrindimą ir numato piniginių srautų judėjimą.
+2. Lietuvos Respublikos Vyriausybė, vadovaudamasi Ignalinos AE primojo bloko eksploatavimo nutraukimo programa, iki 2006 m. sausio 1 d. patvirtina galutinio Ignalinos AE pirmojo bloko eksploatavimo nutraukimo plano ekonominį ir finansinį pagrindimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-202, 2005-05-17, Žin., 2005, Nr. 71-2553 (2005-06-07), i. k. 1051010ISTA000X-202
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -127,4 +135,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1747, 2000-06-22, Žin., 2000, Nr. 53-1523 (2000-06-30), i. k. 1001010ISTAIII-1747
 
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo įstatymo preambulės pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-202, 2005-05-17, Žin., 2005, Nr. 71-2553 (2005-06-07), i. k. 1051010ISTA000X-202
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo įstatymo 4 ir 10 straipsnių pakeitimo įstatymas
 
