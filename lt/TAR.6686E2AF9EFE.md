@@ -4,7 +4,7 @@ identifier: "TAR.6686E2AF9EFE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2003-05-15"
+last_updated: "2005-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6686E2AF9EFE"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2003-04-29"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymas
+
+Suvestinė redakcija nuo 2005-06-28 iki 2007-12-28
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 48-2106, i. k. 1031010ISTA0IX-1541
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS ĮMONĖS IGNALINOS ATOMINĖS ELEKTRINĖS DARBUOTOJŲ PAPILDOMŲ UŽIMTUMO IR SOCIALINIŲ GARANTIJŲ ĮSTATYMAS
 
@@ -75,7 +79,11 @@ Atleidžiamų ir atleistų iš darbo darbuotojų bei jų šeimos narių užimtum
 
 5 straipsnis. Nedirbančių šeimos narių užimtumo garantijos
 
-1. Teritorinėje darbo biržoje užsiregistravusiems atleidžiamų ir atleistų iš darbo darbuotojų nedirbantiems šeimos nariams yra taikomos Bedarbių rėmimo įstatymo 7 straipsnio 2 dalies 2–7 punktuose nurodytų darbo rinkoje papildomai remiamų bedarbių garantijos. Teritorinėje darbo biržoje užsiregistravusiems atleidžiamų ir atleistų iš darbo darbuotojų nedirbantiems šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo bedarbio pašalpai gauti, bedarbio pašalpa skiriama ir mokama pagal Bedarbių rėmimo įstatymo 16 straipsnio 1 dalies 1 punktą.
+1.Teritorinėje darbo biržoje užsiregistravusiems atleidžiamų ir atleistų iš darbo darbuotojų nedirbantiems šeimos nariams yra taikomos Bedarbių rėmimo įstatymo 7 straipsnio 2 dalies 2–7 punktuose nurodytų darbo rinkoje papildomai remiamų bedarbių garantijos. Teritorinėje darbo biržoje užsiregistravusiems atleidžiamų ir atleistų iš darbo darbuotojų nedirbantiems šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo nedarbo socialinio draudimo išmokai gauti, valstybės remiamų pajamų dydžio nedarbo socialinio draudimo išmoka skiriama pagal Nedarbo socialinio draudimo įstatymo 6 straipsnio 1 dalį, o išmokama – 7 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-254, 2005-06-16, Žin., 2005, Nr. 79-2847 (2005-06-28), i. k. 1051010ISTA000X-254
 
 2. Atleidžiamų ir atleistų iš darbo darbuotojų sutuoktiniams ir vaikams (įvaikiams) iki 24 metų, kurie mokosi aukštosiose mokyklose, kad įgytų profesijas, reikalingas saugiam Ignalinos AE eksploatavimui ir eksploatavimo nutraukimo darbams vykdyti, Ignalinos AE administracijos sprendimu, suderinus su steigėju, skiriama ir mokama stipendija. Tokių profesijų sąrašą, suderinusi su steigėju, tvirtina Ignalinos AE administracija.
 
@@ -117,7 +125,11 @@ Patvirtinus techninius Ignalinos AE eksploatavimo nutraukimo planus, Ignalinos A
 
 3. Asmenims, nurodytiems šio straipsnio 1 dalyje, taikomos Sveikatos draudimo įstatymo 6 straipsnio 4 dalies 2 punkto nuostatos.
 
-4. Priešpensinės bedarbio išmokos gavėjui įsidarbinus, pradėjus gauti bedarbio pašalpą arba išvykus nuolat gyventi į užsienį, priešpensinės bedarbio išmokos mokėjimas nutraukiamas.
+4. Priešpensinės bedarbio išmokos gavėjui įsidarbinus, pradėjus gauti nedarbo socialinio draudimo išmoką arba išvykus nuolat gyventi į užsienį, priešpensinės bedarbio išmokos mokėjimas nutraukiamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-254, 2005-06-16, Žin., 2005, Nr. 79-2847 (2005-06-28), i. k. 1051010ISTA000X-254
 
 10 straipsnis. Įdarbinimo kompensuojamose darbo vietose sąlygos
 
@@ -160,4 +172,14 @@ Vyriausybė ar jos įgaliota institucija nustato:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-254, 2005-06-16, Žin., 2005, Nr. 79-2847 (2005-06-28), i. k. 1051010ISTA000X-254
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 5 ir 9 straipsnių pakeitimo įstatymas
 
