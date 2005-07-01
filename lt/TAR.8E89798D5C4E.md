@@ -4,7 +4,7 @@ identifier: "TAR.8E89798D5C4E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2005-01-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8E89798D5C4E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teisėjų valstybinių pensijų įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2005-06-30
+Suvestinė redakcija nuo 2005-07-01 iki 2006-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3088, i. k. 1021010ISTA0IX-1011
 
@@ -65,11 +65,13 @@ Teisėjų valstybinė pensija neskiriama, o paskirtoji nemokama, jei:
 
 5) asmuo dirbo arba tarnavo Valstybinių pensijų įstatymo 11 straipsnio 4 dalies 1–8 punktuose išvardytose struktūrose. Šiais atvejais asmens teisė gauti teisėjo valstybinę pensiją nustatoma remiantis Valstybinių pensijų įstatymo 11 straipsnio 5 dalyje nustatyta tvarka patvirtintu tarnybų ir pareigų sąrašu;
 
-6) asmuo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) pašalpas ar nedarbo socialinio draudimo išmokas.
+6) asmuo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės), profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas.
 
 Straipsnio punkto pakeitimai:
 
 Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
+
+Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
 
 5 straipsnis. Teisėjų darbo stažas teisėjų valstybinei pensijai gauti
 
@@ -166,4 +168,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
 
 Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Teisėjų valstybinių pensijų įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
+
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybinių pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Teisėjų valstybinių pensijų įstatymo, Pensijų kaupimo įstatymo, Lietuvos nepriklausomybės akto signatarų statuso įstatymo pakeitimo ir papildymo įstatymas
 
