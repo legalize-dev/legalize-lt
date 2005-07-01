@@ -4,7 +4,7 @@ identifier: "TAR.0B3E8942C5C4"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-12-13"
-last_updated: "2005-01-01"
+last_updated: "2005-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0B3E8942C5C4"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -235,9 +235,7 @@ draudimo išmokoms pagal Nedarbo socialinio draudimo įstatymą;
 
 biržos ir jos teritorinių darbo biržų bei Lietuvos darbo rinkos mokymo tarnybos
 
-ir jos teritorinių darbo rinkos mokymo ir konsultavimo tarnybų išlaikymui ir
-
-plėtrai;
+ir jos teritorinių darbo rinkos mokymo ir konsultavimo tarnybų išlaikymui ir plėtrai;
 
 5) bendrai finansuojamiems Europos Sąjungos ir
 
@@ -309,9 +307,9 @@ Nr. VIII-1291,
 
 1999 07 07, Žin., 1999, Nr. 65-2086 (1999 07 28)
 
-Nr. IX-687, 2001-12-21,
+Nr. IX-687,
 
-Žin., 2002, Nr. 2-51 (2002-01-09)
+2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 
 Nr. IX-1366,
 
@@ -703,13 +701,17 @@ Mokymosi laikotarpiu bedarbiams mokama 1,5 mokėjimo
 
 mėnesį galiojančio minimalaus gyvenimo lygio dydžio mokymo stipendija.
 
-Bedarbių profesinis mokymas finansuojamas ir mokymo stipendijos iš Užimtumo fondo lėšų bedarbiams mokamos ne ilgiau
+Bedarbių profesinis mokymas finansuojamas ir mokymo stipendijos iš
 
-kaip 6 mėnesius. Kai kuriais atvejais, jeigu tam tikrai profesijai įgyti reikia
+Užimtumo fondo lėšų bedarbiams mokamos ne ilgiau kaip 6 mėnesius. Kai kuriais
 
-daugiau laiko, trišalės komisijos prie darbo biržos siūlymu profesinio mokymo
+atvejais, jeigu tam tikrai profesijai įgyti reikia daugiau laiko, trišalės
 
-finansavimas ir mokymo stipendijos mokėjimas gali būti pratęstas iki 10 mėnesių.
+komisijos prie darbo biržos siūlymu
+
+profesinio mokymo finansavimas ir mokymo stipendijos mokėjimas gali būti
+
+pratęstas iki 10 mėnesių.
 
 Profesinis
 
@@ -821,9 +823,9 @@ teisme.
 
 Straipsnio pakeitimai:
 
-Nr. I-1191, 1996 02
+Nr. I-1191, 1996
 
-01, Žin., 1996, Nr. 18-457 (1996 02 28)
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 
 26 straipsnis. Neteisėto
 
@@ -933,9 +935,9 @@ IX-687,
 
 BEDARBIŲ
 
-RĖMIMO ĮSTATYMO 5, 7, 8, 11, 13, 14, 16, 16(1), 19, 20(1), 22 STRAIPSNIŲ PAKEITIMO
+RĖMIMO ĮSTATYMO 5, 7, 8, 11, 13, 14, 16, 16(1), 19, 20(1), 22 STRAIPSNIŲ
 
-ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 6.
 
@@ -977,9 +979,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1830, 2003-11-18,
+Nr. IX-1830,
 
-Žin., 2003, Nr. 114-5118 (2003-12-05)
+2003-11-18, Žin., 2003, Nr. 114-5118 (2003-12-05)
 
 BEDARBIŲ
 
@@ -1013,15 +1015,33 @@ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
 įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-255, 2005-06-16,
+
+Žin., 2005, Nr. 81-2941 (2005-06-30)
+
+BEDARBIŲ
+
+RĖMIMO ĮSTATYMO 7 IR 8 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2005 m. liepos 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-01-04)
+Aušra Bodin (2005-07-05)
 
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
 20 straipsnis. Viešieji darbai
 
@@ -1061,13 +1081,13 @@ Nr. VIII-608,
 
 darbai
 
-Užimtumo fondo remiami darbai organizuojami bedarbiams, nurodytiems šio
+Užimtumo fondo remiami darbai
 
-įstatymo 7 straipsnyje, taip pat 19 straipsnyje
+organizuojami bedarbiams, nurodytiems šio įstatymo 7 straipsnyje, taip pat 19
 
-nurodyta tvarka baigusiems profesinį mokymą, kuriems darbo birža negali
+straipsnyje nurodyta tvarka baigusiems profesinį mokymą, kuriems darbo birža
 
-pasiūlyti nuolatinio darbo.
+negali pasiūlyti nuolatinio darbo.
 
 Užimtumo
 
@@ -1109,27 +1129,27 @@ Nr. X-66, 2004-12-22,
 
 Žin., 2004, Nr. 188-6998 (2004-12-31)
 
-20(2) straipsnis. Vietinių užimtumo
+20(2) straipsnis. Vietinių užimtumo iniciatyvų
 
-iniciatyvų projektų įgyvendinimas
+projektų įgyvendinimas
 
-Vietinių užimtumo iniciatyvų projektai – tai naujų darbo
+Vietinių užimtumo iniciatyvų projektai – tai naujų
 
-vietų kūrimo projektai, padedantys sutelkti vietos bendruomenės, įmonių,
+darbo vietų kūrimo projektai, padedantys sutelkti vietos bendruomenės, įmonių,
 
 įstaigų ir trišalių socialinių partnerių pastangas didinti savivaldybės
 
 gyventojų užimtumą plėtojant vietos socialinę ekonominę infrastruktūrą.
 
-Vietinių užimtumo iniciatyvų projektai
+Vietinių užimtumo iniciatyvų
 
-gali būti įgyvendinami savivaldybių (seniūnijų) teritorijose, kuriose nedarbo
+projektai gali būti įgyvendinami savivaldybių (seniūnijų) teritorijose, kuriose
 
-lygis viršija vidutinį šalies nedarbo lygį arba kuriose dėl grupės darbuotojų
+nedarbo lygis viršija vidutinį šalies nedarbo lygį arba kuriose dėl grupės
 
-atleidimų numatomas toks nedarbo lygis. Šie projektai skirti teritorinėse darbo
+darbuotojų atleidimų numatomas toks nedarbo lygis. Šie projektai skirti
 
-biržose užsiregistravusiems bedarbiams įdarbinti.
+teritorinėse darbo biržose užsiregistravusiems bedarbiams įdarbinti.
 
 Vietinių užimtumo iniciatyvų
 
@@ -1149,7 +1169,9 @@ atrankos, įgyvendinimo finansavimo ir kontrolės tvarką nustato socialinės
 
 apsaugos ir darbo ministras.
 
-Įstatymas papildytas straipsniu:
+Įstatymas papildytas
+
+straipsniu:
 
 Nr. IX-1366,
 
@@ -1183,7 +1205,11 @@ jiems šio įstatymo 8 straipsnyje nustatytą užimtumo rėmimą, yra:
 
 1)
 
-invalidai – Invalidų socialinės integracijos įstatymo nustatyta tvarka;
+asmenys, kuriems nustatytas 30–40 procentų darbingumo lygis (iki 2005 m. liepos
+
+1 d. – I ir II grupių invalidai), 45–55 procentų darbingumo lygis (iki 2005 m.
+
+liepos 1 d. – III grupės invalidai) arba vidutinis neįgalumas;
 
 2)
 
@@ -1205,9 +1231,9 @@ dienos ilgiau kaip 2 metai;
 
 asmenys, kuriems iki senatvės pensijos amžiaus likę ne ilgiau kaip 5 metai;
 
-6) motina arba tėvas, auginanti (auginantis) vaiką iki
+6) nėščios moterys, motina arba tėvas bei kiti
 
-8 metų;
+asmenys, faktiškai auginantys vaiką iki aštuonerių metų;
 
 7) asmenys, grįžę iš laisvės atėmimo vietų, kai
 
@@ -1215,11 +1241,11 @@ laisvės atėmimo laikotarpis buvo ilgesnis negu 6 mėnesiai.
 
 Šio straipsnio antrosios dalies 7 punkte nurodyti
 
-asmenys laikomi darbo rinkoje papildomai remiamais bedarbiais, kai jie kreipiasi
+asmenys laikomi darbo rinkoje papildomai remiamais bedarbiais, kai jie
 
-į darbo biržą ne vėliau kaip per 6 mėnesių laikotarpį, pasibaigus priežastims,
+kreipiasi į darbo biržą ne vėliau kaip per 6 mėnesių laikotarpį, pasibaigus
 
-dėl kurių nedirbo.
+priežastims, dėl kurių nedirbo.
 
 Straipsnio pakeitimai:
 
@@ -1235,39 +1261,49 @@ Nr. IX-1366,
 
 2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
 
+Nr.
+
+X-255,
+
+2005-06-16, Žin., 2005, Nr. 81-2941 (2005-06-30)
+
 8 straipsnis. Darbo rinkoje
 
 papildomai remiamų bedarbių užimtumo rėmimas
 
 Darbo biržos teikimu
 
-savivaldybės kasmet nustato darbdaviams I ir II grupių invalidų įdarbinimo arba
+savivaldybės kasmet nustato darbdaviams
 
-papildomų darbo vietų skaičiaus steigimo
+asmenų, kuriems nustatytas 30–40 procentų darbingumo lygis (iki 2005 m. liepos
 
-kvotas nuo 2 iki 5 procentų nuo įmonės bendro darbuotojų skaičiaus, jeigu
+1 d. – I ir II grupių invalidų) arba vidutinis neįgalumas, įdarbinimo arba
 
-įmonėje yra ne mažiau kaip 50 darbuotojų. Invalidai įdarbinami Invalidų
+papildomų darbo vietų skaičiaus steigimo kvotas nuo 2 iki 5 procentų nuo įmonės
 
-socialinės integracijos įstatymo nustatyta tvarka.
+bendro darbuotojų skaičiaus, jeigu įmonėje
+
+yra ne mažiau kaip 50 darbuotojų.
 
 Darbdaviai, nevykdantys
 
-invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotų, už
+neįgaliųjų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotų, už
 
-kiekvieną neįdarbintą invalidą moka 15 minimalių mėnesinių algų dydžių įmoką į
+kiekvieną neįdarbintą neįgalųjį moka 15 minimalių mėnesinių algų dydžių įmoką į
 
-Užimtumo fondą, išskyrus atvejus, kai darbo birža nesikreipė dėl invalidų
+Užimtumo fondą, išskyrus atvejus, kai darbo birža nesikreipė dėl neįgaliųjų
 
-įdarbinimo. Šios lėšos naudojamos invalidų darbo vietoms steigti.
+įdarbinimo. Šios lėšos naudojamos neįgaliųjų darbo vietoms steigti.
 
-Darbdaviams, įdarbinusiems I ir II grupių invalidus į
+Darbdaviams, įdarbinusiems asmenis, kuriems nustatytas
 
-papildomas kvotomis nustatytas darbo vietas, jų darbo laikotarpiu mokamos
+30–40 procentų darbingumo lygis (iki 2005 m. liepos 1 d. – I ir II grupių
 
-užimtumo rėmimo subsidijos darbo vietų steigimo arba jų pritaikymo išlaidoms
+invalidus) arba vidutinis neįgalumas, į papildomas kvotomis nustatytas darbo
 
-padengti:
+vietas, jų darbo laikotarpiu mokamos užimtumo rėmimo subsidijos darbo vietų
+
+steigimo arba jų pritaikymo išlaidoms padengti:
 
 1) per pirmuosius 12 mėnesių – vienos minimalios
 
@@ -1279,21 +1315,27 @@ mėnesinės algos dydžio už kiekvieną mėnesį.
 
 Šių dydžių užimtumo rėmimo subsidijos taip pat mokamos
 
-darbdaviams, įdarbinusiems I ir II grupių invalidus įmonėse, kuriose yra mažiau
+darbdaviams, įdarbinusiems asmenis, kuriems nustatytas 30–40 procentų
 
-kaip 50 darbuotojų.
+darbingumo lygis (iki 2005 m. liepos 1 d. – I ir II grupių invalidus) arba
+
+vidutinis neįgalumas, įmonėse, kuriose yra mažiau kaip 50 darbuotojų.
 
 Tuo atveju, kai darbo birža per 3 mėnesius nustatyta tvarka
 
-nepasiūlo darbo III grupės invalidams ir kitiems šio įstatymo 7 straipsnyje
+nepasiūlo darbo asmenims, kuriems nustatytas 45–55 procentų darbingumo lygis
 
-nurodytiems bedarbiams, darbo biržos siuntimu juos įdarbinusiems darbdaviams
+(iki 2005 m. liepos 1 d. – III grupės invalidams) arba vidutinis neįgalumas, ir
 
-mokamos užimtumo rėmimo subsidijos darbo vietų steigimo išlaidoms padengti:
+kitiems šio įstatymo 7 straipsnio antrosios dalies 2–7 punktuose nurodytiems
 
-1) per pirmuosius 6 mėnesius – vienos minimalios
+bedarbiams, darbo biržos siuntimu juos įdarbinusiems darbdaviams mokamos
 
-mėnesinės algos dydžio už kiekvieną mėnesį;
+užimtumo rėmimo subsidijos darbo vietų steigimo išlaidoms padengti:
+
+1) per pirmuosius 6 mėnesius – vienos minimalios mėnesinės
+
+algos dydžio už kiekvieną mėnesį;
 
 2) per kitus 6 mėnesius – pusės vienos minimalios mėnesinės
 
@@ -1345,6 +1387,12 @@ Nr. IX-687,
 
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 
+Nr.
+
+X-255,
+
+2005-06-16, Žin., 2005, Nr. 81-2941 (2005-06-30)
+
 9
 
 straipsnis. Neteko galios nuo 2005 m.
@@ -1363,9 +1411,9 @@ Ieškantys darbuotojų
 
 darbdaviai turi informuoti teritorines darbo biržas apie laisvas darbo vietas,
 
-darbo funkcijas ir darbo pobūdį, darbo apmokėjimo ir kitas sąlygas bei
+darbo funkcijas ir darbo pobūdį, darbo
 
-pretendentams įsidarbinti keliamus
+apmokėjimo ir kitas sąlygas bei pretendentams įsidarbinti keliamus
 
 kvalifikacinius reikalavimus.
 
@@ -1375,9 +1423,9 @@ biržos registruoja laisvas darbo vietas, viešai jas skelbia ir siūlo
 
 ieškantiems darbo asmenims.
 
-Laisvų darbo vietų
+Laisvų darbo vietų registravimo teritorinėje darbo biržoje
 
-registravimo teritorinėje darbo biržoje tvarką nustato socialinės apsaugos ir darbo ministras.
+tvarką nustato socialinės apsaugos ir darbo ministras.
 
 Straipsnio pakeitimai:
 
@@ -1505,13 +1553,13 @@ koordinuoja, kontroliuoja bei metodiškai vadovauja teritorinių darbo biržų
 
 darbui.
 
-Lietuvos darbo biržai vadovauja
+Lietuvos darbo biržai
 
-direktorius. Jį skiria ir atleidžia socialinės apsaugos ir darbo ministras
+vadovauja direktorius. Jį skiria ir atleidžia socialinės apsaugos ir darbo
 
-Valstybės tarnybos įstatymo nustatyta tvarka. Lietuvos darbo biržos direktorius
+ministras Valstybės tarnybos įstatymo nustatyta tvarka. Lietuvos darbo biržos
 
-atskaitingas socialinės apsaugos ir darbo ministrui.
+direktorius atskaitingas socialinės apsaugos ir darbo ministrui.
 
 Teritorines darbo biržas
 
@@ -1523,15 +1571,17 @@ teritorinės darbo biržos yra išlaikomos iš Užimtumo fondo lėšų ir paslau
 
 teikia nemokamai.
 
-Darbo rinkos būklės bei darbo rinkos politikos
+Darbo rinkos būklės
 
-priemonių ir paslaugų įgyvendinimo klausimams nagrinėti prie Lietuvos darbo biržos bei teritorinių darbo biržų steigiamos
+bei darbo rinkos politikos priemonių ir paslaugų įgyvendinimo klausimams
+
+nagrinėti prie Lietuvos darbo biržos bei teritorinių darbo biržų steigiamos
 
 visuomeniniais pagrindais veikiančios trišalės komisijos. Jos sudaromos iš
 
-vienodo skaičiaus lygiateisių narių: darbuotojų (profesinių sąjungų,
+vienodo skaičiaus lygiateisių narių:
 
-susivienijimų, asociacijų ir kt.), darbdavių
+darbuotojų (profesinių sąjungų, susivienijimų, asociacijų ir kt.), darbdavių
 
 (asociacijų, konfederacijų ir kt.) ir valstybės bei savivaldybių institucijų
 
@@ -1563,7 +1613,7 @@ Valstybinė darbo inspekcija.
 
 Straipsnio pakeitimai:
 
-Nr. IX-1366,
+Nr. IX-1366, 2003-03-13,
 
-2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Žin., 2003, Nr. 32-1313 (2003-04-02)
 
