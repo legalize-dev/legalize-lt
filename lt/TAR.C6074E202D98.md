@@ -4,7 +4,7 @@ identifier: "TAR.C6074E202D98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "2001-12-30"
+last_updated: "2005-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2001-12-30 iki 2005-07-11
+Suvestinė redakcija nuo 2005-07-12 iki 2010-04-26
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
 
@@ -37,13 +37,21 @@ Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas tik įsta
 
 3 straipsnis. Zonos teritorija
 
-1. Zonos teritorija užima 1000 ha, o jos ribas nustato šio įstatymo 4 straipsnis.
+1. Zonos teritorija užima 534 ha.
 
-Straipsnio dalies pakeitimai:
+2. Zonos teritorija ne aukciono būdu Civilinio kodekso, Žemės įstatymo bei šio įstatymo nustatytomis sąlygomis ir tvarka išnuomojama zonos valdymo bendrovei (pasibaigus zonos veiklos laikotarpiui - jos teisių ir pareigų perėmėjai) 99 metams. Zonos valdymo bendrovė turi teisę žemės nuomos mokestį Lietuvos Respublikos Vyriausybės arba jos įgaliotos valstybės institucijos nustatyta tvarka sumokėti iš anksto už visą nuomos laikotarpį ar jo dalį. Jeigu zonos valdymo bendrovė iš anksto sumokėjo žemės nuomos mokestį, o vėliau pasikeitė žemės vertė, pagal kurią skaičiuojamas žemės nuomos mokesčio dydis, ar žemės nuomos mokesčio tarifas, ar kitoks žemės nuomos mokesčio skaičiavimo pagrindas, žemės nuomos mokesčio dydis už laikotarpį, už kurį žemės nuomos mokestis sumokėtas iš anksto, nekeičiamas. Pasibaigus zonos veiklos terminui, nurodytam šio įstatymo 2 straipsnyje,  išnuomotos zonos teritorijos nuomos sutartis lieka galioti likusiam nuomos laikotarpiui, o zonos teritorijos nuomininku lieka zonos valdymo bendrovė ar jos teisių ir pareigų perėmėjas.
 
-Nr. VIII-1457, 1999-12-02, Žin., 1999, Nr. 108-3126 (1999-12-22), i. k. 0991010ISTAIII-1457
+Straipsnio pakeitimai:
 
-2. Zonos teritorija Žemės nuomos įstatymo nustatyta tvarka išnuomojama zonos valdymo bendrovei.
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
+
+4 straipsnis. Zonos teritorijos ribos
+
+Zonos teritorijos ribas nustato Lietuvos Respublikos Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
 
 5 straipsnis. Zonos veiklos rūšys
 
@@ -65,7 +73,11 @@ Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010IS
 
 1) zonos steigimo ir jos būsimos veiklos ekonominio pagrindimo realumą;
 
-2) investicijų, pirmiausia iš užsienio, realumą, šių investicijų dydį, jų dalį zonos infrastruktūrai plėtoti, investicijų atsipirkimo trukmę;
+2) investicijų realumą, šių investicijų dydį, jų dalį zonos infrastruktūrai plėtoti, investicijų atsipirkimo trukmę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
 
 3) Kauno transporto terminalo ekonominį pagrindimą;
 
@@ -135,7 +147,11 @@ Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010IS
 
 9) nustato žemės subnuomos mokesčio apskaičiavimo ir mokėjimo tvarką;
 
-10) suderinusi su Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į laisvąsias teritorijas tvarką bei tvirtina leidimų pavyzdžius;
+10) neteko galios;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
 
 11) suderinusi su Muitinės departamentu prie Finansų ministerijos, skelbia zonos teritorijos dalis laisvosiomis teritorijomis ir nustato šių teritorijų ribas.
 
@@ -153,7 +169,11 @@ Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010IST
 
 3) sudaro savitarpio paslaugų teikimo sutartis su zonos įmonėmis pagal bendrovės valdybos nustatytas finansines ir kitas sąlygas;
 
-4) išduoda bendrovės valdybos nustatyto ir su Muitinės departamentu prie Finansų ministerijos suderinto pavyzdžio leidimus įeiti į laisvąsias teritorijas;
+4) neteko galios;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
 
 5) užtikrina, kad zonoje registruoti ūkio subjektai laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Aplinkos apsaugos įstatymo ir kitų aplinkos apsaugos teisės aktų reikalavimų;
 
@@ -211,6 +231,12 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
+Priedas. Neteko galios nuo 2005-07-12
+
+Priedo naikinimas:
+
+Nr. X-262, 2005-06-21, Žin. 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
+
 Pakeitimai:
 
 1.
@@ -244,4 +270,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010ISTA00IX-671
 
 Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7, 10 straipsnių pakeitimo ir papildymo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
+
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 3, 4, 6, 7 straipsnių pakeitimo ir priedėlio pripažinimo netekusiu galios įstatymas
 
