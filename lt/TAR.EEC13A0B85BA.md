@@ -4,7 +4,7 @@ identifier: "TAR.EEC13A0B85BA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-06-01"
-last_updated: "2004-06-19"
+last_updated: "2005-07-14"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos socialinių įmonių įstatymas
+
+Suvestinė redakcija nuo 2005-07-14 iki 2006-10-31
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
 
 LIETUVOS RESPUBLIKOS SOCIALINIŲ ĮMONIŲ Į S T A T Y M A S
 
@@ -49,7 +53,15 @@ Socialinių įmonių tikslas – įdarbinant šiame įstatyme nurodytoms tikslin
 
 4) nevykdo veiklos, įtrauktos į socialinių įmonių neremtinų veiklos rūšių sąrašą, kurį tvirtina Vyriausybė ar jos įgaliota institucija, arba iš tokios veiklos gautos pajamos sudaro ne daugiau kaip 20 procentų visų šio juridinio asmens pajamų.
 
-2. Neįgaliųjų socialinė įmonė – socialinė įmonė, kurioje darbuotojai, priklausantys neįgaliųjų tikslinei grupei, sudaro ne mažiau kaip 50 procentų jos metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, iš jų I ir II grupės invalidai – ne mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus. Neįgaliųjų socialinė įmonė turi visas socialinės įmonės teises ir pareigas, tačiau gali gauti ir papildomą šiame bei kituose įstatymuose nustatytą valstybės pagalbą.
+2. Neįgaliųjų socialinė įmonė – šio įstatymo nustatyta tvarka šį statusą įgijęs Lietuvos Respublikoje įsteigtas juridinis asmuo, kuris atitinka visas šias sąlygas:
+
+1) atitinka šio straipsnio 1 dalies 1, 3 ir 4 punktuose nurodytas sąlygas;
+
+2) darbuotojai, priklausantys neįgaliųjų tikslinei grupei, sudaro ne mažiau kaip 50 procentų jos metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, iš jų neįgalieji, turintys I ar II invalidumo grupę arba vidutinį neįgalumo lygį, ar neįgalieji, kuriems nustatytas 30–55 procentų darbingumo lygis, – ne mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
 
 3. Kai šiame įstatyme vartojama sąvoka „socialinė įmonė“, ta norma yra bendra, taikoma ir neįgaliųjų socialinėms įmonėms, o kai norma yra speciali, taikoma tik neįgaliųjų socialinėms įmonėms, tai vartojama sąvoka „neįgaliųjų socialinės įmonės“.
 
@@ -59,7 +71,11 @@ Socialinių įmonių tikslas – įdarbinant šiame įstatyme nurodytoms tikslin
 
 1. Pagal šį įstatymą socialinėse įmonėse remiamas įdarbinimas asmenų, kurie priklauso bent vienai iš šių tikslinių grupių:
 
-1) nedirbantys neįgalieji, turintys I, II ar III invalidumo grupę (nesvarbu, ar yra užsiregistravę teritorinėje darbo biržoje, ar ne);
+1) neįgalieji, turintys I, II ar III invalidumo grupę arba vidutinį neįgalumo lygį, ar neįgalieji, kuriems nustatytas 30–55 procentų darbingumo lygis (nesvarbu, ar yra užsiregistravę teritorinėje darbo biržoje, ar ne);
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
 
 2) ilgalaikiai bedarbiai, kurių nedarbo trukmė nuo užsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip dveji metai;
 
@@ -69,7 +85,11 @@ Socialinių įmonių tikslas – įdarbinant šiame įstatyme nurodytoms tikslin
 
 5) asmenys, grįžę iš laisvės atėmimo vietų, kai laisvės atėmimo laikotarpis buvo ilgesnis kaip šeši mėnesiai, ne vėliau kaip per šešis mėnesius nuo jų paleidimo iš pataisos įstaigų dienos yra įsiregistravę teritorinėje darbo biržoje, ir jei šios registracijos trukmė yra ne trumpesnė kaip šeši mėnesiai.
 
-2. Neįgalieji, turintys I, II ar III invalidumo grupę ir siekiantys įsidarbinti socialinėje įmonėje, darbo biržoje įsiregistruoti neprivalo. Jie turi pateikti darbdaviui neįgalumo faktą patvirtinantį dokumentą.
+2. Neįgalieji, turintys I, II ar III invalidumo grupę arba vidutinį neįgalumo lygį, ar neįgalieji, kuriems nustatytas 30–55 procentų darbingumo lygis, siekiantys įsidarbinti socialinėje įmonėje, darbo biržoje įsiregistruoti neprivalo. Jie turi pateikti darbdaviui neįgalumo faktą patvirtinantį dokumentą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
 
 3. Teritorinės darbo biržos privalo parengti turimą informaciją apie šioje darbo biržoje įregistruotus, šio straipsnio 1 dalies 2–5 punktuose nurodytoms tikslinėms grupėms priklausančius asmenis, jeigu tokios informacijos pageidauja socialinės įmonės statuso siekiantis ar jį turintis juridinis asmuo.
 
@@ -153,7 +173,11 @@ Socialinės įmonės statuso įgijimas ir NETEKIMAS
 
 9) turto (pastato, žemės ir kt.) nuosavybę patvirtinančių dokumentų, susijusių su darbo vietų steigimu ar pritaikymu, kopijos.
 
-3. Vyriausybės įgaliota institucija, gavusi socialinės įmonės prašymą pripažinti ją neįgaliųjų socialine įmone ir nustačiusi, kad ji atitinka šio įstatymo 3 straipsnio 2 dalyje nurodytus reikalavimus, pripažįsta šią socialinę įmonę neįgaliųjų socialine įmone.
+3. Neteko galios nuo 2005-07-14.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
 
 4. Šio straipsnio 2 dalies 5–8 punktuose nurodyti dokumentai pateikiami tik tuo atveju, jeigu iki kreipimosi suteikti socialinės įmonės statusą juridinis asmuo jau vykdė ūkinę veiklą.
 
@@ -191,7 +215,11 @@ Socialinės įmonės statuso įgijimas ir NETEKIMAS
 
 1. Priėmus sprendimą suteikti socialinės įmonės statusą, juridiniam asmeniui išduodamas Vyriausybės įgaliotos institucijos nustatytos formos pažymėjimas.
 
-2. Priėmus sprendimą socialinę įmonę pripažinti neįgaliųjų socialine įmone, juridiniam asmeniui išduodamas Vyriausybės įgaliotos institucijos nustatytos formos pažymėjimas.
+2. Priėmus sprendimą juridinį asmenį pripažinti neįgaliųjų socialine įmone, jam išduodamas Vyriausybės įgaliotos institucijos nustatytos formos pažymėjimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
 
 11 straipsnis. Socialinės įmonės statuso netekimas
 
@@ -251,7 +279,11 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 
 2. Kompensacija apskaičiuojama procentais nuo kiekvienam socialinėje įmonėje dirbančiam tikslinei grupei priklausančiam darbuotojui tą mėnesį apskaičiuoto visų rūšių darbo užmokesčio, tačiau neviršijant dviejų tą mėnesį galiojusių Vyriausybės patvirtintų minimalių mėnesinių algų dydžio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumos.
 
-3. Už kiekvieną I ar II invalidumo grupę turintį neįgalų darbuotoją skiriama kompensacija sudaro 60 procentų šio straipsnio 2 dalyje nurodytos sumos.
+3. Už kiekvieną I ar II invalidumo grupę arba vidutinį neįgalumo lygį turintį neįgalų darbuotoją ar neįgalų darbuotoją, kuriam nustatytas 30–55 procentų darbingumo lygis, skiriama kompensacija sudaro 60 procentų šio straipsnio 2 dalyje nurodytos sumos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
 
 4. Už kiekvieną III invalidumo grupę turintį neįgalų darbuotoją ir už kiekvieną šio įstatymo 4 straipsnio 1 dalies 2–5 punktuose nurodytai tikslinei grupei priklausantį darbuotoją skiriama kompensacija sudaro 50 procentų šio straipsnio 2 dalyje nurodytos sumos.
 
@@ -303,15 +335,23 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 
 1. Siekiant kompensuoti neįgaliųjų socialinių įmonių papildomas administravimo išlaidas, susidarančias dėl neįgalių darbuotojų darbo, skiriama subsidija papildomoms administracinėms išlaidoms kompensuoti.
 
-2. Jeigu socialinė įmonė organizuoja šioje įmonėje dirbančių neįgalių darbuotojų, turinčių I ar II invalidumo grupę, vežimą į darbą ir iš darbo ir šių neįgaliųjų skaičius yra ne mažesnis kaip keturi, šiai įmonei gali būti skiriama subsidija jos transporto kuro išlaidoms kompensuoti.
+2. Jeigu socialinė įmonė organizuoja joje dirbančių neįgalių darbuotojų, turinčių I ar II invalidumo grupę arba vidutinį neįgalumo lygį, ar neįgalių darbuotojų, kuriems nustatytas 30–55 procentų darbingumo lygis, vežimą į darbą ir iš darbo, taip pat šių neįgalių darbuotojų, sudarius su jais namudinio darbo sutartis, darbui namuose reikalingų medžiagų, detalių, gaminių ir kt. vežimą į namus ir iš namų, šiai įmonei gali būti skiriama subsidija jos transporto kuro išlaidoms kompensuoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
 
 3. Šio straipsnio 1 ir 2 dalyse nurodytos kiekvienos subsidijos dydis gali sudaryti ne daugiau kaip 70 procentų visų reikalingų išlaidų.
 
 19 straipsnis. Subsidija asistento (gestų kalbos vertėjo) išlaidoms kompensuoti
 
-1. Kadangi I ar II invalidumo grupę turintiems neįgaliųjų socialinių įmonių darbuotojams darbo funkcijoms atlikti būtina asistento pagalba, tai šioms išlaidoms kompensuoti skiriama subsidija.
+1. Kadangi I ar II invalidumo grupę arba vidutinį neįgalumo lygį turintiems neįgaliems darbuotojams ar neįgaliems darbuotojams, kuriems nustatytas 30–55 procentų darbingumo lygis, darbo funkcijoms atlikti būtina asistento (gestų kalbos vertėjo) pagalba, tai šioms išlaidoms kompensuoti skiriama subsidija.
 
-2. Šio straipsnio 1 dalyje nurodyta subsidija sudaro 30 procentų subsidijos skyrimo mėnesį galiojančios Vyriausybės patvirtintos minimalios mėnesinės algos dydžio už kiekvieną I invalidumo grupę turintį neįgalų darbuotoją ir 20 procentų – už kiekvieną II invalidumo grupę turintį neįgalų darbuotoją, atsižvelgiant į faktiškai dirbtą laiką.
+2. Šio straipsnio 1 dalyje nurodyta subsidija sudaro 30 procentų subsidijos skyrimo mėnesį galiojančio Vyriausybės patvirtinto minimalaus valandinio atlygio dydžio už kiekvieną I invalidumo grupę arba vidutinį neįgalumo lygį turintį neįgalų darbuotoją ar neįgalų darbuotoją, kuriam nustatytas 30–40 procentų darbingumo lygis, ir 20 procentų už kiekvieną II invalidumo grupę turintį neįgalų darbuotoją arba neįgalų darbuotoją, kuriam nustatytas 45–55 procentų darbingumo lygis, atsižvelgiant į  neįgalaus darbuotojo faktiškai dirbtą laiką.
+
+Straipsnio pakeitimai:
+
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
 
 20 straipsnis. Valstybės pagalbos skyrimo ir mokėjimo tvarka
 
@@ -437,70 +477,6 @@ priedas
 
 2. 2002 m. gruodžio 12 d. Europos Komisijos reglamentas (EB) Nr. 2204/2002 „Dėl EB sutarties 87 ir 88 straipsnių taikymo valstybės pagalbai, teikiamai užimtumui“.
 
-28 straipsnis. Lėšos socialinėms įmonėms remti
-
-Šio įstatymo 13 straipsnyje nustatyta valstybės pagalba socialinėms įmonėms remti skiriama šio įstatymo nustatyta tvarka iš Lietuvos Respublikos valstybės biudžeto pagal Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą.
-
-V skyrius
-
-VYRIAUSYBĖS ĮGALIOTŲ INSTITUCIJŲ FUNKCIJOS
-
-29 straipsnis. Vyriausybės įgaliotų institucijų funkcijos įgyvendinant šį įstatymą
-
-1. Įgyvendindama šį įstatymą, socialinės įmonės statusą suteikianti Vyriausybės įgaliota institucija:
-
-1) administruoja Lietuvos Respublikos valstybės biudžeto lėšas, skirtas socialinėms įmonėms remti;
-
-2) priima ir svarsto prašymus suteikti socialinės įmonės statusą ir priima sprendimą dėl socialinės įmonės statuso suteikimo ar nesuteikimo ir panaikinimo juridiniam asmeniui ar jo padaliniui, išduoda socialinės įmonės ir neįgaliųjų socialinės įmonės pažymėjimus;
-
-3) praneša juridiniam asmeniui ar jo padaliniui ir Juridinių asmenų registro tvarkytojui apie priimtus sprendimus dėl socialinės įmonės statuso suteikimo ir panaikinimo;
-
-4) priima ir svarsto socialinių įmonių paraiškas gauti valstybės pagalbą ir priima sprendimus dėl valstybės pagalbos skyrimo ar neskyrimo ir jos dydžio, jos teikimo sustabdymo, atnaujinimo, nutraukimo, reikalavimo ją grąžinti ir negrąžintos valstybės pagalbos išieškojimo, sudaro su socialinėmis įmonėmis sutartis dėl subsidijų išmokėjimo ir panaudojimo tvarkos;
-
-5) tvarko informaciją apie konkrečioms socialinėms įmonėms pagal šį įstatymą suteiktą valstybės pagalbą ir teikia ją Lietuvos Respublikos ir Europos Sąjungos institucijoms, atliekančioms valstybės pagalbos teikimo priežiūrą, siekiant užtikrinti šio įstatymo nuostatų laikymąsi;
-
-6) vertina socialinių įmonių pateiktas iš visų šaltinių gautos ir panaudotos valstybės pagalbos bei pelno panaudojimo socialinės įmonės veiklos tikslams, susijusiems su socialinėse įmonėse įdarbinamų asmenų tikslinių grupių grįžimo į darbo rinką ir jų socialinės integracijos skatinimu, socialinės atskirties mažinimu, ataskaitas, teikia metines suvestines socialinių įmonių veiklos ir valstybės pagalbos lėšų panaudojimo bei pelno panaudojimo socialinės įmonės veiklos tikslams, susijusiems su socialinėse įmonėse įdarbinamų asmenų tikslinių grupių grįžimo į darbo rinką ir jų socialinės integracijos skatinimu, socialinės atskirties mažinimu, ataskaitas Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai;
-
-7) prireikus organizuoja mokymus socialinių įmonių vadovams ir darbuotojams, dirbantiems su socialinėse įmonėse įdarbinamų asmenų tikslinėmis grupėmis;
-
-8) rengia ir įgyvendina projektus, skirtus socialinių įmonių veiklai gerinti ir plėsti;
-
-9) vertina socialinių įmonių pateiktus metinius finansinių ataskaitų rinkinius ir ataskaitas, kuriose pateikiama informacija apie tikslinėms grupėms priklausančių darbuotojų skaičių, jų dalį iš visų socialinės įmonės darbuotojų;
-
-10) priima sprendimus dėl leidimų parduoti, dovanoti ar kitaip perleisti, išvežti už Europos ekonominės erdvės valstybių teritorijų ribų, įkeisti ilgalaikį turtą ar kitaip suvaržyti teises į šį turtą, kurį socialinė įmonė įsigijo pasinaudodama subsidijomis, taip pat įdarbinto asmens darbo sutartyje pakeisti darbovietę ar funkcijas išdavimo socialinėms įmonėms;
-
-11) tvarko tikslinėms grupėms priklausančių asmenų duomenis, susijusius su jų registracija Užimtumo tarnyboje, ir ypatingus tikslinėms grupėms priklausančių asmenų duomenis, patvirtinančius darbuotojų priklausymą tikslinėms grupėms, siekiant didinti tikslinėms grupėms priklausančių asmenų užimtumą;
-
-12) teikia duomenis apie socialinėms įmonėms suteiktą valstybės pagalbą Europos Komisijos valstybės pagalbos skaidrumo svetainėje;
-
-13) moka socialinės įmonės statusą suteikiančios Vyriausybės įgaliotos institucijos skirtą valstybės pagalbą;
-
-14) teikia informaciją apie Užimtumo tarnyboje įregistruotus tikslinėms grupėms priklausančius asmenis, jų sutikimu, jos pageidaujančiam juridiniam asmeniui ar jo padaliniui, siekiančiam įdarbinti socialinėse įmonėse įdarbinamų asmenų tikslines grupes.
-
-2. Įgyvendindama šį įstatymą socialinių įmonių veiklos priežiūrą atliekanti Vyriausybės įgaliota institucija:
-
-1) Viešojo administravimo įstatymo ketvirtajame skirsnyje nustatyta tvarka atlieka socialinių įmonių veiklos priežiūrą;
-
-2) nustato terminą, per kurį socialinė įmonė privalo panaikinti atliekant veiklos priežiūrą nustatytus šio įstatymo ar jo įgyvendinamųjų teisės aktų, Darbo kodekso, darbuotojų saugą ir sveikatą bei darbo santykius reglamentuojančių įstatymų ar jų įgyvendinamųjų teisės aktų pažeidimus;
-
-3) informuoja socialinės įmonės statusą suteikiančią Vyriausybės įgaliotą instituciją apie sąlygų atlikti socialinių įmonių veiklos priežiūrą nesudarymą, apie įpareigojimų pašalinti pažeidimus, nustatytus atliekant socialinių įmonių veiklos priežiūrą, neįvykdymą per nustatytą terminą ne vėliau kaip per 3 darbo dienas nuo šių aplinkybių atsiradimo dienos.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-LAIKINAI EINANTIS
-
-RESPUBLIKOS PREZIDENTO PAREIGAS                                  ARTŪRAS PAULAUSKAS
-
-Lietuvos Respublikos
-
-socialinių įmonių įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2014 m. birželio 17 d. Komisijos reglamentas (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius (OL 2014 L 187, p. 1).
-
 Pakeitimai:
 
 1.
@@ -510,304 +486,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
 
 Lietuvos Respublikos socialinių įmonių įstatymo 3, 4, 8, 10, 14, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-872, 2006-10-19, Žin., 2006, Nr. 116-4405 (2006-10-31), i. k. 1061010ISTA000X-872
-
-Lietuvos Respublikos socialinių įmonių įstatymo 3 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1040, 2007-01-18, Žin., 2007, Nr. 17-629 (2007-02-08), i. k. 1071010ISTA00X-1040
-
-Lietuvos Respublikos socialinių įmonių įstatymo 3, 4, 5, 8, 14, 18, 19 straipsnių pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1388, 2007-12-18, Žin., 2007, Nr. 138-5647 (2007-12-29), i. k. 1071010ISTA00X-1388
-
-Lietuvos Respublikos socialinių įmonių įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1231, 2010-12-14, Žin., 2010, Nr. 153-7798 (2010-12-28), i. k. 1101010ISTA0XI-1231
-
-Lietuvos Respublikos socialinių įmonių įstatymo 4 straipsnio papildymo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1771, 2011-12-01, Žin., 2011, Nr. 155-7352 (2011-12-20), i. k. 1111010ISTA0XI-1771
-
-Lietuvos Respublikos socialinių įmonių įstatymo pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1146, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13455
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 22 straipsnio pakeitimo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1670, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07404
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 24 ir 26 straipsnių pakeitimo įstatymas
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2043, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18857
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 4, 16, 22 straipsnių ir priedo pakeitimo įstatymas
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2467, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18823
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14 straipsnio pakeitimo įstatymas
-
-11.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-133, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29837
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14 straipsnio pakeitimo įstatymo Nr. XII-2467 2 straipsnio pakeitimo įstatymas
-
-12.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-942, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21628
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 4, 6, 7, 14 ir 26 straipsnių pakeitimo įstatymas
-
-13.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1346, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11446
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 15, 17 ir 19 straipsnių pakeitimo įstatymas
-
-14.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1730, 2018-12-11, paskelbta TAR 2018-12-19, i. k. 2018-20875
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14, 15, 17 ir 19 straipsnių pakeitimo įstatymo Nr. XIII-1346 pavadinimo pakeitimo ir 1 straipsnio pripažinimo netekusiu galios įstatymas
-
-15.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2427, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16065
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstatymas
-
-30 straipsnis. Įstatyme nustatyto teisinio reguliavimo stebėsena
-
-1. Šiame įstatyme nustatyto teisinio reguliavimo poveikio ex post vertinimas atliekamas iki 2022 m. lapkričio 1 d. už laikotarpį nuo 2020 m. liepos 1 d. iki 2022 m. birželio 30 d. Šio vertinimo ataskaitoje nurodomos teigiamos ir neigiamos šiame įstatyme nustatyto teisinio reguliavimo pasekmės ir pasiūlymai dėl jo tobulinimo.
-
-2. Vyriausybės įgaliota institucija iki 2021 m. ir kiekvienų vėlesnių metų liepos 1 dienos pateikia Lietuvos Respublikos Vyriausybei ir Lietuvos Respublikos Seimui ataskaitą apie praėjusiais kalendoriniais metais (o teikiant pirmą kartą – už laikotarpį nuo 2020 m. liepos 1 d. iki 2020 m. gruodžio 31 d.) socialinėse įmonėse dirbančių neįgaliųjų skaičių, iš viso ir pagal neįgalumo ar darbingumo lygį, ir jų dalį iš visų socialinių įmonių darbuotojų, taip pat pokytį per šioje dalyje nurodytą laikotarpį; socialinėse įmonėse dirbančių ir dirbusių neįgaliųjų užimtumą pasibaigus valstybės pagalbos jų užimtumui skatinti mokėjimo laikotarpiui ir pokytį per šioje dalyje nurodytą laikotarpį; suteiktą valstybės pagalbą socialinėms įmonėms, iš viso ir pagal rūšis, taip pat pokytį per šioje dalyje nurodytą laikotarpį; pelno panaudojimą socialinių įmonių veiklos tikslams, susijusiems su socialinėse įmonėse įdarbinamų asmenų tikslinių grupių grįžimo į darbo rinką ir jų socialinės integracijos skatinimu bei socialinės atskirties mažinimu.
-
-Papildyta straipsniu:
-
-Nr. XIII-2613, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20643
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-LAIKINAI EINANTIS
-
-RESPUBLIKOS PREZIDENTO PAREIGAS                                  ARTŪRAS PAULAUSKAS
-
-Lietuvos Respublikos
-
-socialinių įmonių įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2014 m. birželio 17 d. Komisijos reglamentas (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius (OL 2014 L 187, p. 1).
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
-
-Lietuvos Respublikos socialinių įmonių įstatymo 3, 4, 8, 10, 14, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-872, 2006-10-19, Žin., 2006, Nr. 116-4405 (2006-10-31), i. k. 1061010ISTA000X-872
-
-Lietuvos Respublikos socialinių įmonių įstatymo 3 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1040, 2007-01-18, Žin., 2007, Nr. 17-629 (2007-02-08), i. k. 1071010ISTA00X-1040
-
-Lietuvos Respublikos socialinių įmonių įstatymo 3, 4, 5, 8, 14, 18, 19 straipsnių pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1388, 2007-12-18, Žin., 2007, Nr. 138-5647 (2007-12-29), i. k. 1071010ISTA00X-1388
-
-Lietuvos Respublikos socialinių įmonių įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1231, 2010-12-14, Žin., 2010, Nr. 153-7798 (2010-12-28), i. k. 1101010ISTA0XI-1231
-
-Lietuvos Respublikos socialinių įmonių įstatymo 4 straipsnio papildymo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1771, 2011-12-01, Žin., 2011, Nr. 155-7352 (2011-12-20), i. k. 1111010ISTA0XI-1771
-
-Lietuvos Respublikos socialinių įmonių įstatymo pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1146, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13455
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 22 straipsnio pakeitimo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1670, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07404
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 24 ir 26 straipsnių pakeitimo įstatymas
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2043, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18857
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 4, 16, 22 straipsnių ir priedo pakeitimo įstatymas
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2467, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18823
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14 straipsnio pakeitimo įstatymas
-
-11.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-133, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29837
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14 straipsnio pakeitimo įstatymo Nr. XII-2467 2 straipsnio pakeitimo įstatymas
-
-12.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-942, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21628
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 4, 6, 7, 14 ir 26 straipsnių pakeitimo įstatymas
-
-13.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1346, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11446
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 15, 17 ir 19 straipsnių pakeitimo įstatymas
-
-14.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1730, 2018-12-11, paskelbta TAR 2018-12-19, i. k. 2018-20875
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14, 15, 17 ir 19 straipsnių pakeitimo įstatymo Nr. XIII-1346 pavadinimo pakeitimo ir 1 straipsnio pripažinimo netekusiu galios įstatymas
-
-15.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2427, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16065
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstatymas
-
-16.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2833, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07196
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 6, 14, 24 ir 26 straipsnių pakeitimo įstatymas
-
-17.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-3145, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14366
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 4 ir 23 straipsnių pakeitimo įstatymas
-
-18.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2613, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20643
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstatymo Nr. XIII-2427 1 straipsnio pakeitimo įstatymas
-
-19.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2834, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07198
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstatymo Nr. XIII-2427 1 straipsnio pakeitimo įstatymas
-
-20.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-3146, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14367
-
-Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstatymo Nr. XIII-2427 1 straipsnio pakeitimo įstatymas
 
