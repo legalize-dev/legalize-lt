@@ -4,7 +4,7 @@ identifier: "TAR.4C2B9F5E31B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-01-16"
-last_updated: "1995-11-15"
+last_updated: "2005-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4C2B9F5E31B7"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,69 +16,67 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymas
 
-Suvestinė redakcija nuo 1995-11-15 iki 2005-07-13
+Suvestinė redakcija nuo 2005-07-14 iki 2006-01-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 12-0; Žin. 1991, Nr.3-78, i. k. 0911010ISTA000I-954
 
-LIETUVOS RESPUBLIKOS ĮSTATYMAS
+Nauja redakcija nuo 2005-07-14:
 
-DĖL PAPILDOMŲ SOCIALINIŲ GARANTIJŲ ŠEIMOMS ASMENŲ, NUKENTĖJUSIŲ KOVOJANT UŽ LIETUVOS RESPUBLIKOS LAISVĘ, NUO 1991 M. SAUSIO 11–13 D. VYKDYTOS AGRESIJOS IR PO TO BUVUSIŲ ĮVYKIŲ
+Nr. X-295, 2005-06-30, Žin. 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
 
-1 straipsnis.
+LIETUVOS RESPUBLIKOS
 
-Skirti maitintojo netekimo pensijas asmenų, žuvusių už Lietuvos Respublikos laisvę, šeimoms, o asmenims, tapusiems invalidais kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, – invalidumo pensijas pagal Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo normas ir sąlygas, taikomas to įstatymo 14 straipsnio pirmojoje ir antrojoje dalyse išvardytiems asmenims.
+KOMPENSACIJŲ NEPRIKLAUSOMYBĖS GYNĖJAMS, NUKENTĖJUSIEMS NUO 1991 M. SAUSIO 11–13 D. IR PO TO VYKDYTOS SSRS AGRESIJOS, BEI JŲ ŠEIMOMS
 
-Straipsnio dalies pakeitimai:
+ĮSTATYMAS
 
-Nr. I-2198, 1992-01-12, Lietuvos aidas, 1992, Nr. 10-0 (1992-01-16); Žin., 1992, Nr. 3-38 (1992-01-31), i. k. 0921010ISTA00I-2198
+1 straipsnis. Įstatymo paskirtis ir taikymas
 
-Suteikti teisę gauti maitintojo netekimo pensiją asmenų, žuvusių už Lietuvos Respublikos laisvę, motinoms, sukakusioms 50 metų.
+1. Šio įstatymo paskirtis – nustatyti nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms (toliau – kompensacijų gavėjai) kompensacijas už būsto šildymą, karštą vandenį, šaltą vandenį ir nuotekas, dujas, kietą ir skystą kurą, elektros energiją, laidinio telefono abonentinį mokestį ir kitas paslaugas, jų dydį, teikimo tvarką bei finansavimo šaltinius.
 
-Nustatyti, kad minimalus maitintojo netekimo pensijos, skiriamos kiekvienam šeimos nariui, dydis, negali būti mažesnis už dvigubą minimalų gyvenimo lygį.
+2. Šis įstatymas taikomas:
 
-2 straipsnis.
+1) žuvusių Lietuvos Respublikos nepriklausomybės gynėjų, nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, šeimoms (tėvams (įtėviams), sutuoktiniams, vaikams (įvaikiams) iki 18 metų bei vyresniems negu 18 metų aukštųjų mokyklų dieninių skyrių nedirbantiems studentams, pirmą kartą įgyjantiems bakalauro ar magistro laipsnį, aukštesniųjų ir profesinių mokyklų dieninių skyrių nedirbantiems moksleiviams, pirmą kartą įgyjantiems profesiją, bet ne ilgiau kaip iki jiems sukaks 24 metai);
 
-Nustatyti minimalaus gyvenimo lygio dydžio priedus prie senatvės ar invalidumo pensijų, skiriamų asmenų, žuvusių už Lietuvos Respublikos laisvę, tėvams ir sutuoktiniams, taip pat asmenims, kurie tapo invalidais dėl 1991 m. sausio 11–13d. vykdytos agresijos ir po to buvusių įvykių.
+2) Lietuvos Respublikos nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, kurie buvo sunkiai ar apysunkiai sužaloti;
 
-3 straipsnis.
+3) Lietuvos Respublikos nepriklausomybės gynėjų, kurie pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, šeimoms (kartu gyvenantiems sutuoktiniams ir vaikams (įvaikiams) iki 18 metų bei vyresniems negu 18 metų aukštųjų mokyklų dieninių skyrių nedirbantiems studentams, pirmą kartą įgyjantiems bakalauro ar magistro laipsnį, aukštesniųjų ir profesinių mokyklų dieninių skyrių nedirbantiems moksleiviams, pirmą kartą įgyjantiems profesiją, bet ne ilgiau kaip iki jiems sukaks 24 metai).
 
-Taikyti nukentėjusiesiems, kurie buvo sunkiai arba apysunkiai sužaloti, taip pat šeimoms asmenų, nukentėjusių (žuvusių ar tapusių invalidais) kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, 50 procentų mokesčių už butų nuomą ir komunalines bei ryšių paslaugas (šaltą vandenį ir kanalizaciją, karštą vandenį, gamtines ir suskystintas dujas, elektros energiją, gyvenamųjų namų šildymą, eksploatacijos išlaidas, laiptinių ir rūsių apšvietimą, laiptinių valymą, šiukšlių bei skystųjų nešvarumų išvežimą, liftą, laidinio radijo imtuvą, televizijos anteną, telefoną (abonentinis mokestis), žemę, esančią po daugiaaukščiu gyvenamuoju namu ir priskirtą šiems asmenims) nuolaidą nepaisant to, ar yra įrengti ir nustatyta tvarka įregistruoti atitinkami komunalinių paslaugų apskaitos prietaisai, ar jų nėra.
+2 straipsnis. Kompensacijų dydis
 
-Su šių nuolaidų taikymu susijusias išlaidas komunalines ir ryšių paslaugas teikiančioms įmonėms, organizacijoms bei gyvenamąsias patalpas eksploatuojančioms įmonėms, įstaigoms, organizacijoms ir bendrijoms apmoka miestų (rajonų) savivaldybės iš savo biudžeto.
+1. Kompensacijų gavėjams kompensuojama 50 procentų išlaidų už:
 
-Minėtoms šeimoms miestų (rajonų) savivaldybės iš savo biudžeto kompensuoja 50 procentų kuro normos pirkimo išlaidų, taip pat šalto ir karšto vandens bei dujų (gamtinių, suskystintų) apskaitos prietaisų didžiausią kompensuotiną kainą ir įrengimo išlaidas.
+1) būsto šildymą;
 
-Žuvusiųjų tėvams ir jų šeimos nariams, asmenims, tapusiems invalidais, ir jų šeimos nariams, taip pat asmenims, patyrusiems sunkų ar apysunkį kūno sužalojimą dėl 1991 m. sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, kompensuoti visą pagrindinę ambulatorinio gydymo vaistų ir visą medicinos pagalbos priemonių, įrašytų į Sveikatos apsaugos bei Socialinės apsaugos ir darbo ministerijų sąrašą, kainą.
+2) karštą vandenį;
 
-Išlaidos, susijusios su minėtos kompensacijos taikymu, apmokamos iš Lietuvos valstybės biudžeto.
+3) šaltą vandenį ir nuotekas;
 
-Straipsnio pakeitimai:
+4) dujas;
 
-Nr. I-1079, 1995-10-31, Žin., 1995, Nr. 93-2067 (1995-11-15), i. k. 0951010ISTA00I-1079
+5) kietą ir skystą kurą;
 
-4 straipsnis.
+6) elektros energiją;
 
-Išmokėti žuvusiųjų kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 dienomis vykdytos agresijos ir po to buvusių įvykių šeimoms 180 tūkst. rublių vienkartines kompensacijas. Kompensacija mokama žuvusiojo sutuoktiniui, vaikams (įvaikiams), tėvams (įtėviams) ir nedarbingiems išlaikytiniams lygiomis dalimis.
+7) laidinio telefono abonentinį mokestį;
 
-Išmokėti asmenims, sužalotiems kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, tokio dydžio vienkartines kompensacijas: asmenims, kuriems padarytas sunkus kūno sužalojimas, – 90 tūkst. rublių, asmenims, kuriems padarytas apysunkis kūno sužalojimas, – 45 tūkst. rublių, asmenims, kuriems padarytas lengvas kūno sužalojimas, – 10 tūkst. rublių.
+8) kitas paslaugas (namo ir šilumos tinklų eksploatacijos išlaidas, laiptinių ir rūsių apšvietimą, bendrų patalpų valymą, šiukšlių ir skystųjų nešvarumų išvežimą, liftą, laidinio radijo imtuvą, kolektyvinę TV anteną, žemę, esančią po daugiaaukščiu gyvenamuoju namu ir priskirtą šiems asmenims).
 
-Dokumentai iš nukentėjusių asmenų priimami ne vėliau kaip iki 1992 m. spalio 31 d., o kompensacijos išmokamos ne vėliau kaip per vieną mėnesį nuo atitinkamų dokumentų pateikimo Krašto apsaugos ministerijai.
+2. Šio straipsnio 1 dalyje nurodytoms kompensacijoms apskaičiuoti taikomi Lietuvos Respublikos piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 7 straipsnyje nustatyti normatyvai kompensacijoms apskaičiuoti.
 
-Straipsnio dalies pakeitimai:
+3 straipsnis. Kompensacijų teikimo tvarka
 
-Nr. I-2751, 1992-07-15, Lietuvos aidas, 1992, Nr. 140-0 (1992-07-21); Žin., 1992, Nr. 22-642 (1992-08-10), i. k. 0921010ISTA00I-2751
+Kompensacijos teikiamos savivaldybių nustatyta tvarka. Apskaičiuotų kompensacijų sumos pervedamos į energetines, komunalines, ryšio ir kitas paslaugas teikiančių įmonių atsiskaitomąsias sąskaitas bankuose.
 
-Papildyta straipsniu:
+4 straipsnis. Kompensacijų lėšos
 
-Nr. I-2198, 1992-01-12, Lietuvos aidas, 1992, Nr. 10-0 (1992-01-16); Žin., 1992, Nr. 3-38 (1992-01-31), i. k. 0921010ISTA00I-2198
+1. Kompensacijos mokamos iš valstybės biudžeto specialios tikslinės dotacijos, teikiamos savivaldybių biudžetams.
 
-5 straipsnis.
+2. Iki 2005 m. gruodžio 31 d. kompensacijos mokamos iš savivaldybių biudžetų.
 
-Asmenims, nukentėjusiems kovojant už Lietuvos Respublikos laisvę nuo įvykių, kurie buvo po 1991 m. sausio 11–13 dienomis vykdytos agresijos, šis įstatymas taikomas pagal atskirą Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą.
+5 straipsnis. Kompensacijų administravimas
 
-Papildyta straipsniu:
-
-Nr. I-2198, 1992-01-12, Lietuvos aidas, 1992, Nr. 10-0 (1992-01-16); Žin., 1992, Nr. 3-38 (1992-01-31), i. k. 0921010ISTA00I-2198
+Kompensacijas administruoja kompensacijų gavėjų gyvenamosios vietos savivaldybės. Savivaldybėms skiriami 2 procentai kompensacijoms mokėti skirtų lėšų administravimo išlaidoms padengti.
 
 LIETUVOS RESPUBLIKOS
 
@@ -115,4 +113,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1079, 1995-10-31, Žin., 1995, Nr. 93-2067 (1995-11-15), i. k. 0951010ISTA00I-1079
 
 Dėl Lietuvos Respublikos įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 dienomis vykdytos agresijos ir po to buvusių įvykių" 3 straipsnio pakeitimo
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+
+Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo, Įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)", Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo, Įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių, kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo įstatymas
 
