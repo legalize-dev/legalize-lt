@@ -4,7 +4,7 @@ identifier: "TAR.F19AC41B9F15"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-04"
-last_updated: "2000-03-31"
+last_updated: "2005-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F19AC41B9F15"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2000-01-04"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymas
+
+Suvestinė redakcija nuo 2005-07-14 iki 2023-03-31
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 5-124, i. k. 1001010ISTAIII-1517
 
 LIETUVOS RESPUBLIKOS
 
@@ -33,9 +37,17 @@ Vilnius
 
 Lietuvos Respublikos nepriklausomybės gynėjais, nukentėjusiais nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, pripažįstami asmenys, kurie:
 
-1) žuvo dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos (asmenų žuvimo faktą patvirtina Generalinės prokuratūros prie Lietuvos Aukščiausiojo Teismo išduotos pažymos);
+1) žuvo dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos (asmenų žuvimo faktą patvirtina Generalinės prokuratūros išduotos pažymos);
 
-2) buvo sužaloti dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos ir turi Generalinės prokuratūros prie Lietuvos Aukščiausiojo Teismo išduotas pažymas, patvirtinančias sužalojimo, padaryto ginant Lietuvos Respublikos laisvę 1991 m., faktą.
+Straipsnio punkto pakeitimai:
+
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+
+2) buvo sužaloti dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos ir turi Generalinės prokuratūros pažymas, patvirtinančias sužalojimo, padaryto ginant Lietuvos Respublikos laisvę 1991 m., faktą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
 
 3 straipsnis.         Lietuvos Respublikos nepriklausomybės gynėjų šeimų narių, nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, pripažinimas
 
@@ -47,11 +59,23 @@ Lietuvos Respublikos nepriklausomybės gynėjų šeimų nariais, nukentėjusiais
 
 3) žuvusiųjų tėvai (įtėviai);
 
-4) asmenų, tapusių invalidais dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, sutuoktiniai;
+4) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, sutuoktiniai;
 
-5) asmenų, tapusių invalidais dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, nepilnamečiai vaikai (įvaikiai);
+Straipsnio punkto pakeitimai:
 
-6) asmenų, tapusių invalidais dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, tėvai (įtėviai).
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+
+5) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, nepilnamečiai vaikai (įvaikiai);
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+
+6) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, tėvai (įtėviai).
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
 
 4 straipsnis.         Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimas
 
@@ -76,4 +100,14 @@ Vyriausybė ar jos įgaliota institucija iki 2000 m. kovo 31 d. parengia ir patv
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+
+Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo, Įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)", Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo, Įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių, kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo įstatymas
 
