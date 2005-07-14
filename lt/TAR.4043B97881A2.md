@@ -4,7 +4,7 @@ identifier: "TAR.4043B97881A2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-06"
-last_updated: "2003-05-01"
+last_updated: "2005-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4043B97881A2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2005-07-13
+Suvestinė redakcija nuo 2005-07-14 iki 2005-07-15
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1290, i. k. 0951010ISTA000I-924
 
@@ -87,9 +87,13 @@ Psichikos ligonių ugdymo ir globos įstaigų steigimo bei veiklos tvarką regla
 
 Specialiųjų mokyklų, vaikų darželių, specialiųjų grupių (klasių) švietimo įstaigose steigimo ir veikimo sąlygas nustato Švietimo ir mokslo ministerija ir savivaldybės. Nepilnamečiai gali būti įtraukti ir į bendro pobūdžio grupes bei klases.
 
-6 straipsnis. Psichikos invalidai yra globojami valstybės. Jiems Lietuvos Respublikos įstatymų nustatyta tvarka yra teikiama socialinė parama. Psichikos invalidų sveikatos priežiūra finansuojama Lietuvos Respublikos įstatymų nustatyta tvarka.
+6 straipsnis. Žmonės su psichine negalia yra globojami valstybės. Jiems Lietuvos Respublikos įstatymų nustatyta tvarka yra teikiama socialinė parama. Žmonių su psichine negalia sveikatos priežiūra finansuojama Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-Savivaldybė organizuoja ir remia psichikos invalidų slaugą ir globą šeimose, sveikatos priežiūros įstaigose, psichikos sveikatos centruose ir kitose globos bei reabilitacijos įstaigose.
+Savivaldybė organizuoja ir remia žmonių su psichine negalia slaugą ir globą šeimose, sveikatos priežiūros įstaigose, psichikos sveikatos centruose ir kitose globos bei reabilitacijos įstaigose.
+
+Straipsnio pakeitimai:
+
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
 
 III SKYRIUS. HOSPITALIZUOTŲ PACIENTŲ TEISĖS IR JŲ APRIBOJIMAI
 
@@ -352,6 +356,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1444, 2003-04-03, Žin., 2003, Nr. 38-1689 (2003-04-24), i. k. 1031010ISTA0IX-1444
 
 Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo IX skyriaus pavadinimo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
+
+Lietuvos Respublikos medicinos praktikos įstatymo, Odontologijos praktikos įstatymo, Sveikatos sistemos įstatymo, Psichikos sveikatos priežiūros įstatymo, Narkologinės priežiūros įstatymo pakeitimo įstatymas
 
 381 straipsnis. Valstybinę psichikos sveikatos komisiją prie Lietuvos Respublikos Vyriausybės (toliau – VPSK) sudaro ir jos nuostatus tvirtina Vyriausybė. VPSK veikla reglamentuojama Sveikatos sistemos įstatymo, šio įstatymo bei VPSK nuostatų ir finansuojama iš valstybės biudžeto. VPSK sudaroma iš Sveikatos apsaugos, Socialinės apsaugos ir darbo, Švietimo ir mokslo, Vidaus reikalų, Teisingumo ministerijų atstovų, Lietuvos savivaldybių asociacijos, Sveikatos apsaugos ministerijos pasiūlytų visuomeninių organizacijų bei gausiausių tradicinių religinių bendruomenių atstovų, jos sudėtį ir sudarymo tvarką reglamentuoja šios komisijos nuostatai.
 
