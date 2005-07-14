@@ -4,7 +4,7 @@ identifier: "TAR.B8F45E398856"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-28"
-last_updated: "2004-05-01"
+last_updated: "2005-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2005-07-13
+Suvestinė redakcija nuo 2005-07-14 iki 2010-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
 
@@ -83,7 +83,11 @@ BENDROSIOS NUOSTATOS
 
 12. Odontologijos praktikos klaida – odontologo veika, dėl odontologo kaltės sukėlusi pavojų ar padariusi žalą paciento sveikatai. Odontologijos praktikos klaidą nustato odontologų profesinės kompetencijos vertinimo komisija.
 
-13. Grubi odontologijos praktikos klaida – odontologo veika, kai dėl odontologo kaltės buvo padaryta paciento sveikatai žala, sukėlusi paciento invalidumą arba mirtį. Grubią odontologijos praktikos klaidą nustato odontologų profesinės kompetencijos vertinimo komisija.
+13. Grubi odontologijos praktikos klaida – odontologo veika, kai dėl odontologo kaltės buvo padaryta paciento sveikatai žala, sukėlusi paciento neįgalumą arba mirtį. Grubią odontologijos praktikos klaidą nustato odontologų profesinės kompetencijos vertinimo komisija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
 
 14. Receptas – sveikatos apsaugos ministro nustatytos formos rašytinis odontologo nurodymas vaistininkui, pagal kurį vaistinė paruošia ir išduoda vaistus, odontologijos pagalbos priemones.
 
@@ -330,6 +334,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1930, 2003-12-18, Žin., 2004, Nr. 4-36 (2004-01-07), i. k. 1031010ISTA0IX-1930
 
 Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
+
+Lietuvos Respublikos medicinos praktikos įstatymo, Odontologijos praktikos įstatymo, Sveikatos sistemos įstatymo, Psichikos sveikatos priežiūros įstatymo, Narkologinės priežiūros įstatymo pakeitimo įstatymas
 
 16 straipsnis.       Savivaldybių ir valstybės remiamos (nemokamos) stomatologinės priežiūros (pagalbos) LNSS įstaigose esminės sąlygos
 
