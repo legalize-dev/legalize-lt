@@ -4,7 +4,7 @@ identifier: "TAR.3C56DC9F15F3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-20"
-last_updated: "2005-01-01"
+last_updated: "2005-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3C56DC9F15F3"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)
 
-Suvestinė redakcija nuo 2005-01-01 iki 2005-07-13
+Suvestinė redakcija nuo 2005-07-14 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1162, i. k. 0941010ISTA000I-576
 
@@ -33,9 +33,11 @@ Vilnius
 
 Asmenys, žuvę ar mirę būtinosios karinės tarnybos ir karinių apmokymų metu sovietinėje armijoje ar mirę vėliau dėl ligų, susijusių su tarnyba, yra laikomi žuvusiais.
 
-2 straipsnis.
+2 straipsnis. Asmenys, pašaukti į būtinąją karinę tarnybą ar karinius apmokymus sovietinėje armijoje, dėl sužalojimų ar ligų, susijusių su karine tarnyba ar kariniais apmokymais, pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais), laikomi sužalotais karinėje tarnyboje.
 
-Asmenys, pašaukti į būtinąją karinę tarnybą ar karinius apmokymus sovietinėje armijoje ir joje tapę invalidais ar susirgę su tarnyba susijusiomis ligomis, laikomi sužalotais karinėje tarnyboje.
+Straipsnio pakeitimai:
+
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
 
 3 straipsnis. Neteko galios nuo 1995-01-01
 
@@ -57,25 +59,35 @@ Straipsnio pakeitimai:
 
 Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010ISTAVIII-241
 
-6 straipsnis.
+6 straipsnis. 2 straipsnyje nurodytiems asmenims išmokamos šių dydžių vienkartinės kompensacijos:
 
-Išmokėti kompensacijas: I grupės invalidams – 7200 litų, II grupės invalidams – 5760 litų ir III grupės invalidams – 4320 litų. Sužalotiems būtinojoje karinėje tarnyboje sovietinėje armijoje asmenims – 2880 litų.
+1) pripažintiems netekusiais 75–100 procentų darbingumo (iki 2005 m. liepos 1 d. – I grupės invalidais) – 7200 litų;
+
+2) pripažintiems netekusiais 60–70 procentų darbingumo (iki 2005 m. liepos 1 d. – II grupės invalidais) – 5760 litų;
+
+3) pripažintiems netekusiais 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. – III grupės invalidais) – 4320 litų;
+
+4) pripažintiems netekusiais 20–40 procentų darbingumo – 2880 litų.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010ISTAVIII-241
 
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+
 7 straipsnis.
 
 5 ir 6 straipsniuose nurodyta kompensacija Černobylio AE avarijos likvidavimo dalyviams ar jų šeimoms mažinama dydžiu, kuris buvo išmokėtas pagal Lietuvos Respublikos Vyriausybės 1992 m. balandžio 22 d. nutarimo Nr.281 1 straipsnį.
 
-8 straipsnis. Šiame įstatyme nurodytiems asmenims kompensacijos išmokamos iš Valstybės biudžeto ir kitų lėšų. Kompensacijų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė. Įstatymas įsigalioja nuo 1995 m. sausio 1 d.
+8 straipsnis. Vienkartinės kompensacijos išmokamos iš valstybės biudžeto asmenims, nuolat gyvenantiems Lietuvos Respublikoje, jeigu sužaloti ar žuvę asmenys į būtinąją karinę tarnybą ar karinius apmokymus sovietinėje armijoje buvo pašaukti iš Lietuvos teritorijos. Kompensacijas skiria ir moka šiame įstatyme nurodytų asmenų gyvenamosios vietos savivaldybės. Savivaldybėms skiriami 2 procentai nuo kompensacijoms mokėti skirtų lėšų administravimo išlaidoms padengti. Kompensacijų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010ISTAVIII-241
 
 Nr. IX-1984, 2004-01-27, Žin., 2004, Nr. 25-755 (2004-02-14), i. k. 1041010ISTA0IX-1984
+
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
 
 9 straipsnis.
 
@@ -120,4 +132,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1984, 2004-01-27, Žin., 2004, Nr. 25-755 (2004-02-14), i. k. 1041010ISTA0IX-1984
 
 Lietuvos Respublikos įstatymo dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22-1991 12 31) 8 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+
+Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo, Įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)", Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo, Įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių, kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo įstatymas
 
