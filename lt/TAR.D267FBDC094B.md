@@ -4,7 +4,7 @@ identifier: "TAR.D267FBDC094B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-06-25"
-last_updated: "1996-07-01"
+last_updated: "2005-10-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 1996-07-01 iki 2005-10-10
+Suvestinė redakcija nuo 2005-10-11 iki 2005-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
 
@@ -24,6 +24,10 @@ LIETUVOS RESPUBLIKOS
 ŽEMĖS MOKESČIO
 
 Į S T A T Y M A S
+
+1992 m. birželio 25 d. Nr. I-2675
+
+Vilnius
 
 I. MOKESČIO OBJEKTAS IR MOKĖTOJAI
 
@@ -75,11 +79,13 @@ Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA0
 
 6 straipsnis.
 
-Nuo žemės mokesčio atleidžiami žemės savininkai - pirmos ir antros grupės invalidai, senatvės pensininkai ir nepilnamečiai vaikai, kai minėtų savininkų šeimose apmokestinamojo laikotarpio pradžioje nėra darbingų asmenų ir jiems priklausančio žemės sklypo dydis neviršija savivaldybių tarybų nustatytų neapmokestinamųjų dydžių.
+Nuo žemės mokesčio atleidžiami žemės savininkai – asmenys, kuriems nustatytas 0–40 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir I bei II grupės invalidai), asmenys, sukakę senatvės pensijos amžių, ir nepilnamečiai vaikai, kai minėtų savininkų šeimose apmokestinamojo laikotarpio pradžioje nėra darbingų asmenų ir jiems priklausančio žemės sklypo dydis neviršija savivaldybių tarybų nustatytų neapmokestinamųjų dydžių.
 
 Straipsnio dalies pakeitimai:
 
 Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA000I-944
+
+Nr. X-357, 2005-09-29, Žin., 2005, Nr. 121-4331 (2005-10-11), i. k. 1051010ISTA000X-357
 
 Teikiant lengvatą, prie darbingų asmenų nepriskiriami mokymo įstaigų dieninių skyrių moksleiviai bei studentai.
 
@@ -174,4 +180,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1312, 1996-04-30, Žin., 1996, Nr. 46-1107 (1996-05-17), i. k. 0961010ISTA00I-1312
 
 Lietuvos Respublikos žemės mokesčio įstatymo 12 ir 13 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-357, 2005-09-29, Žin., 2005, Nr. 121-4331 (2005-10-11), i. k. 1051010ISTA000X-357
+
+Lietuvos Respublikos žemės mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
 
