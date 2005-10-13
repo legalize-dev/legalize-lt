@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2004-01-07"
+last_updated: "2005-10-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2004-01-07 iki 2005-10-12
+Suvestinė redakcija nuo 2005-10-13 iki 2010-01-04
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -29,12 +29,6 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS IR SAVIVALDYBĖS ĮMONIŲ Į S T A T Y M A S
 1994 m. gruodžio 21 d. Nr. I-722
 
 Vilnius
-
-TAR pastaba. Nuo Įstatymo Nr. IX-1895 įsigaliojimo Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas (Žin., 1994, Nr. 102-2049; 1995, Nr. 36-888; 1996, Nr. 64-1508; 1997, Nr. 69-1738, Nr. 117-3006; 1998, Nr. 26-671; 1999, Nr. 60-1956; 2000, Nr. 28-761, Nr. 34-956, Nr. 42-1186, Nr. 83-2512) tik tiek, kiek jis neprieštarauja Civiliniam kodeksui, taikomas:
-
-1) valstybės įmonių ir savivaldybės įmonių, kurių steigimo aktai yra priimti iki Įstatymo Nr. IX-1895 įsigaliojimo dienos (2004-01-07), steigimo procedūroms;
-
-2) valstybės įmonių ir savivaldybės įmonių, dėl kurių reorganizavimo ar likvidavimo sprendimai yra priimti iki Įstatymo Nr. IX-1895 įsigaliojimo dienos (2004-01-07), reorganizavimo arba likvidavimo procedūroms.
 
 Pirmasis skirsnis
 
@@ -114,7 +108,11 @@ BENDROsios nuostatos
 
 6. Įmonės savininko teises ir pareigas įgyvendinančios institucijos sprendimai turi būti įforminami raštu.
 
-7. Kai šio straipsnio 4 dalies 3, 7 ir 9 punktuose nurodytiems sprendimams priimti šio Įstatymo nustatytais atvejais reikia Vyriausybės nutarimo arba savivaldybės tarybos sprendimo, taip pat kai šio straipsnio 4 dalies 8 punkte nurodytą sprendimą šio Įstatymo nustatytais atvejais priima Vyriausybė arba savivaldybės taryba, Vyriausybės nutarimų arba savivaldybės tarybos sprendimų projektus parengia ir Vyriausybei arba savivaldybės tarybai pateikia įmonės savininko teises ir pareigas įgyvendinanti institucija, jeigu atitinkamai Vyriausybė arba savivaldybės taryba savo sprendimu tokią instituciją yra paskyrusi.
+7. Kai šio straipsnio 4 dalies 3, 7 ir 9 punktuose nurodytiems sprendimams priimti šio Įstatymo nustatytais atvejais reikia Vyriausybės nutarimo arba savivaldybės tarybos sprendimo, taip pat kai šio straipsnio 4 dalies 8 punkte nurodytą sprendimą šio Įstatymo nustatytais atvejais priima Vyriausybė arba savivaldybės taryba, Vyriausybės nutarimų arba savivaldybės tarybos sprendimų projektus parengia įmonės savininko teises ir pareigas įgyvendinanti institucija, jeigu atitinkamai Vyriausybė arba savivaldybės taryba savo sprendimu tokią instituciją yra paskyrusi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 
 Antrasis skirsnis
 
@@ -276,9 +274,23 @@ Trečiasis skirsnis
 
 9) kitus veiksmus, kuriuos įmonės vadovui nustato šis Įstatymas, kiti teisės aktai bei įmonės įstatai.
 
-7. Darbo ginčai tarp įmonės vadovo ir įmonės nagrinėjami teisme.
+7. Įmonės savininko teises ir pareigas įgyvendinančiai institucijai priėmus motyvuotą sprendimą atšaukti įmonės vadovą, su juo sudaryta darbo sutartis nutraukiama Darbo kodekso nustatyta tvarka.
 
-8. Įmonės vadovas, nevykdantis arba netinkamai vykdantis pareigas, nurodytas Civiliniame kodekse, šiame ir kituose įstatymuose bei įstatuose, privalo padarytą žalą atlyginti įmonei visiškai.
+Papildyta straipsnio dalimi:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+8. Darbo ginčai tarp įmonės vadovo ir įmonės nagrinėjami teisme.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+9. Įmonės vadovas, nevykdantis arba netinkamai vykdantis pareigas, nurodytas Civiliniame kodekse, šiame ir kituose įstatymuose bei įstatuose, privalo padarytą žalą atlyginti įmonei visiškai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 
 Ketvirtasis skirsnis
 
@@ -290,21 +302,65 @@ Ketvirtasis skirsnis
 
 1) įmonės savininko kapitalas;
 
-2) privalomasis rezervas;
+2) turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkantis kapitalas;
 
-3) perkainojimo rezervas;
+Papildyta straipsnio punktu:
 
-4) kiti rezervai;
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 
-5) nepaskirstytasis pelnas (nuostoliai).
+3) privalomasis rezervas;
 
-2. Įmonėje sudaromi rezervai iš paskirstytinojo pelno, taip pat perkainojimo rezervas.
+Straipsnio punkto numeracijos pakeitimas:
 
-3. Įmonėje turi būti sudaromas ir privalomasis rezervas, kuris naudojamas tik įmonės nuostoliams dengti. Privalomasis rezervas sudaromas iš įmonės paskirstytinojo pelno, taikant įmonės savininko teises ir pareigas įgyvendinančios institucijos nustatyto dydžio metinius atskaitymus. Atskaitymai į privalomąjį rezervą turi sudaryti ne mažiau kaip 1/20 paskirstytinojo pelno. Jie turi būti vykdomi tol, kol privalomojo rezervo dydis sudarys 1/10 nuosavo kapitalo vertės. Nustatytą dydį viršijanti privalomojo rezervo dalis gali būti perskirstyta skirstant įmonės pelną. Privalomasis rezervas, panaudotas įmonės nuostoliams dengti, turi būti sudaromas iš naujo, laikantis šioje dalyje nustatytos tvarkos.
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 
-4. Perkainojimo rezervas – tai ilgalaikio materialiojo ir finansinio turto vertės padidėjimo suma, gauta perkainojus turtą. Turtas perkainojamas, kai jį teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka įvertina nepriklausomas turto vertintojas, taip pat kai turtas indeksuojamas Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka. Sprendimas dėl turto vertinimo priimamas įmonės įstatuose nustatyta tvarka. Perkainojimo rezervas mažinamas, kai perkainotas turtas nurašomas, nudėvimas, nukainojamas ar perleidžiamas kitiems asmenims. Perkainojimo rezervu negalima mažinti įmonės nuostolių.
+4) perkainojimo rezervas (rezultatai);
 
-5. Kiti rezervai sudaromi įmonės įstatuose nustatytiems tikslams. Rezervai sudaromi ir naikinami įmonės įstatuose nustatyta tvarka.
+Straipsnio punkto pakeitimai:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+5) kiti rezervai;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+6) nepaskirstytasis pelnas (nuostoliai).
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+2. Įmonės savininko kapitalą sudaro įmonės savininko jai perduoto turto, jei tai nėra turtas, kuris pagal įstatymus gali būti tik valstybės nuosavybė ar dotacija, vertė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+3. Turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkančio kapitalo dydį sudaro turto, kuris pagal įstatymus gali būti tik valstybės nuosavybė, teisės aktų nustatyta tvarka perduoto įmonei patikėjimo teise valdyti, naudoti ir juo disponuoti, vertė.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+4. Įmonėje turi būti sudaromas privalomasis rezervas. Privalomasis rezervas sudaromas iš įmonės paskirstytinojo pelno, taikant įmonės savininko teises ir pareigas įgyvendinančios institucijos nustatyto dydžio metinius atskaitymus. Atskaitymai į privalomąjį rezervą turi sudaryti ne mažiau kaip 1/20 paskirstytinojo pelno. Jie turi būti vykdomi tol, kol privalomojo rezervo dydis sudarys 1/10 savininko kapitalo vertės. Nustatytą dydį viršijanti privalomojo rezervo dalis gali būti perskirstyta skirstant įmonės pelną. Privalomasis rezervas naudojamas tik įmonės nuostoliams dengti. Padengus nuostolius, privalomojo rezervo dydis turi būti atkuriamas, laikantis šioje dalyje nustatytos tvarkos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+5. Perkainojimo rezervas (rezultatai) — tai įmonės nuosavo kapitalo pasikeitimas dėl ilgalaikio materialiojo turto ir finansinio turto perkainojimo. Perkainojimo rezervas mažinamas, kai perkainotas turtas nurašomas, nudėvimas, nukainojamas ar perleidžiamas kitiems asmenims. Perkainojimo rezervu negalima mažinti įmonės nuostolių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+6. Kiti rezervai sudaromi įstatuose nustatyta tvarka iš įmonės paskirstytinojo pelno, naudojami įmonės įstatuose nustatytiems tikslams ir naikinami įmonės įstatuose nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 
 13 straipsnis. Įmonės turtas
 
@@ -312,9 +368,29 @@ Ketvirtasis skirsnis
 
 2. Įmonei gali būti perduodamas bet koks įmonės savininko turtas, kurį pagal Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymą galima perduoti įmonei patikėjimo teise valdyti, naudoti ir juo disponuoti. Turtas perduodamas teisės aktų nustatyta tvarka, turto perdavimo akte nurodant jo balansinę vertę. Įmonės savininko perduotą turtą įmonė valdo, naudoja ir juo disponuoja patikėjimo teise įmonės įstatuose nustatyta tvarka ir sąlygomis, nepažeisdama šio bei kitų įstatymų ir kitų asmenų teisių bei interesų.
 
-3. Dalis įmonės turto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais atvejais ir tvarka gali būti perduota kitiems asmenims nuosavybės ar patikėjimo teise, jeigu įmonės įsipareigojimai po įmonės turto sumažėjimo neviršytų 1/3 likusio įmonės turto vertės.
+3. Sprendime įmonei perduoti įmonės savininko turtą patikėjimo teise turi būti nurodyta, kurioje nuosavo kapitalo dalyje – įmonės savininko kapitalo ar turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkančio kapitalo – turi būti registruojamas įmonės turto vertės padidėjimas. Ši nuostata netaikoma, kai įmonei perduodamas turtas yra dotacija.
 
-4. Apie Vyriausybės ar savivaldybės tarybos sprendimą perduoti įmonės turto dalį įmonės vadovas per 30 dienų nuo sprendimo priėmimo turi viešai paskelbti įmonės įstatuose nurodytame dienraštyje arba raštu pranešti kiekvienam įmonės kreditoriui. Įmonė privalo suteikti papildomą prievolių įvykdymo užtikrinimą to pareikalavusiam kreditoriui, jei yra pagrindas manyti, kad prievolę įvykdyti bus sunkiau. Kreditorius reikalavimus gali pateikti ne vėliau kaip per 2 mėnesius nuo viešo paskelbimo apie sprendimą perduoti įmonės turto dalį dienos arba nuo raštiško pranešimo įteikimo jam dienos.
+Papildyta straipsnio dalimi:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+4. Dalis įmonės turto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais atvejais ir tvarka gali būti perduota kitiems asmenims nuosavybės ar patikėjimo teise, jeigu įmonės įsipareigojimai po įmonės turto sumažėjimo neviršytų 1/3 likusio įmonės savininko kapitalo. Vyriausybės ar savivaldybės tarybos sprendime perduoti įmonės turto dalį kitiems asmenims turi būti nurodyta, kurioje nuosavo kapitalo dalyje – įmonės savininko kapitalo ar turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkančio kapitalo – turi būti registruojamas įmonės turto vertės sumažėjimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+5. Apie Vyriausybės ar savivaldybės tarybos sprendimą perduoti įmonės turto dalį įmonės vadovas per 30 dienų nuo sprendimo priėmimo turi viešai paskelbti įmonės įstatuose nurodytame dienraštyje arba raštu pranešti kiekvienam įmonės kreditoriui. Įmonė privalo suteikti papildomą prievolių įvykdymo užtikrinimą to pareikalavusiam kreditoriui, jei yra pagrindas manyti, kad prievolę įvykdyti bus sunkiau. Kreditorius reikalavimus gali pateikti ne vėliau kaip per 2 mėnesius nuo viešo paskelbimo apie sprendimą perduoti įmonės turto dalį dienos arba nuo raštiško pranešimo įteikimo jam dienos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+6. Atlikus turto vertinimą, įmonės turtas apskaitoje turi būti registruojamas pagal turto būklę jo vertinimo dieną turto vertinimo ataskaitoje nurodyta verte.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 
 14 straipsnis. Įmonės finansinė atskaitomybė
 
@@ -334,23 +410,33 @@ Ketvirtasis skirsnis
 
 2. Įmonės vadovas turi parengti ir kartu su įmonės metine finansine atskaitomybe pateikti įmonės savininko teises ir pareigas įgyvendinančiai institucijai tvirtinti sprendimo dėl įmonės paskirstytinojo pelno (nuostolių) paskirstymo projektą. Projekte turi būti nurodyta:
 
-1) nepaskirstytasis pelnas (nuostoliai) ataskaitinių finansinių metų pradžioje;
+1) nepaskirstytasis pelnas (nuostoliai) ataskaitinių finansinių metų pradžioje;
 
 2) ataskaitinių finansinių metų grynasis pelnas (nuostoliai);
 
-3) paskirstytinasis pelnas (nuostoliai) ataskaitinių finansinių metų pabaigoje;
+3) paskirstytinasis pelnas (nuostoliai) ataskaitinių finansinių metų pabaigoje;
 
-4) pervedimai iš rezervų;
+4) pervedimai iš rezervų;
 
-5) paskirstytinasis pelnas (nuostoliai);
+5) paskirstytinasis pelnas (nuostoliai);
 
-6) pelno dalis, skiriama į privalomąjį rezervą;
+6) pelno dalis, skiriama į privalomąjį rezervą;
 
-7) pelno dalis, skiriama į kitus rezervus, jeigu įmonėje sudaryta ir kitų rezervų;
+7) pelno dalis, skiriama į rezervus, naudojamus darbuotojų premijoms, socialiniams, kultūriniams ir panašiems tikslams;
 
-8) pelno dalis, skiriama darbuotojų premijoms ir kitiems tikslams. Darbuotojų premijoms ir kitiems tikslams gali būti skiriama ne daugiau kaip 1/5 paskirstytinojo pelno;
+8) pelno dalis, skiriama į kitus rezervus;
 
-9) nepaskirstytasis pelnas (nuostoliai), perkeliamas (perkeliami) į kitus finansinius metus.
+9) nepaskirstytasis pelnas (nuostoliai), perkeliamas (perkeliami) į kitus finansinius metus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+3. Į rezervus darbuotojų premijoms, socialiniams, kultūriniams ir panašiems tikslams gali būti skiriama ne daugiau kaip 1/5 paskirstytinojo pelno.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 
 Penktasis skirsnis
 
@@ -418,7 +504,11 @@ Penktasis skirsnis
 
 2) juridinio asmens, į kurį pertvarkoma įmonė, teisinė forma, pavadinimas, buveinė, veiklos tikslai;
 
-3) kokia teise (nuosavybės ar patikėjimo) įmonės turtas perduodamas juridiniam asmeniui, į kurį pertvarkoma įmonė.
+3) kokia teise (nuosavybės ar patikėjimo) įmonės turtą valdys, naudos ir juo disponuos juridinis asmuo, į kurį pertvarkoma įmonė.
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 
 4. Apie priimtą sprendimą pertvarkyti įmonę įmonės vadovas turi pranešti juridinių asmenų registrui bei viešai paskelbti įstatų nustatyta tvarka ir įstatuose nurodytame dienraštyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbti įstatuose nurodytame dienraštyje vieną kartą ir pranešti visiems įmonės kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
 
@@ -460,11 +550,11 @@ Penktasis skirsnis
 
 23 straipsnis. Įmonės pertvarkymas į akcinę bendrovę arba uždarąją akcinę bendrovę
 
-1. Įmonė gali būti pertvarkoma į akcinę bendrovę, jeigu įmonės nuosavas kapitalas yra ne mažesnis nei Akcinių bendrovių įstatyme akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas.
+1. Įmonė gali būti pertvarkoma į akcinę bendrovę, jeigu įmonės savininko kapitalo, privalomojo rezervo, perkainojimo rezervo (rezultatų) ir kitų rezervų, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 7 punkte, bei nepaskirstytojo pelno (nuostolių) suma yra ne mažesnė nei Akcinių bendrovių įstatyme akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas.
 
-2. Įmonė gali būti pertvarkoma į uždarąją akcinę bendrovę, jeigu įmonės nuosavas kapitalas yra ne mažesnis nei Akcinių bendrovių įstatyme uždarosioms akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas.
+2. Įmonė gali būti pertvarkoma į uždarąją akcinę bendrovę, jeigu įmonės savininko kapitalo, privalomojo rezervo, perkainojimo rezervo (rezultatų) ir kitų rezervų, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 7 punkte, bei nepaskirstytojo pelno (nuostolių) suma yra ne mažesnė nei Akcinių bendrovių įstatyme uždarosioms akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas.
 
-3. Iki sprendimo pertvarkyti įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę priėmimo įmonės turtą turi įvertinti nepriklausomas turto vertintojas teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaita turi atitikti Akcinių bendrovių įstatymo nepiniginio įnašo vertinimui nustatytus reikalavimus ir ne vėliau kaip likus 10 dienų iki sprendimo pertvarkyti įmonę priėmimo turi būti pateikta įmonei. Pertvarkant įmonę į akcinę bendrovę, turto vertinimo ataskaita taip pat turi būti pateikta juridinių asmenų registrui kartu su kitais akcinės bendrovės įstatams įregistruoti reikalingais teisės aktų nustatytais dokumentais.
+3. Iki sprendimo pertvarkyti įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę priėmimo įmonės turtas, išskyrus turtą, kuris gali būti tik valstybės nuosavybė, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaita turi atitikti Akcinių bendrovių įstatymo nepiniginio įnašo vertinimui nustatytus reikalavimus. Pertvarkant įmonę į akcinę bendrovę, turto vertinimo ataskaita turi būti pateikta juridinių asmenų registrui.
 
 4. Sprendimas pertvarkyti valstybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę gali būti priimamas, kai yra Vyriausybės sutikimas pertvarkyti valstybės įmonę, išskyrus atvejus, kai valstybės įmonei pertvarkyti į akcinę bendrovę ar uždarąją akcinę bendrovę priimamas atskiras įstatymas.
 
@@ -472,17 +562,31 @@ Penktasis skirsnis
 
 6. Sprendime pertvarkyti įmonę į akcinę bendrovę ar uždarąją akcinę bendrovę, be šio Įstatymo 19 straipsnio 3 dalyje nustatytų reikalavimų, taip pat turi būti:
 
-1) nurodyta įmonės turto vertė;
+1) nurodyta įvertinto įmonės turto vertė, kuri turi atitikti turto vertinimo ataskaitoje nurodytą turto vertę;
 
-2) nurodytas po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė. Visos akcijos turi būti paprastosios vardinės akcijos. Akcijų nominalių verčių suma turi atitikti turto vertinimo ataskaitoje nurodytą turto vertę;
+2) nurodytas po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė. Visos akcijos turi būti paprastosios vardinės akcijos. Akcijų nominalių verčių suma turi atitikti įmonės savininko kapitalo, privalomojo rezervo, perkainojimo rezervo (rezultatų) ir kitų rezervų, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 7 punkte, bei nepaskirstytojo pelno (nuostolių) sumą;
 
-3) nustatyta pertvarkomos įmonės valdymo organų kompetencija pertvarkymo laikotarpiu, jei ji skiriasi nuo kompetencijos, nustatytos šios įmonės įstatuose.
+3) nustatyta pertvarkomos įmonės valdymo organų kompetencija pertvarkymo laikotarpiu, jei ji skiriasi nuo kompetencijos, nustatytos šios įmonės įstatuose.
 
-7. Pertvarkius valstybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę, visų akcijų savininkė yra valstybė.
+7. Įmonės savininko turtas, patikėjimo teise įmonės gautas po to, kai buvo priimtas sprendimas pertvarkyti įmonę į akcinę bendrovę ar uždarąją akcinę bendrovę, turi būti teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka įvertintas nepriklausomo turto vertintojo, jei sprendime perduoti įmonei turtą nurodyta, kad įmonės turto vertės padidėjimas turi būti registruojamas įmonės savininko kapitalo dalyje. Turtas turi būti įvertintas iki akcinės bendrovės ar uždarosios akcinės bendrovės, veiksiančios po pertvarkymo, įstatų pateikimo juridinių asmenų registrui. Turto vertinimo ataskaita turi atitikti Akcinių bendrovių įstatymo nustatytus nepiniginio įnašo vertinimo reikalavimus. Pertvarkant įmonę į akcinę bendrovę, ši turto vertinimo ataskaita turi būti pateikta juridinių asmenų registrui kartu su šio straipsnio 3 dalyje nurodyta vertinimo ataskaita.
 
-8. Pertvarkius savivaldybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę, visų akcijų savininkė yra savivaldybė.
+8. Sprendimas pertvarkyti įmonę turi būti patikslintas, jei iki akcinės bendrovės ar uždarosios akcinės bendrovės, veiksiančios po pertvarkymo, įstatų įregistravimo juridinių asmenų registre pasikeitė įmonės savininko kapitalas, privalomasis rezervas, perkainojimo rezervas (rezultatai) ir kiti rezervai, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 7 punkte, bei nepaskirstytasis pelnas (nuostoliai). Paaiškėjus, kad reikalavimas dėl įstatinio kapitalo dydžio, nustatytas šio straipsnio l ar 2 dalyje, patikslinus sprendimą, nėra įvykdomas, sprendimas pertvarkyti įmonę atšaukiamas. Sprendimą tikslina arba atšaukia įmonės savininko teises ir pareigas įgyvendinanti institucija, išskyrus atvejus, kai valstybės įmonei pertvarkyti į akcinę bendrovę ar uždarąją akcinę bendrovę priimamas atskiras įstatymas. Nuo sprendimo pertvarkyti įmonę atšaukimo įmonė netenka pertvarkomos įmonės statuso.
 
-9. Po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatus patvirtinusi valstybės ar savivaldybės institucija tampa valstybei arba savivaldybei nuosavybės teise priklausančių akcijų valdytoja.
+9. Patikslinus sprendimą, taip pat turi būti patikslinti po pertvarkymo veiksiančios akcinės bendrovės ar uždarosios akcinės bendrovės įstatai, patikslintas įstatinio kapitalo dydis, akcijų skaičius ir akcijų nominali vertė.
+
+10. Įmonės vadovas apie patikslintą ar atšauktą sprendimą pertvarkyti įmonę turi pranešti juridinių asmenų registrui, vieną kartą viešai paskelbti įstatuose nurodytame dienraštyje ir visiems įmonės kreditoriams pranešti raštu. Patikslinus sprendimą, kartu su pranešimu juridinių asmenų registrui pateikiamas visas patikslinto sprendimo pertvarkyti įmonę tekstas. Skelbime arba pranešime, be šio Įstatymo 19 straipsnio 4 dalies 1–4 punktuose nustatytų reikalavimų, taip pat turi būti nurodyta priežastis, dėl kurios sprendimas pertvarkyti įmonę patikslintas ar atšauktas.
+
+11. Iki įmonės pertvarkymo pabaigos Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais pagrindais ir tvarka turi būti priimtas sprendimas dėl turto, kuris pagal įstatymus gali būti tik valstybės nuosavybė.
+
+12. Pertvarkius valstybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę, visų akcijų savininkė yra valstybė.
+
+13. Pertvarkius savivaldybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę, visų akcijų savininkė yra savivaldybė.
+
+14. Po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatus patvirtinusi valstybės ar savivaldybės institucija tampa valstybei arba savivaldybei nuosavybės teise priklausančių akcijų valdytoja.
+
+Straipsnio pakeitimai:
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 
 24 straipsnis. Įmonės likvidavimas
 
@@ -651,4 +755,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1895, 2003-12-16, Žin., 2004, Nr. 4-24 (2004-01-07), i. k. 1031010ISTA0IX-1895
 
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 4, 11, 12, 13, 15, 19, 23 straipsnių pakeitimo ir papildymo įstatymas
 
