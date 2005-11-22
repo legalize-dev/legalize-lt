@@ -4,7 +4,7 @@ identifier: "TAR.48CA7D6FA983"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-20"
-last_updated: "2004-05-01"
+last_updated: "2005-11-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.48CA7D6FA983"
 department: "Lietuvos Respublikos Seimas"
@@ -542,41 +542,63 @@ IX-1043,
 
 2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
 
-17 straipsnis.
+17 straipsnis. Saugumo departamento pareigūno priesaika
 
-Saugumo departamento pareigūno priesaika
+Priimami į Saugumo departamentą pareigūnais asmenys prisiekia
 
-Priimami į
+Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šiame
 
-Saugumo departamentą pareigūnais asmenys prisiekia Lietuvos valstybei šiais
+straipsnyje nustatytų priesaikos tekstų. Nustatomi šie priesaikos tekstai:
 
-žodžiais:
+1) „Aš, (vardas, pavardė), Jums liudijant:
 
-„Aš, (vardas,
+prisiekiu ištikimai ginti Lietuvos valstybę ir jos
 
-pavardė), Jums liudijant:
+nepriklausomybę,
 
-prisiekiu
+sąžiningai vykdyti Lietuvos Respublikos įstatymus ir savo
 
-ištikimai ginti Lietuvos valstybę ir jos nepriklausomybę, sąžiningai vykdyti
+viršininkų įsakymus,
 
-Lietuvos Respublikos įstatymus ir savo viršininkų įsakymus, dorai atlikti savo
+dorai atlikti savo pareigas,
 
-pareigas, tarnauti Lietuvos Respublikos žmonėms ir valstybei;
+tarnauti Lietuvos Respublikos žmonėms ir valstybei;
 
-prisiekiu
+prisiekiu saugoti visas man patikėtas valstybės ir tarnybos
 
-saugoti visas man patikėtas valstybės ir tarnybos paslaptis;
+paslaptis;
 
-prisiekiu savo elgesiu visur ir
+prisiekiu savo elgesiu visur ir visada saugoti gerą Saugumo
 
-visada saugoti gerą Saugumo departamento pareigūno vardą.
+departamento pareigūno vardą.
 
-Tepadeda man Dievas.“
+Tepadeda man Dievas.“;
 
-Prisiekti galima
+2) „Aš, (vardas, pavardė), Jums liudijant:
 
-ir be paskutiniojo sakinio.
+prisiekiu ištikimai ginti Lietuvos valstybę ir jos
+
+nepriklausomybę,
+
+sąžiningai vykdyti Lietuvos Respublikos įstatymus ir savo
+
+viršininkų įsakymus,
+
+dorai atlikti savo pareigas,
+
+tarnauti Lietuvos Respublikos žmonėms ir valstybei;
+
+prisiekiu saugoti visas man patikėtas valstybės ir tarnybos
+
+paslaptis;
+
+prisiekiu savo elgesiu visur ir visada saugoti gerą Saugumo
+
+departamento pareigūno vardą.“
+
+Prisiekęs
+
+asmuo po priesaikos tekstu pasirašo.
 
 Straipsnio
 
@@ -587,6 +609,12 @@ Nr.
 IX-1043,
 
 2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+
+Nr.
+
+X-422,
+
+2005-11-22, Žin., 2005, Nr. 143-5184 (2005-12-08)
 
 18 straipsnis. Saugumo
 
@@ -924,11 +952,11 @@ GARANTIJOS
 
 27 straipsnis. Saugumo departamento pareigūnų darbo užmokestis
 
-Saugumo
+Saugumo departamento
 
-departamento pareigūnų darbo užmokestį ir jo mokėjimo tvarką nustato Saugumo
+pareigūnų darbo užmokestį ir jo mokėjimo tvarką nustato Saugumo departamento
 
-departamento statutas ir Valstybės tarnybos įstatymas.
+statutas ir Valstybės tarnybos įstatymas.
 
 Straipsnio
 
@@ -968,11 +996,11 @@ departamento sistemoje Darbo sutarties įstatymo pagrindais laikas, jeigu vėlia
 
 tos pareigos priskirtos pareigūno statusui;
 
-3) tarnyba Lietuvos
+3) tarnyba Lietuvos Respublikos
 
-Respublikos vidaus reikalų, Krašto apsaugos ministerijų ir Lietuvos muitinės
+vidaus reikalų, Krašto apsaugos ministerijų ir Lietuvos muitinės sistemose,
 
-sistemose, jeigu ta tarnyba buvo organizuota statutiniais pagrindais;
+jeigu ta tarnyba buvo organizuota statutiniais pagrindais;
 
 4) mokymosi stacionarinėse
 
@@ -1102,9 +1130,9 @@ pareigas iki atleidimo iš jų dienos.
 
 departamento pareigūnų aprūpinimas butais
 
-Saugumo departamento pareigūnai
+Saugumo departamento
 
-aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
+pareigūnai aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 Lietuvos Respublikos
 
@@ -1152,13 +1180,11 @@ APRŪPINIMAS
 
 35 straipsnis. Saugumo departamento finansavimas ir paramaSaugumo departamentas finansuojamas iš Lietuvos valstybės biudžeto.
 
-Saugumo departamentas šiame įstatyme nustatytiems
+Saugumo departamentas šiame įstatyme nustatytiems uždaviniams
 
-uždaviniams ir funkcijoms įgyvendinti turi teisę įstatymų nustatyta tvarka
+ir funkcijoms įgyvendinti turi teisę įstatymų nustatyta tvarka gauti paramą iš
 
-gauti paramą iš užsienio valstybių institucijų bei įstaigų ir tarptautinių
-
-organizacijų.
+užsienio valstybių institucijų bei įstaigų ir tarptautinių organizacijų.
 
 Straipsnio
 
@@ -1348,13 +1374,27 @@ SAUGUMO DEPARTAMENTO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-422, 2005-11-22,
+
+Žin., 2005, Nr. 143-5184 (2005-12-08)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-05-06)
+Aušrinė Trapinskienė (2005-12-12)
 
 autrap@lrs.lt
 
