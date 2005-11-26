@@ -4,7 +4,7 @@ identifier: "TAR.FA13E28615F6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-11"
-last_updated: "2003-12-12"
+last_updated: "2005-11-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,163 +17,251 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2003-12-12 iki 2005-11-25
+Suvestinė redakcija nuo 2005-11-26 iki 2008-07-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
 
-LIETUVOS RESPUBLIKOS
+1 straipsnis. Įstatymo tikslas ir taikymas
 
-TEISĖS GAUTI INFORMACIJĄ IŠ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ
+1. Šis įstatymas užtikrina asmenims teisę gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų, nustato šios teisės įgyvendinimo tvarką ir reguliuoja valstybės bei savivaldybių institucijų ir įstaigų veiksmus teikiant informaciją asmenims.
 
-ĮSTATYMAS
+2. Šis įstatymas sudaro palankias sąlygas asmenims gauti valstybės ir savivaldybių institucijų ir įstaigų disponuojamą informaciją ir panaudoti ją komerciniams ar nekomerciniams tikslams.
 
-2000 m. sausio 11 d. Nr. VIII-1524
+3. Šis įstatymas, išskyrus jo 7 straipsnyje nustatytą privačios informacijos teikimą ir viešojo administravimo funkcijų vykdymą, netaikomas:
 
-Vilnius
+1) informacijai, kurios tvarkymas yra veikla, nesusijusi su valstybės ir savivaldybių institucijoms ar įstaigoms teisės aktais pavestų funkcijų vykdymu;
 
-I SKYRIUS
+2) informacijai, į kurią valstybės ir savivaldybių institucijos ir įstaigos turi pramoninės nuosavybės teises ar trečiosios šalys turi autorių, gretutines ar duomenų bazių gamintojų (sui generis) teises;
 
-BENDROSIOS NUOSTATOS
+3) informacijai, kuria disponuoja Lietuvos nacionalinis radijas ir televizija, kiti iš valstybės biudžeto išlaikomi transliuotojai;
 
-1 straipsnis. Įstatymo paskirtis
+4) informacijai, kuria disponuoja mokyklos, bibliotekos, mokslinių tyrimų įstaigos;
 
-Šis įstatymas nustato asmens teisę gauti informaciją iš valstybės ir savivaldybių įstaigų bei šios teisės įgyvendinimo tvarką. Šis įstatymas nereglamentuoja tokio informacijos gavimo, kurį reglamentuoja kiti įstatymai.
+5) informacijai, kuria disponuoja muziejai, teatrai ar koncertinės įstaigos, Lietuvos archyvų departamento prie Lietuvos Respublikos Vyriausybės įsteigtos įstaigos;
 
-2 straipsnis. Valstybės ir savivaldybių įstaigų pareiga teikti informaciją
+6) informacijai, kuri yra įstatymais pripažįstama kaip neteiktina dėl nacionalinio ar visuomenės saugumo, šalies gynybos interesų, statistinių duomenų panaudojimo apribojimo arba kuri sudaro valstybės, tarnybos, komercinę, profesinę, banko paslaptį, kitais įstatymų nustatytais atvejais;
 
-Valstybės ir savivaldybių įstaigos privalo teikti informaciją apie savo veiklą. Atsisakyti suteikti informaciją galima tik tuomet, kai tai būtina demokratinei visuomenei ir yra svarbiau už asmens teisę gauti informaciją.
+7) informacijai, kurios teikimą reglamentuoja kiti įstatymai;
 
-3 straipsnis. Pagrindinės šio įstatymo sąvokos
+8) kai asmuo turi teisės aktų nustatyta tvarka pagrįsti informacijos, kurios jis prašo, panaudojimo tikslą;
 
-1. Informacija - vieša ir privati informacija, kuria disponuoja valstybės ar savivaldybių įstaigos ir kurią šio įstatymo nustatyta tvarka asmuo turi teisę gauti.
+9) kai viešojo administravimo institucijos informacija tarpusavyje keičiasi tarnybinės pagalbos atvejais.
 
-2. Oficialus dokumentas - rašytinis, grafinis, garsinis regimasis, kompiuterinės informacijos ar kitoks dokumentas, kuris yra susijęs su įstaigos veikla, įtrauktas į tos įstaigos apskaitą ir yra arba šios įstaigos sukurtas, arba jos gautas.
+4. Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas Įstatymo priede.
 
-3. Pareiškėjas - Lietuvos Respublikos pilietis, asmuo be pilietybės ar užsienio valstybės pilietis.
+2 straipsnis. Pagrindinės Įstatymo sąvokos
 
-4. Pareiškėjo atstovas - asmuo, turintis teisę civilinių įstatymų nustatyta tvarka atstovauti pareiškėjui.
+1. Dokumentas – bet kokia valstybės, savivaldybių( )institucijos ar įstaigos sukurta ar gauta teiktina informacija ar jos dalis, išreikšta rašytine, įskaitant elektroninę, grafine, garsine ir (ar) vaizdine forma.
 
-5. Valstybės ar savivaldybės įstaiga (toliau – įstaiga) – valstybės ar savivaldybių įstaigos ir institucijos, apibrėžtos Valstybės tarnybos įstatyme.
+2. Informacija – žinios, kuriomis disponuoja valstybės ir savivaldybių institucija ar įstaiga.
 
-Straipsnio dalies pakeitimai:
+3. Informacijos rinkmena – susistemintas dokumentų, išdėstytų pagal tam tikrus kriterijus, leidžiančius lengviau surasti dokumentus, rinkinys.
 
-Nr. VIII-1700, 2000-05-23, Žin., 2000, Nr. 47-1344 (2000-06-09), i. k. 1001010ISTAIII-1700
+4. Informacijos teikimas – informacijos atskleidimas perduodant ar kitu būdu padarant ją prieinamą pareiškėjams, užtikrinant jiems teisę laisvai susipažinti su dokumentais ir (ar) panaudoti komerciniams arba nekomerciniams tikslams.
 
-6. Informacijos atstovas - valstybės ar savivaldybės įstaigos vadovas arba jo paskirtas įstaigos darbuotojas (darbuotojai) ar šios įstaigos padalinys, padedantys asmenims įgyvendinti teisę į informaciją pagal šio įstatymo nuostatas.
+5. Pakartotinis panaudojimas – asmenų naudojimasis informacija komerciniams arba nekomerciniams tikslams.
 
-7. Privati informacija (privataus pobūdžio informacija) - informacija apie asmeninį ir šeimos gyvenimą, asmens sveikatą, su asmens garbe ir orumu susijusi informacija.
+6. Pareiškėjas – Lietuvos Respublikos pilietis, valstybės, pasirašiusios Europos ekonominės erdvės susitarimą, pilietis, užsienietis, turintis leidimą gyventi Lietuvos Respublikoje, ar šių asmenų grupė, Lietuvos Respublikos juridinis asmuo, juridiniai asmenys ar kitos organizacijos, įregistruotos valstybėje, pasirašiusioje Europos ekonominės erdvės susitarimą, ar jų atstovybės ir filialai, įsteigti Lietuvos Respublikoje.
 
-8. Viešoji informacija - visa informacija, išskyrus privačią informaciją ir valstybės, tarnybos, profesinę, komercinę ar banko paslaptį sudarančią informaciją.
+7. Pareiškėjo atstovas – asmuo, turintis teisę įstatymų nustatyta tvarka atstovauti pareiškėjui.
 
-9. Prašymas - žodinis ar rašytinis pareiškėjo kreipimasis, išskyrus gautą elektroniniu paštu, pateiktas šio įstatymo nustatyta tvarka.
+8. Prašymas – pareiškėjo kreipimasis į valstybės ar savivaldybių instituciją ar įstaigą, pateiktas žodžiu ar raštu, įskaitant elektroninę formą, šio įstatymo nustatyta tvarka.
 
-4 straipsnis. Įstaigų pareiga informuoti apie savo veiklą
+9. Privati informacija – ypatingi fizinio asmens duomenys, kaip juos nustato Asmens duomenų teisinės apsaugos įstatymas, informacija apie asmenį ir jo šeimos gyvenimą, su fizinio asmens garbe ir orumu susijusi informacija.
 
-1. Kiekviena įstaiga privalo informuoti visuomenę apie savo veiklą.
+10. Valstybės ir savivaldybių institucijos ir įstaigos (toliau – įstaigos) – atstovaujamosios, valstybės vadovo, vykdomosios, teisminės valdžios institucijos, teisėsaugos institucijos ir įstaigos, auditą, kontrolę (priežiūrą) atliekančios institucijos ir įstaigos, kitos valstybės ir savivaldybių institucijos ir įstaigos, kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir kurioms įstatymai suteikia viešojo administravimo įgaliojimus, taip pat įmonės ir įstaigos, teikiančios asmenims viešąsias paslaugas.
 
-2. Įstaiga privalo parengti ir išleisti informacinį leidinį arba kitokiu būdu viešai pateikti informaciją apie savo funkcijas, struktūrą ir sprendžiamus klausimus. Įstaigoje turi būti joje esančių dokumentų rodyklė. Šioje dalyje nurodyta informacija turi būti visiems prieinama ir nemokama.
+3 straipsnis. Įstaigų pareiga teikti informaciją
 
-3. Informaciniame leidinyje arba kitokiu būdu viešai pateiktoje informacijoje turi būti nurodytas įstaigos informacijos atstovas, tikslus jo darbo adresas, fakso ir telefono numeris, darbo ir priėmimo valandos.
+1. Įstaigos privalo teikti pareiškėjams informaciją. Atsisakyti suteikti informaciją galima šio įstatymo nustatyta tvarka.
 
-5 straipsnis. Informacijos atstovo pareigos
+2. Įstaigos teikia informaciją pareiškėjams įstaigoje tvarkomais dokumentais, informacijos rinkmenomis arba jų dalimis, pirmenybę teikiant informacijos teikimui internetu ar kitokiomis elektroninėmis priemonėmis.
 
-Informacijos atstovas asmenims turi teikti visokeriopą pagalbą ir padėti įgyvendinti jų teises pagal šį įstatymą.
+4 straipsnis. Informacijos teikimo principai
 
-II SKYRIUS
+Įstaigos, teikdamos informaciją, vadovaujasi šiais principais:
 
-KREIPIMASIS DĖL INFORMACIJOS GAVIMO
+1) informacijos išsamumo, reiškiančio, kad pareiškėjui turi būti pateikta visa pagal teisės aktus teiktina jo prašymo turinį atitinkanti informacija;
 
-6 straipsnis. Prašymo pateikimo tvarka
+2) tikslumo, reiškiančio, kad pareiškėjui teikiama informacija turi atitikti įstaigos disponuojamą informaciją;
 
-1. Pareiškėjas, norėdamas gauti iš įstaigos informaciją ar oficialų dokumentą, pateikia įstaigai prašymą.
+3) teisėtumo, reiškiančio, kad įstaigos veiksmai teikiant informaciją grindžiami šiuo ir kitais įstatymais ar kitais teisės aktais;
 
-2. Oficialiems dokumentams gauti pateikiamas rašytinis prašymas. Prašymas gauti privačią informaciją pateikiamas šio įstatymo 7 straipsnio nustatyta tvarka. Pagal žodinį prašymą informacija teikiama, jeigu ji gali būti teikiama žodžiu ir jeigu asmuo nereikalauja pateikti jos raštu.
+4) objektyvumo, reiškiančio, kad įstaigos valstybės tarnautojai ar darbuotojai teikdami informaciją turi būti nešališki ir objektyvūs.
 
-3. Prašymas įstaigai pateikiamas tiesiogiai arba siunčiamas paštu ar per kurjerį. Prašymas gali būti pateikiamas ir per atstovą.
+5 straipsnis. Nediskriminavimas
 
-4. Prašyme turi būti nurodoma: pareiškėjo vardas, pavardė, adresas, kokią informaciją nori gauti. Jeigu pareiškėjas konkrečiai žino, kokiame dokumente yra jį dominanti informacija, nurodo to dokumento pavadinimą. Jei dėl informacijos ar oficialaus dokumento gavimo kreipiasi pareiškėjo atstovas, nurodoma atstovo vardas, pavardė, adresas bei pareiškėjas, kurio vardu jis kreipiasi.
+1. Įstatymais ir (ar) kitais teisės aktais gali būti nustatytos skirtingos informacijos teikimo ir panaudojimo sąlygos komerciniams ar nekomerciniams tikslams, tačiau jos neturi diskriminuoti pareiškėjų, naudojančių informaciją tam pačiam tikslui.
 
-5. Jeigu prašyme yra ne visi šio straipsnio 4 dalyje nurodyti duomenys, informacijos atstovas apie prašymo trūkumus praneša pareiškėjui ir siūlo pateikti prašymą su reikalingais duomenimis. Informacijos pateikimo terminai skaičiuojami nuo tinkamai surašyto prašymo gavimo dienos.
+2. Jei įstaiga savo tvarkomą informaciją naudoja veiklai, kuri nėra susijusi su teisės aktais pavestų funkcijų vykdymu, tai ji šią informacija teikia sau tokiomis pat sąlygomis kaip ir visiems pareiškėjams.
+
+ANTRASIS SKIRSNIS
+
+ĮSTAIGŲ PAREIGA INFORMUOTI APIE SAVO VEIKLĄ IR TEIKTI PRIVAČIĄ INFORMACIJĄ
+
+6 straipsnis. Informacijos apie įstaigos veiklą teikimas
+
+1. Įstaiga privalo turėti Vyriausybės patvirtintus reikalavimus atitinkančią interneto svetainę, kurioje teiktų informaciją apie savo funkcijas, struktūrą, informacijos teikimui skirtos informacijos rodyklę, kitą teisės aktais nustatytą informaciją.
+
+2. Visa informacija apie įstaigos veiklą vykdant teisės aktais pavestas funkcijas turi būti visiems prieinama ir teikiama neatlygintinai.
 
 7 straipsnis. Privačios informacijos gavimo tvarka
 
 1. Pareiškėjas turi teisę gauti privačią informaciją apie save, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus, kai tokia informacija neteikiama.
 
-2. Prašymas privačiai informacijai apie save gauti pateikiamas raštu, nurodžius šio įstatymo 6 straipsnio 4 dalyje nustatytus duomenis. Kreipdamasis dėl privačios informacijos bei pasiimdamas parengtą informaciją, pareiškėjas turi pateikti jo tapatybę liudijantį dokumentą. Jeigu dėl tokios informacijos kreipiasi pareiškėjo atstovas, jis pateikia tapatybę ir atstovavimą liudijantį dokumentą.
+2. Privati informacija apie save pareiškėjui pateikiama šio įstatymo nustatyta tvarka pateikus prašymą ir įstatymais nustatyta tvarka patvirtinus asmens tapatybę.
 
-8 straipsnis. Prašymų registravimas
+TREČIASIS SKIRSNIS
 
-Įstaiga privalo registruoti prašymus gauti informaciją bei oficialius dokumentus įstatymų nustatyta tvarka.
+INFORMACIJOS TEIKIMO PAKARTOTINIAM PANAUDOJIMUI SĄLYGOS
 
-9 straipsnis. Įstaigų pareiga reglamentuoti informacijos rengimą bei dokumentų laikymą ir naudojimą
+8 straipsnis. Atlyginimas už informacijos teikimą
 
-Kiekviena įstaiga turi turėti įstaigos vadovo patvirtintą informacijos rengimo ir įstaigoje esančių dokumentų laikymo bei naudojimo reglamentą.
+1. Įstaigos teikia informaciją neatlygintinai, išskyrus atvejus, kai už informacijos teikimą imama arba valstybės rinkliava, arba įstatymų numatytas atlyginimas.
 
-III SKYRIUS
+2. Atlyginimas už informacijos teikimą neturi viršyti informacijos parengimo ir teikimo išlaidų kartu su pagrįsta investicijų grąža.
 
-INFORMACIJOS RENGIMAS IR TEIKIMAS
+3. Įstaiga savo interneto svetainėje skelbia vadovaujantis įstatymais ir kitais teisės aktais nustatytas informacijos teikimo ir panaudojimo sąlygas, nurodo valstybės rinkliavų dydį arba atlyginimo už informacijos teikimą dydį, kai informacija teikiama atlygintinai.
 
-10 straipsnis. Informacijos parengimo ir pateikimo terminas
+4. Pareiškėjo pageidavimu įstaigos nurodo valstybės rinkliavos arba atlyginimo už informacijos teikimą apskaičiavimo pagrindimą.
 
-1. Informacija arba oficialus dokumentas pareiškėjui ar jo atstovui turi būti pateikti ne vėliau kaip per 14 kalendorinių dienų nuo prašymo gavimo dienos, išskyrus šio įstatymo 12 straipsnyje nurodytus atvejus. Jeigu informacijai parengti reikia daugiau laiko, įstaigos vadovas turi teisę pratęsti šį terminą dar iki 14 kalendorinių dienų, tačiau visas terminas negali būti ilgesnis kaip 1 mėnuo nuo prašymo gavimo dienos. Jei buvo kreiptasi šio įstatymo 12 straipsnio 2 dalyje nustatyta tvarka, pareiškėjui turi būti atsakyta per 14 dienų nuo atsakymo iš kitos įstaigos gavimo dienos.
+9 straipsnis. Draudimas suteikti išimtines teises
 
-2. Šio įstatymo 4 straipsnyje nurodyta informacija pateikiama ne vėliau kaip per 3 darbo dienas nuo prašymo gavimo dienos.
+1. Įstaigoms draudžiama su trečiosiomis šalimis sudaryti susitarimus dėl išimtinių teisių suteikimo teikti informaciją.
 
-11 straipsnis. Teikiamos informacijos reikalavimai
+2. Susitarimas dėl informacijos teikimo su pareiškėju nesuteikia jam išimtinių teisių net ir tuo atveju, kai pareiškėjas gautos informacijos pagrindu sukurtu produktu teikia informaciją trečiosioms šalims.
 
-1. Įstaigos teikiama informacija turi būti teisinga ir išsami.
+3. Išimtinė teisė gali būti suteikta, kai yra būtina dėl viešųjų paslaugų teikimo. Išimtinės teisės suteikimas turi būti periodiškai peržiūrimas ne rečiau kaip kas treji metai. Susitarimai dėl išimtinių teisių suteikimo turi būti skaidrūs ir viešai skelbiami.
 
-2. Jeigu pareiškėjas prašo pateikti oficialų dokumentą, jam turi būti sudaroma galimybė susipažinti su to dokumento originalu. Jeigu tam galimybės nėra, parengiama dokumento kopija arba išrašas. Už dokumentų kopijų parengimą pareiškėjas atlygina išlaidas Vyriausybės nustatyta tvarka.
+10 straipsnis. Informacijos rinkmenų teikimo ir panaudojimo sąlygos
 
-3. Jeigu reikalaujamos informacijos ar oficialaus dokumento pateikimas pažeis kitų asmenų teises ir teisėtus interesus arba jis yra ribojamas šio įstatymo nustatyta tvarka, turi būti pateikiama tik ta informacijos dalis, kuri nepažeidžia kitų asmenų teisių ir teisėtų interesų arba nėra ribojama šio įstatymo nustatyta tvarka. Jeigu ir informacijos dalies pateikti negalima, informacijos atstovas kreipiasi į asmenis, kurių teises bei teisėtus interesus pažeistų informacijos pateikimas, nurodydamas prašymo turinį ir prašydamas rašytinio leidimo tokiai informacijai pateikti. Negavęs šio leidimo per 14 kalendorinių dienų, informacijos atstovas praneša pareiškėjui, kad negali suteikti prašomos informacijos, ir nurodo nesuteikimo priežastis. Šiuo atveju atsakyme pareiškėjui negali būti nurodyti asmenys, į kuriuos kreiptasi dėl leidimo informacijai pateikti.
+1. Kai įstatymai ar kiti teisės aktai nustato elektroninėmis priemonėmis tvarkomos informacijos rinkmenose sukauptos informacijos panaudojimo sąlygas, įstaigos dėl tokios informacijos panaudojimo rengia ir pareiškėjams išduoda leidimus. Leidimuose nurodomos informacijos panaudojimo sąlygos. Leidime nurodytos sąlygos informacijos panaudojimo negali riboti daugiau, negu tai nustato įstatymai.
 
-12 straipsnis. Prašymų persiuntimas
+2. Įstaigoms rekomenduojama parengti pavyzdines leidimų formas. Pavyzdinės formos leidimai paprastai tvarkomi ir skelbiami elektroninėmis priemonėmis.
 
-1. Jeigu pareiškėjo reikalaujama informacija ar oficialus dokumentas yra kitoje įstaigoje, informacijos atstovas apie tai praneša pareiškėjui ir, jei prašymas yra rašytinis, persiunčia jį kitai kompetentingai įstaigai per 3 darbo dienas. Jei prašymas yra žodinis, pareiškėjui apie kitą įstaigą pranešama iš karto.
+3. Informacijos rinkmenos, kurioms naudoti išduodami leidimai, teikiamos tik pareiškėjui patvirtinus, kad sutinka su leidimo sąlygomis. Įstaigos sudaro galimybes pareiškėjams sutikimą su leidimo sąlygomis patvirtinti elektroninėmis priemonėmis.
 
-2. Jeigu dalis reikalaujamos informacijos yra kitoje įstaigoje, informacijos atstovas kreipiasi į ją prašydamas šios informacijos.
+TAR pastaba. Šio įstatymo 11 straipsnis įsigalioja nuo 2006 m. liepos 1 d. Šio įstatymo įsigaliojimo momentu (2005-11-26) galiojantys šio įstatymo 9 straipsnio 1 dalyje nurodyti susitarimai, kuriems negali būti taikoma išimtis pagal šio įstatymo 9 straipsnio 3 dalį, negali būti pratęsti arba visais atvejais turi būti nutraukiami ne vėliau kaip iki 2008 m. gruodžio 31 d.
 
-13 straipsnis. Neteikiama informacija
+Lietuvos Respublikos Seimas, Įstatymas
 
-1. Informacija, jeigu ji pagal įstatymus yra valstybės, tarnybos, komercinė ar banko paslaptis, nesuteikiama. Privati informacija be asmens sutikimo nesuteikiama, išskyrus šio įstatymo 7 straipsnio, Asmens duomenų teisinės apsaugos įstatymo, Visuomenės informavimo įstatymo ir Archyvų įstatymo nustatytus atvejus. Tai pranešama pareiškėjui ir nurodoma nesuteikimo priežastis. Taip pat neteikiama ta informacija, kurią teikti draudžia kiti įstatymai, nes jos suteikimas pakenktų valstybės saugumo ir gynybos interesams, užsienio politikos interesams, baudžiamajam persekiojimui bei pažeistų valstybės teritorijos vientisumą ar viešąją tvarką, kitų asmenų teises bei teisėtus interesus arba jos nesuteikimas užkirstų kelią sunkiems teisės pažeidimams ar būtų labai svarbus apsaugant žmonių sveikatą bei moralę.
+Nr. X-383, 2005-11-10, Žin., 2005, Nr. 139-5008 (2005-11-26), i. k. 1051010ISTA000X-383
 
-Straipsnio dalies pakeitimai:
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo pakeitimo įstatymas
 
-Nr. IX-1844, 2003-11-25, Žin., 2003, Nr. 116-5250 (2003-12-12), i. k. 1031010ISTA0IX-1844
+Nauja redakcija nuo 2005-11-26:
 
-2. Visais informacijos nesuteikimo atvejais turi būti įsitikinta, kad tai yra būtina demokratinėje visuomenėje ir, siekiant apsaugoti 1 dalyje išvardytus interesus, yra svarbiau už pareiškėjo teisę gauti informaciją.
+Nr. X-383, 2005-11-10, Žin. 2005, Nr. 139-5008 (2005-11-26), i. k. 1051010ISTA000X-383
 
-3. Jei suteikti informaciją atsisakoma, pareiškėjui raštu nurodoma informacijos nesuteikimo priežastis ir galimybė šį atsisakymą skųsti.
+LIETUVOS RESPUBLIKOS TEISĖS GAUTI INFORMACIJĄ IŠ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ  ĮSTATYMAS
 
-IV SKYRIUS
+2000 m. sausio 11 d. Nr. VIII-1524
+
+Vilnius
+
+PIRMASIS SKIRSNIS
+
+BENDROSIOS NUOSTATOS
+
+12 straipsnis. Prašymo pateikimas
+
+1. Pareiškėjas, norėdamas gauti iš įstaigos informaciją, pateikia prašymą. Prašyme nurodo, kokią informaciją ar dokumentą pageidauja gauti, savo vardą, pavardę, gyvenamąją vietą (jeigu pareiškėjas yra fizinis asmuo) arba pavadinimą, kodą, buveinės adresą (jeigu pareiškėjas yra juridinis asmuo) ir duomenis ryšiui palaikyti. Jeigu dėl informacijos kreipiasi pareiškėjo atstovas, nurodoma atstovo vardas, pavardė, adresas, atstovavimą liudijantis dokumentas bei pareiškėjas, kurio vardu jis kreipiasi. Prašymo pateikimo formą įstaiga skelbia savo interneto svetainėje.
+
+2. Prašymai gali būti teikiami tiesiogiai, pareiškėjui atvykus į įstaigą, siunčiami paštu ar per pasiuntinį arba elektroninėmis priemonėmis, jei yra galimybė identifikuoti pareiškėją. Prašymai, išskyrus žodinius, registruojami, tvarkomi ir įtraukiami į apskaitą įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+3. Žodiniai prašymai telefonu arba pareiškėjui atvykus į įstaigą gali būti pateikiami tais atvejais, kai pareiškėjas pageidauja gauti informaciją žodžiu arba susipažinti su dokumentu, neprašydamas to dokumento kopijos, kai informaciją galima pateikti tuoj pat, nepažeidžiant šio įstatymo ir kitų teisės aktų nustatytos tvarkos.
+
+4. Pareiškėjas, prašydamas išduoti privačią informaciją apie save, prašyme turi nurodyti savo asmens kodą. Kai toks prašymas siunčiamas paštu ar per pasiuntinį, prie jo turi būti pridėta notaro patvirtinta pareiškėjo asmens tapatybę patvirtinančio dokumento kopija. Jeigu dėl tokios informacijos kreipiasi pareiškėjo atstovas, jis pateikia tapatybę ir atstovavimą liudijantį dokumentą.
+
+5. Įstaiga, nustačiusi, kad prašyme nepakanka informacijos arba pateikta informacija yra netiksli, per 5 darbo dienas nuo prašymo gavimo įstaigoje dienos kreipiasi į pareiškėją, kad šis patikslintų prašymą.
+
+6. Visi raštu, įskaitant elektroninę formą, įstaigai pateikti prašymai turi būti pasirašyti pareiškėjo arba jo atstovo.
+
+13 straipsnis. Prašymų persiuntimas
+
+1. Jeigu prašoma informacija yra kitoje įstaigoje, prašymas persiunčiamas kitai kompetentingai įstaigai ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo įstaigoje dienos, ir apie tai per 3 darbo dienas nuo prašymo persiuntimo informuojamas pareiškėjas. Persiųstą prašymą gavusi įstaiga informaciją pareiškėjui pateikia šio įstatymo 14 straipsnyje nustatytais terminais. Jei pareiškėjas kreipėsi žodžiu, įstaiga iš karto turi informuoti pareiškėją ir nurodyti, į kokią įstaigą pareiškėjas turėtų kreiptis dėl pageidaujamos informacijos ir tos įstaigos duomenis ryšiui palaikyti.
+
+2. Jeigu dalis prašomos informacijos yra toje įstaigoje, į kurią kreipėsi pareiškėjas, ir ją galima pateikti atskirai nuo visos prašomos informacijos, įstaiga informaciją pateikia šio įstatymo nustatyta tvarka; dėl kitos informacijos dalies šio straipsnio 1 dalyje nustatyta tvarka persiunčia pareiškėjo prašymą įstaigai, kuri ją turi.
+
+14 straipsnis.  Informacijos pateikimo terminai
+
+Informacija pareiškėjui turi būti pateikiama ne vėliau kaip per 20 darbo dienų nuo prašymo gavimo įstaigoje dienos. Jeigu prašoma daug ar sudėtingos informacijos, įstaigos vadovas turi teisę pratęsti šį terminą dar iki 20 darbo dienų ir apie tai ne vėliau kaip kitą darbo dieną raštu pranešti pareiškėjui, taip pat nurodyti pratęsimo priežastis. Jeigu pareiškėjo buvo paprašyta patikslinti ar papildyti prašymą, tai informacijos pateikimo terminas skaičiuojamas nuo patikslinto ar papildyto prašymo gavimo įstaigoje dienos.
+
+15 straipsnis. Informacijos pateikimo reikalavimai
+
+1. Jei pareiškėjas prašo informacijos, kurios tam tikra dalis priklauso informacijai, nustatytai šio įstatymo 1 straipsnio 3 dalies 1–8 punktuose, teikiama tik ta informacijos dalis, kuri nėra nustatyta šio įstatymo 1 straipsnio 3 dalies 1–8 punktuose.
+
+2. Jeigu įstaiga tam tikros informacijos rinkimą ir tvarkymą nutraukia dėl to, kad pasikeitė įstaigos funkcijos, ji neprivalo ir toliau teikti tokios informacijos pareiškėjui.
+
+3. Įstaigos privalo teikti informaciją, turėtą ar gautą iki tam tikro informacijos rinkimo ir tvarkymo nutraukimo, įstatymų ir kitų teisės aktų nustatytą dokumentų saugojimo laiką, jeigu ji neperduota kitoms įstaigoms, o jeigu informacija perduota kitoms įstaigoms, įstaiga turi persiųsti prašymą šio įstatymo 13 straipsnyje nustatyta tvarka.
+
+16 straipsnis. Atsisakymas teikti informaciją
+
+1. Prašymas, pateiktas nesilaikant šio įstatymo nustatytų reikalavimų, įstaigos vadovo ar jo įgalioto asmens rašytiniu pavedimu ar rezoliucija gali būti netenkinamas.
+
+2. Įstaiga gali atsisakyti teikti informaciją, jeigu:
+
+1) pagal pareiškėjo prašymą reikėtų sukurti dokumentus ar informacijos rinkmenas ir tai būtų susiję su neproporcingai didelėmis darbo ir laiko sąnaudomis;
+
+2) prašymo turinys yra nekonkretus;
+
+3) tas pats pareiškėjas pakartotinai prašo tos pačios informacijos;
+
+4) prašoma informacija jau buvo viešai paskelbta; tokiu atveju įstaiga per 5 darbo dienas nuo prašymo gavimo įstaigoje dienos nurodo pareiškėjui jos paskelbimo šaltinį;
+
+5) įstaiga tam tikros informacijos rinkimą ir tvarkymą nutraukia pasikeitus įstaigos funkcijoms.
+
+3. Jeigu įstaiga atsisako pateikti informaciją, pareiškėjui išsiunčiamas apie tai pranešimas, kuriame nurodoma atsisakymo priežastis ir šio sprendimo apskundimo tvarka. Jeigu įstaiga atsisako pateikti informaciją dėl to, kad į prašomą informaciją trečiosios šalys turi autorių, gretutines ar duomenų bazių gamintojų (sui generis) teises, nurodomas asmuo, kuriam priklauso autorių, gretutinės ar duomenų bazės gamintojo (sui generis) teisės, jeigu tas asmuo žinomas.
+
+17 straipsnis. Informacijos pateikimo forma ir būdas
+
+1. Informacija pareiškėjui, atsižvelgiant į jo prašymą, gali būti pateikiama žodžiu, leidžiant susipažinti su dokumentu, pateikiant pažymą, dokumento išrašą ar popierinę dokumento kopiją, elektroninę laikmeną, garso, vaizdo ar garso ir vaizdo įrašą, prieigą prie informacijos rinkmenos. Jei prašyme nenurodyta informacijos pateikimo forma, įstaiga ją pateikia tokia pačia forma kaip gauto prašymo.
+
+2. Įstaigos elektroninėmis priemonėmis teikiami pareiškėjui dokumentai prilyginami rašytinės formos dokumentams, jeigu yra užtikrinta teksto apsauga ir galima nustatyti parašo tapatumą.
+
+3. Jeigu privati informacija pareiškėjui siunčiama paštu, ji siunčiama tik registruota pašto siunta.
+
+4. Informacija teikiama lietuvių kalba. Išimtiniais atvejais, jeigu pareiškėjas sutinka, informacija gali būti teikiama nevalstybine kalba.
+
+18 straipsnis. Informacijos parengimas
+
+1. Dokumentų, informacijos rinkmenų ar jų dalių teikimas internetu ar kitokiomis elektroninėmis priemonėmis turi būti patogus pareiškėjams informaciją priimti bei naudoti ir neturi reikalauti iš pareiškėjo įsigyti specialią (licencijuojamą) programinę įrangą.
+
+2. Įstaigos, vadovaudamosi Lietuvos Respublikos ir Europos Sąjungos teisės aktais, informacijos teikimo informacinę aplinką pritaiko neįgaliųjų specialiesiems poreikiams.
+
+3. Įstaigos teikia informaciją tokia forma ir būdais, kokie naudojami įstaigoje.
+
+4. Įstaigos neprivalo kurti dokumentų ar informacijos rinkmenų pagal pareiškėjų prašymus, jeigu tai susiję su neproporcingai didelėmis darbo ir laiko sąnaudomis.
+
+PENKTASIS SKIRSNIS
 
 APSKUNDIMO TVARKA
 
-14 straipsnis. Pareiškėjo teisė skųstis Administracinių ginčų komisijai
+19 straipsnis. Pareiškėjo teisė apskųsti įstaigos veiksmus
 
-Pareiškėjas per 1 mėnesį nuo atsakymo gavimo, jei, jo nuomone, pateikta informacija yra neteisinga ar neišsami, taip pat jeigu jis atsakymo negavo per 1 mėnesį nuo tos dienos, kurią informacija turėjo būti pateikta pagal šio įstatymo 10 straipsnį, turi teisę skųsti Administracinių bylų teisenos įstatymo nustatyta tvarka informacijos nepateikimą, neišsamios informacijos pateikimą arba atsisakymą pateikti informaciją ar oficialų dokumentą Administracinių ginčų komisijai.
-
-15 straipsnis. Pareiškėjo teisė skųsti Administracinių ginčų komisijos sprendimą
-
-Pareiškėjas turi teisę skųsti Administracinių ginčų komisijos sprendimą Administracinių bylų teisenos įstatymo nustatyta tvarka Administraciniam teismui.
-
-V SKYRIUS
-
-BAIGIAMOSIOS NUOSTATOS
-
-16 straipsnis. Atsakomybė už įstatymo pažeidimą
-
-Už šio įstatymo pažeidimą taikoma įstatymų nustatyta atsakomybė.
-
-17 straipsnis. Įstatymo įsigaliojimas
-
-Šis įstatymas įsigalioja nuo 2000 m. birželio 1 d.
+Pareiškėjas turi teisę apskųsti įstaigos veiksmus įstatymų nustatyta tvarka.
 
 Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi, skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 LIETUVOS RESPUBLIKOS
 
 SEIMO PIRMININKAS                                                                     VYTAUTAS LANDSBERGIS
+
+Lietuvos Respublikos
+
+teisės gauti informaciją
+
+iš valstybės ir savivaldybių
+
+įstaigų įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+2003 m. lapkričio 17 d. Europos Parlamento ir Tarybos direktyva 2003/98/EB dėl viešojo sektoriaus informacijos pakartotinio naudojimo.
+
+______________
 
 Pakeitimai:
 
@@ -192,4 +280,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1844, 2003-11-25, Žin., 2003, Nr. 116-5250 (2003-12-12), i. k. 1031010ISTA0IX-1844
 
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 13 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-383, 2005-11-10, Žin., 2005, Nr. 139-5008 (2005-11-26), i. k. 1051010ISTA000X-383
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo pakeitimo įstatymas
 
