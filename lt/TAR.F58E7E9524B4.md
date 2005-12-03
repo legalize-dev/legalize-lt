@@ -4,7 +4,7 @@ identifier: "TAR.F58E7E9524B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-10-26"
-last_updated: "2004-11-11"
+last_updated: "2005-12-03"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F58E7E9524B4"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2004-10-26"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos darbo tarybų įstatymas
+
+Suvestinė redakcija nuo 2005-12-03 iki 2008-06-02
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 164-5972, i. k. 1041010ISTA0IX-2500
 
 LIETUVOS RESPUBLIKOS DARBO TARYBŲ ĮSTATYMAS
 
@@ -319,7 +323,17 @@ DARBO TARYBOS TEISĖS IR PAREIGOS. DARBO TARYBOS SANTYKIAI SU DARBDAVIU
 
 9) esant būtinybei aptarti svarbius ekonomikos, socialinius ir darbo klausimus, sušaukti visuotinį darbuotojų kolektyvo susirinkimą (konferenciją), suderinus su darbdaviu susirinkimo (konferencijos) vietą ir laiką;
 
-10) atlikti kitus veiksmus, neprieštaraujančius įstatymams, kitiems norminiams teisės aktams, bei veiksmus, numatytus kolektyvinėse sutartyse ar darbo tarybos ir darbdavio susitarimuose.
+10) priimti sprendimą skelbti streiką ir jam vadovauti, jeigu įmonėje nėra veikiančios profesinės sąjungos ir jeigu darbuotojų kolektyvo susirinkimas neperdavė darbuotojų atstovavimo ir gynimo funkcijos atitinkamos ekonominės veiklos šakos profesinei sąjungai;
+
+Papildyta straipsnio punktu:
+
+Nr. X-411, 2005-11-17, Žin., 2005, Nr. 142-5111 (2005-12-03), i. k. 1051010ISTA000X-411
+
+11) atlikti kitus veiksmus, neprieštaraujančius įstatymams, kitiems norminiams teisės aktams, bei veiksmus, numatytus kolektyvinėse sutartyse ar darbo tarybos ir darbdavio susitarimuose.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. X-411, 2005-11-17, Žin., 2005, Nr. 142-5111 (2005-12-03), i. k. 1051010ISTA000X-411
 
 2. Darbo taryba negali atlikti funkcijų, kurios pagal įstatymus yra pripažintos profesinių sąjungų prerogatyva.
 
@@ -355,7 +369,11 @@ Darbo taryba privalo:
 
 23 straipsnis. Teisė į informaciją
 
-1. Darbdavys privalo laiku teikti informaciją darbo tarybai ir atsakyti už šios informacijos teisingumą.
+1. Darbdavys privalo laiku nemokamai raštu teikti informaciją darbo tarybai ir atsakyti už šios informacijos teisingumą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-411, 2005-11-17, Žin., 2005, Nr. 142-5111 (2005-12-03), i. k. 1051010ISTA000X-411
 
 2. Darbo tarybos nariai, pateikę darbdaviui rašytinį įsipareigojimą neatskleisti komercinės (gamybinės) ar profesinės paslapties, turi teisę susipažinti su informacija, kuri yra laikoma komercine (gamybine) ar profesine paslaptimi, bet yra būtina jų pareigoms atlikti.
 
@@ -442,4 +460,14 @@ Ginčai, kylantys dėl šio įstatymo vykdymo, sprendžiami įstatymų nustatyta
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-411, 2005-11-17, Žin., 2005, Nr. 142-5111 (2005-12-03), i. k. 1051010ISTA000X-411
+
+Lietuvos Respublikos darbo tarybų įstatymo 19 ir 23 straipsnių papildymo ir pakeitimo įstatymas
 
