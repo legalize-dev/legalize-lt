@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2005-04-30"
+last_updated: "2005-12-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2005-04-30 iki 2005-12-02
+Suvestinė redakcija nuo 2005-12-03 iki 2007-05-28
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -66,43 +66,73 @@ Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA00
 
 9. Karinis orlaivis – orlaivis, įregistruotas karinių orlaivių registre.
 
-10. Koordinuojamas oro uostas – oro uostas, kuriame oro vežėjas ar bet kuris kitas orlaivio naudotojas nutūpimui ar pakilimui turi koordinatoriaus jam paskirtą laiko tarpsnį. Tai netaikoma valstybiniams skrydžiams, nutūpimams avariniais atvejais ir humanitariniams skrydžiams.
+10. Kontroliuojamoji teritorija – oro uosto judėjimo laukas, gretima teritorija ir pastatai ar jų dalys, į kuriuos patekimas yra kontroliuojamas.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+11. Koordinuojamas oro uostas – oro uostas, kuriame oro vežėjas ar bet kuris kitas orlaivio naudotojas nutūpimui ar pakilimui turi koordinatoriaus jam paskirtą laiko tarpsnį. Tai netaikoma valstybiniams skrydžiams, nutūpimams avariniais atvejais ir humanitariniams skrydžiams.
 
 Papildyta straipsnio dalimi:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-11. Kovinio valdymo tarnyba – karinis padalinys, įkurtas siekiant teikti nurodymus karinei aviacijai jo jurisdikcijai priklausančiuose konkrečiuose rajonuose.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+12. Kovinio valdymo tarnyba – karinis padalinys, įkurtas siekiant teikti nurodymus karinei aviacijai jo jurisdikcijai priklausančiuose konkrečiuose rajonuose.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-12. Laikinai išskirta zona – nustatyto dydžio erdvė, kurios veiklai reikia rezervuoti erdvę konkretiems naudotojams išimtinai naudoti apibrėžtu laikotarpiu.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+13. Laikinai išskirta zona – nustatyto dydžio erdvė, kurios veiklai reikia rezervuoti erdvę konkretiems naudotojams išimtinai naudoti apibrėžtu laikotarpiu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-13. Licencija oro susisiekimui vykdyti – leidimas, suteikiantis teisę už užmokestį arba užsakymo pagrindu vežti keleivius, krovinius ir (arba) paštą.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+14. Licencija oro susisiekimui vykdyti – leidimas, suteikiantis teisę už užmokestį arba užsakymo pagrindu vežti keleivius, krovinius ir (arba) paštą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-14. Meteorologinė informacija – meteorologinis pranešimas, analizė, prognozė ir visi kiti pranešimai apie esamas ir numatomas meteorologines sąlygas.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+15. Meteorologinė informacija – meteorologinis pranešimas, analizė, prognozė ir visi kiti pranešimai apie esamas ir numatomas meteorologines sąlygas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-15. Orlaivio įgula – orlaivio skrydžio įgula, orlaivio palydovai ir operatoriai.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+16. Orlaivio įgula – orlaivio skrydžio įgula, orlaivio palydovai ir operatoriai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-16. Orlaivio naudotojas – fizinis ar juridinis asmuo, kuris pagal sutartį ar kitu teisėtu pagrindu savo vardu naudoja orlaivį.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+17. Orlaivio naudotojas – fizinis ar juridinis asmuo, kuris pagal sutartį ar kitu teisėtu pagrindu savo vardu naudoja orlaivį.
 
 Straipsnio dalies pakeitimai:
 
@@ -110,119 +140,205 @@ Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010IS
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-17. Orlaivio vadas – orlaivio savininko arba naudotojo paskirtas pilotas, atsakingas už orlaivio eksploatavimą ir saugą viso skrydžio laiku.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+18. Orlaivio vadas – orlaivio savininko arba naudotojo paskirtas pilotas, atsakingas už orlaivio eksploatavimą ir saugą viso skrydžio laiku.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-18. Orlaivis – kiekvienas aparatas (mašina), kuris atmosferoje laikosi dėl sąveikos su oru, bet ne dėl oro atoveikio nuo žemės paviršiaus.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+19. Orlaivis – kiekvienas aparatas (mašina), kuris atmosferoje laikosi dėl sąveikos su oru, bet ne dėl oro atoveikio nuo žemės paviršiaus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-19. Oro eismo paslaugos – tam tikros skrydžių informacijos paslaugos, aliarmo skelbimas, konsultacinės oro eismo ir skrydžių valdymo paslaugos.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+20. Oro eismo paslaugos – tam tikros skrydžių informacijos paslaugos, aliarmo skelbimas, konsultacinės oro eismo ir skrydžių valdymo paslaugos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-20. Oro eismo paslaugų maršrutas – nustatytas maršrutas, kurio paskirtis yra reikiamai nukreipti eismo srautą oro eismo paslaugoms teikti
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+21. Oro eismo paslaugų maršrutas – nustatytas maršrutas, kurio paskirtis yra reikiamai nukreipti eismo srautą oro eismo paslaugoms teikti
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-21. Oro eismo paslaugų oro erdvė – raidėmis pažymėta nustatyto dydžio oro erdvė, kurioje galimi konkretaus tipo skrydžiai ir kuriems yra nustatytos oro eismo paslaugos bei skrydžių taisyklės.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+22. Oro eismo paslaugų oro erdvė – raidėmis pažymėta nustatyto dydžio oro erdvė, kurioje galimi konkretaus tipo skrydžiai ir kuriems yra nustatytos oro eismo paslaugos bei skrydžių taisyklės.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-22. Oro eismo vadyba – bendrasis terminas, apimantis oro eismo paslaugas, oro eismo srautų vadybą ir oro erdvės tvarkybą.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+23. Oro eismo vadyba – bendrasis terminas, apimantis oro eismo paslaugas, oro eismo srautų vadybą ir oro erdvės tvarkybą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-23. Oro susisiekimas – keleivių, krovinių, bagažo ir (arba) pašto vežimas už užmokestį arba užsakymo pagrindu.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+24. Oro susisiekimas – keleivių, krovinių, bagažo ir (arba) pašto vežimas už užmokestį arba užsakymo pagrindu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-24. Oro uostas, kurio darbas palengvinamas sudarant tvarkaraščius – oro uostas, kuris tam tikru dienos, savaitės ar metų laiku gali būti perpildytas, veikiantis savanoriškai bendradarbiaujant oro vežėjams ir dėl to jame, oro vežėjų darbui palengvinti, yra paskirtas tvarkaraščių sudarytojas.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+25. Oro uostas, kurio darbas palengvinamas sudarant tvarkaraščius – oro uostas, kuris tam tikru dienos, savaitės ar metų laiku gali būti perpildytas, veikiantis savanoriškai bendradarbiaujant oro vežėjams ir dėl to jame, oro vežėjų darbui palengvinti, yra paskirtas tvarkaraščių sudarytojas.
 
 Papildyta straipsnio dalimi:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-25. Oro uosto infrastruktūra – transporto infrastruktūros dalis, kurią sudaro žemės sklypas, aerodromas, specifinės paskirties statiniai ir įrenginiai.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+26. Oro uosto infrastruktūra – transporto infrastruktūros dalis, kurią sudaro žemės sklypas, aerodromas, specifinės paskirties statiniai ir įrenginiai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-26. Pripažinimo pažymėjimas – specialisto licencijos priedas, patvirtinantis užsienyje išduotos specialisto licencijos eksploatuoti ir techniškai prižiūrėti orlaivį, registruotą Lietuvos Respublikos civilinių orlaivių registre, galiojimą.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+27. Pripažinimo pažymėjimas – specialisto licencijos priedas, patvirtinantis užsienyje išduotos specialisto licencijos eksploatuoti ir techniškai prižiūrėti orlaivį, registruotą Lietuvos Respublikos civilinių orlaivių registre, galiojimą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-27. Skrydžio įgula – asmenys, kuriems nustatyta tvarka suteikta teisė eksploatuoti orlaivį.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+28. Skrydžio įgula – asmenys, kuriems nustatyta tvarka suteikta teisė eksploatuoti orlaivį.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-28. Skrydžio įgulos narys – specialisto licenciją turintis įgulos narys, atsakantis už orlaivio eksploatavimą skrydžio laiku.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+29. Skrydžio įgulos narys – specialisto licenciją turintis įgulos narys, atsakantis už orlaivio eksploatavimą skrydžio laiku.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-29. Skrydžio laikas – bendras laikas nuo to momento, kai orlaivis pajuda, ketindamas kilti, iki galutinio sustojimo pasibaigus skrydžiui.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+30. Skrydžio laikas – bendras laikas nuo to momento, kai orlaivis pajuda, ketindamas kilti, iki galutinio sustojimo pasibaigus skrydžiui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-30. Specialieji aviacijos darbai – orlaivio naudojimas už užmokestį specializuotoms paslaugoms teikti žemės ūkyje, statybose, fotodarbams – fotografijai ir topografijai, taip pat stebėjimo ir patruliavimo bei paieškos ir gelbėjimo darbams, oro reklamai ir kita.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+31. Specialieji aviacijos darbai – orlaivio naudojimas už užmokestį specializuotoms paslaugoms teikti žemės ūkyje, statybose, fotodarbams – fotografijai ir topografijai, taip pat stebėjimo ir patruliavimo bei paieškos ir gelbėjimo darbams, oro reklamai ir kita.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-31. Tarptautinis oro uostas – oro uostas, į kurį atskrenda ir iš kurio išskrenda tarptautinius skrydžius atliekantys orlaiviai, kuriame taip pat atliekamos pasienio, muitinės, medicininio karantino, higieninės kontrolės ir kitos procedūros.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+32. Tarptautinio oro uosto žemė – Lietuvos Respublikos Vyriausybės nustatytų ribų žemės plotas, skirtas tarptautinio oro uosto reikmėms.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+33. Tarptautinis oro uostas – oro uostas, į kurį atskrenda ir iš kurio išskrenda tarptautinius skrydžius atliekantys orlaiviai, kuriame taip pat atliekamos pasienio, muitinės, medicininio karantino, higieninės kontrolės ir kitos procedūros.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-32. Valdomoji oro erdvė – nustatyto dydžio oro erdvė, kurioje teikiamos skrydžių valdymo paslaugos skrydžiams pagal vizualiųjų skrydžių taisykles ir skrydžių pagal prietaisus taisykles, atsižvelgiant į oro erdvės klasifikaciją.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+34. Valdomoji oro erdvė – nustatyto dydžio oro erdvė, kurioje teikiamos skrydžių valdymo paslaugos skrydžiams pagal vizualiųjų skrydžių taisykles ir skrydžių pagal prietaisus taisykles, atsižvelgiant į oro erdvės klasifikaciją.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-33. Valstybės orlaivis – krašto apsaugos, muitinės ir vidaus reikalų tarnybų naudojamas orlaivis.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+35. Valstybės orlaivis – krašto apsaugos, muitinės ir vidaus reikalų tarnybų naudojamas orlaivis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-34. Vežėjas – įmonė, turinti galiojantį vežėjo pažymėjimą.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+36. Vežėjas – įmonė, turinti galiojantį vežėjo pažymėjimą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
-35. Vežėjo pažymėjimas – dokumentas, patvirtinantis, kad vežėjas turi profesinių ir organizacinių pajėgumų saugiai verstis vežėjo pažymėjime nurodyta veikla.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+37. Vežėjo pažymėjimas – dokumentas, patvirtinantis, kad vežėjas turi profesinių ir organizacinių pajėgumų saugiai verstis vežėjo pažymėjime nurodyta veikla.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 
 3 straipsnis. Įstatymo taikymas
 
@@ -256,7 +372,11 @@ Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vy
 
 3. CAA organizuoja Nacionalinės civilinės aviacijos saugumo programos įgyvendinimą, išduoda licencijas, pažymėjimus, taip pat atlieka kitas teisės aktų jai suteiktas funkcijas.
 
-4. CAA yra biudžetinė įstaiga, išlaikoma iš valstybės biudžeto ir atskaitymų nuo rinkliavų už oro navigacijos paslaugas bei naudojimąsi oro uostais. Šių atskaitymų dydį nustato Vyriausybė. CAA metinę pajamų ir išlaidų sąmatą tvirtina susisiekimo ministras.
+4. CAA yra biudžetinė įstaiga, išlaikoma iš valstybės biudžeto ir atskaitymų nuo rinkliavų už oro navigacijos paslaugas bei naudojimąsi oro uostais. Šių atskaitymų dydį nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 
 7 straipsnis. Kariuomenės vadas
 
@@ -396,7 +516,17 @@ Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010IS
 
 2. Užsienio valstybės juridiniam ar fiziniam asmeniui priklausantis orlaivis, jeigu jis yra nuolat eksploatuojamas iš Lietuvos Respublikos oro uosto, gali būti registruojamas Lietuvos Respublikos civilinių orlaivių registre nepaisant šio straipsnio 1 dalies 1 punkte nustatytų sąlygų.
 
-3. Šio straipsnio 1 dalies 2 punkte numatyti reikalavimai netaikomi tais atvejais, kai tinkamumo skraidyti pažymėjimui išduoti būtina atlikti bandomuosius skrydžius.
+3. Orlaivis, kurio naudotojas yra Lietuvos Respublikos fizinis ar juridinis asmuo, gali būti registruojamas Lietuvos Respublikos civilinių orlaivių registre, jeigu šis orlaivis nuolat eksploatuojamas iš Lietuvos Respublikos ar Europos Sąjungos oro uosto, nepaisant šio straipsnio 1 dalies 1 punkte nustatytų sąlygų.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+4. Šio straipsnio 1 dalies 2 punkte numatyti reikalavimai netaikomi tais atvejais, kai tinkamumo skraidyti pažymėjimui išduoti būtina atlikti bandomuosius skrydžius.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 
 22 straipsnis. Dokumentai, reikalingi orlaiviui registruoti
 
@@ -500,7 +630,11 @@ ORLAIVIO TINKAMUMAS SKRAIDYTI IR APLINKOS APSAUGOS REIKALAVIMAI
 
 1. CAA turi teisę įvertinti Lietuvos Respublikoje esančių užsienio valstybių orlaivių tinkamumą skraidyti.
 
-2. Jeigu CAA nustato, kad užsienio valstybės orlaivis yra netinkamas skraidyti arba orlaivyje yra gedimų, kurie gali turėti įtakos tinkamumui skraidyti, CAA turi teisę neleisti jam pakilti. Jeigu orlaivis yra registruotas valstybėje, kuri yra ICAO narė, CAA privalo pranešti tos valstybės atsakingai institucijai apie orlaivio būklę ir CAA sprendimą. Jeigu užsienio valstybės institucija pareiškia, kad orlaivis yra tinkamas skraidyti, jam turi būti leista pakilti. Jeigu užsienio valstybės institucija nusprendžia, kad orlaivis yra netinkamas skraidyti, bet tam tikromis sąlygomis jis gali būti perskraidintas į remonto vietą, tokiu atveju, jeigu bus įvykdytos šios institucijos nustatytos sąlygos, CAA leidžia orlaiviui pakilti. Tokio skrydžio metu orlaivyje gali būti tik orlaivio įgula ir techniniai specialistai.
+2. Jeigu CAA nustato, kad užsienio valstybės orlaivis yra netinkamas skraidyti arba orlaivyje yra gedimų, kurie gali turėti įtakos tinkamumui skraidyti, CAA turi teisę neleisti jam pakilti. CAA privalo pranešti tos valstybės atsakingai institucijai apie orlaivio būklę ir CAA sprendimą. Jeigu užsienio valstybės institucija nusprendžia, kad orlaivis yra netinkamas skraidyti, bet tam tikromis sąlygomis jis gali būti perskraidintas į remonto vietą, tokiu atveju, jeigu bus įvykdytos šios institucijos ir CAA nustatytos sąlygos, orlaiviui leidžiama pakilti. Tokio skrydžio metu orlaivyje gali būti tik orlaivio įgula ir techniniai specialistai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 
 34 straipsnis. Aplinkos apsaugos reikalavimai
 
@@ -512,15 +646,17 @@ Lietuvos Respublikos oro erdve gali skristi tik orlaiviai, kurių keliamas triuk
 
 2. Tokie leidimai gali būti išduodami bandomiesiems skrydžiams, perskraidinti orlaivius į remonto vietą ir kitais atvejais.
 
-36 straipsnis. Civilinių orlaivių ir jų įrangos projektavimas, gamyba, remontas ir techninė priežiūra
+36 straipsnis. Civilinių orlaivių, jų įrangos (komponentų) gamyba ir techninė priežiūra
 
-1. CAA nustato civilinių orlaivių ir jų įrangos projektavimo, gamybos, remonto ir techninės priežiūros reikalavimus. Lietuvos Respublikoje įmonės gali projektuoti, gaminti civilinius orlaivius ar jų komponentus, taip pat atlikti civilinių orlaivių remonto ir techninės priežiūros darbus tik turėdamos atitinkamą CAA išduotą pažymėjimą šiems darbams bei laikydamosi šiame pažymėjime nurodytų reikalavimų. Lietuvos Respublikoje gaminami orlaiviai sertifikuojami CAA nustatyta tvarka ir sąlygomis.
+1. CAA nustato civilinių orlaivių ir jų įrangos (komponentų) gamybos ir techninės priežiūros reikalavimus. Lietuvos Respublikoje įmonės gali gaminti civilinius orlaivius ar jų įrangą (komponentus), taip pat atlikti civilinių orlaivių techninės priežiūros darbus tik turėdamos atitinkamą CAA išduotą pažymėjimą bei laikydamosi šiame pažymėjime nurodytų reikalavimų. Vadovaujantis 2002 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1592/2002 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančiu Europos aviacijos saugos agentūrą, Lietuvos Respublikoje gaminami orlaiviai sertifikuojami Europos aviacijos saugos agentūros (EASA) nustatyta tvarka ir sąlygomis.
 
-2. Pažymėjimų, suteikiančių civilinių orlaivių ir jų komponentų projektavimo ir gamybos bei jų remonto ir techninės priežiūros darbų atlikimo teisę, išdavimo, taip pat kitų valstybių išduotų pažymėjimų ir leidimų pripažinimo sąlygas ir tvarką nustato susisiekimo ministras. CAA prižiūri, kaip pažymėjimus turinčios įmonės laikosi nustatytų reikalavimų. CAA atstovai turi teisę nekliudomi apžiūrėti pažymėjimus turinčių įmonių gamybines patalpas ir įrangą, taip pat gauti visą informaciją bei dokumentus, susijusius su darbu pagal pažymėjimą.
+2. Pažymėjimų, suteikiančių civilinių orlaivių, jų įrangos (komponentų) gamybos ir techninės priežiūros darbų atlikimo teisę, išdavimo sąlygas ir tvarką nustato CAA. CAA prižiūri, kaip pažymėjimus turinčios įmonės laikosi nustatytų reikalavimų. CAA atstovai turi teisę nekliudomi apžiūrėti pažymėjimus turinčių įmonių gamybines patalpas ir įrangą, taip pat gauti visą informaciją ir dokumentus, susijusius su pažymėjime nurodytos veiklos vykdymu.
 
-3. CAA turi teisę pripažinti kitose valstybėse – ICAO valstybėse narėse – pagamintų orlaivių ar komponentų pažymėjimus bei leidimus juos projektuoti, gaminti, remontuoti ir atlikti techninę priežiūrą.
+3. Šio straipsnio 1 dalies reikalavimai netaikomi orlaiviams ir jų įrangai (komponentams), kurie neturi EASA išduotų ar pripažintų tipo pažymėjimų, gaminti ar jų techninei priežiūrai vykdyti. Tokių orlaivių gamybos, techninės priežiūros vykdymo, tinkamumo skraidyti nustatymo ir naudojimo sąlygas bei tvarką nustato CAA.
 
-4. Šio straipsnio 1 dalies reikalavimai netaikomi savadarbiams orlaiviams ar jų komponentams gaminti ir remontuoti. Tokio orlaivio gamybos, tinkamumo skraidyti nustatymo ir naudojimo sąlygas bei tvarką nustato CAA.
+Straipsnio pakeitimai:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 
 Trečiasis skirsnis
 
@@ -572,9 +708,17 @@ Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA00
 
 1. Tarptautinių oro uostų žemė yra valstybės nuosavybė.
 
-2. Tarptautinis oro uostas žemę valdo, naudoja ir ja disponuoja turto patikėjimo teisėmis vadovaudamasis šiuo ir kitais Lietuvos Respublikos įstatymais.
+2. Tarptautinį oro uostą valdanti valstybės institucija, valstybės ar savivaldybės įmonė oro uosto žemę valdo, naudoja ir ja disponuoja turto patikėjimo teisėmis, vadovaudamasi šiuo ir kitais Lietuvos Respublikos įstatymais. Tarptautinio oro uosto teritorijos ribas ir plotą tvirtina Lietuvos Respublikos Vyriausybė.
 
-3. Tarptautinis oro uostas turi teisę išnuomoti tarptautinio oro uosto žemę su šio oro uosto veikla susijusioms reikmėms, taip pat šio oro uosto teritorijoje jau veikiantiems ūkio subjektams, net jeigu jų veikla nesusijusi su šio oro uosto veikla.
+3. Tarptautinį oro uostą valdanti valstybės institucija, valstybės ar savivaldybės įmonė turi teisę išnuomoti tarptautinio oro uosto žemės sklypus su šio oro uosto veikla susijusioms reikmėms, taip pat juridiniams ar fiziniams asmenims, kurių veikla nesusijusi su šio oro uosto veikla, šiems asmenims priklausantiems nuosavybės teise ar nuomojamiems pastatams, statiniams ar įrenginiams, esantiems tarptautinio oro uosto teritorijoje, eksploatuoti. Kontroliuojamoje teritorijoje esanti tarptautinio oro uosto žemė gali būti išnuomojama tik su šio oro uosto veikla susijusioms reikmėms. Žemės sklypai išnuomojami aukciono būdu, išskyrus žemės sklypus, užstatytus fiziniams ar juridiniams asmenims priklausančiais nuosavybės teise ar jų nuomojamais pastatais, statiniais ir įrenginiais (išskyrus laikinuosius statinius, inžinerinius tinklus ir neturinčius aiškios funkcinės priklausomybės ar apibrėžto naudojimo arba ūkinės veiklos pobūdžio statinius, kurie tarnauja pagrindiniam statiniui ar įrenginiui arba jo priklausiniui). Žemės sklypai, užstatyti fizinių ar juridinių asmenų nuomojamais pastatais, statiniais ar įrenginiais, išnuomojami tik šių pastatų, statinių ar įrenginių nuomos terminui. Žemės sklypai išnuomojami teritorijų planavimo dokumentuose nustatyto dydžio, kuris būtinas pastatams, statiniams ar įrenginiams eksploatuoti pagal Nekilnojamojo turto kadastre įrašytą jų tiesioginę paskirtį.
+
+4. Tarptautinio oro uosto žemės nuomos aukciono ir ne aukciono būdu tvarką, oro uosto žemės nuomos mokesčio apskaičiavimo tvarką ir oro uosto žemės nuomos mokesčio dydžius tvirtina Lietuvos Respublikos Vyriausybė.
+
+5. Valstybės institucijoms, kurių veikla tarptautiniame oro uoste privaloma pagal Lietuvos Respublikos įstatymus, oro uosto žemė perduodama neatlygintinai naudotis Žemės įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka. Sprendimus perduoti neatlygintinai naudotis oro uosto žeme priima įmonės vadovas.
+
+Straipsnio pakeitimai:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 
 Ketvirtasis skirsnis
 
@@ -772,7 +916,11 @@ Parodomuosius renginius ir aviacijos sporto varžybas rengti galima CAA nustatyt
 
 63 straipsnis. Draudimas išskristi
 
-CAA turi teisę uždrausti orlaiviui išskristi, jei kyla abejonių dėl orlaivio tinkamumo skraidyti ar orlaivio įgulos nariai neturi atitinkamos licencijos arba orlaivyje nėra šio įstatymo 64 straipsnyje nurodytų dokumentų ar nesumokėtos šio įstatymo 72 straipsnyje numatytos rinkliavos.
+CAA turi teisę uždrausti orlaiviui išskristi, jei kyla abejonių dėl orlaivio tinkamumo skraidyti ar orlaivio įgulos nariai neturi atitinkamos licencijos arba orlaivyje nėra šio įstatymo 64 straipsnyje nurodytų dokumentų ar nesumokėtos šio įstatymo 72 straipsnyje numatytos rinkliavos. CAA turi teisę sulaikyti orlaivį, jei įtariama, kad kilo grėsmė orlaivio saugumui.
+
+Straipsnio pakeitimai:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 
 64 straipsnis. Orlaivio skrydžio dokumentai
 
@@ -806,15 +954,47 @@ CIVILINĖS AVIACIJOS SAUGUMAS
 
 2. Nacionalinės civilinės aviacijos saugumo programos įgyvendinimą koordinuoja Vyriausybės sudaryta Nacionalinė civilinės aviacijos saugumo komisija.
 
-66 straipsnis. Tarnybos, užtikrinančios aviacijos saugumą
+66 straipsnis. Aviacijos saugumo užtikrinimas
 
-1. Aviacijos saugumą užtikrina oro uostai ir vežėjai. Šios įmonės privalo turėti CAA patvirtintas aviacijos saugumo užtikrinimo programas bei planus ir įsteigti atitinkamas tarnybas (paskirti atsakingą darbuotoją (darbuotojus). Kiti kontroliuojamoje oro uosto teritorijoje veikiantys subjektai privalo turėti aviacijos saugumo užtikrinimo planus ir besąlygiškai vykdyti tarnybų, užtikrinančių civilinės aviacijos saugumą, reikalavimus.
+Pakeistas straipsnio pavadinimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+1. Aviacijos saugumą užtikrina oro uostai ir vežėjai. Šios įmonės privalo turėti CAA patvirtintas aviacijos saugumo užtikrinimo programas bei planus ir įsteigti atitinkamas tarnybas (paskirti atsakingą darbuotoją (darbuotojus). Šių tarnybų darbuotojai priimami į darbą tik gavus išankstinį Valstybės saugumo departamento raštišką pritarimą. Kiti kontroliuojamoje oro uosto teritorijoje veikiantys subjektai privalo turėti aviacijos saugumo užtikrinimo planus ir besąlygiškai vykdyti tarnybų, užtikrinančių civilinės aviacijos saugumą, reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 
 2. Oro uostų tarnybų, užtikrinančių aviacijos saugumą, darbuotojai pagal savo kompetenciją turi teisę atlikti asmens apžiūrą ir daiktų patikrinimą, sulaikyti ir perduoti teisėsaugos institucijoms asmenis, pažeidusius aviacijos saugumo reikalavimus, taip pat bagažą, krovinius ir pašto siuntas, kuriuose yra draudžiamų gabenti orlaiviais daiktų ir medžiagų. Keleiviai, atsisakę asmens apžiūros ir daiktų patikrinimo, į orlaivį neįleidžiami.
 
 3. Jeigu kyla grėsmė keleivių, įgulos narių ar kitų asmenų gyvybei ar sveikatai, tarnybų, užtikrinančių aviacijos saugumą, darbuotojai turi teisę taikyti priemones, numatytas Lietuvos Respublikos įstatymuose ir kituose teisės aktuose.
 
 4. Oro uostų tarnybų, užtikrinančių aviacijos saugumą, darbuotojai, eidami tarnybines pareigas, įstatymų ir kitų teisės aktų nustatyta tvarka turi teisę nešiotis ir naudoti tarnybinį ginklą ir kitas specialias priemones.
+
+5. Oro uostuose ir oro eismo paslaugas teikiančiose įmonėse yra nustatomos riboto patekimo vietos. Asmenys gali būti įleidžiami į oro uosto ar oro eismo paslaugas teikiančios įmonės riboto patekimo vietas, jeigu jie turi galiojantį oro uosto ar oro eismo paslaugas teikiančios įmonės CAA nustatyta tvarka išduotą leidimą. Leidimai patekti į oro uosto ir oro eismo paslaugas teikiančios įmonės riboto patekimo vietas gali būti išduodami tik nepriekaištingos reputacijos asmenims. Asmens, turinčio minėtą leidimą, tačiau nebeatitinkančio nepriekaištingos reputacijos reikalavimų, leidimas panaikinamas. Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu:
+
+1) buvo nuteistas už sunkų ar labai sunkų nusikaltimą, nepaisant to, ar teistumas yra išnykęs ar panaikintas;
+
+2) buvo nuteistas už nesunkų ar apysunkį tyčinį ar neatsargų nusikaltimą ir nėra išnykęs teistumas arba teistumas nepanaikintas;
+
+3) piktnaudžiauja psichotropinėmis, narkotinėmis, toksinėmis medžiagomis ar alkoholiu;
+
+4) buvo atleistas iš valstybės tarnautojo, profesinės karo tarnybos kario pareigų ar vidaus tarnybos paskyrus tarnybinę (drausminę) nuobaudą – atleidimą iš pareigų (tarnybos) – ar iš darbo už šiurkštų darbo pareigų pažeidimą ir nuo atleidimo nepraėjo vieni metai;
+
+5) per paskutinius vienus metus buvo skirtos administracinės nuobaudos už aviacijos saugumo reikalavimų pažeidimus;
+
+6) jam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai
+
+Papildyta straipsnio dalimi:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+6. Aviacijos saugumo darbuotojai, tikrinantys keleivius, bagažą, krovinius ir paštą, su savimi turi turėti CAA išduotą teorines žinias ir praktinius gebėjimus atlikti pavestas pareigas patvirtinantį pažymėjimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 
 Devintasis skirsnis
 
@@ -942,7 +1122,29 @@ priedas
 
 4. 1993 m. sausio 18 d. Tarybos reglamentas (EEB) Nr. 95/93 dėl laiko tarpsnių paskirstymo Bendrijos oro uostuose bendrųjų taisyklių (su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 793/2004).
 
-5. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams.
+5. 2002 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1592/2002 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą
+
+Papildyta punktu:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+6. 2003 m. rugsėjo 24 d. Komisijos reglamentas (EB) Nr. 1702/2003, nustatantis orlaivio tinkamumo skraidyti ir orlaivio bei susijusių jo gaminių, dalių ir prietaisų tinkamumo naudoti aplinkos atžvilgiu pažymėjimų išdavimą bei projektavimo ir gamybinių organizacijų sertifikavimą įgyvendinančias taisykles
+
+Papildyta punktu:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+7. 2003 m. lapkričio 20 d. Komisijos Reglamentas (EB) Nr. 2042/2003 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo.
+
+Papildyta punktu:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+8. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams.
+
+Punkto numeracijos pakeitimas:
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 
 Papildyta priedu:
 
@@ -989,4 +1191,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 
 Lietuvos Respublikos aviacijos įstatymo 1, 2, 43, 70, 71, 73 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+
+Lietuvos Respublikos aviacijos įstatymo 2, 6, 21, 33, 36, 44, 63, 66 straipsnių pakeitimo ir papildymo ir Įstatymo priedo pakeitimo įstatymas
 
