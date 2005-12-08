@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2005-01-01"
+last_updated: "2005-12-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2005-12-07
+Suvestinė redakcija nuo 2005-12-08 iki 2009-03-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -113,13 +113,23 @@ Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu:
 
 1. Asmuo, prieš pradėdamas vykdyti antstolio veiklą, bet ne vėliau kaip per du mėnesius nuo paskyrimo antstoliu, prisiekia. Priesaiką priima teisingumo ministras.
 
-2. Prisiekiama šiais žodžiais:
+2. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
 
-„Aš, antstolis (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos Respublikai, laikytis jos Konstitucijos, įstatymų, visada būti sąžiningas (-a) ir dorai vykdyti antstolio (-ės) pareigas.
+1) „Aš, antstolis (-ė) (vardas, pavardė),  prisiekiu būti ištikimas (-a) Lietuvos Respublikai, laikytis jos Konstitucijos, įstatymų, visada būti sąžiningas (-a) ir dorai vykdyti antstolio (-ės) pareigas.
 
-Tepadeda man Dievas.“
+Tepadeda man Dievas.“;
 
-3. Prisiekti galima ir be antrojo sakinio.
+2) „Aš, antstolis (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos Respublikai, laikytis jos Konstitucijos, įstatymų, visada būti sąžiningas (-a) ir dorai vykdyti antstolio (-ės) pareigas.“
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-415, 2005-11-22, Žin., 2005, Nr. 143-5177 (2005-12-08), i. k. 1051010ISTA000X-415
+
+3. Neteko galios 2005-12-08.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-415, 2005-11-22, Žin., 2005, Nr. 143-5177 (2005-12-08), i. k. 1051010ISTA000X-415
 
 4. Prisiekęs antstolis priesaikos tekstą pasirašo. Priesaikos tekstas saugomas antstolio asmens byloje.
 
@@ -638,4 +648,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2537, 2004-11-04, Žin., 2004, Nr. 171-6297 (2004-11-26), i. k. 1041010ISTA0IX-2537
 
 Lietuvos Respublikos antstolių įstatymo, Notariato įstatymo, Bankų įstatymo, Centrinės kredito unijos įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-415, 2005-11-22, Žin., 2005, Nr. 143-5177 (2005-12-08), i. k. 1051010ISTA000X-415
+
+Lietuvos Respublikos antstolių įstatymo 9 straipsnio pakeitimo įstatymas
 
