@@ -4,7 +4,7 @@ identifier: "TAR.DFEFEA5312DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2003-07-23"
+last_updated: "2005-12-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DFEFEA5312DD"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2003-07-01"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto patvirtinimo ir įgyvendinimo įstatymas
+
+Suvestinė redakcija nuo 2005-12-08 iki 2007-04-25
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 73-3348, i. k. 1031010ISTA0IX-1669
 
 LIETUVOS RESPUBLIKOS
 
@@ -87,15 +91,23 @@ BENDROSIOS NUOSTATOS
 
 1. Asmuo, stojantis į civilinę krašto apsaugos tarnybą, per oficialią ceremoniją prisiekia Lietuvos valstybei ir pasirašo vardinį priesaikos lapą. Priesaikos davimo tvarką nustato krašto apsaugos ministras.
 
-2. Nustatomas šis statutinio tarnautojo priesaikos tekstas:
+2. Prisiekiantis statutinis tarnautojas turi teisę pasirinkti vieną iš šių priesaikos tekstų:
 
-„Aš, (vardas, pavardė),
+1) „Aš, (vardas, pavardė), prisiekiu ištikimai tarnauti Lietuvos Respublikai, gerbti ir vykdyti Lietuvos Respublikos Konstituciją ir įstatymus, saugoti man patikėtas valstybės ir tarnybos paslaptis, sąžiningai atlikti man pavestas pareigas.
 
-prisiekiu ištikimai tarnauti Lietuvos Respublikai, gerbti ir vykdyti Lietuvos Respublikos Konstituciją ir įstatymus, saugoti man patikėtas valstybės ir tarnybos paslaptis, sąžiningai atlikti man pavestas pareigas.
+Tepadeda man Dievas!“;
 
-Tepadeda man Dievas!“
+2) „Aš, (vardas, pavardė), prisiekiu ištikimai tarnauti Lietuvos Respublikai, gerbti ir vykdyti Lietuvos Respublikos Konstituciją ir įstatymus, saugoti man patikėtas valstybės ir tarnybos paslaptis, sąžiningai atlikti man pavestas pareigas.
 
-3. Prisiekti galima ir be paskutinio sakinio.
+Straipsnio dalies pakeitimai:
+
+Nr. X-420, 2005-11-22, Žin., 2005, Nr. 143-5182 (2005-12-08), i. k. 1051010ISTA000X-420
+
+3. Netenka galios 2005-12-08.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-420, 2005-11-22, Žin., 2005, Nr. 143-5182 (2005-12-08), i. k. 1051010ISTA000X-420
 
 6 straipsnis. Statutinių tarnautojų pareigos ir teisės
 
@@ -369,11 +381,13 @@ STAŽUOTĖS IR MOKYMAS
 
 ______________
 
-181 straipsnis. Statutinių tarnautojų materialinė atsakomybė
+Pakeitimai:
 
-Statutiniai tarnautojai už valstybės institucijai padarytą materialinę žalą traukiami materialinėn atsakomybėn Valstybės tarnybos įstatymo nustatyta tvarka.
+1.
 
-Papildyta straipsniu:
+Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XII-1449, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20789
+Nr. X-420, 2005-11-22, Žin., 2005, Nr. 143-5182 (2005-12-08), i. k. 1051010ISTA000X-420
+
+Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 5 straipsnio pakeitimo įstatymas
 
