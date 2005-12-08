@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2005-09-29"
+last_updated: "2005-12-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -156,9 +156,9 @@ rinkliavos dydis nustatomas atsižvelgiant į paslaugos suteikimo išlaidas,
 
 kurias sudaro išlaidos:
 
-1) darbui,
+1) darbui, susijusiam
 
-susijusiam su paslaugos suteikimu, apmokėti;
+su paslaugos suteikimu, apmokėti;
 
 2) juridinę
 
@@ -246,13 +246,13 @@ tapatybės kortelės ir paso išdavimą bei pakeitimą, už dokumento, patvirtin
 
 asmens gyvenamąją vietą, išdavimą;
 
-2) politiniai kaliniai, tremtiniai, rezistencijos
+2) politiniai kaliniai, tremtiniai,
 
-dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei pakeitimą, leidimo
+rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei
 
-gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės dokumento bei
+pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės
 
-vizos išdavimą ir pratęsimą;
+dokumento bei vizos išdavimą ir pratęsimą;
 
 3) asmenys iki
 
@@ -328,9 +328,9 @@ Straipsnio pakeitimai:
 
 Nr.
 
-IX-1077, 2002-09-17,
+IX-1077,
 
-Žin., 2002, Nr. 95-4086 (2002-10-02)
+2002-09-17, Žin., 2002, Nr. 95-4086 (2002-10-02)
 
 Nr. X-359, 2005-09-29,
 
@@ -360,11 +360,13 @@ Valstybės rinkliavos keitimas ar panaikinimas pariteto pagrindais
 
 Tais atvejais,
 
-kai pariteto pagrindais didinamas, mažinamas ar panaikinamas konsulinis mokestis
+kai pariteto pagrindais didinamas, mažinamas ar panaikinamas konsulinis
 
-už vizų išdavimą užsienio valstybių piliečiams bei asmenims be pilietybės, taip
+mokestis už vizų išdavimą užsienio valstybių piliečiams bei asmenims be
 
-pat keičiama ar panaikinama ir valstybės rinkliava už vizų išdavimą.
+pilietybės, taip pat keičiama ar panaikinama ir valstybės rinkliava už vizų
+
+išdavimą.
 
 9
 
@@ -394,9 +396,9 @@ valstybės rinkliava arba jos dalis grąžinama šiais atvejais:
 
 daugiau negu Vyriausybės nustatytas rinkliavos dydis;
 
-2) jeigu
+2) jeigu paslaugos
 
-paslaugos nesuteikiamos.
+nesuteikiamos.
 
 2. Valstybės
 
@@ -438,9 +440,17 @@ jos dalį arba apriboti eismą joje išdavimą;
 
 prekiauti ar teikti paslaugas savivaldybės tarybos nustatytose viešosiose
 
-vietose išdavimą (išskyrus prekybą prekyvietėse, kai mokamas prekyviečių
+vietose išdavimą (viešąja vieta, kurioje vykdoma prekyba, teikiamos paslaugos,
 
-mokestis pagal Prekyviečių mokesčio įstatymą);
+laikytina savivaldybės teritorijoje esanti savivaldybei ar valstybei nuosavybės
+
+teise priklausanti ar patikėjimo teise valdoma teritorija (išskyrus
+
+išnuomotą ar perduotą naudotis teritoriją), kurioje teikiamos paslaugos, taip
+
+pat vykdoma prekyba nuo (iš) laikinųjų prekybos įrenginių, kioskų paviljonų,
+
+prekybai pritaikytų automobilių ar priekabų, lauko kavinių);
 
 3) leidimo
 
@@ -472,9 +482,13 @@ miestui);
 
 savivaldybių tarybos nustatytomis vietomis automobiliams statyti (išskyrus
 
-vietas automobiliams statyti prie valstybinės reikšmės kelių ir 5–15 m
+vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje
 
-pažymėtoje atkarpoje prie valstybės įstaigų, institucijų ir tarnybų);
+atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas,
+
+kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar
+
+kitus viešuosius interesus užtikrinančius reikalavimus);
 
 7) gyvūnų (šunų,
 
@@ -490,7 +504,25 @@ atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą;
 
 valstybinės reikšmės kelių, privačiuose ir išnuomotuose valstybinės
 
-žemės sklypuose) išdavimą.
+žemės sklypuose) išdavimą;
+
+10)
+
+leidimo pardavinėti I, II ir TO klasės civilines pirotechnikos priemones
+
+išdavimą;
+
+11) naudojimąsi
+
+gyvenamųjų vietovių, turinčių kurorto statusą, viešąja infrastruktūra (viešoji
+
+kurorto infrastruktūra – valstybei ar savivaldybei nuosavybės teise
+
+priklausantys statiniai, įranga ir bendro naudojimo želdynai, sudarantys
+
+visuomenei galimybę naudoti kurorte esančius gamtinius išteklius sveikatinimo,
+
+turizmo ir poilsio reikmėms).
 
 2. Iš vietinės
 
@@ -508,6 +540,10 @@ IX-857,
 
 2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
 
+Nr. X-431, 2005-12-08,
+
+Žin., 2005, Nr. 149-5416 (2005-12-22)
+
 12
 
 straipsnis. Vietinių rinkliavų nustatymas
@@ -524,9 +560,9 @@ vietinę rinkliavą;
 
 vietinės rinkliavos nuostatus;
 
-3) nustato
+3) nustato lengvatas
 
-lengvatas vietinių rinkliavų mokėtojams;
+vietinių rinkliavų mokėtojams;
 
 4) nustato
 
@@ -762,11 +798,11 @@ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAM
 
 FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ
 
-UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS TERŠIMĄ
+UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS
 
-ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO PAKEITIMO IR
+TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO
 
-PAPILDYMO ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Šis
 
@@ -786,13 +822,27 @@ RINKLIAVŲ ĮSTATYMO 4 IR 6
 
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+7.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-431, 2005-12-08,
+
+Žin., 2005, Nr. 149-5416 (2005-12-22)
+
+RINKLIAVŲ ĮSTATYMO 11 STRAIPSNIO
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-10-12)
+Aušrinė Trapinskienė (2005-12-22)
 
 autrap@lrs.lt
 
