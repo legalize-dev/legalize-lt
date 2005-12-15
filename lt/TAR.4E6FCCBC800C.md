@@ -4,7 +4,7 @@ identifier: "TAR.4E6FCCBC800C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-09-29"
-last_updated: "2005-10-20"
+last_updated: "2005-12-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4E6FCCBC800C"
 department: "Lietuvos Respublikos Seimas"
@@ -53,7 +53,7 @@ veiksiančios bendrovės veiklą ir valdymą reglamentuoja Akcinių bendrovių
 
 įstatymas, jeigu šis įstatymas ar kiti įstatymai nenustato kitaip.
 
-Staipsnio
+Straipsnio
 
 pakeitimai:
 
@@ -531,31 +531,31 @@ Lietuvos Respublikos Konstitucijos 4 straipsniui ir Lietuvos Respublikos
 
 Konstitucijoje įtvirtintam teisinės valstybės principui.
 
-Tai nusako :
-
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
-00.10.18, Žin., 2000, Nr.88-2724 (00.10.20)
+2000.10.18, Žin., 2000, Nr.88-2724 (2000.10.20)
 
-Pripažinti,
+*Pastaba.
 
-kad Lietuvos Respublikos akcinių bendrovių „Būtingės nafta“, „Mažeikių nafta“
+Pripažinti, kad
 
-ir „Naftotiekis“ reorganizavimo įstatymo 3 straipsnio 4 dalies nuostata
+Lietuvos Respublikos akcinių bendrovių „Būtingės nafta“, „Mažeikių nafta“ ir
 
-„po to, kai strateginis investuotojas įsigis akcijų pagal šio straipsnio 1
+„Naftotiekis“ reorganizavimo įstatymo 3 straipsnio 4 dalies nuostata „po
 
-dalies 1 punktą, valstybės ir savivaldybių institucijos akcinei bendrovei
+to, kai strateginis investuotojas įsigis akcijų pagal šio straipsnio 1 dalies 1
 
-„Mažeikių nafta“ ir jos dukterinėms bendrovėms negalės kelti papildomų
+punktą, valstybės ir savivaldybių institucijos akcinei bendrovei „Mažeikių nafta“
 
-reikalavimų dėl akcinės bendrovės „Mažeikių nafta“ ar jos dukterinių bendrovių
+ir jos dukterinėms bendrovėms negalės kelti papildomų reikalavimų dėl akcinės
 
-veiklos ar neveikimo ir kitų įvykių iki strateginiam investuotojui įsigyjant
+bendrovės „Mažeikių nafta“ ar jos dukterinių bendrovių veiklos ar neveikimo ir
 
-akcijų“ prieštarauja Lietuvos Respublikos Konstitucijos 46 straipsnio 3, 4
+kitų įvykių iki strateginiam investuotojui įsigyjant akcijų“ prieštarauja
 
-ir 5 dalims, konstituciniam teisinės valstybės principui.
+Lietuvos Respublikos Konstitucijos 46 straipsnio 3, 4 ir 5 dalims,
+
+konstituciniam teisinės valstybės principui.
 
 Pripažinti,
 
@@ -579,10 +579,6 @@ reikalavimų negalės kelti savivaldybių institucijos, prieštarauja Lietuvos
 
 Respublikos Konstitucijos 120 straipsnio 2 daliai ir 122 straipsniui.
 
-Tai
-
-nusako:
-
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2003-03-17, Žin., 2003, Nr. 27-1098 (2003-03-19)
@@ -601,7 +597,7 @@ Nr.86-2560 (99.10.15)
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
-00.10.18, Žin., 2000, Nr.88-2724 (00.10.20)
+2000.10.18, Žin., 2000, Nr.88-2724 (2000.10.20)
 
 Nr. IX-480, 2001-08-02, Žin., 2001, Nr.
 
@@ -627,7 +623,7 @@ Nr. X-376, 2005-10-20,
 
 Žin., 2005, Nr. 131-4702 (2005-11-05)
 
-4 straipsnis.
+**4 straipsnis.
 
 Reikalavimai akcijų paketų savininkams
 
@@ -641,9 +637,9 @@ parduodamas ar kitaip perleidžiamas šios bendrovės akcijas. Vyriausybė turi
 
 teisę nustatyti tokią pat pirmumo teisę ir strateginiam investuotojui.
 
-Laikotarpis, kurio metu valstybė turi teisę pirmumo teise įsigyti akcinės bendrovės
+Laikotarpis, kurio metu valstybė turi teisę pirmumo teise įsigyti akcinės
 
-„Mažeikių nafta“ akcijų iš strateginio investuotojo, ir tokios teisės
+bendrovės „Mažeikių nafta“ akcijų iš strateginio investuotojo, ir tokios teisės
 
 įgyvendinimo tvarka nustatoma Vyriausybės ir strateginio investuotojo
 
@@ -657,29 +653,29 @@ nuosavybės teise (tiesiogiai ar netiesiogiai) priklauso strateginiam
 
 investuotojui.
 
-2. Vyriausybės ir strateginio investuotojo
+***2. Vyriausybės ir strateginio
 
-sutartyse, kurių šalimi taip pat gali būti asmuo, įsigysiantis akcinės
+investuotojo sutartyse, kurių šalimi taip pat gali būti asmuo, įsigysiantis
 
-bendrovės „Mažeikių nafta“ akcijų pagal šio įstatymo 3 straipsnio 2 dalį, gali
+akcinės bendrovės „Mažeikių nafta“ akcijų pagal šio įstatymo 3 straipsnio 2
 
-būti nustatyta tokia tvarka, pagal kurią tokių sutarčių šalys ir (ar) jų teisių
+dalį, gali būti nustatyta tokia tvarka, pagal kurią tokių sutarčių šalys ir
 
-perėmėjai pagal įstatymus ir (ar) sutartis, įskaitant bet kurį ir visus
+(ar) jų teisių perėmėjai pagal įstatymus ir (ar) sutartis, įskaitant bet kurį
 
-paskesnius teisių perėmėjus, perleis joms nuosavybės teise priklausančias
+ir visus paskesnius teisių perėmėjus, perleis joms nuosavybės teise
 
-akcinės bendrovės „Mažeikių nafta“ akcijas ar jų įsigis, įsigis naujai
+priklausančias akcinės bendrovės „Mažeikių nafta“ akcijas ar jų įsigis, įsigis
 
-išleidžiamų akcinės bendrovės „Mažeikių nafta“ akcijų arba įgyvendins pirmumo
+naujai išleidžiamų akcinės bendrovės „Mažeikių nafta“ akcijų arba įgyvendins
 
-teisę įsigyti valstybei nuosavybės teise priklausančių akcinės bendrovės
+pirmumo teisę įsigyti valstybei nuosavybės teise priklausančių akcinės
 
-„Mažeikių nafta“ akcijų. Sudarant šias sutartis ir įgyvendinant jų nuostatas,
+bendrovės „Mažeikių nafta“ akcijų. Sudarant šias sutartis ir įgyvendinant jų
 
-Valstybės ir savivaldybių turto privatizavimo įstatymas bei Vertybinių popierių
+nuostatas, Valstybės ir savivaldybių turto privatizavimo įstatymas bei
 
-rinkos įstatymo 19 straipsnio nuostatos netaikomos.
+Vertybinių popierių rinkos įstatymo 19 straipsnio nuostatos netaikomos.
 
 *Pastaba. Pripažinti, kad
 
@@ -701,11 +697,49 @@ perleisti akcijas, prieštarauja Lietuvos Respublikos Konstitucijos 23
 
 straipsniui.
 
-**Įstatymas Nr.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
-IX-480 4 straipsnio 1 dalį pripažino netekusia galios, buvusias 4
+2000.10.18, Žin., 2000, Nr. 88-2724 (2000.10.20)
 
-straipsnio 2 ir 3 dalis laiko atitinkamai 1 ir 2 dalimis.
+**Pastaba. 2001 m.
+
+rugpjūčio 2 d. Įstatymas Nr. IX-480 4 straipsnio 1 dalį
+
+pripažino netekusia galios, buvusias 4 straipsnio 2 ir 3 dalis laiko
+
+atitinkamai 1 ir 2 dalimis.
+
+Nr. IX-480, 2001-08-02, Žin., 2001, Nr.
+
+68-2469 (2001-08-04)
+
+***Pastaba. Pripažinti,
+
+kad Lietuvos Respublikos akcinių bendrovių „Būtingės nafta“, „Mažeikių nafta“
+
+ir „Naftotiekis“ reorganizavimo įstatymo 4 straipsnio 2 dalis (2002 m.
+
+birželio 4 d. redakcija) ta apimtimi, kuria nėra nustatyta kitų priemonių
+
+smulkiųjų akcininkų nuosavybės teisėms apsaugoti, turinčių kompensuoti
+
+praradimus, kuriuos jie gali patirti dėl to, kad sudarant ir įgyvendinant šioje
+
+dalyje nurodytas sutartis netaikomos Lietuvos Respublikos vertybinių popierių
+
+rinkos įstatymo 19 straipsnio nuostatos, prieštarauja Lietuvos Respublikos
+
+Konstitucijos 23 straipsnio 2 daliai, konstituciniam teisinės valstybės
+
+principui.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2005-12-12,
+
+Žin., 2005, Nr. 146-5332 (2005-12-15)
 
 Straipsnio
 
@@ -717,11 +751,19 @@ Nr.86-2560 (99.10.15)
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
-00.10.18, Žin., 2000, Nr.88-2724 (00.10.20)
+2000.10.18, Žin., 2000, Nr.88-2724 (2000.10.20)
 
 Nr. IX-480, 2001-08-02, Žin., 2001, Nr. 68-2469 (2001-08-04)
 
 Nr. IX-923, 2002-06-04, Žin., 2002, Nr. 56-2231 (2002-06-07)
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2005-12-12,
+
+Žin., 2005, Nr. 146-5332 (2005-12-15)
 
 5 straipsnis.
 
@@ -857,9 +899,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-376,
+X-376, 2005-10-20,
 
-2005-10-20, Žin., 2005, Nr. 131-4702 (2005-11-05)
+Žin., 2005, Nr. 131-4702 (2005-11-05)
 
 AKCINIŲ
 
@@ -875,7 +917,7 @@ Konstitucinio Teismo nutarimai:
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
-00.10.18, Žin., 2000, Nr.88-2724 (00.10.20)
+2000.10.18, Žin., 2000, Nr. 88-2724 (2000.10.20)
 
 DĖL LIETUVOS RESPUBLIKOS AKCINIŲ BENDROVIŲ "BŪTINGĖS NAFTA",
 
@@ -885,11 +927,11 @@ LIETUVOS RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 5 STRAIPSNIO 3 DALIES
 
 ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR DĖL LIETUVOS RESPUBLIKOS SEIMO
 
-NUTARIMO "DĖL STRATEGINIO INVESTUOTOJO PRIPAŽINIMO" ATITIKIMO
+NUTARIMO "DĖL STRATEGINIO INVESTUOTOJO PRIPAŽINIMO" ATITIKIMO LIETUVOS
 
-LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR LIETUVOS RESPUBLIKOS NACIONALINIO SAUGUMO
+RESPUBLIKOS KONSTITUCIJAI IR LIETUVOS RESPUBLIKOS NACIONALINIO SAUGUMO PAGRINDŲ
 
-PAGRINDŲ ĮSTATYMUI
+ĮSTATYMUI
 
 2.
 
@@ -909,13 +951,41 @@ NAFTA" IR „NAFTOTIEKIS" REORGANIZAVIMO ĮSTATYMO 3 STRAIPSNIO 4 DALIES
 
 ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
+3.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2005-12-12,
+
+Žin., 2005, Nr. 146-5332 (2005-12-15)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS AKCINIŲ BENDROVIŲ "BŪTINGĖS NAFTA",
+
+"MAŽEIKIŲ NAFTA" IR "NAFTOTIEKIS" REORGANIZAVIMO ĮSTATYMO 4
+
+STRAIPSNIO 2 DALIES (2002 M. BIRŽELIO 4 D. REDAKCIJA) ATITIKTIES LIETUVOS
+
+RESPUBLIKOS KONSTITUCIJAI IR DĖL PAREIŠKĖJO - MAŽEIKIŲ RAJONO APYLINKĖS TEISMO
+
+PRAŠYMO IŠTIRTI, AR LIETUVOS RESPUBLIKOS AKCINIŲ BENDROVIŲ "BŪTINGĖS NAFTA",
+
+"MAŽEIKIŲ NAFTA" IR "NAFTOTIEKIS" REORGANIZAVIMO ĮSTATYMO 3
+
+STRAIPSNIO 8 DALIS (2002 M. BIRŽELIO 4 D. REDAKCIJA) NEPRIEŠTARAUJA LIETUVOS
+
+RESPUBLIKOS KONSTITUCIJAI
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2005-11-08)
+Aušrinė Trapinskienė (2011-04-06)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
