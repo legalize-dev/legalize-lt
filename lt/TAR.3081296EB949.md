@@ -4,7 +4,7 @@ identifier: "TAR.3081296EB949"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-10"
-last_updated: "2004-05-01"
+last_updated: "2005-12-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2005-12-21
+Suvestinė redakcija nuo 2005-12-22 iki 2006-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
 
@@ -315,21 +315,23 @@ MUITINĖS PAREIGŪNO PRIESAIKA
 
 18 straipsnis. Priesaikos tekstas
 
-1. Muitinės pareigūno priesaikos tekstas:
+1. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
 
-„Aš, (vardas, pavardė),
+1) „Aš, (vardas, pavardė), prisiekiu ištikimai tarnauti Lietuvos Respublikai, gerbti ir vykdyti jos įstatymus, savo elgesiu nepakenkti muitinės pareigūno garbei ir orumui, saugoti valstybės ir tarnybos paslaptis.
 
-prisiekiu ištikimai tarnauti Lietuvos Respublikai,
+Tepadeda man Dievas.“;
 
-gerbti ir vykdyti jos įstatymus,
+2) „Aš, (vardas, pavardė), prisiekiu ištikimai tarnauti Lietuvos Respublikai, gerbti ir vykdyti jos įstatymus, savo elgesiu nepakenkti muitinės pareigūno garbei ir orumui, saugoti valstybės ir tarnybos paslaptis.“
 
-savo elgesiu nepakenkti muitinės pareigūno garbei ir orumui,
+Straipsnio dalies pakeitimai:
 
-saugoti valstybės ir tarnybos paslaptis.
+Nr. X-440, 2005-12-13, Žin., 2005, Nr. 149-5417 (2005-12-22), i. k. 1051010ISTA000X-440
 
-Tepadeda man Dievas.“
+2. Neteko galios 2005-12-22.
 
-2. Prisiekti galima ir be paskutiniojo sakinio.
+Straipsnio dalies pakeitimai:
+
+Nr. X-440, 2005-12-13, Žin., 2005, Nr. 149-5417 (2005-12-22), i. k. 1051010ISTA000X-440
 
 3. Muitinės pareigūno pasirašytas lapas su priesaikos tekstu saugomas jo asmens byloje.
 
@@ -878,6 +880,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
 
 Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 3, 4, 5, 9, 12, 13, 14, 15, 16, 19, 21, 22, 25, 28, 29, 30, 32, 34, 50, 52 ir 55 straipsnių pakeitimo ir dvyliktojo skirsnio pripažinimo netekusiu galios įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-440, 2005-12-13, Žin., 2005, Nr. 149-5417 (2005-12-22), i. k. 1051010ISTA000X-440
+
+Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 18 straipsnio pakeitimo įstatymas
 
 57 straipsnis. Prievartos ir šaunamojo ginklo naudojimo sąlygos
 
