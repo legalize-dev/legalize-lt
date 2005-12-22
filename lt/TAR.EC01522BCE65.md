@@ -4,7 +4,7 @@ identifier: "TAR.EC01522BCE65"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-03"
-last_updated: "2004-11-25"
+last_updated: "2005-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2004-11-25 iki 2005-12-21
+Suvestinė redakcija nuo 2005-12-22 iki 2008-11-14
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
 
@@ -93,17 +93,17 @@ Seimo kontrolieriumi skiriamas nepriekaištingos reputacijos Lietuvos Respubliko
 
 8 straipsnis. Seimo kontrolieriaus priesaika
 
-1. Asmuo, paskirtas Seimo kontrolieriumi, prieš pradėdamas eiti pareigas, prisiekia Lietuvos valstybei perskaitydamas šį priesaikos tekstą:
+Asmuo, paskirtas Seimo kontrolieriumi, prieš pradėdamas eiti pareigas, prisiekia Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
 
-„Aš, Lietuvos Respublikos Seimo kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas  (-a), saugoti man patikėtas paslaptis.
+1) „Aš, Lietuvos Respublikos Seimo kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.
 
-Tepadeda man Dievas.“
+Tepadeda man Dievas.“;
 
-2. Prisiekti galima ir be paskutinio sakinio.
+2) „Aš, Lietuvos Respublikos Seimo kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.“
 
-3. Priesaiką priima Seimo Pirmininkas Seimo posėdyje.
+Straipsnio pakeitimai:
 
-4. Seimo kontrolierius priesaikos tekstą pasirašo. Priesaikos tekstas saugomas Seime.
+Nr. X-442, 2005-12-13, Žin., 2005, Nr. 149-5419 (2005-12-22), i. k. 1051010ISTA000X-442
 
 9 straipsnis. Seimo kontrolieriaus įgaliojimų pasibaigimas
 
@@ -456,6 +456,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2544, 2004-11-04, Žin., 2004, Nr. 170-6238 (2004-11-25), i. k. 1041010ISTA0IX-2544
 
 Lietuvos Respublikos Seimo kontrolierių įstatymo pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-442, 2005-12-13, Žin., 2005, Nr. 149-5419 (2005-12-22), i. k. 1051010ISTA000X-442
+
+Lietuvos Respublikos Seimo kontrolierių įstatymo 8 straipsnio pakeitimo įstatymas
 
 30 straipsnis. Seimo kontrolierių darbo apmokėjimas ir garantijos
 
