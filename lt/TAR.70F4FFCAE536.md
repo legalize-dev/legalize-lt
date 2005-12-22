@@ -4,7 +4,7 @@ identifier: "TAR.70F4FFCAE536"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-25"
-last_updated: "2003-11-05"
+last_updated: "2005-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
 
-Suvestinė redakcija nuo 2003-11-05 iki 2005-12-21
+Suvestinė redakcija nuo 2005-12-22 iki 2007-12-28
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
 
@@ -410,4 +410,32 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1772, 2003-10-14, Žin., 2003, Nr. 104-4642 (2003-11-05), i. k. 1031010ISTA0IX-1772
 
 Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 15 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-443, 2005-12-13, Žin., 2005, Nr. 149-5420 (2005-12-22), i. k. 1051010ISTA000X-443
+
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo papildymo 5(1) straipsniu įstatymas
+
+51 straipsnis. Vaiko teisių apsaugos kontrolieriaus priesaika
+
+1. Asmuo, paskirtas vaiko teisių apsaugos kontrolieriumi, prieš pradėdamas eiti pareigas, prisiekia Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
+
+1) „Aš, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.
+
+Tepadeda man Dievas.“;
+
+2) „Aš, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.“
+
+2. Priesaiką priima Seimo Pirmininkas Seimo posėdyje.
+
+3. Vaiko teisių apsaugos kontrolierius priesaikos tekstą pasirašo. Priesaikos tekstas saugomas Seime.
+
+TAR pastaba. Iki įstatymo Nr. X-443 įsigaliojimo (2005-12-22) paskirtas vaiko teisių apsaugos kontrolierius Seimo posėdyje prisiekia per du mėnesius nuo įstatymo Nr. X-443 įsigaliojimo dienos (2005-12-22).
+
+Papildyta straipsniu:
+
+Nr. X-443, 2005-12-13, Žin., 2005, Nr. 149-5420 (2005-12-22), i. k. 1051010ISTA000X-443
 
