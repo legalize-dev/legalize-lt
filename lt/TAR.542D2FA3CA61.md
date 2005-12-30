@@ -4,7 +4,7 @@ identifier: "TAR.542D2FA3CA61"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2005-07-05"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61"
 department: "Lietuvos Respublikos Seimas"
@@ -196,25 +196,27 @@ straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį tur
 
 terminai
 
-1. Atlyginimo už išperkamus atskirus
+*1. Atlyginimo už išperkamus
 
-nekilnojamojo turto objektus (žemę, mišką, vandens telkinius, ūkinės komercinės
+atskirus nekilnojamojo turto objektus (žemę, mišką, vandens telkinius, ūkinės
 
-paskirties pastatus ir jų priklausinius, gyvenamuosius namus, jų dalis, butus)
+komercinės paskirties pastatus ir jų priklausinius, gyvenamuosius namus, jų
 
-dydžius, jo mokėjimo terminus ir tvarką kasmet, patvirtinus valstybės biudžeto
+dalis, butus) dydžius, jo mokėjimo terminus ir tvarką kasmet, patvirtinus
 
-ir savivaldybių biudžetų finansinius rodiklius, nustato Vyriausybė,
+valstybės biudžeto ir savivaldybių biudžetų finansinius rodiklius, nustato
 
-atsižvelgdama į valstybės finansines išgales, įskaitant naujus valstybės
+Vyriausybė, atsižvelgdama į valstybės finansines išgales, įskaitant naujus
 
-turtinius įsipareigojimus ir valstybės pajamų šaltinius.
+valstybės turtinius įsipareigojimus ir valstybės pajamų šaltinius.
 
-2. Piniginės kompensacijos mokamos nuo
+*2. Piniginės kompensacijos
 
-sprendimo atkurti nuosavybės teises priėmimo dienos Vyriausybės nustatyta
+mokamos
 
-tvarka ir terminais:
+nuo sprendimo atkurti nuosavybės teises priėmimo dienos Vyriausybės
+
+nustatyta tvarka ir terminais:
 
 1) už išperkamą žemę, mišką, vandens
 
@@ -276,6 +278,46 @@ sergantiems sunkiomis ligomis, įrašytomis į Sveikatos apsaugos ministerijos
 
 patvirtintą sąrašą.
 
+*Pastaba. Pripažinti, kad Lietuvos
+
+Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio,
+
+šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir
+
+lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
+
+atkūrimo įstatyme, įstatymo 7 straipsnio 1 dalis (2003 m. spalio 14 d.
+
+redakcija) prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 1 ir
+
+2 dalims, 23 straipsnio 1 ir 2 dalims, 128 straipsnio 2 daliai, konstituciniams
+
+valdžių padalijimo ir teisinės valstybės principams.
+
+Pripažinti,
+
+kad Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį
+
+turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės
+
+garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį
+
+nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 7 straipsnio 2 dalies
+
+(2003 m. spalio 14 d. redakcija) nuostata „piniginės kompensacijos mokamos
+
+<...> Vyriausybės nustatyta tvarka ir terminais <...>“ ta
+
+apimtimi, kuria nenustatyti kriterijai, pagal kuriuos Vyriausybė galėtų
+
+nustatyti paskirtų piniginių kompensacijų dalių mokėjimo terminus
+
+(periodiškumą), prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio
+
+1 ir 2 dalims, 23 straipsnio 1 ir 2 dalims, 128 straipsnio 2 daliai, konstituciniams
+
+valdžių padalijimo ir teisinės valstybės principams.
+
 Straipsnio
 
 pakeitimai:
@@ -283,6 +325,10 @@ pakeitimai:
 Nr. X-305, 2005-07-05,
 
 Žin., 2005, Nr. 88-3282 (2005-07-21)
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2005-08-23, Žin., 2005, Nr. 152-5605 (2005-12-30)
 
 8
 
@@ -334,11 +380,11 @@ išduoti valstybės garantinį dokumentą (toliau – valstybės garantija).
 
 kad nuomininkams per šiame dokumente nurodytą laiką:
 
-1) bus Vyriausybės nustatyta tvarka kompensuojamos
+1) bus Vyriausybės nustatyta tvarka
 
-gyvenamųjų patalpų įsigijimo išlaidos, neviršijančios valstybės garantijoje
+kompensuojamos gyvenamųjų patalpų įsigijimo išlaidos, neviršijančios valstybės
 
-nurodytos nuomojamų patalpų rinkos vertės, arba
+garantijoje nurodytos nuomojamų patalpų rinkos vertės, arba
 
 2) bus suteiktos kitos didesnės vertės
 
@@ -634,7 +680,9 @@ nagrinėjami teismo tvarka. Šiose bylose šalys atleidžiamos nuo žyminio
 
 mokesčio.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. IX-2393,
 
@@ -1154,13 +1202,13 @@ Nr. VIII-1182,
 
 LIETUVOS
 
-RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ,
+RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO,
 
-MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ
+ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
 
-NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 8,
+NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
 
-9, 10, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ĮSTATYME, ĮSTATYMO 8, 9, 10, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 2.
 
@@ -1196,9 +1244,7 @@ IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI T
 
 TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
 
-NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
+NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 4.
 
@@ -1256,9 +1302,7 @@ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO
 
 BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ NUOSAVYBĖS
 
-TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO PAKEITIMO
-
-ĮSTATYMAS
+TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Nauja įstatymo redakcija (keistas įstatymo pavadinimas)
 
@@ -1332,11 +1376,51 @@ IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Pabaiga ***
 
+Konstitucinio Teismo nutarimai:
+
+1.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2005-08-23,
+
+Žin., 2005, Nr. 152-5605 (2005-12-30)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ
+
+DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
+
+NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
+
+ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO 1 DALIES (1999 M. GRUODŽIO 23 D. REDAKCIJA) BEI
+
+2 DALIES (1999 M. GRUODŽIO 23 D. REDAKCIJA) IR DĖL LIETUVOS RESPUBLIKOS
+
+KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ,
+
+MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT VALSTYBĖS GARANTIJŲ IR LENGVATŲ,
+
+NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
+
+ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO 1 DALIES (2003 M. SPALIO 14 D. REDAKCIJA) BEI 2
+
+DALIES (2003 M. SPALIO 14 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS
+
+KONSTITUCIJAI
+
+***
+
+Pabaiga ***
+
 Redagavo:
 
-Angonita Rupšytė (2005-07-22)
+Aušrinė Trapinskienė (2006-01-10)
 
-anrups@lrs.lt
+autrap@lrs.lt
 
 11 straipsnis.
 
