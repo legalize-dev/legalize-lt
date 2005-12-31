@@ -4,7 +4,7 @@ identifier: "TAR.542D2FA3CA61"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2005-12-30"
+last_updated: "2005-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61"
 department: "Lietuvos Respublikos Seimas"
@@ -48,7 +48,9 @@ IX-1760,
 
 2003-10-14, Žin., 2003, Nr. 102-4582 (2003-10-31)
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis.
+
+Įstatymo paskirtis
 
 Šis Įstatymas nustato kompensacijų,
 
@@ -94,9 +96,9 @@ Nr. X-305, 2005-07-05,
 
 Žin., 2005, Nr. 88-3282 (2005-07-21)
 
-2 straipsnis. Atlyginimo už išlikusį
+2 straipsnis.
 
-nekilnojamąjį turtą principas
+Atlyginimo už išlikusį nekilnojamąjį turtą principas
 
 Atlyginant piliečiams už išlikusį
 
@@ -108,9 +110,9 @@ kito turto, kuriuo atlyginama už valstybės išperkamą turtą, lygiavertiškum
 
 principo.
 
-3 straipsnis. Atlyginimas už
+3 straipsnis.
 
-valstybės išperkamą žemę, mišką, vandens telkinius
+Atlyginimas už valstybės išperkamą žemę, mišką, vandens telkinius
 
 1. Atlyginant už valstybės išperkamą
 
@@ -192,31 +194,27 @@ institucija.
 
 7
 
-straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą
+straipsnis. Atlyginimo už valstybės išperkamą nekilnojamąjį turtą terminai
 
-terminai
+*1. Piniginės
 
-*1. Atlyginimo už išperkamus
+kompensacijos už išperkamus atskirus nekilnojamojo turto objektus (žemę, mišką,
 
-atskirus nekilnojamojo turto objektus (žemę, mišką, vandens telkinius, ūkinės
+vandens telkinius, ūkinės komercinės paskirties pastatus ir jų priklausinius,
 
-komercinės paskirties pastatus ir jų priklausinius, gyvenamuosius namus, jų
+gyvenamuosius namus, jų dalis, butus) mokamos nuo sprendimo atkurti
 
-dalis, butus) dydžius, jo mokėjimo terminus ir tvarką kasmet, patvirtinus
+nuosavybės teises priėmimo dienos kasmet lygiomis dalimis, kurių dydis
 
-valstybės biudžeto ir savivaldybių biudžetų finansinius rodiklius, nustato
+nustatomas pagal šio straipsnio 2 dalyje nustatytus kompensacijų išmokėjimo
 
-Vyriausybė, atsižvelgdama į valstybės finansines išgales, įskaitant naujus
+terminus ir atsižvelgiant į tai, kokią sumą kiekvienam piliečiui liko išmokėti.
 
-valstybės turtinius įsipareigojimus ir valstybės pajamų šaltinius.
+*Pastaba. 7 straipsnio 1 dalis įsigalioja nuo 2007 m. sausio 1 d.
 
-*2. Piniginės kompensacijos
+2. Piniginės
 
-mokamos
-
-nuo sprendimo atkurti nuosavybės teises priėmimo dienos Vyriausybės
-
-nustatyta tvarka ir terminais:
+kompensacijos piliečiams išmokamos šiais terminais:
 
 1) už išperkamą žemę, mišką, vandens
 
@@ -230,93 +228,53 @@ dalis, butus – iki 2011 m. sausio 1 d.;
 
 Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenims,
 
-sukakusiems senatvės pensijos amžių, kuriems teisės aktų nustatyta
+sukakusiems senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra
 
-tvarka yra pripažintas didelių specialiųjų poreikių lygis (iki 2005 m. liepos 1
+pripažintas didelių specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I
 
-d. – I grupės invalidams), asmenims,
+grupės invalidams), asmenims, kuriems
 
-kuriems reikalingos endoprotezavimo operacijos, 1918–1920 m.
+reikalingos endoprotezavimo operacijos, 1918–1920 m. nepriklausomybės kovų
 
-nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos)
+kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams
 
-dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu iki 1940
+kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu iki 1940 m. birželio 15 d.
 
-m. birželio 15 d. apdovanotiems asmenims kompensacijos už išperkamą žemę,
+apdovanotiems asmenims kompensacijos už išperkamą žemę, mišką, vandens
 
-mišką, vandens telkinius, gyvenamuosius namus, jų dalis, butus – iki 2007
-
-m. sausio
-
-1 d.;
+telkinius, gyvenamuosius namus, jų dalis, butus – iki 2007 m. sausio 1 d.;
 
 4) asmenų, pripažintų nedarbingais
 
 Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ar asmenų,
 
-sukakusių senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka
+sukakusių senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra
 
-yra pripažintas didelių specialiųjų poreikių lygis (iki 2005 m. liepos 1
+pripažintas didelių specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. – I
 
-d. – I grupės invalidų), 1918–1920 m.
+grupės invalidų), 1918–1920 m. nepriklausomybės
 
-nepriklausomybės kovų karių savanorių, pasipriešinimo (rezistencijos) dalyvių,
+kovų karių savanorių, pasipriešinimo (rezistencijos) dalyvių, politinių
 
-politinių kalinių, tremtinių ir Vyčio Kryžiaus ordinu iki 1940 m. birželio 15
+kalinių, tremtinių ir Vyčio Kryžiaus ordinu iki 1940 m. birželio 15 d.
 
-d. apdovanotų asmenų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams)
+apdovanotų asmenų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams)
 
 kompensacijos už išperkamą žemę, mišką, vandens telkinius, gyvenamuosius namus,
 
 jų dalis, butus – iki 2009 m. sausio 1 d.
 
-3. Iš kompensacijoms mokėti
+3. Iš
 
-numatytų valstybės biudžeto lėšų 20 procentų kasmet skiriama asmenims,
+kompensacijoms mokėti numatytų valstybės biudžeto lėšų 20 procentų kasmet
 
-sergantiems sunkiomis ligomis, įrašytomis į Sveikatos apsaugos ministerijos
+skiriama asmenims ir jų paveldėtojams, sergantiems sunkiomis ligomis,
 
-patvirtintą sąrašą.
+įrašytomis į Sveikatos apsaugos ministerijos patvirtintą sąrašą. Tuo atveju, kai
 
-*Pastaba. Pripažinti, kad Lietuvos
+lieka nepanaudotų šiam tikslui skirtų lėšų, jos išmokamos šio straipsnio 2
 
-Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio,
-
-šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir
-
-lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
-
-atkūrimo įstatyme, įstatymo 7 straipsnio 1 dalis (2003 m. spalio 14 d.
-
-redakcija) prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 1 ir
-
-2 dalims, 23 straipsnio 1 ir 2 dalims, 128 straipsnio 2 daliai, konstituciniams
-
-valdžių padalijimo ir teisinės valstybės principams.
-
-Pripažinti,
-
-kad Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį
-
-turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės
-
-garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį
-
-nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 7 straipsnio 2 dalies
-
-(2003 m. spalio 14 d. redakcija) nuostata „piniginės kompensacijos mokamos
-
-<...> Vyriausybės nustatyta tvarka ir terminais <...>“ ta
-
-apimtimi, kuria nenustatyti kriterijai, pagal kuriuos Vyriausybė galėtų
-
-nustatyti paskirtų piniginių kompensacijų dalių mokėjimo terminus
-
-(periodiškumą), prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio
-
-1 ir 2 dalims, 23 straipsnio 1 ir 2 dalims, 128 straipsnio 2 daliai, konstituciniams
-
-valdžių padalijimo ir teisinės valstybės principams.
+dalyje išvardytiems piliečiams.
 
 Straipsnio
 
@@ -330,25 +288,29 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2005-08-23, Žin., 2005, Nr. 152-5605 (2005-12-30)
 
+Nr. X-482, 2005-12-23,
+
+Žin., 2005, Nr. 153-5647 (2005-12-31)
+
 8
 
 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą
 
 pinigais ir vertybiniais popieriais tvarka
 
-1. Vyriausybės nustatyta tvarka sudaromi
+1. Piniginės kompensacijos už valstybės
 
-piliečių sąrašai kompensacijoms už valstybės išperkamą išlikusį nekilnojamąjį
+išperkamą išlikusį nekilnojamąjį turtą išmokamos ir piliečių sąrašai
 
-turtą mokėti pinigais. Piliečių sąrašus kompensacijoms už išperkamą žemę, mišką
+kompensacijoms mokėti sudaromi Vyriausybės nustatyta tvarka. Piliečių sąrašus
 
-ir vandens telkinius patvirtina apskričių viršininkai. Piliečių sąrašus
+kompensacijoms už išperkamą žemę, mišką ir vandens telkinius patvirtina
 
-kompensacijoms už išperkamus ūkinės komercinės paskirties pastatus,
+apskričių viršininkai. Piliečių sąrašus kompensacijoms už išperkamus ūkinės
 
-gyvenamuosius namus, jų dalis, butus patvirtina savivaldybių vykdomosios
+komercinės paskirties pastatus, gyvenamuosius namus, jų dalis, butus patvirtina
 
-institucijos.
+savivaldybių vykdomosios institucijos.
 
 2. Piliečiams neišmokėtos piniginių
 
@@ -360,6 +322,14 @@ metų infliaciją.
 
 nekilnojamąjį turtą vertybiniais popieriais tvarką nustato Vyriausybė.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. X-482, 2005-12-23,
+
+Žin., 2005, Nr. 153-5647 (2005-12-31)
+
 9
 
 straipsnis. Valstybės garantijos sugrąžintų natūra gyvenamųjų namų, jų dalių,
@@ -368,11 +338,11 @@ butų nuomininkams ir savininkams, šių garantijų įvykdymo tvarka ir sąlygos
 
 garantijų turėtojų teisės ir pareigos
 
-1. Savivaldybės vykdomoji institucija
+1. Savivaldybės vykdomoji institucija savininkams
 
-savininkams ir nuomininkams, gyvenantiems savininkui (piliečiui, religinei
+ir nuomininkams, gyvenantiems savininkui (piliečiui, religinei bendruomenei ar
 
-bendruomenei ar bendrijai) grąžintame gyvenamajame name, jo dalyje, bute, privalo
+bendrijai) grąžintame gyvenamajame name, jo dalyje, bute, privalo
 
 išduoti valstybės garantinį dokumentą (toliau – valstybės garantija).
 
@@ -390,45 +360,51 @@ garantijoje nurodytos nuomojamų patalpų rinkos vertės, arba
 
 gyvenamosios patalpos, kurių dalis, atitinkanti nuomojamų patalpų vertę,
 
-nurodytą valstybės garantijoje, bus neatlygintinai perduota nuosavybėn,
+nurodytą valstybės garantijoje, bus neatlygintinai perduota nuosavybėn, o
 
-o likusią dalį jie privalės išsipirkti rinkos kaina Vyriausybės
+likusią dalį, kuri negali viršyti valstybės remiamų būsto kreditų nustatytų
 
-nustatyta tvarka ir terminais, arba
+dydžių, jie privalės išsipirkti rinkos kaina Vyriausybės nustatyta
+
+tvarka ir terminais, arba
 
 3) bus neatlygintinai perduotos
 
 nuosavybėn kitos mažesnės vertės gyvenamosios patalpos, o valstybės garantijoje
 
-nurodytos nuomotų ir perduotų nuosavybėn gyvenamųjų patalpų vertės
+nurodytos nuomotų ir perduotų nuosavybėn gyvenamųjų patalpų vertės skirtumas
 
-skirtumas kompensuojamas Vyriausybės nustatyta tvarka ir terminais, arba
+kompensuojamas Vyriausybės nustatyta tvarka ir terminais, arba
 
-4) bus perduotas nuosavybėn žemės
+4) bus perduotas nuosavybėn žemės sklypas gyvenamajam
 
-sklypas gyvenamajam namui statyti. Jeigu perduodamo žemės sklypo
+namui statyti. Jeigu perduodamo žemės sklypo gyvenamajam namui statyti vertė
 
-gyvenamajam namui statyti vertė didesnė už valstybės garantijoje nurodytą
+didesnė už valstybės garantijoje nurodytą nuomojamų patalpų vertę, žemės sklypo
 
-nuomojamų patalpų vertę, žemės sklypo dalis, atitinkanti nuomojamų patalpų
+dalis, atitinkanti nuomojamų patalpų vertę, bus neatlygintinai perduota
 
-vertę, bus neatlygintinai perduota nuosavybėn, o likusią dalį valstybės
+nuosavybėn, o likusią dalį valstybės garantijos turėtojai privalės išsipirkti
 
-garantijos turėtojai privalės išsipirkti rinkos kaina Vyriausybės nustatyta
+rinkos kaina Vyriausybės nustatyta tvarka ir terminais. Perduodant nuosavybėn
 
-tvarka ir terminais. Perduodant nuosavybėn mažesnės vertės už garantijoje
+mažesnės vertės už garantijoje nurodytą nuomojamų patalpų vertę žemės sklypą
 
-nurodytą nuomojamų patalpų vertę žemės sklypą gyvenamajam namui statyti, vertės
+gyvenamajam namui statyti, vertės skirtumas garantijos turėtojams bus
 
-skirtumas garantijos turėtojams bus kompensuojamas Vyriausybės nustatyta tvarka
+kompensuojamas Vyriausybės nustatyta tvarka ir terminais, arba
 
-ir terminais, arba
+5) bus Vyriausybės nustatyta tvarka
 
-5) bus Vyriausybės nustatyta
+išnuomotos kitos valstybės ar savivaldybės gyvenamosios patalpos, į
 
-tvarka išnuomotos kitos valstybės ar savivaldybės gyvenamosios patalpos, į
+nuompinigius įskaičiuojant nuomotų patalpų vertę, arba
 
-nuompinigius įskaičiuojant nuomotų patalpų vertę.
+6) bus kompensuojama nuomotų gyvenamųjų patalpų rinkos
+
+vertė pinigais, kurie bus pervesti į valstybės garantijos turėtojo nurodytą
+
+sąskaitą banke.
 
 3. Piliečiui, religinei
 
@@ -456,39 +432,43 @@ jo dalies, buto savininkui.
 
 Vyriausybės nustatytos formos dokumentas, kuriuo valstybė (garantas)
 
-įsipareigoja grąžinto namo, jo dalies, buto nuomininkui ir jo šeimos
+įsipareigoja grąžinto namo, jo dalies, buto nuomininkui ir jo šeimos nariams
 
-nariams (toliau – garantijos turėtojai) įvykdyti garantiją,
+(toliau – garantijos turėtojai) įvykdyti garantiją, nurodytą šio straipsnio 2
 
-nurodytą šio straipsnio 2 dalyje, o garantijos turėtojai įsipareigoja,
+dalyje, o garantijos turėtojai įsipareigoja, kai bus įvykdyta garantija,
 
-kai bus įvykdyta garantija, patuštinti turėtas gyvenamąsias ir kitas patalpas
+patuštinti turėtas gyvenamąsias ir kitas patalpas per šio straipsnio 12 dalyje
 
-per šio straipsnio 12 dalyje nustatytą laiką. Valstybės garantijoje
+nustatytą laiką. Valstybės garantijoje nuomininkui ir jo šeimos nariams turi
 
-nuomininkui ir jo šeimos nariams turi būti nurodyta: valstybės
+būti nurodyta: valstybės garantijos išdavimo vieta, data, numeris, ją išdavusi
 
-garantijos išdavimo vieta, data, numeris, ją išdavusi savivaldybės vykdomoji
+savivaldybės vykdomoji institucija, sprendimą atkurti nuosavybės teises
 
-institucija, sprendimą atkurti nuosavybės teises priėmusi institucija, sprendimo
+priėmusi institucija, sprendimo data ir numeris, nuomojamų gyvenamųjų patalpų
 
-data ir numeris, nuomojamų gyvenamųjų patalpų adresas ir jų vertė, garantas,
+adresas ir jų rinkos vertė, garantas, garantijos turėtojas (turėtojai) ir jo
 
-garantijos turėtojas (turėtojai) ir jo asmens kodas (kodai), viena iš
+asmens kodas (kodai), viena iš šio straipsnio 2 dalyje nurodytų garantijų ir
 
-šio straipsnio 2 dalyje nurodytų garantijų ir šio straipsnio 11 dalyje
+šio straipsnio 11 dalyje nurodyta įvykdymo data, garantijos turėtojų
 
-nurodyta įvykdymo data, garantijos turėtojų įsipareigojimas, kai bus
+įsipareigojimas, kai bus įvykdyta garantija, patuštinti turimas gyvenamąsias ir
 
-įvykdyta garantija, patuštinti turimas gyvenamąsias ir kitas patalpas, taip pat
+kitas patalpas, taip pat nurodoma, kad valstybės garantija pasibaigia perleidus
 
-nurodoma, kad valstybės garantija pasibaigia perleidus iš jos atsirandančią
+iš jos atsirandančią reikalavimo teisę, ją pasirašiusio asmens pavardė, vardas,
 
-reikalavimo teisę, ją pasirašiusio asmens pavardė, vardas, pareigos,
+pareigos, savivaldybės vykdomosios institucijos antspaudas. Šią garantiją
 
-savivaldybės vykdomosios institucijos antspaudas. Šią garantiją pasirašo
+pasirašo garantijos turėtojai – nuomininkas ir jo šeimos nariai. Jeigu
 
-garantijos turėtojai – nuomininkas ir jo šeimos nariai.
+nuomininkas ir jo šeimos nariai nepasirašo arba atsisako pasirašyti valstybės
+
+garantiją, savivaldybės administracijos direktorius arba jo įgaliotas asmuo
+
+valstybės garantijos dokumente įrašo ir savo parašu patvirtina atitinkamą žymą.
 
 6. Iš valstybės garantijos
 
@@ -508,19 +488,27 @@ numatytas valstybės įsipareigojimas, kuris buvo suteiktas mirusiam garantijos
 
 turėtojui, įgyvendinamas įpėdiniams, kai valstybės garantiją išdavusiai
 
-savivaldybės vykdomajai institucijai įpėdinis (garantijos įgijėjas) pateikia
+savivaldybės vykdomajai institucijai įpėdinis (garantijos įgijėjas) pateikia paveldėjimo
 
-paveldėjimo teisės į garantijos turėtojo reikalavimo teisę, atsirandančią iš
+teisės į garantijos turėtojo reikalavimo teisę, atsirandančią iš valstybės
 
-valstybės garantijos, notaro patvirtintą liudijimo nuorašą. Savivaldybės
+garantijos, notaro patvirtintą liudijimo nuorašą. Savivaldybės vykdomoji
 
-vykdomoji institucija, išdavusi valstybės garantiją, paveldėjimo teisės
+institucija, išdavusi valstybės garantiją, paveldėjimo teisės liudijimo nuorašo
 
-liudijimo nuorašo pagrindu patikslina valstybės garantiją, nurodydama naujo
+pagrindu patikslina valstybės garantiją, nurodydama naujo garantijos turėtojo
 
-garantijos turėtojo (asmens, paveldėjusio reikalavimo teisę, atsirandančią iš
+(asmens, paveldėjusio reikalavimo teisę, atsirandančią iš valstybės garantijos)
 
-valstybės garantijos) duomenis.
+duomenis. Pagal šio straipsnio 2 dalies 5 punkte nustatytą valstybės garantiją
+
+išnuomotų gyvenamųjų patalpų nuomininkui mirus, nuomos sutartis pakeičiama
+
+Civilinio kodekso 6.602 straipsnyje nustatyta tvarka, o likusi nepanaudota
+
+nuomos mokesčiui padengti valstybės garantiniame dokumente nurodytos gyvenamųjų
+
+patalpų vertės dalis įskaitoma į nuompinigius.
 
 8. Garantijos turėtojai turi
 
@@ -594,11 +582,11 @@ galioti jo įpėdiniams.
 
 10. Grąžinto natūra gyvenamojo
 
-namo, jo dalies, buto nuosavybės teisei perėjus kitam asmeniui, valstybės
+namo, jo dalies, buto nuosavybės teisei perėjus kitam asmeniui, valstybės garantija,
 
-garantija, išduota asmeniui, perleidusiam nuosavybės teisę į grąžintą
+išduota asmeniui, perleidusiam nuosavybės teisę į grąžintą gyvenamąjį namą, jo
 
-gyvenamąjį namą, jo dalį, butą, lieka galioti naujajam savininkui.
+dalį, butą, lieka galioti naujajam savininkui.
 
 11. Valstybės garantijos apskaitomos
 
@@ -608,29 +596,27 @@ savivaldybės vykdomojoje institucijoje pagal turto buvimo vietą. Šio straipsn
 
 kontrolės tvarką nustato Vyriausybė, atsižvelgdama į tai, kad šio straipsnio 2
 
-dalies 1, 2, 3 ir 5 punktuose nurodytos valstybės garantijos turi
+dalies 1, 2, 3, 5 ir 6 punktuose nurodytos valstybės garantijos
 
-būti įvykdytos ne vėliau kaip iki 2009 m. sausio
+turi būti įvykdytos ne vėliau kaip iki 2009 m. sausio 1 d., o 4 punkte nurodyta
 
-1 d., o 4 punkte nurodyta garantija per 2 metus nuo jų  išdavimo,
+garantija – per 2 metus nuo jų išdavimo, ir į tai, kad pirmąja eile vykdomos
 
-ir į tai, kad pirmąja eile vykdomos garantijos, kurių turėtojai (nuomininkas ar
+garantijos, kurių turėtojai (nuomininkas ar jo šeimos nariai) gyvena avarinės
 
-jo šeimos nariai) gyvena avarinės būklės namuose, taip pat 1992–2002
+būklės namuose, taip pat 1992–2002 metais nuomininkams išduotos garantijos, o
 
-metais nuomininkams išduotos garantijos, o antrąja eile – kitų turėtojų
-
-garantijos.
+antrąja eile – kitų turėtojų garantijos.
 
 12. Valstybės garantijos galiojimo
 
 laikas pasibaigia, kai ji įvykdoma. Pasibaigus valstybės garantijai, šio
 
-straipsnio 2 dalies 1, 2, 3, 5 punktuose nurodytų garantijų turėtojai per 4
+straipsnio 2 dalies 1, 2, 3, 5, 6 punktuose nurodytų garantijų turėtojai per 4
 
 mėnesius, o šio straipsnio 2 dalies 1 punkte nurodytos garantijos turėtojas,
 
-įsigyjantis gyvenamąsias patalpas statomame name – per 6 mėnesius privalo
+įsigyjantis gyvenamąsias patalpas statomame name, – per 6 mėnesius privalo
 
 patuštinti turėtas gyvenamąsias ir kitas patalpas. Šio straipsnio 2 dalies 4
 
@@ -640,15 +626,15 @@ gyvenamąsias ir kitas patalpas. Nuomininkai, neįvykdę šios sąlygos, iškeld
 
 iš turėtų gyvenamųjų patalpų vadovaujantis Civilinio kodekso 6.613 straipsniu.
 
-Kai sugrąžinto gyvenamojo namo, jo dalies ar buto nuomininkai patuština turėtas
+Kai sugrąžinto gyvenamojo namo, jo dalies ar buto nuomininkai patuština
 
-gyvenamąsias ir kitas patalpas ar nuomininkai iškeldinami iš jų, savivaldybės
+turėtas gyvenamąsias ir kitas patalpas ar nuomininkai iškeldinami iš jų,
 
-vykdomoji institucija privalo šias patalpas per 1 mėnesį Vyriausybės nustatyta
+savivaldybės vykdomoji institucija privalo šias patalpas per 1 mėnesį
 
-tvarka perduoti šio gyvenamojo namo, jo dalies ar buto savininkui
+Vyriausybės nustatyta tvarka perduoti šio gyvenamojo namo, jo dalies ar buto
 
-(savininkams).
+savininkui (savininkams).
 
 13. Valstybės garantija savininkui
 
@@ -666,13 +652,25 @@ dalyje nustatyti terminai. Valstybės garantijoms įvykdyti Vyriausybės
 
 nustatytais terminais ir tvarka turi būti atliktas nuomojamų gyvenamųjų patalpų
 
-rinkos vertės patikslinimas. Vyriausybė kasmet, atsižvelgdama į valstybės
+rinkos vertės patikslinimas pagal valstybės garantijos išdavimo metu užfiksuotą
 
-finansines išgales, valstybės biudžeto ir savivaldybių biudžetų finansinių
+nuomojamų (nuomotų) gyvenamųjų patalpų būklę, nustatant vertės pokyčius
 
-rodiklių patvirtinimo įstatymo projekte numato lėšas valstybės garantijoms
+rinkoje. Vyriausybė kasmet, atsižvelgdama į valstybės finansines
 
-vykdyti, bet ne vėliau kaip iki 2009 m.
+išgales, valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
+
+patvirtinimo įstatymo projekte numato lėšas valstybės garantijoms vykdyti ir
+
+savivaldybių pagal šio straipsnio 2 dalies 5 punkte nustatytą valstybės
+
+garantiją nuomojamoms gyvenamosioms patalpoms įsigyti laikantis Valstybės paramos
+
+būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatyme
+
+nustatyto socialinio būsto naudingojo ploto normatyvo, bet ne vėliau kaip iki
+
+2009 m. Įsigytos patalpos savivaldybėms priklauso nuosavybės teise.
 
 15. Ginčai dėl valstybės garantijų
 
@@ -691,6 +689,10 @@ Nr. IX-2393,
 Nr. IX-2497,
 
 2004-10-19, Žin., 2004, Nr. 156-5696 (2004-10-26)
+
+Nr. X-482, 2005-12-23,
+
+Žin., 2005, Nr. 153-5647 (2005-12-31)
 
 4 straipsnis.
 
@@ -1148,9 +1150,9 @@ Nr. VIII-1580, 2000.03.21, Žin., 2000, Nr.
 
 28-767 (2000.04.05)
 
-10 straipsnis. Atlyginimo už žemę, mišką
+10 straipsnis.
 
-padidinimo tvarka
+Atlyginimo už žemę, mišką padidinimo tvarka
 
 1. Piliečių nuosavybės teisių į išlikusį
 
@@ -1244,7 +1246,9 @@ IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI T
 
 TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
 
-NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
 
 4.
 
@@ -1302,7 +1306,9 @@ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO
 
 BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ NUOSAVYBĖS
 
-TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO PAKEITIMO ĮSTATYMAS
+TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO PAKEITIMO
+
+ĮSTATYMAS
 
 Nauja įstatymo redakcija (keistas įstatymo pavadinimas)
 
@@ -1371,6 +1377,74 @@ BEI TVARKOS, TAIP PAT VALSTYBĖS GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ
 NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 1
 
 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-482,
+
+2005-12-23, Žin., 2005, Nr. 153-5647 (2005-12-31)
+
+KOMPENSACIJŲ
+
+UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ
+
+BEI TVARKOS, TAIP PAT VALSTYBĖS GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ
+
+NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 7,
+
+8, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šio įstatymo 1
+
+straipsnyje išdėstyto įstatymo 7 straipsnio 1 dalis įsigalioja nuo 2007 m.
+
+sausio 1 d.
+
+Piniginės
+
+kompensacijos už išperkamus atskirus nekilnojamojo turto objektus (žemę, mišką,
+
+vandens telkinius, ūkinės komercinės paskirties pastatus ir jų priklausinius,
+
+gyvenamuosius namus, jų dalis, butus) 2006 metais mokamos nuo sprendimo
+
+atkurti nuosavybės teises priėmimo dienos, atsižvelgiant į lėšas, skirtas iš
+
+Lietuvos Respublikos valstybės biudžeto ar iš kitų šaltinių, nurodytų Kompensacijų už
+
+valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei
+
+tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės
+
+teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 6 straipsnio 1
+
+dalyje, taip pat į pinigų sumą, likusią išmokėti kiekvienam piliečiui.
+
+Išduotos ir iki
+
+šio įstatymo įsigaliojimo nepradėtos vykdyti Kompensacijų už valstybės
+
+išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos,
+
+taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į
+
+išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo 9 straipsnio 2 dalies
+
+1, 2, 3, 4 ir 5 punktuose nurodytos valstybės garantijos jų turėtojų prašymu
+
+gali būti pakeičiamos į to paties straipsnio 2 dalies 6 punkte nurodytą
+
+valstybės garantiją, o Įstatymo 9 straipsnio 2 dalies 1, 2, 3, 4 ir 6 punktuose
+
+nurodytos valstybės garantijos – į to paties straipsnio 2 dalies 5 punkte
+
+nurodytą valstybės garantiją.
 
 ***
 
