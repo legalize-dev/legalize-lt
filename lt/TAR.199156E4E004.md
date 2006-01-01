@@ -4,7 +4,7 @@ identifier: "TAR.199156E4E004"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "2005-10-27"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2005-10-27 iki 2005-12-31
+Suvestinė redakcija nuo 2006-01-01 iki 2008-11-14
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
 
@@ -202,35 +202,33 @@ NEĮGALIŲJŲ SOCIALINĘ INTEGRACIJĄ ĮGYVENDINANČIOS INSTITUCIJOS
 
 16 straipsnis. Neįgaliųjų socialinės integracijos valdymas
 
-1. Neįgaliųjų socialinės integracijos valdymas apima neįgaliųjų socialinės integracijos priemonių planavimą, administravimą, organizavimą bei įgaliojimų ir atsakomybės paskirstymą bei priežiūrą.
+1. Neįgaliųjų socialinės integracijos valdymas apima neįgaliųjų socialinės integracijos priemonių planavimą, administravimą, organizavimą, įgaliojimų ir atsakomybės paskirstymą bei priežiūrą.
 
 2. Pagrindinės neįgaliųjų socialinę integraciją įgyvendinančios institucijos yra:
 
 1) Lietuvos Respublikos Vyriausybė. Ji koordinuoja ir įgyvendina neįgaliųjų socialinės integracijos sistemą, tvirtina ilgalaikes valstybines neįgaliųjų socialinės integracijos programas ir strategijas;
 
-2) ministerijos. Jos pagal savo kompetenciją rengia ir teikia Lietuvos Respublikos Vyriausybei siūlymus, įstatymų ir kitų teisės aktų projektus dėl neįgaliųjų socialinės integracijos sistemos tobulinimo bei organizuoja neįgaliųjų socialinės integracijos sistemos įgyvendinimą;
+2) ministerijos. Jos pagal savo kompetenciją rengia ir teikia Lietuvos Respublikos Vyriausybei siūlymus, įstatymų ir kitų teisės aktų projektus dėl neįgaliųjų socialinės integracijos sistemos tobulinimo ir organizuoja neįgaliųjų socialinės integracijos sistemos įgyvendinimą;
 
-3) apskričių viršininkai. Jie kartu su apskrities savivaldybių institucijomis rengia ir įgyvendina apskrities neįgaliųjų socialinės integracijos programas, atsako už socialinių paslaugų įstaigų, teikiančių specialiąsias socialines paslaugas neįgaliesiems, veiklos užtikrinimą;
+3) Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgaliųjų reikalų departamentas). Jis koordinuoja ir įgyvendina Nacionalinę žmonių su negalia socialinės integracijos programą ir vykdo kitas neįgaliųjų socialinės integracijos politikos įgyvendinimo priemones;
 
-4) savivaldybių institucijos. Jos rengia ir įgyvendina savivaldybės neįgaliųjų socialinės integracijos programas, atsako už neįgaliųjų specialiųjų poreikių tenkinimą teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymą, bendradarbiavimą su neįgaliųjų visuomeninėmis organizacijomis;
+4) apskričių viršininkai. Jie rengia, koordinuoja ir įgyvendina apskrities socialines programas ir socialinius projektus neįgaliesiems, vykdo kitas Apskrities valdymo įstatyme nustatytas funkcijas;
 
-5) Lietuvos neįgaliųjų reikalų taryba prie Lietuvos Respublikos Vyriausybės. Ji padeda Lietuvos Respublikos Vyriausybei koordinuoti ir įgyvendinti neįgaliųjų socialinės integracijos sistemą, koordinuoja ir įgyvendina Nacionalinę žmonių su negalia socialinės integracijos programą, kitas neįgaliųjų socialinės integracijos priemones, atlieka kitas teisės aktų jai pavestas funkcijas;
+5) savivaldybės. Jos rengia ir įgyvendina savivaldybės neįgaliųjų socialinės integracijos programas, atsako už neįgaliųjų specialiųjų poreikių tenkinimą teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymą, bendradarbiavimą su neįgaliųjų asociacijomis;
 
-6) visuomeninės neįgaliųjų organizacijos. Jos atstovauja neįgaliųjų interesams bei padeda įgyvendinti neįgaliųjų socialinės integracijos priemones: organizuoja socialinių paslaugų teikimą neįgaliesiems, neįgaliųjų poilsį, sportą, turizmą, kultūrinę veiklą, tarptautinį bendradarbiavimą. Organizuodamos savo veiklą, visuomeninės neįgaliųjų organizacijos bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis, gali gauti šių institucijų ir įstaigų finansinę paramą.
+6) neįgaliųjų asociacijos. Jos atstovauja neįgaliųjų interesams, padeda įgyvendinti neįgaliųjų socialinės integracijos priemones: organizuoja socialinių paslaugų teikimą neįgaliesiems, neįgaliųjų poilsį, sportą, turizmą, kultūrinę veiklą, tarptautinį bendradarbiavimą. Organizuodamos savo veiklą, neįgaliųjų asociacijos bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis, gali gauti šių institucijų ir įstaigų finansinę paramą.
 
-17 straipsnis. Lietuvos neįgaliųjų reikalų taryba prie Lietuvos Respublikos Vyriausybės
+Straipsnio pakeitimai:
 
-1. Lietuvos neįgaliųjų reikalų taryba prie Lietuvos Respublikos Vyriausybės (toliau – Taryba) yra Vyriausybei atskaitinga kolegiali institucija.
+Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
 
-2. Tarybos nuostatus ir sudėtį tvirtina Vyriausybė.
+17 straipsnis. Neįgaliųjų reikalų taryba prie Socialinės apsaugos ir darbo ministerijos
 
-3. Taryba sudaroma pariteto principu iš visuomeninių neįgaliųjų organizacijų, turinčių filialus, atstovybes ar narius – kitas visuomenines neįgaliųjų organizacijas, ir valstybės institucijų atstovų. Lietuvos Respublikos Vyriausybės sprendimu į Tarybą gali būti įtraukti ir kitų organizacijų ir institucijų atstovai.
+Neįgaliųjų reikalų taryba prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgaliųjų reikalų taryba) nagrinėja svarbiausius neįgaliųjų socialinės integracijos klausimus ir teikia pasiūlymus socialinės apsaugos ir darbo ministrui dėl neįgaliųjų reikmes atitinkančios neįgaliųjų socialinės integracijos politikos įgyvendinimo. Ji sudaroma visuomeniniais pagrindais, lygiateisės partnerystės pagrindu iš valstybės institucijų ir neįgaliųjų asociacijų deleguotų atstovų. Neįgaliųjų reikalų tarybos sudėtį ir jos nuostatus socialinės apsaugos ir darbo ministro teikimu tvirtina Lietuvos Respublikos Vyriausybė.
 
-4. Tarybos sprendimus vykdo sekretoriatas. Sekretoriatą sudaro valstybės tarnautojai ir dirbantys pagal darbo sutartis darbuotojai. Sekretoriato nuostatus tvirtina Taryba.
+Straipsnio pakeitimai:
 
-5. Taryba yra juridinis asmuo. Ji turi sąskaitą banke, antspaudą su valstybės herbu ir savo pavadinimu.
-
-6. Už savo veiklą Taryba atsiskaito Lietuvos Respublikos Vyriausybei Tarybos nuostatuose nustatyta tvarka.
+Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
 
 KETVIRTASIS SKIRSNIS
 
