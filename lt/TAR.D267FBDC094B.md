@@ -4,7 +4,7 @@ identifier: "TAR.D267FBDC094B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-06-25"
-last_updated: "2005-10-11"
+last_updated: "2006-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2005-10-11 iki 2005-12-31
+Suvestinė redakcija nuo 2006-01-01 iki 2006-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
 
@@ -89,6 +89,12 @@ Nr. X-357, 2005-09-29, Žin., 2005, Nr. 121-4331 (2005-10-11), i. k. 1051010ISTA
 
 Teikiant lengvatą, prie darbingų asmenų nepriskiriami mokymo įstaigų dieninių skyrių moksleiviai bei studentai.
 
+Kai žemės savininkai turi teisę į žemės mokesčio lengvatą ir turi ne vieną žemės sklypą, taikoma didžiausia lengvata vienam žemės sklypui.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-470, 2005-12-22, Žin., 2005, Nr. 153-5640 (2005-12-31), i. k. 1051010ISTA000X-470
+
 7 straipsnis.
 
 Savivaldybių tarybos savo biudžeto sąskaita turi teisę sumažinti žemės mokestį arba visai nuo jo atleisti.
@@ -115,13 +121,13 @@ Nauji žemės savininkai mokestį moka:
 
 2) žemę perleidžiama antrąjį pusmetį – nuo kitų metų.
 
-11 straipsnis.
+11 straipsnis. Teritorinės valstybinės mokesčių inspekcijos žemės mokestį apskaičiuoja ir žemės mokesčio deklaraciją žemės mokesčio mokėtojams pateikia iki kalendorinių metų spalio 1 dienos.
 
-Žemės mokesčio apskaičiavimo ir sumokėjimo terminą nustato vietos savivaldos vykdomosios institucijos.
+Žemės mokestis sumokamas iki kalendorinių metų lapkričio 1 dienos.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA000I-944
+Nr. X-470, 2005-12-22, Žin., 2005, Nr. 153-5640 (2005-12-31), i. k. 1051010ISTA000X-470
 
 12 straipsnis.
 
@@ -188,4 +194,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-357, 2005-09-29, Žin., 2005, Nr. 121-4331 (2005-10-11), i. k. 1051010ISTA000X-357
 
 Lietuvos Respublikos žemės mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-470, 2005-12-22, Žin., 2005, Nr. 153-5640 (2005-12-31), i. k. 1051010ISTA000X-470
+
+Lietuvos Respublikos žemės mokesčio įstatymo 6, 11 straipsnių papildymo ir pakeitimo įstatymas
 
