@@ -4,7 +4,7 @@ identifier: "TAR.58146A37675A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-09-21"
-last_updated: "2004-11-25"
+last_updated: "2006-01-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.58146A37675A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2004-11-25 iki 2006-01-16
+Suvestinė redakcija nuo 2006-01-17 iki 2010-06-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 82-2414, i. k. 0991010ISTAIII-1328
 
@@ -271,7 +271,11 @@ FINANSAVIMAS
 
 10 straipsnis. Etninės kultūros valstybinės globos finansavimo šaltiniai
 
-1. Valstybės ir savivaldybių institucijų veikla, susijusi su etninės kultūros globa, finansuojama iš valstybės biudžeto, savivaldybių biudžetų, Etninės kultūros globos fondo ir kitų kultūros bei mokslo fondų lėšų.
+1. Valstybės ir savivaldybių institucijų veikla, susijusi su etninės kultūros globa, finansuojama iš valstybės biudžeto, savivaldybių biudžetų ir kitų lėšų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-484, 2006-01-09, Žin., 2006, Nr. 6-192 (2006-01-17), i. k. 1061010ISTA000X-484
 
 2. Kultūros bei Švietimo ir mokslo ministerijos išlaiko jų valdymo sričiai priskirtas etninės kultūros institucijas, finansuoja etninės kultūros programas.
 
@@ -285,37 +289,47 @@ FINANSAVIMAS
 
 7. Spaudos, radijo ir televizijos rėmimo fondas, atsižvelgdamas į Etninės kultūros globos tarybos rekomendacijas, remia viešosios informacijos rengėjų programas, skirtas etninei kultūrai populiarinti, etninės kultūros periodinius leidinius.
 
-11 straipsnis. Etninės kultūros globos fondas
+11 straipsnis. Neteko galios nuo 2006-01-17
 
-1. Etninės kultūros globos fondo (toliau – Fondas) steigėjas yra Lietuvos Respublikos Vyriausybė. Fondas yra juridinis asmuo, veikiantis pagal Etninės kultūros globos tarybos teikimu Vyriausybės patvirtintus nuostatus. Fondas atsiskaito Vyriausybei ir Etninės kultūros globos tarybai, kasmet pateikia savo finansinės veiklos ataskaitą.
+Straipsnio naikinimas:
 
-2. Fondo pajamų šaltiniai:
+Nr. X-484, 2006-01-09, Žin. 2006, Nr. 6-192 (2006-01-17), i. k. 1061010ISTA000X-484
 
-1) dotacijos iš valstybės biudžeto;
+4 skyrius. Neteko galios nuo 2006-01-17
 
-2) besirūpinančių etnine kultūra tarptautinių institucijų ir organizacijų parama;
+Skyriaus naikinimas:
 
-3) kredito įstaigų palūkanos, mokamos už jose saugomas Fondo lėšas;
+Nr. X-484, 2006-01-09, Žin. 2006, Nr. 6-192 (2006-01-17), i. k. 1061010ISTA000X-484
 
-4) juridinių ir fizinių asmenų savanoriški įnašai;
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-5) kitos teisėtai gautos lėšos.
+RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-3. Pagrindiniai fondo uždaviniai:
+Pakeitimai:
 
-1) remti etninės kultūros vertybių fiksavimo, kaupimo ir apsaugos ilgalaikes programas bei projektus;
+1.
 
-2) remti ilgalaikes programas ir projektus, padedančius puoselėti etninės kultūros gyvosios tradicijos tęstinumą;
+Lietuvos Respublikos Seimas, Įstatymas
 
-3) remti etninės kultūros tyrimų ir etninės kultūros vertybių rinkinių leidybos programas;
+Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010ISTAIII-1847
 
-4) premijuoti etnine kultūra pagrįstus vertingiausius architektūros, gamtosaugos ir kitus projektus;
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 5 ir 12 straipsnių pakeitimo įstatymas
 
-5) skirti stipendijas studentams, lėšų etninės kultūros tyrinėtojams stažuotei šalies bei užsienio mokslo ir studijų institucijose, dalyvauti mokslinėse konferencijose, taip pat premijas ir apdovanojimus nusipelniusiems etninei kultūrai asmenims bei vertingų projektų autoriams.
+2.
 
-IV skyrius
+Lietuvos Respublikos Seimas, Įstatymas
 
-BAIGIAMOSIOS NUOSTATOS
+Nr. IX-2531, 2004-11-02, Žin., 2004, Nr. 170-6237 (2004-11-25), i. k. 1041010ISTA0IX-2531
+
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 5, 6, 7, 8 ir 12 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-484, 2006-01-09, Žin., 2006, Nr. 6-192 (2006-01-17), i. k. 1061010ISTA000X-484
+
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 10 straipsnio pakeitimo ir 11 straipsnio bei IV skyriaus pripažinimo netekusiais galios įstatymas
 
 12 straipsnis. Pasiūlymas Vyriausybei
 
