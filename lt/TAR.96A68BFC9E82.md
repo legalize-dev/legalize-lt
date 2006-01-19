@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2005-05-12"
+last_updated: "2006-01-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -1291,15 +1291,11 @@ Vyriausybės ir Ministro Pirmininko pavedimų vykdymą;
 
 5) leidžia
 
-įsakymus ir įsakymais patvirtintus kitus teisės aktus, tikrina, kaip jie
+įsakymus, tikrina, kaip jie vykdomi. Ministro leidžiami įsakymai registruojami
 
-vykdomi. Ministro leidžiami įsakymai ir kiti teisės aktai registruojami
+Vyriausybės darbo reglamento nustatyta tvarka. Įsakymus pasirašo ministras.
 
-Vyriausybės darbo reglamento nustatyta tvarka. Įsakymus ir kitus teisės aktus
-
-pasirašo ministras. Prireikus keli ministrai gali leisti bendrus įsakymus arba
-
-įsakymu patvirtintus kitus teisės aktus;
+Prireikus keli ministrai gali leisti bendrus įsakymus;
 
 6) teikia
 
@@ -1367,9 +1363,15 @@ Nr. IX-842,
 
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 
-Nr. IX-1293,
+Nr. IX-1293, 2003-01-14,
 
-2003-01-14, Žin., 2003, Nr. 10-342 (2003-01-29)
+Žin., 2003, Nr. 10-342 (2003-01-29)
+
+Nr.
+
+X-500,
+
+2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
 
 27 straipsnis.
 
@@ -1421,9 +1423,7 @@ MINISTERIJOS,
 
 VYRIAUSYBĖS ĮSTAIGOS IR APSKRIČIŲ
 
-VIRŠININKŲ
-
-ADMINISTRACIJOS
+VIRŠININKŲ ADMINISTRACIJOS
 
 29 straipsnis.
 
@@ -1453,9 +1453,7 @@ ministerija;
 
 apsaugos ir darbo ministerija;
 
-6) Susisiekimo
-
-ministerija;
+6) Susisiekimo ministerija;
 
 7) Sveikatos
 
@@ -1477,9 +1475,9 @@ ministerija;
 
 reikalų ministerija;
 
-12) Vidaus reikalų
+12) Vidaus
 
-ministerija;
+reikalų ministerija;
 
 13) Žemės ūkio
 
@@ -1499,11 +1497,11 @@ funkcijas ir įgyvendina šioje srityje valstybės politiką.
 
 vadovauja ministras.
 
-5. Ministerija
+5. Ministerija yra
 
-yra juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu
+juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu bei
 
-bei savo pavadinimu.
+savo pavadinimu.
 
 6. Ministerija
 
@@ -1685,11 +1683,9 @@ ir koordinuoja ministerijos strateginių veiklos planų rengimą ir jų
 
 Ministro Pirmininko ir Vyriausybės pavedimų vykdymą, vadovaudamasis
 
-ministerijos strateginiais veiklos planais ir Vyriausybės programos
+ministerijos strateginiais veiklos planais ir Vyriausybės programos įgyvendinimo
 
-įgyvendinimo priemonėmis, užtikrina ministerijos rengiamų sprendimų
-
-suderinamumą;
+priemonėmis, užtikrina ministerijos rengiamų sprendimų suderinamumą;
 
 5) koordinuoja
 
@@ -1769,9 +1765,9 @@ Nr. IX-842,
 
 Nr.
 
-IX-2521,
+IX-2521, 2004-11-02,
 
-2004-11-02, Žin., 2004, Nr. 167-6100 (2004-11-17)
+Žin., 2004, Nr. 167-6100 (2004-11-17)
 
 31 straipsnis.
 
@@ -1903,17 +1899,17 @@ Vyriausybės įstaigos vadovas yra pavaldus Ministrui Pirmininkui.
 
 įstaigos vadovas sprendžia įstaigos kompetencijai priskirtus klausimus, taip
 
-pat vykdo kitas įstatymų ir Vyriausybės nutarimų nustatytas funkcijas. Vyriausybės
+pat vykdo kitas įstatymų ir Vyriausybės nutarimų nustatytas funkcijas.
 
-įstaigos vadovas yra asmeniškai atsakingas, kad įstaiga spręstų jai pavestus
+Vyriausybės įstaigos vadovas yra asmeniškai atsakingas, kad įstaiga spręstų jai
 
-uždavinius.
+pavestus uždavinius.
 
-5. Vyriausybės
+5. Vyriausybės įstaigos
 
-įstaigos vadovas gali turėti pavaduotoją (pavaduotojų), kurį (kuriuos) jis
+vadovas gali turėti pavaduotoją (pavaduotojų), kurį (kuriuos) jis skiria ir
 
-skiria ir atleidžia iš pareigų.
+atleidžia iš pareigų.
 
 6. Vyriausybės
 
@@ -2419,6 +2415,12 @@ Sąjungos teisės aktus, gali priimti sprendimus, o dėl kitų Europos
 
 Sąjungos dokumentų – rezoliucijas.
 
+4. Vyriausybės
+
+sprendimai ir Vyriausybės rezoliucijos įsigalioja jų pasirašymo dieną ir turi
+
+būti tą pačią dieną paskelbti Vyriausybės interneto tinklalapyje (www.lrv.lt).
+
 Įstatymas
 
 papildytas straipsniu:
@@ -2426,6 +2428,14 @@ papildytas straipsniu:
 Nr. IX-2576,
 
 2004-11-11, Žin., 2004, Nr. 171-6322 (2004-11-26)
+
+Straipsnio pakeitimai:
+
+Nr.
+
+X-500,
+
+2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
 
 42 straipsnis.
 
@@ -2457,7 +2467,19 @@ klausimais leidžia potvarkius arba priima operatyvius sprendimus - pavedimus,
 
 Pirmininko potvarkiai įsigalioja jų pasirašymo dieną, jeigu pačiuose
 
-potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data.
+potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data. Ministro Pirmininko potvarkiai,
+
+paskelbti „Valstybės žiniose“, įsigalioja kitą dieną po jų paskelbimo, jeigu
+
+pačiuose potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+X-500,
+
+2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
 
 DEŠIMTASIS
 
@@ -2645,13 +2667,13 @@ kancleris:
 
 valstybės institucijų ir įstaigų, savivaldybių tarybų pateiktų Vyriausybei bei
 
-Ministrui Pirmininkui teisės aktų projektų bei programų analizę, prireikus
+Ministrui Pirmininkui teisės aktų projektų bei programų analizę, prireikus Vyriausybės
 
-Vyriausybės darbo reglamento nustatyta tvarka organizuoja Vyriausybei bei
+darbo reglamento nustatyta tvarka organizuoja Vyriausybei bei Ministrui
 
-Ministrui Pirmininkui teikiamų teisės aktų projektų bei programų, kurių
+Pirmininkui teikiamų teisės aktų projektų bei programų, kurių rengėjams
 
-rengėjams nepavyko suderinti su suinteresuotomis institucijomis, derinimą;
+nepavyko suderinti su suinteresuotomis institucijomis, derinimą;
 
 2) dalyvauja koordinuojant Vyriausybės
 
@@ -2661,9 +2683,11 @@ programos įgyvendinimo priemonių ir strateginių veiklos planų vykdymą;
 
 Vyriausybės posėdžių rengimą, dalyvauja juose ir užtikrina, kad būtų rašomi
 
-posėdžių protokolai, išleidžiami ir įstatymų nustatyta tvarka „Valstybės
+posėdžių protokolai, išleidžiami ir įstatymų nustatyta tvarka skelbiami
 
-žiniose“ skelbiami Vyriausybės nutarimai ir Ministro Pirmininko potvarkiai;
+Vyriausybės nutarimai, Ministro Pirmininko potvarkiai, Vyriausybės sprendimai
+
+ir Vyriausybės rezoliucijos;
 
 4) skiria į
 
@@ -2700,6 +2724,12 @@ Nr. IX-331, 2001 05 17, Žin., 2001, Nr.
 Nr. IX-842,
 
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+
+Nr.
+
+X-500,
+
+2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
 
 46 straipsnis.
 
@@ -2769,11 +2799,11 @@ nevyriausybinėms organizacijoms.
 
 institucija, rengdama Lietuvos Respublikos poziciją dėl pasiūlymo priimti
 
-Europos Sąjungos teisės aktą užsienio politikos, nacionalinio saugumo
+Europos Sąjungos teisės aktą užsienio politikos, nacionalinio saugumo klausimais,
 
-klausimais, taip pat Europos Vadovų Taryboje svarstomais klausimais, rengiamą
+taip pat Europos Vadovų Taryboje svarstomais klausimais, rengiamą poziciją
 
-poziciją derina su Respublikos Prezidentu.
+derina su Respublikos Prezidentu.
 
 4. Lietuvos Respublikos pozicija dėl
 
@@ -2795,9 +2825,9 @@ nustatyta tvarka nedelsdama informuoja Seimą apie gautus pasiūlymus priimti
 
 Europos Sąjungos teisės aktus ar kitus Europos Sąjungos dokumentus tų sričių,
 
-kurios pagal Lietuvos Respublikos Konstituciją susijusios su Seimo ar
+kurios pagal Lietuvos Respublikos Konstituciją susijusios su Seimo ar Respublikos
 
-Respublikos Prezidento kompetencija.
+Prezidento kompetencija.
 
 2. Nusprendusi
 
@@ -2903,9 +2933,9 @@ Seimo statuto nustatyta tvarka konsultuojasi su Seimu.
 
 pritarus, siūlydama kandidatus į Europos Bendrijų Teisingumo Teismo ir
 
-Pirmosios instancijos teismo teisėjus Seimo statuto nustatyta tvarka
+Pirmosios instancijos teismo teisėjus Seimo statuto nustatyta tvarka konsultuojasi
 
-konsultuojasi su Seimu.
+su Seimu.
 
 4. Vyriausybė, siūlydama kandidatus į Europos Sąjungos Regionų
 
@@ -3015,7 +3045,7 @@ Nr.
 
 VIII-148,
 
-97.03.25,  Žin., 1997, Nr.30-704 (97.04.09)
+97.03.25,  Žin., 1997, Nr.30-704 (97.04.09)
 
 LIETUVOS
 
@@ -3099,9 +3129,9 @@ Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
 
 66-2407 (2001-08-01)
 
-VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ PAKEITIMO
+VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ
 
-ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 12.
 
@@ -3243,6 +3273,20 @@ VYRIAUSYBĖS
 
 ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+21.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-500, 2006-01-19,
+
+Žin., 2006, Nr. 17-596 (2006-02-11)
+
+VYRIAUSYBĖS
+
+ĮSTATYMO 26, 41(1), 43, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -3273,7 +3317,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-05-30)
+Aušrinė Trapinskienė (2006-02-11)
 
 autrap@lrs.lt
 
