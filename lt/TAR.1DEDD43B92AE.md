@@ -4,7 +4,7 @@ identifier: "TAR.1DEDD43B92AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-03"
-last_updated: "2004-09-29"
+last_updated: "2006-01-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE"
 department: "Lietuvos Respublikos Seimas"
@@ -49,14 +49,6 @@ PIRMASIS SKIRSNISBENDROSIOS NUOSTATOS
 
 Vienkartinė išmoka gimus vaikui
 
-1 dalies redakcija iki 2005 m. sausio 1 d.:
-
-1. Kiekvienam gimusiam vaikui skiriama 6 MGL dydžio
-
-vienkartinė išmoka.
-
-1 dalies redakcija nuo 2005 m. sausio 1 d.:
-
 1. Kiekvienam gimusiam vaikui skiriama 8 MGL dydžio
 
 vienkartinė išmoka.
@@ -67,11 +59,11 @@ auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar vaiko
 
 globėjui.
 
-3. Vienkartinė išmoka nemokama, jei vaikas yra
+3. Vienkartinė išmoka nemokama, jei vaikas yra išlaikomas
 
-išlaikomas valstybės ar savivaldybės finansuojamoje įstaigoje arba kreipimosi
+valstybės ar savivaldybės finansuojamoje įstaigoje arba kreipimosi metu vaikas
 
-metu vaikas yra miręs.
+yra miręs.
 
 Straipsnio pakeitimai:
 
@@ -121,11 +113,19 @@ IŠMOKOS globojamiems VAIKAMS ir asmenims, kuriems nustatyta globa (rūpyba)
 
 8 straipsnis. Globos (rūpybos) išmoka
 
+1 dalies redakcija iki 2007 m. sausio 1 d.:
+
 1. Vaikui, globojamam šeimoje, šeimynoje ar
 
 nevyriausybinėje vaikų globos institucijoje (įstaigoje), jo globos (rūpybos)
 
 laikotarpiu skiriama 4 MGL dydžio išmoka per mėnesį.
+
+1 dalies redakcija nuo 2007 m. sausio 1 d.:
+
+1. Vaikui, kuriam nustatyta globa (rūpyba), jo
+
+globos (rūpybos) laikotarpiu skiriama 4 MGL dydžio išmoka per mėnesį.
 
 2. Jei pasibaigus vaiko globai (rūpybai) dėl
 
@@ -155,15 +155,15 @@ globos (rūpybos) išmoka mokama iki tų pačių metų rugsėjo 1 dienos.
 
 4. Kai išmokos gavėjas, gaunantis globos (rūpybos)
 
-išmoką, įstatymų nustatyta tvarka gauna našlaičių pensiją ir (arba) vaiko
+išmoką, įstatymų nustatyta tvarka gauna našlaičių pensiją ir (arba) vaiko išlaikymui
 
-išlaikymui kas mėnesį mokamą periodinę išmoką, vaiko globos (rūpybos) išmokos
+kas mėnesį mokamą periodinę išmoką, vaiko globos (rūpybos) išmokos dydis yra
 
-dydis yra lygus skirtumui tarp išmokos gavėjui nustatyto vaiko globos (rūpybos)
+lygus skirtumui tarp išmokos gavėjui nustatyto vaiko globos (rūpybos) išmokos
 
-išmokos dydžio ir gaunamos našlaičių pensijos bei (arba) vaiko išlaikymui kas
+dydžio ir gaunamos našlaičių pensijos bei (arba) vaiko išlaikymui kas mėnesį
 
-mėnesį mokamos periodinės išmokos dydžio.
+mokamos periodinės išmokos dydžio.
 
 5. Išmokos gavėjas, gaunantis šio straipsnio 2 dalyje
 
@@ -192,6 +192,10 @@ Straipsnio pakeitimai:
 Nr. IX-2470,
 
 2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
+
+Nr. X-496, 2006-01-19,
+
+Žin., 2006, Nr. 17-592 (2006-02-11)
 
 1 straipsnis.
 
@@ -291,6 +295,8 @@ dienos iki tų pačių metų rugsėjo 1 dienos.
 
 nustatyta globa ar rūpyba, neįskaitomi.
 
+7 dalies redakcija iki 2007 m. sausio 1 d.:
+
 7. Vaiko globėjas (rūpintojas) – fizinis asmuo, šeimyna ar nevyriausybinė vaikų globos
 
 institucija (įstaiga), kuriai įstatymų nustatyta tvarka pavesta be tėvų globos
@@ -299,11 +305,23 @@ likusio vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir jiems
 
 atstovavimas.
 
+7 dalies redakcija nuo 2007 m. sausio 1 d.:
+
+7. Vaiko globėjas (rūpintojas) – fizinis ar
+
+juridinis asmuo, kuriam įstatymų nustatyta tvarka pavesta be tėvų globos likusio
+
+vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir atstovavimas jam.
+
 Straipsnio pakeitimai:
 
 Nr. IX-2470,
 
 2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
+
+Nr. X-496, 2006-01-19,
+
+Žin., 2006, Nr. 17-592 (2006-02-11)
 
 3. Vienkartinė išmoka nėščiai moteriai. 4 straipsnis. Išmokų finansavimasŠio įstatymo nustatytos išmokos mokamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams.  ANTRASIS SKIRSNIS
 
@@ -317,9 +335,9 @@ Išmokos šeimose auginamiems vaikams
 
 (rūpyba), pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar
 
-santuokos sudarymo, skiriama vienkartinė 50 MGL dydžio išmoka būstui įsigyti
+santuokos sudarymo, skiriama vienkartinė 50 MGL dydžio išmoka būstui įsigyti arba
 
-arba įsikurti.
+įsikurti.
 
 2. Vienkartinė išmoka būstui įsigyti arba įsikurti neskiriama,
 
@@ -361,7 +379,37 @@ kalendorinių dienų iki gimdymo (suėjus 28 nėštumo savaitėms), skiriama 2 M
 
 dydžio vienkartinė išmoka.
 
-PENKTASIS SKIRSNIS IŠMOKŲ skyrimas ir mokėjimas 11 straipsnis. Išmokas skiriančios ir mokančios įstaigosŠio įstatymo nustatytas išmokas skiria ir moka savivaldybių administracijos vadovaudamosi šiuo įstatymu ir Vyriausybės patvirtintais Išmokų vaikams skyrimo ir mokėjimo nuostatais. 12 straipsnis. Išmokų skyrimo ir mokėjimo tvarka 1. Išmokas, išskyrus globos (rūpybos) išmoką asmenims, kurie mokosi profesinėse, aukštesniosiose ir aukštosiose mokyklose, skiria ir moka savivaldybės, kurios teritorijoje asmuo, turintis teisę gauti šio įstatymo nustatytas išmokas, deklaruoja gyvenamąją vietą, administracija, o jei gyvenamosios vietos neturi, – savivaldybės, kurioje asmuo gyvena, administracija. 2. Globos (rūpybos) išmoką asmenims, kurie mokosi profesinėse, aukštesniosiose ir aukštosiose mokyklose, skiria ir moka savivaldybės, kurioje yra mokykla, administracija. 3. Šeimynai ir nevyriausybinei vaikų globos institucijai išmokas moka tos savivaldybės, kurios teritorijoje šeimyna ar nevyriausybinė vaikų globos institucija yra įregistruota, administracija. 4. Kreipiantis dėl išmokos, privaloma pateikti visus Išmokų vaikams skyrimo ir mokėjimo nuostatuose nurodytus dokumentus, būtinus išmokai skirti.5. Savivaldybės administracija per mėnesį nuo visų dokumentų gavimo dienos privalo priimti sprendimą dėl išmokos skyrimo ir apie tai raštu pranešti pareiškėjui. Tais atvejais, kai priimamas sprendimas neskirti išmokos, nurodomos neskyrimo priežastys.6. Kilus ginčui tarp tėvų dėl to, kas gaus išmoką, savivaldybės administracija priimdama sprendimą turi atsižvelgti į vaiko (vaikų) interesus.
+PENKTASIS SKIRSNIS IŠMOKŲ skyrimas ir mokėjimas 11 straipsnis. Išmokas skiriančios ir mokančios įstaigosŠio įstatymo nustatytas išmokas skiria ir moka savivaldybių administracijos vadovaudamosi šiuo įstatymu ir Vyriausybės patvirtintais Išmokų vaikams skyrimo ir mokėjimo nuostatais. 12 straipsnis. Išmokų skyrimo ir mokėjimo tvarka
+
+1 dalies redakcija iki 2007 m. sausio 1 d.:
+
+1. Išmokas, išskyrus globos (rūpybos) išmoką asmenims, kurie mokosi profesinėse, aukštesniosiose ir aukštosiose mokyklose, skiria ir moka savivaldybės, kurios teritorijoje asmuo, turintis teisę gauti šio įstatymo nustatytas išmokas, deklaruoja gyvenamąją vietą, administracija, o jei gyvenamosios vietos neturi, – savivaldybės, kurioje asmuo gyvena, administracija.
+
+1 dalies redakcija nuo 2007 m. sausio 1 d.:
+
+1. Išmokas, išskyrus globos
+
+(rūpybos) išmoką, skiria ir moka savivaldybės, kurios teritorijoje asmuo,
+
+turintis teisę gauti šio įstatymo nustatytas išmokas, deklaruoja gyvenamąją
+
+vietą, administracija, o jeigu jis gyvenamosios vietos neturi, – savivaldybės,
+
+kurioje šis asmuo gyvena, administracija.
+
+2. Globos (rūpybos) išmoką asmenims, kurie mokosi profesinėse, aukštesniosiose ir aukštosiose mokyklose, skiria ir moka savivaldybės, kurioje yra mokykla, administracija.
+
+3 dalies redakcija iki 2007 m. sausio 1 d.:
+
+3. Šeimynai ir nevyriausybinei vaikų globos institucijai išmokas moka tos savivaldybės, kurios teritorijoje šeimyna ar nevyriausybinė vaikų globos institucija yra įregistruota, administracija.
+
+3 dalies redakcija nuo 2007 m. sausio 1 d.:
+
+3. Vaiko globėjui (rūpintojui) globos (rūpybos) išmoką moka tos savivaldybės, kurios teritorijoje vaikui buvo nustatyta globa (rūpyba),
+
+administracija.
+
+4. Kreipiantis dėl išmokos, privaloma pateikti visus Išmokų vaikams skyrimo ir mokėjimo nuostatuose nurodytus dokumentus, būtinus išmokai skirti.5. Savivaldybės administracija per mėnesį nuo visų dokumentų gavimo dienos privalo priimti sprendimą dėl išmokos skyrimo ir apie tai raštu pranešti pareiškėjui. Tais atvejais, kai priimamas sprendimas neskirti išmokos, nurodomos neskyrimo priežastys.6. Kilus ginčui tarp tėvų dėl to, kas gaus išmoką, savivaldybės administracija priimdama sprendimą turi atsižvelgti į vaiko (vaikų) interesus.
 
 7. Vienkartinės išmokos gimus vaikui, vienkartinės
 
@@ -383,6 +431,10 @@ Nr. IX-2470,
 
 2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
 
+Nr. X-496, 2006-01-19,
+
+Žin., 2006, Nr. 17-592 (2006-02-11)
+
 6 straipsnis. Išmoka vaikui
 
 1. Šeimoje,
@@ -397,13 +449,13 @@ auginančioje tris ar daugiau vaikų, kiekvienam vaikui skiriama 1,1 MGL dydžio
 
 išmoka per mėnesį nuo jo gimimo dienos, iki sukaks 3 metai.
 
-3. Šeimoje,
+*3.
 
-auginančioje vieną ar du vaikus, kiekvienam vaikui nuo 3 iki 18 metų ir
+Šeimoje, auginančioje vieną ar du vaikus, kiekvienam vaikui nuo 3 iki 18 metų
 
-vyresniam, kuris mokosi dieninėje bendrojo lavinimo mokykloje, skiriama 0,4 MGL
+ir vyresniam, kuris mokosi dieninėje bendrojo lavinimo mokykloje, skiriama 0,4
 
-dydžio išmoka per mėnesį.
+MGL dydžio išmoka per mėnesį.
 
 4. Šeimoje,
 
@@ -450,6 +502,20 @@ globojamas;
 emancipuotas (išskyrus tuo atveju, kai teismas nusprendžia emancipaciją
 
 panaikinti).
+
+*Pastaba.
+
+Šio įstatymo 6 straipsnio 3 dalyje nustatyta išmoka vieną ar du vaikus
+
+auginančių šeimų vaikams nuo 3 iki 7 metų skiriama ir mokama nuo 2004 m. liepos
+
+1 d., o nuo 7 iki 18 metų ir vyresniems, besimokantiems dieninėje bendrojo
+
+lavinimo mokykloje, skiriama ir pradedama mokėti atsižvelgiant į valstybės
+
+finansines galimybes bei Vyriausybės nustatyta tvarka ir terminais, bet ne
+
+vėliau kaip nuo 2009 m. sausio 1 d.
 
 Straipsnio pakeitimai:
 
@@ -571,9 +637,9 @@ savivaldybės administracijos darbuotojams sudaryti galimybę tikrinti jų
 
 gyvenimo sąlygas;
 
-4) išmokas
+4)
 
-panaudoti pagal jų tikslinę paskirtį.
+išmokas panaudoti pagal jų tikslinę paskirtį.
 
 AŠTUNTASIS SKIRSNIS
 
@@ -599,9 +665,9 @@ Moteriai, kuriai iki šio įstatymo įsigaliojimo paskirta nėštumo pašalpa
 
 besimokančiai moteriai, bet neišmokėta už visą laikotarpį, išmokama išmoka,
 
-kurios dydis yra lygus skirtumui tarp vienkartinės išmokos nėščiai moteriai
+kurios dydis yra lygus skirtumui tarp vienkartinės išmokos nėščiai moteriai dydžio
 
-dydžio ir išmokėtos nėštumo pašalpos besimokančiai moteriai dydžio.
+ir išmokėtos nėštumo pašalpos besimokančiai moteriai dydžio.
 
 21 straipsnis. Įstatymo įgyvendinimas
 
