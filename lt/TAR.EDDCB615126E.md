@@ -4,7 +4,7 @@ identifier: "TAR.EDDCB615126E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-13"
-last_updated: "2005-12-23"
+last_updated: "2006-01-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 department: "Lietuvos Respublikos Seimas"
@@ -92,7 +92,11 @@ tarnybos dalinių karininkai, liktinės tarnybos puskarininkiai ir kareiviai;
 
 2) Specialiųjų tyrimų tarnybos pareigūnai;
 
-3) profesinės karo tarnybos kariai;
+3) profesinės karo tarnybos kariai ir Antrajame
+
+operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos civilinę
+
+krašto apsaugos tarnybą atliekantys statutiniai valstybės tarnautojai;
 
 4) Valstybės saugumo departamento sistemos pareigūnai;
 
@@ -102,17 +106,19 @@ tarnybos dalinių karininkai, liktinės tarnybos puskarininkiai ir kareiviai;
 
 valstybės įmonių pareigūnai.
 
-2. Teisę gauti pareigūnų ir karių
+2. Teisę gauti pareigūnų ir
 
-valstybinę pensiją taip pat turi šio straipsnio 1 dalyje išvardyti pareigūnai
+karių valstybinę pensiją taip pat turi šio straipsnio 1 dalyje išvardyti
 
-ir kariai, kurie, būdami įtraukti į Vidaus reikalų ministerijos, Krašto
+pareigūnai ir kariai, kurie, būdami įtraukti į Vidaus reikalų ministerijos,
 
-apsaugos ministerijos kadrų rezervą, Valstybės saugumo departamento,
+Krašto apsaugos ministerijos kadrų, Antrojo operatyvinių tarnybų departamento
 
-Specialiųjų tyrimų tarnybos pareigūnų rezervą, dirba kitose Lietuvos
+prie Krašto apsaugos ministerijos rezervą, Valstybės saugumo departamento,
 
-Respublikos ministerijose, departamentuose, įstaigose ir organizacijose.
+Specialiųjų tyrimų tarnybos pareigūnų rezervą, dirba kitose Lietuvos Respublikos
+
+ministerijose, departamentuose, įstaigose ir organizacijose.
 
 3. Teisę gauti pareigūnų ir karių netekto darbingumo
 
@@ -125,6 +131,12 @@ tarnyba ar mokymais. Šiems asmenims žuvus tarnybos ar mokymų metu dėl
 priežasčių, susijusių su tarnyba ar mokymais, teisę gauti pareigūnų ir karių
 
 valstybines našlių ir našlaičių pensijas turi jų sutuoktiniai ir vaikai.
+
+Straipsnio pakeitimai:
+
+Nr. X-506, 2006-01-20,
+
+Žin., 2006, Nr. 17-601 (2006-02-11)
 
 4 straipsnis. Pareigūnų ir karių
 
@@ -168,11 +180,11 @@ pensijai skirti
 
 Vidaus reikalų, valstybės saugumo, krašto apsaugos,
 
-prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento, jam pavaldžių
+prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento, jam
 
-įstaigų bei valstybės įmonių pareigūnams ir kariams į tarnybos laiką pensijai
+pavaldžių įstaigų bei valstybės įmonių pareigūnams ir kariams į tarnybos laiką
 
-skirti įskaitomas:
+pensijai skirti įskaitomas:
 
 1) tarnybos vidaus reikalų, krašto apsaugos, valstybės
 
@@ -186,13 +198,29 @@ paskyrimo į pareigūno ar kario pareigas dienos;
 
 pareigūnai ar kariai dirbti jose buvo paskirti būdami įtraukti į Vidaus reikalų
 
-ministerijos ar Krašto apsaugos ministerijos kadrų rezervą, Valstybės saugumo
+ministerijos ar Krašto apsaugos ministerijos kadrų, Antrojo operatyvinių
 
-departamento bei Specialiųjų tyrimų tarnybos pareigūnų rezervą;
+tarnybų departamento prie Krašto apsaugos ministerijos rezervą, Valstybės
+
+saugumo departamento bei Specialiųjų tyrimų tarnybos pareigūnų rezervą;
 
 3) nuteisto pareigūno ar kario bausmės
 
 atlikimo laikas, jeigu šis pareigūnas ar karys vėliau reabilituotas.
+
+4) tarnybos Antrajame operatyvinių tarnybų
+
+departamente prie Krašto apsaugos ministerijos laikas darbo sutarties ir
+
+Valstybės tarnybos įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos
+
+statutinio tarnautojo pareigoms.
+
+Straipsnio pakeitimai:
+
+Nr. X-506, 2006-01-20,
+
+Žin., 2006, Nr. 17-601 (2006-02-11)
 
 7 straipsnis. Pareigūnų ir karių valstybinės pensijos
 
@@ -226,11 +254,9 @@ kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti,
 
 skiriama po 2 procentus šio straipsnio 1 dalyje nurodyto darbo užmokesčio,
 
-ištarnavusiems nuo 10 iki 20 metų – 20 procentų šio darbo užmokesčio, o
+ištarnavusiems nuo 10 iki 20 metų – 20 procentų šio darbo užmokesčio, o ištarnavusiems
 
-ištarnavusiems daugiau kaip 20 metų skiriama šio straipsnio 2 dalyje nurodyto
-
-dydžio pensija.
+daugiau kaip 20 metų skiriama šio straipsnio 2 dalyje nurodyto dydžio pensija.
 
 8 straipsnis. Pareigūnų ir karių valstybinė netekto
 
@@ -436,11 +462,11 @@ persikėlus nuolat gyventi į užsienį
 
 1. Pensininkui, persikėlusiam nuolat
 
-gyventi į užsienį, paskirtoji pareigūnų ir karių valstybinė pensija už tarnybą
+gyventi į užsienį, paskirtoji pareigūnų ir karių valstybinė pensija už tarnybą siunčiama
 
-siunčiama ten, kur šis asmuo gyvena, jei išvykusio pensininko tarnybos
+ten, kur šis asmuo gyvena, jei išvykusio pensininko tarnybos Lietuvoje laikas
 
-Lietuvoje laikas pensijai skirti ne mažesnis kaip 15 metų.
+pensijai skirti ne mažesnis kaip 15 metų.
 
 2. Kitais atvejais pensija išmokama už
 
@@ -536,13 +562,13 @@ specialiosiose vidurinėse, aukštesniosiose Lietuvos Respublikos policijos
 
 valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai
 
-skirti Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką pensijai
+skirti Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką
 
-skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose, aukštesniosiose ir
+pensijai skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose,
 
-specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę asmenys iš karto
+aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę
 
-paskirti pareigūnais.
+asmenys iš karto paskirti pareigūnais.
 
 4. Į Valstybės saugumo departamento
 
@@ -582,7 +608,9 @@ valstybinio socialinio draudimo įmokų mokėjimą, nuo tos dienos, nuo kurios j
 
 tapo vienu iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų
 
-įstatymo 2 straipsnio 1 dalies 1–6, 8 ir 9 punktuose, arba ūkininku ar jo partneriu.
+įstatymo 2 straipsnio 1 dalies 1–6, 8 ir 9 punktuose, arba ūkininku ar jo
+
+partneriu.
 
 7. Pareigūnams ir kariams, kuriems iki
 
@@ -614,9 +642,9 @@ pensiją, gautą 1994 metų gruodžio mėnesį, arba didesnė kaip 500 litų, sk
 
 ir toliau mokamos abi apskaičiuotosios pensijos. Priešingu atveju pareigūnui
 
-arba kariui mokama 1994 metų gruodžio mėnesio dydžio pensija, bet ne didesnė
+arba kariui mokama 1994 metų gruodžio mėnesio dydžio pensija, bet ne didesnė kaip
 
-kaip 500 litų, ir ji neindeksuojama bei niekaip kitaip nedidinama. Abi
+500 litų, ir ji neindeksuojama bei niekaip kitaip nedidinama. Abi
 
 apskaičiuotosios pensijos indeksuojamos įstatymų nustatyta tvarka. Kai jų suma
 
@@ -716,13 +744,11 @@ Nr. VIII-828,
 
 98.07.01, Žin., 1998, Nr.62-1777 (98.07.10)
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS
 
-RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS
+VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR
 
-PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 9, 10 IR 16 STRAIPSNIŲ
-
-PAPILDYMO ĮSTATYMAS
+KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 9, 10 IR 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
 4. Lietuvos
 
@@ -780,11 +806,11 @@ Nr. VIII-1654, 00.05.02, Žin., 2000,
 
 Nr.41-1167 (00.05.19)
 
-VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO
+VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS
 
-APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO
+IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAVADINIMO, 1,
 
-PAVADINIMO, 1, 3, 6, 12, 16 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+3, 6, 12, 16 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas
 
@@ -1068,6 +1094,28 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO PAKEITIMO
 
 Įstatymas įsigalioja nuo 2006 m. sausio 1 d.
 
+19.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-506,
+
+2006-01-20, Žin., 2006, Nr. 17-601 (2006-02-11)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1 IR 6 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -1098,21 +1146,21 @@ RESPUBLIKOS KONSTITUCIJAI, TAIP PAT DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1995
 
 M. SAUSIO 20 D. NUTARIMU NR. 83 PATVIRTINTŲ VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ
 
-TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO,
-
-JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ
-
-PENSIJŲ SKYRIMO BEI MOKĖJIMO NUOSTATŲ 25 PUNKTO 2 PASTRAIPOS (2001 M. GEGUŽĖS
-
-25 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR ŠIŲ NUOSTATŲ
-
-5 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ
-
 TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIMŲ
 
 DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ
 
-VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO 4 DALIAI
+VALSTYBINIŲ PENSIJŲ SKYRIMO BEI MOKĖJIMO NUOSTATŲ 25 PUNKTO 2 PASTRAIPOS (2001
+
+M. GEGUŽĖS 25 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR
+
+ŠIŲ NUOSTATŲ 5 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ,
+
+SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS,
+
+KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR
+
+KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO 4 DALIAI
 
 ***
 
@@ -1120,9 +1168,9 @@ Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2006-01-04)
+Aušrinė Trapinskienė (2006-02-13)
 
-ausra.bodin@lrs.lt
+autrap@lrs.lt
 
 2 straipsnis. Pareigūnų ir karių
 
