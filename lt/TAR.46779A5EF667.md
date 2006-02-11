@@ -4,7 +4,7 @@ identifier: "TAR.46779A5EF667"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-27"
-last_updated: "1996-01-17"
+last_updated: "2006-02-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.46779A5EF667"
 department: "Lietuvos Respublikos Seimas"
@@ -59,11 +59,13 @@ asmenų, įtariamų padarius nusikaltimą, suėmimą turi ir prokuroras. Ši iš
 
 vienerius metus po minėtos Konvencijos įsigaliojimo Lietuvos Respublikoje;
 
-2) Lietuvos Respublika daro išlygą, pagal kurią minėtos
+2) (neteko galios nuo 2006-02-11).
 
-Konvencijos 5 straipsnio reikalavimai nebus taikomi drausminės nuobaudos - arešto
+Straipsnio pakeitimai:
 
-- skyrimo krašto apsaugos kariams pagal Drausmės statutą atveju.
+Nr. X-499, 2006-01-19,
+
+Žin., 2006, Nr. 17-595 (2006-02-11)
 
 3. Vadovaujantis Europos žmogaus teisių ir pagrindinių
 
@@ -128,6 +130,22 @@ LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL EUROPOS ŽMOGAUS TEISIŲ IR PAGRINDINIŲ
 LAISVIŲ APSAUGOS KONVENCIJOS, JOS KETVIRTOJO, SEPTINTOJO IR VIENUOLIKTOJO
 
 PROTOKOLŲ RATIFIKAVIMO" PAPILDYMO
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-499, 2006-01-19,
+
+Žin., 2006, Nr. 17-595 (2006-02-11)
+
+ĮSTATYMO „DĖL EUROPOS ŽMOGAUS
+
+TEISIŲ IR PAGRINDINIŲ LAISVIŲ APSAUGOS KONVENCIJOS, JOS KETVIRTOJO, SEPTINTOJO
+
+IR VIENUOLIKTOJO PROTOKOLŲ RATIFIKAVIMO“ PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
