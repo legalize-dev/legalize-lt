@@ -4,7 +4,7 @@ identifier: "TAR.075D49C59279"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-07-25"
-last_updated: "2004-08-07"
+last_updated: "2006-04-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.075D49C59279"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -2125,9 +2125,13 @@ institucija.
 
 4. Žemės
 
-reformos žemėtvarkos projektus rengia konkursą laimėję juridiniai asmenys,
+reformos žemėtvarkos projektus rengia konkursą laimėję fiziniai ir juridiniai
 
-Vyriausybės nustatyta tvarka gavę leidimus dirbti žemėtvarkos darbus.
+asmenys, Lietuvos Respublikoje įsteigti Europos Sąjungos valstybių narių ir
+
+kitų Europos ekonominės erdvės susitarimą pasirašiusių valstybių įmonių
+
+filialai, Vyriausybės nustatyta tvarka gavę leidimus dirbti žemėtvarkos darbus.
 
 Konkursus dėl žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo
 
@@ -2143,15 +2147,19 @@ Nr. VIII-1757,
 
 00.06.27, Žin., 2000, Nr.56-1649 (00.07.12)
 
-Nr. IX-496, 2001-08-03,
+Nr. IX-496,
 
-Žin., 2001, Nr. 71-2524 (2001-08-17)
+2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
 
 Nr.
 
 IX-1171,
 
 2002-11-05, Žin., 2002, Nr. 112-4975 (2002-11-22)
+
+Nr. X-540, 2006-03-30,
+
+Žin., 2006, Nr. 42-1503 (2006-04-15)
 
 17 straipsnis.
 
@@ -2541,9 +2549,9 @@ metodiką.
 
 savininkams ir žemės naudotojams išduodami žemės nuosavybę ir žemės naudojimo
 
-teisę patvirtinantys dokumentai. Šie dokumentai parengiami ir išduodami
+teisę patvirtinantys dokumentai. Šie dokumentai parengiami ir išduodami Vyriausybės
 
-Vyriausybės nustatyta tvarka.
+nustatyta tvarka.
 
 3. Vietovėje
 
@@ -2565,9 +2573,9 @@ Nr. VIII-1757,
 
 00.06.27, Žin., 2000, Nr.56-1649 (00.07.12)
 
-Nr. IX-496,
+Nr. IX-496, 2001-08-03,
 
-2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
+Žin., 2001, Nr. 71-2524 (2001-08-17)
 
 22 straipsnis. Specialiosios nuostatos
 
@@ -2607,9 +2615,9 @@ Nr. IX-496,
 
 Nr.
 
-IX-1415, 2003-04-03,
+IX-1415,
 
-Žin., 2003, Nr. 38-1660 (2003-04-24)
+2003-04-03, Žin., 2003, Nr. 38-1660 (2003-04-24)
 
 LIETUVOS RESPUBLIKOS
 
@@ -2628,6 +2636,8 @@ Vilnius,
 1991 m. liepos 25 d.
 
 Nr. I-1607
+
+_____________
 
 Pakeitimai:
 
@@ -2875,9 +2885,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1171,
+Nr. IX-1171, 2002-11-05,
 
-2002-11-05, Žin., 2002, Nr. 112-4975 (2002-11-22)
+Žin., 2002, Nr. 112-4975 (2002-11-22)
 
 ŽEMĖS
 
@@ -2943,13 +2953,29 @@ Nr. IX-2407,
 
 REFORMOS ĮSTATYMO 7, 8, 9, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+18.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-540,
+
+2006-03-30, Žin., 2006, Nr. 42-1503 (2006-04-15)
+
+ŽEMĖS
+
+REFORMOS ĮSTATYMO 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2004-08-09)
+Aušrinė Trapinskienė (2006-04-21)
 
-aubodi@lrs.lt
+autrap@lrs.lt
 
