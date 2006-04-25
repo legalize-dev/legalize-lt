@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "2005-12-22"
+last_updated: "2006-04-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -1178,29 +1178,83 @@ išlyga reiškia, kad Valstybės kontrolės pareigūnas neprisiekė ir todėl ne
 
 eiti pareigų.
 
-30 straipsnis. Valstybės
+30 straipsnis.
 
-kontrolieriaus, jo pavaduotojų ir Valstybės kontrolės
+Valstybės kontrolieriaus, jo pavaduotojų ir Valstybės kontrolės pareigūnų
 
-pareigūnų priesaikos tekstas
+priesaikos tekstas
 
-1. Valstybės kontrolierius, jo pavaduotojai ir
+1.
 
-Valstybės kontrolės pareigūnai prisiekia Lietuvos Respublikai šiais žodžiais:
+Valstybės kontrolierius, jo pavaduotojai ir Valstybės kontrolės pareigūnai
 
-„Aš, (vardas,
+prisiekia Lietuvos Respublikai. Prisiekiantis asmuo turi teisę pasirinkti vieną
 
-pavardė), prisiekiu būti ištikimas Lietuvos Respublikai; gerbti ir vykdyti jos
+iš šių priesaikos tekstų:
 
-Konstituciją bei įstatymus; visomis išgalėmis stiprinti Lietuvos
+1) „Aš,
 
-nepriklausomybę, saugoti valstybės turtą, sąžiningai tarnauti Tėvynei,
+(vardas, pavardė),
 
-demokratijai, Lietuvos žmonių gerovei.
+prisiekiu būti ištikimas
 
-Tepadeda man Dievas“.
+Lietuvos Respublikai;
 
-2. Prisiekti galima ir be paskutiniojo sakinio.
+gerbti ir
+
+vykdyti jos Konstituciją bei įstatymus;
+
+visomis
+
+išgalėmis stiprinti Lietuvos nepriklausomybę,
+
+saugoti
+
+valstybės turtą,
+
+sąžiningai
+
+tarnauti Tėvynei, demokratijai, Lietuvos žmonių gerovei.
+
+Tepadeda
+
+man Dievas.“;
+
+2) „Aš,
+
+(vardas, pavardė),
+
+prisiekiu būti
+
+ištikimas Lietuvos Respublikai;
+
+gerbti ir
+
+vykdyti jos Konstituciją bei įstatymus;
+
+visomis
+
+išgalėmis stiprinti Lietuvos nepriklausomybę,
+
+saugoti
+
+valstybės turtą,
+
+sąžiningai tarnauti Tėvynei,
+
+demokratijai, Lietuvos žmonių gerovei.“
+
+2. Prisiekęs asmuo po
+
+priesaikos tekstu pasirašo.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. X-581, 2006-04-25,
+
+Žin., 2006, Nr. 53-1930 (2006-05-13)
 
 31 straipsnis. Turto ir pajamų deklaravimas
 
@@ -1308,11 +1362,11 @@ dydžio kompensacija.
 
 7. Pasibaigus
 
-valstybės kontrolieriaus įgaliojimų laikui, valstybės kontrolierius turi teisę įstatymų
+valstybės kontrolieriaus įgaliojimų laikui, valstybės kontrolierius turi teisę
 
-nustatyta tvarka grįžti į ankstesnį darbą. Tuo atveju jam išmokama trijų
+įstatymų nustatyta tvarka grįžti į ankstesnį darbą. Tuo atveju jam išmokama
 
-mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
+trijų mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
 
 8. Atsiradus šio straipsnio 1 dalies 3, 4, 5, 7
 
@@ -1458,9 +1512,7 @@ VALSTYBĖS KONTROLĖS PAREIGŪNŲ MOKYMAS IR
 
 KVALIFIKACIJOS KĖLIMAS
 
-39 straipsnis. Mokymo ir kvalifikacijos kėlimo
-
-procesas
+39 straipsnis. Mokymo ir kvalifikacijos kėlimo procesas
 
 1. Valstybės
 
@@ -1490,9 +1542,7 @@ kontrolės pareigūnų sisteminio, profesinio mokymo ir kvalifikacijos kėlimo
 
 tvarką valstybinio audito srityje nustato valstybės kontrolierius.
 
-40 straipsnis. Mokymo ir kvalifikacijos kėlimo
-
-finansavimas
+40 straipsnis. Mokymo ir kvalifikacijos kėlimo finansavimas
 
 1. Valstybės kontrolės pareigūnų mokymas ir
 
@@ -1528,9 +1578,9 @@ straipsnis. Darbo užmokestis
 
 užmokestį, apmokėjimo tvarką ir sąlygas nustato šis ir kiti įstatymai.
 
-2. Valstybės kontrolėje dirbantiems pareigūnams už
+2. Valstybės kontrolėje dirbantiems pareigūnams
 
-didelio masto sudėtingus ir reikšmingus valstybei ir visuomenei valstybinius
+už didelio masto sudėtingus ir reikšmingus valstybei ir visuomenei valstybinius
 
 auditus gali būti išmokama vienkartinė piniginė išmoka. Vienkartinė piniginė
 
@@ -1814,11 +1864,27 @@ X-468,
 
 VALSTYBĖS
 
-KONTROLĖS ĮSTATYMO 2, 4, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 21, 23, 41
+KONTROLĖS ĮSTATYMO 2, 4, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 21, 23, 41 STRAIPSNIŲ
 
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, V SKYRIAUS PAVADINIMO PAKEITIMO IR 42
+PAKEITIMO IR PAPILDYMO, V SKYRIAUS PAVADINIMO PAKEITIMO IR 42 STRAIPSNIO
 
-STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-581,
+
+2006-04-25, Žin., 2006, Nr. 53-1930 (2006-05-13)
+
+VALSTYBĖS
+
+KONTROLĖS ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 ***
 
@@ -1826,7 +1892,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-01-17)
+Aušrinė Trapinskienė (2006-05-15)
 
 autrap@lrs.lt
 
