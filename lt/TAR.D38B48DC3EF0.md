@@ -4,7 +4,7 @@ identifier: "TAR.D38B48DC3EF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-06-05"
-last_updated: "2004-05-01"
+last_updated: "2006-05-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D38B48DC3EF0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2006-05-05
+Suvestinė redakcija nuo 2006-05-06 iki 2008-06-20
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2754, i. k. 1031010ISTA0IX-1597
 
@@ -42,13 +42,21 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-1. Atsakinga institucija – valstybės narės teisės aktu paskirta institucija, kuri informuojama apie sistemos dalyvio operacijų sustabdymą arba pradedamą jo bankroto procesą ir yra atsakinga už kitų valstybių narių atitinkamų institucijų informavimą.
+1. Atsakinga institucija – Lietuvos Respublikos arba valstybės narės teisės aktu paskirta institucija, kuri informuojama apie sistemos dalyvio operacijų sustabdymą arba pradedamą jo bankroto procesą ir yra atsakinga už kitų valstybių narių atitinkamų institucijų informavimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 2. Atsiskaitymų sąskaita – Lietuvos banko, valstybės narės centrinio banko, Europos centrinio banko, atsiskaitymų tarpininko arba pagrindinės sutarties šalies tvarkoma sąskaita, naudojama sistemos dalyvio lėšoms arba vertybiniams popieriams laikyti ir atsiskaitymams tarp sistemos dalyvių atlikti.
 
 3. Atsiskaitymų tarpininkas – juridinis asmuo, kuris atidaro ir tvarko įstaigų ir (arba) pagrindinės sutarties šalies atsiskaitymų sąskaitas, per kurias sistemoje atliekami atsiskaitymai pagal pervedimo nurodymus ar lėšų pervedimas pagal mokėjimo nurodymus, ir kuris atsiskaitymo tikslais gali teikti paskolas įstaigoms ar pagrindinėms sutarties šalims.
 
-4. Bankroto proceso pradžia – momentas, kai Lietuvos Respublikos, valstybės narės arba trečiosios valstybės, kurioje buveinę turintis dalyvis dalyvauja mokėjimo arba vertybinių popierių atsiskaitymo sistemoje, teismas ar kita įgaliota institucija priima sprendimą dėl bankroto bylos sistemos dalyviui iškėlimo ar pradeda kitą panašią procedūrą.
+4. Bankroto proceso pradžia – momentas, kai Lietuvos Respublikos, valstybės narės arba trečiosios valstybės teismas ar kita įgaliota institucija priima sprendimą dėl bankroto bylos sistemos dalyviui iškėlimo ar pradeda kitą panašią procedūrą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 5. Dukterinė įmonė – Vertybinių popierių rinkos įstatyme apibūdinta įmonė.
 
@@ -72,7 +80,11 @@ Nr. IX-2128, 2004-04-15, Žin., 2004, Nr. 61-2184 (2004-04-27), i. k. 1041010IST
 
 4) valstybės institucija arba įmonė, kurios prievolių įvykdymą garantuoja valstybė;
 
-5) bet kuris juridinis asmuo, kurio buveinė nėra valstybėje narėje ir kurio veikla būdinga valstybėse narėse licencijuotų kredito įstaigų arba finansų maklerio įmonių veiklai.
+5) bet kuris juridinis asmuo, kurio buveinė nėra Lietuvos Respublikoje arba valstybėje narėje ir kurio veikla būdinga Lietuvos Respublikoje arba valstybėse narėse licencijuotų kredito įstaigų arba finansų maklerio įmonių veiklai.
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 10. Kliringo namai – juridinis asmuo, atsakingas už įstaigų, pagrindinės sutarties šalies ir (ar) atsiskaitymų tarpininko vertybinių popierių ir pinigų grynųjų likučių apskaičiavimą.
 
@@ -80,7 +92,11 @@ Nr. IX-2128, 2004-04-15, Žin., 2004, Nr. 61-2184 (2004-04-27), i. k. 1041010IST
 
 12. Mokėjimo sistema – trijų arba daugiau sistemos dalyvių (neskaitant atsiskaitymų tarpininko, pagrindinės sutarties šalies arba kliringo namų) susitarimu veikianti sistema, turinti bendras taisykles ir standartizuotą procedūrą mokėjimo nurodymams tarp sistemos dalyvių vykdyti.
 
-13. Operacijų sustabdymas – Lietuvos Respublikos arba valstybės narės teismo ar kitos įgaliotos institucijos sprendimo, susijusio su draudimu sistemos dalyviui disponuoti lėšomis ar vertybiniais popieriais, esančiais atsiskaitymų sąskaitoje, priėmimas arba teismo laikinųjų apsaugos priemonių ar priežiūros institucijos poveikio priemonių sistemos dalyviui pritaikymas, dėl kurio sustabdomi arba apribojami vertybinių popierių pervedimo ir (ar) mokėjimo nurodymai.
+13. Operacijų sustabdymas – pagal Lietuvos Respublikos, valstybės narės arba trečiosios valstybės teisę priimtas sprendimas, susijęs su draudimu sistemos dalyviui disponuoti lėšomis ar vertybiniais popieriais, esančiais atsiskaitymų sąskaitoje, arba teismo laikinųjų apsaugos priemonių ar priežiūros institucijos poveikio priemonių sistemos dalyviui pritaikymas, dėl kurio sustabdomi arba apribojami vertybinių popierių pervedimo ir (ar) mokėjimo nurodymai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 14. Pagrindinė sutarties šalis – juridinis asmuo, kuris yra įstaigų tarpininkas sistemoje ir veikia kaip sandorio šalis visoms įstaigoms, ir jeigu kuri nors iš jų neįvykdo įsipareigojimų, susijusių su pervedimo nurodymų arba mokėjimo nurodymų vykdymu, prisiima jos įsipareigojimus.
 
@@ -88,13 +104,21 @@ Nr. IX-2128, 2004-04-15, Žin., 2004, Nr. 61-2184 (2004-04-27), i. k. 1041010IST
 
 16. Priežiūros institucija – Lietuvos Respublikos arba valstybės narės institucija, atliekanti šio straipsnio 9 dalies 2 ir 3 punktuose nurodytų įstaigų arba įmonių priežiūrą.
 
-17. Sistema – mokėjimo arba vertybinių popierių atsiskaitymo sistema, kurios dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje (taip pat ir dalyvio bankroto atveju), pasirinko Lietuvos Respublikos teisę. Lietuvos Respublikos teisę sistemos dalyviai gali pasirinkti tik tuo atveju, kai bent vieno sistemos dalyvio buveinė yra Lietuvos Respublikoje.
+17. Sistema – mokėjimo arba vertybinių popierių atsiskaitymo sistema, kurios dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje (taip pat dėl dalyvio operacijų sustabdymo ir (ar) bankroto atveju), pasirinko Lietuvos Respublikos arba valstybės narės teisę. Lietuvos Respublikos teisę sistemos dalyviai gali pasirinkti tik tuo atveju, kai bent vieno sistemos dalyvio buveinė yra Lietuvos Respublikoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 18. Sistemos dalyvis – įstaiga, pagrindinė sutarties šalis, atsiskaitymų tarpininkas arba kliringo namai. Sistemos taisyklės gali numatyti, kad tas pats dalyvis atlieka pagrindinės sutarties šalies, atsiskaitymų tarpininko ir kliringo namų arba kelių minėtų asmenų funkcijas.
 
 19. Sistemos operatorius – juridinis asmuo, atsakingas už sistemos veiklą pagal sistemos taisykles. Juo gali būti ir sistemos dalyvis.
 
-20. Valstybė narė – valstybė Europos Sąjungos narė arba Europos laisvosios prekybos asociacijos (ELPA) valstybė.
+20. Valstybė narė – Europos Sąjungos valstybė narė arba Europos ekonominės erdvės (EEE) valstybė, išskyrus Lietuvos Respubliką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 21. Vertybiniai popieriai – vertybiniai popieriai ir investicinės priemonės, nurodyti Vertybinių popierių rinkos įstatymo 3 straipsnio 1 ir 2 dalyse, bei vekseliai, išrašyti pagal Įsakomųjų ir paprastųjų vekselių įstatymą.
 
@@ -102,7 +126,15 @@ Nr. IX-2128, 2004-04-15, Žin., 2004, Nr. 61-2184 (2004-04-27), i. k. 1041010IST
 
 3 straipsnis. Įstatymo taikymo sritis
 
-1. Šio Įstatymo nuostatos taikomos 2 straipsnio 17 dalyje nurodytai sistemai, kurios operatorius yra Lietuvos bankas arba kuri įregistruota šio Įstatymo 5 straipsnyje nustatyta tvarka, tokios sistemos dalyviams, įkaitui, kuris skirtas dalyvių teisėms ir įsipareigojimams, galintiems atsirasti dėl naudojimosi sistema, užtikrinti ir įkaitui, kuris pateiktas Lietuvos bankui, valstybių narių centriniams bankams ir Europos centriniam bankui kaip prievolės pagal jų atliekamas operacijas įvykdymo užtikrinimas.
+1. Šio įstatymo nuostatos taikomos:
+
+1) sistemai, kurios dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, pasirinko Lietuvos Respublikos teisę ir kurios operatorius yra Lietuvos bankas arba kuri įregistruota šio Įstatymo 5 straipsnyje nustatyta tvarka, tokios sistemos dalyviams, įkaitui, kuris skirtas dalyvių teisėms ir įsipareigojimams, galintiems atsirasti dėl naudojimosi sistema, užtikrinti ir įkaitui, kuris pateiktas Lietuvos bankui, valstybių narių centriniams bankams ir Europos centriniam bankui kaip prievolės pagal jų atliekamas operacijas įvykdymo užtikrinimas;
+
+2) Lietuvos Respublikoje registruotiems dalyviams, dalyvaujantiems sistemoje, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma valstybės narės teisė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 2. Sistemoms, kurių operatorius yra Lietuvos bankas, šio Įstatymo 5 ir 6 straipsniai netaikomi.
 
@@ -134,7 +166,11 @@ MOKĖJIMO IR VERTYBINIŲ POPIERIŲ ATSISKAITYMO SISTEMOS
 
 5 straipsnis. Sistemų registravimas
 
-1. Šio Įstatymo 2 straipsnio 17 dalyje nurodytos sistemos, išskyrus sistemas, kurių operatorius yra Lietuvos bankas, prieš pradėdamos veikti privalo būti registruotos Lietuvos banke.
+1. Sistemos, kurių dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, pasirinko Lietuvos Respublikos teisę, išskyrus sistemas, kurių operatorius yra Lietuvos bankas, prieš pradėdamos veikti privalo būti registruotos Lietuvos banke.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 2. Sistema gali būti įregistruota, jeigu sistemos operatorius raštu kreipiasi į Lietuvos banką ir jam pateikia:
 
@@ -194,7 +230,11 @@ OPERACIJŲ SUSTABDYMO IR BANKROTO PROCESO PADARINIŲ APRIBOJIMAS
 
 4. Jei pervedimo nurodymai ir (ar) mokėjimo nurodymai buvo įtraukti į sistemą po to, kai sistemos dalyvio operacijos buvo sustabdytos ir (ar) pradėtas jo bankroto procesas, ir šie nurodymai įvykdomi operacijų sustabdymo ir (ar) bankroto proceso pradžios dieną, jie yra galiojantys ir negali būti ginčijami trečiųjų asmenų tik tuo atveju, jeigu pasibaigus atsiskaitymui sistemos operatorius, atsiskaitymų tarpininkas, pagrindinė sandorio šalis arba kliringo namai gali įrodyti, kad nežinojo ir neturėjo žinoti apie operacijų sustabdymo ir (ar) bankroto proceso pradžią.
 
-5. Įskaitymo nepanaikina tai, kad sandoris, sudarytas iki bankroto proceso pradžios, pripažįstamas negaliojančiu dėl pagrindų, kuriuos numato sistemos dalyvio bankrotą reglamentuojantys įstatymai.
+5. Sandorio, sudaryto iki operacijų sustabdymo ir (ar) bankroto proceso pradžios, pripažinimas negaliojančiu pagal Lietuvos Respublikos arba sistemos dalyvio bankrotą reglamentuojančius įstatymus ar kitais pagrindais nepanaikina pervedimo nurodymų, mokėjimo nurodymų bei jų įskaitymo ir gali turėti įtakos tik mokėtojo ir gavėjo tarpusavio teisėms bei įsipareigojimams, bet ne sistemai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 6. Sistemos dalyvis ar tretieji asmenys negali atšaukti pervedimo nurodymo ir (ar) mokėjimo nurodymo nuo sistemos taisyklėse nustatyto momento.
 
@@ -204,13 +244,25 @@ OPERACIJŲ SUSTABDYMO IR BANKROTO PROCESO PADARINIŲ APRIBOJIMAS
 
 2. Pareigą informuoti Lietuvos banką, kaip nurodyta šio straipsnio 1 dalyje, taip pat turi teismas arba kita institucija, priėmusi sprendimą dėl Lietuvos Respublikoje registruoto sistemos dalyvio operacijų sustabdymo.
 
-3. Lietuvos bankas, gavęs šio straipsnio 1 ar 2 dalyje nurodytą pranešimą arba pranešimą iš valstybės narės atsakingos institucijos apie toje valstybėje narėje registruoto sistemos dalyvio  operacijų sustabdymą arba pradėtą jo bankroto procesą, nedelsdamas privalo pranešti sistemų, kuriose tas dalyvis dalyvauja, operatoriams.
+3. Lietuvos bankas, gavęs šio straipsnio 1 ar 2 dalyje nurodytą pranešimą arba pranešimą iš valstybės narės atsakingos institucijos apie dalyvio, dalyvaujančio sistemoje, kurios dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, pasirinko Lietuvos Respublikos teisę, operacijų sustabdymą arba pradėtą jo bankroto procesą, nedelsdamas privalo pranešti tos sistemos operatoriui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 4. Bankroto procesas neturi įtakos sistemos dalyvio teisių ir įsipareigojimų, atsiradusių dėl jo dalyvavimo sistemoje iki bankroto proceso pradžios, vykdymui.
 
-5. Jeigu Lietuvos Respublikoje registruotam dalyviui, dalyvaujančiam sistemoje, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma valstybės narės teisė, pradėtas bankroto procesas, jo teisėms ir įsipareigojimams, atsiradusiems dėl dalyvavimo toje sistemoje, taikoma tos valstybės narės teisė.
+5. Jeigu Lietuvos Respublikoje registruotam dalyviui, dalyvaujančiam sistemoje, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma valstybės narės teisė, sustabdytos operacijos ir (ar) pradėtas bankroto procesas, jo teisėms ir įsipareigojimams, atsiradusiems dėl dalyvavimo toje sistemoje, taikoma tos valstybės narės teisė.
 
-6. Jeigu yra pradėtas dalyvio, kuris dalyvauja 2 straipsnio 17 dalyje nurodytoje sistemoje, bankroto procesas, teisėms ir įsipareigojimams, atsiradusiems dėl jo dalyvavimo sistemoje, taikoma Lietuvos Respublikos teisė.
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
+
+6. Jeigu yra pradėtas dalyvio, dalyvaujančio sistemoje, kurios dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, pasirinko Lietuvos Respublikos teisę, bankroto procesas ir (ar) sustabdytos tokio dalyvio operacijos, teisėms ir įsipareigojimams, atsiradusiems dėl jo dalyvavimo sistemoje, taikoma Lietuvos Respublikos teisė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 9 straipsnis. Teisės į įkaitą
 
@@ -232,9 +284,17 @@ BAIGIAMOSIOS NUOSTATOS
 
 1. Lietuvos bankas privalo teikti Europos Bendrijų Komisijai informaciją apie sistemas, šio Įstatymo nustatyta tvarka įregistruotas Lietuvos banke, ir sistemas, kurių operatorius yra pats Lietuvos bankas, taip pat nurodyti, kad jis yra šiame Įstatyme nurodyta atsakinga institucija Lietuvoje.
 
-2. Jei sistemos, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma valstybės narės, išskyrus Lietuvos Respubliką, teisė, dalyviui, kuris registruotas Lietuvos Respublikoje, sustabdomos operacijos arba pradedamas bankroto procesas, Lietuvos bankas, gavęs šio Įstatymo 8 straipsnio 1 arba 2 dalyje nurodytą pranešimą, nedelsdamas turi pranešti apie tai tos valstybės narės atsakingai institucijai.
+2. Jei sistemos, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma valstybės narės teisė, dalyviui, kuris registruotas Lietuvos Respublikoje, sustabdomos operacijos arba pradedamas bankroto procesas, Lietuvos bankas, gavęs šio Įstatymo 8 straipsnio 1 arba 2 dalyje nurodytą pranešimą, nedelsdamas turi pranešti apie tai tos valstybės narės atsakingai institucijai.
 
-3. Sistemos, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma valstybės narės, išskyrus Lietuvos Respubliką, teisė, dalyvis, registruotas Lietuvos Respublikoje, turi pranešti Lietuvos bankui apie savo dalyvavimą toje sistemoje ir jo nutraukimą arba sustabdymą.
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
+
+3. Sistemos, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma valstybės narės teisė, dalyvis, registruotas Lietuvos Respublikoje, turi pranešti Lietuvos bankui apie savo dalyvavimą toje sistemoje ir jo nutraukimą arba sustabdymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 4. Lietuvos bankas nedelsdamas turi pranešti valstybės narės atsakingai institucijai apie toje valstybėje narėje registruotą dalyvį, dalyvaujantį sistemoje, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma Lietuvos Respublikos teisė.
 
@@ -275,4 +335,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2128, 2004-04-15, Žin., 2004, Nr. 61-2184 (2004-04-27), i. k. 1041010ISTA0IX-2128
 
 Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 2 ir 9 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
+
+Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 2, 3, 5, 7, 8 ir 10 straipsnių pakeitimo įstatymas
 
