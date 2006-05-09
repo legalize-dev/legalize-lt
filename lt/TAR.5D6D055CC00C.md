@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2005-02-15"
+last_updated: "2006-05-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -1374,59 +1374,33 @@ rengiami valstybės, miško valdytojų ir savininkų lėšomis.
 
 Miškotvarkos projektas
 
-1. Miškotvarkos projektas – tai
+1. Miškotvarkos
 
-specialiojo teritorijų planavimo dokumentas, pagal kurį organizuojamas miškų
+projektas – tai dokumentas, pagal kurį organizuojama miškų ūkio veikla ir
 
-ūkis ir atliekami visi miškų atkūrimo, naudojimo ir miško žemių tvarkymo
-
-darbai. Jis
-
-sudaromas visoms miško valdoms. Miškai turi būti tvarkomi, naudojami ir
-
-atkuriami pagal miškotvarkos projektą.
+atliekami visi miškų atkūrimo, naudojimo ir miško žemių tvarkymo darbai.
 
 2. Skiriami šie miškotvarkos projektų tipai:
 
-1) miškų tvarkymo schemos – rengiamos miško valdytojų bei regionų
+1) miškų tvarkymo schemos – tai specialiojo teritorijų
 
-teritorijoms ir skiriamos bendrajai miško žemių naudojimo politikai nustatyti,
+planavimo dokumentai, rengiami valstybinių miškų valdytojų bei regionų
+
+teritorijoms ir skiriami bendrajai miško žemių naudojimo politikai nustatyti,
 
 jų tvarkymo koncepcijai parengti;
 
-2) vidinės miškotvarkos projektai –
+2) vidinės miškotvarkos projektai – tai miškų ūkio
 
-rengiami miško valdytojų bei privačioms miškų valdoms ir skiriami konkrečių
+veiklos planai, rengiami visoms valstybinių miškų valdytojų bei privačioms
 
-tvarkymo priemonių sistemai jose nustatyti.
+miškų valdoms ir skiriami konkrečių tvarkymo priemonių sistemai jose nustatyti.
 
-3. Miškotvarkos projektai rengiami
+3. Miškotvarkos projektai rengiami pagal Aplinkos
 
-pagal Vyriausybės įgaliotos institucijos patvirtintas šių projektų rengimo
+ministerijos patvirtintas šių projektų rengimo taisykles bei metodiką ir jose
 
-taisykles bei metodiką ir jose nustatytus kriterijus. Sudėtinės miškotvarkos
-
-projekto dalys yra šios:
-
-1) pagrindžiamoji – apima esamos miško žemių
-
-naudojimo, apsaugos, miškotvarkos problemų analizę, ankstesnių miškotvarkos
-
-projektų įgyvendinimo rezultatų įvertinimą ir socialinių bei ekonominių
-
-poreikių prognozę;
-
-2) projektinė – apima sprendinių parengimą planuojamos
-
-miškų teritorijos naudojimo tikslų ir tvarkymo koncepcijos (miškų tvarkymo
-
-schemos) arba tvarkymo priemonių sistemos (vidinės miškotvarkos projektai)
-
-klausimais;
-
-3) baigiamoji – apima planavimo dokumento sprendinių
-
-pasekmių numatymą, svarstymą, derinimą ir tvirtinimą.
+nustatytus kriterijus.
 
 4. Aplinkos ministerija, atsižvelgdama į miško valdos
 
@@ -1452,15 +1426,15 @@ ministerijos patvirtintą metodiką.
 
 Metinę pagrindinių miško kirtimų normą valstybiniuose miškuose tvirtina
 
-Vyriausybė. Nustatyta metinė pagrindinių miško kirtimų norma negali būti viršijama,
+Vyriausybė. Nustatyta metinė pagrindinių miško kirtimų norma negali būti
 
-išskyrus stichinių nelaimių atvejus, kai šalies mastu išdžiūvusių, išverstų,
+viršijama, išskyrus stichinių nelaimių atvejus, kai šalies mastu išdžiūvusių,
 
-išlaužytų, išdegusių arba kitaip pažeistų medynų tūris sudaro daugiau kaip
+išverstų, išlaužytų, išdegusių arba kitaip pažeistų medynų tūris sudaro daugiau
 
-vieną ketvirtąją metinės kirtimo normos dalį. Bendra visų rūšių metinė miško
+kaip vieną ketvirtąją metinės kirtimo normos dalį. Bendra visų rūšių metinė
 
-kirtimų norma šalyje negali viršyti metinio medienos prieaugio.
+miško kirtimų norma šalyje negali viršyti metinio medienos prieaugio.
 
 6.
 
@@ -1493,6 +1467,14 @@ juridiniai asmenys Aplinkos ministerijos nustatyta tvarka. Laikantis šios
 tvarkos, centralizuotai kaupiami ir tvarkomi miškotvarkos duomenys, rengiami,
 
 derinami ir tvirtinami miškotvarkos projektai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. X-599, 2006-05-09,
+
+Žin., 2006, Nr. 61-2174 (2006-05-31)
 
 IV
 
@@ -1606,9 +1588,9 @@ sveikatingumui palaikyti ir gerinti.
 
 Taip pat gali būti atliekami miško kirtimai kraštovaizdžiui formuoti,
 
-biotechninėms priemonėms vykdyti, priešgaisrinėms juostoms įrengti,
+biotechninėms priemonėms vykdyti, priešgaisrinėms juostoms įrengti, technologinių
 
-technologinių įrenginių vietoms paruošti ir kitiems miško ūkio tikslams.
+įrenginių vietoms paruošti ir kitiems miško ūkio tikslams.
 
 V SKYRIUS
 
@@ -1836,9 +1818,9 @@ RESPUBLIKOS MIŠKŲ ĮSTATYMO 7 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 2.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. VIII-434,
 
@@ -1966,11 +1948,11 @@ MIŠKŲ
 
 Šis Įstatymas
 
-įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr.
+įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
 
-89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr.
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y.
 
-37-1341), t. y. nuo 2003 m. gegužės 1 d.
+nuo 2003 m. gegužės 1 d.
 
 10.
 
@@ -2010,13 +1992,27 @@ MIŠKŲ
 
 ĮSTATYMO 2, 5, 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+12.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-599, 2006-05-09,
+
+Žin., 2006, Nr. 61-2174 (2006-05-31)
+
+MIŠKŲ ĮSTATYMO 14 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-03-07)
+Aušrinė Trapinskienė (2006-06-01)
 
 autrap@lrs.lt
 
