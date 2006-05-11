@@ -4,7 +4,7 @@ identifier: "TAR.48CA7D6FA983"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-20"
-last_updated: "2005-11-22"
+last_updated: "2006-05-11"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.48CA7D6FA983"
 department: "Lietuvos Respublikos Seimas"
@@ -298,7 +298,7 @@ ekonominiams ir strateginiams interesams;
 
 7) organizuoja
 
-ir užtikrina techninę vyriausybinio ryšio apsaugą;
+ir užtikrina vyriausybinį ryšį bei jo techninę apsaugą;
 
 8) kontroliuoja Lietuvos Respublikos įslaptintos informacijos, žymimos slaptumo žymomis „Visiškai slaptai“, „Slaptai“, „Konfidencialiai“, apsaugą valstybės viduje bei jos įstaigose užsienyje;
 
@@ -329,6 +329,10 @@ Nr. VIII-1945,
 Nr. IX-2182,
 
 2004-04-27, Žin., 2004, Nr. 73-2516 (2004-04-30)
+
+Nr. X-609, 2006-05-11,
+
+Žin., 2006, Nr. 61-2176 (2006-05-31)
 
 8(1)
 
@@ -392,15 +396,15 @@ struktūra formuojama, remiantis Saugumo departamento paskirtimi ir jam
 
 keliamais uždaviniais.
 
-Saugumo
+Saugumo departamento
 
-departamento sistemą sudaro Saugumo departamento centrinis aparatas, teritorinės
+sistemą sudaro Saugumo departamento centrinis aparatas, teritorinės įstaigos ir
 
-įstaigos ir specialios paskirties įstaigos prie Saugumo departamento. Saugumo
+specialios paskirties įstaigos prie Saugumo departamento. Saugumo departamento
 
-departamento struktūrą sudaro Saugumo departamento centrinis aparatas (su
+struktūrą sudaro Saugumo departamento centrinis aparatas (su struktūriniais
 
-struktūriniais padaliniais) bei teritorinės įstaigos.
+padaliniais) bei teritorinės įstaigos.
 
 Saugumo departamento
 
@@ -458,15 +462,15 @@ teritorinį suskirstymą, steigiamos Saugumo departamento teritorinės įstaigos
 
 12 straipsnis. Specialios paskirties įstaiga prie Saugumo departamento
 
-Saugumo
+Saugumo departamento
 
-departamento atskiroms funkcijoms (vyriausybinių ryšių apsauga, specialios
+atskiroms funkcijoms (vyriausybinių ryšių apsauga, specialios informacijos
 
-informacijos apsauga ir kitos) atlikti prie Saugumo departamento gali būti
+apsauga ir kitos) atlikti prie Saugumo departamento gali būti steigiamos
 
-steigiamos specialios paskirties įstaigos. Šias įstaigas steigia, likviduoja,
+specialios paskirties įstaigos. Šias įstaigas steigia, likviduoja, jų veiklos
 
-jų veiklos nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
 
 Specialios
 
@@ -476,15 +480,37 @@ išlaikomas viešasis juridinis asmuo. Specialios paskirties įstaiga yra jai
 
 skirtų asignavimų valdytoja.
 
+Vyriausybinio
+
+ryšio paslaugas valstybės ir savivaldybių institucijoms, valstybės įstaigoms ir
+
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių
+
+ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme
+
+nurodytoms valstybės įmonėms teikia specialios paskirties įstaiga
+
+Vyriausybinių ryšių centras prie Valstybės saugumo departamento. Konkretų tokių
+
+institucijų, įstaigų, įmonių ir pareigybių, kurias užimantiems asmenims
+
+suteikiama teisė naudotis vyriausybinio ryšio paslaugomis, sąrašą tvirtina Lietuvos
+
+Respublikos Vyriausybė.
+
 Straipsnio
 
 pakeitimai:
 
 Nr.
 
-IX-1043, 2002-07-05,
+IX-1043,
 
-Žin., 2002, Nr. 73-3102 (2002-07-19)
+2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+
+Nr. X-609, 2006-05-11,
+
+Žin., 2006, Nr. 61-2176 (2006-05-31)
 
 13 straipsnis. Saugumo departamento darbuotojų statusas
 
@@ -1042,11 +1068,11 @@ Nr.I-694, 94.12.13,
 
 departamento pareigūnų pensijos
 
-Saugumo departamento
+Saugumo departamento pareigūnų
 
-pareigūnų aprūpinimo pensijomis tvarką reguliuoja atskiras atitinkamų tarnybų
+aprūpinimo pensijomis tvarką reguliuoja atskiras atitinkamų tarnybų pareigūnų
 
-pareigūnų pensinio aprūpinimo įstatymas.
+pensinio aprūpinimo įstatymas.
 
 30 straipsnis. Saugumo
 
@@ -1180,11 +1206,13 @@ APRŪPINIMAS
 
 35 straipsnis. Saugumo departamento finansavimas ir paramaSaugumo departamentas finansuojamas iš Lietuvos valstybės biudžeto.
 
-Saugumo departamentas šiame įstatyme nustatytiems uždaviniams
+Saugumo departamentas šiame įstatyme nustatytiems
 
-ir funkcijoms įgyvendinti turi teisę įstatymų nustatyta tvarka gauti paramą iš
+uždaviniams ir funkcijoms įgyvendinti turi teisę įstatymų nustatyta tvarka
 
-užsienio valstybių institucijų bei įstaigų ir tarptautinių organizacijų.
+gauti paramą iš užsienio valstybių institucijų bei įstaigų ir tarptautinių
+
+organizacijų.
 
 Straipsnio
 
@@ -1230,11 +1258,11 @@ Skelbiu šį Lietuvos
 
 Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
+RESPUBLIKOS
 
-BRAZAUSKAS
+PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
 
-____________________
+_________________
 
 Pakeitimai:
 
@@ -1274,11 +1302,11 @@ KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU
 
 LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU
 
-LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ
+LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO
 
-VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO
+KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO IR
 
-IR PAPILDYMO
+PAPILDYMO
 
 3.
 
@@ -1338,9 +1366,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1451,
+Nr. IX-1451, 2003-04-03,
 
-2003-04-03, Žin., 2003, Nr. 38-1696 (2003-04-24)
+Žin., 2003, Nr. 38-1696 (2003-04-24)
 
 VALSTYBĖS
 
@@ -1388,13 +1416,31 @@ VALSTYBĖS
 
 SAUGUMO DEPARTAMENTO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-609,
+
+2006-05-11, Žin., 2006, Nr. 61-2176 (2006-05-31)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO ĮSTATYMO 8 IR 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-12-12)
+Aušrinė Trapinskienė (2006-06-01)
 
 autrap@lrs.lt
 
