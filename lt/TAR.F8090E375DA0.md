@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2005-11-15"
+last_updated: "2006-05-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -2761,7 +2761,21 @@ rūšių viešajame transporte, išskyrus tolimojo susisiekimo traukinius, kuriu
 
 turi būti numatyti atskiri vagonai nerūkantiesiems ir rūkantiesiems, taip pat
 
-orlaivius, kuriuose numatytos atskiros vietos nerūkantiesiems ir rūkantiesiems.
+orlaivius, kuriuose numatytos atskiros vietos nerūkantiesiems ir rūkantiesiems;
+
+1
+
+dalis papildoma 5 punktu nuo 2007 m. sausio 1 d.:
+
+5) restoranuose,
+
+kavinėse, baruose, kitose viešojo maitinimo įstaigose, klubuose, diskotekose,
+
+išskyrus specialiai įrengtus cigarų ar pypkių klubus. Cigarų ir pypkių klubų
+
+steigimo tvarką ir sąlygas nustato Lietuvos Respublikos Vyriausybė ar jos
+
+įgaliota institucija.
 
 2. Restoranuose,
 
@@ -2776,6 +2790,10 @@ klientai (lankytojai) ir darbuotojai būtų apsaugoti nuo tabako dūmų. Šių
 patalpų (vietų) įrengimo ir eksploatavimo reikalavimus nustato Lietuvos
 
 Respublikos Vyriausybė ar jos įgaliota institucija.
+
+2
+
+dalis netenka galios nuo 2007 m. sausio 1 d.
 
 3. Savivaldybių
 
@@ -2794,6 +2812,14 @@ užterštu oru, taip pat kad matomose vietose būtų iškabinti įspėjamieji u�
 ar ženklai apie draudimą rūkyti, įrengtos specialios rūkymui skirtos patalpos
 
 (vietos) ir iškabinti jas nurodantys užrašai ar ženklai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. X-605, 2006-05-11,
+
+Žin., 2006, Nr. 61-2175 (2006-05-31)
 
 20 straipsnis.
 
@@ -3153,9 +3179,9 @@ kompetentingos institucijos, bendradarbiaudamos su Europos Sąjungos
 
 institucijomis ir vykdydamos šiame Įstatyme nustatytus Lietuvos Respublikos
 
-įsipareigojimus arba Europos Bendrijų Komisijos prašymu, turi teikti visą
+įsipareigojimus arba Europos Bendrijų Komisijos prašymu, turi teikti visą reikalingą
 
-reikalingą informaciją.
+informaciją.
 
 24 straipsnis.
 
@@ -3405,6 +3431,10 @@ asmenų filialai baudžiami nuo aštuonių tūkstančių iki dešimties tūkstan
 
 bauda.
 
+12
+
+dalies redakcija iki 2007 m. sausio 1 d.:
+
 12. Už šio
 
 Įstatymo 19 straipsnio 2 dalyje nustatyto reikalavimo įrengti restoranuose,
@@ -3415,11 +3445,21 @@ neuždrausta rūkyti, atskiras patalpas (vietas) rūkantiems asmenims pažeidim�
 
 juridiniai asmenys baudžiami nuo vieno tūkstančio iki penkių tūkstančių litų
 
-bauda.]
+bauda.
 
 Pastaba. 26 straipsnio 12 dalyje numatyta
 
 ekonominė sankcija juridiniams asmenims taikoma nuo 2006 m. gegužės 1 d.
+
+12
+
+dalies redakcija nuo 2007 m. sausio 1 d.:
+
+12.
+
+Už šio Įstatymo 19 straipsnio 1 dalies 5 punkte nustatyto reikalavimo pažeidimą
+
+juridiniai asmenys baudžiami nuo vieno tūkstančio iki penkių tūkstančių litų bauda.
 
 13. Už šio Įstatymo nuostatų pažeidimus baudas
 
@@ -3430,6 +3470,10 @@ skiria:
 visuomenės sveikatos priežiūros tarnyba prie Lietuvos Respublikos sveikatos
 
 apsaugos ministerijos – už 9 straipsnio 1 dalies pažeidimą;
+
+13
+
+dalies 2 punkto redakcija iki 2007 m. sausio 1 d.:
 
 2) Valstybinė
 
@@ -3445,17 +3489,35 @@ priemonėse), 4 ir 5 dalių, 18 straipsnio, 19 straipsnio 2 dalies nuostatų
 
 pažeidimus;
 
+13
+
+dalies 2 punkto redakcija nuo 2007 m. sausio 1 d.:
+
+2) Valstybės
+
+tabako ir alkoholio kontrolės tarnyba – už 10 straipsnio 1 dalies, 12
+
+straipsnio 1, 3, 4, 5 ir 7 dalių, 13 straipsnio, 14 straipsnio 1 dalies, 14
+
+straipsnio 3 dalies 1, 2, 3, 4 ir 6 punktų, 14 straipsnio 5 dalies, 15, 16
+
+straipsnių, 17 straipsnio 1 dalies (išskyrus pažeidimus visuomenės informavimo
+
+priemonėse), 4 ir 5 dalių, 18 straipsnio, 19 straipsnio 1 dalies 5
+
+punkto nuostatų pažeidimus;
+
 3) Nacionalinė
 
 vartotojų teisių apsaugos taryba prie Lietuvos Respublikos teisingumo
 
 ministerijos – už 14 straipsnio 3 dalies 5 punkto (kai Valstybinė ne maisto
 
-produktų inspekcija prie Lietuvos Respublikos ūkio ministerijos pateikia pažeidimo
+produktų inspekcija prie Lietuvos Respublikos ūkio ministerijos pateikia
 
-protokolą) ir už 17 straipsnio 1 dalies nuostatų pažeidimus visuomenės
+pažeidimo protokolą) ir už 17 straipsnio 1 dalies nuostatų pažeidimus
 
-informavimo priemonėse;
+visuomenės informavimo priemonėse;
 
 4) Valstybinė
 
@@ -3609,6 +3671,10 @@ Nr. X-390, 2005-11-15,
 
 Žin., 2005, Nr. 142-5105 (2005-12-03)
 
+Nr. X-605, 2006-05-11,
+
+Žin., 2006, Nr. 61-2175 (2006-05-31)
+
 27 straipsnis.
 
 Įstatymo pažeidimų protokolas ir bylų nagrinėjimo terminai
@@ -3695,13 +3761,15 @@ bylą, proceso šalys turi teisę susipažinti su surinkta medžiaga, duoti žod
 
 ir rašytinius paaiškinimus, pateikti įrodymus, pareikšti prašymus.
 
-3. Jei proceso
+3. Jei
 
-šalys nedalyvauja, byla gali būti išnagrinėta tik tais atvejais, kai yra
+proceso šalys nedalyvauja, byla gali būti išnagrinėta tik tais atvejais, kai
 
-duomenų, kad joms buvo laiku pranešta apie bylos nagrinėjimo vietą ir laiką,
+yra duomenų, kad joms buvo laiku pranešta apie bylos nagrinėjimo vietą ir
 
-taip pat suteikta teisė susipažinti su bylos medžiaga ir duoti paaiškinimus.
+laiką, taip pat suteikta teisė susipažinti su bylos medžiaga ir duoti
+
+paaiškinimus.
 
 31 straipsnis.
 
@@ -3737,9 +3805,9 @@ bylą, priimtame nutarime turi būti nurodyta:
 
 priėmusios institucijos pavadinimas;
 
-2) bylos nagrinėjimo
+2) bylos
 
-data ir vieta;
+nagrinėjimo data ir vieta;
 
 3) duomenys apie
 
@@ -3805,9 +3873,9 @@ Nutarimų dėl ekonominių sankcijų taikymo apskundimas
 
 1. Asmenys, nesutinkantys su nutarimu taikyti
 
-ekonominę sankciją, turi teisę per vieną mėnesį nuo nutarimo įteikimo dienos apskųsti
+ekonominę sankciją, turi teisę per vieną mėnesį nuo nutarimo įteikimo dienos
 
-jį teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo
+apskųsti jį teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo
 
 nustatyta tvarka.
 
@@ -3869,7 +3937,7 @@ Skelbiu šį Lietuvos
 
 Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 
 BRAZAUSKAS
 
@@ -3913,9 +3981,9 @@ Nr. VIII-1568,
 
 2000.03.16, Žin., 2000, Nr.28-758 (2000.04.05)
 
-TABAKO KONTROLĖS ĮSTATYMO 6, 8, 9, 21 STRAIPSNIŲ
+TABAKO KONTROLĖS ĮSTATYMO 6, 8, 9, 21 STRAIPSNIŲ PAKEITIMO
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+IR PAPILDYMO ĮSTATYMAS
 
 4.
 
@@ -3937,9 +4005,7 @@ Nr. IX-124, 2000 12 21, Žin., 2000, Nr.
 
 113-3615 (2000 12 30)
 
-TABAKO KONTROLĖS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
+TABAKO KONTROLĖS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šis
 
@@ -4013,7 +4079,7 @@ Tabako kontrolės įstatymo 26 straipsnio 12 dalį ir šio skirsnio 2 straipsnį
 
 gegužės 1 d.
 
-Nauja įstatymo redakcija nuo 2004 m. gegužės 5 d.
+Nauja įstatymo redakcija nuo 2004 m. gegužės 1 d.
 
 9.
 
@@ -4040,6 +4106,26 @@ KONTROLĖS ĮSTATYMO 2, 4, 5, 6, 8, 14, 17, 18 IR 26 STRAIPSNIŲ PAKEITIMO
 17 straipsnio 3 dalies 1 punkto nuostata dėl prekių ženklo galioja iki 2008 m.
 
 gruodžio 31 d.
+
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-605,
+
+2006-05-11, Žin., 2006, Nr. 61-2175 (2006-05-31)
+
+TABAKO
+
+KONTROLĖS ĮSTATYMO 19, 26 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2007 m. sausio 1 d.
 
 *** Pabaiga ***
 
@@ -4095,7 +4181,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-12-06)
+Aušrinė Trapinskienė (2006-06-02)
 
 autrap@lrs.lt
 
