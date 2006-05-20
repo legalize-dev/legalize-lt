@@ -4,7 +4,7 @@ identifier: "TAR.1A98CE535B1C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-20"
-last_updated: "2004-01-01"
+last_updated: "2006-05-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1A98CE535B1C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,13 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aplinkos monitoringo įstatymas
 
-Suvestinė redakcija nuo 2004-01-01 iki 2006-05-19
+Suvestinė redakcija nuo 2006-05-20 iki 2016-07-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 112-2824, i. k. 0971010ISTAVIII-529
+
+Nauja redakcija nuo 2006-05-20:
+
+Nr. X-595, 2006-05-04, Žin. 2006, Nr. 57-2025 (2006-05-20), i. k. 1061010ISTA000X-595
 
 LIETUVOS RESPUBLIKOS APLINKOS MONITORINGO ĮSTATYMAS
 
@@ -26,191 +30,199 @@ LIETUVOS RESPUBLIKOS APLINKOS MONITORINGO ĮSTATYMAS
 
 Vilnius
 
-I SKYRIUS
+PIRMASIS SKIRSNIS
 
 BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Aplinkos monitoringo įstatymas nustato monitoringo organizacinę struktūrą, vykdymo tvarką ir su tuo susijusią atsakomybę. Jis taikomas aplinkos monitoringui, kuris yra apibrėžtas Aplinkos apsaugos ir Žemės gelmių įstatymuose.
+Aplinkos monitoringo įstatymas nustato aplinkos monitoringo turinį, struktūrą, įgyvendinimą, aplinkos monitoringo procese dalyvaujančių subjektų teises bei pareigas ir atsakomybę.
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Aplinkos monitoringas – sistemingas aplinkos bei jos komponentų būklės ir kitimo stebėjimas, antropogeninio poveikio vertinimas ir prognozė.
+1. Aplinkos monitoringas – sistemingas gamtinės aplinkos bei jos elementų būklės kitimo ir antropogeninio poveikio stebėjimas, vertinimas ir prognozė.
 
-2. Antropogeninis poveikis – žmogaus veiklos įtaka aplinkai.
+2. Antropogeninis poveikis – žmogaus veiklos įtaka gamtinei aplinkai.
 
-3. Valstybinis aplinkos monitoringas – valstybės lygiu visoje Lietuvos Respublikos teritorijoje vykdomi nuolatiniai gamtinės aplinkos būklės stebėjimai.
+3. Gamtinė aplinka – aplinka, kurią sudaro natūralūs ar antropogenizuoti gyvosios ir negyvosios gamtos elementai ir jų funkcinės sistemos.
 
-4. Savivaldybių aplinkos monitoringas – savivaldybių lygiu joms priskirtose teritorijose vykdomi aplinkos būklės stebėjimai.
+4. Savivaldybių aplinkos monitoringas – savivaldybių lygmeniu joms priskirtose teritorijose vykdomas aplinkos monitoringas.
 
-5. Ūkio subjektų aplinkos monitoringas – juridinių ir fizinių asmenų, veikiančių aplinką ir naudojančių gamtos išteklius, įstatymo nustatyta tvarka vykdomas ūkio subjektų įtakos gamtinei aplinkai monitoringas.
+5. Ūkio subjektai – fiziniai ar juridiniai asmenys, ar juridinių asmenų, įsisteigusių Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse, filialai Lietuvos Respublikoje, eksploatuojantys ūkinės veiklos objektus ir vykdantys ūkinę veiklą, turinčią ar galinčią turėti įtakos gamtinei aplinkai.
+
+6. Ūkio subjektų aplinkos monitoringas – teisės aktų nustatyta tvarka ūkio subjektų vietiniu lygmeniu vykdomas aplinkos monitoringas.
+
+7. Valstybinis aplinkos monitoringas – valstybės lygmeniu visoje Lietuvos Respublikos teritorijoje vykdomas aplinkos monitoringas.
 
 3 straipsnis. Aplinkos monitoringo uždaviniai
 
 Pagrindiniai aplinkos monitoringo uždaviniai:
 
-1) sistemingai stebėti gamtinės aplinkos ir jos komponentų būklę Lietuvos Respublikos teritorijoje;
+1) nuolat ir sistemingai stebėti gamtinės aplinkos ir jos elementų būklę Lietuvos Respublikos teritorijoje;
 
-2) sisteminti, vertinti ir prognozuoti gamtinėje aplinkoje vykstančius savaiminius ir antropogeninio poveikio sąlygotus pokyčius, aplinkos kitimo tendencijas ir galimas pasekmes;
+2) sisteminti, vertinti ir prognozuoti gamtinėje aplinkoje vykstančius savaiminius ir dėl antropogeninio poveikio atsirandančius pokyčius, gamtinės aplinkos kitimo tendencijas ir galimas pasekmes;
 
-3) kaupti, analizuoti ir teikti valstybės institucijoms, visuomenei informaciją apie aplinkos būklę, reikalingą ūkio plėtros, teritorijų planavimo ir socialinės raidos sprendimams priimti, sveikatos apsaugos, mokslo ir kitoms reikmėms;
+3) kaupti, analizuoti ir teikti valstybės institucijoms, visuomenei informaciją apie gamtinės aplinkos būklę, reikalingą darniam vystymuisi užtikrinti, teritorijų planavimo, socialinės raidos sprendimams priimti, mokslo ir kitoms reikmėms;
 
-4) užtikrinti tarpvalstybinius monitoringo informacijos mainus.
+4) analizuoti ir vertinti vykdomų aplinkosaugos priemonių veiksmingumą;
 
-4 straipsnis. Subjektai, vykdantys aplinkos monitoringą
+5) užtikrinti tarptautinius aplinkos monitoringo informacijos mainus.
 
-Aplinkos monitoringą vykdo valstybės, savivaldos ir mokslo institucijos, veikiantys aplinką ir naudojantys gamtos išteklius ūkio subjektai, taip pat kiti juridiniai ir fiziniai asmenys, šio įstatymo ir kitų teisės aktų nustatyta tvarka renkantys, kaupiantys ir analizuojantys informaciją apie gamtinės aplinkos elementų būklę.
-
-II SKYRIUS
+ANTRASIS SKIRSNIS
 
 APLINKOS MONITORINGO STRUKTŪRA
 
-5 straipsnis. Aplinkos monitoringo sistema
+4 straipsnis. Aplinkos monitoringo sistema
 
-1. Aplinkos monitoringo sistemą sudaro valstybinis, savivaldybių ir ūkio subjektų aplinkos monitoringas, kuriuos vykdant kaupiama ir analizuojama informacija apie visos gamtinės aplinkos elementų būklę ir jos pasikeitimus lokaliu, regiono ir valstybės mastu.
+Aplinkos monitoringo sistemą sudaro valstybinis, savivaldybių ir ūkio subjektų aplinkos monitoringas, kuriuos vykdant kaupiama ir analizuojama informacija apie gamtinės aplinkos elementų būklę ir jos pasikeitimus valstybės, savivaldybių ir vietiniu lygmeniu.
 
-2. Kaip bendro valstybinio aplinkos monitoringo dalis yra vykdomas specialus aplinkos monitoringas (miškų, žemės gelmių), kuris apima vieną tam tikrą aplinkos elementą (miškus, žemės gelmes).
-
-3. Valstybės, savivaldos ir mokslo institucijos, juridiniai ir fiziniai asmenys atskirų programų, projektų ar sutarčių pagrindu gali vykdyti nuolatinius gamtinės aplinkos būklės stebėjimus, kurie nėra valstybinio aplinkos monitoringo sistemos dalis ir šio įstatymo nėra reglamentuojami.
-
-6 straipsnis. Aplinkos monitoringo metodai
-
-1. Valstybinio ir ūkio subjektų aplinkos monitoringo metu stebėjimai, laboratoriniai tyrimai, duomenų apdorojimas ir rezultatų vertinimas yra atliekami vadovaujantis valstybinio aplinkos monitoringo nuostatais, valstybės standartais ir kitais norminių dokumentų įteisintais metodais.
-
-2. Savivaldybių aplinkos monitoringo metu stebėjimai, laboratoriniai tyrimai, duomenų apdorojimas ir rezultatų vertinimas yra atliekami vadovaujantis valstybės standartais ir kitais norminių dokumentų įteisintais metodais.
-
-7 straipsnis. Aplinkos monitoringo objektai
+5 straipsnis. Aplinkos monitoringo objektai
 
 Vykdant aplinkos monitoringą, stebima, vertinama ir prognozuojama:
 
-1) fizikinio, radiacinio, cheminio, biologinio ir kitokio antropogeninio poveikio šaltiniai bei jų įtaka aplinkai;
+1) aplinkos oro, vandens, žemės gelmių, dirvožemio, gyvosios gamtos būklė;
 
-2) oro ir kritulių, paviršinio vandens (upių, ežerų, tvenkinių, Kuršių marių, Baltijos jūros), dirvožemio, žemės gelmių, biotos būklė;
+2) natūralių ir antropogeniškai veikiamų gamtinių sistemų (gamtinių buveinių, ekosistemų) ir kraštovaizdžio būklė;
 
-3) natūralių ir antropogeniškai veikiamų gamtinių komponentų (pelkių, natūralių ir kultūrinių pievų, miškų ir kt.) būklė;
+3) fizikinis, radiacinis, cheminis, biologinis ir kitoks antropogeninis poveikis bei jo įtaka gamtinei aplinkai;
 
-4) aplinkoje vykstančių globalinių procesų kaita ir tendencijos (rūgštieji krituliai, ozono sluoksnio kitimas, šiltnamio efektas ir kt.).
+4) gamtinėje aplinkoje vykstančių globalinių procesų kaita ir tendencijos (rūgštieji krituliai, ozono sluoksnio kitimas, šiltnamio efektas ir kt.).
 
-III SKYRIUS
+6 straipsnis. Aplinkos monitoringo subjektai
+
+Aplinkos monitoringo subjektai yra valstybės, savivaldybių ir mokslo institucijos, ūkio subjektai, kiti asmenys, šio įstatymo ir kitų teisės aktų nustatyta tvarka renkantys, kaupiantys ir analizuojantys duomenis ir informaciją apie gamtinės aplinkos elementų būklę.
+
+TREČIASIS SKIRSNIS
 
 APLINKOS MONITORINGO ĮGYVENDINIMAS
 
-8 straipsnis. Aplinkos monitoringo programa
+7 straipsnis. Valstybinis aplinkos monitoringas
 
-1. Valstybinę aplinkos monitoringo programą rengia Aplinkos apsaugos ministerija kartu su kitomis valstybės institucijomis, vykdančiomis aplinkos monitoringą. Šią programą tvirtina Vyriausybė.
+1. Valstybinis aplinkos monitoringas yra vykdomas siekiant gauti informaciją, leidžiančią integruotai vertinti gamtinius procesus ir antropogeninį poveikį gamtinei aplinkai bei gamtinės aplinkos kokybę Lietuvos Respublikos teritorijoje, prognozuoti ir valdyti gamtinės aplinkos būklę ir ūkinės veiklos įtaką jai tiek nacionaliniu, tiek tarptautiniu mastu. Jis apima natūralias ir antropogeniškai veikiamas gamtines sistemas.
 
-2. Specialaus aplinkos monitoringo programas rengia šios valstybės institucijos: Miškų monitoringo programą – Žemės ir miškų ūkio ministerija, Žemės gelmių monitoringo programą – Lietuvos geologijos tarnyba prie Statybos ir urbanistikos ministerijos (toliau – Lietuvos geologijos tarnyba). Monitoringo programas, suderintas su Aplinkos apsaugos ministerija, tvirtina Vyriausybė arba jos įgaliota institucija.
+2. Valstybinį aplinkos monitoringą organizuoja Aplinkos ministerija, jį vykdo Aplinkos ministerija ar jos įgaliotos institucijos, Žemės ūkio ministerija ar jos įgaliotos institucijos, Valstybinė maisto ir veterinarijos tarnyba, kitos valstybės institucijos.
 
-3. Savivaldybių aplinkos monitoringo programas rengia savivaldos institucijos, jas derina Aplinkos apsaugos ministerija.
+3. Valstybinis aplinkos monitoringas vykdomas pagal Valstybinę aplinkos monitoringo programą. Valstybinę aplinkos monitoringo programą rengia Aplinkos ministerija kartu su kitomis valstybės institucijomis, vykdančiomis aplinkos monitoringą. Šią programą tvirtina Vyriausybė.
 
-4. Ūkio subjektų aplinkos monitoringą vykdo ūkio subjektai. Vykdymo tvarką nustato Aplinkos apsaugos ministerija, suderinusi su Sveikatos apsaugos ministerija. Ūkio subjektų specialaus aplinkos monitoringo vykdymo tvarką tvirtina Žemės ir miškų ūkio ministerija bei Lietuvos geologijos tarnyba, suderinusios su Aplinkos apsaugos ministerija.
+4. Valstybinės aplinkos monitoringo programos turinį, jos rengimo, derinimo, vykdymo, valstybinio aplinkos monitoringo kontrolės užtikrinimo ir informacijos teikimo tvarką nustato Valstybinio aplinkos monitoringo nuostatai. Juos rengia ir tvirtina Aplinkos ministerija.
 
-9 straipsnis. Aplinkos monitoringo nuostatai
+5. Aplinkos ministerija ir kitos valstybinį aplinkos monitoringą vykdančios valstybės institucijos pagal kompetenciją:
 
-1. Stebėjimo vietas, tiriamus parametrus, periodiškumą, informacijos pateikimą ir kitą valstybinio aplinkos monitoringo vykdymo tvarką nustato Valstybinio aplinkos monitoringo nuostatai, kuriuos rengia Aplinkos apsaugos ministerija ir tvirtina Vyriausybė arba jos įgaliota institucija. Jais vadovaujasi visi valstybinio aplinkos monitoringo subjektai.
+1) vykdo Valstybinę aplinkos monitoringo programą ir kontroliuoja jos vykdymą;
 
-2. Savivaldybių aplinkos monitoringo vykdymo tvarką reglamentuoja bendrieji savivaldybių aplinkos monitoringo nuostatai.
+2) kaupia ir saugo valstybinio aplinkos monitoringo duomenis, atlieka kompleksinę jų analizę, vertina gamtinės aplinkos pokyčius;
 
-3. Ūkio subjektų aplinkos monitoringą reglamentuoja Gamtos išteklių naudojimo leidimai, kuriuos rengia ūkio subjektai. Šiuos leidimus derina Aplinkos apsaugos ministerija.
+3) remdamasi valstybinio aplinkos monitoringo duomenimis, nustato aplinkosaugos priemones ir informuoja visuomenę apie gamtinės aplinkos būklę;
 
-10 straipsnis. Valstybinis aplinkos monitoringas
+4) užtikrina aplinkos monitoringo kokybės kontrolę;
 
-1. Valstybinis aplinkos monitoringas yra vykdomas visoje valstybės teritorijoje. Jis apima visas natūralias ir antropogeniškai veikiamas gamtines sistemas.
+5) atstovauja Lietuvos Respublikai aplinkos monitoringo klausimais;
 
-2. Aplinkos apsaugos ministerija organizuoja valstybinį aplinkos monitoringą ir vykdo šias funkcijas:
+6) vykdo kitas su valstybiniu aplinkos monitoringu susijusias funkcijas.
 
-1) kartu su kitais monitoringo subjektais bei valstybės institucijomis, atsakingomis už specialų aplinkos monitoringą, vykdo valstybinį aplinkos monitoringą;
+8 straipsnis. Savivaldybių aplinkos monitoringas
 
-2) vykdo monitoringo kokybės kontrolę ir metodiškai vadovauja programos įgyvendinimui;
+1. Savivaldybių aplinkos monitoringas vykdomas siekiant gauti išsamią informaciją apie savivaldybių teritorijų gamtinės aplinkos būklę, planuoti ir įgyvendinti vietines aplinkosaugos priemones ir užtikrinti tinkamą gamtinės aplinkos kokybę.
 
-3) kuria valstybines ekologines informacines sistemas ir atlieka valstybinio bei ūkio subjektų monitoringo duomenų apie aplinkos būklę kompleksinę analizę;
+2. Savivaldybių aplinkos monitoringas vykdomas pagal savivaldybės aplinkos monitoringo programą, kurią rengia savivaldybės vykdomoji institucija. Savivaldybių aplinkos monitoringo programos turinį, jų rengimo, derinimo, vykdymo, savivaldybių aplinkos monitoringo kontrolės užtikrinimo ir informacijos teikimo tvarką nustato Bendrieji savivaldybių aplinkos monitoringo nuostatai. Šiuos nuostatus rengia ir tvirtina Aplinkos ministerija.
 
-4) kaupia ir saugo aplinkos monitoringo stebėjimo duomenis Aplinkos monitoringo duomenų fonde;
+3. Savivaldybių aplinkos monitoringo programa turi būti suderinta su Aplinkos ministerija arba jos įgaliota institucija Bendrųjų savivaldybių aplinkos monitoringo nuostatų nustatyta tvarka ir patvirtinta savivaldybės tarybos.
 
-5) tvirtina ūkio subjektų aplinkos monitoringo vykdymo tvarką ir kontrolės bei koordinavimo funkcijas;
+4. Savivaldybės institucijos, organizuodamos ir vykdydamos savivaldybių aplinkos monitoringą, turi:
 
-6) analizuoja ir vertina aplinkos pokyčius, informuoja visuomenę ir ūkio subjektus, kasmet pateikia Seimui ir Vyriausybei viešą pranešimą apie aplinkos būklę;
+1) užtikrinti savivaldybės teritorijos gamtinės aplinkos būklės stebėjimus;
 
-7) atstovauja Lietuvos Respublikai tarptautiniais aplinkos monitoringo klausimais;
+2) analizuoti ir vertinti turimus ūkio subjektų aplinkos monitoringo duomenis;
 
-8) pagal savo kompetenciją vykdo kitas su valstybiniu aplinkos monitoringu susijusias funkcijas, kurios neprieštarauja galiojantiems įstatymams.
+3) vertinti ir prognozuoti gamtinės aplinkos pokyčius ir galimas pasekmes;
 
-3. Specialiam aplinkos monitoringui – miškų ir žemės gelmių – metodiškai vadovauja, koordinuoja jo vykdymą, atsako už informacijos duomenų bazes atitinkamai Žemės ir miškų ūkio ministerija bei Lietuvos geologijos tarnyba.
+4) teisės aktų nustatyta tvarka teikti informaciją visuomenei ir valstybės institucijoms.
 
-11 straipsnis. Savivaldybių aplinkos monitoringas
+5. Savivaldybių aplinkos monitoringo duomenys, atitinkantys reikalavimus, keliamus valstybinio aplinkos monitoringo duomenims, Valstybinio aplinkos monitoringo nuostatų nustatyta tvarka naudojami valstybinio aplinkos monitoringo tikslams.
 
-1. Savivaldybių aplinkos monitoringas vykdomas joms priskirtose teritorijose siekiant gauti detalesnę informaciją apie savivaldybių teritorijų gamtinės aplinkos būklę ir, remiantis objektyvia informacija, planuoti bei įgyvendinti vietines aplinkosaugos priemones.
+9 straipsnis. Ūkio subjektų aplinkos monitoringas
 
-2. Savivaldos institucijos organizuoja savivaldybių aplinkos monitoringą pagal programą, suderintą su Aplinkos apsaugos ministerija, ir vykdo šias funkcijas:
+1. Ūkio subjektų aplinkos monitoringas vykdomas siekiant nustatyti ūkio subjektų taršos šaltinių išmetamų teršalų kiekį ir ūkinės veiklos poveikį gamtinei aplinkai ir užtikrinti jų sukeliamos taršos ar kito neigiamo poveikio mažinimą.
 
-1) stebi savo teritorijos gamtinės aplinkos būklę;
+2. Ūkio subjektų aplinkos monitoringas vykdomas pagal ūkio subjektų aplinkos monitoringo programą, kurią rengia patys ūkio subjektai. Ūkio subjektų aplinkos monitoringo programų turinį, jų rengimo, derinimo, vykdymo, kontrolės užtikrinimo ir informacijos teikimo tvarką nustato Ūkio subjektų aplinkos monitoringo nuostatai. Šiuos nuostatus rengia ir tvirtina Aplinkos ministerija.
 
-2) vertina ir prognozuoja aplinkos pokyčius ir galimas pasekmes;
+3. Ūkio subjektų aplinkos monitoringo programa turi būti suderinta ir patvirtinta Ūkio subjektų aplinkos monitoringo nuostatų nustatyta tvarka.
 
-3) teikia informaciją visuomenei ir valstybės institucijoms.
+10 straipsnis. Aplinkos monitoringo kontrolė
 
-12 straipsnis. Ūkio subjektų aplinkos monitoringas
+1. Valstybinio aplinkos monitoringo vykdymą, monitoringo duomenų kokybę, taip pat ar taikomi metodai atitinka teisės aktus, pagal kompetenciją kontroliuoja Aplinkos ministerija ir kitos valstybinį aplinkos monitoringą vykdančios valstybės institucijos.
 
-1. Ūkio subjektai vykdo taršos šaltinių ir jų poveikio aplinkai monitoringą informuodami apie ūkinės veiklos įtaką aplinkai, teikdami monitoringo informaciją valstybės bei savivaldos institucijoms.
+2. Savivaldybių aplinkos monitoringo vykdymą, monitoringo duomenų kokybę, taip pat ar taikomi metodai atitinka teisės aktus, kontroliuoja Aplinkos ministerijos įgaliotos institucijos.
 
-2. Aplinkos apsaugos ministerija Gamtos išteklių naudojimo leidimų išdavimo ir gamtos išteklių naudojimo limitų bei išleidžiamų į aplinką teršalų normatyvų nustatymo taisyklėse nustatyta tvarka sudaro juridinių ir fizinių asmenų, privalančių vykdyti monitoringą, sąrašą.
+3. Ūkio subjektų aplinkos monitoringo vykdymą, monitoringo duomenų kokybę, taip pat ar taikomi metodai atitinka teisės aktus, kontroliuoja Aplinkos ministerijos įgaliotos institucijos.
 
-3. Aplinkos apsaugos ministerijos nustatyta tvarka ūkio subjektai aplinkos monitoringo duomenis perduoda į Aplinkos monitoringo duomenų fondą. Ūkio subjektų vykdomo miškų monitoringo ir žemės gelmių monitoringo duomenys taip pat perduodami atitinkamai Žemės ir miškų ūkio ministerijai ir Lietuvos geologijos tarnybai jų nustatyta tvarka.
+11 straipsnis. Aplinkos monitoringo tyrimų ir duomenų kokybės užtikrinimas
 
-13 straipsnis. Aplinkos monitoringo finansavimas
+1. Aplinkos monitoringo vykdymui taikomi tyrimų ir matavimų metodai turi atitikti teisės aktuose įtvirtintus reikalavimus.
 
-1. Valstybinis ir specialusis aplinkos monitoringas finansuojamas iš valstybės biudžeto lėšų.
+2. Laboratorijos, atliekančios taršos šaltinių išmetamų į aplinką teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) matavimus ir tyrimus, turi turėti leidimus šiems matavimams ir tyrimams atlikti arba būti akredituotos teisės aktų nustatyta tvarka. Leidimų atlikti taršos šaltinių išmetamų į aplinką teršalų ir teršalų aplinkos elementuose matavimus ir tyrimus išdavimo tvarką nustato Aplinkos ministerija.
 
-Straipsnio dalies pakeitimai:
+3. Tyrimų ir matavimų kokybė turi būti užtikrinama diegiant tyrimų ir matavimų vadybos sistemas, atitinkančias teisės aktų reikalavimus.
 
-Nr. IX-1613, 2003-06-10, Žin., 2003, Nr. 61-2766 (2003-06-27), i. k. 1031010ISTA0IX-1613
+4. Monitoringo duomenų kokybė turi būti užtikrinama diegiant duomenų kokybės vadybos sistemas, atitinkančias teisės aktų reikalavimus.
+
+12 straipsnis. Aplinkos monitoringo duomenų ir informacijos kaupimas ir saugojimas
+
+1. Valstybinio aplinkos monitoringo duomenis ir informaciją pagal kompetenciją renka ir saugo Aplinkos ministerija arba jos įgaliotos institucijos bei kitos valstybinį aplinkos monitoringą vykdančios valstybės institucijos arba jų įgaliotos institucijos Valstybinio aplinkos monitoringo nuostatų nustatyta tvarka.
+
+2. Savivaldybių aplinkos monitoringo duomenys ir informacija renkama ir saugoma Bendrųjų savivaldybių aplinkos monitoringo nuostatų nustatyta tvarka.
+
+3. Ūkio subjektų aplinkos monitoringo duomenys ir informacija renkama ir saugoma Ūkio subjektų aplinkos monitoringo nuostatų nustatyta tvarka.
+
+13 straipsnis. Aplinkos monitoringo informacijos pateikimas
+
+1. Aplinkos monitoringo duomenys ir informacija valstybės, savivaldybių ir mokslo institucijoms, kitiems asmenims teikiama įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+2. Aplinkos monitoringo informacija kitoms valstybėms ir tarptautinėms organizacijoms teikiama įstatymų ir tarptautinių susitarimų nustatyta tvarka.
+
+KETVIRTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
+
+14 straipsnis. Aplinkos monitoringo finansavimas
+
+1. Valstybinis aplinkos monitoringas finansuojamas iš valstybės biudžeto lėšų.
 
 2. Savivaldybių aplinkos monitoringas finansuojamas iš savivaldybių biudžeto lėšų.
 
-Straipsnio dalies pakeitimai:
+3. Ūkio subjektų aplinkos monitoringą finansuoja ūkio subjektai savo lėšomis.
+
+4. Aplinkos monitoringui finansuoti gali būti naudojamos tarptautinių organizacijų, programų ir kitos teisėtai gautos lėšos.
+
+15 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+
+Asmenys, pažeidę šio įstatymo nuostatas, atsako įstatymų nustatyta tvarka.
+
+16 straipsnis. Ginčų aplinkos monitoringo klausimais sprendimas
+
+Ginčus aplinkos monitoringo klausimais sprendžia teismas įstatymų nustatyta tvarka.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. IX-1613, 2003-06-10, Žin., 2003, Nr. 61-2766 (2003-06-27), i. k. 1031010ISTA0IX-1613
 
-3. Ūkio subjektų aplinkos monitoringą finansuoja juridiniai ir fiziniai asmenys savo lėšomis.
+Lietuvos Respublikos aplinkos monitoringo įstatymo 13 straipsnio pakeitimo įstatymas
 
-Straipsnio dalies numeracijos pakeitimas:
+2.
 
-Nr. IX-1613, 2003-06-10, Žin., 2003, Nr. 61-2766 (2003-06-27), i. k. 1031010ISTA0IX-1613
+Lietuvos Respublikos Seimas, Įstatymas
 
-4. Aplinkos monitoringui finansuoti gali būti naudojamos tarptautinių organizacijų bei programų, specialiųjų fondų ir rėmėjų šiam tikslui skiriamos lėšos.
+Nr. X-595, 2006-05-04, Žin., 2006, Nr. 57-2025 (2006-05-20), i. k. 1061010ISTA000X-595
 
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. IX-1613, 2003-06-10, Žin., 2003, Nr. 61-2766 (2003-06-27), i. k. 1031010ISTA0IX-1613
-
-14 straipsnis. Aplinkos monitoringo kontrolė
-
-Aplinkos monitoringo vykdymą, monitoringo duomenų ir informacijos kokybę, atitikimą standartams ir kitiems norminiams dokumentams kontroliuoja Aplinkos apsaugos ministerija, o specialaus aplinkos monitoringo – taip pat ir jo tvarką nustatančios valstybės institucijos.
-
-15 straipsnis. Aplinkos monitoringo duomenų kokybės užtikrinimas
-
-Aplinkos monitoringo duomenų kokybė užtikrinama:
-
-1) sukuriant ir įgyvendinant valstybinę duomenų kokybės kontrolės sistemą;
-
-2) įgyvendinant įstatymų nustatytą ekologinių tyrimų laboratorijų atestavimą ir akreditavimą;
-
-3) standartizuojant monitoringo įgyvendinimo priemones, metodus, metodikas ir taisykles;
-
-4) dalyvaujant tarptautinėse monitoringo ir naudojamų metodikų atestacijos programose.
-
-16 straipsnis. Aplinkos monitoringo informacijos standartizavimas, kaupimas ir saugojimas
-
-1. Lietuvos Respublikoje informacija renkama, kaupiama, analizuojama ir naudojama atitinkamų norminių dokumentų, valstybės standartų nustatyta tvarka.
-
-2. Valstybės ir savivaldos institucijos, organizacijos, kiti juridiniai ir fiziniai asmenys, vykdantys valstybinį, savivaldybių ir ūkio subjektų aplinkos monitoringą, informaciją nustatyta tvarka pateikia Aplinkos apsaugos ministerijai.
-
-3. Už aplinkos monitoringo informacijos patikimumą atsako jos pateikėjas.
-
-4. Aplinkos monitoringo informacija renkama, kaupiama ir saugoma Aplinkos apsaugos ministerijos Aplinkos monitoringo duomenų fonde.
-
-5. Aplinkos monitoringo duomenų fondą tvarko, jo nuostatus tvirtina Aplinkos apsaugos ministerija. Specialaus aplinkos monitoringo duomenų bazes tvarko šios valstybės institucijos: miškų monitoringo duomenų bazes – Žemės ir miškų ūkio ministerija, žemės gelmių monitoringo duomenų bazes – Lietuvos geologijos tarnyba.
+Lietuvos Respublikos aplinkos monitoringo įstatymo pakeitimo įstatymas
 
 17 straipsnis. Aplinkos monitoringo informacijos pateikimas
 
