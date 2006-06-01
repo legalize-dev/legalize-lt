@@ -4,7 +4,7 @@ identifier: "TAR.FDF42614DE52"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2006-01-01"
+last_updated: "2006-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 department: "Lietuvos Respublikos Seimas"
@@ -176,23 +176,7 @@ Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos
 
 civilinę krašto apsaugos tarnybą atliekantys statutiniai tarnautojai;
 
-5 punkto redakcija iki 2006 m. sausio 1 d.:
-
-5) nesukakę senatvės
-
-pensijos amžiaus nedirbantys valstybės tarnautojų ir profesinės karo tarnybos
-
-karių sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su
-
-valstybės tarnautoju ar profesinės karo tarnybos kariu, dirbančiu ar
-
-atliekančiu karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje,
-
-konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės
-
-organizacijos;
-
-5 punkto redakcija nuo 2006 m. sausio 1 d.:
+5 punkto redakcija iki 2006 m. birželio 1 d.:
 
 5) nesukakę senatvės
 
@@ -211,6 +195,38 @@ atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie
 tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje ar
 
 gynybos institucijoje;
+
+5 punkto redakcija nuo 2006 m. birželio 1 d.:
+
+5) nesukakę senatvės
+
+pensijos amžiaus ir negaunantys pajamų, susijusių su darbo santykiais,
+
+valstybės tarnautojų ir profesinės karo tarnybos karių sutuoktiniai – tuo
+
+laikotarpiu, kai jie gyvena užsienyje kartu su valstybės tarnautoju, jeigu
+
+valstybės tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje
+
+atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie
+
+tarptautinės organizacijos, užsienio valstybės institucijoje, tarptautinėje organizacijoje ar institucijoje,
+
+Europos Sąjungos institucijoje ar įstaigoje, Europos Komisijos ar Tarybos
+
+įsteigtoje institucijoje, Europos Komisijos ir Europos Sąjungos valstybių narių
+
+bendrai įsteigtoje organizacijoje (konsorciume), civilinėje tarptautinėje
+
+operacijoje ar misijoje, pasiųstas dirbti į specialiąją misiją, ar kai
+
+jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės karo
+
+tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos
+
+diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos
+
+atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje;
 
 6) Lietuvos
 
@@ -231,6 +247,10 @@ Nr. X-65, 2004-12-22,
 Nr. X-401, 2005-11-17,
 
 Žin., 2005, Nr. 144-5235 (2005-12-10)
+
+Nr. X-594, 2006-05-04,
+
+Žin., 2006, Nr. 57-2024 (2006-05-20)
 
 ANTRASIS SKIRSNIS
 
@@ -660,9 +680,9 @@ už ypatingas darbo sąlygas, taip pat netekto darbingumo periodines
 
 kompensacijas dėl nelaimingų atsitikimų darbe ir profesinių ligų, iš nedarbo
 
-draudimo lėšų mokama tik nedarbo draudimo išmokos dalis, viršijanti gaunamą pensijų
+draudimo lėšų mokama tik nedarbo draudimo išmokos dalis, viršijanti gaunamą
 
-ar kompensacijų sumą.
+pensijų ar kompensacijų sumą.
 
 16
 
@@ -746,11 +766,11 @@ draudimu privalomai draudžiami valstybės lėšomis. Nedarbo draudimo įmokos u
 
 3. Nedarbo draudimo įmokų mokėjimo tvarką ir terminus reglamentuoja
 
-Valstybinio socialinio draudimo ir Mokesčių administravimo įstatymai, valstybinio
+Valstybinio socialinio draudimo ir Mokesčių administravimo įstatymai,
 
-socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės, kurias
+valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės,
 
-tvirtina Vyriausybė, kiti teisės aktai.
+kurias tvirtina Vyriausybė, kiti teisės aktai.
 
 Straipsnio pakeitimai:
 
@@ -826,13 +846,13 @@ bedarbio pašalpos skyrimo dienos pagal šio Įstatymo 8 straipsnį, atsižvelgi
 
 į 5 straipsnyje nustatytus nedarbo draudimo stažo reikalavimus;
 
-2) jei šios dalies 1 punkte nustatyta tvarka apskaičiuota
+2) jei šios dalies 1 punkte nustatyta tvarka
 
-nedarbo draudimo išmoka nuo 2005 m. sausio 1 d. mokėtina didesnė negu asmeniui
+apskaičiuota nedarbo draudimo išmoka nuo 2005 m. sausio 1 d. mokėtina didesnė
 
-mokėtina pagal anksčiau galiojusį įstatymą bedarbio pašalpa, jam mokama ši
+negu asmeniui mokėtina pagal anksčiau galiojusį įstatymą bedarbio pašalpa, jam
 
-nedarbo draudimo išmoka;
+mokama ši nedarbo draudimo išmoka;
 
 3) jei apskaičiuota nedarbo draudimo išmoka nuo
 
@@ -912,7 +932,9 @@ politikos priemonėms, Lietuvos darbo biržos ir jos teritorinių darbo biržų 
 
 Lietuvos darbo rinkos mokymo tarnybos prie Socialinės apsaugos ir darbo
 
-ministerijos (toliau – Lietuvos darbo rinkos mokymo tarnyba) išlaikymui ir plėtrai;
+ministerijos (toliau – Lietuvos darbo rinkos mokymo tarnyba) išlaikymui ir
+
+plėtrai;
 
 2) pereinamuoju laikotarpiu (2005–2009 m.) valstybės biudžetas
 
@@ -950,9 +972,9 @@ metams, lėšos, viršijusios išlaidas, socialinės apsaugos ir darbo ministro
 
 Straipsnio pakeitimai:
 
-Nr. IX-2540,
+Nr. IX-2540, 2004-11-04,
 
-2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
+Žin., 2004, Nr. 171-6300 (2004-11-26)
 
 Nr. X-65, 2004-12-22,
 
@@ -990,15 +1012,15 @@ atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos
 
 atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga
 
-laikinojo įstatymo, Sveikatos draudimo įstatymo, Nedarbo socialinio draudimo
+laikinojo įstatymo, Sveikatos draudimo įstatymo, Nedarbo socialinio draudimo įstatymo,
 
-įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Valstybinio
+Valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio
 
-socialinio draudimo fondo biudžeto sandaros įstatymo, Invalidų socialinės
+draudimo fondo biudžeto sandaros įstatymo, Invalidų socialinės integracijos
 
-integracijos įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 33, 34,
+įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45
 
-36, 45 straipsnių pakeitimo ir papildymo 45(1) straipsniu įstatymo,
+straipsnių pakeitimo ir papildymo 45(1) straipsniu įstatymo,
 
 Valstybinių socialinio draudimo pensijų įstatymo 9, 16, 28, 35, 36, 40, 43, 45,
 
@@ -1054,13 +1076,13 @@ ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
 
 LAIKINOJO ĮSTATYMO, SVEIKATOS DRAUDIMO ĮSTATYMO, NEDARBO SOCIALINIO DRAUDIMO
 
-ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIO SOCIALINIO
+ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIO
 
-DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS
+SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS
 
-ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45
+INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34,
 
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, VALSTYBINIŲ
+36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, VALSTYBINIŲ
 
 SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54
 
@@ -1116,15 +1138,37 @@ X-401,
 
 DIPLOMATINĖS
 
-TARNYBOS ĮSTATYMO, VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO, VALSTYBINIŲ SOCIALINIO
+TARNYBOS ĮSTATYMO, VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO, VALSTYBINIŲ
 
-DRAUDIMO PENSIJŲ ĮSTATYMO IR NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO
+SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO IR NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO
 
-ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 Šis
 
 įstatymas įsigalioja nuo 2006 m. sausio 1 d.
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-594,
+
+2006-05-04, Žin., 2006, Nr. 57-2024 (2006-05-20)
+
+VALSTYBINIO
+
+SOCIALINIO DRAUDIMO ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO
+
+IR NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2006 m. birželio 1 d.
 
 ***
 
@@ -1132,7 +1176,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-12-13)
+Aušrinė Trapinskienė (2006-05-22)
 
 autrap@lrs.lt
 
