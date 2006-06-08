@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2006-05-02"
+last_updated: "2006-06-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -2836,17 +2836,17 @@ aukštosiose švietimo įstaigose laiko, jeigu jas baigę asmenys yra priimti į
 
 vidaus tarnybą per tris mėnesius, pailginant šį laikotarpį ligos, nėštumo ir
 
-gimdymo atostogų, taip pat būtinosios tarnybos kariuomenėje ar dalyvavimo
+gimdymo bei tėvystės atostogų, taip pat būtinosios tarnybos kariuomenėje ar
 
-kariniuose mokymuose trukme;
+dalyvavimo kariniuose mokymuose trukme;
 
 10) pareigūno
 
-laikinojo nedarbingumo laiką, kasmetinių, papildomų, nėštumo ir gimdymo, vaiko
+laikinojo nedarbingumo laiką, kasmetinių, papildomų, nėštumo ir gimdymo, tėvystės,
 
-priežiūros, mokymosi ir nemokamų atostogų laiką, taip pat buvimo Vidaus reikalų
+vaiko priežiūros, mokymosi ir nemokamų atostogų laiką, taip pat buvimo Vidaus
 
-ministerijos personalo žinioje laiką;
+reikalų ministerijos personalo žinioje laiką;
 
 11) vieną
 
@@ -2872,6 +2872,16 @@ straipsnio 1 dalyje nustatytą vidaus tarnybos stažą, į jį papildomai įskai
 
 Valstybės tarnybos įstatymo nustatytą valstybės tarnautojo tarnybos stažą.
 
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-665,
+
+2006-06-08, Žin., 2006, Nr. 72-2681 (2006-06-28)
+
 38 straipsnis.
 
 Priemokos
@@ -2888,9 +2898,9 @@ kenksmingomis ir pavojingomis darbo sąlygomis;
 
 3) už įprastą darbo krūvį viršijančią
 
-veiklą ar papildomų užduočių, atliekamų viršijant nustatytą darbo trukmę,
+veiklą ar papildomų užduočių, atliekamų viršijant nustatytą darbo trukmę, atlikimą.
 
-atlikimą. Papildomos užduotys pareigūnui turi būti suformuluotos raštu.
+Papildomos užduotys pareigūnui turi būti suformuluotos raštu.
 
 2. Pareigūnams, tarnaujantiems Jungtinių
 
@@ -2948,9 +2958,9 @@ Vidaus reikalų ministerija (toliau – sveikatos priežiūros įstaigos, kurių
 
 steigėja yra Vidaus reikalų ministerija), o ten, kur jų nėra – kitos Lietuvos
 
-nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigos pagal pareigūno
+nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigos pagal
 
-gyvenamąją vietą.
+pareigūno gyvenamąją vietą.
 
 3. Tretinio
 
@@ -2960,13 +2970,13 @@ tretinio lygio asmens sveikatos priežiūros įstaigos.
 
 4. Sveikatos
 
-priežiūros įstaigos, kurių steigėja yra Vidaus reikalų ministerija, atlieka privalomus
+priežiūros įstaigos, kurių steigėja yra Vidaus reikalų ministerija, atlieka
 
-pareigūnų sveikatos periodinius profilaktinius patikrinimus. Šių patikrinimų
+privalomus pareigūnų sveikatos periodinius profilaktinius patikrinimus. Šių
 
-atlikimo tvarką nustato vidaus reikalų ministras, suderinęs su sveikatos
+patikrinimų atlikimo tvarką nustato vidaus reikalų ministras, suderinęs su
 
-apsaugos ministru.
+sveikatos apsaugos ministru.
 
 5. Pareigūnų
 
@@ -2996,27 +3006,25 @@ vaikams, gimusiems po jo mirties), kol jiems sukaks 18 metų, taip pat vaikams
 
 dieniniuose skyriuose, kol jiems sukaks 24 metai, sutuoktiniui, tėvui ar
 
-motinai – bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties
+motinai – bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo
 
-dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties
+mirties dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno
 
-lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio dydžio vienkartinė
+mirties lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio dydžio
 
-kompensacija.
+vienkartinė kompensacija.
 
 2. Žuvęs
 
-pareigūnas ar kursantas laidojamas valstybės lėšomis arba jo artimiesiems išmokama
+pareigūnas ar kursantas laidojamas valstybės lėšomis arba jo artimiesiems
 
-40 MGL dydžio piniginė kompensacija laidotuvių išlaidoms padengti. Pareigūno ar kursanto, kuris žuvo užsienyje
+išmokama 40 MGL dydžio piniginė kompensacija laidotuvių išlaidoms padengti. Pareigūno ar kursanto, kuris žuvo užsienyje
 
 atlikdamas tarnybines pareigas ar profesinio mokymo metu, palaikų pervežimo į
 
 Lietuvą išlaidas teisės aktų nustatyta tvarka apmoka valstybė. Valstybės
 
-apmokamų laidojimo išlaidų aprašą nustato Vyriausybė ar jos įgaliota
-
-institucija.
+apmokamų laidojimo išlaidų aprašą nustato Vyriausybė ar jos įgaliota institucija.
 
 3. Pareigūnui,
 
@@ -3148,13 +3156,13 @@ institucijos. Apie nedarbingumo pažymėjimo išdavimą pareigūnas turi raštu 
 
 laikinojo nedarbingumo dėl ligos, nelaimingo atsitikimo ar slaugos trukmę,
 
-pareigūnių nėštumo ir gimdymo atostogų trukmę, apmokėjimo sąlygas (išskyrus
+pareigūnių nėštumo ir gimdymo atostogų trukmę, tėvystės atostogų trukmę,
 
-išimtis, nustatytas šio straipsnio 3 dalyje), taip pat laikinojo nedarbingumo
+apmokėjimo sąlygas (išskyrus išimtis, nustatytas šio straipsnio 3 dalyje), taip
 
-pažymėjimo išdavimo tvarką reglamentuoja valstybinio socialinio draudimo
+pat laikinojo nedarbingumo pažymėjimo išdavimo tvarką reglamentuoja valstybinio
 
-santykius reglamentuojantys teisės aktai.
+socialinio draudimo santykius reglamentuojantys teisės aktai.
 
 3. Laikinojo
 
@@ -3162,9 +3170,27 @@ nedarbingumo bei nėštumo ir gimdymo atostogų laikotarpiu pareigūnams mokamas
 
 vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam sueis vieni metai,
 
-atostogų laikotarpiu – 70 procentų vidutinio jų darbo užmokesčio.
+atostogų laikotarpiu – 70 procentų (nuo 2007 m. sausio 1 d. – 85 procentai) vidutinio jų darbo užmokesčio. Nuo 2007 m. liepos 1 d. šios išmokos dydis nuo
 
-4. Pareigūnų,
+nėštumo ir gimdymo atostogų pabaigos, kol vaikui sueis 6 mėnesiai, yra 100
+
+procentų, o likusį laiką – 85 procentai vidutinio jų darbo užmokesčio. Jeigu
+
+pareigūnui gimsta du ir daugiau vaikų, vaiko priežiūros, kol jam sueis vieni
+
+metai, atostogų laikotarpiu šios išmokos dydis yra 100 procentų vidutinio jų
+
+darbo užmokesčio.
+
+4. Tėvystės
+
+atostogų laikotarpiu pareigūnams mokamas Vyriausybės nustatyta tvarka
+
+apskaičiuotas vidutinis jų darbo užmokestis, jeigu jie gyvena santuokoje su
+
+kūdikio motina.
+
+5. Pareigūnų,
 
 kai jų laikinojo nedarbingumo trukmė atitinka nedarbingumo pažymėjimų išdavimo
 
@@ -3174,15 +3200,31 @@ nustatyti, jeigu yra invalidumo požymių, sveikata tikrinama Centrinėje
 
 medicinos ekspertizės komisijoje.
 
+Pastaba: Įsigaliojus šiam
+
+įstatymui, vidaus tarnybos sistemos pareigūnams, esantiems vaiko priežiūros,
+
+kol jam sueis vieni metai, atostogų, apskaičiuotos sumos perskaičiuojamos
+
+vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio įstatymo nuostatų
+
+įsigaliojimo dienos.
+
 Straipsnio pakeitimai:
 
 Nr. IX-2526,
 
 2004-11-02, Žin., 2004, Nr. 167-6105 (2004-11-17)
 
-Nr. IX-2536, 2004-11-04,
+Nr. IX-2536,
 
-Žin., 2004, Nr. 171-6296 (2004-11-26)
+2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
+
+Nr.
+
+X-665,
+
+2006-06-08, Žin., 2006, Nr. 72-2681 (2006-06-28)
 
 42 straipsnis. Pareigūnų medicininės reabilitacijos,
 
@@ -3190,9 +3232,9 @@ sveikatos grąžinamojo ir antirecidyvinio gydymo išlaidų apmokėjimas
 
 1. Iš valstybės
 
-biudžeto Vidaus reikalų ministerijai ar atitinkamų vidaus reikalų centrinėms įstaigoms
+biudžeto Vidaus reikalų ministerijai ar atitinkamų vidaus reikalų centrinėms
 
-skirtų lėšų apmokama:
+įstaigoms skirtų lėšų apmokama:
 
 1) pareigūnų
 
@@ -3202,13 +3244,13 @@ sužalojimo vykdant tarnybines pareigas, kai šis gydymas neapmokamas iš
 
 Privalomojo sveikatos draudimo fondo biudžeto;
 
-2) pareigūnų medicininė
+2) pareigūnų
 
-reabilitacija, sveikatos grąžinamasis ir antirecidyvinis gydymas, prevencinė
+medicininė reabilitacija, sveikatos grąžinamasis ir antirecidyvinis gydymas,
 
-medicininė ir psichologinė reabilitacija, vykdoma asmenims sveikatos priežiūros
+prevencinė medicininė ir psichologinė reabilitacija, vykdoma asmenims sveikatos
 
-įstaigose, kurių steigėja yra Vidaus reikalų ministerija.
+priežiūros įstaigose, kurių steigėja yra Vidaus reikalų ministerija.
 
 2. Pareigūnų
 
@@ -3238,9 +3280,9 @@ stoti į jas savo interesams ginti.
 
 2. Vidaus
 
-reikalų įstaigos vadovas ir jo pavaduotojas negali būti vidaus reikalų
+reikalų įstaigos vadovas ir jo pavaduotojas negali būti vidaus reikalų įstaigoje
 
-įstaigoje veikiančios profesinės sąjungos nariais.
+veikiančios profesinės sąjungos nariais.
 
 3. Profesinių
 
@@ -3486,19 +3528,19 @@ vykdžiusiam pavestus vidaus tarnybos uždavinius ir funkcijas bei viršijusiam
 
 tarnybinės rizikos ribas ir tuo padariusiam nusikalstamą veiką ar kitokį teisės
 
-pažeidimą arba nukentėjusiam vykdant tarnybines funkcijas ar dėl vidaus
+pažeidimą arba nukentėjusiam vykdant tarnybines funkcijas ar dėl vidaus tarnybos,
 
-tarnybos, iš vidaus reikalų įstaigai darbo
+iš vidaus reikalų įstaigai darbo užmokesčiui
 
-užmokesčiui skirtų lėšų gali būti kompensuojamos teisinės pagalbos
+skirtų lėšų gali būti kompensuojamos teisinės pagalbos išlaidos ar jų
 
-išlaidos ar jų dalis. Kompensaciją skiria
+dalis. Kompensaciją skiria vidaus reikalų
 
-vidaus reikalų įstaigos vadovas iš vidaus reikalų įstaigai darbo užmokesčiui
+įstaigos vadovas iš vidaus reikalų įstaigai darbo užmokesčiui skirtų lėšų.
 
-skirtų lėšų. Vidaus reikalų įstaigos vadovui pašalpa skiriama iš jo
+Vidaus reikalų įstaigos vadovui pašalpa skiriama iš jo vadovaujamos vidaus
 
-vadovaujamos vidaus reikalų įstaigos darbo užmokesčiui skirtų lėšų.
+reikalų įstaigos darbo užmokesčiui skirtų lėšų.
 
 51
 
@@ -3642,13 +3684,11 @@ poelgiu pažemino pareigūno vardą;
 
 8) jei
 
-įsiteisėjo teismo nuosprendis, kuriuo pareigūnas nuteisiamas už tyčinį
+įsiteisėjo teismo nuosprendis, kuriuo pareigūnas nuteisiamas už tyčinį nusikaltimą
 
-nusikaltimą ar baudžiamąjį nusižengimą arba jam atimama teisė dirbti
+ar baudžiamąjį nusižengimą arba jam atimama teisė dirbti teisėsaugos
 
-teisėsaugos institucijose, arba dėl kurio vykdymo jis negali atlikti savo
-
-pareigų;
+institucijose, arba dėl kurio vykdymo jis negali atlikti savo pareigų;
 
 9) jei paaiškėjo
 
@@ -3744,9 +3784,9 @@ grandies pareigūnai – kol sukaks 55 metus;
 
 aukštesniosios grandies pareigūnai – kol sukaks 60 metų;
 
-4)
+4) aukščiausiosios
 
-aukščiausiosios grandies pareigūnai – kol sukaks 62 metus ir 6 mėnesius.
+grandies pareigūnai – kol sukaks 62 metus ir 6 mėnesius.
 
 2. Pareigūno
 
@@ -3812,11 +3852,13 @@ moteris ar vyras, vieni auginantys vaikus (vaiką) iki 14 metų, asmuo,
 
 kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, apie galimą jų atleidimą turi būti įspėti raštu ne
 
-vėliau kaip prieš 4 mėnesius iki atleidimo dienos. Įspėjimas apie galimą atleidimą
+vėliau kaip prieš 4 mėnesius iki atleidimo dienos. Įspėjimas apie galimą
 
-netenka galios, jei nuo jo termino pabaigos praeina daugiau kaip vienas
+atleidimą netenka galios, jei nuo jo termino pabaigos praeina daugiau
 
-mėnuo, neįskaitant pareigūno laikinojo nedarbingumo ir atostogų laiko.
+kaip vienas mėnuo, neįskaitant pareigūno laikinojo nedarbingumo ir atostogų
+
+laiko.
 
 3. Pareigūnas
 
@@ -4078,9 +4120,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-163,
+X-163, 2005-04-21,
 
-2005-04-21, Žin., 2005, Nr. 58-2001 (2005-05-07)
+Žin., 2005, Nr. 58-2001 (2005-05-07)
 
 DARBO
 
@@ -4108,15 +4150,43 @@ TARNYBOS STATUTO 4 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja nuo 2006 m. liepos 1 d.
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-665, 2006-06-08,
+
+Žin., 2006, Nr. 72-2681 (2006-06-28)
+
+VIDAUS
+
+TARNYBOS STATUTO 37 IR 41 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2006 m. liepos 1 d.
+
+Įsigaliojus
+
+šiam įstatymui, vidaus tarnybos sistemos pareigūnams, esantiems vaiko
+
+priežiūros, kol jam sueis vieni metai, atostogų, apskaičiuotos sumos
+
+perskaičiuojamos vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio
+
+įstatymo nuostatų įsigaliojimo dienos.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-05-23)
+Aušra Bodin (2006-07-01)
 
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
 19 straipsnis papildomas 4 dalimi
 
