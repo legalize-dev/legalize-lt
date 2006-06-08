@@ -4,7 +4,7 @@ identifier: "TAR.CA0F08EF687E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-11"
-last_updated: "2004-11-04"
+last_updated: "2006-06-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA0F08EF687E"
 department: "Lietuvos Respublikos Seimas"
@@ -1190,26 +1190,6 @@ išlaidos, neatsižvelgiant į mokėjimo laiką. Pinigų srautų plane ir ataska
 
 parodomos faktinės pinigų išlaidos.
 
-2
-
-dalies redakcija iki 2005 m. sausio 1 d.:
-
-2.
-
-Fondo biudžeto išlaidas sudaro: pensijų socialinio draudimo, ligos, motinystės
-
-ir motinystės (tėvystės) socialinio draudimo, nelaimingų atsitikimų darbe ir
-
-profesinių ligų socialinio draudimo išlaidos bei draudimui nuo nedarbo
-
-pervedamos lėšos, įvertintos neatgautinos ir abejotinai atgautinos sumos bei Fondo
-
-biudžeto veiklos sąnaudos.
-
-2
-
-dalies redakcija nuo 2005 m. sausio 1 d.:
-
 2. Fondo biudžeto išlaidas sudaro: pensijų socialinio draudimo, ligos, motinystės ir motinystės (tėvystės) socialinio draudimo, nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išlaidos, į Privalomojo sveikatos draudimo fondą bei draudimui nuo nedarbo pervedamos lėšos, įvertintos neatgautinos ir abejotinai atgautinos sumos bei Fondo biudžeto veiklos sąnaudos.
 
 3.
@@ -1226,23 +1206,9 @@ Valstybinių socialinio draudimo pensijų įstatyme.
 
 Ligos, motinystės ir motinystės (tėvystės) socialinio draudimo išlaidoms
 
-priskiriamos ligos, motinystės ir motinystės (tėvystės) pašalpos, numatytos
+priskiriamos ligos, motinystės, tėvystės ir motinystės (tėvystės) pašalpos,
 
-Ligos ir motinystės socialinio draudimo įstatyme.
-
-5
-
-dalies redakcija iki 2005 m. sausio 1 d.:
-
-5.
-
-Draudimo nuo nedarbo išlaidoms priskiriamos pagal Bedarbių rėmimo įstatymą
-
-pervedamos lėšos.
-
-5
-
-dalies redakcija nuo 2005 m. sausio 1 d.:
+numatytos Ligos ir motinystės socialinio draudimo įstatyme.
 
 5.
 
@@ -1267,6 +1233,12 @@ Nr. IX-871,
 Nr. IX-2540,
 
 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
+
+Nr.
+
+X-667,
+
+2006-06-08, Žin., 2006, Nr. 72-2683 (2006-06-28)
 
 6 straipsnis. Fondo biudžeto išlaidų planavimas
 
@@ -1308,17 +1280,19 @@ sąnaudos, ilgalaikio turto likutinės vertės dalis, viršijanti pajamas, gauti
 
 pardavus ilgalaikį turtą, kitos sąnaudos (sumokėtos palūkanos, delspinigiai už
 
-laiku nepervestas lėšas draudėjams pašalpoms mokėti, nekilnojamojo turto ir žemės
+laiku nepervestas lėšas draudėjams pašalpoms mokėti, nekilnojamojo turto ir
 
-nuomos mokesčiai), taip pat sąnaudos, susijusios su draudimo nuo nedarbo įmokų
+žemės nuomos mokesčiai), taip pat sąnaudos, susijusios su draudimo nuo nedarbo
 
-administravimu bei su išmokų, finansuojamų iš valstybės biudžeto, mokėjimu.
+įmokų administravimu bei su išmokų, finansuojamų iš valstybės biudžeto,
+
+mokėjimu.
 
 Straipsnio pakeitimai:
 
-Nr. IX-871, 2002-05-07,
+Nr. IX-871,
 
-Žin., 2002, Nr. 52-1984 (2002-05-24)
+2002-05-07, Žin., 2002, Nr. 52-1984 (2002-05-24)
 
 7
 
@@ -1328,11 +1302,11 @@ straipsnis. Fondo rezervas ir kasos apyvartos lėšos
 
 Fonde sudaromas Fondo rezervas. Jis sudaromas iš Fondo biudžeto išlaidas
 
-viršijančios pajamų dalies ir yra skiriamas Fondui stabilizuoti. Į Fondo rezervą
+viršijančios pajamų dalies ir yra skiriamas Fondui stabilizuoti. Į Fondo
 
-įskaitomas įstatymų ir kitų teisės aktų nustatyta tvarka įvertintas ilgalaikis
+rezervą įskaitomas įstatymų ir kitų teisės aktų nustatyta tvarka įvertintas
 
-materialusis, nematerialusis ir finansinis sukauptas turtas.
+ilgalaikis materialusis, nematerialusis ir finansinis sukauptas turtas.
 
 2.
 
@@ -1394,11 +1368,11 @@ Vyriausybei Fondo tarybos išvadą.
 
 3.
 
-Fondo biudžeto projektas sudaromas trejiems metams remiantis šiuo ir kitais
+Fondo biudžeto projektas sudaromas trejiems metams remiantis šiuo ir kitais įstatymais
 
-įstatymais bei kitais teisės aktais, šalies ūkio plėtros makroekonominėmis
+bei kitais teisės aktais, šalies ūkio plėtros makroekonominėmis prognozėmis,
 
-prognozėmis, preliminariais pagrindiniais nacionalinio biudžeto rodikliais.
+preliminariais pagrindiniais nacionalinio biudžeto rodikliais.
 
 4.
 
@@ -1538,19 +1512,21 @@ finansinių ataskaitų pastabos. Fondo biudžeto vykdymo metų ataskaitoje
 
 rodikliai išdėstomi pagal Vyriausybės ar jos įgaliotos institucijos patvirtintą
 
-Fondo biudžeto klasifikaciją, pinigų srautų klasifikaciją bei balanso ataskaitos
+Fondo biudžeto klasifikaciją, pinigų srautų klasifikaciją bei balanso
 
-sandarą. Fondo
+ataskaitos sandarą. Fondo biudžeto balanso ataskaitoje nurodomi turtas,
 
-biudžeto balanso ataskaitoje nurodomi turtas, įsipareigojimai ir rezervai.
+įsipareigojimai ir rezervai.
 
 6.
 
 Kasmet ne vėliau kaip iki balandžio 10 dienos atliekamas nepriklausomas Fondo
 
-ir Fondo valdybos metinės finansinės atskaitomybės auditas. Auditą organizuoja Socialinės
+ir Fondo valdybos metinės finansinės atskaitomybės auditas. Auditą organizuoja
 
-apsaugos ir darbo ministerija, sutartį dėl audito sudaro Fondo valdyba.
+Socialinės apsaugos ir darbo ministerija, sutartį dėl audito sudaro Fondo
+
+valdyba.
 
 7.
 
@@ -1736,13 +1712,31 @@ LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO
 
 Šis Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-667, 2006-06-08,
+
+Žin., 2006, Nr. 72-2683 (2006-06-28)
+
+VALSTYBINIO
+
+SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo 2006 m. liepos 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2004-12-13)
+Aušra Bodin (2006-07-01)
 
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
