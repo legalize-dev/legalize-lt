@@ -4,7 +4,7 @@ identifier: "TAR.7690C98816CA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-01"
-last_updated: "2005-12-13"
+last_updated: "2006-06-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 department: "Lietuvos Respublikos Seimas"
@@ -499,19 +499,19 @@ komisija vertina tarnybos pareigūnų tarnybinės veiklos rezultatus ir
 
 kvalifikaciją.
 
-3. Tarnybos pareigūnų tarnybinę veiklą per
+3. Tarnybos pareigūnų tarnybinę veiklą per kalendorinius
 
-kalendorinius metus vertina tiesioginis tarnybos pareigūno vadovas. Kiekvienų
+metus vertina tiesioginis tarnybos pareigūno vadovas. Kiekvienų kalendorinių
 
-kalendorinių metų pabaigoje tiesioginis tarnybos pareigūno vadovas arba
+metų pabaigoje tiesioginis tarnybos pareigūno vadovas arba tarnybos pareigūną į
 
-tarnybos pareigūną į pareigas priimantis asmuo ar jo įgaliotas asmuo tarnybos
+pareigas priimantis asmuo ar jo įgaliotas asmuo tarnybos pareigūno tarnybinę
 
-pareigūno tarnybinę veiklą įvertina labai gerai, gerai arba nepatenkinamai. Jei
+veiklą įvertina labai gerai, gerai arba nepatenkinamai. Jei tarnybos pareigūno
 
-tarnybos pareigūno tarnybinė veikla įvertinama labai gerai arba nepatenkinamai,
+tarnybinė veikla įvertinama labai gerai arba nepatenkinamai, tarnybos pareigūną
 
-tarnybos pareigūną vertina atestacijos komisija dėl jo tolesnės veiklos.
+vertina atestacijos komisija dėl jo tolesnės veiklos.
 
 4. Atestacijos komisija gali įvertinti tarnybos
 
@@ -535,9 +535,9 @@ kategoriją ir gaunamą priedą už kvalifikacinę kategoriją, jei Specialiųj�
 
 tyrimų tarnyboje nėra galimybės pasiūlyti aukštesnių pareigų.
 
-6. Atestacijos komisija, įvertinusi tarnybos
+6. Atestacijos komisija, įvertinusi tarnybos pareigūną
 
-pareigūną nepatenkinamai, Specialiųjų tyrimų tarnybos direktoriui siūlo:
+nepatenkinamai, Specialiųjų tyrimų tarnybos direktoriui siūlo:
 
 1) kelti tarnybos pareigūno kvalifikaciją;
 
@@ -549,19 +549,19 @@ kvalifikacinę kategoriją;
 
 4) atleisti tarnybos pareigūną iš pareigų.
 
-7. Specialiųjų tyrimų tarnybos direktoriaus sprendimai,
+7. Specialiųjų tyrimų tarnybos direktoriaus
 
-priimti pagal atestacijos komisijos pasiūlymus, gali būti skundžiami
+sprendimai, priimti pagal atestacijos komisijos pasiūlymus, gali būti
 
-Administracinių bylų teisenos įstatymo nustatyta tvarka.
+skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 8. Tarnybos pareigūnų vertinimo kriterijus,
 
-periodiškumą ir tvarką, atestacijos komisijos veiklą reglamentuoja Specialiųjų tyrimų
+periodiškumą ir tvarką, atestacijos komisijos veiklą reglamentuoja Specialiųjų
 
-tarnybos direktoriaus įsakymu patvirtinti Specialiųjų tyrimų tarnybos pareigūnų
+tyrimų tarnybos direktoriaus įsakymu patvirtinti Specialiųjų tyrimų tarnybos
 
-atestacijos nuostatai.
+pareigūnų atestacijos nuostatai.
 
 11
 
@@ -581,9 +581,9 @@ nusikalstamą veiką valstybės tarnybai, arba jam paskiriama bausmė, dėl kuri
 
 jis negali eiti savo pareigų;
 
-3) netekęs Lietuvos
+3) netekęs
 
-Respublikos pilietybės;
+Lietuvos Respublikos pilietybės;
 
 4) atestacijos
 
@@ -729,9 +729,9 @@ tarnybos pareigūną iš tarnybos pagal šio Statuto 11 straipsnio 2 dalies 4
 
 punktą galima tik įspėjus jį raštu prieš 2 mėnesius. Nėščiai tarnybos
 
-pareigūnei (kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga), tarnybos
+pareigūnei (kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga),
 
-pareigūnui, auginančiam vaiką (vaikus) iki 14 metų, taip pat tarnybos
+tarnybos pareigūnui, auginančiam vaiką (vaikus) iki 14 metų, taip pat tarnybos
 
 pareigūnui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko
 
@@ -825,11 +825,11 @@ Specialiųjų tyrimų tarnybos uždaviniais. Į tarnybos pareigūnų rezervą as
 
 gali būti įtraukti ne ilgiau kaip 4 metus per visą tarnybos laiką. Rezerve
 
-praleistas laikas įskaičiuojamas į tarnybos stažą tik tuo atveju, jeigu
+praleistas laikas įskaičiuojamas į tarnybos stažą tik tuo atveju, jeigu tarnybos
 
-tarnybos pareigūnas vėl paskiriamas į Specialiųjų tyrimų tarnybą ir ten išdirba
+pareigūnas vėl paskiriamas į Specialiųjų tyrimų tarnybą ir ten išdirba ne
 
-ne mažiau kaip vienus metus.
+mažiau kaip vienus metus.
 
 2. Asmenims,
 
@@ -1241,9 +1241,9 @@ laikotarpį, per kurį jis nebuvo mokamas dėl nušalinimo nuo pareigų.
 
 nuo pareigų tarnybos pareigūnas nuo nušalinimo momento grąžina tarnybinį
 
-pažymėjimą, ženklą, tarnybinį ginklą, dokumentus ir kitas darbo priemones,
+pažymėjimą, ženklą, tarnybinį ginklą, dokumentus ir kitas darbo priemones, kurias
 
-kurias turėjo eidamas tarnybines pareigas.
+turėjo eidamas tarnybines pareigas.
 
 25
 
@@ -1493,17 +1493,17 @@ priemones bei gyvūnus būtinojo reikalingumo, būtinosios ginties atvejais ir
 
 4. Draudžiama
 
-panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti
+panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali
 
-pašaliniai asmenys, prieš moteris, jei akivaizdu, kad jos nėščios, taip pat
+nukentėti pašaliniai asmenys, prieš moteris, jei akivaizdu, kad jos nėščios,
 
-prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius, jeigu jų
+taip pat prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius,
 
-amžius pareigūnui žinomas arba išvaizda atitinka amžių, išskyrus
+jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių,
 
-atvejus, kai tokie asmenys užpuola arba priešinasi pavojingu gyvybei ar
+išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi pavojingu gyvybei
 
-sveikatai būdu.
+ar sveikatai būdu.
 
 5. Tarnybos
 
@@ -1567,19 +1567,21 @@ tikslinės atostogos:
 
 1) nėštumo ir gimdymo;
 
-2) vaiko priežiūros;
+2) tėvystės;
 
-3) mokymosi;
+3) vaiko priežiūros;
 
-4) dėl gyvenamosios vietos pakeitimo;
+4) mokymosi;
 
-5) nemokamos.
+5) dėl gyvenamosios vietos pakeitimo;
 
-4. Nėštumo ir gimdymo, vaiko priežiūros, mokymosi ir
+6) nemokamos.
 
-nemokamų atostogų trukmę bei suteikimo tvarką reglamentuoja šis Statutas ir
+4. Nėštumo ir gimdymo, tėvystės, vaiko priežiūros,
 
-kiti įstatymai.
+mokymosi ir nemokamų atostogų trukmę bei suteikimo tvarką reglamentuoja šis
+
+Statutas ir kiti įstatymai.
 
 5. Mokymosi atostogos suteikiamos pagal tarnybos
 
@@ -1606,6 +1608,16 @@ gali būti suteikiamos ne ilgesnės kaip 30 kalendorinių dienų nemokamos
 atostogos. Tarnybos pareigūnas, kuriam suteiktos nemokamos atostogos,
 
 nepraranda teisės į kasmetines ar kitas tikslines atostogas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-664,
+
+2006-06-08, Žin., 2006, Nr. 72-2680 (2006-06-28)
 
 30
 
@@ -1695,17 +1707,41 @@ vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam sueis vieni metai
 
 atostogų laikotarpiu – 70 procentų šia tvarka apskaičiuoto vidutinio jų darbo
 
-užmokesčio.
+užmokesčio. Nuo 2007 m. sausio 1 d. vaiko priežiūros, kol jam sueis vieni
 
-Pastaba. Jeigu pareigūnams, esantiems
+metai, atostogų laikotarpiu tarnybos pareigūnams mokama 85 procentai
 
-vaiko priežiūros, kol jam sueis vieni metai, atostogose, pagal šio įstatymo
+Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų darbo užmokesčio, nuo
 
-nuostatas apskaičiuota 70 procentų vidutinio jų darbo užmokesčio suma yra
+2007 m. liepos 1 d. šios išmokos dydis nuo nėštumo ir gimdymo atostogų
 
-mažesnė nei mokėta iki įstatymo Nr. X-121
+pabaigos, kol vaikui sueis 6 mėnesiai, yra 100 procentų, o likusį laiką – 85
 
-įsigaliojimo, toliau mokama anksčiau nustatyto dydžio suma.
+procentai Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų darbo
+
+užmokesčio. Tarnybos pareigūnams, jeigu gimsta du ir daugiau vaikų, vaiko
+
+priežiūros, kol jam sueis vieni metai, atostogų laikotarpiu mokamas Vyriausybės
+
+nustatyta tvarka apskaičiuotas vidutinis jų darbo užmokestis.
+
+7.
+
+Tėvystės atostogų laikotarpiu tarnybos pareigūnams mokamas Vyriausybės
+
+nustatyta tvarka apskaičiuotas vidutinis jų darbo užmokestis, jeigu jie gyvena
+
+santuokoje su kūdikio motina.
+
+Pastaba. Įsigaliojus šiam įstatymui,
+
+Specialiųjų tyrimų tarnybos pareigūnams, esantiems vaiko priežiūros, kol jam
+
+sueis vieni metai, atostogose, apskaičiuotos sumos perskaičiuojamos
+
+vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio įstatymo nuostatų
+
+įsigaliojimo dienos.
 
 Straipsnio pakeitimai:
 
@@ -1713,23 +1749,29 @@ Nr. X-121, 2005-02-15,
 
 Žin., 2005, Nr. 28-873 (2005-02-26)
 
+Nr.
+
+X-664,
+
+2006-06-08, Žin., 2006, Nr. 72-2680 (2006-06-28)
+
 31
 
 straipsnis. Kompensacijos ir pašalpos
 
-1. Tarnybos pareigūnui žuvus dėl tarnybos
+1. Tarnybos pareigūnui žuvus dėl tarnybos Specialiųjų
 
-Specialiųjų tyrimų tarnyboje, jo šeimai – vaikams (įvaikiams), kol jiems sueis
+tyrimų tarnyboje, jo šeimai – vaikams (įvaikiams), kol jiems sueis 18 metų,
 
-18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka
+taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotų mokymo
 
-įregistruotų mokymo įstaigų dieniniuose skyriuose, kol jiems sueis 24 metai,
+įstaigų dieniniuose skyriuose, kol jiems sueis 24 metai, sutuoktiniui,
 
-sutuoktiniui, žuvusiojo vaikams, gimusiems po jo mirties, tėvui ar motinai –
+žuvusiojo vaikams, gimusiems po jo mirties, tėvui ar motinai – bei
 
-bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties
+nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną
 
-dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties
+turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties
 
 lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio dydžio vienkartinė
 
@@ -1883,11 +1925,11 @@ ir 6 mėnesiai.
 
 3. Tarnybos pareigūno prašymu jo tarnybos laikas
 
-gali būti pratęstas, bet ne ilgiau, negu kol jam sukanka 62 metai ir 6
+gali būti pratęstas, bet ne ilgiau, negu kol jam sukanka 62 metai ir 6 mėnesiai.
 
-mėnesiai. Tarnybos laiką pratęsia asmuo, įgaliotas skirti pareigūną į pareigas
+Tarnybos laiką pratęsia asmuo, įgaliotas skirti pareigūną į pareigas ir
 
-ir atleisti iš jų, nurodydamas tarnybos pratęsimo terminą.
+atleisti iš jų, nurodydamas tarnybos pratęsimo terminą.
 
 35
 
@@ -1991,13 +2033,43 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS
 
 STATUTO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-664,
+
+2006-06-08, Žin., 2006, Nr. 72-2680 (2006-06-28)
+
+SPECIALIŲJŲ TYRIMŲ TARNYBOS
+
+STATUTO 29 IR 30 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2006-07-01.
+
+Įsigaliojus šiam įstatymui,
+
+Specialiųjų tyrimų tarnybos pareigūnams, esantiems vaiko priežiūros, kol jam
+
+sueis vieni metai, atostogose, apskaičiuotos sumos perskaičiuojamos
+
+vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio įstatymo nuostatų
+
+įsigaliojimo dienos.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-12-22)
+Aušra Bodin (2006-07-01)
 
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
