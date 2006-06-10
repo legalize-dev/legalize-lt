@@ -4,7 +4,7 @@ identifier: "TAR.9F0EEBEC3B24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-06-12"
-last_updated: "2002-05-14"
+last_updated: "2006-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0EEBEC3B24"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2002-05-14 iki 2006-06-09
+Suvestinė redakcija nuo 2006-06-10 iki 2014-05-20
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 18-468, i. k. 0901010ISTA000I-281
 
@@ -42,6 +42,12 @@ Patvirtinti Vilniaus universiteto statutą (pridedamas).
 5. Senato rinkimų komisiją skiria senoji taryba.
 
 6. Išrinkus senatą, senosios tarybos ir senato, sudaryto pagal 1990 m. birželio 12 d. patvirtintą statutą, įgaliojimai nutrūksta.
+
+7. Vilniaus universiteto bibliotekai asignavimai skiriami pagal bibliotekos finansavimo programą ir Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodoma: „iš jų Vilniaus universiteto bibliotekai
+
+Papildyta straipsnio dalimi:
+
+Nr. X-624, 2006-05-25, Žin., 2006, Nr. 65-2388 (2006-06-10), i. k. 1061010ISTA000X-624
 
 LIETUVOS RESPUBLIKOS
 
@@ -722,4 +728,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-860, 2002-04-23, Žin., 2002, Nr. 48-1834 (2002-05-14), i. k. 1021010ISTA00IX-860
 
 Lietuvos Respublikos įstatymo "Dėl Vilniaus universiteto statuto patvirtinimo" pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-624, 2006-05-25, Žin., 2006, Nr. 65-2388 (2006-06-10), i. k. 1061010ISTA000X-624
+
+Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymo 2 straipsnio papildymo įstatymas
 
