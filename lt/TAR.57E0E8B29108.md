@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2004-02-21"
+last_updated: "2006-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2004-02-21 iki 2006-06-09
+Suvestinė redakcija nuo 2006-06-10 iki 2007-04-25
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -38,7 +38,11 @@ Vilnius
 
 1. Strateginę reikšmę nacionaliniam saugumui turi šios valstybės įmonės:
 
-1) valstybės įmonė „Dzūkijos šilas“;
+1. Neteko galios nuo 2006-06-10
+
+Straipsnio punkto naikinimas:
+
+Nr. X-621, 2006-05-25, Žin. 2006, Nr. 65-2385 (2006-06-10), i. k. 1061010ISTA000X-621
 
 2) valstybės įmonė Giraitės ginkluotės gamykla;
 
@@ -209,4 +213,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
 
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 2, 3, 4 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 5 straipsniu įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-621, 2006-05-25, Žin., 2006, Nr. 65-2385 (2006-06-10), i. k. 1061010ISTA000X-621
+
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 2 straipsnio 1 dalies 1 punkto pripažinimo netekusiu galios įstatymas
 
