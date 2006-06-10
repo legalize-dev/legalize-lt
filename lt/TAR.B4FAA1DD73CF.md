@@ -4,7 +4,7 @@ identifier: "TAR.B4FAA1DD73CF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2005-06-07"
-last_updated: "2006-04-08"
+last_updated: "2006-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2006-04-08 iki 2006-06-09
+Suvestinė redakcija nuo 2006-06-10 iki 2006-12-31
 
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
 
@@ -266,9 +266,33 @@ BAIGIAMOSIOS NUOSTATOS
 
 1. Šis įstatymas įsigalioja nuo 2006 m. sausio 1 d.
 
-2. Įmonių ir organizacijų nekilnojamojo turto mokestis už 2005 metų paskutinį ketvirtį sumokamas iki 2006 m. sausio 25 d.
+2. Jeigu šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodyto nekilnojamojo turto mokestinė vertė, iki šio įstatymo įsigaliojimo nustatyta atkuriamosios vertės (kaštų) metodu, padidėjo, tai apskaičiuojant šio turto mokestinę vertę 2006 metų mokestiniu laikotarpiu atimama 0,8, o 2007 metų mokestiniu laikotarpiu – 0,4 šio nekilnojamojo turto mokestinės vertės padidėjimo sumos.
 
-3. Įsigaliojus šiam įstatymui, netenka galios:
+TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant nekilnojamojo turto mokestį 2006 ir 2007 metų mokestiniais laikotarpiais.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA000X-618
+
+3. Kito šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodyto nekilnojamojo turto mokestine verte 2006 metų mokestiniu laikotarpiu laikoma 0,5, o 2007 metų mokestiniu laikotarpiu – 0,8 šio įstatymo 8 straipsnio 1 dalyje nurodytos šio nekilnojamojo turto mokestinės vertės.
+
+TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant nekilnojamojo turto mokestį 2006 ir 2007 metų mokestiniais laikotarpiais.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA000X-618
+
+4. Įmonių ir organizacijų nekilnojamojo turto mokestis už 2005 metų paskutinį ketvirtį sumokamas iki 2006 m. sausio 25 d.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA000X-618
+
+5. Įsigaliojus šiam įstatymui, netenka galios:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA000X-618
 
 1) Lietuvos Respublikos įmonių ir organizacijų nekilnojamojo turto mokesčio įstatymas (Žin., 1994, Nr. 59-1156);
 
@@ -307,4 +331,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-532, 2006-03-30, Žin., 2006, Nr. 39-1380 (2006-04-08), i. k. 1061010ISTA000X-532
 
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 10 ir 12 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA000X-618
+
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6, 8, 15 straipsnių pakeitimo ir papildymo įstatymas
 
