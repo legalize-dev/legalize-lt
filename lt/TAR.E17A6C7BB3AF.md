@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "2006-01-19"
+last_updated: "2006-06-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -203,15 +203,27 @@ Nr. VIII-896,
 
 įsigalioja nuo 2006 m. liepos 1 d.
 
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-688, 2006-06-13,
+
+Žin., 2006, Nr. 73-2757 (2006-06-30)
+
+APSKRITIES VALDYMO ĮSTATYMO 7, 20
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2006 m. rugpjūčio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-02-14)
+Aušra Bodin (2006-07-04)
 
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
 2 straipsnis.
 
@@ -385,7 +397,9 @@ paslaugų teikimo įstaigose;
 
 kartu su teritorinėmis darbo biržomis sprendžia gyventojų užimtumo problemas.
 
-7 straipsnio redakcija nuo 2006 m. liepos 1 d.:
+7 straipsnio redakcija nuo 2006 m. liepos 1 d. iki
+
+2006 m. rugpjūčio 1 d.:
 
 8 straipsnis. Apskrities viršininko
 
@@ -639,7 +653,9 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 
 teritorijų planavimo, statybos,
 
-statinių naudojimo priežiūros ir paminklotvarkos klausimais
+statinių naudojimo priežiūros ir paminklotvarkos
+
+klausimais
 
 Apskrities
 
@@ -663,21 +679,19 @@ informaciją, išvadas ir pasiūlymus Lietuvos Respublikos teritorijos bendrajam
 
 ir specialiesiems planams rengti;
 
-4) nustatyta
+4) nustatyta tvarka
 
-tvarka rengia sąlygas apskrities ir savivaldybių teritorijų planavimo
-
-dokumentams;
+rengia sąlygas apskrities ir savivaldybių teritorijų planavimo dokumentams;
 
 5) nustatyta tvarka organizuoja savivaldybių
 
 teritorijų planavimo, statinių projektavimo, statybos, statinių
 
-pripažinimo tinkamais naudoti ir griovimo valstybinės priežiūros
+pripažinimo tinkamais naudoti ir griovimo valstybinės priežiūros vykdymą;
 
-vykdymą; nustatyta tvarka išduoda statybos leidimus (išskyrus tuos, kurių
+nustatyta tvarka išduoda statybos leidimus (išskyrus tuos, kurių išdavimas
 
-išdavimas įstatymų pavestas savivaldybės administracijos direktoriui);
+įstatymų pavestas savivaldybės administracijos direktoriui);
 
 6) nustatyta
 
@@ -733,9 +747,9 @@ IX-471,
 
 Nr.
 
-IX-584,
+IX-584, 2001-11-08,
 
-2001-11-08, Žin., 2001, Nr. 99-3518 (2001-11-28)
+Žin., 2001, Nr. 99-3518 (2001-11-28)
 
 Nr.
 
@@ -743,9 +757,9 @@ IX-1511,
 
 2003-04-17, Žin., 2003, Nr. 42-1915 (2003-05-01)
 
-Nr. IX-2213,
+Nr. IX-2213, 2004-04-29,
 
-2004-04-29, Žin., 2004, Nr. 80-2833 (2004-05-14)
+Žin., 2004, Nr. 80-2833 (2004-05-14)
 
 10
 
@@ -789,13 +803,13 @@ atlikimą;
 
 8) parduoda ar kitaip perleidžia
 
-privačion nuosavybėn valstybinę žemę, išskyrus privatizuojamiems nekilnojamojo
+privačion nuosavybėn valstybinę žemę, išskyrus privatizuojamiems nekilnojamojo turto
 
-turto objektams priskirtus žemės sklypus, atstovauja valstybei perleidžiant
+objektams priskirtus žemės sklypus, atstovauja valstybei perleidžiant privačią
 
-privačią žemę valstybės nuosavybėn bei valstybei pagal įstatymus ar testamentą
+žemę valstybės nuosavybėn bei valstybei pagal įstatymus ar testamentą paveldint
 
-paveldint žemę;
+žemę;
 
 9) sprendžia
 
@@ -997,9 +1011,9 @@ darbus;
 
 7) steigia,
 
-reorganizuoja, likviduoja valstybės įmones, valdo apskričių viršininkams
+reorganizuoja, likviduoja valstybės įmones, valdo apskričių viršininkams perduotų
 
-perduotų įmonių valstybei priklausančias akcijas;
+įmonių valstybei priklausančias akcijas;
 
 8) Vyriausybės
 
@@ -1085,9 +1099,9 @@ tarpregioninių programų projektų;
 
 2)
 
-teikti pasiūlymus Vyriausybei ir kitoms valstybės valdymo institucijoms
+teikti pasiūlymus Vyriausybei ir kitoms valstybės valdymo institucijoms apskrities
 
-apskrities raidos klausimais;
+raidos klausimais;
 
 3) dalyvauti Vyriausybės posėdžiuose svarstant su
 
@@ -1099,15 +1113,15 @@ savivaldybių institucijų posėdžiuose;
 
 4)
 
-prireikus kviesti apskrityje esančių ministerijų ir kitų Vyriausybės institucijų
+prireikus kviesti apskrityje esančių ministerijų ir kitų Vyriausybės
 
-struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkauti;
+institucijų struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkauti;
 
 5) gauti iš kitų
 
-valstybės valdymo ir apskrities savivaldybių institucijų, įmonių, įstaigų ir
+valstybės valdymo ir apskrities savivaldybių institucijų, įmonių, įstaigų ir organizacijų
 
-organizacijų informaciją savo kompetencijos klausimais;
+informaciją savo kompetencijos klausimais;
 
 6)
 
@@ -1145,9 +1159,7 @@ ryšius su atitinkamomis užsienio valstybių regionų institucijomis ir
 
 tarptautinėmis organizacijomis.
 
-Straipsnio žymėjimas
-
-pakeistas:
+Straipsnio žymėjimas pakeistas:
 
 Nr. VIII-33,
 
@@ -2065,9 +2077,9 @@ Nr. IX-135, 2000 12 23, Žin., 2000, Nr.
 
 113-3622 (2000 12 30)
 
-APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO
+APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO PAKEITIMO
 
-PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Įstatymai : VIII-1991
 
@@ -2169,9 +2181,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1413, 2003-04-01,
+Nr. IX-1413,
 
-Žin., 2003, Nr. 38-1659 (2003-04-24)
+2003-04-01, Žin., 2003, Nr. 38-1659 (2003-04-24)
 
 APSKRITIES
 
