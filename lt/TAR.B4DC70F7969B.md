@@ -4,7 +4,7 @@ identifier: "TAR.B4DC70F7969B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-04-22"
-last_updated: "2005-10-18"
+last_updated: "2006-06-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4DC70F7969B"
 department: "Lietuvos Respublikos Seimas"
@@ -31,7 +31,9 @@ KREDITORIAMS ĮVYKDYMO BEI JO TURTO PERĖMIMO
 
 Vilnius
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis.
+
+Įstatymo paskirtis
 
 Šis įstatymas nustato įstatymo “Dėl
 
@@ -51,9 +53,9 @@ taip pat banko turto bei reikalavimo teisių perėmimo ir LAIB likvidavimo
 
 tvarką.
 
-2 straipsnis. LAIB prievolių priėmimas
+2 straipsnis.
 
-ir įvykdymas
+LAIB prievolių priėmimas ir įvykdymas
 
 1. Vyriausybė pagal įstatymą “Dėl
 
@@ -251,7 +253,9 @@ Nr. VIII-580,
 
 97.12.23, Žin., 1997, Nr.118-3039 (97.12.27)
 
-3 straipsnis. VVP išleidimas
+3 straipsnis.
+
+VVP išleidimas
 
 1. Vyriausybė 2 straipsnio 1 dalies 2 ir
 
@@ -293,9 +297,9 @@ Nr. VIII-1810, 00.07.05, Žin., 2000,
 
 Nr.61-1817 (00.07.26)
 
-4 straipsnis. Atsiskaitymas su
+4 straipsnis.
 
-kreditoriais
+Atsiskaitymas su kreditoriais
 
 1. Su valstybės garantijas turinčiais
 
@@ -355,7 +359,7 @@ finansuojamoms įstaigoms, atsiskaityti su šiomis įstaigomis.
 
 straipsnio 2 dalyje nustatyta tvarka.
 
-3 dalies redakcija iki 2006 m. sausio 27 d.:
+3 dalies redakcija iki 2006 m. liepos 28 d.:
 
 3.
 
@@ -375,11 +379,17 @@ Finansų ministerijos specialiosiose sąskaitose. Jeigu valstybės garantijas
 
 turintys kreditoriai per 3 metus nuo paskelbimo „Valstybės žiniose“ neatsiėmė
 
-jiems priklausančių lėšų, jie praranda į jas teises ir šios lėšos pervedamos į
+jiems priklausančių lėšų, jos išmokamos iš specialiųjų Finansų ministerijos
 
-valstybės biudžetą Vyriausybės nustatyta tvarka.
+sąskaitų, esančių akcinėje bendrovėje banke „Hansabankas“, iki 2006 m.
 
-3 dalies redakcija nuo 2006 m. sausio 27 d.:
+balandžio 1 d. Vyriausybės nustatyta tvarka. Pasibaigus lėšų išmokėjimo
+
+terminui, specialiosios Finansų ministerijos sąskaitos uždaromos, o jose
+
+esantys lėšų likučiai pervedami į valstybės biudžetą.
+
+3 dalies redakcija nuo 2006 m. liepos 28 d.:
 
 3. Pasibaigus šio įstatymo 2 straipsnio
 
@@ -401,13 +411,13 @@ specialiosiose sąskaitose. Jeigu valstybės garantijas turintys kreditoriai per
 
 jos išmokamos iš specialiųjų Finansų ministerijos sąskaitų, esančių akcinėje
 
-bendrovėje banke „Hansabankas“, iki 2006 m. balandžio 1 d. Vyriausybės
+bendrovėje banke „Hansabankas“, iki 2006 m. rugsėjo 1 d. Vyriausybės nustatyta
 
-nustatyta tvarka. Pasibaigus lėšų išmokėjimo terminui, specialiosios Finansų
+tvarka. Pasibaigus lėšų išmokėjimo terminui, specialiosios Finansų ministerijos
 
-ministerijos sąskaitos uždaromos, o jose esantys lėšų likučiai pervedami į
+sąskaitos uždaromos, o jose esantys lėšų likučiai pervedami į valstybės
 
-valstybės biudžetą.
+biudžetą.
 
 4. Šio įstatymo 2 straipsnio 1 dalies 3
 
@@ -447,6 +457,12 @@ Nr. X-372, 2005-10-18,
 
 Žin., 2005, Nr. 127-4533 (2005-10-27)
 
+Nr.
+
+X-685,
+
+2006-06-13, Žin., 2006, Nr. 72-2697 (2006-06-28)
+
 5 straipsnis Reikalavimų tenkinimo iš
 
 LAIB turto vertės eilės tvarka
@@ -467,7 +483,9 @@ jį gautų lėšų neužtenka visiems šios eilės reikalavimams patenkinti, jie
 
 patenkinami proporcingai reikalavimų dydžiui.
 
-6 straipsnis. VVP panaudojimas
+6 straipsnis.
+
+VVP panaudojimas
 
 VVP turėtojai, gavę juos šio įstatymo
 
@@ -477,9 +495,9 @@ turtui įsigyti, jeigu Vyriausybė nustatys parduotiną valstybės turtą ir jo
 
 įsigijimo už VVP, išduotus pagal šį įstatymą, tvarką.
 
-7 straipsnis. LAIB prievolių jo
+7 straipsnis.
 
-kreditoriams pasibaigimas
+LAIB prievolių jo kreditoriams pasibaigimas
 
 1. 2 straipsnio 1 dalyje nurodytiems
 
@@ -515,15 +533,17 @@ Nr. VIII-580,
 
 97.12.23, Žin., 1997, Nr.118-3039 (97.12.27)
 
-8 straipsnis. LAIB likvidavimas
+8 straipsnis.
+
+LAIB likvidavimas
 
 1. Vyriausybei šio įstatymo nustatyta
 
-tvarka įvykdžius LAIB prievoles banko kreditoriams ir perėmus visas LAIB reikalavimo
+tvarka įvykdžius LAIB prievoles banko kreditoriams ir perėmus visas LAIB
 
-teises pagal banko skolininkų neįvykdytas prievoles, LAIB Vyriausybės sprendimu
+reikalavimo teises pagal banko skolininkų neįvykdytas prievoles, LAIB
 
-likviduojamas.
+Vyriausybės sprendimu likviduojamas.
 
 2. LAIB reikalavimo teisių perėmimo
 
@@ -535,13 +555,13 @@ Vyriausybė.
 
 likvidavimo tvarką nustato Vyriausybė.
 
-9 straipsnis. Baigiamosios nuostatos
+9 straipsnis.
 
-1. Šio įstatymo reguliuojamiems
+Baigiamosios nuostatos
 
-santykiams kitų teisės aktų normos taikomos tiek, kiek jos neprieštarauja šiam
+1. Šio įstatymo reguliuojamiems santykiams
 
-įstatymui.
+kitų teisės aktų normos taikomos tiek, kiek jos neprieštarauja šiam įstatymui.
 
 2. Šio įstatymo galiojimo laikotarpiu
 
@@ -629,13 +649,33 @@ BENDROVĖS LIETUVOS AKCINIO INOVACINIO BANKO PRIEVOLIŲ BANKO KREDITORIAMS
 
 įstatymas įsigalioja po 3 mėnesių nuo jo paskelbimo „Valstybės žiniose“.
 
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-685, 2006-06-13,
+
+Žin., 2006, Nr. 72-2697 (2006-06-28)
+
+AKCINĖS
+
+BENDROVĖS LIETUVOS AKCINIO INOVACINIO BANKO PRIEVOLIŲ BANKO KREDITORIAMS
+
+ĮVYKDYMO BEI JO TURTO PERĖMIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja po 1 mėnesių nuo jo paskelbimo „Valstybės žiniose“.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-10-28)
+Aušra Bodin (2006-07-01)
 
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
