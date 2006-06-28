@@ -4,7 +4,7 @@ identifier: "TAR.0F8C601D8592"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-09"
-last_updated: "2003-05-01"
+last_updated: "2006-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2006-06-27
+Suvestinė redakcija nuo 2006-06-28 iki 2007-01-29
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
 
@@ -454,7 +454,11 @@ VALSTYBĖS SIENOS APSAUGOS ORGANIZAVIMAS
 
 2. Valstybės sienos apsaugą atlieka Valstybės sienos apsaugos tarnyba.
 
-3. Prireikus sustiprinti valstybės sienos apsaugą, Respublikos Prezidento ar krašto apsaugos ministro įsakymu į pagalbą Valstybės sienos apsaugos tarnybai gali būti pasiųsta kariuomenė.
+3. Prireikus sustiprinti valstybės sienos apsaugą, į pagalbą Valstybės sienos apsaugos tarnybai įstatymų nustatyta tvarka gali būti pasiųsta kariuomenė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-675, 2006-06-08, Žin., 2006, Nr. 72-2690 (2006-06-28), i. k. 1061010ISTA000X-675
 
 4. Valstybės ir vietos savivaldos institucijos bendradarbiauja su Valstybės sienos apsaugos tarnyba pagal savo kompetenciją įstatymų ir kitų teisės aktų nustatyta tvarka. Kiti asmenys talkina Valstybės sienos apsaugos tarnybai savanoriškai.
 
@@ -525,4 +529,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1423, 2003-04-03, Žin., 2003, Nr. 38-1668 (2003-04-24), i. k. 1031010ISTA0IX-1423
 
 Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 2 ir 8 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-675, 2006-06-08, Žin., 2006, Nr. 72-2690 (2006-06-28), i. k. 1061010ISTA000X-675
+
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 26 straipsnio pakeitimo įstatymas
 
