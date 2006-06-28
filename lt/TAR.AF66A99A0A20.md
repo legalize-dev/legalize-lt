@@ -4,7 +4,7 @@ identifier: "TAR.AF66A99A0A20"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "1998-07-01"
+last_updated: "2006-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF66A99A0A20"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymas
+
+Suvestinė redakcija nuo 2006-06-28 iki 2013-05-31
+
+Įstatymas paskelbtas: Žin. 1998, Nr. 59-1655, i. k. 0981010ISTAVIII-791
 
 LIETUVOS RESPUBLIKOS PUSLAIDININKINIŲ GAMINIŲ TOPOGRAFIJŲ TEISINĖS APSAUGOS ĮSTATYMAS
 
@@ -29,7 +33,13 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato puslaidininkinių gaminių topografijų teisinę apsaugą ir reglamentuoja fizinių ir juridinių asmenų teises bei pareigas, atsirandančias sukūrus ir naudojant puslaidininkinių gaminių topografijas.
+1. Šis įstatymas nustato puslaidininkinių gaminių topografijų teisinę apsaugą ir reglamentuoja fizinių ir juridinių asmenų teises bei pareigas, atsirandančias sukūrus ir naudojant puslaidininkinių gaminių topografijas.
+
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio įstatymo priede.
+
+Straipsnio pakeitimai:
+
+Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA000X-652
 
 2 straipsnis. Įstatyme vartojamos sąvokos
 
@@ -117,9 +127,17 @@ TOPOGRAFIJŲ REGISTRAVIMAS
 
 10 straipsnis. Paraiškos padavimas
 
-1. Asmuo, norintis registruoti topografiją, paduoda paraišką Valstybiniam patentų biurui.
+1. Asmuo, norintis įregistruoti topografiją, turi paduoti paraišką Valstybiniam patentų biurui. Paraišką gali paduoti keletas juridinių ar fizinių asmenų arba fiziniai ir juridiniai asmenys kartu.
 
-2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai ir juridiniai asmenys paraiškas Valstybiniam patentų biurui paduoda ir vėliau visus veiksmus atlieka tik per Lietuvos Respublikos patentinius patikėtinius.
+Straipsnio dalies pakeitimai:
+
+Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA000X-652
+
+2. Paraišką pareiškėjas gali paduoti per atstovą, kuris yra įrašytas į Lietuvos Respublikos patentinių patikėtinių sąrašą. Pareiškėjui, nuolat gyvenančiam Lietuvos Respublikoje arba turinčiam nuolatinę buveinę, įregistruotą filialą ar atstovybę Lietuvos Respublikoje, kitoje Europos ekonominės erdvės valstybėje, gali atstovauti teisės aktų nustatyta tvarka įgaliotas darbuotojas. Užsienio valstybių fiziniai ir juridiniai asmenys, nuolat negyvenantys Lietuvos Respublikoje ar neturintys nuolatinės buveinės, įregistruoto filialo ar atstovybės Lietuvos Respublikoje, kitoje Europos ekonominės erdvės valstybėje, paraiškas Valstybiniam patentų biurui paduoda ir visus su topografijos registravimu susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Valstybinio patentų biuro Apeliaciniame skyriuje, atlieka per patentinį patikėtinį, įrašytą į Lietuvos Respublikos patentinių patikėtinių sąrašą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA000X-652
 
 3. Paraiška turi būti paduodama ne vėliau kaip per 2 metus nuo pirmojo komercinio topografijos panaudojimo pasaulyje.
 
@@ -225,7 +243,7 @@ VI SKYRIUS
 
 GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 
-20 straipsnis. Ginčų nagrinėjimas
+20 straipsnis. Ginčus dėl išradimų teisinės apsaugos nagrinėjančios institucijos
 
 Ginčus dėl topografijos registravimo ir naudojimo nagrinėja šios institucijos:
 
@@ -233,19 +251,25 @@ Ginčus dėl topografijos registravimo ir naudojimo nagrinėja šios institucijo
 
 2) Vilniaus apygardos teismas – dėl Valstybinio patentų biuro Apeliacinio skyriaus sprendimų ir kitus ginčus, kilusius po liudijimo išdavimo.
 
-21 straipsnis. Teisių į topografiją gynimas
+21 straipsnis. Teisių gynimo būdai
 
-Teisių pažeidimo atveju topografijos autorius arba savininkas gali reikalauti:
+1. Pareiškėjas, topografijos savininkas arba jų teisių perėmėjai, gindami savo teises, taip pat išimtinių licencijų licenciatai, gindami jiems suteiktas teises, įstatymų nustatyta tvarka turi teisę kreiptis į teismą ir reikalauti:
 
-1) grąžinti padėtį, buvusią iki teisių pažeidimo, ir nutraukti arba panaikinti veiksmus, pažeidžiančius arba sukeliančius galimybę pažeisti teises;
+1) pripažinti teises;
 
-2) atlyginti padarytus nuostolius, įskaitant ir pažeidėjo neteisėtai gautą pelną;
+2) įpareigoti nutraukti neteisėtus veiksmus;
 
-3) taikyti kitas įstatymų numatytas priemones, susijusias su jo teisių apsauga.
+3) uždrausti atlikti veiksmus, dėl kurių gali būti realiai pažeistos teisės arba atsirasti žala;
 
-VII SKYRIUS
+4) atlyginti turtinę žalą, įskaitant negautas pajamas ir kitas turėtas išlaidas;
 
-TARPTAUTINĖS SUTARTYS
+5) taikyti kitus šio įstatymo ir kitų įstatymų nustatytus teisių gynimo būdus.
+
+2. Siekdamas užtikrinti įpareigojimo nutraukti neteisėtus veiksmus, taip pat draudimo atlikti veiksmus, dėl kurių gali būti realiai pažeistos teisės arba atsirasti žala, vykdymą, teismas šio straipsnio 1 dalyje nurodytų asmenų prašymu gali įpareigoti pažeidėją tiems asmenims pateikti tinkamą galimos žalos kompensavimo užtikrinimą.
+
+3. Kai asmens, kuriam priimamas įpareigojimas nutraukti neteisėtus veiksmus ar taikomos šio įstatymo 214 straipsnyje nurodytos atkuriamosios priemonės, veiksmuose nėra kaltės dėl šio įstatymo nustatytų teisių pažeidimo, teismas šio asmens prašymu gali įpareigoti jį sumokėti nukentėjusiai šaliai piniginę kompensaciją, jeigu taikant šioje straipsnio dalyje nurodytus teisių gynimo būdus atsirastų neproporcingai didelė žala tam asmeniui ir jeigu piniginė kompensacija nukentėjusiai šaliai yra priimtina ir pakankama.
+
+4. Šio straipsnio 1 dalyje nurodyti asmenys, gindami savo teises, turi teisę kreiptis į teismą ir reikalauti uždrausti tarpininkui teikti paslaugas tretiesiems asmenims, kurie šiomis paslaugomis naudojasi pažeisdami šio įstatymo nustatytas teises. Šis draudimas apima su šio įstatymo nustatytų teisių pažeidimu susijusios informacijos perdavimo sustabdymą arba, jei tarpininkas techniškai gali tai atlikti, tokias teises pažeidžiančios informacijos pašalinimą, arba draudimą gauti šias teises pažeidžiančią informaciją. Toks teismo sprendimo įvykdymas neatleidžia tarpininko nuo atsakomybės už veiksmus ar neveikimą, susijusius su tokios informacijos laikymu ar perdavimu, buvusiu iki šio sprendimo įsigaliojimo.
 
 22 straipsnis. Tarptautinės sutartys. Užsienio šalių fizinių ir juridinių asmenų teisės
 
@@ -266,6 +290,30 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Lietuvos Respublikos puslaidininkinių
+
+gaminių topografijų teisinės apsaugos įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo.
+
+Papildyta priedu:
+
+Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA000X-652
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA000X-652
+
+Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymo 1, 10 straipsnio, VI skyriaus pakeitimo bei papildymo ir Įstatymo papildymo priedu įstatymas
 
 211 straipsnis. Teisė gauti informaciją
 
@@ -350,16 +398,4 @@ Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA0
 VII SKYRIUS
 
 TARPTAUTINĖS SUTARTYS
-
-151 straipsnis. Mokesčiai
-
-Mokesčių dydį ir jų mokėjimo tvarką nustato Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas.
-
-Papildyta straipsniu:
-
-Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
-
-IV SKYRIUS
-
-IŠIMTINIŲ TEISIŲ PERDAVIMAS
 
