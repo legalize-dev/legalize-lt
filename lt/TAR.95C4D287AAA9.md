@@ -4,7 +4,7 @@ identifier: "TAR.95C4D287AAA9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-05-25"
-last_updated: "2004-09-01"
+last_updated: "2006-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.95C4D287AAA9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Bendrojo pagalbos centro įstatymas
+
+Suvestinė redakcija nuo 2006-07-01 iki 2010-12-31
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 90-3306, i. k. 1041010ISTA0IX-2246
 
 LIETUVOS RESPUBLIKOS
 
@@ -35,7 +39,11 @@ BENDROSIOS NUOSTATOS
 
 1. Šis įstatymas nustato:
 
-1) Bendrojo pagalbos centro prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Centras) teisinę formą, veiklos teisinius pagrindus ir principus, uždavinius, funkcijas, struktūrą, finansavimą, veiklos kontrolę, bendradarbiavimo su valstybės ar savivaldybių institucijomis, įstaigomis ar įmonėmis, kitais juridiniais ar fiziniais asmenimis pagrindus bei kitus Centro veiklos ypatumus;
+1) Bendrojo pagalbos centro (toliau – Centras) teisinę formą, veiklos teisinius pagrindus ir principus, uždavinius, funkcijas, bendradarbiavimo su valstybės ar savivaldybių institucijomis, įstaigomis ar įmonėmis, kitais juridiniais ar fiziniais asmenimis pagrindus bei kitus Centro veiklos ypatumus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
 
 2) Centro vidaus tarnybos sistemos pareigūno (toliau – pareigūnas) įgaliojimus, teises, pareigas bei atsakomybę.
 
@@ -61,11 +69,17 @@ BENDROSIOS NUOSTATOS
 
 9. Šio įstatymo 7 straipsnyje, 8 straipsnio 1 ir 2 dalyse, 15 straipsnio 1 dalies 4 punkte ir 16 straipsnio 1 dalies 3 punkte vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme.
 
-3 straipsnis. Centro teisinė forma ir veiklos teisiniai pagrindai
+3 straipsnis. Centro teisinė forma, steigimo ir veiklos teisiniai pagrindai
 
-1. Centras yra vidaus reikalų statutinė įstaiga.
+1. Centras yra Priešgaisrinės apsaugos ir gelbėjimo departamentui prie Vidaus reikalų ministerijos pavaldi biudžetinė įstaiga.
 
-2. Centras savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu, kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais.
+2. Centras savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu, kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais.
+
+3. Centrą steigia Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos įstatymų ir kitų teisės aktų nustatyta tvarka. Centro nuostatus tvirtina Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius.
+
+Straipsnio pakeitimai:
+
+Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
 
 4 straipsnis. Centro veiklos principai
 
@@ -161,9 +175,15 @@ CENTRO KOMPETENCIJA REAGUOJANT Į PAGALBOS PRAŠYMUS
 
 6. Centras neatsako už pagalbos tarnybų patirtą turtinę ar neturtinę žalą (nuostolius) sureagavus į netikslius pranešimus apie pagalbos poreikį, jeigu jie buvo parengti pagal melagingus ar klaidingus pagalbos prašymus.
 
-KETVIRTASIS SKIRSNIS
+4 skirsnis. Neteko galios nuo 2006-07-01
 
-CENTRO STEIGIMAS, REORGANIZAVIMAS IR LIKVIDAVIMAS, STRUKTŪRA, CENTRO VADOVYBĖ IR PERSONALAS
+Skirsnio naikinimas:
+
+Nr. X-589, 2006-05-02, Žin. 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
+
+PENKTASIS SKIRSNIS
+
+Centro PAREIGŪNO TEISĖS IR PAREIGOS
 
 12 straipsnis. Centro steigimas, reorganizavimas ir likvidavimas, Centro struktūra
 
@@ -239,9 +259,51 @@ Centro PAREIGŪNO TEISĖS IR PAREIGOS
 
 2. Neteisėto įsakymo ar nurodymo vykdymas Centro pareigūno nuo atsakomybės neatleidžia.
 
-ŠEŠTASIS SKIRSNIS
+6 skirsnis. Neteko galios nuo 2006-07-01
 
-CENTRO FINANSAVIMAS IR VEIKLOS KONTROLĖ
+Skirsnio naikinimas:
+
+Nr. X-589, 2006-05-02, Žin. 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
+
+7 skirsnis. Neteko galios nuo 2006-07-01
+
+Skirsnio naikinimas:
+
+Nr. X-589, 2006-05-02, Žin. 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+LAIKINAI EINANTIS
+
+RESPUBLIKOS PREZIDENTO PAREIGAS                                      ARTŪRAS PAULAUSKAS
+
+Lietuvos Respublikos
+
+bendrojo pagalbos centro
+
+įstatymo
+
+priedas
+
+Įgyvendinami Europos Sąjungos teisės aktai
+
+1. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos direktyva 2002/22/EB „Dėl universaliųjų paslaugų ir paslaugų gavėjų teisių, susijusių su elektroninių ryšių tinklais ir paslaugomis (Universaliųjų paslaugų direktyva)“.
+
+2. 2002 m. liepos 12 d. Europos Parlamento ir Tarybos direktyva 2002/58/EB „Dėl asmens duomenų tvarkymo ir privatumo apsaugos elektroninių ryšių sektoriuje (Direktyva dėl privatumo ir elektroninių ryšių)“.
+
+3. 2003 m. liepos 25 d. Komisijos rekomendacija 2003/558/EB „Dėl telefono ryšio paslaugų gavėjo vietos nustatymo tvarkos elektroninių ryšių tinkluose užtikrinant skubios pagalbos paslaugų teikimą“.
+
+______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
+
+Lietuvos Respublikos bendrojo pagalbos centro įstatymo 1, 3 straipsnių pakeitimo ir ketvirtojo, šeštojo bei septintojo skirsnių pripažinimo netekusiais galios įstatymas
 
 18 straipsnis. Centro finansavimas
 
@@ -288,10 +350,4 @@ priedas
 3. 2003 m. liepos 25 d. Komisijos rekomendacija 2003/558/EB „Dėl telefono ryšio paslaugų gavėjo vietos nustatymo tvarkos elektroninių ryšių tinkluose užtikrinant skubios pagalbos paslaugų teikimą“.
 
 ______________
-
-111 straipsnis. Centro informacinė sistema ir ryšių tinklas
-
-1. Centras ir pagalbos tarnybos tarpusavio sąveikai užtikrinti bendrai naudoja Centro informacinę sistemą, kuri yra Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka įsteigta valstybės informacinė sistema. Centro informacinė sistema skirta pagalbos prašymams priimti ir įvertinti, pranešimams apie pagalbos poreikį parengti ir pagalbos tarnyboms perduoti, pagalbos tarnybų operatyviajam pajėgų valdymui atlikti ir pagalbos tarnybų veiksmams koordinuoti, keistis duomenimis, informacijai apie pagalbos skambučius, pagalbos prašymus ir reagavimą į juos kaupti.
-
-2. Centras, policija, priešgaisrinės gelbėjimo pajėgos, greitosios medicinos pagalbos tarnyba komunikacijai balsu ir operatyviajam pajėgų valdymui naudoja Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninį mobilųjį radijo ryšio tinklą (toliau – SMRRT). Centras ir šios pagalbos tarnybos, reaguodamos į pagalbos prašymus, privalo naudoti radijo ryšio terminalus, veikiančius SMRRT.
 
