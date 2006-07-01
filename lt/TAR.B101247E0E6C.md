@@ -4,7 +4,7 @@ identifier: "TAR.B101247E0E6C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-05"
-last_updated: "2005-02-15"
+last_updated: "2006-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B101247E0E6C"
 department: "Lietuvos Respublikos Seimas"
@@ -1977,21 +1977,25 @@ suteikiamos iš karto visos arba dalimis, tačiau viena nepertraukiama atostogų
 
 dalis negali būti trumpesnė kaip 14 kalendorinių dienų.
 
-3. Saugumo pareigūnams gali būti suteiktos šios
+3. Saugumo pareigūnams gali būti suteikiamos šios
 
 tikslinės atostogos:
 
-1) nėštumo ir gimdymo atostogos;
+1) nėštumo ir gimdymo;
 
-2) vaiko priežiūros atostogos;
+2) tėvystės;
 
-3) mokymosi atostogos;
+3) vaiko priežiūros;
 
-4) atostogos dėl gyvenamosios vietos pakeitimo.
+4) mokymosi;
 
-4. Nėštumo ir gimdymo, vaiko priežiūros, mokymosi
+5) dėl gyvenamosios vietos pakeitimo.
 
-atostogų trukmę bei suteikimo tvarką reglamentuoja šis ir kiti įstatymai.
+4. Nėštumo ir gimdymo, tėvystės, vaiko priežiūros,
+
+mokymosi atostogų trukmę bei suteikimo tvarką reglamentuoja šis ir kiti
+
+įstatymai.
 
 5. Mokymosi atostogos suteikiamos pagal saugumo
 
@@ -2018,6 +2022,16 @@ kalendorinius metus gali būti suteikiamos ne ilgesnės kaip 30 kalendorinių
 dienų nemokamos atostogos. Saugumo pareigūnas, kuriam suteiktos nemokamos
 
 atostogos, nepraranda teisės į kasmetines ar tikslines atostogas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-663,
+
+2006-06-08, Žin., 2006, Nr. 74-2817 (2006-07-03)
 
 43 straipsnis.
 
@@ -2069,9 +2083,9 @@ minimaliosios mėnesinės algos dydžio.
 
 3. Saugumo pareigūnų priedai už kvalifikacinę kategoriją:
 
-1) V kvalifikacinės kategorijos – 10 procentų pareiginės
+1) V kvalifikacinės kategorijos – 10 procentų pareiginės algos
 
-algos dydžio;
+dydžio;
 
 2) IV kvalifikacinės kategorijos – 20 procentų pareiginės
 
@@ -2093,45 +2107,57 @@ algos dydžio.
 
 stažą bei priemokos mokami Valstybės tarnybos įstatymo nustatyta tvarka.
 
-5 dalies redakcija iki 2005 m. kovo 1 d.:
+*5. Laikinojo nedarbingumo bei nėštumo ir gimdymo
 
-5. Laikinojo nedarbingumo laikotarpiu, nėštumo ir gimdymo
+atostogų laikotarpiu saugumo pareigūnams mokamas Vyriausybės nustatyta tvarka
 
-atostogų metu saugumo pareigūnui iš darbo užmokesčio fondo mokama jam nustatyta
+apskaičiuotas vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam sueis
 
-pareiginė alga ir priedai. Vaiko priežiūros atostogų, kol vaikui sukaks vieneri
+vieni metai, atostogų laikotarpiu – 70 procentų šia tvarka apskaičiuoto
 
-metai, laiku saugumo pareigūnui iš tam tikslui skirtų lėšų mokama 60 procentų
+vidutinio jų darbo užmokesčio. Nuo 2007 m. sausio 1 d. vaiko priežiūros, kol
 
-nuo jam nustatytos pareiginės algos ir priedų.
+jam sueis vieni metai, atostogų laikotarpiu saugumo pareigūnams mokama 85
 
-5 dalies redakcija nuo 2005 m. kovo 1 d.:
+procentai Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų darbo
 
-5. Laikinojo nedarbingumo bei nėštumo ir gimdymo
+užmokesčio, nuo 2007 m. liepos 1 d. šios išmokos dydis nuo nėštumo ir gimdymo
 
-atostogų laikotarpiu saugumo pareigūnams mokamas Vyriausybės nustatyta
+atostogų pabaigos, kol vaikui sukaks 6 mėnesiai, yra 100 procentų, o likusį
 
-tvarka apskaičiuotas vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam
+laiką – 85 procentai Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų
 
-sueis vieni metai, atostogų laikotarpiu – 70 procentų šia tvarka
+darbo užmokesčio. Saugumo pareigūnams, jeigu gimsta du ir daugiau vaikų, vaiko
 
-apskaičiuoto vidutinio jų darbo užmokesčio.
+priežiūros, kol jam sueis vieni metai, atostogų laikotarpiu mokamas Vyriausybės
 
-Pastaba. Jeigu pareigūnams, esantiems vaiko priežiūros, kol
+nustatyta tvarka apskaičiuotas vidutinis jų darbo užmokestis.
 
-jam sueis vieni metai, atostogose, pagal šio įstatymo nuostatas apskaičiuota 70
+6. Tėvystės atostogų laikotarpiu saugumo pareigūnams
 
-procentų vidutinio jų darbo užmokesčio suma yra mažesnė nei mokėta iki įstatymo
+mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų tarnybinis
 
-Nr. X-122
+atlyginimas, jeigu jie gyvena santuokoje su kūdikio motina.
 
-įsigaliojimo, toliau mokama anksčiau nustatyto dydžio suma.
+*Pastaba. Įsigaliojus įstatymui Nr. X-663, Valstybės saugumo
+
+departamento pareigūnams, esantiems vaiko priežiūros, kol jam sueis vieni
+
+metai, atostogose, apskaičiuotos sumos perskaičiuojamos vadovaujantis šio
+
+įstatymo nuostatomis ir mokamos nuo šio įstatymo nuostatų įsigaliojimo dienos.
 
 Straipsnio pakeitimai:
 
 Nr. X-122, 2005-02-15,
 
 Žin., 2005, Nr. 28-874 (2005-02-26)
+
+Nr.
+
+X-663,
+
+2006-06-08, Žin., 2006, Nr. 74-2817 (2006-07-03)
 
 44 straipsnis.
 
@@ -2141,19 +2167,19 @@ Kompensacijos
 
 pareigūnui žuvus dėl tarnybos Saugumo departamente, jo šeimai – nepilnamečiams
 
-vaikams (įvaikiams), kol jiems sukaks 16 metų, taip pat besimokantiems nustatyta
+vaikams (įvaikiams), kol jiems sukaks 16 metų, taip pat besimokantiems
 
-tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose vaikams (įvaikiams),
+nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose vaikams
 
-kol jiems sukaks 24 metai, sutuoktiniui, mirusiojo vaikams, gimusiems po jo
+(įvaikiams), kol jiems sukaks 24 metai, sutuoktiniui, mirusiojo vaikams,
 
-mirties, tėvui ar motinai – bei nedarbingiems asmenims, kurie buvo mirusiojo
+gimusiems po jo mirties, tėvui ar motinai – bei nedarbingiems asmenims, kurie
 
-išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per 1 metus
+buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą,
 
-nuo pareigūno mirties lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio
+per 1 metus nuo pareigūno mirties lygiomis dalimis išmokama 120 mėnesių darbo
 
-dydžio vienkartinė kompensacija.
+užmokesčio dydžio vienkartinė kompensacija.
 
 2. Saugumo
 
@@ -2381,13 +2407,41 @@ procentų vidutinio jų darbo užmokesčio suma yra mažesnė nei mokėta iki š
 
 įstatymo įsigaliojimo, toliau mokama anksčiau nustatyto dydžio suma.
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-663, 2006-06-08,
+
+Žin., 2006, Nr. 74-2817 (2006-07-03)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO STATUTO 42 IR 43 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.
+
+Įsigaliojus
+
+šiam įstatymui, Valstybės saugumo departamento pareigūnams, esantiems vaiko
+
+priežiūros, kol jam sueis vieni metai, atostogose, apskaičiuotos sumos
+
+perskaičiuojamos vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio
+
+įstatymo nuostatų įsigaliojimo dienos.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-02-28)
+Aušra Bodin (2006-07-04)
 
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
