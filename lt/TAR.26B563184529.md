@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2006-06-08"
+last_updated: "2006-07-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -2608,13 +2608,7 @@ dieną po to, kai savivaldybės tarybos ar savivaldybės administracijos
 
 direktoriaus sprendimas dėl detaliojo plano patvirtinimo paskelbiamas vietinėje
 
-spaudoje, jeigu pačiame sprendime nenustatyta vėlesnė jo įsigaliojimo data. Jei
-
-detalųjį planą patvirtino apskrities viršininkas, jo įsakymas dėl detaliojo
-
-plano patvirtinimo įsigalioja kitą dieną po paskelbimo vietinėje spaudoje,
-
-jeigu pačiame įsakyme nenustatyta vėlesnė jo įsigaliojimo data.
+spaudoje, jeigu pačiame sprendime nenustatyta vėlesnė jo įsigaliojimo data.
 
 9. Sprendimą dėl detaliojo plano patvirtinimo
 
@@ -2629,6 +2623,10 @@ pakeitimai:
 Nr. X-679, 2006-06-08,
 
 Žin., 2006, Nr. 66-2429 (2006-06-13)
+
+Nr.
+
+X-757, 2006-07-11, Žin., 2006, Nr. 82-3256 (2006-07-27)
 
 PENKTASIS
 
@@ -2692,15 +2690,15 @@ per 15 darbo dienų nuo planavimo organizatoriaus prašymo derinti teritorijų
 
 planavimo dokumentą pateikimo dienos. Komisija sudaroma iš planavimo sąlygas
 
-rengiančių institucijų atstovų, turinčių įgaliojimus priimti sprendimus. Komisijos
+rengiančių institucijų atstovų, turinčių įgaliojimus priimti sprendimus.
 
-pirmininkas ir komisijos nariai už savo pagal kompetenciją priimtų sprendimų
+Komisijos pirmininkas ir komisijos nariai už savo pagal kompetenciją priimtų
 
-teisėtumą atsako įstatymų nustatyta tvarka. Derinimo procedūroje turi dalyvauti
+sprendimų teisėtumą atsako įstatymų nustatyta tvarka. Derinimo procedūroje turi
 
-planavimo organizatorius ar jo įgaliotas atstovas. Derinimo procedūros
+dalyvauti planavimo organizatorius ar jo įgaliotas atstovas. Derinimo
 
-rezultatai įforminami protokolu. Teritorijų planavimo dokumentas yra
+procedūros rezultatai įforminami protokolu. Teritorijų planavimo dokumentas yra
 
 suderintas, jei tam pritarė visi posėdyje dalyvavę ar raštu savo pritarimą
 
@@ -2832,9 +2830,9 @@ institucija.
 
 Visi fiziniai ir juridiniai asmenys turi teisę susipažinti su teritorijų
 
-planavimo dokumentų registro duomenimis atitinkamą registrą tvarkančioje
+planavimo dokumentų registro duomenimis atitinkamą registrą tvarkančioje institucijoje
 
-institucijoje ir už nustatytą mokestį gauti jų kopijas.
+ir už nustatytą mokestį gauti jų kopijas.
 
 Straipsnio
 
@@ -3056,15 +3054,17 @@ skelbimų lentoje, o žemės sklypo ar grupės žemės sklypų teritorijos detal
 
 planavimo atveju – ir prie planuojamos teritorijos įrengtame stende. Tais atvejais,
 
-kai pagal detaliojo plano arba savivaldybės lygmens specialiojo plano sprendinius
+kai pagal detaliojo plano arba savivaldybės lygmens specialiojo plano
 
-žemės sklypas rezervuojamas svarbiems valstybės, apskrities ar savivaldybės
+sprendinius žemės sklypas rezervuojamas svarbiems valstybės, apskrities ar
 
-objektams plėtoti arba kai numatoma pakeisti jo pagrindinę tikslinę žemės
+savivaldybės objektams plėtoti arba kai numatoma pakeisti jo pagrindinę
 
-naudojimo paskirtį, naudojimo būdą ar pobūdį, planavimo organizatorius apie tai
+tikslinę žemės naudojimo paskirtį, naudojimo būdą ar pobūdį, planavimo
 
-turi raštu pranešti žemės sklypų valdytojams ir naudotojams.
+organizatorius apie tai turi raštu pranešti žemės sklypų valdytojams ir
+
+naudotojams.
 
 Straipsnio
 
@@ -3082,9 +3082,9 @@ ginčų nagrinėjimas
 
 dėl teritorijų planavimo dokumentų planavimo organizatoriui teikiami raštu per
 
-visą teritorijų planavimo dokumentų rengimo laikotarpį iki viešojo susirinkimo
+visą teritorijų planavimo dokumentų rengimo laikotarpį iki viešojo susirinkimo ir
 
-ir jo metu, taip pat konsultavimosi metu.
+jo metu, taip pat konsultavimosi metu.
 
 2. Planavimo organizatorius, išnagrinėjęs visuomenės
 
@@ -3160,13 +3160,13 @@ administracine tvarka, o nesant galimybės teritorijų planavimo dokumentų
 
 sprendinius panaikinti administracine tvarka, kreipiasi į teismą.
 
-6. Šio
+6. Šio straipsnio
 
-straipsnio 4 ir 5 dalyse nurodyti asmenys, nesutikdami su Vyriausybės ar
+4 ir 5 dalyse nurodyti asmenys, nesutikdami su Vyriausybės ar Aplinkos
 
-Aplinkos ministerijos įgaliotos institucijos sprendimu, turi teisę dėl viešojo
+ministerijos įgaliotos institucijos sprendimu, turi teisę dėl viešojo intereso
 
-intereso gynimo kreiptis į teismą.
+gynimo kreiptis į teismą.
 
 Straipsnio
 
@@ -3228,13 +3228,13 @@ atitinka teisės aktų reikalavimus, bendrųjų, specialiųjų ir detaliųjų
 
 teritorijų planavimo dokumentų rengimo, svarstymo ir derinimo procedūrų
 
-kontrolė, taip pat tikrinimas, ar sprendiniai atitinka šio Įstatymo ir kitų
+kontrolė, taip pat tikrinimas, ar sprendiniai atitinka šio Įstatymo ir kitų teritorijų
 
-teritorijų planavimą reglamentuojančių teisės aktų reikalavimus. Valstybinės
+planavimą reglamentuojančių teisės aktų reikalavimus. Valstybinės teritorijų
 
-teritorijų planavimo priežiūros bendrąją tvarką nustato Vyriausybės patvirtinti
+planavimo priežiūros bendrąją tvarką nustato Vyriausybės patvirtinti Teritorijų
 
-Teritorijų planavimo ir statybos valstybinės priežiūros nuostatai.
+planavimo ir statybos valstybinės priežiūros nuostatai.
 
 2. Valstybinę
 
@@ -3300,11 +3300,11 @@ apskundimo terminui.
 
 6.
 
-Teritorijų planavimo dokumentų sprendinių įgyvendinimą pagal kompetenciją
+Teritorijų planavimo dokumentų sprendinių įgyvendinimą pagal kompetenciją kontroliuoja
 
-kontroliuoja valstybės ir savivaldybės institucijos įstatymų ir kitų teisės
+valstybės ir savivaldybės institucijos įstatymų ir kitų teisės aktų nustatyta
 
-aktų nustatyta tvarka.
+tvarka.
 
 Straipsnio
 
@@ -3320,11 +3320,11 @@ straipsnis. Valstybinę teritorijų planavimo priežiūrą atliekančių institu
 
 funkcijos
 
-Valstybinę teritorijų
+Valstybinę
 
-planavimo priežiūrą atliekanti institucija pagal kompetenciją atlieka šias
+teritorijų planavimo priežiūrą atliekanti institucija pagal kompetenciją
 
-funkcijas:
+atlieka šias funkcijas:
 
 1) tikrina, ar planavimo sąlygos ir planavimo
 
@@ -3532,15 +3532,13 @@ dokumentus turi teisę:
 
 1) juridiniai
 
-asmenys ir įmonių, įsteigtų Europos Sąjungos valstybėse narėse ir kitose
+asmenys ir įmonių, įsteigtų Europos Sąjungos valstybėse narėse ir kitose Europos
 
-Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse, filialai
+ekonominės erdvės susitarimą pasirašiusiose valstybėse, filialai Lietuvos
 
-Lietuvos Respublikoje, jeigu jų steigimo dokumentuose numatyta teritorijų
+Respublikoje, jeigu jų steigimo dokumentuose numatyta teritorijų planavimo
 
-planavimo veikla, o darbams vadovauja atestuotas teritorijų planavimo
-
-specialistas;
+veikla, o darbams vadovauja atestuotas teritorijų planavimo specialistas;
 
 2) teritorijų planavimo specialistas ar atitinkamos
 
@@ -3644,13 +3642,13 @@ ATLYGINIMAS IR ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMĄ
 
 Žalos atlyginimas
 
-Žala, atsiradusi dėl neteisėtais veiksmais
+Žala, atsiradusi dėl neteisėtais veiksmais įgyvendinamų
 
-įgyvendinamų teritorijų planavimo dokumentų, atlyginama Civilinio kodekso,
+teritorijų planavimo dokumentų, atlyginama Civilinio kodekso, Žemės įstatymo ir
 
-Žemės įstatymo ir kitų teisės aktų nustatyta tvarka. Ginčus dėl žalos
+kitų teisės aktų nustatyta tvarka. Ginčus dėl žalos atlyginimo sprendžia
 
-atlyginimo sprendžia teismas.
+teismas.
 
 38 straipsnis.
 
@@ -3760,9 +3758,9 @@ TERITORIJŲ PLANAVIMO ĮSTATYMO 2, 4, 9, 14, 17, 20, 21,
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-288, 2001 04 19, Žin., 2001, Nr.
+Nr. IX-288, 2001 04 19, Žin., 2001, Nr. 39-1358
 
-39-1358 (2001 05 09)
+(2001 05 09)
 
 TERITORIJŲ PLANAVIMO ĮSTATYMO 21, 24 IR 26 STRAIPSNIŲ
 
@@ -3870,13 +3868,27 @@ PLANAVIMO ĮSTATYMO 1, 2, 7, 10, 12, 15, 17, 18, 20, 21, 22, 23, 24, 25, 26, 27,
 
 28, 29, 31, 32, 34, 35, 36 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-757, 2006-07-11, Žin., 2006, Nr. 82-3256 (2006-07-27)
+
+TERITORIJŲ
+
+PLANAVIMO ĮSTATYMO 26 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-06-15)
+Aušrinė Trapinskienė (2006-07-27)
 
 autrap@lrs.lt
 
