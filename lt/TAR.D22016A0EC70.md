@@ -4,7 +4,7 @@ identifier: "TAR.D22016A0EC70"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2004-12-01"
+last_updated: "2006-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2004-12-01 iki 2006-07-13
+Suvestinė redakcija nuo 2006-07-14 iki 2008-02-11
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
 
@@ -292,9 +292,17 @@ Nr. IX-2390, 2004-07-15, Žin., 2004, Nr. 118-4396 (2004-07-31), i. k. 1041010IS
 
 2. Privačių žuvininkystės tvenkinių žuvų ištekliai nuosavybės teise priklauso šių tvenkinių savininkams.
 
-3. To paties vandens šaltinio baseine draudžiama įrengti naujus tvenkinius aukštupio kryptimi virš jau esančių žuvininkystės tvenkinių be Aplinkos ministerijos leidimo.
+3. To paties vandens šaltinio baseine draudžiama įrengti naujus tvenkinius aukštupio kryptimi virš jau esančių žuvininkystės tvenkinių, nesuderinus statinio projektavimo sąlygų su Žemės ūkio ministerija ar jos įgaliota institucija bei Valstybine maisto ir veterinarijos tarnyba.
 
-4. Valstybinė maisto ir veterinarijos tarnyba kontroliuoja žuvininkystės tvenkiniuose auginamų žuvų sanitarinę ir epizootinę būklę.
+Straipsnio dalies pakeitimai:
+
+Nr. X-727, 2006-06-22, Žin., 2006, Nr. 77-2971 (2006-07-14), i. k. 1061010ISTA000X-727
+
+4. Valstybinė maisto ir veterinarijos tarnyba kontroliuoja žuvininkystės tvenkiniuose auginamų žuvų sanitarinę ir epizootinę būklę. Vyriausybė nustato specialiąsias žemės naudojimo sąlygas aplink žuvininkystės tvenkinius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-727, 2006-06-22, Žin., 2006, Nr. 77-2971 (2006-07-14), i. k. 1061010ISTA000X-727
 
 5. Žuvivaisa valstybiniuose žuvininkystės vandens telkiniuose vykdoma pagal Žemės ūkio ministerijos patvirtintą ir su Aplinkos ministerija suderintą programą.
 
@@ -439,6 +447,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2390, 2004-07-15, Žin., 2004, Nr. 118-4396 (2004-07-31), i. k. 1041010ISTA0IX-2390
 
 Lietuvos Respublikos žuvininkystės įstatymo 8 ir 11 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-727, 2006-06-22, Žin., 2006, Nr. 77-2971 (2006-07-14), i. k. 1061010ISTA000X-727
+
+Lietuvos Respublikos žuvininkystės įstatymo 16 straipsnio pakeitimo įstatymas
 
 30 straipsnis. Ginčai dėl Žuvininkystės įstatymo pažeidimų
 
