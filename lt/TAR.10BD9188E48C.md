@@ -4,7 +4,7 @@ identifier: "TAR.10BD9188E48C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-12"
-last_updated: "2003-04-09"
+last_updated: "2006-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.10BD9188E48C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymas
 
-Suvestinė redakcija nuo 2003-04-09 iki 2006-07-13
+Suvestinė redakcija nuo 2006-07-14 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1976, i. k. 1011010ISTA00IX-375
 
@@ -37,51 +37,57 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
 
-1. Šis įstatymas nustato veiklos, susijusios su genetiškai modifikuotais organizmais ir genetiškai modifikuotais produktais, sritis, jų valstybinį valdymą bei reguliavimą, taip pat šių organizmų ir produktų naudotojų teises, pareigas ir atsakomybę.
+1. Šis įstatymas nustato veiklos, susijusios su genetiškai modifikuotais mikroorganizmais ir organizmais bei genetiškai modifikuotais produktais, sritis, jų valstybinį valdymą ir reguliavimą bei fizinių ir juridinių asmenų, Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotų užsienio valstybių juridinių asmenų filialų ir kitų padalinių (toliau – fiziniai ir juridiniai asmenys), ribotai naudojančių genetiškai modifikuotus mikroorganizmus arba organizmus, apgalvotai išleidžiančių į aplinką genetiškai modifikuotus organizmus bei juos, kaip produktus ar esančius kituose produktuose, tiekiančių rinkai, teises, pareigas ir atsakomybę.
 
-2. Įstatymas taikomas visiems fiziniams ir juridiniams asmenims, kurie yra susiję su genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų apgalvotu išleidimu į aplinką, naudojimu, teikimu į rinką, bandymų ir mokslinio tyrimo darbų atlikimu bei kita šio įstatymo numatyta, su genetiškai modifikuotais organizmais ir genetiškai modifikuotais produktais susijusia veikla Lietuvos Respublikos teritorijoje.
+2. Įstatymas taikomas visiems fiziniams ir juridiniams asmenims, kurie ribotai naudoja genetiškai modifikuotus mikroorganizmus arba organizmus, apgalvotai išleidžia į aplinką genetiškai modifikuotus organizmus ar tiekia rinkai genetiškai modifikuotus organizmus, kaip produktus ar esančius kituose produktuose, ir užsiima kita šio įstatymo numatyta su genetiškai modifikuotais mikroorganizmais, genetiškai modifikuotais organizmais ir genetiškai modifikuotais produktais susijusia veikla Lietuvos Respublikos teritorijoje.
 
-3. Šis įstatymas nenustato genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų gabenimo tranzitu per Lietuvos Respublikos teritoriją, taip pat gabenimo geležinkeliais, keliais, vidaus vandens keliais, jūra ar oru privalomų saugos reikalavimų. Šiuos reikalavimus nustato kiti Lietuvos Respublikos teisės aktai.
+3. Šis įstatymas netaikomas nustatant genetiškai modifikuotų mikroorganizmų, genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų gabenimo tranzitu per Lietuvos Respublikos teritoriją, taip pat gabenimo geležinkeliais, keliais, vidaus vandens keliais, jūra ar oru privalomus saugos reikalavimus.
 
-2 straipsnis. pagrindinės šio įstatymo sąvokos
+4. Įstatymas netaikomas nustatant organizmų ir mikroorganizmų naudojimo reikalavimus, kai genetinė modifikacija atliekama nenaudojant rekombinantinių nukleino rūgščių molekulių, ir tų organizmų bei mikroorganizmų, kurie atsiranda vykstant natūraliems procesams.
 
-1. organizmas – bet kuris biologinis vienetas, galintis daugintis ir (ar) perduoti savo genetinę medžiagą.
+5. Šio įstatymo nuostatos yra suderintos su jo priede pateiktais Europos Sąjungos teisės aktais.
 
-2. genetiškai modifikuotas organizmas – organizmas (išskyrus žmogų), kurio genetinė medžiaga yra taip pakeista ir įgijusi tokių savybių, kurios negalėtų atsirasti organizmui dauginantis natūraliu būdu.
+Straipsnio pakeitimai:
 
-3. Genetiškai modifikuotas produktas – toks preparatas, kurio sudėtyje yra ar kuris susideda iš genetiškai modifikuotų organizmų ar jų dalių ir yra teikiamas į rinką.
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
-Straipsnio dalies pakeitimai:
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+1. Apgalvotas išleidimas į aplinką – genetiškai modifikuoto organizmo arba šių organizmų kombinacijos sąmoningas perkėlimas į aplinką, netaikant specifinių priemonių, ribojančių to organizmo (organizmų) sąlytį su gyventojais ar aplinka, užtikrinančių gyventojų saugą ir aplinkos apsaugą. Apgalvoto išleidimo į aplinką sąvoka taikoma šiai veiklai: bandomajam genetiškai modifikuotų organizmų išleidimui į aplinką, genetiškai modifikuotų organizmų tiekimui rinkai.
 
-4. apgalvotas išleidimas į aplinką – visus privalomus saugos bei rizikos įvertinimo reikalavimus atitinkančių genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų gamyba bei naudojimas nesiimant papildomų priemonių, kad būtų apribotas poveikis žmonių sveikatai ir aplinkai.
+2. Genetiškai modifikuotas mikroorganizmas (GMM) – mikroorganizmas, kuriame genetinė medžiaga pakeista tokiu būdu, kuris natūraliai nepasitaiko poruojantis ir (arba) natūralios rekombinacijos būdu.
 
-5. Nelaimingas atsitikimas – įvykis, susijęs su nenumatytu naudojamų genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų patekimu į aplinką ir sukeliantis arba galintis sukelti neigiamą poveikį žmonių sveikatai bei aplinkai.
+3. Genetiškai modifikuotas organizmas (GMO) – organizmas, išskyrus žmogų, kuriame genetinė medžiaga pakeista tokiu būdu, kuris paprastai nepasitaiko poruojantis ir (arba) natūralios rekombinacijos būdu.
 
-6. Naudojimas – veikla, kurios metu genetiškai modifikuoti organizmai dauginami, auginami ar kitaip ribotai naudojami ir (ar) genetiškai modifikuoti produktai gaminami ir teikiami į rinką, genetiškai modifikuoti organizmai ir genetiškai modifikuoti produktai apgalvotai išleidžiami į aplinką, importuojami, eksportuojami, taip pat bandymai bei mokslinio tyrimo darbai.
+4. GMO ekspertų komitetas – patariamoji visuomeniniais pagrindais veikianti institucija, nagrinėjanti genetiškai modifikuotų mikroorganizmų ir organizmų arba jų, kaip produktų ar esančių kituose produktuose, rizikos aplinkai ir žmonių sveikatai vertinimo ataskaitas, stebėsenos (monitoringo) planą, rengianti ir teikianti pasiūlymus bei išvadas genetiškai modifikuotų organizmų ekspertizės klausimais prieš tiekiant juos rinkai, apgalvotai išleidžiant į aplinką ar ribotai naudojant.
 
-7. Naudotojai – fiziniai ir juridiniai asmenys, teisės aktų nustatyta tvarka gavę tam tikrai veiklai leidimą ir jai naudojantys genetiškai modifikuotus organizmus bei genetiškai modifikuotus produktus.
+5. GMO valdymo priežiūros komitetas – konsultacinio pobūdžio visuomeniniais pagrindais veikianti institucija, svarstanti genetiškai modifikuotų organizmų politikos klausimus, teikianti pasiūlymus ministerijoms, Vyriausybės įstaigoms, kitoms institucijoms dėl šios srities teisinių dokumentų, programų rengimo ir įgyvendinimo.
 
-8. Ribotas naudojimas – veikla, kurios metu organizmai yra genetiškai modifikuojami arba genetiškai modifikuoti organizmai yra dauginami, saugomi, naikinami ar šalinami, gabenami gamybos tikslais; taip pat mokslinio tyrimo darbai ir bandymai, kurių metu griežtai kontroliuojamas šių organizmų poveikis žmonėms bei aplinkai.
+6. Genetiškai modifikuotas produktas (toliau – produktas) – preparatas, kurio sudėtyje yra ar kuris susideda iš genetiškai modifikuotų organizmų ar genetiškai modifikuotų organizmų kombinacijų ir kuris tiekiamas rinkai.
 
-9. Pranešimas – informacijos apie genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų numatomą išleidimą į aplinką, teikimą į rinką ir (ar) ribotą naudojimą, taip pat apie kitą šio įstatymo numatytą veiklą, kurios metu yra naudojami genetiškai modifikuoti organizmai ir genetiškai modifikuoti produktai, pateikimas Aplinkos ministerijai.
+7. Genetiškai modifikuoto produkto saugos ekspertizė – genetiškai modifikuoto produkto savybių, galinčių daryti poveikį žmonių sveikatai ir aplinkai, įvertinimas ir išvados apie genetiškai modifikuoto produkto saugumą pateikimas.
 
-10. Rizikos įvertinimas – rizikos, kurią žmonių sveikatai ir aplinkai gali sukelti genetiškai modifikuotų organizmų ir (ar) genetiškai modifikuotų produktų naudojimas, nustatymas.
+8. Genetiškai modifikuoto organizmo ar produkto saugos kontrolė – valstybės institucijų ir įstaigų vykdoma genetiškai modifikuoto organizmo ar produkto saugos kontrolė siekiant nustatyti, ar apgalvotai išleidžiamas į aplinką genetiškai modifikuotas organizmas atitinka privalomus saugos reikalavimus.
 
-11. Teikimas į rinką – genetiškai modifikuotų organizmų ir (ar) genetiškai modifikuotų produktų išleidimas į apyvartą, jų realizavimas, importas, eksportas, nuoma, pardavimas ar kitoks teikimas fiziniam ar juridiniam asmeniui, kuris verčiasi ar gali verstis veikla, susijusia su genetiškai modifikuotais organizmais ir (ar) genetiškai modifikuotais produktais.
+9. Mikroorganizmas – bet kuris mikrobiologinis vienetas, ląstelinis ar neląstelinis, kuris gali daugintis ar perduoti genetinę medžiagą, įskaitant virusus, viroidus, gyvūnines ir augalines kultūros ląsteles.
 
-Straipsnio dalies pakeitimai:
+10. Naudojimas – veikla, kurios metu genetiškai modifikuoti mikroorganizmai ar organizmai dauginami, auginami ar kitaip ribotai naudojami ir (ar) genetiškai modifikuoti organizmai ar jų kombinacija, kaip atskiri produktai ar esantys kituose produktuose, gaminami ir tiekiami rinkai, apgalvotai išleidžiami į aplinką, importuojami, eksportuojami, taip pat atliekami bandymai bei mokslinio tyrimo darbai.
 
-Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+11. Nelaimingas atsitikimas – bet koks įvykis, susijęs su gausiu ir nenumatytu genetiškai modifikuoto mikroorganizmo ar organizmo išleidimu į aplinką jų riboto naudojimo metu, galintis kelti tiesioginį ar uždelstą pavojų žmonių sveikatai ar aplinkai.
 
-12. Genetiškai modifikuoto produkto saugos ekspertizė – genetiškai modifikuoto produkto savybių, galinčių turėti įtakos žmonių sveikatai ir aplinkai, įvertinimas bei išvados, ar genetiškai modifikuotas produktas yra saugus, pateikimas.
+12. Organizmas – bet kuris biologinis vienetas, galintis daugintis ir (ar) perduoti savo genetinę medžiagą.
 
-13. Genetiškai modifikuoto produkto saugos kontrolė – valstybės institucijų ir įstaigų vykdoma genetiškai modifikuoto produkto saugos kontrolė, siekiant nustatyti, ar teikiamas į rinką genetiškai modifikuotas produktas atitinka privalomus saugos reikalavimus.
+13. Pranešimas – būtinos informacijos apie numatomą genetiškai modifikuotų mikroorganizmų ar organizmų ribotą naudojimą, genetiškai modifikuotų organizmų apgalvotą išleidimą į aplinką teikimas Aplinkos ministerijai.
 
-Straipsnio dalies pakeitimai:
+14. Ribotas naudojimas – veikla, kai specialiomis priemonėmis ribojant organizmų arba mikroorganizmų sąlytį su gyventojais ir aplinka tie mikroorganizmai arba organizmai genetiškai modifikuojami, auginami, saugomi, transportuojami, naikinami, šalinami ar kitaip naudojami.
 
-Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+15. Rizikos aplinkai vertinimas – tiesioginės arba netiesioginės, greitos arba uždelstos rizikos, kurią žmonių sveikatai ir aplinkai gali kelti apgalvotai į aplinką išleisti ar tiekti rinkai genetiškai modifikuoti organizmai, įvertinimas.
+
+16. Tiekimas rinkai – produkto tiekimas tretiesiems asmenims už mokestį arba nemokamai.
+
+Straipsnio pakeitimai:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
 ANTRASIS SKIRSNIS
 
@@ -101,17 +107,29 @@ Aplinkos ministerija:
 
 3) priima pranešimus iš fizinių ir juridinių asmenų apie genetiškai modifikuotus organizmus bei genetiškai modifikuotus produktus;
 
-4) išduoda leidimus veiklai, kurios metu yra naudojami genetiškai modifikuoti organizmai ir genetiškai modifikuoti produktai, nutraukia ir panaikina šių leidimų galiojimą šios ministerijos nustatyta tvarka;
+4) išduoda leidimus veiklai, kurios metu yra ribotai naudojami genetiškai modifikuoti mikroorganizmai ar organizmai ir apgalvotai išleidžiami į aplinką genetiškai modifikuoti organizmai ne tiekimo rinkai tikslais, ir sutikimus veiklai apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus tiekimo rinkai tikslais, jei toks genetiškai modifikuoto organizmo tiekimas rinkai neįteisintas Europos Sąjungoje; nutraukia, sustabdo, pratęsia, apriboja, pakeičia išleidimo į aplinką ar riboto naudojimo sąlygas ir panaikina šių leidimų ar sutikimų galiojimą šios ministerijos nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
 5) Vyriausybės nustatyta tvarka „Valstybės žinių“ priede „Informaciniai pranešimai“ skelbia visuomenei ir valstybės įgaliotoms institucijoms, atsakingoms už rinkos priežiūrą ir valstybinę saugos ekspertizę, apie leidimų išdavimą, sustabdymą ar galiojimo nutraukimą, apie nelaimingų atsitikimų atvejus;
 
-6) nustato genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų, išskyrus maisto prekes, kuriose yra genetiškai modifikuotų organizmų arba kurios iš jų susideda ar yra iš jų pagamintos, privalomus ženklinimo reikalavimus;
+6) organizuoja valstybinę genetiškai modifikuotų organizmų išleidimo į aplinką stebėseną (monitoringą) pagal Aplinkos ministerijos ar jos įgaliotos institucijos nustatytą tvarką;
 
 Papildyta straipsnio punktu:
 
 Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
 
-7) kartu su Sveikatos apsaugos ministerija, Valstybine maisto ir veterinarijos tarnyba nustato genetiškai modifikuotų organizmų klasifikavimo kriterijus;
+Straipsnio punkto pakeitimai:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
+
+7) kartu su Sveikatos apsaugos ministerija, Valstybine maisto ir veterinarijos tarnyba nustato genetiškai modifikuotų mikroorganizmų klasifikavimo kriterijus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -123,11 +141,25 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
 
-9) atlieka šio įstatymo ir kitų Lietuvos Respublikos teisės aktų jai priskirtas funkcijas.
+9) sudaro ir koordinuoja GMO valdymo priežiūros komiteto ir GMO ekspertų komiteto darbą;
+
+Papildyta straipsnio punktu:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
+
+10) nustato modifikacijos metodus, kuriuos taikant įvyksta arba neįvyksta genetinė modifikacija;
+
+Papildyta straipsnio punktu:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
+
+11) atlieka šio įstatymo ir kitų Lietuvos Respublikos teisės aktų jai priskirtas funkcijas.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
 5 straipsnis. Sveikatos apsaugos ministerijos kompetencija
 
@@ -135,11 +167,19 @@ Sveikatos apsaugos ministerija:
 
 1) kartu su Valstybine maisto ir veterinarijos tarnyba nustato maisto, kuriame yra genetiškai modifikuotų organizmų arba kuris iš jų susideda ar yra iš jų pagamintas, privalomus saugos reikalavimus;
 
-2) kartu su Ūkio ministerija, Žemės ūkio ministerija ir Valstybine maisto ir veterinarijos tarnyba nustato maisto prekių, kuriose yra genetiškai modifikuotų organizmų arba kurios iš jų susideda ar yra iš jų pagamintos, privalomus ženklinimo reikalavimus;
+2) nustatyta tvarka atlieka genetiškai modifikuoto maisto saugos ekspertizę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
 3) nustato maisto, kuriame yra genetiškai modifikuotų organizmų arba kuris iš jų susideda ar yra iš jų pagamintas, saugos ekspertizės tvarką;
 
-4) kartu su Žemės ūkio ministerija nustato maisto, kuriame yra genetiškai modifikuotų organizmų arba kuris iš jų susideda ar yra iš jų pagamintas, gamybos ir teikimo į rinką reikalavimus;
+4) Neteko galios nuo 2006-07-14
+
+Straipsnio punkto naikinimas:
+
+Nr. X-720, 2006-06-22, Žin. 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
 5) kartu su Valstybine maisto ir veterinarijos tarnyba nustato produktų saugos ekspertizės atlikimo tvarką;
 
@@ -159,7 +199,11 @@ Sveikatos apsaugos ministerija:
 
 Valstybinė maisto ir veterinarijos tarnyba:
 
-1) kartu su Sveikatos apsaugos ministerija nustato maisto produktų ir jų sudedamųjų dalių, kuriuose yra genetiškai modifikuotų organizmų ar kurie iš jų susideda ar yra iš jų pagaminti, gamybos ir teikimo į rinką reikalavimus;
+1) Neteko galios nuo 2006-07-14
+
+Straipsnio punkto naikinimas:
+
+Nr. X-720, 2006-06-22, Žin. 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
 2) nustatyta tvarka atlieka genetiškai modifikuotų produktų saugos ekspertizę;
 
@@ -175,7 +219,11 @@ Genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų valsty
 
 2) genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų teikimo į rinką saugos kontrolę ir rinkos priežiūrą – pagal kompetenciją Valstybinė maisto ir veterinarijos tarnyba, Žemės ūkio ministerija ir Sveikatos apsaugos ministerija ar jų įgaliotos institucijos;
 
-3) genetiškai modifikuotų organizmų riboto naudojimo kontrolę – pagal kompetenciją Aplinkos ministerija, Valstybinė maisto ir veterinarijos tarnyba, Žemės ūkio ministerija ir Sveikatos apsaugos ministerija ar jų įgaliotos institucijos;
+3) genetiškai modifikuotų mikroorganizmų arba organizmų riboto naudojimo kontrolę – Aplinkos ministerija ar jos įgaliotos institucijos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
 4) žmonėms skirtų medicininių gaminių, vaistų, kurių sudėtyje yra genetiškai modifikuotų organizmų ar kurie yra iš jų pagaminti, saugos kontrolę – Sveikatos apsaugos ministerija ar jos įgaliotos institucijos;
 
@@ -187,29 +235,47 @@ Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010IST
 
 TREČIASIS SKIRSNIS
 
-VEIKLOS, KURIOS METU YRA NAUDOJAMI GENETIŠKAI MODIFIKUOTI ORGANIZMAI IR GENETIŠKAI MODIFIKUOTI PRODUKTAI, REGULIAVIMAS
+VEIKLOS, KURIOS METU YRA NAUDOJAMI GENETIŠKAI MODIFIKUOTI ORGANIZMAI IR GENETIŠKAI MODIFIKUOTI MIKROORGANIZMAI, REGULIAVIMAS
 
-9 straipsnis. Leidimai veiklai, kurios metu yra naudojami genetiškai modifikuoti organizmai ir genetiškai modifikuoti produktai
+Pakeistas skirsnio pavadinimas:
 
-1. Lietuvos Respublikoje fiziniai ir juridiniai asmenys, norintys verstis veikla, kurios metu yra naudojami genetiškai modifikuoti organizmai ir genetiškai modifikuoti produktai, turi gauti iš Aplinkos ministerijos leidimą. Šiam leidimui gauti jie pateikia Aplinkos ministerijai pranešimą apie pageidavimą verstis veikla, susijusia su genetiškai modifikuotais organizmais ir genetiškai modifikuotais produktais.
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
-2. Aplinkos ministerija, prieš priimdama sprendimą dėl leidimo verstis veikla, kurios metu yra naudojami genetiškai modifikuoti organizmai ir (ar) genetiškai modifikuoti produktai, išdavimo, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apibendrina genetiškai modifikuotų organizmų ir (ar) genetiškai modifikuotų produktų rizikos įvertinimą bei saugos ekspertizę.
+9 straipsnis. Leidimai ir sutikimai veiklai, kurios metu yra naudojami genetiškai modifikuoti organizmai ir genetiškai modifikuoti mikroorganizmai
 
-10 straipsnis. Naudotojo teisės ir pareigos
+1. Lietuvos Respublikoje verstis veikla, kurios metu genetiškai modifikuoti organizmai apgalvotai išleidžiami į aplinką ne tiekimo rinkai tikslais ir (ar) ribotai naudojami genetiškai modifikuoti mikroorganizmai arba organizmai, gali fiziniai ir juridiniai asmenys, gavę leidimą apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus ir (ar) ribotai naudoti genetiškai modifikuotus mikroorganizmus arba organizmus Aplinkos ministerijos nustatyta tvarka, kuri taip pat nustato riboto naudojimo veikloje naudojamas specialias ribojimo priemones.
 
-1. Naudotojas turi teisę naudoti tuos genetiškai modifikuotus organizmus ir genetiškai modifikuotus produktus, dėl kurių bet kurioje kitoje šalyje yra išduotas leidimas ir kurių galiojimas Lietuvos Respublikos teritorijoje įteisintas Užsienio reikalų ministerijos nustatyta tvarka, gavęs Aplinkos ministerijos išvadą dėl genetiškai modifikuotų organizmų ir produktų rizikos aplinkai ir žmonių sveikatai.
+2. Tiekimo rinkai tikslais apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus, kurių naudojimas neįteisintas Europos Sąjungoje, gali fiziniai ar juridiniai asmenys, teisės aktų nustatyta tvarka gavę sutikimą.
 
-2. Naudotojas turi teisę gauti informaciją iš Aplinkos ministerijos, Sveikatos apsaugos ministerijos ir Žemės ūkio ministerijos apie genetiškai modifikuotus organizmus ir (ar) genetiškai modifikuotus produktus bei jų naudojimą.
+3. Šio straipsnio 1 ir 2 dalyse numatytus leidimus ir sutikimus fiziniams ir juridiniams asmenims išduoda Aplinkos ministerija šios ministerijos nustatyta tvarka.
 
-3. naudotojas privalo laikytis visų leidime nurodytų reikalavimų.
+4. Aplinkos ministerija, remdamasi nauja ar papildoma informacija, galinčia paveikti rizikos aplinkai įvertinimą arba pakartotinį turimos informacijos įvertinimą, taip pat naujomis ar papildomomis mokslo žiniomis, turi svarbių priežasčių manyti, kad genetiškai modifikuotas organizmas, kaip atskiras produktas ar esantis kitame produkte, kurio naudojimas įteisintas Europos Sąjungoje, kelia riziką žmonių sveikatai ar aplinkai, gali priimti sprendimą laikinai apriboti arba uždrausti tokio genetiškai modifikuoto organizmo, kaip atskiro produkto ar esančio kitame produkte, naudojimą ir (arba) pardavimą Lietuvos Respublikoje.
 
-4. naudotojas privalo imtis visų įmanomų priemonių aplinkai bei žmonių sveikatai apsaugoti nuo galimo neigiamo genetiškai modifikuotų organizmų ir produktų poveikio.
+5. Aplinkos ministerija, priimdama sprendimą, nurodytą šio straipsnio 4 dalyje, nedelsdama informuoja Europos Komisiją, valstybes nares bei visuomenę ir pagrindžia savo sprendimą rizikos aplinkai įvertinimu.
 
-5. Įvykus nelaimingam atsitikimui, naudotojas privalo nedelsdamas apie tai pranešti Aplinkos ministerijai ir imtis visų priemonių neigiamiems padariniams pašalin0ti.
+Straipsnio pakeitimai:
 
-6. Naudotojas privalo teikti informaciją ir duomenis apie jo naudojamus genetiškai modifikuotus organizmus ir genetiškai modifikuotus produktus Aplinkos ministerijai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
-7. Naudotojas Aplinkos ministerijos ir Sveikatos apsaugos ministerijos pagal kompetenciją nustatyta tvarka įvertina genetiškai modifikuotų organizmų riziką aplinkai bei žmonių sveikatai ir atlieka genetiškai modifikuotų produktų saugos ekspertizę.
+10 straipsnis. Fizinių ir juridinių asmenų, kurie naudoja genetiškai modifikuotus organizmus ir (ar) genetiškai modifikuotus mikroorganizmus, teisės ir pareigos
+
+1. Fiziniai ir juridiniai asmenys turi teisę naudoti tuos genetiškai modifikuotus organizmus, kaip produktus ar esančius kituose produktuose, kurių naudojimas įteisintas Europos Sąjungoje, išskyrus atvejus, kai genetiškai modifikuoto organizmo, kaip atskiro produkto ar esančio kitame produkte, naudojimas ir (arba) pardavimas laikinai apribotas arba uždraustas Lietuvos Respublikoje pagal šio įstatymo 9 straipsnio 4 punktą. Tiekiant rinkai konkretų produktą, turi būti laikomasi konkrečių to produkto naudojimo sąlygų ir jis turi būti naudojamas nustatytoje aplinkoje ir (arba) šalies teritorijoje.
+
+2. Fiziniai ir juridiniai asmenys turi teisę gauti teisės aktų nustatyta tvarka informaciją iš Aplinkos ministerijos, Sveikatos apsaugos ministerijos, Žemės ūkio ministerijos ir kitų institucijų apie genetiškai modifikuotus organizmus ir (ar) genetiškai modifikuotus mikroorganizmus bei jų naudojimą.
+
+3. Fiziniai ir juridiniai asmenys, naudojantys genetiškai modifikuotus mikroorganizmus ir (ar) genetiškai modifikuotus organizmus, privalo laikytis visų leidime ribotai naudoti genetiškai modifikuotus mikroorganizmus arba organizmus, apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus ne tiekimo rinkai tikslais ir (ar) sutikime apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus tiekimo rinkai tikslais nurodytų reikalavimų.
+
+4. Įvykus nelaimingam atsitikimui, asmenys, naudojantys genetiškai modifikuotus mikroorganizmus arba organizmus, privalo nedelsdami apie tai pranešti Aplinkos ministerijai jos nustatyta tvarka ir imtis visų priemonių neigiamiems padariniams pašalinti.
+
+5. Fiziniai ir juridiniai asmenys privalo teikti informaciją ir duomenis apie jų naudojamus genetiškai modifikuotus mikroorganizmus ir (ar) genetiškai modifikuotus organizmus Aplinkos ministerijai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+
+6. Fiziniai ir juridiniai asmenys Aplinkos ministerijos, Sveikatos apsaugos ministerijos ir Žemės ūkio ministerijos nustatyta tvarka įvertina genetiškai modifikuotų organizmų riziką aplinkai bei žmonių sveikatai ir atlieka genetiškai modifikuotų produktų saugos ekspertizę.
+
+7. Fiziniai ir juridiniai asmenys, teikiantys rinkai genetiškai modifikuotus organizmus, privalo laikytis teisės aktuose nustatytų ženklinimo ir susekamumo reikalavimų.
+
+Straipsnio pakeitimai:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
 KETVIRTASIS SKIRSNIS
 
@@ -255,19 +321,23 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 Lietuvos Respublikos
 
-genetiškai modifikuotų
-
-organizmų įstatymo
-
-Nr. IX-375
+genetiškai modifikuotų organizmų įstatymo
 
 priedas
 
-Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymas yra suderintas su 2001 m. kovo 12 d. Tarybos direktyva Nr. 2001/18/EB dėl genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką ir 1998 m. spalio 26 d. Tarybos direktyva Nr. 98/81/EB dėl riboto genetiškai modifikuotų mikroorganizmų naudojimo.
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 1990 m. balandžio 23 d. Tarybos direktyva 90/219/EEB dėl riboto genetiškai modifikuotų mikroorganizmų naudojimo (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 381 (su paskutiniais pakeitimais, padarytais 1998 m. spalio 26 d. Tarybos direktyva 98/81/EB, OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 71).
+
+2. 2001 m. kovo 12 d. Europos Parlamento ir Tarybos direktyva 2001/18/EB dėl genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką ir panaikinanti Tarybos direktyvą 90/220/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 77 (su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos Reglamentu (EB) Nr. 1830/2003, OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455).
 
 Papildyta priedu:
 
 Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+
+Priedo pakeitimai:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
 Pakeitimai:
 
@@ -278,4 +348,36 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
 
 Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymo 2, 4, 8 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
+
+Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymo 1, 2, 4, 5, 7, 8, 9, 10 straipsnių pakeitimo ir papildymo, trečiojo skirsnio pavadinimo pakeitimo, įstatymo papildymo 7(1), 7(2 )straipsniais ir priedo pakeitimo įstatymas
+
+71 straipsnis. GMO ekspertų komitetas
+
+1. GMO ekspertų komiteto sudėtį ir veiklos nuostatus tvirtina Aplinkos ministerija.
+
+2. GMO ekspertų komitetas organizuoja genetiškai modifikuotų organizmų ekspertų veiklą Lietuvos Respublikoje.
+
+3. GMO ekspertų komitetas atlieka rizikos aplinkai vertinimą ir rengia išvadas bei pasiūlymus dėl genetiškai modifikuotų mikroorganizmų arba organizmų riboto naudojimo, genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką bei jų, kaip produktų ar esančių kituose produktuose, tiekimo rinkai.
+
+4. Atlieka kitas teisės aktais nustatytas funkcijas.
+
+Papildyta straipsniu:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
+
+72 straipsnis. Valstybinės genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką stebėsenos (monitoringo) ir rizikos aplinkai vertinimo finansavimas
+
+1. Valstybinė genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką stebėsena (monitoringas) ir rizikos aplinkai vertinimas finansuojami iš valstybės biudžeto lėšų.
+
+2. Valstybinei genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką stebėsenai (monitoringui) ir rizikos aplinkai vertinimui finansuoti gali būti naudojamos ir kitos teisėtai gautos lėšos.
+
+Papildyta straipsniu:
+
+Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 
