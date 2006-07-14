@@ -4,7 +4,7 @@ identifier: "TAR.A612711C3F71"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-12"
-last_updated: "2003-04-24"
+last_updated: "2006-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A612711C3F71"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos tarnybinio paso įstatymas
 
-Suvestinė redakcija nuo 2003-04-24 iki 2006-07-13
+Suvestinė redakcija nuo 2006-07-14 iki 2010-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 7-178, i. k. 1001010ISTAIII-1527
 
@@ -32,7 +32,13 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis Įstatymas nustato tarnybinio paso paskirtį, jo išdavimo, galiojimo, keitimo, grąžinimo, paėmimo, paskelbimo negaliojančiu, sunaikinimo sąlygas, jame įrašytinus duomenis.
+1. Šis Įstatymas nustato tarnybinio paso paskirtį, jo išdavimo, galiojimo, keitimo, grąžinimo, paėmimo, paskelbimo negaliojančiu, sunaikinimo sąlygas, jame įrašytinus duomenis.
+
+2. Šio Įstatymo nuostatos suderintos su šio Įstatymo priede nurodytais Europos Sąjungos teisės aktais.
+
+Straipsnio pakeitimai:
+
+Nr. X-706, 2006-06-20, Žin., 2006, Nr. 77-2958 (2006-07-14), i. k. 1061010ISTA000X-706
 
 2 straipsnis. Tarnybinis pasas ir jo paskirtis
 
@@ -84,11 +90,33 @@ Tarnybinis pasas galioja 5 metus nuo jame nurodytos išdavimo datos.
 
 3) data, iki kurios galioja tarnybinis pasas.
 
-3. Tarnybiniame pase turi būti asmens nuotrauka, parašas ir nurodomos pareigos. Pasikeitus asmens einamoms pareigoms, tarnybiniame pase padaromas įrašas apie naujas pareigas, jeigu asmuo atitinka šio Įstatymo 3 straipsnio reikalavimus.
+3. Tarnybiniame pase turi būti asmens veido atvaizdas, parašas ir nurodomos jo pareigos. Pasikeitus asmens einamoms pareigoms, tarnybiniame pase padaromas įrašas apie naujas pareigas, jeigu asmuo atitinka šio Įstatymo 3 straipsnio reikalavimus.
 
-4. Duomenų rūšių pavadinimai tarnybiniame pase spausdinami lietuvių, anglų ir prancūzų kalbomis.
+Straipsnio dalies pakeitimai:
 
-5. Duomenys tarnybiniame pase įrašomi lietuviškais rašmenimis, asmens vardas (-ai) ir pavardė – Lietuvos Respublikos teisės aktų, reglamentuojančių vardų ir pavardžių rašymą asmens dokumentuose, nustatyta tvarka. Įrašas apie asmens einamas pareigas įrašomas lietuvių ir anglų kalbomis.
+Nr. X-706, 2006-06-20, Žin., 2006, Nr. 77-2958 (2006-07-14), i. k. 1061010ISTA000X-706
+
+4. Tarnybiniame pase elektroniniu būdu fiksuojami šio straipsnio 1 dalyje išvardyti duomenys, taip pat asmens veido atvaizdas ir pirštų atspaudai.
+
+TAR pastaba. 5 straipsnio 4 dalies nuostata dėl duomenų apie asmenį ir asmens veido atvaizdo fiksavimo elektroniniu būdu į tarnybinį pasą įsigalioja nuo 2006-08-28, o dėl asmens pirštų atspaudų – ne vėliau kaip per 36 mėnesius po to, kai Europos Komisija nustatys technines specifikacijas dėl pirštų atspaudų.
+
+5 straipsnio 4 dalies nuostata netaikoma tarnybiniams pasams, išduotiems iki nurodytų nuostatų įsigaliojimo dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-706, 2006-06-20, Žin., 2006, Nr. 77-2958 (2006-07-14), i. k. 1061010ISTA000X-706
+
+5. Duomenų rūšių pavadinimai tarnybiniame pase spausdinami lietuvių, anglų ir prancūzų kalbomis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-706, 2006-06-20, Žin., 2006, Nr. 77-2958 (2006-07-14), i. k. 1061010ISTA000X-706
+
+6. Duomenys tarnybiniame pase įrašomi lietuviškais rašmenimis, asmens vardas (-ai) ir pavardė – Lietuvos Respublikos teisės aktų, reglamentuojančių vardų ir pavardžių rašymą asmens dokumentuose, nustatyta tvarka. Įrašas apie asmens einamas pareigas įrašomas lietuvių ir anglų kalbomis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-706, 2006-06-20, Žin., 2006, Nr. 77-2958 (2006-07-14), i. k. 1061010ISTA000X-706
 
 6 straipsnis. Tarnybinio paso išdavimas ir keitimas
 
@@ -156,6 +184,20 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
+Lietuvos Respublikos tarnybinio paso
+
+įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+2004 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 2252/2004 dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų.
+
+Papildyta priedu:
+
+Nr. X-706, 2006-06-20, Žin., 2006, Nr. 77-2958 (2006-07-14), i. k. 1061010ISTA000X-706
+
 Pakeitimai:
 
 1.
@@ -173,4 +215,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1407, 2003-04-01, Žin., 2003, Nr. 38-1655 (2003-04-24), i. k. 1031010ISTA0IX-1407
 
 Lietuvos Respublikos tarnybinio paso įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-706, 2006-06-20, Žin., 2006, Nr. 77-2958 (2006-07-14), i. k. 1061010ISTA000X-706
+
+Lietuvos Respublikos tarnybinio paso įstatymo 1, 5 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo priedu įstatymas
 
