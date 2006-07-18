@@ -4,7 +4,7 @@ identifier: "TAR.E9CE9C91C255"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "2005-07-05"
+last_updated: "2006-07-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 department: "Lietuvos Respublikos Seimas"
@@ -510,9 +510,9 @@ privalomoji pradinė karo ir alternatyvioji krašto apsaugos tarnyba šio
 
 straipsnio 3 dalyje nustatyta tvarka atidedama:
 
-1) dieninių, vakarinių vidurinių bendrojo lavinimo ir
+1) bendrojo lavinimo ir profesinių mokyklų mokiniams,
 
-profesinių mokyklų moksleiviams, ne vyresniems kaip 20 metų, – kol jas baigs;
+ne vyresniems kaip 21 metų, – kol jas baigs;
 
 2) aukštųjų ir aukštesniųjų mokyklų studentams
 
@@ -669,6 +669,12 @@ IX-1658,
 Nr. X-325, 2005-07-05,
 
 Žin., 2005, Nr. 88-3290 (2005-07-21)
+
+Nr.
+
+X-770,
+
+2006-07-18, Žin., 2006, Nr. 87-3396 (2006-08-08)
 
 10 straipsnis. Šaukimo finansavimas
 
@@ -1016,9 +1022,9 @@ KARINĖ ĮSKAITA
 
 15 straipsnis. Karinė įskaita
 
-1. Karinę įskaitą tvarko vietinė teritorinė
+1. Karinę įskaitą tvarko vietinė
 
-karinė įstaiga.
+teritorinė karinė įstaiga.
 
 2. Lietuvos Respublikos piliečiai (vyrai)
 
@@ -1028,7 +1034,9 @@ privalo įsirašyti į karinę įskaitą :
 
 2) atlikę privalomąją pradinę karo ar
 
-alternatyviąją krašto apsaugos tarnybą - per 10 dienų nuo tarnybos baigimo dienos.
+alternatyviąją krašto apsaugos tarnybą - per 10 dienų nuo tarnybos baigimo
+
+dienos.
 
 3. Lietuvos Respublikos pilietės,
 
@@ -1204,21 +1212,19 @@ prievolės centrus, kontroliuoja, kad šio įstatymo 5 straipsnio 1 dalies
 
 nuostata būtų įvykdyta laiku.
 
-2. Šio straipsnio 1 dalyje
+2. Šio straipsnio 1 dalyje numatytas
 
-numatytas karo prievolės administravimo funkcijas, išskyrus priskirtas
+karo prievolės administravimo funkcijas, išskyrus priskirtas savivaldybės karo
 
-savivaldybės karo prievolininkų atrankos komisijai (toliau – savivaldybės
+prievolininkų atrankos komisijai (toliau – savivaldybės atrankos komisija),
 
-atrankos komisija), atlieka šaukimui organizuoti savivaldybės paskirtas ir
+atlieka šaukimui organizuoti savivaldybės paskirtas ir reikalingus įgaliojimus
 
-reikalingus įgaliojimus turintis tarnautojas (toliau – savivaldybės
+turintis tarnautojas (toliau – savivaldybės administracijos tarnautojas). Jo
 
-administracijos tarnautojas). Jo pareiginius nuostatus, atitinkančius
+pareiginius nuostatus, atitinkančius pavyzdinių nuostatų reikalavimus,
 
-pavyzdinių nuostatų reikalavimus, tvirtina, jį skiria bei atleidžia
-
-savivaldybės administracijos direktorius.
+tvirtina, jį skiria bei atleidžia savivaldybės administracijos direktorius.
 
 Straipsnio
 
@@ -1456,9 +1462,9 @@ Krašto apsaugos ministerija.
 
 2. Administravimo tarnybos nuostatus
 
-tvirtina, struktūrą ir etatus nustato, viršininką skiria bei atleidžia krašto apsaugos
+tvirtina, struktūrą ir etatus nustato, viršininką skiria bei atleidžia krašto
 
-ministras.
+apsaugos ministras.
 
 3. Administravimo tarnybos viršininkas,
 
@@ -1466,11 +1472,11 @@ kuriuo gali būti skiriamas tik civilinės krašto apsaugos tarnybos tarnautojas
 
 yra tiesiogiai pavaldus krašto apsaugos ministrui.
 
-4. Administravimo tarnyba turi
+4. Administravimo tarnyba turi regioninius
 
-regioninius karo prievolės centrus, Priežiūros komisiją, teritorinius skyrius
+karo prievolės centrus, Priežiūros komisiją, teritorinius skyrius savivaldybių
 
-savivaldybių teritorijose ir kitus padalinius.
+teritorijose ir kitus padalinius.
 
 15(10)
 
@@ -1526,9 +1532,9 @@ rezervo bei personalo mobilizacinio rezervo įskaitą ir duomenų bazes;
 
 prašymus karo prievolės klausimais;
 
-10) atlikti jos nuostatuose numatytus kitus
+10) atlikti jos nuostatuose numatytus
 
-uždavinius ir funkcijas.
+kitus uždavinius ir funkcijas.
 
 15(11) straipsnis.
 
@@ -1576,11 +1582,11 @@ prievolės centruose šauktinių sveikatos patikrinimą atlieka krašto apsaugos
 
 ministro nustatyta tvarka paskirti Karo medicinos tarnybos gydytojai. Šauktinių
 
-sveikatos tikrinimo tvarka turi būti suderinta su Sveikatos apsaugos
+sveikatos tikrinimo tvarka turi būti suderinta su Sveikatos apsaugos ministerija.
 
-ministerija. Šauktinių sveikatos tikrinimo tvarką tvirtina Vyriausybė arba jos
+Šauktinių sveikatos tikrinimo tvarką tvirtina Vyriausybė arba jos įgaliota
 
-įgaliota institucija.
+institucija.
 
 15(12)
 
@@ -1612,11 +1618,11 @@ transportu arba kai jis šio transporto atsisako.
 
 karo tarnybai tikrinimo dienomis aprūpinami maistu pagal Vyriausybės arba jos
 
-įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems išmokama
+įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems
 
-Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija, taip
+išmokama Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė
 
-pat iškilus būtinybei apnakvindinami.
+kompensacija, taip pat iškilus būtinybei apnakvindinami.
 
 4. Šiame straipsnyje
 
@@ -1810,9 +1816,9 @@ mokymai
 
 karo prievolininkams nuo 19 iki 35 metų:
 
-1) šio įstatymo 9 straipsnio 5 dalyje nurodytais
+1) šio įstatymo 9 straipsnio 5 dalyje
 
-atvejais;
+nurodytais atvejais;
 
 2) dėl kitų priežasčių neatlikusiems
 
@@ -1894,9 +1900,9 @@ Nr. VIII-1258,
 
 99.06.22, Žin., 1999, Nr.59-1918 (99.07.07)
 
-Nr. IX-1506,
+Nr. IX-1506, 2003-04-17,
 
-2003-04-17, Žin., 2003, Nr. 42-1912 (2003-05-01)
+Žin., 2003, Nr. 42-1912 (2003-05-01)
 
 Nr. IX-2359,
 
@@ -1924,9 +1930,9 @@ centrą. Prašymas turi būti motyvuotai pagrįstas.
 
 2. Karo prievolininkų
 
-prašymus dėl alternatyviosios tarnybos atlikimo svarsto ir sprendimą dėl to
+prašymus dėl alternatyviosios tarnybos atlikimo svarsto ir sprendimą dėl to priima
 
-priima speciali komisija, sudaryta iš visuomeninių organizacijų, religinių
+speciali komisija, sudaryta iš visuomeninių organizacijų, religinių
 
 bendruomenių, švietimo įstaigų atstovų. Šios komisijos sudarymo ir jos darbo
 
@@ -1984,11 +1990,11 @@ skiriami tarnauti į pareigas, nereikalaujančias naudoti prievartos ir ginklo.
 
 Piliečiams, atliekantiems alternatyviąją krašto apsaugos tarnybą, taikomi
 
-krašto apsaugos tarnybos ir drausmės statutai, fizinio parengimo ir kiti kariams
+krašto apsaugos tarnybos ir drausmės statutai, fizinio parengimo ir kiti
 
-nustatyti reikalavimai, kurie nesusiję su ginklo, specialių priemonių ar
+kariams nustatyti reikalavimai, kurie nesusiję su ginklo, specialių priemonių
 
-priverstiniu fizinės jėgos panaudojimu, taip pat karių tarnybai nustatyti
+ar priverstiniu fizinės jėgos panaudojimu, taip pat karių tarnybai nustatyti
 
 apribojimai.
 
@@ -2028,9 +2034,7 @@ Nr. VIII-1258,
 
 99.06.22, Žin., 1999, Nr.59-1918 (99.07.07)
 
-24 straipsnis. Materialinis
-
-aprūpinimas
+24 straipsnis. Materialinis aprūpinimas
 
 Asmenys, atliekantys alternatyviąją
 
@@ -2056,15 +2060,17 @@ ATSARGOS TARNYBA
 
 Atsargos karo prievolininkų parengtys
 
-1. Atsargos karo prievolininkai: kareiviai,
+1. Atsargos karo prievolininkai:
 
-jūreiviai, seržantai, puskarininkiai - pagal sveikatos būklę tinkantys tikrajai
+kareiviai, jūreiviai, seržantai, puskarininkiai - pagal sveikatos būklę
 
-karo tarnybai, nuo 19 iki 35 metų imtinai įrašomi į pirmosios parengties
+tinkantys tikrajai karo tarnybai, nuo 19 iki 35 metų imtinai įrašomi į
 
-atsargos grupę, nuo 36 iki 45 metų imtinai, taip pat atsargos karo
+pirmosios parengties atsargos grupę, nuo 36 iki 45 metų imtinai, taip pat
 
-prievolininkės nuo 19 iki 45 metų - į antrosios parengties atsargos grupę.
+atsargos karo prievolininkės nuo 19 iki 45 metų - į antrosios parengties
+
+atsargos grupę.
 
 2. Atsargos karo prievolininkai,
 
@@ -2088,11 +2094,11 @@ parengties atsargos grupę - iki 60 metų.
 
 4. Atsargos karo prievolininkai, netekę
 
-Lietuvos Respublikos pilietybės, išbraukiami iš aktyviojo ir (ar) individualiojo
+Lietuvos Respublikos pilietybės, išbraukiami iš aktyviojo ir (ar)
 
-rezervo įskaitos. Iš aktyviojo rezervo įskaitos taip pat gali būti išbraukti
+individualiojo rezervo įskaitos. Iš aktyviojo rezervo įskaitos taip pat gali
 
-asmenys, nuteisti už padarytą sunkų ar labai sunkų nusikaltimą.
+būti išbraukti asmenys, nuteisti už padarytą sunkų ar labai sunkų nusikaltimą.
 
 Straipsnio
 
@@ -2278,37 +2284,35 @@ teritorinėms karinėms įstaigoms duomenis apie karo prievolininkų karinės
 
 4) kartą per metus pagal vietinių
 
-teritorinių karinių įstaigų planą sutikrina karo prievolininkų įskaitos duomenis
+teritorinių karinių įstaigų planą sutikrina karo prievolininkų įskaitos
 
-su vietinių teritorinių karinių įstaigų karo prievolininkų karinės įskaitos
+duomenis su vietinių teritorinių karinių įstaigų karo prievolininkų karinės
 
-duomenimis ir įrašo pasikeitimus;
+įskaitos duomenimis ir įrašo pasikeitimus;
 
 5) priimdamos karo prievolininkus į
 
-darbą ar mokytis, reikalauja, kad šie būtų įsirašę į karinę įskaitą vietinėse
+darbą ar mokytis, reikalauja, kad šie būtų įsirašę į karinę įskaitą vietinėse teritorinėse
 
-teritorinėse karinėse įstaigose pagal gyvenamąją vietą ir pateiktų karo
+karinėse įstaigose pagal gyvenamąją vietą ir pateiktų karo prievolininko
 
-prievolininko statusą liudijantį karinį dokumentą.
+statusą liudijantį karinį dokumentą.
 
 2. Vietos
 
 savivaldos institucijos kasmet iki einamųjų metų gruodžio 31 d. vietinėms
 
-teritorinėms karinėms įstaigoms pateikia jų teritorijoje įregistruotų visų rūšių
+teritorinėms karinėms įstaigoms pateikia jų teritorijoje įregistruotų visų
 
-įmonių, įstaigų ir organizacijų sąrašus.
+rūšių įmonių, įstaigų ir organizacijų sąrašus.
 
 3. Visų rūšių bei nuosavybės formų
 
 įmonės, įstaigos ir organizacijos, įregistruotos savivaldybėse, kurių
 
-teritorijoje karo prievolės administravimas pertvarkytas, šiame straipsnyje
+teritorijoje karo prievolės administravimas pertvarkytas, šiame straipsnyje nurodytus
 
-nurodytus duomenis nustatyta tvarka pateikia ir vietos savivaldos
-
-institucijoms.
+duomenis nustatyta tvarka pateikia ir vietos savivaldos institucijoms.
 
 Straipsnio
 
@@ -2380,9 +2384,9 @@ sistemos antrinės ir tretinės asmens sveikatos priežiūros viešosios ir
 
 biudžetinės įstaigos vietinių teritorinių krašto apsaugos įstaigų, šauktinių
 
-medicinos ekspertizės komisijų ar karinės medicinos ekspertizės komisijos
+medicinos ekspertizės komisijų ar karinės medicinos ekspertizės komisijos prašymu
 
-prašymu Sveikatos apsaugos ministerijos nustatyta tvarka privalo:
+Sveikatos apsaugos ministerijos nustatyta tvarka privalo:
 
 1)
 
@@ -2486,11 +2490,13 @@ Nr.64-1933 (00.07.31)
 
 34 straipsnis. Teismų pareigos
 
-1. Teismai apie įsiteisėjusius nuosprendžius
+1. Teismai apie įsiteisėjusius
 
-nuteistiems laisvės atėmimu karo prievolininkams per 7 dienas nuo nuosprendžio   įsiteisėjimo
+nuosprendžius nuteistiems laisvės atėmimu karo prievolininkams per 7 dienas nuo
 
-privalo pranešti vietinėms teritorinėms karinėms įstaigoms.
+nuosprendžio   įsiteisėjimo privalo pranešti vietinėms teritorinėms karinėms
+
+įstaigoms.
 
 2. Nuteistų laisvės atėmimu karo
 
@@ -2504,13 +2510,13 @@ teritorines karines įstaigas, kuriose jie yra įrašyti į karinę įskaitą.
 
 1. Civilinės
 
-metrikacijos įstaigos privalo kas ketvirtį pateikti vietinėms teritorinėms
+metrikacijos įstaigos privalo kas ketvirtį pateikti vietinėms teritorinėms karinėms
 
-karinėms įstaigoms karo prievolininkų (vyrų), pakeitusių vardus ir pavardes,
+įstaigoms karo prievolininkų (vyrų), pakeitusių vardus ir pavardes, sąrašus,
 
-sąrašus, šioms įstaigoms pareikalavus - papildomus sąrašus, o karo
+šioms įstaigoms pareikalavus - papildomus sąrašus, o karo prievolininkui mirus,
 
-prievolininkui mirus, per 10 kalendorinių dienų pranešti apie tai.
+per 10 kalendorinių dienų pranešti apie tai.
 
 2. Civilinės metrikacijos įstaigos
 
@@ -2842,13 +2848,27 @@ PRIEVOLĖS ĮSTATYMO 4, 6, 7, 9, 15(4), 15(5), 15(8), 19, 20, 28 STRAIPSNIŲ
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-770, 2006-07-18,
+
+Žin., 2006, Nr. 87-3396 (2006-08-08)
+
+KARO
+
+PRIEVOLĖS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-07-29)
+Aušra Bodin (2006-08-09)
 
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
