@@ -4,7 +4,7 @@ identifier: "TAR.C0B24C55F008"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-02-12"
-last_updated: "2005-06-30"
+last_updated: "2006-07-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0B24C55F008"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -308,6 +308,8 @@ išvados, patvirtinančios, kad steigiamos įstaigos materialinė bazė atitinka
 
 darbuotojų saugos ir sveikatos reikalavimus.
 
+[Dalies redakcija iki 2007-01-01]
+
 2. Reikalavimus
 
 steigiamoms mokslinių tyrimų įstaigoms, šių įstaigų veiklos kvalifikacinius
@@ -316,9 +318,29 @@ reikalavimus ir jų veiklos priežiūros tvarką nustato Vyriausybė, atsižvelg
 
 į Lietuvos mokslo tarybos ir Lietuvos mokslų akademijos siūlymus.
 
+[Dalies redakcija nuo 2007-01-01]
+
+2. Reikalavimus steigiamoms mokslinių tyrimų
+
+įstaigoms, šių įstaigų veiklos kvalifikacinius reikalavimus ir jų veiklos
+
+priežiūros tvarką nustato Vyriausybė, išklausiusi Lietuvos mokslo tarybos ir
+
+Lietuvos mokslų akademijos siūlymus.
+
 3. Mokslinių tyrimų įstaigos registruojamos juridinių
 
 asmenų registre Juridinių asmenų registro nuostatų nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-769,
+
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
 
 8 straipsnis. Mokslinių tyrimų
 
@@ -334,6 +356,8 @@ bendru universiteto bei Švietimo ir mokslo ministerijos teikimu steigia
 
 Vyriausybė, išnagrinėjusi Lietuvos mokslo tarybos išvadas ir rekomendacijas.
 
+[Dalies redakcija iki 2007-01-01]
+
 3. Valstybės mokslo įstaigą
 
 Švietimo ir mokslo ministerijos teikimu steigia Vyriausybė, atsižvelgdama į
@@ -346,6 +370,18 @@ pertvarkymu, atlikti su įstaigos veikla susijusiai valstybės institucijai ar
 
 įstaigai.
 
+[Dalies redakcija nuo 2007-01-01]
+
+3. Valstybės mokslo įstaigą Švietimo ir mokslo
+
+ministerijos teikimu steigia Vyriausybė, išklausiusi suinteresuotų valstybės
+
+institucijų siūlymus. Vyriausybė gali pavesti valstybės mokslo įstaigos
+
+steigėjo funkcijas, nesusijusias su jos steigimu, pabaiga ir pertvarkymu,
+
+atlikti su įstaigos veikla susijusiai valstybės institucijai ar įstaigai.
+
 4. Privačias mokslinių tyrimų įstaigas gali steigti
 
 Lietuvos Respublikos bei užsienio fiziniai ir juridiniai asmenys.
@@ -353,6 +389,16 @@ Lietuvos Respublikos bei užsienio fiziniai ir juridiniai asmenys.
 5. Mokslinių tyrimų įstaiga laikoma
 
 įsteigta nuo jos įregistravimo juridinių asmenų registre.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-769,
+
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
 
 9 straipsnis. Mokslinių tyrimų
 
@@ -376,9 +422,9 @@ kvalifikacinių reikalavimų, Vyriausybė Švietimo ir mokslo ministerijos ar
 
 įstaigos steigėjo funkcijas atliekančios institucijos teikimu (valstybės
 
-universiteto mokslo instituto atveju – bendru Švietimo ir mokslo ministerijos bei
+universiteto mokslo instituto atveju – bendru Švietimo ir mokslo ministerijos
 
-universiteto teikimu), parengtu įvertinus Lietuvos mokslo tarybos ir
+bei universiteto teikimu), parengtu įvertinus Lietuvos mokslo tarybos ir
 
 suinteresuotų valstybės institucijų išvadas, sprendžia dėl mokslinių tyrimų
 
@@ -426,15 +472,13 @@ valstybės institucijų atstovai. Lietuvos mokslo taryba yra Seimo ir Vyriausyb�
 
 patarėja mokslo, studijų ir eksperimentinės plėtros politikos klausimais.
 
-12 straipsnis. Lietuvos mokslų
-
-akademija
+12 straipsnis. Lietuvos mokslų akademija
 
 1. Lietuvos mokslų akademija yra
 
-biudžetinė įstaiga, jungianti žymiausius Lietuvos ir savo veikla su Lietuva susijusius
+biudžetinė įstaiga, jungianti žymiausius Lietuvos ir savo veikla su Lietuva
 
-užsienio mokslininkus.
+susijusius užsienio mokslininkus.
 
 2. Lietuvos mokslų akademija yra
 
@@ -548,15 +592,15 @@ atliekamų mokslinių tyrimų rezultatų komercializavimui bei mokslinių tyrim�
 
 pabaigos ir pertvarkymo tvarką nustato Civilinis kodeksas ir Viešųjų įstaigų
 
-įstatymas. Vyriausybė tvirtina pavyzdinius mokslo ir technologijų parkų įstatus.
+įstatymas. Vyriausybė tvirtina pavyzdinius mokslo ir technologijų parkų
 
-Savo veiklai parkai, atitinkantys Vyriausybės nustatytus kriterijus, kai bent
+įstatus. Savo veiklai parkai, atitinkantys Vyriausybės nustatytus kriterijus,
 
-vienas iš steigėjų yra valstybės ar savivaldybės institucija, gali naudoti
+kai bent vienas iš steigėjų yra valstybės ar savivaldybės institucija, gali
 
-panaudos pagrindais jiems perduotą valstybės ir savivaldybių turtą. Parkai gali
+naudoti panaudos pagrindais jiems perduotą valstybės ir savivaldybių turtą.
 
-vykdyti valstybės institucijų ar įstaigų patvirtintas programas.
+Parkai gali vykdyti valstybės institucijų ar įstaigų patvirtintas programas.
 
 3. Parko ir jo remiamų įmonių tarpusavio
 
@@ -566,11 +610,19 @@ santykiai ir įsipareigojimai nustatomi sutartyse.
 
 organizacijos, sąjungos, studentų atstovybės
 
+[Dalies redakcija iki 2007-01-01]
+
 1. Mokslininkų ir tyrėjų
 
 organizacijų steigimą ir veiklą reglamentuoja Visuomeninių organizacijų
 
 įstatymas.
+
+[Dalies redakcija nuo 2007-01-01]
+
+1. Mokslininkų ir tyrėjų organizacijų
+
+steigimą ir veiklą reglamentuoja Asociacijų įstatymas.
 
 2. Lietuvos mokslininkų sąjungos yra
 
@@ -583,6 +635,16 @@ registre.
 3. Studentų atstovybių veiklos pagrindus
 
 ir funkcijas nustato Aukštojo mokslo įstatymas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-769,
+
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
 
 19 straipsnis. Mokslo ir studijų
 
@@ -614,9 +676,9 @@ kuris įsigytas iš nebiudžetinių lėšų, gautas dovanų, priimtas kaip palik
 
 disponuoja nuosavybės teise pagal Civilinio kodekso normas.
 
-20 straipsnis. Mokslinių tyrimų
+20 straipsnis. Mokslinių tyrimų įstaigų
 
-įstaigų statutai ir įstatai
+statutai ir įstatai
 
 1. Valstybės mokslinių tyrimų įstaigų
 
@@ -742,11 +804,11 @@ kvalifikacinę analizę ir vertina, kaip institutas vykdo savo tikslus,
 
 uždavinius ir paskirtį valstybėje;
 
-5) tvirtina
+5) tvirtina mokslininkų
 
-mokslininkų rengimą doktorantūroje reglamentuojančius dokumentus ir
+rengimą doktorantūroje reglamentuojančius dokumentus ir kontroliuoja
 
-kontroliuoja mokslininkų rengimo kokybę;
+mokslininkų rengimo kokybę;
 
 6) nustato
 
@@ -766,9 +828,7 @@ statute nustatytas funkcijas.
 
 4. Valstybės
 
-mokslo instituto tarybos išrinktą direktorių tvirtina švietimo ir mokslo
-
-ministras.
+mokslo instituto tarybos išrinktą direktorių tvirtina švietimo ir mokslo ministras.
 
 5. Valstybės
 
@@ -792,11 +852,11 @@ Vyriausybės patvirtinti pavyzdiniai valstybinių mokslo įstaigų įstatai.
 
 8. Valstybės
 
-mokslinių tyrimų įstaigos direktorius turi būti mokslininkas. Tas pats asmuo mokslo
+mokslinių tyrimų įstaigos direktorius turi būti mokslininkas. Tas pats asmuo
 
-instituto ar universiteto mokslo instituto direktoriaus pareigas gali eiti ne
+mokslo instituto ar universiteto mokslo instituto direktoriaus pareigas gali
 
-ilgiau kaip dvi penkerių metų kadencijas iš eilės.
+eiti ne ilgiau kaip dvi penkerių metų kadencijas iš eilės.
 
 9. Privačių mokslinių tyrimų įstaigų
 
@@ -1028,9 +1088,9 @@ ataskaitą.
 
 apyskaitas įstatymų nustatyta tvarka pateikia institucijoms, iš kurių gavo
 
-finansavimą. Valstybės biudžeto lėšų panaudojimo tikslingumą kontroliuoja Valstybės
+finansavimą. Valstybės biudžeto lėšų panaudojimo tikslingumą kontroliuoja
 
-kontrolė.
+Valstybės kontrolė.
 
 4. Prireikus Švietimo ir mokslo
 
@@ -1048,9 +1108,13 @@ asmenims, įvykdžiusiems doktorantūros reikalavimus ir apgynusiems daktaro
 
 disertaciją. Doktorantūros nuostatus, reglamentuojančius ir mokslo laipsnio
 
-teikimo tvarką, tvirtina Vyriausybė. Mokslinių tyrimų įstaigų doktorantai turi Aukštojo
+teikimo tvarką, tvirtina Vyriausybė. Mokslinių tyrimų įstaigų doktorantai turi
 
-mokslo įstatymo ir kitų įstatymų nustatytas studentų teises.
+Aukštojo mokslo įstatymo ir kitų įstatymų nustatytas studentų teises.
+
+[Dalies
+
+redakcija iki 2007-01-01]
 
 3. Habilitacijos tvarką nustato
 
@@ -1059,6 +1123,28 @@ Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos universitetų
 rektorių konferencijos, Lietuvos valstybinių mokslo institutų direktorių
 
 konferencijos ir Aukštojo mokslo tarybos siūlymus.
+
+[Dalies
+
+redakcija nuo 2007-01-01]
+
+3. Habilitacijos tvarką nustato Vyriausybė,
+
+išklausiusi Lietuvos mokslo tarybos, Lietuvos universitetų rektorių
+
+konferencijos, Lietuvos valstybinių mokslo institutų direktorių konferencijos
+
+ir Aukštojo mokslo tarybos siūlymus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-769,
+
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
 
 30 straipsnis. Pedagoginiai vardai
 
@@ -1092,15 +1178,41 @@ Lietuvos Respublikos tarptautinės sutartys nenustato kitaip.
 
 institucijų personalas
 
+[Dalies
+
+redakcija iki 2007-01-01]
+
 1. Mokslo ir studijų institucijų personalą sudaro
 
 dėstytojai, mokslo darbuotojai bei kiti tyrėjai, administracijos ir kiti
 
 tarnautojai.
 
+[Dalies
+
+redakcija nuo 2007-01-01]
+
+1. Mokslo ir studijų institucijų personalą sudaro
+
+dėstytojai, mokslo darbuotojai bei kiti tyrėjai, administracijos ir kiti
+
+darbuotojai. Jų darbo apmokėjimo sąlygas ir socialines garantijas nustato
+
+įstatymai ir kiti teisės aktai.
+
 2. Dėstytojų ir mokslo darbuotojų pareigas nustato
 
 Aukštojo mokslo įstatymas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-769,
+
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
 
 33 straipsnis. Mokslinių tyrimų
 
@@ -1128,19 +1240,19 @@ atestavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 mokslinių tyrimų įstaigoje kaip nepagrindinėje darbovietėje, kartu su prašymu
 
-priimti dirbti tyrėju privalo nurodyti savo pareigas (dirbamą darbą)
+priimti dirbti tyrėju privalo nurodyti savo pareigas (dirbamą darbą) pagrindinėje
 
-pagrindinėje ir visose nepagrindinėse darbovietėse.
+ir visose nepagrindinėse darbovietėse.
 
 [Papildyti 3
 
 dalimi nuo 2005-08-01]
 
-3. Kvalifikacinius mokslininkų
+3. Kvalifikacinius
 
-stažuotojų pareigybių reikalavimus, skyrimo į šias pareigas tvarką bei
+mokslininkų stažuotojų pareigybių reikalavimus, skyrimo į šias pareigas tvarką
 
-mokslininkų stažuočių finansavimo tvarką nustato Vyriausybė.
+bei mokslininkų stažuočių finansavimo tvarką nustato Vyriausybė.
 
 Straipsnio
 
@@ -1151,6 +1263,10 @@ Nr.
 X-292,
 
 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14)
+
+[Straipsnio
+
+redakcija iki 2007-01-01]
 
 34 straipsnis. Administracijos ir
 
@@ -1168,13 +1284,19 @@ eksperimentinės plėtros bei ūkinės veiklos uždaviniams įgyvendinti.
 
 mokslinių tyrimų įstaigų ir jų padalinių vadovai, vadovų pavaduotojai bei
 
-įstaigų moksliniai sekretoriai, jei kitaip nenustato įstaigos statutas (įstatai).
+įstaigų moksliniai sekretoriai, jei kitaip nenustato įstaigos statutas
+
+(įstatai).
 
 3. Kitų (ne administracijos)
 
 mokslinių tyrimų įstaigos tarnautojų skaičių, jų pareigas ir funkcijas nustato
 
 pati įstaiga.
+
+[Straipsnio
+
+redakcija nuo 2007-01-01]
 
 35 straipsnis. Skyrimo į pareigas
 
@@ -1278,9 +1400,9 @@ pakeitimai:
 
 Nr.
 
-X-292,
+X-292, 2005-06-30,
 
-2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14)
+Žin., 2005, Nr. 85-3136 (2005-07-14)
 
 36 straipsnis. Asocijuoti
 
@@ -1316,9 +1438,9 @@ ne ilgesniam kaip dvejų metų laikotarpiui pakviesti dėstytojus, mokslo
 
 darbuotojus ir kitus tyrėjus iš kitų valstybių dirbti pagal terminuotą darbo
 
-sutartį. Kviestiniams dėstytojams, mokslo darbuotojams ir kitiems tyrėjams netaikoma
+sutartį. Kviestiniams dėstytojams, mokslo darbuotojams ir kitiems tyrėjams
 
-šiame Įstatyme nustatyta skyrimo į pareigas tvarka.
+netaikoma šiame Įstatyme nustatyta skyrimo į pareigas tvarka.
 
 2. Mokslinių tyrimų įstaiga gali
 
@@ -1355,6 +1477,10 @@ su Švietimo ir mokslo ministerija.
 3. Profesoriaus emerito vardas suteikia teisę gauti
 
 profesoriaus emerito valstybinę mokslininko pensiją.
+
+[Straipsnio
+
+redakcija iki 2007-01-01]
 
 39 straipsnis. Mokslininkų ir kitų
 
@@ -1440,81 +1566,7 @@ etikos normų;
 
 nustatytas pareigas bei funkcijas.
 
-LIETUVOS
+[Straipsnio
 
-RESPUBLIKOS
-
-AUKŠČIAUSIOSIOS
-
-TARYBOS
-
-PIRMININKAS
-
-VYTAUTAS
-
-LANDSBERGIS
-
-Vilnius,
-
-1991 m. vasario 12 d.
-
-Nr. I-1052
-
-_________________
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-945,
-
-2002-06-11, Žin., 2002, Nr. 68-2758 (2002-07-03)
-
-MOKSLO IR STUDIJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas, išskyrus 2 straipsnį, įsigalioja nuo
-
-2002 m. spalio 1 d.
-
-Nauja įstatymo redakcija
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-2487,
-
-2004-10-12, Žin., 2004, Nr. 158-5756 (2004-10-30)
-
-MOKSLO
-
-IR STUDIJŲ ĮSTATYMO 24 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. X-292, 2005-06-30,
-
-Žin., 2005, Nr. 85-3136 (2005-07-14)
-
-AUKŠTOJO
-
-MOKSLO ĮSTATYMO IR MOKSLO IR STUDIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-***
-
-Pabaiga ***
-
-Redagavo:
-
-Angonita Rupšytė (2005-07-15)
-
-anrups@lrs.lt
+redakcija nuo 2007-01-01]
 
