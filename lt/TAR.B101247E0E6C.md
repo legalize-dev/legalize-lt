@@ -4,7 +4,7 @@ identifier: "TAR.B101247E0E6C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-05"
-last_updated: "2006-07-01"
+last_updated: "2006-07-19"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B101247E0E6C"
 department: "Lietuvos Respublikos Seimas"
@@ -2043,6 +2043,8 @@ priedai už tarnybinį rangą, tarnybos stažą, kvalifikacinę kategoriją,
 
 priemokos.
 
+[Dalies redakcija iki 2007-01-01]
+
 2. Saugumo pareigūnų priedai už tarnybinį rangą:
 
 1) saugumo instruktoriui – 15 procentų minimaliosios
@@ -2081,11 +2083,57 @@ minimaliosios mėnesinės algos dydžio;
 
 minimaliosios mėnesinės algos dydžio.
 
-3. Saugumo pareigūnų priedai už kvalifikacinę kategoriją:
+[Dalies redakcija nuo 2007-01-01]
 
-1) V kvalifikacinės kategorijos – 10 procentų pareiginės algos
+2.
+
+Saugumo pareigūnų priedai už tarnybinį rangą:
+
+1)
+
+saugumo instruktoriui – 15 procentų pareiginės algos bazinio dydžio;
+
+2)
+
+saugumo jaunesniajam konsultantui – 20 procentų pareiginės algos bazinio
 
 dydžio;
+
+3)
+
+saugumo konsultantui – 30 procentų pareiginės algos bazinio dydžio;
+
+4)
+
+saugumo vyresniajam konsultantui – 40 procentų pareiginės algos bazinio dydžio;
+
+5)
+
+saugumo III rango patarėjui – 50 procentų pareiginės algos bazinio dydžio;
+
+6)
+
+saugumo II rango patarėjui – 60 procentų pareiginės algos bazinio dydžio;
+
+7)
+
+saugumo I rango patarėjui – 70 procentų pareiginės algos bazinio dydžio;
+
+8)
+
+saugumo vyresniajam valstybės patarėjui – 80 procentų pareiginės algos bazinio
+
+dydžio;
+
+9) saugumo vyriausiajam valstybės patarėjui – 90 procentų
+
+pareiginės algos bazinio dydžio.
+
+3. Saugumo pareigūnų priedai už kvalifikacinę kategoriją:
+
+1) V kvalifikacinės kategorijos – 10 procentų pareiginės
+
+algos dydžio;
 
 2) IV kvalifikacinės kategorijos – 20 procentų pareiginės
 
@@ -2158,6 +2206,12 @@ Nr.
 X-663,
 
 2006-06-08, Žin., 2006, Nr. 74-2817 (2006-07-03)
+
+Nr.
+
+X-792,
+
+2006-07-19, Žin., 2006, Nr. 87-3403 (2006-08-08)
 
 44 straipsnis.
 
@@ -2435,13 +2489,31 @@ perskaičiuojamos vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio
 
 įstatymo nuostatų įsigaliojimo dienos.
 
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-792, 2006-07-19,
+
+Žin., 2006, Nr. 87-3403 (2006-08-08)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO STATUTO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Įstatymas
+
+įsigalioja nuo 2007-01-01.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2006-07-04)
+Aušra Bodin (2006-08-10)
 
 ausra.bodin@lrs.lt
 
