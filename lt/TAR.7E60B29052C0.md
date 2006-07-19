@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2005-02-15"
+last_updated: "2006-07-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -126,9 +126,9 @@ kontrolieriams;
 
 teismų administracijos direktoriui;
 
-5) moterų ir
+5) lygių
 
-vyrų lygių galimybių kontrolieriui;
+galimybių kontrolieriui;
 
 6) vaiko teisių
 
@@ -140,21 +140,21 @@ etikos inspektoriui;
 
 8) Seimo, Seimo
 
-Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų
+Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems
 
-ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus Valstybės
+institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus
 
-saugumo departamento generalinį direktorių ir jo pavaduotojus, Specialiųjų
+Valstybės saugumo departamento generalinį direktorių ir jo pavaduotojus,
 
-tyrimų tarnybos direktorių ir jo pavaduotojus bei policijos generalinį
+Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus bei policijos
 
-komisarą) bei pareigūnams;
+generalinį komisarą) bei pareigūnams;
 
-9) Seimo,
+9) Seimo, Respublikos
 
-Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
+Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių)
 
-(nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
+komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
 
 Straipsnio
 
@@ -172,9 +172,9 @@ Nr. IX-349, 2001 05 24, Žin., 2001, Nr.
 
 48-1661 (2001 06 06) (atitaisymas skelbtas: Žin., 2001, Nr. 49)
 
-Nr. IX-841,
+Nr. IX-841, 2002-04-09,
 
-2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
+Žin., 2002, Nr. 43-1606 (2002-04-26)
 
 Nr. IX-1012,
 
@@ -188,9 +188,9 @@ Nr. IX-1326,
 
 2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
 
-Nr. IX-1390, 2003-03-25,
+Nr. IX-1390,
 
-Žin., 2003, Nr. 35-1464 (2003-04-11)
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
 
 Nr. IX-1520,
 
@@ -205,6 +205,12 @@ Nr.
 IX-1918,
 
 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
+
+Nr.
+
+X-789,
+
+2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
 
 3
 
@@ -244,9 +250,9 @@ birželio 1 d. nustato Vyriausybė.
 
 Straipsnio pakeitimai:
 
-Nr. IX-811,
+Nr. IX-811, 2002-03-26,
 
-2002-03-26, Žin., 2002, Nr. 38-1358 (2002-04-10)
+Žin., 2002, Nr. 38-1358 (2002-04-10)
 
 Nr. IX-1045,
 
@@ -298,21 +304,31 @@ teisėjų ir valstybės pareigūnų pareiginės algos
 
 1. Valstybės
 
-politikų, teisėjų ir valstybės pareigūnų pareiginės algos skaičiuojamos
+politikų, teisėjų ir valstybės pareigūnų pareiginės algos skaičiuojamos taikant
 
-taikant Vyriausybės patvirtintos minimalios mėnesinės algos (toliau – MMA)
+pareiginės algos bazinį dydį (toliau – bazinis dydis), kurį Vyriausybės
 
-dydžio koeficientus.
+teikimu, įvertinus valstybės politikus, teisėjus ir valstybės pareigūnus
+
+atstovaujančių organizacijų pasiūlymus, praėjusių metų vidutinę metinę
+
+infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio
+
+darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių
+
+veiksnių įtaką, tvirtina Seimas iki Seimo pavasario sesijos pabaigos.
+
+Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį.
 
 2. Pareiginė
 
 alga apskaičiuojama atitinkamą pareiginės algos koeficientą, nustatytą šio
 
-įstatymo priedėlyje, padauginus iš Vyriausybės patvirtintos MMA. Pareiginė alga
+įstatymo priedėlyje, padauginus iš bazinio dydžio. Pareiginė alga apvalinama
 
-apvalinama vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad
+vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad paskutinis
 
-paskutinis skaitmuo būtų 0 arba 5.
+skaitmuo būtų 0 arba 5.
 
 3. Savivaldybių
 
@@ -329,6 +345,12 @@ Straipsnio pakeitimai:
 Nr. IX-1594,
 
 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
+
+Nr.
+
+X-789,
+
+2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
 
 5 straipsnis.
 
@@ -464,9 +486,9 @@ dienos, o savivaldybių merams ir merų pavaduotojams – nuo 2002 m. sausio 1 d
 
 politikams, teisėjams ir valstybės pareigūnams:
 
-*1) kurių
+*1) kurių vidutinis
 
-vidutinis darbo užmokestis, Vyriausybės nustatyta tvarka apskaičiuotas iš trijų
+darbo užmokestis, Vyriausybės nustatyta tvarka apskaičiuotas iš trijų
 
 paskutinių mėnesių tarnybinių atlyginimų (pareiginių algų) ir iš paskutinių
 
@@ -564,9 +586,7 @@ B – šio įstatymo
 
 nustatytas darbo užmokestis;
 
-C – buvęs darbo
-
-užmokestis;
+C – buvęs darbo užmokestis;
 
 D – darbo
 
@@ -616,13 +636,13 @@ paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokesč
 
 apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo apmokėjimo
 
-sąlygas, dydį. Steigiant naują instituciją ar įstaigą, steigėjas steigimo akte
+sąlygas, dydį. Steigiant naują instituciją ar įstaigą, steigėjas steigimo akte arba
 
-arba steigiamos institucijos ar įstaigos nuostatuose turi nurodyti, kokios
+steigiamos institucijos ar įstaigos nuostatuose turi nurodyti, kokios darbo
 
-darbo apmokėjimo sąlygos, galiojusios panašioms institucijoms ar įstaigoms iki
+apmokėjimo sąlygos, galiojusios panašioms institucijoms ar įstaigoms iki šio
 
-šio įstatymo įsigaliojimo datos, taikomos pereinamuoju laikotarpiu.
+įstatymo įsigaliojimo datos, taikomos pereinamuoju laikotarpiu.
 
 *5. Pasibaigus
 
@@ -786,7 +806,7 @@ I.
 
 VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
 
-(MMA dydžiais)
+(Baziniais dydžiais)
 
 Eil. Nr.
 
@@ -980,7 +1000,7 @@ Nr. X-128, 2005-02-15,
 
 *II. Teisėjų pareiginės algos
 
-(MMA dydžiais)
+(Baziniais dydžiais)
 
 Pareiginės
 
@@ -1004,7 +1024,7 @@ skyriaus
 
 pirmininko
 
-teisėjo
+Teisėjo
 
 1.
 
@@ -1130,11 +1150,13 @@ priedėlio II skirsnis “Teisėjų pareiginės algos” ta apimtimi, kuria juos
 
 nustatomas teisėjų, kurių darbo užmokestis yra didesnis už šio įstatymo
 
-nustatytą darbo užmokestį, darbo užmokesčio mažinimas, prieštarauja Lietuvos Respublikos
+nustatytą darbo užmokestį, darbo užmokesčio mažinimas, prieštarauja Lietuvos
 
-Konstitucijos 5 straipsniui, 109 straipsniui, 114 straipsnio 1 daliai ir
+Respublikos Konstitucijos 5 straipsniui, 109 straipsniui, 114 straipsnio 1
 
-Lietuvos Respublikos Konstitucijoje įtvirtintam teisinės valstybės principui.
+daliai ir Lietuvos Respublikos Konstitucijoje įtvirtintam teisinės valstybės
+
+principui.
 
 Skirsnio
 
@@ -1154,9 +1176,7 @@ Nr. IX-1390,
 
 III. Prokurorų pareiginės algos
 
-(MMA
-
-dydžiais)
+(Baziniais dydžiais)
 
 Eil. Nr.
 
@@ -1392,7 +1412,7 @@ IV. VALSTYBĖS PAREIGŪNŲ
 
 PAREIGINĖS ALGOS
 
-(MMA dydžiais)
+(Baziniais dydžiais)
 
 Eil. Nr.
 
@@ -1446,9 +1466,7 @@ direktorius
 
 4.
 
-Moterų ir vyrų lygių galimybių
-
-kontrolierius
+Lygių galimybių kontrolierius
 
 12
 
@@ -1618,15 +1636,25 @@ Nr. IX-1390,
 
 2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
 
-Nr. IX-1738, 2003-09-18,
+Nr. IX-1738,
 
-Žin., 2003, Nr. 94-4247 (2003-10-08)
+2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
 
 Nr.
 
 IX-1918,
 
 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
+
+Priedėlio
+
+pakeitimai:
+
+Nr.
+
+X-789,
+
+2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
 
 __________________
 
@@ -1816,9 +1844,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1326,
+IX-1326, 2003-01-28,
 
-2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
+Žin., 2003, Nr. 17-703 (2003-02-19)
 
 VALSTYBĖS
 
@@ -1878,9 +1906,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1594, 2003-06-03,
+IX-1594,
 
-Žin., 2003, Nr. 59-2639 (2003-06-20)
+2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
 
 VALSTYBĖS
 
@@ -1936,15 +1964,31 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-128,
+X-128, 2005-02-15,
 
-2005-02-15, Žin., 2005, Nr. 28-877 (2005-02-26)
+Žin., 2005, Nr. 28-877 (2005-02-26)
 
 VALSTYBĖS
 
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO I
 
 SKIRSNIO PAPILDYMO ĮSTATYMAS
+
+18.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-789, 2006-07-19,
+
+Žin., 2006, Nr. 87-3400 (2006-08-08)
+
+VALSTYBĖS
+
+TARNYBOS ĮSTATYMO IR VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO
+
+APMOKĖJIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 ***Pabaiga***
 
@@ -2006,7 +2050,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-02-28)
+Aušra Bodin (2006-08-08)
 
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
