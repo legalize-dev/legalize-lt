@@ -4,7 +4,7 @@ identifier: "TAR.A0BAB27D768C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-12-19"
-last_updated: "2005-05-26"
+last_updated: "2006-09-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 department: "Lietuvos Respublikos Seimas"
@@ -705,25 +705,25 @@ taikos metu sudaro visos kariuomenės rūšys ir jos aktyvusis rezervas. Įvedus
 
 karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu ginkluotosioms
 
-pajėgoms taip pat priskiriama: Valstybės sienos apsaugos tarnyba, policijos
+pajėgoms taip pat priskiriama: Valstybės sienos apsaugos tarnyba, Viešojo
 
-viešojo saugumo dalinys (tarnyba), koviniai Šaulių sąjungos būriai bei kiti
+saugumo tarnyba, koviniai Šaulių sąjungos būriai bei kiti koviniai piliečių ir
 
-koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų)
+jų organizacijų ginkluoto pasipriešinimo (partizanų) būriai, pavaldūs
 
-būriai, pavaldūs ginkluotųjų pajėgų vadovybei.
+ginkluotųjų pajėgų vadovybei.
 
 Lietuvos gynybos sistemos
 
-pagrindas – visuotinės ir besąlyginės gynybos principas, įgyvendinamas atsižvelgiant
+pagrindas – visuotinės ir besąlyginės gynybos principas, įgyvendinamas
 
-į NATO kolektyvinės gynybos principą. Šis principas įtvirtinamas įstatymuose,
+atsižvelgiant į NATO kolektyvinės gynybos principą. Šis principas įtvirtinamas
 
-kituose gynybą reglamentuojančiuose teisės aktuose, kariuomenės bei jos
+įstatymuose, kituose gynybą reglamentuojančiuose teisės aktuose, kariuomenės
 
-aktyviojo rezervo parengimo gynybai planuose ir kituose dokumentuose. Šiuo
+bei jos aktyviojo rezervo parengimo gynybai planuose ir kituose dokumentuose.
 
-principu taip pat grindžiamas piliečių mokymas ir rengimasis gynybai bei
+Šiuo principu taip pat grindžiamas piliečių mokymas ir rengimasis gynybai bei
 
 pasipriešinimui.
 
@@ -809,13 +809,13 @@ prievartos prieš Lietuvos valstybės nepriklausomybę, teritorijos vientisumą 
 
 konstitucinę santvarką pareigūnas negali laisvai vykdyti valstybės gynimo
 
-pareigų arba su gynyba susijusių funkcijų ar perduoti įsakymų, žemesniosios grandies
+pareigų arba su gynyba susijusių funkcijų ar perduoti įsakymų, žemesniosios
 
-pareigūnai gynybos funkcijas vykdo savarankiškai. Tokiu atveju šių pareigūnų
+grandies pareigūnai gynybos funkcijas vykdo savarankiškai. Tokiu atveju šių
 
-įsakymai bus privalomi, o karinių dalinių, piliečių ir jų savaveiksmių darinių
+pareigūnų įsakymai bus privalomi, o karinių dalinių, piliečių ir jų
 
-pasipriešinimo bei kovos veiksmai bus teisėti.
+savaveiksmių darinių pasipriešinimo bei kovos veiksmai bus teisėti.
 
 Krašto gynybos operatyvinė
 
@@ -844,6 +844,12 @@ IX-1524,
 Nr. IX-2030,
 
 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+
+Nr.
+
+X-814,
+
+2006-09-19, Žin., 2006, Nr. 102-3936 (2006-09-26)
 
 TREČIASIS
 
@@ -923,9 +929,9 @@ Vyriausybė.
 
 Piliečiai mokomi įvairių
 
-pasipriešinimo ir civilinės saugos būdų. Valstybė juos aprūpina būtinomis
+pasipriešinimo ir civilinės saugos būdų. Valstybė juos aprūpina būtinomis techninėmis
 
-techninėmis priemonėmis.
+priemonėmis.
 
 Patriotizmo ugdymas yra ir
 
@@ -943,9 +949,9 @@ Lietuvos teritorijos vientisumą arba jos konstitucinę santvarką atveju
 
 piliečiai ir jų savaveiksmiai dariniai imasi pilietinio pasipriešinimo veiksmų
 
-- nesmurtinio pasipriešinimo, nepaklusnumo ir nekolaboravimo su neteisėta
+- nesmurtinio pasipriešinimo, nepaklusnumo ir nekolaboravimo su neteisėta administracija,
 
-administracija, taip pat ginkluoto pasipriešinimo.
+taip pat ginkluoto pasipriešinimo.
 
 Kolaboravimo veikas ir atsakomybę
 
@@ -1097,13 +1103,13 @@ Vyriausybės įsteigtas strateginių
 
 tyrimų ir analizės centras analizuoja bei prognozuoja išorės ir vidaus saugumo
 
-aplinkos pokyčius, seka rizikos veiksnių, pavojų, grėsmių atsiradimą bei
+aplinkos pokyčius, seka rizikos veiksnių, pavojų, grėsmių atsiradimą bei vystymąsi
 
-vystymąsi ir teikia pasiūlymus Seimui, Respublikos Prezidentui, Valstybės
+ir teikia pasiūlymus Seimui, Respublikos Prezidentui, Valstybės gynimo tarybai
 
-gynimo tarybai ir kitoms nacionalinį saugumą užtikrinančioms institucijoms dėl
+ir kitoms nacionalinį saugumą užtikrinančioms institucijoms dėl nacionaliniam
 
-nacionaliniam saugumui stiprinti reikalingų priemonių. Valstybės
+saugumui stiprinti reikalingų priemonių. Valstybės
 
 gynimo taryba formuoja žvalgybinės informacijos poreikį.
 
@@ -1257,13 +1263,13 @@ NATO struktūromis;
 
 – parengia
 
-karius dalyvauti kolektyvinės gynybos, reagavimo į krizes ir kitose
+karius dalyvauti kolektyvinės gynybos, reagavimo į krizes ir kitose tarptautinėse
 
-tarptautinėse karinėse operacijose;
+karinėse operacijose;
 
-– gynybos srityje
+– gynybos
 
-dvišaliais pagrindais plėtoja bendradarbiavimą su šalimis NATO narėmis;
+srityje dvišaliais pagrindais plėtoja bendradarbiavimą su šalimis NATO narėmis;
 
 – dalyvauja bendrose NATO
 
@@ -1469,11 +1475,11 @@ SAUGUMĄ UŽTIKRINANČIOS INSTITUCIJOS
 
 VADOVAUJANČIOS INSTITUCIJOS:
 
-Valstybės aukščiausiosios
+Valstybės aukščiausiosios vadovaujančios
 
-vadovaujančios institucijos, kurios vadovauja nacionalinio saugumo
+institucijos, kurios vadovauja nacionalinio saugumo užtikrinimui, yra Seimas,
 
-užtikrinimui, yra Seimas, Respublikos Prezidentas ir Vyriausybė.
+Respublikos Prezidentas ir Vyriausybė.
 
 VYKDOMOSIOS IR KITOS
 
@@ -1911,9 +1917,9 @@ rengimą ir sudarymą su užsienio valstybėmis ir tarptautinėmis organizacijom
 
 tarptautines organizacijas ir prisijungimo prie daugiašalių tarptautinių
 
-sutarčių; organizuoja tarptautinių sutarčių ir Lietuvos Respublikos įstatymų
+sutarčių; organizuoja tarptautinių sutarčių ir Lietuvos Respublikos įstatymų bei
 
-bei kitų teisės aktų tarptautinių santykių klausimais vykdymo kontrolę; atlieka
+kitų teisės aktų tarptautinių santykių klausimais vykdymo kontrolę; atlieka
 
 kitas įstatymų ir Lietuvos Respublikos Vyriausybės nutarimų nustatytas
 
@@ -2015,15 +2021,15 @@ Taikos metu kariuomenė:
 
 – savarankiškai
 
-ir bendradarbiaudama su NATO institucijomis bei kitų NATO valstybių
+ir bendradarbiaudama su NATO institucijomis bei kitų NATO valstybių ginkluotosiomis
 
-ginkluotosiomis pajėgomis saugo valstybės teritoriją ir karines teritorijas,
+pajėgomis saugo valstybės teritoriją ir karines teritorijas, taip pat
 
-taip pat bendradarbiaudama su kitomis valstybės ir NATO institucijomis bei kitų
+bendradarbiaudama su kitomis valstybės ir NATO institucijomis bei kitų NATO
 
-NATO valstybių ginkluotosiomis pajėgomis stebi ir kontroliuoja išskirtinę
+valstybių ginkluotosiomis pajėgomis stebi ir kontroliuoja išskirtinę ekonominę
 
-ekonominę zoną bei kontinentinį šelfą;
+zoną bei kontinentinį šelfą;
 
 – palaiko kovinę parengtį;
 
@@ -2077,9 +2083,7 @@ prokuratūros ir ikiteisminio tyrimo institucijose. Karių ir karininkų bylas d
 
 tarnybos arba su tarnyba susijusių teisės pažeidimų nagrinėja specializuotas
 
-teismas. Karo policijos statusą, jurisdikciją, uždavinius ir funkcijas nustato
-
-įstatymai.
+teismas. Karo policijos statusą, jurisdikciją, uždavinius ir funkcijas nustato įstatymai.
 
 Skyriaus
 
@@ -2135,13 +2139,11 @@ nusikalstamomis veikomis. Policijos funkcijas nustato įstatymas.
 
 Vidaus reikalų
 
-ministerijos vidaus tarnybos daliniai reorganizuojami į policijos viešojo
+ministerijos vidaus tarnybos daliniai reorganizuojami į Vidaus reikalų
 
-saugumo dalinį (tarnybą), kuris yra tiesiogiai pavaldus vidaus reikalų
+ministerijai pavaldžią Viešojo saugumo tarnybą. Viešojo saugumo tarnybos
 
-ministrui. Šio dalinio (tarnybos) funkcijas ir panaudojimo tvarką reglamentuoja
-
-Policijos veiklos įstatymas.
+veiklos pagrindus nustato įstatymas.
 
 Valstybės finansų
 
@@ -2175,11 +2177,9 @@ tarnybos daliniai rengiami ginkluotos gynybos veiksmams valstybės gynybos
 
 Valstybės sienos apsaugos
 
-tarnybos, policijos viešojo saugumo dalinys
+tarnyba, Viešojo saugumo tarnyba karo padėties ir valstybės gynybos (karo) metu
 
-(tarnyba) karo padėties ir valstybės gynybos (karo) metu priskiriami
-
-ginkluotosioms pajėgoms.
+priskiriamos ginkluotosioms pajėgoms.
 
 Speciali valstybės
 
@@ -2191,9 +2191,9 @@ Policija,
 
 Valstybės sienos apsaugos tarnyba ir kitos Vidaus reikalų ministerijos valdymo
 
-sričiai priklausančios įstaigos formuojamos statutinės valstybės tarnybos
+sričiai priklausančios viešąjį saugumą užtikrinančios įstaigos formuojamos
 
-pagrindais.
+statutinės valstybės tarnybos pagrindais.
 
 Skyriaus
 
@@ -2209,15 +2209,21 @@ Nr. IX-1457,
 
 Nr.
 
-IX-1524,
+IX-1524, 2003-04-22,
 
-2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01), atitaisymas skelbtas:
+Žin., 2003, Nr. 42-1922 (2003-05-01), atitaisymas skelbtas: Žin., 2003, Nr.
 
-Žin., 2003, Nr. 49
+49
 
 Nr. IX-2030,
 
 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+
+Nr.
+
+X-814,
+
+2006-09-19, Žin., 2006, Nr. 102-3936 (2006-09-26)
 
 20
 
@@ -2427,9 +2433,7 @@ krašto gerovės civilinio pobūdžio visuomenei naudingu darbu. Paskyrimą į
 
 šią tarnybą administruoja Krašto apsaugos ministerija, o tarnybą organizuoja
 
-Vyriausybės įgaliota institucija. Tarnybos atlikimo trukmę ir tvarką nustato
-
-įstatymas.
+Vyriausybės įgaliota institucija. Tarnybos atlikimo trukmę ir tvarką nustato įstatymas.
 
 Skyriaus pakeitimai:
 
@@ -2487,9 +2491,9 @@ pakeitimai:
 
 Nr.
 
-IX-1524, 2003-04-22,
+IX-1524,
 
-Žin., 2003, Nr. 42-1922 (2003-05-01)
+2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
 ________________
 
@@ -2661,15 +2665,31 @@ NACIONALINIO SAUGUMO PAGRINDŲ
 
 ĮSTATYMO PRIEDĖLIO 18 SKYRIAUS PAKEITIMO ĮSTATYMAS
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-814,
+
+2006-09-19, Žin., 2006, Nr. 102-3936 (2006-09-26)
+
+NACIONALINIO SAUGUMO PAGRINDŲ
+
+ĮSTATYMO IR VIDAUS TARNYBOS STATUTO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-06-13)
+Aušra Bodin (2006-10-04)
 
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
 – Konstitucijos 135 straipsnis, įpareigojantis Lietuvos Respubliką
 
