@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2004-11-11"
+last_updated: "2006-09-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -337,13 +337,25 @@ neprieštarauja įstatymams ar Konstitucijai.
 
 3.
 
+Taikydamas Europos Sąjungos teisės normas, teismas taip pat vadovaujasi Europos
+
+Sąjungos teisminių institucijų sprendimais ir preliminariais nutarimais.
+
+Įstatymų nustatytais atvejais teismas kreipiasi į kompetentingą Europos
+
+Sąjungos teisminę instituciją prašydamas preliminaraus nutarimo Europos
+
+Sąjungos teisės aktų aiškinimo ar galiojimo klausimu.
+
+4.
+
 Administracinių bylų procesas vyksta pagal administracinio proceso įstatymus,
 
 galiojančius bylos nagrinėjimo, atskirų procesinių veiksmų atlikimo arba teismo
 
 sprendimo vykdymo metu.
 
-4. Jeigu yra
+5. Jeigu yra
 
 prieštaravimas tarp šio įstatymo normų ir kitų įstatymų (išskyrus
 
@@ -351,7 +363,7 @@ specialiuosius įstatymus), teismas turi vadovautis Administracinių bylų
 
 teisenos įstatymo normomis.
 
-5. Jeigu nėra
+6. Jeigu nėra
 
 įstatymo, reglamentuojančio ginčo santykį, teismas taiko įstatymą,
 
@@ -360,6 +372,66 @@ reglamentuojantį panašius santykius, o jei ir tokio įstatymo nėra, –
 vadovaujasi bendraisiais įstatymų pradmenimis ir jų prasme, taip pat teisingumo
 
 ir protingumo kriterijais.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1490, 2003-04-08,
+
+Žin., 2003, Nr. 39-1765 (2003-04-25)
+
+5
+
+straipsnis. Teisė kreiptis gynybos į teismą
+
+1. Kiekvienas
+
+suinteresuotas subjektas turi teisę įstatymų nustatyta tvarka kreiptis į
+
+teismą, kad būtų apginta pažeista ar ginčijama jo teisė arba įstatymų saugomas
+
+interesas.
+
+2. Atsisakymas
+
+teisės kreiptis į teismą negalioja.
+
+3. Teismas imasi
+
+nagrinėti administracinę bylą:
+
+1) pagal asmens
+
+arba jo atstovo, kuris kreipiasi, kad būtų apginta jo teisė arba įstatymų
+
+saugomas interesas, skundą ar prašymą;
+
+2) pagal įstatymų
+
+nustatytų institucijų, įstaigų ar jų tarnautojų kreipimąsi dėl kitų asmenų
+
+teisių gynimo;
+
+3) pagal
+
+prokuroro, administravimo subjektų, valstybės kontrolės pareigūnų, kitų
+
+valstybės institucijų, įstaigų, organizacijų, tarnybų ar fizinių asmenų
+
+kreipimąsi įstatymų nustatytais atvejais dėl valstybės ar kitų viešųjų interesų
+
+gynimo;
+
+4) pagal vietos
+
+savivaldos institucijų, įstaigų, tarnybų kreipimąsi dėl savivaldybių teisių
+
+viešojo administravimo srityje gynimo;
+
+5) įstatymų
+
+nustatytais atvejais pagal viešojo administravimo subjektų kreipimąsi dėl
+
+administracinių ginčų sprendimo.
 
 1 straipsnis.
 
@@ -751,9 +823,7 @@ administravimo įgaliojimus, priimtų sprendimų ir veiksmų viešojo administra
 
 srityje teisėtumo, taip pat šių subjektų atsisakymo atlikti jų kompetencijai
 
-priskirtus veiksmus teisėtumo ir pagrįstumo ar vilkinimo atlikti tokius
-
-veiksmus;
+priskirtus veiksmus teisėtumo ir pagrįstumo ar vilkinimo atlikti tokius veiksmus;
 
 12) visuomeninių
 
@@ -871,9 +941,9 @@ teismas, kaip pirmosios instancijos teismas, nagrinėja šias bylas:
 
 1) dėl norminių
 
-administracinių aktų, kuriuos priėmė teritoriniai ar savivaldybių
+administracinių aktų, kuriuos priėmė teritoriniai ar savivaldybių administravimo
 
-administravimo subjektai, teisėtumo;
+subjektai, teisėtumo;
 
 2) pagal
 
@@ -883,13 +953,13 @@ teritoriniai valstybiniai administravimo subjektai;
 
 3) pagal
 
-Vyriausybės atstovo pareiškimus dėl vietos savivaldos institucijų ir jų pareigūnų
+Vyriausybės atstovo pareiškimus dėl vietos savivaldos institucijų ir jų
 
-aktų, prieštaraujančių Konstitucijai ir įstatymams, dėl įstatymų ir Vyriausybės
+pareigūnų aktų, prieštaraujančių Konstitucijai ir įstatymams, dėl įstatymų ir
 
-sprendimų nevykdymo, dėl aktų ar veiksmų, pažeidžiančių gyventojų ir
+Vyriausybės sprendimų nevykdymo, dėl aktų ar veiksmų, pažeidžiančių gyventojų
 
-organizacijų teises, teisėtumo;
+ir organizacijų teises, teisėtumo;
 
 4) dėl turtinės
 
@@ -997,9 +1067,9 @@ piketai ir kitokie veiksmai arčiau negu 75 metrai iki teismo pastato ir teisme,
 
 4. Kai kišamasi
 
-į teisingumą vykdančių teismo ar teisėjo veiklą, teismas ar teisėjas turi reaguoti
+į teisingumą vykdančių teismo ar teisėjo veiklą, teismas ar teisėjas turi
 
-įstatymų nustatyta tvarka.
+reaguoti įstatymų nustatyta tvarka.
 
 8
 
@@ -1329,11 +1399,11 @@ ministerija ir Lietuvos archyvų departamentas.
 
 Vienodos teismų praktikos formavimas
 
-1. Vienodą administracinių teismų
+1. Vienodą administracinių teismų praktiką
 
-praktiką aiškinant ir taikant įstatymus bei kitus teisės aktus formuoja
+aiškinant ir taikant įstatymus bei kitus teisės aktus formuoja Lietuvos
 
-Lietuvos vyriausiasis administracinis teismas.
+vyriausiasis administracinis teismas.
 
 2.
 
@@ -1369,9 +1439,93 @@ teismų praktika bei kitomis formomis gali konsultuoti šių teismų teisėjus
 
 įstatymų ir kitų teisės aktų aiškinimo bei taikymo klausimais.
 
-5. Lietuvos vyriausiasis administracinis
+5. Vyriausiasis administracinis teismas, vadovaudamasis
+
+Europos Sąjungos teisminių institucijų išaiškinimais, analizuoja ir apibendrina
+
+administracinių teismų praktiką taikant Europos Sąjungos teisės normas ir
+
+teikia rekomendacijas dėl Lietuvos administracinių teismų ir Europos Sąjungos
+
+teisminių institucijų bendradarbiavimo užtikrinant vienodą Europos Sąjungos
+
+teisės aktų aiškinimą ir taikymą Lietuvos Respublikoje.
+
+6 Lietuvos vyriausiasis administracinis
 
 teismas leidžia biuletenį „Administracinių teismų praktika“.
+
+Straipsnio pakeitimai:
+
+Nr. IX-777,
+
+2002-03-12, Žin., 2002, Nr. 31-1125 (2002-03-27)
+
+Nr. IX-1490,
+
+2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
+
+14
+
+straipsnis. Teismo sprendimo, nutarimo ir nutarties privalomumas
+
+1. Įsiteisėjęs
+
+teismo sprendimas, nutarimas ir nutartis yra privalomi visoms valstybės
+
+institucijoms, pareigūnams ir tarnautojams, įmonėms, įstaigoms, organizacijoms,
+
+kitiems fiziniams bei juridiniams asmenims ir turi būti vykdomas visoje
+
+Lietuvos Respublikos teritorijoje.
+
+2. Sprendimo,
+
+nutarimo ir nutarties privalomumas neatima iš suinteresuotų asmenų teisės
+
+kreiptis į teismą, kad būtų apgintos teisės ir įstatymų saugomi interesai, dėl
+
+kurių ginčas nėra teismo išnagrinėtas ir išspręstas.
+
+ANTRASIS
+
+SKIRSNIS
+
+ADMINISTRACINIŲ
+
+TEISMŲ KOMPETENCIJA
+
+15
+
+straipsnis. Bylos, priskirtos administracinių teismų kompetencijai
+
+1.
+
+Administraciniai teismai sprendžia bylas dėl:
+
+1) valstybinio
+
+administravimo subjektų priimtų teisės aktų ir veiksmų teisėtumo, taip pat šių
+
+subjektų atsisakymo atlikti jų kompetencijai priskirtus veiksmus teisėtumo ir
+
+pagrįstumo ar vilkinimo atlikti tokius veiksmus;
+
+2) savivaldybių
+
+administravimo subjektų priimtų aktų ir veiksmų teisėtumo, taip pat šių
+
+subjektų atsisakymo atlikti jų kompetencijai priskirtus veiksmus teisėtumo ir
+
+pagrįstumo ar vilkinimo atlikti tokius veiksmus;
+
+3) turtinės ir
+
+neturtinės (moralinės) žalos, padarytos fiziniam asmeniui ar organizacijai
+
+neteisėtais valstybės ar vietos savivaldos institucijos, įstaigos, tarnybos bei
+
+jų tarnautojų veiksmais ar neveikimu viešojo administravimo srityje, atlyginimo
 
 14 straipsnis.
 
@@ -1573,27 +1727,25 @@ einančių tarnybines pareigas, neteisėtais veiksmais ar neveikimu viešojo
 
 Vilniaus apygardos administracinio teismo papildoma kompetencija
 
-1. Be kompetencijos,
+1. Be
 
-nustatytos šio įstatymo 18 straipsnyje, Vilniaus apygardos administracinis
+kompetencijos, nustatytos šio įstatymo 18 straipsnyje, Vilniaus apygardos
 
-teismas yra pirmoji instancija šio įstatymo 15 straipsnyje nurodytoms byloms,
+administracinis teismas yra pirmoji instancija šio įstatymo 15 straipsnyje
 
-kai pareiškėjas ar atsakovas yra centrinis administravimo subjektas, išskyrus
+nurodytoms byloms, kai pareiškėjas ar atsakovas yra centrinis administravimo
 
-bylas dėl norminių administracinių aktų, kuriuos priėmė centriniai valstybinio
+subjektas, išskyrus bylas dėl norminių administracinių aktų, kuriuos priėmė
 
-administravimo subjektai, teisėtumo, taip pat bylas, nurodytas šio įstatymo 15
+centriniai valstybinio administravimo subjektai, teisėtumo, taip pat bylas,
 
-straipsnio 1 dalies 11 punkte.
+nurodytas šio įstatymo 15 straipsnio 1 dalies 11 punkte.
 
 2. Netaikant
 
-išankstinio nagrinėjimo ne teismo tvarka procedūros, Vilniaus apygardos
+išankstinio nagrinėjimo ne teismo tvarka procedūros, Vilniaus apygardos administracinis
 
-administracinis teismas, kaip pirmosios instancijos teismas, nagrinėja šias
-
-bylas:
+teismas, kaip pirmosios instancijos teismas, nagrinėja šias bylas:
 
 1)
 
@@ -1735,9 +1887,7 @@ pavaduotojas ir po vieną šių teismų pirmininkų paskirtą teisėją.
 
 nutartis spręsti teismingumo klausimus paduoda per Lietuvos Aukščiausiąjį
 
-Teismą, administraciniai teismai – per Lietuvos vyriausiąjį administracinį
-
-teismą.
+Teismą, administraciniai teismai – per Lietuvos vyriausiąjį administracinį teismą.
 
 3. Specialios teisėjų kolegijos
 
@@ -1789,11 +1939,11 @@ straipsnio 2 dalyje ir 19 straipsnio 2 dalyje numatytais atvejais.
 
 numatytais atvejais skundas (prašymas) pirmiausia turi būti paduodamas
 
-administracinių ginčų komisijai ar kitai išankstinio ginčų nagrinėjimo ne teismo
+administracinių ginčų komisijai ar kitai išankstinio ginčų nagrinėjimo ne
 
-tvarka institucijai, po to skundas gali būti paduodamas ir administraciniam
+teismo tvarka institucijai, po to skundas gali būti paduodamas ir
 
-teismui.
+administraciniam teismui.
 
 4. Kitais
 
@@ -2297,11 +2447,11 @@ dienos, kai baigiasi reikalavimo įvykdymo terminas.
 
 2. Tais
 
-atvejais, kai administracija (tarnautojas) nevykdo savo pareigų ar vilkina priimti
+atvejais, kai administracija (tarnautojas) nevykdo savo pareigų ar vilkina
 
-sprendimą, toks neveikimas (vilkinimas) gali būti apskųstas per du mėnesius nuo
+priimti sprendimą, toks neveikimas (vilkinimas) gali būti apskųstas per du
 
-dienos, kai baigiasi klausimui išspręsti nustatytas laikas.
+mėnesius nuo dienos, kai baigiasi klausimui išspręsti nustatytas laikas.
 
 31
 
@@ -2347,13 +2497,11 @@ teismo tvarka institucijos sprendimą, priimtą išnagrinėjus administracinį g
 
 ne teismo tvarka, administraciniam teismui gali skųsti ginčo šalis,
 
-nesutinkanti su administracinių ginčų komisijos ar kitos išankstinio ginčų
+nesutinkanti su administracinių ginčų komisijos ar kitos išankstinio ginčų nagrinėjimo
 
-nagrinėjimo ne teismo tvarka institucijos sprendimu. Tokiu atveju į
+ne teismo tvarka institucijos sprendimu. Tokiu atveju į administracinį teismą
 
-administracinį teismą galima kreiptis per dvidešimt dienų nuo sprendimo gavimo
-
-dienos.
+galima kreiptis per dvidešimt dienų nuo sprendimo gavimo dienos.
 
 2. Tais
 
@@ -2413,9 +2561,11 @@ straipsnis. Praleisto termino atnaujinimas
 
 prašymu administracinis teismas skundo (prašymo) padavimo terminus gali
 
-atnaujinti, jeigu bus pripažinta, kad terminas praleistas dėl svarbios priežasties
+atnaujinti, jeigu bus pripažinta, kad terminas praleistas dėl svarbios
 
-ir nėra aplinkybių, nurodytų šio įstatymo 37 straipsnio 2 dalies 1–7 punktuose.
+priežasties ir nėra aplinkybių, nurodytų šio įstatymo 37 straipsnio 2 dalies
+
+1–7 punktuose.
 
 2. Prašyme
 
@@ -2481,17 +2631,17 @@ straipsnis. Skundo (prašymo) priėmimas
 
 skundą (prašymą), administracinio teismo pirmininkas ar teisėjas jo priėmimo
 
-klausimą išsprendžia ne vėliau kaip per septynias dienas priimdamas nutartį. Jeigu
+klausimą išsprendžia ne vėliau kaip per septynias dienas priimdamas nutartį.
 
-skundas (prašymas) neatitinka šio įstatymo 23, 24 ir 39 straipsnių reikalavimų,
+Jeigu skundas (prašymas) neatitinka šio įstatymo 23, 24 ir 39 straipsnių
 
-nutartimi nustatomas terminas trūkumams pašalinti. Jeigu per teismo nustatytą
+reikalavimų, nutartimi nustatomas terminas trūkumams pašalinti. Jeigu per
 
-terminą trūkumai nepašalinami, skundas (prašymas) laikomas nepaduotu ir teisėjo
+teismo nustatytą terminą trūkumai nepašalinami, skundas (prašymas) laikomas
 
-nutartimi grąžinamas pareiškėjui. Dėl nutarties grąžinti skundą (prašymą)
+nepaduotu ir teisėjo nutartimi grąžinamas pareiškėjui. Dėl nutarties grąžinti
 
-pareiškėjui gali būti paduodamas atskirasis skundas.
+skundą (prašymą) pareiškėjui gali būti paduodamas atskirasis skundas.
 
 2.
 
@@ -2549,19 +2699,19 @@ nurodyti, į kokią instituciją reikia pareiškėjui kreiptis, jeigu byla
 
 nenagrinėtina teismo, arba kaip pašalinti aplinkybes, kliudančias priimti
 
-skundą (prašymą). Nutartyje taip pat turi būti nurodymas grąžinti žyminį
+skundą (prašymą). Nutartyje taip pat turi būti nurodymas grąžinti žyminį mokestį
 
-mokestį tais atvejais, kai paduodant skundą (prašymą) toks mokestis buvo
+tais atvejais, kai paduodant skundą (prašymą) toks mokestis buvo sumokėtas.
 
-sumokėtas. Teismo pirmininko ar teisėjo nutarties atsisakyti priimti skundą
+Teismo pirmininko ar teisėjo nutarties atsisakyti priimti skundą (prašymą)
 
-(prašymą) nuorašas ne vėliau kaip per tris dienas nuo nutarties priėmimo
+nuorašas ne vėliau kaip per tris dienas nuo nutarties priėmimo įteikiamas arba
 
-įteikiamas arba pasiunčiamas pareiškėjui. Dėl teismo pirmininko ar teisėjo
+pasiunčiamas pareiškėjui. Dėl teismo pirmininko ar teisėjo nutarties atsisakyti
 
-nutarties atsisakyti priimti skundą (prašymą) gali būti duodamas atskirasis
+priimti skundą (prašymą) gali būti duodamas atskirasis skundas. Įsiteisėjus
 
-skundas. Įsiteisėjus nutarčiai, skundas (prašymas) grąžinamas pareiškėjui.
+nutarčiai, skundas (prašymas) grąžinamas pareiškėjui.
 
 4. Jeigu skunde
 
@@ -2587,9 +2737,7 @@ asmuo (asmenys). Galutinai dėl šalies pakeitimo tinkama teismas nusprendžia
 
 teismo posėdžio parengiamojoje dalyje.
 
-ŠEŠTASIS
-
-SKIRSNIS
+ŠEŠTASIS SKIRSNIS
 
 IŠLAIDOS,
 
@@ -3661,15 +3809,13 @@ asmenų teises, procesinės teisės
 
 1. Įstatymų
 
-nustatytais atvejais prokuroras, administravimo subjektai, valstybės
+nustatytais atvejais prokuroras, administravimo subjektai, valstybės institucijos,
 
-institucijos, įstaigos, organizacijos, tarnybos ar fiziniai asmenys gali
+įstaigos, organizacijos, tarnybos ar fiziniai asmenys gali kreiptis į teismą su
 
-kreiptis į teismą su pareiškimu, kad būtų apgintas viešasis interesas arba
+pareiškimu, kad būtų apgintas viešasis interesas arba apgintos valstybės,
 
-apgintos valstybės, savivaldybės ir asmenų teisės bei įstatymų saugomi
-
-interesai.
+savivaldybės ir asmenų teisės bei įstatymų saugomi interesai.
 
 2. Šio
 
@@ -3935,13 +4081,13 @@ sutarčių nustatyta tvarka.
 
 2. Nutartyje dėl
 
-teisminio pavedimo trumpai išdėstoma nagrinėjamos bylos esmė, nurodomos
+teisminio pavedimo trumpai išdėstoma nagrinėjamos bylos esmė, nurodomos aplinkybės,
 
-aplinkybės, kurias reikia išaiškinti, įrodymai, kuriuos turi surinkti vykdantis
+kurias reikia išaiškinti, įrodymai, kuriuos turi surinkti vykdantis pavedimą
 
-pavedimą teismas. Ši nutartis yra privaloma teismui, kuriam ji adresuojama, ir
+teismas. Ši nutartis yra privaloma teismui, kuriam ji adresuojama, ir turi būti
 
-turi būti įvykdyta ne vėliau kaip per dešimt dienų.
+įvykdyta ne vėliau kaip per dešimt dienų.
 
 3. Teisminis
 
@@ -4033,11 +4179,11 @@ paskutinę to mėnesio dieną. Savaitėmis skaičiuojamas terminas baigiasi
 
 atitinkamą termino paskutinės savaitės dieną.
 
-4. Tais atvejais,
+4. Tais
 
-kai paskutinė termino diena yra ne darbo diena, termino pabaigos diena laikoma
+atvejais, kai paskutinė termino diena yra ne darbo diena, termino pabaigos
 
-po jos einanti darbo diena.
+diena laikoma po jos einanti darbo diena.
 
 5. Procesinis
 
@@ -4171,11 +4317,13 @@ išsiųsti šaukimus dalyvaujantiems byloje asmenims arba kitaip pranešti apie
 
 posėdį;
 
-4) pavedimas išsiųsti
+4) pavedimas
 
-atsakovams ar tretiesiems suinteresuotiems asmenims skundo (prašymo) nuorašus
+išsiųsti atsakovams ar tretiesiems suinteresuotiems asmenims skundo (prašymo)
 
-ir kitus dokumentus, jeigu jie nebuvo išsiųsti ruošiantis bylą nagrinėti;
+nuorašus ir kitus dokumentus, jeigu jie nebuvo išsiųsti ruošiantis bylą
+
+nagrinėti;
 
 5) kiti
 
@@ -4201,9 +4349,9 @@ posėdžiui rengiantis teisėjas arba ją nagrinėjantis teismas, nustatęs, kad
 
 pačiame teisme yra du ar daugiau skundų (prašymų) patikrinti to paties
 
-administracinio norminio akto teisėtumą arba skundas (prašymas) paduotas skirtingų
+administracinio norminio akto teisėtumą arba skundas (prašymas) paduotas
 
-pareiškėjų, tačiau dėl to paties atsakovo to paties akto ar veiksmo
+skirtingų pareiškėjų, tačiau dėl to paties atsakovo to paties akto ar veiksmo
 
 (neveikimo), iki bylos nagrinėjimo iš esmės pabaigos nutartimi gali juos
 
@@ -4239,11 +4387,11 @@ atitinkamiems teismams taisykles;
 
 giminaitis dirba teisėju (išskyrus Lietuvos vyriausiąjį administracinį teismą).
 
-2. Bylos
+2. Bylos perdavimo
 
-perdavimo iš vieno teismo kitam teismui klausimą išsprendžia atitinkamo teismo
+iš vieno teismo kitam teismui klausimą išsprendžia atitinkamo teismo teisėjų
 
-teisėjų kolegija arba Lietuvos vyriausiojo administracinio teismo pirmininkas.
+kolegija arba Lietuvos vyriausiojo administracinio teismo pirmininkas.
 
 3. Paaiškėjus,
 
@@ -4333,23 +4481,23 @@ teismo nutartimi skiriama iki 1000 litų bauda.
 
 straipsnis. Atsiliepimo į skundą (prašymą) reikalavimas
 
-Teismo pirmininkas
+Teismo
 
-ar teisėjas nusiunčia atsakovui skundo (prašymo) nuorašą, o reikiamais atvejais
+pirmininkas ar teisėjas nusiunčia atsakovui skundo (prašymo) nuorašą, o
 
-– ir pridėtų prie jo dokumentų nuorašus, taip pat nustato terminą, per kurį
+reikiamais atvejais – ir pridėtų prie jo dokumentų nuorašus, taip pat nustato
 
-atsakovas raštu privalo pateikti teismui savo atsiliepimą į skundą (prašymą) ir
+terminą, per kurį atsakovas raštu privalo pateikti teismui savo atsiliepimą į
 
-pateikti tiek atsiliepimo nuorašų, kiek yra byloje pareiškėjų. Atsiliepime
+skundą (prašymą) ir pateikti tiek atsiliepimo nuorašų, kiek yra byloje
 
-atsakovas nurodo, sutinka ar nesutinka su skundo (prašymo) reikalavimais, taip
+pareiškėjų. Atsiliepime atsakovas nurodo, sutinka ar nesutinka su skundo
 
-pat ar dalyvaus bylą nagrinėjant teismo posėdyje. Jeigu yra pakankamai laiko
+(prašymo) reikalavimais, taip pat ar dalyvaus bylą nagrinėjant teismo posėdyje.
 
-iki bylos nagrinėjimo pradžios, pareiškėjui nusiunčiamas gautas iš atsakovo
+Jeigu yra pakankamai laiko iki bylos nagrinėjimo pradžios, pareiškėjui nusiunčiamas
 
-rašytinio atsiliepimo nuorašas.
+gautas iš atsakovo rašytinio atsiliepimo nuorašas.
 
 73
 
@@ -4529,13 +4677,13 @@ privalo, esant galimybei, nedelsdamas įteikti jį adresatui.
 
 atplėšiamoji dalis su adresato parašu ar pranešimas apie šaukimo įteikimą
 
-grąžinamas teismui. Jeigu faktinė šaukiamo asmens buvimo vieta nežinoma, teismas
+grąžinamas teismui. Jeigu faktinė šaukiamo asmens buvimo vieta nežinoma,
 
-pradeda nagrinėti bylą, gavus teisme šaukimą su užrašu, patvirtinančiu, kad jį
+teismas pradeda nagrinėti bylą, gavus teisme šaukimą su užrašu, patvirtinančiu,
 
-gavo paskutinės žinomos šaukiamo asmens gyvenamosios vietos butų eksploatavimo
+kad jį gavo paskutinės žinomos šaukiamo asmens gyvenamosios vietos butų
 
-organizacija arba seniūnijos seniūnas (jo pavaduotojas).
+eksploatavimo organizacija arba seniūnijos seniūnas (jo pavaduotojas).
 
 76
 
@@ -4617,19 +4765,19 @@ straipsnis. Bylos nagrinėjimo teisme betarpiškumas
 
 1. Pirmosios
 
-instancijos teismas, nagrinėdamas bylą, privalo ištirti byloje įrodymus:
+instancijos teismas, nagrinėdamas bylą, privalo ištirti byloje įrodymus: išklausyti
 
-išklausyti proceso šalių paaiškinimų, liudytojų parodymų, specialistų
+proceso šalių paaiškinimų, liudytojų parodymų, specialistų paaiškinimų ir
 
-paaiškinimų ir ekspertų išvadų, susipažinti su rašytiniais įrodymais, apžiūrėti
+ekspertų išvadų, susipažinti su rašytiniais įrodymais, apžiūrėti daiktinius
 
-daiktinius įrodymus.
+įrodymus.
 
 2. Pirmosios
 
-instancijos teisme byla nagrinėjama žodžiu ir esant nepasikeitusiai teisėjų
+instancijos teisme byla nagrinėjama žodžiu ir esant nepasikeitusiai teisėjų sudėčiai.
 
-sudėčiai. Jeigu atidėjus bylos nagrinėjimą proceso metu bent vienas iš teisėjų
+Jeigu atidėjus bylos nagrinėjimą proceso metu bent vienas iš teisėjų
 
 pakeičiamas, byla turi būti nagrinėjama nuo pat pradžios, tačiau teisme
 
@@ -4853,9 +5001,7 @@ o jei kas nors neatvyko, – ar buvo jiems tinkamai pranešta apie posėdžio vi
 
 ir laiką;
 
-4) ginčo
-
-dalykas;
+4) ginčo dalykas;
 
 5) kad proceso
 
@@ -6279,17 +6425,15 @@ salėje esantys asmenys pažeidžia tvarką, neklauso posėdžio pirmininko
 
 reikalavimų laikytis tvarkos.
 
-2.
+2. Administracinę
 
-Administracinę bylą nagrinėjantis teismas turi teisę skirti baudą fiziniams
+bylą nagrinėjantis teismas turi teisę skirti baudą fiziniams asmenims ir jų
 
-asmenims ir jų atstovams iki 1000 litų, o pareigūnams ar institucijų ir įstaigų
+atstovams iki 1000 litų, o pareigūnams ar institucijų ir įstaigų atstovams –
 
-atstovams – iki 2000 litų už kiekvieną pažeidimo atvejį. Dėl pirmosios
+iki 2000 litų už kiekvieną pažeidimo atvejį. Dėl pirmosios instancijos teismo
 
-instancijos teismo nutarties skirti baudą gali būti duodamas atskirasis
-
-skundas.
+nutarties skirti baudą gali būti duodamas atskirasis skundas.
 
 TRYLIKTASIS
 
@@ -6315,21 +6459,21 @@ pasitarimų kambaryje. Posėdžio pirmininkas balsuoja paskutinis. Priimtą
 
 sprendimą pasirašo visi posėdyje dalyvavę teisėjai.
 
-2. Teisėjas, nesutinkantis
+2. Teisėjas,
 
-su daugumos nuomone, gali išdėstyti raštu savo atskirą nuomonę. Ši viešai
+nesutinkantis su daugumos nuomone, gali išdėstyti raštu savo atskirą nuomonę.
 
-neskelbiama, bet pridedama prie bylos.
+Ši viešai neskelbiama, bet pridedama prie bylos.
 
-3. Teismo
+*3.
 
-sprendimo įžanginė ir rezoliucinė dalys surašomos ir viešai paskelbiamos
+Teismo sprendimo įžanginė ir rezoliucinė dalys surašomos ir viešai
 
-paprastai tą pačią dieną po individualios bylos išnagrinėjimo. Aprašomoji ir
+paskelbiamos paprastai tą pačią dieną po individualios bylos išnagrinėjimo.
 
-motyvuojamoji sprendimo dalys surašomos ne vėliau kaip per septynias darbo
+Aprašomoji ir motyvuojamoji sprendimo dalys surašomos ne vėliau kaip per
 
-dienas nuo sprendimo paskelbimo.
+septynias darbo dienas nuo sprendimo paskelbimo.
 
 4. Kai atsakovas
 
@@ -6349,17 +6493,41 @@ dešimt dienų baigus nagrinėti bylą. Kada bus skelbiamas sprendimas, praneša
 
 bylos šalims ir apie tai pažymima teismo posėdžio protokole. Kol rengiamas
 
-sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas. Sprendimą ar
+sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas. Sprendimą ar nutartį,
 
-nutartį, kurios priėmimas ir paskelbimas buvo atidėtas, gali paskelbti vienas
+kurios priėmimas ir paskelbimas buvo atidėtas, gali paskelbti vienas iš bylą
 
-iš bylą nagrinėjusių teisėjų, kitiems kolegijos teisėjams nedalyvaujant.
+nagrinėjusių teisėjų, kitiems kolegijos teisėjams nedalyvaujant.
 
 6.
 
 Administracinio teismo sprendimas priimamas ir paskelbiamas Lietuvos
 
 Respublikos vardu.
+
+*Pastaba.
+
+Pripažinti, kad
+
+Lietuvos Respublikos administracinių bylų teisenos įstatymo 85 straipsnio 3
+
+dalis (2000 m. rugsėjo 19 d. redakcija; Žin., 2000, Nr. 85-2566) ta
+
+apimtimi, kuria nustatyta, kad prieš priimant ir viešai paskelbiant
+
+pirmosios instancijos administracinio teismo sprendimą gali būti surašomos tik
+
+šio sprendimo įžanginė ir rezoliucinė dalys, o aprašomoji ir motyvuojamoji
+
+dalys gali būti surašomos vėliau – ne vėliau kaip per septynias darbo dienas
+
+nuo sprendimo paskelbimo, prieštarauja Lietuvos Respublikos Konstitucijos
+
+109 straipsniui, konstituciniams teisinės valstybės ir teisingumo principams.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2006-09-21, Žin., 2006, Nr. 102-3957 (2006-09-26)
 
 86
 
@@ -6425,9 +6593,7 @@ sprendimo dalyje nurodoma:
 
 reikalavimai;
 
-2) atsakovo
-
-atsikirtimai;
+2) atsakovo atsikirtimai;
 
 3) kitų proceso
 
@@ -6855,11 +7021,11 @@ Skundžiamo akto
 
 (veiksmo) panaikinimas reiškia, jog konkrečiu atveju atkuriama buvusi iki
 
-ginčijamo akto (veiksmo) priėmimo padėtis, t. y. atkuriamos pažeistos
+ginčijamo akto (veiksmo) priėmimo padėtis, t. y. atkuriamos pažeistos pareiškėjo
 
-pareiškėjo teisės ar teisėti interesai, tačiau iki panaikinto akto galiojusio
+teisės ar teisėti interesai, tačiau iki panaikinto akto galiojusio kito akto
 
-kito akto teisinė galia tokiu atveju savaime neatkuriama.
+teisinė galia tokiu atveju savaime neatkuriama.
 
 93
 
@@ -6941,11 +7107,11 @@ teismo sprendimo priėmimo dienos.
 
 sprendimą teismas priima, išnagrinėjęs klausimą teismo posėdyje. Proceso
 
-dalyviams pranešama apie posėdžio laiką ir vietą. Papildomo sprendimo nuorašai išsiunčiami
+dalyviams pranešama apie posėdžio laiką ir vietą. Papildomo sprendimo nuorašai
 
-šalims ir tretiesiems suinteresuotiems asmenims, jeigu jie nedalyvavo teismo
+išsiunčiami šalims ir tretiesiems suinteresuotiems asmenims, jeigu jie
 
-posėdyje.
+nedalyvavo teismo posėdyje.
 
 4. Papildomas
 
@@ -7079,11 +7245,7 @@ paskiria ekspertizę;
 
 pripažįsta, kad būtina gauti bylai reikalingus įrodymus (dokumentus) iš
 
-užsienio valstybės.
-
-1 dalis papildoma 8 punktu nuo Lietuvos Respublikos
-
-įstojimo į Europos Sąjungą dienos:
+užsienio valstybės;
 
 8) kai teismas kreipiasi į kompetentingą Europos Sąjungos teisminę
 
@@ -7132,6 +7294,292 @@ sprendimas, nuosprendis, nutarimas ar nutartis;
 atitinkamai Konstitucinis Teismas ar administracinis teismas išnagrinės bylą ar
 
 kol bus atlikta ekspertizė arba gauti įrodymai iš užsienio valstybės.
+
+4) šio įstatymo 98 straipsnio 1 dalies 8
+
+punkte numatytu atveju – kol bus gautas kompetentingos Europos Sąjungos
+
+teisminės institucijos preliminarus nutarimas.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1490,
+
+2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
+
+100
+
+straipsnis. Bylos atnaujinimas
+
+Byla atnaujinama
+
+pašalinus ar išnykus aplinkybėms, dėl kurių ji buvo sustabdyta, proceso dalyvių
+
+pareiškimu ar teismo iniciatyva. Dėl bylos atnaujinimo teismas ar teisėjas
+
+rašytinio proceso tvarka priima nutartį. Atnaujinta byla nagrinėjama pagal šio
+
+įstatymo nustatytas bendrąsias taisykles.
+
+101
+
+straipsnis. Bylos nutraukimo pagrindai
+
+Teismas
+
+nutraukia bylą:
+
+1) jeigu byla
+
+nepriskirtina administracinių teismų kompetencijai;
+
+2) jeigu yra
+
+įsiteisėjęs teismo sprendimas, priimtas dėl ginčo tarp tų pačių šalių, dėl to
+
+paties dalyko ir tuo pačiu pagrindu, arba teismo nutartis priimti pareiškėjo
+
+atsisakymą nuo skundo (prašymo);
+
+3) jeigu
+
+pareiškėjas atsisakė skundo (prašymo), išskyrus šio įstatymo 56 straipsnio 2
+
+dalyje numatytus atvejus;
+
+4) jeigu mirus
+
+asmeniui, kuris buvo pareiškėjas, ginčo teisinis santykis neleidžia perimti
+
+teisių;
+
+5) jeigu
+
+likvidavus juridinį asmenį, kuris buvo pareiškėjas, ginčo teisinis santykis
+
+neleidžia perimti teisių;
+
+6) jeigu
+
+paaiškėja, kad skundas (prašymas) buvo priimtas praleidus nustatytus padavimo
+
+terminus, o pareiškėjas neprašė termino atnaujinti arba teismas atmetė tokį
+
+prašymą;
+
+7) jeigu
+
+pareiškėjas nesilaikė tos kategorijos byloms nustatytos išankstinio bylos
+
+nagrinėjimo ne per teismą tvarkos ir nebegalima šia tvarka pasinaudoti.
+
+102
+
+straipsnis. Bylos nutraukimo tvarka ir pasekmės
+
+1. Byla
+
+nutraukiama teismo nutartimi. Jeigu byla nutraukiama dėl jos nepriskirtinumo
+
+teismų kompetencijai, teismas privalo nurodyti, į kurią instituciją pareiškėjas
+
+turi kreiptis.
+
+2. Dėl teismo
+
+nutarties nutraukti bylą gali būti duodamas atskirasis skundas.
+
+3. Bylą
+
+nutraukus, vėl kreiptis į teismą dėl ginčo tarp tų pačių šalių dėl to paties
+
+dalyko ir tuo pačiu pagrindu neleidžiama.
+
+4. Teismas
+
+išaiškina pareiškėjui skundo (pareiškimo) atsisakymo pasekmes, išskyrus
+
+atvejus, kai pareiškimas dėl atsisakymo buvo gautas paštu ar perduotas per
+
+kitus asmenis.
+
+103
+
+straipsnis. Skundo (prašymo) palikimo nenagrinėto pagrindai
+
+Teismas skundą
+
+(prašymą) palieka nenagrinėtą:
+
+1) jeigu
+
+suinteresuotas asmuo, kreipęsis į teismą, nesilaikė tos kategorijos byloms
+
+nustatytos išankstinio bylos nagrinėjimo ne per teismą tvarkos ir dar galima
+
+pasinaudoti ta tvarka;
+
+2) jeigu skundą
+
+(prašymą) padavė neveiksnus asmuo;
+
+3) jeigu skundą
+
+(prašymą) suinteresuoto asmens vardu padavė neįgaliotas vesti bylą asmuo;
+
+4) jeigu teisme
+
+nagrinėjamas administracinis ginčas tarp tų pačių šalių dėl to paties
+
+administracinio ginčo;
+
+5) jeigu į
+
+posėdį neatvyko pareiškėjas, o teismas nelaiko esant galima išspręsti bylą pagal
+
+esančią byloje medžiagą, kai apie tai pareiškėjui buvo pranešta.
+
+104
+
+straipsnis. Skundo (prašymo) palikimo nenagrinėto tvarka ir pasekmės
+
+1. Tais
+
+atvejais, kada skundas (prašymas) paliekamas nenagrinėtas, byla užbaigiama
+
+teismo nutartimi. Šioje nutartyje teismas privalo nurodyti, kaip pašalinti
+
+aplinkybes, išvardytas šio įstatymo 103 straipsnio 1, 2 ir 3 punktuose,
+
+kliudančias nagrinėti bylą.
+
+2. Pašalinus
+
+sąlygas, kurios buvo pagrindas skundą (prašymą) palikti nenagrinėtą,
+
+suinteresuotas asmuo turi teisę vėl kreiptis į teismą su skundu (prašymu)
+
+bendra tvarka.
+
+3. Dėl teismo
+
+nutarties palikti skundą (prašymą) nenagrinėtą gali būti duodamas atskirasis
+
+skundas.
+
+PENKIOLIKTASIS
+
+SKIRSNIS
+
+TEISMO NUTARTIS
+
+105
+
+straipsnis. Nutarties priėmimas
+
+1. Pirmosios instancijos
+
+teismas atskirais klausimais, kurių byla neišsprendžia iš esmės, priima
+
+nutartis.
+
+2. Teismas
+
+priima nutartis pasitarimų kambaryje šio įstatymo nustatyta tvarka. Jas
+
+pasirašo visi posėdyje dalyvavę teisėjai.
+
+3. Išsprendęs
+
+nesudėtingus klausimus, teismas gali priimti nutartį pasitaręs vietoje,
+
+neišeidamas į pasitarimų kambarį. Tokia nutartis įrašoma į teismo posėdžio
+
+protokolą.
+
+4. Priimtos
+
+nutartys perskaitomos balsu.
+
+106
+
+straipsnis. Nutarties turinys
+
+1. Nutartyje
+
+turi būti nurodoma:
+
+1) nutarties
+
+priėmimo laikas ir vieta;
+
+2) teismo
+
+pavadinimas, teismo sudėtis, taip pat teismo posėdžio sekretorius, jeigu
+
+nutartis priimama žodinio proceso tvarka;
+
+3) proceso
+
+dalyviai ir ginčo dalykas;
+
+4) klausimas,
+
+kuriuo priimama nutartis;
+
+5) motyvai,
+
+kuriais teismas priėjo savo išvadas, ir įstatymai, kuriais teismas vadovavosi;
+
+6) teismo
+
+nutarimas;
+
+7) nutarties
+
+apskundimo tvarka ir terminas.
+
+2. Nutartyje,
+
+kurią teismas priima neišeidamas į pasitarimų kambarį, turi būti duomenys,
+
+išvardyti šio straipsnio 1 dalies 4, 5 ir 6 punktuose.
+
+107
+
+straipsnis. Nutarčių išsiuntimas proceso šalims
+
+Bylos šalims ir
+
+tretiesiems suinteresuotiems asmenims, neatvykusiems į teismo posėdį,
+
+išsiunčiami teismo nutarties nutraukti ar sustabdyti bylą, palikti skundą
+
+(prašymą) nenagrinėtą ar perduoti bylą pagal jos priskirtinumą atitinkamam
+
+teismui nuorašai. Nutarties nuorašai išsiunčiami ne vėliau kaip per tris dienas
+
+nuo nutarties priėmimo dienos.
+
+108
+
+straipsnis. Atskirosios nutartys
+
+1. Jeigu
+
+teismas, nagrinėdamas administracinę bylą, padaro išvadą, kad pareigūnai,
+
+institucijos, įstaigos, įmonės, organizacijos bei asmenys pažeidė įstatymus ar
+
+kitus teisės aktus, tai priima atskirąją nutartį, kurioje nurodo padarytus
+
+pažeidimus ir nusiunčia ją atitinkamoms viešojo administravimo institucijoms,
+
+įmonių, įstaigų, organizacijų vadovams.
+
+2. Apie priimtas
+
+priemones dėl atskirosios nutarties teismui atsakoma per vieną mėnesį.
 
 92 straipsnis.
 
@@ -8113,11 +8561,11 @@ ar Vyriausybės norminiam aktui ir laikyti jį panaikintu.
 
 2.
 
-Administracinis teismas, išnagrinėjęs bylą dėl norminio administracinio akto
+Administracinis teismas, išnagrinėjęs bylą dėl norminio administracinio akto teisėtumo,
 
-teisėtumo, grąžina atitinkamam teismui atsiųstą sustabdytąją bylą ir išsiunčia
+grąžina atitinkamam teismui atsiųstą sustabdytąją bylą ir išsiunčia priimto
 
-priimto sprendimo nuorašą.
+sprendimo nuorašą.
 
 116 straipsnis. Norminio
 
@@ -9061,9 +9509,9 @@ kalbos prasideda po proceso šalių ir kitų proceso dalyvių paaiškinimų.
 
 5. Žodinio bylos
 
-nagrinėjimo atveju teismo posėdyje rašomas protokolas, kuriame turi atsispindėti
+nagrinėjimo atveju teismo posėdyje rašomas protokolas, kuriame turi
 
-visi esminiai bylos nagrinėjimo momentai.
+atsispindėti visi esminiai bylos nagrinėjimo momentai.
 
 6. Protokolą
 
@@ -9089,17 +9537,17 @@ nagrinėjimo atveju po proceso dalyvių baigiamųjų kalbų teismas išeina į
 
 pasitarimų kambarį priimti sprendimo ar nutarties.
 
-2. Priėmęs
+*2. Priėmęs
 
 sprendimą ar nutartį, teismas grįžta į teismo posėdžių salę ir kolegijos
 
-pirmininkas arba teisėjas pranešėjas paskelbia sprendimo ar nutarties įžanginę
+pirmininkas arba teisėjas pranešėjas paskelbia sprendimo ar
 
-bei rezoliucinę dalis, trumpai išdėsto sprendimo ar nutarties motyvus ir
+nutarties įžanginę bei rezoliucinę dalis, trumpai išdėsto sprendimo ar nutarties
 
-praneša, kada bus surašytas visas sprendimas ar nutartis.
+motyvus ir praneša, kada bus surašytas visas sprendimas ar nutartis.
 
-3. Visas teismo
+*3. Visas teismo
 
 sprendimas ar nutartis išdėstoma raštu ir visų teisėjų pasirašoma ne vėliau
 
@@ -9123,6 +9571,36 @@ nutartį, kurios priėmimas ir paskelbimas buvo atidėtas, gali paskelbti vienas
 
 iš bylą nagrinėjusių teisėjų, kitiems kolegijos teisėjams nedalyvaujant.
 
+*Pastaba.
+
+Pripažinti, kad
+
+Lietuvos Respublikos administracinių bylų teisenos įstatymo 139 straipsnio 2
+
+dalies (2000 m. rugsėjo 19 d. redakcija; Žin., 2000, Nr. 85-2566) nuostata
+
+„kolegijos pirmininkas arba teisėjas pranešėjas <...> praneša, kada bus
+
+surašytas visas sprendimas ar nutartis“ prieštarauja Lietuvos Respublikos
+
+Konstitucijos 109 straipsniui, konstituciniams teisinės valstybės ir teisingumo
+
+principams.
+
+Pripažinti,
+
+kad Lietuvos Respublikos administracinių bylų teisenos įstatymo 139
+
+straipsnio 3 dalis (2000 m. rugsėjo 19 d. redakcija; Žin., 2000, Nr. 85-2566)
+
+prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsniui,
+
+konstituciniams teisinės valstybės ir teisingumo principams.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2006-09-21, Žin., 2006, Nr. 102-3957 (2006-09-26)
+
 140
 
 straipsnis. Apeliacinės instancijos teismo teisės
@@ -9145,9 +9623,9 @@ pirmosios instancijos teismo sprendimą;
 
 4) panaikinti
 
-pirmosios instancijos teismo sprendimą visą ar iš dalies ir perduoti bylą
+pirmosios instancijos teismo sprendimą visą ar iš dalies ir perduoti bylą pirmosios
 
-pirmosios instancijos teismui nagrinėti iš naujo;
+instancijos teismui nagrinėti iš naujo;
 
 5) panaikinti
 
@@ -9157,11 +9635,11 @@ nenagrinėtą, jeigu nustatomos šio įstatymo 101 ir 103 straipsniuose nurodyto
 
 aplinkybės.
 
-2. Šio straipsnio
+2. Šio
 
-1 dalies 2 punkte numatytu atveju priimamas teismo sprendimas, o 1, 3, 4 ir 5
+straipsnio 1 dalies 2 punkte numatytu atveju priimamas teismo sprendimas, o 1,
 
-punktuose numatytais atvejais – motyvuota teismo nutartis.
+3, 4 ir 5 punktuose numatytais atvejais – motyvuota teismo nutartis.
 
 138 straipsnis.
 
@@ -10315,13 +10793,13 @@ neatsiejamai susiję su jau pareikštais reikalavimais.
 
 straipsnis. Prisidėjimas prie apeliacinio skundo
 
-1. Asmenys, turintys
+1. Asmenys,
 
-teisę paduoti apeliacinį skundą, gali prisidėti prie paduoto apeliacinio
+turintys teisę paduoti apeliacinį skundą, gali prisidėti prie paduoto
 
-skundo, paduodami rašytinį prašymą apeliacinės instancijos teismui. Toks
+apeliacinio skundo, paduodami rašytinį prašymą apeliacinės instancijos teismui.
 
-prisidėjimas yra galimas iki bylos nagrinėjimo iš esmės pradžios. Jeigu
+Toks prisidėjimas yra galimas iki bylos nagrinėjimo iš esmės pradžios. Jeigu
 
 prisidedama prie apeliacinio skundo, už pareiškimą dėl prisidėjimo žyminis
 
@@ -10331,11 +10809,11 @@ prisidedantys asmenys negali pareikšti savarankiškų reikalavimų ir apskųsto
 
 sprendimo naikinimo ar pakeitimo pagrindų.
 
-2. Jeigu atsisakoma
+2. Jeigu
 
-priimti apeliacinį skundą, pareiškimas dėl prisidėjimo laikomas nepaduotu ir
+atsisakoma priimti apeliacinį skundą, pareiškimas dėl prisidėjimo laikomas
 
-grąžinamas jį padavusiam asmeniui.
+nepaduotu ir grąžinamas jį padavusiam asmeniui.
 
 3. Jeigu asmuo
 
@@ -10353,9 +10831,9 @@ skundą padavęs asmuo turi teisę skundo atsisakyti iki baigiamųjų kalbų.
 
 Rašytinis apelianto pareiškimas, kuriuo atsisakoma apeliacinio skundo,
 
-pridedamas prie bylos, o žodinis pareiškimas įrašomas į teismo posėdžio protokolą
+pridedamas prie bylos, o žodinis pareiškimas įrašomas į teismo posėdžio
 
-ir apelianto pasirašomas.
+protokolą ir apelianto pasirašomas.
 
 2. Šio
 
@@ -10453,9 +10931,9 @@ apeliaciniu skundu ir jo priedais apeliacinės instancijos teismui.
 
 apeliacinis skundas paduodamas apeliacinės instancijos teismui, motyvuotą
 
-nutartį atsisakyti priimti apeliacinį skundą priima apeliacinio teismo trijų teisėjų
+nutartį atsisakyti priimti apeliacinį skundą priima apeliacinio teismo trijų
 
-kolegija.
+teisėjų kolegija.
 
 7. Jeigu šio
 
@@ -10477,9 +10955,9 @@ instancijos teismas išsiunčia dalyvaujantiems apeliaciniame procese asmenims
 
 apeliacinio skundo ir jo priedų nuorašus, reikalaudamas per keturiolika dienų
 
-raštu pateikti apeliacinės instancijos teismui išsamius atsiliepimus į apeliacinį
+raštu pateikti apeliacinės instancijos teismui išsamius atsiliepimus į
 
-skundą.
+apeliacinį skundą.
 
 3. Žodinio bylos
 
@@ -10563,11 +11041,11 @@ byla.
 
 negaliojimo pagrindais yra pripažįstami tokie atvejai, kai:
 
-1) byla
+1) byla išnagrinėta
 
-išnagrinėta neteisėtos sudėties teismo arba pažeidžiant funkcinio, rūšinio ar
+neteisėtos sudėties teismo arba pažeidžiant funkcinio, rūšinio ar išimtinio
 
-išimtinio teritorinio priskirtinumo atitinkantiems teismams taisykles;
+teritorinio priskirtinumo atitinkantiems teismams taisykles;
 
 2) pirmosios
 
@@ -10753,9 +11231,9 @@ instancijos teismas, išnagrinėjęs atskirąjį skundą, turi teisę savo nutar
 
 pirmosios instancijos teismo nutartį nepakeistą;
 
-2) pakeisti pirmosios
+2) pakeisti
 
-instancijos teismo nutartį iš dalies;
+pirmosios instancijos teismo nutartį iš dalies;
 
 3) panaikinti
 
@@ -10823,9 +11301,9 @@ pareiškėjui bylos nagrinėjimo metu;
 
 teismo nuosprendžiu nustatyti žinomai melagingi liudytojo parodymai, žinomai
 
-melaginga eksperto išvada, žinomai neteisingas vertimas, dokumentų arba
+melaginga eksperto išvada, žinomai neteisingas vertimas, dokumentų arba daiktinių
 
-daiktinių įrodymų suklastojimas, dėl kurių priimtas neteisėtas arba nepagrįstas
+įrodymų suklastojimas, dėl kurių priimtas neteisėtas arba nepagrįstas
 
 sprendimas;
 
@@ -10893,9 +11371,7 @@ nutarimas ar nutartis pažeidžia jų teises ar įstatymų saugomus interesus, t
 
 pat prokuroras bei viešojo administravimo subjektai, kad būtų apgintas viešasis
 
-interesas ar apgintos valstybės ir asmenų teisės bei įstatymų saugomi
-
-interesai.
+interesas ar apgintos valstybės ir asmenų teisės bei įstatymų saugomi interesai.
 
 2. Teikimą
 
@@ -10947,9 +11423,9 @@ praleidusiems prašymo dėl proceso atnaujinimo padavimo terminą dėl svarbių
 
 priežasčių, praleistas terminas gali būti atnaujintas, jeigu prašymas dėl
 
-termino atnaujinimo paduotas ne vėliau kaip po vienerių metų nuo sprendimo
+termino atnaujinimo paduotas ne vėliau kaip po vienerių metų nuo sprendimo įsiteisėjimo
 
-įsiteisėjimo dienos.
+dienos.
 
 3. Prašymas dėl
 
@@ -11063,17 +11539,17 @@ prašymas paduotas nepraleidus įstatymo nustatytų terminų ir yra pagrįstas
 
 įstatymo numatytais proceso atnaujinimo pagrindais, teismas priima nutartį dėl
 
-proceso atnaujinimo, kurioje nurodo, koks teismas nagrinės bylą iš esmės.
+proceso atnaujinimo, kurioje nurodo, koks teismas nagrinės bylą iš esmės. Prireikus
 
-Prireikus kolegija gali sustabdyti skundžiamo sprendimo, nutarimo ar nutarties
+kolegija gali sustabdyti skundžiamo sprendimo, nutarimo ar nutarties vykdymą,
 
-vykdymą, kol bus iš naujo išnagrinėta byla. Nutartis dėl sprendimo, nutarimo ar
+kol bus iš naujo išnagrinėta byla. Nutartis dėl sprendimo, nutarimo ar
 
 nutarties vykdymo sustabdymo yra neskundžiama.
 
-160 straipsnis. Teismo, kuriam perduodama
+160 straipsnis. Teismo, kuriam
 
-byla nagrinėti iš naujo, parinkimas
+perduodama byla nagrinėti iš naujo, parinkimas
 
 1. Kolegijai
 
@@ -11189,9 +11665,9 @@ RESPUBLIKOS ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO 5, 6, 7, 8, 9, 10, 30, 40,
 
 2.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
 Nr. VIII-1262,
 
@@ -11323,9 +11799,83 @@ BYLŲ TEISENOS ĮSTATYMO 15, 18, 19, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 
 Pabaiga ***
 
+Lietuvos
+
+Respublikos Konstitucinio Teismo nutarimai:
+
+1.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2006-09-21,
+
+Žin., 2006, Nr. 102-3957 (2006-09-26)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO 85 STRAIPSNIO 3
+
+DALIES (2000 M. RUGSĖJO 19 D. REDAKCIJA), 139 STRAIPSNIO 2, 3 DALIŲ (2000 M.
+
+RUGSĖJO 19 D. RED.), LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO KODEKSO 306
+
+STRAIPSNIO (2004 M. LIEPOS 8 D. RED.), 308 STRAIPSNIO (2006 M. BIRŽELIO 1 D.
+
+RED.) 2 DALIES (2002 M. KOVO 14 D. RED.), 324 STRAIPSNIO 12, 13 DALIŲ (2002 M.
+
+KOVO 14 D. RED.), 377 STRAIPSNIO (2004 M. LIEPOS 8 D. RED.) 9 DALIES (2002 M.
+
+KOVO 14 D. RED.), 448 STRAIPSNIO 7 DALIES (2002 M. KOVO 14 D. RED.), 454
+
+STRAIPSNIO 5, 6 DALIŲ (2002 M. KOVO 14 D. RED.), 460 STRAIPSNIO 4, 5 DALIŲ
+
+(2002 M. KOVO 14 D. RED.), LIETUVOS RESPUBLIKOS CIVILINIO PROCESO KODEKSO 268
+
+STRAIPSNIO 3 DALIES (2002 M. VASARIO 28 D. RED.), 285 STRAIPSNIO 2, 5 DALIŲ
+
+(2002 M. VASARIO 28 D. RED.), 286 STRAIPSNIO 1 DALIES (2002 M. VASARIO 28 D.
+
+RED.), 288 STRAIPSNIO 4 DALIES (2002 M. VASARIO 28 D. RED.), 289 STRAIPSNIO 2
+
+DALIES (2002 M. VASARIO 28 D. RED.), 303 STRAIPSNIO 2 DALIES (2002 M. VASARIO
+
+28 D. RED.), 320 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), 325
+
+STRAIPSNIO 2, 3 DALIŲ (2002 M. VASARIO 28 D. RED.), 358 STRAIPSNIO 2, 3 DALIŲ
+
+(2002 M. VASARIO 28 D. RED.) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI,
+
+TAIP PAT DĖL PAREIŠKĖJO - SEIMO NARIŲ GRUPĖS PRAŠYMO IŠTIRTI, AR LIETUVOS
+
+RESPUBLIKOS TEISMŲ ĮSTATYMO 119 STRAIPSNIO 2 DALIES 1 PUNKTAS (2002 M. SAUSIO
+
+24 D. REDAKCIJA), 119 STRAIPSNIO 5 DALIS (2002 M. SAUSIO 24 D. REDAKCIJA), 120
+
+STRAIPSNIO (2003 M. SAUSIO 21 D. REDAKCIJA) 1 PUNKTAS (2002 M. SAUSIO 24 D.
+
+REDAKCIJA), LIETUVOS RESPUBLIKOS PREZIDENTO 2003 M. VASARIO 19 D. DEKRETAS NR.
+
+2067 "DĖL APYGARDOS TEISMO TEISĖJO ĮGALIOJIMŲ PRATĘSIMO", LIETUVOS
+
+RESPUBLIKOS PREZIDENTO 2003 M. BIRŽELIO 18 D. DEKRETAS NR. 128 "DĖL
+
+APYGARDŲ TEISMŲ SKYRIŲ PIRMININKŲ SKYRIMO" TA APIMTIMI, KURIA NUSTATYTA,
+
+KAD VILNIAUS APYGARDOS TEISMO TEISĖJAS KONSTANTAS RAMELIS SKIRIAMAS ŠIO TEISMO
+
+CIVILINIŲ BYLŲ SKYRIAUS PIRMININKU, NEPRIEŠTARAUJA LIETUVOS RESPUBLIKOS
+
+KONSTITUCIJAI
+
+***
+
+Pabaiga ***
+
 Redagavo:
 
-Aušrinė Trapinskienė (2004-12-03)
+Aušrinė Trapinskienė (2006-10-13)
 
 autrap@lrs.lt
 
