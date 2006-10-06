@@ -4,7 +4,7 @@ identifier: "TAR.303FC0152D04"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2002-12-24"
+last_updated: "2006-10-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2002-12-24 iki 2006-10-05
+Suvestinė redakcija nuo 2006-10-06 iki 2008-01-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
 
@@ -47,15 +47,33 @@ Straipsnio dalies pakeitimai:
 
 Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
 
-4. Reklaminės veiklos subjektams atstovaujančios reklamos savitvarkos institucijos turi teisę savanoriškai reglamentuoti ir kontroliuoti savo narių naudojamą reklamą, nustatydamos galiojantiems teisės aktams neprieštaraujančias taisykles.
+4. Šio įstatymo nuostatos atitinkamai taikomos dėl Bendrijoje daromo pažeidimo, kaip jis apibrėžiamas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, kai pažeidžiamos šio įstatymo 5 ar 6 straipsnio nuostatos.
 
-5. Šis įstatymas nereglamentuoja politinės ir socialinės reklamos bei skelbimų, nesusijusių su komercine-ūkine, finansine ar profesine veikla.
+Papildyta straipsnio dalimi:
 
-6. Šio įstatymo nuostatos yra suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+Nr. X-808, 2006-09-14, Žin., 2006, Nr. 107-4046 (2006-10-06), i. k. 1061010ISTA000X-808
+
+5. Reklaminės veiklos subjektams atstovaujančios reklamos savitvarkos institucijos turi teisę savanoriškai reglamentuoti ir kontroliuoti savo narių naudojamą reklamą, nustatydamos galiojantiems teisės aktams neprieštaraujančias taisykles.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-808, 2006-09-14, Žin., 2006, Nr. 107-4046 (2006-10-06), i. k. 1061010ISTA000X-808
+
+6. Šis įstatymas nereglamentuoja politinės ir socialinės reklamos bei skelbimų, nesusijusių su komercine-ūkine, finansine ar profesine veikla.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-808, 2006-09-14, Žin., 2006, Nr. 107-4046 (2006-10-06), i. k. 1061010ISTA000X-808
+
+7. Šio įstatymo nuostatos įgyvendina Europos Sąjungos teisės aktus, nurodytus šio įstatymo priede.
 
 Papildyta straipsnio dalimi:
 
 Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-808, 2006-09-14, Žin., 2006, Nr. 107-4046 (2006-10-06), i. k. 1061010ISTA000X-808
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -275,7 +293,17 @@ REKLAMOS KONTROLĖ
 
 2. Konkurencijos taryba kontroliuoja, ar reklama nėra klaidinanti, ir lyginamąją reklamą; vietos savivaldos vykdomosios institucijos ir valstybės įstaiga, atsakinga už kultūros vertybių apsaugą, bei saugomos teritorijos steigėjo įgaliota įstaiga – kaip laikomasi išorinės reklamos įrengimo taisyklių; Nacionalinė vartotojų teisių apsaugos taryba bei jos įgaliotos valstybės įstaigos – kitų šio įstatymo nustatytų draudimų ir reikalavimų įgyvendinimą.
 
-3. Šio straipsnio 1 dalyje nurodytos institucijos ir įstaigos, kontroliuodamos reklamos naudojimą, bendradarbiauja su reklamos savitvarkos institucijomis.
+3. Konkurencijos taryba yra atsakinga už 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo taikymą, kiek tai susiję su Konkurencijos tarybos funkcijomis kontroliuojant, ar reklama nėra klaidinanti, ir lyginamąją reklamą.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-808, 2006-09-14, Žin., 2006, Nr. 107-4046 (2006-10-06), i. k. 1061010ISTA000X-808
+
+4. Šio straipsnio 1 dalyje nurodytos institucijos ir įstaigos, kontroliuodamos reklamos naudojimą, bendradarbiauja su reklamos savitvarkos institucijomis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-808, 2006-09-14, Žin., 2006, Nr. 107-4046 (2006-10-06), i. k. 1061010ISTA000X-808
 
 18 straipsnis. Nacionalinės vartotojų teisių apsaugos tarybos įgaliotų valstybės įstaigų teisės
 
@@ -320,6 +348,12 @@ Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010IS
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+
+3. Konkurencijos taryba turi 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo kompetentingai institucijai numatytas teises, kiek tai susiję su Konkurencijos tarybos funkcijomis kontroliuojant, ar reklama nėra klaidinanti, ir lyginamąją reklamą.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-808, 2006-09-14, Žin., 2006, Nr. 107-4046 (2006-10-06), i. k. 1061010ISTA000X-808
 
 ŠEŠTASIS SKIRSNIS
 
@@ -475,15 +509,19 @@ Lietuvos Respublikos
 
 reklamos įstatymo
 
-Nr. VIII-1871
-
 priedas
 
-Lietuvos Respublikos reklamos įstatymas yra suderintas su 1984 m. rugsėjo 10 d. Tarybos direktyva Nr. 84/450/EEB dėl valstybių narių įstatymų ir kitų teisės aktų, susijusių su klaidinančia reklama, derinimo ir 1997 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva Nr. 97/55/EB, iš dalies pakeičiančia ir papildančia direktyvą Nr. 84/450/EEB dėl klaidinančios reklamos taip, kad būtų įtraukta ir lyginamoji reklama.
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-Papildyta priedu:
+1. 1984 m. rugsėjo 10 d. Tarybos direktyva 84/450/EEB dėl valstybių narių įstatymų ir kitų teisės aktų dėl klaidinančios reklamos suderinimo (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 227).
 
-Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+2. 1997 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva 97/55/EB, iš dalies pakeičianti Direktyvą 84/450 dėl klaidinančios reklamos taip, kad būtų įtraukta lyginamoji reklama (OL 2004 m. specialusis leidimas, 15 skyrius, 3 tomas, p. 365).
+
+3. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 m. L 364, p. 1).
+
+Priedo pakeitimai:
+
+Nr. X-808, 2006-09-14, Žin., 2006, Nr. 107-4046 (2006-10-06), i. k. 1061010ISTA000X-808
 
 Pakeitimai:
 
@@ -494,4 +532,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
 
 Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-808, 2006-09-14, Žin., 2006, Nr. 107-4046 (2006-10-06), i. k. 1061010ISTA000X-808
+
+Lietuvos Respublikos reklamos įstatymo 1, 17, 19 straipsnių ir priedo pakeitimo ir papildymo įstatymas
 
