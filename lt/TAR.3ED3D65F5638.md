@@ -4,7 +4,7 @@ identifier: "TAR.3ED3D65F5638"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-31"
-last_updated: "2000-09-15"
+last_updated: "2006-10-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3ED3D65F5638"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės rezervo įstatymas
+
+Suvestinė redakcija nuo 2006-10-06 iki 2011-06-30
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 78-2359, i. k. 1001010ISTAIII-1908
 
 LIETUVOS RESPUBLIKOS
 
@@ -40,7 +44,11 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Valstybės rezervas – piniginės lėšos (nacionaline bei užsienio valiuta) ir valstybės lėšomis įsigytos materialinių išteklių atsargos bei privalomosios materialinių išteklių atsargos mobilizaciniams poreikiams, ūkio ir civilinės saugos sistemos funkcionavimo poreikiams patenkinti mobilizacijos, ekstremalių situacijų bei ekonominės grėsmės sąlygomis.
+1. Valstybės rezervas – piniginės lėšos (nacionaline bei užsienio valiuta) ir valstybės lėšomis įsigytos materialinių išteklių atsargos bei privalomosios materialinių išteklių atsargos mobilizaciniams poreikiams, ūkio ir civilinės saugos sistemos funkcionavimo poreikiams patenkinti mobilizacijos, ekstremalių situacijų bei ekonominės grėsmės sąlygomis ar kitais šio įstatymo nustatytais atvejais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
 
 2. Materialiniai ištekliai – žaliavos, medžiagos, pagrindiniai energijos ištekliai, žemės ūkio produktai, maisto produktai ir jų pusgaminiai, vaistai ir medicinos reikmenys, mašinos, įrenginiai, ryšių, sanitarijos ir civilinės saugos priemonės.
 
@@ -80,7 +88,11 @@ Sudarant, kaupiant ir tvarkant valstybės rezervą, privalo dalyvauti valstybės
 
 4. Mobilizacinio rezervo materialinių išteklių atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama Lietuvos Respublikos ūkio mobilizaciniams poreikiams tenkinti paskelbus mobilizaciją arba įvedus nepaprastąją padėtį. Mobilizacinio rezervo materialinių išteklių atsargų sudarymo, kaupimo ir tvarkymo principus nustato šis bei Mobilizacijos ir mobilizacinio rezervo rengimo įstatymai.
 
-5. Civilinės saugos priemonių atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama civilinės saugos sistemos funkcionavimui užtikrinti mobilizacijos ir ekstremalių situacijų metu.
+5. Civilinės saugos priemonių atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama civilinės saugos sistemos funkcionavimui užtikrinti mobilizacijos ir ekstremalių situacijų metu bei civilinės saugos treniruotėms ir pratyboms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
 
 6. Ūkio atsargos – valstybės rezervo materialinių išteklių atsargų dalis, įskaitant privalomąsias materialinių išteklių atsargas, skiriama būtiniausiems ūkio subjektų bei gyventojų poreikiams tenkinti mobilizacijos, ekstremalių situacijų ir ekonominės grėsmės metu.
 
@@ -207,6 +219,12 @@ valstybės rezervO SUDARYMAS, KAUPIMAS IR TVARKYMAS
 6. Šio straipsnio 2 dalyje numatytais atvejais Vyriausybė priima sprendimą parduoti valstybei nuosavybės teise priklausančias valstybės rezervo materialinių išteklių atsargas Vyriausybės nustatytomis kainomis bei laikinai sumažinti privalomųjų materialinių išteklių atsargų kiekį Lietuvos Respublikoje, Lietuvos Respublikos teritorijos administraciniame vienete ar atskiruose ūkio subjektuose.
 
 7. Valstybės rezervo energijos išteklių atsargos naudojamos vadovaujantis Vyriausybės patvirtintu planu.
+
+8. Valstybės rezervo civilinės saugos priemonių atsargos gali būti naudojamos civilinės saugos treniruočių ir pratybų metu Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
 
 14 straipsnis. Valstybės rezervo atkūrimas
 
@@ -346,21 +364,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-181 straipsnis. Tiekėjo pareigos ir pareigų laikymosi priežiūra
+Pakeitimai:
 
-1. Tiekėjas, sudaręs preliminariąją sutartį su valstybės rezervo tvarkytoju, užtikrina, kad valstybės rezervo materialinių išteklių atsargos sudarius pirkimo sutartį preliminariosios sutarties pagrindu būtų laiku perduotos Vyriausybės ar jos pavedimu valstybės rezervo tvarkytojo nustatytiems subjektams, sudaro galimybę valstybės rezervo tvarkytojui kartą per metus patikrinti tiekėjo galimybes užtikrinti preliminariojoje sutartyje nustatyto kiekio ir rūšies valstybės rezervo materialinių išteklių atsargų tiekimą ir jų pristatymą per preliminariojoje sutartyje nustatytą terminą (toliau – tiekimas ir pristatymas).
+1.
 
-2. Tikrinant tiekėjo galimybes užtikrinti tiekimą ir pristatymą, valstybės rezervo tvarkytojo prašymu tiekėjas per valstybės rezervo tvarkytojo nustatytą ne trumpesnį kaip 5 darbo dienų terminą privalo pateikti dokumentus, patvirtinančius tiekėjo galimybę užtikrinti tiekimą ir pristatymą. Tiekėjo motyvuotu prašymu šioje dalyje nurodytas 5 darbo dienų terminas valstybės rezervo tvarkytojo sprendimu vieną kartą gali būti pratęstas ne daugiau kaip 5 darbo dienomis. Tiekėjas, negalėdamas pateikti dokumentų, patvirtinančių tiekėjo galimybę užtikrinti tiekimą ir pristatymą, turi teisę pateikti kitus faktinius duomenis, patvirtinančius galimybę užtikrinti tiekimą ir pristatymą. Valstybės rezervo tvarkytojas, atsižvelgdamas į preliminariojoje sutartyje nurodytų valstybės rezervo materialinių išteklių atsargų kiekį ir rūšį, pristatymo terminus, vertina, ar tiekėjo pateikti dokumentai arba kiti faktiniai duomenys patvirtina tiekėjo galimybę užtikrinti tiekimą ir pristatymą.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Valstybės rezervo tvarkytojas privalo vienašališkai nutraukti preliminariąją sutartį su tiekėju, kuris  per valstybės rezervo tvarkytojo nustatytą terminą nepateikia dokumentų ir (arba) faktinių duomenų, patvirtinančių tiekėjo galimybę užtikrinti tiekimą ir pristatymą, ir neprašo pratęsti termino  reikalingiems  dokumentams ar kitiems faktiniams duomenims pateikti arba, pratęsus terminą, nepateikia reikiamų dokumentų ir (arba) faktinių duomenų, arba pateikia dokumentus ir (arba) faktinius duomenis, kurie nepatvirtina tiekėjo galimybės užtikrinti tiekimą ir pristatymą. Nutraukiant preliminariąją sutartį, laikomasi Viešųjų pirkimų įstatyme ir Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme nustatytos preliminariųjų sutarčių nutraukimo tvarkos.
+Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
 
-4. Kiti tiekėjo įsipareigojimai ir atsakomybė, atsižvelgiant į preliminariojoje sutartyje nurodomą tiekimą ir pristatymą, nustatomi valstybės rezervo tvarkytojo ir tiekėjo sudarytoje preliminariojoje sutartyje.
-
-Papildyta straipsniu:
-
-Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
-
-KETVIRTASIS SKIRSNIS
-
-BAIGIAMOSIOS NUOSTATOS
+Lietuvos Respublikos valstybės rezervo įstatymo 2, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas
 
