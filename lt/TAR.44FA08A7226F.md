@@ -4,7 +4,7 @@ identifier: "TAR.44FA08A7226F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-14"
-last_updated: "2000-10-31"
+last_updated: "2006-10-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 department: "Lietuvos Respublikos Seimas"
@@ -34,13 +34,11 @@ PROFESINIO MOKYMO
 
 Vilnius
 
-I
+I DALIS. BENDROSIOS NUOSTATOS
 
-DALIS. BENDROSIOS NUOSTATOS
+1 straipsnis.
 
-1 straipsnis. Įstatymo paskirtis ir
-
-reguliavimo sritis
+Įstatymo paskirtis ir reguliavimo sritis
 
 1. Šis įstatymas nustato Lietuvos
 
@@ -62,9 +60,9 @@ išsilavinimą, įgyjamą profesinio mokymo įstaigose, reglamentuoja Švietimo
 
 įstatymas.
 
-2 straipsnis. Pagrindinės šio įstatymo
+2 straipsnis.
 
-sąvokos
+Pagrindinės šio įstatymo sąvokos
 
 1. Profesinis mokymas - mokymas, kurio
 
@@ -144,9 +142,9 @@ pažymėjimai - dokumentai, patvirtinantys tam tikros profesinio mokymo programo
 
 baigimą pagal Studijų ir mokymo programų registro reikalavimus.
 
-3 straipsnis. Profesinio mokymo sistemos
+3 straipsnis.
 
-uždaviniai
+Profesinio mokymo sistemos uždaviniai
 
 Pagrindiniai profesinio mokymo sistemos
 
@@ -174,7 +172,9 @@ profesinę kvalifikaciją, laiduoti profesinio mokymo tęstinumą;
 
 demokratijos principais grindžiamoje visuomenėje.
 
-4 straipsnis. Profesinio mokymo sistema
+4 straipsnis.
+
+Profesinio mokymo sistema
 
 1. Lietuvos profesinio mokymo sistemos
 
@@ -208,9 +208,9 @@ asmenys gali mokytis ir šios dalies 1 ir 2 punktuose išvardytose profesinio
 
 mokymo įstaigose.
 
-5 straipsnis. Studijų ir mokymo programų
+5 straipsnis.
 
-registras
+Studijų ir mokymo programų registras
 
 1. Valstybės pripažintas pagrindinis ir
 
@@ -224,13 +224,11 @@ tvarka.
 
 saugomas Švietimo ir mokslo ministerijoje.
 
-II
+II DALIS. PROFESINIO MOKYMO SISTEMOS VALDYMAS
 
-DALIS. PROFESINIO MOKYMO SISTEMOS VALDYMAS
+6 straipsnis.
 
-6 straipsnis. Bendrosios valdymo
-
-nuostatos
+Bendrosios valdymo nuostatos
 
 1. Profesinio mokymo sistemos valdymas
 
@@ -266,9 +264,9 @@ institucijoms vykdyti atitinkamas profesinio mokymo valdymo funkcijas arba (ir)
 
 kurti savo padalinius minėtoms funkcijoms atlikti.
 
-7 straipsnis. Lietuvos profesinio mokymo
+7 straipsnis.
 
-taryba
+Lietuvos profesinio mokymo taryba
 
 1. Lietuvos profesinio mokymo taryba
 
@@ -380,11 +378,11 @@ mokymo tvarką;
 
 užmokyklinį profesinį konsultavimą;
 
-7) atlieka ekspertizę ir teikia išvadas Švietimo
+7) atlieka ekspertizę ir teikia išvadas
 
-ir mokslo ministerijai dėl darbo rinkos profesinio mokymo programų įtraukimo į
+Švietimo ir mokslo ministerijai dėl darbo rinkos profesinio mokymo programų
 
-Studijų ir mokymo programų registrą;
+įtraukimo į Studijų ir mokymo programų registrą;
 
 8) nustato darbo rinkos profesinio
 
@@ -586,9 +584,9 @@ registro.
 
 mastų apskrities valstybinėse mokymo įstaigose ir įmonėse.
 
-11 straipsnis. Socialinių partnerių
+11 straipsnis.
 
-kompetencija profesinio mokymo srityje
+Socialinių partnerių kompetencija profesinio mokymo srityje
 
 1. Darbdavių interesams atstovaujantys
 
@@ -626,9 +624,7 @@ profesinio mokymo programų (modulių) bei kvalifikacijos egzaminų reikalavimus
 
 kvalifikacijos egzaminus.
 
-III
-
-DALIS. PROFESINIO MOKYMO ĮSTAIGŲ STEIGIMAS,
+III DALIS. PROFESINIO MOKYMO ĮSTAIGŲ STEIGIMAS,
 
 REORGANIZAVIMAS,
 
@@ -638,9 +634,9 @@ PROFESINIAM
 
 MOKYMUI
 
-12 straipsnis. Profesinio mokymo
+12 straipsnis.
 
-įstaigos reikalavimai
+Profesinio mokymo įstaigos reikalavimai
 
 Profesinio mokymo įstaiga turi atitikti
 
@@ -746,9 +742,9 @@ reikalavimus, jos veikla gali būti sustabdyta Švietimo įstatymo nustatyta
 
 tvarka.
 
-14 straipsnis. Profesinio mokymo
+14 straipsnis.
 
-licencija
+Profesinio mokymo licencija
 
 1. Profesinio mokymo įstaigos ir įmonės,
 
@@ -766,9 +762,9 @@ išdavimo tvarką Švietimo ir mokslo ministerijos teikimu nustato Vyriausybė.
 
 registruoja Švietimo ir mokslo ministerija.
 
-15 straipsnis. Profesinio mokymo įstaigų
+15 straipsnis.
 
-registravimas
+Profesinio mokymo įstaigų registravimas
 
 Profesinio mokymo įstaigas, taip pat
 
@@ -784,9 +780,9 @@ ir darbo ministerijai. Registro duomenys naudojami Vyriausybės nustatyta
 
 tvarka.
 
-16 straipsnis. Leidimas praktiniam
+16 straipsnis.
 
-mokymui
+Leidimas praktiniam mokymui
 
 Įmonės, atliekančios tik profesinio
 
@@ -794,13 +790,9 @@ mokymo įstaigų mokinių praktinį mokymą, privalo turėti leidimą praktiniam
 
 mokymui, išduotą Rūmų ar kitos kompetentingos įstaigos.
 
-IV
+IV DALIS. PROFESINIO MOKYMO ORGANIZAVIMAS
 
-DALIS. PROFESINIO MOKYMO ORGANIZAVIMAS
-
-I
-
-SKYRIUS. BENDROSIOS PROFESINIO MOKYMO
+I SKYRIUS. BENDROSIOS PROFESINIO MOKYMO
 
 ORGANIZAVIMO
 
@@ -886,9 +878,9 @@ Vyriausybės nustatyta tvarka verstis komercine-ūkine veikla. Pajamos, gautos i
 
 procese.
 
-18 straipsnis. Įmonių, atliekančių tik
+18 straipsnis.
 
-praktinį mokymą, teisės ir pareigos
+Įmonių, atliekančių tik praktinį mokymą, teisės ir pareigos
 
 1. Įmonė, atliekanti tik praktinį
 
@@ -920,7 +912,9 @@ sutartyje numatytas sąlygas;
 
 numatytam teoriniam mokymuisi ir bendrajam lavinimuisi.
 
-19 straipsnis. Mokymo sutartis
+19 straipsnis.
+
+Mokymo sutartis
 
 1. Profesinio mokymo įstaigos, įmonės ir
 
@@ -958,7 +952,9 @@ dydis, kuris gali būti keičiamas tik šalių sutarimu.
 
 kompensuojami nuostoliai, patirti vienai iš šalių nutraukus sutartį.
 
-20 straipsnis. Mokymo turinys
+20 straipsnis.
+
+Mokymo turinys
 
 1. Profesinį rengimą sudaro teorinis ir
 
@@ -972,17 +968,17 @@ reikalavimus.
 
 3. Profesinio mokymo turinys formuojamas
 
-mokymo planuose ir dalykų programose (moduliuose), kuriuos, suderinęs su Švietimo
+mokymo planuose ir dalykų programose (moduliuose), kuriuos, suderinęs su
 
-ir mokslo ministerija pagrindiniam profesiniam mokymui ir su Socialinės
+Švietimo ir mokslo ministerija pagrindiniam profesiniam mokymui ir su
 
-apsaugos ir darbo min­isterija - darbo rinkos profesiniam mokymui, tvirtina
+Socialinės apsaugos ir darbo min­isterija - darbo rinkos profesiniam mokymui,
 
-steigėjas.
+tvirtina steigėjas.
 
-21 straipsnis. Kvalifikacijos egzaminų
+21 straipsnis.
 
-bendrosios nuostatos
+Kvalifikacijos egzaminų bendrosios nuostatos
 
 1. Kvalifikacijos egzaminų organizavimo
 
@@ -1004,7 +1000,9 @@ egzaminai.
 
 tvarka sudarytos egzaminų komisijos.
 
-22 straipsnis. Egzaminų komisijos
+22 straipsnis.
+
+Egzaminų komisijos
 
 1. Teoriniam ir praktiniam egzaminui
 
@@ -1016,7 +1014,9 @@ egzaminuojamiesiems užduotis ir įvertina jų atlikimą.
 
 atstovaujama darbdaviams, profesinėms sąjungoms ir profesijos mokytojams.
 
-23 straipsnis. Pažymėjimai
+23 straipsnis.
+
+Pažymėjimai
 
 1. Valstybės pripažinti kvalifikacijos
 
@@ -1040,13 +1040,11 @@ Socialinės apsaugos ir darbo ministerija.
 
 mokslo ministerijoje.
 
-II
+II SKYRIUS. PAGRINDINIS PROFESINIS MOKYMAS
 
-SKYRIUS. PAGRINDINIS PROFESINIS MOKYMAS
+24 straipsnis.
 
-24 straipsnis. Pagrindinio profesinio
-
-mokymo tikslas ir uždaviniai
+Pagrindinio profesinio mokymo tikslas ir uždaviniai
 
 1. Pagrindinio profesinio mokymo tikslas
 
@@ -1068,9 +1066,9 @@ bendrąjį lavinimą;
 
 išsilavinimo.
 
-25 straipsnis. Priėmimas į pagrindinio
+25 straipsnis.
 
-profesinio mokymo įstaigas
+Priėmimas į pagrindinio profesinio mokymo įstaigas
 
 1. Į pagrindinio profesinio mokymo
 
@@ -1166,9 +1164,9 @@ darbo tvarkos taisyklių;
 
 nustatytos Švietimo įstatyme ir kituose teisės aktuose.
 
-27 straipsnis. Pagrindinio profesinio
+27 straipsnis.
 
-mokymo turinys
+Pagrindinio profesinio mokymo turinys
 
 Pagrindinis profesinis mokymas apima:
 
@@ -1180,9 +1178,9 @@ Pagrindinis profesinis mokymas apima:
 
 3) bendrąjį lavinimą.
 
-28 straipsnis. Pagrindinio profesinio
+28 straipsnis. Pagrindinio
 
-mokymo pakopos
+profesinio mokymo pakopos
 
 1. Pagrindinio profesinio mokymo
 
@@ -1238,9 +1236,9 @@ Kvalifikacinius reikalavimus pagrindinio profesinio
 
 mokymo įstaigų profesijos mokytojams nustato Švietimo ir mokslo ministerija.
 
-30 straipsnis. Pagrindinio profesinio
+30 straipsnis.
 
-mokymo tarpiniai egzaminai
+Pagrindinio profesinio mokymo tarpiniai egzaminai
 
 Pagrindinio profesinio mokymo įstaigose
 
@@ -1248,9 +1246,9 @@ laikomi tarpiniai egzaminai, numatyti mokymo planuose. Mokiniai, išlaikę visus
 
 tarpinius egzaminus, įgyja teisę laikyti kvalifikacijos egzaminus.
 
-31 straipsnis. Pagrindinio profesinio
+31 straipsnis.
 
-mokymo kvalifikacijos egzaminai
+Pagrindinio profesinio mokymo kvalifikacijos egzaminai
 
 Pagrindinio profesinio mokymo sistemoje
 
@@ -1280,9 +1278,7 @@ pažymėjimas.
 
 II, III ir IV pakopų programas, išduodamas kvalifikuoto darbuotojo diplomas.
 
-III
-
-SKYRIUS. DARBO RINKOS PROFESINIS MOKYMAS
+III SKYRIUS. DARBO RINKOS PROFESINIS MOKYMAS
 
 32 straipsnis.
 
@@ -1304,9 +1300,9 @@ III
 
 SKYRIUS. DARBO RINKOS PROFESINIS MOKYMAS
 
-33 straipsnis. Darbo rinkos profesinio
+33 straipsnis.
 
-mokymo tikslas ir uždaviniai
+Darbo rinkos profesinio mokymo tikslas ir uždaviniai
 
 1. Darbo rinkos profesinis mokymas turi
 
@@ -1334,15 +1330,17 @@ darbuotojams, kuriems gresia nedarbas, ir nedirbantiems asmenims:
 
 ministerija organizuoja darbo rinkos profesinį mokymą.
 
-34 straipsnis. Priėmimas į darbo rinkos
+34 straipsnis.
 
-profesinio mokymo įstaigas
+Priėmimas į darbo rinkos profesinio mokymo įstaigas
 
 1. Į darbo rinkos profesinio mokymo
 
 įstaigas priimami asmenys:
 
-1) dirbantys įmonėse, kuriems, gresiant nedarbui:
+1) dirbantys įmonėse, kuriems, gresiant
+
+nedarbui:
 
 a) reikia tobulinti kvalifikaciją;
 
@@ -1390,9 +1388,9 @@ besimokančiųjų teisės ir pareigos nustatomos mokinio ir profesinio mokymo
 
 įstaigos mokymo sutartyje.
 
-36 straipsnis. Darbo rinkos profesinio
+36 straipsnis.
 
-mokymo turinys
+Darbo rinkos profesinio mokymo turinys
 
 1. Darbo rinkos profesinis mokymas
 
@@ -1444,9 +1442,9 @@ profesijos mokytojams, dirbantiems darbo rinkos profesinio mokymo įstaigose,
 
 nustato Socialinės apsaugos ir darbo ministerija.
 
-38 straipsnis. Darbo rinkos profesinio
+38 straipsnis.
 
-mokymo kvalifikacijos egzaminai
+Darbo rinkos profesinio mokymo kvalifikacijos egzaminai
 
 Baigus mokslą pagal programą, įtrauktą į
 
@@ -1472,9 +1470,7 @@ pasirengimą atlikti įgytą profesinį išsilavinimą atitinkantį darbą ar pa
 
 2) kvalifikacijos pažymėjimas.
 
-V
-
-DALIS. FINANSAVIMAS
+V DALIS. FINANSAVIMAS
 
 39 straipsnis.
 
@@ -1496,7 +1492,9 @@ V
 
 DALIS. FINANSAVIMAS
 
-40 straipsnis. Finansavimo šaltiniai
+40 straipsnis.
+
+Finansavimo šaltiniai
 
 1. Pagrindinis profesinis mokymas
 
@@ -1530,13 +1528,11 @@ patvirtintas pajamų ir išlaidų sąmatas.
 
 nustatytų funkcijų vykdymą skiriamos lėšos pagal patvirtintas pajamų ir išlaidų
 
-sąmatas iš Švietimo ir mokslo ministerijai ir Žemės ūkio ministerijai tam
+sąmatas iš Švietimo ir mokslo ministerijai ir Socialinės apsaugos ir darbo
 
-tikslui skirtų asignavimų.
+ministerijai tam tikslui skirtų asignavimų.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. VIII-1296,
 
@@ -1545,6 +1541,10 @@ Nr. VIII-1296,
 Nr. VIII-2037, 2000 10 12, Žin., 2000, Nr.
 
 92-2877 (2000 10 31)
+
+Nr. X-821, 2006-09-21,
+
+Žin., 2006, Nr. 108-4091 (2006-10-11)
 
 41 straipsnis. Neteko galios.
 
@@ -1564,7 +1564,7 @@ RESPUBLIKOS PREZIDENTAS                             
 
 BRAZAUSKAS
 
-_________
+__________________
 
 Pakeitimai:
 
@@ -1594,9 +1594,29 @@ PROFESINIO MOKYMO ĮSTATYMO 40 STRAIPSNIO PAKEITIMO IR 41 STRAIPSNIO
 
 PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
-*** Pabaiga ***
+3.
 
-Redagavo: Aušrinė Trapinskienė (2000 11 21)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-821,
+
+2006-09-21, Žin., 2006, Nr. 108-4091 (2006-10-11)
+
+PROFESINIO
+
+MOKYMO ĮSTATYMO 40 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2006-10-12)
 
 autrap@lrs.lt
 
