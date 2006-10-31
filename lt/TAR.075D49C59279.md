@@ -4,7 +4,7 @@ identifier: "TAR.075D49C59279"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-07-25"
-last_updated: "2006-05-16"
+last_updated: "2006-10-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.075D49C59279"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -1111,13 +1111,19 @@ planavimo dokumentuose;
 
 3) suteikta
 
-mokslo ir mokymo, valstybinėms socialinės globos bei rūpybos įstaigoms,
+mokslo ir studijų institucijoms, šių institucijų įsteigtoms viešosioms
 
-valstybinėms įstaigoms ir organizacijoms; perduota valstybiniams
+įstaigoms, organizuojančioms praktinį mokymą ir tyrimus, profesinio mokymo,
 
-specializuotiems sėklininkystės, veislininkystės ūkiams ir specialios
+valstybinėms socialinės globos bei rūpybos įstaigoms, valstybinėms įstaigoms ir
 
-paskirties veislininkystės bendrovėms;
+organizacijoms, valstybiniams specializuotiems sėklininkystės, veislininkystės
+
+ūkiams bei specializuotą veislininkystės ir sėklininkystės veiklą vykdančioms
+
+valstybės kontroliuojamoms akcinėms bendrovėms ir uždarosioms akcinėms
+
+bendrovėms, kuriose valstybei priklauso daugiau kaip 1/2 akcijų;
 
 4) yra miestų
 
@@ -1133,9 +1139,9 @@ valdos statinių;
 
 5) yra
 
-valstybinių rezervatų, nacionalinių ir regioninių parkų rezervatų, Kuršių
+valstybinių rezervatų, nacionalinių ir regioninių parkų rezervatų, Kuršių nerijos
 
-nerijos nacionalinio parko teritorija;
+nacionalinio parko teritorija;
 
 6) yra
 
@@ -1175,6 +1181,12 @@ Nr. IX-496,
 
 2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
 
+Nr.
+
+X-856,
+
+2006-10-12, Žin., 2006, Nr. 116-4401 (2006-10-31)
+
 14
 
 straipsnis. Neprivatizuojami miškai ir vandens telkiniai
@@ -1193,9 +1205,9 @@ rezervatams, valstybinių parkų rezervatams ir rezervatinėms apyrubėms, Kurš
 
 nerijos nacionaliniam parkui;
 
-3) miestų
+3) (neteko
 
-sanitarinės apsaugos pirmajai zonai;
+galios nuo 2006 m. spalio 31 d.);
 
 4) miško
 
@@ -1223,15 +1235,21 @@ IX-1171,
 
 2002-11-05, Žin., 2002, Nr. 112-4975 (2002-11-22)
 
+Nr.
+
+X-856,
+
+2006-10-12, Žin., 2006, Nr. 116-4401 (2006-10-31)
+
 15
 
 straipsnis. Asmeninio ūkio žemė
 
-1.
+1. Asmeninio
 
-Asmeninio ūkio žeme laikoma žemė, kuri pagal įstatymus buvo suteikta ir fizinių
+ūkio žeme laikoma žemė, kuri pagal įstatymus buvo suteikta ir fizinių asmenų
 
-asmenų naudojama asmeniniam ūkiui.
+naudojama asmeniniam ūkiui.
 
 2. Jeigu asmeninio ūkio žemės
 
@@ -1361,9 +1379,9 @@ projektuojami fizinių asmenų turėtoje žemėvaldoje, jeigu ši yra asmeniniam
 
 8. Į piliečiui
 
-grąžinamos natūra žemės, miško arba perduodamą neatlygintinai nuosavybėn lygiavertį
+grąžinamos natūra žemės, miško arba perduodamą neatlygintinai nuosavybėn
 
-turėtam žemės, miško sklypui plotą įskaitomas tokio pat dydžio jo
+lygiavertį turėtam žemės, miško sklypui plotą įskaitomas tokio pat dydžio jo
 
 privatizuojamas namų valdos (išskyrus tas namų valdas, už kurias nustatyta
 
@@ -1397,17 +1415,17 @@ vietovės) žemės reformos žemėtvarkos projektas. Asmeninio ūkio žemės skl
 
 kurie buvo nuolat naudojami iki 1993 m. gruodžio 31 d., ribos ir vieta rengiant
 
-žemės reformos žemėtvarkos projektą gali būti keičiamos toje šių nuolat naudojamų
+žemės reformos žemėtvarkos projektą gali būti keičiamos toje šių nuolat
 
-žemės sklypų užimtoje teritorijoje Vyriausybės nustatyta tvarka. Kai naudojama
+naudojamų žemės sklypų užimtoje teritorijoje Vyriausybės nustatyta tvarka. Kai
 
-asmeninio ūkio žemė yra bendruose plotuose, šie žemės sklypai projektuojami iš
+naudojama asmeninio ūkio žemė yra bendruose plotuose, šie žemės sklypai
 
-toje kadastrinėje vietovėje esančios laisvos žemės fondo, o jeigu laisvos žemės
+projektuojami iš toje kadastrinėje vietovėje esančios laisvos žemės fondo, o
 
-fondo toje kadastrinėje vietovėje nepakanka, šie sklypai projektuojami
+jeigu laisvos žemės fondo toje kadastrinėje vietovėje nepakanka, šie sklypai
 
-asmeniniam ūkiui naudojamoje teritorijoje.
+projektuojami asmeniniam ūkiui naudojamoje teritorijoje.
 
 10. Jeigu fizinis asmuo mirė, teisę gauti
 
@@ -2243,9 +2261,9 @@ tvarka
 
 įstatymų ir kitų teisės aktų reikalavimų neatitikimo nagrinėja apskričių
 
-viršininkai ir Vyriausybės įgaliota institucija. Vyriausybės įgaliota
+viršininkai ir Vyriausybės įgaliota institucija. Vyriausybės įgaliota institucija
 
-institucija nenagrinėja apskrities viršininko neapsvarstytų prašymų ir skundų.
+nenagrinėja apskrities viršininko neapsvarstytų prašymų ir skundų.
 
 3. Jeigu
 
@@ -2267,21 +2285,23 @@ atstovaujanti valstybei sudarant valstybinės žemės perleidimo, mainų, nuomos
 
 panaudos sandorius, privalo kontroliuoti, kaip vykdomos sandorių sąlygos, o
 
-nustačiusi, kad kita sandorio šalis jų nevykdo, – inicijuoti sandorio nutraukimą
+nustačiusi, kad kita sandorio šalis jų nevykdo, – inicijuoti sandorio
 
-įstatymų nustatyta tvarka arba taikyti kitus įstatymų numatytus šalių teisių ir
+nutraukimą įstatymų nustatyta tvarka arba taikyti kitus įstatymų numatytus
 
-interesų gynimo būdus. Vyriausybės įgaliotos institucijos turi teisę ginčyti
+šalių teisių ir interesų gynimo būdus. Vyriausybės įgaliotos institucijos turi
 
-sandorius dėl valstybinės žemės perleidimo, mainų, nuomos ar perdavimo
+teisę ginčyti sandorius dėl valstybinės žemės perleidimo, mainų, nuomos ar
 
-naudotis, sudarytus sprendimų, priimtų pažeidžiant įstatymų ir kitų teisės aktų
+perdavimo naudotis, sudarytus sprendimų, priimtų pažeidžiant įstatymų ir kitų
 
-reikalavimus, pagrindu, taip pat atstovauti bylose dėl valstybinės žemės
+teisės aktų reikalavimus, pagrindu, taip pat atstovauti bylose dėl valstybinės
 
-sandorių, kai šalys nevykdo sandorio sąlygų, nutraukimo, jeigu institucija,
+žemės sandorių, kai šalys nevykdo sandorio sąlygų, nutraukimo, jeigu
 
-atstovaujanti valstybei šiuose sandoriuose, nesiima veiksmų sandorį nutraukti.
+institucija, atstovaujanti valstybei šiuose sandoriuose, nesiima veiksmų
+
+sandorį nutraukti.
 
 Straipsnio
 
@@ -2413,9 +2433,9 @@ Nr. VIII-1757,
 
 00.06.27, Žin., 2000, Nr.56-1649 (00.07.12)
 
-Nr. IX-496,
+Nr. IX-496, 2001-08-03,
 
-2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
+Žin., 2001, Nr. 71-2524 (2001-08-17)
 
 Nr.
 
@@ -2437,9 +2457,7 @@ tvarka
 
 ir žemės reformos žemėtvarkos projektų rengimo metodikos nustatyta tvarka.
 
-Suderintus žemės reformos žemėtvarkos projektus tvirtina apskrities
-
-viršininkas.
+Suderintus žemės reformos žemėtvarkos projektus tvirtina apskrities viršininkas.
 
 18 straipsnis. Skundų
 
@@ -2987,13 +3005,27 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-540, 2006-03-30,
+X-540,
 
-Žin., 2006, Nr. 42-1503 (2006-04-15)
+2006-03-30, Žin., 2006, Nr. 42-1503 (2006-04-15)
 
 ŽEMĖS
 
 REFORMOS ĮSTATYMO 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+19.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-856, 2006-10-12,
+
+Žin., 2006, Nr. 116-4401 (2006-10-31)
+
+ŽEMĖS
+
+REFORMOS ĮSTATYMO 13 IR 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 ***
 
@@ -3027,7 +3059,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-05-19)
+Aušrinė Trapinskienė (2006-11-02)
 
 autrap@lrs.lt
 
