@@ -4,7 +4,7 @@ identifier: "TAR.EEC13A0B85BA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-06-01"
-last_updated: "2005-07-14"
+last_updated: "2006-11-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2005-07-14 iki 2006-10-31
+Suvestinė redakcija nuo 2006-11-01 iki 2007-03-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
 
@@ -45,7 +45,11 @@ Socialinių įmonių tikslas – įdarbinant šiame įstatyme nurodytoms tikslin
 
 1. Socialinė įmonė – tai šio įstatymo nustatyta tvarka šį statusą įgijęs Lietuvos Respublikoje įsteigtas juridinis asmuo, kuris tenkina visas šias sąlygas:
 
-1) atitinka smulkaus ir vidutinio verslo subjektams Smulkaus ir vidutinio verslo įstatyme nustatytas sąlygas;
+1) neteko galios nuo 2006-11-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-872, 2006-10-19, Žin., 2006, Nr. 116-4405 (2006-10-31), i. k. 1061010ISTA000X-872
 
 2) darbuotojai, priklausantys šio įstatymo 4 straipsnyje nurodytoms tikslinėms asmenų grupėms, sudaro ne mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, bet tikslinėms asmenų grupėms priklausančių darbuotojų skaičius yra ne mažesnis kaip keturi. Tikslinėms grupėms priklausančių darbuotojų dalis nuo vidutinio sąrašuose esančių darbuotojų skaičiaus apskaičiuojama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
 
@@ -486,4 +490,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
 
 Lietuvos Respublikos socialinių įmonių įstatymo 3, 4, 8, 10, 14, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-872, 2006-10-19, Žin., 2006, Nr. 116-4405 (2006-10-31), i. k. 1061010ISTA000X-872
+
+Lietuvos Respublikos socialinių įmonių įstatymo 3 straipsnio pakeitimo įstatymas
 
