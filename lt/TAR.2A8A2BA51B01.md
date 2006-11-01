@@ -4,7 +4,7 @@ identifier: "TAR.2A8A2BA51B01"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2003-12-17"
+last_updated: "2006-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2A8A2BA51B01"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2003-12-17 iki 2006-10-31
+Suvestinė redakcija nuo 2006-11-01 iki 2010-11-10
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1928, i. k. 1031010ISTA0IX-1539
 
@@ -39,7 +39,11 @@ Vilnius
 
 4. Pareigūnai, kurie per šio straipsnio 3 dalyje nurodytą laiką neįgijo reikiamo išsilavinimo, skiriami į pareigas, atitinkančias jų turimą išsilavinimą, o jei su tuo nesutinka, atleidžiami iš vidaus tarnybos. Ši nuostata netaikoma pareigūnams, kurie įstojo į atitinkamas mokymo įstaigas ir jose mokosi (studijuoja), tačiau dėl pateisinamų priežasčių negali iki nurodyto laiko įgyti reikiamo išsilavinimo.
 
-5. Šio straipsnio 3 ir 4 dalių reikalavimai netaikomi pareigūnams, kurie iki Statuto patvirtinimo įstatymo įsigaliojimo turi ne mažesnį kaip 10 metų tarnybos stažą.
+5. Šio straipsnio 3 ir 4 dalių reikalavimai netaikomi pareigūnams, kurie iki Statuto patvirtinimo įstatymo įsigaliojimo turi ne mažesnį kaip 10 metų vidaus tarnybos stažą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-804, 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08), i. k. 1061010ISTA000X-804
 
 6. Pareigūnų buvimo Vidaus reikalų ministerijos kadrų rezerve pagal Statuto patvirtinimo įstatymu patvirtinto Vidaus tarnybos statuto 20 straipsnį terminas pradedamas skaičiuoti nuo Statuto patvirtinimo įstatymo įsigaliojimo.
 
@@ -161,6 +165,12 @@ Iki Statuto patvirtinimo įstatymo įsigaliojimo dėl tarnybos eigos kilę ginč
 
 6) pulkininko laipsnis – vyriausiojo komisaro laipsniu.
 
+5. Atleistų iš tarnybos vidaus reikalų sistemoje iki Statuto patvirtinimo įstatymo įsigaliojimo pareigūnų atleidimo iš tarnybos vidaus reikalų sistemoje metu turėti vidaus tarnybos arba pareiginiai laipsniai yra atsargos laipsniai. Grąžinant šiuos pareigūnus į vidaus tarnybą, jų turimi atsargos laipsniai prilyginami ir pervardijami pagal šio straipsnio 1-4 dalių nuostatas.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-804, 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08), i. k. 1061010ISTA000X-804
+
 6 straipsnis. Pasiūlymas Vyriausybei
 
 Vyriausybė per 3 mėnesius nuo Statuto patvirtinimo įstatymo įsigaliojimo priima visus Statuto patvirtinimo įstatymui įgyvendinti būtinus teisės aktus.
@@ -182,4 +192,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1859, 2003-11-27, Žin., 2003, Nr. 117-5322 (2003-12-17), i. k. 1031010ISTA0IX-1859
 
 Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo 2 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-804, 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08), i. k. 1061010ISTA000X-804
+
+Lietuvos Respublikos vidaus tarnybos statuto ir Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo pakeitimo ir papildymo įstatymas
 
