@@ -4,7 +4,7 @@ identifier: "TAR.7DE5B8AD5D5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-22"
-last_updated: "2002-04-01"
+last_updated: "2006-11-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7DE5B8AD5D5B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos augalų veislių apsaugos įstatymas
+
+Suvestinė redakcija nuo 2006-11-04 iki 2010-10-01
+
+Įstatymas paskelbtas: Žin. 2001, Nr. 104-3701, i. k. 1011010ISTA00IX-618
 
 LIETUVOS RESPUBLIKOS
 
@@ -36,43 +40,61 @@ BENDROSIOS NUOSTATOS
 
 2. Įstatymas taikomas žemės ūkio ministro patvirtinto augalų genčių ir rūšių sąrašo veislėms.
 
+3. Šiuo Įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas Įstatymo priede.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
+
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
-1. Augalinė medžiaga - augalai arba jų dalys.
+1. Augalų medžiaga – augalai arba jų dalys.
 
-2. Augalo gentis – taksonominė grupė, apimanti artimas, bendrą protėvį turinčias augalų rūšis.
+2. Augalų gentis – sistematikos vienetą sudaranti organizmų grupė, apimanti artimas, bendrą protėvį turinčias augalų rūšis.
 
-3. Augalo rūšis – sisteminį vienetą sudaranti giminingų organizmų grupė, gyvojoje gamtoje užimanti tam tikrą nuolatinę bei palyginti pastovią vietą ir atliekanti savo funkcijas visuotinėje biologinėje medžiagų apykaitoje tik tai grupei specifiniu būdu.
+3. Augalų rūšis – sistematikos vienetą sudaranti giminiškų organizmų grupė, gyvojoje gamtoje užimanti palyginti pastovią vietą ir atliekanti savo funkcijas visuotinėje biologinėje medžiagų apykaitoje tik tai grupei savitu būdu.
 
-4. Augalo veislė (toliau – veislė) – augalų grupė, priklausanti pačiam žemiausiam žinomam botaniniam taksonui, kuri, nepaisant to, ar ji visiškai atitinka veislės apsaugos sąlygas, turi šiam genotipui ar genotipų kombinacijai būdingas savybes, išsiskiria iš bet kurios kitos šių augalų grupės bent vienu būdingu požymiu ir dėl gebėjimo nekintamai daugintis išlaikant visus tos veislės augalams būdingus požymius laikoma atskiru vienetu.
+4. Augalų veislė (toliau – veislė) – augalų grupė, priklausanti pačiam žemiausiam žinomam augalų taksonui, kuri, nepaisant to, ar atitinka sąlygas, kad veislei būtų suteikta teisinė apsauga:
 
-5. Augalų genčių ir rūšių sąrašas – žemės ūkio ministro tvirtinamas augalų genčių ir rūšių, kurių veislėms taikomas šis Įstatymas, sąrašas.
+1) turi tam genotipui ar genotipų kombinacijai būdingas savybes;
 
-6. Botaninis taksonas – bet kuri taksonominė augalų grupė (klasė, eilė, šeima, gentis, rūšis, porūšis, varietetas, forma).
+2) išsiskiria iš kurios kitos augalų grupės bent vienu būdingu požymiu;
 
-7. Dauginamoji medžiaga - augalai arba jų dalys, naudojami atkurti ir dauginti tos pačios veislės augalus.
+3) laikoma atskiru vienetu dėl gebėjimo dauginantis išlaikyti visus tos veislės augalams būdingus požymius nepakitusius.
+
+5. Augalų genčių ir rūšių sąrašas – žemės ūkio ministro tvirtinamas augalų genčių ir rūšių, kurių veislėms šiuo Įstatymu suteikiama teisinė apsauga, sąrašas.
+
+6. Augalų taksonas – bet kuri taksonominė augalų grupė (klasė, eilė, šeima, gentis, rūšis, porūšis, varietetas, forma).
+
+7. Dauginamoji medžiaga – sėkla, visas augalas ar vegetatyvinė augalo dalis (skiepūgliai, poskiepiai, ūgliai, šakniastiebių dalys, stiebagumbiai ir kt.), skirti tam tikros veislės augalams dauginti.
 
 8. Genotipas – organizmo paveldimumo veiksnių visuma.
 
-9. Licencinė sutartis – selekcininko raštiškas susitarimas su fiziniu ar juridiniu asmeniu, suteikiantis šiam asmeniui teisę nurodytoje teritorijoje sutartomis sąlygomis dauginti bei platinti veislės, kuriai taikoma teisinė apsauga, dauginamąją medžiagą.
+9. Licencinė sutartis – raštiškas selekcininko susitarimas su fiziniais ar juridiniais asmenimis ar Lietuvos Respublikoje įsteigtais Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsteigtų įmonių filialais, kuriuo šiems asmenims suteikiama teisė nurodytoje teritorijoje sutartomis sąlygomis dauginti ir tiekti rinkai veislės, kuriai suteikta teisinė apsauga, dauginamąją medžiagą.
 
 10. Licencinis užmokestis – pagal licencinę sutartį mokamas užmokestis.
 
-11. Paraiška – Lietuvos Respublikoje saugomų augalų veislių sąrašo tvarkytojui pateikiamų dokumentų, reikalingų suteikti veislei teisinę apsaugą, visuma.
-
-12. Selekcininkas:
+11. Selekcininkas:
 
 1) vienas ar keli fiziniai asmenys, sukūrę ar atradę ir išskyrę naują augalo veislę;
 
 2) juridinis asmuo, kurio vienas ar keli darbuotojai pagal darbo sutartį arba atlikdami tarnybinę užduotį sukūrė ar atrado ir išskyrė naują augalo veislę;
 
-3) teisių perėmėjas, įgijęs turtines teises į veislę iš šios dalies 1 arba 2 punktuose nurodytų asmenų.
+3) Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsteigtų įmonių filialai, sukūrę ar atradę ir išskyrę naują augalo veislę;
 
-13. Selekcinis užmokestis – ūkininko ar kito žemės naudotojo selekcininkui mokamas užmokestis už savo ūkyje užaugintą ir toliau sėjai savo ūkyje naudojamą saugomos veislės dauginamąją medžiagą.
+4) teisių perėmėjas, įgijęs turtines teises į veislę iš šios dalies 1-3 punktuose nurodytų asmenų.
 
-14. Valstybės ūkiui svarbi saugoma veislė – veislė, reikalinga užtikrinti tam tikrų savybių turinčios dauginamosios medžiagos tiekimą į rinką.
+12. Selekcinis užmokestis – ūkininko ar kito žemės naudotojo selekcininkui mokamas užmokestis už savo ūkyje užaugintą ir toliau sėjai savo ūkyje naudojamą saugomos veislės dauginamąją medžiagą.
 
-15. Visuotinai žinoma veislė – veislė, kuri tampa visuotinai žinoma nuo paraiškos padavimo veislės teisinei apsaugai suteikti arba veislę įrašyti į oficialų veislių sąrašą bet kurioje valstybėje dienos, jeigu ši paraiška sudarė galimybes minėtai veislei suteikti teisinę apsaugą arba ją įrašyti į oficialų veislių sąrašą.
+13. Valstybės ūkiui svarbi saugoma veislė – veislė, reikalinga tam tikrų savybių turinčios dauginamosios medžiagos tiekimui rinkai užtikrinti.
+
+14. Veislės teisinės apsaugos paraiška – Lietuvos Respublikoje saugomų augalų veislių sąrašo tvarkytojui pateikiamas raštiškas prašymas suteikti veislei teisinę apsaugą.
+
+15. Visuotinai žinoma veislė – veislė, kuri tampa visuotinai žinoma nuo paraiškos pateikimo bet kurioje valstybėje dienos, sudarius galimybę suteikti veislei teisinę apsaugą arba įrašyti ją į oficialų veislių sąrašą.
+
+Straipsnio pakeitimai:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
 
 3 straipsnis. Veislės teisinės apsaugos sąlygos
 
@@ -80,31 +102,39 @@ Selekcininkui veislės teisinė apsauga suteikiama nustačius, kad veislė atiti
 
 4 straipsnis. Naujumas
 
-1. Veislė laikoma nauja, jeigu iki paraiškos pateikimo datos jos dauginamoji ar augalinė medžiaga nebuvo parduota ar kitaip perleista naudoti kitiems asmenims paties selekcininko iniciatyva arba sutikimu:
+1. Veislė laikoma nauja, jeigu iki veislės teisinės apsaugos paraiškos (toliau – paraiška) pateikimo datos jos dauginamoji ar augalų medžiaga nebuvo parduota ar kitaip perleista naudoti kitiems asmenims paties selekcininko iniciatyva arba sutikimu:
 
-1) Lietuvos Respublikoje - anksčiau kaip prieš vienerius metus;
+1) Lietuvos Respublikoje – anksčiau kaip prieš vienerius metus;
 
-2) kitos valstybės teritorijoje - anksčiau kaip prieš ketverius metus, o medžių, vynmedžių ir uogakrūmių veislių – anksčiau kaip prieš šešerius metus.
+2) kitos valstybės teritorijoje – anksčiau kaip prieš ketverius metus, o medžių, vynmedžių ir uogakrūmių veislių – anksčiau kaip prieš šešerius metus.
 
-2. Parduodant ar kitaip perleidžiant veislės dauginamosios ar augalinės medžiagos valdymo teisę kitiems asmenims, veislės naujumas neprarandamas, jeigu:
+2. Parduodant ar kitaip perleidžiant veislės dauginamosios ar augalų medžiagos valdymo teisę kitiems asmenims, veislės naujumas neprarandamas, jeigu:
 
 1) padaryta žala selekcininkui arba jo teisių perėmėjui;
 
 2) pagal sutartį buvo perleistos selekcininko teisės;
 
-3) tai numatyta sutartyje, pagal kurią fizinis ar juridinis asmuo daugina atitinkamos veislės dauginamąją medžiagą selekcininko vardu, su sąlyga, kad selekcininkas nepraranda nuosavybės teisės į dauginamąją medžiagą ir kad dauginamoji medžiaga nenaudojama kitos veislės dauginamajai medžiagai gaminti;
+3) tai numatyta sutartyje, pagal kurią fiziniai ar juridiniai asmenys ar Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsteigtų įmonių filialai daugina atitinkamos veislės dauginamąją medžiagą selekcininko vardu, su sąlyga, kad selekcininkas nepraranda nuosavybės teisės į dauginamąją medžiagą ir kad dauginamoji medžiaga nenaudojama kitos veislės dauginamajai medžiagai gaminti;
 
-4) tai numatyta sutartyje, pagal kurią fizinis ar juridinis asmuo atlieka lauko bandymus ar laboratorinius tyrimus veislei įvertinti;
+4) tai numatyta sutartyje, pagal kurią fiziniai ar juridiniai asmenys ar Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsteigtų įmonių filialai atlieka lauko bandymus ar laboratorinius tyrimus veislei įvertinti;
 
-5) tai padaryta vykdant įstatymus ar administracinius įpareigojimus, ypač kai tai susiję su biologiniu saugumu ar veislės įrašymu į Lietuvos Respublikoje saugomų augalų veislių sąrašą;
+5) tai padaryta vykdant įstatymus ar administracinius įpareigojimus, ypač kai tai susiję su biologiniu saugumu ar veislės įrašymu į Nacionalinį augalų veislių sąrašą;
 
-6) kuriant veislę ar atliekant šios dalies 3–5 punktuose numatytus veiksmus, veislės augalinė medžiaga, kaip šalutinis ar perteklinis produktas, parduodama ar perduodama vartoti nenurodant veislės.
+6) kuriant veislę ar atliekant šios dalies 3-5 punktuose numatytus veiksmus, veislės augalų medžiaga, kaip šalutinis ar perteklinis produktas, parduodama ar perduodama vartoti nenurodant veislės.
+
+Straipsnio pakeitimai:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
 
 5 straipsnis. Išskirtinumas
 
 1. Veislė laikoma išskirtine, jeigu ji bent vienu požymiu aiškiai skiriasi nuo bet kurios kitos iki paraiškos pateikimo datos visuotinai žinomos veislės.
 
-2. Bet kuri kita veislė laikoma visuotinai žinoma nuo paraiškos padavimo veislės teisinei apsaugai suteikti arba veislę įrašyti į oficialų veislių sąrašą bet kurioje valstybėje dienos, jeigu ši paraiška, atsižvelgiant į konkretų atvejį, sudarė galimybes minėtai veislei suteikti teisinę apsaugą arba ją įrašyti į atitinkamos valstybės oficialų veislių sąrašą.
+2. Bet kuri kita veislė laikoma visuotinai žinoma nuo paraiškos pateikimo bet kurioje valstybėje dienos, sudarius galimybę suteikti veislei teisinę apsaugą arba įrašyti ją į oficialų veislių sąrašą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
 
 6 straipsnis. Vienodumas
 
@@ -224,7 +254,11 @@ VEISLĖS PAVADINIMO SUTEIKIMAS IR NAUDOJIMAS
 
 18 straipsnis. Veislės pavadinimo reikalavimai
 
-1. Veislės pavadinimas turi padėti tą veislę identifikuoti. Veislės pavadinimas negali būti sudarytas vien tiktai iš skaitmenų, išskyrus atvejus, kai jau yra nusistovėjusi tokia veislių žymėjimo tvarka. Pavadinimas neturi klaidinti arba sukelti painiavos dėl veislės požymių, jos vertės ar identiškumo, selekcininkų tapatybės. Jis turi skirtis nuo kiekvieno kito pavadinimo, kuriuo Lietuvoje ar Tarptautinės naujų augalų veislių apsaugos sąjungos šalyje narėje pavadintos tos pačios ar artimai susijusios augalo rūšies veislės.
+1. Veislės pavadinimas turi padėti tą veislę identifikuoti. Veislės pavadinimas negali būti sudarytas vien tiktai iš skaitmenų, išskyrus atvejus, kai jau yra nusistovėjusi tokia veislių žymėjimo tvarka. Pavadinimas neturi klaidinti arba sukelti painiavos dėl veislės požymių, jos vertės ar identiškumo, selekcininkų tapatybės. Jis turi skirtis nuo kiekvieno kito pavadinimo, kuriuo Lietuvoje ar bet kurioje kitoje valstybėje pavadintos tos pačios ar artimai susijusios augalų rūšies veislės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
 
 2. Anksčiau įgytos trečiųjų asmenų teisės neturi būti pažeidžiamos. Naujai veislei negali būti suteikiamas pavadinimas veislės, kurios teisinės apsaugos galiojimas yra pasibaigęs.
 
@@ -232,7 +266,11 @@ VEISLĖS PAVADINIMO SUTEIKIMAS IR NAUDOJIMAS
 
 19 straipsnis. Veislės pavadinimo pakeitimas
 
-Veislės pavadinimas gali būti pakeistas selekcininko prašymu arba teismo sprendimu.
+Veislės pavadinimas gali būti pakeistas Saugomų veislių sąrašo tvarkytojo arba teismo sprendimu.
+
+Straipsnio pakeitimai:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
 
 PENKTASIS SKIRSNIS
 
@@ -274,13 +312,35 @@ Jeigu veislė neatitinka šio Įstatymo reikalavimų, Saugomų veislių sąrašo
 
 1. Veislės teisinė apsauga panaikinama, jeigu:
 
-1) Saugomų veislių sąrašo tvarkytojas nustato, kad veislė neatitinka vienodumo ir stabilumo reikalavimų pagal šio Įstatymo 6 ir 7 straipsnių nuostatas;
+1) selekcininkas arba jo įgaliotas atstovas pateikia raštišką prašymą Saugomų veislių sąrašo tvarkytojui išbraukti veislę iš Saugomų veislių sąrašo;
 
-2) selekcininkas Saugomų veislių sąrašo tvarkytojo prašymu nepateikė informacijos, dokumentų ar kitos medžiagos, patvirtinančios, kad veislė palaikoma išsaugant visas jai būdingas savybes;
+Papildyta straipsnio punktu:
 
-3) Saugomų veislių sąrašo tvarkytojas nustato, kad veislės pavadinimas neatitinka šio Įstatymo reikalavimų, o selekcininkas nepasiūlė kito tinkamo pavadinimo;
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
 
-4) selekcininkas nesumokėjo valstybės nustatytos rinkliavos už veislės teisinę apsaugą.
+2) Saugomų veislių sąrašo tvarkytojas nustato, kad veislė neatitinka vienodumo ir stabilumo reikalavimų pagal šio Įstatymo 6 ir 7 straipsnių nuostatas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
+
+3) selekcininkas Saugomų veislių sąrašo tvarkytojo prašymu nepateikė informacijos, dokumentų ar kitos medžiagos, patvirtinančios, kad veislė palaikoma išsaugant visas jai būdingas savybes;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
+
+4) Saugomų veislių sąrašo tvarkytojas nustato, kad veislės pavadinimas neatitinka šio Įstatymo reikalavimų, o selekcininkas nepasiūlė kito tinkamo pavadinimo;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
+
+5) selekcininkas nesumokėjo valstybės nustatytos rinkliavos už veislės teisinę apsaugą.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
 
 2. Saugomų veislių sąrašo tvarkytojas privalo raštu pranešti selekcininkui, kad veislės apsauga gali būti panaikinta dėl šio straipsnio 1 dalyje nurodytų priežasčių, ir nustatyti laikotarpį, per kurį jos būtų pašalintos.
 
@@ -314,9 +374,23 @@ SELEKCININKO TEISĖS IR PAREIGOS
 
 7) sandėliuoti ją šios dalies 1–6 punktuose nurodytais tikslais.
 
-2. Asmenys, naudojantys veislę pagal licencinę sutartį, privalo pranešti selekcininkui apie padaugintą, parduotą bei kitaip realizuotą dauginamąją medžiagą, jeigu kitaip nenumatyta licencinėje sutartyje.
+2. Asmeniui, nesudariusiam licencinės sutarties arba negavusiam selekcininko raštiško sutikimo dėl veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos panaudojimo, draudžiama atlikti bet kokius šio straipsnio 1 dalyje nurodytus veiksmus, susijusius su saugomos veislės dauginamąja medžiaga.
 
-3. Naudojant augalinę medžiagą, gautą saugomos veislės dauginamąją medžiagą panaudojus be licencinės sutarties, būtina gauti selekcininko sutikimą, išskyrus atvejį, kai selekcininkas turėjo protingą galimybę įgyvendinti savo teises, susijusias su šia dauginamąja medžiaga.
+Papildyta straipsnio dalimi:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
+
+3. Asmenys, naudojantys veislę pagal licencinę sutartį, privalo pranešti selekcininkui apie padaugintą, parduotą bei kitaip realizuotą dauginamąją medžiagą, jeigu kitaip nenumatyta licencinėje sutartyje
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
+
+4. Naudojant augalų medžiagą, gautą saugomos veislės dauginamąją medžiagą panaudojus be licencinės sutarties, būtina gauti selekcininko sutikimą, išskyrus atvejį, kai selekcininkas turėjo protingą galimybę įgyvendinti savo teises, susijusias su šia dauginamąja medžiaga.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
 
 27 straipsnis. Selekcininko teisių taikymas iš esmės išskirtoms ir kai kurioms kitoms veislėms
 
@@ -364,11 +438,15 @@ SELEKCININKO TEISĖS IR PAREIGOS
 
 29 straipsnis. Veiksmai, kai netaikoma veislės apsauga
 
-Veislės apsauga netaikoma, jei atliekami veiksmai yra susiję su bet kuria saugomos veislės dauginamąja ar augaline medžiaga arba 27 straipsnyje nurodyta veisle, kuri buvo parduota ar kitokiu būdu realizuota valstybėje, priklausančioje Tarptautinei naujų augalų veislių apsaugos sąjungai, paties selekcininko arba jo sutikimu, ar su bet kokia augaline medžiaga, gauta iš minėtos dauginamosios medžiagos, jeigu šie veiksmai:
+Veislės apsauga netaikoma, jei atliekami veiksmai yra susiję su bet kuria saugomos veislės dauginamąja ar augalų medžiaga arba 27 straipsnyje nurodyta veisle, kuri buvo parduota ar kitokiu būdu realizuota valstybėje, priklausančioje Tarptautinei naujų augalų veislių apsaugos sąjungai, paties selekcininko arba jo sutikimu, ar su bet kokia augalų medžiaga, gauta iš minėtos dauginamosios medžiagos, jeigu šie veiksmai:
 
 1) nesusiję su tolesniu tos veislės dauginamosios medžiagos dauginimu;
 
-2) nesusiję su dauginamosios ar augalinės medžiagos išvežimu į valstybes, kuriose teisiškai nesaugomos šių augalų genčių ar rūšių veislės, išskyrus augalinės medžiagos išvežimą galutinai suvartoti.
+2) nesusiję su dauginamosios ar augalų medžiagos išvežimu į valstybes, kuriose teisiškai nesaugomos šių augalų genčių ar rūšių veislės, išskyrus augalų medžiagos išvežimą galutinai suvartoti.
+
+Straipsnio pakeitimai:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
 
 30 straipsnis. Selekcininko teisių perėjimas
 
@@ -456,7 +534,11 @@ SPRENDIMŲ PRIĖMIMAS, APSKUNDIMAS BEI SKUNDŲ NAGRINĖJIMAS
 
 37 straipsnis. Apeliacinė taryba
 
-1. Pareiškėjų skundams dėl Saugomų veislių sąrašo tvarkytojo sprendimų, taip pat skundams dėl nepatenkinamo paraiškų ekspertizių ir veislių techninio patikrinimo atlikimo bei kitiems su veislių teisine apsauga susijusiems klausimams nagrinėti ir spręsti žemės ūkio ministras sudaro penkių narių Apeliacinę tarybą ir paskiria jos pirmininką. Apeliacinė taryba sudaroma 3 metams iš Žemės ūkio ministerijos, žemdirbių ne pelno organizacijų ir mokslo įstaigų atstovų.
+1. Pareiškėjų skundams dėl Saugomų veislių sąrašo tvarkytojo sprendimų, taip pat skundams dėl nepatenkinamo paraiškų ekspertizių ir veislių techninio patikrinimo atlikimo bei kitiems su veislių teisine apsauga susijusiems klausimams nagrinėti ir spręsti žemės ūkio ministras sudaro penkių narių Apeliacinę tarybą ir paskiria jos pirmininką. Apeliacinė taryba sudaroma 3 metams iš Žemės ūkio ministerijos, ūkininkų, žemdirbių ne pelno organizacijų ir mokslo įstaigų atstovų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
 
 2. Apeliacinė taryba veikia pagal žemės ūkio ministro patvirtintus nuostatus.
 
@@ -482,15 +564,25 @@ Saugomų veislių sąrašo tvarkytojas bendradarbiauja su kitų valstybių insti
 
 DEŠIMTASIS SKIRSNIS
 
-ATSAKOMYBĖ UŽ AUGALŲ VEISLIŲ APSAUGOS PAŽEIDIMUS
+SELEKCININKO TEISIŲ GYNIMO BUDAI IR ATSAKOMYBĖ UŽ AUGALŲ VEISLIŲ APSAUGOS ĮSTATYMO PAŽEIDIMUS
 
-41 straipsnis. Atsakomybė už Įstatymo pažeidimus
+41 straipsnis. Teisių gynimo būdai
 
-Fiziniai ir juridiniai asmenys, pažeidę šio Įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+1. Selekcininkai ar jų įgalioti atstovai, gindami savo teises, taip pat licenciatai, gindami jiems suteiktas teises, įstatymų nustatyta tvarka turi teisę kreiptis į teismą ir reikalauti:
 
-VIENUOLIKTASIS SKIRSNIS
+1) pripažinti teises;
 
-BAIGIAMOSIOS NUOSTATOS
+2) įpareigoti nutraukti neteisėtus veiksmus;
+
+3) uždrausti atlikti veiksmus, dėl kurių gali būti realiai pažeistos teisės arba atsirasti žala;
+
+4) atlyginti turtinę žalą, įskaitant negautas pajamas ir kitas turėtas išlaidas;
+
+5) taikyti kitus šio Įstatymo ir kitų įstatymų nustatytus teisių gynimo būdus.
+
+2. Siekdamas užtikrinti įpareigojimo nutraukti neteisėtus veiksmus, taip pat draudimo atlikti veiksmus, dėl kurių gali būti realiai pažeistos teisės arba atsirasti žala, vykdymą, teismas šio straipsnio 1 dalyje nurodytų asmenų prašymu gali taikyti laikinąsias apsaugos priemones.
+
+3. Kai asmens, kuriam priimamas įpareigojimas nutraukti neteisėtus veiksmus ar taikomos 414 straipsnyje nurodytos atkuriamosios priemonės, veiksmuose dėl šio Įstatymo nustatytų teisių pažeidimo nėra kaltės, teismas šio asmens prašymu gali įpareigoti jį sumokėti nukentėjusiai šaliai piniginę kompensaciją, jeigu taikant šioje straipsnio dalyje nurodytus teisių gynimo būdus atsirastų neproporcingai didelė žala tam asmeniui ir jeigu piniginė kompensacija nukentėjusiai šaliai yra priimtina ir pakankama.
 
 42 straipsnis. Įstatymo įsigaliojimas
 
@@ -509,6 +601,28 @@ Nuo 2002 m. balandžio 1 d. pripažįstami netekusiais galios:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+
+Lietuvos Respublikos augalų veislių
+
+apsaugos įstatymo priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32).
+
+Papildyta priedu:
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
+
+Lietuvos Respublikos augalų veislių apsaugos įstatymo 1, 2, 4, 5, 18, 19, 24, 26, 29, 37 straipsnių, dešimtojo skirsnio pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas
 
 411 straipsnis. Teisė gauti informaciją
 
