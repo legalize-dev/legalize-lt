@@ -4,7 +4,7 @@ identifier: "TAR.502CB1B9F3DB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-02"
-last_updated: "2002-06-11"
+last_updated: "2006-11-09"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.502CB1B9F3DB"
 department: "Lietuvos Respublikos Seimas"
@@ -85,18 +85,6 @@ valstybės valdžios institucijos paskirti ar konkurso tvarka parinkti asmenys a
 
 jų grupė, taip pat asmuo arba asmenų iniciatyvinė grupė.
 
-3 dalies
-
-redakcija iki 2002 m. liepos 1 d.:
-
-3. Teisės aktas yra parengtas, jei jis
-
-atitinka šio įstatymo 5 - 12 straipsniuose nustatytus reikalavimus.
-
-3 dalies
-
-redakcija nuo 2002 m. liepos 1 d.:
-
 3. Teisės aktas yra parengtas, jei jis
 
 atitinka šio įstatymo 5–12(1) straipsniuose nustatytus
@@ -121,11 +109,13 @@ teisės aktas gali daryti įtaką kriminogeninei situacijai, jį priimti įgalio
 
 institucija skiria kriminologinę ekspertizę.
 
-7. Komisijų ir darbo grupių, kurias
+7. Atlyginimo už teisės aktų rengimą ir
 
-sudaro Seimas, Respublikos Prezidentas ar Vyriausybė, darbo apmokėjimo už
+ekspertizę komisijų ir darbo grupių, kurias sudaro Seimas, Seimo valdyba, Respublikos
 
-teisės aktų rengimą ir ekspertizę tvarką tvirtina Vyriausybė.
+Prezidentas, Vyriausybė ar Ministras Pirmininkas, nariams tvarką tvirtina
+
+Vyriausybė.
 
 Straipsnio
 
@@ -143,6 +133,10 @@ Nr. IX-946,
 
 2002-06-11, Žin., 2002, Nr. 66-2705 (2002-06-29)
 
+Nr. X-890, 2006-11-09,
+
+Žin., 2006, Nr. 127-4823 (2006-11-25)
+
 5 straipsnis. Teisės akto reikalavimai
 
 1. Teisės aktas turi atitikti Lietuvos
@@ -154,10 +148,6 @@ akte nėra normų, keičiančių galiojančius teisės aktus.
 2. Teisės aktas privalo atitikti šiame
 
 įstatyme nustatytus formos, struktūros, turinio ir kalbos reikalavimus.
-
-5
-
-straipsnis papildomas 3 dalimi nuo 2002 m. liepos 1 d.:
 
 3. Teisės akte, kuriuo derinamos ir
 
@@ -351,15 +341,15 @@ pavadinimų, žymimi arabiškais skaitmenimis ir numeruojami iš eilės. Po
 
 skaitmens rašomas žodis "straipsnis" ir dedamas taškas, straipsnio
 
-tekstas rašomas iš naujos eilutės. Straipsnių dalys žymimos arabiškais skaitmenimis
+tekstas rašomas iš naujos eilutės. Straipsnių dalys žymimos arabiškais
 
-iš eilės. Straipsnio dalių punktai žymimi arabiškais skaitmenimis su
+skaitmenimis iš eilės. Straipsnio dalių punktai žymimi arabiškais skaitmenimis
 
-skliausteliu. Seimo nutarimais ir Prezidento dekretais tvirtinami teisės aktai
+su skliausteliu. Seimo nutarimais ir Prezidento dekretais tvirtinami teisės
 
-turi punktus ir papunkčius. Jų punktai žymimi arabiškais skaitmenimis su tašku,
+aktai turi punktus ir papunkčius. Jų punktai žymimi arabiškais skaitmenimis su
 
-o papunkčiai žymimi arabišku skaitmeniu su skliausteliu.
+tašku, o papunkčiai žymimi arabišku skaitmeniu su skliausteliu.
 
 3. Vyriausybės ir kitų institucijų teisės
 
@@ -507,10 +497,6 @@ lietuvių kalbos normų ir teisinės terminijos. Tarptautiniai žodžiai vartoja
 
 tik tada, kai lietuvių kalboje nėra šių žodžių atitikmenų.
 
-Įstatymas
-
-papildomas 12(1) straipsniu nuo 2002 m. liepos 1 d.:
-
 12(1) straipsnis. Nuorodos
 
 į Europos Sąjungos teisės aktus
@@ -539,13 +525,13 @@ straipsnio įsigaliojimo priimtas teisės aktas, kuriuo buvo derinami ir įgyven
 
 Europos Sąjungos teisės aktai ir kuriame nėra nuorodų į Europos Sąjungos teisės
 
-aktus arba jos pateiktos ne pagal šio straipsnio reikalavimus,
+aktus arba jos pateiktos ne pagal šio straipsnio reikalavimus, kartu
 
-kartu parengiamas ir teikiamas įstatymo papildymo reikiamu priedu įstatymo
+parengiamas ir teikiamas įstatymo papildymo reikiamu priedu įstatymo projektas
 
-projektas ar kito teisės akto papildymo preambule arba jos pakeitimo projektas,
+ar kito teisės akto papildymo preambule arba jos pakeitimo projektas, kuriame
 
-kuriame pateikiami nenurodyti Europos Sąjungos teisės aktai.
+pateikiami nenurodyti Europos Sąjungos teisės aktai.
 
 5. Nurodant Europos Sąjungos teisės
 
@@ -681,11 +667,31 @@ AKTŲ RENGIMO TVARKOS ĮSTATYMO 4, 5 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI
 
 straipsniai įsigalioja nuo 2002 m. liepos 1 d.
 
-*** Pabaiga ***
+6.
 
-Redagavo: Aušrinė Trapinskienė
+Lietuvos
 
-(2002-07-01)
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-890,
+
+2006-11-09, Žin., 2006, Nr. 127-4823 (2006-11-25)
+
+ĮSTATYMŲ
+
+IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2006-11-28)
 
 autrap@lrs.lt
 
