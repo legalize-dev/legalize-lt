@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "2005-03-24"
+last_updated: "2006-11-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -23,6 +23,8 @@ Nr. 51-951
 
 Neoficialus įstatymo tekstas
 
+LIETUVOS RESPUBLIKOS
+
 KONSULINIO MOKESČIO
 
 ĮSTATYMAS
@@ -31,9 +33,7 @@ KONSULINIO MOKESČIO
 
 Vilnius
 
-1
-
-straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 
 Šis
 
@@ -63,47 +63,9 @@ Nr. X-146, 2005-03-24,
 
 Žin., 2005, Nr. 47-1557 (2005-04-12)
 
-1 straipsnis.
+2 straipsnis. Mokesčio
 
-Įstatymo  paskirtis
-
-Šis įstatymas
-
-reglamentuoja konsulinio  mokesčio  ėmimą  už
-
-Lietuvos
-
-Respublikos  užsienio  reikalų  ministerijos  Konsulinio
-
-departamento,
-
-Lietuvos  Respublikos  diplomatinių  atstovybių  ir
-
-konsulinių  įstaigų
-
-užsienyje  teikiamas  konsulines  paslaugas,
-
-atliekamus
-
-notarinius  veiksmus ar  išduodamus  juridinę    galią
-
-turinčius
-
-dokumentus.
-
-Konsulinis
-
-mokestis  imamas remiantis  Lietuvos  Respublikos
-
-sutartimis  su
-
-kitomis  valstybėmis,  šiuo  įstatymu,  Lietuvos
-
-Respublikos
-
-notariato įstatymu.
-
-2 straipsnis. Mokesčio mokėtojai
+mokėtojai
 
 Konsulinį mokestį moka užsienio ir Lietuvos
 
@@ -125,9 +87,7 @@ Nr. IX-2139,
 
 2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
 
-3
-
-straipsnis. Mokesčio objektas
+3 straipsnis. Mokesčio objektas
 
 Konsulinis
 
@@ -159,11 +119,15 @@ atliekamus notarinius veiksmus ir konsulines paslaugas globos, rūpybos, teisės
 
 į palikimą bei kitais turtiniais klausimais;
 
-7) asmens be pilietybės kelionės dokumento galiojimo
+7) dokumentų išduoti
+
+leidimą gyventi Lietuvos Respublikoje tvarkymą;
+
+8) asmens be pilietybės kelionės dokumento galiojimo
 
 laiko pratęsimą;
 
-8) kitas konsulines paslaugas, nustatytas
+9) kitas konsulines paslaugas, nustatytas
 
 tarptautinėse sutartyse, Lietuvos Respublikos įstatymuose ir Lietuvos
 
@@ -175,9 +139,11 @@ Nr. X-146, 2005-03-24,
 
 Žin., 2005, Nr. 47-1557 (2005-04-12)
 
-4
+Nr. X-926, 2006-11-28,
 
-straipsnis. Mokesčio tarifai
+Žin., 2006, Nr. 137-5201 (2006-12-16)
+
+4 straipsnis. Mokesčio tarifai
 
 Konsulinio
 
@@ -185,13 +151,13 @@ mokesčio tarifus nustato Lietuvos Respublikos Vyriausybė.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-601,
+Nr. VIII-601, 98.01.08,
 
-98.01.08, Žin., 1998, Nr.6-115 (98.01.16)
+Žin., 1998, Nr.6-115 (98.01.16)
 
-5
+5 straipsnis. Mokesčio tikslinimas
 
-straipsnis. Mokesčio tikslinimas pariteto pagrindais
+pariteto pagrindais
 
 Lietuvos
 
@@ -205,131 +171,31 @@ atsižvelgdama į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos
 
 Respublikos juridinių ir fizinių asmenų.
 
-3 straipsnis.
+6 straipsnis. Mokesčio
 
-Mokesčio objektas
-
-Konsulinis
-
-mokestis imamas už:
-
-1) pasų
-
-išdavimą;
-
-2) civilinės
-
-būklės aktų įforminimą ir dokumentų išdavimą;
-
-3) vizų
-
-išdavimą, pratęsimą  ir emigracijos bei imigracijos
-
-dokumentų
-
-įforminimą;
-
-4) pilietybės
-
-dokumentų įforminimą ir išdavimą;
-
-5) dokumentų
-
-pareikalavimą iš Lietuvos Respublikos įstaigų,
-
-dokumentų
-
-legalizavimą;
-
-6) atliekamus
-
-notarinius veiksmus  ir konsulines  paslaugas
-
-globos,  rūpybos,
-
-teisės  į   palikimą  bei  kitais  turtiniais
-
-klausimais;
-
-7) kitas
-
-konsulines  paslaugas,  nustatytas  valstybiniuose
-
-susitarimuose,
-
-Lietuvos   Respublikos  įstatymuose  ir  Lietuvos
-
-Respublikos
-
-Vyriausybės nutarimuose.
-
-4 straipsnis.
-
-Mokesčio tarifai
-
-Konsulinio
-
-mokesčio  tarifus iki 1998 m. sausio 1 d. nustato
-
-Lietuvos
-
-Respublikos   Vyriausybė.  Nuo   1998  metų  konsulinio
-
-mokesčio tarifus
-
-tvirtina Lietuvos Respublikos Seimas.
-
-5 straipsnis.
-
-Mokesčio tikslinimas pariteto pagrindais
-
-Lietuvos
-
-Respublikos   Vyriausybė   turi   teisę   pariteto
-
-pagrindais
-
-padidinti, sumažinti arba panaikinti konsulinį mokestį
-
-už vizas,  dokumentų
-
-pareikalavimą  ir jų  legalizavimą  užsienio
-
-valstybių
-
-juridiniams ir fiziniams asmenims, atsižvelgdama į tai,
-
-kokio dydžio
-
-mokestį šios  valstybės ima iš Lietuvos Respublikos
-
-juridinių ir fizinių
-
-asmenų.
-
-6 straipsnis. Mokesčio lengvatos
+lengvatos
 
 Konsulinis mokestis neimamas už:
 
-1) Lietuvos Respublikos diplomatinių pasų išdavimą ir
+1)
 
-įforminimą;
+Lietuvos Respublikos diplomatinių pasų išdavimą ir įforminimą;
 
 2) vizų išdavimą užsieniečiams, turintiems
 
 diplomatinius ir tarnybinius pasus ar jiems prilygintus kelionės dokumentus;
 
-3) vizų išdavimą užsieniečiams, vykstantiems į
+3) vizų išdavimą užsieniečiams, vykstantiems į Lietuvos
 
-Lietuvos Respubliką dalyvauti Respublikos Prezidento, Seimo, Vyriausybės,
+Respubliką dalyvauti Respublikos Prezidento, Seimo, Vyriausybės, ministerijų ir
 
-ministerijų ir kitų valstybės institucijų organizuotuose oficialiuose
+kitų valstybės institucijų organizuotuose oficialiuose susitikimuose, teikti
 
-susitikimuose, teikti labdarą bei organizuotą pagalbą Lietuvai arba su
+labdarą bei organizuotą pagalbą Lietuvai arba su Raudonojo Kryžiaus misija,
 
-Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų, kurių narė yra
+taip pat tarptautinių organizacijų, kurių narė yra Lietuvos Respublika,
 
-Lietuvos Respublika, atstovams;
+atstovams;
 
 4) vizų išdavimą Europos Sąjungos piliečio arba valstybės, dalyvaujančios Europos ekonominės
 
@@ -373,9 +239,9 @@ dokumentas;
 
 pagal Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams
 
-režimams, teisių atkūrimo įstatymą (Žin., 1990, Nr. 14-386; 1998,
+režimams, teisių atkūrimo įstatymą (Žin., 1990, Nr. 14-386; 1998, Nr. 28-729),
 
-Nr. 28-729), pateikusiems atitinkamą pažymėjimą;
+pateikusiems atitinkamą pažymėjimą;
 
 12) vizų išdavimą lietuvių kilmės asmenims,
 
@@ -383,13 +249,13 @@ pateikusiems Pasaulio lietuvių bendruomenės kraštų bendruomenių arba Lietuv
 
 Respublikos diplomatinių atstovybių ar konsulinių įstaigų užsienio valstybėse
 
-pareigūnų išduotus Lietuvos Respublikos užsienio reikalų ministerijos
+pareigūnų išduotus Lietuvos Respublikos užsienio reikalų ministerijos patvirtintos
 
-patvirtintos formos pažymėjimus, taip pat asmenims, pateikusiems teisę į
+formos pažymėjimus, taip pat asmenims, pateikusiems teisę į Lietuvos
 
-Lietuvos Respublikos pilietybės išsaugojimą patvirtinantį dokumentą, ir šių
+Respublikos pilietybės išsaugojimą patvirtinantį dokumentą, ir šių asmenų
 
-asmenų šeimos nariams;
+šeimos nariams;
 
 13) už ilgalaikės vizos (D) išdavimą
 
@@ -449,13 +315,17 @@ dokumentas arba kurio tėvai (ar turimas vienintelis
 
 iš tėvų) yra Lietuvos Respublikos piliečiai, parvežti į Lietuvos
 
-Respubliką.
+Respubliką;
+
+21) dokumentų išduoti
+
+leidimą gyventi Lietuvos Respublikoje vaikams iki 16 metų tvarkymą.
 
 Straipsnio pakeitimai:
 
-Nr. VIII-444,
+Nr. VIII-444, 97.10.14,
 
-97.10.14, Žin., 1997, Nr.97-2441 (97.10.29)
+Žin., 1997, Nr.97-2441 (97.10.29)
 
 Nr.
 
@@ -467,9 +337,11 @@ Nr. X-146, 2005-03-24,
 
 Žin., 2005, Nr. 47-1557 (2005-04-12)
 
-7
+Nr. X-926, 2006-11-28,
 
-straipsnis. Mokesčio mokėjimas
+Žin., 2006, Nr. 137-5201 (2006-12-16)
+
+7 straipsnis. Mokesčio mokėjimas
 
 Konsulinis
 
@@ -481,27 +353,9 @@ Konsulinio
 
 mokesčio sumokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
-7 straipsnis.
+8 straipsnis. Mokesčio
 
-Mokesčio mokėjimas
-
-Konsulinis
-
-mokestis  turi  būti  sumokėtas  prieš  teikiant
-
-konsulines paslaugas
-
-ar atliekant notarinius veiksmus.
-
-Konsulinio
-
-mokesčio   sumokėjimo  tvarką  nustato  Lietuvos
-
-Respublikos
-
-Vyriausybė.
-
-8 straipsnis. Mokesčio grąžinimas
+grąžinimas
 
 Sumokėtas konsulinis mokestis grąžinamas, kai sumokėta
 
@@ -517,17 +371,15 @@ Respublikos Vyriausybė.
 
 Straipsnio pakeitimai:
 
-Nr. I-1316,
+Nr. I-1316, 96.04.30,
 
-96.04.30, Žin., 1996, Nr. 46-1111 (96.05.17)
+Žin., 1996, Nr. 46-1111 (96.05.17)
 
 Nr. X-146, 2005-03-24,
 
 Žin., 2005, Nr. 47-1557 (2005-04-12)
 
-9
-
-straipsnis. Mokesčio ėmimo kontrolė
+9 straipsnis. Mokesčio ėmimo kontrolė
 
 Konsulinio
 
@@ -543,21 +395,19 @@ Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. I-1316,
+Nr. I-1316, 96.04.30,
 
-96.04.30, Žin., 1996, Nr. 46-1111 (96.05.17)
+Žin., 1996, Nr. 46-1111 (96.05.17)
 
-10
+10 straipsnis. Mokesčio įskaitymas į
 
-straipsnis. Mokesčio įskaitymas į biudžetą
+biudžetą
 
 Konsulinis
 
 mokestis įskaitomas į valstybės biudžetą.
 
-11
-
-straipsnis. Baigiamosios nuostatos
+11 straipsnis. Baigiamosios nuostatos
 
 Lietuvos
 
@@ -579,7 +429,9 @@ RESPUBLIKOS
 
 PREZIDENTAS                                  ALGIRDAS BRAZAUSKAS
 
-Lietuvos Respublikos
+Lietuvos
+
+Respublikos
 
 konsulinio
 
@@ -593,9 +445,9 @@ SĄJUNGOS TEISĖS AKTAI
 
 1. 1973 m. kovo 21 d. Tarybos direktyva 73/148/EEB dėl valstybių
 
-narių piliečių judėjimo ir teisės apsigyventi Bendrijoje apribojimų, atsižvelgiant
+narių piliečių judėjimo ir teisės apsigyventi Bendrijoje apribojimų,
 
-į įsisteigimą ir paslaugų teikimą, panaikinimo.
+atsižvelgiant į įsisteigimą ir paslaugų teikimą, panaikinimo.
 
 2. 2003 m. balandžio 14 d. Tarybos reglamentas (EB)
 
@@ -635,9 +487,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. I-1316,
+Nr. I-1316, 96.04.30,
 
-96.04.30, Žin., 1996, Nr. 46-1111 (96.05.17)
+Žin., 1996, Nr. 46-1111 (96.05.17)
 
 LIETUVOS RESPUBLIKOS KONSULINIO
 
@@ -653,9 +505,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. VIII-444,
+Nr. VIII-444, 97.10.14,
 
-97.10.14, Žin., 1997, Nr.97-2441 (97.10.29)
+Žin., 1997, Nr.97-2441 (97.10.29)
 
 LIETUVOS RESPUBLIKOS KONSULINIO
 
@@ -667,9 +519,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. VIII-601,
+Nr. VIII-601, 98.01.08,
 
-98.01.08, Žin., 1998, Nr.6-115 (98.01.16)
+Žin., 1998, Nr.6-115 (98.01.16)
 
 LIETUVOS RESPUBLIKOS KONSULINIO
 
@@ -681,9 +533,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1482,
+Nr. IX-1482, 2003-04-03,
 
-2003-04-03, Žin., 2003, Nr. 38-1727 (2003-04-24)
+Žin., 2003, Nr. 38-1727 (2003-04-24)
 
 KONSULINIO
 
@@ -691,9 +543,9 @@ MOKESČIO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šis Įstatymas įsigalioja kartu su
 
-Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
 
-Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
 
 2003 m. gegužės 1 d.
 
@@ -713,13 +565,13 @@ IX-2139,
 
 IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
 
-PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
+PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO,
 
-ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO,
+MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ
 
-MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS
+APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO
 
-BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Šis
 
@@ -743,87 +595,29 @@ MOKESČIO ĮSTATYMO 1, 3, 6, 8 STRAIPSNIŲ PAPILDYMO BEI PAKEITIMO IR ĮSTATYMO
 
 PAPILDYMO PRIEDU ĮSTATYMAS
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-926,
+
+2006-11-28, Žin., 2006, Nr. 137-5201 (2006-12-16)
+
+KONSULINIO
+
+MOKESČIO ĮSTATYMO 3, 6 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-04-13)
+Aušrinė Trapinskienė (2006-12-18)
 
 autrap@lrs.lt
-
-9 straipsnis.
-
-Mokesčio ėmimo kontrolė
-
-Konsulinio
-
-mokesčio  ėmimą kontroliuoja Valstybinė mokesčių
-
-inspekcija.
-
-Klaidingai
-
-paimtas   arba  nepaimtas  konsulinis  mokestis
-
-išieškomas  iš
-
-įstaigos, dėl kurios kaltės mokestis buvo paimtas
-
-klaidingai  arba
-
-visai  nepaimtas, Lietuvos Respublikos mokesčių
-
-administravimo
-
-įstatymo nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-{#96C]AA1316 ;} Nr.
-
-1-1316, 96.04.30, Žin., 1996, Nr. 46-1111 (96.05.17)
-
-10 straipsnis.
-
-Mokesčio įskaitymas į biudžetą
-
-Konsulinis
-
-mokestis įskaitomas į valstybės biudžetą.
-
-11 straipsnis.
-
-Baigiamosios nuostatos
-
-Lietuvos
-
-Respublikos    konsulinio   mokesčio    įstatymas
-
-įsigalioja nuo 1995
-
-m. sausio 1 dienos.
-
-Lietuvos
-
-Respublikos  Vyriausybė iki  1994 m. lapkričio 1 d.
-
-nustato
-
-konsulinio   mokesčio  tarifus,  mokėjimo  ir  grąžinimo
-
-tvarką.
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
-
-_
 
