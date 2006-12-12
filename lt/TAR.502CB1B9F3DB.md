@@ -4,7 +4,7 @@ identifier: "TAR.502CB1B9F3DB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-02"
-last_updated: "2006-11-09"
+last_updated: "2006-12-12"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.502CB1B9F3DB"
 department: "Lietuvos Respublikos Seimas"
@@ -35,7 +35,9 @@ LIETUVOS RESPUBLIKOS
 
 Vilnius
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis.
+
+Įstatymo paskirtis
 
 Šis įstatymas
 
@@ -45,7 +47,9 @@ reglamentuoja Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų
 
 turinio ir kalbos reikalavimus.
 
-2 straipsnis. Teisės aktas
+2 straipsnis.
+
+Teisės aktas
 
 Teisės aktas šiame įstatyme - tai
 
@@ -53,7 +57,9 @@ Teisės aktas šiame įstatyme - tai
 
 aktas, kuriame nustatomos, keičiamos arba naikinamos teisės normos.
 
-3 straipsnis. Teisės akto rengimo stadijos
+3 straipsnis.
+
+Teisės akto rengimo stadijos
 
 Teisės akto rengimo stadijos yra šios:
 
@@ -67,7 +73,9 @@ nustatymas;
 
 4) teisės akto derinimas ir aprobavimas.
 
-4 straipsnis. Teisės akto rengimas
+4 straipsnis.
+
+Teisės akto rengimas
 
 1. Pasiūlymus dėl teisės akto rengimo turi
 
@@ -137,7 +145,9 @@ Nr. X-890, 2006-11-09,
 
 Žin., 2006, Nr. 127-4823 (2006-11-25)
 
-5 straipsnis. Teisės akto reikalavimai
+5 straipsnis.
+
+Teisės akto reikalavimai
 
 1. Teisės aktas turi atitikti Lietuvos
 
@@ -165,7 +175,9 @@ Nr. IX-946,
 
 2002-06-11, Žin., 2002, Nr. 66-2705 (2002-06-29)
 
-6 straipsnis. Teisės akto forma
+6 straipsnis.
+
+Teisės akto forma
 
 1. Teisės akte turi būti:
 
@@ -199,7 +211,9 @@ Nr. I-1421, 1996.07.02,
 
 Žin., 1996, Nr. 68-1632 (1996.07.19)
 
-7 straipsnis. Įstatymo forma
+7 straipsnis.
+
+Įstatymo forma
 
 1. Įstatyme eilės tvarka turi būti:
 
@@ -257,7 +271,9 @@ Nr. VIII-1193,
 
 1999.05.20, Žin., 1999, Nr. 48-1527 (1999.06.02)
 
-8 straipsnis. Įstatymo struktūra
+8 straipsnis.
+
+Įstatymo struktūra
 
 1. Įstatymą sudaro:
 
@@ -325,9 +341,9 @@ Nr. I-1421, 1996.07.02,
 
 Žin., 1996, Nr. 68-1632 (1996.07.19)
 
-9 straipsnis. Kitų teisės aktų forma ir
+9 straipsnis.
 
-struktūra
+Kitų teisės aktų forma ir struktūra
 
 1. Institucijos, priimančios teisės aktus,
 
@@ -381,9 +397,9 @@ Nr. I-1421, 1996.07.02,
 
 Žin., 1996, Nr. 68-1632 (1996.07.19)
 
-10 straipsnis. Teisės akto turinio
+10 straipsnis.
 
-reikalavimai
+Teisės akto turinio reikalavimai
 
 1. Teisės akto turinys turi atitikti jo
 
@@ -402,6 +418,84 @@ tekstas nekartojamas kituose straipsniuose. Neleistini žodžių sutrumpinimai,
 išskyrus atvejus, kai pateikiama nuoroda į leidinį, kuriame šis aktas
 
 oficialiai paskelbtas. Pirmą kartą minimas pavadinimas negali būti trumpinamas.
+
+11
+
+straipsnis. Teisės akto, kuriuo keičiamas ar papildomas kitas teisės aktas,
+
+reikalavimai
+
+1. Keičiant teisės aktą, jei straipsnis,
+
+jo dalis ar punktas keičiamas iš esmės, išdėstoma pakeitimo esmė ir pateikiama
+
+keičiamo straipsnio, jo dalies ar punkto nauja redakcija. Jei teisės aktas
+
+pildomas nauju straipsniu (jo dalimi ar punktu), išdėstoma papildymo esmė ir
+
+pateikiama naujo straipsnio (jo dalies ar punkto) redakcija. Keičiant teisės
+
+aktą, kurio straipsnyje (jo dalyje ar punkte) reikia išbraukti žodžius
+
+(skaičius), įrašyti naujus žodžius (skaičius), vietoj vienų žodžių (skaičių)
+
+įrašyti kitus žodžius (skaičius), dėstant pakeitimų esmę nurodomas keičiamas
+
+straipsnis (jo dalis ar punktas), kokius žodžius (skaičius) išbraukti, po kokių
+
+žodžių (skaičių) ar vietoj kokių žodžių (skaičių) įrašyti naujus žodžius
+
+(skaičius) ir išdėstoma straipsnio (jo dalies ar punkto) nauja redakcija. Jei
+
+straipsnis, jo dalis ar punktas pripažįstamas netekusiu galios, nurodomas tas
+
+straipsnis (jo dalis ar punktas).
+
+2. Jei keičiamajame teisės akte keičiama
+
+ar buvo pakeista daugiau kaip pusė jo straipsnių, keičiamasis teisės aktas
+
+paprastai dėstomas nauja redakcija arba parengiamas naujas teisės aktas.
+
+3. Vienu įstatymu keičiamas tik vienas
+
+įstatymas.
+
+4. Įstatymo, kuriuo keičiamas, pildomas
+
+arba pripažįstamas netekusiu galios kitas įstatymas, pradžioje po nuorodos į
+
+įstatymo priėmimo vietą turi būti nurodoma (atskira eilute, skliausteliuose)
+
+keičiamo, papildomo arba pripažįstamo netekusiu galios kito įstatymo oficialus
+
+paskelbimo šaltinis ir įstatymų, kuriais buvo keičiamas ar pildomas atitinkamo
+
+to įstatymo straipsnis, jo dalis ar punktas, oficialaus paskelbimo šaltiniai.
+
+5. Keičiant ar pildant įstatymus,
+
+paskelbtus iki Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų
+
+rengimo tvarkos įstatymo (Žin., 1995, Nr.41-991)
+
+įsigaliojimo, jų forma ir struktūra nekeičiama.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. I-1421, 1996.07.02,
+
+Žin., 1996, Nr. 68-1632 (1996.07.19)
+
+Nr. VIII-516,
+
+1997.11.18, Žin., 1997, Nr. 111-2796 (1997.12.05)
+
+Nr. X-969, 2006-12-12,
+
+Žin., 2006, Nr. 141-5400 (2006-12-28)
 
 11 straipsnis.
 
@@ -489,7 +583,9 @@ Nr. VIII-516,
 
 1997.11.18, Žin., 1997, Nr. 111-2796 (1997.12.05)
 
-12 straipsnis. Teisės akto kalba
+12 straipsnis.
+
+Teisės akto kalba
 
 Teisės aktai rašomi laikantis bendrinės
 
@@ -497,9 +593,9 @@ lietuvių kalbos normų ir teisinės terminijos. Tarptautiniai žodžiai vartoja
 
 tik tada, kai lietuvių kalboje nėra šių žodžių atitikmenų.
 
-12(1) straipsnis. Nuorodos
+12(1)
 
-į Europos Sąjungos teisės aktus
+straipsnis. Nuorodos į Europos Sąjungos teisės aktus
 
 1. Nuorodos į Europos Sąjungos teisės
 
@@ -525,13 +621,13 @@ straipsnio įsigaliojimo priimtas teisės aktas, kuriuo buvo derinami ir įgyven
 
 Europos Sąjungos teisės aktai ir kuriame nėra nuorodų į Europos Sąjungos teisės
 
-aktus arba jos pateiktos ne pagal šio straipsnio reikalavimus, kartu
+aktus arba jos pateiktos ne pagal šio straipsnio reikalavimus,
 
-parengiamas ir teikiamas įstatymo papildymo reikiamu priedu įstatymo projektas
+kartu parengiamas ir teikiamas įstatymo papildymo reikiamu priedu įstatymo
 
-ar kito teisės akto papildymo preambule arba jos pakeitimo projektas, kuriame
+projektas ar kito teisės akto papildymo preambule arba jos pakeitimo projektas,
 
-pateikiami nenurodyti Europos Sąjungos teisės aktai.
+kuriame pateikiami nenurodyti Europos Sąjungos teisės aktai.
 
 5. Nurodant Europos Sąjungos teisės
 
@@ -565,7 +661,9 @@ Nr. IX-946,
 
 2002-06-11, Žin., 2002, Nr. 66-2705 (2002-06-29)
 
-13 straipsnis. Šio įstatymo įsigaliojimas
+13 straipsnis.
+
+Šio įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 1996 m.
 
@@ -685,13 +783,31 @@ IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 4 STRAIPSNIO PAKEITIM
 
 ĮSTATYMAS
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-969,
+
+2006-12-12, Žin., 2006, Nr. 141-5400 (2006-12-28)
+
+ĮSTATYMŲ
+
+IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 11 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-11-28)
+Aušrinė Trapinskienė (2006-12-28)
 
 autrap@lrs.lt
 
