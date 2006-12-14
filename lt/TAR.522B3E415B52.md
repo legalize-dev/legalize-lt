@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2006-06-01"
+last_updated: "2006-12-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -2098,11 +2098,11 @@ teisėjams.
 
 3. Kai hipotekos
 
-teisėjas serga, taip pat kai jo nėra dėl kitų priežasčių, apylinkės teismo
+teisėjas serga, taip pat kai jo nėra dėl kitų priežasčių, apylinkės teismo pirmininkas
 
-pirmininkas šio straipsnio 1 dalyje nustatyta tvarka paveda eiti hipotekos
+šio straipsnio 1 dalyje nustatyta tvarka paveda eiti hipotekos teisėjo pareigas
 
-teisėjo pareigas kitam to paties teismo teisėjui.
+kitam to paties teismo teisėjui.
 
 59 straipsnis.
 
@@ -2110,11 +2110,11 @@ Teisėjo priesaika
 
 1. Teisėju paskirtas
 
-asmuo, prieš pradėdamas eiti pareigas, iškilmingoje aplinkoje prisiekia jį
+asmuo, prieš pradėdamas eiti pareigas, iškilmingoje aplinkoje prisiekia jį paskyrusiems
 
-paskyrusiems Respublikos Prezidentui arba Seimui. Prisiekiantis asmuo turi
+Respublikos Prezidentui arba Seimui. Prisiekiantis asmuo turi teisę pasirinkti
 
-teisę pasirinkti vieną iš šių priesaikos tekstų:
+vieną iš šių priesaikos tekstų:
 
 1) „Aš, teisėjas
 
@@ -3306,11 +3306,11 @@ teismą, kad būtų užtikrintas šio teismo funkcionavimas (kai šio teismo tei
 
 serga, yra laisva teisėjo vieta, taip pat kai dėl kitų priežasčių šio teismo
 
-teisėjas negali atlikti teisėjo pareigų). Taip perkelti teisėją galima ne ilgesniam
+teisėjas negali atlikti teisėjo pareigų). Taip perkelti teisėją galima ne
 
-kaip šešių mėnesių laikotarpiui ir ne daugiau kaip kartą per trejus
+ilgesniam kaip šešių mėnesių laikotarpiui ir ne daugiau kaip kartą per
 
-metus.
+trejus metus.
 
 3. Šiame
 
@@ -3372,11 +3372,11 @@ apylinkės teismo teisėju.
 
 skiriamas, tik jei su tuo sutinka.
 
-5. Teisėjo
+5. Teisėjo sutikimas
 
-sutikimas nereikalingas, kai jis žemesnės pakopos teismo teisėju skiriamas
+nereikalingas, kai jis žemesnės pakopos teismo teisėju skiriamas taikant
 
-taikant drausminę atsakomybę.
+drausminę atsakomybę.
 
 6. Šiame
 
@@ -3470,19 +3470,19 @@ teismo
 
 ar Apeliacinio teismo teisėju
 
-1. Vyriausiojo administracinio
+1. Vyriausiojo
 
-teismo ar Apeliacinio teismo teisėju gali būti skiriamas teisėjų karjeros
+administracinio teismo ar Apeliacinio teismo teisėju gali būti skiriamas
 
-siekiančių asmenų registre įrašytas teisėjas, turintis ne mažesnį kaip ketverių
+teisėjų karjeros siekiančių asmenų registre įrašytas teisėjas, turintis ne
 
-metų apygardos administracinio teismo ar apygardos teismo teisėjo darbo stažą,
+mažesnį kaip ketverių metų apygardos administracinio teismo ar apygardos teismo
 
-teisės krypties socialinių mokslų daktaras ar habilituotas daktaras, turintis
+teisėjo darbo stažą, teisės krypties socialinių mokslų daktaras ar habilituotas
 
-ne mažesnį kaip aštuonerių metų teisinio pedagoginio darbo stažą, pateikę
+daktaras, turintis ne mažesnį kaip aštuonerių metų teisinio pedagoginio darbo
 
-sveikatos pažymėjimą.
+stažą, pateikę sveikatos pažymėjimą.
 
 2. Vyriausiojo
 
@@ -3516,9 +3516,9 @@ straipsnis. Reikalavimai asmeniui, siekiančiam tapti Aukščiausiojo Teismo
 
 teisėju
 
-Aukščiausiojo Teismo
+Aukščiausiojo Teismo teisėju
 
-teisėju gali būti skiriamas:
+gali būti skiriamas:
 
 1) apygardos
 
@@ -7452,9 +7452,27 @@ Pagal šio straipsnio 3 dalį šio įstatymo 1 straipsnyje išdėstyto Teismų
 
 įgaliojimai tęsiasi iki 2006 m. gruodžio 31 d.
 
-5. Teismų įstatyme vartojamą sąvoką „Teismų taryba“
+5.
 
-pakeisti sąvoka „Teisėjų taryba“.
+Teismų įstatyme vartojamą sąvoką „Teismų taryba“ pakeisti sąvoka „Teisėjų
+
+taryba“.
+
+Teisėjų tarybos įgaliojimai
+
+pratęsti iki 2007 m. liepos 1 d. Įstatymu :
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-985, 2006-12-14,
+
+Žin., 2006, Nr. 141-5407 (2006-12-28)
+
+TEISMŲ ĮSTATYMO 119, 120 IR 121
+
+STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 34.
 
@@ -7528,21 +7546,21 @@ STRAIPSNIO 2 DALIES (2002 M. SAUSIO 24 D. REDAKCIJA), 81 STRAIPSNIO 3, 7 DALIŲ
 
 D. REDAKCIJA), 119 STRAIPSNIO 2, 5 DALIŲ (2002 M. SAUSIO 24 D. REDAKCIJA), 120
 
-STRAIPSNIO 3, 4 PUNKTŲ (2002 M. SAUSIO 24 D. REDAKCIJA), 128 STRAIPSNIO 2 DALIES
+STRAIPSNIO 3, 4 PUNKTŲ (2002 M. SAUSIO 24 D. REDAKCIJA), 128 STRAIPSNIO 2
 
-(2002 M. SAUSIO 24 D. REDAKCIJA), LIETUVOS RESPUBLIKOS ĮSTATYMO "LIETUVOS
+DALIES (2002 M. SAUSIO 24 D. REDAKCIJA), LIETUVOS RESPUBLIKOS ĮSTATYMO
 
-AUKŠČIAUSIOJO TEISMO STATUTAS" 11 STRAIPSNIO 3 DALIES 13 PUNKTO (1996 M.
+"LIETUVOS AUKŠČIAUSIOJO TEISMO STATUTAS" 11 STRAIPSNIO 3 DALIES 13
 
-LIEPOS 4 D. REDAKCIJA), 17 STRAIPSNIO 1, 3 DALIŲ (1995 M. BALANDŽIO 18 D.
+PUNKTO (1996 M. LIEPOS 4 D. REDAKCIJA), 17 STRAIPSNIO 1, 3 DALIŲ (1995 M.
 
-REDAKCIJA), 4 DALIES (1996 M. LIEPOS 4 D. REDAKCIJA), 18 STRAIPSNIO 3 DALIES
+BALANDŽIO 18 D. REDAKCIJA), 4 DALIES (1996 M. LIEPOS 4 D. REDAKCIJA), 18
 
-(1995 M. BALANDŽIO 18 D. REDAKCIJA) IR LIETUVOS RESPUBLIKOS PREZIDENTO 2003 M.
+STRAIPSNIO 3 DALIES (1995 M. BALANDŽIO 18 D. REDAKCIJA) IR LIETUVOS RESPUBLIKOS
 
-VASARIO 10 D. DEKRETO NR. 2048 "DĖL APYGARDOS TEISMO TEISĖJO
+PREZIDENTO 2003 M. VASARIO 10 D. DEKRETO NR. 2048 "DĖL APYGARDOS TEISMO
 
-ATLEIDIMO" 1 STRAIPSNIO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+TEISĖJO ATLEIDIMO" 1 STRAIPSNIO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 ***
 
@@ -7550,7 +7568,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-06-19)
+Aušrinė Trapinskienė (2007-01-02)
 
 autrap@lrs.lt
 
