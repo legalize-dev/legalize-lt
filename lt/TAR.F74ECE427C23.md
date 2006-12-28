@@ -4,7 +4,7 @@ identifier: "TAR.F74ECE427C23"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-07-02"
-last_updated: "2004-11-26"
+last_updated: "2006-12-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
-Suvestinė redakcija nuo 2004-11-26 iki 2006-12-27
+Suvestinė redakcija nuo 2006-12-28 iki 2007-06-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
 
@@ -31,7 +31,13 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato Lietuvos Respublikos gyventojų gyvenamosios vietos deklaravimo (toliau – deklaravimas) sąlygas ir tvarką, deklaravimo duomenų pateikimą, apskaitą, tvarkymą ir naudojimą, nevaržant asmenų teisės laisvai kilnotis ir pasirinkti gyvenamąją vietą Lietuvos Respublikoje, laisvai išvykti iš Lietuvos, išskyrus tuos atvejus, kai šios teisės varžomos kitų įstatymų.
+1. Šis įstatymas nustato Lietuvos Respublikos gyventojų gyvenamosios vietos deklaravimo (toliau – deklaravimas) sąlygas ir tvarką, deklaravimo duomenų pateikimą, apskaitą, tvarkymą ir naudojimą, nevaržant asmenų teisės laisvai kilnotis ir pasirinkti gyvenamąją vietą Lietuvos Respublikoje, laisvai išvykti iš Lietuvos, išskyrus tuos atvejus, kai šios teisės varžomos kitų įstatymų.
+
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede, nuostatomis.
+
+Straipsnio pakeitimai:
+
+Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA000X-961
 
 2 straipsnis. Deklaravimo tikslai
 
@@ -73,11 +79,13 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
 
 1) Lietuvos Respublikos piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau kaip 183 dienoms per metus, keičiantys gyvenamąją vietą Lietuvos Respublikoje ar išvykstantys iš Lietuvos Respublikos ilgesniam kaip šešių mėnesių laikotarpiui;
 
-2) leidimą gyventi Lietuvos Respublikoje turintys užsienio valstybių piliečiai ir asmenys be pilietybės, atvykę gyventi į Lietuvos Respubliką ar keičiantys gyvenamąją vietą Lietuvos Respublikoje arba išvykstantys iš Lietuvos Respublikos ilgesniam kaip šešių mėnesių laikotarpiui.
+2) Europos Sąjungos valstybių narių piliečiai ar Europos laisvosios prekybos asociacijos valstybių narių piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau kaip tris mėnesius per pusę metų ir Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka įgiję teisę gyventi Lietuvos Respublikoje, keičiantys gyvenamąją vietą Lietuvos Respublikoje ar išvykstantys iš Lietuvos Respublikos ilgesniam kaip šešių mėnesių laikotarpiui;
+
+3) leidimą gyventi Lietuvos Respublikoje turintys užsienio valstybių, ne Europos Sąjungos valstybių narių ar ne Europos laisvosios prekybos asociacijos valstybių narių, piliečiai ir asmenys be pilietybės, atvykę gyventi į Lietuvos Respubliką ar keičiantys gyvenamąją vietą Lietuvos Respublikoje arba išvykstantys iš Lietuvos Respublikos ilgesniam kaip šešių mėnesių laikotarpiui.
 
 Straipsnio dalies pakeitimai:
 
-Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
+Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA000X-961
 
 2. Nepilnamečių gyvenamąją vietą deklaruoja jų tėvai, įtėviai, globėjai arba kiti asmenys, kurie pagal įstatymą ar kitą teisės aktą privalo jais rūpintis, jiems atstovauti, ginti jų teises ir teisėtus interesus, išskyrus atvejus, nurodytus šio straipsnio 3 ir 4 dalyse.
 
@@ -291,6 +299,18 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
+Lietuvos Respublikos gyvenamosios vietos
+
+deklaravimo įstatymo priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti reglamentą (EEB) Nr. 1612/68 ir panaikinanti direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46).
+
+Papildyta priedu:
+
+Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA000X-961
+
 Pakeitimai:
 
 1.
@@ -332,4 +352,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2552, 2004-11-09, Žin., 2004, Nr. 171-6306 (2004-11-26), i. k. 1041010ISTA0IX-2552
 
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 8 straipsnio papildymo ir pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-395, 2005-11-17, Žin., 2005, Nr. 143-5169 (2005-12-08), i. k. 1051010ISTA000X-395
+
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 11 ir 13 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA000X-961
+
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 1, 4 straipsnių papildymo ir pakeitimo ir įstatymo papildymo priedu įstatymas
 
