@@ -4,7 +4,7 @@ identifier: "TAR.F789235C18BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-12-10"
-last_updated: "2003-10-31"
+last_updated: "2006-12-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
-Suvestinė redakcija nuo 2003-10-31 iki 2006-12-27
+Suvestinė redakcija nuo 2006-12-28 iki 2006-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
 
@@ -195,7 +195,11 @@ Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010IS
 
 4. Vidaus audito tarnybos vadovas finansų ministro nustatyta tvarka rengia informaciją apie vidaus audito tarnybos veiklą bei Europos Sąjungos ir užsienio institucijų ar fondų lėšomis finansuojamų projektų ar programų vidaus auditą. Šią informaciją viešojo juridinio asmens vadovas teikia Finansų ministerijai.
 
-5. Iki kiekvienų metų vasario 1 d. vidaus audito tarnybos vadovas turi parengti ir pateikti Finansų ministerijai, viešojo juridinio asmens vadovui, taip pat ir steigėjui (steigėjams) arba kolegialiam valdymo organui, jeigu jis nurodytas viešojo juridinio asmens steigimo dokumentuose, jo prašymu metinę vidaus audito tarnybos veiklos ataskaitą. Šioje ataskaitoje turi būti informacija apie vidaus kontrolės veikimą viešajame juridiniame asmenyje.
+5. Iki kiekvienų metų kovo 1 d. vidaus audito tarnybos vadovas turi parengti ir pateikti Finansų ministerijai, viešojo juridinio asmens vadovui, taip pat ir steigėjui (steigėjams) arba kolegialiam valdymo organui, jeigu jis nurodytas viešojo juridinio asmens steigimo dokumentuose, jo prašymu metinę vidaus audito tarnybos veiklos ataskaitą. Šioje ataskaitoje turi būti informacija apie vidaus kontrolės veikimą viešajame juridiniame asmenyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-944, 2006-12-05, Žin., 2006, Nr. 141-5390 (2006-12-28), i. k. 1061010ISTA000X-944
 
 6. Jeigu vidaus audito metu nustatomi pažeidimai, nagrinėtini atitinkamų teisėsaugos institucijų, vidaus audito tarnybos vadovas vidaus audito dokumentus turi perduoti teisėsaugos institucijoms pagal kompetenciją.
 
@@ -271,7 +275,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 1) metodiškai vadovauja finansų kontrolės ir vidaus audito klausimais, vertina ir prireikus tikrina, ar vidaus audito tarnybų veikla atitinka šio Įstatymo ir kitų teisės aktų nustatytus reikalavimus, analizuoja, kaip veikia vidaus audito tarnybos viešuosiuose juridiniuose asmenyse;
 
-2) rengia ir iki kiekvienų metų kovo 1 dienos teikia Vyriausybei bei Seimo Biudžeto ir finansų komitetui metinę vidaus audito tarnybų veikimo viešuosiuose juridiniuose asmenyse ataskaitą;
+2) rengia ir iki kiekvienų metų liepos 1 dienos teikia Vyriausybei bei Seimo Audito komitetui metinę vidaus audito tarnybų veikimo viešuosiuose juridiniuose asmenyse ataskaitą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-944, 2006-12-05, Žin., 2006, Nr. 141-5390 (2006-12-28), i. k. 1061010ISTA000X-944
 
 3) koordinuoja viešųjų juridinių asmenų vidaus auditorių mokymą, kvalifikacijos kėlimą ir atestavimą.
 
@@ -306,4 +314,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010ISTA0IX-1766
 
 Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 ir 11 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-806, 2006-09-14, Žin., 2006, Nr. 107-4044 (2006-10-06), i. k. 1061010ISTA000X-806
+
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 2, 6 straipsnių pakeitimo ir papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-944, 2006-12-05, Žin., 2006, Nr. 141-5390 (2006-12-28), i. k. 1061010ISTA000X-944
+
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 8 ir 11 straipsnių pakeitimo įstatymas
 
