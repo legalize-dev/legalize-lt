@@ -4,7 +4,7 @@ identifier: "TAR.F43F5ED5C4BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2003-05-01"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F43F5ED5C4BB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karių materialinės atsakomybės įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2006-12-31
+Suvestinė redakcija nuo 2007-01-01 iki 2011-08-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1928, i. k. 1001010ISTAIII-1857
 
@@ -83,7 +83,11 @@ KARIŲ MATERIALINĖ ATSAKOMYBĖ
 
 1. Profesinės karo tarnybos kariai už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą, padarytą dėl neatsargumo einant tarnybines pareigas, atsako pusės jų padarytos tikrosios žalos dydžio suma, bet ne didesne kaip trys profesinės karo tarnybos kario mėnesiniai tarnybiniai atlyginimai.
 
-2. Privalomosios karo tarnybos kariai už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą, padarytą dėl neatsargumo einant tarnybines pareigas, atsako pusės jų padarytos tikrosios žalos dydžio suma, bet ne didesne kaip dvi Vyriausybės nustatytos minimalios mėnesinės algos.
+2. Privalomosios karo tarnybos kariai už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą, padarytą dėl neatsargumo einant tarnybines pareigas, atsako pusės jų padarytos tikrosios žalos dydžio suma, bet ne didesne kaip du pareiginės algos baziniai dydžiai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-795, 2006-07-19, Žin., 2006, Nr. 87-3406 (2006-08-08), i. k. 1061010ISTA000X-795
 
 3. Kariai savanoriai ir aktyviojo rezervo kariai, pašaukti į tarnybą, pratybas ar mokymus, už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą tarnybos metu dėl neatsargumo atsako pusės jų padarytos tikrosios žalos dydžio suma, bet ne didesne kaip Vyriausybės nustatytas mėnesinis kario savanorio ar aktyviojo rezervo kario atlyginimas.
 
@@ -167,7 +171,11 @@ TREČIASIS SKIRSNIS
 
 2. Karių savanorių ir aktyviojo rezervo karių mėnesiniu tarnybiniu atlyginimu, kurio dydžiu jie materialiai atsako už padarytą žalą esant ribotai materialinei atsakomybei, laikomas žalos padarymo dieną jiems galiojęs Vyriausybės nustatytas mėnesinis kario savanorio ar aktyviojo rezervo kario atlyginimas kartu su priedais mokymų, pratybų, gynybos, apsaugos ar kitokių karinių užduočių vykdymo laikotarpiu. Į šią sumą neįskaitomi kariui savanoriui ar aktyviojo rezervo kariui mokami butpinigiai, dienpinigiai ir maistpinigiai.
 
-3. Vyriausybės nustatyta minimalia mėnesine alga laikoma žalos padarymo dieną galiojusi Vyriausybės nustatyta minimali mėnesinė alga.
+3. Pareiginės algos baziniu dydžiu laikomas žalos padarymo dieną galiojęs pareiginės algos bazinis dydis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-795, 2006-07-19, Žin., 2006, Nr. 87-3406 (2006-08-08), i. k. 1061010ISTA000X-795
 
 4. Jei žalą padaręs karys tarnauja užsienyje, tarnybiniu atlyginimu, kurio dydžiu jis materialiai atsako už padarytą žalą esant ribotai materialinei atsakomybei, laikomas Lietuvos Respublikoje tarnaujančiam panašų laipsnį turinčiam ir panašias pareigas einančiam kariui žalos padarymo dieną galiojęs paskirtas ir mokamas mėnesinis tarnybinis atlyginimas kartu su priedais. Į šią sumą neįskaitomi kariui mokami butpinigiai, dienpinigiai ir maistpinigiai.
 
@@ -460,4 +468,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1421, 2003-04-03, Žin., 2003, Nr. 38-1666 (2003-04-24), i. k. 1031010ISTA0IX-1421
 
 Lietuvos Respublikos karių materialinės atsakomybės įstatymo 7, 12 ir 26 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-795, 2006-07-19, Žin., 2006, Nr. 87-3406 (2006-08-08), i. k. 1061010ISTA000X-795
+
+Lietuvos Respublikos karių materialinės atsakomybės įstatymo 4 ir 10 straipsnių pakeitimo įstatymas
 
