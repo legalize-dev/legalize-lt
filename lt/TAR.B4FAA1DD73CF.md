@@ -4,7 +4,7 @@ identifier: "TAR.B4FAA1DD73CF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2005-06-07"
-last_updated: "2006-06-10"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2006-06-10 iki 2006-12-31
+Suvestinė redakcija nuo 2007-01-01 iki 2007-06-30
 
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
 
@@ -86,9 +86,17 @@ Mokesčio objektas yra:
 
 Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
-6 straipsnis. Mokesčio tarifas
+6 straipsnis. Mokesčio tarifai
 
-Mokesčio tarifas – 1 procentas nekilnojamojo turto mokestinės vertės.
+1. Mokesčio tarifas – nuo 0,3 procento iki 1 procento nekilnojamojo turto mokestinės vertės.
+
+2. Konkretų mokesčio tarifą, kuris galios atitinkamos savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, savivaldybės taryba nustato iki einamojo mokestinio laikotarpio birželio 1 dienos. Savivaldybės taryba gali nustatyti ir kelis konkrečius mokesčių tarifus, kurie diferencijuojami tik atsižvelgiant į vieną arba kelis iš šių kriterijų: nekilnojamojo turto paskirtį, jo techninės priežiūros būklę, mokesčio mokėtojų kategorijas (dydį ar teisinę formą, ar socialinę padėtį) ar nekilnojamojo turto buvimo savivaldybės teritorijoje vietą (pagal strateginio planavimo ir teritorijų planavimo dokumentuose nustatytus prioritetus).
+
+3. Jeigu savivaldybės taryba iki birželio 1 dienos nenustato konkrečių mokesčio tarifų, kitą mokestinį laikotarpį taikomi praėjusio mokestinio laikotarpio mokesčio tarifai.
+
+Straipsnio pakeitimai:
+
+Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA000X-618
 
 7 straipsnis. Mokesčio lengvatos
 
@@ -164,7 +172,11 @@ NEKILNOJAMOJO TURTO MOKESTINĖ VERTĖ
 
 1. Nekilnojamojo turto mokestine verte laikoma nekilnojamojo turto vidutinė rinkos vertė bei šio įstatymo 9 straipsnio 2 dalies 3 ir 4 punktuose nurodyto nekilnojamojo turto vertė, nustatyta atkuriamosios vertės (kaštų) metodu.
 
-2. Nekilnojamojo turto mokestine verte gali būti laikoma nekilnojamojo turto vertė, nustatyta atlikus nekilnojamojo turto individualų vertinimą. Mokesčio mokėtojai gali pateikti prašymą turto vertintojui nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus nekilnojamojo turto individualų vertinimą, jeigu nekilnojamojo turto vidutinė rinkos vertė, nustatyta atliekant masinį nekilnojamojo turto vertinimą, arba šio įstatymo 9 straipsnio 2 dalies 3 ir 4 punktuose nurodyto nekilnojamojo turto vertė, nustatyta atkuriamosios vertės (kaštų) metodu, skiriasi nuo nekilnojamojo turto vertės, nustatytos atliekant individualų vertinimą, daugiau kaip 20 procentų.
+2. Nekilnojamojo turto mokestine verte gali būti laikoma nekilnojamojo turto vertė, nustatyta atlikus nekilnojamojo turto individualų vertinimą pagal Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymą, jeigu individualus vertinimas, nepaisant to, kokiam vertinimo atvejui buvo parengta vertinimo ataskaita, buvo atliktas taikant nekilnojamajam turtui šio įstatymo 9 straipsnio 2 dalyje nurodytus vertės nustatymo metodus ir šioje vertinimo ataskaitoje nustatyta rinkos vertė atitinka panašaus turto vidutinę rinkos kainą, šioje ataskaitoje nurodytos sąlygos leidžia ją naudoti mokestinei vertei patikslinti, o vertinimo data įeina į šio įstatymo 10 straipsnio 1 dalyje nurodytą prašymų pateikimo laikotarpį. Mokesčio mokėtojai gali pateikti prašymą turto vertintojui nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus nekilnojamojo turto individualų vertinimą, jeigu nekilnojamojo turto vidutinė rinkos vertė, nustatyta atliekant masinį nekilnojamojo turto vertinimą, arba šio įstatymo 9 straipsnio 2 dalies 3 ir 4 punktuose nurodyto nekilnojamojo turto vertė, nustatyta atkuriamosios vertės (kaštų) metodu, skiriasi nuo nekilnojamojo turto vertės, nustatytos atliekant individualų vertinimą, daugiau kaip 10 procentų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA000X-618
 
 9 straipsnis. Nekilnojamojo turto vertinimas
 
