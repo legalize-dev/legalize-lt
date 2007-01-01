@@ -4,7 +4,7 @@ identifier: "TAR.CCA48EFA01D1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-15"
-last_updated: "2000-06-28"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CCA48EFA01D1"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo
 
-Suvestinė redakcija nuo 2000-06-28 iki 2006-12-31
+Suvestinė redakcija nuo 2007-01-01 iki 2012-04-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 50-932, i. k. 0941010ISTA000I-497
 
@@ -162,17 +162,17 @@ Plungės rajono apylinkės teismo veiklos teritorija apima Plungės rajono saviv
 
 Prienų rajono apylinkės teismo veiklos teritorija apima Prienų rajono savivaldybės teritoriją ir Birštono savivaldybės teritoriją.
 
-Šilutės rajono apylinkės teismo veiklos teritorija apima Šilutės rajono savivaldybės teritoriją ir Pagėgių savivaldybės teritoriją.
+Tauragės rajono apylinkės teismo veiklos teritorija apima Tauragės rajono savivaldybės teritoriją ir Pagėgių savivaldybės teritoriją.
 
 Apylinkių teismai steigiami savivaldybės teritorijoje, kurioje gyvena ne mažiau kaip 30 tūkstančių gyventojų, jei savivaldybės centre nėra įsteigtas teismas, kurio veiklos teritorija atitinka savivaldybės teritoriją.
-
-TAR  pastaba. 7 straipsnio 14 dalis įsigalioja 2003-01-01.
 
 Straipsnio pakeitimai:
 
 Nr. I-688, 1994-12-08, Žin., 1994, Nr. 96-1881 (1994-12-14), i. k. 0941010ISTA000I-688
 
 Nr. VIII-1719, 2000-06-08, Žin., 2000, Nr. 52-1480 (2000-06-28), i. k. 1001010ISTAIII-1719
+
+Nr. X-868, 2006-10-19, Žin., 2006, Nr. 118-4454 (2006-11-04), i. k. 1061010ISTA000X-868
 
 8 straipsnis
 
@@ -223,4 +223,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1719, 2000-06-08, Žin., 2000, Nr. 52-1480 (2000-06-28), i. k. 1001010ISTAIII-1719
 
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 6, 7 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-868, 2006-10-19, Žin., 2006, Nr. 118-4454 (2006-11-04), i. k. 1061010ISTA000X-868
+
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 7 straipsnio pakeitimo įstatymas
 
