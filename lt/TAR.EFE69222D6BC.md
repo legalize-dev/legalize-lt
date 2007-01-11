@@ -4,7 +4,7 @@ identifier: "TAR.EFE69222D6BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-28"
-last_updated: "2001-07-18"
+last_updated: "2007-01-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EFE69222D6BC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos geodezijos ir kartografijos įstatymas
+
+Suvestinė redakcija nuo 2007-01-11 iki 2010-05-10
+
+Įstatymas paskelbtas: Žin. 2001, Nr. 62-2226, i. k. 1011010ISTA00IX-415
 
 LIETUVOS RESPUBLIKOS GEODEZIJOS IR KARTOGRAFIJOS ĮSTATYMAS
 
@@ -28,7 +32,11 @@ Bendrosios nuostatos
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato geodezinių, topografinių, kartografavimo darbų valdymą, geografinių informacinių sistemų duomenų bazių sudarymo principus ir jų integralumą, geodezinio pagrindo, kartografinės medžiagos nuosavybės teises, valstybės ir savivaldybių institucijų bei įmonių, kurių veikla susijusi su kartografavimu, geodeziniais matavimais, šių duomenų kaupimu, apskaita ar jų panaudojimu, pagrindines teises bei pareigas geodezijos ir kartografijos srityje.
+Šis įstatymas nustato geodezinių, topografinių, kartografavimo darbų valdymą, geografinių informacinių sistemų duomenų bazių sudarymo principus ir jų integralumą, geodezinio pagrindo, kartografinės medžiagos nuosavybės teises, valstybės ir savivaldybių institucijų, taip pat fizinių ir juridinių asmenų bei Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusių įmonių, kurių veikla Lietuvos Respublikoje susijusi su kartografavimu, geodeziniais matavimais, šių duomenų kaupimu, apskaita ar jų panaudojimu, pagrindines teises bei pareigas geodezijos ir kartografijos srityje.
+
+Straipsnio pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -124,11 +132,15 @@ Geodezinė ir kartografinė veikla apima:
 
 5) georeferencinių duomenų bazių kūrimą ir palaikymą;
 
-6) geografinių informacinių sistemų duomenų bazių kūrimą ir palaikymą.
+6) geografinių informacinių sistemų duomenų bazių kūrimą ir palaikymą;
 
 4 straipsnis. Teisės aktai, reglamentuojantys geodezinę ir kartografinę veiklą
 
-Geodezinę ir kartografinę veiklą reglamentuoja šis įstatymas, Apskrities valdymo, Vietos savivaldos, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų, Valstybės sienos ir jos apsaugos, Archyvų, Metrologijos, Statybos, Teritorijų planavimo, Valstybės registrų, Žemės, Valstybės ir tarnybos paslapčių, Autorių teisių ir gretutinių teisių, Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo, Įmonių, kiti įstatymai, Lietuvos Respublikos tarptautinės sutartys, Vyriausybės nutarimai ir kiti teisės aktai.
+Geodezinę ir kartografinę veiklą reglamentuoja šis įstatymas, Apskrities valdymo, Vietos savivaldos, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų, Valstybės sienos ir jos apsaugos, Archyvų, Metrologijos, Statybos, Teritorijų planavimo, Valstybės registrų, Žemės, Valstybės ir tarnybos paslapčių, Autorių teisių ir gretutinių teisių, Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo, Nekilnojamojo turto kadastro, kiti įstatymai, Lietuvos Respublikos tarptautinės sutartys, Vyriausybės nutarimai ir kiti teisės aktai.
+
+Straipsnio pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 5 straipsnis. Geodezinės ir kartografinės veiklos objektai
 
@@ -216,7 +228,11 @@ Vyriausybė:
 
 11 straipsnis. Apskrities viršininko ir savivaldybių vykdomųjų institucijų kompetencija geodezijos ir topografijos srityje
 
-1. Atlikdamas savivaldybių teritorijų planavimo valstybinę priežiūrą, apskrities viršininkas įgaliotos institucijos nustatyta tvarka prižiūri savivaldybių geodezijos, topografijos, geoinformatikos darbus.
+1. Atlikdamas savivaldybių teritorijų planavimo valstybinę priežiūrą, apskrities viršininkas Vyriausybės įgaliotos institucijos nustatyta tvarka prižiūri geodezijos, topografijos, geoinformatikos darbus, tikrina žemės sklypų kadastro duomenų nustatymą ir organizuoja nekilnojamųjų daiktų kadastrinių matavimų valstybinę ekspertizę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 2. Savivaldybių vykdomųjų institucijų kompetencija geodezijos ir topografijos srityje:
 
@@ -308,7 +324,11 @@ Savivaldybių geodeziniai ir topografiniai darbai yra šie:
 
 16 straipsnis. Geodezinės, topografinės ir kartografinės veiklos valdymas
 
-1. Geodezinę, topografinę ir kartografinę veiklą valdo Vyriausybė per įgaliotą instituciją, per jos santykius su ministerijomis, apskričių viršininkais, kitomis valstybės įstaigomis, savivaldyvių vykdomosiomis institucijomis, įmonėmis, įstaigomis ir organizacijomis, kurių veiklos sritį reglamentuoja šis įstatymas.
+1. Geodezinę, topografinę ir kartografinę veiklą valdo Vyriausybė per įgaliotą instituciją, per jos santykius su ministerijomis, apskričių viršininkais, kitomis valstybės įstaigomis, savivaldybių vykdomosiomis institucijomis, fizinius ir juridinius asmenis bei Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusias įmones, kurių veiklos sritį reglamentuoja šis įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 2. Geodeziniai ir kartografiniai darbai, skirti topografiniams ir kitiems oficialiems žemėlapiams, planams, georeferencinių duomenų bazėms sudaryti, atliekami pagal suderintas su įgaliota institucija darbų programas.
 
@@ -322,7 +342,11 @@ valstybinės priežiūros ir kontrolės uždaviniai yra šie:
 
 1) užtikrinti valstybės kadastrų, registrų, klasifikatorių, kitų duomenų bazių ir žemėlapių suderinamumą, galimybę mažiausiomis sąnaudomis keistis informacija arba ją papildyti, išvengti darbų dubliavimo ir netinkamos kokybės informacijos kaupimo atliekant geodezinius, topografinius ir kartografinius darbus, tvarkant jų apskaitą ir vykdant kontrolę;
 
-2) kontroliuoti, kad įmonės, įstaigos, atlikdamos Lietuvos Respublikos teritorijos geodezinius, topografinius ir kartografinius darbus, nepažeistų licencijuojamos veiklos sąlygų.
+2) kontroliuoti, kad fiziniai ir juridiniai asmenys bei įmonės, atlikdami Lietuvos Respublikos teritorijos geodezinius, topografinius ir kartografinius darbus, nepažeistų licencijuojamos veiklos sąlygų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 18 straipsnis. Valstybinių geodezinių, topografinių ir kartografinių darbų valstybinė priežiūros, kokybės kontrolė
 
@@ -354,7 +378,11 @@ Atliekant geodezinius, topografinius ir kartografinius darbus, būtina:
 
 20 straipsnis. Geodezinių, topografinių ir kartografinių darbų licencijavimas, leidimai
 
-1. Geodezinių, topografinių ir kartografinių darbų licencijavimo taisykles tvirtina Vyriausybė.
+1. Geodezinių, topografinių ir kartografinių darbų licencijavimo, matininkų ir matininkų ekspertų kvalifikacinių pažymėjimų galiojimo, sustabdymo, panaikinimo ir apskaitos taisykles tvirtina Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 2. Licencijuojami geodeziniai darbai:
 
@@ -394,19 +422,51 @@ Atliekant geodezinius, topografinius ir kartografinius darbus, būtina:
 
 9) komercinio pobūdžio teminis kartografavimas.
 
-4. Licencijas atlikti geodezinius, topografinius ir kartografinius darbus išduoda įgaliota institucija, vadovaudamasi šiuo įstatymu, Įmonių įstatymu bei Vyriausybės patvirtintomis licencijavimo taisyklėmis.
+5. Licencijos turėtojas turi teisę atlikti licencijoje nurodytus darbus ir atsako už darbų kokybę.
 
-5. Leidimus atlikti Lietuvos Respublikos teritorijos, ekonominės zonos bei kontinentinio šelfo Baltijos jūroje aerofotografavimo darbus Vyriausybės arba įgaliotos institucijos nustatyta tvarka išduoda įgaliota institucija, suderinusi su Civilinės aviacijos direkcija ir Krašto apsaugos ministerija.
+Papildyta straipsnio dalimi:
 
-6. Leidimus atlikti geodezinius, topografinius ir kartografinius darbus pasienio zonoje, rizikos objektuose, draudžiamose zonose, kariniuose poligonuose Vyriausybės įgaliotos institucijos nustatyta tvarka išduoda institucijos, kurioms priskirti šie objektai, suderinusios su įgaliota institucija.
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
-7. Leidimai dirbti ar susipažinti su valstybės paslaptį sudarančia geodezine ir kartografine medžiaga išduodami Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
+6. Licencijos turėtojas privalo laikytis Lietuvos Respublikos įstatymų, kitų teisės aktų, reglamentų, standartų ir licencijuojamos veiklos sąlygų, patvirtintų Vyriausybės ar jos įgaliotos institucijos.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+
+7. Licencijas atlikti geodezinius, topografinius ir kartografinius darbus išduoda įgaliota institucija, vadovaudamasi šiuo įstatymu bei Vyriausybės patvirtintomis licencijavimo taisyklėmis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+
+8. Leidimus atlikti Lietuvos Respublikos teritorijos, ekonominės zonos bei kontinentinio šelfo Baltijos jūroje aerofotografavimo darbus Vyriausybės arba įgaliotos institucijos nustatyta tvarka išduoda įgaliota institucija, suderinusi su Civilinės aviacijos direkcija ir Krašto apsaugos ministerija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+
+9. Leidimus atlikti geodezinius, topografinius ir kartografinius darbus pasienio zonoje, rizikos objektuose, draudžiamose zonose, kariniuose poligonuose Vyriausybės įgaliotos institucijos nustatyta tvarka išduoda institucijos, kurioms priskirti šie objektai, suderinusios su įgaliota institucija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+
+10. Leidimai dirbti ar susipažinti su valstybės paslaptį sudarančia geodezine ir kartografine medžiaga išduodami Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 21 straipsnis. Geodezinių, kartografinių, fotogrametrinių prietaisų patikra
 
 1. Įgaliota institucija organizuoja, koordinuoja ir kontroliuoja geodezinių, kartografinių ir fotogrametrinių prietaisų patikrą ir įteisinimą.
 
-2. Licencijuotos įmonės, atliekančios geodezinius, topografinius ir kartografinius darbus, turi periodiškai organizuoti ir atlikti techninės įrangos, geodezinių, kartografinių ir fotogrametrinių prietaisų metrologinę patikrą ar kalibravimą pagal techninių reglamentų ir normatyvų reikalavimus.
+2. Licencijuoti asmenys, atliekantys geodezinius, topografinius ir kartografinius darbus, turi periodiškai organizuoti ir atlikti techninės įrangos, geodezinių, kartografinių ir fotogrametrinių prietaisų kalibravimą pagal techninių reglamentų ir normatyvų reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 3. Prietaisų patikra ir įteisinimas atliekami vadovaujantis Metrologijos įstatymu, kitais teisės aktais.
 
@@ -532,7 +592,11 @@ VIII skyrius
 
 2. Kartografinė duomenų bazė kuriama pagal įgaliotos institucijos nustatytą bendrąją geoduomenų kodavimo sistemą ir duomenų kaupimo metodiką.
 
-3. Konkretaus mastelio kartografinių duomenų bazės turinį, sutartinius ženklus, elementų kodus, atributus nustato įgaliotos institucijos patvirtinti techniniai reglamentai. Jų reikalavimai privalomi visoms Lietuvos Respublikos įmonėms, įstaigoms ir organizacijoms.
+3. Konkretaus mastelio kartografinių duomenų bazės turinį, sutartinius ženklus, elementų kodus, atributus nustato įgaliotos institucijos patvirtinti techniniai reglamentai. Jų reikalavimai privalomi visiems Lietuvos Respublikoje veikiantiems fiziniams ir juridiniams asmenims bei įmonėms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 4. Gynybos tikslams skirtos kartografinių duomenų bazės sudaromos pagal NATO standartinę kodavimo sistemą bei struktūrą ir naudojamos specialiesiems žemėlapiams sudaryti, vietovei įvertinti bei kitiems gynybos uždaviniams spręsti.
 
@@ -596,7 +660,11 @@ Inžinerinių tinklų duomenų bazė sudaroma informacinių sistemų principais 
 
 35 straipsnis. Geodezinės, topografinės ir kartografinės medžiagos naudojimo tvarka
 
-1. Geodezinė, topografinė ir kartografinė medžiaga bei georeferenciniai duomenys yra vieši ir prieinami visiems fiziniams ir juridiniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių.
+1. Geodezinė, topografinė ir kartografinė medžiaga bei georeferenciniai duomenys yra vieši ir prieinami visiems fiziniams ir juridiniams asmenims bei Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusioms įmonėms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 2. Įgaliota institucija ir savivaldybių vykdomosios institucijos teikia vartotojams geodezinę, topografinę ir kartografinę medžiagą bei georeferencinius duomenis įgaliotos institucijos ir savivaldybių vykdomųjų institucijų nustatyta tvarka. Rinkliava už pateiktą medžiagą bei duomenis imama įstatymų nustatyta tvarka.
 
@@ -610,19 +678,23 @@ Inžinerinių tinklų duomenų bazė sudaroma informacinių sistemų principais 
 
 5. Kartografinė medžiaga bei duomenys, susiję su valstybės paslaptį sudarančia informacija, perduodami vartotojams vadovaujantis Valstybės ir tarnybos paslapčių įstatymu.
 
-X skyrius
+IX skyrius
 
-geodezinius, topografinius ir kartografinius darbus  ATLIEKANČIŲ įmonių teisės ir pareigos  bei ginčų sprendimas
+GEODEZINIUS, TOPOGRAFINIUS IR KARTOGRAFINIUS DARBUS LIETUVOS RESPUBLIKOJE ATLIEKANČIŲ ASMENŲ BEI ĮMONIŲ TEISĖS IR PAREIGOS BEI GINČŲ SPRENDIMAS
 
-36 straipsnis. Geodezinius, topografinius ir kartografinius darbus atliekančių įmonių teisės ir pareigos
+Pakeistas skyriaus pavadinimas:
 
-1. Įmonės, atliekančios geodezinius, topografinius ir kartografinius darbus, suderinusios su įgaliotomis institucijomis, žemės savininkais ir naudotojais, turi teisę:
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+
+36 straipsnis. Geodezinius, topografinius ir kartografinius darbus Lietuvos Respublikoje atliekančių fizinių ir juridinių asmenų bei Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusių įmonių teisės ir pareigos
+
+1. Fiziniai ir juridiniai asmenys bei Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusios įmonės, Lietuvos Respublikoje atliekantys geodezinius, topografinius ir kartografinius darbus, suderinę su įgaliotomis institucijomis, žemės savininkais ir naudotojais, turi teisę:
 
 1) įeiti į žemės sklypus ar statybvietes ir atlikti būtinus matavimus;
 
 2) įrengti geodezinius ženklus bei juos apsaugančią įrangą.
 
-2. Įmonės privalo:
+2. Lietuvos Respublikoje veikiantys fiziniai ir juridiniai asmenys bei Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusios įmonės privalo:
 
 1) palaikyti tvarkingą geodezinių punktų aplinką, atstatyti aptvaras, atkurti apkasas ir savivaldybių vykdomajai institucijai teikti informaciją apie geodezinių ženklų būklę;
 
@@ -632,25 +704,67 @@ geodezinius, topografinius ir kartografinius darbus  ATLIEKANČIŲ įmonių teis
 
 3. Šio straipsnio 1 dalies nuostatos netaikomos užsienio valstybių diplomatinių atstovybių, atstovybių prie tarptautinių organizacijų, konsulinių įstaigų ir uždarose Krašto apsaugos bei Vidaus reikalų ministerijų padalinių teritorijose.
 
-37 straipsnis. Ginčų sprendimas
+Straipsnio pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+
+37 straipsnis. Ginčų sprendimas ir žalos atlyginimas
 
 1. Ginčai dėl geodezinių, topografinių, kartografinių darbų, jų valstybinės priežiūros, geodezinės ir kartografinės medžiagos naudojimo, geodezinių ženklų apsaugos sprendžiami įstatymų nustatyta tvarka.
 
-2. Ginčai tarp Lietuvos Respublikos ir užsienio valstybių juridinių ir fizinių asmenų bei įmonių, neturinčių juridinio asmens teisių, sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka, jeigu Lietuvos Respublikos tarptautinėse sutartyse nenumatyta kitaip.
+2. Ginčai tarp Lietuvos Respublikos ir užsienio valstybių fizinių ir juridinių asmenų bei įmonių sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka, jeigu Lietuvos Respublikos tarptautinėse sutartyse nenumatyta kitaip.
+
+3. Juridiniai asmenys ir Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusios įmonės, atliekantys geodezinius, topografinius, kartografinius darbus ir nustatantys nekilnojamųjų daiktų kadastro duomenis Lietuvos Respublikoje, įstatymų nustatyta tvarka privalo atlyginti žalą.
+
+TAR pastaba. 37 straipsnio 3 dalis įsigalioja po 9 mėnesių nuo įstatymo Nr. X-1008 įsigaliojimo (2007-01-11).
+
+4. Licencijuoti asmenys, nustatantys nekilnojamųjų daiktų kadastro duomenis Lietuvos Respublikoje, savo civilinę atsakomybę už nustatant nekilnojamųjų daiktų kadastro duomenis kitiems asmenims padarytą žalą privalo apdrausti privalomuoju draudimu.
+
+5. Privalomojo draudimo objektas yra apdraustojo civilinė atsakomybė už žalą asmenims, padarytą nustatant nekilnojamųjų daiktų kadastro duomenis, kuri atsirado draudimo sutarties galiojimo metu ir šalių nustatytu laikotarpiu, ne trumpesniu negu 5 metų nuo draudiminio įvykio datos.
+
+6. Draudiminiu įvykiu laikomi draudimo sutarties galiojimo metu atlikti apdraustojo ar jo darbuotojų neteisėti veiksmai (veikimas, neveikimas), kurie yra pagrindas žalai atsirasti.
+
+7. Minimali draudimo suma – 100 000 litų vienam draudiminiam įvykiui ir visam draudimo sutarties galiojimo laikotarpiui.
+
+8. Matininkai ar matininkai ekspertai gali patys papildomai draustis civilinės atsakomybės draudimu už nustatant nekilnojamųjų daiktų kadastro duomenis kitiems asmenims padarytą žalą.
+
+9. Licencijuoto asmens civilinės atsakomybės už nustatant nekilnojamųjų daiktų kadastro duomenis kitiems asmenims padarytą žalą privalomojo draudimo taisykles tvirtina Vyriausybės įgaliota institucija.
+
+Straipsnio pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 38 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
-Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisių, pažeidusios šio įstatymo reikalavimus, traukiamos atsakomybėn pagal Lietuvos Respublikos įstatymus.
+Fiziniai ir juridiniai asmenys bei Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusios įmonės, pažeidę šio įstatymo reikalavimus, traukiami atsakomybėn pagal Lietuvos Respublikos įstatymus.
+
+Straipsnio pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 X skyrius
 
 Tarptautinės sutartys
 
-39 straipsnis. Užsienio valstybių juridinių ir fizinių asmenų bei įmonių, neturinčių juridinio asmens teisių, teisės atlikti geodezinius ir kartografinius darbus Lietuvos Respublikoje
+39 straipsnis. Fizinių ir juridinių asmenų bei Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusių įmonių teisės atlikti geodezinius ir kartografinius darbus Lietuvos Respublikoje
 
-Užsienio valstybių juridiniams ir fiziniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, suteikiama teisė atlikti geodezinius, topografinius ir kartografinius darbus Lietuvos Respublikos tarptautinių sutarčių pagrindu, remiantis šiuo ir kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais.
+Fiziniams ir juridiniams asmenims bei Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusioms įmonėms suteikiama teisė atlikti geodezinius, topografinius ir kartografinius darbus Lietuvos Respublikos tarptautinių sutarčių pagrindu, remiantis šiuo ir kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais.
+
+Straipsnio pakeitimai:
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+
+Lietuvos Respublikos geodezijos ir kartografijos įstatymo 1, 3, 4, 6, 10, 11, 16, 17, 20, 21, 30, 35, 36, 37, 38, 39 straipsnių pakeitimo bei papildymo ir IX skyriaus pavadinimo pakeitimo įstatymas
 
