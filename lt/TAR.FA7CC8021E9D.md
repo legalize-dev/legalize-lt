@@ -4,7 +4,7 @@ identifier: "TAR.FA7CC8021E9D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-30"
-last_updated: "2005-01-01"
+last_updated: "2007-01-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA7CC8021E9D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2007-01-10
+Suvestinė redakcija nuo 2007-01-11 iki 2007-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 66-1609, i. k. 0971010ISTAVIII-342
 
@@ -233,11 +233,17 @@ g) paimti priverstiniams darbams už Lietuvos ribų, taip pat kartu su jais buv�
 
 h) asmenys, nukentėję ar persekioti už okupacinių režimų persekiojamų nepilnamečių asmenų gelbėjimą ir globą,
 
-i) kurie būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje metu atliko tarnybą Afganistane.
+i) kurie būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje metu atliko tarnybą Afganistane,
 
 Papildyta papunkčiu:
 
 Nr. IX-2384, 2004-07-15, Žin., 2004, Nr. 116-4331 (2004-07-27), i. k. 1041010ISTA0IX-2384
+
+j) asmenys, kurie dalyvavo likviduojant Černobylio atominės elektrinės avarijos padarinius bei statant Slavutičiaus miestą Ukrainoje.
+
+Papildyta papunkčiu:
+
+Nr. X-1005, 2006-12-21, Žin., 2007, Nr. 4-157 (2007-01-11), i. k. 1061010ISTA00X-1005
 
 2. Šio straipsnio 1 dalyje išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas.
 
@@ -269,7 +275,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. VIII-1522, 2000-01-04, Žin., 2000, Nr. 5-129 (2000-01-19), i. k. 1001010ISTAIII-1522
 
-3. Asmenų, nurodytų šio įstatymo 7 straipsnio 1 dalies 8 punkto i papunktyje, teisinio statuso pripažinimą, pažymėjimų išdavimą bei jų apskaitą Vyriausybės nustatyta tvarka atlieka Krašto apsaugos ministerija.
+3. Neteko galios nuo 2007-01-11
+
+Straipsnio dalies naikinimas:
+
+Nr. X-1005, 2006-12-21, Žin. 2007, Nr. 4-157 (2007-01-11), i. k. 1061010ISTA00X-1005
 
 Papildyta straipsnio dalimi:
 
@@ -296,6 +306,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2384, 2004-07-15, Žin., 2004, Nr. 116-4331 (2004-07-27), i. k. 1041010ISTA0IX-2384
 
 Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 7 ir 9 straipsnių papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1005, 2006-12-21, Žin., 2007, Nr. 4-157 (2007-01-11), i. k. 1061010ISTA00X-1005
+
+Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 7 straipsnio papildymo ir 9 straipsnio pakeitimo įstatymas
 
 51 straipsnis. Perkeltieji asmenys
 
