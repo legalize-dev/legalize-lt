@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2006-06-08"
+last_updated: "2007-01-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -51,9 +51,7 @@ IX-1518,
 
 2003-04-22, Žin., 2003, Nr. 42-1919 (2003-05-01)
 
-PIRMASIS
-
-SKIRSNIS
+PIRMASIS SKIRSNIS
 
 BENDROSIOS NUOSTATOS
 
@@ -71,7 +69,9 @@ pareigas, tarnybos eigą, skatinimo bei tarnybinės atsakomybės sąlygas,
 
 socialines garantijas, asmens apsaugos priemonių tvarkymo ir naudojimo sąlygas.
 
-ANTRASIS SKIRSNIS
+ANTRASIS
+
+SKIRSNIS
 
 PROKURATŪROS STATUSAS, sandara, FUNKCIJOS
 
@@ -343,6 +343,82 @@ prokuratūros statistinius duomenis;
 
 funkcijas.
 
+9
+
+straipsnis. Teritorinės prokuratūros
+
+ir jų funkcijos
+
+1. Teritorines prokuratūras steigia, reorganizuoja ir
+
+likviduoja, jų statusą, struktūrą, kompetenciją ir veiklos teritorijas,
+
+atsižvelgdamas į įstatymų nustatytas apygardų ir apylinkių teismų veiklos
+
+teritorijas, nustato generalinis prokuroras.
+
+2. Teritorinei prokuratūrai vadovauja teritorinės prokuratūros
+
+vyriausiasis prokuroras.
+
+3. Apygardų prokuratūros pagal kompetenciją:
+
+1) organizuoja ikiteisminį tyrimą ir jam vadovauja;
+
+2) atlieka ikiteisminį tyrimą;
+
+3) kontroliuoja ikiteisminio tyrimo pareigūnų veiklą baudžiamajame
+
+procese;
+
+4) palaiko valstybinį kaltinimą baudžiamosiose bylose;
+
+5) dalyvauja apeliacine tvarka nagrinėjant baudžiamąsias bylas;
+
+6) kontroliuoja nuosprendžių pateikimą vykdyti ir jų vykdymą;
+
+7) koordinuoja ikiteisminio tyrimo įstaigų veiksmus tiriant
+
+nusikalstamas veikas;
+
+8) gina viešąjį interesą;
+
+9) įstatymų ir tarptautinių sutarčių nustatytais pagrindais ir tvarka
+
+užsienio valstybių įstaigoms ir tarptautinėms institucijomis rengia ir vykdo jų
+
+teisinės pagalbos prašymus;
+
+10) atlieka kitas prokuratūros funkcijas.
+
+4. Apylinkių prokuratūros pagal kompetenciją:
+
+1) organizuoja ikiteisminį tyrimą ir jam vadovauja;
+
+2) atlieka ikiteisminį tyrimą;
+
+3) kontroliuoja ikiteisminio tyrimo pareigūnų veiklą baudžiamajame
+
+procese;
+
+4) palaiko valstybinį kaltinimą baudžiamosiose bylose;
+
+5) kontroliuoja nuosprendžių pateikimą vykdyti ir jų vykdymą;
+
+6) koordinuoja ikiteisminio tyrimo įstaigų veiksmus tiriant
+
+nusikalstamas veikas;
+
+7) gina viešąjį interesą;
+
+8) įstatymų ir tarptautinių sutarčių nustatytais pagrindais ir tvarka
+
+vykdo užsienio valstybių įstaigų ir tarptautinių institucijų teisinės pagalbos
+
+prašymus;
+
+9) atlieka kitas prokuratūros funkcijas.
+
 9 straipsnis.
 
 Teritorinės prokuratūros ir jų
@@ -609,7 +685,9 @@ jos arba kai dėl jo padarytos nusikalstamos veikos yra pradėtas ikiteisminis
 
 tyrimas.
 
-13 straipsnis. Prokurorų įgaliojimai Lietuvos Respublikos teritorijoje
+13 straipsnis. Prokurorų įgaliojimai Lietuvos
+
+Respublikos teritorijoje
 
 1. Atlikdami
 
@@ -626,6 +704,98 @@ prokurorai turi prokuroro įgaliojimus veikti visuose teismuose.
 prokuratūros prokurorai turi prokuroro įgaliojimus veikti teismuose pagal
 
 generalinio prokuroro ar jo pavaduotojo nustatytą kompetenciją.
+
+14
+
+straipsnis. Prokurorų pavaldumas
+
+1. Generalinio
+
+prokuroro (jo pavaduotojo), teritorinės prokuratūros vyriausiojo prokuroro (jo
+
+pavaduotojo) įsakymai, potvarkiai, nurodymai, kiti norminiai aktai, nustatantys
+
+proceso veiklos ir tarnybos organizavimo tvarką, prokurorams privalomi.
+
+2. Prokurorai
+
+apie Generalinės prokuratūros ar teritorinės prokuratūros vyriausiojo prokuroro
+
+(jo pavaduotojo) įsakymą, kitą norminį aktą, aukštesniojo prokuroro priimtą
+
+proceso sprendimą, prieštaraujančius įstatymams, privalo pranešti generaliniam
+
+prokurorui (jo pavaduotojui).
+
+3. Prokurorai,
+
+nesutikdami su generalinio prokuroro (jo pavaduotojo) įsakymu ar kitu norminiu
+
+aktu, įstatymų nustatyta tvarka gali jį apskųsti teismui.
+
+15
+
+straipsnis. Aukštesnysis prokuroras
+
+1. Aukštesniojo
+
+prokuroro statusą ir proceso veiklą nustato proceso įstatymai, šis Įstatymas ir
+
+Prokuratūros ir prokurorų kompetencijos nuostatai (toliau – Kompetencijos
+
+nuostatai).
+
+2. Prokurorui
+
+vykdant proceso įstatymus, aukštesnysis prokuroras yra:
+
+1) apylinkės
+
+prokuratūros prokurorui – apylinkės vyriausiasis prokuroras (jo pavaduotojas);
+
+2) apygardos
+
+prokuratūros prokurorui – apygardos vyriausiasis prokuroras (jo pavaduotojas);
+
+3)
+
+apylinkės vyriausiajam prokurorui (jo pavaduotojui) – apygardos vyriausiasis
+
+prokuroras (jo pavaduotojas);
+
+4)
+
+apygardos vyriausiajam prokurorui (jo pavaduotojui), Generalinės prokuratūros
+
+prokurorui – Generalinės prokuratūros departamento (skyriaus) vyriausiasis
+
+prokuroras (jo pavaduotojas);
+
+5) Generalinės
+
+prokuratūros departamento (skyriaus) vyriausiajam prokurorui (jo pavaduotojui)
+
+– generalinis prokuroras (jo pavaduotojas).
+
+3. Aukštesnysis
+
+prokuroras negali nurodyti prokurorui, kokį proceso nutarimą priimti.
+
+Prokuroras turi teisę reikalauti, kad aukštesnysis prokuroras nurodymus dėl
+
+proceso sprendimų, kurie neįforminami nutarimais, duotų raštu.
+
+4. Prokuroro
+
+priimtą proceso nutarimą gali panaikinti aukštesnysis prokuroras, priimdamas
+
+motyvuotą nutarimą.
+
+5. Proceso
+
+dalyviai, nesutikdami su aukštesniojo prokuroro priimtu proceso sprendimu, gali
+
+įstatymų nustatyta tvarka sprendimą apskųsti teismui.
 
 14 straipsnis.
 
@@ -719,9 +889,9 @@ dalyviai, nesutikdami su aukštesniojo prokuroro priimtu proceso sprendimu, gali
 
 įstatymų nustatyta tvarka sprendimą apskųsti teismui.
 
-16 straipsnis. Ikiteisminis tyrimas, valstybinis
+16 straipsnis. Ikiteisminis
 
-kaltinimas ir nuosprendžių vykdymo kontrolė
+tyrimas, valstybinis kaltinimas ir nuosprendžių vykdymo kontrolė
 
 1. Prokurorai pagal kompetenciją atlieka ir organizuoja ikiteisminį
 
@@ -765,7 +935,9 @@ suinteresuotoms valstybės institucijoms teikti su tuo susijusią informaciją i
 
 pasiūlymus.
 
-19 straipsnis. Viešojo intereso gynimas
+19 straipsnis. Viešojo
+
+intereso gynimas
 
 1. Prokurorai, nustatę asmens, visuomenės, valstybės
 
@@ -933,9 +1105,9 @@ ketvirtasIS Skirsnis
 
 Prokuratūros vadovai
 
-22
+22 straipsnis. Generalinio prokuroro, jo pavaduotojų
 
-straipsnis. Generalinio prokuroro, jo pavaduotojų skyrimo ir atleidimo tvarka
+skyrimo ir atleidimo tvarka
 
 1. Generaliniu
 
@@ -993,37 +1165,9 @@ arba jo sutikimu perkeliamas į kitą darbą;
 
 7) jam įsiteisėja apkaltinamasis teismo nuosprendis.
 
-22 straipsnis. Prokuratūros
+23 straipsnis. Generalinio
 
-pareigūnų laipsniai, apranga
-
-1. Lietuvos Respublikos
-
-prokuratūros pareigūnams, atsižvelgiant į einamas pareigas ir darbo stažą,
-
-suteikiami laipsniai.
-
-2. Prokurorai teismo
-
-procesuose vilki mantiją su ženklu - Lietuvos valstybės herbo atvaizdu.
-
-Vykdydami kitas pareigas,
-
-prokurorai dėvi aprangą su skiriamaisiais ženklais.
-
-3. Prokurorų simbolių
-
-etalonus tvirtina Respublikos Prezidentas.
-
-Laipsnių suteikimo, aprangos
-
-išdavimo ir dėvėjimo tvarką nustato Tarnybos Lietuvos Respublikos prokuratūroje
-
-statutas.
-
-23 straipsnis. Generalinio prokuroro ir jo pavaduotojų
-
-tarnybos ypatumai
+prokuroro ir jo pavaduotojų tarnybos ypatumai
 
 1. Generalinis
 
@@ -1053,7 +1197,9 @@ Penktasis skirsnis
 
 Priėmimas į tarnybą prokuratūroje
 
-24 straipsnis. Prokurorai ir prokuratūros personalas
+24 straipsnis. Prokurorai ir prokuratūros
+
+personalas
 
 1. Prokurorų tarnybos sąlygas ir tvarką nustato šis ir kiti įstatymai.
 
@@ -1077,9 +1223,9 @@ Valstybės tarnybos įstatymas.
 
 kodeksas ir kiti darbo santykius reglamentuojantys teisės aktai.
 
-25 straipsnis. Priėmimo į tarnybą prokuratūroje ir
+25 straipsnis. Priėmimo į
 
-skyrimo į prokuroro pareigas reikalavimai
+tarnybą prokuratūroje ir skyrimo į prokuroro pareigas reikalavimai
 
 1. Asmuo gali būti priimtas į tarnybą prokuratūroje ir paskirtas į
 
@@ -1133,11 +1279,9 @@ ryšiais susijusio asmens būtų tiesioginis pavaldumas;
 
 įstatymai.
 
-26
+26 straipsnis. Priėmimo į tarnybą prokuratūroje ir
 
-straipsnis. Priėmimo į tarnybą prokuratūroje ir skyrimo į prokuroro pareigas
-
-tvarka
+skyrimo į prokuroro pareigas tvarka
 
 1. Į tarnybą
 
@@ -1215,38 +1359,6 @@ IX-1912,
 
 2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
 
-26 straipsnis. Kvotos organų
-
-veiklos kontrolė
-
-1. Prokuroras baudžiamojo
-
-proceso įstatymo ir kitų įstatymų nustatyta tvarka kontroliuoja kvotą ir jai
-
-vadovauja, siekdamas, kad kvotos organai tiksliai pagal įstatymų reikalavimus
-
-imtųsi visų galimų paieškos ir procesinių veiksmų nustatyti nusikaltimą
-
-padariusį asmenį, kurio atžvilgiu prokuroras galėtų pradėti baudžiamąjį
-
-persekiojimą. Prokuroras gali pats atlikti kvotą dėl bet kokio nusikaltimo.
-
-2. Kvotai vadovaujantis
-
-prokuroras už įstatymų pažeidimus, taip pat už prokuroro nurodymų nevykdymą
-
-gali nušalinti kvotėją nuo konkretaus nusikaltimo tyrimo, reikalauti atleisti
-
-jį iš einamų pareigų ar taikyti kitą drausminę nuobaudą.
-
-3. Prokuroro reikalavimas
-
-dėl kvotėjo patraukimo drausminėn atsakomybėn turi būti išnagrinėtas ir apie
-
-priimtą sprendimą raštu pranešta prokurorui per 15 dienų nuo reikalavimo gavimo
-
-dienos.
-
 27 straipsnis. Asmens duomenys
 
 1. Generalinė prokuratūra turi teisę Asmens duomenų
@@ -1268,6 +1380,70 @@ skatinimą, tarnybines nuobaudas, tarnybinių asmens apsaugos priemonių išdavi
 ir kiti duomenys tvarkomi Generalinėje prokuratūroje saugomoje asmens byloje
 
 pagal generalinio prokuroro patvirtintas Asmens bylos tvarkymo taisykles.
+
+28
+
+straipsnis. Tarnybos prokuroru stažas
+
+1. Prokuroro tarnybos pradžia laikoma paskyrimo į
+
+prokuroro pareigas diena. Asmens, paskirto į prokuroro pareigas iki 1990 m.
+
+kovo 11 d., tarnybos pradžia laikoma jo paskyrimo į prokuroro pareigas diena.
+
+2. Tarnybos prokuroru stažą, skaičiuojamą priimant
+
+asmenį į tarnybą prokuratūroje, nustatant stažuotės ir prokuroro karjeros
+
+tvarką, sudaro:
+
+1) asmens darbo teisėju ir Lietuvos Respublikos
+
+Konstitucinio Teismo teisėju stažas;
+
+2) įskaitytas asmens teisinio pedagoginio darbo
+
+turint teisės krypties socialinių mokslų daktaro ar habilituoto daktaro laipsnį
+
+stažas;
+
+3) įskaitytas asmens tarnybos prokuroru ar darbo
+
+teisėju laikas užsienio valstybėje ar tarptautinėse institucijose.
+
+3. Tarnybos prokuroru stažą, skaičiuojamą nustatant
+
+prokurorų atostogų trukmę, sudaro:
+
+1) šio straipsnio 2 dalyje nurodytas asmens darbo
+
+stažas;
+
+2) įskaitytas kitas asmens teisinio darbo stažas.
+
+4. Asmens, kuris iki šio Įstatymo įsigaliojimo buvo paskirtas į
+
+respublikos prokuroro (jo pavaduotojo), miesto, rajono, tarprajoninės,
+
+transporto prokuratūros prokuroro (jo pavaduotojo, jo padėjėjo), prokuratūros
+
+stažuotojo, prokuratūros tardytojo (jo padėjėjo) pareigas, tarnybos
+
+prokuratūroje laikas yra įskaitomas į tarnybos prokuroru stažą.
+
+5. Asmens darbo (tarnybos) laikas, numatytas šio straipsnio 2 ir 3
+
+dalyse, į tarnybos prokuroru stažą įskaitomas generalinio prokuroro įsakymu
+
+remiantis Atrankos komisijos teikimu.
+
+6. Asmuo, nesutikdamas su Atrankos komisijos teikimu, gali jį apskųsti
+
+generaliniam prokurorui, o nesutikdamas su generalinio prokuroro įsakymu dėl
+
+stažo įskaitymo, – teismui Administracinių bylų teisenos įstatymo nustatyta
+
+tvarka.
 
 28 straipsnis.
 
@@ -1412,6 +1588,164 @@ Nr. X-417, 2005-11-22,
 Prokurorų
 
 tarnybos ypatumai
+
+31
+
+straipsnis. Prokurorų stažuotės
+
+1. Asmuo,
+
+priimtas į tarnybą prokuratūroje ir išlaikęs pretendentų į prokurorus egzaminą,
+
+pagal prokurorų stažuotės nuostatus ir generalinio prokuroro įsakymu patvirtiną
+
+individualią stažuotės programą paskiriamas stažuotis iki dvejų metų, o asmuo,
+
+atleistas nuo šio egzamino, – stažuotis iki šešių mėnesių. Prokuroro stažuotei
+
+skiriamas vadovas.
+
+2. Prokurorų
+
+stažuotės nuostatus įsakymu tvirtina generalinis prokuroras.
+
+3. Prokuroras
+
+stažuotės metu eina prokuroro pareigas ir proceso sprendimų bei nutarimų projektus
+
+privalo derinti su stažuotės vadovu.
+
+4. Pasibaigus
+
+prokuroro stažuotės terminui, jo tarnybą vertina Atestacijos komisija. Ji
+
+generaliniam prokurorui pateikia išvadą, kurioje pasiūlo:
+
+1) prokuroro
+
+tarnybą vertinti teigiamai, pasiūlyti toliau eiti pareigas ir suteikti
+
+kvalifikacinį rangą;
+
+2) prokuroro
+
+tarnybą vertinti neigiamai ir atleisti jį iš tarnybos;
+
+3) prokuroro
+
+tarnybos vertinimą atidėti ir pratęsti stažuotę vieną kartą šešiems mėnesiams.
+
+5. Atestacijos
+
+komisija, savo išvadoje siūlydama atidėti tarnybos vertinimą ir pratęsti
+
+stažuotę, gali prokurorui nustatyti individualią stažuotės programą.
+
+6. Prokuroro
+
+stažuotės laikas įskaitomas į šio Įstatymo 28 straipsnio 2 ir 3 dalyse numatytą
+
+tarnybos prokuroru stažą.
+
+32
+
+straipsnis. Prokurorų kvalifikacijos kėlimas
+
+1. Prokurorai privalo kelti
+
+kvalifikaciją pagal Generalinės prokuratūros parengtas mokymo programas.
+
+2. Prokuratūra turi sudaryti sąlygas prokurorams
+
+savarankiškai kelti kvalifikaciją.
+
+3. Mokytis į
+
+užsienį prokuratūros siuntimu išvykusiam prokurorui paliekamos jo eitos
+
+pareigos ir ne ilgiau kaip tris mėnesius mokamas jo vidutinis darbo užmokestis.
+
+4. Prokuratūros
+
+siuntimu mokęsis ilgiau kaip tris mėnesius ir per vienerius metus nuo mokymosi
+
+pabaigos atleistas iš tarnybos prokuratūroje pagal šio Įstatymo 44 straipsnio 1
+
+dalies 1–6, 9 ir 10 punktų ir 2 dalies 1–4, 6 ir 7 punktų nuostatas prokuroras
+
+privalo atlyginti dėl jo mokymosi prokuratūros turėtas išlaidas už paskutinius
+
+dvejus metus.
+
+5. Prokuratūros
+
+išlaidų sąmatoje prokurorų stažuotėms ir kvalifikacijos kėlimui turi būti
+
+numatytos lėšos, kurios sudarytų ne mažiau kaip 3 procentus prokurorų darbo
+
+užmokesčiui skirtų asignavimų.
+
+33
+
+straipsnis. Prokurorų tarnybos vertinimas
+
+1. Prokurorų
+
+tarnybą, kompetenciją, tinkamumą eiti prokuroro pareigas vertina
+
+Atestacijos komisija.
+
+2. Prokuroro
+
+tarnyba, po stažuotės įvertinta teigiamai, vėliau vertinama kas penkeri metai
+
+eilinio tarnybos vertinimo metu.
+
+3. Į vyriausiojo
+
+prokuroro pareigas skiriamam prokurorui generalinio prokuroro įsakymu skiriamas
+
+neeilinis tarnybos vertinimas. Neeilinis tarnybos vertinimas neskiriamas, jei
+
+nuo paskutinio tarnybos vertinimo nėra praėję vieneri metai.
+
+4. Nėščios
+
+prokurorės tarnyba gali būti vertinama tik jos sutikimu.
+
+5. Atestacijos
+
+komisija po eilinio ar neeilinio tarnybos vertinimo pateikia generaliniam
+
+prokurorui išvadas, kuriose pasiūlo:
+
+1) prokuroro
+
+tarnybą vertinti teigiamai ir pasiūlyti eiti tas pačias pareigas;
+
+2) prokuroro
+
+tarnybą vertinti teigiamai ir pasiūlyti jį perkelti į aukštesnes pareigas;
+
+3) prokuroro
+
+tarnybą vertinti neigiamai ir pasiūlyti jį perkelti į žemesnes pareigas;
+
+4) prokuroro
+
+tarnybą vertinti neigiamai ir pasiūlyti jį atleisti iš tarnybos.
+
+6. Atestacijos
+
+komisija siūlo generaliniam prokurorui suteikti prokurorui aukštesnį, palikti
+
+tą patį arba pažeminti kvalifikacinį rangą.
+
+7. Prokuroras Atestacijos komisijos išvadą gali apskųsti generaliniam
+
+prokurorui, o generalinio prokuroro sprendimą dėl šios išvados – teismui
+
+Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 31 straipsnis.
 
@@ -1571,7 +1905,9 @@ prokurorui, o generalinio prokuroro sprendimą dėl šios išvados – teismui
 
 Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-34 straipsnis. Prokurorų karjera
+34 straipsnis. Prokurorų
+
+karjera
 
 1.
 
@@ -1652,6 +1988,188 @@ dirbęs teisinį pedagoginį darbą.
 8. Galiojančių tarnybinių nuobaudų turintys
 
 prokurorai į aukštesnes pareigas neskiriami.
+
+35
+
+straipsnis. Prokurorų kvalifikaciniai rangai
+
+1. Prokurorams
+
+suteikiami šie kvalifikaciniai rangai, žymintys jų kvalifikaciją ar einamas
+
+pareigas:
+
+1) jaunesnysis justicijos patarėjas;
+
+2) justicijos
+
+patarėjas;
+
+3) vyresnysis
+
+justicijos patarėjas;
+
+4) vyriausiasis
+
+justicijos patarėjas;
+
+5) valstybinis
+
+justicijos patarėjas;
+
+6) vyriausiasis
+
+valstybinis justicijos patarėjas.
+
+2. Generaliniam
+
+prokurorui vyriausiojo valstybinio justicijos patarėjo kvalifikacinį rangą,
+
+generalinio prokuroro pavaduotojui valstybinio justicijos patarėjo
+
+kvalifikacinį rangą suteikia Respublikos Prezidentas, skirdamas juos į
+
+pareigas.
+
+3. Prokurorui
+
+kvalifikacinį rangą suteikia generalinis prokuroras įsakymu remdamasis
+
+Atestacijos komisijos išvadomis po jo kvalifikacijos vertinimo arba skatinimo
+
+tvarka:
+
+1) einančiam
+
+prokuroro pareigas Generalinėje prokuratūroje arba apygardos vyriausiojo
+
+prokuroro (jo pavaduotojo), apylinkės vyriausiojo prokuroro (jo pavaduotojo)
+
+pareigas – ne aukštesnį kaip vyriausiojo justicijos patarėjo kvalifikacinį
+
+rangą;
+
+2) einančiam
+
+prokuroro pareigas teritorinėje prokuratūroje – ne aukštesnį kaip vyresniojo
+
+justicijos patarėjo kvalifikacinį rangą.
+
+4. Pretendentų į
+
+prokurorus egzaminą laikiusiam prokurorui, kurio tarnyba po stažuotės įvertinta
+
+teigiamai, skiriant į pareigas suteikiamas jaunesniojo justicijos patarėjo
+
+kvalifikacinis rangas.
+
+5. Galiojančią
+
+tarnybinę nuobaudą turinčiam prokurorui aukštesnis kvalifikacinis rangas
+
+nesuteikiamas.
+
+6. Prokurorui,
+
+pakartotinai priimtam į tarnybą prokuratūroje, suteikiamas turėtas
+
+kvalifikacinis rangas, bet ne aukštesnis negu pagal pareigas nustatytasis.
+
+36
+
+straipsnis. Perkėlimas į kitas pareigas
+
+1. Prokuroras generalinio prokuroro įsakymu gali
+
+būti perkeltas į aukštesnes, lygiavertes ar žemesnes pareigas.
+
+2. Prokuroras į
+
+aukštesnes pareigas gali būti perkeltas:
+
+1) jo sutikimu;
+
+2) tarnybinio
+
+būtinumo atvejais – ne ilgiau kaip šešiems mėnesiams per trejus metus;
+
+3) pagal
+
+Atestacijos komisijos išvadą.
+
+3. Prokuroras į
+
+lygiavertes pareigas gali būti perkeltas:
+
+1) jo prašymu ar
+
+sutikimu;
+
+2) kai dėl
+
+prokuratūros darbo organizavimo pakeitimų panaikinamos jo pareigos;
+
+3) tarnybinio
+
+būtinumo atvejais – ne ilgiau kaip šešiems mėnesiams per trejus metus;
+
+4) dėl sveikatos
+
+būklės (remiantis medicinos komisijos išvada).
+
+4. Prokuroras į
+
+žemesnes pareigas gali būti perkeltas:
+
+1) jo prašymu ar
+
+sutikimu;
+
+2) kai dėl
+
+prokuratūros darbo organizavimo pakeitimų panaikinamos jo pareigos ir nėra
+
+galimybių perkelti jį į lygiavertes pareigas;
+
+3) dėl sveikatos
+
+būklės (remiantis medicinos komisijos išvada), jei nėra galimybės perkelti į
+
+lygiavertes pareigas;
+
+4) tarnybinio
+
+būtinumo atvejais – ne ilgiau kaip šešiems mėnesiams per trejus metus;
+
+5) kai yra
+
+Atestacijos komisijos išvada, konstatuojanti, kad tas prokuroras netinka eiti
+
+pareigas;
+
+6) kai jam
+
+paskirta tarnybinė nuobauda – perkėlimas į žemesnes pareigas.
+
+5. Nėščią
+
+prokurorę perkelti į kitas pareigas be jos sutikimo, išskyrus šio straipsnio 2
+
+dalies 3 punkte ir 4 dalies 5, 6 punktuose nustatytus atvejus, draudžiama.
+
+6. Prokurorą,
+
+kuris vienas augina vaiką iki trejų metų, perkelti į kitas pareigas be jo
+
+sutikimo, išskyrus šio straipsnio 2 dalies 3 punkte, 3 dalies 4 punkte ir 4
+
+dalies 3, 5, 6 punktuose nustatytus atvejus, draudžiama.
+
+7. Generalinio
+
+prokuroro įsakyme dėl prokuroro perkėlimo į kitas pareigas turi būti nurodytas
+
+perkėlimo pagrindas.
 
 35 straipsnis.
 
@@ -1854,6 +2372,284 @@ prokuroro funkcijas.
 straipsnio 1 dalyje nustatytas pavedimas yra laikinas ir negali trukti ilgiau
 
 kaip šešis mėnesius per trejus tarnybos prokuratūroje metus.
+
+38
+
+straipsnis. Prokurorų profesinė etika ir elgesys
+
+1. Prokurorai
+
+tarnybos ir ne tarnybos metu turi laikytis Prokurorų etikos kodekso. Šį kodeksą
+
+tvirtina generalinis prokuroras kolegijos patarimu.
+
+2. Prokurorų
+
+etikos kodekso pažeidimus tiria Etikos komisija. Ši komisija pateikia siūlymą
+
+dėl tarnybinės nuobaudos Prokurorų etikos kodeksą pažeidusiam prokurorui
+
+taikymo.
+
+SEPTINTASIS
+
+SKIRSNIS
+
+PROKURORŲ
+
+SKATINIMAS, TARNYBINIAI NUSIŽENGIMAI Ir ATSAKOMYBĖ
+
+39
+
+straipsnis. Prokurorų skatinimas
+
+1. Už pavyzdingą
+
+tarnybinių pareigų atlikimą ar pasižymėjimą tarnyboje prokurorai gali būti
+
+skatinami:
+
+1) padėka;
+
+2) prokuroro
+
+garbės arba kitu pasižymėjimo ženklu;
+
+3) vienkartine
+
+(iki penkių minimalių gyvenimo lygių dydžio) pinigine išmoka;
+
+4) vardine
+
+dovana (iki penkių minimalių gyvenimo lygių dydžio vertės);
+
+5) suteikiant
+
+aukštesnį kvalifikacinį rangą;
+
+6) įteikiant
+
+vardinį ginklą.
+
+2. Už ypatingus
+
+nuopelnus Lietuvos valstybei prokuroras gali būti teikiamas valstybės
+
+apdovanojimui gauti.
+
+3. Prokuroras
+
+skatinamas šio Įstatymo ir generalinio prokuroro nustatyta tvarka.
+
+4. Galiojančią
+
+tarnybinę nuobaudą turintis prokuroras neskatinamas ir neteikiamas valstybės
+
+apdovanojimui gauti.
+
+40
+
+straipsnis. Tarnybinės nuobaudos
+
+Prokurorui už
+
+įstatymų pažeidimus, tarnybinius nusižengimus arba prokuroro vardą žeminančius
+
+poelgius gali būti skiriamos šios tarnybinės nuobaudos:
+
+1) pastaba;
+
+2) papeikimas;
+
+3)
+
+kvalifikacinio rango pažeminimas;
+
+4) perkėlimas į
+
+žemesnes pareigas;
+
+5) atleidimas iš
+
+tarnybos.
+
+41
+
+straipsnis. Tarnybinės nuobaudos skyrimo tvarka
+
+1. Prokurorui
+
+tarnybinė nuobauda skiriama generalinio prokuroro įsakymu šio Įstatymo ir
+
+generalinio prokuroro nustatyta tvarka.
+
+2. Prokurorui
+
+tarnybinė nuobauda skiriama ne vėliau kaip per 15 kalendorinių dienų nuo
+
+tarnybinio patikrinimo išvados dėl prokuroro padaryto įstatymo pažeidimo,
+
+tarnybinio nusižengimo arba prokuroro vardą žeminančio poelgio pateikimo
+
+generaliniam prokurorui (jo pavaduotojui) dienos.
+
+3. Tarnybinis
+
+patikrinimas atliekamas, kai prokuroro veika turi įstatymo pažeidimo,
+
+tarnybinio nusižengimo arba prokuroro vardą žeminančio poelgio požymių, taip
+
+pat kai prokuroras nušalinamas nuo pareigų, jei panaudojo šaunamąjį ginklą arba
+
+remiantis Generalinės prokuratūros ar teritorinės prokuratūros vyriausiojo
+
+prokuroro tarnybiniu pranešimu.
+
+4. Tarnybinis
+
+patikrinimas pradedamas nedelsiant, kai gaunama generalinio prokuroro (jo
+
+pavaduotojo) rezoliucija pradėti tarnybinį patikrinimą, ir atliekamas ne ilgiau
+
+kaip 30 kalendorinių dienų šio
+
+Įstatymo ir generalinio prokuroro nustatyta tvarka.
+
+5. Prokuroras
+
+tarnybinio patikrinimo metu turi pateikti rašytinį paaiškinimą. Tarnybinė
+
+nuobauda gali būti skiriama, nors prokuroras nepateikia rašytinio paaiškinimo
+
+arba atsisako jį pateikti.
+
+6. Prokurorui
+
+tarnybinė nuobauda gali būti paskirta, jei nuo įstatymo pažeidimo, tarnybinio
+
+nusižengimo arba prokuroro vardą žeminančio poelgio padarymo dienos nepraėjo
+
+šeši mėnesiai.
+
+7. Prokurorui,
+
+kuris padarė proceso įstatymų normų pažeidimą atlikdamas savo funkcijas (tai
+
+yra: priėmė neteisėtą sprendimą, atliko neteisėtą ikiteisminio tyrimo veiksmą,
+
+per įstatymų nustatytą terminą nepriėmė būtino sprendimo ar neatliko būtino
+
+ikiteisminio tyrimo veiksmo), tarnybinė nuobauda gali būti paskirta, jei nuo
+
+pažeidimo padarymo dienos nepraėjo trisdešimt šeši mėnesiai.
+
+8. Prokuroro dėl
+
+laikino nedarbingumo ar atostogų nebūtas tarnyboje laikas į tarnybinės nuobaudos
+
+skyrimo terminą neįskaitomas.
+
+9. Už vieną
+
+įstatymo pažeidimą, tarnybinį nusižengimą arba prokuroro vardą žeminantį poelgį
+
+skiriama viena tarnybinė nuobauda.
+
+10. Jei
+
+prokuroras padarė įstatymo pažeidimą, tarnybinė nuobauda gali būti paskirta
+
+neatsižvelgiant į kitą atsakomybę.
+
+42
+
+straipsnis. Tarnybinės nuobaudos galiojimas ir apskundimas
+
+1. Prokurorui
+
+paskirta tarnybinė nuobauda galioja dvylika mėnesių.
+
+2. Tarnybinė
+
+nuobauda generalinio prokuroro įsakymu gali būti panaikinta praėjus ne mažiau
+
+kaip aštuoniems nuobaudos galiojimo mėnesiams, jei per šį laiką prokuroras
+
+pavyzdingai ėjo pareigas ar pasižymėjo tarnyboje.
+
+3. Tarnybinė
+
+nuobauda išnyksta pasibaigus jos galiojimo laikui ar ją panaikinus.
+
+4. Pasibaigus
+
+tarnybinės nuobaudos – perkėlimo į žemesnes pareigas ar kvalifikacinio rango
+
+pažeminimo galiojimo laikui, prokuroras į aukštesnes pareigas skiriamas ar
+
+aukštesnis kvalifikacinis rangas suteikiamas bendra šio Įstatymo nustatyta
+
+tvarka.
+
+5. Prokuroras įsakymą dėl tarnybinės nuobaudos
+
+paskyrimo per vieną mėnesį nuo supažindinimo su įsakymu dienos gali apskųsti
+
+teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+43
+
+straipsnis. Prokurorų nušalinimo nuo pareigų tvarka
+
+1. Prokuroras gali būti nušalintas
+
+nuo pareigų, jei tarnyboje yra neblaivus, apsvaigęs nuo narkotinių,
+
+psichotropinių ar toksinių medžiagų ar atsisako pasitikrinti sveikatą arba yra
+
+pagrindas manyti, kad jis padarė veiką, kuri turi tarnybinio nusižengimo ar
+
+nusikalstamos veikos požymių.
+
+2. Prokurorą nuo pareigų nušalina
+
+generalinis prokuroras (jo pavaduotojas) arba jų pavedimu teritorinės
+
+prokuratūros vyriausiasis prokuroras (jo pavaduotojas) įsakymu ne ilgiau kaip
+
+iki 45 dienų, o kai yra pagrindas manyti, kad prokuroras padarė nusikalstamą
+
+veiką, ir generalinis prokuroras pradėjo ikiteisminį tyrimą, – iki galutinio
+
+sprendimo baudžiamojoje byloje.
+
+3. Iš prokuroro,
+
+nušalinto nuo pareigų, nedelsiant paimami tarnybinis ginklas, šaudmenys,
+
+prokuroro pažymėjimas, prokuroro ženklas ir proceso dokumentai.
+
+4. Prokuroro nušalinimo nuo pareigų
+
+laikotarpiu darbo užmokestis jam nemokamas.
+
+5. Kai nuo
+
+pareigų nušalintas prokuroras atleidžiamas iš tarnybos, atleidimo diena laikoma
+
+paskutinė jo tarnybos iki nušalinimo nuo pareigų diena.
+
+6. Nepagrįstai
+
+nušalintas nuo pareigų prokuroras grąžinamas į eitas pareigas, už nepagrįsto
+
+nušalinimo laiką sumokamas jo negautas darbo užmokestis ir tas laikas
+
+įskaitomas į tarnybos prokuroru stažą.
+
+aštuntasis skirsnis
+
+prokuroro Atleidimas iš tarnybos
 
 38 straipsnis.
 
@@ -2241,7 +3037,9 @@ karių valstybinei pensijai gauti.
 
 Įstatyme, draudžiama.
 
-45 straipsnis. Reikalavimai atleidžiant iš tarnybos ir atleidimo tvarka
+45 straipsnis. Reikalavimai atleidžiant iš tarnybos ir
+
+atleidimo tvarka
 
 1. Prokuroras atleidžiamas iš tarnybos generalinio
 
@@ -2310,6 +3108,62 @@ paimami jo tarnybinis ginklas, šaudmenys, asmens apsaugos priemonės, prokuroro
 pažymėjimas, prokuroro ženklas, proceso dokumentai ir jam patikėtas
 
 prokuratūros turtas.
+
+46
+
+straipsnis. Prokuroro atleidimas iš tarnybos atsistatydinimo atveju
+
+1. Prokuroras
+
+turi teisę atsistatydinti prieš 14 kalendorinių dienų paduodamas generaliniam
+
+prokurorui prašymą atleisti iš tarnybos.
+
+2. Jeigu
+
+generalinis prokuroras sutinka, prokuroras iš tarnybos gali būti atleistas nuo
+
+prašymo atleisti iš tarnybos padavimo dienos praėjus 3 kalendorinėms dienoms.
+
+3. Prokuroras
+
+turi teisę atšaukti atsistatydinimą ne vėliau kaip per 3 kalendorines dienas
+
+nuo prašymo atleisti iš tarnybos padavimo dienos.
+
+4. Prokuroras, kuris atsistatydina dėl sveikatos
+
+sutrikdymo, trukdančio tinkamai atlikti prokuroro pareigas, iš tarnybos
+
+atleidžiamas nuo prašyme nurodytos dienos, bet ne vėliau kaip po 14
+
+kalendorinių dienų nuo prašyme nurodytos dienos.
+
+47
+
+straipsnis. Išeitinė išmoka
+
+1. Atleidžiant prokurorą iš tarnybos šio Įstatymo 44
+
+straipsnio 1 dalies 7 ir 8 punktuose ir 2 dalies 5 punkte nustatytais atvejais,
+
+o generalinį prokurorą (jo pavaduotoją) – šio Įstatymo 22 straipsnio 5 dalies 3
+
+punkte nustatytu atveju, jam sumokama dviejų mėnesių vidutinio jo darbo
+
+užmokesčio dydžio išeitinė išmoka.
+
+2. Šio straipsnio 1 dalyje nustatyta išeitinė išmoka
+
+atleidžiamam prokurorui, turinčiam daugiau kaip penkerių metų tarnybos
+
+prokuroru stažą, didinama pusantro karto, turinčiam daugiau kaip dešimties metų
+
+tarnybos prokuroru stažą – du kartus, turinčiam daugiau kaip penkiolika metų
+
+tarnybos prokuroru stažą – pustrečio karto, turinčiam daugiau kaip dvidešimties
+
+metų tarnybos prokuroru stažą – tris kartus.
 
 46 straipsnis.
 
@@ -2420,6 +3274,282 @@ skirsnis
 PROKURORŲ
 
 SOCIALINĖS GARANTIJOS
+
+49
+
+straipsnis. Prokurorų darbo užmokestis
+
+Prokurorų darbo užmokestį nustato Valstybės
+
+politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
+
+50
+
+straipsnis. Prokurorų atostogos
+
+1. Prokurorams
+
+suteikiamos 28 kalendorinių dienų kasmetinės mokamos atostogos.
+
+2. Prokurorams, turintiems daugiau
+
+kaip penkerių metų tarnybos prokuroru stažą, už kiekvienus paskesnius tarnybos
+
+prokuroru metus kasmetinės atostogos pailginamos 1 kalendorine diena, tačiau
+
+bendra kasmetinių mokamų atostogų trukmė negali būti ilgesnė kaip 42
+
+kalendorinės dienos.
+
+3. Prokurorams kasmetinės atostogos
+
+suteikiamos šio Įstatymo ir Darbo kodekso nustatyta tvarka.
+
+4. Prokurorams už nenormuotą darbo
+
+dieną ir generalinio prokuroro ar jo pavaduotojo įsakymu pavestų funkcijų,
+
+numatytų Baudžiamojo proceso kodekse ir kituose įstatymuose, atlikimą poilsio
+
+ar švenčių dienomis kompensuojama suteikiant iki 14 kalendorinių dienų
+
+kasmetinių papildomų mokamų atostogų. Papildomos kasmetinės atostogos
+
+suteikiamos generalinio prokuroro nustatyta tvarka.
+
+5. Generalinis
+
+prokuroras (jo pavaduotojas) tarnybinio būtinumo atvejais gali atšaukti
+
+prokurorą iš kasmetinių atostogų. Nepanaudotos atostogos prokurorui suteikiamos
+
+kitu laiku.
+
+6. Prokurorams gali būti
+
+suteikiamos šios tikslinės atostogos:
+
+1) nemokamos atostogos;
+
+2) nėštumo ir gimdymo atostogos;
+
+3) tėvystės atostogos;
+
+4) atostogos vaikui prižiūrėti, kol
+
+jam sueis treji metai;
+
+5) mokymosi atostogos;
+
+6) kvalifikacijos kėlimo atostogos;
+
+7) atostogos dėl gyvenamosios
+
+vietos pakeitimo.
+
+7. Prokuroro prašymu dėl šeiminių
+
+ar kitų svarbių priežasčių per vienerius metus gali būti suteikiamos ne
+
+ilgesnes kaip vieno mėnesio nemokamos atostogos. Nemokamų atostogų laikas įskaitomas
+
+į tarnybos prokuroru stažą.
+
+8. Nėštumo ir
+
+gimdymo atostogos, tėvystės atostogos, atostogos vaikui prižiūrėti, kol jam
+
+sueis treji metai, mokymosi atostogos suteikiamos Darbo kodekso nustatyta
+
+tvarka.
+
+9. Prokurorui,
+
+kuris po pirmo teigiamo jo tarnybos įvertinimo yra ištarnavęs dvejus metus,
+
+vieną kartą per penkerius metus generalinis prokuroras gali suteikti ne
+
+ilgesnes kaip vienerių metų kvalifikacijos kėlimo atostogas. Kvalifikacijos
+
+kėlimo atostogų metu prokurorui paliekamos eitos pareigos, tačiau darbo
+
+užmokestis jam nemokamas, o šių atostogų laikas įskaitomas į tarnybos prokuroru
+
+stažą.
+
+10. Prokurorui, keičiančiam gyvenamąją vietą dėl perkėlimo į kitas
+
+pareigas kitoje vietovėje, skiriama iki 5 kalendorinių dienų persikėlimo
+
+atostogų ir už šį laikotarpį mokamas darbo užmokestis. Jei prokuroras perkeltas
+
+į kitas pareigas dėl tarnybinio būtinumo, jo ir jo šeimos turėtos persikėlimo
+
+išlaidos kompensuojamos Vyriausybės nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-666,
+
+2006-06-08, Žin., 2006, Nr. 72-2682 (2006-06-28)
+
+51
+
+straipsnis. Prokurorų teisė į pensijas
+
+Prokurorai turi teisę Lietuvos Respublikos pareigūnų ir karių
+
+valstybinių pensijų įstatymo ir Lietuvos Respublikos valstybinių socialinio
+
+draudimo pensijų įstatymo nustatyta tvarka ir sąlygomis gauti pareigūnų ir
+
+karių valstybinę pensiją bei valstybinę socialinio draudimo pensiją.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-1028,
+
+2007-01-18, Žin., 2007, Nr. 8-315 (2007-01-19)
+
+52
+
+straipsnis. Kitos prokurorų socialinės garantijos
+
+1. Prokuroro,
+
+kuris buvo tyčia nužudytas dėl tarnybos, šeimai – vaikams (įvaikiams) iki 18
+
+metų ar gimusiems po jo mirties vaikams, sutuoktiniui, tėvui ar motinai, nedarbingiems
+
+išlaikytiniams – lygiomis dalimis per vienerius metus valstybė sumoka 120
+
+mėnesių darbo užmokesčio (toliau – MDU) dydžio išmoką.
+
+2. Prokuroras,
+
+žuvęs dėl tarnybos, laidojamas valstybės lėšomis.
+
+3. Prokurorui,
+
+kuriam buvo tyčia sutrikdyta sveikata dėl tarnybos, valstybė sumoka
+
+kompensaciją pagal Valstybinės medicininės socialinės ekspertizės komisijos
+
+nustatytą invalidumo grupę ar sveikatos sutrikdymo sunkumą:
+
+1)
+
+dėl sveikatos sutrikdymo tapusiam I grupės invalidu – 60 MDU dydžio;
+
+2) dėl sveikatos
+
+sutrikdymo tapusiam II grupės invalidu – 48 MDU dydžio;
+
+3) dėl sveikatos
+
+sutrikdymo tapusiam III grupės invalidu – 36 MDU dydžio;
+
+4) dėl sunkaus
+
+sveikatos sutrikdymo                            – 24 MDU dydžio;
+
+5) dėl nesunkaus
+
+sveikatos sutrikdymo                                    – iki 12 MDU dydžio.
+
+4. Gavusiam
+
+kompensaciją dėl sveikatos sutrikdymo prokurorui, kuris vėliau dėl to sveikatos
+
+sutrikdymo tapo invalidu, sumokamas pagal invalidumo grupę priklausančios
+
+kompensacijos ir gautos kompensacijos skirtumas.
+
+5. Prokuroro
+
+gydymo išlaidas dėl tarnyboje sutrikdytos sveikatos, taip pat išlaidas
+
+psichologo konsultacijoms po ginklo panaudojimo atlygina valstybė Vyriausybės
+
+nustatyta tvarka.
+
+6. Prokurorai
+
+įstatymų nustatyta tvarka draudžiami valstybiniu socialiniu draudimu ir
+
+privalomuoju sveikatos draudimu.
+
+7. Prokurorui,
+
+tarnybos atlikimo vietoje neturinčiam būsto, generalinio prokuroro nustatyta
+
+tvarka gali būti suteiktos tarnybinės gyvenamosios patalpos.
+
+8. Prokuroro
+
+komandiruotės išlaidos atlyginamos Vyriausybės nustatyta tvarka.
+
+9. Prokurorui,
+
+kurio materialinė būklė sunki dėl jo paties ligos, jo šeimos nario ligos ar
+
+mirties, stichinės nelaimės, turto netekimo, taip pat kitais ypatingais
+
+atvejais, gali būti skiriama iki penkių minimalių mėnesinių algų dydžio
+
+pašalpa. Pašalpa mokama iš prokuratūrai darbo užmokesčiui skirtų lėšų.
+
+53
+
+straipsnis. Prokurorų sveikatos patikrinimas
+
+1. Prokurorai
+
+turi kas penkeri metai generalinio prokuroro, sveikatos apsaugos
+
+ministro ir vidaus reikalų ministro kartu nustatyta tvarka nemokamai
+
+pasitikrinti sveikatą medicinos komisijoje.
+
+2. Generalinis
+
+prokuroras, remdamasis tarnybinio patikrinimo, Atestacijos komisijos ar Etikos
+
+komisijos išvadomis, gali nurodyti prokurorui pasitikrinti sveikatą ir pateikti
+
+medicinos komisijos išvadą dėl tinkamumo eiti prokuroro pareigas.
+
+54
+
+straipsnis. Prokuroro asmens ir jo nuosavybės apsauga
+
+1. Prokuroro
+
+asmens ir jo šeimos narių ar turto apsauga, kai dėl einamų pareigų kyla reali
+
+grėsmė jų gyvybei, sveikatai ar turtui, užtikrinama Vyriausybės ar jos
+
+įgaliotos institucijos nustatyta tvarka.
+
+2. Dėl tarnybos prokuroro
+
+patirtą turtinę žalą, kai jo ir jo šeimos turtas pagrobiamas, sugadinamas ar
+
+sunaikinamas, atlygina valstybė Vyriausybės nustatyta tvarka.
+
+DEŠIMTASIS SKIRSNIS
+
+PROKURORŲ ASMENS
+
+APSAUGOS PRIEMONĖS
 
 49 straipsnis.
 
@@ -2693,9 +3823,9 @@ PROKURORŲ ASMENS
 
 APSAUGOS PRIEMONĖS
 
-55 straipsnis. Specialiosios prokurorų asmens apsaugos
+55 straipsnis. Specialiosios
 
-priemonės
+prokurorų asmens apsaugos priemonės
 
 1. Tarnybiniai
 
@@ -2725,11 +3855,9 @@ ar asmenų turtui. Panaudojęs šaunamąjį ginklą, šaudmenis ir specialiąsia
 
 asmens apsaugos priemones, prokuroras turi:
 
-1) imtis
+1) imtis priemonių,
 
-priemonių, kad nukentėjusiam asmeniui būtų suteikta neatidėliotina medicinos
-
-pagalba;
+kad nukentėjusiam asmeniui būtų suteikta neatidėliotina medicinos pagalba;
 
 2) organizuoti
 
@@ -2739,11 +3867,9 @@ pagalba;
 
 pranešti teritorinei policijos įstaigai ir teritorinės prokuratūros vadovui.
 
-4. Prokurorui
+4. Prokurorui draudžiama
 
-draudžiama šaunamąjį ginklą, šaudmenis ir specialiąsias asmens apsaugos
-
-priemones:
+šaunamąjį ginklą, šaudmenis ir specialiąsias asmens apsaugos priemones:
 
 1) nešioti
 
@@ -2764,6 +3890,88 @@ kitiems asmenims ar sudaryti sąlygas kitiems asmenims jais pasinaudoti;
 panaudojęs šaunamąjį ginklą, šaudmenis ar specialiąsias asmens apsaugos
 
 priemones arba jas praradęs, prokuroras atsako įstatymų nustatyta tvarka.
+
+56
+
+straipsnis. Šaunamojo ginklo naudojimo tvarka
+
+1. Prokuroras
+
+gali panaudoti šaunamąjį ginklą tik tais atvejais, kai visi kiti galimi
+
+akivaizdūs būdai ir priemonės jau panaudoti arba dėl užpuolimo pobūdžio jų
+
+panaudoti nėra galimybės:
+
+1) gindamasis
+
+arba gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo
+
+gyvybei ar sveikatai užpuolimo;
+
+2) sulaikydamas
+
+asmenį, įtariamą padariusį nusikalstamą veiką ir aktyviais veiksmais vengiantį
+
+sulaikymo;
+
+3) sulaikydamas
+
+suimtą (sulaikytą) asmenį, bandantį bėgti ar pabėgusį konvojavimo metu;
+
+4) gindamas
+
+žmogų nuo puolančio gyvūno.
+
+2. Prokuroras
+
+turi teisę šaunamąjį ginklą išimti iš dėklo, parengti naudoti, taip pat iššauti
+
+į orą, jeigu pagrįstai mano, kad ginklą gali tekti panaudoti prieš žmogų ar
+
+gyvūną arba būtina duoti pavojaus signalą.
+
+vienuoliktasis SKIRSNIS
+
+Baigiamosios
+
+nuostatos
+
+57
+
+straipsnis. Prokuratūros finansavimas
+
+1. Prokuratūros veikla finansuojama iš valstybės
+
+biudžeto. Prokuratūra turi išlaidų sąmatą, o prokuratūrai skirtų asignavimų
+
+valdytojas yra generalinis prokuroras. Generalinė prokuratūra gali sudaryti
+
+atskiras teritorinių prokuratūrų išlaidų sąmatas.
+
+2. Svarstant Seime, Vyriausybėje ir kitose valstybės
+
+institucijose valstybės biudžetą ar prokuratūrai skiriamus asignavimus, prokuratūrai atstovauja generalinis
+
+prokuroras (jo pavaduotojas).
+
+3. Valstybė finansinėmis, organizacinėmis ir techninėmis
+
+priemonėmis užtikrina tinkamas prokurorų tarnybos sąlygas, prokuroro
+
+nepriklausomumo garantijas bei įstatymų nustatytas socialines garantijas.
+
+58
+
+straipsnis. Prokuratūros materialinis aprūpinimas
+
+1. Prokuratūra valstybės turtą valdo, naudoja ir juo
+
+disponuoja patikėjimo teise.
+
+2. Prokuratūra turi teisę nuomotis patalpas ir naudoti
+
+Vyriausybės nustatyta tvarka jai perduotas tarnybines gyvenamąsias patalpas.
 
 56 straipsnis.
 
@@ -2847,9 +4055,7 @@ disponuoja patikėjimo teise.
 
 Vyriausybės nustatyta tvarka jai perduotas tarnybines gyvenamąsias patalpas.
 
-59 straipsnis.
-
-Kvalifikacijos kėlimo įstaigos ir spaudos leidiniai
+59 straipsnis. Kvalifikacijos kėlimo įstaigos ir spaudos leidiniai
 
 Prokuratūra turi teisę įstatymų nustatyta tvarka steigti
 
@@ -2887,7 +4093,9 @@ vėliavų kėlimo ir naudojimo prokuratūroje tvarką pagal galiojančius teisė
 
 aktus nustato generalinis prokuroras.
 
-61 straipsnis. Prokuratūros diena
+61 straipsnis. Prokuratūros
+
+diena
 
 Prokurorų profesinė šventė yra kovo 30 diena – Prokuratūros diena.
 
@@ -2977,11 +4185,11 @@ VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO,
 
 KONSTITUCINIO TEISMO ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO
 
-SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE
+SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS
 
-STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS
+PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ
 
-KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+APSAUGOS KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 6.
 
@@ -3093,13 +4301,27 @@ PROKURATŪROS
 
 įstatymas įsigalioja nuo 2006 m. liepos 1 d.
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-1028,
+
+2007-01-18, Žin., 2007, Nr. 8-315 (2007-01-19)
+
+PROKURATŪROS
+
+ĮSTATYMO 51 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2006-07-01)
+Aušrinė Trapinskienė (2007-01-23)
 
-ausra.bodin@lrs.lt
+autrap@lrs.lt
 
