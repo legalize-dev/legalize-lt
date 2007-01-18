@@ -4,7 +4,7 @@ identifier: "TAR.B101247E0E6C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-05"
-last_updated: "2006-07-19"
+last_updated: "2007-01-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B101247E0E6C"
 department: "Lietuvos Respublikos Seimas"
@@ -901,13 +901,9 @@ nuobauda;
 
 drausminį nusižengimą taikoma drausminė nuobauda – atleidimas iš tarnybos;
 
-13) sulaukęs šio
+13) sulaukęs šio Statuto 47 straipsnyje nustatyto
 
-Statuto 47 straipsnyje nustatyto amžiaus arba ištarnavęs įstatymų nustatytą
-
-laikotarpį vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo,
-
-krašto apsaugos, prokuratūros, Kalėjimų departamento pareigūnų ir karių
+amžiaus arba ištarnavęs įstatymų nustatytą laikotarpį pareigūnų ir karių
 
 valstybinei pensijai gauti, jeigu jo tarnybos laikas nustatyta tvarka nebuvo
 
@@ -955,6 +951,12 @@ departamento autoritetą, sudaro neigiamą klaidingą visuomenės nuomonę apie
 
 Saugumo departamentą, jo pareigūnus.
 
+Straipsnio pakeitimai:
+
+Nr. X-1029,
+
+2007-01-18, Žin., 2007, Nr. 8-316 (2007-01-19)
+
 23 straipsnis.
 
 Saugumo pareigūno atleidimas iš tarnybos jam atsistatydinus
@@ -977,11 +979,11 @@ tinkamai atlikti tarnybines pareigas, jis turi būti patenkintas nuo pareigūno
 
 prašyme nurodytos dienos.
 
-3. Saugumo
+3. Saugumo pareigūnas
 
-pareigūnas turi teisę atšaukti prašymą ne vėliau kaip per 3 kalendorines dienas
+turi teisę atšaukti prašymą ne vėliau kaip per 3 kalendorines dienas nuo jo
 
-nuo jo padavimo dienos, jei nėra priimtas generalinio direktoriaus įsakymas dėl
+padavimo dienos, jei nėra priimtas generalinio direktoriaus įsakymas dėl
 
 atleidimo šiuo pagrindu.
 
@@ -989,17 +991,17 @@ atleidimo šiuo pagrindu.
 
 Reikalavimai atleidžiant iš tarnybos
 
-1. Negalima
+1. Negalima atleisti
 
-atleisti saugumo pareigūno iš tarnybos jo laikinojo nedarbingumo laikotarpiu ar
+saugumo pareigūno iš tarnybos jo laikinojo nedarbingumo laikotarpiu ar atostogų
 
-atostogų metu, išskyrus atleidimą pagal šio Statuto 22 straipsnio 1
+metu, išskyrus atleidimą pagal šio Statuto 22 straipsnio 1 dalies 1, 2,
 
-dalies 1, 2, 6, 8, 16, 18 punktus. Jei saugumo pareigūnas atleistas iš tarnybos
+6, 8, 16, 18 punktus. Jei saugumo pareigūnas atleistas iš tarnybos pažeidžiant
 
-pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar kita
+šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar kita po laikinojo
 
-po laikinojo nedarbingumo pasibaigimo tarnybos diena.
+nedarbingumo pasibaigimo tarnybos diena.
 
 2. Negalima
 
@@ -1013,11 +1015,11 @@ pareigūną iš tarnybos pagal šio Statuto 22 straipsnio 1 dalies 14 punktą ga
 
 tik įspėjus jį raštu prieš 2 mėnesius. Nėščiai moteriai (kai Saugumo
 
-departamentas ar specialios paskirties įstaiga likviduojama), moteriai ar
+departamentas ar specialios paskirties įstaiga likviduojama), moteriai ar vyrui,
 
-vyrui, vieniems auginantiems vaiką (vaikus) iki 14 metų, asmeniui, kuriam iki
+vieniems auginantiems vaiką (vaikus) iki 14 metų, asmeniui, kuriam iki teisės
 
-teisės gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, apie numatomą
+gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, apie numatomą
 
 atleidimą iš tarnybos turi būti pranešama raštu prieš 4 mėnesius. Jei saugumo
 
@@ -1185,27 +1187,27 @@ tarnybinis rangas, ne aukštesnis kaip saugumo vyresniojo konsultanto,
 
 suteikiamas vyresniesiems inspektoriams, vyresniesiems specialistams;
 
-5) pirmasis
+5) pirmasis tarnybinis
 
-tarnybinis rangas, ne aukštesnis kaip saugumo III rango patarėjo, suteikiamas
+rangas, ne aukštesnis kaip saugumo III rango patarėjo, suteikiamas poskyrių
 
-poskyrių viršininkams ir jų pavaduotojams, specialios paskirties įstaigų skyrių
+viršininkams ir jų pavaduotojams, specialios paskirties įstaigų skyrių
 
 viršininkams ir jų pavaduotojams, poskyrių viršininkams, vyriausiesiems
 
 specialistams;
 
-6) pirmasis
+6) pirmasis tarnybinis
 
-tarnybinis rangas, ne aukštesnis kaip saugumo II rango patarėjo, suteikiamas
+rangas, ne aukštesnis kaip saugumo II rango patarėjo, suteikiamas centrinio
 
-centrinio aparato savarankiškų skyrių viršininkams ir jų pavaduotojams, valdybų
+aparato savarankiškų skyrių viršininkams ir jų pavaduotojams, valdybų skyrių ir
 
-skyrių ir teritorinių įstaigų viršininkams ir jų pavaduotojams, specialios
+teritorinių įstaigų viršininkams ir jų pavaduotojams, specialios paskirties
 
-paskirties įstaigų valdybų viršininkams ir jų pavaduotojams, skyrių
+įstaigų valdybų viršininkams ir jų pavaduotojams, skyrių viršininkams ir jų
 
-viršininkams ir jų pavaduotojams;
+pavaduotojams;
 
 7) pirmasis
 
@@ -1667,11 +1669,11 @@ turėjo eidamas tarnybines pareigas.
 
 4. Darbo užmokestis
 
-nušalinimo metu nemokamas. Pripažinus, kad saugumo pareigūnas nepadarė drausminio
+nušalinimo metu nemokamas. Pripažinus, kad saugumo pareigūnas nepadarė
 
-nusižengimo, jis grąžinamas į ankstesnes pareigas ir jam išmokamas darbo
+drausminio nusižengimo, jis grąžinamas į ankstesnes pareigas ir jam išmokamas
 
-užmokestis už laikotarpį, per kurį jis nebuvo mokamas dėl nušalinimo nuo
+darbo užmokestis už laikotarpį, per kurį jis nebuvo mokamas dėl nušalinimo nuo
 
 pareigų.
 
@@ -1681,9 +1683,9 @@ AŠTUNTASIS SKIRSNIS
 
 KITOKIOS PRIEVARTOS NAUDOJIMAS
 
-39 straipsnis. Prievartos
+39 straipsnis.
 
-rūšys ir naudojimo sąlygos
+Prievartos rūšys ir naudojimo sąlygos
 
 1. Saugumo
 
@@ -1729,9 +1731,9 @@ išvardytoms sąlygoms.
 
 Statute suprantama kaip:
 
-1) bet kokio pobūdžio
+1) bet kokio
 
-fizinės jėgos bei kovinių imtynių veiksmų panaudojimas;
+pobūdžio fizinės jėgos bei kovinių imtynių veiksmų panaudojimas;
 
 2) specialiųjų
 
@@ -1807,9 +1809,9 @@ pareigūnas turi teisę panaudoti fizinę prievartą:
 
 1) gindamas save,
 
-kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi,
+kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai
 
-taip pat išlaisvindamas pagrobtus ar paimtus įkaitais asmenis;
+kėsinimosi, taip pat išlaisvindamas pagrobtus ar paimtus įkaitais asmenis;
 
 2) persekiodamas ar
 
@@ -1873,13 +1875,13 @@ kėsinimosi, taip pat išlaisvindamas pagrobtus ar paimtus įkaitais asmenis;
 
 2) persekiodamas ar
 
-sulaikydamas nusikaltimą padariusį asmenį, kuris aktyviais veiksmais vengia
+sulaikydamas nusikaltimą padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo,
 
-sulaikymo, jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai
+jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai asmuo atsisako
 
-asmuo atsisako įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą,
+įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima
 
-kuriuo galima sužaloti žmogų, jeigu kitaip jo neįmanoma nuginkluoti;
+sužaloti žmogų, jeigu kitaip jo neįmanoma nuginkluoti;
 
 3) kai kėsinamasi į
 
@@ -1963,13 +1965,9 @@ atsižvelgiant į tarnybos stažą. Į saugumo pareigūno tarnybos stažą įska
 
 departamento įstatymo 28 straipsnyje;
 
-2) tarnybos laikas, nustatytas Vidaus reikalų,
+2) tarnybos laikas, nustatytas Lietuvos Respublikos
 
-Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros,
-
-Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir
-
-karių valstybinių pensijų įstatyme.
+pareigūnų ir karių valstybinių pensijų įstatyme.
 
 2. Saugumo pareigūnams kasmetinės atostogos gali būti
 
@@ -2033,6 +2031,10 @@ X-663,
 
 2006-06-08, Žin., 2006, Nr. 74-2817 (2006-07-03)
 
+Nr. X-1029,
+
+2007-01-18, Žin., 2007, Nr. 8-316 (2007-01-19)
+
 43 straipsnis.
 
 Darbo užmokestis
@@ -2042,48 +2044,6 @@ Darbo užmokestis
 priedai už tarnybinį rangą, tarnybos stažą, kvalifikacinę kategoriją,
 
 priemokos.
-
-[Dalies redakcija iki 2007-01-01]
-
-2. Saugumo pareigūnų priedai už tarnybinį rangą:
-
-1) saugumo instruktoriui – 15 procentų minimaliosios
-
-mėnesinės algos dydžio;
-
-2) saugumo jaunesniajam konsultantui – 20 procentų
-
-minimaliosios mėnesinės algos dydžio;
-
-3) saugumo konsultantui – 30 procentų minimaliosios
-
-mėnesinės algos dydžio;
-
-4) saugumo vyresniajam konsultantui – 40 procentų
-
-minimaliosios mėnesinės algos dydžio;
-
-5) saugumo III rango patarėjui – 50 procentų minimaliosios
-
-mėnesinės algos dydžio;
-
-6) saugumo II rango patarėjui – 60 procentų minimaliosios
-
-mėnesinės algos dydžio;
-
-7) saugumo I rango patarėjui – 70 procentų minimaliosios
-
-mėnesinės algos dydžio;
-
-8) saugumo vyresniajam valstybės patarėjui – 80 procentų
-
-minimaliosios mėnesinės algos dydžio;
-
-9) saugumo vyriausiajam valstybės patarėjui – 90 procentų
-
-minimaliosios mėnesinės algos dydžio.
-
-[Dalies redakcija nuo 2007-01-01]
 
 2.
 
@@ -2155,9 +2115,9 @@ algos dydžio.
 
 stažą bei priemokos mokami Valstybės tarnybos įstatymo nustatyta tvarka.
 
-*5. Laikinojo nedarbingumo bei nėštumo ir gimdymo
+5. Laikinojo nedarbingumo bei nėštumo ir gimdymo atostogų
 
-atostogų laikotarpiu saugumo pareigūnams mokamas Vyriausybės nustatyta tvarka
+laikotarpiu saugumo pareigūnams mokamas Vyriausybės nustatyta tvarka
 
 apskaičiuotas vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam sueis
 
@@ -2165,17 +2125,17 @@ vieni metai, atostogų laikotarpiu – 70 procentų šia tvarka apskaičiuoto
 
 vidutinio jų darbo užmokesčio. Nuo 2007 m. sausio 1 d. vaiko priežiūros, kol
 
-jam sueis vieni metai, atostogų laikotarpiu saugumo pareigūnams mokama 85
+jam sueis vieni metai, atostogų laikotarpiu saugumo pareigūnams mokama 85 procentai
+
+Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų darbo užmokesčio, nuo
+
+2007 m. liepos 1 d. šios išmokos dydis nuo nėštumo ir gimdymo atostogų
+
+pabaigos, kol vaikui sukaks 6 mėnesiai, yra 100 procentų, o likusį laiką – 85
 
 procentai Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų darbo
 
-užmokesčio, nuo 2007 m. liepos 1 d. šios išmokos dydis nuo nėštumo ir gimdymo
-
-atostogų pabaigos, kol vaikui sukaks 6 mėnesiai, yra 100 procentų, o likusį
-
-laiką – 85 procentai Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų
-
-darbo užmokesčio. Saugumo pareigūnams, jeigu gimsta du ir daugiau vaikų, vaiko
+užmokesčio. Saugumo pareigūnams, jeigu gimsta du ir daugiau vaikų, vaiko
 
 priežiūros, kol jam sueis vieni metai, atostogų laikotarpiu mokamas Vyriausybės
 
@@ -2186,14 +2146,6 @@ nustatyta tvarka apskaičiuotas vidutinis jų darbo užmokestis.
 mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų tarnybinis
 
 atlyginimas, jeigu jie gyvena santuokoje su kūdikio motina.
-
-*Pastaba. Įsigaliojus įstatymui Nr. X-663, Valstybės saugumo
-
-departamento pareigūnams, esantiems vaiko priežiūros, kol jam sueis vieni
-
-metai, atostogose, apskaičiuotos sumos perskaičiuojamos vadovaujantis šio
-
-įstatymo nuostatomis ir mokamos nuo šio įstatymo nuostatų įsigaliojimo dienos.
 
 Straipsnio pakeitimai:
 
@@ -2323,9 +2275,9 @@ vidutinio darbo užmokesčio dydžio išeitinė išmoka.
 
 22 straipsnio 1 dalies 6, 13, 14 ir 18 punktuose nurodytais pagrindais
 
-atleistiems saugumo pareigūnams šio straipsnio 1 dalyje numatyta išeitinė
+atleistiems saugumo pareigūnams šio straipsnio 1 dalyje numatyta išeitinė išmoka
 
-išmoka didinama tokia tvarka: turintiems daugiau kaip 5 metų tarnybos Saugumo
+didinama tokia tvarka: turintiems daugiau kaip 5 metų tarnybos Saugumo
 
 departamente stažą – pusantro karto, turintiems daugiau kaip 10 metų – du
 
@@ -2339,9 +2291,9 @@ pareigūnams šio straipsnio 1 ir 2 dalyse nustatyta išeitinė išmoka pradedam
 
 mokėti praėjus mėnesiui nuo pareigūno atleidimo dienos ir mokama kas mėnesį
 
-lygiomis dalimis. Jos mokėjimas nutraukiamas, jei asmuo įsidarbina kitur.
+lygiomis dalimis. Jos mokėjimas nutraukiamas, jei asmuo įsidarbina kitur. Kitais
 
-Kitais atvejais išeitinė išmoka mokama atleidimo iš pareigų dieną.
+atvejais išeitinė išmoka mokama atleidimo iš pareigų dieną.
 
 47 straipsnis.
 
@@ -2505,7 +2457,23 @@ SAUGUMO DEPARTAMENTO STATUTO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Įstatymas
 
-įsigalioja nuo 2007-01-01.
+įsigalioja nuo 2007 m. sausio 1 d.
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1029,
+
+2007-01-18, Žin., 2007, Nr. 8-316 (2007-01-19)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO STATUTO 22 IR 42 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 ***
 
@@ -2513,7 +2481,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2006-08-10)
+Aušrinė Trapinskienė (2007-01-23)
 
-ausra.bodin@lrs.lt
+autrap@lrs.lt
 
