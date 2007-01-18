@@ -4,7 +4,7 @@ identifier: "TAR.48CA7D6FA983"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-20"
-last_updated: "2006-05-11"
+last_updated: "2007-01-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.48CA7D6FA983"
 department: "Lietuvos Respublikos Seimas"
@@ -36,9 +36,9 @@ SAUGUMO DEPARTAMENTO
 
 ĮSTATYMAS
 
-1994 m. sausio
+1994 m. sausio 20 d.
 
-20 d. Nr. I-380
+Nr. I-380
 
 Vilnius
 
@@ -396,15 +396,15 @@ struktūra formuojama, remiantis Saugumo departamento paskirtimi ir jam
 
 keliamais uždaviniais.
 
-Saugumo departamento
+Saugumo
 
-sistemą sudaro Saugumo departamento centrinis aparatas, teritorinės įstaigos ir
+departamento sistemą sudaro Saugumo departamento centrinis aparatas,
 
-specialios paskirties įstaigos prie Saugumo departamento. Saugumo departamento
+teritorinės įstaigos ir specialios paskirties įstaigos prie Saugumo
 
-struktūrą sudaro Saugumo departamento centrinis aparatas (su struktūriniais
+departamento. Saugumo departamento struktūrą sudaro Saugumo departamento
 
-padaliniais) bei teritorinės įstaigos.
+centrinis aparatas (su struktūriniais padaliniais) bei teritorinės įstaigos.
 
 Saugumo departamento
 
@@ -462,23 +462,23 @@ teritorinį suskirstymą, steigiamos Saugumo departamento teritorinės įstaigos
 
 12 straipsnis. Specialios paskirties įstaiga prie Saugumo departamento
 
-Saugumo departamento
+Saugumo
 
-atskiroms funkcijoms (vyriausybinių ryšių apsauga, specialios informacijos
+departamento atskiroms funkcijoms (vyriausybinių ryšių apsauga, specialios
 
-apsauga ir kitos) atlikti prie Saugumo departamento gali būti steigiamos
+informacijos apsauga ir kitos) atlikti prie Saugumo departamento gali būti
 
-specialios paskirties įstaigos. Šias įstaigas steigia, likviduoja, jų veiklos
+steigiamos specialios paskirties įstaigos. Šias įstaigas steigia, likviduoja,
 
-nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+jų veiklos nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
 
 Specialios
 
 paskirties įstaiga prie Saugumo departamento yra iš valstybės biudžeto
 
-išlaikomas viešasis juridinis asmuo. Specialios paskirties įstaiga yra jai
+išlaikomas viešasis juridinis asmuo. Specialios paskirties įstaiga yra jai skirtų
 
-skirtų asignavimų valdytoja.
+asignavimų valdytoja.
 
 Vyriausybinio
 
@@ -494,9 +494,9 @@ Vyriausybinių ryšių centras prie Valstybės saugumo departamento. Konkretų t
 
 institucijų, įstaigų, įmonių ir pareigybių, kurias užimantiems asmenims
 
-suteikiama teisė naudotis vyriausybinio ryšio paslaugomis, sąrašą tvirtina Lietuvos
+suteikiama teisė naudotis vyriausybinio ryšio paslaugomis, sąrašą tvirtina
 
-Respublikos Vyriausybė.
+Lietuvos Respublikos Vyriausybė.
 
 Straipsnio
 
@@ -678,9 +678,9 @@ departamento vadovybei. Neteisėto įsakymo vykdymas neatleidžia pareigūno nuo
 
 atsakomybės.
 
-Kiekvienas Saugumo
+Kiekvienas Saugumo departamento
 
-departamento pareigūnas asmeniškai atsako už savo veiksmus bei jų pasekmes.
+pareigūnas asmeniškai atsako už savo veiksmus bei jų pasekmes.
 
 Už įstatymų
 
@@ -710,13 +710,13 @@ IX-1043,
 
 4) naudotis
 
-policijos komisariatų areštinėmis, asmenų, įtariamų padarius Saugumo
+policijos komisariatų areštinėmis, asmenų, įtariamų padarius Saugumo departamento
 
-departamento tyrimo kompetencijai priskirtą nusikalstamą veiką, sulaikymui,
+tyrimo kompetencijai priskirtą nusikalstamą veiką, sulaikymui, taip pat
 
-taip pat prireikus savarankiškai arba su kitomis įgaliotomis institucijomis
+prireikus savarankiškai arba su kitomis įgaliotomis institucijomis juos saugoti
 
-juos saugoti ir konvojuoti;
+ir konvojuoti;
 
 5) šio Įstatymo
 
@@ -814,13 +814,11 @@ IX-1043,
 
 straipsnis. Saugumo departamento pareigūnų uniforma ir skiriamieji ženklai
 
-Saugumo
+Saugumo departamento
 
-departamento pareigūnai dėvi uniformą su Saugumo departamento skiriamaisiais
+pareigūnai dėvi uniformą su Saugumo departamento skiriamaisiais ženklais.
 
-ženklais. Uniformos ir skiriamųjų ženklų pavyzdžius tvirtina Lietuvos
-
-Respublikos Vyriausybė.
+Uniformos ir skiriamųjų ženklų pavyzdžius tvirtina Lietuvos Respublikos Vyriausybė.
 
 Straipsnio
 
@@ -956,11 +954,11 @@ PRIEMONES
 
 ginklų ir specialiųjų priemonių naudojimas
 
-Saugumo departamento
+Saugumo departamento pareigūnams
 
-pareigūnams suteikiama teisė turėti, saugoti ir panaudoti tarnybinį šaunamąjį
+suteikiama teisė turėti, saugoti ir panaudoti tarnybinį šaunamąjį ginklą bei
 
-ginklą bei specialiąsias priemones.
+specialiąsias priemones.
 
 Šaunamųjų ginklų ir
 
@@ -978,11 +976,11 @@ GARANTIJOS
 
 27 straipsnis. Saugumo departamento pareigūnų darbo užmokestis
 
-Saugumo departamento
+Saugumo
 
-pareigūnų darbo užmokestį ir jo mokėjimo tvarką nustato Saugumo departamento
+departamento pareigūnų darbo užmokestį ir jo mokėjimo tvarką nustato Saugumo
 
-statutas ir Valstybės tarnybos įstatymas.
+departamento statutas ir Valstybės tarnybos įstatymas.
 
 Straipsnio
 
@@ -990,7 +988,7 @@ pakeitimai:
 
 Nr. IX-267, 2001 04 19, Žin., 2001, Nr.
 
-39-1338 (2001 05 09), įsigalioja nuo 2001 07 01
+39-1338 (2001 05 09)
 
 Nr.
 
@@ -998,63 +996,65 @@ IX-1043,
 
 2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
 
-28 straipsnis. Saugumo
+28 straipsnis.
 
-departamento pareigūnų ištarnautas laikas
+Saugumo departamento pareigūnų ištarnautas laikas
 
-Į Saugumo departamento
+Į Saugumo
 
-pareigūno ištarnautą laiką, kuris suteikia teisę gauti Saugumo departamento
+departamento pareigūno ištarnautą laiką, kuris suteikia teisę
 
-pareigūno pensiją iki Lietuvos Respublikos vidaus reikalų, valstybės saugumo,
+gauti Saugumo departamento pareigūno pensiją,
 
-krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų įstatymo
+iki Lietuvos Respublikos pareigūnų ir karių valstybinių
 
-įsigaliojimo, įskaitoma:
+pensijų įstatymo įsigaliojimo įskaitoma:
 
-1) tarnyba Saugumo
+1) tarnyba Saugumo departamento sistemoje nuo paskyrimo į
 
-departamento sistemoje nuo paskyrimo į pareigas dienos;
+pareigas dienos;
 
-2) darbo Saugumo
+2) darbo Saugumo departamento sistemoje Darbo
 
-departamento sistemoje Darbo sutarties įstatymo pagrindais laikas, jeigu vėliau
+sutarties įstatymo pagrindais laikas, jeigu vėliau tos pareigos priskirtos
 
-tos pareigos priskirtos pareigūno statusui;
+pareigūno statusui;
 
-3) tarnyba Lietuvos Respublikos
+3) tarnyba
 
-vidaus reikalų, Krašto apsaugos ministerijų ir Lietuvos muitinės sistemose,
+Lietuvos Respublikos vidaus reikalų, Krašto apsaugos ministerijų ir Lietuvos
 
-jeigu ta tarnyba buvo organizuota statutiniais pagrindais;
+muitinės sistemose, jeigu  ta tarnyba buvo organizuota statutiniais pagrindais;
 
-4) mokymosi stacionarinėse
+4) mokymosi
 
-aukštosiose civilinėse mokymo įstaigose, taip pat stacionarinėse vidaus
+stacionarinėse aukštosiose civilinėse mokymo įstaigose, taip pat stacionarinėse
 
-reikalų, krašto apsaugos ir kitose statutiniais pagrindais veikiančiose mokymo
+vidaus reikalų, krašto apsaugos ir kitose statutiniais pagrindais veikiančiose
 
-įstaigose laikas, jeigu jas baigę asmenys iš karto paskirti į šiame straipsnyje
+mokymo įstaigose laikas, jeigu jas baigę asmenys iš karto paskirti į šiame
 
-numatytas pareigas ir jas ėjo;
+straipsnyje numatytas pareigas ir jas ėjo;
 
-5) darbo teisėjais,
+5) darbo
 
-prokurorais, jų pavaduotojais ir tardytojais laikas;
+teisėjais, prokurorais, jų pavaduotojais ir tardytojais laikas;
 
-6) tarnyba Lietuvos
+6) tarnyba
 
-Respublikos Aukščiausiosios Tarybos ar Seimo apsaugos skyriuose pareigūnais;
+Lietuvos Respublikos Aukščiausiosios Tarybos ar Seimo apsaugos skyriuose
 
-7) mokslo tiriamojo darbo
+pareigūnais;
 
-laikas mokslo tiriamojo darbo ir mokymo įstaigose;
+7) mokslo
 
-8) tarnyba užsienio šalių
+tiriamojo darbo laikas mokslo tiriamojo darbo ir mokymo įstaigose;
 
-kariuomenėje, vidaus reikalų ir specialiosiose tarnybose Lietuvos Respublikos
+8) tarnyba
 
-Vyriausybės nustatyta tvarka.
+užsienio šalių kariuomenėje, vidaus reikalų ir specialiosiose tarnybose
+
+Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 Straipsnio
 
@@ -1064,15 +1064,21 @@ Nr.I-694, 94.12.13,
 
 Žin., 1994, Nr.99-1959
 
+Nr.
+
+X-1030,
+
+2007-01-18, Žin., 2007, Nr. 8-317 (2007-01-19)
+
 29 straipsnis. Saugumo
 
 departamento pareigūnų pensijos
 
-Saugumo departamento pareigūnų
+Saugumo departamento
 
-aprūpinimo pensijomis tvarką reguliuoja atskiras atitinkamų tarnybų pareigūnų
+pareigūnų aprūpinimo pensijomis tvarką reguliuoja atskiras atitinkamų tarnybų
 
-pensinio aprūpinimo įstatymas.
+pareigūnų pensinio aprūpinimo įstatymas.
 
 30 straipsnis. Saugumo
 
@@ -1156,9 +1162,9 @@ pareigas iki atleidimo iš jų dienos.
 
 departamento pareigūnų aprūpinimas butais
 
-Saugumo departamento
+Saugumo departamento pareigūnai
 
-pareigūnai aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
+aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 Lietuvos Respublikos
 
@@ -1192,9 +1198,9 @@ pakeitimai:
 
 Nr.
 
-I-1080,
+I-1080, 95.10.31, Žin., 1995,
 
-95.10.31, Žin., 1995, Nr.92-2056 (95.11.10)
+Nr.92-2056 (95.11.10)
 
 VI. SAUGUMO
 
@@ -1280,9 +1286,9 @@ I-694,
 
 DĖL
 
-LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO ĮSTATYMO
+LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO ĮSTATYMO 28 STRAIPSNIO
 
-28 STRAIPSNIO PAKEITIMO
+PAKEITIMO
 
 2.
 
@@ -1302,19 +1308,19 @@ KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU
 
 LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU
 
-LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO
+LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ
 
-KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO IR
+VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO
 
-PAPILDYMO
+IR PAPILDYMO
 
 3.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1945,
+Nr. VIII-1945, 2000.09.19, Žin., 2000, Nr.
 
-2000.09.19, Žin., 2000, Nr. 83-2514 (2000.10.04)
+83-2514 (2000.10.04)
 
 VALSTYBĖS SAUGUMO DEPARTAMENTO ĮSTATYMO 7, 8 IR 19
 
@@ -1366,9 +1372,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1451, 2003-04-03,
+Nr. IX-1451,
 
-Žin., 2003, Nr. 38-1696 (2003-04-24)
+2003-04-03, Žin., 2003, Nr. 38-1696 (2003-04-24)
 
 VALSTYBĖS
 
@@ -1378,9 +1384,11 @@ SAUGUMO DEPARTAMENTO ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin.,
 
-2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin.,
+2000, Nr. 89-2741)
 
-2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės 1 d.
+ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+
+2003 m. gegužės 1 d.
 
 7.
 
@@ -1434,13 +1442,27 @@ SAUGUMO DEPARTAMENTO ĮSTATYMO 8 IR 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 
 ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-1030,
+
+2007-01-18, Žin., 2007, Nr. 8-317 (2007-01-19)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO ĮSTATYMO 28 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-06-01)
+Aušrinė Trapinskienė (2007-01-23)
 
 autrap@lrs.lt
 
