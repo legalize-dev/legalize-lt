@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2006-06-08"
+last_updated: "2007-01-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -339,9 +339,9 @@ Nr. IX-2560,
 
 Nr.
 
-X-662, 2006-06-08,
+X-662,
 
-Žin., 2006, Nr. 72-2679 (2006-06-28)
+2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
 
 3 straipsnis.
 
@@ -401,9 +401,7 @@ institucijos bendradarbiauja su atitinkamomis NATO bei Europos Sąjungos ir kit�
 
 NATO bei Europos Sąjungos valstybių institucijomis planuojant bendrą gynybą,
 
-tarptautines karines operacijas (toliau – tarptautinės operacijos) ir jas
-
-vykdant;
+tarptautines karines operacijas (toliau – tarptautinės operacijos) ir jas vykdant;
 
 2) kariuomenė ir kitos krašto
 
@@ -453,21 +451,21 @@ apsaugos sistemos institucijų bei kariuomenės vienetų vadai (viršininkai) ir
 
 kiti pareigūnai atsako už įstatymų ir kitų teisės aktų laikymąsi jų valdomose
 
-ar naudojamose karinėse teritorijose. Karinėse teritorijose civilinių institucijų
+ar naudojamose karinėse teritorijose. Karinėse teritorijose civilinių
 
-pareigūnai savo funkcijas gali atlikti tik Vyriausybės nustatytais atvejais ir
+institucijų pareigūnai savo funkcijas gali atlikti tik Vyriausybės nustatytais
 
-tik kartu dalyvaujant atitinkamoje karinėje teritorijoje kontrolės teises
+atvejais ir tik kartu dalyvaujant atitinkamoje karinėje teritorijoje kontrolės
 
-turintiems krašto apsaugos sistemos pareigūnams. Karinių teritorijų kontrolės
+teises turintiems krašto apsaugos sistemos pareigūnams. Karinių teritorijų
 
-režimą ir vidaus tvarką pagal savo kompetenciją nustato krašto apsaugos
+kontrolės režimą ir vidaus tvarką pagal savo kompetenciją nustato krašto
 
-ministras, kariuomenės vadas arba tam deleguotus įgaliojimus turintys dalinių,
+apsaugos ministras, kariuomenės vadas arba tam deleguotus įgaliojimus turintys
 
-kitų karinių vienetų, tarnybų ar kitų krašto apsaugos institucijų vadai
+dalinių, kitų karinių vienetų, tarnybų ar kitų krašto apsaugos institucijų
 
-(viršininkai).
+vadai (viršininkai).
 
 4. Krašto apsaugos sistemoje yra
 
@@ -497,15 +495,15 @@ Nr. IX-2560,
 
 Krašto apsaugos sistemos institucijų veiklos teisiniai pagrindai
 
-Krašto apsaugos sistemos institucijos
+Krašto apsaugos sistemos
 
-savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais ir
+institucijos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija,
 
-kitais Seimo priimtais teisės aktais, Respublikos Prezidento dekretais,
+įstatymais ir kitais Seimo priimtais teisės aktais, Respublikos Prezidento
 
-Vyriausybės nutarimais, krašto apsaugos ministro įsakymais ir Lietuvos
+dekretais, Vyriausybės nutarimais, krašto apsaugos ministro įsakymais ir
 
-Respublikos tarptautinėmis sutartimis.
+Lietuvos Respublikos tarptautinėmis sutartimis.
 
 5
 
@@ -577,11 +575,9 @@ pratybose ir kituose karinio bendradarbiavimo renginiuose, taip pat užsienio
 
 valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai
 
-tarnautojai dalyvauja tarptautinėse operacijose, pratybose ir kituose
+tarnautojai dalyvauja tarptautinėse operacijose, pratybose ir kituose tarptautiniuose
 
-tarptautiniuose karinio bendradarbiavimo renginiuose Lietuvos Respublikos
-
-teritorijoje.
+karinio bendradarbiavimo renginiuose Lietuvos Respublikos teritorijoje.
 
 Straipsnio
 
@@ -593,9 +589,9 @@ IX-1359,
 
 2003-03-13, Žin., 2003, Nr. 32-1308 (2003-04-02)
 
-Nr. IX-2560, 2004-11-11,
+Nr. IX-2560,
 
-Žin., 2004, Nr. 169-6215 (2004-11-23)
+2004-11-11, Žin., 2004, Nr. 169-6215 (2004-11-23)
 
 ANTRASIS
 
@@ -807,11 +803,11 @@ sistemos personalą, karo tarnybą ir mobilizaciją;
 
 viešosios informacijos apie krašto apsaugos sistemą teikimą, kariuomenės
 
-bendradarbiavimą su civilinėmis institucijomis, Šaulių sąjunga ir kitomis asociacijomis
+bendradarbiavimą su civilinėmis institucijomis, Šaulių sąjunga ir kitomis
 
-bei viešosiomis įstaigomis, tiesiogiai prisidedančiomis prie krašto apsaugos
+asociacijomis bei viešosiomis įstaigomis, tiesiogiai prisidedančiomis prie
 
-sistemos stiprinimo ir visuomenės parengimo gynybai;
+krašto apsaugos sistemos stiprinimo ir visuomenės parengimo gynybai;
 
 7) teisės aktų
 
@@ -967,9 +963,9 @@ tarybai svarstyti ir, gavęs jos pritarimą, Vyriausybės įgaliotas kasmet teik
 
 Seimui tvirtinti kitų metų principinę kariuomenės struktūrą (nuolatinių
 
-junginių ir dalinių skaičių, bendrą ribinį karių skaičių, ribinius profesinės
+junginių ir dalinių skaičių, bendrą ribinį karių skaičių, ribinius profesinės ir
 
-ir privalomosios karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo
+privalomosios karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo
 
 karių, kariūnų, kiekvieno laipsnio vyresniųjų karininkų ir generolų bei
 
@@ -991,15 +987,15 @@ išskyrus pirmąjį karininko laipsnį ir aukštesnius už pulkininko leitenanto
 
 (komandoro) laipsnius;
 
-12) teikia Respublikos Prezidentui
+12) teikia Respublikos
 
-pasiūlymus suteikti kariams pulkininko (jūrų kapitono) ir generolų (admirolų)
+Prezidentui pasiūlymus suteikti kariams pulkininko (jūrų kapitono) ir generolų
 
-laipsnius ir, vadovaudamasis Lietuvos Respublikos Konstitucijos 85 straipsniu,
+(admirolų) laipsnius ir, vadovaudamasis Lietuvos Respublikos Konstitucijos 85
 
-pasirašo Respublikos Prezidento aktus-dekretus dėl aukščiausių karinių laipsnių
+straipsniu, pasirašo Respublikos Prezidento aktus-dekretus dėl aukščiausių
 
-suteikimo;
+karinių laipsnių suteikimo;
 
 13) teikia Respublikos
 
@@ -1015,15 +1011,15 @@ kandidatūrų;
 
 15) skiria į pareigas ir iš jų
 
-atleidžia krašto apsaugos generalinį inspektorių, Lietuvos karo akademijos
+atleidžia krašto apsaugos generalinį inspektorių, Lietuvos karo akademijos viršininką,
 
-viršininką, Gynybos štabo viršininką, Savanorių pajėgų vadą, reguliariųjų
+Gynybos štabo viršininką, Savanorių pajėgų vadą, reguliariųjų pajėgų rūšių
 
-pajėgų rūšių vadus, karinių apygardų vadus, puskarininkių mokyklos ir kitų
+vadus, karinių apygardų vadus, puskarininkių mokyklos ir kitų karinių mokymo
 
-karinių mokymo įstaigų viršininkus, pagal įstatymų suteiktus įgaliojimus ir
+įstaigų viršininkus, pagal įstatymų suteiktus įgaliojimus ir kompetenciją
 
-kompetenciją nustato jų teises ir pareigas;
+nustato jų teises ir pareigas;
 
 16) skiria karius į bataliono
 
@@ -1101,9 +1097,9 @@ IX-1359,
 
 2003-03-13, Žin., 2003, Nr. 32-1308 (2003-04-02)
 
-Nr. IX-1727,
+Nr. IX-1727, 2003-09-11,
 
-2003-09-11, Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
+Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
 
 Nr. IX-2560,
 
@@ -1111,9 +1107,9 @@ Nr. IX-2560,
 
 Nr.
 
-X-662,
+X-662, 2006-06-08,
 
-2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
+Žin., 2006, Nr. 72-2679 (2006-06-28)
 
 TREČIASIS
 
@@ -1441,9 +1437,9 @@ strateginės vadavietės funkcionavimą;
 
 vadovavimo ir valdymo sistemų patikimą funkcionavimą;
 
-8) užtikrina įstatymų ir kitų teisės
+8) užtikrina įstatymų ir kitų
 
-aktų vykdymą, atsako už tvarką ir drausmę kariuomenėje;
+teisės aktų vykdymą, atsako už tvarką ir drausmę kariuomenėje;
 
 9) užtikrina paslapčių apsaugą
 
@@ -1463,9 +1459,9 @@ tarnaujančius karius;
 
 dislokavimo planus;
 
-12) atsako už karinės administracijos
+12) atsako už karinės
 
-bei logistikos sistemos efektyvų funkcionavimą;
+administracijos bei logistikos sistemos efektyvų funkcionavimą;
 
 13) teikia siūlymus krašto
 
@@ -1511,9 +1507,9 @@ aprūpinimui: skirsto ginkluotę, techniką, kitas materialines vertybes, atsako
 
 už jų apsaugos ir apskaitos organizavimą bei efektyvų naudojimą;
 
-21) teikia krašto apsaugos ministrui
+21) teikia krašto apsaugos
 
-statutų ir kitų teisės aktų projektus;
+ministrui statutų ir kitų teisės aktų projektus;
 
 22) laikydamasis krašto apsaugos
 
@@ -1533,11 +1529,11 @@ užduotis.
 
 8. Vykdydamas
 
-įstatymų ir kitų teisės aktų nustatytas ar krašto apsaugos ministro pavestas
+įstatymų ir kitų teisės aktų nustatytas ar krašto apsaugos ministro pavestas funkcijas,
 
-funkcijas, kariuomenės vadas leidžia įsakymus ir duoda privalomus nurodymus
+kariuomenės vadas leidžia įsakymus ir duoda privalomus nurodymus kariuomenei
 
-kariuomenei (ginkluotosioms pajėgoms).
+(ginkluotosioms pajėgoms).
 
 9. Paskelbus karo padėtį,
 
@@ -1621,21 +1617,21 @@ grandinėje Respublikos Prezidento ir krašto apsaugos ministro duotos užduotys
 
 išvykoms į užsienį privalo iš anksto gauti Respublikos Prezidento sutikimą
 
-raštu. Kai Respublikos Prezidentas iš šalies išvyksta, krašto apsaugos ministras
+raštu. Kai Respublikos Prezidentas iš šalies išvyksta, krašto apsaugos
 
-turi būti Lietuvoje, išskyrus atvejus taikos metu, kai ministras vyksta į
+ministras  turi būti Lietuvoje, išskyrus atvejus taikos metu, kai ministras
 
-užsienio valstybę iš anksto suderinto oficialaus ar darbo vizito arba į
+vyksta į užsienio valstybę iš anksto suderinto oficialaus ar darbo vizito arba
 
-tarptautinius renginius saugumo ir gynybos klausimais. Respublikos Prezidentui
+į tarptautinius renginius saugumo ir gynybos klausimais. Respublikos
 
-ir krašto apsaugos ministrui vienu metu esant užsienyje ir dėl to laikinai
+Prezidentui ir krašto apsaugos ministrui vienu metu esant užsienyje ir dėl to
 
-negalint vykdyti savo pareigų operacinio vadovavimo kariuomenei grandinėje,
+laikinai negalint vykdyti savo pareigų operacinio vadovavimo kariuomenei
 
-juos pavaduoja atitinkamai Seimo Pirmininkas ir krašto apsaugos ministrą
+grandinėje, juos pavaduoja atitinkamai Seimo Pirmininkas ir krašto apsaugos
 
-laikinai pavaduoti paskirtas kitas Vyriausybės narys.
+ministrą laikinai pavaduoti paskirtas kitas Vyriausybės narys.
 
 8. Lauko pajėgų vadas yra
 
@@ -1725,11 +1721,11 @@ užduotis ir rotacijos principą reguliariųjų pajėgų rūšių vadai skiria s
 
 pajėgų karininkus dalyvauti Gynybos štabo veikloje.
 
-4. Gynybos štabo viršininko
+4. Gynybos štabo viršininko pavaduotoją
 
-pavaduotoją ir valdybų viršininkus skiria kariuomenės vadas, jų kandidatūras
+ir valdybų viršininkus skiria kariuomenės vadas, jų kandidatūras suderinęs su
 
-suderinęs su krašto apsaugos ministru.
+krašto apsaugos ministru.
 
 16 straipsnis.
 
@@ -1745,9 +1741,9 @@ pajėgų paskirtis – oro erdvės stebėjimas, kontrolė ir gynyba.
 
 3. Karinių jūrų pajėgų paskirtis
 
-– teritorinės jūros stebėjimas, kontrolė ir gynyba, išskirtinės ekonominės zonos
+– teritorinės jūros stebėjimas, kontrolė ir gynyba, išskirtinės ekonominės
 
-ir kontinentinio šelfo stebėjimas bei kontrolė.
+zonos ir kontinentinio šelfo stebėjimas bei kontrolė.
 
 4. Reguliariųjų pajėgų rūšių,
 
@@ -1802,100 +1798,6 @@ infrastruktūros ir strateginių objektų apsauga, pagalba stichinių nelaimių 
 katastrofų atvejais. Karo metu Savanorių pajėgų daliniai vykdo jiems duotas
 
 gynybos užduotis.
-
-[Straipsnio
-
-redakcija iki 2006-10-01]
-
-18
-
-straipsnis. Kariuomenės pagalbos teikimo civilinei administracijai atvejai ir
-
-sąlygos
-
-1. Respublikos Prezidentas arba
-
-krašto apsaugos ministras gali duoti įsakymą pasiųsti karinius vienetus
-
-gelbėjimo darbams stichinių nelaimių, pramoninių avarijų ar katastrofų atvejais
-
-Lietuvos teritorijoje, taip pat pasiųsti karių gelbėjimo komandas į tokių
-
-nelaimių ištiktas užsienio valstybes šių prašymu ar sutikimu.
-
-2. Respublikos Prezidentas arba krašto
-
-apsaugos ministras gali duoti įsakymą pasiųsti kariuomenę į pagalbą Valstybės
-
-sienos apsaugos tarnybai, kai prireikia sustiprinti valstybės sienos apsaugą.
-
-3. Kai šio straipsnio 1 ir 2
-
-dalyse numatytais atvejais įsakymą duoda krašto apsaugos ministras, jis privalo
-
-apie tai pranešti Respublikos Prezidentui.
-
-4. Nepaprastosios padėties atveju
-
-įstatymų nustatyta tvarka kariuomenė gali būti pasiųsta padėti
-
-policijai.
-
-5. Netikėtais ir neatidėliotinais
-
-atvejais, kai nusikaltėliai sukelia realų pavojų žmonių gyvybei ar nuosavybei
-
-ir reikia padėti vykdyti skubias tokių nusikaltėlių sulaikymo operacijas,
-
-Policijos departamento prie Vidaus reikalų ministerijos generalinio komisaro,
-
-jo pavaduotojo ar vietos policijos komisariato vadovo raštišku prašymu, civilinei
-
-operacinei vadovybei leidus, karinis vienetas operacinio vadovavimo grandinėje
-
-esančio vado įsakymu gali būti pasiųstas teikti konkrečiai apibrėžtą,
-
-neviršijančią 24 valandų vienkartinę pagalbą policijai teisės aktų nustatyta
-
-tvarka. Tokiai operacijai vadovauja Policijos departamento prie Vidaus reikalų
-
-ministerijos generalinio komisaro, jo pavaduotojo ar policijos komisariato
-
-vadovo paskirtas pareigūnas. Prireikus pagalbos teikimo policijai trukmė,
-
-laikantis tokios pat tvarkos, gali būti pratęsta iki 48 valandų.
-
-6. Netikėtu ir neatidėliotinu
-
-atveju, kai gresia pavojus žmonių gyvybei ar nuosavybei, civilinės
-
-administracijos pareigūno prašymu, operacinio vadovavimo grandinėje esančio
-
-vado įsakymu kariniai vienetai gali būti pasiųsti padėti civilinei administracijai
-
-apsaugoti žmonių gyvybę ar nuosavybę. Tokiais atvejais įsakymą davęs vadas apie
-
-karinio vieneto pasiuntimą nedelsdamas praneša pagal operacinio vadovavimo
-
-grandinę krašto apsaugos ministrui.
-
-7. Esant ypatingoms aplinkybėms,
-
-prireikus tam tikram laikui vykdyti teritorijų kontrolę ar sustiprinti
-
-valstybinių objektų apsaugą, Vyriausybės nutarimu šiam tikslui kaip pagalba
-
-policijai gali būti panaudoti kariniai vienetai.
-
-8. Teikdama pagalbą civilinei
-
-valdžiai, karinę jėgą kariuomenė naudoja minimaliai. Ginklo panaudojimo sąlygas
-
-nustato statutai.
-
-[Straipsnio
-
-redakcija nuo 2006-10-01]
 
 19 straipsnis.
 
@@ -2229,9 +2131,9 @@ skiriamuosius ženklus nustato krašto apsaugos ministras.
 
 Kario priesaika
 
-1. Kiekvienas Lietuvos
+1. Kiekvienas Lietuvos Respublikos
 
-Respublikos pilietis, pradėjęs tikrąją ar rezervo tarnybą Lietuvos kariuomenėje,
+pilietis, pradėjęs tikrąją ar rezervo tarnybą Lietuvos kariuomenėje,
 
 iškilmingoje aplinkoje prisiekia Lietuvos valstybei ir pasirašo vardinį
 
@@ -2349,16 +2251,6 @@ Nr. X-421, 2005-11-22,
 
 Žin., 2005, Nr. 143-5183 (2005-12-08)
 
-Papildyta
-
-straipsniu:
-
-Nr.
-
-X-662,
-
-2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
-
 23(1)
 
 straipsnis. Priesaikos sulaužymas
@@ -2376,6 +2268,16 @@ priesaikos sulaužymu laikomas šiurkštus kario drausmės pažeidimas, už kur�
 atleidžiamas iš tarnybos arba pašalinamas iš karo mokymo įstaigos, ir
 
 (arba) tyčinės nusikalstamos veikos padarymas.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+X-662,
+
+2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
 
 24 straipsnis.
 
@@ -2581,9 +2483,9 @@ straipsnis. Draudimas duoti neteisėtą įsakymą ar versti atlikti neteisėtą
 
 tarnybą
 
-1. Karys privalo vykdyti savo
+1. Karys privalo vykdyti savo vadų
 
-vadų įsakymus.
+įsakymus.
 
 2. Niekas negali kariui ar
 
@@ -2599,9 +2501,9 @@ Vadas (karinis viršininkas), davęs tokį įsakymą, traukiamas atsakomybėn pa
 
 3. Jeigu akivaizdžiai neteisėtas
 
-įsakymas būtų duotas, karys neturi jo vykdyti, bet turi apie tai pranešti aukštesniam
+įsakymas būtų duotas, karys neturi jo vykdyti, bet turi apie tai pranešti
 
-už neteisėtą įsakymą davusįjį vadui.
+aukštesniam už neteisėtą įsakymą davusįjį vadui.
 
 4. Nė vienas kariuomenėje
 
@@ -2907,13 +2809,13 @@ Nr. VIII-1289,
 
 Priėmimas į kario savanorio tarnybą
 
-1. Kariais savanoriais į Savanorių
+1. Kariais savanoriais į
 
-pajėgas savanoriškumo ir atrankos principais gali būti priimti ne jaunesni kaip
+Savanorių pajėgas savanoriškumo ir atrankos principais gali būti priimti ne
 
-18 metų Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą, fizinį
+jaunesni kaip 18 metų Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą,
 
-pasirengimą, sveikatos būklę bei moralines savybes atitinka nustatytus
+fizinį pasirengimą, sveikatos būklę bei moralines savybes atitinka nustatytus
 
 rikiuotės kario reikalavimus.
 
@@ -3005,17 +2907,15 @@ priimamais į profesinę karo tarnybą kariais, baigusiais puskarininkių mokykl
 
 taip pat su nustatytus karinės kvalifikacijos reikalavimus atitinkančiais
 
-atsargos kariais ir kariuomenei reikalingais specialistais - ne ilgesniam kaip 5
+atsargos kariais ir kariuomenei reikalingais specialistais - ne ilgesniam kaip
 
-metų laikotarpiui ir ne ilgesniam terminui, kaip iki tos dienos, kai kariui
+5 metų laikotarpiui ir ne ilgesniam terminui, kaip iki tos dienos, kai kariui
 
 sukaks šio įstatymo 45 straipsnio 4 dalyje nustatyti išleidimo į atsargą metai;
 
 3) su
 
-liktiniais - ne trumpesniam kaip 2 metų ir ne ilgesniam kaip 5 metų
-
-laikotarpiui;
+liktiniais - ne trumpesniam kaip 2 metų ir ne ilgesniam kaip 5 metų laikotarpiui;
 
 4) su stojančiais į tarptautinių
 
@@ -3025,11 +2925,11 @@ ilgesniam kaip 5 metų laikotarpiui.
 
 3. Pasibaigus šio straipsnio 2
 
-dalies 2 punkte nurodytais atvejais sudarytos terminuotos profesinės karo
+dalies 2 punkte nurodytais atvejais sudarytos terminuotos profesinės karo tarnybos
 
-tarnybos sutarties terminui, sutartis gali būti pratęsta krašto apsaugos
+sutarties terminui, sutartis gali būti pratęsta krašto apsaugos ministro
 
-ministro sutikimu ir laikantis jo nustatytų sąlygų:
+sutikimu ir laikantis jo nustatytų sąlygų:
 
 1) su kvalifikacinės atrankos
 
@@ -3087,17 +2987,17 @@ padalinių ir tarnybų kariais iki vyresniųjų puskarininkių imtinai - krašto
 
 apsaugos ministro tam įgalioti pareigūnai.
 
-7. Šio straipsnio 6 dalyje nurodyti
+7. Šio straipsnio 6 dalyje
 
-pareigūnai profesinės karo tarnybos sutartis be atskiro ministro sutikimo gali
+nurodyti pareigūnai profesinės karo tarnybos sutartis be atskiro ministro
 
-sudaryti su kariais, kurie pradeda karininko tarnybą baigę Lietuvos karo
+sutikimo gali sudaryti su kariais, kurie pradeda karininko tarnybą baigę
 
-akademiją ar Krašto apsaugos ministerijos siuntimu kitą karo mokyklą.
+Lietuvos karo akademiją ar Krašto apsaugos ministerijos siuntimu kitą karo
 
-Straipsnio
+mokyklą.
 
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. VIII-1289,
 
@@ -3155,9 +3055,7 @@ Priimto į profesinę karo tarnybą kario skyrimas į pareigas
 
 1. Sudarius profesinės karo
 
-tarnybos sutartį, karys į jo laipsnį atitinkančias pareigas kariuomenėje
-
-skiriamas:
+tarnybos sutartį, karys į jo laipsnį atitinkančias pareigas kariuomenėje skiriamas:
 
 1) iki būrio vado, taip pat į
 
@@ -3179,9 +3077,7 @@ ministro nustatyta tvarka jo įgaliotas pareigūnas.
 
 34
 
-straipsnis. Išbandymas priimant į profesinę karo tarnybą ar kario savanorio
-
-tarnybą
+straipsnis. Išbandymas priimant į profesinę karo tarnybą ar kario savanorio tarnybą
 
 1. Priimant asmenį į profesinę
 
@@ -3191,21 +3087,21 @@ kaip 3 mėnesių bandomasis laikotarpis.
 
 2. Asmenims, priimamiems į
 
-profesinę karo tarnybą koviniuose vienetuose, kuriuose keliami ypatingi
+profesinę karo tarnybą koviniuose vienetuose, kuriuose keliami ypatingi fizinės,
 
-fizinės, psichologinės ištvermės bei kitokie kario pasirengimo reikalavimai,
+psichologinės ištvermės bei kitokie kario pasirengimo reikalavimai, gali būti
 
-gali būti nustatytas ilgesnis kaip 3 mėnesių, bet ne ilgesnis kaip 1 metų
+nustatytas ilgesnis kaip 3 mėnesių, bet ne ilgesnis kaip 1 metų bandomasis
 
-bandomasis laikotarpis, jeigu tai numatyta krašto apsaugos ministro
+laikotarpis, jeigu tai numatyta krašto apsaugos ministro patvirtintuose šio
 
-patvirtintuose šio kovinio vieneto nuostatuose.
+kovinio vieneto nuostatuose.
 
-3. Bandomasis
+3.
 
-laikotarpis netaikomas kariams, baigusiems karo mokymo įstaigą, taip pat
+Bandomasis laikotarpis netaikomas kariams, baigusiems karo mokymo įstaigą, taip
 
-kariams, perkeliamiems į kitas pareigas.
+pat kariams, perkeliamiems į kitas pareigas.
 
 4.
 
@@ -3265,9 +3161,9 @@ asmenybę, kario galimybes ir kaip jis vykdo tarnybos pareigas.
 
 (viršininkas) rašo, kai:
 
-1) pasibaigia kariui skirtas bandomasis
+1) pasibaigia kariui skirtas
 
-laikotarpis;
+bandomasis laikotarpis;
 
 2) karys perkeliamas kito vado
 
@@ -3331,9 +3227,9 @@ Karių tarnybai taikomi apribojimai
 
 draudžiama dalyvauti politinėje veikloje, kuri apima:
 
-1) narystę politinėje partijoje ar
+1) narystę politinėje partijoje
 
-politinėje organizacijoje;
+ar politinėje organizacijoje;
 
 2) aktyvų karių dalyvavimą
 
@@ -3349,11 +3245,11 @@ politinė organizacija;
 
 straipsnius ar kalbas, kuriuose viešai reiškiamas nesutikimas su demokratiškai
 
-išrinktos valstybės valdžios (Seimo, Respublikos Prezidento, Vyriausybės)
+išrinktos valstybės valdžios (Seimo, Respublikos Prezidento, Vyriausybės) paskelbta
 
-paskelbta ir vykdoma politika ar viešai keliami politiniai reikalavimai
+ir vykdoma politika ar viešai keliami politiniai reikalavimai valstybės
 
-valstybės valdžiai.
+valdžiai.
 
 2. Karys, pradėdamas privalomąją
 
@@ -3361,11 +3257,11 @@ pradinę ar profesinę karo tarnybą, tarnybos laikotarpiui nutraukia narystę i
 
 veiklą politinėje partijoje ar politinėje organizacijoje.
 
-3. Kariai gali dalyvauti
+3. Kariai gali
 
-asociacijų ir kitų nepolitinių susivienijimų veikloje, taip pat kitokioje
+dalyvauti asociacijų ir kitų nepolitinių susivienijimų veikloje, taip pat
 
-nepolitinėje veikloje, kuria siekiama puoselėti moralines, tautines,
+kitokioje nepolitinėje veikloje, kuria siekiama puoselėti moralines, tautines,
 
 patriotines ir pilietines demokratines vertybes, jei dalyvavimas tokioje
 
@@ -3517,9 +3413,9 @@ Nr. IX-2560,
 
 Nr.
 
-X-662,
+X-662, 2006-06-08,
 
-2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
+Žin., 2006, Nr. 72-2679 (2006-06-28)
 
 37
 
@@ -3579,9 +3475,9 @@ tyčiniais veiksmais atskleidžia valstybės ar tarnybos paslaptis;
 
 arba kuriuo kariui skiriama bausmė, dėl kurios negalima tęsti tarnybos;
 
-4)
+4) bandomojo
 
-bandomojo laikotarpio priimant į karo tarnybą rezultatai įvertinti neigiamai;
+laikotarpio priimant į karo tarnybą rezultatai įvertinti neigiamai;
 
 5) karys
 
@@ -3595,13 +3491,13 @@ reikalavimus arba apribojimus;
 
 7)
 
-pasibaigia profesinės karo tarnybos ar kario savanorio tarnybos sutarties terminas
+pasibaigia profesinės karo tarnybos ar kario savanorio tarnybos sutarties
 
-arba kariui sukanka šio įstatymo 45 straipsnio 4 dalyje ar 32 straipsnio 3
+terminas arba kariui sukanka šio įstatymo 45 straipsnio 4 dalyje ar 32
 
-dalyje nustatytas amžius, jei tarnybos laikas nustatyta tvarka nebuvo
+straipsnio 3 dalyje nustatytas amžius, jei tarnybos laikas nustatyta tvarka
 
-pratęstas;
+nebuvo pratęstas;
 
 8)
 
@@ -3647,11 +3543,11 @@ numatytais atvejais pažeidė tarnybos drausmę ar neatliko savo pareigų;
 
 karys negali atlikti pareigų dėl sveikatos būklės;
 
-6) paaiškėja ir nustatoma, kad karys
+6) paaiškėja ir nustatoma, kad
 
-neturi reikiamos kvalifikacijos, arba šio įstatymo 35 straipsnio nustatyta
+karys neturi reikiamos kvalifikacijos, arba šio įstatymo 35 straipsnio
 
-tvarka karys atestuotas kaip netinkamas tarnybai;
+nustatyta tvarka karys atestuotas kaip netinkamas tarnybai;
 
 7) nustatyta, kad karys tarnybos
 
@@ -3695,25 +3591,25 @@ apsaugos ministras sutinka su motyvais, kad dėl tarnybos interesų karį atleis
 
 būtina;
 
-13) jo
+13) jo sirgimo
 
-sirgimo (laikinojo nedarbingumo) trukmė ilgesnė kaip 120 kalendorinių dienų,
+(laikinojo nedarbingumo) trukmė ilgesnė kaip 120 kalendorinių dienų, jeigu
 
-jeigu darbingumas buvo sutrikęs nepertraukiamai, arba 140 kalendorinių dienų
+darbingumas buvo sutrikęs nepertraukiamai, arba 140 kalendorinių dienų per
 
-per paskutinius 12 mėnesių, jeigu darbingumas buvo sutrikęs su pertraukomis ir
+paskutinius 12 mėnesių, jeigu darbingumas buvo sutrikęs su pertraukomis ir
 
 jeigu susirgimas nesusijęs su sužeidimu ar suluošinimu atliekant tarnybines
 
 pareigas ar su tarnyba.
 
-3. Kariai,
+3.
 
-atleidžiami iš profesinės karo tarnybos pagal šio straipsnio 1 dalies 1 punktą,
+Kariai, atleidžiami iš profesinės karo tarnybos pagal šio straipsnio 1 dalies 1
 
-į atsargą neįrašomi ir į dimisiją neperkeliami. Krašto apsaugos ministro
+punktą, į atsargą neįrašomi ir į dimisiją neperkeliami. Krašto apsaugos
 
-sprendimu į atsargą taip pat gali būti neįrašomi ar (ir) į dimisiją
+ministro sprendimu į atsargą taip pat gali būti neįrašomi ar (ir) į dimisiją
 
 neperkeliami kariai, atleidžiami iš profesinės karo tarnybos pagal šio
 
@@ -3831,11 +3727,11 @@ sutartis nutraukiama vadovybės iniciatyva arba valia ne dėl kario kaltės
 
 profesinės karo tarnybos kariui sukanka šio įstatymo nustatytas išleidimo į
 
-atsargą amžius (šio įstatymo 38 straipsnio 1 dalies 7 punktas), taip pat kai
+atsargą amžius (šio įstatymo 38 straipsnio 1 dalies 7 punktas), taip pat kai baigiasi
 
-baigiasi terminuota profesinės karo tarnybos sutartis, o išleidžiamas į atsargą
+terminuota profesinės karo tarnybos sutartis, o išleidžiamas į atsargą karys
 
-karys neturi teisės į kario valstybinę pensiją, jam išmokama išeitinė pašalpa.
+neturi teisės į kario valstybinę pensiją, jam išmokama išeitinė pašalpa.
 
 Išeitinės pašalpos dydis priklauso nuo kario tarnybos krašto apsaugos sistemoje
 
@@ -3857,11 +3753,11 @@ stažą - 3 mėnesių tarnybinių atlyginimų dydžio;
 
 stažą - 4 mėnesių tarnybinių atlyginimų dydžio.
 
-2. Kai profesinės karo tarnybos sutartis
+2. Kai profesinės karo tarnybos
 
-nutraukiama vadovybės iniciatyva arba valia ne dėl kario kaltės (šio
+sutartis nutraukiama vadovybės iniciatyva arba valia ne dėl kario kaltės
 
-įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12, 13 punktai), tačiau
+(šio įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12, 13 punktai), tačiau
 
 išleidžiamas į atsargą karys turi teisę į kario valstybinę pensiją, jam
 
@@ -4191,9 +4087,9 @@ pareigų. Nušalintas nuo pareigų karys gali būti perkeltas į laikinąjį
 
 profesinės karo tarnybos personalo rezervą, iki bus priimtas atitinkamas
 
-sprendimas dėl šio kario tolesnės tarnybos. Šiuo atveju perkelti į laikinąjį
+sprendimas dėl šio kario tolesnės tarnybos. Šiuo atveju perkelti į laikinąjį rezervą
 
-rezervą galima ne ilgiau kaip 1 mėnesiui, o jeigu pažeidimui ar kitoms tarnybos
+galima ne ilgiau kaip 1 mėnesiui, o jeigu pažeidimui ar kitoms tarnybos
 
 aplinkybėms ištirti reikia ilgesnio laiko, - iki ištyrimo pabaigos ir 2
 
@@ -4421,11 +4317,11 @@ profesinę karo tarnybą pagal terminuotą profesinės karo tarnybos sutartį ne
 
 ilgiau kaip 2 metams (arba 2 kartus po vienus metus). Šiam terminui pasibaigus
 
-pakartotinai ne ilgesniam kaip 2 metų laikotarpiui pratęsti profesinę karo
+pakartotinai ne ilgesniam kaip 2 metų laikotarpiui pratęsti profesinę karo tarnybą
 
-tarnybą pagal tokią sutartį krašto apsaugos ministras gali tik karininkams,
+pagal tokią sutartį krašto apsaugos ministras gali tik karininkams, turintiems
 
-turintiems ne aukštesnį kaip majoro (komandoro leitenanto) laipsnį.
+ne aukštesnį kaip majoro (komandoro leitenanto) laipsnį.
 
 Straipsnio
 
@@ -4725,23 +4621,25 @@ išdavimo tvarką nustato krašto apsaugos ministras.
 
 šio straipsnio 3 ir 4 dalyse nurodytų drausmės ir teisės pažeidimų, pažymėjime
 
-įrašoma, kad jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs
+įrašoma, kad jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs tarnybą
 
-tarnybą garbingai.
+garbingai.
 
 3. Jeigu kario tarnybos byloje
 
 yra įrašų apie drausmės pažeidimus, už kuriuos jis buvo baustas du ar daugiau
 
-kartų per vienus metus, arba jeigu karys atleidžiamas šio įstatymo 38 straipsnio
+kartų per vienus metus, arba jeigu karys atleidžiamas šio įstatymo 38
 
-2 dalies 6, 7, 8 ir 9 punktuose nustatytais atvejais, pažymėjime įrašoma, kad
+straipsnio 2 dalies 6, 7, 8 ir 9 punktuose nustatytais atvejais, pažymėjime
 
-jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs tarnybą (praleidus
+įrašoma, kad jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs
 
-žodį „garbingai“). Žodis „garbingai“ taip pat gali būti nerašomas, kai karys
+tarnybą (praleidus žodį „garbingai“). Žodis „garbingai“ taip pat gali būti
 
-atleidžiamas šio įstatymo 38 straipsnio 2 dalies 12 punkte nustatytu atveju.
+nerašomas, kai karys atleidžiamas šio įstatymo 38 straipsnio 2 dalies 12 punkte
+
+nustatytu atveju.
 
 4.
 
@@ -4795,6 +4693,14 @@ teisės aktai.
 
 mobilizacijos atvejais karo tarnybos trukmė neribojama.
 
+PENKTASIS
+
+SKIRSNIS
+
+KARIŲ
+
+LAIPSNIAI, ROTACIJA IR ATOSTOGOS
+
 Skirsnio
 
 pavadinimo pakeitimas:
@@ -4804,14 +4710,6 @@ Nr.
 X-662,
 
 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
-
-PENKTASIS
-
-SKIRSNIS
-
-KARIŲ
-
-LAIPSNIAI, ROTACIJA IR ATOSTOGOS
 
 52 straipsnis.
 
@@ -4887,9 +4785,9 @@ vyresnysis puskarininkis                            �
 
 puskarininkis
 
-4) jaunesniųjų
+4)
 
-karininkų
+jaunesniųjų karininkų
 
 leitenantas                                                                             leitenantas
 
@@ -4926,10 +4824,6 @@ admirolas
 generolas majoras                                                                 kontradmirolas
 
 generolas leitenantas                                                             viceadmirolas
-
-4. (Neteko galios nuo 2004 m.
-
-lapkričio 23 d.)
 
 Straipsnio
 
@@ -4987,9 +4881,9 @@ tvarka gali būti suteikiamas aukštesnis vyresniojo leitenanto ar kapitono
 
 5. Karo kapelionui vietoj pirmojo
 
-leitenanto laipsnio gali būti suteiktas aukštesnis kapitono (kapitono leitenanto)
+leitenanto laipsnio gali būti suteiktas aukštesnis kapitono (kapitono
 
-laipsnis.
+leitenanto) laipsnis.
 
 Straipsnio
 
@@ -5079,11 +4973,11 @@ aukštesniam laipsniui gauti ir pirma šio straipsnio 2 dalyje nustatyto laiko,
 
 jeigu jie ištarnavę bent pusę šio laiko, o gydytojams ir teisininkams,
 
-turintiems vyresniojo leitenanto laipsnį, - bent trečdalį šio laiko. Ne
+turintiems vyresniojo leitenanto laipsnį, - bent trečdalį šio laiko. Ne aukštesnį
 
-aukštesnį kaip pulkininko leitenanto turinčiam laipsnį karo kapelionui, jį
+kaip pulkininko leitenanto turinčiam laipsnį karo kapelionui, jį paskyrus
 
-paskyrus kariuomenės generaliniu vikaru (vyriausiuoju kapelionu), gali būti suteiktas
+kariuomenės generaliniu vikaru (vyriausiuoju kapelionu), gali būti suteiktas
 
 aukštesnis laipsnis netaikant šio straipsnio 2 dalies, taip pat šios dalies
 
@@ -5093,9 +4987,9 @@ sąlygų.
 
 karininkų, generolų (admirolų) laipsniai suteikiami kariams, turintiems
 
-aukštąjį ir specialųjį karinį išsilavinimą bei mokantiems bent vieną iš NATO oficialių
+aukštąjį ir specialųjį karinį išsilavinimą bei mokantiems bent vieną iš NATO
 
-darbo kalbų (anglų arba prancūzų).
+oficialių darbo kalbų (anglų arba prancūzų).
 
 5. Pulkininko
 
@@ -5189,15 +5083,15 @@ kariuomenės reikalavimus atitinka krašto apsaugos sistemos poreikius).
 
 15.
 
-Lietuvos Respublikos piliečiui, turinčiam vidaus reikalų sistemos institucijų
+Lietuvos Respublikos piliečiui, turinčiam vidaus reikalų sistemos institucijų ar
 
-ar Valstybės saugumo departamento pareigūno tarnybinį laipsnį ir priimtam į
+Valstybės saugumo departamento pareigūno tarnybinį laipsnį ir priimtam į
 
-profesinę karo tarnybą ar įrašomam į kariuomenės aktyviojo rezervo įskaitą, karinis
+profesinę karo tarnybą ar įrašomam į kariuomenės aktyviojo rezervo įskaitą,
 
-laipsnis suteikiamas pagal kariuomenės reikalavimus, neatsižvelgiant į turimą
+karinis laipsnis suteikiamas pagal kariuomenės reikalavimus, neatsižvelgiant į
 
-tarnybinį laipsnį.
+turimą tarnybinį laipsnį.
 
 16. Išimtiniais atvejais, kai
 
@@ -5209,17 +5103,17 @@ teisę pirma laiko ir nesilaikydamas šiame bei 55 straipsnyje nustatytų bendr�
 
 aukštesniojo karinio laipsnio suteikimo sąlygų suteikti skiriamam vadui
 
-(viršininkui) laikinąjį vyresniojo karininko karinį laipsnį, vienu laipsniu aukštesnį
+(viršininkui) laikinąjį vyresniojo karininko karinį laipsnį, vienu laipsniu
 
-už jo turimąjį. Krašto apsaugos ministras laikinąjį karinį laipsnį taip pat
+aukštesnį už jo turimąjį. Krašto apsaugos ministras laikinąjį karinį laipsnį
 
-gali suteikti karininkui, skiriamam į pareigas užsienyje, jei tai būtina pagal
+taip pat gali suteikti karininkui, skiriamam į pareigas užsienyje, jei tai
 
-skiriamas pareigas. Laikinąjį generolo (admirolo) laipsnį suteikia Respublikos
+būtina pagal skiriamas pareigas. Laikinąjį generolo (admirolo) laipsnį suteikia
 
-Prezidentas krašto apsaugos ministro teikimu, kai to reikia pavaldinių
+Respublikos Prezidentas krašto apsaugos ministro teikimu, kai to reikia
 
-subordinacijai užtikrinti arba būtina pagal skiriamas pareigas.
+pavaldinių subordinacijai užtikrinti arba būtina pagal skiriamas pareigas.
 
 17.
 
@@ -5375,19 +5269,19 @@ pažeminti laipsnį turi krašto apsaugos ministras, o pulkininkams (jūrų
 
 kapitonams) ir generolams (admirolams) - Respublikos Prezidentas.
 
-2. Iki laipsnio
+2. Iki
 
-pažeminimo kario turėtas laipsnis statutų nustatyta tvarka gali būti grąžintas
+laipsnio pažeminimo kario turėtas laipsnis statutų nustatyta tvarka gali būti
 
-kariui ne anksčiau kaip po 6 mėnesių, jeigu jo tarnyba vertinama gerai. Į šį
+grąžintas kariui ne anksčiau kaip po 6 mėnesių, jeigu jo tarnyba vertinama
 
-terminą neįskaitomas laikas, kai karys neatliko tarnybos dėl atostogų, mokymosi
+gerai. Į šį terminą neįskaitomas laikas, kai karys neatliko tarnybos dėl
 
-ar ligos. Šio įstatymo 54 straipsnio 2 dalyje nustatytas reikalingas tarnybos
+atostogų, mokymosi ar ligos. Šio įstatymo 54 straipsnio 2 dalyje nustatytas
 
-laikas aukštesniajam nei grąžintasis laipsniui suteikti skaičiuojamas nuo
+reikalingas tarnybos laikas aukštesniajam nei grąžintasis laipsniui suteikti
 
-laipsnio grąžinimo kariui dienos.
+skaičiuojamas nuo laipsnio grąžinimo kariui dienos.
 
 3. Krašto apsaugos ministras
 
@@ -5461,9 +5355,9 @@ kategorijas įsteigia, jų suteikimo sąlygas ir kvalifikacinius reikalavimus
 
 nustato krašto apsaugos ministras.
 
-59 straipsnis.
+59 straipsnis. Karių
 
-Karių atostogos
+atostogos
 
 1. Darbo
 
@@ -5521,13 +5415,13 @@ trukmės tėvystės atostogos vyrams profesinės karo tarnybos kariams suteikiam
 
 jų prašymu tiesioginio vado (viršininko) sprendimu. Jeigu tarptautinių
 
-operacijų kariniame vienete tarnaujantiems profesinės karo tarnybos kariams, atsižvelgiant
+operacijų kariniame vienete tarnaujantiems profesinės karo tarnybos kariams,
 
-į karinio vieneto buvimo vietą ir jo parengties reikalavimus, tėvystės atostogų
+atsižvelgiant į karinio vieneto buvimo vietą ir jo parengties reikalavimus,
 
-suteikti negalima, jiems išmokama vienkartinė Vyriausybės nustatyta tvarka
+tėvystės atostogų suteikti negalima, jiems išmokama vienkartinė Vyriausybės
 
-apskaičiuoto vidutinio jų atlyginimo dydžio išmoka.
+nustatyta tvarka apskaičiuoto vidutinio jų atlyginimo dydžio išmoka.
 
 6. Atostogos vaikui prižiūrėti
 
@@ -5621,11 +5515,13 @@ mirus jo sutuoktiniui ar artimiesiems giminaičiams, taip pat gimus vaikui.
 
 Atostogų dienomis privalomosios pradinės karo tarnybos kariai maistu
 
-neaprūpinami, už šias dienas jiems mokami Vyriausybės nustatyto dydžio dienpinigiai.
+neaprūpinami, už šias dienas jiems mokami Vyriausybės nustatyto dydžio
 
-13. Kariūnams atostogos
+dienpinigiai.
 
-suteikiamos karo mokymo įstaigos, kurioje jie studijuoja, nustatyta tvarka.
+13. Kariūnams atostogos suteikiamos
+
+karo mokymo įstaigos, kurioje jie studijuoja, nustatyta tvarka.
 
 14. Atostogų laikas įskaitomas į
 
@@ -5687,11 +5583,11 @@ buitinėms išlaidoms. Du kartus per metus (Kalėdų ir Velykų švenčių proga
 
 išmokamos Vyriausybės nustatyto dydžio šventinės premijos.
 
-2. Profesinės karo tarnybos kariams
+2. Profesinės karo tarnybos
 
-tarnybos apmokėjimo tvarką nustato šis įstatymas. Civilių valstybės tarnautojų
+kariams tarnybos apmokėjimo tvarką nustato šis įstatymas. Civilių valstybės
 
-darbo apmokėjimo sąlygos jiems netaikomos.
+tarnautojų darbo apmokėjimo sąlygos jiems netaikomos.
 
 3. Profesinės karo tarnybos kario
 
@@ -5739,15 +5635,15 @@ dydžio šventinės premijos. Šventinių premijų dydį proporcingai gaunamam
 
 atlyginimo dydžiui ir premijavimo tvarką nustato krašto apsaugos ministras.
 
-7. Kariams savanoriams ir
+7. Kariams savanoriams ir aktyviojo
 
-aktyviojo rezervo prievolininkams, pašauktiems į pratybas, mokymus ar vykdyti
+rezervo prievolininkams, pašauktiems į pratybas, mokymus ar vykdyti tarnybos
 
-tarnybos užduočių, iš Krašto apsaugos ministerijos biudžete šiems tikslams
+užduočių, iš Krašto apsaugos ministerijos biudžete šiems tikslams skirtų
 
-skirtų asignavimų už tarnybos dienas mokamas rezervo kario atlyginimas.
+asignavimų už tarnybos dienas mokamas rezervo kario atlyginimas. Rezervo
 
-Rezervo karių atlyginimo dydžius nustato Vyriausybė.
+karių atlyginimo dydžius nustato Vyriausybė.
 
 8. Krašto apsaugos ministras už
 
@@ -5757,9 +5653,9 @@ ar vardinėmis dovanomis.
 
 9. Išmokos, šventinės ir kitos
 
-premijos, numatytos šio straipsnio 1, 6 ir 8 dalyse, mokamos ar dovanos
+premijos, numatytos šio straipsnio 1, 6 ir 8 dalyse, mokamos ar dovanos perkamos
 
-perkamos iš Krašto apsaugos ministerijai skirtų asignavimų.
+iš Krašto apsaugos ministerijai skirtų asignavimų.
 
 Straipsnio
 
@@ -5841,9 +5737,9 @@ skiriamuosius ženklus nustato krašto apsaugos ministras.
 
 3. Kai karys savanoris
 
-išleidžiamas į atsargą, už garbingai atliktą tarnybą jam gali būti suteikta
+išleidžiamas į atsargą, už garbingai atliktą tarnybą jam gali būti suteikta teisė
 
-teisė iškilmingomis progomis dėvėti uniformą su atsargos kario skiriamaisiais
+iškilmingomis progomis dėvėti uniformą su atsargos kario skiriamaisiais
 
 ženklais.
 
@@ -5983,11 +5879,11 @@ nustatytą terminą krašto apsaugos ministras gali pratęsti.
 
 8. Jeigu
 
-karys nevykdo šio straipsnio 5 ir 7 dalyse nustatytų reikalavimų, jis
+karys nevykdo šio straipsnio 5 ir 7 dalyse nustatytų reikalavimų, jis baudžiamas
 
-baudžiamas pagal įstatymus ir ne ginčo tvarka iškeldinamas iš tarnybinio buto
+pagal įstatymus ir ne ginčo tvarka iškeldinamas iš tarnybinio buto (tarnybinės
 
-(tarnybinės gyvenamosios patalpos) kartu su tame bute gyvenančiais asmenimis.
+gyvenamosios patalpos) kartu su tame bute gyvenančiais asmenimis.
 
 9.
 
@@ -6021,11 +5917,11 @@ sistemoje bent 5 metus, o jų profesinės karo tarnybos sutartis yra pratęsta, 
 
 kuriems iki šio įstatymo 45 straipsnyje nustatyto išleidimo į atsargą termino
 
-(atsižvelgiant į galimą karinio laipsnio kėlimą) liko bent 10 metų, gali
+(atsižvelgiant į galimą karinio laipsnio kėlimą) liko bent 10 metų, gali pasinaudoti
 
-pasinaudoti Vyriausybės garantija ir jos nustatytomis lengvatomis gauti kreditą
+Vyriausybės garantija ir jos nustatytomis lengvatomis gauti kreditą gyvenamajam
 
-gyvenamajam būstui statyti ar pirkti.
+būstui statyti ar pirkti.
 
 11. Privalomosios pradinės karo
 
@@ -6045,9 +5941,9 @@ nustatyto dydžio maitinimosi išlaidų piniginė kompensacija.
 
 mokymo įstaigas ar tarnybos vietą užsienyje, kur jie visiškai išlaikomi, taip
 
-pat gynybos atašė biuruose, štabuose ar kitose institucijose užsienyje ir
+pat gynybos atašė biuruose, štabuose ar kitose institucijose užsienyje
 
-ne krašto apsaugos sistemos institucijose Lietuvoje tarnaujančius karius,
+ir ne krašto apsaugos sistemos institucijose Lietuvoje tarnaujančius karius,
 
 aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas
 
@@ -6129,9 +6025,9 @@ tarnybine gyvenamąja patalpa, kai jų šeimos gyvena ne tarnybiniame bute kitoj
 
 vietovėje. Šios išlaidos gali būti atlyginamos laikinai, iki kariui tarnybos
 
-vietovėje bus suteiktas tarnybinis butas. Kol kariui atlyginamos kelionės išlaidos,
+vietovėje bus suteiktas tarnybinis butas. Kol kariui atlyginamos kelionės
 
-63 straipsnio 9 dalyje nustatyti butpinigiai jam nemokami.
+išlaidos, 63 straipsnio 9 dalyje nustatyti butpinigiai jam nemokami.
 
 5. Profesinės karo tarnybos karį
 
@@ -6149,9 +6045,9 @@ visų rūšių keleiviniu transportu (išskyrus taksi) išlaidos:
 
 iš jų;
 
-2) vykti į sveikatos priežiūros
+2) vykti į sveikatos priežiūros ar
 
-ar reabilitacijos įstaigą ir grįžti iš jos;
+reabilitacijos įstaigą ir grįžti iš jos;
 
 3) vadams leidus, vykti lankyti
 
@@ -6221,9 +6117,9 @@ asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis b
 
 patarnavimais. Už juos atsiskaitoma Vyriausybės nustatyta tvarka.
 
-4. Iš valstybės
+4. Iš
 
-biudžeto Krašto apsaugos ministerijai skirtų lėšų apmokamos karių
+valstybės biudžeto Krašto apsaugos ministerijai skirtų lėšų apmokamos karių
 
 reabilitacijos po sužeidimo ar ligos būtinosios išlaidos.
 
@@ -6467,25 +6363,25 @@ liko liekamųjų reiškinių ir pasikeitė jo tinkamumo karo tarnybai laipsnis,
 
 kuris nustatomas praėjus 12 mėnesių nuo išgydymo po patirtos traumos, jam
 
-mokama 24 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos
+mokama 24 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais
 
-metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė
+tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų)
 
-kompensacija. Jeigu sunkaus sveikatos sutrikdymo dėl traumos atveju kariūnas po
+vienkartinė kompensacija. Jeigu sunkaus sveikatos sutrikdymo dėl traumos atveju
 
-gydymo netapo neįgalus, tačiau liko liekamųjų reiškinių ir pasikeitė jo
+kariūnas po gydymo netapo neįgalus, tačiau liko liekamųjų reiškinių ir
 
-tinkamumo karo tarnybai laipsnis, kuris nustatomas praėjus 12 mėnesių nuo
+pasikeitė jo tinkamumo karo tarnybai laipsnis, kuris nustatomas praėjus 12
 
-išgydymo po patirtos traumos, ir dėl šio laipsnio pasikeitimo kariūnas negali
+mėnesių nuo išgydymo po patirtos traumos, ir dėl šio laipsnio pasikeitimo
 
-tęsti studijų karo mokymo įstaigoje, jam mokama 24 profesinės karo tarnybos
+kariūnas negali tęsti studijų karo mokymo įstaigoje, jam mokama 24 profesinės
 
-eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių
+karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių
 
-atlyginimų (be priedų) vienkartinė kompensacija. Kompensacija gali būti
+tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Kompensacija gali
 
-išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių.
+būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių.
 
 9. Jeigu apysunkio sveikatos
 
@@ -6551,15 +6447,15 @@ nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė
 
 kompensacija, bet ne mažiau kaip po 100 Vyriausybės nustatytų minimalių
 
-mėnesinių algų kiekvienam kario išlaikytiniui. Kariūnui žuvus mokama 120
+mėnesinių algų kiekvienam kario išlaikytiniui. Kariūnui žuvus mokama 120 profesinės
 
-profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio
+karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių
 
-mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija, bet ne
+tarnybinių atlyginimų (be priedų) vienkartinė kompensacija, bet ne mažiau kaip
 
-mažiau kaip po 100 Vyriausybės nustatytų minimalių mėnesinių algų kiekvienam
+po 100 Vyriausybės nustatytų minimalių mėnesinių algų kiekvienam kariūno
 
-kariūno išlaikytiniui. Visais atvejais bendra kariui (kariūnui) žuvus išmokamos
+išlaikytiniui. Visais atvejais bendra kariui (kariūnui) žuvus išmokamos
 
 kompensacijos suma negali viršyti 350 000 litų. Kompensacija gali būti išmokama
 
@@ -6629,11 +6525,11 @@ ministerijai skiriamų biudžeto asignavimų kariams taikomos šio ir kitų įst
 
 nustatytos su karo tarnyba susijusios socialinės ir kitokios garantijos bei jų
 
-suteikimo tvarka. Šiuo atveju netaikomi įstatymai, nustatantys socialines
+suteikimo tvarka. Šiuo atveju netaikomi įstatymai, nustatantys socialines garantijas
 
-garantijas valstybės tarnautojams ir kitiems civiliams darbuotojams. Garantijos
+valstybės tarnautojams ir kitiems civiliams darbuotojams. Garantijos kariui
 
-kariui taikomos pagal kitus įstatymus, jeigu šis įstatymas nenustato kitaip.
+taikomos pagal kitus įstatymus, jeigu šis įstatymas nenustato kitaip.
 
 2.
 
@@ -6709,11 +6605,11 @@ apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas. Jeigu kario
 
 artimieji palaidoja žuvusį ar mirusį karį šeimos kape ir stato kitokį nei kario
 
-paminklą, Krašto apsaugos ministerija apmoka paminklo išlaidų dalį,
+paminklą, Krašto apsaugos ministerija apmoka paminklo išlaidų dalį, neviršijančią
 
-neviršijančią kario antkapinio paminklo vertės.
+kario antkapinio paminklo vertės.
 
-*6. Šio įstatymo
+6. Šio įstatymo
 
 59 straipsnyje numatytų nėštumo ir gimdymo atostogų laikotarpiu profesinės karo
 
@@ -6740,16 +6636,6 @@ jeigu gimsta du ir daugiau vaikų, vaiko priežiūros, kol jam sueis vieni metai
 atostogų laikotarpiu mokamas Vyriausybės nustatyta tvarka apskaičiuotas
 
 vidutinis jų atlyginimas.
-
-*Pastaba. Įsigaliojus įstatymui Nr.
-
-X-662, profesinės karo
-
-tarnybos kariams, esantiems vaiko priežiūros, kol jam sueis vieni metai,
-
-atostogose, apskaičiuotos sumos perskaičiuojamos vadovaujantis šio straipsnio 6
-
-dalies nuostatomis ir mokamos nuo nuostatų įsigaliojimo dienos [2006-07-01].
 
 7. Šio įstatymo 59
 
@@ -6803,9 +6689,9 @@ Nr. X-123, 2005-02-15,
 
 Nr.
 
-X-662,
+X-662, 2006-06-08,
 
-2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
+Žin., 2006, Nr. 72-2679 (2006-06-28)
 
 69 straipsnis.
 
@@ -6907,15 +6793,15 @@ apsaugos tarnybą pagal civilinės krašto apsaugos tarnybos sutartis;
 
 tarnyba nustatyta tvarka atliekama krašto apsaugos sistemos institucijose,
 
-kitose valstybės institucijose, taip pat užsienio valstybių bei tarptautinėse karinėse
+kitose valstybės institucijose, taip pat užsienio valstybių bei tarptautinėse
 
-ir gynybos institucijose, kai tarnybinėms funkcijoms atlikti nebūtina
+karinėse ir gynybos institucijose, kai tarnybinėms funkcijoms atlikti
 
-būti profesinės karo tarnybos kariu, tačiau reikia turėti specialių žinių ir
+nebūtina būti profesinės karo tarnybos kariu, tačiau reikia turėti specialių
 
-(ar) patirties krašto apsaugos sistemoje, ir tarnybos specifikai ar atliekamoms
+žinių ir (ar) patirties krašto apsaugos sistemoje, ir tarnybos specifikai ar
 
-funkcijoms būtini statutiniai santykiai.
+atliekamoms funkcijoms būtini statutiniai santykiai.
 
 3. Atsižvelgdama į šio straipsnio
 
@@ -6931,9 +6817,9 @@ Laikydamasis šių apribojimų, krašto apsaugos ministras nustato krašto apsau
 
 sistemos statutinių valstybės tarnautojų pareigybes.
 
-4. Kitų krašto apsaugos sistemos valstybės
+4. Kitų krašto apsaugos sistemos
 
-tarnautojų tarnybos santykius reglamentuoja Valstybės tarnybos įstatymas.
+valstybės tarnautojų tarnybos santykius reglamentuoja Valstybės tarnybos įstatymas.
 
 Straipsnio pakeitimai:
 
@@ -6973,9 +6859,9 @@ operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos statuto
 
 nustatyta tvarka gali būti suteikiamos kvalifikacinės kategorijos;
 
-3)
+3) taikomos
 
-taikomos tarnybos apmokėjimo sąlygos, nurodytos šio įstatymo 75 straipsnyje;
+tarnybos apmokėjimo sąlygos, nurodytos šio įstatymo 75 straipsnyje;
 
 4)
 
@@ -7015,13 +6901,13 @@ valstybės paslapčių apsaugai, tarnybos pareigų vykdymui ar galinčius būti
 
 interesų konflikto priežastimi. Šie duomenys tikrinami. Nuslėpęs ar sąmoningai
 
-pateikęs neteisingus duomenis asmuo traukiamas atsakomybėn pagal įstatymą. Su
+pateikęs neteisingus duomenis asmuo traukiamas atsakomybėn pagal įstatymą. Su nuslėpusiuoju
 
-nuslėpusiuoju ar sąmoningai pateikusiuoju neteisingus duomenis gali būti
+ar sąmoningai pateikusiuoju neteisingus duomenis gali būti nutraukta civilinės
 
-nutraukta civilinės krašto apsaugos tarnybos sutartis ir jis atleistas iš
+krašto apsaugos tarnybos sutartis ir jis atleistas iš tarnybos krašto apsaugos
 
-tarnybos krašto apsaugos sistemoje.
+sistemoje.
 
 4. Siekiant užtikrinti valstybės
 
@@ -7077,11 +6963,11 @@ tarnybos statute nustatyto turinio priesaiką.
 
 3. Civilinės krašto apsaugos
 
-tarnybos sutarties būtinoji sąlyga yra tarnautojo įsipareigojimas tarnauti
+tarnybos sutarties būtinoji sąlyga yra tarnautojo įsipareigojimas tarnauti civilinėje
 
-civilinėje krašto apsaugos tarnyboje įstatymų ir kitų teisės aktų bei statutų
+krašto apsaugos tarnyboje įstatymų ir kitų teisės aktų bei statutų nustatytomis
 
-nustatytomis sąlygomis ir tvarka.
+sąlygomis ir tvarka.
 
 4. Valstybės tarnautojas savo
 
@@ -7101,9 +6987,9 @@ dalyje nurodytus įsipareigojimus, kai nėra šio straipsnio 4 dalyje nurodytų
 
 priežasčių, arba jei sutartis nutraukiama darbdavio iniciatyva dėl tarnautojo
 
-kaltės, asmuo privalo atlyginti valstybei krašto apsaugos sistemos išlaidas, tiesiogiai
+kaltės, asmuo privalo atlyginti valstybei krašto apsaugos sistemos išlaidas,
 
-susijusias su jo mokymu, profesiniu parengimu ar kvalifikacijos kėlimu,
+tiesiogiai susijusias su jo mokymu, profesiniu parengimu ar kvalifikacijos kėlimu,
 
 įskaitant ir mokymosi užsienio mokyklose bei kursuose išlaidas, kurias kaip
 
@@ -7215,13 +7101,13 @@ straipsnis. Civilinės krašto apsaugos tarnybos tarnautojų aprūpinimas
 
 uniformomis
 
-1. Civilinės krašto apsaugos tarnybos
+1. Civilinės krašto apsaugos
 
-tarnautojai, kuriems pagal krašto apsaugos ministro patvirtintą pareigų sąrašą
+tarnybos tarnautojai, kuriems pagal krašto apsaugos ministro patvirtintą pareigų
 
-priklauso dėvėti tarnybines uniformas, jomis aprūpinami iš valstybės biudžeto
+sąrašą priklauso dėvėti tarnybines uniformas, jomis aprūpinami iš valstybės
 
-lėšų Vyriausybės nustatytomis sąlygomis ir tvarka.
+biudžeto lėšų Vyriausybės nustatytomis sąlygomis ir tvarka.
 
 2. Civilinės krašto apsaugos
 
@@ -7407,21 +7293,15 @@ apsaugos ministerijos tarnaujančių civilių statutinių valstybės tarnautojų
 
 pensijos ir papildomos socialinės garantijos
 
-1. Antrajame
+1. Antrajame operatyvinių tarnybų
 
-operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos civilinę
+departamente prie Krašto apsaugos ministerijos civilinę krašto apsaugos tarnybą
 
-krašto apsaugos tarnybą atliekantys civiliai statutiniai valstybės tarnautojai
+atliekantys civiliai statutiniai valstybės tarnautojai turi teisę gauti
 
-turi teisę gauti pareigūnų ir karių valstybinę pensiją. Šios pensijos skyrimo
+pareigūnų ir karių valstybinę pensiją. Šios pensijos skyrimo ir mokėjimo tvarką
 
-ir mokėjimo tvarką nustato Lietuvos Respublikos vidaus reikalų, Specialiųjų
-
-tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų
-
-departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių
-
-valstybinių pensijų įstatymas.
+nustato Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas.
 
 2. Antrajame operatyvinių tarnybų
 
@@ -7455,9 +7335,9 @@ Nr. IX-1727,
 
 2003-09-11, Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
 
-Nr. IX-2536,
+Nr. IX-2536, 2004-11-04,
 
-2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
+Žin., 2004, Nr. 171-6296 (2004-11-26)
 
 Nr. X-507, 2006-01-20,
 
@@ -7469,15 +7349,9 @@ X-662,
 
 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
 
-Papildyta
+Nr. X-1031,
 
-straipsniu:
-
-Nr.
-
-X-662,
-
-2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
+2007-01-18, Žin., 2007, Nr. 8-318 (2007-01-19)
 
 77(2)
 
@@ -7498,6 +7372,16 @@ nustatytos garantijos. Taikant šio įstatymo 67 straipsnyje nustatytas
 garantijas, jame nustatyto dydžio kompensacijos apskaičiuojamos pagal vidutinį
 
 žuvusio ar nukentėjusio tarnautojo darbo užmokestį.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+X-662, 2006-06-08,
+
+Žin., 2006, Nr. 72-2679 (2006-06-28)
 
 AŠTUNTASIS
 
@@ -7557,9 +7441,9 @@ Pakeitimai:
 
 1.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
 Nr. VIII-1027,
 
@@ -7673,9 +7557,7 @@ SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 2, 5, 7, 9, 10, 18, 31, 42, 48,
 
 8.
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. IX-1436,
 
@@ -7763,9 +7645,9 @@ KRAŠTO APSAUGOS SISTEMOS
 
 ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 2, 3, 5, 7, 9, 10, 11, 12, 13, 14, 16,
 
-20, 21, 28, 34, 36, 38, 39, 42, 44, 45, 49, 52, 53, 54, 55, 62, 67, 73
+20, 21, 28, 34, 36, 38, 39, 42, 44, 45, 49, 52, 53, 54, 55, 62, 67, 73 STRAIPSNIŲ
 
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 13.
 
@@ -7865,33 +7747,61 @@ PAVADINIMO PAKEITIMO IR ĮSTATYMO PAPILDYMO 23(1) IR 77(2) STRAIPSNIAIS
 
 ĮSTATYMAS
 
-Įstatymas įsigalioja 2006-07-01.
+Šis įstatymas
 
-18 straipsnio pakeitimas įsigalioja nuo 2006-10-01.
+įsigalioja nuo 2006 m. liepos 1 d., išskyrus šio straipsnio 2 dalyje nurodytas
 
-Įsigaliojus šiam įstatymui,
+nuostatas.
 
-profesinės karo tarnybos kariams, esantiems vaiko priežiūros, kol jam sueis
+Šio įstatymo 5
 
-vieni metai, atostogose, apskaičiuotos sumos perskaičiuojamos vadovaujantis šio įstatymo 21
+straipsnis įsigalioja nuo 2006 m. spalio 1 d.
 
-straipsnio nuostatomis ir
+Įsigaliojus šiam
 
-mokamos nuo šio
+įstatymui, profesinės karo tarnybos kariams, esantiems vaiko priežiūros, kol
 
-įstatymo
+jam sueis vieni metai, atostogose, apskaičiuotos sumos perskaičiuojamos
+
+vadovaujantis šio
+
+įstatymo 21 straipsnio nuostatomis ir mokamos nuo šio įstatymo
 
 nuostatų įsigaliojimo dienos.
 
-Konstitucinio
+18.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1031,
+
+2007-01-18, Žin., 2007, Nr. 8-318 (2007-01-19)
+
+KRAŠTO
+
+APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 77(1) STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Lietuvos
+
+Respublikos Konstitucinio
 
 Teismo nutarimai:
 
 1.
 
-Lietuvos Respublikos Konstitucinis
+Lietuvos Respublikos
 
-Teismas, Nutarimas
+Konstitucinis Teismas, Nutarimas
 
 2002-07-02, Žin., 2002, Nr.
 
@@ -7909,9 +7819,9 @@ Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2006-07-01)
+Aušrinė Trapinskienė (2007-01-23)
 
-ausra.bodin@lrs.lt
+autrap@lrs.lt
 
 38 straipsnis. Profesinės karo tarnybos ar kario
 
@@ -8213,11 +8123,11 @@ valstybės sienos apsaugą;
 
 4) teikiant pagalbą valstybės
 
-sienos apsaugos, muitinės, aplinkos apsaugos, žvejybos ir laivybos kontrolės
+sienos apsaugos, muitinės, aplinkos apsaugos, žvejybos ir laivybos kontrolės institucijoms,
 
-institucijoms, kad būtų įgyvendinti jų įgaliojimai Lietuvos Respublikos
+kad būtų įgyvendinti jų įgaliojimai Lietuvos Respublikos teritorinėje jūroje,
 
-teritorinėje jūroje, išskirtinėje ekonominėje zonoje bei kontinentiniame šelfe;
+išskirtinėje ekonominėje zonoje bei kontinentiniame šelfe;
 
 5) ypatingais atvejais, kai kyla
 
@@ -8249,13 +8159,11 @@ nėra tinkamų Vadovybės apsaugos departamento ir kitų vidaus reikalų statuti
 
 9) prireikus padėti
 
-institucijoms, atsakingoms už žmonių paieškos ir gelbėjimo bei teršalų jūroje
+institucijoms, atsakingoms už žmonių paieškos ir gelbėjimo bei teršalų jūroje likvidavimo
 
-likvidavimo darbų koordinavimą, atlikti žmonių paieškos ir gelbėjimo darbus,
+darbų koordinavimą, atlikti žmonių paieškos ir gelbėjimo darbus, kai įvyksta ar
 
-kai įvyksta ar gresia orlaivio ar laivo avarija, arba teršalų jūroje
-
-likvidavimo darbus.
+gresia orlaivio ar laivo avarija, arba teršalų jūroje likvidavimo darbus.
 
 2. Šio straipsnio 1 dalies 1
 
@@ -8311,23 +8219,23 @@ punkte nurodytu atveju gali būti naudojamos kariuomenei priskirtos stebėjimo i
 
 kontrolės techninės priemonės bei karo laivai ir orlaiviai. Tokia kariuomenės
 
-pagalba teikiama pagal bendrus jos sąveikos su valstybės sienos apsaugos, muitinės,
+pagalba teikiama pagal bendrus jos sąveikos su valstybės sienos apsaugos,
 
-aplinkos apsaugos, žvejybos ir laivybos kontrolės institucijomis planus ir
+muitinės, aplinkos apsaugos, žvejybos ir laivybos kontrolės institucijomis
 
-susitarimus dėl pagalbos. Šiuos planus ir susitarimus sudaro kariuomenės vadas
+planus ir susitarimus dėl pagalbos. Šiuos planus ir susitarimus sudaro
 
-ar jo įgalioti vadai (viršininkai) ir valstybės sienos apsaugos, muitinės,
+kariuomenės vadas ar jo įgalioti vadai (viršininkai) ir valstybės sienos
 
-aplinkos apsaugos, žvejybos ir laivybos kontrolės institucijų vadovai ar jų
+apsaugos, muitinės, aplinkos apsaugos, žvejybos ir laivybos kontrolės
 
-įgalioti pareigūnai. Bendrų sąveikos planų ir susitarimų dėl pagalbos rengimą
+institucijų vadovai ar jų įgalioti pareigūnai. Bendrų sąveikos planų ir
 
-ir vykdymą koordinuoja Vyriausybės sudaroma tarpžinybinė Teritorinės jūros,
+susitarimų dėl pagalbos rengimą ir vykdymą koordinuoja Vyriausybės sudaroma
 
-išskirtinės ekonominės zonos ir kontinentinio šelfo apsaugos ir kontrolės
+tarpžinybinė Teritorinės jūros, išskirtinės ekonominės zonos ir kontinentinio
 
-komisija.
+šelfo apsaugos ir kontrolės komisija.
 
 6. Šio straipsnio 1 dalies 5
 
@@ -8347,15 +8255,15 @@ vienkartinę pagalbą, kurios trukmė neviršija 24 valandų. Prireikus pagalbos
 
 policijai teikimo trukmė, laikantis tokios pat tvarkos, gali būti pratęsiama
 
-iki 48 valandų arba tol, kol bus pasiekti asmens sulaikymo, paieškos ar gelbėjimo
+iki 48 valandų arba tol, kol bus pasiekti asmens sulaikymo, paieškos ar
 
-operacijos tikslai. Asmens sulaikymo, paieškos ar gelbėjimo operacijai, kurią
+gelbėjimo operacijos tikslai. Asmens sulaikymo, paieškos ar gelbėjimo
 
-vykdyti padeda karinis vienetas, vadovauja policijos generalinio komisaro ar jo
+operacijai, kurią vykdyti padeda karinis vienetas, vadovauja policijos
 
-pavaduotojo arba aukštesnės pakopos policijos komisariato vadovo paskirtas
+generalinio komisaro ar jo pavaduotojo arba aukštesnės pakopos policijos
 
-pareigūnas.
+komisariato vadovo paskirtas pareigūnas.
 
 7. Šio straipsnio 1 dalies 6
 
@@ -8363,9 +8271,9 @@ punkte nurodytu atveju karinis vienetas gali būti pasitelktas krašto apsaugos
 
 ministro įsakymu, kai dėl teroro išpuolio priimamas Krizių valdymo komiteto
 
-sprendimas pasitelkti karinį vienetą. Teroro išpuolio likvidavimo operacijai, kurią
+sprendimas pasitelkti karinį vienetą. Teroro išpuolio likvidavimo operacijai,
 
-padeda vykdyti karinis vienetas, vadovauja teisės aktų nustatyta tvarka
+kurią padeda vykdyti karinis vienetas, vadovauja teisės aktų nustatyta tvarka
 
 paskirtas krizės valdymo operacijos vadovas.
 
