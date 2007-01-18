@@ -4,7 +4,7 @@ identifier: "TAR.F4A56D37CD91"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2001-06-26"
+last_updated: "2007-01-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F4A56D37CD91"
 department: "Lietuvos Respublikos Seimas"
@@ -16,8 +16,6 @@ document_status: "registruotas TA registre"
 # Lietuvos Respublikos akcinės bendrovės Turto banko įstatų patvirtinimo įstatymas
 
 Įstatymas skelbtas Žin., 1996, Nr. 81-1931
-
-Nauja įstatymo redakcija skelbta: Žin., 2001, Nr. 62-2222
 
 Neoficialus įstatymo tekstas
 
@@ -39,13 +37,23 @@ Nr. IX-405, 2001-06-26, Žin., 2001, Nr.
 
 62-2222 (2001-07-18)
 
-1 straipsnis. Akcinės bendrovės Turto banko įstatų
+1 straipsnis. Akcinės
 
-patvirtinimas
+bendrovės Turto banko įstatų patvirtinimas
 
 Patvirtinti
 
 akcinės bendrovės Turto banko įstatus (pridedami).
+
+2
+
+straipsnis. Akcinės bendrovės Turto banko įstatų 11 punkto 12 ir 13 papunkčių
+
+įsigaliojimas
+
+Šiuo įstatymu patvirtintų įstatų 11 punkto 12 ir 13
+
+papunkčiai įsigalioja nuo 2001 m. rugsėjo 1 d.
 
 2 straipsnis. Akcinės
 
@@ -59,15 +67,13 @@ papunkčiai įsigalioja nuo 2001 m.
 
 rugsėjo 1 d.
 
-3 straipsnis. Akcinės
+3 straipsnis. Neteko galios nuo 2007 m. sausio 30 d.
 
-bendrovės Turto banko, įstatų ir jų pakeitimų registravimas
+Straipsnio pakeitimai:
 
-Akcinę bendrovę Turto banką, akcinės bendrovės Turto
+Nr. X-1025,
 
-banko įstatus ir jų pakeitimus registruoja Lietuvos Respublikos ūkio
-
-ministerija.
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
@@ -75,7 +81,9 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą
 
 RESPUBLIKOS PREZIDENTAS
 
-VALDAS ADAMKUS
+VALDAS
+
+ADAMKUS
 
 Lietuvos
 
@@ -141,29 +149,49 @@ jei šie įstatai nenustato ko kita.
 
 kalendoriniais metais.
 
-8. AB Turto banko akcininkas yra valstybė, kuriai atstovauja
+8. AB Turto banko akcininkas yra tik valstybė, kuriai
 
-Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija (toliau –
+atstovauja Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija (toliau
 
-akcininkas).
+– akcininkas).
 
-9. AB Turto banko pagrindinės buveinės adresas: J.
+Punkto pakeitimai:
 
-Tumo-Vaižganto g. 8a/2, 2600 Vilnius, Lietuvos Respublika.
+Nr. X-1025,
 
-II
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
-SKYRIUS
+9. AB Turto banko pagrindinės buveinės adresas:
+
+Kęstučio g. 45, LT-08124 Vilnius, Lietuvos Respublika.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+II SKYRIUS
 
 AB TURTO BANKO veiklos
 
 TIKSLAI
 
-10. AB Turto banko veiklos tikslai – realizuoti
+10. AB Turto banko veiklos tikslai – organizuoti ir
+
+koordinuoti valstybės nekilnojamojo turto atnaujinimą, realizuoti
 
 perimtus neveiksnius aktyvus ir išieškoti pagal sutartis perduotas
 
-administruoti paskolas bei kitus turtinius įsipareigojimus.
+administruoti paskolas, valstybės garantijas bei kitus turtinius
+
+įsipareigojimus.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
 III SKYRIUS
 
@@ -173,73 +201,89 @@ AB TURTO BANKO VEIKLA
 
 veikla:
 
-1) perka ar kitokiais teisėtais būdais įsigyja
+1)
 
-neveiksnius aktyvus iš Vyriausybės nustatytų įstaigų, organizacijų, komercinių
+perka ar kitokiais teisėtais būdais įsigyja neveiksnius aktyvus iš Vyriausybės
 
-bankų ir kitų įmonių;
+nustatytų įstaigų, organizacijų, komercinių bankų ir kitų įmonių;
 
-2) naudoja ir valdo įsigytus neveiksnius aktyvus bei
+2) naudoja ir valdo įsigytus neveiksnius aktyvus bei jais disponuoja;
 
-jais disponuoja;
+3) ima paskolas iš Vyriausybės, bankų ir kitų kredito įstaigų;
 
-3) ima paskolas iš bankų ir kitų kredito įstaigų;
+4) vykdo mokestinių nepriemokų, kurių išieškojimą AB Turto bankui
 
-4) nuomoja klientams saugykloje seifų kameras
+abipusiu susitarimu perduoda Valstybinio socialinio draudimo fondo valdyba prie
 
-vertybėms ir dokumentams saugoti;
+Socialinės apsaugos ir darbo ministerijos, išieškojimą;
 
-5) organizuoja Vyriausybės vertybinių popierių,
+5) Vyriausybės nustatyta tvarka vykdo Europos Sąjungos finansinės
 
-išleistų įgyvendinant Vyriausybės vertybinių popierių emisijos bankams
+paramos, Europos ekonominės erdvės ir Norvegijos finansinių mechanizmų bei
 
-restruktūrizuoti įstatymą, išpirkimą bei palūkanų už juos mokėjimą;
+bendrojo finansavimo lėšų, išmokėtų pagal Lietuvos Respublikos valstybės
 
-6) investuoja laisvas lėšas į Vyriausybės
+biudžeto specialiąsias programas ir (arba) panaudotų pažeidžiant teisės aktus,
 
-vertybinius popierius;
+išieškojimą;
 
-7) atlieka operacijas su investicinių akcinių
+6) laisvas lėšas akcininko nustatyta tvarka investuoja į Europos
 
-bendrovių, kurių likvidatoriaus funkcijas atlieka AB Turto bankas, ir kitų
+Sąjungos ir Europos ekonominės erdvės šalių vyriausybių, taip pat Šveicarijos
 
-emitentų vertybiniais popieriais, tvarko šių vertybinių popierių apskaitą,
+vyriausybės išleistus skolos vertybinius popierius, terminuotus indėlius
 
-teikia konsultacijas vertybinių popierių klausimais;
+ir panaudoja valstybės nekilnojamajam turtui atnaujinti ir (arba) kitiems
+
+akcininko nustatytiems tikslams;
+
+7) atlieka operacijas su investicinių akcinių bendrovių, kurių
+
+likvidatoriaus funkcijas atlieka AB Turto bankas, ir kitų emitentų vertybiniais
+
+popieriais, tvarko šių vertybinių popierių apskaitą, teikia konsultacijas vertybinių
+
+popierių klausimais;
 
 8) vykdo prievoles, perimtas iš reorganizuotų ir restruktūrizuotų
 
 bankų;
 
-9) atlieka investicinių akcinių bendrovių
+9) atlieka investicinių akcinių bendrovių likvidatoriaus funkcijas;
 
-likvidatoriaus funkcijas;
+10) Vyriausybės nustatyta tvarka pagal pavedimo sutartis su Finansų
 
-10) Vyriausybės nustatyta tvarka pagal sutartis su
+ministerija administruoja paskolas, valstybės garantijas ir kitus turtinius
 
-Finansų ministerija administruoja paskolas, suteiktas iš valstybės vardu gautų
+įsipareigojimus;
 
-vidaus ir užsienio paskolų lėšų, ir paskolas su valstybės garantija bei kitus
+11) įstatymų nustatytais atvejais atlieka bankų likvidatoriaus
 
-turtinius įsipareigojimus;
+funkcijas;
 
-11) įstatymų nustatytais atvejais atlieka bankų
+12) vykdo mokesčių mokėtojų mokestinių nepriemokų, kurių išieškojimas
 
-likvidatoriaus funkcijas;
+perduotas finansų ministro nustatyta tvarka, išieškojimą;
 
-12) vykdo mokesčių mokėtojų mokestinių nepriemokų,
+13) vykdo importo ir eksporto mokesčių ir muitų, baudų ir delspinigių,
 
 kurių išieškojimas perduotas finansų ministro nustatyta tvarka, išieškojimą;
 
-13) vykdo importo ir eksporto mokesčių ir muitų, baudų
+14)
 
-ir delspinigių, kurių išieškojimas perduotas finansų ministro nustatyta tvarka,
+atlieka valstybės nekilnojamojo turto atnaujinimo organizavimo ir koordinavimo
 
-išieškojimą.
+funkcijas;
 
-IV
+15) atlieka kitas Vyriausybės pavestas funkcijas.
 
-SKYRIUS
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+IV SKYRIUS
 
 AB TURTO BANKO TEISĖS
 
@@ -303,23 +347,25 @@ sąlygomis, tvarka bei sumomis;
 
 vienašališkai nutraukti sutartį arba pareikalauti papildomos garantijos;
 
-10) priimti užsienio valiutą, kai vykdomi
+10) (neteko galios nuo 2007 m. sausio 30 d.);
 
-įsipareigojimai AB Turto bankui dėl užsienio valiuta išduotų paskolų grąžinimo;
+11) užtikrinti prievolių, susijusių su naudingesniu
 
-11) užtikrinti prievolių, susijusių su naudingesniu neveiksnių
+neveiksnių aktyvų realizavimu, įvykdymą laidavimu, garantija ir kitais
 
-aktyvų realizavimu, įvykdymą laidavimu, garantija ir kitais prievolių
-
-užtikrinimo būdais;
+prievolių užtikrinimo būdais;
 
 12) ir kitų teisių, kurios neprieštarauja įstatymams,
 
 kitiems teisės aktams bei šiems įstatams.
 
-V
+Punkto pakeitimai:
 
-SKYRIUS
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+V SKYRIUS
 
 AB TURTO BANKO KAPITALAS, AKCIJOS
 
@@ -331,9 +377,17 @@ perkainojimo ir privalomąjį rezervus.
 
 vardines akcijas, kurių kiekvienos nominali vertė – 100 litų.
 
-15. AB Turto banko privalomasis rezervas formuojamas
+15. Privalomasis rezervas sudaromas iš paskirstytinojo pelno. Jis turi
 
-iš jo akcininko papildomų įnašų ir iš AB Turto banko grynojo pelno atskaitymų.
+būti ne mažesnis kaip 1/10 įstatinio kapitalo ir gali būti naudojamas tik
+
+bendrovės nuostoliams padengti.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
 16. AB Turto banko perkainojimo rezervas – tai
 
@@ -343,7 +397,9 @@ perkainojus turtą. Perkainojimo rezervas mažinamas, kai perkainotas turtas
 
 nurašomas, nudėvimas, nukainojamas ar perleidžiamas valstybei, savivaldybei ar
 
-kitų asmenų nuosavybėn. Akcinių bendrovių įstatymo nustatyta tvarka perkainojimo rezervu gali būti didinamas įstatinis kapitalas.
+kitų asmenų nuosavybėn. Akcinių bendrovių įstatymo nustatyta tvarka perkainojimo rezervu gali būti didinamas įstatinis
+
+kapitalas.
 
 17. Už AB Turto banko akcijas gali būti mokama:
 
@@ -361,9 +417,9 @@ tvarka įvertintas. Nepiniginių (turtinių) įnašų vertę tvirtina Vyriausyb�
 
 19. Kai patvirtinama nepiniginių (turtinių) įnašų vertė, tampa
 
-apmokėtos tik tos akcijos, kurios turi būti padengtos nepiniginiais (turtiniais)
+apmokėtos tik tos akcijos, kurios turi būti padengtos nepiniginiais
 
-įnašais.
+(turtiniais) įnašais.
 
 VI SKYRIUS
 
@@ -381,35 +437,65 @@ išskyrus įsipareigojimą apmokėti visas pasirašytas AB Turto banko akcijas.
 
 3) nemokamai gauti akcijų, jei AB Turto banko
 
-įstatinis kapitalas didinamas iš bendrovės lėšų.
+įstatinis kapitalas didinamas iš bendrovės lėšų;
+
+4) kitas Akcinių bendrovių įstatyme nustatytas
+
+turtines teises.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
 22. Akcininkas turi šias neturtines teises:
 
-1) apskųsti teismui valdybos nutarimus;
+1) apskųsti teismui AB Turto banko valdymo organų
+
+sprendimus;
 
 2) ne rečiau kaip kas ketvirtį gauti informaciją apie
 
-AB Turto banko veiklą.
+AB Turto banko veiklą;
 
-23. Akcininkas turi teisę skirti auditorius AB Turto
+3) kitas Akcinių bendrovių įstatyme nustatytas neturtines teises.
 
-banko veiklai ir apskaitos dokumentams patikrinti.
+Punkto pakeitimai:
 
-VII
+Nr. X-1025,
 
-SKYRIUS
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+23. Akcininkas turi teisę rinkti ir atšaukti
+
+audito įmonę, nustatyti audito paslaugų apmokėjimo sąlygas.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+VII SKYRIUS
 
 AB TURTO BANKO VALDYMAS IR VEIKLOS ORGANIZAVIMAS
 
-24. AB Turto banko valdymo organai yra visuotinis
+24. AB Turto bankas turi visuotinį akcininkų susirinkimą, kolegialų
 
-akcininkų susirinkimas, AB Turto banko valdyba ir administracijos vadovas.
+priežiūros organą - stebėtojų tarybą ir valdymo organus - valdybą ir administracijos vadovą.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
 25. Visuotinis akcininkų susirinkimas:
 
-1) tvirtina pajamų ir sąnaudų sąmatą, investicijų
+1) tvirtina pajamų ir sąnaudų sąmatą, investicijų į AB
 
-planą;
+Turto banko turtą planą;
 
 2) priima sprendimus dėl AB Turto banko dukterinių
 
@@ -419,19 +505,87 @@ planą;
 
 akcininkų susirinkimo kompetencijai priskirtus veiksmus.
 
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
 26. Akcininko raštiški sprendimai prilygsta
 
 visuotinio akcininkų susirinkimo nutarimams.
 
-27. Valdybos narius ir jos pirmininką 4 metams
+27. Stebėtojų tarybos narius ir jos pirmininką 4 metams skiria ir
 
-skiria ir atlyginimą jiems nustato Lietuvos Respublikos Vyriausybė. AB Turto
+atšaukia Lietuvos Respublikos Vyriausybė. AB Turto banko stebėtojų tarybą
 
-banko valdybą sudaro 5 nariai. Valdybos nariai yra AB Turto banko darbuotojai.
+sudaro 5 nariai – valstybės institucijų atstovai. Stebėtojų taryba yra
 
-28. Valdybos nario kadencijų skaičius neribojamas. Valdybos darbe
+kolegialus AB Turto banko veiklos priežiūrą atliekantis organas. Stebėtojų
 
-patariamojo balso teise gali dalyvauti akcininko paskirtas asmuo.
+tarybai vadovauja jos pirmininkas. Stebėtojų tarybos nariai turi atitikti
+
+Akcinių bendrovių įstatymo stebėtojų tarybos nariams nustatytus reikalavimus.
+
+Stebėtojų tarybos posėdžius šaukia stebėtojų tarybos pirmininkas. Stebėtojų
+
+tarybos posėdžiai šaukiami ir sprendimai priimami stebėtojų tarybos darbo
+
+reglamento nustatyta tvarka. Stebėtojų tarybos nariai turi lygias balso teises.
+
+Jei balsai pasiskirsto po lygiai, lemia stebėtojų tarybos pirmininko balsas.
+
+Stebėtojų taryba:
+
+1) prižiūri valdybos ir administracijos vadovo veiklą;
+
+2) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir
+
+pasiūlymus dėl AB Turto banko veiklos strategijos, metinės finansinės
+
+atskaitomybės, pelno paskirstymo, pajamų ir sąnaudų sąmatos bei investicijų į
+
+AB Turto banko turtą plano projektų ir bendrovės metinio pranešimo, taip pat
+
+dėl valdybos bei administracijos vadovo veiklos;
+
+3) teikia siūlymus valdybai ir administracijos vadovui atšaukti savo
+
+sprendimus, jeigu šie sprendimai prieštarauja įstatymams ir kitiems teisės
+
+aktams, AB Turto banko įstatams ar visuotinio akcininkų susirinkimo
+
+sprendimams;
+
+4) sprendžia kitus Lietuvos Respublikos teisės aktuose, AB Turto banko
+
+įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose stebėtojų
+
+tarybos kompetencijai priskirtus AB Turto banko ir jo valdymo organų veiklos
+
+priežiūros klausimus.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+28. Valdybos narius ir jos pirmininką 4 metams skiria ir atlyginimą
+
+jiems nustato stebėtojų taryba. AB Turto banko valdybą sudaro 5 nariai. Ne
+
+mažiau kaip 2 valdybos nariai turi būti valstybės institucijų atstovai. Kiti
+
+valdybos nariai yra Turto banko darbuotojai.
+
+Valdybos nario kadencijų skaičius neribojamas.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
 29. Banko valdybos nariai turi atitikti Akcinių
 
@@ -451,47 +605,61 @@ ir sprendimai priimami valdybos darbo reglamento nustatyta tvarka.
 
 33. AB Turto banko valdyba:
 
-1) tvirtina AB Turto banko valdymo struktūrą, turi
+1)
 
-teisę panaikinti neteisėtus valdybos pirmininko (administracijos vadovo)
+tvirtina AB Turto banko valdymo struktūrą;
 
-įsakymus ir kitus sprendimus;
+2) tvirtina AB Turto banko metinį pranešimą, vidaus darbo
 
-2) tvirtina AB Turto banko vidaus darbo tvarkos
+tvarkos taisykles, vidaus kontrolės ir audito procedūras, struktūrinių
 
-taisykles, struktūrinių padalinių nuostatus, administracijos, vidaus audito
+padalinių nuostatus, administracijos darbo reglamentą, etatų sąrašą;
 
-tarnybos darbo reglamentą, etatų sąrašą;
+3) vertina bendrovės metinės finansinės atskaitomybės projektą ir kartu
 
-3) rengia ir pateikia visuotiniam akcininkų
+su bendrovės metiniu pranešimu teikia juos stebėtojų tarybai bei visuotiniam
 
-susirinkimui tvirtinti metinę AB Turto banko valdybos veiklos ataskaitą
+akcininkų susirinkimui;
 
-ir metinių finansinių ataskaitų dokumentus;
+4) teikia stebėtojų tarybai bei visuotiniam akcininkų susirinkimui
 
-4) teikia visuotiniam akcininkų susirinkimui pelno
+pelno paskirstymo, pajamų ir sąnaudų sąmatos bei investicijų į AB Turto banko
 
-paskirstymo, pajamų ir sąnaudų sąmatos bei investicijų plano projektus;
+turtą plano projektus;
 
 5) sudaro ir nutraukia darbo sutartį su vyriausiuoju finansininku,
 
 nustato jo pareiginį atlyginimą, jeigu jis nėra valdybos narys;
 
-6) sudaro ir nutraukia darbo sutartį su vidaus audito
+6) priima sprendimus ir paveda
 
-tarnybos vadovu;
+valdybos pirmininkui (administracijos vadovui) sudaryti sandorius dėl
+
+skolinimosi; sprendimams dėl lėšų, kurių reikia valstybės nekilnojamajam turtui
+
+atnaujinti, skolinimosi turi pritarti Finansų ministerija;
 
 7) kontroliuoja, kaip naudojamas AB Turto banko
 
 turtas;
 
-8) turi kitus Akcinių bendrovių įstatymo valdybai
+8) turi kitus Akcinių bendrovių įstatymo valdybai suteiktus
 
-suteiktus įgaliojimus.
+įgaliojimus.
 
-34. AB Turto banko valdyba už savo veiklą, finansiniams metams
+Punkto pakeitimai:
 
-pasibaigus, bet ne vėliau kaip per 3 mėnesius, atsiskaito akcininkui.
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+34. (neteko galios nuo 2007 m. sausio 30 d.)
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
 35. AB Turto banko valdybos pirmininkas ir jos nariai
 
@@ -555,19 +723,25 @@ valdybos pirmininko pavaduotojas. Valdybos pirmininko pavedimu šias pareigas
 
 gali eiti ir kitas asmuo – valdybos narys.
 
-40. AB Turto banko administracija rengia posėdžius
+40. (neteko galios nuo 2007 m. sausio 30 d.)
 
-darbo klausimais. Posėdžių sprendimai darbuotojams privalomi.
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
 41. Administracijos darbo tvarką, pareigas ir teises nustato valdybos
 
 patvirtintas administracijos darbo reglamentas.
 
-42. AB Turto banko vidaus audito tarnyba sudaroma ir
+42. (neteko galios nuo 2007 m. sausio 30 d.)
 
-veikia pagal Lietuvos banko nustatytą tvarką šio banko licenciją turinčioms
+Punkto pakeitimai:
 
-kredito įstaigoms.
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
 43. AB Turto banko darbuotojai įgyvendina šiuose įstatuose nustatytus
 
@@ -585,95 +759,163 @@ VIII SKYRIUS
 
 APSKAITA, ATSKAITOMYBĖ, AUDITAS
 
-45. AB Turto bankas apskaitą tvarko ir finansines ataskaitas
+45. AB Turto bankas buhalterinę apskaitą tvarko ir finansinę
 
-sudaro Lietuvos banko licenciją turinčioms kredito įstaigoms nustatyta tvarka.
+atskaitomybę sudaro vadovaudamasis Lietuvos Respublikos įstatymais ir kitais
 
-46. AB Turto banko finansines ataskaitas turi
+teisės aktais.
 
-patikrinti akcininko išrinktas auditorius. Per 3 mėnesius nuo finansinių metų
+Punkto pakeitimai:
 
-pabaigos jas turi patvirtinti akcininkas.
+Nr. X-1025,
 
-47. AB Turto banko finansinės ataskaitos viešai
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
-skelbiamos Lietuvos banko licenciją turinčioms kredito įstaigoms nustatyta
+46. AB Turto banko metinę finansinę atskaitomybę turi patikrinti
 
-tvarka. Už finansinėse ataskaitose pateiktos informacijos teisingumą įstatymų
+akcininko išrinkta audito įmonė. Per 4 mėnesius nuo finansinių metų pabaigos
 
-nustatyta tvarka atsako valdybos pirmininkas (administracijos vadovas) ir
+metinę finansinę atskaitomybę turi patvirtinti
 
-vyriausiasis finansininkas.
+akcininkas.
 
-IX
+Punkto pakeitimai:
 
-SKYRIUS
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+47. (neteko galios nuo 2007 m. sausio 30 d.)
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+IX SKYRIUS
 
 PELNO PASKIRSTYMAS
 
-48. AB Turto banko pelnas apskaičiuojamas iš
+48. AB Turto banko gautos lėšos už parduotą valstybės nekilnojamąjį
 
-finansinių metų pajamų atskaičius tų metų sąnaudas, į kurias įtraukiama ir į
+turtą, kurį reikia atnaujinti, ir kartu parduotą jam priskirtą valstybinės
 
-pajamas įskaitytų išieškotų skolų bei parduoto turto balansinė vertė.
+žemės sklypą, taip pat lėšos, gautos iš papildomų finansavimo šaltinių,
+
+naudojamos su turto atnaujinimu susijusioms prievolėms vykdyti, Vyriausybės
+
+nustatyta tvarka apskaičiuotam atlygiui AB Turto bankui už valstybės
+
+nekilnojamojo turto atnaujinimo organizavimą bei koordinavimą mokėti ir kitoms
+
+faktinėms su turto įsigijimu susijusioms išlaidoms dengti. Jeigu pardavus
+
+nekilnojamąjį turtą, kurį reikia atnaujinti, ir atskaičius šiame punkte
+
+numatytas išlaidas, lieka nepanaudotų lėšų, jos gali būti Vyriausybės nustatyta
+
+tvarka naudojamos tik kitam valstybės nekilnojamajam turtui atnaujinti,
+
+prioritetą teikiant valstybės turto valdytojo poreikiams.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
 49. AB Turto banko lėšos, gautos realizavus perimtus neveiksnius
 
-aktyvus, atskaičius AB Turto banko aptarnavimo ir personalo išlaikymo
+aktyvus, atskaičius Vyriausybės nustatyta tvarka apskaičiuotą atlygį AB
 
-išlaidas, panaudojamos Vyriausybės vertybiniams popieriams išpirkti ir kitiems
+Turto bankui, panaudojamos Vyriausybės
 
-akcininko nustatytiems tikslams.
+vertybiniams popieriams išpirkti ir kitiems akcininko
 
-50. Lėšos, gautos administruojant paskolas ir kitus
+nustatytiems tikslams.
 
-turtinius įsipareigojimus Vyriausybės nustatyta tvarka pagal sutartis su
+Punkto pakeitimai:
 
-Finansų ministerija, atskaičius banko aptarnavimo ir personalo išlaikymo
+Nr. X-1025,
 
-išlaidas, naudojamos šiose sutartyse nustatyta tvarka.
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+50. Lėšos, gautos administruojant paskolas ir kitus turtinius
+
+įsipareigojimus Vyriausybės nustatyta tvarka pagal sutartis su Finansų
+
+ministerija, atskaičius Vyriausybės nustatyta tvarka apskaičiuotą atlygį AB
+
+Turto bankui, naudojamos šiose sutartyse nustatyta tvarka.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
 
 51. Turto banko pelnas turi būti paskirstytas ne
 
-vėliau kaip per 3 mėnesius po finansinių metų pabaigos, prieš tai patvirtinus
+vėliau kaip per 4 mėnesius po finansinių metų pabaigos. Sprendime dėl pelno
 
-metų finansines ataskaitas. Sprendime dėl pelno paskirstymo nurodoma:
+paskirstymo nurodoma:
 
-1) nepaskirstytasis pelnas (nuostolis) finansinių metų
+1) ankstesnių finansinių metų nepaskirstytasis pelnas
 
-pradžioje;
+(nuostoliai) ataskaitinių finansinių metų pabaigoje;
 
-2) grynasis finansinių metų rezultatas (pelnas arba
+2) grynasis ataskaitinių finansinių metų pelnas
 
-nuostolis);
+(nuostoliai);
 
-3) paskirstytinasis rezultatas (pelnas arba
+3) pelno (nuostolių) ataskaitoje nepripažintas
 
-nuostolis);
+ataskaitinių finansinių metų pelnas (nuostoliai);
 
-4) akcininko įnašas nuostoliams padengti;
+4) pervedimai iš privalomojo rezervo;
 
-5) pelno paskirstymas į privalomąjį rezervą;
+5)
 
-6) pelno paskirstymas dividendams išmokėti;
+akcininko įnašas bendrovės nuostoliams padengti (jeigu visus ar dalį nuostolių
 
-7) pelno panaudojimas banko darbuotojų premijoms;
+nusprendė padengti akcininkas);
 
-8) nepaskirstytinasis rezultatas, perkeliamas į kitus
+6) paskirstytinasis pelnas (nuostoliai) iš viso;
 
-finansinius metus.
+7) pelno dalis, skirta privalomajam rezervui;
 
-52. Mokesčius ir kitas įmokas į valstybės biudžetą bei
+8)
 
-Kelių fondą AB Turto bankas apskaičiuoja ir moka Mokesčių administravimo
+pelno dalis, skirta dividendams išmokėti;
 
-įstatymo ir kitų įstatymų Lietuvos banko licenciją turinčioms kredito įstaigoms
+9) pelno dalis,
 
-nustatyta tvarka.
+skirta darbuotojų premijoms ir kitiems tikslams;
 
-X
+10) nepaskirstytinasis pelnas (nuostoliai)
 
-SKYRIUS
+ataskaitinių finansinių metų pabaigoje perkeliamas į kitus finansinius metus.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+52. Mokesčius, kitas įmokas į valstybės biudžetą ir
+
+fondus AB Turto bankas apskaičiuoja ir moka Mokesčių administravimo įstatymo ir
+
+kitų įstatymų nustatyta tvarka.
+
+Punkto pakeitimai:
+
+Nr. X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+X SKYRIUS
 
 AB TURTO BANKO REORGANIZAVIMAS IR LIKVIDAVIMAS
 
@@ -689,9 +931,9 @@ Pakeitimai:
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-405, 2001-06-26, Žin.,
+Nr. IX-405, 2001-06-26, Žin., 2001, Nr.
 
-2001, Nr. 62-2222 (2001-07-18)
+62-2222 (2001-07-18)
 
 AKCINĖS BENDROVĖS TURTO BANKAS ĮSTATŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO
 
@@ -699,9 +941,33 @@ AKCINĖS BENDROVĖS TURTO BANKAS ĮSTATŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO
 
 Nauja įstatymo redakcija
 
-*** Pabaiga ***
+(keistas įstatymo pavadinimas)
 
-Redagavo: Aušra Petraitienė (2001-07-18)
+2.
 
-aupetr@lrs.l
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1025,
+
+2007-01-18, Žin., 2007, Nr. 12-494 (2007-01-30)
+
+AKCINĖS
+
+BENDROVĖS TURTO BANKO ĮSTATŲ PATVIRTINIMO ĮSTATYMO 3 STRAIPSNIO PRIPAŽINIMO
+
+NETEKUSIU GALIOS IR PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2007-02-05)
+
+autrap@lrs.lt
 
