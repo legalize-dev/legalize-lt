@@ -4,7 +4,7 @@ identifier: "TAR.EDDCB615126E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-13"
-last_updated: "2006-12-12"
+last_updated: "2007-01-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 department: "Lietuvos Respublikos Seimas"
@@ -26,21 +26,11 @@ Neoficialus
 
 įstatymo tekstas
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS
 
-RESPUBLIKOS
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
 
-VIDAUS REIKALŲ,
-
-SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS,
-
-KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR
-
-KARIŲ VALSTYBINIŲ PENSIJŲ
-
-Į S T A T Y M A
-
-S
+ĮSTATYMAS
 
 Įstatymo
 
@@ -54,6 +44,10 @@ Nr. VIII-1851,
 
 2000 07 13, Žin., 2000, Nr. 64-1923 (2000 07 31)
 
+Nr. X-1027,
+
+2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19)
+
 1994 m. gruodžio 13 d. Nr. I-693
 
 Vilnius
@@ -66,23 +60,13 @@ Nr. X-212, 2005-05-19,
 
 Žin., 2005, Nr. 71-2558 (2005-06-07)
 
-1 straipsnis. Teisė gauti vidaus
-
-reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos,
-
-prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių
+1 straipsnis. Teisė gauti
 
 pareigūnų ir karių valstybinę pensiją
 
-1. Teisę gauti vidaus reikalų, Specialiųjų tyrimų
+1. Teisę gauti pareigūnų ir karių valstybinę pensiją
 
-tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų
-
-departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių
-
-valstybinę pensiją (toliau – pareigūnų ir karių valstybinė pensija) turi šie
-
-Lietuvos Respublikos piliečiai:
+turi šie Lietuvos Respublikos piliečiai:
 
 1) Vidaus reikalų ministerijos, policijos, Valstybės
 
@@ -104,7 +88,13 @@ krašto apsaugos tarnybą atliekantys statutiniai valstybės tarnautojai;
 
 6) Kalėjimų departamento, jam pavaldžių įstaigų bei
 
-valstybės įmonių pareigūnai.
+valstybės įmonių pareigūnai;
+
+7) muitinės mobiliųjų grupių
+
+pareigūnai, muitinės postų pareigūnai ir muitinės pareigūnai, atliekantys
+
+operatyvinę veiklą ir (arba) ikiteisminį tyrimą.
 
 2. Teisę gauti pareigūnų ir
 
@@ -116,9 +106,9 @@ Krašto apsaugos ministerijos kadrų, Antrojo operatyvinių tarnybų departament
 
 prie Krašto apsaugos ministerijos rezervą, Valstybės saugumo departamento,
 
-Specialiųjų tyrimų tarnybos pareigūnų rezervą, dirba kitose Lietuvos Respublikos
+Specialiųjų tyrimų tarnybos pareigūnų rezervą, dirba kitose Lietuvos
 
-ministerijose, departamentuose, įstaigose ir organizacijose.
+Respublikos ministerijose, departamentuose, įstaigose ir organizacijose.
 
 3. Teisę gauti pareigūnų ir karių netekto darbingumo
 
@@ -138,9 +128,13 @@ Nr. X-506, 2006-01-20,
 
 Žin., 2006, Nr. 17-601 (2006-02-11)
 
-4 straipsnis. Pareigūnų ir karių
+Nr. X-1027,
 
-valstybinių pensijų rūšys
+2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19)
+
+4 straipsnis.
+
+Pareigūnų ir karių valstybinių pensijų rūšys
 
 Pagal šį įstatymą skiriamos šios
 
@@ -152,9 +146,9 @@ pareigūnų ir karių valstybinės pensijos:
 
 3) našlių ir našlaičių.
 
-5 straipsnis. Teisė pasirinkti
+5 straipsnis.
 
-pensijos rūšį
+Teisė pasirinkti pensijos rūšį
 
 1. Pareigūnai ir kariai, kurie įgyja
 
@@ -174,25 +168,31 @@ pensijų. Pareigūnų ir karių valstybinė našlių ar našlaičių pensija mok
 
 su pensija už tarnybą ar netekto darbingumo pensija.
 
-6 straipsnis. Pareigūnų ir karių tarnybos laikas
+6 straipsnis. Pareigūnų ir
 
-pensijai skirti
+karių tarnybos laikas pensijai skirti
 
 Vidaus reikalų, valstybės saugumo, krašto apsaugos,
 
-prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento, jam
+prokuratūros, muitinės sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų
 
-pavaldžių įstaigų bei valstybės įmonių pareigūnams ir kariams į tarnybos laiką
+departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnams ir kariams
 
-pensijai skirti įskaitomas:
+į tarnybos laiką pensijai skirti įskaitomas:
 
-1) tarnybos vidaus reikalų, krašto apsaugos, valstybės
+1)
 
-saugumo, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų
+tarnybos vidaus reikalų, krašto apsaugos, valstybės saugumo, prokuratūros
 
-departamente, jam pavaldžiose įstaigose bei valstybės įmonėse laikas nuo
+sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente, jam pavaldžiose
 
-paskyrimo į pareigūno ar kario pareigas dienos;
+įstaigose bei valstybės įmonėse, muitinės sistemoje (dirbusiems muitinės
+
+mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą
+
+ir (arba) ikiteisminį tyrimą) laikas nuo paskyrimo į pareigūno ar kario
+
+pareigas dienos;
 
 2) darbo įstaigose bei organizacijose laikas, jeigu
 
@@ -204,9 +204,11 @@ tarnybų departamento prie Krašto apsaugos ministerijos rezervą, Valstybės
 
 saugumo departamento bei Specialiųjų tyrimų tarnybos pareigūnų rezervą;
 
-3) nuteisto pareigūno ar kario bausmės
+3)
 
-atlikimo laikas, jeigu šis pareigūnas ar karys vėliau reabilituotas.
+nuteisto pareigūno ar kario bausmės atlikimo laikas, jeigu šis pareigūnas ar
+
+karys vėliau reabilituotas;
 
 4) tarnybos Antrajame operatyvinių tarnybų
 
@@ -222,9 +224,13 @@ Nr. X-506, 2006-01-20,
 
 Žin., 2006, Nr. 17-601 (2006-02-11)
 
-7 straipsnis. Pareigūnų ir karių valstybinės pensijos
+Nr. X-1027,
 
-už tarnybą dydis
+2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19)
+
+7 straipsnis. Pareigūnų ir
+
+karių valstybinės pensijos už tarnybą dydis
 
 1. Pareigūnų ir karių
 
@@ -260,9 +266,9 @@ ištarnavusiems daugiau kaip 20 metų skiriama šio straipsnio 2 dalyje nurodyto
 
 dydžio pensija.
 
-8 straipsnis. Pareigūnų ir karių valstybinė netekto
+8 straipsnis. Pareigūnų ir
 
-darbingumo pensija
+karių valstybinė netekto darbingumo pensija
 
 1. Pareigūnų ir karių valstybinė netekto darbingumo
 
@@ -274,23 +280,23 @@ netekta dėl priežasčių, susijusių su tarnyba, pensija skiriama nepaisant ne
 
 darbingumo pripažinimo laiko. Jei darbingumo netekta dėl kitų priežasčių,
 
-pareigūnų ir karių valstybinė netekto darbingumo pensija skiriama tik tuo
+pareigūnų ir karių valstybinė netekto darbingumo pensija skiriama tik tuo atveju,
 
-atveju, jei darbingumo netekta tarnybos metu.
+jei darbingumo netekta tarnybos metu.
 
 2. Darbingumo netekimas pripažįstamas atsiradusiu dėl
 
 priežasčių, susijusių su tarnyba, jei susirgimas, sužeidimas ar trauma, sukėlę
 
-darbingumo netekimą, įvyko tarnyboje. Priežastinį ryšį turi patvirtinti
+darbingumo netekimą, įvyko tarnyboje. Priežastinį ryšį turi patvirtinti žinybinė
 
-žinybinė centrinė medicinos ekspertizės komisija, kariams – krašto apsaugos
+centrinė medicinos ekspertizės komisija, kariams – krašto apsaugos ministro
 
-ministro sudaryta tarnybinio tyrimo komisija.
+sudaryta tarnybinio tyrimo komisija.
 
-9 straipsnis. Pareigūnų ir karių
+9 straipsnis.
 
-valstybinės netekto darbingumo pensijos dydis
+Pareigūnų ir karių valstybinės netekto darbingumo pensijos dydis
 
 1. Pareigūnų ir karių valstybinė netekto darbingumo
 
@@ -334,37 +340,9 @@ darbingumo, – 2 valstybinių socialinio draudimo bazinių pensijų dydžio;
 
 0,75 valstybinės socialinio draudimo bazinės pensijos dydžio.
 
-10 straipsnis. Pareigūnų ir karių valstybinė našlių ir
+10 straipsnis. Pareigūnų ir
 
-našlaičių pensija
-
-1 dalies redakcija iki 2007 m.
-
-sausio 1 d.:
-
-1. Teisę gauti pareigūnų ir karių valstybinę našlių ir
-
-našlaičių pensiją turi mirusiojo (arba nustatyta tvarka pripažinto mirusiu ar
-
-nežinia kur esančiu) pareigūno ar kario sutuoktinis bei vaikai, taip pat jiems
-
-prilyginti asmenys, nurodyti Valstybinių socialinio draudimo pensijų įstatymo
-
-straipsniuose, reglamentuojančiuose valstybines socialinio draudimo našlių ir
-
-našlaičių pensijas. Ši pensija skiriama, jei miręs asmuo buvo įgijęs teisę
-
-gauti pareigūnų ir karių valstybinę pensiją už tarnybą arba žuvęs ar miręs nuo
-
-sužalojimų asmuo dėl priežasčių, susijusių su tarnyba, arba dėl netekto
-
-darbingumo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę netekto
-
-darbingumo pensiją arba vieną iš šių pensijų gavo.
-
-1 dalies redakcija nuo 2007 m.
-
-sausio 1 d.:
+karių valstybinė našlių ir našlaičių pensija
 
 1.
 
@@ -384,47 +362,7 @@ tarnyba, arba dėl netekto darbingumo buvo įgijęs teisę gauti pareigūnų ir 
 
 valstybinę netekto darbingumo pensiją arba vieną iš šių pensijų gavo.
 
-2 dalies redakcija iki 2007 m.
-
-sausio 1 d.:
-
-2.
-
-Pareigūnų ir karių valstybinė našlių ir našlaičių pensija apskaičiuojama taip
-
-pat kaip karių ir pareigūnų valstybinė netekto darbingumo pensija asmenims,
-
-netekusiems 75–100 procentų darbingumo, atsižvelgiant, ar pareigūnas mirė dėl
-
-priežasčių, susijusių su tarnyba, ar dėl kitų priežasčių. Taip apskaičiuota
-
-pensija skiriama turintiems teisę gauti pareigūnų ir karių valstybinę našlių ir
-
-našlaičių pensiją asmenims Valstybinių socialinio draudimo pensijų įstatyme
-
-nustatytomis dalimis.
-
-2 dalies redakcija nuo 2007 m.
-
-sausio 1 d.:
-
 2. Pareigūnų ir karių valstybinė našlių ir našlaičių pensija apskaičiuojama taip pat kaip karių ir pareigūnų valstybinė netekto darbingumo pensija asmenims, netekusiems 75–100 procentų darbingumo, atsižvelgiant, ar pareigūnas mirė dėl priežasčių, susijusių su tarnyba, ar dėl kitų priežasčių. Taip apskaičiuota pensija skiriama turintiems teisę gauti pareigūnų ir karių valstybinę našlių ir našlaičių pensiją asmenims Valstybinių pensijų įstatymo 9 straipsnio 5 ir 8 dalyse nustatytomis dalimis.
-
-3 dalies redakcija iki 2007 m.
-
-sausio 1 d.:
-
-3. Mirus pareigūnui ar kariui, gavusiam pareigūnų ir
-
-karių valstybinę pensiją už tarnybą arba netekto darbingumo pensiją, našlių ir
-
-našlaičių pensija apskaičiuojama pagal mirusiojo gautos pensijos dydį šio
-
-straipsnio 2 dalyje nustatyta tvarka.
-
-3 dalies redakcija nuo 2007 m.
-
-sausio 1 d.:
 
 3. Mirus pareigūnui ar kariui, gavusiam pareigūnų ir
 
@@ -464,34 +402,6 @@ Nr. X-978, 2006-12-12,
 
 Žin., 2006, Nr. 141-5404 (2006-12-28)
 
-11
-
-straipsnis. Pensijos mokėjimas tarnaujantiems ir dirbantiems pensininkams
-
-1. Tarnaujantiems pareigūnams ir kariams
-
-valstybinės pensijos nemokamos, išskyrus našlių pensijas.
-
-2. Pareigūno ar kario valstybinės
-
-pensijos gavėjas privalo pranešti jam pensiją mokančiai institucijai apie tai,
-
-kad jis tapo vienu iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų
-
-įstatymo 2 straipsnio 1 dalies 1–6, 8 ir 9 punktuose, taip pat ūkininku ar jo
-
-partneriu pagal Ūkininko ūkio įstatymą, per 10 dienų nuo šio statuso atsiradimo
-
-dienos. Jeigu apie tai laiku nepranešama ir dėl to permokama pensija,
-
-permokėtos pensijos suma išieškoma iš pensijos gavėjo Valstybinių socialinio
-
-draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
-
-3. Pensininkams, gaunantiems visišką
-
-valstybės išlaikymą, pareigūnų ir karių valstybinės pensijos nemokamos.
-
 14 straipsnis. Pensijos
 
 skyrimas iš naujo
@@ -518,9 +428,9 @@ paskirta iš naujo pagal naujus duomenis. Jeigu iš naujo paskirta pensija yra
 
 mažesnė, mokama anksčiau paskirtoji pensija.
 
-15 straipsnis. Pensijos mokėjimas
+15 straipsnis.
 
-persikėlus nuolat gyventi į užsienį
+Pensijos mokėjimas persikėlus nuolat gyventi į užsienį
 
 1. Pensininkui, persikėlusiam nuolat
 
@@ -536,17 +446,23 @@ Lietuvoje laikas pensijai skirti ne mažesnis kaip 15 metų.
 
 nebemokama.
 
-16 straipsnis. Įstatymo įsigaliojimas
+16 straipsnis.
 
-1. Asmenims, nestojusiems tarnauti arba
+Įstatymo įsigaliojimas
 
-nepriimtiems į Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto
+1. Asmenims, nestojusiems tarnauti arba nepriimtiems į
 
-apsaugos, prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų
+Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto apsaugos,
 
-departamento ar jam pavaldžių įstaigų bei valstybės įmonių pareigūnus ir
+prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam
 
-karius, pareigūnų ir karių valstybinės pensijos šio įstatymo nustatyta tvarka
+pavaldžių įstaigų bei valstybės įmonių pareigūnus ir karius, muitinės
+
+pareigūnus (muitinės sistemoje dirbti muitinės mobiliosiose grupėse ar muitinės
+
+postuose arba atlikti operatyvinę veiklą ir (arba) ikiteisminį tyrimą),
+
+pareigūnų ir karių valstybinės pensijos šio įstatymo nustatyta tvarka
 
 neskiriamos.
 
@@ -558,27 +474,35 @@ ir našlaičių pensijos pagal šį įstatymą skiriamos tik už asmenis, mirusi
 
 3. Asmenims, priimtiems tarnauti vidaus reikalų,
 
-valstybės saugumo, krašto apsaugos, prokuratūros sistemos, Specialiųjų tyrimų
+valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų
 
 tarnybos, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių
 
-pareigūnais ir kariais, tarnybos laikui pensijai skirti prilyginami šie
+pareigūnais ir kariais, muitinės pareigūnais (muitinės sistemoje dirbti
 
-laikotarpiai, buvę iki 1995 m. sausio 1 d.:
+muitinės mobiliosiose grupėse ar muitinės postuose arba atlikti
 
-1) faktinis tarnybos kitų valstybių ginkluotosiose
+operatyvinę veiklą ir (arba) ikiteisminį tyrimą), tarnybos laikui pensijai
 
-pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus
+skirti prilyginami šie laikotarpiai, buvę iki 1995 m. sausio 1 d.:
 
-tarnybą naikintojų būriuose ir batalionuose) laikas – iki 1990 m. kovo 11 d.;
+1)
 
-2) darbo policijoje (milicijoje), Valstybės sienos
+faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje,
 
-apsaugos tarnyboje, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir
+vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir
 
-prokuratūros sistemose laikas Darbo sutarties įstatymo pagrindais, jeigu vėliau
+batalionuose) laikas – iki 1990 m. kovo 11 d.;
 
-tos pareigos priskirtos pareigūno pareigoms;
+2)
+
+darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus
+
+tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas
+
+Darbo sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos
+
+pareigūno pareigoms;
 
 3) darbo laikas, išdirbtas profesionaliosios
 
@@ -616,21 +540,21 @@ Lietuvos Respublikos nacionalinio saugumo tarnyboje nuo 1991 m. gruodžio 2 d.
 
 iki 1991 m. gruodžio 31 d., – 80 procentų iki šio laiko turėto darbo stažo;
 
-6) mokymosi aukštosiose,
+6) mokymosi aukštosiose, specialiosiose vidurinėse,
 
-specialiosiose vidurinėse, aukštesniosiose Lietuvos Respublikos policijos
+aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų), saugumo bei
 
-(vidaus reikalų), saugumo bei karo mokyklose laikas. Mokymosi analogiškose kitų
+karo mokyklose laikas. Mokymosi analogiškose kitų valstybių mokyklose laikas
 
-valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai
+gali būti įskaitytas į tarnybos laiką pensijai skirti Lietuvos Respublikos
 
-skirti Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką
+Vyriausybės nustatyta tvarka. Į tarnybos laiką pensijai skirti taip pat
 
-pensijai skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose,
+įskaitoma pusė mokymosi kitose aukštosiose, aukštesniosiose ir specialiosiose
 
-aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę
+vidurinėse mokyklose laiko, jeigu jas baigę asmenys iš karto paskirti
 
-asmenys iš karto paskirti pareigūnais.
+pareigūnais.
 
 4. Į Valstybės saugumo departamento
 
@@ -646,11 +570,11 @@ valstybines pensijas už iki 1995 m. sausio 1 d. buvusius tarnybos metus,
 
 įskaitytus į tarnybos laiką pensijai skirti, šio įstatymo 7 straipsnio 2 ir 3
 
-dalyse, taip pat 9 straipsnio 1 dalyje nurodyti procentai didinami 1,8 karto.
+dalyse, taip pat 9 straipsnio 1 dalyje nurodyti procentai didinami 1,8 karto. Prilyginant
 
-Prilyginant tarnybos laiką 20 metų pagal šio įstatymo 9 straipsnio 2 dalį, ši
+tarnybos laiką 20 metų pagal šio įstatymo 9 straipsnio 2 dalį, ši taisyklė
 
-taisyklė taikoma tik tarnybos metams, buvusiems iki 1995 m. sausio 1 d.
+taikoma tik tarnybos metams, buvusiems iki 1995 m. sausio 1 d.
 
 6. Pensininkui, kuris nėra vienas iš
 
@@ -676,19 +600,19 @@ partneriu.
 
 7. Pareigūnams ir kariams, kuriems iki
 
-1995 m. sausio 1 d. buvo paskirta kurios nors rūšies pensija, išskyrus maitintojo
+1995 m. sausio 1 d. buvo paskirta kurios nors rūšies pensija, išskyrus
 
-netekimo, taikoma tokia paskirtosios pensijos perskaičiavimo tvarka:
+maitintojo netekimo, taikoma tokia paskirtosios pensijos perskaičiavimo tvarka:
 
 1) apskaičiuojama valstybinė socialinio
 
 draudimo pensija pagal Valstybinių socialinio draudimo pensijų įstatymo
 
-nustatytą tvarką naujai skiriamoms pensijoms. Ši pensija apskaičiuojama perskaičiavimo
+nustatytą tvarką naujai skiriamoms pensijoms. Ši pensija apskaičiuojama
 
-metu arba kai pareigūnui ar kariui atsiranda teisė gauti valstybinę socialinio
+perskaičiavimo metu arba kai pareigūnui ar kariui atsiranda teisė gauti
 
-draudimo pensiją;
+valstybinę socialinio draudimo pensiją;
 
 2) apskaičiuojama pareigūnų ir karių
 
@@ -724,7 +648,9 @@ paskirtos už asmenis, mirusius iki 1995 m. sausio 1 d., mokamos toliau ir
 
 indeksuojamos kartu ir tiek pat kaip valstybinė socialinio draudimo bazinė
 
-pensija. Šios pensijos mokamos anksčiau galiojusia tvarka, įtvirtinta Nuostatuose.
+pensija. Šios pensijos mokamos anksčiau galiojusia tvarka, įtvirtinta
+
+Nuostatuose.
 
 9.
 
@@ -746,9 +672,657 @@ II grupės invalidams – kaip netekusiems 60–70 procentų darbingumo;
 
 III grupės invalidams – kaip netekusiems 45–55 procentų darbingumo.
 
-2 straipsnis. Pareigūnų ir karių
+10. Iki 2007 m. sausio 1 d.
 
-valstybinių pensijų mokėjimo šaltinis
+paskirtos mažesnės kaip 430 litų pareigūnų ir karių valstybinės pensijos už
+
+tarnybą (ištarnautus metus) arba netekto darbingumo (invalidumo) pensijos,
+
+išskyrus privalomosios karo tarnybos karių ir karių savanorių netekto
+
+darbingumo (invalidumo) pensijas, atsižvelgiant į pareigūnų ir karių išleidimo
+
+į pensiją (pensijos paskyrimo) datą, didinamos, bet ne daugiau kaip iki 430
+
+litų, laikantis šios tvarkos:
+
+1) atleistiems iki 1991 m. liepos
+
+1 d. – nuo 2007 m. sausio 1 d. 9 procentais;
+
+2) atleistiems iki 1995 m. sausio
+
+1 d. – nuo 2007 m. liepos 1 d. 10 procentų;
+
+3) atleistiems iki 2007 m. sausio
+
+1 d. – nuo 2008 m. sausio 1 d. 10  procentų.
+
+11.
+
+Nuo 2007 m. sausio 1 d. skiriamos mažesnės kaip 430 litų pareigūnų ir karių
+
+valstybinės pensijos už tarnybą arba netekto darbingumo pensijos, išskyrus
+
+privalomosios karo tarnybos karių ir karių savanorių netekto darbingumo
+
+pensijas, didinamos vieną kartą (pensijos skyrimo metu) 20 litų, bet ne daugiau
+
+kaip iki 430 litų.
+
+12. Muitinės pareigūnams, muitinės
+
+sistemoje dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba
+
+atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą, pareigūnų ir karių
+
+valstybinės pensijos skiriamos tik įgijusiems teisę į šią pensiją po Vidaus
+
+reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos,
+
+prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių
+
+pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, 1, 3, 6, 12 ir 16
+
+straipsnių pakeitimo ir papildymo įstatymo Nr. X-1027 įsigaliojimo.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-477,
+
+2005-12-23, Žin., 2005, Nr. 153-5644 (2005-12-31)
+
+Nr. X-927, 2006-11-28,
+
+Žin., 2006, Nr. 134-5064 (2006-12-09)
+
+Nr. X-1027,
+
+2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19), atitaisymas skelbtas: Žin.,
+
+2007, Nr. 18
+
+Skelbiu šį Lietuvos Respublikos Seimo
+
+priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                 ALGIRDAS
+
+BRAZAUSKAS
+
+__________________
+
+Pakeitimai:
+
+1. Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. I-801, 95.02.21, Žin., 1995, Nr. 18-406 (95.03.01)
+
+DĖL LIETUVOS
+
+RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAPILDYMO IR PAKEITIMO
+
+2. Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. I-1451,
+
+96.07.09, Žin., 1996, Nr. 68-1640 (96.07.19)
+
+LIETUVOS
+
+RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+3. Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-828,
+
+98.07.01, Žin., 1998, Nr.62-1777 (98.07.10)
+
+LIETUVOS
+
+RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 9, 10 IR 16 STRAIPSNIŲ
+
+PAPILDYMO ĮSTATYMAS
+
+4. Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. VIII-908,
+
+98.10.22, Žin., 1998, Nr.98-2710 (98.11.11)
+
+LIETUVOS
+
+RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1, 9, 10 STRAIPSNIŲ PAKEITIMO
+
+IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja nuo 1999 m. sausio 1 d.
+
+5. Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1632, 00.04.18, Žin., 2000, Nr.36-986
+
+(00.05.03)
+
+VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO
+
+APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO
+
+PAVADINIMO, 1, 3, 6, 12, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Keistas
+
+įstatymo pavadinimas
+
+Šis įstatymas
+
+įsigalioja nuo 2000 m. rugsėjo 1 d.
+
+Šis įstatymas neteko galios nuo 2000 m. rugsėjo 1
+
+d.:
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. VIII-1851,
+
+00.07.13, Žin., 2000, Nr.64-1923 (00.07.31)
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1654, 00.05.02, Žin., 2000,
+
+Nr.41-1167 (00.05.19)
+
+VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO
+
+APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO
+
+PAVADINIMO, 1, 3, 6, 12, 16 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja nuo 2000 m. birželio 1 d.
+
+Keistas
+
+įstatymo pavadinimas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1851, 00.07.13, Žin., 2000,
+
+Nr.64-1923 (00.07.31)
+
+VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS,
+
+VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ
+
+VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAVADINIMO, 1, 3, 6, 12, 16 STRAIPSNIŲ PAPILDYMO
+
+IR PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja nuo 2000 m. rugsėjo 1 d.
+
+Keistas
+
+įstatymo pavadinimas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-2008, 2000 10 10, Žin., 2000, Nr.
+
+92-2860 (2000 10 31)
+
+VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS,
+
+VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM
+
+PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
+
+ĮSTATYMO 1 IR 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja nuo 2000 m. lapkričio 1 d.
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-115, 2000 12 21, Žin., 2000, Nr.
+
+111-3579 (2000 12 29)
+
+VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS,
+
+VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM
+
+PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
+
+ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja nuo 2001 m. sausio 1 d.
+
+10.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-814,
+
+2002-03-26, Žin., 2002, Nr. 38-1361 (2002-04-10)
+
+VIDAUS REIKALŲ, SPECIALIŲJŲ
+
+TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIMŲ
+
+DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ
+
+VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1412,
+
+2003-04-01, Žin., 2003, Nr. 36-1545 (2003-04-16)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1 IR 6 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2073,
+
+2004-03-23, Žin., 2004, Nr. 50-1635 (2004-04-06)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 14 STRAIPSNIO PAPILDYMO
+
+ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2239,
+
+2004-05-18, Žin., 2004, Nr. 88-3210 (2004-06-03)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2357,
+
+2004-07-13, Žin., 2004, Nr. 117-4372 (2004-07-29)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 7 IR 9 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+Iki 1991 m.
+
+liepos 1 d. paskirtos pareigūnų ir karių valstybinės pensijos už tarnybą
+
+(ištarnautus metus) ir invalidumo pensijos, kurios yra mažesnės už Vyriausybės
+
+nustatytą minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir
+
+valstybės tarnautojams dydį, nuo 2004 m. rugsėjo 1 d. didinamos vieną kartą 30
+
+procentų, bet ne daugiau kaip iki Vyriausybės nustatytos minimaliosios
+
+mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams
+
+dydžio.
+
+Iki 1995 m.
+
+sausio 1 d. paskirtos pareigūnų ir karių valstybinės pensijos už tarnybą
+
+(ištarnautus metus) ir invalidumo pensijos, kurios yra mažesnės už Vyriausybės
+
+nustatytą minimaliosios mėnesinės algos valstybės pareigūnams, kariams
+
+ir valstybės tarnautojams dydį, nuo 2005 m. sausio 1 d. didinamos vieną kartą
+
+20 procentų, bet ne daugiau kaip iki Vyriausybės nustatytos minimaliosios
+
+mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams
+
+dydžio.
+
+16.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-67,
+
+2004-12-22, Žin., 2004, Nr. 188-6999 (2004-12-31)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+
+17.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-212,
+
+2005-05-19, Žin., 2005, Nr. 71-2558 (2005-06-07)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija
+
+Šis įstatymas
+
+įsigalioja nuo 2005 m. liepos 1 d.
+
+18.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-477, 2005-12-23,
+
+Žin., 2005, Nr. 153-5644 (2005-12-31)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2006 m. sausio 1 d.
+
+19.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-506,
+
+2006-01-20, Žin., 2006, Nr. 17-601 (2006-02-11)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1 IR 6 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+20.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-927,
+
+2006-11-28, Žin., 2006, Nr. 134-5064 (2006-12-09)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 3 IR 16 STRAIPSNIŲ PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
+21.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-978,
+
+2006-12-12, Žin., 2006, Nr. 141-5404 (2006-12-28)
+
+PREZIDENTO
+
+ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO, VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ
+
+TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIMŲ
+
+DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ
+
+VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO BEI VALSTYBINIŲ PENSIJŲ
+
+ĮSTATYMO 2 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PRIPAŽINIMO
+
+NETEKUSIU GALIOS ĮSTATYMAS
+
+Šis
+
+įstatymas, išskyrus šio skirsnio 2 straipsnį, įsigalioja nuo 2007 m. sausio 1
+
+d.
+
+22.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1027,
+
+2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19)
+
+VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAVADINIMO, 1, 3, 6, 12 IR 16
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Keistas
+
+įstatymo pavadinimas
+
+Šio įstatymo atitaisymas skelbtas: Žin., 2007, Nr.
+
+18 (2007-02-10)
+
+***
+
+Pabaiga ***
+
+Konstitucinio Teismo nutarimai:
+
+1.
+
+Lietuvos Respublikos
+
+Konstitucinis Teismas, Nutarimas
+
+2003-07-04, Žin., 2003, Nr.
+
+68-3094 (2003-07-09)
+
+DĖL LIETUVOS RESPUBLIKOS VIDAUS
+
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 11 STRAIPSNIO 2 DALIES (2000 M.
+
+GRUODŽIO 21 D. REDAKCIJA) IR 13 STRAIPSNIO 3 DALIES ATITIKTIES LIETUVOS
+
+RESPUBLIKOS KONSTITUCIJAI, TAIP PAT DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1995
+
+M. SAUSIO 20 D. NUTARIMU NR. 83 PATVIRTINTŲ VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ
+
+TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIMŲ
+
+DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ
+
+VALSTYBINIŲ PENSIJŲ SKYRIMO BEI MOKĖJIMO NUOSTATŲ 25 PUNKTO 2 PASTRAIPOS (2001
+
+M. GEGUŽĖS 25 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR
+
+ŠIŲ NUOSTATŲ 5 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ,
+
+SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIMŲ
+
+DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ
+
+VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO 4 DALIAI
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2007-01-24)
+
+autrap@lrs.lt
+
+2 straipsnis.
+
+Pareigūnų ir karių valstybinių pensijų mokėjimo šaltinis
 
 Pareigūnų ir karių valstybinės pensijos
 
@@ -756,9 +1330,9 @@ ir šiame įstatyme numatyti jų priedai mokami iš Lietuvos Respublikos valstyb
 
 biudžeto.
 
-3 straipsnis. Pareigūnų ir karių valstybinių pensijų
+3 straipsnis. Pareigūnų ir
 
-skyrimo sąlygos
+karių valstybinių pensijų skyrimo sąlygos
 
 1. Pareigūnų ir karių valstybinė pensija skiriama ir
 
@@ -770,7 +1344,11 @@ pareigūnams ir kariams:
 
 krašto apsaugos sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente
 
-ar jam pavaldžiose įstaigose ir valstybės įmonėse 20 ir daugiau metų;
+ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje
+
+(dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems
+
+operatyvinę veiklą ir (arba) ikiteisminį tyrimą) 20 ir daugiau metų;
 
 2) ištarnavusiems prokuratūroje 20 ir daugiau metų ir
 
@@ -778,43 +1356,59 @@ sukakusiems Valstybinių socialinio draudimo pensijų įstatymo nustatytą senat
 
 pensijos amžių;
 
-3) pripažintiems nedarbingais
+3) pripažintiems nedarbingais ar iš dalies darbingais
 
-ar iš dalies darbingais dėl priežasčių, susijusių su tarnyba;
+dėl priežasčių, susijusių su tarnyba;
 
-4) atleistiems dėl sveikatos, kai yra žinybinės
+4)
 
-centrinės medicininės ekspertizės komisijos išvada, arba pripažintiems nedarbingais
+atleistiems dėl sveikatos, kai yra žinybinės centrinės medicininės ekspertizės
 
-ar iš dalies darbingais dėl priežasčių, nesusijusių su tarnyba, ir
+komisijos išvada, arba pripažintiems nedarbingais ar iš dalies darbingais dėl
 
-ištarnavusiems vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros
-
-sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam
-
-pavaldžiose įstaigose ir valstybės įmonėse 5 ir daugiau metų;
-
-5) sukakusiems įstatymų arba statutų nustatytą
-
-išleidimo į atsargą amžių (jei toks amžius nenustatytas, - senatvės pensijos amžių) ir ištarnavusiems vidaus reikalų, valstybės
+priežasčių, nesusijusių su tarnyba, ir ištarnavusiems vidaus reikalų, valstybės
 
 saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje,
 
-Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse 5 ir
+Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse,
 
-daugiau metų.
+muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės
 
-2. Pareigūnams ir kariams, dėl pačių kaltės
+postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą) 5 ir
 
-pašalintiems iš vidaus reikalų, valstybės saugumo, krašto apsaugos,
+daugiau metų;
 
-prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam
+5) sukakusiems įstatymų arba statutų nustatytą
 
-pavaldžių įstaigų ir valstybės įmonių, valstybinė pensija skiriama tik tada,
+išleidimo į atsargą amžių (jei toks amžius nenustatytas, – senatvės pensijos
 
-kai jie yra ištarnavę 20 ar daugiau metų ir sukakę įstatymų nustatytą išleidimo
+amžių) ir ištarnavusiems vidaus reikalų, valstybės saugumo, krašto apsaugos,
 
-į atsargą amžių (jei toks amžius nenustatytas,  senatvės pensijos amžių).
+prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar
+
+jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje (dirbusiems
+
+muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę
+
+veiklą ir (arba) ikiteisminį tyrimą) 5 ir daugiau metų.
+
+2. Pareigūnams
+
+ir kariams, dėl pačių kaltės pašalintiems iš vidaus reikalų, valstybės saugumo,
+
+krašto apsaugos, prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų
+
+departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos
+
+(dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems
+
+operatyvinę veiklą ir (arba) ikiteisminį tyrimą), valstybinė pensija
+
+skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir sukakę įstatymų
+
+nustatytą išleidimo į atsargą amžių (jei toks amžius nenustatytas, – senatvės
+
+pensijos amžių).
 
 Straipsnio pakeitimai:
 
@@ -822,143 +1416,41 @@ Nr. X-927, 2006-11-28,
 
 Žin., 2006, Nr. 134-5064 (2006-12-09)
 
+Nr. X-1027,
+
+2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19)
+
 11 straipsnis. Pensijos mokėjimas tarnaujantiems ir
 
 dirbantiems pensininkams
 
-Tarnaujantiems pareigūnams ir kariams
+1. Tarnaujantiems pareigūnams ir kariams
 
 valstybinės pensijos nemokamos, išskyrus našlių pensijas.
 
-*Išėjusiems iš tarnybos
+2. Pareigūno ar kario valstybinės
 
-pareigūnams ir kariams, kurie po pareigūnų ar karių valstybinių pensijų už
+pensijos gavėjas privalo pranešti jam pensiją mokančiai institucijai apie tai,
 
-tarnybą arba po pareigūnų ar karių valstybinių invalidumo pensijų paskyrimo turi
+kad jis tapo vienu iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų
 
-pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų
+įstatymo 2 straipsnio 1 dalies 1–6, 8 ir 9 punktuose, taip pat ūkininku ar jo
 
-draudimo įmokos, arba kurie gauna valstybinio socialinio draudimo ligos
+partneriu pagal Ūkininko ūkio įstatymą, per 10 dienų nuo šio statuso atsiradimo
 
-(įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės
+dienos. Jeigu apie tai laiku nepranešama ir dėl to permokama pensija,
 
-(tėvystės) ar bedarbio pašalpas (toliau šiame straipsnyje – draudžiamosios
+permokėtos pensijos suma išieškoma iš pensijos gavėjo Valstybinių socialinio
 
-pajamos), mokama 30 procentų dydžio pareigūno ar kario valstybinės pensijos
+draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
 
-dalis. Mokėtini 30 procentų
+3. Pensininkams, gaunantiems visišką valstybės
 
-skaičiuojami nuo apskaičiuotos pareigūno ar kario valstybinės pensijos (šio
+išlaikymą, pareigūnų ir karių valstybinės pensijos nemokamos.
 
-įstatymo 7 ir 9 straipsniai). Tais atvejais, kai apskaičiuotos pareigūno ar
+12 straipsnis.
 
-kario valstybinės pensijos dydis (šio įstatymo 7, 9 straipsniai ir 16
-
-straipsnio 7 dalis) turi būti apribojamas Valstybinių pensijų įstatymo 3
-
-straipsnio 3 dalies nustatyta tvarka, mokėtini 30 procentų skaičiuojami nuo
-
-pareigūno ar kario valstybinės pensijos apriboto dydžio.
-
-Šio straipsnio antrojoje dalyje nustatyta tvarka
-
-mokamos pensijos ir už ištarnautus metus bei invalidumo pensijos, paskirtos
-
-atitinkamiems pareigūnams ir kariams galiojusia iki 1995 m. sausio 1 d. tvarka,
-
-neatsižvelgiant į tai, ar buvo jos perskaičiuotos pagal šį įstatymą (16
-
-straipsnio dešimtoji dalis), ar nebuvo perskaičiuotos (16 straipsnio antroji
-
-dalis), jeigu šių pensijų gavėjai po pensijų paskyrimo turi draudžiamųjų
-
-pajamų.
-
-Pareigūno ar kario valstybinės pensijos
-
-gavėjas privalo pranešti jam pensiją mokančiai institucijai apie turimas
-
-draudžiamąsias pajamas per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu
-
-apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos
-
-pensijos suma išieškoma iš pensijos gavėjo Valstybinių socialinio draudimo
-
-pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
-
-Pensininkams, gaunantiems visišką
-
-valstybės išlaikymą, pareigūnų ir karių valstybinės pensijos nemokamos.
-
-*Pastaba. 1. Pripažinti, kad Lietuvos
-
-Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo,
-
-krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei
-
-valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 11
-
-straipsnio 2 dalies (2000 m. gruodžio 21 d. redakcija) nuostata „išėjusiems
-
-iš tarnybos pareigūnams ir kariams, kurie po pareigūnų ar karių valstybinių
-
-pensijų už tarnybą arba po pareigūnų ar karių valstybinių invalidumo pensijų
-
-paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio
-
-socialinio pensijų draudimo įmokos, arba kurie gauna valstybinio socialinio
-
-draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės,
-
-motinystės (tėvystės) ar bedarbio pašalpas <...>, mokama 30 procentų
-
-dydžio pareigūno ar kario valstybinės pensijos dalis“ prieštarauja Lietuvos
-
-Respublikos Konstitucijos 23 straipsniui, 52 straipsniui, konstituciniam
-
-teisinės valstybės principui.
-
-2. Pripažinti, kad Lietuvos
-
-Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo,
-
-krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei
-
-valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 11
-
-straipsnio 2 dalies (2000 m. gruodžio 21 d. redakcija) nuostata „išėjusiems
-
-iš tarnybos pareigūnams ir kariams, kurie po pareigūnų ar karių valstybinių
-
-pensijų už tarnybą arba po pareigūnų ar karių valstybinių invalidumo pensijų
-
-paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio
-
-socialinio pensijų draudimo įmokos <...>, mokama 30 procentų dydžio
-
-pareigūno ar kario valstybinės pensijos dalis“ prieštarauja Lietuvos
-
-Respublikos Konstitucijos 48 straipsnio 1 daliai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. IX-115, 2000
-
-12 21, Žin., 2000, Nr. 111-3579 (2000 12 29)
-
-Lietuvos Respublikos
-
-Konstitucinis Teismas, Nutarimas
-
-2003-07-04, Žin., 2003, Nr.
-
-68-3094 (2003-07-09)
-
-12 straipsnis. Pareigūnų ir karių
-
-valstybinių pensijų skyrimas
+Pareigūnų ir karių valstybinių pensijų skyrimas
 
 1. Pareigūnams ir kariams bei jų šeimos
 
@@ -966,7 +1458,9 @@ nariams pensijas skiria ir moka Vidaus reikalų ministerija, Specialiųjų tyrim
 
 tarnyba, Valstybės saugumo departamentas, Krašto apsaugos ministerija,
 
-Generalinė prokuratūra ar Kalėjimų departamentas pagal tai, kurioje iš šių
+Generalinė prokuratūra, Muitinės departamentas prie Lietuvos Respublikos
+
+finansų ministerijos ar Kalėjimų departamentas pagal tai, kurioje iš šių
 
 institucijų pensijos gavėjas tarnavo paskiausiai.
 
@@ -1014,9 +1508,15 @@ sprendimą apskųsti tos institucijos vadovui, o jei nesutinkama ir su vadovo
 
 sprendimu, ginčas sprendžiamas teisme.
 
-13 straipsnis. Pareigūnų ir karių valstybinės pensijos
+Straipsnio pakeitimas:
 
-skyrimo ir mokėjimo terminai
+Nr. X-1027,
+
+2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19)
+
+13 straipsnis. Pareigūnų ir
+
+karių valstybinės pensijos skyrimo ir mokėjimo terminai
 
 1. Pareigūnų ir karių valstybinė pensija
 
@@ -1041,4 +1541,30 @@ padarymą asmenims pareigūnų ir karių valstybinė pensija neskiriama.
 asmenims už mirties mėnesį, jeigu ji dar nebuvo išmokėta, ir dar paskirtos
 
 pensijos dydžio už du mėnesius.
+
+14
+
+straipsnis. Pensijos skyrimas iš naujo
+
+1. Jei pareigūnui arba kariui, kuriam
+
+paskirta pareigūnų ir karių valstybinė netekto darbingumo pensija, po pensijos
+
+paskyrimo pakeičiami netekto darbingumo procentai, pensija turi būti paskirta
+
+iš naujo pagal naujus duomenis nuo jų pasikeitimo dienos, bet ne daugiau kaip
+
+už 12 mėnesių iki dokumentų pensijai perskaičiuoti gavimo atitinkamoje
+
+institucijoje dienos.
+
+2. Pareigūnui ar kariui, kuriam paskirta
+
+pareigūnų ir karių valstybinė pensija, po jos paskyrimo ištarnavusiam ne mažiau
+
+kaip dvejus metus, pareigūnų ir karių valstybinė pensija jo prašymu gali būti
+
+paskirta iš naujo pagal naujus duomenis. Jeigu iš naujo paskirta pensija yra
+
+mažesnė, mokama anksčiau paskirtoji pensija.
 
