@@ -4,7 +4,7 @@ identifier: "TAR.0F8C601D8592"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-09"
-last_updated: "2006-06-28"
+last_updated: "2007-01-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2006-06-28 iki 2007-01-29
+Suvestinė redakcija nuo 2007-01-30 iki 2007-12-05
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
 
@@ -100,6 +100,18 @@ Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010I
 
 17. Valstybės sienos įgaliotiniai – tam įgalioti valstybės pareigūnai, paskirti nagrinėti su atitinkamų gretimos valstybės institucijų atstovais pasienio incidentus bei kitus klausimus, susijusius su valstybės sienos apsauga.
 
+18. Gretutinė zona – Lietuvos Respublikos išskirtinės ekonominės zonos dalis, gretima teritorinei jūrai ir nutolusi 24 jūrmyles nuo bazinių linijų, nuo kurių yra matuojamas teritorinės jūros plotis.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
+
+19. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 562/2006, nustatančiame taisyklių, reglamentuojančių asmenų judėjimą per sienas, Bendrijos kodeksą (Šengeno sienų kodeksas).
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
+
 ANTRASIS SKIRSNIS
 
 VALSTYBĖS SIENOS TEISINIS REŽIMAS
@@ -130,9 +142,11 @@ Valstybės siena nustatoma ir keičiama Lietuvos Respublikos tarptautinėmis sut
 
 4. Dokumentus, suteikiančius teisę kirsti valstybės sieną, nustato Lietuvos Respublikos įstatymai, Lietuvos Respublikos tarptautinės sutartys ir kiti teisės aktai.
 
-6 straipsnis. Supaprastinta valstybės sienos kirtimo tvarka
+6 straipsnis. Neteko galios nuo 2007-01-30
 
-Lietuvos Respublikos tarptautine sutartimi su gretima valstybe atskirų kategorijų asmenims gali būti leidžiama supaprastinta (pagal pateikiamus tikrinti asmens dokumentus, suteikiančius teisę kirsti valstybės sieną, ar kitas vykimo sąlygas) valstybės sienos kirtimo tvarka ir steigiami supaprastinti valstybės sienos perėjimo punktai.
+Straipsnio naikinimas:
+
+Nr. X-1016, 2007-01-12, Žin. 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
 
 7 straipsnis. Užsienio valstybių laivų taikaus plaukimo Lietuvos Respublikos teritorine jūra teisė
 
@@ -174,7 +188,11 @@ Lietuvos Respublikos tarptautine sutartimi su gretima valstybe atskirų kategori
 
 8) neteisėtai žvejoti, vykdyti komercinę arba kitą veiklą, pažeidžiant Lietuvos Respublikos teisės aktų nustatytą tvarką;
 
-9) atlikti kitus Lietuvos Respublikos įstatymų, Lietuvos Respublikos tarptautinių sutarčių ir kitų teisės aktų uždraustus veiksmus.
+9) atlikti kitus Lietuvos Respublikos įstatymų, Europos Sąjungos teisės aktų, Lietuvos Respublikos tarptautinių sutarčių ir kitų teisės aktų uždraustus veiksmus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
 
 2. Šio straipsnio 1 dalyje nurodytų plaukiojimo priemonių kapitonai, jei pareikalauja Valstybės sienos apsaugos tarnyba, privalo:
 
@@ -220,7 +238,11 @@ Nr. IX-1423, 2003-04-03, Žin., 2003, Nr. 38-1668 (2003-04-24), i. k. 1031010IST
 
 1. Šio įstatymo 8 straipsnyje nurodytų reikalavimų ir draudimų nevykdymas suteikia teisę Valstybės sienos apsaugos tarnybai:
 
-1) persekioti ir sulaikyti laivą (išskyrus užsienio valstybėms priklausančius karo laivus ar laivus, naudojamus nekomerciniais tikslais) už Lietuvos Respublikos teritorinės jūros ribų, kol jis įplauks į savo valstybės arba trečiosios valstybės teritorinę jūrą, jeigu Valstybės sienos apsaugos tarnyba arba kitos kompetentingos valstybės institucijos turi pagrindą manyti, kad laivas pažeidė Lietuvos Respublikos įstatymus, o bandymas sustabdyti laivą prasidėjo Lietuvos Respublikos teritorinėje jūroje ir laivas buvo nenutrūkstamai persekiojamas;
+1) persekioti ir sulaikyti laivą (išskyrus užsienio valstybėms priklausančius karo laivus ar laivus, naudojamus nekomerciniais tikslais) už Lietuvos Respublikos teritorinės jūros ribų, kol jis įplauks į savo valstybės arba kitos valstybės teritorinę jūrą, jeigu Valstybės sienos apsaugos tarnyba arba kitos kompetentingos valstybės institucijos turi pagrindą manyti, kad laivas pažeidė Lietuvos Respublikos įstatymus, o bandymas sustabdyti laivą prasidėjo Lietuvos Respublikos vidaus vandenyse, teritorinėje jūroje ar gretutinėje zonoje ir laivas buvo nenutrūkstamai persekiojamas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
 
 2) laivo sustabdymui naudoti Tarptautinio signalų kodekso signalus ir kitas tarptautiniuose susitarimuose numatytas priemones;
 
@@ -358,7 +380,11 @@ Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010I
 
 Užtikrinant pasienio teisinį režimą:
 
-1) draudžiama be Valstybės sienos apsaugos tarnybos leidimo išplaukti ir žvejoti, važiuoti arba eiti pėsčiomis per užšalusius Kuršių marių bei kitus vidaus vandenis, esančius pasienio ruožo teritorijoje;
+1) draudžiama be Valstybės sienos apsaugos tarnybos leidimo išplaukti ir žvejoti, važiuoti arba eiti pėsčiomis per užšalusius Kuršių marių vandenis, esančius pasienio ruožo teritorijoje, bei pasienio vandenis, kurių vandenimis arba krantais eina išorės siena;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
 
 2) asmenys šio straipsnio 1 punkte nurodytais atvejais privalo pranešti Valstybės sienos apsaugos tarnybai apie išvykimą ir grįžimą. Valstybės sienos apsaugos tarnyba gali riboti išvykimo laiką ir vykimo teritoriją;
 
@@ -450,7 +476,11 @@ VALSTYBĖS SIENOS APSAUGOS ORGANIZAVIMAS
 
 26 straipsnis. Valstybės sienos apsaugos teisiniai pagrindai ir subjektai
 
-1. Valstybės sienos apsauga yra sudėtinė Lietuvos Respublikos nacionalinio saugumo užtikrinimo sistemos dalis. Ji atliekama vadovaujantis Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais, Vyriausybės nutarimais bei kitais teisės aktais.
+1. Valstybės sienos apsauga yra sudėtinė Lietuvos Respublikos nacionalinio saugumo užtikrinimo sistemos dalis. Ji atliekama vadovaujantis Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais, Europos Sąjungos teisės aktais, Vyriausybės nutarimais bei kitais teisės aktais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
 
 2. Valstybės sienos apsaugą atlieka Valstybės sienos apsaugos tarnyba.
 
@@ -512,6 +542,18 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
+Lietuvos Respublikos valstybės sienos ir jos
+
+apsaugos įstatymo priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 562/2006, nustatantis taisyklių, reglamentuojančių asmenų judėjimą per sienas, Bendrijos kodeksą (Šengeno sienų kodeksas) (OL 2006 L 105, p. 1).
+
+Papildyta priedu:
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
+
 Pakeitimai:
 
 1.
@@ -537,4 +579,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-675, 2006-06-08, Žin., 2006, Nr. 72-2690 (2006-06-28), i. k. 1061010ISTA000X-675
 
 Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 26 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
+
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 2, 5, 8, 9, 11, 20, 26 straipsnių pakeitimo ir papildymo, 6 straipsnio pripažinimo netekusiu galios bei Įstatymo papildymo priedu įstatymas
 
