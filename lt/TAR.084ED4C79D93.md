@@ -4,7 +4,7 @@ identifier: "TAR.084ED4C79D93"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-10"
-last_updated: "2005-01-01"
+last_updated: "2007-01-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.084ED4C79D93"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2007-01-29
+Suvestinė redakcija nuo 2007-01-30 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2848, i. k. 1001010ISTAIII-1996
 
@@ -45,15 +45,25 @@ Bendrosios nuostatos
 
 3. Tarnyba savo veiklą grindžia teisėtumo, pagarbos žmogaus teisėms ir laisvėms, pareigūno asmens laisvės ir statutinės drausmės derinimo, nuolatinės parengties, viešumo ir konfidencialumo derinimo principais.
 
-4. Vidinis tarnybos organizavimas grindžiamas statutiniais pagrindais. Tarnybos pareigūnų statutiniams santykiams reguliuoti, jų tarnybos stažui, kvalifikacijai bei pareigoms žymėti nustatomi tarnybos pareigūnų specialieji laipsniai.
+4. Vidinis tarnybos organizavimas grindžiamas statutiniais pagrindais. Tarnybos pareigūnų statutiniams santykiams reguliuoti, jų tarnybos stažui, kvalifikacijai bei pareigoms žymėti nustatomi tarnybos pareigūnų specialieji nekariniai laipsniai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 5. Tarnyba yra operatyvinės veiklos subjektas.
 
 6. Įgyvendindama pavestas ikiteisminio tyrimo funkcijas, Tarnyba veikia visoje valstybės teritorijoje.
 
+6 dalies redakcija nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo:
+
+6. Vykdydama operatyvinę veiklą, ikiteisminį tyrimą ir valstybinę migracijos procesų kontrolę, Tarnyba veikia visoje valstybės teritorijoje.
+
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010ISTA0IX-1420
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 7. Tarnyba ir jos pareigūnai nedalyvauja politinėje veikloje.
 
@@ -63,7 +73,11 @@ Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010IST
 
 3 straipsnis. Tarnybos veiklos teisiniai pagrindai
 
-Tarnyba organizuoja ir įgyvendina savo veiklą vadovaudamasi Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis bei kitais teisės aktais.
+Tarnyba organizuoja ir įgyvendina savo veiklą vadovaudamasi Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Europos Sąjungos bei kitais teisės aktais.
+
+Straipsnio pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 4 straipsnis. Tarnybos profesiniai ryšiai
 
@@ -81,13 +95,35 @@ Tarnybos funkcijos ir įgaliojimai
 
 2) atlieka asmenų ir transporto priemonių, kertančių valstybės sieną, kontrolę;
 
+2 punkto redakcija nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo:
+
+2) laikydamasi Valstybės sienos ir jos apsaugos įstatymo 5 straipsnio 5 ir 6 dalių nuostatų, atlieka asmenų ir transporto priemonių, kertančių valstybės sieną, kontrolę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+
 3) užtikrina pasienio teisinį režimą ir pagal kompetenciją pasienio kontrolės punktų režimą;
 
 4) dalyvauja įgyvendinant valstybinę migracijos procesų kontrolę;
 
 5) dalyvauja užtikrinant viešąją tvarką ir atlieka kitas įstatymų nustatytas teisėtvarkos funkcijas pasienio ruože;
 
-6) ginkluotųjų pajėgų sudėtyje gina valstybę karo metu.
+6) ginkluotųjų pajėgų sudėtyje gina valstybę karo metu;
+
+7) dalyvauja tarptautinių organizacijų ir tarptautinių organizacijų misijų veikloje;
+
+Papildyta straipsnio punktu:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+
+8) palaiko nuolatinę parengtį atnaujinti pasienio tikrinimą prie vidaus sienos.
+
+1 dalis papildoma 8 punktu nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo.
+
+Papildyta straipsnio punktu:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 2. Tarnyba atlieka ir kitas teisės aktų jai pavestas funkcijas.
 
@@ -113,7 +149,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010ISTA0IX-1420
 
-7) užtikrina aplinkos apsaugos režimą valstybės sienos apsaugos objektuose.
+7) užtikrina aplinkos apsaugos režimą valstybės sienos apsaugos objektuose;
+
+8) Lietuvos Respublikos tarptautinių sutarčių nustatytais atvejais keičiasi informacija su kitų valstybių teisėsaugos institucijomis.
+
+Papildyta straipsnio punktu:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 2. Saugodama valstybės sieną, tarnyba naudoja reikiamą ginkluotę, technines ir kitas specialiąsias priemones.
 
@@ -157,6 +199,28 @@ Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010IST
 
 6) dalyvauja vykdant paieškos ir gelbėjimo darbus jūroje, Kuršių mariose bei pasienio vidaus vandenyse.
 
+1 dalies redakcija nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo:
+
+1. Užtikrindama pasienio teisinį režimą, Tarnyba:
+
+1) kontroliuoja, kaip laikomasi nustatytos asmenų vykimo į pasienio ruožą ir buvimo jame tvarkos;
+
+2) užkardo krovinių (prekių, vertybių ir kitokių daiktų) gabenimą kontrabanda ne per pasienio kontrolės punktus;
+
+3) užtikrindama valstybės sienos saugumą, kontroliuoja, kaip laikomasi nustatytos gamybinės, ūkinės ar kitokios fizinių ar juridinių asmenų bei įmonių, neturinčių juridinio asmens teisių, veiklos pasienio ruože tvarkos;
+
+4) kontroliuoja, kaip laikomasi nustatytos laivų išplaukimo į teritorinę jurą, juros vidaus vandenis, pasienio vandenis bei plaukimo ir buvimo juose tvarkos;
+
+5) užtikrindama valstybės sienos teisinį režimą, dalyvauja kontroliuojant, kaip pasienio ruože naudojami gamtos ištekliai;
+
+6) dalyvauja vykdant paieškos ir gelbėjimo darbus jūroje, Kuršių mariose bei pasienio vidaus vandenyse;
+
+7) kontroliuoja kitų valstybių laivų taikų plaukimą teritorine jūra, persekioja, apžiūri ir sulaiko laivus, pažeidusius nustatytą teisinį režimą teritorinėje jūroje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+
 2. Pasienio kontrolės punktuose Tarnyba:
 
 1) Vyriausybės nustatyta tvarka užtikrina nepertraukiamą pasienio kontrolės punktų funkcionavimą;
@@ -169,9 +233,35 @@ Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010IST
 
 5) pasienio kontrolės punkte palaiko viešąją tvarką, užtikrina visuomenės rimtį ir kertančių valstybės sieną asmenų bei punkte dirbančių pareigūnų saugumą.
 
+2 dalies redakcija nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo:
+
+2. Pasienio kontrolės punktuose Tarnyba:
+
+1) Vyriausybės nustatyta tvarka užtikrina nepertraukiamą pasienio kontrolės punktų funkcionavimą;
+
+2) kontroliuoja asmenis ir transporto priemones, atvykstančius į pasienio kontrolės punktą;
+
+3) kontroliuoja asmenų buvimą, transporto priemonių eismo tvarką pasienio kontrolės punkto teritorijoje;
+
+4) tarnybos tikslais ar saugumo sumetimais apriboja įėjimą ar įvažiavimą į tam tikrą pasienio kontrolės punkto teritorijos dalį;
+
+5) pasienio kontrolės punkte palaiko viešąją tvarką, užtikrina visuomenės rimtį ir kertančių valstybės sieną asmenų bei punkte dirbančių pareigūnų saugumą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+
 3. Praleisdama asmenis per pasienio kontrolės punktus, kuriuose nėra muitinės įstaigų, Tarnyba užtikrina, kad vykstantys per šiuos pasienio kontrolės punktus asmenys, gabendami daiktus, už kuriuos imami importo (eksporto) muitai ir kiti mokesčiai ar kuriems taikomi įvežimo (išvežimo) draudimai bei apribojimai, laikytųsi nustatytų šių daiktų įvežimo (išvežimo) normų.
 
 4. Nustačiusi muitų taisyklių pažeidimą ar kontrabandos gabenimo faktą, Tarnyba sulaiko asmenis, transporto priemones ir per sieną gabenamus krovinius, kol bus priimtas atitinkamas įgaliotų institucijų sprendimas.
+
+5. Šiame straipsnyje nustatytus įgaliojimus Tarnyba vykdo laikydamasi Valstybės sienos ir jos apsaugos įstatymo 5 straipsnio 5 ir 6 dalių nuostatų.
+
+Papildoma 5 dalimi nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 9 straipsnis. Tarnybos įgaliojimai dėl neteisėtai kirtusių valstybės sieną asmenų
 
@@ -182,6 +272,20 @@ Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010IST
 2) nustato neteisėtai kirtusių valstybės sieną užsieniečių asmens tapatybę;
 
 3) užtikrina neteisėtai kirtusių valstybės sieną užsieniečių apsaugą Užsieniečių registravimo centre, kol dėl jų bus priimtas atitinkamas įgaliotų institucijų sprendimas.
+
+1 dalies redakcija nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo:
+
+1. Įgyvendindama valstybinę migracijos procesų kontrolę ir laikydamasi Valstybės sienos ir jos apsaugos įstatymo 5 straipsnio 5 ir 6 dalių nuostatų, Tarnyba:
+
+1) nustato ir įstatymų nustatytam terminui sulaiko visoje valstybės teritorijoje užsieniečius, neteisėtai kirtusius valstybės sieną;
+
+2) nustato neteisėtai kirtusių valstybės sieną užsieniečių asmens tapatybę;
+
+3) užtikrina neteisėtai kirtusių valstybės sieną užsieniečių apsaugą Užsieniečių registravimo centre, kol dėl jų bus priimtas atitinkamas įgaliotų institucijų sprendimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 2. Nustatydama neteisėtai kirtusius valstybės sieną užsieniečius, Tarnyba gali veikti naudodama operatyvinės veiklos metodus ir priemones.
 
@@ -195,19 +299,13 @@ Trečiasis skirsnis
 
 Tarnybos organizavimas
 
-11 straipsnis. Tarnybos organizacinė struktūra
+11 straipsnis. Šiame įstatyme vartojamų sąvokų aiškinimas
 
-Tarnybą sudaro:
+Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ ir 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 562/2006, nustatančiame taisyklių, reglamentuojančių asmenų judėjimą per sienas, Bendrijos kodeksą (Šengeno sienų kodeksas).
 
-1) Tarnybos vadas;
+Papildyta straipsniu:
 
-2) Tarnybos štabas;
-
-3) Tarnybos rinktinės;
-
-4) Tarnybos užkardos;
-
-5) kiti Tarnybos struktūriniai padaliniai.
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 12 straipsnis. Vadovavimas Tarnybai
 
@@ -231,7 +329,11 @@ Tarnybą sudaro:
 
 1. Tarnybos vadas yra aukščiausias Tarnybos pareigūnas, vadovaujantis Tarnybai, ją kontroliuojantis ir atsakantis už bendrą struktūrinių padalinių veiklą. Tarnybos vadas yra pavaldus ir atskaitingas tiesiogiai vidaus reikalų ministrui.
 
-2. Tarnybos rinktinėms Tarnybos vadas vadovauja per Tarnybos rinktinių vadus, o centriniams Tarnybos padaliniams – tiesiogiai arba per Tarnybos štabo viršininką ir kitus savo pavaduotojus, kurie gali būti Tarnybos padalinių, nepriskiriamų Tarnybos štabui, vadovais.
+2. Tarnybos rinktinėms Tarnybos vadas vadovauja per Tarnybos rinktinių vadus, o centriniams Tarnybos padaliniams – tiesiogiai arba per Tarnybos štabo viršininką ir kitus savo pavaduotojus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 3. Tarnybos vadas skiriamas penkerių metų kadencijai, tačiau ne daugiau kaip dviem kadencijoms iš eilės.
 
@@ -257,7 +359,11 @@ Tarnybą sudaro:
 
 15 straipsnis. Tarnybos rinktinė
 
-1. Tarnybos rinktinė (toliau – rinktinė) yra teritorinis struktūrinis Tarnybos padalinys, organizuojantis ir įgyvendinantis Tarnybos funkcijas nustatytame pasienio ruože sausumoje, teritorinėje jūroje ir pasienio vidaus vandenyse.
+1. Tarnybos rinktinė (toliau – rinktinė) yra struktūrinis Tarnybos padalinys, organizuojantis ir įgyvendinantis Tarnybos funkcijas nustatytoje teritorijoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 2. Rinktinė yra juridinis asmuo, turintis sąskaitą banke, herbinį antspaudą, vėliavą ir ženklą.
 
@@ -271,7 +377,11 @@ Tarnybą sudaro:
 
 16 straipsnis. Tarnybos užkarda
 
-1. Tarnybos užkarda (toliau – užkarda) yra rinktinės struktūrinis padalinys, įgyvendinantis nustatytas valstybės sienos apsaugos funkcijas priskirtoje pasienio ruožo dalyje.
+1. Tarnybos užkarda (toliau – užkarda) yra rinktinės struktūrinis padalinys, įgyvendinantis nustatytas valstybės sienos apsaugos funkcijas priskirtoje pasienio ruožo, teritorinės jūros dalyje, jūrų ar oro uoste.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 2. Užkardos funkcijas nustato ir veikimo teritoriją priskiria Tarnybos vadas.
 
@@ -307,7 +417,11 @@ Tarnybos pareigūnas
 
 1. Tarnybos pareigūnui neleidžiama:
 
-1) užsiimti veikla, nustatyta Valstybės tarnybos įstatymo 22 straipsnyje;
+1) užsiimti veikla, nustatyta Valstybės tarnybos įstatymo 17 straipsnyje, išskyrus Valstybės tarnybos įstatymo 161 straipsnyje numatytas išimtis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 2) būti politinių partijų ar politinių organizacijų nariu, dalyvauti politinėje veikloje;
 
@@ -357,39 +471,37 @@ Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010IST
 
 14) skatinti fizinius ir juridinius asmenis bei įmones, neturinčias juridinio asmens teisių, suteikusius Tarnybai veiksmingą pagalbą.
 
-21 straipsnis. Pareigūnų įgaliojimai įgyvendinant Tarnybos funkcijas jūroje
+21 straipsnis. Pareigūnų įgaliojimai įgyvendinant Tarnybos funkcijas juroje
 
-1. Tarnybos laivo vadas teritorinėje jūroje ir pasienio vidaus vandenyse turi teisę:
+1. Tarnybos laivo vadas, užkardos, kurios veikimo teritorija yra teritorinėje jūroje ir pasienio vidaus vandenyse, pamainos vyresnysis teritorinėje jūroje ir pasienio vidaus vandenyse turi teisę:
 
 1) pasiūlyti bet kurio laivo kapitonui iškelti laivo priklausomybės valstybės vėliavą, jeigu ji neiškelta;
 
-2) paklausti bet kurio laivo kapitono, kokiu tikslu jis įplaukė į Lietuvos Respublikos vandenis;
+2) paklausti bet kurio laivo kapitono, kokiu tikslu jis įplaukė į Lietuvos Respublikos teritorinius vandenis;
 
-3) pasiūlyti bet kurio laivo kapitonui pakeisti kursą, jeigu jis plaukia į rajoną, kuriame uždrausta plaukioti, arba plaukia kursu, kurio laikantis galima pažeisti plaukimo režimą;
+3) pasiūlyti bet kurio laivo kapitonui pakeisti kursą, jeigu jis plaukia į rajoną, kuriame uždrausta plaukioti, arba plaukia kursu, kurio laikantis galima pažeisti nustatytą plaukimo režimą;
 
-4) priversti laivą plaukti į nurodytą uostą, jeigu šio laivo kapitonas nevykdo pateiktų reikalavimų, lydėti arba buksyruoti sulaikytą laivą.
+4) priversti laivo kapitoną pasukti laivą į nurodytą uostą, jeigu laivo kapitonas nevykdo pateiktų reikalavimų, lydėti arba buksyruoti sulaikytą laivą.
 
-2. Tarnybos laivo vadas turi teisę sustabdyti ir apžiūrėti laivą, jeigu:
+2. Tarnybos laivo vadas, užkardos, kurios veikimo teritorija yra teritorinėje jūroje ir pasienio vidaus vandenyse, pamainos vyresnysis turi teisę organizuoti laivo sustabdymą ir apžiūrą, jeigu:
 
-1) neiškeliama vėliava, neatsakoma į paklausimo signalus;
+1) laivas plaukia neiškėlęs vėliavos ar neturi kitų aiškių atpažinimo ženklų, neatsako į paklausimo signalus;
 
 2) nevykdomas reikalavimas pakeisti kursą arba kitaip pažeidžiami visuotinai pripažinti taikiam plaukimui teritorine jūra taikomi tarptautinės teisės reikalavimai;
 
 3) laivas yra rajone, kuriame uždrausta plaukioti;
 
-4) laivas neteisėtai žvejoja, vykdo ūkinę, komercinę arba kitą veiklą, pažeisdamas Lietuvos Respublikos teisės aktų nustatytą tvarką ar tarptautinės teisės normas;
+4) laivas neteisėtai žvejoja, vykdo ūkinę, komercinę arba kitą veiklą, pažeisdamas Lietuvos Respublikos, Europos Sąjungos teisės aktų nustatytą tvarką ar kitas tarptautinės teisės normas;
 
-5) išlaipinami arba įlaipinami žmonės, iškraunami arba pakraunami kroviniai nenustatytose vietose arba nustatytose vietose, bet neleistinu būdu arba be atitinkamo leidimo, nuleidžiamos į vandenį plaukiojimo priemonės, pakeliami į orą arba priimami į laivą orlaiviai;
+5) išlaipinami arba įlaipinami žmonės, iškraunamos arba pakraunamos prekės (daiktai) nenustatytose vietose arba nustatytose vietose, bet neleistinu būdu arba be atitinkamo leidimo, nuleidžiamos į vandenį plaukiojimo priemonės, pakeliami į orą arba priimami į laivą orlaiviai;
 
 6) įgulos nariai arba laive esantys keleiviai gadina navigacinius ženklus, ryšių kabelius, Lietuvos Respublikai priklausančius objektus bei įrangą, esančius jūros dugne, povandeninėje jos dalyje arba vandens paviršiuje;
 
-7) laivas teršia aplinką kenksmingomis žmonių sveikatai bei vandens gyvūnams atliekomis arba medžiagomis;
+7) laivas teršia aplinką kenksmingomis žmonių sveikatai, vandens florai ir faunai atliekomis arba medžiagomis;
 
-8) laivas pažeidžia įplaukimo į teritorinę jūrą, plaukimo ir buvimo joje tvarką;
+8) laivas pažeidžia taikaus plaukimo teritorine jūra, plaukimo ir buvimo joje tvarką bei vykdo kitą su taikiu plaukimu nesuderinamą veiklą.
 
-9) laivas vykdo kitą veiklą, nesusijusią su taikiu plaukimu teritorine jūra.
-
-3. Tarnybos laivo vadas turi teisę sustabdyti užsienio valstybės laivą, siekiant sulaikyti asmenį arba atlikti ikiteisminį tyrimą dėl nusikalstamos veikos, padarytos laivo plaukimo metu, kai:
+3. Tarnybos laivo vadas, užkardos, kurios veikimo teritorija yra teritorinėje jūroje ir pasienio vidaus vandenyse, pamainos vyresnysis turi teisę organizuoti kitos valstybės laivo sustabdymą, siekdami sulaikyti asmenį arba atlikti ikiteisminį tyrimą dėl nusikalstamos veikos, padarytos laivo plaukimo metu, kai:
 
 1) nusikalstamos veikos padariniai yra susiję su Lietuvos Respublikos ar asmenų interesais;
 
@@ -397,37 +509,31 @@ Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010IST
 
 3) tokios priemonės yra reikalingos, kad būtų užkirstas kelias neteisėtai ginklų, šaudmenų, sprogmenų, sprogstamųjų, narkotinių, psichotropinių, pavojingų ir (ar) kenksmingų medžiagų apyvartai;
 
-4) to prašo įplaukusio į Lietuvos Respublikos teritorinę jūrą laivo kapitonas arba laivo registravimo valstybės diplomatinis atstovas ar konsulinis pareigūnas.
+4) to prašo įplaukusio į Lietuvos Respublikos teritorinę jūrą laivo kapitonas arba laivo registravimo valstybės diplomatinis atstovas, arba konsulinis pareigūnas.
 
-Straipsnio dalies pakeitimai:
+4. Tarnybos laivo vadas turi teisę sustabdyti ar sulaikyti kitos valstybės laivą, jei:
 
-Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010ISTA0IX-1420
-
-4. Tarnybos laivo vadas turi teisę sustabdyti ar sulaikyti užsienio valstybės laivą, jei:
-
-1) laivas, plaukdamas per Lietuvos Respublikos teritorinę jūrą, prisiėmė civilinius teisinius įsipareigojimus ar civilinę atsakomybę, arba tokie įsipareigojimai ar atsakomybė jam yra taikomi;
+1) laivas, plaukdamas per Lietuvos Respublikos teritorinę jūrą, prisiėmė civilinius teisinius įsipareigojimus ar civilinę atsakomybę arba tokie įsipareigojimai ar atsakomybė jam yra taikomi;
 
 2) reikia priverstinai įvykdyti teismo sprendimą ar areštuoti laivą po to, kai jis paliko vidaus vandenis.
 
-5. Tarnybos laivo vadas apie sulaikytą užsienio valstybėje įregistruotą laivą nedelsdamas informuoja Lietuvos Respublikos užsienio reikalų ministeriją.
+5. Apie sulaikytą kitoje valstybėje įregistruotą laivą nedelsiant informuojama Lietuvos Respublikos užsienio reikalų ministerija.
 
-6. Tarnybos laivo vadas turi teisę persekioti ir sulaikyti laivą už Lietuvos Respublikos teritorinės jūros ribų, kol jis įplauks į savo valstybės arba trečiosios valstybės teritorinę jūrą, jeigu Tarnyba arba kitos kompetentingos valstybės institucijos turi pagrindą manyti, kad laivas pažeidė Lietuvos Respublikos įstatymus, o bandymas sustabdyti laivą prasidėjo Lietuvos Respublikos teritorinėje jūroje ir laivas buvo nenutrūkstamai persekiojamas.
+6. Tarnybos laivo vadas turi teisę persekioti ir sulaikyti laivą už Lietuvos Respublikos teritorinės jūros ribų, kol jis įplauks į savo valstybės arba trečiosios valstybės teritorinę jūrą, jeigu Tarnyba arba kitos kompetentingos valstybės institucijos turi pagrindą manyti, kad laivas pažeidė Lietuvos Respublikos įstatymus, o bandymas sustabdyti laivą prasidėjo Lietuvos Respublikos teritorinėje jūroje, gretutinėje zonoje (tais atvejais, kai persekiojimas susijęs su gretutinės zonos teisinio režimo pažeidimu) ir buvo nenutrūkstamai persekiojamas.
 
-7. Tarnybos laivo arba orlaivio vadas laivams stabdyti naudoja Tarptautinio signalų kodekso signalus ir kitas tarptautiniuose susitarimuose numatytas priemones.
+7. Tarnybos laivo arba orlaivio vadas laivams stabdyti naudoja tarptautinį radijo ryšį, šviesos signalus, tarptautinį garsinį signalų kodą, pirotechninius signalus, ultratrumpųjų radijo bangų kanalą, laivo vėliavas, signalines raketas, signalinius šviesos prietaisus ir kitas įmanomas priemones ir būdus, atsižvelgdamas į konkrečią situaciją ir oro sąlygas.
 
-8. Pagal sustabdyto laivo apžiūros rezultatus Tarnybos laivo vadas gali leisti laivui plaukti (būti) arba pasiūlyti išplaukti iš Lietuvos Respublikos vandenų arba laivą sulaikyti.
+8. Pagal sustabdyto laivo apžiūros rezultatus Tarnybos laivo vadas gali leisti laivui plaukti (būti) arba pasiūlyti išplaukti iš Lietuvos Respublikos teritorinės jūros ar vidaus vandenų, arba laivą sulaikyti.
 
-9. Kiekvieną kartą sustabdžius arba sulaikius laivą, yra surašomas protokolas lietuvių ir anglų kalbomis. Protokolą pasirašo Tarnybos laivo vadas ir laivo kapitonas. Vienas protokolo egzempliorius yra įteikiamas laivo kapitonui. Laivo kapitonas gali bet kuria kalba įrašyti į protokolą savo pastabas ir paaiškinimus arba išdėstyti tai atskirame rašte.
+9. Kiekvieną kartą sustabdžius arba sulaikius laivą bei atlikus laivo apžiūrą ne pasienio kontrolės punkte, dėl to yra surašomas protokolas lietuvių ir anglų kalbomis. Protokolas anglų kalba nesurašomas, kai laivo kapitonas yra Lietuvos Respublikos pilietis. Protokolą pasirašo jį surašęs tarnybos vado įgaliotas pareigūnas ir laivo kapitonas. Vienas protokolo egzempliorius yra įteikiamas laivo kapitonui. Laivo kapitonas gali bet kuria kalba įrašyti į protokolą savo pastabas ir paaiškinimus arba išdėstyti tai atskirame rašte.
 
 10. Pareigūnai turi ir kitų įstatymų, įstatymų lydimųjų aktų ir Lietuvos Respublikos tarptautinių sutarčių nustatytų teisių.
 
-11. Neteko galios nuo 2005-01-01
+11. Šio straipsnio 1 dalies 4 punkte, 2–4 ir 6 dalyse nurodytos priemonės negali būti taikomos užsienio valstybių karo laivams ar laivams, naudojamiems nekomerciniais tikslais.
 
-Straipsnio dalies naikinimas:
+Straipsnio pakeitimai:
 
-Nr. IX-2575, 2004-11-11, Žin. 2004, Nr. 171-6321 (2004-11-26), i. k. 1041010ISTA0IX-2575
-
-12. Šio straipsnio 1 dalies 4 punkte, 2–4 ir 6 dalyse nurodytos priemonės negali būti taikomos užsienio valstybių karo laivams ar laivams, naudojamiems nekomerciniais tikslais.
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 22 straipsnis. Šaunamojo ginklo ir specialiųjų priemonių panaudojimo sąlygos
 
@@ -449,7 +555,7 @@ Nr. IX-2575, 2004-11-11, Žin. 2004, Nr. 171-6321 (2004-11-26), i. k. 1041010IST
 
 4) kitais policijos veiklą reglamentuojančių įstatymų nustatytais atvejais.
 
-2. Pareigūnas, vykdydamas tarnybines pareigas, turi teisę panaudoti specialiąsias priemones (guminę lazdą, antrankius, surišimo priemones, dujas, priverstinio transporto priemonių sustabdymo priemones, kovos imtynių veiksmus ir tarnybinius šunis):
+2. Pareigūnas, vykdydamas tarnybines pareigas, turi teisę panaudoti specialiąsias priemones (lazdas, antrankius, surišimo priemones, dujas, priverstinio transporto priemonių sustabdymo priemones, kovos imtynių veiksmus, tarnybinius šunis, šaunamąjį ginklą su specialios paskirties nemirtinais šaudmenimis bei kitas įstatymų leidžiamas ir vidaus reikalų ministro įsakymu patvirtintas aktyvios ir pasyvios gynybos priemones):
 
 1) atremdamas užpuolimą prieš pareigūnus ir kitus asmenis, vykdančius pareigas pasienio ruože, pasienio kontrolės punkte, saugomame objekte;
 
@@ -462,6 +568,10 @@ Nr. IX-2575, 2004-11-11, Žin. 2004, Nr. 171-6321 (2004-11-26), i. k. 1041010IST
 5) atremdamas saugomų pareigūnų, pastatų, pavienių patalpų ir transporto priemonių užpuolimus arba išlaisvindamas užimtus šiuos objektus;
 
 6) kitais policijos veiklą reglamentuojančių įstatymų nustatytais atvejais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 3. Šaunamasis ginklas, specialiosios priemonės gali būti panaudotos be įspėjimo:
 
@@ -491,7 +601,11 @@ Nr. IX-2575, 2004-11-11, Žin. 2004, Nr. 171-6321 (2004-11-26), i. k. 1041010IST
 
 6) prieš asmenį, turintį su savimi mažametį vaiką;
 
-7) prieš moteris, nepilnamečius bei invalidus su aiškiais invalidumo požymiais, išskyrus atvejus, kada jie patys užpuola arba priešinasi ginklu.
+7) prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
 24 straipsnis. Ginkluotės panaudojimas persekiojant laivus jūroje
 
@@ -565,6 +679,20 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
+Lietuvos Respublikos valstybės sienos
+
+apsaugos tarnybos įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 562/2006, nustatantis taisyklių, reglamentuojančių asmenų judėjimą per sienas, Bendrijos kodeksą (Šengeno sienų kodeksas) (OL 2006 L 105, p. 1).
+
+Papildyta priedu:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+
 Pakeitimai:
 
 1.
@@ -582,4 +710,48 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2575, 2004-11-11, Žin., 2004, Nr. 171-6321 (2004-11-26), i. k. 1041010ISTA0IX-2575
 
 Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymo 21 straipsnio 11 dalies pripažinimo netekusia galios įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+
+Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymo 2, 3, 5, 6, 8, 9, 13, 15, 16, 19, 21, 23 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 1(1), 7(1), 7(2), 7(3), 16(1) straipsniais ir priedu įstatymas
+
+71 straipsnis. Tarnybos teisė gauti informaciją
+
+Valstybės ir savivaldybių institucijos, jų įstaigos bei įmonės privalo sudaryti sąlygas Tarnybai neatlygintinai ir netrukdomai naudotis valstybės registrų, kadastrų, klasifikatorių duomenų bankais. Kitais valstybės ir savivaldybių institucijų, jų įstaigų, įmonių, kitų juridinių bei fizinių asmenų duomenų bankais Tarnyba gali naudotis pagal atskiras sutartis, jeigu įstatymai nenustato kitaip.
+
+Papildyta straipsniu:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+
+72 straipsnis. Duomenų tvarkymas Tarnyboje
+
+1. Tarnyba teisės aktų nustatyta tvarka automatizuotu būdu kaupia ir tvarko duomenis apie asmenis ir transporto priemones, kertančius valstybės sieną.
+
+2. Tarnyba, tvarkydama asmens duomenis, turi teisę naudoti asmens kodą be duomenų subjekto sutikimo.
+
+Papildyta straipsniu:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+
+73 straipsnis. Asmenų teisė gauti informaciją
+
+1. Asmens prašymu įstatymų nustatyta tvarka Tarnyba privalo pateikti savo tvarkomojoje informacinėje sistemoje turimus duomenis apie šį asmenį, išskyrus įstatymų nustatytus atvejus.
+
+2. Draudžiama teikti Tarnybos informacinėje sistemoje esančius duomenis apie kitus asmenis, jeigu įstatymai nenustato kitaip.
+
+Papildyta straipsniu:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+
+161 straipsnis. Kiti Tarnybos struktūriniai padaliniai
+
+Tarnybos atskiroms funkcijoms vykdyti gali būti steigiami kiti Tarnybos struktūriniai padaliniai. Šių padalinių funkcijas nustato Tarnybos nuostatai.
+
+Papildyta straipsniu:
+
+Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 
