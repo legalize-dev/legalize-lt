@@ -4,7 +4,7 @@ identifier: "TAR.F789235C18BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-12-10"
-last_updated: "2007-01-01"
+last_updated: "2007-02-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
-Suvestinė redakcija nuo 2007-01-01 iki 2007-02-07
+Suvestinė redakcija nuo 2007-02-08 iki 2007-10-24
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
 
@@ -157,11 +157,15 @@ Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010IS
 
 4. Tuo atveju, kai šio straipsnio 2 dalyje nurodytuose viešuosiuose juridiniuose asmenyse yra patvirtinta mažiau kaip 200 pareigybių (etatų), juose steigėjo (steigėjų) arba Vyriausybės sprendimu gali būti įsteigta vidaus audito tarnyba arba vidaus auditą atlieka viešojo juridinio asmens steigėjo vidaus audito tarnyba. Kai viešojo juridinio asmens steigėjas (steigėjai) nėra viešasis juridinis asmuo, perdavęs valdyti, naudoti valstybės arba savivaldybės turtą bei juo disponuoti, vidaus auditą atlieka viešojo juridinio asmens, perdavusio valstybės arba savivaldybės turtą, vidaus audito tarnyba. Kai viešąjį juridinį asmenį yra įsteigę keli steigėjai, viešojo juridinio asmens vidaus auditą atlieka steigėjų bendru sprendimu paskirta viešojo juridinio asmens vidaus audito tarnyba.
 
-5. Vidaus audito tarnybą arba centralizuotą vidaus audito tarnybą kaip skyrių sudaro ne mažiau kaip 3 pareigybės. Vidaus audito tarnybą arba centralizuotą vidaus audito tarnybą kaip departamentą sudaro ne mažiau kaip 3 skyriai.
+5. Centralizuotą vidaus audito tarnybą sudaro ne mažiau kaip 2 pareigybės. Centralizuotą vidaus audito tarnybą kaip departamentą sudaro ne mažiau kaip 3 skyriai.
 
 Papildyta straipsnio dalimi:
 
 Nr. X-806, 2006-09-14, Žin., 2006, Nr. 107-4044 (2006-10-06), i. k. 1061010ISTA000X-806
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1049, 2007-01-18, Žin., 2007, Nr. 17-632 (2007-02-08), i. k. 1071010ISTA00X-1049
 
 7 straipsnis. Vidaus audito tarnybos veiklos nepriklausomumas
 
@@ -344,4 +348,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-944, 2006-12-05, Žin., 2006, Nr. 141-5390 (2006-12-28), i. k. 1061010ISTA000X-944
 
 Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 8 ir 11 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1049, 2007-01-18, Žin., 2007, Nr. 17-632 (2007-02-08), i. k. 1071010ISTA00X-1049
+
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas
 
