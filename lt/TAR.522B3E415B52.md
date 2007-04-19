@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2006-12-14"
+last_updated: "2007-04-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -44,15 +44,13 @@ T E I S M Ų
 
 ĮSTATYMAS
 
-1994 m. gegužės
+1994 m. gegužės 31 d.
 
-31 d. Nr. I-480
+Nr. I-480
 
 Vilnius
 
-Nauja įstatymo redakcija nuo 2002 m. gegužės 1
-
-d.:
+Nauja įstatymo redakcija nuo 2002 m. gegužės 1 d.:
 
 Nr.
 
@@ -208,9 +206,9 @@ teisminę gynybą taip pat turi įmonės, įstaigos, organizacijos bei kitos
 
 institucijos.
 
-5 straipsnis. Teisė
+5 straipsnis.
 
-į nepriklausomą, nešališką ir operatyvų teismą
+Teisė į nepriklausomą, nešališką ir operatyvų teismą
 
 1. Asmuo turi
 
@@ -302,7 +300,9 @@ teismų savivaldą.
 
 grindžiama atstovavimu, rinkimais, jos vykdomųjų institucijų atskaitingumu,
 
-taip pat teismų savivaldos institucijų atsakomybe už tinkamą pavestų funkcijų atlikimą.
+taip pat teismų savivaldos institucijų atsakomybe už tinkamą pavestų funkcijų
+
+atlikimą.
 
 3. Teismų savivaldos
 
@@ -386,9 +386,9 @@ administracinio akto teisėtumo.
 
 vyriausiasis administracinis teismas ir apygardų administraciniai teismai yra
 
-specializuoti teismai, nagrinėjantys bylas dėl ginčų, kylančių iš
+specializuoti teismai, nagrinėjantys bylas dėl ginčų, kylančių iš administracinių
 
-administracinių teisinių santykių.
+teisinių santykių.
 
 5. Darbo,
 
@@ -412,9 +412,9 @@ teismų skaičių ir jų veiklos teritorijas nustato įstatymai.
 
 8. Lietuvos
 
-Aukščiausiojo Teismo teisėjų skaičių nustato Seimas Respublikos Prezidento teikimu,
+Aukščiausiojo Teismo teisėjų skaičių nustato Seimas Respublikos Prezidento
 
-pasiūlius Lietuvos Aukščiausiojo Teismo pirmininkui.
+teikimu, pasiūlius Lietuvos Aukščiausiojo Teismo pirmininkui.
 
 9. Lietuvos
 
@@ -458,7 +458,9 @@ PIRMASIS
 
 SKIRSNIS
 
-APYLINKIŲ TEISMAI
+APYLINKIŲ
+
+TEISMAI
 
 14 straipsnis.
 
@@ -512,9 +514,9 @@ susijusioms su sprendimų ir nuosprendžių vykdymu.
 
 nustatytais atvejais apylinkės teismo teisėjai atlieka ikiteisminio tyrimo
 
-teisėjo, vykdymo teisėjo funkcijas, taip pat kitas apylinkės teismo kompetencijai
+teisėjo, vykdymo teisėjo funkcijas, taip pat kitas apylinkės teismo
 
-įstatymų priskirtas funkcijas.
+kompetencijai įstatymų priskirtas funkcijas.
 
 16 straipsnis.
 
@@ -642,9 +644,9 @@ teisme yra Civilinių bylų skyrius ir Baudžiamųjų bylų skyrius.
 
 3. Teisėjus į Apeliacinio teismo Civilinių bylų ir Baudžiamųjų bylų
 
-skyrius paskirsto Apeliacinio teismo pirmininkas, atsižvelgdamas į
+skyrius paskirsto Apeliacinio teismo pirmininkas, atsižvelgdamas į teisėjų
 
-teisėjų darbo krūvį skyriuose.
+darbo krūvį skyriuose.
 
 4. Apeliacinio teismo buveinė yra Lietuvos Respublikos sostinėje
 
@@ -716,9 +718,9 @@ dauguma atitinkamo skyriaus teisėjų. Į Aukščiausiojo Teismo biuletenyje
 
 paskelbtose nutartyse esančius įstatymų ir kitų teisės aktų taikymo
 
-išaiškinimus atsižvelgia teismai, valstybės ir kitos institucijos, taip pat
+išaiškinimus atsižvelgia teismai, valstybės ir kitos institucijos, taip pat kiti
 
-kiti asmenys, taikydami tuos pačius įstatymus ir kitus teisės aktus;
+asmenys, taikydami tuos pačius įstatymus ir kitus teisės aktus;
 
 2) analizuoja teismų praktiką taikant įstatymus ir kitus teisės aktus ir
 
@@ -736,11 +738,11 @@ išaiškinimais, analizuoja ir apibendrina bendrosios kompetencijos teismų
 
 praktiką taikant Europos Sąjungos teisės normas ir teikia rekomendacijas dėl
 
-Lietuvos bendrosios kompetencijos teismų ir Europos Sąjungos teisminių institucijų
+Lietuvos bendrosios kompetencijos teismų ir Europos Sąjungos teisminių
 
-bendradarbiavimo užtikrinant vienodą Europos Sąjungos teisės aktų aiškinimą ir
+institucijų bendradarbiavimo užtikrinant vienodą Europos Sąjungos teisės aktų
 
-taikymą Lietuvos Respublikoje.
+aiškinimą ir taikymą Lietuvos Respublikoje.
 
 4. Aukščiausiasis Teismas atlieka ir kitas jo kompetencijai įstatymų
 
@@ -828,13 +830,13 @@ nuorašai ir projektai išsiunčiami Senato nariams, kitiems Aukščiausiojo Tei
 
 teisėjams, Apeliacinio teismo, Lietuvos vyriausiojo administracinio teismo,
 
-apygardų teismų, apygardų administracinių teismų ir apylinkių teismų
+apygardų teismų, apygardų administracinių teismų ir apylinkių teismų pirmininkams,
 
-pirmininkams, Seimo Teisės ir teisėtvarkos komiteto pirmininkui, teisingumo
+Seimo Teisės ir teisėtvarkos komiteto pirmininkui, teisingumo ministrui,
 
-ministrui, generaliniam prokurorui, Advokatų tarybos pirmininkui, prireikus –
+generaliniam prokurorui, Advokatų tarybos pirmininkui, prireikus – ir kitiems
 
-ir kitiems asmenims.
+asmenims.
 
 6. Aukščiausiojo Teismo senato posėdžiui pirmininkauja Aukščiausiojo
 
@@ -846,11 +848,11 @@ einantis šio teismo skyriaus pirmininkas.
 
 ne mažiau kaip du trečdaliai Senato narių. Senato nutarimai priimami
 
-balsuojant. Nutarimas yra priimtas, jeigu už jį balsavo daugiau kaip pusė posėdyje
+balsuojant. Nutarimas yra priimtas, jeigu už jį balsavo daugiau kaip pusė
 
-dalyvavusių Senato narių. Jei balsai pasiskirsto po lygiai, lemia Senato
+posėdyje dalyvavusių Senato narių. Jei balsai pasiskirsto po lygiai, lemia
 
-pirmininko balsas.
+Senato pirmininko balsas.
 
 8. Aukščiausiojo Teismo senato nutarimus pasirašo Senato pirmininkas ir
 
@@ -900,11 +902,11 @@ APYGARDŲ ADMINISTRACINIAI TEISMAI
 
 28 straipsnis. Apygardos administracinis teismas
 
-Apygardos administracinis teismas susideda iš šio teismo pirmininko,
+Apygardos administracinis teismas susideda iš šio teismo pirmininko, pirmininko
 
-pirmininko pavaduotojo (-ų) ir kitų teisėjų. Teismo pirmininko pavaduotojas
+pavaduotojo (-ų) ir kitų teisėjų. Teismo pirmininko pavaduotojas gali būti
 
-gali būti skiriamas teisme, kuriame yra ne mažiau kaip dešimt teisėjų. Apygardos
+skiriamas teisme, kuriame yra ne mažiau kaip dešimt teisėjų. Apygardos
 
 administraciniame teisme, kuriame yra daugiau kaip dvidešimt teisėjų, gali būti
 
@@ -974,15 +976,15 @@ priimtus sprendimus, nutarimus ir nutartis, dėl kurių paskelbimo pritarė
 
 dauguma šio teismo teisėjų, taip pat visus sprendimus dėl norminių
 
-administracinių aktų teisėtumo. Į Vyriausiojo administracinio teismo
+administracinių aktų teisėtumo. Į Vyriausiojo administracinio teismo biuletenyje
 
-biuletenyje paskelbtuose sprendimuose, nutarimuose ir nutartyse esančius
+paskelbtuose sprendimuose, nutarimuose ir nutartyse esančius įstatymų ir kitų
 
-įstatymų ir kitų teisės aktų taikymo išaiškinimus atsižvelgia teismai,
+teisės aktų taikymo išaiškinimus atsižvelgia teismai, valstybės ir kitos
 
-valstybės ir kitos institucijos, taip pat kiti asmenys, taikydami tuos pačius
+institucijos, taip pat kiti asmenys, taikydami tuos pačius įstatymus ir kitus
 
-įstatymus ir kitus teisės aktus;
+teisės aktus;
 
 2) analizuoja administracinių teismų praktiką taikant įstatymus ir kitus
 
@@ -998,11 +1000,11 @@ vadovaudamasis Europos Sąjungos teisminių institucijų išaiškinimais, analiz
 
 ir apibendrina administracinių teismų praktiką taikant Europos Sąjungos teisės
 
-normas ir teikia rekomendacijas dėl Lietuvos administracinių teismų ir Europos
+normas ir teikia rekomendacijas dėl Lietuvos administracinių teismų ir Europos Sąjungos
 
-Sąjungos teisminių institucijų bendradarbiavimo užtikrinant vienodą Europos
+teisminių institucijų bendradarbiavimo užtikrinant vienodą Europos Sąjungos
 
-Sąjungos teisės aktų aiškinimą ir taikymą Lietuvos Respublikoje.
+teisės aktų aiškinimą ir taikymą Lietuvos Respublikoje.
 
 4. Vyriausiasis administracinis teismas atlieka ir kitas jo kompetencijai
 
@@ -1110,9 +1112,9 @@ Aukščiausiąjį Teismą, Apeliacinį teismą ir Vyriausiąjį administracinį 
 
 aukštesnės pakopos teismo pirmininkas perduoda šią bylą nagrinėti kitam tos
 
-pačios pakopos teismui. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso
+pačios pakopos teismui. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis
 
-šalis yra šioje dalyje nurodyti teisėjo giminaičiai.
+yra šioje dalyje nurodyti teisėjo giminaičiai.
 
 3. Hipotekos teisėjas negali nagrinėti bylos, kurioje
 
@@ -1198,29 +1200,29 @@ balsas.
 
 pirmininkauja Aukščiausiojo Teismo pirmininkas, o jei jis skyriaus plenarinės
 
-sesijos posėdyje nedalyvauja, – pirmininko paskirtas skyriaus, kuriame
+sesijos posėdyje nedalyvauja, – pirmininko paskirtas skyriaus, kuriame nagrinėjama
 
-nagrinėjama byla, pirmininkas. Jei Aukščiausiojo Teismo pirmininkas ir
+byla, pirmininkas. Jei Aukščiausiojo Teismo pirmininkas ir skyriaus, kuriame
 
-skyriaus, kuriame nagrinėjama byla, pirmininkas skyriaus plenarinės sesijos
+nagrinėjama byla, pirmininkas skyriaus plenarinės sesijos posėdyje nedalyvauja,
 
-posėdyje nedalyvauja, skyriaus plenarinei sesijai pirmininkauja Aukščiausiojo
+skyriaus plenarinei sesijai pirmininkauja Aukščiausiojo Teismo pirmininko
 
-Teismo pirmininko paskirtas vienas skyriaus, kuriame nagrinėjama byla,
+paskirtas vienas skyriaus, kuriame nagrinėjama byla, teisėjas. Aukščiausiojo
 
-teisėjas. Aukščiausiojo Teismo skyriaus plenarinės sesijos posėdis yra
+Teismo skyriaus plenarinės sesijos posėdis yra teisėtas, jeigu jame dalyvauja
 
-teisėtas, jeigu jame dalyvauja ne mažiau kaip du trečdaliai skyriaus teisėjų.
+ne mažiau kaip du trečdaliai skyriaus teisėjų. Aukščiausiojo Teismo skyriaus
 
-Aukščiausiojo Teismo skyriaus plenarinėje sesijoje, nagrinėjančioje bylą,
+plenarinėje sesijoje, nagrinėjančioje bylą, kurios procesas atnaujintas,
 
-kurios procesas atnaujintas, Aukščiausiojo Teismo pirmininko patvarkymu gali
+Aukščiausiojo Teismo pirmininko patvarkymu gali dalyvauti kito skyriaus
 
-dalyvauti kito skyriaus teisėjai. Sprendimas priimamas plenarinės sesijos
+teisėjai. Sprendimas priimamas plenarinės sesijos posėdyje dalyvaujančių
 
-posėdyje dalyvaujančių teisėjų balsų dauguma. Jei balsai pasiskirsto po lygiai,
+teisėjų balsų dauguma. Jei balsai pasiskirsto po lygiai, lemia sesijos posėdžio
 
-lemia sesijos posėdžio pirmininko balsas.
+pirmininko balsas.
 
 Straipsnio pakeitimai:
 
@@ -1320,9 +1322,9 @@ išskyrus atvejus, kai tai draudžia įstatymai.
 
 4. Vyriausiojo administracinio teismo biuletenyje bei interneto
 
-tinklapyje skelbiami šiame Įstatyme nustatyti Vyriausiojo administracinio
+tinklapyje skelbiami šiame Įstatyme nustatyti Vyriausiojo administracinio teismo
 
-teismo sprendimai, nutarimai ir nutartys.
+sprendimai, nutarimai ir nutartys.
 
 5. Aukščiausiojo Teismo biuletenyje bei interneto tinklapyje skelbiami
 
@@ -1364,19 +1366,19 @@ byloje būtų priimtas, turi teisę kreiptis į kompetentingą Europos Sąjungos
 
 teisminę instituciją su prašymu pateikti dėl to preliminarų nutarimą.
 
-2.
+2. Aukščiausiasis
 
-Aukščiausiasis Teismas ir Vyriausiasis administracinis teismas, taip pat teismas,
+Teismas ir Vyriausiasis administracinis teismas, taip pat teismas, kuris yra
 
-kuris yra galutinė instancija nagrinėjamoje byloje (kai sprendimas negali būti
+galutinė instancija nagrinėjamoje byloje (kai sprendimas negali būti toliau
 
-toliau skundžiamas), šio straipsnio 1 dalyje
+skundžiamas), šio straipsnio 1 dalyje nurodytu
 
-nurodytu atveju privalo prašyti kompetentingos Europos Sąjungos teisminės
+atveju privalo prašyti kompetentingos Europos Sąjungos teisminės institucijos
 
-institucijos preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar
+preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo
 
-galiojimo klausimu.
+klausimu.
 
 Įstatymas papildytas straipsniu:
 
@@ -1460,9 +1462,9 @@ tvarka.
 
 44 straipsnis. Teisėjo teisės ir laisvės
 
-1. Teisėjas turi Lietuvos Respublikos Konstitucijoje ir įstatymuose numatytas
+1. Teisėjas turi Lietuvos Respublikos Konstitucijoje ir įstatymuose
 
-Lietuvos Respublikos piliečio teises ir laisves.
+numatytas Lietuvos Respublikos piliečio teises ir laisves.
 
 2. Teisėjo procesines teises nustato proceso įstatymai.
 
@@ -1548,15 +1550,15 @@ ar poėmį, išskyrus įstatymų nustatytus atvejus.
 
 3. Jeigu
 
-teisėjas yra įtariamas arba kaltinamas padaręs nusikalstamą veiką, jo
+teisėjas yra įtariamas arba kaltinamas padaręs nusikalstamą veiką, jo įgaliojimus
 
-įgaliojimus gali sustabdyti Seimas, o tarp Seimo sesijų – Respublikos
+gali sustabdyti Seimas, o tarp Seimo sesijų – Respublikos Prezidentas. Teisėjo
 
-Prezidentas. Teisėjo įgaliojimai sustabdomi iki sprendimo baudžiamojoje byloje
+įgaliojimai sustabdomi iki sprendimo baudžiamojoje byloje įsiteisėjimo. Jei
 
-įsiteisėjimo. Jei teisėjas pripažįstamas nekaltu, jo įgaliojimai atnaujinami ir
+teisėjas pripažįstamas nekaltu, jo įgaliojimai atnaujinami ir jam sumokamas
 
-jam sumokamas atlyginimas už įgaliojimų sustabdymo laiką.
+atlyginimas už įgaliojimų sustabdymo laiką.
 
 4. Teisėjas negali atsakyti administracine tvarka. Jei teisėjas padaro
 
@@ -1564,11 +1566,9 @@ administracinį teisės pažeidimą, medžiaga perduodama Teisėjų etikos ir dr
 
 komisijai.
 
-5. Be asmens dokumentų sulaikytas ar pristatytas į teisėsaugos
+5. Be asmens dokumentų sulaikytas ar pristatytas į teisėsaugos institucijas
 
-institucijas teisėjas turi būti nedelsiant paleistas, kai nustatoma jo
-
-asmenybė.
+teisėjas turi būti nedelsiant paleistas, kai nustatoma jo asmenybė.
 
 6. Teisėjas ar teismas neatsako už žalą, atsiradusią proceso šaliai dėl
 
@@ -1650,9 +1650,9 @@ teisėjų ir teismų darbo sąlygas.
 
 2. Valstybė
 
-užtikrina ir kitas įstatymų bei kitų teisės aktų nustatytas teisėjų nepriklausomumo
+užtikrina ir kitas įstatymų bei kitų teisės aktų nustatytas teisėjų
 
-garantijas.
+nepriklausomumo garantijas.
 
 VII SKYRIUS
 
@@ -1770,7 +1770,9 @@ Teisinių pareigybių sąrašą tvirtina Vyriausybė ar jos įgaliota institucij
 
 dėl asmens teisinio darbo stažo, teisėjo darbui tinkamą teisinio darbo stažą
 
-pripažįsta teisingumo ministro sudaryta Teisinio darbo stažo pripažinimo komisija.
+pripažįsta teisingumo ministro sudaryta Teisinio darbo stažo pripažinimo
+
+komisija.
 
 4. Teisinio
 
@@ -1794,19 +1796,19 @@ Pretendentų į teisėjus egzamino komisija
 
 1. Pretendentų į
 
-teisėjus egzamino komisiją trejiems metams iš septynių asmenų sudaro Teisėjų
+teisėjus egzamino komisiją trejiems metams iš septynių asmenų sudaro Teisėjų taryba.
 
-taryba. Ne mažiau kaip keturi šios komisijos nariai turi būti teisėjai. Du
+Ne mažiau kaip keturi šios komisijos nariai turi būti teisėjai. Du asmenis
 
-asmenis Komisijos nariais iš teisėjų ir vieną asmenį iš teisės krypties
+Komisijos nariais iš teisėjų ir vieną asmenį iš teisės krypties mokslininkų
 
-mokslininkų pasiūlo Teisėjų tarybos pirmininkas, po vieną asmenį iš teisėjų ir
+pasiūlo Teisėjų tarybos pirmininkas, po vieną asmenį iš teisėjų ir po vieną
 
-po vieną asmenį iš teisės krypties mokslininkų – daugiausiai teisėjų vienijanti
+asmenį iš teisės krypties mokslininkų – daugiausiai teisėjų vienijanti teisėjų
 
-teisėjų visuomeninė organizacija ir teisingumo ministras. Teisėjų taryba iš
+visuomeninė organizacija ir teisingumo ministras. Teisėjų taryba iš Pretendentų
 
-Pretendentų į teisėjus egzamino komisijos narių skiria Komisijos pirmininką.
+į teisėjus egzamino komisijos narių skiria Komisijos pirmininką.
 
 2. Pretendentų į
 
@@ -1876,9 +1878,9 @@ Respublikos Prezidentas, Teisėjų tarybos pirmininkas ir Seimo Pirmininkas,
 
 vieną narį – teisingumo ministras. Teisėjų tarybos pirmininkas iš Atrankos
 
-komisijos narių skiria komisijos pirmininką. Atrankos komisijos nariais negali būti
+komisijos narių skiria komisijos pirmininką. Atrankos komisijos nariais negali
 
-skiriami Teisėjų tarybos nariai.
+būti skiriami Teisėjų tarybos nariai.
 
 2. Pretendentų į teisėjus atranka vyksta pagal
 
@@ -1978,9 +1980,9 @@ praneša Teisėjų tarybos pirmininkas.
 
 17-700), 4, 5, 6 dalys (2002 m. sausio 24 d. redakcija; Žin., 2002, Nr.
 
-17-649) prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2
+17-649) prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai,
 
-daliai, 112 straipsnio 5 daliai, konstituciniam valdžių padalijimo principui,
+112 straipsnio 5 daliai, konstituciniam valdžių padalijimo principui,
 
 konstituciniam teisinės valstybės principui.
 
@@ -2006,19 +2008,19 @@ Laikas, kuriam skiriami teisėjai
 
 apylinkės teismo teisėjo pareigas pirmą kartą skiriamas penkeriems metams siekiant
 
-įvertinti, ar jis tinka dirbti teisėju. Skirti asmenį į teisėjo pareigas penkeriems
+įvertinti, ar jis tinka dirbti teisėju. Skirti asmenį į teisėjo pareigas
 
-metams galima tik vieną kartą. Pakartotiniu nelaikomas asmens skyrimas antrą
+penkeriems metams galima tik vieną kartą. Pakartotiniu nelaikomas asmens
 
-kartą į apylinkės teismo teisėjo pareigas penkeriems metams, jeigu pirmą kartą
+skyrimas antrą kartą į apylinkės teismo teisėjo pareigas penkeriems metams,
 
-paskirtas apylinkės teismo teisėjas įgaliojimus vykdė trumpiau negu penkerius
+jeigu pirmą kartą paskirtas apylinkės teismo teisėjas įgaliojimus vykdė
 
-metus. Pasibaigus penkerių metų terminui, Respublikos Prezidentas tokį asmenį
+trumpiau negu penkerius metus. Pasibaigus penkerių metų terminui, Respublikos
 
-apylinkės teismo teisėju be egzamino ir atrankos gali skirti iki to laiko, kai
+Prezidentas tokį asmenį apylinkės teismo teisėju be egzamino ir atrankos gali
 
-jam sukaks 65 metai.
+skirti iki to laiko, kai jam sukaks 65 metai.
 
 2. Kitų teismų
 
@@ -4360,9 +4362,9 @@ Prezidentas Teisėjų tarybos patarimu.
 
 2. Vyriausiojo
 
-administracinio teismo pirmininkas, pirmininko pavaduotojas skiriamas šešeriems
+administracinio teismo pirmininkas, pirmininko pavaduotojas skiriamas
 
-metams.
+penkeriems metams.
 
 *Pastaba. Pripažinti, kad Lietuvos
 
@@ -4402,6 +4404,12 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2006-05-09, Žin., 2006, Nr. 51-1894 (2006-05-11)
 
+Nr.
+
+X-1099,
+
+2007-04-19, Žin., 2007, Nr. 46-1724 (2007-04-26)
+
 76 straipsnis.
 
 Apylinkės teismo, apygardos administracinio teismo, apygardos teismo ir
@@ -4414,21 +4422,21 @@ skyriaus
 
 pirmininko skyrimo tvarka
 
-1. Kandidatūras
+1. Kandidatūras į laisvas
 
-į laisvas apylinkės teismo, apygardos administracinio teismo, apygardos teismo,
+apylinkės teismo, apygardos administracinio teismo, apygardos teismo,
 
 Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus
 
-pirmininko vietas parenka iš paskirtų į atitinkamą teismą teisėjų ir teikia jas
+pirmininko vietas parenka ir teikia jas Respublikos Prezidentui šio Įstatymo 55(1)
 
-Respublikos Prezidentui šio Įstatymo 55(1) straipsnio 1 dalyje
+straipsnio 1 dalyje nurodyta Atrankos komisija. Kandidatūras į nurodytas
 
-nurodyta Atrankos komisija. Kandidatūras į nurodytas pareigas Atrankos komisija
+pareigas Atrankos komisija atrenka pagal Teisėjų tarybos patvirtintus Teisėjų
 
-atrenka pagal Teisėjų tarybos patvirtintus Teisėjų karjeros siekiančių asmenų
+karjeros siekiančių asmenų atrankos nuostatus ir Teisėjų karjeros siekiančių
 
-atrankos nuostatus ir Teisėjų karjeros siekiančių asmenų vertinimo kriterijus.
+asmenų vertinimo kriterijus.
 
 *2. Kandidatūros
 
@@ -4474,9 +4482,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. IX-1302, 2003-01-21,
+Nr. IX-1302,
 
-Žin., 2003, Nr. 17-700 (2003-02-19)
+2003-01-21, Žin., 2003, Nr. 17-700 (2003-02-19)
 
 Straipsnio
 
@@ -4486,13 +4494,21 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2006-05-09, Žin., 2006, Nr. 51-1894 (2006-05-11)
 
+Nr.
+
+X-1099,
+
+2007-04-19, Žin., 2007, Nr. 46-1724 (2007-04-26)
+
 77 straipsnis.
 
 Apeliacinio teismo pirmininko, skyriaus pirmininko skyrimas
 
-1. Apeliacinio teismo pirmininką Seimo pritarimu
+1. Apeliacinio teismo
 
-skiria Respublikos Prezidentas.
+pirmininką iš paskirtų šio teismo teisėjų Seimo pritarimu skiria Respublikos
+
+Prezidentas.
 
 2. Apeliacinio teismo skyriaus pirmininką skiria
 
@@ -4504,7 +4520,7 @@ pirmininko skyrimo Respublikos Prezidentui pataria Teisėjų taryba.
 
 4. Apeliacinio
 
-teismo pirmininkas, skyriaus pirmininkas skiriamas šešeriems metams.
+teismo pirmininkas, skyriaus pirmininkas skiriamas penkeriems metams.
 
 *Pastaba. Pripažinti, kad
 
@@ -4543,6 +4559,12 @@ pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2006-05-09, Žin., 2006, Nr. 51-1894 (2006-05-11)
+
+Nr.
+
+X-1099,
+
+2007-04-19, Žin., 2007, Nr. 46-1724 (2007-04-26)
 
 78 straipsnis.
 
@@ -4594,17 +4616,17 @@ Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo skyrimo,
 
 Nr. 17-700) prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2
 
-daliai, 112 straipsnio 5 daliai, konstituciniam valdžių padalijimo principui, konstituciniam
+daliai, 112 straipsnio 5 daliai, konstituciniam valdžių padalijimo principui,
 
-teisinės valstybės principui.
+konstituciniam teisinės valstybės principui.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. IX-1302,
+Nr. IX-1302, 2003-01-21,
 
-2003-01-21, Žin., 2003, Nr. 17-700 (2003-02-19)
+Žin., 2003, Nr. 17-700 (2003-02-19)
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
@@ -4614,37 +4636,27 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 straipsnis. Aukščiausiojo Teismo pirmininko, skyriaus pirmininko skyrimas
 
-1. Aukščiausiojo
+1. Aukščiausiojo Teismo
 
-Teismo pirmininką iš paskirtų šio teismo teisėjų skiria Seimas Respublikos
+pirmininką iš paskirtų šio teismo teisėjų skiria Seimas Respublikos Prezidento
+
+teikimu.
+
+2. Aukščiausiojo Teismo
+
+skyriaus pirmininką iš paskirtų šio teismo teisėjų skiria Seimas Respublikos
 
 Prezidento teikimu.
 
-*2.
+3. Aukščiausiojo Teismo
 
-Aukščiausiojo Teismo skyriaus pirmininką iš paskirtų šio teismo teisėjų skiria
+pirmininkas, skyriaus pirmininkas skiriamas penkeriems metams.
 
-Seimas Respublikos Prezidento teikimu, patarus Aukščiausiojo Teismo
+4. Kandidatūros į Aukščiausiojo
 
-pirmininkui.
+Teismo pirmininko ir skyriaus pirmininko pareigas svarstomos Teisėjų taryboje
 
-3. Aukščiausiojo
-
-Teismo pirmininkas, skyriaus pirmininkas skiriamas septyneriems metams.
-
-*Pastaba. Pripažinti, kad Lietuvos
-
-Respublikos teismų įstatymo 79 straipsnio 2 dalis (2002 m. sausio 24 d.
-
-redakcija; Žin., 2002, Nr. 17-649), 81 straipsnio 3 dalis (2002 m. sausio 24 d.
-
-redakcija; Žin., 2002, Nr. 17-649) prieštarauja Lietuvos Respublikos
-
-Konstitucijos 5 straipsnio 2 daliai, 84 straipsnio 11 punktui, 112 straipsnio 5
-
-daliai, konstituciniam valdžių padalijimo principui, konstituciniam teisinės
-
-valstybės principui.
+šio Įstatymo 56 straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka.
 
 Straipsnio
 
@@ -4653,6 +4665,12 @@ pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2006-05-09, Žin., 2006, Nr. 51-1894 (2006-05-11)
+
+Nr.
+
+X-1099,
+
+2007-04-19, Žin., 2007, Nr. 46-1724 (2007-04-26)
 
 80
 
@@ -4678,11 +4696,29 @@ pirmininko, pirmininko pavaduotojo ir skyriaus pirmininko administracinius
 
 įgaliojimus nustato įstatymai ir kiti teisės aktai.
 
-4. Teismo pirmininkas, pirmininko pavaduotojas ir
+4. Teisėjas tos
 
-skyriaus pirmininkas gali būti skiriami ne daugiau kaip dvi kadencijas iš
+pačios pakopos teisme į tas pačias – teismo pirmininko, pirmininko pavaduotojo
 
-eilės.
+ar skyriaus pirmininko – pareigas gali būti skiriamas ne daugiau kaip dviem
+
+kadencijoms iš eilės. Po dviejų iš eilės kadencijų teisėjas į tos pačios
+
+pakopos teismo pirmininko, pirmininko pavaduotojo ar skyriaus pirmininko
+
+pareigas gali būti skiriamas, jei po jo antros kadencijos pabaigos yra praėję
+
+ne mažiau kaip penkeri metai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-1099,
+
+2007-04-19, Žin., 2007, Nr. 46-1724 (2007-04-26)
 
 81
 
@@ -4714,11 +4750,9 @@ iš pareigų atvejais.
 
 Teismo pirmininką iš pareigų atleidžia Seimas Respublikos Prezidento teikimu.
 
-*3.
+3. Aukščiausiojo Teismo
 
-Aukščiausiojo Teismo skyriaus pirmininką iš pareigų atleidžia Seimas
-
-Respublikos Prezidento teikimu, patarus Aukščiausiojo Teismo pirmininkui.
+skyriaus pirmininką iš pareigų atleidžia Seimas Respublikos Prezidento teikimu.
 
 4. Apeliacinio teismo
 
@@ -4736,39 +4770,15 @@ teismo skyriaus pirmininką, apygardos teismo pirmininką ir skyriaus pirminink�
 
 apygardos administracinio teismo pirmininką ir pirmininko pavaduotoją,
 
-apylinkės teismo pirmininką ir pirmininko pavaduotoją iš pareigų atleidžia
+apylinkės teismo pirmininką ir pirmininko pavaduotoją iš pareigų atleidžia Respublikos
 
-Respublikos Prezidentas.
+Prezidentas.
 
-**7. Dėl šio straipsnio 4, 5 ir 6 dalyse nurodytų
+7. Dėl šio straipsnio 2, 3, 4,
 
-asmenų atleidimo iš pareigų Respublikos Prezidentui pataria Teisėjų taryba.
+5 ir 6 dalyse nurodytų asmenų atleidimo iš pareigų Respublikos Prezidentui
 
-*Pastaba. Pripažinti, kad Lietuvos
-
-Respublikos teismų įstatymo 79 straipsnio 2 dalis (2002 m. sausio 24 d.
-
-redakcija; Žin., 2002, Nr. 17-649), 81 straipsnio 3 dalis (2002 m. sausio
-
-24 d. redakcija; Žin., 2002, Nr. 17-649) prieštarauja Lietuvos Respublikos
-
-Konstitucijos 5 straipsnio 2 daliai, 84 straipsnio 11 punktui, 112 straipsnio 5
-
-daliai, konstituciniam valdžių padalijimo principui, konstituciniam teisinės
-
-valstybės principui.
-
-**Pastaba.
-
-Pripažinti, kad Lietuvos Respublikos teismų įstatymo 81 straipsnio 7 dalis
-
-(2002 m. sausio 24 d. redakcija; Žin., 2002, Nr. 17-649) prieštarauja
-
-Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 112 straipsnio 5
-
-daliai, konstituciniam valdžių padalijimo principui, konstituciniam teisinės
-
-valstybės principui.
+pataria Teisėjų taryba.
 
 Straipsnio
 
@@ -4777,6 +4787,12 @@ pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2006-05-09, Žin., 2006, Nr. 51-1894 (2006-05-11)
+
+Nr.
+
+X-1099,
+
+2007-04-19, Žin., 2007, Nr. 46-1724 (2007-04-26)
 
 82
 
@@ -5088,9 +5104,9 @@ teisėją žemesnės pakopos teismo teisėju;
 
 teisėją iš pareigų;
 
-3) pradėti teisėjo
+3) pradėti
 
-apkaltos procesą.
+teisėjo apkaltos procesą.
 
 3. Kai Respublikos Prezidentas
 
@@ -5508,17 +5524,17 @@ Aukščiausiojo Teismo teisėjų atostogų trukmę nustato Aukščiausiojo Teism
 
 statutas.
 
-2. Teisėjams už pareigų
+2. Teisėjams už
 
-po darbo valandų, poilsio ir švenčių dienomis atlikti teisėjo funkcijas,
+pareigų po darbo valandų, poilsio ir švenčių dienomis atlikti teisėjo
 
-nurodytas Baudžiamojo proceso kodekse, Civilinio proceso kodekse bei kituose
+funkcijas, nurodytas Baudžiamojo proceso kodekse, Civilinio proceso kodekse bei
 
-įstatymuose, vykdymą gali būti kompensuojama suteikiant iki 14 kalendorinių
+kituose įstatymuose, vykdymą gali būti kompensuojama suteikiant iki 14
 
-dienų papildomų mokamų kasmetinių atostogų. Šių atostogų suteikimo tvarką
+kalendorinių dienų papildomų mokamų kasmetinių atostogų. Šių atostogų suteikimo
 
-nustato Vyriausybė.
+tvarką nustato Vyriausybė.
 
 3. Dėl svarbių
 
@@ -5658,9 +5674,9 @@ Bendrosios administravimo teismuose nuostatos
 
 1.
 
-Administravimą teismuose sudaro teismo pareigūnų organizacinė veikla (vidinis
+Administravimą teismuose sudaro teismo pareigūnų organizacinė veikla (vidinis teismo
 
-teismo administravimas) ir šiame Įstatyme numatytų pareigūnų atliekama
+administravimas) ir šiame Įstatyme numatytų pareigūnų atliekama
 
 nurodytos veiklos priežiūra (išorinis teismų administravimas).
 
@@ -5714,9 +5730,9 @@ organizacinėmis techninėmis priemonėmis.
 
 4. Teismo
 
-skyriaus darbui vadovauja ir už tinkamą skyriui priskirtų funkcijų atlikimą atsako
+skyriaus darbui vadovauja ir už tinkamą skyriui priskirtų funkcijų atlikimą
 
-skyriaus pirmininkas. Be to, teismo pirmininko pavaduotojas ir skyriaus
+atsako skyriaus pirmininkas. Be to, teismo pirmininko pavaduotojas ir skyriaus
 
 pirmininkas atsako už tą teismo organizacinio darbo sritį, kurią jiems paveda
 
@@ -5808,13 +5824,13 @@ eina teismo pirmininko paskirtas jo pavaduotojas arba didesnį teisėjo darbo
 
 stažą tame teisme turintis teismo pirmininko pavaduotojas, jeigu teismo
 
-pirmininkas jį pavaduojančio asmens nepaskyrė. Jeigu apygardos administraciniame
+pirmininkas jį pavaduojančio asmens nepaskyrė. Jeigu apygardos
 
-teisme, kuriame nėra teismo pirmininko pavaduotojo pareigybės, nėra teismo
+administraciniame teisme, kuriame nėra teismo pirmininko pavaduotojo
 
-pirmininko, jo pareigas Vyriausiojo administracinio teismo pirmininkas paveda
+pareigybės, nėra teismo pirmininko, jo pareigas Vyriausiojo administracinio
 
-laikinai eiti vienam iš to teismo teisėjų.
+teismo pirmininkas paveda laikinai eiti vienam iš to teismo teisėjų.
 
 4. Kai nėra
 
@@ -5894,9 +5910,7 @@ vadovaudamasis Aukščiausiojo Teismo statutu ir kitais įstatymais.
 
 teismo struktūrą, tarnautojų pareigybių sąrašą ir jų aprašymus tvirtina
 
-atitinkamo teismo pirmininkas, vadovaudamasis įstatymais ir kitais teisės
-
-aktais.
+atitinkamo teismo pirmininkas, vadovaudamasis įstatymais ir kitais teisės aktais.
 
 7. Teismo
 
@@ -5994,9 +6008,9 @@ archyvo vedėjo nėra, archyvą tvarko tam įgaliotas teismo raštinės darbuoto
 
 2. Teismų,
 
-išskyrus Aukščiausiąjį Teismą, archyvų tvarkymo taisykles tvirtina Teisėjų
+išskyrus Aukščiausiąjį Teismą, archyvų tvarkymo taisykles tvirtina Teisėjų taryba,
 
-taryba, suderinusi su Lietuvos archyvų departamentu prie Lietuvos Respublikos
+suderinusi su Lietuvos archyvų departamentu prie Lietuvos Respublikos
 
 Vyriausybės. Aukščiausiojo Teismo archyvo tvarkymo taisykles tvirtina
 
@@ -6034,15 +6048,15 @@ Teismo ūkio skyrius (ūkvedys)
 
 1. Teismo ūkio skyrius
 
-(ūkvedys) rūpinasi teismo pastato ir patalpų tinkama būkle, remontu, rekonstrukcija
+(ūkvedys) rūpinasi teismo pastato ir patalpų tinkama būkle, remontu,
 
-ir statybos darbais, tinkamų darbo sąlygų teisėjams ir teismo personalui
+rekonstrukcija ir statybos darbais, tinkamų darbo sąlygų teisėjams ir teismo
 
-užtikrinimu, teismo aprūpinimu organizacinėmis techninėmis priemonėmis, taip
+personalui užtikrinimu, teismo aprūpinimu organizacinėmis techninėmis
 
-pat atlieka kitus techninius, ūkinius, tvarkos palaikymo darbus, reikalingus
+priemonėmis, taip pat atlieka kitus techninius, ūkinius, tvarkos palaikymo
 
-tinkamam teismo funkcionavimui.
+darbus, reikalingus tinkamam teismo funkcionavimui.
 
 2. Už teismo
 
@@ -6250,11 +6264,11 @@ teismų savivaldos institucija, užtikrinanti teismų ir teisėjų nepriklausomu
 
 tarybą sudaro 15 narių:
 
-1) pagal
+1) pagal pareigas
 
-pareigas – Aukščiausiojo Teismo pirmininkas, Apeliacinio teismo pirmininkas,
+– Aukščiausiojo Teismo pirmininkas, Apeliacinio teismo pirmininkas, Vyriausiojo
 
-Vyriausiojo administracinio teismo pirmininkas;
+administracinio teismo pirmininkas;
 
 2) Visuotiniame teisėjų
 
@@ -6588,11 +6602,13 @@ TEISMŲ ADMINISTRACIJA
 
 Nacionalinė teismų administracija
 
-1. Nacionalinė teismų
+1. Nacionalinė
 
-administracija yra teismų savivaldos institucijas aptarnaujanti biudžetinė
+teismų administracija yra teismų savivaldos institucijas aptarnaujanti
 
-įstaiga. Nacionalinė teismų administracija steigiama atskiru įstatymu.
+biudžetinė įstaiga. Nacionalinė teismų administracija steigiama atskiru
+
+įstatymu.
 
 2. Nacionalinė
 
@@ -6650,11 +6666,13 @@ ir užtikrina, kad teismai būtų centralizuotai aprūpinami reikiamomis prekėm
 
 ir paslaugomis;
 
-6) sudaro Nacionalinės
+6) sudaro
 
-teismų administracijos ir apylinkių teismų, apygardų teismų, apygardų
+Nacionalinės teismų administracijos ir apylinkių teismų, apygardų teismų,
 
-administracinių teismų biudžetų išlaidų sąmatų įvykdymo suvestinę ataskaitą;
+apygardų administracinių teismų biudžetų išlaidų sąmatų įvykdymo suvestinę
+
+ataskaitą;
 
 7) kaupia,
 
@@ -6814,7 +6832,9 @@ VII
 
 DALIS
 
-BAIGIAMOSIOS NUOSTATOS
+BAIGIAMOSIOS
+
+NUOSTATOS
 
 131 straipsnis. Įstatymo įsigaliojimas
 
@@ -7288,9 +7308,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1322,
+Nr. IX-1322, 2003-01-28,
 
-2003-01-28, Žin., 2003, Nr. 12-440 (2003-01-31)
+Žin., 2003, Nr. 12-440 (2003-01-31)
 
 TEISMŲ
 
@@ -7314,9 +7334,9 @@ TEISMŲ
 
 kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
 
-Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y.
 
-y. nuo 2003 m. gegužės 1 d.
+nuo 2003 m. gegužės 1 d.
 
 29.
 
@@ -7362,9 +7382,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-2240, 2004-05-18,
+Nr. IX-2240,
 
-Žin., 2004, Nr. 84-3042 (2004-05-25)
+2004-05-18, Žin., 2004, Nr. 84-3042 (2004-05-25)
 
 TEISMŲ
 
@@ -7488,6 +7508,38 @@ TEISMŲ
 
 ĮSTATYMO 51, 66, 67 IR 68 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+35.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-1099,
+
+2007-04-19, Žin., 2007, Nr. 46-1724 (2007-04-26)
+
+TEISMŲ
+
+ĮSTATYMO 75, 76, 77, 79, 80 IR 81 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Iki šio įstatymo
+
+įsigaliojimo Respublikos Prezidento paskirti teismų pirmininkai, pirmininkų
+
+pavaduotojai ir skyrių pirmininkai eina pareigas iki kadencijos, kuriai buvo
+
+paskirti, pabaigos.
+
+Jei teismų
+
+pirmininkai, pirmininkų pavaduotojai ir skyrių pirmininkai iki šio įstatymo
+
+įsigaliojimo ėjo pareigas kadencijos trukmės ar ilgesnį laikotarpį, šis
+
+laikotarpis prilyginamas pirmajai jų kadencijai tame pačiame teisme einant tas
+
+pačias pareigas.
+
 ***Pabaiga***
 
 Konstitucinio Teismo nutarimai:
@@ -7550,17 +7602,17 @@ STRAIPSNIO 3, 4 PUNKTŲ (2002 M. SAUSIO 24 D. REDAKCIJA), 128 STRAIPSNIO 2
 
 DALIES (2002 M. SAUSIO 24 D. REDAKCIJA), LIETUVOS RESPUBLIKOS ĮSTATYMO
 
-"LIETUVOS AUKŠČIAUSIOJO TEISMO STATUTAS" 11 STRAIPSNIO 3 DALIES 13
+"LIETUVOS AUKŠČIAUSIOJO TEISMO STATUTAS" 11 STRAIPSNIO 3 DALIES 13 PUNKTO
 
-PUNKTO (1996 M. LIEPOS 4 D. REDAKCIJA), 17 STRAIPSNIO 1, 3 DALIŲ (1995 M.
+(1996 M. LIEPOS 4 D. REDAKCIJA), 17 STRAIPSNIO 1, 3 DALIŲ (1995 M. BALANDŽIO 18
 
-BALANDŽIO 18 D. REDAKCIJA), 4 DALIES (1996 M. LIEPOS 4 D. REDAKCIJA), 18
+D. REDAKCIJA), 4 DALIES (1996 M. LIEPOS 4 D. REDAKCIJA), 18 STRAIPSNIO 3 DALIES
 
-STRAIPSNIO 3 DALIES (1995 M. BALANDŽIO 18 D. REDAKCIJA) IR LIETUVOS RESPUBLIKOS
+(1995 M. BALANDŽIO 18 D. REDAKCIJA) IR LIETUVOS RESPUBLIKOS PREZIDENTO 2003 M.
 
-PREZIDENTO 2003 M. VASARIO 10 D. DEKRETO NR. 2048 "DĖL APYGARDOS TEISMO
+VASARIO 10 D. DEKRETO NR. 2048 "DĖL APYGARDOS TEISMO TEISĖJO
 
-TEISĖJO ATLEIDIMO" 1 STRAIPSNIO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ATLEIDIMO" 1 STRAIPSNIO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 ***
 
@@ -7568,7 +7620,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2007-01-02)
+Aušrinė Trapinskienė (2007-05-03)
 
 autrap@lrs.lt
 
