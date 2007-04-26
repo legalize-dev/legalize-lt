@@ -4,7 +4,7 @@ identifier: "TAR.0C3F453AC211"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-14"
-last_updated: "2006-02-11"
+last_updated: "2007-04-26"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0C3F453AC211"
 department: "Lietuvos Respublikos Seimas"
@@ -17,15 +17,25 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos gamybos mokesčio cukraus sektoriuje įstatymas
 
-Suvestinė redakcija nuo 2006-02-11 iki 2007-04-25
+Įstatymas netenka galios 2018-06-12:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1218, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09734
+
+Lietuvos Respublikos gamybos mokesčio cukraus sektoriuje įstatymo Nr. IX-1762 pripažinimo netekusiu galios įstatymas
+
+Suvestinė redakcija nuo 2007-04-26 iki 2018-06-11
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 104-4634, i. k. 1031010ISTA0IX-1762
 
+Nauja redakcija nuo 2007-04-26:
+
+Nr. X-1087, 2007-04-12, Žin. 2007, Nr. 46-1721 (2007-04-26), i. k. 1071010ISTA00X-1087
+
 LIETUVOS RESPUBLIKOS
 
-KVOTINIO CUKRAUS GAMYBOS MOKESČIO IR
-
-PAPILDOMO CUKRAUS GAMYBOS MOKESČIO
+GAMYBOS MOKESČIO CUKRAUS SEKTORIUJE
 
 ĮSTATYMAS
 
@@ -35,121 +45,77 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis Įstatymas reglamentuoja mokesčio už Lietuvos Respublikoje pagamintą kvotinį baltąjį cukrų (toliau – cukraus gamybos mokestis) ir papildomo cukraus gamybos mokesčio už Lietuvos Respublikoje pagamintą kvotinį baltąjį cukrų (toliau – papildomas cukraus gamybos mokestis) mokėjimo tvarką, kontrolę bei atsakomybę už šio Įstatymo pažeidimą.
+1. Šis įstatymas nustato mokesčio už Lietuvos Respublikoje turimą baltojo cukraus gamybos ir izogliukozės gamybos kvotą (toliau – gamybos mokestis) mokėjimo tvarką ir kontrolę, taip pat atsakomybę už šio įstatymo pažeidimus.
 
-2. Šis Įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, taikymą.
+2. Įstatymo nuostatos suderintos su šio įstatymo priede pateiktais Europos Sąjungos teisės aktais.
 
-2 straipsnis. Pagrindinės šio Įstatymo sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Kvotinis baltasis cukrus – pagal Europos Komisijos Lietuvos Respublikai skirtą baltojo cukraus gamybos kvotą pagamintas baltasis cukrus.
+Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2006 m. vasario 20 d. Tarybos reglamento (EB) Nr. 318/2006 dėl bendro cukraus sektoriaus rinkų organizavimo (toliau – Reglamentas (EB) Nr. 318/2006) 2 straipsnyje.
 
-2. Papildomas cukraus gamybos mokestis – Europos Komisijos nustatomas mokestis, jei lėšų, surinktų iš cukraus gamybos mokesčio, nepakanka kompensacijoms už eksportuojamą kvotinį baltąjį cukrų sumokėti.
+3 straipsnis. Mokesčio mokėtojai
 
-3. Baltojo cukraus intervencinė kaina – Europos Komisijos tvirtinama kvotinio baltojo cukraus intervencinio pirkimo kaina.
+Mokesčio mokėtojai yra nustatyti Reglamento (EB) Nr. 318/2006 16 straipsnio 3 dalyje.
 
-4. Mokestinis laikotarpis – Europos Sąjungos cukraus režimui taikomi prekybiniai metai, kurie prasideda liepos 1 dieną ir baigiasi kitų metų birželio 30 dieną.
+4 straipsnis. Mokesčio objektas
 
-5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2001 m. birželio 19 d. Tarybos reglamente (EB) Nr. 1260/2001 dėl bendro cukraus sektoriaus rinkų organizavimo (su paskutiniais pakeitimais, padarytais 2004 m. sausio 9 d. Komisijos reglamentu (EB) Nr. 39/2004).
+Mokesčio objektas yra Lietuvos Respublikos žemės ūkio ministerijos (toliau – Žemės ūkio ministerija) patvirtintiems baltojo cukraus ir izogliukozės gamintojams skirta baltojo cukraus ir izogliukozės gamybos kvota.
 
-Straipsnio dalies pakeitimai:
+5 straipsnis. Mokesčio mokestinis laikotarpis
 
-Nr. X-502, 2006-01-20, Žin., 2006, Nr. 17-598 (2006-02-11), i. k. 1061010ISTA000X-502
+Mokesčio mokestinis laikotarpis sutampa su prekybos metais, nurodytais Reglamento (EB) Nr. 318/2006 1 straipsnio 2 dalyje.
 
-3 straipsnis. Mokesčių objektas
+6 straipsnis. Mokesčio tarifas
 
-Cukraus gamybos mokesčio ir papildomo cukraus gamybos mokesčio objektas yra Lietuvos Respublikoje pagamintas kvotinis baltasis cukrus.
+Mokesčio tarifas už kvotinio baltojo cukraus ir kvotinės izogliukozės gamybos kvotos toną nustatytas Reglamento (EB) Nr. 318/2006 16 straipsnio 2 dalyje.
 
-4 straipsnis. Mokesčių mokėtojai
+7 straipsnis. Mokesčio apskaičiavimas, deklaravimas ir mokėjimas
 
-1. Cukraus gamybos mokestį ir papildomą cukraus gamybos mokestį moka Lietuvos Respublikos cukraus gamintojai, pagaminę kvotinį baltąjį cukrų.
+1. Gamybos mokestis už kvotinį baltąjį cukrų ir kvotinę izogliukozę mokamas nuo 2007–2008 mokestinių metų.
 
-2. Gaminti kvotinį baltąjį cukrų turi teisę Lietuvos Respublikos cukraus gamintojai, kurie turi valstybės paskirstytą baltojo cukraus kvotą.
+2. Gamybos mokestis skaičiuojamas už visą per mokestinį laikotarpį paskirtą baltojo cukraus ir izogliukozės gamybos kvotą.
 
-5 straipsnis. Mokesčių tarifai
+3. Iki einamųjų mokestinių metų lapkričio 1 d. Žemės ūkio ministerija apskaičiuoja gamybos mokesčio sumą už einamąjį mokestinį laikotarpį ir apie tai informuoja gamybos mokesčio mokėtojus, Valstybinę mokesčių inspekciją prie Finansų ministerijos ir apskričių valstybinių mokesčių inspekcijų atitinkamus skyrius, kuriuose gamybos mokesčio mokėtojas įregistruotas mokesčių mokėtoju.
 
-1. Cukraus gamybos mokesčio tarifas nustatomas vienai kvotinio baltojo cukraus tonai ir yra lygus 2 proc. baltojo cukraus intervencinės kainos dydžio.
+4. Mokesčio mokėtojas iki einamojo mokestinio laikotarpio gruodžio 1 d. pateikia apskrities valstybinei mokesčių inspekcijai, kurioje mokesčio mokėtojas registruotas, gamybos mokesčio deklaraciją.
 
-2. Papildomo cukraus gamybos mokesčio tarifą nustato Europos Komisija (tarifas skelbiamas Europos Sąjungos oficialiajame leidinyje), jei lėšų, surinktų iš cukraus gamybos mokesčio, nepakanka kompensacijoms už eksportuojamą kvotinį baltąjį cukrų (toliau – eksporto kompensacijos) sumokėti.
+5. Gamybos mokestis sumokamas į apskrities valstybinės mokesčių inspekcijos, kuriai buvo pateikta gamybos mokesčio deklaracija, sąskaitą iki einamojo mokestinio laikotarpio vasario 28 d.
 
-6 straipsnis. Mokesčių skaičiavimo, deklaravimo ir mokėjimo tvarka
+6. Gamybos mokesčio deklaracijos formą ir jos užpildymo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos.
 
-1. Cukraus gamybos mokestis skaičiuojamas už visą per mokestinį laikotarpį pagamintą kvotinį baltąjį cukrų ir mokamas dviem etapais.
+8 straipsnis. Mokesčio įskaitymas, grąžinimas, išieškojimas
 
-2. Iki kiekvienų metų balandžio 15 dienos Žemės ūkio ministerija nustato išankstinio mokėjimo sumą už einamąjį mokestinį laikotarpį, o lapkričio 1 dieną nustatomas galutinis mokestis už pasibaigusį mokestinį laikotarpį.
+1. Mokestis sumokamas į valstybės biudžetą ir pervedamas į Europos Sąjungos biudžetą.
 
-3. Cukraus gamybos mokesčio mokėtojai iki kiekvieno mokestinio laikotarpio gegužės 15 dienos pateikia teritorinei valstybinei mokesčių inspekcijai, kurioje mokesčio mokėtojas yra registruotas, cukraus gamybos mokesčio išankstinio mokėjimo deklaraciją, nurodydami iki mokestinio laikotarpio pabaigos prognozuojamą pagaminti cukraus kiekį.
+2. Mokestis grąžinamas, išieškomas ir įskaitomas Mokesčių administravimo įstatymo nustatyta tvarka.
 
-4. Cukraus gamybos mokesčio mokėtojai pasibaigus mokestiniam laikotarpiui iki lapkričio 15 dienos pateikia teritorinei valstybinei mokesčių inspekcijai, kurioje mokesčio mokėtojas yra registruotas, cukraus gamybos mokesčio galutinio mokėjimo deklaraciją.
+9 straipsnis. Mokesčio deklaravimo ir mokėjimo kontrolė
 
-5. Iki kiekvieno mokestinio laikotarpio gegužės 25 dienos cukraus gamintojai sumoka cukraus gamybos mokestį, apskaičiuotą išankstinio mokėjimo deklaracijoje, nurodytoje šio straipsnio 3 dalyje.
+Mokesčio deklaravimą ir sumokėjimą kontroliuoja Valstybinė mokesčių inspekcija prie Finansų ministerijos.
 
-6. Šio straipsnio 4 dalyje nurodytoje galutinio mokėjimo deklaracijoje apskaičiuotas cukraus gamybos mokestis sumokamas pasibaigus mokestiniam laikotarpiui iki lapkričio 25 dienos.
+10 straipsnis. Informacijos teikimas
 
-7. Iki einamųjų metų lapkričio 1 dienos Žemės ūkio ministerija paskirsto papildomą cukraus gamybos mokestį, kurį cukraus gamintojai turi sumokėti už pasibaigusius mokestinius metus.
+Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija nustato informacijos apie kvotinio baltojo cukraus gamybą ir kvotinės izogliukozės gamybą bei informacijos apie gamybos mokesčio sumokėjimą teikimo suinteresuotoms institucijoms tvarką ir terminus.
 
-8. Papildomas cukraus gamybos mokestis apskaičiuojamas už visą per mokestinį laikotarpį pagamintą kvotinį baltąjį cukrų.
+11 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
-9. Papildomo cukraus gamybos mokesčio mokėtojai pasibaigus mokestiniam laikotarpiui iki lapkričio 15 dienos pateikia teritorinei valstybinei mokesčių inspekcijai, kurioje mokesčio mokėtojas yra registruotas, papildomo cukraus gamybos mokesčio deklaraciją.
+1. Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
 
-10. Papildomas cukraus gamybos mokestis sumokamas pasibaigus mokestiniam laikotarpiui iki lapkričio 25 dienos.
-
-11. Cukraus gamybos mokesčio ir papildomo cukraus gamybos mokesčio deklaracijų formas ir jų užpildymo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos.
-
-12. Cukraus gamybos mokestis ir papildomas cukraus gamybos mokestis sumokamas į teritorinės valstybinės mokesčių inspekcijos, kuriai buvo pateikta cukraus gamybos mokesčio deklaracija, sąskaitą.
-
-7 straipsnis. Mokesčių įskaitymas, grąžinimas ir išieškojimas
-
-1. Cukraus gamybos mokestis ir papildomas cukraus gamybos mokestis mokami į valstybės biudžetą.
-
-2. Cukraus gamybos mokestis ir papildomas cukraus gamybos mokestis grąžinami, išieškomi ir įskaitomi Mokesčių administravimo įstatymo nustatyta tvarka.
-
-8 straipsnis. Mokesčių apskaičiavimo ir mokėjimo kontrolė
-
-1. Lietuvos Respublikos cukraus gamintojus, įskaitant ir mokesčio apskaičiavimą, kontroliuoja Žemės ūkio ministerija ar jos įgaliota institucija.
-
-2. Cukraus gamybos mokesčio ir papildomo cukraus gamybos mokesčio mokėjimą kontroliuoja Valstybinė mokesčių inspekcija prie Finansų ministerijos.
-
-9 straipsnis. Informacijos teikimas
-
-1. Cukraus gamintojai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais teikia informaciją suinteresuotoms institucijoms.
-
-2. Informaciją Europos Komisijai, vadovaudamasi Komisijos reglamentu, teikia Žemės ūkio ministerija ar jos įgaliota institucija.
-
-10 straipsnis. Atsakomybė už šio Įstatymo pažeidimą
-
-1. Asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
-
-2. Mokesčių mokėtojams, pažeidusiems šio Įstatymo reikalavimus, baudos skiriamos ir delspinigiai skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.
-
-11 straipsnis. Baigiamosios nuostatos
-
-1. Įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos. Cukraus gamybos mokestis ir papildomas cukraus gamybos mokestis skaičiuojami ir mokami nuo pirmojo mokestinio laikotarpio pradžios.
-
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija parengia ir iki 2004 m. vasario 1 d. patvirtina teisės aktus, reikalingus šiam Įstatymui įgyvendinti.
+2. Mokesčių mokėtojams, pažeidusiems šio įstatymo reikalavimus, baudos skiriamos ir delspinigiai skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
 
-Lietuvos Respublikos
+Lietuvos Respublikos gamybos mokesčio
 
-2003 m. spalio 14 d.
-
-įstatymo Nr. IX-1762
+cukraus sektoriuje įstatymo
 
 priedas
 
-Lietuvos Respublikos kvotinio cukraus gamybos ir papildomo cukraus gamybos mokesčių įstatymas yra suderintas su:
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1) 2000 m. gegužės 22 d. Tarybos reglamentu Nr. 1150/2000 (EB, Euratomas), įgyvendinančiu sprendimą 94/728 (EB, Euratomas) dėl Bendrijos nuosavųjų išteklių sistemos;
-
-2) 2000 m. rugsėjo 29 d. Tarybos sprendimu 2000/597 (EB, Euratomas) dėl Europos Bendrijų nuosavųjų išteklių sistemos;
-
-3) 2001 m. birželio 19 d. Tarybos reglamentu (EB) Nr. 1260/2001 dėl bendro cukraus sektoriaus rinkų organizavimo;
-
-4) 2002 m. vasario 20 d. Komisijos reglamentu (EB) Nr. 314/ 2002, nustatančiu išsamias kvotų sistemos taikymo cukraus sektoriuje taisykles, su paskutiniais pakeitimais, padarytais 2003 m. birželio 27 d. Komisijos reglamentu (EB) Nr. 1140/2003.
-
-______________
+2006 m. vasario 20 d. Tarybos reglamentas (EB) Nr. 318/2006 dėl bendro cukraus sektoriaus rinkų organizavimo (OL 2006 L 58, p. 1), su paskutiniais pakeitimais, padarytais 2006 m. spalio 24 d. Komisijos reglamentu (EB) Nr. 1585/2006 (OL 2006 L 294, p. 19).
 
 Pakeitimai:
 
@@ -160,4 +126,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-502, 2006-01-20, Žin., 2006, Nr. 17-598 (2006-02-11), i. k. 1061010ISTA000X-502
 
 Lietuvos Respublikos kvotinio cukraus gamybos mokesčio ir papildomo cukraus gamybos mokesčio įstatymo 2 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1087, 2007-04-12, Žin., 2007, Nr. 46-1721 (2007-04-26), i. k. 1071010ISTA00X-1087
+
+Lietuvos Respublikos kvotinio cukraus gamybos mokesčio ir papildomo cukraus gamybos mokesčio įstatymo pakeitimo įstatymas
 
