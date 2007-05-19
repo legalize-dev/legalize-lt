@@ -4,7 +4,7 @@ identifier: "TAR.CF812DA6E814"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-08-23"
-last_updated: "2004-09-10"
+last_updated: "2007-05-19"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ entry_into_force_conditions: "Įstatymo 32 ir 33 straipsniai įsigalioja 2004-09
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
+
+Suvestinė redakcija nuo 2007-05-19 iki 2008-06-20
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
 
 LIETUVOS RESPUBLIKOS
 
@@ -355,7 +359,11 @@ Politinės partijos turi teisę verstis leidybos, spaudos ir atributikos platini
 
 6) kitoms šiame įstatyme nustatytoms išlaidoms apmokėti.
 
-6. Politinės kampanijos finansavimo išlaidomis taip pat pripažįstamos išlaidos, skirtos šio straipsnio 5 dalyje nurodytai paskirčiai, patirtos ne politinės kampanijos laikotarpiu, jeigu toje dalyje nurodyti daiktai ir kitas turtas skirti naudoti ar jeigu paslaugos gautos politinės kampanijos laikotarpiu. Šiuo atveju politinės kampanijos dalyviai privalo apie tai pranešti Vyriausiajai rinkimų komisijai, o ši turėtas išlaidas įvertina Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+6. Politinės kampanijos finansavimo išlaidomis taip pat pripažįstamos išlaidos, skirtos šio straipsnio 5 dalyje nurodytai paskirčiai, patirtos ne politinės kampanijos laikotarpiu, jeigu toje dalyje nurodyti daiktai ir kitas turtas skirti naudoti ar jeigu paslaugos gautos politinės kampanijos laikotarpiu. Šiuo atveju politinės kampanijos dalyviai privalo apie tai pranešti Vyriausiajai rinkimų komisijai, kartu pateikdami išlaidas pateisinančių dokumentų kopijas. Prireikus Vyriausioji rinkimų komisija gali pareikalauti papildomos informacijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1114, 2007-05-10, Žin., 2007, Nr. 55-2128 (2007-05-19), i. k. 1071010ISTA00X-1114
 
 7. Kiekvieno politinės kampanijos dalyvio šio straipsnio 5 ir 6 dalyse nurodytų išlaidų dydis negali viršyti šio straipsnio 3 ar 4 dalyse nustatytų maksimalių išlaidų dydžių.
 
@@ -623,43 +631,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
-101 straipsnis. Mažos aukos
+Pakeitimai:
 
-1. Maža auka laikoma piniginė fizinio asmens auka (aukų suma), per politinę kampaniją paaukota vienam savarankiškam politinės kampanijos dalyviui ir neviršijanti 40 litų.
+1.
 
-2. Mažas aukas savarankiškiems politinės kampanijos dalyviams galima aukoti telefonu, internetu, banko pavedimu ir kitomis priemonėmis, leidžiančiomis politinės kampanijos finansavimo kontrolę vykdančioms institucijoms nustatyti aukotoją.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Telefonu mažas aukas aukoti turi teisę tik paslaugų teikimo sutartį su telekomunikacijų bendrove sudarę fiziniai asmenys.
+Nr. X-1114, 2007-05-10, Žin., 2007, Nr. 55-2128 (2007-05-19), i. k. 1071010ISTA00X-1114
 
-4. Savarankiškas politinės kampanijos dalyvis teisę rinkti aukas telefonu įgyja nuo sutarties su viena jo pasirinkta telekomunikacijų bendrove sudarymo momento. Šioje sutartyje turi būti nurodyta:
-
-1) telefono numeris, kuriuo asmuo gali paskambinti ir suteikti mažą auką šią sutartį sudariusiam savarankiškam politinės kampanijos dalyviui;
-
-2) paslaugos teikimo terminas, ne ilgesnis kaip iki rinkimų (referendumo) agitacijos kampanijos etapo pabaigos;
-
-3) paslaugos kaina;
-
-4) paslaugos teikėjo pareiga politinės kampanijos finansavimo kontrolę vykdančių institucijų reikalavimu nedelsiant pateikti aukotojų sąrašą su aukotojus nustatyti leidžiančiais duomenimis;
-
-5) paslaugos teikėjo įsipareigojimas, kad savarankiškam politinės kampanijos dalyviui pervedama vieno fizinio asmens auka (aukų suma) neviršytų 40 litų.
-
-5. Šio straipsnio 4 dalyje nurodytos sutarties nuorašas sudarius sutartį nedelsiant perduodamas Vyriausiajai rinkimų komisijai, kuri sutarties tekstą ne vėliau kaip kitą darbo dieną paskelbia savo interneto svetainėje.
-
-6. Telekomunikacijų bendrovė šio straipsnio 4 dalyje numatytos sutarties pagrindu surinktas ir šio įstatymo reikalavimus atitinkančias aukas ne vėliau kaip iki rinkimų (referendumo) agitacijos kampanijos pabaigos privalo pervesti į šią sutartį sudariusio savarankiško politinės kampanijos dalyvio politinės kampanijos sąskaitą.
-
-7. Asmeniui, šio įstatymo nustatyta tvarka praradus savarankiško politinės kampanijos dalyvio statusą, šio straipsnio 4 dalyje numatyta sutartis pasibaigia nuo Vyriausiosios rinkimų komisijos sprendimo dėl savarankiško politinės kampanijos dalyvio statuso praradimo įsigaliojimo momento. Iki sprendimo įsigaliojimo momento surinktos, tačiau savarankiškam politinės kampanijos dalyviui nepervestos aukos grąžinamos aukotojams.
-
-8. Šio straipsnio 4 dalyje numatytos sutarties pagrindu surinktos ir savarankiškam politinės kampanijos dalyviui pervestos aukos nelaikomos savarankiško politinės kampanijos dalyvio finansavimu per trečiuosius asmenis.
-
-9. Telekomunikacijų bendrovė visiems savarankiškiems politinės kampanijos dalyviams šio straipsnio 4 dalyje numatytą paslaugą teikia vienodomis sąlygomis. Šio straipsnio 4 dalyje numatytos paslaugos teikimas neatlygintinai laikomas nepinigine auka ir yra draudžiamas.
-
-10. Šiame straipsnyje numatytomis mažomis aukomis savarankiškas politinės kampanijos dalyvis gali finansuoti ne daugiau kaip 10 procentų nustatyto didžiausio leistino politinės kampanijos išlaidų dydžio.
-
-11. Politinės kampanijos finansavimo apskaitos žiniaraštyje nurodoma ir Vyriausiosios rinkimų komisijos interneto svetainėje skelbiama savarankiško politinės kampanijos dalyvio gauta mažų aukų suma, neišskiriant aukotojų.
-
-12. Politinės kampanijos dalyvis, šiame straipsnyje nustatyta tvarka gavęs aukų, viršijančių šio straipsnio 10 dalyje nustatytą limitą, privalo jas pervesti į valstybės biudžetą iki politinės kampanijos finansavimo ataskaitos pateikimo Vyriausiajai rinkimų komisijai dienos.
-
-Papildyta straipsniu:
-
-Nr. XI-2099, 2012-06-21, Žin., 2012, Nr. 78-4021 (2012-07-04), i. k. 1121010ISTA0XI-2099
+Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo 16 straipsnio pakeitimo įstatymas
 
