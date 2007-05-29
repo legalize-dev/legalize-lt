@@ -4,7 +4,7 @@ identifier: "TAR.B101247E0E6C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-05"
-last_updated: "2007-01-18"
+last_updated: "2007-05-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B101247E0E6C"
 department: "Lietuvos Respublikos Seimas"
@@ -275,9 +275,9 @@ pirmųjų tarnybinių rangų suteikimo.
 
 pareigūnų atestavimo teisinius pagrindus, periodiškumą ir tvarką bei
 
-Atestacijos komisijos veiklą reglamentuoja generalinio direktoriaus įsakymu patvirtinti
+Atestacijos komisijos veiklą reglamentuoja generalinio direktoriaus įsakymu
 
-Atestacijos nuostatai.
+patvirtinti Atestacijos nuostatai.
 
 7 straipsnis.
 
@@ -451,11 +451,11 @@ Saugumo pareigūnų veiklos apribojimai
 
 pareigūnams draudžiama:
 
-1) būti politinių partijų,
+1) būti politinių
 
-politinių organizacijų nariais, rėmėjais ar dalyvauti jų veikloje, taip pat
+partijų, politinių organizacijų nariais, rėmėjais ar dalyvauti jų veikloje,
 
-dalyvauti bet kokioje kitoje politinėje veikloje;
+taip pat dalyvauti bet kokioje kitoje politinėje veikloje;
 
 2) būti įmonės,
 
@@ -533,17 +533,17 @@ patvirtintas programas saugumo pareigūnams Saugumo departamento Mokymo centre
 
 organizuojami kvalifikacijos kėlimo kursai.
 
-3. Saugumo
+3. Saugumo departamentas
 
-departamentas gali sudaryti su saugumo pareigūnu sutartį dėl apmokėjimo už jo
+gali sudaryti su saugumo pareigūnu sutartį dėl apmokėjimo už jo mokslą sąlygų.
 
-mokslą sąlygų. Saugumo pareigūnas, nevykdęs sutarties, neišdirbęs sutartyje
+Saugumo pareigūnas, nevykdęs sutarties, neišdirbęs sutartyje numatyto laiko ar
 
-numatyto laiko ar nesibaigus sutarties terminui atsistatydinęs iš valstybės
+nesibaigus sutarties terminui atsistatydinęs iš valstybės tarnybos arba
 
-tarnybos arba atleistas dėl savo kaltės, privalo atlyginti Saugumo
+atleistas dėl savo kaltės, privalo atlyginti Saugumo departamentui su jo mokymu
 
-departamentui su jo mokymu susijusias išlaidas.
+susijusias išlaidas.
 
 KETVIRTASIS SKIRSNIS
 
@@ -623,9 +623,9 @@ pareigūno vardą diskredituojančius veiksmus;
 
 3) atleisti iš
 
-valstybės tarnybos už tarnybinį nusižengimą arba praradus pasitikėjimą, jeigu nuo
+valstybės tarnybos už tarnybinį nusižengimą arba praradus pasitikėjimą, jeigu
 
-atleidimo dienos nepraėjo 10 metų;
+nuo atleidimo dienos nepraėjo 10 metų;
 
 4) atsisakę
 
@@ -653,11 +653,11 @@ SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir
 
 prisipažinusiųjų apsaugos įstatymą;
 
-8) kurių tėvai,
+8) kurių tėvai, įtėviai,
 
-įtėviai, broliai, seserys, sutuoktiniai, vaikai, įvaikiai tarnauja saugumo
+broliai, seserys, sutuoktiniai, vaikai, įvaikiai tarnauja saugumo pareigūnais
 
-pareigūnais ir su kuriais būtų tiesioginio pavaldumo ryšys.
+ir su kuriais būtų tiesioginio pavaldumo ryšys.
 
 17 straipsnis.
 
@@ -685,9 +685,9 @@ Bandomasis laikotarpis
 
 tarnybą Saugumo departamente, saugumo pareigūnui nuo skyrimo į pareigas dienos
 
-nustatomas 6 mėnesių bandomasis laikotarpis. Atostogų ir laikino nedarbingumo
+nustatomas 6 mėnesių bandomasis laikotarpis. Atostogų ir laikino nedarbingumo laikas
 
-laikas į bandomąjį laikotarpį neįskaitomas. Respublikos Prezidento skiriamiems
+į bandomąjį laikotarpį neįskaitomas. Respublikos Prezidento skiriamiems
 
 pareigūnams bandomasis laikotarpis nenustatomas.
 
@@ -719,11 +719,9 @@ Skiriamųjų ženklų pavyzdžius tvirtina ir jų išdėstymo tvarką nustato
 
 Vyriausybė.
 
-3. Uniformos
+3. Uniformos išdavimo
 
-išdavimo ir dėvėjimo tvarką nustato Saugumo departamento generalinis
-
-direktorius.
+ir dėvėjimo tvarką nustato Saugumo departamento generalinis direktorius.
 
 4. Saugumo
 
@@ -831,9 +829,7 @@ atlikti ir laikinai nesančio pareigūno pareigas ar papildomas užduotis. Paved
 
 atlikti ir kitas pareigas ar užduotis, saugumo pareigūnui mokamos įstatymų,
 
-reglamentuojančių saugumo pareigūnų darbo apmokėjimo sąlygas, nustatytos
-
-priemokos.
+reglamentuojančių saugumo pareigūnų darbo apmokėjimo sąlygas, nustatytos priemokos.
 
 22 straipsnis.
 
@@ -913,9 +909,9 @@ pratęstas arba baigėsi jo tarnybos pratęsimo terminas;
 
 organizavimo pakeitimų mažinant darbuotojų skaičių;
 
-15) kai įstatymų
+15) kai įstatymų nustatytais
 
-nustatytais atvejais į tarnybą grįžta pirmiau šias pareigas ėjęs pareigūnas;
+atvejais į tarnybą grįžta pirmiau šias pareigas ėjęs pareigūnas;
 
 16) kai jam
 
@@ -943,13 +939,13 @@ jeigu neatvykimas į darbą nesusijęs su kūno sužalojimu, suluošinimu ar kit
 
 sveikatos sutrikimu, atsiradusiu einant tarnybines pareigas.
 
-2. Saugumo
+2. Saugumo pareigūno
 
-pareigūno vardo žeminimas – veika, kuria pareigūnas pažemina Saugumo
+vardo žeminimas – veika, kuria pareigūnas pažemina Saugumo departamento
 
-departamento autoritetą, sudaro neigiamą klaidingą visuomenės nuomonę apie
+autoritetą, sudaro neigiamą klaidingą visuomenės nuomonę apie Saugumo
 
-Saugumo departamentą, jo pareigūnus.
+departamentą, jo pareigūnus.
 
 Straipsnio pakeitimai:
 
@@ -979,11 +975,11 @@ tinkamai atlikti tarnybines pareigas, jis turi būti patenkintas nuo pareigūno
 
 prašyme nurodytos dienos.
 
-3. Saugumo pareigūnas
+3. Saugumo
 
-turi teisę atšaukti prašymą ne vėliau kaip per 3 kalendorines dienas nuo jo
+pareigūnas turi teisę atšaukti prašymą ne vėliau kaip per 3 kalendorines dienas
 
-padavimo dienos, jei nėra priimtas generalinio direktoriaus įsakymas dėl
+nuo jo padavimo dienos, jei nėra priimtas generalinio direktoriaus įsakymas dėl
 
 atleidimo šiuo pagrindu.
 
@@ -991,17 +987,17 @@ atleidimo šiuo pagrindu.
 
 Reikalavimai atleidžiant iš tarnybos
 
-1. Negalima atleisti
+1. Negalima
 
-saugumo pareigūno iš tarnybos jo laikinojo nedarbingumo laikotarpiu ar atostogų
+atleisti saugumo pareigūno iš tarnybos jo laikinojo nedarbingumo laikotarpiu ar
 
-metu, išskyrus atleidimą pagal šio Statuto 22 straipsnio 1 dalies 1, 2,
+atostogų metu, išskyrus atleidimą pagal šio Statuto 22 straipsnio 1
 
-6, 8, 16, 18 punktus. Jei saugumo pareigūnas atleistas iš tarnybos pažeidžiant
+dalies 1, 2, 6, 8, 16, 18 punktus. Jei saugumo pareigūnas atleistas iš tarnybos
 
-šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar kita po laikinojo
+pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar kita
 
-nedarbingumo pasibaigimo tarnybos diena.
+po laikinojo nedarbingumo pasibaigimo tarnybos diena.
 
 2. Negalima
 
@@ -1015,11 +1011,11 @@ pareigūną iš tarnybos pagal šio Statuto 22 straipsnio 1 dalies 14 punktą ga
 
 tik įspėjus jį raštu prieš 2 mėnesius. Nėščiai moteriai (kai Saugumo
 
-departamentas ar specialios paskirties įstaiga likviduojama), moteriai ar vyrui,
+departamentas ar specialios paskirties įstaiga likviduojama), moteriai ar
 
-vieniems auginantiems vaiką (vaikus) iki 14 metų, asmeniui, kuriam iki teisės
+vyrui, vieniems auginantiems vaiką (vaikus) iki 14 metų, asmeniui, kuriam iki
 
-gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, apie numatomą
+teisės gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, apie numatomą
 
 atleidimą iš tarnybos turi būti pranešama raštu prieš 4 mėnesius. Jei saugumo
 
@@ -1055,9 +1051,7 @@ nustatyta tvarka privalo ne vėliau kaip atleidimo dieną grąžinti tarnybinį
 
 ginklą, specialiąsias priemones, tarnybinį pažymėjimą, tarnybinį ženklą,
 
-dokumentus bei kitas darbo priemones, kurias jis gavo eidamas tarnybines
-
-pareigas.
+dokumentus bei kitas darbo priemones, kurias jis gavo eidamas tarnybines pareigas.
 
 26 straipsnis.
 
@@ -1187,27 +1181,27 @@ tarnybinis rangas, ne aukštesnis kaip saugumo vyresniojo konsultanto,
 
 suteikiamas vyresniesiems inspektoriams, vyresniesiems specialistams;
 
-5) pirmasis tarnybinis
+5) pirmasis
 
-rangas, ne aukštesnis kaip saugumo III rango patarėjo, suteikiamas poskyrių
+tarnybinis rangas, ne aukštesnis kaip saugumo III rango patarėjo, suteikiamas
 
-viršininkams ir jų pavaduotojams, specialios paskirties įstaigų skyrių
+poskyrių viršininkams ir jų pavaduotojams, specialios paskirties įstaigų skyrių
 
 viršininkams ir jų pavaduotojams, poskyrių viršininkams, vyriausiesiems
 
 specialistams;
 
-6) pirmasis tarnybinis
+6) pirmasis
 
-rangas, ne aukštesnis kaip saugumo II rango patarėjo, suteikiamas centrinio
+tarnybinis rangas, ne aukštesnis kaip saugumo II rango patarėjo, suteikiamas
 
-aparato savarankiškų skyrių viršininkams ir jų pavaduotojams, valdybų skyrių ir
+centrinio aparato savarankiškų skyrių viršininkams ir jų pavaduotojams, valdybų
 
-teritorinių įstaigų viršininkams ir jų pavaduotojams, specialios paskirties
+skyrių ir teritorinių įstaigų viršininkams ir jų pavaduotojams, specialios
 
-įstaigų valdybų viršininkams ir jų pavaduotojams, skyrių viršininkams ir jų
+paskirties įstaigų valdybų viršininkams ir jų pavaduotojams, skyrių
 
-pavaduotojams;
+viršininkams ir jų pavaduotojams;
 
 7) pirmasis
 
@@ -1291,11 +1285,11 @@ konsultanto tarnybinis rangas – saugumo jaunesniesiems konsultantams,
 
 ištarnavusiems jais ne mažiau kaip 2 metus;
 
-7) saugumo
+7) saugumo jaunesniojo
 
-jaunesniojo konsultanto tarnybinis rangas – saugumo instruktoriams,
+konsultanto tarnybinis rangas – saugumo instruktoriams, ištarnavusiems jais ne
 
-ištarnavusiems jais ne mažiau kaip 2 metus.
+mažiau kaip 2 metus.
 
 7. Iki šio Statuto
 
@@ -1635,13 +1629,33 @@ traukiamas baudžiamojon atsakomybėn – visą baudžiamosios bylos tyrimo ir
 
 nagrinėjimo laikotarpį.
 
-2. Saugumo
+*2. Saugumo
 
-pareigūnas gali būti nušalinamas nuo pareigų, jeigu jis įtariamas padaręs
+pareigūnas gali būti nušalintas nuo pareigų, jeigu jis įtariamas padaręs
 
-drausminį nusižengimą – kol bus atliktas tarnybinis tyrimas ir priimtas
+drausminį nusižengimą, – kol bus atliktas tarnybinis tyrimas ir priimtas
 
-sprendimas dėl drausminės nuobaudos skyrimo ar jo tolesnės tarnybos.
+sprendimas dėl drausminės nuobaudos skyrimo ar jo tolesnės tarnybos, tačiau ne
+
+ilgiau kaip 3 mėnesiams. Į šį terminą
+
+neįskaitomas pareigūno ligos ar atostogų laikas.
+
+*Pastaba. Jei nušalinimo terminas iki šio
+
+įstatymo (Nr. X-1146) įsigaliojimo truko daugiau nei 3
+
+mėnesius, sprendimas dėl saugumo pareigūno atleidimo arba grąžinimo į tarnybą
+
+turi būti priimtas per 15 darbo dienų nuo šio įstatymo įsigaliojimo.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. X-1146,
+
+2007-05-17, Žin., 2007, Nr. 59-2284 (2007-05-29)
 
 38 straipsnis.
 
@@ -1693,21 +1707,19 @@ pareigūnas turi teisę panaudoti prievartą, kai ji yra būtina užkertant keli
 
 teisės pažeidimams, sulaikyti pažeidimus padariusius asmenis ir kitais
 
-atvejais, saugant bei ginant asmens, visuomenės, valstybės interesus.
+atvejais, saugant bei ginant asmens, visuomenės, valstybės interesus. Prievarta,
 
-Prievarta, galinti sukelti kūno sužalojimus ar mirtį, gali būti naudojama tik
+galinti sukelti kūno sužalojimus ar mirtį, gali būti naudojama tik tiek, kiek
 
-tiek, kiek to reikia tarnybinei pareigai įvykdyti, ir tik po to, kai visos
+to reikia tarnybinei pareigai įvykdyti, ir tik po to, kai visos įmanomos
 
-įmanomos įtikinimo ar kitos priemonės nebuvo veiksmingos. Prievartos rūšį ir
+įtikinimo ar kitos priemonės nebuvo veiksmingos. Prievartos rūšį ir jos
 
-jos panaudojimo ribas pasirenka pareigūnas, atsižvelgdamas į konkrečią
+panaudojimo ribas pasirenka pareigūnas, atsižvelgdamas į konkrečią situaciją,
 
-situaciją, teisės pažeidimo pobūdį bei individualias pažeidėjo savybes.
+teisės pažeidimo pobūdį bei individualias pažeidėjo savybes. Naudodami
 
-Naudodami prievartą, saugumo pareigūnai privalo stengtis išvengti sunkių
-
-pasekmių.
+prievartą, saugumo pareigūnai privalo stengtis išvengti sunkių pasekmių.
 
 2. Saugumo
 
@@ -1719,13 +1731,13 @@ gali panaudoti psichinę ar fizinę prievartą, šaunamąjį ginklą.
 
 prievarta Statute suprantama kaip įspėjimas apie ketinimą nedelsiant panaudoti
 
-fizinę prievartą ar šaunamąjį ginklą. Psichinei prievartai prilyginamas
+fizinę prievartą ar šaunamąjį ginklą. Psichinei prievartai prilyginamas šaunamojo
 
-šaunamojo ginklo demonstravimas bei įspėjamieji šūviai, tačiau šias psichinės
+ginklo demonstravimas bei įspėjamieji šūviai, tačiau šias psichinės prievartos
 
-prievartos priemones galima naudoti tik esant Statuto 41 straipsnio 2 dalyje
+priemones galima naudoti tik esant Statuto 41 straipsnio 2 dalyje išvardytoms
 
-išvardytoms sąlygoms.
+sąlygoms.
 
 4. Fizinė prievarta
 
@@ -1875,13 +1887,13 @@ kėsinimosi, taip pat išlaisvindamas pagrobtus ar paimtus įkaitais asmenis;
 
 2) persekiodamas ar
 
-sulaikydamas nusikaltimą padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo,
+sulaikydamas nusikaltimą padariusį asmenį, kuris aktyviais veiksmais vengia
 
-jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai asmuo atsisako
+sulaikymo, jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai
 
-įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima
+asmuo atsisako įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą,
 
-sužaloti žmogų, jeigu kitaip jo neįmanoma nuginkluoti;
+kuriuo galima sužaloti žmogų, jeigu kitaip jo neįmanoma nuginkluoti;
 
 3) kai kėsinamasi į
 
@@ -2123,9 +2135,9 @@ apskaičiuotas vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam su
 
 vieni metai, atostogų laikotarpiu – 70 procentų šia tvarka apskaičiuoto
 
-vidutinio jų darbo užmokesčio. Nuo 2007 m. sausio 1 d. vaiko priežiūros, kol
+vidutinio jų darbo užmokesčio. Nuo 2007 m. sausio 1 d. vaiko priežiūros, kol jam
 
-jam sueis vieni metai, atostogų laikotarpiu saugumo pareigūnams mokama 85 procentai
+sueis vieni metai, atostogų laikotarpiu saugumo pareigūnams mokama 85 procentai
 
 Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų darbo užmokesčio, nuo
 
@@ -2275,9 +2287,9 @@ vidutinio darbo užmokesčio dydžio išeitinė išmoka.
 
 22 straipsnio 1 dalies 6, 13, 14 ir 18 punktuose nurodytais pagrindais
 
-atleistiems saugumo pareigūnams šio straipsnio 1 dalyje numatyta išeitinė išmoka
+atleistiems saugumo pareigūnams šio straipsnio 1 dalyje numatyta išeitinė
 
-didinama tokia tvarka: turintiems daugiau kaip 5 metų tarnybos Saugumo
+išmoka didinama tokia tvarka: turintiems daugiau kaip 5 metų tarnybos Saugumo
 
 departamente stažą – pusantro karto, turintiems daugiau kaip 10 metų – du
 
@@ -2291,9 +2303,9 @@ pareigūnams šio straipsnio 1 ir 2 dalyse nustatyta išeitinė išmoka pradedam
 
 mokėti praėjus mėnesiui nuo pareigūno atleidimo dienos ir mokama kas mėnesį
 
-lygiomis dalimis. Jos mokėjimas nutraukiamas, jei asmuo įsidarbina kitur. Kitais
+lygiomis dalimis. Jos mokėjimas nutraukiamas, jei asmuo įsidarbina kitur.
 
-atvejais išeitinė išmoka mokama atleidimo iš pareigų dieną.
+Kitais atvejais išeitinė išmoka mokama atleidimo iš pareigų dieną.
 
 47 straipsnis.
 
@@ -2327,13 +2339,13 @@ tarnauja iki Respublikos Prezidento dekreto dėl jų atleidimo iš pareigų
 
 įsigaliojimo, bet ne ilgiau negu iki šio straipsnio 1 dalyje nustatyto amžiaus.
 
-4. Saugumo
+4. Saugumo pareigūno
 
-pareigūno prašymu jo tarnybos laikas Saugumo departamento generalinio
+prašymu jo tarnybos laikas Saugumo departamento generalinio direktoriaus
 
-direktoriaus įsakymu gali būti pratęstas nurodant tarnybos pratęsimo terminą,
+įsakymu gali būti pratęstas nurodant tarnybos pratęsimo terminą, bet ne ilgiau,
 
-bet ne ilgiau, negu kol pareigūnui sukanka 62 metai ir 6 mėnesiai.
+negu kol pareigūnui sukanka 62 metai ir 6 mėnesiai.
 
 48 straipsnis.
 
@@ -2359,15 +2371,15 @@ patalpas) nuomos išlaidos: mokama 3 minimaliųjų gyvenimo lygių išmoka.
 
 Kitos garantijos
 
-Saugumo
+Saugumo pareigūnams,
 
-pareigūnams, kurių materialinė būklė sunki dėl ligos, šeimos nario ligos ar
+kurių materialinė būklė sunki dėl ligos, šeimos nario ligos ar mirties,
 
-mirties, stichinės nelaimės, turto netekimo, taip pat kitais ypatingais
+stichinės nelaimės, turto netekimo, taip pat kitais ypatingais atvejais gali
 
-atvejais gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio pašalpa.
+būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio pašalpa. Pašalpa mokama
 
-Pašalpa mokama iš Saugumo departamentui darbo užmokesčiui skirtų lėšų.
+iš Saugumo departamentui darbo užmokesčiui skirtų lėšų.
 
 ___________________
 
@@ -2475,13 +2487,37 @@ VALSTYBĖS
 
 SAUGUMO DEPARTAMENTO STATUTO 22 IR 42 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1146,
+
+2007-05-17, Žin., 2007, Nr. 59-2284 (2007-05-29)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO STATUTO 37 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Jei nušalinimo terminas iki šio
+
+įstatymo įsigaliojimo truko daugiau nei 3 mėnesius, sprendimas dėl saugumo
+
+pareigūno atleidimo arba grąžinimo į tarnybą turi būti priimtas per 15 darbo
+
+dienų nuo šio įstatymo įsigaliojimo.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2007-01-23)
+Aušrinė Trapinskienė (2007-05-29)
 
 autrap@lrs.lt
 
