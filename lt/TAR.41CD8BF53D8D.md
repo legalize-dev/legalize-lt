@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2006-11-28"
+last_updated: "2007-06-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -86,9 +86,9 @@ Nr. IX-435, 2001-07-10, Žin., 2001, Nr.
 
 62-2233 (2001-07-18)
 
-Nr. IX-2139,
+Nr. IX-2139, 2004-04-15,
 
-2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+Žin., 2004, Nr. 61-2188 (2004-04-27)
 
 II SKYRIUS
 
@@ -106,9 +106,13 @@ rinkliava imama už:
 
 būklės aktų registravimą civilinės metrikacijos įstaigose, įrašų civilinės
 
-būklės aktuose pakeitimą bei papildymą ir dokumentų, patvirtinančių įrašą civilinės
+būklės aktuose pakeitimą bei papildymą ir dokumentų, patvirtinančių įrašą
 
-būklės akte, išdavimą;
+civilinės būklės akte, išdavimą;
+
+1 dalies 2
+
+punkto redakcija iki 2007 m. liepos 1 d.:
 
 2) dokumentų
 
@@ -119,6 +123,18 @@ dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Resp
 bei gyvenimo joje, dėl užsieniečių įdarbinimo, taip pat dokumentą,
 
 patvirtinantį asmens gyvenamąją vietą;
+
+1 dalies 2
+
+punkto redakcija nuo 2007 m. liepos 1 d.:
+
+2) dokumentų
+
+išduoti leidimą gyventi Lietuvos Respublikoje tvarkymą ir išduodamus
+
+dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
+
+bei gyvenimo joje, dėl užsieniečių įdarbinimo;
 
 3) licencijos
 
@@ -151,6 +167,12 @@ Nr. X-359, 2005-09-29,
 Nr. X-925, 2006-11-28,
 
 Žin., 2006, Nr. 137-5200 (2006-12-16)
+
+Nr.
+
+X-1155,
+
+2007-05-24, Žin., 2007, Nr. 61-2343 (2007-06-02)
 
 5
 
@@ -222,6 +244,10 @@ registruojant aktus okupacijų metais;
 
 reikalų ministerija už jai išduodamus metrikacijos liudijimų dublikatus.
 
+2 dalies
+
+redakcija iki 2007 m. liepos 1 d.:
+
 2. Už išduodamus
 
 dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
@@ -244,7 +270,9 @@ asmenys, kuriems nustatytas 0–40 procentų darbingumo lygis, ar senatvės
 
 pensijos amžių sukakę asmenys, kuriems teisės aktų nustatyta tvarka nustatytas
 
-didelių ar vidutinių specialiųjų poreikių lygis (iki 2007 m. birželio 30 d. – ir I bei II grupių invalidai), asmenys iki 18 metų, kuriems nustatytas
+didelių ar vidutinių specialiųjų poreikių lygis (iki 2007 m. birželio 30 d. –
+
+ir I bei II grupių invalidai), asmenys iki 18 metų, kuriems nustatytas
 
 neįgalumo lygis (iki 2007 m. birželio 30 d. – ir invalidumo lygis), – už asmens
 
@@ -268,9 +296,121 @@ dokumento ir užsieniečio paso išdavimą, už vizų išdavimą ir turimos vizo
 
 galiojimo laiko pratęsimą, už dokumentų išduoti
 
-leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje
+leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos
+
+Respublikoje išdavimą;
+
+4) užsieniečiai,
+
+kuriems suteiktas prieglobstis Lietuvos Respublikoje, už pirmojo leidimo
+
+gyventi Lietuvos Respublikoje išdavimą;
+
+5) užsienio valstybių piliečiai, vykstantys į Lietuvos Respubliką dalyvauti
+
+Respublikos Prezidento, Seimo, Vyriausybės, ministerijų, kitų valstybės ar
+
+vietos savivaldos institucijų, įstaigų ar tarnybų organizuojamuose oficialiuose
+
+susitikimuose, labdaros bei organizuotos pagalbos Lietuvai tikslais arba su
+
+Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų, kurių narė yra
+
+Lietuvos Respublika, atstovai bei nurodytų asmenų šeimos nariai (sutuoktiniai,
+
+vaikai (įvaikiai) iki 21 metų, kurie gyvena kartu su tėvais ir nėra sudarę
+
+santuokos) – už dokumentų, suteikiančių teisę atvykti į Lietuvos Respubliką,
 
 išdavimą;
+
+6) lietuvių
+
+kilmės asmenys, pateikę krašto lietuvių bendruomenių arba Lietuvos Respublikos
+
+diplomatinių atstovybių ar konsulinių įstaigų užsienio valstybėse pareigūnų
+
+išduotus Lietuvos Respublikos užsienio reikalų ministerijos patvirtintos formos
+
+pažymėjimus, – už vizų išdavimą ir pratęsimą;
+
+7) sunkiai
+
+sergantys užsieniečiai arba užsieniečiai, kuriems reikalinga skubi medicinos
+
+pagalba, kai pateikiami dokumentai, išduoti atitinkamos organizacijos ir
+
+patvirtinantys būtinumą nurodytiems asmenims būti Lietuvos Respublikos
+
+teritorijoje, taip pat šiuos asmenis lydintieji, kai pateikiamas dokumentas,
+
+patvirtinantis tokio lydėjimo būtinumą, – už vizų išdavimą ir pratęsimą;
+
+8) užsieniečiai,
+
+vykstantys į šeimos nario (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų)
+
+laidotuves, kai pateikiama nustatyta tvarka patvirtinta telegrama, – už vizų
+
+išdavimą pasienio kontrolės punktuose;
+
+9) užsieniečiai,
+
+vykstantys dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias, aukštesniąsias,
+
+profesines ir bendrojo lavinimo mokyklas, – už vizų išdavimą ir pratęsimą.
+
+2 dalies
+
+redakcija nuo 2007 m. liepos 1 d.:
+
+2. Už išduodamus
+
+dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
+
+bei gyvenimo joje, užsieniečių įdarbinimo ir kitas suteiktas paslaugas nuo
+
+valstybės rinkliavos atleidžiami:
+
+1) asmenys,
+
+turintys teisę gauti piniginę socialinę paramą įstatymų nustatyta tvarka,
+
+vaikai, kuriems nustatyta globa ir rūpyba, valstybės išlaikomi stacionariose
+
+globos įstaigose asmenys, vieniši asmenys, sukakę senatvės pensijos amžių,
+
+asmenys, kuriems nustatytas 0–40 procentų darbingumo lygis, ar senatvės
+
+pensijos amžių sukakę asmenys, kuriems teisės aktų nustatyta tvarka nustatytas
+
+didelių ar vidutinių specialiųjų poreikių lygis (iki 2007 m. birželio 30 d. –
+
+ir I bei II grupių invalidai), asmenys iki 18 metų, kuriems nustatytas
+
+neįgalumo lygis (iki 2007 m. birželio 30 d. – ir invalidumo lygis), – už asmens
+
+tapatybės kortelės ir paso išdavimą bei pakeitimą;
+
+2) politiniai kaliniai, tremtiniai,
+
+rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei
+
+pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės
+
+dokumento bei vizos išdavimą ir pratęsimą;
+
+3) asmenys iki
+
+16 metų – už asmens be pilietybės kelionės dokumento, pabėgėlio kelionės
+
+dokumento ir užsieniečio paso išdavimą, už vizų išdavimą ir turimos vizos
+
+galiojimo laiko pratęsimą, už dokumentų išduoti
+
+leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos
+
+Respublikoje išdavimą;
 
 4) užsieniečiai,
 
@@ -320,11 +460,11 @@ patvirtinantis tokio lydėjimo būtinumą, – už vizų išdavimą ir pratęsim
 
 8) užsieniečiai,
 
-vykstantys į šeimos nario (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų)
+vykstantys į šeimos nario (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų) laidotuves,
 
-laidotuves, kai pateikiama nustatyta tvarka patvirtinta telegrama, – už vizų
+kai pateikiama nustatyta tvarka patvirtinta telegrama, – už vizų išdavimą
 
-išdavimą pasienio kontrolės punktuose;
+pasienio kontrolės punktuose;
 
 9) užsieniečiai,
 
@@ -349,6 +489,12 @@ Nr. X-359, 2005-09-29,
 Nr. X-925, 2006-11-28,
 
 Žin., 2006, Nr. 137-5200 (2006-12-16)
+
+Nr.
+
+X-1155, 2007-05-24,
+
+Žin., 2007, Nr. 61-2343 (2007-06-02)
 
 7
 
@@ -530,13 +676,13 @@ išdavimą;
 
 gyvenamųjų vietovių, turinčių kurorto statusą, viešąja infrastruktūra (viešoji
 
-kurorto infrastruktūra – valstybei ar savivaldybei nuosavybės teise priklausantys
+kurorto infrastruktūra – valstybei ar savivaldybei nuosavybės teise
 
-statiniai, įranga ir bendro naudojimo želdynai, sudarantys visuomenei galimybę
+priklausantys statiniai, įranga ir bendro naudojimo želdynai, sudarantys
 
-naudoti kurorte esančius gamtinius išteklius sveikatinimo, turizmo ir poilsio
+visuomenei galimybę naudoti kurorte esančius gamtinius išteklius sveikatinimo,
 
-reikmėms).
+turizmo ir poilsio reikmėms).
 
 2. Iš vietinės
 
@@ -858,13 +1004,33 @@ RINKLIAVŲ ĮSTATYMO 4 IR 6
 
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1155,
+
+2007-05-24, Žin., 2007, Nr. 61-2343 (2007-06-02)
+
+RINKLIAVŲ
+
+ĮSTATYMO 4 IR 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas, išskyrus 3 straipsnį, įsigalioja nuo 2007 m. liepos 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-12-18)
+Aušrinė Trapinskienė (2007-06-04)
 
 autrap@lrs.lt
 
