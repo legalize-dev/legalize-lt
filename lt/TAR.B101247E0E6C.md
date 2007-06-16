@@ -4,7 +4,7 @@ identifier: "TAR.B101247E0E6C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-05"
-last_updated: "2007-05-29"
+last_updated: "2007-06-16"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B101247E0E6C"
 department: "Lietuvos Respublikos Seimas"
@@ -31,15 +31,17 @@ VALSTYBËS SAUGUMO DEPARTAMENTO STATUTO PATVIRTINIMO
 
 Vilnius
 
-1 straipsnis. Lietuvos Respublikos valstybės saugumo
+1 straipsnis. Lietuvos Respublikos
 
-departamento statuto patvirtinimas
+valstybės saugumo departamento statuto patvirtinimas
 
 Patvirtinti Lietuvos Respublikos
 
 valstybės saugumo departamento statutą (pridedamas).
 
-2 straipsnis. Įstatymo įsigaliojimas
+2 straipsnis. Įstatymo
+
+įsigaliojimas
 
 Šis Įstatymas įsigalioja nuo 2002 m. rugpjūčio 1 d.
 
@@ -1965,7 +1967,9 @@ SAUGUMO PAREIGŪNŲ SOCIALINĖS IR
 
 KITOS GARANTIJOS
 
-42 straipsnis. Saugumo pareigūnų atostogos
+42 straipsnis. Saugumo
+
+pareigūnų atostogos
 
 1. Saugumo pareigūnams kasmetinių atostogų trukmė,
 
@@ -2046,6 +2050,496 @@ X-663,
 Nr. X-1029,
 
 2007-01-18, Žin., 2007, Nr. 8-316 (2007-01-19)
+
+43
+
+straipsnis. Darbo užmokestis
+
+1. Saugumo pareigūnų darbo užmokestį sudaro pareiginė alga,
+
+priedai už tarnybinį rangą, tarnybos stažą, kvalifikacinę kategoriją,
+
+priemokos.
+
+2.
+
+Saugumo pareigūnų priedai už tarnybinį rangą:
+
+1)
+
+saugumo instruktoriui – 15 procentų pareiginės algos bazinio dydžio;
+
+2)
+
+saugumo jaunesniajam konsultantui – 20 procentų pareiginės algos bazinio
+
+dydžio;
+
+3)
+
+saugumo konsultantui – 30 procentų pareiginės algos bazinio dydžio;
+
+4)
+
+saugumo vyresniajam konsultantui – 40 procentų pareiginės algos bazinio dydžio;
+
+5)
+
+saugumo III rango patarėjui – 50 procentų pareiginės algos bazinio dydžio;
+
+6)
+
+saugumo II rango patarėjui – 60 procentų pareiginės algos bazinio dydžio;
+
+7)
+
+saugumo I rango patarėjui – 70 procentų pareiginės algos bazinio dydžio;
+
+8)
+
+saugumo vyresniajam valstybės patarėjui – 80 procentų pareiginės algos bazinio
+
+dydžio;
+
+9) saugumo vyriausiajam valstybės patarėjui – 90 procentų
+
+pareiginės algos bazinio dydžio.
+
+3. Saugumo pareigūnų priedai už kvalifikacinę kategoriją:
+
+1) V kvalifikacinės kategorijos – 10 procentų pareiginės
+
+algos dydžio;
+
+2) IV kvalifikacinės kategorijos – 20 procentų pareiginės
+
+algos dydžio;
+
+3) III kvalifikacinės kategorijos – 30 procentų pareiginės
+
+algos dydžio;
+
+4) II kvalifikacinės kategorijos – 40 procentų pareiginės
+
+algos dydžio;
+
+5) I kvalifikacinės kategorijos – 50 procentų pareiginės
+
+algos dydžio.
+
+4. Saugumo pareigūno pareiginė alga, priedas už tarnybos
+
+stažą bei priemokos mokami Valstybės tarnybos įstatymo nustatyta tvarka.
+
+5. Laikinojo nedarbingumo bei nėštumo ir gimdymo atostogų
+
+laikotarpiu saugumo pareigūnams mokamas Vyriausybės nustatyta tvarka
+
+apskaičiuotas vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam sueis
+
+vieni metai, atostogų laikotarpiu – 70 procentų šia tvarka apskaičiuoto
+
+vidutinio jų darbo užmokesčio. Nuo 2007 m. sausio 1 d. vaiko priežiūros, kol
+
+jam sueis vieni metai, atostogų laikotarpiu saugumo pareigūnams mokama 85
+
+procentai Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų darbo
+
+užmokesčio, nuo 2007 m. liepos 1 d. šios išmokos dydis nuo nėštumo ir gimdymo
+
+atostogų pabaigos, kol vaikui sukaks 6 mėnesiai, yra 100 procentų, o likusį
+
+laiką – 85 procentai Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų
+
+darbo užmokesčio. Saugumo pareigūnams, jeigu gimsta du ir daugiau vaikų, vaiko
+
+priežiūros, kol jam sueis vieni metai, atostogų laikotarpiu mokamas Vyriausybės
+
+nustatyta tvarka apskaičiuotas vidutinis jų darbo užmokestis.
+
+6. Tėvystės atostogų laikotarpiu saugumo pareigūnams
+
+mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų tarnybinis
+
+atlyginimas, jeigu jie gyvena santuokoje su kūdikio motina.
+
+Straipsnio pakeitimai:
+
+Nr. X-122, 2005-02-15,
+
+Žin., 2005, Nr. 28-874 (2005-02-26)
+
+Nr.
+
+X-663,
+
+2006-06-08, Žin., 2006, Nr. 74-2817 (2006-07-03)
+
+Nr.
+
+X-792,
+
+2006-07-19, Žin., 2006, Nr. 87-3403 (2006-08-08)
+
+44
+
+straipsnis. Kompensacijos
+
+1. Saugumo pareigūnui
+
+žuvus dėl tarnybos Saugumo departamente, jo šeimai – nepilnamečiams vaikams
+
+(įvaikiams), kol jiems sukaks 16 metų, taip pat besimokantiems nustatyta tvarka
+
+įregistruotų mokymo įstaigų dieniniuose skyriuose vaikams (įvaikiams), kol
+
+jiems sukaks 24 metai, sutuoktiniui, mirusiojo vaikams, gimusiems po jo
+
+mirties, tėvui ar motinai – bei nedarbingiems asmenims, kurie buvo mirusiojo
+
+išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per 1 metus
+
+nuo pareigūno mirties lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio
+
+dydžio vienkartinė kompensacija.
+
+2. Saugumo
+
+pareigūną pripažinus nežinia kur esančiu ar paskelbus mirusiu, laikoma, kad jis
+
+yra pripažintas nežinia kur esančiu ar paskelbtas žuvusiu dėl tarnybos, jeigu
+
+neįrodyta kitaip, ir jo šeimai bei nedarbingiems asmenims, kurie buvo jo
+
+išlaikomi arba nurodytą dieną turėjo teisę gauti jo išlaikymą, nuo pareigūno
+
+pripažinimo nežinia kur esančiu ar paskelbimo žuvusiu dienos kas mėnesį
+
+lygiomis dalimis mokama jo vidutinio darbo užmokesčio kompensacija, neviršijant
+
+120 mėnesių darbo užmokesčio dydžio sumos.
+
+3. Kai saugumo
+
+pareigūnas, kuris buvo sužeistas eidamas tarnybines pareigas arba dėl tarnybos
+
+Saugumo departamente, pateikia medicinos komisijos išvadą, jam Vyriausybės
+
+nustatyta tvarka išmokama nuo 1 iki 5 metų (nuo 12 iki 60 mėnesių) darbo
+
+užmokesčio dydžio kompensacija.
+
+4. Mokamos šios
+
+kompensacijos:
+
+1) I grupės
+
+invalidams dėl sužeidimo – 60 mėnesių darbo užmokesčio dydžio;
+
+2) II grupės
+
+invalidams dėl sužeidimo – 48 mėnesių darbo užmokesčio dydžio;
+
+3) III grupės
+
+invalidams dėl sužeidimo – 36 mėnesių darbo užmokesčio dydžio;
+
+4) sunkaus
+
+sužeidimo (suluošinimo) atveju – 24 mėnesių darbo užmokesčio dydžio;
+
+5) apysunkio
+
+sužeidimo (suluošinimo) atveju – 18 mėnesių darbo užmokesčio dydžio;
+
+6) lengvo sužeidimo
+
+(suluošinimo) atveju – 12 mėnesių darbo užmokesčio dydžio.
+
+5. Saugumo
+
+pareigūno sužeidimo (suluošinimo) sunkumo laipsnį, taip pat jei dėl sužeidimo
+
+liko sveikatos pakitimų ar sumažėjo jo tinkamumas tarnybai, teisės aktų
+
+nustatyta tvarka nustato įgaliota Lietuvos nacionalinės sveikatos sistemos
+
+asmens sveikatos priežiūros įstaigos medicinos komisija.
+
+45
+
+straipsnis. Sveikatos draudimas
+
+Saugumo pareigūnai
+
+privalomuoju sveikatos draudimu draudžiami valstybės lėšomis.
+
+46
+
+straipsnis. Išmokos atleidžiamiems saugumo pareigūnams
+
+1. Saugumo
+
+pareigūnui atleidžiamam iš tarnybos šio Statuto 22 straipsnio 1 dalies
+
+6, 13, 14, 15 ir 18 punktų nustatytais pagrindais, išmokama 2 mėnesių jo
+
+vidutinio darbo užmokesčio dydžio išeitinė išmoka.
+
+2. Šio Statuto
+
+22 straipsnio 1 dalies 6, 13, 14 ir 18 punktuose nurodytais pagrindais
+
+atleistiems saugumo pareigūnams šio straipsnio 1 dalyje numatyta išeitinė
+
+išmoka didinama tokia tvarka: turintiems daugiau kaip 5 metų tarnybos Saugumo
+
+departamente stažą – pusantro karto, turintiems daugiau kaip 10 metų – du
+
+kartus, daugiau kaip 20 metų – tris kartus.
+
+3. Šio Statuto
+
+22 straipsnio 1 dalies 14 punkte nurodytu pagrindu atleistiems saugumo
+
+pareigūnams šio straipsnio 1 ir 2 dalyse nustatyta išeitinė išmoka pradedama
+
+mokėti praėjus mėnesiui nuo pareigūno atleidimo dienos ir mokama kas mėnesį
+
+lygiomis dalimis. Jos mokėjimas nutraukiamas, jei asmuo įsidarbina kitur.
+
+Kitais atvejais išeitinė išmoka mokama atleidimo iš pareigų dieną.
+
+47
+
+straipsnis. Tarnybos laikas
+
+1. Saugumo
+
+pareigūnai tarnauja Departamente ne ilgiau, negu kol jiems sukanka 62 metai ir
+
+6 mėnesiai.
+
+2. Saugumo
+
+pareigūnai, išskyrus generalinį direktorių ir jo pavaduotojus, Saugumo
+
+departamente tarnauja:
+
+1) iki saugumo I
+
+rango patarėjo įskaitytinai – kol sukanka 50 metų;
+
+2) saugumo
+
+vyresnieji valstybės patarėjai – kol sukanka 55 metai.
+
+3. Saugumo
+
+departamento generalinis direktorius ir jo pavaduotojai Saugumo departamente
+
+tarnauja iki Respublikos Prezidento dekreto dėl jų atleidimo iš pareigų
+
+įsigaliojimo, bet ne ilgiau negu iki šio straipsnio 1 dalyje nustatyto amžiaus.
+
+4. Saugumo
+
+pareigūno prašymu jo tarnybos laikas Saugumo departamento generalinio
+
+direktoriaus įsakymu gali būti pratęstas nurodant tarnybos pratęsimo terminą,
+
+bet ne ilgiau, negu kol pareigūnui sukanka 62 metai ir 6 mėnesiai.
+
+48
+
+straipsnis. Aprūpinimas gyvenamosiomis patalpomis
+
+1. Saugumo
+
+pareigūnams, tarnybos vietoje neturintiems gyvenamosios patalpos, teisės aktų
+
+nustatyta tvarka gali būti suteikiami tarnybiniai butai.
+
+2. Saugumo
+
+pareigūnams, tarnybos vietoje nuosavybės teise neturintiems gyvenamosios
+
+patalpos, Saugumo departamento generalinio direktoriaus nustatyta tvarka gali
+
+būti kompensuojamos gyvenamųjų patalpų (įskaitant ir tarnybines gyvenamąsias
+
+patalpas) nuomos išlaidos: mokama 3 minimaliųjų gyvenimo lygių išmoka.
+
+49
+
+straipsnis. Kitos garantijos
+
+Saugumo
+
+pareigūnams, kurių materialinė būklė sunki dėl ligos, šeimos nario ligos ar
+
+mirties, stichinės nelaimės, turto netekimo, taip pat kitais ypatingais
+
+atvejais gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio pašalpa.
+
+Pašalpa mokama iš Saugumo departamentui darbo užmokesčiui skirtų lėšų.
+
+___________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1752, 2003-10-07,
+
+Žin., 2003, Nr. 101-4539 (2003-10-29)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO STATUTO 32 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-122,
+
+2005-02-15, Žin., 2005, Nr. 28-874 (2005-02-26)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO STATUTO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2005 m. kovo 1 d.
+
+Jeigu pareigūnams, esantiems vaiko priežiūros, kol jam
+
+sueis vieni metai, atostogose, pagal šio įstatymo nuostatas apskaičiuota 70
+
+procentų vidutinio jų darbo užmokesčio suma yra mažesnė nei mokėta iki šio
+
+įstatymo įsigaliojimo, toliau mokama anksčiau nustatyto dydžio suma.
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-663, 2006-06-08,
+
+Žin., 2006, Nr. 74-2817 (2006-07-03)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO STATUTO 42 IR 43 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.
+
+Įsigaliojus
+
+šiam įstatymui, Valstybės saugumo departamento pareigūnams, esantiems vaiko
+
+priežiūros, kol jam sueis vieni metai, atostogose, apskaičiuotos sumos
+
+perskaičiuojamos vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio
+
+įstatymo nuostatų įsigaliojimo dienos.
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-792, 2006-07-19,
+
+Žin., 2006, Nr. 87-3403 (2006-08-08)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO STATUTO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Įstatymas
+
+įsigalioja nuo 2007 m. sausio 1 d.
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1029,
+
+2007-01-18, Žin., 2007, Nr. 8-316 (2007-01-19)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO STATUTO 22 IR 42 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1146,
+
+2007-05-17, Žin., 2007, Nr. 59-2284 (2007-05-29)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO STATUTO 37 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Jei nušalinimo terminas iki šio
+
+įstatymo įsigaliojimo truko daugiau nei 3 mėnesius, sprendimas dėl saugumo
+
+pareigūno atleidimo arba grąžinimo į tarnybą turi būti priimtas per 15 darbo
+
+dienų nuo šio įstatymo įsigaliojimo.
+
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1160,
+
+2007-06-05, Žin., 2007, Nr. 67-2602 (2007-06-16)
+
+VALSTYBĖS
+
+SAUGUMO DEPARTAMENTO STATUTO 4 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2007-06-18)
+
+autrap@lrs.lt
 
 43 straipsnis.
 
