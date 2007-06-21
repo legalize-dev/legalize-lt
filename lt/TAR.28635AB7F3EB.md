@@ -4,7 +4,7 @@ identifier: "TAR.28635AB7F3EB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-05"
-last_updated: "2003-05-01"
+last_updated: "2007-06-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.28635AB7F3EB"
 department: "Lietuvos Respublikos Seimas"
@@ -44,27 +44,31 @@ nusikaltimas,
 
 atsižvelgdamas
 
-į tai, kad Lietuvos Respublika prisijungė prie 1948 m. gruodžio 9 d. Konvencijos dėl kelio užkirtimo genocido nusikaltimui ir baudimo už jį bei 1968 m. lapkričio 26 d. Konvencijos dėl senaties termino netaikymo už karinius nusikaltimus ir
+į tai, kad Lietuvos Respublika prisijungė prie 1948 m. gruodžio 9 d.
 
-nusikaltimus žmonijai,
+Konvencijos dėl kelio užkirtimo genocido nusikaltimui ir baudimo už jį bei 1968
 
-remdamasis Europos žmogaus teisių ir pagrindinių
+m. lapkričio 26 d. Konvencijos dėl senaties termino netaikymo už karinius
 
-laisvių apsaugos konvencijos ir jos protokolų nuostatomis,
+nusikaltimus ir nusikaltimus žmonijai,
 
-konstatuodamas, kad nuo 1940 m. birželio 15 d. iki 1990 m. kovo 11 d. Lietuva buvo okupuota, o primesti okupaciniai režimai
+remdamasis Europos žmogaus teisių ir
 
-neteisėti,
+pagrindinių laisvių apsaugos konvencijos ir jos protokolų nuostatomis,
 
-konstatuodamas,
+konstatuodamas, kad nuo 1940 m. birželio
 
-kad Lietuvos gyventojų fizinis ir dvasinis genocidas bei kiti nusikaltimai
+15 d. iki 1990 m. kovo 11 d. Lietuva buvo okupuota, o primesti okupaciniai
 
-žmoniškumui ir karo nusikaltimai buvo vykdomi okupacijų laikotarpiu,
+režimai neteisėti,
 
-konstatuodamas, kad 1940-1990 m. Lietuvoje įvairiomis formomis (karinėmis ir politinėmis) vyko pasipriešinimas (rezistencija)
+konstatuodamas, kad Lietuvos gyventojų fizinis ir dvasinis genocidas bei kiti nusikaltimai žmoniškumui ir karo nusikaltimai buvo vykdomi okupacijų laikotarpiu,
 
-SSRS ir Vokietijos okupacinėms valdžioms,
+konstatuodamas, kad 1940-1990 m.
+
+Lietuvoje įvairiomis formomis (karinėmis ir politinėmis) vyko pasipriešinimas
+
+(rezistencija) SSRS ir Vokietijos okupacinėms valdžioms,
 
 pripažindamas, kad didelė Lietuvos
 
@@ -84,9 +88,7 @@ nusikaltimų žmoniškumui ir karo nusikaltimų organizatorius ir
 
 vykdytojus,
 
-priima šį
-
-įstatymą.
+priima šį įstatymą.
 
 Preambulės
 
@@ -98,15 +100,15 @@ IX-1461,
 
 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
 
-PIRMASIS
-
-SKIRSNIS
+PIRMASIS SKIRSNIS
 
 BENDROSIOS
 
 NUOSTATOS
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis.
+
+Įstatymo paskirtis
 
 Šis įstatymas reglamentuoja Lietuvos
 
@@ -114,9 +116,9 @@ gyventojų genocido ir rezistencijos tyrimo centro veiklą, nustato jo
 
 uždavinius, funkcijas, teisinę padėtį, struktūrą ir darbo organizavimą.
 
-2 straipsnis. Lietuvos gyventojų
+2 straipsnis.
 
-genocido ir rezistencijos tyrimo centras
+Lietuvos gyventojų genocido ir rezistencijos tyrimo centras
 
 1. Lietuvos gyventojų genocido ir rezistencijos
 
@@ -154,9 +156,9 @@ IX-1461,
 
 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
 
-3 straipsnis. Centro veiklos teisiniai
+3 straipsnis.
 
-pagrindai
+Centro veiklos teisiniai pagrindai
 
 Centras veikia vadovaudamasis Lietuvos
 
@@ -166,15 +168,15 @@ Respublikos Prezidento dekretais, Vyriausybės nutarimais bei Centro nuostatais,
 
 taip pat šiuo įstatymu.
 
-ANTRASIS
-
-SKIRSNIS
+ANTRASIS SKIRSNIS
 
 CENTRO
 
 UŽDAVINIAI IR FUNKCIJOS
 
-4 straipsnis. Centro uždaviniai
+4 straipsnis.
+
+Centro uždaviniai
 
 Centro uždaviniai - istorinės tiesos ir
 
@@ -184,11 +186,19 @@ gyventojų fizinio bei dvasinio genocido ir pasipriešinimo šiems režimams
 
 tyrimas, laisvės kovotojų ir genocido aukų atminimo įamžinimas, okupacijos
 
-padarinių teisinio įvertinimo inicijavimas. Centras taip pat tiria 1920-1939 m. Vilniaus krašte okupacinio režimo vykdytą politiką bei pasipriešinimo jai procesus.
+padarinių teisinio įvertinimo inicijavimas. Centras taip pat tiria 1920-1939 m.
 
-5 straipsnis. Centro funkcijos
+Vilniaus krašte okupacinio režimo vykdytą politiką bei pasipriešinimo jai
 
-Centras, atlikdamas jam pavestus uždavinius:
+procesus.
+
+5 straipsnis.
+
+Centro funkcijos
+
+Centras, atlikdamas jam pavestus
+
+uždavinius:
 
 1) formuoja šiuo įstatymu apibrėžtos srities tyrimų
 
@@ -200,13 +210,7 @@ tyrimo programas ir jas realizuoja, koordinuoja visų kitų institucijų vykdomu
 
 šios srities tyrimus;
 
-2) renka,
-
-kaupia, sistemina ir apibendrina medžiagą apie okupacinių režimų įvykdytus
-
-nusikaltimus, atskleidžia nusikalstamą totalitarinių režimų esmę, genocido bei
-
-kitų nusikaltimų žmoniškumui ir karo nusikaltimų vykdymo sistemą;
+2) renka, kaupia, sistemina ir apibendrina medžiagą apie okupacinių režimų įvykdytus nusikaltimus, atskleidžia nusikalstamą totalitarinių režimų esmę, genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų vykdymo sistemą;
 
 3) renka, analizuoja ir apibendrina
 
@@ -240,21 +244,9 @@ metodinę pagalbą vykdant jaunimo patriotinio ugdymo ir visuomenės pilietišku
 
 programas;
 
-8) su Lietuvos archyvų departamentu
+8) (neteko galios nuo 2007 m. birželio
 
-sudaro bendrą Valdymo ir metodikos tarybą ir kartu sprendžia strateginius
-
-Lietuvos valstybinio archyvų fondo ypatingosios dalies (buvusio SSRS valstybės
-
-saugumo komiteto (KGB) LSSR padalinio, buvusios LSSR vidaus reikalų
-
-ministerijos ir Lietuvos komunistų partijos, buvusių LSSR institucijų pirmųjų
-
-skyrių) archyvų saugojimo, tvarkymo ir naudojimo klausimus Vyriausybės
-
-patvirtinto reglamento tvarka; sukuria bendras darbo grupes informacinės
-
-paieškos sistemai kurti;
+21 d.);
 
 9) tiria archyvinę medžiagą ir teikia
 
@@ -328,9 +320,11 @@ medžiagą apie genocidą ir rezistenciją;
 
 17) inicijuoja visapusišką genocido ir
 
-okupacijos padarinių teisinį įvertinimą, taip pat genocidą ir Lietuvos gyventojų
+okupacijos padarinių teisinį įvertinimą, taip pat genocidą ir Lietuvos
 
-persekiojimą vykdžiusių organizacijų bei žinybų pripažinimą nusikalstamomis;
+gyventojų persekiojimą vykdžiusių organizacijų bei žinybų pripažinimą
+
+nusikalstamomis;
 
 18) fiksuoja genocido ir Lietuvos
 
@@ -360,11 +354,11 @@ projektus (dėl pasipriešinimo dalyvių, nukentėjusiųjų teisinio statuso,
 
 socialinės rūpybos, atsakomybės už genocidą ir kt. klausimais) bei kontroliuoja
 
-jų vykdymą, pripažįsta karių savanorių, laisvės kovų dalyvių, politinių kalinių,
+jų vykdymą, pripažįsta karių savanorių, laisvės kovų dalyvių, politinių
 
-tremtinių ir nukentėjusiųjų teisinį statusą; įstatymų nustatyta tvarka išduoda
+kalinių, tremtinių ir nukentėjusiųjų teisinį statusą; įstatymų nustatyta tvarka
 
-nustatytos formos pažymėjimus ir tvarko jų apskaitą;
+išduoda nustatytos formos pažymėjimus ir tvarko jų apskaitą;
 
 21) teikia siūlymus dėl asmenų,
 
@@ -388,17 +382,19 @@ IX-1461,
 
 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
 
-TREČIASIS
+Nr. X-1166,
 
-SKIRSNIS
+2007-06-05, Žin., 2007, Nr. 68-2653 (2007-06-21)
+
+TREČIASIS SKIRSNIS
 
 CENTRO
 
 STRUKTŪRA IR DARBUOTOJAI
 
-6 straipsnis. Centro struktūra ir
+6 straipsnis.
 
-darbuotojai
+Centro struktūra ir darbuotojai
 
 1. Centrą sudaro:
 
@@ -494,15 +490,15 @@ VIII-613,
 
 98.01.15, Žin., 1998, Nr.9-199 (98.01.28)
 
-KETVIRTASIS
-
-SKIRSNIS
+KETVIRTASIS SKIRSNIS
 
 CENTRO
 
 FINANSAVIMAS
 
-7 straipsnis. Centro finansavimas
+7 straipsnis.
+
+Centro finansavimas
 
 1. Centras finansuojamas iš valstybės
 
@@ -524,17 +520,15 @@ VIII-514,
 
 97.11.13, Žin., 1997, Nr.108-2732 (97.11.28)
 
-PENKTASIS
-
-SKIRSNIS
+PENKTASIS SKIRSNIS
 
 BAIGIAMOSIOS
 
 NUOSTATOS
 
-8 straipsnis. Atsakomybė už trukdymą tirti genocidą
+8 straipsnis. Atsakomybė už
 
-ir pasipriešinimą okupaciniams
+trukdymą tirti genocidą ir pasipriešinimą okupaciniams
 
 režimams
 
@@ -556,15 +550,17 @@ atsisakymą liudyti fiziniai ir juridiniai asmenys atsako pagal Lietuvos
 
 Respublikos įstatymus.
 
-9 straipsnis. Netekę galios teisės aktai
+9 straipsnis.
+
+Netekę galios teisės aktai
 
 Įsigaliojus šiam įstatymui, netenka
 
 galios:
 
-1) Lietuvos gyventojų genocido ir
+1) Lietuvos gyventojų genocido ir rezistencijos
 
-rezistencijos tyrimo centro įstatymas (Žin., 1993, Nr.32-735);
+tyrimo centro įstatymas (Žin., 1993, Nr.32-735);
 
 2) Seimo nutarimas “Dėl Lietuvos
 
@@ -654,13 +650,31 @@ Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.
 
 2003 m. gegužės 1 d.
 
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1166,
+
+2007-06-05, Žin., 2007, Nr. 68-2653 (2007-06-21)
+
+LIETUVOS
+
+GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 5 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-05-07)
+Aušrinė Trapinskienė (2007-06-21)
 
 autrap@lrs.lt
 
