@@ -4,7 +4,7 @@ identifier: "TAR.D65A0A6F9AD8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2002-12-10"
+last_updated: "2007-06-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D65A0A6F9AD8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymo įsigaliojimo ir įgyvendinimo įstatymas
 
-Įstatymas skelbtas: Žin., 2002, Nr.
-
-53-2043
+Įstatymas skelbtas: Žin., 2002, Nr. 53-2043
 
 Neoficialus įstatymo tekstas
 
@@ -45,7 +43,9 @@ dalys įsigalioja nuo Antstolių įstatymo paskelbimo ir taikomi su Antstolių
 
 įstatymo įsigaliojimo ir įgyvendinimo įstatyme numatytomis išlygomis.
 
-2. 2003 m. sausio 1 d. netenka galios:
+2. 2003 m. sausio 1
+
+d. netenka galios:
 
 1) Teismo antstolių
 
@@ -55,13 +55,13 @@ dalys įsigalioja nuo Antstolių įstatymo paskelbimo ir taikomi su Antstolių
 
 įstatymo įgyvendinimo įstatymas (Žin., 2000, Nr. 92-2847).
 
-2 straipsnis. Įstatymo „Dėl
+2 straipsnis. Neteko galios nuo 2007 m. birželio 21 d.
 
-SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios
+Straipsnio pakeitimai:
 
-organizacijos kadrinių darbuotojų dabartinės veiklos“ taikymas antstoliams
+Nr. X-1165,
 
-Kol nėra pasibaigęs įstatymo „Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos“ nustatytas apribojimų terminas, antstoliais negali būti skiriami ir negali dirbti asmenys, buvę SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) kadriniais darbuotojais.
+2007-06-05, Žin., 2007, Nr. 68-2652 (2007-06-21)
 
 3
 
@@ -103,7 +103,9 @@ Konkursas antstolių rezervui suformuoti turi būti paskelbtas ne vėliau kaip p
 
 vieną mėnesį nuo šio Įstatymo įsigaliojimo dienos, o rezervas baigtas formuoti
 
-– iki 2002 m. gruodžio 1 d. Antstolių rezervas egzistuoja iki 2003 m. sausio 1 d.
+– iki 2002 m. gruodžio 1 d. Antstolių rezervas egzistuoja iki 2003 m. sausio 1
+
+d.
 
 4. Asmuo, laimėjęs
 
@@ -131,11 +133,13 @@ liudijimas, patvirtinantis teisę vykdyti antstolio veiklą, bei antstolio
 
 pažymėjimas ir ženklas.
 
-7. Asmenys, įrašyti
+7. Asmenys,
 
-į antstolių rezervą ir nustatyta tvarka neįvykdę šio straipsnio 5 dalyje
+įrašyti į antstolių rezervą ir nustatyta tvarka neįvykdę šio straipsnio 5
 
-nustatytų reikalavimų, iki 2003 m. vasario 1 d. netenka antstolio statuso.
+dalyje nustatytų reikalavimų, iki 2003 m. vasario 1 d. netenka antstolio
+
+statuso.
 
 Straipsnio pakeitimai:
 
@@ -307,17 +311,17 @@ ministro nustatyta tvarka perduodami antstoliams.
 
 išieškotojams.
 
-3. Iki 2003 m. sausio 1 d. lėšos, skirtos sprendimų vykdymo išlaidoms apmokėti ir
+3. Iki 2003 m. sausio 1 d. lėšos,
 
-saugomos teismo antstolių kontorų prie apylinkių teismų specialiose
+skirtos sprendimų vykdymo išlaidoms apmokėti ir saugomos teismo antstolių kontorų
 
-depozitinėse sąskaitose, pervedamos į Teisingumo ministerijos lėšų pagal
+prie apylinkių teismų specialiose depozitinėse sąskaitose, pervedamos į
 
-pavedimus sąskaitą. Lėšų, esančių teismo antstolių kontorų prie apylinkių
+Teisingumo ministerijos lėšų pagal pavedimus sąskaitą. Lėšų, esančių teismo
 
-teismų specialiose depozitinėse sąskaitose, apskaitos dokumentai perduodami
+antstolių kontorų prie apylinkių teismų specialiose depozitinėse sąskaitose,
 
-Teisingumo ministerijai.
+apskaitos dokumentai perduodami Teisingumo ministerijai.
 
 4. Visos Teisingumo ministerijos lėšų pagal pavedimus
 
@@ -339,25 +343,25 @@ užbaigtos vykdomosios bylos, išskyrus nurodytas šio Įstatymo 10 straipsnio 1
 
 dalyje, ir archyvai iki 2003
 
-m. sausio 1 d. perduodami saugoti apylinkės teismams, prie kurių yra
+m. sausio 1 d. perduodami
 
-teismo antstolių kontoros.
+saugoti apylinkės teismams, prie kurių yra teismo antstolių kontoros.
 
 12 straipsnis. Pirmojo antstolių susirinkimo sušaukimas
 
-1. Pirmąjį antstolių susirinkimą iki 2003 m. kovo 1 d. sušaukia
+1. Pirmąjį antstolių susirinkimą iki 2003
 
-teisingumo ministras. Pirmajam antstolių susirinkimui pirmininkauja teisingumo
+m. kovo 1 d. sušaukia teisingumo ministras. Pirmajam antstolių
 
-ministro paskirtas asmuo.
+susirinkimui pirmininkauja teisingumo ministro paskirtas asmuo.
 
 2. Pirmajame
 
 antstolių susirinkime priimami Lietuvos antstolių rūmų įstatai, Antstolių
 
-profesinės etikos kodeksas, išrenkamas Lietuvos antstolių rūmų prezidiumas ir du
+profesinės etikos kodeksas, išrenkamas Lietuvos antstolių rūmų prezidiumas ir
 
-Antstolių garbės teismo nariai.
+du Antstolių garbės teismo nariai.
 
 13
 
@@ -387,9 +391,9 @@ paskirtas antstoliu, privalo Antstolių įstatymo nustatyta tvarka savarankiška
 
 apsidrausti civilinę atsakomybę.
 
-15 straipsnis. Teisės aktų, būtinų Antstolių įstatymui
+15 straipsnis. Teisės aktų, būtinų Antstolių
 
-įgyvendinti, parengimas ir
+įstatymui įgyvendinti, parengimas ir
 
 patvirtinimas
 
@@ -405,7 +409,9 @@ kontorų prie apylinkių teismų patikėjimo teise valdomo ilgalaikio kilnojamoj
 
 turto ir turtinių teisių pardavimo tvarką;
 
-2) iki 2003 m. sausio 1 d. parengia kitus šiam Įstatymui įgyvendinti reikalingus teisės aktus.
+2) iki 2003 m.
+
+sausio 1 d. parengia kitus šiam Įstatymui įgyvendinti reikalingus teisės aktus.
 
 2. Įsigaliojus šiam
 
@@ -421,9 +427,11 @@ mėnesius patvirtina Antstolių informacinės sistemos nuostatus, sukuria ir
 
 nustato antstolių skaičių, priskiria jiems veiklos teritorijas;
 
-3) iki 2003 m. sausio 1 d. teisingumo ministras patvirtina Antstolių įstatyme numatytus ir kitus būtinus
+3) iki 2003 m. sausio
 
-šiam Įstatymui įgyvendinti teisės aktus.
+1 d. teisingumo ministras patvirtina Antstolių įstatyme numatytus ir kitus
+
+būtinus šiam Įstatymui įgyvendinti teisės aktus.
 
 Skelbiu šį
 
@@ -453,13 +461,31 @@ ANTSTOLIŲ
 
 ĮSTATYMO ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1165,
+
+2007-06-05, Žin., 2007, Nr. 68-2652 (2007-06-21)
+
+ANTSTOLIŲ
+
+ĮSTATYMO ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMO 2 STRAIPSNIO PRIPAŽINIMO NETEKUSIU
+
+GALIOS ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2003-01-09)
+Aušrinė Trapinskienė (2007-06-29)
 
 autrap@lrs.lt
 
