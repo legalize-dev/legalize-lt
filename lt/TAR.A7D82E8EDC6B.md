@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2006-11-09"
+last_updated: "2007-06-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -437,6 +437,10 @@ finansavimo
 
 liepos 1 d.
 
+2
+
+priedėlio redakcija nuo 2007 m. liepos 1 d.:
+
 Lietuvos
 
 Respublikos
@@ -537,19 +541,21 @@ nuo
 
 2540–5080
 
-Krovininių kelių transporto
+Transporto
 
-priemonių
+priemonės tipas
 
-junginys – N3O4
+Ribiniai
 
-nuo
+tarifai
 
-40 t (įskaitytinai) iki 44 t bendrosios masės vežant triašiu vilkiku su
+Krovininių transporto priemonių
 
-dviaše ar triaše puspriekabe 40 pėdų konteinerius (pagamintus pagal ISO
+junginys – N3O4 nuo 40 t (įskaitytinai) iki 44 t
 
-standartus)
+bendrosios masės vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20,
+
+30, 40, 45 pėdų konteinerius (pagamintus pagal ISO standartus)
 
 *
 
@@ -566,6 +572,16 @@ ašis (ašys) su pneumatine pakaba
 ** kai yra kita ašies (ašių) pakabų
 
 sistema
+
+Priedėlio pakeitimas:
+
+Nr. X-1177,
+
+2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
+
+3
+
+priedėlio redakcija nuo 2007 m. liepos 1 d.:
 
 Lietuvos
 
@@ -749,13 +765,13 @@ N3
 
 O4
 
-nuo 12 t iki 40 t (įskaitytinai)
+Nuo 12 t iki 40 t (įskaitytinai)
 
-bendrosios masės, o vežant triašiu vilkiku su dviaše ar triaše puspriekabe 40
+bendrosios masės, o vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20,
 
-pėdų konteinerius (pagamintus pagal ISO standartus) – iki 44 t bendrosios
+30, 40, 45 pėdų konteinerius (pagamintus pagal ISO standartus) – iki
 
-masės
+44 t bendrosios masės
 
 800–3600
 
@@ -839,9 +855,9 @@ automobiliai-radijo stotys;
 
 kinofikacijos, parodų, bibliotekų automobiliai;
 
-10)
+10) asenizaciniai
 
-asenizaciniai automobiliai;
+automobiliai;
 
 11) kelių valymo
 
@@ -879,6 +895,16 @@ kitos), kurios pagal savo konstrukciją ir įrangą skirtos kroviniams vežti,
 
 priskiriamos prie krovininių transporto priemonių.
 
+Priedėlio pakeitimas:
+
+Nr. X-1177,
+
+2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
+
+4
+
+priedėlio redakcija nuo 2007 m. liepos 1 d.:
+
 Lietuvos
 
 Respublikos
@@ -897,19 +923,19 @@ finansavimo
 
 priedėlis
 
-I. MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE
+I.
 
-IR UŽSIENIO ŠALYSE, tarp jų ir Europos
+MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE IR UŽSIENIO ŠALYSE, tarp jų ir Europos Sąjungos valstybėse narėse,
 
-Sąjungos valstybėse narėse, ĮREGISTRUOTOMIS TRANSPORTO PRIEMONĖMIS (JŲ
+ĮREGISTRUOTOMIS TRANSPORTO PRIEMONĖMIS (JŲ JUNGINIAIS), KURIŲ MATMENYS SU
 
-JUNGINIAIS), KURIŲ MATMENYS SU KROVINIU AR BE JO VIRŠIJA LEIDŽIAMUS, RIBINIAI
-
-TARIFAI
+KROVINIU AR BE JO VIRŠIJA LEIDŽIAMUS, RIBINIAI TARIFAI
 
 Leidžiami
 
-matmenys viršyti (cm)
+matmenys viršyti
+
+(cm)
 
 Ribiniai
 
@@ -919,9 +945,9 @@ aukščio
 
 pločio
 
-ilgio
+Ilgio
 
-vienkart-tiniai,
+vienkar-tiniai,
 
 10 km
 
@@ -935,7 +961,7 @@ teritori-joje
 
 šalies
 
-teritorijoje
+terito-rijoje
 
 savivaldy-bės
 
@@ -1021,47 +1047,35 @@ teritorijoje
 
 4725–4960
 
-> 50
-
-> 100
-
-> 500
-
-12,0–14,0
-
-560–653
-
-1400–1633
-
-2800–3265
-
-7000–8165
-
 Jei lentelėje
 
-nurodyti transporto priemonės (jų junginio) maksimalūs matmenys viršijami, t.
+nurodyti transporto priemonės (jų junginio) maksimalūs matmenys viršijami
 
-y. transporto priemonė tampa ypač pavojinga saugiam eismui, mokestis
+(aukštis – daugiau nei 50 cm, plotis – daugiau nei 100 cm, ilgis – daugiau nei
 
-apskaičiuojamas taikant maksimalų tarifą už kiekvieno atitinkamo matmens
+500 cm), transporto priemonė tampa ypač pavojinga saugiam eismui. Tokioms
 
-viršijimą, t. y. už kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm
+transporto priemonėms (jų junginiams) taikomas vienkartinis mokestis, kuris
 
-ar ilgio viršijimą 1 m maksimalus tarifas dauginamas iš koeficiento 1,5. Visais
+apskaičiuojamas taip: prie maksimalaus ribinio tarifo pridedamas papildomas
 
-atvejais, jei viršijami du ar visi trys matmenys, mokestis nustatomas sumuojant
+vieno lito mokestis už kiekvieno atitinkamo matmens viršijimą, t. y. už
 
-lentelėje nurodytus mokesčius už atskirų matmenų viršijimą. Kai transporto
+kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1
 
-priemonės (jų junginio) matmenys viršija lentelėje nurodytus maksimalius,
+m, ir dauginama iš koeficiento 1,5. Visais atvejais, jei viršijami du ar visi
 
-būtina gauti atskirą leidimą, kurį išduodant pridedamas papildomas mokestis už
+trys matmenys, mokestis nustatomas sumuojant lentelėje nurodytus mokesčius už
 
-maršruto paruošimą, t. y. apskaičiuojama darbų, kuriuos būtina atlikti, kad
+atskirų matmenų viršijimą. Kai transporto priemonės (jų junginio) matmenys
 
-galima būtų leisti būtent tai transporto priemonei (jų junginiui) važiuoti
+viršija lentelėje nurodytus maksimalius, būtina gauti atskirą leidimą, kurį
 
-leidime nurodytu maršrutu, vertė.
+išduodant pridedamas papildomas mokestis už maršruto paruošimą, t. y. apskaičiuojama
+
+darbų, kuriuos būtina atlikti, kad galima būtų leisti būtent tai transporto
+
+priemonei (jų junginiui) važiuoti leidime nurodytu maršrutu, vertė.
 
 4
 
@@ -1181,23 +1195,23 @@ mokestį leidžiama važiuoti tik tais keliais, kurie nurodyti leidimus
 
 išduodančios institucijos patvirtintame sąraše.
 
-2. Jei transporto
+2. Jei
 
-priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant triašiu
+transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant
 
-vilkiku su dviaše ar triaše puspriekabe 40 pėdų konteinerius, pagamintus
+triašiu vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų
 
-pagal ISO standartus, – 44 t), nustatomi mokesčio ribiniai tarifai,
+konteinerius, pagamintus pagal ISO standartus, − 44 t), nustatomi mokesčio
 
-kurie nurodyti šio priedo III skirsnyje.
+ribiniai tarifai, kurie nurodyti šio priedo III skirsnyje.
 
 3. Triašiu
 
-vilkiku su dviaše ar triaše puspriekabe 40 pėdų konteinerius, pagamintus pagal
+vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius,
 
-ISO standartus, leidžiama vežti tik magistraliniais keliais. Vežant šiuos
+pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais.
 
-konteinerius kitais keliais, būtina gauti kelio savininko leidimą.
+Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą.
 
 4. Kai
 
@@ -1223,17 +1237,19 @@ TARIFAI
 
 transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o
 
-vežant 40 pėdų konteinerius, pagamintus pagal ISO standartus, – 44 t), mokamas
+vežant 20, 30, 40, 45 pėdų konteinerius, pagamintus pagal ISO standartus, − 44
 
-mokestis, kurio ribiniai tarifai pateikiami lentelėje:
+t), mokamas mokestis, kurio ribiniai tarifai pateikiami lentelėje:
 
-Leidžiama
+Leidžiamoji
 
 bendroji masė viršyta (t)
 
 Vienkartiniai
 
-ribiniai tarifai už kiekvieną viršytą toną, Lt / 10 km
+ribiniai tarifai už kiekvieną viršytą toną,
+
+Lt/10 km
 
 iki 10,0
 
@@ -1249,13 +1265,13 @@ iki 10,0
 
 >40
 
-5,00–6,00
+5,00–6,00“
 
 2.
 
-Triašiu puspriekabių vilkiku su dviaše ar triaše puspriekabe 40 pėdų
+Triašiu puspriekabių vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45
 
-konteinerius, pagamintus pagal ISO standartus, leidžiama vežti tik
+pėdų konteinerius, pagamintus pagal ISO standartus, leidžiama vežti tik
 
 magistraliniais keliais. Vežant šiuos konteinerius kitais keliais, būtina gauti
 
@@ -1268,6 +1284,12 @@ Kai ašies (ašių) faktiška apkrova ir faktiška transporto priemonės (jų
 junginio) bendroji masė viršija leidžiamą, nustatomas tas mokesčio dydis, kuris
 
 yra didesnis.
+
+Priedėlio pakeitimas:
+
+Nr. X-1177,
+
+2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
 
 Lietuvos
 
@@ -1527,6 +1549,10 @@ Nr. X-884, 2006-11-09,
 
 Žin., 2006, Nr. 127-4820 (2006-11-25)
 
+6
+
+priedėlio redakcija nuo 2007 m. liepos 1 d.:
+
 Lietuvos
 
 Respublikos
@@ -1547,35 +1573,39 @@ priedėlis
 
 ĮGYVENDINAMI Europos Sąjungos TEISĖS AKTAI
 
-1. 1996 m.
+1.
 
-liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje
+1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų
 
-naudojamų kelių transporto priemonių maksimalius leistinus matmenis vidaus ir
+Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto
 
-tarptautinio vežimo sąlygomis bei maksimalią leistiną masę tarptautinio vežimo
+priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų
 
-sąlygomis.
+kelių transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis
+
+leidimas, 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais
+
+2002 m. vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL
+
+2004 m. specialusis leidimas, 7 skyrius, 6 tomas, p. 85).
 
 2. 1999 m.
 
-birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių
+birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl
 
-krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra
+sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam
 
-infrastruktūra.
+tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p.
 
-3. 2002 m.
+372).
 
-vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB, iš dalies
+Priedėlio pakeitimas:
 
-pakeičianti Tarybos direktyvą 96/53/EB, tam tikroms Bendrijoje naudojamoms
+Nr. X-1177,
 
-kelių transporto priemonėms nustatančią nacionalinio ir tarptautinio vežimo
+2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
 
-maksimalius leistinus matmenis ir tarptautinio vežimo maksimalią leistiną masę.
-
-_______________
+__________________
 
 Pakeitimai:
 
