@@ -4,7 +4,7 @@ identifier: "TAR.620BB9BF5982"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-05-23"
-last_updated: "2006-12-14"
+last_updated: "2007-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.620BB9BF5982"
 department: "Lietuvos Respublikos Seimas"
@@ -33,6 +33,14 @@ Vilnius
 
 46-851; 2002, Nr. 17-649; 2003, Nr. 17-700)
 
+1
+
+straipsnis. 119 straipsnio pakeitimas
+
+Pakeisti 119
+
+straipsnį ir jį išdėstyti taip:
+
 1 straipsnis.
 
 119 straipsnio pakeitimas
@@ -45,9 +53,9 @@ straipsnį ir jį išdėstyti taip:
 
 Teisėjų taryba, jos sudarymas
 
-1. Teisėjų taryba yra vykdomoji teismų savivaldos
+1. Teisėjų taryba yra vykdomoji teismų savivaldos institucija,
 
-institucija, užtikrinanti teismų ir teisėjų nepriklausomumą.
+užtikrinanti teismų ir teisėjų nepriklausomumą.
 
 2. Teisėjų
 
@@ -61,13 +69,15 @@ Vyriausiojo administracinio teismo pirmininkas;
 
 2) Visuotiniame
 
-teisėjų susirinkime slaptu balsavimu išrinkti teisėjai: trys – nuo Aukščiausiojo Teismo, vienas – nuo Apeliacinio teismo,
+teisėjų susirinkime slaptu balsavimu
 
-vienas – nuo Vyriausiojo administracinio teismo, keturi – nuo penkių apygardų
+išrinkti teisėjai: trys – nuo Aukščiausiojo Teismo, vienas – nuo Apeliacinio
 
-teismų, du – nuo apylinkių teismų, vienas – nuo visų apygardų administracinių
+teismo, vienas – nuo Vyriausiojo administracinio teismo, keturi – nuo penkių
 
-teismų. Teisėjų kandidatūras Visuotiniame teisėjų susirinkime iškelia atitinkamų teismų atstovai.
+apygardų teismų, du – nuo apylinkių teismų, vienas – nuo visų apygardų administracinių teismų. Teisėjų kandidatūras Visuotiniame
+
+teisėjų susirinkime iškelia atitinkamų teismų atstovai.
 
 3. Teisėjų tarybos nariu negali būti renkamas
 
@@ -90,218 +100,6 @@ skaičių) iš tų teismų teisėjų renka būtent to teismo (teismų) teisėjai
 taryba slaptu balsavimu paprasta visų Teisėjų tarybos narių balsų dauguma
 
 išrenka Teisėjų tarybos pirmininką, pirmininko pavaduotoją ir sekretorių.“
-
-2
-
-straipsnis. 120
-
-straipsnio pakeitimas
-
-Pakeisti
-
-120 straipsnį ir jį išdėstyti taip:
-
-„120
-
-straipsnis. Teisėjų tarybos kompetencija
-
-Teisėjų taryba:
-
-1) renka Teisėjų
-
-tarybos pirmininką, pirmininko pavaduotoją ir sekretorių;
-
-2) tvirtina
-
-Teisėjų tarybos reglamentą;
-
-3) pataria
-
-Respublikos Prezidentui dėl teisėjų skyrimo, paaukštinimo, perkėlimo ir
-
-atleidimo iš pareigų;
-
-4) pataria
-
-Respublikos Prezidentui dėl teismų pirmininkų, pirmininkų pavaduotojų, skyrių
-
-pirmininkų skyrimo ir atleidimo iš pareigų;
-
-5) pataria
-
-Respublikos Prezidentui dėl teisėjų skaičiaus teismuose nustatymo ar pakeitimo;
-
-6) sudaro
-
-Pretendentų į teisėjus egzamino komisiją ir skiria jos pirmininką, svarsto šios
-
-komisijos nuostatus bei egzamino programą ir juos tvirtina;
-
-7) tvirtina
-
-asmenų įrašymo į pretendentų į laisvas apylinkės teismo teisėjų vietas sąrašą
-
-tvarką bei asmenų įrašymo į teisėjų karjeros siekiančių asmenų registrą tvarką;
-
-8) sudaro
-
-nuolatines ar laikinąsias komisijas ir tvirtina jų nuostatus;
-
-9) skiria
-
-Teisėjų etikos ir drausmės komisijos narius ir tvirtina jos pirmininką;
-
-10) skiria
-
-Teisėjų garbės teismo narius;
-
-11) tvirtina
-
-Teisėjų garbės teismo nuostatus;
-
-12) tvirtina
-
-Administravimo teismuose nuostatus, sprendžia kitus administravimo teismuose
-
-klausimus;
-
-13) tvirtina
-
-Pretendentų į teisėjus atrankos nuostatus, Pretendentų į teisėjus vertinimo
-
-kriterijus, Teisėjų karjeros siekiančių asmenų atrankos nuostatus bei Teisėjų
-
-karjeros siekiančių asmenų vertinimo kriterijus;
-
-14) tvirtina
-
-tipines apylinkių teismų, apygardų teismų ir apygardų administracinių teismų
-
-struktūras, tipinius pareigybių sąrašus ir jų aprašymus;
-
-15) svarsto ir
-
-aprobuoja pasiūlymus dėl teismų investicinių programų projektų ir pasiūlymus
-
-dėl apylinkių teismų, apygardų teismų, apygardų administracinių teismų biudžetų
-
-projektų ir pateikia juos Vyriausybei;
-
-16) kontroliuoja
-
-Nacionalinės teismų administracijos veiklą, išklauso jos darbo ataskaitas;
-
-17) šaukia
-
-Visuotinius teisėjų susirinkimus;
-
-18)
-
-bendradarbiauja su kitomis Lietuvos institucijomis bei organizacijomis teismų
-
-savivaldos, administravimo ir kitais teismų veiklos klausimais;
-
-19)
-
-bendradarbiauja su kitų valstybių bei tarptautinėmis institucijomis teismų
-
-savivaldos, administravimo ir kitais teismų veiklos klausimais;
-
-20) sprendžia
-
-kitus teismų veiklos bei įstatymų numatytus klausimus.“
-
-3
-
-straipsnis. 121
-
-straipsnio pakeitimas
-
-Pakeisti 121
-
-straipsnį ir jį išdėstyti taip:
-
-„121
-
-straipsnis. Teisėjų tarybos posėdžiai
-
-1. Teisėjų
-
-tarybos posėdis yra pagrindinė Teisėjų tarybos veiklos forma. Teisėjų tarybos
-
-posėdžiai paprastai vyksta Aukščiausiojo Teismo patalpose.
-
-2. Teisėjų
-
-tarybos posėdžiai paprastai šaukiami kas mėnesį. Įsigaliojus Respublikos
-
-Prezidento dekretui dėl kreipimosi į Teisėjų tarybą, kad ši patartų Respublikos
-
-Prezidentui dėl teisėjų paskyrimo, paaukštinimo, perkėlimo ar atleidimo iš
-
-pareigų, Teisėjų tarybos posėdis šaukiamas ne vėliau kaip per keturiolika
-
-dienų. Prireikus posėdžiai šaukiami Teisėjų tarybos pirmininko arba trečdalio
-
-Teisėjų tarybos narių iniciatyva.
-
-3. Medžiaga,
-
-susijusi su Teisėjų tarybos posėdžiuose svarstomais klausimais, pateikiama
-
-visiems Teisėjų tarybos nariams ne vėliau kaip prieš tris darbo dienas iki
-
-Teisėjų tarybos posėdžio.
-
-4. Teisėjų
-
-taryba, atlikdama savo funkcijas, priima nutarimus. Teisėjų tarybos nutarimai
-
-priimami atviru balsavimu. Teisėjų tarybos nutarimas yra priimtas, jeigu jam
-
-pritarė daugiau kaip pusė visų Teisėjų tarybos narių. Teisėjų tarybos nutarimus
-
-pasirašo Teisėjų tarybos pirmininkas ir sekretorius. Nusprendusi Teisėjų taryba
-
-nutarimus gali priimti slaptu balsavimu. Visi Teisėjų tarybos priimti nutarimai
-
-ne vėliau kaip per tris dienas skelbiami Nacionalinės teismų administracijos
-
-interneto tinklalapyje.
-
-5. Teisėjų
-
-taryba nutarimus, kuriais Respublikos Prezidentui patariama dėl teisėjų
-
-paskyrimo, paaukštinimo, perkėlimo ar atleidimo iš pareigų, priima tik atviru
-
-balsavimu.
-
-6. Teisėjų tarybos priimti nutarimai, kuriais
-
-Respublikos Prezidentui patariama tam tikrą asmenį skirti teisėju, paaukštinti,
-
-perkelti, atleisti iš teisėjo pareigų arba patariama to asmens neskirti
-
-teisėju, nepaaukštinti, neatleisti iš pareigų (o kai skiriamas, paaukštinamas,
-
-perkeliamas ar atleidžiamas iš pareigų Aukščiausiojo Teismo pirmininkas,
-
-skyriaus pirmininkas ar šio teismo teisėjas arba Apeliacinio teismo
-
-pirmininkas, skyriaus pirmininkas ar šio teismo teisėjas – patariama teikti jo kandidatūrą
-
-Seimui arba jos neteikti), turi būti argumentuoti.
-
-7. Teisėjų
-
-taryba turi teisę gauti iš valstybės ir savivaldybių institucijų (jų pareigūnų)
-
-visą Tarybos funkcijoms atlikti reikalingą informaciją.
-
-8. Teisėjų
-
-tarybos posėdžiai yra vieši.“
 
 4 straipsnis.
 
