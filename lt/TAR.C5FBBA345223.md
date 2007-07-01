@@ -4,7 +4,7 @@ identifier: "TAR.C5FBBA345223"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-03"
-last_updated: "2003-01-01"
+last_updated: "2007-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C5FBBA345223"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įstatymo 21 straipsnis įsigalioja 2002-07-17"
 ---
 # Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymas
+
+Suvestinė redakcija nuo 2007-07-01 iki 2011-06-30
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 72-3022, i. k. 1021010ISTA0IX-1023
 
 LIETUVOS RESPUBLIKOS
 
@@ -40,11 +44,19 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
-1. Visuomenės sveikatos stebėsena – tikslingai organizuotas visuomenės sveikatos būklės, ją veikiančių sveikatos rizikos veiksnių stebėjimas, analizė ir vertinimas.
+1. Visuomenės sveikatos stebėsena – tikslingai organizuotas ir sistemingai atliekamas visuomenės sveikatos būklės, ją veikiančių visuomenės sveikatos rizikos veiksnių duomenų rinkimas, kaupimas, apdorojimas, saugojimas, analizė ir vertinimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
 
 2. Visuomenės sveikatos duomenys – bet kuri informacija, susijusi su visuomenės sveikata.
 
-3. Visuomenės sveikatos rizikos veiksniai – veiksniai (gyvensenos įpročiai, paveldėtos savybės, aplinkos veiksniai), kurių ryšys su sveikatos sutrikimais yra pagrįstas moksliniais tyrimais.
+3. Visuomenės sveikatos rizikos veiksniai – natūralūs gamtos bei dirbtiniai veiksniai, taip pat gyvenimo ir elgesio įpročiai, dėl kurių poveikio atsiranda rizika visų gyventojų ar atskirų jų grupių sveikatai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
 
 4. Valstybinis visuomenės sveikatos duomenų fondas – valstybinės visuomenės sveikatos stebėsenos duomenų bazių ir registrų duomenų visuma, tvarkoma teisės aktų nustatyta tvarka.
 
@@ -102,7 +114,11 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 1. Valstybės visuomenės sveikatos stebėsenos programą rengia Sveikatos apsaugos ministerija kartu su kitomis valstybės institucijomis, vykdančiomis valstybės visuomenės sveikatos stebėseną. Šią programą tvirtina Vyriausybė.
 
-2. Atskirų visuomenės sveikatos sričių stebėsenų programas rengia Valstybinė visuomenės sveikatos priežiūros tarnyba prie Sveikatos apsaugos ministerijos (toliau - Valstybinė visuomenės sveikatos priežiūros tarnyba) ar kitos institucijos pagal savo kompetenciją. Šias programas, suderintas su Sveikatos apsaugos ministerija, tvirtina Vyriausybė arba jos įgaliota institucija.
+2. Atskirų visuomenės sveikatos sričių stebėsenos programas, kurios yra valstybės visuomenės sveikatos stebėsenos programos struktūriniai komponentai, rengia ir tvirtina Sveikatos apsaugos ministerija ir kitos valstybės institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
 
 3. Savivaldybių visuomenės sveikatos stebėsenos programas rengia, tvirtina ir įgyvendina savivaldybių institucijos, suderinusios su Sveikatos apsaugos ministerija ar jos įgaliota institucija.
 
@@ -118,7 +134,11 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 4) visuomenės sveikatos stebėsenos lėšų poreikio sąmata, finansavimo šaltiniai ir tvarka;
 
-5) visuomenės sveikatos stebėsenos duomenų ekspertizės atlikimo tvarka ir metodai, ataskaitų ir išvadų teikimo tvarka.
+5) visuomenės sveikatos stebėsenos ataskaitų ir išvadų teikimo tvarka.
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
 
 8 straipsnis. Visuomenės sveikatos stebėsenos nuostatai
 
@@ -132,7 +152,7 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 1. Valstybės visuomenės sveikatos stebėsena yra vykdoma visoje Lietuvos Respublikos teritorijoje.
 
-2. Valstybinė visuomenės sveikatos priežiūros tarnyba organizuoja valstybės visuomenės sveikatos stebėseną ir atlieka šias funkcijas:
+2. Sveikatos apsaugos ministerija arba jos įgaliota įstaiga organizuoja valstybės visuomenės sveikatos stebėseną ir atlieka šias funkcijas:
 
 1) kartu su kitais stebėsenos subjektais bei valstybės institucijomis, atsakingomis už atskirų visuomenės sveikatos sričių stebėsenas, organizuoja valstybės visuomenės sveikatos stebėseną ir metodiškai vadovauja programos įgyvendinimui;
 
@@ -140,15 +160,23 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 3) kaupia, sistemina ir saugo valstybės visuomenės sveikatos stebėsenos duomenis Valstybiniame visuomenės sveikatos stebėsenos duomenų fonde;
 
-4) rengia ir (ar) tvirtina savivaldybių, ūkio subjektų visuomenės sveikatos stebėsenos vykdymo ir kontrolės tvarką;
+4) rengia ir (ar) tvirtina savivaldybių, ūkio subjektų visuomenės sveikatos stebėsenos vykdymo ir privalomojo atitikties įvertinimo tvarką;
 
-5) analizuoja ir vertina visuomenės sveikatos pokyčius, apie juos kiekvienais metais informuoja visuomenę ir ūkio subjektus, Vyriausybei ir Sveikatos apsaugos ministerijai pateikia viešą pranešimą apie visuomenės sveikatos būklę;
+5) rengia ir tvirtina valstybės visuomenės sveikatos stebėsenos informacijos rinkimo, kaupimo ir apdorojimo įkainių nustatymo metodikas;
 
 6) pagal savo kompetenciją vykdo kitas su valstybės visuomenės sveikatos stebėsena susijusias funkcijas.
 
+Straipsnio dalies pakeitimai:
+
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+
 3. Atskirų visuomenės sveikatos sričių stebėsenų programas derina, metodiškai vadovauja ir koordinuoja jų vykdymą Sveikatos apsaugos ministerija ar jos įgaliota valstybės institucija.
 
-4. Valstybinė visuomenės sveikatos priežiūros tarnyba sudaro atskirų visuomenės sveikatos sričių stebėsenų ir jų vykdytojų sąrašus. Šiuos sąrašus tvirtina Sveikatos apsaugos ministerija.
+4. Neteko galios nuo 2007-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. X-1152, 2007-05-24, Žin. 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
 
 10 straipsnis. Savivaldybių visuomenės sveikatos stebėsena
 
@@ -180,7 +208,11 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 1. Valstybės visuomenės sveikatos stebėsena finansuojama valstybės biudžeto lėšomis.
 
-2. Savivaldybės visuomenės sveikatos stebėsena finansuojama savivaldybės biudžeto ir aplinkos bei sveikatos fondų lėšomis.
+2. Savivaldybės visuomenės sveikatos stebėsena finansuojama valstybės biudžeto, savivaldybės biudžeto, savivaldybių visuomenės sveikatos rėmimo specialiosios programos, Privalomojo sveikatos draudimo fondo bei kitomis teisėtai įgytomis lėšomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
 
 3. Ūkio subjektų visuomenės sveikatos stebėseną finansuoja juridiniai ir fiziniai asmenys savo lėšomis.
 
@@ -188,7 +220,11 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 13 straipsnis. Visuomenės sveikatos stebėsenos kontrolė
 
-Valstybės, savivaldybių, atskirų visuomenės sveikatos sričių ir ūkio subjektų visuomenės sveikatos stebėsenų vykdymą, duomenų ir informacijos kokybę, ar jie atitinka norminius dokumentus, kontroliuoja Valstybinė visuomenės sveikatos priežiūros tarnyba.
+Valstybės, savivaldybių, atskirų visuomenės sveikatos sričių ir ūkio subjektų visuomenės sveikatos stebėsenų vykdymą, duomenų ir informacijos kokybę, ar jie atitinka norminius dokumentus, kontroliuoja Sveikatos apsaugos ministerija arba jos įgaliota institucija.
+
+Straipsnio pakeitimai:
+
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
 
 14 straipsnis. Visuomenės sveikatos stebėsenos duomenų kokybės užtikrinimas
 
@@ -216,9 +252,17 @@ Visuomenės sveikatos stebėsenos duomenų kokybei užtikrinti:
 
 3. Už visuomenės sveikatos stebėsenos duomenų ir kitos informacijos patikimumą atsako jos teikėjas.
 
-4. Visuomenės sveikatos stebėsenos duomenys renkami, kaupiami ir saugomi Valstybinės visuomenės sveikatos priežiūros tarnybos Valstybiniame visuomenės sveikatos stebėsenos duomenų fonde.
+4. Visuomenės sveikatos stebėsenos duomenys renkami, kaupiami ir saugomi Valstybiniame visuomenės sveikatos stebėsenos duomenų fonde.
 
-5. Valstybinį visuomenės sveikatos stebėsenos duomenų fondą tvarko, jo nuostatus tvirtina Valstybinė visuomenės sveikatos priežiūros tarnyba.
+Straipsnio dalies pakeitimai:
+
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+
+5. Valstybinį visuomenės sveikatos stebėsenos duomenų fondą tvarko, jo nuostatus tvirtina Sveikatos apsaugos ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
 
 6. Visuomenės sveikatos stebėsenos duomenų perdavimo valstybiniams archyvams tvarką nustato Lietuvos archyvų departamentas.
 
@@ -246,9 +290,15 @@ Visuomenės sveikatos stebėsenos duomenų kokybei užtikrinti:
 
 Asmens duomenų, įeinančių į visuomenės sveikatos duomenis, tvarkymą ir jų apsaugą nustato Asmens duomenų teisinės apsaugos įstatymas.
 
-IV SKYRIUS
+IV skyrius. Neteko galios nuo 2007-07-01
 
-VISUOMENĖS SVEIKATOS STEBĖSENOS DUOMENŲ EKSPERTIZĖ>
+Skyriaus naikinimas:
+
+Nr. X-1152, 2007-05-24, Žin. 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+
+V SKYRIUS
+
+BAIGIAMOSIOS NUOSTATOS>
 
 19 straipsnis. Visuomenės sveikatos stebėsenos duomenų ekspertizė
 
@@ -274,5 +324,15 @@ Vyriausybė ir kitos institucijos iki 2002 m. gruodžio 31 d. parengia ir patvir
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+
+Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 2, 7, 9, 12, 13, 16 straipsnių pakeitimo ir IV skyriaus pripažinimo netekusiu galios įstatymas
 
