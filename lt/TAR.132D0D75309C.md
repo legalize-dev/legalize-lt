@@ -4,7 +4,7 @@ identifier: "TAR.132D0D75309C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2006-07-18"
+last_updated: "2007-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo trečiasis, ketvirtasis ir penktasis ski
 ---
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2006-07-18 iki 2007-06-30
+Suvestinė redakcija nuo 2007-07-01 iki 2008-08-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
 
@@ -221,17 +221,21 @@ TAR pastaba. Skirsnis įsigalioja 2004-01-01.
 
 3. Įregistruotos naujos įmonės parengia ūkinės veiklos pradžios balansą, kuriame turi būti nurodytas įmonės veiklos pradžioje buvęs turtas, nuosavas kapitalas ir įsipareigojimai.
 
-4. Finansinė atskaitomybė sudaroma vadovaujantis šiuo Įstatymu, Verslo apskaitos standartais ir kitais teisės aktais.
+4. Finansinė atskaitomybė sudaroma vadovaujantis šiuo Įstatymu, Verslo apskaitos standartais arba Tarptautiniais apskaitos standartais ir kitais teisės aktais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
 
-5. Įmonės, kurių vertybiniais popieriais prekiaujama reguliuojamose rinkose, tvarko apskaitą ir finansinę atskaitomybę sudaro pagal Tarptautinius apskaitos standartus.
+Nr. X-1179, 2007-06-07, Žin., 2007, Nr. 68-2655 (2007-06-21), i. k. 1071010ISTA00X-1179
+
+5. Įmonės, kurių vertybiniais popieriais prekiaujama reguliuojamose rinkose, finansinę atskaitomybę sudaro pagal Tarptautinius apskaitos standartus, o kitos įmonės gali pasirinkti finansinę atskaitomybę sudaryti pagal Verslo apskaitos standartus arba Tarptautinius apskaitos standartus ir toks pasirinkimas negali būti keičiamas anksčiau negu po 5 metų (išskyrus atvejį, kai įmonė tampa įmonių grupės įmone). Tarptautiniai apskaitos standartai mutatis mutandis taikomi laikantis šio Įstatymo nuostatų dėl Verslo apskaitos standartų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+
+Nr. X-1179, 2007-06-07, Žin., 2007, Nr. 68-2655 (2007-06-21), i. k. 1071010ISTA00X-1179
 
 6. Finansinės atskaitomybės aiškinamajame rašte turi būti nurodyta, pagal kokius standartus ji sudaryta.
 
@@ -243,7 +247,11 @@ Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010IS
 
 10. Apskaitos duomenys pagrindžiami turto ir įsipareigojimų inventorizacijos duomenimis. Inventorizavimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
-11. Finansinę atskaitomybę įmonės sudaro pagal finansinių metų paskutinės dienos duomenis. Įvykiai, buvę nuo finansinių metų pabaigos iki finansinės atskaitomybės parengimo, registruojami Verslo apskaitos standartuose nustatyta tvarka. Jei yra priimtas sprendimas likviduoti ar reorganizuoti įmonę, ta įmonė turi parengti balansą ir pagal sprendimo priėmimo dienos duomenis, ir pagal likvidavimo bei reorganizavimo dienos duomenis.
+11. Finansinę atskaitomybę įmonės sudaro pagal finansinių metų paskutinės dienos duomenis. Įvykiai, buvę nuo finansinių metų pabaigos iki finansinės atskaitomybės parengimo, registruojami Verslo apskaitos standartuose nustatyta tvarka. Jei yra priimtas sprendimas likviduoti ar reorganizuoti įmonę, ta įmonė turi parengti balansą ir pagal sprendimo priėmimo dienos duomenis, ir pagal reorganizavimo dienos duomenis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1179, 2007-06-07, Žin., 2007, Nr. 68-2655 (2007-06-21), i. k. 1071010ISTA00X-1179
 
 12. Kai bendrųjų apskaitos principų ir kitų šio Įstatymo reikalavimų bei Verslo apskaitos standartų neužtenka, kad finansinė atskaitomybė tikrai ir teisingai parodytų įmonės finansinių metų turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir sąnaudas, turi būti pateikta papildoma informacija.
 
@@ -261,13 +269,19 @@ Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010IS
 
 1. Įmonės finansiniai metai trunka 12 mėnesių. Įmonės pasirenka finansinius metus atsižvelgdamos į savo veiklos pobūdį.
 
-2. Finansiniai metai gali būti keičiami dėl įmonės veiklos pobūdžio pasikeitimo (ne dažniau kaip vieną kartą per penkerius metus) arba dėl finansinės atskaitomybės konsolidavimo (šiuo atveju dukterinei įmonei leidžiama keisti finansinius metus ir suderinti su patronuojančios įmonės finansiniais metais).
+2. Finansiniai metai gali būti keičiami ne dažniau kaip vieną kartą per 5 metus. Ši nuostata netaikoma, jeigu įmonė keičia savo finansinius metus į finansinius metus, sutampančius su kalendoriniais metais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
 
-3. Įmonės, kuri pradeda ūkinę veiklą, yra reorganizuojama, likviduojama arba keičia finansinius metus, finansiniai metai gali būti trumpesni arba ilgesni negu 12 mėnesių, bet negali viršyti 18 mėnesių.
+Nr. X-1179, 2007-06-07, Žin., 2007, Nr. 68-2655 (2007-06-21), i. k. 1071010ISTA00X-1179
+
+3. Įmonės, kuri pradeda ūkinę veiklą, finansiniai metai yra laikotarpis nuo jos įsteigimo dienos iki finansinių metų pabaigos. Įmonės, kuri keičia savo finansinius metus, finansinių metų pabaiga yra naujų finansinių metų pabaiga, jei laikotarpis nuo finansinių metų pradžios iki naujų finansinių metų pabaigos yra ne ilgesnis nei aštuoniolika mėnesių. Jei šis laikotarpis yra ilgesnis nei aštuoniolika mėnesių, nustatomi pereinamieji finansiniai metai, kurių pradžia yra senų finansinių metų pabaiga, o pabaiga – naujų finansinių metų pradžia.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1179, 2007-06-07, Žin., 2007, Nr. 68-2655 (2007-06-21), i. k. 1071010ISTA00X-1179
 
 17 straipsnis. Klaidų taisymas
 
@@ -365,7 +379,11 @@ Nr. X-731, 2006-06-27, Žin., 2006, Nr. 78-3057 (2006-07-18), i. k. 1061010ISTA0
 
 2. Įmonės finansinės atskaitomybės ataskaitose turi būti išlaikyti pavyzdinėse ataskaitose pateiktų straipsnių pavadinimai, numeracija ir jų eilės tvarka.
 
-24 straipsnis. Finansinės atskaitomybės ataskaitų formos
+24 straipsnis. Finansinės atskaitomybės ataskaitos
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. X-1179, 2007-06-07, Žin., 2007, Nr. 68-2655 (2007-06-21), i. k. 1071010ISTA00X-1179
 
 1. Finansinėje atskaitomybėje gali būti pateiktas pilnas balansas, pilna pelno (nuostolių) ataskaita, pilnas aiškinamasis raštas arba trumpas balansas, trumpa pelno (nuostolių) ataskaita ir trumpas aiškinamasis raštas.
 
@@ -373,7 +391,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-731, 2006-06-27, Žin., 2006, Nr. 78-3057 (2006-07-18), i. k. 1061010ISTA000X-731
 
-2. Finansinės atskaitomybės pavyzdines ataskaitų formas nustato Verslo apskaitos standartai.
+2. Neteko galios nuo 2007-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. X-1179, 2007-06-07, Žin. 2007, Nr. 68-2655 (2007-06-21), i. k. 1071010ISTA00X-1179
 
 Straipsnio dalies pakeitimai:
 
@@ -538,6 +560,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-731, 2006-06-27, Žin., 2006, Nr. 78-3057 (2006-07-18), i. k. 1061010ISTA000X-731
 
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 1, 2, 3, 10, 11, 12, 19, 20, 23, 24, 25 straipsnių bei priedo pakeitimo ir papildymo ir Įstatymo papildymo 19(1) straipsniu bei ketvirtuoju(1) skirsniu įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1179, 2007-06-07, Žin., 2007, Nr. 68-2655 (2007-06-21), i. k. 1071010ISTA00X-1179
+
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 15, 16, 24 straipsnių pakeitimo įstatymas
 
 191 straipsnis. Metinės finansinės atskaitomybės auditas
 
