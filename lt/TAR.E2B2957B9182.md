@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2007-06-09"
+last_updated: "2007-07-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -154,24 +154,6 @@ straipsnis. Pagrindinės šio įstatymo sąvokos
 
 asmens ir visuomenės fizinė, dvasinė ir socialinė gerovė.
 
-2
-
-dalies redakcija iki 2007 m. liepos 1 d.:
-
-2. Visuomenės
-
-sveikatos sauga - organizacinių, techninių, socialinių, ekonominių ir teisinių
-
-priemonių, skirtų apsaugoti visuomenės ar atskirų jos grupių sveikatą nuo
-
-aplinkos veiksnių kenksmingo poveikio arba minimaliai sumažinti šio poveikio
-
-riziką, visuma.
-
-2
-
-dalies redakcija nuo 2007 m. liepos 1 d.:
-
 2. Visuomenės sveikatos sauga – organizacinių,
 
 ekonominių, socialinių, techninių ir teisinių priemonių, skirtų visuomenės ar
@@ -266,31 +248,11 @@ patarnavimų kokybę ir efektyvumą.
 
 12. Valstybės
 
-laiduojama (nemokama) asmens sveikatos priežiūra – asmens sveikatos priežiūros
+laiduojama (nemokama) asmens sveikatos priežiūra – asmens sveikatos
 
-paslaugos, apmokamos iš privalomojo sveikatos draudimo fondo, valstybės ar
+priežiūros paslaugos, apmokamos iš privalomojo sveikatos draudimo fondo,
 
-savivaldybių biudžetų.
-
-13
-
-ir 14 dalių redakcija iki 2007 m. liepos 1 d.:
-
-13. Medicininis
-
-auditas - sveikatos priežiūros paslaugų prieinamumo, ekonominio efektyvumo ir
-
-tinkamumo ekspertizė bei kontrolė.
-
-14. Lokalus
-
-medicininis auditas - sveikatos priežiūros įstaigų organizuotas ar užsakytas
-
-medicininis auditas.
-
-13
-
-ir 14 dalių redakcija nuo 2007 m. liepos 1 d.:
+valstybės ar savivaldybių biudžetų.
 
 13. Valstybinis
 
@@ -318,22 +280,6 @@ valstybinių tarnybų, kitų institucijų ir jų pareigūnų atliekami tarnybini
 
 veiksmai, turint tikslą:
 
-15
-
-dalies 1 punkto redakcija iki 2007 m. liepos 1 d.:
-
-1) kontroliuoti,
-
-kaip įmonės ir įstaigos, kiti juridiniai ir fiziniai asmenys laikosi visuomenės
-
-sveikatos saugos teisės aktų, bei taikyti įstatymų nustatytą atsakomybę už jų
-
-pažeidimus (tiesioginė valstybinė visuomenės sveikatos kontrolė);
-
-15
-
-dalies 1 punkto redakcija nuo 2007 m. liepos 1 d.:
-
 1) kontroliuoti,
 
 kaip juridiniai ir fiziniai asmenys laikosi visuomenės sveikatos saugos teisės
@@ -359,32 +305,6 @@ sveikatos saugos teisės aktų pažeidimus, jų socialines, ekonomines ir kitoki
 priežastis, taip pat apie visus kitus veiksnius, darančius įtaką visuomenės
 
 sveikatos saugos būklei (netiesioginė visuomenės sveikatos kontrolė).
-
-16
-
-ir 17 dalių redakcija iki 2007 m. liepos 1 d.:
-
-16. Visuomenės
-
-sveikatos monitoringas - visuomenės sveikatos veiksnių, įvykių, veiksnių poveikio
-
-visuomenės sveikatai, visuomenės sveikatos išteklių bei visuomenės sveikatos
-
-priežiūros procesų ir rezultatų stebėjimo (duomenų registravimo, kaupimo ir
-
-apdorojimo) sistema.
-
-17. Visuomenės
-
-sveikatos ekspertizė - visuomenės sveikatos veiksnių galimo ar esamo poveikio
-
-visuomenės sveikatai nustatymo bei išvadų ir pasiūlymų, kaip užkirsti kelią
-
-šiam poveikiui ar jį riboti, rengimo procesas.
-
-16
-
-ir 17 dalių redakcija nuo 2007 m. liepos 1 d.:
 
 16. Visuomenės sveikatos stebėsena (monitoringas) –
 
@@ -412,9 +332,9 @@ Nr. IX-2555,
 
 2004-11-09, Žin., 2004, Nr. 171-6309 (2004-11-26)
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 3
 
@@ -427,28 +347,6 @@ nustato:
 1) sveikatos
 
 teisės veikimo sritį, uždavinius ir principus;
-
-2
-
-punkto redakcija iki 2007 m. liepos 1 d.:
-
-2) sveikatinimo
-
-veiklos rūšių ir sveikatinimo veiklos subjektų sistemą, pagrindinių sveikatinimo
-
-veiklos valdymo subjektų kompetenciją, sveikatinimo veiklos koordinavimo,
-
-sveikatos priežiūros valstybinių tarnybų ir valstybinių inspekcijų, asmens ir
-
-visuomenės sveikatos priežiūros įstaigų bei farmacinės veiklos subjektų teises
-
-ir pareigas farmacinėje veikloje, jų steigimo, veiklos, jos nutraukimo
-
-teisinius pagrindus;
-
-2
-
-punkto redakcija nuo 2007 m. liepos 1 d.:
 
 2) sveikatinimo
 
@@ -514,20 +412,6 @@ sveikatos priežiūros sistemą, jos organizavimo, valdymo ir finansavimo bei
 
 visuomenės sveikatos priežiūros įgyvendinimo tvarką;
 
-11
-
-punkto redakcija iki 2007 m. liepos 1 d.:
-
-11) žmonių
-
-saugos darbe, darbo medicinos, vartotojų sveikatos saugos organizavimo ir
-
-valdymo teisinius pagrindus;
-
-11
-
-punkto redakcija nuo 2007 m. liepos 1 d.:
-
 11) darbuotojų
 
 saugos ir sveikatos, profesinės sveikatos priežiūros, vartotojų sveikatos
@@ -550,13 +434,13 @@ gerinimo teisinius pagrindus;
 
 14) narkotinių
 
-ir psichotropinių medžiagų, jų pirmtakų (prekursorių), alkoholio produktų, tabako
+ir psichotropinių medžiagų, jų pirmtakų (prekursorių), alkoholio produktų,
 
-ir jo gaminių gamybos, prekybos, importo, eksporto, licencijavimo, vartojimo
+tabako ir jo gaminių gamybos, prekybos, importo, eksporto, licencijavimo,
 
-kontrolės tvarką, alkoholinių gėrimų, tabako vartojimo mažinimo sistemą,
+vartojimo kontrolės tvarką, alkoholinių gėrimų, tabako vartojimo mažinimo
 
-alkoholinių gėrimų ir tabako reklamos ribojimo ar draudimo tvarką;
+sistemą, alkoholinių gėrimų ir tabako reklamos ribojimo ar draudimo tvarką;
 
 15) nuodų, kitų
 
@@ -573,20 +457,6 @@ tvarką;
 ligų profilaktikos sistemą, šių ligų profilaktikos ir kontrolės organizavimo ir
 
 valdymo teisinius pagrindus;
-
-17
-
-punkto redakcija iki 2007 m. liepos 1 d.:
-
-17) visuomenės
-
-sveikatos monitoringo, visuomenės sveikatos ekspertizės sąlygas, jų
-
-organizavimo bei valdymo teisinius pagrindus;
-
-17
-
-punkto redakcija nuo 2007 m. liepos 1 d.:
 
 17) visuomenės
 
@@ -678,9 +548,9 @@ Nr. X-298, 2005-06-30,
 
 Žin., 2005, Nr. 85-3142 (2005-07-14)
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 4
 
@@ -770,9 +640,9 @@ išrinktus savo atstovus;
 
 parama asmenims saugant, atgaunant ir stiprinant jų sveikatą;
 
-10) valstybės laiduojamos
+10) valstybės
 
-(nemokamos) sveikatos priežiūros nustatymas;
+laiduojamos (nemokamos) sveikatos priežiūros nustatymas;
 
 11) visų
 
@@ -908,9 +778,9 @@ veiklos valstybinio valdymo subjektai (Vyriausybė, ministerijos, kitos
 
 Vyriausybės įstaigos, apskričių viršininkai);
 
-2) sveikatinimo veiklos
+2) sveikatinimo
 
-koordinavimo institucijos;
+veiklos koordinavimo institucijos;
 
 3) sveikatinimo
 
@@ -988,9 +858,9 @@ vykdomųjų subjektų veiklai ir teikiamoms paslaugoms priskiriama:
 
 sveikatos priežiūra;
 
-2) visuomenės sveikatos
+2) visuomenės
 
-priežiūra;
+sveikatos priežiūra;
 
 3) farmacinė
 
@@ -1072,22 +942,6 @@ priežiūros lygiai yra:
 
 (tretinė sveikatos priežiūra).
 
-3
-
-dalies redakcija iki 2007 m. liepos 1 d.:
-
-3. Savivaldos
-
-vykdomosios institucijos organizuoja pirminę asmens ir visuomenės sveikatos
-
-priežiūrą. Pirminės sveikatos priežiūros organizavimo tvarką nustato Vyriausybė
-
-ar jos įgaliota institucija.
-
-3
-
-dalies redakcija nuo 2007 m. liepos 1 d.:
-
 3. Savivaldybių
 
 institucijos organizuoja pirminę asmens sveikatos priežiūrą. Savivaldybės
@@ -1108,36 +962,6 @@ funkciją - organizuoja antrinę asmens sveikatos priežiūrą, kurios mastą ir
 
 profilius nustato Sveikatos apsaugos ministerija.
 
-5
-
-ir 6 dalių redakcija iki 2007 m. liepos 1 d.:
-
-5. Apskričių
-
-viršininkai organizuoja Sveikatos apsaugos ministerijos nustatyto masto ir
-
-profilių antrinę asmens ir visuomenės sveikatos priežiūrą.
-
-6. Sveikatos
-
-apsaugos ministerija ir jai pavaldžios valstybės institucijos pagal
-
-kompetenciją organizuoja nustatyto masto asmens ir visuomenės sveikatos
-
-priežiūrą jai pavaldžiose LNSS įstaigose. Sveikatos priežiūros įstaigose, kurių
-
-steigėjos yra Krašto apsaugos ministerija arba Vidaus reikalų ministerija,
-
-nustatyto masto asmens sveikatos priežiūrą organizuoja atitinkamai Krašto
-
-apsaugos ministerija, Vidaus reikalų ministerija arba joms pavaldžios valstybės
-
-institucijos.
-
-5
-
-ir 6 dalių redakcija nuo 2007 m. liepos 1 d.:
-
 5. Apskričių viršininkai organizuoja Sveikatos
 
 apsaugos ministerijos nustatyto masto ir profilių antrinę asmens sveikatos
@@ -1148,19 +972,19 @@ priežiūros, Apskrities valdymo ir kitų įstatymų nustatyta tvarka.
 
 6. Sveikatos
 
-apsaugos ministerija ir jai pavaldžios valstybės institucijos pagal
+apsaugos ministerija ir jai pavaldžios valstybės institucijos pagal kompetenciją
 
-kompetenciją organizuoja nustatyto masto asmens ir visuomenės sveikatos
+organizuoja nustatyto masto asmens ir visuomenės sveikatos priežiūrą jai
 
-priežiūrą jai pavaldžiose LNSS įstaigose. Sveikatos priežiūros įstaigose, kurių
+pavaldžiose LNSS įstaigose. Sveikatos priežiūros įstaigose, kurių steigėjos yra
 
-steigėjos yra Krašto apsaugos ministerija, Teisingumo ministerija arba Vidaus
+Krašto apsaugos ministerija, Teisingumo ministerija arba Vidaus reikalų
 
-reikalų ministerija, nustatyto masto sveikatos priežiūrą organizuoja
+ministerija, nustatyto masto sveikatos priežiūrą organizuoja atitinkamai Krašto
 
-atitinkamai Krašto apsaugos ministerija, Teisingumo ministerija, Vidaus reikalų
+apsaugos ministerija, Teisingumo ministerija, Vidaus reikalų ministerija arba
 
-ministerija arba joms pavaldžios valstybės institucijos.
+joms pavaldžios valstybės institucijos.
 
 7. Tretinio LNSS
 
@@ -1178,9 +1002,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 1 straipsnis.
 
@@ -1944,22 +1768,6 @@ Valstybinė ir teritorinės ligonių kasos bei kitos LNSS ištekliais
 
 disponuojančios institucijos.
 
-2
-
-dalies redakcija iki 2007 m. liepos 1 d.:
-
-2. LNSS
-
-vykdomųjų subjektų kitos veiklos ir teikiamų paslaugų užsakovais gali būti ir
-
-kiti juridiniai bei fiziniai asmenys arba įmonės, neturinčios juridinio asmens
-
-teisių.
-
-2
-
-dalies redakcija nuo 2007 m. liepos 1 d.:
-
 2. LNSS
 
 vykdomųjų subjektų kitos veiklos ir teikiamų paslaugų užsakovais gali būti ir
@@ -1970,9 +1778,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 II DALIS
 
@@ -2024,18 +1832,6 @@ veiklos Lietuvos Respublikoje būtinosios sąlygos yra:
 
 verstis tam tikrų rūšių sveikatinimo veikla įgijimas;
 
-1
-
-dalies 2 punkto redakcija iki 2007 m. liepos 1 d.:
-
-2) asmens ir
-
-visuomenės sveikatos priežiūros prieinamumas, priimtinumas ir tinkamumas;
-
-1
-
-dalies 2 punkto redakcija nuo 2007 m. liepos 1 d.:
-
 2) asmens ir
 
 visuomenės sveikatos priežiūros prieinamumas, priimtinumas, teisumas ir
@@ -2062,9 +1858,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 16
 
@@ -2112,15 +1908,15 @@ kita sveikatinimo veikla, kurios rūšis ir reikalavimus ja besiverčiantiems
 
 subjektams nustato Sveikatos apsaugos ministerija, pripažįstama tik toms
 
-įmonėms ir įstaigoms, kuriose dirba gydytojai ar kiti sveikatos priežiūros
+įmonėms ir įstaigoms, kuriose dirba gydytojai ar kiti sveikatos priežiūros specialistai,
 
-specialistai, šio ir kitų įstatymų nustatyta tvarka įgiję teisę tokiai veiklai.
+šio ir kitų įstatymų nustatyta tvarka įgiję teisę tokiai veiklai. Fiziniai
 
-Fiziniai asmenys, kurie nėra sveikatos priežiūros specialistai ar neatitinka
+asmenys, kurie nėra sveikatos priežiūros specialistai ar neatitinka Sveikatos
 
-Sveikatos apsaugos ministerijos nustatytų reikalavimų, neturi teisės verstis
+apsaugos ministerijos nustatytų reikalavimų, neturi teisės verstis sveikatinimo
 
-sveikatinimo veikla.
+veikla.
 
 II SKYRIUS
 
@@ -2166,9 +1962,7 @@ dirbantys asmenys prieš pradėdami profesinę veiklą ir jos metu privalo
 
 pasitikrinti sveikatą. Šių profesijų, darbų, gamybos šakų ir barų sąrašą,
 
-asmenų sveikatos tikrinimo tvarką nustato Vyriausybė ar jos įgaliota
-
-institucija.
+asmenų sveikatos tikrinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 2. Sveikatos
 
@@ -2556,13 +2350,11 @@ Nr. IX-2360,
 
 straipsnis. Medicininė reabilitacija ir sanatorinis gydymas
 
-Pacientų
+Pacientų atrankos
 
-atrankos ir siuntimo į medicininės reabilitacijos ir sanatorinio gydymo
+ir siuntimo į medicininės reabilitacijos ir sanatorinio gydymo sveikatos
 
-sveikatos priežiūros įstaigas sąlygas ir tvarką nustato Sveikatos apsaugos
-
-ministerija.
+priežiūros įstaigas sąlygas ir tvarką nustato Sveikatos apsaugos ministerija.
 
 23 straipsnis.
 
@@ -2602,23 +2394,23 @@ Nr. IX-414, 2001-06-28, Žin., 2001, Nr.
 
 straipsnis. Socialinės paslaugos atliekant asmens sveikatos priežiūrą
 
-1. Socialinių
+1. Socialinių paslaugų
 
-paslaugų teikimas atliekant asmens sveikatos priežiūrą organizuojamas norint
+teikimas atliekant asmens sveikatos priežiūrą organizuojamas norint garantuoti
 
-garantuoti pacientų, vaikų ir pagyvenusių žmonių, neįgalių asmenų, kitų rizikos
+pacientų, vaikų ir pagyvenusių žmonių, neįgalių asmenų, kitų rizikos grupėms
 
-grupėms priklausančių asmenų socialinį saugumą, jų psichikos sveikatos
+priklausančių asmenų socialinį saugumą, jų psichikos sveikatos priežiūrą ir
 
-priežiūrą ir psichosocialinę reabilitaciją. Socialines paslaugas teikia asmens
+psichosocialinę reabilitaciją. Socialines paslaugas teikia asmens sveikatos
 
-sveikatos priežiūros įstaigų socialiniai darbuotojai.
+priežiūros įstaigų socialiniai darbuotojai.
 
-2. Socialinių paslaugų
+2. Socialinių
 
-teikimo sveikatos priežiūros įstaigose tvarką reglamentuoja įstatymai ir kiti
+paslaugų teikimo sveikatos priežiūros įstaigose tvarką reglamentuoja įstatymai
 
-teisės aktai.
+ir kiti teisės aktai.
 
 3. Sveikatos
 
@@ -2658,9 +2450,7 @@ pavadinimas keistas]
 
 straipsnis. Specializuotoji medicininė ekspertizė
 
-1. (neteko
-
-galios)
+1. (neteko galios)
 
 2.
 
@@ -2811,28 +2601,6 @@ III SKYRIUS
 VISUOMENĖS
 
 SVEIKATOS PRIEŽIŪRA
-
-31
-
-straipsnio redakcija iki 2007 m. liepos 1 d.:
-
-31
-
-straipsnis. Visuomenės sveikatos priežiūros visuotinumas
-
-Vykdyti
-
-visuomenės sveikatos priežiūrą, kuria siekiama ugdyti sveikatą, užkirsti kelią
-
-vartojimui skirtų produktų, maisto, geriamojo vandens, gyvenamosios, darbo ir
-
-gamtinės aplinkos kokybės blogėjimui, užkirsti kelią ligoms ir traumoms,
-
-sumažinti sergamumą, yra visų juridinių ir fizinių asmenų pareiga.
-
-31
-
-straipsnio redakcija nuo 2007 m. liepos 1 d.:
 
 29 straipsnis. Teismo psichiatrinė, teismo
 
@@ -3260,9 +3028,9 @@ III SKYRIUS
 
 VISUOMENĖS SVEIKATOS PRIEŽIŪRA
 
-31 straipsnis.
+31 straipsnis. Visuomenės
 
-Visuomenės sveikatos saugojimo ir stiprinimo visuotinumas
+sveikatos saugojimo ir stiprinimo visuotinumas
 
 Visi asmenys pagal galimybes turi rūpintis visuomenės
 
@@ -3278,9 +3046,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 32
 
@@ -3303,18 +3071,6 @@ propaganda visuomenės informavimo priemonėse;
 3) sveikatos
 
 mokymas;
-
-1
-
-dalies 4 punkto redakcija iki 2007 m. liepos 1 d.:
-
-4) šeimos
-
-planavimo konsultavimas.
-
-1
-
-dalies 4 punkto redakcija nuo 2007 m. liepos 1 d.:
 
 4) asmenų konsultavimas sveikatos saugos ir
 
@@ -3344,9 +3100,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 33
 
@@ -3376,33 +3132,15 @@ reikalavimai;
 
 licencijuojama ūkinė komercinė veikla;
 
-2
-
-dalies 3 punkto redakcija iki 2007 m. liepos 1 d.:
-
-3)
-
-licencijuojama juridinių ir fizinių asmenų, įmonių, neturinčių juridinio asmens
-
-teisių, asmens ar visuomenės sveikatos priežiūros veikla;
-
-2
-
-dalies 3 punkto redakcija nuo 2007 m. liepos 1 d.:
-
 3) licencijuojama juridinių ir fizinių asmenų asmens ar visuomenės sveikatos priežiūros veikla;
 
 4) nustatomos
 
 sanitarinės apsaugos zonos;
 
-5) nustatomos
+5) (neteko
 
-sveikatai kenksmingų prekių gamybos kvotos;
-
-2
-
-dalies 5 punktas netenka galios nuo 2007 m. liepos 1 d.
+galios nuo 2007 m. liepos 1 d.);
 
 6) atliekama
 
@@ -3422,10 +3160,6 @@ ir kitos įstatymų nustatytos ekonominio reguliavimo priemonės;
 
 įstatymų nustatyta atsakomybė už sveikatinimo veiklos teisės aktų pažeidimus;
 
-2
-
-dalis papildoma 10 punktu nuo 2007 m. liepos 1 d.:
-
 10) išduodami
 
 leidimai-higienos pasai.
@@ -3444,31 +3178,13 @@ skirtų produktų nekenksmingumo ir nepavojingumo sveikatai reikalavimus nustato
 
 Sveikatos apsaugos ministerija.
 
-4. Įmonės bei
+4. Neteko galios
 
-asmenys, kurie verčiasi Sveikatos apsaugos ministerijos nustatyto sąrašo ūkine
+nuo 2007 m. liepos 1 d.
 
-komercine veikla, privalo turėti leidimą - higienos pasą.
+5. Neteko galios
 
-4
-
-dalis netenka galios nuo 2007 m. liepos 1 d.
-
-5. Leidimo -
-
-higienos paso išdavimo tvarką bei atsisakymo jį išduoti pagrindus nustato
-
-Sveikatos apsaugos ministerija. Leidimus - higienos pasus išduoda Sveikatos
-
-apsaugos ministerijos įgaliotos valstybinės visuomenės sveikatos priežiūros
-
-įstaigos, taip pat įmonės, įstatymų nustatyta tvarka turinčios teisę atlikti
-
-visuomenės sveikatos saugos ekspertizę.
-
-5
-
-dalis netenka galios nuo 2007 m. liepos 1 d.
+nuo 2007 m. liepos 1 d.
 
 6. Visuomenės
 
@@ -3482,9 +3198,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 34
 
@@ -3512,20 +3228,6 @@ kurį lemia transportas, profilaktikos priemones ir turinį pagal kompetenciją
 
 nustato Susisiekimo, Sveikatos apsaugos, Vidaus reikalų ir kitos ministerijos.
 
-5
-
-dalies redakcija iki 2007 m. liepos 1 d.:
-
-5. Profesinių
-
-ligų ir nelaimingų atsitikimų darbe profilaktikos tvarką nustato Žmonių saugos
-
-darbe įstatymas, kiti įstatymai ir teisės aktai.
-
-5
-
-dalies redakcija nuo 2007 m. liepos 1 d.:
-
 5. Profesinių
 
 ligų ir nelaimingų atsitikimų darbe profilaktikos tvarką nustato Darbo
@@ -3538,9 +3240,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 35
 
@@ -3581,64 +3283,6 @@ sveikatai situacijų valdymo, kontrolės, neigiamų pasekmių visuomenės sveika
 ir ūkiui šalinimo priemonių bei jų finansavimo tvarką tvirtina Vyriausybė ar
 
 jos įgaliota institucija.
-
-36
-
-straipsnio redakcija iki 2007 m. liepos 1 d.:
-
-36
-
-straipsnis. Visuomenės sveikatos monitoringas ir ekspertizė
-
-1. Informacijos
-
-apie visuomenės sveikatą viešumas negali būti ribojamas ir ji negali būti
-
-laikoma valstybine ar komercine paslaptimi.
-
-2. Visuomenės
-
-sveikatai, jai darantiems poveikį veiksniams, šiam poveikiui stebėti,
-
-registruoti, kaupti apie tai informaciją Lietuvos Respublikoje vykdomas
-
-visuomenės sveikatos monitoringas.
-
-3. Valstybinį
-
-visuomenės sveikatos monitoringą organizuoja ar įstatymo nustatyta tvarka vykdo
-
-valstybės valdymo, savivaldos vykdomosios institucijos, įstaigos ir įmonės.
-
-4. Visuomenės
-
-sveikatos problemoms, visuomenės sveikatos monitoringo duomenims ir valdymo
-
-sprendimams įvertinti ir pagrįsti Lietuvos Respublikoje atliekama visuomenės
-
-sveikatos ekspertizė.
-
-5. Įmonės ir
-
-įstaigos, kurios verčiasi ūkine komercine veikla, keliančia pavojų ar darančia
-
-žalą visuomenės sveikatai, privalo teisės aktų nustatyta tvarka organizuoti
-
-visuomenės sveikatos monitoringą ir visuomenės sveikatos ekspertizę savo
-
-lėšomis. Tokių įmonių ir įstaigų sąrašus tvirtina Sveikatos apsaugos
-
-ministerija.
-
-6. Visuomenės
-
-sveikatos monitoringo ir ekspertizės tvarką reglamentuoja įstatymai ir kiti
-
-teisės aktai.
-
-36
-
-straipsnio redakcija nuo 2007 m. liepos 1 d.:
 
 32 straipsnis.
 
@@ -3838,9 +3482,9 @@ kontrolės, neigiamų pasekmių visuomenės sveikatai ir ūkiui šalinimo priemo
 
 bei jų finansavimo tvarką tvirtina Vyriausybė ar jos įgaliota institucija.
 
-36 straipsnis.
+36 straipsnis. Visuomenės
 
-Visuomenės sveikatos stebėsena (monitoringas)
+sveikatos stebėsena (monitoringas)
 
 Visuomenės
 
@@ -3852,9 +3496,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 37
 
@@ -3918,21 +3562,9 @@ prevencija ir ribojimu);
 
 radiacinės saugos kontrolė;
 
-8) valstybinė
+8) valstybinė maisto
 
-maisto ir ne maisto produktų saugos kontrolė;
-
-2
-
-dalies 9 punkto redakcija iki 2007 m. liepos 1 d.:
-
-9) valstybinė
-
-higienos kontrolė.
-
-2
-
-dalies 9 punkto redakcija nuo 2007 m. liepos 1 d.:
+ir ne maisto produktų saugos kontrolė;
 
 9) valstybinė
 
@@ -3948,15 +3580,15 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 III DALIS
 
-SVEIKATINIMO VEIKLOS
+SVEIKATINIMO
 
-VALSTYBINIS VALDYMAS
+VEIKLOS VALSTYBINIS VALDYMAS
 
 I SKYRIUS
 
@@ -4154,9 +3786,9 @@ Nr. IX-1110,
 
 programų finansavimas ir
 
-visuomeninių organizacijų sveikatos stiprinimo
+visuomeninių organizacijų sveikatos stiprinimo programų
 
-programų rėmimas
+rėmimas
 
 Privalomosios
 
@@ -4204,9 +3836,9 @@ savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšų;
 
 fizinių ir juridinių asmenų įmokos;
 
-5) kitos
+5) kitos teisėtai
 
-teisėtai įgytos lėšos.
+įgytos lėšos.
 
 3. Savivaldybių
 
@@ -4520,9 +4152,9 @@ straipsnis. Investicijos sveikatinimo veiklai ir jų skatinimas
 
 1.
 
-Investicijomis sveikatinimo veiklai laikomas lėšų skyrimas ir naudojimas sveikatos
+Investicijomis sveikatinimo veiklai laikomas lėšų skyrimas ir naudojimas
 
-priežiūros paslaugų asortimentui plėsti, naujoms sveikatos priežiūros
+sveikatos priežiūros paslaugų asortimentui plėsti, naujoms sveikatos priežiūros
 
 technologijoms įsigyti ir įdiegti, valstybinėms ir savivaldybių sveikatos
 
@@ -4542,11 +4174,11 @@ straipsnis. Sveikatinimo veiklos planavimas
 
 1. Seimas
 
-Vyriausybės teikimu tvirtina Lietuvos sveikatos programą, kurioje nurodomi sveikatinimo
+Vyriausybės teikimu tvirtina Lietuvos sveikatos programą, kurioje nurodomi
 
-veiklos tikslai, valstybės siekiamo sveikatos lygio rodikliai ir sveikatinimo
+sveikatinimo veiklos tikslai, valstybės siekiamo sveikatos lygio rodikliai ir
 
-veiklos strategijos jiems pasiekti.
+sveikatinimo veiklos strategijos jiems pasiekti.
 
 2. Lietuvos
 
@@ -4662,11 +4294,9 @@ donorystė.
 
 3. Valstybės
 
-laiduojamos sveikatos priežiūros mastai numatomi įvertinus gyventojų
+laiduojamos sveikatos priežiūros mastai numatomi įvertinus gyventojų demografinius,
 
-demografinius, sveikatos ir aplinkos kokybės rodiklius bei jų kitimo
-
-tendencijas.
+sveikatos ir aplinkos kokybės rodiklius bei jų kitimo tendencijas.
 
 Straipsnio pakeitimai:
 
@@ -5166,15 +4796,15 @@ papildomo mokesčio. Jei pacientai, turintys teisę į nemokamas asmens sveikato
 
 priežiūros paslaugas, savo iniciatyva pasirenka brangiau kainuojančias
 
-paslaugas, medžiagas, procedūras, tai šių paslaugų, medžiagų, procedūrų
+paslaugas, medžiagas, procedūras, tai šių paslaugų, medžiagų, procedūrų faktinių
 
-faktinių kainų ir nemokamų paslaugų, medžiagų, procedūrų bazinių kainų skirtumą
+kainų ir nemokamų paslaugų, medžiagų, procedūrų bazinių kainų skirtumą jie
 
-jie apmoka patys Sveikatos apsaugos ministerijos nustatyta tvarka. Jei
+apmoka patys Sveikatos apsaugos ministerijos nustatyta tvarka. Jei pacientai,
 
-pacientai, turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas,
+turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas, savo
 
-savo iniciatyva pasirenka papildomas paslaugas ar procedūras, šių paslaugų ar
+iniciatyva pasirenka papildomas paslaugas ar procedūras, šių paslaugų ar
 
 procedūrų kainą jie apmoka patys.
 
@@ -5214,13 +4844,13 @@ priežiūros ir farmacijos specialistai gali praktikuoti tik pagal įgytą
 
 specialybę. Įstatymų nustatytais atvejais arba kai asmens sveikatos priežiūros
 
-specialybė įtraukta į Lietuvos Respublikos Vyriausybės reglamentuojamų
+specialybė įtraukta į Lietuvos Respublikos Vyriausybės reglamentuojamų profesijų
 
-profesijų sąrašą, specialistai gali praktikuoti tik gavę licenciją.
+sąrašą, specialistai gali praktikuoti tik gavę licenciją. Specialybėms
 
-Specialybėms registruoti sudaromas sveikatos priežiūros ir farmacijos
+registruoti sudaromas sveikatos priežiūros ir farmacijos specialybių registras,
 
-specialybių registras, kurio tvarkytojas yra Sveikatos apsaugos ministerija.
+kurio tvarkytojas yra Sveikatos apsaugos ministerija.
 
 3. Sveikatos
 
@@ -5262,9 +4892,9 @@ ministerija ir Švietimo ir mokslo ministerija.
 
 priežiūros bei farmacijos specialistų kvalifikacijos kėlimo tvarką nustato
 
-Sveikatos apsaugos ministerija, derindama su profesinėmis sveikatos priežiūros ir
+Sveikatos apsaugos ministerija, derindama su profesinėmis sveikatos priežiūros
 
-farmacinės veiklos specialistų organizacijomis.
+ir farmacinės veiklos specialistų organizacijomis.
 
 3. Valstybės ir
 
@@ -5320,24 +4950,6 @@ sveikatos paslapties kriterijus nustato Sveikatos apsaugos ministerija.
 
 straipsnis. Medicininis ir visuomenės sveikatos priežiūros auditas
 
-1
-
-dalies redakcija iki 2007 m. liepos 1 d.:
-
-1. Kiekvienos
-
-asmens ar visuomenės sveikatos priežiūros įstaigos, įmonės, turinčios teisę
-
-vykdyti asmens ar visuomenės sveikatos priežiūrą, administracija privalo
-
-organizuoti lokalinį medicininį ar visuomenės sveikatos priežiūros auditą
-
-Sveikatos apsaugos ministerijos nustatyta tvarka.
-
-1
-
-dalies redakcija nuo 2007 m. liepos 1 d.:
-
 1. Kiekvienos
 
 asmens ar visuomenės sveikatos priežiūros įstaigos, įmonės, turinčios teisę
@@ -5362,9 +4974,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 54
 
@@ -5388,28 +5000,6 @@ straipsnis. Sveikatinimo veiklos mokslinių tyrimų organizavimo ir finansavimo
 
 ypatumai
 
-1
-
-dalies redakcija iki 2007 m. liepos 1 d.:
-
-1. Iš valstybės
-
-biudžeto finansuojamų biomedicininių ir visuomenės sveikatos tyrimų prioritetus
-
-nustato, tyrimus užsako, finansuoja ir jų kontrolę vykdo Sveikatos apsaugos
-
-ministerija. Biomedicininių ir visuomenės sveikatos tyrimų užsakovais gali būti
-
-ir kiti šiuos tyrimus inicijuojantys, finansuojantys, kontroliuojantys ir
-
-atsakingi už biomedicininio tyrimo vykdymą, jo pasekmes bei duomenų paskelbimą
-
-juridiniai, fiziniai asmenys ir įmonės, neturinčios juridinio asmens teisių.
-
-1
-
-dalies redakcija nuo 2007 m. liepos 1 d.:
-
 1. Iš valstybės
 
 biudžeto finansuojamų biomedicininių ir visuomenės sveikatos tyrimų prioritetus
@@ -5428,9 +5018,9 @@ juridiniai, fiziniai asmenys.
 
 atlikti biomedicininius tyrimus be Lietuvos bioetikos komiteto leidimo.
 
-Biomedicininių tyrimų etikos reikalavimus ir jų kontrolės tvarką nustato įstatymai
+Biomedicininių tyrimų etikos reikalavimus ir jų kontrolės tvarką nustato
 
-ir kiti teisės aktai.
+įstatymai ir kiti teisės aktai.
 
 3. Sveikatos
 
@@ -5438,9 +5028,11 @@ priežiūrai skirtos valstybės ir savivaldybių biudžetų lėšos gali būti
 
 naudojamos ir sveikatinimo veiklos moksliniams taikomiesiems tyrimams
 
-finansuoti. Sveikatinimo veiklos moksliniams fundamentiniams tyrimams finansuoti
+finansuoti. Sveikatinimo veiklos moksliniams fundamentiniams tyrimams
 
-naudojamos mokslui ir techninei pažangai skirtos valstybės biudžeto lėšos.
+finansuoti naudojamos mokslui ir techninei pažangai skirtos valstybės biudžeto
+
+lėšos.
 
 Straipsnio pakeitimai:
 
@@ -5448,9 +5040,9 @@ Nr. VIII-1672, 00.05.11, Žin., 2000,
 
 Nr.44-1245 (00.05.31)
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 52 straipsnis. Asmens
 
@@ -5702,9 +5294,9 @@ aktai.
 
 sveikatos programoms skirtų lėšų tvarka
 
-Gyventojų
+Gyventojų grupių,
 
-grupių, kurių sveikatai daro didelę įtaką sveikatos rizikos faktoriai, išskyrus
+kurių sveikatai daro didelę įtaką sveikatos rizikos faktoriai, išskyrus
 
 sveikatos rizikos faktorius, kuriuos lemia žalingi įpročiai, asmens ar
 
@@ -5732,11 +5324,11 @@ reklamos ribojimo ar draudimo tvarką nustato įstatymai ir kiti teisės aktai.
 
 2. Tabako ir jo
 
-gaminių reklama Lietuvos Respublikoje draudžiama. Alkoholio produktų ir
+gaminių reklama Lietuvos Respublikoje draudžiama. Alkoholio produktų ir alkoholinių
 
-alkoholinių gėrimų reklama ribojama ar draudžiama Alkoholio kontrolės įstatymo
+gėrimų reklama ribojama ar draudžiama Alkoholio kontrolės įstatymo nustatyta
 
-nustatyta tvarka.
+tvarka.
 
 3. Vaistų
 
@@ -6398,9 +5990,7 @@ apsaugos ministerija:
 
 1) steigia,
 
-reorganizuoja, likviduoja jos pavaldumui priskirtas įstaigas ir valdymo
-
-institucijas;
+reorganizuoja, likviduoja jos pavaldumui priskirtas įstaigas ir valdymo institucijas;
 
 2) analizuoja
 
@@ -6462,9 +6052,9 @@ kitos Vyriausybės įstaigos pagal kompetenciją:
 
 1) sustabdo,
 
-riboja ūkinių subjektų veiklą, kenkiančią sveikatai bei aplinkai, kai
+riboja ūkinių subjektų veiklą, kenkiančią sveikatai bei aplinkai, kai pažeidžiami
 
-pažeidžiami sveikatos priežiūros ar aplinkos apsaugos teisės aktų reikalavimai;
+sveikatos priežiūros ar aplinkos apsaugos teisės aktų reikalavimai;
 
 2) skelbia
 
@@ -6632,97 +6222,83 @@ Nr. IX-2555,
 
 2004-11-09, Žin., 2004, Nr. 171-6309 (2004-11-26)
 
-64
+64 straipsnis. Savivaldybės administracijos
 
-straipsnio redakcija iki 2007 m. liepos 1 d.:
-
-64 straipsnis. Savivaldybės mero ar savivaldybės
-
-valdybos kompetencija sveikatinimo
-
-veiklos
-
-klausimais
+direktoriaus kompetencija sveikatinimo veiklos klausimais
 
 Savivaldybės
 
-meras ar savivaldybės valdyba:
+administracijos direktorius:
 
-1) organizuoja
+1) organizuoja Lietuvos sveikatos programos,
 
-Lietuvos sveikatos programos, valstybinių sveikatos programų įgyvendinimą,
+valstybinių sveikatos programų įgyvendinimą, savivaldybės pirminės sveikatos
 
-savivaldybės pirminės sveikatos priežiūros plėtojimo programos, kitų
+priežiūros plėtojimo programos, kitų savivaldybės kompleksinių ir tikslinių
 
-savivaldybės kompleksinių ir tikslinių sveikatos programų projektų rengimą ir
+sveikatos programų projektų rengimą ir savivaldybės tarybos patvirtintų
 
-savivaldybės tarybos patvirtintų programų, sveikatinimo veiklos įstatymų, kitų
+programų, sveikatinimo veiklos įstatymų, kitų teisės aktų įgyvendinimą
 
-teisės aktų įgyvendinimą savivaldybės teritorijoje;
+savivaldybės teritorijoje;
 
-2) pagal
+2) pagal kompetenciją užtikrina valstybės laiduojamą
 
-kompetenciją užtikrina valstybės laiduojamą ir savivaldybės remiamą sveikatos
+ir savivaldybės remiamą sveikatos priežiūrą savivaldybės teritorijoje;
 
-priežiūrą savivaldybės teritorijoje;
+3) organizuoja pirminę sveikatos
 
-3) organizuoja
+priežiūrą ir vykdo valstybės deleguotą funkciją – organizuoja antrinę sveikatos
 
-pirminę sveikatos priežiūrą ir vykdo valstybės deleguotą funkciją – organizuoja
+priežiūrą;
 
-antrinę sveikatos priežiūrą;
+4) organizuoja savivaldybės tarybos patvirtintų
 
-4) organizuoja
+sanitarijos ir higienos taisyklių laikymosi kontrolę savivaldybės teritorijoje;
 
-savivaldybės tarybos patvirtintų sanitarijos ir higienos taisyklių laikymosi
+5) šio įstatymo ir kitų teisės aktų nustatyta
 
-kontrolę savivaldybės teritorijoje;
+tvarka sudaro sveikatinimo veiklos sutartis, teikia jas tvirtinti savivaldybės
 
-5) šio įstatymo
+tarybai ir kontroliuoja, kaip jų laikomasi;
 
-ir kitų teisės aktų nustatyta tvarka sudaro sveikatinimo veiklos sutartis,
+6) vykdo savivaldybės nuosavybei priklausančių
 
-teikia jas tvirtinti savivaldybės tarybai ir kontroliuoja, kaip jų laikomasi;
+pirminės sveikatos priežiūros įstaigų projektavimo, statybos, kapitalinio
 
-6) vykdo
+remonto užsakovo funkcijas;
 
-savivaldybės nuosavybei priklausančių pirminės sveikatos priežiūros įstaigų
+7) organizuoja savivaldybei pavaldžių pirminės
 
-projektavimo, statybos, kapitalinio remonto užsakovo funkcijas;
+sveikatos priežiūros įstaigų vidaus medicininį ir visuomenės sveikatos
 
-7) organizuoja
+priežiūros auditą;
 
-savivaldybei pavaldžių pirminės sveikatos priežiūros įstaigų medicininį ir
+8) organizuoja pacientų teisių įgyvendinimo
 
-visuomenės sveikatos priežiūros auditą;
+priežiūrą pirminio lygio asmens sveikatos priežiūros įstaigose;
 
-8) organizuoja
+9) įstatymų numatytais pagrindais neleidžia įmonėms
 
-pacientų teisių įgyvendinimo priežiūrą pirminio lygio asmens sveikatos
+verstis ūkine komercine veikla, nustatyta tvarka atšaukia juridiniams ir
 
-priežiūros įstaigose;
+fiziniams asmenims išduotas šios veiklos licencijas;
 
-9) įstatymų
+10) organizuoja alkoholio ir tabako reklamos
 
-numatytais pagrindais neleidžia įmonėms verstis ūkine komercine veikla,
+išorinėse reklamos priemonėse ribojimo ir draudimų laikymosi kontrolę;
 
-nustatyta tvarka atšaukia juridiniams ir fiziniams asmenims išduotas šios
+11) vykdo įstatymų ir kitų teisės aktų nustatytus
 
-veiklos licencijas;
+kitus sveikatinimo veiklos įgaliojimus.
 
-10) organizuoja
+Straipsnio
 
-alkoholio ir tabako reklamos išorinėse reklamos priemonėse ribojimo ir draudimų
+pakeitimai:
 
-laikymosi kontrolę;
+Nr. X-1151,
 
-11) vykdo
-
-įstatymų ir kitų teisės aktų nustatytus kitus sveikatinimo veiklos įgaliojimus.
-
-64
-
-straipsnio redakcija nuo 2007 m. liepos 1 d.:
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 65 straipsnis. Savivaldybės gydytojas ir jo
 
@@ -6836,63 +6412,67 @@ VEIKLOS KOORDINAVIMO SUBJEKTAI
 
 straipsnis. Nacionalinė sveikatos taryba
 
-1. Nacionalinė
+1.
 
-sveikatos taryba - tai Seimui atskaitinga sveikatos politikos koordinavimo
+Nacionalinė sveikatos taryba – Seimui atskaitinga sveikatos politikos vertinimo
 
-institucija. Nacionalinė sveikatos taryba sudaroma ir veikia pagal Seimo
+ir formavimo patariamoji institucija. Nacionalinė sveikatos taryba sudaroma ir
 
-patvirtintus nuostatus. Nacionalinę sveikatos tarybą sudaro: 1/3 Lietuvos
+veikia pagal Seimo patvirtintus nuostatus. Nacionalinę sveikatos tarybą sudaro
 
-savivaldybių asociacijos deleguotų savivaldybių bendruomenių sveikatos tarybų
+17 narių: savivaldybių bendruomenių sveikatos tarybų atstovai – 5; švietimo,
 
-atstovų, 1/3 visuomeninių organizacijų, ginančių visuomenės sveikatos
+socialinių reikalų, aplinkosaugos, ūkio specialistai – 4; visuomeninių
 
-interesus, atstovų, 1/3 visuomenės sveikatos priežiūros specialistų.
+organizacijų, ginančių visuomenės sveikatos interesus, atstovai – 3; visuomenės
 
-Nacionalinės sveikatos tarybos veikla yra finansuojama iš valstybės biudžeto.
+sveikatos priežiūros specialistai – 5, iš jų 3 mokslo ir studijų institucijų,
 
-2. Nacionalinė
+rengiančių sveikatos priežiūros specialistus, atstovai. Nacionalinės sveikatos
 
-sveikatos taryba koordinuoja:
+tarybos nariai dirba visuomeniniais pagrindais. Tarybos veikla yra finansuojama
 
-1) sveikatos
+iš valstybės biudžeto.
 
-ugdymo politiką;
+2. Nacionalinė sveikatos
 
-2) alkoholio
+taryba:
 
-kontrolės politiką;
+1) analizuoja,
 
-3) tabako
+vertina ir teikia pasiūlymus aktualiais sveikatos politikos klausimais;
 
-kontrolės politiką;
+2) skatina
 
-4) narkotinių ir
+sveikatos ugdymo politiką;
 
-psichotropinių medžiagų kontrolės ir narkomanijos prevencijos politiką;
+3) analizuoja ir teikia pasiūlymus Seimui,
 
-5) visuomenės
+Vyriausybei, ministerijoms alkoholio, tabako, narkotinių ir psichotropinių
 
-sveikatos saugos politiką;
+medžiagų kontrolės ir narkomanijos prevencijos klausimais;
 
-6) ligų
+4) vertina ir teikia išvadas bei pasiūlymus Seimui,
 
-profilaktikos ir kontrolės politiką.
+Vyriausybei, ministerijoms dėl gyventojų sveikatos būklės gerinimo;
 
-3. Nacionalinė
+5) dalyvauja
 
-sveikatos taryba teikia išvadas dėl valstybės siekiamo sveikatos lygio
+vertinant ir formuojant ligų profilaktikos ir kontrolės politiką.
 
-rodiklių, sveikatinimo veiklos tikslų, Lietuvos sveikatos programos bei kitų
+3. Nacionalinė sveikatos
 
-valstybinių sveikatos programų, pagal kompetenciją koordinuoja Lietuvos
+taryba teikia išvadas dėl valstybės siekiamo sveikatos lygio rodiklių,
 
-sveikatos programos įgyvendinimą, rengia ir kasmet teikia Seimui pranešimą apie
+sveikatinimo veiklos tikslų, Lietuvos sveikatos programos bei kitų valstybinių
 
-gyventojų sveikatos ir sveikatos politikos formavimo ir įgyvendinimo būklę,
+sveikatos programų, pagal kompetenciją analizuoja ir vertina Lietuvos sveikatos
 
-vykdo šio ir kitų įstatymų bei tarybos nuostatų jai priskirtas kitas funkcijas.
+programos įgyvendinimą, rengia ir kasmet teikia Seimui pranešimą apie gyventojų
+
+sveikatos ir sveikatos politikos formavimo ir įgyvendinimo būklę, atlieka šio
+
+ir kitų įstatymų bei Tarybos nuostatų jai priskirtas kitas funkcijas.
 
 4. Nacionalinė
 
@@ -6906,7 +6486,7 @@ organų, įmonių, įstaigų, organizacijų teisės aktų, programų projektus, 
 
 informaciją, reikalingą šiame įstatyme ir Tarybos nuostatuose numatytoms
 
-funkcijoms vykdyti;
+funkcijoms įgyvendinti;
 
 2) pagal
 
@@ -6926,9 +6506,25 @@ Vyriausybės įstaigoms;
 
 ekspertų komisijas Tarybos funkcijoms įgyvendinti.
 
-67(1 )straipsnis.
+Pastaba. Pagal šį įstatymą Nr. X-1269 naujos sudėties Nacionalinė
 
-Valstybinė psichikos sveikatos komisija prie Lietuvos Respublikos
+sveikatos taryba renkama 2008–2012 metų Seimo kadencijos pradžioje.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-1269,
+
+2007-07-04, Žin., 2007, Nr. 81-3327 (2007-07-21)
+
+67(1)
+
+straipsnis. Valstybinė psichikos sveikatos komisija prie Lietuvos
+
+Respublikos
 
 Vyriausybės
 
@@ -7212,9 +6808,9 @@ ekspertizės išvadas;
 
 3) pagal
 
-kompetenciją teikti siūlymus ministerijoms, kitoms Vyriausybės įstaigoms, apskričių
+kompetenciją teikti siūlymus ministerijoms, kitoms Vyriausybės įstaigoms,
 
-viršininkams, savivaldos vykdomosioms institucijoms;
+apskričių viršininkams, savivaldos vykdomosioms institucijoms;
 
 4) dalyvauti
 
@@ -7236,21 +6832,21 @@ straipsnis. Savivaldybės bendruomenės sveikatos taryba
 
 1. Savivaldybės
 
-bendruomenės sveikatos taryba - tai savarankiška sveikatinimo veiklos koordinavimo
+bendruomenės sveikatos taryba - tai savarankiška sveikatinimo veiklos
 
-institucija prie savivaldybės tarybos. Savivaldybės bendruomenės sveikatos
+koordinavimo institucija prie savivaldybės tarybos. Savivaldybės bendruomenės
 
-tarybą sudaro ir jos nuostatus tvirtina savivaldybės taryba. Savivaldybės
+sveikatos tarybą sudaro ir jos nuostatus tvirtina savivaldybės taryba.
 
-bendruomenės sveikatos tarybą sudaro: 1/3 savivaldybės paskirtų asmenų, 1/3
+Savivaldybės bendruomenės sveikatos tarybą sudaro: 1/3 savivaldybės paskirtų
 
-savivaldybės įmonių, įstaigų, organizacijų atstovų, 1/3 visuomeninių
+asmenų, 1/3 savivaldybės įmonių, įstaigų, organizacijų atstovų, 1/3
 
-organizacijų, ginančių visuomenės sveikatos interesus, atstovų. Savivaldybės
+visuomeninių organizacijų, ginančių visuomenės sveikatos interesus, atstovų.
 
-bendruomenės sveikatos tarybos veiklos programa yra finansuojama iš
+Savivaldybės bendruomenės sveikatos tarybos veiklos programa yra finansuojama
 
-savivaldybės biudžeto.
+iš savivaldybės biudžeto.
 
 2. Savivaldybės
 
@@ -7484,9 +7080,9 @@ kaip ūkiniai subjektai laikosi Tabako kontrolės ir Alkoholio kontrolės
 
 Straipsnio pakeitimai:
 
-Nr. IX-1841, 2003-11-20,
+Nr. IX-1841,
 
-Žin., 2003, Nr. 115-5195 (2003-12-10)
+2003-11-20, Žin., 2003, Nr. 115-5195 (2003-12-10)
 
 71
 
@@ -7632,9 +7228,9 @@ ministerijos
 
 1. Valstybinę
 
-teismo psichiatrijos tarnybą prie Sveikatos apsaugos ministerijos steigia ir
+teismo psichiatrijos tarnybą prie Sveikatos apsaugos ministerijos steigia ir jos
 
-jos nuostatus tvirtina Sveikatos apsaugos ministerija. Ši tarnyba yra juridinis
+nuostatus tvirtina Sveikatos apsaugos ministerija. Ši tarnyba yra juridinis
 
 asmuo. Jos veikla finansuojama iš valstybės biudžeto.
 
@@ -7796,11 +7392,9 @@ akreditavimo tarnyba prie Sveikatos apsaugos ministerijos:
 
 ir akredituoja įmones ir įstaigas sveikatos priežiūros veiklai;
 
-2) registruoja
+2) registruoja sveikatos
 
-sveikatos priežiūros įstaigas Valstybiniame sveikatos priežiūros įstaigų
-
-registre;
+priežiūros įstaigas Valstybiniame sveikatos priežiūros įstaigų registre;
 
 3) kartu su
 
@@ -7843,10 +7437,6 @@ atlieka privalomojo sveikatos draudimo lėšų naudojimo finansinę bei ekonomin
 analizę, teikia lėšas valstybės ir savivaldybių fondams, vykdo įstatymų ir
 
 ligonių kasų nuostatų nustatytas funkcijas.
-
-77
-
-straipsnio redakcija iki 2007 m. liepos 1 d.:
 
 76 straipsnis.
 
@@ -7904,73 +7494,15 @@ kompetencijai priskiriamą sveikatos priežiūros veiklą;
 
 numatytas kitas funkcijas.
 
-77 straipsnis. Valstybinė sveikatos priežiūros
-
-tarnyba prie Vidaus reikalų ministerijos
-
-bei
-
-Karo medicinos tarnybos valdyba prie Krašto apsaugos ministerijos
+77 straipsnis. Valstybinė sveikatos priežiūros tarnyba prie Vidaus reikalų ministerijos,                      Lietuvos kariuomenės karo medicinos tarnyba, Kalėjimų departamento prie                      Lietuvos Respublikos teisingumo ministerijos sveikatos priežiūros tarnyba,                      Laisvės atėmimo vietų sveikatos priežiūros įstaigos ir Kalėjimų                      departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžių                      laisvės atėmimo vietų sveikatos priežiūros tarnybos
 
 1. Valstybinę
 
-sveikatos priežiūros tarnybą prie Vidaus reikalų ministerijos steigia ir jos
+sveikatos priežiūros tarnybą prie Vidaus reikalų ministerijos steigia ir jos nuostatus
 
-nuostatus tvirtina Vidaus reikalų ministerija. Ši tarnyba yra juridinis asmuo.
+tvirtina Vyriausybė ar jos įgaliota Vidaus reikalų ministerija. Ši tarnyba yra
 
-Jos veikla finansuojama iš valstybės biudžeto.
-
-2. Karo
-
-medicinos tarnybos valdybą prie Krašto apsaugos ministerijos steigia ir jos
-
-nuostatus tvirtina Krašto apsaugos ministerija. Ši tarnyba yra juridinis asmuo.
-
-Jos veikla finansuojama iš valstybės biudžeto.
-
-3. Valstybinė
-
-sveikatos priežiūros tarnyba prie Vidaus reikalų ministerijos bei Karo
-
-medicinos tarnyba prie Krašto apsaugos ministerijos :
-
-1) įgyvendina
-
-šio bei kitų įstatymų Vidaus reikalų ministerijos bei Krašto apsaugos
-
-ministerijos specialiajai kompetencijai priskiriamą sveikatos priežiūros
-
-veiklą;
-
-2) vykdo
-
-įstatymų ir šių tarnybų nuostatuose numatytas kitas funkcijas.
-
-77
-
-straipsnio redakcija nuo 2007 m. liepos 1 d.:
-
-77
-
-straipsnis. Valstybinė sveikatos priežiūros tarnyba prie Vidaus reikalų
-
-ministerijos, Lietuvos kariuomenės karo medicinos tarnyba, Kalėjimų
-
-departamento prie Lietuvos Respublikos teisingumo ministerijos sveikatos
-
-priežiūros tarnyba, Laisvės atėmimo vietų sveikatos priežiūros įstaigos ir
-
-Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos
-
-pavaldžių laisvės atėmimo vietų sveikatos priežiūros tarnybos
-
-1. Valstybinę
-
-sveikatos priežiūros tarnybą prie Vidaus reikalų ministerijos steigia ir jos
-
-nuostatus tvirtina Vyriausybė ar jos įgaliota Vidaus reikalų ministerija. Ši
-
-tarnyba yra juridinis asmuo. Jos veikla finansuojama iš valstybės biudžeto.
+juridinis asmuo. Jos veikla finansuojama iš valstybės biudžeto.
 
 2. Lietuvos kariuomenės karo medicinos tarnybą
 
@@ -8044,9 +7576,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 78
 
@@ -8110,9 +7642,9 @@ priežiūros kokybės klausimais;
 
 nuostatų nustatytas kitas funkcijas.
 
-79 straipsnis. Valstybinė medicininio audito inspekcija
+79 straipsnis. Valstybinė medicininio audito
 
-prie Sveikatos apsaugos
+inspekcija prie Sveikatos apsaugos
 
 ministerijos
 
@@ -8184,11 +7716,9 @@ dėl bioetikos problemų sprendimo;
 
 4) kontroliuoja,
 
-ar asmens ir visuomenės sveikatos priežiūra atitinka medicinos etikos
+ar asmens ir visuomenės sveikatos priežiūra atitinka medicinos etikos reikalavimus,
 
-reikalavimus, ir prižiūri, kaip juridiniai asmenys laikosi bioetikos
-
-reikalavimų;
+ir prižiūri, kaip juridiniai asmenys laikosi bioetikos reikalavimų;
 
 5) teikia
 
@@ -8384,11 +7914,11 @@ sveikatai šioje aplinkoje;
 
 sveikatai saugias vartojimui skirtas žaliavas, gaminius, prekes ir paslaugas;
 
-3) gauti
+3) gauti informaciją
 
-informaciją apie sveikatos priežiūros įstaigas bei jų teikiamas sveikatos
+apie sveikatos priežiūros įstaigas bei jų teikiamas sveikatos priežiūros
 
-priežiūros paslaugas;
+paslaugas;
 
 4) gauti
 
@@ -8398,13 +7928,13 @@ informaciją apie savo sveikatą bei teisę į šios informacijos konfidencialum
 
 įstatymų ir teisės aktų numatytą sveikatos priežiūrą;
 
-6) nustatyta
+6) nustatyta tvarka
 
-tvarka pasirinkti sveikatos priežiūros specialistą, sveikatos priežiūros
+pasirinkti sveikatos priežiūros specialistą, sveikatos priežiūros įstaigą,
 
-įstaigą, sveikatos priežiūros rūšį arba jų atsisakyti, išskyrus įstatymuose
+sveikatos priežiūros rūšį arba jų atsisakyti, išskyrus įstatymuose numatytus
 
-numatytus atvejus;
+atvejus;
 
 7) gauti
 
@@ -8668,25 +8198,11 @@ kelią kylančiam pavojui aplinkai, riboti pavojų ir žalą aplinkai;
 
 5) saugoti
 
-žmones nuo per maistą ir geriamąjį vandenį plintančių užkrečiamųjų ligų,
+žmones nuo per maistą ir geriamąjį vandenį plintančių užkrečiamųjų ligų, invazijų,
 
-invazijų, taip pat apsinuodijimų maistu, įgyvendinti užkrečiamųjų ligų plitimą
+taip pat apsinuodijimų maistu, įgyvendinti užkrečiamųjų ligų plitimą
 
 ribojančias priemones;
-
-1
-
-dalies 6 punkto redakcija iki 2007 m. liepos 1 d.:
-
-6) nustatyta
-
-tvarka ir atvejais organizuoti ir apmokėti visuomenės sveikatos monitoringą ir
-
-visuomenės sveikatos ekspertizę;
-
-1
-
-dalies 6 punkto redakcija nuo 2007 m. liepos 1 d.:
 
 6) nustatyta
 
@@ -8714,9 +8230,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456
+Nr. X-1151,
 
-(2007-06-09)
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 VI DALIS
 
@@ -8732,7 +8248,9 @@ Nr. IX-2360,
 
 2004-07-13, Žin., 2004, Nr. 115-4283 (2004-07-24)
 
-VII DALIS
+VII
+
+DALIS
 
 BAIGIAMOSIOS
 
@@ -8982,11 +8500,11 @@ Respublika, bendradarbiaudama su kitomis valstybėmis ir tarptautinėmis
 
 organizacijomis sveikatinimo veiklos srityje, turi vadovautis šiais principais:
 
-1) užtikrinti, kad
+1) užtikrinti,
 
-Lietuvos Respublikos įmonės ir įstaigos savo ūkine komercine veikla nepadarytų
+kad Lietuvos Respublikos įmonės ir įstaigos savo ūkine komercine veikla
 
-žalos kitų valstybių teritorijoje gyvenantiems asmenims;
+nepadarytų žalos kitų valstybių teritorijoje gyvenantiems asmenims;
 
 2) teikti
 
@@ -9234,11 +8752,11 @@ SVEIKATOS
 
 SISTEMOS ĮSTATYMO 28, 29, 73 IR 74 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos
 
-kodeksu (Žin., 2000, Nr. 89-2741)
+baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
 
-ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y.
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y.
 
 nuo 2003 m. gegužės 1 d.
 
@@ -9392,7 +8910,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
+X-1151,
+
+2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 SVEIKATOS
 
@@ -9405,6 +8925,28 @@ SISTEMOS ĮSTATYMO 2, 3, 12, 13, 15, 31, 32, 33, 34, 36, 37, 53, 55, 64, 71, 77,
 išskyrus Įstatymo 15 straipsnį, kuris įsigalioja nuo 2008 m. sausio 1 d., ir
 
 Įstatymo 18 straipsnio 1 dalį.
+
+24.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1269, 2007-07-04,
+
+Žin., 2007, Nr. 81-3327 (2007-07-21)
+
+SVEIKATOS
+
+SISTEMOS ĮSTATYMO 67 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Pagal
+
+šį įstatymą naujos sudėties Nacionalinė sveikatos taryba renkama 2008–2012 metų
+
+Seimo kadencijos pradžioje.
 
 ***
 
@@ -9440,9 +8982,9 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2007-06-11)
+Aušra Bodin (2007-07-25)
 
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
 95 straipsnis.
 
