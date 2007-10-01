@@ -4,7 +4,7 @@ identifier: "TAR.07786E0929A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-18"
-last_updated: "2007-05-19"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ X skirsnis įsigalioja pradėjus galioti Lietuvos Respublikos Vyriausybės ir Eu
 ---
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2007-05-19 iki 2012-02-02
+Suvestinė redakcija nuo 2007-10-01 iki 2012-02-02
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
 
@@ -1130,4 +1130,16 @@ Suinteresuotas asmuo turi teisę pareikšti ieškinį, prašydamas teismo nustat
 Suinteresuotam asmeniui įrodžius, kad jo veikla nepažeidžia išduoto patento, teismas sprendimu nustato patento pažeidimo nebuvimo faktą.
 
 Patento savininkas apie iškeltą bylą dėl patento pažeidimo nebuvimo fakto nustatymo privalo informuoti visus licenciatus. Licenciatai turi teisę, jeigu licencinėje sutartyje nenumatyta kitaip, dalyvauti nagrinėjant šią bylą.
+
+381 straipsnis. Priverstinė licencija dėl farmacijos produktų
+
+Priverstines licencijas pagal 2006 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 816/2006 dėl patentų, susijusių su farmacijos produktų, eksportuojamų į šalis, turinčias problemų visuomenės sveikatos srityje, gamyba, priverstinio licencijavimo išduoda Vyriausybės įgaliota kompetentinga institucija.
+
+Papildyta straipsniu:
+
+Nr. X-1119, 2007-05-10, Žin., 2007, Nr. 55-2129 (2007-05-19), i. k. 1071010ISTA00X-1119
+
+VI SKIRSNIS
+
+PRIVERSTINĖ LICENCIJA
 
