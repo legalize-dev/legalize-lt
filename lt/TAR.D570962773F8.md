@@ -4,7 +4,7 @@ identifier: "TAR.D570962773F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-03"
-last_updated: "2006-07-19"
+last_updated: "2007-10-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 department: "Lietuvos Respublikos Seimas"
@@ -35,107 +35,203 @@ Vilnius
 
 Atmintinos dienos
 
-Nustatyti šias
+1. Atmintina
 
-atmintinas dienas:
+diena – reikšminga diena, susijusi su esminiais Lietuvos valstybingumo kūrimo
 
-1) sausio 1-oji – Lietuvos vėliavos diena;
+ir įtvirtinimo faktais ir (ar) įvykiais, visuotinių vertybių propagavimu, atminimo
 
-2) sausio 13-oji – Laisvės gynėjų diena;
+kultūros ir gyvosios istorijos išsaugojimu.
 
-3) sausio 15-oji – Klaipėdos krašto diena;
+2. Nustatyti šias atmintinas dienas:
 
-4) kovo 4-oji – Lietuvos globėjo šv. Kazimiero diena;
+1)
 
-5) kovo 8-oji – Tarptautinė moterų solidarumo diena;
+sausio 1-oji – Lietuvos vėliavos diena;
 
-6) kovo 20-oji – Žemės diena;
+2)
 
-7) kovo 29-oji – Lietuvos įstojimo į NATO diena;
+sausio 13-oji – Laisvės gynėjų diena;
 
-8) balandžio 6-oji – Saugaus eismo diena;
-
-9) balandžio 15-oji – Kultūros diena;
-
-10) balandžio 27-oji – Medicinos darbuotojų diena;
-
-11) gegužės 1-oji – Lietuvos įstojimo į Europos Sąjungą diena;
-
-12) gegužės 7-oji – Spaudos atgavimo, kalbos ir knygos diena;
-
-13) gegužės 8-oji – Antrojo pasaulinio karo aukų atminimo diena;
-
-14) gegužės 9-oji – Europos diena;
-
-15) gegužės 14-oji – Pilietinio pasipriešinimo diena;
-
-16) gegužės 15-oji – Steigiamojo Seimo susirinkimo diena, Tarptautinė
-
-šeimos diena;
-
-17) gegužės trečiasis sekmadienis – Partizanų pagerbimo, kariuomenės ir
-
-visuomenės vienybės diena;
-
-18) gegužės 25-oji – Tarptautinė dingusių vaikų diena;
-
-19) birželio 1-oji – Tarptautinė vaikų gynimo diena;
-
-20) birželio 3-ioji – Sąjūdžio diena;
-
-21) birželio pirmasis sekmadienis – Tėvo diena;
-
-22) birželio 14-oji – Gedulo ir vilties diena;
-
-23) birželio 15-oji – Okupacijos ir genocido diena;
-
-24) birželio 23-ioji – Birželio sukilimo diena;
-
-25) liepos 15-oji – Žalgirio mūšio diena;
-
-26) liepos paskutinis sekmadienis – Jūros diena;
-
-27) rugpjūčio 12-oji – Tarptautinė jaunimo diena;
-
-28) rugpjūčio 23-ioji – Juodojo kaspino ir Baltijos kelio diena;
-
-29) rugpjūčio 31-oji – Laisvės diena;
-
-30) rugsėjo 1-oji – Mokslo ir žinių diena;
-
-31) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto
-
-Didžiojo karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą
+3) sausio 15-oji – Klaipėdos krašto
 
 diena;
 
-32) rugsėjo 22-oji – Baltų vienybės diena;
+4) vasario 11-oji – Pasaulinė ligonių
 
-33) rugsėjo 23-ioji – Lietuvos žydų genocido diena;
+diena;
 
-34) rugsėjo 27-oji – Lietuvos socialinių darbuotojų diena;
+5) kovo 4-oji – Lietuvos globėjo šv.
 
-35) rugsėjo 28-oji – Tuskulėnų aukų atminimo diena;
+Kazimiero diena;
 
-36) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena;
+6) kovo 8-oji – Tarptautinė moterų
 
-37) spalio 5-oji – Tarptautinė mokytojų diena;
+solidarumo diena;
 
-38) spalio antrasis šeštadienis – Derliaus diena;
+7) kovo 20-oji – Žemės diena;
 
-39) spalio 16-oji – Mažosios Lietuvos gyventojų genocido diena;
+8)
 
-40) spalio 25-oji – Konstitucijos diena;
+kovo 29-oji – Lietuvos įstojimo į NATO diena;
 
-41) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena;
+9)
 
-42) lapkričio 23-ioji – Lietuvos kariuomenės diena;
+balandžio 6-oji – Saugaus eismo diena;
 
-43) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios
+10)
 
-Lietuvos akto diena;
+balandžio 7-oji – Pasaulinė sveikatos diena;
 
-44) gruodžio 10-oji – Tarptautinė žmogaus teisių diena.
+11)
+
+balandžio 15-oji – Kultūros diena;
+
+12)
+
+balandžio 27-oji – Medicinos darbuotojų diena;
+
+13)
+
+balandžio paskutinis sekmadienis – Pasaulinė gyvybės diena;
+
+14) gegužės 1-oji – Lietuvos įstojimo į
+
+Europos Sąjungą diena;
+
+15) gegužės 7-oji – Spaudos atgavimo,
+
+kalbos ir knygos diena;
+
+16) gegužės 8-oji – Antrojo pasaulinio
+
+karo aukų atminimo diena;
+
+17) gegužės 9-oji – Europos diena;
+
+18) gegužės 14-oji – Pilietinio
+
+pasipriešinimo diena;
+
+19) gegužės 15-oji – Steigiamojo Seimo
+
+susirinkimo diena, Tarptautinė šeimos diena;
+
+20) gegužės 17-oji – Pasaulinė informacinės visuomenės diena;
+
+21) gegužės trečiasis sekmadienis
+
+– Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
+
+22) gegužės 25-oji – Tarptautinė
+
+dingusių vaikų diena;
+
+23) birželio 1-oji – Tarptautinė vaikų
+
+gynimo diena;
+
+24)
+
+birželio 3-ioji – Sąjūdžio diena;
+
+25)
+
+birželio pirmasis sekmadienis – Tėvo diena;
+
+26) birželio 14-oji – Gedulo ir vilties
+
+diena;
+
+27)
+
+birželio 15-oji – Okupacijos ir genocido diena;
+
+28) birželio 23-ioji – Birželio sukilimo
+
+diena;
+
+29) liepos 15-oji – Žalgirio mūšio
+
+diena;
+
+30) liepos paskutinis sekmadienis –
+
+Jūros diena;
+
+31) rugpjūčio 12-oji – Tarptautinė
+
+jaunimo diena;
+
+32)
+
+rugpjūčio 23-ioji – Juodojo kaspino ir Baltijos kelio diena;
+
+33) rugpjūčio 31-oji – Laisvės diena;
+
+34) rugsėjo 1-oji – Mokslo ir žinių
+
+diena;
+
+35) rugsėjo 8-oji – Šilinė (Švč.
+
+Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už
+
+Lietuvos nepriklausomybės ir laisvės apgynimą diena;
+
+36) rugsėjo 22-oji – Baltų vienybės
+
+diena;
+
+37) rugsėjo 23-ioji – Lietuvos žydų
+
+genocido diena;
+
+38) rugsėjo 27-oji – Lietuvos socialinių
+
+darbuotojų diena;
+
+39) rugsėjo 28-oji – Tuskulėnų aukų
+
+atminimo diena;
+
+40)
+
+spalio 1-oji – Tarptautinė pagyvenusių žmonių diena;
+
+41)
+
+spalio 5-oji – Tarptautinė mokytojų diena;
+
+42)
+
+spalio 10-oji – Vietos savivaldos diena;
+
+43) spalio antrasis šeštadienis –
+
+Derliaus diena;
+
+44) spalio 16-oji – Mažosios Lietuvos
+
+gyventojų genocido diena;
+
+45) spalio 25-oji – Konstitucijos diena;
+
+46) lapkričio 2-oji – Mirusiųjų atminimo
+
+(Vėlinių) diena;
+
+47) lapkričio 23-ioji – Lietuvos
+
+kariuomenės diena;
+
+48) lapkričio 30-oji – Mažosios Lietuvos
+
+prisijungimo prie Didžiosios Lietuvos akto diena;
+
+49) gruodžio 10-oji – Tarptautinė
+
+žmogaus teisių diena.
 
 Straipsnio
 
@@ -204,6 +300,10 @@ Nr.
 X-797,
 
 2006-07-19, Žin., 2006, Nr. 87-3408 (2006-08-08)
+
+Nr. X-1286,
+
+2007-09-27, Žin., 2007, Nr. 105-4286 (2007-10-11)
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -339,9 +439,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1699, 2003-07-04,
+IX-1699,
 
-Žin., 2003, Nr. 74-3420 (2003-07-25)
+2003-07-04, Žin., 2003, Nr. 74-3420 (2003-07-25)
 
 ATMINTINŲ
 
@@ -407,13 +507,29 @@ ATMINTINŲ
 
 DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1286,
+
+2007-09-27, Žin., 2007, Nr. 105-4286 (2007-10-11)
+
+ATMINTINŲ
+
+DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2006-08-09)
+Aušrinė Trapinskienė (2007-10-11)
 
-ausra.bodin@lrs.lt
+autrap@lrs.lt
 
