@@ -4,7 +4,7 @@ identifier: "TAR.F789235C18BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-12-10"
-last_updated: "2007-02-08"
+last_updated: "2007-10-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
-Suvestinė redakcija nuo 2007-02-08 iki 2007-10-24
+Suvestinė redakcija nuo 2007-10-25 iki 2009-09-14
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
 
@@ -39,11 +39,13 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-1. Centralizuota vidaus audito tarnyba – viešojo juridinio asmens struktūrinis padalinys (skyrius, departamentas), įsteigtas atlikti vidaus auditą viešajame juridiniame asmenyje bei visuose jam pavaldžiuose ir (arba) jo valdymo sričiai priskirtuose viešuosiuose juridiniuose asmenyse.
+1. Centralizuota vidaus audito tarnyba – viešojo juridinio asmens struktūrinis padalinys (skyrius, departamentas), įsteigtas atlikti vidaus auditą viešajame juridiniame asmenyje bei visuose jam pavaldžiuose ir (arba) jo valdymo sričiai priskirtuose viešuosiuose juridiniuose asmenyse. Centralizuotai vidaus audito tarnybai šio įstatymo normos taikomos mutatis mutandis kaip ir vidaus audito tarnybai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-806, 2006-09-14, Žin., 2006, Nr. 107-4044 (2006-10-06), i. k. 1061010ISTA000X-806
+
+Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
 
 2. Finansų kontrolė – viešojo juridinio asmens vidaus kontrolės sistemos dalis, kurios dėka siekiama užtikrinti viešojo juridinio asmens ūkinės veiklos teisėtumą ir patikimo finansų valdymo principų – ekonomiškumo, efektyvumo, rezultatyvumo bei skaidrumo – laikymąsi.
 
@@ -141,15 +143,21 @@ VIDAUS AUDITAS
 
 6) ne rečiau kaip vieną kartą per trejus metus įvertinti, kaip vidaus kontrolė veikia viešajame juridiniame asmenyje.
 
-3. Vidaus audito tarnyba, prieš pateikdama viešojo juridinio asmens, jam pavaldžių arba jo reguliavimo sričiai priskirtų viešųjų juridinių asmenų vadovams vidaus audito ataskaitą, su šios ataskaitos projektu privalo supažindinti audituojamų viešojo juridinio asmens padalinių, jam pavaldžių arba jo reguliavimo sričiai priskirtų viešųjų juridinių asmenų vadovus ir su jais šį projektą aptarti.
+3. Vidaus audito tarnyba, prieš pateikdama viešojo juridinio asmens, jam pavaldžių arba jo valdymo sričiai priskirtų viešųjų juridinių asmenų vadovams vidaus audito ataskaitą, su šios ataskaitos projektu privalo supažindinti audituojamų viešojo juridinio asmens padalinių, jam pavaldžių arba jo valdymo sričiai priskirtų viešųjų juridinių asmenų vadovus ir su jais šį projektą aptarti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
 
 6 straipsnis. Vidaus audito tarnybos steigimas
 
-1. Vidaus audito tarnybos turi būti įsteigtos Respublikos Prezidento institucijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje, ministerijose ir apskričių viršininkų administracijose. Savivaldybėse turi būti įsteigtos centralizuotos vidaus audito tarnybos.
+1. Vidaus audito tarnybos arba centralizuotos vidaus audito tarnybos turi būti įsteigtos Respublikos Prezidento institucijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje, ministerijose ir apskričių viršininkų administracijose. Savivaldybėse turi būti įsteigtos centralizuotos vidaus audito tarnybos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010ISTA0IX-1766
+
+Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
 
 2. Viešuosiuose juridiniuose asmenyse, išskyrus šio straipsnio 1 dalyje nurodytus viešuosius juridinius asmenis, vidaus audito tarnyba turi būti įsteigta, jeigu juose patvirtinta ne mažiau kaip 200 pareigybių (etatų), įskaitant jiems pavaldžių arba jų valdymo sričiai priskirtų viešųjų juridinių asmenų patvirtintas pareigybes (etatus).
 
@@ -173,11 +181,19 @@ Nr. X-1049, 2007-01-18, Žin., 2007, Nr. 17-632 (2007-02-08), i. k. 1071010ISTA0
 
 2. Vidaus audito tarnybai neturi būti daromas poveikis, kai yra planuojamas ir atliekamas vidaus auditas ir pateikiami vidaus audito rezultatai.
 
-3. Suderinus su viešojo juridinio asmens vadovu, vidaus audito tarnybos vadovo sprendimu gali būti atliekamas vidaus audito tarnybos veiklos plane nenumatytas vidaus auditas.
+3. Vidaus audito tarnybos veiklos plane nenumatytas vidaus auditas gali būti atliekamas vidaus audito tarnybos vadovo sprendimu, raštu jį suderinus su viešojo juridinio asmens vadovu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
 
 4. Vidaus audito tarnybos veiklą reglamentuoja viešojo juridinio asmens vadovo patvirtinti nuostatai. Jie rengiami vadovaujantis Vyriausybės patvirtintais pavyzdiniais vidaus audito tarnybos nuostatais.
 
-5. Viešojo juridinio asmens vadovas, atleisdamas iš pareigų vidaus audito tarnybos vadovą arba nutraukdamas su juo darbo sutartį, apie atleidimą praneša Finansų ministerijai, nurodydamas priežastis, išskyrus atvejus, kai vidaus audito tarnybos vadovas atsistatydina savo noru arba nutraukia darbo sutartį pagal pareiškimą.
+5. Viešojo juridinio asmens vadovas, prieš atleisdamas iš pareigų vidaus audito tarnybos vadovą arba nutraukdamas su juo darbo sutartį, apie atleidimą praneša Finansų ministerijai, nurodydamas priežastis, išskyrus atvejus, kai vidaus audito tarnybos vadovas atsistatydina savo noru arba nutraukia darbo sutartį pareiškimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
 
 6. Vidaus audito tarnybos vadovas ir vidaus auditoriai negali dalyvauti valdant viešąjį juridinį asmenį, jam pavaldžius arba jo valdymo sričiai priskirtus viešuosius juridinius asmenis.
 
@@ -185,7 +201,11 @@ Nr. X-1049, 2007-01-18, Žin., 2007, Nr. 17-632 (2007-02-08), i. k. 1071010ISTA0
 
 1. Asmuo, priimamas į vidaus audito tarnybos vadovo pareigas, turi turėti:
 
-1) aukštąjį ekonominį, vadybinį arba teisinį universitetinį išsilavinimą;
+1) aukštąjį ekonominį, vadybinį, viešojo administravimo arba teisinį universitetinį išsilavinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
 
 2) ne mažesnę kaip 2 metų darbo patirtį audito arba vidaus audito srityje.
 
@@ -197,7 +217,11 @@ Nr. X-1049, 2007-01-18, Žin., 2007, Nr. 17-632 (2007-02-08), i. k. 1071010ISTA0
 
 2) atsižvelgiant į viešojo juridinio asmens veiklos specifiką, parengti ir teikti viešojo juridinio asmens vadovui tvirtinti vidaus audito tarnybos vidaus audito metodiką. Ši metodika turi būti parengta vadovaujantis finansų ministro patvirtinta pavyzdine Vidaus audito metodika;
 
-3) planuoti vidaus audito tarnybos veiklą, sudaryti strateginius ir metinius vidaus audito tarnybos veiklos planus, atsižvelgiant į atliktą viešojo juridinio asmens rizikos vertinimo analizę, juos raštu suderinti su viešojo juridinio asmens vadovu;
+3) planuoti vidaus audito tarnybos veiklą, sudaryti strateginius ir metinius vidaus audito tarnybos veiklos planus, atsižvelgiant į atliktą viešojo juridinio asmens rizikos vertinimo analizę, juos raštu suderinti su viešojo juridinio asmens vadovu. Vidaus audito tarnybos vadovas, planuodamas vidaus audito tarnybos veiklą, gali atsižvelgti į viešojo juridinio asmens, jam pavaldžių ir jo valdymo sričiai priskirtų viešųjų juridinių asmenų vadovų pasiūlymus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
 
 4) atstovauti viešajam juridiniam asmeniui kitose institucijose, įstaigose, įmonėse ir organizacijose vidaus audito klausimais;
 
@@ -301,21 +325,17 @@ Nr. X-944, 2006-12-05, Žin., 2006, Nr. 141-5390 (2006-12-28), i. k. 1061010ISTA
 
 3) koordinuoja viešųjų juridinių asmenų vidaus auditorių mokymą, kvalifikacijos kėlimą ir atestavimą.
 
-2. Viešieji juridiniai asmenys, nurodyti šio Įstatymo 6 straipsnio 1 dalyje, pateikia Valstybės kontrolei vidaus audito tarnybos metinius vidaus audito planus per 10 kalendorinių dienų po jų suderinimo su viešojo juridinio asmens vadovu ir metines vidaus audito tarnybos veiklos ataskaitas – iki kiekvienų metų vasario 1 dienos.
+2. Viešieji juridiniai asmenys, nurodyti šio Įstatymo 6 straipsnio 1 dalyje, pateikia Valstybės kontrolei vidaus audito tarnybos metinius vidaus audito planus per 10 kalendorinių dienų po jų suderinimo su viešojo juridinio asmens vadovu, o metines vidaus audito tarnybos veiklos ataskaitas – iki kiekvienų metų kovo 1 dienos.
 
-3. Įstatymo įsigaliojimas ir taikymas:
+Straipsnio dalies pakeitimai:
 
-1) šis Įstatymas, išskyrus 8 straipsnio 1 dalies 2 punktą, 10 straipsnio 8 punktą ir 11 straipsnio 4 dalį, įsigalioja nuo 2003 m. sausio 1 d.;
+Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
 
-2) šio Įstatymo 8 straipsnio 1 dalies 2 punktas ir 10 straipsnio 8 punktas įsigalioja nuo 2004 m. sausio 1 d.;
+3. Įstatymas be išlygų taikomas visiems viešiesiems juridiniams asmenims, išskyrus Lietuvos banką. Savivaldybių centralizuotų vidaus audito tarnybų veiklos specialiąsias normas nustato Lietuvos Respublikos vietos savivaldos įstatymas.
 
-3) šio Įstatymo 6 straipsnio 1 dalies nuostata dėl centralizuotų vidaus audito tarnybų įsteigimo savivaldybėse ir 10 straipsnio 7 punkto nuostata dėl savivaldybės administracijos direktoriaus atsakomybės už centralizuotos vidaus audito tarnybos įsteigimą savivaldybėje ir jos veikimą taikomos nuo 2004 m. sausio 1 d.;
+Straipsnio dalies pakeitimai:
 
-Straipsnio punkto pakeitimai:
-
-Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010ISTA0IX-1766
-
-4) šis Įstatymas be išlygų taikomas visiems viešiesiems juridiniams asmenims, išskyrus Lietuvos banką.
+Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
 
 4. Pasiūlyti Vyriausybei iki 2003 m. liepos 1 d. parengti ir pateikti Seimui įstatymų, reikalingų šio Įstatymo 11 straipsnio 3 dalies 3 punkte nurodytoms nuostatoms įgyvendinti, pakeitimo ir (arba) papildymo įstatymų projektus, taip pat parengti šiam Įstatymui įgyvendinti reikalingus įstatymų lydimuosius teisės aktus.
 
@@ -356,4 +376,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1049, 2007-01-18, Žin., 2007, Nr. 17-632 (2007-02-08), i. k. 1071010ISTA00X-1049
 
 Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
+
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 2, 5, 6, 7, 8 ir 11 straipsnių pakeitimo įstatymas
 
