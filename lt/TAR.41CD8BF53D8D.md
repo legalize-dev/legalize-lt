@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2007-09-27"
+last_updated: "2007-11-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -180,9 +180,9 @@ X-1155,
 
 Nr.
 
-X-1277,
+X-1277, 2007-09-18,
 
-2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
+Žin., 2007, Nr. 101-4107 (2007-09-27)
 
 5
 
@@ -212,9 +212,9 @@ nustatytų reikalavimų įvykdymui patikrinti.
 
 2. Konkrečius
 
-valstybės rinkliavos dydžius nustato Vyriausybė. Valstybės rinkliavos dydžiai
+valstybės rinkliavos dydžius nustato Vyriausybė. Valstybės rinkliavos dydžiai nustatomi
 
-nustatomi litais be centų.
+litais be centų.
 
 1 ir 2 dalių
 
@@ -1190,11 +1190,11 @@ civilinės būklės akte, išdavimą nuo valstybės rinkliavos atleidžiami:
 
 gimimo, mirties, įvaikinimo ir tėvystės nustatymo registravimą, už klaidų,
 
-padarytų registruojant civilinės būklės aktus, ištaisymą, taip pat už nepilnamečių
+padarytų registruojant civilinės būklės aktus, ištaisymą, taip pat už
 
-vaikų civilinės būklės aktų ištaisymą pasikeitus įrašams tėvų civilinės būklės
+nepilnamečių vaikų civilinės būklės aktų ištaisymą pasikeitus įrašams tėvų
 
-aktuose;
+civilinės būklės aktuose;
 
 2) asmenys už vardo, pavardės, tėvo
 
@@ -1202,9 +1202,9 @@ vardo pakeitimą, papildymą ir ištaisymą tikslinant įrašus, padarytus
 
 registruojant aktus okupacijų metais;
 
-3) Užsienio reikalų
+3) Užsienio
 
-ministerija už jai išduodamus metrikacijos liudijimų dublikatus.
+reikalų ministerija už jai išduodamus metrikacijos liudijimų dublikatus.
 
 2. Už išduodamus
 
@@ -1246,13 +1246,13 @@ dokumento bei vizos išdavimą ir pratęsimą;
 
 16 metų – už asmens be pilietybės kelionės dokumento, pabėgėlio kelionės
 
-dokumento ir užsieniečio paso išdavimą, už vizų išdavimą ir turimos vizos
+dokumento ir užsieniečio paso išdavimą, už vizų išdavimą ir turimos vizos galiojimo
 
-galiojimo laiko pratęsimą, už dokumentų išduoti
+laiko pratęsimą, už dokumentų išduoti leidimą
 
-leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos
+gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje
 
-Respublikoje išdavimą;
+išdavimą;
 
 4) užsieniečiai,
 
@@ -1320,9 +1320,7 @@ pratęsimą.
 
 redakcija nuo 2008 m. sausio 1 d.:
 
-6 straipsnis. Atleidimas nuo valstybės
-
-rinkliavos
+6 straipsnis. Atleidimas nuo valstybės rinkliavos
 
 Valstybės
 
@@ -1414,15 +1412,15 @@ vizą laiko pratęsimą, leidimų laikinai gyventi Lietuvos Respublikoje išdavi
 
 ir keitimą užsienio valstybių piliečiams, vykstantiems į Lietuvos Respubliką
 
-dalyvauti Respublikos Prezidento, Seimo, Vyriausybės, ministerijų, kitų
+dalyvauti Respublikos Prezidento, Seimo, Vyriausybės, ministerijų, kitų valstybės
 
-valstybės ar savivaldybių institucijų, įstaigų ar tarnybų organizuojamuose
+ar savivaldybių institucijų, įstaigų ar tarnybų organizuojamuose oficialiuose
 
-oficialiuose susitikimuose, labdaros bei organizuotos pagalbos Lietuvai
+susitikimuose, labdaros bei organizuotos pagalbos Lietuvai tikslais arba su
 
-tikslais arba su Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų,
+Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų, kurių narė yra
 
-kurių narė yra Lietuvos Respublika, atstovams;
+Lietuvos Respublika, atstovams;
 
 12) vizų išdavimą ir buvimo Lietuvos Respublikoje turint
 
@@ -1454,17 +1452,15 @@ brolių, seserų) laidotuves, kai pateikiamas šias aplinkybes patvirtinantis
 
 dokumentas;
 
-15) ilgalaikių vizų (D) išdavimą užsieniečiams,
+15) ilgalaikių vizų (D) išdavimą užsieniečiams, vykstantiems
 
-vykstantiems dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias,
+dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias, profesines ir
 
-profesines ir bendrojo lavinimo mokyklas, taip pat užsieniečiams,
+bendrojo lavinimo mokyklas, taip pat užsieniečiams, atvykstantiems studijuoti,
 
-atvykstantiems studijuoti, mokytis į Lietuvos Respublikos aukštąsias,
+mokytis į Lietuvos Respublikos aukštąsias, profesines ir bendrojo lavinimo
 
-profesines ir bendrojo lavinimo mokyklas pagal tarptautines sutartis ir
-
-susitarimus;
+mokyklas pagal tarptautines sutartis ir susitarimus;
 
 16) leidimo įvežti (išvežti) ginklus, leidimo vežti
 
@@ -1492,9 +1488,9 @@ išsiųstas, taip pat jeigu jo išsiuntimas iš Lietuvos Respublikos yra atidėt
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta
 
-tvarka, jis negali išvykti dėl pavojingos organizmo būklės ir jam reikia
+tvarka, jis negali išvykti dėl pavojingos organizmo būklės ir jam reikia neatidėliotinos
 
-neatidėliotinos medicinos pagalbos;
+medicinos pagalbos;
 
 18) civilinės
 
@@ -1502,19 +1498,19 @@ aviacijos specialisto licencijos išdavimą darbuotojams, papildomos
 
 kvalifikacijos suteikimą, civilinės aviacijos teorijos egzamino perlaikymą,
 
-skrydžio (praktinių gebėjimų) egzamino perlaikymą, civilinės
+skrydžio (praktinių gebėjimų) egzamino perlaikymą, civilinės aviacijos
 
-aviacijos specialisto licencijos (kvalifikacijos) galiojimo laiko pratęsimą,
+specialisto licencijos (kvalifikacijos) galiojimo laiko pratęsimą, civilinės
 
-civilinės aviacijos specialisto licencijos (kvalifikacijos) atnaujinimą,
+aviacijos specialisto licencijos (kvalifikacijos) atnaujinimą, pirmos, antros
 
-pirmos, antros ir trečios klasės sveikatos pažymėjimo išdavimą darbuotojams,
+ir trečios klasės sveikatos pažymėjimo išdavimą darbuotojams, kurie atlieka
 
-kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos
+valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos specialisto
 
-specialisto licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo
+licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo turėti
 
-turėti galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
+galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
 
 19) jūrininkų
 
@@ -1522,13 +1518,13 @@ knygelės (išduodamos pirmą kartą), jūrinio laipsnio kvalifikacijos, kovos s
 
 gaisrais kursų baigimo liudijimo, pirmosios medicinos pagalbos kursų baigimo,
 
-darbo su gelbėjimo plaustais, valtimis (išskyrus greitaeiges) kursų baigimo, laivo
+darbo su gelbėjimo plaustais, valtimis (išskyrus greitaeiges) kursų baigimo,
 
-gyvybingumo ir žmonių gyvybės išsaugojimo užtikrinimo kursų baigimo liudijimo,
+laivo gyvybingumo ir žmonių gyvybės išsaugojimo užtikrinimo kursų baigimo
 
-darbo tanklaiviuose įvadinių kursų baigimo liudijimų išdavimą mokymo įstaigų,
+liudijimo, darbo tanklaiviuose įvadinių kursų baigimo liudijimų išdavimą mokymo
 
-rengiančių jūrų transporto specialistus, dieninių skyrių studentams ir
+įstaigų, rengiančių jūrų transporto specialistus, dieninių skyrių studentams ir
 
 moksleiviams (mokiniams);
 
@@ -1578,9 +1574,41 @@ X-1155,
 
 Nr.
 
-X-1277, 2007-09-18,
+X-1277,
 
-Žin., 2007, Nr. 101-4107 (2007-09-27)
+2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
+
+Įstatymas
+
+papildomas 6(1) straipsniu nuo 2008 m. sausio 1 d.:
+
+6(1) straipsnis. Atleidimas
+
+nuo valstybės rinkliavos, kai yra sumokėtas konsulinis mokestis
+
+Nuo valstybės
+
+rinkliavos už paso išdavimą ar keitimą ir dokumento dėl teisės į Lietuvos
+
+Respublikos pilietybę išsaugojimo išdavimą ar keitimą yra atleidžiami asmenys,
+
+kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines
+
+atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį
+
+už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio
+
+įstatymo 3 straipsnio 1 dalies 4 ir 5 punktuose, atlikimą.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+X-1301,
+
+2007-10-18, Žin., 2007, Nr. 114-4632 (2007-11-08)
 
 7 straipsnio
 
@@ -1598,11 +1626,11 @@ dydį arba iš viso nuo jos atleisti tais atvejais, kai valstybės rinkliava
 
 įskaitoma į valstybės biudžetą. Savivaldybės taryba turi teisę savo biudžeto
 
-sąskaita paskiriems valstybės rinkliavos mokėtojams sumažinti valstybės
+sąskaita paskiriems valstybės rinkliavos mokėtojams sumažinti valstybės rinkliavos
 
-rinkliavos dydį arba iš viso nuo jos atleisti tais atvejais, kai valstybės
+dydį arba iš viso nuo jos atleisti tais atvejais, kai valstybės rinkliava
 
-rinkliava įskaitoma į tos savivaldybės biudžetą.
+įskaitoma į tos savivaldybės biudžetą.
 
 7 straipsnio
 
@@ -1834,9 +1862,9 @@ Savivaldybės
 
 taryba savo sprendimu:
 
-1) nustato
+1) nustato vietinę
 
-vietinę rinkliavą;
+rinkliavą;
 
 2) tvirtina
 
@@ -1870,9 +1898,7 @@ indeksuoti, taikydama metinį vartojimo kainų indeksą, jeigu jis didesnis negu
 
 1,1.
 
-IV
-
-SKYRIUS
+IV SKYRIUS
 
 RINKLIAVŲ
 
@@ -1954,9 +1980,9 @@ valstybės rinkliavos objektų sąrašą bei šios rinkliavos dydžius, taip pat
 
 patvirtina valstybės rinkliavos mokėjimo ir grąžinimo tvarką;
 
-2) iki šio įstatymo
+2) iki šio
 
-įsigaliojimo panaikina šiam įstatymui prieštaraujančias rinkliavas;
+įstatymo įsigaliojimo panaikina šiam įstatymui prieštaraujančias rinkliavas;
 
 3) pateikia
 
@@ -2106,7 +2132,9 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 7.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. X-431, 2005-12-08,
 
@@ -2170,13 +2198,33 @@ RINKLIAVŲ
 
 įstatymas, išskyrus 5 ir 6 straipsnius, įsigalioja nuo 2008 m. sausio 1 d.
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1301,
+
+2007-10-18, Žin., 2007, Nr. 114-4632 (2007-11-08)
+
+RINKLIAVŲ
+
+ĮSTATYMO PAPILDYMO 6(1) STRAIPSNIU ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2008 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2007-09-27)
+Aušrinė Trapinskienė (2007-11-08)
 
 autrap@lrs.lt
 
