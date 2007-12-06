@@ -4,7 +4,7 @@ identifier: "TAR.0F8C601D8592"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-09"
-last_updated: "2007-01-30"
+last_updated: "2007-12-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2007-01-30 iki 2007-12-05
+Suvestinė redakcija nuo 2007-12-06 iki 2010-11-22
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
+
+TAR pastaba. 2007-12-06 priimtas Europos Sąjungos Tarybos sprendimas, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, įsigaliojo 2007-12-08.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
+
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 2, 5, 8, 9, 11, 20, 26 straipsnių pakeitimo ir papildymo, 6 straipsnio pripažinimo netekusiu galios bei Įstatymo papildymo priedu įstatymas
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS SIENOS IR JOS APSAUGOS ĮSTATYMAS
 
@@ -132,7 +140,11 @@ Valstybės siena nustatoma ir keičiama Lietuvos Respublikos tarptautinėmis sut
 
 3) tiltais arba kitomis konstrukcijomis, einančiomis per upę (upelį), ežerą arba kitą vandens telkinį pagal šio statinio vidurį arba pagal jo technologinę ašį, neatsižvelgiant į tai, kaip valstybės siena eina vandeniu.
 
-5 straipsnis. Valstybės sienos kirtimo bendrieji reikalavimai
+5 straipsnis. Valstybės sienos kirtimo ir patikrinimo bendrieji reikalavimai
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
 
 1. Valstybės sieną sausumoje galima pereiti tik po patikrinimo pasienio kontrolės punkte.
 
@@ -140,7 +152,27 @@ Valstybės siena nustatoma ir keičiama Lietuvos Respublikos tarptautinėmis sut
 
 3. Asmenys, kertantys valstybės sieną, privalo turėti ir pateikti patikrinimą atliekančių valstybės institucijų pareigūnams galiojančius asmens dokumentus, suteikiančius teisę pereiti valstybės sieną, transporto priemonės, gabenamų prekių (daiktų) ir kitų vertybių dokumentus.
 
-4. Dokumentus, suteikiančius teisę kirsti valstybės sieną, nustato Lietuvos Respublikos įstatymai, Lietuvos Respublikos tarptautinės sutartys ir kiti teisės aktai.
+4. Dokumentus, suteikiančius teisę kirsti valstybės sieną, nustato Lietuvos Respublikos įstatymai, Europos Sąjungos teisės aktai, Lietuvos Respublikos tarptautinės sutartys ir kiti teisės aktai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
+
+5. Šio straipsnio 1 dalis netaikoma kertant vidaus sieną.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
+
+6. Šio straipsnio 1, 2, 3 ir 4 dalys taikomos:
+
+1) patikrinimo prie išorinės sienos metu;
+
+2) laikinai atnaujinus patikrinimą prie vidaus sienos siekiant užtikrinti viešąją tvarką, nacionalinį saugumą.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
 
 6 straipsnis. Neteko galios nuo 2007-01-30
 
