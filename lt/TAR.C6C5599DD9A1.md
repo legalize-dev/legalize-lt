@@ -4,7 +4,7 @@ identifier: "TAR.C6C5599DD9A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-10-28"
-last_updated: "2004-07-27"
+last_updated: "2007-12-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2004-07-27 iki 2007-12-14
+Suvestinė redakcija nuo 2007-12-15 iki 2009-12-27
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
 
@@ -107,6 +107,20 @@ BENDROSIOS NUOSTATOS
 
 3 straipsnis. Įstatymo taikymo sritis
 
+1. Šio Įstatymo 5 straipsnio 2 ir 4 dalys, 7 straipsnio 7 ir 9 dalys bei 10 ir 12 straipsniai netaikomi vykdant tarptautinius kredito pervedimus. Šio Įstatymo 6 straipsnio 2 dalis netaikoma vykdant kredito ir debeto pervedimus Lietuvos Respublikoje. Jeigu kredito įstaiga klientui suteikia galimybę sudaryti mokėjimo nurodymus elektroninėmis mokėjimo priemonėmis, vykdant kredito ir debeto pervedimus bei tarptautinius kredito pervedimus, kredito įstaigoms papildomai taikomi šio Įstatymo 17–21 straipsniuose nustatyti reikalavimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1351, 2007-12-05, Žin., 2007, Nr. 132-5355 (2007-12-15), i. k. 1071010ISTA00X-1351
+
+2. Šio Įstatymo nuostatos taikomos atliekant tarptautinius kredito pervedimus valstybių narių nacionalinėmis valiutomis ir eurais, kai ekvivalento sumos ne didesnės kaip 50000 eurų. Šie pervedimai atliekami norint pervesti lėšas gavėjui per vienos valstybės narės kredito įstaigą arba jos skyrių į kredito įstaigą arba jos skyrių kitoje valstybėje narėje. Pervedimus atlikti paveda kiti asmenys, o ne kredito įstaigos, draudimo įmonės, investicinės bendrovės ir finansų maklerio įmonės. Taikant šio Įstatymo 14, 15 ir 16 straipsnių reikalavimus, valstybės narės kredito įstaigos skyriai, teikiantys paslaugas skirtingose valstybėse narėse, laikomi savarankiškomis kredito įstaigomis.
+
+3. Šio Įstatymo nuostatos, išskyrus 13–16 straipsnius, taikomos atliekant ir kitus, nei nurodyta šio straipsnio 2 dalyje, tarptautinius kredito pervedimus. Šio Įstatymo 13–16 straipsnių nuostatos taikomos tada, kai kliento ir kredito įstaigos sutartis arba kredito įstaigos veiklos taisyklės nenustato ko kita.
+
+4. Šio Įstatymo 17–21 straipsniuose nustatyti reikalavimai kredito įstaigoms netaikomi, kai jos elektronines mokėjimo priemones suteikia kitoms kredito įstaigoms, draudimo įmonėms, investicinėms bendrovėms ir finansų maklerio įmonėms.
+
+5. Šis Įstatymas netaikomas, kai Civilinio proceso kodekso ir (arba) kitų teisės aktų nustatyta tvarka vykdomas priverstinis lėšų išieškojimas (nurašymas) iš kredito įstaigoje esančios mokėtojo sąskaitos.
+
 4 straipsnis. Mokėjimų tvarka
 
 1. Mokėjimai grynaisiais pinigais atliekami mokėtojo ir gavėjo susitarimu nustatytomis sąlygomis ir tvarka.
@@ -117,15 +131,15 @@ ANTRASIS SKIRSNIS
 
 KREDITO IR DEBETO PERVEDIMŲ ATLIKIMAS
 
-1. Šio Įstatymo 5 straipsnis, 7 straipsnio 7 ir 9 dalys bei 10 ir 12 straipsniai netaikomi vykdant tarptautinius kredito pervedimus. Šio Įstatymo 6 straipsnio 2 dalis netaikoma vykdant kredito ir debeto pervedimus Lietuvos Respublikoje. Jeigu kredito įstaiga klientui suteikia galimybę sudaryti mokėjimo nurodymus elektroninėmis mokėjimo priemonėmis, vykdant kredito ir debeto pervedimus bei tarptautinius kredito pervedimus, kredito įstaigoms papildomai taikomi šio Įstatymo 17–21 straipsniuose nustatyti reikalavimai.
+5 straipsnis. Mokėjimo nurodymų vykdymo bendrosios sąlygos
 
-2. Šio Įstatymo nuostatos taikomos atliekant tarptautinius kredito pervedimus valstybių narių nacionalinėmis valiutomis ir eurais, kai ekvivalento sumos ne didesnės kaip 50000 eurų. Šie pervedimai atliekami norint pervesti lėšas gavėjui per vienos valstybės narės kredito įstaigą arba jos skyrių į kredito įstaigą arba jos skyrių kitoje valstybėje narėje. Pervedimus atlikti paveda kiti asmenys, o ne kredito įstaigos, draudimo įmonės, investicinės bendrovės ir finansų maklerio įmonės. Taikant šio Įstatymo 14, 15 ir 16 straipsnių reikalavimus, valstybės narės kredito įstaigos skyriai, teikiantys paslaugas skirtingose valstybėse narėse, laikomi savarankiškomis kredito įstaigomis.
+1. Kredito įstaigos vykdo klientų mokėjimo nurodymus kredito ir debeto pervedimus atlikti kliento ir kredito įstaigos banko sąskaitos sutartyje ir (ar) kredito įstaigos veiklos taisyklėse nustatytomis sąlygomis. Banko sąskaitos sutartyje ir kredito įstaigos veiklos taisyklėse negali būti sąlygų, kurios pablogintų kliento padėtį, palyginti su ta, kurią nustato šis Įstatymas.
 
-3. Šio Įstatymo nuostatos, išskyrus 13–16 straipsnius, taikomos atliekant ir kitus, nei nurodyta šio straipsnio 2 dalyje, tarptautinius kredito pervedimus. Šio Įstatymo 13–16 straipsnių nuostatos taikomos tada, kai kliento ir kredito įstaigos sutartis arba kredito įstaigos veiklos taisyklės nenustato ko kita.
+2. Kredito įstaigos bendru susitarimu gali patvirtinti mokėjimo nurodymų vykdymo tarp kredito įstaigų Lietuvos Respublikoje tvarką, tačiau ši tvarka negali sumažinti šiame Įstatymo skirsnyje nustatytų kredito įstaigų įsipareigojimų klientams.
 
-4. Šio Įstatymo 17–21 straipsniuose nustatyti reikalavimai kredito įstaigoms netaikomi, kai jos elektronines mokėjimo priemones suteikia kitoms kredito įstaigoms, draudimo įmonėms, investicinėms bendrovėms ir finansų maklerio įmonėms.
+3. Būtini mokėjimo nurodymo turinio rekvizitai: lėšų suma, jos mokėtojas ir gavėjas bei mokėtojo ir gavėjo sąskaitos kredito įstaigoje. Kai mokėtojas įmoka į mokėtojo kredito įstaigą grynuosius pinigus, jo sąskaita mokėjimo nurodyme nenurodoma. Kredito įstaigos bendru susitarimu gali nustatyti ir kitus Lietuvos Respublikoje naudojamų mokėjimo nurodymų turinio rekvizitus, o raštu sudaromiems mokėjimo nurodymams gali nustatyti vienodą formą. Mokėjimo nurodymo forma ir turinys turi atitikti šio Įstatymo ir kredito įstaigų veiklos taisyklių nustatytus reikalavimus.
 
-5. Šis Įstatymas netaikomas, kai Civilinio proceso kodekso ir (arba) kitų teisės aktų nustatyta tvarka vykdomas priverstinis lėšų išieškojimas (nurašymas) iš kredito įstaigoje esančios mokėtojo sąskaitos.
+4. Žemės ūkio produkcijos pirkėjų mokėjimo nurodymuose, be šio straipsnio 3 dalyje išvardytų rekvizitų, nurodomi ir Atsiskaitymo už žemės ūkio produkciją įstatyme nustatyti rekvizitai.
 
 6 straipsnis. Informavimas apie mokėjimo nurodymų vykdymą
 
@@ -462,4 +476,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2404, 2004-07-15, Žin., 2004, Nr. 116-4336 (2004-07-27), i. k. 1041010ISTA0IX-2404
 
 Lietuvos Respublikos mokėjimų įstatymo 7 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1351, 2007-12-05, Žin., 2007, Nr. 132-5355 (2007-12-15), i. k. 1071010ISTA00X-1351
+
+Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio pakeitimo įstatymas
 
