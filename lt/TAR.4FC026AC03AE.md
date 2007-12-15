@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2007-05-29"
+last_updated: "2007-12-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -3298,6 +3298,8 @@ pat laikinojo nedarbingumo pažymėjimo išdavimo tvarką reglamentuoja valstybi
 
 socialinio draudimo santykius reglamentuojantys teisės aktai.
 
+3, 4 ir 5 dalių redakcija iki 2008 m. sausio 1 d.:
+
 3. Laikinojo
 
 nedarbingumo bei nėštumo ir gimdymo atostogų laikotarpiu pareigūnams mokamas
@@ -3334,6 +3336,92 @@ nustatyti, jeigu yra neįgalumo požymių, sveikata tikrinama Centrinėje medici
 
 ekspertizės komisijoje.
 
+3 dalis pakeičiama, straipsnis
+
+papildomas nauja 4 dalimi, buvusi 4 dalis laikoma 5 dalimi ir ji pakeičiama,
+
+buvusi 5 dalis laikoma 6 dalimi nuo 2008 m. sausio 1 d.:
+
+*3. Laikinojo
+
+nedarbingumo bei nėštumo ir gimdymo atostogų laikotarpiu pareigūnams mokamas
+
+vidutinis jų darbo užmokestis, o vaiko priežiūros atostogų laikotarpiu nuo
+
+nėštumo ir gimdymo atostogų pabaigos, kol vaikui sueis vieni metai, – 100
+
+procentų, o kol vaikui sueis dveji metai, – 85 procentai Vyriausybės nustatyta
+
+tvarka apskaičiuoto vidutinio jų darbo užmokesčio. Jeigu pareigūnui gimsta du
+
+ir daugiau vaikų ir jis yra šių vaikų priežiūros atostogose, jam apskaičiuotas
+
+vidutinis darbo užmokestis didinamas atsižvelgiant į vienu metu gimusių vaikų
+
+skaičių (gimus dvynukams – 2 kartus, gimus trynukams – 3 kartus ir t. t.).
+
+Išmoka už nėštumo ir gimdymo laikotarpį didinama tokia pat tvarka. Kai
+
+pareigūnei, gaunančiai išmoką vaiko priežiūros atostogų laikotarpiu,
+
+suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti išmoką nėštumo
+
+ir gimdymo atostogų laikotarpiu, jai mokamos abi šios išmokos.
+
+4. Jeigu
+
+pareigūnas, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui
+
+sueis dveji metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį darbo
+
+užmokestį, nurodytą šio straipsnio 3 dalyje, laikotarpiu, kol vaikui sueis
+
+dveji metai, jam mokamas šio vidutinio darbo užmokesčio ir jo gaunamo
+
+atitinkamo mėnesio darbo užmokesčio skirtumas.
+
+5. Tėvystės
+
+atostogų laikotarpiu pareigūnui mokamas Vyriausybės nustatyta tvarka
+
+apskaičiuotas vidutinis jo darbo užmokestis, jeigu jis pripažino tėvystę.
+
+6. Pareigūnų,
+
+kai jų laikinojo nedarbingumo trukmė atitinka nedarbingumo pažymėjimų išdavimo
+
+tvarkoje nustatytus maksimalius terminus arba anksčiau, nei šie terminai
+
+nustatyti, jeigu yra neįgalumo požymių, sveikata tikrinama Centrinėje medicinos
+
+ekspertizės komisijoje.
+
+*Pastaba. Įsigaliojus šiam
+
+įstatymui (Nr.
+
+X-1344), Vidaus
+
+tarnybos pareigūnams iki tol mokamas vidutinis darbo užmokestis pagal Lietuvos
+
+Respublikos vidaus tarnybos statuto 41 straipsnio 3 dalį, vadovaujantis
+
+šio įstatymo nuostatomis, atitinkamai perskaičiuojamas, padidinamas ir (ar)
+
+pratęsiamas jo mokėjimo laikotarpis.
+
+Vidaus tarnybos
+
+pareigūnams, esantiems vaiko priežiūros atostogose (nepaisant to, ar vaiko
+
+priežiūros atostogos tęsiamos, ar suteikiamos iš naujo), kuriems vidutinio
+
+darbo užmokesčio mokėjimo laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo
+
+vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams)
+
+dar nėra suėję dveji metai.
+
 Straipsnio pakeitimai:
 
 Nr. IX-2526,
@@ -3355,6 +3443,12 @@ Nr.
 X-804,
 
 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
+
+Nr.
+
+X-1344,
+
+2007-12-04, Žin., 2007, Nr. 132-5352 (2007-12-15)
 
 42 straipsnis. Pareigūnų medicininės reabilitacijos,
 
@@ -3408,11 +3502,11 @@ straipsnis. Profesinių sąjungų veiklos ypatumai
 
 stoti į jas savo interesams ginti.
 
-2. Vidaus reikalų
+2. Vidaus
 
-įstaigos vadovas ir jo pavaduotojas negali būti vidaus reikalų įstaigoje
+reikalų įstaigos vadovas ir jo pavaduotojas negali būti vidaus reikalų
 
-veikiančios profesinės sąjungos nariais.
+įstaigoje veikiančios profesinės sąjungos nariais.
 
 3. Profesinių
 
@@ -3426,19 +3520,17 @@ užtikrinti žmogaus teises ir viešąjį saugumą.
 
 4. Profesinių sąjungų nariams (išskyrus išimtį, nustatytą šio
 
-straipsnio 5 dalyje ir šio Statuto 53 straipsnio 1 dalies 13 punkte) negali
+straipsnio 5 dalyje ir šio Statuto 53 straipsnio 1 dalies 13 punkte) negali būti
 
-būti taikomos tarnybinės nuobaudos ir atleidimas iš vidaus tarnybos dėl jų
+taikomos tarnybinės nuobaudos ir atleidimas iš vidaus tarnybos dėl jų narystės
 
-narystės profesinėse sąjungose, dėl atstovavimo vidaus reikalų įstaigų
+profesinėse sąjungose, dėl atstovavimo vidaus reikalų įstaigų profesinių
 
-profesinių sąjungų nariams arba dėl veiklos profesinėse sąjungose. Skiriant
+sąjungų nariams arba dėl veiklos profesinėse sąjungose. Skiriant tarnybines
 
-tarnybines nuobaudas, išskyrus tarnybinę nuobaudą – atleidimą iš vidaus
+nuobaudas, išskyrus tarnybinę nuobaudą – atleidimą iš vidaus tarnybos, taip pat
 
-tarnybos, taip pat reikalingas išankstinis profesinės sąjungos renkamojo organo
-
-sutikimas.
+reikalingas išankstinis profesinės sąjungos renkamojo organo sutikimas.
 
 5. Pareigūnas, išrinktas į renkamuosius vidaus reikalų įstaigos
 
@@ -3450,17 +3542,17 @@ profesinė sąjunga sudaro darbo sutartį.
 
 sąjungų nariai, atleisti iš vidaus tarnybos dėl išrinkimo į renkamąsias
 
-pareigas profesinių sąjungų organizacijose, pasibaigus renkamųjų pareigų įgaliojimams,
+pareigas profesinių sąjungų organizacijose, pasibaigus renkamųjų pareigų
 
-jų prašymu grąžinami į iki jų išrinkimo eitas pareigas, o jeigu jų nėra, – į
+įgaliojimams, jų prašymu grąžinami į iki jų išrinkimo eitas pareigas, o jeigu
 
-kitas lygiavertes pareigas toje pačioje arba šio asmens sutikimu kitoje vidaus
+jų nėra, – į kitas lygiavertes pareigas toje pačioje arba šio asmens sutikimu
 
-reikalų įstaigoje. Šie asmenys grąžinami į vidaus tarnybą, jei atitinka šio
+kitoje vidaus reikalų įstaigoje. Šie asmenys grąžinami į vidaus tarnybą, jei
 
-Statuto 6 straipsnio 1 dalyje nustatytus reikalavimus, išskyrus reikalavimą dėl
+atitinka šio Statuto 6 straipsnio 1 dalyje nustatytus reikalavimus, išskyrus
 
-didžiausios amžiaus ribos.
+reikalavimą dėl didžiausios amžiaus ribos.
 
 Straipsnio
 
@@ -3486,9 +3578,9 @@ susitarime su vidaus reikalų įstaigos vadovu.
 
 sąjungos neturi teisės paveikti vidaus reikalų įstaigos funkcijų įgyvendinimo.
 
-3. Pareigūnui,
+3. Pareigūnui, išrinktam
 
-išrinktam į renkamuosius vidaus reikalų įstaigos profesinės sąjungos organus ir
+į renkamuosius vidaus reikalų įstaigos profesinės sąjungos organus ir
 
 tarnaujančiam vidaus tarnyboje, skiriant tarnybines nuobaudas (išskyrus
 
@@ -3618,23 +3710,19 @@ negali būti iškeldinamas iš anksčiau suteikto tarnybinio buto.
 
 3.
 
-Pareigūnas gali naudotis tarnybiniu butu (tarnybine gyvenamąja patalpa) tol, kol
+Pareigūnas gali naudotis tarnybiniu butu (tarnybine gyvenamąja patalpa) tol,
 
-turi pareigūno statusą. Atleistas iš vidaus tarnybos pareigūnas
+kol turi pareigūno statusą. Atleistas iš vidaus tarnybos pareigūnas privalo tarnybinį butą
 
-privalo tarnybinį butą (tarnybinę gyvenamąją patalpą) atlaisvinti ne vėliau
+(tarnybinę gyvenamąją patalpą) atlaisvinti ne vėliau kaip per 30 dienų nuo
 
-kaip per 30 dienų nuo atleidimo iš vidaus tarnybos dienos. Vyriausybės
+atleidimo iš vidaus tarnybos dienos. Vyriausybės nustatytais atvejais,
 
-nustatytais atvejais, sąlygomis ir tvarka šį terminą vidaus reikalų ministras
+sąlygomis ir tvarka šį terminą vidaus reikalų ministras gali pratęsti. Atsisakęs atlaisvinti tarnybinį butą pareigūnas kartu su
 
-gali pratęsti.
+tame bute gyvenančiais asmenimis teisės aktų nustatyta tvarka iš jo
 
-Atsisakęs atlaisvinti tarnybinį butą
-
-pareigūnas kartu su tame bute gyvenančiais asmenimis teisės aktų nustatyta
-
-tvarka iš jo iškeldinamas.
+iškeldinamas.
 
 4. Pareigūnui,
 
@@ -3674,9 +3762,9 @@ normas arba jiems mokama Vyriausybės nustatyto dydžio maitinimosi išlaidų
 
 piniginė kompensacija. Aprūpinimo maistu tvarką ir maitinimosi išlaidų
 
-piniginės kompensacijos mokėjimo tvarką nustato vidaus reikalų centrinių įstaigų
+piniginės kompensacijos mokėjimo tvarką nustato vidaus reikalų centrinių
 
-vadovai.
+įstaigų vadovai.
 
 Straipsnio
 
@@ -3798,9 +3886,9 @@ straipsnis. Kompensacijos, pašalpos ir kitos išmokos
 
 1. Už pareigūnui
 
-ir jo šeimos nariams padarytą materialinę žalą, kurią jie patyrė dėl pareigūno vidaus
+ir jo šeimos nariams padarytą materialinę žalą, kurią jie patyrė dėl pareigūno
 
-tarnybos ir kuri yra nustatyta remiantis tarnybinio patikrinimo išvada,
+vidaus tarnybos ir kuri yra nustatyta remiantis tarnybinio patikrinimo išvada,
 
 atlyginama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
@@ -3826,11 +3914,11 @@ skirtų lėšų.
 
 3.
 
-Pareigūnai gali būti vežami į tarnybos vietą tarnybiniu transportu. Vežimo tvarką
+Pareigūnai gali būti vežami į tarnybos vietą tarnybiniu transportu. Vežimo
 
-ir sąlygas nustato vidaus reikalų ministras ar jo įgalioti vidaus reikalų
+tvarką ir sąlygas nustato vidaus reikalų ministras ar jo įgalioti vidaus
 
-centrinių įstaigų vadovai.
+reikalų centrinių įstaigų vadovai.
 
 4.
 
@@ -3988,9 +4076,9 @@ sprendimu grąžinamas anksčiau šias pareigas ėjęs pareigūnas;
 
 17) kai jam
 
-įstatymų nustatyta tvarka atimamos specialiosios teisės, susijusios su jo tiesioginių
+įstatymų nustatyta tvarka atimamos specialiosios teisės, susijusios su jo
 
-pareigų atlikimu.
+tiesioginių pareigų atlikimu.
 
 2. Atleisti
 
@@ -4086,23 +4174,23 @@ vidaus tarnybos ir jo laikinojo nedarbingumo bei atostogų metu.
 
 2. Esant šio
 
-Statuto 53 straipsnio 1 dalies 11 punkte nurodytam pagrindui, pareigūnas
+Statuto 53 straipsnio 1 dalies 11 punkte nurodytam pagrindui, pareigūnas atleidžiamas
 
-atleidžiamas iš vidaus tarnybos, apie galimą jo atleidimą jį įspėjus raštu ne vėliau kaip prieš 2 mėnesius
+iš vidaus tarnybos, apie galimą jo atleidimą
 
-iki atleidimo dienos. Nėščia moteris (kai vidaus reikalų įstaiga likviduojama),
+jį įspėjus raštu ne vėliau kaip prieš 2 mėnesius iki atleidimo dienos. Nėščia
 
-moteris ar vyras, vieni auginantys vaikus (vaiką) iki 14 metų, asmuo,
+moteris (kai vidaus reikalų įstaiga likviduojama), moteris ar vyras, vieni
 
-kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, apie galimą jų atleidimą turi būti įspėti raštu ne
+auginantys vaikus (vaiką) iki 14 metų, asmuo, kuriam iki teisės gauti
 
-vėliau kaip prieš 4 mėnesius iki atleidimo dienos. Įspėjimas apie galimą
+visą senatvės pensiją liko ne daugiau kaip 5 metai, apie galimą jų atleidimą turi būti įspėti raštu ne vėliau kaip prieš 4
 
-atleidimą netenka galios, jei nuo jo termino pabaigos praeina daugiau
+mėnesius iki atleidimo dienos. Įspėjimas apie galimą atleidimą netenka
 
-kaip vienas mėnuo, neįskaitant pareigūno laikinojo nedarbingumo ir atostogų
+galios, jei nuo jo termino pabaigos praeina daugiau kaip vienas mėnuo,
 
-laiko.
+neįskaitant pareigūno laikinojo nedarbingumo ir atostogų laiko.
 
 3. Pareigūnas
 
@@ -4136,13 +4224,13 @@ lygiavertes pareigas arba pareigūno sutikimu – į žemesnes pareigas.
 
 pareigūną iš vidaus tarnybos
 
-1. Atleidžiant pareigūną
+1. Atleidžiant
 
-iš vidaus tarnybos pagal šio Statuto 53 straipsnio 1 dalies 4, 11, 15 ir 16
+pareigūną iš vidaus tarnybos pagal šio Statuto 53 straipsnio 1 dalies 4, 11, 15
 
-punktus, išmokama jo dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė
+ir 16 punktus, išmokama jo dviejų mėnesių vidutinio darbo užmokesčio dydžio
 
-kompensacija.
+išeitinė kompensacija.
 
 2. Šio
 
@@ -4174,13 +4262,13 @@ atleidimo dieną.
 
 2. Atleidžiamas
 
-iš vidaus tarnybos pareigūnas ne vėliau kaip jo atleidimo dieną privalo
+iš vidaus tarnybos pareigūnas ne vėliau kaip jo atleidimo dieną privalo atiduoti
 
-atiduoti pareigūno tarnybinį pažymėjimą, specialų ženklą, tarnybinį šaunamąjį
+pareigūno tarnybinį pažymėjimą, specialų ženklą, tarnybinį šaunamąjį ginklą,
 
-ginklą, specialiąsias priemones bei sprogmenis vadovui, turinčiam teisę skirti
+specialiąsias priemones bei sprogmenis vadovui, turinčiam teisę skirti į
 
-į pareigas, arba jo įgaliotam pareigūnui, taip pat perduoti jam patikėtus
+pareigas, arba jo įgaliotam pareigūnui, taip pat perduoti jam patikėtus
 
 tarnybinius dokumentus, inventorių, kitas darbo priemones.
 
@@ -4428,9 +4516,9 @@ TARNYBOS STATUTO 37 IR 41 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 priežiūros, kol jam sueis vieni metai, atostogų, apskaičiuotos sumos
 
-perskaičiuojamos vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio įstatymo
+perskaičiuojamos vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio
 
-nuostatų įsigaliojimo dienos.
+įstatymo nuostatų įsigaliojimo dienos.
 
 10.
 
