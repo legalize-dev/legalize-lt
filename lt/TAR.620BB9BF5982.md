@@ -4,7 +4,7 @@ identifier: "TAR.620BB9BF5982"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-05-23"
-last_updated: "2007-06-30"
+last_updated: "2007-12-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.620BB9BF5982"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teismų įstatymo 119, 120 ir 121 straipsnių pakeitimo įstatymas
 
-Neoficialus įstatymo tekstas
-
 Įstatymas skelbtas: Žin., 2006, Nr. 60-2121
+
+Neoficialus įstatymo tekstas
 
 LIETUVOS RESPUBLIKOS
 
@@ -473,7 +473,7 @@ Pagal šio straipsnio 3 dalį šio įstatymo 1 straipsnyje išdėstyto Teismų
 
 įstatymo 119 straipsnio nustatyta tvarka sudarytos Teisėjų tarybos
 
-įgaliojimai tęsiasi iki 2007 m. gruodžio 31 d.
+įgaliojimai tęsiasi iki 2008 m. gegužės 1 d.
 
 5.
 
@@ -490,6 +490,10 @@ Nr. X-985, 2006-12-14, Žin., 2006, Nr.
 Nr. X-1211,
 
 2007-06-26, Žin., 2007, Nr. 72-2835 (2007-06-30)
+
+Nr. X-1363,
+
+2007-12-11, Žin., 2007, Nr. 135-5455 (2007-12-21)
 
 Skelbiu šį
 
@@ -519,9 +523,7 @@ X-985, 2006-12-14, Žin., 2006, Nr.
 
 TEISMŲ
 
-ĮSTATYMO 119, 120 IR 121 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
+ĮSTATYMO 119, 120 IR 121 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 2.
 
@@ -541,13 +543,31 @@ TEISMŲ
 
 ĮSTATYMAS
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1363,
+
+2007-12-11, Žin., 2007, Nr. 135-5455 (2007-12-21)
+
+TEISMŲ
+
+ĮSTATYMO 119, 120 IR 121 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2007-07-02)
+Aušrinė Trapinskienė (2007-12-27)
 
 autrap@lrs.lt
 
