@@ -4,7 +4,7 @@ identifier: "TAR.E9CE9C91C255"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "2006-10-12"
+last_updated: "2007-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 department: "Lietuvos Respublikos Seimas"
@@ -178,9 +178,9 @@ perkelto į individualųjį rezervą atsargos kario prievolė atlikti karo tarny
 
 mobilizacijos atveju.
 
-11. Vietinė teritorinė karinė įstaiga – Karo
+11. Vietinė teritorinė karinė įstaiga
 
-prievolės administravimo tarnybos prie Krašto apsaugos ministerijos karo
+– Karo prievolės administravimo tarnybos prie Krašto apsaugos ministerijos karo
 
 prievolės administravimą vykdantis teritorinis skyrius.
 
@@ -364,13 +364,13 @@ privalomosios tarnybos pagrindų.
 
 2. Šauktiniai taip pat privalo atvykti į
 
-vietines teritorines karines įstaigas, savivaldybių atrankos komisijas ir šauktinių
+vietines teritorines karines įstaigas, savivaldybių atrankos komisijas ir
 
-medicinos ekspertizės komisijas, kai jie į jas šaukiami, atvykimo dieną
+šauktinių medicinos ekspertizės komisijas, kai jie į jas šaukiami, atvykimo
 
-nurodant paštu išsiunčiamame šaukimo lapelyje ir paskelbus miesto (rajono)
+dieną nurodant paštu išsiunčiamame šaukimo lapelyje ir paskelbus miesto
 
-laikraštyje.
+(rajono) laikraštyje.
 
 3. Be
 
@@ -392,7 +392,9 @@ paskirto atvykimo į dalinį dienos.
 
 6. Kario statusą naujokas įgyja nuo atvykimo į dalinį
 
-(mokymo centrą) dienos ar nuo perėjimo vado (karinio viršininko) žinion momento.
+(mokymo centrą) dienos ar nuo perėjimo vado (karinio viršininko) žinion
+
+momento.
 
 Straipsnio
 
@@ -492,17 +494,19 @@ trukmės privalomoji pradinė karo tarnyba gali būti pakeista vienu iš šių
 
 tarnybos atlikimo būdų:
 
-1) aukštųjų mokyklų, išskyrus Lietuvos
+1)
 
-karo akademijos, studentams – studijų metu mokymusi nustatytos trukmės vadų
+aukštųjų mokyklų, išskyrus Lietuvos karo akademijos, studentams – studijų metu
 
-kursuose,
+mokymusi nustatytos trukmės vadų kursuose, kurių tvarkaraštis suderintas
 
-kurių tvarkaraštis suderintas su studijų aukštosiose mokyklose tvarkaraščiu, ir atliekant karinę praktiką kariuomenėje ar iki 90
+su studijų aukštosiose mokyklose tvarkaraščiu, ir
 
-dienų trukmės būtinuosiuose kariniuose mokymuose šio įstatymo 19 straipsnyje
+atliekant karinę praktiką kariuomenėje ar iki 90 dienų trukmės būtinuosiuose
 
-nustatyta tvarka vasaros atostogų metu;
+kariniuose mokymuose šio įstatymo 19 straipsnyje nustatyta tvarka vasaros
+
+atostogų metu;
 
 2) Lietuvos karo akademijos kariūnams -
 
@@ -534,9 +538,11 @@ atlikę laikomi asmenys:
 
 nustatytos trukmės privalomąją pradinę karo tarnybą;
 
-2) atlikę tarnybą vienu iš šio straipsnio
+2) atlikę tarnybą vienu iš šio
 
-4 dalyje nurodytų būdų ir gavę šios tarnybos atlikimą patvirtinantį pažymėjimą;
+straipsnio 4 dalyje nurodytų būdų ir gavę šios tarnybos atlikimą patvirtinantį
+
+pažymėjimą;
 
 3)
 
@@ -544,19 +550,17 @@ atleisti (pašalinti) iš Lietuvos karo akademijos kariūnai, išėję bent vien
 
 metų studijų kursą.
 
-6.
+6. Privalomoji pradinė karo tarnyba vienu iš šio straipsnio
 
-Privalomoji pradinė karo tarnyba vienu iš šio straipsnio 4 dalies 1, 3, 4 ir 5
+4 dalies 1, 3, 4 ir 5 punktuose nurodytų būdų gali būti pakeista krašto
 
-punktuose nurodytų būdų gali būti pakeista krašto apsaugos ministro nustatyta
+apsaugos ministro nustatyta tvarka Administravimo tarnybos karo prievolės
 
-tvarka Administravimo tarnybos karo prievolės centro sprendimu (išskyrus
+centro sprendimu (išskyrus išimtį, nustatytą šio straipsnio 7 dalyje). Šiais
 
-išimtį, nustatytą šio straipsnio 7 dalyje). Šiais būdais atliekamos tarnybos
+būdais atliekamos tarnybos trukmę ir jos atlikimą patvirtinančių pažymėjimų
 
-trukmę ir jos atlikimą patvirtinančių pažymėjimų formą kariuomenės vado siūlymu
-
-nustato krašto apsaugos ministras.
+formą kariuomenės vado siūlymu nustato krašto apsaugos ministras.
 
 7. Pretenduojantiems į vidaus tarnybą
 
@@ -588,19 +592,17 @@ Nr. IX-1480,
 
 2003-04-03, Žin., 2003, Nr. 38-1725 (2003-04-24)
 
-Nr. IX-1506, 2003-04-17,
+Nr. IX-1506,
 
-Žin., 2003, Nr. 42-1912 (2003-05-01)
+2003-04-17, Žin., 2003, Nr. 42-1912 (2003-05-01)
 
-Nr.
-
-IX-1774,
+Nr. IX-1774,
 
 2003-10-14, Žin., 2003, Nr. 104-4644 (2003-11-05)
 
-Nr. IX-2359, 2004-07-13,
+Nr. IX-2359,
 
-Žin., 2004, Nr. 115-4282 (2004-07-24)
+2004-07-13, Žin., 2004, Nr. 115-4282 (2004-07-24)
 
 Nr. X-854, 2006-10-12,
 
@@ -610,15 +612,15 @@ Nr. X-854, 2006-10-12,
 
 pradinės karo ir alternatyviosios krašto apsaugos tarnybos atidėjimas
 
-1. Savivaldybės atrankos komisijos sprendimu
+1. Savivaldybės atrankos komisijos
 
-privalomoji pradinė karo ir alternatyvioji krašto apsaugos tarnyba šio
+sprendimu privalomoji pradinė karo ir alternatyvioji krašto apsaugos tarnyba
 
-straipsnio 3 dalyje nustatyta tvarka atidedama:
+šio straipsnio 3 dalyje nustatyta tvarka atidedama:
 
-1) bendrojo lavinimo ir profesinių mokyklų mokiniams,
+1) bendrojo lavinimo ir profesinių
 
-ne vyresniems kaip 21 metų, – kol jas baigs;
+mokyklų mokiniams, ne vyresniems kaip 21 metų, – kol jas baigs;
 
 2) aukštųjų mokyklų studentams;
 
@@ -626,53 +628,63 @@ ne vyresniems kaip 21 metų, – kol jas baigs;
 
 4) doktorantams ir rezidentams;
 
-5) įtariamiesiems ar kaltinamiesiems baudžiamojoje
+5) įtariamiesiems ar kaltinamiesiems
 
-byloje – iki ikiteisminio tyrimo nutraukimo arba baudžiamosios bylos pabaigos;
+baudžiamojoje byloje – iki ikiteisminio tyrimo nutraukimo arba baudžiamosios
 
-6) kai šauktinio motina ar tėvas yra I ar II grupės
+bylos pabaigos;
 
-invalidai ir nėra daugiau pilnamečių šeimos narių, galinčių juos išlaikyti;
+6) kai šauktinio motina ar tėvas yra I
 
-7) kai šauktinio motina viena ar šauktinio tėvas
+ar II grupės invalidai ir nėra daugiau pilnamečių šeimos narių, galinčių juos
 
-vienas augina vieną ar daugiau nepilnamečių vaikų iki 16 metų arba vyresnių,
+išlaikyti;
 
-pripažintų I ar II grupės invalidais, ir nėra daugiau pilnamečių šeimos narių;
+7) kai šauktinio motina viena ar
 
-8) kai šauktinis turi vieną ar daugiau nepilnamečių
+šauktinio tėvas vienas augina vieną ar daugiau nepilnamečių vaikų iki 16 metų
 
-iki 18 metų brolių ar seserų ir nėra kitų pilnamečių šeimos narių, galinčių
+arba vyresnių, pripažintų I ar II grupės invalidais, ir nėra daugiau pilnamečių
 
-juos išlaikyti;
+šeimos narių;
 
-9) kai šauktinio žmona yra I ar II grupės invalidė
+8) kai šauktinis turi vieną ar daugiau
 
-arba žmonos nėštumo laikotarpiu ir iki vaikui sukaks 3 metai;
+nepilnamečių iki 18 metų brolių ar seserų ir nėra kitų pilnamečių šeimos narių,
 
-10) kai šauktinis privalo išlaikyti nedarbingus
+galinčių juos išlaikyti;
 
-senelius, nes nėra kitų pilnamečių šeimos narių, privalančių juos išlaikyti;
+9) kai šauktinio žmona yra I ar II
 
-11) kai šauktinis savivaldybės tarybos sprendimu
+grupės invalidė arba žmonos nėštumo laikotarpiu ir iki vaikui sukaks 3 metai;
 
-paskirtas globėju (rūpintoju), – iki globos (rūpybos) termino pabaigos;
+10) kai šauktinis privalo išlaikyti
 
-12) kai šauktinis turi ir savo šeimoje išlaiko 2 ar
+nedarbingus senelius, nes nėra kitų pilnamečių šeimos narių, privalančių juos
 
-daugiau vaikų arba vienas augina vaiką;
+išlaikyti;
 
-13) kai šauktinis ūkininko šeimoje yra vienintelis
+11) kai šauktinis savivaldybės tarybos
 
-darbingas vyras;
+sprendimu paskirtas globėju (rūpintoju), – iki globos (rūpybos) termino
 
-14) kai šauktinio šeimos nariai, likę be jo paramos, atsidurtų
+pabaigos;
 
-sunkioje padėtyje, taip pat dėl kitų šiame straipsnyje nenurodytų ypač svarbių
+12) kai šauktinis turi ir savo šeimoje
 
-aplinkybių – tik krašto apsaugos ministro sutikimu savivaldybės atrankos
+išlaiko 2 ar daugiau vaikų arba vienas augina vaiką;
 
-komisijos siūlymu.
+13) kai šauktinis ūkininko šeimoje yra
+
+vienintelis darbingas vyras;
+
+14) kai šauktinio šeimos nariai, likę be
+
+jo paramos, atsidurtų sunkioje padėtyje, taip pat dėl kitų šiame straipsnyje
+
+nenurodytų ypač svarbių aplinkybių – tik krašto apsaugos ministro
+
+sutikimu savivaldybės atrankos komisijos siūlymu.
 
 2. Tais atvejais, kai šauktinių šaukimo metu yra daugiau,
 
@@ -698,21 +710,19 @@ metus turi įsteigęs personalinę įmonę, iš kurios gauna pajamų ir moka jų
 
 mokesčius;
 
-4) (neteko galios nuo 2006 m. spalio 24
+4) (neteko galios nuo 2006 m. spalio 24 d.).
 
-d.).
+3. Tais
 
-3. Tais atvejais, kai atidedant
+atvejais, kai atidedant privalomąją pradinę karo tarnybą, taikant šio
 
-privalomąją pradinę karo tarnybą, taikant šio straipsnio 2 dalyje nustatytas
+straipsnio 2 dalyje nustatytas papildomas sąlygas, šaukimo metu šauktinių lieka
 
-papildomas sąlygas, šaukimo metu šauktinių lieka mažiau, negu turi būti
+mažiau, negu turi būti pašaukta pagal nustatytą tarnybos vietų skaičių,
 
-pašaukta pagal nustatytą tarnybos vietų skaičių, papildomos privalomosios
+papildomos privalomosios pradinės karo tarnybos atidėjimo sąlygos taikomos
 
-pradinės karo tarnybos atidėjimo sąlygos taikomos eilės tvarka: nuo šio
-
-straipsnio 2 dalies 1 punkto iki 3 punkto.
+eilės tvarka: nuo šio straipsnio 2 dalies 1 punkto iki 3 punkto.
 
 4. Tais atvejais, kai
 
@@ -762,9 +772,7 @@ Nr. IX-1480,
 
 2003-04-03, Žin., 2003, Nr. 38-1725 (2003-04-24)
 
-Nr.
-
-IX-1658,
+Nr. IX-1658,
 
 2003-06-26, Žin., 2003, Nr. 70-3168 (2003-07-16)
 
@@ -772,11 +780,9 @@ Nr. X-325, 2005-07-05,
 
 Žin., 2005, Nr. 88-3290 (2005-07-21)
 
-Nr.
+Nr. X-770, 2006-07-18,
 
-X-770,
-
-2006-07-18, Žin., 2006, Nr. 87-3396 (2006-08-08)
+Žin., 2006, Nr. 87-3396 (2006-08-08)
 
 Nr. X-854, 2006-10-12,
 
@@ -1132,9 +1138,9 @@ KARINĖ ĮSKAITA
 
 Karinė įskaita
 
-1. Karinę įskaitą tvarko vietinė
+1. Karinę įskaitą tvarko vietinė teritorinė
 
-teritorinė karinė įstaiga.
+karinė įstaiga.
 
 2. Lietuvos Respublikos piliečiai (vyrai)
 
@@ -1144,17 +1150,15 @@ privalo įsirašyti į karinę įskaitą :
 
 2) atlikę privalomąją pradinę karo ar
 
-alternatyviąją krašto apsaugos tarnybą - per 10 dienų nuo tarnybos baigimo
+alternatyviąją krašto apsaugos tarnybą - per 10 dienų nuo tarnybos baigimo dienos.
 
-dienos.
+3. Lietuvos
 
-3. Lietuvos Respublikos pilietės,
+Respublikos pilietės, įgijusios medicinos ar Vyriausybės nustatytos kitos
 
-įgijusios medicinos ar Vyriausybės nustatytos kitos specialybės aukštąjį
+specialybės aukštąjį išsilavinimą, privalo įsirašyti į karinę įskaitą per 2
 
-išsilavinimą, privalo įsirašyti į karinę įskaitą per 2 mėnesius nuo mokymo
-
-įstaigos baigimo dienos.
+mėnesius nuo mokymo įstaigos baigimo dienos.
 
 4. Asmuo nuo 19 iki 45 metų, gyvenantis
 
@@ -1174,11 +1178,9 @@ nustatytas invalidumas, į karinę įskaitą neįrašomi arba iš jos išbraukia
 
 prievolininkai privalo pateikti šauktinio arba kario liudijimą.
 
-7. Karo prievolininkai vietinei
+7. Karo prievolininkai vietinei teritorinei
 
-teritorinei karinei įstaigai per 15 dienų privalo pateikti duomenis
-
-apie:
+karinei įstaigai per 15 dienų privalo pateikti duomenis apie:
 
 1) vardo ar pavardės pakeitimą;
 
@@ -1210,9 +1212,7 @@ laikinai (ilgiau kaip 6 mėnesius) gyvenantys užsienio valstybėse, privalo
 
 įsirašyti į karinę įskaitą Lietuvos Respublikos atstovybėse ar konsulatuose.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. VIII-1258,
 
@@ -1338,9 +1338,9 @@ reikalingus įgaliojimus turintis tarnautojas (toliau – savivaldybės
 
 administracijos tarnautojas). Jo pareiginius nuostatus, atitinkančius
 
-pavyzdinių nuostatų reikalavimus, tvirtina, jį skiria bei atleidžia
+pavyzdinių nuostatų reikalavimus, tvirtina, jį skiria bei atleidžia savivaldybės
 
-savivaldybės administracijos direktorius.
+administracijos direktorius.
 
 Straipsnio
 
@@ -1358,35 +1358,39 @@ Nr. X-325, 2005-07-05,
 
 Savivaldybės administracijos tarnautojas
 
-1. Savivaldybės administracijos tarnautojas:
+1. Savivaldybės administracijos
 
-1) tvarko savivaldybės teritorijoje gyvenančių
+tarnautojas:
 
-ikišauktinio amžiaus jaunuolių apskaitą;
+1) tvarko savivaldybės teritorijoje
+
+gyvenančių ikišauktinio amžiaus jaunuolių apskaitą;
 
 2) kontroliuoja, kad šio įstatymo 5 straipsnio 1 dalies nuostata būtų
 
 įvykdyta laiku;
 
-3) teikia Administravimo tarnybos teritoriniam skyriui
+3) teikia Administravimo tarnybos
 
-savivaldybės teritorijoje gyvenančių ikišauktinio amžiaus jaunuolių sąrašus;
+teritoriniam skyriui savivaldybės teritorijoje gyvenančių ikišauktinio amžiaus
 
-4) rengia medžiagą savivaldybės atrankos komisijos
+jaunuolių sąrašus;
 
-posėdžiams;
+4) rengia medžiagą savivaldybės atrankos
 
-5) kviečia šauktinius į savivaldybės atrankos komisijos
+komisijos posėdžiams;
 
-posėdžius;
+5) kviečia šauktinius į savivaldybės
+
+atrankos komisijos posėdžius;
 
 6) kontroliuoja, kaip visų rūšių ir nuosavybės formų įmonės, įstaigos
 
 ir organizacijos vykdo Lietuvos Respublikos karo prievolės įstatymą;
 
-7) vykdo visuomenės teisinį švietimą karo
+7) vykdo visuomenės teisinį
 
-prievolės klausimais.
+švietimą karo prievolės klausimais.
 
 2. Atlikdamas savo uždavinius ir funkcijas, savivaldybės
 
@@ -1520,35 +1524,37 @@ teismui.
 
 darbo reglamentą tvirtina krašto apsaugos ministras.
 
-15(8)
+15(8) straipsnis.
 
-straipsnis. Administravimo
+Administravimo tarnybos teritorinis skyrius
 
-tarnybos teritorinis skyrius
+Administravimo tarnybos teritorinis
 
-Administravimo tarnybos teritorinis skyrius:
+skyrius:
 
-1)
+1) tvarko karo prievolininkų karinę įskaitą;
 
-tvarko karo prievolininkų karinę įskaitą;
+2) sudaro karo prievolininkų asmens
 
-2) sudaro karo prievolininkų asmens bylas;
+bylas;
 
-3) tvarko šauktinių ir rezervo karo prievolininkų
+3) tvarko šauktinių ir rezervo karo
 
-apskaitą;
+prievolininkų apskaitą;
 
-4) pateikia savivaldybės atrankos komisijos posėdžiams
+4) pateikia savivaldybės atrankos
 
-reikiamus dokumentus;
+komisijos posėdžiams reikiamus dokumentus;
 
-5) pristato karo prievolininkus į regioninius karo
+5) pristato karo prievolininkus į
 
-prievolės centrus ir (ar) į paskirtą tarnybos vietą;
+regioninius karo prievolės centrus ir (ar) į paskirtą tarnybos vietą;
 
-6) organizuoja ikišauktinio amžiaus jaunuolių ir
+6) organizuoja ikišauktinio amžiaus
 
-šauktinių paiešką bei perduoda medžiagą ikiteisminio tyrimo įstaigoms;
+jaunuolių ir šauktinių paiešką bei perduoda medžiagą ikiteisminio tyrimo
+
+įstaigoms;
 
 7) atlieka kitas
 
@@ -1632,9 +1638,9 @@ nustatyti jų tinkamumą karo tarnybai;
 
 skirti į karo tarnybą ir pasiųsti į tarnybos atlikimo vietą;
 
-6) tvarkyti atsargos karo prievolininkų rezervo
+6) tvarkyti atsargos karo prievolininkų
 
-apskaitą;
+rezervo apskaitą;
 
 7) tvarkyti aktyviojo kariuomenės
 
@@ -1740,11 +1746,11 @@ išmokama Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė
 
 kompensacija, taip pat iškilus būtinybei apnakvindinami.
 
-4. Šiame straipsnyje
+4. Šiame straipsnyje numatytas
 
-numatytas aprūpinimas šauktiniui neteikiamas, jei šauktinis dėl savo kaltės
+aprūpinimas šauktiniui neteikiamas, jei šauktinis dėl savo kaltės neįvykdė
 
-neįvykdė savivaldybės atrankos komisijos ar Administravimo tarnybos nustatytų
+savivaldybės atrankos komisijos ar Administravimo tarnybos nustatytų
 
 reikalavimų ir dėl to regioniniame karo prievolės centre negalėjo būti
 
@@ -1914,6 +1920,20 @@ išleidžiančio vado (viršininko) įsakymu.
 
 nustato krašto apsaugos ministras.
 
+5. Krašto apsaugos ministro nustatyta tvarka privalomosios
+
+pradinės karo tarnybos karys paleidžiamas iš tarnybos pirma šio įstatymo
+
+nustatyto laiko, jeigu jis yra įgijęs reikiamą pagrindinį karinį parengimą, yra
+
+atrenkamas į profesinę karo tarnybą ir sudaro profesinės karo tarnybos sutartį.
+
+Tokiu atveju paleidimo iš privalomosios pradinės karo tarnybos diena laikoma
+
+diena, einanti prieš profesinės karo tarnybos sutarties įsigaliojimo dieną, o
+
+paleidžiamas iš privalomosios pradinės karo tarnybos karys laikomas liktiniu.
+
 Straipsnio
 
 pakeitimai:
@@ -1929,6 +1949,10 @@ Nr. IX-1480,
 Nr. IX-2359,
 
 2004-07-13, Žin., 2004, Nr. 115-4282 (2004-07-24)
+
+Nr. X-1390,
+
+2007-12-18, Žin., 2007, Nr. 140-5760 (2007-12-29)
 
 19 straipsnis.
 
@@ -1948,19 +1972,19 @@ privalomosios pradinės karo tarnybos;
 
 3) pretenduojantiems į vidaus tarnybą
 
-asmenims – juos atliekant vidaus reikalų statutinėse profesinio mokymo įstaigose
+asmenims – juos atliekant vidaus reikalų statutinėse profesinio mokymo
 
-mokymosi šiose įstaigose laiku;
+įstaigose mokymosi šiose įstaigose laiku;
 
-4) atleistiems iš
+4) atleistiems iš pradėtos
 
-pradėtos privalomosios pradinės karo tarnybos, jiems ištarnavus mažiau kaip 6
+privalomosios pradinės karo tarnybos, jiems ištarnavus mažiau kaip 6 mėnesius,
 
-mėnesius, jų tarnybos metu atsiradus aplinkybių, numatytų šio įstatymo 9
+jų tarnybos metu atsiradus aplinkybių, numatytų šio įstatymo 9 straipsnio 1
 
-straipsnio 1 dalies 6-14 punktuose. Šiuo atveju būtinųjų karinių mokymų trukmė
+dalies 6-14 punktuose. Šiuo atveju būtinųjų karinių mokymų trukmė nustatoma
 
-nustatoma atsižvelgiant į neatliktos tarnybos dalį.
+atsižvelgiant į neatliktos tarnybos dalį.
 
 2. Būtinieji kariniai
 
@@ -2148,11 +2172,11 @@ Nr. VIII-1258,
 
 Alternatyviosios krašto apsaugos tarnybos atlikimo vieta
 
-1. Alternatyviąją krašto apsaugos tarnybą
+1. Alternatyviąją krašto apsaugos
 
-piliečiai atlieka Lietuvos Respublikos krašto apsaugos sistemoje. Jie skiriami
+tarnybą piliečiai atlieka Lietuvos Respublikos krašto apsaugos sistemoje. Jie
 
-tarnauti į pareigas, nereikalaujančias naudoti prievartos ir ginklo.
+skiriami tarnauti į pareigas, nereikalaujančias naudoti prievartos ir ginklo.
 
 Piliečiams, atliekantiems alternatyviąją krašto apsaugos tarnybą, taikomi
 
@@ -2348,9 +2372,9 @@ Atsargos karo prievolininkų rengimo tvarka
 
 1) atlikę 12 mėnesių trukmės privalomąją
 
-pradinę karo tarnybą ir kitais šiame įstatyme numatytais būdais - 6 metus kasmet
+pradinę karo tarnybą ir kitais šiame įstatyme numatytais būdais - 6 metus
 
-po 14 kalendorinių dienų;
+kasmet po 14 kalendorinių dienų;
 
 2) baigę iki 3 mėnesių trukmės bazinį
 
@@ -2442,7 +2466,9 @@ Vietinė teritorinė karinė įstaiga be kitų
 
 funkcijų:
 
-1) tvarko karo prievolininkų karinę įskaitą;
+1) tvarko karo prievolininkų karinę
+
+įskaitą;
 
 2) tvarko karo prievolininkų asmens bylas,
 
@@ -2452,11 +2478,11 @@ išduoda karinius dokumentus;
 
 gautaisiais iš savivaldybių, įmonių, įstaigų ir organizacijų;
 
-4) organizuoja karo prievolininkų pakvietimą ir
+4) organizuoja karo
 
-atvykimą į savivaldybių atrankos komisijas, mokymus bei naujokų nuvykimą į
+prievolininkų pakvietimą ir atvykimą į savivaldybių atrankos komisijas, mokymus
 
-tarnybos vietas;
+bei naujokų nuvykimą į tarnybos vietas;
 
 5) pateikia savivaldybių
 
@@ -3034,7 +3060,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1658,
+Nr.
+
+IX-1658,
 
 2003-06-26, Žin., 2003, Nr. 70-3168 (2003-07-16)
 
@@ -3048,7 +3076,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1774,
+Nr.
+
+IX-1774,
 
 2003-10-14, Žin., 2003, Nr. 104-4644 (2003-11-05)
 
@@ -3058,41 +3088,33 @@ PRIEVOLĖS ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 8.
 
-Lietuvos
+Lietuvos Respublikos Seimas,
 
-Respublikos Seimas, Įstatymas
+Įstatymas
 
-Nr.
-
-IX-2359,
+Nr. IX-2359,
 
 2004-07-13, Žin., 2004, Nr. 115-4282 (2004-07-24)
 
-KARO
+KARO PRIEVOLĖS ĮSTATYMO 8, 15(4),
 
-PRIEVOLĖS ĮSTATYMO 8, 15(4), 15(5), 15(12), 16, 17, 18, 19, 30 STRAIPSNIŲ
+15(5), 15(12), 16, 17, 18, 19, 30 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI II SKYRIAUS
 
-PAKEITIMO IR PAPILDYMO BEI II SKYRIAUS TREČIOJO SKIRSNIO IR 15(1) STRAIPSNIO
-
-PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+TREČIOJO SKIRSNIO IR 15(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
 9.
 
-Lietuvos
+Lietuvos Respublikos Seimas,
 
-Respublikos Seimas, Įstatymas
+Įstatymas
 
-Nr.
+Nr. X-325, 2005-07-05,
 
-X-325,
+Žin., 2005, Nr. 88-3290 (2005-07-21)
 
-2005-07-05, Žin., 2005, Nr. 88-3290 (2005-07-21)
+KARO PRIEVOLĖS ĮSTATYMO 4, 6, 7,
 
-KARO
-
-PRIEVOLĖS ĮSTATYMO 4, 6, 7, 9, 15(4), 15(5), 15(8), 19, 20, 28 STRAIPSNIŲ
-
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+9, 15(4), 15(5), 15(8), 19, 20, 28 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 10.
 
@@ -3100,9 +3122,11 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. X-770, 2006-07-18,
+Nr.
 
-Žin., 2006, Nr. 87-3396 (2006-08-08)
+X-770,
+
+2006-07-18, Žin., 2006, Nr. 87-3396 (2006-08-08)
 
 KARO
 
@@ -3110,19 +3134,31 @@ PRIEVOLĖS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 11.
 
-Lietuvos
+Lietuvos Respublikos Seimas,
 
-Respublikos Seimas, Įstatymas
+Įstatymas
 
-Nr.
-
-X-854, 2006-10-12,
+Nr. X-854, 2006-10-12,
 
 Žin., 2006, Nr. 113-4298 (2006-10-24)
 
-KARO
+KARO PRIEVOLĖS ĮSTATYMO 8, 9, 15
 
-PRIEVOLĖS ĮSTATYMO 8, 9, 15 IR 30 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+IR 30 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+12.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-1390,
+
+2007-12-18, Žin., 2007, Nr. 140-5760 (2007-12-29)
+
+KARO PRIEVOLĖS ĮSTATYMO 18 STRAIPSNIO
+
+PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -3130,7 +3166,7 @@ Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-10-25)
+Aušrinė Trapinskienė (2008-01-03)
 
 autrap@lrs.lt
 
