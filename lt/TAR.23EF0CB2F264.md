@@ -4,7 +4,7 @@ identifier: "TAR.23EF0CB2F264"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-07-12"
-last_updated: "2007-01-01"
+last_updated: "2007-12-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.23EF0CB2F264"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymas
 
-Suvestinė redakcija nuo 2007-01-01 iki 2007-12-28
+Suvestinė redakcija nuo 2007-12-29 iki 2009-01-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 64-2331; Žin. 2001, Nr.65-0, i. k. 1011010ISTA00IX-466
 
@@ -36,7 +36,11 @@ Vilnius
 
 2 straipsnis. Fondo steigėjas, valdytojas ir administratorius
 
-Fondo steigėja yra Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), valdytoja – Lietuvos Respublikos ūkio ministerija, administratorė – Vyriausybės įgaliota institucija.
+Fondo steigėja yra Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), valdytoja – Lietuvos Respublikos ūkio ministerija, administratorės – valstybės įmonė Energetikos agentūra ir viešoji įstaiga Ignalinos atominės elektrinės regiono plėtros agentūra.
+
+Straipsnio pakeitimai:
+
+Nr. X-1374, 2007-12-13, Žin., 2007, Nr. 140-5753 (2007-12-29), i. k. 1071010ISTA00X-1374
 
 3 straipsnis. Fondo lėšos
 
@@ -121,6 +125,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-710, 2006-06-22, Žin., 2006, Nr. 77-2960 (2006-07-14), i. k. 1061010ISTA000X-710
 
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1374, 2007-12-13, Žin., 2007, Nr. 140-5753 (2007-12-29), i. k. 1071010ISTA00X-1374
+
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo 2 straipsnio pakeitimo įstatymas
 
 9 straipsnis. Fondo likvidavimas
 
