@@ -4,7 +4,7 @@ identifier: "TAR.F789235C18BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-12-10"
-last_updated: "2007-10-25"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
-Suvestinė redakcija nuo 2007-10-25 iki 2009-09-14
+Suvestinė redakcija nuo 2008-01-01 iki 2009-09-14
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
 
@@ -165,7 +165,11 @@ Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010IST
 
 4. Tuo atveju, kai šio straipsnio 2 dalyje nurodytuose viešuosiuose juridiniuose asmenyse yra patvirtinta mažiau kaip 200 pareigybių (etatų), juose steigėjo (steigėjų) arba Vyriausybės sprendimu gali būti įsteigta vidaus audito tarnyba arba vidaus auditą atlieka viešojo juridinio asmens steigėjo vidaus audito tarnyba. Kai viešojo juridinio asmens steigėjas (steigėjai) nėra viešasis juridinis asmuo, perdavęs valdyti, naudoti valstybės arba savivaldybės turtą bei juo disponuoti, vidaus auditą atlieka viešojo juridinio asmens, perdavusio valstybės arba savivaldybės turtą, vidaus audito tarnyba. Kai viešąjį juridinį asmenį yra įsteigę keli steigėjai, viešojo juridinio asmens vidaus auditą atlieka steigėjų bendru sprendimu paskirta viešojo juridinio asmens vidaus audito tarnyba.
 
-5. Centralizuotą vidaus audito tarnybą sudaro ne mažiau kaip 2 pareigybės. Centralizuotą vidaus audito tarnybą kaip departamentą sudaro ne mažiau kaip 3 skyriai.
+5. Neteko galios nuo 2008-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. X-1293, 2007-10-11, Žin. 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
 
 Papildyta straipsnio dalimi:
 
