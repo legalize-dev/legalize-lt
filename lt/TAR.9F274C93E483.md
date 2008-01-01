@@ -4,7 +4,7 @@ identifier: "TAR.9F274C93E483"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-06-10"
-last_updated: "2004-02-14"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F274C93E483"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas
 
-Suvestinė redakcija nuo 2004-02-14 iki 2007-12-31
+Suvestinė redakcija nuo 2008-01-01 iki 2010-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2760, i. k. 1031010ISTA0IX-1607
 
@@ -49,9 +49,23 @@ Specialiosios programos finansavimo šaltiniai:
 
 2) medžioklės plotų naudotojų 70 procentų mokamo mokesčio už medžiojamųjų gyvūnų išteklių naudojimą;
 
-3) savanoriškos juridinių ir fizinių asmenų įmokos ;
+3) lėšos, gautos kaip želdinių atkuriamosios vertės kompensacija;
 
-4) kitos teisėtai gautos lėšos.
+Papildyta straipsnio punktu:
+
+Nr. X-1243, 2007-06-28, Žin., 2007, Nr. 80-3217 (2007-07-19), i. k. 1071010ISTA00X-1243
+
+4) savanoriškos juridinių ir fizinių asmenų įmokos ;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. X-1243, 2007-06-28, Žin., 2007, Nr. 80-3217 (2007-07-19), i. k. 1071010ISTA00X-1243
+
+5) kitos teisėtai gautos lėšos.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. X-1243, 2007-06-28, Žin., 2007, Nr. 80-3217 (2007-07-19), i. k. 1071010ISTA00X-1243
 
 4 straipsnis. Specialiosios programos lėšų naudojimas
 
@@ -67,9 +81,23 @@ Nr. IX-1981, 2004-01-27, Žin., 2004, Nr. 25-754 (2004-02-14), i. k. 1041010ISTA
 
 3) finansiškai remti miško sklypų, kuriuose medžioklė nėra uždrausta, savininkus, valdytojus ir naudotojus, įgyvendinančius žalos prevencijos priemones, kuriomis jie siekia išvengti medžiojamųjų gyvūnų daromos žalos miškui (želdinių apdorojimas repelentais, aptvėrimas tvoromis ar apsauginėmis juostomis, želdinių, gerinančių laukinių gyvūnų natūralias mitybos sąlygas, veisimas ir kitos priemonės), įsigyti kartografinę ir kitą medžiagą, reikalingą pagal Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti – įplaukos pagal 3 straipsnio 2 punktą;
 
-4) kitoms aplinkos apsaugos priemonėms;
+4) želdynų kūrimui, želdinių veisimui, inventorizacijai;
 
-5) savanoriškos juridinių ir fizinių asmenų įmokos naudojamos pagal mokėtojų pageidavimus.
+Papildyta straipsnio punktu:
+
+Nr. X-1243, 2007-06-28, Žin., 2007, Nr. 80-3217 (2007-07-19), i. k. 1071010ISTA00X-1243
+
+5) kitoms aplinkos apsaugos priemonėms;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. X-1243, 2007-06-28, Žin., 2007, Nr. 80-3217 (2007-07-19), i. k. 1071010ISTA00X-1243
+
+6) savanoriškos juridinių ir fizinių asmenų įmokos naudojamos pagal mokėtojų pageidavimus.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. X-1243, 2007-06-28, Žin., 2007, Nr. 80-3217 (2007-07-19), i. k. 1071010ISTA00X-1243
 
 2. Specialiosios programos lėšos, nepanaudotos einamaisiais biudžetiniais metais, naudojamos kitiems metams numatytoms priemonėms finansuoti.
 
@@ -102,4 +130,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1981, 2004-01-27, Žin., 2004, Nr. 25-754 (2004-02-14), i. k. 1041010ISTA0IX-1981
 
 Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo Specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1243, 2007-06-28, Žin., 2007, Nr. 80-3217 (2007-07-19), i. k. 1071010ISTA00X-1243
+
+Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo 3 ir 4 straipsnių pakeitimo ir papildymo įstatymas
 
