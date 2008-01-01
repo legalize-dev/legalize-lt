@@ -4,7 +4,7 @@ identifier: "TAR.9C9FA25983BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-02"
-last_updated: "2003-05-01"
+last_updated: "2008-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2007-12-31
+Suvestinė redakcija nuo 2008-01-01 iki 2011-07-04
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
 
@@ -73,7 +73,11 @@ Specialiųjų tyrimų tarnyba, spręsdama pavestus uždavinius, palaiko tarnybin
 
 1. Lietuvos Respublikos Vyriausybė, ministerijos ir kitos valstybės ar savivaldybių institucijos ir įstaigos, Specialiųjų tyrimų tarnybai pareikalavus, per 5 darbo dienas privalo jai pateikti priimtus, tačiau „Valstybės žiniose“ neskelbtus teisės aktus.
 
-2. Valstybės ar savivaldybių institucijos ir įstaigos privalo sudaryti sąlygas Specialiųjų tyrimų tarnybai neatlygintinai ir netrukdomai naudotis valstybės registrų, kadastrų, klasifikatorių duomenimis ir kitais valstybės institucijų, įstaigų bei įmonių duomenų bankais, o kitų įmonių, įstaigų, organizacijų bei fizinių asmenų – pagal sutartis.
+2. Valstybės ir savivaldybių institucijos, įstaigos bei įmonės privalo sudaryti sąlygas Specialiųjų tyrimų tarnybai neatlygintinai ir netrukdomai naudotis valstybės registrų, kadastrų, klasifikatorių duomenimis ir kitais valstybės ir savivaldybių institucijų, įstaigų bei įmonių duomenų bankais, o kitų įmonių, įstaigų, organizacijų bei fizinių asmenų – pagal sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1271, 2007-07-04, Žin., 2007, Nr. 81-3328 (2007-07-21), i. k. 1071010ISTA00X-1271
 
 ANTRASIS SKIRSNIS
 
@@ -137,7 +141,11 @@ Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010IST
 
 1. Specialiųjų tyrimų tarnybos direktoriaus kandidatūrą teikia Seimui ir, šiam pritarus, Tarnybos direktorių skiria bei atleidžia iš pareigų Respublikos Prezidentas. Direktorius skiriamas penkeriems metams, tačiau šias pareigas jis gali eiti ne daugiau kaip dvi kadencijas iš eilės.
 
-2. Tarnybos direktoriaus pirmąjį pavaduotoją ir pavaduotoją direktoriaus teikimu skiria į pareigas ir atleidžia iš jų Respublikos Prezidentas.
+2. Tarnybos direktoriaus pirmąjį pavaduotoją ir pavaduotojus direktoriaus teikimu skiria į pareigas ir atleidžia iš jų Respublikos Prezidentas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1271, 2007-07-04, Žin., 2007, Nr. 81-3328 (2007-07-21), i. k. 1071010ISTA00X-1271
 
 3. Specialiųjų tyrimų tarnybos direktoriaus nesant, jo pareigas eina Tarnybos direktoriaus pirmasis pavaduotojas.
 
@@ -400,4 +408,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
 
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 2, 8, 10, 12, 13, 17, 20, 22 straipsnių pakeitimo ir papildymo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1271, 2007-07-04, Žin., 2007, Nr. 81-3328 (2007-07-21), i. k. 1071010ISTA00X-1271
+
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 ir 11 straipsnių pakeitimo įstatymas
 
