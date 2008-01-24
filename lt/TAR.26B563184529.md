@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2007-03-22"
+last_updated: "2008-01-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,13 +18,13 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Neoficialus
-
-įstatymo tekstas
-
 Įstatymas
 
 paskelbtas: Žin., 1995, Nr. 107-2391
+
+Neoficialus
+
+įstatymo tekstas
 
 LIETUVOS
 
@@ -36,9 +36,9 @@ PLANAVIMO
 
 ĮSTATYMAS
 
-1995 m. gruodžio
+1995 m. gruodžio 12 d.
 
-12 d. Nr. I-1120
+Nr. I-1120
 
 Vilnius
 
@@ -3492,6 +3492,10 @@ planai gali būti rengiami ir kitais atvejais, kai tai numato įstatymai ar kiti
 
 teisės aktai.
 
+3
+
+dalies redakcija iki 2008 m. kovo 1 d.:
+
 3. Detalieji planai nerengiami, jeigu
 
 numatomiems statyti statiniams statybos leidimas yra nereikalingas, taip pat
@@ -3500,6 +3504,18 @@ kai statant statinius žemės sklypo tvarkymo ir naudojimo režimas yra
 
 nekeičiamas.
 
+3
+
+dalies redakcija nuo 2008 m. kovo 1 d.:
+
+3. Detalieji planai nerengiami, jeigu
+
+numatomiems statyti statiniams statybos leidimas yra nereikalingas, taip
+
+pat kai statant statinius žemės sklypo tvarkymo ir naudojimo režimas yra
+
+nekeičiamas ir jeigu tai numatyta kituose įstatymuose.
+
 4. Naudojamų gretimų žemės sklypų ribas
 
 ir plotą be detaliojo plano galima keisti, jei toks keitimas nesiejamas su
@@ -3507,6 +3523,10 @@ ir plotą be detaliojo plano galima keisti, jei toks keitimas nesiejamas su
 naujo sklypo suformavimu ar žemės ploto padidinimu laisvoje valstybinėje
 
 žemėje, taip pat teritorijos tvarkymo ir naudojimo režimo pakeitimu.
+
+5
+
+dalies redakcija iki 2008 m. kovo 1 d.:
 
 5. Kaimų teritorijose ir žemės ūkio
 
@@ -3518,15 +3538,39 @@ atvejais vietoj detaliųjų planų rengiami žemėvaldų planai (projektai) Žem
 
 tvarka.
 
+5
+
+dalies redakcija nuo 2008 m. kovo 1 d.:
+
+5. Kaimų
+
+teritorijose ir žemės ūkio paskirties žemėje, išskyrus miestams po 1995 m. birželio 1 d. nustatyta tvarka priskirtas teritorijas, šio straipsnio 1 dalies 5, 6 ir 7
+
+punktuose nustatytais atvejais, taip pat kaimų teritorijose statant ūkininko
+
+sodybą ar pagalbinio ūkio ir kitos paskirties (fermų, ūkio, šiltnamių,
+
+kaimo turizmo) pastatus, kai vykdoma statyba atitinka Lietuvos Respublikos
+
+ūkininko ūkio įstatyme nurodytas ūkininko sodybos ar pagalbinio ūkio ir
+
+kitos paskirties (fermų, ūkio, šiltnamių, kaimo turizmo) pastatų statybos
+
+sąlygas, vietoj detaliųjų planų rengiami žemėvaldų planai (projektai) arba
+
+kaimo plėtros žemėtvarkos projektai Žemės įstatymo ir šio Įstatymo 18
+
+straipsnio 1 dalyje nurodytose taisyklėse nustatyta tvarka.
+
 6. Detalieji planai, keičiantys
 
 pagrindinę tikslinę žemės naudojimo paskirtį iš žemės ūkio į kitos paskirties
 
-žemę, rengiami, jei toks keitimas numatytas savivaldybės ar jos dalies bendruosiuose,
+žemę, rengiami, jei toks keitimas numatytas savivaldybės ar jos dalies
 
-taip pat specialiuosiuose planuose. Jei bendrieji ar specialieji planai
+bendruosiuose, taip pat specialiuosiuose planuose. Jei bendrieji ar specialieji
 
-neparengti, detaliųjų planų planavimo organizatoriumi gali būti tik
+planai neparengti, detaliųjų planų planavimo organizatoriumi gali būti tik
 
 savivaldybės administracijos direktorius arba valstybinės žemės valdytojas. Jei
 
@@ -3544,11 +3588,11 @@ jų dalių (miestų ir miestelių) bendrieji planai, savivaldybės administracij
 
 direktorius, esant savivaldybės tarybos sprendimui ir apskrities viršininko
 
-pritarimui, Vyriausybės nustatyta tvarka sudaro sutartį dėl detaliojo teritorijų
+pritarimui, Vyriausybės nustatyta tvarka sudaro sutartį dėl detaliojo
 
-planavimo organizatoriaus teisių ir pareigų perdavimo žemės valdytojui ar
+teritorijų planavimo organizatoriaus teisių ir pareigų perdavimo žemės
 
-naudotojui.
+valdytojui ar naudotojui.
 
 7. Detalieji planai nerengiami, kai
 
@@ -3573,6 +3617,12 @@ Nr. IX-2466,
 Nr. X-679, 2006-06-08,
 
 Žin., 2006, Nr. 66-2429 (2006-06-13)
+
+Nr.
+
+X-1421,
+
+2008-01-17, Žin., 2008, Nr. 10-337 (2008-01-24)
 
 22 straipsnis.
 
@@ -4670,13 +4720,11 @@ planavimo organizatorius.
 
 procese bendroji ir supaprastinta tvarka reglamentuojama Vyriausybės
 
-patvirtintuose konsultavimosi, viešo svarstymo nuostatuose. Bendroji ir
+patvirtintuose konsultavimosi, viešo svarstymo nuostatuose. Bendroji ir supaprastinta
 
-supaprastinta visuomenės dalyvavimo teritorijų planavimo procese svarstymo
+visuomenės dalyvavimo teritorijų planavimo procese svarstymo tvarka nustatoma
 
-tvarka nustatoma atsižvelgiant į teritorijų planavimo dokumentų lygmenis ir
-
-rūšis.
+atsižvelgiant į teritorijų planavimo dokumentų lygmenis ir rūšis.
 
 31
 
@@ -4696,19 +4744,19 @@ pradžios ir planavimo tikslų skelbiami vietinėje spaudoje bei institucijų
 
 interneto tinklalapiuose. Savivaldybių ir jų vykdomųjų institucijų priimti
 
-sprendimai dėl teritorijų planavimo dokumentų rengimo skelbiami vietinėje
+sprendimai dėl teritorijų planavimo dokumentų rengimo skelbiami vietinėje spaudoje,
 
-spaudoje, savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta
+savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta teritorijos
 
-teritorijos planavimas. Detaliojo planavimo organizatorius apie žemės sklypo ar
+planavimas. Detaliojo planavimo organizatorius apie žemės sklypo ar grupės
 
-grupės žemės sklypų teritorijos planavimo dokumentų rengimo pradžią bei
+žemės sklypų teritorijos planavimo dokumentų rengimo pradžią bei planavimo
 
-planavimo tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir
+tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir naudotojus, taip
 
-naudotojus, taip pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie
+pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie planuojamos
 
-planuojamos teritorijos įrengia stendą su šia informacija.
+teritorijos įrengia stendą su šia informacija.
 
 2. Fiziniai ir juridiniai asmenys turi teisę
 
@@ -5748,11 +5796,11 @@ autrap@lrs.lt
 
 priežiūrą atliekančių institucijų funkcijos
 
-Valstybinę teritorijų
+Valstybinę
 
-planavimo priežiūrą atliekanti institucija pagal kompetenciją atlieka šias
+teritorijų planavimo priežiūrą atliekanti institucija pagal kompetenciją
 
-funkcijas:
+atlieka šias funkcijas:
 
 1) tikrina, ar planavimo sąlygos ir planavimo
 
@@ -6088,9 +6136,7 @@ PLANAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Šis
 
-Įstatymas, išskyrus jo 2 ir 3 straipsnius, įsigalioja nuo 2004 m. gegužės 1
-
-d.
+Įstatymas, išskyrus jo 2 ir 3 straipsnius, įsigalioja nuo 2004 m. gegužės 1 d.
 
 Nauja
 
@@ -6186,13 +6232,31 @@ TERITORIJŲ
 
 PLANAVIMO ĮSTATYMO 11, 18 IR 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-1421,
+
+2008-01-17, Žin., 2008, Nr. 10-337 (2008-01-24)
+
+TERITORIJŲ
+
+PLANAVIMO ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2008 m. kovo 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2007-04-05)
+Aušrinė Trapinskienė (2008-01-24)
 
 autrap@lrs.lt
 
