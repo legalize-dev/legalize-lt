@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2006-07-18"
+last_updated: "2008-02-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Įstatymas paskelbtas: Žin., 1998, Nr.
-
-54-1492
+Įstatymas skelbtas: Žin., 1998, Nr. 54-1492
 
 Neoficialus įstatymo tekstas
 
@@ -49,165 +47,159 @@ NUOSTATOS
 
 straipsnis. Įstatymo paskirtis
 
-1.
+1. Šis Įstatymas
 
-Šis Įstatymas nustato valstybės ir savivaldybių turto valdymo, naudojimo ir
+nustato valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo
 
-disponavimo juo tvarką bei sąlygas, valstybės ir savivaldybių institucijų
+tvarką bei sąlygas, valstybės ir savivaldybių institucijų įgaliojimus šioje
 
-įgaliojimus šioje srityje tiek, kiek to nereglamentuoja kiti šio turto valdymo
+srityje tiek, kiek to nereglamentuoja kiti šio turto valdymo ir (ar) naudojimo
 
-ir (ar) naudojimo bei (ar) disponavimo juo įstatymai.
+bei (ar) disponavimo juo įstatymai.
 
-2.
+2. Lietuvos
 
-Lietuvos banko turto valdymo, naudojimo ir disponavimo juo tvarką ir sąlygas
+banko turto valdymo, naudojimo ir disponavimo juo tvarką ir sąlygas nustato
 
-nustato Lietuvos banko įstatymas.
+Lietuvos banko įstatymas.
 
 2
 
 straipsnis. Pagrindinės Įstatymo sąvokos
 
-1.
+1. Turtas
 
-Turtas – materialiosios, nematerialiosios ir finansinės vertybės.
+– materialiosios, nematerialiosios ir finansinės vertybės.
 
-2.
+2. Ilgalaikis
 
-Ilgalaikis materialusis turtas – turtas, kuris naudingai eksploatuojamas
+materialusis turtas – turtas, kuris naudingai eksploatuojamas ilgiau negu
 
-ilgiau negu vienerius metus, o jo įsigijimo vertė ne mažesnė už Vyriausybės
+vienerius metus, o jo įsigijimo vertė ne mažesnė už Vyriausybės nustatytą
 
-nustatytą vertę.
+vertę.
 
-3.
+3. Trumpalaikis
 
-Trumpalaikis materialusis turtas – turtas, kuris naudingai eksploatuojamas
+materialusis turtas – turtas, kuris naudingai eksploatuojamas ne ilgiau
 
-ne ilgiau negu vienerius metus arba kurio įsigijimo vertė yra mažesnė už
+negu vienerius metus arba kurio įsigijimo vertė yra mažesnė už Vyriausybės
 
-Vyriausybės nustatytą ilgalaikio materialiojo turto vertę.
+nustatytą ilgalaikio materialiojo turto vertę.
 
-4.
+4. Turto
 
-Turto valdymas – teisė įstatymų nustatyta tvarka daryti turtui fizinį
+valdymas – teisė įstatymų nustatyta tvarka daryti turtui fizinį bei ūkinį
 
-bei ūkinį poveikį.
+poveikį.
 
-5.
+5. Turto
 
-Turto naudojimas – naudingųjų turto savybių taikymas naudotojo
+naudojimas – naudingųjų turto savybių taikymas naudotojo poreikiams
 
-poreikiams tenkinti.
+tenkinti.
 
-6.
+6. Disponavimas
 
-Disponavimas turtu – teisė turtą parduoti, kitaip perleisti, taip pat
+turtu – teisė turtą parduoti, kitaip perleisti, taip pat išnuomoti, įkeisti
 
-išnuomoti, įkeisti arba kitokiu būdu keisti jo teisinę būklę.
+arba kitokiu būdu keisti jo teisinę būklę.
 
-7.
+7. Turto
 
-Turto patikėjimo teisė – valstybės ar savivaldybių institucijos,
+patikėjimo teisė – valstybės ar savivaldybių institucijos, Lietuvos banko,
 
-Lietuvos banko, valstybės ar savivaldybės įmonės, įstaigos, organizacijos teisė
+valstybės ar savivaldybės įmonės, įstaigos, organizacijos teisė savo įstatuose
 
-savo įstatuose (nuostatuose), taip pat valstybės ar savivaldybės įmonių,
+(nuostatuose), taip pat valstybės ar savivaldybės įmonių, įstaigų, organizacijų
 
-įstaigų, organizacijų veiklą reglamentuojančiuose norminiuose aktuose nustatyta
+veiklą reglamentuojančiuose norminiuose aktuose nustatyta tvarka bei sąlygomis
 
-tvarka bei sąlygomis valdyti, naudoti valstybės ar savivaldybių perduotą turtą
+valdyti, naudoti valstybės ar savivaldybių perduotą turtą ir disponuoti juo
 
-ir disponuoti juo nepažeidžiant įstatymų ir kitų asmenų teisių bei interesų.
+nepažeidžiant įstatymų ir kitų asmenų teisių bei interesų. Kiti juridiniai
 
-Kiti juridiniai asmenys valstybės ar savivaldybės jiems patikėjimo teise
+asmenys valstybės ar savivaldybės jiems patikėjimo teise perduotą turtą valdo,
 
-perduotą turtą valdo, naudoja ir disponuoja juo tiek ir tokia tvarka bei
+naudoja ir disponuoja juo tiek ir tokia tvarka bei sąlygomis, kaip nustatyta
 
-sąlygomis, kaip nustatyta šio Įstatymo 9 ar 11 straipsniuose bei turto
+šio Įstatymo 9 ar 11 straipsniuose bei turto patikėjimo sutartyje.
 
-patikėjimo sutartyje.
+8. Turto
 
-8.
+valdytojas – valstybės ar savivaldybių institucijos, Lietuvos bankas,
 
-Turto valdytojas – valstybės ar savivaldybių institucijos, Lietuvos
+valstybės ar savivaldybės įmonė, įstaiga ar organizacija ir šio Įstatymo 9 bei
 
-bankas, valstybės ar savivaldybės įmonė, įstaiga ar organizacija ir šio
-
-Įstatymo 9 bei 11 straipsnyje nustatytais atvejais kiti juridiniai asmenys, patikėjimo
+11 straipsnyje nustatytais atvejais kiti juridiniai asmenys, patikėjimo
 
 ar nuosavybės teise valdantys, naudojantys valstybės ar savivaldybės turtą ir
 
 disponuojantys juo.
 
-9.
+9. Liekamosios
 
-Liekamosios medžiagos – tinkamos naudoti detalės, mazgai, taurieji
+medžiagos – tinkamos naudoti detalės, mazgai, taurieji metalai,
 
-metalai, brangakmeniai, antrinės žaliavos, statybinės ir kitos medžiagos,
+brangakmeniai, antrinės žaliavos, statybinės ir kitos medžiagos, liekančios
 
-liekančios išardžius numatytą likviduoti turtą.
+išardžius numatytą likviduoti turtą.
 
-10.
+10. Turto
 
-Turto nurašymas – Vyriausybės nustatyta tvarka įformintas turto išėmimas
+nurašymas – Vyriausybės nustatyta tvarka įformintas turto išėmimas iš
 
-iš apyvartos ar sandėliavimo vietų, kai šis turtas perleidžiamas ar
+apyvartos ar sandėliavimo vietų, kai šis turtas perleidžiamas ar likviduojamas.
 
-likviduojamas.
+11. Turto
 
-11.
+likvidavimas – Vyriausybės nustatyta tvarka nurašyto turto išvežimas į
 
-Turto likvidavimas – Vyriausybės nustatyta tvarka nurašyto turto
-
-išvežimas į sąvartyną arba jo sunaikinimas.
+sąvartyną arba jo sunaikinimas.
 
 3
 
 straipsnis. Valstybės turto sandara
 
-1.
+1. Valstybės
 
-Valstybės turtas gali būti:
+turtas gali būti:
 
-1)
+1) ilgalaikis
 
-ilgalaikis materialusis;
+materialusis;
 
 2)
 
 nematerialusis;
 
-3)
+3) finansinis;
 
-finansinis;
+4) trumpalaikis
 
-4)
+materialusis.
 
-trumpalaikis materialusis.
+2. Valstybės
 
-2.
+ilgalaikis materialusis turtas yra:
 
-Valstybės ilgalaikis materialusis turtas yra:
+1) žemė, vidaus
 
-1)
+vandenys, miškai, parkai ir kiti nekilnojamieji daiktai;
 
-žemė, vidaus vandenys, miškai, parkai ir kiti nekilnojamieji daiktai;
+2) žemės gelmės,
 
-2)
+taip pat valstybinės reikšmės vidaus vandenys, miškai, parkai, keliai bei
 
-žemės gelmės, taip pat valstybinės reikšmės vidaus vandenys, miškai, parkai,
+kilnojamosios ir nekilnojamosios kultūros vertybės ir paminklai, jei bet koks
 
-keliai bei kilnojamosios ir nekilnojamosios kultūros vertybės ir paminklai, jei
+šiame punkte išvardytas turtas valstybei nuosavybės teise priklauso įstatymų
 
-bet koks šiame punkte išvardytas turtas valstybei nuosavybės teise priklauso
+nustatyta tvarka;
 
-įstatymų nustatyta tvarka;
+3) Lietuvos
 
-3)
-
-Lietuvos bankui, valstybės institucijoms, valstybės įmonėms, įstaigoms bei
+bankui, valstybės institucijoms, valstybės įmonėms, įstaigoms bei
 
 organizacijoms, savivaldybėms ir šio Įstatymo 9 straipsnyje nustatytais
 
@@ -215,75 +207,73 @@ atvejais kitiems juridiniams asmenims patikėjimo teise perduoti pastatai ar jų
 
 dalys, statiniai ar įrenginiai;
 
-4)
+4) kitas
 
-kitas ilgalaikis materialusis turtas.
+ilgalaikis materialusis turtas.
 
-3.
+3. Valstybės
 
-Valstybės nematerialusis turtas yra:
+nematerialusis turtas yra:
 
-1)
+1) valstybės
 
-valstybės vardas;
+vardas;
 
-2)
+2) Lietuvos
 
-Lietuvos Respublikos heraldikos objektai;
+Respublikos heraldikos objektai;
 
-3)
+3) teisės į oro
 
-teisės į oro erdvę virš Lietuvos Respublikos teritorijos, jos kontinentinį
+erdvę virš Lietuvos Respublikos teritorijos, jos kontinentinį šelfą bei
 
-šelfą bei ekonominę zoną Baltijos jūroje;
+ekonominę zoną Baltijos jūroje;
 
-4)
+4) radijo dažnių
 
-radijo dažnių ištekliai;
+ištekliai;
 
-5)
+5) patentai ir
 
-patentai ir licencijos, taip pat teisės, atsirandančios iš patentų ir
+licencijos, taip pat teisės, atsirandančios iš patentų ir licencijų,
 
-licencijų, valstybiniai sertifikavimo ženklai, techniniai projektiniai
+valstybiniai sertifikavimo ženklai, techniniai projektiniai dokumentai,
 
-dokumentai, valstybės valdoma informacija, kurios naudojimą reglamentuoja kiti
+valstybės valdoma informacija, kurios naudojimą reglamentuoja kiti įstatymai,
 
-įstatymai, informacijos apdorojimo programos ir intelektinės veiklos
+informacijos apdorojimo programos ir intelektinės veiklos rezultatai;
 
-rezultatai;
+6) kitas
 
-6)
+nematerialusis turtas.
 
-kitas nematerialusis turtas.
+4. Valstybės
 
-4.
+finansinis turtas yra:
 
-Valstybės finansinis turtas yra:
+1) pagal
 
-1)
+įstatymus ir kitus teisės aktus iš mokesčių, rinkliavų ir kitų įmokų gaunami
 
-pagal įstatymus ir kitus teisės aktus iš mokesčių, rinkliavų ir kitų įmokų
+valstybės biudžeto, valstybės pinigų fondų piniginiai ištekliai;
 
-gaunami valstybės biudžeto, valstybės pinigų fondų piniginiai ištekliai;
+2) Lietuvos
 
-2)
+banko kapitalas;
 
-Lietuvos banko kapitalas;
+3) valstybei
 
-3)
+nuosavybės teise priklausantys vertybiniai popieriai ir turtinės teisės,
 
-valstybei nuosavybės teise priklausantys vertybiniai popieriai ir turtinės
+atsirandančios iš šių vertybinių popierių;
 
-teisės, atsirandančios iš šių vertybinių popierių;
+4) reikalavimo
 
-4)
+teisė į valstybės išduotas paskolas;
 
-reikalavimo teisė į valstybės išduotas paskolas;
+5) kitas
 
-5)
-
-kitas finansinis turtas.
+finansinis turtas.
 
 Straipsnio
 
@@ -299,65 +289,63 @@ X-771,
 
 straipsnis. Savivaldybių turto sandara
 
-1.
+1. Savivaldybių
 
-Savivaldybių turtas gali būti:
+turtas gali būti:
 
-1)
+1) ilgalaikis
 
-ilgalaikis materialusis;
+materialusis;
 
 2)
 
 nematerialusis;
 
-3)
+3) finansinis;
 
-finansinis;
+4) trumpalaikis
 
-4)
+materialusis.
 
-trumpalaikis materialusis.
+2. Savivaldybių
 
-2.
+ilgalaikis materialusis turtas yra:
 
-Savivaldybių ilgalaikis materialusis turtas yra:
+1) žemė,
 
-1)
+pastatai ir statiniai, įrenginiai ir kiti nekilnojamieji daiktai, nuosavybės
 
-žemė, pastatai ir statiniai, įrenginiai ir kiti nekilnojamieji daiktai,
+teise priklausantys savivaldybei;
+
+2) vietinės
+
+reikšmės kilnojamosios ir nekilnojamosios kultūros vertybės ir paminklai,
 
 nuosavybės teise priklausantys savivaldybei;
 
-2)
+3) kitas
 
-vietinės reikšmės kilnojamosios ir nekilnojamosios kultūros vertybės ir
+ilgalaikis materialusis turtas.
 
-paminklai, nuosavybės teise priklausantys savivaldybei;
+3. Savivaldybių
 
-3)
+nematerialusis turtas yra:
 
-kitas ilgalaikis materialusis turtas.
+1) savivaldybių
 
-3.
+heraldikos objektai;
 
-Savivaldybių nematerialusis turtas yra:
+2) patentai ir
 
-1)
+licencijos, taip pat teisės, atsirandančios iš patentų ir licencijų,
 
-savivaldybių heraldikos objektai;
+sertifikavimo ženklai, techniniai projektiniai dokumentai, informacijos
 
-2)
+apdorojimo programos ir intelektinės veiklos rezultatai;
 
-patentai ir licencijos, taip pat teisės, atsirandančios iš patentų ir
+3) kitas
 
-licencijų, sertifikavimo ženklai, techniniai projektiniai dokumentai,
-
-informacijos apdorojimo programos ir intelektinės veiklos rezultatai;
-
-3)
-
-kitas nematerialusis turtas.
+nematerialusis turtas.
 
 4. Savivaldybių finansinis turtas yra:
 
@@ -377,9 +365,9 @@ vertybinių popierių;
 
 išduotas paskolas;
 
-4)
+4) kitas
 
-kitas finansinis turtas.
+finansinis turtas.
 
 Straipsnio pakeitimai:
 
@@ -405,61 +393,61 @@ SAVIVALDYBIŲ TURTO ĮGIJIMAS
 
 straipsnis. Valstybės turto įgijimo būdai
 
-1.
+1. Valstybė
 
-Valstybė turtą įgyja:
+turtą įgyja:
 
-1)
+1) įstatymų
 
-įstatymų nustatyta tvarka gaudama pajamų iš mokesčių, kitų įmokų ir rinkliavų;
+nustatyta tvarka gaudama pajamų iš mokesčių, kitų įmokų ir rinkliavų;
 
-2)
+2) gaudama
 
-gaudama pajamų iš valstybės turto valdymo ir naudojimo;
+pajamų iš valstybės turto valdymo ir naudojimo;
 
-3)
+3) pagal
 
-pagal sandorius;
+sandorius;
 
-4)
+4) paveldėdama
 
-paveldėdama turtą;
+turtą;
 
-5)
+5) įstatymų
 
-įstatymų nustatyta tvarka paimdama visuomenės poreikiams fizinių ir juridinių
+nustatyta tvarka paimdama visuomenės poreikiams fizinių ir juridinių asmenų,
 
-asmenų, veikiančių Lietuvos Respublikos teritorijoje, turtą;
+veikiančių Lietuvos Respublikos teritorijoje, turtą;
 
-6)
+6) pagal
 
-pagal Vyriausybės nutarimą perimdama savivaldybės turtą, jei šį turtą valstybei
+Vyriausybės nutarimą perimdama savivaldybės turtą, jei šį turtą valstybei
 
 nusprendžia perduoti savivaldybės taryba;
 
-7)
+7) paimdama savo
 
-paimdama savo nuosavybėn lobį;
+nuosavybėn lobį;
 
-8)
+8) perimdama
 
-perimdama teismo sprendimu bešeimininkį turtą ir konfiskuojamą turtą;
+teismo sprendimu bešeimininkį turtą ir konfiskuojamą turtą;
 
-9)
+9) pagal teismo
 
-pagal teismo sprendimą perimdama netinkamai laikomas kultūros vertybes;
+sprendimą perimdama netinkamai laikomas kultūros vertybes;
 
-10)
+10) kitais
 
-kitais įstatymų nustatytais būdais.
+įstatymų nustatytais būdais.
 
-2.
+2. Vyriausybė
 
-Vyriausybė nustato Konfiskuoto, valstybės paveldėto, į valstybės pajamas paimto
+nustato Konfiskuoto, valstybės paveldėto, į valstybės pajamas paimto ar perduoto
 
-ar perduoto turto ir lobių apskaitos, įkainojimo, saugojimo, realizavimo ir
+turto ir lobių apskaitos, įkainojimo, saugojimo, realizavimo ir grąžinimo
 
-grąžinimo tvarką.
+tvarką.
 
 6
 
@@ -469,45 +457,41 @@ Savivaldybė
 
 turtą įgyja:
 
-1)
+1) perimdama
 
-perimdama valstybės turtą, kuris perduodamas savivaldybių nuosavybėn pagal
+valstybės turtą, kuris perduodamas savivaldybių nuosavybėn pagal įstatymus;
 
-įstatymus;
+2) savivaldybės
 
-2)
+tarybos sutikimu perimdama valstybės turtą savivaldybių savarankiškosioms ir
 
-savivaldybės tarybos sutikimu perimdama valstybės turtą savivaldybių
+priskirtosioms (ribotai savarankiškoms) funkcijoms įgyvendinti, kai šis turtas
 
-savarankiškosioms ir priskirtosioms (ribotai savarankiškoms) funkcijoms
+perduodamas savivaldybių nuosavybėn pagal Vyriausybės nutarimus;
 
-įgyvendinti, kai šis turtas perduodamas savivaldybių nuosavybėn pagal
+3) įstatymų
 
-Vyriausybės nutarimus;
+nustatyta tvarka gaudama pajamų iš mokesčių, kitų įmokų ir rinkliavų;
 
-3)
+4) gaudama
 
-įstatymų nustatyta tvarka gaudama pajamų iš mokesčių, kitų įmokų ir rinkliavų;
+pajamų iš savivaldybės turto valdymo ir naudojimo;
 
-4)
+5) pagal
 
-gaudama pajamų iš savivaldybės turto valdymo ir naudojimo;
+sandorius;
 
-5)
+6) pagal
 
-pagal sandorius;
+testamentą paveldėdama turtą;
 
-6)
+7) pagal teismo
 
-pagal testamentą paveldėdama turtą;
+sprendimą perimdama bešeimininkį turtą;
 
-7)
+8) kitais
 
-pagal teismo sprendimą perimdama bešeimininkį turtą;
-
-8)
-
-kitais įstatymų nustatytais būdais.
+įstatymų nustatytais būdais.
 
 Straipsnio pakeitimai:
 
@@ -533,41 +517,41 @@ DISPONAVIMAS JUO
 
 straipsnis. Valstybės turto valdymo, naudojimo ir disponavimo juo subjektai
 
-1.
+1. Valstybės
 
-Valstybės turto savininko funkcijas įgyvendina Seimas ir Vyriausybė įstatymų ir
+turto savininko funkcijas įgyvendina Seimas ir Vyriausybė įstatymų ir kitų
 
-kitų teisės aktų nustatyta tvarka.
+teisės aktų nustatyta tvarka.
 
-2.
+2. Valstybės
 
-Valstybės turtą patikėjimo teise valdo, naudoja ir juo disponuoja:
+turtą patikėjimo teise valdo, naudoja ir juo disponuoja:
 
-1)
+1) Lietuvos
 
-Lietuvos bankas, valstybės institucijos, įstaigos ir organizacijos, remdamosi
+bankas, valstybės institucijos, įstaigos ir organizacijos, remdamosi įstatymais
 
-įstatymais ir kitais teisės aktais;
+ir kitais teisės aktais;
 
-2)
+2) valstybės
 
-valstybės įmonės;
+įmonės;
 
-3)
+3) savivaldybės
 
-savivaldybės – šio Įstatymo 10 straipsnyje nustatytais atvejais;
+– šio Įstatymo 10 straipsnyje nustatytais atvejais;
 
-4)
+4) šio Įstatymo
 
-šio Įstatymo 9 straipsnyje nustatytais atvejais kiti juridiniai asmenys – pagal
+9 straipsnyje nustatytais atvejais kiti juridiniai asmenys – pagal turto
 
-turto patikėjimo sutartį.
+patikėjimo sutartį.
 
-3.
+3. Subjektų,
 
-Subjektų, valdančių, naudojančių valstybės turtą ir disponuojančių juo, teises
+valdančių, naudojančių valstybės turtą ir disponuojančių juo, teises ir
 
-ir pareigas nustato įstatymai, Vyriausybės nutarimai, šių subjektų įstatai
+pareigas nustato įstatymai, Vyriausybės nutarimai, šių subjektų įstatai
 
 (nuostatai) ir šio Įstatymo 9 straipsnio 4 dalyje nustatytais atvejais – turto
 
@@ -585,33 +569,33 @@ X-771,
 
 straipsnis. Savivaldybių turto valdymo, naudojimo ir disponavimo juo subjektai
 
-1.
+1. Savivaldybių
 
-Savivaldybių turtą valdo, naudoja ir juo disponuoja:
+turtą valdo, naudoja ir juo disponuoja:
 
-1)
+1) savivaldybių
 
-savivaldybių tarybos pagal Vietos savivaldos įstatymą - įgyvendindamos turto
+tarybos pagal Vietos savivaldos įstatymą - įgyvendindamos turto savininko
 
-savininko funkcijas;
+funkcijas;
 
-2)
+2) kitos
 
-kitos savivaldybių institucijos, savivaldybės įmonės, įstaigos ir organizacijos
+savivaldybių institucijos, savivaldybės įmonės, įstaigos ir organizacijos –
 
-– patikėjimo teise bei šio Įstatymo 11 straipsnyje nustatytais atvejais kiti
+patikėjimo teise bei šio Įstatymo 11 straipsnyje nustatytais atvejais kiti
 
 juridiniai asmenys – pagal turto patikėjimo sutartį.
 
-2.
+2. Subjektų,
 
-Subjektų, valdančių, naudojančių savivaldybių turtą ir disponuojančių juo,
+valdančių, naudojančių savivaldybių turtą ir disponuojančių juo, teises ir
 
-teises ir pareigas nustato įstatymai, savivaldybių tarybų sprendimai bei tų
+pareigas nustato įstatymai, savivaldybių tarybų sprendimai bei tų subjektų
 
-subjektų įstatai (nuostatai) ir šio Įstatymo 11 straipsnio 3 dalyje nustatytais
+įstatai (nuostatai) ir šio Įstatymo 11 straipsnio 3 dalyje nustatytais atvejais
 
-atvejais – turto patikėjimo sutartis.
+– turto patikėjimo sutartis.
 
 Straipsnio pakeitimai:
 
@@ -631,17 +615,19 @@ Valstybės ir savivaldybių turtas turi
 
 būti valdomas, naudojamas ir juo disponuojama vadovaujantis šiais principais:
 
-1) visuomeninės naudos; šis principas reiškia,
+1) visuomeninės naudos; šis principas
 
-kad valstybės ir savivaldybių turtas turi būti valdomas, naudojamas ir juo
+reiškia, kad valstybės ir savivaldybių turtas turi būti valdomas, naudojamas ir
 
-disponuojama rūpestingai, siekiant užtikrinti visuomenės interesų tenkinimą;
+juo disponuojama rūpestingai, siekiant užtikrinti visuomenės interesų
 
-2) efektyvumo; šis principas reiškia,
+tenkinimą;
 
-kad sprendimais, susijusiais su valstybės ir savivaldybių turto valdymu,
+2) efektyvumo; šis principas reiškia, kad
 
-naudojimu ir disponavimu juo, turi būti siekiama maksimalios naudos visuomenei;
+sprendimais, susijusiais su valstybės ir savivaldybių turto valdymu, naudojimu
+
+ir disponavimu juo, turi būti siekiama maksimalios naudos visuomenei;
 
 3) racionalumo; šis principas reiškia,
 
@@ -671,31 +657,31 @@ straipsnis. Valstybės turto valdymas, naudojimas ir disponavimas juo patikėjim
 
 teise
 
-1.
+1. Valstybės turtas
 
-Valstybės turtas patikėjimo teise valdyti, naudoti ir disponuoti perduodamas
+patikėjimo teise valdyti, naudoti ir disponuoti perduodamas Vyriausybės
 
-Vyriausybės nustatyta tvarka, išskyrus šio Įstatymo 161 straipsnio 7
+nustatyta tvarka, išskyrus šio Įstatymo 161 straipsnio 7 dalyje
 
-dalyje nustatytą išimtį, jeigu Lietuvos Respublikos įstatymai nenustato kitaip.
+nustatytą išimtį, jeigu Lietuvos Respublikos įstatymai nenustato kitaip.
 
-2.
+2. Valstybės
 
-Valstybės turtą patikėjimo teise valdo, naudoja ir juo disponuoja valstybės
+turtą patikėjimo teise valdo, naudoja ir juo disponuoja valstybės įmonė
 
-įmonė Valstybės turto fondas, o turtą, kuris Vyriausybės nutarimu neperduotas
+Valstybės turto fondas, o turtą, kuris Vyriausybės nutarimu neperduotas šiam
 
-šiam fondui, – valstybės institucijos, Lietuvos bankas, valstybės įmonės,
+fondui, – valstybės institucijos, Lietuvos bankas, valstybės įmonės, įstaigos
 
-įstaigos ir organizacijos, taip pat šio Įstatymo 10 straipsnyje nustatytais
+ir organizacijos, taip pat šio Įstatymo 10 straipsnyje nustatytais atvejais
 
-atvejais savivaldybės ir šio Įstatymo 161 straipsnyje nustatytais
+savivaldybės ir šio Įstatymo 161 straipsnyje nustatytais atvejais
 
-atvejais akcinė bendrovė Turto bankas.
+akcinė bendrovė Turto bankas.
 
-3.
+3. Šio
 
-Šio straipsnio 2 dalyje nurodyti subjektai turi teisę priimti sprendimus,
+straipsnio 2 dalyje nurodyti subjektai turi teisę priimti sprendimus,
 
 susijusius su valstybės turto valdymu, naudojimu ir disponavimu juo, išskyrus
 
@@ -711,21 +697,21 @@ teisę nustatyti ir kitas patikėto turto valdymo, naudojimo ir disponavimo juo
 
 sąlygas.
 
-4.
+4. Kitiems
 
-Kitiems juridiniams asmenims valstybės turtas patikėjimo teise gali būti
+juridiniams asmenims valstybės turtas patikėjimo teise gali būti perduotas
 
-perduotas pagal turto patikėjimo sutartį tik tais atvejais, kai įstatymai jiems
+pagal turto patikėjimo sutartį tik tais atvejais, kai įstatymai jiems priskiria
 
-priskiria valstybines funkcijas. Sprendimą dėl turto perdavimo patikėjimo teise
+valstybines funkcijas. Sprendimą dėl turto perdavimo patikėjimo teise kitiems
 
-kitiems juridiniams asmenims priima Vyriausybė. Tokiame sprendime turi būti
+juridiniams asmenims priima Vyriausybė. Tokiame sprendime turi būti nurodyta
 
-nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo
+valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį.
 
-sutartį. Kiti juridiniai asmenys, kuriems valstybės turtas perduotas pagal
+Kiti juridiniai asmenys, kuriems valstybės turtas perduotas pagal turto
 
-turto patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems
+patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems
 
 asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti,
 
@@ -757,13 +743,135 @@ disponuoja juo sutartį pasirašiusi valstybės institucija ar įstaiga, jei
 
 Vyriausybė nenustato kitaip.
 
-5.
+5. Patikėjimo
 
-Patikėjimo teisė į perduodamą valstybės turtą atsiranda nuo turto perdavimo
+teisė į perduodamą valstybės turtą atsiranda nuo turto perdavimo patikėjimo
 
-patikėjimo teisės subjektui (patikėtiniui) ir turto perdavimo–priėmimo akto
+teisės subjektui (patikėtiniui) ir turto perdavimo–priėmimo akto pasirašymo.
 
-pasirašymo.
+Straipsnio pakeitimai:
+
+Nr.
+
+X-771, 2006-07-18,
+
+Žin., 2006, Nr. 87-3397 (2006-08-08)
+
+10
+
+straipsnis. Savivaldybėms perduodamo valstybės turto valdymas, naudojimas ir
+
+disponavimas juo patikėjimo teise
+
+1. Patikėjimo teise savivaldybės valdo, naudoja ir disponuoja:
+
+1) valstybės turtu, kuris pagal Valstybės turto perdavimo savivaldybių
+
+nuosavybėn įstatymą priskirtas savivaldybių nuosavybei, bet dar neperduotas jų
+
+nuosavybėn. Jeigu savivaldybė atsisako perimti nuosavybėn jai perduodamą
+
+valstybės turtą, Vyriausybės nutarimu šis turtas gali būti perduotas valstybės
+
+institucijoms, valstybės įmonėms, įstaigoms ir organizacijoms;
+
+2) valstybės turtu, kuris Vyriausybės nutarimais savivaldybėms
+
+perduodamas valstybinėms (perduotoms savivaldybėms) bei priskirtosioms (ribotai
+
+savarankiškoms) funkcijoms atlikti.
+
+2. Jeigu pasikeičia valstybinės (perduotos
+
+savivaldybėms) ar priskirtosios (ribotai savarankiškos) funkcijos ar jų
+
+subjektai arba perduotas valstybės turtas tapo nereikalingas šioms funkcijoms
+
+įgyvendinti, Vyriausybės nutarimu šis turtas patikėjimo teise gali būti
+
+perduotas kitiems šio Įstatymo 7 straipsnio 2 dalyje nurodytiems subjektams.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+X-771,
+
+2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
+
+11
+
+straipsnis. Savivaldybių turto valdymas, naudojimas ir disponavimas juo
+
+1. Savivaldybei
+
+nuosavybės teise priklausančio turto savininko funkcijas, remdamasi įstatymais,
+
+įgyvendina savivaldybės taryba.
+
+2. Kitos
+
+savivaldybių institucijos, savivaldybės įmonės, įstaigos ir organizacijos joms
+
+patikėjimo teise perduotą savivaldybės turtą valdo, naudoja bei disponuoja juo
+
+pagal įstatymus savivaldybių tarybų sprendimų nustatyta tvarka.
+
+3. Kitiems
+
+juridiniams asmenims savivaldybės turtas patikėjimo teise gali būti perduodamas
+
+pagal turto patikėjimo sutartį savivaldybių funkcijoms įgyvendinti ir tik tais
+
+atvejais, kai jie pagal įstatymus gali atlikti savivaldybių funkcijas.
+
+Sprendimą dėl turto perdavimo patikėjimo teise kitiems juridiniams asmenims
+
+priima savivaldybės taryba. Tokiame sprendime turi būti nurodyta savivaldybės
+
+institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį, ir
+
+juridinis asmuo, pagal įstatymus galintis atlikti savivaldybių funkcijas. Kiti
+
+juridiniai asmenys, kuriems savivaldybės turtas perduotas pagal turto
+
+patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems
+
+asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti,
+
+laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo
+
+išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims
+
+naudotis kitu būdu. Šis turtas gali būti naudojamas tik savivaldybių funkcijoms
+
+įgyvendinti. Turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų.
+
+Savivaldybės institucija ar įstaiga, sudariusi turto patikėjimo sutartį,
+
+privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma. Turto patikėjimo
+
+sutartis pasibaigia Civilinio kodekso nustatytais atvejais. Sutartį sudariusi
+
+savivaldybės institucija ar įstaiga privalo atsisakyti patikėjimo sutarties
+
+remdamasi Civilinio kodekso 6.967 straipsnio 1 dalies 5 punktu, jei juridinis
+
+asmuo (patikėtinis) nebegali (ar atsisako) įgyvendinti savivaldybių funkcijų,
+
+kurioms įgyvendinti pagal patikėjimo sutartį buvo perduotas turtas. Pasibaigus
+
+turto patikėjimo sutarčiai, turtą patikėjimo teise valdo, naudoja ir juo
+
+disponuoja sutartį pasirašiusi savivaldybės institucija ar įstaiga, jei
+
+savivaldybės taryba nenustato kitaip.
+
+4. Patikėjimo
+
+teisė į perduodamą savivaldybės turtą atsiranda nuo turto perdavimo patikėjimo teisės
+
+subjektui (patikėtiniui) ir turto perdavimo–priėmimo akto pasirašymo.
 
 Straipsnio pakeitimai:
 
@@ -1613,13 +1721,13 @@ heraldikos
 
 objektais
 
-Teisė
+Teisė naudoti
 
-naudoti valstybės vardą ir teisė naudotis Lietuvos Respublikos heraldikos
+valstybės vardą ir teisė naudotis Lietuvos Respublikos heraldikos objektais
 
-objektais suteikiama įstatymais arba Vyriausybės nustatyta tvarka, jei
+suteikiama įstatymais arba Vyriausybės nustatyta tvarka, jei įstatymai
 
-įstatymai nenustato naudojimosi šiomis teisėmis tvarkos.
+nenustato naudojimosi šiomis teisėmis tvarkos.
 
 13
 
@@ -1667,41 +1775,41 @@ valstybės ir savivaldybių įmonėms, organizuojančioms orlaivių skrydžius b
 
 eksploatuojančioms oro uostus;
 
-6)
+6) kitiems
 
-kitiems subjektams, jei tai nustatyta įstatymuose arba tarptautinėse sutartyse.
+subjektams, jei tai nustatyta įstatymuose arba tarptautinėse sutartyse.
 
-2.
+2. Sprendimą dėl
 
-Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1
+valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje
 
-dalyje nurodytiems subjektams priima Vyriausybė ar jos įgaliota institucija.
+nurodytiems subjektams priima Vyriausybė ar jos įgaliota institucija. Sprendimą
 
-Sprendimą dėl savivaldybės turto perdavimo pagal panaudos sutartį šio
+dėl savivaldybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje
 
-straipsnio 1 dalyje nurodytiems subjektams priima savivaldybės taryba ar jos
+nurodytiems subjektams priima savivaldybės taryba ar jos įgaliota institucija.
 
-įgaliota institucija. Sprendime turi būti nurodytas panaudos sutarties
+Sprendime turi būti nurodytas panaudos sutarties terminas, taip pat gali būti
 
-terminas, taip pat gali būti nurodytos kitos panaudos sąlygos. Šios sąlygos
+nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į panaudos
 
-privalo būti įrašytos į panaudos sutartį. Vyriausybės įgaliota institucija
+sutartį. Vyriausybės įgaliota institucija sprendimus priima Vyriausybės
 
-sprendimus priima Vyriausybės nustatyta tvarka. Savivaldybės tarybos įgaliota
+nustatyta tvarka. Savivaldybės tarybos įgaliota institucija sprendimus priima
 
-institucija sprendimus priima savivaldybės tarybos nustatyta tvarka. Valstybės
+savivaldybės tarybos nustatyta tvarka. Valstybės ar savivaldybės turto panaudos
 
-ar savivaldybės turto panaudos sutartį sudaro valstybės ar savivaldybės turto
+sutartį sudaro valstybės ar savivaldybės turto valdytojas, valdantis valstybės
 
-valdytojas, valdantis valstybės ar savivaldybės turtą patikėjimo teise.
+ar savivaldybės turtą patikėjimo teise.
 
-3.
+3. Valstybės ar
 
-Valstybės ar savivaldybės turto panaudos sutartyje turi būti nustatyta pagal
+savivaldybės turto panaudos sutartyje turi būti nustatyta pagal panaudos
 
-panaudos sutartį perduodamo turto naudojimo paskirtis, panaudos gavėjo pareiga
+sutartį perduodamo turto naudojimo paskirtis, panaudos gavėjo pareiga savo
 
-savo lėšomis apdrausti gaunamą turtą ir kitos Civiliniame kodekse nustatytos
+lėšomis apdrausti gaunamą turtą ir kitos Civiliniame kodekse nustatytos
 
 panaudos sąlygos. Panaudos davėjas privalo nutraukti panaudos sutartį, jei
 
@@ -1711,15 +1819,15 @@ savivaldybės turtas, ar šį turtą naudoja ne pagal paskirtį. Panaudos gavėj
 
 pagerinusiam pagal panaudos sutartį perduotą turtą, už pagerinimą neatlyginama.
 
-4.
+4. Asmenys,
 
-Asmenys, kuriems valstybės ir savivaldybių turtas perduotas neatlygintinai
+kuriems valstybės ir savivaldybių turtas perduotas neatlygintinai naudotis,
 
-naudotis, negali jo išnuomoti ar kitaip perduoti naudotis tretiesiems asmenims.
+negali jo išnuomoti ar kitaip perduoti naudotis tretiesiems asmenims.
 
-5.
+5. Šio
 
-Šio straipsnio nuostatos netaikomos, kai vadovaujantis šio Įstatymo 161
+straipsnio nuostatos netaikomos, kai vadovaujantis šio Įstatymo 161
 
 straipsniu valstybei nuosavybės teise priklausantis nekilnojamasis turtas
 
@@ -1807,11 +1915,9 @@ Nr.47-1340 (00.06.09), įsigalioja nuo 2000.07.01
 
 Valstybės ir savivaldybių materialiojo turto nuoma
 
-1. Sprendimą dėl valstybės ilgalaikio materialiojo turto
+1. Sprendimą dėl valstybės ilgalaikio materialiojo turto nuomos gali priimti
 
-nuomos gali priimti valstybės turto valdytojas, jei tas ilgalaikis materialusis
-
-turtas:
+valstybės turto valdytojas, jei tas ilgalaikis materialusis turtas:
 
 1) neskirtas šalies gynybai ar saugumui užtikrinti;
 
@@ -1819,9 +1925,9 @@ turtas:
 
 3) nereikalingas valstybės funkcijoms įgyvendinti.
 
-2. Valstybės ilgalaikis materialusis
+2. Valstybės ilgalaikis materialusis turtas
 
-turtas išnuomojamas viešo konkurso būdu, išskyrus atvejus, kuriais Vyriausybės
+išnuomojamas viešo konkurso būdu, išskyrus atvejus, kuriais Vyriausybės
 
 nustatyta tvarka ir sąlygomis ilgalaikį materialųjį turtą išnuomoja ne
 
@@ -1873,15 +1979,15 @@ valdytojo pareigos organizuojant nuomos konkursą;
 
 reikalavimai ir patvirtinta pavyzdinė nuomos sutartis.
 
-5. Nuomos sutartyje turi būti nustatyti Vyriausybės ar
+5. Nuomos sutartyje turi būti nustatyti Vyriausybės ar savivaldybės
 
-savivaldybės tarybos numatyto dydžio delspinigiai už nuomininko praleistą
+tarybos numatyto dydžio delspinigiai už nuomininko praleistą nuomos mokesčio
 
-nuomos mokesčio mokėjimo terminą, jeigu kiti įstatymai nenustato ko kita. Jei
+mokėjimo terminą, jeigu kiti įstatymai nenustato ko kita. Jei nuomos sutartyje
 
-nuomos sutartyje delspinigiai nenustatyti, tai nuomininkas moka 0,05 procento
+delspinigiai nenustatyti, tai nuomininkas moka 0,05 procento dydžio
 
-dydžio delspinigius už kiekvieną pavėluotą dieną. Nuomininkui, pagerinusiam
+delspinigius už kiekvieną pavėluotą dieną. Nuomininkui, pagerinusiam
 
 išsinuomotą turtą, už pagerinimą neatlyginama.
 
@@ -1890,6 +1996,78 @@ išsinuomotą turtą, už pagerinimą neatlyginama.
 Savivaldybei nuosavybės teise priklausantis materialusis turtas išnuomojamas
 
 savivaldybės tarybos nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-771,
+
+2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
+
+15
+
+straipsnis. Valstybės ir savivaldybių turto apskaita, indeksavimas ir valstybei
+
+ir savivaldybėms nuosavybės teise priklausančio turto ataskaita
+
+1. Valstybės ir savivaldybių turto
+
+apskaita tvarkoma įstatymų nustatyta tvarka.
+
+2. Viso valstybei nuosavybės teise priklausančio turto ataskaitą rengia Statistikos
+
+departamentas Vyriausybės nustatyta tvarka. Kiekvienais metais iki rugpjūčio 1
+
+dienos Statistikos departamentas valstybei nuosavybės teise priklausančio turto
+
+ataskaitos projektą pateikia Valstybės kontrolei, o ši iki spalio 1 dienos
+
+pateikia Statistikos departamentui preliminarias išvadas. Statistikos
+
+departamentas, įvertinęs Valstybės kontrolės pateiktas preliminarias išvadas,
+
+iki lapkričio 1 dienos pateikia Valstybės kontrolei ir Vyriausybei valstybei
+
+nuosavybės teise priklausančio turto ataskaitą. Vyriausybė kiekvienais metais
+
+iki gruodžio 1 dienos, vadovaudamasi šio Įstatymo nuostatomis, privalo pateikti
+
+Seimui valstybės turto ataskaitą. Nuo 2008 m. sausio 1 d. Statistikos departamento atliekamas funkcijas rengiant valstybei nuosavybės teise priklausančio
+
+turto ataskaitą perima Finansų ministerija.
+
+3. Savivaldybei nuosavybės teise
+
+priklausančio turto ir patikėjimo teise valdomo valstybės turto ataskaitą
+
+rengia savivaldybės administracija Vyriausybės nustatyta tvarka. Šią ataskaitą
+
+savivaldybės administracija teikia Vietos savivaldos įstatyme numatytoms
+
+savivaldybės institucijoms ir Statistikos departamentui.
+
+4. Valstybei ir savivaldybei nuosavybės
+
+teise priklausantis registruotinas turtas turi būti teisės aktų nustatyta
+
+tvarka registruojamas viešuosiuose registruose.
+
+5. Užtikrinant sprendimų, susijusių su
+
+valstybei nuosavybės teise priklausančio turto valdymu, naudojimu ir
+
+disponavimu juo, kokybę ir jų priėmimo procedūrų koordinavimą, naudojamasi
+
+valstybės turto informacinės paieškos sistema. Valstybės turto informacinės
+
+paieškos sistemą tvarko Vyriausybės įgaliota valstybės institucija ar valstybės
+
+įmonė. Vyriausybė tvirtina valstybės turto informacinės paieškos sistemos
+
+nuostatus.
 
 Straipsnio
 
@@ -1983,9 +2161,9 @@ Valstybės ir savivaldybių reikmėms įgytas turtas
 
 1. Valstybės institucijos, įmonės,
 
-įstaigos ir organizacijos įgytą turtą valdo, naudoja ir juo disponuoja
+įstaigos ir organizacijos įgytą turtą valdo, naudoja ir juo disponuoja patikėjimo
 
-patikėjimo teise. Įgytas turtas nuosavybės teise priklauso valstybei.
+teise. Įgytas turtas nuosavybės teise priklauso valstybei.
 
 2. Savivaldybės įmonės, įstaigos ir
 
@@ -2002,10 +2180,6 @@ Nr.
 X-771,
 
 2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
-
-[Papildyta
-
-straipsniu nuo 2007-01-01]
 
 161
 
@@ -2027,9 +2201,9 @@ jį rekonstruojant arba įsigyjant (perkant, statant ir pan.) naują nekilnojam�
 
 turtą. Valstybės nekilnojamasis turtas atnaujinamas įsigyjant naują
 
-nekilnojamąjį turtą tuo atveju, kai turimą valstybės nekilnojamąjį turtą netikslinga
+nekilnojamąjį turtą tuo atveju, kai turimą valstybės nekilnojamąjį turtą
 
-atnaujinti rekonstrukcijos būdu.
+netikslinga atnaujinti rekonstrukcijos būdu.
 
 3. Valstybės nekilnojamasis turtas
 
@@ -2177,9 +2351,9 @@ atnaujinimu, įvykdymui užtikrinti gali įkeisti atnaujinamą valstybės
 
 nekilnojamąjį turtą, išskyrus Seimo rūmus, Vyriausybės rūmus, Lietuvos
 
-Respublikos Prezidento rezidenciją, Ministro Pirmininko rezidenciją ir kitą turtą,
+Respublikos Prezidento rezidenciją, Ministro Pirmininko rezidenciją ir kitą
 
-kuris pagal įstatymus gali būti tik valstybės nuosavybė.
+turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė.
 
 11. Valstybės
 
@@ -2283,15 +2457,15 @@ atstovybėms įkurti ir sprendimą dėl šio straipsnio 1 dalies 3 punkte nurody
 
 užsienio valstybėje esančio turto pardavimo priima Vyriausybė. Tokiame
 
-sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti
+sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota
 
-turto pirkimo–pardavimo sutartį. Šio straipsnio 1 dalies 2 punkte nurodytas
+sudaryti turto pirkimo–pardavimo sutartį. Šio straipsnio 1 dalies 2 punkte
 
-turtas parduodamas jį įvertinus pagal Turto ir verslo
+nurodytas turtas parduodamas jį įvertinus pagal Turto ir
 
-vertinimo pagrindų įstatymą. Šio straipsnio 1 dalies 3 punkte nurodytas
+verslo vertinimo pagrindų įstatymą. Šio straipsnio 1 dalies 3 punkte
 
-turtas parduodamas rinkos kaina.
+nurodytas turtas parduodamas rinkos kaina.
 
 4. Savivaldybės turtas savivaldybės tarybos
 
@@ -2299,15 +2473,15 @@ sprendimu gali būti perduotas valstybės arba kitos savivaldybės nuosavybėn, 
 
 yra atitinkamai Vyriausybės ar jos įgaliotos institucijos arba kitos
 
-savivaldybės tarybos sutikimas. Užsienio valstybėje esantis savivaldybės nekilnojamasis
+savivaldybės tarybos sutikimas. Užsienio valstybėje esantis savivaldybės
 
-turtas rinkos kaina parduodamas savivaldybės tarybos sprendimu.
+nekilnojamasis turtas rinkos kaina parduodamas savivaldybės tarybos sprendimu.
 
 5. Valstybės ir savivaldybių turtas
 
 negali būti perduodamas kitiems juridiniams ar fiziniams asmenims ar kitaip
 
-susiejamas su turtu jungtinės veiklos sutarties pagrindu.“
+susiejamas su turtu jungtinės veiklos sutarties pagrindu.
 
 Straipsnio pakeitimai:
 
@@ -2321,7 +2495,7 @@ X-771,
 
 18
 
-straipsnis. [Neteko galios]
+straipsnis. Neteko galios.
 
 Straipsnio
 
@@ -2405,7 +2579,21 @@ teisinės formos juridiniams asmenims, kurių veiklos tikslas yra tarptautinis
 
 bendradarbiavimas, kai tuo siekiama užtikrinti tinkamą įstatymuose numatytų
 
-valstybės ar savivaldybių funkcijų įgyvendinimą.
+valstybės ar savivaldybių funkcijų įgyvendinimą;
+
+1 dalis papildoma 6 punktu nuo 2008 m. kovo 1 d.:
+
+6)
+
+įsigyjant Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje
+
+ar Europos ekonominės erdvės valstybėje įsteigto ir sukauptas lėšas Lietuvos
+
+Respublikoje investuojančio investicinio fondo, kuris yra privataus kapitalo
+
+kolektyvinio investavimo subjektas, siūlomų investicinių vienetų. Šis punktas
+
+netaikomas savivaldybių turto investavimui.
 
 2.
 
@@ -2431,15 +2619,61 @@ pat privačiajam juridiniam asmeniui steigti, išskyrus šio ir kitų įstatymų
 
 nustatytus atvejus.
 
-4.
+4. Valstybė ar
 
-Valstybė ar savivaldybė gali turtą investuoti įsigydama steigiamos arba
+savivaldybė gali turtą investuoti įsigydama steigiamos arba didinančios
 
-didinančios įstatinį kapitalą akcinės bendrovės ar uždarosios akcinės bendrovės
+įstatinį kapitalą akcinės bendrovės ar uždarosios akcinės bendrovės akcijų,
 
-akcijų, kurios visuotiniame akcininkų susirinkime valstybei ar savivaldybei
+kurios visuotiniame akcininkų susirinkime valstybei ar savivaldybei (-ėms) arba
 
-(-ėms) arba joms kartu suteikia daugiau kaip 50 procentų balsų.
+joms kartu suteikia daugiau kaip 50 procentų balsų.
+
+Straipsnis papildomas 5 dalimi nuo 2008 m. kovo 1 d.:
+
+5. Valstybė gali
+
+investuoti turtą įsigydama investicinio fondo investicinių vienetų, jeigu:
+
+1) investicinio fondo investavimo
+
+strategija, investicijų apribojimai, specializacija geografinėje zonoje arba
+
+ūkio šakoje atitinka valstybės mažų ir vidutinių įmonių plėtros skatinimo
+
+politikos tikslus ir kryptis;
+
+2) investicinis fondas yra uždaro tipo;
+
+3) investicinio fondo sudarymo
+
+dokumentuose įtvirtintos sąlygos, kad investuotojai  atstovauja savo interesams
+
+priimant sprendimus;
+
+4) investicinio fondo sudarymo
+
+dokumentuose nustatyta, kad, priimant investicinius sprendimus, kiekvienai
+
+investicijai parengiamas detalus investicinis pasiūlymas, kuriame pateikiama
+
+įmonės gaminių ar teikiamų paslaugų rinkos ir pardavimų analizė, pelningumo
+
+raida ir prognozės, planuojama investicijų grąža ir (ar) kita sprendimui
+
+priimti reikalinga informacija;
+
+5) investicinio fondo valdymo įmonė
+
+atitinka Lietuvos Respublikos teisės aktų reikalavimus ir atrenkama viešo
+
+konkurso būdu;
+
+6) investicinio fondo valdymo įmonė yra
+
+privatus juridinis asmuo, kurio vadovai turi Vertybinių popierių komisijos
+
+patvirtintą investavimo patirtį.
 
 Straipsnio pakeitimai:
 
@@ -2453,9 +2687,9 @@ X-771,
 
 2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
 
-[Papildyta
+Nr. X-1440,
 
-straipsniu nuo 2006-08-08]
+2008-01-29, Žin., 2008, Nr. 19-673 (2008-02-14)
 
 20 straipsnis.
 
@@ -2595,33 +2829,33 @@ disponavimo
 
 juo kontrolė
 
-1.
+1. Valstybės
 
-Valstybės turto apskaitą, valdymą, naudojimą ir disponavimą juo kontroliuoja
+turto apskaitą, valdymą, naudojimą ir disponavimą juo kontroliuoja valstybės
 
-valstybės institucijos, valstybės įmonės, įstaigos ar organizacijos vidaus
+institucijos, valstybės įmonės, įstaigos ar organizacijos vidaus audito tarnyba
 
-audito tarnyba (vidaus auditoriai) ir Valstybės kontrolė.
+(vidaus auditoriai) ir Valstybės kontrolė.
 
-2.
+2. Valstybės
 
-Valstybės kontrolė kasmet iki gruodžio 1 dienos pateikia Seimui išvadą dėl šio
+kontrolė kasmet iki gruodžio 1 dienos pateikia Seimui išvadą dėl šio Įstatymo
 
-Įstatymo 15 straipsnio 2 dalyje nurodytos ataskaitos.
+15 straipsnio 2 dalyje nurodytos ataskaitos.
 
-3.
+3. Savivaldybės
 
-Savivaldybės turto apskaitą, valdymą, naudojimą ir disponavimą juo kontroliuoja
+turto apskaitą, valdymą, naudojimą ir disponavimą juo kontroliuoja savivaldybės
 
-savivaldybės kontrolierius (kontrolieriaus tarnyba) ir Valstybės kontrolė.
+kontrolierius (kontrolieriaus tarnyba) ir Valstybės kontrolė.
 
-4.
+4. Savivaldybės
 
-Savivaldybės kontrolierius (kontrolieriaus tarnyba) pateikia savivaldybės
+kontrolierius (kontrolieriaus tarnyba) pateikia savivaldybės tarybai (tarybos
 
-tarybai (tarybos nustatyta tvarka bei terminais) išvadą dėl šio Įstatymo 15
+nustatyta tvarka bei terminais) išvadą dėl šio Įstatymo 15 straipsnio 3 dalyje
 
-straipsnio 3 dalyje nurodytos ataskaitos.
+nurodytos ataskaitos.
 
 Straipsnio
 
@@ -2639,9 +2873,9 @@ SKIRSNIS
 
 NEREIKALINGO
 
-ARBA NETINKAMO (NEGALIMO) NAUDOTI VALSTYBĖS IR SAVIVALDYBIŲ TURTO PERLEIDIMAS IR
+ARBA NETINKAMO (NEGALIMO) NAUDOTI VALSTYBĖS IR SAVIVALDYBIŲ TURTO PERLEIDIMAS
 
-NURAŠYMAS
+IR NURAŠYMAS
 
 22 straipsnis. Valstybės ir savivaldybių turto
 
@@ -2657,29 +2891,29 @@ Nematerialusis turtas, ilgalaikis ir trumpalaikis materialusis turtas
 
 pripažįstamas nereikalingu arba netinkamu (negalimu) naudoti, kai:
 
-1)
+1) jis fiziškai
 
-jis fiziškai nusidėvi;
+nusidėvi;
 
-2)
+2) jis
 
-jis funkciškai (technologiškai) nusidėvi;
+funkciškai (technologiškai) nusidėvi;
 
-3)
+3) jis
 
-jis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pripažįstamas
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pripažįstamas
 
 avariniu;
 
-4)
+4) jis sugenda
 
-jis sugenda ar sugadinamas;
+ar sugadinamas;
 
-5)
+5) jis stichinių
 
-jis stichinių nelaimių, avarijų metu sunaikinamas (sugadinamas) ir šis faktas
+nelaimių, avarijų metu sunaikinamas (sugadinamas) ir šis faktas atitinkamai
 
-atitinkamai įforminamas;
+įforminamas;
 
 6) jo negalima naudoti dėl trečiųjų
 
@@ -2689,21 +2923,21 @@ naudoti dėl trečiųjų asmenų veikos materialiojo turto vertė perkeliama į
 
 finansinį turtą (gautinas lėšas);
 
-7)
+7) jis trukdo
 
-jis trukdo statyti naujus statinius arba rekonstruoti esamus statinius ar
+statyti naujus statinius arba rekonstruoti esamus statinius ar teritorijas. Ši
 
-teritorijas. Ši nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus
+nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus nekilnojamąsias
 
-nekilnojamąsias kultūros vertybes, nustatyta tvarka suderinus naujos statybos
+kultūros vertybes, nustatyta tvarka suderinus naujos statybos ar rekonstravimo
 
-ar rekonstravimo projektą;
+projektą;
 
-8)
+8) jis
 
-jis nereikalingas valstybės ar savivaldybės funkcijoms įgyvendinti ir (ar)
+nereikalingas valstybės ar savivaldybės funkcijoms įgyvendinti ir (ar) nelieka
 
-nelieka kur jį pritaikyti.
+kur jį pritaikyti.
 
 2.
 
@@ -2719,33 +2953,33 @@ atvejį. Laikoma, kad turtą atnaujinti ekonomiškai netikslinga, kai jo remonto
 
 pajėgumo turto įsigijimo kainai ar ją viršija.
 
-3.
+3. Nereikalingu
 
-Nereikalingu arba netinkamu (negalimu) naudoti turtu negali būti pripažįstama
+arba netinkamu (negalimu) naudoti turtu negali būti pripažįstama žemė, miškai,
 
-žemė, miškai, vidaus vandenys ir finansinis turtas.
+vidaus vandenys ir finansinis turtas.
 
-4.
+4. Sprendimą dėl
 
-Sprendimą dėl valstybės ar savivaldybių turto pripažinimo nereikalingu arba
+valstybės ar savivaldybių turto pripažinimo nereikalingu arba netinkamu
 
-netinkamu (negalimu) naudoti priima turto valdytojas, išskyrus šio Įstatymo 9
+(negalimu) naudoti priima turto valdytojas, išskyrus šio Įstatymo 9 straipsnio
 
-straipsnio 4 dalyje bei 11 straipsnio 3 dalyje numatytus asmenis. Sprendimas
+4 dalyje bei 11 straipsnio 3 dalyje numatytus asmenis. Sprendimas dėl turto,
 
-dėl turto, kurį valdo šio Įstatymo 9 straipsnio 4 dalyje bei 11 straipsnio 3
+kurį valdo šio Įstatymo 9 straipsnio 4 dalyje bei 11 straipsnio 3 dalyje
 
-dalyje numatyti asmenys, pripažinimo nereikalingu arba netinkamu (negalimu)
+numatyti asmenys, pripažinimo nereikalingu arba netinkamu (negalimu) naudoti
 
-naudoti priimamas jį gražinus valstybės ar savivaldybės institucijai ar
+priimamas jį gražinus valstybės ar savivaldybės institucijai ar įstaigai,
 
-įstaigai, sudariusiai sutartį. Pagal šio straipsnio 1 dalies 8 punkto nuostatas
+sudariusiai sutartį. Pagal šio straipsnio 1 dalies 8 punkto nuostatas priimami
 
-priimami turto valdytojų sprendimai dėl valstybės nekilnojamųjų daiktų
+turto valdytojų sprendimai dėl valstybės nekilnojamųjų daiktų pripažinimo
 
-pripažinimo nereikalingais valstybės ir savivaldybės funkcijoms įgyvendinti
+nereikalingais valstybės ir savivaldybės funkcijoms įgyvendinti turi būti
 
-turi būti suderinti su Vyriausybės įgaliota institucija.
+suderinti su Vyriausybės įgaliota institucija.
 
 Straipsnio pakeitimai:
 
@@ -2765,11 +2999,11 @@ X-771,
 
 1. Panaudoti nereikalingą ar netinkamą
 
-(negalimą) naudoti valstybės ar savivaldybės nematerialųjį, ilgalaikį ir
+(negalimą) naudoti valstybės ar savivaldybės nematerialųjį, ilgalaikį ir trumpalaikį
 
-trumpalaikį materialųjį turtą, išskyrus šio Įstatymo 22 straipsnio 1 dalies 6
+materialųjį turtą, išskyrus šio Įstatymo 22 straipsnio 1 dalies 6 punkte
 
-punkte nurodytą atvejį, galima šiais būdais:
+nurodytą atvejį, galima šiais būdais:
 
 1) perduodant patikėjimo teise 9, 10 ir
 
@@ -2835,13 +3069,13 @@ dalies 8 punkte nurodytu būdu, jie turi būti nurašomi šio straipsnio 6 dalyj
 
 nustatyta tvarka.
 
-3.
+3. Su valstybės
 
-Su valstybės paslaptis sudarančia informacija susijusio turto, kuris laikantis
+paslaptis sudarančia informacija susijusio turto, kuris laikantis nustatytos
 
-nustatytos valstybės paslaptis sudarančios informacijos apsaugos reikalavimų
+valstybės paslaptis sudarančios informacijos apsaugos reikalavimų privalomai
 
-privalomai turi būti sunaikintas, kai tampa nereikalingas arba netinkamas (negalimas)
+turi būti sunaikintas, kai tampa nereikalingas arba netinkamas (negalimas)
 
 naudoti, sąrašą sudaro naikintino turto valdytojas, t. y. paslapčių subjektais
 
@@ -2883,25 +3117,23 @@ savivaldybei priklausantys gyvūnai, pripažinti nereikalingais arba netinkamais
 
 nustatyta tvarka.
 
-7.
+7. Pardavus
 
-Pardavus nereikalingą arba netinkamą (negalimą) naudoti valstybės ir
+nereikalingą arba netinkamą (negalimą) naudoti valstybės ir savivaldybių turtą,
 
-savivaldybių turtą, atskaičius jo saugojimo ir pardavimo išlaidas, gautos lėšos
+atskaičius jo saugojimo ir pardavimo išlaidas, gautos lėšos skiriamos:
 
-skiriamos:
+1) investicijoms
 
-1)
+į valstybės ar savivaldybės įmonę, valdžiusią šį turtą;
 
-investicijoms į valstybės ar savivaldybės įmonę, valdžiusią šį turtą;
+2) kai turtą
 
-2)
+valdo valstybės ar savivaldybių institucijos, įstaigos ir organizacijos, – 50
 
-kai turtą valdo valstybės ar savivaldybių institucijos, įstaigos ir
+procentų atitinkamai į valstybės ar savivaldybės biudžetą ir 50 procentų
 
-organizacijos, – 50 procentų atitinkamai į valstybės ar savivaldybės biudžetą
-
-ir 50 procentų institucijoms, įstaigoms ir organizacijoms.
+institucijoms, įstaigoms ir organizacijoms.
 
 Straipsnio
 
@@ -3105,27 +3337,27 @@ X-771,
 
 straipsnis. Valstybės ir savivaldybių turto įkeitimas
 
-1.
+1. Valstybės
 
-Valstybės turtas negali būti įkeistas, išskyrus šio straipsnio 2 dalyje ir šio
+turtas negali būti įkeistas, išskyrus šio straipsnio 2 dalyje ir šio Įstatymo
 
-Įstatymo 16¹ straipsnio 10 dalyje nustatytas išimtis.
+16¹ straipsnio 10 dalyje nustatytas išimtis.
 
-2.
+2. Valstybės ar
 
-Valstybės ar savivaldybės įmonė teise įkeisti ilgalaikį materialųjį turtą
+savivaldybės įmonė teise įkeisti ilgalaikį materialųjį turtą naudojasi pagal
 
-naudojasi pagal Valstybės ir savivaldybės įmonių įstatymą.
+Valstybės ir savivaldybės įmonių įstatymą.
 
-3.
+3. Savivaldybei
 
-Savivaldybei nuosavybės teise priklausantis ilgalaikis materialusis turtas gali
+nuosavybės teise priklausantis ilgalaikis materialusis turtas gali būti
 
-būti įkeistas įstatymų nustatytais atvejais savivaldybės tarybos sprendimu
+įkeistas įstatymų nustatytais atvejais savivaldybės tarybos sprendimu tarybos
 
-tarybos nustatyta tvarka. Nematerialusis, finansinis ir materialusis
+nustatyta tvarka. Nematerialusis, finansinis ir materialusis trumpalaikis
 
-trumpalaikis savivaldybių turtas negali būti įkeistas.
+savivaldybių turtas negali būti įkeistas.
 
 Straipsnio
 
@@ -3149,29 +3381,29 @@ nurodytiems
 
 asmenims
 
-1.
+1. Turto
 
-Turto valdytojas Vyriausybės nustatyta tvarka perduoda patikėjimo teise
+valdytojas Vyriausybės nustatyta tvarka perduoda patikėjimo teise nereikalingą
 
-nereikalingą arba netinkamą (negalimą) naudoti valstybės turtą 23 straipsnio 1
+arba netinkamą (negalimą) naudoti valstybės turtą 23 straipsnio 1 dalies 1
 
-dalies 1 punkte nurodytiems asmenims.
+punkte nurodytiems asmenims.
 
-2.
+2. Nereikalingas
 
-Nereikalingas arba netinkamas (negalimas) naudoti savivaldybių turtas iš vienos
+arba netinkamas (negalimas) naudoti savivaldybių turtas iš vienos savivaldybės
 
-savivaldybės institucijos, įstaigos, organizacijos kitai, taip pat valstybės
+institucijos, įstaigos, organizacijos kitai, taip pat valstybės institucijai,
 
-institucijai, įstaigai, organizacijai bei šio Įstatymo 11 straipsnio 3 dalyje
+įstaigai, organizacijai bei šio Įstatymo 11 straipsnio 3 dalyje nurodytiems
 
-nurodytiems asmenims perduodamas savivaldybės tarybos nustatyta tvarka.
+asmenims perduodamas savivaldybės tarybos nustatyta tvarka.
 
-3.
+3. Kai turtas
 
-Kai turtas perduodamas patikėjimo teise kitam naudotojui, turto perėmėjas jį
+perduodamas patikėjimo teise kitam naudotojui, turto perėmėjas jį įtraukia į
 
-įtraukia į apskaitą, o turto perdavėjas nurašo.
+apskaitą, o turto perdavėjas nurašo.
 
 Vadovaudamasis Lietuvos Respublikos
 
@@ -3311,15 +3543,15 @@ IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO
 
 Nauja įstatymo redakcija
 
-Šio Įstatymo 1 straipsnyje
+Šio
 
-išdėstyto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo
+Įstatymo 1 straipsnyje išdėstyto Valstybės ir savivaldybių turto valdymo,
 
-įstatymo 13 straipsnio 3 dalies ir 14 straipsnio 5 dalies nuostatos dėl
+naudojimo ir disponavimo juo įstatymo 13 straipsnio 3 dalies ir 14 straipsnio 5
 
-neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo
+dalies nuostatos dėl neatlyginimo už perduoto turto pagerinimą netaikomos
 
-sudarytos iki šio Įstatymo įsigaliojimo.
+sutartims, kurios buvo sudarytos iki šio Įstatymo įsigaliojimo.
 
 8.
 
@@ -3329,9 +3561,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1476,
+IX-1476, 2003-04-03,
 
-2003-04-03, Žin., 2003, Nr. 38-1721 (2003-04-24)
+Žin., 2003, Nr. 38-1721 (2003-04-24)
 
 VALSTYBĖS
 
@@ -3465,13 +3697,37 @@ straipsnio 5 dalies pakeitimas įsigalioja nuo 2008 m. sausio 1 d.; įstatymo pa
 
 nuo 2007 m. sausio 1 d.
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1440,
+
+2008-01-29, Žin., 2008, Nr. 19-673 (2008-02-14)
+
+VALSTYBĖS
+
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19
+
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja Lietuvos Respublikos kolektyvinio investavimo subjektų
+
+įstatymo pakeitimo įstatymo įsigaliojimo dieną, t.y. nuo 2008 m. kovo 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2006-08-09)
+Aušrinė Trapinskienė (2008-02-25)
 
-ausra.bodin@lrs.lt
+autrap@lrs.lt
 
