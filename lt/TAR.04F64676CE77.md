@@ -4,7 +4,7 @@ identifier: "TAR.04F64676CE77"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-28"
-last_updated: "2007-07-10"
+last_updated: "2008-02-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.04F64676CE77"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas
+
+Suvestinė redakcija nuo 2008-02-14 iki 2008-10-10
+
+Įstatymas paskelbtas: Žin. 2007, Nr. 76-3004, i. k. 1071010ISTA00X-1231
 
 LIETUVOS RESPUBLIKOS
 
@@ -134,6 +138,30 @@ VALDYMAS
 
 2. Nacionaliniam investuotojui nuosavybės teise turi priklausyti akcijų paketas, sudarantis ne mažiau kaip 34 procentus projekto įgyvendinimo bendrovės akcijų ir balsų projekto įgyvendinimo bendrovės visuotiniame akcininkų susirinkime.
 
+3. Lietuvos Respublikos Vyriausybė ir nacionalinis investuotojas, per savo dukterines įmones valdantis pagrindinę Lietuvos Respublikos elektros energetikos sistemos dalį, įgyvendina Lietuvos strateginį tikslą – kompleksiškai integruoja Lietuvos Respublikos elektros energetikos sistemą į Europos Sąjungos valstybių elektros perdavimo sistemas ir elektros energijos vidaus rinkas.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
+
+4. Įgyvendindamos šio straipsnio 3 dalyje numatytą strateginį tikslą, Lietuvos Respublikos Vyriausybė ir valstybės institucijos, priimdamos nutarimus ir sprendimus bei sudarydamos susitarimus, taip pat valstybės akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių nacionalinio investuotojo ar jo teisių perėmėjo bendrovėje, taip pat šių bendrovių įsteigtose dukterinėse bendrovėse akcininkų teises, užtikrina, kad:
+
+1) nacionalinis investuotojas, siekdamas savo veiklos tikslo (socialiai atsakingai siekti naudos sau ir visiems savo akcininkams), efektyviai įgyvendintų pagrindinį Lietuvos Respublikos elektros energetikos sistemos uždavinį – neribotą laiką, nepriklausomai, saugiai, patikimai aprūpinti Lietuvos vartotojus elektros energija;
+
+2) nacionalinio investuotojo ir jo dukterinių įmonių veikla būtų organizuojama taip, kad ji atitiktų Lietuvos Respublikos ir Europos Sąjungos teisės aktų reikalavimus bei geriausią Europos Sąjungos valstybių elektros energetikos bendrovių verslo praktiką;
+
+3) Nacionalinėje energetikos strategijoje numatyti strateginiai objektai – naujoji atominė elektrinė, elektros perdavimo jungtys į Lenkijos Respubliką ir Švedijos Karalystę, užtikrinančios efektyvius ir reikiamos apimties elektros energijos mainus tarp Lietuvos Respublikos elektros energetikos sistemos ir Elektros energijos perdavimo koordinavimo sąjungai (toliau – UCTE) bei Šiaurės šalių perdavimo sistemos operatorių organizacijai (NORDEL) priklausančių sistemų, – būtų realizuoti neatidėliojant;
+
+4) naujos atominės elektrinės ir elektros perdavimo jungčių į Švedijos Karalystę bei Lenkijos Respubliką techniniai sprendimai ir parametrai būtų parinkti taip, kad pagrindinė dalis atominei elektrinei reikalingų galios rezervų būtų gaunama iš Europos Sąjungos valstybių ir būtų patenkintos Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su UCTE sistema sąlygos;
+
+5) Lietuvos Respublikos elektros energetikos sistema būtų parengta neatidėliotinam prisijungimui prie UCTE sistemos sinchroniniam darbui, kai tik bus įrengtos elektros tinklų jungtys, įgyvendintos techninės priemonės ir atlikti veiksmai, reikalingi Lietuvai tapti UCTE nare;
+
+6) naujos atominės elektrinės projekto įgyvendinimo bendrovės kapitale dalyvaujant Lietuvos ir užsienio investuotojams būtų apsaugoti Lietuvos Respublikos nacionalinio saugumo ir valstybės esminiai interesai, o pasirenkant atominės elektrinės projekto įgyvendinimo dalyvius būtų taikomi europinės bei transatlantinės integracijos kriterijai.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
+
 9 straipsnis. Ekstremali padėtis
 
 Įvedus ekstremalią energetikos padėtį pagal Energetikos įstatymą arba įvykus ar gresiant branduolinei avarijai, gresiant žalai aplinkai ar kilus pavojui žmonių sveikatai ar saugai, atominę elektrinę eksploatuojanti organizacija privalo vykdyti Lietuvos Respublikos Vyriausybės, jos įgaliotų institucijų nurodymus. Jeigu, esant ekstremaliai energetikos padėčiai arba įvykus ar gresiant branduolinei avarijai, gresiant žalai aplinkai ar kilus pavojui žmonių sveikatai ar saugai, atominę elektrinę eksploatuojanti organizacija nevykdo nurodymų, Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija turi teisę, kol truks ekstremali energetikos padėtis, kol bus pašalinta branduolinės avarijos grėsmė ar avarijos padariniai, kol bus pašalinta žalos aplinkai grėsmė ar kilęs pavojus žmonių sveikatai ar saugai, perimti projekto įgyvendinimo bendrovės valdymą, sustabdyti ar panaikinti licencijos galiojimą ar imtis kitų būtinų priemonių branduolinei ir radiacinei saugai bei projekto įgyvendinimo bendrovės veiklai užtikrinti, tačiau šios priemonės neturi būti taikomos daugiau, negu būtina atsiradusiems sunkumams pašalinti. Projekto įgyvendinimo bendrovės valdymo perėmimas, licencijų sustabdymas ar galiojimo panaikinimas neatleidžia projekto įgyvendinimo bendrovės nuo atsakomybės.
@@ -144,9 +172,17 @@ NACIONALINIS INVESTUOTOJAS
 
 10 straipsnis. Nacionalinis investuotojas
 
-1. Nacionalinis investuotojas – Lietuvos Respublikoje įregistruotas, pagal Lietuvos Respublikos įstatymus neribotam laikui įsteigtas ir veikiantis savarankiškas privatus juridinis asmuo, socialiai atsakingai siekiantis naudos sau ir visiems akcininkams. Nacionalinio investuotojo buveinė yra Lietuvos Respublikoje. Nacionalinis investuotojas yra privačią iniciatyvą investuoti į projektą pareiškusi akcinė bendrovė „Lietuvos energija“, atitinkanti šio įstatymo reikalavimus.
+1. Nacionalinis investuotojas – Lietuvos Respublikoje įregistruotas, pagal Lietuvos Respublikos įstatymus neribotam laikui įsteigtas ir veikiantis savarankiškas privatus juridinis asmuo, kurio veiklos tikslas yra socialiai atsakingai siekti naudos sau ir visiems savo akcininkams, taip pat dalyvauti įgyvendinant šio įstatymo 8 straipsnio 3 dalyje numatytą Lietuvos strateginį tikslą. Nacionalinio investuotojo teisinė forma yra akcinė bendrovė; nacionalinio investuotojo buveinė yra Lietuvos Respublikoje. Nacionalinis investuotojas yra nacionalinė elektros energetikos bendrovė, per savo dukterines įmones valdanti pagrindinę Lietuvos Respublikos elektros energetikos sistemos dalį – elektros energijos perdavimo ir skirstomuosius tinklus. Siekdamas savo veiklos tikslo, nacionalinis investuotojas privačios iniciatyvos pagrindu dalyvauja įgyvendinant naujos atominės elektrinės statybos projektą Lietuvoje, taip pat Elektros energetikos įstatymo ir kitų teisės aktų nustatyta tvarka statant Lietuvos Respublikos elektros energetikos sistemos jungtis su Lenkijos Respublikos ir Švedijos Karalystės elektros energetikos sistemomis.
 
-2. Lietuvos Respublikai nuosavybės teise turi priklausyti akcijų paketas, sudarantis daugiau kaip 1/2 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime. Kiti asmenys dalyvauti nacionalinio investuotojo įstatiniame kapitale, valdyti, naudotis bei disponuoti nacionalinio investuotojo akcijomis ir nacionalinio investuotojo akcijų suteikiamomis teisėmis gali Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo, taip pat kitų Lietuvos Respublikos įstatymų ir teisės aktų nustatytomis sąlygomis bei tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
+
+2. Lietuvos Respublikai nuosavybės teise turi priklausyti akcijų paketas, sudarantis daugiau kaip 1/2 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime. Kitą nacionalinio investuotojo įstatinio kapitalo dalį gali sudaryti privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis užsienio kapitalas Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo, taip pat kitų Lietuvos Respublikos įstatymų ir teisės aktų nustatytomis sąlygomis bei tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
 
 3. Nacionalinis investuotojas kartu su dukterinėmis įmonėmis yra nacionalinio investuotojo įmonių grupė. Pagrindinė nacionalinio investuotojo veikla turi būti nacionalinio investuotojo įmonių grupės patronuojančios bendrovės veikla. Nacionalinis investuotojas gali verstis ir kita veikla, kuri neprieštarauja nacionalinio investuotojo veiklos tikslui.
 
@@ -158,29 +194,41 @@ NACIONALINIS INVESTUOTOJAS
 
 7. Su nacionalinio investuotojo valdybos nariais sudaromos sutartys, kuriose turi būti numatytos valdybos narių teisės, pareigos bei atsakomybė. Sutarties su kiekvienu valdybos nariu sąlygas nustato ir įgaliotą asmenį nacionalinio investuotojo vardu pasirašyti sutartis paskiria stebėtojų taryba.
 
-11 straipsnis. Nacionalinio investuotojo įstatinio kapitalo didinimas
+7. Nacionalinis investuotojas ir nacionalinio investuotojo organai turi veikti taip, kad nacionaliniam investuotojui visada nuosavybės teise priklausytų ne mažiau kaip 2/3 akcinės bendrovės „Lietuvos energija“, akcinės bendrovės Rytų skirstomųjų tinklų ir akcinės bendrovės „VST“ akcijų ir balsų visuotiniame akcininkų susirinkime. Jeigu akcinės bendrovės „Lietuvos energija“, akcinės bendrovės Rytų skirstomųjų tinklų ir akcinės bendrovės „VST“ vykdomos veiklos rūšys reorganizuojant, pertvarkant ar kitokiu būdu būtų atskirtos, perduotos ar perleistos, bendrovei tiesiogiai ar netiesiogiai turi priklausyti ne mažiau kaip 2/3 akcijų ir balsų visuotiniame akcininkų susirinkime bendrovėse, kurioms nuosavybės teise priklauso Lietuvos Respublikos elektros energijos perdavimo tinklas, elektros energijos skirstomieji tinklai, taip pat bendrovėse, kurios vykdo elektros energijos perdavimo, elektros energijos rinkos operatoriaus, elektros energijos skirstymo ir visuomeninio elektros energijos tiekėjo veiklas.
 
-1. Lietuvos Respublikos Vyriausybė ir akcinės bendrovės „VST“ kontrolinį akcijų paketą turintis akcininkas šio ir kitų įstatymų nustatyta tvarka turi teisę investuoti atitinkamai akcinės bendrovės Rytų skirstomųjų tinklų ir akcinės bendrovės „VST“ akcijas, sudarančias daugiau kaip 1/2 kiekvienos bendrovės akcijų ir balsų visuotiniame akcininkų susirinkime, į nacionalinio investuotojo – akcinės bendrovės „Lietuvos energija“ įstatinį kapitalą.
+Papildyta straipsnio dalimi:
 
-2. Lietuvos Respublikos Vyriausybė turi teisę:
+Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
 
-1) derėtis su akcinės bendrovės „VST“ kontrolinį akcijų paketą turinčiu akcininku dėl visų ar dalies, sudarančios daugiau kaip 1/2 akcinės bendrovės „VST“ akcijų ir balsų visuotiniame akcininkų susirinkime, tokiam akcininkui nuosavybės teise priklausančių akcinės bendrovės „VST“ akcijų investavimo bei naujai išleidžiamų akcinės bendrovės „Lietuvos energija“ akcijų įsigijimo taip, kaip tai numatyta šio straipsnio 3 dalyje, ir, pasiekus tokį susitarimą, priimti atitinkamus šio bei kitų įstatymų numatytus sprendimus ir sudaryti atitinkamus sandorius;
+8. Šis įstatymas nesuteikia nacionalinio investuotojo bendrovei išskirtinių teisių kitų asmenų atžvilgiu įgyvendinti šiame straipsnyje nurodytų Lietuvos Respublikos elektros energetikos sistemos jungčių su Lenkijos Respublikos ir Švedijos Karalystės elektros energetikos sistemomis statybos projektus.
 
-2) priimti atitinkamus sprendimus dėl visų ar dalies, sudarančios daugiau kaip 1/2 akcinės bendrovės Rytų skirstomųjų tinklų akcijų ir balsų visuotiniame akcininkų susirinkime, valstybei nuosavybės teise priklausančių akcinės bendrovės Rytų skirstomųjų tinklų akcijų investavimo taip, kaip tai numatyta šio straipsnio 3 dalyje.
+Papildyta straipsnio dalimi:
 
-3. Pasiekusi šio straipsnio 2 dalies 1 punkte numatytą susitarimą, Lietuvos Respublikos Vyriausybė turi teisę priimti sprendimus dėl balsavimo akcinės bendrovės „Lietuvos energija“ visuotiniame akcininkų susirinkime, reikalingus įgyvendinant šio straipsnio nuostatas, taip pat dėl akcinės bendrovės „Lietuvos energija“ įstatinio kapitalo didinimo papildomais įnašais tokiomis sąlygomis:
+Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
 
-1) naujai išleidžiamų akcinės bendrovės „Lietuvos energija“ akcijų dalies, proporcingos visuotinio akcininkų susirinkimo dieną valstybei nuosavybės teise priklausančių akcijų nominaliai vertei, emisijos kaina apmokama nepiniginiais įnašais – akcinės bendrovės Rytų skirstomųjų tinklų akcijomis, sudarančiomis daugiau kaip 1/2 akcinės bendrovės Rytų skirstomųjų tinklų akcijų ir balsų visuotiniame akcininkų susirinkime, ir akcinės bendrovės „VST“ akcijomis, sudarančiomis daugiau kaip 1/2 akcinės bendrovės „VST“ akcijų ir balsų visuotiniame akcininkų susirinkime;
+11 straipsnis. Nacionalinio investuotojo steigimas ir įstatinio kapitalo didinimas
 
-2) teisė įsigyti likusias naujai išleidžiamas akcinės bendrovės „Lietuvos energija“ akcijas suteikiama kitiems akcinės bendrovės „Lietuvos energija“ akcininkams proporcingai jiems visuotinio akcininkų susirinkimo dieną nuosavybės teise priklausančių akcijų nominaliai vertei, emisijos kainą apmokant pinigais.
+1. Lietuvos Respublikos Vyriausybė, įgyvendindama šio įstatymo 10 straipsnio nuostatas, turi teisę:
 
-4. Naujai išleidžiamas akcinės bendrovės „Lietuvos energija“ akcijas apmokant nepiniginiu įnašu, akcinės bendrovės „Lietuvos energija“, akcinės bendrovės Rytų skirstomųjų tinklų ir akcinės bendrovės „VST“ akcijos turi būti įvertintos nepriklausomo turto vertintojo teisės aktų nustatyta tvarka ir turi būti gauta finansų institucijos, kurios ilgalaikio skolinimosi reitingas yra ne mažesnis kaip „A-“ pagal tarptautinės reitingų agentūros Fitch Ratings suteiktą reitingą, arba „A3“ pagal tarptautinės reitingų agentūros Moody 's suteiktą reitingą, arba „A-“ pagal tarptautinės reitingų agentūros Standard & Poor's suteiktą reitingą, nuomonė apie akcijų įvertinimą. Akcijų įvertinimo, nuomonės apie akcijų įvertinimą pareiškimo ir kitų ekspertinių paslaugų pirkimą teisės aktų nustatyta tvarka vykdo Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, apmokėdama iš Privatizavimo fondo lėšų.
+1) derėtis su akcinės bendrovės „VST“ kontrolinį akcijų paketą turinčiu akcininku dėl nacionalinio investuotojo steigimo ir visų ar dalies tokiam akcininkui nuosavybės teise priklausančių akcinės bendrovės „VST“ akcijų, sudarančių daugiau kaip 2/3 akcinės bendrovės „VST“ akcijų ir balsų visuotiniame akcininkų susirinkime, investavimo ir dėl naujų išleidžiamų nacionalinio investuotojo akcijų įsigijimo;
 
-5. Lietuvos Respublikos Vyriausybė turi teisę priimti sprendimą dėl valstybei priklausančių nacionalinio investuotojo akcijų pardavimo kitiems asmenims ar valstybės pirmumo teisės įsigyti naujai išleidžiamas nacionalinio investuotojo akcijas perleidimo ar atsisakymo kitų asmenų naudai, visais atvejais užtikrinant, kad Lietuvos Respublikai nuosavybės teise priklausys akcijų paketas, sudarantis daugiau kaip 1/2 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime.
+2) dalyvauti steigiant akcinę bendrovę, kurios įstatinis kapitalas steigimo metu būtų formuojamas iš pinigų ir į kurios įstatinį kapitalą po įsteigimo būtų investuotos visos ar dalis valstybei priklausančių akcinės bendrovės „Lietuvos energija“ ir akcinės bendrovės Rytų skirstomųjų tinklų akcijų, sudarančių daugiau kaip 2/3 kiekvienos bendrovės akcijų ir balsų visuotiniame akcininkų susirinkime, ir, jei bus pasiekti šios dalies 1 punkte numatyti susitarimai, akcinės bendrovės „VST“ akcijos, sudarančios daugiau kaip 2/3 šios bendrovės akcijų ir balsų visuotiniame akcininkų susirinkime;
 
-6. Jei Lietuvos Respublikos Vyriausybė nuspręstų parduoti dalį po šio įstatymo 11 straipsnyje numatyto akcinės bendrovės „Lietuvos energija“ įstatinio kapitalo padidinimo valstybei priklausančių nacionalinio investuotojo akcijų, pardavimas turi būti vykdomas viešai, sudarant nediskriminacines sąlygas jas įsigyti Lietuvos Respublikos piliečiams ir juridiniams asmenims, visais atvejais užtikrinant, kad Lietuvos Respublikai nuosavybės teise priklausys akcijų paketas, sudarantis daugiau kaip 1/2 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime. Siekiant užtikrinti platesnį ir tinkamą Lietuvos Respublikos ir kitų nacionalinio investuotojo akcininkų atstovavimą nacionalinio investuotojo organuose, nacionalinio investuotojo stebėtojų tarybos narių skaičius gali būti didesnis, nei nurodyta Akcinių bendrovių įstatyme, tačiau ne daugiau kaip 25.
+3) priimti šios dalies 1 ir 2 punktų nuostatoms įgyvendinti reikiamus sprendimus ir sudaryti atitinkamus sandorius.
 
-7. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija informuoja Seimą apie šio straipsnio 2 dalies 1 punkte numatytų derybų eigą ir rezultatus. Šio straipsnio 2 dalies 1 punkte numatyti susitarimai yra nekonfidencialūs (vieši). Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija visą šioje dalyje nurodytų susitarimų tekstą paskelbia Vyriausybės interneto tinklalapyje.
+2. Įgyvendinant šio straipsnio 1 dalies nuostatas, akcinės bendrovės „Lietuvos energija“, akcinės bendrovės Rytų skirstomųjų tinklų ir akcinės bendrovės „VST“ akcijos turi būti įvertintos nepriklausomo turto vertintojo teisės aktų nustatyta tvarka ir turi būti gauta finansų įstaigos, kurios ilgalaikio skolinimosi reitingas yra ne mažesnis kaip „A-“ pagal tarptautinės reitingų agentūros Fitch Ratings suteiktą reitingą arba „A3“ pagal tarptautinės reitingų agentūros Moody's suteiktą reitingą, arba „A-“ pagal tarptautinės reitingų agentūros Standard &Poor's suteiktą reitingą, nuomonė apie akcijų įvertinimą. Akcijų įvertinimo, nuomonės apie akcijų įvertinimą pareiškimo ir kitų ekspertinių paslaugų pirkimą teisės aktų nustatyta tvarka vykdo Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, apmokėdama iš Privatizavimo fondo lėšų.
+
+3. Lietuvos Respublikos Vyriausybė turi teisę priimti sprendimą dėl valstybei priklausančių nacionalinio investuotojo akcijų pardavimo kitiems europinės ir transatlantinės integracijos kriterijus atitinkantiems asmenims arba dėl valstybės pirmumo teisės įsigyti naujai išleidžiamas nacionalinio investuotojo akcijas perleidimo ar atsisakymo kitų minėtus kriterijus atitinkančių asmenų naudai, visais atvejais užtikrindama, kad Lietuvos Respublikai nuosavybės teise priklausys akcijų paketas, sudarantis daugiau kaip 1/2 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime.
+
+4. Jeigu Lietuvos Respublikos Vyriausybė nuspręstų parduoti dalį valstybei priklausančių nacionalinio investuotojo akcijų, pardavimas turi būti vykdomas viešai, sudarant nediskriminacines sąlygas jas įsigyti Lietuvos Respublikos piliečiams ir juridiniams asmenims, visais atvejais užtikrinant, kad Lietuvos Respublikai nuosavybės teise priklausys akcijų paketas, sudarantis daugiau kaip 1/2 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime. Siekiant užtikrinti platesnį ir tinkamą Lietuvos Respublikos ir kitų nacionalinio investuotojo akcininkų atstovavimą nacionalinio investuotojo organuose, nacionalinio investuotojo stebėtojų tarybos narių skaičius gali būti didesnis, negu nurodyta Akcinių bendrovių įstatyme, tačiau ne daugiau kaip 25 nariai.
+
+5. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija informuoja Lietuvos Respublikos Seimą apie šio straipsnio 1 dalies 1 punkte numatytų derybų eigą ir rezultatus. Šio straipsnio 1 dalies 1 punkte numatyti susitarimai yra nekonfidencialūs (vieši). Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija visą šioje dalyje nurodytų susitarimų tekstą paskelbia Lietuvos Respublikos Vyriausybės interneto tinklalapyje.
+
+6. Lietuvos Respublikos Vyriausybei investavus akcinės bendrovės „Lietuvos energija“ akcijas, sudarančias daugiau kaip 2/3 akcijų ir balsų akcinės bendrovės „Lietuvos energija“ visuotiniame akcininkų susirinkime, į nacionalinio investuotojo įstatinį kapitalą, Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 3 straipsnio reikalavimas dėl sprendžiamosios galios akcinėje bendrovėje „Lietuvos energija“ palikimo valstybei laikomas įvykdytu, kol valstybei nuosavybės teise priklauso daugiau kaip 1/2 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime.
+
+Straipsnio pakeitimai:
+
+Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
 
 PENKTASIS SKIRSNIS
 
@@ -228,77 +276,33 @@ Projekto įgyvendinimo bendrovė ir Lietuvos Respublikos Vyriausybė ar jos įga
 
 Įgyvendinant šio įstatymo ketvirtojo skirsnio nuostatas, Valstybės ir savivaldybių turto privatizavimo įstatymo nuostatos netaikomos.
 
-20 straipsnis. Pasiūlymai Vyriausybei
+20 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
-1. Pasiūlyti Lietuvos Respublikos Vyriausybei:
+Lietuvos Respublikos Vyriausybė:
 
-1) patvirtinti valstybei nuosavybės teise priklausančių akcijų nacionalinio investuotojo bendrovėje projekto įgyvendinimo metu suteikiamų teisių įgyvendinimo tvarką;
+1) patvirtina valstybei nuosavybės teise priklausančių akcijų nacionalinio investuotojo bendrovėje projekto įgyvendinimo metu suteikiamų teisių įgyvendinimo tvarką;
 
-2) patvirtinti specialiųjų saugumo priemonių įgyvendinimo tvarką;
+2) patvirtina specialiųjų saugumo priemonių įgyvendinimo tvarką;
 
-3) parengti ir patvirtinti nacionalinę branduolinės energetikos specialistų rengimo programą, kuri užtikrintų reikalingų branduolinės energetikos specialistų rengimą, ir nustatyti šios programos įgyvendinimo priemones;
+3) parengia ir patvirtina Nacionalinę branduolinės energetikos specialistų rengimo programą, kuri užtikrintų reikalingų branduolinės energetikos specialistų rengimą, ir nustato šios programos įgyvendinimo priemones;
 
-4) parengti ir pateikti Seimui ne vėliau kaip per 3 mėnesius nuo šio įstatymo įsigaliojimo Branduolinės energijos įstatymo pakeitimo įstatymo projektą, Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo pakeitimo įstatymo projektą, kitų šiam įstatymui įgyvendinti reikalingų įstatymų projektus;
+4) parengia ir patvirtina kitus teisės aktus, reikalingus šio įstatymo nuostatoms įgyvendinti, taip pat parengia ir pateikia Lietuvos Respublikos Seimui šiam įstatymui įgyvendinti reikalingus įstatymų projektus.
 
-5) siekti, kad, investuotojams pasirenkant elektrinės parametrus, būtų atsižvelgiama į Lietuvos elektros perdavimo sistemos stabilaus darbo sinchroniniu režimu su Elektros perdavimo koordinavimo sąjungos (UCTE) sistema sąlygas.
+Straipsnio pakeitimai:
 
-2. Pasiūlyti Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai parengti ir patvirtinti kitus teisės aktus, reikalingus šio įstatymo nuostatoms įgyvendinti.
+Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-191 straipsnis. Tikslinės obligacijos
+Pakeitimai:
 
-1. Lietuvos Respublikos Vyriausybė, projekto įgyvendinimo bendrovė ir elektros perdavimo jungčių statytojas turi teisę leisti tikslines obligacijas, kurios skirtos projekto įgyvendinimui finansuoti ir elektros perdavimo jungčių statybai ir į kurias gali investuoti nacionalinis investuotojas, strateginis investuotojas ir kiti investuotojai.
+1.
 
-2. Lietuvos Respublikos Vyriausybė turi teisę nustatyti specialius reikalavimus, taikomus tikslinių obligacijų emisijai ir išpirkimui.
+Lietuvos Respublikos Seimas, Įstatymas
 
-Papildyta straipsniu:
+Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
 
-Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
-
-1. Projekto įgyvendinimo bendrovės ir (arba) jos dalyvių tarpusavio sandoriams dėl elektros energijos ir (arba) galios pirkimo–pardavimo, garantijų ir (arba) kitokių prievolių įvykdymo užtikrinimo priemonių suteikimo ir (arba) paskolų suteikimo, ir (arba) kreditavimo atitinkamais mokestiniais metais netaikomas Lietuvos Respublikos pelno mokesčio įstatymo (toliau – Pelno mokesčio įstatymas) 40 straipsnis, reglamentuojantis sandorių arba ūkinių operacijų vertės koregavimą ir pajamų arba išmokų apibūdinimą iš naujo, jeigu verslo santykiai tarp projekto įgyvendinimo bendrovės ir jos dalyvių visą atitinkamų mokestinių metų laikotarpį atitinka šio straipsnio 2–8 dalyse nustatytas sąlygas.
-
-2. Projekto įgyvendinimo bendrovė sutartyje (sutartyse) tarp projekto įgyvendinimo bendrovės dalyvių ir (arba) tarp projekto įgyvendinimo bendrovės ir jos dalyvio (dalyvių) numatytomis sąlygomis ir tvarka bei atsižvelgdama į šio straipsnio 6 dalį parduoda pagamintą elektros energiją ir galią savo dalyviams už kainą, ne mažesnę negu projekto įgyvendinimo bendrovės su elektros energijos gamyba susijusios sąnaudos. Jeigu dėl pirmiau paminėtos veiklos projekto įgyvendinimo bendrovė tam tikrais mokestiniais metais uždirba apmokestinamojo pelno, toks pelnas apmokestinamas pagal bendrąsias Pelno mokesčio įstatymo nuostatas.
-
-3. Kiekvienas projekto įgyvendinimo bendrovės dalyvis, atsižvelgdamas į sutartį (sutartis) su projekto įgyvendinimo bendrove, įsipareigoja įsigyti ir apmokėti (avansu arba po elektros energijos ir (arba) galios įsigijimo) dalį viso branduolinės (atominės) elektrinės pagamintos elektros energijos ir (arba) galios kiekio, proporcingai to dalyvio valdomai daliai projekto įgyvendinimo bendrovės įstatiniame kapitale, už kainą, nustatomą pagal šio straipsnio 2 dalį.
-
-4. Projekto įgyvendinimo bendrovė, atsižvelgdama į sutartis su kiekvienu jos dalyviu, įsipareigoja parduoti dalį viso branduolinės (atominės) elektrinės pagamintos elektros energijos ir (arba) galios kiekio kiekvienam dalyviui, proporcingai to dalyvio valdomai daliai projekto įgyvendinimo bendrovės įstatiniame kapitale, už kainą, nustatomą pagal šio straipsnio 2 dalį.
-
-5. Projekto įgyvendinimo bendrovė išimtinai vykdo savo įsipareigojimus pagal sutartis su kiekvienu jos dalyviu, t. y. projekto įgyvendinimo bendrovė neparduoda elektros energijos ir (arba) galios tiesiogiai į rinką, išskyrus šio straipsnio 6 dalyje numatytą atvejį.
-
-6. Jeigu projekto įgyvendinimo bendrovės dalyvis nevykdo apmokėjimo už suteiktą elektros energiją ir (arba) galią įsipareigojimų ar kitų finansinių įsipareigojimų (dėl bet kokių priežasčių, įskaitant nenugalimos jėgos aplinkybes), nustatytų sutartyje (sutartyse) tarp projekto įgyvendinimo bendrovės ir jos dalyvių, projekto įgyvendinimo bendrovė gali parduoti įsipareigojimų neįvykdžiusio dalyvio atitinkamo periodo elektros energijos ir (arba) galios dalį kitiems savo dalyviams už kainą, ne mažesnę, negu numatyta pagal šio straipsnio 2 dalį, arba tiesiogiai į rinką už rinkos kainą tokiose sutartyse nustatytais atvejais, tvarka ir sąlygomis. Kitos teisių gynybos priemonės, numatytos sutartyje (sutartyse) tarp projekto įgyvendinimo bendrovės ir jos dalyvių, taip pat gali būti taikomos šioje dalyje nurodytais atvejais.
-
-7. Elektros energijos ir galios pardavimo kaina, nurodyta šio straipsnio 2 dalyje, projekto įgyvendinimo bendrovės dalyviams nustatoma įvertinus projekto įgyvendinimo bendrovės su elektros energijos gamyba susijusias sąnaudas. Visos toliau šioje dalyje numatytos sąnaudos priskiriamos leidžiamiems atskaitymams pelno mokesčio tikslais. Sąnaudų, kurios gali būti įskaičiuojamos į elektros energijos ir galios pardavimo kainą, nebaigtinis sąrašas yra:
-
-1) projekto įgyvendinimo bendrovės sąnaudos, skirtos kurui pirkti, atvežti ir jį saugoti;
-
-2) nusidėvėjimo ir amortizacijos sąnaudos (nusidėvėjimo ir amortizacijos normatyvai gali būti peržiūrimi kiekvienais metais);
-
-3) darbo užmokesčio sąnaudos, kurias sudaro projekto įgyvendinimo bendrovės darbuotojų darbo užmokestis ir kitos su darbo santykiais susijusios išmokos, taip pat mokėjimai už atliktą darbą ar suteiktas paslaugas asmenims, užsiimantiems individualia ar kita panašaus pobūdžio veikla (autoriniai atlyginimai, honorarai ir pan.);
-
-4) mokesčiai, įskaitant socialinio draudimo įmokas, muitai ir kitos privalomos įmokos, skaičiuojamos ir mokėtinos teisės aktų nustatyta tvarka;
-
-5) palūkanos ir kitos finansinės veiklos sąnaudos (tuo atveju, kai kiekvienas projekto įgyvendinimo bendrovės dalyvis suteiks projekto įgyvendinimo bendrovei paskolą ir (arba) užtikrins jos įsipareigojimų vykdymą proporcingai kiekvieno dalyvio daliai projekto įgyvendinimo bendrovės įstatiniame kapitale, mokėtinos palūkanos pagal kiekvieno dalyvio suteiktą paskolą ir (arba) užtikrintą įsipareigojimą bus įtrauktos į elektros energijos kainą atitinkamam dalyviui, nebent dalyvių tarpusavio susitarime ir (arba) projekto įgyvendinimo bendrovės ir jos dalyvių tarpusavio susitarime (susitarimuose) bus nustatyta kitaip);
-
-6) remonto ir eksploatavimo sąnaudos, įskaitant su tuo susijusias elektros energijos pirkimo arba gamybos sąnaudas;
-
-7) projekto įgyvendinimo bendrovės bendrosios administracinės sąnaudos;
-
-8) sąnaudos, susijusios su naujos branduolinės (atominės) elektrinės eksploatavimo nutraukimu ir radioaktyviųjų atliekų tvarkymu;
-
-9) civilinės atsakomybės už branduolinę žalą ir kitokios rūšies civilinės atsakomybės draudimo ir (arba) kitos su projekto įgyvendinimo bendrovės veikla susijusios draudimo įmokos;
-
-10) sąnaudos, susijusios su apyvartinio kapitalo ir grynųjų pinigų rezervų sukūrimu projekto įgyvendinimo bendrovėje;
-
-11) sąnaudos, kurios bus patirtos, iki bus pradėta elektros energijos gamyba, bet nebus įtraukiamos į ilgalaikio turto vertę.
-
-8. Leidžiamiems atskaitymams pelno mokesčio tikslais gali būti priskiriamos visos projekto įgyvendinimo bendrovės sąnaudos, susijusios su atidėjiniais, sukurtais branduolinės (atominės) elektrinės eksploatavimo nutraukimui ir radioaktyviųjų atliekų tvarkymui.
-
-9. Tuo atveju, jeigu projekto įgyvendinimo bendrovės teisinė forma bus uždaroji akcinė bendrovė, jai nebus taikomi Lietuvos Respublikos akcinių bendrovių įstatymo (toliau – Akcinių bendrovių įstatymas) 38 straipsnio 1 dalies 4 punkte, 3, 4 ir 5 dalyse, 39 straipsnio 2 ir 5 dalyse, 52 straipsnio 6 dalies 1 punkte ir 59 straipsnio 2 dalies 7 punkte, 5 dalyje, 6 dalies 3 punkte (tiek, kiek numatytas reikalavimas formuoti privalomą rezervą), 9 dalies 2 punkte, 10 dalyje (tačiau projekto įgyvendinimo bendrovės nepaskirstytieji nuostoliai gali būti perkeliami į kitus finansinius metus) ir 11 dalyje numatyti reikalavimai. Tokiu atveju projekto įgyvendinimo bendrovės dalyviai apmoka įstatinį kapitalą, pasirašydami ir apmokėdami bendrovės akcijas. Projekto įgyvendinimo bendrovės įstatinio kapitalo dydis turi atitikti Akcinių bendrovių įstatymo 38 straipsnio 2 dalies reikalavimus.
-
-10. Projekto įgyvendinimo bendrovės ir jos dalyvių ir (arba) projekto įgyvendinimo bendrovės dalyvių tarpusavio sandoriams, susijusiems su branduolinės (atominės) elektrinės pagamintos elektros energijos pirkimu ir pardavimu, nėra taikomas Elektros energetikos įstatyme ir kituose teisės aktuose numatytas kainų reguliavimas.
-
-11. Projekto įgyvendinimo bendrovės visuotinis dalyvių susirinkimas, valdyba ir vadovas, priimdami sprendimus bei atlikdami kitus veiksmus, vadovaujasi šio straipsnio 1–10 dalimis.
+Lietuvos Respublikos atominės elektrinės įstatymo 8, 10, 11, 20 straipsnių pakeitimo ir papildymo įstatymas
 
