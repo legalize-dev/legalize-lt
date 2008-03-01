@@ -4,7 +4,7 @@ identifier: "TAR.B8B6AFC2BFF1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-03-23"
-last_updated: "2004-05-01"
+last_updated: "2008-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2008-02-29
+Suvestinė redakcija nuo 2008-03-01 iki 2009-04-24
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
 
@@ -215,7 +215,11 @@ KONCENTRACIJOS KONTROLĖ
 
 2) ūkio subjektų, iš kurių vienas ūkio subjektas ar keletas ūkio subjektų, veikdami susitarimo pagrindu, įsigyja kitą ūkio subjektą (įmonę ar jos dalį), visą ūkio subjekto turtą ar turto dalį arba įsigyja kito ūkio subjekto akcijų dalį, kuri, įskaitant viską, kas buvo anksčiau įsigyta, sudaro 1/4 ar daugiau įstatinio kapitalo, arba gauna teisę į kito ūkio subjekto 1/4 ar didesnę balsų dalį, bendrųjų pajamų suma. Jeigu ūkio subjektas, kuris įsigyja kito ūkio subjekto akcijų dalį, priklauso susijusių ūkio subjektų grupei, tai apskaičiuojant įsigyjamų akcijų dalį įskaitomos ir akcijos, kurias šiame ūkio subjekte turi tai pačiai susijusių ūkio subjektų grupei priklausantys ūkio subjektai. Jeigu įsigyjama ūkio subjekto (įmonės) dalis arba ūkio subjekto turto dalis, tai bendrosios pajamos ir rinkos dalis apskaičiuojama proporcingai įsigyjamo turto daliai;
 
-3) koncentruojamų ūkio subjektų, iš kurių viename ar keliuose tas pats fizinis asmuo arba tie patys fiziniai asmenys, turėdami kontrolės teisę, įsigyja kitą ūkio subjektą (įmonę ar jos dalį), visą ūkio subjekto turtą ar turto dalį arba įsigyja kito ūkio subjekto akcijų dalį, kuri, įskaitant viską, kas buvo anksčiau įsigyta, sudaro 1/4 ar daugiau įstatinio kapitalo arba gauna teisę į kito ūkio subjekto 1/4 ar didesnę balsų dalį, bendrųjų pajamų suma. Apskaičiuojant fizinio asmens ar fizinių asmenų įsigyjamų kito ūkio subjekto akcijų dalį, įskaitomos akcijos, kurias šiame ūkio subjekte turi fizinio asmens ar tų pačių fizinių asmenų kontroliuojami ūkio subjektai bei visi tai pačiai susijusių ūkio subjektų grupei priklausantys ūkio subjektai. Jeigu įsigyjama ūkio subjekto (įmonės) dalis arba ūkio subjekto turto dalis, tai bendrosios pajamos ir rinkos dalis apskaičiuojama proporcingai įsigyjamo turto daliai;
+3) kolektyvinio investavimo subjektai ar juos valdančios valdymo įmonės, – bendrosios pajamos skaičiuojamos kaip visų ūkio subjektų, kuriuos kontroliuoja valdymo įmonė, uždaro tipo investicinė bendrovė ar investicinė kintamojo kapitalo bendrovė, kurių turto valdymas neperduotas valdymo įmonei, bendrųjų pajamų suma;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1311, 2007-10-25, Žin., 2007, Nr. 117-4780 (2007-11-15), i. k. 1071010ISTA00X-1311
 
 4) bendrųjų pajamų suma ūkio subjektų, kurie veikdami susitarimo pagrindu kartu steigia naują ūkio subjektą arba sukuria bendrą valdymo organą ar bendrą administracinį padalinį arba kurie dėl priimamų sprendimų turės pusę ar daugiau tų pačių narių stebėtojų tarybose, valdybose ar kituose valdymo organuose, arba kurie įsipareigoja vienas su kitu derinti savo ūkinės veiklos sprendimus arba perduoti vienas kitam visą ar tam tikrą dalį pelno, arba kurie vienas kitam suteikia teisę naudoti visą savo turtą ar jo dalį, arba vienas iš kurių ar keletas ūkio subjektų, veikdami susitarimo pagrindu, kitokiu būdu įgyja kito ūkio subjekto kontrolę. Jeigu vienas ūkio subjektas suteikia teisę kitam ūkio subjektui naudoti savo turto dalį, tai bendrosios pajamos ir rinkos dalis apskaičiuojama proporcingai naudojamo turto daliai.
 
@@ -1056,4 +1060,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
 
 Lietuvos Respublikos konkurencijos įstatymo pakeitimo ir papildymo, Valstybės pagalbos ūkio subjektams kontrolės įstatymo pripažinimo netekusiu galios ir Civilinio proceso kodekso 1 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1311, 2007-10-25, Žin., 2007, Nr. 117-4780 (2007-11-15), i. k. 1071010ISTA00X-1311
+
+Lietuvos Respublikos konkurencijos įstatymo 10 straipsnio pakeitimo įstatymas
 
