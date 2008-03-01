@@ -4,7 +4,7 @@ identifier: "TAR.769B541DD7F7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-04"
-last_updated: "2005-12-20"
+last_updated: "2008-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-Suvestinė redakcija nuo 2005-12-20 iki 2008-02-29
+Suvestinė redakcija nuo 2008-03-01 iki 2009-03-04
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
 
@@ -36,19 +36,29 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis Įstatymas nustato ūkininko teisinį statusą, ūkininko ir jo partnerių veiklos pagrindus, ūkininko ūkio įregistravimo bei išregistravimo sąlygas ir tvarką, ūkininkui teikiamą paramą.
+Šis Įstatymas nustato ūkininko teisinį statusą, ūkininko ir jo partnerių veiklos pagrindus, ūkininko ūkio įregistravimo bei išregistravimo sąlygas ir tvarką, ūkininkui teikiamą paramą ir ūkininko sodybos ar pagalbinio ūkio ir kitos paskirties (fermų, ūkio, šiltnamių, kaimo turizmo) pastatų statybos sąlygas.
 
-2 straipsnis. Pagrindinės Įstatymo sąvokos
+Straipsnio pakeitimai:
 
-1. Ūkininkas – fizinis asmuo, kuris vienas arba su partneriais verčiasi žemės ūkio veikla ir miškininkyste, o jo ūkis yra įregistruotas Ūkininkų ūkių registre.
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
 
-2. Ūkininko partneriai – fiziniai asmenys ( ūkininko sutuoktinis, pilnamečiai šeimos nariai ar kiti fiziniai asmenys), kurie kartu su ūkininku verčiasi žemės ūkio veikla pagal sudarytą jungtinės veiklos (partnerystės) sutartį.
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-3. Ūkininko ūkis (toliau – ūkis) – ūkininko turtinių ir asmeninių neturtinių teisių bei prievolių visuma.
+1. Talkininkas – fizinis asmuo, tarpusavio susitarimu ūkyje dirbantis nemokamai.
 
-4. Talkininkas – fizinis asmuo, tarpusavio susitarimu ūkyje atliekantis neapmokamą darbą.
+2. Ūkininkas – fizinis asmuo, kuris vienas arba su partneriais verčiasi žemės ūkio veikla ir miškininkyste, o jo ūkis yra įregistruotas Ūkininkų ūkių registre.
 
-5. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos kituose įstatymuose.
+3. Ūkininko partneris – fizinis asmuo (ūkininko sutuoktinis, pilnametis šeimos narys ar kitas fizinis asmuo), kuris kartu su ūkininku verčiasi žemės ūkio veikla ir miškininkyste pagal sudarytą jungtinės veiklos (partnerystės) sutartį.
+
+4. Ūkininko sodyba – nuosavybės teise priklausančiame žemės sklype pastatytas vienas gyvenamosios paskirties pastatas su pagalbinio ūkio ir kitos paskirties (fermų, ūkio, šiltnamių, kaimo turizmo) pastatais, reikalingais ūkininko veiklai vykdyti.
+
+5. Ūkininko ūkis (toliau – ūkis) – ūkininko turtinių ir asmeninių neturtinių teisių ir prievolių visuma.
+
+6. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos kituose įstatymuose.
+
+Straipsnio pakeitimai:
+
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
 
 3 straipsnis. Įstatymo subjektas ir jo teisinis statusas
 
@@ -162,11 +172,13 @@ TREČIASIS SKIRSNIS
 
 1) ūkininko prašymu;
 
-2) ūkininkui mirus, jeigu nėra ūkio paveldėtojų ir ūkio veikla toliau netęsiama;
+2) ūkininkui mirus, jeigu nėra įpėdinio ir ūkio veikla toliau netęsiama;
 
 Straipsnio punkto pakeitimai:
 
 Nr. X-427, 2005-12-06, Žin., 2005, Nr. 148-5390 (2005-12-20), i. k. 1051010ISTA000X-427
+
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
 
 3) teismo sprendimu.
 
@@ -174,7 +186,11 @@ Nr. X-427, 2005-12-06, Žin., 2005, Nr. 148-5390 (2005-12-20), i. k. 1051010ISTA
 
 KETVIRTASIS SKIRSNIS
 
-PARAMA ŪKININKUI
+PARAMA ŪKININKUI IR ŪKININKO SODYBOS STATYBOS SĄLYGOS
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
 
 10 straipsnis. Parama ūkininkui
 
@@ -191,6 +207,16 @@ Straipsnio dalies pakeitimai:
 Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
 
 5. Vienintelis darbingas ūkininko partneris karinės prievolės atlikti nešaukiamas.
+
+11 straipsnis. Ūkininko sodybos statybos sąlygos
+
+1. Nerengiant detaliųjų planų žemės ūkio paskirties žemėje ūkininkas gali statyti vieną ūkininko sodybą, išskyrus miestams po 1995 m. birželio 1 d. nustatyta tvarka priskirtose teritorijose. Ūkininko sodyba ar pagalbinio ūkio ir kitos paskirties (fermų, ūkio, šiltnamių, kaimo turizmo) pastatai statomi nuosavybės teise priklausančiame žemės ūkio paskirties žemės sklype, ne mažesniame kaip 0,5 hektaro.
+
+2. Leidimas statyti ūkininko sodybą išduodamas vadovaujantis Lietuvos Respublikos statybos įstatymu.
+
+Papildyta straipsniu:
+
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -222,33 +248,13 @@ Nr. X-427, 2005-12-06, Žin., 2005, Nr. 148-5390 (2005-12-20), i. k. 1051010ISTA
 
 Lietuvos Respublikos ūkininko ūkio įstatymo 9 straipsnio pakeitimo įstatymas
 
-11 straipsnis. Ūkio registravimas
+4.
 
-1. Ūkį registruoti gali pagal civilinius įstatymus veiksnūs fiziniai asmenys.
+Lietuvos Respublikos Seimas, Įstatymas
 
-2. Registruojamo ūkio žemės valdoje turi būti ne mažiau kaip 1 ha žemės ūkio naudmenų (neskaitant kitiems asmenims išnuomotos žemės), o jei ūkio žemės valdoje yra mažiau kaip 1 ha žemės ūkio naudmenų, turi būti deklaruojama tokia per kalendorinius metus gautų iš žemės ūkio veiklos pajamų suma, kuri sudarytų ne mažiau kaip 40 minimalių gyvenimo lygių dydžio sumą. Ūkio pajamos iš žemės ūkio veiklos turi sudaryti ne mažiau kaip 50 procentų visų per metus gautų verslo pajamų. Jeigu ūkis verčiasi dar ir agroturizmu, amatais, pajamos iš žemės ūkio turi sudaryti ne mažiau kaip 25 procentus visų per metus gautų verslo pajamų.
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
 
-3. Ūkiui registruoti pateikiami šie dokumentai:
-
-1) prašymas įregistruoti ūkį;
-
-2) ūkininko ir ūkio narių žemės nuosavybės arba žemės nuomos dokumentų kopijos;
-
-3) ūkio narių sąrašas;
-
-4) duomenys apie gautas iš žemės ūkio veiklos pajamas, jei žemės ūkio naudmenų plotas mažesnis nei 1 ha.
-
-4. Ūkis įregistruojamas ūkininko vardu.
-
-5. Ūkio registravimo dokumentų turinį, formą ir konkrečią registravimo tvarką nustato Žemės ūkio ministerija.
-
-6. Ūkius registruoja rajonų žemės ūkio skyriai ūkininkų ūkių registre.
-
-7. Ne vėliau kaip per 15 dienų nuo dokumentų ūkiui įregistruoti pateikimo ūkis turi būti įregistruotas arba pareiškėjui raštu nurodyta ūkio neįregistravimo priežastis. Atsisakymas įregistruoti ūkį gali būti apskundžiamas apskrities viršininkui. Šis skundas turi būti išnagrinėtas ne vėliau kaip per l mėnesį. Jei prašytojas nesutinka su priimtu sprendimu, jį gali apskųsti teismui.
-
-8. Įregistravus ūkį, ne vėliau kaip per 5 dienas ūkininkui išduodamas ūkio įregistravimo pažymėjimas.
-
-9. Pasikeitus ūkiui įregistruoti pateiktuose dokumentuose nurodytai informacijai, ūkininkas per mėnesį nuo šių pokyčių atsiradimo dienos pateikia pakitimus patvirtinančius dokumentus ūkius registruojančiai institucijai.
+Lietuvos Respublikos ūkininko ūkio įstatymo 1, 2, 9 straipsnių pakeitimo ir papildymo, ketvirtojo skirsnio pavadinimo pakeitimo bei Įstatymo papildymo 8(1), 11 straipsniais įstatymas
 
 12 straipsnis. Ūkio veiklos nutraukimas ir išregistravimas
 
@@ -303,4 +309,12 @@ Vyriausybė iki 1999 m. rugsėjo 1d. parengia su šiuo įstatymu susijusių įst
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+81 straipsnis. Ūkininko ūkio duomenų pasikeitimo įregistravimas ūkininkui mirus
+
+Ūkininkui mirus, jeigu įpėdinis tęsia ūkio veiklą, registro tvarkymo įstaigai pateikiami ūkio įregistravimo pažymėjimas ir prašymas įregistruoti ūkį įpėdinio vardu kartu su tai patvirtinančiais ir kitais dokumentais, nurodytais šio Įstatymo 7 straipsnyje.
+
+Papildyta straipsniu:
+
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
 
