@@ -4,7 +4,7 @@ identifier: "TAR.291FFED8D558"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2004-05-01"
+last_updated: "2008-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.291FFED8D558"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas
+
+Suvestinė redakcija nuo 2008-03-01 iki 2008-06-20
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 61-2183, i. k. 1041010ISTA0IX-2127
 
 LIETUVOS RESPUBLIKOS FINANSINIO UŽTIKRINIMO SUSITARIMŲ Į S T A T Y M A S
 
@@ -124,7 +128,13 @@ BENDROSIOS NUOSTATOS
 
 8) asmuo, išskyrus fizinius asmenis, veikiantis kaip šios dalies 1–7 punktuose nurodytų vieno ar daugiau asmenų arba institucijų, turinčių obligacijų ar kitų skolos vertybinių popierių, įgaliotinis, patikėtinis ar atstovas;
 
-9) asmuo, išskyrus fizinius asmenis, su sąlyga, kad kita šalis yra subjektas, nurodytas šios dalies 1–8 punktuose.
+9) asmuo, išskyrus fizinius asmenis, su sąlyga, kad kita šalis yra subjektas, nurodytas šios dalies 1–8 punktuose;
+
+10) uždaro tipo investicinė bendrovė.
+
+Papildyta straipsnio punktu:
+
+Nr. X-1309, 2007-10-25, Žin., 2007, Nr. 117-4778 (2007-11-15), i. k. 1071010ISTA00X-1309
 
 3. Šis Įstatymas netaikomas teisėms, kurias asmuo gali turėti turto, pateikto kaip finansinis užstatas, atžvilgiu ir kurios atsiranda ne pagal finansinio užtikrinimo susitarimo sąlygas ir ne pagal teisės aktų nuostatą, susijusią su likvidavimo procedūra arba reorganizavimo priemonėmis.
 
@@ -317,4 +327,14 @@ priedas
 Europos Parlamento ir Tarybos 2002 m. birželio 6 d. direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito.
 
 ______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1309, 2007-10-25, Žin., 2007, Nr. 117-4778 (2007-11-15), i. k. 1071010ISTA00X-1309
+
+Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo 3 straipsnio papildymo įstatymas
 
