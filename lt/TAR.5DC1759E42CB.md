@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2007-07-21"
+last_updated: "2008-03-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -200,11 +200,9 @@ didesnis kaip 45 km/h.
 
 vidaus degimo variklio cilindro (cilindrų) darbinis tūris didesnis kaip 50 cm³
 
-ir (ar) maksimalus konstrukcinis greitis didesnis kaip 45 km/h. Ši sąvoka apima
+ir (ar) maksimalus konstrukcinis greitis didesnis kaip 45 km/h. Ši sąvoka apima trirates motorines transporto priemones, kurių masė be krovinio ne didesnė
 
-trirates motorines transporto priemones, kurių masė be krovinio ne didesnė kaip
-
-400 kg.
+kaip 400 kg.
 
 18. Motorinė
 
@@ -1332,9 +1330,7 @@ jaunesniems kaip:
 
 1) 16 metų –
 
-lengvuosius motociklus, kurių variklio darbinis tūris yra didesnis kaip 50 cm(3),
-
-bet ne didesnis kaip 125 cm(3) ir jo galia neviršija 11 kW (15 AG)
+lengvuosius motociklus, kurių variklio darbinis tūris yra didesnis kaip 50 cm(3), bet ne didesnis kaip 125 cm(3) ir jo galia neviršija 11 kW (15 AG)
 
 (A1 kategorija);
 
@@ -1354,19 +1350,13 @@ nustatytos kategorijos transporto priemonių vairuotojo pažymėjimą;
 
 kategorijos automobilius trimis ar keturiais ratais, kurių maksimalus konstrukcinis
 
-greitis didesnis kaip 45 km/h ir (arba) variklio darbinis tūris didesnis kaip
+greitis didesnis kaip 45 km/h ir (arba) variklio darbinis tūris didesnis kaip 50 cm(3). Nepakrautos transporto priemonės masė turi būti ne didesnė kaip 550 kg. Į nepakrautų elektrinių transporto priemonių masę neįskaičiuojama akumuliatorių baterijų masė
 
-50 cm(3). Nepakrautos transporto priemonės masė turi būti ne didesnė
-
-kaip 550 kg. Į nepakrautų elektrinių transporto priemonių masę neįskaičiuojama
-
-akumuliatorių baterijų masė (B1 kategorija);
+(B1 kategorija);
 
 4) 18 metų –
 
-automobilius, kurių leidžiama maksimali masė ne didesnė kaip 3500 kg ir
-
-turinčius ne daugiau kaip aštuonias sėdimąsias vietas be vairuotojo vietos; šie
+automobilius, kurių leidžiama maksimali masė ne didesnė kaip 3500 kg ir turinčius ne daugiau kaip aštuonias sėdimąsias vietas be vairuotojo vietos; šie
 
 automobiliai gali būti sujungti su priekaba, kurios leidžiama maksimali masė ne
 
@@ -1382,11 +1372,9 @@ kaip 750 kg, junginius (BE kategorija);
 
 automobilius, kurie nepriskiriami D kategorijai ir jų leidžiama maksimali masė
 
-yra didesnė kaip 3500 kg, bet ne didesnė kaip 7500 kg. Šios kategorijos
+yra didesnė kaip 3500 kg, bet ne didesnė kaip 7500 kg. Šios kategorijos automobiliai gali būti sujungti su priekaba, kurios leidžiama maksimali
 
-automobiliai gali būti sujungti su priekaba, kurios leidžiama maksimali masė ne
-
-didesnė kaip 750 kg (C1 kategorija);
+masė ne didesnė kaip 750 kg (C1 kategorija);
 
 7) 21 metų –
 
@@ -1418,9 +1406,7 @@ automobilius, skirtus vežti keleivius ir turinčius daugiau kaip aštuonias
 
 sėdimąsias vietas be vairuotojo vietos; šie automobiliai gali būti sujungti su
 
-priekaba, kurios leidžiama maksimali masė ne didesnė kaip 750 kg (D
-
-kategorija);
+priekaba, kurios leidžiama maksimali masė ne didesnė kaip 750 kg (D kategorija);
 
 11) 21 metų –
 
@@ -4100,7 +4086,11 @@ eismo taisyklėse nustatyta tvarka;
 
 su eismo įvykiu, išskyrus Kelių eismo taisyklėse nustatytus atvejus;
 
-3) pranešti apie eismo įvykį policijai;
+3)
+
+pranešti apie eismo įvykį policijai, išskyrus teisės aktuose nustatytus
+
+atvejus;
 
 4) imtis visų reikiamų priemonių, kad būtų suteikta pirmoji
 
@@ -4121,6 +4111,10 @@ Straipsnio pakeitimai:
 Nr. IX-1256,
 
 2002-12-10, Žin., 2002, Nr. 123-5543 (2002-12-24)
+
+Nr. X-1455,
+
+2008-03-13, Žin., 2008, Nr. 36-1274 (2008-03-29)
 
 27 straipsnis. Įstatymo įsigaliojimas
 
@@ -4144,9 +4138,9 @@ Lietuvos
 
 Respublikos
 
-2000
+2000 m.
 
-m. spalio 12 d.
+spalio 12 d.
 
 įstatymo
 
@@ -4158,37 +4152,31 @@ Saugaus
 
 eismo automobilių keliais įstatymas yra suderintas su:
 
-1) 1970 m. vasario
+1) 1970 m. vasario 6 d.
 
-6 d. Tarybos direktyva 70/156/EEB dėl valstybių narių įstatymų, priimtų dėl
+Tarybos direktyva 70/156/EEB dėl valstybių narių įstatymų, priimtų dėl
 
 transporto priemonių ir jų priekabų tipų patvirtinimo, derinimo;
 
-2) 1992 m.
+2) 1992 m. birželio 30 d. Tarybos direktyva 92/61/EEB dėl dviračių arba triračių transporto priemonių
 
-birželio 30 d. Tarybos direktyva 92/61/EEB dėl dviračių arba triračių
+tipo patvirtinimo;
 
-transporto priemonių tipo patvirtinimo;
+3) 2002 m. kovo 18 d. Europos Parlamento ir Tarybos direktyva 2002/24/EB dėl dviračių arba triračių
 
-3) 2002 m. kovo
-
-18 d. Europos Parlamento ir Tarybos direktyva 2002/24/EB dėl dviračių arba
-
-triračių transporto priemonių tipo patvirtinimo ir Tarybos direktyvos 92/61/EEB
+transporto priemonių tipo patvirtinimo ir Tarybos direktyvos 92/61/EEB
 
 panaikinimo;
 
 4)
 
-Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d.
-
-Hagoje.
+Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d. Hagoje.
 
 Įstatymas papildytas priedu:
 
-Nr. IX-1256, 2002-12-10,
+Nr. IX-1256,
 
-Žin., 2002, Nr. 123-5543 (2002-12-24)
+2002-12-10, Žin., 2002, Nr. 123-5543 (2002-12-24)
 
 ________________
 
@@ -4250,9 +4238,9 @@ IX-1654, 2003-06-26, Žin., 2003, Nr. 70-3166 (2003-07-16)
 
 SAUGAUS
 
-EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 3, 6, 12 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO
+EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 3, 6, 12 STRAIPSNIŲ PAPILDYMO IR
 
-ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 Šio Įstatymo 4
 
@@ -4296,17 +4284,13 @@ EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 19 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 1. Šio įstatymo nuostatos, susijusios su
 
-Lietuvos Respublikos kelių transporto priemonių registru, įsigalioja nuo 2005
-
-m. spalio 1 d.
+Lietuvos Respublikos kelių transporto priemonių registru, įsigalioja nuo 2005 m. spalio 1 d.
 
 2.
 
 Šio įstatymo nuostatos, susijusios su Lietuvos Respublikos traktorių, savaeigių
 
-ir žemės ūkio mašinų ir jų priekabų registru, įsigalioja nuo 2006 m. spalio 1
-
-d.
+ir žemės ūkio mašinų ir jų priekabų registru, įsigalioja nuo 2006 m. spalio 1 d.
 
 6.
 
@@ -4324,9 +4308,7 @@ SAUGAUS
 
 EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-Šis įstatymas įsigalioja nuo 2006 m.
-
-spalio 10 d.
+Šis įstatymas įsigalioja nuo 2006 m. spalio 10 d.
 
 7.
 
@@ -4362,13 +4344,29 @@ EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 16 STRAIPSNIO PAKEITIMO IR PAPILDYMO
 
 ĮSTATYMAS
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1455,
+
+2008-03-13, Žin., 2008, Nr. 36-1274 (2008-03-29)
+
+SAUGAUS
+
+EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2007-07-24)
+Aušrinė Trapinskienė (2008-04-02)
 
-ausra.bodin@lrs.lt
+autrap@lrs.lt
 
