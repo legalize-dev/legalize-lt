@@ -4,7 +4,7 @@ identifier: "TAR.B4FAA1DD73CF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2005-06-07"
-last_updated: "2007-07-01"
+last_updated: "2008-04-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2007-07-01 iki 2008-04-18
+Suvestinė redakcija nuo 2008-04-19 iki 2009-03-04
 
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
 
@@ -156,7 +156,15 @@ Nr. X-878, 2006-10-24, Žin., 2006, Nr. 119-4549 (2006-11-07), i. k. 1061010ISTA
 
 19) Lietuvos banko, Lietuvos darbo biržos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, Lietuvos darbo rinkos mokymo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos nekilnojamasis turtas;
 
-20) juridinių asmenų, veikiančių pagal Lietuvos Respublikos meno kūrėjų ir meno kūrėjų organizacijų statuso įstatymą, nekilnojamas turtas.
+20) juridinių asmenų, veikiančių pagal Lietuvos Respublikos meno kūrėjų ir meno kūrėjų organizacijų statuso įstatymą, nekilnojamas turtas;
+
+21) nekilnojamasis turtas (arba jo dalis), naudojamas teikiant tik sveikatos priežiūros paslaugas.
+
+TAR pastaba. 21 punktas taikomas apskaičiuojant nekilnojamojo turto mokestį nuo 2009 m. sausio 1 d.
+
+Papildyta straipsnio punktu:
+
+Nr. X-1479, 2008-04-03, Žin., 2008, Nr. 45-1681 (2008-04-19), i. k. 1081010ISTA00X-1479
 
 3. Mokesčiu taip pat neapmokestinami tinkamais naudoti nepripažinti statiniai, jeigu jie nėra faktiškai naudojami.
 
@@ -363,4 +371,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-878, 2006-10-24, Žin., 2006, Nr. 119-4549 (2006-11-07), i. k. 1061010ISTA000X-878
 
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1479, 2008-04-03, Žin., 2008, Nr. 45-1681 (2008-04-19), i. k. 1081010ISTA00X-1479
+
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio papildymo įstatymas
 
