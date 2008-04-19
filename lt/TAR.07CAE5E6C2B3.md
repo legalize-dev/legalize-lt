@@ -4,7 +4,7 @@ identifier: "TAR.07CAE5E6C2B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-26"
-last_updated: "2006-10-24"
+last_updated: "2008-04-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2006-10-24 iki 2008-04-18
+Suvestinė redakcija nuo 2008-04-19 iki 2009-09-14
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
 
@@ -38,7 +38,11 @@ BENDROSIOS NUOSTATOS
 
 1. Šis įstatymas reglamentuoja Lietuvos valstybės vėliavą, kitas vėliavas, jų aprašymus, oficialaus naudojimo Lietuvos Respublikoje principus ir tvarką, atsakomybę už vėliavų iškėlimo tvarkos pažeidimus ar vėliavų išniekinimą, vėliavų gamybą ir priežiūrą.
 
-2. Lietuvos Respublikos teritorijoje oficialiai gali būti naudojamos Lietuvos valstybės vėliava, Lietuvos valstybės istorinė vėliava, užsienio valstybių vėliavos, Europos Sąjungos vėliava, tarptautinių viešųjų organizacijų vėliavos, kitų tarptautinių organizacijų vėliavos, Respublikos Prezidento vėliava, apskričių ir savivaldybių vėliavos, štandartai, kitos vėliavos, stalo ir automobilio vėliavėlės (toliau – vėliavos).
+2. Lietuvos Respublikos teritorijoje oficialiai gali būti naudojamos Lietuvos valstybės vėliava, Lietuvos valstybės istorinė (herbinė) vėliava, užsienio valstybių vėliavos, Europos Sąjungos vėliava, tarptautinių viešųjų organizacijų vėliavos, kitų tarptautinių organizacijų vėliavos, Respublikos Prezidento vėliava, apskričių ir savivaldybių vėliavos, štandartai, kitos vėliavos, stalo ir automobilio vėliavėlės (toliau – vėliavos).
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1472, 2008-04-01, Žin., 2008, Nr. 45-1680 (2008-04-19), i. k. 1081010ISTA00X-1472
 
 3. Lietuvos valstybės vėliavos etalonas negali būti naudojamas kaip heraldikos pagrindas kitoms vėliavoms. Kitos vėliavos negali būti identiškos Lietuvos valstybės vėliavai.
 
@@ -50,7 +54,11 @@ BENDROSIOS NUOSTATOS
 
 1. Lietuvos valstybės vėliava – oficialus Lietuvos valstybės simbolis, tautinė vėliava – audeklas iš trijų lygių horizontalių spalvų juostų: viršutinės – geltonos, vidurinės – žalios, žemutinės – raudonos.
 
-2. Lietuvos valstybės istorinė vėliava – istorinis Lietuvos valstybės simbolis, audeklas, kurio raudoname lauke vaizduojamas sidabrinis šarvuotas raitelis ant balto žirgo, laikantis dešinėje rankoje virš galvos iškeltą sidabrinį kalaviją. Prie raitelio kairiojo peties kabo mėlynas skydas su dvigubu auksiniu kryžiumi. Žirgo balnas, gūnia, kamanos ir diržai mėlyni. Kalavijo rankena, kamanų žąslai, balno kilpa ir pentinas, makšties bei žirgo aprangos metaliniai sutvirtinimai auksiniai.
+2. Lietuvos valstybės istorinė (herbinė) vėliava (toliau – Lietuvos valstybės istorinė vėliava) – istorinis Lietuvos valstybės simbolis, audeklas, kurio raudoname lauke vaizduojamas baltas (sidabrinis) šarvuotas raitelis ant balto (sidabrinio) žirgo, laikantis dešinėje rankoje virš galvos iškeltą baltą (sidabrinį) kalaviją. Prie raitelio kairiojo peties kabo mėlynas skydas su dvigubu geltonu (auksiniu) kryžiumi. Žirgo balnas, gūnia, kamanos ir diržai mėlyni. Kalavijo rankena, kamanų žąslai, balno kilpa ir pentinas, makšties bei žirgo aprangos metaliniai sutvirtinimai ir pasagos geltoni (auksiniai).
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1472, 2008-04-01, Žin., 2008, Nr. 45-1680 (2008-04-19), i. k. 1081010ISTA00X-1472
 
 3. Užsienio valstybės vėliava – užsienio valstybės teisės aktų nustatyta tvarka priimta ar patvirtinta valstybės ar tautinė (nacionalinė) vėliava.
 
@@ -274,10 +282,6 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-197, 2005-05-12, Žin., 2005, Nr. 67-2404 (2005-05-28), i. k. 1051010ISTA000X-197
 
-KETVIRTASIS SKIRSNIS
-
-UŽSIENIO VALSTYBIŲ, EUROPOS SĄJUNGOS IR TARPTAUTINIŲ VIEŠŲJŲ ORGANIZACIJŲ VĖLIAVOS
-
 11 straipsnis. Užsienio valstybių, Europos Sąjungos ir tarptautinių viešųjų organizacijų vėliavų naudojimo principai
 
 1. Kartu su Lietuvos valstybės vėliava keliamos užsienio valstybių, Europos Sąjungos ir tarptautinių viešųjų organizacijų vėliavos turi atitikti Lietuvos valstybės vėliavos dydį.
@@ -489,4 +493,26 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-859, 2006-10-17, Žin., 2006, Nr. 113-4299 (2006-10-24), i. k. 1061010ISTA000X-859
 
 Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 10 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1472, 2008-04-01, Žin., 2008, Nr. 45-1680 (2008-04-19), i. k. 1081010ISTA00X-1472
+
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 1, 2 straipsnių pakeitimo ir įstatymo papildymo 10(1) straipsniu įstatymas
+
+101 straipsnis. Lietuvos valstybės istorinės vėliavos projekto ir etalono tvirtinimas
+
+1. Lietuvos heraldikos komisija rengia ir teikia Respublikos Prezidentui Lietuvos valstybės istorinės vėliavos heraldinį projektą.
+
+2. Lietuvos valstybės istorinės vėliavos projektą ir etaloną tvirtina Lietuvos Respublikos Seimas Respublikos Prezidento teikimu.
+
+Papildyta straipsniu:
+
+Nr. X-1472, 2008-04-01, Žin., 2008, Nr. 45-1680 (2008-04-19), i. k. 1081010ISTA00X-1472
+
+KETVIRTASIS SKIRSNIS
+
+UŽSIENIO VALSTYBIŲ, EUROPOS SĄJUNGOS IR TARPTAUTINIŲ VIEŠŲJŲ ORGANIZACIJŲ VĖLIAVOS
 
