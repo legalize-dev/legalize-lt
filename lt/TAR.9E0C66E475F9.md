@@ -4,7 +4,7 @@ identifier: "TAR.9E0C66E475F9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-11"
-last_updated: "2004-11-11"
+last_updated: "2008-04-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E0C66E475F9"
 department: "Lietuvos Respublikos Seimas"
@@ -501,7 +501,7 @@ darbe ir profesinių ligų socialinio draudimo išmokų nuostatais ir kitais tei
 
 aktais.
 
-7 straipsnis. Nedraudiminiai įvykiai
+*7 straipsnis. Nedraudiminiai įvykiai
 
 1. Draudiminiais įvykiais nepripažįstami
 
@@ -511,15 +511,15 @@ profesinės ligos, kuriuos ištyrus nustatoma, kad jie neatitinka šio Įstatymo
 
 straipsnyje nustatytų sąlygų.
 
-2.
+2. Draudiminiais
 
-Draudiminiais įvykiais taip pat nepripažįstami nelaimingi atsitikimai darbe,
+įvykiais taip pat nepripažįstami nelaimingi atsitikimai darbe, pakeliui
 
-pakeliui į darbą ar iš darbo arba nustatytos ūmios profesinės ligos, kuriuos
+į darbą ar iš darbo arba nustatytos ūmios profesinės ligos, kuriuos
 
-ištyrus nustatoma, kad jie atitinka šio Įstatymo 6 straipsnyje nustatytas
+ištyrus nustatoma, kad jie atitinka šio Įstatymo 6 straipsnyje
 
-sąlygas, tačiau jie įvykę esant bent vienai iš šių aplinkybių:
+nustatytas sąlygas, tačiau jie įvykę esant bent vienai iš šių aplinkybių:
 
 1) apdraustasis buvo neblaivus ar
 
@@ -550,6 +550,36 @@ darbdavio žinios) dirbo sau (savo interesais);
 6) prieš apdraustąjį buvo panaudotas
 
 smurtas, jeigu smurto aplinkybės ir motyvai nesusiję su darbu.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2008-04-29,
+
+Žin., 2008, Nr. 51-1904 (2008-04-30)
+
+*Pastaba: 7 straipsnio 2 dalies nuostata ta apimtimi, kuria draudiminiais
+
+įvykiais nepripažįstami nelaimingi atsitikimai darbe arba nustatytos ūmios
+
+profesinės ligos, kuriuos ištyrus nustatoma, kad jie yra įvykę apdraustajam
+
+esant neblaiviam arba apsvaigusiam nuo narkotinių, toksinių ar psichotropinių
+
+medžiagų, bet nelaimingus atsitikimus darbe arba ūmias profesines ligas lėmė ne
+
+jo neblaivumas arba apsvaigimas nuo narkotinių, toksinių ar psichotropinių
+
+medžiagų, o netinkamos, nesaugios, nesveikos darbo sąlygos, prieštarauja
+
+Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai
+
+„Kiekvienas žmogus <...> turi teisę turėti tinkamas, saugias ir sveikas
+
+darbo sąlygas, gauti <...> socialinę apsaugą nedarbo atveju“, 52
+
+straipsniui, konstituciniam teisinės valstybės principui
 
 8 straipsnis. Draudėjų pareigos ir atsakomybė
 
@@ -619,15 +649,15 @@ jos teritorinių skyrių apie šio Įstatymo nustatytų garantijų taikymą.
 
 10 straipsnis. Apdraustųjų asmenų pareigos
 
-Apdraustieji asmenys turi laikytis
+Apdraustieji asmenys turi laikytis darbuotojų
 
-darbuotojų saugos ir sveikatos teisės aktų nustatytų reikalavimų, o nukentėję
+saugos ir sveikatos teisės aktų nustatytų reikalavimų, o nukentėję dėl
 
-dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės
+nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos
 
-ligos turi nedelsdami kreiptis į sveikatos priežiūros įstaigą ir vykdyti
+turi nedelsdami kreiptis į sveikatos priežiūros įstaigą ir vykdyti gydytojo
 
-gydytojo rekomendacijas.
+rekomendacijas.
 
 ANTRASIS SKIRSNIS
 
@@ -641,11 +671,11 @@ draudimo išmokos
 
 1. Apdraustajam, dėl draudiminio įvykio,
 
-pripažinto pagal 6 straipsnį, netekusiam dalies ar viso darbingumo, pagal šį Įstatymą
+pripažinto pagal 6 straipsnį, netekusiam dalies ar viso darbingumo, pagal šį
 
-iš Valstybinio socialinio draudimo fondo biudžeto nelaimingų atsitikimų darbe
+Įstatymą iš Valstybinio socialinio draudimo fondo biudžeto nelaimingų
 
-socialiniam draudimui skirtų lėšų išmokama:
+atsitikimų darbe socialiniam draudimui skirtų lėšų išmokama:
 
 1) ligos dėl nelaimingo atsitikimo
 
@@ -675,9 +705,9 @@ pagal šio Įstatymo 26 straipsnį.
 
 4. Laisvės atėmimu nuteistiems asmenims
 
-(šio Įstatymo 4 straipsnio 5 punktas) šio straipsnio 1 dalies 2, 3 punktuose nurodytos
+(šio Įstatymo 4 straipsnio 5 punktas) šio straipsnio 1 dalies 2, 3 punktuose
 
-išmokos mokamos paleidus juos iš bausmės atlikimo įstaigos.
+nurodytos išmokos mokamos paleidus juos iš bausmės atlikimo įstaigos.
 
 12 straipsnis. Ligos pašalpa
 
@@ -697,9 +727,9 @@ gauti atsirado draudimo laikotarpiu.
 
 3. Pagrindas skirti ligos pašalpą
 
-yra nustatyta tvarka išduotas nedarbingumo pažymėjimas ir draudiminį įvykį
+yra nustatyta tvarka išduotas nedarbingumo pažymėjimas ir draudiminį įvykį patvirtinantys
 
-patvirtinantys dokumentai.
+dokumentai.
 
 13 straipsnis. Kompensuojamasis uždarbis, taikomas ligos
 
@@ -761,9 +791,11 @@ nedarbingu dėl paūmėjusios profesinės ligos ar dėl nelaimingo atsitikimo da
 
 pakeliui į darbą ar iš darbo pasekmių nemokamų atostogų metu arba nušalinus
 
-darbuotoją nuo darbo, pašalpa mokama nuo tos dienos, kurią darbuotojas turėjo pradėti
+darbuotoją nuo darbo, pašalpa mokama nuo tos dienos, kurią darbuotojas turėjo
 
-dirbti pasibaigus nemokamų atostogų ar nušalinimo nuo darbo laikotarpiui.
+pradėti dirbti pasibaigus nemokamų atostogų ar nušalinimo nuo darbo
+
+laikotarpiui.
 
 15 straipsnis. Ligos pašalpų dydis
 
@@ -797,15 +829,13 @@ Laikinai nedarbingiems dėl draudiminio
 
 be pateisinamos priežasties neatvykusiems pas gydytoją ar, kaip teisės aktų
 
-nustatyta, neatvykusiems pasitikrinti darbingumo, Valstybinio socialinio
+nustatyta, neatvykusiems pasitikrinti darbingumo, Valstybinio socialinio draudimo
 
-draudimo fondo valdybos teritorinio skyriaus sprendimu ligos pašalpa neskiriama
+fondo valdybos teritorinio skyriaus sprendimu ligos pašalpa neskiriama arba jos
 
-arba jos mokėjimas nutraukiamas nuo pažeidimo padarymo dienos Nelaimingų
+mokėjimas nutraukiamas nuo pažeidimo padarymo dienos Nelaimingų atsitikimų
 
-atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų nuostatų
-
-nustatyta tvarka.
+darbe ir profesinių ligų socialinio draudimo išmokų nuostatų nustatyta tvarka.
 
 18 straipsnis. Išmokų mokėjimas mirus asmeniui, turėjusiam
 
@@ -975,15 +1005,15 @@ kompensacija skiriama, jeigu dėl jos kreipiamasi per 3 metus nuo tos dienos,
 
 kai VMSEK nustato darbingumo netekimą.
 
-3. Netekto darbingumo periodinė
+3. Netekto darbingumo periodinė kompensacija
 
-kompensacija skiriama nuo VMSEK darbingumo netekimo nustatymo dienos, jeigu dėl
+skiriama nuo VMSEK darbingumo netekimo nustatymo dienos, jeigu dėl jos
 
-jos kreipiamasi per 3 metus nuo teisės į šią išmoką atsiradimo dienos. Jeigu
+kreipiamasi per 3 metus nuo teisės į šią išmoką atsiradimo dienos. Jeigu asmuo
 
-asmuo dėl netekto darbingumo periodinės kompensacijos kreipiasi praėjus 3
+dėl netekto darbingumo periodinės kompensacijos kreipiasi praėjus 3 metams,
 
-metams, išmoka už praėjusį laiką mokama už 12 mėnesių, skaičiuojant atgal nuo
+išmoka už praėjusį laiką mokama už 12 mėnesių, skaičiuojant atgal nuo
 
 kreipimosi dienos.
 
@@ -1139,17 +1169,19 @@ Nelaimingų atsitikimų darbe socialinio draudimo pajamų dalį gali sudaryti l�
 
 iš Valstybinio socialinio draudimo fondo biudžeto rezervo.
 
-3. Nelaimingų atsitikimų darbe socialinio
+3. Nelaimingų atsitikimų darbe
 
-draudimo lėšos gali būti naudojamos nelaimingų atsitikimų darbe ir profesinių
+socialinio draudimo lėšos gali būti naudojamos nelaimingų atsitikimų darbe ir
 
-ligų prevencijai. Nelaimingų atsitikimų darbe socialinio draudimo lėšų, skirtų
+profesinių ligų prevencijai. Nelaimingų atsitikimų darbe socialinio draudimo
 
-prevencijai, dydį kiekvienais metais nustato Seimas, Valstybinio socialinio
+lėšų, skirtų prevencijai, dydį kiekvienais metais nustato Seimas, Valstybinio
 
-draudimo fondo biudžeto rodiklių patvirtinimo įstatymu tvirtindamas nelaimingų
+socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu tvirtindamas
 
-atsitikimų darbe ir profesinių ligų socialinio draudimo įmokų tarifą.
+nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įmokų
+
+tarifą.
 
 4. Lėšų, skirtų nelaimingų atsitikimų
 
