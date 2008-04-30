@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2005-02-08"
+last_updated: "2008-04-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -180,18 +180,6 @@ aukštųjų mokyklų vadovai ir jų šeimos nariai;
 
 pageidaujantys gauti piniginę socialinę paramą, ir jų šeimos nariai;
 
-1
-
-dalies 21 punkto redakcija iki 2005 m. gegužės 1 d.:
-
-21) gyventojai,
-
-pageidaujantys gauti valstybės garantuojamą teisinę pagalbą.
-
-1
-
-dalies 21 punkto redakcija nuo 2005 m. gegužės 1 d.:
-
 21) gyventojai,
 
 pageidaujantys gauti valstybės garantuojamą teisinę pagalbą, kuriems
@@ -222,13 +210,13 @@ Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio
 
 tarnybos tvarkymo funkcijas atliekanti įstaiga, vadovaudamasi Valstybės
 
-tarnautojų registre esančiais duomenimis, iki kalendorinių metų vasario 1
+tarnautojų registre esančiais duomenimis, iki kalendorinių metų vasario 1 dienos
 
-dienos turi pateikti centriniam mokesčio administratoriui gyventojų
+turi pateikti centriniam mokesčio administratoriui gyventojų kalendoriniais
 
-kalendoriniais metais, einančiais prieš kalendorinius metus, kuriais
+metais, einančiais prieš kalendorinius metus, kuriais pateikiamas šis sąrašas,
 
-pateikiamas šis sąrašas, ėjusių valstybės tarnautojo pareigas, vardinį sąrašą.
+ėjusių valstybės tarnautojo pareigas, vardinį sąrašą.
 
 Straipsnio
 
@@ -262,9 +250,9 @@ privaloma teisinė registracija;
 
 3) pinigines
 
-lėšas, turimas bankuose ir kitose kredito įstaigose ir ne bankuose ir kitose
+lėšas, turimas bankuose ir kitose kredito įstaigose ir ne bankuose ir kitose kredito
 
-kredito įstaigose, jeigu jų bendra suma viršija 2000 litų;
+įstaigose, jeigu jų bendra suma viršija 2000 litų;
 
 4)
 
@@ -382,9 +370,9 @@ kuriais tikslinama.
 
 formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčio
 
-administratorius. Gyventojai, pagal šį Įstatymą deklaruojantys turtą, nemokamai
+administratorius. Gyventojai, pagal šį Įstatymą deklaruojantys turtą,
 
-aprūpinami deklaracijos blankais ir deklaracijos pildymo taisyklėmis.
+nemokamai aprūpinami deklaracijos blankais ir deklaracijos pildymo taisyklėmis.
 
 5. Lietuvos
 
@@ -464,9 +452,9 @@ politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į pareigas
 
 ar valstybės tarnautojai buvo priimti arba paskirti į pareigas, gruodžio 31
 
-dieną turimą turtą ir kuriems vietos mokesčio administratorius per 5 darbo dienas
+dieną turimą turtą ir kuriems vietos mokesčio administratorius per 5 darbo
 
-išduoda pažymas apie deklaracijų pateikimą.
+dienas išduoda pažymas apie deklaracijų pateikimą.
 
 3. Nustoję eiti
 
@@ -492,51 +480,15 @@ jų
 
 šeimos narių turto (įskaitant gautų pajamų) deklaravimas
 
-1
-
-ir 2 dalių redakcija iki 2005 m. gegužės 1 d.:
-
-1. Gyventojai,
-
-pageidaujantys gauti valstybės garantuojamą teisinę pagalbą, privalo turimą
-
-turtą (įskaitant gautas pajamas) deklaruoti prieš kreipdamiesi dėl valstybės
-
-garantuojamos teisinės pagalbos suteikimo.
-
-2. Gyventojai,
-
-pageidaujantys gauti valstybės garantuojamą teisinę pagalbą, deklaruoja
-
-mėnesio, einančio prieš mėnesį, kuriuo pateikiamas prašymas gauti valstybės
-
-garantuojamą teisinę pagalbą, paskutinę dieną turimą turtą ir gautas pajamas už
-
-vienerius metus (12 paskutinių mėnesių) iki prašymo gauti valstybės
-
-garantuojamą teisinę pagalbą pateikimo dienos. Jeigu valstybės
-
-garantuojama teisinė pagalba teikiama ilgiau kaip vienerius metus, praėjus
-
-vieneriems metams po ankstesnės deklaracijos pateikimo turi būti pateikiama
-
-kitų metų (12 mėnesių) deklaracija, pradedant skaičiuoti nuo to mėnesio, kurį
-
-buvo pateikta ankstesnė deklaracija.
-
-1
-
-ir 2 dalių redakcija nuo 2005 m. gegužės 1 d.:
-
 1. Gyventojai,
 
 pageidaujantys gauti valstybės garantuojamą teisinę pagalbą, Lietuvos
 
 Respublikos valstybės garantuojamos teisinės pagalbos įstatymo nustatytais
 
-atvejais privalo turimą turtą (įskaitant gautas pajamas) deklaruoti prieš kreipdamiesi
+atvejais privalo turimą turtą (įskaitant gautas pajamas) deklaruoti prieš
 
-dėl valstybės garantuojamos teisinės pagalbos suteikimo.
+kreipdamiesi dėl valstybės garantuojamos teisinės pagalbos suteikimo.
 
 2. Gyventojai,
 
@@ -548,13 +500,23 @@ garantuojamą teisinę pagalbą, paskutinę dieną turimą turtą ir gautas paja
 
 vienerius metus (12 paskutinių mėnesių) iki prašymo gauti valstybės
 
-garantuojamą teisinę pagalbą pateikimo dienos. Jeigu valstybės garantuojama
+garantuojamą teisinę pagalbą pateikimo dienos. Tais atvejais, kai gyventojas,
 
-teisinė pagalba teikiama ilgiau kaip vienerius metus, praėjus vieneriems metams
+pageidaujantis gauti valstybės garantuojamą teisinę pagalbą, yra deklaravęs turimą turtą ir gautas pajamas už
 
-po sprendimo suteikti valstybės garantuojamą teisinę pagalbą priėmimo dienos,
+vienerius metus (12 paskutinių mėnesių) trijų mėnesių, einančių prieš
 
-vietos mokesčio administratoriui turi būti pateikiama kitų metų (12 mėnesių)
+mėnesį, kurį pateikiamas prašymas gauti valstybės
+
+garantuojamą teisinę pagalbą, laikotarpiu, turimo turto ir gautų pajamų už vienerius metus (12 mėnesių) tam gyventojui
+
+deklaruoti nereikia. Jeigu valstybės garantuojama teisinė pagalba
+
+teikiama ilgiau kaip vienerius metus, praėjus vieneriems metams po sprendimo
+
+suteikti valstybės garantuojamą teisinę pagalbą priėmimo dienos, vietos
+
+mokesčio administratoriui turi būti pateikiama kitų metų (12 mėnesių)
 
 deklaracija, pradedant skaičiuoti nuo to mėnesio, kurį buvo pateikta ankstesnė
 
@@ -588,15 +550,13 @@ administratoriui du deklaracijos egzempliorius. Vietos mokesčio
 
 administratorius per 7 darbo dienas nuo deklaracijos pateikimo dienos grąžina
 
-vieną deklaracijos egzempliorių su žyma, kad deklaracija yra pateikta. Šį
+vieną deklaracijos egzempliorių su žyma, kad deklaracija yra pateikta. Šį deklaracijos
 
-deklaracijos egzempliorių gyventojai pateikia institucijai (pareigūnui),
+egzempliorių gyventojai pateikia institucijai (pareigūnui), priimančiai
 
-priimančiai (priimančiam) sprendimą dėl valstybės garantuojamos teisinės
+(priimančiam) sprendimą dėl valstybės garantuojamos teisinės pagalbos
 
-pagalbos suteikimo, arba savivaldybei – dėl piniginės socialinės paramos
-
-skyrimo.
+suteikimo, arba savivaldybei – dėl piniginės socialinės paramos skyrimo.
 
 6. Šiame
 
@@ -617,6 +577,12 @@ Nr.
 X-83,
 
 2005-01-20, Žin., 2005, Nr. 18-577 (2005-02-08)
+
+Nr.
+
+X-1496,
+
+2008-04-15, Žin., 2008, Nr. 50-1845 (2008-04-30)
 
 III SKYRIUS
 
@@ -672,29 +638,29 @@ valstybės sekretorių, ministerijų sekretorių, Lietuvos Respublikos teismų
 
 pirmininkų, teismų pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų,
 
-Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės narių, Vyriausiosios
+Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės narių,
 
-administracinių ginčų komisijos narių, generalinio prokuroro, generalinio
+Vyriausiosios administracinių ginčų komisijos narių, generalinio prokuroro,
 
-prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip
+generalinio prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių
 
-pat apygardų ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus,
+padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovų, valstybės
 
-valstybės kontrolieriaus pavaduotojų, Valstybės kontrolės valstybės tarnautojų,
+kontrolieriaus, valstybės kontrolieriaus pavaduotojų, Valstybės kontrolės valstybės
 
-apskričių viršininkų, apskričių viršininkų pavaduotojų, Lietuvos Respublikos
+tarnautojų, apskričių viršininkų, apskričių viršininkų pavaduotojų, Lietuvos
 
-Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų), prie
+Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų),
 
-ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo
+prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės
 
-institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir vadovų
+valdymo institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir
 
-pavaduotojų, Lietuvos banko valdybos pirmininko ir valdybos pirmininko
+vadovų pavaduotojų, Lietuvos banko valdybos pirmininko ir valdybos pirmininko
 
-pavaduotojų, Muitinės departamento prie Finansų ministerijos ir teritorinių muitinių
+pavaduotojų, Muitinės departamento prie Finansų ministerijos ir teritorinių
 
-valstybės tarnautojų, Valstybinės mokesčių inspekcijos prie Finansų
+muitinių valstybės tarnautojų, Valstybinės mokesčių inspekcijos prie Finansų
 
 ministerijos ir teritorinių mokesčių inspekcijų valstybės tarnautojų, Vidaus
 
@@ -1046,13 +1012,27 @@ TURTO DEKLARAVIMO ĮSTATYMO 2 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja nuo 2005 m. gegužės 1 d.
 
+16.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-1496,
+
+2008-04-15, Žin., 2008, Nr. 50-1845 (2008-04-30)
+
+GYVENTOJŲ
+
+TURTO DEKLARAVIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2005-02-08)
+Aušrinė Trapinskienė (2008-04-30)
 
 autrap@lrs.lt
 
