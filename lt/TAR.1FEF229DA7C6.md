@@ -4,7 +4,7 @@ identifier: "TAR.1FEF229DA7C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2007-01-11"
+last_updated: "2008-04-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2007-01-11 iki 2008-04-29
+Suvestinė redakcija nuo 2008-04-30 iki 2010-07-02
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
 
@@ -272,7 +272,11 @@ DOKUMENTŲ VALDYMAS IR PERDAVIMAS
 
 2) dokumentacijos planus, apskaitos dokumentus, kompiuterizuotas dokumentų valdymo sistemas.
 
-4. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, neperduodančios dokumentų į valstybės archyvus, šio straipsnio 3 dalies 1 ir 2 punktuose nurodytus dokumentus derina su jų steigėjo funkcijas atliekančia institucija ar įstaiga.
+4. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, neperduodančios dokumentų į valstybės archyvus, šio straipsnio 3 dalies 1 ir 2 punktuose nurodytus dokumentus derina su jų steigėjo funkcijas atliekančia ar jos įgaliota institucija ar įstaiga.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1497, 2008-04-15, Žin., 2008, Nr. 50-1846 (2008-04-30), i. k. 1081010ISTA00X-1497
 
 5. Valstybės įgalioti asmenys veiklos dokumentų valdymą organizuoja šio ir įgaliojimus suteikiančių įstatymų nustatyta tvarka tiek, kiek jie neprieštarauja šiam Įstatymui.
 
@@ -318,17 +322,23 @@ DOKUMENTŲ VALDYMAS IR PERDAVIMAS
 
 14 straipsnis. Dokumentų naikinimas
 
-1. Dokumentus galima naikinti atlikus jų vertės ekspertizę, kai pasibaigia teisės norminių aktų nustatyti dokumentų saugojimo terminai. Sprendimą dėl valstybės ar savivaldybės institucijos, įstaigos ar įmonės, nevalstybinės organizacijos, privataus juridinio asmens veiklos dokumentų naikinimo ar jų saugojimo terminų pratęsimo priima vadovas pagal Lietuvos Respublikos Vyriausybės nustatytus dokumentų rengimo, tvarkymo ir apskaitos bendruosius reikalavimus.
+1. Dokumentus galima naikinti atlikus jų vertės ekspertizę, kai pasibaigia teisės norminių aktų nustatyti dokumentų saugojimo terminai. Sprendimą dėl valstybės ar savivaldybės institucijos, įstaigos ar įmonės, nevalstybinės organizacijos, privataus juridinio asmens veiklos dokumentų naikinimo ar jų saugojimo terminų pratęsimo priima vadovas pagal Lietuvos archyvų departamento nustatytus dokumentų rengimo, tvarkymo ir apskaitos bendruosius reikalavimus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
 
+Nr. X-1497, 2008-04-15, Žin., 2008, Nr. 50-1846 (2008-04-30), i. k. 1081010ISTA00X-1497
+
 2. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės sprendimus dėl dokumentų naikinimo turi suderinti su:
 
 1) valstybės archyvu, kuriam perduoda nuolatinio saugojimo dokumentus;
 
-2) steigėjo funkcijas atliekančia institucija ar įstaiga, kai dokumentai valstybės archyvams neperduodami.
+2) steigėjo funkcijas atliekančia ar jos įgaliota institucija ar įstaiga, kai dokumentai valstybės archyvams neperduodami.
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1497, 2008-04-15, Žin., 2008, Nr. 50-1846 (2008-04-30), i. k. 1081010ISTA00X-1497
 
 3. Naikinti atrinkti valstybės ir savivaldybių institucijų, įstaigų ir įmonių dokumentai turi būti sunaikinti.
 
@@ -511,4 +521,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
 
 Lietuvos Respublikos dokumentų ir archyvų įstatymo 1, 2, 3, 14, 20 straipsnių papildymo ir pakeitimo bei Įstatymo papildymo priedu įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1497, 2008-04-15, Žin., 2008, Nr. 50-1846 (2008-04-30), i. k. 1081010ISTA00X-1497
+
+Lietuvos Respublikos dokumentų ir archyvų įstatymo 10 ir 14 straipsnių pakeitimo įstatymas
 
