@@ -4,7 +4,7 @@ identifier: "TAR.EDE1F707F4EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-10-06"
-last_updated: "2005-12-20"
+last_updated: "2008-05-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EDE1F707F4EE"
 department: "Lietuvos Respublikos Seimas"
@@ -15,15 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės paramos žuvusių pasipriešinimo 1940-1990 metų okupacijoms dalyvių šeimoms įstatymas
 
-Neoficialus įstatymo tekstas
-
 Įstatymas skelbtas: Žin., 1998, Nr. 92-2543
+
+Neoficialus įstatymo tekstas
 
 LIETUVOS RESPUBLIKOS
 
-VALSTYBĖS PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940-1990 METŲ OKUPACIJOMS
+VALSTYBĖS PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940-1990 METŲ OKUPACIJOMS DALYVIŲ
 
-DALYVIŲ ŠEIMOMS
+ŠEIMOMS
 
 ĮSTATYMAS
 
@@ -69,9 +69,7 @@ išmokėjimo tvarką.
 
 Įstatymo įsigaliojimas
 
-Šis įstatymas įsigalioja nuo 1999 m.
-
-sausio 1 d.
+Šis įstatymas įsigalioja nuo 1999 m. sausio 1 d.
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -99,9 +97,9 @@ IX-1956,
 
 VALSTYBĖS
 
-PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940-1990 METŲ OKUPACIJOMS DALYVIŲ ŠEIMOMS
+PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940-1990 METŲ OKUPACIJOMS DALYVIŲ ŠEIMOMS ĮSTATYMO
 
-ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 2.
 
@@ -109,9 +107,29 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. X-460, 2005-12-20,
+Nr.
 
-Žin., 2005, Nr. 153-5637 (2005-12-31)
+X-460,
+
+2005-12-20, Žin., 2005, Nr. 153-5637 (2005-12-31)
+
+VALSTYBĖS
+
+PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940–1990 METŲ OKUPACIJOMS DALYVIŲ ŠEIMOMS
+
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1528,
+
+2008-05-08, Žin., 2008, Nr. 59-2201 (2008-05-24)
 
 VALSTYBĖS
 
@@ -125,21 +143,23 @@ Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2006-01-03)
+Aušrinė Trapinskienė (2008-05-26)
 
-ausra.bodin@lrs.lt
+autrap@lrs.lt
 
-2 straipsnis. Valstybės parama
+2 straipsnis. Valstybės parama žuvusių pasipriešinimo
 
-žuvusių pasipriešinimo 1940–1990 metų okupacijoms dalyvių šeimoms
+1940–1990 metų okupacijoms dalyvių šeimoms
 
 1. Valstybės parama už žuvusius ar
 
-mirusius tardymo ar kalinimo metu 1940–1990 metų ginkluoto pasipriešinimo
+mirusius tardymo, įkalinimo ar tremties pasibaigus įkalinimui metu 1940–1990
 
-(rezistencijos) dalyvius – karius savanorius ir neginkluoto pasipriešinimo
+metų ginkluoto pasipriešinimo (rezistencijos) dalyvius – karius savanorius ir
 
-(rezistencijos) dalyvius – laisvės kovų dalyvius teikiama jų šeimoms.
+neginkluoto pasipriešinimo (rezistencijos) dalyvius – laisvės kovų dalyvius
+
+teikiama jų šeimoms.
 
 2. Žuvusiųjų tėvams (įtėviams), kitos
 
@@ -161,13 +181,13 @@ pašalpa:
 
 sulaikymo, suėmimo ar okupacinės valdžios vykdytų slaptų operacijų, baudžiamųjų
 
-akcijų metu, jeigu asmens žūtis ar mirtis yra susijusi su jo pasipriešinimo
+akcijų metu, GULAG’o politinių kalinių sukilimų malšinimo metu, jeigu asmens
 
-veikla, nužudytų ar mirusių tardymo metu iki teismo nuosprendžio įsiteisėjimo
+žūtis ar mirtis yra susijusi su jo pasipriešinimo veikla, nužudytų ar mirusių
 
-arba kurie nuteisti mirties bausme ir bausmė įvykdyta, šeimos nariams – 20 000
+tardymo metu iki teismo nuosprendžio įsiteisėjimo arba kurie nuteisti mirties
 
-Lt;
+bausme ir bausmė įvykdyta, šeimos nariams – 20 000 Lt;
 
 2) ginkluoto pasipriešinimo
 
@@ -177,19 +197,27 @@ nuosprendžio įsiteisėjimo, neginkluoto pasipriešinimo (rezistencijos) dalyvi
 
 laisvės kovų dalyvių, žuvusių ginkluoto susirėmimo, sulaikymo, suėmimo ar
 
-okupacinės valdžios vykdytų slaptų operacijų, baudžiamųjų akcijų metu, jeigu
+okupacinės valdžios vykdytų slaptų operacijų, baudžiamųjų akcijų metu, GULAG’o
 
-asmens žūtis ar mirtis yra susijusi su jo pasipriešinimo veikla, nužudytų ar
+politinių kalinių streikų malšinimo metu, jeigu asmens žūtis ar mirtis yra
 
-mirusių tardymo metu iki teismo nuosprendžio įsiteisėjimo arba kurie nuteisti
+susijusi su jo pasipriešinimo veikla, nužudytų ar mirusių tardymo metu iki
 
-mirties bausme ir bausmė įvykdyta, šeimos nariams – 15 000 Lt;
+teismo nuosprendžio įsiteisėjimo arba kurie nuteisti mirties bausme ir bausmė
+
+įvykdyta, šeimos nariams – 15 000 Lt;
 
 3) neginkluoto pasipriešinimo
 
 (rezistencijos) dalyvių – laisvės kovų dalyvių, nužudytų ar mirusių įkalinimo
 
-metu po teismo nuosprendžio įsiteisėjimo, šeimos nariams – 12 000 Lt.
+metu po teismo nuosprendžio įsiteisėjimo, šeimos nariams – 12 000 Lt;
+
+4) pasipriešinimo (rezistencijos) dalyvių – karių
+
+savanorių ir laisvės kovų dalyvių, žuvusių ar mirusių tremties pasibaigus
+
+įkalinimui metu, šeimos nariams – 10 000 Lt.
 
 3. Vienkartinės pašalpos mokamos
 
@@ -199,11 +227,11 @@ Lietuvos Respublikos piliečiams, nuolat gyvenantiems Lietuvos Respublikoje.
 
 nustatyta tvarka mokamos iš valstybės biudžeto. Vienkartinių pašalpų išmokėjimo
 
-pagrindas yra Lietuvos gyventojų genocido ir rezistencijos tyrimo centro
+pagrindas yra Lietuvos gyventojų genocido ir rezistencijos tyrimo centro Pasipriešinimo
 
-Pasipriešinimo dalyvių (rezistentų) teisių komisijos sprendimas arba teismo
+dalyvių (rezistentų) teisių komisijos sprendimas arba teismo nutartis dėl
 
-nutartis dėl juridinę reikšmę turinčio fakto nustatymo.
+juridinę reikšmę turinčio fakto nustatymo.
 
 Straipsnio
 
@@ -220,4 +248,8 @@ Nr.
 X-460,
 
 2005-12-20, Žin., 2005, Nr. 153-5637 (2005-12-31)
+
+Nr. X-1528,
+
+2008-05-08, Žin., 2008, Nr. 59-2201 (2008-05-24)
 
