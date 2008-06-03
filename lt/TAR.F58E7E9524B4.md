@@ -4,7 +4,7 @@ identifier: "TAR.F58E7E9524B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-10-26"
-last_updated: "2005-12-03"
+last_updated: "2008-06-03"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F58E7E9524B4"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos darbo tarybų įstatymas
 
-Suvestinė redakcija nuo 2005-12-03 iki 2008-06-02
+Suvestinė redakcija nuo 2008-06-03 iki 2011-11-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 164-5972, i. k. 1041010ISTA0IX-2500
 
@@ -97,7 +97,11 @@ DARBO TARYBOS SUDARYMAS
 
 6 straipsnis. Darbo tarybos rinkimų iniciatyva
 
-1. Darbo tarybos rinkimus skelbia darbdavys, gavęs rašytinį ne mažiau kaip vieno penktadalio įmonės darbuotojų pasirašytą pasiūlymą dėl darbo tarybos sudarymo. Darbdavys darbo tarybos rinkimų komisiją privalo sudaryti ne vėliau kaip per septynias dienas nuo šio pasiūlymo gavimo dienos.
+1. Darbo tarybos rinkimus skelbia darbdavys, gavęs rašytinį nemažiau kaip vieno dešimtadalio įmonės darbuotojų pasirašytą siūlymą dėl darbo tarybos sudarymo. Darbdavys darbo tarybos rinkimų komisiją privalo sudaryti ne vėliau kaip per septynias dienas nuo šio siūlymo gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1536, 2008-05-13, Žin., 2008, Nr. 63-2377 (2008-06-03), i. k. 1081010ISTA00X-1536
 
 2. Naujos darbo tarybos rinkimo procedūra pradedama likus ne mažiau kaip trims mėnesiams iki darbo tarybos kadencijos pabaigos, taip pat atsiradus šio įstatymo 25 straipsnio 4 ir 6 punktuose nustatytiems darbo tarybos veiklos pasibaigimo pagrindams.
 
@@ -470,4 +474,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-411, 2005-11-17, Žin., 2005, Nr. 142-5111 (2005-12-03), i. k. 1051010ISTA000X-411
 
 Lietuvos Respublikos darbo tarybų įstatymo 19 ir 23 straipsnių papildymo ir pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1536, 2008-05-13, Žin., 2008, Nr. 63-2377 (2008-06-03), i. k. 1081010ISTA00X-1536
+
+Lietuvos Respublikos darbo tarybų įstatymo 6 straipsnio pakeitimo įstatymas
 
