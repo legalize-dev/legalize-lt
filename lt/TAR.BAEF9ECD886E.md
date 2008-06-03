@@ -4,7 +4,7 @@ identifier: "TAR.BAEF9ECD886E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-11"
-last_updated: "2005-05-28"
+last_updated: "2008-06-03"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BAEF9ECD886E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos įstatymas
 
-Suvestinė redakcija nuo 2005-05-28 iki 2008-06-02
+Suvestinė redakcija nuo 2008-06-03 iki 2010-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1717, i. k. 0961010ISTA00I-1485
 
@@ -107,10 +107,6 @@ Ginklų fondo uždaviniai – aprūpinti valstybės institucijas ir juridinius a
 
 4) kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas teises.
 
-TREČIASIS SKIRSNIS
-
-GINKLŲ FONDO STRUKTŪRA IR PERSONALAS
-
 6 straipsnis. Ginklų fondo struktūra
 
 1. Ginklų fondui vadovauja direktorius. Valstybės tarnybos įstatymo nustatyta tvarka jį skiria ir atleidžia Ministras Pirmininkas. Direktorius yra pavaldus Ministrui Pirmininkui.
@@ -171,6 +167,14 @@ Nr. X-184, 2005-05-12, Žin., 2005, Nr. 67-2396 (2005-05-28), i. k. 1051010ISTA0
 
 Lietuvos Respublikos ginklų fondo įstatymo pavadinimo, 1 ir 2 straipsnių pakeitimo įstatymas
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1550, 2008-05-20, Žin., 2008, Nr. 63-2386 (2008-06-03), i. k. 1081010ISTA00X-1550
+
+Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos Vyriausybės įstatymo papildymo 5(1) straipsniu įstatymas
+
 9 straipsnis. Ginklų fondo pareigūnų darbo užmokestis
 
 Ginklų fondo pareigūnų tarnybinio atlyginimo, priedų, priemokų dydį ir nustatymo tvarką reglamentuoja Lietuvos Respublikos įstatymai.
@@ -200,4 +204,16 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1134, 2002-10-15, Žin., 2002, Nr. 102-4549 (2002-10-25), i. k. 1021010ISTA0IX-1134
 
 Lietuvos Respublikos ginklų fondo įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas
+
+51 straipsnis. Pareiga teikti informaciją
+
+Ginklų fondo motyvuotu prašymu valstybės ar savivaldybių institucijos, registrai ar kiti juridiniai asmenys privalo Ginklų fondui neatlygintinai teikti duomenis, būtinus jo uždaviniams ir funkcijoms įgyvendinti.
+
+Papildyta straipsniu:
+
+Nr. X-1550, 2008-05-20, Žin., 2008, Nr. 63-2386 (2008-06-03), i. k. 1081010ISTA00X-1550
+
+TREČIASIS SKIRSNIS
+
+GINKLŲ FONDO STRUKTŪRA IR PERSONALAS
 
