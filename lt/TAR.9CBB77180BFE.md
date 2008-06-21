@@ -4,7 +4,7 @@ identifier: "TAR.9CBB77180BFE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-12-05"
-last_updated: "2003-07-01"
+last_updated: "2008-06-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9CBB77180BFE"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2002-12-05"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos priešgaisrinės saugos įstatymas
+
+Suvestinė redakcija nuo 2008-06-21 iki 2010-02-28
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 123-5518, i. k. 1021010ISTA0IX-1225
 
 LIETUVOS RESPUBLIKOS
 
@@ -119,7 +123,11 @@ Priešgaisrinės apsaugos ir gelbėjimo departamentas, įgyvendindamas šį Įst
 
 3) pagal kompetenciją rengia ir priima priešgaisrinę saugą reglamentuojančius teisės aktus;
 
-4) tvirtina įmonių, įstaigų ir organizacijų vadovų priešgaisrinės saugos mokymo programas bei mokymo tvarką;
+4) tvirtina įmonių, įstaigų ir organizacijų vadovų ir atsakingų asmenų, kuriems pavesta kontroliuoti objekto priešgaisrinę būklę ir imtis priemonių priešgaisrinės saugos reikalavimams vykdyti, priešgaisrinės saugos mokymo programas ir mokymo tvarką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
 
 5) nustato minimalius priešgaisrinės saugos mokymo programų, pagal kurias įmonėse, įstaigose ir organizacijose yra mokomi valstybės tarnautojai ir darbuotojai, reikalavimus;
 
@@ -245,9 +253,17 @@ PRIEŠGAISRINĖS SAUGOS SRITYJE
 
 15) nesudaryti savo veiksmais ar neveikimu sąlygų gaisrui kilti ir išsiplėsti.
 
-4. Įmonėse, įstaigose ir organizacijose už objekto priešgaisrinę būklę asmeniškai atsakingi yra jų vadovai. Atlikdamas šią pareigą, vadovas privalo imtis būtinų objekto bei jame esančių arba galinčių būti žmonių apsaugos nuo gaisro priemonių.
+4. Įmonėse, įstaigose ir organizacijose už objekto priešgaisrinę būklę yra atsakingi jų vadovai. Atlikdamas šią pareigą, vadovas privalo imtis būtinų objekto bei jame esančių arba galinčių būti žmonių apsaugos nuo gaisro priemonių. Įmonės, įstaigos ir organizacijos vadovas gali priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimų vykdymą pavesti jo vadovaujamos įmonės, įstaigos ar organizacijos darbuotojui.
 
-5. Įmonės, įstaigos ir organizacijos, kurių sąrašą pagal vidaus reikalų ministro patvirtintus kriterijus nustato Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius, vadovas turi baigti priešgaisrinės saugos mokymo programos kursą.
+Straipsnio dalies pakeitimai:
+
+Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
+
+5. Priešgaisrinės saugos mokymo programos kursą turi baigti įmonės, įstaigos, organizacijos, kurių sąrašą pagal vidaus reikalų ministro patvirtintus kriterijus nustato Priešgaisrinės saugos ir gelbėjimo departamento direktorius, vadovas arba tokios įmonės, įstaigos, organizacijos darbuotojas, kuriam jos vadovas paveda vykdyti priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
 
 6. Priemonės priešgaisrinei saugai užtikrinti visų rūšių įmonėse, įstaigose, organizacijose finansuojamos iš jų arba joms skirtų lėšų.
 
@@ -393,179 +409,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-181 straipsnis. Savanorių ugniagesių ir jų veiklos organizatorių veiklos teisiniai pagrindai
+Pakeitimai:
 
-1. Savanorių ugniagesių ir jų veiklos organizatorių – savivaldybių priešgaisrinių tarnybų – statusas, uždaviniai, funkcijos, teisės ir pareigos nustatomi, taip pat jų veikla organizuojama vadovaujantis šiuo Įstatymu ir kitais teisės aktais. Lietuvos Respublikos savanoriškos veiklos įstatymo (toliau – Savanoriškos veiklos įstatymas) nuostatos savanoriams ugniagesiams ir jų veiklos organizatoriams taikomos tiek, kiek šis Įstatymas nenustato kitaip.
+1.
 
-2. Savanorių ugniagesių veiklos atlikimo ir savanorių ugniagesių veiklos organizatoriaus funkcijų vykdymo tvarkos aprašą, parengtą vadovaujantis Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tipine tvarka, tvirtina savivaldybės vykdomoji institucija.
+Lietuvos Respublikos Seimas, Įstatymas
 
-182 straipsnis. Asmenų priėmimas į savanorius ugniagesius ir išbraukimas iš savanorių ugniagesių sąrašo
+Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
 
-1. Savanoriais ugniagesiais, dalyvaujančiais gesinant gaisrus, gali tapti ne jaunesni kaip 18 metų ir ne vyresni kaip 65 metų Lietuvos Respublikos nuolatiniai gyventojai.
-
-2. Savanoriais ugniagesiais, nedalyvaujančiais gesinant gaisrus, tačiau vykdančiais visuomenės švietimą gaisrų prevencijos srityje ir kitą veiklą savanorių ugniagesių rinktinėje, gali tapti ne jaunesni kaip 14 metų Lietuvos Respublikos nuolatiniai gyventojai.
-
-3. Savanoriais ugniagesiais negali būti teismo tvarka pripažinti neveiksniais ar ribotai veiksniais Lietuvos Respublikos nuolatiniai gyventojai, taip pat kiti asmenys, kuriems užsiimti tokia veikla draudžia įstatymai. Asmenys, jaunesni kaip 18 metų, savanorių ugniagesių savanoriškoje veikloje gali dalyvauti, jeigu tam neprieštarauja vaiko atstovas pagal įstatymą.
-
-4. Asmuo, pretenduojantis tapti savanoriu ugniagesiu, pateikia prašymą savivaldybės priešgaisrinės tarnybos ar kito šios savanoriškos veiklos srities organizatoriaus vadovui. Prašyme pretendentas įsipareigoja vykdyti savanoriui ugniagesiui keliamus reikalavimus, nustatytus šiame Įstatyme ir rašytinėje savanoriškos veiklos sutartyje.
-
-5. Prieš priimant (įrašant) asmenį savanoriu ugniagesiu, dalyvaujančiu gesinant gaisrus, tikrinama, ar pretendentas atitinka savanoriams ugniagesiams teisės aktuose nustatytus sveikatos, bendrojo fizinio parengtumo ir kitus šio Įstatymo nustatytus reikalavimus. Pretendentui, kuris atitinka šiuos savanoriui ugniagesiui keliamus reikalavimus, organizuojami įvadiniai mokymai. Įvadinius mokymus baigęs pretendentas laiko egzaminą.
-
-6. Asmuo, kuris atitinka savanoriui ugniagesiui keliamus reikalavimus ir baigęs įvadinius mokymus sėkmingai išlaikė egzaminą (taikoma pretendentui į savanorius ugniagesius, dalyvaujančius gesinant gaisrus), priimamas (įrašomas) į savanorius ugniagesius savivaldybės priešgaisrinės tarnybos ar kito šios savanoriškos veiklos srities organizatoriaus vadovo įsakymu ir pasirašo savanoriškos veiklos sutartį 4 metams. Su asmeniu, jaunesniu kaip 18 metų ar vyresniu kaip 65 metai, kuris atitinka savanoriui ugniagesiui, nedalyvaujančiam gesinant gaisrus, keliamus reikalavimus, savanoriškos veiklos sutartis gali būti pasirašoma iki 4 metų. Šioje sutartyje savanoris ugniagesys raštu pasižada vykdyti savanorio ugniagesio funkcijas, įgyja teises ir pareigas šiame Įstatyme ir Savanorių ugniagesių veiklos atlikimo ir savanorių ugniagesių veiklos organizatoriaus funkcijų vykdymo tvarkos apraše nustatytomis sąlygomis ir pagrindais. Pasibaigus savanoriškos veiklos sutarties galiojimo laikotarpiui, savanoriškos veiklos sutarties galiojimas gali būti pratęstas kitiems 4 metams, jeigu savanoris ugniagesys atitinka savanoriui ugniagesiui keliamus reikalavimus, aktyviai ir be pažeidimų vykdė jam keliamas užduotis ir yra sėkmingai baigęs kvalifikacijos tobulinimo kursus (mokymus ir (ar) pratybas) (pastarasis reikalavimas taikomas savanoriui ugniagesiui, dalyvaujančiam gesinant gaisrus). Apie atsisakymą su asmeniu sudaryti ar pratęsti savanoriškos veiklos sutartį per teisės aktuose nustatytą terminą pranešama pareiškėjui, nurodant priežastis.
-
-7. Savanorių ugniagesių įvadinį mokymą ir kvalifikacijos tobulinimo kursus (mokymus ir (ar) pratybas) organizuoja savivaldybės priešgaisrinė tarnyba ar kitas šios savanoriškos veiklos srities organizatorius. Pretendentas į savanorius ugniagesius, dalyvaujantis gesinant gaisrus, išklauso įvadinio mokymo kursą ir išlaiko egzaminą. Tai netaikoma esamiems ir buvusiems savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos pareigūnams ir darbuotojams. Savanoriams ugniagesiams Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka ir periodiškumu organizuojami kvalifikacijos tobulinimo kursai (mokymai ir (ar) pratybos).
-
-8. Savanoriai ugniagesiai įgyvendina šiuos uždavinius:
-
-1) padeda savivaldybės priešgaisrinei tarnybai ir kitoms priešgaisrinėms gelbėjimo pajėgoms gesinti gaisrus, atlikti pirminius žmonių ir turto gelbėjimo darbus, taip pat įgyvendinti gaisrų prevencijos priemones;
-
-2) telkia savivaldybės vietos gyventojus aktyviau dalyvauti įgyvendinant gaisrų prevencijos priemones, saugant nuo gaisrų žmonių gyvybę, sveikatą, turtą ir aplinką;
-
-3) vykdo savivaldybės vietos gyventojų švietimą gaisrų prevencijos srityje, organizuoja fiziniams ir juridiniams asmenims mokymus apie priešgaisrinę saugą, aiškina gaisrų priežastis ir supažindina su priešgaisrinės saugos reikalavimais.
-
-9. Savanorio ugniagesio funkcijos, teisės ir pareigos nustatomos rašytinėje savanoriškos veiklos sutartyje su savivaldybės priešgaisrine tarnyba ar kitu šios savanoriškos veiklos srities organizatoriumi.
-
-10. Savanoriui ugniagesiui išduodamas pažymėjimas ir atpažinimo ženklas. Jų formą ir nešiojimo tvarką nustato Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius. Iš savanorių ugniagesių sąrašo išbraukto savanorio ugniagesio pažymėjimas ir atpažinimo ženklas turi būti grąžinti.
-
-11. Savanoris ugniagesys savivaldybės priešgaisrinės tarnybos ar kito šios savanoriškos veiklos srities organizatoriaus vadovo įsakymu išbraukiamas iš savanorių ugniagesių sąrašo:
-
-1) paties prašymu;
-
-2) jeigu nevykdo rašytinėje savanoriškos veiklos sutartyje nustatytų savanorio ugniagesio funkcijų ir pareigų, taip pat dėl savanorio ugniagesio vardo diskreditavimo;
-
-3) jeigu rašytinė savanoriškos veiklos sutartis su juo nepratęsiama naujam 4 metų terminui (su savanoriu ugniagesiu, dalyvaujančiu gesinant gaisrus, ne ilgiau, iki jam sukaks 65 metai) ar nesudaroma nauja sutartis.
-
-12. Savivaldybės priešgaisrinės tarnybos ar kito šios savanoriškos veiklos srities organizatoriaus vadovo sprendimas dėl savanorio ugniagesio išbraukimo iš savanorių ugniagesių sąrašo gali būti apskųstas Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriui.
-
-13. Savanoriai ugniagesiai savo bendriems interesams tenkinti gali jungtis į savanorių ugniagesių asociacijas.
-
-183 straipsnis. Savanorių ugniagesių socialinės ir kitos garantijos
-
-1. Savanoriui ugniagesiui, kuris jo tarnybos, darbo, mokslo ar studijų laiku nustatyta tvarka yra pakviestas ir dalyvauja gesinant gaisrą ar atlieka gelbėjimo darbus, yra išsaugoma tarnybos, darbo, mokslo ar studijų vieta.
-
-2. Jeigu savanoris ugniagesys dalyvauja planiniuose kvalifikacijos tobulinimo kursuose (mokymuose ir (ar) pratybose) ir pateikia tai patvirtinančią savanorių ugniagesių veiklos organizatoriaus vadovo išduotą pažymą, įstaigos, įmonės ar organizacijos, kurioje savanoris ugniagesys tarnauja, dirba ar mokosi (studijuoja), vadovas privalo jį išleisti į planinius kvalifikacijos tobulinimo kursus (mokymus ir (ar) pratybas) ir išsaugoti jam tarnybos, darbo, mokslo ar studijų vietą, tačiau ne daugiau kaip 10 tarnybos, darbo, mokslo ar studijų dienų per metus.
-
-3. Gesinantiems gaisrus ar atliekantiems gelbėjimo darbus, dalyvaujantiems planiniuose kvalifikacijos tobulinimo kursuose (mokymuose ir (ar) pratybose), atliekantiems kitas užduotis, nustatytas rašytinėse savanoriškos veiklos sutartyse, savanoriams ugniagesiams mokamas ne didesnis kaip 1 procento Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio darbuotojų vidutinio mėnesinio darbo užmokesčio dydžio atlyginimas už kiekvieną savanorio ugniagesio sugaištą valandą. Atlyginimo už sugaištą laiką gesinant gaisrus ar atliekant gelbėjimo darbus, už dalyvavimą planiniuose kvalifikacijos tobulinimo kursuose (mokymuose ir (ar) pratybose), taip pat už kitų rašytinėse savanoriškos veiklos sutartyse numatytų užduočių atlikimą savanoriams ugniagesiams mokėjimo sąlygas ir tvarką nustato Vyriausybė ar jos įgaliota institucija.
-
-4. Savanoriams ugniagesiams kompensuojamos su savanorio ugniagesio atlikta veikla susijusios išlaidos. Savanorių ugniagesių veiklos kompensuojamų išlaidų sudėtį, jų kompensavimo sąlygas ir tvarką nustato Vyriausybė ar jos įgaliota institucija.
-
-5. Savanorių ugniagesių veiklos organizatorius savanorius ugniagesius turi aprūpinti jų veiklai atlikti reikalingomis priemonėmis ir darbo apranga.
-
-6. Savanoriškos veiklos organizatoriai draudžia savanorius ugniagesius (jų sveikatą ir gyvybę) draudimu nuo nelaimingų atsitikimų.
-
-7. Savanoriai ugniagesiai, dalyvaujantys gaisrų gesinimo darbuose, turi teisę į nemokamus periodinius sveikatos patikrinimus vidaus reikalų ministro ar jo įgalioto Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka.
-
-184 straipsnis. Savanorių ugniagesių veiklos organizatorius
-
-1. Savanorių ugniagesių veiklos organizatorius – savivaldybės priešgaisrinė tarnyba atlieka šias funkcijas:
-
-1) priima nustatyta tvarka asmenis į savanorius ugniagesius, taip pat išbraukia iš  savanorių ugniagesių sąrašo, tvarko savanorių ugniagesių ir jų sugaišto laiko, atliekant rašytinėse savanoriškos veiklos sutartyse numatytą veiklą, apskaitą, išduoda savanorio ugniagesio pažymėjimą ir atpažinimo ženklą;
-
-2) organizuoja ir (ar) vykdo savanorių ugniagesių mokymą ir kvalifikacijos tobulinimo kursus (mokymus ir (ar) pratybas) nustatyto lygio kompetencijai ir bendrajam fiziniam parengtumui įgyti ir palaikyti;
-
-3) draudžia savanorius ugniagesius (jų sveikatą ir gyvybę) draudimu nuo nelaimingų atsitikimų, moka jiems atlyginimą už rašytinėse savanoriškos veiklos sutartyse numatytos veiklos atlikimą, taip pat kompensuoja su jų savanoriška veikla susijusias išlaidas, organizuoja periodinius savanorių ugniagesių, dalyvaujančių gaisrų gesinimo darbuose, sveikatos patikrinimus;
-
-4) nustato vietoves, kuriose savanoriai ugniagesiai atliks savo veiklą, aprūpina jų veiklai atlikti reikalingomis priemonėmis, darbo apranga;
-
-5) pasitelkia savanorius ugniagesius kilus gaisrui ar prireikus vykdyti gelbėjimo darbus, sudaro sąlygas vykdyti kitus jų uždavinius;
-
-6) bendrauja su įmonių, įstaigų ir organizacijų, kuriose dirba, mokosi ar studijuoja savanoriai ugniagesiai, vadovais ir jų įgaliotais asmenimis dėl klausimų, susijusių su savanorių ugniagesių veikla ir garantijomis;
-
-7) atlieka kitas šiame Įstatyme ir kituose teisės aktuose nustatytas funkcijas.
-
-2. Savanorių ugniagesių veiklos organizatoriais gali būti ir kiti Savanoriškos veiklos įstatyme nurodyti subjektai. Jų teisės ir pareigos nustatomos, taip pat veikla organizuojama vadovaujantis Savanoriškos veiklos įstatymu ir kitais teisės aktais.
-
-Papildyta skyriumi:
-
-Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
-
-VI SKYRIUS
-
-VALSTYBINĖ GAISRŲ IR GELBĖJIMO DARBŲ APSKAITA.
-
-GYVENTOJŲ ŠVIETIMAS PRIEŠGAISRINĖS SAUGOS SRITYJE
-
-185 straipsnis. Priėmimas į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas ir atleidimas iš jų
-
-1. Su asmeniu, priimamu į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas, sudaroma darbo sutartis. Asmuo, priimamas į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas, turi atitikti šiuos bendruosius reikalavimus:
-
-1) būti ne jaunesnis kaip 18 metų ir ne vyresnis kaip 65 metų;
-
-2) turėti ne žemesnį kaip pagrindinį išsilavinimą;
-
-3) būti nepriekaištingos reputacijos. Asmuo laikomas nepriekaištingos reputacijos, jeigu nėra šio straipsnio 4 dalies 2–5 punktuose nurodytų aplinkybių;
-
-4) būti tokios sveikatos būklės, kuri leistų eiti savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas. Sveikatos būklės reikalavimus nustato sveikatos apsaugos ministras;
-
-TAR pastaba. 185 straipsnio 1 dalies 4 ir 5 punktų nuostatos savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojams, dirbantiems pagal darbo sutartis ir gesinantiems gaisrus bei atliekantiems žmonių ir turto gelbėjimo darbus, kurie priimti į pareigas iki šio įstatymo įsigaliojimo, taikomos nuo 2019 m. sausio 1 d.
-
-5) būti tokio fizinio parengtumo, kuris leistų eiti savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas. Fizinio parengtumo reikalavimus nustato Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius;
-
-TAR pastaba. 185 straipsnio 1 dalies 4 ir 5 punktų nuostatos savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojams, dirbantiems pagal darbo sutartis ir gesinantiems gaisrus bei atliekantiems žmonių ir turto gelbėjimo darbus, kurie priimti į pareigas iki šio įstatymo įsigaliojimo, taikomos nuo 2019 m. sausio 1 d.
-
-6) Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka būti baigęs įvadinius mokymus ir išlaikęs egzaminą.
-
-2. Asmuo, priimamas į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas, taip pat turi atitikti specialius reikalavimus, nustatytus pareigybės aprašyme. Pareigybės aprašyme negali būti nustatyti tokie specialūs reikalavimai, kurie nebūtini pareigybės aprašyme nustatytoms funkcijoms atlikti.
-
-3. Asmuo, priimamas į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas, įvadinius mokymus baigia ir egzaminą laiko tik tada, kai atitinka šio straipsnio 1 dalies 1–5 punktuose ir 2 dalyje nustatytus reikalavimus ir kai nėra šio straipsnio 4 dalyje nurodytų aplinkybių.
-
-4. Į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas negali būti priimamas asmuo:
-
-1) teismo tvarka pripažintas neveiksniu ar ribotai veiksniu tam tikroje srityje;
-
-2) kurio teisę dirbti su gaisrų gesinimu, žmonių ir turto gelbėjimu susijusį darbą yra atėmęs teismas;
-
-3) pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
-
-4) atleistas iš savivaldybės priešgaisrinės tarnybos, Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo ar pareigūno pareigų už šiurkštų darbo pareigų pažeidimą ar tarnybinį nusižengimą, jei nuo atleidimo dienos nepraėjo 3 metai;
-
-5) kuris yra įstatymų nustatyta tvarka uždraustos organizacijos narys.
-
-5. Jeigu į savivaldybės priešgaisrinės tarnybos ar Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas pretenduoja daugiau negu vienas asmuo, baigęs įvadinius mokymus ir išlaikęs egzaminą, pirmenybė priimant į savivaldybės priešgaisrinės tarnybos ar Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas (prioriteto mažėjimo tvarka) teikiama atsižvelgiant į:
-
-1) šio straipsnio 1 dalies 6 punkte nurodyto egzamino išlaikymo rezultatus;
-
-2) turimą gaisrų gesinimo ir žmonių bei turto gelbėjimo darbų atlikimo patirtį;
-
-3) fizinį parengtumą;
-
-4) sveikatos būklę.
-
-6. Apie planuojamą priėmimą į laisvas savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų pareigas skelbiama Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka.
-
-7. Asmenų, priimamų į savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų pareigas, ir savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų sveikatos būklės atitiktis sveikatos būklės reikalavimams tikrinama sveikatos apsaugos ministro nustatyta tvarka ir periodiškumu.
-
-8. Asmenų, priimamų į savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų pareigas, ir savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų fizinio parengtumo atitiktis fizinio parengtumo reikalavimams tikrinama Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka ir periodiškumu.
-
-9. Asmenų, priimamų į savivaldybių priešgaisrinių tarnybų darbuotojų pareigas, ir savivaldybių priešgaisrinių tarnybų darbuotojų fizinio parengtumo atitiktį fizinio parengtumo reikalavimams tikrina ir asmenų, priimamų į savivaldybių priešgaisrinių tarnybų darbuotojų pareigas, įvadinius mokymus ir egzaminų laikymą organizuoja savivaldybių priešgaisrinės tarnybos.
-
-10. Asmenų, priimamų į Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų pareigas, ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų fizinio parengtumo atitiktį fizinio parengtumo reikalavimams tikrina ir asmenų, priimamų į Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų pareigas, įvadinius mokymus ir egzaminų laikymą organizuoja Valstybinė priešgaisrinė gelbėjimo tarnyba.
-
-11. Darbo sutartis su savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotoju nutraukiama Lietuvos Respublikos darbo kodekse nustatytais pagrindais ir tvarka, taip pat jeigu yra bent vienas iš šių pagrindų:
-
-1) nustatoma, kad savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo sveikatos būklė ir (ar) fizinis parengtumas neatitinka sveikatos būklės ir (ar) fizinio parengtumo reikalavimų;
-
-2) nustatoma, kad priėmimo į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas metu asmuo nuslėpė ar pateikė tikrovės neatitinkančius duomenis dėl jo atitikties bendriesiems ir (ar) pareigybės aprašyme nustatytiems specialiems reikalavimams;
-
-3) atsiranda ar paaiškėja bent viena šio straipsnio 4 dalyje nurodytų aplinkybių.
-
-12. Jeigu yra bent vienas iš šio straipsnio 11 dalyje nustatytų pagrindų, darbo sutartis su savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotoju nutraukiama kitą darbo dieną po šio straipsnio 11 dalyje nurodytų aplinkybių atsiradimo ar paaiškėjimo. Šio straipsnio 11 dalies 1 punkte nustatytu pagrindu nutraukus darbo sutartį, savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojui išmokama jo dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė išmoka, jeigu kolektyvinėse sutartyse nenustatyta kitaip.
-
-186 straipsnis. Savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų kvalifikacijos tobulinimas
-
-1. Savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojai privalo tobulinti savo kvalifikaciją.
-
-2. Savivaldybės priešgaisrinės tarnybos darbuotojų kvalifikacijos tobulinimą organizuoja savivaldybės priešgaisrinė tarnyba, o Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų – Valstybinė priešgaisrinė gelbėjimo tarnyba.
-
-3. Reikalavimus savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų kvalifikacijai, šių darbuotojų kvalifikacijos tobulinimo tvarką ir periodiškumą nustato Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius.
-
-Papildyta skyriumi:
-
-Nr. XII-2572, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20299
-
-VI SKYRIUS
-
-VALSTYBINĖ GAISRŲ IR GELBĖJIMO DARBŲ APSKAITA.
-
-GYVENTOJŲ ŠVIETIMAS PRIEŠGAISRINĖS SAUGOS SRITYJE
+Lietuvos Respublikos priešgaisrinės saugos įstatymo 7 ir 11 straipsnių pakeitimo įstatymas
 
