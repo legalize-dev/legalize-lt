@@ -4,7 +4,7 @@ identifier: "TAR.D38B48DC3EF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-06-05"
-last_updated: "2006-05-06"
+last_updated: "2008-06-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D38B48DC3EF0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas
 
-Suvestinė redakcija nuo 2006-05-06 iki 2008-06-20
+Suvestinė redakcija nuo 2008-06-21 iki 2011-06-29
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2754, i. k. 1031010ISTA0IX-1597
 
@@ -58,7 +58,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
-5. Dukterinė įmonė – Vertybinių popierių rinkos įstatyme apibūdinta įmonė.
+5. Dukterinė įmonė – Įmonių konsoliduotos finansinės atskaitomybės įstatyme apibūdinta įmonė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1581, 2008-06-05, Žin., 2008, Nr. 71-2707 (2008-06-21), i. k. 1081010ISTA00X-1581
 
 6. Finansinis turtas – Finansų įstaigų įstatyme apibūdintas turtas.
 
@@ -120,7 +124,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
-21. Vertybiniai popieriai – vertybiniai popieriai ir investicinės priemonės, nurodyti Vertybinių popierių rinkos įstatymo 3 straipsnio 1 ir 2 dalyse, bei vekseliai, išrašyti pagal Įsakomųjų ir paprastųjų vekselių įstatymą.
+21. Vertybiniai popieriai – finansinės priemonės, nurodytos Finansinių priemonių rinkų įstatyme, ir vekseliai, išrašyti Įsakomųjų ir paprastųjų vekselių įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1581, 2008-06-05, Žin., 2008, Nr. 71-2707 (2008-06-21), i. k. 1081010ISTA00X-1581
 
 22. Vertybinių popierių atsiskaitymo sistema – trijų arba daugiau sistemos dalyvių (neskaitant atsiskaitymų tarpininko, pagrindinės sutarties šalies arba kliringo namų) susitarimu veikianti sistema, turinti bendras taisykles ir standartizuotą procedūrą vertybinių popierių pervedimo nurodymams tarp sistemos dalyvių vykdyti.
 
@@ -343,4 +351,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-563, 2006-04-20, Žin., 2006, Nr. 50-1798 (2006-05-06), i. k. 1061010ISTA000X-563
 
 Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 2, 3, 5, 7, 8 ir 10 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1581, 2008-06-05, Žin., 2008, Nr. 71-2707 (2008-06-21), i. k. 1081010ISTA00X-1581
+
+Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 2 straipsnio pakeitimo įstatymas
 
