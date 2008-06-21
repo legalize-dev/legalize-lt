@@ -4,7 +4,7 @@ identifier: "TAR.9D04F98F7C14"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-07"
-last_updated: "2007-04-19"
+last_updated: "2008-06-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,13 +18,13 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Neoficialus
-
-įstatymo tekstas
-
 Įstatymas
 
 skelbtas: Žin., 1992, Nr. 14-378
+
+Neoficialus
+
+įstatymo tekstas
 
 Lietuvos
 
@@ -34,7 +34,9 @@ namams modernizuoti
 
 įstatymas
 
-Nauja įstatymo redakcija nuo 2003 m. sausio 1 d. (keistas įstatymo pavadinimas):
+Nauja įstatymo redakcija nuo 2003 m. sausio 1 d. (keistas
+
+įstatymo pavadinimas):
 
 Nr. IX-1188,
 
@@ -182,9 +184,7 @@ tinka gyventi vienam asmeniui ar šeimai ir atitinka statybos bei specialiųjų
 
 normų (higienos, priešgaisrinės saugos ir kt.) reikalavimus ir kurio
 
-naudingasis plotas, tenkantis vienam šeimos nariui, yra didesnis kaip 14
-
-kvadratinių metrų (ši norma netaikoma socialiniam būstui).
+naudingasis plotas, tenkantis vienam šeimos nariui, yra didesnis kaip 14 kvadratinių metrų (ši norma netaikoma socialiniam būstui).
 
 10. Valstybės
 
@@ -268,9 +268,7 @@ neturėjo būsto nuosavybės teise arba
 
 nuosavybės) teise būstą, kurio naudingasis plotas, tenkantis vienam šeimos
 
-nariui (ar bendraturčių namų ūkio nariui), yra mažesnis kaip 14 kvadratinių
-
-metrų, arba turimas būstas, nepaisant jo naudingojo ploto, Nekilnojamojo turto
+nariui (ar bendraturčių namų ūkio nariui), yra mažesnis kaip 14 kvadratinių metrų, arba turimas būstas, nepaisant jo naudingojo ploto, Nekilnojamojo turto
 
 kadastro duomenimis, yra nusidėvėjęs daugiau kaip 60 procentų ir šis būstas yra
 
@@ -518,33 +516,29 @@ savivaldybės socialinį būstą turi šio Įstatymo 1 straipsnyje nurodyti asme
 
 priklausančio būsto arba turimo būsto naudingasis plotas, tenkantis vienam
 
-šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų ir asmens (jo šeimos)
+šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų ir asmens (jo šeimos) metinės pajamos ir turtas prieš savivaldybės
 
-metinės pajamos ir turtas prieš savivaldybės socialinio būsto
+socialinio būsto suteikimo metus yra mažesni už pajamas ir turtą,
 
-suteikimo metus yra mažesni už pajamas ir turtą, kurių
-
-didžiausius dydžius ir (ar) jų apskaičiavimo tvarką nustato Vyriausybė.
+kurių didžiausius dydžius ir (ar) jų apskaičiavimo tvarką nustato Vyriausybė.
 
 2.
 
 Asmuo (šeima), gyvenantis savivaldybės išnuomotame būste, kurio naudingasis
 
-plotas, tenkantis vienam šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų
-
-arba mažesnis kaip 14 kvadratinių metrų, jei šeimoje yra asmuo, kuriam Lietuvos
+plotas, tenkantis vienam šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų arba mažesnis kaip 14 kvadratinių metrų, jei šeimoje yra asmuo, kuriam Lietuvos
 
 Respublikos neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka yra
 
-nustatytas neįgalumo lygis arba kuris yra pripažintas nedarbingu ar iš dalies darbingu,
+nustatytas neįgalumo lygis arba kuris yra pripažintas nedarbingu ar iš dalies
 
-arba kuris yra sukakęs senatvės pensijos amžių ir jam nustatyta specialiųjų
+darbingu, arba kuris yra sukakęs senatvės pensijos amžių ir jam nustatyta
 
-poreikių tenkinimo reikmė, arba asmuo, sergantis lėtinės ligos, įrašytos į
+specialiųjų poreikių tenkinimo reikmė, arba asmuo, sergantis lėtinės ligos,
 
-Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, sunkia forma,
+įrašytos į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, sunkia
 
-turi teisę į socialinio būsto sąlygų pagerinimą pagal šio Įstatymo 9
+forma, turi teisę į socialinio būsto sąlygų pagerinimą pagal šio Įstatymo 9
 
 straipsnyje nustatytus socialinio būsto naudingojo ploto normatyvus. Suteikus
 
@@ -654,64 +648,6 @@ prašymu pateikiami dokumentai, įrodantys teisę į socialinį būstą ar būst
 
 sąlygų pagerinimą. Registravimo tvarką nustato savivaldybės institucijos.
 
-2
-
-dalies redakcija iki 2007 m. liepos 1 d.:
-
-2. Asmenų
-
-(šeimų), turinčių teisę į socialinį būstą, sąrašai sudaromi pagal prašymo
-
-įregistravimo savivaldybės institucijoje datą. Sudaromi šie atskiri sąrašai:
-
-1) jaunų šeimų;
-
-2) našlaičių ir
-
-likusių be tėvų globos asmenų. Į šį sąrašą įrašomi našlaičiai ir likę be tėvų
-
-globos asmenys (jų šeimos), kurie pasibaigus jų globos ar laisvės atėmimo
-
-terminui yra ne vyresni kaip 35 metų;
-
-3) neįgaliųjų
-
-asmenų (šeimų). Į šį sąrašą įrašomi asmenys, kurie Lietuvos Respublikos
-
-neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka yra pripažinti
-
-nedarbingais ar iš dalies darbingais arba kurie yra sukakę senatvės pensijos
-
-amžių ir jiems nustatyta specialiųjų poreikių tenkinimo reikmė, taip pat
-
-šeimos, kuriose yra asmuo, kuriam Lietuvos Respublikos neįgaliųjų socialinės
-
-integracijos įstatymo nustatyta tvarka yra nustatytas neįgalumo lygis arba
-
-kuris yra pripažintas nedarbingu ar iš dalies darbingu, arba kuris yra sukakęs
-
-senatvės pensijos amžių ir jam nustatyta specialiųjų poreikių tenkinimo reikmė,
-
-asmenys, sergantys lėtinių ligų, įrašytų į Vyriausybės ar jos įgaliotos institucijos
-
-patvirtintą sąrašą, sunkiomis formomis, ir šeimos, kuriose yra tomis ligomis
-
-sergančių asmenų;
-
-4) bendrasis. Į
-
-šį sąrašą įrašomi visi asmenys, nepatenkantys į 1, 2 ir 3 punktuose nurodytus
-
-sąrašus;
-
-5) socialinio
-
-būsto nuomininkų, turinčių teisę į būsto sąlygų pagerinimą.
-
-2
-
-dalies redakcija nuo 2007 m. liepos 1 d.:
-
 2. Asmenų
 
 (šeimų), turinčių teisę į socialinį būstą, sąrašai sudaromi pagal prašymo
@@ -780,17 +716,17 @@ nurodytus sąrašus asmeniui (šeimai), netekusiam būsto dėl gaisro, potvynio,
 
 stiprių vėjų ar kitų nuo žmogaus valios nepriklausančių aplinkybių, ir apie
 
-suteiktas patalpas viešai paskelbti savivaldybės tinklalapyje. Gyvenamųjų patalpų
+suteiktas patalpas viešai paskelbti savivaldybės tinklalapyje. Gyvenamųjų
 
-nuomos sutartis sudaroma vadovaujantis Civiliniu kodeksu. Šalių susitarimu
+patalpų nuomos sutartis sudaroma vadovaujantis Civiliniu kodeksu. Šalių
 
-nuomos sutartyje gali būti numatytos sąlygos dėl nuomininko perkėlimo į
+susitarimu nuomos sutartyje gali būti numatytos sąlygos dėl nuomininko
 
-mažesnio ploto būstą. Asmeniui (šeimai) nuosavybės teise įgijus būstą,
+perkėlimo į mažesnio ploto būstą. Asmeniui (šeimai) nuosavybės teise įgijus
 
-socialinio būsto nuomos sutartis su juo nutraukiama nuomos sutartyje nustatyta
+būstą, socialinio būsto nuomos sutartis su juo nutraukiama nuomos sutartyje
 
-tvarka.
+nustatyta tvarka.
 
 4. Socialinio
 
@@ -1524,17 +1460,13 @@ sąlygomis
 
 kad jų pardavimo kaina nebūtų didesnė negu kaina pinigais, kuri Butų
 
-privatizavimo įstatymo nustatyta tvarka galėjo būti apskaičiuota iki 1998 m.
-
-liepos 1 d. ir patikslinta atsižvelgiant į infliaciją šiais atvejais:
+privatizavimo įstatymo nustatyta tvarka galėjo būti apskaičiuota iki 1998 m. liepos 1 d. ir patikslinta atsižvelgiant į infliaciją šiais atvejais:
 
 1) kai
 
-privatizuoja nuomininkai, kuriems įstatymo nustatyta tvarka iki 1998 m. liepos
+privatizuoja nuomininkai, kuriems įstatymo nustatyta tvarka iki 1998 m. liepos 1 d. Seimo sudaryta butų privatizavimo komisija buvo išdavusi leidimus privatizuoti
 
-1 d. Seimo sudaryta butų privatizavimo komisija buvo išdavusi leidimus
-
-privatizuoti nuomojamas gyvenamąsias patalpas pagal Butų privatizavimo įstatymą;
+nuomojamas gyvenamąsias patalpas pagal Butų privatizavimo įstatymą;
 
 2) kai
 
@@ -1546,15 +1478,15 @@ privatizuoti jų nuomojamas gyvenamąsias patalpas pagal Butų privatizavimo
 
 3) kai
 
-privatizuoja nuomininkai, kurie yra iškeldinti arba dėl kurių yra priimtas sprendimas
+privatizuoja nuomininkai, kurie yra iškeldinti arba dėl kurių yra priimtas
 
-iškeldinti iš avarinių gyvenamųjų patalpų ir patalpų, įrašytų į griaunamų namų
+sprendimas iškeldinti iš avarinių gyvenamųjų patalpų ir patalpų, įrašytų į
 
-sąrašą pagal miesto (miestelio) plėtros planą, arba įrašytų į visuomenės
+griaunamų namų sąrašą pagal miesto (miestelio) plėtros planą, arba įrašytų į
 
-poreikiams paimamų pastatų sąrašą, ir kurių dėl to negalima buvo privatizuoti
+visuomenės poreikiams paimamų pastatų sąrašą, ir kurių dėl to negalima buvo
 
-pagal Butų privatizavimo įstatymą;
+privatizuoti pagal Butų privatizavimo įstatymą;
 
 4) kai patalpų
 
@@ -1562,13 +1494,13 @@ savininkai privatizuoja pagal Butų privatizavimo įstatymą privatizuotų
 
 gyvenamųjų patalpų papildomą naudingąjį plotą, atsiradusį atlikus privatizuoto
 
-buto inventorizaciją, taip pat plotą, atsiradusį savivaldybės institucijos sutikimu
+buto inventorizaciją, taip pat plotą, atsiradusį savivaldybės institucijos
 
-išplėtus privatizuoto buto naudingąjį plotą sumažinant gyvenamojo namo bendrojo
+sutikimu išplėtus privatizuoto buto naudingąjį plotą sumažinant gyvenamojo namo
 
-naudojimo patalpų plotą (bendrabučių privatizavimo ir pertvarkymo į butus
+bendrojo naudojimo patalpų plotą (bendrabučių privatizavimo ir pertvarkymo į
 
-atvejais);
+butus atvejais);
 
 5) kai
 
@@ -1580,13 +1512,13 @@ gyvenamosios patalpos;
 
 6) kai
 
-privatizuoja nuomininkai, gyvenantys gyvenamosiose patalpose, kurios
+privatizuoja nuomininkai, gyvenantys gyvenamosiose patalpose, kurios negrąžintos
 
-negrąžintos natūra religinėms bendruomenėms ar bendrijoms, taip pat
+natūra religinėms bendruomenėms ar bendrijoms, taip pat nuomininkai, kuriems
 
-nuomininkai, kuriems suteiktos kitos gyvenamosios patalpos, iškeldinus juos iš
+suteiktos kitos gyvenamosios patalpos, iškeldinus juos iš religinėms
 
-religinėms bendruomenėms ar bendrijoms grąžintų gyvenamųjų patalpų;
+bendruomenėms ar bendrijoms grąžintų gyvenamųjų patalpų;
 
 7) taip pat
 
@@ -1652,19 +1584,19 @@ apskaitos. Kriterijus, kuriais vadovaujantis tokios patalpos negali būti
 
 privatizuojamos, nustato Vyriausybė.
 
-3. Už
+3. Už privatizuojamas
 
-privatizuojamas gyvenamąsias patalpas pagal šiame straipsnyje nurodytas sąlygas
+gyvenamąsias patalpas pagal šiame straipsnyje nurodytas sąlygas atsiskaitoma
 
-atsiskaitoma pinigais, sumokant nustatytą sumą iš karto arba privatizuojančiojo
+pinigais, sumokant nustatytą sumą iš karto arba privatizuojančiojo pageidavimu
 
-pageidavimu išsimokėtinai per 10 metų. Parduodant išsimokėtinai skaičiuojamos
+išsimokėtinai per 10 metų. Parduodant išsimokėtinai skaičiuojamos Vyriausybės
 
-Vyriausybės arba jos įgaliotos institucijos nustatyto dydžio palūkanos.
+arba jos įgaliotos institucijos nustatyto dydžio palūkanos. Privatizavimo
 
-Privatizavimo tvarką, taip pat lėšų, gautų už privatizuojamas gyvenamąsias
+tvarką, taip pat lėšų, gautų už privatizuojamas gyvenamąsias patalpas,
 
-patalpas, apskaitos ir naudojimo tvarką nustato Vyriausybė.
+apskaitos ir naudojimo tvarką nustato Vyriausybė.
 
 4. Savivaldybės
 
@@ -1708,6 +1640,10 @@ VALSTYBĖS PARAMA
 
 DAUGIABUČIAMS NAMAMS MODERNIZUOTI
 
+13 straipsnio
+
+redakcija iki 2009 m. sausio 1 d.:
+
 13 straipsnis. Valstybės paramos
 
 daugiabučiams namams modernizuoti teikimo sąlygos ir būdai
@@ -1720,11 +1656,11 @@ parama daugiabučiams namams modernizuoti teikiama:
 
 investicijų daugiabučiams namams modernizuoti, atsižvelgiant į šių investicijų
 
-projektų, įgyvendinamų pagal Lietuvos Respublikos Vyriausybės patvirtintą daugiabučių
+projektų, įgyvendinamų pagal Lietuvos Respublikos Vyriausybės patvirtintą
 
-namų modernizavimo programą ar ją atitinkančias savivaldybių patvirtintas
+daugiabučių namų modernizavimo programą ar ją atitinkančias savivaldybių
 
-programas, energinį efektyvumą;
+patvirtintas programas, energinį efektyvumą;
 
 2) apmokant
 
@@ -1745,6 +1681,10 @@ energinio efektyvumo nustatymo taisykles nustato Lietuvos Respublikos
 Vyriausybė ar jos įgaliotos institucijos, atsižvelgdamos į valstybės biudžeto
 
 asignavimus daugiabučių namų modernizavimo programai įgyvendinti.
+
+13 straipsnio
+
+redakcija nuo 2009 m. sausio 1 d.:
 
 15 straipsnis. Prašymo
 
@@ -3682,13 +3622,35 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
 
 įstatymo 1 straipsnio 1 dalis įsigalioja nuo 2007 m. liepos 1 d.
 
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1574,
+
+2008-06-05, Žin., 2008, Nr. 71-2703 (2008-06-21)
+
+VALSTYBĖS
+
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
+
+ĮSTATYMO 13 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2009 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2007-04-23)
+Aušrinė Trapinskienė (2008-06-27)
 
 autrap@lrs.lt
 
