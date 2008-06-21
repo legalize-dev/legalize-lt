@@ -4,7 +4,7 @@ identifier: "TAR.DDA1BD559D9B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-03"
-last_updated: "2006-05-25"
+last_updated: "2008-06-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B"
 department: "Lietuvos Respublikos Seimas"
@@ -34,7 +34,7 @@ Vilnius
 
 Nauja įstatymo
 
-redakcija nuo 2003 m. liepos 30 d. (pakeistas įstatymo pavadinimas):
+redakcija nuo 2003 m. liepos 30 d. (keistas įstatymo pavadinimas):
 
 Nr. IX-1692,
 
@@ -94,15 +94,11 @@ straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 1. Akcijų
 
-paketas – 1/10 arba daugiau visų pensijų fondų valdymo įmonės akcijų ar
+paketas – ne mažiau kaip 1/10 tiesiogiai ar netiesiogiai valdomų valdymo
 
-akcijų suteikiamų balsavimo teisių arba toks akcijų ar balsavimo teisių kiekis,
+įmonės akcijų ar balsavimo teisę suteikiančių akcijų dalis arba toks akcijų kiekis,
 
-kuris leidžia daryti esminę įtaką valdymo įmonės valdymui. Skaičiuojant akcijų
-
-paketą, atsižvelgiama į balsus, kuriuos asmuo turi pagal Vertybinių popierių
-
-rinkos įstatymo 16 straipsnį.
+kuris leidžia daryti esminį poveikį valdymo įmonės valdymui.
 
 2. Apskaitos
 
@@ -120,17 +116,19 @@ padalinį Lietuvos Respublikoje.
 
 4. Dukterinė
 
-įmonė – kaip ši sąvoka apibrėžta Vertybinių popierių rinkos įstatyme.
+įmonė – kaip ši sąvoka apibrėžta Įmonių konsoliduotos finansinės
 
-5. Europos
+atskaitomybės įstatyme.
 
-Sąjungos valstybė – Europos Sąjungai ar Europos ekonominei erdvei
+5. Finansinių
 
-priklausanti valstybė.
+priemonių portfelis – kaip ši sąvoka apibrėžta Finansinių priemonių rinkų
 
-6. Glaudus
+įstatyme.
 
-ryšys – kaip ši sąvoka apibrėžta Vertybinių popierių rinkos įstatyme.
+6. Glaudūs
+
+ryšiai – kaip ši sąvoka apibrėžta Finansinių priemonių rinkų įstatyme.
 
 7. Grynieji
 
@@ -140,51 +138,45 @@ trumpalaikių finansinių įsipareigojimų (išskyrus įsipareigojimus pensijų 
 
 dalyviams) skirtumas.
 
-8.
+8. Investicinės
 
-Investicijų portfelis – investicinių priemonių rinkinys.
+priemonės – Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies 1–4
 
-9. Investicinės
+punktuose numatytos finansinės priemonės, taip pat indėliai.
 
-priemonės – vertybiniai popieriai, nurodyti šio straipsnio 26 dalyje, ir
+9. Išvestinės
 
-investicinės priemonės, numatytos Vertybinių popierių rinkos įstatymo 3
+finansinės priemonės – finansinės priemonės, kurių vertė priklauso nuo
 
-straipsnio 2 dalyje.
+vienos ar kelių finansinių priemonių vertės.
 
-10.
+10. Kontrolė
 
-Išvestinės investicinės priemonės – investicinės priemonės, kurių vertė
+– kaip ši sąvoka apibrėžta Įmonių konsoliduotos finansinės atskaitomybės
 
-priklauso nuo vienos investicinės priemonės ar kelių kitų investicinių
+įstatyme.
 
-priemonių.
+11. Nepriekaištingos
 
-11. Kontrolė
+reputacijos asmenys – kaip ši sąvoka apibrėžta Finansinių priemonių rinkų
 
-– kaip ši sąvoka apibrėžta Vertybinių popierių rinkos įstatyme.
+įstatyme.
 
-12.
-
-Nepriekaištingos reputacijos asmenys – kaip ši sąvoka apibrėžta Vertybinių
-
-popierių rinkos įstatyme.
-
-13. Papildomo
+12. Papildomo
 
 savanoriško pensijų kaupimo veikla (toliau – pensijų kaupimo veikla)
 
 – finansinė veikla, kurią sudaro piniginių lėšų pagal pensijų kaupimo sutartis
 
-rinkimas, jų investavimas ar reinvestavimas į diversifikuotą investicijų
+rinkimas, jų investavimas ar reinvestavimas į diversifikuotą finansinių
 
-portfelį ir pensijų išmokų mokėjimas šiame Įstatyme ir pensijų fondo taisyklėse
+priemonių portfelį ir pensijų išmokų mokėjimas šiame Įstatyme ir pensijų fondo
 
-nustatytomis sąlygomis kaupime dalyvaujantiems asmenims, bei kita su tuo
+taisyklėse nustatytomis sąlygomis kaupime dalyvaujantiems asmenims bei kita su
 
-susijusi veikla.
+tuo susijusi veikla.
 
-14. Pensijų
+13. Pensijų
 
 anuitetas (toliau – anuitetas) – pensijų fondo dalyviui iki gyvos
 
@@ -192,7 +184,7 @@ galvos mokama periodinė pensinė išmoka, kurios išmokėjimo visa rizika tenka
 
 išmokų mokėtojui – draudimo įmonei, vykdančiai gyvybės draudimą.
 
-15. Pensijų
+14. Pensijų
 
 fondas – fiziniams asmenims, savanoriškai kaupiantiems pensijas bei
 
@@ -202,35 +194,35 @@ priklausantis pensijų turtas, kurio valdymas perduotas pensijų fondo valdymo
 
 įmonei ir kuris investuojamas pagal to pensijų fondo taisykles.
 
-16. Pensijų
+15. Pensijų
 
 fondo dalyvis (toliau – dalyvis) – asmuo, su kuriuo yra sudaryta
 
 pensijų kaupimo sutartis ir kurio vardu atidaryta asmeninė pensijų sąskaita.
 
-17. Pensijų
+16. Pensijų
 
 fondo taisyklės – dokumentas, apibrėžiantis pensijų įmokų ir išmokų
 
-mokėjimo sąlygas bei terminus, pensijų turto investavimo strategiją bei kitas
+mokėjimo sąlygas bei terminus, pensijų turto investavimo strategiją ir kitas
 
 pensijų įmokų mokėtojų, pensijų fondo dalyvių ir pensijų fondo valdymo įmonės
 
 teises bei pareigas.
 
-18. Pensijų
+17. Pensijų
 
 fondo valdymo įmonė (toliau – valdymo įmonė) – įmonė, turinti
 
 Vertybinių popierių komisijos išduotą licenciją verstis pensijų kaupimo veikla.
 
-19. Pensijų
+18. Pensijų
 
 įmokų mokėtojas – pensijų fondo dalyvis, jo darbdavys ar trečiasis asmuo,
 
 mokantis pensijų įmokas ar jų dalį.
 
-20. Pensijų
+19. Pensijų
 
 sąskaita – pagal pensijų kaupimo sutartį atidaryta asmeninė pensijų fondo
 
@@ -238,7 +230,7 @@ dalyvio sąskaita, į kurią dalyvio vardu įrašomi jam tenkantys pensijų fond
 
 pensijų turto apskaitos vienetai.
 
-21. Pensijų
+20. Pensijų
 
 turtas – už pensijų įmokas įsigyto turto (įskaitant laikinai neinvestuotą
 
@@ -246,25 +238,41 @@ turtas – už pensijų įmokas įsigyto turto (įskaitant laikinai neinvestuot�
 
 suma.
 
-22. Periodinė
+21. Periodinė
 
 ataskaita – pensijų fondo dalyviams ir visuomenei skirtas dokumentas,
 
 pateikiantis informaciją apie pagrindinius ataskaitinio laikotarpio įvykius.
 
+22. Perleidžiamieji
+
+vertybiniai popieriai:
+
+1) akcinių bendrovių akcijos ir
+
+depozitoriumo išduoti akcijų pakvitavimai;
+
+2) obligacijos
+
+ir kitų formų ne nuosavybės vertybiniai popieriai;
+
+3) kiti perleidžiamieji vertybiniai
+
+popieriai, suteikiantys teisę pasirašymo ar keitimo būdu įsigyti šios dalies 1
+
+ir 2 punktuose nurodytų perleidžiamųjų vertybinių popierių.
+
 23. Pinigų
 
-rinkos priemonės – likvidžios skolos investicinės priemonės, kuriomis
+rinkos priemonės – Finansinių priemonių rinkų įstatyme apibrėžtos pinigų
 
-paprastai prekiaujama pinigų rinkoje ir kurių vertę visada galima tiksliai
+rinkos priemonės, kurių vertę visada galima tiksliai nustatyti.
 
-nustatyti.
+24. Pradinis
 
-24. Pradinis kapitalas –
+kapitalas – mažiausias nuosavas kapitalas, kurį privalo turėti pensijų
 
-minimalus nuosavo
-
-kapitalo dydis, kurį privalo sukaupti pensijų fondų valdymo įmonė.
+fondų valdymo įmonė.
 
 25. Užsienio
 
@@ -274,27 +282,21 @@ priežiūros institucija – institucija, kuri užsienio valstybėje valdymo
 
 kaip Vertybinių popierių komisija.
 
-26. Vertybiniai popieriai:
+26. Valstybė narė –
 
-1) akcinių bendrovių akcijos ir
+Europos Sąjungos valstybė narė ar Europos ekonominei erdvei (EEE) priklausanti
 
-depozitoriumo pakvitavimai dėl akcijų;
-
-2) skolos vertybiniai
-
-popieriai;
-
-3) kiti perleidžiami vertybiniai
-
-popieriai, suteikiantys teisę pasirašymo ar keitimo būdu įsigyti šios dalies 1
-
-ir 2 punktuose nurodytų vertybinių popierių.
+valstybė.
 
 Straipsnio pakeitimai:
 
 Nr. X-622, 2006-05-25,
 
 Žin., 2006, Nr. 65-2386 (2006-06-10)
+
+Nr. X-1587, 2008-06-05,
+
+Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 ANTRASIS SKIRSNIS
 
@@ -310,11 +312,11 @@ pensijų kaupimo veikla turi teisę uždaroji akcinė ar akcinė bendrovė (toli
 
 bendrovė), turinti šio Įstatymo nustatyta tvarka Vertybinių popierių komisijos
 
-išduotą licenciją. Tik tokią licenciją turinti bendrovė savo pavadinime ir reklamoje
+išduotą licenciją. Tik tokią licenciją turinti bendrovė savo pavadinime ir
 
-gali vartoti žodžius „pensijų fondų valdymo įmonė“ ar kitokius šių žodžių
+reklamoje gali vartoti žodžius „pensijų fondų valdymo įmonė“ ar kitokius šių
 
-junginius arba jų vedinius.
+žodžių junginius arba jų vedinius.
 
 2. Šio
 
@@ -338,13 +340,13 @@ straipsnio 1 dalyje nurodyta valdymo įmonės licencija suteikia teisę verstis
 
 pensijų kaupimo veikla, valdyti investicinius fondus, investicines kintamojo
 
-kapitalo bendroves, kitų asmenų investicijų portfelius ir, jei numatyta
+kapitalo bendroves, kitų asmenų finansinių priemonių portfelius ir, jei
 
-išduotoje licencijoje, teikti šias papildomas paslaugas:
+numatyta išduotoje licencijoje, teikti šias papildomas paslaugas:
 
 1) konsultuoti
 
-investavimo į investicines priemones klausimais;
+investavimo į finansines priemones klausimais;
 
 2) saugoti ir
 
@@ -363,6 +365,12 @@ atitinka Pensijų kaupimo įstatymo nustatytus reikalavimus.
 6. Šio straipsnio 1 dalyje paminėtos valdymo
 
 įmonės negali verstis kita, šiame straipsnyje nenurodyta, veikla.
+
+Straipsnio pakeitimai:
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 4
 
@@ -388,9 +396,9 @@ popierių komisija gali atsisakyti išduoti licenciją, jeigu:
 
 neatitinka nustatytų reikalavimų, pateikiami tikrovės neatitinkantys ar
 
-ne visi dokumentai ir jeigu duomenys arba įmonės veiklos planas yra
+ne visi dokumentai ir jeigu duomenys arba įmonės veiklos planas yra nepakankamai
 
-nepakankamai pagrįsti;
+pagrįsti;
 
 2) bendrovės
 
@@ -408,9 +416,11 @@ nepateikia duomenų apie savo dalyvius, jų veiklą ir finansinę būklę;
 
 4) bent vienas
 
-bendrovės darbuotojas yra vertybinių popierių biržos, Vertybinių popierių
+bendrovės darbuotojas yra Lietuvos Respublikoje veikiančios reguliuojamos
 
-komisijos ar Lietuvos centrinio vertybinių popierių depozitoriumo darbuotojas;
+rinkos operatoriaus, Vertybinių popierių komisijos ar Lietuvos centrinio
+
+vertybinių popierių depozitoriumo darbuotojas;
 
 5) bendrovės
 
@@ -420,9 +430,9 @@ nepriekaištingos reputacijos, neturi Vertybinių popierių komisijos nustatytos
 
 kvalifikacijos ar darbo patirties;
 
-6) bendrovės
+6) bendrovės depozitoriumo
 
-depozitoriumo valdybos narys, administracijos vadovas ar jo pavaduotojas nėra
+valdybos narys, administracijos vadovas ar jo pavaduotojas nėra
 
 nepriekaištingos reputacijos, neturi Vertybinių popierių komisijos nustatytos
 
@@ -434,19 +444,17 @@ buveinė yra ne Lietuvos Respublikos teritorijoje;
 
 8) tarp
 
-bendrovės ir kito asmens yra toks glaudus ryšys, kad jis gali trukdyti Vertybinių
+bendrovės ir kito asmens yra toks glaudus ryšys, kad jis gali trukdyti
 
-popierių komisijai veiksmingai atlikti priežiūrą;
+Vertybinių popierių komisijai veiksmingai atlikti priežiūrą;
 
 9) bendrovė yra
 
-glaudžiu ryšiu susijusi su asmeniu iš tokios valstybės ne Europos Sąjungos
+glaudžiu ryšiu susijusi su asmeniu iš tokios ne valstybės narės, kurios
 
-narės, kurios teisės aktai, reglamentuojantys šio asmens veiklą, ar tų teisės
+teisės aktai, reglamentuojantys šio asmens veiklą, ar tų teisės aktų laikymosi
 
-aktų laikymosi užtikrinimo sunkumai gali trukdyti veiksmingai atlikti
-
-priežiūrą.
+užtikrinimo sunkumai gali trukdyti veiksmingai atlikti priežiūrą.
 
 3. Vertybinių
 
@@ -468,6 +476,12 @@ registro tvarkytojui ir paskelbti „Valstybės žinių“ priede „Informacini
 
 pranešimai“.
 
+Straipsnio pakeitimai:
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
+
 5
 
 straipsnis. Valdymo įmonės valdymo organai
@@ -476,9 +490,9 @@ Be Akcinių
 
 bendrovių įstatyme nustatytų akcinėje bendrovėje ir uždarojoje akcinėje
 
-bendrovėje privalomų sudaryti valdymo organų, valdymo įmonėje turi būti
+bendrovėje privalomų sudaryti valdymo organų, valdymo įmonėje turi būti sudaroma
 
-sudaroma valdyba.
+valdyba.
 
 6
 
@@ -522,11 +536,11 @@ teisės aktų;
 
 7) vykdyti
 
-vidaus kontrolę, kontroliuoti savo vadovų ir darbuotojų sudaromus vertybinių
+vidaus kontrolę, kontroliuoti savo vadovų ir darbuotojų sudaromus
 
-popierių sandorius laikantis Vertybinių popierių komisijos nustatytos vidaus
+perleidžiamųjų vertybinių popierių sandorius laikantis Vertybinių
 
-kontrolės vykdymo tvarkos;
+popierių komisijos nustatytos vidaus kontrolės vykdymo tvarkos;
 
 8) atliktų
 
@@ -546,6 +560,12 @@ kad sprendimus dėl turto valdymo priimantys asmenys turėtų Vertybinių popier
 
 komisijos nustatytą kvalifikaciją ir darbo patirtį.
 
+Straipsnio pakeitimai:
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
+
 7
 
 straipsnis. Valdymo įmonės kapitalo reikalavimai
@@ -554,17 +574,19 @@ straipsnis. Valdymo įmonės kapitalo reikalavimai
 
 įmonės nei pradinis, nei įstatinis kapitalas negali būti mažesni kaip 150 000
 
-eurų. Tuo atveju, kai valdymo įmonės valdomų investicijų portfelių vertė
+eurų. Tuo atveju, kai valdymo įmonės valdomų finansinių priemonių portfelių
 
-viršija 250 000 000 eurų, valdymo įmonė privalo padidinti nuosavą kapitalą
+vertė viršija 250 000 000 eurų, valdymo įmonė privalo padidinti nuosavą kapitalą
 
 suma, kuri turi būti ne mažesnė kaip 0,02 procento dydžio, kuriuo viršijama 250
 
-000 000 eurų valdomų investicijų portfelių vertė. Didėjant valdomų investicijų
+000 000 eurų valdomų finansinių priemonių portfelių vertė. Didėjant valdomų
 
-portfelių vertei, toks valdomo ir nuosavo kapitalo santykis turi būti
+finansinių priemonių portfelių vertei, toks valdomo ir nuosavo kapitalo
 
-užtikrinamas nuolat, kol nuosavo kapitalo dydis pasiekia 10 000 000 eurų.
+santykis turi būti užtikrinamas nuolat, kol nuosavo kapitalo dydis pasiekia 10
+
+000 000 eurų.
 
 2. Valdymo
 
@@ -586,19 +608,25 @@ tiesioginei valdymo įmonės veiklai.
 
 kaip 125 000 eurų valdymo įmonės nuosavo kapitalo turi būti investuota į
 
-diversifikuotą investicijų portfelį, kuriam taikomi šio Įstatymo 46, 47 ir 49
+diversifikuotą finansinių priemonių portfelį, kuriam taikomi šio
 
-straipsniuose nustatyti reikalavimai. Likusią nuosavo kapitalo dalį valdymo
+Įstatymo 46, 47 ir 49 straipsniuose nustatyti reikalavimai. Likusią nuosavo
 
-įmonė valdo savo nuožiūra, laikydamasi įstatymų ir kitų teisės aktų nustatytos
+kapitalo dalį valdymo įmonė valdo savo nuožiūra, laikydamasi įstatymų ir kitų
 
-tvarkos.
+teisės aktų nustatytos tvarkos.
 
 5. Valdymo įmonė
 
 privalo laikytis Vertybinių popierių komisijos nustatytų kapitalo pakankamumo
 
 reikalavimų.
+
+Straipsnio pakeitimai:
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 17 straipsnis.
 
@@ -2634,27 +2662,33 @@ Aušrinė Trapinskienė (2003-04-28)
 
 autrap@lrs.lt
 
-8 straipsnis.
+8 straipsnis. Garantijų
 
-Garantijų rezervas
+rezervas
 
 1. Tuo atveju, kai valdymo įmonė prisiima
 
 įsipareigojimus garantuoti pensijų fondo dalyviams tam tikrą pajamingumą, turi
 
-būti formuojamas garantijų rezervas. Šio rezervo formavimo, investavimo ir
+būti formuojamas garantijų rezervas. Šio rezervo formavimo, investavimo ir naudojimo
 
-naudojimo tvarka turi būti suderinta su Vertybinių popierių komisija.
+tvarka turi būti suderinta su Vertybinių popierių komisija. Vertybinių popierių
 
-Vertybinių popierių komisija turi teisę duoti nurodymus pakeisti ir (ar)
+komisija turi teisę duoti nurodymus pakeisti ir (ar) papildyti garantijų
 
-papildyti garantijų formavimo, investavimo ir naudojimo tvarką.
+formavimo, investavimo ir naudojimo tvarką.
 
 2. Garantijų rezervas investuojamas į
 
-diversifikuotą investicijų portfelį, kuriam taikomi šio Įstatymo 46, 47 ir 49
+diversifikuotą finansinių priemonių portfelį, kuriam taikomi šio Įstatymo 46,
 
-straipsniuose nustatyti reikalavimai.
+47 ir 49 straipsniuose nustatyti reikalavimai.
+
+Straipsnio pakeitimai:
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 9
 
@@ -2710,9 +2744,9 @@ pensijų įmokų ir į kitą pensijų fondą pervedamų piniginių lėšų konve
 
 apskaitos vienetus (ir atvirkščiai) reikalavimus;
 
-10) pensijų fondų
+10) pensijų
 
-taisyklių tvirtinimo tvarką;
+fondų taisyklių tvirtinimo tvarką;
 
 11) šiame
 
@@ -2724,13 +2758,13 @@ straipsnis. Valdymo įmonės teisė dalį savo funkcijų pavesti kitai įmonei
 
 1. Valdymo
 
-įmonė, siekdama efektyvesnio valdymo, turi teisę dalį savo funkcijų, susijusių
+įmonė, siekdama efektyvesnio valdymo, turi teisę dalį savo funkcijų,
 
-su pensijų fondų valdymu, pavesti atlikti kitai įmonei, turinčiai teisę teikti
+susijusių su pensijų fondų valdymu, pavesti atlikti kitai įmonei, turinčiai
 
-atitinkamas paslaugas, tik gavusi išankstinį Vertybinių popierių komisijos
+teisę teikti atitinkamas paslaugas, tik gavusi išankstinį Vertybinių popierių
 
-leidimą.
+komisijos leidimą.
 
 2. Pavesti
 
@@ -2742,7 +2776,7 @@ prižiūrėti valdymo įmonę ir nepakenks dalyvių interesams;
 
 2) Vertybinių
 
-popierių komisija su atitinkamos valstybės ne Europos Sąjungos narės, kurioje
+popierių komisija su atitinkamos ne valstybės narės, kurioje
 
 licencijuotai įmonei yra pavedama dalis funkcijų, priežiūros institucija yra
 
@@ -2792,33 +2826,35 @@ Nr. X-622, 2006-05-25,
 
 Žin., 2006, Nr. 65-2386 (2006-06-10)
 
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
+
 11
 
 straipsnis. Valdymo įmonės akcijų paketo įsigijimas
 
-1. Asmuo,
+1. Fizinis ar
 
-norintis įsigyti valdymo įmonės akcijų paketą arba padidinti jau turimą akcijų
+juridinis asmuo, ketinantis tiesiogiai ar netiesiogiai įsigyti ar padidinti jau
 
-kiekį tiek, kad jo turimų balsų ar įstatinio kapitalo dalis pasiektų 1/5, 1/3
+turimą valdymo įmonės akcijų paketą, jei dėl planuojamo akcijų įsigijimo
 
-ar 1/2 ribą arba tiek, kad įmonė taptų jo dukterine įmone (tuo atveju, kai
+asmeniui priklausančių balsavimo teisių ar kapitalo dalis pasiektų arba viršytų
 
-įsigyja juridinis asmuo), turi gauti išankstinį Vertybinių popierių komisijos
+didėjimo tvarka 20, 33 ar 50 procentų, arba įmonė taptų to juridinio asmens
 
-leidimą. Asmens turimi balsai skaičiuojami Vertybinių popierių rinkos įstatymo
-
-16 straipsnyje nustatyta tvarka.
+dukterine įmone, turi gauti išankstinį Vertybinių popierių komisijos sutikimą.
 
 2. Šio
 
-straipsnio 1 dalyje minėtas asmuo turi pateikti Vertybinių popierių komisijai
+straipsnio 1 dalyje minėtas fizinis ar juridinis asmuo turi pateikti Vertybinių
 
-jos nustatyto turinio prašymą, o Vertybinių popierių komisija ne vėliau kaip
+popierių komisijai jos nustatyto turinio prašymą, o Vertybinių popierių
 
-per 3 mėnesius nuo prašymo gavimo dienos turi pranešti jam apie leidimą įsigyti
+komisija ne vėliau kaip per 3 mėnesius nuo prašymo gavimo dienos turi pranešti
 
-akcijų paketą arba atsisakymą leisti jį įsigyti.
+jam apie leidimą įsigyti akcijų paketą arba atsisakymą leisti jį įsigyti.
 
 3. Vertybinių
 
@@ -2834,9 +2870,11 @@ negali įrodyti turto ar lėšų, už kurias įsigyjamos akcijos, legalumo;
 
 3) fizinis asmuo
 
-yra vertybinių popierių biržos, Vertybinių popierių komisijos ar depozitoriumo,
+yra Lietuvos Respublikoje veikiančios reguliuojamos rinkos operatoriaus,
 
-kuris saugo tos valdymo įmonės valdomų pensijų fondų turtą, darbuotojas;
+Vertybinių popierių komisijos ar depozitoriumo, kuris saugo tos valdymo įmonės
+
+valdomų pensijų fondų turtą, darbuotojas;
 
 4) juridinis
 
@@ -2844,39 +2882,43 @@ asmuo nepateikė informacijos apie savo dalyvius, veiklą ar finansinę būklę;
 
 5) išdavus
 
-leidimą, tarp asmenų atsirastų toks glaudus ryšys, kuris būtų pagrindas
+leidimą, tarp fizinių ar juridinių asmenų atsirastų toks glaudus ryšys, kuris
 
-atsisakyti išduoti valdymo įmonės licenciją.
+būtų pagrindas atsisakyti išduoti valdymo įmonės licenciją.
 
 4. Atsisakymas
 
-leisti įsigyti akcijų paketą turi būti motyvuotas raštu ir gali būti skundžiamas
+leisti įsigyti akcijų paketą turi būti motyvuotas raštu ir gali būti
 
-teismui. Jeigu Vertybinių popierių komisija sutinka leisti įsigyti akcijų
+skundžiamas teismui. Jeigu Vertybinių popierių komisija sutinka leisti įsigyti
 
-paketą, ji turi nustatyti ketinimo įvykdymo terminą.
+akcijų paketą, ji turi nustatyti ketinimo įvykdymo terminą.
 
-5. Asmuo, prieš
+5. Fizinis ar
 
-mažindamas savo turimą akcijų dalį tiek, kad turimų balso teisių ar kapitalo
+juridinis asmuo, ketinantis tiesiogiai ar netiesiogiai sumažinti jau turimą
 
-dalis taptų mažesnė kaip 1/10, 1/5, 1/3 ar 1/2 arba tiek, kad valdymo įmonė
+valdymo įmonės akcijų paketą, jei dėl planuojamo akcijų paketo sumažinimo
 
-nustotų buvusi jo dukterine įmone (juridinio asmens atveju), apie tai taip pat
+asmeniui priklausančių balsavimo teisių ar kapitalo dalis taptų mažesnė kaip
 
-turi pranešti Vertybinių popierių komisijai.
+10, 20, 33 ar 50 procentų, arba valdymo įmonė nustotų buvusi to juridinio
+
+asmens dukterine įmone, apie tai taip pat turi pranešti Vertybinių popierių
+
+komisijai.
 
 6. Valdymo
 
-įmonė, sužinojusi apie akcijų paketo, peržengiančio šiame straipsnyje nustatytas
+įmonė, sužinojusi apie akcijų paketo, peržengiančio šiame straipsnyje
 
-ribas, įsigijimą ar perleidimą, apie tai turi nedelsdama informuoti Vertybinių
+nustatytas ribas, įsigijimą ar perleidimą, apie tai turi nedelsdama informuoti
 
-popierių komisiją. Metinė informacija apie asmenis, turinčius akcijų paketus,
+Vertybinių popierių komisiją. Metinė informacija apie asmenis, turinčius akcijų
 
-ir tų paketų dydžius Vertybinių popierių komisijai pateikiama šios nustatyta
+paketus, ir tų paketų dydžius Vertybinių popierių komisijai pateikiama šios
 
-tvarka.
+nustatyta tvarka.
 
 7. Be Vertybinių
 
@@ -2885,6 +2927,12 @@ popierių komisijos leidimo (kai jis buvo reikalingas) akcijų įsigijusio asmen
 turimos akcijos visuotiniame akcininkų susirinkime praranda balso teisę, kol
 
 bus gautas reikiamas leidimas.
+
+Straipsnio pakeitimai:
+
+Nr. X-1587, 2008-06-05,
+
+Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 12 straipsnis.
 
@@ -2960,15 +3008,17 @@ turtas negali būti skolinamas, įkeičiamas, juo negalima garantuoti ar laiduot
 
 kitų asmenų įsipareigojimų. Tai nereiškia, kad draudžiama įsigyti nevisiškai
 
-apmokėtų vertybinių popierių, pinigų rinkos priemonių ar kitų šio Įstatymo 46
+apmokėtų perleidžiamųjų vertybinių popierių, pinigų rinkos priemonių ar kitų
 
-straipsnyje numatytų investavimo objektų.
+šio Įstatymo 46 straipsnyje numatytų investavimo objektų.
 
 3. Pensijų fondo
 
-lėšomis negali būti sudaromi sandoriai dėl vertybinių popierių, pinigų rinkos
+lėšomis negali būti sudaromi sandoriai dėl perleidžiamųjų vertybinių
 
-priemonių ar kitų investicinių priemonių, kurių jis neturi, pardavimo.
+popierių, pinigų rinkos priemonių ar kitų investicinių priemonių, kurių jis
+
+neturi, pardavimo.
 
 4. Valdymo
 
@@ -2978,9 +3028,17 @@ priemonių ar kitų investicinių priemonių, kurių jis neturi, pardavimo.
 
 likvidumui palaikyti. Tai nereiškia draudimo skolintis užsienio valiutą, už
 
-kurią perkami vertybiniai popieriai ar pinigų rinkos priemonės, jei paskolos
+kurią perkami perleidžiamieji vertybiniai popieriai ar pinigų rinkos
 
-grąžinimui užtikrinti paskolos davėjui duodama ne mažesnė suma kita valiuta.
+priemonės, jei paskolos grąžinimui užtikrinti paskolos davėjui duodama ne
+
+mažesnė suma kita valiuta.
+
+Straipsnio pakeitimai:
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 15
 
@@ -3058,9 +3116,9 @@ turinys ir forma turi būti iš anksto suderinti su Vertybinių popierių komisi
 
 Vertybinių popierių komisija privalo uždrausti skelbti neteisingą, klaidinančią
 
-ar neišsamią reklamą ir įpareigoti paneigti, patikslinti ar papildyti jau paskelbtą
+ar neišsamią reklamą ir įpareigoti paneigti, patikslinti ar papildyti jau
 
-tokią reklamą.
+paskelbtą tokią reklamą.
 
 7. Valdymo įmonė
 
@@ -3076,13 +3134,13 @@ pensijų kaupimo veiklą ir (ar) sudarančių pensijų kaupimo sutartis valdymo
 
 įmonės vardu, kvalifikacinius reikalavimus.
 
-8. Teikti
+8. Teikti informaciją
 
-informaciją apie pensijų kaupimo veiklą ir (ar) sudaryti pensijų kaupimo
+apie pensijų kaupimo veiklą ir (ar) sudaryti pensijų kaupimo sutartis valdymo
 
-sutartis valdymo įmonės vardu gali tik nepriekaištingos reputacijos ir pensijų
+įmonės vardu gali tik nepriekaištingos reputacijos ir pensijų kaupimo veiklą
 
-kaupimo veiklą reglamentuojančius teisės aktus išmanantys asmenys.
+reglamentuojančius teisės aktus išmanantys asmenys.
 
 9. Asmenys,
 
@@ -3198,9 +3256,9 @@ priemonė parenkama atsižvelgiant į pažeidimo, kurio pagrindu ji taikoma, tur
 
 ir pažeidimo bei poveikio priemonės taikymo padarinius įmonei, dalyvių
 
-interesams ir finansų sistemos saugumui. Poveikio priemonių taikymo klausimas
+interesams ir finansų sistemos saugumui. Poveikio priemonių taikymo klausimas svarstomas
 
-svarstomas iš anksto apie tai pranešus valdymo įmonei ir sudarius jai galimybes
+iš anksto apie tai pranešus valdymo įmonei ir sudarius jai galimybes
 
 pasiaiškinti. Atstovo neatvykimas į klausimo svarstymą ar paaiškinimų
 
@@ -3276,9 +3334,9 @@ turėtojas per 12 mėnesių nuo licencijos išdavimo nepradeda pensijų kaupimo
 
 veiklos ar daugiau kaip 6 mėnesiams nutraukia šią veiklą.
 
-20 straipsnis. Valdymo įmonės reorganizavimo,
+20 straipsnis. Valdymo įmonės
 
-pertvarkymo proceso ypatumai
+reorganizavimo, pertvarkymo proceso ypatumai
 
 1. Prieš
 
@@ -3466,7 +3524,9 @@ taisykles tvirtina valdymo įmonės valdyba sprendimu. Valdymo įmonė pensijų
 
 kaupimo dalyvių įmokas į pensijų fondą gali pradėti rinkti tik po to, kai
 
-pensijų fondo taisykles patvirtina Vertybinių popierių komisija nusistatyta tvarka.
+pensijų fondo taisykles patvirtina Vertybinių popierių komisija nusistatyta
+
+tvarka.
 
 3. Pensijų fondo taisyklėse turi būti nurodyta:
 
@@ -3768,9 +3828,9 @@ tvarka ir terminai;
 
 7) pensijų išmokų mokėjimo sąlygos;
 
-8) valdymo įmonės atsakomybė už savo
+8) valdymo įmonės atsakomybė už savo įsipareigojimų
 
-įsipareigojimų nevykdymą;
+nevykdymą;
 
 9) sutarties pakeitimo tvarka ir
 
@@ -3900,7 +3960,9 @@ straipsnis. Pensijų turtas
 
 bendroji dalinė nuosavybė. Dalyvio dalis bendrojoje nuosavybėje nustatoma
 
-atsižvelgiant į jo asmeninėje pensijų sąskaitoje įrašytų apskaitos vienetų skaičių.
+atsižvelgiant į jo asmeninėje pensijų sąskaitoje įrašytų apskaitos vienetų
+
+skaičių.
 
 2. Valdymo įmonė pensijų turtą
 
@@ -3922,15 +3984,15 @@ dalyvių prievoles.
 
 5. Po pensijų fondo dalyvio mirties jam
 
-priklausanti pensijų turto dalis paveldima įstatymų nustatyta tvarka. Kai mirusiam
+priklausanti pensijų turto dalis paveldima įstatymų nustatyta tvarka. Kai
 
-pensijų fondo dalyviui priklausiusią pensijų turto dalį paveldi to paties
+mirusiam pensijų fondo dalyviui priklausiusią pensijų turto dalį paveldi to
 
-pensijų fondo dalyvis, pensijų sąskaitoje įrašytai paveldimai turto daliai
+paties pensijų fondo dalyvis, pensijų sąskaitoje įrašytai paveldimai turto
 
-tenkantys apskaitos vienetai į pinigus nekonvertuojami, jeigu pensijų fondo
+daliai tenkantys apskaitos vienetai į pinigus nekonvertuojami, jeigu pensijų
 
-dalyvis raštiškai nereikalauja ko kita.
+fondo dalyvis raštiškai nereikalauja ko kita.
 
 6. Dėl pensijų
 
@@ -4102,13 +4164,13 @@ valdymo įmonėje dieną esančia pensijų fondo, į kurį dalyvis pereina, apsk
 
 vienetų verte. Pensijų fondo, iš kurio dalyvis pereina į kitos valdymo įmonės
 
-valdomą pensijų fondą, valdymo įmonė tam dalyviui priklausančias lėšas
+valdomą pensijų fondą, valdymo įmonė tam dalyviui priklausančias lėšas priimančiajai
 
-priimančiajai valdymo įmonei perveda tik po to, kai dalyvis pensijų kaupimo
+valdymo įmonei perveda tik po to, kai dalyvis pensijų kaupimo sutartį, sudarytą
 
-sutartį, sudarytą su priimančiąja valdymo įmone, pateikia pensijų fondo, iš
+su priimančiąja valdymo įmone, pateikia pensijų fondo, iš kurio jis pereina,
 
-kurio jis pereina, valdymo įmonei.
+valdymo įmonei.
 
 6. Jeigu dalyvis
 
@@ -4214,9 +4276,15 @@ pensijų turtas turi būti realizuotas ir su pensijų fondo dalyviais turi būti
 
 atsiskaityta už jį gautais pinigais. Panaikinto pensijų fondo pensijų turtas
 
-turi būti parduodamas per vertybinių popierių biržą ar aukcione pagal
+turi būti parduodamas reguliuojamoje rinkoje ar aukcione pagal Vertybinių
 
-Vertybinių popierių komisijos nustatytas taisykles.
+popierių komisijos nustatytas taisykles.
+
+Straipsnio pakeitimai:
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 35
 
@@ -4272,9 +4340,9 @@ atitinkamą dokumentą (ar įvykus numatytam juridiniam faktui), ne vėliau kaip
 
 kitą darbo dieną pensijų fondo dalyvio pensijų sąskaitoje įrašytus apskaitos
 
-vienetus konvertuoja į pinigus tos dienos apskaitos vienetų verte ir ne vėliau kaip
+vienetus konvertuoja į pinigus tos dienos apskaitos vienetų verte ir ne vėliau
 
-per 7 darbo dienas juos išmoka arba perveda.
+kaip per 7 darbo dienas juos išmoka arba perveda.
 
 6. Apskaitos vienetai gali būti
 
@@ -4318,23 +4386,23 @@ straipsnis. Pensijų išmokos
 
 pensijų išmokas įgyjama pensijų fondo dalyviui sulaukus pensijų fondo
 
-taisyklėse nurodyto pensinio amžiaus. Jis negali būti daugiau kaip 5 metais
+taisyklėse nurodyto pensinio amžiaus. Jis negali būti daugiau kaip 5 metais mažesnis
 
-mažesnis už pensinį amžių, nustatytą valstybinei socialinio draudimo senatvės
+už pensinį amžių, nustatytą valstybinei socialinio draudimo senatvės pensijai
 
-pensijai gauti.
+gauti.
 
 2. Pensijų
 
 fondo dalyvis, Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės
 
-apsaugos ir darbo ministerijos pripažintas nedarbingu ar iš dalies darbingu
+apsaugos ir darbo ministerijos pripažintas nedarbingu ar iš dalies darbingu (iki
 
-(iki 2005 m. liepos 1 d. – Valstybinės medicininės socialinės ekspertizės
+2005 m. liepos 1 d. – Valstybinės medicininės socialinės ekspertizės komisijos
 
-komisijos pripažintas I arba II grupės invalidu), įgyja teisę į pensijų išmokas
+pripažintas I arba II grupės invalidu), įgyja teisę į pensijų išmokas nuo
 
-nuo darbingumo lygio nustatymo (invalidumo pripažinimo) dienos.
+darbingumo lygio nustatymo (invalidumo pripažinimo) dienos.
 
 3. Pensijų fondo
 
@@ -4428,11 +4496,11 @@ gyvybės draudimą, už jo pensijų sąskaitoje apskaičiuotas sumas.
 
 2. Pensijų
 
-anuitetas įgyjamas pensijų fondo dalyviui pasirašius draudimo sutartį su pensijų
+anuitetas įgyjamas pensijų fondo dalyviui pasirašius draudimo sutartį su
 
-anuitetų mokėtoju. Pensijų anuitetų mokėtoju gali būti tik gyvybės draudimą
+pensijų anuitetų mokėtoju. Pensijų anuitetų mokėtoju gali būti tik gyvybės
 
-vykdanti draudimo įmonė.
+draudimą vykdanti draudimo įmonė.
 
 39
 
@@ -4658,53 +4726,51 @@ TAISYKLĖS
 
 gali sudaryti tik:
 
-1) vertybiniai
+1)
 
-popieriai ar pinigų rinkos priemonės, kuriais prekiaujama rinkose, pagal
+perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės, įtraukti į
 
-Vertybinių popierių rinkos įstatymą laikomose reguliuojamomis ir veikiančiomis
+prekybą rinkoje, kuri pagal Finansinių priemonių rinkų įstatymo 3 straipsnio 30
 
-Lietuvos Respublikoje ar Europos Sąjungos valstybėje;
+dalį laikoma reguliuojama ir veikiančia Lietuvos Respublikoje ar kitoje
 
-2) vertybiniai
+valstybėje narėje, ir (arba)
 
-popieriai ar pinigų rinkos priemonės, kurie yra įtraukti į valstybėje ne
+2)
 
-Europos Sąjungos narėje esančios vertybinių popierių biržos oficialųjį prekybos
+perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės, įtraukti į
 
-sąrašą arba kuriais prekiaujama ten esančioje pripažintoje ir visuomenei prieinamoje
+prekybą kitoje valstybėje (išskyrus valstybes nares) pagal nustatytas
 
-reguliuojamoje rinkoje, veikiančioje pagal nustatytas taisykles, jei ši birža
+taisykles veikiančioje, pripažintoje, prižiūrimoje ir visuomenei prieinamoje
 
-arba rinka yra nurodyta pensijų fondo taisyklėse;
+rinkoje, jei ši rinka yra nurodyta pensijų fondo taisyklėse, ir (arba)
 
 3) išleidžiami
 
-nauji vertybiniai popieriai, jeigu emisijos sąlygose yra numatytas
+nauji perleidžiamieji vertybiniai popieriai, jeigu emisijos sąlygose yra
 
-įsipareigojimas įtraukti šiuos vertybinius popierius į vertybinių popierių
+numatytas įsipareigojimas įtraukti šiuos vertybinius popierius į prekybą reguliuojamoje
 
-biržos oficialųjį prekybos sąrašą ar reguliuojamos rinkos prekybos sąrašą ir
+rinkoje ir jeigu bus įtraukta į prekybą ne vėliau kaip per 1 metus nuo
 
-jeigu įtraukiama į sąrašą bus ne vėliau kaip per 1 metus nuo išleidimo (jei
+išleidimo (jei tokia rinka yra šios dalies 2 punkte nurodytoje valstybėje, ji
 
-tokia birža ar rinka yra šios dalies 2 punkte nurodytoje valstybėje, ji turi
+turi būti nurodyta pensijų fondo taisyklėse), ir (arba)
 
-būti nurodyta pensijų fondo taisyklėse);
+4) ne ilgesniam
 
-4) ne ilgesniam kaip 12 mėnesių terminui
+kaip 12 mėnesių terminui padėti indėliai, kuriuos galima atsiimti pareikalavus,
 
-padėti indėliai, kuriuos galima atsiimti pareikalavus, esantys kredito
+esantys kredito įstaigoje, kurios buveinė yra valstybėje narėje arba kitoje
 
-įstaigose, kurių registruota buveinė yra Lietuvos Respublikoje, Europos
+valstybėje, kurioje riziką ribojanti priežiūra yra ne mažiau griežta nei
 
-Sąjungos valstybėje narėje arba kitoje valstybėje, kurioje riziką ribojanti
-
-priežiūra yra ne blogesnė kaip Europos Sąjungoje;
+Europos Sąjungoje, ir (arba)
 
 5) šio
 
-straipsnio 2 dalyje nurodytos pinigų rinkos priemonės;
+straipsnio 2 dalyje nurodytos pinigų rinkos priemonės ir (arba)
 
 6) šio Įstatymo
 
@@ -4714,7 +4780,7 @@ vienetai ar akcijos.
 
 2. Į pinigų
 
-rinkos priemones, kuriomis reguliuojamoje rinkoje neprekiaujama, leidžiama
+rinkos priemones, kurios nėra įtrauktos į prekybą reguliuojamoje rinkoje, leidžiama
 
 investuoti tik tuo atveju, jei tų priemonių emisija ar emitentas yra
 
@@ -4724,21 +4790,21 @@ priemonės:
 
 1) išleistos
 
-arba garantuotos Europos Sąjungos valstybės narės vyriausybės, regioninės
+arba garantuotos valstybės narės vyriausybės, regioninės valdžios, savivaldybės
 
-valdžios, savivaldybės ar centrinio banko, Europos centrinio banko, Europos
+ar centrinio banko, Europos centrinio banko, Europos Sąjungos ar Europos
 
-Sąjungos ar Europos investicijų banko, valstybės ne Europos Sąjungos narės ar vieno
+investicijų banko, ne valstybės narės ar vieno iš federacinę valstybę
 
-iš federacinę valstybę sudarančių subjektų ar tarptautinės organizacijos,
+sudarančių subjektų ar tarptautinės organizacijos, kuriai priklauso bent viena
 
-kuriai priklauso bent viena Europos Sąjungos valstybė;
+valstybė narė, arba
 
 2) išleistos
 
-subjekto, kurio vertybiniais popieriais prekiaujama šio straipsnio 1 dalies 1
+subjekto, kurio vertybiniai popieriai įtraukti į prekybą šio straipsnio 1
 
-ir 2 punktuose nurodytose reguliuojamose rinkose;
+dalies 1 ir 2 punktuose nurodytose reguliuojamose rinkose, arba
 
 3) išleistos ar
 
@@ -4746,59 +4812,59 @@ garantuotos subjekto, kurio veiklos rizika yra prižiūrima pagal Europos
 
 Sąjungos teisės reikalavimus ar tokius reikalavimus, kurie yra ne mažiau
 
-griežti už nustatytus Europos Sąjungoje;
+griežti už nustatytus Europos Sąjungoje, arba
 
 4) išleistos
 
 Vertybinių popierių komisijos patvirtintus kriterijus atitinkančios įmonės,
 
-kurios kapitalas ir rezervai sudaro mažiausiai 10 milijonų eurų, kuri rengia
+kurios kapitalas ir rezervai sudaro mažiausiai 10 000 000 eurų, kuri rengia
 
-konsoliduotą finansinę atskaitomybę ir atlieka įmonių grupės finansavimo
+konsoliduotas finansines ataskaitas ir atlieka įmonių grupės finansavimo
 
-funkciją, kai bent viena iš jos grupei priklausančių įmonių yra įtraukta į
+funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji
 
-biržos prekybos sąrašus, ar kuri naudojama banko paskolomis finansuojamiems
+vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, ar kuri
 
-vertybiniams popieriams išleisti, o investicijos į tokias priemones apsaugotos
+naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o
 
-ne mažiau, kaip nurodyta šios dalies 1–3 punktuose.
+investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, kaip
+
+nurodyta šios dalies 1–3 punktuose.
 
 3. Pensijų turtas negali būti investuotas į
 
 nekilnojamąjį turtą, tauriuosius metalus arba į suteikiančius į juos teises
 
-vertybinius popierius.
+perleidžiamuosius vertybinius popierius.
 
-4. Pensijų
+4. Pensijų turtas gali būti investuotas į
 
-turtas gali būti investuotas į išvestines investicines priemones tik rizikai
+išvestines finansines priemones tik rizikai valdyti. Valdymo įmonė išvestines
 
-valdyti. Valdymo įmonė išvestines investicines priemones turi teisę naudoti tik
+finansines priemones turi teisę naudoti tik tuo atveju, kai pensijų fondo taisyklėse
 
-tuo atveju, kai pensijų fondo taisyklėse yra nurodyta, kokiomis išvestinėmis
+yra nurodyta, kokiomis išvestinėmis finansinėmis priemonėmis ir kokiais
 
-investicinėmis priemonėmis ir kokiais tikslais valdymo įmonė ketina naudotis.
+tikslais valdymo įmonė ketina naudotis. Kiekviena išvestinė finansinė priemonė
 
-Kiekviena išvestinė investicinė priemonė turi būti pagrįsta konkrečiu investiciniu
+turi būti pagrįsta konkrečiu investiciniu sandoriu (investicine pozicija). Toks
 
-sandoriu (investicine pozicija). Toks sandoris ir jo rizikos valdymui naudojama
+sandoris ir jo rizikos valdymui naudojama išvestinė finansinė priemonė turi
 
-išvestinė investicinė priemonė turi būti nurodyti valdymo įmonės periodinėse
-
-ataskaitose.
+būti nurodyti valdymo įmonės periodinėse ataskaitose.
 
 5. Vertybinių
 
 popierių komisija nustato tvarką, kuria valdymo įmonė, siekdama veiksmingai
 
-valdyti investicinių priemonių portfelį, turi teisę naudoti būdus ir
+valdyti finansinių priemonių portfelį, turi teisę naudoti būdus ir finansines
 
-investicines priemones, susijusias su vertybiniais popieriais ar pinigų rinkos
+priemones, susijusias su perleidžiamaisiais vertybiniais popieriais ar pinigų
 
-priemonėmis. Tokių būdų ar investicinių priemonių naudojimas nereiškia, kad
+rinkos priemonėmis. Tokių būdų ar finansinių priemonių naudojimas nereiškia,
 
-leidžiama nukrypti nuo pensijų fondo taisyklėse nustatytų investavimo tikslų.
+kad leidžiama nukrypti nuo pensijų fondo taisyklėse nustatytų investavimo tikslų.
 
 Straipsnio pakeitimai:
 
@@ -4806,27 +4872,31 @@ Nr. X-622, 2006-05-25,
 
 Žin., 2006, Nr. 65-2386 (2006-06-10)
 
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
+
 47
 
-straipsnis. Investicijų portfelio diversifikavimas
+straipsnis. Finansinių priemonių portfelio diversifikavimas
 
 1. Į vieno
 
-emitento vertybinius popierius ar pinigų rinkos priemones gali būti investuota
+emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones
 
-ne daugiau kaip 5 procentai pensijų turtą sudarančių grynųjų aktyvų, išskyrus
+gali būti investuota ne daugiau kaip 5 procentai pensijų turtą sudarančių
 
-šio straipsnio 2, 5 ir 6 dalyse numatytus atvejus.
+grynųjų aktyvų, išskyrus šio straipsnio 2, 5 ir 6 dalyse numatytus atvejus.
 
 2. Į vieno
 
-emitento vertybinius popierius ar pinigų rinkos priemones gali būti investuota
+emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones
 
-daugiau kaip 5 procentai, bet ne daugiau kaip 10 procentų grynųjų aktyvų, su
+gali būti investuota daugiau kaip 5 procentai, bet ne daugiau kaip 10 procentų
 
-sąlyga, kad tokių investicijų bendra suma nebus didesnė kaip 40 procentų
+grynųjų aktyvų, su sąlyga, kad tokių investicijų bendra suma nebus didesnė kaip
 
-grynųjų aktyvų (šis apribojimas netaikomas indėliams).
+40 procentų grynųjų aktyvų (šis apribojimas netaikomas indėliams).
 
 3. Investicijos
 
@@ -4836,79 +4906,83 @@ pensijų turtą sudarančių grynųjų aktyvų.
 
 4. Bendra
 
-investicijų į vieno asmens išleistus vertybinius popierius, pinigų rinkos
+investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius,
 
-priemones ar indėlius suma negali būti didesnė kaip 20 procentų pensijų turtą
+pinigų rinkos priemones ar indėlius suma negali būti didesnė kaip 20 procentų
 
-sudarančių grynųjų aktyvų.
+pensijų turtą sudarančių grynųjų aktyvų.
 
-5. Investicijos į Lietuvos Respublikos,
+5. Investicijos į valstybės narės ar jos savivaldybių,
 
-Europos Sąjungos valstybės narės ar jų savivaldybių, kitos valstybės ar
+kitos valstybės ar tarptautinės organizacijos, kuriai priklauso bent viena
 
-tarptautinės organizacijos, kuriai priklauso bent viena Europos Sąjungos
+valstybė narė, išleistus arba garantuotus vieno emitento perleidžiamuosius
 
-valstybė, išleistus arba garantuotus vieno emitento vertybinius popierius ar
+vertybinius popierius ar pinigų rinkos priemones negali būti didesnės kaip 35
 
-pinigų rinkos priemones negali būti didesnės kaip 35 procentai pensijų turtą
+procentai pensijų turtą sudarančių grynųjų aktyvų vertės. Vertybinių popierių
 
-sudarančių grynųjų aktyvų. Vertybinių popierių komisija į šioje dalyje
+komisija į šioje dalyje numatytus perleidžiamuosius vertybinius popierius ar
 
-numatytus vertybinius popierius ar pinigų rinkos priemones gali leisti
+pinigų rinkos priemones gali leisti investuoti ir didesnę dalį grynųjų aktyvų,
 
-investuoti ir didesnę dalį grynųjų aktyvų, jei tokiu atveju dalyvių interesai
+jei tokiu atveju dalyvių interesai būtų pakankamai apsaugoti, investuota į ne
 
-būtų pakankamai apsaugoti, investuota į ne mažiau kaip 6 emisijų vertybinius
+mažiau kaip 6 emisijų perleidžiamuosius vertybinius popierius ar pinigų rinkos
 
-popierius ar pinigų rinkos priemones, o į vienos emisijos vertybinius popierius
+priemones, o į vienos emisijos perleidžiamuosius vertybinius popierius ar
 
-ar pinigų rinkos priemones investuota ne daugiau kaip 30 procentų grynųjų
-
-aktyvų.
+pinigų rinkos priemones investuota ne daugiau kaip 30 procentų grynųjų aktyvų.
 
 6. Investicijos į obligacijas, išleistas
 
-tokios Europos Sąjungos valstybėje registruotą buveinę turinčios kredito
+tokios valstybėje narėje registruotą buveinę turinčios kredito įstaigos, kuri,
 
-įstaigos, kuri, siekiant apsaugoti obligacijų savininkų interesus, yra tos
+siekiant apsaugoti obligacijų savininkų interesus, yra tos valstybės specialiai
 
-valstybės specialiai prižiūrima pagal teisės aktus, o iš obligacijų leidimo
+prižiūrima pagal teisės aktus, o iš obligacijų leidimo gauta suma visam
 
-gauta suma visam obligacijų galiojimo laikui investuojama į tokį turtą, kurio
+obligacijų galiojimo laikui investuojama į tokį turtą, kurio pakaktų patenkinti
 
-pakaktų patenkinti obligacijų savininkų reikalavimus, ir iš kurio – emitento
+obligacijų savininkų reikalavimus ir iš kurio – emitento nemokumo atveju –
 
-nemokumo atveju – obligacijų savininkų reikalavimai išmokėti pagrindinę sumą ir
+obligacijų savininkų reikalavimai išmokėti pagrindinę sumą ir palūkanas būtų
 
-palūkanas būtų patenkinti pirmumo teise, negali būti didesnės kaip 25 procentai
+patenkinti pirmumo teise, negali būti didesnės kaip 25 procentai grynųjų
 
-grynųjų aktyvų. Kai į tokias vieno emitento obligacijas investuojama daugiau kaip
+aktyvų. Kai į tokias vieno emitento obligacijas investuojama daugiau kaip 5
 
-5 procentai, bet ne daugiau kaip 25 procentai grynųjų aktyvų, bendra tokių
+procentai, bet ne daugiau kaip 25 procentai grynųjų aktyvų, bendra tokių
 
 investicijų suma negali būti didesnė kaip 80 procentų grynųjų aktyvų.
 
 7. Šio straipsnio 5 ir 6 dalyse numatyti
 
-vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant
+perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi
 
-investicijas, kurioms pagal šio straipsnio 2 dalį taikoma maksimali leistina 40
+skaičiuojant investicijas, kurioms pagal šio straipsnio 2 dalį taikoma
 
-procentų riba. Šio straipsnio 1–6 dalyse numatytos ribos negali būti sudedamos,
+maksimali leistina 40 procentų riba. Šio straipsnio 1–6 dalyse numatytos ribos
 
-todėl investicijų į vieno asmens išleistus vertybinius popierius, pinigų rinkos
+negali būti sudedamos, todėl investicijų į vieno asmens išleistus
 
-priemones, indėlius suma negali būti didesnė kaip 35 procentai pensijų turtą
+perleidžiamuosius vertybinius popierius, pinigų rinkos priemones, indėlius suma
 
-sudarančių grynųjų aktyvų.
+negali būti didesnė kaip 35 procentai pensijų turtą sudarančių grynųjų aktyvų.
 
-8. Į įmonių, priklausančių grupei, kuri turi
+8. Į įmonių,
 
-sudaryti konsoliduotą finansinę atskaitomybę, išleistus vertybinius popierius
+priklausančių grupei, kuri turi sudaryti konsoliduotas finansines ataskaitas,
 
-ir pinigų rinkos priemones gali būti investuota ne daugiau kaip 20 procentų
+išleistus perleidžiamuosius vertybinius popierius ir pinigų rinkos priemones
 
-grynųjų aktyvų.
+gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų.
+
+Straipsnio pakeitimai:
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 48
 
@@ -4932,7 +5006,7 @@ nesuteikiančių emitento akcijų;
 
 2) 10 procentų
 
-visų emitento skolos vertybinių popierių;
+visų emitento obligacijų ir kitų formų ne nuosavybės vertybinių popierių;
 
 3) 10 procentų
 
@@ -4946,19 +5020,25 @@ investavimo subjekto investicinių vienetų arba akcijų.
 
 nustatyto draudimo galima nesilaikyti įsigijimo momentu, jeigu nežinoma bendra
 
-tų vertybinių popierių ar pinigų rinkos priemonių vertė.
+tų perleidžiamųjų vertybinių popierių ar pinigų rinkos priemonių vertė.
 
-4. Šio straipsnio 2 dalies 2 ir 3 punktuose
+4. Šio
 
-numatytos ribos netaikomos valstybės ar savivaldybės išleistiems ar
+straipsnio 2 dalies 2 ir 3 punktuose numatytos ribos netaikomos valstybės ar
 
-garantuotiems vertybiniams popieriams ar pinigų rinkos priemonėms.
+savivaldybės išleistiems ar garantuotiems perleidžiamiesiems vertybiniams
+
+popieriams ar pinigų rinkos priemonėms.
 
 Straipsnio pakeitimai:
 
 Nr. X-622, 2006-05-25,
 
 Žin., 2006, Nr. 65-2386 (2006-06-10)
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 49
 
@@ -4970,51 +5050,43 @@ investuoti į investicinius vienetus ir akcijas tik tokių kolektyvinio
 
 investavimo subjektų, kurie atitinka šias sąlygas:
 
-1) yra licencijuoti Europos Sąjungos
+1) yra
 
-arba Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje ar
+licencijuoti valstybėje narėje arba Ekonominio bendradarbiavimo ir plėtros
 
-tokioje valstybėje, kurioje priežiūra yra ne mažesnė, nei numatyta pagal 1985
+organizacijos valstybėje narėje ar tokioje valstybėje, kurioje priežiūra yra ne
 
-m. gruodžio 20 d. Tarybos direktyvoje 85/611/EEB dėl įstatymų ir kitų teisės
+mažiau griežta, nei numatyta pagal 1985 m. gruodžio 20 d. Tarybos direktyvoje 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio
 
-aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius
+investavimo į perleidžiamus vertybinius popierius subjektais (KIAVPS), derinimo
 
-popierius subjektais (KIAVPS), derinimo (su paskutiniais pakeitimais, nustatytais
+(su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/39/EB) nustatytas taisykles, o Vertybinių popierių
 
-2002 m. sausio 21 d. Europos Parlamento ir Tarybos direktyvomis 2001/107/EB ir
+komisija bendradarbiauja su atitinkama užsienio priežiūros institucija. Tuo
 
-2001/108/EB) nustatytas taisykles, o Vertybinių popierių komisija
+atveju, kai valstybė, kurioje kolektyvinio investavimo subjektas yra
 
-bendradarbiauja su atitinkama užsienio priežiūros institucija. Tuo atveju, kai
+licencijuotas, nėra valstybė narė arba Ekonominio bendradarbiavimo ir plėtros
 
-valstybė, kurioje kolektyvinio investavimo subjektas yra licencijuotas, nėra
+organizacijos valstybė narė, būtinas Vertybinių popierių komisijos ir tokios
 
-Europos Sąjungos arba Ekonominio bendradarbiavimo ir plėtros organizacijos
+valstybės atitinkamos priežiūros institucijos bendradarbiavimas dvišalių
 
-valstybė narė, būtinas Vertybinių popierių komisijos ir tokios valstybės
-
-atitinkamos priežiūros institucijos bendradarbiavimas dvišalių susitarimų
-
-pagrindais;
+susitarimų pagrindais;
 
 2) subjektų
 
 dalyvių teisių apsauga, įskaitant turto atskyrimo, skolinimosi, skolinimo ir
 
-turto, kurio subjektas neturi, pardavimo, reglamentavimą, yra ne
+turto, kurio subjektas neturi, pardavimo, reglamentavimą, yra ne mažiau
 
-mažesnė, nei numatyta pagal 1985 m. gruodžio 20 d. Tarybos direktyvoje
+griežta, nei numatyta pagal 1985 m. gruodžio 20 d. Tarybos direktyvoje
 
 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio
 
 investavimo į perleidžiamus vertybinius popierius subjektais (KIAVPS), derinimo
 
-(su paskutiniais pakeitimais, nustatytais 2002 m. sausio 21 d. Europos
-
-Parlamento ir Tarybos direktyvomis 2001/107/EB ir 2001/108/EB) nustatytas
-
-taisykles;
+(su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/39/EB) nustatytas taisykles;
 
 3) subjektai
 
@@ -5036,19 +5108,13 @@ pensijų fondo grynųjų aktyvų.
 
 3. Bendra
 
-investicijų į kolektyvinio investavimo subjektus, kurie veikia ne pagal 1985 m.
+investicijų į kolektyvinio investavimo subjektus, kurie veikia ne pagal 1985 m. gruodžio 20 d. Tarybos direktyvos 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su
 
-gruodžio 20 d. Tarybos direktyvos 85/611/EEB dėl įstatymų ir kitų teisės aktų,
+kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais
 
-susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius
+(KIAVPS), derinimo (su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/39/EB) nustatytas taisykles,
 
-subjektais (KIAVPS), derinimo (su paskutiniais pakeitimais, nustatytais 2002 m.
-
-sausio 21 d. Europos Parlamento ir Tarybos direktyvomis 2001/107/EB ir
-
-2001/108/EB) nustatytas taisykles, gali būti ne didesnė kaip 30 procentų
-
-pensijų fondo grynųjų aktyvų.
+suma gali būti ne didesnė kaip 30 procentų pensijų fondo grynųjų aktyvų.
 
 4. Tokie
 
@@ -5074,6 +5140,10 @@ Nr. X-622, 2006-05-25,
 
 Žin., 2006, Nr. 65-2386 (2006-06-10)
 
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
+
 50
 
 straipsnis. Laikinas investavimo taisyklių nesilaikymas
@@ -5082,21 +5152,23 @@ straipsnis. Laikinas investavimo taisyklių nesilaikymas
 
 fondas gali nesilaikyti šiame skirsnyje nustatytų investavimo apribojimų, jei
 
-jis pasinaudoja turimų vertybinių popierių ar pinigų rinkos priemonių
+jis pasinaudoja turimų perleidžiamųjų vertybinių popierių ar pinigų rinkos
 
-suteikiama pirmumo teise. Tokiu atveju, taip pat tada, kai investavimo
+priemonių suteikiama pirmumo teise. Tokiu atveju, taip pat tada, kai
 
-taisyklių reikalavimai pažeidžiami dėl priežasčių, nepriklausančių nuo valdymo
+investavimo taisyklių reikalavimai pažeidžiami dėl priežasčių, nepriklausančių
 
-įmonės, neatitikimas turi būti pašalintas kuo greičiau – ne vėliau kaip per 6
+nuo valdymo įmonės, neatitikimas turi būti pašalintas kuo greičiau – ne vėliau
 
-mėnesius.
+kaip per 6 mėnesius.
 
 2. Naujai
 
-sukurto pensijų fondo investicijų portfelis 6 mėnesius nuo pensijų fondo
+sukurto pensijų fondo finansinių priemonių portfelis 6 mėnesius nuo pensijų
 
-taisyklių patvirtinimo gali neatitikti šio Įstatymo 47–49 straipsnių reikalavimų.
+fondo taisyklių patvirtinimo gali neatitikti šio Įstatymo 47–49 straipsnių
+
+reikalavimų.
 
 Straipsnio
 
@@ -5107,6 +5179,10 @@ Nr.
 IX-2270,
 
 2004-06-10, Žin., 2004, Nr. 98-3627 (2004-06-24)
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 ŠEŠTASIS SKIRSNIS
 
@@ -5148,9 +5224,9 @@ pensijų sąskaitoje sukaupto turto dydį bei įmokų mokėjimą, valdymo įmon�
 
 finansinės veiklos audito išvadas, investavimo galimybių pasirinkimą, dabartinį
 
-investicijų portfelį, su investicijomis susijusias rizikas ir išlaidas bei kitą
+finansinių priemonių portfelį, su investicijomis susijusias rizikas ir išlaidas
 
-šio straipsnio 1 dalyje nurodytą informaciją.
+bei kitą šio straipsnio 1 dalyje nurodytą informaciją.
 
 3. Dalyviui
 
@@ -5165,6 +5241,10 @@ Straipsnio pakeitimai:
 Nr. X-622, 2006-05-25,
 
 Žin., 2006, Nr. 65-2386 (2006-06-10)
+
+Nr. X-1587, 2008-06-05,
+
+Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 52
 
@@ -5200,11 +5280,11 @@ mėnesius nuo ataskaitinio pusmečio pabaigos.
 
 2. Vertybinių
 
-popierių komisijos reikalavimu valdymo įmonė privalo parengti nurodyto
+popierių komisijos reikalavimu valdymo įmonė privalo parengti nurodyto laikotarpio
 
-laikotarpio finansines ataskaitas ir pateikti jas Vertybinių popierių komisijai
+finansines ataskaitas ir pateikti jas Vertybinių popierių komisijai šios
 
-šios nustatyta tvarka.
+nustatyta tvarka.
 
 3. Metų
 
@@ -5286,9 +5366,9 @@ straipsnis. Apskaita ir atskaitomybė
 
 1. Valdymo
 
-įmonės nuosavo turto ir pensijų turto buhalterinės apskaitos ir finansinės
+įmonės nuosavo turto ir pensijų turto buhalterinės apskaitos ir finansinės atskaitomybės
 
-atskaitomybės tvarką nustato Vyriausybė ar jos įgaliota institucija.
+tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 2.
 
@@ -5344,7 +5424,7 @@ Vertybinių popierių komisija
 
 popierių komisija priežiūros funkcijas atlieka vadovaudamasi šiuo Įstatymu ir
 
-Vertybinių popierių rinkos įstatymu bei turi šio ir kitų įstatymų numatytas
+Finansinių priemonių rinkų įstatymu bei turi šio ir kitų įstatymų numatytas
 
 teises ir pareigas.
 
@@ -5353,6 +5433,12 @@ teises ir pareigas.
 popierių komisijos veiksmai ar neveikimas skundžiami Administracinių bylų
 
 teisenos įstatymo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 57 straipsnis. Vertybinių popierių
 
@@ -5378,9 +5464,9 @@ valdymo įmonėms licencijas ir jas panaikina;
 
 pensijų fondų taisykles ir jų pakeitimus;
 
-5) stebi, analizuoja,
+5) stebi,
 
-tikrina ir kitaip prižiūri valdymo įmonių bei depozitoriumų veiklą;
+analizuoja, tikrina ir kitaip prižiūri valdymo įmonių bei depozitoriumų veiklą;
 
 6) duoda valdymo
 
@@ -5450,9 +5536,9 @@ ekspertizės įstaigų gauti išvadas;
 
 3) reikalauti
 
-padaryti apskaitos dokumentų, sutarčių, įsakymų ir kitų dokumentų, kuriuos
+padaryti apskaitos dokumentų, sutarčių, įsakymų ir kitų dokumentų, kuriuos Vertybinių
 
-Vertybinių popierių komisija laiko svarbiais tyrimui, kopijas;
+popierių komisija laiko svarbiais tyrimui, kopijas;
 
 4) laikinai
 
@@ -5482,45 +5568,51 @@ straipsnis. Piniginės baudos už Įstatymo pažeidimą
 
 Vertybinių
 
-popierių komisija, vadovaudamasi Vertybinių popierių rinkos įstatymo 62
+popierių komisija, vadovaudamasi Finansinių priemonių rinkų įstatymo 96 straipsnyje
 
-straipsnyje nustatyta tvarka, turi teisę skirti baudas:
+nustatyta tvarka, turi teisę skirti baudas:
 
 1) juridiniams
 
 asmenims, veikiantiems kaip valdymo įmonės, bet neturintiems šio Įstatymo
 
-nustatytos licencijos – iki 200 tūkstančių litų;
+nustatytos licencijos, – iki 200 tūkstančių litų;
 
 2) valdymo
 
 įmonėms, kurios sudaro pensijų kaupimo sutartis neturėdamos patvirtintų pensijų
 
-fondo taisyklių – iki 100 tūkstančių litų;
+fondo taisyklių, – iki 100 tūkstančių litų;
 
-3) valdymo įmonėms,
+3) valdymo
 
-pažeidusioms šiame Įstatyme nustatytą pensijų fondo turto investavimo tvarką,
+įmonėms, pažeidusioms šiame Įstatyme nustatytą pensijų fondo turto investavimo
 
-kai dėl to kyla grėsmė dalyvių turtiniams interesams – iki 300 tūkstančių litų;
+tvarką, kai dėl to kyla grėsmė dalyvių turtiniams interesams, – iki 300
 
-4)
+tūkstančių litų;
 
-juridiniams asmenims, pažeidusiems šiame Įstatyme nustatytą paslaugų siūlymo ar
-
-reklamos tvarką – iki 100 tūkstančių litų;
-
-5) valdymo
+4) valdymo
 
 įmonėms, nevykdančioms arba netinkamai vykdančioms šio Įstatymo 6 straipsnyje
 
-nustatytas pareigas – iki 100 tūkstančių litų.
+nustatytas pareigas, – iki 100 tūkstančių litų;
+
+5) juridiniams
+
+asmenims, pažeidusiems kitus šio Įstatymo reikalavimus, – iki 100 tūkstančių
+
+litų.
 
 Straipsnio pakeitimai:
 
 Nr. X-622, 2006-05-25,
 
 Žin., 2006, Nr. 65-2386 (2006-06-10)
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
 
 Skelbiu šį Lietuvos Respublikos
 
@@ -5542,9 +5634,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
+Nr. IX-195, 2001 03 01, Žin., 2001, Nr. 25-825
 
-25-825 (2001 03 23)
+(2001 03 23)
 
 PENSIJŲ
 
@@ -5594,7 +5686,7 @@ PENSIJŲ FONDŲ ĮSTATYMO PAKEITIMO
 
 ĮSTATYMAS
 
-Nauja įstatymo redakcija nuo 2003 m. liepos 30 d.
+Nauja įstatymo redakcija
 
 Keistas įstatymo pavadinimas
 
@@ -5632,9 +5724,7 @@ PENSIJŲ SISTEMOS REFORMOS
 
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-Šis įstatymas įsigalioja nuo 2005
-
-m. sausio 1 d.
+Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
 6.
 
@@ -5652,13 +5742,29 @@ KAUPIMO ĮSTATYMO 2, 10, 15, 16, 23, 27, 28, 29, 30, 32, 35, 36, 37, 42, 44, 46,
 
 48, 49, 51, 53, 54, 59 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+7.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-1587,
+
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
+
+PAPILDOMO SAVANORIŠKO PENSIJŲ
+
+KAUPIMO ĮSTATYMO 2, 3, 4, 6, 7, 8, 10, 11, 14, 34, 46, 47, 48, 49, 50, 51, 56,
+
+59 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-06-13)
+Aušrinė Trapinskienė (2008-06-28)
 
 autrap@lrs.lt
 
