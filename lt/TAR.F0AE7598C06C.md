@@ -4,7 +4,7 @@ identifier: "TAR.F0AE7598C06C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-04"
-last_updated: "2006-09-21"
+last_updated: "2008-06-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F0AE7598C06C"
 department: "Lietuvos Respublikos Seimas"
@@ -95,7 +95,7 @@ pakeitimai:
 
 Nr. VIII-1293,
 
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
 
 Nr.
 
@@ -213,13 +213,13 @@ nustatytas paslaugas.
 
 disponuojamą turtą, kuris nesudaro įmonės savininko kapitalo arba pagal
 
-įstatymus nėra priskiriamas turtui, kuris gali būti tik valstybės nuosavybė, Turto
+įstatymus nėra priskiriamas turtui, kuris gali būti tik valstybės nuosavybė,
 
-fondas gali perduoti nuosavybėn kitiems fiziniams ar juridiniams asmenims pagal
+Turto fondas gali perduoti nuosavybėn kitiems fiziniams ar juridiniams asmenims
 
-Valstybės ir savivaldybių turto privatizavimo įstatymą, Vertybinių popierių
+pagal Valstybės ir savivaldybių turto privatizavimo įstatymą, Vertybinių
 
-rinkos įstatymą ar Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
+popierių įstatymą ar Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
 
 atkūrimo įstatymą.
 
@@ -229,7 +229,7 @@ pakeitimai:
 
 Nr. VIII-1293,
 
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
 
 Nr.
 
@@ -252,6 +252,10 @@ IX-2366,
 Nr. X-820, 2006-09-21,
 
 Žin., 2006, Nr. 108-4090 (2006-10-11)
+
+Nr. X-1591,
+
+2008-06-05, Žin., 2008, Nr. 71-2717 (2008-06-21)
 
 6 straipsnis.
 
@@ -321,13 +325,13 @@ parengia ir tvirtina Turto fondo vadovo, jo pavaduotojų ir vyriausiojo
 
 buhalterio darbo užmokesčio nustatymo ir skatinimo taisykles;
 
-11) nustato Turto fondo metinių atskaitymų
+11) nustato Turto fondo metinių
 
-į privalomąjį rezervą dydį;
+atskaitymų į privalomąjį rezervą dydį;
 
-12) tvirtina Turto fondo darbuotojų
+12) tvirtina Turto fondo darbuotojų užmokesčio
 
-užmokesčio nustatymo ir skatinimo taisykles;
+nustatymo ir skatinimo taisykles;
 
 13) atlieka kitas Valstybės ir
 
@@ -365,7 +369,7 @@ pakeitimai:
 
 Nr. VIII-1293,
 
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
 
 Nr.
 
@@ -447,11 +451,9 @@ neatlygintiną paramą.
 
 akcinėse bendrovėse ir uždarosiose akcinėse bendrovėse išlaidoms apmokėti;
 
-2) Turto fondo veiklai reikalingų
+2) Turto fondo veiklai reikalingų paslaugų,
 
-paslaugų, prekių bei įrenginių įsigijimo išlaidoms ir atliktiems darbams
-
-apmokėti;
+prekių bei įrenginių įsigijimo išlaidoms ir atliktiems darbams apmokėti;
 
 3) Turto fondo rezervui, kuris skiriamas
 
@@ -467,9 +469,7 @@ užmokesčiui;
 
 6) Turto fondo darbuotojams skatinti.
 
-5. (Neteko galios nuo 2006 m. spalio 11
-
-d.)
+5. (Neteko galios nuo 2006 m. spalio 11 d.)
 
 Straipsnio
 
@@ -477,7 +477,7 @@ pakeitimai:
 
 Nr. VIII-1293,
 
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
 
 Nr.
 
@@ -543,7 +543,7 @@ pakeitimai:
 
 Nr. VIII-1293,
 
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
 
 10 straipsnis. (Neteko galios
 
@@ -555,7 +555,7 @@ pakeitimai:
 
 Nr. VIII-1293,
 
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
 
 Nr. X-820, 2006-09-21,
 
@@ -623,9 +623,7 @@ neperduodamos.
 
 Įstatymo įgyvendinimas
 
-Pasiūlyti Vyriausybei iki 1998 m. sausio
-
-1 d. parengti ir priimti teisės aktus, kurių reikia šiam įstatymui įgyvendinti.
+Pasiūlyti Vyriausybei iki 1998 m. sausio 1 d. parengti ir priimti teisės aktus, kurių reikia šiam įstatymui įgyvendinti.
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -645,15 +643,15 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-1293,
+Nr. VIII-1293, 1999.07.07,
 
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+Žin., 1999, Nr. 66-2116 (1999.07.30)
 
 LIETUVOS
 
-RESPUBLIKOS VALSTYBĖS TURTO FONDO ĮSTATYMO 3, 5, 6, 8, 9, 10 STRAIPSNIŲ PAKEITIMO
+RESPUBLIKOS VALSTYBĖS TURTO FONDO ĮSTATYMO 3, 5, 6, 8, 9, 10 STRAIPSNIŲ
 
-IR PAPILDYMO ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 2.
 
@@ -721,13 +719,29 @@ TURTO FONDO ĮSTATYMO 1, 5, 6, 8 STRAIPSNIŲ PAKEITIMO IR 10 STRAIPSNIO
 
 PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1591,
+
+2008-06-05, Žin., 2008, Nr. 71-2717 (2008-06-21)
+
+VALSTYBĖS
+
+TURTO FONDO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2006-10-12)
+Aušrinė Trapinskienė (2008-06-26)
 
 autrap@lrs.lt
 
