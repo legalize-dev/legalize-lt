@@ -4,7 +4,7 @@ identifier: "TAR.CDC433E7BED2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-07-07"
-last_updated: "2004-06-15"
+last_updated: "2008-06-21"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2"
 department: "Lietuvos Respublikos Seimas"
@@ -101,9 +101,11 @@ Litus į užsienio
 
 valiutą, užsienio valiutą į litus ar vieną užsienio valiutą į kitą užsienio
 
-valiutą keičia (perka, parduoda) tik kredito įstaigos, turinčios tokiai veiklai
+valiutą keičia (perka, parduoda) kredito įstaigos, turinčios tokiai veiklai
 
-įstatymų nustatyta tvarka išduotus leidimus (licencijas).
+įstatymų nustatyta tvarka išduotus leidimus (licencijas), ir finansų maklerio
+
+įmonės, kai tai yra susiję su investicinių paslaugų teikimu.
 
 Lietuvos bankas
 
@@ -170,6 +172,10 @@ Nr.
 IX-2273,
 
 2004-06-15, Žin., 2004, Nr. 98-3629 (2004-06-24)
+
+Nr. X-1590,
+
+2008-06-05, Žin., 2008, Nr. 71-2716 (2008-06-21)
 
 4
 
@@ -433,11 +439,9 @@ Visų nuosavybės formų
 
 įstatinio kapitalo dalį, turimą užsienio valiuta, taip pat akcijas, dividendus,
 
-tantjemas, draudimo atlyginimą, draudimo sumas ir kitas išmokas 1993 m.
+tantjemas, draudimo atlyginimą, draudimo sumas ir kitas išmokas 1993 m. rugpjūčio 1 dienos duomenimis pagal Lietuvos banko nustatytą oficialų kursą arba kita
 
-rugpjūčio 1 dienos duomenimis pagal Lietuvos banko nustatytą oficialų kursą
-
-arba kita Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -449,9 +453,7 @@ Nr. IX-1140,
 
 straipsnis. Įstatymo įsigaliojimas
 
-Įstatymas įsigalioja 1993 m.
-
-rugpjūčio 1 dieną.
+Įstatymas įsigalioja 1993 m. rugpjūčio 1 dieną.
 
 Skelbiu šį Lietuvos
 
@@ -525,9 +527,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-552, 97.12.02,
+VIII-552,
 
-Žin., 1997, Nr.114-2871 (97.12.12)
+97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
 
 LIETUVOS
 
@@ -611,7 +613,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-2273,
+Nr.
+
+IX-2273,
 
 2004-06-15, Žin., 2004, Nr. 98-3629 (2004-06-24)
 
@@ -619,15 +623,31 @@ UŽSIENIO
 
 VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1590,
+
+2008-06-05, Žin., 2008, Nr. 71-2716 (2008-06-21)
+
+UŽSIENIO
+
+VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušra Bodin (2004-06-25)
+Aušrinė Trapinskienė (2008-06-27)
 
-aubodi@lrs.lt
+autrap@lrs.lt
 
 6 straipsnis.
 
