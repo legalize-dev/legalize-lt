@@ -4,7 +4,7 @@ identifier: "TAR.620BB9BF5982"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-05-23"
-last_updated: "2008-04-30"
+last_updated: "2008-06-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.620BB9BF5982"
 department: "Lietuvos Respublikos Seimas"
@@ -473,7 +473,7 @@ Pagal šio straipsnio 3 dalį šio įstatymo 1 straipsnyje išdėstyto Teismų
 
 įstatymo 119 straipsnio nustatyta tvarka sudarytos Teisėjų tarybos
 
-įgaliojimai tęsiasi iki 2008 m. liepos 1 d.
+įgaliojimai tęsiasi iki 2008 m. gruodžio 31 d.
 
 5.
 
@@ -481,7 +481,7 @@ Teismų įstatyme vartojamą sąvoką „Teismų taryba“ pakeisti sąvoka „T
 
 taryba“.
 
-Straipsnio pakeitimas:
+Straipsnio pakeitimai:
 
 Nr. X-985, 2006-12-14, Žin., 2006, Nr.
 
@@ -498,6 +498,10 @@ Nr. X-1363,
 Nr. X-1515,
 
 2008-04-29, Žin., 2008, Nr. 51-1880 (2008-04-30)
+
+Nr. X-1641,
+
+2008-06-26, Žin., 2008, Nr. 73-2799 (2008-06-27)
 
 Skelbiu šį
 
@@ -539,9 +543,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1211, 2007-06-26,
+X-1211,
 
-Žin., 2007, Nr. 72-2835 (2007-06-30)
+2007-06-26, Žin., 2007, Nr. 72-2835 (2007-06-30)
 
 TEISMŲ
 
@@ -557,9 +561,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1363, 2007-12-11,
+X-1363,
 
-Žin., 2007, Nr. 135-5455 (2007-12-21)
+2007-12-11, Žin., 2007, Nr. 135-5455 (2007-12-21)
 
 TEISMŲ
 
@@ -585,13 +589,31 @@ TEISMŲ
 
 ĮSTATYMAS
 
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1641,
+
+2008-06-26, Žin., 2008, Nr. 73-2799 (2008-06-27)
+
+TEISMŲ
+
+ĮSTATYMO 119, 120 IR 121 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2008-04-30)
+Aušrinė Trapinskienė (2008-06-30)
 
 autrap@lrs.lt
 
