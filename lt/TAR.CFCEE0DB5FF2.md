@@ -4,7 +4,7 @@ identifier: "TAR.CFCEE0DB5FF2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-12"
-last_updated: "2004-02-28"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CFCEE0DB5FF2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2004-02-28 iki 2008-06-30
+Suvestinė redakcija nuo 2008-07-01 iki 2010-04-26
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2143, i. k. 0961010ISTA00I-1516
 
@@ -39,7 +39,11 @@ Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas tik įsta
 
 3 straipsnis. Zonos teritorija
 
-1. Zonos teritorija užima 205 ha.
+1. Zonos teritorija užima 412 ha.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1613, 2008-06-17, Žin., 2008, Nr. 74-2863 (2008-06-30), i. k. 1081010ISTA00X-1613
 
 2. Zonos teritorija ne aukciono būdu Civilinio kodekso, Žemės įstatymo bei šio įstatymo nustatytomis sąlygomis ir tvarka išnuomojama zonos valdymo bendrovei (pasibaigus zonos veiklos laikotarpiui – jos teisių ir pareigų perėmėjui) 99 metams. Zonos valdymo bendrovė turi teisę žemės nuomos mokestį Lietuvos Respublikos Vyriausybės arba jos įgaliotos valstybės institucijos nustatyta tvarka sumokėti iš anksto už visą nuomos laikotarpį ar jo dalį. Jeigu zonos valdymo bendrovė iš anksto sumokėjo žemės nuomos mokestį, o vėliau pasikeitė žemės vertė, pagal kurią skaičiuojamas žemės nuomos mokesčio dydis, ar žemės nuomos mokesčio tarifas, ar kitoks žemės nuomos mokesčio skaičiavimo pagrindas, žemės nuomos mokesčio dydis už laikotarpį, už kurį žemės nuomos mokestis sumokėtas iš anksto, nekeičiamas. Pasibaigus zonos veiklos terminui, nurodytam šio įstatymo 2 straipsnyje,  išnuomotos zonos teritorijos nuomos sutartis lieka galioti likusiam nuomos laikotarpiui, o zonos teritorijos nuomininku lieka zonos valdymo bendrovė ar jos teisių ir pareigų perėmėjas.
 
@@ -49,15 +53,11 @@ Nr. IX-2015, 2004-02-12, Žin., 2004, Nr. 32-1007 (2004-02-28), i. k. 1041010IST
 
 4 straipsnis. Zonos teritorijos ribos
 
-Nustatomos šios zonos teritorijos ribos:
+Zonos teritorijos ribas nustato Lietuvos Respublikos Vyriausybė.
 
-1) šiaurinė riba – Baltijos prospekto tęsinio rytinė pusė, UAB „Philip Morris Lietuva“ teritorijos riba;
+Straipsnio pakeitimai:
 
-2) rytinė riba – krašto kelio Nr. 141 Kaunas–Jurbarkas– Šilutė–Klaipėda žemės naudojimo riba;
-
-3) pietinė riba – AB „Klaitra“ teritorijos šiaurinė riba, sutampa su Klaipėdos miesto administracine riba;
-
-4) vakarinė riba – VĮ „Lietuvos geležinkeliai“ geležinkelio ruožo Nr.19 Černiachovskas-Priekulė žemės naudojimo riba.
+Nr. X-1613, 2008-06-17, Žin., 2008, Nr. 74-2863 (2008-06-30), i. k. 1081010ISTA00X-1613
 
 5 straipsnis. Zonos veiklos rūšys
 
@@ -250,4 +250,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2015, 2004-02-12, Žin., 2004, Nr. 32-1007 (2004-02-28), i. k. 1041010ISTA0IX-2015
 
 Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 3, 6 ir 7 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1613, 2008-06-17, Žin., 2008, Nr. 74-2863 (2008-06-30), i. k. 1081010ISTA00X-1613
+
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
 
