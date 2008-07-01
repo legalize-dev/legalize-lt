@@ -4,7 +4,7 @@ identifier: "TAR.7690C98816CA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-01"
-last_updated: "2007-12-15"
+last_updated: "2008-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 department: "Lietuvos Respublikos Seimas"
@@ -2271,123 +2271,47 @@ viršijant nustatytą darbo trukmę, atlikimą, taip pat darbą naktį, poilsio 
 
 sąlygomis mokamos Valstybės tarnybos įstatymo nustatyta tvarka.
 
-6 dalies redakcija iki 2008 m. sausio 1 d.:
+6. Laikinojo
 
-6.
+nedarbingumo laikotarpiu bei nėštumo ir gimdymo atostogų laikotarpiu tarnybos
 
-Laikinojo nedarbingumo laikotarpiu bei nėštumo ir gimdymo atostogų laikotarpiu
+pareigūnams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų
 
-tarnybos pareigūnams mokamas Vyriausybės nustatyta tvarka apskaičiuotas
+darbo užmokestis, o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir
 
-vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam sueis vieni metai,
+gimdymo atostogų pabaigos už kiekvieną vaiką, kol vaikui sueis vieni
 
-atostogų laikotarpiu – 70 procentų šia tvarka apskaičiuoto vidutinio jų darbo
+metai, – 100 procentų, o kol vaikui sueis dveji metai, – 85 procentai
 
-užmokesčio. Nuo 2006 m. rugsėjo 1 d. vaiko priežiūros, kol jam sueis vieni metai,
+Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų darbo užmokesčio.
 
-atostogų laikotarpiu tarnybos pareigūnams mokama 85 procentai Vyriausybės
+Išmokos vaiko priežiūros atostogų laikotarpiu mokamos neatsižvelgiant į tai,
 
-nustatyta tvarka apskaičiuoto vidutinio jų darbo užmokesčio, nuo 2007 m. liepos
+kurio vaiko priežiūrai suteiktos vaiko priežiūros atostogos. Jeigu tarnybos
 
-1 d. šios išmokos dydis nuo nėštumo ir gimdymo atostogų pabaigos, kol vaikui
+pareigūnui gimsta du ir daugiau vaikų ir jis yra šių vaikų priežiūros
 
-sueis 6 mėnesiai, yra 100 procentų, o likusį laiką – 85 procentai Vyriausybės
+atostogose, jam apskaičiuotas vidutinis darbo užmokestis didinamas
 
-nustatyta tvarka apskaičiuoto vidutinio jų darbo užmokesčio. Tarnybos
+atsižvelgiant į vienu metu gimusių vaikų skaičių (gimus dvynukams – 2 kartus,
 
-pareigūnams, jeigu gimsta du ir daugiau vaikų, vaiko priežiūros, kol jam sueis
+gimus trynukams – 3 kartus ir
 
-vieni metai, atostogų laikotarpiu mokamas Vyriausybės nustatyta tvarka
+t. t.). Išmoka už nėštumo ir gimdymo laikotarpį didinama tokia pat tvarka. Kai
 
-apskaičiuotas vidutinis jų darbo užmokestis.
-
-6 dalies redakcija nuo 2008 m. sausio 1 d.:
-
-6. Laikinojo nedarbingumo
-
-laikotarpiu bei nėštumo ir gimdymo atostogų laikotarpiu tarnybos pareigūnams
-
-mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų darbo
-
-užmokestis, o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir gimdymo
-
-atostogų pabaigos, kol vaikui sueis vieni metai, – 100 procentų, o kol vaikui
-
-sueis dveji metai, – 85 procentai Vyriausybės nustatyta tvarka apskaičiuoto
-
-vidutinio jų darbo užmokesčio. Jeigu tarnybos pareigūnui gimsta du ir daugiau
-
-vaikų ir jis yra šių vaikų priežiūros atostogose, jam apskaičiuotas vidutinis
-
-darbo užmokestis didinamas atsižvelgiant į vienu metu gimusių vaikų skaičių
-
-(gimus dvynukams – 2 kartus, gimus trynukams – 3 kartus ir t. t.). Išmoka už
-
-nėštumo ir gimdymo laikotarpį didinama tokia pat tvarka. Kai tarnybos
-
-pareigūnei, gaunančiai išmoką vaiko priežiūros atostogų laikotarpiu,
+tarnybos pareigūnei, gaunančiai išmoką vaiko priežiūros atostogų laikotarpiu,
 
 suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti išmoką nėštumo
 
 ir gimdymo atostogų laikotarpiu, jai mokamos abi šios išmokos.
 
-7 dalies redakcija iki 2008 m. sausio 1 d.:
-
-7.
-
-Tėvystės atostogų laikotarpiu tarnybos pareigūnams mokamas Vyriausybės
-
-nustatyta tvarka apskaičiuotas vidutinis jų darbo užmokestis, jeigu jie gyvena
-
-santuokoje su kūdikio motina.
-
-Straipsnis papildomas nauja 7 dalimi, buvusi 7
-
-dalis laikoma 8 dalimi ir ji pakeičiama nuo 2008 m. sausio 1 d.:
-
-7. Jeigu
-
-tarnybos pareigūnas, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol
-
-vaikui sueis dveji metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį
-
-darbo užmokestį, nurodytą šio straipsnio 6 dalyje, laikotarpiu, kol vaikui
-
-sueis dveji metai, jam mokamas šio vidutinio darbo užmokesčio ir jo gaunamo
-
-atitinkamo mėnesio darbo užmokesčio skirtumas.
+7. Jeigu tarnybos pareigūnas, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui sueis dveji metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį darbo užmokestį (bendrą vidutinių darbo užmokesčių sumą), nurodytą šio straipsnio 6 dalyje, laikotarpiu, kol vaikui sueis dveji metai, jam mokamas šio vidutinio darbo užmokesčio (bendros jų sumos) ir jo gaunamo atitinkamo mėnesio darbo užmokesčio skirtumas.
 
 8. Tėvystės
 
 atostogų laikotarpiu tarnybos pareigūnui mokamas Vyriausybės nustatyta tvarka
 
 apskaičiuotas vidutinis jo darbo užmokestis, jeigu jis pripažino tėvystę.
-
-Pastaba. Įsigaliojus
-
-šiam įstatymui Nr.
-
-X-1340, Specialiųjų
-
-tyrimų tarnybos pareigūnams iki tol mokamas vidutinis darbo užmokestis pagal
-
-Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30 straipsnio 6
-
-dalį, vadovaujantis šio įstatymo nuostatomis, atitinkamai perskaičiuojamas,
-
-padidinamas ir (ar) pratęsiamas jo mokėjimo laikotarpis.
-
-Vaiko priežiūros
-
-atostogose esantiems Specialiųjų tyrimų tarnybos pareigūnams (nepaisant to, ar
-
-vaiko priežiūros atostogos tęsiamos, ar suteikiamos iš naujo), kuriems
-
-vidutinio darbo užmokesčio mokėjimo laikas buvo pasibaigęs, nes vaikui
-
-(vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu
-
-vaikui (vaikams) dar nėra suėję dveji metai.
 
 Straipsnio pakeitimai:
 
@@ -2397,9 +2321,9 @@ Nr. X-121, 2005-02-15,
 
 Nr.
 
-X-664,
+X-664, 2006-06-08,
 
-2006-06-08, Žin., 2006, Nr. 72-2680 (2006-06-28)
+Žin., 2006, Nr. 72-2680 (2006-06-28)
 
 Nr. X-758, 2006-07-11,
 
@@ -2408,6 +2332,12 @@ Nr. X-758, 2006-07-11,
 Nr. X-1340,
 
 2007-12-04, Žin., 2007, Nr. 132-5348 (2007-12-15)
+
+Nr.
+
+X-1620,
+
+2008-06-17, Žin., 2008, Nr. 74-2866 (2008-06-30)
 
 31
 
@@ -2555,9 +2485,9 @@ nuosavybės teise jiems priklausančio buto (namo, jo dalies), Specialiųjų tyr
 
 tarnybos direktoriaus nustatyta tvarka gali būti kompensuojamos
 
-gyvenamųjų patalpų nuomos išlaidos: gali būti mokama ne didesnė kaip 3 minimaliųjų
+gyvenamųjų patalpų nuomos išlaidos: gali būti mokama ne didesnė kaip 3
 
-gyvenimo lygių išmoka per mėnesį.
+minimaliųjų gyvenimo lygių išmoka per mėnesį.
 
 34
 
@@ -2799,13 +2729,31 @@ metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar
 
 nėra suėję dveji metai.
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1620, 2008-06-17,
+
+Žin., 2008, Nr. 74-2866 (2008-06-30)
+
+SPECIALIŲJŲ
+
+TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2008 m. liepos 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2007-12-18)
+Aušrinė Trapinskienė (2008-07-02)
 
 autrap@lrs.lt
 
