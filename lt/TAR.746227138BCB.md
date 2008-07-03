@@ -4,7 +4,7 @@ identifier: "TAR.746227138BCB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-01"
-last_updated: "2007-12-29"
+last_updated: "2008-07-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.746227138BCB"
 department: "Lietuvos Respublikos Seimas"
@@ -225,15 +225,13 @@ IR VYRŲ LYGIŲ TEISIŲ ĮGYVENDINIMAS
 
 3
 
-straipsnis. Valdžios ir valdymo institucijų pareiga įgyvendinti moterų ir vyrų
+straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų pareiga įgyvendinti
 
-lygias
+moterų ir vyrų lygias teises
 
-teises
+Valstybės ir savivaldybių institucijos
 
-Valdžios ir valdymo institucijos pagal
-
-kompetenciją privalo:
+ir įstaigos pagal kompetenciją privalo:
 
 1) užtikrinti, kad visuose jų rengiamuose ir
 
@@ -241,13 +239,13 @@ priimamuose teisės aktuose būtų įtvirtintos lygios moterų ir vyrų teisės;
 
 2) rengti ir įgyvendinti programas ir
 
-priemones, skirtas moterų ir vyrų lygių galimybių užtikrinimui;
+priemones, skirtas moterų ir vyrų lygioms galimybėms užtikrinti;
 
-3) įstatymų nustatyta tvarka remti
+3) įstatymų
 
-viešųjų įstaigų, asociacijų ir labdaros fondų programas, kurios padeda
+nustatyta tvarka remti viešųjų įstaigų, asociacijų ir labdaros fondų programas,
 
-įgyvendinti moterų ir vyrų lygias galimybes.
+kurios padeda įgyvendinti moterų ir vyrų lygias galimybes.
 
 Straipsnio pakeitimai:
 
@@ -258,6 +256,10 @@ Nr. IX-956,
 Nr. X-1380,
 
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
+
+Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+
+(2008-07-03)
 
 4
 
@@ -345,9 +347,9 @@ Nr. X-304, 2005-07-05,
 
 Žin., 2005, Nr. 88-3281 (2005-07-21)
 
-Nr. X-1380,
+Nr. X-1380, 2007-12-18,
 
-2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
+Žin., 2007, Nr. 140-5755 (2007-12-29)
 
 5(1) straipsnis. Moterų ir vyrų lygių
 
@@ -369,11 +371,11 @@ vienodos vertės gaminius, prekes ir paslaugas;
 
 apie gaminius, prekes ir paslaugas arba jas reklamuodamas, užtikrinti, kad joje
 
-nebūtų išreiškiamas pažeminimas, paniekinimas arba teisių apribojimas ar privilegijų
+nebūtų išreiškiamas pažeminimas, paniekinimas arba teisių apribojimas ar
 
-teikimas dėl asmens lyties bei formuojamos visuomenės nuostatos, kad viena
+privilegijų teikimas dėl asmens lyties bei formuojamos visuomenės nuostatos,
 
-lytis pranašesnė už kitą.
+kad viena lytis pranašesnė už kitą.
 
 Įstatymas papildytas straipsniu:
 
@@ -473,9 +475,11 @@ pat ar vienodos vertės darbą sąlygas;
 
 darbuotojui blogesnes (geresnes) darbo sąlygas;
 
-3) skiria darbuotojui drausminę nuobaudą,
+3) skiria darbuotojui drausminę
 
-keičia darbo sąlygas, perkelia į kitą darbą arba nutraukia darbo sutartį;
+nuobaudą, keičia darbo sąlygas, perkelia į kitą darbą arba nutraukia darbo
+
+sutartį;
 
 4) persekioja
 
@@ -665,9 +669,9 @@ konsultacijas.
 
 išvadas dėl šio įstatymo įgyvendinimo, taip pat pasiūlymus Lietuvos Respublikos
 
-valdžios ir valdymo institucijoms dėl teisės aktų tobulinimo ir lygių teisių
+valstybės ir savivaldybių institucijoms ir įstaigoms dėl teisės aktų
 
-įgyvendinimo politikos prioritetų.
+tobulinimo ir lygių teisių įgyvendinimo politikos prioritetų.
 
 3. Lygių galimybių kontrolierius keičiasi
 
@@ -689,6 +693,10 @@ Nr. X-1380,
 
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
 
+Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+
+(2008-07-03)
+
 13 straipsnis.
 
 Lygių galimybių kontrolieriui keliami reikalavimai
@@ -699,13 +707,17 @@ skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis
 
 aukštąjį teisinį išsilavinimą ir ne mažesnį kaip penkerių metų teisinio darbo
 
-arba darbo valstybės valdžios bei valdymo institucijose stažą.
+arba darbo valstybės ir savivaldybių institucijose ir įstaigose stažą.
 
 Straipsnio pakeitimai:
 
 Nr. X-304, 2005-07-05,
 
 Žin., 2005, Nr. 88-3281 (2005-07-21)
+
+Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+
+(2008-07-03)
 
 14 straipsnis.
 
@@ -1007,9 +1019,9 @@ veiksmų buvimo ar nebuvimo faktą;
 
 aplinkybėmis sprendimai arba veiksmai padaryti;
 
-3) ar skunde minimi sprendimai arba veiksmai
+3) ar skunde minimi sprendimai arba
 
-prieštarauja įstatymams bei kitiems teisės aktams;
+veiksmai prieštarauja įstatymams bei kitiems teisės aktams;
 
 4) kas padarė pažeidimą, dėl kokių
 
@@ -1097,9 +1109,9 @@ ar panaikinamas;
 
 6) įspėti dėl padaryto pažeidimo;
 
-7) laikinai sustabdyti tyrimą, jei asmuo, kurio
+7) laikinai sustabdyti tyrimą, jei asmuo, kurio skundas
 
-skundas ar apskundžiami veiksmai tiriami, serga arba yra išvykęs;
+ar apskundžiami veiksmai tiriami, serga arba yra išvykęs;
 
 8) laikinai, kol bus priimtas galutinis
 
@@ -1509,13 +1521,29 @@ PRIEDO PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 5(2) IR 7(2) STRAIPSNIAIS
 
 ĮSTATYMAS
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
+
+MOTERŲ
+
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 3, 12, 13, 25 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO
+
+PAPILDYMO 5(3), 7(3) STRAIPSNIAIS ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2008-01-10)
+Aušrinė Trapinskienė (2008-07-04)
 
 autrap@lrs.lt
 
@@ -1599,9 +1627,9 @@ kaip 120 kalendorinių dienų iš eilės arba daugiau kaip 140 kalendorinių die
 
 per paskutiniuosius dvylika mėnesių;
 
-4) kai jam įsiteisėja apkaltinamasis teismo
+4) kai jam įsiteisėja apkaltinamasis
 
-nuosprendis;
+teismo nuosprendis;
 
 5) kai Lietuvos Respublikos Seimas
 
@@ -1641,13 +1669,13 @@ PRIĖMIMAS IR TYRIMAS
 
 Lygių galimybių kontrolieriaus reikalavimų privalomumas
 
-1. Valdžios ir valdymo institucijos,
+1. Valstybės ir savivaldybių
 
-įmonės, įstaigos, organizacijos, fiziniai asmenys lygių galimybių
+institucijos ir įstaigos, įmonės, organizacijos, fiziniai asmenys lygių
 
-kontrolieriaus reikalavimu privalo nedelsdami pateikti jam informaciją,
+galimybių kontrolieriaus reikalavimu privalo nedelsdami pateikti jam
 
-dokumentus ir medžiagą, būtinus kontrolieriaus funkcijoms atlikti.
+informaciją, dokumentus ir medžiagą, būtinus kontrolieriaus funkcijoms atlikti.
 
 2. Tirdamas skundą, lygių galimybių
 
@@ -1666,6 +1694,10 @@ Straipsnio pakeitimai:
 Nr. X-304, 2005-07-05,
 
 Žin., 2005, Nr. 88-3281 (2005-07-21)
+
+Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+
+(2008-07-03)
 
 26
 
@@ -1751,6 +1783,60 @@ Nr. X-1380,
 
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
 
+53
+
+straipsnis. Draudimas diskriminuoti dėl lyties socialinės apsaugos sistemose
+
+1. Draudžiama diskriminuoti asmenis dėl
+
+lyties nustatant ir taikant socialinės apsaugos nuostatas, įskaitant sistemose,
+
+pakeičiančiose arba papildančiose valstybinio socialinio draudimo sistemą
+
+(toliau – socialinės apsaugos nuostatos):
+
+1) nustatant dalyvavimo ir naudojimosi
+
+galimybes;
+
+2) nustatant įmokas ir jų dydžius;
+
+3) nustatant išmokas, įskaitant papildomas išmokas sutuoktiniams ir
+
+išlaikomiems asmenims, taip pat nustatant teisės į išmokas trukmę ir
+
+išsaugojimą.
+
+2. Diskriminacija draudžiama nustatant
+
+ir taikant socialinės apsaugos nuostatas ligos, neįgalumo, senatvės, įskaitant
+
+išankstinį išėjimą į pensiją, nelaimingų atsitikimų darbe ir profesinių ligų,
+
+nedarbo atvejais ir socialinės apsaugos nuostatas, kurios numato bet kokias
+
+socialines išmokas, įskaitant našlių ir našlaičių pensijas, išmokas ir
+
+materialines pašalpas.
+
+3. Draudimas diskriminuoti dėl lyties
+
+taikomas dirbantiems asmenims, įskaitant savarankiškai dirbančius asmenis,
+
+asmenims, kurie nutraukė darbą dėl ligos, motinystės, nelaimingo atsitikimo ar
+
+priverstinio nedarbo, taip pat darbo ieškantiems asmenims, pensininkams,
+
+neįgaliems darbuotojams ir asmenims, turintiems teisę jų vardu reikalauti
+
+išmokų.
+
+Įstatymas papildytas straipsniu:
+
+Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+
+(2008-07-03)
+
 III SKYRIUS
 
 MOTERŲ
@@ -1767,13 +1853,89 @@ lyties tapti darbuotojų ir darbdavių organizacijų ar kitų organizacijų
 
 (asociacijų), kurių nariai turi tam tikrą profesiją, nariu ar dalyvauti šiose
 
-organizacijose (asociacijose), įskaitant tokių organizacijų (asociacijų) teikiamą
+organizacijose (asociacijose), įskaitant tokių organizacijų (asociacijų)
 
-naudą, yra pripažįstami pažeidžiantys moterų ir vyrų lygias teises.
+teikiamą naudą, yra pripažįstami pažeidžiantys moterų ir vyrų lygias teises.
 
 Įstatymas papildytas straipsniu:
 
 Nr. X-1380,
 
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
+
+73 straipsnis. Diskriminavimas dėl lyties
+
+socialinės apsaugos sistemose
+
+Bet koks veikimas ar neveikimas, teisės
+
+norma, vertinimo kriterijus ar praktika, kurie kliudo nustatyti ir taikyti
+
+vienodas sąlygas socialinės apsaugos nuostatose, yra pripažįstami
+
+pažeidžiantys moterų ir vyrų lygias teises, jeigu dėl asmens lyties:
+
+1) nustatomas privalomas ar neprivalomas dalyvavimas;
+
+2) ribojama asmens galimybė dalyvauti;
+
+3) nustatomos skirtingos sąlygos dėl
+
+atidėtų išmokų išsaugojimo, kai darbuotojas pasitraukia iš sistemų, išskyrus 8
+
+ir 10 punktuose nurodytus atvejus;
+
+4) nustatomos skirtingos taisyklės dėl
+
+minimalaus dalyvavimo laikotarpio;
+
+5) nustatomos skirtingos taisyklės dėl
+
+įmokų grąžinimo ar teisių į išmoką išsaugojimo, kai darbuotojas nutraukia
+
+dalyvavimą sistemose, išskyrus 8 ir 10 punktuose nurodytus atvejus;
+
+6) nustatomos skirtingos išmokų skyrimo,
+
+jų gavimo apribojimo sąlygos;
+
+7) skirtingai nustatomos teisės (jų
+
+įgijimas) į dalyvių vardu sukauptą lėšų dalį už motinystės (tėvystės) atostogų
+
+arba kitų tikslinių atostogų, susijusių su šeiminėmis priežastimis,
+
+laikotarpius, kai atostogos suteikiamos pagal įstatymus arba sutartį ir įmokas
+
+tuo laikotarpiu moka darbdavys;
+
+8) nustatomi skirtingi išmokų dydžiai,
+
+nebent būtina atsižvelgti į aktuarinio apskaičiavimo veiksnius, kurie
+
+atsižvelgiant į lytį skiriasi apibrėžtų įmokų sistemoje;
+
+9) nustatyti skirtingi dalyvių įmokų
+
+dydžiai, išskyrus įmokas už biometrinės rizikos draudimą, kai būtina
+
+atsižvelgti į aktuarinio apskaičiavimo veiksnius, kurie skiriasi atsižvelgiant
+
+į lytį;
+
+10) nustatyti skirtingi įmokų dydžiai,
+
+išskyrus apibrėžtų įmokų sistemos atveju, kai siekiama kuo labiau suvienodinti
+
+galutinių išmokų sumą abiejų lyčių dalyviams, o apibrėžtų išmokų sistemų
+
+atveju, kai įmokos yra skirtos lėšų, reikalingų garantuotų išmokų sąnaudoms
+
+padengti, pakankamumui užtikrinti.
+
+Įstatymas papildytas straipsniu:
+
+Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+
+(2008-07-03)
 
