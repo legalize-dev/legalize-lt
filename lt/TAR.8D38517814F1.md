@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2005-06-28"
+last_updated: "2008-07-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -201,23 +201,73 @@ už aplinkos teršimą įstatymo nustatyta tvarka apmokestinamųjų gaminių nau
 
 laikui, ir eksploatuoti netinkamos transporto priemonės.
 
-18. Gamintojas – Lietuvos
+18. Gamintojas
 
-Respublikos teisės aktų nustatyta tvarka įregistravęs savo veiklą asmuo, kuris
+– Lietuvos Respublikos teisės aktų nustatyta tvarka įregistravęs savo veiklą
 
-Lietuvos Respublikos teritorijoje gamina alyvas, transporto priemones, elektros
+asmuo, kuris:
 
-ir elektroninę įrangą, apmokestinamuosius gaminius ir (ar) gaminius pakuoja.
+1) Lietuvos Respublikos teritorijoje gamina alyvas,
 
-19. Importuotojas – Lietuvos
+transporto priemones, apmokestinamuosius gaminius (išskyrus baterijas ir
 
-Respublikos teisės aktų nustatyta tvarka įregistravęs savo veiklą asmuo, kuris
+akumuliatorius) ir (ar) gaminius pakuoja arba
 
-importuoja ir (ar) iš kitų Europos Sąjungos valstybių narių įveža alyvas,
+2) pirmą
 
-transporto priemones, elektros ir elektroninę įrangą, apmokestinamuosius
+kartą verslo tikslais tiekia baterijas ar akumuliatorius (įskaitant į
 
-gaminius bei kitus supakuotus gaminius į Lietuvos Respublikos teritoriją.
+prietaisus ar transporto priemones įmontuotas baterijas ar akumuliatorius)
+
+Lietuvos Respublikos rinkai, naudodamas bet kokias, taip pat nuotolinio ryšio,
+
+priemones, arba
+
+3)
+
+Lietuvos Respublikos teritorijoje gamina elektros ir elektroninę įrangą ir
+
+paženklintą savo ženklu ją atlygintinai perleidžia kitam asmeniui, ir (ar)
+
+išveža į kitą valstybę, naudodamas bet kokias, taip pat nuotolinio ryšio,
+
+priemones.
+
+19. Importuotojas
+
+– Lietuvos Respublikos teisės aktų nustatyta tvarka įregistravęs savo veiklą
+
+asmuo, kuris:
+
+1)
+
+importuoja ir (ar) iš kitos valstybės įveža alyvas, transporto priemones,
+
+apmokestinamuosius gaminius (išskyrus baterijas ir akumuliatorius) ir kitus
+
+supakuotus gaminius į Lietuvos Respublikos teritoriją arba
+
+2)
+
+importuoja ir (ar) iš kitos valstybės įveža ir pirmą kartą
+
+verslo tikslais tiekia baterijas ar akumuliatorius (įskaitant į prietaisus ar
+
+transporto priemones įmontuotas baterijas ar akumuliatorius) Lietuvos
+
+Respublikos rinkai, naudodamas bet kokias, taip pat nuotolinio ryšio,
+
+priemones, arba
+
+3) verslo
+
+tikslais importuoja ir (ar) iš kitos valstybės įveža (eksportuoja ir (ar)
+
+išveža į kitą valstybę) elektros ir elektroninę įrangą arba paženklintą savo
+
+ženklu iš kitų tiekėjų gautą įrangą atlygintinai perleidžia kitam asmeniui,
+
+naudodamas bet kokias, taip pat nuotolinio ryšio, priemones.
 
 20. Komunalinės atliekos – buitinės
 
@@ -313,9 +363,9 @@ kurioje yra ne daugiau kaip 8 sėdimos vietos keleiviams ir viena sėdima vieta
 
 vairuotojui) arba N1 klasei (ne mažiau kaip keturis ratus turinti
 
-transporto priemonė, skirta kroviniams vežti, kurios bendroji masė yra ne didesnė
+transporto priemonė, skirta kroviniams vežti, kurios bendroji masė yra ne
 
-kaip 3,5 t) ir triratė motorinė transporto priemonė, išskyrus motorines
+didesnė kaip 3,5 t) ir triratė motorinė transporto priemonė, išskyrus motorines
 
 trirates transporto priemones su simetriškai išdėstytais ratais.
 
@@ -335,11 +385,13 @@ pobūdžiu ar sudėtimi bei kiekiu panašios į buityje susidarančias elektros 
 
 elektroninės įrangos atliekas.
 
-32.
+32. Gaminių
 
-Elektros ir elektroninės įrangos platintojas – bet kuris asmuo,
+platintojas – asmuo, verslo tikslais vartotojams tiekiantis alyvas,
 
-komerciniais tikslais tiekiantis elektros ar elektroninę įrangą vartotojui.
+transporto priemones, elektros ir elektroninę įrangą ir (ar) apmokestinamuosius
+
+gaminius.
 
 33.
 
@@ -348,6 +400,22 @@ Elektros ir elektroninės įrangos atliekos – elektros arba elektroninė
 įranga, kuri pagal šio Įstatymo 2 straipsnio 4 dalį yra atliekos, įskaitant
 
 visas jos sudedamąsias dalis.
+
+34. Baterija
+
+(galvaninis elementas) ar akumuliatorius (toliau – baterija ar
+
+akumuliatorius) – vykstant cheminės energijos tiesioginei konversijai
+
+elektros energiją gaminantis šaltinis, susidedantis iš vieno ar kelių pirminių
+
+(vienkartinių) ar antrinių (pakartotinai įkraunamų) elementų.
+
+35.
+
+Baterijų ar akumuliatorių atliekos – baterijos ar akumuliatoriai, kurie
+
+pagal šio Įstatymo 2 straipsnio 4 dalį yra atliekos.
 
 Straipsnio pakeitimai:
 
@@ -358,6 +426,10 @@ Nr. IX-2214,
 Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
+
+Nr. X-1605,
+
+2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
 
 Antrasis skirsnis
 
@@ -1359,9 +1431,35 @@ išvežimo iš Lietuvos Respublikos ir įvežimo į Lietuvos Respubliką
 
 apskaitą tvarko Aplinkos ministerija.
 
-19
+17 straipsnis.
 
-straipsnis. Avarijų prevencija, likvidavimas, tyrimas
+Pavojingų atliekų vežimo tvarka
+
+1. Pavojingos atliekos vežamos pagal Lietuvos Respublikos teisės aktų
+
+nustatytus pavojingų krovinių vežimo reikalavimus, jeigu Lietuvos
+
+Respublikos tarptautinės sutartys nenustato kitaip.
+
+2. Perduodant tvarkyti ar vežti pavojingas atliekas, privaloma turėti
+
+pavojingų atliekų specialios formos lydraštį. Pavojingų atliekų lydraščio
+
+formą, jo pildymo ir naudojimo tvarką nustato Vyriausybės įgaliota institucija.
+
+18 straipsnis.
+
+Pavojingų atliekų tranzito, išvežimo ir įvežimo apskaita
+
+Pavojingų atliekų tranzito,
+
+išvežimo iš Lietuvos Respublikos ir įvežimo į Lietuvos Respubliką
+
+apskaitą tvarko Aplinkos ministerija.
+
+19 straipsnis.
+
+Avarijų prevencija, likvidavimas, tyrimas
 
 1. Pavojingas atliekas
 
@@ -1399,13 +1497,15 @@ reglamentuoja ir administruoja visų atliekų tvarkymą, kontroliuoja nustatytų
 
 reikalavimų ir užduočių įgyvendinimą.
 
-2. Aplinkos ministerija koordinuoja
+2. Aplinkos ministerija
 
-kitų valstybės institucijų, apskričių viršininkų ir savivaldybių veiklą atliekų
+koordinuoja kitų valstybės institucijų, apskričių viršininkų ir savivaldybių veiklą
 
-tvarkymo srityje, ieško papildomų finansavimo šaltinių valstybės institucijų
+atliekų tvarkymo srityje, ieško papildomų finansavimo šaltinių valstybės
 
-bei savivaldybių parengtiems atliekų tvarkymo projektams finansuoti.
+institucijų bei savivaldybių parengtiems atliekų tvarkymo projektams
+
+finansuoti.
 
 21
 
@@ -1425,13 +1525,55 @@ koordinuoja sveikatos priežiūros įstaigų veiksmus diegiant medicininių atli
 
 tvarkymo pajėgumus. Tais atvejais, kai sveikatos priežiūros įstaigos nesugeba
 
-užtikrinti saugaus medicininių atliekų sutvarkymo, Sveikatos apsaugos ministerija
+užtikrinti saugaus medicininių atliekų sutvarkymo, Sveikatos apsaugos
 
-inicijuoja šių atliekų tvarkymo pajėgumų sukūrimo projektus.
+ministerija inicijuoja šių atliekų tvarkymo pajėgumų sukūrimo projektus.
 
-22
+20 straipsnis.
 
-straipsnis. Ūkio ministerijos funkcijos
+Aplinkos ministerijos funkcijos
+
+1. Aplinkos ministerija
+
+reglamentuoja ir administruoja visų atliekų tvarkymą, kontroliuoja nustatytų
+
+reikalavimų ir užduočių įgyvendinimą.
+
+2. Aplinkos ministerija
+
+koordinuoja kitų valstybės institucijų, apskričių viršininkų ir savivaldybių
+
+veiklą atliekų tvarkymo srityje, ieško papildomų finansavimo šaltinių valstybės
+
+institucijų bei savivaldybių parengtiems atliekų tvarkymo projektams
+
+finansuoti.
+
+21 straipsnis.
+
+Sveikatos apsaugos ministerijos funkcijos
+
+1. Sveikatos apsaugos ministerija
+
+atlieka pavojingų atliekų ir jų tvarkymo veiklos poveikio žmogaus ir visuomenės
+
+sveikatai ekspertizę, reglamentuoja medicininių atliekų tvarkymą sveikatos
+
+priežiūros įstaigose.
+
+2. Sveikatos apsaugos ministerija
+
+koordinuoja sveikatos priežiūros įstaigų veiksmus diegiant medicininių atliekų
+
+tvarkymo pajėgumus. Tais atvejais, kai sveikatos priežiūros įstaigos nesugeba
+
+užtikrinti saugaus medicininių atliekų sutvarkymo, Sveikatos apsaugos
+
+ministerija inicijuoja šių atliekų tvarkymo pajėgumų sukūrimo projektus.
+
+22 straipsnis.
+
+Ūkio ministerijos funkcijos
 
 1. Ūkio ministerija rengia ir
 
@@ -1457,15 +1599,17 @@ pajėgumų sukūrimo projektus.
 
 straipsnis. Žemės ūkio ministerijos funkcijos
 
-Žemės ūkio ministerija koordinuoja
+Žemės ūkio ministerija
 
-žemės ūkio ir maisto pramonės įmonių veiksmus diegiant jų gamyboje susidarančių
+koordinuoja žemės ūkio ir maisto pramonės įmonių veiksmus diegiant jų gamyboje
 
-atliekų tvarkymo pajėgumus. Tais atvejais, kai žemės ūkio ir maisto pramonės
+susidarančių atliekų tvarkymo pajėgumus. Tais atvejais, kai žemės ūkio ir
 
-įmonės nesugeba užtikrinti saugaus savo atliekų sutvarkymo, Žemės ūkio
+maisto pramonės įmonės nesugeba užtikrinti saugaus savo atliekų sutvarkymo,
 
-ministerija inicijuoja atitinkamų atliekų tvarkymo pajėgumų sukūrimo projektus.
+Žemės ūkio ministerija inicijuoja atitinkamų atliekų tvarkymo pajėgumų sukūrimo
+
+projektus.
 
 24
 
@@ -1501,9 +1645,9 @@ atliekų tvarkymo planai
 
 straipsnis. Valstybinis strateginis atliekų tvarkymo planas
 
-1. Šiame Įstatyme nurodytiems atliekų
+1. Šiame Įstatyme nurodytiems
 
-tvarkymo prioritetams įgyvendinti turi būti parengtas valstybinis strateginis
+atliekų tvarkymo prioritetams įgyvendinti turi būti parengtas valstybinis strateginis
 
 atliekų tvarkymo planas.
 
@@ -1573,135 +1717,13 @@ atliekų tvarkymo planų tikslas – nustatyti komunalinių atliekų tvarkymo si
 
 organizavimo priemones, kurios užtikrintų aplinkosaugos, techninius-ekonominius
 
-ir higienos reikalavimus atitinkančios viešosios komunalinių atliekų tvarkymo
+ir higienos reikalavimus atitinkančios viešosios komunalinių atliekų tvarkymo paslaugos
 
-paslaugos pasiūlą visiems savivaldybės teritorijoje esantiems asmenims.
+pasiūlą visiems savivaldybės teritorijoje esantiems asmenims.
 
 3. Savivaldybių atliekų tvarkymo
 
 planus rengia savivaldybės ir tvirtina savivaldybių tarybos.
-
-17 straipsnis.
-
-Pavojingų atliekų vežimo tvarka
-
-1. Pavojingos atliekos vežamos pagal Lietuvos Respublikos teisės aktų
-
-nustatytus pavojingų krovinių vežimo reikalavimus, jeigu Lietuvos
-
-Respublikos tarptautinės sutartys nenustato kitaip.
-
-2. Perduodant tvarkyti ar vežti pavojingas atliekas, privaloma turėti
-
-pavojingų atliekų specialios formos lydraštį. Pavojingų atliekų lydraščio
-
-formą, jo pildymo ir naudojimo tvarką nustato Vyriausybės įgaliota institucija.
-
-18 straipsnis.
-
-Pavojingų atliekų tranzito, išvežimo ir įvežimo apskaita
-
-Pavojingų atliekų tranzito,
-
-išvežimo iš Lietuvos Respublikos ir įvežimo į Lietuvos Respubliką
-
-apskaitą tvarko Aplinkos ministerija.
-
-19 straipsnis.
-
-Avarijų prevencija, likvidavimas, tyrimas
-
-1. Pavojingas atliekas
-
-gaminančios ir tvarkančios įmonės bei nepavojingas atliekas šalinančios įmonės
-
-privalo parengti avarijų likvidavimo planus. Šiuose planuose turi būti numatyti
-
-įmonės darbuotojų veiksmai galimos avarijos metu, kad nekiltų arba būtų
-
-mažesnis pavojus žmonių sveikatai ar aplinkai.
-
-2. Įvykus avarijai arba išsipylus
-
-pavojingoms atliekoms ar jų pavojingiems komponentams, galintiems sukelti
-
-pavojų žmonių sveikatai ar aplinkai, avarija nedelsiant turi būti likviduojama
-
-pagal avarijų likvidavimo planą ir nustatomos avarijos priežastys. Avarijų
-
-likvidavimo planai sudaromi Vyriausybės nustatyta tvarka.
-
-Penktasis skirsnis
-
-ATLIEKŲ
-
-TVARKYMO valstybinis reglamentavimas
-
-20 straipsnis.
-
-Aplinkos ministerijos funkcijos
-
-1. Aplinkos ministerija
-
-reglamentuoja ir administruoja visų atliekų tvarkymą, kontroliuoja nustatytų
-
-reikalavimų ir užduočių įgyvendinimą.
-
-2. Aplinkos ministerija
-
-koordinuoja kitų valstybės institucijų, apskričių viršininkų ir savivaldybių
-
-veiklą atliekų tvarkymo srityje, ieško papildomų finansavimo šaltinių valstybės
-
-institucijų bei savivaldybių parengtiems atliekų tvarkymo projektams
-
-finansuoti.
-
-21 straipsnis.
-
-Sveikatos apsaugos ministerijos funkcijos
-
-1. Sveikatos apsaugos ministerija
-
-atlieka pavojingų atliekų ir jų tvarkymo veiklos poveikio žmogaus ir visuomenės
-
-sveikatai ekspertizę, reglamentuoja medicininių atliekų tvarkymą sveikatos
-
-priežiūros įstaigose.
-
-2. Sveikatos apsaugos ministerija
-
-koordinuoja sveikatos priežiūros įstaigų veiksmus diegiant medicininių atliekų
-
-tvarkymo pajėgumus. Tais atvejais, kai sveikatos priežiūros įstaigos nesugeba
-
-užtikrinti saugaus medicininių atliekų sutvarkymo, Sveikatos apsaugos
-
-ministerija inicijuoja šių atliekų tvarkymo pajėgumų sukūrimo projektus.
-
-22 straipsnis.
-
-Ūkio ministerijos funkcijos
-
-1. Ūkio ministerija rengia ir
-
-tvirtina programas, skatinančias atliekų prevenciją, taip pat skatinančias
-
-mažinti gamyboje susidarančių atliekų kiekį, diegti mažaatliekes technologijas,
-
-kurti rinkas iš antrinių žaliavų pagamintiems produktams; koordinuoja šių
-
-programų įgyvendinimą.
-
-2. Ūkio ministerija koordinuoja
-
-pramonės įmonių veiksmus diegiant gamyboje susidarančių atliekų tvarkymo
-
-pajėgumus. Tais atvejais, kai pramonės įmonės nesugeba užtikrinti saugaus savo
-
-atliekų sutvarkymo, Ūkio ministerija inicijuoja atitinkamų atliekų tvarkymo
-
-pajėgumų sukūrimo projektus.
 
 23 straipsnis.
 
@@ -1919,9 +1941,15 @@ ir griovimo atliekų, didžiųjų atliekų (baldų ir pan.), elektros ir elektro
 
 įrangos, naudotų padangų – atskiro surinkimo priemonėmis;
 
-4) buityje susidarančių pavojingų
+4)
 
-atliekų atskiro surinkimo priemonėmis.
+buityje susidarančių pavojingų atliekų (išskyrus baterijų ir akumuliatorių
+
+atliekas) atskiro surinkimo priemonėmis. Savivaldybės privalo užtikrinti, kad jų organizuojamos komunalinių
+
+atliekų tvarkymo sistemos neatsisakytų priimti baterijų ir akumuliatorių
+
+atliekų iš gyventojų.
 
 4. Eksploatuoti komunalinių
 
@@ -1935,13 +1963,11 @@ komunalinių atliekų tvarkymo sistemos eksploatavimo ir plėtojimo paslaugų
 
 operatorių (atliekų tvarkytojų) atrankos konkursą arba, nutarusios įvesti
 
-vietinę rinkliavą iš atliekų turėtojų už komunalinių atliekų surinkimą ir
+vietinę rinkliavą iš atliekų turėtojų už komunalinių atliekų surinkimą ir tvarkymą,
 
-tvarkymą, turi organizuoti komunalinių atliekų tvarkymo (komunalinių atliekų
+turi organizuoti komunalinių atliekų tvarkymo (komunalinių atliekų tvarkymo
 
-tvarkymo sistemos eksploatavimo ir plėtojimo) paslaugų viešojo pirkimo
-
-konkursą.
+sistemos eksploatavimo ir plėtojimo) paslaugų viešojo pirkimo konkursą.
 
 5. Įmonės, kurios vykdo
 
@@ -1949,33 +1975,27 @@ komunalinių atliekų surinkimą, įskaitant antrinių žaliavų surinkimą, ši
 
 savivaldybės teritorijoje gali vykdyti tik tuo atveju, jeigu yra sudariusios
 
-sutartis su savivaldybe (arba savivaldybės (kelių savivaldybių)
+sutartis su savivaldybe (arba savivaldybės (kelių
 
-įsteigtu juridiniu asmeniu, kuriam pavesta administruoti komunalinių atliekų
+savivaldybių) įsteigtu juridiniu asmeniu, kuriam pavesta administruoti
 
-tvarkymo sistemą) Vyriausybės ar jos įgaliotos institucijos nustatyta
+komunalinių atliekų tvarkymo sistemą) Vyriausybės ar jos įgaliotos
 
-tvarka.
+institucijos nustatyta tvarka.
 
-[Papildyti 6,7,8
+6. Šio
 
-dalimis]
+Įstatymo 34(1) straipsnio 2 dalies 2 punkte numatytų atliekų
 
-6. Šio Įstatymo 34(1
+tvarkymo užduotims įgyvendinti gali būti diegiamos savivaldybės organizuojamą
 
-)straipsnio 2 dalies 2 punkte numatytų atliekų tvarkymo užduotims
+komunalinių atliekų tvarkymo sistemą papildančios atliekų surinkimo sistemos.
 
-įgyvendinti gali būti diegiamos savivaldybės organizuojamą komunalinių atliekų
+Šiuo atveju atliekų surinkimo sistemos diegimo sąlygos turi būti suderintos su
 
-tvarkymo sistemą papildančios atliekų surinkimo sistemos. Šiuo atveju atliekų
+savivaldybe Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-surinkimo sistemos diegimo sąlygos turi būti suderintos su savivaldybe Vyriausybės
-
-ar jos įgaliotos institucijos nustatyta tvarka.
-
-7. Savivaldybės iki 2007 m.
-
-sausio 1 d. privalo:
+7. Savivaldybės iki 2007 m. sausio 1 d. privalo:
 
 1) Vyriausybės ar jos įgaliotos
 
@@ -1987,7 +2007,9 @@ savivaldybės teritorijoje nėra ir pagal regioninę atliekų tvarkymo sistemą
 
 tokia aikštelė nenumatyta įrengti. Tuo atveju, jei įrengti aikštelę nėra
 
-galimybės, savivaldybės privalo aprūpinti kitomis atliekų surinkimo priemonėmis;
+galimybės, savivaldybės privalo aprūpinti kitomis atliekų surinkimo
+
+priemonėmis;
 
 2) į sutartis su komunalines
 
@@ -2014,6 +2036,10 @@ Nr. IX-2214,
 Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
+
+Nr. X-1605,
+
+2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
 
 31
 
@@ -2095,9 +2121,7 @@ investicijų fondo programos lėšos;
 
 6) užsienio šalių, tarptautinių
 
-organizacijų ir finansų institucijų bei Lietuvos Respublikos asmenų tiksliniai
-
-įnašai.
+organizacijų ir finansų institucijų bei Lietuvos Respublikos asmenų tiksliniai įnašai.
 
 Straipsnio
 
@@ -2113,11 +2137,11 @@ IX-1615,
 
 straipsnis. Gaminių ar pakuotės atliekų tvarkymo programa
 
-1. Atliekų tvarkymo
+1. Atliekų
 
-finansavimo galimybėms padidinti sudaroma Gaminių ar pakuotės atliekų tvarkymo
+tvarkymo finansavimo galimybėms padidinti sudaroma Gaminių ar pakuotės atliekų
 
-programa (toliau – Programa).
+tvarkymo programa (toliau – Programa).
 
 2.
 
@@ -2127,33 +2151,37 @@ mokestis už aplinkos teršimą apmokestinamųjų gaminių ir pakuotės atliekom
 
 taip pat lėšos,
 
-gautos pagal šio Įstatymo 34(6 )straipsnio 3 ir 4 dalyse nurodytas
+gautos pagal šio Įstatymo 34(6) straipsnio 3 ir 4 dalyse nurodytas
 
 garantijas, laidavimo draudimo sutartis bei kitus dokumentus, užtikrinančius
 
 atliekų tvarkymo finansavimą.
 
-3. Programos lėšos naudojamos finansuoti:
+3.
+
+Programos lėšos naudojamos finansuoti:
 
 1)
 
-apmokestinamųjų gaminių ir pakuotės nesutvarkytų atliekų, kurios susidarė dėl
+elektros ir elektroninės įrangos, apmokestinamųjų gaminių ir pakuotės
 
-Vyriausybės ar jos įgaliotos institucijos nustatytų užduočių neįvykdymo ar
+nesutvarkytų atliekų, kurios susidarė dėl Vyriausybės ar jos įgaliotos
 
-tokių užduočių nevykdymo, sutvarkymą;
+institucijos nustatytų užduočių neįvykdymo ar tokių užduočių nevykdymo,
 
-2) visuomenės
+sutvarkymą;
 
-švietimą apmokestinamųjų gaminių ir pakuotės bei jų atliekų tvarkymo
+2)
 
-klausimais;
+visuomenės švietimą elektros ir elektroninės įrangos, apmokestinamųjų gaminių
+
+ir pakuotės bei jų atliekų tvarkymo klausimais;
 
 3)
 
-apmokestinamųjų gaminių ir pakuotės atliekų tvarkymo investicinių projektų
+elektros ir elektroninės įrangos, apmokestinamųjų gaminių ir pakuotės atliekų
 
-įgyvendinimą.
+tvarkymo investicinių projektų įgyvendinimą.
 
 4.
 
@@ -2179,19 +2207,27 @@ atliekų surinkimo, rūšiavimo ir perdirbimo išlaidų dalis, kuri padengiama
 
 pajamomis, gautomis realizavus sutvarkytas gaminių ar pakuotės atliekas;
 
-4) lėšos,
+4) lėšos, sukauptos apmokestinus
 
-sukauptos apmokestinus mokesčiu už aplinkos teršimą gaminių ir (ar) pakuotės
+mokesčiu už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis tam tikrą
 
-atliekomis tam tikrą gaminių grupę ir (ar) pakuotės rūšį, naudojamos tik tos
+gaminių grupę ir (ar) pakuotės rūšį, taip pat gautos pagal šio Įstatymo 346
 
-gaminių grupės ar pakuotės rūšies atliekoms surinkti, rūšiuoti ir perdirbti
+straipsnio 3 ir 4 dalyse nurodytas garantijas, laidavimo draudimo sutartis ir
 
-arba energijai gauti. Jei tokio lėšų poreikio einamaisiais metais nėra, lėšos
+kitus dokumentus, užtikrinančius elektros ir elektroninės įrangos atliekų
 
-gali būti naudojamos kitų apmokestinamųjų gaminių ir (ar) pakuotės atliekoms
+tvarkymo finansavimą, naudojamos tik tos apmokestinamųjų gaminių grupės ar
 
-tvarkyti;
+pakuotės rūšies atliekoms surinkti, rūšiuoti ir perdirbti ar energijai gauti
+
+arba elektros ar elektroninės įrangos atliekoms tvarkyti. Jei tokio lėšų
+
+poreikio einamaisiais metais nėra, lėšos gali būti naudojamos kitų
+
+apmokestinamųjų gaminių, elektros ir elektroninės įrangos ir (ar) pakuotės
+
+atliekoms tvarkyti;
 
 5)
 
@@ -2229,17 +2265,19 @@ Programos lėšų panaudojimo taryba (toliau – Taryba), o jas tvirtina Vyriaus
 
 arba jos įgaliota institucija;
 
-3)
+3) Tarybą, kuri yra patariamasis
 
-Tarybą, kuri yra patariamasis organas, sudaro Vyriausybės institucijų, mokesčio
+organas, sudaro Vyriausybės institucijų, mokesčio už aplinkos teršimą gaminių
 
-už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis mokėtojų ar jiems
+ir (ar) pakuotės atliekomis mokėtojų ar jiems atstovaujančių organizacijų,
 
-atstovaujančių organizacijų, apmokestinamųjų gaminių ir pakuotės atliekų
+apmokestinamųjų gaminių ir pakuotės atliekų tvarkytojų ar jiems atstovaujančių
 
-tvarkytojų ar jiems atstovaujančių organizacijų, pakuočių gamintojų ar jiems
+organizacijų, pakuočių gamintojų ar jiems atstovaujančių organizacijų, elektros
 
-atstovaujančių organizacijų bei Lietuvos savivaldybių asociacijos atstovai.
+ir elektroninės įrangos gamintojų, importuotojų, atliekų tvarkytojų ar jiems
+
+atstovaujančių organizacijų ir Lietuvos savivaldybių asociacijos atstovai.
 
 Tarybos sudėtį tvirtina Vyriausybė ar jos įgaliota institucija.
 
@@ -2251,6 +2289,10 @@ Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
 
+Nr. X-1605,
+
+2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
+
 Įstatymas papildytas aštuntuoju(1)
 
 skirsniu:
@@ -2259,19 +2301,9 @@ Nr. IX-2214,
 
 2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
 
-[Aštuntojo(1)
+Skirsnio
 
-skirsnio pavadinimo sena redakcija iki 2005-12-30]
-
-AŠTUNTASIS(1)
-
-SKIRSNIS
-
-GAMINTOJŲ IR IMPORTUOTOJŲ TEISĖS IR PAREIGOS
-
-[Aštuntojo(1)
-
-skirsnio pavadinimo nauja redakcija nuo 2006-01-01]
+pakeitimas:
 
 Nr. X-279, 2005-06-28,
 
@@ -2283,61 +2315,9 @@ GAMINTOJŲ,
 
 IMPORTUOTOJŲ IR PLATINTOJŲ TEISĖS IR PAREIGOS
 
-[34(1)
-
-straipsnio sena redakcija iki 2005-12-30]
-
-34(1)
-
-straipsnis. Gamintojų ir importuotojų teisės ir pareigos
-
-1. Gamintojai ir importuotojai
-
-turi tvarkyti alyvų, transporto priemonių, elektros ir elektroninės įrangos,
-
-apmokestinamųjų gaminių ir šių bei kitų gaminių pakuočių apskaitą ir teikti
-
-ataskaitas Vyriausybės įgaliotai institucijai šios institucijos nustatyta
-
-tvarka.
-
-2. Gamintojai
-
-ir importuotojai privalo imtis visų priemonių, kad alyvų, transporto priemonių,
-
-elektros ir elektroninės įrangos, apmokestinamųjų gaminių ir pakuočių atliekos
-
-būtų tvarkomos taip, kad būtų įvykdytos Vyriausybės nustatytos šių atliekų
-
-tvarkymo užduotys.
-
-3. Gamintojai ir importuotojai gali patys organizuoti alyvų, transporto
-
-priemonių, elektros ir elektroninės įrangos, apmokestinamųjų gaminių bei
-
-pakuočių atliekų tvarkymo sistemas arba pagal sutartis naudotis
-
-organizuojamomis atliekų tvarkymo sistemomis.
-
-4. Gamintojai
-
-ir importuotojai gali įsteigti organizacijas ir joms pavesti vykdyti šio
-
-straipsnio 1 ir 2 dalyse nustatytas pareigas.
-
-[34(1)
-
-straipsnio nauja redakcija nuo 2006-01-01, išskyrus 1 dalį, 2 dalies 2 ir 3
-
-punktus ir 4 dalį]
-
 34(1) straipsnis. Gamintojų ir
 
 importuotojų teisės ir pareigos
-
-[1 dalis galioja
-
-nuo 2005-08-13]
 
 1. Gamintojai ir importuotojai
 
@@ -2377,10 +2357,6 @@ privalo:
 
 nustatyta tvarka;
 
-[2 dalies 2, 3
-
-punktai galioja nuo 2005-08-13]
-
 2) įvykdyti Vyriausybės ar jos
 
 įgaliotos institucijos nustatytas gaminių ir (ar) pakuotės atliekų tvarkymo
@@ -2403,27 +2379,21 @@ privalo elektros ir elektroninės įrangos platintojui pateikti registravimąsi
 
 patvirtinantį dokumentą.
 
-[4 dalis galioja
-
-nuo 2005-08-13]
-
 4.
 
 Transporto priemonių gamintojai ir (ar) importuotojai privalo sukurti
 
 eksploatuoti netinkamų transporto priemonių tvarkymo sistemą, užtikrinančią,
 
-kad eksploatuoti netinkamos transporto priemonės būtų surenkamos ir
+kad eksploatuoti netinkamos transporto priemonės būtų surenkamos ir sutvarkomos.
 
-sutvarkomos. Ši sistema turi būti organizuota taip, kad būtų sudarytos sąlygos
+Ši sistema turi būti organizuota taip, kad būtų sudarytos sąlygos asmeniui,
 
-asmeniui, kuriam priklausanti eksploatuoti netinkama transporto priemonė neturi
+kuriam priklausanti eksploatuoti netinkama transporto priemonė neturi rinkos
 
-rinkos vertės ar ši vertė yra neigiama, nemokamai atiduoti tvarkyti šią
+vertės ar ši vertė yra neigiama, nemokamai atiduoti tvarkyti šią transporto
 
-transporto priemonę tokias atliekas tvarkančioms įmonėms, išskyrus atvejus,
-
-kai:
+priemonę tokias atliekas tvarkančioms įmonėms, išskyrus atvejus, kai:
 
 1)
 
@@ -2446,10 +2416,6 @@ pakeitimai:
 Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
-
-[Papildyti
-
-342 straipsniu nuo 2006-01-01]
 
 34(2) straipsnis. Gamintojų ir
 
@@ -2496,10 +2462,6 @@ papildytas straipsniu:
 Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
-
-[Papildyti
-
-343 straipsniu nuo 2006-01-01]
 
 34(3)
 
@@ -2599,10 +2561,6 @@ Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
 
-[Papildyti
-
-344 straipsniu nuo 2006-01-01]
-
 34(4)
 
 straipsnis. Elektros
@@ -2627,13 +2585,13 @@ atliekas tuo atveju, jei vartotojo atiduodamos elektros ir elektroninės įrango
 
 atliekos yra tos pačios paskirties kaip jo perkama elektros ir elektroninė
 
-įranga ir jei atiduodamos elektros ir elektroninės įrangos atliekų kiekis (skaičiuojant
+įranga ir jei atiduodamos elektros ir elektroninės įrangos atliekų kiekis
 
-įrangos vienetais) atitinka perkamos elektros ir elektroninės įrangos kiekį.
+(skaičiuojant įrangos vienetais) atitinka perkamos elektros ir elektroninės
 
-Gamintojo ir importuotojo pageidavimu platintojas turi vartotojui nurodyti
+įrangos kiekį. Gamintojo ir importuotojo pageidavimu platintojas turi
 
-elektros ir elektroninės įrangos atliekų tvarkymo išlaidas.
+vartotojui nurodyti elektros ir elektroninės įrangos atliekų tvarkymo išlaidas.
 
 3. Platintojai gali nesilaikyti šio straipsnio 2 dalyje nustatytų
 
@@ -2679,10 +2637,6 @@ Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
 
-[Papildyti
-
-345 straipsniu nuo 2005-08-13]
-
 34(5 )straipsnis.
 
 Elektros ir elektroninės įrangos ženklinimas
@@ -2691,9 +2645,7 @@ Elektros ir elektroninės įrangos gamintojai ir
 
 importuotojai privalo Vyriausybės ar jos įgaliotos institucijos nustatyta
 
-tvarka standartiniu ženklu ženklinti po 2005 m. rugpjūčio 13 d. į Lietuvos rinką
-
-išleidžiamą elektros ir elektroninę įrangą. Ženklinimas privalo būti toks, kad
+tvarka standartiniu ženklu ženklinti po 2005 m. rugpjūčio 13 d. į Lietuvos rinką išleidžiamą elektros ir elektroninę įrangą. Ženklinimas privalo būti toks, kad
 
 po išleidimo į Lietuvos rinką būtų galima vienareikšmiškai identifikuoti
 
@@ -2717,10 +2669,6 @@ Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
 
-[Papildyti
-
-346 straipsniu nuo 2006-01-01]
-
 34(6) straipsnis. Buityje
 
 susidarančių elektros ir elektroninės įrangos atliekų surinkimas ir tvarkymas
@@ -2735,11 +2683,9 @@ sistemose ar (ir) pas platintojus surinktų buityje susidarančių elektros ir
 
 elektroninės įrangos atliekų tvarkymą taip:
 
-1) iki 2005 m. rugpjūčio 13 d. į
+1) iki 2005 m. rugpjūčio 13 d. į rinką išleistos elektros ir elektroninės įrangos buityje susidarančių
 
-rinką išleistos elektros ir elektroninės įrangos buityje susidarančių atliekų
-
-(istorinių elektros ir elektroninės įrangos atliekų) tvarkymą rinkoje
+atliekų (istorinių elektros ir elektroninės įrangos atliekų) tvarkymą rinkoje
 
 dalyvaujantys elektros ir elektroninės įrangos gamintojai ir importuotojai turi
 
@@ -2749,17 +2695,15 @@ daliai. Vyriausybė ar jos įgaliota institucija, nustatydama elektros ir
 
 elektroninės įrangos atliekų tvarkymo užduotis, nustato, kokią procentinę dalį
 
-(pagal svorį) istorinių elektros ir elektroninės įrangos atliekų turi sutvarkyti
+(pagal svorį) istorinių elektros ir elektroninės įrangos atliekų turi
 
-gamintojas ir (ar) importuotojas, atsižvelgiant į per atitinkamus metus į rinką
+sutvarkyti gamintojas ir (ar) importuotojas, atsižvelgiant į per atitinkamus
 
-išleistos elektros ir elektroninės įrangos kiekį;
+metus į rinką išleistos elektros ir elektroninės įrangos kiekį;
 
 2) elektros ir elektroninės
 
-įrangos gamintojai ir importuotojai turi finansuoti nuo 2005 m. rugpjūčio 13 d.
-
-į rinką išleistos savo elektros ir elektroninės įrangos buityje susidarančių
+įrangos gamintojai ir importuotojai turi finansuoti nuo 2005 m. rugpjūčio 13 d. į rinką išleistos savo elektros ir elektroninės įrangos buityje susidarančių
 
 atliekų tvarkymą.
 
@@ -2775,9 +2719,7 @@ medžiagas ir jų keliamą pavojų aplinkai bei žmonių sveikatai.
 
 3. Elektros ir elektroninės
 
-įrangos gamintojai ir importuotojai, nuo 2005 m. rugpjūčio 13 d. išleisdami į
-
-rinką elektros ir elektroninę įrangą, registruodamiesi šio Įstatymo 34(2)
+įrangos gamintojai ir importuotojai, nuo 2005 m. rugpjūčio 13 d. išleisdami į rinką elektros ir elektroninę įrangą, registruodamiesi šio Įstatymo 34(2)
 
 straipsnyje nustatyta tvarka turi pateikti dokumentus, įrodančius, kad visų jų
 
@@ -2813,17 +2755,17 @@ gamintojo ar importuotojo dalyvavimas kolektyvinės atsakomybės atliekų tvarky
 
 finansavimo sistemoje. Dalyvaudamas šioje sistemoje gamintojas ir importuotojas
 
-vykdo Vyriausybės ar jos įgaliotos institucijos nustatytas užduotis neatsižvelgdamas
+vykdo Vyriausybės ar jos įgaliotos institucijos nustatytas užduotis
 
-į tai, ar tvarkomos elektros ir elektroninės įrangos atliekos, išleistos į
+neatsižvelgdamas į tai, ar tvarkomos elektros ir elektroninės įrangos atliekos,
 
-rinką, yra jo, ar yra tik tos pačios kategorijos. Gamintojai ir importuotojai
+išleistos į rinką, yra jo, ar yra tik tos pačios kategorijos. Gamintojai ir
 
-turi teisę reikalauti, kad jų išleistos į rinką elektros ir elektroninės
+importuotojai turi teisę reikalauti, kad jų išleistos į rinką elektros ir
 
-įrangos atliekos būtų tvarkomos atskirai, jeigu jie padengia susidariusias
+elektroninės įrangos atliekos būtų tvarkomos atskirai, jeigu jie padengia
 
-išlaidas;
+susidariusias išlaidas;
 
 5) dokumentas,
 
@@ -2883,10 +2825,6 @@ Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
 
-[Papildyti
-
-347 straipsniu nuo 2006-01-01]
-
 34(7) straipsnis. Ne buityje
 
 susidarančių elektros ir elektroninės įrangos atliekų
@@ -2911,11 +2849,9 @@ gamintojai ir importuotojai, tiekiantys šią įrangą;
 
 2) elektros ir elektroninės
 
-įrangos gamintojai ir importuotojai privalo finansuoti nuo 2005 m. rugpjūčio 13
+įrangos gamintojai ir importuotojai privalo finansuoti nuo 2005 m. rugpjūčio 13 d. į rinką išleistos savo elektros ir elektroninės įrangos ne buityje
 
-d. į rinką išleistos savo elektros ir elektroninės įrangos ne buityje susidarančių
-
-atliekų tvarkymą.
+susidarančių atliekų tvarkymą.
 
 2. Šio straipsnio 1 dalyje
 
@@ -2943,737 +2879,9 @@ Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
 
-devintasis skirsnis
-
-ATSAKOMYBĖ
-
-35
-
-straipsnis. Atsakomybė
-
-Asmenys, pažeidę šio Įstatymo
-
-reikalavimus, atsako įstatymų nustatyta tvarka.
-
-dešimtasis
-
-skirsnis
-
-įstatymo įsigaliojimas
-
-36
-
-straipsnis. Pasiūlymai Vyriausybei
-
-Vyriausybė ar jos įgaliota
-
-institucija:
-
-1) iki 2003 m. sausio 1 d.
-
-nustato atliekų vežimo tranzitu, išvežimo iš Lietuvos Respublikos ir įvežimo į
-
-Lietuvos Respubliką reikalavimus.
-
-2) iki 2003
-
-m. sausio 1 d. nustato įmonių, kurios tvarko pavojingas atliekas, licencijavimo
-
-tvarką, tokių įmonių darbuotojams taikomus kvalifikacinius reikalavimus bei jų
-
-atestavimo tvarką.
-
-37
-
-straipsnis. Įstatymo įsigaliojimas
-
-Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d., išskyrus 12
-
-straipsnį, kuris įsigalioja nuo 2003 m. kovo 1 d.
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                                               VALDAS
-
-ADAMKUS
-
-Lietuvos
-
-Respublikos
-
-atliekų
-
-tvarkymo įstatymo
-
-1 priedas
-
-ATLIEKŲ
-
-KATEGORIJOS
-
-QQ1
-
-Gamybos ar
-
-vartojimo liekanos, nenurodytos žemiau
-
-QQ2
-
-Produktai,
-
-neatitinkantys gaminio charakteristikos
-
-QQ3
-
-Produktai, kurių
-
-vartojimo laikas pasibaigęs
-
-QQ4
-
-Išsipylusios,
-
-išsibarsčiusios ar kitaip nelaimingo atsitikimo metu pasklidusios medžiagos,
-
-įskaitant medžiagas, įrenginius ir t. t., užterštus tokio nelaimingo
-
-atsitikimo metu
-
-QQ5
-
-Medžiagos,
-
-užterštos vykdant planuotą veiklą (pvz.: valymo operacijų liekanos, pakuočių
-
-medžiagos, konteineriai ir t. t.)
-
-QQ6
-
-Nenaudojamos
-
-dalys (pvz.: netinkamos baterijos, išnaudoti katalizatoriai ir t. t.)
-
-QQ7
-
-Medžiagos,
-
-kurios toliau naudoti netinka (pvz.: užterštos rūgštys, užteršti tirpikliai,
-
-naudotos grūdinimo druskos ir t. t.)
-
-QQ8
-
-Pramoninių
-
-procesų liekanos (pvz.: šlakai, distiliavimo nuosėdos ir t. t.)
-
-QQ9
-
-Teršalų valymo
-
-liekanos (pvz.: skruberių nuosėdos, filtrų dulkės, naudoti filtrai ir t. t.)
-
-QQ10
-
-Mechaninio
-
-apdirbimo ir apdailos liekanos (pvz.: tekinimo, frezavimo darbų atliekos ir
-
-t. t.)
-
-QQ11
-
-Žaliavų
-
-gavybos ir apdorojimo liekanos (pvz.: kasybos atliekos, naftotiekių paplavos
-
-ir t. t.)
-
-QQ12
-
-Medžiagos su
-
-priemaišomis (pvz.: naftos produktai, užteršti polichlorintais bifenilais ir
-
-t. t.)
-
-QQ13
-
-Bet kurios
-
-medžiagos, junginiai ar produktai, kuriuos vartoti draudžia įstatymas
-
-QQ14
-
-Gaminiai,
-
-kurių jų turėtojas daugiau nebenaudoja (pvz.: žemės ūkio, namų ūkio, biuro,
-
-komercinės ir prekybos atliekos ir t. t.)
-
-QQ15
-
-Užterštos medžiagos,
-
-junginiai ar produktai, susidarę valant žemę ir gruntą
-
-QQ16
-
-Bet kurios
-
-medžiagos, junginiai ar produktai, neminimi aukščiau išvardytose kategorijose
-
-Priedo žymos pakeitimas:
-
-Nr. IX-2214,
-
-2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
-
-Lietuvos
-
-Respublikos
-
-atliekų
-
-tvarkymo įstatymo
-
-2 priedas
-
-ATLIEKŲ
-
-NAUDOJIMO BŪDAI
-
-R1
-
-Naudojimas
-
-kurui arba kitais būdais energijai gauti
-
-R2
-
-Tirpiklių
-
-atnaujinimas (regeneracija)
-
-R3
-
-Organinių
-
-medžiagų, nenaudojamų kaip tirpikliai, perdirbimas (atnaujinimas) (įskaitant
-
-kompostavimą ir kitus biologinio pakeitimo procesus)
-
-R4
-
-Metalų ir
-
-metalų junginių perdirbimas (atnaujinimas)
-
-R5
-
-Kitų
-
-neorganinių medžiagų perdirbimas (atnaujinimas)
-
-R6
-
-Rūgščių arba bazių
-
-regeneracija
-
-R7
-
-Taršai mažinti
-
-naudojamų komponentų naudojimas
-
-R8
-
-Katalizatorių
-
-komponentų naudojimas
-
-R9
-
-Pakartotinis
-
-naftos rafinavimas arba kitoks pakartotinis naftos produktų naudojimas
-
-R10
-
-Apdorojimas
-
-žemėje, naudingas žemės ūkiui ar gerinantis aplinkos būklę
-
-R11
-
-Atliekų, gautų
-
-R1–R10 naudojimo būdais, naudojimas
-
-R12
-
-Pasikeitimas
-
-atliekomis, siekiant taikyti joms bet kurį iš R1–R11 naudojimo būdų
-
-R13
-
-Atliekų,
-
-skirtų naudoti, R1–R12 nurodytais būdais, saugojimas (išskyrus laikinąjį
-
-saugojimą susidarymo vietoje iki jų surinkimo)
-
-Priedo pakeitimai:
-
-Nr. IX-2214,
-
-2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
-
-Lietuvos
-
-Respublikos
-
-atliekų
-
-tvarkymo įstatymo
-
-3 priedas
-
-ATLIEKŲ ŠALINIMO
-
-BŪDAI
-
-D1
-
-Išvertimas ant
-
-žemės ar po žeme (pvz., sąvartynuose ir t. t.)
-
-D2
-
-Apdorojimas
-
-žemėje (pvz., biologinis skystų atliekų ar dumblo skaidymas dirvožemyje ir t.
-
-t.)
-
-D3
-
-Giluminis
-
-įpurškimas (pvz., pumpuojamų atliekų įpurškimas į šulinius, šachtas, druskos
-
-olas ar natūraliai susidariusias ertmes ir t.t.)
-
-D4
-
-Surinkimas į
-
-tvenkinius ant žemės paviršiaus (pvz., skystųjų atliekų ar dumblo supylimas į
-
-duobes, baseinus ar lagūnas ir t. t.)
-
-D5
-
-Šalinimas
-
-specialiai įrengtuose sąvartynuose (pvz., dėjimas į atskiras sekcijas, kurios
-
-uždengiamos ir izoliuojamos viena nuo kitos, nuo aplinkos ir t. t.)
-
-D6
-
-Išmetimas į
-
-vandens telkinį, išskyrus jūras (vandenynus)
-
-D7
-
-Išmetimas į
-
-jūras (vandenynus), įskaitant įterpimą į jūros dugną
-
-D8
-
-Šiame sąraše
-
-smulkiau neapibūdintas biologinis apdorojimas, kurio metu gaunami galutiniai
-
-junginiai ar mišiniai šalinami bet kuriuo D1–D12 nurodytu būdu
-
-D9
-
-Šiame sąraše
-
-smulkiau neapibūdintas fizikinis-cheminis apdorojimas, kurio metu gaunami
-
-galutiniai junginiai ar mišiniai šalinami bet kuriuo D1–D12 nurodytu būdu
-
-(pvz., garinimas, džiovinimas, kalcinavimas ir t. t.)
-
-D10
-
-Deginimas
-
-sausumoje
-
-D11
-
-Deginimas
-
-jūroje
-
-D12
-
-Nuolatinis
-
-saugojimas (pvz., konteinerių laikymas šachtose ir t. t.)
-
-D13
-
-Maišymas prieš
-
-naudojant bet kurį D1–D12 nurodytą būdą
-
-D14
-
-Perpakavimas
-
-prieš naudojant bet kurį D1–D13 nurodytą būdą
-
-D15
-
-D1-D14
-
-nurodytais būdais šalinti skirtų atliekų saugojimas (išskyrus laikinąjį
-
-saugojimą susidarymo vietoje iki jų surinkimo)
-
-Priedo pakeitimai:
-
-Nr. IX-2214,
-
-2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
-
-Lietuvos
-
-Respublikos
-
-atliekų tvarkymo įstatymo
-
-4
-
-priedas
-
-ATLIEKŲ PAVOJINGUMĄ LEMIANČIOS
-
-SAVYBĖS
-
-H1 Sprogstamosios:
-
-medžiagos ir preparatai, kurie nuo liepsnos gali sprogti arba kurie yra
-
-jautresni smūgiui ar trinčiai negu dinitrobenzenas
-
-H2 Oksiduojamosios:
-
-medžiagos ir preparatai, kurie nuo sąlyčio su kitomis medžiagomis, ypač
-
-degiomis, sukelia stiprią egzoterminę reakciją
-
-H3-A Labai degios:
-
-– skystos medžiagos ir
-
-preparatai, kurių pliūpsnio temperatūra žemesnė negu 21 °C (įskaitant itin
-
-degius skysčius), arba
-
-– medžiagos ir preparatai, kurie nuo sąlyčio su oru aplinkos
-
-temperatūros ir slėgio sąlygomis gali įkaisti ir galiausiai savaime užsidegti,
-
-arba
-
-– kietos medžiagos ir preparatai,
-
-kurie nuo trumpo sąlyčio su ugnies šaltiniu gali lengvai užsidegti ir kurie
-
-pašalinus ugnies šaltinį dega toliau arba sudega, arba
-
-– dujinės medžiagos ir
-
-preparatai, kurie gali užsidegti ore esant normaliam slėgiui, arba
-
-– medžiagos ir preparatai, kurie
-
-nuo sąlyčio su vandeniu ar drėgnu oru skleidžia pavojingai dideliais kiekiais
-
-labai degias dujas
-
-H3-B Degios: skystos
-
-medžiagos ir preparatai, kurių pliūpsnio temperatūra lygi arba aukštesnė negu
-
-21 °C ir lygi arba žemesnė negu 55 °C
-
-H4 Dirginančios: medžiagos
-
-ir preparatai, neturintys ėdžių savybių, kurie nuo staigaus, ilgesnio ar
-
-pakartotinio sąlyčio su oda ar gleivine gali sukelti uždegimą
-
-H5 Kenksmingos: medžiagos
-
-ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali iš dalies
-
-pakenkti sveikatai
-
-H6 Toksiškos: medžiagos ir
-
-preparatai (įskaitant labai toksiškus), kurie įkvėpti, praryti ar prasiskverbę
-
-per odą gali sukelti sunkią ūmią arba chronišką ligą ar net mirtį
-
-H7 Kancerogeninės:
-
-medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali
-
-sukelti vėžį arba padidinti susirgimo vėžiu tikimybę
-
-H8 Ėdžios: medžiagos ir
-
-preparatai, prie kurių prisilietus gali būti sunaikinti gyvieji audiniai
-
-H9 Infekcinės: medžiagos,
-
-turinčios gyvybingų mikroorganizmų arba jų toksinų, kurie, kaip žinoma arba
-
-pagrįstai tikima, sukelia žmonių ar kitų gyvųjų organizmų ligas
-
-H10 Teratogeninės:
-
-medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali
-
-sukelti įgimtus nepaveldimus išsigimimus arba padidinti jų skaičių
-
-H11 Mutageninės: medžiagos
-
-ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti
-
-paveldimus genetinius išsigimimus arba padidinti jų tikimybę
-
-H12 Medžiagos ir preparatai,
-
-kurie nuo sąlyčio su vandeniu, oru ar rūgštimi išskiria toksiškas arba labai
-
-toksiškas dujas
-
-H13 Medžiagos ir preparatai,
-
-kuriuos šalinant gali susidaryti kita medžiaga (pvz., filtratas), turinti kurią
-
-nors aukščiau minėtų savybių
-
-H14 Pavojingos aplinkai:
-
-medžiagos ir preparatai, kurie sukelia arba gali sukelti staigų ar uždelstą
-
-pavojų vienam ar daugiau aplinkos komponentų
-
-Priedo žymos pakeitimas:
-
-Nr. IX-2214,
-
-2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
-
-Lietuvos
-
-Respublikos
-
-atliekų
-
-tvarkymo įstatymo
-
-5 priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS
-
-TEISĖS AKTAI
-
-1. 1975 m. birželio 16 d. Tarybos
-
-direktyva 75/439/EEB dėl naudotų alyvų šalinimo.
-
-2. 1991 m. gruodžio 12 d. Tarybos
-
-direktyva 91/689/EEB dėl pavojingų atliekų.
-
-3. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva
-
-94/62/EB dėl pakuočių ir pakuočių atliekų.
-
-4. 1996 m. rugsėjo 24 d. Tarybos
-
-direktyva 96/61/EB dėl taršos integruotos prevencijos ir kontrolės.
-
-5. 2000 m. rugsėjo 18 d. Europos Parlamento ir Tarybos direktyva 2000/53/EB
-
-dėl eksploatuoti netinkamų transporto priemonių.
-
-6. 2003 m. sausio 27 d. Europos Parlamento ir Tarybos direktyva
-
-2002/96/EB dėl elektros ir elektroninės įrangos atliekų.
-
-7. 1996 m. gegužės 24 d.
-
-Komisijos Sprendimas 96/350/EB dėl Tarybos direktyvos 75/442/EEB dėl atliekų.
-
-Lietuvos Respublikos
-
-Įstatymas papildytas priedu:
-
-Nr. IX-2214,
-
-2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
-
-_______________
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-2029, 2000 10 12, Žin., 2000, Nr.
-
-90-2776 (2000 10 27)
-
-ATLIEKŲ TVARKYMO ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis įstatymas
-
-įsigalioja nuo 2001 m. sausio 1 d.
-
-2.
-
-Lietuvos Respublikos Seimas,
-
 Įstatymas
 
-Nr. IX-721,
-
-2002-01-22, Žin., 2002, Nr. 13-475 (2002-02-06)
-
-ATLIEKŲ TVARKYMO ĮSTATYMO 32, 33,
-
-34 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis Įstatymas
-
-įsigalioja nuo 2003 m. sausio 1 d.
-
-Šis įstatymas neteko galios:
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-1004, 2002-07-01, Žin., 2002, Nr. 72-3016 (2002-07-17)
-
-ATLIEKŲ TVARKYMO ĮSTATYMO
-
-PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1004,
-
-2002-07-01, Žin., 2002, Nr. 72-3016 (2002-07-17)
-
-ATLIEKŲ TVARKYMO
-
-ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas
-
-įsigalioja nuo 2003 m. sausio 1 d., išskyrus 12 straipsnį, kuris įsigalioja nuo
-
-2003 m. kovo 1 d.
-
-Nauja įstatymo
-
-redakcija
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1615, 2003-06-10,
-
-Žin., 2003, Nr. 61-2768 (2003-06-27)
-
-ATLIEKŲ
-
-TVARKYMO ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
-
-5.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-2214,
-
-2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
-
-ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2,
-
-4, 5, 6, 8, 10, 11, 12 IR 30 STRAIPSNIŲ BEI PRIEDĖLIŲ PAKEITIMO IR ĮSTATYMO
-
-PAPILDYMO AŠTUNTUOJU(1) SKIRSNIU, 34(1) STRAIPSNIU BEI 5 PRIEDU ĮSTATYMAS
-
-6.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-279, 2005-06-28,
-
-Žin., 2005, Nr. 84-3111 (2005-07-12)
-
-ATLIEKŲ TVARKYMO ĮSTATYMO 2, 30,
-
-34 STRAIPSNIŲ IR AŠTUNTOJO(1) SKIRSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-*** Pabaiga ***
-
-Redagavo: Angonita Rupšytė
-
-(2005-07-13)
-
-anrups@lrs.lt
+papildomas 348 straipsniu nuo 2008 m. rugsėjo 26 d.:
 
 30 straipsnis.
 
@@ -5080,6 +4288,1036 @@ Pabaiga ***
 Redagavo:
 
 Aušrinė Trapinskienė (2004-05-20)
+
+autrap@lrs.lt
+
+348 straipsnis. Baterijų ir akumuliatorių
+
+tiekimas rinkai
+
+1.
+
+Baterijų ir akumuliatorių tiekimas rinkai – baterijų ir akumuliatorių
+
+tiekimas už tam tikrą mokestį arba nemokamai kitam asmeniui Europos Bendrijoje,
+
+įskaitant importą į Europos Bendrijos muitų teritoriją.
+
+2.
+
+Baterijų ir akumuliatorių gamintojams ir importuotojams draudžiama tiekti
+
+rinkai baterijas ir akumuliatorius, kuriuose viršijamas Sveikatos apsaugos
+
+ministerijos nustatytas gyvsidabrio ir kadmio kiekis.
+
+3.
+
+Baterijų ir akumuliatorių gamintojai ir importuotojai Ūkio ministerijos
+
+nustatyta tvarka privalo ženklinti tiekiamas rinkai baterijas ir
+
+akumuliatorius.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. X-1605,
+
+2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
+
+Įstatymas
+
+papildomas 349 straipsniu nuo 2008 m. rugsėjo 26 d.:
+
+349 straipsnis. Baterijų ir akumuliatorių
+
+atliekų tvarkymas
+
+1.
+
+Baterijų ir akumuliatorių gamintojai ir importuotojai privalo:
+
+1) iki 2009 m. rugsėjo 26 d. organizuoti baterijų ir akumuliatorių atliekų apdorojimo ir perdirbimo sistemą,
+
+atitinkančią Europos Sąjungos geriausių prieinamų gamybos būdų informaciniuose
+
+dokumentuose nustatytus aplinkos apsaugos ir visuomenės sveikatos saugos
+
+reikalavimus;
+
+2)
+
+užtikrinti, kad nuo 2009 m. rugsėjo 26 d. visos surinktos baterijų ir
+
+akumuliatorių atliekos būtų apdorojamos ir perdirbamos pagal Europos Bendrijos
+
+ir Lietuvos Respublikos teisės aktuose nustatytus aplinkos apsaugos, visuomenės
+
+sveikatos saugos ir atliekų tvarkymo reikalavimus;
+
+3)
+
+užtikrinti, kad nuo 2011 m. rugsėjo 26 d. perdirbant surinktas baterijų ir akumuliatorių atliekas būtų pasiektas
+
+Vyriausybės nustatytas baterijų ir akumuliatorių perdirbimo efektyvumas.
+
+2.
+
+Baterijų ir akumuliatorių gamintojai ir importuotojai Aplinkos ministerijos
+
+nustatyta tvarka per visuomenės informavimo kampanijas ir kitais būdais turi
+
+informuoti vartotojus apie baterijose ir akumuliatoriuose esančių medžiagų
+
+keliamą pavojų aplinkai ir žmonių sveikatai, baterijų ir akumuliatorių atliekų
+
+surinkimo, apdorojimo ir perdirbimo sistemas.
+
+3.
+
+Baterijų ir akumuliatorių gamintojai ir importuotojai turi padengti visų
+
+baterijų ir akumuliatorių atliekų surinkimo, vežimo, apdorojimo ir perdirbimo
+
+išlaidas, taip pat šio straipsnio 2 dalyje nurodytų visuomenės informavimo
+
+kampanijų organizavimo ir vykdymo išlaidas.
+
+4.
+
+Pramoninių ir automobiliams skirtų baterijų ir akumuliatorių gamintojai ir
+
+importuotojai gali susitarti su šių baterijų ir akumuliatorių vartotojais
+
+pramoninių ir automobiliams skirtų baterijų ir akumuliatorių atliekų tvarkymą
+
+finansuoti kitaip, negu nurodyta šio straipsnio 3 dalyje. Tokie susitarimai
+
+turi užtikrinti, kad pramoninių ir automobiliams skirtų baterijų ir
+
+akumuliatorių atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir
+
+kitų teisės aktų reikalavimų.
+
+5.
+
+Nešiojamųjų baterijų ir akumuliatorių gamintojai ir importuotojai privalo
+
+organizuoti nešiojamųjų baterijų ir akumuliatorių atliekų surinkimo sistemą,
+
+kad nešiojamųjų baterijų ir akumuliatorių atliekos iš vartotojų būtų priimamos
+
+nemokamai ir nereikalaujant pirkti naują bateriją ar akumuliatorių. Ši sistema
+
+turi sudaryti sąlygas vartotojams patogiose surinkimo vietose, išdėstytose
+
+atsižvelgiant į gyventojų tankį, atiduoti nešiojamųjų baterijų ir akumuliatorių
+
+atliekas.
+
+6.
+
+Pramoninių baterijų ir akumuliatorių gamintojai ir importuotojai privalo iš
+
+vartotojų priimti bet kokios cheminės sudėties ir kilmės pramoninių baterijų ir
+
+akumuliatorių atliekas.
+
+7.
+
+Automobiliams skirtų baterijų ir akumuliatorių gamintojai ir importuotojai
+
+privalo organizuoti automobiliams skirtų baterijų ir akumuliatorių atliekų
+
+surinkimo sistemą, kad privačiose nekomercinės paskirties transporto priemonėse
+
+naudotų baterijų ir akumuliatorių atliekos būtų surenkamos nemokamai ir
+
+nereikalaujant pirkti naują bateriją ar akumuliatorių.
+
+8. Visi
+
+ūkio subjektai –
+
+baterijų ir akumuliatorių gamintojai, importuotojai, platintojai, baterijų ir
+
+akumuliatorių atliekų tvarkytojai –
+
+turi teisę dalyvauti šiame straipsnyje nurodytose baterijų ir akumuliatorių
+
+atliekų surinkimo, apdorojimo ir perdirbimo sistemose.
+
+9.
+
+Baterijų ir akumuliatorių atliekų tvarkymo taisykles, baterijų ir akumuliatorių
+
+priskyrimo nešiojamosioms, automobiliams skirtoms, pramoninėms ar kitoms
+
+baterijų ir akumuliatorių rūšims tvarką ir reikalavimus nešiojamųjų ir
+
+automobiliams skirtų baterijų ir akumuliatorių atliekų surinkimo sistemoms
+
+nustato Aplinkos ministerija.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. X-1605,
+
+2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
+
+Įstatymas
+
+papildomas 3410 straipsniu nuo 2008 m. rugsėjo 26 d.:
+
+3410
+
+straipsnis. Nešiojamųjų baterijų ir akumuliatorių platintojų pareigos
+
+1.
+
+Nešiojamųjų baterijų ir akumuliatorių platintojai privalo:
+
+1)
+
+nemokamai priimti vartotojų atiduodamas nešiojamųjų baterijų ir akumuliatorių
+
+atliekas;
+
+2)
+
+Aplinkos ministerijos nustatyta tvarka informuoti vartotojus apie galimybę
+
+atiduoti nešiojamųjų baterijų ir akumuliatorių atliekas jų prekybos vietose;
+
+3)
+
+iš vartotojų priimtas nešiojamųjų baterijų ir akumuliatorių atliekas perduoti
+
+įmonėms, turinčioms teisę tvarkyti šias atliekas.
+
+2.
+
+Parduodant nešiojamąsias baterijas ir akumuliatorius, draudžiama vartotojams
+
+atskirai nurodyti nešiojamųjų baterijų ir akumuliatorių atliekų surinkimo,
+
+apdorojimo ir perdirbimo išlaidas.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. X-1605,
+
+2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
+
+3411
+
+straipsnis. Aštuntojo1 skirsnio taikymas
+
+Šio
+
+skirsnio nuostatos netaikomos:
+
+1)
+
+su Lietuvos Respublikos pagrindinių saugumo interesų apsauga susijusiai
+
+įrangai, ginklams, amunicijai ir karinės paskirties įrangai (išskyrus gaminius,
+
+kurie nėra skirti kariniams tikslams);
+
+2) šio
+
+straipsnio 1 punkte nurodytuose gaminiuose ir skrydžiams į kosmosą skirtoje
+
+įrangoje naudojamoms baterijoms ir akumuliatoriams.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. X-1605,
+
+2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
+
+devintasis skirsnis
+
+ATSAKOMYBĖ
+
+35
+
+straipsnis. Atsakomybė
+
+Asmenys, pažeidę šio Įstatymo
+
+reikalavimus, atsako įstatymų nustatyta tvarka.
+
+dešimtasis
+
+skirsnis
+
+įstatymo įsigaliojimas
+
+36
+
+straipsnis. Pasiūlymai Vyriausybei
+
+Vyriausybė ar jos įgaliota
+
+institucija:
+
+1) iki 2003 m. sausio 1 d. nustato atliekų vežimo tranzitu, išvežimo iš Lietuvos Respublikos ir įvežimo į
+
+Lietuvos Respubliką reikalavimus.
+
+2) iki 2003 m. sausio 1 d. nustato įmonių, kurios tvarko pavojingas atliekas, licencijavimo tvarką, tokių
+
+įmonių darbuotojams taikomus kvalifikacinius reikalavimus bei jų atestavimo
+
+tvarką.
+
+37
+
+straipsnis. Įstatymo įsigaliojimas
+
+Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d., išskyrus 12 straipsnį, kuris įsigalioja nuo 2003 m. kovo 1 d.
+
+Skelbiu šį
+
+Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS
+
+PREZIDENTAS                                               VALDAS
+
+ADAMKUS
+
+Lietuvos
+
+Respublikos
+
+atliekų
+
+tvarkymo įstatymo
+
+1 priedas
+
+ATLIEKŲ
+
+KATEGORIJOS
+
+QQ1
+
+Gamybos ar
+
+vartojimo liekanos, nenurodytos žemiau
+
+QQ2
+
+Produktai,
+
+neatitinkantys gaminio charakteristikos
+
+QQ3
+
+Produktai, kurių
+
+vartojimo laikas pasibaigęs
+
+QQ4
+
+Išsipylusios,
+
+išsibarsčiusios ar kitaip nelaimingo atsitikimo metu pasklidusios medžiagos,
+
+įskaitant medžiagas, įrenginius ir t. t., užterštus tokio nelaimingo
+
+atsitikimo metu
+
+QQ5
+
+Medžiagos,
+
+užterštos vykdant planuotą veiklą (pvz.: valymo operacijų liekanos, pakuočių
+
+medžiagos, konteineriai ir t. t.)
+
+QQ6
+
+Nenaudojamos
+
+dalys (pvz.: netinkamos baterijos, išnaudoti katalizatoriai ir t. t.)
+
+QQ7
+
+Medžiagos,
+
+kurios toliau naudoti netinka (pvz.: užterštos rūgštys, užteršti tirpikliai,
+
+naudotos grūdinimo druskos ir t. t.)
+
+QQ8
+
+Pramoninių
+
+procesų liekanos (pvz.: šlakai, distiliavimo nuosėdos ir t. t.)
+
+QQ9
+
+Teršalų valymo
+
+liekanos (pvz.: skruberių nuosėdos, filtrų dulkės, naudoti filtrai ir t. t.)
+
+QQ10
+
+Mechaninio
+
+apdirbimo ir apdailos liekanos (pvz.: tekinimo, frezavimo darbų atliekos ir
+
+t. t.)
+
+QQ11
+
+Žaliavų
+
+gavybos ir apdorojimo liekanos (pvz.: kasybos atliekos, naftotiekių paplavos
+
+ir t. t.)
+
+QQ12
+
+Medžiagos su
+
+priemaišomis (pvz.: naftos produktai, užteršti polichlorintais bifenilais ir
+
+t. t.)
+
+QQ13
+
+Bet kurios
+
+medžiagos, junginiai ar produktai, kuriuos vartoti draudžia įstatymas
+
+QQ14
+
+Gaminiai,
+
+kurių jų turėtojas daugiau nebenaudoja (pvz.: žemės ūkio, namų ūkio, biuro,
+
+komercinės ir prekybos atliekos ir t. t.)
+
+QQ15
+
+Užterštos
+
+medžiagos, junginiai ar produktai, susidarę valant žemę ir gruntą
+
+QQ16
+
+Bet kurios
+
+medžiagos, junginiai ar produktai, neminimi aukščiau išvardytose kategorijose
+
+Priedo žymos pakeitimas:
+
+Nr. IX-2214,
+
+2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
+
+Lietuvos
+
+Respublikos
+
+atliekų
+
+tvarkymo įstatymo
+
+2 priedas
+
+ATLIEKŲ
+
+NAUDOJIMO BŪDAI
+
+R1
+
+Naudojimas
+
+kurui arba kitais būdais energijai gauti
+
+R2
+
+Tirpiklių
+
+atnaujinimas (regeneracija)
+
+R3
+
+Organinių
+
+medžiagų, nenaudojamų kaip tirpikliai, perdirbimas (atnaujinimas) (įskaitant
+
+kompostavimą ir kitus biologinio pakeitimo procesus)
+
+R4
+
+Metalų ir
+
+metalų junginių perdirbimas (atnaujinimas)
+
+R5
+
+Kitų
+
+neorganinių medžiagų perdirbimas (atnaujinimas)
+
+R6
+
+Rūgščių arba bazių
+
+regeneracija
+
+R7
+
+Taršai mažinti
+
+naudojamų komponentų naudojimas
+
+R8
+
+Katalizatorių
+
+komponentų naudojimas
+
+R9
+
+Pakartotinis
+
+naftos rafinavimas arba kitoks pakartotinis naftos produktų naudojimas
+
+R10
+
+Apdorojimas
+
+žemėje, naudingas žemės ūkiui ar gerinantis aplinkos būklę
+
+R11
+
+Atliekų, gautų
+
+R1–R10 naudojimo būdais, naudojimas
+
+R12
+
+Pasikeitimas
+
+atliekomis, siekiant taikyti joms bet kurį iš R1–R11 naudojimo būdų
+
+R13
+
+Atliekų,
+
+skirtų naudoti, R1–R12 nurodytais būdais, saugojimas (išskyrus laikinąjį
+
+saugojimą susidarymo vietoje iki jų surinkimo)
+
+Priedo pakeitimai:
+
+Nr. IX-2214,
+
+2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
+
+Lietuvos
+
+Respublikos
+
+atliekų
+
+tvarkymo įstatymo
+
+3 priedas
+
+ATLIEKŲ ŠALINIMO
+
+BŪDAI
+
+D1
+
+Išvertimas ant
+
+žemės ar po žeme (pvz., sąvartynuose ir t. t.)
+
+D2
+
+Apdorojimas
+
+žemėje (pvz., biologinis skystų atliekų ar dumblo skaidymas dirvožemyje ir t.
+
+t.)
+
+D3
+
+Giluminis
+
+įpurškimas (pvz., pumpuojamų atliekų įpurškimas į šulinius, šachtas, druskos
+
+olas ar natūraliai susidariusias ertmes ir t.t.)
+
+D4
+
+Surinkimas į
+
+tvenkinius ant žemės paviršiaus (pvz., skystųjų atliekų ar dumblo supylimas į
+
+duobes, baseinus ar lagūnas ir t. t.)
+
+D5
+
+Šalinimas
+
+specialiai įrengtuose sąvartynuose (pvz., dėjimas į atskiras sekcijas, kurios
+
+uždengiamos ir izoliuojamos viena nuo kitos, nuo aplinkos ir t. t.)
+
+D6
+
+Išmetimas į
+
+vandens telkinį, išskyrus jūras (vandenynus)
+
+D7
+
+Išmetimas į
+
+jūras (vandenynus), įskaitant įterpimą į jūros dugną
+
+D8
+
+Šiame sąraše
+
+smulkiau neapibūdintas biologinis apdorojimas, kurio metu gaunami galutiniai
+
+junginiai ar mišiniai šalinami bet kuriuo D1–D12 nurodytu būdu
+
+D9
+
+Šiame sąraše
+
+smulkiau neapibūdintas fizikinis-cheminis apdorojimas, kurio metu gaunami
+
+galutiniai junginiai ar mišiniai šalinami bet kuriuo D1–D12 nurodytu būdu
+
+(pvz., garinimas, džiovinimas, kalcinavimas ir t. t.)
+
+D10
+
+Deginimas
+
+sausumoje
+
+D11
+
+Deginimas
+
+jūroje
+
+D12
+
+Nuolatinis
+
+saugojimas (pvz., konteinerių laikymas šachtose ir t. t.)
+
+D13
+
+Maišymas prieš
+
+naudojant bet kurį D1–D12 nurodytą būdą
+
+D14
+
+Perpakavimas
+
+prieš naudojant bet kurį D1–D13 nurodytą būdą
+
+D15
+
+D1-D14
+
+nurodytais būdais šalinti skirtų atliekų saugojimas (išskyrus laikinąjį
+
+saugojimą susidarymo vietoje iki jų surinkimo)
+
+Priedo pakeitimai:
+
+Nr. IX-2214,
+
+2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
+
+Lietuvos
+
+Respublikos
+
+atliekų tvarkymo įstatymo
+
+4
+
+priedas
+
+ATLIEKŲ PAVOJINGUMĄ LEMIANČIOS
+
+SAVYBĖS
+
+H1 Sprogstamosios:
+
+medžiagos ir preparatai, kurie nuo liepsnos gali sprogti arba kurie yra
+
+jautresni smūgiui ar trinčiai negu dinitrobenzenas
+
+H2 Oksiduojamosios:
+
+medžiagos ir preparatai, kurie nuo sąlyčio su kitomis medžiagomis, ypač
+
+degiomis, sukelia stiprią egzoterminę reakciją
+
+H3-A Labai degios:
+
+– skystos medžiagos ir
+
+preparatai, kurių pliūpsnio temperatūra žemesnė negu 21 °C (įskaitant itin degius skysčius), arba
+
+– medžiagos ir preparatai, kurie nuo sąlyčio su oru aplinkos
+
+temperatūros ir slėgio sąlygomis gali įkaisti ir galiausiai savaime užsidegti,
+
+arba
+
+– kietos medžiagos ir preparatai,
+
+kurie nuo trumpo sąlyčio su ugnies šaltiniu gali lengvai užsidegti ir kurie
+
+pašalinus ugnies šaltinį dega toliau arba sudega, arba
+
+– dujinės medžiagos ir
+
+preparatai, kurie gali užsidegti ore esant normaliam slėgiui, arba
+
+– medžiagos ir preparatai, kurie
+
+nuo sąlyčio su vandeniu ar drėgnu oru skleidžia pavojingai dideliais kiekiais
+
+labai degias dujas
+
+H3-B Degios: skystos
+
+medžiagos ir preparatai, kurių pliūpsnio temperatūra lygi arba aukštesnė negu 21 °C ir lygi arba žemesnė negu 55 °C
+
+H4 Dirginančios: medžiagos
+
+ir preparatai, neturintys ėdžių savybių, kurie nuo staigaus, ilgesnio ar
+
+pakartotinio sąlyčio su oda ar gleivine gali sukelti uždegimą
+
+H5 Kenksmingos: medžiagos
+
+ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali iš dalies
+
+pakenkti sveikatai
+
+H6 Toksiškos: medžiagos ir
+
+preparatai (įskaitant labai toksiškus), kurie įkvėpti, praryti ar prasiskverbę
+
+per odą gali sukelti sunkią ūmią arba chronišką ligą ar net mirtį
+
+H7 Kancerogeninės:
+
+medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali
+
+sukelti vėžį arba padidinti susirgimo vėžiu tikimybę
+
+H8 Ėdžios: medžiagos ir
+
+preparatai, prie kurių prisilietus gali būti sunaikinti gyvieji audiniai
+
+H9 Infekcinės: medžiagos,
+
+turinčios gyvybingų mikroorganizmų arba jų toksinų, kurie, kaip žinoma arba
+
+pagrįstai tikima, sukelia žmonių ar kitų gyvųjų organizmų ligas
+
+H10 Teratogeninės:
+
+medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali
+
+sukelti įgimtus nepaveldimus išsigimimus arba padidinti jų skaičių
+
+H11 Mutageninės: medžiagos
+
+ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti
+
+paveldimus genetinius išsigimimus arba padidinti jų tikimybę
+
+H12 Medžiagos ir preparatai,
+
+kurie nuo sąlyčio su vandeniu, oru ar rūgštimi išskiria toksiškas arba labai
+
+toksiškas dujas
+
+H13 Medžiagos ir preparatai,
+
+kuriuos šalinant gali susidaryti kita medžiaga (pvz., filtratas), turinti kurią
+
+nors aukščiau minėtų savybių
+
+H14 Pavojingos aplinkai:
+
+medžiagos ir preparatai, kurie sukelia arba gali sukelti staigų ar uždelstą
+
+pavojų vienam ar daugiau aplinkos komponentų
+
+Priedo žymos pakeitimas:
+
+Nr. IX-2214,
+
+2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
+
+Lietuvos
+
+Respublikos
+
+atliekų
+
+tvarkymo įstatymo
+
+5
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS
+
+TEISĖS AKTAI
+
+1. 1975 m. birželio 16 d. Tarybos direktyva 75/439/EEB
+
+dėl naudotų alyvų šalinimo (OL 2004 m. specialusis leidimas, 15
+
+skyrius, 1 tomas, p. 14) su paskutiniais pakeitimais, padarytais 2000 m. gruodžio 4 d. Europos Parlamento ir Tarybos direktyva 2000/76/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 5 tomas, p. 353).
+
+2. 1991 m. gruodžio 12 d. Tarybos direktyva 91/689/EEB dėl
+
+pavojingų atliekų (OL 2004 m. specialusis leidimas, 15 skyrius, 2
+
+tomas, p. 78) su paskutiniais pakeitimais, padarytais 2006 m. sausio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 166/2006 (OL 2006 L 33, p. 1).
+
+3. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos
+
+direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų (OL 2004 m. specialusis leidimas, 13 skyrius, 13 tomas, p. 349) su paskutiniais
+
+pakeitimais, padarytais 2005 m. kovo 9 d. Europos Parlamento ir
+
+Tarybos direktyva Nr. 2005/20/EB (OL 2005 L 70, p. 17).
+
+4. 1996 m. rugsėjo 24 d. Tarybos direktyva 96/61/EB dėl taršos integruotos prevencijos ir kontrolės (OL 2004 m. specialusis leidimas, 15 skyrius, 3 tomas, p. 80) su paskutiniais pakeitimais,
+
+padarytais 2006 m. sausio 18 d. Europos
+
+Parlamento ir Tarybos reglamentu (EB) Nr. 166/2006 (OL 2006 L 33, p. 1).
+
+5. 2000 m. rugsėjo 18 d. Europos Parlamento ir Tarybos
+
+direktyva 2000/53/EB dėl eksploatuoti netinkamų transporto priemonių (OL 2004 m. specialusis leidimas, 15 skyrius, 5 tomas, p. 224) su paskutiniais pakeitimais,
+
+padarytais 2005 m. rugsėjo 20 d. Tarybos sprendimu 2005/673/EB (OL 2005 L 254, p. 69).
+
+6. 2003 m. sausio 27 d. Europos Parlamento ir Tarybos
+
+direktyva 2002/96/EB dėl elektros ir elektroninės įrangos atliekų (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 359) su paskutiniais pakeitimais,
+
+padarytais 2003 m. gruodžio 8 d. Europos Parlamento ir Tarybos direktyva
+
+2003/108/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 7
+
+tomas, p. 692).
+
+7. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos
+
+direktyva 2006/21/EB dėl kasybos pramonės atliekų tvarkymo ir iš dalies
+
+keičianti Direktyvą 2004/35/EB (OL 2006 L 102, p. 15).
+
+8. 2006 m. balandžio 5 d.
+
+Europos Parlamento ir Tarybos direktyva 2006/12/EB dėl atliekų (OL 2006 L 114, p. 9).
+
+9. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių
+
+bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo (OL 2006 L 266, p. 1).
+
+Įstatymas papildytas priedu:
+
+Nr. IX-2214, 2004-04-29,
+
+Žin., 2004, Nr. 73-2544 (2004-04-30)
+
+Priedo
+
+pakeitimai:
+
+Nr. X-1605,
+
+2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
+
+_______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-2029, 2000 10 12, Žin., 2000, Nr.
+
+90-2776 (2000 10 27)
+
+ATLIEKŲ TVARKYMO ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja nuo 2001 m. sausio 1 d.
+
+2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-721,
+
+2002-01-22, Žin., 2002, Nr. 13-475 (2002-02-06)
+
+ATLIEKŲ TVARKYMO ĮSTATYMO 32, 33,
+
+34 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis Įstatymas
+
+įsigalioja nuo 2003 m. sausio 1 d.
+
+Šis įstatymas neteko galios:
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-1004, 2002-07-01, Žin., 2002, Nr. 72-3016 (2002-07-17)
+
+ATLIEKŲ TVARKYMO ĮSTATYMO
+
+PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1004,
+
+2002-07-01, Žin., 2002, Nr. 72-3016 (2002-07-17)
+
+ATLIEKŲ TVARKYMO
+
+ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja
+
+nuo 2003 m. sausio 1 d., išskyrus 12 straipsnį, kuris įsigalioja nuo 2003 m. kovo 1 d.
+
+Nauja įstatymo
+
+redakcija
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1615,
+
+2003-06-10, Žin., 2003, Nr. 61-2768 (2003-06-27)
+
+ATLIEKŲ
+
+TVARKYMO ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
+5.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. IX-2214,
+
+2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
+
+ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2,
+
+4, 5, 6, 8, 10, 11, 12 IR 30 STRAIPSNIŲ BEI PRIEDĖLIŲ PAKEITIMO IR ĮSTATYMO
+
+PAPILDYMO AŠTUNTUOJU(1) SKIRSNIU, 34(1) STRAIPSNIU BEI 5 PRIEDU ĮSTATYMAS
+
+6.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-279, 2005-06-28,
+
+Žin., 2005, Nr. 84-3111 (2005-07-12)
+
+ATLIEKŲ TVARKYMO ĮSTATYMO 2, 30,
+
+34 STRAIPSNIŲ IR AŠTUNTOJO(1) SKIRSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+7.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-1605,
+
+2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
+
+ATLIEKŲ TVARKYMO ĮSTATYMO 2, 30,
+
+34 STRAIPSNIŲ, 5 PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 348, 349,
+
+3410, 3411 STRAIPSNIAIS ĮSTATYMAS
+
+Šio įstatymo 4, 5, 6 straipsniai
+
+įsigalioja 2008 m. rugsėjo 26 d.
+
+*** Pabaiga ***
+
+Redagavo:
+
+Aušrinė Trapinskienė (2008-07-09)
 
 autrap@lrs.lt
 
