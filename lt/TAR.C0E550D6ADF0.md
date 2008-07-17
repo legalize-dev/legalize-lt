@@ -4,7 +4,7 @@ identifier: "TAR.C0E550D6ADF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2006-06-22"
+last_updated: "2008-07-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 department: "Lietuvos Respublikos Seimas"
@@ -62,6 +62,8 @@ kelią atsirasti bei plisti korupcijai valstybinėje tarnyboje.
 
 Pagrindinės šio įstatymo sąvokos
 
+1 ir 2 dalių redakcija iki 2008 m. rugpjūčio 18 d.:
+
 1. Asmenys,
 
 dirbantys valstybinėje tarnyboje, – valstybės politikai, valstybės
@@ -92,9 +94,35 @@ interesai – kandidato ar asmens, dirbančio valstybinėje tarnyboje, (ar jo
 
 artimojo giminaičio, ar šeimos nario) asmeninis turtinis ar neturtinis
 
-suinteresuotumas, galintis turėti įtakos sprendimams atliekant tarnybines
+suinteresuotumas, galintis turėti įtakos sprendimams atliekant tarnybines pareigas.
 
-pareigas.
+1 ir 2 dalių redakcija nuo 2008 m. rugpjūčio 18 d.:
+
+1. Asmenys, dirbantys valstybinėje
+
+tarnyboje, – valstybės politikai, valstybės pareigūnai, valstybės
+
+tarnautojai, teisėjai, profesinės karo tarnybos kariai, vykdantys operatyvinę
+
+veiklą, profesinės karo tarnybos karininkai, asmenys, dirbantys valstybės ir
+
+savivaldybių įmonėse, biudžetinėse įstaigose ir turintys administravimo
+
+įgaliojimus, asmenys, dirbantys viešosiose įstaigose, kurios gauna lėšų iš
+
+Lietuvos valstybės ar savivaldybių biudžetų ir fondų, ir turintys
+
+administravimo įgaliojimus, taip pat kiti asmenys pagal įstatymus turintys
+
+viešojo administravimo įgaliojimus.
+
+2. Privatūs
+
+interesai – asmens, dirbančio valstybinėje tarnyboje, (ar jam artimo
+
+asmens) asmeninis turtinis ar neturtinis suinteresuotumas, galintis turėti
+
+įtakos sprendimams atliekant tarnybines pareigas.
 
 3. Viešieji
 
@@ -110,6 +138,8 @@ vykdydamas pavedimą, privalo priimti sprendimą ar dalyvauti jį priimant, ar
 
 įvykdyti pavedimą, kurie susiję ir su jo privačiais interesais.
 
+5 ir 6 dalių redakcija iki 2008 m. rugpjūčio 18 d.:
+
 5. Artimieji giminaičiai ir šeimos
 
 nariai – asmenys, nurodyti Baudžiamojo kodekso 248 straipsnyje.
@@ -119,6 +149,32 @@ nariai – asmenys, nurodyti Baudžiamojo kodekso 248 straipsnyje.
 valstybinėje tarnyboje dirbančio asmens siekimas priimti sprendimą, kuris būtų
 
 palankus jam, jo artimiesiems giminaičiams ir šeimos nariams.
+
+5 ir 6 dalių redakcija nuo 2008 m. rugpjūčio 18 d.:
+
+5. Artimi asmenys – valstybinėje
+
+tarnyboje dirbančio asmens tėvai (įtėviai), vaikai (įvaikiai), broliai
+
+(įbroliai), seserys (įseserės), seneliai, vaikaičiai, sutuoktinis,
+
+sugyventinis, partneris, kai partnerystė įregistruota įstatymų nustatyta tvarka,
+
+taip pat sutuoktinio, sugyventinio, partnerio, kai partnerystė įregistruota
+
+įstatymų nustatyta tvarka, vaikai, vaikų, brolių, seserų, vaikaičių
+
+sutuoktiniai, sugyventiniai, partneriai, kai partnerystė įregistruota įstatymų
+
+nustatyta tvarka.
+
+6. Asmeninis suinteresuotumas –
+
+valstybinėje tarnyboje dirbančio asmens (ar jam artimo asmens) moralinė skola,
+
+moralinis įsipareigojimas, turtinė ar neturtinė nauda arba kitas panašaus pobūdžio
+
+interesas.
 
 7. Įmonė – visų rūšių ūkinės,
 
@@ -148,6 +204,12 @@ Nr. X-724, 2006-06-22,
 
 Žin., 2006, Nr. 77-2968 (2006-07-14)
 
+Nr.
+
+X-1667,
+
+2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
+
 3 straipsnis.
 
 Asmenų, dirbančių valstybinėje tarnyboje, prievolės
@@ -160,9 +222,19 @@ asmenys, dirbantys valstybinėje tarnyboje, privalo:
 
 atlikti tarnybines pareigas;
 
+2 punkto redakcija iki 2008 m. rugpjūčio 18 d.:
+
 2) įstatymų nustatyta tvarka ir
 
 priemonėmis vengti interesų konflikto;
+
+2 punkto redakcija nuo 2008 m. rugpjūčio 18 d.:
+
+2) teisės aktų nustatyta tvarka ir
+
+priemonėmis vengti interesų konflikto ir elgtis taip, kad nekiltų abejonių, jog
+
+toks konfliktas yra;
 
 3) nesinaudoti pareigomis asmeninei
 
@@ -171,6 +243,8 @@ naudai gauti;
 4) priimdami sprendimus, vadovautis
 
 įstatymais ir visų asmenų lygybės principu;
+
+5 ir 6 punktų redakcija iki 2008 m. rugpjūčio 18 d.:
 
 5) nesinaudoti ir neleisti naudotis
 
@@ -184,11 +258,37 @@ jokia valstybės nuosavybe, taip pat ir valstybei nuomojama nuosavybe, kitokiai
 
 nei tarnybinei veiklai.
 
+5 ir 6 punktų redakcija nuo 2008 m. rugpjūčio 18 d.:
+
+5) nesinaudoti ir neleisti naudotis
+
+tarnybine ar kita su savo veikla susijusia informacija kitokia tvarka ir mastu,
+
+negu nustato įstatymai ar kiti teisės aktai;
+
+6) nesinaudoti ir neleisti naudotis
+
+jokia valstybės ar savivaldybių nuosavybe, taip pat valstybei ar savivaldybėms
+
+nuomojama nuosavybe kitokia tvarka ir mastu, negu nustato įstatymai ar kiti
+
+teisės aktai.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+X-1667,
+
+2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
+
 ANTRASIS SKIRSNIS
 
 PRIVAČIŲ
 
 INTERESŲ DEKLARAVIMAS
+
+4 straipsnio redakcija iki 2008 m. rugpjūčio 18 d.:
 
 4 straipsnis.
 
@@ -206,19 +306,7 @@ deklaravimo taip pat taikomos politinių partijų pirmininkams ir jų
 
 pavaduotojams.
 
-Straipsnio pakeitimai:
-
-Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
-
-35-1165 (2001 04 25)
-
-Nr. IX-1809,
-
-2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
-
-Nr. X-316, 2005-07-05,
-
-Žin., 2005, Nr. 88-3286 (2005-07-21)
+4 straipsnio redakcija nuo 2008 m. rugpjūčio 18 d.:
 
 5 straipsnis.
 
@@ -272,6 +360,8 @@ Nr. X-316, 2005-07-05,
 
 Deklaracijos turinys
 
+1 dalies redakcija iki 2008 m. rugpjūčio 18 d.:
+
 1. Deklaracijoje turi būti nurodyta
 
 deklaruojančio asmens ir jo sutuoktinio:
@@ -304,15 +394,83 @@ paslaugas suteikia arba apmoka artimieji giminaičiai ar šeimos nariai;
 
 5) narystė, pareigos ir ryšiai su
 
-įmonėmis, įstaigomis, bendrijomis, fondais ar asociacijomis (taip pat ir
+įmonėmis, įstaigomis, bendrijomis, fondais ar asociacijomis (taip pat ir tarptautinėmis),
 
-tarptautinėmis), išskyrus narystę politinėse partijose;
+išskyrus narystę politinėse partijose;
 
 6) artimieji giminaičiai ir šeimos
 
-nariai bei kiti deklaruojančiam asmeniui žinomi asmenys, dėl kurių  gali kilti
+nariai bei kiti deklaruojančiam asmeniui žinomi asmenys, dėl kurių gali kilti
 
 interesų konfliktas.
+
+1 dalies redakcija nuo 2008 m. rugpjūčio 18 d.:
+
+1. Deklaruojantis asmuo deklaracijoje
+
+privalo nurodyti šiuos savo ir sutuoktinio (sugyventinio, partnerio) duomenis:
+
+1) vardą, pavardę, asmens kodą,
+
+valstybinio socialinio draudimo pažymėjimo numerį, darbovietę (darbovietes) ir
+
+pareigas;
+
+2) juridinį asmenį, kurio dalyvis jis ar
+
+jo sutuoktinis (sugyventinis, partneris) yra;
+
+3) savo ar sutuoktinio (sugyventinio,
+
+partnerio) individualią veiklą, kaip ji apibrėžta Gyventojų pajamų mokesčio
+
+įstatyme;
+
+4) narystę ir pareigas įmonėse, įstaigose,
+
+asociacijose ar fonduose, išskyrus narystę politinėse partijose ar
+
+organizacijose;
+
+5) per paskutinius 12 kalendorinių mėnesių gautas
+
+dovanas iš artimų asmenų, jeigu dovanų vertė didesnė negu 50 MGL;
+
+6) per paskutinius 12 kalendorinių mėnesių gautas
+
+dovanas iš kitų asmenų (išskyrus artimus asmenis), jeigu dovanų vertė didesnė
+
+negu 5 MGL;
+
+7) per paskutinius 12 kalendorinių mėnesių
+
+neatlygintinai artimų asmenų jam ar sutuoktiniui (sugyventiniui, partneriui)
+
+suteiktas paslaugas ar apmokėtas išlaidas jo ar sutuoktinio (sugyventinio,
+
+partnerio) gautoms paslaugoms ar kitokio pobūdžio reikmėms, jeigu jų vertė
+
+(dydis) viršija 50 MGL;
+
+8) per paskutinius 12 kalendorinių mėnesių
+
+neatlygintinai kitų asmenų (išskyrus artimus asmenis) jam ar sutuoktiniui
+
+(sugyventiniui, partneriui) suteiktas paslaugas ar apmokėtas išlaidas jo ar
+
+sutuoktinio (sugyventinio, partnerio) gautoms paslaugoms ar kitokio pobūdžio
+
+reikmėms, jeigu jų vertė (dydis) viršija 5 MGL;
+
+9) informaciją apie savo ar sutuoktinio
+
+(sugyventinio, partnerio) per paskutinius 12 kalendorinių mėnesių sudarytus
+
+sandorius, jeigu sandorio vertė didesnė negu 20 MGL;
+
+10) artimus asmenis ar kitus jam žinomus asmenis,
+
+dėl kurių, deklaruojančiojo nuomone, gali kilti interesų konfliktas.
 
 2. Deklaruojantis asmuo turi
 
@@ -348,6 +506,14 @@ Nr. X-316, 2005-07-05,
 
 Žin., 2005, Nr. 88-3286 (2005-07-21)
 
+Nr.
+
+X-1667,
+
+2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
+
+7 straipsnio redakcija iki 2008 m. rugpjūčio 18 d.:
+
 7 straipsnis.
 
 Deklaracijos duomenų patvirtinimas, tikslinimas ir papildymas
@@ -382,11 +548,7 @@ deklaracijos priedą dėl duomenų patvirtinimo, patikslinimo ar papildymo. Šis
 
 priedas yra neatskiriama deklaracijos dalis.
 
-Straipsnio pakeitimai:
-
-Nr. X-316, 2005-07-05,
-
-Žin., 2005, Nr. 88-3286 (2005-07-21)
+7 straipsnio redakcija nuo 2008 m. rugpjūčio 18 d.:
 
 8 straipsnis.
 
@@ -408,11 +570,7 @@ kurioms jos yra pateiktos. Už deklaracijų saugojimą yra atsakingi institucij�
 
 vadovai ar jų įgalioti atstovai.
 
-Straipsnio pakeitimai:
-
-Nr. X-316, 2005-07-05,
-
-Žin., 2005, Nr. 88-3286 (2005-07-21)
+8 straipsnio redakcija nuo 2008 m. rugpjūčio 18 d.:
 
 9 straipsnis.
 
@@ -422,13 +580,11 @@ Deklaracijoje
 
 pateiktus duomenis gali tikrinti:
 
-1) institucijos, kurioje asmuo dirba, vadovas
+1) institucijos, kurioje asmuo dirba,
 
-ar jo įgalioti asmenys;
+vadovas ar jo įgalioti asmenys;
 
-2) Vyriausioji tarnybinės etikos
-
-komisija;
+2) Vyriausioji tarnybinės etikos komisija;
 
 3) valstybinė mokesčių inspekcija;
 
@@ -441,6 +597,8 @@ Straipsnio pakeitimai:
 Nr. X-316, 2005-07-05,
 
 Žin., 2005, Nr. 88-3286 (2005-07-21)
+
+10 straipsnio redakcija iki 2008 m. rugpjūčio 18 d.:
 
 10 straipsnis.
 
@@ -462,9 +620,9 @@ tarnybinės etikos komisijos nustatyta tvarka.
 
 2. Detalų šio
 
-straipsnio 1 dalyje išvardytų pareigybių sąrašą nustato ir tikslina
+straipsnio 1 dalyje išvardytų pareigybių sąrašą nustato ir tikslina Vyriausioji
 
-Vyriausioji tarnybinės etikos komisija.
+tarnybinės etikos komisija.
 
 3. Kitų asmenų, dirbančių valstybinėje
 
@@ -472,35 +630,7 @@ tarnyboje, deklaracijų duomenys gali būti skelbiami Vyriausiosios tarnybinės
 
 etikos komisijos motyvuotu sprendimu.
 
-Straipsnio pakeitimai:
-
-Nr. VIII-1936, 2000 09 19, Žin., 2000, Nr.
-
-85-2574 (2000 10 11)
-
-Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
-
-35-1165 (2001 04 25)
-
-Nr. IX-1505,
-
-2003-04-17, Žin., 2003, Nr. 42-1911 (2003-05-01)
-
-Nr. IX-1809,
-
-2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
-
-Nr. X-316, 2005-07-05,
-
-Žin., 2005, Nr. 88-3286 (2005-07-21)
-
-TREČIASIS SKIRSNIS
-
-REIKALAVIMAI
-
-ASMENIMS, DIRBANTIEMS VALSTYBINĖJE
-
-TARNYBOJE
+10 straipsnio redakcija nuo 2008 m. rugpjūčio 18 d.:
 
 11 straipsnis.
 
@@ -550,13 +680,11 @@ pobūdžio institucijų darbo, jeigu tai sukelia interesų konfliktą.
 
 5. Institucijos vadovas arba jo
 
-įgaliotas atstovas gali nušalinti valstybinėje tarnyboje dirbantį asmenį nuo
+įgaliotas atstovas gali nušalinti valstybinėje tarnyboje dirbantį asmenį nuo konkretaus
 
-konkretaus sprendimo rengimo, svarstymo ar priėmimo procedūros, jeigu yra
+sprendimo rengimo, svarstymo ar priėmimo procedūros, jeigu yra pakankamas
 
-pakankamas pagrindas manyti, kad šio asmens dalyvavimas sukels interesų
-
-konfliktą.
+pagrindas manyti, kad šio asmens dalyvavimas sukels interesų konfliktą.
 
 6. Šio straipsnio nuostatos netaikomos
 
@@ -578,11 +706,13 @@ Nr. IX-1438,
 
 Teisės atstovauti apribojimai
 
+1 dalies redakcija iki 2008 m. rugpjūčio 18 d.:
+
 1. Asmuo, dirbantis valstybinėje
 
-tarnyboje, negali atstovauti valstybei ar savivaldybei arba valstybės,
+tarnyboje, negali atstovauti valstybei ar savivaldybei arba valstybės, savivaldybės
 
-savivaldybės institucijoms:
+institucijoms:
 
 1) tvarkydamas reikalus su fiziniais ar
 
@@ -599,6 +729,26 @@ kaip 10 procentų įstatinio kapitalo arba akcijų;
 3) jeigu dėl to kyla interesų
 
 konfliktas.
+
+1 dalies redakcija nuo 2008 m. rugpjūčio 18 d.:
+
+1. Asmuo, dirbantis valstybinėje
+
+tarnyboje, negali atstovauti valstybei ar savivaldybei arba valstybės,
+
+savivaldybės institucijoms:
+
+1) tvarkydamas reikalus su fiziniais ar
+
+juridiniais asmenimis, iš kurių jis ar jam artimi asmenys gauna bet kurios
+
+rūšies pajamų;
+
+2) tvarkydamas reikalus su visų rūšių
+
+įmonėmis, kuriose jis ar jam artimi asmenys turi daugiau kaip 10 procentų
+
+įstatinio kapitalo arba akcijų.
 
 2. Asmuo, dirbantis valstybinėje
 
@@ -618,6 +768,14 @@ vadovas ar jo įgaliotas atstovas. Sprendimas apie išimties taikymą turi būti
 
 viešai paskelbtas.
 
+Straipsnio pakeitimai:
+
+Nr.
+
+X-1667,
+
+2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
+
 13 straipsnis.
 
 Tarnybinių teisių apribojimas
@@ -628,6 +786,8 @@ tarnyboje, negali naudoti savo pareigų, galių ir vardo, siekdamas paveikti kit
 
 asmenų sprendimą, kuris sukeltų interesų konfliktą.
 
+2 dalies redakcija iki 2008 m. rugpjūčio 18 d.:
+
 2. Asmuo, dirbantis valstybinėje
 
 tarnyboje, negali savo, savo artimųjų giminaičių, šeimos narių privačių
@@ -635,6 +795,24 @@ tarnyboje, negali savo, savo artimųjų giminaičių, šeimos narių privačių
 interesų naudai naudotis ir leisti naudotis informacija, kurią jis įgijo
 
 eidamas pareigas, kitokia tvarka ir mastu, nei nustato įstatymas.
+
+2 dalies redakcija nuo 2008 m. rugpjūčio 18 d.:
+
+2. Asmuo, dirbantis valstybinėje
+
+tarnyboje, negali savo ar jam artimų asmenų privačių interesų naudai naudotis
+
+ir leisti naudotis informacija, kurią jis įgijo eidamas pareigas, kitokia
+
+tvarka ir mastu, negu nustato įstatymai ar kiti teisės aktai.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+X-1667,
+
+2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
 
 14 straipsnis.
 
@@ -666,6 +844,8 @@ tai per kalendorinį mėnesį deklaruoti. Ši deklaracija pridedama prie metinė
 
 privačių interesų deklaracijos ir yra jos priedas.
 
+3 dalis netenka galios nuo 2008 m. rugpjūčio 18 d.
+
 4. Jeigu šio straipsnio 2 dalyje
 
 nurodytos dovanos vertė viršija 5 MGL, ši dovana yra laikoma valstybės ar
@@ -673,6 +853,16 @@ nurodytos dovanos vertė viršija 5 MGL, ši dovana yra laikoma valstybės ar
 savivaldybės nuosavybe. Tokia dovana įvertinama ir saugoma Vyriausiosios
 
 tarnybinės etikos komisijos nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+X-1667,
+
+2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
+
+15 straipsnio redakcija iki 2008 m. rugpjūčio 18 d.:
 
 15 straipsnis. Kiti apribojimai ir draudimai
 
@@ -686,19 +876,7 @@ pareigas, o atleisti iš valstybinės tarnybos už šio įstatymo pažeidimus tr
 
 metus nuo atleidimo negali būti priimami į valstybinę tarnybą.
 
-Straipsnio
-
-pakeitimai:
-
-Nr. IX-1809,
-
-2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
-
-KETVIRTASIS SKIRSNIS
-
-PRIEVOLĖS
-
-IEŠKANT KITO DARBO
+15 straipsnio redakcija nuo 2008 m. rugpjūčio 18 d.:
 
 16 straipsnis.
 
@@ -842,13 +1020,13 @@ klausimais, kurie buvo priskirti jo tarnybinėms funkcijoms.
 
 3. Asmeniui, dirbančiam valstybinėje
 
-tarnyboje, neleidžiama turėti tarnybinių santykių su anksčiau valstybinėje tarnyboje
+tarnyboje, neleidžiama turėti tarnybinių santykių su anksčiau valstybinėje
 
-dirbusiu asmeniu, kuriam taikomi šio straipsnio 1 dalies apribojimai. Asmuo,
+tarnyboje dirbusiu asmeniu, kuriam taikomi šio straipsnio 1 dalies apribojimai.
 
-dirbantis valstybinėje tarnyboje, apie tokius tarnybinius santykius privalo
+Asmuo, dirbantis valstybinėje tarnyboje, apie tokius tarnybinius santykius
 
-nedelsdamas informuoti savo institucijos vadovą ar jo įgaliotą atstovą.
+privalo nedelsdamas informuoti savo institucijos vadovą ar jo įgaliotą atstovą.
 
 Straipsnio pakeitimai:
 
@@ -871,6 +1049,8 @@ tarnybinės etikos komisija.
 ŠEŠTASIS SKIRSNIS
 
 ĮSTATYMO VYKDYMO KONTROLĖ
+
+22 straipsnio redakcija iki 2008 m. rugpjūčio 18 d.:
 
 22 straipsnis.
 
@@ -932,6 +1112,8 @@ visais gaunamais pareiškimais, kuriuose pateikiama informacija apie šio
 
 įstatymo pažeidimus.
 
+22 straipsnio redakcija nuo 2008 m. rugpjūčio 18 d.:
+
 23 straipsnis.
 
 Vyriausioji tarnybinės etikos komisija
@@ -952,7 +1134,7 @@ reputacijos. Vyriausiosios tarnybinės etikos komisijos sudėtį tvirtina Seimas
 
 Vyriausiosios tarnybinės etikos komisijos narių kadencijos laikas – 5 metai.
 
-Tas pats  asmuo Vyriausiosios tarnybinės etikos komisijos nariu gali būti ne
+Tas pats asmuo Vyriausiosios tarnybinės etikos komisijos nariu gali būti ne
 
 daugiau kaip dvi kadencijas iš eilės. Vyriausiosios tarnybinės etikos komisijos
 
@@ -990,7 +1172,7 @@ pareiškia nepasitikėjimą juo.
 
 4. Vyriausiosios tarnybinės etikos
 
-komisijos narių darbo užmokestį, mokamą Lietuvos  Respublikos valstybės
+komisijos narių darbo užmokestį, mokamą Lietuvos Respublikos valstybės
 
 politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta
 
@@ -1122,19 +1304,7 @@ reikalavimus ir taikyti šio įstatymo 15 straipsnyje nustatytus kitus
 
 apribojimus ir draudimus.
 
-Straipsnio pakeitimai:
-
-Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
-
-35-1165 (2001 04 25)
-
-Nr. IX-1809,
-
-2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
-
-Nr. X-316, 2005-07-05,
-
-Žin., 2005, Nr. 88-3286 (2005-07-21)
+23 straipsnio redakcija nuo 2008 m. rugpjūčio 18 d.:
 
 24 straipsnis.
 
@@ -1212,11 +1382,9 @@ Nr. VIII-1562, 2000 02 17, Žin., 2000, Nr.
 
 18-431 (2000 02 29)
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO
 
-RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ
-
-DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO PAKEITIMO ĮSTATYMAS
+VALSTYBINĖJE TARNYBOJE ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Nauja įstatymo redakcija
 
@@ -1304,9 +1472,9 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis Įstatymas
 
-įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
 
-Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
 
 2003 m. gegužės 1 d.
 
@@ -1416,9 +1584,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-724,
+X-724, 2006-06-22,
 
-2006-06-22, Žin., 2006, Nr. 77-2968 (2006-07-14)
+Žin., 2006, Nr. 77-2968 (2006-07-14)
 
 VIEŠŲJŲ
 
@@ -1426,13 +1594,35 @@ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 2 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
+16.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-1667,
+
+2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
+
+VIEŠŲJŲ
+
+IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 2, 3, 4, 6, 7, 8,
+
+10, 12, 13, 14, 15, 22, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja po vieno kalendorinio mėnesio nuo paskelbimo leidinyje
+
+„Valstybės žinios“.
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2006-07-14)
+Aušrinė Trapinskienė (2008-07-29)
 
 autrap@lrs.lt
 
