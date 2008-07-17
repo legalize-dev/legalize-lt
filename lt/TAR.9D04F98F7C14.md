@@ -4,7 +4,7 @@ identifier: "TAR.9D04F98F7C14"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-07"
-last_updated: "2008-06-21"
+last_updated: "2008-07-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -1568,35 +1568,23 @@ savivaldybė (valstybė) neturi lėšų – jų nuomininkams, jeigu šie nuomini
 
 išgyvenę juose ne mažiau kaip trejus metus;
 
-4) tarnybinės
+4) (neteko
 
-gyvenamosios patalpos – Vyriausybės nustatyta tvarka jų nuomininkams, jeigu
+galios nuo 2008 m. liepos 17 d.)
 
-šios patalpos tampa nereikalingos institucijų, valdančių jas nuosavybės ar
+3. Už
 
-patikėjimo teise, darbuotojams (tarnautojams) apgyvendinti dėl šių darbo
+privatizuojamas gyvenamąsias patalpas pagal šiame straipsnyje nurodytas sąlygas
 
-(tarnybos) pobūdžio ir yra priimti šių institucijų sprendimai dėl patalpų
+atsiskaitoma pinigais, sumokant nustatytą sumą iš karto arba privatizuojančiojo
 
-tarnybinio statuso panaikinimo ir išbraukimo iš tarnybinių gyvenamųjų patalpų
+pageidavimu išsimokėtinai per 10 metų. Parduodant išsimokėtinai skaičiuojamos
 
-apskaitos. Kriterijus, kuriais vadovaujantis tokios patalpos negali būti
+Vyriausybės arba jos įgaliotos institucijos nustatyto dydžio palūkanos.
 
-privatizuojamos, nustato Vyriausybė.
+Privatizavimo tvarką, taip pat lėšų, gautų už privatizuojamas gyvenamąsias
 
-3. Už privatizuojamas
-
-gyvenamąsias patalpas pagal šiame straipsnyje nurodytas sąlygas atsiskaitoma
-
-pinigais, sumokant nustatytą sumą iš karto arba privatizuojančiojo pageidavimu
-
-išsimokėtinai per 10 metų. Parduodant išsimokėtinai skaičiuojamos Vyriausybės
-
-arba jos įgaliotos institucijos nustatyto dydžio palūkanos. Privatizavimo
-
-tvarką, taip pat lėšų, gautų už privatizuojamas gyvenamąsias patalpas,
-
-apskaitos ir naudojimo tvarką nustato Vyriausybė.
+patalpas, apskaitos ir naudojimo tvarką nustato Vyriausybė.
 
 4. Savivaldybės
 
@@ -1618,11 +1606,15 @@ pakeitimai:
 
 12
 
-straipsnio 3 dalies atitaisymas skelbtas: Žin., 2003, Nr. 3 (2003-01-10)
+straipsnio 3 dalies atitaisymas skelbtas: Žin., 2003, Nr. 3
 
 Nr. IX-1549,
 
 2003-04-29, Žin., 2003, Nr. 48-2109 (2003-05-15)
+
+Nr. X-1681,
+
+2008-07-03, Žin., 2008, Nr. 81-3182 (2008-07-17)
 
 Įstatymas
 
@@ -3458,11 +3450,11 @@ GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS
 
 ĮSTATYMO PAPILDYMO 13 STRAIPSNIU, 14 IR 18 STRAIPSNIŲ PAKEITIMO IR BUTŲ
 
-PRIVATIZAVIMO ĮSTATYMO BEI LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS - ATKURIAMOJO
+PRIVATIZAVIMO ĮSTATYMO BEI LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS -
 
-SEIMO NUTARIMO „DĖL LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO
+ATKURIAMOJO SEIMO NUTARIMO „DĖL LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO
 
-ĮSIGALIOJIMO“ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+ĮSTATYMO ĮSIGALIOJIMO“ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
 Šis
 
@@ -3510,9 +3502,9 @@ IX-1549,
 
 VALSTYBĖS
 
-PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO 2, 4, 6, 8, 12 STRAIPSNIŲ
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO 2, 4, 6, 8, 12 STRAIPSNIŲ PAKEITIMO
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+IR PAPILDYMO ĮSTATYMAS
 
 10.
 
@@ -3534,9 +3526,9 @@ MOKSLININKŲ VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO, VALSTYBINIŲ PENSIJŲ
 
 ĮSTATYMO, VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO, PINIGINĖS
 
-SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS
+SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS)
 
-ASMENIMS) ĮSTATYMO PAKEITIMO ĮSTATYMAS
+ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 11.
 
@@ -3614,9 +3606,9 @@ X-1073,
 
 VALSTYBĖS
 
-PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI ĮSTATYMO
 
-ĮSTATYMO 11 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+11 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 
 Šio
 
@@ -3644,13 +3636,31 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
 
 įstatymas įsigalioja 2009 m. sausio 1 d.
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1681,
+
+2008-07-03, Žin., 2008, Nr. 81-3182 (2008-07-17)
+
+VALSTYBĖS
+
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
+
+ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2008-06-27)
+Aušrinė Trapinskienė (2008-07-17)
 
 autrap@lrs.lt
 
