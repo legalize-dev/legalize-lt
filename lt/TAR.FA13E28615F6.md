@@ -4,7 +4,7 @@ identifier: "TAR.FA13E28615F6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-11"
-last_updated: "2005-11-26"
+last_updated: "2008-07-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,23 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2005-11-26 iki 2008-07-30
+Suvestinė redakcija nuo 2008-07-31 iki 2009-06-24
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
+
+Nauja redakcija nuo 2005-11-26:
+
+Nr. X-383, 2005-11-10, Žin. 2005, Nr. 139-5008 (2005-11-26), i. k. 1051010ISTA000X-383
+
+LIETUVOS RESPUBLIKOS TEISĖS GAUTI INFORMACIJĄ IŠ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ  ĮSTATYMAS
+
+2000 m. sausio 11 d. Nr. VIII-1524
+
+Vilnius
+
+PIRMASIS SKIRSNIS
+
+BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo tikslas ir taikymas
 
@@ -29,7 +43,11 @@ Suvestinė redakcija nuo 2005-11-26 iki 2008-07-30
 
 3. Šis įstatymas, išskyrus jo 7 straipsnyje nustatytą privačios informacijos teikimą ir viešojo administravimo funkcijų vykdymą, netaikomas:
 
-1) informacijai, kurios tvarkymas yra veikla, nesusijusi su valstybės ir savivaldybių institucijoms ar įstaigoms teisės aktais pavestų funkcijų vykdymu;
+1) informacijai, kurios tvarkymas yra veikla, nesusijusi su valstybės ir savivaldybių institucijoms ar įstaigoms teisės aktais pavestų funkcijų vykdymu, išskyrus informaciją apie valstybės ir savivaldybių institucijų ir įstaigų darbuotojų darbo užmokestį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1716, 2008-07-15, Žin., 2008, Nr. 87-3473 (2008-07-31), i. k. 1081010ISTA00X-1716
 
 2) informacijai, į kurią valstybės ir savivaldybių institucijos ir įstaigos turi pramoninės nuosavybės teises ar trečiosios šalys turi autorių, gretutines ar duomenų bazių gamintojų (sui generis) teises;
 
@@ -53,7 +71,11 @@ Suvestinė redakcija nuo 2005-11-26 iki 2008-07-30
 
 1. Dokumentas – bet kokia valstybės, savivaldybių( )institucijos ar įstaigos sukurta ar gauta teiktina informacija ar jos dalis, išreikšta rašytine, įskaitant elektroninę, grafine, garsine ir (ar) vaizdine forma.
 
-2. Informacija – žinios, kuriomis disponuoja valstybės ir savivaldybių institucija ar įstaiga.
+2. Informacija – žinios, kuriomis disponuoja valstybės ir savivaldybių institucija ar įstaiga, įskaitant informaciją apie jų darbuotojų darbo užmokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1716, 2008-07-15, Žin., 2008, Nr. 87-3473 (2008-07-31), i. k. 1081010ISTA00X-1716
 
 3. Informacijos rinkmena – susistemintas dokumentų, išdėstytų pagal tam tikrus kriterijus, leidžiančius lengviau surasti dokumentus, rinkinys.
 
@@ -69,7 +91,11 @@ Suvestinė redakcija nuo 2005-11-26 iki 2008-07-30
 
 9. Privati informacija – ypatingi fizinio asmens duomenys, kaip juos nustato Asmens duomenų teisinės apsaugos įstatymas, informacija apie asmenį ir jo šeimos gyvenimą, su fizinio asmens garbe ir orumu susijusi informacija.
 
-10. Valstybės ir savivaldybių institucijos ir įstaigos (toliau – įstaigos) – atstovaujamosios, valstybės vadovo, vykdomosios, teisminės valdžios institucijos, teisėsaugos institucijos ir įstaigos, auditą, kontrolę (priežiūrą) atliekančios institucijos ir įstaigos, kitos valstybės ir savivaldybių institucijos ir įstaigos, kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir kurioms įstatymai suteikia viešojo administravimo įgaliojimus, taip pat įmonės ir įstaigos, teikiančios asmenims viešąsias paslaugas.
+10. Valstybės ir savivaldybių institucijos ir įstaigos (toliau – įstaigos) – atstovaujamosios, valstybės vadovo, vykdomosios, teisminės valdžios institucijos, teisėsaugos institucijos ir įstaigos, auditą, kontrolę (priežiūrą) atliekančios institucijos ir įstaigos, kitos valstybės ir savivaldybių institucijos ir įstaigos, kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir kurioms įstatymai suteikia viešojo administravimo įgaliojimus, įmonės ir įstaigos, teikiančios asmenims viešąsias paslaugas; taip pat valstybės ir savivaldybių įmonės, viešosios įstaigos, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, akcinės bendrovės ir uždarosios akcinės bendrovės, kuriose valstybei arba savivaldybei priklauso daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime, kai jos teikia informaciją apie savo darbuotojų darbo užmokestį šio įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1716, 2008-07-15, Žin., 2008, Nr. 87-3473 (2008-07-31), i. k. 1081010ISTA00X-1716
 
 3 straipsnis. Įstaigų pareiga teikti informaciją
 
@@ -141,27 +167,15 @@ INFORMACIJOS TEIKIMO PAKARTOTINIAM PANAUDOJIMUI SĄLYGOS
 
 3. Informacijos rinkmenos, kurioms naudoti išduodami leidimai, teikiamos tik pareiškėjui patvirtinus, kad sutinka su leidimo sąlygomis. Įstaigos sudaro galimybes pareiškėjams sutikimą su leidimo sąlygomis patvirtinti elektroninėmis priemonėmis.
 
-TAR pastaba. Šio įstatymo 11 straipsnis įsigalioja nuo 2006 m. liepos 1 d. Šio įstatymo įsigaliojimo momentu (2005-11-26) galiojantys šio įstatymo 9 straipsnio 1 dalyje nurodyti susitarimai, kuriems negali būti taikoma išimtis pagal šio įstatymo 9 straipsnio 3 dalį, negali būti pratęsti arba visais atvejais turi būti nutraukiami ne vėliau kaip iki 2008 m. gruodžio 31 d.
+11 straipsnis. Informacijos rinkmenų sąrašas
 
-Lietuvos Respublikos Seimas, Įstatymas
+1. Informacijos rinkmenų sąrašą tvarko Vyriausybės įgaliota institucija.
 
-Nr. X-383, 2005-11-10, Žin., 2005, Nr. 139-5008 (2005-11-26), i. k. 1051010ISTA000X-383
+2. Duomenis apie elektroninėmis priemonėmis tvarkomų informacijos rinkmenų turinį, formą, teikimo ir panaudojimo bei prieigos sąlygas įstaigos perduoda Vyriausybės įgaliotai institucijai. Duomenų informacijos rinkmenų sąrašui pateikimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo pakeitimo įstatymas
+KETVIRTASIS SKIRSNIS
 
-Nauja redakcija nuo 2005-11-26:
-
-Nr. X-383, 2005-11-10, Žin. 2005, Nr. 139-5008 (2005-11-26), i. k. 1051010ISTA000X-383
-
-LIETUVOS RESPUBLIKOS TEISĖS GAUTI INFORMACIJĄ IŠ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ  ĮSTATYMAS
-
-2000 m. sausio 11 d. Nr. VIII-1524
-
-Vilnius
-
-PIRMASIS SKIRSNIS
-
-BENDROSIOS NUOSTATOS
+PRAŠYMŲ PATEIKIMAS, NAGRINĖJIMAS IR INFORMACIJOS TEIKIMAS
 
 12 straipsnis. Prašymo pateikimas
 
@@ -288,4 +302,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-383, 2005-11-10, Žin., 2005, Nr. 139-5008 (2005-11-26), i. k. 1051010ISTA000X-383
 
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1716, 2008-07-15, Žin., 2008, Nr. 87-3473 (2008-07-31), i. k. 1081010ISTA00X-1716
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
 
