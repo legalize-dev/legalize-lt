@@ -4,7 +4,7 @@ identifier: "TAR.C40F7F89A7C3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-02"
-last_updated: "2008-07-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C40F7F89A7C3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas
 
-Suvestinė redakcija nuo 2008-07-01 iki 2008-08-31
+Suvestinė redakcija nuo 2008-09-01 iki 2009-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 46-1116, i. k. 0961010ISTA00I-1324
 
@@ -32,7 +32,11 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
-1. Šis įstatymas nustato naudojamų potencialiai pavojingų įrenginių, kurių grupės nurodytos šio įstatymo 3 straipsnyje, priežiūros ir jos atlikimo kontrolės bendruosius principus, siekiant užtikrinti saugų įrenginių darbą bei žmonių gyvybės, sveikatos ir aplinkos apsaugą nuo galimo įrenginių žalingo poveikio. Šis įstatymas taip pat taikomas įrenginių, sumontuotų ir naudojamų geležinkelių ar automobilių transporto priemonėse, priežiūrai.
+1. Šis įstatymas nustato naudojamų potencialiai pavojingų įrenginių, kurių grupės nurodytos šio įstatymo 3 straipsnyje, priežiūros ir jos atlikimo kontrolės bendruosius principus, siekiant užtikrinti saugų įrenginių darbą bei žmonių gyvybės, sveikatos ir aplinkos apsaugą nuo galimo įrenginių žalingo poveikio. Šis įstatymas taip pat taikomas įrenginių, sumontuotų ir naudojamų geležinkelių ar automobilių transporto priemonėse, priežiūrai. Pavojingų medžiagų talpykloms, gabenamoms geležinkeliu, šis įstatymas taikomas tik atliekant jų techninės būklės tikrinimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1699, 2008-07-14, Žin., 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
 
 2. Šis įstatymas netaikomas įrenginiams, kurių priežiūra nustatyta Branduolinės energijos, Radiacinės saugos, Radioaktyviųjų atliekų tvarkymo įstatymų, įrenginiams, naudojamiems išimtinai gynybos tikslams.
 
@@ -92,7 +96,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
 
-9) techninių medicinos įrenginių ir jų įrangos;
+9) Neteko galios nuo 2008-09-01
+
+Straipsnio punkto naikinimas:
+
+Nr. X-1699, 2008-07-14, Žin. 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
 
 10) pramoginių įrenginių ir jų įrangos;
 
@@ -130,7 +138,11 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 5) nustato įgaliotų įstaigų kolegialių valdymo organų, nurodytų šio įstatymo 2 straipsnio 6 dalyje, sudarymo tvarką;
 
-6) tvirtina atskirų kategorijų įrenginių techninės būklės tikrinimo kainas ir (ar) tarifus valstybės institucijų, suteikusių įgaliojimus viešosioms įstaigoms tikrinti įrenginių techninę būklę (toliau – suteikusios įgaliojimus valstybės institucijos), teikimu;
+6) Neteko galios nuo 2008-09-01
+
+Straipsnio punkto naikinimas:
+
+Nr. X-1699, 2008-07-14, Žin. 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
 
 Straipsnio punkto pakeitimai:
 
@@ -158,7 +170,11 @@ Valstybės institucijos, atsakingos už atskirų kategorijų įrenginių prieži
 
 3) pagal Vyriausybės patvirtintą įrenginių kategorijų sąrašą sudaro ir tvirtina įgaliotų įstaigų prižiūrimų ir valstybės registre registruojamų įrenginių sąrašą (nurodydamos jų parametrus);
 
-4) analizuoja ir teikia Vyriausybei tvirtinti įgaliotų įstaigų apskaičiuotas atskirų kategorijų įrenginių techninės būklės tikrinimo kainas ir (ar) tarifus;
+4) Neteko galios nuo 2008-09-01
+
+Straipsnio punkto naikinimas:
+
+Nr. X-1699, 2008-07-14, Žin. 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
 
 5) nustato naujų importuojamų įrenginių, išskyrus tuos, kurie atitinka techninių reglamentų reikalavimus, ir importuojamų naudotų įrenginių techninių dokumentų patikrinimo bei šių įrenginių tinkamumo naudoti Lietuvos Respublikoje pripažinimo tvarką.
 
@@ -200,7 +216,11 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 4) prieš pradedant įrenginį naudoti ir patikrinus įrenginio techninę būklę, Vyriausybės tvirtinamų Potencialiai pavojingų įrenginių valstybės registro nuostatų nustatyta tvarka teikti duomenis apie prižiūrimus įrenginius šio registro tvarkymo įstaigai;
 
-5) teikti pasiūlymus dėl atskirų kategorijų įrenginių techninės būklės tikrinimo kainų ir (ar) tarifų nustatymo;
+5) Neteko galios nuo 2008-09-01
+
+Straipsnio punkto naikinimas:
+
+Nr. X-1699, 2008-07-14, Žin. 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
 
 Straipsnio punkto pakeitimai:
 
@@ -315,6 +335,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1170, 2007-06-07, Žin., 2007, Nr. 69-2721 (2007-06-23), i. k. 1071010ISTA00X-1170
 
 Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 4, 10 straipsnių papildymo ir pakeitimo bei įstatymo papildymo 10(1) straipsniu įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1699, 2008-07-14, Žin., 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
+
+Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 1, 3, 4, 5 ir 8 straipsnių pakeitimo įstatymas
 
 12 straipsnis. Įrenginių projektuotojų, gamintojų pareigos
 
