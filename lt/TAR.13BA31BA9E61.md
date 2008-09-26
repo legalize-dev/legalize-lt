@@ -4,7 +4,7 @@ identifier: "TAR.13BA31BA9E61"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-11-07"
-last_updated: "2006-06-28"
+last_updated: "2008-09-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.13BA31BA9E61"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos dizaino įstatymas
 
-Suvestinė redakcija nuo 2006-06-28 iki 2008-09-25
+Suvestinė redakcija nuo 2008-09-26 iki 2013-05-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4980, i. k. 1021010ISTA0IX-1181
 
@@ -66,31 +66,65 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 
 12. Tarptautinė paroda – pagal Konvenciją dėl tarptautinių parodų, priimtą Paryžiuje 1928 m. lapkričio 22 d. ir paskutinį kartą peržiūrėtą 1972 m. lapkričio 30 d., oficiali ar pripažinta oficialia tarptautinė paroda.
 
-13. Tarptautinė dizaino registracija – dizaino įregistravimas Pasaulinės intelektinės nuosavybės organizacijos Tarptautinio biuro tarptautiniame registre pagal Hagos sutarties dėl tarptautinio pramoninio dizaino registravimo Ženevos aktą (toliau – Hagos sutartis), priimtą Ženevoje 1999 m. liepos 2 d.
+13. Tarptautinė dizaino registracija – dizaino įregistravimas Pasaulinės intelektinės nuosavybės organizacijos Tarptautinio biuro (toliau – Tarptautinis biuras) tarptautiniame registre pagal Hagos susitarimo dėl pramoninio dizaino tarptautinės registracijos Ženevos aktą (toliau – Ženevos aktas), priimtą Ženevoje 1999 m. liepos 2 d.
 
-14. Paryžiaus konvencija – 1883 m. kovo 20 d. Paryžiaus konvencija dėl pramoninės nuosavybės apsaugos (su visomis galiojančiomis pataisomis ir pakeitimais).
+Straipsnio dalies pakeitimai:
 
-15. Lokarno klasifikacija – tarptautinė pramoninio dizaino klasifikacija, patvirtinta 1968 m. spalio 8 d. Lokarno sutartimi dėl tarptautinės pramoninio dizaino klasifikacijos (su visomis galiojančiomis pataisomis ir pakeitimais).
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 
-16. Taisyklės – Valstybinio patentų biuro direktoriaus patvirtintos Dizaino registracijos taisyklės.
+14. Tarptautinė paraiška – paraiška tarptautinei dizaino registracijai, paduodama pagal Ženevos akto ir Bendrųjų taisyklių pagal Hagos susitarimo 1999 m., 1960 m. ir 1934 m. aktus (toliau – Hagos susitarimo taisyklės) reikalavimus šių teisės aktų nustatyta tvarka.
 
-17. Bendrijos dizainas – dizainas, pareikštas registruoti arba įregistruotas pagal Reglamentą dėl Bendrijos dizainų.
+Papildyta straipsnio dalimi:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+
+15. Paryžiaus konvencija – 1883 m. kovo 20 d. Paryžiaus konvencija dėl pramoninės nuosavybės apsaugos (su visomis galiojančiomis pataisomis ir pakeitimais).
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+
+16. Lokarno klasifikacija – tarptautinė pramoninio dizaino klasifikacija, patvirtinta 1968 m. spalio 8 d. Lokarno sutartimi dėl tarptautinės pramoninio dizaino klasifikacijos (su visomis galiojančiomis pataisomis ir pakeitimais).
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+
+17. Taisyklės – Valstybinio patentų biuro direktoriaus patvirtintos Dizaino registracijos taisyklės.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+
+18. Bendrijos dizainas – dizainas, pareikštas registruoti arba įregistruotas pagal Reglamentą dėl Bendrijos dizainų.
 
 Papildyta straipsnio dalimi:
 
 Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
 
-18. Reglamentas dėl Bendrijos dizainų – 2001 m. gruodžio 12 d. Tarybos reglamentas (EB) Nr. 6/2002 dėl Bendrijos dizainų.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+
+19. Reglamentas dėl Bendrijos dizainų – 2001 m. gruodžio 12 d. Tarybos reglamentas (EB) Nr. 6/2002 dėl Bendrijos dizainų.
 
 Papildyta straipsnio dalimi:
 
 Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 
 3 straipsnis. Įstatymo taikymo sritis
 
 1. Šis Įstatymas taikomas kiekvienam dizainui, kuris yra arba Valstybiniam patentų biurui paduotos paraiškos dizainui registruoti objektas arba yra įregistruotas šio Įstatymo nustatyta tvarka.
 
-2. Dizainas, kuris yra Lietuvos Respublikoje galiojančios tarptautinės dizaino registracijos objektas, saugomas pagal Hagos sutarties dėl tarptautinio pramoninio dizaino registravimo Ženevos akto nuostatas.
+2. Dizainas, kuris yra Lietuvos Respublikoje galiojančios tarptautinės dizaino registracijos objektas, saugomas pagal Ženevos akto nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 
 ANTRASIS SKIRSNIS
 
@@ -202,7 +236,11 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 
 1) dizainas, kurio paraiškos padavimo Lietuvos Respublikoje data yra ankstesnė už šio straipsnio 1 dalyje nurodyto dizaino paraiškos padavimo datą; prireikus atsižvelgiama į prašomą suteikti ar suteiktą prioritetą;
 
-2) dizainas, kurio įregistravimo data įsigaliojus Hagos sutarčiai Lietuvos Respublikos atžvilgiu yra ankstesnė už šio straipsnio 1 dalyje nurodyto dizaino paraiškos padavimo datą, o kai prašoma prioriteto, – už suteikto prioriteto datą;
+2) dizainas, kurio įregistravimo data pagal Ženevos aktą Lietuvos Respublikos atžvilgiu yra ankstesnė už šio straipsnio 1 dalyje nurodyto dizaino paraiškos padavimo datą, o kai prašoma prioriteto, – už suteikto prioriteto datą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 
 3) Bendrijos dizainas, kurio paraiškos padavimo data pagal Reglamentą dėl Bendrijos dizainų yra ankstesnė už šio straipsnio 1 dalyje nurodyto dizaino paraiškos padavimo datą, o kai prašoma prioriteto, – už prioriteto datą.
 
@@ -292,11 +330,7 @@ DIZAINO REGISTRAVIMAS
 
 2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su dizaino registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant ir atstovavimą Apeliaciniame skyriuje, atlieka per patentinį patikėtinį, įrašytą į Lietuvos Respublikos patentinių patikėtinių registrą.
 
-Straipsnio dalies pakeitimai:
-
-Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
-
-3. Vienam dizainui įregistruoti paduodama viena paraiška. Paraiškoje gali būti nurodoma ne daugiau kaip dešimt to paties gaminio, kuris priskiriamas tai pačiai Lokarno klasifikacijos klasei, dizaino pavyzdžių.
+3. Paraiškoje gali būti prašoma įregistruoti daugiau negu vieną, bet ne daugiau kaip 100 to paties gaminio dizaino pavyzdžių. Gaminys, išskyrus ornamentiką, kurio dizaino pavyzdžius prašoma įregistruoti paraiškoje, turi priklausyti vienai Lokarno klasifikacijos klasei.
 
 4. Paraišką dizainui įregistruoti sudaro:
 
@@ -310,31 +344,37 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 
 5) pareiškėjo įgaliojimas asmeniui (jeigu paraišką paduoda įgaliotas asmuo);
 
-6) pareiškimas dėl dizainerio autorystės (jeigu reikia);
+6) pareiškimas dėl dizainerio autorystės;
 
 7) dokumentas, patvirtinantis dizainerio teisių perdavimą (jeigu reikia);
 
 8) prašymas suteikti prioritetą (jeigu reikia);
 
-9) kompetentingų institucijų išduotas leidimas pagal šio Įstatymo 9 straipsnio 1 dalies 5 ar 6 punktą (jeigu reikia);
+9) kompetentingų institucijų išduotas leidimas pagal šio Įstatymo 9 straipsnio 3 ar 4 punktą (jeigu reikia);
 
-10) teisių savininko išduotas sutikimas pagal šio Įstatymo 10 straipsnio 1 dalies 5 ar 6 punktą (jeigu reikia).
+10) teisių savininko išduotas sutikimas pagal šio Įstatymo 10 straipsnio 1 dalies 5 ar 6 punktą (jeigu reikia);
+
+11) prašymas dėl dizaino ankstesnio paskelbimo (jeigu reikia);
+
+12) prašymas atidėti dizaino paskelbimą (jeigu reikia).
 
 5. Prašyme įregistruoti dizainą ir išduoti dizaino registracijos liudijimą nurodoma:
 
-1) pareiškėjo ir jo atstovo identifikavimo duomenys (asmens pavadinimas arba vardas, pavardė, adresas (buveinė);
+1) pareiškėjo ir jo atstovo tapatybės nustatymo duomenys, nustatyti Taisyklėse;
 
-2) dizaino pavadinimas;
+2) gaminio pavadinimas;
 
-3) Lokarno klasifikacijos indeksai;
+3) Lokarno klasifikacijos klasė ir poklasis;
 
-4) dizainerio identifikavimo duomenys;
+4) dizainerio tapatybės nustatymo duomenys, nustatyti Taisyklėse;
 
-5) prioriteto nuoroda (jeigu reikia);
-
-6) nuoroda apie prašymą dėl ankstesnės dizaino paskelbimo datos.
+5) prioriteto nuoroda (jeigu reikia).
 
 6. Jeigu prašoma įregistruoti daugiau negu vieną dizaino pavyzdį, už kiekvieną kitą paraiškoje nurodytą dizaino pavyzdį mokamas nustatytas papildomas mokestis.
+
+Straipsnio pakeitimai:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 
 17 straipsnis. Paraiškos padavimo data
 
@@ -411,6 +451,12 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 Straipsnio dalies naikinimas:
 
 Nr. IX-2205, 2004-04-29, Žin. 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+
+4. Pareiškėjo ar jo atstovo prašymu duomenų apie dizaino įrašymą į Lietuvos Respublikos dizaino registrą paskelbimas Valstybinio patentų biuro oficialiame biuletenyje gali būti atidėtas iki 30 mėnesių nuo paraiškos padavimo arba, jei prašoma suteikti prioriteto datą, nuo prioriteto datos.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 
 5. Neteko galios nuo 2004-04-30
 
@@ -590,7 +636,11 @@ Apeliacinio skyriaus posėdžiai, kuriuose nagrinėjamos apeliacijos ar protesta
 
 1. Valstybiniam patentų biurui pateikiami dokumentai turi būti surašyti valstybine kalba. Pateikęs dokumentus, išskyrus prašymą įregistruoti dizainą ir išduoti dizaino registracijos liudijimą, ne valstybine kalba, pareiškėjas, dizaino savininkas ar jo atstovas per 3 mėnesius nuo dokumentų pateikimo dienos privalo pateikti jų vertimą į valstybinę kalbą.
 
-2. Įgaliojimas atstovauti pareiškėjui ar dizaino savininkui turi atitikti Lietuvos Respublikos civilinio kodekso reikalavimus.
+2. Įgaliojimas atstovauti pareiškėjui ar dizaino savininkui turi būti paprastos rašytinės formos. Jeigu paraišką dizainui įregistruoti paduoda pareiškėjo atstovas, bet kartu su šio Įstatymo 16 straipsnio 4 dalies 1–3 punktuose išvardytais dokumentais nepateikia įgaliojimo, jis turi būti pateiktas per 3 mėnesius nuo paraiškos padavimo datos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 
 3. Valstybiniam patentų biurui pateikiamų dokumentų legalizuoti nereikia.
 
@@ -620,9 +670,9 @@ Apeliacinio skyriaus posėdžiai, kuriuose nagrinėjamos apeliacijos ar protesta
 
 Konkrečius veiksmus, už kuriuos turi būti sumokėti mokesčiai, mokesčių dydį, mokesčių mokėjimo tvarką nustato Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas.
 
-KETVIRTASIS SKIRSNIS
+TREČIASIS1 SKIRSNIS
 
-DIZAINO REGISTRACIJOS GALIOJIMAS
+TARPTAUTINĖ DIZAINO REGISTRACIJA
 
 34 straipsnis. Dizaino registracijos galiojimo terminas
 
@@ -640,11 +690,29 @@ DIZAINO REGISTRACIJOS GALIOJIMAS
 
 2) dokumentas, patvirtinantis, kad sumokėtas nustatytas mokestis.
 
-3. Šio straipsnio 2 dalyje nurodytus dokumentus dizaino savininkas ar jo atstovas turi pateikti ne vėliau kaip per 6 paskutinius dizaino galiojimo mėnesius.
+3. Šio straipsnio 2 dalyje nurodytus dokumentus dizaino savininkas ar jo atstovas turi pateikti per 6 paskutinius dizaino registracijos galiojimo mėnesius, išskyrus šio straipsnio 4 dalyje numatytą atvejį.
 
-4. Duomenys apie dizaino registracijos galiojimo pratęsimą įrašomi į Lietuvos Respublikos dizaino registrą ir skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+Straipsnio dalies pakeitimai:
 
-5. Jeigu dizaino savininkas ar jo atstovas šio straipsnio 3 ir 4 dalyse nustatytais terminais nesumoka nustatyto mokesčio, dizaino registracijos galiojimas nepratęsiamas ir šio Įstatymo 30 straipsnyje nustatyta tvarka dizainas išregistruojamas iš Lietuvos Respublikos dizaino registro.
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+
+4. Sumokėję už dizaino registracijos galiojimo termino pratęsimą 50 procentų didesnį mokestį, dizaino savininkas ar jo atstovas per 6 mėnesius nuo dizaino registracijos galiojimo pabaigos dienos gali pateikti šio straipsnio 2 dalyje nurodytus dokumentus. Tokiu atveju laikoma, kad dizaino registracija nebuvo nustojusi galioti.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+
+5. Duomenys apie dizaino registracijos galiojimo pratęsimą įrašomi į Lietuvos Respublikos dizaino registrą ir skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+
+6. Jeigu dizaino savininkas ar jo atstovas šio straipsnio 3 ir 4 dalyse nustatytais terminais nepateikia šio straipsnio 2 dalyje nurodytų dokumentų, dizaino registracijos galiojimas nepratęsiamas ir šio Įstatymo 30 straipsnyje nustatyta tvarka dizainas išregistruojamas iš Lietuvos Respublikos dizaino registro.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 
 PENKTASIS SKIRSNIS
 
@@ -796,7 +864,11 @@ DIZAINO REGISTRACIJOS PRIPAŽINIMAS NEGALIOJANČIA
 
 Teisę prašyti dizaino registraciją pripažinti negaliojančia turi šie asmenys:
 
-1) asmuo, kurio teisės tiesiogiai pažeidžiamos naudojant tokį dizainą, arba kompetentingų institucijų pareigūnai – šio Įstatymo 9 straipsnio 1 dalies 4–6 punktuose nurodytais pagrindais;
+1) asmuo, kurio teisės tiesiogiai pažeidžiamos naudojant tokį dizainą, arba kompetentingų institucijų pareigūnai – šio Įstatymo 9 straipsnio 3 ir 4 punktuose nurodytais pagrindais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 
 2) asmuo, kuris turi teises į dizainą, – šio Įstatymo 10 straipsnio 1 dalies 2 punkte nurodytu pagrindu;
 
@@ -806,7 +878,11 @@ Teisę prašyti dizaino registraciją pripažinti negaliojančia turi šie asmen
 
 5) autorius ar jo teisių perėmėjas – šio Įstatymo 10 straipsnio 1 dalies 6 punkte nurodytu pagrindu;
 
-6) kiekvienas suinteresuotas asmuo – šio Įstatymo 9 straipsnio 1 dalies 1–3 punktuose, 10 straipsnio 1 dalies 1 punkte nurodytais pagrindais.
+6) kiekvienas suinteresuotas asmuo – šio Įstatymo 9 straipsnio 1 ir 2 punktuose, 10 straipsnio 1 dalies 1 punkte nurodytais pagrindais.
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 
 45 straipsnis. Sprendimas neregistruoti dizaino ar registracijos pripažinimas negaliojančia tik tam tikriems dizaino pavyzdžiams
 
@@ -946,6 +1022,14 @@ Nr. X-650, 2006-06-08, Žin., 2006, Nr. 72-2669 (2006-06-28), i. k. 1061010ISTA0
 
 Lietuvos Respublikos dizaino įstatymo aštuntojo skirsnio pakeitimo bei papildymo ir Įstatymo priedo papildymo įstatymas
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+
+Lietuvos Respublikos dizaino įstatymo 2, 3, 10, 16, 21, 31, 35, 44 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo trečiuoju-1 skirsniu įstatymas
+
 511 straipsnis. Reglamento dėl Bendrijos dizainų taikymas
 
 1. Valstybinis patentų biuras yra centrinė pramoninės nuosavybės tarnyba pagal Reglamentą dėl Bendrijos dizainų.
@@ -1017,4 +1101,56 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 481 straipsnis. Teismo sprendimo paskelbimas
 
 Sprendimą dėl šio Įstatymo nustatytų teisių pažeidimo priimantis teismas šio Įstatymo 47 straipsnio 1 dalyje nurodytų asmenų prašymu gali įpareigoti pažeidėją savo lėšomis paskelbti informaciją apie priimtą sprendimą, įskaitant viso ar dalies sprendimo paskelbimą visuomenės informavimo priemonėse ar kitokiu būdu. Teismo sprendimas arba informacija apie priimtą teismo sprendimą gali būti paskelbta po teismo sprendimo įsiteisėjimo, jeigu teismas nenustato kitaip. Teismo sprendimo paskelbimo būdas ir kiek skelbti nustatoma pačiame sprendime. Šio Įstatymo 47 straipsnio 1 dalyje nurodyti asmenys gali reikalauti, kad pažeidėjas iš anksto sumokėtų į teismo nurodytą sąskaitą pinigų sumą, reikalingą informacijai apie priimtą teismo sprendimą ar teismo sprendimui paskelbti.
+
+331 straipsnis. Tarptautinės dizaino registracijos galiojimas
+
+1. Tarptautinė dizaino registracija, kurioje nurodoma Lietuvos Respublika, nuo registracijos pagal Ženevos akto 10 straipsnio 2 dalį datos turi tokią pačią teisinę apsaugą kaip ir šio Įstatymo nustatyta tvarka pareikštas registruoti dizainas.
+
+2. Jeigu vadovaujantis šio Įstatymo 332 straipsnio 1 dalies nuostatomis nebuvo atsisakyta pripažinti tarptautinės dizaino registracijos galiojimą Lietuvos Respublikoje arba jeigu toks atsisakymas vėliau buvo atšauktas, nuo šio straipsnio 1 dalyje nurodytos datos tarptautinės registracijos dizainas turi tokią pačią teisinę apsaugą kaip ir dizainas, kuris būtų įregistruotas vadovaujantis šio Įstatymo nuostatomis.
+
+3. Tarptautinės dizaino registracijos duomenys skelbiami Tarptautinio biuro Tarptautinių dizainų biuletenyje.
+
+4. Valstybinis patentų biuras duomenis apie tarptautinę dizaino registraciją, kai nurodoma Lietuvos Respublika, įrašo į Lietuvos Respublikos dizaino registrą.
+
+332 straipsnis. Tarptautinės dizaino registracijos negaliojimas
+
+1. Jeigu tarptautinės dizaino registracijos visi arba dalis dizaino pavyzdžių neatitinka šio Įstatymo 9 straipsnio reikalavimų arba jeigu šio Įstatymo nustatyta tvarka yra paduotas protestas dėl tarptautinės dizaino registracijos, Valstybinis patentų biuras Hagos susitarimo taisyklių nustatytais terminais ir tvarka informuoja Tarptautinį biurą apie atsisakymą pripažinti tarptautinės dizaino registracijos galiojimą Lietuvos Respublikoje, nurodydamas atsisakymo priežastis. Valstybinis patentų biuras gali bet kuriuo metu visiškai ar iš dalies atšaukti tokį atsisakymą.
+
+2. Jeigu tarptautinė dizaino registracija dėl visų arba dalies dizaino pavyzdžių Lietuvos Respublikoje buvo pripažinta negaliojančia, Valstybinis patentų biuras apie tai praneša Tarptautiniam biurui.
+
+3. Tarptautinė dizaino registracija Lietuvos Respublikoje negalioja nuo jos pripažinimo negaliojančia Lietuvos Respublikoje dienos.
+
+333 straipsnis. Tarptautinės paraiškos padavimas
+
+1. Pareiškėjas, atitinkantis Ženevos akto 3 straipsnio reikalavimus, turi teisę paduoti tarptautinę paraišką per Valstybinį patentų biurą arba tiesiogiai Tarptautiniam biurui. Tarp tarptautinėje paraiškoje nurodomų valstybių, kuriose prašoma apsaugos, gali būti nurodyta ir Lietuvos Respublika.
+
+2. Tarptautinė paraiška paduodama pagal Ženevos akto ir Hagos susitarimo taisyklių reikalavimus ir jų nustatyta tvarka.
+
+3. Kai tarptautinė paraiška paduodama per Valstybinį patentų biurą, jis įrašo tarptautinės paraiškos gavimo datą ir per 14 dienų tarptautinę paraišką persiunčia Tarptautiniam biurui. Tarptautinės paraiškos ekspertizės Valstybinis patentų biuras neatlieka.
+
+4. Tarptautinės paraiškos padavimo per Valstybinį patentų biurą tvarką nustato Taisyklės.
+
+334 straipsnis. Specialiosios nuostatos, taikomos tarptautinei dizaino registracijai
+
+1. Jeigu tarptautinės dizaino registracijos savininkas nesutinka su Valstybinio patentų biuro sprendimu atsisakyti pripažinti tarptautinės dizaino registracijos galiojimą Lietuvos Respublikoje, nes visi arba dalis dizaino pavyzdžių neatitinka šio Įstatymo 9 straipsnio reikalavimų, jis turi teisę per 5 mėnesius nuo to sprendimo priėmimo dienos paprašyti atlikti pakartotinę dizaino ekspertizę. Nepateikus prašymo per nustatytą terminą, Valstybinio patentų biuro sprendimas laikomas galutiniu.
+
+2. Jeigu tarptautinės dizaino registracijos savininkas nesutinka su pakartotinės dizaino ekspertizės metu Valstybinio patentų biuro priimtu sprendimu, jis turi teisę per 3 mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Apeliaciniam skyriui apeliaciją. Ši apeliacija priimama, nagrinėjama ir skundžiama šio Įstatymo 20 straipsnio nustatyta tvarka.
+
+3. Suinteresuotieji asmenys arba jų atstovai protestą dėl tarptautinės dizaino registracijos turi paduoti per 3 mėnesius nuo duomenų apie tarptautinę dizaino registraciją paskelbimo Tarptautinio biuro tarptautinių dizainų biuletenyje dienos. Protestas turi atitikti šio Įstatymo 23 straipsnio 1 ir 2 dalių reikalavimus.
+
+4. Užprotestuotos tarptautinės dizaino registracijos savininkas ar šio Įstatymo 16 straipsnio 2 dalies nustatyta tvarka paskirtas jo atstovas per 5 mėnesius nuo pranešime Tarptautiniam biurui apie atsisakymą pripažinti tarptautinės dizaino registracijos galiojimą Lietuvos Respublikoje nurodytos datos pateikia motyvuotą atsakymą į protestą. Motyvuoto atsakymo į protestą nepateikimas laikomas atsisakymu dalyvauti protesto nagrinėjime ir neužkerta kelio Apeliaciniam skyriui nagrinėti protestą užprotestuotos tarptautinės dizaino registracijos savininkui ar jo atstovui nedalyvaujant. Jeigu užprotestuotos tarptautinės dizaino registracijos savininkas nepaskyrė atstovo, Apeliacinio skyriaus priimtas sprendimas tarptautinės dizaino registracijos savininkui nesiunčiamas.
+
+5. Tarptautinės dizaino registracijos savininko suteikta licencija negalioja Lietuvos Respublikoje tretiesiems asmenims, jeigu duomenys apie licencinę sutartį neįrašyti į Lietuvos Respublikos dizaino registrą šio Įstatymo 41 straipsnio nustatyta tvarka.
+
+6. Tarptautinės dizaino registracijos pakeitimų, galiojimo pratęsimo, teisių perdavimo ir kitų su tarptautine dizaino registracija susijusių duomenų registravimą atlieka Tarptautinis biuras Ženevos akto nustatyta tvarka. Prašymai pateikiami tiesiogiai Tarptautiniam biurui.
+
+7. Visi Ženevos akte ir Hagos susitarimo taisyklėse nustatyti mokesčiai mokami tiesiogiai Tarptautiniam biurui.
+
+Papildyta skirsniu:
+
+Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+
+KETVIRTASIS SKIRSNIS
+
+DIZAINO REGISTRACIJOS GALIOJIMAS
 
