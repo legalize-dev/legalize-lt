@@ -4,7 +4,7 @@ identifier: "TAR.3BAADED2C30B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2008-02-05"
+last_updated: "2008-10-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B"
 department: "Lietuvos Respublikos Seimas"
@@ -483,7 +483,15 @@ draudimo suma yra lygi indėlininko indėliui, buvusiam banke, banko filiale arb
 
 4) 22
 
-000 eurų atitinkanti suma litais – nuo 2008 m. sausio 1 d.
+000 eurų atitinkanti suma litais – nuo 2008 m. sausio 1 d.;
+
+1 dalis
+
+papildoma 5 punktu nuo 2008 m. lapkričio 1 d.:
+
+5) 100 000 eurų  atitinkanti suma  litais –
+
+nuo 2008 m.  lapkričio  1 d. iki  2009 m. spalio 31 d.
 
 2.
 
@@ -577,19 +585,19 @@ unijoms – 0,2 procento.
 
 1) kai Indėlių
 
-draudimo fondo ir visų draudžiamų indėlių santykis tampa didesnis negu 3
+draudimo fondo ir visų draudžiamų indėlių  santykis  tampa  didesnis  negu 3
 
-procentai, bet neviršija 4 procentų. Šiuo atveju metinė draudimo įmokos norma
+procentai, bet neviršija 4 procentų. Šiuo atveju  metinė  draudimo  įmokos
 
-šio straipsnio 2 dalies 1 punkte nurodytiems draudėjams neturi būti mažesnė
+norma šio straipsnio  2 dalies 1 punkte nurodytiems draudėjams neturi būti
 
-kaip 0,045 procento, šio straipsnio 2 dalies 2 punkte nurodytiems draudėjams –
+mažesnė kaip 0,045 procento, šio straipsnio 2 dalies 2 punkte nurodytiems
 
-0,025 procento;
+draudėjams – 0,025 procento;
 
 2) kai Indėlių
 
-draudimo fondo ir visų draudžiamų indėlių santykis tampa didesnis negu 4
+draudimo fondo ir visų draudžiamų  indėlių  santykis  tampa  didesnis negu 4
 
 procentai. Šiuo atveju metinė draudimo įmokos norma šio straipsnio 2 dalies 1
 
@@ -817,7 +825,7 @@ prisiimti iki sprendimo apie draudimo nutraukimą įsigaliojimo ir
 
 nebuvo grąžinti ar įvykdyti iki draudiminio įvykio dienos.
 
-PENKTASIS SKIRSNISVALSTYBĖS ĮMONĖ „INDĖLIŲ IR INVESTICIJŲ DRAUDIMAS“ 16 straipsnis. Draudimo įmonės statusas
+PENKTASIS SKIRSNISVALSTYBĖS ĮMONĖ „INDĖLIŲ IR INVESTICIJŲ DRAUDIMAS“ 16 straipsnis. Draudimo įmonės statusas
 
 1. Draudimo
 
@@ -883,11 +891,9 @@ fonde ir Įsipareigojimų
 
 investuotojams draudimo fonde;
 
-2)
+2) apskaičiuoja
 
-apskaičiuoja ir išmoka draudėjų indėlininkams ir investuotojams draudimo
-
-išmokas;
+ir išmoka draudėjų indėlininkams ir investuotojams draudimo išmokas;
 
 3)
 
@@ -951,9 +957,9 @@ straipsnis. Draudimo įmonės teisės
 
 Draudimo įmonė turi teisę:
 
-1) turėti
+1)
 
-sąskaitų Lietuvos banke, bankuose bei bankų
+turėti sąskaitų Lietuvos banke, bankuose bei bankų
 
 filialuose;
 
@@ -1079,9 +1085,9 @@ institucijos.
 
 narių kadencija – 4 metai, kadencijų skaičius neribojamas. Tarybos nario
 
-kandidatūrą teikusi institucija gali jį atšaukti ir pasiūlyti vietoj jo paskirti
+kandidatūrą teikusi institucija gali jį atšaukti ir pasiūlyti vietoj jo
 
-kitą kandidatą.
+paskirti kitą kandidatą.
 
 4. Tarybos
 
@@ -1119,9 +1125,9 @@ tvarką;
 
 draudimo išmokų apskaičiavimo ir išmokėjimo tvarką;
 
-5) tvirtina draudimo
+5) tvirtina
 
-įmonės nuosavo
+draudimo įmonės nuosavo
 
 kapitalo lėšų ir administruojamų fondų investavimo politiką;
 
@@ -1131,9 +1137,9 @@ sprendimus dėl indėlių ar įsipareigojimų investuotojams draudimo nutraukimo
 
 7) priima
 
-sprendimus dėl draudimo įmokos normos pakeitimo, nustato draudimo įmonės įsipareigojimams
+sprendimus dėl draudimo įmokos normos pakeitimo, nustato draudimo įmonės
 
-vykdyti imamos paskolos dydį;
+įsipareigojimams vykdyti imamos paskolos dydį;
 
 8) nustato
 
@@ -1225,11 +1231,9 @@ Draudimo išmokos už indėlius ir bankų bei bankų
 
 filialų
 
-įsipareigojimus investuotojams mokamos iš Indėlių draudimo fondo, o už įmonių
+įsipareigojimus investuotojams mokamos iš Indėlių draudimo fondo, o už įmonių įsipareigojimus
 
-įsipareigojimus investuotojams – iš Įsipareigojimų investuotojams draudimo
-
-fondo.
+investuotojams – iš Įsipareigojimų investuotojams draudimo fondo.
 
 3. Tuo
 
@@ -1905,15 +1909,17 @@ atsižvelgdama į vidutinę praėjusio kalendorinio ketvirčio palūkanų normą
 
 mokamą už Vyriausybės ne ilgiau kaip vieneriems metams išleistas obligacijas
 
-litais. Delspinigiai apskaičiuojami ir mokami draudimo įmonės tarybos patvirtinta
+litais. Delspinigiai apskaičiuojami ir mokami draudimo įmonės tarybos
 
-delspinigių už laiku nesumokėtą draudimo įmoką skaičiavimo ir mokėjimo tvarka.
+patvirtinta delspinigių už laiku nesumokėtą draudimo įmoką skaičiavimo ir
 
-Jeigu draudėjas nesumoka draudimo įmokų, reikiama suma ir delspinigiai iš jo
+mokėjimo tvarka. Jeigu draudėjas nesumoka draudimo įmokų, reikiama suma ir
 
-išieškomi Lietuvos Respublikos įstatymų nustatyta tvarka. Delspinigiai yra
+delspinigiai iš jo išieškomi Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-išieškomi, jeigu jų išieškojimo sąnaudos neviršija išieškomos sumos.
+Delspinigiai yra išieškomi, jeigu jų išieškojimo sąnaudos neviršija išieškomos
+
+sumos.
 
 3. Nuo
 
@@ -1995,13 +2001,21 @@ procentų indėlio ar įsipareigojimų investuotojams nuo 10 000 litų iki 60 00
 
 litų – nuo 2007 m. sausio 1 d. iki 2007 m. gruodžio 31 d.;
 
-5) nuo 2008 m. sausio 1 d. – 100 procentų indėlio ar įsipareigojimų investuotojams iki 3 000 eurų
+5) nuo 2008 m. sausio 1 d. – 100  procentų  indėlio  ar  įsipareigojimų investuotojams iki  3 000 eurų
 
-atitinkančios sumos litais ir 90 procentų indėlio ar įsipareigojimų
+atitinkančios  sumos litais ir 90  procentų indėlio ar įsipareigojimų
 
 investuotojams nuo 3 000 eurų atitinkančios sumos litais iki 22 000 eurų
 
-atitinkančios sumos litais.
+atitinkančios sumos litais;
+
+3 dalis papildoma
+
+6 punktu nuo 2008 m. lapkričio 1 d.:
+
+6) nuo 2008 m. lapkričio 1 d. iki 2009 m. spalio 31 d. – 100 procentų indėlio iki 100 000 eurų atitinkančios
+
+sumos litais.
 
 4. Už
 
@@ -2019,9 +2033,9 @@ vertybinių popierių rinkos vertę, buvusią draudžiamojo įvykio dieną.
 
 Straipsnio pakeitimai:
 
-Nr. X-1429, 2008-01-18,
+Nr. X-1429,
 
-Žin., 2008, Nr. 15-512 (2008-02-05)
+2008-01-18, Žin., 2008, Nr. 15-512 (2008-02-05)
 
 10
 
@@ -2109,9 +2123,9 @@ Draudimo išmokos nemokamos:
 
 1)
 
-indėlininkams ar investuotojams, kurių indėliai ar įsipareigojimai
+indėlininkams ar investuotojams, kurių indėliai ar įsipareigojimai investuotojams
 
-investuotojams teismų sprendimu pripažinti įgytais neteisėtu būdu;
+teismų sprendimu pripažinti įgytais neteisėtu būdu;
 
 2) indėlininkams
 
@@ -2147,13 +2161,15 @@ banko, kredito unijos ar įmonės paskolos gavėjams, jeigu indėliai ar
 
 paskolas su palūkanomis). Jeigu banko, kredito unijos ar įmonės paskolos gavėjo
 
-indėlis ar įsipareigojimai investuotojui yra didesni už šio gavėjo įsipareigojimus
+indėlis ar įsipareigojimai investuotojui yra didesni už šio gavėjo
 
-(negrąžintas paskolas su palūkanomis), draudimo suma skaičiuojama iš indėlio ar
+įsipareigojimus (negrąžintas paskolas su palūkanomis), draudimo suma
 
-įsipareigojimų investuotojui atimant gavėjo įsipareigojimus, bet negali būti
+skaičiuojama iš indėlio ar įsipareigojimų investuotojui atimant gavėjo
 
-didesnė, negu nurodyta šio Įstatymo 9 straipsnio 3 dalyje;
+įsipareigojimus, bet negali būti didesnė, negu nurodyta šio Įstatymo 9
+
+straipsnio 3 dalyje;
 
 5) už
 
@@ -2205,11 +2221,11 @@ tvarką.
 
 2. Draudimo
 
-sąlygos negali būti konkurencijos priemonė, naudojama reklamoje. Reklamoje
+sąlygos negali būti konkurencijos priemonė, naudojama reklamoje. Reklamoje leidžiama
 
-leidžiama nurodyti tik draudimo įmonę, kurioje apdrausti indėliai ir
+nurodyti tik draudimo įmonę, kurioje apdrausti indėliai ir įsipareigojimai
 
-įsipareigojimai investuotojams.
+investuotojams.
 
 14
 
@@ -2265,9 +2281,9 @@ paskelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
 
 Straipsnio pakeitimai:
 
-Nr. X-1429,
+Nr. X-1429, 2008-01-18,
 
-2008-01-18, Žin., 2008, Nr. 15-512 (2008-02-05)
+Žin., 2008, Nr. 15-512 (2008-02-05)
 
 15
 
@@ -2293,17 +2309,19 @@ Nr. X-1429,
 
 Įsipareigojimų investuotojams draudimo fondo pajamos ir sąnaudos
 
-1. Indėlių draudimo
+1. Indėlių
 
-fondo ir Įsipareigojimų investuotojams draudimo fondo pajamas sudaro draudimo
+draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo pajamas sudaro
 
-įmokos, sumos, įstatymų nustatyta tvarka išieškotos iš likviduojamo draudėjo,
+draudimo įmokos, sumos, įstatymų nustatyta tvarka išieškotos iš likviduojamo
 
-pajamos iš Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo
+draudėjo, pajamos iš Indėlių draudimo fondo ir Įsipareigojimų investuotojams
 
-fondo investicijų, lėšos, gautos pardavus banko, kurio akcijos iš akcininkų
+draudimo fondo investicijų, lėšos, gautos pardavus banko, kurio akcijos iš
 
-paimtos visuomenės poreikiams, akcijas ar turtą, taip pat kitos sumos.
+akcininkų paimtos visuomenės poreikiams, akcijas ar turtą, taip pat kitos
+
+sumos.
 
 2. Indėlių
 
@@ -2457,9 +2475,9 @@ Nepaskirstytieji nuostoliai perkeliami į kitus finansinius metus.
 
 Įstatymas papildytas straipsniu:
 
-Nr. IX-2068,
+Nr. IX-2068, 2004-03-23,
 
-2004-03-23, Žin., 2004, Nr. 54-1829 (2004-04-15)
+Žin., 2004, Nr. 54-1829 (2004-04-15)
 
 Straipsnio pakeitimai:
 
@@ -2499,9 +2517,7 @@ kapitalo
 
 naudojimą mokėjimo į valstybės biudžetą.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. X-84, 2005-01-20,
 
@@ -2545,9 +2561,9 @@ draudėjais tapo pagal Lietuvos Respublikos gyventojų indėlių draudimo įstat
 
 ir (arba) pagal Lietuvos Respublikos indėlių draudimo įstatymą, laikomi
 
-apdraustais pagal šį Įstatymą nuo jo įsigaliojimo dienos. Įsipareigojimai
+apdraustais pagal šį Įstatymą nuo jo įsigaliojimo dienos. Įsipareigojimai investuotojams
 
-investuotojams laikomi apdraustais nuo pirmos draudimo įmokos įmokėjimo dienos.
+laikomi apdraustais nuo pirmos draudimo įmokos įmokėjimo dienos.
 
 Straipsnio pakeitimai:
 
@@ -2711,17 +2727,37 @@ Nr. X-1429,
 
 2008-01-18, Žin., 2008, Nr. 15-512 (2008-02-05)
 
+INDĖLIŲ IR ĮSIPAREIGOJIMŲ INVESTUOTOJAMS
+
+DRAUDIMO ĮSTATYMO 1, 2, 3, 4, 5, 7, 8, 9, 10, 12, 14, 15, 21, 24, 25 STRAIPSNIŲ
+
+IR PRIEDO PAKEITIMO BEI PAPILDYMO ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-1749, 2008-10-14,
+
+Žin., 2008, Nr. 121-4589 (2008-10-21)
+
 INDĖLIŲ IR ĮSIPAREIGOJIMŲ
 
-INVESTUOTOJAMS DRAUDIMO ĮSTATYMO 1, 2, 3, 4, 5, 7, 8, 9, 10, 12, 14, 15, 21,
+INVESTUOTOJAMS DRAUDIMO ĮSTATYMO 5, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 
-24, 25 STRAIPSNIŲ IR PRIEDO PAKEITIMO BEI PAPILDYMO ĮSTATYMAS
+ĮSTATYMAS
 
-*** Pabaiga ***
+Šis įstatymas įsigalioja 2008 m. lapkričio 1 d.
+
+***
+
+Pabaiga ***
 
 Redagavo:
 
-Aušrinė Trapinskienė (2008-02-06)
+Aušrinė Trapinskienė (2008-10-23)
 
 autrap@lrs.lt
 
