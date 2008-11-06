@@ -1,0 +1,39 @@
+---
+title: "Lietuvos Respublikos draudimo įstatymo 182 straipsnio pakeitimo įstatymas"
+identifier: "TAR.A84D992EB798"
+country: "lt"
+rank: "istatymas"
+publication_date: "2008-11-06"
+last_updated: "2008-11-06"
+status: "in_force"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.A84D992EB798"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "1081010ISTA00X-1789"
+document_number: "X-1789"
+published_in_tar: "2008-11-06"
+document_status: "registruotas TA registre"
+---
+# Lietuvos Respublikos draudimo įstatymo 182 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS DRAUDIMO ĮSTATYMO 182 STRAIPSNIO PAKEITIMO
+
+LIETUVOS RESPUBLIKOS DRAUDIMO ĮSTATYMO 182 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2008 m. lapkričio 6 d. Nr. X-1789
+
+Vilnius
+
+(Žin., 2003, Nr. 94-4246)
+
+1 straipsnis. 182 straipsnio 5 dalies pakeitimas
+
+182 straipsnio 5 dalyje išbraukti žodį „teisėjų“ ir šią dalį išdėstyti taip:
+
+„5. Priežiūros komisijos nariai skatinami, jiems nustatoma atsakomybė, teikiamos socialinės ir kitos garantijos įstatymų ir kitų teisės aktų nustatyta tvarka. Priežiūros komisijos nariams už darbą mokama Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka.“
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+
+_________________
+
