@@ -4,7 +4,7 @@ identifier: "TAR.E5509883EBB4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2006-07-19"
+last_updated: "2008-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 department: "Lietuvos Respublikos Seimas"
@@ -50,17 +50,17 @@ darbuotojams
 
 1.
 
-Lošimus organizuojančios bendrovės steigėjais (akcininkais), taip pat juos kontroliuojančiais
+Lošimus organizuojančios bendrovės steigėjais (akcininkais), taip pat juos
 
-asmenimis, lošimus organizuojančios bendrovės stebėtojų tarybos, valdybos
+kontroliuojančiais asmenimis, lošimus organizuojančios bendrovės stebėtojų
 
-nariais ir administracijos vadovais, jų pavaduotojais, vyriausiaisiais
+tarybos, valdybos nariais ir administracijos vadovais, jų pavaduotojais,
 
-finansininkais, lošimo namų (kazino), bingo, automatų salonų administracijos
+vyriausiaisiais finansininkais, lošimo namų (kazino), bingo, automatų salonų
 
-vadovais, jų pavaduotojais, vyriausiaisiais finansininkais, lošėjus
+administracijos vadovais, jų pavaduotojais, vyriausiaisiais finansininkais,
 
-aptarnaujančio personalo ir Priežiūros komisijos nariais bei valstybės
+lošėjus aptarnaujančio personalo ir Priežiūros komisijos nariais bei valstybės
 
 tarnautojais ir darbuotojais negali būti asmenys, dėl kurių pačių ar jų
 
@@ -124,7 +124,7 @@ Bendrovės, kuri verčiasi kelių rūšių lošimų organizavimu, apmokėtas ir
 
 įstatinį kapitalą, nustatytą atitinkamai lošimo rūšiai.
 
-4. Šio
+4. Šio
 
 straipsnio 1, 2 ir 3 dalyse išvardytų bendrovių dokumentų licencijai gauti
 
@@ -664,13 +664,13 @@ mechaninis prietaisas, sukurtas ir pagamintas lošimo tikslais, kurį naudojant
 
 atsitiktinai laimimi arba pralaimimi pinigai.
 
-*3.
+3.
 
-Lošimo automatas (toliau – automatas) – elektroninis prietaisas,
+Lošimo automatas (toliau – automatas) – elektroninis
 
-sukurtas ir pagamintas lošimo tikslais, kurį naudojant atsitiktinai laimimi
+prietaisas, sukurtas ir pagamintas lošimo tikslais, kurį naudojant atsitiktinai
 
-arba pralaimimi pinigai:
+laimimi arba pralaimimi pinigai:
 
 1) A
 
@@ -687,6 +687,12 @@ statoma suma – 1 litas (0,3 euro), vieno lošimo laimėjimas negali būti daug
 kaip 200 kartų didesnis už statomą sumą, o vieno lošimo trukmė ne trumpesnė
 
 kaip 3 sekundės.
+
+Pastaba. 3
+
+dalies nuostata dėl euro įsigalioja nuo euro įvedimo Lietuvos Respublikoje
+
+dienos.
 
 4.
 
@@ -775,12 +781,6 @@ koeficiento sandaugai.
 15. Vieno lošimo trukmė lošiant automatu –
 
 laikas nuo lošimo pradžios (klavišo paspaudimo) iki lošimo rezultato pateikimo.
-
-*Pastaba: Šio
-
-straipsnio 3 dalies nuostata dėl euro įsigalioja nuo euro įvedimo Lietuvos
-
-Respublikoje dienos.
 
 Straipsnio pakeitimai:
 
@@ -988,9 +988,9 @@ lažybų tarpininko iš anksto nustatyto lažybų santykio koeficiento.
 
 Straipsnio pakeitimai:
 
-Nr. IX-995,
+Nr. IX-995, 2002-06-27,
 
-2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
+Žin., 2002, Nr. 72-3010 (2002-07-17)
 
 ANTRASIS
 
@@ -1078,9 +1078,7 @@ prašymą panaikinti licenciją;
 
 bendrovė baigia veiklą;
 
-3) (neteko galios nuo 2003 m.
-
-liepos 25 d.);
+3) (neteko galios nuo 2003 m. liepos 25 d.);
 
 4) pateikti neteisingi duomenys
 
@@ -1158,9 +1156,9 @@ gyvenamuosiuose namuose, išskyrus tuos, kurių pirmuosiuose aukštuose esančio
 
 negyvenamos patalpos pagal namo projektą ir eksploataciją yra pritaikytos kitai
 
-veiklai ir turi pagrindinį įėjimą iš gatvės pusės, nesutampantį su įėjimu į namo
+veiklai ir turi pagrindinį įėjimą iš gatvės pusės, nesutampantį su įėjimu į
 
-laiptinę;
+namo laiptinę;
 
 2)
 
@@ -1340,9 +1338,7 @@ algoritmo programas.
 
 14.
 
-Lošimus organizuojančiai bendrovei draudžiama būti kitų įmonių steigėja ir
-
-akcininke.
+Lošimus organizuojančiai bendrovei draudžiama būti kitų įmonių steigėja ir akcininke.
 
 15.
 
@@ -1380,9 +1376,9 @@ Nr. IX-995,
 
 Nr.
 
-IX-1843, 2003-11-25,
+IX-1843,
 
-Žin., 2003, Nr. 116-5249 (2003-12-12)
+2003-11-25, Žin., 2003, Nr. 116-5249 (2003-12-12)
 
 12 straipsnis. Lošimų organizavimo vieta
 
@@ -1406,11 +1402,11 @@ kategorijos automatais.
 
 2.
 
-Lošimai automatais, bingas, lošimai lošimo namuose (kazino) gali būti organizuojami
+Lošimai automatais, bingas, lošimai lošimo namuose (kazino) gali būti
 
-tik tose patalpose, kurios nurodytos leidime atidaryti automatų, bingo salonus,
+organizuojami tik tose patalpose, kurios nurodytos leidime atidaryti automatų,
 
-lošimo namus (kazino).
+bingo salonus, lošimo namus (kazino).
 
 3.
 
@@ -1792,9 +1788,9 @@ Nr. IX-412,
 
 Nr.
 
-IX-1418,
+IX-1418, 2003-04-03,
 
-2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24)
+Žin., 2003, Nr. 38-1663 (2003-04-24)
 
 Nr.
 
@@ -1918,17 +1914,17 @@ patikrina, ar patalpos, kuriose numatoma atidaryti automatų ar bingo saloną
 
 arba lošimo namus (kazino), atitinka joms keliamus reikalavimus. Prašymas
 
-išduoti leidimą atidaryti lošimo patalpas turi būti išnagrinėtas per 30 kalendorinių
+išduoti leidimą atidaryti lošimo patalpas turi būti išnagrinėtas per 30
 
-dienų nuo jo gavimo. Jeigu pareikalaujama papildomų dokumentų ir informacijos,
+kalendorinių dienų nuo jo gavimo. Jeigu pareikalaujama papildomų dokumentų ir
 
-30 dienų laikotarpis skaičiuojamas iš naujo nuo papildomos informacijos arba
+informacijos, 30 dienų laikotarpis skaičiuojamas iš naujo nuo papildomos
 
-paaiškinimų bei pataisų pateikimo. Bendras leidimo išdavimo laikotarpis neturi
+informacijos arba paaiškinimų bei pataisų pateikimo. Bendras leidimo išdavimo
 
-viršyti 60 kalendorinių dienų skaičiuojant nuo tos dienos, kai buvo pirmą kartą
+laikotarpis neturi viršyti 60 kalendorinių dienų skaičiuojant nuo tos dienos,
 
-pateikti visi reikiami dokumentai ir duomenys.
+kai buvo pirmą kartą pateikti visi reikiami dokumentai ir duomenys.
 
 7.
 
@@ -1940,23 +1936,23 @@ telefono numeris, lošimų organizavimo vietos adresas, organizuojamų lošimų
 
 rūšys, lošimo įrenginių skaičius, leidimo išdavimo data.
 
-8. Priežiūros komisija, išdavusi licenciją organizuoti
+8. Priežiūros komisija, išdavusi licenciją organizuoti lošimus
 
-lošimus ir leidimą atidaryti automatų ar bingo saloną arba lošimo namus
+ir leidimą atidaryti automatų ar bingo saloną arba lošimo namus (kazino), per 5
 
-(kazino), per 5 darbo dienas nuo licencijos (leidimo) išdavimo praneša
+darbo dienas nuo licencijos (leidimo) išdavimo praneša Finansinių nusikaltimų
 
-Finansinių nusikaltimų tyrimo tarnybai prie Vidaus reikalų ministerijos,
+tyrimo tarnybai prie Vidaus reikalų ministerijos, teritorinėms valstybinėms
 
-teritorinėms valstybinėms mokesčių inspekcijoms ir teritorinėms policijos
+mokesčių inspekcijoms ir teritorinėms policijos įstaigoms, kurių teritorijoje
 
-įstaigoms, kurių teritorijoje bus organizuojami lošimai, bendrovės, kuriai
+bus organizuojami lošimai, bendrovės, kuriai išduota licencija (leidimas),
 
-išduota licencija (leidimas), pavadinimą, kodą, buveinės adresą, telefono ir
+pavadinimą, kodą, buveinės adresą, telefono ir fakso numerius, licencijos rūšį,
 
-fakso numerius, licencijos rūšį, numerį, leidimo numerį, lošimų organizavimo
+numerį, leidimo numerį, lošimų organizavimo adresą, organizuojamų lošimų rūšis,
 
-adresą, organizuojamų lošimų rūšis, lošimo įrenginių skaičių.
+lošimo įrenginių skaičių.
 
 9.
 
@@ -2006,9 +2002,9 @@ reikalavimų;
 
 3)
 
-patalpos, kuriose numatoma organizuoti lošimus automatais ar bingą arba stalo lošimus,
+patalpos, kuriose numatoma organizuoti lošimus automatais ar bingą arba stalo
 
-neatitinka reikalavimų;
+lošimus, neatitinka reikalavimų;
 
 4)
 
@@ -2232,11 +2228,11 @@ mokslinį arba pedagoginį darbą.
 
 socialinės bei kitos garantijos Lietuvos Respublikos darbo kodekso ir kitų
 
-teisės aktų nustatyta tvarka. Priežiūros komisijos nariams už darbą mokama
+teisės aktų nustatyta tvarka. Priežiūros komisijos nariams už darbą mokama Lietuvos
 
-Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo
+Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo
 
-apmokėjimo įstatymo nustatyta tvarka.
+nustatyta tvarka.
 
 8. Priežiūros
 
@@ -2265,6 +2261,12 @@ Straipsnio pakeitimai:
 Nr. IX-1698,
 
 2003-07-04, Žin., 2003, Nr. 74-3419 (2003-07-25)
+
+Nr.
+
+X-1783,
+
+2008-11-06, Žin., 2008, Nr. 131-5033 (2008-11-15)
 
 30 straipsnis. Auditas
 
