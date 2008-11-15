@@ -4,7 +4,7 @@ identifier: "TAR.EC01522BCE65"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-03"
-last_updated: "2005-12-22"
+last_updated: "2008-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2005-12-22 iki 2008-11-14
+Suvestinė redakcija nuo 2008-11-15 iki 2010-02-15
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
 
@@ -393,7 +393,11 @@ SEIMO KONTROLIERIŲ VEIKLOS IR KITOS GARANTIJOS
 
 29 straipsnis. Seimo kontrolierių darbo apmokėjimas ir socialinės garantijos
 
-1. Seimo kontrolierių darbo užmokesčio dydį ir apmokėjimo sąlygas nustato Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
+1. Seimo kontrolierių darbo užmokesčio dydį ir apmokėjimo sąlygas nustato Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1781, 2008-11-06, Žin., 2008, Nr. 131-5031 (2008-11-15), i. k. 1081010ISTA00X-1781
 
 2. Seimo kontrolieriai draudžiami valstybiniu socialiniu draudimu Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
 
@@ -464,6 +468,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-442, 2005-12-13, Žin., 2005, Nr. 149-5419 (2005-12-22), i. k. 1051010ISTA000X-442
 
 Lietuvos Respublikos Seimo kontrolierių įstatymo 8 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1781, 2008-11-06, Žin., 2008, Nr. 131-5031 (2008-11-15), i. k. 1081010ISTA00X-1781
+
+Lietuvos Respublikos Seimo kontrolierių įstatymo 29 straipsnio pakeitimo įstatymas
 
 30 straipsnis. Seimo kontrolierių darbo apmokėjimas ir garantijos
 
