@@ -4,7 +4,7 @@ identifier: "TAR.789C6EE505FD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-01"
-last_updated: "2008-08-18"
+last_updated: "2008-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.789C6EE505FD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 # Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymas
 
 LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
+
+Suvestinė redakcija nuo 2008-11-15 iki 2013-12-31
+
+Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
 
 LIETUVOS RESPUBLIKOS
 
@@ -165,7 +169,11 @@ Tepadeda man Dievas.“;
 
 16 straipsnis. VTEK narių darbo apmokėjimas, socialinės garantijos ir garantijos atleidus iš pareigų
 
-1. VTEK pirmininkui ir nariams darbo užmokestis mokamas Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka.
+1. VTEK pirmininkui ir nariams darbo užmokestis mokamas Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1777, 2008-11-06, Žin., 2008, Nr. 131-5027 (2008-11-15), i. k. 1081010ISTA00X-1777
 
 2. VTEK nariai valstybiniu socialiniu draudimu draudžiami Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
 
@@ -409,40 +417,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-161 straipsnis. VTEK posėdžiai
-
-1. VTEK jos kompetencijai priskirtus klausimus svarsto ir sprendimus priima kolegialiai savo posėdžiuose. Posėdžių organizavimo tvarką nustato Reglamentas.
-
-2. VTEK posėdžius šaukia, jiems pirmininkauja ir sprendimus pasirašo VTEK pirmininkas arba Reglamente nustatyta tvarka kitas Komisijos narys. VTEK posėdis gali būti sušauktas ir ne mažiau kaip trijų VTEK narių iniciatyva.
-
-3. VTEK posėdžiai teisėti, kai juose dalyvauja ne mažiau kaip trys VTEK nariai. Komisija sprendimą priima VTEK narių balsų dauguma atviru balsavimu. Balsuojant susilaikyti negalima. Balsams pasidalijus po lygiai, lemia posėdžio pirmininko balsas.
-
-4. Motyvuotu VTEK sprendimu VTEK posėdis gali būti uždaras – žmogaus asmeninio ar šeiminio gyvenimo slaptumui apsaugoti, taip pat kai viešai nagrinėjant klausimą gali būti atskleista valstybės, tarnybos ar kita įstatymų saugoma paslaptis. Tokiu atveju viešai paskelbiama tik VTEK priimto sprendimo rezoliucinė dalis.
-
-5. VTEK posėdyje kviečiamas dalyvauti asmuo, kurio veika tiriama, ir pranešimą pateikęs asmuo.
-
-6. VTEK leidus, posėdžiuose (išskyrus uždarus posėdžius) gali dalyvauti ir savo nuomonę juose pareikšti kitų valstybės ir savivaldybių institucijų, taip pat viešųjų juridinių asmenų atstovai.
-
-7. VTEK posėdžiai protokoluojami. Posėdžio protokolą pasirašo VTEK pirmininkas arba kitas posėdžiui pirmininkavęs VTEK narys ir posėdžio sekretorius. Gali būti daromi VTEK posėdžių garso įrašai.
-
-Papildyta straipsniu:
-
-Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
-
-TREČIASIS SKIRSNIS
-
-VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS KOMPETENCIJA
-
-32 straipsnis. VTEK sprendimų apskundimas
-
-1. VTEK sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui per vieną mėnesį nuo sprendimo paskelbimo arba įteikimo suinteresuotam asmeniui dienos.
-
-2. VTEK, kaip privalomos išankstinio ginčų nagrinėjimo ne teismo tvarka institucijos, priimtas sprendimas gali būti skundžiamas teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka ir terminais.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
 Pakeitimai:
 
 1.
@@ -452,132 +426,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1777, 2008-11-06, Žin., 2008, Nr. 131-5027 (2008-11-15), i. k. 1081010ISTA00X-1777
 
 Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 16 straipsnio pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2357, 2012-11-06, Žin., 2012, Nr. 132-6685 (2012-11-15), i. k. 1121010ISTA0XI-2357
-
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 17 ir 19 straipsnių pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
-
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 2, 3, 5, 6, 9, 11, 13, 14, 15, 16, 17, 18, 23, 28 ir 29 straipsnių pakeitimo
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1586, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05701
-
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 16 straipsnio pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
-
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-385, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09281
-
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 6 ir 16-1 straipsnių pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-454, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11068
-
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 27 straipsnio pakeitimo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2124, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08422
-
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 6 straipsnio pakeitimo įstatymas
-
-9.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2391, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12806
-
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 6 straipsnio pakeitimo įstatymas
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2275, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11196
-
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 pakeitimo įstatymas
-
-241 straipsnis. Institucijų ir įstaigų priimtų sprendimų apskundimas VTEK
-
-1. Pareiškėjas arba asmuo, dėl kurio veikos institucijoje ar įstaigoje yra atliktas tyrimas ir priimtas sprendimas, šio įstatymo 24 straipsnio 1 dalyje nurodytų subjektų priimtus sprendimus, išskyrus atvejus, kai galimas valstybės tarnautojų ar pagal darbo sutartis dirbančių darbuotojų Viešųjų ir privačių interesų derinimo įstatymo pažeidimas tiriamas kaip tarnybinis nusižengimas ar darbo pareigų pažeidimas, gali skųsti VTEK per vieną mėnesį nuo skundžiamo sprendimo paskelbimo arba įteikimo dienos (išskyrus Seimo Etikos ir procedūrų komisijos priimtus sprendimus).
-
-2. VTEK, nagrinėdama pareiškėjo arba asmens, dėl kurio veikos institucijoje ar įstaigoje priimtas sprendimas, skundą, veikia kaip privaloma išankstinė ginčų nagrinėjimo ne teisme institucija. Pareiškėjas, asmuo, dėl kurio veikos institucijoje ar įstaigoje buvo priimtas sprendimas, ir skundžiamą sprendimą priėmusi institucija ar įstaiga VTEK nagrinėjant skundą laikomi ginčo šalimis.
-
-3. VTEK teikiamas skundas turi atitikti Lietuvos Respublikos administracinių bylų teisenos įstatymo 24 straipsnyje (išskyrus 24 straipsnio 2 dalies 9 punktą) nustatytus formos ir turinio reikalavimus. Jeigu pateiktas skundas neatitinka nustatytų reikalavimų, VTEK pirmininkas nustato ne trumpesnį kaip 5 darbo dienų terminą trūkumams pašalinti.
-
-4. Skundas VTEK gali būti paduodamas raštu tiesiogiai, siunčiamas paštu arba elektroninių ryšių priemonėmis. Paduodant skundą elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama elektroniniu parašu.
-
-5. Pareiškėjo arba asmens, dėl kurio veikos institucijoje ar įstaigoje priimtas sprendimas, prašymu VTEK pirmininkas skundo padavimo terminą gali atnaujinti, jeigu pripažįsta, kad jis praleistas dėl svarbios priežasties. Prašymas atnaujinti skundo padavimo terminą turi būti išnagrinėtas per 5 darbo dienas nuo prašymo ir termino praleidimo priežastis patvirtinančių įrodymų gavimo dienos.
-
-6. Skundo priėmimo klausimą išsprendžia VTEK pirmininkas per 3 darbo dienas nuo skundo (arba patikslinto skundo) užregistravimo Komisijos sekretoriate dienos.
-
-7. VTEK pirmininkas motyvuotu sprendimu gali atsisakyti priimti skundą, jeigu:
-
-1) skundo nagrinėjimas nepriklauso VTEK kompetencijai;
-
-2) skundas paduotas praleidus skundo padavimo terminą;
-
-3) VTEK jau yra išnagrinėjusi šio įstatymo 24 straipsnio 1 dalyje nurodytų subjektų pateiktą sprendimą, vadovaudamasi šio įstatymo 24 straipsnio 4 dalimi;
-
-4) Komisijoje dėl skunde nurodytų aplinkybių jau yra atliekamas tyrimas;
-
-5) pareiškėjas arba asmuo, dėl kurio veikos institucijoje ir įstaigoje priimtas sprendimas, per nustatytą terminą nepašalina skundo trūkumų.
-
-8.  Rengiant skundą nagrinėti VTEK posėdyje, Komisijos pirmininko paskirtas pranešėju Komisijos narys:
-
-1) prireikus įpareigoja pareiškėją ar asmenį, dėl kurio veikos institucijoje ar įstaigoje priimtas skundžiamas sprendimas, per VTEK nurodytą terminą pateikti su skundu susijusius įrodymus ir (ar) papildomus rašytinius paaiškinimus;
-
-2) skundo nuorašą išsiunčia sprendimą priėmusiai institucijai ar įstaigai, o kai skundą paduoda pareiškėjas, – ir asmeniui, dėl kurio veikos institucijoje ar įstaigoje priimtas skundžiamas sprendimas, ir paprašo per 5 darbo dienas nuo skundo gavimo dienos arba ne vėliau kaip iki VTEK nurodyto termino pabaigos pateikti atsiliepimą į skundą ir su skundu susijusią medžiagą (įrodymus, paaiškinimus);
-
-3) suderinęs su Komisijos pirmininku, ginčo šalims ir jų atstovams išsiunčia pranešimus apie VTEK posėdžio vietą, datą ir laiką.
-
-9. Ginčo šalių ir (ar) jų atstovų neatvykimas į VTEK posėdį nėra kliūtis nagrinėti skundą ir priimti sprendimą.
-
-10. Asmuo, dėl kurio veikos institucijoje ar įstaigoje priimtas skundžiamas sprendimas, taip pat šį sprendimą priėmusi institucija ar įstaiga turi tokias pačias teises ir pareigas kaip ir šio įstatymo 27 straipsnyje nurodytos asmens, dėl kurio veikos atliekamas tyrimas, teisės ir pareigos.
-
-11. Pareiškėjas turi tokias pačias teises ir pareigas kaip ir šio įstatymo 27 straipsnyje nurodytos pareiškėjo teisės ir pareigos.
-
-12. Komisijai paduotas skundas turi būti išnagrinėtas ir sprendimas dėl jo priimtas per vieną mėnesį nuo skundo gavimo Komisijoje dienos. Motyvuotu VTEK sprendimu skundo nagrinėjimo terminas gali būti pratęstas 14 dienų.
-
-13. VTEK, išnagrinėjusi skundą, priima vieną iš šių sprendimų:
-
-1) patenkinti skundą ir panaikinti skundžiamą sprendimą ar jo dalį arba įpareigoti skundžiamą sprendimą priėmusią instituciją ar įstaigą įvykdyti VTEK nurodymą;
-
-2) atmesti skundą kaip nepagrįstą.
-
-14. VTEK sprendimas priimamas ne vėliau kaip per 5 darbo dienas nuo skundo išnagrinėjimo, ginčo šalims nedalyvaujant, šio įstatymo ir Reglamento nustatyta tvarka. VTEK sprendime turi būti nurodyta: sprendimo priėmimo vieta ir data, sprendimą priėmusios Komisijos sudėtis, ginčo šalių ir jų atstovų vardai, pavardės, skundo turinys, Komisijos nustatytos faktinės aplinkybės, priimtas sprendimas, sprendimo priėmimo motyvai ir pagrindai, sprendimo apskundimo tvarka. Sprendimą pasirašo visi Komisijos nariai, dalyvavę priimant sprendimą.
-
-15. VTEK sprendimas per 5 darbo dienas nuo priėmimo dienos išsiunčiamas pareiškėjui, asmeniui, dėl kurio veikos buvo priimtas sprendimas, ir skundžiamą sprendimą priėmusiai institucijai ar įstaigai.
-
-Papildyta straipsniu:
-
-Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
 
