@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2008-07-17"
+last_updated: "2008-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -1673,7 +1673,7 @@ prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir
 
 įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir
 
-teisėtus interesus, visada būti nešališkas  (-a), sąžiningas (-a), saugoti man
+teisėtus interesus, visada būti nešališkas (-a), sąžiningas (-a), saugoti man
 
 patikėtas paslaptis ir gerą prokuroro vardą.“
 
@@ -2613,9 +2613,9 @@ dovana (iki penkių minimalių gyvenimo lygių dydžio vertės);
 
 garbės ženklo medaliu arba kitu pasižymėjimo ženklu;
 
-5) suteikiant
+5) suteikiant aukštesnį
 
-aukštesnį kvalifikacinį rangą.
+kvalifikacinį rangą.
 
 2. Už ypatingus
 
@@ -2743,11 +2743,11 @@ laikino nedarbingumo ar atostogų nebūtas tarnyboje laikas į tarnybinės
 
 nuobaudos skyrimo terminą neįskaitomas.
 
-9. Už vieną įstatymo
+9. Už vieną
 
-pažeidimą, tarnybinį nusižengimą arba prokuroro vardą žeminantį poelgį skiriama
+įstatymo pažeidimą, tarnybinį nusižengimą arba prokuroro vardą žeminantį poelgį
 
-viena tarnybinė nuobauda.
+skiriama viena tarnybinė nuobauda.
 
 10. Jei
 
@@ -3075,9 +3075,9 @@ Lietuvos Respublikos pilietybės;
 
 5) nenutraukia
 
-dalyvavimo politinių partijų ar politinių organizacijų veikloje, kitaip pažeidžia
+dalyvavimo politinių partijų ar politinių organizacijų veikloje, kitaip
 
-šio Įstatymo 21 straipsnio 2 dalies reikalavimus;
+pažeidžia šio Įstatymo 21 straipsnio 2 dalies reikalavimus;
 
 6) nesutinka
 
@@ -3189,21 +3189,19 @@ tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atost
 
 ar laikino nedarbingumo pasibaigimo tarnybos diena.
 
-3. Nėščią
+3. Nėščią prokurorę
 
-prokurorę atleisti iš tarnybos, išskyrus šio Įstatymo 44 straipsnio 1 dalies
+atleisti iš tarnybos, išskyrus šio Įstatymo 44 straipsnio 1 dalies 1–6, 9–12
 
-1–6, 9–12 punktuose ir 2 dalies 1, 3, 6, 8 punktuose nustatytus atvejus,
-
-draudžiama.
+punktuose ir 2 dalies 1, 3, 6, 8 punktuose nustatytus atvejus, draudžiama.
 
 4. Prokurorą,
 
-kuris vienas augina vaiką iki trejų metų, atleisti iš tarnybos, išskyrus šio Įstatymo
+kuris vienas augina vaiką iki trejų metų, atleisti iš tarnybos, išskyrus šio
 
-44 straipsnio 1 dalies 1–6, 8–12 punktuose ir 2 dalies 1–6, 8 punktuose
+Įstatymo 44 straipsnio 1 dalies 1–6, 8–12 punktuose ir 2 dalies 1–6, 8
 
-nustatytus atvejus, draudžiama.
+punktuose nustatytus atvejus, draudžiama.
 
 5. Atleisti
 
@@ -3411,9 +3409,21 @@ SOCIALINĖS GARANTIJOS
 
 straipsnis. Prokurorų darbo užmokestis
 
-Prokurorų darbo užmokestį nustato Valstybės
+Prokurorų darbo
 
-politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
+užmokestį nustato Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo
+
+įstatymas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-1785, 2008-11-06,
+
+Žin., 2008, Nr. 131-5035 (2008-11-15)
 
 50
 
@@ -4003,9 +4013,11 @@ ar asmenų turtui. Panaudojęs šaunamąjį ginklą, šaudmenis ir specialiąsia
 
 asmens apsaugos priemones, prokuroras turi:
 
-1) imtis priemonių,
+1) imtis
 
-kad nukentėjusiam asmeniui būtų suteikta neatidėliotina medicinos pagalba;
+priemonių, kad nukentėjusiam asmeniui būtų suteikta neatidėliotina medicinos
+
+pagalba;
 
 2) organizuoti
 
@@ -4497,13 +4509,27 @@ PROKURATŪROS
 
 ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-1785,
+
+2008-11-06, Žin., 2008, Nr. 131-5035 (2008-11-15)
+
+PROKURATŪROS
+
+ĮSTATYMO 49 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-07-21)
+Aušrinė Trapinskienė (2008-11-19)
 
 autrap@lrs.lt
 
