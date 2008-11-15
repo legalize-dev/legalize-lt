@@ -4,7 +4,7 @@ identifier: "TAR.594F129CE9AD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2004-01-07"
+last_updated: "2008-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2004-01-07 iki 2008-11-14
+Suvestinė redakcija nuo 2008-11-15 iki 2010-06-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
 
@@ -139,13 +139,15 @@ Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA
 
 1. Vyriausioji administracinių ginčų komisija yra juridinis asmuo, išlaikomas iš valstybės biudžeto.
 
-2. Komisijos pirmininko ir narių darbas komisijoje laikytinas darbu pagrindinėje darbovietėje ir apmokamas Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Vyriausiosios administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, darbo užmokesčio jiems mokėjimo tvarką ir sąlygas nustato Valstybės tarnybos įstatymas, kiti įstatymai ir teisės aktai.
+2. Komisijos pirmininko ir narių darbas komisijoje laikytinas darbu pagrindinėje darbovietėje ir apmokamas Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Vyriausiosios administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, darbo užmokesčio jiems mokėjimo tvarką ir sąlygas nustato Valstybės tarnybos įstatymas, kiti įstatymai ir teisės aktai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
 
 Nr. IX-1389, 2003-03-25, Žin., 2003, Nr. 35-1463 (2003-04-11), i. k. 1031010ISTA0IX-1389
+
+Nr. X-1782, 2008-11-06, Žin., 2008, Nr. 131-5032 (2008-11-15), i. k. 1081010ISTA00X-1782
 
 9 straipsnis. Vyriausiosios administracinių ginčų komisijos kompetencija
 
@@ -296,4 +298,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
 
 Lietuvos Respublikos administracinių ginčų komisijų įstatymo 1, 2, 3, 4, 5, 12 ir 14 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1782, 2008-11-06, Žin., 2008, Nr. 131-5032 (2008-11-15), i. k. 1081010ISTA00X-1782
+
+Lietuvos Respublikos administracinių ginčų komisijų įstatymo 8 straipsnio pakeitimo įstatymas
 
