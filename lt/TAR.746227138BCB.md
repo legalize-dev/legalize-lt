@@ -4,7 +4,7 @@ identifier: "TAR.746227138BCB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-01"
-last_updated: "2008-07-03"
+last_updated: "2008-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.746227138BCB"
 department: "Lietuvos Respublikos Seimas"
@@ -257,9 +257,9 @@ Nr. X-1380,
 
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
 
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+Nr. X-1631,
 
-(2008-07-03)
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
 
 4
 
@@ -347,9 +347,9 @@ Nr. X-304, 2005-07-05,
 
 Žin., 2005, Nr. 88-3281 (2005-07-21)
 
-Nr. X-1380, 2007-12-18,
+Nr. X-1380,
 
-Žin., 2007, Nr. 140-5755 (2007-12-29)
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
 
 5(1) straipsnis. Moterų ir vyrų lygių
 
@@ -519,9 +519,9 @@ jeigu dėl asmens lyties:
 
 sąlygos priimant mokytis ar studijuoti, rengiant mokymo ir studijų programas,
 
-vertinant žinias, keliant kvalifikaciją, ugdant profesinius įgūdžius ar
+vertinant žinias, keliant kvalifikaciją, ugdant profesinius įgūdžius ar suteikiant
 
-suteikiant praktinę darbo patirtį;
+praktinę darbo patirtį;
 
 2) nustatomos skirtingos dėstomų dalykų
 
@@ -693,9 +693,9 @@ Nr. X-1380,
 
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
 
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+Nr. X-1631,
 
-(2008-07-03)
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
 
 13 straipsnis.
 
@@ -715,9 +715,9 @@ Nr. X-304, 2005-07-05,
 
 Žin., 2005, Nr. 88-3281 (2005-07-21)
 
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+Nr. X-1631,
 
-(2008-07-03)
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
 
 14 straipsnis.
 
@@ -869,9 +869,7 @@ ar asmenų vardai, pavardės ir institucija, kurioje jie dirba;
 
 arba skundžiami veiksmai, nurodytas jų padarymo laikas ir aplinkybės;
 
-5) prašymas lygių galimybių
-
-kontrolieriui;
+5) prašymas lygių galimybių kontrolieriui;
 
 6) skundo parašymo data ir pareiškėjo parašas.
 
@@ -1109,9 +1107,9 @@ ar panaikinamas;
 
 6) įspėti dėl padaryto pažeidimo;
 
-7) laikinai sustabdyti tyrimą, jei asmuo, kurio skundas
+7) laikinai sustabdyti tyrimą, jei asmuo, kurio
 
-ar apskundžiami veiksmai tiriami, serga arba yra išvykęs;
+skundas ar apskundžiami veiksmai tiriami, serga arba yra išvykęs;
 
 8) laikinai, kol bus priimtas galutinis
 
@@ -1260,8 +1258,6 @@ priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                              VALDAS
 
 ADAMKUS
-
-_________________
 
 Lietuvos
 
@@ -1529,7 +1525,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
+X-1631,
+
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
 
 MOTERŲ
 
@@ -1537,13 +1535,29 @@ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 3, 12, 13, 25 STRAIPSNIŲ PAKEITIMO IR ĮST
 
 PAPILDYMO 5(3), 7(3) STRAIPSNIAIS ĮSTATYMAS
 
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1779,
+
+2008-11-06, Žin., 2008, Nr. 131-5029 (2008-11-15)
+
+MOTERŲ
+
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 26 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-07-04)
+Aušrinė Trapinskienė (2008-11-18)
 
 autrap@lrs.lt
 
@@ -1695,31 +1709,21 @@ Nr. X-304, 2005-07-05,
 
 Žin., 2005, Nr. 88-3281 (2005-07-21)
 
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+Nr. X-1631,
 
-(2008-07-03)
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
 
 26
 
 straipsnis. Lygių galimybių kontrolieriaus atlyginimas ir socialinės garantijos
 
-1. Lygių galimybių kontrolieriui mokamas
+1. Lygių galimybių kontrolieriaus darbo
 
-paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5
+apmokėjimo sąlygas nustato Lietuvos Respublikos valstybės politikų ir valstybės
 
-dydžių atlyginimas. Kiti priedai ar premijos lygių galimybių kontrolieriui
+pareigūnų darbo apmokėjimo įstatymas.
 
-nemokami.
-
-2. Pradėjus įgyvendinti Lietuvos Respublikos
-
-valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo
-
-nustatytą darbo apmokėjimo sistemą, lygių galimybių kontrolieriui taikomos
-
-minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
-
-3. Lygių galimybių kontrolierius
+2. Lygių galimybių kontrolierius
 
 valstybiniu socialiniu draudimu draudžiamas Valstybinio socialinio draudimo
 
@@ -1738,6 +1742,10 @@ Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 Nr. X-304, 2005-07-05,
 
 Žin., 2005, Nr. 88-3281 (2005-07-21)
+
+Nr. X-1779,
+
+2008-11-06, Žin., 2008, Nr. 131-5029 (2008-11-15)
 
 28 straipsnis.
 
@@ -1833,9 +1841,9 @@ išmokų.
 
 Įstatymas papildytas straipsniu:
 
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+Nr. X-1631,
 
-(2008-07-03)
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
 
 III SKYRIUS
 
@@ -1935,7 +1943,7 @@ padengti, pakankamumui užtikrinti.
 
 Įstatymas papildytas straipsniu:
 
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
+Nr. X-1631,
 
-(2008-07-03)
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
 
