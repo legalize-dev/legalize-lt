@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2008-04-30"
+last_updated: "2008-11-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -3518,25 +3518,27 @@ naujo sklypo suformavimu ar žemės ploto padidinimu laisvoje valstybinėje
 
 5. Kaimų
 
-teritorijose ir žemės ūkio paskirties žemėje, išskyrus miestams po 1995 m.
+teritorijose ir žemės ūkio paskirties žemėje, išskyrus miestams po
 
-birželio 1 d. nustatyta tvarka priskirtas teritorijas, šio straipsnio 1 dalies
+1995 m. birželio 1 d. nustatyta tvarka priskirtas teritorijas, šio straipsnio 1
 
-5, 6 ir 7 punktuose nustatytais atvejais, taip pat kaimų teritorijose statant
+dalies 5, 6 ir 7 punktuose nustatytais atvejais, taip pat kaimų teritorijose
 
-ūkininko sodybą ar pagalbinio ūkio ir kitos paskirties (fermų, ūkio,
+statant ūkininko sodybą ar pagalbinio ūkio ir kitos paskirties (fermų,
 
-šiltnamių, kaimo turizmo) pastatus, kai vykdoma statyba atitinka Lietuvos
+ūkio, šiltnamių, kaimo turizmo) pastatus, kai vykdoma statyba atitinka Ūkininko
 
-Respublikos ūkininko ūkio įstatyme nurodytas ūkininko sodybos ar
+ūkio įstatyme nurodytas ūkininko sodybos ar pagalbinio ūkio ir kitos
 
-pagalbinio ūkio ir kitos paskirties (fermų, ūkio, šiltnamių, kaimo turizmo)
+paskirties (fermų, ūkio, šiltnamių, kaimo turizmo) pastatų statybos sąlygas, taip
 
-pastatų statybos sąlygas, vietoj detaliųjų planų rengiami žemėvaldų planai
+pat kai parduodami ir išnuomojami valstybinės žemės sklypai mėgėjiško sodo
 
-(projektai) arba kaimo plėtros žemėtvarkos projektai Žemės įstatymo ir šio
+teritorijoje, vietoj detaliųjų planų rengiami žemėvaldų planai (projektai) arba
 
-Įstatymo 18 straipsnio 1 dalyje nurodytose taisyklėse nustatyta tvarka.
+kaimo plėtros žemėtvarkos projektai Žemės įstatymo ir šio Įstatymo 18
+
+straipsnio 1 dalyje nurodytose taisyklėse nustatyta tvarka.
 
 6. Detalieji planai, keičiantys
 
@@ -3599,6 +3601,12 @@ Nr.
 X-1421,
 
 2008-01-17, Žin., 2008, Nr. 10-337 (2008-01-24)
+
+Nr.
+
+X-1796,
+
+2008-11-11, Žin., 2008, Nr. 135-5232 (2008-11-25)
 
 22 straipsnis.
 
@@ -3866,9 +3874,9 @@ tinklus, detalieji planai pastatų ir statinių statybai rengiami tais atvejais,
 
 jeigu jų planavimo tikslams įgyvendinti yra parengti būtinos inžinerinės
 
-infrastruktūros plėtros planai. Jei šie planai neparengti, jie gali būti
+infrastruktūros plėtros planai. Jei šie planai neparengti, jie gali būti rengiami
 
-rengiami vienu metu su detaliaisiais planais.
+vienu metu su detaliaisiais planais.
 
 4. Detalieji planai negali būti rengiami, jeigu
 
@@ -3902,9 +3910,7 @@ pagal įstatymus privačios žemės sklypų dalinti dalimis neleidžiama) gali b
 
 statomas antras gyvenamasis namas, kitos paskirties pastatas (išskyrus jų
 
-priklausinius) tik pagal detalųjį planą atidalijus ir suformavus naują žemės
-
-sklypą.
+priklausinius) tik pagal detalųjį planą atidalijus ir suformavus naują žemės sklypą.
 
 Straipsnio pakeitimai:
 
@@ -4004,9 +4010,9 @@ Baigiamasis etapas:
 
 1)
 
-teritorijų planavimo dokumento sprendinių svarstymo ir derinimo stadija – viešas
+teritorijų planavimo dokumento sprendinių svarstymo ir derinimo stadija – viešas svarstymas,
 
-svarstymas, derinimas su institucijomis, ginčų nagrinėjimas;
+derinimas su institucijomis, ginčų nagrinėjimas;
 
 2) teritorijų
 
@@ -4036,11 +4042,11 @@ neišdavimo priežastis, planavimo organizatorius turi teisę pradėti rengti
 
 detaliojo teritorijų planavimo dokumentus. Apie tai jis per 5 darbo dienas
 
-raštu praneša planavimo sąlygas išduodančiai institucijai ir valstybinę
+raštu praneša planavimo sąlygas išduodančiai institucijai ir valstybinę planavimo
 
-planavimo priežiūrą atliekančiai institucijai, o teritorijų planavimo dokumentą
+priežiūrą atliekančiai institucijai, o teritorijų planavimo dokumentą gali
 
-gali pradėti rengti po 10 dienų nuo pranešimo išsiuntimo dienos. Nepaisant to,
+pradėti rengti po 10 dienų nuo pranešimo išsiuntimo dienos. Nepaisant to,
 
 ar institucija, turinti išduoti planavimo sąlygas, jas išdavė ar ne, ji
 
@@ -4274,15 +4280,15 @@ galiojimo terminas.
 
 tvirtinami ta pačia tvarka kaip ir detalusis planas.
 
-8. Patvirtintas detalusis planas
+8. Patvirtintas detalusis planas įsigalioja
 
-įsigalioja kitą dieną po jo paskelbimo vietinėje spaudoje arba kitą dieną po
+kitą dieną po jo paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus
 
-oficialaus informacinio pranešimo vietinėje spaudoje apie teritorijų planavimo
+informacinio pranešimo vietinėje spaudoje apie teritorijų planavimo dokumento
 
-dokumento patvirtinimą ir viso teritorijų planavimo dokumento paskelbimo
+patvirtinimą ir viso teritorijų planavimo dokumento paskelbimo atitinkamos
 
-atitinkamos savivaldybės interneto tinklalapyje.
+savivaldybės interneto tinklalapyje.
 
 9. Sprendimą dėl detaliojo plano patvirtinimo
 
@@ -4306,9 +4312,9 @@ X-757,
 
 Nr.
 
-X-1061,
+X-1061, 2007-03-22,
 
-2007-03-22, Žin., 2007, Nr. 39-1437 (2007-04-05)
+Žin., 2007, Nr. 39-1437 (2007-04-05)
 
 PENKTASIS
 
@@ -4356,11 +4362,11 @@ dėl teritorijų planavimo dokumento yra neigiama, šis teritorijų planavimo
 
 dokumentas tvirtinti neteikiamas.
 
-3. Derinančių institucijų
+3. Derinančių
 
-sąrašas, kompetencija ir derinimo tvarka nurodomi atitinkamų rūšių teritorijų
+institucijų sąrašas, kompetencija ir derinimo tvarka nurodomi atitinkamų rūšių
 
-planavimo dokumentų rengimo taisyklėse.
+teritorijų planavimo dokumentų rengimo taisyklėse.
 
 4. Savivaldybės
 
@@ -4708,33 +4714,33 @@ rūšis.
 
 straipsnis. Teritorijų planavimo viešumas
 
-1. Ministerijų, Vyriausybės įstaigų ir kitų valstybės
+1. Ministerijų, Vyriausybės įstaigų ir kitų
+
+valstybės valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų
+
+rengimo pradžios ir planavimo tikslų skelbiami „Valstybės žiniose“ bei
+
+institucijų interneto tinklalapiuose. Aukštesniųjų administracinių vienetų
 
 valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų rengimo
 
-pradžios ir planavimo tikslų skelbiami „Valstybės žiniose“ bei institucijų
+pradžios ir planavimo tikslų skelbiami vietinėje spaudoje bei institucijų
 
-interneto tinklalapiuose. Aukštesniųjų administracinių vienetų valdymo
+interneto tinklalapiuose. Savivaldybių ir jų vykdomųjų institucijų priimti
 
-institucijų sprendimai dėl teritorijų planavimo dokumentų rengimo pradžios ir
+sprendimai dėl teritorijų planavimo dokumentų rengimo skelbiami vietinėje
 
-planavimo tikslų skelbiami vietinėje spaudoje bei institucijų interneto
+spaudoje, savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta
 
-tinklalapiuose. Savivaldybių ir jų vykdomųjų institucijų priimti sprendimai dėl
+teritorijos planavimas. Detaliojo planavimo organizatorius apie žemės sklypo ar
 
-teritorijų planavimo dokumentų rengimo skelbiami vietinėje spaudoje,
+grupės žemės sklypų teritorijos planavimo dokumentų rengimo pradžią bei
 
-savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta teritorijos
+planavimo tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir
 
-planavimas. Detaliojo planavimo organizatorius apie žemės sklypo ar grupės
+naudotojus, taip pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie
 
-žemės sklypų teritorijos planavimo dokumentų rengimo pradžią bei planavimo
-
-tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir naudotojus, taip
-
-pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie planuojamos
-
-teritorijos įrengia stendą su šia informacija.
+planuojamos teritorijos įrengia stendą su šia informacija.
 
 2. Fiziniai ir juridiniai asmenys turi teisę
 
@@ -4784,17 +4790,17 @@ parengtą teritorijų planavimo dokumentą, susipažinimo su juo, svarstymo tvar
 
 vietą ir laiką turi paskelbti spaudoje ir sprendimą rengti teritorijų planavimo
 
-dokumentą priėmusios valstybės institucijos ar savivaldybės interneto
+dokumentą priėmusios valstybės institucijos ar savivaldybės interneto tinklalapyje.
 
-tinklalapyje. Planavimo organizatoriai apie parengtą savivaldybės ar jos dalies
+Planavimo organizatoriai apie parengtą savivaldybės ar jos dalies teritorijų
 
-teritorijų planavimo dokumentą, susipažinimo su juo, svarstymo tvarką, vietą ir
+planavimo dokumentą, susipažinimo su juo, svarstymo tvarką, vietą ir laiką taip
 
-laiką taip pat turi paskelbti seniūnijų, kuriose yra planuojama teritorija,
+pat turi paskelbti seniūnijų, kuriose yra planuojama teritorija, skelbimų
 
-skelbimų lentoje, o žemės sklypo ar grupės žemės sklypų teritorijos detaliojo
+lentoje, o žemės sklypo ar grupės žemės sklypų teritorijos detaliojo planavimo
 
-planavimo atveju – ir prie planuojamos teritorijos įrengtame stende. Tais atvejais,
+atveju – ir prie planuojamos teritorijos įrengtame stende. Tais atvejais,
 
 kai pagal detaliojo plano arba savivaldybės lygmens specialiojo plano
 
@@ -4978,9 +4984,9 @@ apibendrinančią medžiagą, kurią kartu su parengtais teritorijų planavimo
 
 dokumentais teikia teritorijų planavimo dokumentą derinančioms institucijoms.
 
-Pasiūlymus pateikusiems asmenims planavimo organizatorius motyvuotai atsako
+Pasiūlymus pateikusiems asmenims planavimo organizatorius motyvuotai atsako raštu.
 
-raštu. Atsakymas gali būti apskųstas valstybinę teritorijų planavimo priežiūrą
+Atsakymas gali būti apskųstas valstybinę teritorijų planavimo priežiūrą
 
 atliekančiai institucijai per mėnesį nuo jo gavimo dienos. Valstybinę
 
@@ -5370,21 +5376,21 @@ patikrinimo išvadas teikia apskričių viršininkams.
 
 Valstybinę teritorijų planavimo priežiūrą atliekanti institucija teritorijų
 
-planavimo dokumento patikrinimo aktą turi pateikti per 20 darbo dienų nuo teritorijų
+planavimo dokumento patikrinimo aktą turi pateikti per 20 darbo dienų nuo
 
-planavimo dokumento pateikimo dienos šio straipsnio 1 dalyje nurodytų nuostatų
+teritorijų planavimo dokumento pateikimo dienos šio straipsnio 1 dalyje
 
-nustatyta tvarka.
+nurodytų nuostatų nustatyta tvarka.
 
 5.
 
 Teritorijų planavimo dokumentas teikiamas tikrinti valstybinę teritorijų
 
-planavimo priežiūrą atliekančiai institucijai pasibaigus šio Įstatymo 32 straipsnio
+planavimo priežiūrą atliekančiai institucijai pasibaigus šio Įstatymo 32
 
-2 dalyje nustatytam teritorijų planavimo dokumento sprendinių apskundimo
+straipsnio 2 dalyje nustatytam teritorijų planavimo dokumento sprendinių
 
-terminui.
+apskundimo terminui.
 
 6.
 
@@ -5842,9 +5848,9 @@ TERITORIJŲ PLANAVIMO IR PRIEŽIŪROS SPECIALISTAI
 
 straipsnis. Teritorijų planavimo ir priežiūros specialistai
 
-1. Rengti bendrojo teritorijų planavimo
+1. Rengti bendrojo teritorijų planavimo dokumentus
 
-dokumentus turi teisę:
+turi teisę:
 
 1) juridiniai
 
@@ -5882,15 +5888,15 @@ ar teisės aktai nustato privalomą tokių specialistų atestavimą, – atestuo
 
 specialistas;
 
-2) teritorijų planavimo specialistas ar atitinkamos
+2) teritorijų planavimo specialistas ar atitinkamos kvalifikacijos
 
-kvalifikacijos aukštąjį išsilavinimą turintis specialistas, išskyrus atvejus,
+aukštąjį išsilavinimą turintis specialistas, išskyrus atvejus, kai kiti
 
-kai kiti įstatymai ar teisės aktai nustato privalomą tokių specialistų
+įstatymai ar teisės aktai nustato privalomą tokių specialistų atestavimą.
 
-atestavimą.
+3. Rengti detaliuosius planus turi
 
-3. Rengti detaliuosius planus turi teisę:
+teisę:
 
 1) juridiniai asmenys ir įmonių,
 
@@ -5908,15 +5914,15 @@ kvalifikacijos aukštąjį išsilavinimą turintis specialistas (detaliojo plano
 
 dalims rengti).
 
-4. Rengti žemėtvarkos specialiojo teritorijų
+4. Rengti žemėtvarkos specialiojo
 
-planavimo dokumentus turi teisę juridiniai asmenys ir įmonių, įsteigtų Europos
+teritorijų planavimo dokumentus turi teisę juridiniai asmenys ir įmonių,
 
-Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės susitarimą
+įsteigtų Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės
 
-pasirašiusiose valstybėse, filialai Lietuvos Respublikoje, jeigu jų steigimo
+susitarimą pasirašiusiose valstybėse, filialai Lietuvos Respublikoje, jeigu jų
 
-dokumentuose numatyta teritorijų planavimo veikla, o planavimo darbams
+steigimo dokumentuose numatyta teritorijų planavimo veikla, o planavimo darbams
 
 vadovauja ir juos atlieka Žemės įstatymo reikalavimus atitinkantis specialistas
 
@@ -5924,19 +5930,21 @@ vadovauja ir juos atlieka Žemės įstatymo reikalavimus atitinkantis specialist
 
 5. Savivaldybių vyriausiaisiais
 
-architektais turi teisę būti atestuoti specialistai, turintys architektūros aukštąjį
+architektais turi teisę būti atestuoti specialistai, turintys architektūros
 
-išsilavinimą. Valstybinę teritorijų planavimo priežiūrą atlieka atitinkamos
+aukštąjį išsilavinimą. Valstybinę teritorijų planavimo priežiūrą atlieka
 
-kvalifikacijos aukštąjį išsilavinimą turintys atestuoti specialistai.
+atitinkamos kvalifikacijos aukštąjį išsilavinimą turintys atestuoti
+
+specialistai.
 
 6. Teritorijų
 
 planavimo specialistų, vyriausiųjų architektų ir valstybinę teritorijų
 
-planavimo priežiūrą atliekančių specialistų atestavimo tvarką bei
+planavimo priežiūrą atliekančių specialistų atestavimo tvarką bei kvalifikacinius
 
-kvalifikacinius reikalavimus nustato Vyriausybė ar jos įgaliota institucija.
+reikalavimus nustato Vyriausybė ar jos įgaliota institucija.
 
 Straipsnio
 
@@ -5962,9 +5970,9 @@ straipsnis. Žalos atlyginimas
 
 įgyvendinamų teritorijų planavimo dokumentų, atlyginama Civilinio kodekso,
 
-Žemės įstatymo ir kitų teisės aktų nustatyta tvarka. Ginčus dėl žalos
+Žemės įstatymo ir kitų teisės aktų nustatyta tvarka. Ginčus dėl žalos atlyginimo
 
-atlyginimo sprendžia teismas.
+sprendžia teismas.
 
 38
 
@@ -5982,7 +5990,7 @@ RESPUBLIKOS
 
 PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS
 
-________________
+______________
 
 Pakeitimai:
 
@@ -6112,9 +6120,7 @@ PLANAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Šis
 
-Įstatymas, išskyrus jo 2 ir 3 straipsnius, įsigalioja nuo 2004 m. gegužės 1
-
-d.
+Įstatymas, išskyrus jo 2 ir 3 straipsnius, įsigalioja nuo 2004 m. gegužės 1 d.
 
 Nauja
 
@@ -6244,13 +6250,27 @@ TERITORIJŲ
 
 PLANAVIMO ĮSTATYMO 21 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+16.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-1796,
+
+2008-11-11, Žin., 2008, Nr. 135-5232 (2008-11-25)
+
+TERITORIJŲ
+
+PLANAVIMO ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-04-30)
+Aušrinė Trapinskienė (2008-11-25)
 
 autrap@lrs.lt
 
