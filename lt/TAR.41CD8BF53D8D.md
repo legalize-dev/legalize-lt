@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2008-04-30"
+last_updated: "2008-11-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -1424,17 +1424,23 @@ susitarimus;
 
 ginklus, išankstinio sutikimo įvežti ginklus išdavimą Lietuvos Respublikos ar
 
-užsienio teisėsaugos institucijoms ir jų pareigūnams arba asmenims, turintiems
+užsienio teisėsaugos institucijoms ir jų pareigūnams, Lietuvos Respublikos
 
-diplomatinius ar tarnybinius pasus (jeigu šiems asmenims, norintiems gauti
+krašto apsaugos sistemos ir užsienio gynybos institucijoms, taip pat jų
 
-leidimą, tarpininkauja Lietuvos Respublikos užsienio reikalų ministerija), arba
+pareigūnams, vežantiems jiems priklausančius vienetinius tarnybinius ginklus ir
 
-fiziniams ir juridiniams asmenims, kurie išvyksta į sporto varžybas užsienyje,
+jų šaudmenis, arba asmenims, turintiems diplomatinius ar tarnybinius pasus
 
-atvyksta į sporto varžybas Lietuvos Respublikoje ar vyksta į sporto varžybas
+(jeigu šiems asmenims, norintiems gauti leidimą, tarpininkauja Lietuvos
 
-per Lietuvos Respubliką tranzitu;
+Respublikos užsienio reikalų ministerija), arba fiziniams ir juridiniams
+
+asmenims, kurie išvyksta į sporto varžybas užsienyje, atvyksta į sporto
+
+varžybas Lietuvos Respublikoje ar vyksta į sporto varžybas per Lietuvos Respubliką
+
+tranzitu;
 
 17) dokumentų išduoti, pakeisti leidimą laikinai gyventi
 
@@ -1504,11 +1510,11 @@ civilinės aviacijos specialisto licencijos (kvalifikacijos) atnaujinimą,
 
 pirmos, antros ir trečios klasės sveikatos pažymėjimo išdavimą darbuotojams,
 
-kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos
+kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos specialisto
 
-specialisto licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo
+licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo turėti
 
-turėti galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
+galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
 
 21) jūrininkų
 
@@ -1579,6 +1585,10 @@ X-1277,
 Nr. X-1491,
 
 2008-04-15, Žin., 2008, Nr. 50-1840 (2008-04-30)
+
+Nr.
+
+X-1811, 2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
 
 7 straipsnis. Valstybės
 
@@ -1656,9 +1666,9 @@ valstybės rinkliava arba jos dalis grąžinama šiais atvejais:
 
 daugiau negu Vyriausybės nustatytas rinkliavos dydis;
 
-2) jeigu
+2) jeigu paslaugos
 
-paslaugos nesuteikiamos.
+nesuteikiamos.
 
 2. Valstybės
 
@@ -1672,9 +1682,7 @@ terminą.
 
 rinkliavos grąžinimo tvarką nustato Vyriausybė.
 
-III
-
-SKYRIUS
+III SKYRIUS
 
 VIETINĖS
 
@@ -2052,7 +2060,9 @@ RINKLIAVŲ
 
 5.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. IX-2139,
 
@@ -2190,13 +2200,27 @@ RINKLIAVŲ ĮSTATYMO 6, 6(1), 7
 
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1811, 2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
+
+RINKLIAVŲ
+
+ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-04-30)
+Aušrinė Trapinskienė (2008-11-25)
 
 autrap@lrs.lt
 
@@ -2224,11 +2248,11 @@ rinkliavos už dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublik
 
 tvarkymą yra atleidžiami asmenys, kurie dėl dokumentų dėl leidimo gyventi
 
-Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos
+Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos Respublikos
 
-Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra
+diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję
 
-sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos
+konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos
 
 konsulinio mokesčio įstatymo 3 straipsnio 6 punkte, atlikimą.
 
