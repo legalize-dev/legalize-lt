@@ -4,7 +4,7 @@ identifier: "TAR.FD474D5CE327"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-18"
-last_updated: "2004-01-07"
+last_updated: "2008-11-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FD474D5CE327"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2003-12-18"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sodininkų bendrijų įstatymas
+
+Suvestinė redakcija nuo 2008-11-25 iki 2009-06-05
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 4-40, i. k. 1031010ISTA0IX-1934
 
 LIETUVOS RESPUBLIKOS
 
@@ -35,13 +39,29 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-1. Mėgėjiška sodininkystė – laisvalaikio veikla turint tikslą sodo sklype susikurti aktyvaus poilsio sąlygas, išsiauginti ar pasigaminti žemės ūkio produktų (vaisių, uogų, daržovių, gėlių, bitininkystės ir kitų produktų), taip pat tvarkyti kraštovaizdį ir naudotis juo rekreacijai, puoselėti ir tausoti jo išteklius.
+1. Mėgėjiška sodininkystė – veikla turint tikslą sodo sklype susikurti aktyvaus poilsio ir gyvenimo sąlygas, išsiauginti ar pasigaminti žemės ūkio produktų (vaisių, uogų, daržovių, gėlių, bitininkystės ir kitų produktų), taip pat tvarkyti kraštovaizdį ir naudotis juo rekreacijai, puoselėti ir tausoti jo išteklius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 2. Mėgėjiško sodo sklypas (toliau – sodo sklypas) – mėgėjiško sodo teritorijoje pagal žemėtvarkos projektą ar kitą teritorijų planavimo dokumentą suformuotas ir pažymėtas riboženkliais žemės sklypas.
 
 3. Mėgėjiško sodo teritorija – teisės aktu mėgėjiškai sodininkystei skirta, pagal žemėtvarkos projektą arba kitą teritorijų planavimo dokumentą suformuota teritorija, suskirstyta į individualius sodo sklypus ir bendrojo naudojimo žemę (rekreacijai ir kitoms reikmėms).
 
 4. Sodininkas – fizinis asmuo, nuosavybės ar kitomis teisėmis valdomame žemės sklype užsiimantis mėgėjiška sodininkyste.
+
+5. Sodo namas – nesudėtingas poilsiui skirtas statinys.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
+
+6. Vienbutis namas – vienai šeimai skirtas namas.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 3 straipsnis. Sodininkų bendrijos samprata
 
@@ -81,7 +101,11 @@ SKLYPŲ TVARKYMAS BEI NAUDOJIMAS
 
 6 straipsnis. Mėgėjiško sodo teritorija ir jos tvarkymo bendrieji reikalavimai
 
-1. Mėgėjiško sodo teritoriją sudaro sodininkų naudojama nuosavybės ar kitomis teisėmis valdomų sklypų ir bendrojo naudojimo žemė, kuri teisės aktais buvo skirta mėgėjiškai sodininkystei plėtoti (kolektyviniams sodams steigti) arba priskirta pagal vėliau patikslintą bendrijos teritorijos žemėtvarkos projektą ar kitą teritorijų planavimo dokumentą. Bendrojo naudojimo žemę bendrijos gali nuomoti ar išsipirkti iš valstybės.
+1. Mėgėjiško sodo teritoriją sudaro sodininkų ir kitų asmenų, įsigijusių mėgėjiško sodo teritorijoje sodo sklypą, naudojama nuosavybės ar kitomis teisėmis valdomų sklypų ir bendrojo naudojimo žemė, kuri teisės aktais buvo skirta mėgėjiškai sodininkystei plėtoti (kolektyviniams sodams steigti) arba priskirta pagal vėliau patikslintą bendrijos teritorijos žemėtvarkos projektą ar kitą teritorijų planavimo dokumentą. Bendrojo naudojimo žemę bendrijos gali nuomoti ar išsipirkti iš valstybės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 2. Laikantis Žemės įstatymo, mėgėjiško sodo teritorija yra priskiriama žemės ūkio paskirties žemei.
 
@@ -103,11 +127,15 @@ SKLYPŲ TVARKYMAS BEI NAUDOJIMAS
 
 4) sodiniai visais atvejais neturi daryti žalos kaimyninio sklypo naudotojams. Mažesniu atstumu jie gali būti sodinami esant rašytiniam kaimyninių sodo sklypų savininkų susitarimui.
 
-6. Mėgėjiško sodo teritorijoje sodininkai, nekeisdami pagrindinės tikslinės žemės naudojimo paskirties, nuosavybės teise valdomame sodo sklype gali statyti ar rekonstruoti:
+6. Asmenys, įsigiję mėgėjiško sodo teritorijoje sodo sklypą, nekeisdami pagrindinės tikslinės žemės naudojimo paskirties, nuosavybės teise ar kitomis teisėmis valdomame sodo sklype gali statyti ar rekonstruoti:
 
-1) Statybos įstatymo nustatyta tvarka parengę projektą ir gavę statybos leidimą – vieną gyvenamąjį namą ir vieną jo priklausinį;
+1) Statybos įstatymo nustatyta tvarka parengę projektą ir gavę statybos leidimą, – vieną vienbutį gyvenamąjį namą ir vieną jo priklausinį. Nauji pastatai gali būti statomi ne mažesniame kaip 0,04 ha sodo sklype. Gyvenamieji namai ir jų priklausiniai turi būti projektuojami ir statomi taip, kad neblogintų kaimyninių sklypų savininkų ir naudotojų sąlygų verstis mėgėjiška sodininkyste;
 
-2) be statybos leidimo – sodo baldus ir mažosios architektūros bei smulkius rekreacinės paskirties statinius (suolelius, sporto aikšteles, židinius, skulptūras, dekoratyvines tvoreles, lieptus ir kitus laikinuosius statinius).
+2) be statybos leidimo – sodo namą, sodo baldus ir mažosios architektūros bei smulkius rekreacinės paskirties statinius (suolelius, sporto aikšteles, židinius, skulptūras, dekoratyvines tvoreles, lieptus ir kitus laikinuosius statinius).
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 7. Mėgėjiško sodo teritorija turi būti tvarkoma taip, kad prireikus į ją galėtų patekti atlikdami pareigas priešgaisrinės saugos, policijos, greitosios pagalbos ir kitų specialiųjų tarnybų darbuotojai.
 
@@ -123,7 +151,11 @@ SKLYPŲ TVARKYMAS BEI NAUDOJIMAS
 
 4. Bendrijos valdymo organas privalo sudaryti bendrojo naudojimo objektų aprašą ir prireikus jį papildyti arba pakeisti. Šiame apraše turi būti nurodyta bendrojo naudojimo objektų techninė būklė. Bendrijos valdymo organas bendrojo naudojimo objektų aprašą viešai paskelbia nariams ir pateikia jį kitiems žinomiems su bendrojo naudojimo objektų valdymu susijusiems suinteresuotiems asmenims. Kiekvienas bendrijos narys turi teisę ginčyti bendrojo naudojimo objektų aprašą ir reikalauti turto inventorizaciją atlikti iš naujo. Sprendimus dėl pakartotinės inventorizacijos priima bendrijos narių susirinkimas.
 
-5. Asmenys, kurie mėgėjiško sodo teritorijoje įsigyja žemės sklypą ir nepageidauja tapti bendrijos nariais, taip pat asmenys, išstoję iš bendrijos arba iš jos pašalinti, privalo sudaryti su bendrija sutartis dėl naudojimosi bendrojo naudojimo objektais sąlygų, tvarkos ir kainų. Už visas paslaugas ir naudojimąsi bendrojo naudojimo objektais ne bendrijos nariai atsiskaito pagal bendrijos pateiktas sąskaitas sutartyje nustatytomis sąlygomis ir tvarka.
+5. Asmenys, kurie mėgėjiško sodo teritorijoje įsigyja žemės sklypą ir nepageidauja tapti bendrijos nariais, išstoję iš bendrijos arba iš jos pašalinti, taip pat juridiniai asmenys, kurie įsigyja žemės sklypą mėgėjiško sodo teritorijoje, privalo sudaryti su bendrija sutartis dėl naudojimosi bendrojo naudojimo objektais sąlygų, tvarkos ir kainų. Už visas paslaugas ir naudojimąsi bendrojo naudojimo objektais ne bendrijos nariai atsiskaito pagal bendrijos pateiktas sąskaitas sutartyje nustatytomis sąlygomis ir tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 6. Sodininkai ir kiti asmenys mėgėjiško sodo teritorijoje privalo laikytis bendrijos nustatytų vidaus tvarkos taisyklių ir be bendrijos valdymo organo leidimo savavališkai nereguliuoti, nekeisti, neremontuoti mėgėjiško sodo teritorijos bendrosios inžinerinės įrangos, bendrųjų konstrukcijų, bendrojo naudojimo patalpų ir objektų.
 
@@ -131,11 +163,19 @@ SKLYPŲ TVARKYMAS BEI NAUDOJIMAS
 
 8 straipsnis. Sodo sklypo pagrindinės tikslinės žemės naudojimo paskirties keitimas ir sodo sklypo perleidimo sąlygos
 
-1. Žemės įstatymo nustatyta tvarka žemės ūkio pagrindinė tikslinė žemės naudojimo paskirtis mėgėjiško sodo teritorijoje ar jos dalyse keičiama, kai planuojama veikla neatitinka mėgėjiškos sodininkystės tikslų.
+1. Žemės įstatymo nustatyta tvarka žemės ūkio pagrindinė tikslinė žemės naudojimo paskirtis mėgėjiško sodo teritorijoje ar jos dalyse keičiama bendrojo naudojimo žemės sklypuose, kai planuojama sodininkų bendrijos veikla neatitinka mėgėjiškos sodininkystės tikslų ar kai sodininkų bendrija likviduojama.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 2. Mėgėjiško sodo teritorijos daliai, kurioje pakeista pagrindinė tikslinė žemės naudojimo paskirtis, nustatomas naujas jos naudojimo bei tvarkymo režimas pagal teritorijų planavimo dokumentus.
 
-3. Sodininkas, prieš perleisdamas savo sklypą ar jo dalį kitam asmeniui, privalo pranešti bendrijai jos įstatų nustatyta tvarka bei terminais ir gauti pažymą apie atsiskaitymą už prievoles bendrijai. Pažyma pateikiama notarui sudarant sodo sklypo pirkimo-pardavimo, dovanojimo ar kitą sodo sklypo perleidimo sutartį.
+3. Asmenys, įsigiję mėgėjiško sodo teritorijoje sodo sklypą, prieš perleisdami savo sklypą ar jo dalį kitam asmeniui, privalo pranešti bendrijai jos įstatų nustatyta tvarka bei terminais ir gauti pažymą apie atsiskaitymą už prievoles bendrijai. Pažyma pateikiama notarui sudarant sodo sklypo pirkimo–pardavimo, dovanojimo ar kitą sodo sklypo perleidimo sutartį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 TREČIASIS SKIRSNIS
 
@@ -215,7 +255,11 @@ BENDRIJOS STEIGIMAS
 
 3. Bendrijos vidaus tvarkos taisykles tvirtina bendrijos narių susirinkimas. Taisyklės skelbiamos viešai bendrijos įstatų nustatyta tvarka.
 
-4. Bendrijos vidaus tvarkos taisyklės yra privalomos visiems mėgėjiško sodo teritorijos sodininkams.
+4. Bendrijos vidaus tvarkos taisyklės yra privalomos visiems asmenims, įsigijusiems mėgėjiško sodo teritorijoje sodo sklypą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 13 straipsnis. Bendrijos registravimas
 
@@ -237,7 +281,11 @@ BENDRIJOS VALDYMAS
 
 2) vienasmenis – tik bendrijos pirmininkas arba kolegialus – bendrijos valdyba.
 
-2. Gali būti sudaroma revizijos komisija (renkamas revizorius).
+2. Bendrijos susirinkimas gali rinkti revizijos komisiją (revizorių).
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 3. Bendrija įgyja civilines teises, prisiima pareigas ir jas įgyvendina per savo valdymo organus.
 
@@ -285,39 +333,59 @@ BENDRIJOS VALDYMAS
 
 6. Balsavimas bendrijos narių susirinkime yra atviras. Slaptas balsavimas yra privalomas visiems nariams klausimais, dėl kurių nors vienas narys pageidauja slapto balsavimo ir tam pritaria ne mažiau kaip 1/10 susirinkime dalyvaujančių bendrijos narių.
 
-7. Bendrijos nariai dėl susirinkimuose svarstomų klausimų gali balsuoti iš anksto raštu bendrijos įstatų nustatyta tvarka.
+7. Bendrijos nariai dėl susirinkimuose svarstomų klausimų gali balsuoti iš anksto raštu bendrijos įstatų nustatyta tvarka. Raštu iš anksto balsavę nariai laikomi dalyvaujančiais narių susirinkime ir jų balsai įskaitomi į susirinkimo kvorumą bei balsavimo rezultatus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 16 straipsnis. Susirinkimų šaukimo ir organizavimo tvarka
 
-1. Bendrijos narių susirinkimo sušaukimo iniciatyvos teisę turi bendrijos valdymo organas bei 1/10 bendrijos narių.
+1. Bendrijos narių susirinkimo (eilinio ir neeilinio) šaukimo iniciatyvos teisę turi bendrijos valdymo organas, 1/10 bendrijos narių ir revizijos komisija (revizorius). Jeigu valdymo organas per mėnesį nuo reikalavimo sušaukti bendrijos narių susirinkimą pateikimo dienos susirinkimo nesušaukia, jį gali sušaukti revizijos komisija (revizorius) arba daugiau kaip 1/10 bendrijos narių.
 
 2. Bendrijos narių susirinkimas šaukiamas bendrijos valdymo organo sprendimu.
 
-3. Bendrijos narių susirinkimo šaukimo iniciatoriai valdymo organui pateikia paraišką. Joje turi būti nurodytos susirinkimo sušaukimo priežastys ir tikslai, pateikti pasiūlymai dėl susirinkimo darbotvarkės, vietos ir datos, siūlomų sprendimų projektai. Bendrijos narių susirinkimas turi įvykti ne vėliau kaip per vieną mėnesį nuo paraiškos gavimo dienos.
+3. Bendrijos narių susirinkimo šaukimo iniciatoriai valdymo organui pateikia paraišką. Joje turi būti nurodytos bendrijos narių susirinkimo sušaukimo priežastys ir tikslai, iniciatorių atstovas, pateikti pasiūlymai dėl susirinkimo darbotvarkės, vietos ir datos, siūlomų sprendimų projektai. Bendrijos narių susirinkimas turi įvykti ne vėliau kaip per vieną mėnesį nuo paraiškos gavimo dienos. Apie šaukiamą bendrijos narių susirinkimą jo organizatorius turi ne vėliau kaip prieš 14 dienų iki susirinkimo dienos paskelbti skelbimų lentoje arba kitose gerai matomose vietose mėgėjiško sodo teritorijoje, nurodyti susirinkimo organizavimo vietą ir laiką ir kartu paskelbti susirinkimo darbotvarkę bei siūlomų sprendimų projektus arba nurodyti vietą, kur ir kokiu laiku galima susipažinti su sprendimų projektais. Jeigu susirinkimo darbotvarkėje numatyta rinkti ar atšaukti valdymo organą, pakeisti bendrijos įstatus, svarstyti lėšų skolinimosi, bendrijos reorganizavimo, pertvarkymo ir likvidavimo klausimus, apie bendrijos narių susirinkimo šaukimą kiekvienam bendrijos nariui turi būti pranešama raštu arba pasirašytinai, arba vietos laikraštyje (jeigu toks yra) ir viename iš pagrindinių Lietuvos Respublikos dienraščių.
 
-4. Jei bendrijos valdymo organas nepriėmė sprendimo sušaukti bendrijos narių susirinkimą per 10 dienų nuo šio straipsnio 3 dalyje nurodytos paraiškos gavimo dienos, narių susirinkimas gali būti sušaukiamas 1/4 bendrijos narių sprendimu.
+4. Jeigu bendrijos valdymo organas nepriėmė sprendimo sušaukti bendrijos narių susirinkimą per mėnesį nuo šio straipsnio 3 dalyje nurodytos paraiškos gavimo dienos, narių susirinkimas gali būti sušaukiamas daugiau kaip 1/10 bendrijos narių sprendimu.
 
-5. Eilinis bendrijos narių susirinkimas turi būti šaukiamas kasmet ne vėliau kaip per 4 mėnesius po finansinių metų pabaigos.
+5. Eilinis bendrijos narių susirinkimas turi būti šaukiamas kasmet ne vėliau kaip per 3 mėnesius po finansinių metų pabaigos, o neeiliniai – prireikus. Kiekviename bendrijos narių susirinkime išrenkamas susirinkimo pirmininkas ir sekretorius.
 
-6. Neeiliniai narių susirinkimai šaukiami bendrijos valdymo organo iniciatyva arba ne mažiau kaip 1/10 bendrijos narių iniciatyva.
+6. Bendrijos valdymo organas pagal iniciatorių paraišką per nustatytą vieno mėnesio terminą neprivalo sušaukti bendrijos narių susirinkimo, jei nėra praėję 3 mėnesiai po finansinių metų pabaigos, jei iniciatorių siūlomi klausimai nepriskirti spręsti narių susirinkimo kompetencijai, nurodytai šio įstatymo 15 straipsnyje, jei paraiška paduota nesilaikant šio straipsnio 3 dalies reikalavimų. Šiais atvejais bendrijos valdymo organas atsisakymą sušaukti narių susirinkimą turi motyvuoti ir pranešti iniciatorių nurodytam atstovui.
 
-7. Bendrijos valdymo organas ar nariai, priėmę sprendimą sušaukti narių susirinkimą, turi ne vėliau kaip prieš dvi savaites iki susirinkimo dienos įstatų nustatyta tvarka pranešti bendrijos nariams apie narių susirinkimo sušaukimą ir nurodyti susirinkimo datą, vietą bei pateikti susirinkimo darbotvarkę. Jei susirinkimo darbotvarkėje numatyta pakeisti bendrijos įstatus, svarstyti lėšų skolinimosi, bendrijos reorganizavimo, pertvarkymo ir likvidavimo klausimus, apie bendrijos narių susirinkimo sušaukimą kiekvienam bendrijos nariui turi būti pranešama raštu.
+7. Bendrijos narių susirinkime bendrijos nariai dalyvauja patys ar per įgaliotą asmenį. Bendrijos narių susirinkime kiekvienas bendrijos narys turi po vieną balsą.
 
-8. Kiekvienas bendrijos narių susirinkimas turi išrinkti susirinkimo pirmininką ir sekretorių.
+8. Bendrijos nariai sprendimus gali priimti ir nesušaukę susirinkimo, bet jie turi raštu pareikšti nuomonę apie savo sprendimą bendrijos įstatų nustatyta tvarka.
 
-9. Bendrijos narių susirinkime teisėtai dalyvaujantys nariai registruojami pasirašytinai susirinkimo dalyvių sąraše. Narys, dalyvaujantis bendrijos narių susirinkime ir turintis teisę balsuoti, turi pateikti asmens tapatybę liudijantį dokumentą. Asmuo, nesantis bendrijos nariu, taip pat turi pateikti ir dokumentą, patvirtinantį jo teisę balsuoti narių susirinkime. Narių registravimo sąrašą pasirašo bendrijos narių susirinkimo pirmininkas ir sekretorius. Registravimo sąraše turi būti nurodyti nariai, jau balsavę raštu.
+9. Bendrijos narių susirinkime dalyvaujantys bendrijos nariai registruojami pasirašytinai susirinkimo dalyvių sąraše. Už bendrijos narį, atstovaujamą įgalioto asmens pagal šio straipsnio 7 ir 12 dalis, pasirašo įgaliotas asmuo. Susirinkimo dalyvių sąrašą pasirašo bendrijos narių susirinkimo pirmininkas ir sekretorius. Bendrijos nariai dėl susirinkimuose svarstomų klausimų gali iš anksto pareikšti savo nuomonę raštu bendrijos įstatų nustatyta tvarka. Susirinkimo dalyvių sąraše turi būti nurodyti nariai, iš anksto pareiškę nuomonę raštu.
 
-10. Bendrijos narių susirinkimas gali priimti sprendimus ir yra laikomas įvykusiu, kai jame dalyvauja ne mažiau kaip 1/2 bendrijos narių. Jeigu kvorumo nėra, narių susirinkimas laikomas neįvykusiu ir turi būti sušauktas pakartotinis narių susirinkimas, turintis teisę priimti sprendimus pagal neįvykusio susirinkimo darbotvarkę. Sprendimai pakartotiniame susirinkime priimami paprasta ar šio Įstatymo nustatytais atvejais – kvalifikuota pakartotiniame narių susirinkime dalyvavusių narių balsų dauguma.
+10. Bendrijos narių susirinkimas gali priimti sprendimus ir yra laikomas įvykusiu, kai jame dalyvauja daugiau kaip 1/2 bendrijos narių. Jeigu kvorumo nėra, bendrijos narių susirinkimas laikomas neįvykusiu ir ne anksčiau kaip po dviejų savaičių gali būti sušauktas pakartotinis bendrijos narių susirinkimas, turintis teisę priimti sprendimus pagal neįvykusio susirinkimo darbotvarkę. Šis susirinkimas yra teisėtas, kai jame dalyvauja daugiau kaip 1/4 bendrijos narių, jeigu bendrijos įstatuose nenumatyta kitaip. Į dalyvaujančių bendrijos susirinkime narių skaičių įskaičiuojami ir tie nariai, kurie iš anksto yra pareiškę savo nuomonę raštu.
 
-11. Bendrijos narių susirinkimai turi būti protokoluojami. Protokolas gali būti nerašomas, kai priimtus sprendimus bendrijos narių susirinkimo metu pasirašo visi bendrijos nariai.
+11. Bendrijos narių susirinkimo sprendimai yra teisėti, kai už juos balsuoja daugiau kaip 1/2 susirinkime dalyvaujančių bendrijos narių, išskyrus šio straipsnio 12 dalyje numatytus atvejus.
 
-12. Protokolą pasirašo bendrijos narių susirinkimo pirmininkas ir sekretorius. Kartu gali pasirašyti ir bendrijos narių susirinkimo įgalioti asmenys.
+12. Bendrijos narių susirinkimo sprendimai dėl bendrijos įstatų pakeitimo, dėl valdymo organo arba kolegialaus valdymo organo narių rinkimo ar atšaukimo, dėl lėšų skolinimosi, dėl bendrijos reorganizavimo, pertvarkymo ar likvidavimo yra teisėti, jei už juos balsuoja daugiau kaip 1/2 bendrijos narių.
 
-13. Protokolas turi būti surašytas ir pasirašytas ne vėliau kaip per 5 darbo dienas nuo bendrijos susirinkimo dienos. Prie bendrijos narių susirinkimo protokolo turi būti pridedama: bendrijos narių susirinkime dalyvavusių narių registracijos sąrašas; įgaliojimai ir kiti dokumentai, patvirtinantys asmenų teisę balsuoti; dokumentai, patvirtinantys, kad nariams buvo pranešta apie narių susirinkimo sušaukimą; pastabos dėl protokolo ir protokolą pasirašiusių asmenų išvada dėl šių pastabų.
+13. Balsavimas bendrijos narių susirinkime yra atviras. Slaptas balsavimas yra privalomas klausimais, dėl kurių nors vienas bendrijos narys ar jo įgaliotas asmuo pageidauja slapto balsavimo ir tam pritaria daugiau kaip 1/10 susirinkime dalyvaujančių bendrijos narių. Slaptas balsavimas organizuojamas ir vyksta bendrijos įstatų nustatyta tvarka.
+
+14. Bendrijos narių susirinkimai turi būti protokoluojami. Protokolą pasirašo susirinkimo pirmininkas ir sekretorius.
+
+15. Protokolas turi būti parengtas ir pasirašytas ne vėliau kaip per 5 darbo dienas nuo bendrijos narių susirinkimo dienos. Prie bendrijos narių susirinkimo protokolo turi būti pridedama: susirinkimo dalyvių sąrašas; įgaliojimai ir kiti dokumentai, patvirtinantys asmenų teisę balsuoti; dokumentai, patvirtinantys, kad nariams buvo pranešta apie narių susirinkimo sušaukimą. Prie protokolo taip pat pridedami dokumentai, patvirtinantys bendrijos narių išankstinį nuomonės pareiškimą raštu.
+
+16. Vienas įgaliotas asmuo gali atstovauti ne daugiau kaip 1/20 bendrijos narių. Balsavimo teisės perleidimo sutartyje bendrijos narys ir jo įgaliotas asmuo turi nustatyti balsavimo teisės įgyvendinimo tvarką ir būdus. Įgaliotas asmuo, dalyvaudamas bendrijos narių susirinkime, atstovauja bendrijos nariams, kurie yra jam perleidę savo balsavimo teisę ir patys nedalyvauja bendrijos narių susirinkime, ir turi atitinkamą jam perleistų balsų skaičių, kuriuos gali paskirstyti pagal balsavimo teisę perleidusių bendrijos narių nurodymus. Šiuo atveju laikoma, kad bendrijos narių susirinkime dalyvauja visi atstovaujami nariai. Balsavimo teisės perleidimo sutarties notaras netvirtina.
+
+17. Visi bendrijos narių susirinkimų priimti sprendimai registruojami ir skelbiami bendrijos įstatuose nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 17 straipsnis. Bendrijos valdymo organas
 
-1. Bendrijos valdymo organo narius iš bendrijos narių renka narių susirinkimas bendrijos įstatuose nustatytam, bet ne ilgesniam kaip 3 metų laikotarpiui. Valdymo organo narių kadencijų skaičius neribojamas.
+1. Bendrijos valdymo organo narius iš bendrijos narių renka bendrijų narių susirinkimas bendrijos įstatuose nustatytam, bet ne ilgesniam kaip 3 metų laikotarpiui. Vietoj atsistatydinusių ar atšauktų bendrijos valdybos narių kiekvienas valdybos narys renkamas tik iki veikiančios valdybos kadencijos pabaigos. Valdymo organų narių kadencijų skaičius neribojamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 2. Jeigu bendrijos valdymo organas yra bendrijos valdyba, jos narių skaičių nustato bendrijos įstatai. Valdybą turi sudaryti ne mažiau kaip trys nariai.
 
@@ -345,7 +413,11 @@ BENDRIJOS VALDYMAS
 
 6) šiame Įstatyme nurodytą informaciją viešai skelbia įstatuose nustatyta tvarka;
 
-7) teikia bendrijos nariams reikalingą informaciją;
+7) teikia bendrijos nariams reikalingą informaciją. Už bendrijos teikiamų dokumentų kopijas mokama bendrijos narių susirinkimo nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 8) atlieka kitas šio Įstatymo ir kitų įstatymų bei kitų teisės aktų, taip pat bendrijos įstatų nustatytas pareigas.
 
@@ -353,7 +425,11 @@ BENDRIJOS VALDYMAS
 
 4. Bendrijos valdymo organas turi užtikrinti, kad revizijos komisijai (revizoriui) ar auditoriui būtų pateikti visi sutartyje su audito įmone nurodytam patikrinimui reikalingi bendrijos dokumentai.
 
-5. Bendrijos valdymo organų narių, nevykdančių arba netinkamai vykdančių pareigas, atsakomybę nustato Civilinis kodeksas ir kiti įstatymai.
+5. Bendrijos valdymo organų narių, nevykdančių arba netinkamai vykdančių pareigas, atsakomybę nustato Civilinis kodeksas, šis ir kiti įstatymai. Bendrijos valdybos nariai privalo solidariai atlyginti bendrijai nuostolius, padarytus dėl valdybos sprendimų, priimtų pažeidžiant bendrijos įstatus, šį ir kitus įstatymus. Nuo pareigos atlyginti nuostolius atleidžiami tie valdybos nariai, kurie balsavo prieš tokį sprendimą arba nedalyvavo posėdyje jį priimant ir per 7 dienas po to, kai sužinojo ar turėjo sužinoti apie tokį sprendimą, įteikė posėdžio pirmininkui rašytinį protestą. Valdymo organo nario atsistatydinimas ar atšaukimas iš pareigų neatleidžia jo nuo dėl jo kaltės padarytų nuostolių atlyginimo. Valdymo organo narys gali būti atleidžiamas nuo nuostolių, kuriuos jis padarė eidamas savo pareigas, atlyginimo, jeigu jis rėmėsi bendrijos dokumentais ir kita informacija, kurių tikrumu nebuvo pagrindo abejoti, arba veikė neviršydamas normalios ūkinės rizikos. Ginčus dėl nuostolių atlyginimo sprendžia teismas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 19 straipsnis. Veiklos kontrolė
 
@@ -391,11 +467,19 @@ BENDRIJOS IR JOS NARIŲ TEISĖS IR PAREIGOS
 
 3) teikti paskolas, įkeisti savo turtą (išskyrus atvejus, kai turtas įkeičiamas savo prievolėms užtikrinti), garantuoti, laiduoti ar kitaip užtikrinti kitų asmenų prievolių įvykdymą;
 
-4) skolintis pinigų iš savo nario ar kito asmens mokant palūkanas;
+4) skolintis pinigų iš savo nario ar kito asmens, mokant palūkanas, išskyrus Lietuvos Respublikoje registruotas kredito įstaigas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 5) būti neribotos civilinės atsakomybės juridinio asmens steigėja.
 
-3. Bendrija turi teisę verstis įstatymų nedraudžiama ūkine komercine veikla, kuri neatsiejamai susijusi su bendrijos veiklos tikslais.
+3. Bendrija turi teisę verstis įstatymų nedraudžiama ir jos įstatuose numatyta ūkine komercine veikla, kuri neatsiejamai susijusi su bendrijos veiklos tikslais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 4. Bendrija gali turėti antspaudą.
 
@@ -405,7 +489,11 @@ BENDRIJOS IR JOS NARIŲ TEISĖS IR PAREIGOS
 
 2. Bendrijos nario teises ir pareigas sodininkas įgyja nuo įstojimo į bendriją dienos, išskyrus atvejus, kai sodininkai nariais tampa nuo bendrijos įregistravimo. Į bendriją įstojama ir iš jos išstojama bendrijos įstatų nustatyta tvarka.
 
-3. Bendrijos buveinėje turi būti sodininkų registravimo knyga, kurioje registruojami visi sodininkai. Joje turi būti nurodyta sodininko vardas ir pavardė, gyvenamoji vieta, sklypo valdymo teisės pagrindas, sodo sklypo plotas ir adresas. Registravimo knygoje gali būti nurodomi ir kiti duomenys, jei tai numatyta bendrijos įstatuose. Su šia registravimo knyga turi teisę susipažinti kiekvienas sodininkas.
+3. Bendrijos buveinėje turi būti asmenų, įsigijusių mėgėjiško sodo teritorijoje sodo sklypą, registravimo knyga, kurioje registruojami visi sodininkai ir juridiniai asmenys. Joje turi būti nurodyta sodininko vardas ir pavardė, gimimo data, gyvenamoji vieta, juridinio asmens pavadinimas, teisinė forma, kodas, buveinė (adresas), sklypo valdymo teisės pagrindas, sodo sklypo plotas ir adresas, sodininko įstojimo į bendrijos narius ir išstojimo iš bendrijos narių data. Registravimo knygoje gali būti nurodomi ir kiti duomenys, jei tai numatyta bendrijos įstatuose. Su šia registravimo knyga turi teisę susipažinti kiekvienas asmuo, įsigijęs sodo sklypą mėgėjiško sodo teritorijoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 4. Narystė bendrijoje pasibaigia nariui mirus, nariui netekus nuosavybės ar kitų teisių, kurių pagrindu jis valdė mėgėjiško sodo teritorijoje esantį sodo sklypą, nariui išstojus iš bendrijos ar bendrijai jį pašalinus iš bendrijos bei bendriją likvidavus.
 
@@ -527,11 +615,15 @@ Bendrija gali būti pertvarkoma į kitus viešuosius juridinius asmenis Civilini
 
 27 straipsnis. Bendrijos likvidavimas
 
-1. Bendrija likviduojama Civilinio kodekso nustatyta tvarka.
+1. Bendrija likviduojama Civilinio kodekso ir šio Įstatymo nustatyta tvarka.
 
 2. Jeigu bendrijoje liko mažiau kaip 3 nariai, per 30 dienų apie tokį narių sumažėjimą bendrija privalo pranešti juridinių asmenų registrui Juridinių asmenų registro nuostatų nustatyta tvarka.
 
-3. Likviduojamos bendrijos kreditorių reikalavimai tenkinami įstatymų nustatyta tvarka. Patenkinus visus kreditorių reikalavimus likęs bendrijos turtas perduodamas kitiems viešiesiems juridiniams asmenims, kuriuos nurodo bendrijos narių susirinkimas ar teismas, priėmęs sprendimą likviduoti bendriją.
+3. Likviduojamos bendrijos kreditorių reikalavimai tenkinami įstatymų nustatyta tvarka. Patenkinus visus kreditorių ir bendrijos narių reikalavimus (neviršijančius jų įnašų į turtą), likęs bendrijos turtas iki išregistravimo iš juridinių asmenų registro perduodamas kitiems viešiesiems juridiniams asmenims, kuriuos nurodo bendrijos narių susirinkimas ar teismas, priėmęs sprendimą likviduoti bendriją.
+
+Straipsnio pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 AŠTUNTASIS SKIRSNIS
 
@@ -539,19 +631,23 @@ BAIGIAMOSIOS NUOSTATOS
 
 28 straipsnis. Valstybės institucijų ir savivaldybių santykiai su bendrijomis ir sodininkais
 
-1. Valstybės institucijos ir savivaldybės vykdo viešąjį bendrijų teritorijų administravimą, statinių statybos kontrolę bei viešosios tvarkos priežiūrą; turėdamos tikslą plėtoti ir puoselėti mėgėjišką sodininkystę bei jos tradicijas, gali remti bendrijas, jų susivienijimus ar draugijas, siekiančius tinkamai prižiūrėti ir tvarkyti mėgėjiškus sodus ir jų kraštovaizdį, saugoti gamtą ir auginti žemės ūkio produkciją bei tvarkyti ir prižiūrėti bendrojo naudojimo objektus. Valstybės ir savivaldybių rėmimo būdus ir sąlygas nustato kiti teisės aktai bei specialiosios programos.
+1. Valstybės institucijos ir savivaldybės vykdo viešąjį bendrijų teritorijų administravimą, statinių statybos kontrolę ir viešosios tvarkos priežiūrą, turėdamos tikslą plėtoti ir puoselėti mėgėjišką sodininkystę bei jos tradicijas, žmonių poilsį, gali remti bendrijas, jų susivienijimus ar draugijas, siekiančius tinkamai prižiūrėti ir tvarkyti mėgėjiškus sodus ir jų kraštovaizdį, saugoti gamtą, auginti žemės ūkio produkciją, tvarkyti ir prižiūrėti bendrojo naudojimo objektus. Valstybės ir savivaldybių rėmimo būdus ir sąlygas taip pat nustato kiti teisės aktai bei specialiosios programos.
 
-2. Įstatymų bei kitų teisės aktų nustatyta tvarka valstybė ir savivaldybės gali remti bendrijas visiškai ar iš dalies padengdamos išlaidas mėgėjiško sodo bendrojo naudojimo objektų (kelių, vandens tiekimo, nuotekų šalinimo bei valymo ir kitų) statybai, priežiūrai ir atnaujinimui.
+2. Įstatymų ir kitų teisės aktų nustatyta tvarka valstybė ir savivaldybės gali remti bendrijas visiškai ar iš dalies apmokėdamos išlaidas mėgėjiško sodo bendrojo naudojimo objektams (elektros tinklų, kelių, gatvių, vandens tiekimo, nuotekų šalinimo bei valymo ir kitų) statyti, prižiūrėti ir atnaujinti.
 
 3. Savivaldybės bendrijas gali remti šiais būdais:
 
-1) įstatymų bei kitų teisės aktų nustatyta tvarka bendrijas ir jų narius atleisdamos nuo žemės ir kitų mokesčių;
+1) įstatymų ir kitų teisės aktų nustatyta tvarka bendrijas ir jų narius atleisdamos nuo žemės ir kitų mokesčių;
 
-2) rengdamos ir įgyvendindamos specialiąsias bendrijų rėmimo programas;
+2) rengdamos, įgyvendindamos ir finansuodamos specialiąsias bendrijų rėmimo programas;
 
-3) teikdamos nemokamas konsultacijas bendrijų steigimo, veiklos pasibaigimo ir pertvarkymo, mėgėjiškos sodininkystės veiklos, teritorijų planavimo, žemės naudojimo ir kraštovaizdžio tvarkymo klausimais.
+3) teikdamos nemokamas konsultacijas bendrijų steigimo, veiklos pasibaigimo ir pertvarkymo, mėgėjiškos sodininkystės veiklos, paramos gavimo, teritorijų planavimo, žemės naudojimo ir kraštovaizdžio tvarkymo klausimais.
 
-4. Bendrijoms remti savivaldybėse gali būti sudaroma specialioji programa. Jos sudarymo ir lėšų naudojimo tvarką nustato savivaldybės institucijos.
+4. Bendrijoms remti savivaldybėje gali būti sudaroma specialioji programa. Jos sudarymo ir lėšų naudojimo tvarką nustato savivaldybės institucijos, atsižvelgdamos į sodininkų bendrijų pageidavimus.
+
+Straipsnio pakeitimai:
+
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 29 straipsnis. Ginčų sprendimas
 
@@ -579,47 +675,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
 
-221 straipsnis. Kitų asmenų teisės ir pareigos
+Pakeitimai:
 
-1. Kitų asmenų teises ir pareigas nustato šis ir kiti įstatymai, taip pat bendrijos vidaus tvarkos taisyklės.
+1.
 
-2. Kiti asmenys turi vienodas pareigas, susijusias su bendrosios dalinės nuosavybės teise valdomų bendrojo naudojimo objektų naudojimu ir priežiūra, kaip ir bendrijos nariai.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Kiti asmenys turi šias teises:
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
-1) be balsavimo teisės dalyvauti bendrijos narių susirinkime;
-
-2) įstoti į bendriją;
-
-3) gauti informaciją apie bendrijos narių susirinkimo nustatytas įmokas, kurias jie privalo sumokėti pagal šį ir kitus įstatymus, ar kitus bendrijos narių susirinkimo priimtus sprendimus, susijusius su bendrojo naudojimo objektų valdymu ir priežiūra;
-
-4) kartu su šeimos nariais naudotis bendrijos bendrojo naudojimo objektais pagal jų funkcinę paskirtį, nepažeisdami kitų mėgėjų sodo teritorijos sodininkų, jų šeimos narių teisių bei teisėtų interesų ir aplinkos apsaugos reikalavimų;
-
-5) teikti siūlymus dėl bendrosios nuosavybės objektų, kurių bendraturčiais yra, valdymo ar būklės pagerinimo, pritarti ar argumentuotai nepritarti bendrijos valdymo organų siūlymams dėl lėšų, skiriamų bendrojo naudojimo objektų, bendrojo naudojimo žemės priežiūros organizavimui, eksploatavimui ar modernizavimui, dydžio ir poreikio. Gauti raštu bendrijos pirmininko motyvuotus atsakymus dėl savo siūlymų;
-
-6) laiduojamą teisę nedalyvauti bendrijos projektuose įsigyjant naujus bendrosios dalinės nuosavybės objektus;
-
-7) turi teisę apskųsti bendrijos valdymo organų sprendimus.
-
-4. Kiti asmenys turi šias pareigas:
-
-1) laikytis bendrijos įstatų, vykdyti bendrijos narių susirinkimo, bendrijos valdymo organo sprendimus;
-
-2) tinkamai naudoti ir prižiūrėti nuosavybės ar kitos teisės pagrindu valdomą sodo sklypą, nedaryti žalos kaimyninių sklypų naudotojams ir aplinkai, imtis priemonių prieš augalų kenkėjus, augalų ligas, invazines rūšis ir augalų plitimą į kaimyninius sklypus. Kiti asmenys, kurie negali patys atlikti šiame punkte nustatytų pareigų, privalo užtikrinti, kad tai padarytų įgalioti asmenys;
-
-3) pagal bendrijos pateiktas sąskaitas apmokėti už proporcingai jiems tenkančias bendrojo naudojimo objektų eksploatacijos, bendrojo naudojimo žemės tvarkymo, bendrojo naudojimo objektų priežiūros organizavimo išlaidas bei proporcingai jiems tenkančias įnašų dalis, susijusias su bendrosios dalinės nuosavybės objektų mėgėjų sodo teritorijoje atnaujinimu, pagerinimu ar sukūrimu (jeigu kiti asmenys dalyvauja sukuriant naują objektą), kitas suteiktas paslaugas;
-
-4) tausoti bendrijos turtą ir bendrojo naudojimo objektus, laikytis bendrijos vidaus tvarkos taisyklių, užtikrinti, kad šių taisyklių laikytųsi jų šeimos nariai ar kiti teisėti jų turto naudotojai;
-
-5) informuoti sodo bendriją apie savo sodo sklypo ar jo dalies nuosavybės teisių perėjimą tretiesiems asmenims;
-
-6) perleisdami nuosavybės teise jiems priklausantį sodo sklypą, atsiskaityti su bendrija pagal visas savo prievoles.
-
-Papildyta straipsniu:
-
-Nr. XIII-2647, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20988
-
-ŠEŠTASIS SKIRSNIS
-
-BENDRIJOS TURTAS IR PAJAMOS
+Lietuvos Respublikos sodininkų bendrijų įstatymo 2, 6, 7, 8, 12, 14, 15, 16, 17, 18, 20, 21, 27, 28 straipsnių pakeitimo ir papildymo įstatymas
 
