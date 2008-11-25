@@ -4,7 +4,7 @@ identifier: "TAR.94DB985EB965"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-01"
-last_updated: "2008-06-21"
+last_updated: "2008-11-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2008-06-21 iki 2008-11-24
+Suvestinė redakcija nuo 2008-11-25 iki 2010-01-04
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
 
@@ -651,6 +651,14 @@ Nr. X-1586, 2008-06-05, Žin., 2008, Nr. 71-2712 (2008-06-21), i. k. 1081010ISTA
 
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2 straipsnio pakeitimo įstatymas
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1804, 2008-11-11, Žin., 2008, Nr. 135-5240 (2008-11-25), i. k. 1081010ISTA00X-1804
+
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 3-1 straipsnio pakeitimo įstatymas
+
 31 straipsnis. Žemės ūkio kooperatinė bendrovė (kooperatyvas)
 
 1. Žemės ūkio kooperatinė bendrovė (kooperatyvas) – kooperatinė bendrovė (kooperatyvas), kuri nustatyta tvarka pripažinta žemės ūkio kooperatine bendrove (kooperatyvu). Teisę būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu) turi įstatymų ir kitų teisės aktų nustatyta tvarka įregistruota kooperatinė bendrovė (kooperatyvas), jei ji atitinka vieną iš šių pripažinimo kriterijų:
@@ -681,7 +689,11 @@ Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2 straips
 
 4. Kooperatinės bendrovės (kooperatyvo) pripažinimas žemės ūkio kooperatine bendrove (kooperatyvu) gali būti panaikintas, jeigu kooperatinė bendrovė (kooperatyvas) pateikė klaidingus arba suklastotus duomenis.
 
-5. Kooperatines bendroves (kooperatyvus) žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pripažįsta Vyriausybės įgaliota institucija pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro teikime pateiktą išvadą dėl pripažinimo ir įgalioja valstybės įmonę Žemės ūkio informacijos ir kaimo verslo centrą išduoti pažymėjimą. Teritorinė valstybinė mokesčių inspekcija ir Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro prašymu teikia šio straipsnio 3 dalies 2 punkte nurodytą informaciją. Pripažinimas suteikiamas ir pažymėjimas išduodamas dvejiems kalendoriniams metams. Už šio pažymėjimo išdavimą imama nustatyto dydžio valstybės rinkliava. Pasibaigus pripažinimo galiojimui, kooperatinė bendrovė (kooperatyvas) iš naujo gali siekti būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu).
+5. Kooperatines bendroves (kooperatyvus) žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pripažįsta Vyriausybės įgaliota institucija pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro teikime pateiktą išvadą dėl pripažinimo ir įgalioja valstybės įmonę Žemės ūkio informacijos ir kaimo verslo centrą išduoti pažymėjimą. Teritorinė valstybinė mokesčių inspekcija ir Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro prašymu teikia šio straipsnio 3 dalies 2 punkte nurodytą informaciją. Pripažinimas suteikiamas ir pažymėjimas išduodamas dvejiems kalendoriniams metams. Pasibaigus pripažinimo galiojimui, kooperatinė bendrovė (kooperatyvas) iš naujo gali siekti būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu).
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1804, 2008-11-11, Žin., 2008, Nr. 135-5240 (2008-11-25), i. k. 1081010ISTA00X-1804
 
 6. Kooperatinių bendrovių (kooperatyvų) pripažinimo žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) tvarką nustato Vyriausybės įgaliota institucija.
 
