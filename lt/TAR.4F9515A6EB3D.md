@@ -4,7 +4,7 @@ identifier: "TAR.4F9515A6EB3D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-12-23"
-last_updated: "2007-12-29"
+last_updated: "2008-11-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 2007-12-29 iki 2008-11-24
+Suvestinė redakcija nuo 2008-11-25 iki 2008-12-29
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
 
@@ -71,7 +71,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010ISTA00IX-642
 
-8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2009 m. sausio 1 d.;
+8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2010 m. sausio 1 d.;
 
 Straipsnio punkto pakeitimai:
 
@@ -86,6 +86,8 @@ Nr. X-445, 2005-12-13, Žin., 2005, Nr. 149-5421 (2005-12-22), i. k. 1051010ISTA
 Nr. X-984, 2006-12-14, Žin., 2006, Nr. 141-5406 (2006-12-28), i. k. 1061010ISTA000X-984
 
 Nr. X-1383, 2007-12-18, Žin., 2007, Nr. 138-5645 (2007-12-29), i. k. 1071010ISTA00X-1383
+
+Nr. X-1812, 2008-11-13, Žin., 2008, Nr. 135-5243 (2008-11-25), i. k. 1081010ISTA00X-1812
 
 9) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d. (Žin., 1989, Nr. 33-445), su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.;
 
@@ -252,6 +254,14 @@ Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m.
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. X-1383, 2007-12-18, Žin., 2007, Nr. 138-5645 (2007-12-29), i. k. 1071010ISTA00X-1383
+
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1812, 2008-11-13, Žin., 2008, Nr. 135-5243 (2008-11-25), i. k. 1081010ISTA00X-1812
 
 Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
