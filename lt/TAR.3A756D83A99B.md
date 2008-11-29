@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2007-07-12"
+last_updated: "2008-11-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -35,9 +35,9 @@ BIUDŽETINIŲ
 
 ĮSTATYMAS
 
-1995 m. gruodžio
+1995 m. gruodžio 5 d.
 
-5 d. Nr. I-1113
+Nr. I-1113
 
 Vilnius
 
@@ -237,9 +237,11 @@ laikantis Finansų ministerijos nustatytų finansavimo taisyklių ir iždo
 
 procedūrų.
 
-8
+8 straipsnio redakcija iki tų metų, kurių ataskaitų
 
-straipsnio redakcija iki 2009 m. sausio 1 d.:
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 8
 
@@ -267,11 +269,11 @@ išlaidų sąmatų bei nebiudžetinių lėšų sąmatų sudarymą. Jie turi užt
 
 biudžetinės įstaigos laiku išmokėtų darbuotojams apskaičiuotus atlyginimus,
 
-laiku atsiskaitytų su biudžetu ir valstybinio socialinio draudimo fondo
+laiku atsiskaitytų su biudžetu ir valstybinio socialinio draudimo fondo administravimo
 
-administravimo įstaigomis, taip pat už įstaigose sunaudotą visų rūšių energiją
+įstaigomis, taip pat už įstaigose sunaudotą visų rūšių energiją ir kitas
 
-ir kitas paslaugas.
+paslaugas.
 
 Valstybės biudžeto
 
@@ -309,9 +311,11 @@ vadovai, pažeidę biudžetų asignavimų paskirstymo ir naudojimo tvarką, atsa
 
 pagal Lietuvos Respublikos įstatymus.
 
-8
+8 straipsnio redakcija nuo tų metų, kurių ataskaitų
 
-straipsnio redakcija nuo 2009 m. sausio 1 d.:
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 8
 
@@ -407,13 +411,19 @@ X-1216,
 
 2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
 
+Nr. X-1824,
+
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
+
 9
 
 straipsnis. Biudžetinių įstaigų išlaidos
 
-1
+1 dalies redakcija iki tų metų, kurių ataskaitų
 
-dalies redakcija iki 2009 m. sausio 1 d.:
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 Išlaidų sandarą nustato
 
@@ -421,15 +431,17 @@ asignavimų valdytojai, neviršydami jiems patvirtintų bendrųjų asignavimų, 
 
 jų - darbo užmokesčio, paprastųjų ir nepaprastųjų išlaidų.
 
-1
+1 dalies redakcija nuo tų metų, kurių ataskaitų
 
-dalies redakcija nuo 2009 m. sausio 1 d.:
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 Išlaidų sandarą
 
-nustato asignavimų valdytojai, neviršydami jiems patvirtintų bendrųjų asignavimų,
+nustato asignavimų valdytojai, neviršydami jiems patvirtintų bendrųjų
 
-tarp jų – išlaidoms, iš jų – darbo užmokesčiui ir turtui įsigyti.
+asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui ir turtui įsigyti.
 
 Biudžetinių įstaigų
 
@@ -447,9 +459,15 @@ X-1216,
 
 2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
 
-10
+Nr. X-1824,
 
-straipsnio redakcija iki 2009 m. sausio 1 d.:
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
+
+10 straipsnio redakcija iki tų metų, kurių ataskaitų
+
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 10
 
@@ -461,9 +479,11 @@ buhalterinę apskaitą organizuoja ir atskaitomybę tvarko Finansų ministerijos
 
 nustatyta tvarka.
 
-10
+10 straipsnio redakcija nuo tų metų, kurių ataskaitų
 
-straipsnio redakcija nuo 2009 m. sausio 1 d.:
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 1 straipsnis. Įstatymo
 
@@ -815,9 +835,15 @@ X-1216,
 
 2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
 
-11
+Nr. X-1824,
 
-straipsnio redakcija iki 2009 m. sausio 1 d.:
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
+
+11 straipsnio redakcija iki tų metų, kurių ataskaitų rinkinius
+
+viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus
+
+atskaitomybės įstatymą, sausio 1 dieną:
 
 11
 
@@ -835,9 +861,11 @@ nustato Lietuvos Respublikos Vyriausybė, o įstaigoms, finansuojamoms iš
 
 savivaldybių biudžetų, - savivaldybių vykdomosios institucijos.
 
-11
+11 straipsnio redakcija nuo nuo tų metų, kurių ataskaitų
 
-straipsnio redakcija nuo 2009 m. sausio 1 d.:
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 11 straipsnis. Biudžetinių įstaigų piniginės lėšos,
 
@@ -862,6 +890,10 @@ Nr.
 X-1216,
 
 2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
+
+Nr. X-1824,
+
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
 
 12
 
@@ -891,9 +923,9 @@ straipsnis. Biudžetinių įstaigų registravimas
 
 Biudžetinės įstaigos
 
-įregistruojamos, perregistruojamos ir išregistruojamos Lietuvos Respublikos
+įregistruojamos, perregistruojamos ir išregistruojamos Lietuvos Respublikos įstatymų
 
-įstatymų nustatyta tvarka.
+nustatyta tvarka.
 
 14
 
@@ -1015,15 +1047,33 @@ BIUDŽETINIŲ
 
 Šis
 
-įstatymas įsigalioja nuo 2009 m. sausio 1 d.
+įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai
+
+privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1
+
+dieną.
+
+Šio įstatymo įsigaliojimas keistas:
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-1824,
+
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
+
+BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8,
+
+9, 10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2007-07-13)
+Aušrinė Trapinskienė (2008-12-01)
 
 autrap@lrs.lt
 
