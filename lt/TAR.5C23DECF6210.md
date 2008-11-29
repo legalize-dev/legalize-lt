@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2007-07-12"
+last_updated: "2008-11-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -226,7 +226,39 @@ grąžinti visą skolą arba jos dalį ir už grąžinamą skolą ar jos dalį a
 
 palūkanas garantuoja valstybė.
 
-13. Finansinė priemonė – kiekvienas sandoris, kuris sąlygoja vienos sandorio šalies finansinio turto sukūrimą, o kitos sandorio šalies – finansinio įsipareigojimo sukūrimą.14. Kiti įsipareigojamieji skolos dokumentai – tai skolinantis prisiimtas įsipareigojimas (neapimantis įsipareigojimų, prisiimtų išplatinus Vyriausybės vertybinius popierius, pasirašius paskolų sutartis, lizingo (finansinės nuomos) sutartis, suteikus valstybės garantijas) grąžinti dokumentuose nurodytą pinigų sumą šiuose dokumentuose sutartomis (nustatytomis) sąlygomis (komerciniai popieriai, paprastieji ir įsakomieji vekseliai, depozitų sertifikatai ir pan.).15. Valstybės vardu pasiskolintos lėšos – Vyriausybei atstovaujančios Lietuvos Respublikos finansų ministerijos (toliau – Finansų ministerija) Vyriausybės nustatyta tvarka pasiskolintos lėšos, gautos išplatinus Vyriausybės vertybinius popierius, pasirašius paskolų sutartis ir kitus įsipareigojamuosius skolos dokumentus.
+13.
+
+Finansinė priemonė – kiekvienas sandoris, kuris sąlygoja vienos sandorio
+
+šalies finansinio turto sukūrimą, o kitos sandorio šalies – finansinio
+
+įsipareigojimo sukūrimą.
+
+14.
+
+Kiti įsipareigojamieji skolos dokumentai – tai skolinantis prisiimtas
+
+įsipareigojimas (neapimantis įsipareigojimų, prisiimtų išplatinus Vyriausybės
+
+vertybinius popierius, pasirašius paskolų sutartis, lizingo (finansinės nuomos)
+
+sutartis, suteikus valstybės garantijas) grąžinti dokumentuose nurodytą pinigų
+
+sumą šiuose dokumentuose sutartomis (nustatytomis) sąlygomis (komerciniai
+
+popieriai, paprastieji ir įsakomieji vekseliai, depozitų sertifikatai ir pan.).
+
+15.
+
+Valstybės vardu pasiskolintos lėšos – Vyriausybei atstovaujančios Lietuvos
+
+Respublikos finansų ministerijos (toliau – Finansų ministerija) Vyriausybės
+
+nustatyta tvarka pasiskolintos lėšos, gautos išplatinus Vyriausybės vertybinius
+
+popierius, pasirašius paskolų sutartis ir kitus įsipareigojamuosius skolos
+
+dokumentus.
 
 3 straipsnis.
 
@@ -306,13 +338,21 @@ papildomais įnašais, gali įsigyti šių skolininkų akcijų už emisijos kain
 
 įskaitydama jų įsiskolinimus valstybei;
 
-5) vykdo kitas teisės aktų nustatytas valstybės, kaip kreditoriaus, teises, pagal paskolų iš valstybės vardu pasiskolintų lėšų sutartis ir pagal kitus įsipareigojamuosius skolos dokumentus.
+5) vykdo
+
+kitas teisės aktų nustatytas valstybės, kaip kreditoriaus, teises, pagal
+
+paskolų iš valstybės vardu pasiskolintų lėšų sutartis ir pagal kitus
+
+įsipareigojamuosius skolos dokumentus.
 
 5. Finansų ministerija:
 
-1 punkto
+1 punkto redakcija iki tų metų, kurių ataskaitų
 
-redakcija iki 2009 m. sausio 1 d.:
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 1)
 
@@ -324,19 +364,21 @@ Vyriausybės vertybinius popierius, pasirašius paskolų sutartis ir kitus
 
 rengia atskaitomybę;
 
-1 punkto
+1 punkto redakcija nuo tų metų, kurių ataskaitų
 
-redakcija nuo 2009 m. sausio 1 d.:
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 1) tvarko
 
 valstybės vardu pasiskolintų lėšų ir prisiimtų įsipareigojimų, išplatinus
 
-Vyriausybės vertybinius popierius, pasirašius paskolų sutartis ir kitus įsipareigojamuosius
+Vyriausybės vertybinius popierius, pasirašius paskolų sutartis ir kitus
 
-skolos dokumentus, apskaitą ir rengia finansinių ir biudžeto vykdymo ataskaitų
+įsipareigojamuosius skolos dokumentus, apskaitą ir rengia finansinių ir
 
-rinkinius;
+biudžeto vykdymo ataskaitų rinkinius;
 
 2) sistemina,
 
@@ -358,9 +400,9 @@ susijusių bei kitų įsipareigojamųjų skolos dokumentų originalus;
 
 įsipareigojimų, prisiimtų išplatinus Vyriausybės vertybinius popierius, pagal
 
-valstybės vardu gautų paskolų sutartis ir kitus įsipareigojamuosius skolos
+valstybės vardu gautų paskolų sutartis ir kitus įsipareigojamuosius skolos dokumentus,
 
-dokumentus, likučius;
+likučius;
 
 6) naudoja finansines priemones (tarp jų ir išvestines) Vyriausybės
 
@@ -408,9 +450,9 @@ peržiūrėti paskolos arba skolos grąžinimo sąlygas ir pasirašyti su skolin
 
 arba skolininku, už kurio įsipareigojimų įvykdymą garantuoja valstybė, paskolos
 
-sąlygų pakeitimo sutartį arba skolos grąžinimo sutartį, jeigu ekonominiu
+sąlygų pakeitimo sutartį arba skolos grąžinimo sutartį, jeigu ekonominiu požiūriu
 
-požiūriu inicijuoti
+inicijuoti
 
 bankroto bylos iškėlimą arba skolos išieškojimą Lietuvos Respublikos civilinio
 
@@ -418,11 +460,11 @@ proceso kodekso nustatyta tvarka yra netikslinga.
 
 7. Visiems iš šio įstatymo
 
-reglamentuojamų santykių atsirandantiems Vyriausybės prisiimtiems turtiniams įsipareigojimams
+reglamentuojamų santykių atsirandantiems Vyriausybės prisiimtiems turtiniams
 
-vykdyti naudojami visi galimi valstybės finansiniai ištekliai, tarp jų ir nauji
+įsipareigojimams vykdyti naudojami visi galimi valstybės finansiniai ištekliai,
 
-valstybės turtiniai įsipareigojimai.
+tarp jų ir nauji valstybės turtiniai įsipareigojimai.
 
 8. Esamas ir būsimas valstybės turtas
 
@@ -515,6 +557,12 @@ Nr.
 X-1217,
 
 2007-06-26, Žin., 2007, Nr. 77-3049 (2007-07-12)
+
+Nr.
+
+X-1825,
+
+2008-11-14, Žin., 2008, Nr. 137-5374 (2008-11-29)
 
 4 straipsnis. Vyriausybės skolinimosi
 
@@ -658,9 +706,9 @@ Vyriausybės siūlymu priima Seimas.
 
 litų paskolos priima Vyriausybė, vadovaudamasi atitinkamų metų Lietuvos
 
-Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių
+Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 
-rodiklių patvirtinimo įstatymu arba kitais įstatymais.
+patvirtinimo įstatymu arba kitais įstatymais.
 
 3. Valstybės
 
@@ -1078,7 +1126,9 @@ institucijos garantijas Vyriausybės nustatyta tvarka pasirašo garantijų
 
 institucijos vadovas. Vyriausybės įsteigtų garantijų institucijų
 
-įsipareigojimai kredito įstaigoms pagal garantijas prilyginami valstybės garantijai.
+įsipareigojimai kredito įstaigoms pagal garantijas prilyginami valstybės
+
+garantijai.
 
 4. Garantijų
 
@@ -1086,17 +1136,17 @@ institucija, įgyvendindama valstybės vykdomas programas, Vyriausybės nustatyt
 
 tvarka nagrinėja Lietuvos Respublikos juridinių asmenų, Lietuvos Respublikoje
 
-įsteigtų Europos Sąjungos ar Europos ekonominės erdvės valstybių narių juridinių
+įsteigtų Europos Sąjungos ar Europos ekonominės erdvės valstybių narių
 
-asmenų filialų ar Lietuvos Respublikos piliečių ar nuolatinių Lietuvos
+juridinių asmenų filialų ar Lietuvos Respublikos piliečių ar nuolatinių
 
-gyventojų prašymus užtikrinti kredito įstaigoms, kurios teikia jiems paskolas,
+Lietuvos gyventojų prašymus užtikrinti kredito įstaigoms, kurios teikia jiems
 
-paskolų grąžinimą, tvarko suteiktų garantijų apskaitą, kontroliuoja, kaip yra
+paskolas, paskolų grąžinimą, tvarko suteiktų garantijų apskaitą, kontroliuoja,
 
-įgyvendinami pateikti verslo planai, ir taiko poveikio priemones garantijų
+kaip yra įgyvendinami pateikti verslo planai, ir taiko poveikio priemones
 
-sąlygų nevykdantiems skolininkams.
+garantijų sąlygų nevykdantiems skolininkams.
 
 5. Garantijų
 
@@ -1104,9 +1154,13 @@ institucijos veiklos priežiūrą atlieka ir šios institucijos atskaitomybę
 
 nustato Vyriausybės įgaliota institucija.
 
-6 dalies
+6 dalies redakcija
 
-redakcija iki 2009 m. sausio 1 d.:
+iki tų metų, kurių
+
+ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 6. Garantijų
 
@@ -1116,7 +1170,11 @@ pateikti Vyriausybei metinę finansinę atskaitomybę kartu su audito išvada.
 
 6 dalies
 
-redakcija nuo 2009 m. sausio 1 d.:
+redakcija nuo tų metų,
+
+kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal
+
+Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 6. Garantijų institucija ne vėliau kaip per 4 mėnesius nuo finansinių
 
@@ -1137,6 +1195,12 @@ Nr.
 X-1217,
 
 2007-06-26, Žin., 2007, Nr. 77-3049 (2007-07-12)
+
+Nr.
+
+X-1825, 2008-11-14,
+
+Žin., 2008, Nr. 137-5374 (2008-11-29)
 
 9 straipsnis.
 
@@ -1164,17 +1228,17 @@ paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, metinės
 
 paskola, auditoriaus išvadą, kito laikotarpio auditoriaus išvadą šios
 
-ministerijos arba akcinės bendrovės Turto banko pareikalavimu, taip pat informaciją
+ministerijos arba akcinės bendrovės Turto banko pareikalavimu, taip pat
 
-apie esamas ir atidaromas naujas sąskaitas kredito įstaigose, kredito įstaigų
+informaciją apie esamas ir atidaromas naujas sąskaitas kredito įstaigose,
 
-sąskaitų ir kitų rekvizitų, nurodytų sutartyse, pasikeitimus.
+kredito įstaigų sąskaitų ir kitų rekvizitų, nurodytų sutartyse, pasikeitimus.
 
 3. Audito paslaugos apmokamos iš
 
-skolininko arba skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė,
+skolininko arba skolininko, už kurio įsipareigojimų įvykdymą garantuoja
 
-lėšų.
+valstybė, lėšų.
 
 4. Teisės aktų nustatyta tvarka
 
@@ -1442,23 +1506,27 @@ tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
 12 straipsnio
 
-redakcija iki 2009 m. sausio 1 d.:
+redakcija iki tų metų,
+
+kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal
+
+Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 12
 
 straipsnis. Atskaitomybė
 
-1. Vyriausybė, pasibaigus biudžetiniams metams, kartu su valstybės biudžeto
+1. Vyriausybė, pasibaigus biudžetiniams metams, kartu su valstybės
 
-įvykdymo apyskaita privalo pateikti Seimui valstybės skolos bei suteiktų
+biudžeto įvykdymo apyskaita privalo pateikti Seimui valstybės skolos bei
 
-paskolų iš valstybės vardu pasiskolintų lėšų ir suteiktų valstybės garantijų
+suteiktų paskolų iš valstybės vardu pasiskolintų lėšų ir suteiktų valstybės
 
-ataskaitas. Ataskaitų formas, atitinkančias šio įstatymo ir Valstybės biudžeto
+garantijų ataskaitas. Ataskaitų formas, atitinkančias šio įstatymo ir Valstybės
 
-ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo nuostatas,
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
 
-nustato finansų ministras.
+nuostatas, nustato finansų ministras.
 
 2. Valstybės kontrolė įvertina
 
@@ -1474,7 +1542,11 @@ suteiktų valstybės garantijų.
 
 12 straipsnio
 
-redakcija nuo 2009 m. sausio 1 d.:
+redakcija nuo tų metų,
+
+kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal
+
+Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 11 straipsnis. Atskaitomybė
 
@@ -1534,6 +1606,12 @@ X-1217,
 
 2007-06-26, Žin., 2007, Nr. 77-3049 (2007-07-12)
 
+Nr.
+
+X-1825,
+
+2008-11-14, Žin., 2008, Nr. 137-5374 (2008-11-29)
+
 Skelbiu šį Lietuvos Respublikos
 
 Seimo priimtą įstatymą.
@@ -1566,9 +1644,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-501,
+VIII-501, 97.11.11,
 
-97.11.11, Žin., 1997, Nr.107-2689 (97.11.26)
+Žin., 1997, Nr.107-2689 (97.11.26)
 
 LIETUVOS
 
@@ -1690,27 +1768,43 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr.
-
-X-1217,
+Nr. X-1217,
 
 2007-06-26, Žin., 2007, Nr. 77-3049 (2007-07-12)
 
-VALSTYBĖS
+VALSTYBĖS SKOLOS ĮSTATYMO 3, 8,
 
-SKOLOS ĮSTATYMO 3, 8, 12 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+12 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-Šis
+Šis įstatymas įsigalioja tų metų, kurių ataskaitų
 
-įstatymas įsigalioja nuo 2009 m. sausio 1 d.
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
+
+Šio įstatymo įsigaliojimas
+
+pakeistas:
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-1825,
+
+2008-11-14, Žin., 2008, Nr. 137-5374 (2008-11-29)
+
+VALSTYBĖS SKOLOS ĮSTATYMO
+
+3, 8, 12 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2007-07-13)
+Aušrinė Trapinskienė (2008-12-02)
 
 autrap@lrs.lt
 
