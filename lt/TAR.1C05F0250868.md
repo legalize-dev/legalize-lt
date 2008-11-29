@@ -4,7 +4,7 @@ identifier: "TAR.1C05F0250868"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-12"
-last_updated: "2008-07-12"
+last_updated: "2008-11-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1C05F0250868"
 department: "Lietuvos Respublikos Seimas"
@@ -566,9 +566,9 @@ Garantinio fondo perdavimo įmonei (savivaldybės įstaigai, juridiniam asmeniui
 
 teikiančiam įmonių bankroto administravimo paslaugas) sutartį.
 
-8. Garantinio fondo
+8. Garantinio
 
-tarybos sprendimai gali būti skundžiami įstatymų nustatyta tvarka.
+fondo tarybos sprendimai gali būti skundžiami įstatymų nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -592,7 +592,11 @@ straipsnis. Garantinio fondo finansinė kontrolė
 
 finansinę veiklą kontroliuoja Valstybės kontrolė.
 
-2 dalies redakcija iki 2009 m. sausio 1 d.:
+2 dalies redakcija iki tų metų, kurių
+
+ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 2. Garantinio
 
@@ -604,25 +608,43 @@ finansiniams metams skelbia „Valstybės žinių“ priede „Informaciniai pra
 
 metinę finansinę atskaitomybę kartu su auditoriaus išvada.
 
-2 dalies redakcija nuo 2009 m. sausio 1 d.:
+2 dalies redakcija nuo tų metų, kurių
 
-2. Metinių
+ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
 
-Garantinio fondo ataskaitų rinkiniai, nustatyti Viešojo sektoriaus
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
-atskaitomybės įstatyme ir kituose teisės aktuose, kasmet turi būti tikrinami
+2. Metinė
 
-auditoriaus ar audito įmonės. Garantinio fondo taryba ne vėliau kaip per 3
+Garantinio fondo lėšų sąmatos vykdymo ataskaita ir Viešojo sektoriaus atskaitomybės
 
-mėnesius pasibaigus finansiniams metams „Valstybės žinių“ priede „Informaciniai
+įstatyme nustatytas finansinių ataskaitų rinkinys kasmet turi būti tikrinami
 
-pranešimai“ skelbia metinių ataskaitų rinkinį kartu su auditoriaus išvada.
+audito įmonės. Audito įmonė atlieka Garantinio fondo lėšų sąmatos vykdymo
+
+ataskaitos patikrinimą, pateikdama išvadą apie Garantinio fondo lėšų sąmatos
+
+vykdymo ataskaitos patikrinimą, ir Garantinio fondo finansinių ataskaitų
+
+auditą, parengdama auditoriaus išvadą. Garantinio fondo taryba ne vėliau kaip
+
+per 3 mėnesius pasibaigus finansiniams metams „Valstybės žinių“ priede
+
+„Informaciniai pranešimai“ skelbia Garantinio fondo lėšų sąmatos vykdymo
+
+ataskaitą kartu su išvada apie Garantinio fondo lėšų sąmatos vykdymo ataskaitos
+
+patikrinimą.
 
 Straipsnio pakeitimai:
 
 Nr. X-1222,
 
 2007-06-26, Žin., 2007, Nr. 77-3054 (2007-07-12)
+
+Nr. X-1831,
+
+2008-11-14, Žin., 2008, Nr. 137-5380 (2008-11-29)
 
 TREČIASIS SKIRSNIS
 
@@ -728,9 +750,9 @@ Garantinio fondo
 
 administratoriaus pagrindinės funkcijos:
 
-1) vykdyti
+1) vykdyti Garantinio
 
-Garantinio fondo tarybos ir jos pirmininko pavedimus;
+fondo tarybos ir jos pirmininko pavedimus;
 
 2) priimti
 
@@ -740,29 +762,29 @@ straipsnyje nurodytų darbuotojų išmokoms, šias paraiškas nagrinėti ir pare
 
 Fondo tarybos posėdžiams;
 
-3) Garantinio
+3) Garantinio fondo
 
-fondo tarybai priėmus nutarimą skirti lėšų išmokoms bankrutuojančių ar
+tarybai priėmus nutarimą skirti lėšų išmokoms bankrutuojančių ar bankrutavusių,
 
-bankrutavusių, taip pat buvusiems likviduotų dėl bankroto įmonių darbuotojams, sudaryti
+taip pat buvusiems likviduotų dėl bankroto įmonių darbuotojams, sudaryti lėšų
 
-lėšų iš Garantinio fondo perdavimo įmonei ar savivaldybės tarybos įgaliotai
+iš Garantinio fondo perdavimo įmonei ar savivaldybės tarybos įgaliotai įstaigai
 
-įstaigai arba jos pavedimu juridiniam asmeniui, teikiančiam įmonių bankroto
+arba jos pavedimu juridiniam asmeniui, teikiančiam įmonių bankroto
 
 administravimo paslaugas ir parengusiam paraišką dėl lėšų skyrimo, sutartį;
 
-4) pagal kompetenciją,
+4) pagal
 
-nustatytą Garantinio fondo nuostatuose, atstovauti Garantiniam fondui valstybės
+kompetenciją, nustatytą Garantinio fondo nuostatuose, atstovauti Garantiniam
 
-ir savivaldybių institucijose, teismuose bei kitose įstaigose, įmonėse ir
+fondui valstybės ir savivaldybių institucijose, teismuose bei kitose įstaigose,
 
-organizacijose visais su jo veikla susijusiais klausimais. Garantinio fondo
+įmonėse ir organizacijose visais su jo veikla susijusiais klausimais.
 
-interesams gali atstovauti ir kitos Lietuvos Respublikos Vyriausybės įgaliotos
+Garantinio fondo interesams gali atstovauti ir kitos Lietuvos Respublikos
 
-institucijos;
+Vyriausybės įgaliotos institucijos;
 
 5) rengti
 
@@ -816,7 +838,7 @@ straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 įsigalioja nuo 2000 m. spalio 1 d.
 
-*2. Įstatymo
+2. Įstatymo
 
 nuostatos netaikomos įmonėms, dėl kurių teismas, nagrinėjantis bankroto bylą,
 
@@ -830,39 +852,35 @@ pradėtas iki šio įstatymo įsigaliojimo dienos ir buvo tęsiamas įstatymui
 
 įsigaliojus, netaikomi šio įstatymo 5 straipsnio 1 dalies 2 ir 5 punktai.
 
-Buvusiems šių įmonių darbuotojams, kuriems iš Garantinio fondo lėšų buvo skirtos
+Buvusiems šių įmonių darbuotojams, kuriems iš Garantinio fondo lėšų buvo
 
-išmokos tik darbo užmokesčio ir žalos atlyginimo dėl nelaimingų atsitikimų
+skirtos išmokos tik darbo užmokesčio ir žalos atlyginimo dėl nelaimingų
 
-darbe ar susirgimų profesine liga įsiskolinimui sumokėti arba, jei šių
+atsitikimų darbe ar susirgimų profesine liga įsiskolinimui sumokėti arba, jei
 
-įsiskolinimų nėra, išmokos iš viso nebuvo skirtos, skiriama išeitinė išmoka,
+šių įsiskolinimų nėra, išmokos iš viso nebuvo skirtos, skiriama išeitinė
 
-numatyta šio įstatymo 5 straipsnio 1 dalies 3 punkte. Kai bankrutuojančios ar
+išmoka, numatyta šio įstatymo 5 straipsnio 1 dalies 3 punkte. Kai
 
-bankrutavusios įmonės darbuotojams bankroto proceso metu jau buvo sumokėta tam
+bankrutuojančios ar bankrutavusios įmonės darbuotojams bankroto proceso metu
 
-tikra įmonės įsiskolinimo dalis iš Fondo bankrutuojančių ir bankrutavusių
+jau buvo sumokėta tam tikra įmonės įsiskolinimo dalis iš Fondo bankrutuojančių
 
-įmonių darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti
+ir bankrutavusių įmonių darbuotojų reikalavimams, susijusiems su darbo
 
-skirtų finansinės paramos lėšų, šio įstatymo 5 straipsnio 1 dalies 1 punkte
+santykiais, tenkinti skirtų finansinės paramos lėšų, šio įstatymo 5 straipsnio
 
-nurodytos išmokos jiems turi būti sumažinamos sumokėta suma. Kai darbuotojams
+1 dalies 1 punkte nurodytos išmokos jiems turi būti sumažinamos sumokėta suma.
 
-skirtos išmokos, numatytos šio įstatymo 5 straipsnio 1 dalies 1 punkte, pagal
+Kai darbuotojams skirtos išmokos, numatytos šio įstatymo 5 straipsnio 1 dalies
 
-galiojusias šios dalies nuostatas buvo sumažintos bankroto proceso metu iš
+1 punkte, pagal galiojusias šios dalies nuostatas buvo sumažintos bankroto
 
-įmonės lėšų sumokėta darbo užmokesčio dalimi, jiems skiriamos papildomos
+proceso metu iš įmonės lėšų sumokėta darbo užmokesčio dalimi, jiems skiriamos
 
-išmokos, kurių kiekvienos dydis yra lygus sumai, kuria buvo sumažinta anksčiau
+papildomos išmokos, kurių kiekvienos dydis yra lygus sumai, kuria buvo
 
-skirta išmoka.
-
-*Pastaba. 2 dalyje nurodytos išeitinės
-
-išmokos iš Garantinio fondo pradedamos mokėti nuo 2008 m. liepos 1 d.
+sumažinta anksčiau skirta išmoka.
 
 3.
 
@@ -1188,7 +1206,27 @@ GARANTINIO
 
 FONDO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-Šis įstatymas įsigalioja nuo 2009 m. sausio 1 d.
+Šis įstatymas įsigalioja tų metų, kurių
+
+ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
+
+Pakeitimas:
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-1831,
+
+2008-11-14, Žin., 2008, Nr. 137-5380 (2008-11-29)
+
+GARANTINIO FONDO ĮSTATYMO 7
+
+STRAIPSNIO PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija
 
 10.
 
@@ -1198,9 +1236,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1636,
+X-1636, 2008-06-26,
 
-2008-06-26, Žin., 2008, Nr. 79-3100 (2008-07-12)
+Žin., 2008, Nr. 79-3100 (2008-07-12)
 
 GARANTINIO
 
@@ -1226,9 +1264,9 @@ buvo mokamas darbo užmokesčio įsiskolinimas iš Garantinio fondo.
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-07-14)
+Aušrinė Trapinskienė (2008-12-02)
 
 autrap@lrs.lt
 
