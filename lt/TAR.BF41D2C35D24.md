@@ -4,7 +4,7 @@ identifier: "TAR.BF41D2C35D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-11"
-last_updated: "2002-10-23"
+last_updated: "2008-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2002-10-23 iki 2008-11-30
+Suvestinė redakcija nuo 2008-12-01 iki 2011-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
 
@@ -60,7 +60,11 @@ BENDROSIOS NUOSTATOS
 
 10. Kelio savininkas – valstybė, savivaldybės, juridinis ar fizinis asmuo, kuriam kelias priklauso nuosavybės teise.
 
-11. Kelio statiniai – visa tai, kas sukurta tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbais, naudojant statybos medžiagas, gaminius, dirbinius, produktus, ir yra tvirtai sujungta su žeme.
+11. Kelio statiniai – visa tai, kas sukurta projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbais, naudojant statybos medžiagas, gaminius, dirbinius, produktus, ir yra tvirtai sujungta su žeme (tiltai, viadukai, estakados, pralaidos ir kita).
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
 
 12. Kelio taisymas (remontas) – statybos rūšis, kurios tikslas iš dalies arba visiškai atkurti statybos techninių reglamentų nustatytas kelio ar kitų jo statinių savybes, pablogėjusias dėl statinio naudojimo, arba jas pagerinti.
 
@@ -254,13 +258,35 @@ po 10 metrų.
 
 13 straipsnis. Darbų vykdymas keliuose ir jų apsaugos zonose
 
-1. Keliuose, kelių juostose ir jų apsaugos zonose dirbti įvairius darbus be kelio savininko leidimo draudžiama. Techninės eismo reguliavimo priemonės įrengiamos suderinus su policija.
+1. Keliuose, kelių juostose ir jų apsaugos zonose dirbti įvairius darbus be kelio savininko leidimo draudžiama. Technines eismo reguliavimo priemones suderinusios su policija įrengia kelius prižiūrinčios įmonės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
 
 2. Kelių apsaugos zonose leidžiama statyti statinius ar įrenginius laikantis Statybos įstatymo, atsižvelgiant į kelių plėtros perspektyvą bei saugaus eismo reikalavimus, pagal normatyvinių statybos techninių dokumentų nustatytą tvarką ir suderintus projektus. Kelių apsaugos zonose rudens, žiemos ir pavasario laikotarpiais leidžiama statyti laikinus sniegą sulaikančius įrenginius.
 
-3. Kelių apsaugos zonose draudžiama statyti gyvenamuosius namus ir visuomeninius pastatus, kurie nesusiję su transporto ir keleivių aptarnavimu. Draudžiama įrengti išorinę reklamą automobilių keliuose ir jų apsaugos zonose, taip pat gatvėse ir prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, kelio ženklus, pabloginti matomumą, akinti eismo dalyvius, atitraukti jų dėmesį tuo keldama pavojų eismo dalyviams, taip pat draudžiama naudoti reklamą, imituojančią kelio ženklus. Išorinė reklama, įrengta pažeidžiant šiuos reikalavimus, turi būti nuimta, nugriauta ar išmontuota Statybos įstatymo ir kitų teisės aktų nustatyta tvarka. Kelių apsaugos zonose draudžiama statyti paminklinius akcentus-simbolius, įrengti karjerus, vandens telkinius, sandėliuoti medžiagas be kelio ir žemės savininko leidimo.
+3. Kelių apsaugos zonose draudžiama:
 
-4. Kelio apsaugos zonose esančius antžeminius ar požeminius inžinerinius tinklus prižiūri jų savininkai. Šie tinklai tiesiami ir rekonstruojami pagal patvirtintus projektus. Darbams atlikti būtina gauti kelio ir žemės valdytojo ar jos savininko leidimą.
+1) statyti gyvenamuosius namus, visuomeninius ir kitus pastatus, kurie nesusiję su transporto priemonių ir keleivių aptarnavimu;
+
+2) statyti paminklinius akcentus-simbolius, įrengti karjerus, vandens telkinius, sandėliuoti medžiagas be kelio ir žemės savininko (valdytojo) leidimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
+
+4. Draudžiama įrengti išorinę reklamą keliuose, virš kelių, kelių juostose ir jų apsaugos zonose, išskyrus stendus, eismo dalyvius informuojančius apie kelio būklę. Išorinę reklamą įrengti draudžiama gatvėse ir prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, pabloginti matomumą, akinti eismo dalyvius, kelti pavojų eismo dalyviams. Taip pat draudžiama naudoti reklamą, imituojančią kelio ženklus ir (arba) naudojančią kelio ženklų simboliką.
+
+Papildyta straipsnio dalimi:
+
+Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
+
+5. Kelio apsaugos zonose esančius antžeminius ar požeminius inžinerinius tinklus prižiūri jų savininkai. Šie tinklai tiesiami ir rekonstruojami pagal patvirtintus projektus. Darbams atlikti būtina gauti kelio ir žemės valdytojo ar jos savininko leidimą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
 
 14 straipsnis. Kelių pripažinimas tinkamais naudoti
 
@@ -302,7 +328,11 @@ NAUDOJIMASIS KELIAIS
 
 1. Saugaus eismo keliais reikalavimus reglamentuoja Saugaus eismo automobilių keliais įstatymas ir kiti teisės aktai.
 
-2. Saugaus eismo priemonės įgyvendinamos projektuojant, tiesiant, taisant (remontuojant) ir prižiūrint kelius vadovaujantis Lietuvos kelių projektavimo normatyviniais dokumentais, Lietuvos Respublikos standartais ir kitais normatyviniais statybos techniniais dokumentais.
+2. Saugaus eismo priemonės įgyvendinamos projektuojant, tiesiant, statant, rekonstruojant, taisant (remontuojant) ir prižiūrint kelius vadovaujantis Lietuvos kelių projektavimo normatyviniais dokumentais, Lietuvos Respublikos standartais ir kitais normatyviniais statybos techniniais dokumentais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
 
 20 straipsnis.       Naudojimasis valstybinės, vietinės reikšmės keliais ir jų infrastruktūra didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis
 
@@ -322,9 +352,17 @@ Už kelių priežiūrą atsakingi asmenys turi teisę:
 
 3) kartu su policija šalinti kelyje paliktas ir saugiam eismui kliudančias transporto priemones arba krovinius jų savininkų ar valdytojų lėšomis;
 
-4) Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka šalinti kelio juostoje medžius ir krūmus, savavališkai įrengtą išorinę reklamą, kuri kelia grėsmę saugiam eismui;
+4) Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka šalinti kelio juostoje medžius ir krūmus;
 
-5) įstatymų ir kitų teisės aktų nustatyta tvarka šalinti savavališkai pastatytus objektus, nurodytus šio Įstatymo 13 straipsnio 3 dalyje, kelyje ar kelio juostoje savavališkai įrengtas sankryžas, nuovažas, technines eismo reguliavimo priemones ir kita tai įrengusių asmenų lėšomis, jei po rašytinio įspėjimo to jie nepadaro patys.
+Straipsnio punkto pakeitimai:
+
+Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
+
+5) įstatymų ir kitų teisės aktų nustatyta tvarka šalinti savavališkai pastatytus objektus (pastatus, sankryžas, nuovažas, technines eismo reguliavimo priemones, išorinę reklamą ir kita) kelyje, virš kelio, kelio juostoje ar kelio apsaugos zonoje – objekto savininko ar objektą įrengusių asmenų lėšomis, neatlyginant nuostolių, jeigu po rašytinio įspėjimo per mėnesį to jie nepadaro patys.
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
 
 PENKTASIS SKIRSNIS
 
@@ -371,6 +409,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1113, 2002-10-03, Žin., 2002, Nr. 101-4492 (2002-10-23), i. k. 1021010ISTA0IX-1113
 
 Lietuvos Respublikos kelių įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
+
+Lietuvos Respublikos kelių įstatymo 2, 13, 19, 21 straipsnių pakeitimo ir papildymo įstatymas
 
 25 straipsnis.
 
