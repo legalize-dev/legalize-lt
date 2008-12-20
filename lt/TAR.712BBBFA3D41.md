@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2008-11-29"
+last_updated: "2008-12-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -948,66 +948,6 @@ X-406,
 
 2005-11-17, Žin., 2005, Nr. 144-5237 (2005-12-10)
 
-20
-
-straipsnis. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
-
-svarstymas
-
-ir tvirtinimas Seime
-
-1. Seimas svarsto Valstybės biudžeto ir savivaldybių biudžetų finansinių
-
-rodiklių patvirtinimo įstatymo projektą atsižvelgdamas į Seimo komitetų
-
-pasiūlymus bei išvadas ir papildomus pranešimus Seimo statute nustatyta tvarka.
-
-2. Seimas valstybės biudžetą ir savivaldybių biudžetų finansinius
-
-rodiklius vieniems biudžetiniams metams tvirtina įstatymu ne vėliau kaip prieš
-
-14 kalendorinių dienų iki biudžetinių metų pradžios. Jeigu Valstybės biudžeto
-
-ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektas
-
-laiku nepatvirtinamas, tai biudžetas vykdomas šio Įstatymo 29 straipsnyje
-
-nustatyta tvarka.
-
-3. Valstybės biudžetas tvirtinamas pagal rodiklius, nurodytus šio
-
-Įstatymo 18 straipsnio 2 dalyje.
-
-4. Atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų
-
-finansinių rodiklių įstatyme gali būti tvirtinami ir kiti šio Įstatymo 18
-
-straipsnio 2 dalyje nenurodyti rodikliai.
-
-5. Atitinkamų
-
-metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
-
-patvirtinimo įstatyme gali būti nustatyti valstybės biudžeto mėnesinių
-
-asignavimų dydžių apribojimai (išskyrus programų asignavimų dalį, kurią sudaro
-
-Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos
-
-finansinės paramos lėšos).
-
-Straipsnio
-
-pakeitimai:
-
-Nr. X-1354,
-
-2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
-
-TREČIASIS SKIRSNIS
-
-SAVIVALDYBIŲ BIUDŽETAI
-
 17 straipsnis.
 
 Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių projektų
@@ -1158,11 +1098,11 @@ X-406,
 
 2005-11-17, Žin., 2005, Nr. 144-5237 (2005-12-10)
 
-20 straipsnis.
+20 straipsnis. Valstybės biudžeto ir
 
-Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių svarstymas
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto
 
-ir tvirtinimas Seime
+svarstymas ir priėmimas Seime ir įstatymo įsigaliojimas
 
 1. Seimas svarsto Valstybės biudžeto ir savivaldybių biudžetų finansinių
 
@@ -1170,17 +1110,19 @@ rodiklių patvirtinimo įstatymo projektą atsižvelgdamas į Seimo komitetų
 
 pasiūlymus bei išvadas ir papildomus pranešimus Seimo statute nustatyta tvarka.
 
-2. Seimas valstybės biudžetą ir savivaldybių biudžetų finansinius
+2. Valstybės
 
-rodiklius vieniems biudžetiniams metams tvirtina įstatymu ne vėliau kaip prieš
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
-14 kalendorinių dienų iki biudžetinių metų pradžios. Jeigu Valstybės biudžeto
+įsigalioja ne vėliau kaip iki biudžetinių metų pradžios. Jeigu Valstybės
 
-ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektas
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
-laiku nepatvirtinamas, tai biudžetas vykdomas šio Įstatymo 29 straipsnyje
+laiku neįsigalioja, biudžetas vykdomas šio Įstatymo 29 straipsnyje nustatyta
 
-nustatyta tvarka.
+tvarka.
+
+2 dalis galioja iki 2009 m. vasario 28 d.
 
 3. Valstybės biudžetas tvirtinamas pagal rodiklius, nurodytus šio
 
@@ -1192,13 +1134,31 @@ finansinių rodiklių įstatyme gali būti tvirtinami ir kiti šio Įstatymo 18
 
 straipsnio 2 dalyje nenurodyti rodikliai.
 
-5. Atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų
+5. Atitinkamų
 
-finansinių rodiklių patvirtinimo įstatyme gali būti nustatyti valstybės
+metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 
-biudžeto mėnesinių asignavimų dydžių apribojimai (išskyrus Europos Sąjungos
+patvirtinimo įstatyme gali būti nustatyti valstybės biudžeto mėnesinių
 
-finansinės paramos ir bendrojo finansavimo programas).
+asignavimų dydžių apribojimai (išskyrus programų asignavimų dalį, kurią sudaro
+
+Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos
+
+finansinės paramos lėšos).
+
+Straipsnio
+
+pakeitimai:
+
+Nr. X-1354,
+
+2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
+
+Nr.
+
+XI-67,
+
+2008-12-16, Žin., 2008, Nr. 146-5867 (2008-12-20)
 
 TREČIASIS SKIRSNIS
 
@@ -1214,9 +1174,9 @@ sukaupiamos lėšos, reikalingos įstatymų priskirtoms funkcijoms ir savivaldyb
 
 2. Kiekviena savivaldybė turi savarankišką biudžetą.
 
-3. Savivaldybių biudžetai
+3. Savivaldybių
 
-tvirtinami be biudžeto deficito.
+biudžetai tvirtinami be biudžeto deficito.
 
 Straipsnio
 
@@ -1290,13 +1250,13 @@ biudžetų rengimas ir tvirtinimas
 
 institucijos, remdamosi šiuo Įstatymu, kitais įstatymais, Seimo patvirtintais
 
-savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis
+savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis biudžetų
 
-biudžetų sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis,
+sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis,
 
-socialinėmis ir ekonominėmis programomis, taip pat savivaldybių biudžetų asignavimų
+socialinėmis ir ekonominėmis programomis, taip pat savivaldybių biudžetų
 
-valdytojų programomis ir jų sąmatų projektais.
+asignavimų valdytojų programomis ir jų sąmatų projektais.
 
 2. Savivaldybių vykdomosios institucijos parengtus biudžetų projektus
 
@@ -1614,7 +1574,9 @@ institucijos teisės
 
 1. Vyriausybė arba jos įgaliota institucija turi teisę:
 
-1) Seimo patvirtintus valstybės biudžeto asignavimus paskirstyti pagal programas;
+1) Seimo patvirtintus valstybės biudžeto asignavimus paskirstyti pagal
+
+programas;
 
 2) vadovaudamasi
 
@@ -1626,9 +1588,9 @@ programų ir projektų vykdymo duomenis, perskirstyti Europos Sąjungos finansin
 
 paramos programoms ir projektams numatytas lėšas, įskaitant ir bendrojo
 
-finansavimo lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės
+finansavimo lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės funkcijų
 
-funkcijų ir ekonominės klasifikacijos straipsnių;
+ir ekonominės klasifikacijos straipsnių;
 
 3) programų asignavimų
 
@@ -1674,11 +1636,11 @@ teikiamas savivaldybėms iš valstybės biudžeto;
 
 susijusiems su dalyvavimu nenumatytose tarptautinėse operacijose.
 
-2. Vyriausybei arba jos įgaliotai institucijai biudžetinių metų
+2. Vyriausybei arba jos įgaliotai institucijai biudžetinių metų Valstybės
 
-Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu
 
-įstatymu gali būti suteikiamos papildomos teisės.
+gali būti suteikiamos papildomos teisės.
 
 Straipsnio
 
@@ -1734,9 +1696,9 @@ finansavimo bei kitos gaunamos finansinės paramos lėšos, sumas.
 
 2. Valstybės biudžeto įvykdymo ataskaitą rengia Finansų ministerija,
 
-remdamasi valstybės biudžeto buhalterinės apskaitos duomenimis – į valstybės biudžetą gautų pajamų ir valstybės
+remdamasi valstybės biudžeto buhalterinės apskaitos duomenimis – į valstybės biudžetą gautų pajamų ir valstybės biudžeto
 
-biudžeto asignavimų valdytojų pateiktomis biudžeto programų sąmatų įvykdymo
+asignavimų valdytojų pateiktomis biudžeto programų sąmatų įvykdymo
 
 ataskaitomis.
 
