@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2008-11-15"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -3239,7 +3239,7 @@ nepriemokai padengti.
 
 1 dalies
 
-redakcija iki 2009 m. sausio 1 d.
+redakcija iki 2011 m. sausio 1 d.
 
 1. Mokestis ir (arba) su juo susijusios sumos sumokamos per kredito
 
@@ -3251,7 +3251,7 @@ administratoriaus pareigūną, turintį įgaliojimą priimti grynuosius pinigus.
 
 1 dalies
 
-redakcija nuo 2009 m. sausio 1 d.
+redakcija nuo 2011 m. sausio 1 d.
 
 1. Mokestis ir (arba) su juo susijusios sumos sumokamos per kredito
 
@@ -3301,19 +3301,25 @@ X-1297,
 
 2007-10-18, Žin., 2007, Nr. 114-4629 (2007-11-08)
 
+Nr. XI-99, 2008-12-22,
+
+Žin., 2008, Nr. 149-6023 (2008-12-30)
+
 84 straipsnis. Mokesčių mokėtojo sumokėtų sumų
 
 įskaitymas
 
-1. Mokesčių mokėtojo sumokėtos sumos įskaitomos
+1. Mokesčių mokėtojo sumokėtos sumos
 
-pagal mokėjimo nurodyme mokesčių mokėtojo nurodytą įmokos kodą. Sumokėtų sumų
+įskaitomos pagal mokėjimo nurodyme mokesčių mokėtojo nurodytą įmokos kodą.
 
-kodavimo tvarką nustato Vyriausybė arba jos įgaliota institucija. Jei mokesčių
+Sumokėtų sumų kodavimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
-mokėtojas konkrečiai nenurodo, už ką turi būti įskaityta jo sumokėtoji suma, ji
+Jei mokesčių mokėtojas konkrečiai nenurodo, už ką turi būti įskaityta jo
 
-įskaitoma centrinio mokesčių administratoriaus nustatyta tvarka.
+sumokėtoji suma, ji įskaitoma centrinio mokesčių administratoriaus nustatyta
+
+tvarka.
 
 2. Dėl muitinės administruojamų mokesčių
 
@@ -3323,9 +3329,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1249, 2007-07-03,
+Nr. X-1249,
 
-Žin., 2007, Nr. 80-3220 (2007-07-19)
+2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 85
 
@@ -3401,17 +3407,17 @@ mokėtojo permokėtos mokesčių sumos, kurios lieka permokos sumas įskaičius
 
 mokestinei nepriemokai padengti, grąžinamos mokesčių mokėtojo prašymu. Tuo
 
-atveju, kai mokesčių mokėtojas turi laiku negrąžintų skolų valstybei pagal paskolas
+atveju, kai mokesčių mokėtojas turi laiku negrąžintų skolų valstybei pagal
 
-iš valstybės vardu pasiskolintų lėšų ar pagal paskolas, dėl kurių kreditoriams
+paskolas iš valstybės vardu pasiskolintų lėšų ar pagal paskolas, dėl kurių
 
-suteikta valstybės garantija, permokėtos mokesčių sumos, kurios lieka iš šių
+kreditoriams suteikta valstybės garantija, permokėtos mokesčių sumos, kurios
 
-sumų padengus mokestinę nepriemoką, naudojamos minėtoms skoloms dengti finansų
+lieka iš šių sumų padengus mokestinę nepriemoką, naudojamos minėtoms skoloms
 
-ministro nustatyta tvarka. Padengus šias skolas likusios sumos grąžinamos
+dengti finansų ministro nustatyta tvarka. Padengus šias skolas likusios sumos
 
-mokesčių mokėtojo prašymu.
+grąžinamos mokesčių mokėtojo prašymu.
 
 6. Mokesčių
 
@@ -3433,11 +3439,11 @@ patikrinimas, šis patikrinimas turi būti pradėtas per 20 dienų nuo šio
 
 straipsnio 7 dalies 1 punkte nustatytų terminų pabaigos dienos.
 
-7. Jei atitinkamo
+7. Jei
 
-mokesčio įstatyme nenustatyta kitaip, mokesčių administratorius privalo
+atitinkamo mokesčio įstatyme nenustatyta kitaip, mokesčių administratorius
 
-grąžinti mokesčių mokėtojui mokesčio permoką tokia tvarka:
+privalo grąžinti mokesčių mokėtojui mokesčio permoką tokia tvarka:
 
 1) mokesčio
 
@@ -3469,17 +3475,17 @@ atvejais, kai dėl mokesčio permokos grąžinimo atliekamas mokesčių mokėtoj
 
 mokestinis patikrinimas arba su mokesčio permokos grąžinimu susiję klausimai
 
-yra sudedamoji mokesčių administratoriaus atliekamo to mokesčių mokėtojo
+yra sudedamoji mokesčių administratoriaus atliekamo to mokesčių mokėtojo patikrinimo
 
-patikrinimo dalis, mokesčio permoka turi būti grąžinta ne vėliau kaip per 20
+dalis, mokesčio permoka turi būti grąžinta ne vėliau kaip per 20 dienų po
 
-dienų po mokesčių administratoriaus sprendimo, pagal kurį mokesčių mokėtojui
+mokesčių administratoriaus sprendimo, pagal kurį mokesčių mokėtojui naujai
 
-naujai apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo
+apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo susijusios
 
-susijusios sumos (jei pažeidimų nenustatyta, – pažymos apie tai), įteikimo
+sumos (jei pažeidimų nenustatyta, – pažymos apie tai), įteikimo mokesčių
 
-mokesčių mokėtojui dienos.
+mokėtojui dienos.
 
 8. Mokesčio
 
@@ -3569,7 +3575,9 @@ jos neprieštarauja Bendrijos muitų teisės aktams.
 
 15. Mokesčio permoka (skirtumas), kuri negali būti grąžinta (įskaityta)
 
-šio straipsnio 13 dalyje nurodytu pagrindu, nurašoma iš biudžeto apskaitos dokumentų.
+šio straipsnio 13 dalyje nurodytu pagrindu, nurašoma iš biudžeto apskaitos
+
+dokumentų.
 
 Straipsnio
 
@@ -3683,11 +3691,11 @@ taikomos tiek, kiek jos neprieštarauja Bendrijos muitų teisės aktams.
 
 1. Mokesčių
 
-mokėtojui, laiku nevykdančiam savo mokestinės prievolės, mokesčių administratorius
+mokėtojui, laiku nevykdančiam savo mokestinės prievolės, mokesčių
 
-įteikia raginimą geruoju sumokėti mokestį ir su juo susijusias sumas vienu iš
+administratorius įteikia raginimą geruoju sumokėti mokestį ir su juo susijusias
 
-šių atvejų:
+sumas vienu iš šių atvejų:
 
 1) įsiteisėja
 
@@ -3731,9 +3739,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1249,
+Nr. X-1249, 2007-07-03,
 
-2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
+Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 90 straipsnis.
 
@@ -3751,9 +3759,9 @@ juridinio asmens turto nepakanka mokestinei nepriemokai padengti, likusi dalis
 
 gali būti išieškoma iš šio juridinio asmens dalyvių, kurie atsako pagal
 
-juridinio asmens prievoles, turto Lietuvos Respublikos įstatymų nustatytais atvejais
+juridinio asmens prievoles, turto Lietuvos Respublikos įstatymų nustatytais
 
-ir tvarka.
+atvejais ir tvarka.
 
 3. Likviduojamam juridiniam asmeniui visiškai įvykdžius mokestinę
 
@@ -7693,7 +7701,23 @@ ADMINISTRAVIMO ĮSTATYMO 83 STRAIPSNIO PAKEITIMO
 
 Šis
 
-įstatymas įsigalioja nuo 2009 m. sausio 1 d.
+įstatymas įsigalioja nuo 2011 m. sausio 1 d.
+
+Šio įstatymo įsigaliojimo
+
+pakeitimas:
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. XI-99, 2008-12-22,
+
+Žin., 2008, Nr. 149-6023 (2008-12-30)
+
+MOKESČIŲ ADMINISTRAVIMO
+
+ĮSTATYMO 83 STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 9.
 
@@ -7701,9 +7725,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. X-1318,
+Nr. X-1318, 2007-11-08,
 
-2007-11-08, Žin., 2007, Nr. 120-4883 (2007-11-22)
+Žin., 2007, Nr. 120-4883 (2007-11-22)
 
 MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO
 
@@ -7729,7 +7753,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2008-11-18)
+Aušrinė Trapinskienė (2008-12-31)
 
 autrap@lrs.lt
 
