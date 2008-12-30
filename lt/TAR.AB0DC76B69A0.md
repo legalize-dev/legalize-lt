@@ -4,7 +4,7 @@ identifier: "TAR.AB0DC76B69A0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-06"
-last_updated: "2008-11-15"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0DC76B69A0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,10 @@ document_status: "registruotas TA registre"
 # Lietuvos Respublikos teisėjų atlyginimų įstatymas
 
 LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMAS
+
+Suvestinė redakcija nuo 2008-12-30 iki 2009-04-30
+
+Įstatymas paskelbtas: Žin. 2008, Nr. 131-5022, i. k. 1081010ISTA00X-1771
 
 LIETUVOS RESPUBLIKOS  TEISĖJŲ ATLYGINIMŲ  ĮSTATYMAS
 
@@ -38,7 +42,11 @@ Vilnius
 
 3 straipsnis. Atlyginimo ir pareiginės algos bazinis dydis
 
-Teisėjų atlyginimų skaičiavimui taikomas atlyginimo ir pareiginės algos bazinis dydis (toliau – bazinis dydis), kurį ateinantiems metams Lietuvos Respublikos Vyriausybės teikimu, įvertinus teisėjams atstovaujančių organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį.
+Teisėjų atlyginimų skaičiavimui taikomas atlyginimo ir pareiginės algos bazinis dydis (toliau – bazinis dydis), kurį ateinantiems metams Lietuvos Respublikos Vyriausybės teikimu, įvertinus teisėjams atstovaujančių organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė.
+
+Straipsnio pakeitimai:
+
+Nr. XI-83, 2008-12-19, Žin., 2008, Nr. 149-6009 (2008-12-30), i. k. 1081010ISTA000XI-83
 
 4 straipsnis. Teisėjų atlyginimas
 
@@ -212,13 +220,13 @@ kuriuose dirba 14 ir mažiau teisėjų
 
 _________________
 
-51 straipsnis. Priemoka už padidėjusį darbo krūvį
+Pakeitimai:
 
-1. Bendrosios kompetencijos ar specializuoto teismo teisėjui mokama ne didesnė kaip 30 procentų jo pareiginės algos dydžio priemoka už padidėjusį darbo krūvį, kai yra padidėjęs darbų mastas dėl iš anksto nenumatytų priežasčių žymiai padaugėjus gaunamų nagrinėti tam tikros kategorijos bylų per mėnesį.
+1.
 
-2. Priemokų už padidėjusį darbo krūvį skyrimo ir mokėjimo bendrosios kompetencijos ir specializuotų teismų teisėjams tvarką nustato Teisėjų taryba. Bendrosios kompetencijos ir specializuotų teismų teisėjams mokamos priemokos už padidėjusį darbo krūvį dydį nustato bendrosios kompetencijos ar  specializuoto teismo pirmininkas.
+Lietuvos Respublikos Seimas, Įstatymas
 
-Papildyta straipsniu:
+Nr. XI-83, 2008-12-19, Žin., 2008, Nr. 149-6009 (2008-12-30), i. k. 1081010ISTA000XI-83
 
-Nr. XIV-509, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16270
+Lietuvos Respublikos teisėjų atlyginimų įstatymo 3 straipsnio pakeitimo įstatymas
 
