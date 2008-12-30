@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2008-11-25"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -144,9 +144,9 @@ Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
 
 Straipsnio pakeitimai:
 
-Nr. VIII-2057,
+Nr. VIII-2057, 00.10.17, Žin., 2000,
 
-00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+Nr.92-2887 (00.10.31)
 
 Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
 
@@ -506,9 +506,13 @@ organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją
 
 užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių
 
-įtaką, tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas
+įtaką, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos
 
-bazinis dydis negali būti mažesnis už esamą bazinį dydį.
+pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį
+
+dydį, išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė
+
+būklė.
 
 2. Pareiginė
 
@@ -548,6 +552,10 @@ X-1773,
 
 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 
+Nr. XI-82, 2008-12-19,
+
+Žin., 2008, Nr. 149-6008 (2008-12-30)
+
 5 straipsnis. Priedas už ištarnautus
 
 Lietuvos valstybei metus
@@ -564,9 +572,9 @@ ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti
 
 minėto įstatymo 42 straipsnio 1 dalyje.
 
-2. Tarnybos
+2. Tarnybos stažo
 
-stažo skaičiavimo tvarką nustato Vyriausybė.
+skaičiavimo tvarką nustato Vyriausybė.
 
 3. Priedą už
 
@@ -580,9 +588,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-2057,
+Nr. VIII-2057, 00.10.17, Žin., 2000,
 
-00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+Nr.92-2887 (00.10.31)
 
 Nr.
 
@@ -688,9 +696,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-2057,
+Nr. VIII-2057, 00.10.17, Žin., 2000,
 
-00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+Nr.92-2887 (00.10.31)
 
 Nr. IX-231, 2001 03 27, Žin., 2001, Nr.
 
@@ -740,9 +748,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-2057,
+Nr. VIII-2057, 00.10.17, Žin., 2000,
 
-00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+Nr.92-2887 (00.10.31)
 
 9
 
@@ -844,7 +852,9 @@ komisijų pirmininkai
 
 2.6.
 
-Nuolatinių komisijų pirmininkų pavaduotojai
+Nuolatinių komisijų pirmininkų
+
+pavaduotojai
 
 9,8
 
@@ -1146,9 +1156,9 @@ I skirsnio
 
 pakeitimai:
 
-Nr. VIII-2057,
+Nr. VIII-2057, 00.10.17, Žin., 2000,
 
-00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+Nr.92-2887 (00.10.31)
 
 Nr. IX-1326,
 
@@ -1666,7 +1676,9 @@ IV skirsnio
 
 pakeitimai:
 
-Nr. VIII-2057, 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+Nr. VIII-2057,
+
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 
 Nr. IX-312, 2001
 
@@ -1710,9 +1722,9 @@ Nr. X-1385,
 
 2007-12-18, Žin., 2007, Nr. 140-5757 (2007-12-29)
 
-Nr. X-1688,
+Nr. X-1688, 2008-07-03,
 
-2008-07-03, Žin., 2008, Nr. 81-3188 (2008-07-17)
+Žin., 2008, Nr. 81-3188 (2008-07-17)
 
 Nr.
 
@@ -1752,9 +1764,9 @@ POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PAKEI
 
 2.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
 Nr. IX-231,
 
@@ -1766,9 +1778,9 @@ APMOKĖJIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 3.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
 
@@ -2110,9 +2122,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1385,
+X-1385, 2007-12-18,
 
-2007-12-18, Žin., 2007, Nr. 140-5757 (2007-12-29)
+Žin., 2007, Nr. 140-5757 (2007-12-29)
 
 VALSTYBĖS
 
@@ -2526,6 +2538,24 @@ PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja 2009 m. sausio 1 d.
 
+25.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-82,
+
+2008-12-19, Žin., 2008, Nr. 149-6008 (2008-12-30)
+
+VALSTYBĖS
+
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 4 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
 ***Pabaiga***
 
 Konstitucinio
@@ -2562,23 +2592,21 @@ NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ
 
 VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS",
 
-LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666
+LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL
 
-"DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR
+LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR LIETUVOS
 
-LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ
+RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ DARBUOTOJŲ DARBO
 
-DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M.
+APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D.
 
-GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS
+NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO
 
-1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR
+30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS
 
-KONTROLĖS INSTITUCIJŲ VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO
+INSTITUCIJŲ VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO"
 
-APMOKĖJIMO" DALINIO PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS
-
-KONSTITUCIJAI
+DALINIO PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 ***
 
@@ -2586,7 +2614,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2008-11-25)
+Aušrinė Trapinskienė (2008-12-30)
 
 autrap@lrs.lt
 
