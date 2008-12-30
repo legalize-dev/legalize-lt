@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2008-07-03"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -423,9 +423,25 @@ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO
 
 ĮSTATYMAS
 
-Šis
+Šis įstatymas įsigalioja 2009
 
-įstatymas įsigalioja 2009 m. sausio 1 d.
+m. sausio 1 d. Šis įstatymas neteko galios nuo 2008-12-30.
+
+Pakeitimai:
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-110, 2008-12-23, Žin., 2008, Nr. 149-6032 (2008-12-30)
+
+KELIŲ PRIEŽIŪROS IR PLĖTROS
+
+PROGRAMOS FINANSAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMO PRIPAŽINIMO
+
+NETEKUSIU GALIOS ĮSTATYMAS
 
 16.
 
@@ -453,11 +469,11 @@ PRIEDĖLIŲ PAKEITIMO ĮSTATYMAS
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-07-04)
+Aušra Bodin (2008-12-30)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
 5 straipsnis. Dalis akcizo
 
@@ -3511,31 +3527,13 @@ Programos finansavimo lėšų rezervas valstybės reikmėms, susijusioms su keli
 
 finansuoti.
 
-4 dalies redakcija iki 2009 m.
-
-sausio 1 d.:
-
-4. Metinėse
+**4. Metinėse
 
 sąmatose turi būti numatoma 20 procentų Programos finansavimo lėšų valstybei,
 
 savivaldybėms panaudoti vietinės reikšmės keliams (gatvėms) tiesti, taisyti,
 
 prižiūrėti bei saugaus eismo sąlygoms užtikrinti.
-
-4 dalies redakcija nuo 2009 m.
-
-sausio 1 d.:
-
-4. Metinėse
-
-sąmatose turi būti numatoma 20 procentų Programos finansavimo lėšų valstybei,
-
-savivaldybėms panaudoti vietinės reikšmės keliams (gatvėms) tiesti, taisyti,
-
-prižiūrėti bei saugaus eismo sąlygoms užtikrinti ir 15 procentų Programos
-
-finansavimo lėšų rajoniniams žvyrkeliams asfaltuoti.
 
 5.
 
@@ -3549,33 +3547,33 @@ priešgaisrinių gelbėjimo tarnybų, policijos, valstybės sienos apsaugos,
 
 civilinės saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros,
 
-muitinės, inspekcijų pareigūnams, Klaipėdos miesto savivaldybės valstybės tarnautojams
+muitinės, inspekcijų pareigūnams, Klaipėdos miesto savivaldybės valstybės
 
-ir darbuotojams, atliekantiems tarnybines funkcijas Klaipėdos miesto dalyje
+tarnautojams ir darbuotojams, atliekantiems tarnybines funkcijas Klaipėdos
 
-Smiltynėje, taip pat kitiems valstybės pareigūnams, nurodytiems Vyriausybės
+miesto dalyje Smiltynėje, taip pat kitiems valstybės pareigūnams, nurodytiems
 
-nustatytos tvarkos nuostatuose, ir šių tarnybų transporto
+Vyriausybės nustatytos tvarkos nuostatuose, ir šių tarnybų transporto priemonėms, tolimojo, vietinio (miesto) reguliaraus
 
-priemonėms, tolimojo, vietinio (miesto) reguliaraus susisiekimo autobusams,
+susisiekimo autobusams, dviračiams, autocisternoms, vežančioms kurą į Kuršių
 
-dviračiams, autocisternoms, vežančioms kurą į Kuršių neriją, juridinių asmenų,
+neriją, juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę,
 
-turinčių Kuršių nerijoje registruotą buveinę, transporto priemonėms ir
+transporto priemonėms ir darbuotojams, Klaipėdos miesto savivaldybės įmonių
 
-darbuotojams, Klaipėdos miesto savivaldybės įmonių transporto priemonėms ir
+transporto priemonėms ir darbuotojams, dirbantiems darbus Klaipėdos miesto
 
-darbuotojams, dirbantiems darbus Klaipėdos miesto dalyje Smiltynėje, Neringos
+dalyje Smiltynėje, Neringos mieste ir Klaipėdos miesto dalyje Smiltynėje
 
-mieste ir Klaipėdos miesto dalyje Smiltynėje gyvenamąją vietą deklaravusiems
+gyvenamąją vietą deklaravusiems asmenims ir jų lengvosioms transporto
 
-asmenims ir jų lengvosioms transporto priemonėms neatlygintinai perkelti
+priemonėms neatlygintinai perkelti keltais per Klaipėdos valstybinio jūrų uosto
 
-keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į (iš) Kuršių neriją
+akvatoriją į (iš) Kuršių neriją (-os) bei Šilutės rajono gyventojų ir jų
 
-(-os) bei Šilutės rajono gyventojų ir jų lengvųjų transporto priemonių
+lengvųjų transporto priemonių neatlygintino perkėlimo užlietu krašto kelio
 
-neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
+Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
 
 Straipsnio
 
@@ -3584,6 +3582,12 @@ pakeitimai:
 Nr. X-1402,
 
 2007-12-20, Žin., 2007, Nr. 140-5761 (2007-12-29)
+
+Nr. XI-110, 2008-12-23, Žin., 2008, Nr. 149-6032
+
+(2008-12-30)
+
+**Pastaba: grąžinta nuostata.
 
 11
 
@@ -3761,9 +3765,9 @@ bendrosios masės vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20,
 
 ašis (ašys) su pneumatine pakaba
 
-** kai yra kita ašies (ašių) pakabų
+**
 
-sistema
+kai yra kita ašies (ašių) pakabų sistema
 
 Priedėlio pakeitimas:
 
@@ -3888,34 +3892,6 @@ daugiau kaip 22 keleiviai, neskaitant vairuotojo
 80–160
 
 20–27
-
-3
-
-priedėlio tęsinys
-
-Transporto
-
-priemonės tipas, kategorijos, klasės ir grupės
-
-Ribiniai
-
-tarifai (litais)
-
-metų tarifo
-
-ribos
-
-mėnesio tarifo
-
-ribos
-
-savaitės
-
-tarifo ribos
-
-dienos tarifo
-
-ribos
 
 Krovininės
 
@@ -4067,11 +4043,11 @@ B
 
 transporto priemonė, kuri turi daugiau
 
-kaip 8 sėdimas vietas keleiviams ir 1 sėdimą vietą vairuotojui ir kurios
+kaip 8 sėdimas vietas keleiviams ir 1 sėdimą vietą vairuotojui ir kurios bendroji
 
-bendroji masė didesnė kaip 5 t, bet ne daugiau kaip 22 vietos keleiviams,
+masė didesnė kaip 5 t, bet ne daugiau kaip 22 vietos keleiviams, neskaitant
 
-neskaitant vairuotojo
+vairuotojo
 
 600–1800
 
@@ -4243,11 +4219,9 @@ priemonių emisijos klasės pagal motorinių transporto priemonių variklių
 
 išmetamųjų dujinių ir kietųjų dalelių teršalų normas.
 
-2.
+2. Specialios
 
-Specialios kelių transporto priemonės, skirtos specialiems darbams atlikti,
-
-yra:
+kelių transporto priemonės, skirtos specialiems darbams atlikti, yra:
 
 1)
 
@@ -4671,10 +4645,6 @@ būtina atlikti, kad galima būtų leisti būtent tai transporto priemonei (jų
 
 junginiui) važiuoti leidime nurodytu maršrutu, vertė.
 
-4
-
-priedėlio tęsinys
-
 II. Mokesčio už VAŽIAVIMĄ KELIAIS Lietuvos Respublikoje ir užsienio
 
 šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotomis
@@ -4701,7 +4671,9 @@ savivaldybės
 
 teritorijoje
 
-šalies teritorijoje
+šalies
+
+teritorijoje
 
 0,6–1,0
 
@@ -4811,10 +4783,6 @@ ašies (ašių) faktiška apkrova ir faktiškas transporto priemonės (jų jungi
 
 svoris viršija leidžiamus, nustatomas tas mokesčio dydis, kuris yra didesnis.
 
-4
-
-priedėlio tęsinys
-
 III. MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS
 
 RESPUBLIKOJE IR UŽSIENIO ŠALYSE, tarp jų
@@ -4825,13 +4793,13 @@ PRIEMONĖMIS (JŲ JUNGINIAIS), KAI VIRŠIJAMA LEIDŽIAMA JŲ BENDROJI MASĖ, RIB
 
 TARIFAI
 
-1. Jei
+1. Jei transporto
 
-transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o
+priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant 20, 30,
 
-vežant 20, 30, 40, 45 pėdų konteinerius, pagamintus pagal ISO standartus, − 44
+40, 45 pėdų konteinerius, pagamintus pagal ISO standartus, − 44 t), mokamas
 
-t), mokamas mokestis, kurio ribiniai tarifai pateikiami lentelėje:
+mokestis, kurio ribiniai tarifai pateikiami lentelėje:
 
 Leidžiamoji
 
@@ -4997,11 +4965,11 @@ nukreipiamas kitais keliais arba įrengiama uždarytos vietos apylanka
 
 Įvairiems darbams kelio važiuojamojoje
 
-dalyje dirbti iki trijų parų imtinai, pažeidžiant žvyro dangą, ir kai kelias visai
+dalyje dirbti iki trijų parų imtinai, pažeidžiant žvyro dangą, ir kai kelias
 
-uždaromas, o transporto priemonių eismas nukreipiamas kitais keliais arba
+visai uždaromas, o transporto priemonių eismas nukreipiamas kitais keliais
 
-įrengiama uždarytos vietos apylanka
+arba įrengiama uždarytos vietos apylanka
 
 –
 
@@ -5036,30 +5004,6 @@ iš dalies uždaromas (ribojamas greitis)
 82
 
 82
-
-5 priedėlio
-
-tęsinys
-
-Eil.
-
-Nr.
-
-Darbų atvejai
-
-Tarifai
-
-(litais)
-
-Valstybinės
-
-reikšmės keliai
-
-Magist-raliniai
-
-Krašto
-
-Rajoniniai
 
 7.
 
@@ -5195,9 +5139,9 @@ transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidi
 
 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2002 m.
 
-vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL 2004 m.
+vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL 2004 m. specialusis
 
-specialusis leidimas, 7 skyrius, 6 tomas, p. 85).
+leidimas, 7 skyrius, 6 tomas, p. 85).
 
 2 punkto redakcija iki 2009 m.
 
