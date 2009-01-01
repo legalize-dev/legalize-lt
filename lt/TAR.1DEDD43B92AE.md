@@ -4,7 +4,7 @@ identifier: "TAR.1DEDD43B92AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-03"
-last_updated: "2008-07-17"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE"
 department: "Lietuvos Respublikos Seimas"
@@ -51,18 +51,6 @@ PIRMASIS SKIRSNISBENDROSIOS NUOSTATOS
 
 išmoka vaikui
 
-1 ir 2 dalių redakcija iki 2009 m. sausio 1 d.:
-
-1. Kiekvienam gimusiam vaikui skiriama 8 MGL dydžio
-
-vienkartinė išmoka.
-
-2. Įvaikintam vaikui, neatsižvelgiant į tai, kad jau buvo išmokėta išmoka gimusiam vaikui, skiriama 8 MGL
-
-dydžio vienkartinė išmoka.
-
-1 ir 2 dalių redakcija nuo 2009 m. sausio 1 d.:
-
 1. Kiekvienam gimusiam vaikui skiriama 11 bazinių socialinių išmokų dydžio vienkartinė išmoka.
 
 2. Įvaikintam vaikui, neatsižvelgiant į tai, kad jau buvo išmokėta išmoka gimusiam vaikui, skiriama 11 bazinių socialinių išmokų dydžio vienkartinė išmoka.
@@ -95,45 +83,33 @@ Nr. X-1664,
 
 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-6 straipsnio redakcija iki 2008 m. rugpjūčio 1 d.:
-
 3 straipsnis. Išmokų rūšys
 
-1. Šeimose auginamiems vaikams nustatomos šios
-
-išmokos:
+Nustatomos šios išmokų rūšys:
 
 1) vienkartinė išmoka vaikui;
 
 2) išmoka vaikui;
 
-3) išmoka privalomosios tarnybos kario vaikui.
+3) išmoka privalomosios tarnybos kario vaikui;
 
-2. Globojamiems vaikams ir asmenims, kuriems nustatyta
+4) globos (rūpybos) išmoka;
 
-globa (rūpyba), nustatomos šios išmokos:
+5) vienkartinė išmoka įsikurti;
 
-1) globos (rūpybos) išmoka;
+6) vienkartinė išmoka nėščiai moteriai.
 
-2) vienkartinė išmoka būstui įsigyti arba įsikurti.
+Straipsnio pakeitimai:
 
-3. Nėščiai moteriai nustatoma vienkartinė išmoka
+Nr. X-641, 2006-06-01,
 
-nėščiai moteriai.
+Žin., 2006, Nr. 68-2496 (2006-06-17)
 
-3 straipsnio redakcija nuo 2008 m. rugpjūčio 1 d.:
+Nr. X-1664,
+
+2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
 7 straipsnis. Išmoka privalomosios tarnybos kario vaikui
-
-1 dalies redakcija iki 2008 m. rugpjūčio 1 d.:
-
-1.
-
-Kiekvienam privalomosios tarnybos kario vaikui jo tėvo tarnybos laikotarpiu
-
-skiriama 1,5 MGL dydžio išmoka per mėnesį.
-
-1 dalies redakcija nuo 2008 m. rugpjūčio 1 d.:
 
 1. Kiekvienam privalomosios tarnybos kario vaikui jo
 
@@ -171,16 +147,6 @@ Nr. X-1664,
 
 TREČIASIS SKIRSNIS
 
-Skirsnio pavadinimo redakcija
-
-iki 2008 m. rugpjūčio 1 d.:
-
-IŠMOKOS globojamiems VAIKAMS ir asmenims, kuriems nustatyta globa (rūpyba)
-
-Skirsnio pavadinimo redakcija
-
-nuo 2008 m. rugpjūčio 1 d.:
-
 GLOBOS (RŪPYBOS) IŠMOKA IR
 
 VIENKARTINĖ IŠMOKA ĮSIKURTI
@@ -191,53 +157,21 @@ Nr. X-1664,
 
 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-8 straipsnis. Globos (rūpybos)
+8 straipsnis. Globos
 
-išmoka
+(rūpybos) išmoka
 
-1, 2 ir 3 dalių redakcija iki 2008 m. rugpjūčio 1 d.:
+1. Vaikui,
 
-1. Vaikui, kuriam nustatyta globa (rūpyba), jo
+kuriam nustatyta globa (rūpyba) šeimoje ar vaikų globos institucijoje, jo
 
-globos (rūpybos) laikotarpiu skiriama 4 MGL dydžio išmoka per mėnesį.
+globos (rūpybos) laikotarpiu skiriama 4 bazinių socialinių išmokų dydžio išmoka
 
-2. Jei
+per mėnesį. Vaikui, kuriam nustatyta globa (rūpyba) šeimynoje, jo globos
 
-pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos
+(rūpybos) laikotarpiu skiriama 8 bazinių socialinių išmokų dydžio išmoka per
 
-sudarymo jis toliau nenutrūkstamai mokosi dieninėje bendrojo lavinimo mokykloje
-
-ar mokosi profesinės, aukštesniosios ar aukštosios mokyklos dieniniame skyriuje
-
-(įskaitant ir akademinių atostogų
-
-laikotarpį), nepaisant to, dirba ar ne, taip pat tuo atveju, kai yra mirę nedirbančio pilnamečio
-
-asmens abu tėvai (turėtas vienintelis iš tėvų) (įtėvių), jam, kol mokosi, bet
-
-ne ilgiau kaip iki sukanka 24 metai, skiriama ir kartą per mėnesį mokama 4 MGL
-
-dydžio išmoka. Ši išmoka neskiriama ir nemokama daugiau kaip du kartus
-
-įstojusiems į tos pačios mokyklų grupės mokyklą ar įstojusiems į žemesnės
-
-mokyklų grupės mokyklą (kaip suskirstyta pagal Lietuvos Respublikos švietimo
-
-įstatymą).
-
-3.
-
-Baigusiam dieninę bendrojo lavinimo mokyklą vyresniam kaip 18 metų asmeniui
-
-globos (rūpybos) išmoka mokama iki tų pačių metų rugsėjo 1 dienos.
-
-1, 2 ir 3 dalių redakcija nuo 2008 m. rugpjūčio 1 d.:
-
-1. Vaikui, kuriam nustatyta globa (rūpyba), jo
-
-globos (rūpybos) laikotarpiu skiriama 4 bazinių socialinių išmokų dydžio
-
-išmoka per mėnesį.
+mėnesį.
 
 2. Jei
 
@@ -289,25 +223,13 @@ mėnesį mokamos periodinės išmokos dydžio.
 
 nustatytą išmoką, turi teisę gauti stipendiją pagal mokymosi rezultatus.
 
-6 dalies redakcija iki 2008 m. rugpjūčio 1 d.:
+6. Vaikui (asmeniui), kuris mokosi pagal bendrojo lavinimo ir (ar) pagal formaliojo profesinio
 
-6. Vaikui (asmeniui), išlaikomam (nemokamai gaunančiam
+mokymo programas ir yra išlaikomas
 
-nakvynę ir maistą) bendrojo lavinimo
+(nemokamai gauna nakvynę ir maistą) bendrojo
 
-mokyklos (centro) ar profesinės mokyklos (profesinio rengimo centro)
-
-bendrabutyje, skiriama 2 MGL dydžio
-
-išmoka per mėnesį.
-
-6 dalies redakcija nuo 2008 m. rugpjūčio 1 d.:
-
-6. Vaikui (asmeniui), kuris mokosi pagal bendrojo lavinimo ir (ar) pagal formaliojo
-
-profesinio mokymo programas ir yra
-
-išlaikomas (nemokamai gauna nakvynę ir maistą) bendrojo lavinimo mokyklos ar profesinio mokymo įstaigos bendrabutyje, skiriama 2 bazinių
+lavinimo mokyklos ar profesinio mokymo įstaigos bendrabutyje, skiriama 2 bazinių
 
 socialinių išmokų dydžio išmoka per
 
@@ -341,7 +263,99 @@ Nr. X-1664,
 
 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-9 straipsnio redakcija iki 2008 m. rugpjūčio 1 d.:
+Nr.
+
+XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
+
+9
+
+straipsnis. Vienkartinė išmoka
+
+įsikurti
+
+1. Asmenims, kuriems buvo nustatyta vaiko globa
+
+(rūpyba), pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo, skiriama vienkartinė
+
+50 bazinių socialinių išmokų dydžio, o nuo 2009 m. sausio 1 d. – 75 bazinių socialinių išmokų dydžio išmoka įsikurti.
+
+2. Vienkartinė išmoka įsikurti neskiriama:
+
+1) jei asmuo yra išlaikomas (nemokamai gauna nakvynę ir
+
+maistą) valstybės ar savivaldybės finansuojamoje įstaigoje;
+
+2) jei vaiko laikinoji globa (rūpyba) buvo nustatyta
+
+tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos.
+
+3. Vienkartinė išmoka įsikurti grynaisiais pinigais
+
+neišmokama, išskyrus atvejus, kai lieka
+
+nepanaudota mažesnė negu 1 bazinės socialinės išmokos dydžio išmokos dalis,
+
+kuri gali būti išmokama grynaisiais pinigais pačiam išmokos gavėjui. Vienkartinė išmoka įsikurti gali būti panaudota:
+
+1) būstui (gyvenamosioms patalpoms) pirkti;
+
+2) sumokėti daliai paskolos būstui statyti arba
+
+pirkti;
+
+3) būsto nuomai;
+
+4) mokesčiams už nuomojamojo ar nuosavybės teise
+
+turimo būsto komunalines paslaugas;
+
+5) būstui remontuoti arba rekonstruoti;
+
+6) baldams, buitinei, vaizdo ir garso technikai, namų
+
+apyvokos reikmenims, vienam asmeniniam kompiuteriui įsigyti;
+
+7) studijų ir neformaliojo švietimo kainai padengti;
+
+8)
+
+žemės sklypui įsigyti.
+
+Straipsnio pakeitimai:
+
+Nr. X-641, 2006-06-01,
+
+Žin., 2006, Nr. 68-2496 (2006-06-17)
+
+Nr. X-1664,
+
+2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+KETVIRTASIS SKIRSNIS Vienkartinė Išmoka nėščiai moteriai
+
+10
+
+straipsnis. Vienkartinė išmoka nėščiai moteriai
+
+Nėščiai moteriai, pagal Lietuvos Respublikos ligos ir
+
+motinystės socialinio draudimo įstatymą neturinčiai teisės gauti motinystės
+
+pašalpos, likus 70 kalendorinių dienų iki numatomos gimdymo datos, skiriama 2
+
+bazinių socialinių išmokų dydžio vienkartinė išmoka.
+
+Straipsnio pakeitimai:
+
+Nr. X-641, 2006-06-01,
+
+Žin., 2006, Nr. 68-2496 (2006-06-17)
+
+Nr. X-1664,
+
+2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+PENKTASIS SKIRSNIS IŠMOKŲ skyrimas ir mokėjimas
 
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
@@ -350,32 +364,6 @@ Nr. X-1664,
 rūšis, jų dydžius, asmenų, turinčių teisę gauti išmokas, kategorijas, šių
 
 išmokų skyrimo ir mokėjimo sąlygas, tvarką ir finansavimą.
-
-2 ir 3 dalių redakcija iki 2008 m. rugpjūčio 1 d.:
-
-2. Šis
-
-įstatymas taikomas nuolat Lietuvos Respublikoje gyvenantiems asmenims ir
-
-Lietuvos Respublikoje gyvenantiems užsieniečiams, įstatymų nustatyta tvarka
-
-paskirtiems vaiko, Lietuvos Respublikos piliečio, globėjais (rūpintojais).
-
-3. Vienkartinė išmoka vaikui ir išmoka vaikui
-
-skiriama, jei šio straipsnio 2 dalies nuostatą atitinka nors vienas iš vaiko
-
-tėvų (įtėvių) ir vaikas nuolat gyvena Lietuvos Respublikoje kartu su juo.
-
-Išmoka privalomosios pradinės karo tarnybos kario vaikui (toliau – privalomosios
-
-tarnybos kario vaikui) skiriama, jei šio straipsnio 2 dalies nuostatą atitinka
-
-nors vienas iš vaiko tėvų ir vaikas nuolat gyvena Lietuvos Respublikoje kartu
-
-su juo.
-
-2 ir 3 dalių redakcija nuo 2008 m. rugpjūčio 1 d.:
 
 2. Šis įstatymas taikomas nuolat Lietuvos Respublikoje
 
@@ -417,35 +405,33 @@ Nr. X-1664,
 
 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-2 straipsnio redakcija iki 2008 m. rugpjūčio 1 d.:
+2
 
-2 straipsnis. Pagrindinės
+straipsnis. Pagrindinės šio įstatymo sąvokos
 
-šio įstatymo sąvokos
+1. Bazinė socialinė išmoka – rodiklis
 
-1. Globojamas
+socialinės apsaugos išmokoms apibrėžti ir apskaičiuoti, kurio dydį teisės aktų
+
+nustatyta tvarka tvirtina Lietuvos Respublikos Vyriausybė.
+
+2. Globojamas
 
 vaikas – vaikas, kuriam įstatymų
 
 nustatyta tvarka yra nustatyta vaiko laikinoji arba nuolatinė globa ar rūpyba.
 
-2. Išmokos vaikams (toliau
+3. Išmokos vaikams (toliau
 
-– išmokos) – periodinės ir vienkartinės piniginės išmokos,
+– išmokos) – periodinės
 
-skiriamos ir mokamos šio įstatymo nustatytomis sąlygomis ir tvarka šeimose
+ir vienkartinės piniginės išmokos, skiriamos ir mokamos vaikams ir pilnamečiams
 
-auginamiems vaikams, globojamiems vaikams, nėščioms moterims, taip pat
+asmenims, nėščioms
 
-vienkartinė išmoka būstui įsigyti arba įsikurti.
+moterims, vienam iš vaiko tėvų ar globėjų (rūpintojų) šio įstatymo nustatytomis sąlygomis
 
-3. Minimalus
-
-gyvenimo lygis (toliau – MGL)
-
-– Gyventojų pajamų garantijų įstatymo nustatyta tvarka Vyriausybės patvirtintas
-
-minimalus gyvenimo lygio dydis.
+ir tvarka.
 
 4. Nuolat
 
@@ -483,15 +469,17 @@ gyvenimo skyrium yra likę gyventi jų vaikai, arba vienas iš tėvų, jų vaika
 
 įvaikiai iki 18 metų. Į šeimos sudėtį taip pat įskaitomi nesusituokę ir su kitu
 
-asmeniu bendrai negyvenantys asmenys nuo 18 iki 24 metų: besimokantys dieninėse
+asmeniu bendrai negyvenantys asmenys nuo 18 iki 24 metų, kurie mokosi pagal bendrojo lavinimo programą, pagal formaliojo
 
-bendrojo lavinimo mokyklose ir kitų formaliojo švietimo įstaigų dieniniuose
+profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal dieninės
 
-skyriuose, taip pat asmenys nuo dieninių bendrojo lavinimo mokyklų baigimo
+studijų formos nuosekliųjų studijų programą,
 
-dienos iki tų pačių metų rugsėjo 1 dienos.
+taip pat asmenys nuo bendrojo lavinimo programos baigimo dienos iki tų pačių
 
-Į globėjų (rūpintojų) šeimų sudėtį vaikai, kuriems įstatymo tvarka yra
+metų rugsėjo 1 dienos. Į globėjų
+
+(rūpintojų) šeimos sudėtį vaikai, kuriems įstatymų nustatyta tvarka yra
 
 nustatyta globa ar rūpyba, neįskaitomi.
 
@@ -499,11 +487,123 @@ nustatyta globa ar rūpyba, neįskaitomi.
 
 juridinis asmuo, kuriam įstatymų nustatyta tvarka pavesta be tėvų globos
 
-likusio vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir
+likusio vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir atstovavimas
 
-atstovavimas jam.
+jam.
 
-2 straipsnio redakcija nuo 2008 m. rugpjūčio 1 d.:
+Straipsnio pakeitimai:
+
+Nr. IX-2470,
+
+2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
+
+Nr. X-496, 2006-01-19,
+
+Žin., 2006, Nr. 17-592 (2006-02-11)
+
+Nr. X-1664,
+
+2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+įstatymo 2 straipsnis įsigalioja nuo 2005 m. sausio 1 d.
+
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-496,
+
+2006-01-19, Žin., 2006, Nr. 17-592 (2006-02-11)
+
+IŠMOKŲ
+
+VAIKAMS ĮSTATYMO 2, 8 IR 12 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2007 m. sausio 1 d.
+
+Šio
+
+įstatymo 2 straipsnyje nurodyta 4 MGL dydžio išmoka skiriama vaikui, kuriam
+
+globa (rūpyba) apskrities viršininko įsteigtoje vaikų globos įstaigoje
+
+nustatyta po šio įstatymo įsigaliojimo.
+
+Vaikams
+
+(išskyrus atvejus, kai globėjas (rūpintojas) yra apskrities viršininko įsteigta
+
+vaikų globos įstaiga), kuriems globa (rūpyba) nustatyta iki šio įstatymo
+
+įsigaliojimo, išmoką moka savivaldybės, kurios teritorijoje globėjas
+
+(rūpintojas) yra įregistruotas arba deklaruoja gyvenamąją vietą,
+
+administracija.
+
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-641, 2006-06-01,
+
+Žin., 2006, Nr. 68-2496 (2006-06-17)
+
+IŠMOKŲ
+
+VAIKAMS ĮSTATYMO 1, 3, 4, 5, 6, 8, 9, 10, 12, 13, 18 STRAIPSNIŲ PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2006 m. liepos 1 d.
+
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-1158,
+
+2007-06-05, Žin., 2007, Nr. 68-2648 (2007-06-21)
+
+IŠMOKŲ
+
+VAIKAMS ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1664,
+
+2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+IŠMOKŲ
+
+VAIKAMS ĮSTATYMO 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 18, 20, 22 STRAIPSNIŲ
+
+IR ANTROJO, TREČIOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas, išskyrus 5 straipsnį,
+
+įsigalioja 2008 m. rugpjūčio 1 d.
 
 4 straipsnis. Išmokų
 
@@ -526,16 +626,6 @@ Nr. X-641, 2006-06-01,
 Žin., 2006, Nr. 68-2496 (2006-06-17)
 
 ANTRASIS SKIRSNIS
-
-Skirsnio pavadinimo redakcija
-
-iki 2008 m. rugpjūčio 1 d.:
-
-Išmokos šeimose auginamiems vaikams
-
-Skirsnio pavadinimo redakcija
-
-nuo 2008 m. rugpjūčio 1 d.:
 
 Vienkartinė išmoka vaikui, Išmoka Vaikui IR
 
@@ -629,75 +719,147 @@ savivaldybių administracijos vadovaudamosi šiuo įstatymu ir Vyriausybės
 
 patvirtintais Išmokų vaikams skyrimo ir mokėjimo nuostatais.
 
-6 straipsnis. Išmoka vaikui
+6 straipsnis. Išmoka
+
+vaikui
 
 1. Šeimoje,
 
-auginančioje vieną ar du vaikus, kiekvienam vaikui skiriama 0,75 MGL dydžio
+auginančioje vieną ar du vaikus, kiekvienam vaikui skiriama 0,75 bazinės
 
-išmoka per mėnesį nuo jo gimimo dienos, iki sukaks 3 metai.
+socialinės išmokos dydžio išmoka per mėnesį nuo vaiko gimimo dienos, iki sukaks
+
+3 metai.
 
 2. Šeimoje,
 
-auginančioje tris ar daugiau vaikų, kiekvienam vaikui skiriama 1,1 MGL dydžio
+auginančioje tris ar daugiau vaikų, kiekvienam vaikui skiriama 1,1 bazinės
 
-išmoka per mėnesį nuo jo gimimo dienos, iki sukaks 3 metai.
+socialinės išmokos dydžio išmoka per mėnesį nuo vaiko gimimo dienos, iki sukaks
+
+3 metai.
+
+3 dalies redakcija iki 2009 m. kovo 1 d.:
 
 3. Šeimoje,
 
 auginančioje vieną ar du vaikus, kiekvienam vaikui nuo 3 iki 18 metų ir
 
-vyresniam, kuris mokosi dieninėje bendrojo lavinimo mokykloje, skiriama 0,4 MGL
+vyresniam, kuris mokosi pagal bendrojo lavinimo programą ir (ar) pagal
 
-dydžio išmoka per mėnesį.
+profesinio mokymo programą pirmajai kvalifikacijai įgyti, bet ne ilgiau, kaip
+
+iki jam sukanka 21 metai, skiriama 0,4 bazinės socialinės išmokos dydžio išmoka
+
+per mėnesį.
+
+3 dalies redakcija nuo 2009 m. kovo 1 d.:
+
+3. Šeimoje, auginančioje vieną ar du vaikus,
+
+kiekvienam vaikui nuo 3 iki 18 metų ir vyresniam, kuris mokosi pagal bendrojo
+
+lavinimo programą ir (ar) pagal formaliojo profesinio mokymo programą pirmajai
+
+kvalifikacijai įgyti, bet ne ilgiau, kaip iki jam sukanka 21 metai, skiriama
+
+0,4 bazinės socialinės išmokos dydžio išmoka per mėnesį.
+
+4 dalies redakcija iki 2009 m. kovo 1 d.:
 
 4. Šeimoje, auginančioje tris ar daugiau vaikų,
 
-kiekvienam vaikui nuo 3 iki 18 metų ir vyresniam, jei jis mokosi dieninėje
+kiekvienam vaikui nuo 3 iki 18 metų ir vyresniam, jei jis mokosi pagal bendrojo lavinimo programą, pagal formaliojo
 
-bendrojo lavinimo mokykloje, profesinės, aukštesniosios ar aukštosios mokyklos
+profesinio mokymo programą ar studijuoja aukštojoje mokykloje pagal dieninės
 
-dieniniame skyriuje (įskaitant ir akademinių atostogų laikotarpį), bet ne
+studijų formos nuosekliųjų studijų programą (įskaitant
 
-ilgiau kaip iki jam sukanka 24 metai, skiriama 0,4 MGL dydžio išmoka per
+ir akademinių atostogų laikotarpį), bet ne ilgiau, kaip iki jam sukanka 24
+
+metai, skiriama 0,75 bazinės socialinės išmokos dydžio išmoka per mėnesį.
+
+4 dalies redakcija nuo 2009 m. kovo 1 d.:
+
+4. Šeimoje,
+
+auginančioje tris ar daugiau vaikų, kiekvienam vaikui nuo 3 iki 18 metų ir
+
+vyresniam, jei jis mokosi pagal bendrojo lavinimo programą, pagal formaliojo
+
+profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja
+
+aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą
+
+(įskaitant ir akademinių atostogų laikotarpį), bet ne ilgiau, kaip iki jam
+
+sukanka 24 metai, skiriama 0,75 bazinės socialinės išmokos dydžio išmoka per
 
 mėnesį.
 
-5. Baigusiam dieninę bendrojo
+5. Kiekvienam
 
-lavinimo mokyklą vyresniam kaip 18 metų asmeniui išmoka vaikui mokama iki tų
+globojamam vaikui skiriama 0,75 bazinės socialinės išmokos dydžio išmoka per
 
-pačių metų rugsėjo 1 dienos.
+mėnesį nuo gimimo dienos, iki jam sukanka 3 metai, o globojamam (rūpinamam)
 
-6. Išmoka
+vaikui nuo 3 iki 18 metų ir vyresniam, kuris mokosi pagal bendrojo lavinimo
 
-vaikui mokama vienam iš vaiką (vaikus) auginančių tėvų (ar turimam vieninteliam
+programą ir (ar) pagal formaliojo profesinio mokymo programą pirmajai
 
-iš tėvų) (įtėvių).
+kvalifikacijai įgyti, bet ne ilgiau, kaip iki jam sukanka 21 metai, skiriama
+
+0,4 bazinės socialinės išmokos dydžio išmoka per mėnesį.
+
+6. Baigusiam bendrojo lavinimo programą vyresniam kaip
+
+18 metų asmeniui išmoka vaikui mokama iki tų pačių metų rugsėjo 1 dienos.
 
 7. Išmoka
 
-vaikui neskiriama, jei jis:
+vaikui neskiriama arba jos mokėjimas nutraukiamas, jei:
 
-1) yra
+1) asmuo yra
 
-pilnametis ir turi savo vaikų;
+pilnametis ar emancipuotas ir turi savo vaikų;
 
-2) yra globojamas, išskyrus
+2) asmuo susituokia;
 
-atvejus, kai vaiko laikinoji globa (rūpyba) nustatyta tėvų prašymu dėl jų
+3) yra
 
-laikino išvykimo iš Lietuvos Respublikos;
+paskelbta paieška arba jis teismo pripažintas nežinia kur esančiu;
 
-3) susituokia;
+4) asmuo yra pilnametis,
 
-4) yra
+atliekantis bausmę, sulaikytas ar suimtas.
 
-emancipuotas (išskyrus tuo atveju, kai teismas nusprendžia emancipaciją
+8. Nuo 2009 m. kovo 1 d. iki 2010 m. gruodžio 31 d. šio straipsnio 3 ir 4 dalyse nurodyta išmoka vaikui skiriama, jei vidutinės pajamos,
 
-panaikinti).
+nustatytos Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms
 
-6 straipsnio redakcija nuo 2008 m. rugpjūčio 1 d.:
+šeimoms ir vieniems gyvenantiems asmenims įstatymo 15 straipsnyje, vienam
+
+šeimos nariui per mėnesį yra mažesnės kaip 3 valstybės remiamų pajamų
+
+dydžiai.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2470,
+
+2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
+
+Nr. X-641, 2006-06-01,
+
+Žin., 2006, Nr. 68-2496 (2006-06-17)
+
+Nr. X-1664,
+
+2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+Nr.
+
+XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 
 15 straipsnis. Informacijos
 
@@ -717,49 +879,69 @@ darbo ministro nustatyta tvarka turi teikti duomenis apie jų teritorijose
 
 gyvenančioms šeimoms (asmenims) išmokėtas išmokas.
 
-20 straipsnis.
+20 straipsnis. Savivaldybių
 
-Savivaldybių administracijų pareiga užtikrinti šio įstatymo nustatytų išmokų
+administracijų pareiga užtikrinti šio įstatymo nustatytų išmokų skyrimą ir mokėjimą,
 
-skyrimą ir mokėjimą bei garantuoti paskirtų ir mokėtų išmokų tęstinumą
+taip pat garantuoti paskirtų ir mokėtų išmokų tęstinumą
 
-1. Savivaldybių administracijos nuo 2004 m. liepos 1 d. skiria ir moka šio įstatymo nustatytas išmokas arba toliau tęsia iki šio įstatymo
+1. Vaikui, kuriam globa (rūpyba) apskrities viršininko
 
-įsigaliojimo paskirtų pašalpų mokėjimą, išskyrus globos (rūpybos) išmoką
+įsteigtoje vaikų socialinės globos įstaigoje nustatyta arba globėju (rūpintoju)
 
-asmenims, kurie mokosi profesinėse, aukštesniosiose ir aukštosiose mokyklose.
+ši įstaiga yra paskirta po 2007 m. sausio 1 d., skiriama 4 bazinių socialinių
 
-Jas iki 2004 m. gruodžio 31 d. skiria ir moka šios mokyklos.
+išmokų dydžio globos (rūpybos) išmoka. Ji mokama vadovaujantis šio įstatymo 12
 
-2. Savivaldybių administracijos iki 2004 m. liepos 1 d. patikrina paskirtų pašalpų šeimoms, auginančioms tris ir daugiau vaikų, gavėjų
+straipsnio 3 dalimi.
 
-bylas ir priima sprendimą skirti ir mokėti pagal šio įstatymo nuostatas
+2. Vaikams (išskyrus atvejus, kai globėjas
 
-priklausančias išmokas be naujo asmens prašymo ir apie naujų išmokų paskyrimą
+(rūpintojas) yra apskrities viršininko įsteigta vaikų globos įstaiga), kuriems
 
-informuoja išmokos gavėją.
+globa (rūpyba) nustatyta iki 2007 m. sausio 1 d., išmoką moka savivaldybės,
 
-3. Tris ar daugiau vaikų auginančiai šeimai, kuriai
+kurios teritorijoje globėjas (rūpintojas) yra įregistruotas arba deklaruoja
 
-iki šio įstatymo įsigaliojimo paskirta pašalpa už tris ir daugiau vaikų yra
+gyvenamąją vietą, administracija.
 
-didesnė, nei priklausytų vaikams pagal šį įstatymą, iki atsiras kitos
+3 dalies redakcija iki 2009 m. kovo 1 d.:
 
-aplinkybės, mokama anksčiau paskirto dydžio išmoka, kol baigsis teisė į ją, bet
+3. Išmokos vaikui, paskirtos, iki vaikui sukanka 3, 7,
 
-ne ilgiau kaip iki besimokančiajam mokykloje sukaks 24 metai.
+9 ar 12 metų, mokėjimo terminui pasibaigus, sprendimą skirti ir mokėti pagal
 
-4. Moteriai, kuriai iki šio įstatymo įsigaliojimo
+šio įstatymo nuostatas priklausančią išmoką savivaldybės administracija priima
 
-paskirta nėštumo pašalpa besimokančiai moteriai, bet neišmokėta už visą
+be naujo asmens prašymo ir apie išmokos vaikui mokėjimo pratęsimą informuoja
 
-laikotarpį, išmokama išmoka, kurios dydis yra lygus skirtumui tarp vienkartinės
+išmokos gavėją.
 
-išmokos nėščiai moteriai dydžio ir išmokėtos nėštumo pašalpos besimokančiai
+3 dalies redakcija nuo 2009 m. kovo 1 d.:
 
-moteriai dydžio.
+3. Likus ne mažiau kaip 1 mėnesiui iki išmokos vaikui,
 
-20 straipsnio redakcija nuo 2008 m. rugpjūčio 1 d.:
+paskirtos, iki vaikui sukaks 3 metai, mokėjimo termino pabaigos, arba išmokos
+
+vaikui, paskirtos 12 mėnesių, mokėjimo termino pabaigos, savivaldybės administracija
+
+informuoja išmokos gavėją apie asmens teisę kreiptis dėl tolesnio išmokos
+
+vaikui skyrimo. Išmokos vaikui, paskirtos iki 2010 m. gruodžio 31 d., mokėjimo terminui pasibaigus, sprendimą ją skirti ir mokėti pagal šio
+
+įstatymo nuostatas savivaldybės administracija priima be naujo asmens prašymo
+
+ir apie išmokos vaikui mokėjimo pratęsimą informuoja išmokos gavėją.
+
+Straipsnio pakeitimai:
+
+Nr. X-1664,
+
+2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+Nr.
+
+XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 
 21 straipsnis. Įstatymo
 
@@ -777,22 +959,6 @@ moteriai dydžio.
 
 straipsnį, įsigalioja nuo 2004 m. liepos 1 d.
 
-2 dalies redakcija iki 2008 m. rugpjūčio 1 d.:
-
-2. Šio įstatymo 6 straipsnio 3 dalyje nustatyta išmoka
-
-vieną ar du vaikus auginančių šeimų vaikams nuo 3 iki 7 metų skiriama ir mokama
-
-nuo 2004 m. liepos 1 d., o nuo 7 iki 18 metų ir vyresniems, besimokantiems
-
-dieninėje bendrojo lavinimo mokykloje, skiriama ir pradedama mokėti
-
-atsižvelgiant į valstybės finansines galimybes bei Vyriausybės nustatyta tvarka
-
-ir terminais, bet ne vėliau kaip nuo 2008 m. sausio 1 d.
-
-2 dalies redakcija nuo 2008 m. rugpjūčio 1 d.:
-
 2. Šio įstatymo 6 straipsnio 3 dalyje nustatyta išmoka
 
 vieną ar du vaikus auginančių šeimų vaikams nuo 3 iki 7 metų skiriama ir mokama
@@ -804,82 +970,6 @@ bendrojo lavinimo programą, skiriama ir pradedama mokėti atsižvelgiant į
 valstybės finansines galimybes bei Vyriausybės nustatyta tvarka ir terminais,
 
 bet ne vėliau kaip nuo 2008 m. sausio 1 d.
-
-Straipsnio pakeitimai:
-
-Nr.
-
-X-1158,
-
-2007-06-05, Žin., 2007, Nr. 68-2648 (2007-06-21)
-
-Nr. X-1664,
-
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
-
-Skelbiu
-
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
-
-__________________
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-478,
-
-97.10.23, Žin., 1997, Nr.99-2506 (97.10.31)
-
-LIETUVOS RESPUBLIKOS VALSTYBINIŲ
-
-PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO PAPILDYMO 4(1) STRAIPSNIU IR 9
-
-BEI 11 STRAIPSNIŲ PAPILDYMO
-
-2.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-676,
-
-98.03.24, Žin., 1998, Nr.35-934 (98.04.15)
-
-LIETUVOS RESPUBLIKOS VALSTYBINIŲ
-
-PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 4, 5, 9 STRAIPSNIŲ PAKEITIMO IR
-
-PAPILDYMO ĮSTATYMAS
-
-Šis įstatymas įsigalioja nuo 1998 m. liepos 1 d.
-
-3.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. VIII-985,
-
-98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
-
-LIETUVOS RESPUBLIKOS VALSTYBINIŲ
-
-PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 5, 7, 8, 9 STRAIPSNIŲ PAKEITIMO
-
-ĮSTATYMAS
-
-Šio įstatymo 1, 2, 4 straipsniai
 
 13 straipsnis. Kreipimosi
 
@@ -899,6 +989,8 @@ vienkartinė išmoka už šį vaiką anksčiau nebuvo išmokėta. Vienkartinė i
 
 mėnesių nuo vaiko įvaikinimo dienos.
 
+2 dalies redakcija iki 2009 m. kovo 1 d.:
+
 2. Išmoka vaikui, išmoka privalomosios tarnybos kario
 
 vaikui ir globos (rūpybos) išmoka skiriama ir mokama nuo teisės gauti išmoką
@@ -909,15 +1001,29 @@ dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai
 
 dienos.
 
-3 dalies redakcija iki 2008 m. rugpjūčio 1 d.:
+2 dalies redakcija nuo 2009 m. kovo 1 d.:
 
-3. Vienkartinė išmoka būstui įsigyti arba įsikurti
+2. Iki 2010 m. gruodžio 31 d. išmoka vaikui,
 
-skiriama, jei prašymą šiai išmokai skirti savivaldybės administracijai asmuo
+sukakusiam 3 metus ir vyresniam, skiriama ir mokama 12 mėnesių nuo prašymo ir
 
-pateikė, iki jam sukako 25 metai.
+visų reikiamų dokumentų, būtinų išmokai skirti, pateikimo dienos. Pasibaigus
 
-3 dalies redakcija nuo 2008 m. rugpjūčio 1 d.:
+paskirtos išmokos vaikui mokėjimo laikotarpiui, dėl tolesnio išmokos vaikui
+
+skyrimo asmuo turi kreiptis ir pateikti būtinus dokumentus išmokai gauti bei
+
+duomenis apie šeimos pajamas už praėjusius 12 kalendorinių mėnesių iki naujo
+
+prašymo išmokai gauti pateikimo dienos. Išmoka privalomosios tarnybos kario
+
+vaikui, globos (rūpybos) išmoka ir išmoka vaikui asmenims, įgijusiems teisę ją
+
+gauti nuo 2011 m. sausio 1 d., skiriama ir mokama nuo teisės gauti išmoką
+
+atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo visų
+
+dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai dienos.
 
 3. Vienkartinė išmoka įsikurti skiriama, jei prašymą
 
@@ -969,6 +1075,10 @@ Nr. X-1664,
 
 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
+Nr.
+
+XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
+
 18 straipsnis. Savivaldybių administracijų teisės
 
 Savivaldybių
@@ -989,19 +1099,9 @@ ir, surašius buities tyrimo aktą, priimti sprendimą laikyti šeimą socialin�
 
 rizikos šeima;
 
-3 punkto redakcija iki 2008 m. rugpjūčio 1 d.:
+3) neskirti išmokos, sustabdyti
 
-3) neskirti išmokos arba nutraukti
-
-jos mokėjimą, jeigu išmokos gavėjas nevykdo šio įstatymo 19 straipsnyje
-
-nustatytų pareigų.
-
-3 punkto redakcija nuo 2008 m. rugpjūčio 1 d.:
-
-3) neskirti išmokos, sustabdyti arba
-
-nutraukti jos mokėjimą, jeigu išmokos gavėjas (jo atstovas pagal įstatymą)
+arba nutraukti jos mokėjimą, jeigu išmokos gavėjas (jo atstovas pagal įstatymą)
 
 nevykdo šio įstatymo 19 straipsnyje nustatytų pareigų arba savivaldybės vaiko
 
@@ -1031,30 +1131,6 @@ jeigu jis gyvenamosios vietos neturi, – savivaldybės, kurioje šis asmuo gyve
 
 administracija.
 
-2 ir 3 dalių redakcija iki 2008 m. rugpjūčio 1 d.:
-
-2. Globos (rūpybos) išmoką asmenims, kurie mokosi
-
-profesinėse, aukštesniosiose ir aukštosiose mokyklose, skiria ir moka
-
-savivaldybės, kurioje yra mokykla, administracija. Jeigu gyvenamąją vietą
-
-Lietuvos Respublikoje deklaravęs asmuo studijuoja užsienio valstybės
-
-profesinėje, aukštesniojoje ar aukštojoje mokykloje, globos (rūpybos) išmoką
-
-jam skiria ir moka savivaldybės, kurios teritorijoje asmuo yra deklaravęs
-
-gyvenamąją vietą, administracija.
-
-3. Vaiko globėjui (rūpintojui) globos (rūpybos) išmoką
-
-moka tos savivaldybės, kurios teritorijoje vaikui buvo nustatyta globa (rūpyba),
-
-administracija.
-
-2 ir 3 dalių redakcija nuo 2008 m. rugpjūčio 1 d.:
-
 2. Globos (rūpybos) išmoką asmenims, kurie mokosi
 
 profesinio mokymo įstaigose, aukštosiose mokyklose, skiria ir moka
@@ -1073,33 +1149,23 @@ deklaravęs gyvenamąją vietą, administracija.
 
 moka tos savivaldybės, kurios vaiko teisių apsaugos institucijos teikimu vaikui
 
-buvo nustatyta globa (rūpyba), administracija. Tais atvejais, kai besimokantis
+buvo nustatyta globa (rūpyba) arba globėju (rūpintoju) paskirta apskrities
 
-vyresnis kaip 18 metų asmuo lieka gyventi ir yra išlaikomas (nemokamai
+viršininko įsteigta vaikų socialinės globos įstaiga, administracija. Tais
 
-gauna nakvynę, maistą ir kitas paslaugas) socialinės globos įstaigoje, kurioje
+atvejais, kai besimokantis vyresnis kaip 18 metų asmuo lieka gyventi ir yra
 
-iki pilnametystės jam buvo nustatyta globa (rūpyba), ši išmoka mokama
+išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) socialinės
 
-socialinės globos įstaigai.
+globos įstaigoje, kurioje iki pilnametystės jam buvo nustatyta globa (rūpyba),
+
+ši išmoka mokama socialinės globos įstaigai.
 
 4. Kreipiantis dėl išmokos, privaloma pateikti visus
 
 Išmokų vaikams skyrimo ir mokėjimo nuostatuose nurodytus dokumentus, būtinus
 
 išmokai skirti.
-
-5 dalies redakcija iki 2008 m. rugpjūčio 1 d.:
-
-5. Savivaldybės administracija per mėnesį nuo visų
-
-dokumentų gavimo dienos privalo priimti sprendimą dėl išmokos skyrimo ir apie
-
-tai raštu pranešti pareiškėjui. Tais atvejais, kai priimamas sprendimas
-
-neskirti išmokos, nurodomos neskyrimo priežastys.
-
-5 dalies redakcija nuo 2008 m. rugpjūčio 1 d.:
 
 5. Savivaldybės administracija per mėnesį nuo visų
 
@@ -1119,41 +1185,23 @@ savivaldybės administracija priimdama sprendimą turi atsižvelgti į vaiko
 
 (vaikų) interesus.
 
-7 dalies redakcija iki 2008 m. rugpjūčio 1 d.:
-
-7. Vienkartinės išmokos vaikui, vienkartinės išmokos
-
-būstui įsigyti arba įsikurti ir vienkartinės išmokos nėščiai moteriai dydis
-
-apskaičiuojamas pagal teisės į išmoką atsiradimo dieną galiojusio MGL dydį.
-
-Išmokos vaikui, išmokos privalomosios tarnybos kario vaikui ir globos (rūpybos)
-
-išmokos dydis apskaičiuojamas pagal išmokos skyrimo dieną galiojantį MGL dydį.
-
-7 dalies redakcija nuo 2008 m. rugpjūčio 1 d.:
-
 7. Vienkartinės išmokos vaikui, vienkartinės išmokos
 
 įsikurti ir vienkartinės išmokos nėščiai moteriai dydis apskaičiuojamas pagal
 
-teisės į išmoką atsiradimo dieną galiojusį bazinės socialinės išmokos dydį.
+teisės į išmoką atsiradimo dieną galiojusius išmokos ir bazinės socialinės
 
-Išmokos vaikui, išmokos privalomosios tarnybos kario vaikui ir globos (rūpybos)
+išmokos dydžius. Išmokos vaikui, išmokos privalomosios tarnybos kario vaikui ir
 
-išmokos dydis apskaičiuojamas pagal tą mėnesį, už kurį išmoka mokama,
+globos (rūpybos) išmokos dydis apskaičiuojamas pagal tą mėnesį, už kurį išmoka
 
-galiojantį bazinės socialinės išmokos dydį.
+mokama, galiojančius išmokos ir bazinės socialinės išmokos dydžius.
 
 8. Jei šio įstatymo nustatyta periodinė išmoka
 
 skiriama už ne visą mėnesį, jos dydis apskaičiuojamas proporcingai to mėnesio
 
 kalendorinių dienų, už kurias išmoka skiriama, skaičiui.
-
-Straipsnis papildomas 9 dalimi
-
-nuo 2008 m. rugpjūčio 1 d.:
 
 9. Išmoka
 
@@ -1164,6 +1212,34 @@ iš tėvų), globėjui (rūpintojui) arba pačiam 18 metų ir vyresniam asmeniui
 Išmokos gavimo būdą pasirenka išmokos gavėjas, išskyrus socialinės rizikos
 
 šeimas.
+
+12
+
+straipsnis papildomas 10 ir 11 dalimis nuo 2009 m. kovo 1 d., šios dalys pripažįstamos netekusiomis galios nuo 2010 m gruodžio 31 d.:
+
+10. Šeimos vidutinės mėnesio pajamos
+
+išmokai vaikui gauti apskaičiuojamos pagal 12 kalendorinių mėnesių iki
+
+kreipimosi dėl išmokos mėnesio pajamas, nustatytas Lietuvos Respublikos
+
+piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems
+
+asmenims įstatymo 15 straipsnyje.
+
+11. Jei šeima gauna piniginę socialinę paramą pagal
+
+Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir
+
+vieniems gyvenantiems asmenims įstatymą, šeimos pajamos išmokai vaikui gauti
+
+apskaičiuojamos pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant
+
+piniginę socialinę paramą, įskaitant paskirtos socialinės pašalpos dydį ir
+
+neįskaitant būsto šildymo išlaidų, išlaidų šaltam vandeniui ir karštam
+
+vandeniui kompensacijų dydžio.
 
 Straipsnio pakeitimai:
 
@@ -1179,9 +1255,13 @@ Nr. X-641, 2006-06-01,
 
 Žin., 2006, Nr. 68-2496 (2006-06-17)
 
-Nr. X-1664,
+Nr. X-1664, 2008-07-01,
 
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+Nr.
+
+XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 
 14 straipsnis. Išmokų
 
@@ -1198,22 +1278,6 @@ ar mokėjimui.
 išmokos suma išmokama už visą praėjusį laiką savivaldybės administracijos
 
 sprendimu.
-
-3 dalies redakcija iki 2008 m. rugpjūčio 1 d.:
-
-3. Dėl išmokos gavėjo kaltės permokėta išmokos suma iš
-
-gavėjo išieškoma savivaldybės administracijos sprendimu. Iš gavėjui
-
-priklausančios išmokos išskaitoma ne daugiau kaip po 20 procentų mokėtinos
-
-išmokos sumos per mėnesį tol, kol bus visiškai padengta išieškoma suma. Jei
-
-išmokos mokėjimas gavėjui nutraukiamas, o visa permokėta išmokos suma
-
-neišieškota, likęs įsiskolinimas išieškomas teismo tvarka.
-
-3 dalies redakcija nuo 2008 m. rugpjūčio 1 d.:
 
 3. Dėl išmokos gavėjo kaltės permokėta išmokos suma
 
@@ -1251,7 +1315,9 @@ Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 išmokų teikimas socialinės rizikos šeimoms
 
-17 straipsnis. Išmokų teikimas socialinės rizikos šeimoms
+17 straipsnis. Išmokų teikimas socialinės rizikos
+
+šeimoms
 
 1.
 
@@ -1340,6 +1406,4 @@ išmokas panaudoti pagal jų tikslinę paskirtį.
 AŠTUNTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
-
-20 straipsnio redakcija iki 2008 m. rugpjūčio 1 d.:
 
