@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2008-12-30"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -209,9 +209,11 @@ produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais
 
 skirti naudoti kaip variklių degalai;
 
-3) akcizo
+3)
 
-pajamos, gautos už realizuotas suskystintas dujas, skirtas automobiliams;
+dalis akcizo pajamų, gautų už realizuotas suskystintas dujas, skirtas
+
+automobiliams;
 
 4) mokestis už Lietuvos
 
@@ -249,6 +251,12 @@ Nr. X-1604, 2008-06-17,
 
 Žin., 2008, Nr. 75-2919 (2008-07-03)
 
+Nr.
+
+XI-109,
+
+2008-12-23, Žin., 2008, Nr. 149-6031 (2008-12-30)
+
 4
 
 straipsnis. Neteko galios nuo 2005 m. liepos 1
@@ -259,31 +267,25 @@ d.
 
 straipsnis. Dalis akcizo pajamų, gautų už realizuotą benziną, dyzelinius
 
-degalus bei energetinius produktus,
+degalus ir energetinius produktus, kurie pagaminti iš biologinės kilmės
 
-kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti
+medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai, ir dalis
 
-naudoti kaip variklių degalai, ir akcizo
+akcizo pajamų, gautų už realizuotas suskystintas dujas, skirtas automobiliams
 
-pajamos, gautos už realizuotas suskystintas dujas, skirtas automobiliams
+1. Į Programos
 
-1. Nuo 2005 m.
+finansavimo sąskaitą pervedama 55 procentai akcizo pajamų, gautų už realizuotą
 
-sausio 1 d. į Programos finansavimo sąskaitą pervedama 40 procentų, nuo 2005 m.
+benziną, dyzelinius degalus ir energetinius produktus, kurie pagaminti iš
 
-gegužės 1 d. – 50 procentų, nuo 2006 m. sausio 1 d. – 60 procentų,  nuo 2006 m.
+biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių
 
-liepos 1 d. – 70 procentų, o nuo 2008 m. sausio 1 d. – 80 procentų  akcizo pajamų,
-
-gautų už realizuotą benziną, dyzelinius degalus bei energetinius produktus,
-
-kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti
-
-naudoti kaip variklių degalai.
+degalai.
 
 2. Į Programos
 
-finansavimo sąskaitą pervedama 100 procentų akcizo pajamų, gautų už realizuotas
+finansavimo sąskaitą pervedama 55 procentai akcizo pajamų, gautų už realizuotas
 
 suskystintas dujas, skirtas automobiliams.
 
@@ -300,6 +302,12 @@ pakeitimai:
 Nr. X-725, 2006-06-22,
 
 Žin., 2006, Nr. 77-2969 (2006-07-14)
+
+Nr.
+
+XI-109,
+
+2008-12-23, Žin., 2008, Nr. 149-6031 (2008-12-30)
 
 Šio įstatymo 4 straipsnis ir įstatymo 1
 
@@ -435,7 +443,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-XI-110, 2008-12-23, Žin., 2008, Nr. 149-6032 (2008-12-30)
+XI-110,
+
+2008-12-23, Žin., 2008, Nr. 149-6032 (2008-12-30)
 
 KELIŲ PRIEŽIŪROS IR PLĖTROS
 
@@ -464,6 +474,26 @@ PRIEDĖLIŲ PAKEITIMO ĮSTATYMAS
 Šis
 
 įstatymas įsigalioja 2009 m. sausio 1 d.
+
+17.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-109,
+
+2008-12-23, Žin., 2008, Nr. 149-6031 (2008-12-30)
+
+KELIŲ
+
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 3 IR 5 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2009-01-01.
 
 ***
 
@@ -649,9 +679,9 @@ keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į (iš) Kuršių ne
 
 neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
 
-11 straipsnis. Programos
+11 straipsnis.
 
-finansavimo garantijos
+Programos finansavimo garantijos
 
 1. Programos
 
@@ -689,15 +719,13 @@ finansavimo
 
 įstatymo
 
-1 priedėlis
+1
+
+priedėlis
 
 1 priedėlis neteko galios nuo 2005 m.
 
 liepos 1 d.
-
-2
-
-priedėlio redakcija nuo 2007 m. liepos 1 d.:
 
 Lietuvos
 
@@ -811,9 +839,9 @@ Krovininių transporto priemonių
 
 junginys – N3O4 nuo 40 t (įskaitytinai) iki 44 t
 
-bendrosios masės vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20,
+bendrosios masės vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20, 30,
 
-30, 40, 45 pėdų konteinerius (pagamintus pagal ISO standartus)
+40, 45 pėdų konteinerius (pagamintus pagal ISO standartus)
 
 *
 
@@ -827,19 +855,15 @@ bendrosios masės vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20,
 
 ašis (ašys) su pneumatine pakaba
 
-** kai yra kita ašies (ašių) pakabų
+**
 
-sistema
+kai yra kita ašies (ašių) pakabų sistema
 
 Priedėlio pakeitimas:
 
 Nr. X-1177,
 
 2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
-
-3
-
-priedėlio redakcija nuo 2007 m. liepos 1 d.:
 
 Lietuvos
 
@@ -866,6 +890,10 @@ RESPUBLIKOJE, UŽSIENIO ŠALYSE, TARP JŲ IR EUROPOS SĄJUNGOS VALSTYBĖSE NARĖ
 ĮREGISTRUOTŲ TRANSPORTO PRIEMONIŲ SAVININKŲ AR VALDYTOJŲ NAUDOTOJO MOKESČIO
 
 RIBINIAI TARIFAI
+
+1 punkto redakcija iki 2009 m.
+
+sausio 1 d.:
 
 1. Lietuvos
 
@@ -955,34 +983,6 @@ daugiau kaip 22 keleiviai, neskaitant vairuotojo
 
 20–27
 
-3
-
-priedėlio tęsinys
-
-Transporto
-
-priemonės tipas, kategorijos, klasės ir grupės
-
-Ribiniai
-
-tarifai (litais)
-
-metų tarifo
-
-ribos
-
-mėnesio tarifo
-
-ribos
-
-savaitės
-
-tarifo ribos
-
-dienos tarifo
-
-ribos
-
 Krovininės
 
 kelių transporto priemonės (tarp jų priekabos, puspriekabės) ir jų junginiai
@@ -1071,6 +1071,242 @@ atlikti, bet ne kroviniams vežti
 
 20–27
 
+1 punkto redakcija nuo 2009 m.
+
+sausio 1 d.:
+
+1. Lietuvos Respublikoje,
+
+užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotų
+
+transporto priemonių savininkų ar valdytojų naudotojo mokesčio ribiniai tarifai
+
+Transporto
+
+priemonės tipas, kategorijos, klasės ir grupės, emisijos klasės*
+
+Ribiniai
+
+tarifai (litais)
+
+metų tarifo
+
+ribos
+
+mėnesio tarifo
+
+ribos
+
+savaitės
+
+tarifo ribos
+
+dienos tarifo
+
+ribos
+
+Auto-busai
+
+M2
+
+transporto
+
+priemonė, kuri turi daugiau kaip 8 sėdimas vietas keleiviams ir 1 sėdimą
+
+vietą vairuotojui ir kurios bendroji masė ne didesnė kaip 5 t
+
+500–1800
+
+100–200
+
+50–80
+
+20–37
+
+M3
+
+A
+
+B
+
+transporto priemonė, kuri turi daugiau
+
+kaip 8 sėdimas vietas keleiviams ir 1 sėdimą vietą vairuotojui ir kurios
+
+bendroji masė didesnė kaip 5 t, bet ne daugiau kaip 22 vietos keleiviams,
+
+neskaitant vairuotojo
+
+600–1800
+
+150–300
+
+60–140
+
+20–37
+
+M3
+
+I–III
+
+transporto priemonė, kurioje telpa
+
+daugiau kaip 22 keleiviai, neskaitant vairuotojo
+
+700–2600
+
+160–320
+
+80–160
+
+20–37
+
+Transporto
+
+priemonės tipas, kategorijos, klasės ir grupės, emisijos klasės*
+
+Ribiniai
+
+tarifai (litais)
+
+metų tarifo
+
+ribos
+
+mėnesio tarifo
+
+ribos
+
+savaitės
+
+tarifo
+
+ribos
+
+dienos tarifo
+
+ribos
+
+Krovini-nės
+
+kelių transpor-to priemo-nės ir jų junginiai
+
+N1
+
+O2
+
+iki
+
+3,5 t (įskaitytinai) bendrosios masės
+
+600–1800
+
+100–200
+
+50–80
+
+20–37
+
+N2
+
+EURO 0, I, II,
+
+III, IV ir mažiau taršios
+
+transporto
+
+priemonės
+
+O3–O4
+
+nuo
+
+3,5 t iki 12 t (įskaitytinai) bendrosios masės
+
+700–2400
+
+160–400
+
+80–170
+
+20–37
+
+N3
+
+EURO 0, I, II,
+
+III, IV ir mažiau taršios
+
+transporto
+
+priemonės
+
+O4
+
+Nuo
+
+12 t iki 40 t (įskaitytinai) bendrosios masės, o vežant triašiu vilkiku su
+
+dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius (pagamintus
+
+pagal ISO standartus) – iki 44 t bendrosios masės
+
+800–3600
+
+170–400
+
+90–170
+
+20–37
+
+N1–N3
+
+EURO 0, I, II,
+
+III, IV ir mažiau taršios
+
+transporto
+
+priemonės
+
+O2–O4
+
+iki
+
+16 t (įskaitytinai) transporto priemonių savininkai – žemės ūkio veiklos
+
+subjektai
+
+300–1200
+
+80–200
+
+40–80
+
+20–37
+
+Specialios
+
+kelių transporto priemonės
+
+skirtos
+
+specialioms darbo funkcijoms atlikti, bet ne kroviniams vežti
+
+300–1200
+
+80–200
+
+40–80
+
+20–37
+
+* Transporto
+
+priemonių emisijos klasės pagal motorinių transporto priemonių variklių
+
+išmetamųjų dujinių ir kietųjų dalelių teršalų normas.
+
 2.
 
 Specialios kelių transporto priemonės, skirtos specialiems darbams atlikti,
@@ -1105,17 +1341,17 @@ automobiliai-parduotuvės;
 
 automobiliai-televizijos stotys;
 
-8)
+8) automobiliai-radijo
 
-automobiliai-radijo stotys;
+stotys;
 
 9)
 
 kinofikacijos, parodų, bibliotekų automobiliai;
 
-10) asenizaciniai
+10)
 
-automobiliai;
+asenizaciniai automobiliai;
 
 11) kelių valymo
 
@@ -1153,15 +1389,17 @@ kitos), kurios pagal savo konstrukciją ir įrangą skirtos kroviniams vežti,
 
 priskiriamos prie krovininių transporto priemonių.
 
-Priedėlio pakeitimas:
+Priedėlio
+
+pakeitimai:
 
 Nr. X-1177,
 
 2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
 
-4
+Nr. X-1604,
 
-priedėlio redakcija nuo 2007 m. liepos 1 d.:
+2008-06-17, Žin., 2008, Nr. 75-2919 (2008-07-03)
 
 Lietuvos
 
@@ -1180,6 +1418,10 @@ finansavimo
 4
 
 priedėlis
+
+I skirsnio redakcija iki 2009
+
+m. sausio 1 d.:
 
 I.
 
@@ -1335,9 +1577,163 @@ darbų, kuriuos būtina atlikti, kad galima būtų leisti būtent tai transporto
 
 priemonei (jų junginiui) važiuoti leidime nurodytu maršrutu, vertė.
 
-4
+I skirsnio redakcija nuo 2009
 
-priedėlio tęsinys
+m. sausio 1 d.:
+
+I. MOKESČIO UŽ
+
+VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE IR UŽSIENIO ŠALYSE, tarp jų ir Europos Sąjungos valstybėse narėse,
+
+ĮREGISTRUOTOMIS TRANSPORTO PRIEMONĖMIS (JŲ JUNGINIAIS), KURIŲ MATMENYS SU
+
+KROVINIU AR BE JO VIRŠIJA LEIDŽIAMUS, RIBINIAI TARIFAI
+
+Leidžiami
+
+matmenys viršyti
+
+(cm)
+
+Ribiniai
+
+tarifai (litais)
+
+aukščio
+
+pločio
+
+ilgio
+
+vienkar-tiniai,
+
+10 km
+
+mėnesio
+
+metų
+
+savival-dybės
+
+teritori-joje
+
+šalies
+
+terito-rijoje
+
+savivaldy-bės
+
+teritorijoje
+
+šalies
+
+teritorijoje
+
+10–20
+
+5,0–6,0
+
+233–280
+
+583–642
+
+1165–1400
+
+2915–3210
+
+11–20
+
+21–40
+
+101–200
+
+6,1–7,0
+
+285–327
+
+712–817
+
+1425–1635
+
+3560–4085
+
+21–30
+
+41–60
+
+201–300
+
+7,1–7,5
+
+331–350
+
+828–875
+
+1659–1750
+
+4140–4375
+
+31–40
+
+61–80
+
+301–400
+
+7,6–8,0
+
+355–373
+
+887–933
+
+1775–1865
+
+4435–4665
+
+41–50
+
+81–100
+
+401–500
+
+8,1–8,5
+
+378–397
+
+945–992
+
+1890–1985
+
+4725–4960
+
+Jei lentelėje
+
+nurodyti transporto priemonės (jų junginio) maksimalūs matmenys viršijami
+
+(aukštis – daugiau nei 50 cm, plotis – daugiau nei 100 cm, ilgis – daugiau nei
+
+500 cm), transporto priemonė tampa ypač pavojinga saugiam eismui. Tokioms
+
+transporto priemonėms (jų junginiams) taikomas vienkartinis mokestis, kuris
+
+apskaičiuojamas taip: prie maksimalaus ribinio tarifo pridedamas papildomas
+
+vieno lito mokestis už kiekvieno atitinkamo matmens viršijimą, t. y. už
+
+kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1 m,
+
+ir dauginama iš koeficiento 1,5. Visais atvejais, jei viršijami du ar visi trys
+
+matmenys, mokestis nustatomas sumuojant mokesčius už atskirų matmenų viršijimą.
+
+Kai transporto priemonės (jų junginio) matmenys viršija lentelėje nurodytus
+
+maksimalius, būtina gauti atskirą leidimą, kurį išduodant pridedamas papildomas
+
+mokestis už maršruto paruošimą, t. y. apskaičiuojama darbų, kuriuos būtina
+
+atlikti, kad galima būtų leisti būtent tai transporto priemonei (jų junginiui)
+
+važiuoti leidime nurodytu maršrutu, vertė.
 
 II. Mokesčio už VAŽIAVIMĄ KELIAIS Lietuvos Respublikoje ir užsienio
 
@@ -1453,15 +1849,15 @@ mokestį leidžiama važiuoti tik tais keliais, kurie nurodyti leidimus
 
 išduodančios institucijos patvirtintame sąraše.
 
-2. Jei
+2. Jei transporto
 
-transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant
+priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant triašiu
 
-triašiu vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų
+vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius,
 
-konteinerius, pagamintus pagal ISO standartus, − 44 t), nustatomi mokesčio
+pagamintus pagal ISO standartus, − 44 t), nustatomi mokesčio ribiniai tarifai,
 
-ribiniai tarifai, kurie nurodyti šio priedo III skirsnyje.
+kurie nurodyti šio priedo III skirsnyje.
 
 3. Triašiu
 
@@ -1476,10 +1872,6 @@ Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidim
 ašies (ašių) faktiška apkrova ir faktiškas transporto priemonės (jų junginio)
 
 svoris viršija leidžiamus, nustatomas tas mokesčio dydis, kuris yra didesnis.
-
-4
-
-priedėlio tęsinys
 
 III. MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS
 
@@ -1525,6 +1917,10 @@ iki 10,0
 
 5,00–6,00“
 
+2 punkto redakcija iki 2009 m.
+
+sausio 1 d.:
+
 2.
 
 Triašiu puspriekabių vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45
@@ -1535,6 +1931,18 @@ magistraliniais keliais. Vežant šiuos konteinerius kitais keliais, būtina gau
 
 kelio savininko leidimą.
 
+2 punkto redakcija nuo 2009 m.
+
+sausio 1 d.:
+
+2. Triašiu
+
+vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius,
+
+pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais.
+
+Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą.
+
 3.
 
 Kai ašies (ašių) faktiška apkrova ir faktiška transporto priemonės (jų
@@ -1543,11 +1951,17 @@ junginio) bendroji masė viršija leidžiamą, nustatomas tas mokesčio dydis, k
 
 yra didesnis.
 
-Priedėlio pakeitimas:
+Priedėlio
+
+pakeitimai:
 
 Nr. X-1177,
 
 2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
+
+Nr. X-1604,
+
+2008-06-17, Žin., 2008, Nr. 75-2919 (2008-07-03)
 
 Lietuvos
 
@@ -1597,9 +2011,9 @@ Rajoniniai
 
 Įvairiems darbams kelio juostoje su
 
-važiuojamosios dalies asfaltbetonio (cementbetonio) danga dirbti iki trijų
+važiuojamosios dalies asfaltbetonio (cementbetonio) danga dirbti iki trijų parų
 
-parų imtinai, nepažeidžiant kelio važiuojamosios dalies
+imtinai, nepažeidžiant kelio važiuojamosios dalies
 
 279
 
@@ -1681,30 +2095,6 @@ iš dalies uždaromas (ribojamas greitis)
 
 82
 
-5 priedėlio
-
-tęsinys
-
-Eil.
-
-Nr.
-
-Darbų atvejai
-
-Tarifai
-
-(litais)
-
-Valstybinės
-
-reikšmės keliai
-
-Magist-raliniai
-
-Krašto
-
-Rajoniniai
-
 7.
 
 Įvairių
@@ -1751,7 +2141,7 @@ važiuojamąją dalį (1 parai 1 km ar 1 parai 1 vietai)
 
 Kai visiškai uždaromas kelias, eismas
 
-nukreipiamas apylanka kitais keliais (1 parai 1 apylankos km)
+nukreipiamas apylanka kitais keliais (1 parai 1 apylankos km)
 
 –
 
@@ -1771,11 +2161,11 @@ lentelėje nurodyti darbai nebaigiami nurodytu laiku ir:
 
 3.1.
 
-užtrunka iki 9 parų – mokestis didinamas 3 kartus;
+užtrunka iki 9 parų – mokestis didinamas 3 kartus;
 
 3.2.
 
-užtrunka iki 1 mėnesio – mokestis didinamas 6 kartus;
+užtrunka iki 1 mėnesio – mokestis didinamas 6 kartus;
 
 3.3.
 
@@ -1799,17 +2189,13 @@ tie darbai susiję su kelio dangos ardymu, nuo lapkričio 1 d. iki gegužės 1d.
 
 važiuojamojoje kelio dalyje, kai asfaltbetonio danga paklota mažiau kaip prieš
 
-5 metus.
+5 metus.
 
-5 priedėlio pakeitimas:
+Priedėlio pakeitimas:
 
 Nr. X-884, 2006-11-09,
 
 Žin., 2006, Nr. 127-4820 (2006-11-25)
-
-6
-
-priedėlio redakcija nuo 2007 m. liepos 1 d.:
 
 Lietuvos
 
@@ -1831,21 +2217,25 @@ priedėlis
 
 ĮGYVENDINAMI Europos Sąjungos TEISĖS AKTAI
 
-1.
+1. 1996 m.
 
-1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų
+liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje
 
-Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto
+nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių
 
-priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų
+didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių
 
-kelių transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis
+transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas,
 
-leidimas, 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais
+7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2002 m.
 
-2002 m. vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL
+vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL 2004 m.
 
-2004 m. specialusis leidimas, 7 skyrius, 6 tomas, p. 85).
+specialusis leidimas, 7 skyrius, 6 tomas, p. 85).
+
+2 punkto redakcija iki 2009 m. sausio
+
+1 d.:
 
 2. 1999 m.
 
@@ -1857,11 +2247,33 @@ tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p.
 
 372).
 
-Priedėlio pakeitimas:
+2 punkto redakcija nuo 2009 m.
+
+sausio 1 d.:
+
+2. 1999 m.
+
+birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl
+
+sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam
+
+tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4
+
+tomas, p. 372), su paskutiniais pakeitimais, padarytais 2006 m. gegužės 17 d.
+
+Europos Parlamento ir Tarybos direktyva 2006/38/EB (OL 2006 L 157, p. 8).
+
+Priedėlio
+
+pakeitimai:
 
 Nr. X-1177,
 
 2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
+
+Nr. X-1604,
+
+2008-06-17, Žin., 2008, Nr. 75-2919 (2008-07-03)
 
 __________________
 
@@ -3337,9 +3749,9 @@ rikiuotės ir transportavimo grupėms, ir savivaldybių priešgaisrinės tarnybo
 
 transporto priemonėmis;
 
-2) specialiai
+2) specialiai neįgaliesiems
 
-neįgaliesiems pritaikytomis transporto priemonėmis, priklausančiomis savivaldybių
+pritaikytomis transporto priemonėmis, priklausančiomis savivaldybių
 
 institucijoms ir nevalstybinėms neįgaliųjų organizacijoms;
 
@@ -3349,11 +3761,11 @@ greitosios medicinos pagalbos ir reanimacijos automobiliais;
 
 4) specialiai
 
-moksleivių (vaikų) pavėžėjimui pritaikytomis transporto priemonėmis (autobusais),
+moksleivių (vaikų) pavėžėjimui pritaikytomis transporto priemonėmis
 
-priklausančiomis savivaldybių švietimo įstaigoms ir (ar) savivaldybių
+(autobusais), priklausančiomis savivaldybių švietimo įstaigoms ir (ar)
 
-kontroliuojamoms įmonėms;
+savivaldybių kontroliuojamoms įmonėms;
 
 5) transporto
 
@@ -3451,21 +3863,21 @@ straipsnis. Kiti Programos finansavimo šaltiniai
 
 eismo ribojimą magistraliniuose, krašto, rajoninės reikšmės keliuose dirbant
 
-įvairius darbus keliuose, kelių juostose ar jų apsaugos zonose,
+įvairius darbus keliuose, kelių juostose ar jų apsaugos
 
-rengiant įvairius masinius (pvz., sporto ir kitus) renginius, kai ribojamas ar
+zonose, rengiant įvairius masinius (pvz., sporto ir kitus) renginius, kai
 
-uždaromas eismas, dydžiai nurodyti šio įstatymo 5 priedėlyje. Šio mokesčio
+ribojamas ar uždaromas eismas, dydžiai nurodyti šio įstatymo 5 priedėlyje. Šio
 
-mokėjimo, administravimo ir kontrolės tvarką nustato Susisiekimo ministerija.
+mokesčio mokėjimo, administravimo ir kontrolės tvarką nustato Susisiekimo
 
-Mokestis už eismo ribojimą valstybinės reikšmės keliuose nemokamas, kai darbai
+ministerija. Mokestis už eismo ribojimą valstybinės reikšmės keliuose
 
-atliekami iš Programos finansavimo lėšų bei įrengiant, rekonstruojant ar
+nemokamas, kai darbai atliekami iš Programos finansavimo lėšų bei įrengiant,
 
-taisant (remontuojant) melioracijos sistemas kelių apsaugos zonoje, kai
+rekonstruojant ar taisant (remontuojant) melioracijos sistemas kelių apsaugos
 
-nepažeidžiama kelio sankasa ir (ar) kiti kelio statiniai.
+zonoje, kai nepažeidžiama kelio sankasa ir (ar) kiti kelio statiniai.
 
 2. Į
 
@@ -3497,11 +3909,11 @@ apmokėti, kelių informacinėms sistemoms kurti, kelių infrastruktūros plėtr
 
 bendradarbiavimui su užsienio valstybėmis, teisės aktams ir norminiams
 
-dokumentams rengti, institucijų, atsakingų už valstybinės reikšmės kelius,
+dokumentams rengti, institucijų, atsakingų už valstybinės reikšmės kelius, išlaikymo
 
-išlaikymo išlaidoms apmokėti bei kontrolės įrangai įsigyti, paskoloms grąžinti
+išlaidoms apmokėti bei kontrolės įrangai įsigyti, paskoloms grąžinti bei
 
-bei palūkanoms mokėti, mokesčių administravimui bei jų surinkimo kontrolei,
+palūkanoms mokėti, mokesčių administravimui bei jų surinkimo kontrolei,
 
 istorinėms kelių vertybėms išsaugoti, saugaus eismo programoms keliuose ir jų
 
@@ -3581,1813 +3993,13 @@ pakeitimai:
 
 Nr. X-1402,
 
-2007-12-20, Žin., 2007, Nr. 140-5761 (2007-12-29)
+2007-12-20, Žin., 2007, Nr. 140-5761 (2007-12-29)Įstatymas neteko galios nuo
 
-Nr. XI-110, 2008-12-23, Žin., 2008, Nr. 149-6032
+2008-12-30.
 
-(2008-12-30)
+Nr. XI-110,
+
+2008-12-23, Žin., 2008, Nr. 149-6032 (2008-12-30)
 
 **Pastaba: grąžinta nuostata.
-
-11
-
-straipsnis. Programos finansavimo garantijos
-
-1. Programos
-
-finansavimo pajamos ir išlaidos, vadovaujantis Biudžeto sandaros įstatymo
-
-nustatytais specialiųjų programų finansavimo principais, planuojamos valstybės
-
-biudžete.
-
-2. Programos
-
-finansavimo lėšos negali būti naudojamos kitoms valstybės reikmėms,
-
-nenumatytoms šio įstatymo 10 straipsnyje, finansuoti.
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                                                   VALDAS ADAMKUS
-
-Lietuvos
-
-Respublikos
-
-kelių
-
-priežiūros ir plėtros
-
-programos
-
-finansavimo
-
-įstatymo
-
-1
-
-priedėlis
-
-1 priedėlis neteko galios nuo 2005 m.
-
-liepos 1 d.
-
-Lietuvos
-
-Respublikos
-
-kelių
-
-priežiūros ir plėtros
-
-programos
-
-finansavimo
-
-įstatymo
-
-2
-
-priedėlis
-
-MOKESČIO UŽ LIETUVOS RESPUBLIKOJE ĮREGISTRUOTAS
-
-KROVININES TRANSPORTO PRIEMONES RIBINIAI TARIFAI
-
-Transporto
-
-priemonių savininkų ar valdytojų kasmetinio mokesčio už Lietuvos Respublikoje
-
-įregistruotas krovinines transporto priemones ribiniai tarifai:
-
-Transporto priemonės tipas
-
-Ribiniai tarifai (litais)
-
-N2/N3
-
-kategorijų krovininės kelių transporto priemonės, tarp jų priekabos,
-
-O4 klasės
-
-puspriekabės
-
-nuo
-
-12 t (įskaitytinai) iki 15 t bendrosios masės*
-
-300–620
-
-nuo
-
-12 t (įskaitytinai) iki 15 t bendrosios masės**
-
-440–880
-
-nuo
-
-15 t (įskaitytinai) iki 23 t bendrosios masės*
-
-440–1040
-
-nuo
-
-15 t (įskaitytinai) iki 23 t bendrosios masės**
-
-990–1980
-
-nuo
-
-23 t (įskaitytinai) iki 29 t bendrosios masės*
-
-820–1640
-
-nuo
-
-23 t (įskaitytinai) iki 29 t bendrosios masės**
-
-1300–2600
-
-nuo
-
-29 t (įskaitytinai) iki 33 t bendrosios masės*
-
-1300–2600
-
-nuo
-
-29 t (įskaitytinai) iki 33 t bendrosios masės**
-
-1930–3870
-
-nuo
-
-33 t (įskaitytinai) iki 40 t bendrosios masės*
-
-1850–3700
-
-nuo
-
-33 t (įskaitytinai) iki 40 t bendrosios masės**
-
-2540–5080
-
-Transporto
-
-priemonės tipas
-
-Ribiniai
-
-tarifai
-
-Krovininių transporto priemonių
-
-junginys – N3O4 nuo 40 t (įskaitytinai) iki 44 t
-
-bendrosios masės vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20,
-
-30, 40, 45 pėdų konteinerius (pagamintus pagal ISO standartus)
-
-*
-
-2260–4520
-
-**
-
-3340–6690
-
-*   kai
-
-ašis (ašys) su pneumatine pakaba
-
-**
-
-kai yra kita ašies (ašių) pakabų sistema
-
-Priedėlio pakeitimas:
-
-Nr. X-1177,
-
-2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
-
-Lietuvos
-
-Respublikos
-
-kelių
-
-priežiūros ir plėtros
-
-programos
-
-finansavimo
-
-įstatymo
-
-3
-
-priedėlis
-
-LIETUVOS
-
-RESPUBLIKOJE, UŽSIENIO ŠALYSE, TARP JŲ IR EUROPOS SĄJUNGOS VALSTYBĖSE NARĖSE,
-
-ĮREGISTRUOTŲ TRANSPORTO PRIEMONIŲ SAVININKŲ AR VALDYTOJŲ NAUDOTOJO MOKESČIO
-
-RIBINIAI TARIFAI
-
-1 punkto redakcija iki 2009 m.
-
-sausio 1 d.:
-
-1. Lietuvos
-
-Respublikoje, užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse,
-
-įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio
-
-ribiniai tarifai:
-
-Transporto
-
-priemonės tipas, kategorijos, klasės ir grupės
-
-Ribiniai
-
-tarifai (litais)
-
-metų tarifo
-
-ribos
-
-mėnesio tarifo
-
-ribos
-
-savaitės
-
-tarifo ribos
-
-dienos tarifo
-
-ribos
-
-Autobusai
-
-M2
-
-transporto
-
-priemonė, kuri turi daugiau kaip 8 sėdimas vietas kelei-viams ir 1 sėdimą
-
-vietą vairuotojui ir kurios bendroji masė ne didesnė kaip 5 t
-
-500–1800
-
-100–200
-
-50–80
-
-20–27
-
-M3
-
-A
-
-B
-
-transporto priemonė, kuri turi daugiau
-
-kaip 8 sėdimas vietas kelei-viams ir 1 sėdimą vietą vairuotojui ir kurios
-
-bendroji masė didesnė kaip 5 t, bet ne daugiau kaip 22 vietos kelei-viams,
-
-neskaitant vai-ruotojo
-
-600–1800
-
-150–300
-
-60–140
-
-20–27
-
-M3
-
-I–III
-
-transporto priemonė, kurioje telpa
-
-daugiau kaip 22 keleiviai, neskaitant vairuotojo
-
-700–2600
-
-160–320
-
-80–160
-
-20–27
-
-Krovininės
-
-kelių transporto priemonės (tarp jų priekabos, puspriekabės) ir jų junginiai
-
-N1
-
-O2
-
-iki 3,5 t (įskaitytinai) bendrosios
-
-masės
-
-600–1800
-
-100–200
-
-50–80
-
-20–27
-
-N2
-
-O3–O4
-
-nuo 3,5 t iki 12 t (įskaitytinai)
-
-bendrosios masės
-
-700–2400
-
-160–400
-
-80–170
-
-20–27
-
-N3
-
-O4
-
-Nuo 12 t iki 40 t (įskaitytinai)
-
-bendrosios masės, o vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20,
-
-30, 40, 45 pėdų konteinerius (pagamintus pagal ISO standartus) – iki
-
-44 t bendrosios masės
-
-800–3600
-
-170–400
-
-90–170
-
-20–27
-
-N1–N3
-
-O2–O4
-
-iki 16 t (įskaitytinai) transporto
-
-priemonių savininkai – žemės ūkio veiklos subjektai
-
-300–1200
-
-80–200
-
-40–80
-
-20–27
-
-Specia-lios
-
-kelių transpor-to prie-monės
-
-skirtos specialioms darbo funkcijoms
-
-atlikti, bet ne kroviniams vežti
-
-300–1200
-
-80–200
-
-40–80
-
-20–27
-
-1 punkto redakcija nuo 2009 m.
-
-sausio 1 d.:
-
-1. Lietuvos
-
-Respublikoje, užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse,
-
-įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio
-
-ribiniai tarifai
-
-Transporto
-
-priemonės tipas, kategorijos, klasės ir grupės, emisijos klasės*
-
-Ribiniai
-
-tarifai (litais)
-
-metų tarifo
-
-ribos
-
-mėnesio tarifo
-
-ribos
-
-savaitės
-
-tarifo ribos
-
-dienos tarifo
-
-ribos
-
-Auto-busai
-
-M2
-
-transporto
-
-priemonė, kuri turi daugiau kaip 8 sėdimas vietas keleiviams ir 1 sėdimą
-
-vietą vairuotojui ir kurios bendroji masė ne didesnė kaip 5 t
-
-500–1800
-
-100–200
-
-50–80
-
-20–37
-
-M3
-
-A
-
-B
-
-transporto priemonė, kuri turi daugiau
-
-kaip 8 sėdimas vietas keleiviams ir 1 sėdimą vietą vairuotojui ir kurios bendroji
-
-masė didesnė kaip 5 t, bet ne daugiau kaip 22 vietos keleiviams, neskaitant
-
-vairuotojo
-
-600–1800
-
-150–300
-
-60–140
-
-20–37
-
-M3
-
-I–III
-
-transporto priemonė, kurioje telpa
-
-daugiau kaip 22 keleiviai, neskaitant vairuotojo
-
-700–2600
-
-160–320
-
-80–160
-
-20–37
-
-Transporto
-
-priemonės tipas, kategorijos, klasės ir grupės, emisijos klasės*
-
-Ribiniai
-
-tarifai (litais)
-
-metų tarifo
-
-ribos
-
-mėnesio tarifo
-
-ribos
-
-savaitės
-
-tarifo
-
-ribos
-
-dienos tarifo
-
-ribos
-
-Krovini-nės
-
-kelių transpor-to priemo-nės ir jų junginiai
-
-N1
-
-O2
-
-iki
-
-3,5 t (įskaitytinai) bendrosios masės
-
-600–1800
-
-100–200
-
-50–80
-
-20–37
-
-N2
-
-EURO 0, I, II,
-
-III, IV ir mažiau taršios
-
-transporto
-
-priemonės
-
-O3–O4
-
-nuo
-
-3,5 t iki 12 t (įskaitytinai) bendrosios masės
-
-700–2400
-
-160–400
-
-80–170
-
-20–37
-
-N3
-
-EURO 0, I, II,
-
-III, IV ir mažiau taršios
-
-transporto
-
-priemonės
-
-O4
-
-Nuo
-
-12 t iki 40 t (įskaitytinai) bendrosios masės, o vežant triašiu vilkiku su
-
-dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius (pagamintus
-
-pagal ISO standartus) – iki 44 t bendrosios masės
-
-800–3600
-
-170–400
-
-90–170
-
-20–37
-
-N1–N3
-
-EURO 0, I, II,
-
-III, IV ir mažiau taršios
-
-transporto
-
-priemonės
-
-O2–O4
-
-iki
-
-16 t (įskaitytinai) transporto priemonių savininkai – žemės ūkio veiklos
-
-subjektai
-
-300–1200
-
-80–200
-
-40–80
-
-20–37
-
-Specialios
-
-kelių transporto priemonės
-
-skirtos
-
-specialioms darbo funkcijoms atlikti, bet ne kroviniams vežti
-
-300–1200
-
-80–200
-
-40–80
-
-20–37
-
-* Transporto
-
-priemonių emisijos klasės pagal motorinių transporto priemonių variklių
-
-išmetamųjų dujinių ir kietųjų dalelių teršalų normas.
-
-2. Specialios
-
-kelių transporto priemonės, skirtos specialiems darbams atlikti, yra:
-
-1)
-
-automobiliniai kranai;
-
-2)
-
-automobiliniai keltuvai;
-
-3) automobiliai
-
-su gręžimo įranga;
-
-4) automobiliai
-
-su laboratorijų įranga;
-
-5)
-
-automobiliai-techninės pagalbos dirbtuvės;
-
-6)
-
-automobiliai-parduotuvės;
-
-7)
-
-automobiliai-televizijos stotys;
-
-8)
-
-automobiliai-radijo stotys;
-
-9)
-
-kinofikacijos, parodų, bibliotekų automobiliai;
-
-10)
-
-asenizaciniai automobiliai;
-
-11) kelių valymo
-
-automobiliai;
-
-12)
-
-šiukšliavežės ir šiukšlių rinkimo automobiliai;
-
-13) automobiliai, naudojami tik
-
-karjeruose;
-
-14)
-
-automobiliai, naudojami tik oro uostuose;
-
-15) mokomieji
-
-automobiliai;
-
-16) automobiliai-ekskavatoriai,
-
-buldozeriai;
-
-17) kiti
-
-specialiems darbams ir technologiniams procesams atlikti skirti automobiliai.
-
-3. Kelių
-
-transporto priemonės (savivarčiai, betonvežiai, naftovežiai, benzinvežiai ir
-
-kitos), kurios pagal savo konstrukciją ir įrangą skirtos kroviniams vežti,
-
-priskiriamos prie krovininių transporto priemonių.
-
-Priedėlio
-
-pakeitimai:
-
-Nr. X-1177,
-
-2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
-
-Nr. X-1604,
-
-2008-06-17, Žin., 2008, Nr. 75-2919 (2008-07-03)
-
-Lietuvos
-
-Respublikos
-
-kelių
-
-priežiūros ir plėtros
-
-programos
-
-finansavimo
-
-įstatymo
-
-4
-
-priedėlis
-
-I skirsnio redakcija iki 2009
-
-m. sausio 1 d.:
-
-I.
-
-MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE IR UŽSIENIO ŠALYSE, tarp jų ir Europos Sąjungos valstybėse narėse,
-
-ĮREGISTRUOTOMIS TRANSPORTO PRIEMONĖMIS (JŲ JUNGINIAIS), KURIŲ MATMENYS SU
-
-KROVINIU AR BE JO VIRŠIJA LEIDŽIAMUS, RIBINIAI TARIFAI
-
-Leidžiami
-
-matmenys viršyti
-
-(cm)
-
-Ribiniai
-
-tarifai (litais)
-
-aukščio
-
-pločio
-
-Ilgio
-
-vienkar-tiniai,
-
-10 km
-
-mėnesio
-
-metų
-
-savival-dybės
-
-teritori-joje
-
-šalies
-
-terito-rijoje
-
-savivaldy-bės
-
-teritorijoje
-
-šalies
-
-teritorijoje
-
-10–20
-
-5,0–6,0
-
-233–280
-
-583–642
-
-1165–1400
-
-2915–3210
-
-11–20
-
-21–40
-
-101–200
-
-6,1–7,0
-
-285–327
-
-712–817
-
-1425–1635
-
-3560–4085
-
-21–30
-
-41–60
-
-201–300
-
-7,1–7,5
-
-331–350
-
-828–875
-
-1659–1750
-
-4140–4375
-
-31–40
-
-61–80
-
-301–400
-
-7,6–8,0
-
-355–373
-
-887–933
-
-1775–1865
-
-4435–4665
-
-41–50
-
-81–100
-
-401–500
-
-8,1–8,5
-
-378–397
-
-945–992
-
-1890–1985
-
-4725–4960
-
-Jei lentelėje
-
-nurodyti transporto priemonės (jų junginio) maksimalūs matmenys viršijami
-
-(aukštis – daugiau nei 50 cm, plotis – daugiau nei 100 cm, ilgis – daugiau nei
-
-500 cm), transporto priemonė tampa ypač pavojinga saugiam eismui. Tokioms
-
-transporto priemonėms (jų junginiams) taikomas vienkartinis mokestis, kuris
-
-apskaičiuojamas taip: prie maksimalaus ribinio tarifo pridedamas papildomas
-
-vieno lito mokestis už kiekvieno atitinkamo matmens viršijimą, t. y. už
-
-kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1
-
-m, ir dauginama iš koeficiento 1,5. Visais atvejais, jei viršijami du ar visi
-
-trys matmenys, mokestis nustatomas sumuojant lentelėje nurodytus mokesčius už
-
-atskirų matmenų viršijimą. Kai transporto priemonės (jų junginio) matmenys
-
-viršija lentelėje nurodytus maksimalius, būtina gauti atskirą leidimą, kurį
-
-išduodant pridedamas papildomas mokestis už maršruto paruošimą, t. y.
-
-apskaičiuojama darbų, kuriuos būtina atlikti, kad galima būtų leisti būtent tai
-
-transporto priemonei (jų junginiui) važiuoti leidime nurodytu maršrutu, vertė.
-
-I skirsnio redakcija nuo 2009
-
-m. sausio 1 d.:
-
-I. MOKESČIO UŽ
-
-VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE IR UŽSIENIO ŠALYSE, tarp jų ir Europos Sąjungos valstybėse narėse,
-
-ĮREGISTRUOTOMIS TRANSPORTO PRIEMONĖMIS (JŲ JUNGINIAIS), KURIŲ MATMENYS SU
-
-KROVINIU AR BE JO VIRŠIJA LEIDŽIAMUS, RIBINIAI TARIFAI
-
-Leidžiami
-
-matmenys viršyti
-
-(cm)
-
-Ribiniai
-
-tarifai (litais)
-
-aukščio
-
-pločio
-
-ilgio
-
-vienkar-tiniai,
-
-10 km
-
-mėnesio
-
-metų
-
-savival-dybės
-
-teritori-joje
-
-šalies
-
-terito-rijoje
-
-savivaldy-bės
-
-teritorijoje
-
-šalies
-
-teritorijoje
-
-10–20
-
-5,0–6,0
-
-233–280
-
-583–642
-
-1165–1400
-
-2915–3210
-
-11–20
-
-21–40
-
-101–200
-
-6,1–7,0
-
-285–327
-
-712–817
-
-1425–1635
-
-3560–4085
-
-21–30
-
-41–60
-
-201–300
-
-7,1–7,5
-
-331–350
-
-828–875
-
-1659–1750
-
-4140–4375
-
-31–40
-
-61–80
-
-301–400
-
-7,6–8,0
-
-355–373
-
-887–933
-
-1775–1865
-
-4435–4665
-
-41–50
-
-81–100
-
-401–500
-
-8,1–8,5
-
-378–397
-
-945–992
-
-1890–1985
-
-4725–4960
-
-Jei lentelėje
-
-nurodyti transporto priemonės (jų junginio) maksimalūs matmenys viršijami
-
-(aukštis – daugiau nei 50 cm, plotis – daugiau nei 100 cm, ilgis – daugiau nei
-
-500 cm), transporto priemonė tampa ypač pavojinga saugiam eismui. Tokioms
-
-transporto priemonėms (jų junginiams) taikomas vienkartinis mokestis, kuris
-
-apskaičiuojamas taip: prie maksimalaus ribinio tarifo pridedamas papildomas
-
-vieno lito mokestis už kiekvieno atitinkamo matmens viršijimą, t. y. už
-
-kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1
-
-m, ir dauginama iš koeficiento 1,5. Visais atvejais, jei viršijami du ar visi
-
-trys matmenys, mokestis nustatomas sumuojant mokesčius už atskirų matmenų
-
-viršijimą. Kai transporto priemonės (jų junginio) matmenys viršija lentelėje
-
-nurodytus maksimalius, būtina gauti atskirą leidimą, kurį išduodant pridedamas
-
-papildomas mokestis už maršruto paruošimą, t. y. apskaičiuojama darbų, kuriuos
-
-būtina atlikti, kad galima būtų leisti būtent tai transporto priemonei (jų
-
-junginiui) važiuoti leidime nurodytu maršrutu, vertė.
-
-II. Mokesčio už VAŽIAVIMĄ KELIAIS Lietuvos Respublikoje ir užsienio
-
-šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotomis
-
-transporto priemonėmis (jų junginiais), kai viršijama leidžiama ašies (ašių)
-
-apkrova ir (ar) leidžiama bendroji masė, ribiniai tarifai
-
-Leidžiama
-
-ašies (ašių) apkrova viršyta (t)
-
-Ribiniai
-
-tarifai (litais)
-
-vienkartiniai,
-
-10 km
-
-mėnesio
-
-savivaldybės
-
-teritorijoje
-
-šalies
-
-teritorijoje
-
-0,6–1,0
-
-2,40–3,36
-
-168–235
-
-420–588
-
-1,1–1,5
-
-4,80–5,28
-
-336–370
-
-840–924
-
-1,6–2,0
-
-6,72–7,68
-
-470–538
-
-1176–1344
-
-2,1–3,0
-
-12,00–13,32
-
-840–932
-
-2100–2331
-
-3,1–4,0
-
-19,20–21,60
-
-1344–1512
-
-3360–3780
-
-4,1–5,0
-
-26,40–31,20
-
-–
-
-–
-
-5,1–6,0
-
-33,60–38,40
-
-–
-
-–
-
-6,1–7,0
-
-40,80–45,60
-
-–
-
-–
-
-7,1–8,0
-
-įskaitytinai
-
-48,00–55,20
-
-–
-
-–
-
-1. Transporto
-
-priemonėmis (jų junginiais), kurių varančiajai ašiai su suporintais ratais
-
-leidžiama 11,5 tonos ašies apkrova viršijama, sumokėjus atitinkamo dydžio
-
-mokestį leidžiama važiuoti tik tais keliais, kurie nurodyti leidimus
-
-išduodančios institucijos patvirtintame sąraše.
-
-2. Jei
-
-transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o
-
-vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų
-
-konteinerius, pagamintus pagal ISO standartus, − 44 t), nustatomi mokesčio
-
-ribiniai tarifai, kurie nurodyti šio priedo III skirsnyje.
-
-3. Triašiu
-
-vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius,
-
-pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais.
-
-Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą.
-
-4. Kai
-
-ašies (ašių) faktiška apkrova ir faktiškas transporto priemonės (jų junginio)
-
-svoris viršija leidžiamus, nustatomas tas mokesčio dydis, kuris yra didesnis.
-
-III. MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS
-
-RESPUBLIKOJE IR UŽSIENIO ŠALYSE, tarp jų
-
-ir Europos Sąjungos valstybėse narėse, ĮREGISTRUOTOMIS TRANSPORTO
-
-PRIEMONĖMIS (JŲ JUNGINIAIS), KAI VIRŠIJAMA LEIDŽIAMA JŲ BENDROJI MASĖ, RIBINIAI
-
-TARIFAI
-
-1. Jei transporto
-
-priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o vežant 20, 30,
-
-40, 45 pėdų konteinerius, pagamintus pagal ISO standartus, − 44 t), mokamas
-
-mokestis, kurio ribiniai tarifai pateikiami lentelėje:
-
-Leidžiamoji
-
-bendroji masė viršyta (t)
-
-Vienkartiniai
-
-ribiniai tarifai už kiekvieną viršytą toną,
-
-Lt/10 km
-
-iki 10,0
-
-3,00–3,50
-
-11,0–20,0
-
-3,50–4,00
-
-21,0–40,0
-
-4,00–4,50
-
->40
-
-5,00–6,00“
-
-2 punkto redakcija iki 2009 m.
-
-sausio 1 d.:
-
-2.
-
-Triašiu puspriekabių vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45
-
-pėdų konteinerius, pagamintus pagal ISO standartus, leidžiama vežti tik
-
-magistraliniais keliais. Vežant šiuos konteinerius kitais keliais, būtina gauti
-
-kelio savininko leidimą.
-
-2 punkto redakcija nuo 2009 m.
-
-sausio 1 d.:
-
-2. Triašiu
-
-vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius,
-
-pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais.
-
-Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą.
-
-3.
-
-Kai ašies (ašių) faktiška apkrova ir faktiška transporto priemonės (jų
-
-junginio) bendroji masė viršija leidžiamą, nustatomas tas mokesčio dydis, kuris
-
-yra didesnis.
-
-Priedėlio
-
-pakeitimai:
-
-Nr. X-1177,
-
-2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
-
-Nr. X-1604,
-
-2008-06-17, Žin., 2008, Nr. 75-2919 (2008-07-03)
-
-Lietuvos
-
-Respublikos
-
-kelių
-
-priežiūros ir plėtros
-
-programos
-
-finansavimo
-
-įstatymo
-
-5
-
-priedėlis
-
-Mokesčio
-
-už eismo ribojimą tarifai
-
-1. Mokesčio už eismo ribojimą tarifai:
-
-Eil.
-
-Nr.
-
-Darbų atvejai
-
-Tarifai
-
-(litais)
-
-Valstybinės
-
-reikšmės keliai
-
-Magist-raliniai
-
-Krašto
-
-Rajoniniai
-
-1.
-
-Įvairiems darbams kelio juostoje su
-
-važiuojamosios dalies asfaltbetonio (cementbetonio) danga dirbti iki trijų
-
-parų imtinai, nepažeidžiant kelio važiuojamosios dalies
-
-279
-
-203
-
-128
-
-2.
-
-Įvairiems darbams kelio juostoje su
-
-važiuojamosios dalies žvyro danga dirbti iki trijų parų imtinai,
-
-nepažeidžiant kelio važiuojamosios dalies
-
-–
-
-20
-
-10
-
-3.
-
-Įvairiems darbams kelio važiuojamojoje
-
-dalyje, pažeidžiant asfaltbetonio (cementbetonio) dangą, dirbti iki trijų
-
-parų imtinai ir kai kelias visai uždaromas, o transporto priemonių eismas
-
-nukreipiamas kitais keliais arba įrengiama uždarytos vietos apylanka
-
-3500
-
-2550
-
-1600
-
-4.
-
-Įvairiems darbams kelio važiuojamojoje
-
-dalyje dirbti iki trijų parų imtinai, pažeidžiant žvyro dangą, ir kai kelias
-
-visai uždaromas, o transporto priemonių eismas nukreipiamas kitais keliais
-
-arba įrengiama uždarytos vietos apylanka
-
-–
-
-260
-
-260
-
-5.
-
-Įvairiems darbams kelio važiuojamojoje
-
-dalyje dirbti iki trijų parų imtinai, pažeidžiant asfaltbetonio
-
-(cementbetonio) dangą, ir kai kelias iš dalies uždaromas (ribojamas greitis)
-
-875
-
-638
-
-400
-
-6.
-
-Įvairiems darbams kelio važiuojamojoje
-
-dalyje dirbti iki trijų parų imtinai, pažeidžiant žvyro dangą, ir kai kelias
-
-iš dalies uždaromas (ribojamas greitis)
-
-–
-
-82
-
-82
-
-7.
-
-Įvairių
-
-masinių, sporto renginių ir kitais atvejais trasai paruošti, kai kelias
-
-uždaromas ar apribojamas transporto priemonių eismas:
-
-1
-
-parai 1 km kelio;
-
-1
-
-valandai 1 km kelio
-
-1000
-
-60
-
-600
-
-30
-
-120
-
-7
-
-8.
-
-Kai inžinerinės komunikacijos
-
-klojamos, medžiagos ar įrengimai sandėliuojami kelio juostoje, išskyrus kelio
-
-važiuojamąją dalį (1 parai 1 km ar 1 parai 1 vietai)
-
-100
-
-50
-
-25
-
-9.
-
-Kai visiškai uždaromas kelias, eismas
-
-nukreipiamas apylanka kitais keliais (1 parai 1 apylankos km)
-
-–
-
-10
-
-20
-
-2.
-
-Pratęsiant lentelės 1–6 eilutėse numatytų atlikti darbų trukmę už kiekvienas
-
-kitas tris paras, mokestis už eismo ribojimą didinamas 5 procentais.
-
-3. Jei
-
-lentelėje nurodyti darbai nebaigiami nurodytu laiku ir:
-
-3.1.
-
-užtrunka iki 9 parų – mokestis didinamas 3 kartus;
-
-3.2.
-
-užtrunka iki 1 mėnesio – mokestis didinamas 6 kartus;
-
-3.3.
-
-užtrunka ilgiau kaip 1 mėnesį – mokestis didinamas 10 kartų.
-
-4.
-
-Mokestis dirbti įvairius darbus didinamas 2 kartus, kai darbai atliekami:
-
-4.1.
-
-kelių su keturiomis ir daugiau eismo juostų važiuojamojoje dalyje;
-
-4.2.
-
-gyvenamosiose vietovėse valstybinės reikšmės kelio važiuojamojoje dalyje, kai
-
-tie darbai susiję su kelio dangos ardymu, nuo lapkričio 1 d. iki gegužės 1d.;
-
-4.3.
-
-važiuojamojoje kelio dalyje, kai asfaltbetonio danga paklota mažiau kaip prieš
-
-5 metus.
-
-Priedėlio pakeitimas:
-
-Nr. X-884, 2006-11-09,
-
-Žin., 2006, Nr. 127-4820 (2006-11-25)
-
-Lietuvos
-
-Respublikos
-
-kelių
-
-priežiūros ir plėtros
-
-programos
-
-finansavimo
-
-įstatymo
-
-6
-
-priedėlis
-
-ĮGYVENDINAMI Europos Sąjungos TEISĖS AKTAI
-
-1. 1996 m.
-
-liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje
-
-nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių
-
-didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių
-
-transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas,
-
-7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2002 m.
-
-vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL 2004 m. specialusis
-
-leidimas, 7 skyrius, 6 tomas, p. 85).
-
-2 punkto redakcija iki 2009 m.
-
-sausio 1 d.:
-
-2. 1999 m.
-
-birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl
-
-sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam
-
-tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p.
-
-372).
-
-2 punkto redakcija nuo 2009 m.
-
-sausio 1 d.:
-
-2. 1999 m.
-
-birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl
-
-sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam
-
-tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4
-
-tomas, p. 372), su paskutiniais pakeitimais, padarytais 2006 m. gegužės 17 d.
-
-Europos Parlamento ir Tarybos direktyva 2006/38/EB (OL 2006 L 157, p. 8).
-
-Priedėlio
-
-pakeitimai:
-
-Nr. X-1177,
-
-2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
-
-Nr. X-1604,
-
-2008-06-17, Žin., 2008, Nr. 75-2919 (2008-07-03)
-
-__________________
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-682,
-
-2001-12-21, Žin., 2001, Nr. 112-4089 (2001-12-30)
-
-KELIŲ
-
-PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2002 m. sausio 1 d.
-
-Nauja
-
-įstatymo redakcija
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-840,
-
-2002-04-09, Žin., 2002, Nr. 43-1605 (2002-04-26)
-
-KELIŲ
-
-PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 4 STRAIPSNIO IR 1
-
-PRIEDĖLIO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas taikomas apskaičiuojant
-
-atskaitymus į Programos finansavimo sąskaitą nuo 2002 metų balandžio mėnesio ir
-
-vėlesnių mėnesių pajamų.
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1592,
-
-2003-05-29, Žin., 2003, Nr. 59-2637 (2003-06-20)
-
-KELIŲ
-
-PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2003 m. liepos 1 d.
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1703,
-
-2003-07-04, Žin., 2003, Nr. 69-3122 (2003-07-10)
-
-KELIŲ
-
-PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
-
-5.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1776,
-
-2003-10-14, Žin., 2003, Nr. 104-4646 (2003-11-05)
-
-KELIŲ
-
-PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
-
-6.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2139,
-
-2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
-
-ĮMONIŲ
-
-IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
-
-PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
-
-ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO,
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS
-
-BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
-
-7.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2329,
-
-2004-07-08, Žin., 2004, Nr. 116-4319 (2004-07-27)
-
-KELIŲ
-
-PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO IR
-
-PAPILDYMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2005 m. sausio 1 d.
-
-8.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2386,
-
-2004-07-15, Žin., 2004, Nr. 116-4333 (2004-07-27)
-
-KELIŲ
-
-PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
-
-9.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2546,
-
-2004-11-09, Žin., 2004, Nr. 171-6302 (2004-11-26)
-
-KELIŲ
-
-PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Nauja
-
-įstatymo redakcija
-
-Šis
-
-įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
