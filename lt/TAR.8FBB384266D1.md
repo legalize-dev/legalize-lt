@@ -4,7 +4,7 @@ identifier: "TAR.8FBB384266D1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2007-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2007-01-01 iki 2008-12-31
+Suvestinė redakcija nuo 2009-01-01 iki 2013-08-19
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
 
@@ -40,7 +40,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
-1. Saugios laivybos įstatymas nustato saugios laivybos reikalavimus laivams, plaukiojantiems su Lietuvos valstybės vėliava, bei užsienio laivams, įplaukiantiems į Lietuvos Respublikos jūrų uostus, taip pat reglamentuoja saugios laivybos valstybinę priežiūrą ir administravimą, žmonių ir laivų gelbėjimą, laivų avarijų tyrimą, paskendusio turto iškėlimą bei atsakomybę už saugios laivybos reikalavimų nevykdymą.
+1. Saugios laivybos įstatymas nustato saugios laivybos reikalavimus laivams, plaukiojantiems su Lietuvos valstybės vėliava, bei užsienio laivams, įplaukiantiems į Lietuvos Respublikos jūrų uostus, taip pat reglamentuoja saugios laivybos valstybinę priežiūrą ir administravimą, žmonių paiešką ir gelbėjimą, laivų avarijų tyrimą, paskendusio turto iškėlimą bei atsakomybę už saugios laivybos reikalavimų nevykdymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 2. Šio įstatymo tikslas – įgyvendinant Lietuvos Respublikoje tarptautinės jūrų teisės ir Europos Sąjungos teisės normas saugios laivybos srityje:
 
@@ -70,9 +74,17 @@ BENDROSIOS NUOSTATOS
 
 1. Bendrojo naudojimo vandens keliai – laivybai tinkami vandenys, esantys Lietuvos Respublikos teritorinėje jūroje ir nurodyti jūrlapiuose.
 
-2. Gelbėjimas – bet kokie veiksmai ar veikla, atliekami norint suteikti pagalbą žmonėms, laivui ir (ar) bet kuriam kitam turtui ar išvengti žalingo poveikio aplinkai ar saugiai laivybai Lietuvos Respublikos atsakomybės zonos jūrinėje dalyje.
+2. Žmonių paieška ir gelbėjimas – veiksmai ar veikla, atliekami siekiant nustatyti nelaimės ištiktų asmenų buvimo vietą, išgelbėti juos, suteikti jiems pirminę medicinos ir kitą pagalbą ir nugabenti į saugią vietą.
 
-3. Gelbėjimo vienetas – turintis reikiamas technines priemones ir apmokytą gelbėti personalą vienetas (laivas, orlaivis ar kt.), galintis užtikrinti efektyvų  gelbėjimą ar paieškos vykdymą.
+Straipsnio dalies pakeitimai:
+
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
+
+3. Neteko galios nuo 2009-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. X-1559, 2008-05-22, Žin. 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 4. Greitaeigis laivas – laivas, galintis plaukti maksimaliu greičiu, ne mažesniu už nurodytą 1974 metų tarptautinės žmonių gyvybės apsaugos jūroje konvencijos X skyriaus 1 taisyklės 2 dalyje.
 
@@ -94,9 +106,17 @@ BENDROSIOS NUOSTATOS
 
 13. Laivo kapitonas – jūrininkas, turintis atitinkamą jūrinio laipsnio diplomą ir vadovaujantis laivo įgulai bei valdantis laivą.
 
-14. Lietuvos Respublikos atsakomybės rajonas – Lietuvos jūros rajonas arba kita Baltijos jūros dalis, dėl kurios susitarta su kaimyninėmis valstybėmis pagal 1992 m. Helsinkio konvenciją dėl Baltijos jūros baseino jūrinės aplinkos apsaugos, kurioje Lietuva atsakinga už atsakomųjų veiksmų reaguojant į jūros taršą organizavimą.
+14. Neteko galios nuo 2009-01-01
 
-15. Lietuvos Respublikos atsakomybės zonos jūrinė dalis – Lietuvos paieškos ir gelbėjimo rajonas Baltijos jūroje bei Kuršių marios. Lietuvos Respublikos atsakomybės zonos jūrinė dalis sutampa su Vilniaus skrydžių informacijos rajonu (Vilniaus FIR).
+Straipsnio dalies naikinimas:
+
+Nr. X-1559, 2008-05-22, Žin. 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
+
+15. Neteko galios nuo 2009-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. X-1559, 2008-05-22, Žin. 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 16. Locmanas – asmuo, turintis susisiekimo ministro nustatytos formos locmano liudijimą, suteikiantį teisę padėti laivo kapitonui vesti laivą bei jį švartuoti. Locmanas nėra vedamo laivo įgulos narys.
 
@@ -106,7 +126,11 @@ BENDROSIOS NUOSTATOS
 
 19. Pakrančių apsaugos laivas – valstybei nuosavybės teise priklausantis nekomerciniais tikslais naudojamas laivas, turintis specialius aiškiai matomus ženklus, užrašą ir atliekantis valstybės sienos apsaugos funkcijas.
 
-20. Priverstinis gelbėjimas – gelbėjimas, atliekamas be laivo ir (ar) turto savininko ar valdytojo prašymo ir (ar) sutikimo, siekiant pašalinti grėsmę saugiai laivybai ar išvengti žalingo poveikio aplinkai.
+20. Paieškos ir gelbėjimo rajonas – nustatytų koordinačių zona, dėl kurios pagal 1979 metų Tarptautinę jūrų paieškos ir gelbėjimo konvenciją Lietuva susitarė su suinteresuotomis valstybėmis, šios konvencijos šalimis, taip pat Kuršių marios ir jūrų uostų akvatorijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 21. Saugios laivybos reikalavimai – saugios laivybos ir taršos iš laivų prevencijos reikalavimai.
 
@@ -178,9 +202,17 @@ Administracija atlieka šias funkcijas:
 
 6) įrengia, eksploatuoja ir prižiūri kranto navigacinius įrenginius, aptarnaujančius bendro naudojimo vandens kelius, kontroliuoja jų veikimą, teikia navigacinę informaciją;
 
-7) organizuoja ir koordinuoja naftos bei kitų pavojingų ir kenksmingų medžiagų išsiliejimo Lietuvos Respublikos atsakomybės rajone ir Kuršių mariose likvidavimo darbus, kontroliuoja, kaip uostų administracijos ir uostų naudotojai, įmonės, vykdančios veiklą Lietuvos Respublikos teritorinėje jūroje ir išskirtinėje ekonominėje zonoje, yra pasirengusios likviduoti naftos bei kitų pavojingų ir kenksmingų medžiagų išsiliejimą, tvarkyti laivų generuojamus teršalus;
+7) kontroliuoja, kaip vykdomi teršimo incidentų likvidavimo lokaliniai planai ir kaip uostų administracijos ir laivų įgulos tvarko laivuose susidarančias atliekas ir krovinių likučius;
 
-8) organizuoja, koordinuoja ir vadovauja nelaimės ištiktų žmonių paieškai ir gelbėjimui Lietuvos Respublikos atsakomybės zonos jūrinėje dalyje;
+Straipsnio punkto pakeitimai:
+
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
+
+8) Neteko galios nuo 2009-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. X-1559, 2008-05-22, Žin. 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 9) koordinuoja paskendusio turto iškėlimą iš Lietuvos Respublikos teritorinės jūros, uostų bei terminalų, neįeinančių į jūrų uosto akvatoriją, akvatorijų;
 
@@ -208,7 +240,11 @@ Administracija atlieka šias funkcijas:
 
 1) organizuoja laivų eismą  ir locmanų veiklą;
 
-2) organizuoja taršos likvidavimo darbus uosto akvatorijoje, suteikia operatyvinę pagalbą likviduojant naftos taršą;
+2) vykdo teršimo incidentų likvidavimo darbus uosto akvatorijoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 3) kontroliuoja uosto akvatorijos gylį, vykdo uosto navigacinių įrenginių ir uosto navigacijos ženklų priežiūrą;
 
@@ -486,13 +522,21 @@ PAVOJINGŲ AR APLINKĄ TERŠIANČIŲ KROVINIŲ GABENIMAS LAIVAIS
 
 33 straipsnis. Pavojingų ar aplinką teršiančių krovinių gabenimo tvarka
 
-1. Išplaukiant iš pakrovimo uosto, laivo, plaukiančio į Lietuvos Respublikos jūrų uostą ir gabenančio pavojingus ar aplinką teršiančius krovinius, kapitonas ar jo įgaliotas vienas iš laivo vadovaujančios sudėties įgulos narių privalo susisiekimo ministro nustatyta tvarka Administracijai pateikti informaciją apie laive esančius pavojingus ar aplinką teršiančius krovinius.
+1. Išplaukiant iš pakrovimo uosto, laivo, plaukiančio į Lietuvos Respublikos jūrų uostą ir gabenančio pavojingus ar aplinką teršiančius krovinius, kapitonas ar jo įgaliotas vienas iš laivo vadovaujančios sudėties įgulos narių privalo susisiekimo ministro nustatyta tvarka to jūrų uosto administracijai pateikti informaciją apie laive esančius pavojingus ar aplinką teršiančius krovinius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 2. Kiekviename laive, gabenančiame pavojingus ar aplinką teršiančius krovinius pagal Lietuvos Respublikos tarptautinių sutarčių ir Europos Sąjungos teisės aktų nuostatas, turi būti laivo vėliavos valstybės arba jos vardu klasifikacinės bendrovės išduotas liudijimas, patvirtinantis, kad laivas ir jo įranga pritaikyti gabenti atitinkamos rūšies pavojingus krovinius. Draudžiama pradėti krauti į laivą pavojingus ar aplinką teršiančius krovinius, jei laivas neturi šio liudijimo.
 
 3. Draudžiama laivui siūlyti vežti ar pradėti krauti į laivą pavojingus ar aplinką teršiančius krovinius, jei krovinio siuntėjas laivo kapitonui ar valdytojui neįteikė pavojingo krovinio deklaracijos.
 
-4. Įvykus laivo, gabenančio pavojingus ar aplinką teršiančius krovinius, avarijai Lietuvos Respublikos teritorinėje jūroje arba susidarius aplinkybėms, keliančioms pavojų Lietuvos pakrantei, laivo kapitonas apie tai nedelsdamas privalo pranešti Administracijai.
+4. įvykus laivo, gabenančio pavojingus ar aplinką teršiančius krovinius, avarijai paieškos ir gelbėjimo rajone arba susidarius aplinkybėms, keliančioms pavojų jūros aplinkai ar Lietuvos pakrantei, laivo kapitonas apie tai nedelsdamas privalo pranešti Administracijai ir Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 DVYLIKTASIS SKIRSNIS
 
@@ -598,19 +642,25 @@ VANDENS KELIAI, NAVIGACIJOS ĮRENGINIAI
 
 SEPTYNIOLIKTASIS SKIRSNIS
 
-ŽMONIŲ IR LAIVŲ GELBĖJIMAS, LAIVŲ AVARIJŲ TYRIMAS, PASKENDUSIO TURTO IŠKĖLIMAS
+ŽMONIŲ PAIEŠKA IR GELBĖJIMAS, LAIVŲ AVARIJŲ TYRIMAS, PASKENDUSIO TURTO IŠKĖLIMAS
 
-42 straipsnis. Paieškos ir gelbėjimo darbų organizavimas
+Pakeistas skirsnio pavadinimas:
 
-1. Žmonių paieškos ir gelbėjimo darbus Lietuvos Respublikos atsakomybės zonos jūrinėje dalyje organizuoja, koordinuoja ir  jiems vadovauja Administracija. Apie vykdomus žmonių paieškos ir gelbėjimo darbus informuojama Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos Pakrančių apsaugos rinktinė bei Karinių jūrų pajėgų padaliniai ir kitos valstybės bei savivaldybių institucijos.
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
-2. Administracijos reikalavimu visi Lietuvos Respublikos teritorinėje jūroje ir uostuose esantys laivai, panaudodami turimas technines priemones, privalo suteikti pagalbą nelaimės jūroje ištiktiems žmonėms.
+42 straipsnis. Žmonių paieška ir gelbėjimas
 
-3. Sprendimą dėl priverstinio gelbėjimo Lietuvos teritorinėje jūroje priima Administracijos vadovas, uosto akvatorijoje – Uosto administracijos vadovas, vadovaudamasis Lietuvos Respublikos tarptautinėmis sutartimis ir atsižvelgdamas į saugiai laivybai ar žalingo poveikio aplinkai kylančios grėsmės pobūdį ir dydį.
+1. Žmonių paieškos ir gelbėjimo darbus paieškos ir gelbėjimo rajone organizuoja, koordinuoja ir jiems vadovauja Lietuvos kariuomenė. Šiuos darbus Lietuvos kariuomenė organizuoja, koordinuoja ir jiems vadovauja per Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrą.
 
-4. Priverstinio gelbėjimo ir su juo susijusias išlaidas atlygina laivo ir krovinio savininkai solidariai. Jei krovinio ar laivo savininkas nežinomas, išlaidos atlyginamos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+2. Žmonių paieškos ir gelbėjimo darbus paieškos ir gelbėjimo rajone, išskyrus jūrų uostų akvatorijas ir Kuršių marias, vykdo Lietuvos kariuomenė, Kuršių mariose – Vidaus reikalų ministerijos įgaliotos institucijos, jūrų uostų akvatorijose – jūrų uostų administracijos.
 
-5. Vietos savivaldos ir valstybės valdžios institucijos pagal savo kompetenciją privalo užtikrinti priverstinio gelbėjimo vykdymą ir suteikti Administracijai pagalbą gelbėjimo metu.
+3. Žmonių paieškos ir gelbėjimo darbams vykdyti Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centro vadovo prašymu šiuos darbus vykdančiai institucijai į pagalbą gali būti pasitelkiamos Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos, Administracijos, jūrų uostų administracijų, kitų valstybės ir savivaldybių institucijų pajėgos ir priemonės, priskirtos šiems darbams vykdyti pagal Žmonių paieškos ir gelbėjimo darbų paieškos ir gelbėjimo rajone planą (toliau – Planas), kurį tvirtina kariuomenės vadas, suderinęs su šioje dalyje nurodytomis institucijomis. Jeigu žmonių paieškos ir gelbėjimo darbams vykdyti pagal Planą priskirtų pajėgų ir priemonių neužtenka, turi būti pasitelkiamos papildomos, t. y. pagal Planą nepriskirtos, minėtų institucijų pajėgos ir priemonės.
+
+4. Šiame straipsnyje nurodytų institucijų pareigas ir įgaliojimus organizuojant, koordinuojant, vadovaujant ar vykdant žmonių paieškos ir gelbėjimo darbus paieškos ir gelbėjimo rajone nustato Vyriausybė. Šie darbai organizuojami, koordinuojami, jiems vadovaujama ir jie vykdomi vadovaujantis 1979 metų Tarptautine jūrų paieškos ir gelbėjimo konvencija, Planu ir Lietuvos Respublikos teisės aktais.
+
+Straipsnio pakeitimai:
+
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 43 straipsnis. Pareiga suteikti pagalbą
 
@@ -622,11 +672,19 @@ SEPTYNIOLIKTASIS SKIRSNIS
 
 2) plaukti maksimaliai galimu greičiu gelbėti nelaimėje atsidūrusių žmonių, jei buvo pranešta, kad jiems reikalinga pagalba, ir jeigu ji gali būti suteikta.
 
-3. Gelbėjimo vieneto dalyvavimo gelbėjime ir jo darbo organizavimo ypatumus nustato susisiekimo ministras.
+3. Neteko galios nuo 2009-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. X-1559, 2008-05-22, Žin. 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 44 straipsnis. Susidūrusių laivų kapitonų pareigos
 
-1. Kiekvienas susidūrusio laivo kapitonas, nesukeldamas rimtos grėsmės savo laivui ir jame esantiems žmonėms, privalo suteikti pagalbą kitam laivui ir jame esantiems žmonėms.
+1. Kiekvienas susidūrusio laivo kapitonas, nesukeldamas rimtos grėsmės savo laivui ir jame esantiems žmonėms, privalo suteikti pagalbą pavojuje atsidūrusiems žmonėms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 2. Susidūrus laivams, kiekvieno susidūrusio laivo kapitonas, jei tai įmanoma, privalo pranešti vienas kitam laivų pavadinimus, laivų įregistravimo uostus ir nurodyti artimiausią uostą, į kurį jo laivas įplauks, bei suderinti tolesnius tarpusavio veiksmus.
 
@@ -644,7 +702,11 @@ SEPTYNIOLIKTASIS SKIRSNIS
 
 47 straipsnis. Pranešimas apie laivo avariją
 
-Įvykus laivo avarijai, laivo kapitonas nedelsdamas privalo apie tai pranešti Administracijai. Jeigu Lietuvos Respublikos jūrų laivų registre įregistruoto laivo svarbi arba labai svarbi avarija, nustatyta pagal šio įstatymo 46 straipsnio 2 dalyje nurodytą klasifikaciją,  įvyko užsienio valstybės teritorinėje jūroje ar uoste, laivo kapitonas apie tai privalo papildomai pranešti Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai toje valstybėje.
+Įvykus laivo avarijai laivo kapitonas nedelsdamas privalo apie tai pranešti Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrui ir Administracijai. Jeigu Lietuvos Respublikos jūrų laivų registre įregistruoto laivo svarbi arba labai svarbi avarija, nustatyta pagal šio įstatymo 46 straipsnio 2 dalyje nurodytą klasifikaciją, įvyko užsienio valstybės teritorinėje jūroje ar uoste, laivo kapitonas apie tai privalo papildomai pranešti Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai toje valstybėje.
+
+Straipsnio pakeitimai:
+
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 
 48 straipsnis.       Paskendusio turto savanoriškas iškėlimas iš Lietuvos Respublikos teritorinės jūros
 
@@ -749,6 +811,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-812, 2006-09-14, Žin., 2006, Nr. 107-4049 (2006-10-06), i. k. 1061010ISTA000X-812
 
 Lietuvos Respublikos saugios laivybos įstatymo 5 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
+
+Lietuvos Respublikos saugios laivybos įstatymo 1, 2,6, 8, 33, 42, 43, 44, 47 straipsnių ir septynioliktojo skirsnio pavadinimo pakeitimo įstatymas
 
 52 straipsnis. Įstatymo įsigaliojimas
 
