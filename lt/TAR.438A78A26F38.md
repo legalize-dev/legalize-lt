@@ -4,7 +4,7 @@ identifier: "TAR.438A78A26F38"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-01-26"
-last_updated: "2007-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 department: "Lietuvos Respublikos Seimas"
@@ -15,33 +15,55 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2007-01-01 iki 2008-12-31
+Suvestinė redakcija nuo 2009-01-01 iki 2017-12-14
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
+
+Nauja redakcija nuo 2009-01-01:
+
+Nr. X-1798, 2008-11-11, Žin. 2008, Nr. 135-5234 (2008-11-25), i. k. 1081010ISTA00X-1798
 
 LIETUVOS RESPUBLIKOS
 
 PREZIDENTO
 
-Į S T A T Y M A S
+ĮSTATYMAS
 
-1 straipsnis
+PIRMASIS SKIRSNIS
 
-Po Respublikos Prezidento rinkimų rezultatų oficialaus paskelbimo Vyriausioji rinkimų komisija ne vėliau kaip per 7 dienas išrinktam Respublikos Prezidentui įteikia Lietuvos Respublikos Prezidento pažymėjimą.
+BENDROSIOS NUOSTATOS
 
-Straipsnio pakeitimai:
+1 straipsnis. Įstatymo paskirtis
 
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
+Šis įstatymas nustato Lietuvos Respublikos Prezidento (toliau – Respublikos Prezidentas) ir Respublikos Prezidento kanceliarijos veiklos teisinius pagrindus, Respublikos Prezidento ir jo šeimos narių materialines ir socialines garantijas.
 
-2 straipsnis
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-Išrinktas Respublikos Prezidentas savo pareigas pradeda eiti rytojaus dieną pasibaigus Respublikos Prezidento kadencijai, po to, kai Vilniuje, dalyvaujant Tautos atstovams – Seimo nariams, prisiekia Tautai.
+1. Respublikos Prezidentą lydintis asmuo – nesant Respublikos Prezidento sutuoktinio ar negalint jam dalyvauti, kitas Respublikos Prezidento pasirinktas asmuo, atliekantis atitinkamas valstybinio ir (ar) diplomatinio protokolo nustatytas funkcijas.
 
-Išrinkus Respublikos Prezidentą tais atvejais, kurie numatyti Lietuvos Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje, išrinktas Respublikos Prezidentas penktąją darbo dieną po Respublikos Prezidento rinkimų rezultatų paskelbimo pradeda eiti savo pareigas, kai Vilniuje, dalyvaujant Tautos atstovams – Seimo nariams, prisiekia Tautai.
+2. Respublikos Prezidento rezidencija – pareigas einančio Respublikos Prezidento darbo ir (ar) gyvenamoji vieta.
 
-3 straipsnis
+3. Šeimos nariai – sutuoktinis, vaikai (įvaikiai).
 
-Nustatomi tokie Respublikos Prezidento priesaikos tekstai:
+ANTRASIS SKIRSNIS
+
+RESPUBLIKOS PREZIDENTO PRIESAIKA
+
+3 straipsnis. Respublikos Prezidento pareigų vykdymo pradžia
+
+1. Po Respublikos Prezidento rinkimų rezultatų oficialaus paskelbimo Lietuvos Respublikos vyriausioji rinkimų komisija (toliau – Vyriausioji rinkimų komisija) ne vėliau kaip per penkias darbo dienas išrinktam kandidatui išduoda Lietuvos Respublikos Prezidento pažymėjimą.
+
+2. Išrinktas Respublikos Prezidentas savo pareigas pradeda eiti rytojaus dieną pasibaigus Respublikos Prezidento kadencijai, po to, kai Vilniuje, dalyvaujant Tautos atstovams – Seimo nariams, prisiekia Tautai.
+
+3. Išrinkus Respublikos Prezidentą tais atvejais, kurie numatyti Lietuvos Respublikos Konstitucijos 89 straipsnio 1 dalyje, išrinktas Respublikos Prezidentas penktą darbo dieną po Respublikos Prezidento rinkimų rezultatų paskelbimo pradeda eiti savo pareigas, kai Vilniuje, dalyvaujant Tautos atstovams – Seimo nariams, prisiekia Tautai.
+
+4. Tą dieną, kai išrinktas Respublikos Prezidentas pradeda eiti pareigas, Lietuvos Respublikos Vyriausybė grąžina jam savo įgaliojimus.
+
+5. Asmuo, išrinktas Respublikos Prezidentu, turi sustabdyti savo veiklą politinėse partijose ir politinėse organizacijose iki naujos Respublikos Prezidento rinkimų kampanijos pradžios. Pareiškimą dėl veiklos politinėse partijose ir politinėse organizacijose sustabdymo Respublikos Prezidentas turi paskelbti viešai kitą dieną po to, kai Vyriausioji rinkimų komisija įteikia jam Lietuvos Respublikos Prezidento pažymėjimą.
+
+4 straipsnis. Respublikos Prezidento priesaikos tekstas
+
+Respublikos Prezidentas prisiekia, perskaitydamas vieną iš šių priesaikos tekstų:
 
 1) „Aš, (vardas, pavardė),
 
@@ -61,231 +83,175 @@ prisiekiu sąžiningai eiti savo pareigas ir būti visiems lygiai teisingas;
 
 prisiekiu visomis išgalėmis stiprinti Lietuvos nepriklausomybę, tarnauti Tėvynei, demokratijai, Lietuvos žmonių gerovei.“
 
-Prisiekiantis asmuo turi teisę pasirinkti vieną iš šio straipsnio pirmojoje dalyje nustatytų priesaikos tekstų
+5 straipsnis. Respublikos Prezidento priesaikos priėmimo tvarka
 
-Straipsnio pakeitimai:
+1. Respublikos Prezidentas prisiekia Lietuvos Respublikos Seimo rūmuose, Seimo posėdyje.
 
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
+2. Respublikos Prezidentas prisiekia stovėdamas priešais priesaiką priimantį Konstitucinio Teismo pirmininką, o kai jo nėra, – vieną iš Konstitucinio Teismo teisėjų ir skaitydamas priesaikos tekstą padėjęs ranką ant Lietuvos Respublikos Konstitucijos.
 
-4 straipsnis
+3. Baigęs skaityti priesaiką, Respublikos Prezidentas pasirašo priesaikos aktą. Po to Respublikos Prezidento priesaikos aktą pasirašo Konstitucinio Teismo pirmininkas, o kai jo nėra, – vienas iš Konstitucinio Teismo teisėjų, kuris priėmė priesaiką. Respublikos Prezidento priesaikos aktas įteikiamas Seimo Pirmininkui ir saugomas Seimo kanceliarijoje.
 
-Respublikos Prezidentas prisiekia Lietuvos Respublikos Seimo rūmuose, Seimo posėdyje.
+4. Respublikos Prezidento priesaikos tekstas netaisomas ir nekeičiamas. Šios nuostatos nesilaikymas, kaip ir atsisakymas prisiekti Seimo posėdyje, pasirašyti priesaikos aktą arba pasirašymas su išlygomis reiškia, kad Respublikos Prezidentas neprisiekė ir todėl negali eiti savo pareigų.
 
-Respublikos Prezidentas prisiekia, stovėdamas priešais priesaiką priimantį Konstitucinio Teismo pirmininką, o jo nesant – vieną iš Konstitucinio Teismo teisėjų ir skaitydamas priesaikos tekstą padėjęs ranką ant Lietuvos Respublikos Konstitucijos.
+5. Kai Respublikos Prezidento priesaikos aktas pasirašytas, giedamas valstybės himnas.
 
-Baigęs skaityti priesaiką, Respublikos Prezidentas pasirašo priesaikos aktą. Po to Respublikos Prezidento priesaikos aktą pasirašo Konstitucinio Teismo pirmininkas, o jo nesant – vienas iš Konstitucinio Teismo teisėjų, kuris priėmė priesaiką. Respublikos Prezidento priesaikos aktas įteikiamas Seimo Pirmininkui ir saugomas Seime.
+6. Respublikos Prezidento priesaikos priėmimo ceremoniją tiesiogiai transliuoja Lietuvos nacionalinis radijas ir televizija.
 
-Priesaikos tekstas netaisomas ir nekeičiamas. Šios nuostatos nesilaikymas, kaip ir atsisakymas prisiekti Seimo posėdyje, pasirašyti priesaikos aktą arba pasirašymas su išlygomis reiškia, kad Respublikos Prezidentas neprisiekė ir todėl negali eiti savo pareigų.
+7. Respublikos Prezidento priesaikos priėmimo ceremonijoje kviečiami dalyvauti Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatai 1990 m. kovo 11 d. Akto „Dėl Lietuvos nepriklausomos valstybės atstatymo“ signatarai, Lietuvos Respublikos Vyriausybės nariai, Lietuvoje akredituoti užsienio valstybių diplomatai, tradicinių ir kitų valstybės pripažintų religinių bendruomenių ir bendrijų aukščiausieji hierarchai, politinių partijų ir politinių organizacijų, asociacijų atstovai.
 
-Po to, kai priesaikos aktas pasirašytas, giedamas valstybės himnas.
+TREČIASIS SKIRSNIS
 
-5 straipsnis
+RESPUBLIKOS PREZIDENTO PAREIGŲ VYKDYMAS
 
-Respublikos Prezidento priesaikos priėmimo ceremonijoje kviečiami dalyvauti Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. kovo 11 d. Akto „Dėl Lietuvos nepriklausomos valstybės atstatymo“ signatarai, Lietuvos Respublikos Vyriausybės nariai, Lietuvos bažnyčių hierarchai bei atstovai, politinių partijų, kitų politinių ir visuomeninių organizacijų atstovai, Lietuvoje akredituoti užsienio valstybių diplomatai.
+6 straipsnis. Respublikos Prezidento teisė kalbėti per Lietuvos nacionalinį radiją ir televiziją
 
-Respublikos Prezidento priesaikos priėmimo ceremoniją tiesiogiai transliuoja Lietuvos nacionalinis radijas ir televizija.
+1. Respublikos Prezidentui, kaip valstybės vadovui, Lietuvos nacionaliniame radijuje ir televizijoje suteikiamas laikas kalbėti šalies vidaus ir užsienio politikos klausimais.
 
-Straipsnio dalies pakeitimai:
+2. Esant neatidėliotinam reikalui, Respublikos Prezidentui kalbėti turi būti suteikiamas laikas, nenumatytas Lietuvos nacionalinio radijo ir televizijos programose.
 
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
+7 straipsnis. Respublikos Prezidento atributai
 
-6 straipsnis
+1. Respublikos Prezidentas naudojasi apskrituoju antspaudu ir dokumentų blankais su Lietuvos valstybės herbu. Antspaude yra įrašyta „Lietuvos Respublikos Prezidentas“.
 
-Tą dieną, kai naujasis Respublikos Prezidentas pradeda eiti pareigas, Lietuvos Respublikos Vyriausybė grąžina jam savo įgaliojimus.
+2. Respublikos Prezidentas turi vėliavą – valstybės vadovo simbolį.
 
-Straipsnio pakeitimai:
+3. Respublikos Prezidento vėliava – purpurinis audeklas, kurio abiejose pusėse centre vaizduojamas Lietuvos valstybės herbas, iš dešinės laikomas grifo, iš kairės – vienaragio. Respublikos Prezidento vėliavos pločio ir ilgio santykis – 1:1,2.
 
-Nr. VIII-642, 1998-02-24, Žin., 1998, Nr. 20-506 (1998-02-25), i. k. 0981010ISTAVIII-642
+4. Respublikos Prezidento vėliava ir jos atvaizdas visada turi atitikti Respublikos Prezidento vėliavos spalvų etaloninį atvaizdą, kurį Lietuvos heraldikos komisijos teikimu tvirtina Lietuvos Respublikos Seimas.
 
-7 straipsnis
+5. Respublikos Prezidento vėliava iškeliama virš Respublikos Prezidento rezidencijos, kai Respublikos Prezidentas yra Lietuvos valstybės sostinėje Vilniuje, taip pat iškeliama laivuose ir ant kitų transporto priemonių, kai jose yra Respublikos Prezidentas.
 
-Asmuo, išrinktas Respublikos Prezidentu, turi sustabdyti savo veiklą politinėse partijose ir politinėse organizacijose iki naujos Respublikos Prezidento rinkimų kampanijos pradžios. Tokį pareiškimą Respublikos Prezidentas turi paskelbti kitą dieną po to, kai Vyriausioji rinkimų komisija įteikia jam Lietuvos Respublikos Prezidento pažymėjimą.
+6. Respublikos Prezidento vėliavos atvaizdu gali būti ženklinama transporto priemonė, kai joje yra Respublikos Prezidentas.
 
-Straipsnio pakeitimai:
+8 straipsnis. Respublikos Prezidento neliečiamybė
 
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
+1. Respublikos Prezidento asmuo neliečiamas: kol eina Respublikos Prezidento pareigas, jis negali būti suimtas, patrauktas baudžiamojon ar administracinėn atsakomybėn.
 
-8 straipsnis
+2. Respublikos Prezidentas gali būti prieš laiką pašalintas iš pareigų tik šiurkščiai pažeidęs Lietuvos Respublikos Konstituciją arba sulaužęs priesaiką, taip pat paaiškėjus, kad padarytas nusikaltimas. Respublikos Prezidento pašalinimo iš pareigų klausimą sprendžia Lietuvos Respublikos Seimas apkaltos proceso tvarka.
 
-Respublikos Prezidento gyvybę, garbę ir orumą gina Lietuvos Respublikos įstatymai.
+9 straipsnis. Respublikos Prezidento leidžiami teisės aktai
 
-Straipsnio dalies pakeitimai:
+1. Respublikos Prezidentas, įgyvendindamas jam suteiktus įgaliojimus, leidžia aktus – dekretus.
 
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
+2. Respublikos Prezidento dekretai registruojami Respublikos Prezidento dekretų knygoje ir jiems suteikiamas eilės numeris.
 
-Įstatymai numato atsakomybę už viešą Respublikos Prezidento įžeidimą arba šmeižimą.
+3. Respublikos Prezidento kanceliarijos vidaus darbo organizavimo klausimais ir kitais teisės aktuose nustatytais atvejais Respublikos Prezidentas leidžia potvarkius.
 
-9 straipsnis
+4. Respublikos Prezidento dekretai oficialiai skelbiami ir įsigalioja Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-Respublikos Prezidentui, kaip valstybės vadovui, Lietuvos nacionaliniame radijuje ir televizijoje suteikiamas laikas pasisakyti šalies vidaus ir užsienio politikos klausimais.
+10 straipsnis. Respublikos Prezidento dekretų pasirašymo tvarka
 
-Straipsnio dalies pakeitimai:
+1. Respublikos Prezidentas, įgyvendindamas jam suteiktus įgaliojimus, dekretus pasirašo vienvaldiškai, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
 
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
-
-Esant neatidėliotinam reikalui, Respublikos Prezidentui turi būti suteikiamas laikas, nenumatytas radijo ir televizijos programose.
-
-10 straipsnis
-
-Respublikos Prezidento vardas juo buvusiam asmeniui išlieka iki gyvos galvos.
-
-11 straipsnis
-
-Respublikos Prezidentas naudojasi apvaliu antspaudu, dokumentų blankais su Lietuvos valstybės herbu. Antspaude yra įrašyta „Lietuvos Respublikos Prezidentas“.
-
-12 straipsnis
-
-Respublikos Prezidentas turi vėliavą – valstybės vadovo simbolį.
-
-Respublikos Prezidento vėliava – purpurinis audeklas, kurio abiejose pusėse centre vaizduojamas Lietuvos valstybės herbas, iš dešinės laikomas grifo, iš kairės – vienaragio. Respublikos Prezidento vėliavos pločio ir ilgio santykis – 1:1,2.
-
-Respublikos Prezidento vėliava ir jos atvaizdas visada turi atitikti Respublikos Prezidento vėliavos spalvų etaloninį atvaizdą, kurį Lietuvos heraldikos komisijos teikimu tvirtina Lietuvos Respublikos Seimas.
-
-Respublikos Prezidento vėliava iškeliama virš Respublikos Prezidento rezidencijos, kai Vilniuje arba vasaros rezidencijos buvimo vietoje yra Respublikos Prezidentas.
-
-Respublikos Prezidento vėliava taip pat iškeliama laivuose ir ant kitų transporto priemonių, kur yra Respublikos Prezidentas.
-
-13 straipsnis
-
-Respublikos Prezidentas turi rezidenciją Vilniuje.
-
-Respublikos Prezidento kanceliarija yra valstybės įstaiga, padedanti Respublikos Prezidentui įgyvendinti savo funkcijas ir atliekanti Respublikos Prezidento rezidencijos finansinį, ūkinį bei materialinį aptarnavimą.
-
-Respublikos Prezidento politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybių skaičių, Respublikos Prezidento kanceliarijos struktūrą, Respublikos Prezidento kanceliarijos valstybės tarnautojų pareigybių ir darbuotojų skaičių nustato Respublikos Prezidentas. Šiais Respublikos Prezidento rezidencijos ir kanceliarijos vidaus darbo organizavimo klausimais Respublikos Prezidentas leidžia potvarkius. Respublikos Prezidento potvarkiai dėl Respublikos Prezidento politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybių skaičiaus, Respublikos Prezidento kanceliarijos struktūros, Respublikos Prezidento kanceliarijos valstybės tarnautojų pareigybių ir darbuotojų skaičiaus skelbiami įstatymų nustatyta tvarka.
-
-Respublikos Prezidento politinio (asmeninio) pasitikėjimo valstybės tarnautojai bei Respublikos Prezidento kanceliarijos vadovas (kancleris), valstybės tarnautojai ir darbuotojai į pareigas priimami įstatymų nustatyta tvarka.
-
-Lėšos, skirtos Respublikos Prezidentui, Respublikos Prezidento rezidencijai ir Respublikos Prezidento kanceliarijai finansuoti, yra numatomos kiekvienų metų valstybės ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme.
-
-Straipsnio pakeitimai:
-
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
-
-14 straipsnis
-
-Respublikos Prezidento kanceliarijoje ir kituose padaliniuose sukaupta medžiaga yra Tautos ir Lietuvos valstybės istorijos ypatinga sudėtinė dalis bei nacionalinis turtas.
-
-Respublikos Prezidento kanceliarijoje, kituose padaliniuose sukaupta archyvinė medžiaga tvarkoma, saugoma pagal taisykles, kurias nustato Lietuvos Respublikos archyvų įstatymo specialiosios nuostatos. Už šios archyvinės medžiagos kaupimą, tvarkymą ir išsaugojimą asmeniškai atsako Respublikos Prezidento kanceliarijos vadovas.
-
-15 straipsnis
-
-Respublikos Prezidentas, įgyvendindamas jam suteiktus įgaliojimus, leidžia aktus – dekretus.
-
-Respublikos Prezidento dekretai registruojami Respublikos Prezidento dekretų knygoje ir jiems suteikiamas atitinkamas eilės numeris.
-
-Respublikos Prezidento dekretai skelbiami ir įsigalioja Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-Straipsnio dalies pakeitimai:
-
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
-
-16 straipsnis
-
-Respublikos Prezidento dekretus Lietuvos Respublikos Konstitucijos 85 straipsnyje nurodytais klausimais taip pat pasirašo:
+2. Respublikos Prezidento dekretus Lietuvos Respublikos Konstitucijos 85 straipsnyje nurodytais klausimais taip pat pasirašo:
 
 1) dėl Lietuvos Respublikos diplomatinių atstovų užsienio valstybėse ir prie tarptautinių organizacijų skyrimo ir atšaukimo – Lietuvos Respublikos Ministras Pirmininkas;
 
-2) dėl aukščiausių diplomatinių rangų ir specialių vardų teikimo – Lietuvos Respublikos užsienio reikalų ministras;
+2) dėl aukščiausių diplomatinių rangų ir specialių vardų suteikimo – Lietuvos Respublikos užsienio reikalų ministras;
 
 3) dėl aukščiausių karinių laipsnių suteikimo – Lietuvos Respublikos krašto apsaugos ministras;
 
-Straipsnio punkto pakeitimai:
-
-Nr. IX-2276, 2004-06-15, Žin., 2004, Nr. 98-3631 (2004-06-24), i. k. 1041010ISTA0IX-2276
-
 4) dėl nepaprastosios padėties skelbimo – Lietuvos Respublikos Ministras Pirmininkas;
 
-5) dėl Lietuvos Respublikos pilietybės teikimo – Lietuvos Respublikos vidaus reikalų ministras.
+5) dėl Lietuvos Respublikos pilietybės suteikimo – Lietuvos Respublikos vidaus reikalų ministras.
 
-17 straipsnis
+11 straipsnis. Lietuvos Respublikos įstatymų pasirašymo tvarka
 
-Po įteikiamu Respublikos Prezidentui pasirašyti ir oficialiai paskelbti Lietuvos Respublikos įstatymo tekstu Seimo statute nustatyta tvarka turi būti įrašas su Seimo Pirmininko arba jo pavaduotojo parašu apie Seimo priimto įstatymo autentiškumą.
+1. Po įteikiamu Respublikos Prezidentui pasirašyti ir oficialiai paskelbti Lietuvos Respublikos įstatymo tekstu Seimo statuto nustatyta tvarka turi būti įrašas apie Lietuvos Respublikos Seimo priimto įstatymo autentiškumą su Seimo Pirmininko arba jo pavaduotojo parašu.
 
-Lietuvos Respublikos įstatymai, kurie įteikiami Respublikos Prezidentui pasirašyti ir oficialiai paskelbti, registruojami specialioje knygoje, kurioje vėliau nurodoma jų pasirašymo bei paskelbimo data arba pažymima apie jų grąžinimą Seimui pakartotinai svarstyti.
+2. Lietuvos Respublikos įstatymai, kurie įteikiami Respublikos Prezidentui pasirašyti ir oficialiai paskelbti, registruojami specialioje knygoje, kurioje vėliau nurodoma jų pasirašymo ir paskelbimo data arba pažymima apie jų grąžinimą Lietuvos Respublikos Seimui pakartotinai svarstyti.
 
-Lietuvos Respublikos įstatymo teksto pabaigoje prieš Respublikos Prezidento parašą įrašoma: „Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.“
+3. Lietuvos Respublikos įstatymo teksto pabaigoje prieš Respublikos Prezidento parašą įrašoma: „Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.“
 
-18 straipsnis
+12 straipsnis. Respublikos Prezidentui įteiktos dovanos
 
-Nustatomas toks Respublikos Prezidento valstybinis aprūpinimas ir aptarnavimas:
+1. Respublikos Prezidentui įteiktos dovanos, kurias jis gavo oficialių vizitų metu užsienio valstybėse, taip pat dovanos, kurias jam įteikė užsienio valstybių atstovai oficialių vizitų metu Lietuvoje, yra valstybės turtas, saugomas Respublikos Prezidento rezidencijoje. Šios dovanos nustatyta tvarka gali būti perduodamos saugoti muziejams, o ypač vertingos – Lietuvos bankui.
 
-1) darbo užmokestis, lygus paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dvylikai dydžių.
+2. Šiame straipsnyje nustatyta tvarka taikoma ir tada, kai Respublikos Prezidentui, kaip valstybės vadovui, dovanos įteikiamos Lietuvoje.
 
-Straipsnio punkto pakeitimai:
+13 straipsnis. Respublikos Prezidento kanceliarija
 
-Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
+1. Respublikos Prezidento kanceliarija yra valstybės įstaiga, padedanti Respublikos Prezidentui įgyvendinti jo funkcijas ir atliekanti Respublikos Prezidento rezidencijos finansinį, ūkinį ir materialinį aptarnavimą.
 
-Nr. IX-180, 2001-02-20, Žin., 2001, Nr. 21-688 (2001-03-09), i. k. 1011010ISTA00IX-180
+2. Respublikos Prezidento kanceliarija yra viešasis juridinis asmuo, turintis atsiskaitomąją sąskaitą banke, antspaudą su Lietuvos valstybės herbu ir pavadinimu „Lietuvos Respublikos Prezidento kanceliarija“.
 
-Nr. IX-1325, 2003-01-28, Žin., 2003, Nr. 17-702 (2003-02-19), i. k. 1031010ISTA0IX-1325
+3. Respublikos Prezidento kanceliarijai vadovauja Respublikos Prezidento kanceliarijos kancleris. Kanclerį Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka konkurso būdu priima į pareigas ir atleidžia iš jų Respublikos Prezidentas.
 
-2) rezidencija Vilniuje ir vasaros rezidencija, taip pat tarnybinis butas Vilniuje;
+4. Respublikos Prezidento kanceliarijos nuostatus ir struktūrą tvirtina Respublikos Prezidentas.
 
-3) specialios paskirties lėktuvas ir 2 automobiliai;
+5. Didžiausią leistiną Respublikos Prezidento politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Respublikos Prezidento kanceliarijos valstybės tarnautojų ir pagal darbo sutartis dirbančių darbuotojų pareigybių skaičių Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka tvirtina Respublikos Prezidentas ar jo įgaliotas asmuo.
 
-4) apsauga, kuria rūpinasi specialios paskirties tarnyba;
+14 straipsnis. Respublikos Prezidento valstybinis aprūpinimas
 
-5) atstovavimo išlaidos šalies viduje ir lankantis užsienio valstybėse – pagal tarptautinę diplomatinę praktiką atsiskaitytinai ir 25 procentai Respublikos Prezidento mėnesinio darbo užmokesčio neatsiskaitytinai.
+1. Respublikos Prezidentui nustatomas toks valstybinis aprūpinimas:
 
-Straipsnio punkto pakeitimai:
+1) rezidencija Vilniuje;
 
-Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
+2) specialios paskirties lėktuvas ir 2 automobiliai;
 
-6) neteko galios 1994-12-07.
+3) atstovavimo išlaidos šalies viduje ir lankantis užsienio valstybėse – pagal tarptautinę diplomatinę praktiką atsiskaitytinai, taip pat 25 procentai Respublikos Prezidento mėnesinio darbo užmokesčio neatsiskaitytinai kas mėnesį.
 
-Straipsnio punkto pakeitimai:
+2. Respublikos Prezidentui ir jo šeimos nariams apsauga skiriama ir užtikrinama teisės aktų nustatyta tvarka.
 
-Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
+15 straipsnis. Respublikos Prezidento darbo užmokestis
 
-19 straipsnis
+Respublikos Prezidento mėnesinis darbo užmokestis yra lygus Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos 55 baziniams dydžiams.
 
-Respublikos Prezidentui įteiktos dovanos, kurias jis gavo oficialių vizitų metu užsienio valstybėse, taip pat dovanos, kurias jam įteikė užsienio valstybių atstovai oficialių vizitų metu Lietuvoje, yra valstybės turtas, saugomas Respublikos Prezidento rezidencijoje. Šios dovanos nustatyta tvarka gali būti perduodamos saugoti muziejams, o ypač vertingos – Lietuvos bankui.
+16 straipsnis. Respublikos Prezidento socialinės garantijos ligos atveju
 
-Šiame straipsnyje nustatyta tvarka taikoma ir tada, kai Respublikos Prezidentui dovanos įteikiamos kaip valstybės vadovui Lietuvoje.
+Jeigu Respublikos Prezidentas suserga ir dėl to laikinai negali eiti savo pareigų, jam mokamas darbo užmokestis.
 
-20 straipsnis
+17 straipsnis. Respublikos Prezidento socialinės garantijos nelaimingo atsitikimo atveju
 
-Respublikos Prezidento šeimos apsaugą užtikrina specialios paskirties tarnyba.
+1. Jeigu eidamas pareigas Respublikos Prezidentas žuvo, jo išlaikytiems asmenims (šio straipsnio 7 dalis) lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio, kuris būtų mokamas jo žūties mėnesį, dydžio vienkartinė kompensacija.
 
-Respublikos Prezidentui, kurio įgaliojimai nutrūko Lietuvos Respublikos Konstitucijos 88 straipsnio 1, 2, 3 ir 6 punktuose nustatytais pagrindais, iki gyvos galvos:
+2. Jeigu Respublikos Prezidento sveikata sutriko dėl jo sužalojimo ir jis tapo neįgalus, jam išmokama nuo 12 iki 60 mėnesių darbo užmokesčio, kuris būtų išmokėtas darbingumo lygio nustatymo mėnesį, dydžio vienkartinė kompensacija:
 
-1) Respublikos Prezidento valstybinė renta skiriama ir mokama Lietuvos Respublikos Prezidento valstybinės rentos įstatymo nustatytomis sąlygomis ir tvarka;
+1) netekus 85–100 procentų darbingumo – 60 mėnesių darbo užmokesčio dydžio;
 
-2) suteikiamos gyvenamosios patalpos su aptarnavimu, taip pat apsauga ir transportas. Aptarnaujančių asmenų, apsaugos ir transporto priemonių skaičių nustato Lietuvos Respublikos Vyriausybė.
+2) netekus 65–80 procentų darbingumo – 48 mėnesių darbo užmokesčio dydžio;
 
-Straipsnio dalies pakeitimai:
+3) netekus 45–60 procentų darbingumo – 36 mėnesių darbo užmokesčio dydžio.
 
-2002-06-19, Žin., 2002, Nr. 62-2515 (2002-06-21), i. k. 1021000NUTARG021955
+3. Jeigu Respublikos Prezidentas netapo neįgalus, tačiau neteko darbingumo, mokamos tokio dydžio vienkartinės kompensacijos, kurios apskaičiuojamos taikant sveikatos sutrikimo mėnesį galiojusį darbo užmokesčio dydį:
 
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
+1) sunkaus sveikatos sutrikimo atveju – 24 mėnesių darbo užmokesčio dydžio;
 
-Nr. X-978, 2006-12-12, Žin., 2006, Nr. 141-5404 (2006-12-28), i. k. 1061010ISTA000X-978
+2) apysunkio sveikatos sutrikimo atveju – 18 mėnesių darbo užmokesčio dydžio;
 
-Respublikos Prezidentai laidojami valstybės lėšomis.
+3) lengvo sveikatos sutrikimo atveju – 12 mėnesių darbo užmokesčio dydžio.
 
-21 straipsnis
+4. Šio straipsnio 1–3 dalyse numatytos kompensacijos mokamos, jei Respublikos Prezidentas žuvo ar jo sveikata sutriko dėl priežasčių, susijusių su Respublikos Prezidento pareigų vykdymu. Sprendimą, ar Respublikos Prezidentas žuvo arba jo sveikata sutriko dėl jo eitų Respublikos Prezidento pareigų, priima Vyriausybės sudaryta laikinoji komisija, dalyvaujant joje teisėsaugos ir kitų kompetentingų institucijų atstovams.
 
-Lietuvos Respublikos Konstitucijos 89 straipsnyje nustatytais atvejais Respublikos Prezidento pareigas laikinai eina arba laikinai jį pavaduoja Seimo Pirmininkas.
+5. Jeigu žuvo Respublikos Prezidento sutuoktinis ar Respublikos Prezidentą lydintis asmuo, jo išlaikytiems asmenims (šio straipsnio 7 dalis) lygiomis dalimis išmokama vienkartinė kompensacija, kurios dydis sudaro 25 procentus šio straipsnio 1 dalyje numatytos vienkartinės kompensacijos. Sveikatos sutrikimo atvejais, kai Respublikos Prezidento sutuoktinis ar Respublikos Prezidentą lydintis asmuo tampa neįgalus, jam išmokamos vienkartinės kompensacijos dydis sudaro 25 procentus šio straipsnio 2 dalyje nurodytos išmokos, o kai jis netapo neįgalus, tačiau neteko darbingumo, – 25 procentus šio straipsnio 3 dalyje nurodytos išmokos. Nustatant šioje dalyje numatytų vienkartinių kompensacijų dydį, taikomas Respublikos Prezidento sutuoktinio ar Respublikos Prezidentą lydinčio asmens (atitinkamai) žūties, darbingumo lygio nustatymo ar sveikatos sutrikdymo mėnesį galiojęs Respublikos Prezidento darbo užmokestis.
 
-Kai Respublikos Prezidentas laikinai išvyksta į užsienį ir dėl to laikinai negali eiti savo pareigų, Respublikos Prezidentas pasirašo dekretą, kuriuo Seimo Pirmininkui pavedama laikinai pavaduoti Respublikos Prezidentą.
+6. Šio straipsnio 5 dalyje numatytos kompensacijos mokamos, jei Respublikos Prezidento sutuoktinis ar Respublikos Prezidentą lydintis asmuo žuvo ar jo sveikata sutriko dėl valstybinio ir (ar) diplomatinio protokolo nustatytų funkcijų vykdymo. Sprendimą dėl žūties ar sveikatos sutrikimo priežasties ryšio su šių funkcijų vykdymu priima Respublikos Prezidento kanceliarijos kanclerio sudaryta laikinoji komisija.
 
-Kai Respublikos Prezidentas serga ir dėl to laikinai negali eiti savo pareigų, Respublikos Prezidentas pasirašo dekretą, kuriuo Seimo Pirmininkui pavedama laikinai pavaduoti Respublikos Prezidentą. Jeigu Respublikos Prezidentas dėl sveikatos būklės negali pareikšti savo valios dėl Respublikos Prezidento laikino pavadavimo, taikoma Lietuvos Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje bei šiame įstatyme nustatyta Respublikos Prezidento pareigų laikino ėjimo tvarka.
+7. Pagal šio įstatymo 1 ir 5 dalis vienkartinės kompensacijos išmokamos žuvusiojo sutuoktiniui, vaikams (įvaikiams) iki 18 metų, taip pat vyresniems kaip 18 metų, jeigu jie mokosi nustatyta tvarka įregistruotų aukštųjų, profesinių, bendrojo lavinimo mokyklų dieniniuose skyriuose arba pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, žuvusiojo vaikams, gimusiems po jo mirties, tėvui (įtėviui), motinai (įmotei), taip pat nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą.
 
-Tuo atveju, kai Respublikos Prezidentas miršta, įstatymų nustatyta tvarka išduotas mirties akto įrašo nuorašas, patvirtinantis Respublikos Prezidento mirtį, per įmanomai trumpiausią laiką įteikiamas Seimui.
+8. Darbingumo lygį, nepaisant Respublikos Prezidento, Respublikos Prezidento sutuoktinio ar Respublikos Prezidentą lydinčio asmens amžiaus, taip pat sveikatos sutrikimo sunkumo laipsnį nustato Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos.
 
-Tuo atveju, kai Respublikos Prezidentas atsistatydina iš savo pareigų, jo pasirašytas dekretas dėl Respublikos Prezidento atsistatydinimo iš pareigų, taip pat šio straipsnio antrojoje ir trečiojoje dalyse nurodytais atvejais pasirašytas Respublikos Prezidento dekretas dėl Respublikos Prezidento laikino pavadavimo įteikiamas Seimui.
+9. Šiame straipsnyje numatytas kompensacijas iš šiam tikslui skirtų valstybės biudžeto lėšų išmoka Respublikos Prezidento kanceliarija.
 
-Tuo atveju, kai Seimas Respublikos Prezidentą pašalina iš pareigų apkaltos proceso tvarka, taikoma Lietuvos Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje bei šiame įstatyme nustatyta Respublikos Prezidento pareigų laikino ėjimo tvarka.
+18 straipsnis. Respublikos Prezidento sveikatos priežiūra
 
-Lietuvos Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje nustatytais atvejais Seimas ne vėliau kaip per 10 dienų privalo paskirti Respublikos Prezidento rinkimus, kurie turi būti surengti ne vėliau kaip per du mėnesius. Jeigu Seimas negali susirinkti ir paskelbti Respublikos Prezidento rinkimų, šiuos rinkimus skelbia Lietuvos Respublikos Vyriausybė.
+1. Respublikos Prezidentui skiriami du asmeniniai gydytojai. Gydytojus skiria Lietuvos Respublikos sveikatos apsaugos ministras, suderinęs su Respublikos Prezidentu.
 
-Papildyta straipsniu:
+2. Už Respublikos Prezidentui suteiktas sveikatos priežiūros paslaugas apmoka Respublikos Prezidento kanceliarija iš jai skirtų asignavimų.
 
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
+19 straipsnis. Valstybiniame ir (ar) diplomatiniame protokole nustatytų funkcijų vykdymo užtikrinimas
 
-22 straipsnis
+1. Jeigu Respublikos Prezidento sutuoktinis ar Respublikos Prezidentą lydintis asmuo dirba, valstybiniame ir (ar) diplomatiniame protokole nustatytoms funkcijoms atlikti jis atleidžiamas nuo darbo ir už tą laiką jam darbo užmokestį, ne mažesnį už asmens gaunamą vidutinį, moka Respublikos Prezidento kanceliarija.
 
-Seimo Pirmininkas laikinai eina Respublikos Prezidento pareigas Lietuvos Respublikos Konstitucijos 89 straipsnio pirmojoje dalyje nustatytais atvejais:
+2. Respublikos Prezidento sutuoktiniui ar Respublikos Prezidentą lydinčiam asmeniui atstovavimo išlaidos šalies viduje ir lankantis užsienio valstybėse apmokamos pagal tarptautinę diplomatinę praktiką atsiskaitytinai, taip pat sutuoktiniui reprezentacinėms išlaidoms mokama 15 procentų Respublikos Prezidento mėnesinio darbo užmokesčio dydžio išmoka neatsiskaitytinai kas mėnesį.
+
+KETVIRTASIS SKIRSNIS
+
+LAIKINAS RESPUBLIKOS PREZIDENTO PAREIGŲ ĖJIMAS IR PAVADAVIMAS
+
+20 straipsnis. Laikinas Respublikos Prezidento pareigų ėjimas
+
+1. Seimo Pirmininkas laikinai eina Respublikos Prezidento pareigas Lietuvos Respublikos Konstitucijos 89 straipsnio 1 dalyje nustatytais atvejais:
 
 1) Respublikos Prezidentui mirus;
 
@@ -295,43 +261,59 @@ Seimo Pirmininkas laikinai eina Respublikos Prezidento pareigas Lietuvos Respubl
 
 4) kai Seimas nutaria, kad Respublikos Prezidento sveikatos būklė neleidžia jam eiti pareigų.
 
-Laikinai eidamas Respublikos Prezidento pareigas, Seimo Pirmininkas tam laikui netenka savo įgaliojimų Seime, jam laikinai pereina visi Respublikos Prezidento įgaliojimai. Seimo Pirmininkas Respublikos Prezidento pareigas eina tol, kol įstatymo nustatyta tvarka prisieks naujai išrinktas Respublikos Prezidentas. Šiuo laikotarpiu Seimo pavedimu Seimo Pirmininko pareigas laikinai eina vienas iš Seimo Pirmininko pavaduotojų.
+2. Laikinai eidamas Respublikos Prezidento pareigas, Seimo Pirmininkas tam laikui netenka savo įgaliojimų Seime, jam laikinai pereina visi Respublikos Prezidento įgaliojimai. Seimo Pirmininkas Respublikos Prezidento pareigas eina tol, kol įstatymo nustatyta tvarka prisieks naujai išrinktas Respublikos Prezidentas.
 
-Seimo Pirmininkui pradėjus laikinai eiti Respublikos Prezidento pareigas, Seimas ne vėliau kaip per 10 dienų priima nutarimą dėl Respublikos Prezidento rinkimų paskelbimo. Šie Respublikos Prezidento rinkimai turi būti surengti ne vėliau kaip per du mėnesius. Jeigu Seimas negali susirinkti ir paskelbti Respublikos Prezidento rinkimų, šiuos rinkimus skelbia Lietuvos Respublikos Vyriausybė.
+3. Laikinai eidamas Respublikos Prezidento pareigas, Seimo Pirmininkas, jo sutuoktinis ar jį lydintis asmuo turi teisę į materialines ir socialines garantijas, nustatytas šio įstatymo 14–19 straipsniuose.
 
-Kai šio įstatymo nustatyta tvarka prisiekia naujai išrinktas Respublikos Prezidentas, Seimo Pirmininkas nustoja laikinai eiti Respublikos Prezidento pareigas ir pradeda eiti Seimo Pirmininko pareigas.
+21 straipsnis. Laikinas Respublikos Prezidento pavadavimas
 
-Papildyta straipsniu:
-
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
-
-23 straipsnis
-
-Seimo Pirmininkas laikinai pavaduoja Respublikos Prezidentą Lietuvos Respublikos Konstitucijos 89 straipsnio antrojoje dalyje nustatytais atvejais:
+1. Seimo Pirmininkas laikinai pavaduoja Respublikos Prezidentą Lietuvos Respublikos Konstitucijos 89 straipsnio 2 dalyje nustatytais atvejais:
 
 1) kai Respublikos Prezidentas laikinai išvykęs į užsienį ir dėl to laikinai negali eiti pareigų;
 
 2) kai Respublikos Prezidentas suserga ir dėl to laikinai negali eiti pareigų.
 
-Seimo Pirmininkas laikinai pavaduotoja Respublikos Prezidentą, kai įsigalioja Respublikos Prezidento dekretas, kuriuo Seimo Pirmininkui laikinai pavedama pavaduoti Respublikos Prezidentą dėl jo laikino išvykimo į užsienį ar susirgimo.
+2. Šio straipsnio 1 dalyje nurodytais atvejais Seimo Pirmininkas turi savo, kaip Seimo Pirmininko, įgaliojimus.
 
-Šio straipsnio pirmojoje dalyje nurodytais atvejais Seimo Pirmininkas turi savo, kaip Seimo Pirmininko, įgaliojimus.
+3. Laikinai pavaduodamas Respublikos Prezidentą, Seimo Pirmininkas negali skelbti pirmalaikių Seimo rinkimų, atleisti ar skirti ministrų be Seimo sutikimo.
 
-Laikinai pavaduodamas Respublikos Prezidentą, Seimo Pirmininkas negali skelbti pirmalaikių Seimo rinkimų, atleisti ar skirti ministrų be Seimo sutikimo.
+22 straipsnis. Draudimas kitiems asmenims ar institucijoms vykdyti Respublikos Prezidento įgaliojimus
 
-Išnykus šio straipsnio pirmojoje dalyje nustatytoms priežastims, Seimo Pirmininkas nustoja pavaduoti Respublikos Prezidentą.
+Jokiais kitais Lietuvos Respublikos Konstitucijos 89 straipsnyje nenurodytais atvejais jokiems kitiems asmenims ar institucijoms negalima vykdyti Respublikos Prezidento įgaliojimų.
 
-Papildyta straipsniu:
+PENKTASIS SKIRSNIS
 
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
+RESPUBLIKOS PREZIDENTO MATERIALINĖS IR SOCIALINĖS GARANTIJOS NUTRŪKUS RESPUBLIKOS PREZIDENTO ĮGALIOJIMAMS
 
-24 straipsnis
+23 straipsnis. Respublikos Prezidento materialinės ir socialinės garantijos nutrūkus Respublikos Prezidento įgaliojimams
 
-Jokiais kitais Lietuvos Respublikos Konstitucijos 89 straipsnyje bei šio įstatymo 22 ir 23 straipsniuose nenurodytais atvejais jokiems kitiems asmenims ar institucijoms negalima vykdyti Respublikos Prezidento įgaliojimų.
+1. Respublikos Prezidento vardas juo buvusiam asmeniui išlieka iki gyvos galvos.
 
-Papildyta straipsniu:
+2. Respublikos Prezidentui, kurio įgaliojimai nutrūko Lietuvos Respublikos Konstitucijos 88 straipsnio 1, 2, 3 ir 6 punktuose nustatytais pagrindais, iki gyvos galvos:
 
-Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
+1) skiriama ir mokama Respublikos Prezidento valstybinė renta. Ją Lietuvos Respublikos Prezidento valstybinės rentos įstatymo nustatytomis sąlygomis ir tvarka moka Respublikos Prezidento kanceliarija;
+
+2) užtikrinamas aptarnaujantis personalas ir transportas. Aptarnaujančio personalo pareigybių ir transporto priemonių skaičių Respublikos Prezidento kanceliarijos teikimu tvirtina Lietuvos Respublikos Vyriausybė;
+
+3) užtikrinama apsauga. Ją teisės aktų nustatyta tvarka vykdo Vadovybės apsaugos departamentas prie Vidaus reikalų ministerijos.
+
+3. Respublikos Prezidentui, jei jis pageidauja, panaudos pagrindais suteikiamas būstas (gyvenamosios patalpos) Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+4. Jeigu Respublikos Prezidentas eidamas pareigas ar pasibaigus kadencijai miršta, jo sutuoktiniui, jei šis pageidauja, panaudos pagrindais suteikiamas būstas (gyvenamosios patalpos) Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+5. Nustačius, kad Respublikos Prezidentas pasibaigus kadencijai žuvo dėl jo eitų Respublikos Prezidento pareigų, šio įstatymo 17 straipsnio 7 dalyje išvardytiems asmenims mokamos tokio paties dydžio kompensacijos, kaip ir jam žuvus einant Respublikos Prezidento pareigas.
+
+6. Sprendimą, ar kadenciją baigęs Respublikos Prezidentas žuvo dėl jo eitų Respublikos Prezidento pareigų, priima Lietuvos Respublikos Vyriausybės sudaryta laikinoji komisija, dalyvaujant joje teisėsaugos ir kitų kompetentingų institucijų atstovams.
+
+7. Respublikos Prezidentas laidojamas valstybės lėšomis.
+
+ŠEŠTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
+
+24 straipsnis. Baigiamosios nuostatos
+
+Lėšos, skirtos Respublikos Prezidentui, Respublikos Prezidento rezidencijai ir Respublikos Prezidento kanceliarijai bei kitoms šiame įstatyme nustatytoms išlaidoms finansuoti, yra nustatomos Respublikos Prezidento kanceliarijai kiekvienų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme.
 
 LAIKINAI EINANTIS
 
@@ -406,4 +388,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-978, 2006-12-12, Žin., 2006, Nr. 141-5404 (2006-12-28), i. k. 1061010ISTA000X-978
 
 Lietuvos Respublikos Prezidento įstatymo, Valstybinių pensijų įstatymo, Vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo pakeitimo ir papildymo bei Valstybinių pensijų įstatymo 2 ir 11 straipsnių pakeitimo įstatymo 1 straipsnio pripažinimo netekusiu galios įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1798, 2008-11-11, Žin., 2008, Nr. 135-5234 (2008-11-25), i. k. 1081010ISTA00X-1798
+
+Lietuvos Respublikos Prezidento įstatymo pakeitimo įstatymas
 
