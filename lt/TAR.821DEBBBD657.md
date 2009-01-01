@@ -4,7 +4,7 @@ identifier: "TAR.821DEBBBD657"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-15"
-last_updated: "2008-08-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.821DEBBBD657"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,15 @@ LIETUVOS RESPUBLIKOS MINIMALIOJO DARBO UŽMOKESČIO DYDŽIŲ, SOCIALINĖS
 
 APSAUGOS IŠMOKŲ IR BAZINIO BAUSMIŲ IR NUOBAUDŲ DYDŽIO INDEKSAVIMO ĮSTATYMAS
 
-LIETUVOS RESPUBLIKOS MINIMALIOJO DARBO UŽMOKESČIO DYDŽIŲ, SOCIALINĖS APSAUGOS IŠMOKŲ IR BAZINIO BAUSMIŲ IR NUOBAUDŲ DYDŽIO INDEKSAVIMO  ĮSTATYMAS
+Suvestinė redakcija nuo 2009-01-01 iki 2016-12-31
+
+Įstatymas paskelbtas: Žin. 2008, Nr. 83-3294, i. k. 1081010ISTA00X-1710
+
+Nauja redakcija nuo 2009-01-01:
+
+Nr. XI-87, 2008-12-19, Žin. 2008, Nr. 149-6013 (2008-12-30), i. k. 1081010ISTA000XI-87
+
+LIETUVOS RESPUBLIKOS SOCIALINĖS APSAUGOS IŠMOKŲ ATSKAITOS RODIKLIŲ IR BAZINIO BAUSMIŲ IR NUOBAUDŲ DYDŽIO NUSTATYMO  ĮSTATYMAS
 
 2008 m. liepos 15 d. Nr. X-1710
 
@@ -29,45 +37,53 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato socialinės apsaugos išmokų atskaitos rodiklius, jų patvirtinimo tvarką, bazinį bausmių ir nuobaudų dydį ir jo taikymą, minimaliojo darbo užmokesčio dydžių, socialinės apsaugos išmokų atskaitos rodiklių, pareigūnų ir karių valstybinių pensijų, iki 1991 m. liepos 1 d. paskirtų pareigūnų ir karių valstybinių pensijų už tarnybą (ištarnautus metus) ir netekto darbingumo pensijų bei teisėjų valstybinių pensijų indeksavimą.
+Šis įstatymas nustato socialinės apsaugos išmokų atskaitos ir bazinio bausmių ir nuobaudų dydžio rodiklius bei jų tvirtinimo tvarką.
 
 2 straipsnis. Socialinės apsaugos išmokų atskaitos rodikliai
 
-1. Socialinės apsaugos išmokos – tai įstatymų nustatytos piniginės išmokos, skirtos asmenų, atitinkančių įstatymų nustatytus reikalavimus, socialinei apsaugai ir mokamos iš valstybės biudžeto, savivaldybių biudžetų ir Valstybinio socialinio draudimo fondo biudžeto.
+1. Socialinės apsaugos išmokos – įstatymų nustatytos piniginės išmokos, skirtos asmenų, atitinkančių įstatymų nustatytus reikalavimus, socialinei apsaugai ir mokamos iš valstybės biudžeto, savivaldybių biudžetų ir Valstybinio socialinio draudimo fondo biudžeto.
 
 2. Socialinės apsaugos išmokų atskaitos rodikliai yra šie:
 
-1) bazinė socialinė išmoka – tai rodiklis socialinės apsaugos išmokoms ir kitiems teisės aktų nustatytiems dydžiams apibrėžti ir apskaičiuoti;
+1) bazinė socialinė išmoka – rodiklis socialinės apsaugos išmokoms ir kitiems teisės aktų nustatytiems dydžiams apibrėžti ir apskaičiuoti;
 
-2) valstybės remiamos pajamos – tai rodiklis, taikomas nustatant pajamas ir turto lygį, suteikiančius teisę asmenims gauti teisės aktų reglamentuotą socialinę paramą, taip pat apibrėžiant ir apskaičiuojant teisės aktų nustatytus dydžius;
+2) valstybės remiamos pajamos – rodiklis, taikomas nustatant pajamas ir turto lygį, suteikiančius teisę asmenims gauti teisės aktų reglamentuotą socialinę paramą, taip pat apibrėžiant ir apskaičiuojant teisės aktų nustatytus dydžius;
 
-3) valstybinė socialinio draudimo bazinė pensija – tai rodiklis valstybinių socialinio draudimo pensijų dydžiams ir kitiems įstatymų nustatytiems dydžiams, kurie siejami su valstybine socialinio draudimo bazine pensija, apibrėžti ir apskaičiuoti;
+3) valstybinė socialinio draudimo bazinė pensija – rodiklis valstybinių socialinio draudimo pensijų dydžiams ir kitiems įstatymų nustatytiems dydžiams, kurie siejami su valstybine socialinio draudimo bazine pensija, apibrėžti ir apskaičiuoti;
 
-4) valstybinės socialinio draudimo našlių pensijos bazinis dydis – tai rodiklis valstybinių socialinio draudimo našlių pensijų dydžiams ir kitiems įstatymų nustatytiems dydžiams, kurie siejami su valstybinės socialinio draudimo našlių pensijos baziniu dydžiu, apibrėžti ir apskaičiuoti;
+4) valstybinės socialinio draudimo našlių pensijos bazinis dydis – rodiklis valstybinių socialinio draudimo našlių pensijų dydžiams ir kitiems įstatymų nustatytiems dydžiams, kurie siejami su valstybinės socialinio draudimo našlių pensijos baziniu dydžiu, apibrėžti ir apskaičiuoti;
 
-5) valstybinių pensijų bazė – tai rodiklis Lietuvos Respublikos valstybinių pensijų dydžiams, kurie siejami su valstybinių pensijų baze, apibrėžti ir apskaičiuoti.
+5) valstybinių pensijų bazė – rodiklis Lietuvos Respublikos valstybinių pensijų dydžiams, kurie siejami su valstybinių pensijų baze, apibrėžti ir apskaičiuoti.
 
 3. Valstybinių pensijų bazės dydis negali būti didesnis už galiojančios valstybinės socialinio draudimo bazinės pensijos dydį.
 
-4. Bazinės socialinės išmokos dydį, valstybės remiamų pajamų dydį, valstybinės socialinio draudimo bazinės pensijos dydį, valstybinės socialinio draudimo našlių pensijos bazinį dydį ir valstybinių pensijų bazės dydį kiekvienais metais teisės
+4. Bazinės socialinės išmokos dydį, valstybės remiamų pajamų dydį, valstybinės socialinio draudimo bazinės pensijos dydį, valstybinės socialinio draudimo našlių pensijos bazinį dydį ir valstybinių pensijų bazės dydį tvirtina Lietuvos Respublikos Vyriausybė.
 
 3 straipsnis. Bazinis bausmių ir nuobaudų dydis
 
-1. Bazinis bausmių ir nuobaudų dydis – tai rodiklis, taikomas nusikalstamoms veikoms ir administraciniams teisės pažeidimams kvalifikuoti bei bausmių ir nuobaudų dydžiams apibrėžti ir apskaičiuoti.
+1. Bazinis bausmių ir nuobaudų dydis – rodiklis, taikomas nusikalstamoms veikoms ir administraciniams teisės pažeidimams kvalifikuoti bei bausmių ir nuobaudų dydžiams apibrėžti ir apskaičiuoti.
 
-2. Bazinį bausmių ir nuobaudų dydį kiekvienais metais teisės aktų nustatyta tvarka tvirtina Lietuvos Respublikos Vyriausybė. Šis dydis tvirtinamas ne mažesnis, negu nurodyta šio įstatymo 7 straipsnyje.
+2. Bazinį bausmių ir nuobaudų dydį tvirtina Lietuvos Respublikos Vyriausybė.
 
-4 straipsnis. Indeksavimas, indeksavimo apskaitos laikotarpis, vartotojų kainų indekso apskaičiavimas ir skelbimas
+4 straipsnis. Įstatymo taikymas
 
-1. Indeksavimas yra bazinio bausmių ir nuobaudų dydžio, darbo užmokesčio, socialinės apsaugos išmokų atskaitos rodiklių ar kitų pajamų perskaičiavimas, siekiant visiškai ar iš dalies kompensuoti dėl vartotojų kainų padidėjimo prarastas pajamas.
+1. Kituose teisės aktuose vartojamas rodiklis „minimalusis gyvenimo lygis“ arba „MGL“ yra tapatus ir lygus bazinei socialinei išmokai, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
 
-2. Indeksavimo apskaitos laikotarpiu (toliau – apskaitos laikotarpis) laikomi dveji metai iki einamųjų metų liepos 1 dienos.
+2. Teisės aktuose, reglamentuojančiuose nusikalstamų veikų ir administracinių teisės pažeidimų kvalifikavimą bei bausmių ir nuobaudų dydžių apibrėžimą ir apskaičiavimą, vartojamas rodiklis „minimalusis gyvenimo lygis“ arba „MGL“ yra tapatus ir lygus baziniam bausmių ir nuobaudų dydžiui.
 
-3. Apskaitos laikotarpio (dvejų metų, prasidedančių nuo liepos mėnesio) vidutinį metinį vartotojų kainų indeksą (toliau – vartotojų kainų indeksas), vadovaudamasis šiame straipsnyje nustatyta tvarka, kasmet apskaičiuoja ir skelbia Statistikos departamentas prie Lietuvos Respublikos Vyriausybės. Vartotojų kainų indeksas yra geometrinis vidurkis apskaitos laikotarpio paskutinių 12 mėnesių vidutinio metinio vartotojų kainų indekso ir apskaitos laikotarpio pirmų 12 mėnesių vidutinio metinio vartotojų kainų indekso.
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-4. Apskaitos laikotarpio vidutinis metinis vartotojų kainų padidėjimas yra procentais išreikštas skirtumas tarp apskaitos laikotarpio (dvejų metų, prasidedančių nuo liepos mėnesio) vidutinio metinio vartotojų kainų indekso ir 100.
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
 
-5. Lietuvos Respublikos Vyriausybė kasmet, atsižvelgdama į apskaitos laikotarpio vidutinį metinį vartotojų kainų padidėjimą, priima sprendimą dėl bazinio bausmių ir nuobaudų dydžio, minimaliojo darbo užmokesčio dydžių, socialinės apsaugos išmokų atskaitos rodiklių, pareigūnų ir karių valstybinių pensijų, iki 1991 m. liepos 1 d. paskirtų pareigūnų ir karių valstybinių pensijų už tarnybą (ištarnautus metus) ir netekto darbingumo pensijų bei teisėjų valstybinių pensijų indeksavimo.
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-87, 2008-12-19, Žin., 2008, Nr. 149-6013 (2008-12-30), i. k. 1081010ISTA000XI-87
+
+Lietuvos Respublikos minimaliojo darbo užmokesčio dydžių, socialinės apsaugos išmokų ir bazinio bausmių ir nuobaudų dydžio indeksavimo įstatymo pakeitimo įstatymas
 
 5 straipsnis. Minimaliojo darbo užmokesčio dydžių indeksavimas
 
