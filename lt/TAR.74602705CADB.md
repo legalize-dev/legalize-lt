@@ -4,7 +4,7 @@ identifier: "TAR.74602705CADB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-25"
-last_updated: "2009-01-01"
+last_updated: "2009-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 department: "Lietuvos Respublikos Seimas"
@@ -334,9 +334,9 @@ bunkeriams ar esančios jūroje plaukiojančių laivų bunkeriuose;
 
 3) atsargos, skirtos tiesioginiam tranzitui;
 
-4) atsargos vamzdynuose, keliais ir geležinkeliais vežamose
+4) atsargos vamzdynuose, keliais ir geležinkeliais
 
-cisternose;
+vežamose cisternose;
 
 5) ginkluotųjų pajėgų bei joms skirtos atsargos;
 
@@ -382,9 +382,9 @@ straipsnis. Atsargų naudojimas
 
 1. Atsargos,
 
-nustatytos šio Įstatymo 6 straipsnio 1 dalyje, gali būti naudojamos tik ekstremalios
+nustatytos šio Įstatymo 6 straipsnio 1 dalyje, gali būti naudojamos tik
 
-energetikos padėties laikotarpiu.
+ekstremalios energetikos padėties laikotarpiu.
 
 Straipsnio pakeitimai:
 
@@ -738,9 +738,9 @@ verčiasi energijos ar energijos išteklių, naftos ar naftos produktų gavyba,
 
 gamyba, importu, eksportu, prekyba, atgabenimu, išgabenimu, vartojimu, taip pat
 
-Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, Valstybinė
+Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, Valstybinė mokesčių
 
-mokesčių inspekcija ir Lietuvos Respublikos muitinė privalo teikti informaciją
+inspekcija ir Lietuvos Respublikos muitinė privalo teikti informaciją
 
 Vyriausybės įgaliotai institucijai šio Įstatymo nuostatoms įgyvendinti. Įmonių
 
@@ -796,23 +796,23 @@ nustatyta tvarka.
 
 įstatymų nustatyta tvarka.
 
-4. Atsargų kaupimą, tvarkymą
+4. Atsargų kaupimą,
 
-kontroliuoja Valstybinė energetikos inspekcija prie Ūkio ministerijos (toliau –
+tvarkymą kontroliuoja Valstybinė energetikos inspekcija prie Energetikos
 
-Valstybinė energetikos inspekcija). Atsargos yra kontroliuojamos bet kuriuo
+ministerijos (toliau – Valstybinė energetikos inspekcija). Atsargos yra
 
-metu, neatsižvelgiant į nuosavybę, laikymo vietą ar sąlygas. Valstybinės
+kontroliuojamos bet kuriuo metu, neatsižvelgiant į nuosavybę, laikymo vietą ar
 
-energetikos inspekcijos pareigūnai pagal savo kompetenciją turi teisę įeiti į
+sąlygas. Valstybinės energetikos inspekcijos pareigūnai pagal savo kompetenciją
 
-ūkio subjekto teritoriją, patalpas, tikrinti atsargas, patikrinti reikiamus
+turi teisę įeiti į ūkio subjekto teritoriją, patalpas, tikrinti atsargas,
 
-dokumentus ir gauti jų kopijas. Patikrinimas įforminamas aktu. Akto formą ir
+patikrinti reikiamus dokumentus ir gauti jų kopijas. Patikrinimas įforminamas
 
-užpildymo tvarką nustato Valstybinė energetikos inspekcija. Patikrinime gali
+aktu. Akto formą ir užpildymo tvarką nustato Valstybinė energetikos inspekcija.
 
-dalyvauti ir kitų valstybės institucijų atstovai.
+Patikrinime gali dalyvauti ir kitų valstybės institucijų atstovai.
 
 Straipsnio
 
@@ -820,9 +820,13 @@ pakeitimai:
 
 Nr.
 
-IX-1334,
+IX-1334, 2003-01-28,
 
-2003-01-28, Žin., 2003, Nr. 17-709 (2003-02-19)
+Žin., 2003, Nr. 17-709 (2003-02-19)
+
+Nr. XI-137,
+
+2009-01-12, Žin., 2009, Nr. 10-359 (2009-01-27)
 
 ŠEŠTASIS SKIRSNIS
 
@@ -852,7 +856,7 @@ Skelbiu šį
 
 Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS
 
 ADAMKUS
 
@@ -926,9 +930,9 @@ IX-2145,
 
 NAFTOS
 
-PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 1, 2, 3, 4, 8, 10, 11, 12
+PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 1, 2, 3, 4, 8, 10, 11, 12 STRAIPSNIŲ
 
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
 
 3.
 
@@ -948,13 +952,33 @@ PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 4 IR 14 STRAIPSNIŲ PAKEITIMO
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
 
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-137,
+
+2009-01-12, Žin., 2009, Nr. 10-359 (2009-01-27)
+
+NAFTOS
+
+PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2009 m. vasario 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2009-01-06)
+Aušrinė Trapinskienė (2009-01-28)
 
 autrap@lrs.lt
 
