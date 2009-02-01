@@ -4,7 +4,7 @@ identifier: "TAR.9A844F180551"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-04"
-last_updated: "1999-11-19"
+last_updated: "2009-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A844F180551"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1999-11-04"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos oro apsaugos įstatymas
+
+Suvestinė redakcija nuo 2009-02-01 iki 2010-06-30
+
+Įstatymas paskelbtas: Žin. 1999, Nr. 98-2813, i. k. 0991010ISTAIII-1392
 
 LIETUVOS RESPUBLIKOS APLINKOS ORO APSAUGOS ĮSTATYMAS
 
@@ -169,7 +173,11 @@ Sanitarinių apsaugos zonų nustatymo ir priežiūros tvarką tvirtina Vyriausyb
 
 13 straipsnis. Kuro reikalavimai
 
-1. Lietuvos Respublikoje naudoti galima tik tokį kurą ir tokius degalus, kurie atitinka Ūkio, Aplinkos ir Susisiekimo ministerijų nustatytus sudėties ir kokybės reikalavimus poveikio žmogaus sveikatai ir aplinkai vertinimo atžvilgiu.
+1. Lietuvos Respublikoje naudoti galima tik tokį kurą ir tokius degalus, kurie atitinka Energetikos, Aplinkos ir Susisiekimo ministerijų nustatytus sudėties ir kokybės reikalavimus poveikio žmogaus sveikatai ir aplinkai vertinimo atžvilgiu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-140, 2009-01-12, Žin., 2009, Nr. 10-362 (2009-01-27), i. k. 1091010ISTA00XI-140
 
 2. Gamintojai, importuotojai ir prekybininkai privalo užtikrinti, kad gaminamo, importuojamo ir vartotojams parduodamo kuro bei degalų sudėtis ir kokybė atitiktų šio straipsnio 1 dalies reikalavimus.
 
@@ -287,25 +295,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-51 straipsnis. Aplinkos oro kokybės vertinimas savivaldybių lygmeniu
+Pakeitimai:
 
-1. Aplinkos oro kokybės vertinimas savivaldybės lygmeniu vykdomas pagal Aplinkos monitoringo įstatymo nustatyta tvarka rengiamą ir tvirtinamą savivaldybės aplinkos monitoringo programą, siekiant:
+1.
 
-1) gauti išsamią informaciją apie aplinkos oro užterštumo lygį savivaldybės gyvenamosiose vietovėse;
+Lietuvos Respublikos Seimas, Įstatymas
 
-2) nustatyti savivaldybės gyvenamosios vietovės dalis, kuriose aplinkos oro užterštumo lygis gali daryti kenksmingą poveikį vietos gyventojų sveikatai;
+Nr. XI-140, 2009-01-12, Žin., 2009, Nr. 10-362 (2009-01-27), i. k. 1091010ISTA00XI-140
 
-3) nustatyti ūkio subjektus, kurių keliama tarša daro reikšmingą neigiamą poveikį aplinkos oro užterštumo lygiui savivaldybės gyvenamojoje vietovėje ar jos dalyje;
-
-4) informuoti savivaldybės gyvenamosios vietovės ar jos dalies bendruomenę apie aplinkos oro užterštumo lygį ir imtis veiksmų aplinkos oro kokybei savivaldybės gyvenamosiose vietovėse gerinti.
-
-2. Savivaldybių institucijos ir įstaigos savivaldybių gyvenamosiose vietovėse ar šio straipsnio 1 dalies 2 punkte nurodytose jų dalyse vykdo aplinkos oro užterštumo aplinkai ar žmonių sveikatai aktualiais teršalais lygio matavimus ar kitais vertinimo metodais nustato tų teršalų koncentraciją aplinkos ore, planuoja ir įgyvendina vietines aplinkos oro kokybės valdymo priemones.
-
-3. Kai nustatomas šio straipsnio 1 dalies 3 punkte nurodytas ūkio subjektas, kurio keliama tarša daro reikšmingą neigiamą poveikį aplinkos oro užterštumo lygiui savivaldybės gyvenamojoje vietovėje ar jos dalyje, savivaldybės administracija per 7 darbo dienas nuo ūkio subjekto nustatymo dienos apie tai raštu informuoja ūkio subjektą ir ūkio subjektų veiklos priežiūrą vykdančias institucijas.
-
-4. Kai nustatytas šio straipsnio 1 dalies 3 punkte nurodytas ūkio subjektas, kurio keliama tarša daro reikšmingą neigiamą poveikį aplinkos oro užterštumo lygiui savivaldybės gyvenamojoje vietovėje ar jos dalyje, turi taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą, savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius gali teikti aplinkos ministro įgaliotai išduoti leidimus institucijai prašymą aplinkos ministro nustatyta tvarka peržiūrėti šio leidimo sąlygas.
-
-Papildyta straipsniu:
-
-Nr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo 13 straipsnio pakeitimo įstatymas
 
