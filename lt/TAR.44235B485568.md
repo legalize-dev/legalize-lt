@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2008-11-25"
+last_updated: "2009-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -163,15 +163,11 @@ svarbos energetikos objektai – 50 MW ir didesnės galios elektrinės bei
 
 katilinės; 110 kV ir didesnės įtampos elektros perdavimo tinklas, jo
 
-priklausiniai; magistraliniai dujotiekiai; 25 000 000 m3 ir didesnės
+priklausiniai; magistraliniai dujotiekiai; 25 000 000 m3 ir didesnės gamtinių dujų saugyklos; suskystintųjų gamtinių dujų importo
 
-gamtinių dujų saugyklos; suskystintųjų gamtinių dujų importo terminalai bei
+terminalai bei saugyklos; magistraliniai naftotiekiai, produktotiekiai; naftos
 
-saugyklos; magistraliniai naftotiekiai, produktotiekiai; naftos perdirbimo
-
-įmonės, perdirbančios 50 000 tonų ir daugiau naftos per metus; 10 000 m3
-
-ir didesni naftos, naftos produktų terminalai bei saugyklos; branduolinės
+perdirbimo įmonės, perdirbančios 50 000 tonų ir daugiau naftos per metus; 10 000 m3 ir didesni naftos, naftos produktų terminalai bei saugyklos; branduolinės
 
 energetikos objektai; energetikos objektai, kurių svarbą valstybei pripažįsta
 
@@ -259,22 +255,6 @@ valstybinė kontrolė – energetikos objektų saugumo, energetikos įrenginių
 
 eksploatavimo, tiekimo patikimumo, efektyvumo kontrolė.
 
-25 dalies redakcija iki
-
-2009 m. sausio 1 d.:
-
-25. Energetikos
-
-auditas – energetikos įrenginių, technologinių įrenginių ir procesų
-
-būklės patikrinimas ir įvertinimas efektyvaus energijos vartojimo požiūriu bei
-
-energijos išteklių ar energijos taupymo priemonių parinkimas.
-
-25 dalies redakcija nuo
-
-2009 m. sausio 1 d.:
-
 25.
 
 Energijos vartojimo auditas – procedūra, kurios metu nustatomos ir
@@ -285,11 +265,11 @@ technologiniuose procesuose, įrenginiuose ar transporto objektuose, arba
 
 bendros energijos išteklių ir (ar) energijos sąnaudos, reikalingos teikiant
 
-viešas ar privačias paslaugas, parenkamos ir ekonomiškai pagrindžiamos
+viešas ar privačias paslaugas, parenkamos ir ekonomiškai pagrindžiamos energijos
 
-energijos išteklių ir (ar) energijos taupymo priemonės, taip pat pateikiama
+išteklių ir (ar) energijos taupymo priemonės, taip pat pateikiama ataskaita
 
-ataskaita energijos vartojimo audito užsakovui.
+energijos vartojimo audito užsakovui.
 
 26.
 
@@ -298,10 +278,6 @@ Techninė sauga – šio Įstatymo ir kitų teisės aktų nustatytų energetikos
 objektams ir įrenginiams reikalavimų visuma, užtikrinanti jų patikimumą ir
 
 saugumą.
-
-Straipsnis papildomas 27
-
-ir 28 dalimis nuo 2009 m. sausio 1 d.:
 
 27. Savanoriškas susitarimas –
 
@@ -313,11 +289,11 @@ energijos vartojimo efektyvumo didinimo tikslus, sudaro tų tikslų pasiekimo
 
 grafiką, nustato susitarimo vykdymo stebėsenos ir atskaitomybės reikalavimus.
 
-28. Reguliuojama veikla – energetikos
+28. Reguliuojama veikla –
 
-veikla, kuri yra licencijuojama arba kuriai taikomos valstybės reguliuojamos
+energetikos veikla, kuri yra licencijuojama arba kuriai taikomos valstybės
 
-kainos.
+reguliuojamos kainos.
 
 Straipsnio pakeitimai:
 
@@ -363,10 +339,6 @@ atsinaujinančiųjų energijos išteklių vartojimo skatinimas.
 
 straipsnis. Energetikos valdymo institucijos
 
-1 dalies redakcija iki
-
-2009 m. sausio 1 d.:
-
 1. Energetikos
 
 valstybinį valdymą Lietuvos Respublikoje šio Įstatymo nustatyta tvarka vykdo:
@@ -375,31 +347,9 @@ valstybinį valdymą Lietuvos Respublikoje šio Įstatymo nustatyta tvarka vykdo
 
 jos įgaliotos institucijos;
 
-2) Ūkio
+2)
 
-ministerija;
-
-3)
-
-Aplinkos ministerija;
-
-4) savivaldybės.
-
-1 dalies redakcija nuo
-
-2009 m. sausio 1 d.:
-
-1. Energetikos
-
-valstybinį valdymą Lietuvos Respublikoje šio Įstatymo nustatyta tvarka vykdo:
-
-1) Vyriausybė ar
-
-jos įgaliotos institucijos;
-
-2) Ūkio
-
-ministerija;
+Energetikos ministerija;
 
 3)
 
@@ -439,18 +389,6 @@ skatinti efektyvų energijos ir energijos išteklių vartojimą;
 
 skatinti vietinių ir atsinaujinančiųjų energijos išteklių vartojimą;
 
-6 punkto redakcija iki
-
-2009 m. sausio 1 d.:
-
-6)
-
-skatinti įmones rengti energetikos auditus.
-
-6 punkto redakcija nuo
-
-2009 m. sausio 1 d.:
-
 6)
 
 skatinti juridinius asmenis organizuoti energijos vartojimo auditą.
@@ -460,6 +398,10 @@ Straipsnio pakeitimai:
 Nr. X-1767,
 
 2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
+
+Nr. XI-130,
+
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
 
 5
 
@@ -541,11 +483,11 @@ nustato elektros energijos, pagamintos naudojant atsinaujinančiuosius energijos
 
 išteklius ir kogeneracinėse jėgainėse, supirkimo tvarką;
 
-10)
+10) tvirtina
 
-tvirtina reguliuojamiesiems vartotojams ir fiziniams asmenims, energijos
+reguliuojamiesiems vartotojams ir fiziniams asmenims, energijos perdavimo,
 
-perdavimo, skirstymo ir tiekimo sutarčių privalomas standartines sąlygas;
+skirstymo ir tiekimo sutarčių privalomas standartines sąlygas;
 
 11)
 
@@ -577,17 +519,19 @@ Nr. X-1108,
 
 6
 
-straipsnis. Ūkio ministerijos kompetencija
+straipsnis. Energetikos ministerijos kompetencija
 
-Ūkio ministerija:
+Energetikos
+
+ministerija:
 
 1) įgyvendina
 
 valstybės politiką energetikos srityje;
 
-2) plėtoja
+2) plėtoja tarptautinį bendradarbiavimą
 
-tarptautinį bendradarbiavimą energetikos srityje;
+energetikos srityje;
 
 3) rengia ir
 
@@ -641,11 +585,11 @@ energetikos valstybinės kontrolės ir vartotojų energetikos įrenginių kontro
 
 tvarką;
 
-12) nustato informacijos, susijusios su energetikos
+12) nustato
 
-veikla, teikimo valstybės institucijoms, įstaigoms ir trečiosioms šalims
+informacijos, susijusios su energetikos veikla, teikimo valstybės
 
-tvarką, kiekį bei sąlygas;
+institucijoms, įstaigoms ir trečiosioms šalims tvarką, kiekį bei sąlygas;
 
 13) tvirtina šio
 
@@ -669,41 +613,31 @@ nustatyti šio Įstatymo 20 straipsnyje išvardytų įrenginių efektyvumo
 
 reikalavimus ir efektyvumo kontrolės tvarką;
 
-16 punkto redakcija iki 2009 m. sausio 1
+16) nustato
 
-d.:
+energijos vartojimo pastatuose, technologiniuose procesuose ir įrenginiuose
 
-16) atlieka
+audito atlikimo tvarką ir sąlygas, tvirtina šio audito atlikimo metodikas;
 
-kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
+17) nustato
 
-Straipsnis papildomas
+savanoriškų susitarimų sudarymo tvarką ir sudaro su energetikos įmonėmis
 
-nauju 16 punktu, 17, 18 ir 19 punktais, buvęs 16 punktas laikomas 20 punktu nuo
+savanoriškus susitarimus;
 
-2009 m. sausio 1 d.:
+18) nustato
 
-16) nustato energijos vartojimo
+energijos vartojimo pastatuose, technologiniuose procesuose ir įrenginiuose
 
-pastatuose, technologiniuose procesuose ir įrenginiuose audito atlikimo tvarką
+auditą atliekančių specialistų rengimo ir atestavimo tvarką;
 
-ir sąlygas, tvirtina šio audito atlikimo metodikas;
+19) organizuoja
 
-17) nustato savanoriškų susitarimų
+keitimąsi patirtimi efektyvaus energijos išteklių ir energijos vartojimo
 
-sudarymo tvarką ir sudaro su energetikos įmonėmis savanoriškus susitarimus;
+srityje tarp valstybės institucijų, įstaigų, įmonių, organizacijų nacionaliniu
 
-18) nustato energijos vartojimo
-
-pastatuose, technologiniuose procesuose ir įrenginiuose auditą atliekančių
-
-specialistų rengimo ir atestavimo tvarką;
-
-19) organizuoja keitimąsi patirtimi
-
-efektyvaus energijos išteklių ir energijos vartojimo srityje tarp valstybės
-
-institucijų, įstaigų, įmonių, organizacijų nacionaliniu ir tarptautiniu lygiu;
+ir tarptautiniu lygiu;
 
 20) atlieka
 
@@ -718,6 +652,10 @@ Nr. IX-1644,
 Nr. X-1767,
 
 2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
+
+Nr. XI-130,
+
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
 
 7
 
@@ -739,23 +677,21 @@ ir vykdo poveikio aplinkai stebėjimus energetikos veiklos padidintos taršos
 
 zonose;
 
-3) kartu su Ūkio
+3)
 
-ministerija nustato šalyje numatomų vartoti ir vartojamų energijos išteklių
+kartu su Energetikos ministerija nustato šalyje numatomų vartoti ir vartojamų
 
-kokybės reikalavimus ir teikia rekomendacijas juos vartoti;
+energijos išteklių kokybės reikalavimus ir teikia rekomendacijas juos vartoti;
 
 4) dalyvauja
 
 rengiant atsinaujinančiųjų energijos išteklių programas.
 
-Įstatymas
+Straipsnio pakeitimai:
 
-papildomas 71
+Nr. XI-130,
 
-straipsniu nuo
-
-2009 m. sausio 1 d.:
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
 
 71
 
@@ -777,11 +713,13 @@ rekomendacijas ir įgyvendina priemones, didinančias energijos išteklių ir
 
 energijos vartojimo efektyvumą transporto objektuose;
 
-3) nustato
+3) nustato energijos
 
-energijos vartojimo transporto objektuose (išskyrus statinius) audito atlikimo
+vartojimo transporto
 
-tvarką ir sąlygas, tvirtina šio audito atlikimo metodikas;
+objektuose (išskyrus statinius) audito atlikimo tvarką ir sąlygas, tvirtina šio
+
+audito atlikimo metodikas;
 
 4) nustato
 
@@ -799,9 +737,9 @@ išteklius ir energiją.
 
 straipsniu:
 
-Nr. X-1767,
+Nr. X-1767, 2008-11-06,
 
-2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
+Žin., 2008, Nr. 135-5228 (2008-11-25)
 
 8
 
@@ -825,7 +763,7 @@ naftos produktais licencijas;
 
 4) išduoda
 
-leidimus suskystintųjų naftos dujų prekybai Ūkio ministerijos patvirtinta
+leidimus suskystintųjų naftos dujų prekybai Energetikos ministerijos patvirtinta
 
 tvarka;
 
@@ -842,6 +780,12 @@ ištekliais planą, užtikrina kitų Vyriausybės sprendimų vykdymą;
 dalyvauja rengiant švietėjiškas visuomenės informavimo priemones, padedančias
 
 efektyviai vartoti energiją ir energijos išteklius.
+
+Straipsnio pakeitimai:
+
+Nr. XI-130,
+
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
 
 TREČIASIS SKIRSNIS
 
@@ -941,11 +885,11 @@ straipsnis. Energetikos agentūra
 
 1. Energetikos
 
-agentūra yra valstybės įmonė. Jos steigėja – Ūkio ministerija.
+agentūra yra valstybės įmonė. Jos steigėja – Energetikos ministerija.
 
 2. Energetikos
 
-agentūra Ūkio ministerijos pavedimu atlieka šias pagrindines funkcijas:
+agentūra  Energetikos ministerijos pavedimu atlieka šias pagrindines funkcijas:
 
 1) vykdo
 
@@ -955,21 +899,29 @@ Strategijos įgyvendinimo plano priemones;
 
 energijos vartojimo efektyvumo didinimo programą ir jos priemonių planą;
 
-3) atlieka užsienio pagalbos programų ir projektų
+3) atlieka
 
-vykdymo energetikos sektoriuje priežiūrą bei stebėseną (monitoringą);
+užsienio pagalbos programų ir projektų vykdymo energetikos sektoriuje priežiūrą
 
-4) atlieka efektyvaus energijos išteklių, energijos
+bei stebėseną (monitoringą);
 
-vartojimo, atsinaujinančiųjų energijos išteklių vartojimo propagavimo ir
+4) atlieka
 
-informacinį darbą;
+efektyvaus energijos išteklių, energijos vartojimo, atsinaujinančiųjų energijos
 
-3. Energetikos
+išteklių vartojimo propagavimo ir informacinį darbą.
 
-agentūra taip pat atlieka šio ir kitų įstatymų nustatytas ar Ūkio ministerijos
+3.
 
-pavestas funkcijas.
+Energetikos agentūra taip pat atlieka šio ir kitų įstatymų nustatytas ar
+
+Energetikos ministerijos pavestas funkcijas.
+
+Straipsnio pakeitimai:
+
+Nr. XI-130,
+
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
 
 11
 
@@ -1023,19 +975,19 @@ išlaidas. Perkeltų ar rekonstruotų energetikos objektų nuosavybė nekeičiam
 
 straipsnis. Energetikos veikla
 
-1. Energetikos įmonės
+1. Energetikos
 
-vykdo veiklą tokiu būdu, kad užtikrintų saugią, efektyvią, aplinką tausojančią
+įmonės vykdo veiklą tokiu būdu, kad užtikrintų saugią, efektyvią, aplinką
 
-energijos gamybą, tiekimą, perdavimą, skirstymą iki patiektos energijos
+tausojančią energijos gamybą, tiekimą, perdavimą, skirstymą iki patiektos
 
-apskaitos prietaiso sujungimo su vartotojo sistema vietos, neviršydamos
+energijos apskaitos prietaiso sujungimo su vartotojo sistema vietos,
 
-nustatytų valstybės reguliuojamų kainų. Energetikos įmonės, tiekiančios šilumą
+neviršydamos nustatytų valstybės reguliuojamų kainų. Energetikos įmonės,
 
-daugiabučiams namams, šilumą tiekia butams, jeigu vartotojai nepageidauja
+tiekiančios šilumą daugiabučiams namams, šilumą tiekia butams, jeigu vartotojai
 
-kitaip.
+nepageidauja kitaip.
 
 2. Energetikos įmonė perduoda, skirsto, tiekia
 
@@ -1089,9 +1041,9 @@ santykiai su energijos išteklių ar energijos vartotojais grindžiami sutartimi
 
 Energijos tiekimo, perdavimo ir skirstymo sutartys yra viešos. Energija
 
-reguliuojamiesiems vartotojams ir fiziniams asmenims tiekiama, perduodama, skirstoma
+reguliuojamiesiems vartotojams ir fiziniams asmenims tiekiama, perduodama,
 
-sudarius sutartį pagal privalomas standartines sąlygas.
+skirstoma sudarius sutartį pagal privalomas standartines sąlygas.
 
 7. Energetikos įmonės, perduodančios, skirstančios
 
@@ -1107,15 +1059,15 @@ sektoriuose, licencijuojamos veiklos sąnaudų auditas ir jo išvados pateiktos
 
 Komisijai.
 
-9. Energetikos įmonės dalyvauja rengiant reguliuojamųjų
+9. Energetikos įmonės dalyvauja rengiant
 
-kainų nustatymo metodikų, energetikos objektų prijungimo įkainių skaičiavimo
+reguliuojamųjų kainų nustatymo metodikų, energetikos objektų prijungimo įkainių
 
-metodikų, energijos perdavimo, skirstymo, tiekimo taisyklių, kitų teisės aktų,
+skaičiavimo metodikų, energijos perdavimo, skirstymo, tiekimo taisyklių, kitų
 
-reglamentuojančių energetikos įrenginių įrengimą, eksploatavimą, saugą ir kitus
+teisės aktų, reglamentuojančių energetikos įrenginių įrengimą, eksploatavimą,
 
-techninius klausimus, projektus.
+saugą ir kitus techninius klausimus, projektus.
 
 10. Energetikos
 
@@ -2563,9 +2515,9 @@ Straipsnio
 
 pavadinimo redakcija nuo 2009 m. sausio 1 d.:
 
-22 straipsnis. Energijos išteklių rezervinės
+22 straipsnis. Energijos išteklių
 
-atsargos
+rezervinės atsargos
 
 Energetikos įmonės, turinčios daugiau kaip 5 MW galios
 
@@ -2627,13 +2579,19 @@ prioritetinį šalies poreikių tenkinimą.
 
 2. Perdavimo
 
-objektus valdančios energetikos įmonės teikia Komisijai ir Ūkio ministerijai
+objektus valdančios energetikos įmonės teikia Komisijai ir Energetikos
 
-informaciją apie kiekvieną tranzito pareikalavimą, sudarytas tranzito sutartis
+ministerijai informaciją apie kiekvieną tranzito pareikalavimą, sudarytas
 
-ir atsisakymus jas sudaryti. Atsisakymas sudaryti tranzito sutartį turi būti
+tranzito sutartis ir atsisakymus jas sudaryti. Atsisakymas sudaryti tranzito
 
-tinkamai motyvuotas.
+sutartį turi būti tinkamai motyvuotas.
+
+Straipsnio pakeitimai:
+
+Nr. XI-130,
+
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
 
 PENKTASIS
 
@@ -2727,6 +2685,12 @@ apriboti naftos produktų, parduodamos energijos bei energijos išteklių ir
 
 teikiamų paslaugų kainas, jeigu jos yra nepagrįstai didinamos.
 
+Straipsnio pakeitimai:
+
+Nr. XI-130,
+
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
+
 ŠEŠTASIS
 
 SKIRSNIS
@@ -2769,7 +2733,195 @@ tarifų taikymo.
 
 27
 
-straipsnio redakcija iki 2009 m. sausio 1 d.:
+straipsnis. Baudos ir jų skyrimo tvarka
+
+1. Energetikos įmonėms už pažeidimus
+
+vykdant reguliuojamą veiklą Komisija skiria pinigines baudas:
+
+1) už viešai privalomos skelbti
+
+informacijos apie energetikos įmonės licencijuojamą veiklą nepaskelbimą, už
+
+teisės aktais nustatytos informacijos valstybės, savivaldybių institucijoms,
+
+įstaigoms, vartotojų teises ginančioms organizacijoms, atitinkamoms
+
+asociacijoms nepateikimą, taip pat neteisingos ar ne visos informacijos
+
+pateikimą energetikos įmonei gali būti skiriama piniginė bauda nuo vieno
+
+tūkstančio litų iki 0,5 procento energetikos įmonės metinių pajamų iš
+
+konkrečios licencijuojamos veiklos, kurią vykdant padarytas pažeidimas
+
+praėjusiais ūkiniais metais;
+
+2) už kitų licencijuojamos veiklos
+
+sąlygų pažeidimą arba nevykdymą, už Komisijos įpareigojimų (nurodymų) nutraukti
+
+neteisėtą veiklą, pašalinti nustatytus licencijuojamos veiklos sąlygų
+
+pažeidimus, nevykdymą arba vykdymą ne laiku, už įsipareigojimų nesilaikymą
+
+energetikos įmonei gali būti skiriama piniginė bauda nuo vieno tūkstančio litų
+
+iki 1 procento energetikos įmonės metinių pajamų iš konkrečios licencijuojamos
+
+veiklos, kurią
+
+vykdant padarytas
+
+pažeidimas praėjusiais ūkiniais metais;
+
+3) už veiklos saugumo ir patikimumo,
+
+sąžiningos konkurencijos ir vartotojų (sistemos naudotojų) nediskriminavimo
+
+principų pažeidimą, už licencijuojamos veiklos sąlygų pakartotinį pažeidimą per
+
+metus energetikos įmonei gali būti skiriama piniginė bauda nuo vieno tūkstančio
+
+litų iki 2 procentų energetikos įmonės metinių pajamų iš konkrečios
+
+licencijuojamos veiklos, kurią vykdant padarytas pažeidimas praėjusiais
+
+ūkiniais metais.
+
+2. Energetikos įmonėms skiriamos
+
+piniginės baudos diferencijuojamos atsižvelgiant į:
+
+1) pažeidimo pavojingumą;
+
+2) pažeidimo trukmę;
+
+3) pažeidimo sukeltas pasekmes;
+
+4) energetikos įmonės atsakomybę
+
+lengvinančias ar sunkinančias aplinkybes.
+
+3. Atsakomybę lengvinančiomis
+
+aplinkybėmis laikoma tai, kad pažeidimą padariusi energetikos įmonė savo noru
+
+užkirto kelią žalingoms pažeidimo pasekmėms, padėjo išaiškinti pažeidimo
+
+aplinkybes, nedelsdama ėmėsi priemonių pašalinti pažeidimą.
+
+4. Atsakomybę sunkinančiomis
+
+aplinkybėmis laikoma tai, kad energetikos įmonė kliudė nustatyti pažeidimo
+
+aplinkybes, slėpė įvykdytą pažeidimą, tęsė pažeidimą, nepaisydama Komisijos
+
+nurodymo nutraukti neteisėtą veiklą, arba įvykdė pažeidimą, dėl kurio
+
+energetikos įmonė buvo bausta pinigine bauda.
+
+5. Komisija, nustatydama piniginės
+
+baudos dydį, atsakomybę lengvinančiomis
+
+gali
+
+pripažinti ir
+
+kitas šiame Įstatyme nenurodytas aplinkybes.
+
+6. Skiriamos piniginės baudos dydis
+
+nustatomas įvertinus šio straipsnio 2 dalyje
+
+1–3 punktuose nurodytas aplinkybes. Nustatytas piniginės baudos dydis
+
+mažinamas, jeigu yra atsakomybę lengvinančių aplinkybių, arba nustatytas
+
+piniginės baudos dydis didinamas, jeigu yra atsakomybę sunkinančių aplinkybių.
+
+Esant atsakomybę lengvinančių ir sunkinančių aplinkybių, piniginės baudos dydis
+
+nustatomas atsižvelgiant į jų kiekį ir reikšmingumą.
+
+7. Piniginės baudos skyrimo klausimas
+
+svarstomas Komisijos posėdyje, dalyvaujant energetikos įmonės, kuri įtariama
+
+padariusi pažeidimą ir kuriai gali būti taikoma piniginė bauda, vadovui ir (ar)
+
+jo įgaliotiems atstovams, kurie turi teisę būti išklausyti ir duoti
+
+paaiškinimus. Nesant minėtų asmenų, byla gali būti išnagrinėta tik tais
+
+atvejais, kai yra duomenų, jog jiems laiku pranešta apie bylos nagrinėjimo
+
+vietą ir laiką, ir jeigu iš jų negautas prašymas atidėti bylos nagrinėjimą. Tuo
+
+atveju, kai yra gautas prašymas atidėti bylos nagrinėjimą, ji gali būti
+
+išnagrinėta nedalyvaujant asmeniui, jeigu Komisija, pripažinusi neatvykimo į
+
+bylos nagrinėjimą priežastis nesvarbiomis, atmeta asmens prašymą.
+
+8. Komisijos nutarimas dėl piniginės
+
+baudos skyrimo turi būti priimamas per 6 mėnesius nuo pažeidimo nustatymo
+
+dienos. Esant tęstiniam pažeidimui, piniginė bauda gali būti skiriama ne vėliau
+
+kaip per 6 mėnesius nuo pažeidimo paaiškėjimo dienos. Už pažeidimus, nuo kurių
+
+padarymo dienos praėjo daugiau kaip penkeri metai, piniginės baudos negali būti
+
+skiriamos.
+
+9. Už tą patį pažeidimą gali būti
+
+skiriama tik viena piniginė bauda. Baudos skyrimas neatleidžia nuo pareigos, už
+
+kurios nevykdymą paskirta piniginė bauda, vykdymo.
+
+10. Komisijos paskirta piniginė bauda į
+
+valstybės biudžetą sumokama Komisijos nustatyta tvarka ir terminais. Komisijos
+
+nutarimas per 30 dienų nuo jo priėmimo dienos įstatymų nustatyta tvarka gali
+
+būti apskundžiamas teismui. Komisijos nutarimas dėl piniginės baudos skyrimo
+
+įsigalioja po 30 dienų nuo nutarimo priėmimo dienos, jei per tą laiką įstatymų
+
+nustatyta tvarka nebuvo apskųstas teismui.
+
+11. Nesumokėta piniginė bauda išieškoma
+
+Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+
+12. Skundą dėl Komisijos nutarimo
+
+nagrinėjantis teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas
+
+aplinkybes (dėl kurių atitinkama piniginė bauda energetikos įmonei, kuri
+
+pažeidė šį įstatymą, būtų akivaizdžiai per didelė, nes neproporcinga padarytam
+
+teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo,
+
+protingumo kriterijais, turi teisę skirti mažesnę piniginę baudą.
+
+Straipsnio pakeitimai:
+
+Nr. X-1767,
+
+2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
+
+SEPTINTASIS
+
+SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
 
 25 straipsnis.
 
@@ -3265,15 +3417,15 @@ ENERGETIKOS SEKTORIAUS REGULIAVIMAS
 
 straipsnis. Kainos
 
-1. Energetikos sektoriuje
+1. Energetikos
 
-yra sutartinės ir valstybės reguliuojamos kainos. Kainos reguliuojamos
+sektoriuje yra sutartinės ir valstybės reguliuojamos kainos. Kainos
 
-tvirtinant paslaugos ar energijos kainas, nustatant jų viršutines ribas ar
+reguliuojamos tvirtinant paslaugos ar energijos kainas, nustatant jų viršutines
 
-reguliavimo tvarką. Valstybės reguliuojamų kainų nomenklatūra ir reguliavimo
+ribas ar reguliavimo tvarką. Valstybės reguliuojamų kainų nomenklatūra ir
 
-principai nustatomi energetikos sektorių įstatymuose.
+reguliavimo principai nustatomi energetikos sektorių įstatymuose.
 
 2. Nustatant
 
@@ -3298,24 +3450,6 @@ mėnesio pirmos dienos.
 16
 
 straipsnis. Licencijos, leidimai ir atestatai
-
-1 dalies redakcija iki 2009 m. sausio 1
-
-d.:
-
-1. Energetikos
-
-veiklai licencijas, leidimus ar atestatus nustato šis ir kiti įstatymai.
-
-Licencijuojamos veiklos rūšis nustato energetikos sektorių ir kiti įstatymai.
-
-Veiklos rūšių, kurioms reikalingas leidimas, sąrašą tvirtina Vyriausybė.
-
-Įmonės, eksploatuojančios energetikos įrenginius, turi būti atestuotos.
-
-1 dalies redakcija nuo 2009 m. sausio 1
-
-d.:
 
 1. Energetikos
 
@@ -3375,9 +3509,7 @@ pirmininkui ar jos nariui nustojus eiti pareigas išmokama dviejų vidutinių
 
 mėnesinių atlyginimų išeitinė išmoka. Išeitinė išmoka nemokama nustojus eiti
 
-pareigas šio straipsnio 4 dalies 2, 3, 4, 5, 6 ir 8 punktuose nustatytais
-
-atvejais.
+pareigas šio straipsnio 4 dalies 2, 3, 4, 5, 6 ir 8 punktuose nustatytais atvejais.
 
 3. Komisijos
 
@@ -3477,9 +3609,9 @@ iš Komisijai skirtų darbo užmokesčio lėšų.
 
 8. Komisija atlieka šias funkcijas:
 
-1) tvirtina valstybės ir savivaldybių reguliuojamų
+1) tvirtina valstybės ir savivaldybių
 
-kainų nustatymo metodikas;
+reguliuojamų kainų nustatymo metodikas;
 
 2) nustato valstybės reguliuojamų kainų
 
@@ -3503,9 +3635,9 @@ reikalavimų;
 
 kainas, įvertina investicijų atsipirkimo ir veiklos išlaidų pagrįstumą;
 
-7) tvirtina elektros energijos, pagamintos
+7) tvirtina elektros energijos,
 
-naudojant atsinaujinančiuosius energijos išteklius, supirkimo kainos
+pagamintos naudojant atsinaujinančiuosius energijos išteklius, supirkimo kainos
 
 apskaičiavimo metodiką ir kainą;
 
@@ -3523,9 +3655,9 @@ energetikos įmonių, besiverčiančių veikla, kurios kainos yra reguliuojamos,
 
 10) teikia
 
-siūlymus dėl energetikos įmonių licencijuojamos veiklos Vyriausybei, Ūkio
+siūlymus dėl energetikos įmonių licencijuojamos veiklos Vyriausybei,
 
-ministerijai, savivaldybėms;
+Energetikos ministerijai, savivaldybėms;
 
 11) įpareigoja
 
@@ -3597,6 +3729,10 @@ Nr. X-1767,
 
 2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
 
+Nr. XI-130,
+
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
+
 18
 
 straipsnis. Energetikos valstybinė kontrolė
@@ -3607,19 +3743,21 @@ kontrolė atliekama visoje Lietuvos Respublikos teritorijoje neatsižvelgiant į
 
 nuosavybės valdymo formą.
 
-2.
+2. Valstybinę energetikos kontrolę
 
-Valstybinę energetikos kontrolę nustatyta tvarka atlieka Valstybinė
+nustatyta tvarka atlieka Valstybinė energetikos inspekcija prie Energetikos
 
-energetikos inspekcija prie Ūkio ministerijos (toliau – Valstybinė energetikos
+ministerijos (toliau – Valstybinė energetikos inspekcija).
 
-inspekcija).
+3. Valstybinė energetikos inspekcija yra
 
-3. Valstybinė
+įstaiga
 
-energetikos inspekcija yra valstybės įstaiga. Jos steigėja – Ūkio ministerija.
+prie ministerijos.
 
-Valstybinės energetikos inspekcijos nuostatus tvirtina Ūkio ministerija.
+Jos steigėja – Energetikos ministerija. Valstybinės energetikos inspekcijos
+
+nuostatus tvirtina Energetikos ministerija.
 
 4. Valstybinė
 
@@ -3696,6 +3834,10 @@ Straipsnio pakeitimai:
 Nr. IX-1644,
 
 2003-06-24, Žin., 2003, Nr. 69-3118 (2003-07-10)
+
+Nr. XI-130,
+
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
 
 19
 
@@ -3837,9 +3979,41 @@ Nr. X-1108,
 
 2007-05-03, Žin., 2007, Nr. 55-2124 (2007-05-19)
 
-Straipsnio
+21
 
-pavadinimo redakcija iki 2009 m. sausio 1 d.:
+straipsnis. Darbuotojų ir
+
+energijos vartojimo auditą atliekančių specialistų kvalifikacinis pasirengimas
+
+ir atestavimas
+
+1.
+
+Energetikos objektus, įrenginius statantys ir eksploatuojantys darbuotojai turi
+
+būti reikiamos kvalifikacijos ir tinkamai pasirengę. Į jų mokymosi programas
+
+turi būti įtraukti ir efektyvaus energijos bei energijos išteklių vartojimo
+
+klausimai.
+
+2. Energetikos objektus, įrenginius statantys ir
+
+eksploatuojantys darbuotojai šio Įstatymo 6 straipsnio 13 punkte bei 18
+
+straipsnio 4 dalies 5 punkte numatyta tvarka privalo būti atestuojami.
+
+3. Energijos vartojimo auditą atlieka
+
+atitinkamai Ūkio ministerijos arba Susisiekimo ministerijos nustatyta tvarka
+
+atestuoti specialistai.
+
+Straipsnio pakeitimai:
+
+Nr. X-1767,
+
+2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
 
 27 straipsnis. Atsakomybė
 
@@ -3851,17 +4025,61 @@ už šio Įstatymo pažeidimus atsako įstatymų nustatyta tvarka.
 
 straipsnio redakcija nuo 2009 m. sausio 1 d.:
 
-28 straipsnis. Įstatymo įgyvendinimo tvarka
+28 straipsnis. Įstatymo įgyvendinimo
 
-1. Energetikos įmonės Vyriausybės ar jos įgaliotos
+tvarka
 
-institucijos nustatyta tvarka išperka ar eksploatuoja vartotojų (juridinių ir
+1. Energetikos įmonės Vyriausybės ar jos
 
-fizinių asmenų) lėšomis iki šio Įstatymo įsigaliojimo įrengtus bendrai
+įgaliotos institucijos nustatyta tvarka išperka ar eksploatuoja vartotojų
 
-naudojamus energetikos objektus, skirtus energijai perduoti ir (ar) skirstyti.
+(juridinių ir fizinių asmenų) lėšomis iki šio Įstatymo įsigaliojimo įrengtus
 
-2. Energetikos įmonės Valstybinei mokesčių inspekcijai
+bendrai naudojamus energetikos objektus, skirtus energijai perduoti ir (ar)
+
+skirstyti. Valstybei
+
+ar savivaldybei nuosavybės teise priklausantys bendrai naudojami energetikos
+
+objektai ir sodininkų bendrijoms nuosavybės teise priklausantys bendrai
+
+naudojami energetikos objektai, skirti energijai perduoti ir (ar) skirstyti,
+
+įrengti iki šio Įstatymo įsigaliojimo, gali būti parduoti energetikos įmonei už
+
+kainą, nustatomą pagal turto ir verslo vertinimą reglamentuojančius teisės
+
+aktus. Išperkamų
+
+bendrai naudojamų energetikos objektų kaina nustatoma vadovaujantis turto ir
+
+verslo vertinimą reglamentuojančiais teisės aktais.
+
+2. Valstybei ar savivaldybei nuosavybės
+
+teise priklausantys bendrai naudojami energetikos objektai perduodami
+
+energetikos įmonei po to, kai valstybės ar savivaldybės institucija, Lietuvos
+
+bankas, valstybės ar savivaldybės įmonė, įstaiga, organizacija, patikėjimo
+
+teise valdanti šiuos objektus, sudaro pirkimo–pardavimo sutartį (toliau –
+
+sutartis) su energetikos įmone. Sutartyje turi būti nustatytas atlyginimo už
+
+perduodamą energetikos objektą būdas, terminai, energetikos objekto naudojimo
+
+tikslas. Sutartis pasirašoma tik tada, kai energetikos objektų pardavimui ir
+
+sutarties projektui pritaria atitinkamai Vyriausybė ar savivaldybės taryba.
+
+Teikiant Vyriausybei ar savivaldybės tarybai pritarti sutarties projektą,
+
+pagrindžiama būtinybė parduoti energetikos objektą energetikos įmonei ir kartu
+
+pateikiama energetikos objekto vertinimo ataskaita.
+
+3. Energetikos įmonės Valstybinei mokesčių inspekcijai
 
 prie Finansų ministerijos arba savivaldybėms teikia informaciją apie naudojamus
 
@@ -3891,21 +4109,329 @@ suteikiami naudotis jų teritorijoje veikiančiai energijos perdavimo ar
 
 skirstymo įmonei.
 
-3.
-
-Šio straipsnio 2 dalies nuostatos netaikomos sąžiningai įgytiems ir teisėtai valdomiems
-
-energetikos objektams, nors jų valdytojai įgyjamąja senatimi dar nėra įgiję
-
-nuosavybės teisės į šiuos objektus.
-
 4.
+
+Šio straipsnio 3 dalies nuostatos netaikomos sąžiningai įgytiems ir teisėtai
+
+valdomiems energetikos
+
+objektams, nors jų valdytojai įgyjamąja senatimi dar nėra įgiję nuosavybės
+
+teisės į šiuos objektus.
+
+5.
 
 Įsigaliojus šiam Įstatymui pirmą kartą skiriant Komisijos narius, du Komisijos
 
 nariai skiriami trejų metų kadencijai.
 
-28
+Straipsnio pakeitimai:
 
-straipsnio redakcija nuo 2009 m. sausio 1 d.:
+Nr. X-1767,
+
+2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
+
+29
+
+straipsnis. Įstatymo įsigaliojimas
+
+1. Įstatymas,
+
+išskyrus 20 straipsnio 2, 3 ir 4 dalis, įsigalioja nuo 2002 m. liepos 1 d.
+
+2. Įstatymo 20 straipsnio 2, 3 ir 4 dalys įsigalioja nuo 2004 m. sausio 1 d.
+
+30
+
+straipsnis. Įstatymų pripažinimas netekusiais galios
+
+Įsigaliojus šiam
+
+Įstatymui, netenka galios:
+
+1) Lietuvos
+
+Respublikos energetikos įstatymas (Žin., 1995, Nr. 32-743);
+
+2) Lietuvos
+
+Respublikos energetikos įstatymo 20 straipsnio pakeitimo įstatymas (Žin., 1996,
+
+Nr. 32-791);
+
+3)
+
+Lietuvos Respublikos valstybės strateginių interesų užtikrinimo ekstremalios
+
+situacijos aprūpinant Lietuvos ūkį nafta ir naftos produktais atveju įstatymas
+
+(Žin., 1997, Nr. 53-1227);
+
+4) Lietuvos
+
+Respublikos energetikos įstatymo 15 straipsnio pakeitimo įstatymas (Žin., 1997,
+
+Nr. 64-1494);
+
+5) Lietuvos
+
+Respublikos energetikos įstatymo 1, 9, 11, 12, 16, 17, 19, 20 ir 22 straipsnių
+
+pakeitimo ir papildymo įstatymas (Žin., 1997, Nr. 96-2425);
+
+6) Lietuvos
+
+Respublikos energetikos įstatymo 1, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15 ir 17
+
+straipsnių pakeitimo įstatymas (Žin., 1998, Nr. 34-899);
+
+7) Lietuvos
+
+Respublikos energetikos įstatymo 1 straipsnio pakeitimo įstatymas (Žin., 1998,
+
+Nr. 103-2837);
+
+8) Lietuvos
+
+Respublikos energetikos įstatymo 15 straipsnio pakeitimo įstatymas (Žin., 1998,
+
+Nr. 105-2899);
+
+9) Lietuvos
+
+Respublikos energetikos įstatymo 10, 14 straipsnių pakeitimo įstatymas (Žin.,
+
+1999, Nr. 86-2563);
+
+10) Lietuvos
+
+Respublikos energetikos įstatymo 17 straipsnio pakeitimo įstatymas (Žin., 2000,
+
+Nr. 28-757);
+
+11) Lietuvos
+
+Respublikos energetikos įstatymo 14 straipsnio pakeitimo įstatymas (Žin., 2000,
+
+Nr. 58-1709).
+
+Skelbiu šį
+
+Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                           VALDAS
+
+ADAMKUS
+
+Lietuvos
+
+Respublikos
+
+energetikos
+
+įstatymo
+
+priedas
+
+ĮGYVENDINAMI
+
+EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 1992 m. gegužės 21 d. Tarybos direktyva 92/42/EEB dėl naudingumo koeficiento reikalavimų naujiems
+
+karšto vandens katilams, deginantiems skystąjį arba dujinį kurą (OL 2004 m. specialusis leidimas, 13 skyrius, 11 tomas, p. 186).
+
+2. 1992 m. rugsėjo 22 d. Tarybos direktyva 92/75/EEB dėl buitinių prietaisų energijos ir kitų išteklių
+
+sunaudojimo parodymo ženklinant gaminį bei pateikiant standartinę informaciją
+
+apie gaminį (OL 2004 m. specialusis leidimas, 13 skyrius, 11 tomas, p. 216).
+
+3. (Neteko
+
+galios nuo 2009 m. sausio 1 d.)
+
+4. 1996 m. rugsėjo 3 d. Europos Parlamento ir Tarybos direktyva 96/57/EB dėl energijos naudojimo
+
+efektyvumo reikalavimų buitiniams elektriniams šaldytuvams, šaldikliams ir jų
+
+deriniams (OL 2004 m. specialusis leidimas, 12 skyrius, 1 tomas, p. 305).
+
+5.
+
+2000 m. rugsėjo 18 d. Europos Parlamento ir Tarybos direktyva 2000/55/EB dėl
+
+energijos vartojimo efektyvumo reikalavimų, taikomų liuminescencinio apšvietimo
+
+balastiniams įtaisams (OL 2004 m. specialusis leidimas, 12 skyrius, 2 tomas, p.
+
+96).
+
+6.
+
+2001 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2001/77/EB dėl
+
+elektros energijos, pagamintos iš atsinaujinančių energijos išteklių, rėmimo
+
+vidaus elektros rinkoje (OL 2004 m. specialusis leidimas, 12 skyrius, 2 tomas,
+
+p. 121).
+
+7. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/91/EB dėl pastatų energinio
+
+naudingumo (OL 2004 m. specialusis leidimas, 12 skyrius, 2 tomas, p.168).
+
+8.
+
+2003 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas (EB)
+
+1228/2003 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo
+
+sąlygų (OL 2004 m. specialusis leidimas, 12 skyrius, 2 tomas, p. 175).
+
+9. 2005 m. liepos 6 d.
+
+Europos Parlamento ir Tarybos direktyva 2005/32/EB, nustatanti ekologinio
+
+projektavimo reikalavimų energiją vartojantiems gaminiams nustatymo sistemą ir
+
+iš dalies keičianti Tarybos direktyvą 92/42/EEB bei Europos Parlamento ir
+
+Tarybos direktyvas 96/57/EB ir 2000/55/EB (OL 2005 L, 191, p. 29).
+
+10. 2005 m. rugsėjo 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr.1775/2005 dėl teisės naudotis
+
+gamtinių dujų perdavimo tinklais sąlygų (OL 2005 L 289, p. 1).
+
+11. 2006 m. sausio 18 d. Europos Parlamento ir Tarybos direktyva 2005/89/EB dėl priemonių siekiant
+
+užtikrinti elektros energijos tiekimo saugumą ir investicijas į infrastruktūrą
+
+(OL 2006 L 33, p. 22).
+
+12. 2006 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2006/32/EB dėl energijos galutinio
+
+vartojimo efektyvumo ir energetinių paslaugų, panaikinanti Tarybos direktyvą
+
+93/76/EEB (OL 2006 L 114, p. 64).
+
+Priedo pakeitimai:
+
+Nr. X-1108,
+
+2007-05-03, Žin., 2007, Nr. 55-2124 (2007-05-19)
+
+Nr. X-1767,
+
+2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
+
+________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1644,
+
+2003-06-24, Žin., 2003, Nr. 69-3118 (2003-07-10)
+
+ENERGETIKOS
+
+ĮSTATYMO 6, 12, 16, 17, 18 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-387,
+
+2005-11-15, Žin., 2005, Nr. 142-5104 (2005-12-03)
+
+ENERGETIKOS
+
+ĮSTATYMO 1, 5, 20 STRAIPSNIŲ PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2006 m. sausio 1 d.
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1108,
+
+2007-05-03, Žin., 2007, Nr. 55-2124 (2007-05-19)
+
+ENERGETIKOS
+
+ĮSTATYMO 5, 19, 20 STRAIPSNIŲ IR ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1767,
+
+2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
+
+ENERGETIKOS
+
+ĮSTATYMO 2, 4, 6, 16, 17, 21, 27, 28 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR
+
+PAPILDYMO BEI ĮSTATYMO PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
+
+Šis
+
+įstatymas, išskyrus 6 straipsnį, įsigalioja 2009 m. sausio 1 d.
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-130,
+
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
+
+ENERGETIKOS
+
+ĮSTATYMO 4, 6, 7, 8, 10, 17, 18, 24 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2009 m. vasario 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušrinė Trapinskienė (2009-01-27)
+
+autrap@lrs.lt
 
