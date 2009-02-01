@@ -4,7 +4,7 @@ identifier: "TAR.951DF53F837F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "2005-10-13"
+last_updated: "2009-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2005-10-13 iki 2009-01-31
+Suvestinė redakcija nuo 2009-02-01 iki 2011-09-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1600; Žin. 1999, Nr.68-0; Žin. 2011, Nr.91-4318, i. k. 0991010ISTAIII-1190
 
@@ -187,21 +187,13 @@ Vyriausybė:
 
 5) kontroliuoja ir užtikrina, kad būtų laikomasi teisės aktų reikalavimų tvarkant radioaktyviąsias atliekas.
 
-6 straipsnis. Ūkio ministerijos kompetencija radioaktyviųjų atliekų tvarkymo srityje
+6 straipsnis. Energetikos ministerijos kompetencija radioaktyviųjų atliekų tvarkymo srityje
 
-Ūkio ministerija:
+Energetikos ministerija:
 
 1) Radioaktyviųjų atliekų tvarkymo agentūros siūlymu, suderinus su Aplinkos ministerija, Sveikatos apsaugos ministerija ir Valstybine atominės energetikos saugos inspekcija, teikia Vyriausybei tvirtinti trejų metų Radioaktyviųjų atliekų tvarkymo agentūros programą, Radioaktyviųjų atliekų tvarkymo strategiją;
 
-Straipsnio punkto pakeitimai:
-
-Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
-
 2) atlieka Radioaktyviųjų atliekų tvarkymo agentūros savininko teises ir pareigas įgyvendinančios institucijos pareigas;
-
-Straipsnio punkto pakeitimai:
-
-Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
 
 3) teikia pasiūlymus Vyriausybei dėl konkrečių saugyklų ir (arba) kapinynų statybos arba jų eksploatavimo nutraukimo;
 
@@ -211,11 +203,11 @@ Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA
 
 6) tvirtina ateinančių metų Radioaktyviųjų atliekų tvarkymo agentūros veiklos programą ir numatomą lėšų poreikį;
 
-Straipsnio punkto pakeitimai:
-
-Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
-
 7) tvirtina metinę Radioaktyviųjų atliekų tvarkymo agentūros veiklos ataskaitą kartu su galutine, audito patvirtinta finansine ataskaita.
+
+Straipsnio pakeitimai:
+
+Nr. XI-132, 2009-01-12, Žin., 2009, Nr. 10-354 (2009-01-27), i. k. 1091010ISTA00XI-132
 
 7 straipsnis. Aplinkos ministerijos kompetencija radioaktyviųjų atliekų tvarkymo srityje
 
@@ -295,7 +287,11 @@ RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYMO AGENTŪRA
 
 12 straipsnis.  Radioaktyviųjų atliekų tvarkymo agentūros steigimas, statusas ir veiklos pagrindai
 
-1. Ūkio ministerija Vyriausybės pavedimu įsteigia Radioaktyviųjų atliekų tvarkymo agentūrą (toliau – Agentūra). Agentūra yra valstybės įmonė, kuri savo veikloje vadovaujasi Branduolinės energijos įstatymu, Radiacinės saugos įstatymu, Valstybės ir savivaldybės įmonių įstatymu, Agentūros įstatais ir kitais teisės aktais. Nutraukus Agentūros veiklą, jos teises ir įsipareigojimus perima steigėjas – Ūkio ministerija.
+1. Ūkio ministerija Vyriausybės pavedimu įsteigia Radioaktyviųjų atliekų tvarkymo agentūrą (toliau – Agentūra). Agentūra yra valstybės įmonė, kuri savo veikloje vadovaujasi Branduolinės energijos įstatymu, Radiacinės saugos įstatymu, Valstybės ir savivaldybės įmonių įstatymu, Agentūros įstatais ir kitais teisės aktais. Nutraukus Agentūros veiklą, jos teises ir įsipareigojimus perima steigėjas – Energetikos ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-132, 2009-01-12, Žin., 2009, Nr. 10-354 (2009-01-27), i. k. 1091010ISTA00XI-132
 
 2. Agentūra veikia pagal Vyriausybės patvirtintą Radioaktyviųjų atliekų tvarkymo strategiją ir trejų metų Radioaktyviųjų atliekų tvarkymo agentūros veiklos programą.
 
@@ -313,21 +309,27 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
 
-3. Agentūra taip pat atlieka šio įstatymo ir kitų teisės aktų nustatytas ar Ūkio ministerijos pavestas funkcijas.
+3. Agentūra taip pat atlieka šio įstatymo ir kitų teisės aktų nustatytas ar Energetikos ministerijos pavestas funkcijas.
 
 Papildyta straipsnio dalimi:
 
 Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
 
+Straipsnio dalies pakeitimai:
+
+Nr. XI-132, 2009-01-12, Žin., 2009, Nr. 10-354 (2009-01-27), i. k. 1091010ISTA00XI-132
+
 14 straipsnis. Agentūros taryba
 
-1. Agentūroje gali būti sudaroma taryba. Agentūros tarybos narius, tarybos pirmininką ir Agentūros direktorių skiria ir atleidžia ūkio ministras.
+1. Agentūroje gali būti sudaroma taryba. Agentūros tarybos narius, tarybos pirmininką ir Agentūros direktorių skiria ir atleidžia energetikos ministras.
 
-2. Tarybą sudaro 9 nariai iš valstybės ir savivaldybės institucijų, atliekų gamintojų ir mokslo institucijų. Agentūros tarybos nario pareigos yra visuomeninės. Tarybos nariai negali dirbti Agentūroje. Agentūros tarybos reglamentą tvirtina ūkio ministras.
+2. Tarybą sudaro 9 nariai iš valstybės ir savivaldybės institucijų, atliekų gamintojų ir mokslo institucijų. Agentūros tarybos nario pareigos yra visuomeninės. Tarybos nariai negali dirbti Agentūroje. Agentūros tarybos reglamentą tvirtina energetikos ministras.
 
 Straipsnio pakeitimai:
 
 Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
+
+Nr. XI-132, 2009-01-12, Žin., 2009, Nr. 10-354 (2009-01-27), i. k. 1091010ISTA00XI-132
 
 15 straipsnis. Radioaktyviųjų atliekų perdavimas Agentūrai
 
@@ -373,7 +375,11 @@ RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYMO ĮRENGINIŲ AIKŠTELIŲ PARINKIMAS, PROJEKTAV
 
 18 straipsnis. Radioaktyviųjų atliekų tvarkymo įrenginių projektavimas ir statyba
 
-1. Saugyklą ir (arba) kapinyną galima projektuoti tik po Ūkio ministerijos teikimu Vyriausybės priimto sprendimo.
+1. Saugyklą ir (arba) kapinyną galima projektuoti tik po Energetikos ministerijos teikimu Vyriausybės priimto sprendimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-132, 2009-01-12, Žin., 2009, Nr. 10-354 (2009-01-27), i. k. 1091010ISTA00XI-132
 
 2. Radioaktyviųjų atliekų tvarkymo įrenginio statybos ar rekonstravimo, modernizavimo, išplėtimo, eksploatavimo nutraukimo, nugriovimo projektai turi būti suderinti su Valstybine atominės energetikos saugos inspekcija. Atitinkami saugyklų ir (arba) kapinynų, įskaitant uždarymą, projektai turi būti suderinti su valstybės institucijomis, nurodytomis Branduolinės energijos ir Žemės gelmių įstatymuose.
 
@@ -582,4 +588,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
 
 Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 1 ir 2 straipsnių papildymo, 6, 12, 13, 14, 30 straipsnių pakeitimo, 27 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo priedu įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-132, 2009-01-12, Žin., 2009, Nr. 10-354 (2009-01-27), i. k. 1091010ISTA00XI-132
+
+Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 6, 12, 13, 14 ir 18 straipsnių pakeitimo įstatymas
 
