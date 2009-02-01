@@ -4,7 +4,7 @@ identifier: "TAR.DBF4203C51A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2008-09-01"
+last_updated: "2009-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DBF4203C51A1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionalinės teismų administracijos įstatymas
 
-Suvestinė redakcija nuo 2008-09-01 iki 2009-01-31
+Suvestinė redakcija nuo 2009-02-01 iki 2013-05-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1130, i. k. 1021010ISTA00IX-787
 
@@ -129,11 +129,7 @@ Nacionalinė teismų administracija, įgyvendindama Teismų įstatyme nustatytus
 
 2. Nacionalinės teismų administracijos nuostatus, aprobavus Teisėjų tarybai, tvirtina steigėjas. Nacionalinės teismų administracijos struktūrą, didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, vadovaudamasis įstatymų nustatyta tvarka ir suderinęs su steigėju, tvirtina Nacionalinės teismų administracijos direktorius.
 
-TAR pastaba. 4 straipsnio 2 dalis įsigalioja 2009-02-01.
-
 3. Nacionalinės teismų administracijos direktorių konkurso būdu 5 metų kadencijai į pareigas priima steigėjo funkcijas vykdančios institucijos vadovas Valstybės tarnybos įstatymo nustatyta tvarka.
-
-TAR pastaba. 4 straipsnio 3 dalis įsigalioja 2009-02-01.
 
 4. Nacionalinės teismų administracijos direktoriumi gali būti skiriamas nepriekaištingos reputacijos asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, ne mažesnį kaip 10 metų teisinio darbo stažą ir 5 metų vadovaujamo darbo stažą.
 
