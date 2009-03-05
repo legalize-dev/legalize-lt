@@ -4,7 +4,7 @@ identifier: "TAR.B4FAA1DD73CF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2005-06-07"
-last_updated: "2008-04-19"
+last_updated: "2009-03-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2008-04-19 iki 2009-03-04
+Suvestinė redakcija nuo 2009-03-05 iki 2009-12-31
 
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
 
@@ -104,7 +104,13 @@ Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA0
 
 1) nekilnojamasis turtas (arba jo dalis), fizinio asmens naudojamas kulto apeigų reikmenų gamybai, taip pat socialinei globai bei rūpybai;
 
-2) nekilnojamasis turtas (arba jo dalis), fizinio asmens naudojamas žemės ūkio veiklai, taip pat žemės ūkio paskirties žemėje auginant ar perdirbant taip užaugintą produkciją, jeigu pajamos iš šios veiklos neapmokestinamos pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio 1 dalies 25 punkto nuostatas;
+2) nekilnojamasis turtas (arba jo dalis), fizinio asmens naudojamas pajamoms iš žemės ūkio veiklos, kaip tai apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2 straipsnio 33 dalyje, gauti (uždirbti);
+
+TAR pastaba. 2 punkto nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-177, 2009-02-19, Žin., 2009, Nr. 25-979 (2009-03-05), i. k. 1091010ISTA00XI-177
 
 3) nekilnojamasis turtas (arba jo dalis), fizinio asmens naudojamas švietimo darbui;
 
@@ -138,7 +144,13 @@ Nr. X-878, 2006-10-24, Žin., 2006, Nr. 119-4549 (2006-11-07), i. k. 1061010ISTA
 
 10) neįgaliųjų draugijų ir jų įmonių nekilnojamasis turtas;
 
-11) žemės ūkio veiklos subjektų ir kooperatinių bendrovių (kooperatyvų), kurių apmokestinamasis pelnas pagal Lietuvos Respublikos pelno mokesčio įstatymo nuostatas apmokestinamas taikant 0 procentų pelno mokesčio tarifą, nekilnojamasis turtas;
+11) juridinių asmenų, kurių daugiau kaip 50 procentų pajamų per mokestinį laikotarpį sudaro pajamos iš žemės ūkio veiklos, kaip tai apibrėžta Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio 281 dalyje, nekilnojamasis turtas;
+
+TAR pastaba. 11 punkto nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-177, 2009-02-19, Žin., 2009, Nr. 25-979 (2009-03-05), i. k. 1091010ISTA00XI-177
 
 12) daugiabučių namų savininkų bendrijų, namų statybos bendrijų, garažų eksploatavimo ir sodininkų bendrijų nekilnojamasis turtas (ar jo dalis), naudojamas tik nekomercinei veiklai;
 
@@ -379,4 +391,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1479, 2008-04-03, Žin., 2008, Nr. 45-1681 (2008-04-19), i. k. 1081010ISTA00X-1479
 
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio papildymo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-177, 2009-02-19, Žin., 2009, Nr. 25-979 (2009-03-05), i. k. 1091010ISTA00XI-177
+
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
 
