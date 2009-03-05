@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2009-01-01"
+last_updated: "2009-03-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -2259,7 +2259,7 @@ LIGOS
 
 IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 16 IR 19 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-18.
+17.
 
 Lietuvos
 
@@ -2275,21 +2275,21 @@ IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 9, 16, 18(1), 19 STR
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-Įstatymas
+Šis
 
-įsigalioja nuo 2009-01-01.
+įstatymas įsigalioja nuo 2009 m. sausio 1 d.
 
-1.
+1. Motinystės,
 
-Motinystės, tėvystės ir motinytės (tėvystės) socialinio draudimo pašalpos,
+tėvystės ir motinytės (tėvystės) socialinio draudimo pašalpos, paskirtos iki
 
-paskirtos iki šio įstatymo įsigaliojimo, neperskaičiuojamos.
+šio įstatymo įsigaliojimo, neperskaičiuojamos.
 
-2.
+2. Tuo atveju,
 
-Tuo atveju, kai po šio įstatymo įsigaliojimo asmeniui suteikiamos pakartotinės
+kai po šio įstatymo įsigaliojimo asmeniui suteikiamos pakartotinės vaiko
 
-vaiko priežiūros atostogos už tą patį vaiką ir jis įgyja teisę gauti motinystės
+priežiūros atostogos už tą patį vaiką ir jis įgyja teisę gauti motinystės
 
 (tėvystės) socialinio draudimo pašalpą, atnaujinamas anksčiau paskirtos
 
@@ -2299,23 +2299,23 @@ draudimo pašalpą, motinystės (tėvystės) socialinio draudimo pašalpa skiria
 
 neatsižvelgiant į kintančio stažo reikalavimą.
 
-3.
+3. Asmenų,
 
-Asmenų, gavusių pajamas iš sporto veiklos, asmenų, gavusių pajamas iš atlikėjo
+gavusių pajamas iš sporto veiklos, asmenų, gavusių pajamas iš atlikėjo veiklos,
 
-veiklos, ir asmenų, gavusių pajamas pagal autorines sutartis, nuo kurių 2009 ir
+ir asmenų, gavusių pajamas pagal autorines sutartis, nuo kurių 2009 ir 2010
 
-2010 metais įmokėtos sumažinto tarifo privalomojo ligos ir motinystės
+metais įmokėtos sumažinto tarifo privalomojo ligos ir motinystės socialinio
 
-socialinio draudimo įmokos, tų metų draudžiamosiomis pajamomis laikomos gautos
+draudimo įmokos, tų metų draudžiamosiomis pajamomis laikomos gautos pajamų
 
-pajamų sumos, apskaičiuotos proporcingai mokėtoms valstybinio socialinio
+sumos, apskaičiuotos proporcingai mokėtoms valstybinio socialinio draudimo
 
-draudimo įmokoms: atitinkamais metais gauta pajamų suma dauginama iš dydžio,
+įmokoms: atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris
 
-kuris apskaičiuojamas atitinkamų metų sumažintą draudėjų ir apdraustųjų ligos
+apskaičiuojamas atitinkamų metų sumažintą draudėjų ir apdraustųjų ligos ir
 
-ir motinystės socialinio draudimo įmokos tarifą, taikomą pajamoms, gautoms iš
+motinystės socialinio draudimo įmokos tarifą, taikomą pajamoms, gautoms iš
 
 sporto bei atlikėjo veiklos, ar pajamoms, gautoms pagal autorines sutartis
 
@@ -2329,33 +2329,53 @@ savo darbdavio arba ne iš savo darbdavio), ar sportininkų bei atlikėjų gauto
 
 pajamoms.
 
-4.
+4. Savarankiškai dirbančių asmenų draudžiamosiomis pajamomis laikomos
 
-Ūkininkų ir jų partnerių pajamos, nuo kurių 2009 ir 2010 metais įmokėtos
+pajamos, nuo kurių 2009 ir 2010 metais įmokėtos sumažinto tarifo privalomojo
 
-sumažinto tarifo privalomojo ligos ir motinystės socialinio draudimo įmokos,
+ligos ir motinystės socialinio draudimo įmokos ir kurios apskaičiuotos
 
-draudžiamosiomis pajamomis laikomos gautos pajamos, apskaičiuotos proporcingai
+proporcingai mokėtoms valstybinio socialinio draudimo įmokoms: atitinkamais
 
-mokėtoms valstybinio socialinio draudimo įmokoms: atitinkamais metais gauta
+metais gauta pajamų suma dauginama iš dydžio, kuris apskaičiuojamas atitinkamų
 
-pajamų suma dauginama iš dydžio, kuris apskaičiuojamas atitinkamų metų sumažintą
+metų sumažintą ligos ir motinystės socialinio draudimo įmokos tarifą, taikomą
 
-ligos ir motinystės socialinio draudimo įmokos tarifą, taikomą ūkininkų ir jų
+savarankiškai dirbančių asmenų gautoms pajamoms, dalijant iš tų metų bendrojo
 
-partnerių gautoms pajamoms, dalijant iš tų metų bendrojo ligos ir motinystės
+ligos ir motinystės socialinio draudimo įmokų tarifo, nustatyto savarankiškai
 
-socialinio draudimo įmokų tarifo, nustatyto ūkininkams ir jų partneriams.
+dirbantiems asmenims.
 
-***
+Šio įstatymo
 
-Pabaiga ***
+baigiamosios nuostatos pakeistos:
 
-Redagavo
+Lietuvos
 
-Aušra Bodin (2008-12-30)
+Respublikos Seimas, Įstatymas
 
-aubodi@lrs.lt
+Nr. XI-167,
+
+2009-02-17, Žin., 2009, Nr. 25-969 (2009-03-05)
+
+LIGOS IR
+
+MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 9, 16, 18(1), 19
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo
+
+nuostatos taikomos nuo 2009 m. sausio 1 d.
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2009-03-05)
+
+autrap@lrs.lt
 
 16 straipsnis. Teisė gauti motinystės pašalpą nėštumo ir gimdymo
 
