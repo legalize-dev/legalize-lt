@@ -4,7 +4,7 @@ identifier: "TAR.769B541DD7F7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-04"
-last_updated: "2008-03-01"
+last_updated: "2009-03-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-Suvestinė redakcija nuo 2008-03-01 iki 2009-03-04
+Suvestinė redakcija nuo 2009-03-05 iki 2010-10-01
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
 
@@ -200,11 +200,13 @@ Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA0
 
 3. Ūkininkams teikiamą kitą paramą nustato Žemės ūkio ir kaimo plėtros įstatymas bei kiti teisės aktai.
 
-4. Ūkininkas ir jo partneriai, nurodyti Ūkininkų ūkių registre, valstybiniu socialiniu draudimu draudžiasi savanoriškai, o sveikatos draudimu – privalomai.
+4. Neteko galios nuo 2009-03-05.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
+
+Nr. XI-178, 2009-02-19, Žin., 2009, Nr. 25-980 (2009-03-05), i. k. 1091010ISTA00XI-178
 
 5. Vienintelis darbingas ūkininko partneris karinės prievolės atlikti nešaukiamas.
 
@@ -255,6 +257,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
 
 Lietuvos Respublikos ūkininko ūkio įstatymo 1, 2, 9 straipsnių pakeitimo ir papildymo, ketvirtojo skirsnio pavadinimo pakeitimo bei Įstatymo papildymo 8(1), 11 straipsniais įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-178, 2009-02-19, Žin., 2009, Nr. 25-980 (2009-03-05), i. k. 1091010ISTA00XI-178
+
+Lietuvos Respublikos ūkininko ūkio įstatymo 10 straipsnio pakeitimo įstatymas
 
 12 straipsnis. Ūkio veiklos nutraukimas ir išregistravimas
 
