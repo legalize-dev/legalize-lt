@@ -4,7 +4,7 @@ identifier: "TAR.F960F4CF3005"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2008-12-30"
+last_updated: "2009-03-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 department: "Lietuvos Respublikos Seimas"
@@ -1325,11 +1325,11 @@ valstybinę žemę laisvosios ekonominės zonos teritorijoje, panaudoto šioje
 
 teritorijoje esančiai žemei išpirkti iš žemės savininkų, kompensuojami.
 
-Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto bendrosios
+Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto
 
-dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir išlaidų
+bendrosios dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir
 
-pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o
+išlaidų pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o
 
 ateinančiais biudžetiniais metais koreguojama gyventojų pajamų mokesčio dalis,
 
@@ -2503,27 +2503,33 @@ SAVIVALDYBIŲ BIUDŽETŲ
 
 NEGAUTŲ PAJAMŲ KOMPENSAVIMAS
 
-13 straipsnis.
+13 straipsnis. Savivaldybių biudžetų
 
-Savivaldybių biudžetų negautų pajamų kompensavimas
+negautų pajamų kompensavimas
 
-1. Jeigu biudžetiniais metais pagal savivaldybės metinės
+1. Jeigu biudžetiniais metais pagal savivaldybės metinio biudžeto
 
-apyskaitos duomenis pajamų (be dotacijų iš valstybės biudžeto) gauta mažiau,
+vykdymo ataskaitų rinkinio duomenis pajamų (be dotacijų iš
 
-negu buvo prognozuota gauti skaičiuojant tų metų savivaldybių biudžetų
+valstybės biudžeto) gauta mažiau, negu buvo prognozuota gauti skaičiuojant tų
 
-finansinius rodiklius, ir į jas yra įskaitomos valstybės biudžetui grąžinamos
+metų savivaldybių biudžetų finansinius rodiklius, ir į jas yra įskaitomos
 
-bendrosios dotacijos kompensacijos pagal šio Įstatymo 12 straipsnio 2 dalį,
+valstybės biudžetui grąžinamos bendrosios dotacijos kompensacijos pagal šio
 
-biudžetiniams metams pasibaigus šios negautos pajamos gali būti kompensuojamos.
+Įstatymo 12 straipsnio 2 dalį, biudžetiniams metams pasibaigus šios negautos
 
-Skaičiuojant šių negautų pajamų sumą, savivaldybių gautos pajamos didinamos
+pajamos gali būti kompensuojamos. Skaičiuojant šių negautų pajamų sumą,
 
-skaičiuotinomis įmokomis, kurių negauta dėl savivaldybės tarybos sprendimais
+savivaldybių gautos pajamos didinamos skaičiuotinomis įmokomis, kurių negauta
 
-suteiktų mokesčių lengvatų.
+dėl savivaldybės tarybos sprendimais suteiktų mokesčių lengvatų. Skaičiuojant
+
+šių negautų pajamų sumą už 2008 metus, savivaldybių biudžetų gautos pajamos
+
+mažinamos 2008 biudžetinių metų pajamomis iš vietinių rinkliavų už komunalinių
+
+atliekų surinkimą iš atliekų turėtojų ir už atliekų tvarkymą.
 
 2. Jeigu vykdant valstybės biudžetą gautų viršplaninių
 
@@ -2561,6 +2567,28 @@ lėšų nepakanka visoms savivaldybių negautoms pajamoms padengti, jos
 
 savivaldybių biudžetams paskirstomos iki vienodo negautų pajamų lygio.
 
+6. Jeigu šio straipsnio 2 dalyje
+
+nustatytų šaltinių nepakanka, kad savivaldybių biudžetų negautos pajamos būtų
+
+kompensuotos, Vyriausybė, atsižvelgdama į savivaldybių biudžetų negautas
+
+prognozuotas pajamų sumas, biudžetiniams metams pasibaigus, iki balandžio 1
+
+dienos priima nutarimą, kuriame nurodo kiekvienai savivaldybei priklausiusias
+
+pervesti, bet praėjusiais biudžetiniais metais nepervestas bendrosios dotacijos
+
+kompensacijų sumas (atitinkamą jų dalį), nuo kurių pervedimo savivaldybė
+
+atleidžiama, arba praėjusiais biudžetiniais metais pervestas bendrosios
+
+dotacijos kompensacijų sumas (atitinkamą jų dalį), kurios grąžinamos savivaldybei
+
+iki biudžetinių metų pabaigos iš valstybės biudžeto gautų bendrosios dotacijos
+
+kompensacijų.
+
 Skirsnio
 
 pakeitimai
@@ -2577,9 +2605,15 @@ XI-117,
 
 2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
 
-Skelbiu šį
+Nr.
 
-Lietuvos Respublikos Seimo priimtą įstatymą.
+XI-192,
+
+2009-03-12, Žin., 2009, Nr. 32-1241 (2009-03-24)
+
+Skelbiu šį Lietuvos
+
+Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                     VALDAS
 
@@ -2869,9 +2903,9 @@ Nr. VIII-544, 97.12.02,
 
 LIETUVOS
 
-RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14 STRAIPSNIO
+RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 2.
 
@@ -2883,11 +2917,11 @@ Nr. VIII-948, 98.12.03,
 
 Žin., 1998, Nr.111 (98.12.18)
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS
 
-RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAPILDYMO
+SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAPILDYMO 12(1)
 
-12(1) STRAIPSNIU IR 9, 13, 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+STRAIPSNIU IR 9, 13, 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
 3.
 
