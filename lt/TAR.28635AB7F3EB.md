@@ -4,7 +4,7 @@ identifier: "TAR.28635AB7F3EB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-05"
-last_updated: "2007-06-21"
+last_updated: "2009-03-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.28635AB7F3EB"
 department: "Lietuvos Respublikos Seimas"
@@ -120,25 +120,23 @@ uždavinius, funkcijas, teisinę padėtį, struktūrą ir darbo organizavimą.
 
 Lietuvos gyventojų genocido ir rezistencijos tyrimo centras
 
-1. Lietuvos gyventojų genocido ir rezistencijos
+1. Lietuvos gyventojų genocido ir
 
-tyrimo centras (toliau – Centras) yra tarpžinybinė valstybės institucija,
+rezistencijos tyrimo centras (toliau – Centras) yra valstybės įstaiga, tirianti
 
-tirianti visas genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų
+visas genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų apraiškas,
 
-apraiškas, Lietuvos gyventojų persekiojimą okupacijų metais, taip pat ginkluoto
+Lietuvos gyventojų persekiojimą okupacijų metais, taip pat ginkluoto ir
 
-ir neginkluoto pasipriešinimo okupacijoms procesus, inicijuojanti genocido
+neginkluoto pasipriešinimo okupacijoms procesus, inicijuojanti genocido
 
 organizatorių ir vykdytojų teisinį įvertinimą. Centras koordinuoja kitų
 
 institucijų vykdomus šiuo įstatymu apibrėžtos srities tyrimo darbus.
 
-2. Centras turi teisę programų vykdymui
+2. Centras turi teisę iš institucijų
 
-sudaryti tarpžinybines darbo grupes. Jose pagal sutartis gali dirbti kitų
-
-žinybų ir organizacijų specialistai.
+atstovų sudaryti darbo grupes programoms vykdyti.
 
 3. Centras yra juridinis asmuo, turintis
 
@@ -155,6 +153,12 @@ Nr.
 IX-1461,
 
 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
+
+Nr.
+
+XI-189,
+
+2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
 
 3 straipsnis.
 
@@ -226,9 +230,11 @@ pasipriešinimą okupaciniams režimams, rengia mokslines konferencijas, dalyvau
 
 kitų institucijų ir valstybių organizuojamose programose;
 
-5) sudaro karių savanorių, laisvės kovų
+5)
 
-dalyvių, politinių kalinių, tremtinių ir nukentėjusiųjų vardynus;
+sudaro karių savanorių, laisvės kovų dalyvių ir asmenų, nukentėjusių nuo
+
+1939–1990 metų okupacijų, vardynus;
 
 6) dalyvauja atskirose valstybės
 
@@ -252,9 +258,11 @@ programas;
 
 informaciją juridiniams bei fiziniams asmenims apie okupacijų laikotarpiu
 
-žuvusius, dingusius be žinios, represuotus, persekiotus, nukentėjusius Lietuvos
+žuvusius, dingusius be žinios, represuotus, persekiotus, nukentėjusius nuo
 
-gyventojus ir karius savanorius;
+1939–1990 metų okupacijų Lietuvos gyventojus ir karius savanorius bei laisvės
+
+kovų dalyvius;
 
 10) inicijuoja, skatina ir remia
 
@@ -272,23 +280,23 @@ taip pat tinkamų saugoti sąlygų sudarymu neatsiejamai šio memorialinio
 
 komplekso daliai - buvusiems KGB archyvams;
 
-12) koordinuoja valstybinių ir
+12) koordinuoja valstybės ir
 
-visuomeninių organizacijų iniciatyva vykdomą paminklų statybą, sudaro šių
+savivaldybių institucijų ir įstaigų ar asociacijų iniciatyva vykdomą paminklų
 
-paminklų sąvadus, konsultuoja, teikia rekomendacijas ir metodinę pagalbą
+statybą, sudaro šių paminklų sąvadus, konsultuoja, teikia rekomendacijas ir
 
-įamžinant laisvės kovas (statant paminklus, kuriant kino filmus, suteikiant
+metodinę pagalbą įamžinant laisvės kovas (statant paminklus, kuriant kino
 
-pasipriešinimo dalyvių vardus miestų aikštėms ir gatvėms, mokymo įstaigoms ar
+filmus, suteikiant pasipriešinimo dalyvių vardus miestų aikštėms ir gatvėms,
 
-kitiems objektams);
+švietimo įstaigoms ar kitiems objektams);
 
 13) rengia siūlymus dėl valstybės mastu
 
-atmintinų su Lietuvos gyventojų genocidu ir laisvės kovomis susijusių datų
+atmintinų su Lietuvos gyventojų genocidu ir laisvės kovomis susijusių datų paminėjimo,
 
-šventimo, konsultuoja valstybines įstaigas ir visuomenines organizacijas,
+konsultuoja valstybės ir savivaldybių institucijas ir įstaigas ar asociacijas,
 
 organizuojančias įvairius su pasipriešinimu ir genocidu susijusius renginius;
 
@@ -350,21 +358,23 @@ faktus;
 
 rengiant įstatymų bei kitų okupacijos padarinių teisinio įvertinimo dokumentų
 
-projektus (dėl pasipriešinimo dalyvių, nukentėjusiųjų teisinio statuso,
+projektus (dėl pasipriešinimo dalyvių (rezistentų), asmenų, nukentėjusių nuo
 
-socialinės rūpybos, atsakomybės už genocidą ir kt. klausimais) bei kontroliuoja
+1939–1990 metų okupacijų, teisinio statuso, socialinės rūpybos, atsakomybės už
 
-jų vykdymą, pripažįsta karių savanorių, laisvės kovų dalyvių, politinių
+genocidą ir kt. klausimais) bei kontroliuoja jų vykdymą, pripažįsta karių
 
-kalinių, tremtinių ir nukentėjusiųjų teisinį statusą; įstatymų nustatyta tvarka
+savanorių, laisvės kovų dalyvių ir asmenų, nukentėjusių nuo 1939–1990 metų
 
-išduoda nustatytos formos pažymėjimus ir tvarko jų apskaitą;
+okupacijų, teisinį statusą; įstatymų nustatyta tvarka išduoda nustatytos formos
 
-21) teikia siūlymus dėl asmenų,
+pažymėjimus ir tvarko jų apskaitą;
 
-represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo, siūlo
+21) teikia siūlymus dėl asmenų, represuotų
 
-naujai ištirti šių asmenų bylas;
+už pasipriešinimą okupaciniams režimams, teisių atkūrimo, siūlo naujai ištirti
+
+šių asmenų bylas;
 
 22) rengia siūlymus dėl karių savanorių
 
@@ -386,15 +396,31 @@ Nr. X-1166,
 
 2007-06-05, Žin., 2007, Nr. 68-2653 (2007-06-21)
 
+Nr.
+
+XI-189,
+
+2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
+
 TREČIASIS SKIRSNIS
 
 CENTRO
 
-STRUKTŪRA IR DARBUOTOJAI
+STRUKTŪRA
+
+Skirsnio
+
+pavadinimas keistas:
+
+Nr.
+
+XI-189,
+
+2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
 
 6 straipsnis.
 
-Centro struktūra ir darbuotojai
+Centro struktūra
 
 1. Centrą sudaro:
 
@@ -406,9 +432,7 @@ departamentas;
 
 Genocido aukų muziejumi);
 
-3) Specialiųjų tyrimų skyrius (su
-
-Pasipriešinimo dalyvių (rezistentų) teisių komisija).
+3) Specialiųjų tyrimų skyrius.
 
 2. Centro padaliniai vykdo funkcijas,
 
@@ -416,11 +440,9 @@ nurodytas šiame įstatyme, ir glaudžiai bendradarbiauja tarpusavyje,
 
 naudodamiesi kituose padaliniuose sukaupta medžiaga.
 
-3. Centre dirba etatiniai darbuotojai ir
+3. Centre dirba valstybės tarnautojai ir
 
-ilgalaikių bei trumpalaikių programų vykdymui laikinai sukurtų darbo grupių
-
-specialistai (pagal terminuotas sutartis).
+darbuotojai, dirbantys pagal darbo sutartis.
 
 4. Centrui vadovauja generalinis
 
@@ -434,17 +456,19 @@ direktorius.
 
 5. Generalinis direktorius strateginiais
 
-Centro veiklos, programų formavimo ir jų vykdymo klausimais gali sudaryti
+Centro veiklos, programų sudarymo ir jų vykdymo klausimais gali sudaryti
 
 laikinas konsultacines grupes iš Generalinės prokuratūros, Teisingumo
 
-ministerijos, Krašto apsaugos ministerijos, Valstybės saugumo departamento,
+ministerijos, Krašto apsaugos ministerijos, Valstybės saugumo departamento, Lietuvos
 
-Lietuvos istorijos instituto, politinių kalinių, tremtinių ir rezistentų
+istorijos instituto, pasipriešinimo dalyvių (rezistentų) ir asmenų,
 
-visuomeninių organizacijų, Pasaulio lietuvių bendruomenės ir kitų valstybinių
+nukentėjusių nuo 1939–1990 metų okupacijų, asociacijų, Pasaulio lietuvių
 
-institucijų ar visuomeninių organizacijų atstovų.
+bendruomenės ir kitų valstybės ir savivaldybių institucijų ir įstaigų ar
+
+asociacijų atstovų.
 
 6. Prie Centro veikia Lietuvos gyventojų
 
@@ -468,11 +492,21 @@ funkcijas nustato Centro nuostatai. Šiuos nuostatus Vyriausybės teikimu
 
 tvirtina Seimas.
 
-9. Specialiųjų tyrimų skyriaus
+9. Centrui išvadas dėl karių savanorių,
 
-Pasipriešinimo dalyvių (rezistentų) teisių komisijos sudėtį ir jos nuostatus
+laisvės kovų dalyvių ir asmenų, nukentėjusių nuo 1939–1990 metų okupacijų,
 
-Centro generalinio direktoriaus teikimu tvirtina Vyriausybė.
+teisinio statuso pripažinimo teikia Pasipriešinimo dalyvių (rezistentų) teisių
+
+komisija. Pasipriešinimo dalyvių (rezistentų) teisių komisijos sudėtį ir jos
+
+nuostatus Centro generalinio direktoriaus teikimu tvirtina Vyriausybė.
+
+Pasipriešinimo dalyvių (rezistentų) teisių komisiją techniškai aptarnauja
+
+Centras. Komisijos veikla finansuojama iš valstybės biudžeto lėšų, skiriamų
+
+Centrui.
 
 Straipsnio
 
@@ -489,6 +523,12 @@ Nr.
 VIII-613,
 
 98.01.15, Žin., 1998, Nr.9-199 (98.01.28)
+
+Nr.
+
+XI-189,
+
+2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
 
 KETVIRTASIS SKIRSNIS
 
@@ -558,9 +598,9 @@ Netekę galios teisės aktai
 
 galios:
 
-1) Lietuvos gyventojų genocido ir rezistencijos
+1) Lietuvos gyventojų genocido ir
 
-tyrimo centro įstatymas (Žin., 1993, Nr.32-735);
+rezistencijos tyrimo centro įstatymas (Žin., 1993, Nr.32-735);
 
 2) Seimo nutarimas “Dėl Lietuvos
 
@@ -594,9 +634,9 @@ Pakeitimai:
 
 1.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. VIII-514, 97.11.13,
 
@@ -668,13 +708,29 @@ GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 5 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-189,
+
+2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
+
+LIETUVOS
+
+GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 2, 5, 6 STRAIPSNIŲ
+
+IR TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2007-06-21)
+Aušrinė Trapinskienė (2009-03-25)
 
 autrap@lrs.lt
 
