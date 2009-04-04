@@ -4,7 +4,7 @@ identifier: "TAR.9675AD03F3E1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-17"
-last_updated: "2008-07-22"
+last_updated: "2009-04-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9675AD03F3E1"
 department: "Lietuvos Respublikos Seimas"
@@ -201,9 +201,7 @@ straipsnis. Lietuvos Respublikos piliečio išdavimo neleistinumas
 
 1. Lietuvos Respublikos pilietį draudžiama išduoti kitai valstybei, išskyrus Lietuvos Respublikos tarptautinėse sutartyse numatytus atvejus.2. Lietuvos Respublikos pilietis negali būti išsiųstas iš Lietuvos Respublikos teritorijos.
 
-II
-
-SKYRIUS
+II SKYRIUS
 
 LIETUVOS RESPUBLIKOS PILIETYBĖS
 
@@ -749,53 +747,65 @@ Nr. X-33, 2004-12-09,
 
 Priesaika Lietuvos Respublikai
 
-1. Asmenys, kuriems suteikiama Lietuvos Respublikos
+1. Asmenys,
 
-pilietybė, ne vėliau kaip per 2 metus nuo Respublikos Prezidento
+kuriems suteikiama Lietuvos Respublikos pilietybė, ne vėliau kaip per
 
-dekreto, kuriuo asmeniui suteikiama Lietuvos Respublikos pilietybė,
+vienus metus nuo Respublikos Prezidento dekreto, kuriuo asmeniui suteikiama
 
-įsigaliojimo dienos viešai ir iškilmingai prisiekia Lietuvos Respublikai.
+Lietuvos Respublikos pilietybė, įsigaliojimo dienos viešai ir iškilmingai
 
-Nustatomas toks priesaikos tekstas:
+prisiekia Lietuvos Respublikai. Prisiekiantis asmuo turi teisę pasirinkti vieną
 
-„Aš, (vardas,
+iš šių priesaikos tekstų:
 
-pavardė), tapdamas Lietuvos Respublikos piliečiu, be išlygų prisiekiu būti
+1) „Aš, (vardas, pavardė),
 
-ištikimas Lietuvos Respublikai, laikytis Lietuvos Respublikos Konstitucijos ir
+tapdamas Lietuvos Respublikos piliečiu, be išlygų prisiekiu būti ištikimas
 
-įstatymų, ginti Lietuvos valstybės nepriklausomybę, valstybės teritorijos
+Lietuvos Respublikai, laikytis Lietuvos Respublikos Konstitucijos ir įstatymų,
 
-vientisumą ir konstitucinę santvarką. Pasižadu gerbti Lietuvos valstybinę
+ginti Lietuvos valstybės nepriklausomybę, valstybės teritorijos vientisumą ir
 
-kalbą, kultūrą ir papročius, stiprinti Lietuvos demokratijos ir teisinės
+konstitucinę santvarką. Pasižadu gerbti Lietuvos valstybinę kalbą, kultūrą ir
 
-valstybės pagrindus. Tepadeda man Dievas.“
+papročius, stiprinti Lietuvos demokratijos ir teisinės valstybės pagrindus.
+
+Tepadeda man Dievas.“;
+
+2) „Aš, (vardas, pavardė),
+
+tapdamas Lietuvos Respublikos piliečiu, be išlygų prisiekiu būti ištikimas
+
+Lietuvos Respublikai, laikytis Lietuvos Respublikos Konstitucijos ir įstatymų,
+
+ginti Lietuvos valstybės nepriklausomybę, valstybės teritorijos vientisumą ir
+
+konstitucinę santvarką. Pasižadu gerbti Lietuvos valstybinę kalbą, kultūrą ir
+
+papročius, stiprinti Lietuvos demokratijos ir teisinės valstybės pagrindus.“
 
 2. Asmenų
 
 priesaiką Vidaus reikalų ministerijoje priima vidaus reikalų ministro įgaliotas
 
-asmuo, o Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse
+asmuo, o Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse įstaigose
 
-įstaigose (toliau – konsulinė įstaiga) – konsulinės įstaigos vadovas ar jo
+(toliau – konsulinė įstaiga) – konsulinės įstaigos vadovas ar jo įgaliotas
 
-įgaliotas asmuo.
+asmuo.
 
 3. Asmuo
 
 prisiekia stovėdamas priešais priesaiką priimantį asmenį, skaito priesaikos
 
-tekstą padėjęs ranką ant Lietuvos Respublikos Konstitucijos. Prisiekti
+tekstą padėjęs ranką ant Lietuvos Respublikos Konstitucijos. Baigęs skaityti
 
-leidžiama ir be paskutinio priesaikos Lietuvos Respublikai sakinio. Baigęs
+priesaikos tekstą, asmuo pasirašo vardinį priesaikos lapą. Šioje dalyje
 
-skaityti priesaikos tekstą, asmuo pasirašo vardinį priesaikos lapą. Šioje
+nustatyti reikalavimai netaikomi asmenims, kurie dėl negalios to padaryti
 
-dalyje nustatyti reikalavimai netaikomi asmenims, kurie dėl negalios to
-
-padaryti negali.
+negali.
 
 4. Priesaikos
 
@@ -815,11 +825,11 @@ pilietybės, prisiekia Lietuvos Respublikai po to, kai pateikia įrodymus, kad
 
 jie neteko turėtos kitos valstybės pilietybės.
 
-6. Priesaikos priėmimo
+6. Priesaikos
 
-Vidaus reikalų ministerijoje arba konsulinėje įstaigoje tvarką nustato Lietuvos
+priėmimo Vidaus reikalų ministerijoje arba konsulinėje įstaigoje tvarką nustato
 
-Respublikos Vyriausybė ar jos įgaliota institucija.
+Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 7. Konsulinės
 
@@ -838,6 +848,12 @@ Vidaus reikalų ministerijoje.
 Lietuvos Respublikos pilietybę, Lietuvos Respublikos piliečio teisės ir
 
 pareigos atsiranda tik asmeniui prisiekus Lietuvos Respublikai.
+
+Straipsnio pakeitimai:
+
+Nr. XI-205,
+
+2009-03-19, Žin., 2009, Nr. 38-1444 (2009-04-04)
 
 16
 
@@ -875,9 +891,7 @@ pilietybę įgijusio asmens nepilnamečiam vaikui, kuris yra asmuo be pilietybė
 
 Nepilnamečio vaiko, kuris yra asmuo be pilietybės, Lietuvos Respublikos
 
-pilietybės klausimas sprendžiamas pagal šio įstatymo 8 ar 9 straipsnio
-
-nuostatas.
+pilietybės klausimas sprendžiamas pagal šio įstatymo 8 ar 9 straipsnio nuostatas.
 
 4. Asmeniui, netekusiam Lietuvos Respublikos pilietybės šio
 
@@ -935,9 +949,9 @@ kaliniams, taip pat jų vaikams, vaikaičiams ir provaikaičiams;
 
 1940 m. birželio 15 d. turėjusiems Lietuvos pilietybę ir išvykusiems į kitas
 
-valstybes 1940 m. birželio 15 d. – 1990 m. kovo 11 d. okupacijų metu, šių asmenų
+valstybes 1940 m. birželio 15 d. – 1990 m. kovo 11 d. okupacijų metu, šių
 
-vaikams, vaikaičiams ir provaikaičiams.
+asmenų vaikams, vaikaičiams ir provaikaičiams.
 
 4. Asmenys,
 
@@ -1409,15 +1423,17 @@ punktus ir dėl teisės į Lietuvos Respublikos pilietybę įgyvendinimo pagal �
 
 įstatymo 17 straipsnio 3 dalį paduoda migracijos tarnybai. Asmenys, nuolat
 
-gyvenantys užsienyje, prašymus ir dokumentus dėl Lietuvos Respublikos pilietybės
+gyvenantys užsienyje, prašymus ir dokumentus dėl Lietuvos Respublikos
 
-pagal šio įstatymo 1 straipsnio 1 dalies 1 ir 3 punktus, dėl teisės į Lietuvos
+pilietybės pagal šio įstatymo 1 straipsnio 1 dalies 1 ir 3 punktus, dėl teisės
 
-Respublikos pilietybę išsaugojimo pagal šio įstatymo 17 straipsnio 1 dalį ir
+į Lietuvos Respublikos pilietybę išsaugojimo pagal šio įstatymo 17 straipsnio 1
 
-šios teisės įgyvendinimo pagal šio įstatymo 17 straipsnio 3 ir 4 dalis paduoda
+dalį ir šios teisės įgyvendinimo pagal šio įstatymo 17 straipsnio 3 ir 4 dalis
 
-vidaus reikalų ministrui ar jo įgaliotai institucijai arba konsulinei įstaigai.
+paduoda vidaus reikalų ministrui ar jo įgaliotai institucijai arba konsulinei
+
+įstaigai.
 
 2. Prie prašymo
 
@@ -1455,21 +1471,21 @@ suteikimo asmuo kreipiasi pagal šio įstatymo 14 straipsnio 3 dalį; dokumentas
 
 patvirtinantis teisę nuolat gyventi Lietuvos Respublikoje šio prašymo pateikimo
 
-metu; dokumentas, patvirtinantis, kad asmuo gyvena Lietuvos Respublikos
+metu; dokumentas, patvirtinantis, kad asmuo gyvena Lietuvos Respublikos teritorijoje
 
-teritorijoje šio įstatymo 14 straipsnyje nurodytą laikotarpį; dokumentas,
+šio įstatymo 14 straipsnyje nurodytą laikotarpį; dokumentas, patvirtinantis,
 
-patvirtinantis, kad asmuo išlaikė valstybinės kalbos ir Lietuvos Respublikos
+kad asmuo išlaikė valstybinės kalbos ir Lietuvos Respublikos Konstitucijos
 
-Konstitucijos pagrindų egzaminus pagal šio įstatymo 14 straipsnyje nurodytus
+pagrindų egzaminus pagal šio įstatymo 14 straipsnyje nurodytus reikalavimus.
 
-reikalavimus. Jeigu dėl Lietuvos Respublikos pilietybės suteikimo kreipiasi
+Jeigu dėl Lietuvos Respublikos pilietybės suteikimo kreipiasi asmuo, kuris turi
 
-asmuo, kuris turi kitos valstybės pilietybę, jis pateikia rašytinį pareiškimą
+kitos valstybės pilietybę, jis pateikia rašytinį pareiškimą atsisakyti turimos
 
-atsisakyti turimos kitos valstybės pilietybės, kai jam bus suteikta Lietuvos
+kitos valstybės pilietybės, kai jam bus suteikta Lietuvos Respublikos
 
-Respublikos pilietybė.
+pilietybė.
 
 3. Prie prašymo
 
@@ -1607,9 +1623,9 @@ Lietuvos valstybei, rekomendacijos, kuriose nurodoma asmens veikla, ypač
 
 reikšminga Lietuvos Respublikai, taip pat kiti dokumentai, patvirtinantys
 
-asmens veiklą, ypač reikšmingą Lietuvos Respublikai, ir jo integravimąsi į Lietuvos
+asmens veiklą, ypač reikšmingą Lietuvos Respublikai, ir jo integravimąsi į
 
-visuomenę.
+Lietuvos visuomenę.
 
 9. Prie prašymo
 
@@ -1729,17 +1745,17 @@ ar teikimo. Komisija, norėdama gauti informaciją apie aplinkybes, nurodytas š
 
 įstatymo 13 straipsnyje, pagal kompetenciją kreipiasi į Lietuvos Respublikos
 
-valstybės saugumo departamentą, Lietuvos Respublikos vidaus reikalų ministeriją,
+valstybės saugumo departamentą, Lietuvos Respublikos vidaus reikalų
 
-jeigu tokių aplinkybių nebuvo tikrinusi dokumentus dėl Lietuvos Respublikos
+ministeriją, jeigu tokių aplinkybių nebuvo tikrinusi dokumentus dėl Lietuvos
 
-pilietybės suteikimo ar jos grąžinimo pagal šio įstatymo 20 straipsnio 1 dalį
+Respublikos pilietybės suteikimo ar jos grąžinimo pagal šio įstatymo 20
 
-rengusi institucija. Jeigu Komisija nusprendžia, gali būti kreipiamasi į
+straipsnio 1 dalį rengusi institucija. Jeigu Komisija nusprendžia, gali būti
 
-Lietuvos gyventojų genocido ir rezistencijos tyrimo centrą dėl informacijos
+kreipiamasi į Lietuvos gyventojų genocido ir rezistencijos tyrimo centrą dėl
 
-apie aplinkybes, nurodytas šio įstatymo 13 straipsnyje, gavimo.
+informacijos apie aplinkybes, nurodytas šio įstatymo 13 straipsnyje, gavimo.
 
 3. Komisijos posėdžiai yra teisėti, kai juose dalyvauja ne
 
@@ -2401,19 +2417,19 @@ suteikimo pateikia pakartotinai šio įstatymo nustatyta tvarka.
 
 straipsnis. Lietuvos Respublikos pilietybės dokumentų rengimas
 
-1. Asmenų, nuolat
+1. Asmenų,
 
-gyvenančių Lietuvos Respublikoje, pilietybės dokumentus rengia migracijos
+nuolat gyvenančių Lietuvos Respublikoje, pilietybės dokumentus rengia
 
-tarnyba, o asmenų, nuolat gyvenančių užsienyje, – užsienio reikalų ministras
+migracijos tarnyba, o asmenų, nuolat gyvenančių užsienyje, – užsienio reikalų
 
-kartu su vidaus reikalų ministru arba jų įgaliotos institucijos. Vaikų, nuolat
+ministras kartu su vidaus reikalų ministru arba jų įgaliotos institucijos.
 
-gyvenančių Lietuvos Respublikoje, pilietybės dokumentus rengia migracijos
+Vaikų, nuolat gyvenančių Lietuvos Respublikoje, pilietybės dokumentus rengia
 
-tarnyba, o vaikų, nuolat gyvenančių užsienyje, – užsienio reikalų ministras
+migracijos tarnyba, o vaikų, nuolat gyvenančių užsienyje, – užsienio reikalų
 
-kartu su vidaus reikalų ministru arba jų įgaliotos institucijos.
+ministras kartu su vidaus reikalų ministru arba jų įgaliotos institucijos.
 
 2. Šiame įstatyme nurodytais atvejais ir kitais atvejais,
 
@@ -2433,9 +2449,7 @@ Vyriausybės sudaromos Komisijos Lietuvos Respublikos pilietybės klausimams
 
 nagrinėti sudėtį ir jos nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
 
-V
-
-SKYRIUS
+V SKYRIUS
 
 BAIGIAMOSIOS NUOSTATOS
 
@@ -2447,11 +2461,11 @@ Jeigu
 
 įsigaliojusi Lietuvos Respublikos ratifikuota tarptautinė sutartis nustato
 
-kitokias normas negu Lietuvos Respublikos įstatymai ir kiti teisės aktai, galiojantys
+kitokias normas negu Lietuvos Respublikos įstatymai ir kiti teisės aktai,
 
-šios sutarties sudarymo metu arba įsigalioję po šios sutarties įsigaliojimo,
+galiojantys šios sutarties sudarymo metu arba įsigalioję po šios sutarties
 
-taikomos Lietuvos Respublikos tarptautinės sutarties nuostatos.
+įsigaliojimo, taikomos Lietuvos Respublikos tarptautinės sutarties nuostatos.
 
 Skelbiu šį
 
@@ -2471,9 +2485,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1456,
+Nr. IX-1456, 2003-04-03,
 
-2003-04-03, Žin., 2003, Nr. 38-1701 (2003-04-24)
+Žin., 2003, Nr. 38-1701 (2003-04-24)
 
 PILIETYBĖS
 
@@ -2505,23 +2519,23 @@ PILIETYBĖS
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-Šio įstatymo 1, 2, 5 straipsniai ir 9
+Šio įstatymo 1, 2, 5 straipsniai ir 9 straipsnio
 
-straipsnio 2, 4, 5, 6 ir 7 dalys įsigalioja nuo 2005 m. sausio 1 d.
+2, 4, 5, 6 ir 7 dalys įsigalioja nuo 2005 m. sausio 1 d.
 
 Šio įstatymo 3 straipsnyje asmenims
 
 nustatyti gyvenimo bendrai su sutuoktiniu, kuris yra Lietuvos Respublikos
 
-pilietis, Lietuvos Respublikos teritorijoje terminai netaikomi asmenims,
+pilietis, Lietuvos Respublikos teritorijoje terminai netaikomi asmenims, sudariusiems
 
-sudariusiems santuoką su Lietuvos Respublikos piliečiais iki šio įstatymo 3
+santuoką su Lietuvos Respublikos piliečiais iki šio įstatymo 3 straipsnio
 
-straipsnio įsigaliojimo. Šiems asmenims yra taikomi 2002 m. rugsėjo 17 d.
+įsigaliojimo. Šiems asmenims yra taikomi 2002 m. rugsėjo 17 d. priimto Lietuvos
 
-priimto Lietuvos Respublikos pilietybės įstatymo 14 straipsnyje nustatyti
+Respublikos pilietybės įstatymo 14 straipsnyje nustatyti gyvenimo Lietuvos
 
-gyvenimo Lietuvos Respublikos teritorijoje terminai.
+Respublikos teritorijoje terminai.
 
 Šis įstatymas, išskyrus šio straipsnio 1 dalyje
 
@@ -2581,6 +2595,18 @@ Nauja įstatymo redakcija
 
 1 d.
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-205,
+
+2009-03-19, Žin., 2009, Nr. 38-1444 (2009-04-04)
+
+PILIETYBĖS ĮSTATYMO 15 STRAIPSNIO
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -2605,13 +2631,11 @@ TEISĖS AKTŲ, REGULIUOJANČIŲ LIETUVOS RESPUBLIKOS PILIETYBĖS SANTYKIUS, NUOS
 
 ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
-***
+*** Pabaiga ***
 
-Pabaiga ***
+Redagavo Aušrinė Trapinskienė
 
-Redagavo:
-
-Aušrinė Trapinskienė (2008-07-22)
+(2009-04-06)
 
 autrap@lrs.lt
 
@@ -3559,11 +3583,9 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2006-11-13, Žin., 2006, Nr. 123-4650 (2006-11-16)
 
-21 straipsnis. Lietuvos Respublikos pilietybės
+21 straipsnis. Lietuvos Respublikos pilietybės įgijimo
 
-įgijimo ar Lietuvos Respublikos pilietybės suteikimo akto pripažinimas
-
-negaliojančiu
+ar Lietuvos Respublikos pilietybės suteikimo akto pripažinimas negaliojančiu
 
 1. Lietuvos
 
@@ -3583,9 +3605,9 @@ genocidą, nusikaltimus žmoniškumui, karo nusikaltimus arba įstatymų nustaty
 
 tvarka neturėjo teisės gauti dokumento, patvirtinančio teisę nuolat gyventi
 
-Lietuvos Respublikoje, arba rengėsi, kėsinosi padaryti ar padarė nusikalstamas veikas
+Lietuvos Respublikoje, arba rengėsi, kėsinosi padaryti ar padarė nusikalstamas
 
-prieš Lietuvos Respubliką.
+veikas prieš Lietuvos Respubliką.
 
 2. Lietuvos
 
@@ -3627,9 +3649,9 @@ arba konsulinei įstaigai.
 
 Respublikos pilietybės įgijimas pripažįstamas negaliojančiu, jeigu paaiškėja,
 
-kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidus šį
+kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidus šį ar
 
-ar kitus Lietuvos Respublikos įstatymus.
+kitus Lietuvos Respublikos įstatymus.
 
 6. Šio straipsnio 5 dalies nuostata
 
@@ -3639,9 +3661,7 @@ tos valstybės piliečiu jam nepareiškus valios tapti jos piliečiu ir jam nėr
 
 išduotas tos valstybės pilietybę patvirtinantis dokumentas.
 
-IV
-
-SKYRIUS
+IV SKYRIUS
 
 LIETUVOS
 
@@ -3737,11 +3757,11 @@ straipsnis. Sprendimų priėmimas dėl vaikų pilietybės
 
 Sprendimus dėl vaikų, nuolat gyvenančių Lietuvos
 
-Respublikoje, Lietuvos Respublikos pilietybės pagal šio įstatymo 8–11
+Respublikoje, Lietuvos Respublikos pilietybės pagal šio įstatymo 8–11 straipsnius
 
-straipsnius priima migracijos tarnyba, o dėl vaikų, nuolat gyvenančių
+priima migracijos tarnyba, o dėl vaikų, nuolat gyvenančių užsienyje, – vidaus
 
-užsienyje, – vidaus reikalų ministro įgaliota institucija.
+reikalų ministro įgaliota institucija.
 
 26
 
