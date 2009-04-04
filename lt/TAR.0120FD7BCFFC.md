@@ -4,7 +4,7 @@ identifier: "TAR.0120FD7BCFFC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2007-07-21"
+last_updated: "2009-04-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 2007-07-21 iki 2009-04-03
+Suvestinė redakcija nuo 2009-04-04 iki 2010-04-09
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
 
@@ -185,11 +185,27 @@ Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA0
 
 7 straipsnis. Savivaldybių steigimas, jų ribų nustatymas ir keitimas
 
-Savivaldybes steigia, esamas panaikina, taip pat jų teritorijų ribas bei centrus nustato ir keičia Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės teikimu. Prieš kreipdamasi į Seimą, Vyriausybė atsižvelgia į gyvenamosios vietovės bendruomenės nuomonę, savivaldybės tarybos siūlymus, organizuoja vietos gyventojų apklausą ir priima sprendimą dėl teikimo. Rinkimai į savivaldybių tarybas vyksta įstatymų nustatyta tvarka.
+Savivaldybes steigia, esamas savivaldybes panaikina, taip pat jų teritorijų ribas ir centrus nustato ir keičia Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės teikimu. Lietuvos Respublikos Vyriausybė parengia ir teikia Lietuvos Respublikos Seimui dokumentus dėl naujų savivaldybių steigimo ir jų teritorijų ribų nustatymo, kai numatomos steigti savivaldybės vietos gyventojų apklausoje, kurioje dalyvavo daugiau kaip pusė numatomos steigti savivaldybės gyventojų, turinčių teisę dalyvauti apklausoje, daugiau kaip pusė dalyvavusiųjų pasisakė už naujos savivaldybės steigimą ir kai numatomos steigti savivaldybės ir savivaldybės, kurių teritorijų ribas numatoma keisti dėl naujos savivaldybės steigimo, atitinka šiuos kriterijus:
+
+1) ne mažiau kaip 20 procentų savivaldybės biudžeto be Lietuvos Respublikos valstybės biudžeto dotacijų, skiriamų savivaldybių biudžetams, sudarytų tos teritorijos gyventojų pajamų mokesčiai;
+
+2) bendras savivaldybės gyventojų skaičius būtų ne mažesnis kaip 10 tūkst.;
+
+3) savivaldybės centro gyventojų skaičius būtų ne mažesnis kaip 3 tūkst.;
+
+4) savivaldybės centras būtų už 20 km ar toliau nuo artimiausio esamo savivaldybės centro;
+
+5) savivaldybė turėtų ribas su ne mažiau kaip dviem savivaldybėmis.
+
+Lietuvos Respublikos Vyriausybė, teikdama Lietuvos Respublikos Seimui dokumentus dėl naujų savivaldybių steigimo ir jų ribų nustatymo, kartu pateikia savivaldybių, kurių teritorijų ribas numatoma keisti, tarybų nuomonę ir numatomos steigti naujos savivaldybės gyventojų nuomonę, pareikštą vietos gyventojų apklausoje.
+
+Lietuvos Respublikos Vyriausybė, teikdama Lietuvos Respublikos Seimui dokumentus dėl savivaldybių teritorijų ribų keitimo, kartu pateikia savivaldybių, kurių teritorijų ribos keičiamos, tarybų nuomonę ir teritorijos dalies, priskiriamos kitai savivaldybei, vietos gyventojų nuomonę, pareikštą vietos gyventojų apklausoje.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-1163, 1999-05-04, Žin., 1999, Nr. 43-1362 (1999-05-19), i. k. 0991010ISTAIII-1163
+
+Nr. XI-206, 2009-03-26, Žin., 2009, Nr. 38-1445 (2009-04-04), i. k. 1091010ISTA00XI-206
 
 8 straipsnis. Apskričių ir savivaldybių pavadinimai
 
@@ -291,6 +307,8 @@ Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010IS
 
 13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas
 
+Pasiūlymus steigti naujas savivaldybes, panaikinti esamas savivaldybes, nustatyti ir keisti jų teritorijų ribas ir centrus Lietuvos Respublikos Vyriausybei turi teisę teikti bendruomenės iniciatyvinė grupė ir savivaldybės taryba. Bendruomenės iniciatyvinės grupės sudarymo ir pasiūlymų teikimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
 Pasiūlymus steigti ar panaikinti savivaldybes, kitus Lietuvos Respublikos teritorijos administracinius vienetus, nustatyti ar panaikinti gyvenamąsias vietoves, suteikti ar keisti gyvenamųjų vietovių pavadinimus bei nustatyti ar keisti jų ir Lietuvos Respublikos teritorijos administracinių vienetų teritorijų ribas, suteikti ar panaikinti kurorto arba kurortinės teritorijos statusą nagrinėja ir nuomonę šiais klausimais, prireikus ir atitinkamus teisės aktų projektus, Lietuvos Respublikos Vyriausybei teikia jos įgaliota institucija.
 
 Vietos gyventojų apklausos tvarką steigiant ar panaikinant Lietuvos Respublikos teritorijos administracinius vienetus, nustatant ar keičiant jų teritorijų ribas bei centrus nustato Lietuvos Respublikos Vyriausybė.
@@ -304,6 +322,8 @@ Nr. VIII-316, 1997-06-26, Žin., 1997, Nr. 65-1544 (1997-07-09), i. k. 0971010IS
 Nr. VIII-1163, 1999-05-04, Žin., 1999, Nr. 43-1362 (1999-05-19), i. k. 0991010ISTAIII-1163
 
 Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA000X-307
+
+Nr. XI-206, 2009-03-26, Žin., 2009, Nr. 38-1445 (2009-04-04), i. k. 1091010ISTA00XI-206
 
 VI SKYRIUS
 
@@ -420,6 +440,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1240, 2007-06-28, Žin., 2007, Nr. 81-3315 (2007-07-21), i. k. 1071010ISTA00X-1240
 
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo papildymo 3-1 straipsniu įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-206, 2009-03-26, Žin., 2009, Nr. 38-1445 (2009-04-04), i. k. 1091010ISTA00XI-206
+
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 7, 13 straipsnių pakeitimo ir papildymo įstatymas
 
 71 straipsnis. Seniūnijų aptarnaujamų teritorijų ribų nustatymas ir keitimas
 
