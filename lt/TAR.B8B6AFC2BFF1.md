@@ -4,7 +4,7 @@ identifier: "TAR.B8B6AFC2BFF1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-03-23"
-last_updated: "2008-03-01"
+last_updated: "2009-04-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2008-03-01 iki 2009-04-24
+Suvestinė redakcija nuo 2009-04-25 iki 2009-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
 
@@ -35,7 +35,11 @@ BENDROSIOS NUOSTATOS
 
 1. Šio įstatymo tikslas – saugoti sąžiningos konkurencijos laisvę Lietuvos Respublikoje.
 
-2. Šis įstatymas reglamentuoja konkurenciją ribojančią ar galinčią riboti valstybės valdymo, savivaldos institucijų bei ūkio subjektų veiklą ir nesąžiningos konkurencijos veiksmus, nustato šių institucijų ir subjektų teises, pareigas ir atsakomybę bei konkurencijos ribojimo ir nesąžiningos konkurencijos kontrolės Lietuvos Respublikoje teisinius pagrindus.
+2. Šis įstatymas reglamentuoja konkurenciją ribojančią ar galinčią riboti viešojo administravimo subjektų bei ūkio subjektų veiklą ir nesąžiningos konkurencijos veiksmus, nustato šių subjektų teises, pareigas ir atsakomybę bei konkurencijos ribojimo ir nesąžiningos konkurencijos kontrolės Lietuvos Respublikoje teisinius pagrindus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 3. Šiuo įstatymu siekiama Lietuvos Respublikos ir Europos Sąjungos konkurencijos santykius reglamentuojančios teisės suderinimo.
 
@@ -63,7 +67,11 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 3. Konkurencijos ribojimas – veiksmai, sudarantys kliūtis konkuruoti atitinkamoje rinkoje ar galintys susilpninti, iškraipyti arba kitaip neigiamai paveikti konkurenciją.
 
-4. Ūkio subjektas – įmonės, jų junginiai (asociacijos, susivienijimai, konsorciumai ir pan.), įstaigos ar organizacijos, ar kiti juridiniai ar fiziniai asmenys, kurie vykdo ar gali vykdyti ūkinę veiklą Lietuvos Respublikoje arba kurių veiksmai daro įtaką ar ketinimai, jeigu būtų įgyvendinti, galėtų daryti įtaką ūkinei veiklai Lietuvos Respublikoje. Lietuvos Respublikos valstybės valdymo ir savivaldos institucijos laikomos ūkio subjektais, jeigu jos vykdo ūkinę veiklą.
+4. Ūkio subjektas – įmonės, jų junginiai (asociacijos, susivienijimai, konsorciumai ir pan.), įstaigos ar organizacijos, ar kiti juridiniai ar fiziniai asmenys, kurie vykdo ar gali vykdyti ūkinę veiklą Lietuvos Respublikoje arba kurių veiksmai daro įtaką ar ketinimai, jeigu būtų įgyvendinti, galėtų daryti įtaką ūkinei veiklai Lietuvos Respublikoje. Lietuvos Respublikos viešojo administravimo subjektai laikomi ūkio subjektais, jeigu jie vykdo ūkinę veiklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 5. Atitinkama rinka – tam tikros prekės rinka tam tikroje geografinėje teritorijoje.
 
@@ -71,7 +79,11 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 7. Geografinė teritorija (geografinė rinka) – teritorija, kurioje visi ūkio subjektai susiduria su iš esmės panašiomis konkurencijos sąlygomis tam tikroje prekės rinkoje ir kuri, atsižvelgiant į tai, gali būti atskiriama lyginant su greta esančiomis teritorijomis.
 
-8. Konkurencijos sąlygos – visokie pirkimo ar pardavimo ekonominiai parametrai, iš kurių svarbiausiais laikomi kainos, nuolaidos, antkainiai ar kitokie mokėjimai bei juos įtakojantys veiksniai (ūkinės veiklos teisiniai ribojimai, valstybės valdymo ir savivaldos institucijų teikiama pagalba, gamybos technologijos ir kaštai, prekių naudojimo ar vartojimo ypatybės, transportavimo galimybės ir pan.).
+8. Konkurencijos sąlygos – visokie pirkimo ar pardavimo ekonominiai parametrai, iš kurių svarbiausiais laikomi kainos, nuolaidos, antkainiai ar kitokie mokėjimai bei jiems darantys įtaką veiksniai (ūkinės veiklos teisiniai ribojimai, viešojo administravimo subjektų teikiama pagalba, gamybos technologijos ir kaštai, prekių naudojimo ar vartojimo ypatybės, transportavimo galimybės ir pan.).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 9. Konkurentai – ūkio subjektai, kurie toje pačioje atitinkamoje rinkoje susiduria arba gali susidurti su tarpusavio konkurencija.
 
@@ -81,13 +93,29 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 12. Susijusių ūkio subjektų grupė – du ar daugiau ūkio subjektų, kurie dėl savitarpio kontrolės ar priklausomybės ir galimų suderintų veiksmų yra laikomi vienu ūkio subjektu apskaičiuojant bendrąsias pajamas ir rinkos dalį. Jeigu neįrodoma priešingai, laikoma, kad susijusių ūkio subjektų grupę sudaro kiekvienas nagrinėjamas ūkio subjektas ir:
 
-1) ūkio subjektai, kuriuose, kaip ir nagrinėjamame ūkio subjekte, tas pats fizinis asmuo arba tie patys fiziniai asmenys turi akcijų dalį, kuri sudaro daugiau kaip 1/4 įstatinio kapitalo, arba turi teises į daugiau kaip 1/4 visų balsų;
+1) ūkio subjektai, kuriuose, kaip ir nagrinėjamame ūkio subjekte, tas pats fizinis asmuo arba tie patys fiziniai asmenys turi akcijų dalį, kuri sudaro 1/4 ar daugiau įstatinio kapitalo, arba turi teises į 1/4 ar daugiau visų balsų;
 
-2) ūkio subjektai, kurie su nagrinėjamu ūkio subjektu yra bendrai valdomi ar turi bendrą administracinį padalinį arba kurių stebėtojų taryboje, valdyboje ar kitame valdymo organe yra pusė ar daugiau tų pačių narių kaip ir nagrinėjamo ūkio subjekto valdymo organuose;
+Straipsnio punkto pakeitimai:
 
-3) ūkio subjektai, kuriuose nagrinėjamas ūkio subjektas turi akcijų dalį, sudarančią daugiau kaip 1/4 įstatinio kapitalo, arba turi teises į daugiau kaip 1/4 visų balsų, arba kurie yra įsipareigoję derinti savo ūkinės veiklos sprendimus su nagrinėjamu ūkio subjektu, arba už kurių prievolių tretiesiems asmenims įvykdymą yra įsipareigojęs atsakyti nagrinėjamas ūkio subjektas, arba kurie yra įsipareigoję perduoti visą arba dalį pelno ar suteikę teisę naudoti daugiau kaip 1/4 savo turto nagrinėjamam ūkio subjektui;
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
-4) ūkio subjektai, kurie nagrinėjamame ūkio subjekte turi akcijų dalį, sudarančią daugiau kaip 1/4 įstatinio kapitalo, arba turi teises į daugiau kaip 1/4 visų balsų, arba su kuriais nagrinėjamas ūkio subjektas yra įsipareigojęs derinti savo ūkinės veiklos sprendimus, arba kurie yra įsipareigoję atsakyti už nagrinėjamo ūkio subjekto prievolių tretiesiems asmenims įvykdymą, arba kuriems nagrinėjamas ūkio subjektas yra įsipareigojęs perduoti visą arba dalį pelno ar suteikęs teisę naudoti daugiau kaip 1/4 savo turto;
+2) ūkio subjektai, kurie su nagrinėjamu ūkio subjektu yra bendrai valdomi ar turi bendrą administracinį padalinį arba kurių stebėtojų taryboje, valdyboje ar kitame valdymo ar priežiūros organe yra pusė ar daugiau tų pačių narių kaip ir nagrinėjamo ūkio subjekto valdymo ar priežiūros organuose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
+
+3) ūkio subjektai, kuriuose nagrinėjamas ūkio subjektas turi akcijų dalį, sudarančią 1/4 ar daugiau įstatinio kapitalo, arba turi teises į 1/4 ar daugiau visų balsų, arba kurie yra įsipareigoję derinti savo ūkinės veiklos sprendimus su nagrinėjamu ūkio subjektu, arba už kurių prievolių tretiesiems asmenims įvykdymą yra įsipareigojęs atsakyti nagrinėjamas ūkio subjektas, arba kurie yra įsipareigoję perduoti visą arba dalį pelno ar suteikę teisę naudoti 1/4 ar daugiau savo turto nagrinėjamam ūkio subjektui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
+
+4) ūkio subjektai, kurie nagrinėjamame ūkio subjekte turi akcijų dalį, sudarančią 1/4 ar daugiau įstatinio kapitalo, arba turi teises į 1/4 ar daugiau visų balsų, arba su kuriais nagrinėjamas ūkio subjektas yra įsipareigojęs derinti savo ūkinės veiklos sprendimus, arba kurie yra įsipareigoję atsakyti už nagrinėjamo ūkio subjekto prievolių tretiesiems asmenims įvykdymą, arba kuriems nagrinėjamas ūkio subjektas yra įsipareigojęs perduoti visą arba dalį pelno ar suteikęs teisę naudoti 1/4 ar daugiau savo turto;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 5) ūkio subjektai, kurie tiesiogiai ar netiesiogiai, per kitus ūkio subjektus, yra susiję su šio straipsnio 12 dalies 1, 2, 3 ir 4 punktuose nurodytais ūkio subjektais bet kuriuo iš šio straipsnio 12 dalies 1, 2, 3 ir 4 punktuose nurodytų būdų.
 
@@ -103,11 +131,23 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 1) nuosavybės teisę į visą ar dalį ūkio subjekto turto arba teisę naudoti visą ar dalį ūkio subjekto turto;
 
-2) kitas teises, kurios leidžia daryti lemiamą įtaką ūkio subjekto valdymo organų sprendimams ar personalo sudėčiai.
+2) kitas teises, kurios leidžia daryti lemiamą įtaką ūkio subjekto organų sprendimams ar personalo sudėčiai.
 
-16. Kontroliuojantis asmuo – juridinis ar fizinis asmuo, turintis arba įgyjantis ūkio subjekto kontrolės teisę. Kontroliuojančiu asmeniu gali būti Lietuvos Respublikos pilietis, užsienietis ar asmuo be pilietybės arba ūkio subjektas, taip pat valstybės valdymo ir savivaldos institucijos. Sutuoktiniai ir jų nepilnamečiai vaikai (įvaikiai) laikomi vienu kontroliuojančiu asmeniu. Jeigu du ar daugiau juridinių ar fizinių asmenų, veikdami susitarimo pagrindu, įsigyja koncentruojamo ūkio subjekto kontrolę, tai kiekvienas iš šių juridinių ar fizinių asmenų yra laikomas kontroliuojančiu asmeniu.
+Straipsnio punkto pakeitimai:
 
-17. Lemiama įtaka – padėtis, kai kontroliuojantis asmuo įgyvendina ar turi galimybę įgyvendinti savo sprendimus dėl kontroliuojamo ūkio subjekto ūkinės veiklos, valdymo organų sprendimų ar personalo sudėties.
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
+
+16. Kontroliuojantis asmuo – juridinis ar fizinis asmuo, turintis arba įgyjantis ūkio subjekto kontrolės teisę. Kontroliuojančiu asmeniu gali būti Lietuvos Respublikos pilietis, užsienietis ar asmuo be pilietybės arba ūkio subjektas, taip pat viešojo administravimo subjektai. Sutuoktiniai, tėvai ir jų nepilnamečiai vaikai (įvaikiai) laikomi vienu kontroliuojančiu asmeniu. Jeigu du ar daugiau juridinių ar fizinių asmenų, veikdami susitarimo pagrindu, įsigyja koncentruojamo ūkio subjekto kontrolę, tai kiekvienas iš šių juridinių ar fizinių asmenų yra laikomas kontroliuojančiu asmeniu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
+
+17. Lemiama įtaka – padėtis, kai kontroliuojantis asmuo įgyvendina ar turi galimybę įgyvendinti savo sprendimus dėl kontroliuojamo ūkio subjekto ūkinės veiklos, organų sprendimų ar personalo sudėties.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 18. Ūkio subjekto turtas – ilgalaikio naudojimo materialus turtas ir kiti neapyvartiniai aktyvai, naudojami ūkinei veiklai.
 
@@ -117,11 +157,15 @@ Straipsnio dalies naikinimas:
 
 Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
 
-4 straipsnis. Valstybės valdymo ir savivaldos institucijų pareiga užtikrinti sąžiningos konkurencijos laisvę
+4 straipsnis. Viešojo administravimo subjektų pareiga užtikrinti sąžiningos konkurencijos laisvę
 
-1. Valstybės valdymo ir savivaldos institucijos, vykdydamos pavestus uždavinius, susijusius su ūkinės veiklos reguliavimu Lietuvos Respublikoje, privalo užtikrinti sąžiningos konkurencijos laisvę.
+1. Viešojo administravimo subjektai, įgyvendindami pavestus uždavinius, susijusius su ūkinės veiklos reguliavimu Lietuvos Respublikoje, privalo užtikrinti sąžiningos konkurencijos laisvę.
 
-2. Valstybės valdymo ir savivaldos institucijoms draudžiama priimti teisės aktus arba kitus sprendimus, kurie teikia privilegijas arba diskriminuoja atskirus ūkio subjektus ar jų grupes ir dėl kurių atsiranda ar gali atsirasti konkurencijos sąlygų skirtumų atitinkamoje rinkoje konkuruojantiems ūkio subjektams, išskyrus atvejus, kai skirtingų konkurencijos sąlygų neįmanoma išvengti vykdant Lietuvos Respublikos įstatymų reikalavimus.
+2. Viešojo administravimo subjektams draudžiama priimti teisės aktus arba kitus sprendimus, kurie teikia privilegijas arba diskriminuoja atskirus ūkio subjektus ar jų grupes ir dėl kurių atsiranda ar gali atsirasti konkurencijos sąlygų skirtumų atitinkamoje rinkoje konkuruojantiems ūkio subjektams, išskyrus atvejus, kai skirtingų konkurencijos sąlygų neįmanoma išvengti vykdant Lietuvos Respublikos įstatymų reikalavimus.
+
+Straipsnio pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 II Skyrius
 
@@ -221,7 +265,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. X-1311, 2007-10-25, Žin., 2007, Nr. 117-4780 (2007-11-15), i. k. 1071010ISTA00X-1311
 
-4) bendrųjų pajamų suma ūkio subjektų, kurie veikdami susitarimo pagrindu kartu steigia naują ūkio subjektą arba sukuria bendrą valdymo organą ar bendrą administracinį padalinį arba kurie dėl priimamų sprendimų turės pusę ar daugiau tų pačių narių stebėtojų tarybose, valdybose ar kituose valdymo organuose, arba kurie įsipareigoja vienas su kitu derinti savo ūkinės veiklos sprendimus arba perduoti vienas kitam visą ar tam tikrą dalį pelno, arba kurie vienas kitam suteikia teisę naudoti visą savo turtą ar jo dalį, arba vienas iš kurių ar keletas ūkio subjektų, veikdami susitarimo pagrindu, kitokiu būdu įgyja kito ūkio subjekto kontrolę. Jeigu vienas ūkio subjektas suteikia teisę kitam ūkio subjektui naudoti savo turto dalį, tai bendrosios pajamos ir rinkos dalis apskaičiuojama proporcingai naudojamo turto daliai.
+4) bendrųjų pajamų suma ūkio subjektų, kurie veikdami susitarimo pagrindu kartu steigia naują ūkio subjektą arba sukuria bendrą valdymo ar priežiūros organą ar bendrą administracinį padalinį arba kurie dėl priimamų sprendimų turės pusę ar daugiau tų pačių narių stebėtojų tarybose, valdybose ar kituose valdymo ar priežiūros organuose, arba kurie įsipareigoja vienas su kitu derinti savo ūkinės veiklos sprendimus arba perduoti vienas kitam visą ar tam tikrą dalį pelno, arba kurie vienas kitam suteikia teisę naudoti visą savo turtą ar jo dalį, arba vienas iš kurių ar keletas ūkio subjektų, veikdami susitarimo pagrindu, kitokiu būdu įgyja kito ūkio subjekto kontrolę. Jeigu vienas ūkio subjektas suteikia teisę kitam ūkio subjektui naudoti savo turto dalį, tai bendrosios pajamos ir rinkos dalis apskaičiuojama proporcingai naudojamo turto daliai.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 3. Jeigu koncentracijoje dalyvauja:
 
@@ -245,11 +293,13 @@ Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010IST
 
 4. Koncentracijos kontrolei taikomą bendrųjų pajamų apskaičiavimo tvarką nustato Konkurencijos taryba.
 
-5. Laikoma, kad koncentracija nevykdoma, kai komerciniai bankai, kitos kredito įstaigos, vertybinių popierių viešosios apyvartos tarpininkai, kolektyvinio investavimo subjektai ar juos valdančios valdymo įmonės bei draudimo įmonės įsigyja daugiau kaip 1/4 kitos įmonės akcijų, turėdamos tikslą jas perleisti, jeigu nesinaudojama šių akcijų suteikiama balsavimo teise, ir šios akcijos perleidžiamos ne vėliau kaip per vienerius metus, ir ne vėliau kaip per vieną mėnesį po įsigijimo pateikiama informacija Konkurencijos tarybai. Jeigu finansinės įstaigos, įsigijusios daugiau kaip 1/4 kitos įmonės akcijų, nusprendžia nesilaikyti šioje dalyje nustatytų sąlygų, jos privalo pateikti pranešimą apie koncentraciją bendra tvarka.
+5. Laikoma, kad koncentracija nevykdoma, kai komerciniai bankai, kitos kredito įstaigos, vertybinių popierių viešosios apyvartos tarpininkai, kolektyvinio investavimo subjektai ar juos valdančios valdymo įmonės bei draudimo įmonės įsigyja 1/4 ar daugiau kitos įmonės akcijų, turėdami tikslą jas perleisti, jeigu nesinaudojama šių akcijų suteikiama balsavimo teise, ir šios akcijos perleidžiamos ne vėliau kaip per vienerius metus, ir ne vėliau kaip per vieną mėnesį po įsigijimo pateikiama informacija Konkurencijos tarybai. Jeigu finansų įstaigos, įsigijusios 1/4 ar daugiau kitos įmonės akcijų, nusprendžia nesilaikyti šioje dalyje nustatytų sąlygų, jos privalo pateikti pranešimą apie koncentraciją bendra tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010ISTA0IX-1715
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 11 straipsnis. Pranešimo pateikimas
 
@@ -317,7 +367,11 @@ Papildyta straipsnio dalimi:
 
 Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
 
-5. Konkurencijos taryba, nagrinėdama pranešimus apie koncentraciją, turi teisę gauti iš ūkio subjektų, kontroliuojančių asmenų bei valstybės valdymo ir savivaldos institucijų informaciją, žodinius bei raštiškus paaiškinimus, reikalingus nutarimui dėl koncentracijos priimti.
+5. Konkurencijos taryba, nagrinėdama pranešimus apie koncentraciją, turi teisę gauti iš ūkio subjektų, kontroliuojančių asmenų ir viešojo administravimo subjektų informaciją, žodinius bei raštiškus paaiškinimus, reikalingus nutarimui dėl koncentracijos priimti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -329,7 +383,11 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 1) leisti vykdyti koncentraciją pagal pateiktą pranešimą;
 
-2) leisti vykdyti koncentraciją pagal dalyvaujantiems ūkio subjektams ar kontroliuojantiems asmenims Tarybos nustatytas koncentracijos vykdymo sąlygas ir įpareigojimus, reikalingus dominuojančios padėties sukūrimui ar sustiprinimui išvengti;
+2) leisti vykdyti koncentraciją pagal dalyvaujantiems ūkio subjektams ar kontroliuojantiems asmenims Tarybos nustatytas koncentracijos vykdymo sąlygas ir įpareigojimus, reikalingus tam, kad nebūtų sukurta ar sustiprinta dominuojanti padėtis, ar itin apribota konkurencija atitinkamoje rinkoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 3) atsisakyti duoti leidimą vykdyti koncentraciją ir įpareigoti koncentracijoje dalyvaujančius ūkio subjektus ar kontroliuojančius asmenis atlikti veiksmus, kad būtų atkurta ankstesnė padėtis, išskyrus atskirus koncentracijos veiksmus, kuriuos leido atlikti Konkurencijos taryba pagal 12 straipsnio 3 dalį, arba pašalinančius koncentracijos pasekmes, įskaitant įpareigojimus parduoti įmonę ar jos dalį, ūkio subjekto turtą ar jo dalį, akcijas ar jų dalį, nutraukti ar pakeisti sutartis bei nustatyti šių įpareigojimų įvykdymo terminus bei sąlygas, jeigu dėl koncentracijos bus sukurta ar sustiprinta dominuojanti padėtis, ar itin apribota konkurencija atitinkamoje rinkoje.
 
@@ -421,17 +479,27 @@ KONKURENCIJĄ RIBOJANČIŲ VEIKSMŲ KONTROLĖS INSTITUCIJA
 
 1. Konkurencijos taryba:
 
-1) kontroliuoja, kaip ūkio subjektai, valstybės valdymo ir savivaldos institucijos laikosi šio įstatymo nustatytų reikalavimų;
+1) kontroliuoja, kaip ūkio subjektai, viešojo administravimo subjektai laikosi šio įstatymo nustatytų reikalavimų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 2) nustato atitinkamos rinkos apibrėžimo bei dominuojančios padėties nustatymo kriterijus bei tvarką, tiria ir apibrėžia atitinkamas rinkas, nustato ūkio subjektų rinkos dalį bei jų padėtį atitinkamoje rinkoje;
 
-3) duoda privalomus nurodymus ūkio subjektams, tarp jų komerciniams bankams ir kitoms kredito įstaigoms bei valstybės valdymo ir savivaldos institucijoms, pateikti finansinius ir kitus dokumentus, taip pat ir turinčius komercinių paslapčių, bei kitą informaciją, reikalingą rinkoms tirti ar kitiems Tarybos uždaviniams vykdyti;
+3) duoda privalomus nurodymus ūkio subjektams, tarp jų komerciniams bankams ir kitoms kredito įstaigoms bei viešojo administravimo subjektams, pateikti finansinius ir kitus dokumentus, taip pat ir turinčius komercinių paslapčių, bei kitą informaciją, reikalingą rinkoms tirti ar kitiems Tarybos uždaviniams vykdyti;
 
-4) nagrinėja, ar valstybės valdymo ir savivaldos institucijų priimti teisės aktai ar kiti sprendimai atitinka šio įstatymo 4 straipsnio reikalavimus ir, esant pagrindui, kreipiasi į valstybės valdymo ir savivaldos institucijas su reikalavimu pakeisti ar panaikinti teisės aktus ar kitus konkurenciją ribojančius sprendimus. Jeigu reikalavimas neįvykdytas, Taryba turi teisę valstybės valdymo institucijų sprendimus, išskyrus Lietuvos Respublikos Vyriausybės norminius teisės aktus, apskųsti Lietuvos vyriausiajam administraciniam teismui, savivaldos institucijų sprendimus – apygardos administraciniam teismui;
+Straipsnio punkto pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
+
+4) nagrinėja, ar viešojo administravimo subjektų priimti teisės aktai ar kiti sprendimai atitinka šio įstatymo 4 straipsnio reikalavimus ir, esant pagrindui, kreipiasi į viešojo administravimo subjektus su reikalavimu pakeisti ar panaikinti teisės aktus ar kitus konkurenciją ribojančius sprendimus. Jeigu reikalavimas neįvykdytas, Taryba turi teisę valstybinio administravimo subjektų sprendimus, išskyrus Lietuvos Respublikos Vyriausybės norminius teisės aktus, apskųsti Lietuvos vyriausiajam administraciniam teismui, savivaldybių administravimo subjektų ir kitų viešojo administravimo subjektų sprendimus – apygardos administraciniam teismui;
 
 Straipsnio punkto pakeitimai:
 
 Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 5) tiria ir nagrinėja šio įstatymo pažeidimus bei taiko pažeidėjams sankcijas įstatymų nustatytais atvejais ir tvarka;
 
@@ -453,11 +521,15 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 20 straipsnis. Konkurencijos tarybos sudėtis, sudarymas bei darbo tvarka
 
-1. Konkurencijos tarybą sudaro pirmininkas ir 4 nariai. Konkurencijos tarybos pirmininką ir narius Lietuvos Respublikos Ministro Pirmininko teikimu skiria Respublikos Prezidentas. Konkurencijos tarybos pirmininkas skiriamas penkeriems metams, Konkurencijos tarybos nariai skiriami šešeriems metams. Tas pats asmuo Konkurencijos tarybos pirmininku ar nariu gali būti paskirtas ne daugiau kaip dviem kadencijoms iš eilės. Pirmą kartą skiriant Konkurencijos tarybos narius, 2 nariai skiriami šešeriems metams ir 2 nariai trejiems metams.
+1. Konkurencijos tarybą sudaro pirmininkas ir 4 nariai. Konkurencijos tarybos pirmininką ir narius Lietuvos Respublikos Ministro Pirmininko teikimu skiria Respublikos Prezidentas. Konkurencijos tarybos pirmininkas ir Konkurencijos tarybos nariai skiriami šešeriems metams. Tas pats asmuo Konkurencijos tarybos pirmininku ar nariu gali būti paskirtas ne daugiau kaip dviem kadencijoms iš eilės. Pirmą kartą skiriant Konkurencijos tarybos narius, 2 nariai skiriami šešeriems metams ir 2 nariai trejiems metams.
+
+TAR pastaba. Iki įstatymo Nr. XI-216 įsigaliojimo (2009-04-25) paskirtas Konkurencijos tarybos pirmininkas eina pareigas iki kadencijos, kuriai jis buvo paskirtas, pabaigos. Pasibaigus iki šio įstatymo įsigaliojimo paskirto Konkurencijos tarybos pirmininko kadencijai, naujas Konkurencijos tarybos pirmininkas skiriamas pagal 20 straipsnio 1 dalies nuostatas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 2. Konkurencijos tarybos pirmininku bei nariais gali būti nepriekaištingos reputacijos Lietuvos Respublikos piliečiai, turintys aukštąjį teisinį ar ekonominį išsilavinimą.
 
@@ -477,11 +549,15 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 7) dėl sveikatos būklės.
 
-4. Konkurencijos tarybos pirmininkui ir nariams, atleidžiamiems iš pareigų, kai pasibaigia jų kadencija, išmokama vieno mėnesio jų vidutinio darbo užmokesčio dydžio išeitinė išmoka, išskyrus atvejus, kai jie paskiriami antrai kadencijai.
+4. Pasibaigus Konkurencijos tarybos pirmininko ar nario kadencijai, šie asmenys eina savo pareigas tol, kol į atitinkamas pareigas yra paskiriamas tas pats ar kitas asmuo. Konkurencijos tarybos pirmininkui ir nariams, atleidžiamiems iš pareigų, kai pasibaigia jų kadencija, išmokama vieno mėnesio jų vidutinio darbo užmokesčio dydžio išeitinė išmoka, išskyrus atvejus, kai jie paskiriami kitai kadencijai.
 
 Papildyta straipsnio dalimi:
 
 Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 5. Konkurencijos tarybos nariai gali dirbti tik Konkurencijos taryboje, išskyrus mokslinį, pedagoginį ar kūrybinį darbą, gavę Konkurencijos tarybos sutikimą.
 
@@ -489,11 +565,13 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
 
-6. Konkurencijos taryba, spręsdama jos kompetencijai priskirtus klausimus, priima nutarimus. Nutarimai priimami balsų dauguma, dalyvaujant ne mažiau kaip 3 Konkurencijos tarybos nariams, įskaitant Konkurencijos tarybos pirmininką. Balsams pasiskirsčius po lygiai, lemia Konkurencijos tarybos pirmininko balsas.
+6. Konkurencijos taryba, spręsdama jos kompetencijai priskirtus klausimus, priima nutarimus. Nutarimai priimami balsų dauguma, dalyvaujant ne mažiau kaip 3 Konkurencijos tarybos nariams, įskaitant Konkurencijos tarybos pirmininką. Balsams pasiskirsčius po lygiai, lemia Konkurencijos tarybos pirmininko balsas. Konkurencijos tarybos nutarimai dėl šio įstatymo pažeidimų tyrimų Konkurencijos tarybos sprendimu gali būti laikomi konfidencialiais tol, kol išnyksta grėsmė tyrimų eigai, bet ne ilgiau kaip iki bus atliktas bet kuris iš šio įstatymo 26 straipsnio 1 dalies 1, 2, 3, 4, 5, 7 ar 8 punkte numatytų veiksmų dėl šio įstatymo pažeidimu įtariamų ūkio subjektų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 7. Konkurencijos tarybos darbo tvarką ir jos nagrinėjamų bylų proceso taisykles nustato Konkurencijos tarybos priimtas darbo reglamentas.
 
@@ -537,23 +615,21 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 
 1. Konkurencijos taryba tiria:
 
-1) konkurenciją ribojančius susitarimus;
+1) viešojo administravimo subjektų priimtų teisės aktų ar kitų sprendimų atitiktį šio įstatymo 4 straipsnio reikalavimams;
 
-Straipsnio punkto pakeitimai:
+2) konkurenciją ribojančius susitarimus;
 
-Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+3) piktnaudžiavimą dominuojančia padėtimi;
 
-2) piktnaudžiavimą dominuojančia padėtimi;
+4) koncentracijos vykdymą apie tai nepranešus ar negavus leidimo arba pažeidžiant nustatytas koncentracijos vykdymo sąlygas ar įpareigojimus, taip pat koncentracijos tęsimą jos sustabdymo laikotarpiu;
 
-3) koncentracijos vykdymą apie tai nepranešus ar negavus leidimo arba pažeidžiant nustatytas koncentracijos vykdymo sąlygas ar įpareigojimus, taip pat koncentracijos tęsimą jos sustabdymo laikotarpiu;
+5) nesąžiningą konkurenciją šio įstatymo 17 straipsnio 4 dalyje numatytais atvejais;
 
-4) nesąžiningą konkurenciją šio įstatymo 17 straipsnio 4 dalyje numatytais atvejais;
+6) pažeidimus, kai nurodymai pateikti informaciją nevykdomi ar vykdomi ne laiku, pateikiama neteisinga ar ne visa informacija, šio įstatymo nustatytais atvejais informacija nepateikiama nustatytu laiku, kliudoma Konkurencijos tarybos pareigūnams atlikti tyrimą arba nevykdomos Konkurencijos tarybos nutarimais paskirtos sankcijos ar įpareigojimai, taip pat ūkio subjektų prisiimti įsipareigojimai pagal šio įstatymo 30 straipsnio 2 dalies 2 punktą.
 
-5) pažeidimus, kai nurodymai pateikti informaciją nevykdomi ar vykdomi ne laiku, pateikiama neteisinga ar ne visa informacija, šio įstatymo numatytais atvejais informacija nepateikiama nustatytu laiku, kliudoma Konkurencijos tarybos įgaliotiems pareigūnams atlikti tyrimą arba nevykdomos Konkurencijos tarybos nutarimais paskirtos sankcijos ar įpareigojimai, taip pat ūkio subjektų prisiimti įsipareigojimai pagal šio įstatymo 30 straipsnio 2 dalies 2 punktą.
+Straipsnio dalies pakeitimai:
 
-Straipsnio punkto pakeitimai:
-
-Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 2. Tyrimą atlieka Konkurencijos tarybos įgalioti jos administracijos darbuotojai (toliau – įgalioti pareigūnai).
 
@@ -563,7 +639,11 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 1) ūkio subjektai, kurių interesai yra pažeisti dėl konkurenciją ribojančių veiksmų;
 
-2) valstybės valdymo ir savivaldos institucijos;
+2) viešojo administravimo subjektai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 3) ūkio subjektų ir vartotojų interesams atstovaujančios asociacijos ar sąjungos.
 
@@ -611,21 +691,33 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 1) įeiti ir atlikti patikrinimą ūkio subjekto naudojamose patalpose, teritorijoje ir transporto priemonėse;
 
-2) peržiūrėti tyrimui reikalingus tikrinamo ūkio subjekto dokumentus, gauti jų kopijas ir išrašus, susipažinti su ūkio subjekto darbuotojų užrašais, susijusiais su darbo veikla, taip pat juos bei kompiuteriuose ir magnetinėse laikmenose esančią informaciją kopijuoti;
+2) įeiti ir atlikti patikrinimą kitose patalpose, teritorijose ir transporto priemonėse, įskaitant ūkio subjekto vadovų bei darbuotojų gyvenamąsias ir kitokias patalpas, jeigu kyla pagrįstas įtarimas, kad tokiose patalpose, teritorijoje ar transporto priemonėse yra laikomi dokumentai ar bet kokie kiti įrodymai, reikalingi tyrimui ir galintys turėti reikšmės įrodant sunkų šio įstatymo 5 ar 9 straipsnio arba Europos bendrijos steigimo sutarties 81 ar 82 straipsnio pažeidimą;
 
-3) gauti žodinius ir raštiškus paaiškinimus iš asmenų, susijusių su tikrinamų ūkio subjektų veikla, reikalauti, kad jie atvyktų duoti paaiškinimus į tyrimą atliekančio įgalioto pareigūno tarnybines patalpas;
+3) peržiūrėti tyrimui reikalingus dokumentus (kad ir kokioje laikmenoje jie būtų saugomi), gauti jų kopijas ir išrašus, susipažinti su ūkio subjekto darbuotojų užrašais, susijusiais su darbo veikla, taip pat juos bei kompiuteriuose ir bet kokiose laikmenose esančią informaciją kopijuoti;
 
-4) gauti duomenis ir dokumentus arba jų nuorašus apie tikrinamo ūkio subjekto ūkines operacijas iš kitų ūkio subjektų, neatsižvelgiant į jų pavaldumą, taip pat iš valstybės valdymo ir savivaldos institucijų;
+4) užantspauduoti ūkio subjekto naudojamas patalpas, kuriose laikomi dokumentai (kad ir kokioje laikmenoje jie būtų saugomi), tokiam laikotarpiui ir tokiu mastu, koks būtinas patikrinimui, atliekamam gavus teismo leidimą, atlikti, tačiau ne ilgiau negu 3 kalendorinėms dienoms;
 
-5) patikrinti ūkio subjekto ūkinę veiklą (atlikti reviziją) ir pagal tikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas;
+5) gauti žodinius ir raštiškus paaiškinimus iš asmenų, susijusių su tikrinamų ūkio subjektų veikla, reikalauti, kad jie atvyktų duoti paaiškinimų į tyrimą atliekančio įgalioto pareigūno tarnybines patalpas;
 
-6) paimti dokumentus ir daiktus, kurie tiriant bylą turi įrodomosios reikšmės;
+6) gauti duomenis ir dokumentus arba jų nuorašus apie tikrinamo ūkio subjekto ūkines operacijas iš kitų ūkio subjektų, neatsižvelgiant į jų pavaldumą, taip pat iš viešojo administravimo subjektų;
 
-7) tyrimui atlikti pasitelkti specialistų ir ekspertų;
+7) patikrinti ūkio subjekto ūkinę veiklą (atlikti reviziją) ir pagal tikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas;
 
-8) laikantis įstatymų nustatytos tvarkos, tyrimo metu naudoti technines priemones.
+8) paimti dokumentus ir daiktus, kurie tiriant bylą turi įrodomosios reikšmės;
 
-2. Tyrimo veiksmai, nurodyti šio straipsnio 1 dalies 1 ir 2 punktuose, gali būti atliekami tik turint teisėjo sankciją.
+9) tyrimui atlikti pasitelkti specialistų ir ekspertų;
+
+10) laikydamiesi įstatymų nustatytos tvarkos, tyrimo metu naudoti technines priemones.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
+
+2. Tyrimo veiksmai, nurodyti šio straipsnio 1 dalies 1 ir 2 punktuose, gali būti atliekami tik turint teismo leidimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 3. Tyrimą atliekantys Konkurencijos tarybos įgalioti pareigūnai tvarkai palaikyti gali pasitelkti policijos pareigūnus.
 
@@ -637,7 +729,11 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 5. Konkurencijos tarybos įgalioti pareigūnai, įgyvendindami jiems įstatymo ir Konkurencijos tarybos suteiktas teises, tyrimo veiksmus įformina raštu – surašo dokumentus (aktus, protokolus, reikalavimus ir pan.), kurių formas ir užpildymo tvarką nustato Konkurencijos taryba.
 
-6. Konkurencijos tarybos įgaliotų pareigūnų reikalavimai, duoti atliekant šio straipsnio 1 dalyje nurodytus veiksmus, yra privalomi ūkio subjektams ir jų valdymo organų bei administracijos darbuotojams. Už reikalavimų nevykdymą taikomos įstatymų nustatytos sankcijos.
+6. Konkurencijos tarybos įgaliotų pareigūnų reikalavimai, duoti atliekant šio straipsnio 1 dalyje nurodytus veiksmus, yra privalomi ūkio subjektams ir jų organų nariams bei administracijos darbuotojams. Už reikalavimų nevykdymą taikomos įstatymų nustatytos sankcijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 7. Tyrimą atliekantys įgalioti pareigūnai raštu įspėja paaiškinimus duodančius asmenis apie jų atsakomybę už melagingų žinių suteikimą arba už atsisakymą suteikti žinias Konkurencijos tarybai.
 
@@ -659,11 +755,13 @@ Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010I
 
 1) įpareigoti ūkio subjektus nutraukti neteisėtą veiklą;
 
-2) gavus Vilniaus apygardos administracinio teismo teisėjo sankciją, įpareigoti ūkio subjektus atlikti tam tikrus veiksmus, jeigu jų neatlikimas padarytų kitiems ūkio subjektams ar visuomenės interesams esminės žalos ar susidarytų nepataisomos pasekmės.
+2) gavusi Vilniaus apygardos administracinio teismo leidimą, įpareigoti ūkio subjektus atlikti tam tikrus veiksmus, jeigu jų neatlikimas padarytų kitiems ūkio subjektams ar visuomenės interesams esminės žalos ar susidarytų nepataisomos pasekmės.
 
 Straipsnio punkto pakeitimai:
 
 Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 3. Prieš priimdama nutarimą taikyti laikinojo pobūdžio priemones, Konkurencijos taryba ūkio subjektui, įtariamam pažeidus Konkurencijos įstatymą, turi suteikti galimybę per nustatytą terminą duoti paaiškinimus.
 
@@ -673,69 +771,47 @@ Straipsnio dalies pakeitimai:
 
 Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
 
-29 straipsnis. Tyrimo veiksmų, laikinojo pobūdžio priemonių ir ūkinės veiklos apribojimų sankcionavimo tvarka
+29 straipsnis. Teismo leidimų dėl tyrimo veiksmų atlikimo, laikinojo pobūdžio priemonių ir ūkinės veiklos apribojimų taikymo išdavimo tvarka
 
-1. Konkurencijos tarybai priėmus nutarimą dėl tyrimo veiksmų, numatytų 26 straipsnio 2 dalyje, arba dėl laikinojo pobūdžio priemonių taikymo pagal 28 straipsnio 2 dalies 2 punktą, arba dėl ūkinės veiklos apribojimų pagal 40 straipsnio 2 dalį, šios tarybos įgaliotas pareigūnas pateikia teismui prašymą šiuos veiksmus, priemones ar apribojimus sankcionuoti. Prašymas pateikiamas Vilniaus apygardos administraciniam teismui.
-
-Straipsnio dalies pakeitimai:
-
-Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+1. Konkurencijos tarybai priėmus nutarimą dėl tyrimo veiksmų, numatytų šio įstatymo 26 straipsnio 2 dalyje, arba dėl laikinojo pobūdžio priemonių taikymo pagal šio įstatymo 28 straipsnio 2 dalies 2 punktą, arba dėl ūkinės veiklos apribojimų pagal šio įstatymo 40 straipsnio 2 dalį, šios tarybos įgaliotas pareigūnas pateikia teismui prašymą dėl teismo leidimo atlikti šiuos veiksmus, taikyti priemones ar apribojimus išdavimo. Prašymas pateikiamas Vilniaus apygardos administraciniam teismui.
 
 2. Prašyme turi būti nurodytas ūkio subjekto pavadinimas, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai, taikytinos laikinojo pobūdžio priemonės arba ūkinės veiklos apribojimai.
 
-3. Prašymą dėl tyrimo veiksmų, laikinojo pobūdžio priemonių arba ūkinės veiklos apribojimų sankcionavimo išnagrinėja Vilniaus apygardos administracinio teismo teisėjas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti.
+3. Prašymą dėl teismo leidimo atlikti tyrimo veiksmus, taikyti laikinojo pobūdžio priemones arba ūkinės veiklos apribojimus išdavimo išnagrinėja Vilniaus apygardos administracinio teismo teisėjas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti.
 
-Straipsnio dalies pakeitimai:
-
-Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
-
-4. Prašymas dėl tyrimo veiksmų, laikinojo pobūdžio priemonių arba ūkinės veiklos apribojimų sankcionavimo turi būti išnagrinėtas ir priimta nutartis ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento.
+4. Prašymas dėl teismo leidimo atlikti tyrimo veiksmus, taikyti laikinojo pobūdžio priemones arba ūkinės veiklos apribojimus išdavimo turi būti išnagrinėtas ir priimta nutartis ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento.
 
 5. Jeigu Konkurencijos tarybos įgaliotas pareigūnas nesutinka su Vilniaus apygardos administracinio teismo teisėjo sprendimu atmesti prašymą, jis turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui.
 
-Straipsnio dalies pakeitimai:
-
-Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
-
 6. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Konkurencijos tarybos atstovas turi teisę dalyvauti nagrinėjant skundą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
 
 7. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama.
 
-Straipsnio dalies pakeitimai:
+8. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo atlikti tyrimo veiksmus, taikyti laikinojo pobūdžio priemones arba ūkinės veiklos apribojimus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
 
-Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+Straipsnio pakeitimai:
 
-8. Teismai, nagrinėdami prašymus ir skundus dėl tyrimo veiksmų, laikinojo pobūdžio priemonių arba ūkinės veiklos apribojimų sankcionavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 30 straipsnis. Tyrimo pabaigimas
 
-1. Konkurencijos tarybos įgalioti pareigūnai, baigę tyrimą, bylą su savo išvadomis ir pasiūlymais perduoda nagrinėti Konkurencijos tarybos posėdžiui arba Konkurencijos tarybos nustatyta tvarka tyrimą nutraukia.
+1. Tyrimas laikomas baigtu, kai Konkurencijos taryba teisės aktų nustatyta tvarka priima sprendimą tyrimą dėl įstatymo pažeidimo nutraukti arba tyrimą dėl įstatymo pažeidimo baigti.
 
 2. Tyrimas nutraukiamas, jei:
 
 1) tyrimo metu paaiškėja, kad nėra teisės pažeidimo sudėties;
 
-2) veiksmai nepadarė esminės žalos įstatymų saugomiems interesams, o ūkio subjektas, įtariamas įstatymo pažeidimu, geranoriškai nutraukė veiksmus bei pateikė Konkurencijos tarybai rašytinį įsipareigojimą tokių veiksmų neatlikti.
+2) veiksmai nepadarė esminės žalos įstatymų saugomiems interesams, o ūkio subjektas, įtariamas pažeidęs įstatymą, geranoriškai nutraukė veiksmus ir pateikė Konkurencijos tarybai rašytinį įsipareigojimą tokių veiksmų neatlikti ar atlikti veiksmus, šalinančius įtariamą pažeidimą ar sudarančius prielaidas jo išvengti ateityje.
 
-Papildyta straipsnio dalimi:
+3. Įsipareigojimai, pateikti pagal šio straipsnio 2 dalies 2 punktą ir įrašyti į Konkurencijos tarybos nutarimą dėl tyrimo nutraukimo, ūkio subjektui yra privalomi.
 
-Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+4. Apie priimtą sprendimą raštu pranešama pareiškėjui ir suinteresuotiems asmenims. Konkurencijos tarybos nutarimų, priimtų pagal šio straipsnio 2 dalies 2 punktą, rezoliucinė dalis skelbiama leidinyje „Valstybės žinios“.
 
-3. Apie priimtą sprendimą raštu pranešama pareiškėjui ir suinteresuotiems asmenims.
+5. Paaiškėjus naujoms aplinkybėms arba jeigu ūkio subjektas nesilaiko šio įstatymo pagrindu nustatytų sąlygų ir įpareigojimų, Konkurencijos taryba turi teisę nutrauktą tyrimą atnaujinti.
 
-Straipsnio dalies numeracijos pakeitimas:
+Straipsnio pakeitimai:
 
-Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
-
-4. Paaiškėjus naujoms aplinkybėms arba jeigu ūkio subjektas nesilaiko šio įstatymo pagrindu nustatytų sąlygų ir įpareigojimų, Konkurencijos taryba turi teisę nutrauktą tyrimą atnaujinti.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 Penktasis skirsnis
 
@@ -751,7 +827,11 @@ BylŲ DĖl konkurencijĄ ribojanČiŲ veiksmŲ nagrinėjimo procesas
 
 3) Konkurencijos tarybos sprendimu kiti ūkio subjektai, su kurių interesais tiesiogiai susijusi nagrinėjama byla;
 
-4) valstybės valdymo ir savivaldos institucijų atstovai jų prašymu;
+4) viešojo administravimo subjektų atstovai jų prašymu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 5) Konkurencijos tarybos sprendimu ekspertai, specialistai bei kiti asmenys.
 
@@ -847,7 +927,11 @@ ATSAKOMYBĖ UŽ KONKURENCIJOS ĮSTATYMO PAŽEIDIMUS
 
 1) įpareigoti ūkio subjektus nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant įpareigojimą nutraukti, pakeisti ar sudaryti sutartis, taip pat nustatyti šių įpareigojimų įvykdymo terminus ir sąlygas;
 
-2) įpareigoti ūkio subjektus ar kontroliuojančius asmenis, įvykdžiusius koncentraciją, dėl kurios buvo sukurta ar sustiprinta dominuojanti padėtis ir dėl to itin sumažinta konkurencija atitinkamoje rinkoje, nepranešus Konkurencijos tarybai ar negavus Konkurencijos tarybos leidimo, taip pat šio įstatymo 15 straipsnio 2 dalyje numatytais atvejais atlikti veiksmus, atkuriančius ankstesnę padėtį arba pašalinančius koncentracijos pasekmes, įskaitant įpareigojimus parduoti įmonę ar jos dalį, ūkio subjekto turtą ar jo dalį, akcijas ar jų dalį, reorganizuoti įmonę, nutraukti ar pakeisti sutartis, taip pat nustatyti šių įpareigojimų įvykdymo terminus ir sąlygas;
+2) įpareigoti ūkio subjektus ar kontroliuojančius asmenis, įvykdžiusius koncentraciją, dėl kurios buvo sukurta ar sustiprinta dominuojanti padėtis, ar itin apribota konkurencija atitinkamoje rinkoje, nepranešus Konkurencijos tarybai ar negavus Konkurencijos tarybos leidimo, taip pat šio įstatymo 15 straipsnio 2 dalyje numatytais atvejais atlikti veiksmus, atkuriančius ankstesnę padėtį arba pašalinančius koncentracijos pasekmes, įskaitant įpareigojimus parduoti įmonę ar jos dalį, ūkio subjekto turtą ar jo dalį, akcijas ar jų dalį, reorganizuoti įmonę, nutraukti ar pakeisti sutartis, taip pat nustatyti šių įpareigojimų įvykdymo terminus ir sąlygas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 3) skirti ūkio subjektams šiame įstatyme nustatytas pinigines baudas.
 
@@ -855,11 +939,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
 
-2. Gavusi Vilniaus apygardos administracinio teismo teisėjo sankciją, Konkurencijos taryba nutarimu ūkio subjektams, nevykdantiems paskirtų sankcijų, nurodytų šio straipsnio 1 dalyje, gali nustatyti ūkinės veiklos apribojimus: laikinai sustabdyti eksporto ir importo operacijas, bankines operacijas, leidimo (licencijos) verstis atitinkama veikla galiojimą. Konkurencijos tarybos nutarimai yra privalomi institucijoms, galinčioms taikyti tokius apribojimus, ir turi būti vykdomi nedelsiant. Apribojimai panaikinami, kai įvykdomos Konkurencijos tarybos paskirtos sankcijos.
+2. Gavusi Vilniaus apygardos administracinio teismo leidimą, Konkurencijos taryba nutarimu ūkio subjektams, nevykdantiems paskirtų sankcijų, nurodytų šio straipsnio 1 dalyje, gali nustatyti ūkinės veiklos apribojimus: laikinai sustabdyti eksporto ir importo operacijas, bankines operacijas, leidimo (licencijos) verstis atitinkama veikla galiojimą. Konkurencijos tarybos nutarimai yra privalomi institucijoms, galinčioms taikyti tokius apribojimus, ir turi būti vykdomi nedelsiant. Apribojimai panaikinami, kai įvykdomos Konkurencijos tarybos paskirtos sankcijos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 3. Ūkio subjektai gali būti patraukti atsakomybėn už šio įstatymo pažeidimus ne vėliau kaip per trejus metus nuo pažeidimo įvykdymo dienos, o esant tęstiniam pažeidimui, – nuo paskutinių veiksmų atlikimo dienos.
 
@@ -869,7 +955,11 @@ Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010I
 
 2. Už atliktus nesąžiningos konkurencijos veiksmus, kuriuos tiria Konkurencijos taryba, ūkio subjektams gali būti skiriama piniginė bauda iki 3 procentų bendrųjų metinių pajamų praėjusiais ūkiniais metais.
 
-3. Už informacijos, reikalingos tyrimui atlikti ar koncentracijai nagrinėti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą šiame įstatyme numatytais atvejais, už kliudymą Konkurencijos tarybos pareigūnams įeiti ir patikrinti ūkio subjekto patalpas, teritoriją ir transporto priemones, peržiūrėti ar paimti dokumentus ir daiktus, turinčius įrodomosios reikšmės tiriant bylą, ūkio subjektams gali būti skiriama piniginė bauda iki 1 procento bendrųjų metinių pajamų praėjusiais ūkiniais metais.
+3. Už informacijos, reikalingos tyrimui atlikti ar koncentracijai nagrinėti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą šiame įstatyme numatytais atvejais, už kliudymą Konkurencijos tarybos pareigūnams įeiti ir patikrinti ūkio subjekto patalpas, teritoriją ir transporto priemones, peržiūrėti ar paimti dokumentus ir daiktus, turinčius įrodomosios reikšmės tiriant bylą, už antspaudo, Konkurencijos tarybos pareigūnų uždėto pagal šio įstatymo 26 straipsnio 1 dalies 4 punktą, sugadinimą ar nuplėšimą ūkio subjektams gali būti skiriama piniginė bauda iki 1 procento bendrųjų metinių pajamų praėjusiais ūkiniais metais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 4. Už Konkurencijos tarybos įpareigojimų nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku, už nurodymų pateikti informaciją vykdymą ne laiku, už prisiimtų įsipareigojimų nesilaikymą šio įstatymo numatytais atvejais ūkio subjektams gali būti skiriama piniginė bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną iki 5 procentų vidutinių dienos bendrųjų pajamų praėjusiais ūkiniais metais.
 
@@ -899,11 +989,19 @@ Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA
 
 5) kiekvieno ūkio subjekto įtaką pažeidimo padarymui, kai pažeidimą padaro keli ūkio subjektai.
 
-2. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai, padarę pažeidimą, savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo Konkurencijos tarybai tyrimo metu, atlygino nuostolius ar pašalino padarytą žalą.
+2. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai, padarę pažeidimą, savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo Konkurencijos tarybai tyrimo metu, atlygino nuostolius, pašalino padarytą žalą, savo valia nutraukė pažeidimą, neįgyvendino konkurenciją ribojančių veiksmų, pripažino Konkurencijos tarybos tyrimo metu nustatytas esmines aplinkybes, taip pat tai, kad pažeidimą sudarantis elgesys buvo nulemtas valdžios institucijų veiksmų, ir labai sunki ūkio subjekto finansinė padėtis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 3. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai kliudė vykdyti tyrimą, slėpė įvykdytą pažeidimą, tęsė pažeidimą nepaisydami Konkurencijos tarybos įpareigojimo nutraukti neteisėtus veiksmus arba jei pakartotinai įvykdė pažeidimą, už kurį ūkio subjektams jau buvo paskirtos šiame įstatyme numatytos sankcijos.
 
-4. Konkurencijos taryba, nustatydama skiriamos piniginės baudos dydį, gali pripažinti atsakomybę lengvinančiomis ir kitas, čia nenurodytas aplinkybes.
+4. Neteko galios nuo 2009-04-25
+
+Straipsnio dalies naikinimas:
+
+Nr. XI-216, 2009-04-09, Žin. 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 Straipsnio dalies pakeitimai:
 
@@ -927,15 +1025,11 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 4) ūkio subjektas nebuvo draudžiamo susitarimo iniciatorius ir neskatino kitų ūkio subjektų dalyvauti tokiame susitarime.
 
-2. Dominuojantis ūkio subjektas, įvykdęs draudžiamus veiksmus, numatytus šio įstatymo 9 straipsnio 1, 2, 3 ir 4 punktuose, atleidžiamas nuo baudos, numatytos už šiuos pažeidimus, esant visoms šioms sąlygoms:
+2. Neteko galios nuo 2009-04-25
 
-1) ūkio subjektas pateikia visą informaciją, reikalingą piktnaudžiavimo dominuojančia padėtimi tyrimui, ir bendradarbiauja su Konkurencijos taryba tyrimo metu;
+Straipsnio dalies naikinimas:
 
-2) ūkio subjekto padaryti draudžiami veiksmai nesukėlė esminės ir nepataisomos žalos kitų ūkio subjektų ar visuomenės interesams;
-
-3) ūkio subjektas savo valia nutraukia draudžiamus veiksmus ir pateikia šių veiksmų nutraukimo įrodymus iki tyrimo pabaigos;
-
-4) ūkio subjektas savo valia atlygina draudžiamais veiksmais padarytą žalą bei pateikia žalos atlyginimo įrodymus iki tyrimo pabaigos.
+Nr. XI-216, 2009-04-09, Žin. 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 3. Konkurencijos taryba, baigusi tyrimą ir priimdama galutinį nutarimą dėl pažeidimo, sprendžia, ar buvo laikomasi šiame straipsnyje nurodytų sąlygų, kad būtų galima atleisti nuo baudos.
 
@@ -945,7 +1039,11 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 2. Esant motyvuotam ūkio subjekto prašymui, Konkurencijos tarybos sprendimu baudos ar jos dalies mokėjimas gali būti atidedamas iki šešių mėnesių.
 
-3. Ūkio subjekto nesumokėta piniginė bauda išieškoma į valstybės biudžetą. Konkurencijos tarybos nutarimas pateikiamas vykdyti teismo antstoliui Civilinio proceso kodekso nustatyta tvarka. Nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo nutarimo priėmimo dienos.
+3. Ūkio subjekto nesumokėta piniginė bauda išieškoma į valstybės biudžetą. Konkurencijos tarybos nutarimas pateikiamas vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka. Nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo nutarimo priėmimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 45 straipsnis. Administracinė atsakomybė
 
@@ -985,15 +1083,19 @@ Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010IST
 
 3. Suteiktos valstybės pagalbos, nurodytos šio straipsnio 1 dalyje, įskaitant nereikšmingą pagalbą, registrą tvarko Konkurencijos taryba.
 
-49 straipsnis. Policijos pagalba ir tyrimo veiksmų sankcionavimas
+49 straipsnis. Policijos pagalba ir teismo leidimų dėl tyrimo veiksmų išdavimas
 
-1. Tyrimą pagal Europos Sąjungos konkurencijos taisykles atliekantys Europos Bendrijų Komisijos įgalioti asmenys ar šiems asmenims atlikti patikrinimą padedantys Konkurencijos tarybos įgalioti pareigūnai viešajai tvarkai palaikyti bei galimam prievartos panaudojimui gali pasitelkti policijos pareigūnus.
+1. Tyrimą pagal Europos Sąjungos konkurencijos taisykles atliekantys Europos Bendrijų Komisijos įgalioti asmenys ar šiems asmenims atlikti patikrinimą padedantys Konkurencijos tarybos įgalioti pareigūnai viešajai tvarkai palaikyti ir galimam prievartos panaudojimui gali pasitelkti policijos pareigūnus.
 
-2. Vilniaus apygardos administracinis teismas sankcionuoja galimą prievartos panaudojimą Tarybos reglamento EB Nr. 1/2003 dėl konkurencijos taisyklių, nustatytų Sutarties 81 ir 82 straipsniuose įgyvendinimo (toliau – Tarybos reglamentas EB Nr. 1/2003) 20 straipsnyje nurodytu atveju.
+2. Vilniaus apygardos administracinis teismas išduoda teismo leidimą dėl galimo prievartos priemonių panaudojimo Tarybos reglamento EB Nr. 1/2003 dėl konkurencijos taisyklių, nustatytų Sutarties 81 ir 82 straipsniuose įgyvendinimo (toliau – Tarybos reglamentas EB Nr. 1/2003) 20 straipsnyje nurodytu atveju.
 
-3. Vilniaus apygardos administracinis teismas sankcionuoja Europos Bendrijų Komisijos atliekamus patikrinimus ir galimą prievartos panaudojimą Tarybos reglamento EB Nr. 1/2003 21 straipsnyje nurodytu atveju.
+3. Vilniaus apygardos administracinis teismas išduoda teismo leidimus dėl Europos Bendrijų Komisijos atliekamų patikrinimų ir galimo prievartos priemonių panaudojimo Tarybos reglamento EB Nr. 1/2003 21 straipsnyje nurodytu atveju.
 
-4. Prašymą teismo sankcijai pateikia Europos Bendrijų Komisija arba Konkurencijos taryba.
+4. Prašymą dėl teismo leidimo išdavimo pateikia Europos Bendrijų Komisija arba Konkurencijos taryba.
+
+Straipsnio pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 50 straipsnis. Konkurencijos bylų teisminis nagrinėjimas
 
@@ -1021,19 +1123,21 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 Lietuvos Respublikos
 
-1999 m. kovo 23 d.
-
-įstatymo Nr. VIII-1099
+konkurencijos įstatymo
 
 priedas
 
-Įgyvendinamas Europos Sąjungos teisės aktas
+ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
 
-2002 m. gruodžio 16 d. Tarybos reglamentas EB Nr. 1/2003 dėl konkurencijos taisyklių, nustatytų Sutarties 81 ir 82 straipsniuose, įgyvendinimo.
+2002 m. gruodžio 16 d. Tarybos reglamentas EB Nr. 1/2003 dėl konkurencijos taisyklių, nustatytų Sutarties 81 ir 82 straipsniuose, įgyvendinimo (OL 2004 m. specialusis leidimas, 8 skyrius, 2 tomas, p. 205).
 
 Papildyta priedu:
 
 Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+
+Priedo pakeitimai:
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 Pakeitimai:
 
@@ -1068,4 +1172,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1311, 2007-10-25, Žin., 2007, Nr. 117-4780 (2007-11-15), i. k. 1071010ISTA00X-1311
 
 Lietuvos Respublikos konkurencijos įstatymo 10 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
+
+Lietuvos Respublikos konkurencijos įstatymo 1, 3, 4, 10, 13, 14, 19, 20, 23, 24, 26, 28, 29, 30, 31, 40, 41, 42, 43, 44, 49 straipsnių ir priedo pakeitimo ir papildymo įstatymas
 
