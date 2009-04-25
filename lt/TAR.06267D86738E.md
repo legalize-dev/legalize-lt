@@ -4,7 +4,7 @@ identifier: "TAR.06267D86738E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-07-09"
-last_updated: "2008-04-30"
+last_updated: "2009-04-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -42,7 +42,9 @@ BENDROSIOS
 
 NUOSTATOS
 
-2 straipsnis. Visuotinė rinkimų teisė
+2 straipsnis. Visuotinė rinkimų
+
+teisė
 
 1. Rinkimų teisę turi Lietuvos
 
@@ -104,9 +106,9 @@ ir pobūdžio - draudžiami.
 
 Straipsnio pakeitimai:
 
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+Nr. IX-967,
 
-68-2766 (2002-07-03)
+2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
 Nr.
 
@@ -174,9 +176,9 @@ galios nuo 2002 m. rugpjūčio 1 d.
 
 Straipsnio pakeitimai:
 
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+Nr. IX-967,
 
-68-2766 (2002-07-03)
+2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
 13
 
@@ -186,9 +188,9 @@ galios nuo 2002 m. rugpjūčio 1 d.
 
 Straipsnio pakeitimai:
 
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+Nr. IX-967,
 
-68-2766 (2002-07-03)
+2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
 14
 
@@ -198,9 +200,9 @@ galios nuo 2002 m. rugpjūčio 1 d.
 
 Straipsnio pakeitimai:
 
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+Nr. IX-967,
 
-68-2766 (2002-07-03)
+2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
 12 straipsnis. Neteko galios nuo 2002 m. rugpjūčio 1 d.
 
@@ -930,7 +932,9 @@ Nr. IX-967,
 
 2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
-15 straipsnis. Apygardų rinkimų komisijų sudarymas
+15 straipsnis. Apygardų rinkimų
+
+komisijų sudarymas
 
 1. Apygardų rinkimų komisijas
 
@@ -1034,7 +1038,9 @@ Nr. X-1490,
 
 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
-17 straipsnis. Apylinkių rinkimų komisijų sudarymas
+17 straipsnis. Apylinkių rinkimų
+
+komisijų sudarymas
 
 1. Ne vėliau kaip likus 65
 
@@ -1202,7 +1208,9 @@ Nr. X-1490,
 
 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
-22 straipsnis. Parama rinkimų komisijoms
+22 straipsnis. Parama rinkimų
+
+komisijoms
 
 1. Valstybės ir savivaldybių
 
@@ -1260,7 +1268,9 @@ rinkimų komisijos teikimu tvirtina Vyriausybė.
 
 Straipsnio pakeitimai:
 
-Nr. IX-262, 2001 04 19, Žin., 2001, Nr. 39-1333 (2001 05 09)
+Nr. IX-262, 2001 04
+
+19, Žin., 2001, Nr. 39-1333 (2001 05 09)
 
 Nr. X-1490,
 
@@ -1296,11 +1306,11 @@ daugiamandatėje ir visose vienmandatėse rinkimų apygardose.
 
 Seimo rinkimų politinės kampanijos finansavimas
 
-Seimo rinkimų politinės kampanijos
+Seimo rinkimų politinės
 
-finansavimą reglamentuoja Politinių partijų ir politinių kampanijų finansavimo
+kampanijos finansavimą reglamentuoja Politinių partijų ir politinių kampanijų
 
-bei finansavimo kontrolės įstatymas.
+finansavimo bei finansavimo kontrolės įstatymas.
 
 Straipsnio
 
@@ -1360,7 +1370,9 @@ PARENGTINĖ
 
 RINKIMŲ ORGANIZAVIMO VEIKLA
 
-58 straipsnis. Rinkimų biuleteniai
+58 straipsnis. Rinkimų
+
+biuleteniai
 
 1. Rinkimams į Seimą kiekvienam
 
@@ -1434,9 +1446,9 @@ pakeitimai:
 
 Nr.
 
-IX-1076, 2002-09-17, Žin., 2002, Nr.
+IX-1076,
 
-95-4085 (2002-10-02)
+2002-09-17, Žin., 2002, Nr. 95-4085 (2002-10-02)
 
 Nr.
 
@@ -1798,7 +1810,9 @@ BALSŲ
 
 SKAIČIAVIMAS
 
-1 straipsnis. Seimo narių rinkimų pagrindai
+1 straipsnis. Seimo narių rinkimų
+
+pagrindai
 
 Lietuvos Respublikos Seimo
 
@@ -1808,7 +1822,9 @@ daugiamandatėje rinkimų apygardose, remiantis visuotine ir lygia rinkimų teis
 
 slaptu balsavimu tiesioginiuose mišrios sistemos rinkimuose.
 
-4 straipsnis. Tiesioginiai rinkimai
+4 straipsnis. Tiesioginiai
+
+rinkimai
 
 Seimo narius rinkėjai renka be
 
@@ -1918,7 +1934,9 @@ reikalas rengti šiuos rinkimus, jeigu kitko nenumato šis įstatymas, skelbia
 
 Vyriausioji rinkimų komisija.
 
-7 straipsnis. Viešumas rengiant ir vykdant rinkimus
+7 straipsnis. Viešumas rengiant
+
+ir vykdant rinkimus
 
 1. Apie rinkimų komisijos posėdį visuomenei paskelbiama pastate,
 
@@ -1982,15 +2000,17 @@ pašalinti iš posėdžio salės asmenis, kliudančius komisijai normaliai dirbt
 
 Straipsnio pakeitimai:
 
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+Nr. IX-967,
 
-68-2766 (2002-07-03)
+2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
 Nr. X-1490,
 
 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
-8 straipsnis. Rinkimų rengimo ir vykdymo išlaidos
+8 straipsnis. Rinkimų rengimo ir
+
+vykdymo išlaidos
 
 Seimo rinkimų rengimo ir vykdymo
 
@@ -2024,7 +2044,9 @@ RINKIMŲ
 
 APYGARDOS IR APYLINKĖS
 
-9 straipsnis. Rinkimų apygardų sudarymas
+9 straipsnis. Rinkimų apygardų
+
+sudarymas
 
 1. Rinkimams organizuoti ir
 
@@ -2060,11 +2082,13 @@ sistemą renkama 70 Seimo narių.
 
 Straipsnio pakeitimai:
 
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+Nr. IX-967,
 
-68-2766 (2002-07-03)
+2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
-10 straipsnis. Rinkimų apylinkių sudarymas
+10 straipsnis. Rinkimų apylinkių
+
+sudarymas
 
 1. Atsižvelgiant į patogumą
 
@@ -2118,7 +2142,9 @@ RINKIMŲ
 
 ORGANIZAVIMAS
 
-16 straipsnis. Apygardos rinkimų komisijos įgaliojimai
+16 straipsnis. Apygardos rinkimų
+
+komisijos įgaliojimai
 
 Apygardos rinkimų komisija:
 
@@ -2192,7 +2218,9 @@ Nr. X-1490,
 
 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
-18 straipsnis. Apylinkės rinkimų komisijos įgaliojimai
+18 straipsnis. Apylinkės rinkimų
+
+komisijos įgaliojimai
 
 Apylinkės rinkimų komisija:
 
@@ -2322,9 +2350,9 @@ negali pradėti eiti pareigų rinkimų komisijoje.]
 
 Straipsnio pakeitimai:
 
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+Nr. IX-967,
 
-68-2766 (2002-07-03)
+2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
 19 straipsnis. Rinkimų
 
@@ -2408,7 +2436,9 @@ su išlyga, netenka pareigų rinkimų komisijoje.
 
 redakcija nuo 2002 m. rugpjūčio 1 d.:
 
-20 straipsnis. Rinkimų komisijų darbo organizavimas
+20 straipsnis. Rinkimų komisijų
+
+darbo organizavimas
 
 1. Rinkimų komisijos posėdžiai
 
@@ -2446,9 +2476,9 @@ ir gali būti patrauktas atsakomybėn įstatymų nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+Nr. IX-967,
 
-68-2766 (2002-07-03)
+2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
 23 straipsnis. Rinkimų
 
@@ -2460,7 +2490,9 @@ pirmininkai ir nariai už darbą rinkimų komisijose  gauna atlyginimą pagal
 
 Vyriausiosios  rinkimų komisijos pateiktus ir Vyriausybės patvirtintus tarifus.
 
-24 straipsnis. Rinkimų komisijų sudėties keitimas
+24 straipsnis. Rinkimų komisijų
+
+sudėties keitimas
 
 1. Rinkimų komisijos pirmininką ar narį iš pareigų
 
@@ -2484,9 +2516,9 @@ terminams.
 
 Straipsnio pakeitimai:
 
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+Nr. IX-967,
 
-68-2766 (2002-07-03)
+2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
 KETVIRTASIS
 
@@ -2702,7 +2734,9 @@ atstovybėms. Taip pat sudaromi piliečių, kurių gyvenamosios vietos tikslus
 
 adresas nežinomas, sąrašai.
 
-28 straipsnis. Rinkimų apylinkės rinkėjų sąrašai
+28 straipsnis. Rinkimų apylinkės
+
+rinkėjų sąrašai
 
 Rinkimų apylinkės rinkėjų sąrašą
 
@@ -2762,9 +2796,9 @@ būti teikiami ir telefonu.
 
 Straipsnio pakeitimai:
 
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+Nr. IX-967,
 
-68-2766 (2002-07-03)
+2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
 30
 
@@ -3230,9 +3264,9 @@ Nr. X-1490,
 
 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
-32 straipsnis. Rinkėjų sąrašų patikslinimas iki galutinių
+32 straipsnis. Rinkėjų sąrašų
 
-sąrašų sudarymo
+patikslinimas iki galutinių sąrašų sudarymo
 
 1. Išankstiniai rinkėjų sąrašai tikslinami perkeliant
 
@@ -3904,7 +3938,9 @@ Nr. X-397, 2005-11-17, Žin., 2005, Nr.
 
 143-5171 (2005-12-08)
 
-36 straipsnis. Skundai dėl rinkėjų sąrašų
+36 straipsnis. Skundai dėl
+
+rinkėjų sąrašų
 
 1. Rinkėjas arba partijos
 
@@ -3946,7 +3982,9 @@ KANDIDATŲ
 
 Į SEIMO NARIUS KĖLIMAS
 
-37 straipsnis. Kandidatų į Seimo narius kėlimas
+37 straipsnis. Kandidatų į Seimo
+
+narius kėlimas
 
 1. Kandidatus į Seimo narius gali
 
@@ -3992,7 +4030,9 @@ Nr. X-1490,
 
 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
-38 straipsnis. Kandidatų iškėlimo pareiškiniai dokumentai
+38 straipsnis. Kandidatų iškėlimo
+
+pareiškiniai dokumentai
 
 1. Partija turi įteikti
 
@@ -4248,7 +4288,9 @@ Nr. X-1490,
 
 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
-39 straipsnis. Kandidatų į Seimo narius registravimas
+39 straipsnis. Kandidatų į Seimo
+
+narius registravimas
 
 1. Prasidėjus kandidatų sąrašų
 
@@ -4454,13 +4496,17 @@ Straipsnio
 
 pakeitimai:
 
-Nr. IX-181, 2001 02 20, Žin., 2001, Nr. 21-689 (2001 03 09)
+Nr. IX-181, 2001 02
+
+20, Žin., 2001, Nr. 21-689 (2001 03 09)
 
 Nr. X-1490,
 
 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
-43 straipsnis. Kandidatų sąrašų sujungimas
+43 straipsnis. Kandidatų sąrašų
+
+sujungimas
 
 Iki pareiškinių dokumentų
 
@@ -4484,9 +4530,9 @@ Jungtinis sąrašas laikomas vienu sąrašu. Ta pati partija negali dalyvauti da
 
 kaip vienoje koalicijoje.
 
-44 straipsnis. Teisė atšaukti ar papildyti rinkimų
+44 straipsnis. Teisė atšaukti ar
 
-pareiškinius dokumentus
+papildyti rinkimų pareiškinius dokumentus
 
 1. Partija ar rinkimų koalicija,
 
@@ -4636,27 +4682,37 @@ Nr. X-397, 2005-11-17, Žin., 2005, Nr.
 
 straipsnis. Kandidato į Seimo narius teisė būti atleistam nuo darbo ar
 
-tarnybinių
+tarnybinių pareigų rinkimų agitacijos kampanijos metu
 
-pareigų rinkimų agitacijos kampanijos metu
+1. Kandidatas į Seimo narius
 
-1. Kandidatas į Seimo narius rinkimų į Seimą organizavimo ir vykdymo
+rinkimų agitacijos kampanijos metu, bet ne ilgiau kaip 30 dienų jo rašytiniu
 
-laikui, bet ne ilgiau kaip 1 mėnesį, jo prašymu gali būti atleidžiamas nuo
+prašymu atleidžiamas nuo darbo ar tarnybinių pareigų. Prašymas atleisti nuo
 
-darbo ar tarnybinių pareigų.
+darbo ar tarnybinių pareigų pateikiamas asmeniui, turinčiam teisę suteikti
 
-2. Šio straipsnio 1 dalies nuostata netaikoma kandidatui į Seimo
+atostogas.
 
-narius, kuris eina Seimo nario, Vyriausybės nario ar Respublikos Prezidento
+2. Šio straipsnio 1 dalies
 
-pareigas.
+nuostatos netaikomos kandidatui į Seimo narius, kuris eina Seimo nario ar
+
+Respublikos Prezidento pareigas. Kandidato į Seimo narius, kuris eina
+
+Vyriausybės nario pareigas, atleidimo nuo tarnybinių pareigų tvarka nustatyta
+
+Vyriausybės įstatyme.
 
 Straipsnio pakeitimai:
 
 Nr. X-397, 2005-11-17, Žin., 2005, Nr.
 
 143-5171 (2005-12-08)
+
+Nr. XI-219,
+
+2009-04-16, Žin., 2009, Nr. 46-1797 (2009-04-25)
 
 49
 
@@ -5462,27 +5518,27 @@ visuomenės informavimo priemonėse - likus 10 dienų iki rinkimų, bet visais
 
 atvejais kompromituojanti medžiaga apie partiją, iškėlusią kandidatų sąrašą,
 
-gali būti paskelbta ne vėliau kaip priešpaskutiniame iki rinkimų visuomenės
+gali būti paskelbta ne vėliau kaip priešpaskutiniame iki rinkimų visuomenės informavimo
 
-informavimo priemonės leidinio numeryje), ji privalo suteikti galimybę partijai
+priemonės leidinio numeryje), ji privalo suteikti galimybę partijai pareikšti
 
-pareikšti atsakomąją nuomonę. Atsakomąją nuomonę sudaro paskelbtos
+atsakomąją nuomonę. Atsakomąją nuomonę sudaro paskelbtos kompromituojančios
 
-kompromituojančios medžiagos trumpas išdėstymas ir atsakymas. Ji paprastai
+medžiagos trumpas išdėstymas ir atsakymas. Ji paprastai negali būti daugiau
 
-negali būti daugiau kaip 3 kartus ilgesnė už kompromituojančią medžiagą.
+kaip 3 kartus ilgesnė už kompromituojančią medžiagą. Visuomenės informavimo
 
-Visuomenės informavimo priemonė atsakomąją nuomonę turi paskelbti ne vėliau
+priemonė atsakomąją nuomonę turi paskelbti ne vėliau kaip per 7 dienas po to,
 
-kaip per 7 dienas po to, kai ji buvo pareikšta, ir ne vėliau kaip likus 2
+kai ji buvo pareikšta, ir ne vėliau kaip likus 2 dienoms iki draudimo vykdyti
 
-dienoms iki draudimo vykdyti rinkimų agitaciją pradžios. Jeigu visuomenės
+rinkimų agitaciją pradžios. Jeigu visuomenės informavimo priemonė negali per
 
-informavimo priemonė negali per šio įstatymo nustatytą laikotarpį pati paskelbti
+šio įstatymo nustatytą laikotarpį pati paskelbti atsakomosios nuomonės, ji turi
 
-atsakomosios nuomonės, ji turi pasirūpinti savo lėšomis paskelbti atsakomąją
+pasirūpinti savo lėšomis paskelbti atsakomąją nuomonę kitoje visuomenės
 
-nuomonę kitoje visuomenės informavimo priemonėje.
+informavimo priemonėje.
 
 2. Kompromituojanti medžiaga yra
 
@@ -5498,15 +5554,15 @@ kriterijai) apie partiją, taip pat ir negatyvi, nepripažįstama
 
 kompromituojančia medžiaga ir nesuteikia teisės reikalauti paskelbti atsakomąją
 
-nuomonę. Reikalavimas paskelbti atsakomąją nuomonę taip pat gali būti
+nuomonę. Reikalavimas paskelbti atsakomąją nuomonę taip pat gali būti netenkinamas,
 
-netenkinamas, jeigu: medžiaga paskelbta ne apie tą partiją; paskelbta medžiaga
+jeigu: medžiaga paskelbta ne apie tą partiją; paskelbta medžiaga nėra
 
-nėra kompromituojanti; kompromituojančią medžiagą apie partiją paskelbė jos
+kompromituojanti; kompromituojančią medžiagą apie partiją paskelbė jos pačios
 
-pačios iškeltas kandidatas; medžiagoje nėra jokių partiją apibūdinančių žinių;
+iškeltas kandidatas; medžiagoje nėra jokių partiją apibūdinančių žinių; partija
 
-partija pasinaudojo atsakomosios nuomonės teise.
+pasinaudojo atsakomosios nuomonės teise.
 
 3. Atsakomąją nuomonę partija
 
@@ -5546,15 +5602,15 @@ nuomonės paskelbimas neatleidžia visuomenės informavimo priemonės nuo
 
 atsakomybės pagal Lietuvos Respublikos įstatymus.
 
-6. Kai atsakomoji nuomonė
+6. Kai atsakomoji nuomonė skelbiama
 
-skelbiama Vyriausiosios rinkimų komisijos sprendimu, šio įstatymo nustatyta
+Vyriausiosios rinkimų komisijos sprendimu, šio įstatymo nustatyta paskelbimo
 
-paskelbimo kaina ne ginčo tvarka išieškoma iš tos visuomenės informavimo
+kaina ne ginčo tvarka išieškoma iš tos visuomenės informavimo priemonės, kuri
 
-priemonės, kuri kompromituojančią medžiagą paskelbė neleistinu laikotarpiu arba
+kompromituojančią medžiagą paskelbė neleistinu laikotarpiu arba pati laiku
 
-pati laiku nepaskelbė atsakomosios nuomonės.
+nepaskelbė atsakomosios nuomonės.
 
 54 straipsnis. Draudimas vykdyti rinkimų agitaciją
 
@@ -5570,31 +5626,33 @@ priemonėse vykdant bet kokią rinkimų agitaciją, pavesti tai daryti kitiems
 
 asmenims ar kaip nors kitaip, naudojantis tarnybine padėtimi, bandyti paveikti
 
-rinkėjų valią. Valstybės, savivaldybių pareigūnams, valstybės tarnautojams
+rinkėjų valią. Valstybės, savivaldybių pareigūnams, valstybės tarnautojams draudžiama
 
-draudžiama naudotis tarnybine padėtimi sudaryti sau ar partijai išskirtines
+naudotis tarnybine padėtimi sudaryti sau ar partijai išskirtines rinkimų
 
-rinkimų agitacijos sąlygas. Šį straipsnį pažeidęs asmuo gali būti patrauktas
+agitacijos sąlygas. Šį straipsnį pažeidęs asmuo gali būti patrauktas
 
 administracinėn arba baudžiamojon atsakomybėn įstatymų nustatyta tvarka.
 
-2. Jeigu asmuo yra kandidatas į
+2. Jeigu asmuo yra kandidatas į Seimo
 
-Seimo narius, valstybinėse visuomenės informavimo priemonėse jis gali kalbėti
+narius, valstybinėse visuomenės informavimo priemonėse jis gali kalbėti tik šio
 
-tik šio įstatymo 51 straipsnyje nustatyta tvarka. Jeigu kandidatui dėl einamų
+įstatymo 51 straipsnyje nustatyta tvarka. Jeigu kandidatui dėl einamų pareigų
 
-pareigų reikia pranešti visuomenės informavimo priemonėms svarbių žinių, tai
+reikia pranešti visuomenės informavimo priemonėms svarbių žinių, tai jis gali
 
-jis gali padaryti tik spaudos konferencijoje. Valstybinėse visuomenės
+padaryti tik spaudos konferencijoje. Valstybinėse visuomenės informavimo
 
-informavimo priemonėse arba iš valstybės ar savivaldybių lėšų apmokamų
+priemonėse arba iš valstybės ar savivaldybių lėšų apmokamų visuomenės
 
-visuomenės informavimo priemonių laidose galima skelbti tik tą konferencijos
+informavimo priemonių laidose galima skelbti tik tą konferencijos įrašą ar jo
 
-įrašą ar jo dalį, kuriuose nėra rinkimų agitacijos.
+dalį, kuriuose nėra rinkimų agitacijos.
 
-57 straipsnis. Rinkimų dokumentų pavyzdžių nustatymas
+57 straipsnis. Rinkimų dokumentų
+
+pavyzdžių nustatymas
 
 Rinkėjo pažymėjimų, rinkimų
 
@@ -5610,7 +5668,9 @@ pavyzdžius bei formas, taip pat jų pildymo prireikus pavyzdžius nustato
 
 Vyriausioji rinkimų komisija.
 
-59 straipsnis. Rinkimų biuletenių pristatymas
+59 straipsnis. Rinkimų biuletenių
+
+pristatymas
 
 1. Apygardų rinkimų komisijos
 
@@ -5636,7 +5696,9 @@ atsako už rinkimų biuletenių ir balsavimui paštu vokų išleidimą, jų apsk
 
 tvarkymą ir pristatymą nepažeidžiant nurodytų terminų.
 
-60 straipsnis. Balsavimo patalpų parengimas
+60 straipsnis. Balsavimo patalpų
+
+parengimas
 
 1. Rinkimų apylinkės balsavimo
 
@@ -5778,7 +5840,9 @@ SKIRSNIS
 
 BALSAVIMAS
 
-62 straipsnis. Balsavimo laikas ir vieta
+62 straipsnis. Balsavimo laikas
+
+ir vieta
 
 Balsavimas vyksta rinkimų dieną
 
@@ -5788,9 +5852,9 @@ Rinkėjas balsuoja toje rinkimų apylinkėje, į kurios rinkėjų sąrašus jis 
 
 įrašytas, jei kitko nenumato šis įstatymas.
 
-63 straipsnis. Draudimas rengti balsavimo patalpoje kitus
+63 straipsnis. Draudimas rengti
 
-renginius
+balsavimo patalpoje kitus renginius
 
 Balsavimo patalpoje negalima
 
@@ -6530,9 +6594,9 @@ pateikiami po vieną). Šio balsavimo rezultatai užrašomi ant biuletenio
 
 tuščiojoje pusėje.
 
-76 straipsnis. Rinkimų biuletenių apskaita rinkimų
+76 straipsnis. Rinkimų biuletenių
 
-apylinkėse
+apskaita rinkimų apylinkėse
 
 1. Uždarius balsavimo patalpą,
 
@@ -6862,9 +6926,9 @@ Nr. X-1490,
 
 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
-79 straipsnis. Rinkimų apylinkės balsų skaičiavimo
+79 straipsnis. Rinkimų apylinkės
 
-protokolai
+balsų skaičiavimo protokolai
 
 1. Kiekvienoje rinkimų apylinkėje
 
@@ -7122,7 +7186,9 @@ Nr. X-397, 2005-11-17, Žin., 2005, Nr.
 
 143-5171 (2005-12-08)
 
-80 straipsnis. Negaliojantys biuleteniai
+80 straipsnis. Negaliojantys
+
+biuleteniai
 
 1. Negaliojančiais biuleteniais
 
@@ -7172,7 +7238,9 @@ dalies 1, 2 ar 3 punktą, ji apie tai nedelsdama praneša apygardos rinkimų
 
 komisijai.
 
-82 straipsnis. Balsų skaičiavimas apygardos rinkimų komisijoje
+82 straipsnis. Balsų skaičiavimas
+
+apygardos rinkimų komisijoje
 
 1. Apygardos rinkimų komisija
 
@@ -7306,7 +7374,9 @@ apygardos balsų skaičiavimo protokolo. Protestus nagrinėja ta rinkimų komisi
 
 kuriai jie pareikšti.
 
-85 straipsnis. Išankstinių rinkimų rezultatų skelbimas
+85 straipsnis. Išankstinių rinkimų
+
+rezultatų skelbimas
 
 1. Išankstinius rinkimų
 
@@ -7402,9 +7472,9 @@ valandas kreipiasi į Konstitucinį Teismą su paklausimu dėl Seimo rinkimų
 
 įstatymo pažeidimo.
 
-87 straipsnis. Rinkimų apygardos balsų skaičiavimo
+87 straipsnis. Rinkimų apygardos
 
-protokolai
+balsų skaičiavimo protokolai
 
 1. Pagal rinkimų apylinkių balsų
 
@@ -7760,7 +7830,9 @@ narius sąrašų eilę skelbia Vyriausioji rinkimų komisija tą pačią dieną 
 
 balsavimo rezultatus vienmandatėse rinkimų apygardose.
 
-91 straipsnis. Rinkimų pripažinimas negaliojančiais
+91 straipsnis. Rinkimų
+
+pripažinimas negaliojančiais
 
 1. Vyriausioji rinkimų komisija
 
@@ -7810,7 +7882,9 @@ Nr. X-1490,
 
 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
-92 straipsnis. Pakartotiniai rinkimai
+92 straipsnis. Pakartotiniai
+
+rinkimai
 
 1. Pakartotiniai rinkimai vyksta
 
@@ -7868,9 +7942,9 @@ IX-2233, 2004-05-11, Žin., 2004, Nr.
 
 83-2986 (2004-05-22)
 
-93 straipsnis. Galutinių rinkimų rezultatų nustatymas ir
+93 straipsnis. Galutinių rinkimų
 
-paskelbimas
+rezultatų nustatymas ir paskelbimas
 
 1. Galutinius rinkimų rezultatus, išnagrinėjusi visus
 
@@ -7938,9 +8012,9 @@ Straipsnio pakeitimai:
 
 Nr. VIII-1937, 2000.09.19, Žin., 2000, Nr. 85-2575 (2000.10.11)
 
-95 straipsnis. Paklausimas dėl Seimo rinkimų įstatymo
+95 straipsnis. Paklausimas dėl
 
-pažeidimo
+Seimo rinkimų įstatymo pažeidimo
 
 1. Su paklausimu, ar nebuvo
 
@@ -8000,13 +8074,13 @@ dėl neteisėtai ir teisėtai išrinktų Seimo narių.
 
 Straipsnio pakeitimai:
 
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+Nr. IX-967,
 
-68-2766 (2002-07-03)
+2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
-96 straipsnis. Seimo nario įgaliojimų pripažinimas
+96 straipsnis. Seimo nario
 
-nutrūkusiais
+įgaliojimų pripažinimas nutrūkusiais
 
 Seimo nario įgaliojimus
 
@@ -8056,7 +8130,9 @@ Seimo narys neprisiekė arba prisiekė lygtinai - pagal įsigaliojusį Seimo
 
 nutarimą.
 
-97 straipsnis. Laisvos Seimo nario vietos užėmimas
+97 straipsnis. Laisvos Seimo
+
+nario vietos užėmimas
 
 Seimo nario įgaliojimus
 
@@ -8624,13 +8700,25 @@ RINKIMŲ ĮSTATYMO 2, 5(1), 6, 7, 15, 16, 18, 21, 22, 23, 25, 31, 34, 37, 38, 39
 
 PAPILDYMO ĮSTATYMAS
 
-***
+25.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo:
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2008-05-07)
+Nr. XI-219,
+
+2009-04-16, Žin., 2009, Nr. 46-1797 (2009-04-25)
+
+SEIMO RINKIMŲ
+
+ĮSTATYMO 48 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2009-04-27)
 
 autrap@lrs.lt
 
