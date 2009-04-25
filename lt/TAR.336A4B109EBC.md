@@ -4,7 +4,7 @@ identifier: "TAR.336A4B109EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2008-02-05"
+last_updated: "2009-04-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -2564,31 +2564,45 @@ narius teisė būti atleistiems nuo darbo ar tarnybinių pareigų rinkimų
 
 agitacijos kampanijos laiku
 
-1.
+1. Kandidatas į
 
-Kandidatas į savivaldybės tarybos narius rinkimų organizavimo ir vykdymo laiku,
+savivaldybės tarybos narius rinkimų agitacijos kampanijos laiku, bet ne
 
-bet ne ilgiau kaip 14 dienų, jo prašymu atleidžiamas nuo darbo ar tarnybinių
+ilgiau kaip 30 dienų
 
-pareigų.
+jo rašytiniu prašymu atleidžiamas nuo darbo ar tarnybinių pareigų. Prašymas
 
-2.
+atleisti nuo darbo ar tarnybinių pareigų pateikiamas asmeniui, turinčiam teisę
 
-Šio straipsnio 1 dalies nuostata netaikoma kandidatui į savivaldybės tarybos
+suteikti atostogas.
 
-narius, kuris eina Respublikos Prezidento, Seimo nario ar Vyriausybės nario
+2. Šio straipsnio 1 dalies nuostatos
 
-pareigas.
+netaikomos kandidatui į savivaldybės tarybos narius, kuris eina Respublikos
+
+Prezidento ar Seimo nario pareigas. Kandidato į savivaldybės
+
+tarybos narius,
+
+kuris eina Vyriausybės nario pareigas, atleidimo nuo tarnybinių pareigų tvarka
+
+nustatyta Vyriausybės įstatyme.
+
+Straipsnio pakeitimai:
+
+Nr. XI-222,
+
+2009-04-16, Žin., 2009, Nr. 46-1800 (2009-04-25)
 
 46 straipsnis. Kandidatų į savivaldybių tarybų
 
 narius neliečiamybė
 
-Kandidatas į savivaldybės
+Kandidatas į
 
-tarybos narius rinkimų agitacijos kampanijos metu, taip pat iki naujai
+savivaldybės tarybos narius rinkimų agitacijos kampanijos metu, taip pat iki
 
-išrinktos savivaldybės tarybos pirmojo posėdžio be Vyriausiosios rinkimų
+naujai išrinktos savivaldybės tarybos pirmojo posėdžio be Vyriausiosios rinkimų
 
 komisijos sutikimo negali būti traukiamas baudžiamojon atsakomybėn, suimtas,
 
@@ -2702,9 +2716,9 @@ ant statinių, kuriuose yra valstybės valdžios, teisėsaugos, kitos valstybės
 
 savivaldybių institucijos ir įstaigos;
 
-2)
+2) ant
 
-ant transporto priemonių ir viešajame transporte;
+transporto priemonių ir viešajame transporte;
 
 3)
 
@@ -2770,13 +2784,13 @@ politinei reklamai netinkamos arba netinkamai įrengtos, apygardos rinkimų
 
 komisija pareikalauja, kad būtų teikiamos tinkamos vietos ar teikiamos vietos
 
-būtų tinkamai įrengtos. Kiekvienoje išorinei politinei reklamai skirtoje
+būtų tinkamai įrengtos. Kiekvienoje išorinei politinei reklamai skirtoje vietoje
 
-vietoje visiems kandidatų į savivaldybės tarybos narius sąrašams (partijos
+visiems kandidatų į savivaldybės tarybos narius sąrašams (partijos išdėstomos
 
-išdėstomos pagal sąrašų numerius) skiriamas vienodas reklamos plotas, kurį
+pagal sąrašų numerius) skiriamas vienodas reklamos plotas, kurį nurodo
 
-nurodo apylinkės rinkimų komisijos, kurios teritorijoje yra išorinei politinei
+apylinkės rinkimų komisijos, kurios teritorijoje yra išorinei politinei
 
 reklamai skirta vieta, pirmininkas. Šis plotas kiekvienam kandidatų į
 
@@ -2854,17 +2868,17 @@ priemonėje.
 
 Kompromituojančia kandidatą į savivaldybės tarybos narius medžiaga pripažįstama
 
-tokia medžiaga, kuria siekiama paveikti rinkėjus, kad šie nebalsuotų už konkretų
+tokia medžiaga, kuria siekiama paveikti rinkėjus, kad šie nebalsuotų už
 
-kandidatą į savivaldybės tarybos narius, ir kurioje pranešama kandidatą
+konkretų kandidatą į savivaldybės tarybos narius, ir kurioje pranešama
 
-negatyviai apibūdinanti žinia. Visuomenės informavimo priemonės paskelbta
+kandidatą negatyviai apibūdinanti žinia. Visuomenės informavimo priemonės
 
-nuomonė (skirtingai nuo žinios, nuomonei netaikomi tiesos kriterijai) apie
+paskelbta nuomonė (skirtingai nuo žinios, nuomonei netaikomi tiesos kriterijai)
 
-kandidatą, taip pat ir negatyvi, nepripažįstama kompromituojančia medžiaga ir
+apie kandidatą, taip pat ir negatyvi, nepripažįstama kompromituojančia medžiaga
 
-nesuteikia kandidatui į savivaldybės tarybos narius teisės reikalauti paskelbti
+ir nesuteikia kandidatui į savivaldybės tarybos narius teisės reikalauti paskelbti
 
 atsakomąją nuomonę. Kandidato į savivaldybės tarybos narius reikalavimas
 
@@ -2920,9 +2934,9 @@ trigubą šio paskelbimo kainą.
 
 Visais atvejais atsakomoji nuomonė neskelbiama rinkimų agitacijos draudimo
 
-laikotarpiu. Atsakomosios nuomonės paskelbimas neatleidžia visuomenės
+laikotarpiu. Atsakomosios nuomonės paskelbimas neatleidžia visuomenės informavimo
 
-informavimo priemonės nuo atsakomybės pagal Lietuvos Respublikos įstatymus.
+priemonės nuo atsakomybės pagal Lietuvos Respublikos įstatymus.
 
 6.
 
@@ -2960,55 +2974,53 @@ medžiaga apie partiją, iškėlusią kandidatų į savivaldybės tarybos narius
 
 sąrašą, gali būti paskelbta ne vėliau kaip priešpaskutiniame iki rinkimų
 
-visuomenės informavimo priemonės leidinyje), ji privalo suteikti galimybę
+visuomenės informavimo priemonės leidinyje), ji privalo suteikti galimybę partijai
 
-partijai ar vienam iš partijos skyrių pareikšti atsakomąją nuomonę. Atsakomąją
+ar vienam iš partijos skyrių pareikšti atsakomąją nuomonę. Atsakomąją nuomonę
 
-nuomonę sudaro paskelbtos kompromituojančios medžiagos trumpas išdėstymas ir
+sudaro paskelbtos kompromituojančios medžiagos trumpas išdėstymas ir atsakymas.
 
-atsakymas. Atsakomoji nuomonė paprastai negali būti daugiau kaip tris kartus
+Atsakomoji nuomonė paprastai negali būti daugiau kaip tris kartus ilgesnė už
 
-ilgesnė už kompromituojančią medžiagą. Visuomenės informavimo priemonė
+kompromituojančią medžiagą. Visuomenės informavimo priemonė atsakomąją nuomonę
 
-atsakomąją nuomonę turi paskelbti ne vėliau kaip per 7 dienas po to, kai ji
+turi paskelbti ne vėliau kaip per 7 dienas po to, kai ji buvo pareikšta, ir ne
 
-buvo pareikšta, ir ne vėliau kaip likus 2 dienoms iki draudimo vykdyti rinkimų
+vėliau kaip likus 2 dienoms iki draudimo vykdyti rinkimų agitaciją pradžios.
 
-agitaciją pradžios. Jeigu visuomenės informavimo priemonė negali per šio
+Jeigu visuomenės informavimo priemonė negali per šio įstatymo nustatytą
 
-įstatymo nustatytą laikotarpį pati paskelbti atsakomosios nuomonės, ji turi
+laikotarpį pati paskelbti atsakomosios nuomonės, ji turi pasirūpinti savo
 
-pasirūpinti savo lėšomis paskelbti atsakomąją nuomonę kitoje visuomenės
-
-informavimo priemonėje.
+lėšomis paskelbti atsakomąją nuomonę kitoje visuomenės informavimo priemonėje.
 
 2.
 
-Kandidatų į savivaldybės tarybos narius sąrašą iškėlusią partiją
+Kandidatų į savivaldybės tarybos narius sąrašą iškėlusią partiją kompromituojanti
 
-kompromituojanti medžiaga yra tokia medžiaga, kuria siekiama paveikti rinkėjus,
+medžiaga yra tokia medžiaga, kuria siekiama paveikti rinkėjus, kad šie
 
-kad šie nebalsuotų už konkrečios partijos iškeltus kandidatus į savivaldybės
+nebalsuotų už konkrečios partijos iškeltus kandidatus į savivaldybės tarybos
 
-tarybos narius, ir kurioje pranešama partiją (jos skyrių ar padalinį)
+narius, ir kurioje pranešama partiją (jos skyrių ar padalinį) negatyviai
 
-negatyviai apibūdinanti žinia. Visuomenės informavimo priemonės paskelbta
+apibūdinanti žinia. Visuomenės informavimo priemonės paskelbta nuomonė
 
-nuomonė (skirtingai nuo žinios, nuomonei netaikomi tiesos kriterijai) apie
+(skirtingai nuo žinios, nuomonei netaikomi tiesos kriterijai) apie partiją,
 
-partiją, taip pat ir negatyvi, nepripažįstama kompromituojančia medžiaga ir
+taip pat ir negatyvi, nepripažįstama kompromituojančia medžiaga ir nesuteikia
 
-nesuteikia teisės reikalauti paskelbti atsakomąją nuomonę. Reikalavimas
+teisės reikalauti paskelbti atsakomąją nuomonę. Reikalavimas paskelbti
 
-paskelbti atsakomąją nuomonę taip pat gali būti netenkinamas, jeigu medžiaga
+atsakomąją nuomonę taip pat gali būti netenkinamas, jeigu medžiaga paskelbta ne
 
-paskelbta ne apie tą partiją; paskelbta medžiaga nėra kompromituojanti;
+apie tą partiją; paskelbta medžiaga nėra kompromituojanti; kompromituojančią
 
-kompromituojančią medžiagą apie partiją paskelbė jos pačios iškeltas kandidatas
+medžiagą apie partiją paskelbė jos pačios iškeltas kandidatas į savivaldybės tarybos
 
-į savivaldybės tarybos narius; medžiagoje nėra jokių partiją apibūdinančių
+narius; medžiagoje nėra jokių partiją apibūdinančių žinių; partija ar jos
 
-žinių; partija ar jos skyrius jau pasinaudojo atsakomosios nuomonės teise.
+skyrius jau pasinaudojo atsakomosios nuomonės teise.
 
 3.
 
@@ -3096,9 +3108,9 @@ kandidatui dėl einamų pareigų reikia pranešti visuomenės informavimo priemo
 
 svarbių žinių, tai jis gali padaryti tik spaudos konferencijoje. Valstybinės ar
 
-savivaldybių visuomenės informavimo priemonės gali skelbti tik šios konferencijos
+savivaldybių visuomenės informavimo priemonės gali skelbti tik šios
 
-įrašą, jeigu jame nėra rinkimų agitacijos.
+konferencijos įrašą, jeigu jame nėra rinkimų agitacijos.
 
 52 straipsnis. Savivaldybių tarybų rinkimų
 
@@ -3156,15 +3168,15 @@ RINKIMŲ ORGANIZAVIMO VEIKLA
 
 Rinkėjo pažymėjimų, rinkimų biuletenių,
 
-kandidatų į savivaldybės tarybos narius sąrašų, plakatų su duomenimis apie kandidatą
+kandidatų į savivaldybės tarybos narius sąrašų, plakatų su duomenimis apie
 
-(kandidatus) į savivaldybės tarybos narius, vidinių ir išorinių balsavimo paštu
+kandidatą (kandidatus) į savivaldybės tarybos narius, vidinių ir išorinių
 
-vokų, kitų dokumentų, blankų, anketų, oficialių vokų, paketų, antspaudų,
+balsavimo paštu vokų, kitų dokumentų, blankų, anketų, oficialių vokų, paketų,
 
-naudojamų rinkimuose, pavyzdžius ir formas, taip pat jų pildymo pavyzdžius
+antspaudų, naudojamų rinkimuose, pavyzdžius ir formas, taip pat jų pildymo
 
-nustato Vyriausioji rinkimų komisija.
+pavyzdžius nustato Vyriausioji rinkimų komisija.
 
 55
 
@@ -3300,9 +3312,9 @@ slapto balsavimo kabina (kabinos), kurioje rinkėjas galėtų slaptai užpildyti
 
 rinkimų biuletenį. Balsavimo patalpoje gali būti iškabinta Vyriausiosios
 
-rinkimų komisijos išleista rinkimų agitacijos ar rinkėjų informavimo medžiaga
+rinkimų komisijos išleista rinkimų agitacijos ar rinkėjų informavimo medžiaga ir
 
-ir turi būti iškabinti kandidatų į savivaldybės tarybos narius, renkamų šioje
+turi būti iškabinti kandidatų į savivaldybės tarybos narius, renkamų šioje
 
 rinkimų apygardoje, sąrašai. Be to, kiekvienoje rinkimų apylinkėje turi būti
 
@@ -6306,6 +6318,22 @@ SAVIVALDYBIŲ
 
 TARYBŲ RINKIMŲ ĮSTATYMO PRIEDO PAKEITIMO ĮSTATYMAS
 
+29.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-222,
+
+2009-04-16, Žin., 2009, Nr. 46-1800 (2009-04-25)
+
+SAVIVALDYBIŲ
+
+TARYBŲ RINKIMŲ ĮSTATYMO 45 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -6332,9 +6360,9 @@ LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 34 STRAIPSNIO (200
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-02-05)
+Aušrinė Trapinskienė (2009-04-27)
 
 autrap@lrs.lt
 
