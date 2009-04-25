@@ -4,7 +4,7 @@ identifier: "TAR.FE3C428580B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-20"
-last_updated: "2009-03-24"
+last_updated: "2009-04-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FE3C428580B8"
 department: "Lietuvos Respublikos Seimas"
@@ -2567,27 +2567,41 @@ Nr. X-1530,
 
 2008-05-08, Žin., 2008, Nr. 59-2202 (2008-05-24)
 
-47 straipsnis. Kandidato teisė būti atleistam nuo
+47 straipsnis. Kandidato teisė
 
-darbo ar tarnybinių pareigų rinkimų agitacijos kampanijos metu
+būti atleistam nuo darbo ar tarnybinių pareigų rinkimų agitacijos kampanijos
 
-1. Kandidatas rinkimų agitacijos
+metu
 
-kampanijos metu, bet ne ilgiau kaip 1 mėnesį, jo prašymu atleidžiamas nuo darbo
+1. Kandidatas
 
-ar tarnybinių pareigų.
+rinkimų agitacijos kampanijos metu, bet ne ilgiau kaip 30 dienų jo rašytiniu
 
-2. Šio
+prašymu atleidžiamas nuo darbo ar tarnybinių pareigų. Prašymas
 
-straipsnio 1 dalies nuostata netaikoma kandidatams, kurie eina Respublikos
+atleisti nuo darbo ar tarnybinių pareigų pateikiamas asmeniui, turinčiam teisę
 
-Prezidento, Europos Parlamento ar Seimo nario, Vyriausybės nario pareigas.
+suteikti atostogas.
+
+2.
+
+Šio straipsnio 1 dalies nuostatos netaikomos kandidatams, kurie eina
+
+Respublikos Prezidento, Europos Parlamento nario ar Seimo nario pareigas. Kandidato į Europos Parlamento
+
+narius, kuris eina Vyriausybės nario pareigas, atleidimo nuo tarnybinių pareigų
+
+tvarka nustatyta Vyriausybės įstatyme.
 
 Straipsnio pakeitimai:
 
 Nr. X-1530,
 
 2008-05-08, Žin., 2008, Nr. 59-2202 (2008-05-24)
+
+Nr. XI-221,
+
+2009-04-16, Žin., 2009, Nr. 46-1799 (2009-04-25)
 
 48
 
@@ -2687,9 +2701,9 @@ kuriuose yra valstybės valdžios, teisėsaugos, kitos valstybės ir savivaldybi
 
 institucijos ir įstaigos;
 
-2) ant
+2) ant transporto
 
-transporto priemonių ir viešajame transporte;
+priemonių ir viešajame transporte;
 
 3) automobilių
 
@@ -2833,15 +2847,15 @@ išdėstymas ir atsakymas. Ji paprastai negali būti daugiau kaip 3 kartus ilges
 
 už kompromituojančią medžiagą. Visuomenės informavimo priemonė atsakomąją
 
-nuomonę turi paskelbti ne vėliau kaip per 7 dienas po to, kai ji buvo
+nuomonę turi paskelbti ne vėliau kaip per 7 dienas po to, kai ji buvo pareikšta,
 
-pareikšta, ir ne vėliau kaip likus 2 dienoms iki rinkimų agitacijos draudimo
+ir ne vėliau kaip likus 2 dienoms iki rinkimų agitacijos draudimo laikotarpio
 
-laikotarpio pradžios. Visuomenės informavimo priemonė, kuri negali per šio
+pradžios. Visuomenės informavimo priemonė, kuri negali per šio Įstatymo
 
-Įstatymo nustatytą laikotarpį pati paskelbti atsakomąją nuomonę, turi
+nustatytą laikotarpį pati paskelbti atsakomąją nuomonę, turi pasirūpinti savo
 
-pasirūpinti savo lėšomis ją paskelbti per kitą visuomenės informavimo priemonę.
+lėšomis ją paskelbti per kitą visuomenės informavimo priemonę.
 
 2.
 
@@ -5431,17 +5445,27 @@ Nr. XI-184,
 
 2009-03-10, Žin., 2009, Nr. 32-1239 (2009-03-24)
 
-RINKIMŲ Į
+RINKIMŲ Į EUROPOS
 
-EUROPOS PARLAMENTĄ ĮSTATYMO 12, 14, 16, 17, 29, 30 IR 54 STRAIPSNIŲ PAKEITIMO
+PARLAMENTĄ ĮSTATYMO 12, 14, 16, 17, 29, 30 IR 54 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-ĮSTATYMAS
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-221,
+
+2009-04-16, Žin., 2009, Nr. 46-1799 (2009-04-25)
+
+RINKIMŲ Į EUROPOS PARLAMENTĄ ĮSTATYMO 47
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2009-03-24)
+(2009-04-27)
 
 autrap@lrs.lt
 
@@ -5815,9 +5839,7 @@ Nr. X-1530,
 
 2008-05-08, Žin., 2008, Nr. 59-2202 (2008-05-24)
 
-49 straipsnis. Rinkimų agitacijos
-
-pagrindai
+49 straipsnis. Rinkimų agitacijos pagrindai
 
 1. Pradėti
 
@@ -5835,11 +5857,11 @@ rinkimų agitacijos išlaidų dydžio.
 
 2. Rinkimų
 
-agitacija gali būti įvairių formų ir būdų, išskyrus tuos, kurie pažeidžia
+agitacija gali būti įvairių formų ir būdų, išskyrus tuos, kurie pažeidžia Lietuvos
 
-Lietuvos Respublikos Konstituciją ir įstatymus, prieštarauja moralei,
+Respublikos Konstituciją ir įstatymus, prieštarauja moralei, teisingumui ar
 
-teisingumui ar visuomenės darnai, neatitinka sąžiningų ir garbingų rinkimų.
+visuomenės darnai, neatitinka sąžiningų ir garbingų rinkimų.
 
 Straipsnio pakeitimai:
 
