@@ -4,7 +4,7 @@ identifier: "TAR.E10919A79385"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-12-18"
-last_updated: "2009-03-05"
+last_updated: "2009-05-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E10919A79385"
 department: "Lietuvos Respublikos Seimas"
@@ -29,9 +29,9 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2009 METŲ RODIKLIŲ PATVIRTINIM
 
 Vilnius
 
-1 straipsnis. Valstybinio socialinio draudimo fondo biudžeto 2009 metų
+1 straipsnis. Valstybinio socialinio draudimo fondo
 
-pajamos, išlaidos ir planuojamas metų rezultatas
+biudžeto 2009 metų pajamos, išlaidos ir planuojamas metų rezultatas
 
 Patvirtinti
 
@@ -237,7 +237,7 @@ draudžiamųjų pajamų dydžio.
 
 dalyvaujančių pensijų kaupime, valstybinio pensijų socialinio draudimo įmokos
 
-dalies, pervedamos pensijų kaupimo bendrovėms, 3 procentų dydžio tarifą.
+dalies, pervedamos pensijų kaupimo bendrovėms, nuo 2009 m. sausio 1 d. iki 2009 m. birželio 30 d. – 3 procentų dydžio tarifą, nuo 2009 m. liepos 1 d. iki 2009 m. gruodžio 31 d. – 2 procentų dydžio tarifą.
 
 12. Patvirtinti valstybinio pensijų
 
@@ -252,6 +252,12 @@ pakeitimas:
 Nr. XI-172,
 
 2009-02-17, Žin., 2009, Nr. 25-974 (2009-03-05)
+
+Nr.
+
+XI-231,
+
+2009-04-28, Žin., 2009, Nr. 54-2133 (2009-05-12)
 
 4 straipsnis. Valstybinio socialinio draudimo įmokų,
 
@@ -531,13 +537,13 @@ Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą
 
 Lėšos, pervedamos į pensijų fondus
 
-661 300
+495 700
 
 2.7.
 
 Neatgautinos ir abejotinai atgautinos sumos
 
-39 000
+204 600
 
 2.8.
 
@@ -550,6 +556,16 @@ Veiklos sąnaudos
 Einamųjų metų rezultatas
 
 324
+
+Priedėlio
+
+pakeitimai:
+
+Nr.
+
+XI-231,
+
+2009-04-28, Žin., 2009, Nr. 54-2133 (2009-05-12)
 
 Lietuvos
 
@@ -565,21 +581,19 @@ Nr. XI-70
 
 priedėlis
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS
 
-RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2009 METŲ PINIGŲ
-
-SRAUTAI
+VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2009 METŲ PINIGŲ SRAUTAI
 
 tūkst. Lt
 
 1. Įprastinė veikla
 
-564 314
+445 314
 
 1.1. Fondo įprastinė veikla
 
-564 314
+445 314
 
 1.1.1. Pinigų įplaukos
 
@@ -623,7 +637,7 @@ pajamų įplaukos
 
 1.1.2. Pinigų išlaidos
 
-14 266 523
+14 147 523
 
 1.1.2.1. Pensijų socialiniam draudimui
 
@@ -653,7 +667,7 @@ Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui
 
 1.1.2.6. Lėšos, pervedamos į  pensijų fondus
 
-784 000
+665 000
 
 1.1.2.7. Veiklos sąnaudos
 
@@ -699,9 +713,9 @@ tęsinys
 
 210
 
-2.5.
+2.5. Išlaidos
 
-Išlaidos akcijoms, obligacijoms, kitiems vertybiniams popieriams įsigyti
+akcijoms, obligacijoms, kitiems vertybiniams popieriams įsigyti
 
 0
 
@@ -713,11 +727,11 @@ Išlaidos akcijoms, obligacijoms, kitiems vertybiniams popieriams įsigyti
 
 3. Finansinė veikla
 
-729 000
+610 000
 
 3.1. Gautos trumpalaikės paskolos
 
-729 000
+610 000
 
 3.2. Grąžintos trumpalaikės paskolos
 
@@ -773,6 +787,16 @@ iš jų – kaupiamosios pensijų įmokos
 
 329 000
 
+Priedėlio
+
+pakeitimai:
+
+Nr.
+
+XI-231,
+
+2009-04-28, Žin., 2009, Nr. 54-2133 (2009-05-12)
+
 ________________
 
 Pakeitimai:
@@ -797,11 +821,29 @@ SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2009 METŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 
 
 nuostatos taikomos nuo 2009 m. sausio 1 d.
 
-*** Pabaiga ***
+2.
 
-Redagavo Aušrinė
+Lietuvos
 
-Trapinskienė (2009-03-09)
+Respublikos Seimas, Įstatymas
 
-autrap@lrs.lt
+Nr. XI-231,
+
+2009-04-28, Žin., 2009, Nr. 54-2133 (2009-05-12)
+
+VALSTYBINIO
+
+SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2009 METŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 3
+
+STRAIPSNIO BEI 1 IR 2 PRIEDĖLIŲ PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušra Bodin (2009-05-12)
+
+aubodi@lrs.lt
 
