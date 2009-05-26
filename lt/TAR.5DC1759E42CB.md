@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2008-07-01"
+last_updated: "2009-05-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -1020,11 +1020,29 @@ tvarką;
 
 gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
 
+2 dalies redakcija iki 2010
+
+m. sausio 1 d.:
+
 2. Užtikrindama
 
 eismo saugumą, Socialinės apsaugos ir darbo ministerija ar jos įgaliotos
 
 institucijos nustato skiriamojo ženklo „Neįgalusis“ išdavimo tvarką.
+
+2 dalies redakcija nuo 2010
+
+m. sausio 1 d.:
+
+2. Užtikrindama
+
+eismo saugumą, Socialinės apsaugos ir darbo ministerija ar jos įgaliotos
+
+institucijos nustato asmenis, turinčius teisę naudoti skiriamąjį ženklą
+
+„Neįgalusis“, ir neįgalių asmenų automobilių statymo kortelės ir dokumento,
+
+patvirtinančio teisę naudoti skiriamąjį ženklą „Neįgalusis“, išdavimo tvarką.
 
 3.
 
@@ -1076,9 +1094,9 @@ gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
 
 eismo saugumą, Vidaus reikalų ministerija ar jos įgaliotos institucijos:
 
-1) suderinusi su Susisiekimo ministerija, nustato motorinių transporto
+1) suderinusi su Susisiekimo ministerija, nustato motorinių
 
-priemonių vairuotojų egzaminavimo sąlygas ir tvarką;
+transporto priemonių vairuotojų egzaminavimo sąlygas ir tvarką;
 
 2)
 
@@ -1226,13 +1244,21 @@ pareigūnai. Užtikrindama eismo saugumą, policija:
 
 1) prižiūri, kaip
 
-eismo dalyviai laikosi šio įstatymo nuostatų ir kituose teisės aktuose
+eismo dalyviai laikosi šio įstatymo nuostatų ir kituose teisės aktuose nustatytos
 
-nustatytos eismo tvarkos;
+eismo tvarkos;
 
 2) reguliuoja eismą;
 
-3) tiria KET pažeidimus, atlieka ikiteisminį tyrimą eismo įvykių bylose, įstatymų nustatytais atvejais surašo administracinių teisės pažeidimų protokolus, nagrinėja administracinių teisės pažeidimų bylas ir priima nutarimus šiose bylose, taiko kitas įstatymų numatytas priemones;
+3)
+
+tiria KET pažeidimus, atlieka ikiteisminį tyrimą eismo įvykių bylose, įstatymų
+
+nustatytais atvejais surašo administracinių teisės pažeidimų protokolus,
+
+nagrinėja administracinių teisės pažeidimų bylas ir priima nutarimus šiose
+
+bylose, taiko kitas įstatymų numatytas priemones;
 
 4) kontroliuoja, ar
 
@@ -1254,9 +1280,9 @@ keliuose;
 
 įvykius, kurių metu nukentėjo žmonės;
 
-8) teikia eismo
+8) teikia eismo įvykio
 
-įvykio metu nukentėjusiems asmenims pirmąją pagalbą tuo atveju, kai šalia nėra
+metu nukentėjusiems asmenims pirmąją pagalbą tuo atveju, kai šalia nėra
 
 kvalifikuoto medicinos darbuotojo;
 
@@ -1285,6 +1311,12 @@ gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
 Tikrinantys pareigūnai, atlikdami savo
 
 funkcijas, neturi kelti grėsmės eismo saugumui.
+
+Straipsnio pakeitimai:
+
+Nr. XI-261, 2009-05-14,
+
+Žin., 2009, Nr. 61-2405 (2009-05-26)
 
 TREČIASIS
 
@@ -1316,11 +1348,11 @@ sąlygas, įgyvendindami juose eismo saugumo priemones.
 
 Eismo saugumo priemonės įgyvendinamos projektuojant, tiesiant, rekonstruojant,
 
-taisant (remontuojant) ir prižiūrint kelius, vadovaujantis Lietuvos kelių projektavimo
+taisant (remontuojant) ir prižiūrint kelius, vadovaujantis Lietuvos kelių
 
-normatyviniais dokumentais, Lietuvos Respublikos standartais ir kitais
+projektavimo normatyviniais dokumentais, Lietuvos Respublikos standartais ir
 
-normatyviniais teisės aktais.
+kitais normatyviniais teisės aktais.
 
 3.
 
@@ -1526,29 +1558,29 @@ techninių reikalavimų (toliau – techninių reikalavimų) neatitinkančią
 
 transporto priemonę. Prieš pradėdamas važiuoti, motorinės transporto priemonės,
 
-traktoriaus, savaeigės mašinos vairuotojas privalo įsitikinti, ar transporto
+traktoriaus, savaeigės mašinos vairuotojas privalo įsitikinti, ar transporto priemonė
 
-priemonė tvarkinga, ar joje yra pirmosios pagalbos, priešgaisrinės, avarinio
+tvarkinga, ar joje yra pirmosios pagalbos, priešgaisrinės, avarinio sustojimo
 
-sustojimo vietos ženklinimo ir kitos atitinkamai transporto priemonės rūšiai
+vietos ženklinimo ir kitos atitinkamai transporto priemonės rūšiai privalomos
 
-privalomos priemonės, taip pat kelionės metu stebėti transporto priemonės
+priemonės, taip pat kelionės metu stebėti transporto priemonės techninę būklę.
 
-techninę būklę. Tuo atveju, kai važiuojanti transporto priemonė sugenda ir dėl
+Tuo atveju, kai važiuojanti transporto priemonė sugenda ir dėl to ji neatitinka
 
-to ji neatitinka techninių reikalavimų, o gedimo pašalinti neįmanoma,
+techninių reikalavimų, o gedimo pašalinti neįmanoma, vairuotojas, laikydamasis
 
-vairuotojas, laikydamasis būtinų atsargumo priemonių, gali važiuoti iki
+būtinų atsargumo priemonių, gali važiuoti iki stovėjimo ar remonto vietos,
 
-stovėjimo ar remonto vietos, išskyrus KET nustatytus atvejus.
+išskyrus KET nustatytus atvejus.
 
-3.
+3. Vairuotojas
 
-Vairuotojas privalo imtis visų būtinų priemonių savo ir keleivių saugumui
+privalo imtis visų būtinų priemonių savo ir keleivių saugumui kelionės metu
 
-kelionės metu užtikrinti. Saugos diržų, šalmų, vaikiškų saugos sėdynių ir kitų
+užtikrinti. Saugos diržų, šalmų, vaikiškų saugos sėdynių ir kitų saugumo
 
-saugumo priemonių naudojimo atvejus ir tvarką nustato KET.
+priemonių naudojimo atvejus ir tvarką nustato KET.
 
 4.
 
@@ -1574,19 +1606,19 @@ Respublikos įstatymų bei KET nustatytus dokumentus, taip pat leisti jiems
 
 patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis.
 
-Šioje dalyje nurodyto vairuotojo pažymėjimo nereikia asmenims, turintiems Europos
+Šioje dalyje nurodyto vairuotojo pažymėjimo nereikia asmenims, turintiems
 
-Sąjungos valstybėse narėse ir Europos ekonominės erdvės Europos laisvosios
+Europos Sąjungos valstybėse narėse ir Europos ekonominės erdvės Europos
 
-prekybos asociacijos (EEE EFTA) šalyse išduotus vairuotojo pažymėjimus. 1926
+laisvosios prekybos asociacijos (EEE EFTA) šalyse išduotus vairuotojo
 
-metų Paryžiaus konvencijos dėl automobilių eismo, 1949 metų Ženevos konvencijos
+pažymėjimus. 1926 metų Paryžiaus konvencijos dėl automobilių eismo, 1949 metų Ženevos
 
-dėl kelių eismo ir 1968 metų Vienos konvencijos dėl kelių eismo reikalavimus
+konvencijos dėl kelių eismo ir 1968 metų Vienos konvencijos dėl kelių eismo
 
-atitinkantys nacionaliniai ir tarptautiniai vairuotojo pažymėjimai galioja, jei
+reikalavimus atitinkantys nacionaliniai ir tarptautiniai vairuotojo pažymėjimai
 
-asmuo nėra nuolatinis Lietuvos Respublikos gyventojas.
+galioja, jei asmuo nėra nuolatinis Lietuvos Respublikos gyventojas.
 
 6.
 
@@ -1600,13 +1632,13 @@ veikiančių medžiagų.
 
 Transporto priemonių vairuotojai privalo vykdyti šiame įstatyme, Policijos
 
-veiklos įstatyme, kituose Lietuvos Respublikos teisės aktuose nustatytus teisėtus
+veiklos įstatyme, kituose Lietuvos Respublikos teisės aktuose nustatytus
 
-tikrinančių pareigūnų ir reguliuotojų nurodymus, laikytis KET nustatytos
+teisėtus tikrinančių pareigūnų ir reguliuotojų nurodymus, laikytis KET
 
-elgesio tvarkos, kai šių institucijų įgalioti pareigūnai, reguliuotojai,
+nustatytos elgesio tvarkos, kai šių institucijų įgalioti pareigūnai,
 
-policijos, Valstybinės kelių transporto
+reguliuotojai, policijos, Valstybinės kelių transporto
 
 inspekcijos prie Susisiekimo
 
@@ -2002,9 +2034,9 @@ ir įspėja kitus eismo dalyvius apie galimą pavojų.
 
 Transporto priemonių su įjungtais oranžiniais žybčiojančiais švyturėliais
 
-vairuotojai, važiuodami kelyje, stovėdami ir (ar) atlikdami darbus, užtikrina,
+vairuotojai, važiuodami kelyje, stovėdami ir (ar) atlikdami darbus, užtikrina, kad
 
-kad nepakenks eismo saugumui.
+nepakenks eismo saugumui.
 
 Straipsnio pakeitimai:
 
@@ -2044,13 +2076,13 @@ priemonę, nedalyvaujant turinčiam teisę mokyti asmeniui.
 
 Pradėti mokyti vairuoti motorinę transporto priemonę, traktorių, savaeigę
 
-mašiną leidžiama tik nustatytus reikalavimus atitinkančioje aikštelėje arba teritorijoje.
+mašiną leidžiama tik nustatytus reikalavimus atitinkančioje aikštelėje arba
 
-Keliuose mokyti vairuoti leidžiama tik tada, kai mokinys yra pakankamai įgudęs
+teritorijoje. Keliuose mokyti vairuoti leidžiama tik tada, kai mokinys yra
 
-vairuoti. Mokyti vairuoti galima tik tuose keliuose, kuriuose to nėra uždraudęs
+pakankamai įgudęs vairuoti. Mokyti vairuoti galima tik tuose keliuose, kuriuose
 
-kelio savininkas.
+to nėra uždraudęs kelio savininkas.
 
 5.
 
@@ -2102,13 +2134,13 @@ vairavimą neturint tam teisės, terminas.
 
 3.
 
-Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones patvirtina
+Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones
 
-įrašas Kelių transporto priemonių vairuotojų registre ir valstybės įmonės
+patvirtina įrašas Kelių transporto priemonių vairuotojų registre ir valstybės
 
-„Regitra“ išduotas vairuotojo pažymėjimas, taip pat vairuotojų pažymėjimai,
+įmonės „Regitra“ išduotas vairuotojo pažymėjimas, taip pat vairuotojų
 
-išduoti policijos įstaigų.
+pažymėjimai, išduoti policijos įstaigų.
 
 4.
 
@@ -2304,7 +2336,9 @@ Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra užsien
 
 valstybėje, taip pat transporto priemonėms, kurios Kilnojamųjų kultūros
 
-vertybių apsaugos įstatymo nustatyta tvarka priskirtos antikvarinių daiktų kategorijai.
+vertybių apsaugos įstatymo nustatyta tvarka priskirtos antikvarinių daiktų
+
+kategorijai.
 
 5.
 
@@ -2402,9 +2436,9 @@ pavojų žmonėms ir aplinkai, iki jie bus pašalinti.
 
 Reikalavimus, kurių turi laikytis transporto priemonių, vežančių keleivius
 
-(krovinius), vairuotojai, ir keleivių (krovinių) vežimo tvarką užtikrinant eismo
+(krovinius), vairuotojai, ir keleivių (krovinių) vežimo tvarką užtikrinant
 
-saugumą nustato KET.
+eismo saugumą nustato KET.
 
 20 straipsnis. Bendrieji reikalavimai
 
@@ -2418,23 +2452,23 @@ nuosavybės ar kita teise priklausančią transporto priemonę.
 
 2. Policijos
 
-pareigūnui pareikalavus teisės pažeidimo išaiškinimo tikslu, transporto priemonės
+pareigūnui pareikalavus teisės pažeidimo išaiškinimo tikslu, transporto
 
-savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie asmenį
+priemonės savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie
 
-(vardą, pavardę ir gyvenamąją vietą), kuris tam tikru metu valdė ar naudojosi
+asmenį (vardą, pavardę ir gyvenamąją vietą), kuris tam tikru metu valdė ar
 
-transporto priemonės savininkui (valdytojui) priklausančia transporto priemone.
+naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto
 
-Transporto priemonės savininkas (valdytojas), nepateikęs šioje dalyje nurodytų
+priemone. Transporto priemonės savininkas (valdytojas), nepateikęs šioje dalyje
 
-duomenų, atsako už transporto priemonės savininko (valdytojo) pareigų
+nurodytų duomenų, atsako už transporto priemonės savininko (valdytojo) pareigų
 
 neatlikimą Administracinių teisės pažeidimų kodekso nustatyta tvarka.
 
-Transporto priemonės savininkui (valdytojui) atsakomybė už pareigų neatlikimą
+Transporto priemonės savininkui (valdytojui) atsakomybė už pareigų neatlikimą netaikoma,
 
-netaikoma, jei jis prarado transporto priemonę prieš savo valią.
+jei jis prarado transporto priemonę prieš savo valią.
 
 3.
 
@@ -2854,13 +2888,13 @@ techninei apžiūrai.
 
 4.
 
-Naujos motorinės transporto priemonės ir priekabos laikotarpiu nuo pirmos
+Naujos motorinės transporto priemonės ir priekabos laikotarpiu nuo pirmos transporto
 
-transporto priemonės registravimo datos iki pirmos techninės apžiūros dalyvauja
+priemonės registravimo datos iki pirmos techninės apžiūros dalyvauja viešajame
 
-viešajame eisme be privalomos techninės apžiūros (išskyrus vienetinės gamybos
+eisme be privalomos techninės apžiūros (išskyrus vienetinės gamybos transporto
 
-transporto priemones).
+priemones).
 
 5. Privalomas technines apžiūras atlieka įmonės, atitinkančios
 
@@ -2922,15 +2956,13 @@ Jeigu eismo įvykyje buvo sužeistas arba (ir) žuvo žmogus, jei dėl
 
 eismo įvykio susidarė transporto grūstis, jei eismo įvykyje dalyvauja
 
-transporto priemonė, kuri veža pavojingą krovinį arba krovinį, kurio išsipylė
+transporto priemonė, kuri veža pavojingą krovinį arba krovinį, kurio išsipylė (išsiliejo)
 
-(išsiliejo) ant kelio, ir taip sudaro pavojų eismui, Vyriausybės įgaliotų
+ant kelio, ir taip sudaro pavojų eismui, Vyriausybės įgaliotų institucijų
 
-institucijų tarnybos privalo nedelsdamos atvykti į eismo įvykio vietą,
+tarnybos privalo nedelsdamos atvykti į eismo įvykio vietą, suteikti
 
-suteikti neatidėliotiną pagalbą nukentėjusiesiems, neutralizuoti įvykio
-
-padarinius.
+neatidėliotiną pagalbą nukentėjusiesiems, neutralizuoti įvykio padarinius.
 
 SEPTINTASIS SKIRSNIS
 
@@ -2998,11 +3030,9 @@ reikalų ministerijos pareigūnai.
 
 Policijos pareigūnai, priėmę sprendimą dėl priverstinio transporto priemonės
 
-nuvežimo, praneša transporto priemonės savininkui (valdytojui) teisės aktų
+nuvežimo, praneša transporto priemonės savininkui (valdytojui) teisės aktų nustatyta
 
-nustatyta tvarka apie priimtą sprendimą dėl priverstinio transporto priemonės
-
-nuvežimo.
+tvarka apie priimtą sprendimą dėl priverstinio transporto priemonės nuvežimo.
 
 5.
 
@@ -3094,6 +3124,36 @@ Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4
 
 Hagoje.
 
+Priedas papildomas 6 ir 7 punktais
+
+nuo 2010 m. sausio 1 d.:
+
+6) 1998 m.
+
+birželio 4 d. Tarybos rekomendacija 1998/376/EB dėl neįgalių asmenų automobilių
+
+statymo kortelių;
+
+7) 2008 m. kovo
+
+3 d. Tarybos rekomendacija 2008/205/EB, pritaikanti Rekomendaciją 98/376/EB dėl
+
+neįgalių asmenų automobilių statymo kortelių, siekiant atsižvelgti į Bulgarijos
+
+Respublikos, Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos,
+
+Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos
+
+Respublikos, Lenkijos Respublikos, Rumunijos, Slovėnijos Respublikos ir
+
+Slovakijos Respublikos įstojimą (OL 2008 L 63, p. 43).
+
+Priedo pakeitimai:
+
+Nr. XI-261,
+
+2009-05-14, Žin., 2009, Nr. 61-2405 (2009-05-26)
+
 ________________
 
 Pakeitimai:
@@ -3112,11 +3172,11 @@ IX-1256, 2002-12-10,
 
 SAUGAUS
 
-EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 4, 5, 6, 7, 13, 14, 17, 23, 24, 25
+EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 4, 5, 6, 7, 13, 14, 17, 23, 24, 25 STRAIPSNIŲ
 
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, PENKTOJO SKIRSNIO PAVADINIMO PAKEITIMO IR
+PAKEITIMO IR PAPILDYMO, PENKTOJO SKIRSNIO PAVADINIMO PAKEITIMO IR ĮSTATYMO
 
-ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+PAPILDYMO PRIEDU ĮSTATYMAS
 
 2.
 
@@ -3178,9 +3238,9 @@ SAUGAUS
 
 EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 1, 6, 7, 8 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-Šis
+Šis Įstatymas
 
-Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+įsigalioja nuo 2004 m. gegužės 1 d.
 
 5.
 
@@ -3314,9 +3374,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. X-1594,
+Nr. X-1594, 2008-06-10,
 
-2008-06-10, Žin., 2008, Nr. 71-2719 (2008-06-21)
+Žin., 2008, Nr. 71-2719 (2008-06-21)
 
 SAUGAUS EISMO AUTOMOBILIŲ KELIAIS
 
@@ -3326,13 +3386,27 @@ SAUGAUS EISMO AUTOMOBILIŲ KELIAIS
 
 įsigalioja 2008 m. liepos 1 d.
 
-***
+11.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas, Įstatymas
 
-Redagavo:
+Nr. XI-261,
 
-Aušrinė Trapinskienė (2008-06-30)
+2009-05-14, Žin., 2009, Nr. 61-2405 (2009-05-26)
+
+SAUGAUS EISMO AUTOMOBILIŲ KELIAIS
+
+ĮSTATYMO 10 STRAIPSNIO PAKEITIMO IR PRIEDO PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas, išskyrus 3 straipsnio 2
+
+dalį, įsigalioja 2010 m. sausio 1 d.
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2009-05-26)
 
 autrap@lrs.lt
 
