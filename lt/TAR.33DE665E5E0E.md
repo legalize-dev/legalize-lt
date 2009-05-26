@@ -4,7 +4,7 @@ identifier: "TAR.33DE665E5E0E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-14"
-last_updated: "2006-06-28"
+last_updated: "2009-05-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.33DE665E5E0E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2006-06-28 iki 2009-05-25
+Suvestinė redakcija nuo 2009-05-26 iki 2010-04-09
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 51-1392; Žin. 2004, Nr.98-3626, i. k. 0981010ISTAVIII-730
 
@@ -51,13 +51,13 @@ Vilnius
 
 3. Vyriausybės atstovu gali būti skiriamas asmuo, turintis aukštąjį universitetinį arba jam prilygintą išsilavinimą ir ne mažesnę kaip penkerių metų darbo viešojo administravimo srityje patirtį arba aukštąjį universitetinį teisinį arba viešojo administravimo išsilavinimą ir ne mažesnę kaip trejų metų darbo viešojo administravimo srityje patirtį.
 
-4. Vyriausybės atstovas negali dalyvauti politinių partijų veikloje.
-
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo 3 straipsnio 4 dalis (2004 m. birželio 8 d. redakcija; Žin., 2004, Nr. 98-3626) prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+4. Vyriausybės atstovo įgaliojimų įgyvendinimas negali būti susietas su jokios politinės partijos veikla.
 
 Straipsnio dalies pakeitimai:
 
 2006-04-14, Žin., 2006, Nr. 44-1608 (2006-04-22), i. k. 1061000NUTARG062499
+
+Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
 
 4 straipsnis. Vyriausybės atstovo įgaliojimai
 
@@ -75,15 +75,41 @@ Straipsnio dalies pakeitimai:
 
 3. Nustatęs, kad remiantis savivaldybės administravimo subjekto teisės aktu, neatitinkančiu Konstitucijos ir įstatymų, yra sudarytas sandoris savivaldybės vardu ir tas sandoris pažeidžia viešąjį interesą, taip pat kai yra kitų įstatymų numatytų sandorių negaliojimo pagrindų, Vyriausybės atstovas bendrosios kompetencijos teismui pareiškia ieškinį dėl viešojo intereso gynimo pagal Civilinio proceso kodekso 49 straipsnio 1 dalį.
 
-4. Abejodamas, ar savivaldybės administravimo subjekto priimtas norminis administracinis aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės norminį aktą, Vyriausybės atstovas, vadovaudamasis Administracinių bylų teisenos įstatymo 110 straipsniu, gali kreiptis į administracinį teismą su abstrakčiu pareiškimu ištirti norminio savivaldybės administracinio akto teisėtumą.
+4. Manydamas, kad savivaldybės administravimo subjekto priimti teisės aktai ar veiksmai (neveikimas) pažeidžia viešąjį interesą, Vyriausybės atstovas dėl tokių teisės aktų ar veiksmų (neveikimo) kreipiasi į administracinį teismą su pareiškimu, kad būtų apgintas viešasis interesas pagal Administracinių bylų teisenos įstatymo 56 straipsnio 1 dalį.
 
-5. Jeigu Laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo nustatytais atvejais į Vyriausybės atstovą kreipiasi Vyriausybės įgaliotinis, Vyriausybės atstovas, nustatęs, kad savivaldybės administravimo subjektų priimti teisės aktai neatitinka Konstitucijos, įstatymų ar Vyriausybės sprendimų, kreipiasi į teismą dėl šių teisės aktų panaikinimo.
+Papildyta straipsnio dalimi:
 
-6. Jeigu savivaldybės administravimo subjektai priėmė teisės aktus, kuriais remiantis gali būti sudaromi neteisėti ir viešąjį interesą pažeidžiantys sandoriai, Vyriausybės atstovas šio įstatymo 5 straipsnio 4 dalyje nustatyta tvarka gali savo potvarkiu sustabdyti tokių savivaldybės administravimo subjektų teisės aktų vykdymą ir sandorių pasirašymą.
+Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
 
-7. Vyriausybės atstovas nenagrinėja fizinių ir juridinių asmenų skundų dėl savivaldybės administravimo subjektų priimamų individualių teisės aktų, kurių apskundimo specialią tvarką nustato konkrečią sritį reglamentuojantys įstatymai.
+5. Abejodamas, ar savivaldybės administravimo subjekto priimtas norminis administracinis aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės norminį aktą, Vyriausybės atstovas, vadovaudamasis Administracinių bylų teisenos įstatymo 110 straipsniu, gali kreiptis į administracinį teismą su abstrakčiu pareiškimu ištirti norminio savivaldybės administracinio akto teisėtumą.
 
-8. Visais atvejais apie savivaldybės administravimo subjektui pateiktą teikimą ar reikalavimą Vyriausybės atstovas praneša merui (savivaldybės vadovui). Meras artimiausiame savivaldybės tarybos posėdyje privalo su šia informacija supažindinti savivaldybės tarybos narius.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
+
+6. Jeigu Laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo nustatytais atvejais į Vyriausybės atstovą kreipiasi Vyriausybės įgaliotinis, Vyriausybės atstovas, nustatęs, kad savivaldybės administravimo subjektų priimti teisės aktai neatitinka Konstitucijos, įstatymų ar Vyriausybės sprendimų, kreipiasi į teismą dėl šių teisės aktų panaikinimo.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
+
+7. Jeigu savivaldybės administravimo subjektai priėmė teisės aktus, kuriais remiantis gali būti sudaromi neteisėti ir viešąjį interesą pažeidžiantys sandoriai, arba jeigu savivaldybės administravimo subjektai priėmė teisės aktus, kurie gali pažeisti viešąjį interesą, Vyriausybės atstovas šio įstatymo 5 straipsnio 4 dalyje nustatyta tvarka gali savo potvarkiu sustabdyti tokių savivaldybės administravimo subjektų teisės aktų vykdymą ir sandorių pasirašymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
+
+8. Vyriausybės atstovas nenagrinėja fizinių ir juridinių asmenų skundų dėl savivaldybės administravimo subjektų priimamų individualių teisės aktų, kurių apskundimo specialią tvarką nustato konkrečią sritį reglamentuojantys įstatymai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
+
+9. Visais atvejais apie savivaldybės administravimo subjektui pateiktą teikimą ar reikalavimą Vyriausybės atstovas praneša merui (savivaldybės vadovui). Meras artimiausiame savivaldybės tarybos posėdyje privalo su šia informacija supažindinti savivaldybės tarybos narius.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
 
 5 straipsnis. Vyriausybės atstovo įgaliojimų įgyvendinimo tvarka
 
@@ -105,15 +131,25 @@ Straipsnio dalies pakeitimai:
 
 2) dalyvauti savivaldybės kolegialių administravimo subjektų posėdžiuose ir, kai yra pagrindas, pranešti savivaldybės tarybos nariams, kad svarstomi projektai neatitinka įstatymų ar Vyriausybės sprendimų.
 
-4. Nustatęs, kad savivaldybės administravimo subjektas priėmė teisės aktą, kuriuo remiantis gali būti sudarytas neteisėtas ir pažeidžiantis viešąjį interesą sandoris, Vyriausybės atstovas:
+4. Nustatęs, kad savivaldybės administravimo subjektas priėmė teisės aktą, kuriuo remiantis gali būti sudarytas neteisėtas ir pažeidžiantis viešąjį interesą sandoris, arba kad savivaldybės administravimo subjekto priimtas teisės aktas gali pažeisti viešąjį interesą, Vyriausybės atstovas:
 
-1) ne vėliau kaip per 2 darbo dienas po neteisėto teisės akto priėmimo savo potvarkiu sustabdo jo vykdymą;
+1) ne vėliau kaip per 2 darbo dienas po neteisėto ar galinčio pažeisti viešąjį interesą teisės akto priėmimo gali savo potvarkiu sustabdyti jo vykdymą;
 
 2) ne vėliau kaip per 2 darbo dienas nuo potvarkio priėmimo dienos atitinkamam savivaldybės administravimo subjektui motyvuotu teikimu pasiūlo svarstyti teisės akto pakeitimo ar panaikinimo klausimą;
 
-3) per 3 darbo dienas nuo pranešimo apie atsisakymą tenkinti teikimą gavimo dienos (jei savivaldybės administravimo subjektas, apsvarstęs Vyriausybės atstovo teikimą, atsisako pakeisti ar panaikinti teisės aktą, kuriuo remiantis gali būti sudarytas sandoris) kreipiasi į teismą su pareiškimu arba ieškiniu prašydamas teismo imtis pareiškimo arba ieškinio užtikrinimo priemonių.
+3) per 5 darbo dienas nuo pranešimo apie atsisakymą tenkinti teikimą gavimo dienos (jei savivaldybės administravimo subjektas, apsvarstęs Vyriausybės atstovo teikimą, atsisako pakeisti ar panaikinti teisės aktą) kreipiasi į teismą su pareiškimu arba ieškiniu prašydamas teismo imtis pareiškimo arba ieškinio užtikrinimo priemonių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
 
 5. Sustabdytas savivaldybės administravimo subjekto teisės aktas negali būti vykdomas, kol atitinkamos kompetencijos teismas nuspręs dėl pareiškimo ar ieškinio užtikrinimo priemonių.
+
+6. Manydamas, kad savivaldybės administravimo subjekto priimti teisės aktai ar veiksmai (neveikimas) pažeidžia viešąjį interesą, Vyriausybės atstovas, nepasinaudojęs ar negalėjęs pasinaudoti teisės akto sustabdymo teise, tokius teisės aktus ar veiksmus (neveikimą) skundžia teismui Administracinių bylų teisenos įstatymo nustatyta tvarka per vieną mėnesį nuo viešojo intereso pažeidimo paaiškėjimo dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
 
 6 straipsnis. Vyriausybės atstovo teisės
 
@@ -127,7 +163,11 @@ Straipsnio dalies pakeitimai:
 
 4) išnykus aplinkybėms, kurios buvo pagrindas sustabdyti, teikti pasiūlymą pakeisti ar panaikinti teisės aktą arba reikalauti, kad būtų neatidėliojant įgyvendinamas įstatymas, vykdomas Vyriausybės sprendimas, motyvuotu potvarkiu tokį pasiūlymą ar reikalavimą atšaukti, jei jie dar neįvykdyti;
 
-5) nustatyti kitą Vyriausybės atstovo nurodytų veiksmų įvykdymo terminą, jeigu gautas pagal kompetenciją savivaldybės administravimo subjekto prašymas šį terminą pratęsti;
+5) nustatyti kitą Vyriausybės atstovo nurodytų veiksmų įvykdymo terminą, jeigu gautas pagal kompetenciją savivaldybės administravimo subjekto motyvuotas prašymas šį terminą pratęsti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
 
 6) dalyvauti Vyriausybės posėdžiuose Vyriausybės darbo reglamento nustatyta tvarka, taip pat valstybės institucijų organizuojamuose renginiuose, kai svarstomi savivaldybių veiklos klausimai;
 
@@ -208,6 +248,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-684, 2006-06-13, Žin., 2006, Nr. 72-2696 (2006-06-28), i. k. 1061010ISTA000X-684
 
 Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo papildymo 3-1 straipsniu įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
+
+Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo 3, 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymas
 
 12 straipsnis. Vyriausybės atstovo atsakomybė
 
