@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2009-02-01"
+last_updated: "2009-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2009-02-01 iki 2009-05-31
+Suvestinė redakcija nuo 2009-06-01 iki 2009-07-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -72,7 +72,11 @@ BENDROSIOS NUOSTATOS
 
 15. Nepriklausomas tiekėjas – asmuo, tiekiantis elektros energiją laisviesiems vartotojams ir turintis atitinkamą licenciją vykdyti šią veiklą.
 
-16. Normatyvinis pelnas – paslaugos teikėjo grynasis pelnas iš licencijuojamos veiklos, kuris užtikrinamas kainos viršutinės ribos nustatymu, kad būtų patikimai, saugiai, kokybiškai, efektyviai, atsižvelgiant į tinklų naudotojų poreikius, vykdoma licencijuojama veikla bei užtikrinta pakankama ir teisinga pridėtinė vertė (grąža) asmenų, vykdančių perdavimo, skirstymo ir visuomeninio tiekimo veiklą, dalyviams.
+16. Normatyvinis pelnas – paslaugos teikėjo pelnas prieš apmokestinimą iš licencijuojamos veiklos, kuris užtikrinamas kainos viršutinės ribos nustatymu, kad būtų patikimai, saugiai, kokybiškai, efektyviai, atsižvelgiant į tinklų naudotojų poreikius, vykdoma licencijuojama veikla ir užtikrinta pakankama ir teisinga pridėtinė vertė (grąža) asmenų, vykdančių perdavimo, skirstymo ir visuomeninio tiekimo veiklą, dalyviams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
 
 17. Perdavimas – elektros energijos persiuntimas perdavimo tinklais.
 
@@ -164,15 +168,29 @@ Vyriausybė ar jos įgaliota institucija elektros energetikos sektoriuje:
 
 3) nustato viešuosius interesus atitinkančių paslaugų sąrašą;
 
-4) nustato elektros energijos tiekimo patikimumo ir paslaugų kokybės reikalavimus;
+4) nustato vartotojų įrenginių prijungimo prie tinklų ir aprūpinimo elektros energija atkūrimo trukmę;
 
-5) nustato vartotojų įrenginių prijungimo prie tinklų ir aprūpinimo elektros energija atkūrimo trukmę;
+Straipsnio punkto numeracijos pakeitimas:
 
-6) šio įstatymo nustatytais atvejais išduoda licencijas (leidimus) teikti elektros energetikos paslaugas;
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
 
-7) nustato visiems tiekėjams vienodas elektros energijos importo sąlygas;
+5) šio įstatymo nustatytais atvejais išduoda licencijas (leidimus) teikti elektros energetikos paslaugas;
 
-8) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
+
+6) nustato visiems tiekėjams vienodas elektros energijos importo sąlygas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
+
+7) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
 
 6 straipsnis. Valstybinės kainų ir energetikos kontrolės komisijos funkcijos elektros energetikos sektoriuje
 
@@ -190,7 +208,11 @@ Vyriausybė ar jos įgaliota institucija elektros energetikos sektoriuje:
 
 5) kad naujų elektros energijos gamintojų prijungimo sąlygos ir tarifai būtų objektyvūs, skaidrūs ir nediskriminuojantys atsižvelgiant į visas išlaidas ir naudą, kurią teikia įvairios atsinaujinančių energijos išteklių technologijos, paskirstyta gamyba ir šilumos bei elektros energijos gamyba vienu metu;
 
-6) skaidrumo ir konkurencijos laipsnį, tiekimo patikimumo ir paslaugų kokybės stebėseną (monitoringą).
+6) skaidrumo ir konkurencijos laipsnį.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
 
 3. Komisija metinėje ataskaitoje paskelbia priežiūros pagal šio straipsnio nuostatas rezultatus.
 
@@ -650,17 +672,31 @@ Elektros energijos rinka šalyje kuriama etapais, laipsniškai suteikiant reguli
 
 1) numatomos būtinos elektros energijos pirkimo, perdavimo, skirstymo, tiekimo, tarp jų elektros energijos sąnaudų padengimo, išlaidos, taip pat tinklų plėtros, atkūrimo bei tinklų priežiūros darbų, būtinų patikimai, saugiai, kokybiškai veiklai vykdyti, išlaidos, viešuosius interesus atitinkančių paslaugų teikimo išlaidos bei užtikrinamas normatyvinis pelnas;
 
-2) užtikrinamas paslaugos teikėjo licencijuojamai veiklai vykdyti rinkos sąlygomis skolinto kapitalo kaupimo ir naudojimo išlaidų padengimas neatsižvelgiant į paslaugos teikėjo kapitalo struktūrą ir kaupimo būdą. Paslaugos teikėjo kapitalo struktūra, nuosavas ir skolintas kapitalas, jų kaupimo ir naudojimo sąlygos nustatomi ir apskaičiuojami pagal paslaugos teikėjo finansinę atskaitomybę bei paslaugos teikėjo pateiktas kapitalo struktūros pokyčio prognozes;
+2) atsižvelgiama į paslaugos teikėjo licencijuojamoje veikloje naudojamo turto vertę, kurią įvertina ir patvirtina Komisija, remiantis Komisijos parengtais ir Vyriausybės patvirtintais paslaugos teikėjo licencijuojamoje veikloje naudojamo turto vertės nustatymo principais;
 
-3) atsižvelgiama į paslaugos teikėjo licencijuojamoje veikloje naudojamo turto vertę, kuri nustatoma pagal paslaugos teikėjo finansinę atskaitomybę;
+Straipsnio punkto pakeitimai:
 
-4) vadovaujamasi paslaugos teikėjo Pelno mokesčio įstatymo nustatyta tvarka nustatytomis ir su Komisija suderintomis turto nusidėvėjimo arba amortizacijos normomis;
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
 
-5) normatyvinio pelno norma, skaičiuojama nuo paslaugos teikėjo licencijuojamoje veikloje naudojamo turto vertės, kiekvienais reguliavimo periodo metais turi būti ne mažesnė kaip dešimties metų trukmės Vyriausybės vertybinių popierių aukcionų, įvykusių per praėjusius paskutinius 36 kalendorinius mėnesius, metinės palūkanų normos procentais aritmetinis svertinis vidurkis, padidintas 3 procentiniais punktais.
+3) vadovaujamasi paslaugos teikėjo Pelno mokesčio įstatymo nustatyta tvarka nustatytomis ir su Komisija suderintomis turto nusidėvėjimo arba amortizacijos normomis;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
+
+4) normatyvinio pelno norma, skaičiuojama nuo paslaugos teikėjo licencijuojamoje veikloje naudojamo turto vertės, kiekvienais reguliavimo periodo metais turi būti ne mažesnė kaip dešimties metų trukmės Vyriausybės vertybinių popierių aukcionų, įvykusių per praėjusius paskutinius 36 kalendorinius mėnesius, metinės palūkanų normos procentais aritmetinis svertinis vidurkis, bet ne didesnis kaip 5 procentai.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
 
 4. Visuomeninės elektros energijos kainos viršutinę ribą sudaro Komisijos nustatytos prognozuojamos gamintojų elektros energijos pardavimo kainos, perdavimo paslaugos, skirstymo paslaugos bei visuomeninio tiekimo paslaugos viršutinių kainų ribų suma. Pasikeitus šioms viršutinės visuomeninės elektros energijos kainos ribos sudedamosioms dalims, atitinkamai keičiama ir viršutinė visuomeninės elektros energijos kainos riba.
 
-5. Komisijos nustatytos viršutinės perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos perskaičiuojamos kas metai, jeigu pasikeitė parduotos ar persiųstos elektros energijos kiekio, metinio infliacijos dydžio, paslaugų teikėjo mokėtinų mokesčių, kitų nuo paslaugos teikėjo nepriklausančių veiksnių, turinčių įtakos viršutinių kainų ribų skaičiavimui, prognozės ar duomenys, kuriais vadovaujantis buvo nustatytos šios viršutinės kainų ribos.
+5. Komisijos nustatytos viršutinės perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos perskaičiuojamos kas metai, jeigu pasikeitė parduotos ar persiųstos elektros energijos kiekio, nustatytų elektros energijos persiuntimo patikimumo ir paslaugų kokybės rodiklių, metinio infliacijos dydžio, Komisijos nustatyto veiklos efektyvumo, įmonių įgyvendintų ir su Komisija suderintų investicijų, paslaugų teikėjo mokėtinų mokesčių, kitų nuo paslaugos teikėjo nepriklausančių veiksnių, turinčių įtakos viršutinių kainų ribų skaičiavimui, prognozės ar duomenys, kuriais vadovaujantis buvo nustatytos šios viršutinės kainų ribos arba buvo viršytas Komisijos nustatytas normatyvinis pelnas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
 
 6. Viršutinė perdavimo paslaugos kainos riba turi būti nustatyta ar perskaičiuota ne vėliau kaip likus trims mėnesiams, viršutinės skirstymo, visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainų ribos – ne vėliau kaip likus dviem mėnesiams iki reguliavimo periodo arba atitinkamų reguliavimo periodo metų pradžios.
 
@@ -672,7 +708,11 @@ Elektros energijos rinka šalyje kuriama etapais, laipsniškai suteikiant reguli
 
 3. Skirstymo paslaugos kaina bei visuomeninė elektros energijos kaina gali būti diferencijuojamos į tarifų rūšis pagal vartotojų kategorijas ar grupes, elektros energijos vartojimo laiką, sunaudotos elektros energijos kiekį, nustatytą galią, taip pat pagal kitus paslaugos teikėjo pasirinktus objektyvius požymius, kurie sudarytų galimybę nustatant skirtingas tarifų rūšis siekti didesnio veiklos efektyvumo. Nustatant bei diferencijuojant kainas ir tarifus, draudžiama diskriminuoti vartotojus.
 
-4. Paslaugos teikėjo nustatytas kainas ir tarifus per 30 kalendorinių dienų nuo paslaugos teikėjo prašymo gavimo dienos skelbia Komisija, prieš tai patikrinusi, ar nustatant kainas ir tarifus nediskriminuojami vartotojai.
+4. Paslaugos teikėjo nustatytas kainas ir tarifus per 30 kalendorinių dienų nuo paslaugos teikėjo prašymo gavimo dienos skelbia Komisija, prieš tai patikrinusi, ar nustatant kainas ir tarifus nebuvo pažeisti kainų ir tarifų nustatymo reikalavimai, ar nediskriminuojami vartotojai. Komisija, nustačiusi, kad paslaugos teikėjo pateiktos paslaugų kainos ir tarifai nustatyti nesilaikant kainų ir tarifų nustatymo reikalavimų arba yra diskriminuojami vartotojai, nurodo paslaugų teikėjui klaidas, kurias paslaugų teikėjas turi ištaisyti ir ne vėliau kaip per 10 kalendorinių dienų nuo Komisijos pastabų gavimo pateikti Komisijai pataisytas paslaugų kainas ir tarifus. Komisija ne vėliau kaip per 30 kalendorinių dienų nuo pataisytų paslaugų kainų ir tarifų pateikimo juos paskelbia arba, paslaugų teikėjui per nustatytą terminą neištaisius nurodytų klaidų, paslaugų kainas ir tarifus nustato vienašališkai ir juos paskelbia.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
 
 5. Gamintojų, kurių parduodamos elektros energijos ir rezervinės galios kainos yra reguliuojamos, elektros energijos pardavimo kaina ir perdavimo sistemos operatoriaus perdavimo paslaugos kainos ir tarifai įsigalioja praėjus dviem mėnesiams nuo jų paskelbimo. Skirstomųjų tinklų operatoriaus skirstymo paslaugos kainos bei tarifai ir visuomeninės elektros energijos kainos bei tarifai įsigalioja praėjus mėnesiui nuo jų paskelbimo.
 
@@ -720,7 +760,11 @@ APRŪPINIMO ELEKTROS ENERGIJA NUTRAUKIMAS IR RIBOJIMAS. TECHNINIAI IR SAUGUMO RE
 
 3. Vyriausybės įgaliota institucija kontroliuoja, kaip elektros energetikos sektoriuje laikomasi elektros įrenginių patikimumo, efektyvumo ir saugos reikalavimų.
 
-4. Vyriausybės įgaliota institucija kontroliuoja, kaip laikomasi elektros energijos tiekimo patikimumo ir paslaugų kokybės reikalavimų.
+4. Komisija nustato elektros energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimus, įmonių veiklos efektyvumo kriterijus ir kontroliuoja, kaip jų laikomasi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
 
 VIENUOLIKTASIS SKIRSNIS
 
@@ -823,4 +867,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-131, 2009-01-12, Žin., 2009, Nr. 10-353 (2009-01-27), i. k. 1091010ISTA00XI-131
 
 Lietuvos Respublikos elektros energetikos įstatymo 39 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
+
+Lietuvos Respublikos elektros energetikos įstatymo 2, 5, 6, 43, 44 ir 48 straipsnių pakeitimo įstatymas
 
