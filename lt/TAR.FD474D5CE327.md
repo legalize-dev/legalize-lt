@@ -4,7 +4,7 @@ identifier: "TAR.FD474D5CE327"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-18"
-last_updated: "2008-11-25"
+last_updated: "2009-06-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FD474D5CE327"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sodininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2008-11-25 iki 2009-06-05
+Suvestinė redakcija nuo 2009-06-06 iki 2010-01-04
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-40, i. k. 1031010ISTA0IX-1934
 
@@ -305,7 +305,11 @@ Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010IST
 
 6) vertinti bendrijos valdymo organo veiklą, tvirtinti metinę bendrijos ūkinės ir finansinės veiklos ataskaitą ir revizijos komisijos (revizoriaus) ar audito išvadas apie bendrijos finansinę veiklą;
 
-7) spręsti naujų narių priėmimo į bendriją, narių skatinimo, drausminimo ir šalinimo iš bendrijos klausimus;
+7) spręsti bendrijos narių šalinimo iš bendrijos klausimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
 
 8) nustatyti disponavimo bendrijos turtu ir lėšomis tvarką, spręsti lėšų skolinimosi bei pajamų paskirstymo klausimus;
 
@@ -329,41 +333,69 @@ Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010IST
 
 4. Bendrijos narių susirinkimo sprendimai priimami paprasta dalyvaujančių susirinkime narių balsų dauguma, jeigu šis Įstatymas nenustato kitaip.
 
-5. Sprendimas dėl nario pašalinimo iš bendrijos ir šio straipsnio 1 dalies 11, 12 ir 13 punktuose nurodyti narių susirinkimo sprendimai priimami kvalifikuota balsų dauguma, kurią nustato bendrijos įstatai ir kuri negali būti mažesnė kaip 2/3 visų susirinkime dalyvaujančių narių balsų.
-
-6. Balsavimas bendrijos narių susirinkime yra atviras. Slaptas balsavimas yra privalomas visiems nariams klausimais, dėl kurių nors vienas narys pageidauja slapto balsavimo ir tam pritaria ne mažiau kaip 1/10 susirinkime dalyvaujančių bendrijos narių.
-
-7. Bendrijos nariai dėl susirinkimuose svarstomų klausimų gali balsuoti iš anksto raštu bendrijos įstatų nustatyta tvarka. Raštu iš anksto balsavę nariai laikomi dalyvaujančiais narių susirinkime ir jų balsai įskaitomi į susirinkimo kvorumą bei balsavimo rezultatus.
+5. Bendrijos nariai dėl susirinkimuose svarstomų klausimų gali balsuoti iš anksto raštu bendrijos įstatų nustatyta tvarka. Raštu iš anksto balsavę nariai laikomi dalyvaujančiais narių susirinkime ir jų balsai įskaitomi į susirinkimo kvorumą bei balsavimo rezultatus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
+
 16 straipsnis. Susirinkimų šaukimo ir organizavimo tvarka
 
-1. Bendrijos narių susirinkimo (eilinio ir neeilinio) šaukimo iniciatyvos teisę turi bendrijos valdymo organas, 1/10 bendrijos narių ir revizijos komisija (revizorius). Jeigu valdymo organas per mėnesį nuo reikalavimo sušaukti bendrijos narių susirinkimą pateikimo dienos susirinkimo nesušaukia, jį gali sušaukti revizijos komisija (revizorius) arba daugiau kaip 1/10 bendrijos narių.
+1. Bendrijos narių susirinkimo (eilinio ir neeilinio) šaukimo iniciatyvos teisę turi bendrijos valdymo organas, 1/10 bendrijos narių ir revizijos komisija (revizorius).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
 
 2. Bendrijos narių susirinkimas šaukiamas bendrijos valdymo organo sprendimu.
 
 3. Bendrijos narių susirinkimo šaukimo iniciatoriai valdymo organui pateikia paraišką. Joje turi būti nurodytos bendrijos narių susirinkimo sušaukimo priežastys ir tikslai, iniciatorių atstovas, pateikti pasiūlymai dėl susirinkimo darbotvarkės, vietos ir datos, siūlomų sprendimų projektai. Bendrijos narių susirinkimas turi įvykti ne vėliau kaip per vieną mėnesį nuo paraiškos gavimo dienos. Apie šaukiamą bendrijos narių susirinkimą jo organizatorius turi ne vėliau kaip prieš 14 dienų iki susirinkimo dienos paskelbti skelbimų lentoje arba kitose gerai matomose vietose mėgėjiško sodo teritorijoje, nurodyti susirinkimo organizavimo vietą ir laiką ir kartu paskelbti susirinkimo darbotvarkę bei siūlomų sprendimų projektus arba nurodyti vietą, kur ir kokiu laiku galima susipažinti su sprendimų projektais. Jeigu susirinkimo darbotvarkėje numatyta rinkti ar atšaukti valdymo organą, pakeisti bendrijos įstatus, svarstyti lėšų skolinimosi, bendrijos reorganizavimo, pertvarkymo ir likvidavimo klausimus, apie bendrijos narių susirinkimo šaukimą kiekvienam bendrijos nariui turi būti pranešama raštu arba pasirašytinai, arba vietos laikraštyje (jeigu toks yra) ir viename iš pagrindinių Lietuvos Respublikos dienraščių.
 
-4. Jeigu bendrijos valdymo organas nepriėmė sprendimo sušaukti bendrijos narių susirinkimą per mėnesį nuo šio straipsnio 3 dalyje nurodytos paraiškos gavimo dienos, narių susirinkimas gali būti sušaukiamas daugiau kaip 1/10 bendrijos narių sprendimu.
+4. Jeigu bendrijos valdymo organas nepriėmė sprendimo sušaukti bendrijos narių susirinkimą per mėnesį nuo šio straipsnio 3 dalyje nurodytos paraiškos gavimo dienos, narių susirinkimas gali būti sušaukiamas daugiau kaip 1/10 bendrijos narių, revizijos komisijos (revizoriaus) sprendimu.
 
-5. Eilinis bendrijos narių susirinkimas turi būti šaukiamas kasmet ne vėliau kaip per 3 mėnesius po finansinių metų pabaigos, o neeiliniai – prireikus. Kiekviename bendrijos narių susirinkime išrenkamas susirinkimo pirmininkas ir sekretorius.
+Straipsnio dalies pakeitimai:
 
-6. Bendrijos valdymo organas pagal iniciatorių paraišką per nustatytą vieno mėnesio terminą neprivalo sušaukti bendrijos narių susirinkimo, jei nėra praėję 3 mėnesiai po finansinių metų pabaigos, jei iniciatorių siūlomi klausimai nepriskirti spręsti narių susirinkimo kompetencijai, nurodytai šio įstatymo 15 straipsnyje, jei paraiška paduota nesilaikant šio straipsnio 3 dalies reikalavimų. Šiais atvejais bendrijos valdymo organas atsisakymą sušaukti narių susirinkimą turi motyvuoti ir pranešti iniciatorių nurodytam atstovui.
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
+
+5. Eilinis bendrijos narių susirinkimas turi būti šaukiamas kiekvienais metais ne vėliau kaip per 4 mėnesius po finansinių metų pabaigos, o neeiliniai – prireikus. Kiekviename bendrijos narių susirinkime išrenkamas susirinkimo pirmininkas ir sekretorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
+
+6. Bendrijos valdymo organas pagal iniciatorių paraišką per nustatytą vieno mėnesio terminą neprivalo sušaukti bendrijos narių susirinkimo, jei nėra praėję 4 mėnesiai po finansinių metų pabaigos, jei iniciatorių siūlomi klausimai nepriskirti spręsti narių susirinkimo kompetencijai, nurodytai šio įstatymo 15 straipsnyje, jei paraiška paduota nesilaikant šio straipsnio 3 dalies reikalavimų. Šiais atvejais bendrijos valdymo organas atsisakymą sušaukti narių susirinkimą turi motyvuoti ir pranešti iniciatorių nurodytam atstovui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
 
 7. Bendrijos narių susirinkime bendrijos nariai dalyvauja patys ar per įgaliotą asmenį. Bendrijos narių susirinkime kiekvienas bendrijos narys turi po vieną balsą.
 
 8. Bendrijos nariai sprendimus gali priimti ir nesušaukę susirinkimo, bet jie turi raštu pareikšti nuomonę apie savo sprendimą bendrijos įstatų nustatyta tvarka.
 
-9. Bendrijos narių susirinkime dalyvaujantys bendrijos nariai registruojami pasirašytinai susirinkimo dalyvių sąraše. Už bendrijos narį, atstovaujamą įgalioto asmens pagal šio straipsnio 7 ir 12 dalis, pasirašo įgaliotas asmuo. Susirinkimo dalyvių sąrašą pasirašo bendrijos narių susirinkimo pirmininkas ir sekretorius. Bendrijos nariai dėl susirinkimuose svarstomų klausimų gali iš anksto pareikšti savo nuomonę raštu bendrijos įstatų nustatyta tvarka. Susirinkimo dalyvių sąraše turi būti nurodyti nariai, iš anksto pareiškę nuomonę raštu.
+9. Bendrijos narių susirinkime dalyvaujantys bendrijos nariai registruojami pasirašytinai susirinkimo dalyvių sąraše. Už bendrijos narį, atstovaujamą įgalioto asmens pagal šio straipsnio 7 ir 16 dalis, pasirašo įgaliotas asmuo. Susirinkimo dalyvių sąrašą pasirašo bendrijos narių susirinkimo pirmininkas ir sekretorius. Bendrijos nariai dėl susirinkimuose svarstomų klausimų gali iš anksto pareikšti savo nuomonę raštu bendrijos įstatų nustatyta tvarka. Susirinkimo dalyvių sąraše turi būti nurodyti nariai, iš anksto pareiškę nuomonę raštu.
 
-10. Bendrijos narių susirinkimas gali priimti sprendimus ir yra laikomas įvykusiu, kai jame dalyvauja daugiau kaip 1/2 bendrijos narių. Jeigu kvorumo nėra, bendrijos narių susirinkimas laikomas neįvykusiu ir ne anksčiau kaip po dviejų savaičių gali būti sušauktas pakartotinis bendrijos narių susirinkimas, turintis teisę priimti sprendimus pagal neįvykusio susirinkimo darbotvarkę. Šis susirinkimas yra teisėtas, kai jame dalyvauja daugiau kaip 1/4 bendrijos narių, jeigu bendrijos įstatuose nenumatyta kitaip. Į dalyvaujančių bendrijos susirinkime narių skaičių įskaičiuojami ir tie nariai, kurie iš anksto yra pareiškę savo nuomonę raštu.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
+
+10. Bendrijos narių susirinkimas gali priimti sprendimus ir yra laikomas įvykusiu, kai jame dalyvauja daugiau kaip 1/2 bendrijos narių. Jeigu kvorumo nėra, bendrijos narių susirinkimas laikomas neįvykusiu ir ne anksčiau kaip po 14 dienų gali būti sušauktas pakartotinis bendrijos narių susirinkimas, turintis teisę priimti sprendimus pagal neįvykusio susirinkimo darbotvarkę. Sprendimai pakartotiniame susirinkime priimami paprasta ar šio straipsnio 12 dalyje nustatytais atvejais – kvalifikuota bendrijos narių balsų dauguma. Į dalyvaujančių bendrijos susirinkime narių skaičių įskaičiuojami ir tie nariai, kurie iš anksto yra pareiškę savo nuomonę raštu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
 
 11. Bendrijos narių susirinkimo sprendimai yra teisėti, kai už juos balsuoja daugiau kaip 1/2 susirinkime dalyvaujančių bendrijos narių, išskyrus šio straipsnio 12 dalyje numatytus atvejus.
 
-12. Bendrijos narių susirinkimo sprendimai dėl bendrijos įstatų pakeitimo, dėl valdymo organo arba kolegialaus valdymo organo narių rinkimo ar atšaukimo, dėl lėšų skolinimosi, dėl bendrijos reorganizavimo, pertvarkymo ar likvidavimo yra teisėti, jei už juos balsuoja daugiau kaip 1/2 bendrijos narių.
+12. Bendrijos narių susirinkimo sprendimai dėl nario pašalinimo iš bendrijos, dėl bendrijos įstatų pakeitimo, dėl valdymo organo arba kolegialaus valdymo organo narių rinkimo ar atšaukimo, dėl bendrijos reorganizavimo, pertvarkymo ar likvidavimo priimami kvalifikuota balsų dauguma, kurią nustato bendrijos įstatai ir kuri negali būti mažesnė kaip 2/3 visų susirinkime dalyvaujančių narių balsų. Bendrijos narių susirinkimo sprendimai dėl lėšų skolinimosi, taip pat kai sprendimai priimami raštu nesušaukus susirinkimo, yra teisėti, jei už juos balsuoja daugiau kaip 1/2 bendrijos narių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
 
 13. Balsavimas bendrijos narių susirinkime yra atviras. Slaptas balsavimas yra privalomas klausimais, dėl kurių nors vienas bendrijos narys ar jo įgaliotas asmuo pageidauja slapto balsavimo ir tam pritaria daugiau kaip 1/10 susirinkime dalyvaujančių bendrijos narių. Slaptas balsavimas organizuojamas ir vyksta bendrijos įstatų nustatyta tvarka.
 
@@ -419,7 +451,17 @@ Straipsnio punkto pakeitimai:
 
 Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
-8) atlieka kitas šio Įstatymo ir kitų įstatymų bei kitų teisės aktų, taip pat bendrijos įstatų nustatytas pareigas.
+8) sprendžia naujų narių priėmimo į bendriją, narių skatinimo, drausminimo klausimus;
+
+Papildyta straipsnio punktu:
+
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
+
+9) atlieka kitas šio Įstatymo ir kitų įstatymų bei kitų teisės aktų, taip pat bendrijos įstatų nustatytas pareigas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
 
 3. Bendrijos valdymo organas nagrinėja bendrijos narių pareiškimus, prašymus bei skundus ir per vieną mėnesį pateikia atsakymą.
 
@@ -684,4 +726,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 
 Lietuvos Respublikos sodininkų bendrijų įstatymo 2, 6, 7, 8, 12, 14, 15, 16, 17, 18, 20, 21, 27, 28 straipsnių pakeitimo ir papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
+
+Lietuvos Respublikos sodininkų bendrijų įstatymo 15, 16, 18 straipsnių pakeitimo ir papildymo įstatymas
 
