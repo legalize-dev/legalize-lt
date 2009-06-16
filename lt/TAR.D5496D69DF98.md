@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2009-03-05"
+last_updated: "2009-06-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -2259,6 +2259,42 @@ negali būti perduodamas kitiems juridiniams ar fiziniams asmenims ar kitaip
 
 susiejamas su turtu jungtinės veiklos sutarties pagrindu.
 
+6. Valstybės kilnojamasis ir
+
+nekilnojamasis materialusis turtas, įsigytas vykdant Lietuvos Respublikos
+
+įsipareigojimus, atsirandančius dėl Lietuvos Respublikos narystės Šiaurės
+
+Atlanto Sutarties Organizacijoje, Europos Sąjungoje, Jungtinių Tautų
+
+Organizacijoje, arba skirtas vykdyti iš tarptautinių sutarčių atsirandantiems
+
+įsipareigojimams, kolektyvinės gynybos operacijoms, karinėms operacijoms,
+
+tarptautinėms karinėms pratyboms ar karinio bendradarbiavimo renginiams,
+
+civilinėms misijoms, vystomojo bendradarbiavimo projektams arba humanitarinei
+
+pagalbai teikti, gali būti neatlygintinai perduodamas ar parduodamas
+
+tarptautinėms organizacijoms, kitų valstybių valstybinėms ar savivaldybių
+
+institucijoms, kitų valstybių viešiesiems juridiniams ar fiziniams asmenims,
+
+jei toks neatlygintinas perdavimas ar pardavimas atitinka Lietuvos Respublikos
+
+tarptautinius įsipareigojimus arba Seimo patvirtintą Nacionalinio saugumo
+
+strategiją. Sprendimą dėl šioje dalyje nurodyto turto neatlygintino perdavimo
+
+arba pardavimo priima Vyriausybė. Vyriausybės sprendime turi būti nurodyta
+
+valstybės institucija ar įstaiga, įgaliota sudaryti turto perdavimo arba
+
+pardavimo sandorį, perduodamas arba parduodamas turtas, jo naudojimo sąlygos ir
+
+tvarka bei už turto perdavimo kontrolę atsakinga institucija.
+
 Straipsnio pakeitimai:
 
 Nr. IX-1548, 2003-04-29, Žin., 2003, Nr. 47-2065 (2003-05-14)
@@ -2268,6 +2304,12 @@ Nr.
 X-771,
 
 2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
+
+Nr.
+
+XI-279,
+
+2009-06-02, Žin., 2009, Nr. 71-2891 (2009-06-16)
 
 18
 
@@ -2409,21 +2451,21 @@ joms kartu suteikia daugiau kaip 50 procentų balsų.
 
 įsigydama investicinio fondo investicinių vienetų, jeigu:
 
-1) investicinio fondo investavimo strategija,
+1) investicinio fondo investavimo
 
-investicijų apribojimai, specializacija geografinėje zonoje arba ūkio šakoje
+strategija, investicijų apribojimai, specializacija geografinėje zonoje arba
 
-atitinka valstybės mažų ir vidutinių įmonių plėtros skatinimo politikos tikslus
+ūkio šakoje atitinka valstybės mažų ir vidutinių įmonių plėtros skatinimo
 
-ir kryptis;
+politikos tikslus ir kryptis;
 
 2) investicinis fondas yra uždaro tipo;
 
-3) investicinio fondo sudarymo dokumentuose
+3) investicinio fondo sudarymo
 
-įtvirtintos sąlygos, kad investuotojai  atstovauja savo interesams priimant
+dokumentuose įtvirtintos sąlygos, kad investuotojai  atstovauja savo interesams
 
-sprendimus;
+priimant sprendimus;
 
 4) investicinio fondo sudarymo
 
@@ -2715,9 +2757,9 @@ pripažįstamas nereikalingu arba netinkamu (negalimu) naudoti, kai:
 
 nusidėvi;
 
-2) jis
+2) jis funkciškai
 
-funkciškai (technologiškai) nusidėvi;
+(technologiškai) nusidėvi;
 
 3) jis
 
@@ -2747,9 +2789,11 @@ finansinį turtą (gautinas lėšas);
 
 statyti naujus statinius arba rekonstruoti esamus statinius ar teritorijas. Ši
 
-nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus nekilnojamąsias kultūros
+nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus nekilnojamąsias
 
-vertybes, nustatyta tvarka suderinus naujos statybos ar rekonstravimo projektą;
+kultūros vertybes, nustatyta tvarka suderinus naujos statybos ar rekonstravimo
+
+projektą;
 
 8) jis
 
@@ -2835,13 +2879,13 @@ punkte nurodytą atvejį, galima šiais būdais:
 
 straipsnyje nustatytais atvejais ir tvarka;
 
-4) parduodant viešuose prekių
+4) parduodant viešuose prekių aukcionuose
 
-aukcionuose (išskyrus nekilnojamuosius daiktus bei Lietuvos Respublikos
+(išskyrus nekilnojamuosius daiktus bei Lietuvos Respublikos diplomatinių
 
-diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių
+atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių organizacijų
 
-organizacijų valdomą turtą) Vyriausybės nustatyta tvarka;
+valdomą turtą) Vyriausybės nustatyta tvarka;
 
 5) nekilnojamuosius daiktus parduodant
 
@@ -2857,7 +2901,13 @@ nustatyta tvarka;
 
 7) perduodant valstybės ar savivaldybių
 
-nuosavybėn šio Įstatymo 6 ir 17 straipsniuose nustatytais atvejais ir tvarka;
+nuosavybėn šio Įstatymo 6 ir 17 straipsniuose nustatytais atvejais ir
+
+tvarka ar perduodant kitų šio Įstatymo 17 straipsnio 6 dalyje nurodytų subjektų
+
+nuosavybėn, jei tai atitinka Lietuvos Respublikos tarptautinius įsipareigojimus
+
+arba Seimo patvirtintą Nacionalinio saugumo strategiją;
 
 8) gyvūnus parduodant ar perleidžiant
 
@@ -2949,9 +2999,9 @@ atskaičius jo saugojimo ir pardavimo išlaidas, gautos lėšos skiriamos:
 
 valdo valstybės ar savivaldybių institucijos, įstaigos ir organizacijos, – 50
 
-procentų atitinkamai į valstybės ar savivaldybės biudžetą ir 50 procentų institucijoms,
+procentų atitinkamai į valstybės ar savivaldybės biudžetą ir 50 procentų
 
-įstaigoms ir organizacijoms.
+institucijoms, įstaigoms ir organizacijoms.
 
 Straipsnio
 
@@ -2962,6 +3012,12 @@ Nr.
 X-771,
 
 2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
+
+Nr.
+
+XI-279,
+
+2009-06-02, Žin., 2009, Nr. 71-2891 (2009-06-16)
 
 25 straipsnis. Įstatymo taikymas
 
@@ -3145,9 +3201,9 @@ juridiniuose asmenyse įgyvendinamos Vyriausybės nustatyta tvarka.
 
 Nr.
 
-X-771, 2006-07-18,
+X-771,
 
-Žin., 2006, Nr. 87-3397 (2006-08-08)
+2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
 
 20
 
@@ -3509,9 +3565,9 @@ Valstybės
 
 ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15
 
-straipsnio 5 dalies pakeitimas įsigalioja nuo 2008 m. sausio 1 d.; įstatymo papildymas 161 straipsniu įsigalioja nuo
+straipsnio 5 dalies pakeitimas įsigalioja nuo 2008 m. sausio 1 d.; įstatymo papildymas 161 straipsniu įsigalioja
 
-2007 m. sausio 1 d.
+nuo 2007 m. sausio 1 d.
 
 15.
 
@@ -3573,6 +3629,22 @@ IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 16(1)
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+19.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-279,
+
+2009-06-02, Žin., 2009, Nr. 71-2891 (2009-06-16)
+
+VALSTYBĖS
+
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 17, 23
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Konstitucinio Teismo nutarimai:
@@ -3587,19 +3659,21 @@ Respublikos Konstitucinis Teismas, Nutarimas
 
 Žin., 2009, Nr. 25-988 (2009-03-05)
 
-DĖL LIETUVOS
+DĖL
 
-RESPUBLIKOS ATOMINĖS ELEKTRINĖS ĮSTATYMO 10 STRAIPSNIO 1 DALIES (2008 M.
+LIETUVOS RESPUBLIKOS ATOMINĖS ELEKTRINĖS ĮSTATYMO 10 STRAIPSNIO 1 DALIES (2008
 
-VASARIO 1 D. REDAKCIJA) NUOSTATŲ IR 11 STRAIPSNIO (2008 M. VASARIO 1 D.
+M. VASARIO 1 D. REDAKCIJA) NUOSTATŲ IR 11 STRAIPSNIO (2008 M. VASARIO 1 D.
 
 REDAKCIJA) 1 DALIES 1 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
-*** Pabaiga ***
+***
 
-Redagavo Aušrinė Trapinskienė
+Pabaiga ***
 
-(2009-03-09)
+Redagavo
+
+Aušrinė Trapinskienė (2009-06-16)
 
 autrap@lrs.lt
 
