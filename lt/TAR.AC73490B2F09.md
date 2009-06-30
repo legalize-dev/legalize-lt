@@ -4,7 +4,7 @@ identifier: "TAR.AC73490B2F09"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-26"
-last_updated: "2008-11-29"
+last_updated: "2009-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AC73490B2F09"
 department: "Lietuvos Respublikos Seimas"
@@ -491,11 +491,9 @@ savanoriškojo socialinio draudimo ligos ir motinystės pašalpoms;
 
 4) nedarbo
 
-socialiniam draudimui – gautos nedarbo socialinio draudimo įmokos, pervedamos
+socialiniam draudimui – Fondo biudžeto išlaidos nedarbo socialinio draudimo
 
-Užimtumo fondui (nuo 2010 m. sausio 1 d. – Lietuvos darbo biržai prie
-
-Socialinės apsaugos ir darbo ministerijos);
+išmokoms ir išlaidoms, numatytoms Nedarbo socialinio draudimo įstatyme;
 
 5) nelaimingų
 
@@ -560,6 +558,12 @@ išlaidos išmokoms, kurioms taikomos tarptautinės sutartys ar Europos Sąjungo
 reglamentai dėl socialinės apsaugos, priskiriamos Fondo išlaidoms atskiroms
 
 socialinio draudimo rūšims pagal šių išmokų pobūdį.
+
+Straipsnio pakeitimai:
+
+Nr. XI-308,
+
+2009-06-18, Žin., 2009, Nr. 77-3172 (2009-06-30)
 
 6
 
@@ -639,9 +643,9 @@ straipsnis. Fondo biudžeto piniginės įplaukos ir išlaidos
 
 biudžeto piniginių įplaukų ir išlaidų straipsnyje parodomos šio biudžeto
 
-faktiškai gautos pinigų įplaukos ir faktinės išlaidos atitinkamais
+faktiškai gautos pinigų įplaukos ir faktinės išlaidos atitinkamais biudžetiniais
 
-biudžetiniais metais.
+metais.
 
 2. Fondo
 
@@ -799,9 +803,9 @@ metų pabaigos pateikia jį Seimui. Kartu su Fondo biudžeto rodiklių patvirtin
 
 dvejų biudžetinių metų numatomų Fondo rodiklių prognozė, Fondo tarybos išvada,
 
-draudėjų ir apdraustųjų įmokų tarifų atskiroms socialinio draudimo rūšims
+draudėjų ir apdraustųjų įmokų tarifų atskiroms socialinio draudimo rūšims dydžių
 
-dydžių pagrindimas ir kiti būtini dokumentai.
+pagrindimas ir kiti būtini dokumentai.
 
 10
 
@@ -977,15 +981,15 @@ biudžeto projekto parengimą ir Fondo biudžeto vykdymą yra atsakinga Fondo
 
 valdyba. Metinis Fondo biudžetas baigiamas vykdyti gruodžio 31 dieną.
 
-2. Jeigu, vykdant einamųjų biudžetinių metų Fondo biudžetą,
+2. Jeigu, vykdant einamųjų biudžetinių metų Fondo
 
-Fondo administravimo įstaigų sąskaitose esamų lėšų dalis, netrikdant Fondo
+biudžetą, Fondo administravimo įstaigų sąskaitose esamų lėšų dalis, netrikdant
 
-įsipareigojimų apdraustiesiems vykdymo, gali būti panaudota papildomoms Fondo
+Fondo įsipareigojimų apdraustiesiems vykdymo, gali būti panaudota papildomoms
 
-pajamoms tais metais gauti, tai šios lėšos Fondo valdybos nustatyta ir su Fondo
+Fondo pajamoms tais metais gauti, tai šios lėšos Fondo valdybos nustatyta ir su
 
-taryba suderinta tvarka investuojamos. Papildomai dėl investavimo gautos
+Fondo taryba suderinta tvarka investuojamos. Papildomai dėl investavimo gautos
 
 pajamos įtraukiamos į apskaitą kaip biudžetinių metų Fondo veiklos ir iš į
 
@@ -1073,7 +1077,9 @@ straipsnis. Įstatymo įsigaliojimas
 
 įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai
 
-privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
+privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1
+
+dieną.
 
 Skelbiu šį
 
@@ -1107,13 +1113,27 @@ PAKEITIMO ĮSTATYMAS
 
 Nauja įstatymo redakcija
 
-***
+2.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2008-12-02)
+Nr. XI-308,
+
+2009-06-18, Žin., 2009, Nr. 77-3172 (2009-06-30)
+
+VALSTYBINIO
+
+SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2009-07-10)
 
 autrap@lrs.lt
 
