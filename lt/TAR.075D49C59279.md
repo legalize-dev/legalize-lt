@@ -4,7 +4,7 @@ identifier: "TAR.075D49C59279"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-07-25"
-last_updated: "2007-05-29"
+last_updated: "2009-07-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.075D49C59279"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -2295,23 +2295,31 @@ straipsnis. Žemės reformos žemėtvarkos projektų sudarymas ir žemės servit
 
 nustatymas
 
-1. Žemės
+1.
 
-reformai reikalingi žemės reformos žemėtvarkos projektai rengiami ir tvirtinami
+Žemės reformai reikalingi žemės reformos žemėtvarkos projektai rengiami ir
 
-Vyriausybės nustatyta tvarka pagal Žemėtvarkos ir teisės departamento prie
+tvirtinami Vyriausybės nustatyta tvarka pagal žemės ūkio ministro patvirtintą
 
-Žemės ūkio ministerijos patvirtintą metodiką.
+metodiką.
 
-2. Žemės
+2.
 
-reformos žemėtvarkos projektai rengiami valstybės lėšomis, o įgyvendinami
+Žemės reformos žemėtvarkos projektai, kuriuose projektuojami žemės sklypai
 
-valstybės lėšomis arba fizinių ir juridinių asmenų lėšomis, jeigu jie sutinka.
+piliečių nuosavybės teisėms atkurti ir naudojami asmeninio ūkio žemės sklypai,
 
-Fizinių ir juridinių asmenų lėšomis atliekamus žemės reformos žemėtvarkos
+rengiami ir įgyvendinami valstybės lėšomis, o kitais atvejais – fizinių ir
 
-projektų įgyvendinimo darbus, jų apmokėjimo tvarką ir atvejus nustato
+juridinių asmenų lėšomis. Žemės reformos žemėtvarkos projektai, kuriuose
+
+suprojektuoti žemės sklypai piliečių nuosavybės teisėms atkurti ir naudojami
+
+asmeninio ūkio žemės sklypai, fizinių asmenų pageidavimu gali būti įgyvendinami
+
+jų lėšomis. Fizinių ir juridinių asmenų lėšomis atliekamų žemės reformos
+
+žemėtvarkos projektų rengimo ir įgyvendinimo darbų apmokėjimo tvarką nustato
 
 Vyriausybė.
 
@@ -2351,7 +2359,9 @@ nuosavybėn neatlygintinai, parduoti ar kitaip įsigyti naudojimuisi žemės
 
 sklypai turi būti racionalių ribų, kurios derinamos prie vietovės situacijos
 
-kontūrų ir turi sudaryti palankias sąlygas žemės sklypo naudojimui pagal paskirtį.
+kontūrų ir turi sudaryti palankias sąlygas žemės sklypo naudojimui pagal
+
+paskirtį.
 
 7. Žemės
 
@@ -2373,15 +2383,13 @@ neatlygintinai, pardavimo ir nuomos, jame nurodo žemės servitutus ir jų
 
 naudojimo sąlygas.
 
-10. Žemės
+10. Žemės reformos žemėtvarkos projektų valstybinę
 
-reformos žemėtvarkos projektų valstybinę ekspertizę atlieka Žemės ūkio
+ekspertizę atlieka Žemės ūkio ministerijos įgaliota institucija. Žemės reformos
 
-ministerijos įgaliota institucija. Žemės reformos žemėtvarkos projektų
+žemėtvarkos projektų valstybinės ekspertizės atlikimo atvejus, tvarką ir turinį
 
-valstybinės ekspertizės atlikimo atvejus, tvarką ir turinį nustato Žemės ūkio
-
-ir Aplinkos ministerijos.
+nustato Žemės ūkio ministerija.
 
 Straipsnio
 
@@ -2400,6 +2408,10 @@ Nr.
 IX-1171,
 
 2002-11-05, Žin., 2002, Nr. 112-4975 (2002-11-22)
+
+Nr. XI-312, 2009-06-22, Žin., 2009, Nr. 81-3358
+
+(2009-07-09)
 
 20
 
@@ -2547,9 +2559,7 @@ kituose teritorijų planavimo dokumentuose suprojektuoti žemės sklypai, numato
 
 įsigyti nuosavybėn ar naudojimuisi, vietovėje ženklinami, matuojami ir jų
 
-plotai apskaičiuojami pagal Vyriausybės įgaliotos institucijos patvirtintą
-
-metodiką.
+plotai apskaičiuojami pagal Vyriausybės įgaliotos institucijos patvirtintą metodiką.
 
 2. Žemės
 
@@ -2867,9 +2877,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1170,
+Nr. IX-1170, 2002-11-05,
 
-2002-11-05, Žin., 2002, Nr. 112-4974 (2002-11-22)
+Žin., 2002, Nr. 112-4974 (2002-11-22)
 
 ŽEMĖS
 
@@ -3005,6 +3015,20 @@ REFORMOS ĮSTATYMO 7 STRAIPSNIO 1 DALIES 1 PUNKTO PRIPAŽINIMO NETEKUSIU GALIOS
 
 ĮSTATYMAS
 
+24.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-312, 2009-06-22, Žin., 2009, Nr. 81-3358 (2009-07-09)
+
+ŽEMĖS
+
+REFORMOS ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -3035,9 +3059,9 @@ M. LAPKRIČIO 5 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2007-05-29)
+Aušrinė Trapinskienė (2009-07-09)
 
 autrap@lrs.lt
 
