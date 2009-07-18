@@ -4,7 +4,7 @@ identifier: "TAR.55B9E4E382B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-04-10"
-last_updated: "2008-04-19"
+last_updated: "2009-07-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55B9E4E382B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -1184,9 +1184,21 @@ Respublikos Seime – Seimo kancleris;
 
 institucijoje – Respublikos Prezidento kanceliarijos kancleris;
 
+2
+
+dalies 3 punkto redakcija iki 2009 m. rugsėjo 15 d.:
+
 3) Lietuvos
 
 Respublikos Vyriausybėje – Vyriausybės kancleris;
+
+2
+
+dalies 3 punkto redakcija iki 2009 m. rugsėjo 15 d.:
+
+3) Lietuvos
+
+Respublikos Vyriausybėje – Ministro Pirmininko kancleris;
 
 4) Lietuvos Respublikos Konstituciniame Teisme, Lietuvos
 
@@ -1205,6 +1217,12 @@ atstovybėse, konsulinėse įstaigose ir specialiosiose misijose – jų vadovai
 Lietuvos Respublikos Vyriausybės įgaliotos institucijos, vadovaudamosi šiuo
 
 įstatymu ir kitais norminiais teisės aktais.
+
+Punkto pakeitimai:
+
+Nr. XI-324,
+
+2009-07-07, Žin., 2009, Nr. 85-3581 (2009-07-18)
 
 16
 
@@ -1300,9 +1318,9 @@ Valstybės
 
 įstaigų blankams ir leidimams
 
-V. Lietuvos
+V. Lietuvos valstybės
 
-valstybės herbo adaptacija
+herbo adaptacija
 
 be skydo
 
@@ -1422,13 +1440,29 @@ Nauja
 
 įstatymo redakcija
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-324,
+
+2009-07-07, Žin., 2009, Nr. 85-3581 (2009-07-18)
+
+VALSTYBĖS
+
+HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-04-22)
+Vilija Tamaliūnienė (2009-07-20)
 
-autrap@lrs.lt
+vitama@lrs.lt
 
