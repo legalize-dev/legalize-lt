@@ -1,0 +1,45 @@
+---
+title: "Lietuvos Respublikos švietimo įstatymo 56 straipsnio pakeitimo įstatymas"
+identifier: "TAR.41AEF0AAE2E7"
+country: "lt"
+rank: "istatymas"
+publication_date: "2009-07-21"
+last_updated: "2009-07-21"
+status: "in_force"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.41AEF0AAE2E7"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "1091010ISTA00XI-382"
+document_number: "XI-382"
+published_in_tar: "2009-07-21"
+document_status: "registruotas TA registre"
+---
+# Lietuvos Respublikos švietimo įstatymo 56 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 56 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 56 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2009 m. liepos 21 d. Nr. XI-382
+
+Vilnius
+
+(Žin., 1991, Nr. 23-593; 2003, Nr. 63-2853; 2004, Nr. 103-3755; 2007, Nr. 43-1628)
+
+1 straipsnis. 56 straipsnio 8 punkto pakeitimas
+
+Pakeisti 56 straipsnio 8 punktą ir jį išdėstyti taip:
+
+„8) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka steigti ir tvarkyti Studijų, mokymo programų ir kvalifikacijų registrą, Kvalifikacijos tobulinimo programų ir renginių, taip pat švietimo ir mokslo institucijų, licencijų, išsilavinimo pažymėjimų blankų, diplomų, atestatų ir kvalifikacijos pažymėjimų, mokinių, studentų, pedagogų registrus ir valstybės švietimo kompiuterizuotąsias informacines sistemas;“.
+
+2 straipsnis. 75 straipsnio papildymas 5 dalimi
+
+Papildyti 75 straipsnį 5 dalimi ir ją išdėstyti taip:
+
+„5. Vyriausybė ar jos įgaliotos institucijos šio įstatymo 56 straipsnio 8 punkto nuostatoms įgyvendinti reikalingus teisės aktus priima iki 2010 m. sausio 1 d.“
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+_________________
+
