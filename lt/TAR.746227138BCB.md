@@ -4,7 +4,7 @@ identifier: "TAR.746227138BCB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-01"
-last_updated: "2008-11-15"
+last_updated: "2009-07-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.746227138BCB"
 department: "Lietuvos Respublikos Seimas"
@@ -265,11 +265,7 @@ Nr. X-1631,
 
 straipsnis. Švietimo įstaigų, mokslo ir studijų institucijų pareiga įgyvendinti
 
-moterų ir
-
-vyrų
-
-lygias teises
+moterų ir vyrų lygias teises
 
 1. Švietimo ir mokslo įstaigos
 
@@ -353,9 +349,7 @@ Nr. X-1380,
 
 5(1) straipsnis. Moterų ir vyrų lygių
 
-galimybių įgyvendinimas vartotojų teisių apsaugos
-
-srityje
+galimybių įgyvendinimas vartotojų teisių apsaugos srityje
 
 Prekių pardavėjas, gamintojas ar paslaugų teikėjas, įgyvendindamas
 
@@ -519,9 +513,9 @@ jeigu dėl asmens lyties:
 
 sąlygos priimant mokytis ar studijuoti, rengiant mokymo ir studijų programas,
 
-vertinant žinias, keliant kvalifikaciją, ugdant profesinius įgūdžius ar suteikiant
+vertinant žinias, keliant kvalifikaciją, ugdant profesinius įgūdžius ar
 
-praktinę darbo patirtį;
+suteikiant praktinę darbo patirtį;
 
 2) nustatomos skirtingos dėstomų dalykų
 
@@ -535,11 +529,7 @@ Nr. X-1380,
 
 7(1) straipsnis. Moterų ir vyrų lygias
 
-teises pažeidžiantys prekių pardavėjo, gamintojo ar
-
-paslaugų
-
-teikėjo veiksmai
+teises pažeidžiantys prekių pardavėjo, gamintojo ar paslaugų teikėjo veiksmai
 
 Prekių pardavėjo, gamintojo ar paslaugų
 
@@ -665,13 +655,19 @@ seksualinio priekabiavimo ir teikia su tuo susijusias objektyvias ir nešališka
 
 konsultacijas.
 
-2. Lygių galimybių kontrolierius teikia
+2. Lygių galimybių kontrolierius atlieka
 
-išvadas dėl šio įstatymo įgyvendinimo, taip pat pasiūlymus Lietuvos Respublikos
+nepriklausomus tyrimus, susijusius su diskriminacijos atvejais, ir
 
-valstybės ir savivaldybių institucijoms ir įstaigoms dėl teisės aktų
+nepriklausomas diskriminacijos padėties apžvalgas, skelbia nepriklausomas
 
-tobulinimo ir lygių teisių įgyvendinimo politikos prioritetų.
+ataskaitas, teikia išvadas ir rekomendacijas bet kokiais su diskriminacija
+
+susijusiais klausimais dėl šio įstatymo įgyvendinimo, taip pat pasiūlymus
+
+Lietuvos Respublikos valstybės ir savivaldybių institucijoms ir įstaigoms dėl
+
+teisės aktų tobulinimo ir lygių teisių įgyvendinimo politikos prioritetų.
 
 3. Lygių galimybių kontrolierius keičiasi
 
@@ -693,9 +689,13 @@ Nr. X-1380,
 
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
 
-Nr. X-1631,
+Nr. X-1631, 2008-06-19,
 
-2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
+Žin., 2008, Nr. 75-2923 (2008-07-03)
+
+Nr. XI-336,
+
+2009-07-14, Žin., 2009, Nr. 87-3665 (2009-07-23)
 
 13 straipsnis.
 
@@ -1255,7 +1255,7 @@ Skelbiu šį Lietuvos Respublikos Seimo
 
 priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                              VALDAS
+RESPUBLIKOS PREZIDENTAS                                         VALDAS
 
 ADAMKUS
 
@@ -1551,15 +1551,31 @@ MOTERŲ
 
 IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 26 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-336,
+
+2009-07-14, Žin., 2009, Nr. 87-3665 (2009-07-23)
+
+MOTERŲ
+
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2008-11-18)
+Vilija Tamaliūnienė (2009-07-23)
 
-autrap@lrs.lt
+vitama@lrs.lt
 
 27 straipsnis.
 
