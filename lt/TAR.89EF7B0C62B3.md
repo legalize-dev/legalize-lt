@@ -4,7 +4,7 @@ identifier: "TAR.89EF7B0C62B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-06-22"
-last_updated: "2007-07-21"
+last_updated: "2009-07-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.89EF7B0C62B3"
 department: "Lietuvos Respublikos Seimas"
@@ -1263,6 +1263,10 @@ nustato steigėjas. Mokestis mažinamas atsižvelgus į mokinių gabumus ir tėv
 
 (globėjų, rūpintojų) socialinę padėtį.“
 
+28 straipsnio redakcija iki 2009 m.
+
+rugpjūčio 31 d.:
+
 28
 
 straipsnis. Įstatymo įgyvendinimas
@@ -1307,6 +1311,14 @@ kadencijos, mokyklos vadovui raštiškai sutikus, nuo 2004 m. liepos 1 d. tampa
 
 neterminuotos.
 
+28 straipsnio redakcija nuo 2009 m.
+
+rugpjūčio 31 d.:
+
+28
+
+straipsnis. (negalioja).
+
 Straipsnio
 
 pakeitimai:
@@ -1317,9 +1329,13 @@ X-1265,
 
 2007-07-04, Žin., 2007, Nr. 81-3323 (2007-07-21)
 
-Skelbiu šį Lietuvos
+Nr. XI-347,
 
-Respublikos Seimo priimtą įstatymą.
+2009-07-15, Žin., 2009, Nr. 89-3803 (2009-07-28)
+
+Skelbiu šį
+
+Lietuvos Respublikos Seimo priimtą įstatymą.
 
 LAIKINAI
 
@@ -1355,13 +1371,33 @@ Nr. X-1265,
 
 28 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-347,
+
+2009-07-15, Žin., 2009, Nr. 89-3803 (2009-07-28)
+
+ŠVIETIMO
+
+ĮSTATYMO 7, 8, 10, 11, 15, 16, 29, 37, 38, 41, 42, 43, 44, 48, 49, 50, 51, 56,
+
+58, 59, 60, 61, 66, 69, 70, 71, 72 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO
+
+28 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušra Bodin (2007-07-24)
+Vilija Tamaliūnienė (2009-07-29)
 
-ausra.bodin@lrs.lt
+vitama@lrs.lt
 
