@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2009-05-01"
+last_updated: "2009-07-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -206,6 +206,26 @@ X-1773,
 
 įstatymo 2 straipsnis įsigalioja 2011 m. sausio 1 d.
 
+28.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-361,
+
+2009-07-17, Žin., 2009, Nr. 91-3916 (2009-07-31)
+
+VALSTYBĖS
+
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
+
+ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir
+
+galioja iki 2010 m. gruodžio 31 d.
+
 ***Pabaiga***
 
 Konstitucinio
@@ -250,13 +270,15 @@ VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO" DALINIO
 
 PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
-*** Pabaiga ***
+***
 
-Redagavo Aušrinė Trapinskienė
+Pabaiga ***
 
-(2009-05-05)
+Redagavo
 
-autrap@lrs.lt
+Aušra Bodin (2009-08-03)
+
+aubodi@lrs.lt
 
 3 straipsnis. Valstybės politikų ir
 
@@ -608,7 +630,7 @@ ADAMKUS
 
 Priedėlio
 
-redakcija iki 2011 m. sausio 1 d. :
+redakcija nuo 2009 m. rugpjūčio 1 d. iki 2010 gruodžio 31 d. :
 
 Lietuvos
 
@@ -646,7 +668,7 @@ algos koeficientas
 
 Seimo Pirmininkas
 
-22,7
+20,43
 
 2.
 
@@ -656,7 +678,7 @@ Seimo pareigūnai:
 
 Pirmininko pirmasis pavaduotojas
 
-20,42
+18,38
 
 2.2.
 
@@ -664,19 +686,19 @@ Pirmininko pavaduotojai, Seimo
 
 opozicijos lyderis
 
-19,71
+17,74
 
 2.3.
 
 Komitetų pirmininkai
 
-19,1
+17,19
 
 2.4.
 
 Komitetų pirmininkų pavaduotojai
 
-18,04
+16,24
 
 2.5.
 
@@ -684,7 +706,7 @@ Pakomitečių pirmininkai, nuolatinių
 
 komisijų pirmininkai
 
-17,78
+16,00
 
 2.6.
 
@@ -692,7 +714,7 @@ Nuolatinių komisijų pirmininkų
 
 pavaduotojai
 
-17,25
+15,53
 
 2.7.
 
@@ -710,47 +732,47 @@ pavaduotojai
 
 nuo 7 iki 10 narių
 
-17,6
+15,84
 
-17,25
+15,53
 
 2.7.2.
 
 nuo 11 iki 20 narių
 
-17,78
+16,00
 
-17,51
+15,76
 
 2.7.3.
 
 nuo 21 iki 30 narių
 
-18,22
+16,40
 
-17,69
+15,92
 
 2.7.4.
 
 nuo 31 iki 40 narių
 
-18,83
+16,95
 
-18,22
+16,40
 
 2.7.5.
 
 daugiau kaip 40 narių
 
-19,27
+17,34
 
-18,66
+16,79
 
 3.
 
 Seimo nariai
 
-17,07
+15,36
 
 4.
 
@@ -760,23 +782,27 @@ Vyriausybė:
 
 Ministras Pirmininkas
 
-22,7
+20,43
 
 4.2.
 
 Ministrai
 
-20,94
+18,85
 
 5.
 
-Savivaldybių merai ir
+Savivaldybių
 
-merų pavaduotojai
+merai ir
+
+merų
+
+pavaduotojai:
 
 Savivaldybės
 
-teritorijoje gyvena
+teritorijoje gyvena:
 
 per 100 tūkst.
 
@@ -790,9 +816,9 @@ gyventojų
 
 Merai
 
-12,2
+10,98
 
-10,5
+9,45
 
 5.2.
 
@@ -800,9 +826,9 @@ Merų
 
 pavaduotojai
 
-10,5
+9,45
 
-8,8
+7,92
 
 III. Prokurorų pareiginės algos
 
@@ -822,31 +848,33 @@ algos koeficientas
 
 1.
 
-Generalinė prokuratūra
+Generalinė
+
+prokuratūra
 
 1.1.
 
 Generalinis prokuroras
 
-14,7
+13,60
 
 1.2.
 
 Generalinio prokuroro pavaduotojas
 
-13,38
+12,38
 
 1.3.
 
 Departamento vyriausiasis prokuroras
 
-12,94
+11,97
 
 1.4.
 
 Skyriaus vyriausiasis prokuroras
 
-12,76
+11,80
 
 1.5.
 
@@ -854,7 +882,7 @@ Departamento vyriausiojo prokuroro
 
 pavaduotojas
 
-12,58
+11,64
 
 1.6.
 
@@ -862,53 +890,55 @@ Skyriaus vyriausiojo prokuroro
 
 pavaduotojas
 
-12,4
+11,47
 
 1.7.
 
 ONKT departamento prokuroras
 
-12,14
+11,23
 
 1.8.
 
 Departamento prokuroras
 
-11,53
+10,67
 
 1.9.
 
 Skyriaus prokuroras
 
-11,44
+10,58
 
 1.10.
 
 Prokuroras
 
-11,35
+10,50
 
 2.
 
-Apygardų prokuratūros
+Apygardų
+
+prokuratūros
 
 2.1.
 
 Vyriausiasis prokuroras
 
-11,8
+10,92
 
 2.2.
 
 Vyriausiojo prokuroro pavaduotojas
 
-10,8
+10,10
 
 2.3.
 
 Skyriaus vyriausiasis prokuroras
 
-10,4
+9,72
 
 2.4.
 
@@ -916,19 +946,19 @@ Skyriaus vyriausiojo prokuroro
 
 pavaduotojas
 
-10,1
+9,54
 
 2.5.
 
 ONKT prokuroras
 
-10,0
+9,45
 
 2.6.
 
 Prokuroras
 
-9,5
+9,03
 
 3.
 
@@ -940,19 +970,19 @@ apylinkių prokuratūros
 
 Vyriausiasis prokuroras
 
-9,8
+9,26
 
 3.2.
 
 Vyriausiojo prokuroro pavaduotojas
 
-9,3
+8,88
 
 3.3.
 
 Skyriaus vyriausiasis prokuroras
 
-8,5
+8,20
 
 3.4.
 
@@ -960,13 +990,13 @@ Skyriaus vyriausiojo prokuroro
 
 pavaduotojas
 
-8,4
+8,11
 
 3.5.
 
 Prokuroras
 
-8,3
+8,01
 
 4.
 
@@ -978,19 +1008,19 @@ prokuratūros
 
 Vyriausiasis prokuroras
 
-9,7
+9,22
 
 4.2.
 
 Vyriausiojo prokuroro pavaduotojas
 
-9,2
+8,79
 
 4.3.
 
 Skyriaus vyriausiasis prokuroras
 
-8,5
+8,20
 
 4.4.
 
@@ -998,13 +1028,13 @@ Skyriaus vyriausiojo prokuroro
 
 pavaduotojas
 
-8,4
+8,11
 
 4.5.
 
 Prokuroras
 
-8,3
+8,01
 
 5.
 
@@ -1016,27 +1046,27 @@ prokuratūros
 
 Vyriausiasis prokuroras
 
-9,3
+8,88
 
 5.2.
 
 Vyriausiojo prokuroro pavaduotojas
 
-8,8
+8,45
 
 5.3.
 
 Prokuroras
 
-8,0
+7,76
 
 Pastaba. ONKT –
 
 Organizuotų nusikaltimų ir korupcijos tyrimas.
 
-IV.
+IV. VALSTYBĖS
 
-VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
+PAREIGŪNŲ PAREIGINĖS ALGOS
 
 (Baziniais dydžiais)
 
@@ -1058,13 +1088,13 @@ Valstybės kontrolė:
 
 valstybės kontrolierius
 
-13,64
+12,62
 
 1.2.
 
 valstybės kontrolieriaus pavaduotojai
 
-12,14
+11,23
 
 2.
 
@@ -1074,35 +1104,37 @@ Seimo kontrolieriai:
 
 įstaigos vadovas
 
-13,64
+12,62
 
 2.2.
 
 Seimo kontrolieriai
 
-12,76
+11,80
 
 3.
 
-(neteko galios nuo 2009 m. vasario 1 d.)
+(neteko galios nuo 2009 m. vasario 1
+
+d.)
 
 4.
 
 Lygių galimybių kontrolierius
 
-11,44
+10,58
 
 5.
 
 Vaiko teisių apsaugos kontrolierius
 
-11,44
+10,58
 
 6.
 
 Žurnalistų etikos inspektorius
 
-10,8
+10,10
 
 7.
 
@@ -1120,19 +1152,19 @@ rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 pirmininkai
 
-10,8
+10,10
 
 7.2.
 
 pavaduotojai
 
-9,99
+9,44
 
 7.3.
 
 nariai
 
-8,93
+8,57
 
 8.
 
@@ -1146,19 +1178,19 @@ tarybų:
 
 pirmininkai
 
-8,5
+8,20
 
 8.2.
 
 pavaduotojai
 
-7,3
+7,12
 
 8.3.
 
 nariai
 
-7
+6,86
 
 9.
 
@@ -1170,13 +1202,13 @@ paskirti institucijų ir įstaigų:
 
 vadovai
 
-7,7
+7,51
 
 9.2.
 
 pareigūnai
 
-7
+6,86
 
 10.
 
@@ -1188,15 +1220,15 @@ komisijos:
 
 10.1.
 
-pirmininkas
+pirmininkai
 
-10,8
+10,10
 
 10.2.
 
 nariai
 
-8,93
+8,57
 
 11.
 
@@ -1208,19 +1240,19 @@ priežiūros komisijos:
 
 pirmininkas
 
-10,8
+10,10
 
 11.2.
 
 pavaduotojai
 
-9,99
+9,44
 
 11.3.
 
 nariai
 
-8,93
+8,57
 
 12.
 
@@ -1228,7 +1260,7 @@ Lietuvos
 
 gyventojų genocido ir rezistencijos tyrimo centro generalinis direktorius
 
-10,8
+10,10
 
 Pastaba. Komisijų ir
 
@@ -1926,17 +1958,17 @@ Nr. X-128, 2005-02-15,
 
 Nr.
 
-X-789, 2006-07-19,
+X-789,
 
-Žin., 2006, Nr. 87-3400 (2006-08-08)
+2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
 
 Nr. X-1253,
 
 2007-07-03, Žin., 2007, Nr. 80-3223 (2007-07-19)
 
-Nr. X-1385, 2007-12-18,
+Nr. X-1385,
 
-Žin., 2007, Nr. 140-5757 (2007-12-29)
+2007-12-18, Žin., 2007, Nr. 140-5757 (2007-12-29)
 
 Nr. X-1688,
 
@@ -1961,6 +1993,12 @@ Nr. XI-157,
 Nr. XI-224,
 
 2009-04-23, Žin., 2009, Nr. 49-1935 (2009-04-30)
+
+Nr.
+
+XI-361, 2009-07-17,
+
+Žin., 2009, Nr. 91-3916 (2009-07-31)
 
 ________________
 
@@ -2098,9 +2136,9 @@ IX-1012,
 
 VALSTYBĖS
 
-POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7 STRAIPSNIŲ
 
-STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 9.
 
