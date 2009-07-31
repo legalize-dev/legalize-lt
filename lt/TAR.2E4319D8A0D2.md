@@ -4,7 +4,7 @@ identifier: "TAR.2E4319D8A0D2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-23"
-last_updated: "2006-01-20"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E4319D8A0D2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,13 +15,13 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Įstatymas skelbtas: Žin., 2003, Nr.
-
-92-4140
+Įstatymas skelbtas: Žin., 2003, Nr. 92-4140
 
 Neoficialus įstatymo tekstas
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
+
+RESPUBLIKOS
 
 ANTROJO OPERATYVINIŲ TARNYBŲ DEPARTAMENTO PRIE KRAŠTO APSAUGOS
 
@@ -81,9 +81,9 @@ Skelbiu šį
 
 Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS
+RESPUBLIKOS
 
-PAKSAS
+PREZIDENTAS                                                           ROLANDAS PAKSAS
 
 PATVIRTINTA
 
@@ -587,21 +587,25 @@ karių ir STATUTINIŲ tarnautojų TEISINIS STATUSAS
 
 Karių ir statutinių tarnautojų teisės, pareigos ir veiklos apribojimai
 
-1. Kariai ir statutiniai tarnautojai turi Krašto
+1.
 
-apsaugos sistemos organizavimo ir karo tarnybos įstatymo, Žvalgybos įstatymo,
+Kariai ir statutiniai tarnautojai turi Krašto apsaugos sistemos
 
-Operatyvinės veiklos įstatymo, Civilinės krašto apsaugos tarnybos statuto, kitų
+organizavimo ir karo tarnybos įstatymo, Žvalgybos įstatymo, Operatyvinės
+
+veiklos įstatymo, Civilinės krašto apsaugos tarnybos statuto, kitų
 
 įstatymų ir šio statuto nustatytas teises ir pareigas.
 
-2. Kariai ir statutiniai tarnautojai, vykdydami savo
+2.
 
-pareigas, krašto apsaugos sistemoje turi administracinius įgaliojimus
+Kariai ir statutiniai tarnautojai, vykdydami savo pareigas, krašto apsaugos
 
-pavaldiems ir (ar) nepavaldiems asmenims. Kariai ir statutiniai tarnautojai
+sistemoje turi administracinius įgaliojimus pavaldiems ir (ar) nepavaldiems
 
-turi pareigūno statusą.
+asmenims. Kariai
+
+ir statutiniai tarnautojai turi pareigūno statusą.
 
 3. Kovinių ginklų naudojimo krašto
 
@@ -767,9 +771,9 @@ tarnybos ir aprūpinimo sąlygas mokymosi ar kvalifikacijos tobulinimo
 
 laikotarpiu nustato Vyriausybė ar jos įgaliota institucija.
 
-20 straipsnis. Išlaidų,
+20 straipsnis. Išlaidų, susijusių
 
-susijusių su karių ir statutinių tarnautojų mokymu, profesiniu parengimu ar
+su karių ir statutinių tarnautojų mokymu, profesiniu parengimu ar
 
 kvalifikacijos tobulinimu, atlyginimas
 
@@ -809,13 +813,15 @@ ligos ar netekto darbingumo arba dėl kitų nuo jo nepriklausančių ir
 
 nepašalinamų priežasčių.
 
-21 straipsnis.
+21 straipsnis. Karių ir statutinių
 
-Karių ir statutinių tarnautojų atestavimas
+tarnautojų atestavimas
 
-1. Karių atestavimą reglamentuoja Krašto
+1.
 
-apsaugos sistemos organizavimo ir karo tarnybos įstatymas.
+Karių atestavimą reglamentuoja Krašto apsaugos sistemos organizavimo ir karo
+
+tarnybos įstatymas.
 
 2. Departamento
 
@@ -829,39 +835,49 @@ Statutinius tarnautojus atestuoja jų tiesioginis viršininkas ir aukštesnysis
 
 viršininkas.
 
-4. Statutiniai tarnautojai atestuojami kas
+4.
 
-12 mėnesių, taip pat tais atvejais, kai sprendžiama, ar statutinis tarnautojas
+Statutiniai tarnautojai atestuojami kas 12 mėnesių, taip pat tais
 
-tinka civilinei krašto apsaugos tarnybai.
+atvejais, kai sprendžiama, ar statutinis tarnautojas tinka civilinei
 
-5. Kvalifikaciją liudijančiame dokumente (toliau
+krašto apsaugos tarnybai.
 
-– atestatas) turi būti apibūdinta atestuojamo asmens savybės, gabumai, elgesys,
+5.
 
-kvalifikacija, gebėjimas atlikti jam pavestas pareigas, pateiktos atitinkamos
+Kvalifikaciją liudijančiame dokumente (toliau – atestatas) turi būti
 
-rekomendacijos ir išvada dėl jo tinkamumo civilinei krašto apsaugos tarnybai.
+apibūdinta atestuojamo asmens savybės, gabumai, elgesys, kvalifikacija,
 
-6. Statutinis tarnautojas supažindinamas
+gebėjimas atlikti jam pavestas pareigas, pateiktos atitinkamos rekomendacijos
 
-su atestacijos išvada ir ne vėliau kaip per 14 dienų turi teisę ją apskųsti.
+ir išvada dėl jo tinkamumo civilinei krašto apsaugos tarnybai.
 
-7. Skundą nagrinėja krašto apsaugos ministro
+6.
 
-įsakymu sudaryta komisija. Per 14 dienų ji priima sprendimą dėl skundo
+Statutinis tarnautojas supažindinamas su atestacijos išvada ir ne
 
-pagrįstumo ir krašto apsaugos ministrui pateikia išvadą dėl atestuojamojo
+vėliau kaip per 14 dienų turi teisę ją apskųsti.
 
-tinkamumo civilinei krašto apsaugos tarnybai.
+7.
 
-8. Su statutinio tarnautojo atestatu turi
+Skundą nagrinėja krašto apsaugos ministro įsakymu sudaryta komisija. Per 14
 
-teisę susipažinti tik tas asmuo, kuriam tai būtina vykdant tarnybos pareigas.
+dienų ji priima sprendimą dėl skundo pagrįstumo ir krašto apsaugos ministrui
 
-9. Karių ir statutinių tarnautojų
+pateikia išvadą dėl atestuojamojo tinkamumo civilinei krašto apsaugos tarnybai.
 
-atestavimo tvarką nustato krašto apsaugos ministras.
+8.
+
+Su statutinio tarnautojo atestatu turi teisę susipažinti tik tas
+
+asmuo, kuriam tai būtina vykdant tarnybos pareigas.
+
+9.
+
+Karių ir statutinių tarnautojų atestavimo tvarką nustato krašto
+
+apsaugos ministras.
 
 SEPTINTASIS
 
@@ -951,11 +967,11 @@ dėl sveikatos būklės;
 
 11)
 
-netenka pasitikėjimo, ir įstatymų įgaliotos institucijos ar pareigūnai motyvuotai
+netenka pasitikėjimo, ir įstatymų įgaliotos institucijos ar pareigūnai
 
-reikalauja atleisti jį iš tarnybos arba motyvuotai nerekomenduoja išduoti
+motyvuotai reikalauja atleisti jį iš tarnybos arba motyvuotai nerekomenduoja
 
-leidimo (siūlo panaikinti leidimą) statutiniam tarnautojui dirbti ar
+išduoti leidimo (siūlo panaikinti leidimą) statutiniam tarnautojui dirbti ar
 
 susipažinti su įslaptinta informacija, jeigu šia informacija reikia naudotis
 
@@ -1043,11 +1059,11 @@ statuto 22 straipsnio 2 dalies 2, 7, 9, 10, 12 punktuose nustatytais
 
 pagrindais) nutraukia civilinės krašto apsaugos tarnybos sutartį, apie tai
 
-įspėjęs statutinį tarnautoją ne vėliau kaip prieš du mėnesius arba ir
+įspėjęs statutinį tarnautoją ne vėliau kaip prieš du mėnesius arba ir neįspėjęs.
 
-neįspėjęs. Pastaruoju atveju atleidžiamajam išmokama šio statuto 24 straipsnio
+Pastaruoju atveju atleidžiamajam išmokama šio statuto 24 straipsnio 3 dalyje
 
-3 dalyje nustatyta papildoma kompensacija.
+nustatyta papildoma kompensacija.
 
 3.
 
@@ -1377,9 +1393,9 @@ prieštarauja įstatymams ar kitiems teisės aktams;
 
 užduoties ar pavedimo vykdymas;
 
-7) nebuvimas
+7) nebuvimas tarnybos
 
-tarnybos vietoje vieną ar daugiau darbo dienų be pateisinamos priežasties;
+vietoje vieną ar daugiau darbo dienų be pateisinamos priežasties;
 
 8) buvimas tarnybos
 
@@ -1387,9 +1403,9 @@ metu apsvaigusiam nuo alkoholio, narkotinių ar toksinių medžiagų;
 
 9) kovinių ginklų ar
 
-specialiųjų priemonių praradimas ar kovinių ginklų ir specialiųjų priemonių
+specialiųjų priemonių praradimas ar kovinių ginklų ir specialiųjų priemonių naudojimo
 
-naudojimo taisyklių pažeidimas;
+taisyklių pažeidimas;
 
 10) tarnybinio
 
@@ -1399,9 +1415,9 @@ valstybės ar tarnybos paslapties, praradimas ar sugadinimas;
 
 11) melagingo
 
-paaiškinimo davimas dėl tarnybinio nusižengimo, taip pat vertimas duoti melagingą
+paaiškinimo davimas dėl tarnybinio nusižengimo, taip pat vertimas duoti
 
-paaiškinimą;
+melagingą paaiškinimą;
 
 12) trečias
 
@@ -1419,9 +1435,9 @@ papeikimas;
 
 pažeminimas;
 
-3) atleidimas iš civilinės
+3) atleidimas iš
 
-krašto apsaugos tarnybos.
+civilinės krašto apsaugos tarnybos.
 
 4. Kiti tarnybiniai
 
@@ -1435,7 +1451,9 @@ tarnybinius nusižengimus skiriamos šios tarnybinės nuobaudos:
 
 2) papeikimas;
 
-3) griežtas papeikimas.
+3) griežtas
+
+papeikimas.
 
 28 straipsnis. Tarnybinių
 
@@ -1461,9 +1479,9 @@ vėliau kaip per vieną mėnesį nuo nusižengimo paaiškėjimo dienos, neįskai
 
 laiko, kurį statutinis tarnautojas nebuvo tarnyboje dėl ligos arba atostogavo.
 
-Negalima skirti tarnybinės nuobaudos praėjus vieniems metams nuo nusižengimo
+Negalima skirti tarnybinės nuobaudos praėjus vieniems metams nuo nusižengimo padarymo
 
-padarymo dienos.
+dienos.
 
 3. Prieš skiriant
 
@@ -1509,9 +1527,9 @@ paskyrimo gali būti skundžiamas įstatymų nustatyta tvarka.
 
 29 straipsnis. Nušalinimas nuo pareigų
 
-1. Karių nušalinimą nuo pareigų reglamentuoja
+1. Karių nušalinimą nuo pareigų
 
-Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas.
+reglamentuoja Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas.
 
 2.
 
@@ -1595,29 +1613,67 @@ tarnautojų darbo užmokestį nustato Valstybės tarnybos įstatymas ir šis
 
 statutas.
 
+Dalies redakcija nuo 2009-08-01 iki 2010-12-31:
+
 3. Statutiniams
 
 tarnautojams mokami tokie pareiginės algos priedai už kvalifikacinę kategoriją:
 
-1) už pirmą kvalifikacinę kategoriją –
+1) už pirmą kvalifikacinę
 
-35 procentų pareiginės algos dydžio priedas;
+kategoriją – 25 procentų pareiginės algos dydžio priedas;
 
-2) už antrą kvalifikacinę kategoriją –
+2) už antrą kvalifikacinę
 
-40 procentų pareiginės algos dydžio priedas;
+kategoriją – 28 procentų pareiginės algos dydžio priedas;
 
-3) už trečią kvalifikacinę kategoriją –
+3) už trečią kvalifikacinę
 
-45 procentų pareiginės algos dydžio priedas;
+kategoriją – 30 procentų pareiginės algos dydžio priedas;
 
-4) už ketvirtą kvalifikacinę kategoriją
+4) už ketvirtą kvalifikacinę kategoriją – 35 procentų
 
-– 50 procentų pareiginės algos dydžio priedas;
+pareiginės algos dydžio priedas;
 
-5) už penktą kvalifikacinę kategoriją –
+5) už penktą kvalifikacinę kategoriją – 38 procentų pareiginės algos
 
-55 procentų pareiginės algos dydžio priedas.
+dydžio priedas.
+
+Dalies redakcija nuo 2011-01-01:
+
+3. Statutiniams
+
+tarnautojams mokami tokie pareiginės algos priedai už kvalifikacinę kategoriją:
+
+1) už pirmą kvalifikacinę
+
+kategoriją – 35 procentų pareiginės algos dydžio priedas;
+
+2) už antrą kvalifikacinę
+
+kategoriją – 40 procentų pareiginės algos dydžio priedas;
+
+3) už trečią kvalifikacinę
+
+kategoriją – 45 procentų pareiginės algos dydžio priedas;
+
+4) už ketvirtą kvalifikacinę
+
+kategoriją – 50 procentų pareiginės algos dydžio priedas;
+
+5) už penktą kvalifikacinę kategoriją – 55 procentų pareiginės algos
+
+dydžio priedas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-368,
+
+2009-07-17, Žin., 2009, Nr. 91-3922 (2009-07-31)
 
 33 straipsnis. Departamento rezervas
 
@@ -1859,13 +1915,21 @@ PAKEITIMO ĮSTATYMAS
 
 Nauja statuto redakcija
 
-***
+2.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo:
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2006-02-13)
+Nr. XI-368,
 
-autrap@lrs.lt
+2009-07-17, Žin., 2009, Nr. 91-3922 (2009-07-31)
+
+ANTROJO
+
+OPERATYVINIŲ TARNYBŲ DEPARTAMENTO PRIE KRAŠTO APSAUGOS MINISTERIJOS STATUTO 32
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šio
 
