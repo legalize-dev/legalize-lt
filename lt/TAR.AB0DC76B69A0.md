@@ -4,7 +4,7 @@ identifier: "TAR.AB0DC76B69A0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-06"
-last_updated: "2009-05-01"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0DC76B69A0"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2009-05-01 iki 2009-07-31
+Suvestinė redakcija nuo 2009-08-01 iki 2010-07-12
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 131-5022, i. k. 1081010ISTA00X-1771
 
@@ -86,7 +86,9 @@ RESPUBLIKOS PREZIDENTAS                             
 
 Lietuvos Respublikos
 
-teisėjų atlyginimų įstatymo
+teisėjų atlyginimų
+
+įstatymo
 
 priedėlis
 
@@ -104,13 +106,13 @@ Atlyginimo koeficientas
 
 Lietuvos Respublikos Konstitucinio Teismo pirmininkas (ar jį pavaduojantis teisėjas)
 
-22,7
+21
 
 2.
 
 Lietuvos Respublikos Konstitucinio Teismo teisėjas
 
-20,6
+19,06
 
 II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS
 
@@ -120,7 +122,7 @@ Eil. Nr.
 
 Įstaigos pavadinimas
 
-Pareiginės algos koeficientas
+Pareiginės algos koeficientas:
 
 pirmininko ar jį pavaduojančiojo (kai nėra etatinio pavaduotojo)
 
@@ -134,61 +136,61 @@ teisėjo
 
 Lietuvos Aukščiausiasis Teismas
 
-19,1
+17,67
 
 –
 
-17,78
+16,45
 
-16,9
+15,63
 
 2.
 
 Lietuvos vyriausiasis administracinis teismas
 
-18,39
+17,01
 
-17,34
+16,07
 
 –
 
-16,46
+15,23
 
 3.
 
 Lietuvos apeliacinis teismas
 
-17,78
+16,45
 
 –
 
-16,9
+15,63
 
-16,02
+14,98
 
 4.
 
 Apygardų teismai
 
-16,9
+15,63
 
 –
 
-16,02
+14,98
 
-15,14
+14
 
 5.
 
 Apygardų administraciniai teismai
 
-16,9
+15,63
 
-16,02
+14,98
 
 –
 
-15,14
+14
 
 6.
 
@@ -198,25 +200,25 @@ Apylinkių teismai:
 
 kuriuose dirba 15 ir daugiau teisėjų
 
-15,58
+14,41
 
-14,08
+13,02
 
 –
 
-12,5
+11,56
 
 6.2.
 
 kuriuose dirba 14 ir mažiau teisėjų
 
-14,7
+13,6
 
-13,46
+12,45
 
 –
 
-12,5
+11,56
 
 Priedėlio redakcija nuo 2011-01-01:
 
@@ -358,6 +360,8 @@ Priedo pakeitimai:
 
 Nr. XI-235, 2009-04-28, Žin., 2009, Nr. 49-1940 (2009-04-30), i. k. 1091010ISTA00XI-235
 
+Nr. XI-362, 2009-07-17, Žin., 2009, Nr. 91-3917 (2009-07-31), i. k. 1091010ISTA00XI-362
+
 Pakeitimai:
 
 1.
@@ -373,6 +377,14 @@ Lietuvos Respublikos teisėjų atlyginimų įstatymo 3 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XI-235, 2009-04-28, Žin., 2009, Nr. 49-1940 (2009-04-30), i. k. 1091010ISTA00XI-235
+
+Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-362, 2009-07-17, Žin., 2009, Nr. 91-3917 (2009-07-31), i. k. 1091010ISTA00XI-362
 
 Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymas
 
