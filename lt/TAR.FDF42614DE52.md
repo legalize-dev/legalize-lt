@@ -4,7 +4,7 @@ identifier: "TAR.FDF42614DE52"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2008-11-25"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 department: "Lietuvos Respublikos Seimas"
@@ -78,13 +78,7 @@ asmenims dėl nedarbo negautas pajamas arba jų dalį.
 
 šio Įstatymo sąvokos
 
-1. Aktyvios darbo rinkos politikos priemonės –
-
-Lietuvos Respublikos teisės aktų nustatytos priemonės, kuriomis siekiama
-
-padėti ieškantiems darbo asmenims padidinti jų užimtumo galimybes ir gerinti
-
-darbo vietų ir parengtų kvalifikuotų darbuotojų santykio pusiausvyrą.
+1. Neteko galios nuo 2009 m. rugpjūčio 1 d.
 
 2. Apdraustasis – fizinis asmuo, už kurį
 
@@ -104,13 +98,7 @@ atsitikimų darbe ir profesinių ligų valstybinio socialinio draudimo pašalpos
 
 bei nedarbo draudimo išmokos.
 
-4. Bedarbis – nedirbantis darbingo amžiaus
-
-darbingas asmuo, nesimokantis pagal dieninę mokymo formą, įstatymų
-
-nustatyta tvarka įsiregistravęs teritorinėje darbo biržoje kaip ieškantis darbo
-
-ir pasirengęs dalyvauti aktyvios darbo rinkos politikos priemonėse.
+4. Neteko galios nuo 2009 m. rugpjūčio 1 d.
 
 5. Darbingo amžiaus asmenys – asmenys nuo 16
 
@@ -150,6 +138,10 @@ suteikiantis teisę mažesnes už jį pajamas gaunantiems asmenims įstatymų
 
 nustatytomis sąlygomis gauti socialinę paramą.
 
+10. Kitos šiame įstatyme vartojamos sąvokos
+
+suprantamos taip, kaip jos apibrėžtos Užimtumo rėmimo įstatyme.
+
 Straipsnio
 
 pakeitimai:
@@ -163,6 +155,10 @@ X-657,
 Nr. X-1398,
 
 2007-12-20, Žin., 2007, Nr. 138-5653 (2007-12-29)
+
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
 4
 
@@ -191,52 +187,6 @@ ministerijos bei jam pavaldžių įstaigų ir įmonių pareigūnai;
 Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos
 
 civilinę krašto apsaugos tarnybą atliekantys statutiniai tarnautojai;
-
-5
-
-punkto redakcija iki 2009 m. sausio 1 d.:
-
-5) nesukakę
-
-senatvės pensijos amžiaus ir negaunantys pajamų, susijusių su darbo santykiais,
-
-valstybės tarnautojų ir profesinės karo tarnybos karių bei deleguotų asmenų
-
-sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės
-
-tarnautoju ar deleguotu asmeniu, jeigu pastarasis asmuo deleguotas ar valstybės
-
-tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje
-
-atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie
-
-tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje, ar
-
-užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją, ar kai
-
-jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės karo
-
-tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos
-
-diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos
-
-atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar
-
-tarptautinėje karinėje ar gynybos institucijoje. Deleguotų asmenų sutuoktiniai
-
-draudžiami tik tuo atveju, jei deleguotam asmeniui darbo užmokestį
-
-ir nuo
-
-jo
-
-socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos
-
-deleguojančioji institucija;
-
-5
-
-punkto redakcija nuo 2009 m. sausio 1 d.:
 
 5) nesukakę
 
@@ -276,11 +226,11 @@ senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos
 
 Prezidento sutuoktinis – Respublikos Prezidento kadencijos laikotarpiu;
 
-6) Lietuvos
+6) asmenys,
 
-Respublikos kariuomenės privalomosios pradinės karo tarnybos kariai ir asmenys,
+nurodyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 4
 
-atliekantys alternatyviąją krašto apsaugos tarnybą;
+punkte;
 
 7) šeimos
 
@@ -339,6 +289,10 @@ Nr.
 X-1802,
 
 2008-11-11, Žin., 2008, Nr. 135-5238 (2008-11-25)
+
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
 ANTRASIS SKIRSNIS
 
@@ -732,17 +686,17 @@ laikotarpį:
 
 nurodytomis sąlygomis;
 
-2) dėl
+2) be pateisinamos
 
-nepateisinamos priežasties bedarbis atsisakė dalyvauti įsidarbinimo plane
+priežasties bedarbis atsisakė dalyvauti jo užimtumo plane numatytose aktyvios
 
-numatytose aktyvios darbo rinkos politikos priemonėse;
+darbo rinkos politikos priemonėse;
 
-3) dėl
+3) be
 
-nepateisinamos priežasties bedarbis nustatytu laiku neatvyko į teritorinę darbo
+pateisinamos priežasties bedarbis nustatytu laiku neatvyko į teritorinę darbo
 
-biržą priimti pasiūlymo dirbti arba dalyvauti jo įsidarbinimo plane numatytose
+biržą priimti pasiūlymo dirbti arba dalyvauti jo užimtumo plane numatytose
 
 aktyvios darbo rinkos politikos priemonėse;
 
@@ -759,6 +713,12 @@ būti šio Įstatymo nustatyta tvarka pratęstas;
 7) bedarbis tampa nedarbingas;
 
 8) bedarbis miršta.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
 12 straipsnis. Pakartotinis nedarbo draudimo išmokos
 
@@ -830,11 +790,13 @@ draudimo pensijų išankstinio mokėjimo įstatymą.
 
 nedarbo draudimo išmokos mokėjimo metu tapusiems laikinai nedarbingiems dėl
 
-ligos arba traumos, paskirtos nedarbo draudimo išmokos mokėjimo trukmė
+ligos arba traumos, mokama jiems paskirta nedarbo draudimo išmoka. Pasibaigus
 
-pratęsiama tiek kalendorinių dienų, kiek asmuo sirgo, bet ne ilgiau kaip 30
+paskirtos nedarbo draudimo išmokos mokėjimo trukmei, nedarbo draudimo išmokos
 
-kalendorinių dienų.
+mokėjimo trukmė pratęsiama tiek kalendorinių dienų, kiek asmuo sirgo, bet ne
+
+ilgiau kaip 30 kalendorinių dienų.
 
 3. Nedarbo
 
@@ -842,7 +804,7 @@ draudimo išmokos mokėjimas šio straipsnio 2 dalyje nurodytu atveju
 
 nepratęsiamas, jeigu atitinkamos institucijos nustato, kad asmuo:
 
-1) tapo laikinai nedarbingas dėl traumos, kurią gavo darydamas nusikalstamą veiką;2) sužalojo savo sveikatą arba apsimetė sergąs;3) tapo laikinai nedarbingas dėl piktnaudžiavimo alkoholiu, narkotinėmis, toksinėmis ar psichotropinėmis medžiagomis.
+1) tapo laikinai nedarbingas dėl traumos, kurią gavo darydamas nusikalstamą veiką;2) sužalojo savo sveikatą arba apsimetė sergąs;3) tapo laikinai nedarbingas dėl neblaivumo (girtumo) ar dėl piktnaudžiavimo psichiką veikiančiomis medžiagomis.
 
 4. Moterims, nedarbo draudimo išmokos mokėjimo metu tapusioms laikinai
 
@@ -854,9 +816,9 @@ socialinio draudimo įstatymo 17 straipsnyje nustatytą motinystės pašalpos
 
 nėštumo ir gimdymo atostogų laikotarpiu mokėjimo trukmę.
 
-5. Pagrindas šio straipsnio 2 ir 4 dalyse nurodytiems
+5. Pagrindas šio straipsnio 2 ir 4 dalyse nurodytiems bedarbiams mokėti
 
-bedarbiams pratęsti nedarbo draudimo išmokos mokėjimo trukmę yra nedarbingumo
+nedarbo draudimo išmoką ir (arba) pratęsti jos mokėjimo trukmę yra nedarbingumo
 
 pažymėjimas arba nėštumo ir gimdymo atostogų pažymėjimas, išduotas bedarbiui
 
@@ -866,7 +828,25 @@ patvirtintas Nedarbingumo pažymėjimų bei nėštumo ir gimdymo atostogų pažy
 
 išdavimo taisykles.
 
-6. Nedarbo draudimo išmokos pratęsimo dėl ligos arba traumos, taip pat
+6.
+
+Savivaldybių teritorijose, kuriose vidutinis paskutinio ketvirčio
+
+registruotų bedarbių ir paskutinio skelbto darbingo amžiaus gyventojų santykis
+
+1,5 karto ir daugiau didesnis už šalies vidutinį santykį, Nedarbo draudimo
+
+išmokų nuostatuose nustatyta tvarka gali būti 2 mėnesius pratęsta nedarbo
+
+draudimo išmokų bedarbiams mokėjimo trukmė. Sprendimą dėl savivaldybių
+
+teritorijų, kuriose pratęsiama nedarbo draudimo išmokos mokėjimo trukmė,
+
+Lietuvos Respublikos trišalės tarybos teikimu priima socialinės apsaugos ir
+
+darbo ministras.
+
+7. Nedarbo draudimo išmokos pratęsimo dėl ligos arba traumos, taip pat
 
 dėl nėštumo ir gimdymo sąlygas ir tvarką nustato Nedarbo socialinio draudimo
 
@@ -878,23 +858,27 @@ Nr. X-65, 2004-12-22,
 
 Žin., 2004, Nr. 188-6997 (2004-12-31)
 
-15
+Nr.
 
-straipsnis. Nedarbo draudimo išmokos mokėjimas kartu su kitomis socialinės
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
-apsaugos išmokomis
+15 straipsnis. Nedarbo
 
-Asmenims, gaunantiems valstybines socialinio draudimo, šalpos ar
+draudimo išmokos mokėjimas kartu su kitomis socialinės apsaugos išmokomis
 
-valstybines pensijas (išskyrus našlių ir našlaičių bei maitintojo netekimo
+Asmenims, gaunantiems valstybines socialinio draudimo,
 
-pensijas), taip pat netekto darbingumo periodines kompensacijas dėl nelaimingų
+šalpos ar valstybines pensijas (išskyrus našlių, našlaičių ir maitintojo
 
-atsitikimų darbe ir profesinių ligų, iš nedarbo draudimo lėšų mokama tik
+netekimo pensijas), taip pat netekto darbingumo periodines kompensacijas dėl
 
-nedarbo draudimo išmokos dalis, viršijanti gaunamą pensijų ar kompensacijų
+nelaimingų atsitikimų darbe ir profesinių ligų, taip pat profesinės
 
-sumą.
+reabilitacijos, motinystės, tėvystės ar motinystės (tėvystės) socialinio
+
+draudimo pašalpas, iš nedarbo draudimo lėšų mokama tik nedarbo draudimo išmokos
+
+dalis, viršijanti gaunamą pensijų, kompensacijų ar pašalpų sumą.
 
 Straipsnio pakeitimai:
 
@@ -902,27 +886,9 @@ Nr. X-1398,
 
 2007-12-20, Žin., 2007, Nr. 138-5653 (2007-12-29)
 
-15 straipsnis. Nedarbo draudimo
+Nr.
 
-išmokos mokėjimas kartu su kitomis socialinės apsaugos išmokomis
-
-Asmenims,
-
-gaunantiems valstybines socialinio draudimo, šalpos ar valstybines pensijas
-
-(išskyrus našlių ir našlaičių bei maitintojo netekimo pensijas), kompensacijas
-
-už ypatingas darbo sąlygas, taip pat netekto darbingumo periodines
-
-kompensacijas dėl nelaimingų atsitikimų darbe ir profesinių ligų, iš nedarbo
-
-draudimo lėšų mokama tik nedarbo draudimo išmokos dalis, viršijanti gaunamą
-
-pensijų ar kompensacijų sumą.
-
-15
-
-straipsnio redakcija nuo 2008 m. sausio 1 d.:
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
 17 straipsnis.
 
@@ -1044,13 +1010,13 @@ BAIGIAMOSIOS NUOSTATOS
 
 įsigaliojimas
 
-1. Šis Įstatymas, išskyrus 17 straipsnio 4 ir 5 dalis
+Šis Įstatymas įsigalioja 2005 m. sausio 1 d.
 
-bei 19 straipsnį, įsigalioja nuo 2005 m. sausio 1 d.
+Straipsnio pakeitimai:
 
-2. Šio Įstatymo 17 straipsnio 4 ir 5 dalių bei 19
+Nr.
 
-straipsnio nuostatos įsigalioja nuo 2010 m. sausio 1 d.
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
 22 straipsnis. Išmokų,
 
@@ -1092,17 +1058,17 @@ išmokos dalies;
 
 4) šiuo būdu apskaičiuota nedarbo draudimo išmoka
 
-mokama šio Įstatymo nustatytą laiką, pradedant jo atskaitą nuo bedarbio
+mokama šio Įstatymo nustatytą laiką, pradedant jo atskaitą nuo bedarbio pašalpos
 
-pašalpos skyrimo dienos;
+skyrimo dienos;
 
 5) šio straipsnio 3 punkte nurodytu atveju kintama
 
 nedarbo draudimo išmokos dalis mažinama tokiomis pat proporcijomis ir tais
 
-pačiais terminais, skaičiuojant nuo bedarbio pašalpos skyrimo dienos, kaip nustatyta
+pačiais terminais, skaičiuojant nuo bedarbio pašalpos skyrimo dienos, kaip
 
-šio Įstatymo 8 straipsnio 4 dalyje.
+nustatyta šio Įstatymo 8 straipsnio 4 dalyje.
 
 2. Šio straipsnio 1 dalyje nustatyta tvarka pradėjus
 
@@ -1140,35 +1106,27 @@ Nr. X-65, 2004-12-22,
 
 draudimo išlaidos pereinamuoju laikotarpiu
 
-1. Iki šio Įstatymo 17 straipsnio 4 ir 5 dalių ir 19 straipsnio
+1. Pereinamuoju
 
-įsigaliojimo:
+laikotarpiu (2009 m. sausio 1 d. – 2012 m. gruodžio 31 d.):
 
-1) iš nedarbo draudimo lėšų finansuojamos nedarbo draudimo išmokos bei
+1) iš nedarbo draudimo lėšų finansuojamos nedarbo draudimo išmokos ir
 
-išlaidos Lietuvos Respublikos įstatymų nustatytoms aktyvios darbo rinkos
+išlaidos, nustatytos Užimtumo rėmimo įstatymo 37 straipsnio 2 dalies 1, 3, 4 ir
 
-politikos priemonėms, Lietuvos darbo biržos ir jos teritorinių darbo biržų bei
+5 punktuose;
 
-Lietuvos darbo rinkos mokymo tarnybos prie Socialinės apsaugos ir darbo
+2) valstybės
 
-ministerijos (toliau – Lietuvos darbo rinkos mokymo tarnyba) išlaikymui ir
+biudžetas nuosekliai perima iš Valstybinio socialinio draudimo fondo biudžeto
 
-plėtrai;
+Užimtumo rėmimo įstatymo 37 straipsnio 2 dalies 1, 3, 4 ir 5 punktuose
 
-2) pereinamuoju laikotarpiu (2005–2009 m.) valstybės biudžetas
+nustatytų išlaidų finansavimą. Lėšos šioms išlaidoms finansuoti numatomos
 
-laipsniškai perima iš Valstybinio socialinio draudimo fondo biudžeto Lietuvos
+einamųjų metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų
 
-Respublikos įstatymų nustatytų aktyvios darbo rinkos politikos priemonių,
-
-Lietuvos darbo biržos ir jos teritorinių darbo biržų bei Lietuvos darbo rinkos
-
-mokymo tarnybos išlaikymo finansavimą. Šios lėšos numatomos einamųjų metų
-
-Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
-
-patvirtinimo įstatyme.
+finansinių rodiklių patvirtinimo įstatyme.
 
 2. Fondo valdyba
 
@@ -1200,6 +1158,10 @@ Nr. X-65, 2004-12-22,
 
 Žin., 2004, Nr. 188-6997 (2004-12-31)
 
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+
 24 straipsnis. Pasiūlymai
 
 Vyriausybei
@@ -1220,9 +1182,15 @@ turi būti nustatyta:
 
 iš darbo priežastis, skyrimo ir mokėjimo tvarka;
 
-5) nepateisinamos priežastys, dėl kurių neskiriama
+5) pateisinamos priežastys, kurių nesant nedarbo
 
-nedarbo draudimo išmoka.
+draudimo išmoka neskiriama arba jos mokėjimas nutraukiamas.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
 25
 
@@ -1308,13 +1276,13 @@ INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 
 
 SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54
 
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR
 
-SKYRIUMI ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28,
+VII SKYRIUMI ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10,
 
-29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI
+28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 
-ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO,
+BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO,
 
 LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO
 
@@ -1362,9 +1330,9 @@ DIPLOMATINĖS
 
 TARNYBOS ĮSTATYMO, VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO, VALSTYBINIŲ
 
-SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO IR NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO
+SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO IR NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO
 
-ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 Šis
 
@@ -1378,9 +1346,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-594,
+X-594, 2006-05-04,
 
-2006-05-04, Žin., 2006, Nr. 57-2024 (2006-05-20)
+Žin., 2006, Nr. 57-2024 (2006-05-20)
 
 VALSTYBINIO
 
@@ -1490,15 +1458,25 @@ SOCIALINIO DRAUDIMO ĮSTATYMO 4 IR 18 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja 2009 m. sausio 1 d.
 
-***
+8.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2008-11-26)
+Nr.
 
-autrap@lrs.lt
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+
+NEDARBO
+
+SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 7, 9, 10, 11, 14, 15, 17, 20, 21, 23,
+
+24 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU
+
+GALIOS
+
+ĮSTATYMAS
 
 25 straipsnis.
 
@@ -1680,39 +1658,35 @@ autrap@lrs.lt
 
 5 straipsnis. Teisė į nedarbo draudimo išmoką
 
-1.
+1. Teisę į nedarbo
 
-Teisę į nedarbo draudimo išmoką turi bedarbiais teritorinėje darbo
+draudimo išmoką turi bedarbiais teritorinėje darbo biržoje įsiregistravę šio
 
-biržoje įsiregistravę apdraustieji, nurodyti šio Įstatymo 4 straipsnyje,
+Įstatymo 4 straipsnyje nurodyti apdraustieji, kuriems teritorinė darbo birža
 
-kuriems teritorinė darbo birža nepasiūlė darbo, atitinkančio jų profesinį
+nepasiūlė tinkamo darbo ar aktyvios darbo rinkos politikos priemonių ir jeigu
 
-pasirengimą bei sveikatos būklę, ar aktyvios darbo rinkos politikos priemonių
+jie:
 
-ir jeigu jie:
+1) iki įsiregistravimo
 
-1) iki įsiregistravimo teritorinėje darbo biržoje turi ne mažesnį kaip
+teritorinėje darbo biržoje turi ne mažesnį kaip 18 mėnesių nedarbo draudimo
 
-18 mėnesių nedarbo draudimo stažą per paskutinius 36 mėnesius;
+stažą per paskutinius 36 mėnesius;
 
-2) įstatymų
+2) įstatymų nustatyta tvarka buvo atleisti iš darbo ar valstybės
 
-nustatyta tvarka buvo atleisti iš darbo ar valstybės tarnautojų pareigų nesant
+tarnautojų pareigų nesant darbuotojo ar valstybės tarnautojo kaltės, dėl
 
-darbuotojo ar valstybės tarnautojo kaltės, dėl nepriklausančių nuo darbuotojo
+nepriklausančių nuo darbuotojo ar valstybės tarnautojo aplinkybių ir darbdavio
 
-ar valstybės tarnautojo aplinkybių ir darbdavio bankroto atveju;
+bankroto atveju;
 
-3)
+3) baigė privalomąją nuolatinę pradinę karo tarnybą ar alternatyviąją
 
-baigė
+krašto apsaugos tarnybą arba buvo atleisti iš šių tarnybų ištarnavę ne mažiau
 
-privalomąją nuolatinę pradinę karo tarnybą ar alternatyviąją krašto apsaugos
-
-tarnybą arba buvo atleisti iš šių tarnybų ištarnavę ne mažiau kaip pusę
-
-nustatyto laiko.
+kaip pusę nustatyto laiko.
 
 2. Neteko galios nuo 2008 m. sausio 1 d.
 
@@ -1738,13 +1712,17 @@ X-657,
 
 2006-06-08, Žin., 2006, Nr. 72-2674 (2006-06-28)
 
-Nr. X-1398,
+Nr. X-1398, 2007-12-20,
 
-2007-12-20, Žin., 2007, Nr. 138-5653 (2007-12-29)
+Žin., 2007, Nr. 138-5653 (2007-12-29)
 
 Nr. X-1399,
 
 2007-12-20, Žin., 2007, Nr. 138-5654 (2007-12-29)
+
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
 6
 
@@ -1764,21 +1742,27 @@ praėjus 3 kalendoriniams mėnesiams nuo įsiregistravimo teritorinėje
 
 darbo biržoje dienos.
 
-3. Bedarbiams, atleistiems iš darbo su teise pagal įstatymus gauti
+3. Bedarbiui,
 
-išeitinę išmoką, nedarbo draudimo išmoka skiriama
+atleistam iš darbo (tarnybos) ir gavusiam išeitinę išmoką arba šalių susitarimu
 
-ne anksčiau kaip praėjus vienam kalendoriniam
+kompensaciją, nedarbo draudimo išmoka skiriama ne anksčiau kaip praėjus tiek
 
-mėnesiui po darbo sutarties nutraukimo.
+kalendorinių mėnesių po darbo sutarties nutraukimo (atleidimo iš tarnybos), už
 
-4. Bedarbiams, gaunantiems socialinio draudimo ligos, profesinės
+kiek mėnesių vidutinio darbo užmokesčio dydžio išeitinė išmoka arba
 
-reabilitacijos, motinystės, tėvystės ar motinystės (tėvystės) pašalpą, paskirtą
+kompensacija jam buvo išmokėta.
 
-iki įsiregistravimo teritorinėje darbo biržoje dienos, nedarbo draudimo išmoka
+4. Bedarbiams, gaunantiems ligos, profesinės reabilitacijos,
 
-skiriama ne anksčiau, negu baigiasi šių pašalpų mokėjimo laikas.
+motinystės, tėvystės ar motinystės (tėvystės) socialinio draudimo pašalpą,
+
+paskirtą iki įsiregistravimo teritorinėje darbo biržoje dienos, nedarbo
+
+draudimo išmoka skiriama ne anksčiau, negu baigiasi šių pašalpų mokėjimo
+
+laikas.
 
 Straipsnio pakeitimai:
 
@@ -1787,6 +1771,10 @@ Nr.
 X-657,
 
 2006-06-08, Žin., 2006, Nr. 72-2674 (2006-06-28)
+
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
 7
 
@@ -1806,7 +1794,17 @@ išmoka mokama 6 mėnesius, jei jis yra nuo 25 iki 30 metų – 7 mėnesius, jei
 
 laikotarpiai, kai nedarbo draudimo išmokos mokėjimas buvo sustabdytas pagal šio
 
-Įstatymo 10 straipsnį.
+Įstatymo 10 straipsnį, išskyrus atvejus, kai bedarbis pagal Užimtumo rėmimo
+
+įstatymą dalyvauja profesiniame mokyme ir jo pasirinkimu gauna nedarbo draudimo
+
+išmokos dydžio mokymo stipendiją.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
 8
 
@@ -1894,37 +1892,35 @@ Nedarbo
 
 draudimo išmoka neskiriama, jeigu iki jos paskyrimo bedarbis:
 
-1)
+1) atsisakė
 
-atsisakė siūlomo darbo, atitinkančio jo profesinį pasirengimą, sveikatos būklę
+siūlomo tinkamo darbo;
 
-bei tinkamo pagal nuvykimo į siūlomą darbovietę ir grįžimo atgal trukmę, kaip
+2) be
 
-yra nustatyta Lietuvos Respublikos Vyriausybės patvirtintuose Nedarbo draudimo
+pateisinamų priežasčių, nurodytų Nedarbo draudimo išmokų nuostatuose, atsisakė
 
-išmokų nuostatuose (toliau – Nedarbo draudimo
+dalyvauti jo individualiame užimtumo veiklos plane (toliau – užimtumo planas)
 
-išmokų nuostatai);
+numatytose aktyvios darbo rinkos politikos priemonėse;
 
-2) be pateisinamų priežasčių, nurodytų Nedarbo draudimo išmokų nuostatuose,
+3) be pateisinamų priežasčių, nurodytų Nedarbo draudimo išmokų
 
-atsisakė dalyvauti jo individualiame įsidarbinimo plane numatytose aktyvios
+nuostatuose, nustatytu laiku neatvyko į teritorinę darbo biržą priimti pasiūlymo
 
-darbo rinkos politikos priemonėse;
+dirbti arba dalyvauti jo užimtumo plane numatytose aktyvios darbo rinkos
 
-3)
-
-be pateisinamų priežasčių, nurodytų Nedarbo draudimo išmokų nuostatuose,
-
-nustatytu laiku neatvyko į teritorinę darbo biržą priimti pasiūlymo dirbti arba
-
-dalyvauti jo įsidarbinimo plane numatytose aktyvios darbo rinkos politikos
-
-priemonėse;
+politikos priemonėse;
 
 4) atsisakė teritorinės darbo biržos siūlomo sveikatos patikrinimo, kad
 
 būtų nustatytas tinkamumas darbui.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
 10
 
@@ -1934,9 +1930,9 @@ Nedarbo draudimo
 
 išmokos mokėjimas sustabdomas, kai bedarbis:
 
-1) dalyvauja aktyvios darbo rinkos politikos
+1) dalyvauja aktyvios darbo rinkos politikos priemonėse ir gauna darbo
 
-priemonėse ir gauna darbo užmokestį;
+užmokestį ar pagal Užimtumo rėmimo įstatymą mokamą mokymo stipendiją;
 
 2) Nedarbo draudimo išmokų nuostatuose nustatyta tvarka informavęs
 
@@ -1952,6 +1948,10 @@ Nr. X-65, 2004-12-22,
 
 Žin., 2004, Nr. 188-6997 (2004-12-31)
 
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+
 16 straipsnis. Nedarbo draudimo išmokos išmokėjimas
 
 mirus asmeniui, turėjusiam teisę ją gauti
@@ -1962,7 +1962,9 @@ draudimo išmoka, negauta iki turėjusio į ją teisę asmens mirties dienos,
 
 išmokama asmeniui, pateikusiam paveldėjimo dokumentus.
 
-TREČIASIS SKIRSNIS
+TREČIASIS
+
+SKIRSNIS
 
 NEDARBO DRAUDIMO
 
@@ -1990,33 +1992,13 @@ draudimo pajamas sudaro draudėjų mokamos šiai draudimo rūšiai valstybinio
 
 socialinio draudimo įmokos.
 
-4. Valstybinio
+4. Neteko galios
 
-socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo
+nuo 2009 m. rugpjūčio 1 d.
 
-ministerijos (toliau – Fondo valdyba) pagal šiai draudimo rūšiai
+5. Neteko galios
 
-patvirtintą įmokų tarifo dydį kas savaitę perveda gautas lėšas Lietuvos darbo
-
-biržai prie Socialinės apsaugos ir darbo ministerijos (toliau – Lietuvos darbo
-
-birža). Pasibaigus ketvirčiui, nedarbo draudimo įmokos perskaičiuojamos pagal
-
-Valstybinio socialinio draudimo fondo valdybos ataskaitoje nurodytas faktiškai
-
-gautas draudėjų įmokas, papildomai apskaičiuotos sumos pervedamos kartu su
-
-einamosiomis įmokomis, o permokėtos sumos atimamos iš einamųjų įmokų.
-
-5. Pasibaigus
-
-metams, Lietuvos darbo birža Nedarbo draudimo išmokų nuostatuose nustatyta
-
-tvarka perveda Valstybinio socialinio draudimo fondo valdybai lėšas,
-
-viršijusias išlaidas. Šios lėšos perduodamos į Valstybinio socialinio draudimo
-
-fondo rezervą.
+nuo 2009 m. rugpjūčio 1 d.
 
 6. Pritrūkus
 
@@ -2032,6 +2014,10 @@ Nr. IX-2540,
 
 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
 
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+
 18
 
 straipsnis. Nedarbo draudimo įmokų mokėjimo tvarka
@@ -2043,28 +2029,6 @@ straipsnis. Nedarbo draudimo įmokų mokėjimo tvarka
 šio įstatymo 4 straipsnyje, skaičiuojamos ir mokamos įstatymų nustatyta tvarka
 
 kartu su kitomis socialinio draudimo rūšių įmokomis.
-
-2
-
-dalies redakcija iki 2009 m. sausio 1 d.:
-
-2. Asmenys,
-
-nurodyti šio įstatymo 4 straipsnio 5–8 punktuose, nedarbo draudimu privalomai
-
-draudžiami valstybės lėšomis. Nedarbo draudimo įmokos už asmenis, nurodytus 5
-
-punkte, mokamos nuo valstybės tarnautojo ar profesinės tarnybos kario 0,5
-
-pareiginės algos arba pagal delegavimo sutartį deleguoto asmens 0,5 darbo
-
-užmokesčio. Nedarbo draudimo įmokos už asmenis, nurodytus 6–8 punktuose,
-
-mokamos nuo minimalios mėnesinės algos.
-
-2
-
-dalies redakcija nuo 2009 m. sausio 1 d.:
 
 2. Asmenys,
 
@@ -2120,29 +2084,23 @@ X-1802,
 
 19
 
-straipsnis. Nedarbo draudimo išlaidos
+straipsnis. Neteko
 
-1. Nedarbo
-
-draudimo išlaidas sudaro lėšos, skirtos nedarbo draudimo išmokoms mokėti.
-
-2. Lietuvos
-
-darbo biržos sąmatoje numatomos kasos apyvartos lėšos. Šių lėšų dydis
-
-nustatomas tvirtinant Valstybinio socialinio draudimo fondo biudžetą.
-
-3. Lietuvos
-
-darbo birža Nedarbo draudimo išmokų nuostatuose nustatyta tvarka Fondo valdybai
-
-pateikia gautų lėšų panaudojimo finansinę ataskaitą.
+galios nuo 2009 m. rugpjūčio 1 d.
 
 Straipsnio pakeitimai:
 
 Nr. IX-2540,
 
 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
+
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+
+Straipsnio redakcija iki 2013 m. sausio
+
+1 d.:
 
 20
 
@@ -2159,6 +2117,50 @@ nuostatuose nustatyta tvarka.
 biržos yra atsakingos už nedarbo draudimo išmokų apskaičiavimą ir mokėjimą.
 
 Neteisingai išmokėtos sumos išieškomos įstatymų nustatyta tvarka.
+
+Straipsnio redakcija nuo 2013 m. sausio
+
+1 d.:
+
+20
+
+straipsnis. Įstaigos, skiriančios ir mokančios nedarbo draudimo išmokas, ir jų
+
+atsakomybė
+
+1. Lietuvos darbo birža
+
+nedarbo draudimo išmokas apskaičiuoja ir skiria per teritorines darbo biržas
+
+Nedarbo draudimo išmokų nuostatuose nustatyta tvarka.
+
+2. Nedarbo draudimo
+
+išmokas moka Valstybinio socialinio draudimo fondo valdybos teritoriniai
+
+skyriai (toliau – Fondo valdybos teritoriniai skyriai) Nedarbo draudimo išmokų
+
+nuostatuose nustatyta tvarka.
+
+3. Valstybinio socialinio draudimo fondo valdyba prie Socialinės
+
+apsaugos ir darbo ministerijos ir Fondo valdybos teritoriniai skyriai yra
+
+atsakingi už nedarbo draudimo išmokų mokėjimą.
+
+4. Lietuvos darbo birža ir jos teritorinės darbo biržos yra atsakingos
+
+už nedarbo draudimo išmokų apskaičiavimą ir skyrimą.
+
+5. Neteisingai apskaičiuotos ir išmokėtos nedarbo
+
+socialinio draudimo išmokos išieškomos įstatymų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
 
 KETVIRTASIS SKIRSNIS
 
