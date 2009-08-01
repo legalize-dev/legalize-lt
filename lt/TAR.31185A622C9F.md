@@ -4,7 +4,7 @@ identifier: "TAR.31185A622C9F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-04"
-last_updated: "2009-07-23"
+last_updated: "2009-08-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.31185A622C9F"
 department: "Lietuvos Respublikos Seimas"
@@ -2185,15 +2185,15 @@ neprivalomas, jei darbdavys yra fizinis asmuo, samdantis tris ir mažiau
 
 darbuotojų. Ne vėliau kaip prieš darbo pradžią kartu su antruoju darbo
 
-sutarties egzemplioriumi darbdavys įteikia darbuotojui pastarojo tapatybę patvirtinantį
+sutarties egzemplioriumi darbdavys įteikia darbuotojui pastarojo tapatybę
 
-dokumentą (darbo pažymėjimą). Darbo sutarties pavyzdinę formą, registravimo
+patvirtinantį dokumentą (darbo pažymėjimą). Darbo sutarties pavyzdinę formą,
 
-taisykles, taip pat darbuotojo tapatybę patvirtinančio dokumento formą, jo
+registravimo taisykles, taip pat darbuotojo tapatybę patvirtinančio dokumento
 
-išdavimo, nešiojimo bei pateikimo kontroliuojančioms institucijoms tvarką
+formą, jo išdavimo, nešiojimo bei pateikimo kontroliuojančioms institucijoms
 
-nustato Vyriausybė.
+tvarką nustato Vyriausybė.
 
 3. Darbdavys
 
@@ -2213,11 +2213,11 @@ taisyklėmis, kitais darbovietėje galiojančiais aktais, reglamentuojančiais j
 
 darbą.
 
-5. Darbuotojas
+5. Darbuotojas privalo
 
-privalo pradėti dirbti kitą po darbo sutarties sudarymo dieną, jeigu šalys
+pradėti dirbti kitą po darbo sutarties sudarymo dieną, jeigu šalys nesutarė
 
-nesutarė kitaip.
+kitaip.
 
 Straipsnio pakeitimai:
 
@@ -2319,13 +2319,13 @@ reikalaujančius specialių žinių, išlaikytų kvalifikacinius egzaminus.
 
 Kvalifikacinius reikalavimus ir egzaminų tvarką valstybės ir savivaldybių
 
-įmonėse, įstaigose ir organizacijose nustato Vyriausybė ar jos įgaliota institucija.
+įmonėse, įstaigose ir organizacijose nustato Vyriausybė ar jos įgaliota
 
-Kitose darbovietėse kvalifikacinius reikalavimus nustato darbdavys, o
+institucija. Kitose darbovietėse kvalifikacinius reikalavimus nustato
 
-kvalifikacinių egzaminų tvarką nustato darbdavys, atsižvelgdamas į darbuotojų
+darbdavys, o kvalifikacinių egzaminų tvarką nustato darbdavys, atsižvelgdamas į
 
-atstovų nuomonę.
+darbuotojų atstovų nuomonę.
 
 104
 
@@ -2677,7 +2677,9 @@ gali eiti antraeiles pareigas arba dirbti darbus kitoje darbovietėje, jeigu to
 
 nedraudžia įstatymai ar kiti norminiai teisės aktai. Darbo sutarties dėl
 
-antraeilių pareigų (darbo) ypatumus nustato Vyriausybė ir kolektyvinės sutartys.
+antraeilių pareigų (darbo) ypatumus nustato Vyriausybė ir kolektyvinės
+
+sutartys.
 
 Straipsnio pakeitimai:
 
@@ -2763,15 +2765,15 @@ straipsnis. Darbo sutarties sąlygų pakeitimas
 
 1. Kai keičiama
 
-gamyba, jos mastas, technologija arba darbo organizavimas, taip pat kitais gamybinio
+gamyba, jos mastas, technologija arba darbo organizavimas, taip pat kitais
 
-būtinumo atvejais darbdavys turi teisę pakeisti darbo sutarties sąlygas. Jei
+gamybinio būtinumo atvejais darbdavys turi teisę pakeisti darbo sutarties
 
-darbuotojas nesutinka dirbti pakeistomis darbo sąlygomis, jis gali būti
+sąlygas. Jei darbuotojas nesutinka dirbti pakeistomis darbo sąlygomis, jis gali
 
-atleistas iš darbo pagal šio Kodekso 129 straipsnį laikantis nustatytos darbo
+būti atleistas iš darbo pagal šio Kodekso 129 straipsnį laikantis nustatytos
 
-sutarties nutraukimo tvarkos.
+darbo sutarties nutraukimo tvarkos.
 
 2. Darbo
 
@@ -2819,9 +2821,9 @@ straipsnio 1 ir 2 dalyse nustatytas sąlygas, kai reikia užkirsti kelią
 
 gaivalinei nelaimei ar gamybinei avarijai, ją likviduoti arba nedelsiant
 
-pašalinti jos padarinius, užkirsti kelią nelaimingiems atsitikimams, gesinti gaisrą
+pašalinti jos padarinius, užkirsti kelią nelaimingiems atsitikimams, gesinti
 
-ir kitais ypatingais iš anksto nenumatytais atvejais.
+gaisrą ir kitais ypatingais iš anksto nenumatytais atvejais.
 
 2. Draudžiama
 
@@ -2841,9 +2843,9 @@ pirmesnio darbo vidutinis darbo užmokestis.
 
 straipsnis. Perkėlimas į kitą darbą prastovos atveju
 
-1. Prastova ne
+1. Prastova ne dėl
 
-dėl darbuotojo kaltės yra tokia padėtis darbovietėje, kai darbdavys neduoda
+darbuotojo kaltės yra tokia padėtis darbovietėje, kai darbdavys neduoda
 
 darbuotojui darbo sutartyje sulygto darbo dėl tam tikrų objektyvių priežasčių
 
@@ -2991,9 +2993,9 @@ keturiolika dienų. Kolektyvinėje sutartyje gali būti nustatytas ir kitoks
 
 įspėjimo terminas, bet jis negali viršyti vieno mėnesio. Įspėjimo
 
-terminui pasibaigus, darbuotojas turi teisę nutraukti darbą, o darbdavys
+terminui pasibaigus, darbuotojas turi teisę nutraukti darbą, o darbdavys privalo
 
-privalo įforminti darbo sutarties nutraukimą ir atsiskaityti su darbuotoju.
+įforminti darbo sutarties nutraukimą ir atsiskaityti su darbuotoju.
 
 2. Darbuotojas
 
@@ -3089,9 +3091,9 @@ pat gali būti nutraukta dėl ekonominių, technologinių priežasčių ar darbo
 
 struktūrinių pertvarkymų ir dėl panašių svarbių priežasčių.
 
-3. Teisėta
+3. Teisėta priežastis
 
-priežastis nutraukti darbo santykius negali būti:
+nutraukti darbo santykius negali būti:
 
 1) narystė
 
@@ -3251,9 +3253,9 @@ devynių darbuotojų;
 
 2) ne mažiau
 
-kaip dešimt procentų darbuotojų įmonėse, kuriose dirba nuo šimto iki dviejų šimtų
+kaip dešimt procentų darbuotojų įmonėse, kuriose dirba nuo šimto iki dviejų
 
-devyniasdešimt devynių darbuotojų;
+šimtų devyniasdešimt devynių darbuotojų;
 
 3) trisdešimt ir
 
@@ -3371,11 +3373,11 @@ metu, išskyrus šio Kodekso 136 straipsnio 1 dalyje nustatytus atvejus;
 
 2) darbuotoją,
 
-pašauktą atlikti tikrąją krašto apsaugos tarnybą arba kitas Lietuvos Respublikos
+pašauktą atlikti tikrąją krašto apsaugos tarnybą arba kitas Lietuvos
 
-piliečio pareigas, išskyrus šio Kodekso 136 straipsnio 1 dalyje nustatytus
+Respublikos piliečio pareigas, išskyrus šio Kodekso 136 straipsnio 1 dalyje
 
-atvejus;
+nustatytus atvejus;
 
 3) kitais
 
@@ -3395,19 +3397,19 @@ darbuotojams, auginantiems vaikus
 
 1. Darbo
 
-sutartis negali būti nutraukta su nėščia moterimi nuo tos dienos, kai darbdaviui
+sutartis negali būti nutraukta su nėščia moterimi nuo tos dienos, kai
 
-buvo pateikta medicinos pažyma apie nėštumą, ir dar vieną mėnesį pasibaigus
+darbdaviui buvo pateikta medicinos pažyma apie nėštumą, ir dar vieną mėnesį
 
-nėštumo ir gimdymo atostogoms, išskyrus šio Kodekso 136 straipsnio 1 ir 2
+pasibaigus nėštumo ir gimdymo atostogoms, išskyrus šio Kodekso 136 straipsnio 1
 
-dalyse nustatytus atvejus, taip pat laikinąją darbo sutartį pasibaigus jos
+ir 2 dalyse nustatytus atvejus, taip pat laikinąją darbo sutartį pasibaigus jos
 
 terminui.
 
-2. Su darbuotojais,
+2. Su
 
-auginančiais vaiką (vaikus) iki trejų metų, darbo sutartis negali būti
+darbuotojais, auginančiais vaiką (vaikus) iki trejų metų, darbo sutartis negali
 
 135 straipsnis. Pirmenybės teisė būti paliktam
 
@@ -3415,11 +3417,11 @@ dirbti, kai mažinamas darbuotojų skaičius
 
 1. Kai dėl
 
-ekonominių ar technologinių priežasčių arba dėl darbovietės struktūrinių
+ekonominių ar technologinių priežasčių arba dėl darbovietės struktūrinių pertvarkymų
 
-pertvarkymų mažinamas darbuotojų skaičius, pirmenybės teisę būti palikti dirbti
+mažinamas darbuotojų skaičius, pirmenybės teisę būti palikti dirbti turi
 
-turi darbuotojai:
+darbuotojai:
 
 1) kurie toje
 
@@ -8659,15 +8661,29 @@ DARBO
 
 KODEKSO 179 STRAIPSNIO IR PRIEDO PAPILDYMO ĮSTATYMAS
 
+20.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-394,
+
+2009-07-22, Žin., 2009, Nr. 91-3925 (2009-07-31)
+
+DARBO
+
+KODEKSO 98 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Vilija Tamaliūnienė (2009-07-23)
+Aušra Bodin (2009-08-03)
 
-vitama@lrs.lt
+aubodi@lrs.lt
 
 iki pasibaigiant terminui nepareikalavo jos nutraukti (Kodekso 126 straipsnis),
 
@@ -10469,7 +10485,11 @@ darbu laikomas darbas:
 
 93 straipsnyje nustatytiems darbo sutarties požymiams, dirbamas nesudarius
 
-darbo sutarties;
+darbo sutarties ar teisės aktų nustatyta tvarka nepranešus Valstybinio
+
+socialinio draudimo fondo valdybos teritoriniam skyriui apie asmenų priėmimą į
+
+darbą;
 
 2) dirbamas užsienio
 
@@ -10477,9 +10497,9 @@ valstybių piliečių ir asmenų be pilietybės, nesilaikant jiems norminių tei
 
 aktų nustatytos įsidarbinimo tvarkos.
 
-2. (Neteko
+2. (Neteko galios
 
-galios nuo 2006 m. gruodžio 5 d.)
+nuo 2006 m. gruodžio 5 d.)
 
 3. Darbdaviai ar
 
@@ -10496,6 +10516,12 @@ Nr. X-188, 2005-05-12,
 Nr. X-913, 2006-11-21,
 
 Žin., 2006, Nr. 132-4989 (2006-12-05)
+
+Nr.
+
+XI-394,
+
+2009-07-22, Žin., 2009, Nr. 91-3925 (2009-07-31)
 
 99
 
