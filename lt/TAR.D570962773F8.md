@@ -4,7 +4,7 @@ identifier: "TAR.D570962773F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-03"
-last_updated: "2008-05-31"
+last_updated: "2009-08-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 department: "Lietuvos Respublikos Seimas"
@@ -149,11 +149,7 @@ birželio 3-ioji – Sąjūdžio diena;
 
 28)
 
-birželio pirmasis sekmadienis – Tėvo diena;
-
-28 punktas
-
-netenka galios nuo 2009 m. sausio 1 d.
+(neteko galios);
 
 29) birželio 14-oji – Gedulo ir vilties
 
@@ -181,7 +177,9 @@ jaunimo diena;
 
 35)
 
-rugpjūčio 23-ioji – Juodojo kaspino ir Baltijos kelio diena;
+rugpjūčio 23-ioji – Europos diena stalinizmo ir nacizmo aukoms atminti ir
+
+Baltijos kelio diena;
 
 36) rugpjūčio 31-oji – Laisvės diena;
 
@@ -334,6 +332,12 @@ Nr.
 X-1537,
 
 2008-05-13, Žin., 2008, Nr. 62-2335 (2008-05-31)
+
+Nr.
+
+XI-384,
+
+2009-07-22, Žin., 2009, Nr. 93-3976 (2009-08-04)
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -571,13 +575,27 @@ DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 
 straipsnio 7 dalis įsigalioja 2009 m. sausio 1 d.
 
+17.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-384,
+
+2009-07-22, Žin., 2009, Nr. 93-3976 (2009-08-04)
+
+ATMINTINŲ
+
+DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-06-02)
+Aušra Bodin (2009-08-04)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
