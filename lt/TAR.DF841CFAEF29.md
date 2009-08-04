@@ -4,7 +4,7 @@ identifier: "TAR.DF841CFAEF29"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-11-12"
-last_updated: "2008-10-18"
+last_updated: "2009-08-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DF841CFAEF29"
 department: "Lietuvos Respublikos Seimas"
@@ -19,6 +19,8 @@ document_status: "registruotas TA registre"
 
 Neoficialus įstatymo tekstas
 
+[Įstatymo pavadinimo redakcija iki 2009-09-01]
+
 LIETUVOS
 
 RESPUBLIKOS
@@ -29,11 +31,31 @@ namams modernizuoti įstatymo įgyvendinimo
 
 įstatymas
 
+[Įstatymo pavadinimo redakcija nuo 2009-09-01]
+
+LIETUVOS
+
+RESPUBLIKOS
+
+VALSTYBĖS
+
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI IR DAUGIABUČIAMS NAMAMS ATNAUJINTI
+
+(MODERNIZUOTI) ĮSTATYMO ĮGYVENDINIMO
+
+ĮSTATYMAS
+
 Įstatymo pavadinimas keistas:
 
 Nr. X-145, 2005-03-24,
 
 Žin., 2005, Nr. 47-1556 (2005-04-12)
+
+Nr.
+
+XI-356,
+
+2009-07-17, Žin., 2009, Nr. 93-3962 (2009-08-04)
 
 2002 m. lapkričio 12 d. Nr. IX-1189
 
@@ -53,19 +75,19 @@ asmenys, įrašyti į eiles valstybės paramai gauti pagal Gyventojų apsirūpin
 
 gyvenamosiomis patalpomis įstatymą ir turintys teisę į savivaldybės socialinio
 
-būsto nuomą pagal Valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams
+būsto nuomą pagal Valstybės paramos būstui įsigyti ar išsinuomoti bei
 
-namams modernizuoti įstatymą, jeigu pageidauja, vadovaujantis Gyventojų
+daugiabučiams namams modernizuoti įstatymą, jeigu pageidauja, vadovaujantis
 
-apsirūpinimo gyvenamosiomis patalpomis įstatyme nustatytais eilių sudarymo
+Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatyme nustatytais eilių
 
-kriterijais, įrašomi į atitinkamus asmenų, turinčių teisę į socialinį būstą,
+sudarymo kriterijais, įrašomi į atitinkamus asmenų, turinčių teisę į socialinį
 
-sąrašus, kurie yra nurodyti Valstybės paramos būstui įsigyti ar išsinuomoti bei
+būstą, sąrašus, kurie yra nurodyti Valstybės paramos būstui įsigyti ar
 
-daugiabučiams namams modernizuoti įstatyme. Šių asmenų įrašymo į nurodytus
+išsinuomoti bei daugiabučiams namams modernizuoti įstatyme. Šių asmenų įrašymo
 
-sąrašus tvarką nustato Vyriausybė ar jos įgaliota institucija. Savivaldybių
+į nurodytus sąrašus tvarką nustato Vyriausybė ar jos įgaliota institucija. Savivaldybių
 
 socialinio būsto sąrašai registruojami informacinėje sistemoje, kurią tvarko
 
@@ -87,11 +109,11 @@ Nr. X-1733,
 
 2 straipsnis. Valstybės paramos būstui įsigyti ar
 
-išsinuomoti bei daugiabučiams namams modernizuoti įstatymo taikymas šeimoms ir
+išsinuomoti bei daugiabučiams namams modernizuoti įstatymo taikymas šeimoms ir asmenims,
 
-asmenims, kurie yra išsinuomoję savivaldybės gyvenamąsias patalpas pagal
+kurie yra išsinuomoję savivaldybės gyvenamąsias patalpas pagal Gyventojų
 
-Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą
+apsirūpinimo gyvenamosiomis patalpomis įstatymą
 
 Šeimoms
 
@@ -99,13 +121,13 @@ ir asmenims, kurie yra išsinuomoję savivaldybės gyvenamąsias patalpas pagal
 
 Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą, Valstybės paramos
 
-būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatyme nustatytas
+būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatyme
 
-socialinio būsto naudingojo ploto normatyvas ir šio būsto nuomos sąlygos
+nustatytas socialinio būsto naudingojo ploto normatyvas ir šio būsto nuomos
 
-netaikomi ir dėl to nuomos sutartis nekeičiama, išskyrus Civiliniame kodekse
+sąlygos netaikomi ir dėl to nuomos sutartis nekeičiama, išskyrus Civiliniame
 
-numatytus atvejus.
+kodekse numatytus atvejus.
 
 Straipsnio pakeitimai:
 
@@ -125,13 +147,13 @@ finansavimas
 
 Valstybės paramos būstui įsigyti ar
 
-išsinuomoti bei daugiabučiams namams modernizuoti įstatymui įgyvendinti
+išsinuomoti bei daugiabučiams namams modernizuoti įstatymui įgyvendinti valstybės
 
-valstybės biudžete yra numatomi asignavimai Specialiajai valstybės paramos
+biudžete yra numatomi asignavimai Specialiajai valstybės paramos gyvenamiesiems
 
-gyvenamiesiems namams, butams įsigyti finansavimo programai ir Specialiajai
+namams, butams įsigyti finansavimo programai ir Specialiajai daugiabučių namų
 
-daugiabučių namų modernizavimo programai.
+modernizavimo programai.
 
 Straipsnio pakeitimai:
 
@@ -147,9 +169,9 @@ Nr. X-1733,
 
 straipsnis. Įstatymo įsigaliojimas
 
-Šis Įstatymas
+Šis Įstatymas įsigalioja
 
-įsigalioja nuo 2003 m. sausio 1 d.
+nuo 2003 m. sausio 1 d.
 
 Skelbiu šį
 
@@ -239,15 +261,33 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
 
 ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 1, 2, 2(1) IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-356,
+
+2009-07-17, Žin., 2009, Nr. 93-3962 (2009-08-04)
+
+VALSTYBĖS
+
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
+
+ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO PAVADINIMO PAKEITIMO IR ĮSTATYMO PAPILDYMO 2(2)
+
+STRAIPSNIU ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-10-20)
+Aušra Bodin (2009-08-06)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
 4 straipsnis.
 
@@ -323,9 +363,9 @@ autrap@lrs.lt
 
 kredito likučio daliai apmokėti teikimas šeimoms ar asmenims, iki 2002 m. gruodžio 31 d.
 
-lengvatinėmis sąlygomis gavusiems kreditus pagal Gyventojų apsirūpinimo
+lengvatinėmis sąlygomis gavusiems kreditus pagal Gyventojų apsirūpinimo gyvenamosiomis
 
-gyvenamosiomis patalpomis įstatymą
+patalpomis įstatymą
 
 1. Šeimoms ir
 
@@ -414,4 +454,44 @@ Nr. X-320, 2005-07-05,
 Nr. X-1733,
 
 2008-09-29, Žin., 2008, Nr. 120-4545 (2008-10-18)
+
+[Įstatymas papildytas straipsniu nuo 2009-09-01]
+
+22 straipsnis. Valstybės paramos teikimas
+
+daugiabučių namų butų savininkams, įgyvendinantiems daugiabučių namų
+
+modernizavimo projektus, kuriems Vyriausybės nustatyta tvarka buvo pritarta iki
+
+Valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams
+
+modernizuoti įstatymo pavadinimo, 1, 2 straipsnių ir penktojo skirsnio
+
+pakeitimo ir papildymo įstatymo įsigaliojimo dienos
+
+Valstybės parama daugiabučių namų
+
+butų savininkams, įgyvendinantiems daugiabučių namų modernizavimo
+
+projektus, kuriems Vyriausybės nustatyta tvarka buvo pritarta iki Valstybės
+
+paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti
+
+įstatymo pavadinimo, 1, 2 straipsnių ir penktojo skirsnio pakeitimo ir
+
+papildymo įstatymo įsigaliojimo dienos, teikiama pagal iki nurodyto įstatymo
+
+įsigaliojimo dienos galiojusias Valstybės paramos daugiabučiams namams
+
+modernizuoti teikimo ir investicijų projektų energinio efektyvumo nustatymo
+
+taisykles.
+
+Įstatymas papildytas straipsniu:
+
+Nr.
+
+XI-356,
+
+2009-07-17, Žin., 2009, Nr. 93-3962 (2009-08-04)
 
