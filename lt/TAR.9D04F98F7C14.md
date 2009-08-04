@@ -4,7 +4,7 @@ identifier: "TAR.9D04F98F7C14"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-07"
-last_updated: "2008-12-30"
+last_updated: "2009-08-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -26,13 +26,29 @@ Neoficialus
 
 įstatymo tekstas
 
+[Įstatymo pavadinimo redakcija iki 2009-09-01]
+
 Lietuvos
 
-Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams
+Respublikos
 
-namams modernizuoti
+valstybės
+
+paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti
 
 įstatymas
+
+[Įstatymo pavadinimo redakcija nuo 2009-09-01]
+
+Lietuvos
+
+Respublikos
+
+VALSTYBĖS PARAMOS BŪSTUI
+
+ĮSIGYTI AR IŠSINUOMOTI IR DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI)
+
+ĮSTATYMAS
 
 Keistas įstatymo pavadinimas:
 
@@ -45,6 +61,12 @@ Nr. IX-1188,
 Nr. X-143, 2005-03-24,
 
 Žin., 2005, Nr. 47-1554 (2005-04-12)
+
+Nr.
+
+XI-355,
+
+2009-07-17, Žin., 2009, Nr. 93-3961 (2009-08-04)
 
 Nauja įstatymo redakcija nuo 2003 m. sausio 1 d. :
 
@@ -66,6 +88,8 @@ NUOSTATOS
 
 straipsnis. Įstatymo paskirtis ir taikymas
 
+[1 dalies redakcija iki 2009-09-01]
+
 1. Šis Įstatymas
 
 nustato valstybės paramos, teikiamos šeimoms ir asmenims, turintiems nuolatinę
@@ -77,6 +101,22 @@ gyvenamąją vietą Lietuvos Respublikoje, būstui pirkti, statyti ar rekonstruo
 socialinio būsto fondui sudaryti, formas, sąlygas ir tvarką, taip pat
 
 savivaldybių socialinio būsto nuomos sąlygas ir tvarką.
+
+[1 dalies redakcija nuo 2009-09-01]
+
+1. Šis Įstatymas
+
+nustato valstybės paramos, teikiamos fiziniams asmenims (šeimoms), turintiems
+
+(turinčioms) nuolatinę gyvenamąją vietą Lietuvos Respublikoje, būstui pirkti,
+
+statyti (rekonstruoti) (toliau – įsigyti), daugiabučiams namams atnaujinti
+
+(modernizuoti) ir savivaldybių socialinio būsto fondui sudaryti, formas,
+
+sąlygas ir tvarką, taip pat savivaldybių socialinio būsto nuomos sąlygas ir
+
+tvarką.
 
 2. Valstybės
 
@@ -103,6 +143,12 @@ Nr.
 XI-100,
 
 2008-12-22, Žin., 2008, Nr. 149-6024 (2008-12-30)
+
+Nr.
+
+XI-355,
+
+2009-07-17, Žin., 2009, Nr. 93-3961 (2009-08-04)
 
 2
 
@@ -226,6 +272,8 @@ asmuo, kuriam įstatymų nustatyta tvarka yra nustatyta laikinoji ar nuolatinė
 
 globa (rūpyba), iki 18 metų.
 
+[12 dalies redakcija iki 2009-09-01]
+
 12. Daugiabučio
 
 namo modernizavimas – statybos darbai, kuriais iš dalies arba visiškai
@@ -233,6 +281,34 @@ namo modernizavimas – statybos darbai, kuriais iš dalies arba visiškai
 atnaujinamos ir pagerinamos pastato ir (ar) jo inžinerinių sistemų fizinės ir
 
 energinės savybės.
+
+[12 dalies redakcija nuo 2009-09-01]
+
+12. Daugiabučio
+
+namo atnaujinimas (modernizavimas) – statybos darbai, kuriais atkuriamos ar
+
+pagerinamos pastato ir (ar) jo inžinerinių sistemų fizinės ir energinės savybės
+
+ir (ar) kuriais užtikrinamas iš atsinaujinančių energijos šaltinių gaunamos
+
+energijos naudojimas.
+
+[Papildyta 13 dalimi nuo 2009-09-01]
+
+13. Bendrojo
+
+naudojimo objektų valdytojas – daugiabučio namo butų ir kitų patalpų
+
+savininkų bendrija, jungtinės veiklos sutartimi įgaliotas asmuo arba kitas
+
+daugiabučio namo butų ir kitų patalpų savininkų sprendimu ir sutartimi
+
+įgaliotas asmuo, kuriam teisės aktai leidžia teikti turto administravimo
+
+paslaugas, arba pagal Civilinio kodekso 4.84 straipsnį paskirtas bendrojo
+
+naudojimo objektų administratorius.
 
 Straipsnio
 
@@ -249,6 +325,12 @@ Nr. X-143, 2005-03-24,
 Nr. X-1732,
 
 2008-09-29, Žin., 2008, Nr. 120-4544 (2008-10-18)
+
+Nr.
+
+XI-355,
+
+2009-07-17, Žin., 2009, Nr. 93-3961 (2009-08-04)(papildyta 13 dalimi)
 
 ANTRASIS
 
@@ -290,17 +372,17 @@ straipsnyje, jeigu jų kalendorinių metų pajamos ir turtas, apskaičiuoti
 
 Vyriausybės patvirtinto Šeimos ir asmens metinių pajamų ir turto apskaičiavimo
 
-teikiant valstybės paramą būstui įsigyti, savivaldybės socialiniam būstui išsinuomoti
+teikiant valstybės paramą būstui įsigyti, savivaldybės socialiniam būstui
 
-ar jo sąlygoms pagerinti tvarkos aprašo (toliau – Tvarkos aprašas) nustatyta
+išsinuomoti ar jo sąlygoms pagerinti tvarkos aprašo (toliau – Tvarkos aprašas)
 
-tvarka, prieš paramos suteikimo metus yra mažesni už pajamas ir turtą, kurių
+nustatyta tvarka, prieš paramos suteikimo metus yra mažesni už pajamas ir
 
-didžiausius dydžius nustato Vyriausybė, ir jeigu jie įsigyja pirmąjį
+turtą, kurių didžiausius dydžius nustato Vyriausybė, ir jeigu jie
 
-tinkamą būstą, t. y. jeigu šios šeimos ir asmenys Lietuvos Respublikos
+įsigyja pirmąjį tinkamą būstą, t. y. jeigu šios šeimos ir asmenys Lietuvos
 
-teritorijoje:
+Respublikos teritorijoje:
 
 1) neturi ar
 
@@ -498,9 +580,9 @@ sumos.
 
 2. Subsidijos
 
-teikimo ir apmokėjimo tvarką nustato Vyriausybė šio Įstatymo 4 straipsnio 3
+teikimo ir apmokėjimo tvarką nustato Vyriausybė šio Įstatymo 4 straipsnio 3 dalyje
 
-dalyje nurodytame Apraše.
+nurodytame Apraše.
 
 3. Tuo atveju,
 
@@ -642,17 +724,15 @@ yra mažesnis kaip 10 kvadratinių metrų arba šio straipsnio 1 dalyje nustatyt
 
 atvejais yra mažesnis kaip 14 kvadratinių metrų ir jų kalendorinių metų pajamos ir turtas, apskaičiuoti šio Įstatymo 4 straipsnio 1 dalyje nurodyto Tvarkos
 
-aprašo nustatyta tvarka, prieš socialinio būsto sąlygų pagerinimo metus
+aprašo nustatyta tvarka, prieš socialinio būsto sąlygų pagerinimo metus neviršija
 
-neviršija Vyriausybės nustatytų dydžių, turi teisę į socialinio būsto sąlygų
+Vyriausybės nustatytų dydžių, turi teisę į socialinio būsto sąlygų pagerinimą
 
-pagerinimą pagal šio Įstatymo 9 straipsnyje nustatytus socialinio būsto
+pagal šio Įstatymo 9 straipsnyje nustatytus socialinio būsto naudingojo ploto
 
-naudingojo ploto normatyvus. Suteikus kitą būstą ar įsigijus būstą nuosavybės
+normatyvus. Suteikus kitą būstą ar įsigijus būstą nuosavybės teise, šeima ir
 
-teise, šeima ir asmuo privalo per mėnesį patuštinti nuomotą savivaldybės
-
-socialinį būstą.
+asmuo privalo per mėnesį patuštinti nuomotą savivaldybės socialinį būstą.
 
 3. Šeimos ir
 
@@ -708,15 +788,15 @@ arba kurie yra pripažinti nedarbingais (netekusiais 75–100 procentų darbingu
 
 ar iš dalies darbingais (netekusiais 60–70 procentų darbingumo), arba kurie yra
 
-sukakę senatvės pensijos amžių ir jiems nustatyta specialiųjų poreikių tenkinimo
+sukakę senatvės pensijos amžių ir jiems nustatyta specialiųjų poreikių
 
-reikmė, asmenims, sergantiems lėtinių ligų, įrašytų į Vyriausybės ar jos
+tenkinimo reikmė, asmenims, sergantiems lėtinių ligų, įrašytų į Vyriausybės ar
 
-įgaliotos institucijos patvirtintą sąrašą, sunkiomis formomis, taip pat
+jos įgaliotos institucijos patvirtintą sąrašą, sunkiomis formomis, taip pat skirtingų
 
-skirtingų lyčių vaikams. Šiais atvejais savivaldybės vykdomosios institucijos
+lyčių vaikams. Šiais atvejais savivaldybės vykdomosios institucijos sprendimu
 
-sprendimu šeimai išnuomojamo būsto naudingasis plotas gali būti didesnis negu
+šeimai išnuomojamo būsto naudingasis plotas gali būti didesnis negu
 
 normatyvinis naudingasis plotas, apskaičiuotas pagal šio straipsnio 1 dalį.
 
@@ -728,9 +808,9 @@ atitinkančių šio straipsnio 1 dalies sąlygas.
 
 3. Išnuomojant
 
-vieno kambario butą, jo naudingasis plotas, tenkantis vienam šeimos nariui,
+vieno kambario butą, jo naudingasis plotas, tenkantis vienam šeimos nariui, gali
 
-gali būti didesnis negu apskaičiuotas pagal šio straipsnio 1 dalyje nustatytus
+būti didesnis negu apskaičiuotas pagal šio straipsnio 1 dalyje nustatytus
 
 normatyvus.
 
@@ -944,9 +1024,9 @@ straipsnis. Neteko galios nuo 2008 m. gruodžio 30 d.
 
 Įstatymas papildytas straipsniu:
 
-Nr. X-1732, 2008-09-29,
+Nr. X-1732,
 
-Žin., 2008, Nr. 120-4544 (2008-10-18)
+2008-09-29, Žin., 2008, Nr. 120-4544 (2008-10-18)
 
 Straipsnio pakeitimas:
 
@@ -1684,9 +1764,9 @@ tretiesiems asmenims, kai ši bendrosios nuosavybės dalis ar šios dalies dalis
 
 valstybės ar savivaldybės butų ir kitų patalpų valdytojo ar savininko pagal
 
-kompetenciją vadovaujantis Valstybės ir savivaldybių turto valdymo, naudojimo ir
+kompetenciją vadovaujantis Valstybės ir savivaldybių turto valdymo, naudojimo
 
-disponavimo juo įstatymu priimtu sprendimu pripažinta nereikalinga arba
+ir disponavimo juo įstatymu priimtu sprendimu pripažinta nereikalinga arba
 
 netinkama (negalima) naudoti reikmėms, susijusioms su valstybės ar savivaldybės
 
@@ -1718,15 +1798,15 @@ paskirties pastatus, apskaitos ir naudojimo tvarką nustato Vyriausybė.
 
 vykdomosios institucijos pirkimo-pardavimo
 
-sutartis sudaro ir tais atvejais, jeigu gyventojai pagal Butų privatizavimo įstatymą
+sutartis sudaro ir tais atvejais, jeigu gyventojai pagal Butų privatizavimo
 
-nustatytu laiku buvo pateikę prašymus privatizuoti nuomojamas gyvenamąsias
+įstatymą nustatytu laiku buvo pateikę prašymus privatizuoti nuomojamas
 
-patalpas ir įstatymo nustatyta tvarka yra priimtas sprendimas dėl
+gyvenamąsias patalpas ir įstatymo nustatyta tvarka yra priimtas
 
-privatizavimo, ir jeigu jie yra sumokėję nustatyto dydžio įmokas, tačiau
+sprendimas dėl privatizavimo, ir jeigu jie yra sumokėję nustatyto dydžio
 
-nesudarę pirkimo–pardavimo sutarties.
+įmokas, tačiau nesudarę pirkimo–pardavimo sutarties.
 
 5. Ketinant
 
@@ -1774,6 +1854,18 @@ Nr. X-143, 2005-03-24,
 
 Žin., 2005, Nr. 47-1554 (2005-04-12)
 
+Penktojo
+
+skirsnio pakeitimai:
+
+Nr.
+
+XI-355,
+
+2009-07-17, Žin., 2009, Nr. 93-3961 (2009-08-04)
+
+[Penktojo skirsnio redakcija iki 2009-09-01]
+
 PENKTASIS
 
 SKIRSNIS
@@ -1782,103 +1874,161 @@ VALSTYBĖS PARAMA
 
 DAUGIABUČIAMS NAMAMS MODERNIZUOTI
 
-13 straipsnio
+13 straipsnis. Valstybės
 
-redakcija iki 2009 m. sausio 1 d.:
+paramos daugiabučiams namams modernizuoti teikimo sąlygos ir būdai
 
-13 straipsnis. Valstybės paramos
+1. Valstybės parama daugiabučiams namams
 
-daugiabučiams namams modernizuoti teikimo sąlygos ir būdai
+modernizuoti teikiama visiems daugiabučių namų butų savininkams, nepaisant
 
-1. Valstybės
+savininkų bendrosios dalinės nuosavybės administravimo formos:
 
-parama daugiabučiams namams modernizuoti teikiama:
+1) apmokant ne
 
-1) apmokant dalį
+didesnę kaip 50 procentų valstybės remiamų  investicijų dalį daugiabučiams
 
-investicijų daugiabučiams namams modernizuoti, atsižvelgiant į šių investicijų
+namams modernizuoti, atsižvelgiant į šių investicijų projektų, įgyvendinamų
 
-projektų, įgyvendinamų pagal Lietuvos Respublikos Vyriausybės patvirtintą
+pagal Lietuvos Respublikos Vyriausybės patvirtintą daugiabučių namų
 
-daugiabučių namų modernizavimo programą ar ją atitinkančias savivaldybių
+modernizavimo programą ar ją atitinkančias savivaldybių patvirtintas programas,
 
-patvirtintas programas, energinį efektyvumą;
+energinį efektyvumą. Suteikiant
 
-2) apmokant
+daugiabučių namų savininkams vienkartinę Lietuvos Respublikos Vyriausybės ar
 
-daugiabučio namo modernizavimo, vykdomo pagal 1 punkte nurodytus investicijų
+jos įgaliotos institucijos nustatyto dydžio valstybės paramą, vienkartinės
 
-projektus, išlaidas, tenkančias nepasiturinčioms šeimoms ir vieniems
+valstybės paramos dydis vienam daugiabučio namo naudingojo ploto kvadratiniam
 
-gyvenantiems asmenims: jiems tenkantį investicijos pradinį įnašą ar jo dalį,
+metrui neturi būti didesnis už Vyriausybės nustatytą;
+
+2) apmokant daugiabučio namo
+
+modernizavimo, atliekamo pagal šios dalies 1 punkte nurodytus investicijų
+
+projektus, išlaidas, tenkančias mažas pajamas gaunančioms šeimoms (vieniems
+
+gyvenantiems asmenims): jiems tenkantį investicijos pradinį įnašą ar jo dalį,
 
 kredito draudimo įmoką ar jos dalį, kreditą ar jo dalį ir palūkanas ar jų dalį.
 
-2. Šio
+2. Šio straipsnio 1
 
-straipsnio 1 dalyje nurodyto valstybės paramos teikimo ir investicijų projektų
+dalyje nurodyto Valstybės paramos daugiabučiams namams modernizuoti teikimo ir
 
-energinio efektyvumo nustatymo taisykles nustato Lietuvos Respublikos
+investicijų projektų energinio efektyvumo nustatymo taisykles tvirtina Lietuvos
 
-Vyriausybė ar jos įgaliotos institucijos, atsižvelgdamos į valstybės biudžeto asignavimus
+Respublikos Vyriausybė ar jos įgaliotos institucijos, atsižvelgdamos į
 
-Specialiajai daugiabučių namų modernizavimo programai.
+valstybės biudžeto asignavimus daugiabučių namų modernizavimo programai
 
-13 straipsnio
+įgyvendinti. Šiose taisyklėse turi būti nustatytas didžiausias valstybės
 
-redakcija nuo 2009 m. sausio 1 d.:
+paramos daugiabučiams namams modernizuoti dydis.
 
-15 straipsnis. Prašymo
+3. Šio
 
-valstybės paramai gauti turinys
+straipsnio 1 dalies 1 punkte nurodyto valstybės paramos teikimo ir investicijų
 
-Pilietis, norėdamas gauti
+projektų energinio efektyvumo įgyvendinimui būtina įdiegti šiuos daugiabučių
 
-valstybės paramą, parašo nustatytos formos prašymą, kuriame nurodo: šeimos sudėtį,
+namų savininkų lėšų kaupimo principus daugiabučio namo modernizavimui
 
-duomenis apie turimą gyvenamąją patalpą, pageidaujamos valstybės paramos formą
+(investicijų projektų įgyvendinimui):
 
-ir kitus duomenis pagal 2 priedėlyje pateiktą formą. Prašymas turi būti
+1) daugiabučio
 
-pasirašytas visų pilnamečių šeimos narių, taip pat ir laikinai išvykusiųjų.
+namo butų ir kitų patalpų savininkai privalo kaupti asmenines lėšas, kurios bus
 
-Prie prašymo turi būti pridėta
+skiriamos daugiabučio namo modernizavimui (investicijų projektų įgyvendinimui).
 
-šio įstatymo 3 priedėlyje pateiktos formos anketa. Jeigu pareiškėjas ar kiti
+Daugiabučių namų, kuriuose nėra įsteigtos daugiabučio namo butų ir kitų patalpų
 
-šeimos nariai, pageidaujantys kartu gauti valstybės paramą, gyvena skirtingose
+savininkų bendrijos arba
 
-vietose, kiekvienas iš jų privalo užpildyti ir pateikti anketą apie turimas
+kurių savininkai nėra sudarę jungtinės veiklos sutarties, butų ir kitų patalpų
 
-gyvenamąsias patalpas, kuri pridedama prie prašymo paramai gauti. Anketą
+savininkų įnašus daugiabučių namų modernizavimui (investicijų projektų
 
-užpildo ir pasirašo pareiškėjas. Anketos duomenis patikslina ir ją patvirtina
+įgyvendinimui) renka ir kaupia teisės aktų nustatyta tvarka paskirti
 
-gyvenamosios patalpos savininkas ar jo įgaliotas asmuo. Jeigu pilietis
+daugiabučių namų bendrojo naudojimo objektų administratoriai. Daugiabučių namų
 
-pageidauja būti įrašytas į socialiai remtinų asmenų eilę, prie prašymo turi
+bendrojo naudojimo objektų administratoriai butų ir kitų patalpų savininkų
 
-pridėti dokumentą, patvirtinantį, kad jis priklauso tokiai asmenų kategorijai.
+įnašus renka ir kaupia Butų ir kitų patalpų savininkų bendrosios nuosavybės
 
-Jeigu pilietis yra atvykęs iš kitos gyvenamosios vietovės, kurioje buvo
+administravimo pavyzdinių nuostatų, patvirtintų Lietuvos Respublikos
 
-įrašytas į eilę valstybės paramai gauti, jis turi pridėti dokumentą, liudijantį,
+Vyriausybės 2001
 
-kiek laiko išbūta tokioje eilėje ankstesnėje gyvenamojoje vietovėje.
+m.
 
-Už prašyme ir anketoje
+gegužės 23 d. nutarimu Nr. 603, nustatyta tvarka;
 
-pateiktų duomenų tikrumą atsako pareiškėjas. Už anketoje pateiktų duomenų
+2) daugiabučio
 
-tikrumą taip pat atsako ir ją priėmęs pareigūnas.
+namo, kuriame yra įsteigta daugiabučio namo butų ir kitų patalpų savininkų bendrija arba
+
+kurio savininkai yra sudarę jungtinės veiklos sutartį, butų ir kitų patalpų
+
+savininkų mažiausią įnašo daugiabučio namo modernizavimui (investicijų projektų
+
+įgyvendinimui) dydį nustato patys savininkai bendrijos įstatų ar jungtinės
+
+veiklos sutarties nustatyta tvarka. Daugiabučio namo, kuriame nėra įsteigta daugiabučio namo
+
+butų ir kitų patalpų savininkų bendrija arba kurio savininkai nėra sudarę
+
+jungtinės veiklos sutarties, mažiausio įnašo daugiabučio namo modernizavimui (investicijų
+
+projektų įgyvendinimui) apskaičiavimo metodiką ir jo išvestinį  dydį nustato
+
+Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+4. Šio
+
+straipsnio 3 dalies 1 punkte nurodytų daugiabučių namų butų ir kitų patalpų
+
+savininkų įnašų daugiabučių namų modernizavimui rinkimą, kaupimą ir panaudojimą
+
+kontroliuoja savivaldybių vykdomosios institucijos.
 
 Straipsnio
 
 pakeitimai:
 
-Nr.I-358;
+Nr. X-1574,
 
-1993.12.23.; Žin., 1994, Nr.1-3
+2008-06-05, Žin., 2008, Nr. 71-2703 (2008-06-21)
+
+Nr. X-1732,
+
+2008-09-29, Žin., 2008, Nr. 120-4544 (2008-10-18)
+
+15 straipsnis.
+
+Sprendimų dėl daugiabučių namų atnaujinimo (modernizavimo) finansavimo priėmimo
+
+ir jų vykdymo tvarka
+
+Sprendimus dėl
+
+lėšų skolinimosi ir kreditavimo sutarties sąlygų
+
+daugiabučio namo atnaujinimui (modernizavimui) finansuoti butų ir kitų
+
+patalpų savininkai priima mutatis mutandis Civilinio kodekso 4.85 straipsnyje
+
+nustatyta sprendimų priėmimo tvarka. Sutartis su bankais ar kitomis kredito
+
+įstaigomis dėl kredito daugiabučio namo atnaujinimo (modernizavimo) projektui
+
+įgyvendinti butų ir kitų patalpų savininkų vardu sudaro bendrojo naudojimo
+
+objektų valdytojas.
 
 17 straipsnis.
 
@@ -3476,6 +3626,52 @@ Nr. X-1732,
 
 2008-09-29, Žin., 2008, Nr. 120-4544 (2008-10-18)
 
+[Penktojo skirsnio redakcija nuo 2009-09-01]
+
+PENKTASIS
+
+SKIRSNIS
+
+VALSTYBĖS PARAMA
+
+DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI)
+
+16 straipsnis. Butų savininkų, įgyvendinančių daugiabučio namo atnaujinimo (modernizavimo)
+
+projektus, interesų apsauga
+
+1. Daugiabučio
+
+namo atnaujinimo (modernizavimo) projektai turi atitikti teisingumo,
+
+protingumo, sąžiningumo kriterijus. Atnaujinimo (modernizavimo) projekto
+
+įgyvendinimui skirta kaupiamojo įnašo ir (ar) kitų įmokų mėnesinė įmoka,
+
+tenkanti buto naudingojo ploto vienam kvadratiniam metrui, turi atitikti
+
+vykdomų darbų mastą ir buto savininkų pajamas.
+
+2. Draudžiama
+
+nukreipti išieškojimą pagal buto savininko neįvykdytas prievoles dėl
+
+atnaujinimo (modernizavimo) projektų jo dalies apmokėjimo į jo butą
+
+atnaujintame (modernizuotame) name, jeigu tai yra vienintelis šeimos (vieno
+
+gyvenančio asmens) būstas.
+
+3. Buto perleidimo (paveldėjimo) metu
+
+buvę įsiskolinimai pagal atnaujinimo
+
+(modernizavimo)
+
+projektus padengiami, o vykdytinos prievolės perduodamos buto pirkėjui
+
+(įgijėjui).
+
 LIETUVOS RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS TARYBOS
@@ -3608,9 +3804,9 @@ GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS
 
 PRIVATIZAVIMO ĮSTATYMO BEI LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS -
 
-ATKURIAMOJO SEIMO NUTARIMO „DĖL LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO
+ATKURIAMOJO SEIMO NUTARIMO „DĖL LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO
 
-ĮSIGALIOJIMO“ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+ĮSTATYMO ĮSIGALIOJIMO“ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
 Šis
 
@@ -3866,69 +4062,51 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
 
 ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+18.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-355,
+
+2009-07-17, Žin., 2009, Nr. 93-3961 (2009-08-04)
+
+VALSTYBĖS
+
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
+
+ĮSTATYMO PAVADINIMO, 1, 2 STRAIPSNIŲ IR PENKTOJO SKIRSNIO PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2009 m. rugsėjo 1 d.
+
+Šio
+
+įstatymo 4 straipsnyje išdėstyto Valstybės paramos būstui įsigyti ar
+
+išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymo penktojo
+
+skirsnio 14 straipsnio 1 dalies nuostata dėl 20 procentų akcizo pajamų,
+
+gautų už energinius produktus, panaudojimo valstybės paramai daugiabučiams
+
+namams atnaujinti (modernizuoti) įsigalioja atitinkamo Lietuvos Respublikos
+
+akcizų įstatymo pakeitimo įstatymo įsigaliojimo dieną.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2009-01-09)
+Aušra Bodin (2009-08-06)
 
-autrap@lrs.lt
-
-16 straipsnis. Piliečių,
-
-pageidaujančių gauti valstybės paramą, registravimas
-
-Piliečiai, turintys teisę į
-
-valstybės paramą, registruojami ir parama jiems suteikiama savivaldybėse pagal
-
-gyvenamąją vietą.
-
-Gavęs piliečio prašymą,
-
-savivaldybės valdymo organas per mėnesį jį išnagrinėja ir priima sprendimą -
-
-registruoti pilietį valstybės paramai gauti ar neregistruoti.
-
-Užregistruoti asmenys
-
-įrašomi į piliečių, turinčių teisę gauti valstybės paramą apsirūpinti
-
-gyvenamosiomis patalpomis, registracijos knygą. Ši knyga turi būti sunumeruota,
-
-susiūta ir patvirtinta savivaldybės valdybos mero, valdytojo ar viršaičio
-
-parašu.
-
-Registracijos knyga yra
-
-griežtos atskaitomybės dokumentas, neaptartų pataisų joje negali būti. Visi
-
-pareiškėjo prašyme ir anketoje pateiktų duomenų pasikeitimai, turintys įtakos
-
-eiliškumo nustatymui, tarp jų ir pageidaujamos valstybės paramos forma,
-
-pažymimi registracijos knygoje.
-
-Kiekvienam įrašytų į
-
-registracijos knygą piliečių pareiškimui vedama atskira byla, kurioje laikomi
-
-reikalingi dokumentai.
-
-Savivaldybė, užregistravusi
-
-pilietį, kuriam bus suteikta valstybės parama, apie tai jam praneša raštu. Ta
-
-pačia tvarka pranešama ir jeigu pilietis neregistruojamas. Pranešime turi būti
-
-nurodyti neregistravimo motyvai.
-
-Ginčai dėl atsisakymo
-
-pilietį registruoti valstybės paramai gauti sprendžiami teismine tvarka.
+aubodi@lrs.lt
 
 19 straipsnis. Piliečių,
 
