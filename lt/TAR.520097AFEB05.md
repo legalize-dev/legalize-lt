@@ -4,7 +4,7 @@ identifier: "TAR.520097AFEB05"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-04-03"
-last_updated: "2008-01-01"
+last_updated: "2009-08-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.520097AFEB05"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Šis įstatymas, išskyrus 2 straipsnį, įsigalioja nuo 2008 m. sausio 1 d."
 ---
 # Lietuvos Respublikos profesinio mokymo įstatymo pakeitimo įstatymas
+
+Suvestinė redakcija nuo 2009-08-04
+
+Įstatymas paskelbtas: Žin. 2007, Nr. 43-1627, i. k. 1071010ISTA00X-1065
 
 LIETUVOS RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO PAKEITIMO Į S T A T Y M A S
 
