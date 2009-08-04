@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2008-11-29"
+last_updated: "2009-08-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -52,8 +52,6 @@ SKIRSNIS
 BENDROSIOS
 
 NUOSTATOS
-
-1 straipsnio redakcija iki 2009 m. sausio 1 d.:
 
 4 straipsnis. Asmenys, draudžiami nelaimingų atsitikimų darbe
 
@@ -109,11 +107,13 @@ X-475,
 
 2005-12-23, Žin., 2005, Nr. 153-5642 (2005-12-31)
 
-Nr. X-1401, 2007-12-20,
+Nr. X-1401,
 
-Žin., 2007, Nr. 138-5656 (2007-12-29)
+2007-12-20, Žin., 2007, Nr. 138-5656 (2007-12-29)
 
-15 straipsnis. Ligos pašalpų dydis
+15 straipsnis.
+
+Ligos pašalpų dydis
 
 Apdraustajam
 
@@ -121,13 +121,39 @@ tapus laikinai nedarbingam dėl draudiminio įvykio, pripažinto pagal 6
 
 straipsnį, mokama ligos pašalpa, kurios dydis yra 100 procentų kompensuojamojo
 
-uždarbio, taikomo ligos pašalpoms skaičiuoti. Pašalpa mokama už darbo dienas
+uždarbio, taikomo ligos pašalpoms skaičiuoti. Pašalpa mokama už darbo laiką
 
-pagal kalendorių (taikoma 5 darbo dienų savaitė), atsižvelgiant į Vyriausybės
+pagal asmens darbo (pamainų) grafiką.
 
-nutarimu perkeltas poilsio dienas.
+Straipsnio
 
-15 straipsnio redakcija nuo 2009 m. sausio 1 d.:
+pakeitimai:
+
+Nr.
+
+X-668,
+
+2006-06-08, Žin., 2006, Nr. 72-2684 (2006-06-28)
+
+Nr.
+
+X-1840,
+
+2008-11-14, Žin., 2008, Nr. 137-5384 (2008-11-29)
+
+16
+
+straipsnis. Ligos pašalpų mokėjimo šaltiniai
+
+Ligos pašalpos,
+
+susižalojus darbe, pakeliui į darbą ar iš darbo arba susirgus profesine liga,
+
+už laikotarpį nuo pirmos laikinojo nedarbingumo dienos mokamos iš Valstybinio
+
+socialinio draudimo fondo biudžeto nelaimingų atsitikimų darbe socialiniam
+
+draudimui skirtų lėšų.
 
 18 straipsnis. Išmokų mokėjimas mirus asmeniui, turėjusiam
 
@@ -167,11 +193,9 @@ uždarbio, taikomo vienkartinei kompensacijai apskaičiuoti.
 
 nukentėjusiajam nustatytas neterminuotas darbingumo netekimas, nurodytas šio
 
-straipsnio 1 ir 2 dalyse, tai netekto darbingumo vienkartinė kompensacija
+straipsnio 1 ir 2 dalyse, tai netekto darbingumo vienkartinė kompensacija išmokama
 
-išmokama trigubai didesnė, negu nurodyta atitinkamai šio straipsnio 1 ar 2
-
-dalyje.
+trigubai didesnė, negu nurodyta atitinkamai šio straipsnio 1 ar 2 dalyje.
 
 4. Mėnesio
 
@@ -211,8 +235,6 @@ gautąją, išmokamas naujai apskaičiuotos ir jau išmokėtos kompensacijos
 
 skirtumas.
 
-Straipsnis papildomas 7 dalimi nuo 2009 m. sausio 1 d.:
-
 7. Netekto
 
 darbingumo vienkartinė kompensacija skiriama pasibaigus NDNT sprendimo
@@ -225,19 +247,19 @@ Straipsnio pakeitimai:
 
 Nr.
 
-X-1840, 2008-11-14,
+X-1840,
 
-Žin., 2008, Nr. 137-5384 (2008-11-29)
+2008-11-14, Žin., 2008, Nr. 137-5384 (2008-11-29)(papildyta 7 dalimi)
 
 20
 
 straipsnis. Netekto darbingumo periodinė kompensacija
 
-1. Jeigu
+1. Jeigu nustatoma,
 
-nustatoma, kad nukentėjusysis dėl draudiminio įvykio neteko 30 ir daugiau
+kad nukentėjusysis dėl draudiminio įvykio neteko 30 ir daugiau procentų
 
-procentų darbingumo, jam mokama netekto darbingumo periodinė kompensacija.
+darbingumo, jam mokama netekto darbingumo periodinė kompensacija.
 
 2. Netekto darbingumo
 
@@ -311,31 +333,35 @@ su darbu, išskyrus atvejus, kai nelaimingas atsitikimas įvyksta pakeliui į
 
 darbą ar iš darbo.
 
-*Pastaba. Pripažinti, kad Lietuvos
+*Pastaba. Pripažinti, kad Lietuvos Respublikos
 
-Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo
+nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 7
 
-įstatymo 7 straipsnio 2 dalies (2005 m. gegužės 19 d. redakcija; Žin., 2005, Nr. 71‑2557) nuostata „Draudiminiais įvykiais taip pat
+straipsnio 2 dalies (2005 m. gegužės 19 d. redakcija; Žin., 2005, Nr. 71‑2557)
 
-nepripažįstami nelaimingi atsitikimai darbe <...> arba nustatytos ūmios
+nuostata „Draudiminiais įvykiais taip pat nepripažįstami nelaimingi
 
-profesinės ligos, kuriuos ištyrus nustatoma, kad <...> jie įvykę esant
+atsitikimai darbe <...> arba nustatytos ūmios profesinės ligos, kuriuos
 
-bent vienai iš šių aplinkybių: 1) apdraustasis buvo neblaivus ar apsvaigęs nuo
+ištyrus nustatoma, kad <...> jie įvykę esant bent vienai iš šių
 
-narkotinių, toksinių ar psichotropinių medžiagų ir tai nebuvo susiję su jam
+aplinkybių: 1) apdraustasis buvo neblaivus ar apsvaigęs nuo narkotinių,
 
-draudėjo pavesto darbo technologijos ypatybėmis“ (2003 m. lapkričio 11 d. redakcija; Žin., 2003, Nr. 114‑5114) ta apimtimi, kuria draudiminiais
+toksinių ar psichotropinių medžiagų ir tai nebuvo susiję su jam draudėjo pavesto
 
-įvykiais nepripažįstami nelaimingi atsitikimai darbe arba nustatytos ūmios
+darbo technologijos ypatybėmis“ (2003 m. lapkričio 11 d. redakcija; Žin., 2003,
 
-profesinės ligos, kuriuos ištyrus nustatoma, kad jie yra įvykę apdraustajam
+Nr. 114‑5114) ta apimtimi, kuria draudiminiais įvykiais nepripažįstami
 
-esant neblaiviam arba apsvaigusiam nuo narkotinių, toksinių ar psichotropinių
+nelaimingi atsitikimai darbe arba nustatytos ūmios profesinės ligos, kuriuos
 
-medžiagų, bet nelaimingus atsitikimus darbe arba ūmias profesines ligas lėmė ne
+ištyrus nustatoma, kad jie yra įvykę apdraustajam esant neblaiviam arba
 
-jo neblaivumas arba apsvaigimas nuo narkotinių, toksinių ar psichotropinių
+apsvaigusiam nuo narkotinių, toksinių ar psichotropinių medžiagų, bet
+
+nelaimingus atsitikimus darbe arba ūmias profesines ligas lėmė ne jo
+
+neblaivumas arba apsvaigimas nuo narkotinių, toksinių ar psichotropinių
 
 medžiagų, o netinkamos, nesaugios, nesveikos darbo sąlygos, prieštarauja
 
@@ -473,9 +499,9 @@ nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės li
 
 pašalpa (toliau – ligos pašalpa);
 
-2) netekto
+2) netekto darbingumo
 
-darbingumo vienkartinė kompensacija;
+vienkartinė kompensacija;
 
 3) netekto
 
@@ -501,23 +527,31 @@ straipsnio 1 dalies 2, 3 punktuose nurodytos išmokos mokamos paleidus juos iš
 
 bausmės atlikimo įstaigos.
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis.
 
-Šis Įstatymas
+Įstatymo paskirtis
 
-nustato nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo bei
+Šis
+
+Įstatymas nustato nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo bei
 
 profesinių ligų socialinio draudimo (toliau – nelaimingų atsitikimų darbe
 
 socialinis draudimas) santykius, asmenų, kurie draudžiami šios rūšies
 
-socialiniu draudimu, kategorijas, teises į šio draudimo išmokas, išmokų
+socialiniu draudimu, kategorijas bei šių asmenų teises į šio draudimo išmokas,
 
-skyrimo, apskaičiavimo bei mokėjimo sąlygas, apibrėžia draudiminius bei
+išmokų skyrimo, apskaičiavimo bei mokėjimo sąlygas, apibrėžia draudiminius bei
 
 nedraudiminius įvykius.
 
-1 straipsnio redakcija nuo 2009 m. sausio 1 d.:
+Straipsnio pakeitimai:
+
+Nr.
+
+X-1840,
+
+2008-11-14, Žin., 2008, Nr. 137-5384 (2008-11-29)
 
 2 straipsnis. Nelaimingų atsitikimų darbe socialinis draudimas
 
@@ -575,9 +609,9 @@ atsitikimų darbe socialinio draudimo įmokas.
 
 4. Darbingumo
 
-netekimo koeficientas (d) – vieneto dalimis išreikštas dydis,
+netekimo koeficientas (d) – vieneto dalimis išreikštas dydis, apskaičiuojamas
 
-apskaičiuojamas netekto darbingumo procentą dalijant iš 100.
+netekto darbingumo procentą dalijant iš 100.
 
 5. Darbo
 
@@ -1073,9 +1107,9 @@ ketvirtį, buvusį prieš laikinojo nedarbingumo nustatymo mėnesį.
 
 2. Mėnesio
 
-kompensuojamasis uždarbis ligos pašalpoms apskaičiuoti negali viršyti
+kompensuojamasis uždarbis ligos pašalpoms apskaičiuoti negali viršyti Vyriausybės
 
-Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų, galiojusių laikinojo
+patvirtintų einamųjų metų draudžiamųjų pajamų, galiojusių laikinojo
 
 nedarbingumo nustatymo mėnesį, penkių dydžių sumos.
 
@@ -1130,8 +1164,6 @@ Straipsnio pakeitimai:
 Nr. X-211, 2005-05-19,
 
 Žin., 2005, Nr. 71-2557 (2005-06-07)
-
-15 straipsnio redakcija iki 2009 m. sausio 1 d.:
 
 14 straipsnis.
 
@@ -1343,9 +1375,11 @@ daugiau procentų, iš apskaičiuotos netekto darbingumo periodinės kompensacij
 
 sumos Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų
 
-nuostatų nustatyta tvarka išskaičiuojama išmokėtos netekto darbingumo vienkartinės
+nuostatų nustatyta tvarka išskaičiuojama išmokėtos netekto darbingumo
 
-kompensacijos (ar jos skirtumo) dalis už likusį iki 24 mėnesių laikotarpį.
+vienkartinės kompensacijos (ar jos skirtumo) dalis už likusį iki 24 mėnesių
+
+laikotarpį.
 
 5.
 
@@ -1455,37 +1489,19 @@ lėšos. Nelaimingų atsitikimų darbe socialinio draudimo pajamų dalį gali
 
 sudaryti lėšos iš Valstybinio socialinio draudimo fondo biudžeto rezervo.
 
-3 dalies redakcija iki 2009 m. sausio 1 d.:
-
-3. Nelaimingų
-
-atsitikimų darbe socialinio draudimo lėšos gali būti naudojamos nelaimingų
-
-atsitikimų darbe ir profesinių ligų prevencijai. Nelaimingų atsitikimų darbe
-
-socialinio draudimo lėšų, skirtų prevencijai, dydį kiekvienais metais nustato
-
-Seimas, Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo
-
-įstatymu tvirtindamas nelaimingų atsitikimų darbe ir profesinių ligų socialinio
-
-draudimo įmokų tarifą.
-
-3 dalies redakcija nuo 2009 m. sausio 1 d.:
-
 3.
 
-Nelaimingų atsitikimų darbe socialinio draudimo lėšos gali būti naudojamos nelaimingų
+Nelaimingų atsitikimų darbe socialinio draudimo lėšos gali būti naudojamos
 
-atsitikimų darbe ir profesinių ligų prevencijai. Nelaimingų atsitikimų darbe
+nelaimingų atsitikimų darbe ir profesinių ligų prevencijai. Nelaimingų
 
-socialinio draudimo lėšų, skirtų prevencijai, dydį kiekvienais metais nustato
+atsitikimų darbe socialinio draudimo lėšų, skirtų prevencijai, dydį kiekvienais
 
-Seimas, Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo
+metais nustato Seimas, Valstybinio socialinio draudimo fondo biudžeto rodiklių
 
-įstatymu tvirtindamas nelaimingų atsitikimų darbe ir profesinių ligų socialinio
+patvirtinimo įstatymu tvirtindamas nelaimingų atsitikimų darbe ir profesinių
 
-draudimo įmokų tarifus.
+ligų socialinio draudimo įmokų tarifus.
 
 4. Lėšų, skirtų
 
@@ -1509,7 +1525,9 @@ X-1840,
 
 2008-11-14, Žin., 2008, Nr. 137-5384 (2008-11-29)
 
-29 straipsnio redakcija iki 2010 m. sausio 1 d.:
+*29 straipsnio redakcija iki 2011 m.
+
+sausio 1 d.:
 
 28 straipsnis.
 
@@ -1575,17 +1593,21 @@ Nelaimingų
 
 atsitikimų darbe socialinio draudimo įmokų tarifų grupių skaičius ir grupių
 
-tarifai tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo
+tarifai tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių
 
-įstatymu. Draudėjų priskyrimą nelaimingų atsitikimų darbe socialinio draudimo
+patvirtinimo įstatymu. Draudėjų priskyrimą nelaimingų atsitikimų darbe
 
-įmokų tarifų grupei, atsižvelgdama į traumatizmo ir profesinio sergamumo
+socialinio draudimo įmokų tarifų grupei, atsižvelgdama į traumatizmo ir
 
-rodiklius ir vadovaudamasi Vyriausybės ar jos įgaliotos institucijos
+profesinio sergamumo rodiklius ir vadovaudamasi Vyriausybės ar jos įgaliotos
 
-patvirtinta metodika, tvirtina Valstybinio socialinio draudimo fondo taryba.
+institucijos patvirtinta metodika, tvirtina Valstybinio socialinio draudimo
 
-29 straipsnio redakcija nuo 2010 m. sausio 1 d.:
+fondo taryba.
+
+*29 straipsnio redakcija nuo 2011 m.
+
+sausio 1 d.:
 
 29
 
@@ -1597,7 +1619,7 @@ Nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų dydis priklaus
 
 nuo draudėjo darbuotojų saugos ir sveikatos būklės:
 
-1)
+**1)
 
 darbo priemonių, darbo sąlygų neatitikties darbuotojų saugos ir sveikatos
 
@@ -1643,9 +1665,9 @@ duomenys.
 
 3. Šalies
 
-bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio
+bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio draudimo
 
-draudimo įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kasmet
+įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kasmet
 
 Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
 
@@ -1676,6 +1698,18 @@ Nr.
 X-1840,
 
 2008-11-14, Žin., 2008, Nr. 137-5384 (2008-11-29)
+
+Nr. XI-401,
+
+2009-07-23, Žin., 2009, Nr. 93-3990 (2009-08-04)
+
+*Pastaba: 29 straipsnio pakeitimas
+
+įsigalioja 2011-01-01.
+
+**Pastaba: įstatymo 29 straipsnio 1 dalies
+
+1 punkto nuostatos pradedamos taikyti 2012-01-01.
 
 30 straipsnis. Valstybinio socialinio draudimo
 
