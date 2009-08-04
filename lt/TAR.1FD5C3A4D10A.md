@@ -4,7 +4,7 @@ identifier: "TAR.1FD5C3A4D10A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-14"
-last_updated: "2008-11-29"
+last_updated: "2009-08-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 department: "Lietuvos Respublikos Seimas"
@@ -375,7 +375,9 @@ konvencijų, susijusių su darbuotojų sauga ir sveikata bei darbo
 
 santykiais;
 
-24 punkto redakcija iki 2010 m. sausio 1 d.:
+24 punkto redakcija iki 2011 m.
+
+sausio 1 d.:
 
 24)
 
@@ -383,7 +385,7 @@ atlieka kitas funkcijas, nustatytas kitų norminių teisės aktų.
 
 Straipsnis papildomas nauju 24
 
-punktu, buvęs 24 punktas laikomas 25 punktu nuo 2010 m. sausio 1 d.:
+punktu, buvęs 24 punktas laikomas 25 punktu nuo 2011 m. sausio 1 d.:
 
 24)
 
@@ -405,15 +407,29 @@ pažeidimus, nelaimingų atsitikimų, įvykusių dirbant pavojingus darbus, skai
 
 ir pavojingus darbus dirbančių darbuotojų atitinkamoje įmonėje skaičių;
 
+Pastaba. 6 straipsnio 24 punkto
+
+nuostatos dėl duomenų apie darbo priemonių, darbo sąlygų neatitiktį darbuotojų
+
+saugos ir sveikatos teisės aktų nustatytiems reikalavimams teikimo įsigalioja
+
+2012 m. sausio 1 d.
+
 25)
 
 atlieka kitas funkcijas, nustatytas kitų norminių teisės aktų.
 
 Straipsnio pakeitimas:
 
-Nr. X-1841,
+Nr. X-1841, 2008-11-14,
 
-2008-11-14, Žin., 2008, Nr. 137-5385 (2008-11-29)
+Žin., 2008, Nr. 137-5385 (2008-11-29)
+
+Nr.
+
+XI-402,
+
+2009-07-23, Žin., 2009, Nr. 93-3991 (2009-08-04)
 
 TREČIASIS
 
@@ -447,9 +463,9 @@ skyrių vedėjus – vyriausiuosius darbo inspektorius;
 
 skyrių vedėjų pavaduotojus – vyriausiuosius darbo inspektorius;
 
-5) vyriausiuosius
+5)
 
-darbo inspektorius;
+vyriausiuosius darbo inspektorius;
 
 6)
 
@@ -563,7 +579,7 @@ inspektorius atstovauti Valstybinei darbo inspekcijai kitose institucijose,
 
 įstaigose ar organizacijose bei teismuose;
 
-11 punkto redakcija iki 2010 m. sausio 1 d.:
+11 punkto redakcija iki 2011 m. sausio 1 d.:
 
 11) vykdo socialinės apsaugos ir darbo
 
@@ -571,7 +587,7 @@ ministro pavedimus.
 
 2 dalis papildoma nauju 11
 
-punktu, buvęs 11 punktas laikomas 12 punktu nuo 2010 m. sausio 1 d.:
+punktu, buvęs 11 punktas laikomas 12 punktu nuo 2011 m. sausio 1 d.:
 
 11) dalyvauja
 
@@ -631,15 +647,21 @@ pareigūnas, kuriam asmuo, atstovaujantis darbdaviui, pavedė įgyvendinti
 
 darbuotojų saugos ir sveikatos reikalavimus įmonėje ir (ar) įmonės
 
-struktūriniame padalinyje, (toliau – darbdavio įgaliotas asmuo) pakartotinai
+struktūriniame padalinyje, (toliau – darbdavio įgaliotas asmuo) pakartotinai pasitikrintų
 
-pasitikrintų darbuotojų saugos ir sveikatos srities žinias.
+darbuotojų saugos ir sveikatos srities žinias.
 
 Straipsnio pakeitimas:
 
 Nr. X-1841,
 
 2008-11-14, Žin., 2008, Nr. 137-5385 (2008-11-29)
+
+Nr.
+
+XI-402,
+
+2009-07-23, Žin., 2009, Nr. 93-3991 (2009-08-04)
 
 9
 
@@ -667,9 +689,9 @@ reikalingus Valstybinės darbo inspekcijos funkcijoms atlikti;
 
 3) gauti
 
-iš darbdaviams atstovaujančių asmenų, darbdavio įgaliotų asmenų, darbuotojų, kitų
+iš darbdaviams atstovaujančių asmenų, darbdavio įgaliotų asmenų, darbuotojų,
 
-tikrinamoje darbo vietoje esančių asmenų paaiškinimus žodžiu ar raštu dėl
+kitų tikrinamoje darbo vietoje esančių asmenų paaiškinimus žodžiu ar raštu dėl
 
 darbo, darbuotojų saugos ir sveikatos įstatymų, kitų norminių teisės aktų,
 
@@ -711,13 +733,13 @@ aplinkos parametrų matavimus;
 
 7)
 
-teikti darbdaviui atstovaujančiam asmeniui, darbdavio įgaliotam asmeniui nurodymus
+teikti darbdaviui atstovaujančiam asmeniui, darbdavio įgaliotam asmeniui
 
-dėl įmonėje statomų, rekonstruojamų statinių bei darbo priemonių projektų, kai
+nurodymus dėl įmonėje statomų, rekonstruojamų statinių bei darbo priemonių
 
-paaiškėja, kad projektuose numatyti sprendimai neatitinka darbuotojų saugos ir
+projektų, kai paaiškėja, kad projektuose numatyti sprendimai neatitinka
 
-sveikatos norminių teisės aktų reikalavimų;
+darbuotojų saugos ir sveikatos norminių teisės aktų reikalavimų;
 
 8)
 
@@ -787,9 +809,9 @@ norminių teisės aktų pažeidimus, Valstybinės darbo inspekcijos darbo reglam
 
 nustatyta tvarka surašyti darbdaviui atstovaujančiam asmeniui ar darbdavio
 
-įgaliotam asmeniui reikalavimą, jame nurodyti nustatytus pažeidimus ir nustatyti
+įgaliotam asmeniui reikalavimą, jame nurodyti nustatytus pažeidimus ir
 
-laiką, per kurį minėti asmenys įpareigojami juos pašalinti;
+nustatyti laiką, per kurį minėti asmenys įpareigojami juos pašalinti;
 
 2)
 
@@ -817,17 +839,17 @@ darbuotojų saugos ir sveikatos bei kitų norminių teisės aktų reikalavimų;
 
 nustatę darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų
 
-pažeidimus, nustatyta tvarka surašyti protokolus, reikalavimus, aktus ir
+pažeidimus, nustatyta tvarka surašyti protokolus, reikalavimus, aktus ir kitokius
 
-kitokius patvirtintos formos dokumentus;
+patvirtintos formos dokumentus;
 
 6)
 
 kreiptis į policijos pareigūnus dėl darbuotojų išvedimo iš pavojingų darbo
 
-vietų ar zonos, kai darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo
+vietų ar zonos, kai darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas
 
-atsisako vykdyti Valstybinės darbo inspekcijos inspektoriaus reikalavimą
+asmuo atsisako vykdyti Valstybinės darbo inspekcijos inspektoriaus reikalavimą
 
 sustabdyti darbus;
 
@@ -921,19 +943,19 @@ inspektavimo rezultatais ir surašytais dokumentais darbuotojų atstovai
 
 supažindinami jų prašymu.
 
-6.
+6. Valstybinės
 
-Valstybinės darbo inspekcijos inspektorių reikalavimai ir nurodymai yra
+darbo inspekcijos inspektorių reikalavimai ir nurodymai yra privalomi. Asmenys,
 
-privalomi. Asmenys, nevykdantys Valstybinės darbo inspekcijos inspektorių
+nevykdantys Valstybinės darbo inspekcijos inspektorių reikalavimų, atsako
 
-reikalavimų, atsako įstatymų nustatyta tvarka.
+įstatymų nustatyta tvarka.
 
-7. Inspektavimo
+7.
 
-vykdymo tvarka nustatoma socialinės apsaugos ir darbo ministro tvirtinamuose
+Inspektavimo vykdymo tvarka nustatoma socialinės apsaugos ir darbo ministro
 
-Valstybinės darbo inspekcijos nuostatuose.
+tvirtinamuose Valstybinės darbo inspekcijos nuostatuose.
 
 12
 
@@ -1043,7 +1065,31 @@ VALSTYBINĖS DARBO INSPEKCIJOS
 
 ĮSTATYMO 6 IR 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-Šis įstatymas įsigalioja 2010 m. sausio 1 d.
+Šis įstatymas įsigalioja 2011
+
+m. sausio 1 d.
+
+Valstybinės darbo inspekcijos
+
+įstatymo 6 straipsnio 24 punkto nuostatos dėl duomenų apie darbo priemonių,
+
+darbo sąlygų neatitiktį darbuotojų saugos ir sveikatos teisės aktų nustatytiems
+
+reikalavimams teikimo įsigalioja 2012 m. sausio 1 d.
+
+Įstatymo įsigaliojimo pakeitimai.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-402,
+
+2009-07-23, Žin., 2009, Nr. 93-3991 (2009-08-04)
+
+VALSTYBINĖS DARBO
+
+INSPEKCIJOS ĮSTATYMO 6 IR 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 2.
 
@@ -1065,7 +1111,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2008-12-03)
+Aušra Bodin (2009-08-06)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
