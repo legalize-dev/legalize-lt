@@ -4,7 +4,7 @@ identifier: "TAR.314380534F95"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-12-19"
-last_updated: "2009-03-05"
+last_updated: "2009-08-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.314380534F95"
 department: "Lietuvos Respublikos Seimas"
@@ -647,19 +647,15 @@ straipsnis. Baigiamosios nuostatos
 
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
 
-2. Už 2008 metus
+*2. Už 2008
 
-savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos
+metus savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos
 
 apskaičiuojamos ir mokamos iki 2009 m. sausio 1 d. galiojusių Valstybinio
 
 socialinio draudimo įstatymo nuostatų nustatyta tvarka.
 
-Pastaba. 2
-
-dalies nuostatos taikomos nuo 2009 m. sausio 1 d.
-
-3. Valstybinio
+*3. Valstybinio
 
 socialinio draudimo įmokų tarifas už ūkininkus ir jų partnerius, kurių žemės
 
@@ -683,15 +679,11 @@ draudimo, kai draudžiama motinystės, tėvystės, motinystės (tėvystės) paš
 
 gauti, įmokų tarifų bendros sumos.
 
-Pastaba. 3
-
-dalies nuostatos taikomos nuo 2009 m. sausio 1 d.
-
 4.
 
-Valstybinio socialinio draudimo įmokų tarifas nuo asmenų pajamų, gautų iš sporto
+Valstybinio socialinio draudimo įmokų tarifas nuo asmenų pajamų, gautų iš
 
-veiklos, asmenų pajamų, gautų iš atlikėjo veiklos ir pajamų, gautų pagal
+sporto veiklos, asmenų pajamų, gautų iš atlikėjo veiklos ir pajamų, gautų pagal
 
 autorines sutartis, 2009 metais sudaro Valstybinio socialinio draudimo fondo
 
@@ -701,11 +693,11 @@ biudžeto 2009 metų rodiklių patvirtinimo įstatyme numatytą dalį nuo:
 
 viso dydžio draudėjo ir apdraustojo pensijų, ligos ir motinystės, nedarbo,
 
-nelaimingų atsitikimų ir profesinių ligų socialinio draudimo įmokų tarifų
+nelaimingų atsitikimų ir profesinių ligų socialinio draudimo įmokų tarifų bendros
 
-bendros sumos – asmenims, nurodytiems Lietuvos Respublikos valstybinio
+sumos – asmenims, nurodytiems Lietuvos Respublikos valstybinio socialinio
 
-socialinio draudimo įstatymo 4 straipsnio 1 dalies 1 punkte;
+draudimo įstatymo 4 straipsnio 1 dalies 1 punkte;
 
 2)
 
@@ -719,33 +711,27 @@ sumos – asmenims, nurodytiems Lietuvos Respublikos valstybinio socialinio
 
 draudimo įstatymo 4 straipsnio 5 dalyje.
 
-5. 2009 ir 2010
+5. 2009 metais
 
-metais asmenų, gaunančių pajamas iš sporto veiklos, socialinio draudimo įmokos
+asmenų, gaunančių pajamas iš sporto veiklos, socialinio draudimo įmokos apskaičiuojamos ir mokamos nuo šių asmenų iš
 
-apskaičiuojamos ir mokamos nuo šių asmenų iš sporto veiklos gautų pajamų, neviršijančių
+sporto veiklos gautų pajamų, neviršijančių keturių Lietuvos Respublikos
 
-keturių Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų
+Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių sumos per
 
-pajamų dydžių sumos per mėnesį. Už 2009 ir 2010 metus individualių įmonių
+mėnesį. Už 2009 metus individualių įmonių savininkų, ūkinių bendrijų tikrųjų
 
-savininkų, ūkinių bendrijų tikrųjų narių ir asmenų, kurie verčiasi individualia
+narių ir asmenų, kurie verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, išskyrus ūkininkus ir
 
-veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, išskyrus
+jų partnerius, socialinio draudimo įmokos
 
-ūkininkus ir jų partnerius, socialinio draudimo įmokos apskaičiuojamos ir
+apskaičiuojamos ir mokamos nuo Valstybinio socialinio
 
-mokamos nuo Valstybinio socialinio draudimo įstatymo 7 straipsnio 2 dalyje
+draudimo įstatymo 7 straipsnio 2 dalyje nurodytų šių asmenų gautų pajamų
 
-nurodytų šių asmenų gautų pajamų metinės sumos, neviršijančios keturių Lietuvos
+metinės sumos, neviršijančios keturių Lietuvos Respublikos Vyriausybės
 
-Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių
-
-sumos per mėnesį.
-
-Pastaba. 5
-
-dalies nuostatos taikomos nuo 2009 m. sausio 1 d.
+patvirtintų einamųjų metų draudžiamųjų pajamų dydžių sumos per mėnesį.
 
 6.
 
@@ -772,6 +758,16 @@ pakeitimas:
 Nr. XI-171,
 
 2009-02-17, Žin., 2009, Nr. 25-973 (2009-03-05)
+
+*Pastaba: nuostatos
+
+taikomos nuo 2009 m. sausio 1 d.
+
+Nr.
+
+XI-390,
+
+2009-07-22, Žin., 2009, Nr. 93-3982 (2009-08-04)
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -801,11 +797,29 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 m. sausio 1 d.
 
-*** Pabaiga ***
+2.
 
-Redagavo Aušrinė Trapinskienė
+Lietuvos
 
-(2009-03-09)
+Respublikos Seimas, Įstatymas
 
-autrap@lrs.lt
+Nr. XI-390,
+
+2009-07-22, Žin., 2009, Nr. 93-3982 (2009-08-04)
+
+VALSTYBINIO
+
+SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 8, 9, 29, 31 STRAIPSNIŲ PAKEITIMO
+
+IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušra Bodin (2009-08-05)
+
+aubodi@lrs.lt
 
