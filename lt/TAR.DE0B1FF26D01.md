@@ -4,7 +4,7 @@ identifier: "TAR.DE0B1FF26D01"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2008-07-05"
+last_updated: "2009-08-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01"
 department: "Lietuvos Respublikos Seimas"
@@ -3974,6 +3974,34 @@ kredito unijos ar Lietuvos Respublikos kredito unijų sistemos stabilumui ir
 
 patikimumui.
 
+[Straipsnis papildytas 5 dalimi
+
+nuo 2010-12-31]
+
+5. Priežiūros
+
+institucija sprendimą dėl poveikio priemonės taikymo,
+
+kuris pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas
+
+draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai
+
+nustato, kad priežiūros institucijos išduotą licenciją turinti kredito unija
+
+negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas manyti,
+
+kad to negalės padaryti artimiausiu metu.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-378,
+
+2009-07-21, Žin., 2009, Nr. 93-3971 (2009-08-04)
+
 63 straipsnis. Baudos
 
 1. Priežiūros institucija turi teisę kredito unijai
@@ -4020,25 +4048,27 @@ priemones.
 
 3. Baudos į valstybės biudžetą sumokamos ne vėliau
 
-kaip per vieną mėnesį nuo tos dienos, kai kredito unija gavo priežiūros institucijos
+kaip per vieną mėnesį nuo tos dienos, kai kredito unija gavo priežiūros
 
-sprendimą skirti baudą. Bauda, skirta pagal šio straipsnio 1 dalies 2 punktą už
+institucijos sprendimą skirti baudą. Bauda, skirta pagal šio straipsnio 1
 
-kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną, turi būti sumokama į
+dalies 2 punktą už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną,
 
-valstybės biudžetą kiekvieną dieną. Jei bauda per nurodytus terminus, o
+turi būti sumokama į valstybės biudžetą kiekvieną dieną. Jei bauda per
 
-priežiūros institucijos sprendimą apskundus teismui, – per 10 dienų nuo teismo
+nurodytus terminus, o priežiūros institucijos sprendimą apskundus teismui, –
 
-sprendimo įsiteisėjimo nesumokama, tai ji priežiūros institucijos sprendimu
+per 10 dienų nuo teismo sprendimo įsiteisėjimo nesumokama, tai ji priežiūros
 
-išieškoma ne ginčo tvarka (kai nėra kredito unijos, kuriai paskirta bauda,
+institucijos sprendimu išieškoma ne ginčo tvarka (kai nėra kredito unijos,
 
-nurodymo nurašyti lėšas) iš kredito unijos, kuriai paskirta bauda, piniginių
+kuriai paskirta bauda, nurodymo nurašyti lėšas) iš kredito unijos, kuriai
 
-lėšų kredito įstaigose arba priežiūros institucijos sprendimas vykdomas
+paskirta bauda, piniginių lėšų kredito įstaigose arba priežiūros institucijos
 
-Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+sprendimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta
+
+tvarka.
 
 64 straipsnis. Kredito unijos stebėtojų tarybos nario
 
@@ -4050,13 +4080,13 @@ paskolų
 
 komiteto nario (narių) nušalinimas nuo pareigų
 
-1. Nuo priežiūros institucijos sprendimo laikinai
+1. Nuo priežiūros institucijos sprendimo laikinai nušalinti
 
-nušalinti kredito unijos stebėtojų tarybos narį (narius), valdybos narį
+kredito unijos stebėtojų tarybos narį (narius), valdybos narį (narius),
 
-(narius), kredito unijos administracijos vadovą, paskolų komiteto narį (narius)
+kredito unijos administracijos vadovą, paskolų komiteto narį (narius) nuo
 
-nuo pareigų pateikimo kredito unijai dienos nuo pareigų nušalintas asmuo neturi
+pareigų pateikimo kredito unijai dienos nuo pareigų nušalintas asmuo neturi
 
 teisės atlikti savo funkcijų ir visi po tokio priežiūros institucijos sprendimo
 
@@ -4262,17 +4292,17 @@ tikimybė, kiekvienam galimam būdui įgyvendinti reikalingos išlaidos, termina
 
 ir jų įvertinimas bei galimi rezultatai, taip pat poreikis pratęsti kredito
 
-unijos veiklos apribojimo (moratoriumo) terminą ir (ar) priimti kitus
+unijos veiklos apribojimo (moratoriumo) terminą ir (ar) priimti kitus sprendimus,
 
-sprendimus, leidžiančius įgyvendinti kredito unijos veiklos stabilumo ir
+leidžiančius įgyvendinti kredito unijos veiklos stabilumo ir patikimumo
 
-patikimumo atkūrimo būdus. Jeigu nėra realių galimybių atkurti kredito unijos
+atkūrimo būdus. Jeigu nėra realių galimybių atkurti kredito unijos veiklos
 
-veiklos stabilumą ir patikimumą, laikinojo administratoriaus išvadoje ir
+stabilumą ir patikimumą, laikinojo administratoriaus išvadoje ir pasiūlymuose
 
-pasiūlymuose gali būti siūloma spręsti klausimus dėl kredito unijos likvidavimo
+gali būti siūloma spręsti klausimus dėl kredito unijos likvidavimo ar bankroto
 
-ar bankroto bylos iškėlimo;
+bylos iškėlimo;
 
 3) turi teisę be įspėjimo nutraukti sutartis su
 
@@ -4298,11 +4328,11 @@ savo funkcijas atlikti apdairiai, sąžiningai ir atsižvelgdamas į kredito uni
 
 ir visų kredito unijos kreditorių interesus. Kredito unijos laikinasis
 
-administratorius negali jam suteiktų teisų panaudoti savo asmeniniams ar trečiųjų
+administratorius negali jam suteiktų teisų panaudoti savo asmeniniams ar
 
-asmenų poreikiams tenkinti. Laikinasis administratorius už padarytą žalą atsako
+trečiųjų asmenų poreikiams tenkinti. Laikinasis administratorius už padarytą
 
-įstatymų nustatyta tvarka.
+žalą atsako įstatymų nustatyta tvarka.
 
 12. Priežiūros institucija, atsižvelgdama į kredito
 
@@ -4320,13 +4350,13 @@ stabiliai bei patikimai veikti;
 
 2) pratęsti kredito unijos veiklos apribojimo
 
-(moratoriumo) terminą ar atšaukti kredito unijos veiklos apribojimą
+(moratoriumo) terminą ar atšaukti kredito unijos veiklos apribojimą (moratoriumą),
 
-(moratoriumą), jei priežiūros institucija pritaria laikinojo administratoriaus
+jei priežiūros institucija pritaria laikinojo administratoriaus pateiktoms
 
-pateiktoms išvadoms ir pasiūlymams dėl kredito unijos veiklos stabilumo ir
+išvadoms ir pasiūlymams dėl kredito unijos veiklos stabilumo ir patikimumo
 
-patikimumo atkūrimo;
+atkūrimo;
 
 3) atšaukti licenciją.
 
@@ -4424,11 +4454,11 @@ ir priežiūros institucijos leidimą jas reorganizuoti.
 
 vykdyti reorganizavimą
 
-1. Jeigu kredito
+1. Jeigu kredito unija
 
-unija reorganizuojama jungimo būdu, apie numatomą reorganizavimą privaloma
+reorganizuojama jungimo būdu, apie numatomą reorganizavimą privaloma informuoti
 
-informuoti priežiūros instituciją ir gauti jos sutikimą vykdyti reorganizavimą.
+priežiūros instituciją ir gauti jos sutikimą vykdyti reorganizavimą.
 
 2.
 
@@ -4442,9 +4472,9 @@ priežiūros institucija šio įstatymo ir priežiūros institucijos teisės akt
 
 nustatyta tvarka. Sprendimas dėl sutikimo išdavimo priimamas atsižvelgiant į
 
-priežiūros institucijos teisės aktuose nustatytus sisteminės rizikos lygio vertinimo
+priežiūros institucijos teisės aktuose nustatytus sisteminės rizikos lygio
 
-kriterijus.
+vertinimo kriterijus.
 
 3.
 
@@ -4574,19 +4604,19 @@ priežiūros institucijos teisės aktų nustatyta tvarka.
 
 4. Kredito unija, norėdama gauti leidimą likviduoti
 
-kredito uniją, priežiūros institucijai pateikia prašymą ir priežiūros institucijos
+kredito uniją, priežiūros institucijai pateikia prašymą ir priežiūros
 
-teisės aktuose nustatytus dokumentus bei duomenis, įskaitant kredito unijos
+institucijos teisės aktuose nustatytus dokumentus bei duomenis, įskaitant
 
-valdybos parengtą ir kredito unijos visuotinio narių susirinkimo patvirtintą
+kredito unijos valdybos parengtą ir kredito unijos visuotinio narių susirinkimo
 
-kredito unijos likvidavimo ir atsiskaitymo su kreditoriais planą, kuriame, be
+patvirtintą kredito unijos likvidavimo ir atsiskaitymo su kreditoriais planą,
 
-kita ko, turi būti nurodyti atsiskaitymo su kreditoriais terminai ir šaltiniai,
+kuriame, be kita ko, turi būti nurodyti atsiskaitymo su kreditoriais terminai
 
-taip pat ekspertų išvadas dėl kredito unijos turto vertės. Kartu turi būti
+ir šaltiniai, taip pat ekspertų išvadas dėl kredito unijos turto vertės. Kartu
 
-pateiktas prašymas atšaukti licenciją.
+turi būti pateiktas prašymas atšaukti licenciją.
 
 5.
 
@@ -4680,9 +4710,9 @@ DEŠIMTASIS SKIRSNIS
 
 KREDITO UNIJOS BANKROTAS
 
-72 straipsnis. Kredito unijų
+72 straipsnis. Kredito
 
-bankroto procedūros teisinis reglamentavimas
+unijų bankroto procedūros teisinis reglamentavimas
 
 Kredito unijų bankroto procedūras reglamentuoja šis
 
@@ -4734,17 +4764,17 @@ reikalavimus, turi būti ne ilgesnis kaip 3 mėnesiai nuo teismo nutarties
 
 iškelti bankroto bylą įsiteisėjimo dienos.
 
-3. Teismui priėmus nutartį iškelti kredito unijai
+3. Teismui priėmus nutartį iškelti kredito unijai bankroto
 
-bankroto bylą:
+bylą:
 
 1) administratorius
 
-pradeda atlikti savo funkcijas, o kredito unijos organai netenka savo įgaliojimų.
+pradeda atlikti savo funkcijas, o kredito unijos organai netenka savo
 
-Lietuvos apeliaciniam teismui panaikinus nutartį iškelti kredito unijai
+įgaliojimų. Lietuvos apeliaciniam teismui panaikinus nutartį iškelti kredito
 
-bankroto bylą, kredito unijos organai toliau atlieka savo funkcijas. Tokiu
+unijai bankroto bylą, kredito unijos organai toliau atlieka savo funkcijas. Tokiu
 
 atveju teismas praneša juridinių asmenų registro tvarkytojui apie kredito
 
@@ -4764,9 +4794,9 @@ unijos prievoles, tarp jų už išmokų, susijusių su darbo santykiais, pavėlu
 
 mokėjimą, skaičiavimas. Negali būti nustatoma priverstinė hipoteka.
 
-4. Šio straipsnio 3 dalies 2 punkte nustatyti draudimai
+4. Šio straipsnio 3 dalies 2 punkte nustatyti
 
-netaikomi įstatymų, reglamentuojančių mokėjimų ir vertybinių popierių
+draudimai netaikomi įstatymų, reglamentuojančių mokėjimų ir vertybinių popierių
 
 atsiskaitymo sistemų funkcionavimą, ir kitų įstatymų nustatytais atvejais, kai
 
@@ -4890,9 +4920,7 @@ pasitikėtinės (subordinuotos) paskolos sąlygas.
 
 6. Šeštąja eile tenkinami kredito unijos stebėtojų
 
-tarybos narių, valdybos narių ir kredito unijos administracijos vadovo
-
-reikalavimai.
+tarybos narių, valdybos narių ir kredito unijos administracijos vadovo reikalavimai.
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -4903,6 +4931,36 @@ RESPUBLIKOS
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
 
 _______________
+
+Papildyta
+
+priedu nuo 2010-12-31:
+
+Nr.
+
+XI-378,
+
+2009-07-21, Žin., 2009, Nr. 93-3971 (2009-08-04)
+
+Lietuvos
+
+Respublikos
+
+kredito unijų įstatymo
+
+priedas
+
+ĮGYVENDINAMI
+
+EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2009 m.
+
+kovo 11 d. Europos Parlamento ir Tarybos direktyva 2009/14/EB, iš dalies
+
+keičianti Direktyvos 94/19/EB dėl indėlių garantijų sistemų nuostatas dėl
+
+kompensacijų lygio ir išmokėjimo termino (OL 2009 L 68, p. 3).
 
 Pakeitimai:
 
@@ -4948,9 +5006,9 @@ KREDITO UNIJŲ ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-979,
+Nr. IX-979, 2002-06-20,
 
-2002-06-20, Žin., 2002, Nr. 65-2639 (2002-06-28)
+Žin., 2002, Nr. 65-2639 (2002-06-28)
 
 KREDITO UNIJŲ ĮSTATYMO 10 STRAIPSNIO PAKEITIMO
 
@@ -4986,13 +5044,33 @@ išdėstyto Lietuvos Respublikos kredito unijų įstatymo 44 straipsnio 3 dalis
 
 galioja iki 2013 m. sausio 1 d.
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-378,
+
+2009-07-21, Žin., 2009, Nr. 93-3971 (2009-08-04)
+
+KREDITO UNIJŲ ĮSTATYMO 62
+
+STRAIPSNIO PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2010 m. gruodžio 31 d.
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-07-10)
+Aušra Bodin (2009-08-10)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
