@@ -4,7 +4,7 @@ identifier: "TAR.7055451E838B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-04"
-last_updated: "2007-03-01"
+last_updated: "2009-08-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2007-03-01 iki 2009-08-03
+Suvestinė redakcija nuo 2009-08-04 iki 2013-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
 
@@ -376,13 +376,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 
-12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, jo privatizavimo programa gali būti sustabdyta ir (ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, arba jei dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat kai šiuo objektu atlyginama piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą vadovaujantis Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymu, taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas. Privatizavimo objektas iš privatizavimo objektų sąrašo taip pat gali būti išbrauktas, jei jis yra reikalingas atitinkamai valstybės, savivaldybių ar visuomenės reikmėms tenkinti. Privatizavimo objekto privatizavimo programa pripažįstama pasibaigusia, jei akcinės bendrovės akcininkas, veikdamas savarankiškai ar sutartinai su kitais asmenimis įsigijęs akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teisę suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balso teisę šios akcinės bendrovės visuotiniame akcininkų susirinkime suteikiančių akcijų, reikalauja, kad visi kiti šios akcinės bendrovės akcininkai parduotų jiems priklausančias akcijas vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka.
+12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, jo privatizavimo programa gali būti sustabdyta ir (ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, arba jei dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat kai šiuo objektu atlyginama piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą vadovaujantis Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymu, taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas. Privatizavimo objektas iš privatizavimo objektų sąrašo taip pat gali būti išbrauktas, jei jis yra reikalingas atitinkamai valstybės, savivaldybių ar visuomenės reikmėms tenkinti. Privatizavimo objektas iš privatizavimo objektų sąrašo išbraukiamas, jei savivaldybės taryba yra priėmusi sprendimą dėl privatizavimo objekto, nuosavybės teise priklausančio tai savivaldybei, išbraukimo. Privatizavimo objekto privatizavimo programa pripažįstama pasibaigusia, jei akcinės bendrovės akcininkas, veikdamas savarankiškai ar sutartinai su kitais asmenimis įsigijęs akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teisę suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balso teisę šios akcinės bendrovės visuotiniame akcininkų susirinkime suteikiančių akcijų, reikalauja, kad visi kiti šios akcinės bendrovės akcininkai parduotų jiems priklausančias akcijas vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
 
 Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+
+Nr. XI-403, 2009-07-23, Žin., 2009, Nr. 93-3992 (2009-08-04), i. k. 1091010ISTA00XI-403
 
 13. Nuomos metu dėl privatizavimo objekto (statinio) pagerinimo padarytas išlaidas pagal Lietuvos Respublikos civilinį kodeksą nuomininkui Lietuvos Respublikos Vyriausybės nustatyta tvarka atlygina potencialus pirkėjas, įsigyjantis privatizavimo objektą. Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka vertinant tokį privatizavimo objektą turi būti nustatytas vertės padidėjimas procentais dėl šiam objektui (statiniui) pagerinti padarytų išlaidų. Gaunamos iš privatizavimo sandorio lėšos, atitinkamai jas sumažinus dėl privatizavimo objekto vertės padidėjimo, bet ne daugiau už šiam objektui pagerinti padarytas išlaidas, pervedamos į Finansų ministerijai atidarytą privatizavimo fondo sąskaitą (jei privatizavimo objektas nuosavybės teise priklauso savivaldybei, – į savivaldybės specialiąją sąskaitą). Likusi privatizavimo lėšų dalis pervedama nuomininkui, išskyrus tą dalį, kuri buvo įskaityta į nuomos mokestį. Ši į nuomos mokestį įskaityta lėšų dalis pervedama į privatizavimo objekto valdytojo sąskaitą.
 
@@ -913,4 +915,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
 
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 4, 7, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22 straipsnių pakeitimo ir papildymo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-403, 2009-07-23, Žin., 2009, Nr. 93-3992 (2009-08-04), i. k. 1091010ISTA00XI-403
+
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10 straipsnio pakeitimo įstatymas
 
