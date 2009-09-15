@@ -4,7 +4,7 @@ identifier: "TAR.07CAE5E6C2B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-26"
-last_updated: "2008-04-19"
+last_updated: "2009-09-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2008-04-19 iki 2009-09-14
+Suvestinė redakcija nuo 2009-09-15 iki 2010-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
 
@@ -382,7 +382,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 2) Respublikos Prezidento institucijoje – Respublikos Prezidento kanceliarijos vadovas (kancleris);
 
-3) Lietuvos Respublikos Vyriausybėje – Vyriausybės kancleris;
+3) Lietuvos Respublikos Vyriausybėje – Ministro Pirmininko kancleris;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-325, 2009-07-07, Žin., 2009, Nr. 85-3582 (2009-07-18), i. k. 1091010ISTA00XI-325
 
 4) Lietuvos Respublikos Konstituciniame Teisme, Lietuvos Aukščiausiajame Teisme, Lietuvos vyriausiajame administraciniame teisme – teismo kancleris, kituose teismuose – teismo pirmininkas;
 
@@ -501,6 +505,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1472, 2008-04-01, Žin., 2008, Nr. 45-1680 (2008-04-19), i. k. 1081010ISTA00X-1472
 
 Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 1, 2 straipsnių pakeitimo ir įstatymo papildymo 10(1) straipsniu įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-325, 2009-07-07, Žin., 2009, Nr. 85-3582 (2009-07-18), i. k. 1091010ISTA00XI-325
+
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 18 straipsnio pakeitimo įstatymas
 
 101 straipsnis. Lietuvos valstybės istorinės vėliavos projekto ir etalono tvirtinimas
 
