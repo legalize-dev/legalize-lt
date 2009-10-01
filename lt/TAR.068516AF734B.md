@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2009-05-04"
+last_updated: "2009-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -747,9 +747,9 @@ Nr. X-659, 2006-06-08,
 
 Žin., 2006, Nr. 72-2676 (2006-06-28)
 
-23 straipsnis. Valstybinio socialinio
+23 straipsnis. Valstybinio socialinio draudimo
 
-draudimo įmokų tarifai ligos ir motinystės
+įmokų tarifai ligos ir motinystės
 
 socialiniam draudimui
 
@@ -809,9 +809,27 @@ Motinystės (tėvystės) pašalpos dydis
 
 Motinystės (tėvystės) pašalpos dydis nuo nėštumo ir gimdymo atostogų pabaigos,
 
-kol vaikui sueis vieni metai, yra 100 procentų, o kol vaikui sueis dveji
+kol vaikui sueis vieni metai, yra 100 procentų, o kol vaikui sueis dveji metai,
 
-metai,  – 85 procentai pašalpos gavėjo kompensuojamojo uždarbio dydžio.
+– 85 procentai pašalpos gavėjo kompensuojamojo uždarbio dydžio.
+
+Pastaba.
+
+1 dalies nuostatos taikomos iki 2010 m. liepos 1 d.
+
+1. Motinystės
+
+(tėvystės) pašalpos dydis nuo nėštumo ir gimdymo atostogų pabaigos, kol vaikui
+
+sueis vieni metai, yra 90 procentų, o kol vaikui sueis dveji metai, – 75
+
+procentai pašalpos gavėjo kompensuojamojo uždarbio dydžio.
+
+Pastaba.
+
+1 dalies nuostatos taikomos nuo 2010 m. liepos 1 d. naujai skiriamoms
+
+motinystės (tėvystės) pašalpoms.
 
 2.
 
@@ -865,9 +883,9 @@ Nr. IX-1247,
 
 2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
 
-Nr. IX-1975,
+Nr. IX-1975, 2004-01-27,
 
-2004-01-27, Žin., 2004, Nr. 25-750 (2004-02-14)
+Žin., 2004, Nr. 25-750 (2004-02-14)
 
 Nr. X-659, 2006-06-08,
 
@@ -888,6 +906,10 @@ Nr. X-1338,
 Nr. X-1618,
 
 2008-06-17, Žin., 2008, Nr. 74-2864 (2008-06-30)
+
+Nr. XI-420,
+
+2009-09-22, Žin., 2009, Nr. 117-4992 (2009-10-01)
 
 Įstatymas papildomas nauju ketvirtuoju skirsniu nuo 2005 m. liepos 1 d.:
 
@@ -1017,9 +1039,9 @@ profesinės reabilitacijos pašalpos mokėjimas Vyriausybės patvirtintų Ligos 
 
 motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka atnaujinamas
 
-nuo dienos, kurią asmuo pradėjo tęsti anksčiau pradėtą profesinės
+nuo dienos, kurią asmuo pradėjo tęsti anksčiau pradėtą profesinės reabilitacijos
 
-reabilitacijos programą.
+programą.
 
 PENKTASIS SKIRSNIS
 
@@ -2397,9 +2419,7 @@ PAPILDYMO 18(1), 18(2), 18(3) STRAIPSNIAIS ĮSTATYMAS
 
 11.
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. X-1205,
 
@@ -2515,7 +2535,9 @@ DRAUDIMO ĮSTATYMO 3 IR 4 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 14.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. X-1618,
 
@@ -2627,15 +2649,15 @@ tarifo privalomojo ligos ir motinystės socialinio draudimo įmokos ir kurios
 
 apskaičiuotos proporcingai mokėtoms valstybinio socialinio draudimo įmokoms:
 
-atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris apskaičiuojamas
+atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris
 
-atitinkamų metų sumažintą ligos ir motinystės socialinio draudimo įmokos
+apskaičiuojamas atitinkamų metų sumažintą ligos ir motinystės socialinio
 
-tarifą, taikomą savarankiškai dirbančių asmenų gautoms pajamoms, dalijant iš tų
+draudimo įmokos tarifą, taikomą savarankiškai dirbančių asmenų gautoms
 
-metų bendrojo ligos ir motinystės socialinio draudimo įmokų tarifo, nustatyto
+pajamoms, dalijant iš tų metų bendrojo ligos ir motinystės socialinio draudimo
 
-savarankiškai dirbantiems asmenims.
+įmokų tarifo, nustatyto savarankiškai dirbantiems asmenims.
 
 Šio
 
@@ -2649,11 +2671,11 @@ Nr. XI-167,
 
 2009-02-17, Žin., 2009, Nr. 25-969 (2009-03-05)
 
-LIGOS IR
+LIGOS IR MOTINYSTĖS
 
-MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 9, 16, 18(1), 19
+SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 9, 16, 18(1), 19 STRAIPSNIŲ
 
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šio
 
@@ -2689,9 +2711,9 @@ Nr. XI-237,
 
 LIGOS IR
 
-MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 9, 10, 14, 21(1), 24 STRAIPSNIŲ PAKEITIMO
+MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 9, 10, 14, 21(1), 24 STRAIPSNIŲ
 
-IR PAPILDYMO ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Jeigu
 
@@ -2709,11 +2731,25 @@ ir 5
 
 straipsnius, galioja iki 2010 m. gruodžio 31 d.
 
+20.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-420,
+
+2009-09-22, Žin., 2009, Nr. 117-4992 (2009-10-01)
+
+LIGOS IR
+
+MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 21 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2009-05-05)
+(2009-10-01)
 
 autrap@lrs.lt
 
