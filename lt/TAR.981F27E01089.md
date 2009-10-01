@@ -4,7 +4,7 @@ identifier: "TAR.981F27E01089"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-07-04"
-last_updated: "2007-10-01"
+last_updated: "2009-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.981F27E01089"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,18 @@ published_in_tar: "2007-07-04"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas
+
+Suvestinė redakcija nuo 2009-10-01 iki 2012-08-31
+
+Įstatymas paskelbtas: Žin. 2007, Nr. 81-3322, i. k. 1071010ISTA00X-1262
+
+TAR pastaba. Įstatymo 22 straipsnio 8 dalis ir priedas netaikomi asmenims, dėl kurių delegavimo arba delegavimo pratęsimo sprendimas priimtas iki įstatymo Nr. XI-337 įsigaliojimo (2009-10-01) ir kurių delegavimas 2009 m. spalio 1 d. nėra pasibaigęs.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
+
+Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 2, 15, 21, 22, 23 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas
 
 LIETUVOS RESPUBLIKOS ASMENŲ DELEGAVIMO Į TARPTAUTINES IR EUROPOS SĄJUNGOS INSTITUCIJAS AR UŽSIENIO VALSTYBIŲ INSTITUCIJAS ĮSTATYMAS
 
@@ -47,9 +59,23 @@ BENDROSIOS NUOSTATOS
 
 6. Kiti asmenys – asmenys, dirbantys pagal darbo sutartis, ir savarankiškai dirbantys asmenys, nurodyti Valstybinio socialinio draudimo įstatymo 2 straipsnio 8 dalyje.
 
-7. Tarptautinės ir Europos Sąjungos institucijos – tarptautinės organizacijos ir institucijos, Europos Sąjungos institucijos ir įstaigos, Europos Komisijos ar Tarybos įsteigtos institucijos, Europos Komisijos ir Europos Sąjungos valstybių narių bendrai įsteigtos organizacijos (konsorciumai), civilinės tarptautinės operacijos ar misijos, kurios priima deleguojamus asmenis.
+7. Šeimos nariai – su deleguotu asmeniu į užsienį išvykę ir kartu gyvenantys jo sutuoktinis, deleguoto asmens ir (ar) jo sutuoktinio nepilnamečiai vaikai (įvaikiai) iki 18 metų, jeigu jie nėra įstatymų nustatyta tvarka emancipuoti ar sudarę santuokos, ir išlaikytiniai (nesvarbu, koks jų amžius). Išlaikytiniais laikomi asmenys, kurių globėju ar rūpintoju įstatymų nustatyta tvarka yra paskirtas deleguotas asmuo ir (ar) jo sutuoktinis.
 
-8. Užsienio valstybių institucijos – užsienio valstybių atstovaujamosios, vykdomosios, teisminės valdžios institucijos ir kitos užsienio valstybių institucijos ir įstaigos, kurioms užsienio valstybių įstatymai suteikia viešojo administravimo įgaliojimus.
+Papildyta straipsnio dalimi:
+
+Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
+
+8. Tarptautinės ir Europos Sąjungos institucijos – tarptautinės organizacijos ir institucijos, Europos Sąjungos institucijos ir įstaigos, Europos Komisijos ar Tarybos įsteigtos institucijos, Europos Komisijos ir Europos Sąjungos valstybių narių bendrai įsteigtos organizacijos (konsorciumai), civilinės tarptautinės operacijos ar misijos, kurios priima deleguojamus asmenis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
+
+9. Užsienio valstybių institucijos – užsienio valstybių atstovaujamosios, vykdomosios, teisminės valdžios institucijos ir kitos užsienio valstybių institucijos ir įstaigos, kurioms užsienio valstybių įstatymai suteikia viešojo administravimo įgaliojimus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
 
 3 straipsnis. Deleguojančiosios institucijos
 
@@ -199,7 +225,11 @@ INFORMAVIMAS APIE ATRINKTUS PRETENDENTUS IR JŲ DELEGAVIMAS
 
 15 straipsnis. Informacijos apie atrinktus pretendentus pateikimas
 
-Informaciją apie atrinktus pretendentus Valstybės tarnybos departamentas pateikia Užsienio reikalų ministerijai, o kitos valstybės institucijos ar įstaigos – Valstybės tarnybos departamentui ir Užsienio reikalų ministerijai. Užsienio reikalų ministerija informaciją apie atrinktus pretendentus perduoda tarptautinei ir Europos Sąjungos institucijai ar užsienio valstybės institucijai.
+Informaciją apie atrinktus pretendentus Valstybės tarnybos departamentas pateikia Užsienio reikalų ministerijai, o kitos valstybės institucijos ar įstaigos – Valstybės tarnybos departamentui ir Užsienio reikalų ministerijai. Kai atrenkama iš delegavimo rezervo, Užsienio reikalų ministerija informaciją apie atrinktus pretendentus pateikia Valstybės tarnybos departamentui ir deleguojančiosioms institucijoms. Užsienio reikalų ministerija informaciją apie atrinktus pretendentus perduoda tarptautinei ir Europos Sąjungos institucijai ar užsienio valstybės institucijai.
+
+Straipsnio pakeitimai:
+
+Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
 
 16 straipsnis. Atrinktų pretendentų mokymas
 
@@ -253,29 +283,53 @@ SOCIALINĖS GARANTIJOS DELEGUOJAMIEMS ASMENIMS IR IŠLAIDŲ, SUSIJUSIŲ SU DELEG
 
 21 straipsnis. Darbo užmokesčio deleguotiems asmenims mokėjimas
 
-1. Deleguotiems karjeros valstybės tarnautojams, statutiniams valstybės tarnautojams ir prokurorams darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiu mokamas jiems iki delegavimo nustatyto dydžio darbo užmokestis.
+1. Deleguotiems karjeros valstybės tarnautojams, statutiniams valstybės tarnautojams ir prokurorams darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiu mokamas darbo užmokestis, susidedantis iš pareiginės algos, nustatytos pareigoms ar pareigybėms, kurias jie ėjo iki delegavimo, ir priedų, kurie jiems buvo mokami iki delegavimo. Deleguotiems karjeros valstybės tarnautojams ir statutiniams valstybės tarnautojams gali būti mokama priemoka už darbą kenksmingomis, labai kenksmingomis ir pavojingomis darbo sąlygomis. Ši priemoka nemokama, jeigu priemoką už darbą sunkiomis arba rizikingomis darbo sąlygomis ar dienpinigius, į kuriuos įtraukta kompensacija už darbą sunkiomis arba rizikingomis darbo sąlygomis, deleguotam asmeniui moka tarptautinė ir Europos Sąjungos ar užsienio valstybės institucija, į kurią jis deleguotas. Pareiginės algos, priedų ir priemokos dydį ir jų mokėjimo tvarką nustato delegavimo laikotarpiu galiojantys teisės aktai.
 
-2. Deleguotiems kitiems asmenims darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiu mokamas Vyriausybės ar jos įgaliotos institucijos nustatyto dydžio darbo užmokestis.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
+
+2. Deleguotiems kitiems asmenims darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiu mokamas darbo užmokestis apskaičiuojamas taikant pareiginės algos koeficientą (nuo 1,7 iki 7,0), kurio vienetas yra lygus Lietuvos Respublikos Seimo patvirtintam Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) baziniam dydžiui. Deleguotiems kitiems asmenims Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti mokama priemoka už darbą kenksmingomis, labai kenksmingomis ir pavojingomis darbo sąlygomis. Konkretų pareiginės algos koeficientą, kuris nurodomas delegavimo sutartyje, ir priemokos dydį nustato užsienio reikalų ministras arba jo įgaliotas asmuo. Priemokos dydis negali viršyti 70 procentų pareiginės algos dydžio. Ši priemoka nemokama, jeigu priemoką už darbą sunkiomis arba rizikingomis darbo sąlygomis ar dienpinigius, į kuriuos įtraukta kompensacija už darbą sunkiomis arba rizikingomis darbo sąlygomis, deleguotam asmeniui moka tarptautinė ir Europos Sąjungos ar užsienio valstybės institucija, į kurią jis deleguotas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
 
 3. Nustatytas darbo užmokestis deleguotiems asmenims nemokamas, jeigu darbo užmokestį jiems moka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis yra deleguotas.
 
-22 straipsnis. Deleguojamų asmenų draudimas ir kitos garantijos
+22 straipsnis. Deleguotų asmenų ir jų šeimos narių draudimas ir kitos garantijos
 
-1. Deleguojami asmenys ir jų sutuoktiniai draudžiami valstybiniu socialiniu draudimu Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+1. Deleguoti asmenys ir jų sutuoktiniai draudžiami valstybiniu socialiniu draudimu Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka.
 
-2. Deleguojami asmenys, jų sutuoktiniai ir jų vaikai (įvaikiai) papildomai draudžiami sveikatos draudimu. Asmenys, deleguojami į pareigas ar pareigybes tarptautinėse, Europos Sąjungos institucijose ir užsienio valstybių institucijose, susijusias su krizių valdymu, taip pat draudžiami gyvybės draudimu. Valstybėse, kuriose nėra galimybių apsidrausti sveikatos draudimu, apmokamos išlaidos, susijusios su deleguoto asmens, jo sutuoktinio ir jų vaikų (įvaikių) sveikatos priežiūra, neviršijant Vyriausybės nustatyto šių išlaidų dydžio. Šios išlaidos neapmokamos, jeigu jas apmoka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią asmuo deleguotas.
+2. Deleguotiems asmenims ir jų šeimos nariams apmokamos sveikatos draudimo išlaidos. Asmenims, deleguotiems į pareigas ar pareigybes tarptautinėse, Europos Sąjungos institucijose ir užsienio valstybių institucijose, susijusias su krizių valdymu ir bendra Europos Sąjungos užsienio, saugumo ir gynybos politika, taip pat apmokamos gyvybės draudimo išlaidos. Valstybėse, kuriose nėra galimybių apsidrausti sveikatos draudimu, apmokamos išlaidos, susijusios su deleguoto asmens ir jo šeimos narių sveikatos priežiūra. Sveikatos draudimo, gyvybės draudimo ir sveikatos priežiūros išlaidų dydį nustato Vyriausybė. Šios išlaidos neapmokamos, jeigu jas apmoka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią asmuo deleguotas.
 
-3. Deleguotiems asmenims Vyriausybės nustatyta tvarka mokama su darbu užsienyje susijusių išlaidų kompensacija ir kompensacijos deleguotų asmenų sutuoktiniams ir jų vaikams (įvaikiams), išvykusiems į užsienį kartu su deleguotais asmenimis, išlaikyti. Šios kompensacijos nemokamos, jeigu darbo užmokestį arba dienpinigius deleguotam asmeniui moka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis deleguotas.
+3. Deleguotiems asmenims Vyriausybės nustatyta tvarka mokama su darbu užsienyje susijusių išlaidų kompensacija. Ši kompensacija negali būti didesnė už kompensaciją, apskaičiuojamą taikant šio įstatymo priede atitinkamiems karjeros, statutiniams valstybės tarnautojams, prokurorams ir kitiems asmenims nustatytus didžiausius koeficientus, kurių vienetas yra lygus Lietuvos Respublikos Seimo patvirtintam Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) baziniam dydžiui, ir Vyriausybės nustatytą šalių gyvenimo lygio vietos koeficientą. Konkretų kompensacijos dydį nustato užsienio reikalų ministras ar jo įgaliotas asmuo. Išvykusiam į užsienį kartu su deleguotu asmeniu jo sutuoktiniui kas mėnesį mokama kompensacija, kuri sudaro 0,5 per mėnesį deleguoto asmens gaunamos su darbu užsienyje susijusių išlaidų kompensacijos. Sutuoktiniui, gaunančiam pajamas, susijusias su darbo santykiais, ši kompensacija nemokama. Deleguotam asmeniui, kai išvykę į užsienį kartu su juo gyvena deleguoto asmens ir (ar) jo sutuoktinio nepilnamečiai vaikai (įvaikiai) iki 18 metų, jeigu jie nėra įstatymų nustatyta tvarka emancipuoti ar sudarę santuokos, už kiekvieną vaiką (įvaikį) kartu su darbo užmokesčiu kas mėnesį mokama kompensacija, kurią sudaro 0,2 per mėnesį jo gaunamos su darbu užsienyje susijusių išlaidų kompensacijos, jeigu vaikas (įvaikis) – iki 6 metų, 0,3 per mėnesį jo gaunamos su darbu užsienyje susijusių išlaidų kompensacijos, jeigu vaikas (įvaikis) – 6 ir daugiau metų. Deleguotam asmeniui, kai išvykę į užsienį kartu su juo gyvena išlaikytiniai, už kiekvieną išlaikytinį kartu su darbo užmokesčiu kas mėnesį mokama kompensacija, kurią sudaro 0,25 per mėnesį jo gaunamos su darbu užsienyje susijusių išlaidų kompensacijos. Šios kompensacijos nemokamos, jeigu darbo užmokestį arba dienpinigius deleguotam asmeniui moka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis deleguotas.
 
-4. Deleguotiems asmenims Vyriausybės nustatyta tvarka apmokamos gyvenamųjų patalpų nuomos išlaidos. Šios išlaidos neapmokamos, jei jas apmoka arba darbo užmokestį ar dienpinigius, į kuriuos įtraukta kompensacija už patalpų nuomą, deleguotam asmeniui moka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis deleguotas.
+4. Deleguotiems asmenims Vyriausybės nustatyta tvarka kas mėnesį skiriama Vyriausybės nustatyto dydžio išmoka apsirūpinti gyvenamosiomis patalpomis, atitinkančiomis jų šeimos narių skaičių. Ši išmoka neskiriama, jei išmoką apsirūpinti gyvenamosiomis patalpomis skiria arba darbo užmokestį ar dienpinigius, į kuriuos įtraukta kompensacija už gyvenamųjų patalpų nuomą, deleguotam asmeniui moka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis deleguotas.
 
-5. Deleguotiems asmenims apmokamos persikėlimo iš Lietuvos Respublikos į užsienio valstybę, į kurią jis deleguotas, ir iš užsienio valstybės į Lietuvos Respubliką išlaidos. Šios išlaidos neapmokamos, jeigu jas apmoka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis deleguotas.
+5. Vyriausybės nustatyta tvarka ir neviršijant Vyriausybės nustatyto šių išlaidų dydžio, deleguotiems asmenims ir jų šeimos nariams apmokamos persikėlimo (kelionės, bagažo gabenimo ir turto persivežimo išlaidos) iš Lietuvos Respublikos į užsienio valstybę, į kurią dirbti jis deleguotas, ir iš užsienio valstybės į Lietuvos Respubliką išlaidos. Šios išlaidos neapmokamos, jeigu jas apmoka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis deleguotas. Šios išlaidos, išskyrus kelionės ir bagažo gabenimo išlaidas, neapmokamos, jeigu delegavimo trukmė trumpesnė kaip 3 mėnesiai.
 
-6. Kartą per darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje metus deleguotam asmeniui, jo sutuoktiniui ir jų vaikams (įvaikiams) kompensuojamos kelionės išlaidos į Lietuvos Respubliką ir atgal į užsienio valstybę, į kurią dirbti jis deleguotas, jeigu jų neapmoka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis deleguotas, arba šių išlaidų kompensavimas nėra įtrauktas į darbo užmokestį ar dienpinigius, kuriuos deleguotam asmeniui moka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis deleguotas.
+6. Jeigu delegavimo arba delegavimo pratęsimo trukmė ilgesnė kaip 6 mėnesiai, kartą per darbo tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje metus deleguotiems asmenims ir jų šeimos nariams apmokamos kelionės į Lietuvos Respubliką ir atgal į užsienio valstybę, į kurią dirbti jis deleguotas, išlaidos, o su deleguotu asmeniu į užsienį neišvykusiems jo sutuoktiniui, deleguoto asmens ir (ar) jo sutuoktinio nepilnamečiams vaikams (įvaikiams) iki 18 metų, jeigu jie nėra įstatymų nustatyta tvarka emancipuoti ar sudarę santuokos, ir išlaikytiniams – kelionės pas deleguotą asmenį ir atgal į Lietuvos Respubliką išlaidos. Šios išlaidos neapmokamos, jeigu jas apmoka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią asmuo deleguotas, arba šių išlaidų kompensavimas yra įtrauktas į darbo užmokestį ar dienpinigius, kuriuos deleguotam asmeniui moka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis deleguotas. Esant šio straipsnio 8 dalies 2 punkte nurodytoms aplinkybėms, deleguotiems asmenims apmokamos kelionių kas 6 mėnesiai į Lietuvos Respubliką ir atgal į užsienio valstybę, į kurią dirbti jis deleguotas, išlaidos.
+
+7. Deleguotiems asmenims Vyriausybės nustatyta tvarka apmokamos kitos būtinos su delegavimu susijusios išlaidos, kurias nustato, tačiau neapmoka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią asmuo deleguotas, ir dėl kurių padengimo Užsienio reikalų ministerija pateikia išvadą pagal šio įstatymo 7 straipsnio 1 dalį.
+
+8. Šio straipsnio 2–6 dalyse nurodytos garantijos deleguotų asmenų šeimos nariams nėra taikomos, jeigu:
+
+1) delegavimo trukmė trumpesnė kaip 3 mėnesiai;
+
+2) tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią asmuo deleguojamas, yra nustačiusi apribojimų deleguojamų asmenų šeimos nariams vykti kartu su deleguojamais asmenimis.
+
+Straipsnio pakeitimai:
+
+Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
 
 23 straipsnis. Išlaidų, susijusių su delegavimu, apmokėjimas
 
-1. Deleguotiems karjeros valstybės tarnautojams, statutiniams valstybės tarnautojams ir prokurorams darbo užmokestį moka valstybės institucijos ir įstaigos, kuriose jie ėjo pareigas iki delegavimo, išskyrus šio įstatymo 21 straipsnio 3 dalyje nustatytą atvejį.
+1. Deleguotiems karjeros valstybės tarnautojams, statutiniams valstybės tarnautojams ir prokurorams darbo užmokestį moka valstybės institucijos ir įstaigos, kuriose jie ėjo pareigas iki delegavimo, išskyrus šio įstatymo 21 straipsnio 3 dalyje nustatytą atvejį. Deleguotiems kitiems asmenims darbo užmokestį moka Užsienio reikalų ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
 
 2. Šio įstatymo 22 straipsnyje nurodytas išlaidas apmoka: kai deleguojami karjeros valstybės tarnautojai, statutiniai valstybės tarnautojai ar prokurorai, – šio įstatymo 3 straipsnyje nurodytos deleguojančiosios institucijos ir įstaigos, kuriose jie dirbo iki delegavimo; kai deleguojami kiti asmenys, – Užsienio reikalų ministerija.
 
@@ -297,209 +351,53 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-26 straipsnis. Delegavimo išlaidų apmokėjimas
-
-1. Deleguotiems karjeros valstybės tarnautojams, statutiniams valstybės tarnautojams ir valstybės pareigūnams darbo užmokestį moka deleguojančiosios institucijos, kuriose jie ėjo pareigas iki delegavimo, išskyrus šio įstatymo 24 straipsnio 5 dalyje nustatytą atvejį. Deleguotiems kitiems asmenims darbo užmokestį moka Užsienio reikalų ministerija.
-
-2. Šio įstatymo 25 straipsnyje nurodytas išlaidas apmoka: kai deleguojami karjeros valstybės tarnautojai, statutiniai valstybės tarnautojai ar valstybės pareigūnai, – šio įstatymo 3 straipsnyje nurodytos deleguojančiosios institucijos, kuriose jie dirbo iki delegavimo; kai deleguojami kiti asmenys, – Užsienio reikalų ministerija.
-
-3. Deleguojančiųjų institucijų patirtos šio įstatymo 16 straipsnyje, 24 straipsnio 1 dalyje ir 25 straipsnyje nurodytos išlaidos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka padengiamos iš Užsienio reikalų ministerijai tam tikslui skirtų Lietuvos Respublikos valstybės biudžeto asignavimų, išskyrus šio įstatymo 8 straipsnio 2 dalyje nurodytus atvejus, kai delegavimo išlaidos apmokamos iš atitinkamai valstybės institucijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų. Užsienio reikalų ministerijai Lietuvos Respublikos valstybės biudžeto asignavimai delegavimo išlaidoms padengti naudojami Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
-Lietuvos Respublikos
-
-asmenų delegavimo į tarptautines ir
-
-Europos Sąjungos institucijas ar
-
-užsienio valstybių institucijas įstatymo
+Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo
 
 priedas
 
-SU DARBU UŽSIENYJE SUSIJUSIŲ IŠLAIDŲ KOMPENSACIJA
-
 Deleguojami asmenys
 
-Su darbu užsienyje susijusių išlaidų kompensacijos koeficientai
+Su darbu užsienyje susijusių išlaidų kompensacijos didžiausi koeficientai
 
-1. Valstybės tarnautojai, kurių pareigybių grupes nustato Lietuvos Respublikos valstybės tarnybos įstatymas, išskyrus deleguojamus į rinkimų stebėjimo misijas:
+1. Karjeros, statutiniai valstybės tarnautojai:
 
-1.1. kurių pareigybės priskirtos 1–3 pareigybių grupei
+1.1. kurių pareigybių kategorijos 18–20
 
-10,87
+10,5
 
-1.2. kurių pareigybės priskirtos 4 pareigybių grupei
+1.2. kurių pareigybių kategorijos 15–17
 
-9,70
+9,5
 
-1.3. kurių pareigybės priskirtos 5 pareigybių grupei
+1.3. kurių pareigybių kategorijos 11–14
 
-8,93
+8
 
-1.4. kurių pareigybės priskirtos 6 pareigybių grupei
+1.4. kurių pareigybių kategorijos 1–10
 
-8,15
+5
 
-1.5. kurių pareigybės priskirtos 7 pareigybių grupei
+2. Prokurorai:
 
-6,99
+2.1. kurių pareiginės algos koeficientas 11,35 ir didesnis
 
-1.6. kurių pareigybės priskirtos 8 pareigybių grupei
+10,5
 
-5,82
+2.2. kurių pareiginės algos koeficientas 9,2–10,8
 
-1.7. kurių pareigybės priskirtos 9 pareigybių grupei
+9,5
 
-5,05
+2.3. kurių pareiginės algos koeficientas 8,0–8,8
 
-1.8. kurių pareigybės priskirtos 10 pareigybių grupei
-
-4,27
-
-2. Valstybės pareigūnai ir statutiniai valstybės tarnautojai, kurių darbo užmokestį arba pareigybių grupes nustato atitinkami jų veiklą reglamentuojantys statutai ir įstatymai, išskyrus deleguojamus į rinkimų stebėjimo misijas:
-
-2.1. Diplomatai:
-
-2.1.1. kurių pareigybės priskirtos 1–3 pareigybių grupei
-
-10,87
-
-2.1.2. kurių pareigybės priskirtos 4 pareigybių grupei
-
-9,70
-
-2.1.3. kurių pareigybės priskirtos 5 pareigybių grupei
-
-8,93
-
-2.1.4. kurių pareigybės priskirtos 6 pareigybių grupei
-
-8,15
-
-2.1.5. kurių pareigybės priskirtos 7–8 pareigybių grupei
-
-6,99
-
-2.1.6. kurių pareigybės priskirtos 9 pareigybių grupei
-
-5,82
-
-2.1.7. kurių pareigybės priskirtos 10 pareigybių grupei
-
-5,05
-
-2.1.8. kurių pareigybės priskirtos 11 pareigybių grupei
-
-4,27
-
-2.2. Prokurorai:
-
-2.2.1. kurių pareiginės algos koeficientas 20,2–21,2
-
-9,70
-
-2.2.2. kurių pareiginės algos koeficientas 19,0–19,2
-
-8,93
-
-2.2.3. kurių pareiginės algos koeficientas 18,5–18,6
-
-8,15
-
-2.2.4. kurių pareiginės algos koeficientas 17,3–17,7
-
-6,99
-
-2.2.5. kurių pareiginės algos koeficientas 16,5–17,0
-
-5,82
-
-2.2.6. kurių pareiginės algos koeficientas 15,7–16,0
-
-5,05
-
-2.2.7. kurių pareiginės algos koeficientas 13,9–15,2
-
-4,27
-
-2.3. Vidaus tarnybos sistemos pareigūnai:
-
-2.3.1. kurių pareigybės priskirtos 1–2 pareigybių grupei
-
-10,87
-
-2.3.2. kurių pareigybės priskirtos 3–4 pareigybių grupei
-
-9,70
-
-2.3.3. kurių pareigybės priskirtos 5–6 pareigybių grupei
-
-8,93
-
-2.3.4. kurių pareigybės priskirtos 7–8 pareigybių grupei
-
-8,15
-
-2.3.5. kurių pareigybės priskirtos 9–10 pareigybių grupei
-
-6,99
-
-2.3.6. kurių pareigybės priskirtos 11–12 pareigybių grupei
-
-5,82
-
-2.3.7. kurių pareigybės priskirtos 13–14 pareigybių grupei
-
-5,05
-
-2.3.8. kurių pareigybės priskirtos 15 pareigybių grupei
-
-4,27
-
-2.4. Žvalgybos pareigūnai:
-
-2.4.1. kurių pareiginės algos koeficientas 17,0
-
-10,87
-
-2.4.2. kurių pareiginės algos koeficientas 16,0
-
-9,70
-
-2.4.3. kurių pareiginės algos koeficientas 15,0
-
-8,93
-
-2.4.4. kurių pareiginės algos koeficientas 12,9–14,0
-
-8,15
-
-2.4.5. kurių pareiginės algos koeficientas 11,3–12,8
-
-6,99
-
-2.4.6. kurių pareiginės algos koeficientas 9,7–11,2
-
-5,82
-
-2.4.7. kurių pareiginės algos koeficientas 8,1–9,6
-
-5,05
-
-2.4.8. kurių pareiginės algos koeficientas 6,5–8,0
-
-4,27
+8
 
 3. Kiti asmenys
 
-3,88
+5
 
-4. Visi asmenys, deleguojami į rinkimų stebėjimo misijas
+Papildyta priedu:
 
-3,88
+Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
 
 Pakeitimai:
 
@@ -510,52 +408,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
 
 Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 2, 15, 21, 22, 23 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2042, 2012-06-05, Žin., 2012, Nr. 69-3524 (2012-06-21), i. k. 1121010ISTA0XI-2042
-
-Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 5 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2201, 2012-06-30, Žin., 2012, Nr. 83-4351 (2012-07-14), i. k. 1121010ISTA0XI-2201
-
-Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 2, 5, 14, 16, 20, 22, 23 straipsnių pakeitimo ir papildymo ir Įstatymo priedo pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2267, 2016-03-22, paskelbta TAR 2016-03-29, i. k. 2016-06423
-
-Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 1, 2 ir 13 straipsnių pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
-
-Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 3, 5, 6, 7, 9, 12, 14, 15, 17 straipsnių ir priedo pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1815, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21835
-
-Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 1 straipsnio pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1802, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00215
-
-Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 pakeitimo įstatymas
 
