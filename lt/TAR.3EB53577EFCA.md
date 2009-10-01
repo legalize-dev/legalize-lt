@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2008-11-15"
+last_updated: "2009-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -2613,9 +2613,9 @@ dovana (iki penkių minimalių gyvenimo lygių dydžio vertės);
 
 garbės ženklo medaliu arba kitu pasižymėjimo ženklu;
 
-5) suteikiant aukštesnį
+5) suteikiant
 
-kvalifikacinį rangą.
+aukštesnį kvalifikacinį rangą.
 
 2. Už ypatingus
 
@@ -2699,15 +2699,13 @@ remiantis Generalinės prokuratūros ar teritorinės prokuratūros vyriausiojo
 
 prokuroro tarnybiniu pranešimu.
 
-4. Tarnybinis
+4. Tarnybinis patikrinimas
 
-patikrinimas pradedamas nedelsiant, kai gaunama generalinio prokuroro (jo
+pradedamas nedelsiant, kai gaunama generalinio prokuroro (jo pavaduotojo)
 
-pavaduotojo) rezoliucija pradėti tarnybinį patikrinimą, ir atliekamas ne ilgiau
+rezoliucija pradėti tarnybinį patikrinimą, ir atliekamas ne ilgiau kaip 30 kalendorinių dienų šio Įstatymo ir
 
-kaip 30 kalendorinių dienų šio
-
-Įstatymo ir generalinio prokuroro nustatyta tvarka.
+generalinio prokuroro nustatyta tvarka.
 
 5. Prokuroras
 
@@ -3069,9 +3067,9 @@ tarnybinė nuobauda – atleidimas iš tarnybos;
 
 apkaltinamasis teismo nuosprendis;
 
-4) netenka
+4) netenka Lietuvos
 
-Lietuvos Respublikos pilietybės;
+Respublikos pilietybės;
 
 5) nenutraukia
 
@@ -3189,11 +3187,13 @@ tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atost
 
 ar laikino nedarbingumo pasibaigimo tarnybos diena.
 
-3. Nėščią prokurorę
+3. Nėščią
 
-atleisti iš tarnybos, išskyrus šio Įstatymo 44 straipsnio 1 dalies 1–6, 9–12
+prokurorę atleisti iš tarnybos, išskyrus šio Įstatymo 44 straipsnio 1 dalies
 
-punktuose ir 2 dalies 1, 3, 6, 8 punktuose nustatytus atvejus, draudžiama.
+1–6, 9–12 punktuose ir 2 dalies 1, 3, 6, 8 punktuose nustatytus atvejus,
+
+draudžiama.
 
 4. Prokurorą,
 
@@ -3421,9 +3421,9 @@ pakeitimai:
 
 Nr.
 
-X-1785, 2008-11-06,
+X-1785,
 
-Žin., 2008, Nr. 131-5035 (2008-11-15)
+2008-11-06, Žin., 2008, Nr. 131-5035 (2008-11-15)
 
 50
 
@@ -4113,9 +4113,9 @@ atskiras teritorinių prokuratūrų išlaidų sąmatas.
 
 2. Svarstant Seime, Vyriausybėje ir kitose valstybės
 
-institucijose valstybės biudžetą ar prokuratūrai skiriamus asignavimus, prokuratūrai atstovauja generalinis
+institucijose valstybės biudžetą ar prokuratūrai skiriamus asignavimus, prokuratūrai atstovauja generalinis prokuroras
 
-prokuroras (jo pavaduotojas).
+(jo pavaduotojas).
 
 3. Valstybė finansinėmis, organizacinėmis ir techninėmis
 
@@ -4459,9 +4459,9 @@ PROKURATŪROS
 
 ĮSTATYMO 50 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-Šis
+Šis įstatymas
 
-įstatymas įsigalioja nuo 2006 m. liepos 1 d.
+įsigalioja nuo 2006 m. liepos 1 d.
 
 11.
 
@@ -4523,15 +4523,35 @@ PROKURATŪROS
 
 ĮSTATYMO 49 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-338,
+
+2009-07-14, Žin., 2009, Nr. 89-3800 (2009-07-28)
+
+PROKURATŪROS
+
+ĮSTATYMO 37(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja nuo 2009 m. spalio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2008-11-19)
+Vilija Tamaliūnienė (2009-07-28)
 
-autrap@lrs.lt
+vitama@lrs.lt
 
 371 straipsnis. Prokuroro delegavimas į
 
@@ -4551,13 +4571,13 @@ sutartis ar Europos Sąjungos teisės aktai nenustato kitaip.
 
 delegavimo į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių
 
-institucijas laikotarpis įskaitomas į tarnybos prokuroru stažą, jam mokamas iki
+institucijas laikotarpis įskaitomas į tarnybos prokuroru stažą, jam mokamas
 
-delegavimo nustatytas darbo užmokestis ir suteikiamos teisės aktų nustatytos su
+nustatytas darbo užmokestis ir apmokamos kitos teisės aktų nustatytos su
 
-delegavimu susijusios socialinės garantijos. Delegavimo laikotarpiu prokurorui
+delegavimu susijusios išlaidos. Delegavimo laikotarpiu prokurorui garantuojamos
 
-garantuojamos einamos pareigos.
+einamos pareigos.
 
 Įstatymas papildytas straipsniu:
 
@@ -4566,6 +4586,12 @@ Nr.
 X-1661,
 
 2008-07-01, Žin., 2008, Nr. 81-3173 (2008-07-17)
+
+Straipsnio pakeitimai:
+
+Nr. XI-338, 2009-07-14,
+
+Žin., 2009, Nr. 89-3800 (2009-07-28)
 
 38
 
