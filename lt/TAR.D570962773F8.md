@@ -4,7 +4,7 @@ identifier: "TAR.D570962773F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-03"
-last_updated: "2009-08-04"
+last_updated: "2009-10-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos atmintinų dienų įstatymas
 
-Įstatymas paskelbtas: Žin., 1997, Nr. 67-1672
+Įstatymas skelbtas: Žin., 1997, Nr. 67-1672
 
 Neoficialus įstatymo tekstas
 
@@ -45,13 +45,11 @@ kultūros ir gyvosios istorijos išsaugojimu.
 
 2. Nustatyti šias atmintinas dienas:
 
-1)
+1) sausio 1-oji – Lietuvos vėliavos
 
-sausio 1-oji – Lietuvos vėliavos diena;
+diena;
 
-2)
-
-sausio 13-oji – Laisvės gynėjų diena;
+2) sausio 13-oji – Laisvės gynėjų diena;
 
 3) sausio 15-oji – Klaipėdos krašto
 
@@ -71,37 +69,35 @@ solidarumo diena;
 
 7) kovo 20-oji – Žemės diena;
 
-8)
+8) kovo 27-oji – Tarptautinė teatro
 
-kovo 27-oji – Tarptautinė teatro diena;
+diena;
 
-9)
+9) kovo 29-oji – Lietuvos įstojimo į
 
-kovo 29-oji – Lietuvos įstojimo į NATO diena;
+NATO diena;
 
-10)
+10) balandžio 6-oji – Saugaus eismo
 
-balandžio 6-oji – Saugaus eismo diena;
+diena;
 
-11)
+11) balandžio 7-oji – Pasaulinė
 
-balandžio 7-oji – Pasaulinė sveikatos diena;
+sveikatos diena;
 
-12)
+12) balandžio 15-oji – Kultūros diena;
 
-balandžio 15-oji – Kultūros diena;
+13) balandžio 17-oji – Lietuvos
 
-13)
+energetikų diena;
 
-balandžio 17-oji – Lietuvos energetikų diena;
+14) balandžio 27-oji – Medicinos
 
-14)
+darbuotojų diena;
 
-balandžio 27-oji – Medicinos darbuotojų diena;
+15) balandžio paskutinis sekmadienis –
 
-15)
-
-balandžio paskutinis sekmadienis – Pasaulinė gyvybės diena;
+Pasaulinė gyvybės diena;
 
 16) gegužės 1-oji – Lietuvos įstojimo į
 
@@ -129,7 +125,9 @@ pasipriešinimo diena;
 
 susirinkimo diena, Tarptautinė šeimos diena;
 
-23) gegužės 17-oji – Pasaulinė informacinės visuomenės diena;
+23) gegužės 17-oji – Pasaulinė
+
+informacinės visuomenės diena;
 
 24) gegužės trečiasis sekmadienis
 
@@ -143,55 +141,51 @@ dingusių vaikų diena;
 
 gynimo diena;
 
-27)
+27) birželio 3-ioji – Sąjūdžio diena;
 
-birželio 3-ioji – Sąjūdžio diena;
-
-28)
-
-(neteko galios);
-
-29) birželio 14-oji – Gedulo ir vilties
+28) birželio 14-oji – Gedulo ir vilties
 
 diena;
 
-30)
+29) birželio 15-oji – Okupacijos ir
 
-birželio 15-oji – Okupacijos ir genocido diena;
+genocido diena;
 
-31) birželio 23-ioji – Birželio sukilimo
-
-diena;
-
-32) liepos 15-oji – Žalgirio mūšio
+30) birželio 23-ioji – Birželio sukilimo
 
 diena;
 
-33) liepos paskutinis sekmadienis –
+31) liepos 15-oji – Žalgirio mūšio
+
+diena;
+
+32) liepos paskutinis sekmadienis –
 
 Jūros diena ir Žvejų diena;
 
-34) rugpjūčio 12-oji – Tarptautinė
+33) rugpjūčio 12-oji – Tarptautinė
 
 jaunimo diena;
 
-35)
+34) rugpjūčio 23-ioji – Europos
 
-rugpjūčio 23-ioji – Europos diena stalinizmo ir nacizmo aukoms atminti ir
+diena stalinizmo ir nacizmo aukoms atminti ir Baltijos kelio diena;
 
-Baltijos kelio diena;
+35) rugpjūčio 31-oji – Laisvės diena;
 
-36) rugpjūčio 31-oji – Laisvės diena;
-
-37) rugsėjo 1-oji – Mokslo ir žinių
+36) rugsėjo 1-oji – Mokslo ir žinių
 
 diena;
 
-38) rugsėjo 8-oji – Šilinė (Švč.
+37) rugsėjo 8-oji – Šilinė (Švč.
 
 Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už
 
 Lietuvos nepriklausomybės ir laisvės apgynimą diena;
+
+38) rugsėjo antrasis šeštadienis –
+
+Statybininkų diena;
 
 39) rugsėjo 22-oji – Baltų vienybės
 
@@ -209,21 +203,21 @@ darbuotojų diena;
 
 atminimo diena;
 
-43)
+43) spalio 1-oji – Tarptautinė
 
-spalio 1-oji – Tarptautinė pagyvenusių žmonių diena;
+pagyvenusių žmonių diena;
 
 44) spalio pirmasis šeštadienis – Kūno
 
 kultūros ir sporto diena;
 
-45)
+45) spalio 5-oji – Tarptautinė mokytojų
 
-spalio 5-oji – Tarptautinė mokytojų diena;
+diena;
 
-46)
+46) spalio 10-oji – Vietos savivaldos
 
-spalio 10-oji – Vietos savivaldos diena;
+diena;
 
 47) spalio antrasis šeštadienis –
 
@@ -233,9 +227,9 @@ Derliaus diena;
 
 gyventojų genocido diena;
 
-49) spalio 20-oji – 1791 m. Abiejų Tautų
+49) spalio 20-oji – 1791 m.
 
-(Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena;
+Abiejų Tautų (Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena;
 
 50) spalio 25-oji – Konstitucijos diena;
 
@@ -251,9 +245,9 @@ kariuomenės diena;
 
 prisijungimo prie Didžiosios Lietuvos akto diena;
 
-54) gruodžio 10-oji – Tarptautinė
+54) gruodžio
 
-žmogaus teisių diena.
+10-oji – Tarptautinė žmogaus teisių diena.
 
 Straipsnio
 
@@ -275,9 +269,9 @@ Nr. IX-329, 2001 05 17, Žin., 2001, Nr.
 
 43-1499 (2001 05 23)
 
-Nr. IX-379, 2001-06-14, Žin., 2001, Nr.
+Nr. IX-379, 2001-06-14, Žin., 2001, Nr. 57-2027
 
-57-2027 (2001-07-04)
+(2001-07-04)
 
 Nr. IX-735,
 
@@ -338,6 +332,12 @@ Nr.
 XI-384,
 
 2009-07-22, Žin., 2009, Nr. 93-3976 (2009-08-04)
+
+Nr.
+
+XI-435,
+
+2009-09-24, Žin., 2009, Nr. 121-5196 (2009-10-10)
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -589,13 +589,27 @@ ATMINTINŲ
 
 DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+18.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-435,
+
+2009-09-24, Žin., 2009, Nr. 121-5196 (2009-10-10)
+
+ATMINTINŲ
+
+DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušra Bodin (2009-08-04)
+Aušrinė Trapinskienė (2009-10-12)
 
-aubodi@lrs.lt
+autrap@lrs.lt
 
