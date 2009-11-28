@@ -4,7 +4,7 @@ identifier: "TAR.65532A74E296"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2004-07-15"
+last_updated: "2009-11-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296"
 department: "Lietuvos Respublikos Seimas"
@@ -1066,13 +1066,19 @@ apie šiuos asmenis kartą per kalendorinius metus;
 
 sutartis;
 
-3) mokesčių administravimo (išskyrus Juridinių asmenų
+3) mokesčių administravimo (išskyrus
 
-registro duomenis) ir teisėtvarkos institucijoms – jų tiesioginėms funkcijoms
+Juridinių asmenų registro duomenis), teisėtvarkos institucijoms ir teismams –
 
-atlikti;
+jų tiesioginėms funkcijoms atlikti;
 
 4) kitais registro nuostatų nustatytais atvejais.
+
+Straipsnio pakeitimai:
+
+Nr. XI-484,
+
+2009-11-12, Žin., 2009, Nr. 141-6204 (2009-11-28)
 
 18 straipsnis. Registro
 
@@ -1096,9 +1102,9 @@ REGISTRŲ VALSTYBINĖ PRIEŽIŪRA. REGISTRŲ DUOMENŲ SAUGOS
 
 UŽTIKRINIMAS IR ATSAKOMYBĖ
 
-19 straipsnis. Registrų priežiūros
+19 straipsnis. Registrų
 
-institucijos
+priežiūros institucijos
 
 1. Registrų sistemos bei atskirų registrų steigimo,
 
@@ -1126,7 +1132,9 @@ duomenų gavėjams, projektus;
 
 3) nustato ir įgyvendina registrų techninės bazės,
 
-programinių ir technologinių priemonių formavimo ir veikimo bendruosius reikalavimus;
+programinių ir technologinių priemonių formavimo ir veikimo bendruosius
+
+reikalavimus;
 
 4) derina steigiamų registrų nuostatus ir registrų
 
@@ -1178,13 +1186,13 @@ taip pat nuo bet kokio kito neteisėto tvarkymo.
 
 vadovaujantis Vyriausybės patvirtintais bendraisiais duomenų saugos
 
-reikalavimais, rengiami ir vadovaujančiosios registro tvarkymo įstaigos
+reikalavimais, rengiami ir vadovaujančiosios registro tvarkymo įstaigos tvirtinami
 
-tvirtinami registro duomenų saugos nuostatai. Juose nustatomos reikiamos
+registro duomenų saugos nuostatai. Juose nustatomos reikiamos registro duomenų
 
-registro duomenų saugos priemonės, registro duomenų saugaus tvarkymo
+saugos priemonės, registro duomenų saugaus tvarkymo reikalavimai ir jų
 
-reikalavimai ir jų įgyvendinimas.
+įgyvendinimas.
 
 4. Registro tvarkytojai privalo registro duomenų
 
@@ -1266,13 +1274,25 @@ Nauja
 
 įstatymo redakcija
 
-***
+3.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas,
 
-Redagavo:
+Įstatymas
 
-Aušra Bodin (2004-08-09)
+Nr. XI-484, 2009-11-12,
 
-aubodi@lrs.lt
+Žin., 2009, Nr. 141-6204 (2009-11-28)
+
+VALSTYBĖS REGISTRŲ ĮSTATYMO 17
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2009-11-30)
+
+autrap@lrs.lt
 
