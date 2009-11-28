@@ -4,7 +4,7 @@ identifier: "TAR.A0BAB27D768C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-12-19"
-last_updated: "2009-08-08"
+last_updated: "2009-11-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 department: "Lietuvos Respublikos Seimas"
@@ -2121,31 +2121,39 @@ ir kriziniams reiškiniams prognozuoti, stebėti, prevencinėms priemonėms
 
 parengti ir vykdyti, krizėms nustatyti bei valdyti, padariniams pašalinti.
 
-Krizių valdymo
+Krizių valdymo strategiją tvirtina
 
-strategijai numatyti ir krizių valdymui koordinuoti Vyriausybė sudaro Krizių
+Vyriausybė. Krizių valdymą koordinuoja Vyriausybės sudaromas Krizių valdymo
 
-valdymo komitetą. Komitetui vadovauja Ministras Pirmininkas, į jį taip pat
+komitetas, kuriam vadovauja Ministras Pirmininkas. Krizių valdymo komitetą
 
-įeina svarbiausi su krizių valdymu susiję ministrai ir kitų valstybės
+sudaro svarbiausi su krizių valdymu susiję ministrai, Ministro Pirmininko
 
-institucijų vadovai.
+kancleris ar jo pirmasis pavaduotojas. Prireikus Krizių valdymo komitetas,
 
-Vyriausybės įsteigtas Krizių
+atsižvelgdamas į krizės pobūdį, priima sprendimą siūlyti Vyriausybei iš
 
-prevencijos koordinavimo centras yra pagrindinė valstybės įvairaus pobūdžio
+atitinkamų ministerijų ir kitų valstybės institucijų atstovų sudaryti Jungtinį
 
-krizių prevencijos koordinavimo strateginiu lygmeniu  institucija.
+koordinavimo centrą krizei valdyti ir jos padarinių likvidavimui
 
-Krizių prevencijos koordinavimo centras rengia integralius krizių ir
+koordinuoti. Jungtinio koordinavimo centro nuostatus tvirtina Vyriausybė.
 
-ekstremalių situacijų prevencijos bei jų valdymo planus ir priemones,
+Krizių
 
-atsižvelgdamas į krizių pobūdį; ministerijos ir kitos valstybės institucijos
+prevenciją ir pasirengimą jas valdyti koordinuoja Ministro Pirmininko tarnyba.
 
-rengiant šiuos planus dalyvauja pagal savo kompetenciją. Integralius krizių ir
+Ministro Pirmininko tarnyba koordinuoja integralių krizių ir ekstremalių
 
-ekstremalių situacijų valdymo planus ir priemones tvirtina Vyriausybė.
+situacijų prevencijos bei jų valdymo planų ir priemonių rengimą; ministerijos
+
+ir kitos valstybės institucijos pagal savo kompetenciją rengia šiuos planus ir
+
+priemones, numatydamos veiksmų koordinavimą su kitomis institucijomis.
+
+Integralius krizių ir ekstremalių situacijų valdymo planus ir priemones
+
+tvirtina Vyriausybė.
 
 Krizių valdymą reglamentuoja
 
@@ -2173,6 +2181,12 @@ Nr. XI-125,
 
 2008-12-23, Žin., 2008, Nr. 149-6045 (2008-12-30)
 
+Nr.
+
+XI-480,
+
+2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
+
 15 skyrius
 
 SEIMO
@@ -2199,15 +2213,15 @@ ilgalaikius nacionalinio saugumo užtikrinimo poreikius, įstatymu reglamentuoja
 
 krašto apsaugos sistemą, taip pat kasmet įstatymu nustato principinę
 
-kariuomenės struktūrą: ribinius krašto apsaugos sistemoje tarnaujančių
+kariuomenės struktūrą: ribinius krašto apsaugos sistemoje tarnaujančių profesinės
 
-profesinės karo tarnybos, privalomosios pradinės karo tarnybos ir aktyviojo
+karo tarnybos, privalomosios pradinės karo tarnybos ir aktyviojo rezervo karių,
 
-rezervo karių, statutinių krašto apsaugos sistemos tarnautojų, kiekvieno
+statutinių krašto apsaugos sistemos tarnautojų, kiekvieno laipsnio vyresniųjų
 
-laipsnio vyresniųjų karininkų, generolų ir admirolų skaičių, nuolatinių
+karininkų, generolų ir admirolų skaičių, nuolatinių junginių, dalinių ir jiems
 
-junginių, dalinių ir jiems prilygintų karinių vienetų skaičių.
+prilygintų karinių vienetų skaičių.
 
 Seimas įgyvendina nacionalinio
 
@@ -2335,9 +2349,9 @@ IX-1524,
 
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
-Nr. IX-2030, 2004-02-19,
+Nr. IX-2030,
 
-Žin., 2004, Nr. 39-1270 (2004-03-13)
+2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 17 SKYRIUS
 
@@ -2391,7 +2405,9 @@ sutarčių; organizuoja tarptautinių sutarčių ir Lietuvos Respublikos įstaty
 
 bei kitų teisės aktų tarptautinių santykių klausimais vykdymo kontrolę; atlieka
 
-kitas įstatymų ir Lietuvos Respublikos Vyriausybės nutarimų nustatytas funkcijas.
+kitas įstatymų ir Lietuvos Respublikos Vyriausybės nutarimų nustatytas
+
+funkcijas.
 
 Skyriaus
 
@@ -2403,9 +2419,9 @@ Nr. VIII-770,
 
 Nr.
 
-IX-1524, 2003-04-22,
+IX-1524,
 
-Žin., 2003, Nr. 42-1922 (2003-05-01)
+2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
 Nr. IX-2030,
 
@@ -2443,11 +2459,11 @@ Krašto apsaugos
 
 ministerijos ir visos krašto apsaugos sistemos veiklai vadovauja krašto
 
-apsaugos ministras. Jis atsako už gynybos politikos įgyvendinimą, krašto
+apsaugos ministras. Jis atsako už gynybos politikos įgyvendinimą, krašto apsaugos
 
-apsaugos sistemos plėtrą ir jos parengimą ginti valstybę. Ministro teises,
+sistemos plėtrą ir jos parengimą ginti valstybę. Ministro teises, pareigas,
 
-pareigas, funkcijas ir atsakomybę nustato įstatymai ir kiti teisės aktai.
+funkcijas ir atsakomybę nustato įstatymai ir kiti teisės aktai.
 
 Lietuvos
 
@@ -2465,9 +2481,9 @@ pareigūnas, kariniais klausimais atstovaujantis Lietuvos kariuomenei, yra
 
 kariuomenės vadas. Svarbiausias jo uždavinys taikos metu – tinkamai rengti
 
-kariuomenę ginkluotai valstybės gynybai, užtikrinant jos sąveiką su kitų NATO valstybių
+kariuomenę ginkluotai valstybės gynybai, užtikrinant jos sąveiką su kitų NATO
 
-ginkluotosiomis pajėgomis ir dalyvavimą tarptautinėse operacijose. Kariuomenės
+valstybių ginkluotosiomis pajėgomis ir dalyvavimą tarptautinėse operacijose. Kariuomenės
 
 vadas taikos metu yra tiesiogiai pavaldus krašto apsaugos ministrui ir vykdo
 
@@ -2523,11 +2539,13 @@ Respublikos Konstitucija, įstatymai ir kiti teisės aktai.
 
 Kariuomenę
 
-sudaro sausumos pajėgos (į kurias yra integruoti krašto apsaugos savanoriai)
+sudaro šios pajėgų rūšys: sausumos pajėgos, karinės oro pajėgos, karinės jūrų
 
-bei karinės oro ir karinės jūrų pajėgos, taip pat aktyvusis rezervas.
+pajėgos, specialiųjų operacijų pajėgos. Į sausumos pajėgas įeina krašto
 
-Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai bei
+apsaugos savanorių pajėgos, sudarančios kariuomenės aktyvųjį rezervą.
+
+Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai ir
 
 kiti teisės aktai.
 
@@ -2593,6 +2611,12 @@ XI-409,
 
 2009-07-23, Žin., 2009, Nr. 95-4034 (2009-08-08)
 
+Nr.
+
+XI-480, 2009-11-12,
+
+Žin., 2009, Nr. 141-6203 (2009-11-28)
+
 19 skyrius
 
 VIDAUS REIKALŲ MINISTERIJA, POLICIJA IR KITOS MINISTERIJOS VALDYMO
@@ -2625,11 +2649,11 @@ veiklos pagrindus nustato įstatymas.
 
 Valstybės finansų
 
-sistemos apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų tyrimo
+sistemos apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų
 
-tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus reglamentuoja
+tyrimo tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus
 
-įstatymas.
+reglamentuoja įstatymas.
 
 Lietuvos Respublikos vadovybės ir
 
@@ -2687,11 +2711,11 @@ Nr. IX-1457,
 
 Nr.
 
-IX-1524,
+IX-1524, 2003-04-22,
 
-2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01), atitaisymas skelbtas:
+Žin., 2003, Nr. 42-1922 (2003-05-01), atitaisymas skelbtas: Žin., 2003, Nr.
 
-Žin., 2003, Nr. 49
+49
 
 Nr. IX-2030,
 
@@ -2741,11 +2765,11 @@ saugumo departamentas teikia žvalgybos, kontržvalgybos ir kitą nacionaliniam
 
 saugumui reikšmingą informaciją, išvadas ir rekomendacijas Seimui, Respublikos
 
-Prezidentui, Vyriausybei, o prireikus ir kitoms valstybės institucijoms. Informaciją,
+Prezidentui, Vyriausybei, o prireikus ir kitoms valstybės institucijoms.
 
-kuri nėra valstybės paslaptis, Valstybės saugumo departamentas teikia ir
+Informaciją, kuri nėra valstybės paslaptis, Valstybės saugumo departamentas
 
-visuomenei.
+teikia ir visuomenei.
 
 Valstybės
 
@@ -2787,19 +2811,17 @@ Civilinės saugos ir
 
 gelbėjimo sistemos
 
-paskirtis – apsaugoti gyventojus nuo nelaimių karo ir taikos metu, jiems
+paskirtis – apsaugoti gyventojus nuo nelaimių karo ir taikos metu, jiems patiems
 
-patiems šioje veikloje aktyviai dalyvaujant. Ši sistema užtikrina visų
+šioje veikloje aktyviai dalyvaujant. Ši sistema užtikrina visų gelbėjimo
 
-gelbėjimo tarnybų parengtį ir prevencinius veiksmus, o ekstremalių situacijų,
+tarnybų parengtį ir prevencinius veiksmus, o ekstremalių situacijų, gaivalinių
 
-gaivalinių nelaimių, katastrofų ir ginkluoto
+nelaimių, katastrofų ir ginkluoto užpuolimo atvejais
 
-užpuolimo atvejais – krašto gyventojų perspėjimą ir informavimą, jų
+– krašto gyventojų perspėjimą ir informavimą, jų gyvybės ir turto apsaugą,
 
-gyvybės ir turto apsaugą, reikalingą neatidėliotiną pagalbą ir evakuaciją iš
-
-pavojingų rajonų.
+reikalingą neatidėliotiną pagalbą ir evakuaciją iš pavojingų rajonų.
 
 Civilinės saugos ir
 
@@ -2831,9 +2853,9 @@ pakeitimai:
 
 Nr.
 
-IX-1524, 2003-04-22,
+IX-1524,
 
-Žin., 2003, Nr. 42-1922 (2003-05-01)
+2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
 Nr. VIII-770,
 
@@ -2845,9 +2867,9 @@ IX-1524,
 
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
-Nr. IX-2030,
+Nr. IX-2030, 2004-02-19,
 
-2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 22 skyrius
 
@@ -2855,13 +2877,13 @@ SPECIALIŲJŲ
 
 TYRIMŲ TARNYBA
 
-Specialiųjų tyrimų tarnyba yra Respublikos
+Specialiųjų tyrimų tarnyba yra
 
-Prezidentui ir Seimui atskaitinga institucija, kuri atskleidžia ir tiria
+Respublikos Prezidentui ir Seimui atskaitinga institucija, kuri atskleidžia ir
 
-korupcinio pobūdžio nusikaltimus ir baudžiamuosius nusižengimus, rengia ir
+tiria korupcinio pobūdžio nusikaltimus ir baudžiamuosius nusižengimus, rengia
 
-įgyvendina korupcijos prevencijos priemones.
+ir įgyvendina korupcijos prevencijos priemones.
 
 Specialiųjų tyrimų tarnybos
 
@@ -2913,9 +2935,9 @@ Nr. IX-2030,
 
 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
-[24 skyriaus
+24 skyriaus
 
-redakcija iki 2010-01-01]
+redakcija iki 2010-01-01:
 
 24 skyrius
 
@@ -2935,9 +2957,9 @@ veikloje ir bendradarbiavimą su Krašto apsaugos ministerija reglamentuoja
 
 atsakingą pareigūną.
 
-[24 skyriaus
+24 skyriaus
 
-redakcija nuo 2010-01-01]
+redakcija nuo 2010-01-01:
 
 24 skyrius
 
@@ -2977,15 +2999,19 @@ SAUGUMO SISTEMOS PLĖTRA
 
 Lietuvos nacionalinio saugumo
 
-sistema plėtojama nuosekliai, remiantis šio įstatymo bei Nacionalinio saugumo strategijos
+sistema plėtojama nuosekliai, remiantis šio įstatymo bei Nacionalinio saugumo
 
-nustatytais pagrindais. Nacionalinio saugumo sistemos pagrindais vadovaujamasi
+strategijos nustatytais pagrindais. Nacionalinio saugumo sistemos pagrindais
 
-ir jie išplėtojami įstatymuose ir kituose teisės aktuose pertvarkant ir
+vadovaujamasi ir jie išplėtojami įstatymuose ir kituose teisės aktuose
 
-plėtojant valstybės nacionalinio saugumo institucijas ir tobulinant jų veiklą.
+pertvarkant ir plėtojant valstybės nacionalinio saugumo institucijas ir
 
-Skyriaus pakeitimai:
+tobulinant jų veiklą.
+
+Skyriaus
+
+pakeitimai:
 
 Nr.
 
@@ -3023,11 +3049,9 @@ Nr. VIII-1026,
 
 1999 01 14, Žin., 1999, Nr. 11-245 (1999 01 27)
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS
 
-RESPUBLIKOS NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO PAPILDYMO
-
-ĮSTATYMAS
+NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO PAPILDYMO ĮSTATYMAS
 
 3.
 
@@ -3243,9 +3267,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-XI-409, 2009-07-23,
+XI-409,
 
-Žin., 2009, Nr. 95-4034 (2009-08-08)
+2009-07-23, Žin., 2009, Nr. 95-4034 (2009-08-08)
 
 NACIONALINIO SAUGUMO PAGRINDŲ
 
@@ -3255,15 +3279,31 @@ NACIONALINIO SAUGUMO PAGRINDŲ
 
 įstatymo 1 ir 3 straipsniai įsigalioja 2010 m. sausio 1 d.
 
+17.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-480,
+
+2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
+
+NACIONALINIO
+
+SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 14 IR 18 SKYRIŲ PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušra Bodin (2009-08-10)
+Aušrinė Trapinskienė (2009-11-30)
 
-aubodi@lrs.lt
+autrap@lrs.lt
 
 – Konstitucijos 135 straipsnis, įpareigojantis Lietuvos Respubliką
 
