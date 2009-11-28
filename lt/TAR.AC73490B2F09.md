@@ -4,7 +4,7 @@ identifier: "TAR.AC73490B2F09"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-26"
-last_updated: "2009-06-30"
+last_updated: "2009-11-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AC73490B2F09"
 department: "Lietuvos Respublikos Seimas"
@@ -283,9 +283,15 @@ asmenų, asmenų, apsidraudusių valstybiniu savanoriškuoju socialiniu draudimu
 
 (toliau – savanoriškasis socialinis draudimas), valstybės biudžeto už valstybės
 
-lėšomis draudžiamus asmenis įmokos, taip pat asignavimai iš valstybės biudžeto
+lėšomis draudžiamus asmenis įmokos, asignavimai iš valstybės biudžeto ir (ar)
 
-ir (ar) kitų valstybės piniginių išteklių.
+kitų valstybės piniginių išteklių, taip pat lėšos už Europos Sąjungos
+
+institucijų pensijų sistemoje asmens įgytas pensines teises, pervedamos į Fondo
+
+biudžetą pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir
+
+Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą.
 
 2. Į Fondo
 
@@ -333,9 +339,13 @@ valstybės biudžeto ir (ar) kitų šaltinių už Fondo administravimo įstaigom
 
 pavestų funkcijų vykdymą;
 
-5) kitos
+5) kitos pajamos.
 
-pajamos.
+Straipsnio pakeitimas:
+
+Nr. XI-475,
+
+2009-11-12, Žin., 2009, Nr. 141-6198 (2009-11-28)
 
 4
 
@@ -367,9 +377,9 @@ deklaruotų pajamų ir šių asmenų skaičiaus kitimą per paskutinius dvejus m
 
 kitiems biudžetiniams metams numatomus valstybinės socialinio draudimo
 
-pagrindinės pensijos dalies (toliau – bazinė pensija) ir minimaliosios
+pagrindinės pensijos dalies (toliau – bazinė pensija) ir minimaliosios mėnesinės
 
-mėnesinės algos (toliau – MMA) dydžius;
+algos (toliau – MMA) dydžius;
 
 3)
 
@@ -397,11 +407,11 @@ biudžeto pajamos iš valstybės biudžeto ir (ar) kitų valstybės piniginių
 
 išteklių, skirtos padengti šio biudžeto išlaidoms dėl pensijų socialinio
 
-draudimo įmokų dalies pervedimo pensijų kaupimo bendrovėms, planuojamos atsižvelgiant
+draudimo įmokų dalies pervedimo pensijų kaupimo bendrovėms, planuojamos
 
-į šio straipsnio 1 dalies 1 punkte ir 6 straipsnio 1 dalies 2 punkte numatytus
+atsižvelgiant į šio straipsnio 1 dalies 1 punkte ir 6 straipsnio 1 dalies 2
 
-rodiklius.
+punkte numatytus rodiklius.
 
 3. Kitos Fondo
 
@@ -591,17 +601,17 @@ paskutinius dvejus metus;
 
 2) lėšos,
 
-pervedamos į pensijų fondus, – atsižvelgiant į šalies ūkio plėtros
+pervedamos į pensijų fondus, – atsižvelgiant į šalies ūkio plėtros makroekonomines
 
-makroekonomines prognozes, kitiems biudžetiniams metams patvirtintą pensijų
+prognozes, kitiems biudžetiniams metams patvirtintą pensijų socialinio draudimo
 
-socialinio draudimo įmokų tarifą pensijų kaupimui, draudžiamųjų pajamų bazės,
+įmokų tarifą pensijų kaupimui, draudžiamųjų pajamų bazės, savarankiškai
 
-savarankiškai dirbančių asmenų socialiniam draudimui deklaruotų pajamų sumų ir
+dirbančių asmenų socialiniam draudimui deklaruotų pajamų sumų ir asmenų,
 
-asmenų, sudariusių pensijų kaupimo sutartis, skaičiaus kitimą per paskutinius
+sudariusių pensijų kaupimo sutartis, skaičiaus kitimą per paskutinius dvejus
 
-dvejus metus, naujai sudarytų pensijų kaupimo sutarčių, įsigaliojančių kitais
+metus, naujai sudarytų pensijų kaupimo sutarčių, įsigaliojančių kitais
 
 biudžetiniais metais, skaičių;
 
@@ -617,11 +627,11 @@ paskutinius dvejus metus;
 
 sąnaudos – atsižvelgiant į Fondo administravimo įstaigų valstybės tarnautojų ir
 
-darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo
+darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo administravimo
 
-administravimo įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius
+įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius dvejus metus
 
-dvejus metus tendencijas.
+tendencijas.
 
 2.
 
@@ -643,9 +653,9 @@ straipsnis. Fondo biudžeto piniginės įplaukos ir išlaidos
 
 biudžeto piniginių įplaukų ir išlaidų straipsnyje parodomos šio biudžeto
 
-faktiškai gautos pinigų įplaukos ir faktinės išlaidos atitinkamais biudžetiniais
+faktiškai gautos pinigų įplaukos ir faktinės išlaidos atitinkamais
 
-metais.
+biudžetiniais metais.
 
 2. Fondo
 
@@ -803,9 +813,9 @@ metų pabaigos pateikia jį Seimui. Kartu su Fondo biudžeto rodiklių patvirtin
 
 dvejų biudžetinių metų numatomų Fondo rodiklių prognozė, Fondo tarybos išvada,
 
-draudėjų ir apdraustųjų įmokų tarifų atskiroms socialinio draudimo rūšims dydžių
+draudėjų ir apdraustųjų įmokų tarifų atskiroms socialinio draudimo rūšims
 
-pagrindimas ir kiti būtini dokumentai.
+dydžių pagrindimas ir kiti būtini dokumentai.
 
 10
 
@@ -1129,11 +1139,27 @@ SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-475,
+
+2009-11-12, Žin., 2009, Nr. 141-6198 (2009-11-28)
+
+VALSTYBINIO
+
+SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2009-07-10)
+(2009-12-02)
 
 autrap@lrs.lt
 
