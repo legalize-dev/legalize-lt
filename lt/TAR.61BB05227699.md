@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "2008-11-29"
+last_updated: "2009-12-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -718,7 +718,17 @@ biudžeto, Valstybinio socialinio draudimo fondo biudžeto ir Privalomojo
 
 sveikatos draudimo fondo biudžeto vykdymo valstybinį auditą.
 
-4. Seimas nutarimu gali pavesti Valstybės kontrolei
+4. Valstybės kontrolė gali atlikti Lietuvos banko
+
+įstatyme nustatytos vykdomos veiklos auditą tiek, kiek tai neprieštarauja
+
+Europos Sąjungos teisės aktams ir juose įtvirtintiems Europos centrinių bankų
+
+sistemos tikslams ir uždaviniams, ir jeigu tai nepažeidžia Europos centrinių
+
+bankų sistemos konfidencialumo ir nepriklausomumo režimo.
+
+5. Seimas nutarimu gali pavesti Valstybės kontrolei
 
 atlikti valstybinį auditą pagal jos kompetenciją.
 
@@ -735,6 +745,10 @@ IX-1851,
 Nr. X-468, 2005-12-22,
 
 Žin., 2006, Nr. 4-101 (2006-01-12)
+
+Nr. XI-497, 2009-11-19, Žin.,
+
+2009, Nr. 144-6349 (2009-12-05)
 
 15 straipsnis. Audituojamo
 
@@ -780,13 +794,13 @@ audito išvada.
 
 2. Darbo dokumentai
 
-yra Valstybės kontrolės nuosavybė ir negali būti perduodami tretiesiems asmenims
+yra Valstybės kontrolės nuosavybė ir negali būti perduodami tretiesiems
 
-be Valstybės kontrolės sutikimo, išskyrus atvejus, kai įstatymų nustatyta
+asmenims be Valstybės kontrolės sutikimo, išskyrus atvejus, kai įstatymų
 
-tvarka teismas reikalauja pateikti rašytinius įrodymus; įstatymų nustatyta
+nustatyta tvarka teismas reikalauja pateikti rašytinius įrodymus; įstatymų
 
-tvarka teisėsaugos institucijos paima valstybinio audito dokumentus.
+nustatyta tvarka teisėsaugos institucijos paima valstybinio audito dokumentus.
 
 3. Valstybinio audito dokumentai saugomi Archyvų
 
@@ -826,7 +840,11 @@ Nr. X-468, 2005-12-22,
 
 18
 
-straipsnis. Valstybės kontrolieriaus ir jo pavaduotojų teisės priimant sprendimus pagal valstybinio audito ataskaitas
+straipsnis. Valstybės kontrolieriaus ir jo pavaduotojų teisės priimant
+
+sprendimus pagal valstybinio
+
+audito ataskaitas
 
 Valstybės kontrolierius ar jo
 
@@ -838,19 +856,19 @@ nurodyti audituotų subjektų vadovams reikšmingus teisės aktų pažeidimus ir
 
 įpareigoti juos pašalinti;
 
-2) įpareigoti
+2)
 
-audituotų subjektų vadovus ar aukštesniųjų institucijų vadovus įstatymų
+įpareigoti audituotų subjektų vadovus ar aukštesniųjų institucijų
 
-nustatyta tvarka išieškoti valstybei, savivaldybei ar kitam juridiniam asmeniui
+vadovus įstatymų nustatyta tvarka išieškoti valstybei, savivaldybei ar kitam
 
-padarytą žalą;
+juridiniam asmeniui padarytą žalą;
 
 3)
 
-įpareigoti audituotų subjektų vadovus ar aukštesniųjų institucijų vadovus įstatymų
+įpareigoti audituotų subjektų vadovus ar aukštesniųjų institucijų vadovus
 
-nustatyta tvarka traukti asmenis tarnybos ar drausminėn atsakomybėn;
+įstatymų nustatyta tvarka traukti asmenis tarnybos ar drausminėn atsakomybėn;
 
 4)
 
@@ -1714,7 +1732,7 @@ RESPUBLIKOS
 
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
 
-________________
+_______________
 
 Pakeitimai:
 
@@ -1972,13 +1990,25 @@ VALSTYBĖS KONTROLĖS ĮSTATYMO 2 IR
 
 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-***
+15.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas,
 
-Redagavo
+Įstatymas
 
-Aušrinė Trapinskienė (2008-12-02)
+Nr. XI-497, 2009-11-19, Žin.,
+
+2009, Nr. 144-6349 (2009-12-05)
+
+VALSTYBĖS
+
+KONTROLĖS ĮSTATYMO 14 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2009-12-07)
 
 autrap@lrs.lt
 
