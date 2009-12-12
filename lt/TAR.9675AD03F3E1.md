@@ -4,7 +4,7 @@ identifier: "TAR.9675AD03F3E1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-17"
-last_updated: "2009-04-04"
+last_updated: "2009-12-12"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9675AD03F3E1"
 department: "Lietuvos Respublikos Seimas"
@@ -31,7 +31,7 @@ Vilnius
 
 Nauja įstatymo redakcija (galioja
 
-iki 2010 m. sausio 1 d.):
+iki 2010 m. liepos 1 d.):
 
 Nr.
 
@@ -2475,7 +2475,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 ADAMKUS
 
-________________
+______________
 
 Pakeitimai:
 
@@ -2527,15 +2527,15 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 nustatyti gyvenimo bendrai su sutuoktiniu, kuris yra Lietuvos Respublikos
 
-pilietis, Lietuvos Respublikos teritorijoje terminai netaikomi asmenims, sudariusiems
+pilietis, Lietuvos Respublikos teritorijoje terminai netaikomi asmenims,
 
-santuoką su Lietuvos Respublikos piliečiais iki šio įstatymo 3 straipsnio
+sudariusiems santuoką su Lietuvos Respublikos piliečiais iki šio įstatymo 3
 
-įsigaliojimo. Šiems asmenims yra taikomi 2002 m. rugsėjo 17 d. priimto Lietuvos
+straipsnio įsigaliojimo. Šiems asmenims yra taikomi 2002 m. rugsėjo 17 d.
 
-Respublikos pilietybės įstatymo 14 straipsnyje nustatyti gyvenimo Lietuvos
+priimto Lietuvos Respublikos pilietybės įstatymo 14 straipsnyje nustatyti
 
-Respublikos teritorijoje terminai.
+gyvenimo Lietuvos Respublikos teritorijoje terminai.
 
 Šis įstatymas, išskyrus šio straipsnio 1 dalyje
 
@@ -2591,9 +2591,23 @@ PILIETYBĖS
 
 Nauja įstatymo redakcija
 
-Šis įstatymas galioja iki 2010 m. sausio
+Šis įstatymas galioja iki 2010 m. liepos
 
 1 d.
+
+Įstatymo galiojimas pakeistas:
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-508,
+
+2009-12-01, Žin., 2009, Nr. 147-6551 (2009-12-12)
+
+PILIETYBĖS
+
+ĮSTATYMO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 6.
 
@@ -2635,7 +2649,7 @@ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 Redagavo Aušrinė Trapinskienė
 
-(2009-04-06)
+(2009-12-14)
 
 autrap@lrs.lt
 
