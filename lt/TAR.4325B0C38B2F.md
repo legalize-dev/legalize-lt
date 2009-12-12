@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2009-08-04"
+last_updated: "2009-12-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -35,9 +35,7 @@ DRAUDIMO
 
 Vilnius
 
-Nauja įstatymo redakcija nuo 2004 m. sausio 1 d. (29
-
-straipsnis įsigalioja nuo 2006 m. sausio 1 d.):
+Nauja įstatymo redakcija nuo 2004 m. sausio 1 d.:
 
 Nr.
 
@@ -193,9 +191,11 @@ uždarbio, taikomo vienkartinei kompensacijai apskaičiuoti.
 
 nukentėjusiajam nustatytas neterminuotas darbingumo netekimas, nurodytas šio
 
-straipsnio 1 ir 2 dalyse, tai netekto darbingumo vienkartinė kompensacija išmokama
+straipsnio 1 ir 2 dalyse, tai netekto darbingumo vienkartinė kompensacija
 
-trigubai didesnė, negu nurodyta atitinkamai šio straipsnio 1 ar 2 dalyje.
+išmokama trigubai didesnė, negu nurodyta atitinkamai šio straipsnio 1 ar 2
+
+dalyje.
 
 4. Mėnesio
 
@@ -333,35 +333,31 @@ su darbu, išskyrus atvejus, kai nelaimingas atsitikimas įvyksta pakeliui į
 
 darbą ar iš darbo.
 
-*Pastaba. Pripažinti, kad Lietuvos Respublikos
+*Pastaba. Pripažinti, kad Lietuvos
 
-nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 7
+Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo
 
-straipsnio 2 dalies (2005 m. gegužės 19 d. redakcija; Žin., 2005, Nr. 71‑2557)
+įstatymo 7 straipsnio 2 dalies (2005 m. gegužės 19 d. redakcija; Žin., 2005, Nr. 71‑2557) nuostata „Draudiminiais įvykiais taip pat
 
-nuostata „Draudiminiais įvykiais taip pat nepripažįstami nelaimingi
+nepripažįstami nelaimingi atsitikimai darbe <...> arba nustatytos ūmios
 
-atsitikimai darbe <...> arba nustatytos ūmios profesinės ligos, kuriuos
+profesinės ligos, kuriuos ištyrus nustatoma, kad <...> jie įvykę esant
 
-ištyrus nustatoma, kad <...> jie įvykę esant bent vienai iš šių
+bent vienai iš šių aplinkybių: 1) apdraustasis buvo neblaivus ar apsvaigęs nuo
 
-aplinkybių: 1) apdraustasis buvo neblaivus ar apsvaigęs nuo narkotinių,
+narkotinių, toksinių ar psichotropinių medžiagų ir tai nebuvo susiję su jam
 
-toksinių ar psichotropinių medžiagų ir tai nebuvo susiję su jam draudėjo pavesto
+draudėjo pavesto darbo technologijos ypatybėmis“ (2003 m. lapkričio 11 d. redakcija; Žin., 2003, Nr. 114‑5114) ta apimtimi, kuria draudiminiais
 
-darbo technologijos ypatybėmis“ (2003 m. lapkričio 11 d. redakcija; Žin., 2003,
+įvykiais nepripažįstami nelaimingi atsitikimai darbe arba nustatytos ūmios
 
-Nr. 114‑5114) ta apimtimi, kuria draudiminiais įvykiais nepripažįstami
+profesinės ligos, kuriuos ištyrus nustatoma, kad jie yra įvykę apdraustajam
 
-nelaimingi atsitikimai darbe arba nustatytos ūmios profesinės ligos, kuriuos
+esant neblaiviam arba apsvaigusiam nuo narkotinių, toksinių ar psichotropinių
 
-ištyrus nustatoma, kad jie yra įvykę apdraustajam esant neblaiviam arba
+medžiagų, bet nelaimingus atsitikimus darbe arba ūmias profesines ligas lėmė ne
 
-apsvaigusiam nuo narkotinių, toksinių ar psichotropinių medžiagų, bet
-
-nelaimingus atsitikimus darbe arba ūmias profesines ligas lėmė ne jo
-
-neblaivumas arba apsvaigimas nuo narkotinių, toksinių ar psichotropinių
+jo neblaivumas arba apsvaigimas nuo narkotinių, toksinių ar psichotropinių
 
 medžiagų, o netinkamos, nesaugios, nesveikos darbo sąlygos, prieštarauja
 
@@ -499,9 +495,9 @@ nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės li
 
 pašalpa (toliau – ligos pašalpa);
 
-2) netekto darbingumo
+2) netekto
 
-vienkartinė kompensacija;
+darbingumo vienkartinė kompensacija;
 
 3) netekto
 
@@ -609,9 +605,9 @@ atsitikimų darbe socialinio draudimo įmokas.
 
 4. Darbingumo
 
-netekimo koeficientas (d) – vieneto dalimis išreikštas dydis, apskaičiuojamas
+netekimo koeficientas (d) – vieneto dalimis išreikštas dydis,
 
-netekto darbingumo procentą dalijant iš 100.
+apskaičiuojamas netekto darbingumo procentą dalijant iš 100.
 
 5. Darbo
 
@@ -641,9 +637,9 @@ Kompensavimo koeficientas (k) lėtinės profesinės ligos atveju yra
 
 apskaičiuojamas pagal formulę k = (K1·S1 + K2·S2)/(S1+S2). Čia:
 
-1) K1 ir K2 – asmens draudžiamųjų pajamų koeficientai,
+1) K1 ir K2 – asmens draudžiamųjų pajamų koeficientai, taikomi
 
-taikomi atitinkamai už laikotarpį iki 1994 metų ir nuo 1994 metų, apskaičiuoti
+atitinkamai už laikotarpį iki 1994 metų ir nuo 1994 metų, apskaičiuoti
 
 Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka;
 
@@ -819,9 +815,9 @@ nustatytos profesinės ligos, kuriuos ištyrus nustatoma, kad jie įvyko esant
 
 visoms šioms sąlygoms:
 
-1) dirbant
+1) dirbant draudėjo
 
-draudėjo nustatytu darbo laiku, o jeigu darbuotojui darbo laikas draudėjo nėra
+nustatytu darbo laiku, o jeigu darbuotojui darbo laikas draudėjo nėra
 
 nustatytas, tai draudėjo nustatytu darbo laiku, taip pat atskiru draudėjo
 
@@ -953,9 +949,9 @@ pakeitimai:
 
 Nr.
 
-X-475,
+X-475, 2005-12-23,
 
-2005-12-23, Žin., 2005, Nr. 153-5642 (2005-12-31)
+Žin., 2005, Nr. 153-5642 (2005-12-31)
 
 8 straipsnis. Draudėjų pareigos ir atsakomybė
 
@@ -1009,11 +1005,11 @@ valstybės biudžeto lėšomis.
 
 nelaimingą atsitikimą darbe, pakeliui į darbą ar iš darbo arba profesinį
 
-susirgimą jis nepripažįs­tamas draudiminiu įvykiu, sužalotam ar susirgusiam
+susirgimą jis nepripažįs­tamas draudiminiu įvykiu, sužalotam ar susirgusiam profesine
 
-profesine liga asmeniui ir (ar) jo šeimos nariams žala atlyginama Civilinio
+liga asmeniui ir (ar) jo šeimos nariams žala atlyginama Civilinio kodekso
 
-kodekso nustatyta tvarka.
+nustatyta tvarka.
 
 3. Už šio
 
@@ -1105,11 +1101,37 @@ pagal apdraustojo asmens draudžiamąsias pajamas, turėtas užpraeitą kalendor
 
 ketvirtį, buvusį prieš laikinojo nedarbingumo nustatymo mėnesį.
 
+Pastaba. 1
+
+dalies nuostatos taikomos iki 2010 m. liepos 1 d. skiriamoms ligos dėl
+
+nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos
+
+pašalpoms.
+
+1.
+
+Kompensuojamasis uždarbis ligos pašalpoms apskaičiuojamas Nelaimingų atsitikimų
+
+darbe ir profesinių ligų socialinio draudimo išmokų nuostatų nustatyta tvarka
+
+pagal apdraustojo asmens draudžiamąsias pajamas, turėtas 3 paskutinius
+
+kalendorinius mėnesius, buvusius prieš laikinojo nedarbingumo nustatymo mėnesį.
+
+Pastaba. 1
+
+dalies nuostatos taikomos nuo 2010 m. liepos 1 d. naujai skiriamoms ligos dėl
+
+nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos
+
+pašalpoms.
+
 2. Mėnesio
 
-kompensuojamasis uždarbis ligos pašalpoms apskaičiuoti negali viršyti Vyriausybės
+kompensuojamasis uždarbis ligos pašalpoms apskaičiuoti negali viršyti
 
-patvirtintų einamųjų metų draudžiamųjų pajamų, galiojusių laikinojo
+Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų, galiojusių laikinojo
 
 nedarbingumo nustatymo mėnesį, penkių dydžių sumos.
 
@@ -1130,6 +1152,10 @@ Nr.
 X-668,
 
 2006-06-08, Žin., 2006, Nr. 72-2684 (2006-06-28)
+
+Nr. XI-504,
+
+2009-11-26, Žin., 2009, Nr. 147-6548 (2009-12-12)
 
 14
 
@@ -1525,7 +1551,7 @@ X-1840,
 
 2008-11-14, Žin., 2008, Nr. 137-5384 (2008-11-29)
 
-*29 straipsnio redakcija iki 2011 m.
+29 straipsnio redakcija iki 2011 m.
 
 sausio 1 d.:
 
@@ -1605,7 +1631,7 @@ institucijos patvirtinta metodika, tvirtina Valstybinio socialinio draudimo
 
 fondo taryba.
 
-*29 straipsnio redakcija nuo 2011 m.
+29 straipsnio redakcija nuo 2011 m.
 
 sausio 1 d.:
 
@@ -1619,11 +1645,15 @@ Nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų dydis priklaus
 
 nuo draudėjo darbuotojų saugos ir sveikatos būklės:
 
-**1)
+1)
 
 darbo priemonių, darbo sąlygų neatitikties darbuotojų saugos ir sveikatos
 
 teisės aktų nustatytiems reikalavimams;
+
+Pastaba: 1 dalies 1 punkto
+
+nuostatos pradedamos taikyti 2012 m. sausio 1 d.
 
 2)
 
@@ -1663,9 +1693,9 @@ socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registr
 
 duomenys.
 
-3. Šalies
+3. Šalies bendrasis
 
-bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio draudimo
+nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio draudimo
 
 įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kasmet
 
@@ -1683,9 +1713,9 @@ rodiklių dydžius ir priskiria draudėjus nelaimingų atsitikimų darbe sociali
 
 draudimo įmokos tarifų grupėms. Draudėjų priskyrimą nelaimingų atsitikimų darbe
 
-socialinio draudimo įmokos tarifų grupėms tvirtina Valstybinio socialinio
+socialinio draudimo įmokos tarifų grupėms tvirtina Valstybinio socialinio draudimo
 
-draudimo fondo taryba.
+fondo taryba.
 
 Straipsnio pakeitimai:
 
@@ -1699,17 +1729,11 @@ X-1840,
 
 2008-11-14, Žin., 2008, Nr. 137-5384 (2008-11-29)
 
-Nr. XI-401,
+Nr.
+
+XI-401,
 
 2009-07-23, Žin., 2009, Nr. 93-3990 (2009-08-04)
-
-*Pastaba: 29 straipsnio pakeitimas
-
-įsigalioja 2011-01-01.
-
-**Pastaba: įstatymo 29 straipsnio 1 dalies
-
-1 punkto nuostatos pradedamos taikyti 2012-01-01.
 
 30 straipsnis. Valstybinio socialinio draudimo
 
@@ -2143,9 +2167,7 @@ Nr. IX-1133,
 
 NELAIMINGŲ ATSITIKIMŲ DARBE IR
 
-PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 33 IR 36 STRAIPSNIŲ PAKEITIMO
-
-ĮSTATYMAS
+PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 33 IR 36 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 6.
 
@@ -2187,9 +2209,9 @@ PAKEITIMO ĮSTATYMAS
 
 Šis Įstatymas įsigalioja kartu su
 
-Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
 
-Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
 
 2003 m. gegužės 1 d.
 
