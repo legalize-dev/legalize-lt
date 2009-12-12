@@ -4,7 +4,7 @@ identifier: "TAR.1B4D7B687895"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-01"
-last_updated: "2009-04-04"
+last_updated: "2009-12-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895"
 department: "Lietuvos Respublikos Seimas"
@@ -4816,9 +4816,9 @@ metų pelnas skirstomas šia eilės tvarka:
 
 finansinių metų nepadengtiems nuostoliams dengti;
 
-2)
+2) į
 
-į valstybės biudžetą įmokama Lietuvos banko pelno įmoka, lygi 50 procentų
+valstybės biudžetą įmokama Lietuvos banko pelno įmoka, lygi 70 procentų
 
 Lietuvos banko finansinių metų pelno ar jo dalies, likusios po pelno dalies
 
@@ -4845,6 +4845,10 @@ IX-1352,
 Nr. IX-1998,
 
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
+
+Nr. XI-510,
+
+2009-12-02, Žin., 2009, Nr. 147-6553 (2009-12-12)
 
 24
 
@@ -6948,9 +6952,21 @@ LIETUVOS BANKO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO
 
 ĮSTATYMAS
 
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-510,
+
+2009-12-02, Žin., 2009, Nr. 147-6553 (2009-12-12)
+
+LIETUVOS BANKO ĮSTATYMO 23 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė (2009-04-06)
+Redagavo Aušrinė Trapinskienė (2009-12-14)
 
 autrap@lrs.lt
 
