@@ -4,7 +4,7 @@ identifier: "TAR.F960F4CF3005"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2009-03-24"
+last_updated: "2009-12-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 department: "Lietuvos Respublikos Seimas"
@@ -199,19 +199,27 @@ savivaldybės biudžetą perveda:
 
 1) savivaldybės biudžetui priskirtas mokestines pajamas;
 
-2) šio Įstatymo priedėlyje nurodytą gyventojų pajamų mokesčio dalį
+2) šio Įstatymo priedėlyje nurodytą
 
-(procentais), iš apskaičiuotos gyventojų pajamų mokesčio sumos atskaitęs atitinkamų
+gyventojų pajamų mokesčio dalį (procentais), iš apskaičiuotos gyventojų pajamų
+
+mokesčio sumos atskaitęs pajamas už išduotus verslo liudijimus ir atitinkamų
 
 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 
 patvirtinimo įstatymu patvirtintas šio mokesčio į Privalomojo sveikatos
 
-draudimo fondo biudžetą ir į valstybės biudžetą dalis (procentais). Likusi
+draudimo fondo biudžetą ir į valstybės biudžetą dalis (procentais), jeigu ji
 
-gyventojų pajamų mokesčio dalis pervedama į Valstybės
+(jos) numatoma (numatomos). Likusi gyventojų pajamų mokesčio dalis pervedama į
 
-iždo sąskaitą;]
+Valstybės iždo sąskaitą;
+
+Pastaba.
+
+2 punkto nuostatos taikomos rengiant 2010 metų valstybės biudžeto ir
+
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
 
 3) nemokestines
 
@@ -226,6 +234,12 @@ pakeitimai:
 Nr. IX-1235,
 
 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
+
+Nr.
+
+XI-509,
+
+2009-12-02, Žin., 2009, Nr. 147-6552 (2009-12-12)
 
 4
 
@@ -893,9 +907,9 @@ XI-117,
 
 2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
 
-6 straipsnis. Lėšų, skiriamų
+6 straipsnis. Lėšų, skiriamų savivaldybių
 
-savivaldybių gyventojų pajamų mokesčiui ir
+gyventojų pajamų mokesčiui ir
 
 išlaidų
 
@@ -907,9 +921,11 @@ Lėšas (L),
 
 skiriamas savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų
 
-skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai,
+skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs
 
-išlyginti, sudaro likusi apskaičiuota atskirų savivaldybių gyventojų pajamų
+veiksniai, išlyginti, sudaro likusi apskaičiuota atskirų savivaldybių gyventojų
+
+pajamų
 
 mokesčio dalis Pi (procentais), kurią Valstybinės mokesčių inspekcijos prie
 
@@ -935,11 +951,11 @@ paskirstymas
 
 1. Iš lėšų (L), skiriamų savivaldybių gyventojų pajamų
 
-mokesčiui ir išlaidų struktūrų skirtumams išlyginti, dalies savivaldybių
+mokesčiui ir išlaidų struktūrų skirtumams išlyginti, dalies savivaldybių gyventojų
 
-gyventojų pajamų mokesčiui išlyginti (L1) remiamos tos savivaldybės,
+pajamų mokesčiui išlyginti (L1) remiamos tos savivaldybės, kurių
 
-kurių faktinės praėjusio mėnesio pajamos iš gyventojų pajamų mokesčio vienam
+faktinės praėjusio mėnesio pajamos iš gyventojų pajamų mokesčio vienam
 
 savivaldybės gyventojui yra mažesnės už faktines praėjusio mėnesio visų
 
@@ -1051,9 +1067,9 @@ nustatymas ir paskirstymas savivaldybėms
 
 Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo
 
-savivaldybių veiklos nepriklausantys veiksniai, išlyginti, dydis
+savivaldybių veiklos nepriklausantys veiksniai, išlyginti, dydis apskaičiuojamas
 
-apskaičiuojamas pagal formulę
+pagal formulę
 
 L2 = L – L1.
 
@@ -1077,7 +1093,9 @@ formulę , čia:
 
 1) L2i –
 
-i-ajai savivaldybei skiriama lėšų dalis išlaidų struktūrų skirtumams išlyginti;
+i-ajai savivaldybei skiriama lėšų dalis išlaidų struktūrų skirtumams
+
+išlyginti;
 
 2) Kn
 
@@ -1125,9 +1143,9 @@ dalis, apskaičiuojama pagal formulę , čia Rni
 
 – i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant Eni,
 
-imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio dalis,
+imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio
 
-patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.]
+dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.]
 
 Straipsnio
 
@@ -1219,16 +1237,6 @@ buvo paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių
 
 duomenų bazėse.
 
-*Pastaba.
-
-1 dalies 8 ir 9 punktuose nurodyti rodikliai R8 ir R9 ir
-
-koeficientai K8 ir K9 pradedami taikyti rengiant Lietuvos
-
-Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių
-
-rodiklių patvirtinimo įstatymo projektą.
-
 Straipsnio
 
 pakeitimai:
@@ -1287,21 +1295,31 @@ valstybės investicijų programoje numatytiems projektams ir savarankiškajai
 
 vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo organizavimo savivaldybių
 
-funkcijai finansuoti, Finansų ministerija perveda kas ketvirtį lygiomis
+funkcijai finansuoti, Finansų ministerija perveda kas ketvirtį lygiomis dalimis,
 
-dalimis. Speciali tikslinė dotacija valstybės investicijų programoje
+jei atitinkamų metų
 
-numatytiems projektams finansuoti pervedama atsižvelgiant į faktiškai atliktus
+valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
 
-darbus, nurodytus Finansų ministerijai savivaldybių teikiamose paraiškose, o
+įstatymas nenustato kitaip. Speciali tikslinė dotacija valstybės
 
-speciali tikslinė dotacija savarankiškajai
+investicijų programoje numatytiems projektams finansuoti pervedama atsižvelgiant
+
+į faktiškai atliktus darbus, nurodytus Finansų ministerijai savivaldybių
+
+teikiamose paraiškose, o speciali tikslinė dotacija savarankiškajai
 
 vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo organizavimo savivaldybių
 
 funkcijai finansuoti pervedama atsižvelgiant į lėšų poreikį švietimo įstaigų
 
 darbuotojams – pedagogams darbo užmokesčiui už kasmetines atostogas mokėti.
+
+Pastaba.
+
+2 dalies nuostatos taikomos rengiant 2010 metų valstybės biudžeto ir
+
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
 
 3. Faktiškai gautas į Valstybės iždo sąskaitą lėšas,
 
@@ -1325,11 +1343,11 @@ valstybinę žemę laisvosios ekonominės zonos teritorijoje, panaudoto šioje
 
 teritorijoje esančiai žemei išpirkti iš žemės savininkų, kompensuojami.
 
-Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto
+Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto bendrosios
 
-bendrosios dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir
+dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir išlaidų
 
-išlaidų pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o
+pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o
 
 ateinančiais biudžetiniais metais koreguojama gyventojų pajamų mokesčio dalis,
 
@@ -1393,6 +1411,12 @@ XI-117,
 
 2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
 
+Nr.
+
+XI-509,
+
+2009-12-02, Žin., 2009, Nr. 147-6552 (2009-12-12)
+
 11
 
 straipsnis. Finansinių rodiklių derinimas
@@ -1445,6 +1469,48 @@ ketvirčio iki gruodžio 31 dienos įskaitytinai valstybės biudžetui kas ketvi
 
 lygiomis dalimis grąžinamos iš savivaldybių biudžetų.
 
+3. 2010 ir 2011 biudžetiniais
+
+metais valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
+
+patvirtinimo įstatymų projektuose numatomos reikiamo dydžio valstybės biudžeto
+
+bendrosios dotacijos kompensacijos, skirtos savivaldybėms kompensuoti 2010 ir
+
+2011 biudžetiniais metais prognozuojamų palyginamaisiais dydžiais ir sąlygomis
+
+pajamų (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų)
+
+mažėjimą, palyginti su 85 procentų 2009 biudžetiniais metais apskaičiuotų
+
+pajamų dalimi.
+
+4. 2010 ir 2011
+
+biudžetiniais metais valstybės biudžeto ir savivaldybių biudžetų
+
+finansinių rodiklių patvirtinimo įstatymų projektuose valstybės biudžetui
+
+numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos
+
+iš tų savivaldybių, kurių 2010 ir 2011 metams prognozuojamos palyginamaisiais
+
+dydžiais ir sąlygomis pajamos (be specialių tikslinių dotacijų ir pajamų iš
+
+vietinių rinkliavų) didėja, palyginti su 2009 biudžetiniais metais
+
+apskaičiuotomis pajamomis. Šios kompensacijos nuo biudžetinių metų antrojo
+
+ketvirčio iki gruodžio 31 dienos (įskaitytinai) valstybės biudžetui kas
+
+ketvirtį lygiomis dalimis grąžinamos iš savivaldybių biudžetų.
+
+Pastaba.
+
+3 ir 4 dalių nuostatos taikomos rengiant 2010 metų valstybės biudžeto ir
+
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
+
 Straipsnio
 
 pakeitimai
@@ -1470,6 +1536,12 @@ Nr.
 XI-117,
 
 2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
+
+Nr.
+
+XI-509,
+
+2009-12-02, Žin., 2009, Nr. 147-6552 (2009-12-12)
 
 PENKTASIS
 
@@ -2567,9 +2639,9 @@ lėšų nepakanka visoms savivaldybių negautoms pajamoms padengti, jos
 
 savivaldybių biudžetams paskirstomos iki vienodo negautų pajamų lygio.
 
-6. Jeigu šio straipsnio 2 dalyje
+6. Jeigu šio straipsnio 2 dalyje nustatytų
 
-nustatytų šaltinių nepakanka, kad savivaldybių biudžetų negautos pajamos būtų
+šaltinių nepakanka, kad savivaldybių biudžetų negautos pajamos būtų
 
 kompensuotos, Vyriausybė, atsižvelgdama į savivaldybių biudžetų negautas
 
@@ -2583,11 +2655,11 @@ kompensacijų sumas (atitinkamą jų dalį), nuo kurių pervedimo savivaldybė
 
 atleidžiama, arba praėjusiais biudžetiniais metais pervestas bendrosios
 
-dotacijos kompensacijų sumas (atitinkamą jų dalį), kurios grąžinamos savivaldybei
+dotacijos kompensacijų sumas (atitinkamą jų dalį), kurios grąžinamos
 
-iki biudžetinių metų pabaigos iš valstybės biudžeto gautų bendrosios dotacijos
+savivaldybei iki biudžetinių metų pabaigos iš valstybės biudžeto gautų
 
-kompensacijų.
+bendrosios dotacijos kompensacijų.
 
 Skirsnio
 
@@ -2611,9 +2683,9 @@ XI-192,
 
 2009-03-12, Žin., 2009, Nr. 32-1241 (2009-03-24)
 
-Skelbiu šį Lietuvos
+Skelbiu šį
 
-Respublikos Seimo priimtą įstatymą.
+Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                     VALDAS
 
@@ -2627,7 +2699,7 @@ MOKESČIO DALYS (PROCENTAIS)
 
 Savivaldybės pavadinimas
 
-Fizinių asmenų pajamų mokesčio dalis (proc.)
+Gyventojų pajamų mokesčio dalis (proc.)
 
 Savivaldybės pavadinimas
 
@@ -2667,7 +2739,7 @@ Plungės rajono
 
 Kauno miesto
 
-74
+94
 
 Prienų rajono
 
@@ -2675,7 +2747,7 @@ Prienų rajono
 
 Klaipėdos miesto
 
-64
+86
 
 Radviliškio rajono
 
@@ -2707,7 +2779,7 @@ Skuodo rajono
 
 Panevėžio miesto
 
-84
+100
 
 Šakių rajono
 
@@ -2715,7 +2787,7 @@ Panevėžio miesto
 
 Šiaulių miesto
 
-96
+100
 
 Šalčininkų rajono
 
@@ -2859,7 +2931,7 @@ Kazlų Rūdos
 
 Mažeikių rajono
 
-90
+95
 
 Pagėgių
 
@@ -2887,7 +2959,13 @@ X-434,
 
 2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24)
 
-__________________
+Nr.
+
+XI-509,
+
+2009-12-02, Žin., 2009, Nr. 147-6552 (2009-12-12)
+
+_______________
 
 Pakeitimai:
 
@@ -2917,11 +2995,11 @@ Nr. VIII-948, 98.12.03,
 
 Žin., 1998, Nr.111 (98.12.18)
 
-LIETUVOS RESPUBLIKOS
+LIETUVOS
 
-SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAPILDYMO 12(1)
+RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAPILDYMO
 
-STRAIPSNIU IR 9, 13, 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+12(1) STRAIPSNIU IR 9, 13, 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
 3.
 
@@ -2931,11 +3009,9 @@ Nr. VIII-1362, 99.10.19, Žin., 1999,
 
 Nr.93-2709 (99.11.04)
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS
 
-RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ
-
-NUSTATYMO METODIKOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Nauja įstatymo redakcija
 
