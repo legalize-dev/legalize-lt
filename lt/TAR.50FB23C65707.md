@@ -4,7 +4,7 @@ identifier: "TAR.50FB23C65707"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-10-20"
-last_updated: "2008-12-30"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.50FB23C65707"
 department: "Lietuvos Respublikos Seimas"
@@ -450,17 +450,153 @@ draudimo bazinės pensijos arba einamųjų metų draudžiamųjų pajamų dydis.�
 
 straipsnio 1 dalis įsigalioja 2009 m. sausio 1 d.
 
-2. Šio įstatymo 2, 3, 4, 10, 11, 12 straipsniai ir 15
+2. Šio įstatymo 2, 3, 4, 10, 11 ir 12 straipsniai ir 15
 
-straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
+straipsnio 2 dalis įsigalioja 2012 m. sausio 1 d.
 
-Straipsnio
-
-pakeitimas:
+Straipsnio pakeitimai:
 
 Nr. XI-102,
 
 2008-12-22, Žin., 2008, Nr. 149-6026 (2008-12-30)
+
+Nr. XI-529,
+
+2009-12-08, Žin., 2009, Nr. 151-6776 (2009-12-22)
+
+14
+
+straipsnis. Pasiūlymas Vyriausybei
+
+Vyriausybė iki 2012 m. sausio 1 d. parengia ir priima šio
+
+įstatymo 13 straipsnio 2 dalyje nurodytiems straipsniams įgyvendinti
+
+reikalingus teisės aktus.
+
+Straipsnio pakeitimai:
+
+Nr. XI-102,
+
+2008-12-22, Žin., 2008, Nr. 149-6026 (2008-12-30)
+
+Nr. XI-529,
+
+2009-12-08, Žin., 2009, Nr. 151-6776 (2009-12-22)
+
+15
+
+straipsnis. Baigiamosios nuostatos
+
+1. Nedarbingais
+
+ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) pripažintiems
+
+asmenims, kurie valstybinės socialinio draudimo netekto darbingumo (invalidumo)
+
+pensijos gavimo laikotarpiu sukako senatvės pensijos amžių iki šio įstatymo
+
+įsigaliojimo ir kuriems vietoj šios pensijos buvo paskirtos valstybinės
+
+socialinio draudimo senatvės pensijos, pradedama mokėti valstybinė
+
+socialinio draudimo netekto darbingumo (invalidumo) pensija, jeigu asmeniui tai
+
+naudinga. Valstybinio socialinio draudimo fondo valdybos prie Socialinės
+
+apsaugos ir darbo ministerijos (toliau – Fondo valdyba) teritoriniai skyriai ir
+
+Fondo valdybos Užsienio išmokų tarnyba nustato, ar asmeniui naudinga šią
+
+pensiją gauti, ir iki 2009 m. liepos 1 d. raštu pasiūlo asmeniui kreiptis dėl
+
+valstybinės socialinio draudimo netekto darbingumo (invalidumo) pensijos
+
+mokėjimo. Jeigu asmuo kreipiasi dėl valstybinės socialinio draudimo netekto
+
+darbingumo (invalidumo) pensijos mokėjimo iki 2009 m. gruodžio 31 d., ši pensija pradedama mokėti nuo šio įstatymo įsigaliojimo dienos, išmokant
+
+šios ir mokėtos valstybinės socialinio draudimo senatvės pensijos dydžių
+
+skirtumą.
+
+2. Šio įstatymo
+
+10 straipsnyje išdėstyto Valstybinių socialinio draudimo pensijų įstatymo 56
+
+straipsnio 2, 4, 5, 6 ir 7 dalių nuostatos taikomos skiriant valstybines
+
+socialinio draudimo pensijas pirmą kartą arba iš naujo nuo 2012 m. sausio 1 d.
+
+ir vėlesnių datų.
+
+Straipsnio pakeitimai:
+
+Nr. XI-102,
+
+2008-12-22, Žin., 2008, Nr. 149-6026 (2008-12-30)
+
+Nr. XI-529,
+
+2009-12-08, Žin., 2009, Nr. 151-6776 (2009-12-22)
+
+Skelbiu šį
+
+Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS
+
+ADAMKUS
+
+________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-102,
+
+2008-12-22, Žin., 2008, Nr. 149-6026 (2008-12-30)
+
+VALSTYBINIŲ
+
+SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 5, 15, 19, 24, 28, 33, 40, 42, 53, 56, 59,
+
+65 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 13, 14, 15 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-529,
+
+2009-12-08, Žin., 2009, Nr. 151-6776 (2009-12-22)
+
+VALSTYBINIŲ
+
+SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 5, 15, 19, 24, 28, 33, 40, 42, 53, 56, 59,
+
+65 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 13, 14 IR 15 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2009-12-23)
+
+autrap@lrs.lt
 
 14 straipsnis.
 
