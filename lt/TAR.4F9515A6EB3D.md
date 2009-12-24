@@ -4,7 +4,7 @@ identifier: "TAR.4F9515A6EB3D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-12-23"
-last_updated: "2008-12-30"
+last_updated: "2009-12-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 2008-12-30 iki 2009-12-23
+Suvestinė redakcija nuo 2009-12-24 iki 2010-12-17
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
 
@@ -71,7 +71,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010ISTA00IX-642
 
-8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2010 m. sausio 1 d.;
+8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2011 m. sausio 1 d.;
 
 Straipsnio punkto pakeitimai:
 
@@ -88,6 +88,8 @@ Nr. X-984, 2006-12-14, Žin., 2006, Nr. 141-5406 (2006-12-28), i. k. 1061010ISTA
 Nr. X-1383, 2007-12-18, Žin., 2007, Nr. 138-5645 (2007-12-29), i. k. 1071010ISTA00X-1383
 
 Nr. X-1812, 2008-11-13, Žin., 2008, Nr. 135-5243 (2008-11-25), i. k. 1081010ISTA00X-1812
+
+Nr. XI-548, 2009-12-10, Žin., 2009, Nr. 152-6821 (2009-12-24), i. k. 1091010ISTA00XI-548
 
 9) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d. (Žin., 1989, Nr. 33-445), su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.;
 
@@ -272,6 +274,14 @@ Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m.
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XI-61, 2008-12-16, Žin., 2008, Nr. 149-5993 (2008-12-30), i. k. 1081010ISTA000XI-61
+
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-548, 2009-12-10, Žin., 2009, Nr. 152-6821 (2009-12-24), i. k. 1091010ISTA00XI-548
 
 Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
 
