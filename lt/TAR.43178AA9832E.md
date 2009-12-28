@@ -4,7 +4,7 @@ identifier: "TAR.43178AA9832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2008-11-29"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E"
 department: "Lietuvos Respublikos Seimas"
@@ -96,17 +96,17 @@ juridinių asmenų buhalterinės apskaitos tvarką nustato Vyriausybė arba jos
 
 įgaliota institucija tiek, kiek šis Įstatymas nenustato kitaip.
 
-3. Lietuvos banko, kitų kredito įstaigų, finansų
+3. Lietuvos banko, kitų kredito įstaigų, mokėjimo
 
-maklerio įmonių, investicinių kintamojo kapitalo bendrovių ir jų valdymo įmonių,
+įstaigų, finansų maklerio įmonių, investicinių kintamojo kapitalo bendrovių ir
 
-uždaro tipo investicinių bendrovių ir jų valdymo įmonių, pensijų fondų ir jų
+jų valdymo įmonių, uždaro tipo investicinių bendrovių ir jų valdymo įmonių,
 
-valdymo įmonių, investicinių fondų valdymo įmonių, draudimo įmonių buhalterinės
+pensijų fondų ir jų valdymo įmonių, investicinių fondų valdymo įmonių, draudimo
 
-apskaitos tvarkymą ir organizavimą nustato šis įstatymas, jei kiti Lietuvos
+įmonių buhalterinės apskaitos tvarkymą ir organizavimą nustato šis įstatymas,
 
-Respublikos įstatymai nenustato kitaip.
+jei kiti Lietuvos Respublikos įstatymai nenustato kitaip.
 
 4. Šio Įstatymo nuostatos suderintos su šio Įstatymo
 
@@ -122,9 +122,9 @@ IX-1159,
 
 2002-10-29, Žin., 2002, Nr. 112-4967 (2002-11-22)
 
-Nr. IX-1263,
+Nr. IX-1263, 2002-12-10,
 
-2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
+Žin., 2002, Nr. 123-5548 (2002-12-24)
 
 Nr.
 
@@ -134,9 +134,9 @@ IX-1712,
 
 Nr.
 
-IX-1914,
+IX-1914, 2003-12-18,
 
-2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
+Žin., 2003, Nr. 123-5586 (2003-12-30)
 
 Nr. X-1178,
 
@@ -153,6 +153,10 @@ Nr.
 X-1822,
 
 2008-11-14, Žin., 2008, Nr. 137-5371 (2008-11-29)
+
+Nr. XI-552,
+
+2009-12-10, Žin., 2009, Nr. 153-6890 (2009-12-28)
 
 2 straipsnis.
 
@@ -276,9 +280,9 @@ kapitalo, finansavimo sumų bei įsipareigojimų dydį ir (arba) struktūrą.
 
 21. Ūkinė operacija – ūkio subjekto veikla,
 
-keičianti turto ir (arba) nuosavo kapitalo, finansavimo sumų bei
+keičianti turto ir (arba) nuosavo kapitalo, finansavimo sumų bei įsipareigojimų
 
-įsipareigojimų dydį ir (arba) struktūrą.
+dydį ir (arba) struktūrą.
 
 22 dalies redakcija iki tų metų,
 
@@ -286,15 +290,15 @@ kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal
 
 Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
-22. Ūkio subjekto vadovas – juridinio asmens
+22. Ūkio subjekto vadovas – juridinio asmens vadovas
 
-vadovas arba jo administracijos vadovas, arba ūkio subjekto, kuris neturi
+arba jo administracijos vadovas, arba ūkio subjekto, kuris neturi vadovo,
 
-vadovo, savininkas. Ūkinėje bendrijoje ūkio subjekto vadovu laikytinas tikrasis
+savininkas. Ūkinėje bendrijoje ūkio subjekto vadovu laikytinas tikrasis narys,
 
-narys, kuris paskirtas vykdyti Civilinio kodekso 2.82 straipsnio 3 dalyje
+kuris paskirtas vykdyti Civilinio kodekso 2.82 straipsnio 3 dalyje nurodytas
 
-nurodytas valdymo organo pareigas.
+valdymo organo pareigas.
 
 22 dalies redakcija nuo tų metų,
 
@@ -402,11 +406,11 @@ standartai turi būti parengti remiantis Europos Sąjungos teise ir
 
 tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės
 
-juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais tuo atveju, kai savo nuožiūra
+juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia
 
-nusprendžia sudaryti finansines ataskaitas arba kai Įmonių finansinės
+sudaryti finansines ataskaitas arba kai Įmonių finansinės atskaitomybės
 
-atskaitomybės įstatymas įpareigoja jas sudaryti.
+įstatymas įpareigoja jas sudaryti.
 
 5 dalies redakcija iki tų metų,
 
@@ -716,9 +720,9 @@ Nr. X-1679,
 
 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
 
-10 straipsnis. Apskaitos
+10 straipsnis.
 
-tvarkymas
+Apskaitos tvarkymas
 
 1. Ūkio subjekto apskaitą tvarko:
 
@@ -776,9 +780,9 @@ Nr. IX-1263,
 
 Nr.
 
-IX-1619,
+IX-1619, 2003-06-10,
 
-2003-06-10, Žin., 2003, Nr. 61-2771 (2003-06-27)
+Žin., 2003, Nr. 61-2771 (2003-06-27)
 
 Nr.
 
@@ -788,9 +792,9 @@ IX-1668,
 
 Nr.
 
-IX-1914,
+IX-1914, 2003-12-18,
 
-2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
+Žin., 2003, Nr. 123-5586 (2003-12-30)
 
 Nr. X-1178,
 
@@ -808,11 +812,11 @@ buhalterinių įrašų teisingumą
 
 buhalterinių įrašų teisingumą Lietuvos Respublikos teisės aktų nustatyta tvarka
 
-atsako vyriausiasis buhalteris (buhalteris) arba struktūrinio padalinio,
+atsako vyriausiasis buhalteris (buhalteris) arba struktūrinio padalinio, tvarkančio
 
-tvarkančio apskaitą, vadovas, arba kiti šio Įstatymo 10 straipsnyje nurodyti
+apskaitą, vadovas, arba kiti šio Įstatymo 10 straipsnyje nurodyti asmenys,
 
-asmenys, kurie tvarko ūkio subjekto apskaitą.
+kurie tvarko ūkio subjekto apskaitą.
 
 2. (Neteko
 
@@ -820,11 +824,9 @@ galios nuo 2007 m. birželio 21 d.)
 
 3. Apskaitos
 
-paslaugas teikiančios įmonės arba centralizuotai tvarkančios apskaitą
+paslaugas teikiančios įmonės arba centralizuotai tvarkančios apskaitą biudžetinės
 
-biudžetinės įstaigos atsakomybė nustatoma rašytinėje sutartyje, sudarytoje su
-
-užsakovu.
+įstaigos atsakomybė nustatoma rašytinėje sutartyje, sudarytoje su užsakovu.
 
 Straipsnio
 
@@ -1718,13 +1720,25 @@ BUHALTERINĖS APSKAITOS ĮSTATYMO
 
 sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
 
-***
+12.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2008-12-01)
+Nr. XI-552,
+
+2009-12-10, Žin., 2009, Nr. 153-6890 (2009-12-28)
+
+BUHALTERINĖS
+
+APSKAITOS ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė
+
+Trapinskienė (2009-12-30)
 
 autrap@lrs.lt
 
