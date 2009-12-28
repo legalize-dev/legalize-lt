@@ -4,7 +4,7 @@ identifier: "TAR.D790096B17EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "2007-03-01"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE"
 department: "Lietuvos Respublikos Seimas"
@@ -48,9 +48,9 @@ SKIRSNIS
 
 BENDROSIOS NUOSTATOS
 
-1 straipsnis. Įstatymo
+1 straipsnis. Įstatymo paskirtis
 
-paskirtis ir taikymas
+ir taikymas
 
 1. Šis įstatymas apibrėžia vartotojų teises, vartotojų
 
@@ -79,6 +79,22 @@ yra apmokamos (kompensuojamos) iš Privalomojo sveikatos draudimo fondo
 biudžeto, valstybės ar savivaldybių biudžetų lėšų, aprūpinimui vaistais, taip
 
 pat vykdant teismų sprendimus.
+
+4. Tais atvejais, kai taikomas Mokėjimų įstatymas,
+
+vietoj šio įstatymo 36 straipsnio 5–9 dalyse nustatytų informacijos
+
+reikalavimų, išskyrus šio įstatymo 36 straipsnio 7 dalies 3–8 punktus, 8 dalies
+
+1, 4 ir 5 punktus ir 9 dalies 2 punktą, taikomos Mokėjimų įstatymo 10 ir 17
+
+straipsnių nuostatos.
+
+Straipsnio pakeitimas:
+
+Nr. XI-562,
+
+2009-12-10, Žin., 2009, Nr. 153-6900 (2009-12-28)
 
 2 straipsnis. Pagrindinės
 
@@ -154,13 +170,13 @@ informacija reikiamą laiką būtų prieinama, kad nepakitusią saugomą informa
 
 būtų galima atgaminti (kompiuterio diskelis, skaitomos atminties kompaktinis
 
-diskas (CD-ROM), universalusis skaitmeninis (optinis) diskas (DVD), vartotojo kompiuterio
+diskas (CD-ROM), universalusis skaitmeninis (optinis) diskas (DVD), vartotojo
 
-standusis diskas, kuriame yra įrašytas elektroninis paštas ir kita, išskyrus
+kompiuterio standusis diskas, kuriame yra įrašytas elektroninis paštas ir kita,
 
-interneto puslapius, jei jie neatitinka požymių, apibūdinančių patvariosios
+išskyrus interneto puslapius, jei jie neatitinka požymių, apibūdinančių
 
-laikmenos sąvoką).
+patvariosios laikmenos sąvoką).
 
 10. Pradinė finansinių paslaugų teikimo sutartis
 
@@ -224,11 +240,9 @@ sprendimų ir informacijos priėmimo gebėjimams ugdyti, ir apima formalųjį
 
 švietimą (pradinį, pagrindinį, vidurinį ugdymą, profesinį mokymą,
 
-aukštesniąsias ir aukštojo mokslo studijas) ir neformalųjį švietimą
+aukštesniąsias ir aukštojo mokslo studijas) ir neformalųjį švietimą (ikimokyklinį,
 
-(ikimokyklinį, priešmokyklinį ugdymą ir kitą neformalųjį vaikų ir suaugusiųjų
-
-švietimą).
+priešmokyklinį ugdymą ir kitą neformalųjį vaikų ir suaugusiųjų švietimą).
 
 ANTRASIS SKIRSNIS
 
@@ -240,9 +254,9 @@ teisės
 
 1. Vartotojai turi teisę:
 
-1) savo nuožiūra įsigyti ir naudoti prekes ir
+1) savo nuožiūra įsigyti ir naudoti prekes ir paslaugas
 
-paslaugas (pasirinkti pardavėją, paslaugų teikėją);
+(pasirinkti pardavėją, paslaugų teikėją);
 
 2) įsigyti saugias, tinkamos kokybės prekes ar
 
@@ -342,7 +356,9 @@ TREČIASIS
 
 SKIRSNIS
 
-VARTOTOJŲ TEISIŲ APSAUGOS SRITYS IR INSTITUCINĖ SISTEMA
+VARTOTOJŲ TEISIŲ APSAUGOS SRITYS IR INSTITUCINĖ
+
+SISTEMA
 
 8 straipsnis. Vartotojų teisių apsaugos sritys
 
@@ -508,9 +524,9 @@ nustatyta tvarka.
 
 5. Šio įstatymo 12 straipsnio 1 dalies 5, 6, 7
 
-punktuose numatytoms funkcijoms įgyvendinti Valstybinės vartotojų teisių
+punktuose numatytoms funkcijoms įgyvendinti Valstybinės vartotojų teisių apsaugos
 
-apsaugos tarnybos direktorius iš Valstybinės vartotojų teisių apsaugos tarnybos
+tarnybos direktorius iš Valstybinės vartotojų teisių apsaugos tarnybos
 
 struktūrinių padalinių vadovų sudaro kolegialų organą – komisiją. Valstybinės
 
@@ -752,23 +768,23 @@ instaliavimo, įrengimo ar montavimo atsiradęs kokybės trūkumas prilyginamas
 
 prekių kokybės trūkumui. Ši nuostata taip pat taikoma tuo atveju, kai
 
-susitariama, kad prekę instaliuos, įrengs ar montuos pats vartotojas, kai jis instaliuoja,
+susitariama, kad prekę instaliuos, įrengs ar montuos pats vartotojas, kai jis
 
-įrengia ar montuoja, o neteisingo instaliavimo, įrengimo ar montavimo
+instaliuoja, įrengia ar montuoja, o neteisingo instaliavimo, įrengimo ar
 
-priežastis yra instrukcijos trūkumai.
+montavimo priežastis yra instrukcijos trūkumai.
 
 15 straipsnis.
 
 Draudimas parduoti prekes pasibaigus jų tinkamumo naudoti terminui
 
-Draudžiama parduoti prekes, kurių tinkamumo naudoti terminas
+Draudžiama parduoti prekes, kurių tinkamumo naudoti
 
-yra pasibaigęs. Prekės laikomos visiškai arba iš dalies nebetinkamomis naudoti
+terminas yra pasibaigęs. Prekės laikomos visiškai arba iš dalies nebetinkamomis
 
-(vartoti) pagal paskirtį, kai jų savybės yra arba gali būti blogesnės, negu
+naudoti (vartoti) pagal paskirtį, kai jų savybės yra arba gali būti blogesnės,
 
-nustatyta tai prekei taikomame techniniame reglamente ir (ar) gamintojo
+negu nustatyta tai prekei taikomame techniniame reglamente ir (ar) gamintojo
 
 deklaruojamame norminiame dokumente, ir jeigu prekių savybės yra arba gali būti
 
@@ -802,9 +818,9 @@ pateikiama raštu ar kitoje vartotojui prieinamoje patvariojoje laikmenoje.
 
 4. Vartotojas turi teisę reikalauti taikyti kokybės
 
-garantiją, neatsižvelgiant į tai, kad ji suteikta pažeidžiant šio įstatymo ar kitų
+garantiją, neatsižvelgiant į tai, kad ji suteikta pažeidžiant šio įstatymo ar
 
-teisės aktų reikalavimus.
+kitų teisės aktų reikalavimus.
 
 PENKTASIS
 
@@ -826,9 +842,9 @@ tenkinti, vartotojo teisėms įgyvendinti ir ginti.
 
 nustatyti Valstybinėje vartotojų teisių apsaugos strategijoje.
 
-18 straipsnis. Laidų
+18 straipsnis. Laidų vartotojų
 
-vartotojų teisių apsaugos klausimais transliavimas
+teisių apsaugos klausimais transliavimas
 
 Lietuvos nacionalinis radijas ir televizija iš skirtų
 
@@ -930,9 +946,9 @@ priežiūros tarnyba informuoja vartotoją apie tikrinimo rezultatus.
 
 Inspekcijos ar Valstybinės visuomenės sveikatos priežiūros tarnybos pasiūlymo
 
-tenkinti vartotojo reikalavimą netenkina, šios institucijos patikrinimo akto
+tenkinti vartotojo reikalavimą netenkina, šios institucijos patikrinimo akto kopiją
 
-kopiją pateikia Valstybinei vartotojų teisių apsaugos tarnybai, kuri sprendžia
+pateikia Valstybinei vartotojų teisių apsaugos tarnybai, kuri sprendžia
 
 klausimą dėl vartotojo teisių gynimo.
 
@@ -964,9 +980,9 @@ Valstybinės visuomenės sveikatos priežiūros tarnybos sprendimu ekspertizė a
 
 laboratoriniai tyrimai nebūtini, o vartotojas pageidauja juos atlikti,
 
-pasitvirtinus, kad prekės ir (ar) su jomis susijusios paslaugos ar kitos atlygintinos
+pasitvirtinus, kad prekės ir (ar) su jomis susijusios paslaugos ar kitos
 
-paslaugos yra tinkamos kokybės.
+atlygintinos paslaugos yra tinkamos kokybės.
 
 6. Jeigu šio straipsnio 5 dalyje nurodyti asmenys
 
@@ -994,11 +1010,9 @@ elektroninių ryšių, pašto ir pasiuntinių paslaugų srityse;
 
 Draudimo įstatymo numatytais atvejais ir tvarka;
 
-3) Valstybinė energetikos inspekcija prie Ūkio
+3) Valstybinė energetikos inspekcija prie Ūkio ministerijos
 
-ministerijos – Energetikos įstatyme numatytose vartotojų teisių apsaugos
-
-srityse;
+– Energetikos įstatyme numatytose vartotojų teisių apsaugos srityse;
 
 4) Valstybinė kainų ir energetikos kontrolės komisija
 
@@ -1086,29 +1100,29 @@ apgintos pažeistos ar ginčijamos jo teisės ir įstatymų saugomi interesai.
 
 instituciją, privalo pateikti:
 
-1) prašymą, kuriame turi būti nurodyta: ginčą
+1) prašymą, kuriame turi būti nurodyta: ginčą nagrinėjančios
 
-nagrinėjančios institucijos, kuriai teikiamas prašymas, pavadinimas; vartotojo
+institucijos, kuriai teikiamas prašymas, pavadinimas; vartotojo vardas,
 
-vardas, pavardė, adresas; pardavėjo, paslaugų teikėjo, dėl kurio veiksmų
+pavardė, adresas; pardavėjo, paslaugų teikėjo, dėl kurio veiksmų (neveikimo)
 
-(neveikimo) yra pateikiami vartotojo reikalavimai, pavadinimas (vardas,
+yra pateikiami vartotojo reikalavimai, pavadinimas (vardas, pavardė), adresas
 
-pavardė), adresas (buveinė); vartotojo teisės ir įstatymų saugomi interesai,
+(buveinė); vartotojo teisės ir įstatymų saugomi interesai, kuriuos, vartotojo
 
-kuriuos, vartotojo nuomone, pažeidžia pardavėjas, paslaugų teikėjas; vartotojo
+nuomone, pažeidžia pardavėjas, paslaugų teikėjas; vartotojo reikalavimas;
 
-reikalavimas; informacija apie kreipimąsi į pardavėją, paslaugų teikėją;
+informacija apie kreipimąsi į pardavėją, paslaugų teikėją; informacija, ar tų
 
-informacija, ar tų pačių šalių ginčas dėl to paties dalyko ir tuo pačiu
+pačių šalių ginčas dėl to paties dalyko ir tuo pačiu pagrindu nėra nagrinėjamas
 
-pagrindu nėra nagrinėjamas ginčus nagrinėjančioje institucijoje, ar ginčo
+ginčus nagrinėjančioje institucijoje, ar ginčo nagrinėjimas nebuvo nutrauktas
 
-nagrinėjimas nebuvo nutrauktas pagal šio įstatymo 26 straipsnį, ar ginčus
+pagal šio įstatymo 26 straipsnį, ar ginčus nagrinėjanti institucija yra
 
-nagrinėjanti institucija yra priėmusi sprendimą, ar yra įsigaliojęs teismo
+priėmusi sprendimą, ar yra įsigaliojęs teismo sprendimas dėl šio ginčo;
 
-sprendimas dėl šio ginčo; pridedamų dokumentų kopijų sąrašas;
+pridedamų dokumentų kopijų sąrašas;
 
 2) prašyme išdėstytas aplinkybes patvirtinančių
 
@@ -1162,11 +1176,11 @@ pačiu pagrindu atsisakymą, arba įsigaliojusi teismo nutartis patvirtinti taik
 
 sutartį;
 
-4) kuriame nenurodytas vartotojo vardas ir pavardė,
+4) kuriame nenurodytas vartotojo vardas ir pavardė, adresas
 
-adresas arba kuris vartotojo ar jo atstovo nepasirašytas, arba kurį vartotojo
+arba kuris vartotojo ar jo atstovo nepasirašytas, arba kurį vartotojo vardu
 
-vardu pateikė neįgaliotas asmuo.
+pateikė neįgaliotas asmuo.
 
 6. Vartotojų asociacijos, atstovaudamos vartotojams
 
@@ -1232,9 +1246,9 @@ ar pardavėjo, paslaugų teikėjo pateiktų paaiškinimų. Nurodytos institucijo
 
 prireikus atlieka ekspertizę ar laboratorinius tyrimus. Ekspertizės ir
 
-laboratoriniai tyrimai apmokami šio įstatymo 21 straipsnio 4 ir 5 dalyse numatyta
+laboratoriniai tyrimai apmokami šio įstatymo 21 straipsnio 4 ir 5 dalyse
 
-tvarka.
+numatyta tvarka.
 
 4. Valstybės ir savivaldybių institucijos, atsakingos
 
@@ -1496,9 +1510,9 @@ skelbiami viešai Valstybinės vartotojų teisių apsaugos tarnybos interneto
 
 tinklalapyje.
 
-29 straipsnis.
+29 straipsnis. Kreipimasis
 
-Kreipimasis į bendrosios kompetencijos teismą
+į bendrosios kompetencijos teismą
 
 Ginčo šalys turi teisę kreiptis į bendrosios
 
@@ -1692,23 +1706,23 @@ Respublikos valstybine vartotojų teisių apsaugos tarnyba. Lietuvos Respublikos
 
 valstybinė vartotojų teisių apsaugos tarnyba privalo pateikti atsakymą Europos
 
-Sąjungos valstybių narių institucijoms ar organizacijoms per 14 dienų. Europos Sąjungos
+Sąjungos valstybių narių institucijoms ar organizacijoms per 14 dienų. Europos
 
-valstybių narių institucijos ar organizacijos prieš pareikšdamos ieškinį taip
+Sąjungos valstybių narių institucijos ar organizacijos prieš pareikšdamos
 
-pat turi teisę kreiptis į pardavėją ar paslaugų teikėją dėl vartotojų viešąjį
+ieškinį taip pat turi teisę kreiptis į pardavėją ar paslaugų teikėją dėl
 
-interesą pažeidžiančių veiksmų nutraukimo ir pasiūlyti jam per 14 dienų nuo šio
+vartotojų viešąjį interesą pažeidžiančių veiksmų nutraukimo ir pasiūlyti jam
 
-pasiūlymo gavimo nutraukti veiksmus, pažeidžiančius vartotojų viešąjį interesą,
+per 14 dienų nuo šio pasiūlymo gavimo nutraukti veiksmus, pažeidžiančius
 
-taip pat nurodyti pardavėjui ar paslaugų teikėjui, kad jei pardavėjas ar
+vartotojų viešąjį interesą, taip pat nurodyti pardavėjui ar paslaugų teikėjui,
 
-paslaugų teikėjas nenutrauks veiksmų, pažeidžiančių viešąjį vartotojų interesą,
+kad jei pardavėjas ar paslaugų teikėjas nenutrauks veiksmų, pažeidžiančių
 
-Europos Sąjungos valstybių narių institucijos ar organizacijos kreipsis į
+viešąjį vartotojų interesą, Europos Sąjungos valstybių narių institucijos ar
 
-teismą su ieškiniu viešajam interesui ginti.
+organizacijos kreipsis į teismą su ieškiniu viešajam interesui ginti.
 
 3. Lietuvos Respublikos valstybinė vartotojų teisių
 
@@ -1770,7 +1784,7 @@ atitinkančios vartotojų asociacijos, o įstatymų nustatytais atvejais – kit
 
 valstybės ir savivaldybių institucijos ir juridiniai asmenys, ginantys
 
-vartotojų viešąjį interesą, ne vėliau kaip per 5 darbo dienas  nuo  ieškinio ar
+vartotojų viešąjį interesą, ne vėliau kaip per 5 darbo dienas nuo ieškinio ar
 
 pareiškimo (skundo) priėmimo nagrinėti teisme apie tai privalo pranešti
 
@@ -1778,17 +1792,15 @@ Valstybinei vartotojų teisių apsaugos tarnybai. Valstybinė vartotojų teisių
 
 apsaugos tarnyba šią informaciją skelbia savo interneto tinklalapyje.
 
-2.   Šio straipsnio 1 dalyje nurodyti subjektai, ne
+2. Šio straipsnio 1 dalyje nurodyti subjektai, ne vėliau
 
-vėliau kaip per 5 darbo dienas nuo teismo sprendimo pagal šį skirsnį priėmimo,
+kaip per 5 darbo dienas nuo teismo sprendimo pagal šį skirsnį priėmimo, šį
 
-šį sprendimą išsiunčia Valstybinei vartotojų teisių apsaugos tarnybai.
+sprendimą išsiunčia Valstybinei vartotojų teisių apsaugos tarnybai. Valstybinė
 
-Valstybinė vartotojų teisių apsaugos tarnyba įsiteisėjusius teismo sprendimus,
+vartotojų teisių apsaugos tarnyba įsiteisėjusius teismo sprendimus, kuriuose
 
-kuriuose nustatytas viešojo intereso pažeidimas, skelbia savo interneto
-
-tinklalapyje.
+nustatytas viešojo intereso pažeidimas, skelbia savo interneto tinklalapyje.
 
 AŠTUNTASIS SKIRSNIS
 
@@ -1822,7 +1834,9 @@ taikomos tik pradinei finansinių paslaugų teikimo sutarčiai, o po šios
 
 sutarties sudarymo ateityje atliekamoms to paties pobūdžio viena po kitos
 
-einančioms operacijoms ar atskirų operacijų grupei šio skirsnio nuostatos netaikomos.
+einančioms operacijoms ar atskirų operacijų grupei šio skirsnio nuostatos
+
+netaikomos.
 
 4. Kai pradinė finansinių paslaugų teikimo sutartis
 
@@ -1846,7 +1860,9 @@ teikėju, finansine paslauga, finansinių paslaugų teikimo sutartimi, sudaroma
 
 ryšio priemonėmis, ir žalos atlyginimu.
 
-6. Apie finansinių paslaugų teikėją turi būti nurodyta:
+6. Apie finansinių paslaugų teikėją turi būti
+
+nurodyta:
 
 1) paslaugų teikėjo pavadinimas, buveinė (adresas),
 
@@ -2060,11 +2076,11 @@ arba pensijų kaupimo sutarties, sudarytos ryšio priemonėmis, apie tai raštu
 
 pranešdamas paslaugos teikėjui per 30 dienų. Pensijų kaupimo sutarčių
 
-atsisakymo terminas pradedamas skaičiuoti nuo sutarties sudarymo dienos.
+atsisakymo terminas pradedamas skaičiuoti nuo sutarties sudarymo dienos. Gyvybės
 
-Gyvybės draudimo sutarčių atsisakymo terminas pradedamas skaičiuoti nuo tos
+draudimo sutarčių atsisakymo terminas pradedamas skaičiuoti nuo tos dienos,
 
-dienos, kurią vartotojas informuojamas, kad sutartis yra sudaryta.
+kurią vartotojas informuojamas, kad sutartis yra sudaryta.
 
 3. Jeigu vartotojas gauna informaciją pagal šio įstatymo 36
 
@@ -2130,9 +2146,11 @@ teikėjui, vadovaudamasis praktiniais nurodymais, jam pateiktais pagal šio
 
 įstatymo 36 straipsnio 8 dalies 4 punktą. Laikoma, kad terminas nepraleistas,
 
-jeigu pranešimas (pateiktas raštu ar patvariojoje laikmenoje, su kuria gali susipažinti
+jeigu pranešimas (pateiktas raštu ar patvariojoje laikmenoje, su kuria gali
 
-paslaugos teikėjas) išsiunčiamas iki sutarties atsisakymo termino pabaigos.
+susipažinti paslaugos teikėjas) išsiunčiamas iki sutarties atsisakymo termino
+
+pabaigos.
 
 7. Šis straipsnis netaikomas vartojimo kredito
 
@@ -2146,11 +2164,11 @@ sudaryta ryšio priemonėmis, sudaroma kita sutartis naudojant ryšio priemones
 
 dėl paslaugų, kurias pagal trečiosios šalies ir paslaugų teikėjo sutartį teikia
 
-paslaugų teikėjas arba trečioji šalis, pastaroji sutartis nutraukiama be papildomų
+paslaugų teikėjas arba trečioji šalis, pastaroji sutartis nutraukiama be
 
-įpareigojimų vartotojui, jeigu vartotojas pasinaudoja teise atsisakyti
+papildomų įpareigojimų vartotojui, jeigu vartotojas pasinaudoja teise
 
-sutarties.
+atsisakyti sutarties.
 
 9. Jeigu paslaugos teikėjas nesilaiko šio skirsnio
 
@@ -2280,7 +2298,7 @@ specialusis leidimas, 15 skyrius, 4 tomas, p. 223) su paskutiniais pakeitimais,
 
 padarytais 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva
 
-2002/65/EB (OL  2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 321).
+2002/65/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 321).
 
 2. 1999 m. gegužės 25 d. Europos Parlamento ir Tarybos
 
@@ -2290,19 +2308,33 @@ tikrų aspektų (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 223).
 
 3. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos
 
-direktyva 2002/65/EB  dėl nuotolinės prekybos vartotojams skirtomis
+direktyva 2002/65/EB dėl nuotolinės prekybos vartotojams skirtomis finansinėmis
 
-finansinėmis paslaugomis ir iš dalies keičianti Tarybos direktyvą 90/619/EB ir
+paslaugomis ir iš dalies keičianti Tarybos direktyvą 90/619/EB ir direktyvas
 
-direktyvas 97/7/EB ir 98/27/EB (OL  2004 m. specialusis leidimas, 6 skyrius, 4
+97/7/EB ir 98/27/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p.
 
-tomas, p. 321).
+321).
 
 4. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos
 
 reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už
 
 vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p.1).
+
+5. 2007 m.
+
+lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo
+
+paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB,
+
+2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
+
+Priedo pakeitimas:
+
+Nr. XI-562,
+
+2009-12-10, Žin., 2009, Nr. 153-6900 (2009-12-28)
 
 __________________
 
