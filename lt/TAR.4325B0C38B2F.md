@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2009-12-12"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -171,9 +171,9 @@ pateikusiems paveldėjimo teisės liudijimą.
 
 nukentėjusysis dėl draudiminio įvykio terminuotai netenka iki 20 procentų
 
-darbingumo, jam išmokama netekto darbingumo vienkartinė kompensacija, kurios
+darbingumo, jam išmokama netekto darbingumo vienkartinė kompensacija, kurios dydis
 
-dydis yra 10 procentų jo 24 mėnesių kompensuojamojo uždarbio, taikomo vienkartinei
+yra 10 procentų jo 24 mėnesių kompensuojamojo uždarbio, taikomo vienkartinei
 
 kompensacijai apskaičiuoti.
 
@@ -255,23 +255,23 @@ X-1840,
 
 straipsnis. Netekto darbingumo periodinė kompensacija
 
-1. Jeigu nustatoma,
+1. Jeigu
 
-kad nukentėjusysis dėl draudiminio įvykio neteko 30 ir daugiau procentų
+nustatoma, kad nukentėjusysis dėl draudiminio įvykio neteko 30 ir daugiau
 
-darbingumo, jam mokama netekto darbingumo periodinė kompensacija.
+procentų darbingumo, jam mokama netekto darbingumo periodinė kompensacija.
 
 2. Netekto darbingumo
 
 periodinė kompensacija nukentėjusiajam mokama kas mėnesį. Ji apskaičiuojama
 
-kaip darbingumo netekimo koeficiento (d) (šio Įstatymo 3 straipsnio 4 dalis),
+kaip darbingumo netekimo koeficiento (d) (šio Įstatymo 3 straipsnio 4 dalis), kompensavimo
 
-kompensavimo koeficiento (k) (šio Įstatymo 3 straipsnio 8, 9, 10 dalys) ir
+koeficiento (k) (šio Įstatymo 3 straipsnio 8, 9, 10 dalys) ir mokėjimo mėnesį
 
-mokėjimo mėnesį galiojančių einamųjų metų draudžiamųjų pajamų (D) (šio Įstatymo
+galiojančių einamųjų metų draudžiamųjų pajamų (D) (šio Įstatymo 3 straipsnio 7
 
-3 straipsnio 7 dalis) sandaugos pusė, t. y. pagal formulę 0,5 x d x k x D.
+dalis) sandaugos pusė, t. y. pagal formulę 0,5 x d x k x D.
 
 7 straipsnis. Nedraudiminiai įvykiai
 
@@ -283,25 +283,19 @@ darbą ar iš darbo arba nustatytos profesinės ligos, kuriuos ištyrus nustatom
 
 kad jie neatitinka šio Įstatymo 6 straipsnyje nustatytų sąlygų.
 
-*2.
+2. Draudiminiais įvykiais taip pat nepripažįstami nelaimingi
 
-Draudiminiais
+atsitikimai darbe, pakeliui į darbą ar iš darbo arba
 
-įvykiais taip pat nepripažįstami nelaimingi atsitikimai darbe,
+nustatytos ūmios profesinės ligos, kuriuos ištyrus nustatoma, kad
 
-pakeliui į darbą ar iš darbo arba nustatytos ūmios profesinės ligos,
+jie atitinka šio Įstatymo 6 straipsnyje nustatytas sąlygas, tačiau jie
 
-kuriuos ištyrus nustatoma, kad jie atitinka šio
+įvykę esant bent vienai iš šių aplinkybių:
 
-Įstatymo 6 straipsnyje nustatytas sąlygas, tačiau jie įvykę esant
+1) (neteko
 
-bent vienai iš šių aplinkybių:
-
-1) apdraustasis
-
-buvo neblaivus ar apsvaigęs nuo narkotinių, toksinių ar psichotropinių medžiagų
-
-ir tai nebuvo susiję su jam draudėjo pavesto darbo technologijos ypatybėmis;
+galios nuo 2009 m. gruodžio 28 d.);
 
 2) apdraustasis
 
@@ -333,41 +327,27 @@ su darbu, išskyrus atvejus, kai nelaimingas atsitikimas įvyksta pakeliui į
 
 darbą ar iš darbo.
 
-*Pastaba. Pripažinti, kad Lietuvos
+3. Draudiminiais
 
-Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo
+įvykiais taip pat nepripažįstami nelaimingi atsitikimai darbe arba ūmios
 
-įstatymo 7 straipsnio 2 dalies (2005 m. gegužės 19 d. redakcija; Žin., 2005, Nr. 71‑2557) nuostata „Draudiminiais įvykiais taip pat
+profesinės ligos, kuriuos ištyrus nustatoma, kad nelaimingas atsitikimas darbe
 
-nepripažįstami nelaimingi atsitikimai darbe <...> arba nustatytos ūmios
+įvyko, ūmi profesinė liga pasireiškė esant tinkamoms, saugioms, sveikatai
 
-profesinės ligos, kuriuos ištyrus nustatoma, kad <...> jie įvykę esant
+nekenksmingoms darbo sąlygoms ir juos lėmė apdraustojo neblaivumas
 
-bent vienai iš šių aplinkybių: 1) apdraustasis buvo neblaivus ar apsvaigęs nuo
+(girtumas) arba apsvaigimas nuo psichiką veikiančių medžiagų. Nelaimingi
 
-narkotinių, toksinių ar psichotropinių medžiagų ir tai nebuvo susiję su jam
+atsitikimai pakeliui į darbą ar iš darbo nepripažįstami draudiminiais įvykiais,
 
-draudėjo pavesto darbo technologijos ypatybėmis“ (2003 m. lapkričio 11 d. redakcija; Žin., 2003, Nr. 114‑5114) ta apimtimi, kuria draudiminiais
+jei apdraustasis buvo neblaivus ar apsvaigęs nuo psichiką veikiančių medžiagų.
 
-įvykiais nepripažįstami nelaimingi atsitikimai darbe arba nustatytos ūmios
+Šios dalies nuostatos netaikomos, jei apdraustojo neblaivumas (girtumas)
 
-profesinės ligos, kuriuos ištyrus nustatoma, kad jie yra įvykę apdraustajam
+arba apsvaigimas nuo psichiką veikiančių medžiagų buvo susijęs su jam draudėjo
 
-esant neblaiviam arba apsvaigusiam nuo narkotinių, toksinių ar psichotropinių
-
-medžiagų, bet nelaimingus atsitikimus darbe arba ūmias profesines ligas lėmė ne
-
-jo neblaivumas arba apsvaigimas nuo narkotinių, toksinių ar psichotropinių
-
-medžiagų, o netinkamos, nesaugios, nesveikos darbo sąlygos, prieštarauja
-
-Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai „Kiekvienas
-
-žmogus <...> turi teisę turėti tinkamas, saugias ir sveikas darbo
-
-sąlygas, gauti <...> socialinę apsaugą nedarbo atveju“, 52 straipsniui,
-
-konstituciniam teisinės valstybės principui.
+pavesto darbo technologijos ypatybėmis.
 
 Straipsnio
 
@@ -390,6 +370,10 @@ Respublikos Konstitucinis Teismas, Nutarimas
 2008-04-29,
 
 Žin., 2008, Nr. 51-1904 (2008-04-30)
+
+Nr. XI-569,
+
+2009-12-15, Žin., 2009, Nr. 154-6950 (2009-12-28)
 
 25 straipsnis. Draudimo išmokų mokėjimo terminai
 
@@ -429,9 +413,9 @@ prašymas, pirmos dienos.
 
 draudimo išmoka apdraustajam mirus skiriama ne anksčiau kaip praėjus 3 mėnesių
 
-kreipimosi terminui nuo teisės į šią išmoką atsiradimo dienos. Kai per šį
+kreipimosi terminui nuo teisės į šią išmoką atsiradimo dienos. Kai per šį terminą
 
-terminą nė vienas iš asmenų, turinčių teisę į šią išmoką, nesikreipė, ši išmoka
+nė vienas iš asmenų, turinčių teisę į šią išmoką, nesikreipė, ši išmoka
 
 skiriama pirmajam prašymą pateikusiam asmeniui, turinčiam teisę į šią išmoką,
 
@@ -993,23 +977,23 @@ iš darbo tyrimą bei dalyvauti tiriant profesines ligas;
 
 5) laiku ir
 
-teisingai apskaičiuoti bei mokėti nelaimingų atsitikimų darbe socialinio
+teisingai apskaičiuoti bei mokėti nelaimingų atsitikimų darbe socialinio draudimo
 
-draudimo įmokas. Šiame punkte nurodytos prievolės draudėjams netaikomos už šio
+įmokas. Šiame punkte nurodytos prievolės draudėjams netaikomos už šio įstatymo
 
-įstatymo 4 straipsnio 1 dalies 3 punkte išvardytus asmenis, kurie draudžiami
+4 straipsnio 1 dalies 3 punkte išvardytus asmenis, kurie draudžiami valstybės
 
-valstybės biudžeto lėšomis.
+biudžeto lėšomis.
 
 2. Jeigu ištyrus
 
 nelaimingą atsitikimą darbe, pakeliui į darbą ar iš darbo arba profesinį
 
-susirgimą jis nepripažįs­tamas draudiminiu įvykiu, sužalotam ar susirgusiam profesine
+susirgimą jis nepripažįstamas draudiminiu įvykiu, sužalotam ar susirgusiam
 
-liga asmeniui ir (ar) jo šeimos nariams žala atlyginama Civilinio kodekso
+profesine liga asmeniui ir (ar) jo šeimos nariams žala atlyginama Civilinio
 
-nustatyta tvarka.
+kodekso nustatyta tvarka.
 
 3. Už šio
 
@@ -1531,9 +1515,9 @@ ligų socialinio draudimo įmokų tarifus.
 
 4. Lėšų, skirtų
 
-nelaimingų atsitikimų darbe ir profesinių ligų prevencijai, panaudojimo tvarką
+nelaimingų atsitikimų darbe ir profesinių ligų prevencijai, panaudojimo tvarką nustato
 
-nustato Vyriausybė.
+Vyriausybė.
 
 Straipsnio
 
@@ -1693,11 +1677,11 @@ socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registr
 
 duomenys.
 
-3. Šalies bendrasis
+3. Šalies
 
-nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio draudimo
+bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio
 
-įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kasmet
+draudimo įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kasmet
 
 Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
 
@@ -1713,9 +1697,9 @@ rodiklių dydžius ir priskiria draudėjus nelaimingų atsitikimų darbe sociali
 
 draudimo įmokos tarifų grupėms. Draudėjų priskyrimą nelaimingų atsitikimų darbe
 
-socialinio draudimo įmokos tarifų grupėms tvirtina Valstybinio socialinio draudimo
+socialinio draudimo įmokos tarifų grupėms tvirtina Valstybinio socialinio
 
-fondo taryba.
+draudimo fondo taryba.
 
 Straipsnio pakeitimai:
 
@@ -1741,13 +1725,13 @@ XI-401,
 
 1. Šiame
 
-Įstatyme nustatytos valstybinio socialinio draudimo rūšies valstybinio
+Įstatyme nustatytos valstybinio socialinio draudimo rūšies valstybinio socialinio
 
-socialinio draudimo įmokos už kiekvieną apdraustąjį, nurodytą šio Įstatymo 4
+draudimo įmokos už kiekvieną apdraustąjį, nurodytą šio Įstatymo 4 straipsnio 1
 
-straipsnio 1 dalies 1, 2 punktuose, skaičiuojamos ir mokamos įstatymų nustatyta
+dalies 1, 2 punktuose, skaičiuojamos ir mokamos įstatymų nustatyta tvarka kartu
 
-tvarka kartu su kitomis valstybinio socialinio draudimo įmokomis.
+su kitomis valstybinio socialinio draudimo įmokomis.
 
 2. Valstybinio
 
@@ -1781,17 +1765,17 @@ nelaimingą atsitikimą darbe, pakeliui į darbą ar iš darbo nustatoma, kad ji
 
 įvyko dėl trečiojo asmens kaltės, tai Valstybinio socialinio draudimo fondo
 
-valdybos teritorinis skyrius atgręžtinio reikalavimo teise išreikalauja
+valdybos teritorinis skyrius atgręžtinio reikalavimo teise išreikalauja išmokėtas
 
-išmokėtas išmokų sumas iš kalto asmens Civilinio kodekso nustatyta tvarka.
+išmokų sumas iš kalto asmens Civilinio kodekso nustatyta tvarka. Išmokų sumas,
 
-Išmokų sumas, įskaitytinas į atlygintinos žalos, mokamos pagal Transporto
+įskaitytinas į atlygintinos žalos, mokamos pagal Transporto priemonių savininkų
 
-priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo
+ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymą, dydį
 
-įstatymą, dydį valstybinio socialinio draudimo fondo biudžetui kompensuoja
+valstybinio socialinio draudimo fondo biudžetui kompensuoja draudimo
 
-draudimo kompanijos.
+kompanijos.
 
 KETVIRTASIS
 
@@ -2167,7 +2151,9 @@ Nr. IX-1133,
 
 NELAIMINGŲ ATSITIKIMŲ DARBE IR
 
-PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 33 IR 36 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 33 IR 36 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
 
 6.
 
@@ -2209,9 +2195,9 @@ PAKEITIMO ĮSTATYMAS
 
 Šis Įstatymas įsigalioja kartu su
 
-Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
 
-Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
 
 2003 m. gegužės 1 d.
 
