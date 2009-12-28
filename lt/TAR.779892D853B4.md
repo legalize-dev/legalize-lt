@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2009-04-04"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2009-04-04 iki 2009-12-27
+Suvestinė redakcija nuo 2009-12-28 iki 2011-05-02
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -50,11 +50,15 @@ BENDROSIOS NUOSTATOS
 
 3) Lietuvos bankui, teikiančiam finansines paslaugas Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-4. Šiuo Įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas Įstatymo priede.
+4. Šiuo Įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti Įstatymo priede.
 
 Papildyta straipsnio dalimi:
 
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
@@ -94,11 +98,13 @@ Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA0
 
 11. Finansinis laidavimas – įstatymų nustatyta tvarka sudarytoje laidavimo sutartyje nustatytas finansų įstaigos neatšaukiamas įsipareigojimas išmokėti tam tikrą laidavimo sutartyje nurodytą sumą, jeigu asmuo, už kurį finansų įstaiga laiduoja, nevykdo visos ar dalies savo prievolės.
 
-12. Finansinis tarpininkavimas (agento veikla) – veikla vienos arba kelių finansų įstaigų vardu ir naudai priimant indėlius ir kitas grąžintinas lėšas, skolinant, priimant įmokas už kitų asmenų suteiktas paslaugas, teikiant kitas finansines paslaugas, taip pat finansų įstaigų vykdoma priklausomo draudimo tarpininkavimo veikla, išskyrus draudiminių įvykių administravimą.
+12. Finansinis tarpininkavimas (agento veikla) – veikla, kai vienos arba kelių finansų įstaigų vardu ir naudai priimami indėliai ir kitos grąžintinos lėšos, skolinama, teikiamos kitos finansinės paslaugos, taip pat finansų įstaigų vykdoma priklausomo draudimo tarpininkavimo veikla, išskyrus draudžiamųjų įvykių administravimą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-2528, 2004-11-02, Žin., 2004, Nr. 167-6107 (2004-11-17), i. k. 1041010ISTA0IX-2528
+
+Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
 
 13. Finansinis turtas – finansų įstaigos balansinio finansinio turto ir nebalansinių pretenzijų verčių suma.
 
@@ -116,7 +122,17 @@ Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA0
 
 16. Indėlis – teigiamas pinigų likutis sąskaitoje, kuri atidaryta indėlininkui kredito įstaigoje pagal banko indėlio arba banko sąskaitos sutartį.
 
-17. Indėlių ir kitų grąžintinų lėšų priėmimas iš neprofesionalių rinkos dalyvių – piniginių lėšų priėmimas iš nenustatytų iš anksto asmenų, kad būtų galima jas valdyti, naudoti ir (arba) jomis disponuoti, įsipareigojant jas sugrąžinti su palūkanomis ar be jų. Mokėjimo kortelių ar kitokių priemonių, kurios gali būti naudojamos kaip mokėjimo priemonė perkant prekes arba paslaugas tik iš šias korteles ar kitokias priemones išleidusio asmens, išleidimas nėra indėlių ar kitokių grąžintinų lėšų priėmimas iš neprofesionalių rinkos dalyvių.
+17. Indėlių ir kitų grąžintinų lėšų priėmimas iš neprofesionalių rinkos dalyvių – lėšų priėmimas iš nenustatytų iš anksto asmenų, kad būtų galima jas valdyti, naudoti ir (arba) jomis disponuoti, įsipareigojant jas sugrąžinti su palūkanomis ar be jų. Indėlių ir kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių nelaikomas:
+
+1) lėšų priėmimas iš mokėjimo paslaugų vartotojų mokėjimo paslaugoms teikti;
+
+2) lėšų priėmimas, jei priimtos lėšos nedelsiant keičiamos į išleidžiamus elektroninius pinigus;
+
+3) lėšų priėmimas išduodant korteles ar kitas priemones, kurios naudojamos įsigyjant prekes arba paslaugas tik iš šias korteles ar kitas priemones išdavusio asmens.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
 
 18. Investicija – kilnojamasis ir nekilnojamasis, taip pat nematerialusis turtas, įstatinio kapitalo ir (arba) balsavimo teisių dalys, taip pat pasitikėtinės (subordinuotos) paskolos, kurios gali būti konvertuotos į finansų įstaigos naujos emisijos akcijas, suteiktos finansų įstaigoms.
 
@@ -274,9 +290,17 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 
 3) finansinė nuoma (lizingas);
 
-4) pinigų pervedimas;
+4) mokėjimo paslaugos;
 
-5) mokėjimo kortelių ir kitų mokėjimo priemonių išleidimas ir (arba) operacijų su jomis atlikimas;
+Straipsnio punkto pakeitimai:
+
+Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
+
+5) kelionių čekių, vekselių ir kitų mokėjimo priemonių išdavimas ir administravimas, jei šios veiklos neapima šio straipsnio 1 dalies 4 punkte nurodytos paslaugos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
 
 6) finansinių laidavimų ir finansinių garantijų teikimas;
 
@@ -330,7 +354,11 @@ Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA
 
 2) skolintis iš neprofesionalių rinkos dalyvių viršydama nuosavo kapitalo dydį;
 
-3) atlikti pinigų pervedimus;
+3) Neteko galios nuo 2009-12-28
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-554, 2009-12-10, Žin. 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
 
 4) išleisti ir tvarkyti elektroninius pinigus.
 
@@ -1288,17 +1316,21 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-Lietuvos Respublikos finansų įstaigų
+Lietuvos Respublikos
 
-įstatymo priedas
+finansų įstaigų įstatymo
+
+priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177, p. 1).
+1. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177, p. 1).
 
-Papildyta priedu:
+2. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
 
-Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+Priedo pakeitimai:
+
+Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
 
 Pakeitimai:
 
@@ -1381,6 +1413,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA00XI-203
 
 Lietuvos Respublikos finansų įstaigų įstatymo 3 straipsnio papildymo ir 7 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
+
+Lietuvos Respublikos finansų įstaigų įstatymo 1, 2, 3 straipsnių pakeitimo ir priedo papildymo įstatymas
 
 381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
 
