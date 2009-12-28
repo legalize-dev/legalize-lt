@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2009-08-04"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -255,7 +255,17 @@ NT) – naudingoji talpa, nurodyta jūrų laivo tarptautiniame
 
 tonažo sertifikate, išduotame pagal 1969 m. Londono tarptautinę konvenciją dėl laivų matmenų nustatymo.
 
-15. Laivybos vienetas – Lietuvos apmokestinamasis vienetas arba užsienio apmokestinamasis vienetas, įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje ir vykdantis veiklą Lietuvos Respublikos teritorijoje per nuolatinę buveinę, užsiimantis tarptautiniu vežimu jūrų laivais ir su juo tiesiogiai susijusia veikla.
+15.
+
+Laivybos vienetas – Lietuvos apmokestinamasis vienetas arba užsienio
+
+apmokestinamasis vienetas, įregistruotas ar kitaip organizuotas Europos
+
+ekonominės erdvės valstybėje ir vykdantis veiklą Lietuvos Respublikos
+
+teritorijoje per nuolatinę buveinę, užsiimantis tarptautiniu vežimu jūrų
+
+laivais ir su juo tiesiogiai susijusia veikla.
 
 16.
 
@@ -325,7 +335,27 @@ kaip ši sąvoka apibrėžta Lietuvos Respublikos gyventojų pajamų
 
 mokesčio įstatyme.
 
-22. Nuolatinė buveinė – užsienio vieneto veiklos Lietuvos Respublikoje išraiška. Užsienio vienetas laikomas veikiančiu per nuolatinę buveinę Lietuvos Respublikos teritorijoje, jeigu jis Lietuvos Respublikoje: nuolat vykdo veiklą; arba vykdo savo veiklą per priklausomą atstovą (agentą); arba naudoja statybos teritoriją, statybos, surinkimo ar įrangos objektą; arba gamtos išteklių tyrimui ar gavybai naudoja įrangą arba konstrukciją, įskaitant tam naudojamus gręžinius arba laivus. Nuolatinumo apibrėžimą, atstovo (agento) statuso priklausomumo ar nepriklausomumo kriterijus nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.23. Nuolatinis Lietuvos gyventojas – kaip ši sąvoka apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme.
+22. Nuolatinė
+
+buveinė – užsienio vieneto veiklos Lietuvos Respublikoje išraiška. Užsienio
+
+vienetas laikomas veikiančiu per nuolatinę buveinę Lietuvos Respublikos
+
+teritorijoje, jeigu jis Lietuvos Respublikoje: nuolat vykdo veiklą; arba vykdo
+
+savo veiklą per priklausomą atstovą (agentą); arba naudoja statybos teritoriją,
+
+statybos, surinkimo ar įrangos objektą; arba gamtos išteklių tyrimui ar gavybai
+
+naudoja įrangą arba konstrukciją, įskaitant tam naudojamus gręžinius arba
+
+laivus. Nuolatinumo apibrėžimą, atstovo (agento) statuso priklausomumo ar
+
+nepriklausomumo kriterijus nustato Lietuvos Respublikos Vyriausybė arba jos
+
+įgaliota institucija.
+
+23. Nuolatinis Lietuvos gyventojas – kaip ši sąvoka apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme.
 
 24. Pajamos –
 
@@ -931,7 +961,47 @@ Respublikoje ir užsienio valstybėse uždirbtos pajamos, kurių šaltinis yra
 
 Lietuvos Respublikoje ir ne Lietuvos Respublikoje.
 
-2. Į Lietuvos vieneto pajamas taip pat įskaitomos jo kontroliuojamojo užsienio vieneto pozityviosios pajamos arba jų dalis šio Įstatymo 39 straipsnyje nustatyta tvarka. Į Lietuvos vieneto (Europos ekonominių interesų grupės dalyvio) pajamas taip pat įskaitomos tos Europos ekonominių interesų grupės pajamos šio Įstatymo 39(1) straipsnyje nustatyta tvarka.
+Pastaba. 1
+
+dalies nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio laikotarpio
+
+pelno mokestį.
+
+1.
+
+Lietuvos vieneto mokesčio bazė yra visos Lietuvos Respublikoje ir užsienio
+
+valstybėse uždirbtos pajamos, kurių šaltinis yra Lietuvos Respublikoje ir ne
+
+Lietuvos Respublikoje. Per Lietuvos vieneto nuolatines buveines, esančias Europos
+
+ekonominės erdvės valstybėse arba valstybėse, su kuriomis Lietuvos Respublika
+
+yra sudariusi ir taiko dvigubo apmokestinimo išvengimo sutartis,
+
+vykdomos veiklos pajamos nepriskiriamos Lietuvos vieneto mokesčio bazei, jeigu
+
+per šias nuolatines buveines vykdomos veiklos pajamos nustatyta tvarka
+
+apmokestinamos pelno mokesčiu ar jam tapačiu mokesčiu tose valstybėse.
+
+Pastaba. 1
+
+dalies nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių
+
+laikotarpių pelno mokestį.
+
+2. Į
+
+Lietuvos vieneto pajamas taip pat įskaitomos jo kontroliuojamojo užsienio vieneto
+
+pozityviosios pajamos arba jų dalis šio Įstatymo 39 straipsnyje nustatyta
+
+tvarka. Į Lietuvos vieneto (Europos ekonominių interesų grupės dalyvio) pajamas
+
+taip pat įskaitomos tos Europos ekonominių interesų grupės pajamos šio Įstatymo
+
+39(1) straipsnyje nustatyta tvarka.
 
 3. Užsienio vieneto mokesčio bazė
 
@@ -971,9 +1041,9 @@ Respublikoje:
 
 palūkanos, išskyrus palūkanas už Vyriausybės vertybinius popierius, sukauptas
 
-ir išmokamas palūkanas už indėlius ir palūkanas už subordinuotas paskolas, kurios
+ir išmokamas palūkanas už indėlius ir palūkanas už subordinuotas paskolas,
 
-atitinka Lietuvos banko teisės aktais nustatytus kriterijus;
+kurios atitinka Lietuvos banko teisės aktais nustatytus kriterijus;
 
 2)
 
@@ -985,9 +1055,9 @@ pajamos iš paskirstytojo pelno;
 
 4) pajamos
 
-už parduotą, kitokiu būdu perleistą nuosavybėn arba išnuomotą nekilnojamąjį pagal
+už parduotą, kitokiu būdu perleistą nuosavybėn arba išnuomotą nekilnojamąjį
 
-prigimtį daiktą, esantį Lietuvos Respublikos teritorijoje;
+pagal prigimtį daiktą, esantį Lietuvos Respublikos teritorijoje;
 
 5) kompensacijų
 
@@ -1045,11 +1115,11 @@ viršijanti 250 minimalių gyvenimo lygių (toliau – MGL) dydžio sumą.
 
 straipsnio nuostatos netaikomos laivybos vieneto pajamoms iš tarptautinio
 
-vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto
+vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos
 
-pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai
+vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais ir su juo
 
-susijusios veiklos pagal šio Įstatymo 38(1)
+tiesiogiai susijusios veiklos pagal šio Įstatymo 38(1)
 
 straipsnio nuostatas taikomas fiksuotas pelno mokestis.
 
@@ -1083,23 +1153,15 @@ X-1697,
 
 2008-07-14, Žin., 2008, Nr. 87-3457 (2008-07-31)
 
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
+
 5
 
 straipsnis. Mokesčio tarifai
 
 1. Taikomi šie pelno mokesčio tarifai:
-
-1) Lietuvos vieneto, nuolatinių buveinių
-
-apmokestinamasis pelnas apmokestinamas taikant 15 procentų mokesčio tarifą,
-
-jeigu šis Įstatymas nenustato ko kita;
-
-*Pastaba. 1
-
-dalies 1 punkto nuostatos taikomos apskaičiuojant iki 2009 metų mokestinio
-
-laikotarpio pelno mokestį.
 
 1) Lietuvos
 
@@ -1109,15 +1171,27 @@ procentų mokesčio tarifą, jeigu šis Įstatymas nenustato ko
 
 kita;
 
-*Pastaba. 1
+Pastaba. 1
 
-dalies 1 punkto nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų
+dalies 1 punkto nuostatos taikomos apskaičiuojant 2009 metų mokestinio
+
+laikotarpio pelno mokestį.
+
+1) Lietuvos
+
+vieneto, nuolatinių buveinių apmokestinamasis pelnas apmokestinamas taikant 15
+
+procentų mokesčio tarifą, jeigu šis Įstatymas nenustato ko kita;
+
+Pastaba. 1 dalies
+
+1 punkto nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų
 
 mokestinių laikotarpių pelno mokestį.
 
-[Punkto
+Punkto redakcija
 
-redakcija iki 2010-01-01]
+iki 2010-01-01:
 
 2)
 
@@ -1133,9 +1207,9 @@ straipsnio 4 dalies 1, 3 ir 5 punktuose, apmokestinamos be atskaitymų taikant
 
 nenustato ko kita;
 
-[Punkto
+Punkto redakcija
 
-redakcija nuo 2010-01-01]
+nuo 2010-01-01:
 
 2) užsienio vienetų pajamos, kurių šaltinis yra
 
@@ -1143,51 +1217,59 @@ Lietuvos Respublikoje, gautos ne per jų nuolatines buveines Lietuvos
 
 Respublikoje, išvardytos šio Įstatymo 4 straipsnio 4 dalies 3 ir 5 punktuose,
 
-apmokestinamos be atskaitymų taikant 10 procentų mokesčio tarifą, o išvardytos
+apmokestinamos be atskaitymų taikant 10 procentų mokesčio
 
-šio Įstatymo 4 straipsnio 4 dalies 4, 6 ir 7 punktuose, – taikant 20 procentų
+tarifą, o išvardytos šio Įstatymo 4 straipsnio 4 dalies 4, 6 ir 7 punktuose, –
 
-mokesčio tarifą, jeigu šis Įstatymas nenustato ko kita. Užsienio vienetų, kurie
+taikant 15 procentų mokesčio tarifą, jeigu šis Įstatymas
 
-yra įregistruoti ar kitaip organizuoti Europos ekonominės erdvės valstybėje
+nenustato ko kita. Užsienio vienetų, kurie yra įregistruoti ar kitaip
 
-arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo
+organizuoti Europos ekonominės erdvės valstybėje arba valstybėje, su kuria
 
-sutartis, pajamos, kurių šaltinis yra Lietuvos Respublikoje, gautos ne per jų
+sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, pajamos, kurių
 
-nuolatines buveines Lietuvos Respublikoje, išvardytos šio Įstatymo 4 straipsnio
+šaltinis yra Lietuvos Respublikoje, gautos ne per jų nuolatines buveines
 
-4 dalies 1 punkte, neapmokestinamos. Užsienio vienetų, kurie nėra įregistruoti
+Lietuvos Respublikoje, išvardytos šio Įstatymo 4 straipsnio 4 dalies 1 punkte,
 
-ar kitaip organizuoti Europos ekonominės erdvės valstybėje arba valstybėje, su
+neapmokestinamos. Užsienio vienetų, kurie nėra įregistruoti ar kitaip
 
-kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, pajamos,
+organizuoti Europos ekonominės erdvės valstybėje arba valstybėje, su kuria
 
-kurių šaltinis yra Lietuvos Respublikoje, gautos ne per jų nuolatines buveines
+sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, pajamos, kurių
 
-Lietuvos Respublikoje, išvardytos šio Įstatymo 4 straipsnio 4 dalies 1 punkte, apmokestinamos
+šaltinis yra Lietuvos Respublikoje, gautos ne per jų nuolatines buveines
 
-be atskaitymų taikant 10 procentų mokesčio tarifą;
+Lietuvos Respublikoje, išvardytos šio Įstatymo 4 straipsnio 4 dalies 1 punkte,
+
+apmokestinamos be atskaitymų taikant 10 procentų mokesčio
+
+tarifą;
+
+Pastaba.
+
+1 dalies 2 punkto nuostatos taikomos ir žemės ūkio veiklą vykdantiems
+
+vienetams.
+
+3 punkto
+
+redakcija iki 2010 m. sausio 1 d.:
 
 3) pajamos iš paskirstytojo pelno
 
 apmokestinamos taikant 20 procentų mokesčio tarifą;
 
-4) gauta
+3 punkto
 
-parama, panaudota ne pagal Lietuvos Respublikos labdaros ir paramos įstatyme
+redakcija nuo 2010 m. sausio 1 d.:
 
-nustatytą paramos paskirtį, taip pat iš vieno paramos teikėjo per mokestinį
+3)
 
-laikotarpį grynais pinigais gautos paramos dalis, viršijanti 250 MGL dydžio
+pajamos iš paskirstytojo pelno apmokestinamos taikant 15 procentų mokesčio
 
-sumą, apmokestinama be atskaitymų, taikant 15 procentų mokesčio tarifą.
-
-*Pastaba. 1
-
-dalies 4 punkto nuostatos taikomos apskaičiuojant iki 2009 metų mokestinio
-
-laikotarpio pelno mokestį.
+tarifą;
 
 4) gauta parama,
 
@@ -1201,17 +1283,35 @@ dydžio sumą, apmokestinama be atskaitymų, taikant 20 procentų mokesčio
 
 tarifą.
 
-*Pastaba. 1
+Pastaba. 1
 
-dalies 4 punkto nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų
+dalies 4 punkto nuostatos taikomos apskaičiuojant 2009 metų mokestinio
+
+laikotarpio pelno mokestį.
+
+4) gauta parama,
+
+panaudota ne pagal Lietuvos Respublikos labdaros ir paramos įstatyme nustatytą
+
+paramos paskirtį, taip pat iš vieno paramos teikėjo per mokestinį laikotarpį
+
+grynais pinigais gautos paramos dalis, viršijanti 250 MGL dydžio sumą,
+
+apmokestinama be atskaitymų, taikant 15 procentų mokesčio tarifą.
+
+Pastaba. 1 dalies
+
+4 punkto nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų
 
 mokestinių laikotarpių pelno mokestį.
 
-2. Vienetai (išskyrus pelno nesiekiančius),
+2.
 
-atitinkantys šioje dalyje nustatytus kriterijus, turi teisę apskaičiuodami
+Vienetai (išskyrus pelno nesiekiančius), atitinkantys šioje dalyje nustatytus
 
-apmokestinamąjį pelną taikyti vieną iš nustatytų taisyklių:
+kriterijus, turi teisę apskaičiuodami apmokestinamąjį pelną taikyti vieną iš
+
+nustatytų taisyklių:
 
 1) vienetų,
 
@@ -1229,30 +1329,6 @@ vienetų, kuriuose vidutinis sąrašuose esančių darbuotojų skaičius nevirš
 
 žmonių ir mokestinio laikotarpio pajamos neviršija 1 milijono litų,
 
-apmokestinamojo pelno dalis, atitinkanti 25 tūkstančių litų sumą, apmokestinama
-
-taikant 0 procentų mokesčio tarifą, o likusi apmokestinamojo pelno dalis –
-
-taikant 15 procentų mokesčio tarifą, išskyrus atvejus, nustatytus šio
-
-straipsnio 3 dalyje. Ši taisyklė galioja individualioms (personalinėms)
-
-įmonėms, tikrosioms ūkinėms bendrijoms ir komanditinėms (pasitikėjimo) ūkinėms
-
-bendrijoms.
-
-*Pastaba. 2
-
-dalies 2 punkto nuostatos taikomos apskaičiuojant iki 2009 metų mokestinio
-
-laikotarpio pelno mokestį.
-
-2)
-
-vienetų, kuriuose vidutinis sąrašuose esančių darbuotojų skaičius neviršija 10
-
-žmonių ir mokestinio laikotarpio pajamos neviršija 1 milijono litų,
-
 apmokestinamojo pelno dalis, atitinkanti 25 tūkstančių litų
 
 sumą, apmokestinama taikant 0 procentų mokesčio tarifą, o
@@ -1263,19 +1339,37 @@ dalyje. Ši taisyklė galioja individualioms (personalinėms) įmonėms, tikrosi
 
 ūkinėms bendrijoms ir komanditinėms (pasitikėjimo) ūkinėms bendrijoms.
 
-*Pastaba. 2
+Pastaba. 2
 
-dalies 2 punkto nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų
+dalies nuostatos taikomos apskaičiuojant 2009 metų mokestinio laikotarpio pelno
 
-mokestinių laikotarpių pelno mokestį.
+mokestį.
+
+2. Vienetų (išskyrus
+
+pelno nesiekiančių), kuriuose vidutinis sąrašuose esančių
+
+darbuotojų skaičius neviršija 10 žmonių ir mokestinio laikotarpio pajamos
+
+neviršija 500 tūkstančių litų, apmokestinamasis pelnas apmokestinamas taikant 5
+
+procentų mokesčio tarifą, išskyrus atvejus, nustatytus šio
+
+straipsnio 3 dalyje.
+
+Pastaba. 2
+
+dalies nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių
+
+laikotarpių pelno mokestį.
 
 3. Šio straipsnio 2 dalies
 
 nuostatos netaikomos:
 
-1) vienetams (individualioms (personalinėms)
+1) vienetams (individualioms (personalinėms) įmonėms),
 
-įmonėms), kurių dalyvis ar jo šeimos nariai yra ir kitų vienetų (individualių
+kurių dalyvis ar jo šeimos nariai yra ir kitų vienetų (individualių
 
 (personalinių) įmonių) dalyviai;
 
@@ -1311,22 +1405,6 @@ veiklos neviršija 1 milijono litų, apmokestinamojo pelno dalis, atitinkanti 25
 
 tūkstančių litų sumą, apmokestinama taikant 0 procentų mokesčio tarifą, o
 
-likusi apmokestinamojo pelno dalis – taikant 15 procentų mokesčio tarifą.
-
-*Pastaba. 4
-
-dalies nuostatos taikomos apskaičiuojant iki 2009 metų mokestinio laikotarpio
-
-pelno mokestį.
-
-4. Pelno
-
-nesiekiančių vienetų, kurių mokestinio laikotarpio pajamos iš ūkinės komercinės
-
-veiklos neviršija 1 milijono litų, apmokestinamojo pelno dalis, atitinkanti 25
-
-tūkstančių litų sumą, apmokestinama taikant 0 procentų mokesčio tarifą, o
-
 likusi apmokestinamojo pelno dalis – taikant 20 procentų mokesčio
 
 tarifą.
@@ -1339,55 +1417,65 @@ veiklos, vykdomos tenkinant viešuosius interesus, gautos pajamos, kurios
 
 skiriamos tokiai veiklai finansuoti.
 
-*Pastaba. 4
+Pastaba. 4
 
-dalies nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų mokestinių
+dalies nuostatos taikomos apskaičiuojant 2009 metų mokestinio laikotarpio pelno
+
+mokestį.
+
+4. Pelno
+
+nesiekiančių vienetų, kurių mokestinio laikotarpio pajamos iš ūkinės komercinės
+
+veiklos neviršija 1 milijono litų, apmokestinamojo pelno dalis, atitinkanti 25
+
+tūkstančių litų sumą, apmokestinama taikant 0 procentų mokesčio tarifą, o
+
+likusi apmokestinamojo pelno dalis – taikant 15 procentų
+
+mokesčio tarifą. Pelno nesiekiančių vienetų ūkinės
+
+komercinės veiklos pajamoms nepriskiriamos iš veiklos, vykdomos tenkinant
+
+viešuosius interesus, gautos pajamos, kurios skiriamos tokiai veiklai
+
+finansuoti.
+
+Pastaba. 4 dalies
+
+nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių
 
 laikotarpių pelno mokestį.
 
-5. Lietuvos vienetų
+5.
 
-apmokestinamasis pelnas apmokestinamas taikant 0 procentų mokesčio tarifą,
+Vienetų apmokestinamasis pelnas apmokestinamas taikant 0 procentų mokesčio
 
-jeigu:
+tarifą, jeigu:
 
-1) per mokestinį laikotarpį
+1) per
 
-vieneto darbuotojų, priklausančių Lietuvos Respublikos socialinių įmonių
+mokestinį laikotarpį vieneto darbuotojų, priklausančių Lietuvos Respublikos socialinių įmonių įstatymo 4 straipsnyje nurodytoms
 
-įstatymo 4 straipsnyje nurodytoms tikslinėms asmenų grupėms, skaičius sudaro ne
+tikslinėms asmenų grupėms, skaičius sudaro ne mažiau kaip 40 procentų metinio
 
-mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų
+vidutinio sąrašuose esančių darbuotojų skaičiaus, ir
 
-skaičiaus, ir
+2) per
 
-2) per mokestinį laikotarpį
+mokestinį laikotarpį vienetas nevykdo veiklos, įtrauktos į socialinių įmonių
 
-vienetas nevykdo veiklos, įtrauktos į socialinių įmonių neremtinų veiklos rūšių
+neremtinų veiklos rūšių sąrašą, tvirtinamą Lietuvos Respublikos Vyriausybės,
 
-sąrašą, tvirtinamą Lietuvos Respublikos Vyriausybės, arba per mokestinį
+arba per mokestinį laikotarpį iš tokios veiklos gautos pajamos sudaro ne
 
-laikotarpį iš tokios veiklos gautos pajamos sudaro ne daugiau kaip 20 procentų
-
-visų vieneto pajamų, ir
+daugiau kaip 20 procentų visų vieneto pajamų, ir
 
 3)
 
 mokestinio laikotarpio paskutinę dieną vienetai turi socialinės įmonės statusą.
 
-*Pastaba. 5
-
-dalies nuostatos taikomos apskaičiuojant iki 2009 metų mokestinio laikotarpio
-
-pelno mokestį.
-
-5. Vienetų apmokestinamasis pelnas apmokestinamas taikant 0 procentų mokesčio tarifą, jeigu:1) per mokestinį laikotarpį vieneto darbuotojų, priklausančių Lietuvos Respublikos socialinių įmonių įstatymo 4 straipsnyje nurodytoms tikslinėms asmenų grupėms, skaičius sudaro ne mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, ir2) per mokestinį laikotarpį vienetas nevykdo veiklos, įtrauktos į socialinių įmonių neremtinų veiklos rūšių sąrašą, tvirtinamą Lietuvos Respublikos Vyriausybės, arba per mokestinį laikotarpį iš tokios veiklos gautos pajamos sudaro ne daugiau kaip 20 procentų visų vieneto pajamų, ir
-
-3)
-
-mokestinio laikotarpio paskutinę dieną vienetai turi socialinės įmonės statusą.
-
-*Pastaba. 5
+Pastaba. 5
 
 dalies nuostatos taikomos apskaičiuojant 2009 metais prasidėjusio mokestinio
 
@@ -1397,9 +1485,9 @@ laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
 
 bendrovių (kooperatyvų) apmokestinamasis pelnas (ar jo dalis), proporcingai
 
-tenkantis pajininkų, kurių ūkis arba valda atitinka Lietuvos Respublikos
+tenkantis pajininkų, kurių ūkis arba valda atitinka Lietuvos Respublikos gyventojų
 
-gyventojų pajamų mokesčio įstatymo 17 straipsnio 1 dalies 23 punkte nustatytus
+pajamų mokesčio įstatymo 17 straipsnio 1 dalies 23 punkte nustatytus
 
 kriterijus, pajinių įnašų vertei paskutinę mokestinio laikotarpio dieną,
 
@@ -1425,9 +1513,9 @@ piktžolių bei materialųjį turtą, skirtą naudoti tik savo narių žemės ū
 
 veikloje.
 
-*Pastaba. 6
+Pastaba. 6 dalies
 
-dalies nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų mokestinių
+nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų mokestinių
 
 laikotarpių pelno mokestį.
 
@@ -1486,6 +1574,14 @@ Nr.
 XI-387,
 
 2009-07-22, Žin., 2009, Nr. 93-3979 (2009-08-04)
+
+Nr. XI-540,
+
+2009-12-09, Žin., 2009, Nr. 153-6881 (2009-12-28)
+
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
 6
 
@@ -2131,9 +2227,9 @@ STRAIPSNIU IR 44 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS BEI PELNO MOKESČIO
 
 ĮSTATYMO 5, 12, 26, 35, 36, 37, 53 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO
 
-PAPILDYMO 37(1) BEI 37(2) STRAIPSNIAIS IR ĮSTATYMO 3 PRIEDĖLIO PAPILDYMO
+PAPILDYMO 37(1) BEI 37(2) STRAIPSNIAIS IR ĮSTATYMO 3 PRIEDĖLIO PAPILDYMO ĮSTATYMO
 
-ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 2)
 
@@ -2165,9 +2261,9 @@ Nr. XI-75, 2008-12-18,
 
 Žin., 2008, Nr. 149-6002 (2008-12-30)
 
-PELNO MOKESČIO ĮSTATYMO 5,
+PELNO MOKESČIO ĮSTATYMO
 
-12, 26, 35, 36, 37, 53 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO
+5, 12, 26, 35, 36, 37, 53 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO
 
 37(1) BEI 37(2) STRAIPSNIAIS IR ĮSTATYMO 3 PRIEDĖLIO PAPILDYMO ĮSTATYMO 2
 
@@ -2333,9 +2429,9 @@ STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
 Šio įstatymo
 
-nuostatos taikomos apskaičiuojant 2005 metais prasidėjusio ir vėlesnių
+nuostatos taikomos apskaičiuojant 2005 metais prasidėjusio ir vėlesnių mokestinių
 
-mokestinių laikotarpių apmokestinamąjį pelną.
+laikotarpių apmokestinamąjį pelną.
 
 20.
 
@@ -2615,9 +2711,9 @@ mokesčio įstatymo nuostatas neatskaitytos formavimo savikainos sąnaudos iš
 
 pajamų atskaitomos kaip ribojamų dydžių leidžiami atskaitymai per likusius iki
 
-2006 metais prasidedančio mokestinio laikotarpio pradžios nustatytus
+2006 metais prasidedančio mokestinio laikotarpio pradžios nustatytus amortizacijos
 
-amortizacijos laikotarpius.
+laikotarpius.
 
 21.
 
@@ -2693,17 +2789,17 @@ STRAIPSNIŲ, 1 PRIEDĖLIO PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 38(1),
 
 dalių, 3 straipsnio, 6 straipsnio 1, 4, 5 ir 6 dalių, 7 straipsnio, 16
 
-straipsnio ir 17 straipsnio 2 dalies nuostatas, taikomos apskaičiuojant 2007 metais
+straipsnio ir 17 straipsnio 2 dalies nuostatas, taikomos apskaičiuojant 2007
 
-prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių
+metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių
 
 apmokestinamąjį pelną.
 
-Šio įstatymo 1
+Šio įstatymo 1 straipsnio
 
-straipsnio 2, 5, 6, 7, 8 ir 9 dalių, 3 straipsnio, 6 straipsnio 1, 4, 5 ir 6
+2, 5, 6, 7, 8 ir 9 dalių, 3 straipsnio, 6 straipsnio 1, 4, 5 ir 6 dalių, 7
 
-dalių, 7 straipsnio, 16 straipsnio ir 17 straipsnio 2 dalies nuostatos taikomos
+straipsnio, 16 straipsnio ir 17 straipsnio 2 dalies nuostatos taikomos
 
 apskaičiuojant 2006 metais prasidėjusio mokestinio laikotarpio ir vėlesnių
 
@@ -3155,15 +3251,15 @@ darbuotojų dalyvavimo priimant sprendimus, įsteigtai Europos bendrovei, kurios
 
 buveinė yra Lietuvos Respublikoje (toliau – Europos bendrovė), ar pagal 2003 m. liepos 22 d. Tarybos reglamentą (EB) Nr. 1435/2003 dėl Europos kooperatinės bendrovės (SCE)
 
-statuto ir 2003 m. liepos 22 d. Tarybos direktyvą 2003/72/EB, papildančią Europos
+statuto ir 2003 m. liepos 22 d. Tarybos direktyvą 2003/72/EB, papildančią
 
-kooperatinės bendrovės statutą dėl darbuotojų dalyvavimo, įsteigtai Europos
+Europos kooperatinės bendrovės statutą dėl darbuotojų dalyvavimo, įsteigtai
 
-kooperatinei bendrovei, kurios buveinė yra Lietuvos Respublikoje (toliau –
+Europos kooperatinei bendrovei, kurios buveinė yra Lietuvos Respublikoje
 
-Europos kooperatinė bendrovė), perkeliant registruotą buveinę į kitą Europos
+(toliau – Europos kooperatinė bendrovė), perkeliant registruotą buveinę į kitą
 
-Sąjungos valstybę narę, turto vertės padidėjimo pajamų pripažinimo ir
+Europos Sąjungos valstybę narę, turto vertės padidėjimo pajamų pripažinimo ir
 
 apmokestinimo tvarka yra nustatyta šio Įstatymo IX skyriuje.
 
@@ -3209,11 +3305,11 @@ sąnaudos, būtinos vieneto pajamoms uždirbti ar vieneto ekonominei naudai gaut
 
 jeigu šis Įstatymas nenustato ko kita. Leidžiamiems atskaitymams priskiriami
 
-Lietuvos Respublikos Vyriausybės nustatyti Ignalinos atominės elektrinės papildomi
+Lietuvos Respublikos Vyriausybės nustatyti Ignalinos atominės elektrinės
 
-atskaitymai.
+papildomi atskaitymai.
 
-*Pastaba. 1
+Pastaba. 1
 
 dalies nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio laikotarpio
 
@@ -3225,27 +3321,35 @@ atskaitymai yra visos faktiškai patirtos įprastinės tokiai veiklai vieneto
 
 sąnaudos, būtinos vieneto pajamoms uždirbti ar vieneto ekonominei naudai gauti,
 
-jeigu šis Įstatymas nenustato ko kita. Leidžiamiems atskaitymams priskiriami
+jeigu šis Įstatymas nenustato ko kita. Leidžiamiems atskaitymams taip pat
 
-Lietuvos Respublikos Vyriausybės nustatyti Ignalinos atominės elektrinės
+priskiriamos visos išlaidos darbuotojų naudai, jeigu ši darbuotojų gauta nauda
 
-papildomi atskaitymai. Vieneto (individualios įmonės, tikrosios ūkinės bendrijos,
+pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo nuostatas yra
 
-komanditinės ūkinės bendrijos) leidžiamiems atskaitymams taip pat priskiriama
+gyventojų pajamų mokesčio objektas. Leidžiamiems atskaitymams
 
-suma, nuo kurios pagal Lietuvos Respublikos valstybinio socialinio draudimo
+priskiriami Lietuvos Respublikos Vyriausybės nustatyti Ignalinos atominės
 
-įstatymo nuostatas skaičiuojamos ir mokamos vieneto dalyvio (individualios
+elektrinės papildomi atskaitymai. Vieneto (individualios įmonės, tikrosios
 
-įmonės savininko, tikrosios ūkinės bendrijos tikrojo nario, komanditinės ūkinės
+ūkinės bendrijos, komanditinės ūkinės bendrijos) leidžiamiems atskaitymams taip
 
-bendrijos tikrojo nario) valstybinio socialinio draudimo įmokos.
+pat priskiriama suma, nuo kurios pagal Lietuvos Respublikos valstybinio
 
-*Pastaba: 1 dalies nuostatos
+socialinio draudimo įstatymo nuostatas skaičiuojamos ir mokamos vieneto
 
-taikomos apskaičiuojant 2010 metais prasidėjusio mokestinio laikotarpio ir
+dalyvio (individualios įmonės savininko, tikrosios ūkinės bendrijos tikrojo
 
-vėlesnių mokestinių laikotarpių pelno mokestį.
+nario, komanditinės ūkinės bendrijos tikrojo nario) valstybinio socialinio
+
+draudimo įmokos.
+
+Pastaba. 1
+
+dalies nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių
+
+laikotarpių pelno mokestį.
 
 2. Ribojamų dydžių leidžiami
 
@@ -3279,6 +3383,24 @@ natūraliosios netekties nuostoliai;
 
 išlaidos darbuotojų naudai;
 
+Pastaba. 8
+
+punkto nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio laikotarpio
+
+pelno mokestį.
+
+8) išlaidos
+
+darbuotojų ir (arba) jų šeimos narių naudai, kuri nėra gyventojų pajamų
+
+mokesčio objektas;
+
+Pastaba. 8
+
+punkto nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių
+
+laikotarpių pelno mokestį.
+
 9) specialieji
 
 kredito įstaigų ir draudimo įmonių atidėjimai;
@@ -3307,6 +3429,10 @@ XI-387,
 
 2009-07-22, Žin., 2009, Nr. 93-3979 (2009-08-04)
 
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
+
 21 straipsnis.
 
 Komandiruočių sąnaudos
@@ -3327,55 +3453,55 @@ funkcijų, tarnybinio pavedimo ar kelti kvalifikacijos. Komandiruote taip pat
 
 laikomas individualios įmonės savininko, ūkinės bendrijos tikrojo nario, kurio
 
-darbo ir apmokėjimo už darbą tvarka numatyta bendrosios jungtinės veiklos
+darbo ir apmokėjimo už darbą tvarka numatyta bendrosios jungtinės veiklos sutartyje,
 
-sutartyje, šioje dalyje nustatyta tvarka įformintas išvykimas iš nuolatinės
+šioje dalyje nustatyta tvarka įformintas išvykimas iš nuolatinės darbo vietos
 
-darbo vietos atlikti darbo funkcijų ar kelti kvalifikacijos, taip pat pagal
+atlikti darbo funkcijų ar kelti kvalifikacijos, taip pat pagal Lietuvos
 
-Lietuvos Respublikos įstatymo „Dėl darbuotojų dalyvavimo priimant sprendimus
+Respublikos įstatymo „Dėl darbuotojų dalyvavimo priimant sprendimus Europos
 
-Europos bendrovėse“ nuostatas sudaryto specialiojo derybų komiteto, Europos
+bendrovėse“ nuostatas sudaryto specialiojo derybų komiteto, Europos bendrovės
 
-bendrovės darbo tarybos ir Europos bendrovės darbo tarybos komiteto narių
+darbo tarybos ir Europos bendrovės darbo tarybos komiteto narių išvykimas,
+
+įformintas specialiojo derybų komiteto (pirmajam specialiojo derybų komiteto
+
+posėdžiui – kompetentingo steigime dalyvaujančių vienetų organo), Europos
+
+bendrovės darbo tarybos ar Europos bendrovės darbo tarybos komiteto sprendimu,
+
+kuriame turi būti nurodyta posėdžio vieta ir trukmė, dalyvauti šio specialiojo
+
+derybų komiteto, Europos bendrovės darbo tarybos ar Europos bendrovės darbo
+
+tarybos komiteto posėdžiuose ir pagal Lietuvos Respublikos įstatymo „Dėl
+
+darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėse bendrovėse“
+
+nuostatas sudaryto specialiojo derybų komiteto, Europos kooperatinės bendrovės
+
+darbo tarybos ir Europos kooperatinės bendrovės darbo tarybos komiteto narių
 
 išvykimas, įformintas specialiojo derybų komiteto (pirmajam specialiojo derybų
 
-komiteto posėdžiui – kompetentingo steigime dalyvaujančių vienetų organo),
-
-Europos bendrovės darbo tarybos ar Europos bendrovės darbo tarybos komiteto
-
-sprendimu, kuriame turi būti nurodyta posėdžio vieta ir trukmė, dalyvauti šio
-
-specialiojo derybų komiteto, Europos bendrovės darbo tarybos ar Europos
-
-bendrovės darbo tarybos komiteto posėdžiuose ir pagal Lietuvos Respublikos
-
-įstatymo „Dėl darbuotojų dalyvavimo priimant sprendimus Europos kooperatinėse
-
-bendrovėse“ nuostatas sudaryto specialiojo derybų komiteto, Europos
-
-kooperatinės bendrovės darbo tarybos ir Europos kooperatinės bendrovės darbo
-
-tarybos komiteto narių išvykimas, įformintas specialiojo derybų komiteto (pirmajam
-
-specialiojo derybų komiteto posėdžiui – kompetentingo steigime dalyvaujančių
-
-asmenų organo), Europos kooperatinės bendrovės darbo tarybos ar Europos
-
-kooperatinės bendrovės darbo tarybos komiteto sprendimu, kuriame turi būti
-
-nurodyta posėdžio vieta ir trukmė, dalyvauti šio specialiojo derybų komiteto,
+komiteto posėdžiui – kompetentingo steigime dalyvaujančių asmenų organo),
 
 Europos kooperatinės bendrovės darbo tarybos ar Europos kooperatinės bendrovės
 
-darbo tarybos komiteto posėdžiuose ir pagal Lietuvos Respublikos įstatymo „Dėl
+darbo tarybos komiteto sprendimu, kuriame turi būti nurodyta posėdžio vieta ir
 
-darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio
+trukmė, dalyvauti šio specialiojo derybų komiteto, Europos kooperatinės
 
-ribotos atsakomybės bendrovių jungimosi“ nuostatas sudaryto specialiojo derybų
+bendrovės darbo tarybos ar Europos kooperatinės bendrovės darbo tarybos komiteto
 
-komiteto, administravimo, priežiūros ar kito organo narių išvykimas, įformintas
+posėdžiuose ir pagal Lietuvos Respublikos įstatymo „Dėl darbuotojų dalyvavimo
+
+bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės
+
+bendrovių jungimosi“ nuostatas sudaryto specialiojo derybų komiteto,
+
+administravimo, priežiūros ar kito organo narių išvykimas, įformintas
 
 specialiojo derybų komiteto (pirmajam specialiojo derybų komiteto posėdžiui –
 
@@ -3417,9 +3543,9 @@ Nr. X-936, 2006-12-05,
 
 Žin., 2006, Nr. 141-5388 (2006-12-28)
 
-Nr. X-1484, 2008-04-10,
+Nr. X-1484,
 
-Žin., 2008, Nr. 47-1749 (2008-04-24)
+2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 
 Nr.
 
@@ -3447,13 +3573,13 @@ vienetų grupės narius, informuoti.
 
 jis skiria naujiems verslo ryšiams su kitais vienetais arba fiziniais
 
-asmenimis, išskyrus vieneto darbuotojus, akcininkus, savininkus bei kontroliuojamuosius
+asmenimis, išskyrus vieneto darbuotojus, akcininkus, savininkus bei
 
-ar kontroliuojančius vienetus ar kontroliuojančius nuolatinius gyventojus,
+kontroliuojamuosius ar kontroliuojančius vienetus ar kontroliuojančius
 
-užmegzti arba esamiems pagerinti. Reprezentacinės sąnaudos patiriamos konkrečių
+nuolatinius gyventojus, užmegzti arba esamiems pagerinti. Reprezentacinės
 
-asmenų naudai.
+sąnaudos patiriamos konkrečių asmenų naudai.
 
 3. Iš pajamų
 
@@ -3521,13 +3647,13 @@ ko kita.
 
 2. Iš pajamų
 
-atskaitomos tik tos pirkimo ir sumokėto importo pridėtinės vertės mokesčio
+atskaitomos tik tos pirkimo ir sumokėto importo pridėtinės vertės mokesčio sumos,
 
-sumos, kurios neatskaitomos pagal Pridėtinės vertės mokesčio įstatymo
+kurios neatskaitomos pagal Pridėtinės vertės mokesčio įstatymo nuostatas, ir
 
-nuostatas, ir tik tais atvejais, kai šios sumos apskaičiuotos nuo šiame
+tik tais atvejais, kai šios sumos apskaičiuotos nuo šiame Įstatyme nustatytų
 
-Įstatyme nustatytų leidžiamų atskaitymų.
+leidžiamų atskaitymų.
 
 25
 
@@ -3549,11 +3675,11 @@ sąnaudų dalis, jei iki mokestinio laikotarpio šių skolų atsiradimas buvo
 
 užfiksuotas mokesčio mokėtojo apskaitos dokumentuose. Tais atvejais, kai
 
-beviltiškomis laikomų skolų atsiradimo momentu mokesčio mokėtojas pajamas pripažino
+beviltiškomis laikomų skolų atsiradimo momentu mokesčio mokėtojas pajamas
 
-pagal pinigų apskaitos principą, o pagal šio Įstatymo nuostatas perėjo prie
+pripažino pagal pinigų apskaitos principą, o pagal šio Įstatymo nuostatas
 
-pajamų pripažinimo pagal kaupimo apskaitos principą, iš pajamų, pripažįstamų
+perėjo prie pajamų pripažinimo pagal kaupimo apskaitos principą, iš pajamų, pripažįstamų
 
 pagal kaupimo apskaitos principą, atskaitoma sąnaudų dalis, tenkanti mokestiniu
 
@@ -3569,13 +3695,13 @@ beviltiškomis, jeigu mokesčio mokėtojas negali jų susigrąžinti praėjus ne
 
 mažiau kaip vieneriems metams nuo skolos sumos įtraukimo į mokesčio mokėtojo
 
-pajamas arba nuo skolų atsiradimo užfiksavimo mokesčio mokėtojo apskaitos dokumentuose,
+pajamas arba nuo skolų atsiradimo užfiksavimo mokesčio mokėtojo apskaitos
 
-arba jei skolininkas yra miręs ar paskelbtas mirusiu, arba likviduotas, arba
+dokumentuose, arba jei skolininkas yra miręs ar paskelbtas mirusiu, arba
 
-bankrutavęs. Visais šiais atvejais mokesčio mokėtojas turi įrodyti skolos
+likviduotas, arba bankrutavęs. Visais šiais atvejais mokesčio mokėtojas turi
 
-beviltiškumą ir pastangas šioms skoloms susigrąžinti.
+įrodyti skolos beviltiškumą ir pastangas šioms skoloms susigrąžinti.
 
 2. Skolų beviltiškumo ir pastangų šioms skoloms
 
@@ -3598,6 +3724,84 @@ asmenys arba jais tapo mokestiniu laikotarpiu, einančiu po to mokestinio
 laikotarpio, kurį skola buvo pripažinta beviltiška ir įtraukta į leidžiamus
 
 atskaitymus šiame straipsnyje nustatyta tvarka.
+
+26
+
+straipsnis. Įmokos ir išlaidos darbuotojų naudai
+
+1. Darbuotojų
+
+naudai mokamų įmokų suma mokestiniu laikotarpiu gali būti atskaitoma iš pajamų,
+
+jei yra mokamos:
+
+1)
+
+įmokos į dalyvių pensijų sąskaitas pensijų fonduose arba
+
+2)
+
+gyvybės draudimo įmokos, kai draudimo sutarties terminas ne trumpesnis kaip 10
+
+metų arba kai draudimo išmoka išmokama apdraustajam sulaukus pensinio amžiaus
+
+pagal Profesinių pensijų kaupimo įstatymo nuostatas,
+
+arba
+
+3)
+
+draudimo įmokos už papildomą (savanorišką) sveikatos draudimą, kai draudimo
+
+objektas yra apdraustojo sveikatos priežiūros paslaugų apmokėjimas, ir
+
+4) įmokų
+
+suma apskaičiuojama ir neviršija 25 procentų per mokestinį laikotarpį
+
+kiekvienam iš šių darbuotojų apskaičiuotų su darbo santykiais susijusių pajamų.
+
+Pastaba. 1
+
+dalies nuostatos taikomos apskaičiuojant 2009 metais prasidėjusio mokestinio
+
+laikotarpio apmokestinamąjį pelną.
+
+2. Šio
+
+straipsnio 1 dalies nuostatos taikomos sutartims, sudarytoms iki 2004 m. balandžio 30 d., jeigu įmokų gavėjas pagal šias sutartis nėra tikslinėse teritorijose
+
+įregistruotas ar kitaip organizuotas užsienio vienetas.
+
+3. Šio
+
+straipsnio 1 dalies nuostatos taikomos sutartims, sudarytoms 2004 m. gegužės 1 d. ir vėliau, jeigu įmokų gavėjas pagal šias sutartis yra vienetas, įregistruotas
+
+ar kitaip organizuotas Europos ekonominės erdvės valstybėje.
+
+4.
+
+Mokestiniu laikotarpiu iš pajamų gali būti atskaitomos vieneto tiesiogiai
+
+sumokėtos sumos Europos ekonominės erdvės valstybių ir užsienio valstybių,
+
+kurios nepriklauso Europos ekonominei erdvei, tačiau su kuriomis Lietuvos
+
+Respublika yra sudariusi dvigubo apmokestinimo išvengimo sutartis, mokymo
+
+įstaigoms už fizinių asmenų, susijusių su šiuo vienetu darbo santykiais,
+
+mokymą, kurį baigę jie įgyja aukštąjį išsilavinimą ir (arba) kvalifikaciją,
+
+jeigu šis išsilavinimas ir (arba) kvalifikacija būtini vieneto pajamoms
+
+uždirbti.
+
+Pastaba. 26
+
+straipsnio nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio laikotarpio
+
+pelno mokestį.
 
 23 straipsnis.Natūralios
 
@@ -6077,7 +6281,15 @@ veiklos daliai tenkančia mokestinių nuostolių suma.
 
 tęsia neatsižvelgdami į šio straipsnio 1, 2 ir 3 dalių nuostatas.
 
-5. Jeigu mokestiniu laikotarpiu vienetas pertvarkomas, ankstesnių mokestinių laikotarpių mokestiniai nuostoliai perkeliami tik tais atvejais, jei dėl pertvarkymo nepasikeičia vieneto savininkai ir pertvarkytas vienetas 3 metus tęsia tą pačią veiklą kaip ir iki pertvarkymo.
+5. Jeigu
+
+mokestiniu laikotarpiu vienetas pertvarkomas, ankstesnių mokestinių laikotarpių
+
+mokestiniai nuostoliai perkeliami tik tais atvejais, jei dėl pertvarkymo nepasikeičia
+
+vieneto savininkai ir pertvarkytas vienetas 3 metus tęsia tą pačią
+
+veiklą kaip ir iki pertvarkymo.
 
 6. Kai šio
 
@@ -6089,9 +6301,9 @@ nuostolius, susidariusius iki registruotos buveinės perkėlimo ir šio Įstatym
 
 nustatyta tvarka neperkeltus į kitus metus, tęsdamas šių nuostolių perkėlimą,
 
-gali perkelti vienetas, toliau vykdantis veiklą Lietuvos Respublikoje per nuolatinę
+gali perkelti vienetas, toliau vykdantis veiklą Lietuvos Respublikoje per
 
-buveinę.
+nuolatinę buveinę.
 
 Straipsnio
 
@@ -6209,9 +6421,9 @@ pelno mokesčio deklaracija;
 
 pajamas (sumas) ir apskaičiuotą bei į biudžetą sumokėtą pelno mokestį;
 
-4) užsienio vieneto, vykdančio veiklą Lietuvos Respublikoje
+4) užsienio vieneto, vykdančio veiklą Lietuvos
 
-(nuolatinės buveinės) deklaracija;
+Respublikoje (nuolatinės buveinės) deklaracija;
 
 5) deklaracija
 
@@ -6275,9 +6487,9 @@ Nr. IX-1972, 2004-01-22,
 
 Nr.
 
-X-1110, 2007-05-03, Žin.,
+X-1110, 2007-05-03,
 
-2007, Nr. 55-2126 (2007-05-19)
+Žin., 2007, Nr. 55-2126 (2007-05-19)
 
 Nr. X-1484,
 
@@ -7201,9 +7413,9 @@ sutarčių, kuriomis yra grindžiama Europos Sąjunga, pritaikomųjų pataisų.
 
 5. 2003 m. birželio 3 d. Tarybos direktyva 2003/49/EB dėl bendros apmokestinimo sistemos, taikomos
 
-palūkanų ir autorinių atlyginimų mokėjimams tarp skirtingų valstybių narių
+palūkanų ir autorinių atlyginimų mokėjimams tarp skirtingų valstybių narių asocijuotų
 
-asocijuotų bendrovių.
+bendrovių.
 
 6. 2003 m. gruodžio 22 d. Tarybos direktyva 2003/123/EB, iš dalies keičianti Direktyvą 90/435/EEB dėl
 
@@ -7331,9 +7543,9 @@ PELNO
 
 MOKESČIO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-Šio Įstatymo 1 straipsnio
+Šio Įstatymo 1
 
-nuostata taikoma apskaičiuojant pelno mokestį už 2002 metų mokestinį
+straipsnio nuostata taikoma apskaičiuojant pelno mokestį už 2002 metų mokestinį
 
 laikotarpį.
 
@@ -7371,9 +7583,9 @@ prasidėjusio mokestinio laikotarpio apmokestinamąjį pelną.
 
 Įstatymo 1 straipsnio 1 dalies, 4 straipsnio 2 dalies, 9, 11, 12 ir 15
 
-straipsnių nuostatos taikomos apskaičiuojant 2003 metais prasidėjusio ir
+straipsnių nuostatos taikomos apskaičiuojant 2003 metais prasidėjusio ir vėlesnių
 
-vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
+mokestinių laikotarpių apmokestinamąjį pelną.
 
 Šio
 
@@ -7475,11 +7687,11 @@ pinigines-daiktines loterijas rengiančių įmonių“ ir 3 dalis įsigalioja nu
 
 skirsnio 2 straipsnio 1 dalies nuostatą – išbraukti žodžius „pinigines ir
 
-pinigines-daiktines loterijas rengiančių įmonių“ ir 3 dalį, taikomas
+pinigines-daiktines loterijas rengiančių įmonių“ ir 3 dalį, taikomas apskaičiuojant
 
-apskaičiuojant 2003 metais prasidėjusio ir vėlesnių mokestinių laikotarpių
+2003 metais prasidėjusio ir vėlesnių mokestinių laikotarpių apmokestinamąjį
 
-apmokestinamąjį pelną.
+pelną.
 
 8.
 
@@ -7549,19 +7761,17 @@ PELNO MOKESČIO ĮSTATYMO 3 IR 5
 
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-Šio Įstatymo 2 straipsnio 1
+Šio Įstatymo 2 straipsnio 1 dalies
 
-dalies nuostatos taikomos apskaičiuojant 2004 metais prasidėjusio mokestinio
+nuostatos taikomos apskaičiuojant 2004 metais prasidėjusio mokestinio
 
 laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
 
 Šio Įstatymo 1 straipsnio ir 2
 
-straipsnio 2 dalies nuostatos taikomos apskaičiuojant 2005 metais prasidėjusio
+straipsnio 2 dalies nuostatos taikomos apskaičiuojant 2005 metais prasidėjusio mokestinio
 
-mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį
-
-pelną.
+laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
 
 12.
 
@@ -8493,6 +8703,10 @@ Nr. IX-2091,
 
 Užsienio vienetų dividendai
 
+1 dalies
+
+redakcija iki 2010 m. sausio 1 d.:
+
 1. Lietuvos vieneto už turimas ar nuolatinės
 
 buveinės už jai priskirtas užsienio vienetų akcijas, kapitalo dalį ar kitų
@@ -8507,25 +8721,41 @@ vienetas ar nuolatinė buveinė ne vėliau kaip iki mėnesio, einančio po mėne
 
 kurį dividendai buvo gauti, dešimtos dienos.
 
+1 dalies
+
+redakcija nuo 2010 m. sausio 1 d.:
+
+1. Lietuvos
+
+vieneto už turimas ar nuolatinės buveinės už jai priskirtas užsienio vienetų
+
+akcijas, kapitalo dalį ar kitų teisių turėjimą gaunami dividendai apmokestinami
+
+taikant 15 procentų pelno mokesčio tarifą,
+
+išskyrus šio straipsnio 2 ir 3 dalyse nustatytus atvejus. Mokestį apskaičiuoja
+
+ir sumoka į biudžetą dividendus gaunantis Lietuvos vienetas ar nuolatinė
+
+buveinė ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo
+
+gauti, dešimtos dienos.
+
 2. Lietuvos
 
 vieneto už turimas ar nuolatinės buveinės už jai priskirtas užsienio vienetų,
 
 kurie įregistruoti ar kitaip organizuoti Europos ekonominės erdvės valstybėje
 
-ir kurių pelnas yra apmokestinamas pelno mokesčiu arba jam tapačiu mokesčiu,
+ir kurių pelnas yra apmokestinamas pelno mokesčiu arba jam
 
-akcijas, kapitalo dalį ar kitų teisių turėjimą gaunami dividendai
+tapačiu mokesčiu, akcijas, kapitalo dalį ar kitų teisių turėjimą gaunami
 
-neapmokestinami, išskyrus šio Įstatymo 34 straipsnio 2 dalyje numatytas išimtis,
+dividendai neapmokestinami.
 
-kurios iš šių užsienio vienetų gaunamiems dividendams taikomos mutatis
+3. Lietuvos
 
-mutandis.
-
-3.
-
-Lietuvos vieneto ar nuolatinės buveinės gaunami dividendai iš užsienio vienetų,
+vieneto ar nuolatinės buveinės gaunami dividendai iš užsienio vienetų,
 
 nenurodytų šio straipsnio 2 dalyje, kuriuose dividendus gaunantis Lietuvos
 
@@ -8539,15 +8769,11 @@ dividendai) gauna šiuos dividendus, ne trumpiau kaip 12 mėnesių be pertraukų
 
 balsus suteikiančių akcijų (dalių, pajų), neapmokestinami, jei dividendai
 
-gaunami iš užsienio vieneto, kurio pelnas yra apmokestinamas pelno mokesčiu
+gaunami iš užsienio vieneto, kurio pelnas yra apmokestinamas pelno
 
-arba jam tapačiu mokesčiu ir kuris nėra įregistruotas ar kitaip organizuotas
+mokesčiu arba jam tapačiu mokesčiu ir kuris nėra įregistruotas ar kitaip
 
-tikslinėse teritorijose. Šioje dalyje nurodytiems iš užsienio vieneto
-
-gaunamiems dividendams mutatis mutandis taikomos šio
-
-Įstatymo 34 straipsnio 2 dalyje numatytos išimtys.
+organizuotas tikslinėse teritorijose.
 
 4. Lietuvos
 
@@ -8572,6 +8798,10 @@ Nr. X-1481, 2008-04-08,
 Nr. XI-74, 2008-12-18,
 
 Žin., 2008, Nr. 149-6001 (2008-12-30)
+
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
 36
 
@@ -8945,9 +9175,9 @@ kurios susijusios su pajamomis, faktiškai gautomis per mokestinį laikotarpį.
 
 straipsnis. Pinigų apskaitos principo taikymas
 
-1.
+1. Pinigų
 
-Pinigų apskaitos principą gali taikyti tik tie Lietuvos vienetai, kurie iki šio
+apskaitos principą gali taikyti tik tie Lietuvos vienetai, kurie iki šio
 
 Įstatymo įsigaliojimo pajamas pripažindavo pagal pinigų apskaitos principą ir
 
@@ -9005,7 +9235,9 @@ pagal šio Įstatymo nuostatas nustatyta prievolė pereiti nuo pinigų apskaitos
 
 principo prie kaupimo apskaitos principo, negali kaupimo apskaitos principo
 
-keisti į pinigų apskaitos principą iki Lietuvos vieneto likvidavimo arba pabaigos.
+keisti į pinigų apskaitos principą iki Lietuvos vieneto likvidavimo arba
+
+pabaigos.
 
 III
 
@@ -9023,9 +9255,9 @@ straipsnis. Apmokestinamasis pelnas
 
 pelną, jeigu šis straipsnis nenustato ko kita, iš pajamų:
 
-1) atimamos
+1) atimamos neapmokestinamosios
 
-neapmokestinamosios pajamos;
+pajamos;
 
 2) atskaitomi
 
@@ -9061,13 +9293,13 @@ gali būti grindžiamos tik juridinę galią turinčiais dokumentais, kurie priv
 
 turėti visus buhalterinę apskaitą reglamentuojančių teisės aktų nustatytus
 
-privalomus apskaitos dokumentų rekvizitus. Be šių rekvizitų, išlaidas, kurių pagrindu
+privalomus apskaitos dokumentų rekvizitus. Be šių rekvizitų, išlaidas, kurių
 
-pripažįstamos sąnaudos, pagrindžiančiuose dokumentuose privalo būti nurodyti ir
+pagrindu pripažįstamos sąnaudos, pagrindžiančiuose dokumentuose privalo būti
 
-kiti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyti
+nurodyti ir kiti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
 
-papildomi rekvizitai.
+nustatyti papildomi rekvizitai.
 
 5. (Neteko galios nuo 2005 m. birželio 30 d.)
 
@@ -9079,15 +9311,15 @@ užsienio vienetų arba fizinių asmenų surašytus dokumentus pripažįstamos, 
 
 šių dokumentų galima nustatyti ūkinės operacijos turinį.
 
-7. Šio straipsnio
+7. Šio
 
-nuostatos netaikomos laivybos vieneto pajamoms iš tarptautinio vežimo jūrų
+straipsnio nuostatos netaikomos laivybos vieneto pajamoms iš tarptautinio
 
-laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto
+vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos
 
-pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai
+vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais ir su juo
 
-susijusios veiklos pagal šio Įstatymo 38(1)
+tiesiogiai susijusios veiklos pagal šio Įstatymo 38(1)
 
 straipsnio nuostatas taikomas fiksuotas pelno mokestis.
 
@@ -9138,6 +9370,28 @@ straipsnyje nustatyta tvarka atskaitytas draudimo įmokas, taip pat draudimo
 išmokos dalis, viršijanti iš pajamų šio Įstatymo 26 straipsnyje nustatyta
 
 tvarka atskaitytas draudimo įmokas;
+
+Pastaba. 2
+
+punkto nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio laikotarpio
+
+pelno mokestį.
+
+2) gautos
+
+draudimo išmokos, neviršijančios prarasto turto arba patirtų nuostolių ar žalos
+
+vertės; darbuotojų naudai mokamų sugrąžintų draudimo įmokų dalis, viršijanti iš
+
+pajamų atskaitytas draudimo įmokas, taip pat draudimo išmokos dalis, viršijanti
+
+iš pajamų atskaitytas darbuotojų naudai mokamas draudimo įmokas;
+
+Pastaba. 2
+
+punkto nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių
+
+laikotarpių pelno mokestį.
 
 3) bankrutavusio vieneto pajamos,
 
@@ -9199,9 +9453,7 @@ straipsnį;
 
 12) vieneto
 
-gautas žalos atlyginimas, išskyrus šio straipsnio 2 punkte nustatytais
-
-atvejais;
+gautas žalos atlyginimas, išskyrus šio straipsnio 2 punkte nustatytais atvejais;
 
 13) (neteko
 
@@ -9225,15 +9477,17 @@ taikoma dvigubo apmokestinimo išvengimo sutartis, ir kuris yra pelno
 
 mokesčio arba jam tapataus mokesčio mokėtojas, akcijų
 
-perleidimą kitam vienetui arba fiziniam asmeniui, jei akcijas perleidžiantis vienetas
+perleidimą kitam vienetui arba fiziniam asmeniui, jei akcijas perleidžiantis
 
-ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 25 procentus balsus
+vienetas ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 25 procentus
 
-suteikiančių šio vieneto akcijų. Ši lengvata netaikoma tuo atveju, kai akcijas
+balsus suteikiančių šio vieneto akcijų. Ši lengvata netaikoma tuo atveju, kai
 
-perleidžiantis vienetas jas perleidžia šias akcijas išleidusiam vienetui;
+akcijas perleidžiantis vienetas jas perleidžia šias akcijas išleidusiam
 
-*Pastaba. 15 punkto
+vienetui;
+
+Pastaba. 15 punkto
 
 nuostatos taikomos apskaičiuojant iki 2009 metų mokestinio laikotarpio pelno
 
@@ -9265,11 +9519,11 @@ netaikoma tuo atveju, kai akcijas perleidžiantis vienetas jas perleidžia šias
 
 akcijas išleidusiam vienetui;
 
-*Pastaba. 15 punkto
+Pastaba. 15 punkto
 
-nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų mokestinių laikotarpių
+nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų mokestinių
 
-pelno mokestį.
+laikotarpių pelno mokestį.
 
 16) draudimo
 
@@ -9299,7 +9553,7 @@ tiesioginės ir kitos kompensacinės išmokos pajamų lygiui palaikyti, kurias
 
 gauna žemės ūkio veiklą vykdantys vienetai.
 
-*Pastaba.
+Pastaba.
 
 17 punkto nuostatos taikomos apskaičiuojant 2009 metų ir
 
@@ -9363,6 +9617,10 @@ Nr. XI-174,
 
 2009-02-19, Žin., 2009, Nr. 25-976 (2009-03-05)
 
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
+
 IV
 
 SKYRIUS
@@ -9399,9 +9657,9 @@ materialusis ir nematerialusis.
 
 Ilgalaikis turtas – tai turtas, kuris naudojamas vieneto
 
-pajamoms uždirbti (ekonominei naudai gauti) ilgiau kaip vienerius metus ir kurio
+pajamoms uždirbti (ekonominei naudai gauti) ilgiau kaip vienerius metus ir
 
-įsigijimo kaina ne mažesnė už vieneto pagal šio Įstatymo 1 priedėlyje
+kurio įsigijimo kaina ne mažesnė už vieneto pagal šio Įstatymo 1 priedėlyje
 
 išvardytas ilgalaikio turto grupes nustatytą kainą. Šio turto įsigijimo kaina į
 
@@ -9425,6 +9683,48 @@ fiziniams asmenims pradėjus dirbti vienete gali būti
 
 priskiriamos ilgalaikiam nematerialiajam turtui.
 
+Pastaba. 3
+
+dalies nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio laikotarpio
+
+pelno mokestį.
+
+3. Ilgalaikis
+
+turtas – tai turtas, kuris naudojamas vieneto pajamoms uždirbti (ekonominei
+
+naudai gauti) ar šio Įstatymo 26 straipsnio 2 dalyje nurodytai naudai teikti
+
+ilgiau kaip vienerius metus ir kurio įsigijimo kaina ne mažesnė už vieneto
+
+pagal šio Įstatymo 1 priedėlyje išvardytas ilgalaikio turto grupes nustatytą
+
+kainą. Šio turto įsigijimo kaina į vieneto sąnaudas įskaitoma dalimis per turto
+
+nusidėvėjimo arba amortizacijos laikotarpį. Vieneto tiesiogiai sumokėtos sumos
+
+Europos ekonominės erdvės valstybių ir užsienio valstybių, kurios nepriklauso
+
+Europos ekonominei erdvei, tačiau su kuriomis Lietuvos Respublika yra sudariusi
+
+dvigubo apmokestinimo išvengimo sutartis, mokymo įstaigoms už fizinių asmenų,
+
+kurie nėra susiję su šiuo vienetu darbo santykiais, mokymą, kurį baigę jie
+
+įgyja aukštesnįjį arba aukštąjį išsilavinimą ir (arba) kvalifikaciją, jeigu šis
+
+išsilavinimas ir (arba) kvalifikacija būtina vieneto pajamoms uždirbti, šiems
+
+fiziniams asmenims pradėjus dirbti vienete gali būti priskiriamos ilgalaikiam
+
+nematerialiajam turtui.
+
+Pastaba. 3
+
+dalies nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių
+
+laikotarpių pelno mokestį.
+
 4.
 
 Trumpalaikis turtas – tai turtas, kuris gali būti naudojamas vieneto pajamoms
@@ -9434,6 +9734,28 @@ uždirbti (ekonominei naudai gauti) trumpiau kaip vienerius metus, o jo įsigiji
 kaina į vienetui leidžiamas atskaityti sąnaudas
 
 įskaitoma tą mokestinį laikotarpį, kurį šis turtas pradėtas naudoti.
+
+Pastaba. 4
+
+dalies nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio laikotarpio
+
+pelno mokestį.
+
+4. Trumpalaikis turtas – tai
+
+turtas, kuris gali būti naudojamas vieneto pajamoms uždirbti (ekonominei naudai
+
+gauti) ar šio Įstatymo 26 straipsnio 2 dalyje nurodytai naudai teikti trumpiau
+
+kaip vienerius metus, o jo įsigijimo kaina į vienetui leidžiamas atskaityti
+
+sąnaudas įskaitoma tą mokestinį laikotarpį, kurį šis turtas pradėtas naudoti.
+
+Pastaba. 4
+
+dalies nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių
+
+laikotarpių pelno mokestį.
 
 Straipsnio
 
@@ -9454,6 +9776,10 @@ Nr. X-866, 2006-10-19,
 Nr. X-1484,
 
 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
+
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
 14
 
@@ -9521,19 +9847,19 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-866, 2006-10-19,
+Nr. X-866, 2006-10-19, Žin.,
 
-Žin., 2006, Nr. 116-4404 (2006-10-31)
+2006, Nr. 116-4404 (2006-10-31)
 
 15
 
 straipsnis. Turto pardavimo kaina
 
-1. Turto pardavimo
+1. Turto
 
-arba kitokio perleidimo nuosavybėn kaina – visos pajamos, uždirbtos pardavus
+pardavimo arba kitokio perleidimo nuosavybėn kaina – visos pajamos, uždirbtos
 
-arba kitaip perleidus nuosavybėn turtą, atėmus sumokėtus mokesčius
+pardavus arba kitaip perleidus nuosavybėn turtą, atėmus sumokėtus mokesčius
 
 (rinkliavas), išskyrus Pridėtinės vertės mokestį, susijusius su šio turto
 
@@ -9607,9 +9933,9 @@ sutartis, – per Įstatymo 1 priedėlyje atitinkamoms turto grupėms nustatytą
 
 laikotarpį, bet ne trumpesnį kaip 3 metai. Jeigu nuomos arba panaudos sutartis
 
-nutraukiama prieš terminą, likusi remonto arba rekonstravimo sąnaudų dalis,
+nutraukiama prieš terminą, likusi remonto arba rekonstravimo sąnaudų dalis, kuri
 
-kuri dar nebuvo įtraukta į leidžiamus atskaitymus, negali būti atskaitoma iš
+dar nebuvo įtraukta į leidžiamus atskaitymus, negali būti atskaitoma iš
 
 nuomininko ar panaudos gavėjo pajamų. Jei
 
@@ -9651,6 +9977,10 @@ Nr. IX-2492, 2004-10-12,
 
 Lietuvos vienetams, apmokestinimo tvarka
 
+1 dalies
+
+redakcija iki 2010 m. sausio 1 d.:
+
 1. Lietuvos vieneto gaunami dividendai už turimas
 
 Lietuvos vienetų akcijas, kapitalo dalį ar kitų teisių turėjimą apmokestinami
@@ -9661,6 +9991,22 @@ sumoka į biudžetą dividendus išmokantis Lietuvos vienetas ne vėliau kaip ik
 
 mėnesio, einančio po mėnesio, kurį dividendai buvo išmokėti, dešimtos dienos.
 
+1 dalies
+
+redakcija nuo 2010 m. sausio 1 d.:
+
+1. Lietuvos
+
+vieneto gaunami dividendai už turimas Lietuvos vienetų akcijas, kapitalo dalį
+
+ar kitų teisių turėjimą apmokestinami taikant 15 procentų pelno
+
+mokesčio tarifą. Mokestį apskaičiuoja, išskaito ir sumoka į
+
+biudžetą dividendus išmokantis Lietuvos vienetas ne vėliau kaip iki mėnesio,
+
+einančio po mėnesio, kurį dividendai buvo išmokėti, dešimtos dienos.
+
 2. Lietuvos
 
 vieneto gaunami dividendai iš Lietuvos vienetų, kuriuose dividendus gaunantis
@@ -9669,51 +10015,35 @@ Lietuvos vienetas ne trumpiau kaip 12 mėnesių be pertraukų, įskaitant divide
 
 paskirstymo momentą, valdo ne mažiau kaip 10 procentų balsus suteikiančių
 
-akcijų (dalių, pajų), pelno mokesčiu neapmokestinami ir neįtraukiami į juos
+akcijų (dalių, pajų), pelno mokesčiu neapmokestinami ir
 
-gaunančio vieneto pajamas. Jei dividendus išmokančio Lietuvos vieneto, kuris
+neįtraukiami į juos gaunančio vieneto pajamas.
 
-nėra laisvosios ekonominės zonos įmonė, apmokestinamajam pelnui yra
+3. Jeigu vienetas paskirsto pelną išmokėdamas dividendus
 
-taikomas 0 procentų pelno mokesčio tarifas arba Lietuvos vieneto
+pinigais Lietuvos Respublikos akcinių bendrovių įstatymo,
 
-apmokestinamasis pelnas (ar jo dalis) nėra apmokestintas dėl šio Įstatymo 12
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo
 
-straipsnio 5, 15, 16 punktuose, 461 straipsnyje nustatytų
+ir Lietuvos Respublikos žemės ūkio bendrovių įstatymo
 
-lengvatų, nuostata dėl dividendų neapmokestinimo netaikoma išmokamiems
+nustatyta tvarka, išskaityto pelno mokesčio
 
-dividendams, proporcingai tenkantiems faktiškai neapmokestintam (įskaitant
+suma yra užskaitoma ir sumažina dividendus gaunančio Lietuvos vieneto mokėtino pelno mokesčio sumą tą mokestinį laikotarpį,
 
-apmokestintą 0 procentų tarifu) apmokestinamajam pelnui (ar jo daliai).
+kurį buvo išskaitytas mokestis iš jam išmokėtų dividendų. Jei dividendus
 
-3. Jeigu
+gaunančio Lietuvos vieneto užskaitomo išskaityto mokesčio suma
 
-vienetas paskirsto pelną išmokėdamas dividendus pinigais Lietuvos Respublikos
+viršija to vieneto mokėtino pelno mokesčio
 
-akcinių bendrovių įstatymo, Lietuvos Respublikos kooperatinių bendrovių
+sumą tuo mokestiniu laikotarpiu, kada buvo iš išmokamų dividendų išskaitytas
 
-(kooperatyvų) įstatymo ir Lietuvos Respublikos žemės ūkio bendrovių įstatymo
+mokestis, šis skirtumas dividendus gaunančiam vienetui grąžinamas (įskaitomas)
 
-nustatyta tvarka, išskaityto pelno mokesčio suma yra užskaitoma ir sumažina
+taikant Lietuvos Respublikos mokesčių administravimo
 
-dividendus gaunančio Lietuvos vieneto mokėtino pelno mokesčio sumą tą mokestinį
-
-laikotarpį, kurį buvo išskaitytas mokestis iš jam išmokėtų dividendų. Ši
-
-nuostata netaikoma pelno mokesčio sumai, išskaitytai iš dividendų dėl šio
-
-straipsnio 2 dalyje nurodytų išlygų. Jei dividendus gaunančio Lietuvos
-
-vieneto užskaitomo išskaityto mokesčio suma viršija to vieneto mokėtino pelno
-
-mokesčio sumą tuo mokestiniu laikotarpiu, kada buvo iš išmokamų dividendų
-
-išskaitytas mokestis, šis skirtumas dividendus gaunančiam vienetui grąžinamas
-
-(įskaitomas) taikant Lietuvos Respublikos mokesčių administravimo įstatyme
-
-nustatytą mokesčių permokos grąžinimo (įskaitymo) tvarką.
+įstatyme nustatytą mokesčių permokos grąžinimo (įskaitymo) tvarką.
 
 4. Jeigu Lietuvos vienetas gauna dividendus Lietuvos
 
@@ -9721,9 +10051,9 @@ Respublikos akcinių bendrovių įstatymo, Lietuvos Respublikos kooperatinių
 
 bendrovių (kooperatyvų) įstatymo ir Lietuvos Respublikos žemės ūkio bendrovių
 
-įstatymo nustatyta tvarka, šis vienetas į pajamas iš kito Lietuvos vieneto gautų
+įstatymo nustatyta tvarka, šis vienetas į pajamas iš kito Lietuvos vieneto
 
-dividendų neįtraukia.
+gautų dividendų neįtraukia.
 
 Straipsnio
 
@@ -9747,9 +10077,17 @@ Nr. XI-74, 2008-12-18,
 
 Žin., 2008, Nr. 149-6001 (2008-12-30)
 
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
+
 34
 
 straipsnis. Dividendai, išmokami užsienio vienetams
+
+1 dalies
+
+redakcija iki 2010 m. sausio 1 d.:
 
 1. Užsienio vienetų gaunami už turimas Lietuvos
 
@@ -9763,33 +10101,33 @@ Lietuvos vienetas ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį
 
 dividendai buvo išmokėti, dešimtos dienos.
 
-2. Lietuvos
+1 dalies
 
-vieneto, kuriame dividendus gaunantis užsienio vienetas ne trumpiau kaip 12
+redakcija nuo 2010 m. sausio 1 d.:
 
-mėnesių be pertraukų, įskaitant dividendų paskirstymo momentą, valdo ne mažiau
+1. Užsienio
 
-kaip 10 procentų balsus suteikiančių akcijų (dalių, pajų), tam užsienio
+vienetų gaunami už turimas Lietuvos vieneto akcijas, kapitalo dalį ar kitų
 
-vienetui išmokami dividendai neapmokestinami, išskyrus atvejus, kai dividendus
+teisių turėjimą dividendai apmokestinami taikant 15 procentų pelno
 
-gaunantis užsienio vienetas įregistruotas ar kitaip organizuotas tikslinėse
+mokesčio tarifą. Mokestį apskaičiuoja, išskaito ir sumoka į
 
-teritorijose. Jei dividendus išmokančio Lietuvos vieneto, kuris nėra laisvosios
+biudžetą dividendus išmokantis Lietuvos vienetas ne vėliau kaip iki mėnesio,
 
-ekonominės zonos įmonė, apmokestinamajam pelnui yra taikomas 0 procentų
+einančio po mėnesio, kurį dividendai buvo išmokėti, dešimtos dienos.
 
-pelno mokesčio tarifas arba Lietuvos vieneto apmokestinamasis pelnas (ar jo
+2. Lietuvos vieneto, kuriame dividendus gaunantis
 
-dalis) nėra apmokestintas dėl šio Įstatymo 12 straipsnio 5, 15, 16 punktuose,
+užsienio vienetas ne trumpiau kaip 12 mėnesių be pertraukų, įskaitant dividendų
 
-461 straipsnyje nustatytų lengvatų, nuostata dėl dividendų
+paskirstymo momentą, valdo ne mažiau kaip 10 procentų balsus suteikiančių
 
-neapmokestinimo netaikoma išmokamiems dividendams, proporcingai tenkantiems
+akcijų (dalių, pajų), tam užsienio vienetui išmokami dividendai
 
-faktiškai neapmokestintam (įskaitant apmokestintą 0 procentų tarifu)
+neapmokestinami, išskyrus atvejus, kai dividendus gaunantis užsienio vienetas
 
-apmokestinamajam pelnui (ar jo daliai).
+įregistruotas ar kitaip organizuotas tikslinėse teritorijose.
 
 3. Nuolatinės
 
@@ -9822,6 +10160,10 @@ XI-73,
 Nr. XI-74, 2008-12-18,
 
 Žin., 2008, Nr. 149-6001 (2008-12-30)
+
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
 45 straipsnis. Turto vertės padidėjimo
 
@@ -9865,23 +10207,23 @@ deklaracijos ir avansinio pelno mokesčio deklaracijos pateikimas
 
 vienetai ir nuolatinės buveinės, kurių pajamos apmokestinamos šio Įstatymo
 
-nustatyta tvarka, privalo užpildyti metines pelno mokesčio ir (arba) metines
+nustatyta tvarka, privalo užpildyti metines pelno mokesčio ir (arba) metines fiksuoto
 
-fiksuoto pelno mokesčio bei avansinio pelno mokesčio deklaracijas ir pateikti
+pelno mokesčio bei avansinio pelno mokesčio deklaracijas ir pateikti jas tam
 
-jas tam vietos mokesčio administratoriui, kurio veiklos teritorijoje jie yra
+vietos mokesčio administratoriui, kurio veiklos teritorijoje jie yra arba
 
-arba privalo būti įregistruoti mokesčio mokėtojais. Vienetai, gautą paramą
+privalo būti įregistruoti mokesčio mokėtojais. Vienetai, gautą paramą panaudoję
 
-panaudoję ne pagal Lietuvos Respublikos labdaros ir paramos įstatyme nustatytą
+ne pagal Lietuvos Respublikos labdaros ir paramos įstatyme nustatytą paramos
 
-paramos paskirtį, taip pat iš vieno paramos teikėjo per mokestinį laikotarpį
+paskirtį, taip pat iš vieno paramos teikėjo per mokestinį laikotarpį grynais
 
-grynais pinigais gavę paramą, viršijančią 250 MGL dydžio sumą, privalo
+pinigais gavę paramą, viršijančią 250 MGL dydžio sumą, privalo užpildyti
 
-užpildyti metines pelno mokesčio deklaracijas ir pateikti jas tam vietos
+metines pelno mokesčio deklaracijas ir pateikti jas tam vietos mokesčio
 
-mokesčio administratoriui, kurio veiklos teritorijoje jie yra arba privalo būti
+administratoriui, kurio veiklos teritorijoje jie yra arba privalo būti
 
 įregistruoti mokesčio mokėtojais.
 
@@ -9993,11 +10335,11 @@ sumą, mokesčio mokėtojas privalo šį skirtumą sumokėti į biudžetą. Moke
 
 permoka grąžinama Mokesčių administravimo įstatymo nustatyta tvarka.
 
-2. Pelno mokestis,
+2. Pelno
 
-apskaičiuotas nuo pajamų (sumų), išmokėtų užsienio vienetui, turi būti
+mokestis, apskaičiuotas nuo pajamų (sumų), išmokėtų užsienio vienetui, turi
 
-sumokėtas ne vėliau kaip deklaracijos pateikimo termino pabaigos dieną.
+būti sumokėtas ne vėliau kaip deklaracijos pateikimo termino pabaigos dieną.
 
 Straipsnio 2
 
@@ -10009,9 +10351,9 @@ apmokestinimo taikymo pradžios:
 
 mokestis, apskaičiuotas nuo pajamų (sumų), išmokėtų užsienio vienetui, turi
 
-būti sumokėtas ne vėliau kaip deklaracijos pateikimo termino pabaigos dieną. Jei
+būti sumokėtas ne vėliau kaip deklaracijos pateikimo termino pabaigos dieną.
 
-Lietuvos vienetas ar nuolatinė buveinė išskaitė ir sumokėjo pelno mokestį,
+Jei Lietuvos vienetas ar nuolatinė buveinė išskaitė ir sumokėjo pelno mokestį,
 
 apskaičiuotą nuo užsienio vienetui ar jo nuolatinei buveinei išmokėtų sumų
 
@@ -10055,9 +10397,9 @@ X-1250, 2007-07-03,
 
 Žin., 2007, Nr. 80-3221 (2007-07-19)
 
-54 straipsnis. Užsienio vieneto apskaičiuoto
+54 straipsnis. Užsienio vieneto
 
-ir sumokėto pelno mokesčio
+apskaičiuoto ir sumokėto pelno mokesčio
 
 perskaičiavimas
 
@@ -10073,17 +10415,17 @@ esantį Lietuvos Respublikos teritorijoje (toliau šiame
 
 straipsnyje – turtas), turi teisę centrinio mokesčių administratoriaus
 
-nustatyta tvarka kreiptis į vietos mokesčių administratorių, kurio veiklos
+nustatyta tvarka kreiptis į vietos mokesčių administratorių, kurio veiklos teritorijoje
 
-teritorijoje įregistruotas mokestį išskaičiuojantis asmuo, dėl apskaičiuoto ir
+įregistruotas mokestį išskaičiuojantis asmuo, dėl apskaičiuoto ir sumokėto
 
-sumokėto pelno mokesčio už Lietuvos Respublikoje vykdomą veiklą ir (arba)
+pelno mokesčio už Lietuvos Respublikoje vykdomą veiklą ir (arba) parduotą ar
 
-parduotą ar kitaip perleistą nuosavybėn turtą perskaičiavimo. Šiuo atveju pelno
+kitaip perleistą nuosavybėn turtą perskaičiavimo. Šiuo atveju pelno mokestis
 
-mokestis būtų apskaičiuojamas nuo turto vertės padidėjimo pajamų ir (ar)
+būtų apskaičiuojamas nuo turto vertės padidėjimo pajamų ir (ar) veiklos
 
-veiklos Lietuvos Respublikoje apmokestinamojo pelno.
+Lietuvos Respublikoje apmokestinamojo pelno.
 
 2. Prašymas ir
 
@@ -10144,6 +10486,48 @@ užsienio valstybėje nuo toje valstybėje per tuos mokestinius metus gautų
 pajamų, atsižvelgiant į dividendus, kurie neįtraukiami į vieneto pajamas, jeigu
 
 šis straipsnis nenustato ko kita.
+
+Pastaba. 1
+
+dalies nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio laikotarpio
+
+pelno mokestį.
+
+1. Lietuvos
+
+vienetas iš šio Įstatymo nustatyta tvarka apskaičiuoto pelno mokesčio sumos,
+
+neįskaitant nuo gautos paramos, panaudotos ne pagal Lietuvos Respublikos
+
+labdaros ir paramos įstatyme nustatytą paramos paskirtį, taip pat nuo iš vieno
+
+paramos teikėjo per mokestinį laikotarpį grynais pinigais gautos paramos
+
+dalies, viršijančios 250 MGL dydžio sumą, apskaičiuotos pelno mokesčio sumos,
+
+gali atskaityti pelno mokesčio arba jam tapataus mokesčio sumą, sumokėtą
+
+užsienio valstybėje nuo toje valstybėje per tuos mokestinius metus gautų
+
+pajamų, atsižvelgiant į dividendus, kurie neįtraukiami į vieneto pajamas, išskyrus
+
+pelno mokesčio arba jam tapataus mokesčio sumą, sumokėtą nuo per Lietuvos
+
+vieneto nuolatines buveines, esančias Europos ekonominės erdvės
+
+valstybėse arba valstybėse, su kuriomis Lietuvos Respublika yra sudariusi ir
+
+taiko dvigubo apmokestinimo išvengimo sutartis, vykdomos
+
+veiklos pajamų,
+
+jeigu šis straipsnis nenustato ko kita.
+
+Pastaba. 1
+
+dalies nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių
+
+laikotarpių pelno mokestį.
 
 2. Jeigu nuo
 
@@ -10247,6 +10631,10 @@ Nr. X-1481, 2008-04-08,
 
 Žin., 2008, Nr. 47-1748 (2008-04-24)
 
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
+
 56
 
 straipsnis. Atsakomybė už šio Įstatymo pažeidimus
@@ -10257,65 +10645,21 @@ straipsnio 5 dalyje nurodytus atvejus, baudos skiriamos ir delspinigiai
 
 skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.
 
-XI
+Įstatymas
+
+papildytas X1 skyriumi:
+
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
+
+X1
 
 SKYRIUS
 
-APSKAITOS
+MOKESTINIŲ
 
-REIKALAVIMAI
-
-57
-
-straipsnis. Buhalterinės apskaitos tvarkymo reikalavimai
-
-1. Mokesčio mokėtojų buhalterinė
-
-apskaita privalo būti tvarkoma taip, kad ji teiktų pakankamą informaciją pelno
-
-mokesčiui apskaičiuoti.
-
-2. Mokesčio
-
-mokėtojai apskaitą ir atskaitomybę tvarko vadovaudamiesi Lietuvos Respublikos
-
-buhalterinės apskaitos įstatymu bei kitais teisės aktais.
-
-3. Pelno mokesčiui skaičiuoti vienetas gali naudoti
-
-buhalterinėje apskaitoje naudojamus visuotinai pripažintus pajamų, sąnaudų
-
-pripažinimo, atsargų įkainojimo metodus, jei šis Įstatymas nenustato ko kita.
-
-4.
-
-Apskaičiuojant pelno mokestį, atsargos apskaitomos „pirmasis į – pirmasis iš
-
-(FIFO)“ metodu. Centrinio mokesčio administratoriaus nustatyta tvarka mokesčio
-
-mokėtojo prašymu ir atsižvelgdamas į jo veiklos ypatybes vietos mokesčio
-
-administratorius gali leisti apskaityti atsargas taikant tą buhalterinę
-
-apskaitą reglamentuojančių teisės aktų numatytą metodą, kurį vienetas taiko
-
-sudarydamas finansinę atskaitomybę.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. IX-1659, 2003-07-01,
-
-Žin., 2003, Nr. 74-3417 (2003-07-25)
-
-XII
-
-SKYRIUS
-
-BAIGIAMOSIOS
-
-NUOSTATOS
+NUOSTOLIŲ PERDAVIMAS
 
 58 straipsnis. Perėjimo nuo vieneto
 
@@ -10469,13 +10813,15 @@ pagal faktiškai apskaičiuotą pelno (pajamų) mokesčio sumą už mokestinį
 
 laikotarpį, buvusį prieš praėjusį mokestinį laikotarpį. Mokestinio laikotarpio
 
-penktojo - dvyliktojo mėnesių pelno avansinis mokestis apskaičiuojamas pagal praėjusį
+penktojo - dvyliktojo mėnesių pelno avansinis mokestis apskaičiuojamas pagal
 
-mokestinį laikotarpį faktiškai apskaičiuotą pelno (pajamų) mokesčio sumą.
+praėjusį mokestinį laikotarpį faktiškai apskaičiuotą pelno (pajamų) mokesčio
 
-Kiekvieno mėnesio pelno avansinis mokestis sudarys atitinkamai 1/12 faktiškai
+sumą. Kiekvieno mėnesio pelno avansinis mokestis sudarys atitinkamai 1/12
 
-per minėtus mokestinius laikotarpius apskaičiuoto pelno mokesčio sumos;
+faktiškai per minėtus mokestinius laikotarpius apskaičiuoto pelno mokesčio
+
+sumos;
 
 2) vienetas,
 
@@ -10589,35 +10935,35 @@ obligacijas, jei jos išleistos po šio Įstatymo įsigaliojimo dienos. Pagal š
 
 Įstatymo 4 straipsnio nuostatas nuo 2003 m. sausio 1 d. apmokestinamos palūkanos už užsienio valstybių bankų ir tarptautinių finansinių institucijų
 
-(institucijos arba organizacijos, kurių visi nariai arba steigėjai yra kelių valstybių
+(institucijos arba organizacijos, kurių visi nariai arba steigėjai yra kelių
 
-vyriausybės, taip pat užsienio valstybių fondai ir valstybinės finansų
+valstybių vyriausybės, taip pat užsienio valstybių fondai ir valstybinės
 
-institucijos, kurių daugiau kaip 50 procentų akcijų paketo turėtojai yra
+finansų institucijos, kurių daugiau kaip 50 procentų akcijų paketo turėtojai
 
-užsienio valstybių vyriausybės), kurių sąrašas patvirtintas Lietuvos
+yra užsienio valstybių vyriausybės), kurių sąrašas patvirtintas Lietuvos
 
 Respublikos finansų ministro įsakymu, paskolas, įskaitant su tais
 
-skoliniais įsipareigojimais susijusias priemokas bei premijas, išskyrus
+skoliniais įsipareigojimais susijusias priemokas bei premijas, išskyrus Lietuvos
 
-Lietuvos Respublikos valstybei suteiktas paskolas pagal paskolų sutartis,
+Respublikos valstybei suteiktas paskolas pagal paskolų sutartis, sudarytas po
 
-sudarytas po šio Įstatymo įsigaliojimo dienos. Pagal šio Įstatymo 4 straipsnio
+šio Įstatymo įsigaliojimo dienos. Pagal šio Įstatymo 4 straipsnio nuostatas
 
-nuostatas apmokestinamos palūkanos už užsienio valstybių bankų ir tarptautinių
+apmokestinamos palūkanos už užsienio valstybių bankų ir tarptautinių finansų
 
-finansų institucijų (institucijos arba organizacijos, kurių visi nariai arba
+institucijų (institucijos arba organizacijos, kurių visi nariai arba steigėjai
 
-steigėjai yra kelių valstybių vyriausybės, taip pat užsienio valstybių fondai
+yra kelių valstybių vyriausybės, taip pat užsienio valstybių fondai ir
 
-ir valstybinės finansų institucijos, kurių daugiau kaip 50 procentų akcijų
+valstybinės finansų institucijos, kurių daugiau kaip 50 procentų akcijų paketo
 
-paketo turėtojai yra užsienio valstybių vyriausybės), kurių sąrašas
+turėtojai yra užsienio valstybių vyriausybės), kurių sąrašas patvirtintas
 
-patvirtintas Lietuvos Respublikos finansų ministro įsakymu, Lietuvos
+Lietuvos Respublikos finansų ministro įsakymu, Lietuvos Respublikos valstybei
 
-Respublikos valstybei suteiktas paskolas pagal sutartis, sudarytas po 2003 m. sausio 1 d.
+suteiktas paskolas pagal sutartis, sudarytas po 2003 m. sausio 1 d.
 
 14. Pagal šio Įstatymo 4
 
@@ -10645,43 +10991,17 @@ investicijų banko vertybinius popierius;
 
 2) pajamos iš Lietuvos
 
-Respublikos Vyriausybės ir savivaldybių bei tarptautinių finansinių
+Respublikos Vyriausybės ir savivaldybių bei tarptautinių finansinių organizacijų,
 
-organizacijų, kurių narė yra Lietuvos Respublika ir kurių steigimo sutartys yra
+kurių narė yra Lietuvos Respublika ir kurių steigimo sutartys yra ratifikuotos
 
-ratifikuotos pagal Lietuvos Respublikos tarptautinių sutarčių įstatymą, taip
+pagal Lietuvos Respublikos tarptautinių sutarčių įstatymą, taip pat iš Šiaurės
 
-pat iš Šiaurės investicijų banko vertybinių popierių pardavimo antrinėje
+investicijų banko vertybinių popierių pardavimo antrinėje rinkoje, išskyrus
 
-rinkoje, išskyrus pajamas už tarpininkavimo paslaugas, susijusias su šių
+pajamas už tarpininkavimo paslaugas, susijusias su šių popierių prekyba
 
-popierių prekyba antrinėje rinkoje.
-
-16. Iki atskiro Lietuvos
-
-Respublikos Seimo sprendimo žemės ūkio veiklą vykdančių vienetų bei
-
-kooperatinių bendrovių (kooperatyvų), parduodančių iš savo narių įsigytus šių
-
-narių pagamintus žemės ūkio produktus ir (arba) parduodančių savo nariams
-
-degalus, trąšas, sėklas, pašarus, priemones nuo kenkėjų ir piktžolių bei
-
-materialųjį turtą, skirtą naudoti tik savo narių žemės ūkio veikloje, laisvųjų
-
-ekonominių zonų įmonių, juridinių asmenų (išskyrus nurodytus šio  Įstatymo 5
-
-straipsnio 5 dalyje), kuriuose dirba riboto darbingumo asmenys, kredito unijų
-
-ir Centrinės kredito unijos apmokestinamasis pelnas apmokestinamas šioje dalyje
-
-nustatyta tvarka:
-
-*Pastaba. 16
-
-dalies pirmosios pastraipos nuostatos taikomos apskaičiuojant iki 2009 metų
-
-mokestinio laikotarpio pelno mokestį.
+antrinėje rinkoje.
 
 16. Iki atskiro Lietuvos
 
@@ -10751,29 +11071,29 @@ sudaro pajamos iš žemės ūkio veiklos arba
 
 procentus kooperatinės bendrovės (kooperatyvo) pajamų sudaro pajamos iš žemės
 
-ūkio veiklos ir (arba) pajamos už parduotus įsigytus iš savo narių šių narių
+ūkio veiklos ir (arba) pajamos už parduotus įsigytus iš savo narių šių narių pagamintus
 
-pagamintus žemės ūkio produktus ir (arba) savo nariams parduotus degalus,
+žemės ūkio produktus ir (arba) savo nariams parduotus degalus, trąšas, sėklas,
 
-trąšas, sėklas, pašarus, priemones nuo kenkėjų ir piktžolių bei materialųjį
+pašarus, priemones nuo kenkėjų ir piktžolių bei materialųjį turtą, skirtą
 
-turtą, skirtą naudoti tik savo narių žemės ūkio veikloje.
+naudoti tik savo narių žemės ūkio veikloje.
 
-2) laisvosios ekonominės zonos įmonė, kurioje
+2) laisvosios ekonominės zonos įmonė, kurioje kapitalo
 
-kapitalo investicijos pasiekė ne mažesnę kaip 1 milijono eurų sumą, 6
+investicijos pasiekė ne mažesnę kaip 1 milijono eurų sumą, 6 mokestinius
 
-mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kurį ši
+laikotarpius, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma
 
-investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitais 10 mokestinių
+buvo pasiekta, nemoka pelno mokesčio, o kitais 10 mokestinių laikotarpių jai
 
-laikotarpių jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje
+taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta
 
-dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip
+lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus
 
-75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro
+atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos
 
-pajamos iš zonoje vykdomos prekių gamybos, apdirbimo, perdirbimo,
+prekių gamybos, apdirbimo, perdirbimo,
 
 sandėliavimo veiklos, didmeninės prekybos zonoje sandėliuojamomis prekėmis ir
 
@@ -10853,11 +11173,11 @@ nustato Lietuvos Respublikos Vyriausybė;
 
 atleidžiamos nuo pelno mokesčio pirmuosius tris mokestinius laikotarpius
 
-skaičiuojant nuo jų įregistravimo Lietuvos Respublikos įstatymų nustatyta tvarka
+skaičiuojant nuo jų įregistravimo Lietuvos Respublikos įstatymų nustatyta
 
-dienos, o pradedant ketvirtuoju mokestiniu laikotarpiu, mokėtina pelno mokesčio
+tvarka dienos, o pradedant ketvirtuoju mokestiniu laikotarpiu, mokėtina pelno
 
-suma mažinama 70 procentų;
+mokesčio suma mažinama 70 procentų;
 
 *Pastaba. 16
 
@@ -10933,9 +11253,9 @@ mokestis bei išskaičiuotas (ir sumokėtas) prie šaltinio pelno mokestis
 
 kurių nuo 1997 metais prasidėjusio mokestinio laikotarpio pradžios iki 2002
 
-metais prasidėjusio mokestinio laikotarpio pradžios sudaryti specialieji atidėjimai
+metais prasidėjusio mokestinio laikotarpio pradžios sudaryti specialieji
 
-abejotiniems aktyvams dengti nebuvo įtraukti į sąnaudas, mažinančias
+atidėjimai abejotiniems aktyvams dengti nebuvo įtraukti į sąnaudas, mažinančias
 
 apmokestinamąjį pelną, šias sumas (suderintas su centriniu mokesčio
 
@@ -10943,13 +11263,13 @@ administratoriumi) įtraukia į ribojamų dydžių leidžiamus atskaitymus lygio
 
 dalimis 2002, 2003, 2004 ir 2005 metais prasidėjusiais mokestiniais
 
-laikotarpiais. Jei bankas patenkina savo skolinius reikalavimus dėl skolų
+laikotarpiais. Jei bankas patenkina savo skolinius reikalavimus dėl skolų grąžinimo,
 
-grąžinimo, tai skolos suma arba jos dalis, atitinkanti dėl jos padaryto
+tai skolos suma arba jos dalis, atitinkanti dėl jos padaryto specialiojo
 
-specialiojo atidėjimo abejotiniems aktyvams dengti dydį, pripažįstama pajamomis
+atidėjimo abejotiniems aktyvams dengti dydį, pripažįstama pajamomis skolinio
 
-skolinio reikalavimo patenkinimo momentu.
+reikalavimo patenkinimo momentu.
 
 Straipsnio
 
@@ -10991,9 +11311,9 @@ X-1110, 2007-05-03,
 
 Nr.
 
-XI-73, 2008-12-18,
+XI-73,
 
-Žin., 2008, Nr. 149-6000 (2008-12-30)
+2008-12-18, Žin., 2008, Nr. 149-6000 (2008-12-30)
 
 59
 
@@ -11147,29 +11467,39 @@ straipsnis. Ilgalaikio turto nusidėvėjimo arba amortizacijos sąnaudos
 
 yra nudėvimas arba amortizuojamas jo ilgalaikis turtas ir prestižas, jei šio
 
-Įstatymo nenustatyta kitaip. Ilgalaikio turto įsigijimo kaina į sąnaudas perkeliama
+Įstatymo nenustatyta kitaip. Ilgalaikio turto įsigijimo kaina į sąnaudas
 
-ir iš pajamų atskaitoma dalimis per šio turto nusidėvėjimo arba amortizacijos
+perkeliama ir iš pajamų atskaitoma dalimis per šio turto nusidėvėjimo arba
 
-laikotarpį, nustatomą pagal šio straipsnio 2 dalį. Apskaičiuojant pelno
+amortizacijos laikotarpį, nustatomą pagal šio straipsnio 2 dalį. Apskaičiuojant
 
-mokestį, mokslinių tyrimų ir eksperimentinės plėtros darbų sąnaudos
+pelno mokestį, mokslinių tyrimų ir eksperimentinės plėtros darbų
 
-atskaitomos iš pajamų tuo mokestiniu laikotarpiu, kurį faktiškai patiriamos.
+sąnaudos atskaitomos iš pajamų tuo mokestiniu laikotarpiu, kurį faktiškai patiriamos.
 
-2. Ilgalaikio turto grupės bei jo nusidėvėjimo arba
+2. Ilgalaikio turto grupės ir jo nusidėvėjimo arba
 
 amortizacijos maksimalūs normatyvai (metais) nustatyti šio Įstatymo 1
 
-priedėlyje. Vienetas pats nusistato (pasirenka) ilgalaikio turto nusidėvėjimo
+priedėlyje. Ilgalaikis turtas, kuris yra registruojamas atitinkamo turto
 
-arba amortizacijos laikotarpį, ne trumpesnį, negu nustatyti šio Įstatymo 1
+registre, tam tikrai ilgalaikio turto grupei gali būti priskiriamas
 
-priedėlyje ilgalaikio turto nusidėvėjimo arba amortizacijos normatyvai
+atsižvelgiant vien tik į tokio turto naudojimo paskirtį. Vienetas pats
 
-(metais), ir likvidacinę vertę, ne mažesnę kaip 1 lito ir ne didesnę kaip 10
+nusistato (pasirenka) ilgalaikio turto nusidėvėjimo arba amortizacijos
 
-procentų įsigijimo kainos.
+laikotarpį, ne trumpesnį negu nustatyti šio Įstatymo 1 priedėlyje ilgalaikio
+
+turto nusidėvėjimo arba amortizacijos normatyvai (metais), ir likvidacinę
+
+vertę, ne didesnę kaip 10 procentų įsigijimo kainos.
+
+Pastaba. 2 dalies
+
+nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų mokestinių
+
+laikotarpių pelno mokestį.
 
 3. Vienetai, kuriuose vidutinis sąrašuose esančių
 
@@ -11265,17 +11595,17 @@ padauginus iš per mokestinį laikotarpį pagamintos produkcijos ar perdirbtos
 
 žaliavos kiekio ir maksimalaus šiuo turtu pagaminamos produkcijos ar
 
-perdirbamos žaliavos kiekio santykio. Vienetas, neatsižvelgdamas į kitas šio straipsnio
+perdirbamos žaliavos kiekio santykio. Vienetas, neatsižvelgdamas į kitas šio
 
-nuostatas, pats nusistato (pasirenka), kada produkcijos metodu pradedamas
+straipsnio nuostatas, pats nusistato (pasirenka), kada produkcijos metodu
 
-nudėvėti jo įsigytas ir pradėtas naudoti ilgalaikis turtas.
+pradedamas nudėvėti jo įsigytas ir pradėtas naudoti ilgalaikis turtas.
 
 8. Jeigu vienetas ilgalaikį turtą
 
-įsigyja ir pradeda naudoti iki mokestinio laikotarpio šešto mėnesio paskutinės dienos,
+įsigyja ir pradeda naudoti iki mokestinio laikotarpio šešto mėnesio paskutinės
 
-tai įsigytą ir pradėtą naudoti ilgalaikį turtą pradedama nudėvėti arba
+dienos, tai įsigytą ir pradėtą naudoti ilgalaikį turtą pradedama nudėvėti arba
 
 amortizuoti tuo pačiu mokestiniu laikotarpiu. Jei vienetas įsigyja ir pradeda
 
@@ -11377,6 +11707,10 @@ Nr. X-1484,
 
 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
+
 19
 
 straipsnis. Nusidėvėjimo arba amortizacijos skaičiavimo apribojimai
@@ -11401,9 +11735,9 @@ nusidėvėjimą.
 
 Neskaičiuojama amortizacija paties vieneto susikurtam nematerialiajam
 
-ilgalaikiam turtui, nustatytam šio Įstatymo 1 priedėlio grupėse – įsigytos teisės
+ilgalaikiam turtui, nustatytam šio Įstatymo 1 priedėlio grupėse – įsigytos
 
-ir kitas nematerialusis turtas, bei prestižo vertei, jei šiame Įstatyme
+teisės ir kitas nematerialusis turtas, bei prestižo vertei, jei šiame Įstatyme
 
 nenustatyta kitaip.
 
@@ -11443,87 +11777,65 @@ X-1110, 2007-05-03,
 
 Žin., 2007, Nr. 55-2126 (2007-05-19)
 
-26 straipsnis.
+26 straipsnis. Išlaidos
 
-Įmokos ir išlaidos darbuotojų naudai
+darbuotojų ir (arba) jų šeimos narių naudai, kuri nėra
 
-1.
+gyventojų
 
-Lietuvos vieneto darbuotojų naudai mokamų įmokų suma mokestiniu laikotarpiu
+pajamų mokesčio objektas
 
-gali būti atskaitoma iš pajamų, jei yra mokamos:
+1. Mokestiniu
 
-1) įmokos į dalyvių
+laikotarpiu iš pajamų gali būti atskaitomos vieneto tiesiogiai sumokėtos sumos
 
-pensijų sąskaitas pensijų fonduose arba
+Europos ekonominės erdvės valstybių ir užsienio valstybių, kurios nepriklauso
 
-2) gyvybės
+Europos ekonominei erdvei, tačiau su kuriomis Lietuvos Respublika yra sudariusi
 
-draudimo įmokos, kai draudimo sutarties terminas ne trumpesnis kaip 10 metų
+dvigubo apmokestinimo išvengimo sutartis, mokymo įstaigoms už fizinių asmenų,
 
-arba kai draudimo išmoka išmokama apdraustajam sulaukus pensinio amžiaus pagal Profesinių pensijų
+susijusių su šiuo vienetu darbo santykiais, mokymą, kurį baigę jie įgyja
 
-kaupimo įstatymo nuostatas, arba
+aukštąjį išsilavinimą ir (arba) kvalifikaciją, jeigu šis išsilavinimas ir
 
-3) draudimo įmokos už papildomą
+(arba) kvalifikacija būtini vieneto pajamoms uždirbti.
 
-(savanorišką) sveikatos draudimą, kai draudimo objektas yra apdraustojo
+2. Jeigu
 
-sveikatos priežiūros paslaugų apmokėjimas, ir
+teikiant naudą vieneto darbuotojams ir (arba) jų šeimos nariams (sutuoktiniams,
 
-4) įmokų suma apskaičiuojama ir neviršija 25 procentų per mokestinį
+vaikams (įvaikiams) neįmanoma nustatyti konkretaus darbuotojo ir (arba) jo
 
-laikotarpį kiekvienam iš šių vieneto darbuotojų apskaičiuotų su darbo
+šeimos nario (sutuoktinio, vaiko (įvaikio) gautos individualios naudos, dėl
 
-santykiais susijusių pajamų.
+tokios naudos teikimo patirtos išlaidos, kurios pagal kitas šio Įstatymo
 
-*Pastaba. 1
+nuostatas nėra priskiriamos leidžiamiems atskaitymams arba ribojamų dydžių
 
-dalies nuostatos taikomos apskaičiuojant iki 2009 metų prasidėjusio mokestinio
+leidžiamiems atskaitymams, mokestiniu laikotarpiu iš pajamų gali būti
 
-laikotarpio apmokestinamąjį pelną.
+atskaitomos tik tuo atveju, kai tokios naudos teikimas numatytas vieneto
 
-1. Darbuotojų naudai mokamų įmokų suma mokestiniu laikotarpiu gali būti atskaitoma iš pajamų, jei yra mokamos:1) įmokos į dalyvių pensijų sąskaitas pensijų fonduose arba2) gyvybės draudimo įmokos, kai draudimo sutarties terminas ne trumpesnis kaip 10 metų arba kai draudimo išmoka išmokama apdraustajam sulaukus pensinio amžiaus pagal Profesinių pensijų kaupimo įstatymo nuostatas, arba3) draudimo įmokos už papildomą (savanorišką) sveikatos draudimą, kai draudimo objektas yra apdraustojo sveikatos priežiūros paslaugų apmokėjimas, ir
+kolektyvinėje sutartyje ir šia nauda be diskriminacijos ir apribojimų turi
 
-4) įmokų suma apskaičiuojama ir neviršija 25 procentų per mokestinį
+teisę naudotis visi to vieneto darbuotojai. Iš pajamų atskaitoma šioje dalyje
 
-laikotarpį kiekvienam iš šių darbuotojų apskaičiuotų su darbo santykiais
+nurodytų išlaidų suma negali viršyti 5 procentų per mokestinį laikotarpį
 
-susijusių pajamų.
+darbuotojams apskaičiuoto darbo užmokesčio (nuo kurio skaičiuojamos valstybinio
 
-*Pastaba. 1
+socialinio draudimo įmokos) sumos.
 
-dalies nuostatos taikomos apskaičiuojant 2009 metais prasidėjusio mokestinio
+Pastaba. 26
 
-laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
+straipsnio nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų
 
-2. Šio
+mokestinių laikotarpių pelno mokestį.
 
-straipsnio 1 dalies nuostatos taikomos sutartims, sudarytoms iki 2004 m. balandžio 30 d., jeigu įmokų gavėjas pagal šias sutartis nėra tikslinėse teritorijose
+Straipsnio
 
-įregistruotas ar kitaip organizuotas užsienio vienetas.
-
-3. Šio straipsnio 1 dalies nuostatos taikomos sutartims, sudarytoms 2004 m. gegužės 1 d. ir vėliau, jeigu įmokų gavėjas pagal šias sutartis yra vienetas, įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje.
-
-4.
-
-Mokestiniu laikotarpiu iš pajamų gali būti atskaitomos vieneto tiesiogiai
-
-sumokėtos sumos Europos ekonominės erdvės valstybių ir užsienio valstybių,
-
-kurios nepriklauso Europos ekonominei erdvei, tačiau su kuriomis Lietuvos
-
-Respublika yra sudariusi dvigubo apmokestinimo išvengimo sutartis, mokymo
-
-įstaigoms už fizinių asmenų, susijusių su šiuo vienetu darbo santykiais,
-
-mokymą, kurį baigę jie įgyja aukštąjį išsilavinimą ir (arba) kvalifikaciją,
-
-jeigu šis išsilavinimas ir (arba) kvalifikacija būtini vieneto pajamoms
-
-uždirbti.
-
-Straipsnio pakeitimai:
+pakeitimai:
 
 Nr.
 
@@ -11554,6 +11866,10 @@ Nr.
 X-1697,
 
 2008-07-14, Žin., 2008, Nr. 87-3457 (2008-07-31)
+
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
 27
 
@@ -11821,9 +12137,9 @@ pakeitimai:
 
 Nr.
 
-X-456, 2005-12-20,
+X-456, 2005-12-20, Žin.,
 
-Žin., 2005, Nr. 153-5635 (2005-12-31)
+2005, Nr. 153-5635 (2005-12-31)
 
 Nr. X-866, 2006-10-19,
 
@@ -11887,11 +12203,27 @@ teritorijose, gautos prekės ar suteiktos paslaugos neapmokėtos;
 
 šio Įstatymo 28 straipsnyje nustatytus atvejus;
 
+Pastaba. 1
+
+dalies 9 punkto nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio
+
+laikotarpio pelno mokestį.
+
+9) parama, išskyrus šio Įstatymo
+
+28 straipsnyje nustatytus atvejus, ir dovanos, išskyrus dovanas darbuotojams;
+
+Pastaba. 1
+
+dalies 9 punkto nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų
+
+mokestinių laikotarpių pelno mokestį.
+
 10) išmokos, nepagrįstos šio
 
-straipsnio 2 dalyje nustatytais įrodymais, bei išmokos, neapmokestintos šio Įstatymo
+straipsnio 2 dalyje nustatytais įrodymais, bei išmokos, neapmokestintos šio
 
-37 straipsnyje nustatyta tvarka;
+Įstatymo 37 straipsnyje nustatyta tvarka;
 
 11) vieneto padarytos žalos
 
@@ -11900,6 +12232,26 @@ atlyginimas;
 12) dividendai ar kitaip
 
 paskirstytas pelnas;
+
+Pastaba. 1
+
+dalies 12 punkto nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio
+
+laikotarpio pelno mokestį.
+
+12) dividendai
+
+ar kitaip paskirstytas pelnas (pelno dalis, paskirta darbuotojų naudai ar šio
+
+Įstatymo 26 straipsnio 2 dalyje nurodytai naudai teikti, nelaikoma paskirstytu
+
+pelnu);
+
+Pastaba. 1
+
+dalies 12 punkto nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų
+
+mokestinių laikotarpių pelno mokestį.
 
 13) kitos
 
@@ -11919,13 +12271,13 @@ išskyrus sąnaudas dėl išvestinių finansinių priemonių, įsigytų rizikai 
 
 perkainojimo, atlikto teisės aktų nustatyta tvarka;
 
-*16) socialinis mokestis;
+16) socialinis mokestis;
 
-*Pastaba. 16 punkto nuostatos
+Pastaba. 16 punkto nuostatos taikomos
 
-taikomos apskaičiuojant 2006 metų ir 2007 metų mokestinių laikotarpių
+apskaičiuojant 2006 metų ir 2007 metų mokestinių laikotarpių apmokestinamąjį
 
-apmokestinamąjį pelną.
+pelną.
 
 17) neapmokestinamosioms pajamoms tenkantys
 
@@ -11933,15 +12285,35 @@ leidžiami atskaitymai ir ribojamų dydžių leidžiami atskaitymai;
 
 18) sąnaudos,
 
-susijusios su pajamomis iš tarptautinio vežimo jūrų laivais ir su juo
+susijusios su pajamomis iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai
 
-tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš
+susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio
 
-tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal
+vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo
 
-šio Įstatymo 38(1) straipsnio nuostatas taikomas fiksuotas
+38(1)
 
-pelno mokestis.
+straipsnio nuostatas taikomas fiksuotas pelno mokestis;
+
+19) leidžiami
+
+atskaitymai ir ribojamų dydžių leidžiami atskaitymai, tenkantys per Lietuvos
+
+vieneto nuolatines buveines, esančias Europos ekonominės erdvės
+
+valstybėse arba valstybėse, su kuriomis Lietuvos Respublika yra sudariusi ir
+
+taiko dvigubo apmokestinimo išvengimo sutartis, vykdomos veiklos
+
+pajamoms, jeigu per šias nuolatines buveines vykdomos veiklos pajamos nustatyta
+
+tvarka apmokestinamos pelno mokesčiu ar jam tapačiu mokesčiu tose valstybėse.
+
+Pastaba. 1
+
+dalies 19 punkto nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių
+
+laikotarpių pelno mokestį.
 
 2. Lietuvos vieneto arba nuolatinės buveinės išmokos
 
@@ -12009,7 +12381,13 @@ Nr. X-1484,
 
 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 
-VII SKYRIUS
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
+
+VII
+
+SKYRIUS
 
 DIVIDENDŲ IR
 
@@ -12435,11 +12813,11 @@ faktiškąja savininke, tai jokia kita šio užsienio vieneto dalis nelaikoma š
 
 sumų mokėtoja ar faktiškąja savininke.
 
-5. Šio straipsnio nuostatos taikomos
+5. Šio straipsnio nuostatos
 
-nuolatinei buveinei, išmokančiai Įstatymo 4 straipsnio 4 dalies 1, 3 ir 5
+taikomos nuolatinei buveinei, išmokančiai Įstatymo 4 straipsnio 4 dalies 1, 3
 
-punktuose nurodytas sumas, jei šias sumas yra leidžiama atskaityti iš
+ir 5 punktuose nurodytas sumas, jei šias sumas yra leidžiama atskaityti iš
 
 nuolatinės buveinės pajamų pagal šio Įstatymo ir kitų teisės aktų nuostatas.
 
@@ -12469,11 +12847,15 @@ sausio 1 d.:
 
 asmenims paskirstyto pelno apmokestinimas pelno mokesčiu
 
+1 dalies
+
+redakcija iki 2010 m. sausio 1 d.:
+
 1.
 
-Lietuvos vieneto, kuris nėra laisvosios ekonominės zonos įmonė, fiziniams asmenims
+Lietuvos vieneto, kuris nėra laisvosios ekonominės zonos įmonė, fiziniams
 
-paskirstomas 2009 metų ir vėlesnių metų pelnas (ar jo dalis),
+asmenims paskirstomas 2009 metų ir vėlesnių metų pelnas (ar jo dalis),
 
 proporcingai tenkantis dėl šio Įstatymo 12 straipsnio 5, 15, 16 punktuose, 461 straipsnyje nustatytų lengvatų neapmokestintam ir (arba) taikant
 
@@ -12482,6 +12864,24 @@ proporcingai tenkantis dėl šio Įstatymo 12 straipsnio 5, 15, 16 punktuose, 46
 5 straipsnio 6 dalyje nurodytą atvejį, apmokestinamas taikant 20 procentų
 
 mokesčio tarifą.
+
+1 dalies
+
+redakcija nuo 2010 m. sausio 1 d.:
+
+1. Lietuvos
+
+vieneto, kuris nėra laisvosios ekonominės zonos įmonė, fiziniams asmenims
+
+paskirstomas 2009 metų ir vėlesnių metų pelnas (ar jo dalis), proporcingai
+
+tenkantis dėl šio Įstatymo 12 straipsnio 5, 15, 16 punktuose, 461
+
+straipsnyje nustatytų lengvatų neapmokestintam ir (arba) taikant 0 procentų
+
+tarifą apmokestintam apmokestinamajam pelnui, išskyrus šio Įstatymo 5
+
+straipsnio 6 dalyje nurodytą atvejį, apmokestinamas taikant 15 procentų mokesčio tarifą.
 
 2. Lietuvos
 
@@ -12511,6 +12911,10 @@ Nr. XI-174,
 
 2009-02-19, Žin., 2009, Nr. 25-976 (2009-03-05)
 
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
+
 IX
 
 SKYRIUS
@@ -12529,19 +12933,11 @@ straipsnis. Reorganizavimo ir perleidimo dalyviai ir atvejai
 
 1.
 
-Vienetų, jų dalyvių pajamos bei nuostoliai kituose šio skyriaus straipsniuose nustatyta
+Vienetų, jų dalyvių pajamos bei nuostoliai kituose šio skyriaus straipsniuose
 
-tvarka pripažįstami šiame straipsnyje nustatytais reorganizavimo ar perleidimo
+nustatyta tvarka pripažįstami šiame straipsnyje nustatytais reorganizavimo ar
 
-atvejais, kai:
-
-1) vienetų turtas, teisės ir pareigos perleidžiamos tarp Lietuvos vienetų, kurių apmokestinamasis pelnas yra apmokestinamas taikant šio Įstatymo 5 straipsnyje nustatytus 15 arba 13 procentų mokesčio tarifus, arba tarp užsienio vienetų – Europos Sąjungos valstybių narių rezidentų mokesčių tikslais, Europos Sąjungos valstybėse narėse turinčių verslo organizavimo formą, nurodytą 1990 m. liepos 23 d. Tarybos direktyvos 90/434/EB dėl bendros mokesčių sistemos, taikomos įvairių valstybių narių įmonių jungimui, skaidymui, turto perleidimui ir keitimuisi akcijomis, (toliau – Direktyva 90/434/EB) priede, ir esančių Direktyvos 90/434/EB 3 straipsnio c punkte nustatytų mokesčių mokėtojais, arba
-
-*Pastaba.
-
-1 dalies 1 punkto nuostatos taikomos apskaičiuojant iki 2009 metais
-
-prasidėjusio mokestinio laikotarpio apmokestinamąjį pelną.
+perleidimo atvejais, kai:
 
 1) vienetų
 
@@ -12565,35 +12961,39 @@ priede, ir esančių Direktyvos 90/434/EB 3 straipsnio c punkte nustatytų
 
 mokesčių mokėtojais, arba
 
-*Pastaba.
+Pastaba. 1
 
-1 dalies 1 punkto nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų
+dalies 1 punkto nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio
 
-mokestinių laikotarpių pelno mokestį.
+laikotarpio pelno mokestį.
 
-2)
+1) vienetų
 
-vienetų turtas, teisės ir pareigos perleidžiamos tarp Lietuvos vienetų, kurių
+turtas, teisės ir pareigos perleidžiamos tarp Lietuvos vienetų, kurių
 
 apmokestinamasis pelnas yra apmokestinamas taikant šio Įstatymo 5 straipsnyje
 
-nustatytus 15 arba 13 procentų mokesčio tarifus, ir užsienio
+nustatytus 15 arba 5 procentų mokesčio tarifus, arba tarp
 
-vienetų – Europos Sąjungos valstybių narių rezidentų mokesčių tikslais, Europos
+užsienio vienetų – Europos Sąjungos valstybių narių rezidentų mokesčių
 
-Sąjungos valstybėse narėse turinčių verslo organizavimo formą, nurodytą Direktyvos
+tikslais, Europos Sąjungos valstybėse narėse turinčių verslo organizavimo
 
-90/434/EB
+formą, nurodytą 1990 m. liepos 23 d. Tarybos direktyvos 90/434/EB dėl bendros
+
+mokesčių sistemos, taikomos įvairių valstybių narių įmonių jungimui, skaidymui,
+
+turto perleidimui ir keitimuisi akcijomis, (toliau – Direktyva 90/434/EB)
 
 priede, ir esančių Direktyvos 90/434/EB 3 straipsnio c punkte nustatytų
 
 mokesčių mokėtojais, arba
 
-*Pastaba.
+Pastaba. 1
 
-1 dalies 2 punkto nuostatos taikomos apskaičiuojant iki 2009 metais
+dalies 1 punkto nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų
 
-prasidėjusio mokestinio laikotarpio apmokestinamąjį pelną.
+mokestinių laikotarpių pelno mokestį.
 
 2) vienetų
 
@@ -12611,9 +13011,31 @@ Direktyvos 90/434/EB priede, ir esančių Direktyvos 90/434/EB 3 straipsnio c
 
 punkte nustatytų mokesčių mokėtojais, arba
 
-*Pastaba.
+Pastaba. 1
 
-1 dalies 2 punkto nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų
+dalies 2 punkto nuostatos taikomos apskaičiuojant iki 2010 metų mokestinio
+
+laikotarpio pelno mokestį.
+
+2) vienetų
+
+turtas, teisės ir pareigos perleidžiamos tarp Lietuvos vienetų, kurių
+
+apmokestinamasis pelnas yra apmokestinamas taikant šio Įstatymo 5 straipsnyje
+
+nustatytus 15 arba 5 procentų mokesčio tarifus, ir užsienio
+
+vienetų – Europos Sąjungos valstybių narių rezidentų mokesčių tikslais, Europos
+
+Sąjungos valstybėse narėse turinčių verslo organizavimo formą, nurodytą
+
+Direktyvos 90/434/EB priede, ir esančių Direktyvos 90/ 434/EB 3 straipsnio c
+
+punkte nustatytų mokesčių mokėtojais, arba
+
+Pastaba. 1
+
+dalies 2 punkto nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų
 
 mokestinių laikotarpių pelno mokestį.
 
@@ -12701,11 +13123,11 @@ momentu jos pereina dviem ar daugiau jau esančių ar naujai kuriamų vienetų
 
 įsigyjančiųjų vienetų akcijų (dalių, pajų); jei, keičiant įsigyjamojo vieneto
 
-akcijas į įsigyjančiųjų vienetų akcijas, akcijų kainų skirtumas apmokamas pinigais
+akcijas į įsigyjančiųjų vienetų akcijas, akcijų kainų skirtumas apmokamas
 
-– tai ne daugiau kaip 10 procentų akcijų nominalios vertės arba, kai nominalios
+pinigais – tai ne daugiau kaip 10 procentų akcijų nominalios vertės arba, kai
 
-vertės nėra, ne daugiau kaip 10 procentų balansinės akcijų vertės;
+nominalios vertės nėra, ne daugiau kaip 10 procentų balansinės akcijų vertės;
 
 5)
 
@@ -12723,9 +13145,9 @@ veiklos dalis), vienam ar keliems naujai kuriamiems ar jau esantiems vienetams
 
 perleidžiančiojo vieneto dalyviai vietoj turėtų perleidžiančiojo vieneto akcijų
 
-(dalių, pajų) proporcingai mainais gauna išleistų įsigyjančiųjų vienetų akcijų (dalių,
+(dalių, pajų) proporcingai mainais gauna išleistų įsigyjančiųjų vienetų akcijų
 
-pajų); jei, keičiant veiklos dalis perleidžiančio vieneto akcijas į
+(dalių, pajų); jei, keičiant veiklos dalis perleidžiančio vieneto akcijas į
 
 įsigyjančiųjų vienetų akcijas, akcijų kainų skirtumas apmokamas pinigais – tai
 
@@ -12777,11 +13199,11 @@ atskiria dalį, kuriai proporcingai priskirtų turto, nuosavo kapitalo ir
 
 9)
 
-vienetas (Europos bendrovė ar Europos kooperatinė bendrovė), kuris nėra
+vienetas (Europos bendrovė ar Europos kooperatinė bendrovė), kuris nėra likviduojamas
 
-likviduojamas ar nėra sukuriamas naujas vienetas, perkelia registruotą buveinę
+ar nėra sukuriamas naujas vienetas, perkelia registruotą buveinę į kitą Europos
 
-į kitą Europos Sąjungos valstybę narę.
+Sąjungos valstybę narę.
 
 3. Kai
 
@@ -12831,9 +13253,13 @@ X-1697,
 
 Nr.
 
-XI-73, 2008-12-18,
+XI-73,
 
-Žin., 2008, Nr. 149-6000 (2008-12-30)
+2008-12-18, Žin., 2008, Nr. 149-6000 (2008-12-30)
+
+Nr. XI-539,
+
+2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
 42
 
@@ -12999,11 +13425,11 @@ Apmokestinamojo pelno sumažinimas dėl vykdomo investicinio projekto
 
 vykdantis investicinį projektą, apmokestinamąjį pelną gali
 
-sumažinti šiame straipsnyje nustatyta tvarka. Apmokestinamąjį pelną galima
+sumažinti šiame straipsnyje nustatyta tvarka. Apmokestinamąjį pelną galima sumažinti
 
-sumažinti per mokestinį laikotarpį, už kurį apskaičiuotas apmokestinamasis
+per mokestinį laikotarpį, už kurį apskaičiuotas apmokestinamasis pelnas
 
-pelnas mažinamas, faktiškai patirtų išlaidų šioje dalyje nurodytus reikalavimus
+mažinamas, faktiškai patirtų išlaidų šioje dalyje nurodytus reikalavimus
 
 atitinkančiam turtui įsigyti dydžiu. Apmokestinamasis pelnas mažinamas, jeigu
 
@@ -13085,11 +13511,11 @@ ir apmokestinant praėjusių mokestinių laikotarpių apmokestinamuosius pelnus.
 
 ketinantis sumažinti apmokestinamąjį pelną dėl vykdomo investicinio projekto,
 
-pradėjęs vykdyti investicinį projektą, apie tai centrinio
+pradėjęs vykdyti investicinį projektą, apie tai centrinio mokesčių
 
-mokesčių administratoriaus nustatyta tvarka ir terminais turi informuoti vietos
+administratoriaus nustatyta tvarka ir terminais turi informuoti vietos mokesčių
 
-mokesčių administratorių.
+administratorių.
 
 Įstatymas
 
@@ -13129,19 +13555,19 @@ mokėtojai avansinio pelno mokesčio sumą apskaičiuoja šia tvarka:
 
 rezultatus. Avansinis pelno mokestis už pirmuosius devynis mokestinio
 
-laikotarpio mėnesius apskaičiuojamas pagal faktiškai apskaičiuotą pelno mokesčio
+laikotarpio mėnesius apskaičiuojamas pagal faktiškai apskaičiuotą pelno
 
-sumą už mokestinį laikotarpį, buvusį prieš praėjusį mokestinį laikotarpį.
+mokesčio sumą už mokestinį laikotarpį, buvusį prieš praėjusį mokestinį
 
-Avansinis pelno mokestis už dešimtą – dvyliktą mokestinio laikotarpio mėnesius
+laikotarpį. Avansinis pelno mokestis už dešimtą – dvyliktą mokestinio
 
-apskaičiuojamas pagal praėjusį mokestinį laikotarpį faktiškai apskaičiuotą
+laikotarpio mėnesius apskaičiuojamas pagal praėjusį mokestinį laikotarpį faktiškai
 
-pelno mokesčio sumą. Kiekvieno ketvirčio avansinis pelno mokestis sudarys
+apskaičiuotą pelno mokesčio sumą. Kiekvieno ketvirčio avansinis pelno mokestis
 
-atitinkamai 1/4 faktiškai per minėtus mokestinius laikotarpius apskaičiuoto
+sudarys atitinkamai 1/4 faktiškai per minėtus mokestinius laikotarpius
 
-pelno mokesčio sumos;
+apskaičiuoto pelno mokesčio sumos;
 
 2) pagal
 
@@ -13238,4 +13664,224 @@ straipsnis. Pelno mokesčio apskaičiavimo momentas
 Pelno mokestis
 
 apskaičiuojamas pagal paskutinės mokestinio laikotarpio dienos būklę.
+
+561 straipsnis. Mokestinių
+
+nuostolių perdavimas tarp vienetų grupės vienetų
+
+1. Vienetas
+
+šiame straipsnyje nustatyta tvarka gali perduoti už mokestinį laikotarpį
+
+apskaičiuotus mokestinius nuostolius (ar jų dalį) kitam vienetų grupės
+
+vienetui, kuris jam perduotais nuostoliais turi teisę sumažinti apmokestinamojo
+
+pelno sumą, apskaičiuotą už tą mokestinį laikotarpį, už kurį buvo apskaičiuoti
+
+jam kito vieneto perduodami nuostoliai (ar jų dalis), jeigu:
+
+1) vienetų
+
+grupėje patronuojantis vienetas mokestinių nuostolių perdavimo dieną tiesiogiai
+
+arba netiesiogiai valdo ne mažiau kaip 2/3 kiekvieno mokestinių nuostolių
+
+perdavime dalyvaujančio dukterinio vieneto akcijų (dalių,
+
+pajų) ar kitų teisių į paskirstytinojo pelno dalį, ir
+
+2) mokestiniai
+
+nuostoliai perduodami tarp vienetų grupės vienetų, kurie toje grupėje be
+
+pertraukų yra ne trumpiau kaip dvejus metus skaičiuojant iki mokestinių
+
+nuostolių perdavimo dienos, arba
+
+3) mokestinius
+
+nuostolius perduoda ar perima vienetų grupės vienetas (vienetai), kuris (kurie)
+
+toje grupėje yra nuo jo (jų) įregistravimo dienos ir bus vienetų grupėje be
+
+pertraukų ne trumpiau kaip dvejus metus skaičiuojant nuo jo (jų) įregistravimo
+
+dienos.
+
+2. Šiame
+
+straipsnyje nustatyta tvarka perduotais mokestiniais nuostoliais, patirtais dėl
+
+vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo, gali būti
+
+sumažinta tik iš vertybinių popierių ir (arba) išvestinių finansinių priemonių
+
+perleidimo veiklos apskaičiuota apmokestinamojo pelno suma.
+
+3. Šiame
+
+straipsnyje nustatyta tvarka perduotų mokestinių nuostolių juos perdavęs
+
+vienetas negali priskirti ribojamų dydžių leidžiamiems atskaitymams šio
+
+Įstatymo 30 straipsnyje nustatyta tvarka.
+
+4. Šiame
+
+straipsnyje nustatyta tvarka užsienio vienetas Lietuvos vienetui mokestinius
+
+nuostolius (ar jų dalį) gali perduoti tik tuo atveju, jeigu:
+
+1) užsienio
+
+vienetas yra Europos
+
+Sąjungos valstybės narės rezidentas mokesčių tikslais, Europos Sąjungos
+
+valstybėje narėje turintis verslo organizavimo formą, nurodytą Direktyvos
+
+90/434/EB priede, ir esantis Direktyvos 90/434/EB 3 straipsnio c punkte
+
+nustatyto mokesčio mokėtojas, ir
+
+2) užsienio
+
+vieneto perduodami mokestiniai nuostoliai negali būti perkeliami į kitus jo
+
+mokestinius metus (ar atskaitomi iš jo pajamų (pelno) pagal Europos
+
+Sąjungos valstybės
+
+narės, kurios rezidentas mokesčių tikslais yra nuostolius perduodantis užsienio
+
+vienetas, teisės aktų reikalavimus, ir
+
+3) užsienio
+
+vieneto perduodami mokestiniai nuostoliai yra apskaičiuoti (perskaičiuoti)
+
+pagal šio Įstatymo nuostatas.
+
+5. Paaiškėjus,
+
+kad mokestiniai nuostoliai, kuriais buvo sumažinta juos perėmusio Lietuvos
+
+vieneto apskaičiuota apmokestinamojo pelno suma, buvo apskaičiuoti neteisingai,
+
+turi būti atitinkamai padidinta mokestinius nuostolius perėmusio Lietuvos
+
+vieneto dėl tokio perėmimo sumažinta apmokestinamojo pelno suma. Jeigu
+
+mokestinius nuostolius juos perdavęs vienetas apskaičiavo neteisingai, o kitam
+
+vienetui yra perdavęs tik dalį nuostolių, laikoma, kad pirmiausiai buvo
+
+perduoti neteisingai apskaičiuoti nuostoliai.
+
+6. Jeigu šiame
+
+straipsnyje nustatyta tvarka mokestiniai nuostoliai (ar jų dalis) perduodami už
+
+atlygį, tai dėl tokio perdavimo gautas atlygis nelaikomas jį gavusio Lietuvos
+
+vieneto pajamomis, o patirtos išlaidos nelaikomos jas patyrusio Lietuvos
+
+vieneto leidžiamais atskaitymais.
+
+7. Vienetas,
+
+turintis mokestinę nepriemoką, negali šiame straipsnyje nustatyta tvarka
+
+perduoti mokestinių nuostolių kitam vienetui.
+
+8.
+
+Vienetas šiame straipsnyje nustatyta tvarka už mokestinį laikotarpį
+
+apskaičiuotų mokestinių nuostolių perduoti negali, jeigu apmokestinamojo pelno
+
+apskaičiavimo už tą mokestinį laikotarpį atveju vienetas pelno arba jam
+
+tapataus mokesčio nemokėtų dėl vienetui taikytinų lengvatų (apmokestinamasis
+
+pelnas būtų buvęs apmokestintas taikant 0 procentų mokesčio tarifą arba
+
+vienetas būtų buvęs atleistas nuo mokesčio mokėjimo).
+
+Šio įstatymo 16
+
+straipsnyje nustatyta tvarka gali būti perduodami tik už 2010 metų mokestinį
+
+laikotarpį ir už vėlesnius mokestinius laikotarpius apskaičiuoti mokestiniai
+
+nuostoliai.
+
+Pastaba.
+
+561 straipsnyje nustatyta tvarka gali būti perduodami tik už 2010
+
+metų mokestinį laikotarpį ir už vėlesnius mokestinius laikotarpius apskaičiuoti
+
+mokestiniai nuostoliai.
+
+XI
+
+SKYRIUS
+
+APSKAITOS
+
+REIKALAVIMAI
+
+57
+
+straipsnis. Buhalterinės apskaitos tvarkymo reikalavimai
+
+1. Mokesčio mokėtojų buhalterinė
+
+apskaita privalo būti tvarkoma taip, kad ji teiktų pakankamą informaciją pelno
+
+mokesčiui apskaičiuoti.
+
+2. Mokesčio
+
+mokėtojai apskaitą ir atskaitomybę tvarko vadovaudamiesi Lietuvos Respublikos
+
+buhalterinės apskaitos įstatymu bei kitais teisės aktais.
+
+3. Pelno mokesčiui skaičiuoti vienetas gali naudoti
+
+buhalterinėje apskaitoje naudojamus visuotinai pripažintus pajamų, sąnaudų
+
+pripažinimo, atsargų įkainojimo metodus, jei šis Įstatymas nenustato ko kita.
+
+4.
+
+Apskaičiuojant pelno mokestį, atsargos apskaitomos „pirmasis į – pirmasis iš
+
+(FIFO)“ metodu. Centrinio mokesčio administratoriaus nustatyta tvarka mokesčio
+
+mokėtojo prašymu ir atsižvelgdamas į jo veiklos ypatybes vietos mokesčio
+
+administratorius gali leisti apskaityti atsargas taikant tą buhalterinę
+
+apskaitą reglamentuojančių teisės aktų numatytą metodą, kurį vienetas taiko
+
+sudarydamas finansinę atskaitomybę.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-1659, 2003-07-01,
+
+Žin., 2003, Nr. 74-3417 (2003-07-25)
+
+XII
+
+SKYRIUS
+
+BAIGIAMOSIOS
+
+NUOSTATOS
 
